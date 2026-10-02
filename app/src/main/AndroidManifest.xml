@@ -13,6 +13,9 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- Reciting from memory: the phone listens and follows the words. Heard on the
+         phone only, never recorded to a file nor sent. Asked when first used. -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <!-- Downloads kept for offline use go on in the background, with their progress shown. -->
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
 

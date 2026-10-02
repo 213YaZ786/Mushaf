@@ -72,7 +72,9 @@ fun PageView(
     show: (Word) -> WordShow,
     onTap: () -> Unit,
     onLongPress: (Word) -> Unit,
-    modifier: Modifier = Modifier
+    modifier: Modifier = Modifier,
+    /** A tap on a word, before the page's own tap; true when it was used. */
+    onWordTap: (Word) -> Boolean = { false }
 ) {
     val measurer = rememberTextMeasurer(cacheSize = 64)
     val density = LocalDensity.current
@@ -138,6 +140,7 @@ fun PageView(
                                 heardWord = heardWord,
                                 show = show,
                                 onTap = onTap,
+                                onWordTap = onWordTap,
                                 onLongPress = onLongPress
                             )
                             null -> Unit
@@ -163,6 +166,7 @@ private fun WordsLine(
     heardWord: Int?,
     show: (Word) -> WordShow,
     onTap: () -> Unit,
+    onWordTap: (Word) -> Boolean,
     onLongPress: (Word) -> Unit
 ) {
     Layout(
@@ -174,7 +178,7 @@ private fun WordsLine(
                 Box(
                     Modifier
                         .then(if (marked == w.key) Modifier.background(mark, RoundedCornerShape(6.dp)) else Modifier)
-                        .pointerInput(w) { detectTapGestures(onTap = { onTap() }, onLongPress = { onLongPress(w) }) }
+                        .pointerInput(w) { detectTapGestures(onTap = { if (!onWordTap(w)) onTap() }, onLongPress = { onLongPress(w) }) }
                 ) {
                     val text = when {
                         hidden == WordShow.FIRST_LETTER && !glyphs -> w.text.take(firstLetterLength(w.text))

@@ -28,6 +28,10 @@ object Net {
         "cdn.jsdelivr.net",
         "raw.githubusercontent.com",
         "everyayah.com",
+        // The app's own releases: the speech model, and later its updates.
+        "github.com",
+        "objects.githubusercontent.com",
+        "release-assets.githubusercontent.com",
         "huggingface.co"
     )
 

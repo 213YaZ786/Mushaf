@@ -8,11 +8,18 @@
   "tajweedFont": [
     "https://verses.quran.foundation/fonts/quran/hafs/v4/colrv1/ttf/p{page}.ttf"
   ],
-  "quranCom": ["https://api.quran.com/api/v4"],
-  "recitations": ["https://api.quran.com/api/qdc"],
+  "quranCom": [
+    "https://api.quran.com/api/v4"
+  ],
+  "recitations": [
+    "https://api.quran.com/api/qdc"
+  ],
   "fawaz": [
     "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1",
     "https://raw.githubusercontent.com/fawazahmed0/quran-api/1"
   ],
-  "fontHashes": {}
+  "fontHashes": {},
+  "stt": [
+    "https://github.com/213YaZ786/Mushaf/releases/download/stt-1/{file}"
+  ]
 }

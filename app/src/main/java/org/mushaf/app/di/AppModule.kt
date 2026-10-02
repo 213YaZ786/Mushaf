@@ -9,6 +9,10 @@ import org.mushaf.app.data.quran.PageFonts
 import org.mushaf.app.data.quran.Quran
 import org.mushaf.app.data.sources.Sources
 import org.mushaf.app.data.offline.Offline
+import org.mushaf.app.data.hifz.Hifz
+import org.mushaf.app.feature.hifz.HifzSession
+import org.mushaf.app.data.stt.Recogniser
+import org.mushaf.app.feature.recite.Recite
 import org.mushaf.app.data.quran.Search
 import org.mushaf.app.data.quran.Tafsir
 import org.mushaf.app.data.quran.Translations
@@ -31,5 +35,9 @@ val appModule = module {
     single { Search(get(), get()) }
     single { Recitations(androidContext(), get()) }
     single { Offline(androidContext(), get()) }
+    single { Hifz(androidContext(), get()) }
+    single { HifzSession(get(), get()) }
+    single { Recogniser(androidContext(), get()) }
+    single { Recite(get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
     single { Listen(androidContext(), get(), get(), get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
 }

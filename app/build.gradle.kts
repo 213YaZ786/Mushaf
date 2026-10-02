@@ -16,6 +16,21 @@ android {
         targetSdk = 37
         versionCode = 1
         versionName = "0.1.0"
+        // The speech recogniser's engine (whisper.cpp), for the phones of today and the emulator.
+        ndk { abiFilters += listOf("arm64-v8a", "armeabi-v7a", "x86_64") }
+        externalNativeBuild {
+            cmake {
+                arguments += listOf("-DANDROID_STL=c++_static", "-DCMAKE_BUILD_TYPE=Release")
+            }
+        }
+    }
+
+    ndkVersion = "25.1.8937393"
+
+    externalNativeBuild {
+        cmake {
+            path = file("src/main/cpp/CMakeLists.txt")
+        }
     }
 
     signingConfigs {

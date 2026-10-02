@@ -70,6 +70,9 @@ import org.mushaf.app.ui.component.FloatingTop
 import org.mushaf.app.ui.component.rememberHaptics
 import org.mushaf.app.ui.icon.AppIcons
 import org.mushaf.app.feature.listen.Listen
+import org.mushaf.app.feature.hifz.HifzPane
+import org.mushaf.app.feature.hifz.HifzSession
+import androidx.compose.foundation.layout.Column
 import org.mushaf.app.data.audio.Recitations
 import org.mushaf.app.data.offline.Pack
 import org.mushaf.app.feature.offline.OfferDownload
@@ -87,7 +90,8 @@ fun MushafScreen(
     onOpenIndex: () -> Unit,
     onOpenSettings: () -> Unit,
     onOpenMeaning: (AyahKey) -> Unit,
-    onOpenTafsir: (AyahKey) -> Unit
+    onOpenTafsir: (AyahKey) -> Unit,
+    onOpenHifz: () -> Unit
 ) {
     val quran: Quran = koinInject()
     val fonts: PageFonts = koinInject()
@@ -103,6 +107,8 @@ fun MushafScreen(
     val marked by reader.marked.collectAsState()
     val listen: Listen = koinInject()
     val heard by listen.state.collectAsState()
+    val hifz: HifzSession = koinInject()
+    val session by hifz.session.collectAsState()
     val meta by produceState(quran.metaNow, quran) { value = quran.meta() }
 
     var chrome by rememberSaveable { mutableStateOf(true) }
@@ -190,23 +196,46 @@ fun MushafScreen(
                 }
             },
             overlay = {
-                AnimatedVisibility(
-                    visible = heard.active && opened == null,
-                    enter = fadeIn() + slideInVertically { it / 2 },
-                    exit = fadeOut() + slideOutVertically { it / 2 },
-                    modifier = Modifier.align(Alignment.BottomCenter).navigationBarsPadding().padding(12.dp)
+                Column(
+                    Modifier.align(Alignment.BottomCenter).navigationBarsPadding().padding(12.dp),
+                    verticalArrangement = Arrangement.spacedBy(10.dp),
+                    horizontalAlignment = Alignment.CenterHorizontally
                 ) {
-                    ListenPane()
+                    AnimatedVisibility(
+                        visible = heard.active && opened == null,
+                        enter = fadeIn() + slideInVertically { it / 2 },
+                        exit = fadeOut() + slideOutVertically { it / 2 }
+                    ) {
+                        ListenPane()
+                    }
+                    val s = session
+                    AnimatedVisibility(
+                        // Hidden with the rest of the glass by a tap on the page, so the lesson's lines show whole.
+                        visible = s != null && opened == null && chrome,
+                        enter = fadeIn() + slideInVertically { it / 2 },
+                        exit = fadeOut() + slideOutVertically { it / 2 }
+                    ) {
+                        var last by remember { mutableStateOf(s) }
+                        s?.let { last = it }
+                        val shownSession = last
+                        if (shownSession != null) {
+                            val pageWords by produceState(emptyList<Word>(), current, perItem) {
+                                value = (current until current + perItem).flatMap { quran.page(it).words }
+                            }
+                            HifzPane(shownSession, pageWords)
+                        }
+                    }
                 }
                 AnimatedVisibility(
-                    visible = chrome && opened == null && !heard.active,
+                    visible = chrome && opened == null && !heard.active && session == null,
                     enter = fadeIn() + scaleIn(initialScale = 0.9f),
                     exit = fadeOut() + scaleOut(targetScale = 0.9f),
                     modifier = Modifier.align(Alignment.BottomCenter).navigationBarsPadding().padding(bottom = 16.dp)
                 ) {
                     val juz = meta?.juz?.lastOrNull { it.page <= current }?.n
                     val quarter = meta?.quarters?.lastOrNull { it.page <= current }?.n
-                    Row(horizontalArrangement = Arrangement.spacedBy(12.dp), verticalAlignment = Alignment.CenterVertically) {
+                    Row(horizontalArrangement = Arrangement.spacedBy(10.dp), verticalAlignment = Alignment.CenterVertically) {
+                        FloatingAction(AppIcons.School, "Hifz", onOpenHifz)
                         FloatingAction(AppIcons.Translate, "Read with meaning", {
                             scope.launch { onOpenMeaning(quran.firstAyah(current)) }
                         })
@@ -275,13 +304,17 @@ fun MushafScreen(
                                             marked = marked ?: opened?.key ?: heard.key,
                                             heard = heard.key.takeIf { settings.followVoice },
                                             heardWord = heard.heard?.word,
-                                            show = { WordShow.ALL },
+                                            show = { w -> session?.showOf(w) ?: WordShow.ALL },
+                                            onWordTap = { w ->
+                                                val sess = session
+                                                if (sess != null && sess.showOf(w) != WordShow.ALL) { haptics.tick(); hifz.reveal(w); true } else false
+                                            },
                                             onTap = {
                                                 if (opened != null) opened = null else chrome = !chrome
                                             },
                                             onLongPress = { w ->
                                                 haptics.firm()
-                                                opened = w
+                                                if (session != null && w.key in session!!.keys) hifz.slip(w) else opened = w
                                             }
                                         )
                                     }

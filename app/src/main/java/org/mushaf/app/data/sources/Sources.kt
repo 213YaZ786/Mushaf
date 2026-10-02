@@ -25,12 +25,14 @@ data class SourceList(
     val quranCom: List<String>,
     val recitations: List<String>,
     val fawaz: List<String>,
+    /** The speech recogniser's files, "{file}" in the place. */
+    val stt: List<String> = emptyList(),
     /** Fingerprints that replace the bundled ones, "print 12" to SHA-256, when a font is reissued. */
     val fontHashes: Map<String, String> = emptyMap()
 ) {
     /** Every place is HTTPS and every server name well formed, or the list is refused. */
     fun valid(): Boolean {
-        val urls = printFont + tajweedFont + quranCom + recitations + fawaz
+        val urls = printFont + tajweedFont + quranCom + recitations + fawaz + stt
         return urls.isNotEmpty() && urls.all { it.startsWith("https://") } &&
             printFont.isNotEmpty() && quranCom.isNotEmpty() && recitations.isNotEmpty() && fawaz.isNotEmpty() &&
             fontHashes.values.all { it.matches(Regex("^[0-9a-f]{64}$")) }
@@ -56,7 +58,7 @@ class Sources(private val context: Context) {
         return chosen
     }
 
-    private fun hostsOf(s: SourceList) = (s.printFont + s.tajweedFont + s.quranCom + s.recitations + s.fawaz)
+    private fun hostsOf(s: SourceList) = (s.printFont + s.tajweedFont + s.quranCom + s.recitations + s.fawaz + s.stt)
         .mapNotNull { runCatching { java.net.URI(it.replace("{page}", "1")).host?.lowercase() }.getOrNull() }
 
     /** Asks the repository for a newer list, at most once a week; any failure keeps the one in use. */

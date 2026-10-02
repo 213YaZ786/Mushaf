@@ -101,5 +101,20 @@ class Quran(private val context: Context) {
         runCatching { asset("quran/info/$surah.txt") }.getOrDefault("").lines().filter { it.isNotBlank() }
     }
 
+    @Volatile private var similarCache: Map<AyahKey, List<String>>? = null
+
+    /**
+     * Ayat that resemble [key], as "s:a" or "s:a+n" for a run of n + 1
+     * ayat (Quran Revision Companion's list of mutashabihat).
+     */
+    suspend fun similar(key: AyahKey): List<String> = (similarCache ?: withContext(Dispatchers.IO) {
+        asset("quran/mutashabihat.txt").lineSequence().filter { it.isNotBlank() }.mapNotNull { row ->
+            val tab = row.indexOf('\t')
+            if (tab < 0) return@mapNotNull null
+            val src = AyahKey.parse(row.substring(0, tab).substringBefore('+')) ?: return@mapNotNull null
+            src to row.substring(tab + 1).split(';')
+        }.groupBy({ it.first }, { it.second }).mapValues { (_, v) -> v.flatten().distinct() }
+    }.also { similarCache = it })[key].orEmpty()
+
     private fun asset(path: String): String = context.assets.open(path).bufferedReader().use { it.readText() }
 }

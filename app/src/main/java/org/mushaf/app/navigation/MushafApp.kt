@@ -26,6 +26,7 @@ import org.mushaf.app.data.quran.Quran
 import org.mushaf.app.feature.meaning.MeaningScreen
 import org.mushaf.app.feature.offline.OfflineScreen
 import org.mushaf.app.feature.welcome.WelcomeScreen
+import org.mushaf.app.feature.hifz.HifzScreen
 import org.mushaf.app.feature.mushaf.Reader
 import org.mushaf.app.feature.tafsir.TafsirScreen
 import org.mushaf.app.feature.translations.TranslationsScreen
@@ -47,6 +48,7 @@ private object Routes {
     const val TRANSLATIONS = "translations"
     const val OFFLINE = "offline"
     const val WELCOME = "welcome"
+    const val HIFZ = "hifz"
     fun meaning(k: AyahKey) = "meaning/${k.surah}/${k.ayah}"
     fun tafsir(k: AyahKey) = "tafsir/${k.surah}/${k.ayah}"
 }
@@ -87,8 +89,17 @@ fun MushafApp() {
                 onOpenIndex = { navController.navigate(Routes.INDEX) },
                 onOpenSettings = { navController.navigate(Routes.SETTINGS) },
                 onOpenMeaning = { k -> navController.navigate(Routes.meaning(k)) },
-                onOpenTafsir = { k -> navController.navigate(Routes.tafsir(k)) }
+                onOpenTafsir = { k -> navController.navigate(Routes.tafsir(k)) },
+                onOpenHifz = { navController.navigate(Routes.HIFZ) }
             )
+        }
+        composable(Routes.HIFZ) {
+            ReadableScroll {
+                HifzScreen(
+                    onBack = { navController.popBackStack() },
+                    onOpenMushaf = { navController.popBackStack(Routes.MUSHAF, inclusive = false) }
+                )
+            }
         }
         composable(Routes.MEANING, arguments = keyArgs) { entry ->
             val reader: Reader = koinInject()
