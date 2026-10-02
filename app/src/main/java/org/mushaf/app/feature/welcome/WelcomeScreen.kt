@@ -157,7 +157,7 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                     icon = AppIcons.Translate,
                     title = "The meaning",
                     intro = "Shown under each ayah when reading with the meaning.",
-                    points = listOf("More than 500 translations in about 100 languages in Settings.")
+                    points = listOf("More than 380 translations in about 100 languages in Settings.")
                 ) {
                     val options = listOfNotNull(local, Translations.BUNDLED)
                     for (t in options) {
@@ -188,7 +188,7 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                     icon = AppIcons.Headphones,
                     title = "The recitation",
                     intro = "The page follows the voice, the word heard lights up.",
-                    points = listOf("Nine more reciters in Settings and while listening.")
+                    points = listOf(Recitations.of(settings.riwayah).size.minus(4).let { if (it == 1) "One more reciter in Settings and while listening." else "$it more reciters in Settings and while listening." })
                 ) {
                     Choices(
                         Recitations.of(settings.riwayah).take(4).map { it.id to it.label },

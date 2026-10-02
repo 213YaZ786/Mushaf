@@ -146,7 +146,7 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
             Section("Meaning") {
                 SettingRow(
                     title = "Translations",
-                    summary = settings.translations.size.let { if (it == 1) "1 shown" else "$it shown" } + " · more than 600 in about 100 languages",
+                    summary = settings.translations.size.let { if (it == 1) "1 shown" else "$it shown" } + " · more than 380 in about 100 languages",
                     onClick = onOpenTranslations
                 )
                 SwitchRow(

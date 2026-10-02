@@ -4,12 +4,13 @@ The Quran as printed in Madinah, with its meaning, its recitation and help
 to learn it by heart. No account, no tracking, no ads.
 
 - The Madinah mushaf page by page, in the King Fahd Complex's own fonts,
-  or with the tajweed in colour; two pages side by side on a tablet.
+  or with the tajweed in colour and its legend; two pages side by side on a
+  tablet.
 - Hafs or Warsh: the Complex's Warsh mushaf with its own count, script
   and reciters.
 - Hold a word for its meaning, its sound on its own, the ayah's
   translation and tafsir, a bookmark, a note, or the recitation from there.
-- Read with the meaning: word by word, more than 500 translations in about
+- Read with the meaning: word by word, more than 380 translations in about
   100 languages, ten books of tafsir in English and Arabic.
 - Listen to 13 reciters in Hafs and 5 in Warsh: the word recited lights up and the page turns
   with the voice; an ayah or a passage repeated as often as you like.
@@ -17,6 +18,7 @@ to learn it by heart. No account, no tracking, no ads.
   so that no page is forgotten; similar ayat pointed out; recite to the
   phone and each word shows as you say it.
 - Play: Juz 'Amma for children, five games and three stars a surah.
+- A daily reminder of your wird, unless you have read already that day.
 - Everything can be kept on the phone to read and listen offline.
 
 ## Install
