@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Placeholder until the user chooses the icon: a plain open book. -->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="108dp" android:height="108dp"
-    android:viewportWidth="108" android:viewportHeight="108">
-    <path android:fillColor="@color/ic_launcher_mark"
-        android:pathData="M54,40c-6,-4 -14,-6 -22,-6v36c8,0 16,2 22,6c6,-4 14,-6 22,-6V34c-8,0 -16,2 -22,6zM52,72c-5,-3 -11,-4 -17,-4.6V37.2c6,0.4 12,2 17,5.1z" />
-</vector>
+<!-- Mushaf's launcher icon: a medallion in cast relief, 15:9 in the Madinah
+     mushaf's calligraphy on its ring, the sign of the hizb in its centre.
+     The medal is a grey bitmap in relief multiplied by a tone of the
+     wallpaper's accent; its sheen is white on every wallpaper. Rendered by
+     Modules/icons/mushaf (medallion.py, export.py). -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/mushaf_shadow" />
+    <item>
+        <bitmap
+            android:src="@drawable/mushaf_medal"
+            android:tint="@color/ic_launcher_medal"
+            android:tintMode="multiply" />
+    </item>
+    <item android:drawable="@drawable/mushaf_sheen" />
+</layer-list>

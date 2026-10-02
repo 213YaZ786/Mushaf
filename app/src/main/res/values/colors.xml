@@ -1,5 +1,9 @@
 <resources>
-    <!-- Placeholder icon until the user chooses the real one. -->
+    <!--
+        The launcher icon follows the wallpaper: the medal takes a deep tone
+        of the accent, which its grey relief shades, on the palest tone of the
+        accent by day and a deep neutral by night.
+    -->
     <color name="ic_launcher_background">@android:color/system_accent1_50</color>
-    <color name="ic_launcher_mark">@android:color/system_accent1_600</color>
+    <color name="ic_launcher_medal">@android:color/system_accent1_400</color>
 </resources>
