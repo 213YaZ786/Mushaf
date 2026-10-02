@@ -197,8 +197,15 @@ object Updates {
         ContextCompat.registerReceiver(app, receiver, IntentFilter(ACTION_STATUS), ContextCompat.RECEIVER_NOT_EXPORTED)
     }
 
+    private val GITHUB = setOf("api.github.com", "github.com", "objects.githubusercontent.com", "release-assets.githubusercontent.com")
+
     private fun open(url: String): HttpURLConnection =
-        (URL(url).openConnection() as HttpURLConnection).apply {
+        (URL(url).also {
+            // GitHub only, over HTTPS, and only to read.
+            require(it.protocol == "https" && it.host.lowercase() in GITHUB) { "refused" }
+        }.openConnection() as HttpURLConnection).apply {
+            requestMethod = "GET"
+            doOutput = false
             connectTimeout = TIMEOUT_MS
             readTimeout = TIMEOUT_MS
             setRequestProperty("User-Agent", "Mushaf")

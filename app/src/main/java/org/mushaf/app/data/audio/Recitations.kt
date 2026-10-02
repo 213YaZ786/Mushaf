@@ -57,7 +57,7 @@ class Recitations(private val context: Context, private val sources: Sources, pr
             }.orEmpty()
             AyahTime(key[0].toInt(), key[1].toInt(), from, to, Timing.words(segments, from, to))
         }
-        val audio = SurahAudio(reciter, surah, f["audio_url"]!!.jsonPrimitive.content, ayat)
+        val audio = SurahAudio(reciter, surah, f["audio_url"]!!.jsonPrimitive.content.also(::requireSafe), ayat)
         file.parentFile?.mkdirs()
         file.writeTextAtomically(json.encodeToString(audio))
         audio
@@ -72,13 +72,19 @@ class Recitations(private val context: Context, private val sources: Sources, pr
             json.parseToJsonElement(Net.text("$base/ayat_timing/reads", maxBytes = 1L shl 20)).jsonArray
                 .map { it.jsonObject }.first { it["id"]!!.jsonPrimitive.content.toInt() == read }["folder_url"]!!.jsonPrimitive.content
         }.getOrElse { WARSH_FOLDERS[read] ?: throw it }
-        require(folder.startsWith("https://"))
+        requireSafe(folder)
         val timings = json.parseToJsonElement(Net.text("$base/ayat_timing?surah=$surah&read=$read", maxBytes = 2L shl 20)).jsonArray
         val ayat = timings.map { it.jsonObject }.mapNotNull { t ->
             val ayah = t["ayah"]!!.jsonPrimitive.content.toInt()
             if (ayah < 1) null else AyahTime(surah, ayah, t["start_time"]!!.jsonPrimitive.long, t["end_time"]!!.jsonPrimitive.long)
         }
         return SurahAudio(reciter, surah, folder.trimEnd('/') + "/%03d.mp3".format(surah), ayat)
+    }
+
+    /** The player reaches recordings on its own: only over HTTPS and on a server the app allows. */
+    private fun requireSafe(url: String) {
+        val uri = java.net.URI(url)
+        require(uri.scheme == "https" && Net.allowed(uri.host.orEmpty().lowercase())) { "recording refused" }
     }
 
     private fun first(path: (String) -> String): String {

@@ -102,6 +102,9 @@ object Net {
             if (url.protocol != "https") throw Refused("not https")
             if (!allowed(url.host.lowercase())) throw Refused("unknown server ${url.host}")
             val conn = url.openConnection() as HttpURLConnection
+            // The app only ever reads: no request carries anything from the phone.
+            conn.requestMethod = "GET"
+            conn.doOutput = false
             conn.instanceFollowRedirects = false
             conn.connectTimeout = 15_000
             conn.readTimeout = 30_000

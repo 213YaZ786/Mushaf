@@ -93,6 +93,9 @@ class Recite(private val recogniser: Recogniser, private val scope: CoroutineSco
             } finally {
                 record.stop()
                 record.release()
+                // The sound heard was only ever in memory; nothing of it is kept.
+                piece.fill(0f)
+                chunk.fill(0)
                 withContext(Dispatchers.Main) { _state.update { it.copy(listening = false) } }
             }
         }
