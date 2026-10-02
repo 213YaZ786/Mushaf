@@ -1,0 +1,119 @@
+1	16:7:1	w	وَتَحْمِلُ		وتحمل	And they carry	wataḥmilu
+1	16:7:2	w	أَثْقَالَكُمُۥٓ		اثقالكم	your loads	athqālakum
+1	16:7:3	w	إِلَىٰ		الي	to	ilā
+1	16:7:4	w	بَلَدࣲ		بلد	a land	baladin
+1	16:7:5	w	لَّمْ		لم	not	lam
+1	16:7:6	w	تَكُونُواْ		تكونوا	you could	takūnū
+1	16:7:7	w	بَٰلِغِيهِ		بلغيه	reach it	bālighīhi
+1	16:7:8	w	إِلَّا		الا	except	illā
+1	16:7:9	w	بِشِقِّ		بشق	with great trouble	bishiqqi
+2	16:7:10	w	ࡴ۬لَانفُسِ࣌		الانفس	(to) yourselves	l-anfusi
+2	16:7:11	w	إِنَّ		ان	Indeed	inna
+2	16:7:12	w	رَبَّكُمْ		ربكم	your Lord	rabbakum
+2	16:7:13	w	لَرَءُوفࣱ		لروف	surely is Most Kind	laraūfun
+2	16:7:14	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+2	16:7:15	e	۝٧				
+2	16:8:1	w	وَالْخَيْلَ		والخيل	And horses	wal-khayla
+2	16:8:2	w	وَالْبِغَالَ		والبغال	and mules	wal-bighāla
+3	16:8:3	w	وَالْحَمِيرَ		والحمير	and donkeys	wal-ḥamīra
+3	16:8:4	w	لِتَرْكَبُوهَا		لتركبوها	for you to ride them	litarkabūhā
+3	16:8:5	w	وَزِينَةࣰ࣌		وزينة	and (as) adornment	wazīnatan
+3	16:8:6	w	وَيَخْلُقُ		ويخلق	And He creates	wayakhluqu
+3	16:8:7	w	مَا		ما	what	mā
+3	16:8:8	w	لَا		لا	not	lā
+3	16:8:9	w	تَعْلَمُونَ࣌		تعلمون	you know	taʿlamūna
+3	16:8:10	e	۝٨				
+4	16:9:1	w	وَعَلَى		وعلي	And upon	waʿalā
+4	16:9:2	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+4	16:9:3	w	قَصْدُ		قصد	(is) the direction	qaṣdu
+4	16:9:4	w	ࡲ۬لسَّبِيلِ		السبيل	(of) the way	l-sabīli
+4	16:9:5	w	وَمِنْهَا		ومنها	and among them	wamin'hā
+4	16:9:6	w	جَآئِرࣱ࣌		جاير	(are) crooked	jāirun
+4	16:9:7	w	وَلَوْ		ولو	And if	walaw
+4	16:9:8	w	شَآءَ		شا	He willed	shāa
+4	16:9:9	w	لَهَدٜيٰكُمُۥٓ		لهديكم	surely He would have guided you	lahadākum
+5	16:9:10	w	أَجْمَعِينَ࣌		اجمعين	all	ajmaʿīna
+5	16:9:11	e	۝٩				
+5	16:10:1	w	هُوَ		هو	He	huwa
+5	16:10:2	w	ࡰ۬لذِےٓ		الذي	(is) the One Who	alladhī
+5	16:10:3	w	أَنزَلَ		انزل	sends down	anzala
+5	16:10:4	w	مِنَ		من	from	mina
+5	16:10:5	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+5	16:10:6	w	مَآءࣰ		ما	water	māan
+5	16:10:7	w	لَّكُم		لكم	for you	lakum
+6	16:10:8	w	مِّنْهُ		منه	of it	min'hu
+6	16:10:9	w	شَرَابࣱ		شراب	(is) drink	sharābun
+6	16:10:10	w	وَمِنْهُ		ومنه	and from it	wamin'hu
+6	16:10:11	w	شَجَرࣱ		شجر	(grows) vegetation	shajarun
+6	16:10:12	w	فِيهِ		فيه	in which	fīhi
+6	16:10:13	w	تُسِيمُونَ࣌		تسيمون	you pasture your cattle	tusīmūna
+6	16:10:14	e	۝١٠				
+6	16:11:1	w	يُنۢبِتُ		ينبت	He causes to grow	yunbitu
+6	16:11:2	w	لَكُم		لكم	for you	lakum
+7	16:11:3	w	بِهِ		به	with it	bihi
+7	16:11:4	w	ࡴ۬لزَّرْعَ		الزرع	the crops	l-zarʿa
+7	16:11:5	w	وَالزَّيْتُونَ		والزيتون	and the olives	wal-zaytūna
+7	16:11:6	w	وَالنَّخِيلَ		والنخيل	and the date-palms	wal-nakhīla
+7	16:11:7	w	وَالَاعْنَٰبَ		والاعنب	and the grapes	wal-aʿnāba
+7	16:11:8	w	وَمِن		ومن	and of	wamin
+7	16:11:9	w	كُلِّ		كل	every kind	kulli
+8	16:11:10	w	ࡴ۬لثَّمَرَٰتِ࣌		الثمرت	(of) fruits	l-thamarāti
+8	16:11:11	w	إِنَّ		ان	Indeed	inna
+8	16:11:12	w	فِے		في	in	fī
+8	16:11:13	w	ذَٰلِكَ		ذلك	that	dhālika
+8	16:11:14	w	لَأٓيَةࣰ		لاية	surely (is) a sign	laāyatan
+8	16:11:15	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+8	16:11:16	w	يَتَفَكَّرُونَ࣌		يتفكرون	who reflect	yatafakkarūna
+8	16:11:17	e	۝١١				
+9	16:12:1	w	وَسَخَّرَ		وسخر	And He has subjected	wasakhara
+9	16:12:2	w	لَكُمُ		لكم	for you	lakumu
+9	16:12:3	w	ࡲ۬ليْلَ		اليل	the night	al-layla
+9	16:12:4	w	وَالنَّهَارَ		والنهار	and the day	wal-nahāra
+9	16:12:5	w	وَالشَّمْسَ		والشمس	and the sun	wal-shamsa
+9	16:12:6	w	وَالْقَمَرَ		والقمر	and the moon	wal-qamara
+10	16:12:7	w	وَالنُّجُومَ		والنجوم	and the stars	wal-nujūmu
+10	16:12:8	w	مُسَخَّرَٰتِۢ		مسخرت	(are) subjected	musakharātun
+10	16:12:9	w	بِأَمْرِهِۦٓ࣌		بامرهي	by His command	bi-amrihi
+10	16:12:10	w	إِنَّ		ان	Indeed	inna
+10	16:12:11	w	فِے		في	in	fī
+10	16:12:12	w	ذَٰلِكَ		ذلك	that	dhālika
+10	16:12:13	w	لَأٓيَٰتࣲ		لايت	surely (are) signs	laāyātin
+10	16:12:14	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+11	16:12:15	w	يَعْقِلُونَ࣌		يعقلون	who use reason	yaʿqilūna
+11	16:12:16	e	۝١٢				
+11	16:13:1	w	وَمَا		وما	And whatever	wamā
+11	16:13:2	w	ذَرَأَ		ذرا	He multiplied	dhara-a
+11	16:13:3	w	لَكُمْ		لكم	for you	lakum
+11	16:13:4	w	فِے		في	in	fī
+11	16:13:5	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+11	16:13:6	w	مُخْتَلِفاً		مختلفا	(of) varying	mukh'talifan
+12	16:13:7	w	ࡰلْوَٰنُهُۥٓ࣌		الونه	colors	alwānuhu
+12	16:13:8	w	إِنَّ		ان	Indeed	inna
+12	16:13:9	w	فِے		في	in	fī
+12	16:13:10	w	ذَٰلِكَ		ذلك	that	dhālika
+12	16:13:11	w	لَأٓيَةࣰ		لاية	surely (is) a sign	laāyatan
+12	16:13:12	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+12	16:13:13	w	يَذَّكَّرُونَ࣌		يذكرون	who remember	yadhakkarūna
+12	16:13:14	e	۝١٣				
+13	16:14:1	w	وَهُوَ		وهو	And He	wahuwa
+13	16:14:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+13	16:14:3	w	سَخَّرَ		سخر	subjected	sakhara
+13	16:14:4	w	ࡰ۬لْبَحْرَ		البحر	the sea	l-baḥra
+13	16:14:5	w	لِتَاكُلُواْ		لتاكلوا	for you to eat	litakulū
+13	16:14:6	w	مِنْهُ		منه	from it	min'hu
+13	16:14:7	w	لَحْماࣰ		لحما	meat	laḥman
+13	16:14:8	w	طَرِيّاࣰ		طريا	fresh	ṭariyyan
+14	16:14:9	w	وَتَسْتَخْرِجُواْ		وتستخرجوا	and that you bring forth	watastakhrijū
+14	16:14:10	w	مِنْهُ		منه	from it	min'hu
+14	16:14:11	w	حِلْيَةࣰ		حلية	ornaments	ḥil'yatan
+14	16:14:12	w	تَلْبَسُونَهَا࣌		تلبسونها	(that) you wear them	talbasūnahā
+14	16:14:13	w	وَتَرَى		وتري	And you see	watarā
+14	16:14:14	w	ࡰ۬لْفُلْكَ		الفلك	the ships	l-ful'ka
+14	16:14:15	w	مَوَاخِرَ		مواخر	ploughing	mawākhira
+15	16:14:16	w	فِيهِ		فيه	through it	fīhi
+15	16:14:17	w	وَلِتَبْتَغُواْ		ولتبتغوا	and that you may seek	walitabtaghū
+15	16:14:18	w	مِن		من	of	min
+15	16:14:19	w	فَضْلِهِۦ		فضلهي	His Bounty	faḍlihi
+15	16:14:20	w	وَلَعَلَّكُمْ		ولعلكم	and that you may	walaʿallakum
+15	16:14:21	w	تَشْكُرُونَ࣌		تشكرون	(be) grateful	tashkurūna
+15	16:14:22	e	۝١٤				

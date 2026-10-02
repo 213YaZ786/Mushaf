@@ -1,0 +1,132 @@
+1	8:9:1	w	إِذْ		اذ	When	idh
+1	8:9:2	w	تَسْتَغِيثُونَ		تستغيثون	you were seeking help	tastaghīthūna
+1	8:9:3	w	رَبَّكُمْ		ربكم	(of) your Lord	rabbakum
+1	8:9:4	w	فَاسْتَجَابَ		فاستجاب	and He answered	fa-is'tajāba
+1	8:9:5	w	لَكُمُۥٓ		لكم	[to] you	lakum
+1	8:9:6	w	أَنِّے		اني	Indeed, I am	annī
+1	8:9:7	w	مُمِدُّكُم		ممدكم	going to reinforce you	mumiddukum
+1	8:9:8	w	بِأَلْفࣲ		بالف	with a thousand	bi-alfin
+2	8:9:9	w	مِّنَ		من	of	mina
+2	8:9:10	w	ࡰ۬لْمَلَٰٓئِكَةِ		المليكة	the Angels	l-malāikati
+2	8:9:11	w	مُرْدَفِينَ࣌		مردفين	one after another	mur'difīna
+2	8:9:12	e	۝٩				
+2	8:10:1	w	وَمَا		وما	And not	wamā
+2	8:10:2	w	جَعَلَهُ		جعله	(it was) made	jaʿalahu
+2	8:10:3	w	ࡲ۬للَّهُ		الله	(by) Allah	l-lahu
+2	8:10:4	w	إِلَّا		الا	but	illā
+2	8:10:5	w	بُشْرٜىٰ		بشري	good tidings	bush'rā
+3	8:10:6	w	وَلِتَطْمَئِنَّ		ولتطمين	and so that might be at rest	walitaṭma-inna
+3	8:10:7	w	بِهِۦ		بهي	with it	bihi
+3	8:10:8	w	قُلُوبُكُمْ࣌		قلوبكم	your hearts	qulūbukum
+3	8:10:9	w	وَمَا		وما	And (there is) no	wamā
+3	8:10:10	w	ࡰ۬لنَّصْرُ		النصر	[the] victory	l-naṣru
+3	8:10:11	w	إِلَّا		الا	except	illā
+3	8:10:12	w	مِنْ		من	from	min
+3	8:10:13	w	عِندِ		عند	[of]	ʿindi
+3	8:10:14	w	ࡴ۬للَّهِ࣌		الله	Allah	l-lahi
+3	8:10:15	w	إِنَّ		ان	Indeed	inna
+3	8:10:16	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	8:10:17	w	عَزِيزٌ		عزيز	(is) All-Mighty	ʿazīzun
+4	8:10:18	w	حَكِيمٌ࣌		حكيم	All-Wise	ḥakīmun
+4	8:10:19	e	۝١٠				
+4	8:11:1	w	ࡴذْ		اذ	When	idh
+4	8:11:2	w	يُغْشِيكُمُ		يغشيكم	He covered you	yughashīkumu
+4	8:11:3	w	ࡲ۬لنُّعَاسَ		النعاس	with [the] slumber	l-nuʿāsa
+4	8:11:4	w	أَمَنَةࣰ		امنة	a security	amanatan
+4	8:11:5	w	مِّنْهُ		منه	from Him	min'hu
+4	8:11:6	w	وَيُنَزِّلُ		وينزل	and sent down	wayunazzilu
+5	8:11:7	w	عَلَيْكُم		عليكم	upon you	ʿalaykum
+5	8:11:8	w	مِّنَ		من	from	mina
+5	8:11:9	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+5	8:11:10	w	مَآءࣰ		ما	water	māan
+5	8:11:11	w	لِّيُطَهِّرَكُم		ليطهركم	so that He may purify you	liyuṭahhirakum
+5	8:11:12	w	بِهِۦ		بهي	with it	bihi
+5	8:11:13	w	وَيُذْهِبَ		ويذهب	and take away	wayudh'hiba
+5	8:11:14	w	عَنكُمْ		عنكم	from you	ʿankum
+6	8:11:15	w	رِجْزَ		رجز	evil (suggestions)	rij'za
+6	8:11:16	w	ࡰ۬لشَّيْطَٰنِ		الشيطن	(of) the Shaitaan	l-shayṭāni
+6	8:11:17	w	وَلِيَرْبِطَ		وليربط	And to strengthen	waliyarbiṭa
+6	8:11:18	w	عَلَىٰ		علي	[on]	ʿalā
+6	8:11:19	w	قُلُوبِكُمْ		قلوبكم	your hearts	qulūbikum
+6	8:11:20	w	وَيُثَبِّتَ		ويثبت	and make firm	wayuthabbita
+6	8:11:21	w	بِهِ		به	with it	bihi
+6	8:11:22	w	ࡴ۬لَاقْدَامَ࣌		الاقدام	your feet	l-aqdāma
+6	8:11:23	e	۝١١				
+7	8:12:1	w	إِذْ		اذ	When	idh
+7	8:12:2	w	يُوحِے		يوحي	inspired	yūḥī
+7	8:12:3	w	رَبُّكَ		ربك	your Lord	rabbuka
+7	8:12:4	w	إِلَى		الي	to	ilā
+7	8:12:5	w	ࡰ۬لْمَلَٰٓئِكَةِ		المليكة	the Angels	l-malāikati
+7	8:12:6	w	أَنِّے		اني	I am	annī
+7	8:12:7	w	مَعَكُمْ		معكم	with you	maʿakum
+7	8:12:8	w	فَثَبِّتُواْ		فثبتوا	so strengthen	fathabbitū
+7	8:12:9	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+8	8:12:10	w	ءَامَنُواْ࣌		امنوا	believed	āmanū
+8	8:12:11	w	سَأُلْقِے		سالقي	I will cast	sa-ul'qī
+8	8:12:12	w	فِے		في	in	fī
+8	8:12:13	w	قُلُوبِ		قلوب	(the) hearts	qulūbi
+8	8:12:14	w	ࡴ۬لذِينَ		الذين	(of) those who	alladhīna
+8	8:12:15	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+8	8:12:16	w	ࡲ۬لرُّعْبَ࣌		الرعب	the terror	l-ruʿ'ba
+8	8:12:17	w	فَاضْرِبُواْ		فاضربوا	so strike	fa-iḍ'ribū
+9	8:12:18	w	فَوْقَ		فوق	above	fawqa
+9	8:12:19	w	ࡰ۬لَاعْنَاقِ		الاعناق	the necks	l-aʿnāqi
+9	8:12:20	w	وَاضْرِبُواْ		واضربوا	and strike	wa-iḍ'ribū
+9	8:12:21	w	مِنْهُمْ		منهم	from them	min'hum
+9	8:12:22	w	كُلَّ		كل	every	kulla
+9	8:12:23	w	بَنَانࣲ࣌		بنان	fingertip[s]	banānin
+9	8:12:24	e	۝١٢				
+9	8:13:1	w	ذَٰلِكَ		ذلك	That	dhālika
+9	8:13:2	w	بِأَنَّهُمْ		بانهم	(is) because they	bi-annahum
+10	8:13:3	w	شَآقُّواْ		شاقوا	opposed	shāqqū
+10	8:13:4	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+10	8:13:5	w	وَرَسُولَهُۥ࣌		ورسوله	and His Messenger	warasūlahu
+10	8:13:6	w	وَمَنْ		ومن	And whoever	waman
+10	8:13:7	w	يُّشَاقِقِ		يشاقق	opposes	yushāqiqi
+10	8:13:8	w	ࡴ۬للَّهَ		الله	Allah	l-laha
+10	8:13:9	w	وَرَسُولَهُۥ		ورسوله	and His Messenger	warasūlahu
+10	8:13:10	w	فَإِنَّ		فان	then indeed	fa-inna
+10	8:13:11	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	8:13:12	w	شَدِيدُ		شديد	(is) severe	shadīdu
+11	8:13:13	w	ࡲ۬لْعِقَابِ࣌		العقاب	in [the] penalty	l-ʿiqābi
+11	8:13:14	e	۝١٣				
+11	8:14:1	w	ذَٰلِكُمْ		ذلكم	That	dhālikum
+11	8:14:2	w	فَذُوقُوهُ࣌		فذوقوه	So taste it	fadhūqūhu
+11	8:14:3	w	وَأَنَّ		وان	And that	wa-anna
+11	8:14:4	w	لِلْكٜـٰفِرِينَ		للكفرين	for the disbelievers	lil'kāfirīna
+12	8:14:5	w	عَذَابَ		عذاب	(is the) punishment	ʿadhāba
+12	8:14:6	w	ࡰ۬لنّٜارِ࣌		النار	(of) the Fire	l-nāri
+12	8:14:7	e	۝١٤				
+12	8:15:1	w	۞ يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+12	8:15:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+12	8:15:3	w	ءَامَنُوٓاْ		امنوا	believe	āmanū
+12	8:15:4	w	إِذَا		اذا	When	idhā
+12	8:15:5	w	لَقِيتُمُ		لقيتم	you meet	laqītumu
+12	8:15:6	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+12	8:15:7	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+13	8:15:8	w	زَحْفاࣰ		زحفا	advancing	zaḥfan
+13	8:15:9	w	فَلَا		فلا	then (do) not	falā
+13	8:15:10	w	تُوَلُّوهُمُ		تولوهم	turn to them	tuwallūhumu
+13	8:15:11	w	ࡲ۬لَادْبَٰرَ࣌		الادبر	the backs	l-adbāra
+13	8:15:12	e	۝١٥				
+13	8:16:1	w	وَمَنْ		ومن	And whoever	waman
+13	8:16:2	w	يُّوَلِّهِمْ		يولهم	turns to them	yuwallihim
+13	8:16:3	w	يَوْمَئِذࣲ		يوميذ	that day	yawma-idhin
+13	8:16:4	w	دُبُرَهُۥٓ		دبره	his back	duburahu
+14	8:16:5	w	إِلَّا		الا	except	illā
+14	8:16:6	w	مُتَحَرِّفاࣰ		متحرفا	(as) a strategy	mutaḥarrifan
+14	8:16:7	w	لِّقِتَالٍ		لقتال	of war	liqitālin
+14	8:16:8	w	ࡰوْ		او	or	aw
+14	8:16:9	w	مُتَحَيِّزاً		متحيزا	(to) join	mutaḥayyizan
+14	8:16:10	w	ࡴلَىٰ		الي	to	ilā
+14	8:16:11	w	فِئَةࣲ		فية	a group	fi-atin
+14	8:16:12	w	فَقَدْ		فقد	certainly	faqad
+14	8:16:13	w	بَآءَ		با	(he has) incurred	bāa
+15	8:16:14	w	بِغَضَبࣲ		بغضب	wrath	bighaḍabin
+15	8:16:15	w	مِّنَ		من	of	mina
+15	8:16:16	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+15	8:16:17	w	وَمَأْوٜيٰهُ		وماويه	and his abode	wamawāhu
+15	8:16:18	w	جَهَنَّمُ࣌		جهنم	(is) Hell	jahannamu
+15	8:16:19	w	وَبِيسَ		وبيس	a wretched	wabi'sa
+15	8:16:20	w	ࡰ۬لْمَصِيرُ࣌		المصير	destination	l-maṣīru
+15	8:16:21	e	۝١٦				

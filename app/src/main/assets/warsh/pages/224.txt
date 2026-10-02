@@ -1,0 +1,142 @@
+1	11:20:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+1	11:20:2	w	لَمْ		لم	not	lam
+1	11:20:3	w	يَكُونُواْ		يكونوا	will be	yakūnū
+1	11:20:4	w	مُعْجِزِينَ		معجزين	(able to) escape	muʿ'jizīna
+1	11:20:5	w	فِے		في	in	fī
+1	11:20:6	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+1	11:20:7	w	وَمَا		وما	and not	wamā
+1	11:20:8	w	كَانَ		كان	is	kāna
+1	11:20:9	w	لَهُم		لهم	for them	lahum
+2	11:20:10	w	مِّن		من	besides	min
+2	11:20:11	w	دُونِ		دون	besides	dūni
+2	11:20:12	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+2	11:20:13	w	مِنَ		من	any	min
+2	11:20:14	w	ࡰوْلِيَآءَ࣌		اوليا	protectors	awliyāa
+2	11:20:15	w	يُضَٰعَفُ		يضعف	And will be doubled	yuḍāʿafu
+2	11:20:16	w	لَهُمُ		لهم	for them	lahumu
+2	11:20:17	w	ࡲ۬لْعَذَابُ࣌		العذاب	the punishment	l-ʿadhābu
+2	11:20:18	w	مَا		ما	Not	mā
+2	11:20:19	w	كَانُواْ		كانوا	they were	kānū
+3	11:20:20	w	يَسْتَطِيعُونَ		يستطيعون	able	yastaṭīʿūna
+3	11:20:21	w	ࡰ۬لسَّمْعَ		السمع	(to) hear	l-samʿa
+3	11:20:22	w	وَمَا		وما	and not	wamā
+3	11:20:23	w	كَانُواْ		كانوا	they used (to)	kānū
+3	11:20:24	w	يُبْصِرُونَ࣌		يبصرون	see	yub'ṣirūna
+3	11:20:25	e	۝٢٠				
+3	11:21:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+3	11:21:2	w	ࡰ۬لذِينَ		الذين	(are) the ones who	alladhīna
+4	11:21:3	w	خَسِرُوٓاْ		خسروا	(have) lost	khasirū
+4	11:21:4	w	أَنفُسَهُمْ		انفسهم	their souls	anfusahum
+4	11:21:5	w	وَضَلَّ		وضل	and lost	waḍalla
+4	11:21:6	w	عَنْهُم		عنهم	from them	ʿanhum
+4	11:21:7	w	مَّا		ما	(is) what	mā
+4	11:21:8	w	كَانُواْ		كانوا	they used	kānū
+4	11:21:9	w	يَفْتَرُونَ࣌		يفترون	(to) invent	yaftarūna
+4	11:21:10	e	۝٢١				
+4	11:22:1	w	لَا		لا	No	lā
+4	11:22:2	w	جَرَمَ		جرم	doubt	jarama
+5	11:22:3	w	أَنَّهُمْ		انهم	that they	annahum
+5	11:22:4	w	فِے		في	in	fī
+5	11:22:5	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+5	11:22:6	w	هُمُ		هم	[they]	humu
+5	11:22:7	w	ࡲ۬لَاخْسَرُونَ࣌		الاخسرون	(will be) the greatest losers	l-akhsarūna
+5	11:22:8	e	۝٢٢				
+5	11:23:1	w	إِنَّ		ان	Indeed	inna
+5	11:23:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	11:23:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+5	11:23:4	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+6	11:23:5	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	good deeds	l-ṣāliḥāti
+6	11:23:6	w	وَأَخْبَتُوٓاْ		واخبتوا	and humble themselves	wa-akhbatū
+6	11:23:7	w	إِلَىٰ		الي	before	ilā
+6	11:23:8	w	رَبِّهِمُۥٓ		ربهم	their Lord	rabbihim
+6	11:23:9	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+6	11:23:10	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+6	11:23:11	w	ࡲ۬لْجَنَّةِ࣌		الجنة	(of) Paradise	l-janati
+7	11:23:12	w	هُمْ		هم	they	hum
+7	11:23:13	w	فِيهَا		فيها	in it	fīhā
+7	11:23:14	w	خَٰلِدُونَ࣌		خلدون	(will) abide forever	khālidūna
+7	11:23:15	e	۝٢٣				
+7	11:24:1	w	۞ مَثَلُ		مثل	(The) example	mathalu
+7	11:24:2	w	ࡲ۬لْفَرِيقَيْنِ		الفريقين	(of) the two parties	l-farīqayni
+7	11:24:3	w	كَالَاعْمٜىٰ		كالاعمي	(is) like the blind	kal-aʿmā
+7	11:24:4	w	وَالَاصَمِّ		والاصم	and the deaf	wal-aṣami
+8	11:24:5	w	وَالْبَصِيرِ		والبصير	and the seer	wal-baṣīri
+8	11:24:6	w	وَالسَّمِيعِ࣌		والسميع	and the hearer	wal-samīʿi
+8	11:24:7	w	هَلْ		هل	Are	hal
+8	11:24:8	w	يَسْتَوِيَٰنِ		يستوين	they equal	yastawiyāni
+8	11:24:9	w	مَثَلاً࣌		مثلا	(in) comparison	mathalan
+8	11:24:10	w	ࡰفَلَا		افلا	Then, will not	afalā
+8	11:24:11	w	تَذَّكَّرُونَ࣌		تذكرون	you take heed	tadhakkarūna
+8	11:24:12	e	۝٢٤				
+9	11:25:1	w	وَلَقَدَ		ولقد	And verily	walaqad
+9	11:25:2	w	ࡰرْسَلْنَا		ارسلنا	We sent	arsalnā
+9	11:25:3	w	نُوحاً		نوحا	Nuh	nūḥan
+9	11:25:4	w	ࡴلَىٰ		الي	to	ilā
+9	11:25:5	w	قَوْمِهِۦٓ࣌		قومهي	his people	qawmihi
+9	11:25:6	w	إِنِّے		اني	Indeed, I am	innī
+9	11:25:7	w	لَكُمْ		لكم	to you	lakum
+9	11:25:8	w	نَذِيرࣱ		نذير	a warner	nadhīrun
+9	11:25:9	w	مُّبِينٌ		مبين	clear	mubīnun
+9	11:25:10	e	۝٢٥				
+10	11:26:1	w	ࡰن		ان	That	an
+10	11:26:2	w	لَّا		لا	(do) not	lā
+10	11:26:3	w	تَعْبُدُوٓاْ		تعبدوا	worship	taʿbudū
+10	11:26:4	w	إِلَّا		الا	except	illā
+10	11:26:5	w	ࡰ۬للَّهَ࣌		الله	Allah	l-laha
+10	11:26:6	w	إِنِّيَ		اني	Indeed, I	innī
+10	11:26:7	w	أَخَافُ		اخاف	[I] fear	akhāfu
+10	11:26:8	w	عَلَيْكُمْ		عليكم	for you	ʿalaykum
+10	11:26:9	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+10	11:26:10	w	يَوْمٍ		يوم	(of) a Day	yawmin
+10	11:26:11	w	ࡰلِيمࣲ࣌		اليم	painful	alīmin
+10	11:26:12	e	۝٢٦				
+11	11:27:1	w	فَقَالَ		فقال	So said	faqāla
+11	11:27:2	w	ࡰ۬لْمَلَأُ		الملا	the chiefs	l-mala-u
+11	11:27:3	w	ࡲ۬لذِينَ		الذين	(of) those who	alladhīna
+11	11:27:4	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+11	11:27:5	w	مِن		من	from	min
+11	11:27:6	w	قَوْمِهِۦ		قومهي	his people	qawmihi
+11	11:27:7	w	مَا		ما	Not	mā
+11	11:27:8	w	نَرٜيٰكَ		نريك	we see you	narāka
+11	11:27:9	w	إِلَّا		الا	but	illā
+11	11:27:10	w	بَشَراࣰ		بشرا	a man	basharan
+11	11:27:11	w	مِّثْلَنَا		مثلنا	like us	mith'lanā
+12	11:27:12	w	وَمَا		وما	and not	wamā
+12	11:27:13	w	نَرٜيٰكَ		نريك	we see you	narāka
+12	11:27:14	w	ࡰٜتَّبَعَكَ		اتبعك	followed [you]	ittabaʿaka
+12	11:27:15	w	إِلَّا		الا	except	illā
+12	11:27:16	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	11:27:17	w	هُمُۥٓ		هم	[they]	hum
+12	11:27:18	w	أَرَاذِلُنَا		اراذلنا	(are) the lowest of us	arādhilunā
+12	11:27:19	w	بَادِيَ		بادي	immature in opinion	bādiya
+12	11:27:20	w	ࡰ۬لرَّأْيِ࣌		الراي	immature in opinion	l-rayi
+12	11:27:21	w	وَمَا		وما	And not	wamā
+13	11:27:22	w	نَرٜىٰ		نري	we see	narā
+13	11:27:23	w	لَكُمْ		لكم	in you	lakum
+13	11:27:24	w	عَلَيْنَا		علينا	over us	ʿalaynā
+13	11:27:25	w	مِن		من	any	min
+13	11:27:26	w	فَضْلِۢ		فضل	merit	faḍlin
+13	11:27:27	w	بَلْ		بل	nay	bal
+13	11:27:28	w	نَظُنُّكُمْ		نظنكم	we think you	naẓunnukum
+13	11:27:29	w	كَٰذِبِينَ࣌		كذبين	(are) liars	kādhibīna
+13	11:27:30	e	۝٢٧				
+13	11:28:1	w	قَالَ		قال	He said	qāla
+14	11:28:2	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+14	11:28:3	w	أَرَٰٓيْتُمُۥٓ		اريتم	Do you see	ara-aytum
+14	11:28:4	w	إِن		ان	if	in
+14	11:28:5	w	كُنتُ		كنت	I was	kuntu
+14	11:28:6	w	عَلَىٰ		علي	on	ʿalā
+14	11:28:7	w	بَيِّنَةࣲ		بينة	(the) clear proof	bayyinatin
+14	11:28:8	w	مِّن		من	from	min
+14	11:28:9	w	رَّبِّے		ربي	my Lord	rabbī
+14	11:28:10	w	وَءَاتٜيٰنِے		واتيني	while He has given me	waātānī
+14	11:28:11	w	رَحْمَةࣰ		رحمة	mercy	raḥmatan
+14	11:28:12	w	مِّنْ		من	from	min
+15	11:28:13	w	عِندِهِۦ		عندهي	Himself	ʿindihi
+15	11:28:14	w	فَعَمِيَتْ		فعميت	but (it) has been obscured	faʿummiyat
+15	11:28:15	w	عَلَيْكُمُۥٓ		عليكم	from you	ʿalaykum
+15	11:28:16	w	أَنُلْزِمُكُمُوهَا		انلزمكموها	should We compel you (to accept) it	anul'zimukumūhā
+15	11:28:17	w	وَأَنتُمْ		وانتم	while you (are)	wa-antum
+15	11:28:18	w	لَهَا		لها	averse to it	lahā
+15	11:28:19	w	كَٰرِهُونَ࣌		كرهون	averse to it	kārihūna
+15	11:28:20	e	۝٢٨				

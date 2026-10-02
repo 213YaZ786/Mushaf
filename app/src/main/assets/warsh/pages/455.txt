@@ -1,0 +1,154 @@
+1	38:26:1	w	وَمَا		وما	And not	wamā
+1	38:26:2	w	خَلَقْنَا		خلقنا	We created	khalaqnā
+1	38:26:3	w	ࡰ۬لسَّمَآءَ		السما	the heaven	l-samāa
+1	38:26:4	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+1	38:26:5	w	وَمَا		وما	and whatever	wamā
+1	38:26:6	w	بَيْنَهُمَا		بينهما	(is) between them	baynahumā
+1	38:26:7	w	بَٰطِلاࣰ࣌		بطلا	without purpose	bāṭilan
+1	38:26:8	w	ذَٰلِكَ		ذلك	That	dhālika
+1	38:26:9	w	ظَنُّ		ظن	(is the) assumption	ẓannu
+1	38:26:10	w	ࡲ۬لذِينَ		الذين	(of) those who	alladhīna
+2	38:26:11	w	كَفَرُواْ࣌		كفروا	disbelieve	kafarū
+2	38:26:12	w	فَوَيْلࣱ		فويل	So woe	fawaylun
+2	38:26:13	w	لِّلذِينَ		للذين	to those	lilladhīna
+2	38:26:14	w	كَفَرُواْ		كفروا	who disbelieve	kafarū
+2	38:26:15	w	مِنَ		من	from	mina
+2	38:26:16	w	ࡰ۬لنّٜارِ࣌		النار	the Fire	l-nāri
+2	38:26:17	e	۝٢٦				
+2	38:27:1	w	أَمْ		ام	Or	am
+2	38:27:2	w	نَجْعَلُ		نجعل	should We treat	najʿalu
+2	38:27:3	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+2	38:27:4	w	ءَامَنُواْ		امنوا	believe	āmanū
+3	38:27:5	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+3	38:27:6	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+3	38:27:7	w	كَالْمُفْسِدِينَ		كالمفسدين	like those who spread corruption	kal-muf'sidīna
+3	38:27:8	w	فِے		في	in	fī
+3	38:27:9	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+3	38:27:10	w	أَمْ		ام	Or	am
+3	38:27:11	w	نَجْعَلُ		نجعل	should We treat	najʿalu
+3	38:27:12	w	ࡲ۬لْمُتَّقِينَ		المتقين	the pious	l-mutaqīna
+4	38:27:13	w	كَالْفُجّٜارِ࣌		كالفجار	like the wicked	kal-fujāri
+4	38:27:14	e	۝٢٧				
+4	38:28:1	w	كِتَٰبٌ		كتب	(This is) a Book	kitābun
+4	38:28:2	w	ࡰنزَلْنَٰهُ		انزلنه	We have revealed it	anzalnāhu
+4	38:28:3	w	إِلَيْكَ		اليك	to you	ilayka
+4	38:28:4	w	مُبَٰرَكࣱ		مبرك	blessed	mubārakun
+4	38:28:5	w	لِّيَدَّبَّرُوٓاْ		ليدبروا	that they may ponder	liyaddabbarū
+4	38:28:6	w	ءَايَٰتِهِۦ		ايتهي	(over) its Verses	āyātihi
+4	38:28:7	w	وَلِيَتَذَكَّرَ		وليتذكر	and may be reminded	waliyatadhakkara
+5	38:28:8	w	أُوْلُواْ		اولوا	those of understanding	ulū
+5	38:28:9	w	ࡲ۬لَالْبَٰبِ࣌		الالبب	those of understanding	l-albābi
+5	38:28:10	e	۝٢٨				
+5	38:29:1	w	وَوَهَبْنَا		ووهبنا	And We gave	wawahabnā
+5	38:29:2	w	لِدَاوُۥدَ		لداود	to Dawood	lidāwūda
+5	38:29:3	w	سُلَيْمَٰنَ࣌		سليمن	Sulaiman	sulaymāna
+5	38:29:4	w	نِعْمَ		نعم	an excellent	niʿ'ma
+5	38:29:5	w	ࡰ۬لْعَبْدُ࣌		العبد	slave	l-ʿabdu
+5	38:29:6	w	إِنَّهُۥٓ		انه	Indeed, he	innahu
+5	38:29:7	w	أَوَّابٌ࣌		اواب	(was) one who repeatedly turned	awwābun
+5	38:29:8	e	۝٢٩				
+6	38:30:1	w	۞ ࡴذْ		اذ	When	idh
+6	38:30:2	w	عُرِضَ		عرض	were displayed	ʿuriḍa
+6	38:30:3	w	عَلَيْهِ		عليه	to him	ʿalayhi
+6	38:30:4	w	بِالْعَشِيِّ		بالعشي	in the afternoon	bil-ʿashiyi
+6	38:30:5	w	ࡴ۬لصَّٰفِنَٰتُ		الصفنت	excellent bred steeds	l-ṣāfinātu
+6	38:30:6	w	ࡲ۬لْجِيَادُ		الجياد	excellent bred steeds	l-jiyādu
+6	38:30:7	e	۝٣٠				
+6	38:31:1	w	فَقَالَ		فقال	And he said	faqāla
+6	38:31:2	w	إِنِّيَ		اني	Indeed, I	innī
+6	38:31:3	w	أَحْبَبْتُ		احببت	[I] preferred	aḥbabtu
+7	38:31:4	w	حُبَّ		حب	(the) love	ḥubba
+7	38:31:5	w	ࡰ۬لْخَيْرِ		الخير	(of) the good	l-khayri
+7	38:31:6	w	عَن		عن	over	ʿan
+7	38:31:7	w	ذِكْرِ		ذكر	(the) remembrance	dhik'ri
+7	38:31:8	w	رَبِّے		ربي	(of) my Lord	rabbī
+7	38:31:9	w	حَتَّىٰ		حتي	Until	ḥattā
+7	38:31:10	w	تَوَارَتْ		توارت	they were hidden	tawārat
+7	38:31:11	w	بِالْحِجَابِ࣌		بالحجاب	in the veil	bil-ḥijābi
+7	38:31:12	e	۝٣١				
+7	38:32:1	w	رُدُّوهَا		ردوها	Return them	ruddūhā
+7	38:32:2	w	عَلَيَّ		علي	to me	ʿalayya
+8	38:32:3	w	فَطَفِقَ		فطفق	Then he began	faṭafiqa
+8	38:32:4	w	مَسْحاَۢ		مسحا	(to) pass (his hand)	masḥan
+8	38:32:5	w	بِالسُّوقِ		بالسوق	over the legs	bil-sūqi
+8	38:32:6	w	وَالَاعْنَاقِ࣌		والاعناق	and the necks	wal-aʿnāqi
+8	38:32:7	e	۝٣٢				
+8	38:33:1	w	وَلَقَدْ		ولقد	And certainly	walaqad
+8	38:33:2	w	فَتَنَّا		فتنا	We tried	fatannā
+8	38:33:3	w	سُلَيْمَٰنَ		سليمن	Sulaiman	sulaymāna
+8	38:33:4	w	وَأَلْقَيْنَا		والقينا	and We placed	wa-alqaynā
+9	38:33:5	w	عَلَىٰ		علي	on	ʿalā
+9	38:33:6	w	كُرْسِيِّهِۦ		كرسيهي	his throne	kur'siyyihi
+9	38:33:7	w	جَسَداࣰ		جسدا	a body	jasadan
+9	38:33:8	w	ثُمَّ		ثم	then	thumma
+9	38:33:9	w	أَنَابَ࣌		اناب	he turned	anāba
+9	38:33:10	e	۝٣٣				
+9	38:34:1	w	قَالَ		قال	He said	qāla
+9	38:34:2	w	رَبِّ		رب	O my Lord	rabbi
+9	38:34:3	w	ࡴٜغْفِرْ		اغفر	Forgive	igh'fir
+9	38:34:4	w	لِے		لي	me	lī
+9	38:34:5	w	وَهَبْ		وهب	and grant	wahab
+9	38:34:6	w	لِے		لي	me	lī
+10	38:34:7	w	مُلْكاࣰ		ملكا	a kingdom	mul'kan
+10	38:34:8	w	لَّا		لا	not	lā
+10	38:34:9	w	يَنۢبَغِے		ينبغي	(will) belong	yanbaghī
+10	38:34:10	w	لِأَحَدࣲ		لاحد	to anyone	li-aḥadin
+10	38:34:11	w	مِّنۢ		من	after me	min
+10	38:34:12	w	بَعْدِيَ࣌		بعدي	after me	baʿdī
+10	38:34:13	w	إِنَّكَ		انك	Indeed, You	innaka
+10	38:34:14	w	أَنتَ		انت	[You]	anta
+10	38:34:15	w	ࡰ۬لْوَهَّابُ࣌		الوهاب	(are) the Bestower	l-wahābu
+10	38:34:16	e	۝٣٤				
+10	38:35:1	w	فَسَخَّرْنَا		فسخرنا	Then We subjected	fasakharnā
+11	38:35:2	w	لَهُ		له	to him	lahu
+11	38:35:3	w	ࡲ۬لرِّيحَ		الريح	the wind	l-rīḥa
+11	38:35:4	w	تَجْرِے		تجري	to flow	tajrī
+11	38:35:5	w	بِأَمْرِهِۦ		بامرهي	by his command	bi-amrihi
+11	38:35:6	w	رُخَآءً		رخا	gently	rukhāan
+11	38:35:7	w	حَيْثُ		حيث	wherever	ḥaythu
+11	38:35:8	w	أَصَابَ		اصاب	he directed	aṣāba
+11	38:35:9	e	۝٣٥				
+11	38:36:1	w	وَالشَّيَٰطِينَ		والشيطين	And the devils	wal-shayāṭīna
+11	38:36:2	w	كُلَّ		كل	every	kulla
+12	38:36:3	w	بَنَّآءࣲ		بنا	builder	bannāin
+12	38:36:4	w	وَغَوَّاصࣲ		وغواص	and diver	waghawwāṣin
+12	38:36:5	e	۝٣٦				
+12	38:37:1	w	وَءَاخَرِينَ		واخرين	And others	waākharīna
+12	38:37:2	w	مُقَرَّنِينَ		مقرنين	bound	muqarranīna
+12	38:37:3	w	فِے		في	in	fī
+12	38:37:4	w	ࡴ۬لَاصْفَادِ࣌		الاصفاد	chains	l-aṣfādi
+12	38:37:5	e	۝٣٧				
+12	38:38:1	w	هَٰذَا		هذا	This	hādhā
+12	38:38:2	w	عَطَآؤُنَا		عطاونا	(is) Our gift	ʿaṭāunā
+13	38:38:3	w	فَامْنُنَ		فامنن	so grant	fa-um'nun
+13	38:38:4	w	ࡰوَ		او	or	aw
+13	38:38:5	w	ࡰمْسِكْ		امسك	withhold	amsik
+13	38:38:6	w	بِغَيْرِ		بغير	without	bighayri
+13	38:38:7	w	حِسَابࣲ࣌		حساب	account	ḥisābin
+13	38:38:8	e	۝٣٨				
+13	38:39:1	w	وَإِنَّ		وان	And indeed	wa-inna
+13	38:39:2	w	لَهُۥ		له	for him	lahu
+13	38:39:3	w	عِندَنَا		عندنا	with Us	ʿindanā
+13	38:39:4	w	لَزُلْفٜىٰ		لزلفي	surely is a near access	lazul'fā
+13	38:39:5	w	وَحُسْنَ		وحسن	and a good	waḥus'na
+14	38:39:6	w	مَـَٔابࣲ࣌		ماب	place of return	maābin
+14	38:39:7	e	۝٣٩				
+14	38:40:1	w	وَاذْكُرْ		واذكر	And remember	wa-udh'kur
+14	38:40:2	w	عَبْدَنَآ		عبدنا	Our slave	ʿabdanā
+14	38:40:3	w	أَيُّوبَ		ايوب	Ayyub	ayyūba
+14	38:40:4	w	إِذْ		اذ	when	idh
+14	38:40:5	w	نَادٜىٰ		نادي	he called	nādā
+14	38:40:6	w	رَبَّهُۥٓ		ربه	his Lord	rabbahu
+14	38:40:7	w	أَنِّے		اني	That [I]	annī
+14	38:40:8	w	مَسَّنِيَ		مسني	(has) touched me	massaniya
+14	38:40:9	w	ࡰ۬لشَّيْطَٰنُ		الشيطن	Shaitaan	l-shayṭānu
+15	38:40:10	w	بِنُصْبࣲ		بنصب	with distress	binuṣ'bin
+15	38:40:11	w	وَعَذَابٍ࣌		وعذاب	and suffering	waʿadhābin
+15	38:40:12	e	۝٤٠				
+15	38:41:1	w	ࡲ࢈رْكُضْ		اركض	Strike	ur'kuḍ
+15	38:41:2	w	بِرِجْلِكَ࣌		برجلك	with your foot	birij'lika
+15	38:41:3	w	هَٰذَا		هذا	This	hādhā
+15	38:41:4	w	مُغْتَسَلُۢ		مغتسل	(is a spring of) water to bathe	mugh'tasalun
+15	38:41:5	w	بَارِدࣱ		بارد	cool	bāridun
+15	38:41:6	w	وَشَرَابࣱ࣌		وشراب	and a drink	washarābun
+15	38:41:7	e	۝٤١				

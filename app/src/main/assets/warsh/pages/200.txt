@@ -1,0 +1,144 @@
+1	9:81:1	w	ࡴٜسْتَغْفِرْ		استغفر	Ask forgiveness	is'taghfir
+1	9:81:2	w	لَهُمُۥٓ		لهم	for them	lahum
+1	9:81:3	w	أَوْ		او	or	aw
+1	9:81:4	w	لَا		لا	(do) not	lā
+1	9:81:5	w	تَسْتَغْفِرْ		تستغفر	ask forgiveness	tastaghfir
+1	9:81:6	w	لَهُمُۥٓ࣌		لهم	for them	lahum
+1	9:81:7	w	إِن		ان	If	in
+1	9:81:8	w	تَسْتَغْفِرْ		تستغفر	you ask forgiveness	tastaghfir
+1	9:81:9	w	لَهُمْ		لهم	for them	lahum
+1	9:81:10	w	سَبْعِينَ		سبعين	seventy	sabʿīna
+1	9:81:11	w	مَرَّةࣰ		مرة	times	marratan
+2	9:81:12	w	فَلَنْ		فلن	never	falan
+2	9:81:13	w	يَّغْفِرَ		يغفر	will Allah forgive	yaghfira
+2	9:81:14	w	ࡰ۬للَّهُ		الله	will Allah forgive	l-lahu
+2	9:81:15	w	لَهُمْ࣌		لهم	[for] them	lahum
+2	9:81:16	w	ذَٰلِكَ		ذلك	That	dhālika
+2	9:81:17	w	بِأَنَّهُمْ		بانهم	(is) because they	bi-annahum
+2	9:81:18	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+2	9:81:19	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+2	9:81:20	w	وَرَسُولِهِۦ࣌		ورسولهي	and His Messenger	warasūlihi
+2	9:81:21	w	وَاللَّهُ		والله	and Allah	wal-lahu
+3	9:81:22	w	لَا		لا	(does) not	lā
+3	9:81:23	w	يَهْدِے		يهدي	guide	yahdī
+3	9:81:24	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+3	9:81:25	w	ࡰ۬لْفَٰسِقِينَ࣌		الفسقين	the defiantly disobedient	l-fāsiqīna
+3	9:81:26	e	۝٨١				
+3	9:82:1	w	فَرِحَ		فرح	Rejoice	fariḥa
+3	9:82:2	w	ࡰ۬لْمُخَلَّفُونَ		المخلفون	those who remained behind	l-mukhalafūna
+3	9:82:3	w	بِمَقْعَدِهِمْ		بمقعدهم	in their staying	bimaqʿadihim
+4	9:82:4	w	خِلَٰفَ		خلف	behind	khilāfa
+4	9:82:5	w	رَسُولِ		رسول	(the) Messenger	rasūli
+4	9:82:6	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+4	9:82:7	w	وَكَرِهُوٓاْ		وكرهوا	and they disliked	wakarihū
+4	9:82:8	w	أَنْ		ان	to	an
+4	9:82:9	w	يُّجَٰهِدُواْ		يجهدوا	strive	yujāhidū
+4	9:82:10	w	بِأَمْوَٰلِهِمْ		بامولهم	with their wealth	bi-amwālihim
+4	9:82:11	w	وَأَنفُسِهِمْ		وانفسهم	and their lives	wa-anfusihim
+5	9:82:12	w	فِے		في	in	fī
+5	9:82:13	w	سَبِيلِ		سبيل	(the) way	sabīli
+5	9:82:14	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+5	9:82:15	w	وَقَالُواْ		وقالوا	and they said	waqālū
+5	9:82:16	w	لَا		لا	(Do) not	lā
+5	9:82:17	w	تَنفِرُواْ		تنفروا	go forth	tanfirū
+5	9:82:18	w	فِے		في	in	fī
+5	9:82:19	w	ࡴ۬لْحَرِّ࣌		الحر	the heat	l-ḥari
+5	9:82:20	w	قُلْ		قل	Say	qul
+5	9:82:21	w	نَارُ		نار	(The) Fire	nāru
+5	9:82:22	w	جَهَنَّمَ		جهنم	(of) Hell	jahannama
+5	9:82:23	w	أَشَدُّ		اشد	(is) more intense	ashaddu
+5	9:82:24	w	حَرّاࣰ		حرا	(in) heat	ḥarran
+6	9:82:25	w	لَّوْ		لو	If (only)	law
+6	9:82:26	w	كَانُواْ		كانوا	they could	kānū
+6	9:82:27	w	يَفْقَهُونَ࣌		يفقهون	understand	yafqahūna
+6	9:82:28	e	۝٨٢				
+6	9:83:1	w	فَلْيَضْحَكُواْ		فليضحكوا	So let them laugh	falyaḍḥakū
+6	9:83:2	w	قَلِيلاࣰ		قليلا	a little	qalīlan
+6	9:83:3	w	وَلْيَبْكُواْ		وليبكوا	and let them weep	walyabkū
+6	9:83:4	w	كَثِيراࣰ		كثيرا	much	kathīran
+6	9:83:5	w	جَزَآءَۢ		جزا	(as) a recompense	jazāan
+7	9:83:6	w	بِمَا		بما	for what	bimā
+7	9:83:7	w	كَانُواْ		كانوا	they used to	kānū
+7	9:83:8	w	يَكْسِبُونَ࣌		يكسبون	earn	yaksibūna
+7	9:83:9	e	۝٨٣				
+7	9:84:1	w	فَإِن		فان	Then if	fa-in
+7	9:84:2	w	رَّجَعَكَ		رجعك	Allah returns you	rajaʿaka
+7	9:84:3	w	ࡰ۬للَّهُ		الله	Allah returns you	l-lahu
+7	9:84:4	w	إِلَىٰ		الي	to	ilā
+7	9:84:5	w	طَآئِفَةࣲ		طايفة	a group	ṭāifatin
+8	9:84:6	w	مِّنْهُمْ		منهم	of them	min'hum
+8	9:84:7	w	فَاسْتَٰذَنُوكَ		فاستذنوك	and they ask you permission	fa-is'tadhanūka
+8	9:84:8	w	لِلْخُرُوجِ		للخروج	to go out	lil'khurūji
+8	9:84:9	w	فَقُل		فقل	then say	faqul
+8	9:84:10	w	لَّن		لن	Never	lan
+8	9:84:11	w	تَخْرُجُواْ		تخرجوا	will you come out	takhrujū
+8	9:84:12	w	مَعِيَ		معي	with me	maʿiya
+8	9:84:13	w	أَبَداࣰ		ابدا	ever	abadan
+8	9:84:14	w	وَلَن		ولن	and never	walan
+9	9:84:15	w	تُقَٰتِلُواْ		تقتلوا	will you fight	tuqātilū
+9	9:84:16	w	مَعِے		معي	with me	maʿiya
+9	9:84:17	w	عَدُوّاً࣌		عدوا	any enemy	ʿaduwwan
+9	9:84:18	w	ࡴنَّكُمْ		انكم	Indeed, you	innakum
+9	9:84:19	w	رَضِيتُم		رضيتم	were satisfied	raḍītum
+9	9:84:20	w	بِالْقُعُودِ		بالقعود	with sitting	bil-quʿūdi
+9	9:84:21	w	أَوَّلَ		اول	(the) first	awwala
+9	9:84:22	w	مَرَّةࣲ࣌		مرة	time	marratin
+9	9:84:23	w	فَاقْعُدُواْ		فاقعدوا	so sit	fa-uq'ʿudū
+10	9:84:24	w	مَعَ		مع	with	maʿa
+10	9:84:25	w	ࡰ۬لْخَٰلِفِينَ࣌		الخلفين	those who stay behind	l-khālifīna
+10	9:84:26	e	۝٨٤				
+10	9:85:1	w	وَلَا		ولا	And not	walā
+10	9:85:2	w	تُصَلِّ		تصل	you pray	tuṣalli
+10	9:85:3	w	عَلَىٰٓ		علي	for	ʿalā
+10	9:85:4	w	أَحَدࣲ		احد	any	aḥadin
+10	9:85:5	w	مِّنْهُم		منهم	of them	min'hum
+10	9:85:6	w	مَّاتَ		مات	who dies	māta
+10	9:85:7	w	أَبَداࣰ		ابدا	ever	abadan
+10	9:85:8	w	وَلَا		ولا	and not	walā
+10	9:85:9	w	تَقُمْ		تقم	you stand	taqum
+11	9:85:10	w	عَلَىٰ		علي	by	ʿalā
+11	9:85:11	w	قَبْرِهِۦٓ࣌		قبرهي	his grave	qabrihi
+11	9:85:12	w	إِنَّهُمْ		انهم	Indeed, they	innahum
+11	9:85:13	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+11	9:85:14	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+11	9:85:15	w	وَرَسُولِهِۦ		ورسولهي	and His Messenger	warasūlihi
+11	9:85:16	w	وَمَاتُواْ		وماتوا	and died	wamātū
+11	9:85:17	w	وَهُمْ		وهم	while they were	wahum
+11	9:85:18	w	فَٰسِقُونَ࣌		فسقون	defiantly disobedient	fāsiqūna
+11	9:85:19	e	۝٨٥				
+12	9:86:1	w	۞ وَلَا		ولا	And (let) not	walā
+12	9:86:2	w	تُعْجِبْكَ		تعجبك	impress you	tuʿ'jib'ka
+12	9:86:3	w	أَمْوَٰلُهُمْ		امولهم	their wealth	amwāluhum
+12	9:86:4	w	وَأَوْلَٰدُهُمُۥٓ࣌		واولدهم	and their children	wa-awlāduhum
+12	9:86:5	w	إِنَّمَا		انما	Only	innamā
+12	9:86:6	w	يُرِيدُ		يريد	Allah intends	yurīdu
+12	9:86:7	w	ࡲ۬للَّهُ		الله	Allah intends	l-lahu
+12	9:86:8	w	أَنْ		ان	to	an
+12	9:86:9	w	يُّعَذِّبَهُم		يعذبهم	punish them	yuʿadhibahum
+13	9:86:10	w	بِهَا		بها	with it	bihā
+13	9:86:11	w	فِے		في	in	fī
+13	9:86:12	w	ࡴ۬لدُّنْيٜا		الدنيا	the world	l-dun'yā
+13	9:86:13	w	وَتَزْهَقَ		وتزهق	and will depart	watazhaqa
+13	9:86:14	w	أَنفُسُهُمْ		انفسهم	their souls	anfusuhum
+13	9:86:15	w	وَهُمْ		وهم	while they	wahum
+13	9:86:16	w	كَٰفِرُونَ࣌		كفرون	(are) disbelievers	kāfirūna
+13	9:86:17	e	۝٨٦				
+13	9:87:1	w	وَإِذَآ		واذا	And when	wa-idhā
+14	9:87:2	w	أُنزِلَتْ		انزلت	was revealed	unzilat
+14	9:87:3	w	سُورَةٌ		سورة	a Surah	sūratun
+14	9:87:4	w	ࡰنَ		ان	that	an
+14	9:87:5	w	اٰمِنُواْ		امنوا	believe	āminū
+14	9:87:6	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+14	9:87:7	w	وَجَٰهِدُواْ		وجهدوا	and strive	wajāhidū
+14	9:87:8	w	مَعَ		مع	with	maʿa
+14	9:87:9	w	رَسُولِهِ		رسوله	His Messenger	rasūlihi
+14	9:87:10	w	ࡴٜسْتَٰذَنَكَ		استذنك	ask your permission	is'tadhanaka
+15	9:87:11	w	أُوْلُواْ		اولوا	(the) men	ulū
+15	9:87:12	w	ࡲ۬لطَّوْلِ		الطول	(of) wealth	l-ṭawli
+15	9:87:13	w	مِنْهُمْ		منهم	among them	min'hum
+15	9:87:14	w	وَقَالُواْ		وقالوا	and said	waqālū
+15	9:87:15	w	ذَرْنَا		ذرنا	Leave us	dharnā
+15	9:87:16	w	نَكُن		نكن	(to) be	nakun
+15	9:87:17	w	مَّعَ		مع	with	maʿa
+15	9:87:18	w	ࡰ۬لْقَٰعِدِينَ࣌		القعدين	those who sit	l-qāʿidīna
+15	9:87:19	e	۝٨٧				

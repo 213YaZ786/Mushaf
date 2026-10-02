@@ -1,0 +1,159 @@
+1	20:12:1	w	وَأَنَا		وانا	And I	wa-anā
+1	20:12:2	w	ࡰٜخْتَرْتُكَ		اخترتك	(have) chosen you	ikh'tartuka
+1	20:12:3	w	فَاسْتَمِعْ		فاستمع	so listen	fa-is'tamiʿ
+1	20:12:4	w	لِمَا		لما	to what	limā
+1	20:12:5	w	يُوحٜىٰٓ		يوحي	is revealed	yūḥā
+1	20:12:6	e	۝١٢				
+1	20:13:1	w	إِنَّنِيَ		انني	Indeed, [I]	innanī
+1	20:13:2	w	أَنَا		انا	I Am	anā
+1	20:13:3	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+1	20:13:4	w	لَآ		لا	(There is) no	lā
+1	20:13:5	w	إِلَٰهَ		اله	god	ilāha
+1	20:13:6	w	إِلَّآ		الا	but	illā
+1	20:13:7	w	أَنَا		انا	I	anā
+2	20:13:8	w	فَاعْبُدْنِے		فاعبدني	so worship Me	fa-uʿ'bud'nī
+2	20:13:9	w	وَأَقِمِ		واقم	and establish	wa-aqimi
+2	20:13:10	w	ࡴ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+2	20:13:11	w	لِذِكْرِيَ࣌		لذكري	for My remembrance	lidhik'rī
+2	20:13:12	e	۝١٣				
+2	20:14:1	w	إِنَّ		ان	Indeed	inna
+2	20:14:2	w	ࡰ۬لسَّاعَةَ		الساعة	the Hour	l-sāʿata
+2	20:14:3	w	ءَاتِيَةٌ		اتية	(will be) coming	ātiyatun
+2	20:14:4	w	ࡰكَادُ		اكاد	I almost	akādu
+3	20:14:5	w	أُخْفِيهَا		اخفيها	[I] hide it	ukh'fīhā
+3	20:14:6	w	لِتُجْزٜىٰ		لتجزي	that may be recompensed	lituj'zā
+3	20:14:7	w	كُلُّ		كل	every	kullu
+3	20:14:8	w	نَفْسِۢ		نفس	soul	nafsin
+3	20:14:9	w	بِمَا		بما	for what	bimā
+3	20:14:10	w	تَسْعٜىٰ࣌		تسعي	it strives	tasʿā
+3	20:14:11	e	۝١٤				
+3	20:15:1	w	فَلَا		فلا	So (do) not	falā
+3	20:15:2	w	يَصُدَّنَّكَ		يصدنك	(let) avert you	yaṣuddannaka
+3	20:15:3	w	عَنْهَا		عنها	from it	ʿanhā
+4	20:15:4	w	مَن		من	(one) who	man
+4	20:15:5	w	لَّا		لا	(does) not	lā
+4	20:15:6	w	يُومِنُ		يومن	believe	yu'minu
+4	20:15:7	w	بِهَا		بها	in it	bihā
+4	20:15:8	w	وَاتَّبَعَ		واتبع	and follows	wa-ittabaʿa
+4	20:15:9	w	هَوٜيٰهُ		هويه	his desires	hawāhu
+4	20:15:10	w	فَتَرْدٜىٰ࣌		فتردي	lest you perish	fatardā
+4	20:15:11	e	۝١٥				
+4	20:16:1	w	وَمَا		وما	And what	wamā
+4	20:16:2	w	تِلْكَ		تلك	(is) that	til'ka
+4	20:16:3	w	بِيَمِينِكَ		بيمينك	in your right hand	biyamīnika
+5	20:16:4	w	يَٰمُوسٜىٰ࣌		يموسي	O Musa	yāmūsā
+5	20:16:5	e	۝١٦				
+5	20:17:1	w	قَالَ		قال	He said	qāla
+5	20:17:2	w	هِيَ		هي	It	hiya
+5	20:17:3	w	عَصَايَ		عصاي	(is) my staff	ʿaṣāya
+5	20:17:4	w	أَتَوَكَّؤُاْ		اتوكوا	I lean	atawakka-u
+5	20:17:5	w	عَلَيْهَا		عليها	upon it	ʿalayhā
+5	20:17:6	w	وَأَهُشُّ		واهش	and I bring down leaves	wa-ahushu
+5	20:17:7	w	بِهَا		بها	with it	bihā
+5	20:17:8	w	عَلَىٰ		علي	for	ʿalā
+5	20:17:9	w	غَنَمِے		غنمي	my sheep	ghanamī
+6	20:17:10	w	وَلِيَ		ولي	and for me	waliya
+6	20:17:11	w	فِيهَا		فيها	in it	fīhā
+6	20:17:12	w	مَـَٔارِبُ		مارب	(are) uses	maāribu
+6	20:17:13	w	أُخْرٜىٰ࣌		اخري	other	ukh'rā
+6	20:17:14	e	۝١٧				
+6	20:18:1	w	قَالَ		قال	He said	qāla
+6	20:18:2	w	أَلْقِهَا		القها	Throw it down	alqihā
+6	20:18:3	w	يَٰمُوسٜىٰ࣌		يموسي	O Musa	yāmūsā
+6	20:18:4	e	۝١٨				
+6	20:19:1	w	فَأَلْقٜيٰهَا		فالقيها	So he threw it down	fa-alqāhā
+7	20:19:2	w	فَإِذَا		فاذا	and behold	fa-idhā
+7	20:19:3	w	هِيَ		هي	It	hiya
+7	20:19:4	w	حَيَّةࣱ		حية	(was) a snake	ḥayyatun
+7	20:19:5	w	تَسْعٜىٰ࣌		تسعي	moving swiftly	tasʿā
+7	20:19:6	e	۝١٩				
+7	20:20:1	w	قَالَ		قال	He said	qāla
+7	20:20:2	w	خُذْهَا		خذها	Seize it	khudh'hā
+7	20:20:3	w	وَلَا		ولا	and (do) not	walā
+7	20:20:4	w	تَخَفْ		تخف	fear	takhaf
+7	20:20:5	w	سَنُعِيدُهَا		سنعيدها	We will return it	sanuʿīduhā
+8	20:20:6	w	سِيرَتَهَا		سيرتها	(to) its state	sīratahā
+8	20:20:7	w	ࡰ۬لُاولٜىٰ࣌		الاولي	the former	l-ūlā
+8	20:20:8	e	۝٢٠				
+8	20:21:1	w	وَاضْمُمْ		واضمم	And draw near	wa-uḍ'mum
+8	20:21:2	w	يَدَكَ		يدك	your hand	yadaka
+8	20:21:3	w	إِلَىٰ		الي	to	ilā
+8	20:21:4	w	جَنَاحِكَ		جناحك	your side	janāḥika
+8	20:21:5	w	تَخْرُجْ		تخرج	it will come out	takhruj
+9	20:21:6	w	بَيْضَآءَ		بيضا	white	bayḍāa
+9	20:21:7	w	مِنْ		من	without any	min
+9	20:21:8	w	غَيْرِ		غير	without any	ghayri
+9	20:21:9	w	سُوٓءٍ		سو	disease	sūin
+9	20:21:10	w	اٰيَةً		اية	(as) a sign	āyatan
+9	20:21:11	w	ࡳخْرٜىٰ		اخري	another	ukh'rā
+9	20:21:12	e	۝٢١				
+9	20:22:1	w	لِنُرِيَكَ		لنريك	That We may show you	linuriyaka
+9	20:22:2	w	مِنَ		من	of	min
+9	20:22:3	w	اٰيَٰتِنَا		ايتنا	Our Signs	āyātinā
+9	20:22:4	w	ࡰ۬لْكُبْرَى࣌		الكبري	the Greatest	l-kub'rā
+9	20:22:5	e	۝٢٢				
+10	20:23:1	w	ࡰٜذْهَبِ		اذهب	Go	idh'hab
+10	20:23:2	w	ࡴلَىٰ		الي	to	ilā
+10	20:23:3	w	فِرْعَوْنَ		فرعون	Firaun	fir'ʿawna
+10	20:23:4	w	إِنَّهُۥ		انه	Indeed, he	innahu
+10	20:23:5	w	طَغٜىٰ࣌		طغي	(has) transgressed	ṭaghā
+10	20:23:6	e	۝٢٣				
+10	20:24:1	w	قَالَ		قال	He said	qāla
+10	20:24:2	w	رَبِّ		رب	My Lord	rabbi
+10	20:24:3	w	ࡴٜشْرَحْ		اشرح	Expand	ish'raḥ
+10	20:24:4	w	لِے		لي	for me	lī
+10	20:24:5	w	صَدْرِے		صدري	my breast	ṣadrī
+10	20:24:6	e	۝٢٤				
+11	20:25:1	w	وَيَسِّرْ		ويسر	And ease	wayassir
+11	20:25:2	w	لِيَ		لي	for me	lī
+11	20:25:3	w	أَمْرِے		امري	my task	amrī
+11	20:25:4	e	۝٢٥				
+11	20:26:1	w	وَاحْلُلْ		واحلل	And untie	wa-uḥ'lul
+11	20:26:2	w	عُقْدَةࣰ		عقدة	(the) knot	ʿuq'datan
+11	20:26:3	w	مِّن		من	from	min
+11	20:26:4	w	لِّسَانِے		لساني	my tongue	lisānī
+11	20:26:5	e	۝٢٦				
+11	20:27:1	w	يَفْقَهُواْ		يفقهوا	That they may understand	yafqahū
+11	20:27:2	w	قَوْلِے		قولي	my speech	qawlī
+11	20:27:3	e	۝٢٧				
+12	20:28:1	w	وَاجْعَل		واجعل	And appoint	wa-ij'ʿal
+12	20:28:2	w	لِّے		لي	for me	lī
+12	20:28:3	w	وَزِيراࣰ		وزيرا	a minister	wazīran
+12	20:28:4	w	مِّنَ		من	from	min
+12	20:28:5	w	ࡰهْلِے		اهلي	my family	ahlī
+12	20:28:6	e	۝٢٨				
+12	20:29:1	w	هَٰرُونَ		هرون	Harun	hārūna
+12	20:29:2	w	أَخِے࣌		اخي	my brother	akhī
+12	20:29:3	e	۝٢٩				
+12	20:30:1	w	ࡴ࢈شْدُدْ		اشدد	Reinforce	ush'dud
+12	20:30:2	w	بِهِۦٓ		بهي	through him	bihi
+13	20:30:3	w	أَزْرِے		ازري	my strength	azrī
+13	20:30:4	e	۝٣٠				
+13	20:31:1	w	وَأَشْرِكْهُ		واشركه	And make him share	wa-ashrik'hu
+13	20:31:2	w	فِےٓ		في	[in]	fī
+13	20:31:3	w	أَمْرِے		امري	my task	amrī
+13	20:31:4	e	۝٣١				
+13	20:32:1	w	كَےْ		كي	That	kay
+13	20:32:2	w	نُسَبِّحَكَ		نسبحك	we may glorify You	nusabbiḥaka
+13	20:32:3	w	كَثِيراࣰ		كثيرا	much	kathīran
+13	20:32:4	e	۝٣٢				
+14	20:33:1	w	وَنَذْكُرَكَ		ونذكرك	And [we] remember You	wanadhkuraka
+14	20:33:2	w	كَثِيراً		كثيرا	much	kathīran
+14	20:33:3	e	۝٣٣				
+14	20:34:1	w	ࡴنَّكَ		انك	Indeed, [You]	innaka
+14	20:34:2	w	كُنتَ		كنت	You are	kunta
+14	20:34:3	w	بِنَا		بنا	of us	binā
+14	20:34:4	w	بَصِيراࣰ࣌		بصيرا	All-Seer	baṣīran
+14	20:34:5	e	۝٣٤				
+14	20:35:1	w	۞ قَالَ		قال	He said	qāla
+14	20:35:2	w	قَدُ		قد	Verily	qad
+15	20:35:3	w	ࡳوتِيتَ		اوتيت	you are granted	ūtīta
+15	20:35:4	w	سُؤْلَكَ		سولك	your request	su'laka
+15	20:35:5	w	يَٰمُوسٜىٰ࣌		يموسي	O Musa	yāmūsā
+15	20:35:6	e	۝٣٥				
+15	20:36:1	w	وَلَقَدْ		ولقد	And indeed	walaqad
+15	20:36:2	w	مَنَنَّا		مننا	We conferred a favor	manannā
+15	20:36:3	w	عَلَيْكَ		عليك	on you	ʿalayka
+15	20:36:4	w	مَرَّةً		مرة	another time	marratan
+15	20:36:5	w	ࡳخْرٜىٰٓ		اخري	another time	ukh'rā
+15	20:36:6	e	۝٣٦				

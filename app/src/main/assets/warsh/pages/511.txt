@@ -1,0 +1,115 @@
+1	48:0:0	t					
+2	48:0:0	b					
+3	48:1:1	w	إِنَّا		انا	Indeed	innā
+3	48:1:2	w	فَتَحْنَا		فتحنا	We have given victory	fataḥnā
+3	48:1:3	w	لَكَ		لك	to you	laka
+3	48:1:4	w	فَتْحاࣰ		فتحا	a victory	fatḥan
+3	48:1:5	w	مُّبِيناࣰ		مبينا	clear	mubīnan
+3	48:1:6	e	۝١				
+3	48:2:1	w	لِّيَغْفِرَ		ليغفر	That may forgive	liyaghfira
+3	48:2:2	w	لَكَ		لك	for you	laka
+3	48:2:3	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+3	48:2:4	w	مَا		ما	what	mā
+3	48:2:5	w	تَقَدَّمَ		تقدم	preceded	taqaddama
+3	48:2:6	w	مِن		من	of	min
+3	48:2:7	w	ذَنۢبِكَ		ذنبك	your sins	dhanbika
+4	48:2:8	w	وَمَا		وما	and what	wamā
+4	48:2:9	w	تَأَخَّرَ		تاخر	will follow	ta-akhara
+4	48:2:10	w	وَيُتِمَّ		ويتم	and complete	wayutimma
+4	48:2:11	w	نِعْمَتَهُۥ		نعمته	His favor	niʿ'matahu
+4	48:2:12	w	عَلَيْكَ		عليك	upon you	ʿalayka
+4	48:2:13	w	وَيَهْدِيَكَ		ويهديك	and guide you	wayahdiyaka
+4	48:2:14	w	صِرَٰطاࣰ		صرطا	(to) a Path	ṣirāṭan
+4	48:2:15	w	مُّسْتَقِيماࣰ		مستقيما	Straight	mus'taqīman
+4	48:2:16	e	۝٢				
+5	48:3:1	w	وَيَنصُرَكَ		وينصرك	And Allah may help you	wayanṣuraka
+5	48:3:2	w	ࡰ۬للَّهُ		الله	And Allah may help you	l-lahu
+5	48:3:3	w	نَصْراً		نصرا	(with) a help	naṣran
+5	48:3:4	w	عَزِيزاً࣌		عزيزا	mighty	ʿazīzan
+5	48:3:5	e	۝٣				
+5	48:4:1	w	هُوَ		هو	He	huwa
+5	48:4:2	w	ࡰ۬لذِےٓ		الذي	(is) the One Who	alladhī
+5	48:4:3	w	أَنزَلَ		انزل	sent down	anzala
+5	48:4:4	w	ࡰ۬لسَّكِينَةَ		السكينة	[the] tranquility	l-sakīnata
+5	48:4:5	w	فِے		في	in(to)	fī
+5	48:4:6	w	قُلُوبِ		قلوب	(the) hearts	qulūbi
+6	48:4:7	w	ࡴ۬لْمُومِنِينَ		المومنين	(of) the believers	l-mu'minīna
+6	48:4:8	w	لِيَزْدَادُوٓاْ		ليزدادوا	that they may increase	liyazdādū
+6	48:4:9	w	إِيمَٰناࣰ		ايمنا	(in) faith	īmānan
+6	48:4:10	w	مَّعَ		مع	with	maʿa
+6	48:4:11	w	إِيمَٰنِهِمْ࣌		ايمنهم	their faith	īmānihim
+6	48:4:12	w	وَلِلهِ		ولله	And for Allah	walillahi
+6	48:4:13	w	جُنُودُ		جنود	(are the) hosts	junūdu
+6	48:4:14	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+7	48:4:15	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+7	48:4:16	w	وَكَانَ		وكان	and Allah	wakāna
+7	48:4:17	w	ࡰ۬للَّهُ		الله	and Allah	l-lahu
+7	48:4:18	w	عَلِيماً		عليما	(is) All-Knower	ʿalīman
+7	48:4:19	w	حَكِيماࣰ		حكيما	All-Wise	ḥakīman
+7	48:4:20	e	۝٤				
+7	48:5:1	w	لِّيُدْخِلَ		ليدخل	That He may admit	liyud'khila
+7	48:5:2	w	ࡰ۬لْمُومِنِينَ		المومنين	the believing men	l-mu'minīna
+8	48:5:3	w	وَالْمُومِنَٰتِ		والمومنت	and the believing women	wal-mu'mināti
+8	48:5:4	w	جَنَّٰتࣲ		جنت	(to) Gardens	jannātin
+8	48:5:5	w	تَجْرِے		تجري	flow	tajrī
+8	48:5:6	w	مِن		من	from	min
+8	48:5:7	w	تَحْتِهَا		تحتها	underneath them	taḥtihā
+8	48:5:8	w	ࡰ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+8	48:5:9	w	خَٰلِدِينَ		خلدين	(to) abide forever	khālidīna
+8	48:5:10	w	فِيهَا		فيها	therein	fīhā
+8	48:5:11	w	وَيُكَفِّرَ		ويكفر	and (to) remove	wayukaffira
+9	48:5:12	w	عَنْهُمْ		عنهم	from them	ʿanhum
+9	48:5:13	w	سَيِّـَٔاتِهِمْ		سياتهم	their misdeeds	sayyiātihim
+9	48:5:14	w	وَكَانَ		وكان	and is	wakāna
+9	48:5:15	w	ذَٰلِكَ		ذلك	that	dhālika
+9	48:5:16	w	عِندَ		عند	with	ʿinda
+9	48:5:17	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+9	48:5:18	w	فَوْزاً		فوزا	a success	fawzan
+9	48:5:19	w	عَظِيماࣰ		عظيما	great	ʿaẓīman
+9	48:5:20	e	۝٥				
+9	48:6:1	w	وَيُعَذِّبَ		ويعذب	And He (may) punish	wayuʿadhiba
+10	48:6:2	w	ࡰ۬لْمُنَٰفِقِينَ		المنفقين	the hypocrite men	l-munāfiqīna
+10	48:6:3	w	وَالْمُنَٰفِقَٰتِ		والمنفقت	and the hypocrite women	wal-munāfiqāti
+10	48:6:4	w	وَالْمُشْرِكِينَ		والمشركين	and the polytheist men	wal-mush'rikīna
+10	48:6:5	w	وَالْمُشْرِكَٰتِ		والمشركت	and the polytheist women	wal-mush'rikāti
+10	48:6:6	w	ࡴ۬لظَّآنِّينَ		الظانين	who assume	l-ẓānīna
+11	48:6:7	w	بِاللَّهِ		بالله	about Allah	bil-lahi
+11	48:6:8	w	ظَنَّ		ظن	an assumption	ẓanna
+11	48:6:9	w	ࡰ۬لسَّوْءِ࣌		السو	evil	l-sawi
+11	48:6:10	w	عَلَيْهِمْ		عليهم	Upon them	ʿalayhim
+11	48:6:11	w	دَآئِرَةُ		دايرة	(is) a turn	dāiratu
+11	48:6:12	w	ࡲ۬لسَّوْءِ࣌		السو	(of) evil	l-sawi
+11	48:6:13	w	وَغَضِبَ		وغضب	and Allah's wrath (is)	waghaḍiba
+11	48:6:14	w	ࡰ۬للَّهُ		الله	and Allah's wrath (is)	l-lahu
+11	48:6:15	w	عَلَيْهِمْ		عليهم	upon them	ʿalayhim
+12	48:6:16	w	وَلَعَنَهُمْ		ولعنهم	and He has cursed them	walaʿanahum
+12	48:6:17	w	وَأَعَدَّ		واعد	and prepared	wa-aʿadda
+12	48:6:18	w	لَهُمْ		لهم	for them	lahum
+12	48:6:19	w	جَهَنَّمَ࣌		جهنم	Hell	jahannama
+12	48:6:20	w	وَسَآءَتْ		وسات	and evil	wasāat
+12	48:6:21	w	مَصِيراࣰ࣌		مصيرا	(is the) destination	maṣīran
+12	48:6:22	e	۝٦				
+12	48:7:1	w	وَلِلهِ		ولله	And for Allah	walillahi
+12	48:7:2	w	جُنُودُ		جنود	(are the) hosts	junūdu
+13	48:7:3	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+13	48:7:4	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+13	48:7:5	w	وَكَانَ		وكان	and Allah	wakāna
+13	48:7:6	w	ࡰ۬للَّهُ		الله	and Allah	l-lahu
+13	48:7:7	w	عَزِيزاً		عزيزا	(is) All-Mighty	ʿazīzan
+13	48:7:8	w	حَكِيماً࣌		حكيما	All-Wise	ḥakīman
+13	48:7:9	e	۝٧				
+13	48:8:1	w	۞ ࡴنَّآ		انا	Indeed, We	innā
+14	48:8:2	w	أَرْسَلْنَٰكَ		ارسلنك	[We] have sent you	arsalnāka
+14	48:8:3	w	شَٰهِداࣰ		شهدا	(as) a witness	shāhidan
+14	48:8:4	w	وَمُبَشِّراࣰ		ومبشرا	and (as) a bearer of glad tidings	wamubashiran
+14	48:8:5	w	وَنَذِيراࣰ		ونذيرا	and (as) a warner	wanadhīran
+14	48:8:6	e	۝٨				
+14	48:9:1	w	لِّتُومِنُواْ		لتومنوا	That you may believe	litu'minū
+14	48:9:2	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+14	48:9:3	w	وَرَسُولِهِۦ		ورسولهي	and His Messenger	warasūlihi
+15	48:9:4	w	وَتُعَزِّرُوهُ		وتعزروه	and (may) honor him	watuʿazzirūhu
+15	48:9:5	w	وَتُوَقِّرُوهُ		وتوقروه	and respect him	watuwaqqirūhu
+15	48:9:6	w	وَتُسَبِّحُوهُ		وتسبحوه	and glorify Him	watusabbiḥūhu
+15	48:9:7	w	بُكْرَةࣰ		بكرة	morning	buk'ratan
+15	48:9:8	w	وَأَصِيلاً࣌		واصيلا	and evening	wa-aṣīlan
+15	48:9:9	e	۝٩				

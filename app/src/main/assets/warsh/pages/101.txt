@@ -1,0 +1,135 @@
+1	4:140:1	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+1	4:140:2	w	يَتَرَبَّصُونَ		يتربصون	are waiting	yatarabbaṣūna
+1	4:140:3	w	بِكُمْ		بكم	for you	bikum
+1	4:140:4	w	فَإِن		فان	Then if	fa-in
+1	4:140:5	w	كَانَ		كان	was	kāna
+1	4:140:6	w	لَكُمْ		لكم	for you	lakum
+1	4:140:7	w	فَتْحࣱ		فتح	a victory	fatḥun
+1	4:140:8	w	مِّنَ		من	from	mina
+1	4:140:9	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+1	4:140:10	w	قَالُوٓاْ		قالوا	they say	qālū
+2	4:140:11	w	أَلَمْ		الم	Were not	alam
+2	4:140:12	w	نَكُن		نكن	we	nakun
+2	4:140:13	w	مَّعَكُمْ		معكم	with you	maʿakum
+2	4:140:14	w	وَإِن		وان	But if	wa-in
+2	4:140:15	w	كَانَ		كان	(there) was	kāna
+2	4:140:16	w	لِلْكٜـٰفِرِينَ		للكفرين	for the disbelievers	lil'kāfirīna
+2	4:140:17	w	نَصِيبࣱ		نصيب	a chance	naṣībun
+2	4:140:18	w	قَالُوٓاْ		قالوا	they said	qālū
+3	4:140:19	w	أَلَمْ		الم	Did not	alam
+3	4:140:20	w	نَسْتَحْوِذْ		نستحوذ	we have advantage	nastaḥwidh
+3	4:140:21	w	عَلَيْكُمْ		عليكم	over you	ʿalaykum
+3	4:140:22	w	وَنَمْنَعْكُم		ونمنعكم	and we protected you	wanamnaʿkum
+3	4:140:23	w	مِّنَ		من	from	mina
+3	4:140:24	w	ࡰ۬لْمُومِنِينَ࣌		المومنين	the believers	l-mu'minīna
+3	4:140:25	w	فَاللَّهُ		فالله	And Allah	fal-lahu
+3	4:140:26	w	يَحْكُمُ		يحكم	will judge	yaḥkumu
+4	4:140:27	w	بَيْنَكُمْ		بينكم	between you	baynakum
+4	4:140:28	w	يَوْمَ		يوم	(on the) Day	yawma
+4	4:140:29	w	ࡰ۬لْقِيَٰمَةِ࣌		القيمة	(of) the Resurrection	l-qiyāmati
+4	4:140:30	w	وَلَنْ		ولن	and never	walan
+4	4:140:31	w	يَّجْعَلَ		يجعل	will make	yajʿala
+4	4:140:32	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+4	4:140:33	w	لِلْكٜـٰفِرِينَ		للكفرين	for the disbelievers	lil'kāfirīna
+4	4:140:34	w	عَلَى		علي	over	ʿalā
+4	4:140:35	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+5	4:140:36	w	سَبِيلاً࣌		سبيلا	a way	sabīlan
+5	4:140:37	e	۝١٤٠				
+5	4:141:1	w	ࡴنَّ		ان	Indeed	inna
+5	4:141:2	w	ࡰ۬لْمُنَٰفِقِينَ		المنفقين	the hypocrites	l-munāfiqīna
+5	4:141:3	w	يُخَٰدِعُونَ		يخدعون	(seek to) deceive	yukhādiʿūna
+5	4:141:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	4:141:5	w	وَهُوَ		وهو	and (it is) He	wahuwa
+5	4:141:6	w	خَٰدِعُهُمْ࣌		خدعهم	who deceives them	khādiʿuhum
+5	4:141:7	w	وَإِذَا		واذا	And when	wa-idhā
+6	4:141:8	w	قَامُوٓاْ		قاموا	they stand	qāmū
+6	4:141:9	w	إِلَى		الي	for	ilā
+6	4:141:10	w	ࡰ۬لصَّلَوٰةِ		الصلوة	the prayer	l-ṣalati
+6	4:141:11	w	قَامُواْ		قاموا	they stand	qāmū
+6	4:141:12	w	كُسَالٜىٰ		كسالي	lazily	kusālā
+6	4:141:13	w	يُرَآءُونَ		يراون	showing off	yurāūna
+6	4:141:14	w	ࡰ۬لنَّاسَ		الناس	(to) the people	l-nāsa
+6	4:141:15	w	وَلَا		ولا	and not	walā
+6	4:141:16	w	يَذْكُرُونَ		يذكرون	they remember	yadhkurūna
+7	4:141:17	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+7	4:141:18	w	إِلَّا		الا	except	illā
+7	4:141:19	w	قَلِيلاࣰ		قليلا	a little	qalīlan
+7	4:141:20	e	۝١٤١				
+7	4:142:1	w	مُّذَبْذَبِينَ		مذبذبين	Wavering	mudhabdhabīna
+7	4:142:2	w	بَيْنَ		بين	between	bayna
+7	4:142:3	w	ذَٰلِكَ		ذلك	that	dhālika
+7	4:142:4	w	لَآ		لا	not	lā
+7	4:142:5	w	إِلَىٰ		الي	to	ilā
+7	4:142:6	w	هَٰٓؤُلَآءِ		هولا	these	hāulāi
+7	4:142:7	w	وَلَآ		ولا	and not	walā
+7	4:142:8	w	إِلَىٰ		الي	to	ilā
+8	4:142:9	w	هَٰٓؤُلَآءِ࣌		هولا	those	hāulāi
+8	4:142:10	w	وَمَنْ		ومن	And whoever	waman
+8	4:142:11	w	يُّضْلِلِ		يضلل	has been lead astray	yuḍ'lili
+8	4:142:12	w	ࡴ۬للَّهُ		الله	(by) Allah	l-lahu
+8	4:142:13	w	فَلَن		فلن	then never	falan
+8	4:142:14	w	تَجِدَ		تجد	you will find	tajida
+8	4:142:15	w	لَهُۥ		له	for him	lahu
+8	4:142:16	w	سَبِيلاࣰ࣌		سبيلا	a way	sabīlan
+8	4:142:17	e	۝١٤٢				
+8	4:143:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+8	4:143:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+9	4:143:3	w	ءَامَنُواْ		امنوا	believe[d]	āmanū
+9	4:143:4	w	لَا		لا	(Do) not	lā
+9	4:143:5	w	تَتَّخِذُواْ		تتخذوا	take	tattakhidhū
+9	4:143:6	w	ࡲ۬لْكٜـٰفِرِينَ		الكفرين	the disbelievers	l-kāfirīna
+9	4:143:7	w	أَوْلِيَآءَ		اوليا	(as) allies	awliyāa
+9	4:143:8	w	مِن		من	from	min
+9	4:143:9	w	دُونِ		دون	instead of	dūni
+9	4:143:10	w	ࡴ۬لْمُومِنِينَ࣌		المومنين	the believers	l-mu'minīna
+10	4:143:11	w	أَتُرِيدُونَ		اتريدون	Do you wish	aturīdūna
+10	4:143:12	w	أَن		ان	that	an
+10	4:143:13	w	تَجْعَلُواْ		تجعلوا	you make	tajʿalū
+10	4:143:14	w	لِلهِ		لله	for Allah	lillahi
+10	4:143:15	w	عَلَيْكُمْ		عليكم	against you	ʿalaykum
+10	4:143:16	w	سُلْطَٰناࣰ		سلطنا	an evidence	sul'ṭānan
+10	4:143:17	w	مُّبِيناً࣌		مبينا	clear	mubīnan
+10	4:143:18	e	۝١٤٣				
+10	4:144:1	w	ࡴنَّ		ان	Indeed	inna
+11	4:144:2	w	ࡰ۬لْمُنَٰفِقِينَ		المنفقين	the hypocrites	l-munāfiqīna
+11	4:144:3	w	فِے		في	(will be) in	fī
+11	4:144:4	w	ࡴ۬لدَّرَكِ		الدرك	the depths	l-darki
+11	4:144:5	w	ࡴ۬لَاسْفَلِ		الاسفل	the lowest	l-asfali
+11	4:144:6	w	مِنَ		من	of	mina
+11	4:144:7	w	ࡰ۬لنّٜارِ		النار	the Fire	l-nāri
+11	4:144:8	w	وَلَن		ولن	and never	walan
+11	4:144:9	w	تَجِدَ		تجد	you will find	tajida
+11	4:144:10	w	لَهُمْ		لهم	for them	lahum
+11	4:144:11	w	نَصِيراً࣌		نصيرا	any helper	naṣīran
+11	4:144:12	e	۝١٤٤				
+12	4:145:1	w	ࡴلَّا		الا	Except	illā
+12	4:145:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	4:145:3	w	تَابُواْ		تابوا	repent	tābū
+12	4:145:4	w	وَأَصْلَحُواْ		واصلحوا	and correct (themselves)	wa-aṣlaḥū
+12	4:145:5	w	وَاعْتَصَمُواْ		واعتصموا	and hold fast	wa-iʿ'taṣamū
+12	4:145:6	w	بِاللَّهِ		بالله	to Allah	bil-lahi
+12	4:145:7	w	وَأَخْلَصُواْ		واخلصوا	and are sincere	wa-akhlaṣū
+13	4:145:8	w	دِينَهُمْ		دينهم	(in) their religion	dīnahum
+13	4:145:9	w	لِلهِ		لله	for Allah	lillahi
+13	4:145:10	w	فَأُوْلَٰٓئِكَ		فاوليك	then those (will be)	fa-ulāika
+13	4:145:11	w	مَعَ		مع	with	maʿa
+13	4:145:12	w	ࡰ۬لْمُومِنِينَ࣌		المومنين	the believers	l-mu'minīna
+13	4:145:13	w	وَسَوْفَ		وسوف	And soon	wasawfa
+13	4:145:14	w	يُوتِ		يوت	will be given	yu'ti
+13	4:145:15	w	ࡴ۬للَّهُ		الله	(by) Allah	l-lahu
+14	4:145:16	w	ࡲ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+14	4:145:17	w	أَجْراً		اجرا	a reward	ajran
+14	4:145:18	w	عَظِيماࣰ࣌		عظيما	great	ʿaẓīman
+14	4:145:19	e	۝١٤٥				
+14	4:146:1	w	مَّا		ما	What	mā
+14	4:146:2	w	يَفْعَلُ		يفعل	would do	yafʿalu
+14	4:146:3	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+14	4:146:4	w	بِعَذَابِكُمُۥٓ		بعذابكم	by punishing you	biʿadhābikum
+15	4:146:5	w	إِن		ان	if	in
+15	4:146:6	w	شَكَرْتُمْ		شكرتم	you are grateful	shakartum
+15	4:146:7	w	وَءَامَنتُمْ࣌		وامنتم	and you believe	waāmantum
+15	4:146:8	w	وَكَانَ		وكان	And is	wakāna
+15	4:146:9	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+15	4:146:10	w	شَاكِراً		شاكرا	All-Appreciative	shākiran
+15	4:146:11	w	عَلِيماࣰ࣌		عليما	All-Knowing	ʿalīman
+15	4:146:12	e	۝١٤٦				

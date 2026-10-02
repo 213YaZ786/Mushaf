@@ -1,0 +1,119 @@
+1	22:71:1	w	يَٰٓأَيُّهَا		يايها	O mankind	yāayyuhā
+1	22:71:2	w	ࡰ۬لنَّاسُ		الناس	O mankind	l-nāsu
+1	22:71:3	w	ضُرِبَ		ضرب	Is set forth	ḍuriba
+1	22:71:4	w	مَثَلࣱ		مثل	an example	mathalun
+1	22:71:5	w	فَاسْتَمِعُواْ		فاستمعوا	so listen	fa-is'tamiʿū
+1	22:71:6	w	لَهُۥٓ࣌		له	to it	lahu
+1	22:71:7	w	إِنَّ		ان	Indeed	inna
+1	22:71:8	w	ࡰ۬لذِينَ		الذين	those whom	alladhīna
+2	22:71:9	w	تَدْعُونَ		تدعون	you invoke	tadʿūna
+2	22:71:10	w	مِن		من	besides Allah	min
+2	22:71:11	w	دُونِ		دون	besides Allah	dūni
+2	22:71:12	w	ࡴ۬للَّهِ		الله	besides Allah	l-lahi
+2	22:71:13	w	لَنْ		لن	will never	lan
+2	22:71:14	w	يَّخْلُقُواْ		يخلقوا	create	yakhluqū
+2	22:71:15	w	ذُبَاباࣰ		ذبابا	a fly	dhubāban
+2	22:71:16	w	وَلَوِ		ولو	even if	walawi
+2	22:71:17	w	ࡴٜجْتَمَعُواْ		اجتمعوا	they gathered together	ij'tamaʿū
+3	22:71:18	w	لَهُۥ࣌		له	for it	lahu
+3	22:71:19	w	وَإِنْ		وان	And if	wa-in
+3	22:71:20	w	يَّسْلُبْهُمُ		يسلبهم	snatched away from them	yaslub'humu
+3	22:71:21	w	ࡲ۬لذُّبَابُ		الذباب	the fly	l-dhubābu
+3	22:71:22	w	شَيْـٔاࣰ		شيا	a thing	shayan
+3	22:71:23	w	لَّا		لا	not	lā
+3	22:71:24	w	يَسْتَنقِذُوهُ		يستنقذوه	they (could) take it back	yastanqidhūhu
+3	22:71:25	w	مِنْهُ࣌		منه	from it	min'hu
+4	22:71:26	w	ضَعُفَ		ضعف	So weak	ḍaʿufa
+4	22:71:27	w	ࡰ۬لطَّالِبُ		الطالب	(are) the seeker	l-ṭālibu
+4	22:71:28	w	وَالْمَطْلُوبُ࣌		والمطلوب	and the one who is sought	wal-maṭlūbu
+4	22:71:29	e	۝٧١				
+4	22:72:1	w	مَا		ما	Not	mā
+4	22:72:2	w	قَدَرُواْ		قدروا	they (have) estimated	qadarū
+4	22:72:3	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+4	22:72:4	w	حَقَّ		حق	(with) due	ḥaqqa
+4	22:72:5	w	قَدْرِهِۦٓ࣌		قدرهي	[His] estimation	qadrihi
+5	22:72:6	w	إِنَّ		ان	Indeed	inna
+5	22:72:7	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	22:72:8	w	لَقَوِيٌّ		لقوي	(is) surely All-Strong	laqawiyyun
+5	22:72:9	w	عَزِيزٌ࣌		عزيز	All-Mighty	ʿazīzun
+5	22:72:10	e	۝٧٢				
+5	22:73:1	w	ࡴ۬للَّهُ		الله	Allah	al-lahu
+5	22:73:2	w	يَصْطَفِے		يصطفي	chooses	yaṣṭafī
+5	22:73:3	w	مِنَ		من	from	mina
+5	22:73:4	w	ࡰ۬لْمَلَٰٓئِكَةِ		المليكة	the Angels	l-malāikati
+6	22:73:5	w	رُسُلاࣰ		رسلا	Messengers	rusulan
+6	22:73:6	w	وَمِنَ		ومن	and from	wamina
+6	22:73:7	w	ࡰ۬لنَّاسِ࣌		الناس	the mankind	l-nāsi
+6	22:73:8	w	إِنَّ		ان	Indeed	inna
+6	22:73:9	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	22:73:10	w	سَمِيعُۢ		سميع	(is) All-Hearer	samīʿun
+6	22:73:11	w	بَصِيرࣱ࣌		بصير	All-Seer	baṣīrun
+6	22:73:12	e	۝٧٣				
+6	22:74:1	w	يَعْلَمُ		يعلم	He knows	yaʿlamu
+7	22:74:2	w	مَا		ما	what	mā
+7	22:74:3	w	بَيْنَ		بين	(is) before them	bayna
+7	22:74:4	w	أَيْدِيهِمْ		ايديهم	(is) before them	aydīhim
+7	22:74:5	w	وَمَا		وما	and what	wamā
+7	22:74:6	w	خَلْفَهُمْ࣌		خلفهم	(is) after them	khalfahum
+7	22:74:7	w	وَإِلَى		والي	And to	wa-ilā
+7	22:74:8	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	22:74:9	w	تُرْجَعُ		ترجع	return	tur'jaʿu
+7	22:74:10	w	ࡲ۬لُامُورُ࣌		الامور	all the matters	l-umūru
+7	22:74:11	e	۝٧٤				
+8	22:75:1	w	يَٰٓأَيُّهَا		يايها	O you who believe	yāayyuhā
+8	22:75:2	w	ࡰ۬لذِينَ		الذين	O you who believe	alladhīna
+8	22:75:3	w	ءَامَنُواْ		امنوا	O you who believe	āmanū
+8	22:75:4	w	ࡲٜرْكَعُواْ		اركعوا	Bow	ir'kaʿū
+8	22:75:5	w	وَاسْجُدُواْ		واسجدوا	and prostrate	wa-us'judū
+8	22:75:6	w	وَاعْبُدُواْ		واعبدوا	and worship	wa-uʿ'budū
+9	22:75:7	w	رَبَّكُمْ		ربكم	your Lord	rabbakum
+9	22:75:8	w	وَافْعَلُواْ		وافعلوا	and do	wa-if'ʿalū
+9	22:75:9	w	ࡲ۬لْخَيْرَ		الخير	[the] good	l-khayra
+9	22:75:10	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+9	22:75:11	w	تُفْلِحُونَ࣌		تفلحون	be successful	tuf'liḥūna
+9	22:75:12	e	۝٧٥				
+9	22:76:1	w	وَجَٰهِدُواْ		وجهدوا	And strive	wajāhidū
+10	22:76:2	w	فِے		في	for	fī
+10	22:76:3	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+10	22:76:4	w	حَقَّ		حق	(with the) striving due (to) Him	ḥaqqa
+10	22:76:5	w	جِهَادِهِۦ࣌		جهادهي	(with the) striving due (to) Him	jihādihi
+10	22:76:6	w	هُوَ		هو	He	huwa
+10	22:76:7	w	ࡰٜجْتَبٜيٰكُمْ࣌		اجتبيكم	(has) chosen you	ij'tabākum
+10	22:76:8	w	وَمَا		وما	and not	wamā
+10	22:76:9	w	جَعَلَ		جعل	placed	jaʿala
+11	22:76:10	w	عَلَيْكُمْ		عليكم	upon you	ʿalaykum
+11	22:76:11	w	فِے		في	in	fī
+11	22:76:12	w	ࡴ۬لدِّينِ		الدين	the religion	l-dīni
+11	22:76:13	w	مِنْ		من	any	min
+11	22:76:14	w	حَرَجࣲ࣌		حرج	difficulty	ḥarajin
+11	22:76:15	w	مِّلَّةَ		ملة	(The) religion	millata
+11	22:76:16	w	أَبِيكُمُۥٓ		ابيكم	(of) your father	abīkum
+11	22:76:17	w	إِبْرَٰهِيمَ࣌		ابرهيم	Ibrahim	ib'rāhīma
+12	22:76:18	w	هُوَ		هو	He	huwa
+12	22:76:19	w	سَمّٜيٰكُمُ		سميكم	named you	sammākumu
+12	22:76:20	w	ࡲ۬لْمُسْلِمِينَ		المسلمين	Muslims	l-mus'limīna
+12	22:76:21	w	مِن		من	before	min
+12	22:76:22	w	قَبْلُ		قبل	before	qablu
+12	22:76:23	w	وَفِے		وفي	and in	wafī
+12	22:76:24	w	هَٰذَا		هذا	this	hādhā
+13	22:76:25	w	لِيَكُونَ		ليكون	that may be	liyakūna
+13	22:76:26	w	ࡰ۬لرَّسُولُ		الرسول	the Messenger	l-rasūlu
+13	22:76:27	w	شَهِيداً		شهيدا	a witness	shahīdan
+13	22:76:28	w	عَلَيْكُمْ		عليكم	over you	ʿalaykum
+13	22:76:29	w	وَتَكُونُواْ		وتكونوا	and you may be	watakūnū
+13	22:76:30	w	شُهَدَآءَ		شهدا	witnesses	shuhadāa
+13	22:76:31	w	عَلَى		علي	on	ʿalā
+14	22:76:32	w	ࡰ۬لنَّاسِ࣌		الناس	the mankind	l-nāsi
+14	22:76:33	w	فَأَقِيمُواْ		فاقيموا	So establish	fa-aqīmū
+14	22:76:34	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+14	22:76:35	w	وَءَاتُواْ		واتوا	and give	waātū
+14	22:76:36	w	ࡲ۬لزَّكَوٰةَ࣌		الزكوة	zakah	l-zakata
+14	22:76:37	w	وَاعْتَصِمُواْ		واعتصموا	and hold fast	wa-iʿ'taṣimū
+15	22:76:38	w	بِاللَّهِ࣌		بالله	to Allah	bil-lahi
+15	22:76:39	w	هُوَ		هو	He	huwa
+15	22:76:40	w	مَوْلٜيٰكُمْ࣌		موليكم	(is) your Protector	mawlākum
+15	22:76:41	w	فَنِعْمَ		فنعم	so an Excellent	faniʿ'ma
+15	22:76:42	w	ࡰ۬لْمَوْلٜىٰ࣌		المولي	[the] Protector	l-mawlā
+15	22:76:43	w	وَنِعْمَ		ونعم	and an Excellent	waniʿ'ma
+15	22:76:44	w	ࡰ۬لنَّصِيرُ࣌		النصير	[the] Helper	l-naṣīru
+15	22:76:45	e	۝٧٦				

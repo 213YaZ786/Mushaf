@@ -1,0 +1,164 @@
+1	20:64:1	w	قَالُواْ		قالوا	They said	qālū
+1	20:64:2	w	يَٰمُوسٜىٰٓ		يموسي	O Musa	yāmūsā
+1	20:64:3	w	إِمَّآ		اما	Either	immā
+1	20:64:4	w	أَن		ان	[that]	an
+1	20:64:5	w	تُلْقِيَ		تلقي	you throw	tul'qiya
+1	20:64:6	w	وَإِمَّآ		واما	or	wa-immā
+1	20:64:7	w	أَن		ان	[that]	an
+1	20:64:8	w	نَّكُونَ		نكون	we will be	nakūna
+1	20:64:9	w	أَوَّلَ		اول	the first	awwala
+1	20:64:10	w	مَنَ		من	who	man
+1	20:64:11	w	ࡰلْقٜىٰ࣌		القي	throws	alqā
+1	20:64:12	e	۝٦٤				
+1	20:65:1	w	قَالَ		قال	He said	qāla
+2	20:65:2	w	بَلَ		بل	Nay	bal
+2	20:65:3	w	ࡰلْقُواْ࣌		القوا	you throw	alqū
+2	20:65:4	w	فَإِذَا		فاذا	Then behold	fa-idhā
+2	20:65:5	w	حِبَالُهُمْ		حبالهم	Their ropes	ḥibāluhum
+2	20:65:6	w	وَعِصِيُّهُمْ		وعصيهم	and their staffs	waʿiṣiyyuhum
+2	20:65:7	w	يُخَيَّلُ		يخيل	seemed	yukhayyalu
+2	20:65:8	w	إِلَيْهِ		اليه	to him	ilayhi
+2	20:65:9	w	مِن		من	by	min
+2	20:65:10	w	سِحْرِهِمُۥٓ		سحرهم	their magic	siḥ'rihim
+2	20:65:11	w	أَنَّهَا		انها	that they	annahā
+3	20:65:12	w	تَسْعٜىٰ࣌		تسعي	(were) moving	tasʿā
+3	20:65:13	e	۝٦٥				
+3	20:66:1	w	فَأَوْجَسَ		فاوجس	So sensed	fa-awjasa
+3	20:66:2	w	فِے		في	in	fī
+3	20:66:3	w	نَفْسِهِۦ		نفسهي	himself	nafsihi
+3	20:66:4	w	خِيفَةࣰ		خيفة	a fear	khīfatan
+3	20:66:5	w	مُّوسٜىٰ࣌		موسي	Musa	mūsā
+3	20:66:6	e	۝٦٦				
+3	20:67:1	w	قُلْنَا		قلنا	We said	qul'nā
+3	20:67:2	w	لَا		لا	(Do) not	lā
+3	20:67:3	w	تَخَفِ		تخف	fear	takhaf
+3	20:67:4	w	ࡴنَّكَ		انك	Indeed, you	innaka
+4	20:67:5	w	أَنتَ		انت	you	anta
+4	20:67:6	w	ࡰ۬لَاعْلٜىٰ࣌		الاعلي	(will be) superior	l-aʿlā
+4	20:67:7	e	۝٦٧				
+4	20:68:1	w	وَأَلْقِ		والق	And throw	wa-alqi
+4	20:68:2	w	مَا		ما	what	mā
+4	20:68:3	w	فِے		في	(is) in	fī
+4	20:68:4	w	يَمِينِكَ		يمينك	your right hand	yamīnika
+4	20:68:5	w	تَلَقَّفْ		تلقف	it will swallow up	talqaf
+4	20:68:6	w	مَا		ما	what	mā
+4	20:68:7	w	صَنَعُوٓاْ࣌		صنعوا	they have made	ṣanaʿū
+4	20:68:8	w	إِنَّمَا		انما	Only	innamā
+4	20:68:9	w	صَنَعُواْ		صنعوا	they (have) made	ṣanaʿū
+5	20:68:10	w	كَيْدُ		كيد	a trick	kaydu
+5	20:68:11	w	سَٰحِرࣲ࣌		سحر	(of) a magician	sāḥirin
+5	20:68:12	w	وَلَا		ولا	and not	walā
+5	20:68:13	w	يُفْلِحُ		يفلح	will be successful	yuf'liḥu
+5	20:68:14	w	ࡲ۬لسَّاحِرُ		الساحر	the magician	l-sāḥiru
+5	20:68:15	w	حَيْثُ		حيث	wherever	ḥaythu
+5	20:68:16	w	أَتٜىٰ࣌		اتي	he comes	atā
+5	20:68:17	e	۝٦٨				
+5	20:69:1	w	فَأُلْقِيَ		فالقي	So were thrown down	fa-ul'qiya
+5	20:69:2	w	ࡰ۬لسَّحَرَةُ		السحرة	the magicians	l-saḥaratu
+5	20:69:3	w	سُجَّداࣰ࣌		سجدا	prostrating	sujjadan
+6	20:69:4	w	قَالُوٓاْ		قالوا	They said	qālū
+6	20:69:5	w	ءَامَنَّا		امنا	We believe	āmannā
+6	20:69:6	w	بِرَبِّ		برب	in (the) Lord	birabbi
+6	20:69:7	w	هَٰرُونَ		هرون	(of) Harun	hārūna
+6	20:69:8	w	وَمُوسٜىٰ࣌		وموسي	and Musa	wamūsā
+6	20:69:9	e	۝٦٩				
+6	20:70:1	w	قَالَ		قال	He said	qāla
+6	20:70:2	w	ءَࡶٰمَنتُمْ		امنتم	You believe	āmantum
+6	20:70:3	w	لَهُۥ		له	[to] him	lahu
+6	20:70:4	w	قَبْلَ		قبل	before	qabla
+6	20:70:5	w	أَنَ		ان	[that]	an
+6	20:70:6	w	اٰذَنَ		اذن	I gave permission	ādhana
+7	20:70:7	w	لَكُمُۥٓ		لكم	to you	lakum
+7	20:70:8	w	إِنَّهُۥ		انه	Indeed, he	innahu
+7	20:70:9	w	لَكَبِيرُكُمُ		لكبيركم	(is) your chief	lakabīrukumu
+7	20:70:10	w	ࡲ۬لذِے		الذي	the one who	alladhī
+7	20:70:11	w	عَلَّمَكُمُ		علمكم	taught you	ʿallamakumu
+7	20:70:12	w	ࡲ۬لسِّحْرَ࣌		السحر	the magic	l-siḥ'ra
+7	20:70:13	w	فَلَأُقَطِّعَنَّ		فلاقطعن	So surely I will cut off	fala-uqaṭṭiʿanna
+7	20:70:14	w	أَيْدِيَكُمْ		ايديكم	your hands	aydiyakum
+8	20:70:15	w	وَأَرْجُلَكُم		وارجلكم	and your feet	wa-arjulakum
+8	20:70:16	w	مِّنْ		من	of	min
+8	20:70:17	w	خِلَٰفࣲ		خلف	opposite sides	khilāfin
+8	20:70:18	w	وَلَأُصَلِّبَنَّكُمْ		ولاصلبنكم	and surely I will crucify you	wala-uṣallibannakum
+8	20:70:19	w	فِے		في	on	fī
+8	20:70:20	w	جُذُوعِ		جذوع	(the) trunks	judhūʿi
+8	20:70:21	w	ࡴ۬لنَّخْلِ		النخل	(of) date-palms	l-nakhli
+8	20:70:22	w	وَلَتَعْلَمُنَّ		ولتعلمن	and surely you will know	walataʿlamunna
+9	20:70:23	w	أَيُّنَآ		اينا	which of us	ayyunā
+9	20:70:24	w	أَشَدُّ		اشد	(is) more severe	ashaddu
+9	20:70:25	w	عَذَاباࣰ		عذابا	(in) punishment	ʿadhāban
+9	20:70:26	w	وَأَبْقٜىٰ࣌		وابقي	and more lasting	wa-abqā
+9	20:70:27	e	۝٧٠				
+9	20:71:1	w	۞ قَالُواْ		قالوا	They said	qālū
+9	20:71:2	w	لَن		لن	Never	lan
+9	20:71:3	w	نُّوثِرَكَ		نوثرك	we will prefer you	nu'thiraka
+9	20:71:4	w	عَلَىٰ		علي	over	ʿalā
+9	20:71:5	w	مَا		ما	what	mā
+9	20:71:6	w	جَآءَنَا		جانا	has come to us	jāanā
+9	20:71:7	w	مِنَ		من	of	mina
+10	20:71:8	w	ࡰ۬لْبَيِّنَٰتِ		البينت	the clear proofs	l-bayināti
+10	20:71:9	w	وَالذِے		والذي	and the One Who	wa-alladhī
+10	20:71:10	w	فَطَرَنَا࣌		فطرنا	created us	faṭaranā
+10	20:71:11	w	فَاقْضِ		فاقض	So decree	fa-iq'ḍi
+10	20:71:12	w	مَآ		ما	whatever	mā
+10	20:71:13	w	أَنتَ		انت	you	anta
+10	20:71:14	w	قَاضٍ࣌		قاض	(are) decreeing	qāḍin
+10	20:71:15	w	ࡴنَّمَا		انما	Only	innamā
+10	20:71:16	w	تَقْضِے		تقضي	you can decree	taqḍī
+10	20:71:17	w	هَٰذِهِ		هذه	(for) this	hādhihi
+10	20:71:18	w	ࡴ۬لْحَيَوٰةَ		الحيوة	life	l-ḥayata
+11	20:71:19	w	ࡰ۬لدُّنْيٜآ࣌		الدنيا	(of) the world	l-dun'yā
+11	20:71:20	e	۝٧١				
+11	20:72:1	w	إِنَّآ		انا	Indeed, [we]	innā
+11	20:72:2	w	ءَامَنَّا		امنا	we believe	āmannā
+11	20:72:3	w	بِرَبِّنَا		بربنا	in our Lord	birabbinā
+11	20:72:4	w	لِيَغْفِرَ		ليغفر	that He may forgive	liyaghfira
+11	20:72:5	w	لَنَا		لنا	for us	lanā
+11	20:72:6	w	خَطَٰيٜـٰنَا		خطينا	our sins	khaṭāyānā
+11	20:72:7	w	وَمَآ		وما	and what	wamā
+11	20:72:8	w	أَكْرَهْتَنَا		اكرهتنا	you compelled us	akrahtanā
+11	20:72:9	w	عَلَيْهِ		عليه	on it	ʿalayhi
+12	20:72:10	w	مِنَ		من	of	mina
+12	20:72:11	w	ࡰ۬لسِّحْرِ࣌		السحر	the magic	l-siḥ'ri
+12	20:72:12	w	وَاللَّهُ		والله	And Allah	wal-lahu
+12	20:72:13	w	خَيْرࣱ		خير	(is) Best	khayrun
+12	20:72:14	w	وَأَبْقٜىٰٓ࣌		وابقي	and Ever Lasting	wa-abqā
+12	20:72:15	e	۝٧٢				
+12	20:73:1	w	إِنَّهُۥ		انه	Indeed, he	innahu
+12	20:73:2	w	مَنْ		من	who	man
+12	20:73:3	w	يَّاتِ		يات	comes	yati
+12	20:73:4	w	رَبَّهُۥ		ربه	(to) his Lord	rabbahu
+12	20:73:5	w	مُجْرِماࣰ		مجرما	(as) a criminal	muj'riman
+12	20:73:6	w	فَإِنَّ		فان	then indeed	fa-inna
+13	20:73:7	w	لَهُۥ		له	for him	lahu
+13	20:73:8	w	جَهَنَّمَ		جهنم	(is) Hell	jahannama
+13	20:73:9	w	لَا		لا	Not	lā
+13	20:73:10	w	يَمُوتُ		يموت	he will die	yamūtu
+13	20:73:11	w	فِيهَا		فيها	in it	fīhā
+13	20:73:12	w	وَلَا		ولا	and not	walā
+13	20:73:13	w	يَحْيٜىٰ࣌		يحيي	live	yaḥyā
+13	20:73:14	e	۝٧٣				
+13	20:74:1	w	وَمَنْ		ومن	But whoever	waman
+13	20:74:2	w	يَّاتِهِۦ		ياتهي	comes to Him	yatihi
+13	20:74:3	w	مُومِناࣰ		مومنا	(as) a believer	mu'minan
+13	20:74:4	w	قَدْ		قد	verily	qad
+13	20:74:5	w	عَمِلَ		عمل	he has done	ʿamila
+14	20:74:6	w	ࡰ۬لصَّٰلِحَٰتِ		الصلحت	the righteous deeds	l-ṣāliḥāti
+14	20:74:7	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+14	20:74:8	w	لَهُمُ		لهم	for them	lahumu
+14	20:74:9	w	ࡲ۬لدَّرَجَٰتُ		الدرجت	(will be) the ranks	l-darajātu
+14	20:74:10	w	ࡲ۬لْعُلٜىٰ࣌		العلي	[the] high	l-ʿulā
+14	20:74:11	e	۝٧٤				
+14	20:75:1	w	جَنَّٰتُ		جنت	Gardens	jannātu
+14	20:75:2	w	عَدْنࣲ		عدن	(of) Eden	ʿadnin
+14	20:75:3	w	تَجْرِے		تجري	flows	tajrī
+15	20:75:4	w	مِن		من	from	min
+15	20:75:5	w	تَحْتِهَا		تحتها	underneath them	taḥtihā
+15	20:75:6	w	ࡰ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+15	20:75:7	w	خَٰلِدِينَ		خلدين	abiding forever	khālidīna
+15	20:75:8	w	فِيهَا࣌		فيها	in it	fīhā
+15	20:75:9	w	وَذَٰلِكَ		وذلك	And that	wadhālika
+15	20:75:10	w	جَزَآءُ		جزا	(is) the reward	jazāu
+15	20:75:11	w	مَن		من	(for him) who	man
+15	20:75:12	w	تَزَكّٜىٰ࣌		تزكي	purifies himself	tazakkā
+15	20:75:13	e	۝٧٥				

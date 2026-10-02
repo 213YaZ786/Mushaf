@@ -1,0 +1,132 @@
+1	4:121:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+1	4:121:2	w	ءَامَنُواْ		امنوا	believe[d]	āmanū
+1	4:121:3	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+1	4:121:4	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	[the] righteous deeds	l-ṣāliḥāti
+1	4:121:5	w	سَنُدْخِلُهُمْ		سندخلهم	We will admit them	sanud'khiluhum
+1	4:121:6	w	جَنَّٰتࣲ		جنت	(in) Gardens	jannātin
+2	4:121:7	w	تَجْرِے		تجري	flow	tajrī
+2	4:121:8	w	مِن		من	from	min
+2	4:121:9	w	تَحْتِهَا		تحتها	underneath it	taḥtihā
+2	4:121:10	w	ࡰ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+2	4:121:11	w	خَٰلِدِينَ		خلدين	will abide	khālidīna
+2	4:121:12	w	فِيهَآ		فيها	in it	fīhā
+2	4:121:13	w	أَبَداࣰ࣌		ابدا	forever	abadan
+2	4:121:14	w	وَعْدَ		وعد	A Promise	waʿda
+2	4:121:15	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+3	4:121:16	w	حَقّاࣰ࣌		حقا	(in) truth	ḥaqqan
+3	4:121:17	w	وَمَنَ		ومن	and who	waman
+3	4:121:18	w	ࡰصْدَقُ		اصدق	(is) truer	aṣdaqu
+3	4:121:19	w	مِنَ		من	than	mina
+3	4:121:20	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+3	4:121:21	w	قِيلاࣰ࣌		قيلا	(in) statement	qīlan
+3	4:121:22	e	۝١٢١				
+3	4:122:1	w	لَّيْسَ		ليس	Not	laysa
+3	4:122:2	w	بِأَمَانِيِّكُمْ		بامانيكم	by your desire	bi-amāniyyikum
+4	4:122:3	w	وَلَآ		ولا	and not	walā
+4	4:122:4	w	أَمَانِيِّ		اماني	(by the) desire	amāniyyi
+4	4:122:5	w	أَهْلِ		اهل	(of the) People	ahli
+4	4:122:6	w	ࡴ۬لْكِتَٰبِ࣌		الكتب	(of) the Book	l-kitābi
+4	4:122:7	w	مَنْ		من	Whoever	man
+4	4:122:8	w	يَّعْمَلْ		يعمل	does	yaʿmal
+4	4:122:9	w	سُوٓءاࣰ		سوا	evil	sūan
+4	4:122:10	w	يُجْزَ		يجز	will be recompensed	yuj'za
+4	4:122:11	w	بِهِۦ		بهي	for it	bihi
+5	4:122:12	w	وَلَا		ولا	and not	walā
+5	4:122:13	w	يَجِدْ		يجد	he will find	yajid
+5	4:122:14	w	لَهُۥ		له	for him	lahu
+5	4:122:15	w	مِن		من	from	min
+5	4:122:16	w	دُونِ		دون	besides	dūni
+5	4:122:17	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+5	4:122:18	w	وَلِيّاࣰ		وليا	any protector	waliyyan
+5	4:122:19	w	وَلَا		ولا	and not	walā
+5	4:122:20	w	نَصِيراࣰ࣌		نصيرا	any helper	naṣīran
+5	4:122:21	e	۝١٢٢				
+5	4:123:1	w	۞ وَمَنْ		ومن	And whoever	waman
+6	4:123:2	w	يَّعْمَلْ		يعمل	does	yaʿmal
+6	4:123:3	w	مِنَ		من	[of]	mina
+6	4:123:4	w	ࡰ۬لصَّٰلِحَٰتِ		الصلحت	[the] righteous deeds	l-ṣāliḥāti
+6	4:123:5	w	مِن		من	from	min
+6	4:123:6	w	ذَكَرٍ		ذكر	(the) male	dhakarin
+6	4:123:7	w	ࡰوُ		او	or	aw
+6	4:123:8	w	ࡳنثٜىٰ		انثي	female	unthā
+6	4:123:9	w	وَهُوَ		وهو	and he	wahuwa
+6	4:123:10	w	مُومِنࣱ		مومن	(is) a believer	mu'minun
+7	4:123:11	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+7	4:123:12	w	يَدْخُلُونَ		يدخلون	will enter	yadkhulūna
+7	4:123:13	w	ࡰ۬لْجَنَّةَ		الجنة	Paradise	l-janata
+7	4:123:14	w	وَلَا		ولا	and not	walā
+7	4:123:15	w	يُظْلَمُونَ		يظلمون	they will be wronged	yuẓ'lamūna
+7	4:123:16	w	نَقِيراࣰ࣌		نقيرا	(even as much as) the speck on a date-seed	naqīran
+7	4:123:17	e	۝١٢٣				
+7	4:124:1	w	وَمَنَ		ومن	And who	waman
+8	4:124:2	w	ࡰحْسَنُ		احسن	(is) better	aḥsanu
+8	4:124:3	w	دِيناࣰ		دينا	(in) religion	dīnan
+8	4:124:4	w	مِّمَّنَ		ممن	than (one) who	mimman
+8	4:124:5	w	ࡰسْلَمَ		اسلم	submits	aslama
+8	4:124:6	w	وَجْهَهُۥ		وجهه	his face	wajhahu
+8	4:124:7	w	لِلهِ		لله	to Allah	lillahi
+8	4:124:8	w	وَهُوَ		وهو	and he	wahuwa
+8	4:124:9	w	مُحْسِنࣱ		محسن	(is) a good-doer	muḥ'sinun
+8	4:124:10	w	وَاتَّبَعَ		واتبع	and follows	wa-ittabaʿa
+9	4:124:11	w	مِلَّةَ		ملة	(the) religion	millata
+9	4:124:12	w	إِبْرَٰهِيمَ		ابرهيم	(of) Ibrahim	ib'rāhīma
+9	4:124:13	w	حَنِيفاࣰ࣌		حنيفا	(the) upright	ḥanīfan
+9	4:124:14	w	وَاتَّخَذَ		واتخذ	And was taken	wa-ittakhadha
+9	4:124:15	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+9	4:124:16	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+9	4:124:17	w	خَلِيلاࣰ࣌		خليلا	(as) a friend	khalīlan
+9	4:124:18	e	۝١٢٤				
+9	4:125:1	w	وَلِلهِ		ولله	And for Allah	walillahi
+10	4:125:2	w	مَا		ما	(is) what	mā
+10	4:125:3	w	فِے		في	(is) in	fī
+10	4:125:4	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+10	4:125:5	w	وَمَا		وما	and what	wamā
+10	4:125:6	w	فِے		في	(is) in	fī
+10	4:125:7	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+10	4:125:8	w	وَكَانَ		وكان	and is	wakāna
+10	4:125:9	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+10	4:125:10	w	بِكُلِّ		بكل	of every	bikulli
+10	4:125:11	w	شَےْءࣲ		شي	thing	shayin
+11	4:125:12	w	مُّحِيطاࣰ࣌		محيطا	All-Encompassing	muḥīṭan
+11	4:125:13	e	۝١٢٥				
+11	4:126:1	w	وَيَسْتَفْتُونَكَ		ويستفتونك	And they seek your ruling	wayastaftūnaka
+11	4:126:2	w	فِے		في	concerning	fī
+11	4:126:3	w	ࡴ۬لنِّسَآءِ࣌		النسا	the women	l-nisāi
+11	4:126:4	w	قُلِ		قل	Say	quli
+11	4:126:5	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+11	4:126:6	w	يُفْتِيكُمْ		يفتيكم	gives you the ruling	yuf'tīkum
+12	4:126:7	w	فِيهِنَّ		فيهن	about them	fīhinna
+12	4:126:8	w	وَمَا		وما	and what	wamā
+12	4:126:9	w	يُتْلٜىٰ		يتلي	is recited	yut'lā
+12	4:126:10	w	عَلَيْكُمْ		عليكم	to you	ʿalaykum
+12	4:126:11	w	فِے		في	in	fī
+12	4:126:12	w	ࡴ۬لْكِتَٰبِ		الكتب	the Book	l-kitābi
+12	4:126:13	w	فِے		في	concerning	fī
+12	4:126:14	w	يَتَٰمَى		يتمي	orphans	yatāmā
+12	4:126:15	w	ࡰ۬لنِّسَآءِ		النسا	(of) girls	l-nisāi
+13	4:126:16	w	ࡴ۬لتِے		التي	(to) whom	allātī
+13	4:126:17	w	لَا		لا	not	lā
+13	4:126:18	w	تُوتُونَهُنَّ		توتونهن	(do) you give them	tu'tūnahunna
+13	4:126:19	w	مَا		ما	what	mā
+13	4:126:20	w	كُتِبَ		كتب	is ordained	kutiba
+13	4:126:21	w	لَهُنَّ		لهن	for them	lahunna
+13	4:126:22	w	وَتَرْغَبُونَ		وترغبون	and you desire	watarghabūna
+13	4:126:23	w	أَن		ان	to	an
+13	4:126:24	w	تَنكِحُوهُنَّ		تنكحوهن	marry them	tankiḥūhunna
+14	4:126:25	w	وَالْمُسْتَضْعَفِينَ		والمستضعفين	and the ones who are weak	wal-mus'taḍʿafīna
+14	4:126:26	w	مِنَ		من	of	mina
+14	4:126:27	w	ࡰ۬لْوِلْدَٰنِ		الولدن	the children	l-wil'dāni
+14	4:126:28	w	وَأَن		وان	and to	wa-an
+14	4:126:29	w	تَقُومُواْ		تقوموا	stand	taqūmū
+14	4:126:30	w	لِلْيَتَٰمٜىٰ		لليتمي	for orphans	lil'yatāmā
+14	4:126:31	w	بِالْقِسْطِ࣌		بالقسط	with justice	bil-qis'ṭi
+15	4:126:32	w	وَمَا		وما	And whatever	wamā
+15	4:126:33	w	تَفْعَلُواْ		تفعلوا	you do	tafʿalū
+15	4:126:34	w	مِنْ		من	of	min
+15	4:126:35	w	خَيْرࣲ		خير	good	khayrin
+15	4:126:36	w	فَإِنَّ		فان	then indeed	fa-inna
+15	4:126:37	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	4:126:38	w	كَانَ		كان	is	kāna
+15	4:126:39	w	بِهِۦ		بهي	about it	bihi
+15	4:126:40	w	عَلِيماࣰ࣌		عليما	All-Knowing	ʿalīman
+15	4:126:41	e	۝١٢٦				

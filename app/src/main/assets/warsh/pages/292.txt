@@ -1,0 +1,142 @@
+1	17:97:1	w	وَمَنْ		ومن	And whoever	waman
+1	17:97:2	w	يَّهْدِ		يهد	Allah guides	yahdi
+1	17:97:3	w	ࡴ۬للَّهُ		الله	Allah guides	l-lahu
+1	17:97:4	w	فَهُوَ		فهو	then he (is)	fahuwa
+1	17:97:5	w	ࡰ۬لْمُهْتَدِۦ࣌		المهتدي	the guided one	l-muh'tadi
+1	17:97:6	w	وَمَنْ		ومن	and whoever	waman
+1	17:97:7	w	يُّضْلِلْ		يضلل	He lets go astray	yuḍ'lil
+1	17:97:8	w	فَلَن		فلن	then never	falan
+1	17:97:9	w	تَجِدَ		تجد	you will find	tajida
+1	17:97:10	w	لَهُمُۥٓ		لهم	for them	lahum
+1	17:97:11	w	أَوْلِيَآءَ		اوليا	protectors	awliyāa
+2	17:97:12	w	مِن		من	besides Him	min
+2	17:97:13	w	دُونِهِۦ࣌		دونهي	besides Him	dūnihi
+2	17:97:14	w	وَنَحْشُرُهُمْ		ونحشرهم	And We will gather them	wanaḥshuruhum
+2	17:97:15	w	يَوْمَ		يوم	(on) the Day	yawma
+2	17:97:16	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+2	17:97:17	w	عَلَىٰ		علي	on	ʿalā
+2	17:97:18	w	وُجُوهِهِمْ		وجوههم	their faces	wujūhihim
+2	17:97:19	w	عُمْياࣰ		عميا	blind	ʿum'yan
+2	17:97:20	w	وَبُكْماࣰ		وبكما	and dumb	wabuk'man
+3	17:97:21	w	وَصُمّاࣰ࣌		وصما	and deaf	waṣumman
+3	17:97:22	w	مَّأْوٜيٰهُمْ		ماويهم	Their abode	mawāhum
+3	17:97:23	w	جَهَنَّمُ࣌		جهنم	(is) Hell	jahannamu
+3	17:97:24	w	كُلَّمَا		كلما	every time	kullamā
+3	17:97:25	w	خَبَتْ		خبت	it subsides	khabat
+3	17:97:26	w	زِدْنَٰهُمْ		زدنهم	We (will) increase (for) them	zid'nāhum
+3	17:97:27	w	سَعِيراࣰ࣌		سعيرا	the blazing fire	saʿīran
+3	17:97:28	e	۝٩٧				
+4	17:98:1	w	ذَٰلِكَ		ذلك	That	dhālika
+4	17:98:2	w	جَزَآؤُهُم		جزاوهم	(is) their recompense	jazāuhum
+4	17:98:3	w	بِأَنَّهُمْ		بانهم	because they	bi-annahum
+4	17:98:4	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+4	17:98:5	w	بِـَٔايَٰتِنَا		بايتنا	in Our Verses	biāyātinā
+4	17:98:6	w	وَقَالُوٓاْ		وقالوا	and said	waqālū
+4	17:98:7	w	أَࢇذَا		اذا	When	a-idhā
+4	17:98:8	w	كُنَّا		كنا	we are	kunnā
+4	17:98:9	w	عِظَٰماࣰ		عظما	bones	ʿiẓāman
+5	17:98:10	w	وَرُفَٰتاً		ورفتا	and crumbled particles	warufātan
+5	17:98:11	w	ࡴنَّا		انا	will we	a-innā
+5	17:98:12	w	لَمَبْعُوثُونَ		لمبعوثون	surely (be) resurrected	lamabʿūthūna
+5	17:98:13	w	خَلْقاࣰ		خلقا	(as) a creation	khalqan
+5	17:98:14	w	جَدِيداً࣌		جديدا	new	jadīdan
+5	17:98:15	e	۝٩٨				
+5	17:99:1	w	۞ ࡰوَلَمْ		اولم	Do not	awalam
+5	17:99:2	w	يَرَوَاْ		يروا	they see	yaraw
+5	17:99:3	w	ࡰنَّ		ان	that	anna
+5	17:99:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	17:99:5	w	ࡰ۬لذِے		الذي	the One Who	alladhī
+6	17:99:6	w	خَلَقَ		خلق	created	khalaqa
+6	17:99:7	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+6	17:99:8	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+6	17:99:9	w	قَادِرٌ		قادر	(is) Able	qādirun
+6	17:99:10	w	عَلَىٰٓ		علي	[on]	ʿalā
+6	17:99:11	w	أَنْ		ان	to	an
+6	17:99:12	w	يَّخْلُقَ		يخلق	create	yakhluqa
+6	17:99:13	w	مِثْلَهُمْ		مثلهم	the like of them	mith'lahum
+7	17:99:14	w	وَجَعَلَ		وجعل	And He has made	wajaʿala
+7	17:99:15	w	لَهُمُۥٓ		لهم	for them	lahum
+7	17:99:16	w	أَجَلاࣰ		اجلا	a term	ajalan
+7	17:99:17	w	لَّا		لا	no	lā
+7	17:99:18	w	رَيْبَ		ريب	doubt	rayba
+7	17:99:19	w	فِيهِ࣌		فيه	in it	fīhi
+7	17:99:20	w	فَأَبَى		فابي	But refused	fa-abā
+7	17:99:21	w	ࡰ۬لظَّٰلِمُونَ		الظلمون	the wrongdoers	l-ẓālimūna
+7	17:99:22	w	إِلَّا		الا	except	illā
+7	17:99:23	w	كُفُوراࣰ࣌		كفورا	disbelief	kufūran
+7	17:99:24	e	۝٩٩				
+8	17:100:1	w	قُل		قل	Say	qul
+8	17:100:2	w	لَّوَ		لو	If	law
+8	17:100:3	w	ࡰنتُمْ		انتم	you	antum
+8	17:100:4	w	تَمْلِكُونَ		تملكون	possess	tamlikūna
+8	17:100:5	w	خَزَآئِنَ		خزاين	the treasures	khazāina
+8	17:100:6	w	رَحْمَةِ		رحمة	(of) the Mercy	raḥmati
+8	17:100:7	w	رَبِّيَ		ربي	(of) my Lord	rabbī
+8	17:100:8	w	إِذاࣰ		اذا	then	idhan
+8	17:100:9	w	لَّأَمْسَكْتُمْ		لامسكتم	surely you would withhold	la-amsaktum
+9	17:100:10	w	خَشْيَةَ		خشية	(out of) fear	khashyata
+9	17:100:11	w	ࡰ۬لِانفَاقِ࣌		الانفاق	(of) spending	l-infāqi
+9	17:100:12	w	وَكَانَ		وكان	And is	wakāna
+9	17:100:13	w	ࡰ۬لِانسَٰنُ		الانسن	man	l-insānu
+9	17:100:14	w	قَتُوراࣰ࣌		قتورا	stingy	qatūran
+9	17:100:15	e	۝١٠٠				
+9	17:101:1	w	وَلَقَدَ		ولقد	And certainly	walaqad
+9	17:101:2	w	اٰتَيْنَا		اتينا	We had given	ātaynā
+9	17:101:3	w	مُوسٜىٰ		موسي	Musa	mūsā
+9	17:101:4	w	تِسْعَ		تسع	nine	tis'ʿa
+10	17:101:5	w	ءَايَٰتِۢ		ايت	Signs	āyātin
+10	17:101:6	w	بَيِّنَٰتࣲ࣌		بينت	clear	bayyinātin
+10	17:101:7	w	فَسْـَٔلْ		فسل	so ask	fasal
+10	17:101:8	w	بَنِےٓ		بني	(the) Children of Israel	banī
+10	17:101:9	w	إِسْرَآءِيلَ		اسرايل	(the) Children of Israel	is'rāīla
+10	17:101:10	w	إِذْ		اذ	when	idh
+10	17:101:11	w	جَآءَهُمْ		جاهم	he came to them	jāahum
+10	17:101:12	w	فَقَالَ		فقال	then said	faqāla
+10	17:101:13	w	لَهُۥ		له	to him	lahu
+10	17:101:14	w	فِرْعَوْنُ		فرعون	Firaun	fir'ʿawnu
+11	17:101:15	w	إِنِّے		اني	Indeed, I	innī
+11	17:101:16	w	لَأَظُنُّكَ		لاظنك	[I] think you	la-aẓunnuka
+11	17:101:17	w	يَٰمُوسٜىٰ		يموسي	O Musa	yāmūsā
+11	17:101:18	w	مَسْحُوراࣰ࣌		مسحورا	(you are) bewitched	masḥūran
+11	17:101:19	e	۝١٠١				
+11	17:102:1	w	قَالَ		قال	He said	qāla
+11	17:102:2	w	لَقَدْ		لقد	Verily	laqad
+11	17:102:3	w	عَلِمْتَ		علمت	you have known	ʿalim'ta
+11	17:102:4	w	مَآ		ما	none	mā
+11	17:102:5	w	أَنزَلَ		انزل	has sent down	anzala
+12	17:102:6	w	هَٰٓؤُلَآءِ		هولا	these	hāulāi
+12	17:102:7	w	الَّا		الا	except	illā
+12	17:102:8	w	رَبُّ		رب	(the) Lord	rabbu
+12	17:102:9	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+12	17:102:10	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+12	17:102:11	w	بَصَآئِرَ࣌		بصاير	(as) evidence	baṣāira
+12	17:102:12	w	وَإِنِّے		واني	and indeed, I	wa-innī
+12	17:102:13	w	لَأَظُنُّكَ		لاظنك	[I] surely think you	la-aẓunnuka
+13	17:102:14	w	يَٰفِرْعَوْنُ		يفرعون	O Firaun	yāfir'ʿawnu
+13	17:102:15	w	مَثْبُوراࣰ࣌		مثبورا	(you are) destroyed	mathbūran
+13	17:102:16	e	۝١٠٢				
+13	17:103:1	w	فَأَرَادَ		فاراد	So he intended	fa-arāda
+13	17:103:2	w	أَنْ		ان	to	an
+13	17:103:3	w	يَّسْتَفِزَّهُم		يستفزهم	drive them out	yastafizzahum
+13	17:103:4	w	مِّنَ		من	from	mina
+13	17:103:5	w	ࡰ۬لَارْضِ		الارض	the land	l-arḍi
+14	17:103:6	w	فَأَغْرَقْنَٰهُ		فاغرقنه	but We drowned him	fa-aghraqnāhu
+14	17:103:7	w	وَمَن		ومن	and who	waman
+14	17:103:8	w	مَّعَهُۥ		معه	(were) with him	maʿahu
+14	17:103:9	w	جَمِيعاࣰ࣌		جميعا	all	jamīʿan
+14	17:103:10	e	۝١٠٣				
+14	17:104:1	w	وَقُلْنَا		وقلنا	And We said	waqul'nā
+14	17:104:2	w	مِنۢ		من	after him	min
+14	17:104:3	w	بَعْدِهِۦ		بعدهي	after him	baʿdihi
+14	17:104:4	w	لِبَنِےٓ		لبني	to the Children of Israel	libanī
+14	17:104:5	w	إِسْرَآءِيلَ		اسرايل	to the Children of Israel	is'rāīla
+15	17:104:6	w	ࡸَسْكُنُواْ		اسكنوا	Dwell	us'kunū
+15	17:104:7	w	ࡲ۬لَارْضَ࣌		الارض	(in) the land	l-arḍa
+15	17:104:8	w	فَإِذَا		فاذا	then when	fa-idhā
+15	17:104:9	w	جَآءَ		جا	comes	jāa
+15	17:104:10	w	وَعْدُ		وعد	(the) promise	waʿdu
+15	17:104:11	w	ࡲ۬لَاخِرَةِ		الاخرة	(of) the Hereafter	l-ākhirati
+15	17:104:12	w	جِئْنَا		جينا	We will bring	ji'nā
+15	17:104:13	w	بِكُمْ		بكم	you	bikum
+15	17:104:14	w	لَفِيفاࣰ࣌		لفيفا	(as) a mixed crowd	lafīfan
+15	17:104:15	e	۝١٠٤				

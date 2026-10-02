@@ -1,0 +1,152 @@
+1	52:30:1	w	أَمْ		ام	Or	am
+1	52:30:2	w	تَامُرُهُمُۥٓ		تامرهم	command them	tamuruhum
+1	52:30:3	w	أَحْلَٰمُهُم		احلمهم	their minds	aḥlāmuhum
+1	52:30:4	w	بِهَٰذَآ		بهذا	this	bihādhā
+1	52:30:5	w	أَمْ		ام	or	am
+1	52:30:6	w	هُمْ		هم	they	hum
+1	52:30:7	w	قَوْمࣱ		قوم	(are) a people	qawmun
+1	52:30:8	w	طَاغُونَ࣌		طاغون	transgressing	ṭāghūna
+1	52:30:9	e	۝٣٠				
+1	52:31:1	w	أَمْ		ام	Or	am
+1	52:31:2	w	يَقُولُونَ		يقولون	(do) they say	yaqūlūna
+2	52:31:3	w	تَقَوَّلَهُۥ࣌		تقوله	He has made it up	taqawwalahu
+2	52:31:4	w	بَل		بل	Nay	bal
+2	52:31:5	w	لَّا		لا	not	lā
+2	52:31:6	w	يُومِنُونَ࣌		يومنون	they believe	yu'minūna
+2	52:31:7	e	۝٣١				
+2	52:32:1	w	فَلْيَاتُواْ		فلياتوا	Then let them bring	falyatū
+2	52:32:2	w	بِحَدِيثࣲ		بحديث	a statement	biḥadīthin
+2	52:32:3	w	مِّثْلِهِۦٓ		مثلهي	like it	mith'lihi
+2	52:32:4	w	إِن		ان	if	in
+2	52:32:5	w	كَانُواْ		كانوا	they are	kānū
+3	52:32:6	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+3	52:32:7	e	۝٣٢				
+3	52:33:1	w	أَمْ		ام	Or	am
+3	52:33:2	w	خُلِقُواْ		خلقوا	they were created	khuliqū
+3	52:33:3	w	مِنْ		من	of	min
+3	52:33:4	w	غَيْرِ		غير	nothing	ghayri
+3	52:33:5	w	شَےْءٍ		شي	nothing	shayin
+3	52:33:6	w	ࡰمْ		ام	or	am
+3	52:33:7	w	هُمُ		هم	(are) they	humu
+3	52:33:8	w	ࡲ۬لْخَٰلِقُونَ࣌		الخلقون	the creators	l-khāliqūna
+3	52:33:9	e	۝٣٣				
+4	52:34:1	w	أَمْ		ام	Or	am
+4	52:34:2	w	خَلَقُواْ		خلقوا	(did) they create	khalaqū
+4	52:34:3	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+4	52:34:4	w	وَالَارْضَ࣌		والارض	and the earth	wal-arḍa
+4	52:34:5	w	بَل		بل	Nay	bal
+4	52:34:6	w	لَّا		لا	not	lā
+4	52:34:7	w	يُوقِنُونَ࣌		يوقنون	they are certain	yūqinūna
+4	52:34:8	e	۝٣٤				
+4	52:35:1	w	أَمْ		ام	Or	am
+4	52:35:2	w	عِندَهُمْ		عندهم	with them	ʿindahum
+5	52:35:3	w	خَزَآئِنُ		خزاين	(are the) treasures	khazāinu
+5	52:35:4	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+5	52:35:5	w	أَمْ		ام	or	am
+5	52:35:6	w	هُمُ		هم	(are) they	humu
+5	52:35:7	w	ࡲ۬لْمُصَيْطِرُونَ࣌		المصيطرون	the controllers	l-muṣayṭirūna
+5	52:35:8	e	۝٣٥				
+5	52:36:1	w	أَمْ		ام	Or	am
+5	52:36:2	w	لَهُمْ		لهم	for them	lahum
+5	52:36:3	w	سُلَّمࣱ		سلم	(is) a stairway	sullamun
+6	52:36:4	w	يَسْتَمِعُونَ		يستمعون	they listen	yastamiʿūna
+6	52:36:5	w	فِيهِ࣌		فيه	therewith	fīhi
+6	52:36:6	w	فَلْيَاتِ		فليات	Then let bring	falyati
+6	52:36:7	w	مُسْتَمِعُهُم		مستمعهم	their listener	mus'tamiʿuhum
+6	52:36:8	w	بِسُلْطَٰنࣲ		بسلطن	an authority	bisul'ṭānin
+6	52:36:9	w	مُّبِينٍ࣌		مبين	clear	mubīnin
+6	52:36:10	e	۝٣٦				
+6	52:37:1	w	ࡰمْ		ام	Or	am
+6	52:37:2	w	لَهُ		له	for Him	lahu
+7	52:37:3	w	ࡲ۬لْبَنَٰتُ		البنت	(are) daughters	l-banātu
+7	52:37:4	w	وَلَكُمُ		ولكم	while for you	walakumu
+7	52:37:5	w	ࡲ۬لْبَنُونَ࣌		البنون	(are) sons	l-banūna
+7	52:37:6	e	۝٣٧				
+7	52:38:1	w	أَمْ		ام	Or	am
+7	52:38:2	w	تَسْـَٔلُهُمُۥٓ		تسلهم	(do) you ask from them	tasaluhum
+7	52:38:3	w	أَجْراࣰ		اجرا	a payment	ajran
+7	52:38:4	w	فَهُم		فهم	so they	fahum
+7	52:38:5	w	مِّن		من	from	min
+7	52:38:6	w	مَّغْرَمࣲ		مغرم	a debt	maghramin
+8	52:38:7	w	مُّثْقَلُونَ࣌		مثقلون	(are) overburdened	muth'qalūna
+8	52:38:8	e	۝٣٨				
+8	52:39:1	w	أَمْ		ام	Or	am
+8	52:39:2	w	عِندَهُمُ		عندهم	with them	ʿindahumu
+8	52:39:3	w	ࡲ۬لْغَيْبُ		الغيب	(is) the unseen	l-ghaybu
+8	52:39:4	w	فَهُمْ		فهم	so they	fahum
+8	52:39:5	w	يَكْتُبُونَ࣌		يكتبون	write (it) down	yaktubūna
+8	52:39:6	e	۝٣٩				
+8	52:40:1	w	أَمْ		ام	Or	am
+8	52:40:2	w	يُرِيدُونَ		يريدون	(do) they intend	yurīdūna
+9	52:40:3	w	كَيْداࣰ࣌		كيدا	a plot	kaydan
+9	52:40:4	w	فَالذِينَ		فالذين	But those who	fa-alladhīna
+9	52:40:5	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+9	52:40:6	w	هُمُ		هم	themselves	humu
+9	52:40:7	w	ࡲ۬لْمَكِيدُونَ࣌		المكيدون	(are in) the plot	l-makīdūna
+9	52:40:8	e	۝٤٠				
+9	52:41:1	w	أَمْ		ام	Or	am
+9	52:41:2	w	لَهُمُۥٓ		لهم	for them	lahum
+9	52:41:3	w	إِلَٰهٌ		اله	a god	ilāhun
+9	52:41:4	w	غَيْرُ		غير	other than	ghayru
+9	52:41:5	w	ࡲ۬للَّهِ࣌		الله	Allah	l-lahi
+10	52:41:6	w	سُبْحَٰنَ		سبحن	Glory be	sub'ḥāna
+10	52:41:7	w	ࡰ۬للَّهِ		الله	(to) Allah	l-lahi
+10	52:41:8	w	عَمَّا		عما	from what	ʿammā
+10	52:41:9	w	يُشْرِكُونَ࣌		يشركون	they associate (with Him)	yush'rikūna
+10	52:41:10	e	۝٤١				
+10	52:42:1	w	۞ وَإِنْ		وان	And if	wa-in
+10	52:42:2	w	يَّرَوْاْ		يروا	they were to see	yaraw
+10	52:42:3	w	كِسْفاࣰ		كسفا	a portion	kis'fan
+10	52:42:4	w	مِّنَ		من	from	mina
+10	52:42:5	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+10	52:42:6	w	سَاقِطاࣰ		ساقطا	falling	sāqiṭan
+11	52:42:7	w	يَقُولُواْ		يقولوا	they will say	yaqūlū
+11	52:42:8	w	سَحَابࣱ		سحاب	Clouds	saḥābun
+11	52:42:9	w	مَّرْكُومࣱ࣌		مركوم	heaped up	markūmun
+11	52:42:10	e	۝٤٢				
+11	52:43:1	w	فَذَرْهُمْ		فذرهم	So leave them	fadharhum
+11	52:43:2	w	حَتَّىٰ		حتي	until	ḥattā
+11	52:43:3	w	يُلَٰقُواْ		يلقوا	they meet	yulāqū
+11	52:43:4	w	يَوْمَهُمُ		يومهم	their Day	yawmahumu
+11	52:43:5	w	ࡲ۬لذِے		الذي	which	alladhī
+11	52:43:6	w	فِيهِ		فيه	in it	fīhi
+12	52:43:7	w	يَصْعَقُونَ		يصعقون	they will faint	yuṣ'ʿaqūna
+12	52:43:8	e	۝٤٣				
+12	52:44:1	w	يَوْمَ		يوم	(The) Day	yawma
+12	52:44:2	w	لَا		لا	not	lā
+12	52:44:3	w	يُغْنِے		يغني	will avail	yugh'nī
+12	52:44:4	w	عَنْهُمْ		عنهم	to them	ʿanhum
+12	52:44:5	w	كَيْدُهُمْ		كيدهم	their plotting	kayduhum
+12	52:44:6	w	شَيْـٔاࣰ		شيا	(in) anything	shayan
+12	52:44:7	w	وَلَا		ولا	and not	walā
+12	52:44:8	w	هُمْ		هم	they	hum
+12	52:44:9	w	يُنصَرُونَ࣌		ينصرون	will be helped	yunṣarūna
+12	52:44:10	e	۝٤٤				
+13	52:45:1	w	وَإِنَّ		وان	And indeed	wa-inna
+13	52:45:2	w	لِلذِينَ		للذين	for those who	lilladhīna
+13	52:45:3	w	ظَلَمُواْ		ظلموا	do wrong	ẓalamū
+13	52:45:4	w	عَذَاباࣰ		عذابا	(is) a punishment	ʿadhāban
+13	52:45:5	w	دُونَ		دون	before	dūna
+13	52:45:6	w	ذَٰلِكَ࣌		ذلك	that	dhālika
+13	52:45:7	w	وَلَٰكِنَّ		ولكن	but	walākinna
+13	52:45:8	w	أَكْثَرَهُمْ		اكثرهم	most of them	aktharahum
+14	52:45:9	w	لَا		لا	(do) not	lā
+14	52:45:10	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+14	52:45:11	e	۝٤٥				
+14	52:46:1	w	وَاصْبِرْ		واصبر	So be patient	wa-iṣ'bir
+14	52:46:2	w	لِحُكْمِ		لحكم	for (the) Command	liḥuk'mi
+14	52:46:3	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+14	52:46:4	w	فَإِنَّكَ		فانك	for indeed, you	fa-innaka
+14	52:46:5	w	بِأَعْيُنِنَا࣌		باعيننا	(are) in Our Eyes	bi-aʿyuninā
+14	52:46:6	w	وَسَبِّحْ		وسبح	And glorify	wasabbiḥ
+14	52:46:7	w	بِحَمْدِ		بحمد	(the) praise	biḥamdi
+15	52:46:8	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+15	52:46:9	w	حِينَ		حين	when	ḥīna
+15	52:46:10	w	تَقُومُ࣌		تقوم	you arise	taqūmu
+15	52:46:11	e	۝٤٦				
+15	52:47:1	w	وَمِنَ		ومن	And of	wamina
+15	52:47:2	w	ࡰ۬ليْلِ		اليل	the night	al-layli
+15	52:47:3	w	فَسَبِّحْهُ		فسبحه	glorify Him	fasabbiḥ'hu
+15	52:47:4	w	وَإِدْبَٰرَ		وادبر	and after	wa-id'bāra
+15	52:47:5	w	ࡰ۬لنُّجُومِ࣌		النجوم	the stars	l-nujūmi
+15	52:47:6	e	۝٤٧				

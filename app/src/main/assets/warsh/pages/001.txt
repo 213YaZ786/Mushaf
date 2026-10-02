@@ -1,0 +1,37 @@
+1	1:0:0	t					
+2	1:0:1	z	بِسْمِ		بسم	In (the) name	bis'mi
+2	1:0:2	z	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+2	1:0:3	z	ࡴ۬لرَّحْمَٰنِ		الرحمن	the Most Gracious	l-raḥmāni
+2	1:0:4	z	ࡴ۬لرَّحِيمِ		الرحيم	the Most Merciful	l-raḥīmi
+3	1:1:1	w	ࡴ۬لْحَمْدُ		الحمد	All praises and thanks	al-ḥamdu
+3	1:1:2	w	لِلهِ		لله	(be) to Allah	lillahi
+3	1:1:3	w	رَبِّ		رب	the Lord	rabbi
+3	1:1:4	w	ࡴ۬لْعَٰلَمِينَ		العلمين	of the universe	l-ʿālamīna
+3	1:1:5	e	۝١				
+3	1:2:1	w	ࡰ۬لرَّحْمَٰنِ		الرحمن	The Most Gracious	al-raḥmāni
+4	1:2:2	w	ࡴ۬لرَّحِيمِ		الرحيم	the Most Merciful	l-raḥīmi
+4	1:2:3	e	۝٢				
+4	1:3:1	w	مَلِكِ		ملك	(The) Master	māliki
+4	1:3:2	w	يَوْمِ		يوم	(of the) Day	yawmi
+4	1:3:3	w	ࡴ۬لدِّينِ࣌		الدين	(of the) Judgment	l-dīni
+4	1:3:4	e	۝٣				
+4	1:4:1	w	إِيَّاكَ		اياك	You Alone	iyyāka
+5	1:4:2	w	نَعْبُدُ		نعبد	we worship	naʿbudu
+5	1:4:3	w	وَإِيَّاكَ		واياك	and You Alone	wa-iyyāka
+5	1:4:4	w	نَسْتَعِينُ࣌		نستعين	we ask for help	nastaʿīnu
+5	1:4:5	e	۝٤				
+5	1:5:1	w	ࡲٜهْدِنَا		اهدنا	Guide us	ih'dinā
+6	1:5:2	w	ࡰ۬لصِّرَٰطَ		الصرط	(to) the path	l-ṣirāṭa
+6	1:5:3	w	ࡰ۬لْمُسْتَقِيمَ		المستقيم	the straight	l-mus'taqīma
+6	1:5:4	e	۝٥				
+6	1:6:1	w	صِرَٰطَ		صرط	(The) path	ṣirāṭa
+6	1:6:2	w	ࡰ۬لذِينَ		الذين	(of) those	alladhīna
+7	1:6:3	w	أَنْعَمْتَ		انعمت	You have bestowed (Your) Favors	anʿamta
+7	1:6:4	w	عَلَيْهِمْ		عليهم	on them	ʿalayhim
+7	1:6:5	e	۝٦				
+7	1:7:1	w	غَيْرِ		غير	not (of)	ghayri
+7	1:7:2	w	ࡴ۬لْمَغْضُوبِ		المغضوب	those who earned (Your) wrath	l-maghḍūbi
+8	1:7:3	w	عَلَيْهِمْ		عليهم	on themselves	ʿalayhim
+8	1:7:4	w	وَلَا		ولا	and not	walā
+8	1:7:5	w	ࡰ۬لضَّآلِّينَ࣌		الضالين	(of) those who go astray	l-ḍālīna
+8	1:7:6	e	۝٧				

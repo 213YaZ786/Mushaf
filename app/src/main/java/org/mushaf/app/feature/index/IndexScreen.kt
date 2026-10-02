@@ -44,6 +44,7 @@ import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.ui.theme.quranFont
 import org.mushaf.app.core.quran.AyahKey
 import org.mushaf.app.data.marks.Marks
 import org.mushaf.app.data.quran.Found
@@ -116,7 +117,8 @@ fun IndexScreen(onBack: () -> Unit) {
                 Modifier.fillMaxWidth().padding(bottom = 8.dp),
                 horizontalArrangement = Arrangement.spacedBy(8.dp, Alignment.CenterHorizontally)
             ) {
-                for (p in Part.entries) {
+                // Warsh has no hizb list: its eighths are partly printed in the margin only.
+                for (p in Part.entries.filter { it != Part.HIZB || meta?.quarters?.isNotEmpty() != false }) {
                     FloatingPane(shape = CircleShape, accent = p == part && query.isBlank(), onClick = { haptics.tick(); part = p; query = "" }) {
                         Text(p.label, style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(horizontal = 16.dp, vertical = 10.dp))
                     }
@@ -128,6 +130,7 @@ fun IndexScreen(onBack: () -> Unit) {
         }
     ) { padding ->
         val m = meta ?: return@FloatingFrame
+        if (part == Part.HIZB && m.quarters.isEmpty()) part = Part.JUZ
         val inset = LocalReadableInset.current
         val list = rememberLazyListState()
         // Opens on the place being read.
@@ -202,7 +205,7 @@ private fun SearchResults(
     open: (Int) -> Unit,
     openAyah: (AyahKey, Int) -> Unit
 ) {
-    val hafs = remember { FontFamily(Font(R.font.uthmanic_hafs)) }
+    val hafs = quranFont()
     LazyColumn(
         contentPadding = PaddingValues(top = padding.calculateTopPadding() + 8.dp, start = inset + 12.dp, end = inset + 12.dp, bottom = 24.dp),
         verticalArrangement = Arrangement.spacedBy(8.dp),

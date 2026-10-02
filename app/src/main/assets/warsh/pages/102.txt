@@ -1,0 +1,138 @@
+1	4:147:1	w	۞ لَّا		لا	(Does) not	lā
+1	4:147:2	w	يُحِبُّ		يحب	love	yuḥibbu
+1	4:147:3	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+1	4:147:4	w	ࡲ۬لْجَهْرَ		الجهر	the public mention	l-jahra
+1	4:147:5	w	بِالسُّوٓءِ		بالسو	of [the] evil	bil-sūi
+1	4:147:6	w	مِنَ		من	[of]	mina
+1	4:147:7	w	ࡰ۬لْقَوْلِ		القول	[the] words	l-qawli
+1	4:147:8	w	إِلَّا		الا	except	illā
+1	4:147:9	w	مَن		من	(by the one) who	man
+1	4:147:10	w	ظُلِمَ࣌		ظلم	has been wronged	ẓulima
+1	4:147:11	w	وَكَانَ		وكان	And is	wakāna
+2	4:147:12	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+2	4:147:13	w	سَمِيعاً		سميعا	All-Hearing	samīʿan
+2	4:147:14	w	عَلِيماً࣌		عليما	All-Knowing	ʿalīman
+2	4:147:15	e	۝١٤٧				
+2	4:148:1	w	ࡴن		ان	If	in
+2	4:148:2	w	تُبْدُواْ		تبدوا	you disclose	tub'dū
+2	4:148:3	w	خَيْراً		خيرا	a good	khayran
+2	4:148:4	w	ࡰوْ		او	or	aw
+2	4:148:5	w	تُخْفُوهُ		تخفوه	you conceal it	tukh'fūhu
+2	4:148:6	w	أَوْ		او	or	aw
+2	4:148:7	w	تَعْفُواْ		تعفوا	pardon	taʿfū
+3	4:148:8	w	عَن		عن	[of]	ʿan
+3	4:148:9	w	سُوٓءࣲ		سو	an evil	sūin
+3	4:148:10	w	فَإِنَّ		فان	then indeed	fa-inna
+3	4:148:11	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+3	4:148:12	w	كَانَ		كان	is	kāna
+3	4:148:13	w	عَفُوّاࣰ		عفوا	Oft-Pardoning	ʿafuwwan
+3	4:148:14	w	قَدِيراً࣌		قديرا	All-Powerful	qadīran
+3	4:148:15	e	۝١٤٨				
+3	4:149:1	w	ࡴنَّ		ان	Indeed	inna
+3	4:149:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+3	4:149:3	w	يَكْفُرُونَ		يكفرون	disbelieve	yakfurūna
+4	4:149:4	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+4	4:149:5	w	وَرُسُلِهِۦ		ورسلهي	and His Messengers	warusulihi
+4	4:149:6	w	وَيُرِيدُونَ		ويريدون	and they wish	wayurīdūna
+4	4:149:7	w	أَنْ		ان	that	an
+4	4:149:8	w	يُّفَرِّقُواْ		يفرقوا	they differentiate	yufarriqū
+4	4:149:9	w	بَيْنَ		بين	between	bayna
+4	4:149:10	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+4	4:149:11	w	وَرُسُلِهِۦ		ورسلهي	and His Messengers	warusulihi
+4	4:149:12	w	وَيَقُولُونَ		ويقولون	and they say	wayaqūlūna
+5	4:149:13	w	نُومِنُ		نومن	We believe	nu'minu
+5	4:149:14	w	بِبَعْضࣲ		ببعض	in some	bibaʿḍin
+5	4:149:15	w	وَنَكْفُرُ		ونكفر	and we disbelieve	wanakfuru
+5	4:149:16	w	بِبَعْضࣲ		ببعض	in others	bibaʿḍin
+5	4:149:17	w	وَيُرِيدُونَ		ويريدون	And they wish	wayurīdūna
+5	4:149:18	w	أَنْ		ان	that	an
+5	4:149:19	w	يَّتَّخِذُواْ		يتخذوا	they take	yattakhidhū
+5	4:149:20	w	بَيْنَ		بين	between	bayna
+6	4:149:21	w	ذَٰلِكَ		ذلك	that	dhālika
+6	4:149:22	w	سَبِيلاً		سبيلا	a way	sabīlan
+6	4:149:23	e	۝١٤٩				
+6	4:150:1	w	ࡳوْلَٰٓئِكَ		اوليك	Those	ulāika
+6	4:150:2	w	هُمُ		هم	they	humu
+6	4:150:3	w	ࡲ۬لْكَٰفِرُونَ		الكفرون	(are) the disbelievers	l-kāfirūna
+6	4:150:4	w	حَقّاࣰ࣌		حقا	truly	ḥaqqan
+6	4:150:5	w	وَأَعْتَدْنَا		واعتدنا	And We have prepared	wa-aʿtadnā
+7	4:150:6	w	لِلْكٜـٰفِرِينَ		للكفرين	for the disbelievers	lil'kāfirīna
+7	4:150:7	w	عَذَاباࣰ		عذابا	a punishment	ʿadhāban
+7	4:150:8	w	مُّهِيناࣰ࣌		مهينا	humiliating	muhīnan
+7	4:150:9	e	۝١٥٠				
+7	4:151:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+7	4:151:2	w	ءَامَنُواْ		امنوا	believe	āmanū
+7	4:151:3	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+7	4:151:4	w	وَرُسُلِهِۦ		ورسلهي	and His Messengers	warusulihi
+7	4:151:5	w	وَلَمْ		ولم	and not	walam
+8	4:151:6	w	يُفَرِّقُواْ		يفرقوا	they differentiate	yufarriqū
+8	4:151:7	w	بَيْنَ		بين	between	bayna
+8	4:151:8	w	أَحَدࣲ		احد	(any) one	aḥadin
+8	4:151:9	w	مِّنْهُمُۥٓ		منهم	of them	min'hum
+8	4:151:10	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+8	4:151:11	w	سَوْفَ		سوف	soon	sawfa
+8	4:151:12	w	نُوتِيهِمُۥٓ		نوتيهم	He will give them	yu'tīhim
+8	4:151:13	w	أُجُورَهُمْ࣌		اجورهم	their reward	ujūrahum
+9	4:151:14	w	وَكَانَ		وكان	And is	wakāna
+9	4:151:15	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+9	4:151:16	w	غَفُوراࣰ		غفورا	Oft-Forgiving	ghafūran
+9	4:151:17	w	رَّحِيماࣰ࣌		رحيما	Most Merciful	raḥīman
+9	4:151:18	e	۝١٥١				
+9	4:152:1	w	يَسْـَٔلُكَ		يسلك	Ask you	yasaluka
+9	4:152:2	w	أَهْلُ		اهل	(the) People	ahlu
+9	4:152:3	w	ࡲ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+9	4:152:4	w	أَن		ان	that	an
+10	4:152:5	w	تُنَزِّلَ		تنزل	you bring down	tunazzila
+10	4:152:6	w	عَلَيْهِمْ		عليهم	to them	ʿalayhim
+10	4:152:7	w	كِتَٰباࣰ		كتبا	a book	kitāban
+10	4:152:8	w	مِّنَ		من	from	mina
+10	4:152:9	w	ࡰ۬لسَّمَآءِ࣌		السما	the heaven	l-samāi
+10	4:152:10	w	فَقَدْ		فقد	Then indeed	faqad
+10	4:152:11	w	سَأَلُواْ		سالوا	they (had) asked	sa-alū
+10	4:152:12	w	مُوسٜىٰٓ		موسي	Musa	mūsā
+10	4:152:13	w	أَكْبَرَ		اكبر	greater	akbara
+10	4:152:14	w	مِن		من	than	min
+11	4:152:15	w	ذَٰلِكَ		ذلك	that	dhālika
+11	4:152:16	w	فَقَالُوٓاْ		فقالوا	for they said	faqālū
+11	4:152:17	w	أَرِنَا		ارنا	Show us	arinā
+11	4:152:18	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	4:152:19	w	جَهْرَةࣰ		جهرة	manifestly	jahratan
+11	4:152:20	w	فَأَخَذَتْهُمُ		فاخذتهم	so struck them	fa-akhadhathumu
+11	4:152:21	w	ࡲ۬لصَّٰعِقَةُ		الصعقة	the thunderbolt	l-ṣāʿiqatu
+11	4:152:22	w	بِظُلْمِهِمْ࣌		بظلمهم	for their wrongdoing	biẓul'mihim
+12	4:152:23	w	ثُمَّ		ثم	Then	thumma
+12	4:152:24	w	ࡰٜتَّخَذُواْ		اتخذوا	they took	ittakhadhū
+12	4:152:25	w	ࡲ۬لْعِجْلَ		العجل	the calf (for worship)	l-ʿij'la
+12	4:152:26	w	مِنۢ		من	from	min
+12	4:152:27	w	بَعْدِ		بعد	after	baʿdi
+12	4:152:28	w	مَا		ما	[what]	mā
+12	4:152:29	w	جَآءَتْهُمُ		جاتهم	came to them	jāathumu
+12	4:152:30	w	ࡲ۬لْبَيِّنَٰتُ		البينت	the clear proofs	l-bayinātu
+12	4:152:31	w	فَعَفَوْنَا		فعفونا	then We forgave them	faʿafawnā
+13	4:152:32	w	عَن		عن	for	ʿan
+13	4:152:33	w	ذَٰلِكَ࣌		ذلك	that	dhālika
+13	4:152:34	w	وَءَاتَيْنَا		واتينا	And We gave	waātaynā
+13	4:152:35	w	مُوسٜىٰ		موسي	Musa	mūsā
+13	4:152:36	w	سُلْطَٰناࣰ		سلطنا	an authority	sul'ṭānan
+13	4:152:37	w	مُّبِيناࣰ࣌		مبينا	clear	mubīnan
+13	4:152:38	e	۝١٥٢				
+13	4:153:1	w	وَرَفَعْنَا		ورفعنا	And We raised	warafaʿnā
+13	4:153:2	w	فَوْقَهُمُ		فوقهم	over them	fawqahumu
+14	4:153:3	w	ࡲ۬لطُّورَ		الطور	the mount	l-ṭūra
+14	4:153:4	w	بِمِيثَٰقِهِمْ࣌		بميثقهم	for their covenant	bimīthāqihim
+14	4:153:5	w	وَقُلْنَا		وقلنا	and We said	waqul'nā
+14	4:153:6	w	لَهُمُ		لهم	to them	lahumu
+14	4:153:7	w	ࡲ࢈دْخُلُواْ		ادخلوا	Enter	ud'khulū
+14	4:153:8	w	ࡲ۬لْبَابَ		الباب	the gate	l-bāba
+14	4:153:9	w	سُجَّداࣰ࣌		سجدا	prostrating	sujjadan
+14	4:153:10	w	وَقُلْنَا		وقلنا	And We said	waqul'nā
+15	4:153:11	w	لَهُمْ		لهم	to them	lahum
+15	4:153:12	w	لَا		لا	(Do) not	lā
+15	4:153:13	w	تَعَدُّواْ		تعدوا	transgress	taʿdū
+15	4:153:14	w	فِے		في	in	fī
+15	4:153:15	w	ࡴ۬لسَّبْتِ࣌		السبت	the Sabbath	l-sabti
+15	4:153:16	w	وَأَخَذْنَا		واخذنا	And We took	wa-akhadhnā
+15	4:153:17	w	مِنْهُم		منهم	from them	min'hum
+15	4:153:18	w	مِّيثَٰقاً		ميثقا	a covenant	mīthāqan
+15	4:153:19	w	غَلِيظاࣰ࣌		غليظا	solemn	ghalīẓan
+15	4:153:20	e	۝١٥٣				

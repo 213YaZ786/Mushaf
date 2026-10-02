@@ -1,0 +1,130 @@
+1	22:0:0	t					
+2	22:0:0	b					
+3	22:1:1	w	يَٰٓأَيُّهَا		يايها	O mankind	yāayyuhā
+3	22:1:2	w	ࡰ۬لنَّاسُ		الناس	O mankind	l-nāsu
+3	22:1:3	w	ࡲٜتَّقُواْ		اتقوا	Fear	ittaqū
+3	22:1:4	w	رَبَّكُمُۥٓ࣌		ربكم	your Lord	rabbakum
+3	22:1:5	w	إِنَّ		ان	Indeed	inna
+3	22:1:6	w	زَلْزَلَةَ		زلزلة	(the) convulsion	zalzalata
+3	22:1:7	w	ࡰ۬لسَّاعَةِ		الساعة	(of) the Hour	l-sāʿati
+3	22:1:8	w	شَےْءٌ		شي	(is) a thing	shayon
+3	22:1:9	w	عَظِيمࣱ࣌		عظيم	great	ʿaẓīmun
+3	22:1:10	e	۝١				
+4	22:2:1	w	يَوْمَ		يوم	(The) Day	yawma
+4	22:2:2	w	تَرَوْنَهَا		ترونها	you will see it	tarawnahā
+4	22:2:3	w	تَذْهَلُ		تذهل	will forget	tadhhalu
+4	22:2:4	w	كُلُّ		كل	every	kullu
+4	22:2:5	w	مُرْضِعَةٍ		مرضعة	nursing mother	mur'ḍiʿatin
+4	22:2:6	w	عَمَّآ		عما	that which	ʿammā
+4	22:2:7	w	أَرْضَعَتْ		ارضعت	she was nursing	arḍaʿat
+4	22:2:8	w	وَتَضَعُ		وتضع	and will deliver	wataḍaʿu
+4	22:2:9	w	كُلُّ		كل	every	kullu
+5	22:2:10	w	ذَاتِ		ذات	pregnant woman	dhāti
+5	22:2:11	w	حَمْلٍ		حمل	pregnant woman	ḥamlin
+5	22:2:12	w	حَمْلَهَا		حملها	her load	ḥamlahā
+5	22:2:13	w	وَتَرَى		وتري	and you will see	watarā
+5	22:2:14	w	ࡰ۬لنَّاسَ		الناس	[the] mankind	l-nāsa
+5	22:2:15	w	سُكَٰرٜىٰ		سكري	intoxicated	sukārā
+5	22:2:16	w	وَمَا		وما	while not	wamā
+5	22:2:17	w	هُم		هم	they	hum
+5	22:2:18	w	بِسُكَٰرٜىٰ		بسكري	(are) intoxicated	bisukārā
+6	22:2:19	w	وَلَٰكِنَّ		ولكن	but	walākinna
+6	22:2:20	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+6	22:2:21	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+6	22:2:22	w	شَدِيدࣱ࣌		شديد	(will be) severe	shadīdun
+6	22:2:23	e	۝٢				
+6	22:3:1	w	وَمِنَ		ومن	And among	wamina
+6	22:3:2	w	ࡰ۬لنَّاسِ		الناس	the mankind	l-nāsi
+6	22:3:3	w	مَنْ		من	(is he) who	man
+6	22:3:4	w	يُّجَٰدِلُ		يجدل	disputes	yujādilu
+6	22:3:5	w	فِے		في	concerning	fī
+6	22:3:6	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+7	22:3:7	w	بِغَيْرِ		بغير	without	bighayri
+7	22:3:8	w	عِلْمࣲ		علم	knowledge	ʿil'min
+7	22:3:9	w	وَيَتَّبِعُ		ويتبع	and follows	wayattabiʿu
+7	22:3:10	w	كُلَّ		كل	every	kulla
+7	22:3:11	w	شَيْطَٰنࣲ		شيطن	devil	shayṭānin
+7	22:3:12	w	مَّرِيدࣲ		مريد	rebellious	marīdin
+7	22:3:13	e	۝٣				
+7	22:4:1	w	كُتِبَ		كتب	It has been decreed	kutiba
+7	22:4:2	w	عَلَيْهِ		عليه	for him	ʿalayhi
+7	22:4:3	w	أَنَّهُۥ		انه	that he	annahu
+8	22:4:4	w	مَن		من	who	man
+8	22:4:5	w	تَوَلّٜاهُ		تولاه	befriends him	tawallāhu
+8	22:4:6	w	فَأَنَّهُۥ		فانه	then indeed, he	fa-annahu
+8	22:4:7	w	يُضِلُّهُۥ		يضله	will misguide him	yuḍilluhu
+8	22:4:8	w	وَيَهْدِيهِ		ويهديه	and will guide him	wayahdīhi
+8	22:4:9	w	إِلَىٰ		الي	to	ilā
+8	22:4:10	w	عَذَابِ		عذاب	(the) punishment	ʿadhābi
+8	22:4:11	w	ࡴ۬لسَّعِيرِ࣌		السعير	(of) the Blaze	l-saʿīri
+8	22:4:12	e	۝٤				
+9	22:5:1	w	يَٰٓأَيُّهَا		يايها	O mankind	yāayyuhā
+9	22:5:2	w	ࡰ۬لنَّاسُ		الناس	O mankind	l-nāsu
+9	22:5:3	w	إِن		ان	If	in
+9	22:5:4	w	كُنتُمْ		كنتم	you are	kuntum
+9	22:5:5	w	فِے		في	in	fī
+9	22:5:6	w	رَيْبࣲ		ريب	doubt	raybin
+9	22:5:7	w	مِّنَ		من	about	mina
+9	22:5:8	w	ࡰ۬لْبَعْثِ		البعث	the Resurrection	l-baʿthi
+9	22:5:9	w	فَإِنَّا		فانا	then indeed, We	fa-innā
+9	22:5:10	w	خَلَقْنَٰكُم		خلقنكم	We created you	khalaqnākum
+10	22:5:11	w	مِّن		من	from	min
+10	22:5:12	w	تُرَابࣲ		تراب	dust	turābin
+10	22:5:13	w	ثُمَّ		ثم	then	thumma
+10	22:5:14	w	مِن		من	from	min
+10	22:5:15	w	نُّطْفَةࣲ		نطفة	a semen-drop	nuṭ'fatin
+10	22:5:16	w	ثُمَّ		ثم	then	thumma
+10	22:5:17	w	مِنْ		من	from	min
+10	22:5:18	w	عَلَقَةࣲ		علقة	a clinging substance	ʿalaqatin
+10	22:5:19	w	ثُمَّ		ثم	then	thumma
+10	22:5:20	w	مِن		من	from	min
+10	22:5:21	w	مُّضْغَةࣲ		مضغة	an embryonic lump	muḍ'ghatin
+11	22:5:22	w	مُّخَلَّقَةࣲ		مخلقة	formed	mukhallaqatin
+11	22:5:23	w	وَغَيْرِ		وغير	and unformed	waghayri
+11	22:5:24	w	مُخَلَّقَةࣲ		مخلقة	and unformed	mukhallaqatin
+11	22:5:25	w	لِّنُبَيِّنَ		لنبين	that We may make clear	linubayyina
+11	22:5:26	w	لَكُمْ࣌		لكم	to you	lakum
+11	22:5:27	w	وَنُقِرُّ		ونقر	And We cause to remain	wanuqirru
+11	22:5:28	w	فِے		في	in	fī
+11	22:5:29	w	ࡴ۬لَارْحَامِ		الارحام	the wombs	l-arḥāmi
+11	22:5:30	w	مَا		ما	what	mā
+11	22:5:31	w	نَشَآءُ		نشا	We will	nashāu
+12	22:5:32	w	ࡹِلَىٰٓ		الي	for	ilā
+12	22:5:33	w	أَجَلࣲ		اجل	a term	ajalin
+12	22:5:34	w	مُّسَمّىࣰ࣌		مسمي	appointed	musamman
+12	22:5:35	w	ثُمَّ		ثم	then	thumma
+12	22:5:36	w	نُخْرِجُكُمْ		نخرجكم	We bring you out	nukh'rijukum
+12	22:5:37	w	طِفْلاࣰ		طفلا	(as) a child	ṭif'lan
+12	22:5:38	w	ثُمَّ		ثم	[then]	thumma
+12	22:5:39	w	لِتَبْلُغُوٓاْ		لتبلغوا	that you may reach	litablughū
+12	22:5:40	w	أَشُدَّكُمْ࣌		اشدكم	[your] maturity	ashuddakum
+13	22:5:41	w	وَمِنكُم		ومنكم	And among you	waminkum
+13	22:5:42	w	مَّنْ		من	(is he) who	man
+13	22:5:43	w	يُّتَوَفّٜىٰ		يتوفي	dies	yutawaffā
+13	22:5:44	w	وَمِنكُم		ومنكم	and among you	waminkum
+13	22:5:45	w	مَّنْ		من	(is he) who	man
+13	22:5:46	w	يُّرَدُّ		يرد	is returned	yuraddu
+13	22:5:47	w	إِلَىٰٓ		الي	to	ilā
+13	22:5:48	w	أَرْذَلِ		ارذل	the most abject	ardhali
+13	22:5:49	w	ࡴ۬لْعُمُرِ		العمر	age	l-ʿumuri
+13	22:5:50	w	لِكَيْلَا		لكيلا	so that not	likaylā
+14	22:5:51	w	يَعْلَمَ		يعلم	he knows	yaʿlama
+14	22:5:52	w	مِنۢ		من	after	min
+14	22:5:53	w	بَعْدِ		بعد	after	baʿdi
+14	22:5:54	w	عِلْمࣲ		علم	having known	ʿil'min
+14	22:5:55	w	شَيْـٔاࣰ࣌		شيا	anything	shayan
+14	22:5:56	w	وَتَرَى		وتري	And you see	watarā
+14	22:5:57	w	ࡰ۬لَارْضَ		الارض	the earth	l-arḍa
+14	22:5:58	w	هَامِدَةࣰ		هامدة	barren	hāmidatan
+14	22:5:59	w	فَإِذَآ		فاذا	then when	fa-idhā
+14	22:5:60	w	أَنزَلْنَا		انزلنا	We send down	anzalnā
+15	22:5:61	w	عَلَيْهَا		عليها	on it	ʿalayhā
+15	22:5:62	w	ࡰ۬لْمَآءَ		الما	water	l-māa
+15	22:5:63	w	ࡰٜهْتَزَّتْ		اهتزت	it gets stirred	ih'tazzat
+15	22:5:64	w	وَرَبَتْ		وربت	and it swells	warabat
+15	22:5:65	w	وَأَنۢبَتَتْ		وانبتت	and grows	wa-anbatat
+15	22:5:66	w	مِن		من	of	min
+15	22:5:67	w	كُلِّ		كل	every	kulli
+15	22:5:68	w	زَوْجِۢ		زوج	kind	zawjin
+15	22:5:69	w	بَهِيجࣲ࣌		بهيج	beautiful	bahījin
+15	22:5:70	e	۝٥				

@@ -42,12 +42,14 @@ import androidx.core.content.ContextCompat
 import java.util.Locale
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.data.quran.Riwayat
 import org.mushaf.app.core.update.UpdateMode
 import org.mushaf.app.core.update.Updates
 import org.mushaf.app.data.audio.Recitations
 import org.mushaf.app.data.offline.Offline
 import org.mushaf.app.data.offline.Pack
 import org.mushaf.app.data.quran.Script
+import org.mushaf.app.core.quran.Riwayah
 import org.mushaf.app.data.quran.TranslationInfo
 import org.mushaf.app.data.quran.Translations
 import org.mushaf.app.data.settings.SettingsStore
@@ -72,6 +74,7 @@ fun WelcomeScreen(onFinish: () -> Unit) {
     val pages = Page.entries
     val pager = rememberPagerState(pageCount = { pages.size })
     val scope = rememberCoroutineScope()
+    val riwayat: Riwayat = koinInject()
     val last = pager.currentPage == pages.lastIndex
     val store: SettingsStore = koinInject()
     val offline: Offline = koinInject()
@@ -91,7 +94,7 @@ fun WelcomeScreen(onFinish: () -> Unit) {
     fun finish() {
         store.update { it.copy(welcomeSeen = true) }
         // The pages are kept on the phone as chosen; the progress shows in a notification.
-        if (settings.keepPagesOffline && settings.script != Script.HAFS) {
+        if (settings.riwayah == Riwayah.HAFS && settings.keepPagesOffline && settings.script != Script.HAFS) {
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU &&
                 ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED
             ) askNotifications.launch(Manifest.permission.POST_NOTIFICATIONS)
@@ -118,11 +121,15 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                 ) {}
                 Page.PAGES -> PageContent(
                     icon = AppIcons.MenuBook,
-                    title = "The pages",
-                    intro = "How the mushaf is drawn.",
+                    title = "The mushaf",
+                    intro = "The riwayah you read in, and how its pages are drawn.",
                     points = listOf("Changeable in Settings.")
                 ) {
                     Choices(
+                        Riwayah.entries.map { it to "${it.label} · ${it.arabic}" },
+                        settings.riwayah
+                    ) { r -> scope.launch { riwayat.change(r) } }
+                    if (settings.riwayah == Riwayah.HAFS) Choices(
                         Script.entries.filter { it.usable }.map {
                             it to when (it) {
                                 Script.PRINT -> "As printed in Madinah"
@@ -132,7 +139,7 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                         },
                         settings.script
                     ) { s -> store.update { it.copy(script = s) } }
-                    if (settings.script != Script.HAFS) {
+                    if (settings.riwayah == Riwayah.HAFS && settings.script != Script.HAFS) {
                         Option(
                             label = "Keep all pages on the phone",
                             value = true,
@@ -180,9 +187,9 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                     points = listOf("Nine more reciters in Settings and while listening.")
                 ) {
                     Choices(
-                        Recitations.RECITERS.take(4).map { it.id to it.label },
-                        settings.reciter
-                    ) { id -> store.update { it.copy(reciter = id) } }
+                        Recitations.of(settings.riwayah).take(4).map { it.id to it.label },
+                        store.reciter(settings.riwayah)
+                    ) { id -> store.update { if (settings.riwayah == Riwayah.WARSH) it.copy(warshReciter = id) else it.copy(reciter = id) } }
                 }
                 Page.UPDATES -> PageContent(
                     icon = AppIcons.Update,

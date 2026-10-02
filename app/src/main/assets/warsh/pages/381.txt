@@ -1,0 +1,124 @@
+1	27:47:1	w	وَلَقَدَ		ولقد	And certainly	walaqad
+1	27:47:2	w	ࡰرْسَلْنَآ		ارسلنا	We sent	arsalnā
+1	27:47:3	w	إِلَىٰ		الي	to	ilā
+1	27:47:4	w	ثَمُودَ		ثمود	Thamud	thamūda
+1	27:47:5	w	أَخَاهُمْ		اخاهم	their brother	akhāhum
+1	27:47:6	w	صَٰلِحاً		صلحا	Salih	ṣāliḥan
+1	27:47:7	w	ࡰنُ		ان	that	ani
+1	27:47:8	w	ࡲ࢈عْبُدُواْ		اعبدوا	Worship	uʿ'budū
+1	27:47:9	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+2	27:47:10	w	فَإِذَا		فاذا	Then behold	fa-idhā
+2	27:47:11	w	هُمْ		هم	They	hum
+2	27:47:12	w	فَرِيقَٰنِ		فريقن	(became) two parties	farīqāni
+2	27:47:13	w	يَخْتَصِمُونَ࣌		يختصمون	quarreling	yakhtaṣimūna
+2	27:47:14	e	۝٤٧				
+2	27:48:1	w	قَالَ		قال	He said	qāla
+2	27:48:2	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+2	27:48:3	w	لِمَ		لم	Why	lima
+2	27:48:4	w	تَسْتَعْجِلُونَ		تستعجلون	(do) you seek to hasten	tastaʿjilūna
+3	27:48:5	w	بِالسَّيِّئَةِ		بالسيية	the evil	bil-sayi-ati
+3	27:48:6	w	قَبْلَ		قبل	before	qabla
+3	27:48:7	w	ࡰ۬لْحَسَنَةِ		الحسنة	the good	l-ḥasanati
+3	27:48:8	w	لَوْلَا		لولا	Why not	lawlā
+3	27:48:9	w	تَسْتَغْفِرُونَ		تستغفرون	you ask forgiveness	tastaghfirūna
+3	27:48:10	w	ࡰ۬للَّهَ		الله	(of) Allah	l-laha
+3	27:48:11	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+4	27:48:12	w	تُرْحَمُونَ࣌		ترحمون	receive mercy	tur'ḥamūna
+4	27:48:13	e	۝٤٨				
+4	27:49:1	w	قَالُواْ		قالوا	They said	qālū
+4	27:49:2	w	ࡲٜطَّيَّرْنَا		اطيرنا	We consider you a bad omen	iṭṭayyarnā
+4	27:49:3	w	بِكَ		بك	We consider you a bad omen	bika
+4	27:49:4	w	وَبِمَن		وبمن	and those	wabiman
+4	27:49:5	w	مَّعَكَ࣌		معك	with you	maʿaka
+4	27:49:6	w	قَالَ		قال	He said	qāla
+4	27:49:7	w	طَٰٓئِرُكُمْ		طيركم	Your bad omen	ṭāirukum
+5	27:49:8	w	عِندَ		عند	(is) with	ʿinda
+5	27:49:9	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+5	27:49:10	w	بَلَ		بل	Nay	bal
+5	27:49:11	w	ࡰنتُمْ		انتم	you	antum
+5	27:49:12	w	قَوْمࣱ		قوم	(are) a people	qawmun
+5	27:49:13	w	تُفْتَنُونَ࣌		تفتنون	being tested	tuf'tanūna
+5	27:49:14	e	۝٤٩				
+5	27:50:1	w	وَكَانَ		وكان	And were	wakāna
+5	27:50:2	w	فِے		في	in	fī
+5	27:50:3	w	ࡴ۬لْمَدِينَةِ		المدينة	the city	l-madīnati
+6	27:50:4	w	تِسْعَةُ		تسعة	nine	tis'ʿatu
+6	27:50:5	w	رَهْطࣲ		رهط	family heads	rahṭin
+6	27:50:6	w	يُفْسِدُونَ		يفسدون	they were spreading corruption	yuf'sidūna
+6	27:50:7	w	فِے		في	in	fī
+6	27:50:8	w	ࡴ۬لَارْضِ		الارض	the land	l-arḍi
+6	27:50:9	w	وَلَا		ولا	and not	walā
+6	27:50:10	w	يُصْلِحُونَ࣌		يصلحون	reforming	yuṣ'liḥūna
+6	27:50:11	e	۝٥٠				
+7	27:51:1	w	قَالُواْ		قالوا	They said	qālū
+7	27:51:2	w	تَقَاسَمُواْ		تقاسموا	Swear to each other	taqāsamū
+7	27:51:3	w	بِاللَّهِ		بالله	by Allah	bil-lahi
+7	27:51:4	w	لَنُبَيِّتَنَّهُۥ		لنبيتنه	surely, we will attack him by night	lanubayyitannahu
+7	27:51:5	w	وَأَهْلَهُۥ		واهله	and his family	wa-ahlahu
+7	27:51:6	w	ثُمَّ		ثم	Then	thumma
+7	27:51:7	w	لَنَقُولَنَّ		لنقولن	we will surely say	lanaqūlanna
+7	27:51:8	w	لِوَلِيِّهِۦ		لوليهي	to his heir	liwaliyyihi
+8	27:51:9	w	مَا		ما	Not	mā
+8	27:51:10	w	شَهِدْنَا		شهدنا	we witnessed	shahid'nā
+8	27:51:11	w	مُهْلَكَ		مهلك	(the) destruction	mahlika
+8	27:51:12	w	أَهْلِهِۦ		اهلهي	(of) his family	ahlihi
+8	27:51:13	w	وَإِنَّا		وانا	and indeed, we	wa-innā
+8	27:51:14	w	لَصَٰدِقُونَ࣌		لصدقون	(are) surely truthful	laṣādiqūna
+8	27:51:15	e	۝٥١				
+8	27:52:1	w	وَمَكَرُواْ		ومكروا	So they plotted	wamakarū
+9	27:52:2	w	مَكْراࣰ		مكرا	a plot	makran
+9	27:52:3	w	وَمَكَرْنَا		ومكرنا	and We planned	wamakarnā
+9	27:52:4	w	مَكْراࣰ		مكرا	a plan	makran
+9	27:52:5	w	وَهُمْ		وهم	while they	wahum
+9	27:52:6	w	لَا		لا	(did) not	lā
+9	27:52:7	w	يَشْعُرُونَ࣌		يشعرون	perceive	yashʿurūna
+9	27:52:8	e	۝٥٢				
+9	27:53:1	w	فَانظُرْ		فانظر	Then see	fa-unẓur
+10	27:53:2	w	كَيْفَ		كيف	how	kayfa
+10	27:53:3	w	كَانَ		كان	was	kāna
+10	27:53:4	w	عَٰقِبَةُ		عقبة	(the) end	ʿāqibatu
+10	27:53:5	w	مَكْرِهِمُۥٓ࣌		مكرهم	(of) their plot	makrihim
+10	27:53:6	w	إِنَّا		انا	that We	annā
+10	27:53:7	w	دَمَّرْنَٰهُمْ		دمرنهم	destroyed them	dammarnāhum
+10	27:53:8	w	وَقَوْمَهُمُۥٓ		وقومهم	and their people	waqawmahum
+11	27:53:9	w	أَجْمَعِينَ࣌		اجمعين	all	ajmaʿīna
+11	27:53:10	e	۝٥٣				
+11	27:54:1	w	فَتِلْكَ		فتلك	So, these	fatil'ka
+11	27:54:2	w	بُيُوتُهُمْ		بيوتهم	(are) their houses	buyūtuhum
+11	27:54:3	w	خَاوِيَةَۢ		خاوية	ruined	khāwiyatan
+11	27:54:4	w	بِمَا		بما	because	bimā
+11	27:54:5	w	ظَلَمُوٓاْ࣌		ظلموا	they wronged	ẓalamū
+11	27:54:6	w	إِنَّ		ان	Indeed	inna
+12	27:54:7	w	فِے		في	in	fī
+12	27:54:8	w	ذَٰلِكَ		ذلك	that	dhālika
+12	27:54:9	w	لَأٓيَةࣰ		لاية	surely, is a sign	laāyatan
+12	27:54:10	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+12	27:54:11	w	يَعْلَمُونَ࣌		يعلمون	who know	yaʿlamūna
+12	27:54:12	e	۝٥٤				
+12	27:55:1	w	وَأَنجَيْنَا		وانجينا	And We saved	wa-anjaynā
+12	27:55:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	27:55:3	w	ءَامَنُواْ		امنوا	believed	āmanū
+13	27:55:4	w	وَكَانُواْ		وكانوا	and used (to)	wakānū
+13	27:55:5	w	يَتَّقُونَ࣌		يتقون	fear (Allah)	yattaqūna
+13	27:55:6	e	۝٥٥				
+13	27:56:1	w	وَلُوطاً		ولوطا	And Lut	walūṭan
+13	27:56:2	w	ࡴذْ		اذ	when	idh
+13	27:56:3	w	قَالَ		قال	he said	qāla
+13	27:56:4	w	لِقَوْمِهِۦٓ		لقومهي	to his people	liqawmihi
+13	27:56:5	w	أَتَاتُونَ		اتاتون	Do you commit	atatūna
+14	27:56:6	w	ࡰ۬لْفَٰحِشَةَ		الفحشة	[the] immorality	l-fāḥishata
+14	27:56:7	w	وَأَنتُمْ		وانتم	while you	wa-antum
+14	27:56:8	w	تُبْصِرُونَ࣌		تبصرون	see	tub'ṣirūna
+14	27:56:9	e	۝٥٦				
+14	27:57:1	w	أَئِنَّكُمْ		اينكم	Why do you	a-innakum
+14	27:57:2	w	لَتَاتُونَ		لتاتون	approach	latatūna
+14	27:57:3	w	ࡰ۬لرِّجَالَ		الرجال	the men	l-rijāla
+15	27:57:4	w	شَهْوَةࣰ		شهوة	(with) lust	shahwatan
+15	27:57:5	w	مِّن		من	instead of	min
+15	27:57:6	w	دُونِ		دون	instead of	dūni
+15	27:57:7	w	ࡴ۬لنِّسَآءِ࣌		النسا	the women	l-nisāi
+15	27:57:8	w	بَلَ		بل	Nay	bal
+15	27:57:9	w	ࡰنتُمْ		انتم	you	antum
+15	27:57:10	w	قَوْمࣱ		قوم	(are) a people	qawmun
+15	27:57:11	w	تَجْهَلُونَ࣌		تجهلون	ignorant	tajhalūna
+15	27:57:12	e	۝٥٧				

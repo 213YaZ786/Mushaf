@@ -1,0 +1,130 @@
+1	37:103:1	w	فَلَمَّآ		فلما	Then when	falammā
+1	37:103:2	w	أَسْلَمَا		اسلما	both of them had submitted	aslamā
+1	37:103:3	w	وَتَلَّهُۥ		وتله	and he put him down	watallahu
+1	37:103:4	w	لِلْجَبِينِ		للجبين	upon his forehead	lil'jabīni
+1	37:103:5	e	۝١٠٣				
+1	37:104:1	w	وَنَٰدَيْنَٰهُ		وندينه	And We called out to him	wanādaynāhu
+1	37:104:2	w	أَنْ		ان	that	an
+1	37:104:3	w	يَّٰٓإِبْرَٰهِيمُ		يابرهيم	O Ibrahim	yāib'rāhīmu
+1	37:104:4	e	۝١٠٤				
+2	37:105:1	w	قَدْ		قد	Verily	qad
+2	37:105:2	w	صَدَّقْتَ		صدقت	you have fulfilled	ṣaddaqta
+2	37:105:3	w	ࡰ۬لرُّءْيٜآ࣌		الريا	the vision	l-ru'yā
+2	37:105:4	w	إِنَّا		انا	Indeed, We	innā
+2	37:105:5	w	كَذَٰلِكَ		كذلك	thus	kadhālika
+2	37:105:6	w	نَجْزِے		نجزي	[We] reward	najzī
+2	37:105:7	w	ࡴ۬لْمُحْسِنِينَ࣌		المحسنين	the good-doers	l-muḥ'sinīna
+2	37:105:8	e	۝١٠٥				
+2	37:106:1	w	إِنَّ		ان	Indeed	inna
+3	37:106:2	w	هَٰذَا		هذا	this	hādhā
+3	37:106:3	w	لَهُوَ		لهو	(was) surely [it]	lahuwa
+3	37:106:4	w	ࡰ۬لْبَلَٰٓؤُاْ		البلوا	the trial	l-balāu
+3	37:106:5	w	ࡲ۬لْمُبِينُ࣌		المبين	clear	l-mubīnu
+3	37:106:6	e	۝١٠٦				
+3	37:107:1	w	وَفَدَيْنَٰهُ		وفدينه	And We ransomed him	wafadaynāhu
+3	37:107:2	w	بِذِبْحٍ		بذبح	with a sacrifice	bidhib'ḥin
+3	37:107:3	w	عَظِيمࣲ࣌		عظيم	great	ʿaẓīmin
+3	37:107:4	e	۝١٠٧				
+3	37:108:1	w	وَتَرَكْنَا		وتركنا	And We left	wataraknā
+4	37:108:2	w	عَلَيْهِ		عليه	for him	ʿalayhi
+4	37:108:3	w	فِے		في	among	fī
+4	37:108:4	w	ࡴ۬لَاخِرِينَ࣌		الاخرين	the later generations	l-ākhirīna
+4	37:108:5	e	۝١٠٨				
+4	37:109:1	w	سَلَٰمٌ		سلم	Peace be	salāmun
+4	37:109:2	w	عَلَىٰٓ		علي	on	ʿalā
+4	37:109:3	w	إِبْرَٰهِيمَ࣌		ابرهيم	Ibrahim	ib'rāhīma
+4	37:109:4	e	۝١٠٩				
+4	37:110:1	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+4	37:110:2	w	نَجْزِے		نجزي	We reward	najzī
+5	37:110:3	w	ࡴ۬لْمُحْسِنِينَ࣌		المحسنين	the good-doers	l-muḥ'sinīna
+5	37:110:4	e	۝١١٠				
+5	37:111:1	w	إِنَّهُۥ		انه	Indeed, he (was)	innahu
+5	37:111:2	w	مِنْ		من	of	min
+5	37:111:3	w	عِبَادِنَا		عبادنا	Our slaves	ʿibādinā
+5	37:111:4	w	ࡰ۬لْمُومِنِينَ࣌		المومنين	believing	l-mu'minīna
+5	37:111:5	e	۝١١١				
+5	37:112:1	w	وَبَشَّرْنَٰهُ		وبشرنه	And We gave him glad tidings	wabasharnāhu
+6	37:112:2	w	بِإِسْحَٰقَ		باسحق	of Isaac	bi-is'ḥāqa
+6	37:112:3	w	نَبِيٓـٔاࣰ		نبيا	a Prophet	nabiyyan
+6	37:112:4	w	مِّنَ		من	among	mina
+6	37:112:5	w	ࡰ۬لصَّٰلِحِينَ		الصلحين	the righteous	l-ṣāliḥīna
+6	37:112:6	e	۝١١٢				
+6	37:113:1	w	وَبَٰرَكْنَا		وبركنا	And We blessed	wabāraknā
+6	37:113:2	w	عَلَيْهِ		عليه	him	ʿalayhi
+6	37:113:3	w	وَعَلَىٰٓ		وعلي	and [on]	waʿalā
+6	37:113:4	w	إِسْحَٰقَ࣌		اسحق	Isaac	is'ḥāqa
+7	37:113:5	w	وَمِن		ومن	And of	wamin
+7	37:113:6	w	ذُرِّيَّتِهِمَا		ذريتهما	their offspring	dhurriyyatihimā
+7	37:113:7	w	مُحْسِنࣱ		محسن	(are) good-doers	muḥ'sinun
+7	37:113:8	w	وَظَالِمࣱ		وظالم	and unjust	waẓālimun
+7	37:113:9	w	لِّنَفْسِهِۦ		لنفسهي	to himself	linafsihi
+7	37:113:10	w	مُبِينࣱ࣌		مبين	clear	mubīnun
+7	37:113:11	e	۝١١٣				
+7	37:114:1	w	۞ وَلَقَدْ		ولقد	And verily	walaqad
+7	37:114:2	w	مَنَنَّا		مننا	We conferred Favor	manannā
+8	37:114:3	w	عَلَىٰ		علي	upon	ʿalā
+8	37:114:4	w	مُوسٜىٰ		موسي	Musa	mūsā
+8	37:114:5	w	وَهَٰرُونَ		وهرون	and Harun	wahārūna
+8	37:114:6	e	۝١١٤				
+8	37:115:1	w	وَنَجَّيْنَٰهُمَا		ونجينهما	And We saved both of them	wanajjaynāhumā
+8	37:115:2	w	وَقَوْمَهُمَا		وقومهما	and their people	waqawmahumā
+8	37:115:3	w	مِنَ		من	from	mina
+8	37:115:4	w	ࡰ۬لْكَرْبِ		الكرب	the distress	l-karbi
+9	37:115:5	w	ࡴ۬لْعَظِيمِ࣌		العظيم	the great	l-ʿaẓīmi
+9	37:115:6	e	۝١١٥				
+9	37:116:1	w	وَنَصَرْنَٰهُمْ		ونصرنهم	And We helped them	wanaṣarnāhum
+9	37:116:2	w	فَكَانُواْ		فكانوا	so they became	fakānū
+9	37:116:3	w	هُمُ		هم	so they became	humu
+9	37:116:4	w	ࡲ۬لْغَٰلِبِينَ࣌		الغلبين	the victors	l-ghālibīna
+9	37:116:5	e	۝١١٦				
+9	37:117:1	w	وَءَاتَيْنَٰهُمَا		واتينهما	And We gave both of them	waātaynāhumā
+10	37:117:2	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+10	37:117:3	w	ࡰ۬لْمُسْتَبِينَ࣌		المستبين	the clear	l-mus'tabīna
+10	37:117:4	e	۝١١٧				
+10	37:118:1	w	وَهَدَيْنَٰهُمَا		وهدينهما	And We guided both of them	wahadaynāhumā
+10	37:118:2	w	ࡰ۬لصِّرَٰطَ		الصرط	(to) the Path	l-ṣirāṭa
+10	37:118:3	w	ࡰ۬لْمُسْتَقِيمَ࣌		المستقيم	the Straight	l-mus'taqīma
+10	37:118:4	e	۝١١٨				
+11	37:119:1	w	وَتَرَكْنَا		وتركنا	And We left	wataraknā
+11	37:119:2	w	عَلَيْهِمَا		عليهما	for both of them	ʿalayhimā
+11	37:119:3	w	فِے		في	among	fī
+11	37:119:4	w	ࡴ۬لَاخِرِينَ࣌		الاخرين	the later generations	l-ākhirīna
+11	37:119:5	e	۝١١٩				
+11	37:120:1	w	سَلَٰمٌ		سلم	Peace be	salāmun
+11	37:120:2	w	عَلَىٰ		علي	upon	ʿalā
+11	37:120:3	w	مُوسٜىٰ		موسي	Musa	mūsā
+12	37:120:4	w	وَهَٰرُونَ࣌		وهرون	and Harun	wahārūna
+12	37:120:5	e	۝١٢٠				
+12	37:121:1	w	إِنَّا		انا	Indeed, We	innā
+12	37:121:2	w	كَذَٰلِكَ		كذلك	thus	kadhālika
+12	37:121:3	w	نَجْزِے		نجزي	reward	najzī
+12	37:121:4	w	ࡴ۬لْمُحْسِنِينَ࣌		المحسنين	the good-doers	l-muḥ'sinīna
+12	37:121:5	e	۝١٢١				
+12	37:122:1	w	إِنَّهُمَا		انهما	Indeed, both of them	innahumā
+13	37:122:2	w	مِنْ		من	(were) of	min
+13	37:122:3	w	عِبَادِنَا		عبادنا	Our slaves	ʿibādinā
+13	37:122:4	w	ࡰ۬لْمُومِنِينَ࣌		المومنين	believing	l-mu'minīna
+13	37:122:5	e	۝١٢٢				
+13	37:123:1	w	وَإِنَّ		وان	And indeed	wa-inna
+13	37:123:2	w	إِلْيَاسَ		الياس	Elijah	il'yāsa
+13	37:123:3	w	لَمِنَ		لمن	(was) surely of	lamina
+13	37:123:4	w	ࡰ۬لْمُرْسَلِينَ		المرسلين	the Messengers	l-mur'salīna
+13	37:123:5	e	۝١٢٣				
+14	37:124:1	w	إِذْ		اذ	When	idh
+14	37:124:2	w	قَالَ		قال	he said	qāla
+14	37:124:3	w	لِقَوْمِهِۦٓ		لقومهي	to his people	liqawmihi
+14	37:124:4	w	أَلَا		الا	Will not	alā
+14	37:124:5	w	تَتَّقُونَ		تتقون	you fear	tattaqūna
+14	37:124:6	e	۝١٢٤				
+14	37:125:1	w	أَتَدْعُونَ		اتدعون	Do you call	atadʿūna
+14	37:125:2	w	بَعْلاࣰ		بعلا	Baal	baʿlan
+14	37:125:3	w	وَتَذَرُونَ		وتذرون	and you forsake	watadharūna
+14	37:125:4	w	أَحْسَنَ		احسن	(the) Best	aḥsana
+15	37:125:5	w	ࡰ۬لْخَٰلِقِينَ࣌		الخلقين	(of) Creators	l-khāliqīna
+15	37:125:6	e	۝١٢٥				
+15	37:126:1	w	ࡰ۬للَّهُ		الله	Allah	al-laha
+15	37:126:2	w	رَبُّكُمْ		ربكم	your Lord	rabbakum
+15	37:126:3	w	وَرَبُّ		ورب	and (the) Lord	warabba
+15	37:126:4	w	ءَابَآئِكُمُ		ابايكم	(of) your forefathers	ābāikumu
+15	37:126:5	w	ࡲ۬لَاوَّلِينَ࣌		الاولين	(of) your forefathers	l-awalīna
+15	37:126:6	e	۝١٢٦				

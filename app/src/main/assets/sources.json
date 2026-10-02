@@ -21,5 +21,8 @@
   "fontHashes": {},
   "stt": [
     "https://github.com/213YaZ786/Mushaf/releases/download/stt-1/{file}"
+  ],
+  "mp3quran": [
+    "https://www.mp3quran.net/api/v3"
   ]
 }

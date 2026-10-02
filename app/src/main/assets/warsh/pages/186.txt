@@ -1,0 +1,141 @@
+1	8:71:1	w	يَٰٓأَيُّهَا‏		يايها	O	yāayyuhā
+1	8:71:2	w	ࡰ۬لنَّبِےٓءُ		النبي	Prophet	l-nabiyu
+1	8:71:3	w	قُل		قل	Say	qul
+1	8:71:4	w	لِّمَن		لمن	to whoever	liman
+1	8:71:5	w	فِےٓ		في	(is) in	fī
+1	8:71:6	w	أَيْدِيكُم		ايديكم	your hands	aydīkum
+1	8:71:7	w	مِّنَ		من	of	mina
+1	8:71:8	w	ࡰ۬لَاسْرٜىٰٓ		الاسري	the captives	l-asrā
+1	8:71:9	w	إِنْ		ان	If	in
+1	8:71:10	w	يَّعْلَمِ		يعلم	knows	yaʿlami
+1	8:71:11	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+2	8:71:12	w	فِے		في	in	fī
+2	8:71:13	w	قُلُوبِكُمْ		قلوبكم	your hearts	qulūbikum
+2	8:71:14	w	خَيْراࣰ		خيرا	any good	khayran
+2	8:71:15	w	يُوتِكُمْ		يوتكم	He will give you	yu'tikum
+2	8:71:16	w	خَيْراࣰ		خيرا	better	khayran
+2	8:71:17	w	مِّمَّآ		مما	than what	mimmā
+2	8:71:18	w	أُخِذَ		اخذ	was taken	ukhidha
+2	8:71:19	w	مِنكُمْ		منكم	from you	minkum
+2	8:71:20	w	وَيَغْفِرْ		ويغفر	and He will forgive	wayaghfir
+2	8:71:21	w	لَكُمْ࣌		لكم	you	lakum
+3	8:71:22	w	وَاللَّهُ		والله	And Allah	wal-lahu
+3	8:71:23	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+3	8:71:24	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+3	8:71:25	e	۝٧١				
+3	8:72:1	w	۞ وَإِنْ		وان	But if	wa-in
+3	8:72:2	w	يُّرِيدُواْ		يريدوا	they intend	yurīdū
+3	8:72:3	w	خِيَانَتَكَ		خيانتك	(to) betray you	khiyānataka
+3	8:72:4	w	فَقَدْ		فقد	certainly	faqad
+3	8:72:5	w	خَانُواْ		خانوا	they have betrayed	khānū
+3	8:72:6	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+4	8:72:7	w	مِن		من	from	min
+4	8:72:8	w	قَبْلُ		قبل	before	qablu
+4	8:72:9	w	فَأَمْكَنَ		فامكن	So He gave (you) power	fa-amkana
+4	8:72:10	w	مِنْهُمْ࣌		منهم	over them	min'hum
+4	8:72:11	w	وَاللَّهُ		والله	And Allah	wal-lahu
+4	8:72:12	w	عَلِيمٌ		عليم	(is) All-Knower	ʿalīmun
+4	8:72:13	w	حَكِيمٌ࣌		حكيم	All-Wise	ḥakīmun
+4	8:72:14	e	۝٧٢				
+4	8:73:1	w	ࡴنَّ		ان	Indeed	inna
+4	8:73:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	8:73:3	w	ءَامَنُواْ		امنوا	believed	āmanū
+5	8:73:4	w	وَهَاجَرُواْ		وهاجروا	and emigrated	wahājarū
+5	8:73:5	w	وَجَٰهَدُواْ		وجهدوا	and strove hard	wajāhadū
+5	8:73:6	w	بِأَمْوَٰلِهِمْ		بامولهم	with their wealth	bi-amwālihim
+5	8:73:7	w	وَأَنفُسِهِمْ		وانفسهم	and their lives	wa-anfusihim
+5	8:73:8	w	فِے		في	in	fī
+5	8:73:9	w	سَبِيلِ		سبيل	(the) way	sabīli
+5	8:73:10	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+6	8:73:11	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+6	8:73:12	w	ءَاوَواْ		اووا	gave shelter	āwaw
+6	8:73:13	w	وَّنَصَرُوٓاْ		ونصروا	and helped	wanaṣarū
+6	8:73:14	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+6	8:73:15	w	بَعْضُهُمُۥٓ		بعضهم	some of them	baʿḍuhum
+6	8:73:16	w	أَوْلِيَآءُ		اوليا	(are) allies	awliyāu
+6	8:73:17	w	بَعْضࣲ࣌		بعض	(of) another	baʿḍin
+6	8:73:18	w	وَالذِينَ		والذين	But those who	wa-alladhīna
+7	8:73:19	w	ءَامَنُواْ		امنوا	believed	āmanū
+7	8:73:20	w	وَلَمْ		ولم	and (did) not	walam
+7	8:73:21	w	يُهَاجِرُواْ		يهاجروا	emigrate	yuhājirū
+7	8:73:22	w	مَا		ما	(it is) not	mā
+7	8:73:23	w	لَكُم		لكم	for you	lakum
+7	8:73:24	w	مِّنْ		من	(of)	min
+7	8:73:25	w	وَّلَٰيَتِهِم		وليتهم	their protection	walāyatihim
+7	8:73:26	w	مِّن		من	(in)	min
+7	8:73:27	w	شَےْءٍ		شي	(in) anything	shayin
+7	8:73:28	w	حَتَّىٰ		حتي	until	ḥattā
+7	8:73:29	w	يُهَاجِرُواْ࣌		يهاجروا	they emigrate	yuhājirū
+8	8:73:30	w	وَإِنِ		وان	And if	wa-ini
+8	8:73:31	w	ࡴٜسْتَنصَرُوكُمْ		استنصروكم	they seek your help	is'tanṣarūkum
+8	8:73:32	w	فِے		في	in	fī
+8	8:73:33	w	ࡴ۬لدِّينِ		الدين	the religion	l-dīni
+8	8:73:34	w	فَعَلَيْكُمُ		فعليكم	then upon you	faʿalaykumu
+8	8:73:35	w	ࡲ۬لنَّصْرُ		النصر	(is to) help them	l-naṣru
+8	8:73:36	w	إِلَّا		الا	except	illā
+8	8:73:37	w	عَلَىٰ		علي	against	ʿalā
+8	8:73:38	w	قَوْمِۢ		قوم	a people	qawmin
+9	8:73:39	w	بَيْنَكُمْ		بينكم	between you	baynakum
+9	8:73:40	w	وَبَيْنَهُم		وبينهم	and between them	wabaynahum
+9	8:73:41	w	مِّيثَٰقࣱ࣌		ميثق	(is) a treaty	mīthāqun
+9	8:73:42	w	وَاللَّهُ		والله	And Allah	wal-lahu
+9	8:73:43	w	بِمَا		بما	of what	bimā
+9	8:73:44	w	تَعْمَلُونَ		تعملون	you do	taʿmalūna
+9	8:73:45	w	بَصِيرࣱ࣌		بصير	(is) All-Seer	baṣīrun
+9	8:73:46	e	۝٧٣				
+9	8:74:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+10	8:74:2	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+10	8:74:3	w	بَعْضُهُمُۥٓ		بعضهم	some of them	baʿḍuhum
+10	8:74:4	w	أَوْلِيَآءُ		اوليا	(are) allies	awliyāu
+10	8:74:5	w	بَعْضٍ࣌		بعض	(to) another	baʿḍin
+10	8:74:6	w	ࡴلَّا		الا	If not	illā
+10	8:74:7	w	تَفْعَلُوهُ		تفعلوه	you do it	tafʿalūhu
+10	8:74:8	w	تَكُن		تكن	(there) will be	takun
+10	8:74:9	w	فِتْنَةࣱ		فتنة	oppression	fit'natun
+10	8:74:10	w	فِے		في	in	fī
+11	8:74:11	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+11	8:74:12	w	وَفَسَادࣱ		وفساد	and corruption	wafasādun
+11	8:74:13	w	كَبِيرࣱ࣌		كبير	great	kabīrun
+11	8:74:14	e	۝٧٤				
+11	8:75:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+11	8:75:2	w	ءَامَنُواْ		امنوا	believed	āmanū
+11	8:75:3	w	وَهَاجَرُواْ		وهاجروا	and emigrated	wahājarū
+11	8:75:4	w	وَجَٰهَدُواْ		وجهدوا	and strove hard	wajāhadū
+11	8:75:5	w	فِے		في	in	fī
+12	8:75:6	w	سَبِيلِ		سبيل	(the) way	sabīli
+12	8:75:7	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+12	8:75:8	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+12	8:75:9	w	ءَاوَواْ		اووا	gave shelter	āwaw
+12	8:75:10	w	وَّنَصَرُوٓاْ		ونصروا	and helped	wanaṣarū
+12	8:75:11	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+12	8:75:12	w	هُمُ		هم	they (are)	humu
+12	8:75:13	w	ࡲ۬لْمُومِنُونَ		المومنون	the believers	l-mu'minūna
+12	8:75:14	w	حَقّاࣰ࣌		حقا	(in) truth	ḥaqqan
+13	8:75:15	w	لَّهُم		لهم	For them	lahum
+13	8:75:16	w	مَّغْفِرَةࣱ		مغفرة	(is) forgiveness	maghfiratun
+13	8:75:17	w	وَرِزْقࣱ		ورزق	and a provision	wariz'qun
+13	8:75:18	w	كَرِيمࣱ࣌		كريم	noble	karīmun
+13	8:75:19	e	۝٧٥				
+13	8:76:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+13	8:76:2	w	ءَامَنُواْ		امنوا	believed	āmanū
+13	8:76:3	w	مِنۢ		من	from	min
+13	8:76:4	w	بَعْدُ		بعد	afterwards	baʿdu
+13	8:76:5	w	وَهَاجَرُواْ		وهاجروا	and emigrated	wahājarū
+14	8:76:6	w	وَجَٰهَدُواْ		وجهدوا	and strove hard	wajāhadū
+14	8:76:7	w	مَعَكُمْ		معكم	with you	maʿakum
+14	8:76:8	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+14	8:76:9	w	مِنكُمْ࣌		منكم	(are) of you	minkum
+14	8:76:10	w	وَأُوْلُواْ		واولوا	But those	wa-ulū
+14	8:76:11	w	ࡲ۬لَارْحَامِ		الارحام	(of) blood relationship	l-arḥāmi
+14	8:76:12	w	بَعْضُهُمُۥٓ		بعضهم	some of them	baʿḍuhum
+15	8:76:13	w	أَوْلٜىٰ		اولي	(are) nearer	awlā
+15	8:76:14	w	بِبَعْضࣲ		ببعض	to another	bibaʿḍin
+15	8:76:15	w	فِے		في	in	fī
+15	8:76:16	w	كِتَٰبِ		كتب	(the) Book	kitābi
+15	8:76:17	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+15	8:76:18	w	إِنَّ		ان	Indeed	inna
+15	8:76:19	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	8:76:20	w	بِكُلِّ		بكل	of every	bikulli
+15	8:76:21	w	شَےْءٍ		شي	thing	shayin
+15	8:76:22	w	عَلِيمُۢ࣌		عليم	(is) All-Knower	ʿalīmun
+15	8:76:23	e	۝٧٦				

@@ -1,0 +1,140 @@
+1	13:7:1	w	وَيَسْتَعْجِلُونَكَ		ويستعجلونك	And they ask you to hasten	wayastaʿjilūnaka
+1	13:7:2	w	بِالسَّيِّئَةِ		بالسيية	the evil	bil-sayi-ati
+1	13:7:3	w	قَبْلَ		قبل	before	qabla
+1	13:7:4	w	ࡰ۬لْحَسَنَةِ		الحسنة	the good	l-ḥasanati
+1	13:7:5	w	وَقَدْ		وقد	and verily	waqad
+1	13:7:6	w	خَلَتْ		خلت	has occurred	khalat
+1	13:7:7	w	مِن		من	from	min
+2	13:7:8	w	قَبْلِهِمُ		قبلهم	before them	qablihimu
+2	13:7:9	w	ࡲ۬لْمَثُلَٰتُ࣌		المثلت	[the] similar punishments	l-mathulātu
+2	13:7:10	w	وَإِنَّ		وان	And indeed	wa-inna
+2	13:7:11	w	رَبَّكَ		ربك	your Lord	rabbaka
+2	13:7:12	w	لَذُو		لذو	(is) full	ladhū
+2	13:7:13	w	مَغْفِرَةࣲ		مغفرة	(of) forgiveness	maghfiratin
+2	13:7:14	w	لِّلنَّاسِ		للناس	for mankind	lilnnāsi
+2	13:7:15	w	عَلَىٰ		علي	for	ʿalā
+2	13:7:16	w	ظُلْمِهِمْ࣌		ظلمهم	their wrongdoing	ẓul'mihim
+3	13:7:17	w	وَإِنَّ		وان	and indeed	wa-inna
+3	13:7:18	w	رَبَّكَ		ربك	your Lord	rabbaka
+3	13:7:19	w	لَشَدِيدُ		لشديد	(is) severe	lashadīdu
+3	13:7:20	w	ࡲ۬لْعِقَابِ࣌		العقاب	(in) the penalty	l-ʿiqābi
+3	13:7:21	e	۝٧				
+3	13:8:1	w	وَيَقُولُ		ويقول	And say	wayaqūlu
+3	13:8:2	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+3	13:8:3	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+3	13:8:4	w	لَوْلَآ		لولا	Why not	lawlā
+4	13:8:5	w	أُنزِلَ		انزل	has been sent down	unzila
+4	13:8:6	w	عَلَيْهِ		عليه	to him	ʿalayhi
+4	13:8:7	w	ءَايَةࣱ		اية	a sign	āyatun
+4	13:8:8	w	مِّن		من	from	min
+4	13:8:9	w	رَّبِّهِۦٓ࣌		ربهي	his Lord	rabbihi
+4	13:8:10	w	إِنَّمَآ		انما	Only	innamā
+4	13:8:11	w	أَنتَ		انت	you	anta
+4	13:8:12	w	مُنذِرࣱ࣌		منذر	(are) a warner	mundhirun
+4	13:8:13	w	وَلِكُلِّ		ولكل	and for every	walikulli
+4	13:8:14	w	قَوْمٍ		قوم	people	qawmin
+5	13:8:15	w	هَادٍ࣌		هاد	(is) a guide	hādin
+5	13:8:16	e	۝٨				
+5	13:9:1	w	ࡴ۬للَّهُ		الله	Allah	al-lahu
+5	13:9:2	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+5	13:9:3	w	مَا		ما	what	mā
+5	13:9:4	w	تَحْمِلُ		تحمل	carries	taḥmilu
+5	13:9:5	w	كُلُّ		كل	every	kullu
+5	13:9:6	w	أُنثٜىٰ		انثي	female	unthā
+5	13:9:7	w	وَمَا		وما	and what	wamā
+5	13:9:8	w	تَغِيضُ		تغيض	fall short	taghīḍu
+5	13:9:9	w	ࡲ۬لَارْحَامُ		الارحام	the womb	l-arḥāmu
+6	13:9:10	w	وَمَا		وما	and what	wamā
+6	13:9:11	w	تَزْدَادُ࣌		تزداد	they exceed	tazdādu
+6	13:9:12	w	وَكُلُّ		وكل	And every	wakullu
+6	13:9:13	w	شَےْءٍ		شي	thing	shayin
+6	13:9:14	w	عِندَهُۥ		عنده	with Him	ʿindahu
+6	13:9:15	w	بِمِقْدٜارٍ࣌		بمقدار	(is) in due proportion	bimiq'dārin
+6	13:9:16	e	۝٩				
+6	13:10:1	w	عَٰلِمُ		علم	Knower	ʿālimu
+6	13:10:2	w	ࡲ۬لْغَيْبِ		الغيب	(of) the unseen	l-ghaybi
+7	13:10:3	w	وَالشَّهَٰدَةِ࣌		والشهدة	and the witnessed	wal-shahādati
+7	13:10:4	w	ࡴ۬لْكَبِيرُ		الكبير	the Most Great	l-kabīru
+7	13:10:5	w	ࡲ۬لْمُتَعَالِ࣌		المتعال	the Most High	l-mutaʿāli
+7	13:10:6	e	۝١٠				
+7	13:11:1	w	سَوَآءࣱ		سوا	(It is) same (to Him)	sawāon
+7	13:11:2	w	مِّنكُم		منكم	[of you]	minkum
+7	13:11:3	w	مَّنَ		من	(one) who	man
+7	13:11:4	w	ࡰسَرَّ		اسر	conceals	asarra
+8	13:11:5	w	ࡰ۬لْقَوْلَ		القول	the speech	l-qawla
+8	13:11:6	w	وَمَن		ومن	or (one) who	waman
+8	13:11:7	w	جَهَرَ		جهر	publicizes	jahara
+8	13:11:8	w	بِهِۦ		بهي	it	bihi
+8	13:11:9	w	وَمَنْ		ومن	and (one) who	waman
+8	13:11:10	w	هُوَ		هو	[he]	huwa
+8	13:11:11	w	مُسْتَخْفِۢ		مستخف	(is) hidden	mus'takhfin
+8	13:11:12	w	بِاليْلِ		باليل	by night	bi-al-layli
+8	13:11:13	w	وَسَارِبُۢ		وسارب	or goes freely	wasāribun
+9	13:11:14	w	بِالنَّهٜارِ࣌		بالنهار	by day	bil-nahāri
+9	13:11:15	e	۝١١				
+9	13:12:1	w	لَهُۥ		له	For him	lahu
+9	13:12:2	w	مُعَقِّبَٰتࣱ		معقبت	(are) successive (Angels)	muʿaqqibātun
+9	13:12:3	w	مِّنۢ		من	from	min
+9	13:12:4	w	بَيْنِ		بين	(before)	bayni
+9	13:12:5	w	يَدَيْهِ		يديه	(him)	yadayhi
+9	13:12:6	w	وَمِنْ		ومن	and from	wamin
+9	13:12:7	w	خَلْفِهِۦ		خلفهي	and behind him	khalfihi
+10	13:12:8	w	يَحْفَظُونَهُۥ		يحفظونه	who guard him	yaḥfaẓūnahu
+10	13:12:9	w	مِنَ		من	by	min
+10	13:12:10	w	ࡰمْرِ		امر	(the) command	amri
+10	13:12:11	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+10	13:12:12	w	إِنَّ		ان	Indeed	inna
+10	13:12:13	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	13:12:14	w	لَا		لا	(does) not	lā
+10	13:12:15	w	يُغَيِّرُ		يغير	change	yughayyiru
+10	13:12:16	w	مَا		ما	(the condition)	mā
+10	13:12:17	w	بِقَوْمٍ		بقوم	of a people	biqawmin
+10	13:12:18	w	حَتَّىٰ		حتي	until	ḥattā
+10	13:12:19	w	يُغَيِّرُواْ		يغيروا	they change	yughayyirū
+11	13:12:20	w	مَا		ما	what	mā
+11	13:12:21	w	بِأَنفُسِهِمْ࣌		بانفسهم	(is) in themselves	bi-anfusihim
+11	13:12:22	w	وَإِذَآ		واذا	And when	wa-idhā
+11	13:12:23	w	أَرَادَ		اراد	wills	arāda
+11	13:12:24	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+11	13:12:25	w	بِقَوْمࣲ		بقوم	for a people	biqawmin
+11	13:12:26	w	سُوٓءاࣰ		سوا	misfortune	sūan
+11	13:12:27	w	فَلَا		فلا	then (there is) no	falā
+11	13:12:28	w	مَرَدَّ		مرد	turning away	maradda
+11	13:12:29	w	لَهُۥ࣌		له	of it	lahu
+11	13:12:30	w	وَمَا		وما	and not	wamā
+12	13:12:31	w	لَهُم		لهم	for them	lahum
+12	13:12:32	w	مِّن		من	from	min
+12	13:12:33	w	دُونِهِۦ		دونهي	besides Him	dūnihi
+12	13:12:34	w	مِنْ		من	any	min
+12	13:12:35	w	وَّالٍ࣌		وال	protector	wālin
+12	13:12:36	e	۝١٢				
+12	13:13:1	w	هُوَ		هو	He	huwa
+12	13:13:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+12	13:13:3	w	يُرِيكُمُ		يريكم	shows you	yurīkumu
+12	13:13:4	w	ࡲ۬لْبَرْقَ		البرق	the lightning	l-barqa
+12	13:13:5	w	خَوْفاࣰ		خوفا	a fear	khawfan
+13	13:13:6	w	وَطَمَعاࣰ		وطمعا	and a hope	waṭamaʿan
+13	13:13:7	w	وَيُنشِۓُ		وينشي	and brings up	wayunshi-u
+13	13:13:8	w	ࡲ۬لسَّحَابَ		السحاب	the clouds	l-saḥāba
+13	13:13:9	w	ࡰ۬لثِّقَالَ		الثقال	the heavy	l-thiqāla
+13	13:13:10	e	۝١٣				
+13	13:14:1	w	وَيُسَبِّحُ		ويسبح	And glorifies	wayusabbiḥu
+13	13:14:2	w	ࡲ۬لرَّعْدُ		الرعد	the thunder	l-raʿdu
+13	13:14:3	w	بِحَمْدِهِۦ		بحمدهي	with his praise	biḥamdihi
+14	13:14:4	w	وَالْمَلَٰٓئِكَةُ		والمليكة	and the Angels	wal-malāikatu
+14	13:14:5	w	مِنْ		من	for	min
+14	13:14:6	w	خِيفَتِهِۦ࣌		خيفتهي	fear of Him	khīfatihi
+14	13:14:7	w	وَيُرْسِلُ		ويرسل	And He sends	wayur'silu
+14	13:14:8	w	ࡲ۬لصَّوَٰعِقَ		الصوعق	the thunderbolts	l-ṣawāʿiqa
+14	13:14:9	w	فَيُصِيبُ		فيصيب	and strikes	fayuṣību
+14	13:14:10	w	بِهَا		بها	with it	bihā
+15	13:14:11	w	مَنْ		من	whom	man
+15	13:14:12	w	يَّشَآءُ		يشا	He wills	yashāu
+15	13:14:13	w	وَهُمْ		وهم	yet they	wahum
+15	13:14:14	w	يُجَٰدِلُونَ		يجدلون	dispute	yujādilūna
+15	13:14:15	w	فِے		في	about	fī
+15	13:14:16	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+15	13:14:17	w	وَهُوَ		وهو	And He	wahuwa
+15	13:14:18	w	شَدِيدُ		شديد	(is) Mighty	shadīdu
+15	13:14:19	w	ࡲ۬لْمِحَالِ࣌		المحال	(in) Strength	l-miḥāli
+15	13:14:20	e	۝١٤				

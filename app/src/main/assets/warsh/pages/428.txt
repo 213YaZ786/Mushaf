@@ -1,0 +1,129 @@
+1	34:0:0	t					
+2	34:0:0	b					
+3	34:1:1	w	ࡴ۬لْحَمْدُ		الحمد	All praises	al-ḥamdu
+3	34:1:2	w	لِلهِ		لله	(be) to Allah	lillahi
+3	34:1:3	w	ࡴ۬لذِے		الذي	the One to Whom belongs	alladhī
+3	34:1:4	w	لَهُۥ		له	the One to Whom belongs	lahu
+3	34:1:5	w	مَا		ما	whatever	mā
+3	34:1:6	w	فِے		في	(is) in	fī
+3	34:1:7	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+3	34:1:8	w	وَمَا		وما	and whatever	wamā
+3	34:1:9	w	فِے		في	(is) in	fī
+3	34:1:10	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+3	34:1:11	w	وَلَهُ		وله	and for Him	walahu
+4	34:1:12	w	ࡲ۬لْحَمْدُ		الحمد	(are) all praises	l-ḥamdu
+4	34:1:13	w	فِے		في	in	fī
+4	34:1:14	w	ࡴ۬لَاخِرَةِ࣌		الاخرة	the Hereafter	l-ākhirati
+4	34:1:15	w	وَهُوَ		وهو	And He	wahuwa
+4	34:1:16	w	ࡰ۬لْحَكِيمُ		الحكيم	(is) the All-Wise	l-ḥakīmu
+4	34:1:17	w	ࡲ۬لْخَبِيرُ࣌		الخبير	the All-Aware	l-khabīru
+4	34:1:18	e	۝١				
+4	34:2:1	w	يَعْلَمُ		يعلم	He knows	yaʿlamu
+4	34:2:2	w	مَا		ما	what	mā
+4	34:2:3	w	يَلِجُ		يلج	penetrates	yaliju
+5	34:2:4	w	فِے		في	in	fī
+5	34:2:5	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+5	34:2:6	w	وَمَا		وما	and what	wamā
+5	34:2:7	w	يَخْرُجُ		يخرج	comes out	yakhruju
+5	34:2:8	w	مِنْهَا		منها	from it	min'hā
+5	34:2:9	w	وَمَا		وما	and what	wamā
+5	34:2:10	w	يَنزِلُ		ينزل	descends	yanzilu
+5	34:2:11	w	مِنَ		من	from	mina
+5	34:2:12	w	ࡰ۬لسَّمَآءِ		السما	the heaven	l-samāi
+5	34:2:13	w	وَمَا		وما	and what	wamā
+5	34:2:14	w	يَعْرُجُ		يعرج	ascends	yaʿruju
+6	34:2:15	w	فِيهَا࣌		فيها	therein	fīhā
+6	34:2:16	w	وَهُوَ		وهو	And He	wahuwa
+6	34:2:17	w	ࡰ۬لرَّحِيمُ		الرحيم	(is) the Most Merciful	l-raḥīmu
+6	34:2:18	w	ࡲ۬لْغَفُورُ࣌		الغفور	the Oft-Forgiving	l-ghafūru
+6	34:2:19	e	۝٢				
+6	34:3:1	w	وَقَالَ		وقال	But say	waqāla
+6	34:3:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	34:3:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+6	34:3:4	w	لَا		لا	Not	lā
+6	34:3:5	w	تَاتِينَا		تاتينا	will come to us	tatīnā
+7	34:3:6	w	ࡰ۬لسَّاعَةُ࣌		الساعة	the Hour	l-sāʿatu
+7	34:3:7	w	قُلْ		قل	Say	qul
+7	34:3:8	w	بَلٜىٰ		بلي	Nay	balā
+7	34:3:9	w	وَرَبِّے		وربي	by my Lord	warabbī
+7	34:3:10	w	لَتَاتِيَنَّكُمْ࣌		لتاتينكم	surely it will come to you	latatiyannakum
+7	34:3:11	w	عَٰلِمُ		علم	(He is the) Knower	ʿālimi
+7	34:3:12	w	ࡲ۬لْغَيْبِ		الغيب	(of) the unseen	l-ghaybi
+7	34:3:13	w	لَا		لا	Not	lā
+7	34:3:14	w	يَعْزُبُ		يعزب	escapes	yaʿzubu
+8	34:3:15	w	عَنْهُ		عنه	from Him	ʿanhu
+8	34:3:16	w	مِثْقَالُ		مثقال	(the) weight	mith'qālu
+8	34:3:17	w	ذَرَّةࣲ		ذرة	(of) an atom	dharratin
+8	34:3:18	w	فِے		في	in	fī
+8	34:3:19	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+8	34:3:20	w	وَلَا		ولا	and not	walā
+8	34:3:21	w	فِے		في	in	fī
+8	34:3:22	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+8	34:3:23	w	وَلَآ		ولا	and not	walā
+8	34:3:24	w	أَصْغَرُ		اصغر	smaller	aṣgharu
+9	34:3:25	w	مِن		من	than	min
+9	34:3:26	w	ذَٰلِكَ		ذلك	that	dhālika
+9	34:3:27	w	وَلَآ		ولا	and not	walā
+9	34:3:28	w	أَكْبَرُ		اكبر	greater	akbaru
+9	34:3:29	w	إِلَّا		الا	but	illā
+9	34:3:30	w	فِے		في	(is) in	fī
+9	34:3:31	w	كِتَٰبࣲ		كتب	a Record	kitābin
+9	34:3:32	w	مُّبِينࣲ		مبين	Clear	mubīnin
+9	34:3:33	e	۝٣				
+9	34:4:1	w	لِّيَجْزِيَ		ليجزي	That He may reward	liyajziya
+9	34:4:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	34:4:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+10	34:4:4	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+10	34:4:5	w	ࡲ۬لصَّٰلِحَٰتِ࣌		الصلحت	righteous deeds	l-ṣāliḥāti
+10	34:4:6	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+10	34:4:7	w	لَهُم		لهم	for them	lahum
+10	34:4:8	w	مَّغْفِرَةࣱ		مغفرة	(will be) forgiveness	maghfiratun
+10	34:4:9	w	وَرِزْقࣱ		ورزق	and a provision	wariz'qun
+11	34:4:10	w	كَرِيمࣱ࣌		كريم	noble	karīmun
+11	34:4:11	e	۝٤				
+11	34:5:1	w	وَالذِينَ		والذين	But those who	wa-alladhīna
+11	34:5:2	w	سَعَوْ		سعو	strive	saʿaw
+11	34:5:3	w	فِےٓ		في	against	fī
+11	34:5:4	w	ءَايَٰتِنَا		ايتنا	Our Verses	āyātinā
+11	34:5:5	w	مُعَٰجِزِينَ		معجزين	(to) cause failure	muʿājizīna
+11	34:5:6	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+11	34:5:7	w	لَهُمْ		لهم	for them	lahum
+12	34:5:8	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+12	34:5:9	w	مِّن		من	of	min
+12	34:5:10	w	رِّجْزٍ		رجز	foul nature	rij'zin
+12	34:5:11	w	ࡰلِيمࣲ࣌		اليم	painful	alīmun
+12	34:5:12	e	۝٥				
+12	34:6:1	w	وَيَرَى		ويري	And see	wayarā
+12	34:6:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	34:6:3	w	أُوتُواْ		اوتوا	have been given	ūtū
+12	34:6:4	w	ࡲ۬لْعِلْمَ		العلم	the knowledge	l-ʿil'ma
+12	34:6:5	w	ࡰ۬لذِےٓ		الذي	(that) what	alladhī
+13	34:6:6	w	أُنزِلَ		انزل	is revealed	unzila
+13	34:6:7	w	إِلَيْكَ		اليك	to you	ilayka
+13	34:6:8	w	مِن		من	from	min
+13	34:6:9	w	رَّبِّكَ		ربك	your Lord	rabbika
+13	34:6:10	w	هُوَ		هو	[it]	huwa
+13	34:6:11	w	ࡰ۬لْحَقَّ		الحق	(is) the Truth	l-ḥaqa
+13	34:6:12	w	وَيَهْدِےٓ		ويهدي	and it guides	wayahdī
+13	34:6:13	w	إِلَىٰ		الي	to	ilā
+13	34:6:14	w	صِرَٰطِ		صرط	(the) Path	ṣirāṭi
+13	34:6:15	w	ࡴ۬لْعَزِيزِ		العزيز	(of) the All-Mighty	l-ʿazīzi
+14	34:6:16	w	ࡴ۬لْحَمِيدِ࣌		الحميد	the Praiseworthy	l-ḥamīdi
+14	34:6:17	e	۝٦				
+14	34:7:1	w	وَقَالَ		وقال	But say	waqāla
+14	34:7:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+14	34:7:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+14	34:7:4	w	هَلْ		هل	Shall	hal
+14	34:7:5	w	نَدُلُّكُمْ		ندلكم	we direct you	nadullukum
+14	34:7:6	w	عَلَىٰ		علي	to	ʿalā
+14	34:7:7	w	رَجُلࣲ		رجل	a man	rajulin
+15	34:7:8	w	يُنَبِّئُكُمُۥٓ		ينبيكم	who informs you	yunabbi-ukum
+15	34:7:9	w	إِذَا		اذا	when	idhā
+15	34:7:10	w	مُزِّقْتُمْ		مزقتم	you have disintegrated	muzziq'tum
+15	34:7:11	w	كُلَّ		كل	(in) total	kulla
+15	34:7:12	w	مُمَزَّقٍ		ممزق	disintegration	mumazzaqin
+15	34:7:13	w	ࡴنَّكُمْ		انكم	indeed you	innakum
+15	34:7:14	w	لَفِے		لفي	surely (will be) in	lafī
+15	34:7:15	w	خَلْقࣲ		خلق	a creation	khalqin
+15	34:7:16	w	جَدِيدٍ࣌		جديد	new	jadīdin
+15	34:7:17	e	۝٧				

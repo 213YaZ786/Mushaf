@@ -18,17 +18,23 @@ import org.mushaf.app.core.common.writeTextAtomically
 import org.mushaf.app.core.net.Net
 import org.mushaf.app.data.sources.Sources
 
-/** A reciter whose recordings carry the timing of each ayah and word. */
-data class Reciter(val id: Int, val name: String, val style: String) {
+/**
+ * A reciter whose recordings carry the timing of each ayah (and, from
+ * Quran.com, of each word). Warsh reciters are mp3quran's, their ids past
+ * [Recitations.WARSH_BASE].
+ */
+data class Reciter(val id: Int, val name: String, val style: String, val warsh: Boolean = false) {
     val label: String get() = if (style.isBlank() || style == "Murattal") name else "$name · $style"
 }
 
 /**
- * The recitations of Quran.com (quranicaudio.com): one file per surah,
- * with the moment each ayah and each word is heard, so the page follows
- * the voice. The timing of a surah is fetched once and kept.
+ * The recitations: Hafs from Quran.com (quranicaudio.com), one file per
+ * surah with the moment each ayah and each word is heard; Warsh from
+ * mp3quran.net, one file per surah with the moment each ayah is heard. The
+ * page follows the voice either way. The timing of a surah is fetched once
+ * and kept.
  */
-class Recitations(private val context: Context, private val sources: Sources) {
+class Recitations(private val context: Context, private val sources: Sources, private val settings: org.mushaf.app.data.settings.SettingsStore) {
 
     private val json = Json { ignoreUnknownKeys = true }
     private val dir = File(context.filesDir, "recitations")
@@ -36,6 +42,10 @@ class Recitations(private val context: Context, private val sources: Sources) {
     suspend fun surah(reciter: Int, surah: Int): SurahAudio = withContext(Dispatchers.IO) {
         val file = File(dir, "$reciter/$surah.json")
         runCatching { json.decodeFromString<SurahAudio>(file.readText()) }.getOrNull()?.let { return@withContext it }
+        if (reciter > WARSH_BASE) return@withContext warsh(reciter, surah).also { a ->
+            file.parentFile?.mkdirs()
+            file.writeTextAtomically(json.encodeToString(a))
+        }
         val root = json.parseToJsonElement(first { "$it/audio/reciters/$reciter/audio_files?chapter=$surah&segments=true" }).jsonObject
         val f = root["audio_files"]!!.jsonArray.first().jsonObject
         val ayat = f["verse_timings"]!!.jsonArray.map { it.jsonObject }.map { v ->
@@ -51,6 +61,24 @@ class Recitations(private val context: Context, private val sources: Sources) {
         file.parentFile?.mkdirs()
         file.writeTextAtomically(json.encodeToString(audio))
         audio
+    }
+
+    /** A Warsh surah from mp3quran: its file in the reciter's folder, the timing of each ayah. */
+    private fun warsh(reciter: Int, surah: Int): SurahAudio {
+        val read = reciter - WARSH_BASE
+        val base = sources.list.mp3quran.firstOrNull() ?: "https://www.mp3quran.net/api/v3"
+        // The reciter's folder from mp3quran's own list, so a moved server is followed.
+        val folder = runCatching {
+            json.parseToJsonElement(Net.text("$base/ayat_timing/reads", maxBytes = 1L shl 20)).jsonArray
+                .map { it.jsonObject }.first { it["id"]!!.jsonPrimitive.content.toInt() == read }["folder_url"]!!.jsonPrimitive.content
+        }.getOrElse { WARSH_FOLDERS[read] ?: throw it }
+        require(folder.startsWith("https://"))
+        val timings = json.parseToJsonElement(Net.text("$base/ayat_timing?surah=$surah&read=$read", maxBytes = 2L shl 20)).jsonArray
+        val ayat = timings.map { it.jsonObject }.mapNotNull { t ->
+            val ayah = t["ayah"]!!.jsonPrimitive.content.toInt()
+            if (ayah < 1) null else AyahTime(surah, ayah, t["start_time"]!!.jsonPrimitive.long, t["end_time"]!!.jsonPrimitive.long)
+        }
+        return SurahAudio(reciter, surah, folder.trimEnd('/') + "/%03d.mp3".format(surah), ayat)
     }
 
     private fun first(path: (String) -> String): String {
@@ -110,7 +138,32 @@ class Recitations(private val context: Context, private val sources: Sources) {
             Reciter(161, "Khalifah al-Tunaiji", "Murattal")
         )
 
-        fun reciter(id: Int): Reciter = RECITERS.firstOrNull { it.id == id } ?: RECITERS.first()
+        /** mp3quran's ids for Warsh, past this number so they never meet Quran.com's. */
+        const val WARSH_BASE = 10000
+
+        /** mp3quran's Warsh reciters whose recordings carry each ayah's timing. */
+        val WARSH = listOf(
+            Reciter(WARSH_BASE + 14, "Yassin al-Jazairi", "Warsh", warsh = true),
+            Reciter(WARSH_BASE + 120, "Mahmoud Khalil al-Husary", "Warsh", warsh = true),
+            Reciter(WARSH_BASE + 80, "Omar al-Qazabri", "Warsh", warsh = true),
+            Reciter(WARSH_BASE + 16, "Al-Ayoun al-Koshi", "Warsh", warsh = true),
+            Reciter(WARSH_BASE + 134, "Mohammad Saayed", "Warsh", warsh = true)
+        )
+
+        /** Their folders as of 2026-10, if mp3quran's list cannot be read. */
+        private val WARSH_FOLDERS = mapOf(
+            14 to "https://server11.mp3quran.net/qari/",
+            120 to "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/",
+            80 to "https://server9.mp3quran.net/omar_warsh/",
+            16 to "https://server11.mp3quran.net/koshi/",
+            134 to "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi/"
+        )
+
+        fun reciter(id: Int): Reciter = (RECITERS + WARSH).firstOrNull { it.id == id } ?: RECITERS.first()
+
+        /** The reciters of [riwayah]. */
+        fun of(riwayah: org.mushaf.app.core.quran.Riwayah): List<Reciter> =
+            if (riwayah == org.mushaf.app.core.quran.Riwayah.WARSH) WARSH else RECITERS
     }
 }
 

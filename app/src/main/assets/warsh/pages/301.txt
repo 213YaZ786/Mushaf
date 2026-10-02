@@ -1,0 +1,162 @@
+1	18:61:1	w	فَلَمَّا		فلما	Then when	falammā
+1	18:61:2	w	جَاوَزَا		جاوزا	they had passed beyond	jāwazā
+1	18:61:3	w	قَالَ		قال	he said	qāla
+1	18:61:4	w	لِفَتٜيٰهُ		لفتيه	to his boy	lifatāhu
+1	18:61:5	w	ءَاتِنَا		اتنا	Bring us	ātinā
+1	18:61:6	w	غَدَآءَنَا		غدانا	our morning meal	ghadāanā
+1	18:61:7	w	لَقَدْ		لقد	Certainly	laqad
+1	18:61:8	w	لَقِينَا		لقينا	we have suffered	laqīnā
+1	18:61:9	w	مِن		من	in	min
+1	18:61:10	w	سَفَرِنَا		سفرنا	our journey	safarinā
+2	18:61:11	w	هَٰذَا		هذا	this	hādhā
+2	18:61:12	w	نَصَباࣰ࣌		نصبا	fatigue	naṣaban
+2	18:61:13	e	۝٦١				
+2	18:62:1	w	قَالَ		قال	He said	qāla
+2	18:62:2	w	أَرَٰٓيْتَ		اريت	Did you see	ara-ayta
+2	18:62:3	w	إِذَ		اذ	when	idh
+2	18:62:4	w	ࡰوَيْنَآ		اوينا	we retired	awaynā
+2	18:62:5	w	إِلَى		الي	to	ilā
+2	18:62:6	w	ࡰ۬لصَّخْرَةِ		الصخرة	the rock	l-ṣakhrati
+2	18:62:7	w	فَإِنِّے		فاني	Then indeed, I	fa-innī
+2	18:62:8	w	نَسِيتُ		نسيت	[I] forgot	nasītu
+3	18:62:9	w	ࡲ۬لْحُوتَ࣌		الحوت	the fish	l-ḥūta
+3	18:62:10	w	وَمَآ		وما	And not	wamā
+3	18:62:11	w	أَنسٜيٰنِيهِ		انسينيه	made me forget it	ansānīhu
+3	18:62:12	w	إِلَّا		الا	except	illā
+3	18:62:13	w	ࡰ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan	l-shayṭānu
+3	18:62:14	w	أَنَ		ان	that	an
+3	18:62:15	w	ࡰذْكُرَهُۥ࣌		اذكره	I mention it	adhkurahu
+3	18:62:16	w	وَاتَّخَذَ		واتخذ	And it took	wa-ittakhadha
+3	18:62:17	w	سَبِيلَهُۥ		سبيله	its way	sabīlahu
+4	18:62:18	w	فِے		في	into	fī
+4	18:62:19	w	ࡴ۬لْبَحْرِ࣌		البحر	the sea	l-baḥri
+4	18:62:20	w	عَجَباࣰ࣌		عجبا	amazingly	ʿajaban
+4	18:62:21	e	۝٦٢				
+4	18:63:1	w	قَالَ		قال	He said	qāla
+4	18:63:2	w	ذَٰلِكَ		ذلك	That	dhālika
+4	18:63:3	w	مَا		ما	(is) what	mā
+4	18:63:4	w	كُنَّا		كنا	we were	kunnā
+4	18:63:5	w	نَبْغِۦ࣌		نبغي	seeking	nabghi
+4	18:63:6	w	فَارْتَدَّا		فارتدا	So they returned	fa-ir'taddā
+4	18:63:7	w	عَلَىٰٓ		علي	on	ʿalā
+4	18:63:8	w	ءَاثٜارِهِمَا		اثارهما	their footprints	āthārihimā
+5	18:63:9	w	قَصَصاࣰ		قصصا	retracing	qaṣaṣan
+5	18:63:10	e	۝٦٣				
+5	18:64:1	w	فَوَجَدَا		فوجدا	Then they found	fawajadā
+5	18:64:2	w	عَبْداࣰ		عبدا	a servant	ʿabdan
+5	18:64:3	w	مِّنْ		من	from	min
+5	18:64:4	w	عِبَادِنَآ		عبادنا	Our servants	ʿibādinā
+5	18:64:5	w	ءَاتَيْنَٰهُ		اتينه	whom We had given	ātaynāhu
+5	18:64:6	w	رَحْمَةࣰ		رحمة	mercy	raḥmatan
+5	18:64:7	w	مِّنْ		من	from	min
+5	18:64:8	w	عِندِنَا		عندنا	Us	ʿindinā
+6	18:64:9	w	وَعَلَّمْنَٰهُ		وعلمنه	and We had taught him	waʿallamnāhu
+6	18:64:10	w	مِن		من	from	min
+6	18:64:11	w	لَّدُنَّا		لدنا	Us	ladunnā
+6	18:64:12	w	عِلْماࣰ࣌		علما	a knowledge	ʿil'man
+6	18:64:13	e	۝٦٤				
+6	18:65:1	w	قَالَ		قال	Said	qāla
+6	18:65:2	w	لَهُۥ		له	to him	lahu
+6	18:65:3	w	مُوسٜىٰ		موسي	Musa	mūsā
+6	18:65:4	w	هَلَ		هل	May	hal
+6	18:65:5	w	ࡰتَّبِعُكَ		اتبعك	I follow you	attabiʿuka
+6	18:65:6	w	عَلَىٰٓ		علي	on	ʿalā
+6	18:65:7	w	أَن		ان	that	an
+7	18:65:8	w	تُعَلِّمَنِۦ		تعلمني	you teach me	tuʿallimani
+7	18:65:9	w	مِمَّا		مما	of what	mimmā
+7	18:65:10	w	عُلِّمْتَ		علمت	you have been taught	ʿullim'ta
+7	18:65:11	w	رُشْداࣰ࣌		رشدا	(of) right guidance	rush'dan
+7	18:65:12	e	۝٦٥				
+7	18:66:1	w	قَالَ		قال	He said	qāla
+7	18:66:2	w	إِنَّكَ		انك	Indeed, you	innaka
+7	18:66:3	w	لَن		لن	never	lan
+7	18:66:4	w	تَسْتَطِيعَ		تستطيع	will be able	tastaṭīʿa
+7	18:66:5	w	مَعِے		معي	with me	maʿiya
+8	18:66:6	w	صَبْراࣰ࣌		صبرا	(to have) patience	ṣabran
+8	18:66:7	e	۝٦٦				
+8	18:67:1	w	وَكَيْفَ		وكيف	And how can	wakayfa
+8	18:67:2	w	تَصْبِرُ		تصبر	you have patience	taṣbiru
+8	18:67:3	w	عَلَىٰ		علي	for	ʿalā
+8	18:67:4	w	مَا		ما	what	mā
+8	18:67:5	w	لَمْ		لم	not	lam
+8	18:67:6	w	تُحِطْ		تحط	you encompass	tuḥiṭ
+8	18:67:7	w	بِهِۦ		بهي	of it	bihi
+8	18:67:8	w	خُبْراࣰ࣌		خبرا	any knowledge	khub'ran
+8	18:67:9	e	۝٦٧				
+8	18:68:1	w	قَالَ		قال	He said	qāla
+9	18:68:2	w	سَتَجِدُنِيَ		ستجدني	You will find me	satajidunī
+9	18:68:3	w	إِن		ان	if	in
+9	18:68:4	w	شَآءَ		شا	Allah wills	shāa
+9	18:68:5	w	ࡰ۬للَّهُ		الله	Allah wills	l-lahu
+9	18:68:6	w	صَابِراࣰ࣌		صابرا	patient	ṣābiran
+9	18:68:7	w	وَلَآ		ولا	and not	walā
+9	18:68:8	w	أَعْصِے		اعصي	I will disobey	aʿṣī
+9	18:68:9	w	لَكَ		لك	your	laka
+9	18:68:10	w	أَمْراࣰ࣌		امرا	order	amran
+9	18:68:11	e	۝٦٨				
+9	18:69:1	w	قَالَ		قال	He said	qāla
+9	18:69:2	w	فَإِنِ		فان	Then if	fa-ini
+10	18:69:3	w	ࡴٜتَّبَعْتَنِے		اتبعتني	you follow me	ittabaʿtanī
+10	18:69:4	w	فَلَا		فلا	(do) not	falā
+10	18:69:5	w	تَسْـَٔلَنِّے		تسلني	ask me	tasalnī
+10	18:69:6	w	عَن		عن	about	ʿan
+10	18:69:7	w	شَےْءٍ		شي	anything	shayin
+10	18:69:8	w	حَتَّىٰٓ		حتي	until	ḥattā
+10	18:69:9	w	أُحْدِثَ		احدث	I present	uḥ'ditha
+10	18:69:10	w	لَكَ		لك	to you	laka
+10	18:69:11	w	مِنْهُ		منه	of it	min'hu
+10	18:69:12	w	ذِكْراࣰ࣌		ذكرا	a mention	dhik'ran
+10	18:69:13	e	۝٦٩				
+11	18:70:1	w	فَانطَلَقَا		فانطلقا	So they both set out	fa-inṭalaqā
+11	18:70:2	w	حَتَّىٰٓ		حتي	until	ḥattā
+11	18:70:3	w	إِذَا		اذا	when	idhā
+11	18:70:4	w	رَكِبَا		ركبا	they had embarked	rakibā
+11	18:70:5	w	فِے		في	on	fī
+11	18:70:6	w	ࡴ۬لسَّفِينَةِ		السفينة	the ship	l-safīnati
+11	18:70:7	w	خَرَقَهَا࣌		خرقها	he made a hole in it	kharaqahā
+11	18:70:8	w	قَالَ		قال	He said	qāla
+11	18:70:9	w	أَخَرَقْتَهَا		اخرقتها	Have you made a hole in it	akharaqtahā
+12	18:70:10	w	لِتُغْرِقَ		لتغرق	to drown	litugh'riqa
+12	18:70:11	w	أَهْلَهَا		اهلها	its people	ahlahā
+12	18:70:12	w	لَقَدْ		لقد	Certainly	laqad
+12	18:70:13	w	جِئْتَ		جيت	you have done	ji'ta
+12	18:70:14	w	شَيْـٔاً		شيا	a thing	shayan
+12	18:70:15	w	ࡴمْراࣰ࣌		امرا	grave	im'ran
+12	18:70:16	e	۝٧٠				
+12	18:71:1	w	قَالَ		قال	He said	qāla
+12	18:71:2	w	أَلَمَ		الم	Did not	alam
+12	18:71:3	w	ࡰقُلِ		اقل	I say	aqul
+12	18:71:4	w	ࡴنَّكَ		انك	indeed, you	innaka
+13	18:71:5	w	لَن		لن	never	lan
+13	18:71:6	w	تَسْتَطِيعَ		تستطيع	will be able	tastaṭīʿa
+13	18:71:7	w	مَعِے		معي	with me	maʿiya
+13	18:71:8	w	صَبْراࣰ࣌		صبرا	(to have) patience	ṣabran
+13	18:71:9	e	۝٧١				
+13	18:72:1	w	قَالَ		قال	He said	qāla
+13	18:72:2	w	لَا		لا	(Do) not	lā
+13	18:72:3	w	تُوَ۬اخِذْنِے		تواخذني	blame me	tuākhidh'nī
+13	18:72:4	w	بِمَا		بما	for what	bimā
+13	18:72:5	w	نَسِيتُ		نسيت	I forgot	nasītu
+13	18:72:6	w	وَلَا		ولا	and (do) not	walā
+14	18:72:7	w	تُرْهِقْنِے		ترهقني	be hard (upon) me	tur'hiq'nī
+14	18:72:8	w	مِنَ		من	in	min
+14	18:72:9	w	ࡰمْرِے		امري	my affair	amrī
+14	18:72:10	w	عُسْراࣰ࣌		عسرا	(raising) difficulty	ʿus'ran
+14	18:72:11	e	۝٧٢				
+14	18:73:1	w	فَانطَلَقَا		فانطلقا	Then they both set out	fa-inṭalaqā
+14	18:73:2	w	حَتَّىٰٓ		حتي	until	ḥattā
+14	18:73:3	w	إِذَا		اذا	when	idhā
+14	18:73:4	w	لَقِيَا		لقيا	they met	laqiyā
+14	18:73:5	w	غُلَٰماࣰ		غلما	a boy	ghulāman
+14	18:73:6	w	فَقَتَلَهُۥ		فقتله	then he killed him	faqatalahu
+15	18:73:7	w	قَالَ		قال	He said	qāla
+15	18:73:8	w	أَقَتَلْتَ		اقتلت	Have you killed	aqatalta
+15	18:73:9	w	نَفْساࣰ		نفسا	a soul	nafsan
+15	18:73:10	w	زَٰكِيَةَۢ		زكية	pure	zakiyyatan
+15	18:73:11	w	بِغَيْرِ		بغير	for other than	bighayri
+15	18:73:12	w	نَفْسࣲ		نفس	a soul	nafsin
+15	18:73:13	w	لَّقَدْ		لقد	Certainly	laqad
+15	18:73:14	w	جِئْتَ		جيت	you have done	ji'ta
+15	18:73:15	w	شَيْـٔاࣰ		شيا	a thing	shayan
+15	18:73:16	w	نُّكُراࣰ࣌		نكرا	evil	nuk'ran
+15	18:73:17	e	۝٧٣				

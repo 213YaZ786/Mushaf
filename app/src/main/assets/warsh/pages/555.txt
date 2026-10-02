@@ -1,0 +1,125 @@
+1	63:5:1	w	وَإِذَا		واذا	And when	wa-idhā
+1	63:5:2	w	قِيلَ		قيل	it is said	qīla
+1	63:5:3	w	لَهُمْ		لهم	to them	lahum
+1	63:5:4	w	تَعَالَوْاْ		تعالوا	Come	taʿālaw
+1	63:5:5	w	يَسْتَغْفِرْ		يستغفر	will ask forgiveness	yastaghfir
+1	63:5:6	w	لَكُمْ		لكم	for you	lakum
+1	63:5:7	w	رَسُولُ		رسول	(the) Messenger	rasūlu
+1	63:5:8	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+1	63:5:9	w	لَوَوْاْ		لووا	They turn aside	lawwaw
+2	63:5:10	w	رُءُوسَهُمْ		روسهم	their heads	ruūsahum
+2	63:5:11	w	وَرَأَيْتَهُمْ		ورايتهم	and you see them	wara-aytahum
+2	63:5:12	w	يَصُدُّونَ		يصدون	turning away	yaṣuddūna
+2	63:5:13	w	وَهُم		وهم	while they	wahum
+2	63:5:14	w	مُّسْتَكْبِرُونَ࣌		مستكبرون	(are) arrogant	mus'takbirūna
+2	63:5:15	e	۝٥				
+3	63:6:1	w	سَوَآءٌ		سوا	(It) is same	sawāon
+3	63:6:2	w	عَلَيْهِمُۥٓ		عليهم	for them	ʿalayhim
+3	63:6:3	w	أَسْتَغْفَرْتَ		استغفرت	whether you ask forgiveness	astaghfarta
+3	63:6:4	w	لَهُمُۥٓ		لهم	for them	lahum
+3	63:6:5	w	أَمْ		ام	or	am
+3	63:6:6	w	لَمْ		لم	(do) not	lam
+3	63:6:7	w	تَسْتَغْفِرْ		تستغفر	ask forgiveness	tastaghfir
+3	63:6:8	w	لَهُمْ࣌		لهم	for them	lahum
+3	63:6:9	w	لَنْ		لن	Never	lan
+4	63:6:10	w	يَّغْفِرَ		يغفر	will forgive	yaghfira
+4	63:6:11	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+4	63:6:12	w	لَهُمُۥٓ࣌		لهم	[to] them	lahum
+4	63:6:13	w	إِنَّ		ان	Indeed	inna
+4	63:6:14	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	63:6:15	w	لَا		لا	(does) not	lā
+4	63:6:16	w	يَهْدِے		يهدي	guide	yahdī
+4	63:6:17	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+4	63:6:18	w	ࡰ۬لْفَٰسِقِينَ࣌		الفسقين	the defiantly disobedient	l-fāsiqīna
+4	63:6:19	e	۝٦				
+5	63:7:1	w	هُمُ		هم	They	humu
+5	63:7:2	w	ࡲ۬لذِينَ		الذين	(are) those who	alladhīna
+5	63:7:3	w	يَقُولُونَ		يقولون	say	yaqūlūna
+5	63:7:4	w	لَا		لا	(Do) not	lā
+5	63:7:5	w	تُنفِقُواْ		تنفقوا	spend	tunfiqū
+5	63:7:6	w	عَلَىٰ		علي	on	ʿalā
+5	63:7:7	w	مَنْ		من	(those) who	man
+5	63:7:8	w	عِندَ		عند	(are) with	ʿinda
+5	63:7:9	w	رَسُولِ		رسول	(the) Messenger	rasūli
+5	63:7:10	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+6	63:7:11	w	حَتَّىٰ		حتي	until	ḥattā
+6	63:7:12	w	يَنفَضُّواْ࣌		ينفضوا	they disband	yanfaḍḍū
+6	63:7:13	w	وَلِلهِ		ولله	And for Allah	walillahi
+6	63:7:14	w	خَزَآئِنُ		خزاين	(are the) treasures	khazāinu
+6	63:7:15	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+6	63:7:16	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+6	63:7:17	w	وَلَٰكِنَّ		ولكن	but	walākinna
+7	63:7:18	w	ࡰ۬لْمُنَٰفِقِينَ		المنفقين	the hypocrites	l-munāfiqīna
+7	63:7:19	w	لَا		لا	(do) not	lā
+7	63:7:20	w	يَفْقَهُونَ࣌		يفقهون	understand	yafqahūna
+7	63:7:21	e	۝٧				
+7	63:8:1	w	يَقُولُونَ		يقولون	They say	yaqūlūna
+7	63:8:2	w	لَئِن		لين	If	la-in
+7	63:8:3	w	رَّجَعْنَآ		رجعنا	we return	rajaʿnā
+7	63:8:4	w	إِلَى		الي	to	ilā
+8	63:8:5	w	ࡰ۬لْمَدِينَةِ		المدينة	Al-Madinah	l-madīnati
+8	63:8:6	w	لَيُخْرِجَنَّ		ليخرجن	surely, will expel	layukh'rijanna
+8	63:8:7	w	ࡰ۬لَاعَزُّ		الاعز	the more honorable	l-aʿazu
+8	63:8:8	w	مِنْهَا		منها	from it	min'hā
+8	63:8:9	w	ࡰ۬لَاذَلَّ࣌		الاذل	the more humble	l-adhala
+8	63:8:10	w	وَلِلهِ		ولله	But for Allah	walillahi
+8	63:8:11	w	ࡴ۬لْعِزَّةُ		العزة	(is) the honor	l-ʿizatu
+9	63:8:12	w	وَلِرَسُولِهِۦ		ولرسولهي	and for His Messenger	walirasūlihi
+9	63:8:13	w	وَلِلْمُومِنِينَ࣌		وللمومنين	and for the believers	walil'mu'minīna
+9	63:8:14	w	وَلَٰكِنَّ		ولكن	but	walākinna
+9	63:8:15	w	ࡰ۬لْمُنَٰفِقِينَ		المنفقين	the hypocrites	l-munāfiqīna
+9	63:8:16	w	لَا		لا	(do) not	lā
+9	63:8:17	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+9	63:8:18	e	۝٨				
+10	63:9:1	w	۞ يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+10	63:9:2	w	ࡰ۬لذِينَ		الذين	you (who)	alladhīna
+10	63:9:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+10	63:9:4	w	لَا		لا	(Let) not	lā
+10	63:9:5	w	تُلْهِكُمُۥٓ		تلهكم	divert you	tul'hikum
+10	63:9:6	w	أَمْوَٰلُكُمْ		امولكم	your wealth	amwālukum
+10	63:9:7	w	وَلَآ		ولا	and not	walā
+10	63:9:8	w	أَوْلَٰدُكُمْ		اولدكم	your children	awlādukum
+11	63:9:9	w	عَن		عن	from	ʿan
+11	63:9:10	w	ذِكْرِ		ذكر	(the) remembrance	dhik'ri
+11	63:9:11	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+11	63:9:12	w	وَمَنْ		ومن	And whoever	waman
+11	63:9:13	w	يَّفْعَلْ		يفعل	does	yafʿal
+11	63:9:14	w	ذَٰلِكَ		ذلك	that	dhālika
+11	63:9:15	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+11	63:9:16	w	هُمُ		هم	[they]	humu
+12	63:9:17	w	ࡲ۬لْخَٰسِرُونَ࣌		الخسرون	(are) the losers	l-khāsirūna
+12	63:9:18	e	۝٩				
+12	63:10:1	w	وَأَنفِقُواْ		وانفقوا	And spend	wa-anfiqū
+12	63:10:2	w	مِن		من	from	min
+12	63:10:3	w	مَّا		ما	what	mā
+12	63:10:4	w	رَزَقْنَٰكُم		رزقنكم	We have provided you	razaqnākum
+12	63:10:5	w	مِّن		من	from	min
+12	63:10:6	w	قَبْلِ		قبل	before	qabli
+12	63:10:7	w	أَنْ		ان	[that]	an
+13	63:10:8	w	يَّاتِيَ		ياتي	comes	yatiya
+13	63:10:9	w	أَحَدَكُمُ		احدكم	(to) one of you	aḥadakumu
+13	63:10:10	w	ࡲ۬لْمَوْتُ		الموت	the death	l-mawtu
+13	63:10:11	w	فَيَقُولَ		فيقول	and he says	fayaqūla
+13	63:10:12	w	رَبِّ		رب	My Lord	rabbi
+13	63:10:13	w	لَوْلَآ		لولا	Why not	lawlā
+13	63:10:14	w	أَخَّرْتَنِےٓ		اخرتني	You delay me	akhartanī
+13	63:10:15	w	إِلَىٰٓ		الي	for	ilā
+13	63:10:16	w	أَجَلࣲ		اجل	a term	ajalin
+14	63:10:17	w	قَرِيبࣲ		قريب	near	qarībin
+14	63:10:18	w	فَأَصَّدَّقَ		فاصدق	so I would give charity	fa-aṣṣaddaqa
+14	63:10:19	w	وَأَكُن		واكن	and be	wa-akun
+14	63:10:20	w	مِّنَ		من	among	mina
+14	63:10:21	w	ࡰ۬لصَّٰلِحِينَ࣌		الصلحين	the righteous	l-ṣāliḥīna
+14	63:10:22	e	۝١٠				
+14	63:11:1	w	وَلَنْ		ولن	But never	walan
+14	63:11:2	w	يُّوَ۬خِّرَ		يوخر	will (be) delayed	yu-akhira
+15	63:11:3	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+15	63:11:4	w	نَفْساً		نفسا	a soul	nafsan
+15	63:11:5	w	ࡴذَا		اذا	when	idhā
+15	63:11:6	w	جَآءَ		جا	has come	jāa
+15	63:11:7	w	اجَلُهَا࣌		اجلها	its term	ajaluhā
+15	63:11:8	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	63:11:9	w	خَبِيرُۢ		خبير	(is) All-Aware	khabīrun
+15	63:11:10	w	بِمَا		بما	of what	bimā
+15	63:11:11	w	تَعْمَلُونَ࣌		تعملون	you do	taʿmalūna
+15	63:11:12	e	۝١١				

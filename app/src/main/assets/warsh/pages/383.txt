@@ -1,0 +1,155 @@
+1	27:66:1	w	أَمَّنْ		امن	Or Who	amman
+1	27:66:2	w	يَّبْدَؤُاْ		يبدوا	originates	yabda-u
+1	27:66:3	w	ࡲ۬لْخَلْقَ		الخلق	the creation	l-khalqa
+1	27:66:4	w	ثُمَّ		ثم	then	thumma
+1	27:66:5	w	يُعِيدُهُۥ		يعيده	repeats it	yuʿīduhu
+1	27:66:6	w	وَمَنْ		ومن	and Who	waman
+1	27:66:7	w	يَّرْزُقُكُم		يرزقكم	provides you	yarzuqukum
+1	27:66:8	w	مِّنَ		من	from	mina
+1	27:66:9	w	ࡰ۬لسَّمَآءِ		السما	the heavens	l-samāi
+1	27:66:10	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+2	27:66:11	w	أَࢇلَٰهࣱ		اله	Is there any god	a-ilāhun
+2	27:66:12	w	مَّعَ		مع	with	maʿa
+2	27:66:13	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+2	27:66:14	w	قُلْ		قل	Say	qul
+2	27:66:15	w	هَاتُواْ		هاتوا	Bring forth	hātū
+2	27:66:16	w	بُرْهَٰنَكُمُۥٓ		برهنكم	your proof	bur'hānakum
+2	27:66:17	w	إِن		ان	if	in
+2	27:66:18	w	كُنتُمْ		كنتم	you are	kuntum
+2	27:66:19	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+2	27:66:20	e	۝٦٦				
+2	27:67:1	w	قُل		قل	Say	qul
+3	27:67:2	w	لَّا		لا	No (one)	lā
+3	27:67:3	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+3	27:67:4	w	مَن		من	whoever	man
+3	27:67:5	w	فِے		في	(is) in	fī
+3	27:67:6	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+3	27:67:7	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+3	27:67:8	w	ࡴ۬لْغَيْبَ		الغيب	(of) the unseen	l-ghayba
+3	27:67:9	w	إِلَّا		الا	except	illā
+3	27:67:10	w	ࡰ۬للَّهُ࣌		الله	Allah	l-lahu
+3	27:67:11	w	وَمَا		وما	and not	wamā
+3	27:67:12	w	يَشْعُرُونَ		يشعرون	they perceive	yashʿurūna
+4	27:67:13	w	أَيَّانَ		ايان	when	ayyāna
+4	27:67:14	w	يُبْعَثُونَ࣌		يبعثون	they will be resurrected	yub'ʿathūna
+4	27:67:15	e	۝٦٧				
+4	27:68:1	w	۞ بَلِ		بل	Nay	bali
+4	27:68:2	w	ࡴٜدَّٰرَكَ		ادرك	is arrested	iddāraka
+4	27:68:3	w	عِلْمُهُمْ		علمهم	their knowledge	ʿil'muhum
+4	27:68:4	w	فِے		في	of	fī
+4	27:68:5	w	ࡴ۬لَاخِرَةِ࣌		الاخرة	the Hereafter	l-ākhirati
+4	27:68:6	w	بَلْ		بل	Nay	bal
+4	27:68:7	w	هُمْ		هم	they	hum
+4	27:68:8	w	فِے		في	(are) in	fī
+5	27:68:9	w	شَكࣲّ		شك	doubt	shakkin
+5	27:68:10	w	مِّنْهَا		منها	about it	min'hā
+5	27:68:11	w	بَلْ		بل	Nay	bal
+5	27:68:12	w	هُم		هم	they	hum
+5	27:68:13	w	مِّنْهَا		منها	about it	min'hā
+5	27:68:14	w	عَمُونَ࣌		عمون	(are) blind	ʿamūna
+5	27:68:15	e	۝٦٨				
+5	27:69:1	w	وَقَالَ		وقال	And say	waqāla
+5	27:69:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	27:69:3	w	كَفَرُوٓاْ		كفروا	disbelieve	kafarū
+5	27:69:4	w	إِذَا		اذا	What, when	a-idhā
+6	27:69:5	w	كُنَّا		كنا	we have become	kunnā
+6	27:69:6	w	تُرَٰباࣰ		تربا	dust	turāban
+6	27:69:7	w	وَءَابَآؤُنَآ		واباونا	and our forefathers	waābāunā
+6	27:69:8	w	أَئِنَّا		اينا	will we	a-innā
+6	27:69:9	w	لَمُخْرَجُونَ࣌		لمخرجون	surely be brought out	lamukh'rajūna
+6	27:69:10	e	۝٦٩				
+6	27:70:1	w	لَقَدْ		لقد	Certainly	laqad
+6	27:70:2	w	وُعِدْنَا		وعدنا	we have been promised	wuʿid'nā
+6	27:70:3	w	هَٰذَا		هذا	this	hādhā
+7	27:70:4	w	نَحْنُ		نحن	we	naḥnu
+7	27:70:5	w	وَءَابَآؤُنَا		واباونا	and our forefathers	waābāunā
+7	27:70:6	w	مِن		من	before	min
+7	27:70:7	w	قَبْلُ࣌		قبل	before	qablu
+7	27:70:8	w	إِنْ		ان	Not	in
+7	27:70:9	w	هَٰذَآ		هذا	(is) this	hādhā
+7	27:70:10	w	إِلَّآ		الا	except	illā
+7	27:70:11	w	أَسَٰطِيرُ		اسطير	tales	asāṭīru
+7	27:70:12	w	ࡲ۬لَاوَّلِينَ࣌		الاولين	(of) the former (people)	l-awalīna
+7	27:70:13	e	۝٧٠				
+7	27:71:1	w	قُلْ		قل	Say	qul
+8	27:71:2	w	سِيرُواْ		سيروا	Travel	sīrū
+8	27:71:3	w	فِے		في	in	fī
+8	27:71:4	w	ࡴ۬لَارْضِ		الارض	the land	l-arḍi
+8	27:71:5	w	فَانظُرُواْ		فانظروا	and see	fa-unẓurū
+8	27:71:6	w	كَيْفَ		كيف	how	kayfa
+8	27:71:7	w	كَانَ		كان	was	kāna
+8	27:71:8	w	عَٰقِبَةُ		عقبة	(the) end	ʿāqibatu
+8	27:71:9	w	ࡲ۬لْمُجْرِمِينَ࣌		المجرمين	(of) the criminals	l-muj'rimīna
+8	27:71:10	e	۝٧١				
+9	27:72:1	w	وَلَا		ولا	And (do) not	walā
+9	27:72:2	w	تَحْزَنْ		تحزن	grieve	taḥzan
+9	27:72:3	w	عَلَيْهِمْ		عليهم	over them	ʿalayhim
+9	27:72:4	w	وَلَا		ولا	and not	walā
+9	27:72:5	w	تَكُن		تكن	be	takun
+9	27:72:6	w	فِے		في	in	fī
+9	27:72:7	w	ضَيْقࣲ		ضيق	distress	ḍayqin
+9	27:72:8	w	مِّمَّا		مما	from what	mimmā
+9	27:72:9	w	يَمْكُرُونَ࣌		يمكرون	they plot	yamkurūna
+9	27:72:10	e	۝٧٢				
+10	27:73:1	w	وَيَقُولُونَ		ويقولون	And they say	wayaqūlūna
+10	27:73:2	w	مَتٜىٰ		متي	When	matā
+10	27:73:3	w	هَٰذَا		هذا	(will) this	hādhā
+10	27:73:4	w	ࡰ۬لْوَعْدُ		الوعد	promise (be fulfilled)	l-waʿdu
+10	27:73:5	w	إِن		ان	if	in
+10	27:73:6	w	كُنتُمْ		كنتم	you are	kuntum
+10	27:73:7	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+10	27:73:8	e	۝٧٣				
+10	27:74:1	w	قُلْ		قل	Say	qul
+10	27:74:2	w	عَسٜىٰٓ		عسي	Perhaps	ʿasā
+11	27:74:3	w	أَنْ		ان	that	an
+11	27:74:4	w	يَّكُونَ		يكون	is	yakūna
+11	27:74:5	w	رَدِفَ		ردف	close behind	radifa
+11	27:74:6	w	لَكُم		لكم	you	lakum
+11	27:74:7	w	بَعْضُ		بعض	some	baʿḍu
+11	27:74:8	w	ࡲ۬لذِے		الذي	(of) that which	alladhī
+11	27:74:9	w	تَسْتَعْجِلُونَ࣌		تستعجلون	you seek to hasten	tastaʿjilūna
+11	27:74:10	e	۝٧٤				
+11	27:75:1	w	وَإِنَّ		وان	And indeed	wa-inna
+11	27:75:2	w	رَبَّكَ		ربك	your Lord	rabbaka
+12	27:75:3	w	لَذُو		لذو	(is) full of Bounty	ladhū
+12	27:75:4	w	فَضْلٍ		فضل	(is) full of Bounty	faḍlin
+12	27:75:5	w	عَلَى		علي	for	ʿalā
+12	27:75:6	w	ࡰ۬لنَّاسِ࣌		الناس	the mankind	l-nāsi
+12	27:75:7	w	وَلَٰكِنَّ		ولكن	but	walākinna
+12	27:75:8	w	أَكْثَرَهُمْ		اكثرهم	most of them	aktharahum
+12	27:75:9	w	لَا		لا	(are) not	lā
+12	27:75:10	w	يَشْكُرُونَ࣌		يشكرون	grateful	yashkurūna
+12	27:75:11	e	۝٧٥				
+12	27:76:1	w	وَإِنَّ		وان	And indeed	wa-inna
+13	27:76:2	w	رَبَّكَ		ربك	your Lord	rabbaka
+13	27:76:3	w	لَيَعْلَمُ		ليعلم	surely knows	layaʿlamu
+13	27:76:4	w	مَا		ما	what	mā
+13	27:76:5	w	تُكِنُّ		تكن	conceals	tukinnu
+13	27:76:6	w	صُدُورُهُمْ		صدورهم	their breasts	ṣudūruhum
+13	27:76:7	w	وَمَا		وما	and what	wamā
+13	27:76:8	w	يُعْلِنُونَ࣌		يعلنون	they declare	yuʿ'linūna
+13	27:76:9	e	۝٧٦				
+13	27:77:1	w	وَمَا		وما	And not (is)	wamā
+13	27:77:2	w	مِنْ		من	any (thing)	min
+13	27:77:3	w	غَآئِبَةࣲ		غايبة	hidden	ghāibatin
+14	27:77:4	w	فِے		في	in	fī
+14	27:77:5	w	ࡴ۬لسَّمَآءِ		السما	the heavens	l-samāi
+14	27:77:6	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+14	27:77:7	w	إِلَّا		الا	but	illā
+14	27:77:8	w	فِے		في	(is) in	fī
+14	27:77:9	w	كِتَٰبࣲ		كتب	a Record	kitābin
+14	27:77:10	w	مُّبِينٍ࣌		مبين	clear	mubīnin
+14	27:77:11	e	۝٧٧				
+14	27:78:1	w	ࡴنَّ		ان	Indeed	inna
+14	27:78:2	w	هَٰذَا		هذا	this	hādhā
+14	27:78:3	w	ࡰ۬لْقُرْءَانَ		القران	[the] Quran	l-qur'āna
+15	27:78:4	w	يَقُصُّ		يقص	relates	yaquṣṣu
+15	27:78:5	w	عَلَىٰ		علي	to	ʿalā
+15	27:78:6	w	بَنِےٓ		بني	(the) Children	banī
+15	27:78:7	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+15	27:78:8	w	أَكْثَرَ		اكثر	most	akthara
+15	27:78:9	w	ࡰ۬لذِے		الذي	(of) that	alladhī
+15	27:78:10	w	هُمْ		هم	they	hum
+15	27:78:11	w	فِيهِ		فيه	in it	fīhi
+15	27:78:12	w	يَخْتَلِفُونَ࣌		يختلفون	differ	yakhtalifūna
+15	27:78:13	e	۝٧٨				

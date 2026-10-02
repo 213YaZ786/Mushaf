@@ -1,0 +1,149 @@
+1	26:61:1	w	فَلَمَّا		فلما	Then when	falammā
+1	26:61:2	w	تَرَٰٓءَا		ترا	saw each other	tarāā
+1	26:61:3	w	ࡰ۬لْجَمْعَٰنِ		الجمعن	the two hosts	l-jamʿāni
+1	26:61:4	w	قَالَ		قال	said	qāla
+1	26:61:5	w	أَصْحَٰبُ		اصحب	(the) companions	aṣḥābu
+1	26:61:6	w	مُوسٜىٰٓ		موسي	(of) Musa	mūsā
+1	26:61:7	w	إِنَّا		انا	Indeed, we	innā
+1	26:61:8	w	لَمُدْرَكُونَ࣌		لمدركون	(are) surely to be overtaken	lamud'rakūna
+1	26:61:9	e	۝٦١				
+1	26:62:1	w	قَالَ		قال	He said	qāla
+2	26:62:2	w	كَلَّآ࣌		كلا	Nay	kallā
+2	26:62:3	w	إِنَّ		ان	indeed	inna
+2	26:62:4	w	مَعِے		معي	with me	maʿiya
+2	26:62:5	w	رَبِّے		ربي	(is) my Lord	rabbī
+2	26:62:6	w	سَيَهْدِينِ࣌		سيهدين	He will guide me	sayahdīni
+2	26:62:7	e	۝٦٢				
+2	26:63:1	w	فَأَوْحَيْنَآ		فاوحينا	Then We inspired	fa-awḥaynā
+2	26:63:2	w	إِلَىٰ		الي	to	ilā
+2	26:63:3	w	مُوسٜىٰٓ		موسي	Musa	mūsā
+2	26:63:4	w	أَنِ		ان	[that]	ani
+2	26:63:5	w	ࡴٜضْرِب		اضرب	Strike	iḍ'rib
+3	26:63:6	w	بِّعَصَاكَ		بعصاك	with your staff	biʿaṣāka
+3	26:63:7	w	ࡰ۬لْبَحْرَ		البحر	the sea	l-baḥra
+3	26:63:8	w	فَانفَلَقَ		فانفلق	So it parted	fa-infalaqa
+3	26:63:9	w	فَكَانَ		فكان	and became	fakāna
+3	26:63:10	w	كُلُّ		كل	each	kullu
+3	26:63:11	w	فِرْقࣲ		فرق	part	fir'qin
+3	26:63:12	w	كَالطَّوْدِ		كالطود	like the mountain	kal-ṭawdi
+3	26:63:13	w	ࡴ۬لْعَظِيمِ࣌		العظيم	[the] great	l-ʿaẓīmi
+3	26:63:14	e	۝٦٣				
+4	26:64:1	w	وَأَزْلَفْنَا		وازلفنا	And We brought near	wa-azlafnā
+4	26:64:2	w	ثَمَّ		ثم	there	thamma
+4	26:64:3	w	ࡰ۬لَاخَرِينَ࣌		الاخرين	the others	l-ākharīna
+4	26:64:4	e	۝٦٤				
+4	26:65:1	w	وَأَنجَيْنَا		وانجينا	And We saved	wa-anjaynā
+4	26:65:2	w	مُوسٜىٰ		موسي	Musa	mūsā
+4	26:65:3	w	وَمَن		ومن	and who	waman
+4	26:65:4	w	مَّعَهُۥٓ		معه	(were) with him	maʿahu
+4	26:65:5	w	أَجْمَعِينَ		اجمعين	all	ajmaʿīna
+4	26:65:6	e	۝٦٥				
+5	26:66:1	w	ثُمَّ		ثم	Then	thumma
+5	26:66:2	w	أَغْرَقْنَا		اغرقنا	We drowned	aghraqnā
+5	26:66:3	w	ࡰ۬لَاخَرِينَ࣌		الاخرين	the others	l-ākharīna
+5	26:66:4	e	۝٦٦				
+5	26:67:1	w	إِنَّ		ان	Indeed	inna
+5	26:67:2	w	فِے		في	in	fī
+5	26:67:3	w	ذَٰلِكَ		ذلك	that	dhālika
+5	26:67:4	w	لَأٓيَةࣰ࣌		لاية	surely (is) a Sign	laāyatan
+5	26:67:5	w	وَمَا		وما	but not	wamā
+5	26:67:6	w	كَانَ		كان	are	kāna
+6	26:67:7	w	أَكْثَرُهُم		اكثرهم	most of them	aktharuhum
+6	26:67:8	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+6	26:67:9	e	۝٦٧				
+6	26:68:1	w	وَإِنَّ		وان	And indeed	wa-inna
+6	26:68:2	w	رَبَّكَ		ربك	your Lord	rabbaka
+6	26:68:3	w	لَهُوَ		لهو	surely He	lahuwa
+6	26:68:4	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+6	26:68:5	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+6	26:68:6	e	۝٦٨				
+7	26:69:1	w	وَاتْلُ		واتل	And recite	wa-ut'lu
+7	26:69:2	w	عَلَيْهِمْ		عليهم	to them	ʿalayhim
+7	26:69:3	w	نَبَأَ		نبا	(the) news	naba-a
+7	26:69:4	w	ࡹبْرَٰهِيمَ		ابرهيم	(of) Ibrahim	ib'rāhīma
+7	26:69:5	e	۝٦٩				
+7	26:70:1	w	إِذْ		اذ	When	idh
+7	26:70:2	w	قَالَ		قال	he said	qāla
+7	26:70:3	w	لِأَبِيهِ		لابيه	to his father	li-abīhi
+7	26:70:4	w	وَقَوْمِهِۦ		وقومهي	and his people	waqawmihi
+7	26:70:5	w	مَا		ما	What	mā
+7	26:70:6	w	تَعْبُدُونَ࣌		تعبدون	(do) you worship	taʿbudūna
+7	26:70:7	e	۝٧٠				
+8	26:71:1	w	قَالُواْ		قالوا	They said	qālū
+8	26:71:2	w	نَعْبُدُ		نعبد	We worship	naʿbudu
+8	26:71:3	w	أَصْنَاماࣰ		اصناما	idols	aṣnāman
+8	26:71:4	w	فَنَظَلُّ		فنظل	so we will remain	fanaẓallu
+8	26:71:5	w	لَهَا		لها	to them	lahā
+8	26:71:6	w	عَٰكِفِينَ࣌		عكفين	devoted	ʿākifīna
+8	26:71:7	e	۝٧١				
+8	26:72:1	w	قَالَ		قال	He said	qāla
+8	26:72:2	w	هَلْ		هل	Do	hal
+9	26:72:3	w	يَسْمَعُونَكُمُۥٓ		يسمعونكم	they hear you	yasmaʿūnakum
+9	26:72:4	w	إِذْ		اذ	when	idh
+9	26:72:5	w	تَدْعُونَ		تدعون	you call	tadʿūna
+9	26:72:6	e	۝٧٢				
+9	26:73:1	w	أَوْ		او	Or	aw
+9	26:73:2	w	يَنفَعُونَكُمُۥٓ		ينفعونكم	(do) they benefit you	yanfaʿūnakum
+9	26:73:3	w	أَوْ		او	or	aw
+9	26:73:4	w	يَضُرُّونَ࣌		يضرون	they harm (you)	yaḍurrūna
+9	26:73:5	e	۝٧٣				
+9	26:74:1	w	قَالُواْ		قالوا	They said	qālū
+10	26:74:2	w	بَلْ		بل	Nay	bal
+10	26:74:3	w	وَجَدْنَآ		وجدنا	but we found	wajadnā
+10	26:74:4	w	ءَابَآءَنَا		ابانا	our forefathers	ābāanā
+10	26:74:5	w	كَذَٰلِكَ		كذلك	like that	kadhālika
+10	26:74:6	w	يَفْعَلُونَ࣌		يفعلون	doing	yafʿalūna
+10	26:74:7	e	۝٧٤				
+10	26:75:1	w	قَالَ		قال	He said	qāla
+10	26:75:2	w	أَفَرَٰٓيْتُم		افريتم	Do you see	afara-aytum
+10	26:75:3	w	مَّا		ما	what	mā
+10	26:75:4	w	كُنتُمْ		كنتم	you have been	kuntum
+11	26:75:5	w	تَعْبُدُونَ		تعبدون	worshipping	taʿbudūna
+11	26:75:6	e	۝٧٥				
+11	26:76:1	w	أَنتُمْ		انتم	You	antum
+11	26:76:2	w	وَءَابَآؤُكُمُ		واباوكم	and your forefathers	waābāukumu
+11	26:76:3	w	ࡲ۬لَاقْدَمُونَ		الاقدمون	and your forefathers	l-aqdamūna
+11	26:76:4	e	۝٧٦				
+11	26:77:1	w	فَإِنَّهُمْ		فانهم	Indeed, they	fa-innahum
+11	26:77:2	w	عَدُوࣱّ		عدو	(are) enemies	ʿaduwwun
+11	26:77:3	w	لِّيَ࣌		لي	to me	lī
+12	26:77:4	w	إِلَّا		الا	except	illā
+12	26:77:5	w	رَبَّ		رب	(the) Lord	rabba
+12	26:77:6	w	ࡰ۬لْعَٰلَمِينَ		العلمين	(of) the worlds	l-ʿālamīna
+12	26:77:7	e	۝٧٧				
+12	26:78:1	w	ࡰ۬لذِے		الذي	The One Who	alladhī
+12	26:78:2	w	خَلَقَنِے		خلقني	created me	khalaqanī
+12	26:78:3	w	فَهُوَ		فهو	and He	fahuwa
+12	26:78:4	w	يَهْدِينِ࣌		يهدين	guides me	yahdīni
+12	26:78:5	e	۝٧٨				
+12	26:79:1	w	وَالذِے		والذي	And the One Who	wa-alladhī
+12	26:79:2	w	هُوَ		هو	[He]	huwa
+13	26:79:3	w	يُطْعِمُنِے		يطعمني	gives me food	yuṭ'ʿimunī
+13	26:79:4	w	وَيَسْقِينِ		ويسقين	and gives me drink	wayasqīni
+13	26:79:5	e	۝٧٩				
+13	26:80:1	w	وَإِذَا		واذا	And when	wa-idhā
+13	26:80:2	w	مَرِضْتُ		مرضت	I am ill	mariḍ'tu
+13	26:80:3	w	فَهُوَ		فهو	then He	fahuwa
+13	26:80:4	w	يَشْفِينِ࣌		يشفين	cures me	yashfīni
+13	26:80:5	e	۝٨٠				
+13	26:81:1	w	وَالذِے		والذي	And the One Who	wa-alladhī
+14	26:81:2	w	يُمِيتُنِے		يميتني	will cause me to die	yumītunī
+14	26:81:3	w	ثُمَّ		ثم	then	thumma
+14	26:81:4	w	يُحْيِينِ࣌		يحيين	he will give me life	yuḥ'yīni
+14	26:81:5	e	۝٨١				
+14	26:82:1	w	۞ وَالذِےٓ		والذي	And the One Who	wa-alladhī
+14	26:82:2	w	أَطْمَعُ		اطمع	I hope	aṭmaʿu
+14	26:82:3	w	أَنْ		ان	that	an
+14	26:82:4	w	يَّغْفِرَ		يغفر	He will forgive	yaghfira
+14	26:82:5	w	لِے		لي	for me	lī
+14	26:82:6	w	خَطِيٓـَٔتِے		خطيتي	my faults	khaṭīatī
+15	26:82:7	w	يَوْمَ		يوم	(on the) Day	yawma
+15	26:82:8	w	ࡰ۬لدِّينِ࣌		الدين	(of) the Judgment	l-dīni
+15	26:82:9	e	۝٨٢				
+15	26:83:1	w	رَبِّ		رب	My Lord	rabbi
+15	26:83:2	w	هَبْ		هب	Grant	hab
+15	26:83:3	w	لِے		لي	[for] me	lī
+15	26:83:4	w	حُكْماࣰ		حكما	wisdom	ḥuk'man
+15	26:83:5	w	وَأَلْحِقْنِے		والحقني	and join me	wa-alḥiq'nī
+15	26:83:6	w	بِالصَّٰلِحِينَ࣌		بالصلحين	with the righteous	bil-ṣāliḥīna
+15	26:83:7	e	۝٨٣				

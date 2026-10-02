@@ -1,0 +1,145 @@
+1	31:28:1	w	ࡰلَمْ		الم	Do not	alam
+1	31:28:2	w	تَرَ		تر	you see	tara
+1	31:28:3	w	أَنَّ		ان	that	anna
+1	31:28:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	31:28:5	w	يُولِجُ		يولج	causes to enter	yūliju
+1	31:28:6	w	ࡲ۬ليْلَ		اليل	the night	al-layla
+1	31:28:7	w	فِے		في	into	fī
+1	31:28:8	w	ࡴ۬لنَّهٜارِ		النهار	the day	l-nahāri
+1	31:28:9	w	وَيُولِجُ		ويولج	and causes to enter	wayūliju
+1	31:28:10	w	ࡲ۬لنَّهَارَ		النهار	the day	l-nahāra
+1	31:28:11	w	فِے		في	into	fī
+1	31:28:12	w	ࡴ۬ليْلِ		اليل	the night	al-layli
+2	31:28:13	w	وَسَخَّرَ		وسخر	and has subjected	wasakhara
+2	31:28:14	w	ࡰ۬لشَّمْسَ		الشمس	the sun	l-shamsa
+2	31:28:15	w	وَالْقَمَرَ		والقمر	and the moon	wal-qamara
+2	31:28:16	w	كُلࣱّ		كل	each	kullun
+2	31:28:17	w	يَجْرِےٓ		يجري	moving	yajrī
+2	31:28:18	w	إِلَىٰٓ		الي	for	ilā
+2	31:28:19	w	أَجَلࣲ		اجل	a term	ajalin
+2	31:28:20	w	مُّسَمّىࣰ		مسمي	appointed	musamman
+3	31:28:21	w	وَأَنَّ		وان	and that	wa-anna
+3	31:28:22	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+3	31:28:23	w	بِمَا		بما	of what	bimā
+3	31:28:24	w	تَعْمَلُونَ		تعملون	you do	taʿmalūna
+3	31:28:25	w	خَبِيرࣱ࣌		خبير	(is) All-Aware	khabīrun
+3	31:28:26	e	۝٢٨				
+3	31:29:1	w	ذَٰلِكَ		ذلك	That	dhālika
+3	31:29:2	w	بِأَنَّ		بان	(is) because	bi-anna
+3	31:29:3	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+3	31:29:4	w	هُوَ		هو	He	huwa
+3	31:29:5	w	ࡰ۬لْحَقُّ		الحق	(is) the Truth	l-ḥaqu
+3	31:29:6	w	وَأَنَّ		وان	and that	wa-anna
+4	31:29:7	w	مَا		ما	what	mā
+4	31:29:8	w	تَدْعُونَ		تدعون	they call	yadʿūna
+4	31:29:9	w	مِن		من	besides Him	min
+4	31:29:10	w	دُونِهِ		دونه	besides Him	dūnihi
+4	31:29:11	w	ࡴ۬لْبَٰطِلُ		البطل	(is) [the] falsehood	l-bāṭilu
+4	31:29:12	w	وَأَنَّ		وان	and that	wa-anna
+4	31:29:13	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	31:29:14	w	هُوَ		هو	He	huwa
+4	31:29:15	w	ࡰ۬لْعَلِيُّ		العلي	(is) the Most High	l-ʿaliyu
+4	31:29:16	w	ࡲ۬لْكَبِيرُ࣌		الكبير	the Most Great	l-kabīru
+4	31:29:17	e	۝٢٩				
+5	31:30:1	w	أَلَمْ		الم	Do not	alam
+5	31:30:2	w	تَرَ		تر	you see	tara
+5	31:30:3	w	أَنَّ		ان	that	anna
+5	31:30:4	w	ࡰ۬لْفُلْكَ		الفلك	the ships	l-ful'ka
+5	31:30:5	w	تَجْرِے		تجري	sail	tajrī
+5	31:30:6	w	فِے		في	through	fī
+5	31:30:7	w	ࡴ۬لْبَحْرِ		البحر	the sea	l-baḥri
+5	31:30:8	w	بِنِعْمَتِ		بنعمت	by (the) Grace	biniʿ'mati
+5	31:30:9	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+5	31:30:10	w	لِيُرِيَكُم		ليريكم	that He may show you	liyuriyakum
+6	31:30:11	w	مِّنَ		من	of	min
+6	31:30:12	w	اٰيَٰتِهِۦٓ࣌		ايتهي	His Signs	āyātihi
+6	31:30:13	w	إِنَّ		ان	Indeed	inna
+6	31:30:14	w	فِے		في	in	fī
+6	31:30:15	w	ذَٰلِكَ		ذلك	that	dhālika
+6	31:30:16	w	لَأٓيَٰتࣲ		لايت	surely (are) Signs	laāyātin
+6	31:30:17	w	لِّكُلِّ		لكل	for everyone	likulli
+6	31:30:18	w	صَبّٜارࣲ		صبار	(who is) patient	ṣabbārin
+6	31:30:19	w	شَكُورࣲ࣌		شكور	grateful	shakūrin
+6	31:30:20	e	۝٣٠				
+7	31:31:1	w	وَإِذَا		واذا	And when	wa-idhā
+7	31:31:2	w	غَشِيَهُم		غشيهم	covers them	ghashiyahum
+7	31:31:3	w	مَّوْجࣱ		موج	a wave	mawjun
+7	31:31:4	w	كَالظُّلَلِ		كالظلل	like canopies	kal-ẓulali
+7	31:31:5	w	دَعَوُاْ		دعوا	they call	daʿawū
+7	31:31:6	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+7	31:31:7	w	مُخْلِصِينَ		مخلصين	(being) sincere	mukh'liṣīna
+8	31:31:8	w	لَهُ		له	to Him	lahu
+8	31:31:9	w	ࡲ۬لدِّينَ࣌		الدين	(in) religion	l-dīna
+8	31:31:10	w	فَلَمَّا		فلما	But when	falammā
+8	31:31:11	w	نَجّٜيٰهُمُۥٓ		نجيهم	He delivers them	najjāhum
+8	31:31:12	w	إِلَى		الي	to	ilā
+8	31:31:13	w	ࡰ۬لْبَرِّ		البر	the land	l-bari
+8	31:31:14	w	فَمِنْهُم		فمنهم	then among them	famin'hum
+8	31:31:15	w	مُّقْتَصِدࣱ࣌		مقتصد	(some are) moderate	muq'taṣidun
+9	31:31:16	w	وَمَا		وما	And not	wamā
+9	31:31:17	w	يَجْحَدُ		يجحد	deny	yajḥadu
+9	31:31:18	w	بِـَٔايَٰتِنَآ		بايتنا	Our Signs	biāyātinā
+9	31:31:19	w	إِلَّا		الا	except	illā
+9	31:31:20	w	كُلُّ		كل	every	kullu
+9	31:31:21	w	خَتّٜارࣲ		ختار	traitor	khattārin
+9	31:31:22	w	كَفُورࣲ࣌		كفور	ungrateful	kafūrin
+9	31:31:23	e	۝٣١				
+10	31:32:1	w	۞ يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+10	31:32:2	w	ࡰ۬لنَّاسُ		الناس	mankind	l-nāsu
+10	31:32:3	w	ࡲٜتَّقُواْ		اتقوا	Fear	ittaqū
+10	31:32:4	w	رَبَّكُمْ		ربكم	your Lord	rabbakum
+10	31:32:5	w	وَاخْشَوْاْ		واخشوا	and fear	wa-ikh'shaw
+10	31:32:6	w	يَوْماࣰ		يوما	a Day	yawman
+10	31:32:7	w	لَّا		لا	not	lā
+10	31:32:8	w	يَجْزِے		يجزي	can avail	yajzī
+10	31:32:9	w	وَالِدٌ		والد	a father	wālidun
+11	31:32:10	w	عَنْ		عن	[for]	ʿan
+11	31:32:11	w	وَّلَدِهِۦ		ولدهي	his son	waladihi
+11	31:32:12	w	وَلَا		ولا	and not	walā
+11	31:32:13	w	مَوْلُودٌ		مولود	a son	mawlūdun
+11	31:32:14	w	هُوَ		هو	he	huwa
+11	31:32:15	w	جَازٍ		جاز	(can) avail	jāzin
+11	31:32:16	w	عَنْ		عن	[for]	ʿan
+11	31:32:17	w	وَّالِدِهِۦ		والدهي	his father	wālidihi
+11	31:32:18	w	شَيْـٔاً࣌		شيا	anything	shayan
+11	31:32:19	w	ࡴنَّ		ان	Indeed	inna
+11	31:32:20	w	وَعْدَ		وعد	(the) Promise	waʿda
+11	31:32:21	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+12	31:32:22	w	حَقࣱّ࣌		حق	(is) True	ḥaqqun
+12	31:32:23	w	فَلَا		فلا	so let not deceive you	falā
+12	31:32:24	w	تَغُرَّنَّكُمُ		تغرنكم	so let not deceive you	taghurrannakumu
+12	31:32:25	w	ࡲ۬لْحَيَوٰةُ		الحيوة	the life	l-ḥayatu
+12	31:32:26	w	ࡲ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+12	31:32:27	w	وَلَا		ولا	and let not deceive you	walā
+12	31:32:28	w	يَغُرَّنَّكُم		يغرنكم	and let not deceive you	yaghurrannakum
+12	31:32:29	w	بِاللَّهِ		بالله	about Allah	bil-lahi
+13	31:32:30	w	ࡴ۬لْغَرُورُ࣌		الغرور	the deceiver	l-gharūru
+13	31:32:31	e	۝٣٢				
+13	31:33:1	w	إِنَّ		ان	Indeed	inna
+13	31:33:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+13	31:33:3	w	عِندَهُۥ		عنده	with Him	ʿindahu
+13	31:33:4	w	عِلْمُ		علم	(is the) knowledge	ʿil'mu
+13	31:33:5	w	ࡲ۬لسَّاعَةِ࣌		الساعة	(of) the Hour	l-sāʿati
+13	31:33:6	w	وَيُنَزِّلُ		وينزل	and He sends down	wayunazzilu
+13	31:33:7	w	ࡲ۬لْغَيْثَ࣌		الغيث	the rain	l-ghaytha
+14	31:33:8	w	وَيَعْلَمُ		ويعلم	and knows	wayaʿlamu
+14	31:33:9	w	مَا		ما	what	mā
+14	31:33:10	w	فِے		في	(is) in	fī
+14	31:33:11	w	ࡴ۬لَارْحَامِ࣌		الارحام	the wombs	l-arḥāmi
+14	31:33:12	w	وَمَا		وما	And not	wamā
+14	31:33:13	w	تَدْرِے		تدري	knows	tadrī
+14	31:33:14	w	نَفْسࣱ		نفس	any soul	nafsun
+14	31:33:15	w	مَّاذَا		ماذا	what	mādhā
+14	31:33:16	w	تَكْسِبُ		تكسب	it will earn	taksibu
+15	31:33:17	w	غَداࣰ࣌		غدا	tomorrow	ghadan
+15	31:33:18	w	وَمَا		وما	and not	wamā
+15	31:33:19	w	تَدْرِے		تدري	knows	tadrī
+15	31:33:20	w	نَفْسُۢ		نفس	any soul	nafsun
+15	31:33:21	w	بِأَيِّ		باي	in what	bi-ayyi
+15	31:33:22	w	أَرْضࣲ		ارض	land	arḍin
+15	31:33:23	w	تَمُوتُ࣌		تموت	it will die	tamūtu
+15	31:33:24	w	إِنَّ		ان	Indeed	inna
+15	31:33:25	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	31:33:26	w	عَلِيمٌ		عليم	(is) All-Knower	ʿalīmun
+15	31:33:27	w	خَبِيرٌ࣌		خبير	All-Aware	khabīrun
+15	31:33:28	e	۝٣٣				

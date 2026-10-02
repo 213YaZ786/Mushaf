@@ -1,0 +1,136 @@
+1	45:13:1	w	۞ قُل		قل	Say	qul
+1	45:13:2	w	لِّلذِينَ		للذين	to those who	lilladhīna
+1	45:13:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+1	45:13:4	w	يَغْفِرُواْ		يغفروا	(to) forgive	yaghfirū
+1	45:13:5	w	لِلذِينَ		للذين	those who	lilladhīna
+1	45:13:6	w	لَا		لا	(do) not	lā
+1	45:13:7	w	يَرْجُونَ		يرجون	hope	yarjūna
+1	45:13:8	w	أَيَّامَ		ايام	(for the) days	ayyāma
+1	45:13:9	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+1	45:13:10	w	لِيَجْزِيَ		ليجزي	that He may recompense	liyajziya
+2	45:13:11	w	قَوْماَۢ		قوما	a people	qawman
+2	45:13:12	w	بِمَا		بما	for what	bimā
+2	45:13:13	w	كَانُواْ		كانوا	they used to	kānū
+2	45:13:14	w	يَكْسِبُونَ࣌		يكسبون	earn	yaksibūna
+2	45:13:15	e	۝١٣				
+2	45:14:1	w	مَنْ		من	Whoever	man
+2	45:14:2	w	عَمِلَ		عمل	does	ʿamila
+2	45:14:3	w	صَٰلِحاࣰ		صلحا	a righteous deed	ṣāliḥan
+2	45:14:4	w	فَلِنَفْسِهِۦ࣌		فلنفسهي	then it is for his soul	falinafsihi
+3	45:14:5	w	وَمَنَ		ومن	and whoever	waman
+3	45:14:6	w	ࡰسَآءَ		اسا	does evil	asāa
+3	45:14:7	w	فَعَلَيْهَا࣌		فعليها	then it (is) against it	faʿalayhā
+3	45:14:8	w	ثُمَّ		ثم	Then	thumma
+3	45:14:9	w	إِلَىٰ		الي	to	ilā
+3	45:14:10	w	رَبِّكُمْ		ربكم	your Lord	rabbikum
+3	45:14:11	w	تُرْجَعُونَ࣌		ترجعون	you will be returned	tur'jaʿūna
+3	45:14:12	e	۝١٤				
+3	45:15:1	w	وَلَقَدَ		ولقد	And certainly	walaqad
+3	45:15:2	w	اٰتَيْنَا		اتينا	We gave	ātaynā
+3	45:15:3	w	بَنِےٓ		بني	(the) Children of Israel	banī
+4	45:15:4	w	إِسْرَآءِيلَ		اسرايل	(the) Children of Israel	is'rāīla
+4	45:15:5	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+4	45:15:6	w	وَالْحُكْمَ		والحكم	and the wisdom	wal-ḥuk'ma
+4	45:15:7	w	وَالنُّبُوٓءَةَ		والنبوة	and the Prophethood	wal-nubuwata
+4	45:15:8	w	وَرَزَقْنَٰهُم		ورزقنهم	and We provided them	warazaqnāhum
+4	45:15:9	w	مِّنَ		من	of	mina
+4	45:15:10	w	ࡰ۬لطَّيِّبَٰتِ		الطيبت	the good things	l-ṭayibāti
+5	45:15:11	w	وَفَضَّلْنَٰهُمْ		وفضلنهم	and We preferred them	wafaḍḍalnāhum
+5	45:15:12	w	عَلَى		علي	over	ʿalā
+5	45:15:13	w	ࡰ۬لْعَٰلَمِينَ		العلمين	the worlds	l-ʿālamīna
+5	45:15:14	e	۝١٥				
+5	45:16:1	w	وَءَاتَيْنَٰهُم		واتينهم	And We gave them	waātaynāhum
+5	45:16:2	w	بَيِّنَٰتࣲ		بينت	clear proofs	bayyinātin
+5	45:16:3	w	مِّنَ		من	of	mina
+5	45:16:4	w	ࡰ۬لَامْرِ࣌		الامر	the matter	l-amri
+5	45:16:5	w	فَمَا		فما	And not	famā
+6	45:16:6	w	ࡰٜخْتَلَفُوٓاْ		اختلفوا	they differed	ikh'talafū
+6	45:16:7	w	إِلَّا		الا	except	illā
+6	45:16:8	w	مِنۢ		من	after	min
+6	45:16:9	w	بَعْدِ		بعد	after	baʿdi
+6	45:16:10	w	مَا		ما	[what]	mā
+6	45:16:11	w	جَآءَهُمُ		جاهم	came to them	jāahumu
+6	45:16:12	w	ࡲ۬لْعِلْمُ࣌		العلم	the knowledge	l-ʿil'mu
+6	45:16:13	w	بَغْياَۢ		بغيا	(out of) envy	baghyan
+6	45:16:14	w	بَيْنَهُمُۥٓ࣌		بينهم	between themselves	baynahum
+6	45:16:15	w	إِنَّ		ان	Indeed	inna
+6	45:16:16	w	رَبَّكَ		ربك	your Lord	rabbaka
+7	45:16:17	w	يَقْضِے		يقضي	will judge	yaqḍī
+7	45:16:18	w	بَيْنَهُمْ		بينهم	between them	baynahum
+7	45:16:19	w	يَوْمَ		يوم	(on the) Day	yawma
+7	45:16:20	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+7	45:16:21	w	فِيمَا		فيما	about what	fīmā
+7	45:16:22	w	كَانُواْ		كانوا	they used to	kānū
+7	45:16:23	w	فِيهِ		فيه	therein	fīhi
+7	45:16:24	w	يَخْتَلِفُونَ࣌		يختلفون	differ	yakhtalifūna
+7	45:16:25	e	۝١٦				
+8	45:17:1	w	ثُمَّ		ثم	Then	thumma
+8	45:17:2	w	جَعَلْنَٰكَ		جعلنك	We put you	jaʿalnāka
+8	45:17:3	w	عَلَىٰ		علي	on	ʿalā
+8	45:17:4	w	شَرِيعَةࣲ		شريعة	an ordained way	sharīʿatin
+8	45:17:5	w	مِّنَ		من	of	mina
+8	45:17:6	w	ࡰ۬لَامْرِ		الامر	the matter	l-amri
+8	45:17:7	w	فَاتَّبِعْهَا࣌		فاتبعها	so follow it	fa-ittabiʿ'hā
+8	45:17:8	w	وَلَا		ولا	and (do) not	walā
+8	45:17:9	w	تَتَّبِعَ		تتبع	follow	tattabiʿ
+8	45:17:10	w	ࡰهْوَآءَ		اهوا	(the) desires	ahwāa
+9	45:17:11	w	ࡰ۬لذِينَ		الذين	(of) those who	alladhīna
+9	45:17:12	w	لَا		لا	(do) not	lā
+9	45:17:13	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+9	45:17:14	e	۝١٧				
+9	45:18:1	w	إِنَّهُمْ		انهم	Indeed, they	innahum
+9	45:18:2	w	لَنْ		لن	never	lan
+9	45:18:3	w	يُّغْنُواْ		يغنوا	will avail	yugh'nū
+9	45:18:4	w	عَنكَ		عنك	you	ʿanka
+9	45:18:5	w	مِنَ		من	against	mina
+9	45:18:6	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+9	45:18:7	w	شَيْـٔاࣰ࣌		شيا	(in) anything	shayan
+10	45:18:8	w	وَإِنَّ		وان	And indeed	wa-inna
+10	45:18:9	w	ࡰ۬لظَّٰلِمِينَ		الظلمين	the wrongdoers	l-ẓālimīna
+10	45:18:10	w	بَعْضُهُمُۥٓ		بعضهم	some of them	baʿḍuhum
+10	45:18:11	w	أَوْلِيَآءُ		اوليا	(are) allies	awliyāu
+10	45:18:12	w	بَعْضࣲ࣌		بعض	(of) others	baʿḍin
+10	45:18:13	w	وَاللَّهُ		والله	and Allah	wal-lahu
+10	45:18:14	w	وَلِيُّ		ولي	(is the) Protector	waliyyu
+10	45:18:15	w	ࡲ۬لْمُتَّقِينَ࣌		المتقين	(of) the righteous	l-mutaqīna
+10	45:18:16	e	۝١٨				
+11	45:19:1	w	هَٰذَا		هذا	This	hādhā
+11	45:19:2	w	بَصَٰٓئِرُ		بصير	(is) enlightenment	baṣāiru
+11	45:19:3	w	لِلنَّاسِ		للناس	for mankind	lilnnāsi
+11	45:19:4	w	وَهُدىࣰ		وهدي	and guidance	wahudan
+11	45:19:5	w	وَرَحْمَةࣱ		ورحمة	and mercy	waraḥmatun
+11	45:19:6	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+11	45:19:7	w	يُوقِنُونَ࣌		يوقنون	who are certain	yūqinūna
+11	45:19:8	e	۝١٩				
+12	45:20:1	w	أَمْ		ام	Do	am
+12	45:20:2	w	حَسِبَ		حسب	think	ḥasiba
+12	45:20:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	45:20:4	w	ࡰٜجْتَرَحُواْ		اجترحوا	commit	ij'taraḥū
+12	45:20:5	w	ࡲ۬لسَّيِّـَٔاتِ		السيات	evil deeds	l-sayiāti
+12	45:20:6	w	أَن		ان	that	an
+12	45:20:7	w	نَّجْعَلَهُمْ		نجعلهم	We will make them	najʿalahum
+12	45:20:8	w	كَالذِينَ		كالذين	like those who	ka-alladhīna
+13	45:20:9	w	ءَامَنُواْ		امنوا	believed	āmanū
+13	45:20:10	w	وَعَمِلُواْ		وعملوا	and did	waʿamilū
+13	45:20:11	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+13	45:20:12	w	سَوَآءࣱ		سوا	equal	sawāan
+13	45:20:13	w	مَّحْيٜاهُمْ		محياهم	(in) their life	maḥyāhum
+13	45:20:14	w	وَمَمَاتُهُمْ࣌		ومماتهم	and their death	wamamātuhum
+13	45:20:15	w	سَآءَ		سا	Evil is	sāa
+14	45:20:16	w	مَا		ما	what	mā
+14	45:20:17	w	يَحْكُمُونَ࣌		يحكمون	they judge	yaḥkumūna
+14	45:20:18	e	۝٢٠				
+14	45:21:1	w	وَخَلَقَ		وخلق	And Allah created	wakhalaqa
+14	45:21:2	w	ࡰ۬للَّهُ		الله	And Allah created	l-lahu
+14	45:21:3	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+14	45:21:4	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+14	45:21:5	w	بِالْحَقِّ࣌		بالحق	in truth	bil-ḥaqi
+15	45:21:6	w	وَلِتُجْزٜىٰ		ولتجزي	and that may be recompensed	walituj'zā
+15	45:21:7	w	كُلُّ		كل	every	kullu
+15	45:21:8	w	نَفْسِۢ		نفس	soul	nafsin
+15	45:21:9	w	بِمَا		بما	for what	bimā
+15	45:21:10	w	كَسَبَتْ		كسبت	it has earned	kasabat
+15	45:21:11	w	وَهُمْ		وهم	and they	wahum
+15	45:21:12	w	لَا		لا	will not be wronged	lā
+15	45:21:13	w	يُظْلَمُونَ࣌		يظلمون	will not be wronged	yuẓ'lamūna
+15	45:21:14	e	۝٢١				

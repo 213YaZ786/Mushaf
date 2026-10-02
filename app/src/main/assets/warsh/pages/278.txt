@@ -1,0 +1,133 @@
+1	16:94:1	w	وَلَا		ولا	And (do) not	walā
+1	16:94:2	w	تَتَّخِذُوٓاْ		تتخذوا	take	tattakhidhū
+1	16:94:3	w	أَيْمَٰنَكُمْ		ايمنكم	your oaths	aymānakum
+1	16:94:4	w	دَخَلاَۢ		دخلا	(as) a deception	dakhalan
+1	16:94:5	w	بَيْنَكُمْ		بينكم	between you	baynakum
+1	16:94:6	w	فَتَزِلَّ		فتزل	lest, should slip	fatazilla
+1	16:94:7	w	قَدَمُۢ		قدم	a foot	qadamun
+1	16:94:8	w	بَعْدَ		بعد	after	baʿda
+1	16:94:9	w	ثُبُوتِهَا		ثبوتها	it is firmly planted	thubūtihā
+2	16:94:10	w	وَتَذُوقُواْ		وتذوقوا	and you would taste	watadhūqū
+2	16:94:11	w	ࡲ۬لسُّوٓءَ		السو	the evil	l-sūa
+2	16:94:12	w	بِمَا		بما	for what	bimā
+2	16:94:13	w	صَدَدتُّمْ		صددتم	you hindered	ṣadadttum
+2	16:94:14	w	عَن		عن	from	ʿan
+2	16:94:15	w	سَبِيلِ		سبيل	(the) way	sabīli
+2	16:94:16	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+2	16:94:17	w	وَلَكُمْ		ولكم	and for you	walakum
+3	16:94:18	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+3	16:94:19	w	عَظِيمࣱ࣌		عظيم	great	ʿaẓīmun
+3	16:94:20	e	۝٩٤				
+3	16:95:1	w	وَلَا		ولا	And (do) not	walā
+3	16:95:2	w	تَشْتَرُواْ		تشتروا	exchange	tashtarū
+3	16:95:3	w	بِعَهْدِ		بعهد	the covenant	biʿahdi
+3	16:95:4	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+3	16:95:5	w	ثَمَناࣰ		ثمنا	(for) a price	thamanan
+3	16:95:6	w	قَلِيلاً࣌		قليلا	little	qalīlan
+3	16:95:7	w	ࡴنَّمَا		انما	Indeed, what	innamā
+4	16:95:8	w	عِندَ		عند	(is) with	ʿinda
+4	16:95:9	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+4	16:95:10	w	هُوَ		هو	it	huwa
+4	16:95:11	w	خَيْرࣱ		خير	(is) better	khayrun
+4	16:95:12	w	لَّكُمُۥٓ		لكم	for you	lakum
+4	16:95:13	w	إِن		ان	if	in
+4	16:95:14	w	كُنتُمْ		كنتم	you were (to)	kuntum
+4	16:95:15	w	تَعْلَمُونَ࣌		تعلمون	know	taʿlamūna
+4	16:95:16	e	۝٩٥				
+4	16:96:1	w	مَا		ما	Whatever	mā
+4	16:96:2	w	عِندَكُمْ		عندكم	(is) with you	ʿindakum
+5	16:96:3	w	يَنفَدُ࣌		ينفد	will be exhausted	yanfadu
+5	16:96:4	w	وَمَا		وما	and whatever	wamā
+5	16:96:5	w	عِندَ		عند	(is) with	ʿinda
+5	16:96:6	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+5	16:96:7	w	بَاقࣲ࣌		باق	(will) be remaining	bāqin
+5	16:96:8	w	وَلَيَجْزِيَنَّ		وليجزين	And surely We will pay	walanajziyanna
+5	16:96:9	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	16:96:10	w	صَبَرُوٓاْ		صبروا	(are) patient	ṣabarū
+5	16:96:11	w	أَجْرَهُم		اجرهم	their reward	ajrahum
+6	16:96:12	w	بِأَحْسَنِ		باحسن	to (the) best	bi-aḥsani
+6	16:96:13	w	مَا		ما	(of) what	mā
+6	16:96:14	w	كَانُواْ		كانوا	they used (to)	kānū
+6	16:96:15	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+6	16:96:16	e	۝٩٦				
+6	16:97:1	w	مَنْ		من	Whoever	man
+6	16:97:2	w	عَمِلَ		عمل	does	ʿamila
+6	16:97:3	w	صَٰلِحاࣰ		صلحا	righteous deeds	ṣāliḥan
+6	16:97:4	w	مِّن		من	whether	min
+7	16:97:5	w	ذَكَرٍ		ذكر	male	dhakarin
+7	16:97:6	w	ࡰوُ		او	or	aw
+7	16:97:7	w	ࡳنثٜىٰ		انثي	female	unthā
+7	16:97:8	w	وَهُوَ		وهو	while he	wahuwa
+7	16:97:9	w	مُومِنࣱ		مومن	(is) a believer	mu'minun
+7	16:97:10	w	فَلَنُحْيِيَنَّهُۥ		فلنحيينه	then surely We will give him life	falanuḥ'yiyannahu
+7	16:97:11	w	حَيَوٰةࣰ		حيوة	a life	ḥayatan
+7	16:97:12	w	طَيِّبَةࣰ		طيبة	good	ṭayyibatan
+8	16:97:13	w	وَلَنَجْزِيَنَّهُمُۥٓ		ولنجزينهم	and We will pay them	walanajziyannahum
+8	16:97:14	w	أَجْرَهُم		اجرهم	their reward	ajrahum
+8	16:97:15	w	بِأَحْسَنِ		باحسن	to (the) best	bi-aḥsani
+8	16:97:16	w	مَا		ما	of what	mā
+8	16:97:17	w	كَانُواْ		كانوا	they used (to)	kānū
+8	16:97:18	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+8	16:97:19	e	۝٩٧				
+9	16:98:1	w	۞ فَإِذَا		فاذا	So when	fa-idhā
+9	16:98:2	w	قَرَأْتَ		قرات	you recite	qarata
+9	16:98:3	w	ࡰ۬لْقُرْءَانَ		القران	the Quran	l-qur'āna
+9	16:98:4	w	فَاسْتَعِذْ		فاستعذ	seek refuge	fa-is'taʿidh
+9	16:98:5	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+9	16:98:6	w	مِنَ		من	from	mina
+9	16:98:7	w	ࡰ۬لشَّيْطَٰنِ		الشيطن	the Shaitaan	l-shayṭāni
+9	16:98:8	w	ࡴ۬لرَّجِيمِ࣌		الرجيم	the accursed	l-rajīmi
+9	16:98:9	e	۝٩٨				
+10	16:99:1	w	إِنَّهُۥ		انه	Indeed he	innahu
+10	16:99:2	w	لَيْسَ		ليس	not	laysa
+10	16:99:3	w	لَهُۥ		له	for him	lahu
+10	16:99:4	w	سُلْطَٰنٌ		سلطن	(is) any authority	sul'ṭānun
+10	16:99:5	w	عَلَى		علي	on	ʿalā
+10	16:99:6	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	16:99:7	w	ءَامَنُواْ		امنوا	believe	āmanū
+10	16:99:8	w	وَعَلَىٰ		وعلي	and upon	waʿalā
+10	16:99:9	w	رَبِّهِمْ		ربهم	their Lord	rabbihim
+11	16:99:10	w	يَتَوَكَّلُونَ࣌		يتوكلون	they put their trust	yatawakkalūna
+11	16:99:11	e	۝٩٩				
+11	16:100:1	w	إِنَّمَا		انما	Only	innamā
+11	16:100:2	w	سُلْطَٰنُهُۥ		سلطنه	his authority	sul'ṭānuhu
+11	16:100:3	w	عَلَى		علي	(is) over	ʿalā
+11	16:100:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	16:100:5	w	يَتَوَلَّوْنَهُۥ		يتولونه	take him as an ally	yatawallawnahu
+11	16:100:6	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+12	16:100:7	w	هُم		هم	[they]	hum
+12	16:100:8	w	بِهِۦ		بهي	with Him	bihi
+12	16:100:9	w	مُشْرِكُونَ࣌		مشركون	associate partners	mush'rikūna
+12	16:100:10	e	۝١٠٠				
+12	16:101:1	w	وَإِذَا		واذا	And when	wa-idhā
+12	16:101:2	w	بَدَّلْنَآ		بدلنا	We substitute	baddalnā
+12	16:101:3	w	ءَايَةࣰ		اية	a Verse	āyatan
+12	16:101:4	w	مَّكَانَ		مكان	(in) place	makāna
+12	16:101:5	w	ءَايَةࣲ		اية	(of) a Verse	āyatin
+13	16:101:6	w	وَاللَّهُ		والله	and Allah	wal-lahu
+13	16:101:7	w	أَعْلَمُ		اعلم	(is) most knowing	aʿlamu
+13	16:101:8	w	بِمَا		بما	of what	bimā
+13	16:101:9	w	يُنَزِّلُ		ينزل	He sends down	yunazzilu
+13	16:101:10	w	قَالُوٓاْ		قالوا	they say	qālū
+13	16:101:11	w	إِنَّمَآ		انما	Only	innamā
+13	16:101:12	w	أَنتَ		انت	you	anta
+13	16:101:13	w	مُفْتَرِۢ࣌		مفتر	(are) an inventor	muf'tarin
+13	16:101:14	w	بَلَ		بل	Nay	bal
+13	16:101:15	w	ࡰكْثَرُهُمْ		اكثرهم	most of them	aktharuhum
+14	16:101:16	w	لَا		لا	(do) not	lā
+14	16:101:17	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+14	16:101:18	e	۝١٠١				
+14	16:102:1	w	قُلْ		قل	Say	qul
+14	16:102:2	w	نَزَّلَهُۥ		نزله	Has brought it down	nazzalahu
+14	16:102:3	w	رُوحُ		روح	the Holy Spirit	rūḥu
+14	16:102:4	w	ࡲ۬لْقُدُسِ		القدس	the Holy Spirit	l-qudusi
+14	16:102:5	w	مِن		من	from	min
+14	16:102:6	w	رَّبِّكَ		ربك	your Lord	rabbika
+14	16:102:7	w	بِالْحَقِّ		بالحق	in truth	bil-ḥaqi
+15	16:102:8	w	لِيُثَبِّتَ		ليثبت	to make firm	liyuthabbita
+15	16:102:9	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+15	16:102:10	w	ءَامَنُواْ		امنوا	believe	āmanū
+15	16:102:11	w	وَهُدىࣰ		وهدي	and (as) a guidance	wahudan
+15	16:102:12	w	وَبُشْرٜىٰ		وبشري	and glad tidings	wabush'rā
+15	16:102:13	w	لِلْمُسْلِمِينَ࣌		للمسلمين	to the Muslims	lil'mus'limīna
+15	16:102:14	e	۝١٠٢				

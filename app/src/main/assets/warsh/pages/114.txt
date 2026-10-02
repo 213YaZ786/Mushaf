@@ -1,0 +1,130 @@
+1	5:39:1	w	يُرِيدُونَ		يريدون	They will wish	yurīdūna
+1	5:39:2	w	أَنْ		ان	that	an
+1	5:39:3	w	يَّخْرُجُواْ		يخرجوا	they come out	yakhrujū
+1	5:39:4	w	مِنَ		من	of	mina
+1	5:39:5	w	ࡰ۬لنّٜارِ		النار	the Fire	l-nāri
+1	5:39:6	w	وَمَا		وما	but not	wamā
+1	5:39:7	w	هُم		هم	they	hum
+1	5:39:8	w	بِخَٰرِجِينَ		بخرجين	will come out	bikhārijīna
+1	5:39:9	w	مِنْهَا࣌		منها	of it	min'hā
+2	5:39:10	w	وَلَهُمْ		ولهم	And for them	walahum
+2	5:39:11	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+2	5:39:12	w	مُّقِيمࣱ࣌		مقيم	lasting	muqīmun
+2	5:39:13	e	۝٣٩				
+2	5:40:1	w	وَالسَّارِقُ		والسارق	And (for) the male thief	wal-sāriqu
+2	5:40:2	w	وَالسَّارِقَةُ		والسارقة	and the female thief	wal-sāriqatu
+2	5:40:3	w	فَاقْطَعُوٓاْ		فاقطعوا	[then] cut off	fa-iq'ṭaʿū
+3	5:40:4	w	أَيْدِيَهُمَا		ايديهما	their hands	aydiyahumā
+3	5:40:5	w	جَزَآءَۢ		جزا	(as) a recompense	jazāan
+3	5:40:6	w	بِمَا		بما	for what	bimā
+3	5:40:7	w	كَسَبَا		كسبا	they earned	kasabā
+3	5:40:8	w	نَكَٰلاࣰ		نكلا	(as) an exemplary (punishment)	nakālan
+3	5:40:9	w	مِّنَ		من	from	mina
+3	5:40:10	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+3	5:40:11	w	وَاللَّهُ		والله	And Allah	wal-lahu
+3	5:40:12	w	عَزِيزٌ		عزيز	(is) All-Mighty	ʿazīzun
+4	5:40:13	w	حَكِيمࣱ࣌		حكيم	All-Wise	ḥakīmun
+4	5:40:14	e	۝٤٠				
+4	5:41:1	w	فَمَن		فمن	But whoever	faman
+4	5:41:2	w	تَابَ		تاب	repented	tāba
+4	5:41:3	w	مِنۢ		من	from	min
+4	5:41:4	w	بَعْدِ		بعد	after	baʿdi
+4	5:41:5	w	ظُلْمِهِۦ		ظلمهي	his wrongdoing	ẓul'mihi
+4	5:41:6	w	وَأَصْلَحَ		واصلح	and reforms	wa-aṣlaḥa
+4	5:41:7	w	فَإِنَّ		فان	then indeed	fa-inna
+4	5:41:8	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	5:41:9	w	يَتُوبُ		يتوب	will turn in forgiveness	yatūbu
+5	5:41:10	w	عَلَيْهِ࣌		عليه	to him	ʿalayhi
+5	5:41:11	w	إِنَّ		ان	Indeed	inna
+5	5:41:12	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	5:41:13	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+5	5:41:14	w	رَّحِيمٌ࣌		رحيم	Most Merciful	raḥīmun
+5	5:41:15	e	۝٤١				
+5	5:42:1	w	ࡰلَمْ		الم	Do not	alam
+5	5:42:2	w	تَعْلَمَ		تعلم	you know	taʿlam
+5	5:42:3	w	ࡰنَّ		ان	that	anna
+5	5:42:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	5:42:5	w	لَهُۥ		له	to Him (belongs)	lahu
+6	5:42:6	w	مُلْكُ		ملك	(the) dominion	mul'ku
+6	5:42:7	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+6	5:42:8	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+6	5:42:9	w	يُعَذِّبُ		يعذب	He punishes	yuʿadhibu
+6	5:42:10	w	مَنْ		من	whom	man
+6	5:42:11	w	يَّشَآءُ		يشا	He wills	yashāu
+6	5:42:12	w	وَيَغْفِرُ		ويغفر	and He forgives	wayaghfiru
+7	5:42:13	w	لِمَنْ		لمن	[to] whom	liman
+7	5:42:14	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+7	5:42:15	w	وَاللَّهُ		والله	And Allah	wal-lahu
+7	5:42:16	w	عَلَىٰ		علي	(is) on	ʿalā
+7	5:42:17	w	كُلِّ		كل	every	kulli
+7	5:42:18	w	شَےْءࣲ		شي	thing	shayin
+7	5:42:19	w	قَدِيرࣱ࣌		قدير	All-Powerful	qadīrun
+7	5:42:20	e	۝٤٢				
+7	5:43:1	w	۞ يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+8	5:43:2	w	ࡰ۬لرَّسُولُ		الرسول	Messenger	l-rasūlu
+8	5:43:3	w	لَا		لا	Let not	lā
+8	5:43:4	w	يُحْزِنكَ		يحزنك	grieve you	yaḥzunka
+8	5:43:5	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+8	5:43:6	w	يُسَٰرِعُونَ		يسرعون	hasten	yusāriʿūna
+8	5:43:7	w	فِے		في	in (to)	fī
+8	5:43:8	w	ࡴ۬لْكُفْرِ		الكفر	[the] disbelief	l-kuf'ri
+8	5:43:9	w	مِنَ		من	of	mina
+9	5:43:10	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+9	5:43:11	w	قَالُوٓاْ		قالوا	said	qālū
+9	5:43:12	w	ءَامَنَّا		امنا	We believe	āmannā
+9	5:43:13	w	بِأَفْوَٰهِهِمْ		بافوههم	with their mouths	bi-afwāhihim
+9	5:43:14	w	وَلَمْ		ولم	and not	walam
+9	5:43:15	w	تُومِن		تومن	believe	tu'min
+9	5:43:16	w	قُلُوبُهُمْ࣌		قلوبهم	their hearts	qulūbuhum
+9	5:43:17	w	وَمِنَ		ومن	and from	wamina
+10	5:43:18	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	5:43:19	w	هَادُواْ		هادوا	(are) Jews	hādū
+10	5:43:20	w	سَمَّٰعُونَ		سمعون	They (are) listeners	sammāʿūna
+10	5:43:21	w	لِلْكَذِبِ		للكذب	to falsehood	lil'kadhibi
+10	5:43:22	w	سَمَّٰعُونَ		سمعون	(and) listeners	sammāʿūna
+10	5:43:23	w	لِقَوْمٍ		لقوم	for people	liqawmin
+11	5:43:24	w	اٰخَرِينَ		اخرين	other	ākharīna
+11	5:43:25	w	لَمْ		لم	(who have) not	lam
+11	5:43:26	w	يَاتُوكَ࣌		ياتوك	come to you	yatūka
+11	5:43:27	w	يُحَرِّفُونَ		يحرفون	They distort	yuḥarrifūna
+11	5:43:28	w	ࡰ۬لْكَلِمَ		الكلم	the words	l-kalima
+11	5:43:29	w	مِنۢ		من	from	min
+11	5:43:30	w	بَعْدِ		بعد	after	baʿdi
+11	5:43:31	w	مَوَاضِعِهِۦ		مواضعهي	their context	mawāḍiʿihi
+12	5:43:32	w	يَقُولُونَ		يقولون	saying	yaqūlūna
+12	5:43:33	w	إِنُ		ان	If	in
+12	5:43:34	w	ࡳوتِيتُمْ		اوتيتم	you are given	ūtītum
+12	5:43:35	w	هَٰذَا		هذا	this	hādhā
+12	5:43:36	w	فَخُذُوهُ		فخذوه	[so] take it	fakhudhūhu
+12	5:43:37	w	وَإِن		وان	but if	wa-in
+12	5:43:38	w	لَّمْ		لم	not	lam
+12	5:43:39	w	تُوتَوْهُ		توتوه	you are given it	tu'tawhu
+13	5:43:40	w	فَاحْذَرُواْ࣌		فاحذروا	then beware	fa-iḥ'dharū
+13	5:43:41	w	وَمَنْ		ومن	And (for) whom	waman
+13	5:43:42	w	يُّرِدِ		يرد	intends	yuridi
+13	5:43:43	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+13	5:43:44	w	فِتْنَتَهُۥ		فتنته	his trial	fit'natahu
+13	5:43:45	w	فَلَن		فلن	then never	falan
+13	5:43:46	w	تَمْلِكَ		تملك	will you have power	tamlika
+13	5:43:47	w	لَهُۥ		له	for him	lahu
+13	5:43:48	w	مِنَ		من	against	mina
+13	5:43:49	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+14	5:43:50	w	شَيْـٔاً࣌		شيا	anything	shayan
+14	5:43:51	w	ࡳوْلَٰٓئِكَ		اوليك	Those	ulāika
+14	5:43:52	w	ࡰ۬لذِينَ		الذين	(are) the ones	alladhīna
+14	5:43:53	w	لَمْ		لم	never	lam
+14	5:43:54	w	يُرِدِ		يرد	will intend	yuridi
+14	5:43:55	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+14	5:43:56	w	أَنْ		ان	that	an
+14	5:43:57	w	يُّطَهِّرَ		يطهر	He purifies	yuṭahhira
+14	5:43:58	w	قُلُوبَهُمْ࣌		قلوبهم	their hearts	qulūbahum
+14	5:43:59	w	لَهُمْ		لهم	For them	lahum
+15	5:43:60	w	فِے		في	in	fī
+15	5:43:61	w	ࡴ۬لدُّنْيٜا		الدنيا	the world	l-dun'yā
+15	5:43:62	w	خِزْيࣱ࣌		خزي	(is) disgrace	khiz'yun
+15	5:43:63	w	وَلَهُمْ		ولهم	and for them	walahum
+15	5:43:64	w	فِے		في	in	fī
+15	5:43:65	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+15	5:43:66	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+15	5:43:67	w	عَظِيمࣱ࣌		عظيم	great	ʿaẓīmun
+15	5:43:68	e	۝٤٣				

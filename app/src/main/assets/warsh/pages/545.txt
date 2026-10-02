@@ -1,0 +1,122 @@
+1	58:21:1	w	لَّا		لا	You will not find	lā
+1	58:21:2	w	تَجِدُ		تجد	You will not find	tajidu
+1	58:21:3	w	قَوْماࣰ		قوما	a people	qawman
+1	58:21:4	w	يُومِنُونَ		يومنون	who believe	yu'minūna
+1	58:21:5	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+1	58:21:6	w	وَالْيَوْمِ		واليوم	and the Day	wal-yawmi
+1	58:21:7	w	ࡴ۬لَاخِرِ		الاخر	the Last	l-ākhiri
+1	58:21:8	w	يُوَآدُّونَ		يوادون	loving	yuwāddūna
+1	58:21:9	w	مَنْ		من	(those) who	man
+1	58:21:10	w	حَآدَّ		حاد	oppose	ḥādda
+2	58:21:11	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+2	58:21:12	w	وَرَسُولَهُۥ		ورسوله	and His Messenger	warasūlahu
+2	58:21:13	w	وَلَوْ		ولو	even if	walaw
+2	58:21:14	w	كَانُوٓاْ		كانوا	they were	kānū
+2	58:21:15	w	ءَابَآءَهُمُۥٓ		اباهم	their fathers	ābāahum
+2	58:21:16	w	أَوَ		او	or	aw
+2	58:21:17	w	ࡰبْنَآءَهُمُۥٓ		ابناهم	their sons	abnāahum
+2	58:21:18	w	أَوِ		او	or	aw
+2	58:21:19	w	ࡴخْوَٰنَهُمُۥٓ		اخونهم	their brothers	ikh'wānahum
+3	58:21:20	w	أَوْ		او	or	aw
+3	58:21:21	w	عَشِيرَتَهُمُۥٓ࣌		عشيرتهم	their kindred	ʿashīratahum
+3	58:21:22	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+3	58:21:23	w	كَتَبَ		كتب	He has decreed	kataba
+3	58:21:24	w	فِے		في	within	fī
+3	58:21:25	w	قُلُوبِهِمُ		قلوبهم	their hearts	qulūbihimu
+3	58:21:26	w	ࡲ۬لِايمَٰنَ		الايمن	faith	l-īmāna
+3	58:21:27	w	وَأَيَّدَهُم		وايدهم	and supported them	wa-ayyadahum
+4	58:21:28	w	بِرُوحࣲ		بروح	with a spirit	birūḥin
+4	58:21:29	w	مِّنْهُ		منه	from Him	min'hu
+4	58:21:30	w	وَيُدْخِلُهُمْ		ويدخلهم	And He will admit them	wayud'khiluhum
+4	58:21:31	w	جَنَّٰتࣲ		جنت	(to) Gardens	jannātin
+4	58:21:32	w	تَجْرِے		تجري	flow	tajrī
+4	58:21:33	w	مِن		من	from	min
+4	58:21:34	w	تَحْتِهَا		تحتها	underneath it	taḥtihā
+4	58:21:35	w	ࡰ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+5	58:21:36	w	خَٰلِدِينَ		خلدين	will abide forever	khālidīna
+5	58:21:37	w	فِيهَا࣌		فيها	in it	fīhā
+5	58:21:38	w	رَضِيَ		رضي	Allah is pleased	raḍiya
+5	58:21:39	w	ࡰ۬للَّهُ		الله	Allah is pleased	l-lahu
+5	58:21:40	w	عَنْهُمْ		عنهم	with them	ʿanhum
+5	58:21:41	w	وَرَضُواْ		ورضوا	and they are pleased	waraḍū
+5	58:21:42	w	عَنْهُ࣌		عنه	with Him	ʿanhu
+5	58:21:43	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+5	58:21:44	w	حِزْبُ		حزب	(are the) party	ḥiz'bu
+6	58:21:45	w	ࡲ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+6	58:21:46	w	أَلَآ		الا	No doubt	alā
+6	58:21:47	w	إِنَّ		ان	Indeed	inna
+6	58:21:48	w	حِزْبَ		حزب	(the) party	ḥiz'ba
+6	58:21:49	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+6	58:21:50	w	هُمُ		هم	they	humu
+6	58:21:51	w	ࡲ۬لْمُفْلِحُونَ࣌		المفلحون	(are) the successful ones	l-muf'liḥūna
+6	58:21:52	e	۝٢١				
+7	59:0:0	t					
+8	59:0:0	b					
+9	59:1:1	w	سَبَّحَ		سبح	Glorifies	sabbaḥa
+9	59:1:2	w	لِلهِ		لله	[to] Allah	lillahi
+9	59:1:3	w	مَا		ما	whatever	mā
+9	59:1:4	w	فِے		في	(is) in	fī
+9	59:1:5	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+9	59:1:6	w	وَمَا		وما	and whatever	wamā
+9	59:1:7	w	فِے		في	(is) in	fī
+9	59:1:8	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+9	59:1:9	w	وَهُوَ		وهو	And He	wahuwa
+9	59:1:10	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+9	59:1:11	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+9	59:1:12	e	۝١				
+10	59:2:1	w	هُوَ		هو	He	huwa
+10	59:2:2	w	ࡰ۬لذِےٓ		الذي	(is) the One Who	alladhī
+10	59:2:3	w	أَخْرَجَ		اخرج	expelled	akhraja
+10	59:2:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	59:2:5	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+10	59:2:6	w	مِنَ		من	from	min
+10	59:2:7	w	ࡰهْلِ		اهل	(the) People	ahli
+10	59:2:8	w	ࡴ۬لْكِتَٰبِ		الكتب	(of) the Scripture	l-kitābi
+10	59:2:9	w	مِن		من	from	min
+11	59:2:10	w	دِيٜـٰرِهِمْ		ديرهم	their homes	diyārihim
+11	59:2:11	w	لِأَوَّلِ		لاول	at (the) first	li-awwali
+11	59:2:12	w	ࡴ۬لْحَشْرِ࣌		الحشر	gathering	l-ḥashri
+11	59:2:13	w	مَا		ما	Not	mā
+11	59:2:14	w	ظَنَنتُمُۥٓ		ظننتم	you think	ẓanantum
+11	59:2:15	w	أَنْ		ان	that	an
+11	59:2:16	w	يَّخْرُجُواْ࣌		يخرجوا	they would leave	yakhrujū
+11	59:2:17	w	وَظَنُّوٓاْ		وظنوا	and they thought	waẓannū
+11	59:2:18	w	أَنَّهُم		انهم	that [they]	annahum
+11	59:2:19	w	مَّانِعَتُهُمْ		مانعتهم	would defend them	māniʿatuhum
+12	59:2:20	w	حُصُونُهُم		حصونهم	their fortresses	ḥuṣūnuhum
+12	59:2:21	w	مِّنَ		من	against	mina
+12	59:2:22	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+12	59:2:23	w	فَأَتٜيٰهُمُ		فاتيهم	But came to them	fa-atāhumu
+12	59:2:24	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+12	59:2:25	w	مِنْ		من	from	min
+12	59:2:26	w	حَيْثُ		حيث	where	ḥaythu
+12	59:2:27	w	لَمْ		لم	not	lam
+12	59:2:28	w	يَحْتَسِبُواْ࣌		يحتسبوا	they expected	yaḥtasibū
+12	59:2:29	w	۞ وَقَذَفَ		وقذف	and He cast	waqadhafa
+13	59:2:30	w	فِے		في	into	fī
+13	59:2:31	w	قُلُوبِهِمُ		قلوبهم	their hearts	qulūbihimu
+13	59:2:32	w	ࡲ۬لرُّعْبَ࣌		الرعب	[the] terror	l-ruʿ'ba
+13	59:2:33	w	يُخْرِبُونَ		يخربون	they destroyed	yukh'ribūna
+13	59:2:34	w	بُيُوتَهُم		بيوتهم	their houses	buyūtahum
+13	59:2:35	w	بِأَيْدِيهِمْ		بايديهم	with their hands	bi-aydīhim
+13	59:2:36	w	وَأَيْدِے		وايدي	and the hands	wa-aydī
+13	59:2:37	w	ࡴ۬لْمُومِنِينَ࣌		المومنين	(of) the believers	l-mu'minīna
+14	59:2:38	w	فَاعْتَبِرُواْ		فاعتبروا	So take a lesson	fa-iʿ'tabirū
+14	59:2:39	w	يَٰٓأُوْلِے		ياولي	O those endowed	yāulī
+14	59:2:40	w	ࡴ۬لَابْصٜـٰرِ࣌		الابصر	(with) insight	l-abṣāri
+14	59:2:41	e	۝٢				
+14	59:3:1	w	وَلَوْلَآ		ولولا	And if not	walawlā
+14	59:3:2	w	أَن		ان	[that]	an
+14	59:3:3	w	كَتَبَ		كتب	(had) decreed	kataba
+14	59:3:4	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+14	59:3:5	w	عَلَيْهِمُ		عليهم	for them	ʿalayhimu
+15	59:3:6	w	ࡲ۬لْجَلَآءَ		الجلا	the exile	l-jalāa
+15	59:3:7	w	لَعَذَّبَهُمْ		لعذبهم	certainly He (would) have punished them	laʿadhabahum
+15	59:3:8	w	فِے		في	in	fī
+15	59:3:9	w	ࡴ۬لدُّنْيٜا࣌		الدنيا	the world	l-dun'yā
+15	59:3:10	w	وَلَهُمْ		ولهم	and for them	walahum
+15	59:3:11	w	فِے		في	in	fī
+15	59:3:12	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+15	59:3:13	w	عَذَابُ		عذاب	(is) a punishment	ʿadhābu
+15	59:3:14	w	ࡲ۬لنّٜارِ࣌		النار	(of) the Fire	l-nāri
+15	59:3:15	e	۝٣				

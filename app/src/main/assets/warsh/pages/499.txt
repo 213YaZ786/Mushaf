@@ -1,0 +1,157 @@
+1	45:0:0	t					
+2	45:0:0	b					
+3	45:1:1	w	حٜمِٓ࣌		حم	Ha Meem	hha-meem
+3	45:1:2	w	تَنزِيلُ		تنزيل	(The) revelation	tanzīlu
+3	45:1:3	w	ࡲ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+3	45:1:4	w	مِنَ		من	(is) from	mina
+3	45:1:5	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+3	45:1:6	w	ࡴ۬لْعَزِيزِ		العزيز	the All-Mighty	l-ʿazīzi
+3	45:1:7	w	ࡴ۬لْحَكِيمِ࣌		الحكيم	the All-Wise	l-ḥakīmi
+3	45:1:8	e	۝١				
+3	45:2:1	w	إِنَّ		ان	Indeed	inna
+3	45:2:2	w	فِے		في	in	fī
+3	45:2:3	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+4	45:2:4	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+4	45:2:5	w	لَأٓيَٰتࣲ		لايت	surely (are) Signs	laāyātin
+4	45:2:6	w	لِّلْمُومِنِينَ࣌		للمومنين	for the believers	lil'mu'minīna
+4	45:2:7	e	۝٢				
+4	45:3:1	w	وَفِے		وفي	And in	wafī
+4	45:3:2	w	خَلْقِكُمْ		خلقكم	your creation	khalqikum
+4	45:3:3	w	وَمَا		وما	and what	wamā
+4	45:3:4	w	يَبُثُّ		يبث	He disperses	yabuthu
+4	45:3:5	w	مِن		من	of	min
+4	45:3:6	w	دَآبَّةٍ		دابة	(the) moving creatures	dābbatin
+4	45:3:7	w	اٰيَٰتࣱ		ايت	(are) Signs	āyātun
+4	45:3:8	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+5	45:3:9	w	يُوقِنُونَ		يوقنون	who are certain	yūqinūna
+5	45:3:10	e	۝٣				
+5	45:4:1	w	وَاخْتِلَٰفِ		واختلف	And (in the) alternation	wa-ikh'tilāfi
+5	45:4:2	w	ࡴ۬ليْلِ		اليل	(of) the night	al-layli
+5	45:4:3	w	وَالنَّهٜارِ		والنهار	and the day	wal-nahāri
+5	45:4:4	w	وَمَآ		وما	and what	wamā
+5	45:4:5	w	أَنزَلَ		انزل	Allah sends down	anzala
+5	45:4:6	w	ࡰ۬للَّهُ		الله	Allah sends down	l-lahu
+5	45:4:7	w	مِنَ		من	from	mina
+5	45:4:8	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+5	45:4:9	w	مِن		من	of	min
+5	45:4:10	w	رِّزْقࣲ		رزق	(the) provision	riz'qin
+6	45:4:11	w	فَأَحْيٜا		فاحيا	and gives life	fa-aḥyā
+6	45:4:12	w	بِهِ		به	thereby	bihi
+6	45:4:13	w	ࡴ۬لَارْضَ		الارض	(to) the earth	l-arḍa
+6	45:4:14	w	بَعْدَ		بعد	after	baʿda
+6	45:4:15	w	مَوْتِهَا		موتها	its death	mawtihā
+6	45:4:16	w	وَتَصْرِيفِ		وتصريف	and (in) directing	wataṣrīfi
+6	45:4:17	w	ࡴ۬لرِّيَٰحِ		الريح	(the) winds	l-riyāḥi
+6	45:4:18	w	ءَايَٰتࣱ		ايت	(are) Signs	āyātun
+6	45:4:19	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+6	45:4:20	w	يَعْقِلُونَ࣌		يعقلون	who reason	yaʿqilūna
+6	45:4:21	e	۝٤				
+7	45:5:1	w	تِلْكَ		تلك	These	til'ka
+7	45:5:2	w	ءَايَٰتُ		ايت	(are the) Verses	āyātu
+7	45:5:3	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+7	45:5:4	w	نَتْلُوهَا		نتلوها	We recite them	natlūhā
+7	45:5:5	w	عَلَيْكَ		عليك	to you	ʿalayka
+7	45:5:6	w	بِالْحَقِّ࣌		بالحق	in truth	bil-ḥaqi
+7	45:5:7	w	فَبِأَيِّ		فباي	Then in what	fabi-ayyi
+7	45:5:8	w	حَدِيثِۢ		حديث	statement	ḥadīthin
+7	45:5:9	w	بَعْدَ		بعد	after	baʿda
+7	45:5:10	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	45:5:11	w	وَءَايَٰتِهِۦ		وايتهي	and His Verses	waāyātihi
+8	45:5:12	w	يُومِنُونَ࣌		يومنون	will they believe	yu'minūna
+8	45:5:13	e	۝٥				
+8	45:6:1	w	وَيْلࣱ		ويل	Woe	waylun
+8	45:6:2	w	لِّكُلِّ		لكل	to every	likulli
+8	45:6:3	w	أَفَّاكٍ		افاك	liar	affākin
+8	45:6:4	w	ࡰثِيمࣲ		اثيم	sinful	athīmin
+8	45:6:5	e	۝٦				
+8	45:7:1	w	يَسْمَعُ		يسمع	Who hears	yasmaʿu
+8	45:7:2	w	ءَايَٰتِ		ايت	(the) Verses	āyāti
+8	45:7:3	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+8	45:7:4	w	تُتْلٜىٰ		تتلي	recited	tut'lā
+8	45:7:5	w	عَلَيْهِ		عليه	to him	ʿalayhi
+8	45:7:6	w	ثُمَّ		ثم	then	thumma
+9	45:7:7	w	يُصِرُّ		يصر	persists	yuṣirru
+9	45:7:8	w	مُسْتَكْبِراࣰ		مستكبرا	arrogantly	mus'takbiran
+9	45:7:9	w	كَأَن		كان	as if	ka-an
+9	45:7:10	w	لَّمْ		لم	not	lam
+9	45:7:11	w	يَسْمَعْهَا࣌		يسمعها	he heard them	yasmaʿhā
+9	45:7:12	w	فَبَشِّرْهُ		فبشره	So give him tidings	fabashir'hu
+9	45:7:13	w	بِعَذَابٍ		بعذاب	(of) a punishment	biʿadhābin
+9	45:7:14	w	ࡰلِيمࣲ࣌		اليم	painful	alīmin
+9	45:7:15	e	۝٧				
+9	45:8:1	w	وَإِذَا		واذا	And when	wa-idhā
+9	45:8:2	w	عَلِمَ		علم	he knows	ʿalima
+9	45:8:3	w	مِنَ		من	of	min
+10	45:8:4	w	اٰيَٰتِنَا		ايتنا	Our Verses	āyātinā
+10	45:8:5	w	شَيْـٔاً		شيا	anything	shayan
+10	45:8:6	w	ࡴٜتَّخَذَهَا		اتخذها	he takes them	ittakhadhahā
+10	45:8:7	w	هُزُؤاً࣌		هزوا	(in) ridicule	huzuwan
+10	45:8:8	w	ࡳوْلَٰٓئِكَ		اوليك	Those	ulāika
+10	45:8:9	w	لَهُمْ		لهم	for them	lahum
+10	45:8:10	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+10	45:8:11	w	مُّهِينࣱ࣌		مهين	humiliating	muhīnun
+10	45:8:12	e	۝٨				
+10	45:9:1	w	مِّنْ		من	Before them	min
+10	45:9:2	w	وَّرَآئِهِمْ		ورايهم	Before them	warāihim
+10	45:9:3	w	جَهَنَّمُ		جهنم	(is) Hell	jahannamu
+11	45:9:4	w	وَلَا		ولا	and not	walā
+11	45:9:5	w	يُغْنِے		يغني	will avail	yugh'nī
+11	45:9:6	w	عَنْهُم		عنهم	them	ʿanhum
+11	45:9:7	w	مَّا		ما	what	mā
+11	45:9:8	w	كَسَبُواْ		كسبوا	they had earned	kasabū
+11	45:9:9	w	شَيْـٔاࣰ		شيا	anything	shayan
+11	45:9:10	w	وَلَا		ولا	and not	walā
+11	45:9:11	w	مَا		ما	what	mā
+11	45:9:12	w	ࡰٜتَّخَذُواْ		اتخذوا	they had taken	ittakhadhū
+11	45:9:13	w	مِن		من	besides	min
+11	45:9:14	w	دُونِ		دون	besides	dūni
+11	45:9:15	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+11	45:9:16	w	أَوْلِيَآءَ࣌		اوليا	(as) protectors	awliyāa
+11	45:9:17	w	وَلَهُمْ		ولهم	And for them	walahum
+12	45:9:18	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+12	45:9:19	w	عَظِيمٌ࣌		عظيم	great	ʿaẓīmun
+12	45:9:20	e	۝٩				
+12	45:10:1	w	هَٰذَا		هذا	This	hādhā
+12	45:10:2	w	هُدىࣰ࣌		هدي	(is) guidance	hudan
+12	45:10:3	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+12	45:10:4	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+12	45:10:5	w	بِـَٔايَٰتِ		بايت	in (the) Verses	biāyāti
+12	45:10:6	w	رَبِّهِمْ		ربهم	(of) their Lord	rabbihim
+12	45:10:7	w	لَهُمْ		لهم	for them	lahum
+12	45:10:8	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+13	45:10:9	w	مِّن		من	of	min
+13	45:10:10	w	رِّجْزٍ		رجز	filth	rij'zin
+13	45:10:11	w	ࡰلِيمٍ࣌		اليم	painful	alīmun
+13	45:10:12	e	۝١٠				
+13	45:11:1	w	ࡴ۬للَّهُ		الله	Allah	al-lahu
+13	45:11:2	w	ࡲ۬لذِے		الذي	(is) the One Who	alladhī
+13	45:11:3	w	سَخَّرَ		سخر	subjected	sakhara
+13	45:11:4	w	لَكُمُ		لكم	to you	lakumu
+13	45:11:5	w	ࡲ۬لْبَحْرَ		البحر	the sea	l-baḥra
+13	45:11:6	w	لِتَجْرِيَ		لتجري	that may sail	litajriya
+13	45:11:7	w	ࡰ۬لْفُلْكُ		الفلك	the ships	l-ful'ku
+13	45:11:8	w	فِيهِ		فيه	therein	fīhi
+13	45:11:9	w	بِأَمْرِهِۦ		بامرهي	by His Command	bi-amrihi
+14	45:11:10	w	وَلِتَبْتَغُواْ		ولتبتغوا	and that you may seek	walitabtaghū
+14	45:11:11	w	مِن		من	of	min
+14	45:11:12	w	فَضْلِهِۦ		فضلهي	His Bounty	faḍlihi
+14	45:11:13	w	وَلَعَلَّكُمْ		ولعلكم	and that you may	walaʿallakum
+14	45:11:14	w	تَشْكُرُونَ࣌		تشكرون	give thanks	tashkurūna
+14	45:11:15	e	۝١١				
+14	45:12:1	w	وَسَخَّرَ		وسخر	And He has subjected	wasakhara
+14	45:12:2	w	لَكُم		لكم	to you	lakum
+14	45:12:3	w	مَّا		ما	whatever	mā
+14	45:12:4	w	فِے		في	(is) in	fī
+14	45:12:5	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+15	45:12:6	w	وَمَا		وما	and whatever	wamā
+15	45:12:7	w	فِے		في	(is) in	fī
+15	45:12:8	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+15	45:12:9	w	جَمِيعاࣰ		جميعا	all	jamīʿan
+15	45:12:10	w	مِّنْهُ࣌		منه	from Him	min'hu
+15	45:12:11	w	إِنَّ		ان	Indeed	inna
+15	45:12:12	w	فِے		في	in	fī
+15	45:12:13	w	ذَٰلِكَ		ذلك	that	dhālika
+15	45:12:14	w	لَأٓيَٰتࣲ		لايت	surely are Signs	laāyātin
+15	45:12:15	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+15	45:12:16	w	يَتَفَكَّرُونَ࣌		يتفكرون	who give thought	yatafakkarūna
+15	45:12:17	e	۝١٢				

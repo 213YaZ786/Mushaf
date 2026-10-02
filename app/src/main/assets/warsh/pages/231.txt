@@ -1,0 +1,134 @@
+1	11:81:1	w	فَلَمَّا		فلما	So when	falammā
+1	11:81:2	w	جَآءَ		جا	came	jāa
+1	11:81:3	w	امْرُنَا		امرنا	Our Command	amrunā
+1	11:81:4	w	جَعَلْنَا		جعلنا	We made	jaʿalnā
+1	11:81:5	w	عَٰلِيَهَا		عليها	its upside	ʿāliyahā
+1	11:81:6	w	سَافِلَهَا		سافلها	its downside	sāfilahā
+1	11:81:7	w	وَأَمْطَرْنَا		وامطرنا	and We rained	wa-amṭarnā
+1	11:81:8	w	عَلَيْهَا		عليها	upon them	ʿalayhā
+2	11:81:9	w	حِجَارَةࣰ		حجارة	stones	ḥijāratan
+2	11:81:10	w	مِّن		من	of	min
+2	11:81:11	w	سِجِّيلࣲ		سجيل	baked clay	sijjīlin
+2	11:81:12	e	۝٨١				
+2	11:82:1	w	مَّنضُودࣲ		منضود	(in) layers	manḍūdin
+2	11:82:2	w	مُّسَوَّمَةً		مسومة	Marked	musawwamatan
+2	11:82:3	w	عِندَ		عند	from	ʿinda
+2	11:82:4	w	رَبِّكَ࣌		ربك	your Lord	rabbika
+2	11:82:5	w	وَمَا		وما	And not	wamā
+2	11:82:6	w	هِيَ		هي	it	hiya
+3	11:82:7	w	مِنَ		من	(is) from	mina
+3	11:82:8	w	ࡰ۬لظَّٰلِمِينَ		الظلمين	the wrongdoers	l-ẓālimīna
+3	11:82:9	w	بِبَعِيدࣲ࣌		ببعيد	far	bibaʿīdin
+3	11:82:10	e	۝٨٢				
+3	11:83:1	w	۞ وَإِلَىٰ		والي	And to	wa-ilā
+3	11:83:2	w	مَدْيَنَ		مدين	Madyan	madyana
+3	11:83:3	w	أَخَاهُمْ		اخاهم	their brother	akhāhum
+3	11:83:4	w	شُعَيْباࣰ࣌		شعيبا	Shuaib	shuʿayban
+3	11:83:5	w	قَالَ		قال	He said	qāla
+4	11:83:6	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+4	11:83:7	w	ࡴ࢈عْبُدُواْ		اعبدوا	Worship	uʿ'budū
+4	11:83:8	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+4	11:83:9	w	مَا		ما	not	mā
+4	11:83:10	w	لَكُم		لكم	(is) for you	lakum
+4	11:83:11	w	مِّنِ		من	any	min
+4	11:83:12	w	ࡴلَٰهٍ		اله	god	ilāhin
+4	11:83:13	w	غَيْرُهُۥ࣌		غيره	other than Him	ghayruhu
+4	11:83:14	w	وَلَا		ولا	And (do) not	walā
+4	11:83:15	w	تَنقُصُواْ		تنقصوا	decrease	tanquṣū
+5	11:83:16	w	ࡲ۬لْمِكْيَالَ		المكيال	(from) the measure	l-mik'yāla
+5	11:83:17	w	وَالْمِيزَانَ࣌		والميزان	and the scale	wal-mīzāna
+5	11:83:18	w	إِنِّيَ		اني	Indeed, I	innī
+5	11:83:19	w	أَرٜيٰكُم		اريكم	see you	arākum
+5	11:83:20	w	بِخَيْرࣲ		بخير	in prosperity	bikhayrin
+5	11:83:21	w	وَإِنِّيَ		واني	but indeed, I	wa-innī
+5	11:83:22	w	أَخَافُ		اخاف	fear	akhāfu
+6	11:83:23	w	عَلَيْكُمْ		عليكم	for you	ʿalaykum
+6	11:83:24	w	عَذَابَ		عذاب	punishment	ʿadhāba
+6	11:83:25	w	يَوْمࣲ		يوم	(of) a Day	yawmin
+6	11:83:26	w	مُّحِيطࣲ࣌		محيط	all-encompassing	muḥīṭin
+6	11:83:27	e	۝٨٣				
+6	11:84:1	w	وَيَٰقَوْمِ		ويقوم	And O my people	wayāqawmi
+6	11:84:2	w	أَوْفُواْ		اوفوا	Give full	awfū
+6	11:84:3	w	ࡲ۬لْمِكْيَالَ		المكيال	measure	l-mik'yāla
+7	11:84:4	w	وَالْمِيزَانَ		والميزان	and weight	wal-mīzāna
+7	11:84:5	w	بِالْقِسْطِ࣌		بالقسط	in justice	bil-qis'ṭi
+7	11:84:6	w	وَلَا		ولا	and (do) not	walā
+7	11:84:7	w	تَبْخَسُواْ		تبخسوا	deprive	tabkhasū
+7	11:84:8	w	ࡲ۬لنَّاسَ		الناس	the people	l-nāsa
+7	11:84:9	w	أَشْيَآءَهُمْ		اشياهم	(of) their things	ashyāahum
+7	11:84:10	w	وَلَا		ولا	and (do) not	walā
+7	11:84:11	w	تَعْثَوْاْ		تعثوا	act wickedly	taʿthaw
+8	11:84:12	w	فِے		في	in	fī
+8	11:84:13	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+8	11:84:14	w	مُفْسِدِينَ࣌		مفسدين	spreading corruption	muf'sidīna
+8	11:84:15	e	۝٨٤				
+8	11:85:1	w	بَقِيَّتُ		بقيت	(What) remains	baqiyyatu
+8	11:85:2	w	ࡲ۬للَّهِ		الله	(from) Allah	l-lahi
+8	11:85:3	w	خَيْرࣱ		خير	(is) best	khayrun
+8	11:85:4	w	لَّكُمُۥٓ		لكم	for you	lakum
+8	11:85:5	w	إِن		ان	if	in
+9	11:85:6	w	كُنتُم		كنتم	you are	kuntum
+9	11:85:7	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+9	11:85:8	e	۝٨٥				
+9	11:86:1	w	وَمَآ		وما	And not	wamā
+9	11:86:2	w	أَنَا		انا	I am	anā
+9	11:86:3	w	عَلَيْكُم		عليكم	over you	ʿalaykum
+9	11:86:4	w	بِحَفِيظࣲ࣌		بحفيظ	a guardian	biḥafīẓin
+9	11:86:5	e	۝٨٦				
+9	11:87:1	w	قَالُواْ		قالوا	They said	qālū
+10	11:87:2	w	يَٰشُعَيْبُ		يشعيب	O Shuaib	yāshuʿaybu
+10	11:87:3	w	أَصَلَوَٰتُكَ		اصلوتك	Does your prayer	aṣalatuka
+10	11:87:4	w	تَامُرُكَ		تامرك	command you	tamuruka
+10	11:87:5	w	أَن		ان	that	an
+10	11:87:6	w	نَّتْرُكَ		نترك	we leave	natruka
+10	11:87:7	w	مَا		ما	what	mā
+10	11:87:8	w	يَعْبُدُ		يعبد	worship	yaʿbudu
+10	11:87:9	w	ءَابَآؤُنَآ		اباونا	our forefathers	ābāunā
+11	11:87:10	w	أَوَ		او	or	aw
+11	11:87:11	w	ࡰن		ان	that	an
+11	11:87:12	w	نَّفْعَلَ		نفعل	we do	nafʿala
+11	11:87:13	w	فِےٓ		في	concerning	fī
+11	11:87:14	w	أَمْوَٰلِنَا		امولنا	our wealth	amwālinā
+11	11:87:15	w	مَا		ما	what	mā
+11	11:87:16	w	نَشَٰٓؤُاْ࣌		نشوا	we will	nashāu
+11	11:87:17	w	ࡹِنَّكَ		انك	Indeed you	innaka
+11	11:87:18	w	لَأَنتَ		لانت	surely you	la-anta
+11	11:87:19	w	ࡰ۬لْحَلِيمُ		الحليم	(are) the forbearing	l-ḥalīmu
+12	11:87:20	w	ࡲ۬لرَّشِيدُ࣌		الرشيد	the right-minded	l-rashīdu
+12	11:87:21	e	۝٨٧				
+12	11:88:1	w	قَالَ		قال	He said	qāla
+12	11:88:2	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+12	11:88:3	w	أَرَٰٓيْتُمُۥٓ		اريتم	Do you see	ara-aytum
+12	11:88:4	w	إِن		ان	if	in
+12	11:88:5	w	كُنتُ		كنت	I am	kuntu
+12	11:88:6	w	عَلَىٰ		علي	on	ʿalā
+12	11:88:7	w	بَيِّنَةࣲ		بينة	a clear evidence	bayyinatin
+12	11:88:8	w	مِّن		من	from	min
+13	11:88:9	w	رَّبِّے		ربي	my Lord	rabbī
+13	11:88:10	w	وَرَزَقَنِے		ورزقني	and He has provided me	warazaqanī
+13	11:88:11	w	مِنْهُ		منه	from Himself	min'hu
+13	11:88:12	w	رِزْقاً		رزقا	a good provision	riz'qan
+13	11:88:13	w	حَسَناࣰ࣌		حسنا	a good provision	ḥasanan
+13	11:88:14	w	وَمَآ		وما	And not	wamā
+13	11:88:15	w	أُرِيدُ		اريد	I intend	urīdu
+13	11:88:16	w	أَنُ		ان	that	an
+13	11:88:17	w	ࡳخَالِفَكُمُۥٓ		اخالفكم	I differ from you	ukhālifakum
+14	11:88:18	w	إِلَىٰ		الي	in	ilā
+14	11:88:19	w	مَآ		ما	what	mā
+14	11:88:20	w	أَنْهٜيٰكُمْ		انهيكم	I forbid you	anhākum
+14	11:88:21	w	عَنْهُ࣌		عنه	from it	ʿanhu
+14	11:88:22	w	إِنُ		ان	Not	in
+14	11:88:23	w	ࡳرِيدُ		اريد	I intend	urīdu
+14	11:88:24	w	إِلَّا		الا	except	illā
+14	11:88:25	w	ࡰ۬لِاصْلَٰحَ		الاصلح	the reform	l-iṣ'lāḥa
+14	11:88:26	w	مَا		ما	as much as I am able	mā
+14	11:88:27	w	ࡰٜسْتَطَعْتُ࣌		استطعت	as much as I am able	is'taṭaʿtu
+15	11:88:28	w	وَمَا		وما	And not	wamā
+15	11:88:29	w	تَوْفِيقِيَ		توفيقي	(is) my success	tawfīqī
+15	11:88:30	w	إِلَّا		الا	except	illā
+15	11:88:31	w	بِاللَّهِ࣌		بالله	with Allah	bil-lahi
+15	11:88:32	w	عَلَيْهِ		عليه	Upon Him	ʿalayhi
+15	11:88:33	w	تَوَكَّلْتُ࣌		توكلت	I trust	tawakkaltu
+15	11:88:34	w	وَإِلَيْهِ		واليه	and to Him	wa-ilayhi
+15	11:88:35	w	أُنِيبُ࣌		انيب	I turn	unību
+15	11:88:36	e	۝٨٨				

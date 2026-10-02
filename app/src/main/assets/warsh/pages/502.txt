@@ -1,0 +1,137 @@
+1	45:32:1	w	وَبَدَا		وبدا	And (will) appear	wabadā
+1	45:32:2	w	لَهُمْ		لهم	to them	lahum
+1	45:32:3	w	سَيِّـَٔاتُ		سيات	(the) evil	sayyiātu
+1	45:32:4	w	مَا		ما	(of) what	mā
+1	45:32:5	w	عَمِلُواْ࣌		عملوا	they did	ʿamilū
+1	45:32:6	w	وَحَاقَ		وحاق	and (will) envelop	waḥāqa
+1	45:32:7	w	بِهِم		بهم	them	bihim
+1	45:32:8	w	مَّا		ما	what	mā
+1	45:32:9	w	كَانُواْ		كانوا	they used	kānū
+1	45:32:10	w	بِهِۦ		بهي	[at it]	bihi
+1	45:32:11	w	يَسْتَهْزِءُونَ࣌		يستهزون	(to) mock	yastahziūna
+1	45:32:12	e	۝٣٢				
+2	45:33:1	w	وَقِيلَ		وقيل	And it will be said	waqīla
+2	45:33:2	w	ࡰ۬لْيَوْمَ		اليوم	Today	l-yawma
+2	45:33:3	w	نَنسٜيٰكُمْ		ننسيكم	We forget you	nansākum
+2	45:33:4	w	كَمَا		كما	as	kamā
+2	45:33:5	w	نَسِيتُمْ		نسيتم	you forgot	nasītum
+2	45:33:6	w	لِقَآءَ		لقا	(the) meeting	liqāa
+2	45:33:7	w	يَوْمِكُمْ		يومكم	(of) this Day of yours	yawmikum
+2	45:33:8	w	هَٰذَا		هذا	(of) this Day of yours	hādhā
+2	45:33:9	w	وَمَأْوٜيٰكُمُ		وماويكم	and your abode	wamawākumu
+2	45:33:10	w	ࡲ۬لنَّارُ		النار	(is) the Fire	l-nāru
+3	45:33:11	w	وَمَا		وما	and not	wamā
+3	45:33:12	w	لَكُم		لكم	for you	lakum
+3	45:33:13	w	مِّن		من	any	min
+3	45:33:14	w	نَّٰصِرِينَ࣌		نصرين	helpers	nāṣirīna
+3	45:33:15	e	۝٣٣				
+3	45:34:1	w	ذَٰلِكُم		ذلكم	That	dhālikum
+3	45:34:2	w	بِأَنَّكُمُ		بانكم	(is) because you	bi-annakumu
+3	45:34:3	w	ࡲٜتَّخَذتُّمُۥٓ		اتخذتم	took	ittakhadhtum
+3	45:34:4	w	ءَايَٰتِ		ايت	(the) Verses	āyāti
+3	45:34:5	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+3	45:34:6	w	هُزُؤاࣰ		هزوا	(in) ridicule	huzuwan
+4	45:34:7	w	وَغَرَّتْكُمُ		وغرتكم	and deceived you	wagharratkumu
+4	45:34:8	w	ࡲ۬لْحَيَوٰةُ		الحيوة	the life	l-ḥayatu
+4	45:34:9	w	ࡲ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+4	45:34:10	w	فَالْيَوْمَ		فاليوم	So this Day	fal-yawma
+4	45:34:11	w	لَا		لا	not	lā
+4	45:34:12	w	يُخْرَجُونَ		يخرجون	they will be brought forth	yukh'rajūna
+4	45:34:13	w	مِنْهَا		منها	from it	min'hā
+4	45:34:14	w	وَلَا		ولا	and not	walā
+4	45:34:15	w	هُمْ		هم	they	hum
+4	45:34:16	w	يُسْتَعْتَبُونَ࣌		يستعتبون	will be asked to appease	yus'taʿtabūna
+4	45:34:17	e	۝٣٤				
+5	45:35:1	w	فَلِلهِ		فلله	Then for Allah	falillahi
+5	45:35:2	w	ࡴ۬لْحَمْدُ		الحمد	(is) all the praise	l-ḥamdu
+5	45:35:3	w	رَبِّ		رب	(the) Lord	rabbi
+5	45:35:4	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+5	45:35:5	w	وَرَبِّ		ورب	and (the) Lord	warabbi
+5	45:35:6	w	ࡴ۬لَارْضِ		الارض	(of) the earth	l-arḍi
+5	45:35:7	w	رَبِّ		رب	(the) lord	rabbi
+5	45:35:8	w	ࡴ۬لْعَٰلَمِينَ࣌		العلمين	(of) the worlds	l-ʿālamīna
+5	45:35:9	e	۝٣٥				
+6	45:36:1	w	وَلَهُ		وله	And for Him	walahu
+6	45:36:2	w	ࡲ۬لْكِبْرِيَآءُ		الكبريا	(is) the greatness	l-kib'riyāu
+6	45:36:3	w	فِے		في	in	fī
+6	45:36:4	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+6	45:36:5	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+6	45:36:6	w	وَهُوَ		وهو	and He	wahuwa
+6	45:36:7	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+6	45:36:8	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+6	45:36:9	e	۝٣٦				
+7	46:0:0	t					
+8	46:0:0	b					
+9	46:1:1	w	حٜمِٓ࣌		حم	Ha Meem	hha-meem
+9	46:1:2	w	تَنزِيلُ		تنزيل	(The) revelation	tanzīlu
+9	46:1:3	w	ࡲ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+9	46:1:4	w	مِنَ		من	(is) from	mina
+9	46:1:5	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+9	46:1:6	w	ࡴ۬لْعَزِيزِ		العزيز	the All-Mighty	l-ʿazīzi
+9	46:1:7	w	ࡴ۬لْحَكِيمِ࣌		الحكيم	the All-Wise	l-ḥakīmi
+9	46:1:8	e	۝١				
+9	46:2:1	w	مَا		ما	Not	mā
+9	46:2:2	w	خَلَقْنَا		خلقنا	We created	khalaqnā
+10	46:2:3	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+10	46:2:4	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+10	46:2:5	w	وَمَا		وما	and what	wamā
+10	46:2:6	w	بَيْنَهُمَآ		بينهما	(is) between both of them	baynahumā
+10	46:2:7	w	إِلَّا		الا	except	illā
+10	46:2:8	w	بِالْحَقِّ		بالحق	in truth	bil-ḥaqi
+10	46:2:9	w	وَأَجَلࣲ		واجل	and (for) a term	wa-ajalin
+10	46:2:10	w	مُّسَمّىࣰ࣌		مسمي	appointed	musamman
+11	46:2:11	w	وَالذِينَ		والذين	But those who	wa-alladhīna
+11	46:2:12	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+11	46:2:13	w	عَمَّآ		عما	from what	ʿammā
+11	46:2:14	w	أُنذِرُواْ		انذروا	they are warned	undhirū
+11	46:2:15	w	مُعْرِضُونَ࣌		معرضون	(are) turning away	muʿ'riḍūna
+11	46:2:16	e	۝٢				
+11	46:3:1	w	قُلَ		قل	Say	qul
+11	46:3:2	w	ࡰرَٰٓيْتُم		اريتم	Do you see	ara-aytum
+11	46:3:3	w	مَّا		ما	what	mā
+11	46:3:4	w	تَدْعُونَ		تدعون	you call	tadʿūna
+11	46:3:5	w	مِن		من	besides	min
+12	46:3:6	w	دُونِ		دون	besides	dūni
+12	46:3:7	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+12	46:3:8	w	أَرُونِے		اروني	Show me	arūnī
+12	46:3:9	w	مَاذَا		ماذا	what	mādhā
+12	46:3:10	w	خَلَقُواْ		خلقوا	they have created	khalaqū
+12	46:3:11	w	مِنَ		من	of	mina
+12	46:3:12	w	ࡰ۬لَارْضِ		الارض	the earth	l-arḍi
+12	46:3:13	w	أَمْ		ام	or	am
+12	46:3:14	w	لَهُمْ		لهم	for them	lahum
+12	46:3:15	w	شِرْكࣱ		شرك	(is) any share	shir'kun
+12	46:3:16	w	فِے		في	in	fī
+13	46:3:17	w	ࡴ۬لسَّمَٰوَٰتِ࣌		السموت	the heavens	l-samāwāti
+13	46:3:18	w	ࡴٜيتُونِے		ايتوني	Bring me	i'tūnī
+13	46:3:19	w	بِكِتَٰبࣲ		بكتب	a book	bikitābin
+13	46:3:20	w	مِّن		من	from	min
+13	46:3:21	w	قَبْلِ		قبل	before	qabli
+13	46:3:22	w	هَٰذَآ		هذا	this	hādhā
+13	46:3:23	w	أَوَ		او	or	aw
+13	46:3:24	w	ࡰثَٰرَةࣲ		اثرة	a trace	athāratin
+13	46:3:25	w	مِّنْ		من	of	min
+13	46:3:26	w	عِلْمٍ		علم	knowledge	ʿil'min
+13	46:3:27	w	ࡴن		ان	if	in
+14	46:3:28	w	كُنتُمْ		كنتم	you are	kuntum
+14	46:3:29	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+14	46:3:30	e	۝٣				
+14	46:4:1	w	وَمَنَ		ومن	And who	waman
+14	46:4:2	w	ࡰضَلُّ		اضل	(is) more astray	aḍallu
+14	46:4:3	w	مِمَّنْ		ممن	than (he) who	mimman
+14	46:4:4	w	يَّدْعُواْ		يدعوا	calls	yadʿū
+14	46:4:5	w	مِن		من	besides	min
+14	46:4:6	w	دُونِ		دون	besides	dūni
+14	46:4:7	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+14	46:4:8	w	مَن		من	who	man
+15	46:4:9	w	لَّا		لا	will not respond	lā
+15	46:4:10	w	يَسْتَجِيبُ		يستجيب	will not respond	yastajību
+15	46:4:11	w	لَهُۥٓ		له	to him	lahu
+15	46:4:12	w	إِلَىٰ		الي	until	ilā
+15	46:4:13	w	يَوْمِ		يوم	(the) Day	yawmi
+15	46:4:14	w	ࡴ۬لْقِيَٰمَةِ		القيمة	(of) Resurrection	l-qiyāmati
+15	46:4:15	w	وَهُمْ		وهم	and they	wahum
+15	46:4:16	w	عَن		عن	of	ʿan
+15	46:4:17	w	دُعَآئِهِمْ		دعايهم	their calls	duʿāihim
+15	46:4:18	w	غَٰفِلُونَ࣌		غفلون	(are) unaware	ghāfilūna
+15	46:4:19	e	۝٤				

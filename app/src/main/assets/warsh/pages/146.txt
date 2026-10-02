@@ -1,0 +1,120 @@
+1	6:139:1	w	وَقَالُواْ		وقالوا	And they say	waqālū
+1	6:139:2	w	هَٰذِهِۦٓ		هذهي	These	hādhihi
+1	6:139:3	w	أَنْعَٰمࣱ		انعم	(are) cattle	anʿāmun
+1	6:139:4	w	وَحَرْثٌ		وحرث	and crops	waḥarthun
+1	6:139:5	w	حِجْرࣱ		حجر	forbidden	ḥij'run
+1	6:139:6	w	لَّا		لا	no (one)	lā
+1	6:139:7	w	يَطْعَمُهَآ		يطعمها	can eat them	yaṭʿamuhā
+1	6:139:8	w	إِلَّا		الا	except	illā
+1	6:139:9	w	مَن		من	whom	man
+1	6:139:10	w	نَّشَآءُ		نشا	we will	nashāu
+2	6:139:11	w	بِزَعْمِهِمْ		بزعمهم	by their claim	bizaʿmihim
+2	6:139:12	w	وَأَنْعَٰمٌ		وانعم	And cattle	wa-anʿāmun
+2	6:139:13	w	حُرِّمَت		حرمت	forbidden	ḥurrimat
+2	6:139:14	w	ظُّهُورُهَا		ظهورها	(are) their backs	ẓuhūruhā
+2	6:139:15	w	وَأَنْعَٰمࣱ		وانعم	and cattle	wa-anʿāmun
+2	6:139:16	w	لَّا		لا	not	lā
+2	6:139:17	w	يَذْكُرُونَ		يذكرون	they mention	yadhkurūna
+3	6:139:18	w	ࡰٜسْمَ		اسم	(the) name	is'ma
+3	6:139:19	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+3	6:139:20	w	عَلَيْهَا		عليها	on it	ʿalayhā
+3	6:139:21	w	ࡰٜفْتِرَآءً		افترا	(as) an invention	if'tirāan
+3	6:139:22	w	عَلَيْهِ࣌		عليه	against Him	ʿalayhi
+3	6:139:23	w	سَيَجْزِيهِم		سيجزيهم	He will recompense them	sayajzīhim
+3	6:139:24	w	بِمَا		بما	for what	bimā
+3	6:139:25	w	كَانُواْ		كانوا	they used to	kānū
+4	6:139:26	w	يَفْتَرُونَ࣌		يفترون	invent	yaftarūna
+4	6:139:27	e	۝١٣٩				
+4	6:140:1	w	وَقَالُواْ		وقالوا	And they say	waqālū
+4	6:140:2	w	مَا		ما	What	mā
+4	6:140:3	w	فِے		في	(is) in	fī
+4	6:140:4	w	بُطُونِ		بطون	(the) wombs	buṭūni
+4	6:140:5	w	هَٰذِهِ		هذه	(of) these	hādhihi
+4	6:140:6	w	ࡴ۬لَانْعَٰمِ		الانعم	cattle	l-anʿāmi
+4	6:140:7	w	خَالِصَةࣱ		خالصة	(is) exclusively	khāliṣatun
+5	6:140:8	w	لِّذُكُورِنَا		لذكورنا	for our males	lidhukūrinā
+5	6:140:9	w	وَمُحَرَّمٌ		ومحرم	and forbidden	wamuḥarramun
+5	6:140:10	w	عَلَىٰٓ		علي	on	ʿalā
+5	6:140:11	w	أَزْوَٰجِنَا࣌		ازوجنا	our spouses	azwājinā
+5	6:140:12	w	وَإِنْ		وان	But if	wa-in
+5	6:140:13	w	يَّكُن		يكن	is	yakun
+5	6:140:14	w	مَّيْتَةࣰ		ميتة	(born) dead	maytatan
+6	6:140:15	w	فَهُمْ		فهم	then they (all)	fahum
+6	6:140:16	w	فِيهِ		فيه	in it	fīhi
+6	6:140:17	w	شُرَكَآءُ࣌		شركا	(are) partners	shurakāu
+6	6:140:18	w	سَيَجْزِيهِمْ		سيجزيهم	He will recompense them	sayajzīhim
+6	6:140:19	w	وَصْفَهُمُۥٓ࣌		وصفهم	(for) their attribution	waṣfahum
+6	6:140:20	w	إِنَّهُۥ		انه	Indeed, He	innahu
+6	6:140:21	w	حَكِيمٌ		حكيم	(is) All-Wise	ḥakīmun
+7	6:140:22	w	عَلِيمࣱ࣌		عليم	All-Knowing	ʿalīmun
+7	6:140:23	e	۝١٤٠				
+7	6:141:1	w	۞ قَدْ		قد	Certainly	qad
+7	6:141:2	w	خَسِرَ		خسر	(are) lost	khasira
+7	6:141:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	6:141:4	w	قَتَلُوٓاْ		قتلوا	killed	qatalū
+7	6:141:5	w	أَوْلَٰدَهُمْ		اولدهم	their children	awlādahum
+7	6:141:6	w	سَفَهاَۢ		سفها	(in) foolishness	safahan
+7	6:141:7	w	بِغَيْرِ		بغير	without	bighayri
+8	6:141:8	w	عِلْمࣲ		علم	knowledge	ʿil'min
+8	6:141:9	w	وَحَرَّمُواْ		وحرموا	and forbid	waḥarramū
+8	6:141:10	w	مَا		ما	what	mā
+8	6:141:11	w	رَزَقَهُمُ		رزقهم	(bas been) provided (to) them	razaqahumu
+8	6:141:12	w	ࡲ۬للَّهُ		الله	(by) Allah	l-lahu
+8	6:141:13	w	ࡲٜفْتِرَآءً		افترا	inventing (lies)	if'tirāan
+8	6:141:14	w	عَلَى		علي	against	ʿalā
+8	6:141:15	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+8	6:141:16	w	قَد		قد	Certainly	qad
+8	6:141:17	w	ضَّلُّواْ		ضلوا	they have gone astray	ḍallū
+9	6:141:18	w	وَمَا		وما	and not	wamā
+9	6:141:19	w	كَانُواْ		كانوا	they are	kānū
+9	6:141:20	w	مُهْتَدِينَ࣌		مهتدين	guided-ones	muh'tadīna
+9	6:141:21	e	۝١٤١				
+9	6:142:1	w	وَهُوَ		وهو	And He	wahuwa
+9	6:142:2	w	ࡰ۬لذِےٓ		الذي	(is) the One Who	alladhī
+9	6:142:3	w	أَنشَأَ		انشا	produced	ansha-a
+9	6:142:4	w	جَنَّٰتࣲ		جنت	gardens	jannātin
+10	6:142:5	w	مَّعْرُوشَٰتࣲ		معروشت	trellised	maʿrūshātin
+10	6:142:6	w	وَغَيْرَ		وغير	and other than	waghayra
+10	6:142:7	w	مَعْرُوشَٰتࣲ		معروشت	trellised	maʿrūshātin
+10	6:142:8	w	وَالنَّخْلَ		والنخل	and the date-palm	wal-nakhla
+10	6:142:9	w	وَالزَّرْعَ		والزرع	and the crops	wal-zarʿa
+10	6:142:10	w	مُخْتَلِفاً		مختلفا	diverse	mukh'talifan
+11	6:142:11	w	ࡳكْلُهُۥ		اكله	(are) its taste	ukuluhu
+11	6:142:12	w	وَالزَّيْتُونَ		والزيتون	and the olives	wal-zaytūna
+11	6:142:13	w	وَالرُّمَّانَ		والرمان	and the pomegranates	wal-rumāna
+11	6:142:14	w	مُتَشَٰبِهاࣰ		متشبها	similar	mutashābihan
+11	6:142:15	w	وَغَيْرَ		وغير	and other than	waghayra
+11	6:142:16	w	مُتَشَٰبِهࣲ࣌		متشبه	similar	mutashābihin
+12	6:142:17	w	كُلُواْ		كلوا	Eat	kulū
+12	6:142:18	w	مِن		من	of	min
+12	6:142:19	w	ثَمَرِهِۦٓ		ثمرهي	its fruit	thamarihi
+12	6:142:20	w	إِذَآ		اذا	when	idhā
+12	6:142:21	w	أَثْمَرَ		اثمر	it bears fruit	athmara
+12	6:142:22	w	وَءَاتُواْ		واتوا	and give	waātū
+12	6:142:23	w	حَقَّهُۥ		حقه	its due	ḥaqqahu
+12	6:142:24	w	يَوْمَ		يوم	(on the) day	yawma
+12	6:142:25	w	حِصَادِهِۦ࣌		حصادهي	(of) its harvest	ḥaṣādihi
+13	6:142:26	w	وَلَا		ولا	And (do) not	walā
+13	6:142:27	w	تُسْرِفُوٓاْ࣌		تسرفوا	(be) extravagant	tus'rifū
+13	6:142:28	w	إِنَّهُۥ		انه	Indeed, He	innahu
+13	6:142:29	w	لَا		لا	(does) not	lā
+13	6:142:30	w	يُحِبُّ		يحب	love	yuḥibbu
+13	6:142:31	w	ࡲ۬لْمُسْرِفِينَ࣌		المسرفين	the ones who are extravagant	l-mus'rifīna
+13	6:142:32	e	۝١٤٢				
+13	6:143:1	w	وَمِنَ		ومن	And of	wamina
+13	6:143:2	w	ࡰ۬لَانْعَٰمِ		الانعم	the cattle	l-anʿāmi
+14	6:143:3	w	حَمُولَةࣰ		حمولة	(are some for) burden	ḥamūlatan
+14	6:143:4	w	وَفَرْشاࣰ࣌		وفرشا	and (some for) meat	wafarshan
+14	6:143:5	w	كُلُواْ		كلوا	Eat	kulū
+14	6:143:6	w	مِمَّا		مما	of what	mimmā
+14	6:143:7	w	رَزَقَكُمُ		رزقكم	(has been) provided (to) you	razaqakumu
+14	6:143:8	w	ࡲ۬للَّهُ࣌		الله	(by) Allah	l-lahu
+14	6:143:9	w	وَلَا		ولا	and (do) not	walā
+14	6:143:10	w	تَتَّبِعُواْ		تتبعوا	follow	tattabiʿū
+15	6:143:11	w	خُطْوَٰتِ		خطوت	(the) footsteps	khuṭuwāti
+15	6:143:12	w	ࡴ۬لشَّيْطَٰنِ࣌		الشيطن	(of) Shaitaan	l-shayṭāni
+15	6:143:13	w	إِنَّهُۥ		انه	Indeed, he	innahu
+15	6:143:14	w	لَكُمْ		لكم	(is) to you	lakum
+15	6:143:15	w	عَدُوࣱّ		عدو	an enemy	ʿaduwwun
+15	6:143:16	w	مُّبِينࣱ࣌		مبين	open	mubīnun
+15	6:143:17	e	۝١٤٣				

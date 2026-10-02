@@ -1,0 +1,143 @@
+1	18:28:1	w	وَاصْبِرْ		واصبر	And be patient	wa-iṣ'bir
+1	18:28:2	w	نَفْسَكَ		نفسك	yourself	nafsaka
+1	18:28:3	w	مَعَ		مع	with	maʿa
+1	18:28:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	18:28:5	w	يَدْعُونَ		يدعون	call	yadʿūna
+1	18:28:6	w	رَبَّهُم		ربهم	their Lord	rabbahum
+1	18:28:7	w	بِالْغَدَوٰةِ		بالغدوة	in the morning	bil-ghadati
+1	18:28:8	w	وَالْعَشِيِّ		والعشي	and the evening	wal-ʿashiyi
+2	18:28:9	w	يُرِيدُونَ		يريدون	desiring	yurīdūna
+2	18:28:10	w	وَجْهَهُۥ࣌		وجهه	His Face	wajhahu
+2	18:28:11	w	وَلَا		ولا	And (let) not	walā
+2	18:28:12	w	تَعْدُ		تعد	pass beyond	taʿdu
+2	18:28:13	w	عَيْنَٰكَ		عينك	your eyes	ʿaynāka
+2	18:28:14	w	عَنْهُمْ		عنهم	over them	ʿanhum
+2	18:28:15	w	تُرِيدُ		تريد	desiring	turīdu
+2	18:28:16	w	زِينَةَ		زينة	adornment	zīnata
+2	18:28:17	w	ࡰ۬لْحَيَوٰةِ		الحيوة	(of) the life	l-ḥayati
+3	18:28:18	w	ࡴ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+3	18:28:19	w	وَلَا		ولا	and (do) not	walā
+3	18:28:20	w	تُطِعْ		تطع	obey	tuṭiʿ
+3	18:28:21	w	مَنَ		من	whom	man
+3	18:28:22	w	ࡰغْفَلْنَا		اغفلنا	We have made heedless	aghfalnā
+3	18:28:23	w	قَلْبَهُۥ		قلبه	his heart	qalbahu
+3	18:28:24	w	عَن		عن	of	ʿan
+3	18:28:25	w	ذِكْرِنَا		ذكرنا	Our remembrance	dhik'rinā
+3	18:28:26	w	وَاتَّبَعَ		واتبع	and follows	wa-ittabaʿa
+3	18:28:27	w	هَوٜيٰهُ		هويه	his desires	hawāhu
+3	18:28:28	w	وَكَانَ		وكان	and is	wakāna
+4	18:28:29	w	أَمْرُهُۥ		امره	his affair	amruhu
+4	18:28:30	w	فُرُطاࣰ࣌		فرطا	(in) excess	furuṭan
+4	18:28:31	e	۝٢٨				
+4	18:29:1	w	وَقُلِ		وقل	And say	waquli
+4	18:29:2	w	ࡴ۬لْحَقُّ		الحق	The truth	l-ḥaqu
+4	18:29:3	w	مِن		من	(is) from	min
+4	18:29:4	w	رَّبِّكُمْ		ربكم	your Lord	rabbikum
+4	18:29:5	w	فَمَن		فمن	so whoever	faman
+4	18:29:6	w	شَآءَ		شا	wills	shāa
+4	18:29:7	w	فَلْيُومِنْ		فليومن	let him believe	falyu'min
+4	18:29:8	w	وَّمَن		ومن	and whoever	waman
+5	18:29:9	w	شَآءَ		شا	wills	shāa
+5	18:29:10	w	فَلْيَكْفُرِ࣌		فليكفر	let him disbelieve	falyakfur
+5	18:29:11	w	ࡴنَّآ		انا	Indeed, We	innā
+5	18:29:12	w	أَعْتَدْنَا		اعتدنا	have prepared	aʿtadnā
+5	18:29:13	w	لِلظَّٰلِمِينَ		للظلمين	for the wrongdoers	lilẓẓālimīna
+5	18:29:14	w	نَاراً		نارا	a Fire	nāran
+5	18:29:15	w	ࡰحَاطَ		احاط	will surround	aḥāṭa
+5	18:29:16	w	بِهِمْ		بهم	them	bihim
+5	18:29:17	w	سُرَادِقُهَا࣌		سرادقها	its walls	surādiquhā
+6	18:29:18	w	وَإِنْ		وان	And if	wa-in
+6	18:29:19	w	يَّسْتَغِيثُواْ		يستغيثوا	they call for relief	yastaghīthū
+6	18:29:20	w	يُغَاثُواْ		يغاثوا	they will be relieved	yughāthū
+6	18:29:21	w	بِمَآءࣲ		بما	with water	bimāin
+6	18:29:22	w	كَالْمُهْلِ		كالمهل	like molten brass	kal-muh'li
+6	18:29:23	w	يَشْوِے		يشوي	(which) scalds	yashwī
+6	18:29:24	w	ࡴ۬لْوُجُوهَ࣌		الوجوه	the faces	l-wujūha
+6	18:29:25	w	بِيسَ		بيس	Wretched	bi'sa
+7	18:29:26	w	ࡰ۬لشَّرَابُ࣌		الشراب	(is) the drink	l-sharābu
+7	18:29:27	w	وَسَآءَتْ		وسات	and evil	wasāat
+7	18:29:28	w	مُرْتَفَقاً࣌		مرتفقا	(is) the resting place	mur'tafaqan
+7	18:29:29	e	۝٢٩				
+7	18:30:1	w	۞ ࡴنَّ		ان	Indeed	inna
+7	18:30:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	18:30:3	w	ءَامَنُواْ		امنوا	believed	āmanū
+7	18:30:4	w	وَعَمِلُواْ		وعملوا	and did	waʿamilū
+7	18:30:5	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	the good deeds	l-ṣāliḥāti
+8	18:30:6	w	إِنَّا		انا	indeed, We	innā
+8	18:30:7	w	لَا		لا	will not let go waste	lā
+8	18:30:8	w	نُضِيعُ		نضيع	will not let go waste	nuḍīʿu
+8	18:30:9	w	أَجْرَ		اجر	(the) reward	ajra
+8	18:30:10	w	مَنَ		من	(of one) who	man
+8	18:30:11	w	ࡰحْسَنَ		احسن	does good	aḥsana
+8	18:30:12	w	عَمَلاً࣌		عملا	deeds	ʿamalan
+8	18:30:13	e	۝٣٠				
+8	18:31:1	w	ࡳوْلَٰٓئِكَ		اوليك	Those	ulāika
+8	18:31:2	w	لَهُمْ		لهم	for them	lahum
+8	18:31:3	w	جَنَّٰتُ		جنت	(are) Gardens	jannātu
+9	18:31:4	w	عَدْنࣲ		عدن	of Eden	ʿadnin
+9	18:31:5	w	تَجْرِے		تجري	flows	tajrī
+9	18:31:6	w	مِن		من	from	min
+9	18:31:7	w	تَحْتِهِمُ		تحتهم	underneath them	taḥtihimu
+9	18:31:8	w	ࡲ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+9	18:31:9	w	يُحَلَّوْنَ		يحلون	They will be adorned	yuḥallawna
+9	18:31:10	w	فِيهَا		فيها	therein	fīhā
+9	18:31:11	w	مِنَ		من	[of] (with)	min
+9	18:31:12	w	ࡰسَاوِرَ		اساور	bracelets	asāwira
+9	18:31:13	w	مِن		من	of	min
+9	18:31:14	w	ذَهَبࣲ		ذهب	gold	dhahabin
+10	18:31:15	w	وَيَلْبَسُونَ		ويلبسون	and will wear	wayalbasūna
+10	18:31:16	w	ثِيَاباً		ثيابا	garments	thiyāban
+10	18:31:17	w	خُضْراࣰ		خضرا	green	khuḍ'ran
+10	18:31:18	w	مِّن		من	of	min
+10	18:31:19	w	سُندُسࣲ		سندس	fine silk	sundusin
+10	18:31:20	w	وَإِسْتَبْرَقࣲ		واستبرق	and heavy brocade	wa-is'tabraqin
+10	18:31:21	w	مُّتَّكِـِٕينَ		متكين	reclining	muttakiīna
+10	18:31:22	w	فِيهَا		فيها	therein	fīhā
+11	18:31:23	w	عَلَى		علي	on	ʿalā
+11	18:31:24	w	ࡰ۬لَارَآئِكِ࣌		الارايك	adorned couches	l-arāiki
+11	18:31:25	w	نِعْمَ		نعم	Excellent	niʿ'ma
+11	18:31:26	w	ࡰ۬لثَّوَابُ࣌		الثواب	(is) the reward	l-thawābu
+11	18:31:27	w	وَحَسُنَتْ		وحسنت	and good	waḥasunat
+11	18:31:28	w	مُرْتَفَقاࣰ࣌		مرتفقا	(is) the resting place	mur'tafaqan
+11	18:31:29	e	۝٣١				
+11	18:32:1	w	وَاضْرِبْ		واضرب	And set forth	wa-iḍ'rib
+11	18:32:2	w	لَهُم		لهم	to them	lahum
+12	18:32:3	w	مَّثَلاࣰ		مثلا	the example	mathalan
+12	18:32:4	w	رَّجُلَيْنِ		رجلين	of two men:	rajulayni
+12	18:32:5	w	جَعَلْنَا		جعلنا	We provided	jaʿalnā
+12	18:32:6	w	لِأَحَدِهِمَا		لاحدهما	for one of them	li-aḥadihimā
+12	18:32:7	w	جَنَّتَيْنِ		جنتين	two gardens	jannatayni
+12	18:32:8	w	مِنَ		من	of	min
+12	18:32:9	w	ࡰعْنَٰبࣲ		اعنب	grapes	aʿnābin
+12	18:32:10	w	وَحَفَفْنَٰهُمَا		وحففنهما	and We bordered them	waḥafafnāhumā
+13	18:32:11	w	بِنَخْلࣲ		بنخل	with date-palms	binakhlin
+13	18:32:12	w	وَجَعَلْنَا		وجعلنا	and We placed	wajaʿalnā
+13	18:32:13	w	بَيْنَهُمَا		بينهما	between both of them	baynahumā
+13	18:32:14	w	زَرْعاࣰ࣌		زرعا	crops	zarʿan
+13	18:32:15	e	۝٣٢				
+13	18:33:1	w	كِلْتَا		كلتا	Each	kil'tā
+13	18:33:2	w	ࡰ۬لْجَنَّتَيْنِ		الجنتين	(of) the two gardens	l-janatayni
+13	18:33:3	w	ءَاتَتُ		اتت	brought forth	ātat
+13	18:33:4	w	ࡳكْلَهَا		اكلها	its produce	ukulahā
+13	18:33:5	w	وَلَمْ		ولم	and not	walam
+14	18:33:6	w	تَظْلِم		تظلم	did wrong	taẓlim
+14	18:33:7	w	مِّنْهُ		منه	of it	min'hu
+14	18:33:8	w	شَيْـٔاࣰ࣌		شيا	anything	shayan
+14	18:33:9	w	وَفَجَّرْنَا		وفجرنا	And We caused to gush forth	wafajjarnā
+14	18:33:10	w	خِلَٰلَهُمَا		خللهما	within them	khilālahumā
+14	18:33:11	w	نَهَراࣰ		نهرا	a river	naharan
+14	18:33:12	e	۝٣٣				
+14	18:34:1	w	وَكَانَ		وكان	And was	wakāna
+14	18:34:2	w	لَهُۥ		له	for him	lahu
+14	18:34:3	w	ثُمُرࣱ࣌		ثمر	fruit	thamarun
+14	18:34:4	w	فَقَالَ		فقال	so he said	faqāla
+15	18:34:5	w	لِصَٰحِبِهِۦ		لصحبهي	to his companion	liṣāḥibihi
+15	18:34:6	w	وَهُوَ		وهو	while he	wahuwa
+15	18:34:7	w	يُحَاوِرُهُۥٓ		يحاوره	(was) talking with him	yuḥāwiruhu
+15	18:34:8	w	أَنَآ		انا	I am	anā
+15	18:34:9	w	أَكْثَرُ		اكثر	greater	aktharu
+15	18:34:10	w	مِنكَ		منك	than you	minka
+15	18:34:11	w	مَالاࣰ		مالا	(in) wealth	mālan
+15	18:34:12	w	وَأَعَزُّ		واعز	and stronger	wa-aʿazzu
+15	18:34:13	w	نَفَراࣰ࣌		نفرا	(in) men	nafaran
+15	18:34:14	e	۝٣٤				

@@ -54,7 +54,7 @@ sealed interface PageLine {
 /** A page of the Madinah mushaf as printed, 15 lines (8 on the first two). */
 data class MushafPage(val number: Int, val lines: List<PageLine>) {
     val words: List<Word> get() = lines.flatMap { (it as? PageLine.Words)?.words.orEmpty() }
-    val ayat: List<AyahKey> get() = words.map { it.key }.distinct()
+    val ayat: List<AyahKey> get() = words.map { it.key }.filter { it.ayah > 0 }.distinct()
 }
 
 @Serializable

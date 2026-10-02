@@ -1,0 +1,147 @@
+1	4:0:0	t					
+2	4:0:0	b					
+3	4:1:1	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+3	4:1:2	w	ࡰ۬لنَّاسُ		الناس	mankind	l-nāsu
+3	4:1:3	w	ࡲٜتَّقُواْ		اتقوا	Fear	ittaqū
+3	4:1:4	w	رَبَّكُمُ		ربكم	your Lord	rabbakumu
+3	4:1:5	w	ࡲ۬لذِے		الذي	the One Who	alladhī
+3	4:1:6	w	خَلَقَكُم		خلقكم	created you	khalaqakum
+3	4:1:7	w	مِّن		من	from	min
+3	4:1:8	w	نَّفْسࣲ		نفس	a soul	nafsin
+3	4:1:9	w	وَٰحِدَةࣲ		وحدة	single	wāḥidatin
+3	4:1:10	w	وَخَلَقَ		وخلق	and created	wakhalaqa
+3	4:1:11	w	مِنْهَا		منها	from it	min'hā
+4	4:1:12	w	زَوْجَهَا		زوجها	its mate	zawjahā
+4	4:1:13	w	وَبَثَّ		وبث	and dispersed	wabatha
+4	4:1:14	w	مِنْهُمَا		منهما	from both of them	min'humā
+4	4:1:15	w	رِجَالاࣰ		رجالا	men	rijālan
+4	4:1:16	w	كَثِيراࣰ		كثيرا	many	kathīran
+4	4:1:17	w	وَنِسَآءࣰ࣌		ونسا	and women	wanisāan
+4	4:1:18	w	وَاتَّقُواْ		واتقوا	And fear	wa-ittaqū
+4	4:1:19	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+4	4:1:20	w	ࡰ۬لذِے		الذي	(through) Whom	alladhī
+4	4:1:21	w	تَسَّآءَلُونَ		تسالون	you ask	tasāalūna
+4	4:1:22	w	بِهِۦ		بهي	[with it]	bihi
+5	4:1:23	w	وَالَارْحَامَ࣌		والارحام	and the wombs	wal-arḥāma
+5	4:1:24	w	إِنَّ		ان	Indeed	inna
+5	4:1:25	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	4:1:26	w	كَانَ		كان	is	kāna
+5	4:1:27	w	عَلَيْكُمْ		عليكم	over you	ʿalaykum
+5	4:1:28	w	رَقِيباࣰ࣌		رقيبا	Ever-Watchful	raqīban
+5	4:1:29	e	۝١				
+5	4:2:1	w	وَءَاتُواْ		واتوا	And give	waātū
+5	4:2:2	w	ࡲ۬لْيَتَٰمٜىٰٓ		اليتمي	(to) the orphans	l-yatāmā
+5	4:2:3	w	أَمْوَٰلَهُمْ࣌		امولهم	their wealth	amwālahum
+5	4:2:4	w	وَلَا		ولا	and (do) not	walā
+5	4:2:5	w	تَتَبَدَّلُواْ		تتبدلوا	exchange	tatabaddalū
+6	4:2:6	w	ࡲ۬لْخَبِيثَ		الخبيث	the bad	l-khabītha
+6	4:2:7	w	بِالطَّيِّبِ࣌		بالطيب	with the good	bil-ṭayibi
+6	4:2:8	w	وَلَا		ولا	and (do) not	walā
+6	4:2:9	w	تَاكُلُوٓاْ		تاكلوا	consume	takulū
+6	4:2:10	w	أَمْوَٰلَهُمُۥٓ		امولهم	their wealth	amwālahum
+6	4:2:11	w	إِلَىٰٓ		الي	with	ilā
+6	4:2:12	w	أَمْوَٰلِكُمُۥٓ࣌		امولكم	your wealth	amwālikum
+6	4:2:13	w	إِنَّهُۥ		انه	Indeed, it	innahu
+6	4:2:14	w	كَانَ		كان	is	kāna
+6	4:2:15	w	حُوباࣰ		حوبا	a sin	ḥūban
+6	4:2:16	w	كَبِيراࣰ࣌		كبيرا	great	kabīran
+6	4:2:17	e	۝٢				
+7	4:3:1	w	وَإِنْ		وان	And if	wa-in
+7	4:3:2	w	خِفْتُمُۥٓ		خفتم	you fear	khif'tum
+7	4:3:3	w	أَلَّا		الا	that not	allā
+7	4:3:4	w	تُقْسِطُواْ		تقسطوا	you will be able to do justice	tuq'siṭū
+7	4:3:5	w	فِے		في	with	fī
+7	4:3:6	w	ࡴ۬لْيَتَٰمٜىٰ		اليتمي	the orphans	l-yatāmā
+7	4:3:7	w	فَانكِحُواْ		فانكحوا	then marry	fa-inkiḥū
+7	4:3:8	w	مَا		ما	what	mā
+7	4:3:9	w	طَابَ		طاب	seems suitable	ṭāba
+7	4:3:10	w	لَكُم		لكم	to you	lakum
+7	4:3:11	w	مِّنَ		من	from	mina
+7	4:3:12	w	ࡰ۬لنِّسَآءِ		النسا	the women	l-nisāi
+8	4:3:13	w	مَثْنٜىٰ		مثني	two	mathnā
+8	4:3:14	w	وَثُلَٰثَ		وثلث	or three	wathulātha
+8	4:3:15	w	وَرُبَٰعَ࣌		وربع	or four	warubāʿa
+8	4:3:16	w	فَإِنْ		فان	But if	fa-in
+8	4:3:17	w	خِفْتُمُۥٓ		خفتم	you fear	khif'tum
+8	4:3:18	w	أَلَّا		الا	that not	allā
+8	4:3:19	w	تَعْدِلُواْ		تعدلوا	you can do justice	taʿdilū
+8	4:3:20	w	فَوَٰحِدَةً		فوحدة	then (marry) one	fawāḥidatan
+8	4:3:21	w	ࡰوْ		او	or	aw
+8	4:3:22	w	مَا		ما	what	mā
+8	4:3:23	w	مَلَكَتَ		ملكت	possesses	malakat
+8	4:3:24	w	ࡰيْمَٰنُكُمْ࣌		ايمنكم	your right hand	aymānukum
+9	4:3:25	w	ذَٰلِكَ		ذلك	That	dhālika
+9	4:3:26	w	أَدْنٜىٰٓ		ادني	(is) more appropriate	adnā
+9	4:3:27	w	أَلَّا		الا	that (may) not	allā
+9	4:3:28	w	تَعُولُواْ࣌		تعولوا	you oppress	taʿūlū
+9	4:3:29	e	۝٣				
+9	4:4:1	w	وَءَاتُواْ		واتوا	And give	waātū
+9	4:4:2	w	ࡲ۬لنِّسَآءَ		النسا	the women	l-nisāa
+9	4:4:3	w	صَدُقَٰتِهِنَّ		صدقتهن	their dower	ṣaduqātihinna
+9	4:4:4	w	نِحْلَةࣰ࣌		نحلة	graciously	niḥ'latan
+9	4:4:5	w	فَإِن		فان	But if	fa-in
+9	4:4:6	w	طِبْنَ		طبن	they remit	ṭib'na
+9	4:4:7	w	لَكُمْ		لكم	to you	lakum
+10	4:4:8	w	عَن		عن	of	ʿan
+10	4:4:9	w	شَےْءࣲ		شي	anything	shayin
+10	4:4:10	w	مِّنْهُ		منه	of it	min'hu
+10	4:4:11	w	نَفْساࣰ		نفسا	(on their) own	nafsan
+10	4:4:12	w	فَكُلُوهُ࣌		فكلوه	then eat it	fakulūhu
+10	4:4:13	w	هَنِيٓـٔاࣰ		هنيا	(in) satisfaction	hanīan
+10	4:4:14	w	مَّرِيٓـٔاࣰ࣌		مريا	(and) ease	marīan
+10	4:4:15	e	۝٤				
+10	4:5:1	w	وَلَا		ولا	And (do) not	walā
+10	4:5:2	w	تُوتُواْ		توتوا	give	tu'tū
+10	4:5:3	w	ࡲ۬لسُّفَهَآءَ		السفها	the foolish	l-sufahāa
+10	4:5:4	w	امْوَٰلَكُمُ		امولكم	your wealth	amwālakumu
+11	4:5:5	w	ࡲ۬لتِے		التي	which	allatī
+11	4:5:6	w	جَعَلَ		جعل	(was) made	jaʿala
+11	4:5:7	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+11	4:5:8	w	لَكُمْ		لكم	for you	lakum
+11	4:5:9	w	قِيَماࣰ࣌		قيما	a means of support	qiyāman
+11	4:5:10	w	وَارْزُقُوهُمْ		وارزقوهم	(but) provide (for) them	wa-ur'zuqūhum
+11	4:5:11	w	فِيهَا		فيها	with it	fīhā
+11	4:5:12	w	وَاكْسُوهُمْ		واكسوهم	and clothe them	wa-ik'sūhum
+11	4:5:13	w	وَقُولُواْ		وقولوا	and speak	waqūlū
+11	4:5:14	w	لَهُمْ		لهم	to them	lahum
+11	4:5:15	w	قَوْلاࣰ		قولا	words	qawlan
+12	4:5:16	w	مَّعْرُوفاࣰ࣌		معروفا	(of) kindness	maʿrūfan
+12	4:5:17	e	۝٥				
+12	4:6:1	w	۞ وَابْتَلُواْ		وابتلوا	And test	wa-ib'talū
+12	4:6:2	w	ࡲ۬لْيَتَٰمٜىٰ		اليتمي	the orphans	l-yatāmā
+12	4:6:3	w	حَتَّىٰٓ		حتي	until	ḥattā
+12	4:6:4	w	إِذَا		اذا	[when]	idhā
+12	4:6:5	w	بَلَغُواْ		بلغوا	they reach[ed]	balaghū
+12	4:6:6	w	ࡲ۬لنِّكَاحَ		النكاح	(the age of) marriage	l-nikāḥa
+12	4:6:7	w	فَإِنَ		فان	then if	fa-in
+12	4:6:8	w	اٰنَسْتُم		انستم	you perceive	ānastum
+12	4:6:9	w	مِّنْهُمْ		منهم	in them	min'hum
+13	4:6:10	w	رُشْداࣰ		رشدا	sound judgement	rush'dan
+13	4:6:11	w	فَادْفَعُوٓاْ		فادفعوا	then deliver	fa-id'faʿū
+13	4:6:12	w	إِلَيْهِمُۥٓ		اليهم	to them	ilayhim
+13	4:6:13	w	أَمْوَٰلَهُمْ		امولهم	their wealth	amwālahum
+13	4:6:14	w	وَلَا		ولا	And (do) not	walā
+13	4:6:15	w	تَاكُلُوهَآ		تاكلوها	eat it	takulūhā
+13	4:6:16	w	إِسْرَافاࣰ		اسرافا	extravagantly	is'rāfan
+13	4:6:17	w	وَبِدَاراً		وبدارا	and hastily	wabidāran
+13	4:6:18	w	ࡰنْ		ان	(fearing) that	an
+13	4:6:19	w	يَّكْبَرُواْ࣌		يكبروا	they will grow up	yakbarū
+14	4:6:20	w	وَمَن		ومن	And whoever	waman
+14	4:6:21	w	كَانَ		كان	is	kāna
+14	4:6:22	w	غَنِيّاࣰ		غنيا	rich	ghaniyyan
+14	4:6:23	w	فَلْيَسْتَعْفِفْ࣌		فليستعفف	then he should refrain	falyastaʿfif
+14	4:6:24	w	وَمَن		ومن	and whoever	waman
+14	4:6:25	w	كَانَ		كان	is	kāna
+14	4:6:26	w	فَقِيراࣰ		فقيرا	poor	faqīran
+14	4:6:27	w	فَلْيَاكُلْ		فلياكل	then let him eat (of it)	falyakul
+14	4:6:28	w	بِالْمَعْرُوفِ࣌		بالمعروف	in a fair manner	bil-maʿrūfi
+15	4:6:29	w	فَإِذَا		فاذا	Then when	fa-idhā
+15	4:6:30	w	دَفَعْتُمُۥٓ		دفعتم	you deliver	dafaʿtum
+15	4:6:31	w	إِلَيْهِمُۥٓ		اليهم	to them	ilayhim
+15	4:6:32	w	أَمْوَٰلَهُمْ		امولهم	their wealth	amwālahum
+15	4:6:33	w	فَأَشْهِدُواْ		فاشهدوا	then take witnesses	fa-ashhidū
+15	4:6:34	w	عَلَيْهِمْ࣌		عليهم	on them	ʿalayhim
+15	4:6:35	w	وَكَفٜىٰ		وكفي	And is sufficient	wakafā
+15	4:6:36	w	بِاللَّهِ		بالله	Allah	bil-lahi
+15	4:6:37	w	حَسِيباࣰ࣌		حسيبا	(as) a Reckoner	ḥasīban
+15	4:6:38	e	۝٦				

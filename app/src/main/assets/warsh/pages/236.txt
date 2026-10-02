@@ -1,0 +1,143 @@
+1	12:5:1	w	قَالَ		قال	He said	qāla
+1	12:5:2	w	يَٰبُنَيِّ		يبني	O my son	yābunayya
+1	12:5:3	w	لَا		لا	(Do) not	lā
+1	12:5:4	w	تَقْصُصْ		تقصص	relate	taqṣuṣ
+1	12:5:5	w	رُءْيٜاكَ		رياك	your vision	ru'yāka
+1	12:5:6	w	عَلَىٰٓ		علي	to	ʿalā
+1	12:5:7	w	إِخْوَتِكَ		اخوتك	your brothers	ikh'watika
+1	12:5:8	w	فَيَكِيدُواْ		فيكيدوا	lest they plan	fayakīdū
+1	12:5:9	w	لَكَ		لك	against you	laka
+2	12:5:10	w	كَيْداً࣌		كيدا	a plot	kaydan
+2	12:5:11	w	ࡴنَّ		ان	Indeed	inna
+2	12:5:12	w	ࡰ۬لشَّيْطَٰنَ		الشيطن	the Shaitaan	l-shayṭāna
+2	12:5:13	w	لِلِانسَٰنِ		للانسن	(is) to man	lil'insāni
+2	12:5:14	w	عَدُوࣱّ		عدو	an enemy	ʿaduwwun
+2	12:5:15	w	مُّبِينࣱ࣌		مبين	open	mubīnun
+2	12:5:16	e	۝٥				
+2	12:6:1	w	وَكَذَٰلِكَ		وكذلك	And thus	wakadhālika
+2	12:6:2	w	يَجْتَبِيكَ		يجتبيك	will choose you	yajtabīka
+3	12:6:3	w	رَبُّكَ		ربك	your Lord	rabbuka
+3	12:6:4	w	وَيُعَلِّمُكَ		ويعلمك	and will teach you	wayuʿallimuka
+3	12:6:5	w	مِن		من	of	min
+3	12:6:6	w	تَاوِيلِ		تاويل	(the) interpretation	tawīli
+3	12:6:7	w	ࡴ۬لَاحَادِيثِ࣌		الاحاديث	(of) the narratives	l-aḥādīthi
+3	12:6:8	w	وَيُتِمُّ		ويتم	and complete	wayutimmu
+3	12:6:9	w	نِعْمَتَهُۥ		نعمته	His Favor	niʿ'matahu
+3	12:6:10	w	عَلَيْكَ		عليك	on you	ʿalayka
+4	12:6:11	w	وَعَلَىٰٓ		وعلي	and on	waʿalā
+4	12:6:12	w	ءَالِ		ال	(the) family	āli
+4	12:6:13	w	يَعْقُوبَ		يعقوب	(of) Yaqub	yaʿqūba
+4	12:6:14	w	كَمَآ		كما	as	kamā
+4	12:6:15	w	أَتَمَّهَا		اتمها	He completed it	atammahā
+4	12:6:16	w	عَلَىٰٓ		علي	on	ʿalā
+4	12:6:17	w	أَبَوَيْكَ		ابويك	your two forefathers	abawayka
+4	12:6:18	w	مِن		من	before	min
+4	12:6:19	w	قَبْلُ		قبل	before	qablu
+4	12:6:20	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+5	12:6:21	w	وَإِسْحَٰقَ࣌		واسحق	and Isaac	wa-is'ḥāqa
+5	12:6:22	w	إِنَّ		ان	Indeed	inna
+5	12:6:23	w	رَبَّكَ		ربك	your Lord	rabbaka
+5	12:6:24	w	عَلِيمٌ		عليم	(is) All-Knower	ʿalīmun
+5	12:6:25	w	حَكِيمࣱ࣌		حكيم	All-Wise	ḥakīmun
+5	12:6:26	e	۝٦				
+5	12:7:1	w	لَّقَدْ		لقد	Certainly	laqad
+5	12:7:2	w	كَانَ		كان	were	kāna
+5	12:7:3	w	فِے		في	in	fī
+5	12:7:4	w	يُوسُفَ		يوسف	Yusuf	yūsufa
+6	12:7:5	w	وَإِخْوَتِهِۦٓ		واخوتهي	and his brothers	wa-ikh'watihi
+6	12:7:6	w	ءَايَٰتࣱ		ايت	signs	āyātun
+6	12:7:7	w	لِّلسَّآئِلِينَ࣌		للسايلين	for those who ask	lilssāilīna
+6	12:7:8	e	۝٧				
+6	12:8:1	w	إِذْ		اذ	When	idh
+6	12:8:2	w	قَالُواْ		قالوا	they said	qālū
+6	12:8:3	w	لَيُوسُفُ		ليوسف	Surely Yusuf	layūsufu
+6	12:8:4	w	وَأَخُوهُ		واخوه	and his brother	wa-akhūhu
+6	12:8:5	w	أَحَبُّ		احب	(are) more beloved	aḥabbu
+7	12:8:6	w	إِلَىٰٓ		الي	to	ilā
+7	12:8:7	w	أَبِينَا		ابينا	our father	abīnā
+7	12:8:8	w	مِنَّا		منا	than we	minnā
+7	12:8:9	w	وَنَحْنُ		ونحن	while we	wanaḥnu
+7	12:8:10	w	عُصْبَةٌ࣌		عصبة	(are) a group	ʿuṣ'batun
+7	12:8:11	w	ࡴنَّ		ان	Indeed	inna
+7	12:8:12	w	أَبَانَا		ابانا	our father	abānā
+7	12:8:13	w	لَفِے		لفي	(is) surely in	lafī
+7	12:8:14	w	ضَلَٰلࣲ		ضلل	an error	ḍalālin
+7	12:8:15	w	مُّبِينٍ࣌		مبين	clear	mubīnin
+7	12:8:16	e	۝٨				
+8	12:9:1	w	ࡲ࢈قْتُلُواْ		اقتلوا	Kill	uq'tulū
+8	12:9:2	w	يُوسُفَ		يوسف	Yusuf	yūsufa
+8	12:9:3	w	أَوِ		او	or	awi
+8	12:9:4	w	ࡴٜطْرَحُوهُ		اطرحوه	cast him	iṭ'raḥūhu
+8	12:9:5	w	أَرْضاࣰ		ارضا	(to) a land	arḍan
+8	12:9:6	w	يَخْلُ		يخل	so will be free	yakhlu
+8	12:9:7	w	لَكُمْ		لكم	for you	lakum
+8	12:9:8	w	وَجْهُ		وجه	(the) face	wajhu
+8	12:9:9	w	أَبِيكُمْ		ابيكم	(of) your father	abīkum
+9	12:9:10	w	وَتَكُونُواْ		وتكونوا	and you will be	watakūnū
+9	12:9:11	w	مِنۢ		من	after that	min
+9	12:9:12	w	بَعْدِهِۦ		بعدهي	after that	baʿdihi
+9	12:9:13	w	قَوْماࣰ		قوما	a people	qawman
+9	12:9:14	w	صَٰلِحِينَ࣌		صلحين	righteous	ṣāliḥīna
+9	12:9:15	e	۝٩				
+9	12:10:1	w	۞ قَالَ		قال	Said	qāla
+9	12:10:2	w	قَآئِلࣱ		قايل	a speaker	qāilun
+9	12:10:3	w	مِّنْهُمْ		منهم	among them	min'hum
+10	12:10:4	w	لَا		لا	(Do) not	lā
+10	12:10:5	w	تَقْتُلُواْ		تقتلوا	kill	taqtulū
+10	12:10:6	w	يُوسُفَ		يوسف	Yusuf	yūsufa
+10	12:10:7	w	وَأَلْقُوهُ		والقوه	but throw him	wa-alqūhu
+10	12:10:8	w	فِے		في	in	fī
+10	12:10:9	w	غَيَٰبَٰتِ		غيبت	the bottom	ghayābati
+10	12:10:10	w	ࡴ۬لْجُبِّ		الجب	(of) the well	l-jubi
+10	12:10:11	w	يَلْتَقِطْهُ		يلتقطه	will pick him	yaltaqiṭ'hu
+10	12:10:12	w	بَعْضُ		بعض	some	baʿḍu
+11	12:10:13	w	ࡲ۬لسَّيَّارَةِ		السيارة	[the] caravan	l-sayārati
+11	12:10:14	w	إِن		ان	if	in
+11	12:10:15	w	كُنتُمْ		كنتم	you are	kuntum
+11	12:10:16	w	فَٰعِلِينَ࣌		فعلين	doing	fāʿilīna
+11	12:10:17	e	۝١٠				
+11	12:11:1	w	قَالُواْ		قالوا	They said	qālū
+11	12:11:2	w	يَٰٓأَبَانَا		يابانا	O our father	yāabānā
+11	12:11:3	w	مَا		ما	Why	mā
+11	12:11:4	w	لَكَ		لك	(do) you	laka
+11	12:11:5	w	لَا		لا	not	lā
+11	12:11:6	w	تَامَـ۬نَّا		تامنا	trust us	tamannā
+11	12:11:7	w	عَلَىٰ		علي	with	ʿalā
+12	12:11:8	w	يُوسُفَ		يوسف	Yusuf	yūsufa
+12	12:11:9	w	وَإِنَّا		وانا	while indeed, we	wa-innā
+12	12:11:10	w	لَهُۥ		له	(are) for him	lahu
+12	12:11:11	w	لَنَٰصِحُونَ࣌		لنصحون	surely well-wishers	lanāṣiḥūna
+12	12:11:12	e	۝١١				
+12	12:12:1	w	أَرْسِلْهُ		ارسله	Send him	arsil'hu
+12	12:12:2	w	مَعَنَا		معنا	with us	maʿanā
+12	12:12:3	w	غَداࣰ		غدا	tomorrow	ghadan
+12	12:12:4	w	يَرْتَعِ		يرتع	(to) enjoy	yartaʿ
+12	12:12:5	w	وَيَلْعَبْ		ويلعب	and play	wayalʿab
+13	12:12:6	w	وَإِنَّا		وانا	And indeed, we	wa-innā
+13	12:12:7	w	لَهُۥ		له	for him	lahu
+13	12:12:8	w	لَحَٰفِظُونَ࣌		لحفظون	(will) surely (be) guardians	laḥāfiẓūna
+13	12:12:9	e	۝١٢				
+13	12:13:1	w	قَالَ		قال	He said	qāla
+13	12:13:2	w	إِنِّے		اني	Indeed, [I]	innī
+13	12:13:3	w	لَيُحْزِنُنِيَ		ليحزنني	it surely saddens me	layaḥzununī
+13	12:13:4	w	أَن		ان	that	an
+13	12:13:5	w	تَذْهَبُواْ		تذهبوا	you should take him	tadhhabū
+13	12:13:6	w	بِهِۦ		بهي	you should take him	bihi
+14	12:13:7	w	وَأَخَافُ		واخاف	and I fear	wa-akhāfu
+14	12:13:8	w	أَنْ		ان	that	an
+14	12:13:9	w	يَّاكُلَهُ		ياكله	would eat him	yakulahu
+14	12:13:10	w	ࡲ۬لذِّيبُ		الذيب	a wolf	l-dhi'bu
+14	12:13:11	w	وَأَنتُمْ		وانتم	while you	wa-antum
+14	12:13:12	w	عَنْهُ		عنه	of him	ʿanhu
+14	12:13:13	w	غَٰفِلُونَ࣌		غفلون	(are) unaware	ghāfilūna
+14	12:13:14	e	۝١٣				
+14	12:14:1	w	قَالُواْ		قالوا	They said	qālū
+15	12:14:2	w	لَئِنَ		لين	If	la-in
+15	12:14:3	w	ࡰكَلَهُ		اكله	eats him	akalahu
+15	12:14:4	w	ࡲ۬لذِّيبُ		الذيب	the wolf	l-dhi'bu
+15	12:14:5	w	وَنَحْنُ		ونحن	while we	wanaḥnu
+15	12:14:6	w	عُصْبَةٌ		عصبة	(are) a group	ʿuṣ'batun
+15	12:14:7	w	ࡴنَّآ		انا	indeed, we	innā
+15	12:14:8	w	إِذاࣰ		اذا	then	idhan
+15	12:14:9	w	لَّخَٰسِرُونَ࣌		لخسرون	surely (would be) losers	lakhāsirūna
+15	12:14:10	e	۝١٤				

@@ -1,0 +1,155 @@
+1	10:54:1	w	وَلَوَ		ولو	And if	walaw
+1	10:54:2	w	ࡰنَّ		ان	that	anna
+1	10:54:3	w	لِكُلِّ		لكل	for every	likulli
+1	10:54:4	w	نَفْسࣲ		نفس	soul	nafsin
+1	10:54:5	w	ظَلَمَتْ		ظلمت	(that) wronged	ẓalamat
+1	10:54:6	w	مَا		ما	whatever	mā
+1	10:54:7	w	فِے		في	(is) in	fī
+1	10:54:8	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+1	10:54:9	w	لَافْتَدَتْ		لافتدت	it (would) seek to ransom	la-if'tadat
+1	10:54:10	w	بِهِۦ࣌		بهي	with it	bihi
+1	10:54:11	w	وَأَسَرُّواْ		واسروا	and they (will) confide	wa-asarrū
+2	10:54:12	w	ࡲ۬لنَّدَامَةَ		الندامة	the regret	l-nadāmata
+2	10:54:13	w	لَمَّا		لما	when	lammā
+2	10:54:14	w	رَأَوُاْ		راوا	they see	ra-awū
+2	10:54:15	w	ࡲ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+2	10:54:16	w	وَقُضِيَ		وقضي	But will be judged	waquḍiya
+2	10:54:17	w	بَيْنَهُم		بينهم	between them	baynahum
+2	10:54:18	w	بِالْقِسْطِ		بالقسط	in justice	bil-qis'ṭi
+2	10:54:19	w	وَهُمْ		وهم	and they	wahum
+3	10:54:20	w	لَا		لا	(will) not	lā
+3	10:54:21	w	يُظْلَمُونَ࣌		يظلمون	(be) wronged	yuẓ'lamūna
+3	10:54:22	e	۝٥٤				
+3	10:55:1	w	أَلَآ		الا	No doubt	alā
+3	10:55:2	w	إِنَّ		ان	indeed	inna
+3	10:55:3	w	لِلهِ		لله	for Allah	lillahi
+3	10:55:4	w	مَا		ما	(is) whatever	mā
+3	10:55:5	w	فِے		في	(is) in	fī
+3	10:55:6	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+3	10:55:7	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+3	10:55:8	w	أَلَآ		الا	No doubt	alā
+3	10:55:9	w	إِنَّ		ان	indeed	inna
+4	10:55:10	w	وَعْدَ		وعد	(the) Promise of Allah	waʿda
+4	10:55:11	w	ࡰ۬للَّهِ		الله	(the) Promise of Allah	l-lahi
+4	10:55:12	w	حَقࣱّ࣌		حق	(is) true	ḥaqqun
+4	10:55:13	w	وَلَٰكِنَّ		ولكن	But	walākinna
+4	10:55:14	w	أَكْثَرَهُمْ		اكثرهم	most of them	aktharahum
+4	10:55:15	w	لَا		لا	(do) not	lā
+4	10:55:16	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+4	10:55:17	e	۝٥٥				
+4	10:56:1	w	هُوَ		هو	He	huwa
+4	10:56:2	w	يُحْيِۦ		يحيي	gives life	yuḥ'yī
+4	10:56:3	w	وَيُمِيتُ࣌		ويميت	and causes death	wayumītu
+5	10:56:4	w	وَإِلَيْهِ		واليه	and to Him	wa-ilayhi
+5	10:56:5	w	تُرْجَعُونَ࣌		ترجعون	you will be returned	tur'jaʿūna
+5	10:56:6	e	۝٥٦				
+5	10:57:1	w	يَٰٓأَيُّهَا		يايها	O mankind	yāayyuhā
+5	10:57:2	w	ࡰ۬لنَّاسُ		الناس	O mankind	l-nāsu
+5	10:57:3	w	قَدْ		قد	Verily	qad
+5	10:57:4	w	جَآءَتْكُم		جاتكم	has come to you	jāatkum
+5	10:57:5	w	مَّوْعِظَةࣱ		موعظة	an instruction	mawʿiẓatun
+6	10:57:6	w	مِّن		من	from	min
+6	10:57:7	w	رَّبِّكُمْ		ربكم	your Lord	rabbikum
+6	10:57:8	w	وَشِفَآءࣱ		وشفا	and a healing	washifāon
+6	10:57:9	w	لِّمَا		لما	for what	limā
+6	10:57:10	w	فِے		في	(is) in	fī
+6	10:57:11	w	ࡴ۬لصُّدُورِ		الصدور	your breasts	l-ṣudūri
+6	10:57:12	w	وَهُدىࣰ		وهدي	and guidance	wahudan
+6	10:57:13	w	وَرَحْمَةࣱ		ورحمة	and mercy	waraḥmatun
+6	10:57:14	w	لِّلْمُومِنِينَ࣌		للمومنين	for the believers	lil'mu'minīna
+6	10:57:15	e	۝٥٧				
+7	10:58:1	w	قُلْ		قل	Say	qul
+7	10:58:2	w	بِفَضْلِ		بفضل	In the Bounty	bifaḍli
+7	10:58:3	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+7	10:58:4	w	وَبِرَحْمَتِهِۦ		وبرحمتهي	and in His Mercy	wabiraḥmatihi
+7	10:58:5	w	فَبِذَٰلِكَ		فبذلك	so in that	fabidhālika
+7	10:58:6	w	فَلْيَفْرَحُواْ࣌		فليفرحوا	let them rejoice	falyafraḥū
+7	10:58:7	w	هُوَ		هو	It	huwa
+7	10:58:8	w	خَيْرࣱ		خير	(is) better	khayrun
+8	10:58:9	w	مِّمَّا		مما	than what	mimmā
+8	10:58:10	w	يَجْمَعُونَ࣌		يجمعون	they accumulate	yajmaʿūna
+8	10:58:11	e	۝٥٨				
+8	10:59:1	w	قُلَ		قل	Say	qul
+8	10:59:2	w	ࡰرَٰٓيْتُم		اريتم	Have you seen	ara-aytum
+8	10:59:3	w	مَّآ		ما	what	mā
+8	10:59:4	w	أَنزَلَ		انزل	(has been) sent down	anzala
+8	10:59:5	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+8	10:59:6	w	لَكُم		لكم	for you	lakum
+8	10:59:7	w	مِّن		من	of	min
+8	10:59:8	w	رِّزْقࣲ		رزق	(the) provision	riz'qin
+9	10:59:9	w	فَجَعَلْتُم		فجعلتم	and you have made	fajaʿaltum
+9	10:59:10	w	مِّنْهُ		منه	of it	min'hu
+9	10:59:11	w	حَرَاماࣰ		حراما	unlawful	ḥarāman
+9	10:59:12	w	وَحَلَٰلاࣰ࣌		وحللا	and lawful	waḥalālan
+9	10:59:13	w	قُلَ		قل	Say	qul
+9	10:59:14	w	آٓللَّهُ		الله	Has Allah	āllahu
+9	10:59:15	w	أَذِنَ		اذن	permitted	adhina
+9	10:59:16	w	لَكُمُۥٓ		لكم	[to] you	lakum
+9	10:59:17	w	أَمْ		ام	or	am
+9	10:59:18	w	عَلَى		علي	about	ʿalā
+10	10:59:19	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+10	10:59:20	w	تَفْتَرُونَ࣌		تفترون	you invent (lies)	taftarūna
+10	10:59:21	e	۝٥٩				
+10	10:60:1	w	وَمَا		وما	And what	wamā
+10	10:60:2	w	ظَنُّ		ظن	(will be the) assumption	ẓannu
+10	10:60:3	w	ࡲ۬لذِينَ		الذين	(of) those who	alladhīna
+10	10:60:4	w	يَفْتَرُونَ		يفترون	invent	yaftarūna
+10	10:60:5	w	عَلَى		علي	against	ʿalā
+10	10:60:6	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+10	10:60:7	w	ࡴ۬لْكَذِبَ		الكذب	the lie	l-kadhiba
+11	10:60:8	w	يَوْمَ		يوم	(on) the Day	yawma
+11	10:60:9	w	ࡰ۬لْقِيَٰمَةِ࣌		القيمة	(of) the Judgment	l-qiyāmati
+11	10:60:10	w	إِنَّ		ان	Indeed	inna
+11	10:60:11	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	10:60:12	w	لَذُو		لذو	(is) surely Full (of) Bounty	ladhū
+11	10:60:13	w	فَضْلٍ		فضل	(is) surely Full (of) Bounty	faḍlin
+11	10:60:14	w	عَلَى		علي	to	ʿalā
+11	10:60:15	w	ࡰ۬لنَّاسِ࣌		الناس	the mankind	l-nāsi
+11	10:60:16	w	وَلَٰكِنَّ		ولكن	but	walākinna
+11	10:60:17	w	أَكْثَرَهُمْ		اكثرهم	most of them	aktharahum
+12	10:60:18	w	لَا		لا	(are) not	lā
+12	10:60:19	w	يَشْكُرُونَ࣌		يشكرون	grateful	yashkurūna
+12	10:60:20	e	۝٦٠				
+12	10:61:1	w	۞ وَمَا		وما	And not	wamā
+12	10:61:2	w	تَكُونُ		تكون	you are	takūnu
+12	10:61:3	w	فِے		في	[in]	fī
+12	10:61:4	w	شَأْنࣲ		شان	any situation	shanin
+12	10:61:5	w	وَمَا		وما	and not	wamā
+12	10:61:6	w	تَتْلُواْ		تتلوا	you recite	tatlū
+12	10:61:7	w	مِنْهُ		منه	of it	min'hu
+12	10:61:8	w	مِن		من	from	min
+12	10:61:9	w	قُرْءَانࣲ		قران	(the) Quran	qur'ānin
+13	10:61:10	w	وَلَا		ولا	and not	walā
+13	10:61:11	w	تَعْمَلُونَ		تعملون	you do	taʿmalūna
+13	10:61:12	w	مِنْ		من	any	min
+13	10:61:13	w	عَمَلٍ		عمل	deed	ʿamalin
+13	10:61:14	w	ࡴلَّا		الا	except	illā
+13	10:61:15	w	كُنَّا		كنا	We are	kunnā
+13	10:61:16	w	عَلَيْكُمْ		عليكم	over you	ʿalaykum
+13	10:61:17	w	شُهُوداً		شهودا	witnesses	shuhūdan
+13	10:61:18	w	ࡴذْ		اذ	when	idh
+13	10:61:19	w	تُفِيضُونَ		تفيضون	you are engaged	tufīḍūna
+14	10:61:20	w	فِيهِ࣌		فيه	in it	fīhi
+14	10:61:21	w	وَمَا		وما	And not	wamā
+14	10:61:22	w	يَعْزُبُ		يعزب	escapes	yaʿzubu
+14	10:61:23	w	عَن		عن	from	ʿan
+14	10:61:24	w	رَّبِّكَ		ربك	your Lord	rabbika
+14	10:61:25	w	مِن		من	of	min
+14	10:61:26	w	مِّثْقَالِ		مثقال	(the) weight	mith'qāli
+14	10:61:27	w	ذَرَّةࣲ		ذرة	(of) an atom	dharratin
+14	10:61:28	w	فِے		في	in	fī
+14	10:61:29	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+14	10:61:30	w	وَلَا		ولا	and not	walā
+14	10:61:31	w	فِے		في	in	fī
+15	10:61:32	w	ࡴ۬لسَّمَآءِ࣌		السما	the heavens	l-samāi
+15	10:61:33	w	وَلَآ		ولا	and not	walā
+15	10:61:34	w	أَصْغَرَ		اصغر	smaller	aṣghara
+15	10:61:35	w	مِن		من	than	min
+15	10:61:36	w	ذَٰلِكَ		ذلك	that	dhālika
+15	10:61:37	w	وَلَآ		ولا	and not	walā
+15	10:61:38	w	أَكْبَرَ		اكبر	greater	akbara
+15	10:61:39	w	إِلَّا		الا	but	illā
+15	10:61:40	w	فِے		في	(is) in	fī
+15	10:61:41	w	كِتَٰبࣲ		كتب	a Record	kitābin
+15	10:61:42	w	مُّبِينٍ࣌		مبين	clear	mubīnin
+15	10:61:43	e	۝٦١				

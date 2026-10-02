@@ -1,0 +1,144 @@
+1	43:22:1	w	وَكَذَٰلِكَ		وكذلك	And thus	wakadhālika
+1	43:22:2	w	مَآ		ما	not	mā
+1	43:22:3	w	أَرْسَلْنَا		ارسلنا	We sent	arsalnā
+1	43:22:4	w	مِن		من	before you	min
+1	43:22:5	w	قَبْلِكَ		قبلك	before you	qablika
+1	43:22:6	w	فِے		في	in	fī
+1	43:22:7	w	قَرْيَةࣲ		قرية	a town	qaryatin
+1	43:22:8	w	مِّن		من	any	min
+1	43:22:9	w	نَّذِيرٍ		نذير	warner	nadhīrin
+1	43:22:10	w	ࡴلَّا		الا	except	illā
+1	43:22:11	w	قَالَ		قال	said	qāla
+1	43:22:12	w	مُتْرَفُوهَآ		مترفوها	(the) wealthy ones of it	mut'rafūhā
+2	43:22:13	w	إِنَّا		انا	Indeed, we	innā
+2	43:22:14	w	وَجَدْنَآ		وجدنا	[we] found	wajadnā
+2	43:22:15	w	ءَابَآءَنَا		ابانا	our forefathers	ābāanā
+2	43:22:16	w	عَلَىٰٓ		علي	on	ʿalā
+2	43:22:17	w	أُمَّةࣲ		امة	a religion	ummatin
+2	43:22:18	w	وَإِنَّا		وانا	and indeed, we	wa-innā
+2	43:22:19	w	عَلَىٰٓ		علي	[on]	ʿalā
+2	43:22:20	w	ءَاثٜـٰرِهِم		اثرهم	their footsteps	āthārihim
+2	43:22:21	w	مُّقْتَدُونَ࣌		مقتدون	(are) following	muq'tadūna
+2	43:22:22	e	۝٢٢				
+3	43:23:1	w	۞ قُلَ		قل	He said	qāla
+3	43:23:2	w	ࡰوَلَوْ		اولو	Even if	awalaw
+3	43:23:3	w	جِئْتُكُم		جيتكم	I brought you	ji'tukum
+3	43:23:4	w	بِأَهْدٜىٰ		باهدي	better guidance	bi-ahdā
+3	43:23:5	w	مِمَّا		مما	than what	mimmā
+3	43:23:6	w	وَجَدتُّمْ		وجدتم	you found	wajadttum
+3	43:23:7	w	عَلَيْهِ		عليه	on it	ʿalayhi
+3	43:23:8	w	ءَابَآءَكُمْ࣌		اباكم	your forefathers	ābāakum
+3	43:23:9	w	قَالُوٓاْ		قالوا	They said	qālū
+4	43:23:10	w	إِنَّا		انا	Indeed, we	innā
+4	43:23:11	w	بِمَآ		بما	with what	bimā
+4	43:23:12	w	أُرْسِلْتُم		ارسلتم	you are sent	ur'sil'tum
+4	43:23:13	w	بِهِۦ		بهي	with [it]	bihi
+4	43:23:14	w	كَٰفِرُونَ࣌		كفرون	(are) disbelievers	kāfirūna
+4	43:23:15	e	۝٢٣				
+4	43:24:1	w	فَانتَقَمْنَا		فانتقمنا	So We took retribution	fa-intaqamnā
+4	43:24:2	w	مِنْهُمْ		منهم	from them	min'hum
+4	43:24:3	w	فَانظُرْ		فانظر	Then see	fa-unẓur
+4	43:24:4	w	كَيْفَ		كيف	how	kayfa
+5	43:24:5	w	كَانَ		كان	was	kāna
+5	43:24:6	w	عَٰقِبَةُ		عقبة	(the) end	ʿāqibatu
+5	43:24:7	w	ࡲ۬لْمُكَذِّبِينَ࣌		المكذبين	(of) the deniers	l-mukadhibīna
+5	43:24:8	e	۝٢٤				
+5	43:25:1	w	وَإِذْ		واذ	And when	wa-idh
+5	43:25:2	w	قَالَ		قال	Ibrahim Said	qāla
+5	43:25:3	w	إِبْرَٰهِيمُ		ابرهيم	Ibrahim Said	ib'rāhīmu
+5	43:25:4	w	لِأَبِيهِ		لابيه	to his father	li-abīhi
+5	43:25:5	w	وَقَوْمِهِۦٓ		وقومهي	and his people	waqawmihi
+5	43:25:6	w	إِنَّنِے		انني	Indeed, I (am)	innanī
+6	43:25:7	w	بَرَآءࣱ		برا	disassociated	barāon
+6	43:25:8	w	مِّمَّا		مما	from what	mimmā
+6	43:25:9	w	تَعْبُدُونَ		تعبدون	you worship	taʿbudūna
+6	43:25:10	e	۝٢٥				
+6	43:26:1	w	إِلَّا		الا	Except	illā
+6	43:26:2	w	ࡰ۬لذِے		الذي	the One Who	alladhī
+6	43:26:3	w	فَطَرَنِے		فطرني	created me	faṭaranī
+6	43:26:4	w	فَإِنَّهُۥ		فانه	and indeed, He	fa-innahu
+6	43:26:5	w	سَيَهْدِينِ࣌		سيهدين	will guide me	sayahdīni
+6	43:26:6	e	۝٢٦				
+7	43:27:1	w	وَجَعَلَهَا		وجعلها	And he made it	wajaʿalahā
+7	43:27:2	w	كَلِمَةَۢ		كلمة	a word	kalimatan
+7	43:27:3	w	بَاقِيَةࣰ		باقية	lasting	bāqiyatan
+7	43:27:4	w	فِے		في	among	fī
+7	43:27:5	w	عَقِبِهِۦ		عقبهي	his descendents	ʿaqibihi
+7	43:27:6	w	لَعَلَّهُمْ		لعلهم	so that they may	laʿallahum
+7	43:27:7	w	يَرْجِعُونَ࣌		يرجعون	return	yarjiʿūna
+7	43:27:8	e	۝٢٧				
+7	43:28:1	w	بَلْ		بل	Nay	bal
+8	43:28:2	w	مَتَّعْتُ		متعت	I gave enjoyment	mattaʿtu
+8	43:28:3	w	هَٰٓؤُلَآءِ		هولا	(to) these	hāulāi
+8	43:28:4	w	وَءَابَآءَهُمْ		واباهم	and their forefathers	waābāahum
+8	43:28:5	w	حَتَّىٰ		حتي	until	ḥattā
+8	43:28:6	w	جَآءَهُمُ		جاهم	came to them	jāahumu
+8	43:28:7	w	ࡲ۬لْحَقُّ		الحق	the truth	l-ḥaqu
+8	43:28:8	w	وَرَسُولࣱ		ورسول	and a Messenger	warasūlun
+8	43:28:9	w	مُّبِينࣱ࣌		مبين	clear	mubīnun
+8	43:28:10	e	۝٢٨				
+9	43:29:1	w	وَلَمَّا		ولما	And when	walammā
+9	43:29:2	w	جَآءَهُمُ		جاهم	came to them	jāahumu
+9	43:29:3	w	ࡲ۬لْحَقُّ		الحق	the truth	l-ḥaqu
+9	43:29:4	w	قَالُواْ		قالوا	they said	qālū
+9	43:29:5	w	هَٰذَا		هذا	This	hādhā
+9	43:29:6	w	سِحْرࣱ		سحر	(is) magic	siḥ'run
+9	43:29:7	w	وَإِنَّا		وانا	and indeed, we	wa-innā
+9	43:29:8	w	بِهِۦ		بهي	of it	bihi
+9	43:29:9	w	كَٰفِرُونَ࣌		كفرون	(are) disbelievers	kāfirūna
+9	43:29:10	e	۝٢٩				
+9	43:30:1	w	وَقَالُواْ		وقالوا	And they say	waqālū
+10	43:30:2	w	لَوْلَا		لولا	Why not	lawlā
+10	43:30:3	w	نُزِّلَ		نزل	was sent down	nuzzila
+10	43:30:4	w	هَٰذَا		هذا	this	hādhā
+10	43:30:5	w	ࡰ۬لْقُرْءَانُ		القران	the Quran	l-qur'ānu
+10	43:30:6	w	عَلَىٰ		علي	to	ʿalā
+10	43:30:7	w	رَجُلࣲ		رجل	a man	rajulin
+10	43:30:8	w	مِّنَ		من	from	mina
+10	43:30:9	w	ࡰ۬لْقَرْيَتَيْنِ		القريتين	the two towns	l-qaryatayni
+10	43:30:10	w	عَظِيمٍ࣌		عظيم	great	ʿaẓīmin
+10	43:30:11	e	۝٣٠				
+10	43:31:1	w	ࡰهُمْ		اهم	Do they	ahum
+11	43:31:2	w	يَقْسِمُونَ		يقسمون	distribute	yaqsimūna
+11	43:31:3	w	رَحْمَتَ		رحمت	(the) Mercy	raḥmata
+11	43:31:4	w	رَبِّكَ࣌		ربك	(of) your Lord	rabbika
+11	43:31:5	w	نَحْنُ		نحن	We	naḥnu
+11	43:31:6	w	قَسَمْنَا		قسمنا	[We] distribute	qasamnā
+11	43:31:7	w	بَيْنَهُم		بينهم	among them	baynahum
+11	43:31:8	w	مَّعِيشَتَهُمْ		معيشتهم	their livelihood	maʿīshatahum
+11	43:31:9	w	فِے		في	in	fī
+11	43:31:10	w	ࡴ۬لْحَيَوٰةِ		الحيوة	the life	l-ḥayati
+12	43:31:11	w	ࡴ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+12	43:31:12	w	وَرَفَعْنَا		ورفعنا	and We raise	warafaʿnā
+12	43:31:13	w	بَعْضَهُمْ		بعضهم	some of them	baʿḍahum
+12	43:31:14	w	فَوْقَ		فوق	above	fawqa
+12	43:31:15	w	بَعْضࣲ		بعض	others	baʿḍin
+12	43:31:16	w	دَرَجَٰتࣲ		درجت	(in) degrees	darajātin
+12	43:31:17	w	لِّيَتَّخِذَ		ليتخذ	so that may take	liyattakhidha
+12	43:31:18	w	بَعْضُهُم		بعضهم	some of them	baʿḍuhum
+13	43:31:19	w	بَعْضاࣰ		بعضا	others	baʿḍan
+13	43:31:20	w	سُخْرِيّاࣰ࣌		سخريا	(for) service	sukh'riyyan
+13	43:31:21	w	وَرَحْمَتُ		ورحمت	But (the) Mercy	waraḥmatu
+13	43:31:22	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+13	43:31:23	w	خَيْرࣱ		خير	(is) better	khayrun
+13	43:31:24	w	مِّمَّا		مما	than what	mimmā
+13	43:31:25	w	يَجْمَعُونَ࣌		يجمعون	they accumulate	yajmaʿūna
+13	43:31:26	e	۝٣١				
+13	43:32:1	w	وَلَوْلَآ		ولولا	And if not	walawlā
+14	43:32:2	w	أَنْ		ان	that	an
+14	43:32:3	w	يَّكُونَ		يكون	(would) become	yakūna
+14	43:32:4	w	ࡰ۬لنَّاسُ		الناس	[the] mankind	l-nāsu
+14	43:32:5	w	أُمَّةࣰ		امة	a community	ummatan
+14	43:32:6	w	وَٰحِدَةࣰ		وحدة	one	wāḥidatan
+14	43:32:7	w	لَّجَعَلْنَا		لجعلنا	We (would have) made	lajaʿalnā
+14	43:32:8	w	لِمَنْ		لمن	for (one) who	liman
+14	43:32:9	w	يَّكْفُرُ		يكفر	disbelieves	yakfuru
+14	43:32:10	w	بِالرَّحْمَٰنِ		بالرحمن	in the Most Gracious	bil-raḥmāni
+15	43:32:11	w	لِبُيُوتِهِمْ		لبيوتهم	for their houses	libuyūtihim
+15	43:32:12	w	سُقُفاࣰ		سقفا	roofs	suqufan
+15	43:32:13	w	مِّن		من	of	min
+15	43:32:14	w	فِضَّةࣲ		فضة	silver	fiḍḍatin
+15	43:32:15	w	وَمَعَارِجَ		ومعارج	and stairways	wamaʿārija
+15	43:32:16	w	عَلَيْهَا		عليها	upon which	ʿalayhā
+15	43:32:17	w	يَظْهَرُونَ		يظهرون	they mount	yaẓharūna
+15	43:32:18	e	۝٣٢				

@@ -1,0 +1,127 @@
+1	14:45:1	w	مُهْطِعِينَ		مهطعين	Racing ahead	muh'ṭiʿīna
+1	14:45:2	w	مُقْنِعِے		مقنعي	raised up	muq'niʿī
+1	14:45:3	w	رُءُوسِهِمْ		روسهم	their heads	ruūsihim
+1	14:45:4	w	لَا		لا	not	lā
+1	14:45:5	w	يَرْتَدُّ		يرتد	returning	yartaddu
+1	14:45:6	w	إِلَيْهِمْ		اليهم	towards them	ilayhim
+1	14:45:7	w	طَرْفُهُمْ		طرفهم	their gaze	ṭarfuhum
+2	14:45:8	w	وَأَفْـِٕدَتُهُمْ		وافدتهم	and their hearts	wa-afidatuhum
+2	14:45:9	w	هَوَآءࣱ࣌		هوا	(are) empty	hawāon
+2	14:45:10	e	۝٤٥				
+2	14:46:1	w	وَأَنذِرِ		وانذر	And warn	wa-andhiri
+2	14:46:2	w	ࡴ۬لنَّاسَ		الناس	the mankind	l-nāsa
+2	14:46:3	w	يَوْمَ		يوم	(of) a Day	yawma
+2	14:46:4	w	يَاتِيهِمُ		ياتيهم	(when) will come to them	yatīhimu
+2	14:46:5	w	ࡲ۬لْعَذَابُ		العذاب	the punishment	l-ʿadhābu
+3	14:46:6	w	فَيَقُولُ		فيقول	then will say	fayaqūlu
+3	14:46:7	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+3	14:46:8	w	ظَلَمُواْ		ظلموا	did wrong	ẓalamū
+3	14:46:9	w	رَبَّنَآ		ربنا	Our Lord	rabbanā
+3	14:46:10	w	أَخِّرْنَآ		اخرنا	Respite us	akhir'nā
+3	14:46:11	w	إِلَىٰٓ		الي	for	ilā
+3	14:46:12	w	أَجَلࣲ		اجل	a term	ajalin
+3	14:46:13	w	قَرِيبࣲ		قريب	short	qarībin
+3	14:46:14	w	نُّجِبْ		نجب	we will answer	nujib
+4	14:46:15	w	دَعْوَتَكَ		دعوتك	Your call	daʿwataka
+4	14:46:16	w	وَنَتَّبِعِ		ونتبع	and we will follow	wanattabiʿi
+4	14:46:17	w	ࡴ۬لرُّسُلَ࣌		الرسل	the Messengers	l-rusula
+4	14:46:18	w	أَوَلَمْ		اولم	Had not	awalam
+4	14:46:19	w	تَكُونُوٓاْ		تكونوا	you	takūnū
+4	14:46:20	w	أَقْسَمْتُم		اقسمتم	sworn	aqsamtum
+4	14:46:21	w	مِّن		من	before	min
+4	14:46:22	w	قَبْلُ		قبل	before	qablu
+5	14:46:23	w	مَا		ما	not	mā
+5	14:46:24	w	لَكُم		لكم	for you	lakum
+5	14:46:25	w	مِّن		من	any	min
+5	14:46:26	w	زَوَالࣲ࣌		زوال	end	zawālin
+5	14:46:27	e	۝٤٦				
+5	14:47:1	w	وَسَكَنتُمْ		وسكنتم	And you dwelt	wasakantum
+5	14:47:2	w	فِے		في	in	fī
+5	14:47:3	w	مَسَٰكِنِ		مسكن	the dwellings	masākini
+5	14:47:4	w	ࡴ۬لذِينَ		الذين	(of) those who	alladhīna
+5	14:47:5	w	ظَلَمُوٓاْ		ظلموا	wronged	ẓalamū
+6	14:47:6	w	أَنفُسَهُمْ		انفسهم	themselves	anfusahum
+6	14:47:7	w	وَتَبَيَّنَ		وتبين	and it had become clear	watabayyana
+6	14:47:8	w	لَكُمْ		لكم	to you	lakum
+6	14:47:9	w	كَيْفَ		كيف	how	kayfa
+6	14:47:10	w	فَعَلْنَا		فعلنا	We dealt	faʿalnā
+6	14:47:11	w	بِهِمْ		بهم	with them	bihim
+6	14:47:12	w	وَضَرَبْنَا		وضربنا	and We put forth	waḍarabnā
+6	14:47:13	w	لَكُمُ		لكم	for you	lakumu
+7	14:47:14	w	ࡲ۬لَامْثَالَ࣌		الامثال	the examples	l-amthāla
+7	14:47:15	e	۝٤٧				
+7	14:48:1	w	وَقَدْ		وقد	And indeed	waqad
+7	14:48:2	w	مَكَرُواْ		مكروا	they planned	makarū
+7	14:48:3	w	مَكْرَهُمْ࣌		مكرهم	their plan	makrahum
+7	14:48:4	w	وَعِندَ		وعند	but with	waʿinda
+7	14:48:5	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	14:48:6	w	مَكْرُهُمْ࣌		مكرهم	(was) their plan	makruhum
+8	14:48:7	w	وَإِن		وان	even if	wa-in
+8	14:48:8	w	كَانَ		كان	was	kāna
+8	14:48:9	w	مَكْرُهُمْ		مكرهم	their plan	makruhum
+8	14:48:10	w	لِتَزُولَ		لتزول	that should be moved	litazūla
+8	14:48:11	w	مِنْهُ		منه	by it	min'hu
+8	14:48:12	w	ࡲ۬لْجِبَالُ࣌		الجبال	the mountains	l-jibālu
+8	14:48:13	e	۝٤٨				
+8	14:49:1	w	فَلَا		فلا	So (do) not	falā
+9	14:49:2	w	تَحْسِبَنَّ		تحسبن	think	taḥsabanna
+9	14:49:3	w	ࡰ۬للَّهَ		الله	(that) Allah	l-laha
+9	14:49:4	w	مُخْلِفَ		مخلف	will fail	mukh'lifa
+9	14:49:5	w	وَعْدِهِۦ		وعدهي	(to) keep His Promise	waʿdihi
+9	14:49:6	w	رُسُلَهُۥٓ࣌		رسله	(to) His Messengers	rusulahu
+9	14:49:7	w	إِنَّ		ان	Indeed	inna
+9	14:49:8	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+9	14:49:9	w	عَزِيزࣱ		عزيز	(is) All-Mighty	ʿazīzun
+10	14:49:10	w	ذُو		ذو	Owner (of) Retribution	dhū
+10	14:49:11	w	ࡲٜنتِقَامࣲ࣌		انتقام	Owner (of) Retribution	intiqāmin
+10	14:49:12	e	۝٤٩				
+10	14:50:1	w	يَوْمَ		يوم	(On the) Day	yawma
+10	14:50:2	w	تُبَدَّلُ		تبدل	will be changed	tubaddalu
+10	14:50:3	w	ࡲ۬لَارْضُ		الارض	the earth	l-arḍu
+10	14:50:4	w	غَيْرَ		غير	(to) other (than)	ghayra
+10	14:50:5	w	ࡰ۬لَارْضِ		الارض	the earth	l-arḍi
+10	14:50:6	w	وَالسَّمَٰوَٰتُ࣌		والسموت	and the heavens	wal-samāwātu
+11	14:50:7	w	وَبَرَزُواْ		وبرزوا	and they will come forth	wabarazū
+11	14:50:8	w	لِلهِ		لله	before Allah	lillahi
+11	14:50:9	w	ࡴ۬لْوَٰحِدِ		الوحد	the One	l-wāḥidi
+11	14:50:10	w	ࡴ۬لْقَهّٜارِ࣌		القهار	the Irresistible	l-qahāri
+11	14:50:11	e	۝٥٠				
+11	14:51:1	w	وَتَرَى		وتري	And you will see	watarā
+11	14:51:2	w	ࡰ۬لْمُجْرِمِينَ		المجرمين	the criminals	l-muj'rimīna
+11	14:51:3	w	يَوْمَئِذࣲ		يوميذ	(on) that Day	yawma-idhin
+12	14:51:4	w	مُّقَرَّنِينَ		مقرنين	bound together	muqarranīna
+12	14:51:5	w	فِے		في	in	fī
+12	14:51:6	w	ࡴ۬لَاصْفَادِ		الاصفاد	the chains	l-aṣfādi
+12	14:51:7	e	۝٥١				
+12	14:52:1	w	سَرَابِيلُهُم		سرابيلهم	Their garments	sarābīluhum
+12	14:52:2	w	مِّن		من	of	min
+12	14:52:3	w	قَطِرَانࣲ		قطران	tar	qaṭirānin
+12	14:52:4	w	وَتَغْشٜىٰ		وتغشي	and will cover	wataghshā
+13	14:52:5	w	وُجُوهَهُمُ		وجوههم	their faces	wujūhahumu
+13	14:52:6	w	ࡲ۬لنَّارُ		النار	the Fire	l-nāru
+13	14:52:7	e	۝٥٢				
+13	14:53:1	w	لِيَجْزِيَ		ليجزي	So that Allah may recompense	liyajziya
+13	14:53:2	w	ࡰ۬للَّهُ		الله	So that Allah may recompense	l-lahu
+13	14:53:3	w	كُلَّ		كل	each	kulla
+13	14:53:4	w	نَفْسࣲ		نفس	soul	nafsin
+13	14:53:5	w	مَّا		ما	(for) what	mā
+13	14:53:6	w	كَسَبَتِ࣌		كسبت	it earned	kasabat
+14	14:53:7	w	ࡴنَّ		ان	Indeed	inna
+14	14:53:8	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+14	14:53:9	w	سَرِيعُ		سريع	(is) Swift	sarīʿu
+14	14:53:10	w	ࡲ۬لْحِسَابِ࣌		الحساب	(in) the reckoning	l-ḥisābi
+14	14:53:11	e	۝٥٣				
+14	14:54:1	w	هَٰذَا		هذا	This	hādhā
+14	14:54:2	w	بَلَٰغࣱ		بلغ	(is) a Message	balāghun
+14	14:54:3	w	لِّلنَّاسِ		للناس	for the mankind	lilnnāsi
+14	14:54:4	w	وَلِيُنذَرُواْ		ولينذروا	that they may be warned	waliyundharū
+14	14:54:5	w	بِهِۦ		بهي	with it	bihi
+15	14:54:6	w	وَلِيَعْلَمُوٓاْ		وليعلموا	and that they may know	waliyaʿlamū
+15	14:54:7	w	أَنَّمَا		انما	that only	annamā
+15	14:54:8	w	هُوَ		هو	He	huwa
+15	14:54:9	w	إِلَٰهࣱ		اله	(is) One God	ilāhun
+15	14:54:10	w	وَٰحِدࣱ		وحد	(is) One God	wāḥidun
+15	14:54:11	w	وَلِيَذَّكَّرَ		وليذكر	and that may take heed	waliyadhakkara
+15	14:54:12	w	أُوْلُواْ		اولوا	men	ulū
+15	14:54:13	w	ࡲ۬لَالْبَٰبِ࣌		الالبب	(of) understanding	l-albābi
+15	14:54:14	e	۝٥٤				

@@ -1,0 +1,160 @@
+1	47:13:1	w	إِنَّ		ان	Indeed	inna
+1	47:13:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	47:13:3	w	يُدْخِلُ		يدخل	will admit	yud'khilu
+1	47:13:4	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+1	47:13:5	w	ءَامَنُواْ		امنوا	believe	āmanū
+1	47:13:6	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+1	47:13:7	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+1	47:13:8	w	جَنَّٰتࣲ		جنت	(to) Gardens	jannātin
+1	47:13:9	w	تَجْرِے		تجري	flow	tajrī
+1	47:13:10	w	مِن		من	from	min
+2	47:13:11	w	تَحْتِهَا		تحتها	underneath it	taḥtihā
+2	47:13:12	w	ࡰ۬لَانْهَٰرُ࣌		الانهر	the rivers	l-anhāru
+2	47:13:13	w	وَالذِينَ		والذين	but those who	wa-alladhīna
+2	47:13:14	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+2	47:13:15	w	يَتَمَتَّعُونَ		يتمتعون	they enjoy	yatamattaʿūna
+2	47:13:16	w	وَيَاكُلُونَ		وياكلون	and eat	wayakulūna
+2	47:13:17	w	كَمَا		كما	as	kamā
+2	47:13:18	w	تَاكُلُ		تاكل	eat	takulu
+2	47:13:19	w	ࡲ۬لَانْعَٰمُ		الانعم	the cattle	l-anʿāmu
+3	47:13:20	w	وَالنَّارُ		والنار	and the Fire	wal-nāru
+3	47:13:21	w	مَثْوىࣰ		مثوي	(will be) an abode	mathwan
+3	47:13:22	w	لَّهُمْ࣌		لهم	for them	lahum
+3	47:13:23	e	۝١٣				
+3	47:14:1	w	وَكَأَيِّن		وكاين	And how many	waka-ayyin
+3	47:14:2	w	مِّن		من	of	min
+3	47:14:3	w	قَرْيَةٍ		قرية	a town	qaryatin
+3	47:14:4	w	هِيَ		هي	which	hiya
+3	47:14:5	w	أَشَدُّ		اشد	(was) stronger	ashaddu
+3	47:14:6	w	قُوَّةࣰ		قوة	(in) strength	quwwatan
+3	47:14:7	w	مِّن		من	than	min
+3	47:14:8	w	قَرْيَتِكَ		قريتك	your town	qaryatika
+3	47:14:9	w	ࡰ۬لتِےٓ		التي	which	allatī
+4	47:14:10	w	أَخْرَجَتْكَ		اخرجتك	has driven you out	akhrajatka
+4	47:14:11	w	أَهْلَكْنَٰهُمْ		اهلكنهم	We destroyed them	ahlaknāhum
+4	47:14:12	w	فَلَا		فلا	so no	falā
+4	47:14:13	w	نَاصِرَ		ناصر	helper	nāṣira
+4	47:14:14	w	لَهُمُۥٓ࣌		لهم	for them	lahum
+4	47:14:15	e	۝١٤				
+4	47:15:1	w	أَفَمَن		افمن	Then is (he) who	afaman
+4	47:15:2	w	كَانَ		كان	is	kāna
+4	47:15:3	w	عَلَىٰ		علي	on	ʿalā
+4	47:15:4	w	بَيِّنَةࣲ		بينة	a clear proof	bayyinatin
+5	47:15:5	w	مِّن		من	from	min
+5	47:15:6	w	رَّبِّهِۦ		ربهي	his Lord	rabbihi
+5	47:15:7	w	كَمَن		كمن	like (he) who	kaman
+5	47:15:8	w	زُيِّنَ		زين	is made attractive	zuyyina
+5	47:15:9	w	لَهُۥ		له	to him	lahu
+5	47:15:10	w	سُوٓءُ		سو	(the) evil	sūu
+5	47:15:11	w	عَمَلِهِۦ		عملهي	(of) his deeds	ʿamalihi
+5	47:15:12	w	وَاتَّبَعُوٓاْ		واتبعوا	while they follow	wa-ittabaʿū
+5	47:15:13	w	أَهْوَآءَهُم࣌		اهواهم	their desires	ahwāahum
+5	47:15:14	e	۝١٥				
+5	47:16:1	w	مَّثَلُ		مثل	A parable	mathalu
+5	47:16:2	w	ࡲ۬لْجَنَّةِ		الجنة	(of) Paradise	l-janati
+6	47:16:3	w	ࡴ۬لتِے		التي	which	allatī
+6	47:16:4	w	وُعِدَ		وعد	is promised	wuʿida
+6	47:16:5	w	ࡰ۬لْمُتَّقُونَ		المتقون	(to) the righteous	l-mutaqūna
+6	47:16:6	w	فِيهَآ		فيها	Therein	fīhā
+6	47:16:7	w	أَنْهَٰرࣱ		انهر	(are) rivers	anhārun
+6	47:16:8	w	مِّن		من	of	min
+6	47:16:9	w	مَّآءٍ		ما	water	māin
+6	47:16:10	w	غَيْرِ		غير	not	ghayri
+6	47:16:11	w	ءَاسِنࣲ		اسن	polluted	āsinin
+6	47:16:12	w	وَأَنْهَٰرࣱ		وانهر	and rivers	wa-anhārun
+6	47:16:13	w	مِّن		من	of	min
+6	47:16:14	w	لَّبَنࣲ		لبن	milk	labanin
+7	47:16:15	w	لَّمْ		لم	not	lam
+7	47:16:16	w	يَتَغَيَّرْ		يتغير	changes	yataghayyar
+7	47:16:17	w	طَعْمُهُۥ		طعمه	its taste	ṭaʿmuhu
+7	47:16:18	w	وَأَنْهَٰرࣱ		وانهر	and rivers	wa-anhārun
+7	47:16:19	w	مِّنْ		من	of	min
+7	47:16:20	w	خَمْرࣲ		خمر	wine	khamrin
+7	47:16:21	w	لَّذَّةࣲ		لذة	delicious	ladhatin
+7	47:16:22	w	لِّلشَّٰرِبِينَ		للشربين	for (the) drinkers	lilshāribīna
+7	47:16:23	w	وَأَنْهَٰرࣱ		وانهر	and rivers	wa-anhārun
+7	47:16:24	w	مِّنْ		من	of	min
+7	47:16:25	w	عَسَلࣲ		عسل	honey	ʿasalin
+8	47:16:26	w	مُّصَفّىࣰ࣌		مصفي	purified	muṣaffan
+8	47:16:27	w	وَلَهُمْ		ولهم	and for them	walahum
+8	47:16:28	w	فِيهَا		فيها	therein	fīhā
+8	47:16:29	w	مِن		من	of	min
+8	47:16:30	w	كُلِّ		كل	all	kulli
+8	47:16:31	w	ࡴ۬لثَّمَرَٰتِ		الثمرت	fruits	l-thamarāti
+8	47:16:32	w	وَمَغْفِرَةࣱ		ومغفرة	and forgiveness	wamaghfiratun
+8	47:16:33	w	مِّن		من	from	min
+8	47:16:34	w	رَّبِّهِمْ		ربهم	their Lord	rabbihim
+8	47:16:35	w	كَمَنْ		كمن	like he who	kaman
+9	47:16:36	w	هُوَ		هو	like he who	huwa
+9	47:16:37	w	خَٰلِدࣱ		خلد	(will) abide forever	khālidun
+9	47:16:38	w	فِے		في	in	fī
+9	47:16:39	w	ࡴ۬لنّٜارِ		النار	the Fire	l-nāri
+9	47:16:40	w	وَسُقُواْ		وسقوا	and they will be given to drink	wasuqū
+9	47:16:41	w	مَآءً		ما	water	māan
+9	47:16:42	w	حَمِيماࣰ		حميما	boiling	ḥamīman
+9	47:16:43	w	فَقَطَّعَ		فقطع	so it cuts into pieces	faqaṭṭaʿa
+9	47:16:44	w	أَمْعَآءَهُمْ࣌		امعاهم	their intestines	amʿāahum
+9	47:16:45	e	۝١٦				
+9	47:17:1	w	وَمِنْهُم		ومنهم	And among them	wamin'hum
+10	47:17:2	w	مَّنْ		من	(are some) who	man
+10	47:17:3	w	يَّسْتَمِعُ		يستمع	listen	yastamiʿu
+10	47:17:4	w	إِلَيْكَ		اليك	to you	ilayka
+10	47:17:5	w	حَتَّىٰٓ		حتي	until	ḥattā
+10	47:17:6	w	إِذَا		اذا	when	idhā
+10	47:17:7	w	خَرَجُواْ		خرجوا	they depart	kharajū
+10	47:17:8	w	مِنْ		من	from	min
+10	47:17:9	w	عِندِكَ		عندك	you	ʿindika
+10	47:17:10	w	قَالُواْ		قالوا	they say	qālū
+10	47:17:11	w	لِلذِينَ		للذين	to those who	lilladhīna
+10	47:17:12	w	أُوتُواْ		اوتوا	were given	ūtū
+11	47:17:13	w	ࡲ۬لْعِلْمَ		العلم	the knowledge	l-ʿil'ma
+11	47:17:14	w	مَاذَا		ماذا	What	mādhā
+11	47:17:15	w	قَالَ		قال	(has) he said	qāla
+11	47:17:16	w	ءَانِفاً࣌		انفا	just now	ānifan
+11	47:17:17	w	ࡳوْلَٰٓئِكَ		اوليك	Those	ulāika
+11	47:17:18	w	ࡰ۬لذِينَ		الذين	(are) the ones	alladhīna
+11	47:17:19	w	طَبَعَ		طبع	Allah has set a seal	ṭabaʿa
+11	47:17:20	w	ࡰ۬للَّهُ		الله	Allah has set a seal	l-lahu
+11	47:17:21	w	عَلَىٰ		علي	upon	ʿalā
+11	47:17:22	w	قُلُوبِهِمْ		قلوبهم	their hearts	qulūbihim
+11	47:17:23	w	وَاتَّبَعُوٓاْ		واتبعوا	and they follow	wa-ittabaʿū
+12	47:17:24	w	أَهْوَآءَهُمْ࣌		اهواهم	their desires	ahwāahum
+12	47:17:25	e	۝١٧				
+12	47:18:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+12	47:18:2	w	ࡰٜهْتَدَوْاْ		اهتدوا	accept guidance	ih'tadaw
+12	47:18:3	w	زَادَهُمْ		زادهم	He increases them	zādahum
+12	47:18:4	w	هُدىࣰ		هدي	(in) guidance	hudan
+12	47:18:5	w	وَءَاتٜيٰهُمْ		واتيهم	and gives them	waātāhum
+12	47:18:6	w	تَقْوٜيٰهُمْ࣌		تقويهم	their righteousness	taqwāhum
+12	47:18:7	e	۝١٨				
+13	47:19:1	w	فَهَلْ		فهل	Then do	fahal
+13	47:19:2	w	يَنظُرُونَ		ينظرون	they wait	yanẓurūna
+13	47:19:3	w	إِلَّا		الا	but	illā
+13	47:19:4	w	ࡰ۬لسَّاعَةَ		الساعة	(for) the Hour	l-sāʿata
+13	47:19:5	w	أَن		ان	that	an
+13	47:19:6	w	تَاتِيَهُم		تاتيهم	it should come to them	tatiyahum
+13	47:19:7	w	بَغْتَةࣰ		بغتة	suddenly	baghtatan
+13	47:19:8	w	فَقَدْ		فقد	But indeed	faqad
+13	47:19:9	w	جَآءَ		جا	have come	jāa
+13	47:19:10	w	اشْرَاطُهَا࣌		اشراطها	its indications	ashrāṭuhā
+13	47:19:11	w	فَأَنّٜىٰ		فاني	Then how	fa-annā
+14	47:19:12	w	لَهُمُۥٓ		لهم	to them	lahum
+14	47:19:13	w	إِذَا		اذا	when	idhā
+14	47:19:14	w	جَآءَتْهُمْ		جاتهم	has come to them	jāathum
+14	47:19:15	w	ذِكْرٜيٰهُمْ࣌		ذكريهم	their reminder	dhik'rāhum
+14	47:19:16	e	۝١٩				
+14	47:20:1	w	فَاعْلَمَ		فاعلم	So know	fa-iʿ'lam
+14	47:20:2	w	ࡰنَّهُۥ		انه	that [He]	annahu
+14	47:20:3	w	لَآ		لا	(there is) no	lā
+14	47:20:4	w	إِلَٰهَ		اله	god	ilāha
+14	47:20:5	w	إِلَّا		الا	but	illā
+14	47:20:6	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+14	47:20:7	w	وَاسْتَغْفِرْ		واستغفر	and ask forgiveness	wa-is'taghfir
+15	47:20:8	w	لِذَنۢبِكَ		لذنبك	for your sin	lidhanbika
+15	47:20:9	w	وَلِلْمُومِنِينَ		وللمومنين	and for the believing men	walil'mu'minīna
+15	47:20:10	w	وَالْمُومِنَٰتِ࣌		والمومنت	and the believing women	wal-mu'mināti
+15	47:20:11	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	47:20:12	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+15	47:20:13	w	مُتَقَلَّبَكُمْ		متقلبكم	your movement	mutaqallabakum
+15	47:20:14	w	وَمَثْوٜيٰكُمْ࣌		ومثويكم	and your resting places	wamathwākum
+15	47:20:15	e	۝٢٠				

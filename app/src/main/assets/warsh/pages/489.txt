@@ -1,0 +1,121 @@
+1	42:49:1	w	وَكَذَٰلِكَ		وكذلك	And thus	wakadhālika
+1	42:49:2	w	أَوْحَيْنَآ		اوحينا	We have revealed	awḥaynā
+1	42:49:3	w	إِلَيْكَ		اليك	to you	ilayka
+1	42:49:4	w	رُوحاࣰ		روحا	an inspiration	rūḥan
+1	42:49:5	w	مِّنَ		من	by	min
+1	42:49:6	w	ࡰمْرِنَا࣌		امرنا	Our Command	amrinā
+1	42:49:7	w	مَا		ما	Not	mā
+1	42:49:8	w	كُنتَ		كنت	(did) you	kunta
+1	42:49:9	w	تَدْرِے		تدري	know	tadrī
+1	42:49:10	w	مَا		ما	what	mā
+1	42:49:11	w	ࡰ۬لْكِتَٰبُ		الكتب	the Book (is)	l-kitābu
+2	42:49:12	w	وَلَا		ولا	and not	walā
+2	42:49:13	w	ࡰ۬لِايمَٰنُ࣌		الايمن	the faith	l-īmānu
+2	42:49:14	w	وَلَٰكِن		ولكن	But	walākin
+2	42:49:15	w	جَعَلْنَٰهُ		جعلنه	We have made it	jaʿalnāhu
+2	42:49:16	w	نُوراࣰ		نورا	a light	nūran
+2	42:49:17	w	نَّهْدِے		نهدي	We guide	nahdī
+2	42:49:18	w	بِهِۦ		بهي	with it	bihi
+2	42:49:19	w	مَن		من	whom	man
+2	42:49:20	w	نَّشَآءُ		نشا	We will	nashāu
+2	42:49:21	w	مِنْ		من	of	min
+2	42:49:22	w	عِبَادِنَا࣌		عبادنا	Our slaves	ʿibādinā
+3	42:49:23	w	وَإِنَّكَ		وانك	And indeed, you	wa-innaka
+3	42:49:24	w	لَتَهْدِےٓ		لتهدي	surely guide	latahdī
+3	42:49:25	w	إِلَىٰ		الي	to	ilā
+3	42:49:26	w	صِرَٰطࣲ		صرط	(the) Path	ṣirāṭin
+3	42:49:27	w	مُّسْتَقِيمࣲ		مستقيم	Straight	mus'taqīmin
+3	42:49:28	e	۝٤٩				
+3	42:50:1	w	صِرَٰطِ		صرط	(The) path	ṣirāṭi
+3	42:50:2	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+3	42:50:3	w	ࡴ۬لذِے		الذي	the One	alladhī
+3	42:50:4	w	لَهُۥ		له	to Whom	lahu
+4	42:50:5	w	مَا		ما	(belongs) whatever	mā
+4	42:50:6	w	فِے		في	(is) in	fī
+4	42:50:7	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+4	42:50:8	w	وَمَا		وما	and whatever	wamā
+4	42:50:9	w	فِے		في	(is) in	fī
+4	42:50:10	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+4	42:50:11	w	أَلَآ		الا	Unquestionably	alā
+4	42:50:12	w	إِلَى		الي	To	ilā
+4	42:50:13	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+4	42:50:14	w	تَصِيرُ		تصير	reach	taṣīru
+4	42:50:15	w	ࡲ۬لُامُورُ࣌		الامور	all affairs	l-umūru
+4	42:50:16	e	۝٥٠				
+5	43:0:0	t					
+6	43:0:0	b					
+7	43:1:1	w	حٜمِٓ࣌		حم	Ha Meem	hha-meem
+7	43:1:2	w	وَالْكِتَٰبِ		والكتب	By the Book	wal-kitābi
+7	43:1:3	w	ࡴ۬لْمُبِينِ		المبين	the clear	l-mubīni
+7	43:1:4	e	۝١				
+7	43:2:1	w	إِنَّا		انا	Indeed, We	innā
+7	43:2:2	w	جَعَلْنَٰهُ		جعلنه	(have) made it	jaʿalnāhu
+7	43:2:3	w	قُرْءَٰناً		قرنا	a Quran	qur'ānan
+7	43:2:4	w	عَرَبِيّاࣰ		عربيا	(in) Arabic	ʿarabiyyan
+8	43:2:5	w	لَّعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+8	43:2:6	w	تَعْقِلُونَ࣌		تعقلون	understand	taʿqilūna
+8	43:2:7	e	۝٢				
+8	43:3:1	w	وَإِنَّهُۥ		وانه	And indeed, it	wa-innahu
+8	43:3:2	w	فِےٓ		في	(is) in	fī
+8	43:3:3	w	أُمِّ		ام	(the) Mother	ummi
+8	43:3:4	w	ࡴ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+8	43:3:5	w	لَدَيْنَا		لدينا	with Us	ladaynā
+9	43:3:6	w	لَعَلِيٌّ		لعلي	surely exalted	laʿaliyyun
+9	43:3:7	w	حَكِيمٌ࣌		حكيم	full of wisdom	ḥakīmun
+9	43:3:8	e	۝٣				
+9	43:4:1	w	ࡰفَنَضْرِبُ		افنضرب	Then should We take away	afanaḍribu
+9	43:4:2	w	عَنكُمُ		عنكم	from you	ʿankumu
+9	43:4:3	w	ࡲ۬لذِّكْرَ		الذكر	the Reminder	l-dhik'ra
+9	43:4:4	w	صَفْحاً		صفحا	disregarding (you)	ṣafḥan
+10	43:4:5	w	ࡴن		ان	because	an
+10	43:4:6	w	كُنتُمْ		كنتم	you are	kuntum
+10	43:4:7	w	قَوْماࣰ		قوما	a people	qawman
+10	43:4:8	w	مُّسْرِفِينَ࣌		مسرفين	transgressing	mus'rifīna
+10	43:4:9	e	۝٤				
+10	43:5:1	w	وَكَمَ		وكم	And how many	wakam
+10	43:5:2	w	ࡰرْسَلْنَا		ارسلنا	We sent	arsalnā
+10	43:5:3	w	مِن		من	of	min
+10	43:5:4	w	نَّبِےٓءࣲ		نبي	a Prophet	nabiyyin
+10	43:5:5	w	فِے		في	among	fī
+11	43:5:6	w	ࡴ۬لَاوَّلِينَ࣌		الاولين	the former (people)	l-awalīna
+11	43:5:7	e	۝٥				
+11	43:6:1	w	وَمَا		وما	And not	wamā
+11	43:6:2	w	يَاتِيهِم		ياتيهم	came to them	yatīhim
+11	43:6:3	w	مِّن		من	any Prophet	min
+11	43:6:4	w	نَّبِےٓءٍ		نبي	any Prophet	nabiyyin
+11	43:6:5	w	ࡴلَّا		الا	but	illā
+11	43:6:6	w	كَانُواْ		كانوا	they used to	kānū
+11	43:6:7	w	بِهِۦ		بهي	mock at him	bihi
+11	43:6:8	w	يَسْتَهْزِءُونَ࣌		يستهزون	mock at him	yastahziūna
+11	43:6:9	e	۝٦				
+12	43:7:1	w	فَأَهْلَكْنَآ		فاهلكنا	Then We destroyed	fa-ahlaknā
+12	43:7:2	w	أَشَدَّ		اشد	stronger	ashadda
+12	43:7:3	w	مِنْهُم		منهم	than them	min'hum
+12	43:7:4	w	بَطْشاࣰ࣌		بطشا	(in) power	baṭshan
+12	43:7:5	w	وَمَضٜىٰ		ومضي	and has passed	wamaḍā
+12	43:7:6	w	مَثَلُ		مثل	(the) example	mathalu
+12	43:7:7	w	ࡲ۬لَاوَّلِينَ࣌		الاولين	(of) the former (people)	l-awalīna
+12	43:7:8	e	۝٧				
+13	43:8:1	w	وَلَئِن		ولين	And if	wala-in
+13	43:8:2	w	سَأَلْتَهُم		سالتهم	you ask them	sa-altahum
+13	43:8:3	w	مَّنْ		من	Who	man
+13	43:8:4	w	خَلَقَ		خلق	created	khalaqa
+13	43:8:5	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+13	43:8:6	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+13	43:8:7	w	لَيَقُولُنَّ		ليقولن	They will surely say	layaqūlunna
+14	43:8:8	w	خَلَقَهُنَّ		خلقهن	Created them	khalaqahunna
+14	43:8:9	w	ࡰ۬لْعَزِيزُ		العزيز	the All-Mighty	l-ʿazīzu
+14	43:8:10	w	ࡲ۬لْعَلِيمُ࣌		العليم	the All-Knower	l-ʿalīmu
+14	43:8:11	e	۝٨				
+14	43:9:1	w	ࡲ۬لذِے		الذي	The One Who	alladhī
+14	43:9:2	w	جَعَلَ		جعل	made	jaʿala
+14	43:9:3	w	لَكُمُ		لكم	for you	lakumu
+14	43:9:4	w	ࡲ۬لَارْضَ		الارض	the earth	l-arḍa
+15	43:9:5	w	مِهَٰداࣰ		مهدا	a bed	mahdan
+15	43:9:6	w	وَجَعَلَ		وجعل	and made	wajaʿala
+15	43:9:7	w	لَكُمْ		لكم	for you	lakum
+15	43:9:8	w	فِيهَا		فيها	therein	fīhā
+15	43:9:9	w	سُبُلاࣰ		سبلا	roads	subulan
+15	43:9:10	w	لَّعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+15	43:9:11	w	تَهْتَدُونَ࣌		تهتدون	(be) guided	tahtadūna
+15	43:9:12	e	۝٩				

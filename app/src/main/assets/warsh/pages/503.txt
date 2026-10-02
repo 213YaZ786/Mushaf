@@ -1,0 +1,162 @@
+1	46:5:1	w	وَإِذَا		واذا	And when	wa-idhā
+1	46:5:2	w	حُشِرَ		حشر	are gathered	ḥushira
+1	46:5:3	w	ࡰ۬لنَّاسُ		الناس	the people	l-nāsu
+1	46:5:4	w	كَانُواْ		كانوا	they will be	kānū
+1	46:5:5	w	لَهُمُۥٓ		لهم	for them	lahum
+1	46:5:6	w	أَعْدَآءࣰ		اعدا	enemies	aʿdāan
+1	46:5:7	w	وَكَانُواْ		وكانوا	and they will be	wakānū
+1	46:5:8	w	بِعِبَادَتِهِمْ		بعبادتهم	of their worship	biʿibādatihim
+1	46:5:9	w	كٜـٰفِرِينَ࣌		كفرين	deniers	kāfirīna
+1	46:5:10	e	۝٥				
+1	46:6:1	w	وَإِذَا		واذا	And when	wa-idhā
+2	46:6:2	w	تُتْلٜىٰ		تتلي	are recited	tut'lā
+2	46:6:3	w	عَلَيْهِمُۥٓ		عليهم	to them	ʿalayhim
+2	46:6:4	w	ءَايَٰتُنَا		ايتنا	Our Verses	āyātunā
+2	46:6:5	w	بَيِّنَٰتࣲ		بينت	clear	bayyinātin
+2	46:6:6	w	قَالَ		قال	say	qāla
+2	46:6:7	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+2	46:6:8	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+2	46:6:9	w	لِلْحَقِّ		للحق	of the truth	lil'ḥaqqi
+2	46:6:10	w	لَمَّا		لما	when	lammā
+2	46:6:11	w	جَآءَهُمْ		جاهم	it comes to them	jāahum
+2	46:6:12	w	هَٰذَا		هذا	This	hādhā
+3	46:6:13	w	سِحْرࣱ		سحر	(is) a magic	siḥ'run
+3	46:6:14	w	مُّبِينٌ࣌		مبين	clear	mubīnun
+3	46:6:15	e	۝٦				
+3	46:7:1	w	ࡰمْ		ام	Or	am
+3	46:7:2	w	يَقُولُونَ		يقولون	they say	yaqūlūna
+3	46:7:3	w	ࡰٜفْتَرٜيٰهُ࣌		افتريه	He has invented it	if'tarāhu
+3	46:7:4	w	قُلِ		قل	Say	qul
+3	46:7:5	w	ࡴنِ		ان	If	ini
+3	46:7:6	w	ࡴٜفْتَرَيْتُهُۥ		افتريته	I have invented it	if'taraytuhu
+3	46:7:7	w	فَلَا		فلا	then not	falā
+3	46:7:8	w	تَمْلِكُونَ		تملكون	you have power	tamlikūna
+4	46:7:9	w	لِے		لي	for me	lī
+4	46:7:10	w	مِنَ		من	against	mina
+4	46:7:11	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+4	46:7:12	w	شَيْـٔاً࣌		شيا	anything	shayan
+4	46:7:13	w	هُوَ		هو	He	huwa
+4	46:7:14	w	أَعْلَمُ		اعلم	knows best	aʿlamu
+4	46:7:15	w	بِمَا		بما	of what	bimā
+4	46:7:16	w	تُفِيضُونَ		تفيضون	you utter	tufīḍūna
+4	46:7:17	w	فِيهِ࣌		فيه	concerning it	fīhi
+4	46:7:18	w	كَفٜىٰ		كفي	Sufficient is He	kafā
+4	46:7:19	w	بِهِۦ		بهي	Sufficient is He	bihi
+4	46:7:20	w	شَهِيداَۢ		شهيدا	(as) a Witness	shahīdan
+4	46:7:21	w	بَيْنِے		بيني	between me	baynī
+5	46:7:22	w	وَبَيْنَكُمْ࣌		وبينكم	and between you	wabaynakum
+5	46:7:23	w	وَهُوَ		وهو	and He	wahuwa
+5	46:7:24	w	ࡰ۬لْغَفُورُ		الغفور	(is) the Oft-Forgiving	l-ghafūru
+5	46:7:25	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+5	46:7:26	e	۝٧				
+5	46:8:1	w	قُلْ		قل	Say	qul
+5	46:8:2	w	مَا		ما	Not	mā
+5	46:8:3	w	كُنتُ		كنت	I am	kuntu
+5	46:8:4	w	بِدْعاࣰ		بدعا	a new (one)	bid'ʿan
+5	46:8:5	w	مِّنَ		من	among	mina
+5	46:8:6	w	ࡰ۬لرُّسُلِ		الرسل	the Messengers	l-rusuli
+6	46:8:7	w	وَمَآ		وما	and not	wamā
+6	46:8:8	w	أَدْرِے		ادري	I know	adrī
+6	46:8:9	w	مَا		ما	what	mā
+6	46:8:10	w	يُفْعَلُ		يفعل	will be done	yuf'ʿalu
+6	46:8:11	w	بِے		بي	with me	bī
+6	46:8:12	w	وَلَا		ولا	and not	walā
+6	46:8:13	w	بِكُمُۥٓ࣌		بكم	with you	bikum
+6	46:8:14	w	إِنَ		ان	Not	in
+6	46:8:15	w	ࡰتَّبِعُ		اتبع	I follow	attabiʿu
+6	46:8:16	w	إِلَّا		الا	but	illā
+6	46:8:17	w	مَا		ما	what	mā
+6	46:8:18	w	يُوحٜىٰٓ		يوحي	is revealed	yūḥā
+6	46:8:19	w	إِلَيَّ࣌		الي	to me	ilayya
+6	46:8:20	w	وَمَآ		وما	and not	wamā
+6	46:8:21	w	أَنَا		انا	I am	anā
+7	46:8:22	w	إِلَّا		الا	but	illā
+7	46:8:23	w	نَذِيرࣱ		نذير	a warner	nadhīrun
+7	46:8:24	w	مُّبِينࣱ࣌		مبين	clear	mubīnun
+7	46:8:25	e	۝٨				
+7	46:9:1	w	قُلَ		قل	Say	qul
+7	46:9:2	w	ࡰرَٰٓيْتُمُۥٓ		اريتم	Do you see	ara-aytum
+7	46:9:3	w	إِن		ان	if	in
+7	46:9:4	w	كَانَ		كان	it is	kāna
+7	46:9:5	w	مِنْ		من	from Allah	min
+7	46:9:6	w	عِندِ		عند	from Allah	ʿindi
+7	46:9:7	w	ࡴ۬للَّهِ		الله	from Allah	l-lahi
+7	46:9:8	w	وَكَفَرْتُم		وكفرتم	and you disbelieve	wakafartum
+7	46:9:9	w	بِهِۦ		بهي	in it	bihi
+8	46:9:10	w	وَشَهِدَ		وشهد	and testifies	washahida
+8	46:9:11	w	شَاهِدࣱ		شاهد	a witness	shāhidun
+8	46:9:12	w	مِّنۢ		من	from	min
+8	46:9:13	w	بَنِےٓ		بني	(the) Children of Israel	banī
+8	46:9:14	w	إِسْرَآءِيلَ		اسرايل	(the) Children of Israel	is'rāīla
+8	46:9:15	w	عَلَىٰ		علي	to	ʿalā
+8	46:9:16	w	مِثْلِهِۦ		مثلهي	(the) like thereof	mith'lihi
+8	46:9:17	w	فَـَٔامَنَ		فامن	then he believed	faāmana
+8	46:9:18	w	وَاسْتَكْبَرْتُمُۥٓ࣌		واستكبرتم	while you are arrogant	wa-is'takbartum
+9	46:9:19	w	إِنَّ		ان	Indeed	inna
+9	46:9:20	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+9	46:9:21	w	لَا		لا	(does) not	lā
+9	46:9:22	w	يَهْدِے		يهدي	guide	yahdī
+9	46:9:23	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+9	46:9:24	w	ࡰ۬لظَّٰلِمِينَ࣌		الظلمين	the wrongdoers	l-ẓālimīna
+9	46:9:25	e	۝٩				
+9	46:10:1	w	وَقَالَ		وقال	And say	waqāla
+9	46:10:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+9	46:10:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+10	46:10:4	w	لِلذِينَ		للذين	of those who	lilladhīna
+10	46:10:5	w	ءَامَنُواْ		امنوا	believe	āmanū
+10	46:10:6	w	لَوْ		لو	If	law
+10	46:10:7	w	كَانَ		كان	it had been	kāna
+10	46:10:8	w	خَيْراࣰ		خيرا	good	khayran
+10	46:10:9	w	مَّا		ما	not	mā
+10	46:10:10	w	سَبَقُونَآ		سبقونا	they (would) have preceded us	sabaqūnā
+10	46:10:11	w	إِلَيْهِ࣌		اليه	to it	ilayhi
+10	46:10:12	w	وَإِذْ		واذ	And when	wa-idh
+10	46:10:13	w	لَمْ		لم	not	lam
+10	46:10:14	w	يَهْتَدُواْ		يهتدوا	they (are) guided	yahtadū
+10	46:10:15	w	بِهِۦ		بهي	by it	bihi
+11	46:10:16	w	فَسَيَقُولُونَ		فسيقولون	they say	fasayaqūlūna
+11	46:10:17	w	هَٰذَآ		هذا	This	hādhā
+11	46:10:18	w	إِفْكࣱ		افك	(is) a lie	if'kun
+11	46:10:19	w	قَدِيمࣱ࣌		قديم	ancient	qadīmun
+11	46:10:20	e	۝١٠				
+11	46:11:1	w	وَمِن		ومن	And before it	wamin
+11	46:11:2	w	قَبْلِهِۦ		قبلهي	And before it	qablihi
+11	46:11:3	w	كِتَٰبُ		كتب	(was the) Scripture	kitābu
+11	46:11:4	w	مُوسٜىٰٓ		موسي	(of) Musa	mūsā
+12	46:11:5	w	إِمَاماࣰ		اماما	(as) a guide	imāman
+12	46:11:6	w	وَرَحْمَةࣰ࣌		ورحمة	and a mercy	waraḥmatan
+12	46:11:7	w	وَهَٰذَا		وهذا	And this	wahādhā
+12	46:11:8	w	كِتَٰبࣱ		كتب	(is) a Book	kitābun
+12	46:11:9	w	مُّصَدِّقࣱ		مصدق	confirming	muṣaddiqun
+12	46:11:10	w	لِّسَاناً		لسانا	(in) language	lisānan
+12	46:11:11	w	عَرَبِيّاࣰ		عربيا	Arabic	ʿarabiyyan
+12	46:11:12	w	لِّتُنذِرَ		لتنذر	to warn	liyundhira
+13	46:11:13	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	46:11:14	w	ظَلَمُواْ		ظلموا	do wrong	ẓalamū
+13	46:11:15	w	وَبُشْرٜىٰ		وبشري	and (as) glad tidings	wabush'rā
+13	46:11:16	w	لِلْمُحْسِنِينَ࣌		للمحسنين	for the good-doers	lil'muḥ'sinīna
+13	46:11:17	e	۝١١				
+13	46:12:1	w	إِنَّ		ان	Indeed	inna
+13	46:12:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	46:12:3	w	قَالُواْ		قالوا	say	qālū
+13	46:12:4	w	رَبُّنَا		ربنا	Our Lord	rabbunā
+14	46:12:5	w	ࡰ۬للَّهُ		الله	(is) Allah	l-lahu
+14	46:12:6	w	ثُمَّ		ثم	then	thumma
+14	46:12:7	w	ࡰٜسْتَقَٰمُواْ		استقموا	remain firm	is'taqāmū
+14	46:12:8	w	فَلَا		فلا	then no	falā
+14	46:12:9	w	خَوْفٌ		خوف	fear	khawfun
+14	46:12:10	w	عَلَيْهِمْ		عليهم	on them	ʿalayhim
+14	46:12:11	w	وَلَا		ولا	and not	walā
+14	46:12:12	w	هُمْ		هم	they	hum
+14	46:12:13	w	يَحْزَنُونَ࣌		يحزنون	will grieve	yaḥzanūna
+14	46:12:14	e	۝١٢				
+15	46:13:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+15	46:13:2	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+15	46:13:3	w	ࡲ۬لْجَنَّةِ		الجنة	(of) Paradise	l-janati
+15	46:13:4	w	خَٰلِدِينَ		خلدين	abiding forever	khālidīna
+15	46:13:5	w	فِيهَا࣌		فيها	therein	fīhā
+15	46:13:6	w	جَزَآءَۢ		جزا	a reward	jazāan
+15	46:13:7	w	بِمَا		بما	for what	bimā
+15	46:13:8	w	كَانُواْ		كانوا	they used to	kānū
+15	46:13:9	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+15	46:13:10	e	۝١٣				

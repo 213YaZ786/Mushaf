@@ -1,0 +1,144 @@
+1	24:32:1	w	وَأَنكِحُواْ		وانكحوا	And marry	wa-ankiḥū
+1	24:32:2	w	ࡲ۬لَايَٰمٜىٰ		الايمي	the single	l-ayāmā
+1	24:32:3	w	مِنكُمْ		منكم	among you	minkum
+1	24:32:4	w	وَالصَّٰلِحِينَ		والصلحين	and the righteous	wal-ṣāliḥīna
+1	24:32:5	w	مِنْ		من	among	min
+1	24:32:6	w	عِبَادِكُمْ		عبادكم	your male slaves	ʿibādikum
+1	24:32:7	w	وَإِمَآئِكُمُۥٓ࣌		وامايكم	and your female slaves	wa-imāikum
+2	24:32:8	w	إِنْ		ان	If	in
+2	24:32:9	w	يَّكُونُواْ		يكونوا	they are	yakūnū
+2	24:32:10	w	فُقَرَآءَ		فقرا	poor	fuqarāa
+2	24:32:11	w	يُغْنِهِمُ		يغنهم	Allah will enrich them	yugh'nihimu
+2	24:32:12	w	ࡲ۬للَّهُ		الله	Allah will enrich them	l-lahu
+2	24:32:13	w	مِن		من	from	min
+2	24:32:14	w	فَضْلِهِۦ࣌		فضلهي	His Bounty	faḍlihi
+2	24:32:15	w	وَاللَّهُ		والله	And Allah	wal-lahu
+2	24:32:16	w	وَٰسِعٌ		وسع	(is) All-Encompassing	wāsiʿun
+2	24:32:17	w	عَلِيمࣱ࣌		عليم	All-Knowing	ʿalīmun
+2	24:32:18	e	۝٣٢				
+3	24:33:1	w	وَلْيَسْتَعْفِفِ		وليستعفف	And let be chaste	walyastaʿfifi
+3	24:33:2	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+3	24:33:3	w	لَا		لا	(do) not	lā
+3	24:33:4	w	يَجِدُونَ		يجدون	find	yajidūna
+3	24:33:5	w	نِكَاحاً		نكاحا	(means for) marriage	nikāḥan
+3	24:33:6	w	حَتَّىٰ		حتي	until	ḥattā
+3	24:33:7	w	يُغْنِيَهُمُ		يغنيهم	Allah enriches them	yugh'niyahumu
+3	24:33:8	w	ࡲ۬للَّهُ		الله	Allah enriches them	l-lahu
+3	24:33:9	w	مِن		من	from	min
+3	24:33:10	w	فَضْلِهِۦ࣌		فضلهي	His Bounty	faḍlihi
+4	24:33:11	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+4	24:33:12	w	يَبْتَغُونَ		يبتغون	seek	yabtaghūna
+4	24:33:13	w	ࡰ۬لْكِتَٰبَ		الكتب	the writing	l-kitāba
+4	24:33:14	w	مِمَّا		مما	from (those) whom	mimmā
+4	24:33:15	w	مَلَكَتَ		ملكت	possess	malakat
+4	24:33:16	w	ࡰيْمَٰنُكُمْ		ايمنكم	your right hands	aymānukum
+4	24:33:17	w	فَكَاتِبُوهُمُۥٓ		فكاتبوهم	then give them (the) writing	fakātibūhum
+5	24:33:18	w	إِنْ		ان	if	in
+5	24:33:19	w	عَلِمْتُمْ		علمتم	you know	ʿalim'tum
+5	24:33:20	w	فِيهِمْ		فيهم	in them	fīhim
+5	24:33:21	w	خَيْراࣰ࣌		خيرا	any good	khayran
+5	24:33:22	w	وَءَاتُوهُم		واتوهم	and give them	waātūhum
+5	24:33:23	w	مِّن		من	from	min
+5	24:33:24	w	مَّالِ		مال	the wealth of Allah	māli
+5	24:33:25	w	ࡴ۬للَّهِ		الله	the wealth of Allah	l-lahi
+5	24:33:26	w	ࡴ۬لذِےٓ		الذي	which	alladhī
+5	24:33:27	w	ءَاتٜيٰكُمْ࣌		اتيكم	He has given you	ātākum
+5	24:33:28	w	وَلَا		ولا	And (do) not	walā
+6	24:33:29	w	تُكْرِهُواْ		تكرهوا	compel	tuk'rihū
+6	24:33:30	w	فَتَيَٰتِكُمْ		فتيتكم	your slave girls	fatayātikum
+6	24:33:31	w	عَلَى		علي	to	ʿalā
+6	24:33:32	w	ࡰ۬لْبِغَآءِ		البغا	[the] prostitution	l-bighāi
+6	24:33:33	w	انَ		ان	if	in
+6	24:33:34	w	ࡰرَدْنَ		اردن	they desire	aradna
+6	24:33:35	w	تَحَصُّناࣰ		تحصنا	chastity	taḥaṣṣunan
+6	24:33:36	w	لِّتَبْتَغُواْ		لتبتغوا	that you may seek	litabtaghū
+6	24:33:37	w	عَرَضَ		عرض	temporary gain	ʿaraḍa
+6	24:33:38	w	ࡰ۬لْحَيَوٰةِ		الحيوة	(of) the life	l-ḥayati
+7	24:33:39	w	ࡴ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+7	24:33:40	w	وَمَنْ		ومن	And whoever	waman
+7	24:33:41	w	يُّكْرِههُّنَّ		يكرههن	compels them	yuk'rihhunna
+7	24:33:42	w	فَإِنَّ		فان	then indeed	fa-inna
+7	24:33:43	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+7	24:33:44	w	مِنۢ		من	after	min
+7	24:33:45	w	بَعْدِ		بعد	after	baʿdi
+7	24:33:46	w	إِكْرَٰهِهِنَّ		اكرههن	their compulsion	ik'rāhihinna
+7	24:33:47	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+7	24:33:48	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+7	24:33:49	e	۝٣٣				
+8	24:34:1	w	وَلَقَدَ		ولقد	And verily	walaqad
+8	24:34:2	w	ࡰنزَلْنَآ		انزلنا	We have sent down	anzalnā
+8	24:34:3	w	إِلَيْكُمُۥٓ		اليكم	to you	ilaykum
+8	24:34:4	w	ءَايَٰتࣲ		ايت	Verses	āyātin
+8	24:34:5	w	مُّبَيَّنَٰتࣲ		مبينت	clear	mubayyinātin
+8	24:34:6	w	وَمَثَلاࣰ		ومثلا	and an example	wamathalan
+8	24:34:7	w	مِّنَ		من	of	mina
+8	24:34:8	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+8	24:34:9	w	خَلَوْاْ		خلوا	passed away	khalaw
+9	24:34:10	w	مِن		من	before you	min
+9	24:34:11	w	قَبْلِكُمْ		قبلكم	before you	qablikum
+9	24:34:12	w	وَمَوْعِظَةࣰ		وموعظة	and an admonition	wamawʿiẓatan
+9	24:34:13	w	لِّلْمُتَّقِينَ࣌		للمتقين	for those who fear (Allah)	lil'muttaqīna
+9	24:34:14	e	۝٣٤				
+9	24:35:1	w	۞ ࡰ۬للَّهُ		الله	Allah	al-lahu
+9	24:35:2	w	نُورُ		نور	(is the) Light	nūru
+9	24:35:3	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+9	24:35:4	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+10	24:35:5	w	مَثَلُ		مثل	(The) example	mathalu
+10	24:35:6	w	نُورِهِۦ		نورهي	(of) His Light	nūrihi
+10	24:35:7	w	كَمِشْكَوٰةࣲ		كمشكوة	(is) like a niche	kamish'katin
+10	24:35:8	w	فِيهَا		فيها	in it	fīhā
+10	24:35:9	w	مِصْبَاحٌ࣌		مصباح	(is) a lamp	miṣ'bāḥun
+10	24:35:10	w	ࡴ۬لْمِصْبَاحُ		المصباح	the lamp	l-miṣ'bāḥu
+10	24:35:11	w	فِے		في	(is) in	fī
+10	24:35:12	w	زُجَاجَةٍ࣌		زجاجة	a glass	zujājatin
+11	24:35:13	w	ࡴ۬لزُّجَاجَةُ		الزجاجة	the glass	l-zujājatu
+11	24:35:14	w	كَأَنَّهَا		كانها	as if it were	ka-annahā
+11	24:35:15	w	كَوْكَبࣱ		كوكب	a star	kawkabun
+11	24:35:16	w	دُرِّيࣱّ		دري	brilliant	durriyyun
+11	24:35:17	w	يُوقَدُ		يوقد	(which) is lit	yūqadu
+11	24:35:18	w	مِن		من	from	min
+11	24:35:19	w	شَجَرَةࣲ		شجرة	a tree	shajaratin
+11	24:35:20	w	مُّبَٰرَكَةࣲ		مبركة	blessed	mubārakatin
+12	24:35:21	w	زَيْتُونَةࣲ		زيتونة	an olive	zaytūnatin
+12	24:35:22	w	لَّا		لا	not	lā
+12	24:35:23	w	شَرْقِيَّةࣲ		شرقية	(of the) east	sharqiyyatin
+12	24:35:24	w	وَلَا		ولا	and not	walā
+12	24:35:25	w	غَرْبِيَّةࣲ		غربية	(of the) west	gharbiyyatin
+12	24:35:26	w	يَكَادُ		يكاد	would almost	yakādu
+12	24:35:27	w	زَيْتُهَا		زيتها	its oil	zaytuhā
+12	24:35:28	w	يُضِےٓءُ		يضي	glow	yuḍīu
+12	24:35:29	w	وَلَوْ		ولو	even if	walaw
+12	24:35:30	w	لَمْ		لم	not	lam
+12	24:35:31	w	تَمْسَسْهُ		تمسسه	touched it	tamsashu
+12	24:35:32	w	نَارࣱ࣌		نار	fire	nārun
+13	24:35:33	w	نُّورٌ		نور	Light	nūrun
+13	24:35:34	w	عَلَىٰ		علي	upon	ʿalā
+13	24:35:35	w	نُورࣲ࣌		نور	Light	nūrin
+13	24:35:36	w	يَهْدِے		يهدي	Allah guides	yahdī
+13	24:35:37	w	ࡴ۬للَّهُ		الله	Allah guides	l-lahu
+13	24:35:38	w	لِنُورِهِۦ		لنورهي	to His Light	linūrihi
+13	24:35:39	w	مَنْ		من	whom	man
+13	24:35:40	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+13	24:35:41	w	وَيَضْرِبُ		ويضرب	And Allah sets forth	wayaḍribu
+13	24:35:42	w	ࡲ۬للَّهُ		الله	And Allah sets forth	l-lahu
+13	24:35:43	w	ࡲ۬لَامْثَٰلَ		الامثل	the examples	l-amthāla
+14	24:35:44	w	لِلنَّاسِ࣌		للناس	for the mankind	lilnnāsi
+14	24:35:45	w	وَاللَّهُ		والله	And Allah	wal-lahu
+14	24:35:46	w	بِكُلِّ		بكل	of every	bikulli
+14	24:35:47	w	شَےْءٍ		شي	thing	shayin
+14	24:35:48	w	عَلِيمࣱ࣌		عليم	(is) All-Knower	ʿalīmun
+14	24:35:49	e	۝٣٥				
+14	24:36:1	w	فِے		في	In	fī
+14	24:36:2	w	بُيُوتٍ		بيوت	houses	buyūtin
+14	24:36:3	w	ࡰذِنَ		اذن	(which) Allah ordered	adhina
+14	24:36:4	w	ࡰ۬للَّهُ		الله	(which) Allah ordered	l-lahu
+14	24:36:5	w	أَن		ان	that	an
+14	24:36:6	w	تُرْفَعَ		ترفع	they be raised	tur'faʿa
+15	24:36:7	w	وَيُذْكَرَ		ويذكر	and be mentioned	wayudh'kara
+15	24:36:8	w	فِيهَا		فيها	in them	fīhā
+15	24:36:9	w	ࡰٜسْمُهُۥ		اسمه	His name	us'muhu
+15	24:36:10	w	يُسَبِّحُ		يسبح	Glorify	yusabbiḥu
+15	24:36:11	w	لَهُۥ		له	[to] Him	lahu
+15	24:36:12	w	فِيهَا		فيها	in them	fīhā
+15	24:36:13	w	بِالْغُدُوِّ		بالغدو	in the mornings	bil-ghuduwi
+15	24:36:14	w	وَالَاصَالِ		والاصال	and (in) the evenings	wal-āṣāli

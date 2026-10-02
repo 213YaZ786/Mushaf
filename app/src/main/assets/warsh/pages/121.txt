@@ -1,0 +1,114 @@
+1	5:80:1	w	لُعِنَ		لعن	Were cursed	luʿina
+1	5:80:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	5:80:3	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+1	5:80:4	w	مِنۢ		من	from	min
+1	5:80:5	w	بَنِےٓ		بني	(the) Children	banī
+1	5:80:6	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+1	5:80:7	w	عَلَىٰ		علي	by	ʿalā
+1	5:80:8	w	لِسَانِ		لسان	(the) tongue	lisāni
+2	5:80:9	w	دَاوُۥدَ		داود	(of) Dawood	dāwūda
+2	5:80:10	w	وَعِيسَى		وعيسي	and Isa	waʿīsā
+2	5:80:11	w	ࡰٜبْنِ		ابن	son	ib'ni
+2	5:80:12	w	مَرْيَمَ࣌		مريم	(of) Maryam	maryama
+2	5:80:13	w	ذَٰلِكَ		ذلك	that (was)	dhālika
+2	5:80:14	w	بِمَا		بما	because	bimā
+2	5:80:15	w	عَصَواْ		عصوا	they disobeyed	ʿaṣaw
+2	5:80:16	w	وَّكَانُواْ		وكانوا	and they were	wakānū
+3	5:80:17	w	يَعْتَدُونَ࣌		يعتدون	transgressing	yaʿtadūna
+3	5:80:18	e	۝٨٠				
+3	5:81:1	w	كَانُواْ		كانوا	They had been	kānū
+3	5:81:2	w	لَا		لا	not	lā
+3	5:81:3	w	يَتَنَاهَوْنَ		يتناهون	forbidding each other	yatanāhawna
+3	5:81:4	w	عَن		عن	from	ʿan
+3	5:81:5	w	مُّنكَرࣲ		منكر	wrongdoing	munkarin
+3	5:81:6	w	فَعَلُوهُ࣌		فعلوه	they did [it]	faʿalūhu
+4	5:81:7	w	لَبِيسَ		لبيس	Surely, evil	labi'sa
+4	5:81:8	w	مَا		ما	(was) what	mā
+4	5:81:9	w	كَانُواْ		كانوا	they were	kānū
+4	5:81:10	w	يَفْعَلُونَ࣌		يفعلون	doing	yafʿalūna
+4	5:81:11	e	۝٨١				
+4	5:82:1	w	تَرٜىٰ		تري	You see	tarā
+4	5:82:2	w	كَثِيراࣰ		كثيرا	many	kathīran
+4	5:82:3	w	مِّنْهُمْ		منهم	of them	min'hum
+5	5:82:4	w	يَتَوَلَّوْنَ		يتولون	taking as allies	yatawallawna
+5	5:82:5	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	5:82:6	w	كَفَرُواْ࣌		كفروا	disbelieved	kafarū
+5	5:82:7	w	لَبِيسَ		لبيس	Surely evil	labi'sa
+5	5:82:8	w	مَا		ما	(is) what	mā
+5	5:82:9	w	قَدَّمَتْ		قدمت	sent forth	qaddamat
+5	5:82:10	w	لَهُمُۥٓ		لهم	for them	lahum
+6	5:82:11	w	أَنفُسُهُمُۥٓ		انفسهم	their souls	anfusuhum
+6	5:82:12	w	أَن		ان	that	an
+6	5:82:13	w	سَخِطَ		سخط	became angry	sakhiṭa
+6	5:82:14	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+6	5:82:15	w	عَلَيْهِمْ		عليهم	with them	ʿalayhim
+6	5:82:16	w	وَفِے		وفي	and in	wafī
+6	5:82:17	w	ࡴ۬لْعَذَابِ		العذاب	the punishment	l-ʿadhābi
+6	5:82:18	w	هُمْ		هم	they	hum
+7	5:82:19	w	خَٰلِدُونَ࣌		خلدون	(will) abide forever	khālidūna
+7	5:82:20	e	۝٨٢				
+7	5:83:1	w	وَلَوْ		ولو	And if	walaw
+7	5:83:2	w	كَانُواْ		كانوا	they had	kānū
+7	5:83:3	w	يُومِنُونَ		يومنون	believed	yu'minūna
+7	5:83:4	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+7	5:83:5	w	وَالنَّبِےٓءِ		والنبي	and the Prophet	wal-nabiyi
+7	5:83:6	w	وَمَآ		وما	and what	wamā
+8	5:83:7	w	أُنزِلَ		انزل	has been revealed	unzila
+8	5:83:8	w	إِلَيْهِ		اليه	to him	ilayhi
+8	5:83:9	w	مَا		ما	not	mā
+8	5:83:10	w	ࡰٜتَّخَذُوهُمُۥٓ		اتخذوهم	they (would have) taken them	ittakhadhūhum
+8	5:83:11	w	أَوْلِيَآءَ࣌		اوليا	(as) allies	awliyāa
+8	5:83:12	w	وَلَٰكِنَّ		ولكن	[and] but	walākinna
+8	5:83:13	w	كَثِيراࣰ		كثيرا	many	kathīran
+9	5:83:14	w	مِّنْهُمْ		منهم	of them	min'hum
+9	5:83:15	w	فَٰسِقُونَ࣌		فسقون	(are) defiantly disobedient	fāsiqūna
+9	5:83:16	e	۝٨٣				
+9	5:84:1	w	۞ لَتَجِدَنَّ		لتجدن	Surely you will find	latajidanna
+9	5:84:2	w	أَشَدَّ		اشد	strongest	ashadda
+9	5:84:3	w	ࡰ۬لنَّاسِ		الناس	(of) the people	l-nāsi
+9	5:84:4	w	عَدَٰوَةࣰ		عدوة	(in) enmity	ʿadāwatan
+10	5:84:5	w	لِّلذِينَ		للذين	to those who	lilladhīna
+10	5:84:6	w	ءَامَنُواْ		امنوا	believe	āmanū
+10	5:84:7	w	ࡲ۬لْيَهُودَ		اليهود	the Jews	l-yahūda
+10	5:84:8	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+10	5:84:9	w	أَشْرَكُواْ࣌		اشركوا	(are) polytheists	ashrakū
+10	5:84:10	w	وَلَتَجِدَنَّ		ولتجدن	and surely you will find	walatajidanna
+11	5:84:11	w	أَقْرَبَهُم		اقربهم	nearest of them	aqrabahum
+11	5:84:12	w	مَّوَدَّةࣰ		مودة	(in) affection	mawaddatan
+11	5:84:13	w	لِّلذِينَ		للذين	to those who	lilladhīna
+11	5:84:14	w	ءَامَنُواْ		امنوا	believe	āmanū
+11	5:84:15	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+11	5:84:16	w	قَالُوٓاْ		قالوا	say	qālū
+11	5:84:17	w	إِنَّا		انا	We	innā
+11	5:84:18	w	نَصَٰرٜىٰ࣌		نصري	(are) Christians	naṣārā
+12	5:84:19	w	ذَٰلِكَ		ذلك	That (is)	dhālika
+12	5:84:20	w	بِأَنَّ		بان	because	bi-anna
+12	5:84:21	w	مِنْهُمْ		منهم	among them	min'hum
+12	5:84:22	w	قِسِّيسِينَ		قسيسين	(are) priests	qissīsīna
+12	5:84:23	w	وَرُهْبَاناࣰ		ورهبانا	and monks	waruh'bānan
+12	5:84:24	w	وَأَنَّهُمْ		وانهم	and that they	wa-annahum
+13	5:84:25	w	لَا		لا	(are) not	lā
+13	5:84:26	w	يَسْتَكْبِرُونَ࣌		يستكبرون	arrogant	yastakbirūna
+13	5:84:27	e	۝٨٤				
+13	5:85:1	w	وَإِذَا		واذا	And when	wa-idhā
+13	5:85:2	w	سَمِعُواْ		سمعوا	they listen	samiʿū
+13	5:85:3	w	مَآ		ما	(to) what	mā
+13	5:85:4	w	أُنزِلَ		انزل	has been revealed	unzila
+13	5:85:5	w	إِلَى		الي	to	ilā
+14	5:85:6	w	ࡰ۬لرَّسُولِ		الرسول	the Messenger	l-rasūli
+14	5:85:7	w	تَرٜىٰٓ		تري	you see	tarā
+14	5:85:8	w	أَعْيُنَهُمْ		اعينهم	their eyes	aʿyunahum
+14	5:85:9	w	تَفِيضُ		تفيض	overflowing	tafīḍu
+14	5:85:10	w	مِنَ		من	with	mina
+14	5:85:11	w	ࡰ۬لدَّمْعِ		الدمع	the tears	l-damʿi
+14	5:85:12	w	مِمَّا		مما	for what	mimmā
+14	5:85:13	w	عَرَفُواْ		عرفوا	they recognized	ʿarafū
+15	5:85:14	w	مِنَ		من	of	mina
+15	5:85:15	w	ࡰ۬لْحَقِّ		الحق	the truth	l-ḥaqi
+15	5:85:16	w	يَقُولُونَ		يقولون	They say	yaqūlūna
+15	5:85:17	w	رَبَّنَآ		ربنا	Our Lord	rabbanā
+15	5:85:18	w	ءَامَنَّا		امنا	we have believed	āmannā
+15	5:85:19	w	فَاكْتُبْنَا		فاكتبنا	so write us	fa-uk'tub'nā
+15	5:85:20	w	مَعَ		مع	with	maʿa
+15	5:85:21	w	ࡰ۬لشَّٰهِدِينَ࣌		الشهدين	the witnesses	l-shāhidīna
+15	5:85:22	e	۝٨٥				

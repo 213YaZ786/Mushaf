@@ -1,0 +1,79 @@
+1	112:0:0	t					
+2	112:0:0	b					
+3	112:1:1	w	قُلْ		قل	Say	qul
+3	112:1:2	w	هُوَ		هو	He	huwa
+3	112:1:3	w	ࡰ۬للَّهُ		الله	(is) Allah	l-lahu
+3	112:1:4	w	أَحَدٌ࣌		احد	the One	aḥadun
+3	112:1:5	e	۝١				
+3	112:2:1	w	ࡴ۬للَّهُ		الله	Allah	al-lahu
+3	112:2:2	w	ࡲ۬لصَّمَدُ࣌		الصمد	the Eternal, the Absolute	l-ṣamadu
+3	112:2:3	e	۝٢				
+3	112:3:1	w	لَمْ		لم	Not	lam
+3	112:3:2	w	يَلِدْ		يلد	He begets	yalid
+3	112:3:3	w	وَلَمْ		ولم	and not	walam
+3	112:3:4	w	يُولَدْ࣌		يولد	He is begotten	yūlad
+3	112:3:5	e	۝٣				
+4	112:4:1	w	وَلَمْ		ولم	And not	walam
+4	112:4:2	w	يَكُن		يكن	is	yakun
+4	112:4:3	w	لَّهُۥ		له	for Him	lahu
+4	112:4:4	w	كُفُؤاً		كفوا	equivalent	kufuwan
+4	112:4:5	w	ࡰحَدࣱ࣌		احد	any [one]	aḥadun
+4	112:4:6	e	۝٤				
+5	113:0:0	t					
+6	113:0:0	b					
+7	113:1:1	w	قُلَ		قل	Say	qul
+7	113:1:2	w	ࡰعُوذُ		اعوذ	I seek refuge	aʿūdhu
+7	113:1:3	w	بِرَبِّ		برب	in (the) Lord	birabbi
+7	113:1:4	w	ࡴ۬لْفَلَقِ		الفلق	(of) the dawn	l-falaqi
+7	113:1:5	e	۝١				
+7	113:2:1	w	مِن		من	From	min
+7	113:2:2	w	شَرِّ		شر	(the) evil	sharri
+7	113:2:3	w	مَا		ما	(of) what	mā
+7	113:2:4	w	خَلَقَ		خلق	He created	khalaqa
+7	113:2:5	e	۝٢				
+7	113:3:1	w	وَمِن		ومن	And from	wamin
+7	113:3:2	w	شَرِّ		شر	(the) evil	sharri
+7	113:3:3	w	غَاسِقٍ		غاسق	(of) darkness	ghāsiqin
+8	113:3:4	w	ࡴذَا		اذا	when	idhā
+8	113:3:5	w	وَقَبَ		وقب	it spreads	waqaba
+8	113:3:6	e	۝٣				
+8	113:4:1	w	وَمِن		ومن	And from	wamin
+8	113:4:2	w	شَرِّ		شر	(the) evil	sharri
+8	113:4:3	w	ࡴ۬لنَّفَّٰثَٰتِ		النفثت	(of) the blowers	l-nafāthāti
+8	113:4:4	w	فِے		في	in	fī
+8	113:4:5	w	ࡴ۬لْعُقَدِ		العقد	the knots	l-ʿuqadi
+8	113:4:6	e	۝٤				
+8	113:5:1	w	وَمِن		ومن	And from	wamin
+9	113:5:2	w	شَرِّ		شر	(the) evil	sharri
+9	113:5:3	w	حَاسِدٍ		حاسد	(of) an envier	ḥāsidin
+9	113:5:4	w	ࡴذَا		اذا	when	idhā
+9	113:5:5	w	حَسَدَ࣌		حسد	he envies	ḥasada
+9	113:5:6	e	۝٥				
+10	114:0:0	t					
+11	114:0:0	b					
+12	114:1:1	w	قُلَ		قل	Say	qul
+12	114:1:2	w	ࡰعُوذُ		اعوذ	I seek refuge	aʿūdhu
+12	114:1:3	w	بِرَبِّ		برب	in (the) Lord	birabbi
+12	114:1:4	w	ࡴ۬لنَّاسِ		الناس	(of) mankind	l-nāsi
+12	114:1:5	e	۝١				
+12	114:2:1	w	مَلِكِ		ملك	(The) King	maliki
+12	114:2:2	w	ࡴ۬لنَّاسِ		الناس	(of) mankind	l-nāsi
+12	114:2:3	e	۝٢				
+12	114:3:1	w	إِلَٰهِ		اله	(The) God	ilāhi
+13	114:3:2	w	ࡴ۬لنَّاسِ		الناس	(of) mankind	l-nāsi
+13	114:3:3	e	۝٣				
+13	114:4:1	w	مِن		من	From	min
+13	114:4:2	w	شَرِّ		شر	(the) evil	sharri
+13	114:4:3	w	ࡴ۬لْوَسْوَاسِ		الوسواس	(of) the whisperer	l-waswāsi
+13	114:4:4	w	ࡴ۬لْخَنَّاسِ		الخناس	the one who withdraws	l-khanāsi
+13	114:4:5	e	۝٤				
+13	114:5:1	w	ࡴ۬لذِے		الذي	The one who	alladhī
+14	114:5:2	w	يُوَسْوِسُ		يوسوس	whispers	yuwaswisu
+14	114:5:3	w	فِے		في	in	fī
+14	114:5:4	w	صُدُورِ		صدور	(the) breasts	ṣudūri
+14	114:5:5	w	ࡴ۬لنَّاسِ		الناس	(of) mankind	l-nāsi
+14	114:5:6	e	۝٥				
+15	114:6:1	w	مِنَ		من	From	mina
+15	114:6:2	w	ࡰ۬لْجِنَّةِ		الجنة	the jinn	l-jinati
+15	114:6:3	w	وَالنَّاسِ࣌		والناس	and men	wal-nāsi
+15	114:6:4	e	۝٦				

@@ -1,0 +1,116 @@
+1	7:156:1	w	۞ وَاكْتُبْ		واكتب	And ordain	wa-uk'tub
+1	7:156:2	w	لَنَا		لنا	for us	lanā
+1	7:156:3	w	فِے		في	in	fī
+1	7:156:4	w	هَٰذِهِ		هذه	this	hādhihi
+1	7:156:5	w	ࡴ۬لدُّنْيٜا		الدنيا	[the] world	l-dun'yā
+1	7:156:6	w	حَسَنَةࣰ		حسنة	good	ḥasanatan
+1	7:156:7	w	وَفِے		وفي	and in	wafī
+1	7:156:8	w	ࡴ۬لَاخِرَةِ࣌		الاخرة	the Hereafter	l-ākhirati
+2	7:156:9	w	إِنَّا		انا	Indeed, we	innā
+2	7:156:10	w	هُدْنَآ		هدنا	we have turned	hud'nā
+2	7:156:11	w	إِلَيْكَ࣌		اليك	to You	ilayka
+2	7:156:12	w	قَالَ		قال	He said	qāla
+2	7:156:13	w	عَذَابِيَ		عذابي	My punishment	ʿadhābī
+2	7:156:14	w	أُصِيبُ		اصيب	I afflict	uṣību
+2	7:156:15	w	بِهِۦ		بهي	with it	bihi
+2	7:156:16	w	مَنَ		من	whom	man
+2	7:156:17	w	ࡰشَآءُ࣌		اشا	I will	ashāu
+2	7:156:18	w	وَرَحْمَتِے		ورحمتي	but My Mercy	waraḥmatī
+3	7:156:19	w	وَسِعَتْ		وسعت	encompasses	wasiʿat
+3	7:156:20	w	كُلَّ		كل	every	kulla
+3	7:156:21	w	شَےْءࣲ࣌		شي	thing	shayin
+3	7:156:22	w	فَسَأَكْتُبُهَا		فساكتبها	So I will ordain it	fasa-aktubuhā
+3	7:156:23	w	لِلذِينَ		للذين	for those who	lilladhīna
+3	7:156:24	w	يَتَّقُونَ		يتقون	(are) righteous	yattaqūna
+3	7:156:25	w	وَيُوتُونَ		ويوتون	and give	wayu'tūna
+4	7:156:26	w	ࡰ۬لزَّكَوٰةَ		الزكوة	zakah	l-zakata
+4	7:156:27	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+4	7:156:28	w	هُم		هم	[they]	hum
+4	7:156:29	w	بِـَٔايَٰتِنَا		بايتنا	in Our Verses	biāyātinā
+4	7:156:30	w	يُومِنُونَ		يومنون	they believe	yu'minūna
+4	7:156:31	e	۝١٥٦				
+4	7:157:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+4	7:157:2	w	يَتَّبِعُونَ		يتبعون	follow	yattabiʿūna
+5	7:157:3	w	ࡰ۬لرَّسُولَ		الرسول	the Messenger	l-rasūla
+5	7:157:4	w	ࡰ۬لنَّبِےٓءَ		النبي	the Prophet	l-nabiya
+5	7:157:5	w	ࡰ۬لُامِّيَّ		الامي	the unlettered	l-umiya
+5	7:157:6	w	ࡰ۬لذِے		الذي	whom	alladhī
+5	7:157:7	w	يَجِدُونَهُۥ		يجدونه	they find him	yajidūnahu
+5	7:157:8	w	مَكْتُوباً		مكتوبا	written	maktūban
+5	7:157:9	w	عِندَهُمْ		عندهم	with them	ʿindahum
+6	7:157:10	w	فِے		في	in	fī
+6	7:157:11	w	ࡴ۬لتَّوْرٜيٰةِ		التورية	the Taurat	l-tawrāti
+6	7:157:12	w	وَالِانجِيلِ		والانجيل	and the Injeel	wal-injīli
+6	7:157:13	w	يَامُرُهُم		يامرهم	He commands them	yamuruhum
+6	7:157:14	w	بِالْمَعْرُوفِ		بالمعروف	to the right	bil-maʿrūfi
+6	7:157:15	w	وَيَنْهٜيٰهُمْ		وينهيهم	and forbids them	wayanhāhum
+7	7:157:16	w	عَنِ		عن	from	ʿani
+7	7:157:17	w	ࡴ۬لْمُنكَرِ		المنكر	the wrong	l-munkari
+7	7:157:18	w	وَيُحِلُّ		ويحل	and he makes lawful	wayuḥillu
+7	7:157:19	w	لَهُمُ		لهم	for them	lahumu
+7	7:157:20	w	ࡲ۬لطَّيِّبَٰتِ		الطيبت	the pure things	l-ṭayibāti
+7	7:157:21	w	وَيُحَرِّمُ		ويحرم	and makes unlawful	wayuḥarrimu
+7	7:157:22	w	عَلَيْهِمُ		عليهم	for them	ʿalayhimu
+8	7:157:23	w	ࡲ۬لْخَبَٰٓئِثَ		الخبيث	the impure things	l-khabāitha
+8	7:157:24	w	وَيَضَعُ		ويضع	and he relieves	wayaḍaʿu
+8	7:157:25	w	عَنْهُمُۥٓ		عنهم	from them	ʿanhum
+8	7:157:26	w	إِصْرَهُمْ		اصرهم	their burden	iṣ'rahum
+8	7:157:27	w	وَالَاغْلَٰلَ		والاغلل	and the fetters	wal-aghlāla
+8	7:157:28	w	ࡰ۬لتِے		التي	which	allatī
+8	7:157:29	w	كَانَتْ		كانت	were	kānat
+9	7:157:30	w	عَلَيْهِمْ࣌		عليهم	upon them	ʿalayhim
+9	7:157:31	w	فَالذِينَ		فالذين	So those who	fa-alladhīna
+9	7:157:32	w	ءَامَنُواْ		امنوا	believe	āmanū
+9	7:157:33	w	بِهِۦ		بهي	in him	bihi
+9	7:157:34	w	وَعَزَّرُوهُ		وعزروه	and honor him	waʿazzarūhu
+9	7:157:35	w	وَنَصَرُوهُ		ونصروه	and help him	wanaṣarūhu
+9	7:157:36	w	وَاتَّبَعُواْ		واتبعوا	and follow	wa-ittabaʿū
+10	7:157:37	w	ࡲ۬لنُّورَ		النور	the light	l-nūra
+10	7:157:38	w	ࡰ۬لذِےٓ		الذي	which	alladhī
+10	7:157:39	w	أُنزِلَ		انزل	has been sent down	unzila
+10	7:157:40	w	مَعَهُۥٓ		معه	with him	maʿahu
+10	7:157:41	w	أُوْلَٰٓئِكَ		اوليك	Those (are)	ulāika
+10	7:157:42	w	هُمُ		هم	[they]	humu
+10	7:157:43	w	ࡲ۬لْمُفْلِحُونَ࣌		المفلحون	the successful ones	l-muf'liḥūna
+10	7:157:44	e	۝١٥٧				
+11	7:158:1	w	قُلْ		قل	Say	qul
+11	7:158:2	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+11	7:158:3	w	ࡰ۬لنَّاسُ		الناس	mankind	l-nāsu
+11	7:158:4	w	إِنِّے		اني	Indeed I am	innī
+11	7:158:5	w	رَسُولُ		رسول	(the) Messenger	rasūlu
+11	7:158:6	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+11	7:158:7	w	إِلَيْكُمْ		اليكم	to you	ilaykum
+11	7:158:8	w	جَمِيعاً		جميعا	all	jamīʿan
+12	7:158:9	w	ࡴ۬لذِے		الذي	the One	alladhī
+12	7:158:10	w	لَهُۥ		له	for Whom	lahu
+12	7:158:11	w	مُلْكُ		ملك	(is the) dominion	mul'ku
+12	7:158:12	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+12	7:158:13	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+12	7:158:14	w	لَآ		لا	(There is) no	lā
+12	7:158:15	w	إِلَٰهَ		اله	god	ilāha
+12	7:158:16	w	إِلَّا		الا	except	illā
+12	7:158:17	w	هُوَ࣌		هو	Him	huwa
+12	7:158:18	w	يُحْيِۦ		يحيي	He gives life	yuḥ'yī
+13	7:158:19	w	وَيُمِيتُ࣌		ويميت	and causes death	wayumītu
+13	7:158:20	w	فَـَٔامِنُواْ		فامنوا	So believe	faāminū
+13	7:158:21	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+13	7:158:22	w	وَرَسُولِهِ		ورسوله	and His Messenger	warasūlihi
+13	7:158:23	w	ࡴ۬لنَّبِےٓءِ		النبي	the Prophet	l-nabiyi
+13	7:158:24	w	ࡴ۬لُامِّيِّ		الامي	the unlettered	l-umiyi
+13	7:158:25	w	ࡴ۬لذِے		الذي	the one who	alladhī
+13	7:158:26	w	يُومِنُ		يومن	believes	yu'minu
+14	7:158:27	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+14	7:158:28	w	وَكَلِمَٰتِهِۦ࣌		وكلمتهي	and His Words	wakalimātihi
+14	7:158:29	w	وَاتَّبِعُوهُ		واتبعوه	and follow him	wa-ittabiʿūhu
+14	7:158:30	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+14	7:158:31	w	تَهْتَدُونَ࣌		تهتدون	(be) guided	tahtadūna
+14	7:158:32	e	۝١٥٨				
+14	7:159:1	w	وَمِن		ومن	And among	wamin
+15	7:159:2	w	قَوْمِ		قوم	(the) people	qawmi
+15	7:159:3	w	مُوسٜىٰٓ		موسي	(of) Musa	mūsā
+15	7:159:4	w	أُمَّةࣱ		امة	(is) a community	ummatun
+15	7:159:5	w	يَهْدُونَ		يهدون	(which) guides	yahdūna
+15	7:159:6	w	بِالْحَقِّ		بالحق	with truth	bil-ḥaqi
+15	7:159:7	w	وَبِهِۦ		وبهي	and by it	wabihi
+15	7:159:8	w	يَعْدِلُونَ࣌		يعدلون	establishes justice	yaʿdilūna
+15	7:159:9	e	۝١٥٩				

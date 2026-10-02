@@ -20,7 +20,8 @@ sealed interface Found {
  */
 class Search(private val quran: Quran, private val translations: Translations) {
 
-    @Volatile private var plain: List<String>? = null
+    /** Each ayah's letters, kept per riwayah (the lists differ in length and order). */
+    private val plain = java.util.concurrent.ConcurrentHashMap<org.mushaf.app.core.quran.Riwayah, List<String>>()
 
     suspend fun find(query: String, translation: String?, limit: Int = 300): List<Found> = withContext(Dispatchers.Default) {
         val q = query.trim()
@@ -37,7 +38,7 @@ class Search(private val quran: Quran, private val translations: Translations) {
         if (Arabic.isArabic(q)) {
             val needle = Arabic.normalize(q)
             if (needle.isEmpty()) return@withContext emptyList()
-            val texts = plain ?: ayat.map { Arabic.normalize(it.plain) }.also { plain = it }
+            val texts = plain.getOrPut(quran.riwayah) { ayat.map { Arabic.normalize(it.plain) } }
             ayat.indices.filter { texts[it].contains(needle) }.take(limit).map { i ->
                 Found.Ayah(ayat[i].key, ayat[i].page, ayat[i].plain, true)
             }

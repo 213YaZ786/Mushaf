@@ -42,7 +42,9 @@ object Net {
         extra = hosts.filter { HOST.matches(it) }.toSet()
     }
 
-    fun allowed(host: String): Boolean = host in builtIn || host in extra
+    /** mp3quran.net serves its recordings from numbered servers (server6, server11...). */
+    fun allowed(host: String): Boolean =
+        host in builtIn || host in extra || host == "mp3quran.net" || host.endsWith(".mp3quran.net")
 
     private val HOST = Regex("^[a-z0-9]([a-z0-9-]*[a-z0-9])?(\\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)+$")
 

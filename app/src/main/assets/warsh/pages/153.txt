@@ -1,0 +1,141 @@
+1	7:22:1	w	قَالَا		قالا	Both of them said	qālā
+1	7:22:2	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+1	7:22:3	w	ظَلَمْنَآ		ظلمنا	we have wronged	ẓalamnā
+1	7:22:4	w	أَنفُسَنَا		انفسنا	ourselves	anfusanā
+1	7:22:5	w	وَإِن		وان	and if	wa-in
+1	7:22:6	w	لَّمْ		لم	not	lam
+1	7:22:7	w	تَغْفِرْ		تغفر	You forgive	taghfir
+1	7:22:8	w	لَنَا		لنا	[for] us	lanā
+1	7:22:9	w	وَتَرْحَمْنَا		وترحمنا	and have mercy (on) us	watarḥamnā
+1	7:22:10	w	لَنَكُونَنَّ		لنكونن	surely, we will be	lanakūnanna
+2	7:22:11	w	مِنَ		من	among	mina
+2	7:22:12	w	ࡰ۬لْخَٰسِرِينَ࣌		الخسرين	the losers	l-khāsirīna
+2	7:22:13	e	۝٢٢				
+2	7:23:1	w	قَالَ		قال	(Allah) said	qāla
+2	7:23:2	w	ࡰٜهْبِطُواْ࣌		اهبطوا	Get down	ih'biṭū
+2	7:23:3	w	بَعْضُكُمْ		بعضكم	some of you	baʿḍukum
+2	7:23:4	w	لِبَعْضٍ		لبعض	to some others	libaʿḍin
+2	7:23:5	w	عَدُوࣱّ࣌		عدو	(as) enemy	ʿaduwwun
+2	7:23:6	w	وَلَكُمْ		ولكم	And for you	walakum
+3	7:23:7	w	فِے		في	in	fī
+3	7:23:8	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+3	7:23:9	w	مُسْتَقَرࣱّ		مستقر	(is) a dwelling place	mus'taqarrun
+3	7:23:10	w	وَمَتَٰعٌ		ومتع	and livelihood	wamatāʿun
+3	7:23:11	w	ࡴلَىٰ		الي	for	ilā
+3	7:23:12	w	حِينࣲ࣌		حين	a time	ḥīnin
+3	7:23:13	e	۝٢٣				
+3	7:24:1	w	قَالَ		قال	He said	qāla
+3	7:24:2	w	فِيهَا		فيها	In it	fīhā
+3	7:24:3	w	تَحْيَوْنَ		تحيون	you will live	taḥyawna
+3	7:24:4	w	وَفِيهَا		وفيها	and in it	wafīhā
+4	7:24:5	w	تَمُوتُونَ		تموتون	you will die	tamūtūna
+4	7:24:6	w	وَمِنْهَا		ومنها	and from it	wamin'hā
+4	7:24:7	w	تُخْرَجُونَ࣌		تخرجون	you will be brought forth	tukh'rajūna
+4	7:24:8	e	۝٢٤				
+4	7:25:1	w	يَٰبَنِےٓ		يبني	O Children	yābanī
+4	7:25:2	w	ءَادَمَ		ادم	(of) Adam	ādama
+4	7:25:3	w	قَدَ		قد	Verily	qad
+4	7:25:4	w	ࡰنزَلْنَا		انزلنا	We have sent down	anzalnā
+4	7:25:5	w	عَلَيْكُمْ		عليكم	to you	ʿalaykum
+4	7:25:6	w	لِبَاساࣰ		لباسا	clothing	libāsan
+5	7:25:7	w	يُوَٰرِے		يوري	it covers	yuwārī
+5	7:25:8	w	سَوْءَٰتِكُمْ		سوتكم	your shame	sawātikum
+5	7:25:9	w	وَرِيشاࣰ		وريشا	and (as) an adornment	warīshan
+5	7:25:10	w	وَلِبَاسَ		ولباس	But the clothing	walibāsu
+5	7:25:11	w	ࡰ۬لتَّقْوٜىٰ࣌		التقوي	(of) [the] righteousness	l-taqwā
+5	7:25:12	w	ذَٰلِكَ		ذلك	that	dhālika
+5	7:25:13	w	خَيْرࣱ࣌		خير	(is) best	khayrun
+5	7:25:14	w	ذَٰلِكَ		ذلك	That	dhālika
+5	7:25:15	w	مِنَ		من	(is) from	min
+6	7:25:16	w	اٰيَٰتِ		ايت	(the) Signs	āyāti
+6	7:25:17	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+6	7:25:18	w	لَعَلَّهُمْ		لعلهم	so that they may	laʿallahum
+6	7:25:19	w	يَذَّكَّرُونَ࣌		يذكرون	remember	yadhakkarūna
+6	7:25:20	e	۝٢٥				
+6	7:26:1	w	يَٰبَنِےٓ		يبني	O Children	yābanī
+6	7:26:2	w	ءَادَمَ		ادم	(of) Adam	ādama
+6	7:26:3	w	لَا		لا	(Let) not	lā
+6	7:26:4	w	يَفْتِنَنَّكُمُ		يفتننكم	tempt you	yaftinannakumu
+7	7:26:5	w	ࡲ۬لشَّيْطَٰنُ		الشيطن	[the] Shaitaan	l-shayṭānu
+7	7:26:6	w	كَمَآ		كما	as	kamā
+7	7:26:7	w	أَخْرَجَ		اخرج	he drove out	akhraja
+7	7:26:8	w	أَبَوَيْكُم		ابويكم	your parents	abawaykum
+7	7:26:9	w	مِّنَ		من	from	mina
+7	7:26:10	w	ࡰ۬لْجَنَّةِ		الجنة	Paradise	l-janati
+7	7:26:11	w	يَنزِعُ		ينزع	stripping	yanziʿu
+7	7:26:12	w	عَنْهُمَا		عنهما	from both of them	ʿanhumā
+8	7:26:13	w	لِبَاسَهُمَا		لباسهما	their clothing	libāsahumā
+8	7:26:14	w	لِيُرِيَهُمَا		ليريهما	to show both of them	liyuriyahumā
+8	7:26:15	w	سَوْءَٰتِهِمَآ࣌		سوتهما	their shame	sawātihimā
+8	7:26:16	w	إِنَّهُۥ		انه	Indeed, he	innahu
+8	7:26:17	w	يَرٜيٰكُمْ		يريكم	sees you	yarākum
+8	7:26:18	w	هُوَ		هو	he	huwa
+8	7:26:19	w	وَقَبِيلُهُۥ		وقبيله	and his tribe	waqabīluhu
+8	7:26:20	w	مِنْ		من	from	min
+9	7:26:21	w	حَيْثُ		حيث	where	ḥaythu
+9	7:26:22	w	لَا		لا	not	lā
+9	7:26:23	w	تَرَوْنَهُمُۥٓ࣌		ترونهم	you see them	tarawnahum
+9	7:26:24	w	إِنَّا		انا	Indeed	innā
+9	7:26:25	w	جَعَلْنَا		جعلنا	We have made	jaʿalnā
+9	7:26:26	w	ࡰ۬لشَّيَٰطِينَ		الشيطين	the devils	l-shayāṭīna
+9	7:26:27	w	أَوْلِيَآءَ		اوليا	friends	awliyāa
+9	7:26:28	w	لِلذِينَ		للذين	of those who	lilladhīna
+9	7:26:29	w	لَا		لا	(do) not	lā
+9	7:26:30	w	يُومِنُونَ࣌		يومنون	believe	yu'minūna
+9	7:26:31	e	۝٢٦				
+10	7:27:1	w	وَإِذَا		واذا	And when	wa-idhā
+10	7:27:2	w	فَعَلُواْ		فعلوا	they do	faʿalū
+10	7:27:3	w	فَٰحِشَةࣰ		فحشة	immorality	fāḥishatan
+10	7:27:4	w	قَالُواْ		قالوا	they say	qālū
+10	7:27:5	w	وَجَدْنَا		وجدنا	We found	wajadnā
+10	7:27:6	w	عَلَيْهَآ		عليها	on it	ʿalayhā
+10	7:27:7	w	ءَابَآءَنَا		ابانا	our forefathers	ābāanā
+10	7:27:8	w	وَاللَّهُ		والله	and Allah	wal-lahu
+10	7:27:9	w	أَمَرَنَا		امرنا	(has) ordered us	amaranā
+10	7:27:10	w	بِهَا࣌		بها	of it	bihā
+10	7:27:11	w	قُلِ		قل	Say	qul
+11	7:27:12	w	ࡴنَّ		ان	Indeed	inna
+11	7:27:13	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	7:27:14	w	لَا		لا	(does) not	lā
+11	7:27:15	w	يَامُرُ		يامر	order	yamuru
+11	7:27:16	w	بِالْفَحْشَآءِ࣌		بالفحشا	immorality	bil-faḥshāi
+11	7:27:17	w	ࡶَتَقُولُونَ		اتقولون	Do you say	ataqūlūna
+11	7:27:18	w	عَلَى		علي	about	ʿalā
+11	7:27:19	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+11	7:27:20	w	مَا		ما	what	mā
+11	7:27:21	w	لَا		لا	not	lā
+11	7:27:22	w	تَعْلَمُونَ࣌		تعلمون	you know	taʿlamūna
+11	7:27:23	e	۝٢٧				
+12	7:28:1	w	قُلَ		قل	Say	qul
+12	7:28:2	w	ࡰمَرَ		امر	(Has been) ordered	amara
+12	7:28:3	w	رَبِّے		ربي	(by) my Lord	rabbī
+12	7:28:4	w	بِالْقِسْطِ࣌		بالقسط	justice	bil-qis'ṭi
+12	7:28:5	w	وَأَقِيمُواْ		واقيموا	and set	wa-aqīmū
+12	7:28:6	w	وُجُوهَكُمْ		وجوهكم	your faces	wujūhakum
+12	7:28:7	w	عِندَ		عند	at	ʿinda
+12	7:28:8	w	كُلِّ		كل	every	kulli
+12	7:28:9	w	مَسْجِدࣲ࣌		مسجد	masjid	masjidin
+13	7:28:10	w	وَادْعُوهُ		وادعوه	and invoke Him	wa-id'ʿūhu
+13	7:28:11	w	مُخْلِصِينَ		مخلصين	(being) sincere	mukh'liṣīna
+13	7:28:12	w	لَهُ		له	to Him	lahu
+13	7:28:13	w	ࡲ۬لدِّينَ࣌		الدين	(in) the religion	l-dīna
+13	7:28:14	w	كَمَا		كما	As	kamā
+13	7:28:15	w	بَدَأَكُمْ		بداكم	He originated you	bada-akum
+13	7:28:16	w	تَعُودُونَ࣌		تعودون	(so) will you return	taʿūdūna
+13	7:28:17	w	فَرِيقاً		فريقا	A group	farīqan
+14	7:28:18	w	هَدٜىٰ࣌		هدي	He guided	hadā
+14	7:28:19	w	وَفَرِيقاً		وفريقا	and a group	wafarīqan
+14	7:28:20	w	حَقَّ		حق	deserved	ḥaqqa
+14	7:28:21	w	عَلَيْهِمُ		عليهم	[on] they	ʿalayhimu
+14	7:28:22	w	ࡲ۬لضَّلَٰلَةُ࣌		الضللة	the astraying	l-ḍalālatu
+14	7:28:23	w	إِنَّهُمُ		انهم	Indeed, they	innahumu
+14	7:28:24	w	ࡲٜتَّخَذُواْ		اتخذوا	take	ittakhadhū
+15	7:28:25	w	ࡲ۬لشَّيَٰطِينَ		الشيطين	the devils	l-shayāṭīna
+15	7:28:26	w	أَوْلِيَآءَ		اوليا	(as) allies	awliyāa
+15	7:28:27	w	مِن		من	from	min
+15	7:28:28	w	دُونِ		دون	besides	dūni
+15	7:28:29	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+15	7:28:30	w	وَيَحْسِبُونَ		ويحسبون	while they think	wayaḥsabūna
+15	7:28:31	w	أَنَّهُم		انهم	that they	annahum
+15	7:28:32	w	مُّهْتَدُونَ࣌		مهتدون	(are the) guided-ones	muh'tadūna
+15	7:28:33	e	۝٢٨				

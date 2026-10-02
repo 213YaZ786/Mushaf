@@ -1,0 +1,150 @@
+1	3:174:1	w	فَانقَلَبُواْ		فانقلبوا	So they returned	fa-inqalabū
+1	3:174:2	w	بِنِعْمَةࣲ		بنعمة	with (the) Favor	biniʿ'matin
+1	3:174:3	w	مِّنَ		من	of	mina
+1	3:174:4	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+1	3:174:5	w	وَفَضْلࣲ		وفضل	and Bounty	wafaḍlin
+1	3:174:6	w	لَّمْ		لم	not	lam
+1	3:174:7	w	يَمْسَسْهُمْ		يمسسهم	touched them	yamsashum
+1	3:174:8	w	سُوٓءࣱ		سو	any harm	sūon
+1	3:174:9	w	وَاتَّبَعُواْ		واتبعوا	And they followed	wa-ittabaʿū
+2	3:174:10	w	رِضْوَٰنَ		رضون	(the) pleasure	riḍ'wāna
+2	3:174:11	w	ࡰ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+2	3:174:12	w	وَاللَّهُ		والله	and Allah	wal-lahu
+2	3:174:13	w	ذُو		ذو	(is) Possessor	dhū
+2	3:174:14	w	فَضْلٍ		فضل	(of) Bounty	faḍlin
+2	3:174:15	w	عَظِيمٍ࣌		عظيم	great	ʿaẓīmin
+2	3:174:16	e	۝١٧٤				
+2	3:175:1	w	ࡴنَّمَا		انما	(It is) only	innamā
+2	3:175:2	w	ذَٰلِكُمُ		ذلكم	that	dhālikumu
+2	3:175:3	w	ࡲ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan	l-shayṭānu
+3	3:175:4	w	يُخَوِّفُ		يخوف	frightens (you)	yukhawwifu
+3	3:175:5	w	أَوْلِيَآءَهُۥ		اولياه	(of) his allies	awliyāahu
+3	3:175:6	w	فَلَا		فلا	So (do) not	falā
+3	3:175:7	w	تَخَافُوهُمْ࣌		تخافوهم	fear them	takhāfūhum
+3	3:175:8	w	وَخَافُونِ		وخافون	but fear Me	wakhāfūni
+3	3:175:9	w	إِن		ان	if	in
+3	3:175:10	w	كُنتُم		كنتم	you are	kuntum
+3	3:175:11	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+3	3:175:12	e	۝١٧٥				
+4	3:176:1	w	وَلَا		ولا	And (let) not	walā
+4	3:176:2	w	يُحْزِنكَ		يحزنك	grieve you	yaḥzunka
+4	3:176:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+4	3:176:4	w	يُسَٰرِعُونَ		يسرعون	hasten	yusāriʿūna
+4	3:176:5	w	فِے		في	in(to)	fī
+4	3:176:6	w	ࡴ۬لْكُفْرِ࣌		الكفر	[the] disbelief	l-kuf'ri
+4	3:176:7	w	إِنَّهُمْ		انهم	Indeed, they	innahum
+4	3:176:8	w	لَنْ		لن	never	lan
+4	3:176:9	w	يَّضُرُّواْ		يضروا	will harm	yaḍurrū
+4	3:176:10	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+5	3:176:11	w	شَيْـٔاࣰ࣌		شيا	(in) anything	shayan
+5	3:176:12	w	يُرِيدُ		يريد	intends	yurīdu
+5	3:176:13	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+5	3:176:14	w	أَلَّا		الا	that not	allā
+5	3:176:15	w	يَجْعَلَ		يجعل	He will set	yajʿala
+5	3:176:16	w	لَهُمْ		لهم	for them	lahum
+5	3:176:17	w	حَظّاࣰ		حظا	any portion	ḥaẓẓan
+5	3:176:18	w	فِے		في	in	fī
+5	3:176:19	w	ࡴ۬لَاخِرَةِ࣌		الاخرة	the Hereafter	l-ākhirati
+5	3:176:20	w	وَلَهُمْ		ولهم	And for them	walahum
+5	3:176:21	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+6	3:176:22	w	عَظِيمٌ࣌		عظيم	great	ʿaẓīmun
+6	3:176:23	e	۝١٧٦				
+6	3:177:1	w	ࡴنَّ		ان	Indeed	inna
+6	3:177:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	3:177:3	w	ࡰٜشْتَرَوُاْ		اشتروا	(have) purchased	ish'tarawū
+6	3:177:4	w	ࡲ۬لْكُفْرَ		الكفر	[the] disbelief	l-kuf'ra
+6	3:177:5	w	بِالِايمَٰنِ		بالايمن	with the faith	bil-īmāni
+6	3:177:6	w	لَنْ		لن	never	lan
+6	3:177:7	w	يَّضُرُّواْ		يضروا	will they harm	yaḍurrū
+6	3:177:8	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+7	3:177:9	w	شَيْـٔاࣰ࣌		شيا	(in) anything	shayan
+7	3:177:10	w	وَلَهُمْ		ولهم	and for them	walahum
+7	3:177:11	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+7	3:177:12	w	ࡰلِيمࣱ࣌		اليم	painful	alīmun
+7	3:177:13	e	۝١٧٧				
+7	3:178:1	w	وَلَا		ولا	And (let) not	walā
+7	3:178:2	w	يَحْسِبَنَّ		يحسبن	think	yaḥsabanna
+7	3:178:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	3:178:4	w	كَفَرُوٓاْ		كفروا	disbelieved	kafarū
+7	3:178:5	w	أَنَّمَا		انما	that	annamā
+8	3:178:6	w	نُمْلِے		نملي	We give respite	num'lī
+8	3:178:7	w	لَهُمْ		لهم	to them	lahum
+8	3:178:8	w	خَيْرࣱ		خير	(is) good	khayrun
+8	3:178:9	w	لِّأَنفُسِهِمُۥٓ࣌		لانفسهم	for themselves	li-anfusihim
+8	3:178:10	w	إِنَّمَا		انما	Only	innamā
+8	3:178:11	w	نُمْلِے		نملي	We give respite	num'lī
+8	3:178:12	w	لَهُمْ		لهم	to them	lahum
+8	3:178:13	w	لِيَزْدَادُوٓاْ		ليزدادوا	so that they may increase	liyazdādū
+8	3:178:14	w	إِثْماࣰ࣌		اثما	(in) sins	ith'man
+8	3:178:15	w	وَلَهُمْ		ولهم	and for them	walahum
+9	3:178:16	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+9	3:178:17	w	مُّهِينࣱ࣌		مهين	humiliating	muhīnun
+9	3:178:18	e	۝١٧٨				
+9	3:179:1	w	مَّا		ما	Not	mā
+9	3:179:2	w	كَانَ		كان	is	kāna
+9	3:179:3	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+9	3:179:4	w	لِيَذَرَ		ليذر	to leave	liyadhara
+9	3:179:5	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+9	3:179:6	w	عَلَىٰ		علي	on	ʿalā
+9	3:179:7	w	مَآ		ما	what	mā
+9	3:179:8	w	أَنتُمْ		انتم	you (are)	antum
+10	3:179:9	w	عَلَيْهِ		عليه	in [it]	ʿalayhi
+10	3:179:10	w	حَتَّىٰ		حتي	until	ḥattā
+10	3:179:11	w	يَمِيزَ		يميز	He separates	yamīza
+10	3:179:12	w	ࡰ۬لْخَبِيثَ		الخبيث	the evil	l-khabītha
+10	3:179:13	w	مِنَ		من	from	mina
+10	3:179:14	w	ࡰ۬لطَّيِّبِ࣌		الطيب	the good	l-ṭayibi
+10	3:179:15	w	وَمَا		وما	And not	wamā
+10	3:179:16	w	كَانَ		كان	is	kāna
+10	3:179:17	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+10	3:179:18	w	لِيُطْلِعَكُمْ		ليطلعكم	to inform you	liyuṭ'liʿakum
+11	3:179:19	w	عَلَى		علي	about	ʿalā
+11	3:179:20	w	ࡰ۬لْغَيْبِ࣌		الغيب	the unseen	l-ghaybi
+11	3:179:21	w	وَلَٰكِنَّ		ولكن	[and] but	walākinna
+11	3:179:22	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	3:179:23	w	يَجْتَبِے		يجتبي	chooses	yajtabī
+11	3:179:24	w	مِن		من	from	min
+11	3:179:25	w	رُّسُلِهِۦ		رسلهي	His Messengers	rusulihi
+11	3:179:26	w	مَنْ		من	whom	man
+11	3:179:27	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+11	3:179:28	w	فَـَٔامِنُواْ		فامنوا	so believe	faāminū
+12	3:179:29	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+12	3:179:30	w	وَرُسُلِهِۦ࣌		ورسلهي	and His Messengers	warusulihi
+12	3:179:31	w	وَإِن		وان	and if	wa-in
+12	3:179:32	w	تُومِنُواْ		تومنوا	you believe	tu'minū
+12	3:179:33	w	وَتَتَّقُواْ		وتتقوا	and fear (Allah)	watattaqū
+12	3:179:34	w	فَلَكُمُۥٓ		فلكم	then for you	falakum
+12	3:179:35	w	أَجْرٌ		اجر	(is a) reward	ajrun
+12	3:179:36	w	عَظِيمࣱ࣌		عظيم	great	ʿaẓīmun
+12	3:179:37	e	۝١٧٩				
+12	3:180:1	w	وَلَا		ولا	And (let) not	walā
+13	3:180:2	w	يَحْسِبَنَّ		يحسبن	think	yaḥsabanna
+13	3:180:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	3:180:4	w	يَبْخَلُونَ		يبخلون	withhold	yabkhalūna
+13	3:180:5	w	بِمَآ		بما	of what	bimā
+13	3:180:6	w	ءَاتٜيٰهُمُ		اتيهم	(has) given them	ātāhumu
+13	3:180:7	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+13	3:180:8	w	مِن		من	of	min
+13	3:180:9	w	فَضْلِهِۦ		فضلهي	His Bounty	faḍlihi
+13	3:180:10	w	هُوَ		هو	(that) it	huwa
+13	3:180:11	w	خَيْراࣰ		خيرا	(is) good	khayran
+13	3:180:12	w	لَّهُم࣌		لهم	for them	lahum
+14	3:180:13	w	بَلْ		بل	Nay	bal
+14	3:180:14	w	هُوَ		هو	it	huwa
+14	3:180:15	w	شَرࣱّ		شر	(is) bad	sharrun
+14	3:180:16	w	لَّهُمْ࣌		لهم	for them	lahum
+14	3:180:17	w	سَيُطَوَّقُونَ		سيطوقون	Their necks will be encircled	sayuṭawwaqūna
+14	3:180:18	w	مَا		ما	(with) what	mā
+14	3:180:19	w	بَخِلُواْ		بخلوا	they withheld	bakhilū
+14	3:180:20	w	بِهِۦ		بهي	[with it]	bihi
+14	3:180:21	w	يَوْمَ		يوم	(on the) Day	yawma
+14	3:180:22	w	ࡰ۬لْقِيَٰمَةِ࣌		القيمة	(of) [the] Resurrection	l-qiyāmati
+14	3:180:23	w	وَلِلهِ		ولله	And for Allah	walillahi
+15	3:180:24	w	مِيرَٰثُ		ميرث	(is the) heritage	mīrāthu
+15	3:180:25	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+15	3:180:26	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+15	3:180:27	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	3:180:28	w	بِمَا		بما	with what	bimā
+15	3:180:29	w	تَعْمَلُونَ		تعملون	you do	taʿmalūna
+15	3:180:30	w	خَبِيرࣱ࣌		خبير	(is) All-Aware	khabīrun
+15	3:180:31	e	۝١٨٠				

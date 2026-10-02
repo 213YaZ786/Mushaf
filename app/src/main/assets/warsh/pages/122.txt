@@ -1,0 +1,133 @@
+1	5:86:1	w	وَمَا		وما	And what	wamā
+1	5:86:2	w	لَنَا		لنا	for us (that)	lanā
+1	5:86:3	w	لَا		لا	not	lā
+1	5:86:4	w	نُومِنُ		نومن	we believe	nu'minu
+1	5:86:5	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+1	5:86:6	w	وَمَا		وما	and what	wamā
+1	5:86:7	w	جَآءَنَا		جانا	came (to) us	jāanā
+1	5:86:8	w	مِنَ		من	from	mina
+1	5:86:9	w	ࡰ۬لْحَقِّ		الحق	the truth	l-ḥaqi
+1	5:86:10	w	وَنَطْمَعُ		ونطمع	And we hope	wanaṭmaʿu
+1	5:86:11	w	أَنْ		ان	that	an
+1	5:86:12	w	يُّدْخِلَنَا		يدخلنا	will admit us	yud'khilanā
+2	5:86:13	w	رَبُّنَا		ربنا	our Lord	rabbunā
+2	5:86:14	w	مَعَ		مع	with	maʿa
+2	5:86:15	w	ࡰ۬لْقَوْمِ		القوم	the people	l-qawmi
+2	5:86:16	w	ࡴ۬لصَّٰلِحِينَ࣌		الصلحين	the righteous	l-ṣāliḥīna
+2	5:86:17	e	۝٨٦				
+2	5:87:1	w	فَأَثَٰبَهُمُ		فاثبهم	So rewarded them	fa-athābahumu
+2	5:87:2	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+2	5:87:3	w	بِمَا		بما	for what	bimā
+2	5:87:4	w	قَالُواْ		قالوا	they said	qālū
+2	5:87:5	w	جَنَّٰتࣲ		جنت	(with) Gardens	jannātin
+3	5:87:6	w	تَجْرِے		تجري	flows	tajrī
+3	5:87:7	w	مِن		من	from	min
+3	5:87:8	w	تَحْتِهَا		تحتها	underneath them	taḥtihā
+3	5:87:9	w	ࡰ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+3	5:87:10	w	خَٰلِدِينَ		خلدين	will abide forever	khālidīna
+3	5:87:11	w	فِيهَا࣌		فيها	in it	fīhā
+3	5:87:12	w	وَذَٰلِكَ		وذلك	And that	wadhālika
+3	5:87:13	w	جَزَآءُ		جزا	(is the) reward	jazāu
+4	5:87:14	w	ࡲ۬لْمُحْسِنِينَ࣌		المحسنين	(of) the good-doers	l-muḥ'sinīna
+4	5:87:15	e	۝٨٧				
+4	5:88:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+4	5:88:2	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+4	5:88:3	w	وَكَذَّبُواْ		وكذبوا	and denied	wakadhabū
+4	5:88:4	w	بِـَٔايَٰتِنَآ		بايتنا	Our Signs	biāyātinā
+4	5:88:5	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+5	5:88:6	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+5	5:88:7	w	ࡲ۬لْجَحِيمِ࣌		الجحيم	(of) the Hellfire	l-jaḥīmi
+5	5:88:8	e	۝٨٨				
+5	5:89:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+5	5:89:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+5	5:89:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+5	5:89:4	w	لَا		لا	(Do) not	lā
+5	5:89:5	w	تُحَرِّمُواْ		تحرموا	make unlawful	tuḥarrimū
+5	5:89:6	w	طَيِّبَٰتِ		طيبت	(the) good things	ṭayyibāti
+6	5:89:7	w	مَآ		ما	(of) what	mā
+6	5:89:8	w	أَحَلَّ		احل	has (been) made lawful	aḥalla
+6	5:89:9	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+6	5:89:10	w	لَكُمْ		لكم	for you	lakum
+6	5:89:11	w	وَلَا		ولا	and (do) not	walā
+6	5:89:12	w	تَعْتَدُوٓاْ࣌		تعتدوا	transgress	taʿtadū
+6	5:89:13	w	إِنَّ		ان	Indeed	inna
+6	5:89:14	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	5:89:15	w	لَا		لا	(does) not	lā
+6	5:89:16	w	يُحِبُّ		يحب	love	yuḥibbu
+6	5:89:17	w	ࡲ۬لْمُعْتَدِينَ࣌		المعتدين	the transgressors	l-muʿ'tadīna
+6	5:89:18	e	۝٨٩				
+7	5:90:1	w	وَكُلُواْ		وكلوا	And eat	wakulū
+7	5:90:2	w	مِمَّا		مما	of what	mimmā
+7	5:90:3	w	رَزَقَكُمُ		رزقكم	has provided you	razaqakumu
+7	5:90:4	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+7	5:90:5	w	حَلَٰلاࣰ		حللا	lawful	ḥalālan
+7	5:90:6	w	طَيِّباࣰ࣌		طيبا	good	ṭayyiban
+7	5:90:7	w	وَاتَّقُواْ		واتقوا	And fear	wa-ittaqū
+7	5:90:8	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+7	5:90:9	w	ࡰ۬لذِےٓ		الذي	the One	alladhī
+8	5:90:10	w	أَنتُم		انتم	you (are)	antum
+8	5:90:11	w	بِهِۦ		بهي	in Him	bihi
+8	5:90:12	w	مُومِنُونَ࣌		مومنون	believers	mu'minūna
+8	5:90:13	e	۝٩٠				
+8	5:91:1	w	لَا		لا	Not	lā
+8	5:91:2	w	يُوَ۬اخِذُكُمُ		يواخذكم	will call you to account	yuākhidhukumu
+8	5:91:3	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+8	5:91:4	w	بِاللَّغْوِ		باللغو	for the thoughtless utterances	bil-laghwi
+8	5:91:5	w	فِےٓ		في	in	fī
+8	5:91:6	w	أَيْمَٰنِكُمْ࣌		ايمنكم	your oaths	aymānikum
+9	5:91:7	w	وَلَٰكِنْ		ولكن	but	walākin
+9	5:91:8	w	يُّوَ۬اخِذُكُم		يواخذكم	He will call you to account	yuākhidhukum
+9	5:91:9	w	بِمَا		بما	for what	bimā
+9	5:91:10	w	عَقَّدتُّمُ		عقدتم	you contracted	ʿaqqadttumu
+9	5:91:11	w	ࡲ۬لَايْمَٰنَ࣌		الايمن	(of) the oath	l-aymāna
+9	5:91:12	w	فَكَفَّٰرَتُهُۥٓ		فكفرته	So its expiation	fakaffāratuhu
+9	5:91:13	w	إِطْعَامُ		اطعام	(is) feeding	iṭ'ʿāmu
+10	5:91:14	w	عَشَرَةِ		عشرة	(of) ten	ʿasharati
+10	5:91:15	w	مَسَٰكِينَ		مسكين	needy people	masākīna
+10	5:91:16	w	مِنَ		من	of	min
+10	5:91:17	w	ࡰوْسَطِ		اوسط	average	awsaṭi
+10	5:91:18	w	مَا		ما	(of) what	mā
+10	5:91:19	w	تُطْعِمُونَ		تطعمون	you feed	tuṭ'ʿimūna
+10	5:91:20	w	أَهْلِيكُمُۥٓ		اهليكم	your families	ahlīkum
+10	5:91:21	w	أَوْ		او	or	aw
+10	5:91:22	w	كِسْوَتُهُمُۥٓ		كسوتهم	clothing them	kis'watuhum
+11	5:91:23	w	أَوْ		او	or	aw
+11	5:91:24	w	تَحْرِيرُ		تحرير	freeing	taḥrīru
+11	5:91:25	w	رَقَبَةࣲ࣌		رقبة	a slave	raqabatin
+11	5:91:26	w	فَمَن		فمن	But whoever	faman
+11	5:91:27	w	لَّمْ		لم	(does) not	lam
+11	5:91:28	w	يَجِدْ		يجد	find	yajid
+11	5:91:29	w	فَصِيَامُ		فصيام	(that), then fasting	faṣiyāmu
+11	5:91:30	w	ثَلَٰثَةِ		ثلثة	(for) three	thalāthati
+11	5:91:31	w	أَيَّامࣲ࣌		ايام	days	ayyāmin
+11	5:91:32	w	ذَٰلِكَ		ذلك	That	dhālika
+12	5:91:33	w	كَفَّٰرَةُ		كفرة	(is the) expiation	kaffāratu
+12	5:91:34	w	أَيْمَٰنِكُمُۥٓ		ايمنكم	(of) your oaths	aymānikum
+12	5:91:35	w	إِذَا		اذا	when	idhā
+12	5:91:36	w	حَلَفْتُمْ࣌		حلفتم	you have sworn	ḥalaftum
+12	5:91:37	w	وَاحْفَظُوٓاْ		واحفظوا	And guard	wa-iḥ'faẓū
+12	5:91:38	w	أَيْمَٰنَكُمْ࣌		ايمنكم	your oaths	aymānakum
+12	5:91:39	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+13	5:91:40	w	يُبَيِّنُ		يبين	makes clear	yubayyinu
+13	5:91:41	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+13	5:91:42	w	لَكُمُۥٓ		لكم	to you	lakum
+13	5:91:43	w	ءَايَٰتِهِۦ		ايتهي	His Verses	āyātihi
+13	5:91:44	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+13	5:91:45	w	تَشْكُرُونَ࣌		تشكرون	(be) grateful	tashkurūna
+13	5:91:46	e	۝٩١				
+13	5:92:1	w	۞ يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+14	5:92:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+14	5:92:3	w	ءَامَنُوٓاْ		امنوا	believe	āmanū
+14	5:92:4	w	إِنَّمَا		انما	Verily	innamā
+14	5:92:5	w	ࡰ۬لْخَمْرُ		الخمر	the intoxicants	l-khamru
+14	5:92:6	w	وَالْمَيْسِرُ		والميسر	and [the] games of chance	wal-maysiru
+14	5:92:7	w	وَالَانصَابُ		والانصاب	and (sacrifices at) altars	wal-anṣābu
+14	5:92:8	w	وَالَازْلَٰمُ		والازلم	and divining arrows	wal-azlāmu
+15	5:92:9	w	رِجْسࣱ		رجس	(are an) abomination	rij'sun
+15	5:92:10	w	مِّنْ		من	from	min
+15	5:92:11	w	عَمَلِ		عمل	(the) work	ʿamali
+15	5:92:12	w	ࡴ۬لشَّيْطَٰنِ		الشيطن	(of) the Shaitaan	l-shayṭāni
+15	5:92:13	w	فَاجْتَنِبُوهُ		فاجتنبوه	so avoid it	fa-ij'tanibūhu
+15	5:92:14	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+15	5:92:15	w	تُفْلِحُونَ࣌		تفلحون	(be) successful	tuf'liḥūna
+15	5:92:16	e	۝٩٢				

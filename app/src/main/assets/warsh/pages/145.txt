@@ -1,0 +1,120 @@
+1	6:132:1	w	ذَٰلِكَ		ذلك	That (is because)	dhālika
+1	6:132:2	w	أَن		ان	[that]	an
+1	6:132:3	w	لَّمْ		لم	not	lam
+1	6:132:4	w	يَكُن		يكن	is	yakun
+1	6:132:5	w	رَّبُّكَ		ربك	your Lord	rabbuka
+1	6:132:6	w	مُهْلِكَ		مهلك	one who destroys	muh'lika
+1	6:132:7	w	ࡰ۬لْقُرٜىٰ		القري	the cities	l-qurā
+1	6:132:8	w	بِظُلْمࣲ		بظلم	for (their) wrongdoing	biẓul'min
+1	6:132:9	w	وَأَهْلُهَا		واهلها	while their people	wa-ahluhā
+2	6:132:10	w	غَٰفِلُونَ࣌		غفلون	(are) unaware	ghāfilūna
+2	6:132:11	e	۝١٣٢				
+2	6:133:1	w	وَلِكُلࣲّ		ولكل	And for all	walikullin
+2	6:133:2	w	دَرَجَٰتࣱ		درجت	(will be) degrees	darajātun
+2	6:133:3	w	مِّمَّا		مما	for what	mimmā
+2	6:133:4	w	عَمِلُواْ࣌		عملوا	they did	ʿamilū
+2	6:133:5	w	وَمَا		وما	And not	wamā
+2	6:133:6	w	رَبُّكَ		ربك	(is) your Lord	rabbuka
+3	6:133:7	w	بِغَٰفِلٍ		بغفل	unaware	bighāfilin
+3	6:133:8	w	عَمَّا		عما	about what	ʿammā
+3	6:133:9	w	يَعْمَلُونَ࣌		يعملون	they do	yaʿmalūna
+3	6:133:10	e	۝١٣٣				
+3	6:134:1	w	وَرَبُّكَ		وربك	And your Lord	warabbuka
+3	6:134:2	w	ࡰ۬لْغَنِيُّ		الغني	(is) the Self-Sufficient	l-ghaniyu
+3	6:134:3	w	ذُو		ذو	(the) Possessor	dhū
+3	6:134:4	w	ࡲ۬لرَّحْمَةِ࣌		الرحمة	(of) mercy	l-raḥmati
+4	6:134:5	w	إِنْ		ان	If	in
+4	6:134:6	w	يَّشَأْ		يشا	He wills	yasha
+4	6:134:7	w	يُذْهِبْكُمْ		يذهبكم	He can take you away	yudh'hib'kum
+4	6:134:8	w	وَيَسْتَخْلِفْ		ويستخلف	and grant succession	wayastakhlif
+4	6:134:9	w	مِنۢ		من	from	min
+4	6:134:10	w	بَعْدِكُم		بعدكم	after you	baʿdikum
+4	6:134:11	w	مَّا		ما	(to) whom	mā
+5	6:134:12	w	يَشَآءُ		يشا	He wills	yashāu
+5	6:134:13	w	كَمَآ		كما	as	kamā
+5	6:134:14	w	أَنشَأَكُم		انشاكم	He raised you	ansha-akum
+5	6:134:15	w	مِّن		من	from	min
+5	6:134:16	w	ذُرِّيَّةِ		ذرية	the descendants	dhurriyyati
+5	6:134:17	w	قَوْمٍ		قوم	(of) people	qawmin
+5	6:134:18	w	اٰخَرِينَ࣌		اخرين	other	ākharīna
+5	6:134:19	e	۝١٣٤				
+6	6:135:1	w	إِنَّ		ان	Indeed	inna
+6	6:135:2	w	مَا		ما	what	mā
+6	6:135:3	w	تُوعَدُونَ		توعدون	you are promised	tūʿadūna
+6	6:135:4	w	لَأٓتࣲ࣌		لات	(is) sure to come	laātin
+6	6:135:5	w	وَمَآ		وما	And not	wamā
+6	6:135:6	w	أَنتُم		انتم	(can) you	antum
+6	6:135:7	w	بِمُعْجِزِينَ࣌		بمعجزين	escape (it)	bimuʿ'jizīna
+6	6:135:8	e	۝١٣٥				
+6	6:136:1	w	۞ قُلْ		قل	Say	qul
+6	6:136:2	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+7	6:136:3	w	ࡴٜعْمَلُواْ		اعملوا	Work	iʿ'malū
+7	6:136:4	w	عَلَىٰ		علي	on	ʿalā
+7	6:136:5	w	مَكَانَتِكُمُۥٓ		مكانتكم	your position	makānatikum
+7	6:136:6	w	إِنِّے		اني	Indeed, I am	innī
+7	6:136:7	w	عَامِلࣱ࣌		عامل	a worker	ʿāmilun
+7	6:136:8	w	فَسَوْفَ		فسوف	And soon	fasawfa
+7	6:136:9	w	تَعْلَمُونَ		تعلمون	you will know	taʿlamūna
+8	6:136:10	w	مَن		من	who	man
+8	6:136:11	w	تَكُونُ		تكون	will have	takūnu
+8	6:136:12	w	لَهُۥ		له	for himself	lahu
+8	6:136:13	w	عَٰقِبَةُ		عقبة	(in) the end	ʿāqibatu
+8	6:136:14	w	ࡲ۬لدّٜارِ࣌		الدار	(a good) home	l-dāri
+8	6:136:15	w	إِنَّهُۥ		انه	Indeed [he]	innahu
+8	6:136:16	w	لَا		لا	(will) not	lā
+8	6:136:17	w	يُفْلِحُ		يفلح	succeed	yuf'liḥu
+8	6:136:18	w	ࡲ۬لظَّٰلِمُونَ࣌		الظلمون	the wrongdoers	l-ẓālimūna
+8	6:136:19	e	۝١٣٦				
+9	6:137:1	w	وَجَعَلُواْ		وجعلوا	And they assign	wajaʿalū
+9	6:137:2	w	لِلهِ		لله	to Allah	lillahi
+9	6:137:3	w	مِمَّا		مما	out of what	mimmā
+9	6:137:4	w	ذَرَأَ		ذرا	He produced	dhara-a
+9	6:137:5	w	مِنَ		من	of	mina
+9	6:137:6	w	ࡰ۬لْحَرْثِ		الحرث	the crops	l-ḥarthi
+9	6:137:7	w	وَالَانْعَٰمِ		والانعم	and the cattle	wal-anʿāmi
+9	6:137:8	w	نَصِيباࣰ		نصيبا	a share	naṣīban
+10	6:137:9	w	فَقَالُواْ		فقالوا	and they say	faqālū
+10	6:137:10	w	هَٰذَا		هذا	This	hādhā
+10	6:137:11	w	لِلهِ		لله	(is) for Allah	lillahi
+10	6:137:12	w	بِزَعْمِهِمْ		بزعمهم	by their claim	bizaʿmihim
+10	6:137:13	w	وَهَٰذَا		وهذا	And this	wahādhā
+10	6:137:14	w	لِشُرَكَآئِنَا࣌		لشركاينا	(is) for our partners	lishurakāinā
+10	6:137:15	w	فَمَا		فما	But what	famā
+10	6:137:16	w	كَانَ		كان	is	kāna
+11	6:137:17	w	لِشُرَكَآئِهِمْ		لشركايهم	for their partners	lishurakāihim
+11	6:137:18	w	فَلَا		فلا	(does) not	falā
+11	6:137:19	w	يَصِلُ		يصل	reach	yaṣilu
+11	6:137:20	w	إِلَى		الي	[to]	ilā
+11	6:137:21	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+11	6:137:22	w	وَمَا		وما	while what	wamā
+11	6:137:23	w	كَانَ		كان	is	kāna
+11	6:137:24	w	لِلهِ		لله	for Allah	lillahi
+11	6:137:25	w	فَهُوَ		فهو	then it	fahuwa
+12	6:137:26	w	يَصِلُ		يصل	reaches	yaṣilu
+12	6:137:27	w	إِلَىٰ		الي	[to]	ilā
+12	6:137:28	w	شُرَكَآئِهِمْ࣌		شركايهم	their partners	shurakāihim
+12	6:137:29	w	سَآءَ		سا	Evil	sāa
+12	6:137:30	w	مَا		ما	(is) what	mā
+12	6:137:31	w	يَحْكُمُونَ࣌		يحكمون	they judge	yaḥkumūna
+12	6:137:32	e	۝١٣٧				
+12	6:138:1	w	وَكَذَٰلِكَ		وكذلك	And likewise	wakadhālika
+13	6:138:2	w	زَيَّنَ		زين	made pleasing	zayyana
+13	6:138:3	w	لِكَثِيرࣲ		لكثير	to many	likathīrin
+13	6:138:4	w	مِّنَ		من	of	mina
+13	6:138:5	w	ࡰ۬لْمُشْرِكِينَ		المشركين	the polytheists	l-mush'rikīna
+13	6:138:6	w	قَتْلَ		قتل	(the) killing	qatla
+13	6:138:7	w	أَوْلَٰدِهِمْ		اولدهم	(of) their children	awlādihim
+14	6:138:8	w	شُرَكَآؤُهُمْ		شركاوهم	their partners	shurakāuhum
+14	6:138:9	w	لِيُرْدُوهُمْ		ليردوهم	so that they may ruin them	liyur'dūhum
+14	6:138:10	w	وَلِيَلْبِسُواْ		وليلبسوا	and that they make confusing	waliyalbisū
+14	6:138:11	w	عَلَيْهِمْ		عليهم	to them	ʿalayhim
+14	6:138:12	w	دِينَهُمْ࣌		دينهم	their religion	dīnahum
+15	6:138:13	w	وَلَوْ		ولو	And if	walaw
+15	6:138:14	w	شَآءَ		شا	(had) willed	shāa
+15	6:138:15	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+15	6:138:16	w	مَا		ما	not	mā
+15	6:138:17	w	فَعَلُوهُ࣌		فعلوه	(would) they have done so	faʿalūhu
+15	6:138:18	w	فَذَرْهُمْ		فذرهم	So leave them	fadharhum
+15	6:138:19	w	وَمَا		وما	and what	wamā
+15	6:138:20	w	يَفْتَرُونَ࣌		يفترون	they invent	yaftarūna
+15	6:138:21	e	۝١٣٨				

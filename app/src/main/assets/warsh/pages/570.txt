@@ -1,0 +1,136 @@
+1	70:41:1	w	عَلَىٰٓ		علي	[On]	ʿalā
+1	70:41:2	w	أَن		ان	to	an
+1	70:41:3	w	نُّبَدِّلَ		نبدل	[We] replace	nubaddila
+1	70:41:4	w	خَيْراࣰ		خيرا	(with) better	khayran
+1	70:41:5	w	مِّنْهُمْ		منهم	than them	min'hum
+1	70:41:6	w	وَمَا		وما	and not	wamā
+1	70:41:7	w	نَحْنُ		نحن	We	naḥnu
+1	70:41:8	w	بِمَسْبُوقِينَ࣌		بمسبوقين	(are) to be outrun	bimasbūqīna
+1	70:41:9	e	۝٤١				
+1	70:42:1	w	فَذَرْهُمْ		فذرهم	So leave them	fadharhum
+2	70:42:2	w	يَخُوضُواْ		يخوضوا	(to) converse vainly	yakhūḍū
+2	70:42:3	w	وَيَلْعَبُواْ		ويلعبوا	and amuse themselves	wayalʿabū
+2	70:42:4	w	حَتَّىٰ		حتي	until	ḥattā
+2	70:42:5	w	يُلَٰقُواْ		يلقوا	they meet	yulāqū
+2	70:42:6	w	يَوْمَهُمُ		يومهم	their Day	yawmahumu
+2	70:42:7	w	ࡲ۬لذِے		الذي	which	alladhī
+2	70:42:8	w	يُوعَدُونَ		يوعدون	they are promised	yūʿadūna
+2	70:42:9	e	۝٤٢				
+2	70:43:1	w	يَوْمَ		يوم	(The) Day	yawma
+3	70:43:2	w	يَخْرُجُونَ		يخرجون	they will come out	yakhrujūna
+3	70:43:3	w	مِنَ		من	from	mina
+3	70:43:4	w	ࡰ۬لَاجْدَاثِ		الاجداث	the graves	l-ajdāthi
+3	70:43:5	w	سِرَاعاࣰ		سراعا	rapidly	sirāʿan
+3	70:43:6	w	كَأَنَّهُمُۥٓ		كانهم	as if they (were)	ka-annahum
+3	70:43:7	w	إِلَىٰ		الي	to	ilā
+3	70:43:8	w	نَصْبࣲ		نصب	a goal	nuṣubin
+3	70:43:9	w	يُوفِضُونَ		يوفضون	hastening	yūfiḍūna
+3	70:43:10	e	۝٤٣				
+4	70:44:1	w	خَٰشِعَةً		خشعة	Humbled	khāshiʿatan
+4	70:44:2	w	ࡰبْصَٰرُهُمْ		ابصرهم	their eyesights	abṣāruhum
+4	70:44:3	w	تَرْهَقُهُمْ		ترهقهم	will cover them	tarhaquhum
+4	70:44:4	w	ذِلَّةࣱ࣌		ذلة	humiliation	dhillatun
+4	70:44:5	w	ذَٰلِكَ		ذلك	That	dhālika
+4	70:44:6	w	ࡰ۬لْيَوْمُ		اليوم	(is) the Day	l-yawmu
+4	70:44:7	w	ࡲ۬لذِے		الذي	which	alladhī
+4	70:44:8	w	كَانُواْ		كانوا	they were	kānū
+4	70:44:9	w	يُوعَدُونَ࣌		يوعدون	promised	yūʿadūna
+4	70:44:10	e	۝٤٤				
+5	71:0:0	t					
+6	71:0:0	b					
+7	71:1:1	w	إِنَّآ		انا	Indeed, We	innā
+7	71:1:2	w	أَرْسَلْنَا		ارسلنا	[We] sent	arsalnā
+7	71:1:3	w	نُوحاً		نوحا	Nuh	nūḥan
+7	71:1:4	w	ࡴلَىٰ		الي	to	ilā
+7	71:1:5	w	قَوْمِهِۦٓ		قومهي	his people	qawmihi
+7	71:1:6	w	أَنَ		ان	that	an
+7	71:1:7	w	ࡰنذِرْ		انذر	Warn	andhir
+7	71:1:8	w	قَوْمَكَ		قومك	your people	qawmaka
+7	71:1:9	w	مِن		من	from	min
+7	71:1:10	w	قَبْلِ		قبل	before	qabli
+7	71:1:11	w	أَنْ		ان	[that]	an
+7	71:1:12	w	يَّاتِيَهُمْ		ياتيهم	comes to them	yatiyahum
+8	71:1:13	w	عَذَابٌ		عذاب	a punishment	ʿadhābun
+8	71:1:14	w	ࡰلِيمࣱ࣌		اليم	painful	alīmun
+8	71:1:15	e	۝١				
+8	71:2:1	w	قَالَ		قال	He said	qāla
+8	71:2:2	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+8	71:2:3	w	إِنِّے		اني	Indeed, I am	innī
+8	71:2:4	w	لَكُمْ		لكم	to you	lakum
+8	71:2:5	w	نَذِيرࣱ		نذير	a warner	nadhīrun
+8	71:2:6	w	مُّبِينٌ		مبين	clear	mubīnun
+8	71:2:7	e	۝٢				
+8	71:3:1	w	ࡰنُ		ان	That	ani
+8	71:3:2	w	ࡲ࢈عْبُدُواْ		اعبدوا	Worship	uʿ'budū
+9	71:3:3	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+9	71:3:4	w	وَاتَّقُوهُ		واتقوه	and fear Him	wa-ittaqūhu
+9	71:3:5	w	وَأَطِيعُونِ		واطيعون	and obey me	wa-aṭīʿūni
+9	71:3:6	e	۝٣				
+9	71:4:1	w	يَغْفِرْ		يغفر	He will forgive	yaghfir
+9	71:4:2	w	لَكُم		لكم	for you	lakum
+9	71:4:3	w	مِّن		من	[of]	min
+9	71:4:4	w	ذُنُوبِكُمْ		ذنوبكم	your sins	dhunūbikum
+9	71:4:5	w	وَيُوَ۬خِّرْكُمُۥٓ		ويوخركم	and give you respite	wayu-akhir'kum
+10	71:4:6	w	إِلَىٰٓ		الي	for	ilā
+10	71:4:7	w	أَجَلࣲ		اجل	a term	ajalin
+10	71:4:8	w	مُّسَمّىً࣌		مسمي	specified	musamman
+10	71:4:9	w	ࡴنَّ		ان	Indeed	inna
+10	71:4:10	w	أَجَلَ		اجل	(the) term	ajala
+10	71:4:11	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+10	71:4:12	w	إِذَا		اذا	when	idhā
+10	71:4:13	w	جَآءَ		جا	it comes	jāa
+10	71:4:14	w	لَا		لا	not	lā
+10	71:4:15	w	يُوَ۬خَّرُ		يوخر	is delayed	yu-akharu
+10	71:4:16	w	لَوْ		لو	if	law
+10	71:4:17	w	كُنتُمْ		كنتم	you	kuntum
+10	71:4:18	w	تَعْلَمُونَ࣌		تعلمون	know	taʿlamūna
+10	71:4:19	e	۝٤				
+11	71:5:1	w	قَالَ		قال	He said	qāla
+11	71:5:2	w	رَبِّ		رب	My Lord	rabbi
+11	71:5:3	w	إِنِّے		اني	Indeed, I	innī
+11	71:5:4	w	دَعَوْتُ		دعوت	invited	daʿawtu
+11	71:5:5	w	قَوْمِے		قومي	my people	qawmī
+11	71:5:6	w	لَيْلاࣰ		ليلا	night	laylan
+11	71:5:7	w	وَنَهَاراࣰ		ونهارا	and day	wanahāran
+11	71:5:8	e	۝٥				
+11	71:6:1	w	فَلَمْ		فلم	But not	falam
+11	71:6:2	w	يَزِدْهُمْ		يزدهم	increased them	yazid'hum
+11	71:6:3	w	دُعَآءِيَ		دعاي	my invitation	duʿāī
+11	71:6:4	w	إِلَّا		الا	except	illā
+12	71:6:5	w	فِرَاراࣰ࣌		فرارا	(in) flight	firāran
+12	71:6:6	e	۝٦				
+12	71:7:1	w	وَإِنِّے		واني	And indeed, I	wa-innī
+12	71:7:2	w	كُلَّمَا		كلما	every time	kullamā
+12	71:7:3	w	دَعَوْتُهُمْ		دعوتهم	I invited them	daʿawtuhum
+12	71:7:4	w	لِتَغْفِرَ		لتغفر	that You may forgive	litaghfira
+12	71:7:5	w	لَهُمْ		لهم	them	lahum
+12	71:7:6	w	جَعَلُوٓاْ		جعلوا	they put	jaʿalū
+12	71:7:7	w	أَصَٰبِعَهُمْ		اصبعهم	their fingers	aṣābiʿahum
+12	71:7:8	w	فِےٓ		في	in	fī
+13	71:7:9	w	ءَاذَانِهِمْ		اذانهم	their ears	ādhānihim
+13	71:7:10	w	وَاسْتَغْشَوْاْ		واستغشوا	and covered themselves	wa-is'taghshaw
+13	71:7:11	w	ثِيَابَهُمْ		ثيابهم	(with) their garments	thiyābahum
+13	71:7:12	w	وَأَصَرُّواْ		واصروا	and persisted	wa-aṣarrū
+13	71:7:13	w	وَاسْتَكْبَرُواْ		واستكبروا	and were arrogant	wa-is'takbarū
+13	71:7:14	w	ࡲٜسْتِكْبَاراࣰ࣌		استكبارا	(with) pride	is'tik'bāran
+13	71:7:15	e	۝٧				
+14	71:8:1	w	ثُمَّ		ثم	Then	thumma
+14	71:8:2	w	إِنِّے		اني	indeed, I	innī
+14	71:8:3	w	دَعَوْتُهُمْ		دعوتهم	invited them	daʿawtuhum
+14	71:8:4	w	جِهَاراࣰ࣌		جهارا	publicly	jihāran
+14	71:8:5	e	۝٨				
+14	71:9:1	w	ثُمَّ		ثم	Then	thumma
+14	71:9:2	w	إِنِّيَ		اني	indeed, I	innī
+14	71:9:3	w	أَعْلَنتُ		اعلنت	announced	aʿlantu
+14	71:9:4	w	لَهُمْ		لهم	to them	lahum
+14	71:9:5	w	وَأَسْرَرْتُ		واسررت	and I confided	wa-asrartu
+15	71:9:6	w	لَهُمُۥٓ		لهم	to them	lahum
+15	71:9:7	w	إِسْرَاراࣰ		اسرارا	secretly	is'rāran
+15	71:9:8	e	۝٩				
+15	71:10:1	w	فَقُلْتُ		فقلت	Then I said	faqul'tu
+15	71:10:2	w	ࡲٜسْتَغْفِرُواْ		استغفروا	Ask forgiveness	is'taghfirū
+15	71:10:3	w	رَبَّكُمُۥٓ		ربكم	(from) your Lord	rabbakum
+15	71:10:4	w	إِنَّهُۥ		انه	Indeed, He	innahu
+15	71:10:5	w	كَانَ		كان	is	kāna
+15	71:10:6	w	غَفَّاراࣰ		غفارا	Oft-Forgiving	ghaffāran
+15	71:10:7	e	۝١٠				

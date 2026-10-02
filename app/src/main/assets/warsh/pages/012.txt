@@ -1,0 +1,126 @@
+1	2:76:1	w	أَوَلَا		اولا	Do not	awalā
+1	2:76:2	w	يَعْلَمُونَ		يعلمون	they know	yaʿlamūna
+1	2:76:3	w	أَنَّ		ان	that	anna
+1	2:76:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	2:76:5	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+1	2:76:6	w	مَا		ما	what	mā
+1	2:76:7	w	يُسِرُّونَ		يسرون	they conceal	yusirrūna
+1	2:76:8	w	وَمَا		وما	and what	wamā
+1	2:76:9	w	يُعْلِنُونَ࣌		يعلنون	they declare	yuʿ'linūna
+1	2:76:10	e	۝٧٦				
+2	2:77:1	w	وَمِنْهُمُۥٓ		ومنهم	And among them	wamin'hum
+2	2:77:2	w	أُمِّيُّونَ		اميون	(are) unlettered ones	ummiyyūna
+2	2:77:3	w	لَا		لا	(who) do not	lā
+2	2:77:4	w	يَعْلَمُونَ		يعلمون	know	yaʿlamūna
+2	2:77:5	w	ࡰ۬لْكِتَٰبَ		الكتب	the book	l-kitāba
+2	2:77:6	w	إِلَّآ		الا	except	illā
+2	2:77:7	w	أَمَانِيَّ࣌		اماني	wishful thinking	amāniyya
+2	2:77:8	w	وَإِنْ		وان	and not	wa-in
+2	2:77:9	w	هُمُۥٓ		هم	they	hum
+3	2:77:10	w	إِلَّا		الا	(do anything) except	illā
+3	2:77:11	w	يَظُنُّونَ࣌		يظنون	guess	yaẓunnūna
+3	2:77:12	e	۝٧٧				
+3	2:78:1	w	فَوَيْلࣱ		فويل	So woe	fawaylun
+3	2:78:2	w	لِّلذِينَ		للذين	to those who	lilladhīna
+3	2:78:3	w	يَكْتُبُونَ		يكتبون	write	yaktubūna
+3	2:78:4	w	ࡰ۬لْكِتَٰبَ		الكتب	the book	l-kitāba
+3	2:78:5	w	بِأَيْدِيهِمْ		بايديهم	with their (own) hands	bi-aydīhim
+4	2:78:6	w	ثُمَّ		ثم	then	thumma
+4	2:78:7	w	يَقُولُونَ		يقولون	they say	yaqūlūna
+4	2:78:8	w	هَٰذَا		هذا	This	hādhā
+4	2:78:9	w	مِنْ		من	(is)	min
+4	2:78:10	w	عِندِ		عند	from	ʿindi
+4	2:78:11	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+4	2:78:12	w	لِيَشْتَرُواْ		ليشتروا	to barter	liyashtarū
+4	2:78:13	w	بِهِۦ		بهي	with it	bihi
+4	2:78:14	w	ثَمَناࣰ		ثمنا	(for) a price	thamanan
+4	2:78:15	w	قَلِيلاࣰ࣌		قليلا	little	qalīlan
+5	2:78:16	w	فَوَيْلࣱ		فويل	So woe	fawaylun
+5	2:78:17	w	لَّهُم		لهم	to them	lahum
+5	2:78:18	w	مِّمَّا		مما	for what	mimmā
+5	2:78:19	w	كَتَبَتَ		كتبت	have written	katabat
+5	2:78:20	w	ࡰيْدِيهِمْ࣌		ايديهم	their hands	aydīhim
+5	2:78:21	w	وَوَيْلࣱ		وويل	and woe	wawaylun
+5	2:78:22	w	لَّهُم		لهم	to them	lahum
+5	2:78:23	w	مِّمَّا		مما	for what	mimmā
+5	2:78:24	w	يَكْسِبُونَ࣌		يكسبون	they earn	yaksibūna
+5	2:78:25	e	۝٧٨				
+6	2:79:1	w	وَقَالُواْ		وقالوا	And they say	waqālū
+6	2:79:2	w	لَن		لن	Never	lan
+6	2:79:3	w	تَمَسَّنَا		تمسنا	will touch us	tamassanā
+6	2:79:4	w	ࡰ۬لنَّارُ		النار	the Fire	l-nāru
+6	2:79:5	w	إِلَّآ		الا	except	illā
+6	2:79:6	w	أَيَّاماࣰ		اياما	(for) days	ayyāman
+6	2:79:7	w	مَّعْدُودَةࣰ࣌		معدودة	numbered	maʿdūdatan
+6	2:79:8	w	قُلَ		قل	Say	qul
+7	2:79:9	w	ࡰتَّخَذتُّمْ		اتخذتم	Have you taken	attakhadhtum
+7	2:79:10	w	عِندَ		عند	from	ʿinda
+7	2:79:11	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	2:79:12	w	عَهْداࣰ		عهدا	a covenant	ʿahdan
+7	2:79:13	w	فَلَنْ		فلن	so never	falan
+7	2:79:14	w	يُّخْلِفَ		يخلف	will break	yukh'lifa
+7	2:79:15	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+7	2:79:16	w	عَهْدَهُۥٓ࣌		عهده	His Covenant	ʿahdahu
+7	2:79:17	w	أَمْ		ام	Or	am
+8	2:79:18	w	تَقُولُونَ		تقولون	(do) you say	taqūlūna
+8	2:79:19	w	عَلَى		علي	against	ʿalā
+8	2:79:20	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+8	2:79:21	w	مَا		ما	what	mā
+8	2:79:22	w	لَا		لا	not	lā
+8	2:79:23	w	تَعْلَمُونَ࣌		تعلمون	you know	taʿlamūna
+8	2:79:24	e	۝٧٩				
+8	2:80:1	w	بَلٜىٰ		بلي	Yes	balā
+8	2:80:2	w	مَن		من	whoever	man
+8	2:80:3	w	كَسَبَ		كسب	earned	kasaba
+8	2:80:4	w	سَيِّئَةࣰ		سيية	evil	sayyi-atan
+9	2:80:5	w	وَأَحَٰطَتْ		واحطت	and surrounded him	wa-aḥāṭat
+9	2:80:6	w	بِهِۦ		بهي	with	bihi
+9	2:80:7	w	خَطِيٓـَٰٔتُهُۥ		خطيته	his sins	khaṭīatuhu
+9	2:80:8	w	فَأُوْلَٰٓئِكَ		فاوليك	[so] those	fa-ulāika
+9	2:80:9	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+9	2:80:10	w	ࡲ۬لنّٜارِ		النار	(of) the Fire	l-nāri
+9	2:80:11	w	هُمْ		هم	they	hum
+10	2:80:12	w	فِيهَا		فيها	in it	fīhā
+10	2:80:13	w	خَٰلِدُونَ࣌		خلدون	(will) abide forever	khālidūna
+10	2:80:14	e	۝٨٠				
+10	2:81:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+10	2:81:2	w	ءَامَنُواْ		امنوا	believed	āmanū
+10	2:81:3	w	وَعَمِلُواْ		وعملوا	and did	waʿamilū
+10	2:81:4	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+11	2:81:5	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+11	2:81:6	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+11	2:81:7	w	ࡲ۬لْجَنَّةِ		الجنة	(of) Paradise	l-janati
+11	2:81:8	w	هُمْ		هم	they	hum
+11	2:81:9	w	فِيهَا		فيها	in it	fīhā
+11	2:81:10	w	خَٰلِدُونَ࣌		خلدون	(will) abide forever	khālidūna
+11	2:81:11	e	۝٨١				
+11	2:82:1	w	وَإِذَ		واذ	And when	wa-idh
+11	2:82:2	w	ࡰخَذْنَا		اخذنا	We took	akhadhnā
+12	2:82:3	w	مِيثَٰقَ		ميثق	(the) covenant	mīthāqa
+12	2:82:4	w	بَنِےٓ		بني	(from the) Children	banī
+12	2:82:5	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+12	2:82:6	w	لَا		لا	Not	lā
+12	2:82:7	w	تَعْبُدُونَ		تعبدون	you will worship	taʿbudūna
+12	2:82:8	w	إِلَّا		الا	except	illā
+12	2:82:9	w	ࡰ۬للَّهَ࣌		الله	Allah	l-laha
+12	2:82:10	w	وَبِالْوَٰلِدَيْنِ		وبالولدين	and with [the] parents	wabil-wālidayni
+13	2:82:11	w	إِحْسَٰناࣰ		احسنا	(be) good	iḥ'sānan
+13	2:82:12	w	وَذِے		وذي	and (with)	wadhī
+13	2:82:13	w	ࡴ۬لْقُرْبٜىٰ		القربي	relatives	l-qur'bā
+13	2:82:14	w	وَالْيَتَٰمٜىٰ		واليتمي	and [the] orphans	wal-yatāmā
+13	2:82:15	w	وَالْمَسَٰكِينِ࣌		والمسكين	and the needy	wal-masākīni
+13	2:82:16	w	وَقُولُواْ		وقولوا	and speak	waqūlū
+14	2:82:17	w	لِلنَّاسِ		للناس	to [the] people	lilnnāsi
+14	2:82:18	w	حُسْناࣰ࣌		حسنا	good	ḥus'nan
+14	2:82:19	w	وَأَقِيمُواْ		واقيموا	and establish	wa-aqīmū
+14	2:82:20	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+14	2:82:21	w	وَءَاتُواْ		واتوا	and give	waātū
+14	2:82:22	w	ࡲ۬لزَّكَوٰةَ࣌		الزكوة	the zakah	l-zakata
+14	2:82:23	w	ثُمَّ		ثم	Then	thumma
+15	2:82:24	w	تَوَلَّيْتُمُۥٓ		توليتم	you turned away	tawallaytum
+15	2:82:25	w	إِلَّا		الا	except	illā
+15	2:82:26	w	قَلِيلاࣰ		قليلا	a few	qalīlan
+15	2:82:27	w	مِّنكُمْ		منكم	of you	minkum
+15	2:82:28	w	وَأَنتُم		وانتم	and you (were)	wa-antum
+15	2:82:29	w	مُّعْرِضُونَ࣌		معرضون	refusing	muʿ'riḍūna
+15	2:82:30	e	۝٨٢				

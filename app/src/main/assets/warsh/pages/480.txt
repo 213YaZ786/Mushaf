@@ -1,0 +1,131 @@
+1	41:29:1	w	إِنَّ		ان	Indeed	inna
+1	41:29:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	41:29:3	w	قَالُواْ		قالوا	say	qālū
+1	41:29:4	w	رَبُّنَا		ربنا	Our Lord	rabbunā
+1	41:29:5	w	ࡰ۬للَّهُ		الله	(is) Allah	l-lahu
+1	41:29:6	w	ثُمَّ		ثم	then	thumma
+1	41:29:7	w	ࡰٜسْتَقَٰمُواْ		استقموا	stand firm	is'taqāmū
+1	41:29:8	w	تَتَنَزَّلُ		تتنزل	will descend	tatanazzalu
+1	41:29:9	w	عَلَيْهِمُ		عليهم	on them	ʿalayhimu
+2	41:29:10	w	ࡲ۬لْمَلَٰٓئِكَةُ		المليكة	the Angels	l-malāikatu
+2	41:29:11	w	أَلَّا		الا	(Do) not	allā
+2	41:29:12	w	تَخَافُواْ		تخافوا	fear	takhāfū
+2	41:29:13	w	وَلَا		ولا	and (do) not	walā
+2	41:29:14	w	تَحْزَنُواْ		تحزنوا	grieve	taḥzanū
+2	41:29:15	w	وَأَبْشِرُواْ		وابشروا	but receive the glad tidings	wa-abshirū
+2	41:29:16	w	بِالْجَنَّةِ		بالجنة	of Paradise	bil-janati
+2	41:29:17	w	ࡴ۬لتِے		التي	which	allatī
+3	41:29:18	w	كُنتُمْ		كنتم	you were	kuntum
+3	41:29:19	w	تُوعَدُونَ࣌		توعدون	promised	tūʿadūna
+3	41:29:20	e	۝٢٩				
+3	41:30:1	w	نَحْنُ		نحن	We	naḥnu
+3	41:30:2	w	أَوْلِيَآؤُكُمْ		اولياوكم	(are) your protectors	awliyāukum
+3	41:30:3	w	فِے		في	in	fī
+3	41:30:4	w	ࡴ۬لْحَيَوٰةِ		الحيوة	the life	l-ḥayati
+3	41:30:5	w	ࡴ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+4	41:30:6	w	وَفِے		وفي	and in	wafī
+4	41:30:7	w	ࡴ۬لَاخِرَةِ࣌		الاخرة	the Hereafter	l-ākhirati
+4	41:30:8	w	وَلَكُمْ		ولكم	And for you	walakum
+4	41:30:9	w	فِيهَا		فيها	therein	fīhā
+4	41:30:10	w	مَا		ما	whatever	mā
+4	41:30:11	w	تَشْتَهِےٓ		تشتهي	desire	tashtahī
+4	41:30:12	w	أَنفُسُكُمْ		انفسكم	your souls	anfusukum
+4	41:30:13	w	وَلَكُمْ		ولكم	and for you	walakum
+5	41:30:14	w	فِيهَا		فيها	therein	fīhā
+5	41:30:15	w	مَا		ما	what	mā
+5	41:30:16	w	تَدَّعُونَ		تدعون	you ask	taddaʿūna
+5	41:30:17	e	۝٣٠				
+5	41:31:1	w	نُزُلاࣰ		نزلا	A hospitable gift	nuzulan
+5	41:31:2	w	مِّنْ		من	from	min
+5	41:31:3	w	غَفُورࣲ		غفور	(the) Oft-Forgiving	ghafūrin
+5	41:31:4	w	رَّحِيمࣲ࣌		رحيم	(the) Most Merciful	raḥīmin
+5	41:31:5	e	۝٣١				
+5	41:32:1	w	وَمَنَ		ومن	And who	waman
+5	41:32:2	w	ࡰحْسَنُ		احسن	(is) better	aḥsanu
+6	41:32:3	w	قَوْلاࣰ		قولا	(in) speech	qawlan
+6	41:32:4	w	مِّمَّن		ممن	than (one) who	mimman
+6	41:32:5	w	دَعَآ		دعا	invites	daʿā
+6	41:32:6	w	إِلَى		الي	to	ilā
+6	41:32:7	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+6	41:32:8	w	وَعَمِلَ		وعمل	and does	waʿamila
+6	41:32:9	w	صَٰلِحاࣰ		صلحا	righteous (deeds)	ṣāliḥan
+6	41:32:10	w	وَقَالَ		وقال	and says	waqāla
+6	41:32:11	w	إِنَّنِے		انني	Indeed, I am	innanī
+6	41:32:12	w	مِنَ		من	of	mina
+7	41:32:13	w	ࡰ۬لْمُسْلِمِينَ࣌		المسلمين	those who submit	l-mus'limīna
+7	41:32:14	e	۝٣٢				
+7	41:33:1	w	وَلَا		ولا	And not	walā
+7	41:33:2	w	تَسْتَوِے		تستوي	(are) equal	tastawī
+7	41:33:3	w	ࡴ۬لْحَسَنَةُ		الحسنة	the good (deed)	l-ḥasanatu
+7	41:33:4	w	وَلَا		ولا	and	walā
+7	41:33:5	w	ࡰ۬لسَّيِّئَةُ࣌		السيية	the evil (deed)	l-sayi-atu
+7	41:33:6	w	ࡲٜدْفَعْ		ادفع	Repel	id'faʿ
+7	41:33:7	w	بِالتِے		بالتي	by (that) which	bi-allatī
+8	41:33:8	w	هِيَ		هي	[it]	hiya
+8	41:33:9	w	أَحْسَنُ		احسن	(is) better	aḥsanu
+8	41:33:10	w	فَإِذَا		فاذا	then behold	fa-idhā
+8	41:33:11	w	ࡰ۬لذِے		الذي	One who	alladhī
+8	41:33:12	w	بَيْنَكَ		بينك	between you	baynaka
+8	41:33:13	w	وَبَيْنَهُۥ		وبينه	and between him	wabaynahu
+8	41:33:14	w	عَدَٰوَةࣱ		عدوة	(was) enmity	ʿadāwatun
+8	41:33:15	w	كَأَنَّهُۥ		كانه	(will become) as if he	ka-annahu
+9	41:33:16	w	وَلِيٌّ		ولي	(was) a friend	waliyyun
+9	41:33:17	w	حَمِيمࣱ࣌		حميم	intimate	ḥamīmun
+9	41:33:18	e	۝٣٣				
+9	41:34:1	w	وَمَا		وما	And not	wamā
+9	41:34:2	w	يُلَقّٜيٰهَآ		يلقيها	it is granted	yulaqqāhā
+9	41:34:3	w	إِلَّا		الا	except	illā
+9	41:34:4	w	ࡰ۬لذِينَ		الذين	(to) those who	alladhīna
+9	41:34:5	w	صَبَرُواْ࣌		صبروا	(are) patient	ṣabarū
+9	41:34:6	w	وَمَا		وما	and not	wamā
+9	41:34:7	w	يُلَقّٜيٰهَآ		يلقيها	it is granted	yulaqqāhā
+10	41:34:8	w	إِلَّا		الا	except	illā
+10	41:34:9	w	ذُو		ذو	(to the) owner	dhū
+10	41:34:10	w	حَظٍّ		حظ	(of) fortune	ḥaẓẓin
+10	41:34:11	w	عَظِيمࣲ࣌		عظيم	great	ʿaẓīmin
+10	41:34:12	e	۝٣٤				
+10	41:35:1	w	وَإِمَّا		واما	And if	wa-immā
+10	41:35:2	w	يَنزَغَنَّكَ		ينزغنك	whisper comes to you	yanzaghannaka
+10	41:35:3	w	مِنَ		من	from	mina
+10	41:35:4	w	ࡰ۬لشَّيْطَٰنِ		الشيطن	the Shaitaan	l-shayṭāni
+10	41:35:5	w	نَزْغࣱ		نزغ	an evil suggestion	nazghun
+11	41:35:6	w	فَاسْتَعِذْ		فاستعذ	then seek refuge	fa-is'taʿidh
+11	41:35:7	w	بِاللَّهِ࣌		بالله	in Allah	bil-lahi
+11	41:35:8	w	إِنَّهُۥ		انه	Indeed, He	innahu
+11	41:35:9	w	هُوَ		هو	[He]	huwa
+11	41:35:10	w	ࡰ۬لسَّمِيعُ		السميع	(is) the All-Hearer	l-samīʿu
+11	41:35:11	w	ࡲ۬لْعَلِيمُ࣌		العليم	the All-Knower	l-ʿalīmu
+11	41:35:12	e	۝٣٥				
+11	41:36:1	w	وَمِنَ		ومن	And of	wamin
+11	41:36:2	w	اٰيَٰتِهِ		ايته	His Signs	āyātihi
+12	41:36:3	w	ࡴ۬ليْلُ		اليل	(are) the night	al-laylu
+12	41:36:4	w	وَالنَّهَارُ		والنهار	and the day	wal-nahāru
+12	41:36:5	w	وَالشَّمْسُ		والشمس	and the sun	wal-shamsu
+12	41:36:6	w	وَالْقَمَرُ࣌		والقمر	and the moon	wal-qamaru
+12	41:36:7	w	لَا		لا	(Do) not	lā
+12	41:36:8	w	تَسْجُدُواْ		تسجدوا	prostrate	tasjudū
+12	41:36:9	w	لِلشَّمْسِ		للشمس	to the sun	lilshamsi
+13	41:36:10	w	وَلَا		ولا	and not	walā
+13	41:36:11	w	لِلْقَمَرِ࣌		للقمر	to the moon	lil'qamari
+13	41:36:12	w	وَاسْجُدُواْ		واسجدوا	but prostrate	wa-us'judū
+13	41:36:13	w	لِلهِ		لله	to Allah	lillahi
+13	41:36:14	w	ࡴ۬لذِے		الذي	the One Who	alladhī
+13	41:36:15	w	خَلَقَهُنَّ		خلقهن	created them	khalaqahunna
+13	41:36:16	w	إِن		ان	if	in
+13	41:36:17	w	كُنتُمُۥٓ		كنتم	you	kuntum
+14	41:36:18	w	إِيَّاهُ		اياه	Him alone	iyyāhu
+14	41:36:19	w	تَعْبُدُونَ۩࣌		تعبدون	worship	taʿbudūna
+14	41:36:20	e	۝٣٦				
+14	41:37:1	w	۞ فَإِنِ		فان	But if	fa-ini
+14	41:37:2	w	ࡴٜسْتَكْبَرُواْ		استكبروا	they are arrogant	is'takbarū
+14	41:37:3	w	فَالذِينَ		فالذين	then those who	fa-alladhīna
+14	41:37:4	w	عِندَ		عند	(are) near	ʿinda
+15	41:37:5	w	رَبِّكَ		ربك	your Lord	rabbika
+15	41:37:6	w	يُسَبِّحُونَ		يسبحون	glorify	yusabbiḥūna
+15	41:37:7	w	لَهُۥ		له	Him	lahu
+15	41:37:8	w	بِاليْلِ		باليل	by night	bi-al-layli
+15	41:37:9	w	وَالنَّهٜارِ		والنهار	and day	wal-nahāri
+15	41:37:10	w	وَهُمْ		وهم	And they	wahum
+15	41:37:11	w	لَا		لا	(do) not	lā
+15	41:37:12	w	يَسْـَٔمُونَ࣌		يسمون	tire	yasamūna
+15	41:37:13	e	۝٣٧				

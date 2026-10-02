@@ -1,0 +1,131 @@
+1	9:108:1	w	ࡴ۬لذِينَ		الذين	And those who	wa-alladhīna
+1	9:108:2	w	ࡰٜتَّخَذُواْ		اتخذوا	take	ittakhadhū
+1	9:108:3	w	مَسْجِداࣰ		مسجدا	a masjid	masjidan
+1	9:108:4	w	ضِرَاراࣰ		ضرارا	(for causing) harm	ḍirāran
+1	9:108:5	w	وَكُفْراࣰ		وكفرا	and (for) disbelief	wakuf'ran
+1	9:108:6	w	وَتَفْرِيقاَۢ		وتفريقا	and (for) division	watafrīqan
+1	9:108:7	w	بَيْنَ		بين	among	bayna
+2	9:108:8	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+2	9:108:9	w	وَإِرْصَاداࣰ		وارصادا	and (as) a station	wa-ir'ṣādan
+2	9:108:10	w	لِّمَنْ		لمن	for whoever	liman
+2	9:108:11	w	حَارَبَ		حارب	warred	ḥāraba
+2	9:108:12	w	ࡰ۬للَّهَ		الله	(against) Allah	l-laha
+2	9:108:13	w	وَرَسُولَهُۥ		ورسوله	and His Messenger	warasūlahu
+2	9:108:14	w	مِن		من	before	min
+2	9:108:15	w	قَبْلُ࣌		قبل	before	qablu
+3	9:108:16	w	وَلَيَحْلِفُنَّ		وليحلفن	And surely they will swear	walayaḥlifunna
+3	9:108:17	w	إِنَ		ان	Not	in
+3	9:108:18	w	ࡰرَدْنَآ		اردنا	we wish	aradnā
+3	9:108:19	w	إِلَّا		الا	except	illā
+3	9:108:20	w	ࡰ۬لْحُسْنٜىٰ࣌		الحسني	the good	l-ḥus'nā
+3	9:108:21	w	وَاللَّهُ		والله	But Allah	wal-lahu
+3	9:108:22	w	يَشْهَدُ		يشهد	bears witness	yashhadu
+3	9:108:23	w	إِنَّهُمْ		انهم	indeed, they	innahum
+4	9:108:24	w	لَكَٰذِبُونَ࣌		لكذبون	(are) surely liars	lakādhibūna
+4	9:108:25	e	۝١٠٨				
+4	9:109:1	w	لَا		لا	(Do) not	lā
+4	9:109:2	w	تَقُمْ		تقم	stand	taqum
+4	9:109:3	w	فِيهِ		فيه	in it	fīhi
+4	9:109:4	w	أَبَداࣰ࣌		ابدا	ever	abadan
+4	9:109:5	w	لَّمَسْجِدٌ		لمسجد	A masjid	lamasjidun
+4	9:109:6	w	ࡳسِّسَ		اسس	founded	ussisa
+4	9:109:7	w	عَلَى		علي	on	ʿalā
+4	9:109:8	w	ࡰ۬لتَّقْوٜىٰ		التقوي	the righteousness	l-taqwā
+5	9:109:9	w	مِنَ		من	from	min
+5	9:109:10	w	ࡰوَّلِ		اول	(the) first	awwali
+5	9:109:11	w	يَوْمٍ		يوم	day	yawmin
+5	9:109:12	w	ࡰحَقُّ		احق	(is) more worthy	aḥaqqu
+5	9:109:13	w	أَن		ان	that	an
+5	9:109:14	w	تَقُومَ		تقوم	you stand	taqūma
+5	9:109:15	w	فِيهِ࣌		فيه	in it	fīhi
+5	9:109:16	w	فِيهِ		فيه	Within it	fīhi
+5	9:109:17	w	رِجَالࣱ		رجال	(are) men	rijālun
+5	9:109:18	w	يُحِبُّونَ		يحبون	who love	yuḥibbūna
+6	9:109:19	w	أَنْ		ان	to	an
+6	9:109:20	w	يَّتَطَهَّرُواْ࣌		يتطهروا	purify themselves	yataṭahharū
+6	9:109:21	w	وَاللَّهُ		والله	and Allah	wal-lahu
+6	9:109:22	w	يُحِبُّ		يحب	loves	yuḥibbu
+6	9:109:23	w	ࡲ۬لْمُطَّهِّرِينَ࣌		المطهرين	the ones who purify themselves	l-muṭahirīna
+6	9:109:24	e	۝١٠٩				
+6	9:110:1	w	أَفَمَنُ		افمن	Then is (one) who	afaman
+6	9:110:2	w	ࡳسِّسَ		اسس	founded	assasa
+6	9:110:3	w	بُنْيَٰنُهُۥ		بنينه	his building	bun'yānahu
+7	9:110:4	w	عَلَىٰ		علي	on	ʿalā
+7	9:110:5	w	تَقْوٜىٰ		تقوي	righteousness	taqwā
+7	9:110:6	w	مِنَ		من	from	mina
+7	9:110:7	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	9:110:8	w	وَرِضْوَٰنٍ		ورضون	and (His) pleasure	wariḍ'wānin
+7	9:110:9	w	خَيْرٌ		خير	better	khayrun
+7	9:110:10	w	ࡰم		ام	or	am
+7	9:110:11	w	مَّنُ		من	(one) who	man
+7	9:110:12	w	ࡳسِّسَ		اسس	founded	assasa
+7	9:110:13	w	بُنْيَٰنُهُۥ		بنينه	his building	bun'yānahu
+8	9:110:14	w	عَلَىٰ		علي	on	ʿalā
+8	9:110:15	w	شَفَا		شفا	edge	shafā
+8	9:110:16	w	جُرُفٍ		جرف	(of) a cliff	jurufin
+8	9:110:17	w	هٜارࣲ		هار	(about to) collapse	hārin
+8	9:110:18	w	فَانْهَارَ		فانهار	so it collapsed	fa-in'hāra
+8	9:110:19	w	بِهِۦ		بهي	with him	bihi
+8	9:110:20	w	فِے		في	in	fī
+8	9:110:21	w	نٜارِ		نار	(the) Fire	nāri
+8	9:110:22	w	جَهَنَّمَ࣌		جهنم	(of) Hell	jahannama
+8	9:110:23	w	وَاللَّهُ		والله	And Allah	wal-lahu
+8	9:110:24	w	لَا		لا	(does) not	lā
+8	9:110:25	w	يَهْدِے		يهدي	guide	yahdī
+9	9:110:26	w	ࡴ۬لْقَوْمَ		القوم	the wrongdoing people	l-qawma
+9	9:110:27	w	ࡰ۬لظَّٰلِمِينَ࣌		الظلمين	the wrongdoing people	l-ẓālimīna
+9	9:110:28	e	۝١١٠				
+9	9:111:1	w	لَا		لا	Not	lā
+9	9:111:2	w	يَزَالُ		يزال	(will) cease	yazālu
+9	9:111:3	w	بُنْيَٰنُهُمُ		بنينهم	their building	bun'yānuhumu
+9	9:111:4	w	ࡲ۬لذِے		الذي	which	alladhī
+9	9:111:5	w	بَنَوْاْ		بنوا	they built	banaw
+9	9:111:6	w	رِيبَةࣰ		ريبة	a (cause of) doubt	rībatan
+9	9:111:7	w	فِے		في	in	fī
+10	9:111:8	w	قُلُوبِهِمُۥٓ		قلوبهم	their hearts	qulūbihim
+10	9:111:9	w	إِلَّآ		الا	except	illā
+10	9:111:10	w	أَن		ان	that	an
+10	9:111:11	w	تُقَطَّعَ		تقطع	(are) cut into pieces	taqaṭṭaʿa
+10	9:111:12	w	قُلُوبُهُمْ࣌		قلوبهم	their hearts	qulūbuhum
+10	9:111:13	w	وَاللَّهُ		والله	And Allah	wal-lahu
+10	9:111:14	w	عَلِيمٌ		عليم	(is) All-Knower	ʿalīmun
+10	9:111:15	w	حَكِيمٌ࣌		حكيم	All-Wise	ḥakīmun
+10	9:111:16	e	۝١١١				
+11	9:112:1	w	۞ ࡴنَّ		ان	Indeed	inna
+11	9:112:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	9:112:3	w	ࡰٜشْتَرٜىٰ		اشتري	(has) purchased	ish'tarā
+11	9:112:4	w	مِنَ		من	from	mina
+11	9:112:5	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+11	9:112:6	w	أَنفُسَهُمْ		انفسهم	their lives	anfusahum
+11	9:112:7	w	وَأَمْوَٰلَهُم		وامولهم	and their wealth	wa-amwālahum
+12	9:112:8	w	بِأَنَّ		بان	because	bi-anna
+12	9:112:9	w	لَهُمُ		لهم	for them	lahumu
+12	9:112:10	w	ࡲ۬لْجَنَّةَ࣌		الجنة	(is) Paradise	l-janata
+12	9:112:11	w	يُقَٰتِلُونَ		يقتلون	They fight	yuqātilūna
+12	9:112:12	w	فِے		في	in	fī
+12	9:112:13	w	سَبِيلِ		سبيل	(the) way	sabīli
+12	9:112:14	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+12	9:112:15	w	فَيَقْتُلُونَ		فيقتلون	they slay	fayaqtulūna
+13	9:112:16	w	وَيُقْتَلُونَ		ويقتلون	and they are slain	wayuq'talūna
+13	9:112:17	w	وَعْداً		وعدا	A promise	waʿdan
+13	9:112:18	w	عَلَيْهِ		عليه	upon Him	ʿalayhi
+13	9:112:19	w	حَقّاࣰ		حقا	true	ḥaqqan
+13	9:112:20	w	فِے		في	in	fī
+13	9:112:21	w	ࡴ۬لتَّوْرٜيٰةِ		التورية	the Taurat	l-tawrāti
+13	9:112:22	w	وَالِانجِيلِ		والانجيل	and the Injeel	wal-injīli
+14	9:112:23	w	وَالْقُرْءَانِ࣌		والقران	and the Quran	wal-qur'āni
+14	9:112:24	w	وَمَنَ		ومن	And who	waman
+14	9:112:25	w	ࡰوْفٜىٰ		اوفي	(is) more faithful	awfā
+14	9:112:26	w	بِعَهْدِهِۦ		بعهدهي	to his promise	biʿahdihi
+14	9:112:27	w	مِنَ		من	than	mina
+14	9:112:28	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+14	9:112:29	w	فَاسْتَبْشِرُواْ		فاستبشروا	So rejoice	fa-is'tabshirū
+15	9:112:30	w	بِبَيْعِكُمُ		ببيعكم	in your transaction	bibayʿikumu
+15	9:112:31	w	ࡲ۬لذِے		الذي	which	alladhī
+15	9:112:32	w	بَايَعْتُم		بايعتم	you have contracted	bāyaʿtum
+15	9:112:33	w	بِهِۦ࣌		بهي	[with it]	bihi
+15	9:112:34	w	وَذَٰلِكَ		وذلك	And that	wadhālika
+15	9:112:35	w	هُوَ		هو	it	huwa
+15	9:112:36	w	ࡰ۬لْفَوْزُ		الفوز	(is) the success	l-fawzu
+15	9:112:37	w	ࡲ۬لْعَظِيمُ࣌		العظيم	the great	l-ʿaẓīmu
+15	9:112:38	e	۝١١٢				

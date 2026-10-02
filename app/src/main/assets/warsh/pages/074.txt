@@ -1,0 +1,124 @@
+1	3:181:1	w	۞ لَّقَدْ		لقد	Certainly	laqad
+1	3:181:2	w	سَمِعَ		سمع	heard	samiʿa
+1	3:181:3	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+1	3:181:4	w	قَوْلَ		قول	(the) saying	qawla
+1	3:181:5	w	ࡰ۬لذِينَ		الذين	(of) those who	alladhīna
+1	3:181:6	w	قَالُوٓاْ		قالوا	said	qālū
+1	3:181:7	w	إِنَّ		ان	Indeed	inna
+1	3:181:8	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	3:181:9	w	فَقِيرࣱ		فقير	(is) poor	faqīrun
+1	3:181:10	w	وَنَحْنُ		ونحن	while we	wanaḥnu
+1	3:181:11	w	أَغْنِيَآءُ࣌		اغنيا	(are) rich	aghniyāu
+2	3:181:12	w	سَنَكْتُبُ		سنكتب	We will record	sanaktubu
+2	3:181:13	w	مَا		ما	what	mā
+2	3:181:14	w	قَالُواْ		قالوا	they said	qālū
+2	3:181:15	w	وَقَتْلَهُمُ		وقتلهم	and their killing	waqatlahumu
+2	3:181:16	w	ࡲ۬لَانۢبِئَآءَ		الانبيا	the Prophets	l-anbiyāa
+2	3:181:17	w	بِغَيْرِ		بغير	without	bighayri
+2	3:181:18	w	حَقࣲّ		حق	(any) right	ḥaqqin
+2	3:181:19	w	وَنَقُولُ		ونقول	and We will say	wanaqūlu
+3	3:181:20	w	ذُوقُواْ		ذوقوا	Taste	dhūqū
+3	3:181:21	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+3	3:181:22	w	ࡰ۬لْحَرِيقِ࣌		الحريق	(of) the Burning Fire	l-ḥarīqi
+3	3:181:23	e	۝١٨١				
+3	3:182:1	w	ذَٰلِكَ		ذلك	That	dhālika
+3	3:182:2	w	بِمَا		بما	(is) because	bimā
+3	3:182:3	w	قَدَّمَتَ		قدمت	(of what) sent forth	qaddamat
+3	3:182:4	w	ࡰيْدِيكُمْ		ايديكم	your hands	aydīkum
+4	3:182:5	w	وَأَنَّ		وان	and that	wa-anna
+4	3:182:6	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	3:182:7	w	لَيْسَ		ليس	is not	laysa
+4	3:182:8	w	بِظَلَّٰمࣲ		بظلم	unjust	biẓallāmin
+4	3:182:9	w	لِّلْعَبِيدِ࣌		للعبيد	to (His) slaves	lil'ʿabīdi
+4	3:182:10	e	۝١٨٢				
+4	3:183:1	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+4	3:183:2	w	قَالُوٓاْ		قالوا	said	qālū
+4	3:183:3	w	إِنَّ		ان	Indeed	inna
+4	3:183:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	3:183:5	w	عَهِدَ		عهد	(has) taken promise	ʿahida
+5	3:183:6	w	إِلَيْنَآ		الينا	from us	ilaynā
+5	3:183:7	w	أَلَّا		الا	that not	allā
+5	3:183:8	w	نُومِنَ		نومن	we (should) believe	nu'mina
+5	3:183:9	w	لِرَسُولٍ		لرسول	in a Messenger	lirasūlin
+5	3:183:10	w	حَتَّىٰ		حتي	until	ḥattā
+5	3:183:11	w	يَاتِيَنَا		ياتينا	he brings to us	yatiyanā
+5	3:183:12	w	بِقُرْبَانࣲ		بقربان	a sacrifice	biqur'bānin
+6	3:183:13	w	تَاكُلُهُ		تاكله	consumes it	takuluhu
+6	3:183:14	w	ࡲ۬لنَّارُ࣌		النار	the fire	l-nāru
+6	3:183:15	w	قُلْ		قل	Say	qul
+6	3:183:16	w	قَدْ		قد	Surely	qad
+6	3:183:17	w	جَآءَكُمْ		جاكم	came to you	jāakum
+6	3:183:18	w	رُسُلࣱ		رسل	Messengers	rusulun
+6	3:183:19	w	مِّن		من	from	min
+6	3:183:20	w	قَبْلِے		قبلي	before me	qablī
+6	3:183:21	w	بِالْبَيِّنَٰتِ		بالبينت	with the clear Signs	bil-bayināti
+7	3:183:22	w	وَبِالذِے		وبالذي	and with what	wabi-alladhī
+7	3:183:23	w	قُلْتُمْ		قلتم	you speak	qul'tum
+7	3:183:24	w	فَلِمَ		فلم	So why	falima
+7	3:183:25	w	قَتَلْتُمُوهُمُۥٓ		قتلتموهم	you killed them	qataltumūhum
+7	3:183:26	w	إِن		ان	if	in
+7	3:183:27	w	كُنتُمْ		كنتم	you are	kuntum
+7	3:183:28	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+7	3:183:29	e	۝١٨٣				
+8	3:184:1	w	فَإِن		فان	Then if	fa-in
+8	3:184:2	w	كَذَّبُوكَ		كذبوك	they reject you	kadhabūka
+8	3:184:3	w	فَقَدْ		فقد	then certainly	faqad
+8	3:184:4	w	كُذِّبَ		كذب	were rejected	kudhiba
+8	3:184:5	w	رُسُلࣱ		رسل	Messengers	rusulun
+8	3:184:6	w	مِّن		من	from	min
+8	3:184:7	w	قَبْلِكَ		قبلك	before you	qablika
+8	3:184:8	w	جَآءُو		جاو	(who) came	jāū
+9	3:184:9	w	بِالْبَيِّنَٰتِ		بالبينت	with the clear Signs	bil-bayināti
+9	3:184:10	w	وَالزُّبُرِ		والزبر	and the Scriptures	wal-zuburi
+9	3:184:11	w	وَالْكِتَٰبِ		والكتب	and the Book	wal-kitābi
+9	3:184:12	w	ࡴ۬لْمُنِيرِ࣌		المنير	[the] Enlightening	l-munīri
+9	3:184:13	e	۝١٨٤				
+9	3:185:1	w	كُلُّ		كل	Every	kullu
+9	3:185:2	w	نَفْسࣲ		نفس	soul	nafsin
+10	3:185:3	w	ذَآئِقَةُ		ذايقة	(will) taste	dhāiqatu
+10	3:185:4	w	ࡲ۬لْمَوْتِ࣌		الموت	[the] death	l-mawti
+10	3:185:5	w	وَإِنَّمَا		وانما	and only	wa-innamā
+10	3:185:6	w	تُوَفَّوْنَ		توفون	you will be paid in full	tuwaffawna
+10	3:185:7	w	أُجُورَكُمْ		اجوركم	your reward	ujūrakum
+10	3:185:8	w	يَوْمَ		يوم	(on the) Day	yawma
+10	3:185:9	w	ࡰ۬لْقِيَٰمَةِ࣌		القيمة	(of) [the] Resurrection	l-qiyāmati
+11	3:185:10	w	فَمَن		فمن	Then whoever	faman
+11	3:185:11	w	زُحْزِحَ		زحزح	is drawn away	zuḥ'ziḥa
+11	3:185:12	w	عَنِ		عن	from	ʿani
+11	3:185:13	w	ࡴ۬لنّٜارِ		النار	the Fire	l-nāri
+11	3:185:14	w	وَأُدْخِلَ		وادخل	and admitted	wa-ud'khila
+11	3:185:15	w	ࡰ۬لْجَنَّةَ		الجنة	(to) Paradise	l-janata
+11	3:185:16	w	فَقَدْ		فقد	then surely	faqad
+11	3:185:17	w	فَازَ࣌		فاز	he is successful	fāza
+11	3:185:18	w	وَمَا		وما	And not	wamā
+12	3:185:19	w	ࡰ۬لْحَيَوٰةُ		الحيوة	(is) the life	l-ḥayatu
+12	3:185:20	w	ࡲ۬لدُّنْيٜآ		الدنيا	(of) the world	l-dun'yā
+12	3:185:21	w	إِلَّا		الا	except	illā
+12	3:185:22	w	مَتَٰعُ		متع	enjoyment	matāʿu
+12	3:185:23	w	ࡲ۬لْغُرُورِ࣌		الغرور	(of) delusion	l-ghurūri
+12	3:185:24	e	۝١٨٥				
+12	3:186:1	w	۞ لَتُبْلَوُنَّ		لتبلون	You will certainly be tested	latub'lawunna
+12	3:186:2	w	فِےٓ		في	in	fī
+13	3:186:3	w	أَمْوَٰلِكُمْ		امولكم	your wealth	amwālikum
+13	3:186:4	w	وَأَنفُسِكُمْ		وانفسكم	and yourselves	wa-anfusikum
+13	3:186:5	w	وَلَتَسْمَعُنَّ		ولتسمعن	And you will certainly hear	walatasmaʿunna
+13	3:186:6	w	مِنَ		من	from	mina
+13	3:186:7	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	3:186:8	w	أُوتُواْ		اوتوا	were given	ūtū
+14	3:186:9	w	ࡲ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+14	3:186:10	w	مِن		من	from	min
+14	3:186:11	w	قَبْلِكُمْ		قبلكم	before you	qablikum
+14	3:186:12	w	وَمِنَ		ومن	and from	wamina
+14	3:186:13	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+14	3:186:14	w	أَشْرَكُوٓاْ		اشركوا	associate partners with Allah	ashrakū
+14	3:186:15	w	أَذىࣰ		اذي	hurtful things	adhan
+14	3:186:16	w	كَثِيراࣰ࣌		كثيرا	many	kathīran
+15	3:186:17	w	وَإِن		وان	and if	wa-in
+15	3:186:18	w	تَصْبِرُواْ		تصبروا	you are patient	taṣbirū
+15	3:186:19	w	وَتَتَّقُواْ		وتتقوا	and fear (Allah)	watattaqū
+15	3:186:20	w	فَإِنَّ		فان	then indeed	fa-inna
+15	3:186:21	w	ذَٰلِكَ		ذلك	that	dhālika
+15	3:186:22	w	مِنْ		من	(is) of	min
+15	3:186:23	w	عَزْمِ		عزم	the matters	ʿazmi
+15	3:186:24	w	ࡴ۬لُامُورِ࣌		الامور	(of) determination	l-umūri
+15	3:186:25	e	۝١٨٦				

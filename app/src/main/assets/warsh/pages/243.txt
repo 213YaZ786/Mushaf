@@ -1,0 +1,145 @@
+1	12:64:1	w	قَالَ		قال	He said	qāla
+1	12:64:2	w	هَلَ		هل	Should	hal
+1	12:64:3	w	اٰمَنُكُمْ		امنكم	I entrust you	āmanukum
+1	12:64:4	w	عَلَيْهِ		عليه	with him	ʿalayhi
+1	12:64:5	w	إِلَّا		الا	except	illā
+1	12:64:6	w	كَمَآ		كما	as	kamā
+1	12:64:7	w	أَمِنتُكُمْ		امنتكم	I entrusted you	amintukum
+1	12:64:8	w	عَلَىٰٓ		علي	with	ʿalā
+1	12:64:9	w	أَخِيهِ		اخيه	his brother	akhīhi
+2	12:64:10	w	مِن		من	before	min
+2	12:64:11	w	قَبْلُ࣌		قبل	before	qablu
+2	12:64:12	w	فَاللَّهُ		فالله	But Allah	fal-lahu
+2	12:64:13	w	خَيْرٌ		خير	(is) the best	khayrun
+2	12:64:14	w	حِفْظاࣰ࣌		حفظا	Guardian	ḥāfiẓan
+2	12:64:15	w	وَهُوَ		وهو	and He	wahuwa
+2	12:64:16	w	أَرْحَمُ		ارحم	(is the) Most Merciful	arḥamu
+2	12:64:17	w	ࡲ۬لرَّٰحِمِينَ࣌		الرحمين	(of) the merciful	l-rāḥimīna
+2	12:64:18	e	۝٦٤				
+2	12:65:1	w	وَلَمَّا		ولما	And when	walammā
+3	12:65:2	w	فَتَحُواْ		فتحوا	they opened	fataḥū
+3	12:65:3	w	مَتَٰعَهُمْ		متعهم	their baggage	matāʿahum
+3	12:65:4	w	وَجَدُواْ		وجدوا	they found	wajadū
+3	12:65:5	w	بِضَٰعَتَهُمْ		بضعتهم	their merchandise	biḍāʿatahum
+3	12:65:6	w	رُدَّتِ		ردت	returned	ruddat
+3	12:65:7	w	ࡴلَيْهِمْ		اليهم	to them	ilayhim
+3	12:65:8	w	قَالُواْ		قالوا	They said	qālū
+4	12:65:9	w	يَٰٓأَبَانَا		يابانا	O our father	yāabānā
+4	12:65:10	w	مَا		ما	What	mā
+4	12:65:11	w	نَبْغِے࣌		نبغي	(could) we desire	nabghī
+4	12:65:12	w	هَٰذِهِۦ		هذهي	This	hādhihi
+4	12:65:13	w	بِضَٰعَتُنَا		بضعتنا	(is) our merchandise	biḍāʿatunā
+4	12:65:14	w	رُدَّتِ		ردت	returned	ruddat
+4	12:65:15	w	ࡴلَيْنَا		الينا	to us	ilaynā
+4	12:65:16	w	وَنَمِيرُ		ونمير	And we will get provision	wanamīru
+4	12:65:17	w	أَهْلَنَا		اهلنا	(for) our family	ahlanā
+5	12:65:18	w	وَنَحْفَظُ		ونحفظ	and we will protect	wanaḥfaẓu
+5	12:65:19	w	أَخَانَا		اخانا	our brother	akhānā
+5	12:65:20	w	وَنَزْدَادُ		ونزداد	and get an increase	wanazdādu
+5	12:65:21	w	كَيْلَ		كيل	measure	kayla
+5	12:65:22	w	بَعِيرࣲ࣌		بعير	(of) a camel's (load)	baʿīrin
+5	12:65:23	w	ذَٰلِكَ		ذلك	That	dhālika
+5	12:65:24	w	كَيْلࣱ		كيل	(is) a measurement	kaylun
+5	12:65:25	w	يَسِيرࣱ࣌		يسير	easy	yasīrun
+5	12:65:26	e	۝٦٥				
+6	12:66:1	w	۞ قَالَ		قال	He said	qāla
+6	12:66:2	w	لَنُ		لن	Never	lan
+6	12:66:3	w	ࡳرْسِلَهُۥ		ارسله	will I send him	ur'silahu
+6	12:66:4	w	مَعَكُمْ		معكم	with you	maʿakum
+6	12:66:5	w	حَتَّىٰ		حتي	until	ḥattā
+6	12:66:6	w	تُوتُونِ		توتون	you give to me	tu'tūni
+6	12:66:7	w	مَوْثِقاࣰ		موثقا	a promise	mawthiqan
+6	12:66:8	w	مِّنَ		من	by	mina
+6	12:66:9	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	12:66:10	w	لَتَاتُنَّنِے		لتاتنني	that surely you will bring him to me	latatunnanī
+7	12:66:11	w	بِهِۦٓ		بهي	that surely you will bring him to me	bihi
+7	12:66:12	w	إِلَّآ		الا	unless	illā
+7	12:66:13	w	أَنْ		ان	that	an
+7	12:66:14	w	يُّحَاطَ		يحاط	you are surrounded	yuḥāṭa
+7	12:66:15	w	بِكُمْ࣌		بكم	you are surrounded	bikum
+7	12:66:16	w	فَلَمَّآ		فلما	And when	falammā
+7	12:66:17	w	ءَاتَوْهُ		اتوه	they had given him	ātawhu
+7	12:66:18	w	مَوْثِقَهُمْ		موثقهم	their promise	mawthiqahum
+7	12:66:19	w	قَالَ		قال	he said	qāla
+7	12:66:20	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+8	12:66:21	w	عَلَىٰ		علي	over	ʿalā
+8	12:66:22	w	مَا		ما	what	mā
+8	12:66:23	w	نَقُولُ		نقول	we say	naqūlu
+8	12:66:24	w	وَكِيلࣱ࣌		وكيل	(is) a Guardian	wakīlun
+8	12:66:25	e	۝٦٦				
+8	12:67:1	w	وَقَالَ		وقال	And he said	waqāla
+8	12:67:2	w	يَٰبَنِيَّ		يبني	O my sons	yābaniyya
+8	12:67:3	w	لَا		لا	(Do) not	lā
+8	12:67:4	w	تَدْخُلُواْ		تدخلوا	enter	tadkhulū
+8	12:67:5	w	مِنۢ		من	from	min
+8	12:67:6	w	بَابࣲ		باب	one gate	bābin
+9	12:67:7	w	وَٰحِدࣲ		وحد	one gate	wāḥidin
+9	12:67:8	w	وَادْخُلُواْ		وادخلوا	but enter	wa-ud'khulū
+9	12:67:9	w	مِنَ		من	from	min
+9	12:67:10	w	ࡰبْوَٰبࣲ		ابوب	gates	abwābin
+9	12:67:11	w	مُّتَفَرِّقَةࣲ࣌		متفرقة	different	mutafarriqatin
+9	12:67:12	w	وَمَآ		وما	And not	wamā
+9	12:67:13	w	أُغْنِے		اغني	I can avail	ugh'nī
+9	12:67:14	w	عَنكُم		عنكم	you	ʿankum
+9	12:67:15	w	مِّنَ		من	against	mina
+9	12:67:16	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+10	12:67:17	w	مِن		من	any	min
+10	12:67:18	w	شَےْءٍ࣌		شي	thing	shayin
+10	12:67:19	w	ࡴنِ		ان	Not	ini
+10	12:67:20	w	ࡴ۬لْحُكْمُ		الحكم	(is) the decision	l-ḥuk'mu
+10	12:67:21	w	إِلَّا		الا	except	illā
+10	12:67:22	w	لِلهِ࣌		لله	with Allah	lillahi
+10	12:67:23	w	عَلَيْهِ		عليه	upon Him	ʿalayhi
+10	12:67:24	w	تَوَكَّلْتُ࣌		توكلت	I put my trust	tawakkaltu
+10	12:67:25	w	وَعَلَيْهِ		وعليه	and upon Him	waʿalayhi
+10	12:67:26	w	فَلْيَتَوَكَّلِ		فليتوكل	let put (their) trust	falyatawakkali
+11	12:67:27	w	ࡴ۬لْمُتَوَكِّلُونَ࣌		المتوكلون	the ones who put trust	l-mutawakilūna
+11	12:67:28	e	۝٦٧				
+11	12:68:1	w	وَلَمَّا		ولما	And when	walammā
+11	12:68:2	w	دَخَلُواْ		دخلوا	they entered	dakhalū
+11	12:68:3	w	مِنْ		من	from	min
+11	12:68:4	w	حَيْثُ		حيث	where	ḥaythu
+11	12:68:5	w	أَمَرَهُمُۥٓ		امرهم	ordered them	amarahum
+11	12:68:6	w	أَبُوهُم		ابوهم	their father	abūhum
+11	12:68:7	w	مَّا		ما	not	mā
+11	12:68:8	w	كَانَ		كان	it	kāna
+12	12:68:9	w	يُغْنِے		يغني	avail(ed)	yugh'nī
+12	12:68:10	w	عَنْهُم		عنهم	them	ʿanhum
+12	12:68:11	w	مِّنَ		من	against	mina
+12	12:68:12	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+12	12:68:13	w	مِن		من	any	min
+12	12:68:14	w	شَےْءٍ		شي	thing	shayin
+12	12:68:15	w	ࡴلَّا		الا	but	illā
+12	12:68:16	w	حَاجَةࣰ		حاجة	(it was) a need	ḥājatan
+12	12:68:17	w	فِے		في	of	fī
+12	12:68:18	w	نَفْسِ		نفس	Yaqub's soul	nafsi
+12	12:68:19	w	يَعْقُوبَ		يعقوب	Yaqub's soul	yaʿqūba
+13	12:68:20	w	قَضٜيٰهَا࣌		قضيها	which he carried out	qaḍāhā
+13	12:68:21	w	وَإِنَّهُۥ		وانه	And indeed, he	wa-innahu
+13	12:68:22	w	لَذُو		لذو	(was) a possessor	ladhū
+13	12:68:23	w	عِلْمࣲ		علم	(of) knowledge	ʿil'min
+13	12:68:24	w	لِّمَا		لما	because	limā
+13	12:68:25	w	عَلَّمْنَٰهُ࣌		علمنه	We had taught him	ʿallamnāhu
+13	12:68:26	w	وَلَٰكِنَّ		ولكن	but	walākinna
+13	12:68:27	w	أَكْثَرَ		اكثر	most	akthara
+13	12:68:28	w	ࡰ۬لنَّاسِ		الناس	(of) the people	l-nāsi
+14	12:68:29	w	لَا		لا	(do) not	lā
+14	12:68:30	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+14	12:68:31	e	۝٦٨				
+14	12:69:1	w	وَلَمَّا		ولما	And when	walammā
+14	12:69:2	w	دَخَلُواْ		دخلوا	they entered	dakhalū
+14	12:69:3	w	عَلَىٰ		علي	upon	ʿalā
+14	12:69:4	w	يُوسُفَ		يوسف	Yusuf	yūsufa
+14	12:69:5	w	ءَاوٜىٰٓ		اوي	he took	āwā
+14	12:69:6	w	إِلَيْهِ		اليه	to himself	ilayhi
+14	12:69:7	w	أَخَاهُ࣌		اخاه	his brother	akhāhu
+15	12:69:8	w	قَالَ		قال	He said	qāla
+15	12:69:9	w	إِنِّيَ		اني	Indeed, I	innī
+15	12:69:10	w	أَنَآ		انا	[I] am	anā
+15	12:69:11	w	أَخُوكَ		اخوك	your brother	akhūka
+15	12:69:12	w	فَلَا		فلا	so (do) not	falā
+15	12:69:13	w	تَبْتَئِسْ		تبتيس	grieve	tabta-is
+15	12:69:14	w	بِمَا		بما	for what	bimā
+15	12:69:15	w	كَانُواْ		كانوا	they used (to)	kānū
+15	12:69:16	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+15	12:69:17	e	۝٦٩				

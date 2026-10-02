@@ -1,0 +1,135 @@
+1	3:187:1	w	وَإِذَ		واذ	And when	wa-idh
+1	3:187:2	w	ࡰخَذَ		اخذ	took	akhadha
+1	3:187:3	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+1	3:187:4	w	مِيثَٰقَ		ميثق	a Covenant	mīthāqa
+1	3:187:5	w	ࡰ۬لذِينَ		الذين	(from) those who	alladhīna
+1	3:187:6	w	أُوتُواْ		اوتوا	were given	ūtū
+1	3:187:7	w	ࡲ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+1	3:187:8	w	لَتُبَيِّنُنَّهُۥ		لتبيننه	You certainly make it clear	latubayyinunnahu
+1	3:187:9	w	لِلنَّاسِ		للناس	to the mankind	lilnnāsi
+2	3:187:10	w	وَلَا		ولا	and (do) not	walā
+2	3:187:11	w	تَكْتُمُونَهُۥ		تكتمونه	conceal it	taktumūnahu
+2	3:187:12	w	فَنَبَذُوهُ		فنبذوه	Then they threw it	fanabadhūhu
+2	3:187:13	w	وَرَآءَ		ورا	behind	warāa
+2	3:187:14	w	ظُهُورِهِمْ		ظهورهم	their backs	ẓuhūrihim
+2	3:187:15	w	وَاشْتَرَوْاْ		واشتروا	and they exchanged	wa-ish'taraw
+2	3:187:16	w	بِهِۦ		بهي	[with] it	bihi
+2	3:187:17	w	ثَمَناࣰ		ثمنا	(for) a price	thamanan
+3	3:187:18	w	قَلِيلاࣰ࣌		قليلا	little	qalīlan
+3	3:187:19	w	فَبِيسَ		فبيس	And wretched	fabi'sa
+3	3:187:20	w	مَا		ما	(is) what	mā
+3	3:187:21	w	يَشْتَرُونَ࣌		يشترون	they purchase	yashtarūna
+3	3:187:22	e	۝١٨٧				
+3	3:188:1	w	لَا		لا	(Do) not	lā
+3	3:188:2	w	يَحْسِبَنَّ		يحسبن	think	taḥsabanna
+3	3:188:3	w	ࡰ۬لذِينَ		الذين	(that) those who	alladhīna
+3	3:188:4	w	يَفْرَحُونَ		يفرحون	rejoice	yafraḥūna
+3	3:188:5	w	بِمَآ		بما	in what	bimā
+4	3:188:6	w	أَتَواْ		اتوا	(they have) brought	ataw
+4	3:188:7	w	وَّيُحِبُّونَ		ويحبون	and they love	wayuḥibbūna
+4	3:188:8	w	أَنْ		ان	that	an
+4	3:188:9	w	يُّحْمَدُواْ		يحمدوا	they be praised	yuḥ'madū
+4	3:188:10	w	بِمَا		بما	for what	bimā
+4	3:188:11	w	لَمْ		لم	not	lam
+4	3:188:12	w	يَفْعَلُواْ		يفعلوا	they do	yafʿalū
+4	3:188:13	w	فَلَا		فلا	so (do) not	falā
+4	3:188:14	w	تَحْسِبَنَّهُم		تحسبنهم	think (that) they	taḥsabannahum
+5	3:188:15	w	بِمَفَازَةࣲ		بمفازة	(will) escape	bimafāzatin
+5	3:188:16	w	مِّنَ		من	from	mina
+5	3:188:17	w	ࡰ۬لْعَذَابِ࣌		العذاب	the punishment	l-ʿadhābi
+5	3:188:18	w	وَلَهُمْ		ولهم	and for them	walahum
+5	3:188:19	w	عَذَابٌ		عذاب	(is a) punishment	ʿadhābun
+5	3:188:20	w	ࡰلِيمࣱ࣌		اليم	painful	alīmun
+5	3:188:21	e	۝١٨٨				
+5	3:189:1	w	وَلِلهِ		ولله	And for Allah	walillahi
+5	3:189:2	w	مُلْكُ		ملك	(is the) dominion	mul'ku
+6	3:189:3	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+6	3:189:4	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+6	3:189:5	w	وَاللَّهُ		والله	and Allah	wal-lahu
+6	3:189:6	w	عَلَىٰ		علي	(is) on	ʿalā
+6	3:189:7	w	كُلِّ		كل	every	kulli
+6	3:189:8	w	شَےْءࣲ		شي	thing	shayin
+6	3:189:9	w	قَدِيرٌ࣌		قدير	All-Powerful	qadīrun
+6	3:189:10	e	۝١٨٩				
+6	3:190:1	w	ࡴنَّ		ان	Indeed	inna
+6	3:190:2	w	فِے		في	in	fī
+7	3:190:3	w	خَلْقِ		خلق	(the) creation	khalqi
+7	3:190:4	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+7	3:190:5	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+7	3:190:6	w	وَاخْتِلَٰفِ		واختلف	and (in the) alternation	wa-ikh'tilāfi
+7	3:190:7	w	ࡴ۬ليْلِ		اليل	(of) the night	al-layli
+7	3:190:8	w	وَالنَّهٜارِ		والنهار	and the day	wal-nahāri
+7	3:190:9	w	لَأٓيَٰتࣲ		لايت	(are) surely Signs	laāyātin
+8	3:190:10	w	لِّأُوْلِے		لاولي	for men	li-ulī
+8	3:190:11	w	ࡴ۬لَالْبَٰبِ		الالبب	(of) understanding	l-albābi
+8	3:190:12	e	۝١٩٠				
+8	3:191:1	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+8	3:191:2	w	يَذْكُرُونَ		يذكرون	remember	yadhkurūna
+8	3:191:3	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+8	3:191:4	w	قِيَٰماࣰ		قيما	standing	qiyāman
+8	3:191:5	w	وَقُعُوداࣰ		وقعودا	and sitting	waquʿūdan
+9	3:191:6	w	وَعَلَىٰ		وعلي	and on	waʿalā
+9	3:191:7	w	جُنُوبِهِمْ		جنوبهم	their sides	junūbihim
+9	3:191:8	w	وَيَتَفَكَّرُونَ		ويتفكرون	and they reflect	wayatafakkarūna
+9	3:191:9	w	فِے		في	on	fī
+9	3:191:10	w	خَلْقِ		خلق	(the) creation	khalqi
+9	3:191:11	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+9	3:191:12	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+10	3:191:13	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+10	3:191:14	w	مَا		ما	not	mā
+10	3:191:15	w	خَلَقْتَ		خلقت	You have created	khalaqta
+10	3:191:16	w	هَٰذَا		هذا	this	hādhā
+10	3:191:17	w	بَٰطِلاࣰ		بطلا	(in) vain	bāṭilan
+10	3:191:18	w	سُبْحَٰنَكَ࣌		سبحنك	Glory be to You	sub'ḥānaka
+10	3:191:19	w	فَقِنَا		فقنا	so save us	faqinā
+10	3:191:20	w	عَذَابَ		عذاب	(from the) punishment	ʿadhāba
+10	3:191:21	w	ࡰ۬لنّٜارِ࣌		النار	(of) the Fire	l-nāri
+10	3:191:22	e	۝١٩١				
+11	3:192:1	w	رَبَّنَآ		ربنا	Our Lord	rabbanā
+11	3:192:2	w	إِنَّكَ		انك	indeed [You]	innaka
+11	3:192:3	w	مَن		من	whom	man
+11	3:192:4	w	تُدْخِلِ		تدخل	You admit	tud'khili
+11	3:192:5	w	ࡴ۬لنَّارَ		النار	(to) the Fire	l-nāra
+11	3:192:6	w	فَقَدَ		فقد	then surely	faqad
+11	3:192:7	w	ࡰخْزَيْتَهُۥ࣌		اخزيته	You (have) disgraced him	akhzaytahu
+11	3:192:8	w	وَمَا		وما	and not	wamā
+11	3:192:9	w	لِلظَّٰلِمِينَ		للظلمين	for the wrongdoers	lilẓẓālimīna
+11	3:192:10	w	مِنَ		من	(are) any	min
+12	3:192:11	w	ࡰنصٜارࣲ࣌		انصار	helpers	anṣārin
+12	3:192:12	e	۝١٩٢				
+12	3:193:1	w	رَّبَّنَآ		ربنا	Our Lord	rabbanā
+12	3:193:2	w	إِنَّنَا		اننا	indeed we	innanā
+12	3:193:3	w	سَمِعْنَا		سمعنا	[we] heard	samiʿ'nā
+12	3:193:4	w	مُنَادِياࣰ		مناديا	a caller	munādiyan
+12	3:193:5	w	يُنَادِے		ينادي	calling	yunādī
+12	3:193:6	w	لِلِايمَٰنِ		للايمن	to the faith	lil'īmāni
+12	3:193:7	w	أَنَ		ان	that	an
+13	3:193:8	w	اٰمِنُواْ		امنوا	Believe	āminū
+13	3:193:9	w	بِرَبِّكُمْ		بربكم	in your Lord	birabbikum
+13	3:193:10	w	فَـَٔامَنَّا࣌		فامنا	so we have believed	faāmannā
+13	3:193:11	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+13	3:193:12	w	فَاغْفِرْ		فاغفر	so forgive	fa-igh'fir
+13	3:193:13	w	لَنَا		لنا	for us	lanā
+13	3:193:14	w	ذُنُوبَنَا		ذنوبنا	our sins	dhunūbanā
+13	3:193:15	w	وَكَفِّرْ		وكفر	and remove	wakaffir
+13	3:193:16	w	عَنَّا		عنا	from us	ʿannā
+14	3:193:17	w	سَيِّـَٔاتِنَا		سياتنا	our evil deeds	sayyiātinā
+14	3:193:18	w	وَتَوَفَّنَا		وتوفنا	and cause us to die	watawaffanā
+14	3:193:19	w	مَعَ		مع	with	maʿa
+14	3:193:20	w	ࡰ۬لَابْرٜارِ࣌		الابرار	the righteous	l-abrāri
+14	3:193:21	e	۝١٩٣				
+14	3:194:1	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+14	3:194:2	w	وَءَاتِنَا		واتنا	grant us	waātinā
+14	3:194:3	w	مَا		ما	what	mā
+14	3:194:4	w	وَعَدتَّنَا		وعدتنا	You promised us	waʿadttanā
+14	3:194:5	w	عَلَىٰ		علي	through	ʿalā
+15	3:194:6	w	رُسُلِكَ		رسلك	Your Messengers	rusulika
+15	3:194:7	w	وَلَا		ولا	and (do) not	walā
+15	3:194:8	w	تُخْزِنَا		تخزنا	disgrace us	tukh'zinā
+15	3:194:9	w	يَوْمَ		يوم	(on the) Day	yawma
+15	3:194:10	w	ࡰ۬لْقِيَٰمَةِ࣌		القيمة	(of) [the] Resurrection	l-qiyāmati
+15	3:194:11	w	إِنَّكَ		انك	Indeed, You	innaka
+15	3:194:12	w	لَا		لا	(do) not	lā
+15	3:194:13	w	تُخْلِفُ		تخلف	break	tukh'lifu
+15	3:194:14	w	ࡲ۬لْمِيعَادَ࣌		الميعاد	the promise	l-mīʿāda
+15	3:194:15	e	۝١٩٤				

@@ -1,0 +1,141 @@
+1	34:23:1	w	وَلَا		ولا	And not	walā
+1	34:23:2	w	تَنفَعُ		تنفع	benefits	tanfaʿu
+1	34:23:3	w	ࡲ۬لشَّفَٰعَةُ		الشفعة	the intercession	l-shafāʿatu
+1	34:23:4	w	عِندَهُۥٓ		عنده	with Him	ʿindahu
+1	34:23:5	w	إِلَّا		الا	except	illā
+1	34:23:6	w	لِمَنَ		لمن	for (one) whom	liman
+1	34:23:7	w	ࡰذِنَ		اذن	He permits	adhina
+1	34:23:8	w	لَهُۥ࣌		له	for him	lahu
+1	34:23:9	w	حَتَّىٰٓ		حتي	Until	ḥattā
+1	34:23:10	w	إِذَا		اذا	when	idhā
+1	34:23:11	w	فُزِّعَ		فزع	fear is removed	fuzziʿa
+2	34:23:12	w	عَن		عن	on	ʿan
+2	34:23:13	w	قُلُوبِهِمْ		قلوبهم	their hearts	qulūbihim
+2	34:23:14	w	قَالُواْ		قالوا	they will say	qālū
+2	34:23:15	w	مَاذَا		ماذا	What is that	mādhā
+2	34:23:16	w	قَالَ		قال	your Lord has said	qāla
+2	34:23:17	w	رَبُّكُمْ		ربكم	your Lord has said	rabbukum
+2	34:23:18	w	قَالُواْ		قالوا	They will say	qālū
+2	34:23:19	w	ࡲ۬لْحَقَّ࣌		الحق	The truth	l-ḥaqa
+2	34:23:20	w	وَهُوَ		وهو	And He	wahuwa
+2	34:23:21	w	ࡰ۬لْعَلِيُّ		العلي	(is) the Most High	l-ʿaliyu
+3	34:23:22	w	ࡲ۬لْكَبِيرُ࣌		الكبير	the Most Great	l-kabīru
+3	34:23:23	e	۝٢٣				
+3	34:24:1	w	۞ قُلْ		قل	Say	qul
+3	34:24:2	w	مَنْ		من	Who	man
+3	34:24:3	w	يَّرْزُقُكُم		يرزقكم	provides (for) you	yarzuqukum
+3	34:24:4	w	مِّنَ		من	from	mina
+3	34:24:5	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+3	34:24:6	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+3	34:24:7	w	قُلِ		قل	Say	quli
+3	34:24:8	w	ࡴ۬للَّهُ࣌		الله	Allah	l-lahu
+4	34:24:9	w	وَإِنَّآ		وانا	And indeed, we	wa-innā
+4	34:24:10	w	أَوِ		او	or	aw
+4	34:24:11	w	ࡴيَّاكُمْ		اياكم	you	iyyākum
+4	34:24:12	w	لَعَلَىٰ		لعلي	(are) surely upon	laʿalā
+4	34:24:13	w	هُدىً		هدي	guidance	hudan
+4	34:24:14	w	ࡰوْ		او	or	aw
+4	34:24:15	w	فِے		في	in	fī
+4	34:24:16	w	ضَلَٰلࣲ		ضلل	error	ḍalālin
+4	34:24:17	w	مُّبِينࣲ࣌		مبين	clear	mubīnin
+4	34:24:18	e	۝٢٤				
+4	34:25:1	w	قُل		قل	Say	qul
+5	34:25:2	w	لَّا		لا	Not	lā
+5	34:25:3	w	تُسْـَٔلُونَ		تسلون	you will be asked	tus'alūna
+5	34:25:4	w	عَمَّآ		عما	about what	ʿammā
+5	34:25:5	w	أَجْرَمْنَا		اجرمنا	sins we committed	ajramnā
+5	34:25:6	w	وَلَا		ولا	and not	walā
+5	34:25:7	w	نُسْـَٔلُ		نسل	we will be asked	nus'alu
+5	34:25:8	w	عَمَّا		عما	about what	ʿammā
+5	34:25:9	w	تَعْمَلُونَ࣌		تعملون	you do	taʿmalūna
+5	34:25:10	e	۝٢٥				
+5	34:26:1	w	قُلْ		قل	Say	qul
+5	34:26:2	w	يَجْمَعُ		يجمع	Will gather	yajmaʿu
+6	34:26:3	w	بَيْنَنَا		بيننا	us together	baynanā
+6	34:26:4	w	رَبُّنَا		ربنا	our Lord	rabbunā
+6	34:26:5	w	ثُمَّ		ثم	then	thumma
+6	34:26:6	w	يَفْتَحُ		يفتح	He will judge	yaftaḥu
+6	34:26:7	w	بَيْنَنَا		بيننا	between us	baynanā
+6	34:26:8	w	بِالْحَقِّ࣌		بالحق	in truth	bil-ḥaqi
+6	34:26:9	w	وَهُوَ		وهو	And He	wahuwa
+6	34:26:10	w	ࡰ۬لْفَتَّاحُ		الفتاح	(is) the Judge	l-fatāḥu
+6	34:26:11	w	ࡲ۬لْعَلِيمُ࣌		العليم	the All-Knowing	l-ʿalīmu
+6	34:26:12	e	۝٢٦				
+7	34:27:1	w	قُلَ		قل	Say	qul
+7	34:27:2	w	ࡰرُونِيَ		اروني	Show me	arūniya
+7	34:27:3	w	ࡰ۬لذِينَ		الذين	those whom	alladhīna
+7	34:27:4	w	أَلْحَقْتُم		الحقتم	you have joined	alḥaqtum
+7	34:27:5	w	بِهِۦ		بهي	with Him	bihi
+7	34:27:6	w	شُرَكَآءَ		شركا	(as) partners	shurakāa
+7	34:27:7	w	كَلَّا࣌		كلا	By no means	kallā
+7	34:27:8	w	بَلْ		بل	Nay	bal
+7	34:27:9	w	هُوَ		هو	He	huwa
+7	34:27:10	w	ࡰ۬للَّهُ		الله	(is) Allah	l-lahu
+8	34:27:11	w	ࡲ۬لْعَزِيزُ		العزيز	the All-Mighty	l-ʿazīzu
+8	34:27:12	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+8	34:27:13	e	۝٢٧				
+8	34:28:1	w	وَمَآ		وما	And not	wamā
+8	34:28:2	w	أَرْسَلْنَٰكَ		ارسلنك	We have sent you	arsalnāka
+8	34:28:3	w	إِلَّا		الا	except	illā
+8	34:28:4	w	كَآفَّةࣰ		كافة	comprehensively	kāffatan
+8	34:28:5	w	لِّلنَّاسِ		للناس	to mankind	lilnnāsi
+9	34:28:6	w	بَشِيراࣰ		بشيرا	(as) a giver of glad tidings	bashīran
+9	34:28:7	w	وَنَذِيراࣰ࣌		ونذيرا	and (as) a warner	wanadhīran
+9	34:28:8	w	وَلَٰكِنَّ		ولكن	But	walākinna
+9	34:28:9	w	أَكْثَرَ		اكثر	most	akthara
+9	34:28:10	w	ࡰ۬لنَّاسِ		الناس	[the] people	l-nāsi
+9	34:28:11	w	لَا		لا	(do) not	lā
+9	34:28:12	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+9	34:28:13	e	۝٢٨				
+10	34:29:1	w	وَيَقُولُونَ		ويقولون	And they say	wayaqūlūna
+10	34:29:2	w	مَتٜىٰ		متي	When	matā
+10	34:29:3	w	هَٰذَا		هذا	(is) this	hādhā
+10	34:29:4	w	ࡰ۬لْوَعْدُ		الوعد	promise	l-waʿdu
+10	34:29:5	w	إِن		ان	if	in
+10	34:29:6	w	كُنتُمْ		كنتم	you are	kuntum
+10	34:29:7	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+10	34:29:8	e	۝٢٩				
+10	34:30:1	w	قُل		قل	Say	qul
+11	34:30:2	w	لَّكُم		لكم	For you	lakum
+11	34:30:3	w	مِّيعَادُ		ميعاد	(is the) appointment	mīʿādu
+11	34:30:4	w	يَوْمࣲ		يوم	(of) a Day	yawmin
+11	34:30:5	w	لَّا		لا	not	lā
+11	34:30:6	w	تَسْتَٰخِرُونَ		تستخرون	you can postpone	tastakhirūna
+11	34:30:7	w	عَنْهُ		عنه	[of] it	ʿanhu
+11	34:30:8	w	سَاعَةࣰ		ساعة	(for) an hour	sāʿatan
+11	34:30:9	w	وَلَا		ولا	and not	walā
+11	34:30:10	w	تَسْتَقْدِمُونَ࣌		تستقدمون	(can) you precede (it)	tastaqdimūna
+11	34:30:11	e	۝٣٠				
+12	34:31:1	w	وَقَالَ		وقال	And say	waqāla
+12	34:31:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	34:31:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+12	34:31:4	w	لَن		لن	Never will	lan
+12	34:31:5	w	نُّومِنَ		نومن	we believe	nu'mina
+12	34:31:6	w	بِهَٰذَا		بهذا	in this	bihādhā
+12	34:31:7	w	ࡰ۬لْقُرْءَانِ		القران	Quran	l-qur'āni
+12	34:31:8	w	وَلَا		ولا	and not	walā
+13	34:31:9	w	بِالذِے		بالذي	in (that) which	bi-alladhī
+13	34:31:10	w	بَيْنَ		بين	(was) before it	bayna
+13	34:31:11	w	يَدَيْهِ࣌		يديه	(was) before it	yadayhi
+13	34:31:12	w	وَلَوْ		ولو	But if	walaw
+13	34:31:13	w	تَرٜىٰٓ		تري	you (could) see	tarā
+13	34:31:14	w	إِذِ		اذ	when	idhi
+13	34:31:15	w	ࡴ۬لظَّٰلِمُونَ		الظلمون	the wrongdoers	l-ẓālimūna
+13	34:31:16	w	مَوْقُوفُونَ		موقوفون	will be made to stand	mawqūfūna
+13	34:31:17	w	عِندَ		عند	before	ʿinda
+14	34:31:18	w	رَبِّهِمْ		ربهم	their Lord	rabbihim
+14	34:31:19	w	يَرْجِعُ		يرجع	will throw back	yarjiʿu
+14	34:31:20	w	بَعْضُهُمُۥٓ		بعضهم	some of them	baʿḍuhum
+14	34:31:21	w	إِلَىٰ		الي	to	ilā
+14	34:31:22	w	بَعْضٍ		بعض	others	baʿḍin
+14	34:31:23	w	ࡴ۬لْقَوْلَ࣌		القول	the word	l-qawla
+14	34:31:24	w	يَقُولُ		يقول	Will say	yaqūlu
+14	34:31:25	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+15	34:31:26	w	ࡸَسْتُضْعِفُواْ		استضعفوا	were oppressed	us'tuḍ'ʿifū
+15	34:31:27	w	لِلذِينَ		للذين	to those who	lilladhīna
+15	34:31:28	w	ࡰٜسْتَكْبَرُواْ		استكبروا	were arrogant	is'takbarū
+15	34:31:29	w	لَوْلَآ		لولا	If not	lawlā
+15	34:31:30	w	أَنتُمْ		انتم	(for) you	antum
+15	34:31:31	w	لَكُنَّا		لكنا	certainly we (would) have been	lakunnā
+15	34:31:32	w	مُومِنِينَ࣌		مومنين	believers	mu'minīna
+15	34:31:33	e	۝٣١				

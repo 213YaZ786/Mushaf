@@ -1,0 +1,145 @@
+1	69:36:1	w	وَلَا		ولا	And not	walā
+1	69:36:2	w	طَعَامٌ		طعام	any food	ṭaʿāmun
+1	69:36:3	w	ࡴلَّا		الا	except	illā
+1	69:36:4	w	مِنْ		من	from	min
+1	69:36:5	w	غِسْلِينࣲ		غسلين	(the) discharge of wounds	ghis'līnin
+1	69:36:6	e	۝٣٦				
+1	69:37:1	w	لَّا		لا	Not	lā
+1	69:37:2	w	يَاكُلُهُۥٓ		ياكله	will eat it	yakuluhu
+1	69:37:3	w	إِلَّا		الا	except	illā
+1	69:37:4	w	ࡰ۬لْخَٰطِـُٔونَ࣌		الخطون	the sinners	l-khāṭiūna
+1	69:37:5	e	۝٣٧				
+1	69:38:1	w	فَلَآ		فلا	But nay	falā
+1	69:38:2	w	أُقْسِمُ		اقسم	I swear	uq'simu
+2	69:38:3	w	بِمَا		بما	by what	bimā
+2	69:38:4	w	تُبْصِرُونَ		تبصرون	you see	tub'ṣirūna
+2	69:38:5	e	۝٣٨				
+2	69:39:1	w	وَمَا		وما	And what	wamā
+2	69:39:2	w	لَا		لا	not	lā
+2	69:39:3	w	تُبْصِرُونَ		تبصرون	you see	tub'ṣirūna
+2	69:39:4	e	۝٣٩				
+2	69:40:1	w	إِنَّهُۥ		انه	Indeed, it (is)	innahu
+2	69:40:2	w	لَقَوْلُ		لقول	surely (the) Word	laqawlu
+2	69:40:3	w	رَسُولࣲ		رسول	(of) a Messenger	rasūlin
+2	69:40:4	w	كَرِيمࣲ		كريم	noble	karīmin
+2	69:40:5	e	۝٤٠				
+3	69:41:1	w	وَمَا		وما	And not	wamā
+3	69:41:2	w	هُوَ		هو	it	huwa
+3	69:41:3	w	بِقَوْلِ		بقول	(is the) word	biqawli
+3	69:41:4	w	شَاعِرࣲ		شاعر	(of) a poet	shāʿirin
+3	69:41:5	w	قَلِيلاࣰ		قليلا	little	qalīlan
+3	69:41:6	w	مَّا		ما	(is) what	mā
+3	69:41:7	w	تُومِنُونَ		تومنون	you believe	tu'minūna
+3	69:41:8	e	۝٤١				
+3	69:42:1	w	وَلَا		ولا	And not	walā
+3	69:42:2	w	بِقَوْلِ		بقول	(it is the) word	biqawli
+3	69:42:3	w	كَاهِنࣲ࣌		كاهن	(of) a soothsayer	kāhinin
+3	69:42:4	w	قَلِيلاࣰ		قليلا	little	qalīlan
+4	69:42:5	w	مَّا		ما	(is) what	mā
+4	69:42:6	w	تَذَّكَّرُونَ࣌		تذكرون	you take heed	tadhakkarūna
+4	69:42:7	e	۝٤٢				
+4	69:43:1	w	تَنزِيلࣱ		تنزيل	(It is) a revelation	tanzīlun
+4	69:43:2	w	مِّن		من	from	min
+4	69:43:3	w	رَّبِّ		رب	(the) Lord	rabbi
+4	69:43:4	w	ࡴ۬لْعَٰلَمِينَ࣌		العلمين	(of) the worlds	l-ʿālamīna
+4	69:43:5	e	۝٤٣				
+4	69:44:1	w	وَلَوْ		ولو	And if	walaw
+4	69:44:2	w	تَقَوَّلَ		تقول	he (had) fabricated	taqawwala
+4	69:44:3	w	عَلَيْنَا		علينا	against Us	ʿalaynā
+5	69:44:4	w	بَعْضَ		بعض	some	baʿḍa
+5	69:44:5	w	ࡰ۬لَاقَاوِيلِ		الاقاويل	sayings	l-aqāwīli
+5	69:44:6	e	۝٤٤				
+5	69:45:1	w	لَأَخَذْنَا		لاخذنا	Certainly We (would) have seized	la-akhadhnā
+5	69:45:2	w	مِنْهُ		منه	him	min'hu
+5	69:45:3	w	بِالْيَمِينِ		باليمين	by the right hand	bil-yamīni
+5	69:45:4	e	۝٤٥				
+5	69:46:1	w	ثُمَّ		ثم	Then	thumma
+5	69:46:2	w	لَقَطَعْنَا		لقطعنا	certainly We (would) have cut off	laqaṭaʿnā
+5	69:46:3	w	مِنْهُ		منه	from him	min'hu
+6	69:46:4	w	ࡲ۬لْوَتِينَ		الوتين	the aorta	l-watīna
+6	69:46:5	e	۝٤٦				
+6	69:47:1	w	فَمَا		فما	And not	famā
+6	69:47:2	w	مِنكُم		منكم	from you	minkum
+6	69:47:3	w	مِّنَ		من	any	min
+6	69:47:4	w	ࡰحَدٍ		احد	one	aḥadin
+6	69:47:5	w	عَنْهُ		عنه	[from him]	ʿanhu
+6	69:47:6	w	حَٰجِزِينَ࣌		حجزين	(who could) prevent (it)	ḥājizīna
+6	69:47:7	e	۝٤٧				
+6	69:48:1	w	وَإِنَّهُۥ		وانه	And indeed, it	wa-innahu
+6	69:48:2	w	لَتَذْكِرَةࣱ		لتذكرة	(is) surely a reminder	latadhkiratun
+7	69:48:3	w	لِّلْمُتَّقِينَ࣌		للمتقين	for the Allah-fearing	lil'muttaqīna
+7	69:48:4	e	۝٤٨				
+7	69:49:1	w	وَإِنَّا		وانا	And indeed, We	wa-innā
+7	69:49:2	w	لَنَعْلَمُ		لنعلم	surely know	lanaʿlamu
+7	69:49:3	w	أَنَّ		ان	that	anna
+7	69:49:4	w	مِنكُم		منكم	among you	minkum
+7	69:49:5	w	مُّكَذِّبِينَ࣌		مكذبين	(are) deniers	mukadhibīna
+7	69:49:6	e	۝٤٩				
+7	69:50:1	w	وَإِنَّهُۥ		وانه	And indeed, it	wa-innahu
+7	69:50:2	w	لَحَسْرَةٌ		لحسرة	(is) surely a regret	laḥasratun
+7	69:50:3	w	عَلَى		علي	upon	ʿalā
+8	69:50:4	w	ࡰ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+8	69:50:5	e	۝٥٠				
+8	69:51:1	w	وَإِنَّهُۥ		وانه	And indeed, it (is)	wa-innahu
+8	69:51:2	w	لَحَقُّ		لحق	surely (the) truth	laḥaqqu
+8	69:51:3	w	ࡲ۬لْيَقِينِ࣌		اليقين	(of) certainty	l-yaqīni
+8	69:51:4	e	۝٥١				
+8	69:52:1	w	فَسَبِّحْ		فسبح	So glorify	fasabbiḥ
+8	69:52:2	w	بِاسْمِ		باسم	(the) name	bi-is'mi
+8	69:52:3	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+8	69:52:4	w	ࡰ۬لْعَظِيمِ࣌		العظيم	the Most Great	l-ʿaẓīmi
+8	69:52:5	e	۝٥٢				
+9	70:0:0	t					
+10	70:0:0	b					
+11	70:1:1	w	سَالَ		سال	Asked	sa-ala
+11	70:1:2	w	سَآئِلُۢ		سايل	a questioner	sāilun
+11	70:1:3	w	بِعَذَابࣲ		بعذاب	about a punishment	biʿadhābin
+11	70:1:4	w	وَاقِعࣲ		واقع	bound to happen	wāqiʿin
+11	70:1:5	e	۝١				
+11	70:2:1	w	لِّلْكٜـٰفِرِينَ		للكفرين	To the disbelievers	lil'kāfirīna
+11	70:2:2	w	لَيْسَ		ليس	not	laysa
+11	70:2:3	w	لَهُۥ		له	of it	lahu
+11	70:2:4	w	دَافِعࣱ		دافع	any preventer	dāfiʿun
+11	70:2:5	e	۝٢				
+12	70:3:1	w	مِّنَ		من	From	mina
+12	70:3:2	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+12	70:3:3	w	ذِے		ذي	Owner	dhī
+12	70:3:4	w	ࡴ۬لْمَعَارِجِ࣌		المعارج	(of) the ways of ascent	l-maʿāriji
+12	70:3:5	e	۝٣				
+12	70:4:1	w	تَعْرُجُ		تعرج	Ascend	taʿruju
+12	70:4:2	w	ࡲ۬لْمَلَٰٓئِكَةُ		المليكة	the Angels	l-malāikatu
+12	70:4:3	w	وَالرُّوحُ		والروح	and the Spirit	wal-rūḥu
+12	70:4:4	w	إِلَيْهِ		اليه	to Him	ilayhi
+12	70:4:5	w	فِے		في	in	fī
+12	70:4:6	w	يَوْمࣲ		يوم	a Day	yawmin
+13	70:4:7	w	كَانَ		كان	[is]	kāna
+13	70:4:8	w	مِقْدَارُهُۥ		مقداره	its measure	miq'dāruhu
+13	70:4:9	w	خَمْسِينَ		خمسين	(is) fifty	khamsīna
+13	70:4:10	w	أَلْفَ		الف	thousand	alfa
+13	70:4:11	w	سَنَةࣲ࣌		سنة	year(s)	sanatin
+13	70:4:12	e	۝٤				
+13	70:5:1	w	فَاصْبِرْ		فاصبر	So be patient	fa-iṣ'bir
+13	70:5:2	w	صَبْراࣰ		صبرا	a patience	ṣabran
+13	70:5:3	w	جَمِيلاً࣌		جميلا	good	jamīlan
+13	70:5:4	e	۝٥				
+13	70:6:1	w	ࡴنَّهُمْ		انهم	Indeed, they	innahum
+14	70:6:2	w	يَرَوْنَهُۥ		يرونه	see it	yarawnahu
+14	70:6:3	w	بَعِيداࣰ		بعيدا	(as) far off	baʿīdan
+14	70:6:4	e	۝٦				
+14	70:7:1	w	وَنَرٜيٰهُ		ونريه	But We see it	wanarāhu
+14	70:7:2	w	قَرِيباࣰ࣌		قريبا	near	qarīban
+14	70:7:3	e	۝٧				
+14	70:8:1	w	يَوْمَ		يوم	(The) Day	yawma
+14	70:8:2	w	تَكُونُ		تكون	will be	takūnu
+14	70:8:3	w	ࡲ۬لسَّمَآءُ		السما	the sky	l-samāu
+14	70:8:4	w	كَالْمُهْلِ		كالمهل	like molten copper	kal-muh'li
+14	70:8:5	e	۝٨				
+15	70:9:1	w	وَتَكُونُ		وتكون	And will be	watakūnu
+15	70:9:2	w	ࡲ۬لْجِبَالُ		الجبال	the mountains	l-jibālu
+15	70:9:3	w	كَالْعِهْنِ		كالعهن	like wool	kal-ʿih'ni
+15	70:9:4	e	۝٩				
+15	70:10:1	w	وَلَا		ولا	And not	walā
+15	70:10:2	w	يَسْـَٔلُ		يسل	will ask	yasalu
+15	70:10:3	w	حَمِيمٌ		حميم	a friend	ḥamīmun
+15	70:10:4	w	حَمِيماࣰ		حميما	(about) a friend	ḥamīman
+15	70:10:5	e	۝١٠				

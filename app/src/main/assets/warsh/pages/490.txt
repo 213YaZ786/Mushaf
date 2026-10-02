@@ -1,0 +1,142 @@
+1	43:10:1	w	۞ وَالذِے		والذي	And the One Who	wa-alladhī
+1	43:10:2	w	نَزَّلَ		نزل	sends down	nazzala
+1	43:10:3	w	مِنَ		من	from	mina
+1	43:10:4	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+1	43:10:5	w	مَآءَۢ		ما	water	māan
+1	43:10:6	w	بِقَدَرࣲ		بقدر	in (due) measure	biqadarin
+1	43:10:7	w	فَأَنشَرْنَا		فانشرنا	then We revive	fa-ansharnā
+1	43:10:8	w	بِهِۦ		بهي	with it	bihi
+1	43:10:9	w	بَلْدَةࣰ		بلدة	a land	baldatan
+1	43:10:10	w	مَّيْتاࣰ࣌		ميتا	dead	maytan
+2	43:10:11	w	كَذَٰلِكَ		كذلك	thus	kadhālika
+2	43:10:12	w	تُخْرَجُونَ࣌		تخرجون	you will be brought forth	tukh'rajūna
+2	43:10:13	e	۝١٠				
+2	43:11:1	w	وَالذِے		والذي	And the One Who	wa-alladhī
+2	43:11:2	w	خَلَقَ		خلق	created	khalaqa
+2	43:11:3	w	ࡰ۬لَازْوَٰجَ		الازوج	the pairs	l-azwāja
+2	43:11:4	w	كُلَّهَا		كلها	all of them	kullahā
+2	43:11:5	w	وَجَعَلَ		وجعل	and made	wajaʿala
+3	43:11:6	w	لَكُم		لكم	for you	lakum
+3	43:11:7	w	مِّنَ		من	[of]	mina
+3	43:11:8	w	ࡰ۬لْفُلْكِ		الفلك	the ships	l-ful'ki
+3	43:11:9	w	وَالَانْعَٰمِ		والانعم	and the cattle	wal-anʿāmi
+3	43:11:10	w	مَا		ما	what	mā
+3	43:11:11	w	تَرْكَبُونَ		تركبون	you ride	tarkabūna
+3	43:11:12	e	۝١١				
+3	43:12:1	w	لِتَسْتَوُۥاْ		لتستوا	That you may sit firmly	litastawū
+3	43:12:2	w	عَلَىٰ		علي	on	ʿalā
+3	43:12:3	w	ظُهُورِهِۦ		ظهورهي	their backs	ẓuhūrihi
+4	43:12:4	w	ثُمَّ		ثم	then	thumma
+4	43:12:5	w	تَذْكُرُواْ		تذكروا	remember	tadhkurū
+4	43:12:6	w	نِعْمَةَ		نعمة	(the) favor	niʿ'mata
+4	43:12:7	w	رَبِّكُمُۥٓ		ربكم	(of) your Lord	rabbikum
+4	43:12:8	w	إِذَا		اذا	when	idhā
+4	43:12:9	w	ࡰٜسْتَوَيْتُمْ		استويتم	you sit firmly	is'tawaytum
+4	43:12:10	w	عَلَيْهِ		عليه	on them	ʿalayhi
+4	43:12:11	w	وَتَقُولُواْ		وتقولوا	and say	wataqūlū
+5	43:12:12	w	سُبْحَٰنَ		سبحن	Glory be (to)	sub'ḥāna
+5	43:12:13	w	ࡰ۬لذِے		الذي	the One Who	alladhī
+5	43:12:14	w	سَخَّرَ		سخر	(has) subjected	sakhara
+5	43:12:15	w	لَنَا		لنا	to us	lanā
+5	43:12:16	w	هَٰذَا		هذا	this	hādhā
+5	43:12:17	w	وَمَا		وما	and not	wamā
+5	43:12:18	w	كُنَّا		كنا	we were	kunnā
+5	43:12:19	w	لَهُۥ		له	of it	lahu
+5	43:12:20	w	مُقْرِنِينَ		مقرنين	capable	muq'rinīna
+5	43:12:21	e	۝١٢				
+5	43:13:1	w	وَإِنَّآ		وانا	And indeed, we	wa-innā
+5	43:13:2	w	إِلَىٰ		الي	to	ilā
+6	43:13:3	w	رَبِّنَا		ربنا	our Lord	rabbinā
+6	43:13:4	w	لَمُنقَلِبُونَ࣌		لمنقلبون	will surely return	lamunqalibūna
+6	43:13:5	e	۝١٣				
+6	43:14:1	w	وَجَعَلُواْ		وجعلوا	But they attribute	wajaʿalū
+6	43:14:2	w	لَهُۥ		له	to Him	lahu
+6	43:14:3	w	مِنْ		من	from	min
+6	43:14:4	w	عِبَادِهِۦ		عبادهي	His slaves	ʿibādihi
+6	43:14:5	w	جُزْءاً࣌		جزا	a portion	juz'an
+6	43:14:6	w	ࡴنَّ		ان	Indeed	inna
+6	43:14:7	w	ࡰ۬لِانسَٰنَ		الانسن	man	l-insāna
+7	43:14:8	w	لَكَفُورࣱ		لكفور	surely (is) clearly ungrateful	lakafūrun
+7	43:14:9	w	مُّبِينٌ࣌		مبين	surely (is) clearly ungrateful	mubīnun
+7	43:14:10	e	۝١٤				
+7	43:15:1	w	ࡰمِ		ام	Or	ami
+7	43:15:2	w	ࡴٜتَّخَذَ		اتخذ	has He taken	ittakhadha
+7	43:15:3	w	مِمَّا		مما	of what	mimmā
+7	43:15:4	w	يَخْلُقُ		يخلق	He has created	yakhluqu
+7	43:15:5	w	بَنَاتࣲ		بنات	daughters	banātin
+7	43:15:6	w	وَأَصْفٜيٰكُم		واصفيكم	and He has chosen (for) you	wa-aṣfākum
+8	43:15:7	w	بِالْبَنِينَ࣌		بالبنين	sons	bil-banīna
+8	43:15:8	e	۝١٥				
+8	43:16:1	w	وَإِذَا		واذا	And when	wa-idhā
+8	43:16:2	w	بُشِّرَ		بشر	is given good news	bushira
+8	43:16:3	w	أَحَدُهُم		احدهم	(to) one of them	aḥaduhum
+8	43:16:4	w	بِمَا		بما	of what	bimā
+8	43:16:5	w	ضَرَبَ		ضرب	he sets up	ḍaraba
+8	43:16:6	w	لِلرَّحْمَٰنِ		للرحمن	for the Most Gracious	lilrraḥmāni
+8	43:16:7	w	مَثَلاࣰ		مثلا	(as) a likeness	mathalan
+9	43:16:8	w	ظَلَّ		ظل	becomes	ẓalla
+9	43:16:9	w	وَجْهُهُۥ		وجهه	his face	wajhuhu
+9	43:16:10	w	مُسْوَدّاࣰ		مسودا	dark	mus'waddan
+9	43:16:11	w	وَهُوَ		وهو	and he	wahuwa
+9	43:16:12	w	كَظِيمٌ࣌		كظيم	(is) filled with grief	kaẓīmun
+9	43:16:13	e	۝١٦				
+9	43:17:1	w	ࡰوَمَنْ		اومن	Then (is one) who	awaman
+9	43:17:2	w	يَّنشَؤُاْ		ينشوا	is brought up	yunasha-u
+9	43:17:3	w	فِے		في	in	fī
+10	43:17:4	w	ࡴ۬لْحِلْيَةِ		الحلية	ornaments	l-ḥil'yati
+10	43:17:5	w	وَهُوَ		وهو	and he	wahuwa
+10	43:17:6	w	فِے		في	in	fī
+10	43:17:7	w	ࡴ۬لْخِصَامِ		الخصام	the dispute	l-khiṣāmi
+10	43:17:8	w	غَيْرُ		غير	(is) not	ghayru
+10	43:17:9	w	مُبِينࣲ࣌		مبين	clear	mubīnin
+10	43:17:10	e	۝١٧				
+10	43:18:1	w	وَجَعَلُواْ		وجعلوا	And they made	wajaʿalū
+10	43:18:2	w	ࡲ۬لْمَلَٰٓئِكَةَ		المليكة	the Angels	l-malāikata
+11	43:18:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	43:18:4	w	هُمْ		هم	themselves	hum
+11	43:18:5	w	عِندَ		عند	(are) slaves	ʿibādu
+11	43:18:6	w	ࡰ۬لرَّحْمَٰنِ		الرحمن	(of) the Most Gracious	l-raḥmāni
+11	43:18:7	w	إِنَٰثاً࣌		انثا	females	ināthan
+11	43:18:8	w	ࡸَشْهِدُواْ		اشهدوا	Did they witness	ashahidū
+11	43:18:9	w	خَلْقَهُمْ࣌		خلقهم	their creation	khalqahum
+11	43:18:10	w	سَتُكْتَبُ		ستكتب	Will be recorded	satuk'tabu
+12	43:18:11	w	شَهَٰدَتُهُمْ		شهدتهم	their testimony	shahādatuhum
+12	43:18:12	w	وَيُسْـَٔلُونَ࣌		ويسلون	and they will be questioned	wayus'alūna
+12	43:18:13	e	۝١٨				
+12	43:19:1	w	وَقَالُواْ		وقالوا	And they say	waqālū
+12	43:19:2	w	لَوْ		لو	If	law
+12	43:19:3	w	شَآءَ		شا	had willed	shāa
+12	43:19:4	w	ࡰ۬لرَّحْمَٰنُ		الرحمن	the Most Gracious	l-raḥmānu
+12	43:19:5	w	مَا		ما	we would not have worshipped them	mā
+12	43:19:6	w	عَبَدْنَٰهُم࣌		عبدنهم	we would not have worshipped them	ʿabadnāhum
+13	43:19:7	w	مَّا		ما	Not	mā
+13	43:19:8	w	لَهُم		لهم	they have	lahum
+13	43:19:9	w	بِذَٰلِكَ		بذلك	about that	bidhālika
+13	43:19:10	w	مِنْ		من	any	min
+13	43:19:11	w	عِلْمٍ࣌		علم	knowledge	ʿil'min
+13	43:19:12	w	ࡴنْ		ان	Nothing	in
+13	43:19:13	w	هُمُۥٓ		هم	they (do)	hum
+13	43:19:14	w	إِلَّا		الا	but	illā
+13	43:19:15	w	يَخْرُصُونَ࣌		يخرصون	lie	yakhruṣūna
+13	43:19:16	e	۝١٩				
+13	43:20:1	w	أَمَ		ام	Or	am
+13	43:20:2	w	اٰتَيْنَٰهُمْ		اتينهم	have We given them	ātaynāhum
+14	43:20:3	w	كِتَٰباࣰ		كتبا	a book	kitāban
+14	43:20:4	w	مِّن		من	before it	min
+14	43:20:5	w	قَبْلِهِۦ		قبلهي	before it	qablihi
+14	43:20:6	w	فَهُم		فهم	so they	fahum
+14	43:20:7	w	بِهِۦ		بهي	to it	bihi
+14	43:20:8	w	مُسْتَمْسِكُونَ࣌		مستمسكون	(are) holding fast	mus'tamsikūna
+14	43:20:9	e	۝٢٠				
+14	43:21:1	w	بَلْ		بل	Nay	bal
+14	43:21:2	w	قَالُوٓاْ		قالوا	they say	qālū
+14	43:21:3	w	إِنَّا		انا	Indeed, we	innā
+15	43:21:4	w	وَجَدْنَآ		وجدنا	[we] found	wajadnā
+15	43:21:5	w	ءَابَآءَنَا		ابانا	our forefathers	ābāanā
+15	43:21:6	w	عَلَىٰٓ		علي	upon	ʿalā
+15	43:21:7	w	أُمَّةࣲ		امة	a religion	ummatin
+15	43:21:8	w	وَإِنَّا		وانا	and indeed, we	wa-innā
+15	43:21:9	w	عَلَىٰٓ		علي	on	ʿalā
+15	43:21:10	w	ءَاثٜـٰرِهِم		اثرهم	their footsteps	āthārihim
+15	43:21:11	w	مُّهْتَدُونَ࣌		مهتدون	(are) guided	muh'tadūna
+15	43:21:12	e	۝٢١				

@@ -1,0 +1,157 @@
+1	79:17:1	w	ࡰٜذْهَبِ		اذهب	Go	idh'hab
+1	79:17:2	w	ࡴلَىٰ		الي	to	ilā
+1	79:17:3	w	فِرْعَوْنَ		فرعون	Firaun	fir'ʿawna
+1	79:17:4	w	إِنَّهُۥ		انه	Indeed, he	innahu
+1	79:17:5	w	طَغٜىٰ		طغي	(has) transgressed	ṭaghā
+1	79:17:6	e	۝١٧				
+1	79:18:1	w	فَقُلْ		فقل	And say	faqul
+1	79:18:2	w	هَل		هل	Would	hal
+1	79:18:3	w	لَّكَ		لك	[for] you	laka
+1	79:18:4	w	إِلَىٰٓ		الي	[to]	ilā
+1	79:18:5	w	أَن		ان	[that]	an
+1	79:18:6	w	تَزَّكّٜىٰ		تزكي	purify yourself	tazakkā
+1	79:18:7	e	۝١٨				
+2	79:19:1	w	وَأَهْدِيَكَ		واهديك	And I will guide you	wa-ahdiyaka
+2	79:19:2	w	إِلَىٰ		الي	to	ilā
+2	79:19:3	w	رَبِّكَ		ربك	your Lord	rabbika
+2	79:19:4	w	فَتَخْشٜىٰ࣌		فتخشي	so you would fear	fatakhshā
+2	79:19:5	e	۝١٩				
+2	79:20:1	w	فَأَرٜيٰهُ		فاريه	Then he showed him	fa-arāhu
+2	79:20:2	w	ࡲ۬لَايَةَ		الاية	the sign	l-āyata
+2	79:20:3	w	ࡰ۬لْكُبْرٜىٰ		الكبري	the great	l-kub'rā
+2	79:20:4	e	۝٢٠				
+3	79:21:1	w	فَكَذَّبَ		فكذب	But he denied	fakadhaba
+3	79:21:2	w	وَعَصٜىٰ		وعصي	and disobeyed	waʿaṣā
+3	79:21:3	e	۝٢١				
+3	79:22:1	w	ثُمَّ		ثم	Then	thumma
+3	79:22:2	w	أَدْبَرَ		ادبر	he turned his back	adbara
+3	79:22:3	w	يَسْعٜىٰ		يسعي	striving	yasʿā
+3	79:22:4	e	۝٢٢				
+3	79:23:1	w	فَحَشَرَ		فحشر	And he gathered	faḥashara
+3	79:23:2	w	فَنَادٜىٰ		فنادي	and called out	fanādā
+3	79:23:3	e	۝٢٣				
+3	79:24:1	w	فَقَالَ		فقال	Then he said	faqāla
+4	79:24:2	w	أَنَا		انا	I am	anā
+4	79:24:3	w	رَبُّكُمُ		ربكم	your Lord	rabbukumu
+4	79:24:4	w	ࡲ۬لَاعْلٜىٰ		الاعلي	the Most High	l-aʿlā
+4	79:24:5	e	۝٢٤				
+4	79:25:1	w	فَأَخَذَهُ		فاخذه	So seized him	fa-akhadhahu
+4	79:25:2	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+4	79:25:3	w	نَكَالَ		نكال	(with) an exemplary punishment	nakāla
+4	79:25:4	w	ࡰ۬لَاخِرَةِ		الاخرة	(for) the last	l-ākhirati
+4	79:25:5	w	وَالُاولٜىٰٓ࣌		والاولي	and the first	wal-ūlā
+4	79:25:6	e	۝٢٥				
+5	79:26:1	w	إِنَّ		ان	Indeed	inna
+5	79:26:2	w	فِے		في	in	fī
+5	79:26:3	w	ذَٰلِكَ		ذلك	that	dhālika
+5	79:26:4	w	لَعِبْرَةࣰ		لعبرة	surely (is) a lesson	laʿib'ratan
+5	79:26:5	w	لِّمَنْ		لمن	for whoever	liman
+5	79:26:6	w	يَّخْشٜىٰٓ࣌		يخشي	fears	yakhshā
+5	79:26:7	e	۝٢٦				
+5	79:27:1	w	ءَآنتُمُۥٓ		انتم	Are you	a-antum
+5	79:27:2	w	أَشَدُّ		اشد	a more difficult	ashaddu
+5	79:27:3	w	خَلْقاً		خلقا	creation	khalqan
+5	79:27:4	w	ࡰمِ		ام	or	ami
+5	79:27:5	w	ࡴ۬لسَّمَآءُ࣌		السما	the heaven	l-samāu
+6	79:27:6	w	بَنَيٰهَا		بنيها	He constructed it	banāhā
+6	79:27:7	e	۝٢٧				
+6	79:28:1	w	رَفَعَ		رفع	He raised	rafaʿa
+6	79:28:2	w	سَمْكَهَا		سمكها	its ceiling	samkahā
+6	79:28:3	w	فَسَوَّيٰهَا		فسويها	and proportioned it	fasawwāhā
+6	79:28:4	e	۝٢٨				
+6	79:29:1	w	وَأَغْطَشَ		واغطش	And He darkened	wa-aghṭasha
+6	79:29:2	w	لَيْلَهَا		ليلها	its night	laylahā
+6	79:29:3	w	وَأَخْرَجَ		واخرج	and brought out	wa-akhraja
+7	79:29:4	w	ضُحَيٰهَا࣌		ضحيها	its brightness	ḍuḥāhā
+7	79:29:5	e	۝٢٩				
+7	79:30:1	w	وَالَارْضَ		والارض	And the earth	wal-arḍa
+7	79:30:2	w	بَعْدَ		بعد	after	baʿda
+7	79:30:3	w	ذَٰلِكَ		ذلك	that	dhālika
+7	79:30:4	w	دَحَيٰهَآ		دحيها	He spread it	daḥāhā
+7	79:30:5	e	۝٣٠				
+7	79:31:1	w	أَخْرَجَ		اخرج	He brought forth	akhraja
+7	79:31:2	w	مِنْهَا		منها	from it	min'hā
+7	79:31:3	w	مَآءَهَا		ماها	its water	māahā
+8	79:31:4	w	وَمَرْعَيٰهَا		ومرعيها	and its pasture	wamarʿāhā
+8	79:31:5	e	۝٣١				
+8	79:32:1	w	وَالْجِبَالَ		والجبال	And the mountains	wal-jibāla
+8	79:32:2	w	أَرْسَيٰهَا		ارسيها	He made them firm	arsāhā
+8	79:32:3	e	۝٣٢				
+8	79:33:1	w	مَتَٰعاࣰ		متعا	(As) a provision	matāʿan
+8	79:33:2	w	لَّكُمْ		لكم	for you	lakum
+8	79:33:3	w	وَلِأَنْعَٰمِكُمْ࣌		ولانعمكم	and for your cattle	wali-anʿāmikum
+8	79:33:4	e	۝٣٣				
+9	79:34:1	w	فَإِذَا		فاذا	But when	fa-idhā
+9	79:34:2	w	جَآءَتِ		جات	comes	jāati
+9	79:34:3	w	ࡴ۬لطَّآمَّةُ		الطامة	the Overwhelming Calamity	l-ṭāmatu
+9	79:34:4	w	ࡲ۬لْكُبْرٜىٰ		الكبري	the great	l-kub'rā
+9	79:34:5	e	۝٣٤				
+9	79:35:1	w	يَوْمَ		يوم	(The) Day	yawma
+9	79:35:2	w	يَتَذَكَّرُ		يتذكر	will remember	yatadhakkaru
+9	79:35:3	w	ࡲ۬لِانسَٰنُ		الانسن	man	l-insānu
+9	79:35:4	w	مَا		ما	what	mā
+9	79:35:5	w	سَعٜىٰ		سعي	he strove (for)	saʿā
+9	79:35:6	e	۝٣٥				
+10	79:36:1	w	وَبُرِّزَتِ		وبرزت	And will be made manifest	waburrizati
+10	79:36:2	w	ࡴ۬لْجَحِيمُ		الجحيم	the Hellfire	l-jaḥīmu
+10	79:36:3	w	لِمَنْ		لمن	to (him) who	liman
+10	79:36:4	w	يَّرٜىٰ࣌		يري	sees	yarā
+10	79:36:5	e	۝٣٦				
+10	79:37:1	w	فَأَمَّا		فاما	Then as for	fa-ammā
+10	79:37:2	w	مَن		من	(him) who	man
+10	79:37:3	w	طَغٜىٰ		طغي	transgressed	ṭaghā
+10	79:37:4	w	وَءَاثَرَ		واثر	And preferred	waāthara
+10	79:37:5	w	ࡰ۬لْحَيَوٰةَ		الحيوة	the life	l-ḥayata
+11	79:37:6	w	ࡰ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+11	79:37:7	e	۝٣٧				
+11	79:38:1	w	فَإِنَّ		فان	Then indeed	fa-inna
+11	79:38:2	w	ࡰ۬لْجَحِيمَ		الجحيم	the Hellfire	l-jaḥīma
+11	79:38:3	w	هِيَ		هي	it	hiya
+11	79:38:4	w	ࡰ۬لْمَأْوٜىٰ࣌		الماوي	(is) the refuge	l-mawā
+11	79:38:5	e	۝٣٨				
+11	79:39:1	w	وَأَمَّا		واما	But as for	wa-ammā
+11	79:39:2	w	مَنْ		من	(him) who	man
+11	79:39:3	w	خَافَ		خاف	feared	khāfa
+11	79:39:4	w	مَقَامَ		مقام	standing	maqāma
+12	79:39:5	w	رَبِّهِۦ		ربهي	(before) his Lord	rabbihi
+12	79:39:6	w	وَنَهَى		ونهي	and restrained	wanahā
+12	79:39:7	w	ࡰ۬لنَّفْسَ		النفس	his soul	l-nafsa
+12	79:39:8	w	عَنِ		عن	from	ʿani
+12	79:39:9	w	ࡴ۬لْهَوٜىٰ		الهوي	the vain desires	l-hawā
+12	79:39:10	e	۝٣٩				
+12	79:40:1	w	فَإِنَّ		فان	Then indeed	fa-inna
+12	79:40:2	w	ࡰ۬لْجَنَّةَ		الجنة	Paradise	l-janata
+12	79:40:3	w	هِيَ		هي	it (is)	hiya
+12	79:40:4	w	ࡰ۬لْمَأْوٜىٰ࣌		الماوي	the refuge	l-mawā
+12	79:40:5	e	۝٤٠				
+13	79:41:1	w	۞ يَسْـَٔلُونَكَ		يسلونك	They ask you	yasalūnaka
+13	79:41:2	w	عَنِ		عن	about	ʿani
+13	79:41:3	w	ࡴ۬لسَّاعَةِ		الساعة	the Hour	l-sāʿati
+13	79:41:4	w	أَيَّانَ		ايان	when	ayyāna
+13	79:41:5	w	مُرْسَيٰهَا࣌		مرسيها	(is) its arrival	mur'sāhā
+13	79:41:6	e	۝٤١				
+13	79:42:1	w	فِيمَ		فيم	In what	fīma
+13	79:42:2	w	أَنتَ		انت	(are) you	anta
+13	79:42:3	w	مِن		من	[of]	min
+14	79:42:4	w	ذِكْرٜيٰهَآ࣌		ذكريها	(to) mention it	dhik'rāhā
+14	79:42:5	e	۝٤٢				
+14	79:43:1	w	إِلَىٰ		الي	To	ilā
+14	79:43:2	w	رَبِّكَ		ربك	your Lord	rabbika
+14	79:43:3	w	مُنتَهَيٰهَآ࣌		منتهيها	(is) its finality	muntahāhā
+14	79:43:4	e	۝٤٣				
+14	79:44:1	w	إِنَّمَآ		انما	Only	innamā
+14	79:44:2	w	أَنتَ		انت	you	anta
+14	79:44:3	w	مُنذِرُ		منذر	(are) a warner	mundhiru
+14	79:44:4	w	مَنْ		من	(for him) who	man
+14	79:44:5	w	يَّخْشَيٰهَا࣌		يخشيها	fears it	yakhshāhā
+14	79:44:6	e	۝٤٤				
+15	79:45:1	w	كَأَنَّهُمْ		كانهم	As though they	ka-annahum
+15	79:45:2	w	يَوْمَ		يوم	(the) Day	yawma
+15	79:45:3	w	يَرَوْنَهَا		يرونها	they see it	yarawnahā
+15	79:45:4	w	لَمْ		لم	not	lam
+15	79:45:5	w	يَلْبَثُوٓاْ		يلبثوا	they had remained	yalbathū
+15	79:45:6	w	إِلَّا		الا	except	illā
+15	79:45:7	w	عَشِيَّةً		عشية	an evening	ʿashiyyatan
+15	79:45:8	w	ࡰوْ		او	or	aw
+15	79:45:9	w	ضُحَيٰهَا࣌		ضحيها	a morning thereof	ḍuḥāhā
+15	79:45:10	e	۝٤٥				

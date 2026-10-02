@@ -1,0 +1,141 @@
+1	16:119:1	w	ثُمَّ		ثم	Then	thumma
+1	16:119:2	w	إِنَّ		ان	indeed	inna
+1	16:119:3	w	رَبَّكَ		ربك	your Lord	rabbaka
+1	16:119:4	w	لِلذِينَ		للذين	to those who	lilladhīna
+1	16:119:5	w	عَمِلُواْ		عملوا	did	ʿamilū
+1	16:119:6	w	ࡲ۬لسُّوٓءَ		السو	evil	l-sūa
+1	16:119:7	w	بِجَهَٰلَةࣲ		بجهلة	in ignorance	bijahālatin
+1	16:119:8	w	ثُمَّ		ثم	then	thumma
+1	16:119:9	w	تَابُواْ		تابوا	repented	tābū
+1	16:119:10	w	مِنۢ		من	after	min
+2	16:119:11	w	بَعْدِ		بعد	after	baʿdi
+2	16:119:12	w	ذَٰلِكَ		ذلك	that	dhālika
+2	16:119:13	w	وَأَصْلَحُوٓاْ		واصلحوا	and corrected themselves	wa-aṣlaḥū
+2	16:119:14	w	إِنَّ		ان	indeed	inna
+2	16:119:15	w	رَبَّكَ		ربك	your Lord	rabbaka
+2	16:119:16	w	مِنۢ		من	after that	min
+2	16:119:17	w	بَعْدِهَا		بعدها	after that	baʿdihā
+2	16:119:18	w	لَغَفُورࣱ		لغفور	(is) surely Oft-Forgiving	laghafūrun
+2	16:119:19	w	رَّحِيمٌ࣌		رحيم	Most Merciful	raḥīmun
+2	16:119:20	e	۝١١٩				
+3	16:120:1	w	۞ ࡴنَّ		ان	Indeed	inna
+3	16:120:2	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+3	16:120:3	w	كَانَ		كان	was	kāna
+3	16:120:4	w	أُمَّةࣰ		امة	a nation	ummatan
+3	16:120:5	w	قَانِتاࣰ		قانتا	obedient	qānitan
+3	16:120:6	w	لِّلهِ		لله	to Allah	lillahi
+3	16:120:7	w	حَنِيفاࣰ		حنيفا	upright	ḥanīfan
+3	16:120:8	w	وَلَمْ		ولم	and not	walam
+3	16:120:9	w	يَكُ		يك	he was	yaku
+3	16:120:10	w	مِنَ		من	of	mina
+4	16:120:11	w	ࡰ۬لْمُشْرِكِينَ࣌		المشركين	the polytheists	l-mush'rikīna
+4	16:120:12	e	۝١٢٠				
+4	16:121:1	w	شَاكِراࣰ		شاكرا	Thankful	shākiran
+4	16:121:2	w	لِّأَنْعُمِهِ࣌		لانعمه	for His favors	li-anʿumihi
+4	16:121:3	w	ࡴٜجْتَبٜيٰهُ		اجتبيه	He chose him	ij'tabāhu
+4	16:121:4	w	وَهَدٜيٰهُ		وهديه	and guided him	wahadāhu
+4	16:121:5	w	إِلَىٰ		الي	to	ilā
+4	16:121:6	w	صِرَٰطࣲ		صرط	the way	ṣirāṭin
+5	16:121:7	w	مُّسْتَقِيمࣲ࣌		مستقيم	straight	mus'taqīmin
+5	16:121:8	e	۝١٢١				
+5	16:122:1	w	وَءَاتَيْنَٰهُ		واتينه	And We gave him	waātaynāhu
+5	16:122:2	w	فِے		في	in	fī
+5	16:122:3	w	ࡴ۬لدُّنْيٜا		الدنيا	the world	l-dun'yā
+5	16:122:4	w	حَسَنَةࣰ࣌		حسنة	good	ḥasanatan
+5	16:122:5	w	وَإِنَّهُۥ		وانه	and indeed, he	wa-innahu
+5	16:122:6	w	فِے		في	in	fī
+5	16:122:7	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+5	16:122:8	w	لَمِنَ		لمن	(he) will surely (be) among	lamina
+6	16:122:9	w	ࡰ۬لصَّٰلِحِينَ࣌		الصلحين	the righteous	l-ṣāliḥīna
+6	16:122:10	e	۝١٢٢				
+6	16:123:1	w	ثُمَّ		ثم	Then	thumma
+6	16:123:2	w	أَوْحَيْنَآ		اوحينا	We revealed	awḥaynā
+6	16:123:3	w	إِلَيْكَ		اليك	to you	ilayka
+6	16:123:4	w	أَنِ		ان	that	ani
+6	16:123:5	w	ࡴٜتَّبِعْ		اتبع	You follow	ittabiʿ
+6	16:123:6	w	مِلَّةَ		ملة	(the) religion	millata
+6	16:123:7	w	إِبْرَٰهِيمَ		ابرهيم	(of) Ibrahim	ib'rāhīma
+6	16:123:8	w	حَنِيفاࣰ࣌		حنيفا	upright	ḥanīfan
+7	16:123:9	w	وَمَا		وما	and not	wamā
+7	16:123:10	w	كَانَ		كان	he was	kāna
+7	16:123:11	w	مِنَ		من	of	mina
+7	16:123:12	w	ࡰ۬لْمُشْرِكِينَ࣌		المشركين	the polytheists	l-mush'rikīna
+7	16:123:13	e	۝١٢٣				
+7	16:124:1	w	إِنَّمَا		انما	Only	innamā
+7	16:124:2	w	جُعِلَ		جعل	was appointed	juʿila
+7	16:124:3	w	ࡰ۬لسَّبْتُ		السبت	the Sabbath	l-sabtu
+7	16:124:4	w	عَلَى		علي	for	ʿalā
+7	16:124:5	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+8	16:124:6	w	ࡰٜخْتَلَفُواْ		اختلفوا	differed	ikh'talafū
+8	16:124:7	w	فِيهِ࣌		فيه	in it	fīhi
+8	16:124:8	w	وَإِنَّ		وان	And indeed	wa-inna
+8	16:124:9	w	رَبَّكَ		ربك	your Lord	rabbaka
+8	16:124:10	w	لَيَحْكُمُ		ليحكم	will surely judge	layaḥkumu
+8	16:124:11	w	بَيْنَهُمْ		بينهم	between them	baynahum
+8	16:124:12	w	يَوْمَ		يوم	(on) the Day	yawma
+8	16:124:13	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+8	16:124:14	w	فِيمَا		فيما	in what	fīmā
+9	16:124:15	w	كَانُواْ		كانوا	they used (to)	kānū
+9	16:124:16	w	فِيهِ		فيه	[in it]	fīhi
+9	16:124:17	w	يَخْتَلِفُونَ࣌		يختلفون	differ	yakhtalifūna
+9	16:124:18	e	۝١٢٤				
+9	16:125:1	w	ࡸَدْعُ		ادع	Call	ud'ʿu
+9	16:125:2	w	إِلَىٰ		الي	to	ilā
+9	16:125:3	w	سَبِيلِ		سبيل	(the) way	sabīli
+9	16:125:4	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+9	16:125:5	w	بِالْحِكْمَةِ		بالحكمة	with the wisdom	bil-ḥik'mati
+10	16:125:6	w	وَالْمَوْعِظَةِ		والموعظة	and the instruction	wal-mawʿiẓati
+10	16:125:7	w	ࡴ۬لْحَسَنَةِ		الحسنة	the good	l-ḥasanati
+10	16:125:8	w	وَجَٰدِلْهُم		وجدلهم	and discuss with them	wajādil'hum
+10	16:125:9	w	بِالتِے		بالتي	in that	bi-allatī
+10	16:125:10	w	هِيَ		هي	which	hiya
+10	16:125:11	w	أَحْسَنُ࣌		احسن	(is) best	aḥsanu
+10	16:125:12	w	إِنَّ		ان	Indeed	inna
+10	16:125:13	w	رَبَّكَ		ربك	your Lord	rabbaka
+11	16:125:14	w	هُوَ		هو	He	huwa
+11	16:125:15	w	أَعْلَمُ		اعلم	(is) most knowing	aʿlamu
+11	16:125:16	w	بِمَن		بمن	of who	biman
+11	16:125:17	w	ضَلَّ		ضل	has strayed	ḍalla
+11	16:125:18	w	عَن		عن	from	ʿan
+11	16:125:19	w	سَبِيلِهِۦ࣌		سبيلهي	His way	sabīlihi
+11	16:125:20	w	وَهُوَ		وهو	And He	wahuwa
+11	16:125:21	w	أَعْلَمُ		اعلم	(is) most knowing	aʿlamu
+11	16:125:22	w	بِالْمُهْتَدِينَ࣌		بالمهتدين	of the guided ones	bil-muh'tadīna
+11	16:125:23	e	۝١٢٥				
+12	16:126:1	w	وَإِنْ		وان	And if	wa-in
+12	16:126:2	w	عَاقَبْتُمْ		عاقبتم	you retaliate	ʿāqabtum
+12	16:126:3	w	فَعَاقِبُواْ		فعاقبوا	then retaliate	faʿāqibū
+12	16:126:4	w	بِمِثْلِ		بمثل	with the like	bimith'li
+12	16:126:5	w	مَا		ما	of what	mā
+12	16:126:6	w	عُوقِبْتُم		عوقبتم	you were afflicted	ʿūqib'tum
+12	16:126:7	w	بِهِۦ࣌		بهي	with [it]	bihi
+12	16:126:8	w	وَلَئِن		ولين	But if	wala-in
+13	16:126:9	w	صَبَرْتُمْ		صبرتم	you are patient	ṣabartum
+13	16:126:10	w	لَهُوَ		لهو	surely (it) is	lahuwa
+13	16:126:11	w	خَيْرࣱ		خير	better	khayrun
+13	16:126:12	w	لِّلصَّٰبِرِينَ࣌		للصبرين	for those who are patient	lilṣṣābirīna
+13	16:126:13	e	۝١٢٦				
+13	16:127:1	w	وَاصْبِرْ࣌		واصبر	And be patient	wa-iṣ'bir
+13	16:127:2	w	وَمَا		وما	and not	wamā
+13	16:127:3	w	صَبْرُكَ		صبرك	(is) your patience	ṣabruka
+13	16:127:4	w	إِلَّا		الا	but	illā
+14	16:127:5	w	بِاللَّهِ࣌		بالله	from Allah	bil-lahi
+14	16:127:6	w	وَلَا		ولا	And (do) not	walā
+14	16:127:7	w	تَحْزَنْ		تحزن	grieve	taḥzan
+14	16:127:8	w	عَلَيْهِمْ		عليهم	over them	ʿalayhim
+14	16:127:9	w	وَلَا		ولا	and (do) not	walā
+14	16:127:10	w	تَكُ		تك	be	taku
+14	16:127:11	w	فِے		في	in	fī
+14	16:127:12	w	ضَيْقࣲ		ضيق	distress	ḍayqin
+14	16:127:13	w	مِّمَّا		مما	for what	mimmā
+14	16:127:14	w	يَمْكُرُونَ࣌		يمكرون	they plot	yamkurūna
+14	16:127:15	e	۝١٢٧				
+15	16:128:1	w	إِنَّ		ان	Indeed	inna
+15	16:128:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	16:128:3	w	مَعَ		مع	(is) with	maʿa
+15	16:128:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+15	16:128:5	w	ࡰٜتَّقَواْ		اتقوا	fear (Him)	ittaqaw
+15	16:128:6	w	وَّالذِينَ		والذين	and those who	wa-alladhīna
+15	16:128:7	w	هُم		هم	[they]	hum
+15	16:128:8	w	مُّحْسِنُونَ࣌		محسنون	(are) good-doers	muḥ'sinūna
+15	16:128:9	e	۝١٢٨				

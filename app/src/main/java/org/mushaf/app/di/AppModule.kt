@@ -7,6 +7,7 @@ import org.koin.android.ext.koin.androidContext
 import org.koin.dsl.module
 import org.mushaf.app.data.quran.PageFonts
 import org.mushaf.app.data.quran.Quran
+import org.mushaf.app.data.quran.Riwayat
 import org.mushaf.app.data.sources.Sources
 import org.mushaf.app.data.offline.Offline
 import org.mushaf.app.data.hifz.Hifz
@@ -26,20 +27,21 @@ import org.mushaf.app.feature.mushaf.Reader
 /** Single composition root. */
 val appModule = module {
     single { SettingsStore(androidContext()) }
-    single { Quran(androidContext()) }
+    single { Quran(androidContext(), get()) }
     single { Sources(androidContext()) }
     single { PageFonts(androidContext(), get(), CoroutineScope(SupervisorJob() + Dispatchers.Default)) }
     single { Reader(get()) }
     single { Translations(androidContext(), get(), get()) }
-    single { Tafsir(androidContext(), get()) }
-    single { Marks(androidContext()) }
+    single { Tafsir(androidContext(), get(), get()) }
+    single { Marks(androidContext(), get<SettingsStore>().current.riwayah) }
     single { Search(get(), get()) }
-    single { Recitations(androidContext(), get()) }
+    single { Recitations(androidContext(), get(), get()) }
     single { Offline(androidContext(), get()) }
-    single { Hifz(androidContext(), get()) }
+    single { Hifz(androidContext(), get(), get<SettingsStore>().current.riwayah) }
     single { HifzSession(get(), get()) }
     single { Recogniser(androidContext(), get()) }
     single { Stars(androidContext()) }
     single { Recite(get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
+    single { Riwayat(get(), get(), get(), get(), get(), get(), get()) }
     single { Listen(androidContext(), get(), get(), get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
 }

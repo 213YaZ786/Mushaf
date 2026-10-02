@@ -60,7 +60,14 @@ import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
 import kotlin.random.Random
 import kotlinx.coroutines.launch
+import org.mushaf.app.data.settings.SettingsStore
+import org.mushaf.app.data.audio.Recitations
+import org.mushaf.app.core.quran.Riwayah
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.withTimeoutOrNull
+import kotlinx.coroutines.flow.first
 import org.koin.compose.koinInject
+import org.mushaf.app.ui.theme.quranFont
 import org.mushaf.app.R
 import org.mushaf.app.core.play.Games
 import org.mushaf.app.core.quran.Arabic
@@ -91,6 +98,15 @@ private class Ayah(val key: AyahKey, val words: List<Word>)
 private const val KIDS_REPEAT = 168
 private const val TEACHING = 12
 
+/** Sheikh al-Husary's Warsh, clear and measured: Warsh has no recording with a child. */
+private const val WARSH_TEACHING = Recitations.WARSH_BASE + 120
+
+private fun teacher(r: Riwayah) = if (r == Riwayah.WARSH) WARSH_TEACHING else TEACHING
+
+/** What the listening game does in [r]. */
+private fun listenDetail(r: Riwayah) =
+    if (r == Riwayah.WARSH) "Sheikh al-Husary recites an ayah, then it is your turn." else Game.LISTEN.detail
+
 /** A surah's games: its menu, then the game chosen, on the same screen. */
 @Composable
 fun SurahGames(surah: Int, onBack: () -> Unit) {
@@ -100,10 +116,11 @@ fun SurahGames(surah: Int, onBack: () -> Unit) {
     val haptics = rememberHaptics()
     var game by rememberSaveable { mutableStateOf<Game?>(null) }
     val names = remember { FontFamily(Font(R.font.surah_names)) }
+    val riwayah = koinInject<SettingsStore>().settings.collectAsState().value.riwayah
     val name by produceState("", surah) { value = quran.surah(surah).name }
     val ayat by produceState<List<Ayah>?>(null, surah) {
         val s = quran.surah(surah)
-        val words = (s.pages.first()..s.pages.last()).flatMap { quran.page(it).words }.filter { it.key.surah == surah && !it.end }
+        val words = (s.pages.first()..s.pages.last()).flatMap { quran.page(it).words }.filter { it.key.surah == surah && it.key.ayah > 0 && !it.end }
         value = words.groupBy { it.key }.map { (k, w) -> Ayah(k, w.sortedBy { it.position }) }
     }
     BackHandler(enabled = game != null) { game = null }
@@ -153,7 +170,7 @@ fun SurahGames(surah: Int, onBack: () -> Unit) {
                                 Icon(g.icon, contentDescription = null, tint = MaterialTheme.colorScheme.primary, modifier = Modifier.size(32.dp))
                                 Column(Modifier.weight(1f).padding(horizontal = 14.dp)) {
                                     Text(g.title, style = MaterialTheme.typography.titleMedium)
-                                    Text(g.detail, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                                    Text(if (g == Game.LISTEN) listenDetail(riwayah) else g.detail, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
                                 }
                                 g.star?.let { star ->
                                     Icon(
@@ -166,10 +183,14 @@ fun SurahGames(surah: Int, onBack: () -> Unit) {
                         }
                     }
                 }
-                Game.LISTEN -> ListenGame(surah, list) { stars.win(surah, Star.LISTENED) }
+                Game.LISTEN -> if (riwayah == Riwayah.WARSH) {
+                    YourTurnGame(list, WARSH_TEACHING) { stars.win(surah, Star.LISTENED) }
+                } else {
+                    ListenGame(surah, list) { stars.win(surah, Star.LISTENED) }
+                }
                 Game.BUILD -> BuildGame(list) { stars.win(surah, Star.BUILT) }
                 Game.MISSING -> MissingGame(list)
-                Game.WHICH -> WhichGame(list)
+                Game.WHICH -> WhichGame(list, teacher(riwayah))
                 Game.RECITE -> ReciteGame(list) { stars.win(surah, Star.RECITED) }
             }
             Spacer(Modifier.height(24.dp))
@@ -179,7 +200,7 @@ fun SurahGames(surah: Int, onBack: () -> Unit) {
 }
 
 @Composable
-private fun hafs() = remember { FontFamily(Font(R.font.uthmanic_hafs)) }
+private fun hafs() = quranFont()
 
 /** Right to left, as the ayah is written. */
 @Composable
@@ -230,6 +251,65 @@ private fun ListenGame(surah: Int, ayat: List<Ayah>, onWon: () -> Unit) {
                 color = color,
                 modifier = Modifier.fillMaxWidth().padding(14.dp)
             )
+        }
+    }
+}
+
+/**
+ * Repeat after the sheikh, ayah by ayah: he recites one, then the child's
+ * turn lasts as long as his did, the ayah lit; then the next.
+ */
+@Composable
+private fun YourTurnGame(ayat: List<Ayah>, reciter: Int, onWon: () -> Unit) {
+    val listen: Listen = koinInject()
+    val state by listen.state.collectAsState()
+    val font = hafs()
+    var running by remember { mutableStateOf(false) }
+    var turn by remember { mutableStateOf<AyahKey?>(null) }
+    DisposableEffect(Unit) { onDispose { listen.stop() } }
+    LaunchedEffect(running) {
+        if (!running) return@LaunchedEffect
+        for (a in ayat) {
+            turn = null
+            listen.playOnce(a.key, reciter)
+            // His recitation: from the moment it sounds until it stops.
+            withTimeoutOrNull(20_000) { listen.state.first { it.playing } } ?: break
+            val start = System.currentTimeMillis()
+            listen.state.first { !it.playing }
+            val took = System.currentTimeMillis() - start
+            turn = a.key
+            delay((took * 1.15).toLong().coerceIn(1_500, 25_000))
+        }
+        if (turn == ayat.last().key) onWon()
+        turn = null
+        running = false
+    }
+    FlowRow(horizontalArrangement = Arrangement.Center, modifier = Modifier.fillMaxWidth().padding(bottom = 16.dp)) {
+        BoldButton(filled = true, onClick = {
+            if (running) { listen.stop(); running = false; turn = null } else running = true
+        }) { Text(if (running) "Stop" else "Start") }
+    }
+    for (a in ayat) {
+        val heard = running && turn == null && state.key == a.key
+        val mine = turn == a.key
+        val color by animateColorAsState(
+            when {
+                mine -> MaterialTheme.colorScheme.tertiary
+                heard -> MaterialTheme.colorScheme.primary
+                else -> MaterialTheme.colorScheme.onSurface
+            },
+            label = "turn"
+        )
+        ZoneSurface(shape = RoundedCornerShape(20.dp), accent = heard || mine, modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp)) {
+            Column(horizontalAlignment = Alignment.CenterHorizontally, modifier = Modifier.fillMaxWidth().padding(14.dp)) {
+                Text(
+                    a.words.joinToString(" ") { it.text } + " " + Arabic.digits(a.key.ayah),
+                    style = TextStyle(fontFamily = font, fontSize = 30.sp, lineHeight = 56.sp, textAlign = TextAlign.Center),
+                    color = color,
+                    modifier = Modifier.fillMaxWidth()
+                )
+                if (mine) Text("Your turn", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.tertiary)
+            }
         }
     }
 }
@@ -357,7 +437,7 @@ private fun MissingGame(ayat: List<Ayah>) {
 
 /** An ayah heard, to find among three written ones. */
 @Composable
-private fun WhichGame(ayat: List<Ayah>) {
+private fun WhichGame(ayat: List<Ayah>, reciter: Int) {
     val listen: Listen = koinInject()
     val haptics = rememberHaptics()
     val font = hafs()
@@ -371,9 +451,9 @@ private fun WhichGame(ayat: List<Ayah>) {
         return
     }
     val q = remember(round) { Games.which(ayat.map { it.key }, Random(System.nanoTime())) }
-    LaunchedEffect(round) { listen.playOnce(q.answer, TEACHING) }
+    LaunchedEffect(round) { listen.playOnce(q.answer, reciter) }
     Row(Modifier.fillMaxWidth().padding(bottom = 16.dp), horizontalArrangement = Arrangement.Center) {
-        FloatingAction(AppIcons.VolumeUp, "Hear it again", { listen.playOnce(q.answer, TEACHING) })
+        FloatingAction(AppIcons.VolumeUp, "Hear it again", { listen.playOnce(q.answer, reciter) })
     }
     for (k in q.choices) {
         val a = ayat.first { it.key == k }

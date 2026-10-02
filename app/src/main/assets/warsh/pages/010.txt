@@ -1,0 +1,142 @@
+1	2:61:1	w	إِنَّ		ان	Indeed	inna
+1	2:61:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	2:61:3	w	ءَامَنُواْ		امنوا	believed	āmanū
+1	2:61:4	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+1	2:61:5	w	هَادُواْ		هادوا	became Jews	hādū
+1	2:61:6	w	وَالنَّصَٰرٜىٰ		والنصري	and the Christians	wal-naṣārā
+1	2:61:7	w	وَالصَّٰبِينَ		والصبين	and the Sabians	wal-ṣābiīna
+1	2:61:8	w	مَنَ		من	who	man
+2	2:61:9	w	اٰمَنَ		امن	believed	āmana
+2	2:61:10	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+2	2:61:11	w	وَالْيَوْمِ		واليوم	and the Day	wal-yawmi
+2	2:61:12	w	ࡴ۬لَاخِرِ		الاخر	[the] Last	l-ākhiri
+2	2:61:13	w	وَعَمِلَ		وعمل	and did	waʿamila
+2	2:61:14	w	صَٰلِحاࣰ		صلحا	righteous deeds	ṣāliḥan
+2	2:61:15	w	فَلَهُمُۥٓ		فلهم	so for them	falahum
+2	2:61:16	w	أَجْرُهُمْ		اجرهم	their reward	ajruhum
+2	2:61:17	w	عِندَ		عند	(is) with	ʿinda
+3	2:61:18	w	رَبِّهِمْ		ربهم	their Lord	rabbihim
+3	2:61:19	w	وَلَا		ولا	and no	walā
+3	2:61:20	w	خَوْفٌ		خوف	fear	khawfun
+3	2:61:21	w	عَلَيْهِمْ		عليهم	on them	ʿalayhim
+3	2:61:22	w	وَلَا		ولا	and not	walā
+3	2:61:23	w	هُمْ		هم	they	hum
+3	2:61:24	w	يَحْزَنُونَ࣌		يحزنون	will grieve	yaḥzanūna
+3	2:61:25	e	۝٦١				
+3	2:62:1	w	وَإِذَ		واذ	And when	wa-idh
+3	2:62:2	w	ࡰخَذْنَا		اخذنا	We took	akhadhnā
+4	2:62:3	w	مِيثَٰقَكُمْ		ميثقكم	your covenant	mīthāqakum
+4	2:62:4	w	وَرَفَعْنَا		ورفعنا	and We raised	warafaʿnā
+4	2:62:5	w	فَوْقَكُمُ		فوقكم	over you	fawqakumu
+4	2:62:6	w	ࡲ۬لطُّورَ࣌		الطور	the mount	l-ṭūra
+4	2:62:7	w	خُذُواْ		خذوا	Hold	khudhū
+4	2:62:8	w	مَآ		ما	what	mā
+4	2:62:9	w	ءَاتَيْنَٰكُم		اتينكم	We have given you	ātaynākum
+5	2:62:10	w	بِقُوَّةࣲ		بقوة	with strength	biquwwatin
+5	2:62:11	w	وَاذْكُرُواْ		واذكروا	and remember	wa-udh'kurū
+5	2:62:12	w	مَا		ما	what	mā
+5	2:62:13	w	فِيهِ		فيه	(is) in it	fīhi
+5	2:62:14	w	لَعَلَّكُمْ		لعلكم	perhaps you	laʿallakum
+5	2:62:15	w	تَتَّقُونَ࣌		تتقون	(would become) righteous	tattaqūna
+5	2:62:16	e	۝٦٢				
+5	2:63:1	w	ثُمَّ		ثم	Then	thumma
+5	2:63:2	w	تَوَلَّيْتُم		توليتم	you turned away	tawallaytum
+5	2:63:3	w	مِّنۢ		من	from	min
+6	2:63:4	w	بَعْدِ		بعد	after	baʿdi
+6	2:63:5	w	ذَٰلِكَ࣌		ذلك	that	dhālika
+6	2:63:6	w	فَلَوْلَا		فلولا	So if not	falawlā
+6	2:63:7	w	فَضْلُ		فضل	(for the) Grace	faḍlu
+6	2:63:8	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+6	2:63:9	w	عَلَيْكُمْ		عليكم	upon you	ʿalaykum
+6	2:63:10	w	وَرَحْمَتُهُۥ		ورحمته	and His Mercy	waraḥmatuhu
+6	2:63:11	w	لَكُنتُم		لكنتم	surely you would have been	lakuntum
+6	2:63:12	w	مِّنَ		من	of	mina
+7	2:63:13	w	ࡰ۬لْخَٰسِرِينَ࣌		الخسرين	the losers	l-khāsirīna
+7	2:63:14	e	۝٦٣				
+7	2:64:1	w	وَلَقَدْ		ولقد	And indeed	walaqad
+7	2:64:2	w	عَلِمْتُمُ		علمتم	you knew	ʿalim'tumu
+7	2:64:3	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+7	2:64:4	w	ࡰٜعْتَدَوْاْ		اعتدوا	transgressed	iʿ'tadaw
+7	2:64:5	w	مِنكُمْ		منكم	among you	minkum
+7	2:64:6	w	فِے		في	in	fī
+7	2:64:7	w	ࡴ۬لسَّبْتِ		السبت	the (matter of) Sabbath	l-sabti
+8	2:64:8	w	فَقُلْنَا		فقلنا	So We said	faqul'nā
+8	2:64:9	w	لَهُمْ		لهم	to them	lahum
+8	2:64:10	w	كُونُواْ		كونوا	Be	kūnū
+8	2:64:11	w	قِرَدَةً		قردة	apes	qiradatan
+8	2:64:12	w	خَٰسِـِٕينَ࣌		خسين	despised	khāsiīna
+8	2:64:13	e	۝٦٤				
+8	2:65:1	w	فَجَعَلْنَٰهَا		فجعلنها	So We made it	fajaʿalnāhā
+8	2:65:2	w	نَكَٰلاࣰ		نكلا	a deterrent punishment	nakālan
+8	2:65:3	w	لِّمَا		لما	for those	limā
+9	2:65:4	w	بَيْنَ		بين	(in) front	bayna
+9	2:65:5	w	يَدَيْهَا		يديها	(of) them	yadayhā
+9	2:65:6	w	وَمَا		وما	and those	wamā
+9	2:65:7	w	خَلْفَهَا		خلفها	after them	khalfahā
+9	2:65:8	w	وَمَوْعِظَةࣰ		وموعظة	and an admonition	wamawʿiẓatan
+9	2:65:9	w	لِّلْمُتَّقِينَ࣌		للمتقين	for those who fear (Allah)	lil'muttaqīna
+9	2:65:10	e	۝٦٥				
+9	2:66:1	w	۞ وَإِذْ		واذ	And when	wa-idh
+9	2:66:2	w	قَالَ		قال	said	qāla
+10	2:66:3	w	مُوسٜىٰ		موسي	Musa	mūsā
+10	2:66:4	w	لِقَوْمِهِۦٓ		لقومهي	to his people	liqawmihi
+10	2:66:5	w	إِنَّ		ان	Indeed	inna
+10	2:66:6	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	2:66:7	w	يَامُرُكُمُۥٓ		يامركم	commands you	yamurukum
+10	2:66:8	w	أَن		ان	that	an
+10	2:66:9	w	تَذْبَحُواْ		تذبحوا	you slaughter	tadhbaḥū
+10	2:66:10	w	بَقَرَةࣰ࣌		بقرة	a cow	baqaratan
+10	2:66:11	w	قَالُوٓاْ		قالوا	They said	qālū
+11	2:66:12	w	أَتَتَّخِذُنَا		اتتخذنا	Do you take us	atattakhidhunā
+11	2:66:13	w	هُزُؤاࣰ࣌		هزوا	(in) ridicule	huzuwan
+11	2:66:14	w	قَالَ		قال	He said	qāla
+11	2:66:15	w	أَعُوذُ		اعوذ	I seek refuge	aʿūdhu
+11	2:66:16	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+11	2:66:17	w	أَنَ		ان	that	an
+11	2:66:18	w	ࡰكُونَ		اكون	I be	akūna
+11	2:66:19	w	مِنَ		من	among	mina
+11	2:66:20	w	ࡰ۬لْجَٰهِلِينَ࣌		الجهلين	the ignorant	l-jāhilīna
+11	2:66:21	e	۝٦٦				
+12	2:67:1	w	قَالُواْ		قالوا	They said	qālū
+12	2:67:2	w	ࡲ࢈دْعُ		ادع	Pray	ud'ʿu
+12	2:67:3	w	لَنَا		لنا	for us	lanā
+12	2:67:4	w	رَبَّكَ		ربك	(to) your Lord	rabbaka
+12	2:67:5	w	يُبَيِّن		يبين	to make clear	yubayyin
+12	2:67:6	w	لَّنَا		لنا	to us	lanā
+12	2:67:7	w	مَا		ما	what	mā
+12	2:67:8	w	هِيَ࣌		هي	it (is)	hiya
+12	2:67:9	w	قَالَ		قال	He said	qāla
+12	2:67:10	w	إِنَّهُۥ		انه	Indeed, He	innahu
+12	2:67:11	w	يَقُولُ		يقول	says	yaqūlu
+12	2:67:12	w	إِنَّهَا		انها	[Indeed] it	innahā
+13	2:67:13	w	بَقَرَةࣱ		بقرة	(is) a cow	baqaratun
+13	2:67:14	w	لَّا		لا	not	lā
+13	2:67:15	w	فَارِضࣱ		فارض	old	fāriḍun
+13	2:67:16	w	وَلَا		ولا	and not	walā
+13	2:67:17	w	بِكْرٌ࣌		بكر	young	bik'run
+13	2:67:18	w	عَوَانُۢ		عوان	middle aged	ʿawānun
+13	2:67:19	w	بَيْنَ		بين	between	bayna
+13	2:67:20	w	ذَٰلِكَ࣌		ذلك	that	dhālika
+13	2:67:21	w	فَافْعَلُواْ		فافعلوا	so do	fa-if'ʿalū
+13	2:67:22	w	مَا		ما	what	mā
+14	2:67:23	w	تُومَرُونَ࣌		تومرون	you are commanded	tu'marūna
+14	2:67:24	e	۝٦٧				
+14	2:68:1	w	قَالُواْ		قالوا	They said	qālū
+14	2:68:2	w	ࡲ࢈دْعُ		ادع	Pray	ud'ʿu
+14	2:68:3	w	لَنَا		لنا	for us	lanā
+14	2:68:4	w	رَبَّكَ		ربك	(to) your Lord	rabbaka
+14	2:68:5	w	يُبَيِّن		يبين	to make clear	yubayyin
+14	2:68:6	w	لَّنَا		لنا	to us	lanā
+14	2:68:7	w	مَا		ما	what	mā
+14	2:68:8	w	لَوْنُهَا࣌		لونها	(is) its color	lawnuhā
+14	2:68:9	w	قَالَ		قال	He said	qāla
+14	2:68:10	w	إِنَّهُۥ		انه	Indeed, He	innahu
+15	2:68:11	w	يَقُولُ		يقول	says	yaqūlu
+15	2:68:12	w	إِنَّهَا		انها	'[Indeed] it is	innahā
+15	2:68:13	w	بَقَرَةࣱ		بقرة	a cow	baqaratun
+15	2:68:14	w	صَفْرَآءُ		صفرا	yellow	ṣafrāu
+15	2:68:15	w	فَاقِعࣱ		فاقع	bright	fāqiʿun
+15	2:68:16	w	لَّوْنُهَا࣌		لونها	(in) its color	lawnuhā
+15	2:68:17	w	تَسُرُّ		تسر	pleasing	tasurru
+15	2:68:18	w	ࡲ۬لنَّٰظِرِينَ࣌		النظرين	(to) those who see (it).'	l-nāẓirīna
+15	2:68:19	e	۝٦٨				

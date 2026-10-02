@@ -1,0 +1,155 @@
+1	38:16:1	w	ࡴٜصْبِرْ		اصبر	Be patient	iṣ'bir
+1	38:16:2	w	عَلَىٰ		علي	over	ʿalā
+1	38:16:3	w	مَا		ما	what	mā
+1	38:16:4	w	يَقُولُونَ࣌		يقولون	they say	yaqūlūna
+1	38:16:5	w	وَاذْكُرْ		واذكر	and remember	wa-udh'kur
+1	38:16:6	w	عَبْدَنَا		عبدنا	Our slave	ʿabdanā
+1	38:16:7	w	دَاوُۥدَ		داود	Dawood	dāwūda
+1	38:16:8	w	ذَا		ذا	the possessor of strength	dhā
+1	38:16:9	w	ࡰ۬لَايْدِ࣌		الايد	the possessor of strength	l-aydi
+1	38:16:10	w	إِنَّهُۥٓ		انه	Indeed, he (was)	innahu
+1	38:16:11	w	أَوَّابٌ࣌		اواب	repeatedly turning	awwābun
+1	38:16:12	e	۝١٦				
+2	38:17:1	w	ࡴنَّا		انا	Indeed, We	innā
+2	38:17:2	w	سَخَّرْنَا		سخرنا	subjected	sakharnā
+2	38:17:3	w	ࡰ۬لْجِبَالَ		الجبال	the mountains	l-jibāla
+2	38:17:4	w	مَعَهُۥ		معه	with him	maʿahu
+2	38:17:5	w	يُسَبِّحْنَ		يسبحن	glorifying	yusabbiḥ'na
+2	38:17:6	w	بِالْعَشِيِّ		بالعشي	in the evening	bil-ʿashiyi
+2	38:17:7	w	وَالِاشْرَاقِ		والاشراق	and [the] sunrise	wal-ish'rāqi
+2	38:17:8	e	۝١٧				
+2	38:18:1	w	وَالطَّيْرَ		والطير	And the birds	wal-ṭayra
+3	38:18:2	w	مَحْشُورَةࣰ࣌		محشورة	assembled	maḥshūratan
+3	38:18:3	w	كُلࣱّ		كل	all	kullun
+3	38:18:4	w	لَّهُۥٓ		له	with him	lahu
+3	38:18:5	w	أَوَّابࣱ࣌		اواب	repeatedly turning	awwābun
+3	38:18:6	e	۝١٨				
+3	38:19:1	w	وَشَدَدْنَا		وشددنا	And We strengthened	washadadnā
+3	38:19:2	w	مُلْكَهُۥ		ملكه	his kingdom	mul'kahu
+3	38:19:3	w	وَءَاتَيْنَٰهُ		واتينه	and We gave him	waātaynāhu
+3	38:19:4	w	ࡲ۬لْحِكْمَةَ		الحكمة	[the] wisdom	l-ḥik'mata
+4	38:19:5	w	وَفَصْلَ		وفصل	and decisive	wafaṣla
+4	38:19:6	w	ࡰ۬لْخِطَابِ࣌		الخطاب	speech	l-khiṭābi
+4	38:19:7	e	۝١٩				
+4	38:20:1	w	۞ وَهَلَ		وهل	And has (there)	wahal
+4	38:20:2	w	ࡰتٜيٰكَ		اتيك	come to you	atāka
+4	38:20:3	w	نَبَؤُاْ		نبوا	(the) news	naba-u
+4	38:20:4	w	ࡲ۬لْخَصْمِ		الخصم	(of) the litigants	l-khaṣmi
+4	38:20:5	w	إِذْ		اذ	when	idh
+4	38:20:6	w	تَسَوَّرُواْ		تسوروا	they climbed over the wall	tasawwarū
+5	38:20:7	w	ࡲ۬لْمِحْرَابَ		المحراب	(of) the chamber	l-miḥ'rāba
+5	38:20:8	e	۝٢٠				
+5	38:21:1	w	إِذْ		اذ	When	idh
+5	38:21:2	w	دَخَلُواْ		دخلوا	they entered	dakhalū
+5	38:21:3	w	عَلَىٰ		علي	upon	ʿalā
+5	38:21:4	w	دَاوُۥدَ		داود	Dawood	dāwūda
+5	38:21:5	w	فَفَزِعَ		ففزع	and he was afraid	fafaziʿa
+5	38:21:6	w	مِنْهُمْ		منهم	of them	min'hum
+5	38:21:7	w	قَالُواْ		قالوا	they said	qālū
+5	38:21:8	w	لَا		لا	(Do) not	lā
+5	38:21:9	w	تَخَفْ࣌		تخف	fear	takhaf
+6	38:21:10	w	خَصْمَٰنِ		خصمن	(We are) two litigants	khaṣmāni
+6	38:21:11	w	بَغٜىٰ		بغي	has wronged	baghā
+6	38:21:12	w	بَعْضُنَا		بعضنا	one of us	baʿḍunā
+6	38:21:13	w	عَلَىٰ		علي	to	ʿalā
+6	38:21:14	w	بَعْضࣲ		بعض	another	baʿḍin
+6	38:21:15	w	فَاحْكُم		فاحكم	so judge	fa-uḥ'kum
+6	38:21:16	w	بَيْنَنَا		بيننا	between us	baynanā
+6	38:21:17	w	بِالْحَقِّ		بالحق	in truth	bil-ḥaqi
+6	38:21:18	w	وَلَا		ولا	and (do) not	walā
+6	38:21:19	w	تُشْطِطْ࣌		تشطط	be unjust	tush'ṭiṭ
+7	38:21:20	w	وَاهْدِنَآ		واهدنا	and guide us	wa-ih'dinā
+7	38:21:21	w	إِلَىٰ		الي	to	ilā
+7	38:21:22	w	سَوَآءِ		سوا	an even	sawāi
+7	38:21:23	w	ࡴ۬لصِّرَٰطِ࣌		الصرط	[the] path	l-ṣirāṭi
+7	38:21:24	e	۝٢١				
+7	38:22:1	w	إِنَّ		ان	Indeed	inna
+7	38:22:2	w	هَٰذَآ		هذا	this	hādhā
+7	38:22:3	w	أَخِے		اخي	(is) my brother	akhī
+7	38:22:4	w	لَهُۥ		له	he has	lahu
+7	38:22:5	w	تِسْعࣱ		تسع	ninety-nine	tis'ʿun
+7	38:22:6	w	وَتِسْعُونَ		وتسعون	ninety-nine	watis'ʿūna
+7	38:22:7	w	نَعْجَةࣰ		نعجة	ewe(s)	naʿjatan
+8	38:22:8	w	وَلِے		ولي	while I have	waliya
+8	38:22:9	w	نَعْجَةࣱ		نعجة	ewe	naʿjatun
+8	38:22:10	w	وَٰحِدَةࣱ		وحدة	one	wāḥidatun
+8	38:22:11	w	فَقَالَ		فقال	so he said	faqāla
+8	38:22:12	w	أَكْفِلْنِيهَا		اكفلنيها	Entrust her to me	akfil'nīhā
+8	38:22:13	w	وَعَزَّنِے		وعزني	and he overpowered me	waʿazzanī
+8	38:22:14	w	فِے		في	in	fī
+8	38:22:15	w	ࡴ۬لْخِطَابِ࣌		الخطاب	[the] speech	l-khiṭābi
+8	38:22:16	e	۝٢٢				
+8	38:23:1	w	قَالَ		قال	He said	qāla
+8	38:23:2	w	لَقَد		لقد	Certainly	laqad
+9	38:23:3	w	ظَّلَمَكَ		ظلمك	he has wronged you	ẓalamaka
+9	38:23:4	w	بِسُؤَالِ		بسوال	by demanding	bisuāli
+9	38:23:5	w	نَعْجَتِكَ		نعجتك	your ewe	naʿjatika
+9	38:23:6	w	إِلَىٰ		الي	to	ilā
+9	38:23:7	w	نِعَاجِهِۦ࣌		نعاجهي	his ewes	niʿājihi
+9	38:23:8	w	وَإِنَّ		وان	And indeed	wa-inna
+9	38:23:9	w	كَثِيراࣰ		كثيرا	many	kathīran
+9	38:23:10	w	مِّنَ		من	of	mina
+9	38:23:11	w	ࡰ۬لْخُلَطَآءِ		الخلطا	the partners	l-khulaṭāi
+10	38:23:12	w	لَيَبْغِے		ليبغي	certainly oppress	layabghī
+10	38:23:13	w	بَعْضُهُمْ		بعضهم	some of them	baʿḍuhum
+10	38:23:14	w	عَلَىٰ		علي	[on]	ʿalā
+10	38:23:15	w	بَعْضٍ		بعض	another	baʿḍin
+10	38:23:16	w	ࡴلَّا		الا	except	illā
+10	38:23:17	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	38:23:18	w	ءَامَنُواْ		امنوا	believe	āmanū
+10	38:23:19	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+10	38:23:20	w	ࡲ۬لصَّٰلِحَٰتِ࣌		الصلحت	righteous deeds	l-ṣāliḥāti
+11	38:23:21	w	وَقَلِيلࣱ		وقليل	and few	waqalīlun
+11	38:23:22	w	مَّا		ما	(are) they	mā
+11	38:23:23	w	هُمْ࣌		هم	(are) they	hum
+11	38:23:24	w	وَظَنَّ		وظن	And became certain	waẓanna
+11	38:23:25	w	دَاوُۥدُ		داود	Dawood	dāwūdu
+11	38:23:26	w	أَنَّمَا		انما	that	annamā
+11	38:23:27	w	فَتَنَّٰهُ		فتنه	We (had) tried him	fatannāhu
+11	38:23:28	w	فَاسْتَغْفَرَ		فاستغفر	and he asked forgiveness	fa-is'taghfara
+11	38:23:29	w	رَبَّهُۥ		ربه	(of) his Lord	rabbahu
+11	38:23:30	w	وَخَرَّ		وخر	and fell down	wakharra
+11	38:23:31	w	رَاكِعاࣰ		راكعا	bowing	rākiʿan
+12	38:23:32	w	وَأَنَابَ۩࣌		واناب	and turned in repentance	wa-anāba
+12	38:23:33	e	۝٢٣				
+12	38:24:1	w	فَغَفَرْنَا		فغفرنا	So We forgave	faghafarnā
+12	38:24:2	w	لَهُۥ		له	for him	lahu
+12	38:24:3	w	ذَٰلِكَ࣌		ذلك	that	dhālika
+12	38:24:4	w	وَإِنَّ		وان	And indeed	wa-inna
+12	38:24:5	w	لَهُۥ		له	for him	lahu
+12	38:24:6	w	عِندَنَا		عندنا	with Us	ʿindanā
+12	38:24:7	w	لَزُلْفٜىٰ		لزلفي	surely is a near access	lazul'fā
+12	38:24:8	w	وَحُسْنَ		وحسن	and a good	waḥus'na
+12	38:24:9	w	مَـَٔابࣲ࣌		ماب	place of return	maābin
+12	38:24:10	e	۝٢٤				
+13	38:25:1	w	يَٰدَاوُۥدُ		يداود	O Dawood	yādāwūdu
+13	38:25:2	w	إِنَّا		انا	Indeed, We	innā
+13	38:25:3	w	جَعَلْنَٰكَ		جعلنك	[We] have made you	jaʿalnāka
+13	38:25:4	w	خَلِيفَةࣰ		خليفة	a vicegerent	khalīfatan
+13	38:25:5	w	فِے		في	in	fī
+13	38:25:6	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+13	38:25:7	w	فَاحْكُم		فاحكم	so judge	fa-uḥ'kum
+13	38:25:8	w	بَيْنَ		بين	between	bayna
+13	38:25:9	w	ࡰ۬لنَّاسِ		الناس	[the] men	l-nāsi
+13	38:25:10	w	بِالْحَقِّ		بالحق	in truth	bil-ḥaqi
+14	38:25:11	w	وَلَا		ولا	and (do) not	walā
+14	38:25:12	w	تَتَّبِعِ		تتبع	follow	tattabiʿi
+14	38:25:13	w	ࡴ۬لْهَوٜىٰ		الهوي	the desire	l-hawā
+14	38:25:14	w	فَيُضِلَّكَ		فيضلك	for it will lead you astray	fayuḍillaka
+14	38:25:15	w	عَن		عن	from	ʿan
+14	38:25:16	w	سَبِيلِ		سبيل	(the) way	sabīli
+14	38:25:17	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+14	38:25:18	w	إِنَّ		ان	Indeed	inna
+14	38:25:19	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+14	38:25:20	w	يَضِلُّونَ		يضلون	go astray	yaḍillūna
+15	38:25:21	w	عَن		عن	from	ʿan
+15	38:25:22	w	سَبِيلِ		سبيل	(the) way	sabīli
+15	38:25:23	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+15	38:25:24	w	لَهُمْ		لهم	for them	lahum
+15	38:25:25	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+15	38:25:26	w	شَدِيدُۢ		شديد	severe	shadīdun
+15	38:25:27	w	بِمَا		بما	because	bimā
+15	38:25:28	w	نَسُواْ		نسوا	they forgot	nasū
+15	38:25:29	w	يَوْمَ		يوم	(the) Day	yawma
+15	38:25:30	w	ࡰ۬لْحِسَابِ࣌		الحساب	(of) Account	l-ḥisābi
+15	38:25:31	e	۝٢٥				

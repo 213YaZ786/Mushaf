@@ -20,7 +20,7 @@ data class TafsirBook(val id: Int, val name: String, val language: String, val r
  * Explanations of an ayah from the classical books of tafsir, fetched from
  * Quran.com when asked and kept, so an ayah read once opens offline.
  */
-class Tafsir(private val context: Context, private val sources: Sources) {
+class Tafsir(private val context: Context, private val sources: Sources, private val quran: Quran) {
 
     private val json = Json { ignoreUnknownKeys = true }
     private val dir = File(context.filesDir, "tafsir")
@@ -29,7 +29,11 @@ class Tafsir(private val context: Context, private val sources: Sources) {
      * The tafsir of [key] in [book], as paragraphs; a tafsir that explains a
      * group of ayat gives the same text for each of them.
      */
-    suspend fun of(book: TafsirBook, key: AyahKey): List<String> = withContext(Dispatchers.IO) {
+    suspend fun of(book: TafsirBook, key: AyahKey): List<String> =
+        // Numbered as Hafs: a Warsh ayah reads the tafsir of the Hafs ayat its words are in.
+        quran.hafsKeys(key).flatMap { ofHafs(book, it) }.distinct()
+
+    private suspend fun ofHafs(book: TafsirBook, key: AyahKey): List<String> = withContext(Dispatchers.IO) {
         val file = File(dir, "${book.id}/${key.surah}_${key.ayah}.txt")
         if (file.exists()) return@withContext file.readLines()
         val root = json.parseToJsonElement(first { "$it/tafsirs/${book.id}/by_ayah/$key" }).jsonObject

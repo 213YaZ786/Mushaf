@@ -1,0 +1,137 @@
+1	78:0:0	t					
+2	78:0:0	b					
+3	78:1:1	w	عَمَّ࣌		عم	About what	ʿamma
+3	78:1:2	w	يَتَسَآءَلُونَ		يتسالون	are they asking one another	yatasāalūna
+3	78:1:3	e	۝١				
+3	78:2:1	w	عَنِ		عن	About	ʿani
+3	78:2:2	w	ࡴ۬لنَّبَإِ		النبا	the News	l-naba-i
+3	78:2:3	w	ࡴ۬لْعَظِيمِ		العظيم	the Great	l-ʿaẓīmi
+3	78:2:4	e	۝٢				
+3	78:3:1	w	ࡴ۬لذِے		الذي	(About) which	alladhī
+3	78:3:2	w	هُمْ		هم	they	hum
+3	78:3:3	w	فِيهِ		فيه	(are) concerning it	fīhi
+3	78:3:4	w	مُخْتَلِفُونَ࣌		مختلفون	(in) disagreement	mukh'talifūna
+3	78:3:5	e	۝٣				
+4	78:4:1	w	كَلَّا		كلا	Nay	kallā
+4	78:4:2	w	سَيَعْلَمُونَ		سيعلمون	(soon) they will know	sayaʿlamūna
+4	78:4:3	e	۝٤				
+4	78:5:1	w	ثُمَّ		ثم	Then	thumma
+4	78:5:2	w	كَلَّا		كلا	Nay	kallā
+4	78:5:3	w	سَيَعْلَمُونَ࣌		سيعلمون	(soon) they will know	sayaʿlamūna
+4	78:5:4	e	۝٥				
+4	78:6:1	w	أَلَمْ		الم	Have not	alam
+4	78:6:2	w	نَجْعَلِ		نجعل	We made	najʿali
+4	78:6:3	w	ࡴ۬لَارْضَ		الارض	the earth	l-arḍa
+5	78:6:4	w	مِهَٰداࣰ		مهدا	a resting place	mihādan
+5	78:6:5	e	۝٦				
+5	78:7:1	w	وَالْجِبَالَ		والجبال	And the mountains	wal-jibāla
+5	78:7:2	w	أَوْتَاداࣰ		اوتادا	(as) pegs	awtādan
+5	78:7:3	e	۝٧				
+5	78:8:1	w	وَخَلَقْنَٰكُمُۥٓ		وخلقنكم	And We created you	wakhalaqnākum
+5	78:8:2	w	أَزْوَٰجاࣰ		ازوجا	(in) pairs	azwājan
+5	78:8:3	e	۝٨				
+5	78:9:1	w	وَجَعَلْنَا		وجعلنا	And We made	wajaʿalnā
+5	78:9:2	w	نَوْمَكُمْ		نومكم	your sleep	nawmakum
+6	78:9:3	w	سُبَاتاࣰ		سباتا	(for) rest	subātan
+6	78:9:4	e	۝٩				
+6	78:10:1	w	وَجَعَلْنَا		وجعلنا	And We made	wajaʿalnā
+6	78:10:2	w	ࡰ۬ليْلَ		اليل	the night	al-layla
+6	78:10:3	w	لِبَاساࣰ		لباسا	(as) covering	libāsan
+6	78:10:4	e	۝١٠				
+6	78:11:1	w	وَجَعَلْنَا		وجعلنا	And We made	wajaʿalnā
+6	78:11:2	w	ࡰ۬لنَّهَارَ		النهار	the day	l-nahāra
+6	78:11:3	w	مَعَاشاࣰ		معاشا	(for) livelihood	maʿāshan
+6	78:11:4	e	۝١١				
+7	78:12:1	w	وَبَنَيْنَا		وبنينا	And We constructed	wabanaynā
+7	78:12:2	w	فَوْقَكُمْ		فوقكم	over you	fawqakum
+7	78:12:3	w	سَبْعاࣰ		سبعا	seven	sabʿan
+7	78:12:4	w	شِدَاداࣰ		شدادا	strong	shidādan
+7	78:12:5	e	۝١٢				
+7	78:13:1	w	وَجَعَلْنَا		وجعلنا	And We placed	wajaʿalnā
+7	78:13:2	w	سِرَاجاࣰ		سراجا	a lamp	sirājan
+7	78:13:3	w	وَهَّاجاࣰ		وهاجا	burning	wahhājan
+7	78:13:4	e	۝١٣				
+8	78:14:1	w	وَأَنزَلْنَا		وانزلنا	And We sent down	wa-anzalnā
+8	78:14:2	w	مِنَ		من	from	mina
+8	78:14:3	w	ࡰ۬لْمُعْصِرَٰتِ		المعصرت	the rain clouds	l-muʿ'ṣirāti
+8	78:14:4	w	مَآءࣰ		ما	water	māan
+8	78:14:5	w	ثَجَّاجاࣰ		ثجاجا	pouring abundantly	thajjājan
+8	78:14:6	e	۝١٤				
+8	78:15:1	w	لِّنُخْرِجَ		لنخرج	That We may bring forth	linukh'rija
+8	78:15:2	w	بِهِۦ		بهي	thereby	bihi
+8	78:15:3	w	حَبّاࣰ		حبا	grain	ḥabban
+8	78:15:4	w	وَنَبَاتاࣰ		ونباتا	and vegetation	wanabātan
+8	78:15:5	e	۝١٥				
+9	78:16:1	w	وَجَنَّٰتٍ		وجنت	And gardens	wajannātin
+9	78:16:2	w	ࡰلْفَافاً࣌		الفافا	(of) thick foliage	alfāfan
+9	78:16:3	e	۝١٦				
+9	78:17:1	w	ࡴنَّ		ان	Indeed	inna
+9	78:17:2	w	يَوْمَ		يوم	(the) Day	yawma
+9	78:17:3	w	ࡰ۬لْفَصْلِ		الفصل	(of) the Judgment	l-faṣli
+9	78:17:4	w	كَانَ		كان	is	kāna
+9	78:17:5	w	مِيقَٰتاࣰ		ميقتا	an appointed time	mīqātan
+9	78:17:6	e	۝١٧				
+9	78:18:1	w	يَوْمَ		يوم	(The) Day	yawma
+9	78:18:2	w	يُنفَخُ		ينفخ	(in which) shall be blown	yunfakhu
+9	78:18:3	w	فِے		في	in	fī
+10	78:18:4	w	ࡴ۬لصُّورِ		الصور	the trumpet	l-ṣūri
+10	78:18:5	w	فَتَاتُونَ		فتاتون	and you will come forth	fatatūna
+10	78:18:6	w	أَفْوَاجاࣰ		افواجا	(in) crowds	afwājan
+10	78:18:7	e	۝١٨				
+10	78:19:1	w	وَفُتِّحَتِ		وفتحت	And is opened	wafutiḥati
+10	78:19:2	w	ࡴ۬لسَّمَآءُ		السما	the heaven	l-samāu
+10	78:19:3	w	فَكَانَتَ		فكانت	and becomes	fakānat
+10	78:19:4	w	ࡰبْوَٰباࣰ		ابوبا	gateways	abwāban
+10	78:19:5	e	۝١٩				
+11	78:20:1	w	وَسُيِّرَتِ		وسيرت	And are moved	wasuyyirati
+11	78:20:2	w	ࡴ۬لْجِبَالُ		الجبال	the mountains	l-jibālu
+11	78:20:3	w	فَكَانَتْ		فكانت	and become	fakānat
+11	78:20:4	w	سَرَاباً࣌		سرابا	a mirage	sarāban
+11	78:20:5	e	۝٢٠				
+11	78:21:1	w	ࡴنَّ		ان	Indeed	inna
+11	78:21:2	w	جَهَنَّمَ		جهنم	Hell	jahannama
+11	78:21:3	w	كَانَتْ		كانت	is	kānat
+11	78:21:4	w	مِرْصَاداࣰ		مرصادا	lying in wait	mir'ṣādan
+11	78:21:5	e	۝٢١				
+12	78:22:1	w	لِّلطَّٰغِينَ		للطغين	For the transgressors	lilṭṭāghīna
+12	78:22:2	w	مَـَٔاباࣰ		مابا	a place of return	maāban
+12	78:22:3	e	۝٢٢				
+12	78:23:1	w	لَّٰبِثِينَ		لبثين	(They will) be remaining	lābithīna
+12	78:23:2	w	فِيهَآ		فيها	therein	fīhā
+12	78:23:3	w	أَحْقَاباࣰ࣌		احقابا	(for) ages	aḥqāban
+12	78:23:4	e	۝٢٣				
+12	78:24:1	w	لَّا		لا	Not	lā
+12	78:24:2	w	يَذُوقُونَ		يذوقون	they will taste	yadhūqūna
+12	78:24:3	w	فِيهَا		فيها	therein	fīhā
+12	78:24:4	w	بَرْداࣰ		بردا	coolness	bardan
+13	78:24:5	w	وَلَا		ولا	and not	walā
+13	78:24:6	w	شَرَاباً		شرابا	any drink	sharāban
+13	78:24:7	e	۝٢٤				
+13	78:25:1	w	ࡴلَّا		الا	Except	illā
+13	78:25:2	w	حَمِيماࣰ		حميما	scalding water	ḥamīman
+13	78:25:3	w	وَغَسَاقاࣰ		وغساقا	and purulence	waghassāqan
+13	78:25:4	e	۝٢٥				
+13	78:26:1	w	جَزَآءࣰ		جزا	A recompense	jazāan
+13	78:26:2	w	وِفَاقاً࣌		وفاقا	appropriate	wifāqan
+13	78:26:3	e	۝٢٦				
+13	78:27:1	w	ࡴنَّهُمْ		انهم	Indeed, they	innahum
+14	78:27:2	w	كَانُواْ		كانوا	were	kānū
+14	78:27:3	w	لَا		لا	not	lā
+14	78:27:4	w	يَرْجُونَ		يرجون	expecting	yarjūna
+14	78:27:5	w	حِسَاباࣰ		حسابا	an account	ḥisāban
+14	78:27:6	e	۝٢٧				
+14	78:28:1	w	وَكَذَّبُواْ		وكذبوا	And they denied	wakadhabū
+14	78:28:2	w	بِـَٔايَٰتِنَا		بايتنا	Our Signs	biāyātinā
+14	78:28:3	w	كِذَّاباࣰ࣌		كذابا	(with) denial	kidhāban
+14	78:28:4	e	۝٢٨				
+14	78:29:1	w	وَكُلَّ		وكل	And every	wakulla
+15	78:29:2	w	شَےْءٍ		شي	thing	shayin
+15	78:29:3	w	ࡰحْصَيْنَٰهُ		احصينه	We have enumerated it	aḥṣaynāhu
+15	78:29:4	w	كِتَٰباࣰ࣌		كتبا	(in) a Book	kitāban
+15	78:29:5	e	۝٢٩				
+15	78:30:1	w	فَذُوقُواْ		فذوقوا	So taste	fadhūqū
+15	78:30:2	w	فَلَن		فلن	and never	falan
+15	78:30:3	w	نَّزِيدَكُمُۥٓ		نزيدكم	We will increase you	nazīdakum
+15	78:30:4	w	إِلَّا		الا	except	illā
+15	78:30:5	w	عَذَاباً࣌		عذابا	(in) punishment	ʿadhāban
+15	78:30:6	e	۝٣٠				

@@ -1,0 +1,134 @@
+1	6:69:1	w	وَمَا		وما	And not	wamā
+1	6:69:2	w	عَلَى		علي	(is) on	ʿalā
+1	6:69:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	6:69:4	w	يَتَّقُونَ		يتقون	fear (Allah)	yattaqūna
+1	6:69:5	w	مِنْ		من	of	min
+1	6:69:6	w	حِسَابِهِم		حسابهم	their account	ḥisābihim
+1	6:69:7	w	مِّن		من	[of]	min
+1	6:69:8	w	شَےْءࣲ࣌		شي	anything	shayin
+1	6:69:9	w	وَلَٰكِن		ولكن	but	walākin
+2	6:69:10	w	ذِكْرٜىٰ		ذكري	(for) reminder	dhik'rā
+2	6:69:11	w	لَعَلَّهُمْ		لعلهم	so that they may	laʿallahum
+2	6:69:12	w	يَتَّقُونَ࣌		يتقون	fear (Allah)	yattaqūna
+2	6:69:13	e	۝٦٩				
+2	6:70:1	w	۞ وَذَرِ		وذر	And leave	wadhari
+2	6:70:2	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+2	6:70:3	w	ࡰٜتَّخَذُواْ		اتخذوا	take	ittakhadhū
+2	6:70:4	w	دِينَهُمْ		دينهم	their religion	dīnahum
+3	6:70:5	w	لَعِباࣰ		لعبا	(as) a play	laʿiban
+3	6:70:6	w	وَلَهْواࣰ		ولهوا	and amusement	walahwan
+3	6:70:7	w	وَغَرَّتْهُمُ		وغرتهم	and deluded them	wagharrathumu
+3	6:70:8	w	ࡲ۬لْحَيَوٰةُ		الحيوة	the life	l-ḥayatu
+3	6:70:9	w	ࡲ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+3	6:70:10	w	وَذَكِّرْ		وذكر	But remind	wadhakkir
+3	6:70:11	w	بِهِۦٓ		بهي	with it	bihi
+3	6:70:12	w	أَن		ان	lest	an
+4	6:70:13	w	تُبْسَلَ		تبسل	is given up to destruction	tub'sala
+4	6:70:14	w	نَفْسُۢ		نفس	a soul	nafsun
+4	6:70:15	w	بِمَا		بما	for what	bimā
+4	6:70:16	w	كَسَبَتْ		كسبت	it (has) earned	kasabat
+4	6:70:17	w	لَيْسَ		ليس	not	laysa
+4	6:70:18	w	لَهَا		لها	(is) for it	lahā
+4	6:70:19	w	مِن		من	from	min
+4	6:70:20	w	دُونِ		دون	besides	dūni
+4	6:70:21	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+4	6:70:22	w	وَلِيࣱّ		ولي	any protector	waliyyun
+5	6:70:23	w	وَلَا		ولا	and not	walā
+5	6:70:24	w	شَفِيعࣱ࣌		شفيع	any intercessor	shafīʿun
+5	6:70:25	w	وَإِن		وان	And if	wa-in
+5	6:70:26	w	تَعْدِلْ		تعدل	it offers ransom	taʿdil
+5	6:70:27	w	كُلَّ		كل	every	kulla
+5	6:70:28	w	عَدْلࣲ		عدل	ransom	ʿadlin
+5	6:70:29	w	لَّا		لا	not	lā
+5	6:70:30	w	يُوخَذْ		يوخذ	will it be taken	yu'khadh
+5	6:70:31	w	مِنْهَآ࣌		منها	from it	min'hā
+5	6:70:32	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+6	6:70:33	w	ࡰ۬لذِينَ		الذين	(are) ones who	alladhīna
+6	6:70:34	w	أُبْسِلُواْ		ابسلوا	are given to destruction	ub'silū
+6	6:70:35	w	بِمَا		بما	for what	bimā
+6	6:70:36	w	كَسَبُواْ		كسبوا	they earned	kasabū
+6	6:70:37	w	لَهُمْ		لهم	For them	lahum
+6	6:70:38	w	شَرَابࣱ		شراب	(will be) a drink	sharābun
+6	6:70:39	w	مِّنْ		من	of	min
+6	6:70:40	w	حَمِيمࣲ		حميم	boiling water	ḥamīmin
+7	6:70:41	w	وَعَذَابٌ		وعذاب	and a punishment	waʿadhābun
+7	6:70:42	w	ࡰلِيمُۢ		اليم	painful	alīmun
+7	6:70:43	w	بِمَا		بما	because	bimā
+7	6:70:44	w	كَانُواْ		كانوا	they used to	kānū
+7	6:70:45	w	يَكْفُرُونَ࣌		يكفرون	disbelieve	yakfurūna
+7	6:70:46	e	۝٧٠				
+7	6:71:1	w	قُلَ		قل	Say	qul
+7	6:71:2	w	ࡰنَدْعُواْ		اندعوا	Shall we call	anadʿū
+7	6:71:3	w	مِن		من	from	min
+7	6:71:4	w	دُونِ		دون	besides	dūni
+8	6:71:5	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+8	6:71:6	w	مَا		ما	what	mā
+8	6:71:7	w	لَا		لا	not	lā
+8	6:71:8	w	يَنفَعُنَا		ينفعنا	benefits us	yanfaʿunā
+8	6:71:9	w	وَلَا		ولا	and not	walā
+8	6:71:10	w	يَضُرُّنَا		يضرنا	harms us	yaḍurrunā
+8	6:71:11	w	وَنُرَدُّ		ونرد	and we turn back	wanuraddu
+8	6:71:12	w	عَلَىٰٓ		علي	on	ʿalā
+8	6:71:13	w	أَعْقَابِنَا		اعقابنا	our heels	aʿqābinā
+8	6:71:14	w	بَعْدَ		بعد	after	baʿda
+8	6:71:15	w	إِذْ		اذ	[when]	idh
+9	6:71:16	w	هَدٜيٰنَا		هدينا	(has) guided us	hadānā
+9	6:71:17	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+9	6:71:18	w	كَالذِے		كالذي	Like the one	ka-alladhī
+9	6:71:19	w	ࡴٜسْتَهْوَتْهُ		استهوته	whom (has been) enticed	is'tahwathu
+9	6:71:20	w	ࡲ۬لشَّيَٰطِينُ		الشيطين	(by) the Shaitaan	l-shayāṭīnu
+9	6:71:21	w	فِے		في	in	fī
+9	6:71:22	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+10	6:71:23	w	حَيْرَانَ࣌		حيران	confused	ḥayrāna
+10	6:71:24	w	لَهُۥٓ		له	he has	lahu
+10	6:71:25	w	أَصْحَٰبࣱ		اصحب	companions	aṣḥābun
+10	6:71:26	w	يَدْعُونَهُۥٓ		يدعونه	who call him	yadʿūnahu
+10	6:71:27	w	إِلَى		الي	towards	ilā
+10	6:71:28	w	ࡰ۬لْهُدَى		الهدي	the guidance	l-hudā
+10	6:71:29	w	ࡰٜيتِنَا࣌		ايتنا	'Come to us.'	i'tinā
+10	6:71:30	w	قُلِ		قل	Say	qul
+10	6:71:31	w	ࡴنَّ		ان	Indeed	inna
+11	6:71:32	w	هُدَى		هدي	(the) Guidance	hudā
+11	6:71:33	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+11	6:71:34	w	هُوَ		هو	it	huwa
+11	6:71:35	w	ࡰ۬لْهُدٜىٰ		الهدي	(is) the Guidance	l-hudā
+11	6:71:36	w	وَأُمِرْنَا		وامرنا	and we have been commanded	wa-umir'nā
+11	6:71:37	w	لِنُسْلِمَ		لنسلم	that we submit	linus'lima
+11	6:71:38	w	لِرَبِّ		لرب	to (the) Lord	lirabbi
+11	6:71:39	w	ࡴ۬لْعَٰلَمِينَ		العلمين	(of) the worlds	l-ʿālamīna
+11	6:71:40	e	۝٧١				
+12	6:72:1	w	وَأَنَ		وان	And to	wa-an
+12	6:72:2	w	ࡰقِيمُواْ		اقيموا	establish	aqīmū
+12	6:72:3	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+12	6:72:4	w	وَاتَّقُوهُ࣌		واتقوه	and fear Him	wa-ittaqūhu
+12	6:72:5	w	وَهُوَ		وهو	And He	wahuwa
+12	6:72:6	w	ࡰ۬لذِےٓ		الذي	(is) the One	alladhī
+12	6:72:7	w	إِلَيْهِ		اليه	to Him	ilayhi
+12	6:72:8	w	تُحْشَرُونَ࣌		تحشرون	you will be gathered	tuḥ'sharūna
+12	6:72:9	e	۝٧٢				
+13	6:73:1	w	وَهُوَ		وهو	And (it is) He	wahuwa
+13	6:73:2	w	ࡰ۬لذِے		الذي	Who	alladhī
+13	6:73:3	w	خَلَقَ		خلق	created	khalaqa
+13	6:73:4	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+13	6:73:5	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+13	6:73:6	w	بِالْحَقِّ࣌		بالحق	in truth	bil-ḥaqi
+13	6:73:7	w	وَيَوْمَ		ويوم	And (the) Day	wayawma
+13	6:73:8	w	يَقُولُ		يقول	He says	yaqūlu
+14	6:73:9	w	كُن࣌		كن	Be	kun
+14	6:73:10	w	فَيَكُونُ࣌		فيكون	and it is	fayakūnu
+14	6:73:11	e	۝٧٣				
+14	6:74:1	w	قَوْلُهُ		قوله	His word	qawluhu
+14	6:74:2	w	ࡲ۬لْحَقُّ࣌		الحق	(is) the truth	l-ḥaqu
+14	6:74:3	w	وَلَهُ		وله	And for Him	walahu
+14	6:74:4	w	ࡲ۬لْمُلْكُ࣌		الملك	(is) the Dominion	l-mul'ku
+14	6:74:5	w	يَوْمَ		يوم	(on the) Day	yawma
+14	6:74:6	w	يُنفَخُ		ينفخ	will be blown	yunfakhu
+14	6:74:7	w	فِے		في	in	fī
+15	6:74:8	w	ࡴ۬لصُّورِ࣌		الصور	the trumpet	l-ṣūri
+15	6:74:9	w	عَٰلِمُ		علم	(He is) All-Knower	ʿālimu
+15	6:74:10	w	ࡲ۬لْغَيْبِ		الغيب	(of) the unseen	l-ghaybi
+15	6:74:11	w	وَالشَّهَٰدَةِ࣌		والشهدة	and the seen	wal-shahādati
+15	6:74:12	w	وَهُوَ		وهو	And He	wahuwa
+15	6:74:13	w	ࡰ۬لْحَكِيمُ		الحكيم	(is) the All-Wise	l-ḥakīmu
+15	6:74:14	w	ࡲ۬لْخَبِيرُ࣌		الخبير	the All-Aware	l-khabīru
+15	6:74:15	e	۝٧٤				

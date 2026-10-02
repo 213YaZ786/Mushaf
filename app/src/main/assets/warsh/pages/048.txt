@@ -1,0 +1,129 @@
+1	2:281:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+1	2:281:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+1	2:281:3	w	ءَامَنُوٓاْ		امنوا	believe[d]	āmanū
+1	2:281:4	w	إِذَا		اذا	When	idhā
+1	2:281:5	w	تَدَايَنتُم		تداينتم	you contract with one another	tadāyantum
+1	2:281:6	w	بِدَيْنٍ		بدين	any debt	bidaynin
+1	2:281:7	w	ࡴلَىٰٓ		الي	for	ilā
+1	2:281:8	w	أَجَلࣲ		اجل	a term	ajalin
+1	2:281:9	w	مُّسَمّىࣰ		مسمي	fixed	musamman
+2	2:281:10	w	فَاكْتُبُوهُ࣌		فاكتبوه	then write it	fa-uk'tubūhu
+2	2:281:11	w	وَلْيَكْتُب		وليكتب	And let write	walyaktub
+2	2:281:12	w	بَّيْنَكُمْ		بينكم	between you	baynakum
+2	2:281:13	w	كَاتِبُۢ		كاتب	a scribe	kātibun
+2	2:281:14	w	بِالْعَدْلِ࣌		بالعدل	in justice	bil-ʿadli
+2	2:281:15	w	وَلَا		ولا	And not	walā
+2	2:281:16	w	يَابَ		ياب	(should) refuse	yaba
+3	2:281:17	w	كَاتِبٌ		كاتب	a scribe	kātibun
+3	2:281:18	w	ࡰنْ		ان	that	an
+3	2:281:19	w	يَّكْتُبَ࣌		يكتب	he writes	yaktuba
+3	2:281:20	w	كَمَا		كما	as	kamā
+3	2:281:21	w	عَلَّمَهُ		علمه	(has) taught him	ʿallamahu
+3	2:281:22	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+3	2:281:23	w	فَلْيَكْتُبْ࣌		فليكتب	So let him write	falyaktub
+3	2:281:24	w	وَلْيُمْلِلِ		وليملل	and let dictate	walyum'lili
+4	2:281:25	w	ࡴ۬لذِے		الذي	the one	alladhī
+4	2:281:26	w	عَلَيْهِ		عليه	on whom	ʿalayhi
+4	2:281:27	w	ࡴ۬لْحَقُّ		الحق	(is) the right	l-ḥaqu
+4	2:281:28	w	وَلْيَتَّقِ		وليتق	and let him fear	walyattaqi
+4	2:281:29	w	ࡴ۬للَّهَ		الله	Allah	l-laha
+4	2:281:30	w	رَبَّهُۥ		ربه	his Lord	rabbahu
+4	2:281:31	w	وَلَا		ولا	and (let him) not	walā
+4	2:281:32	w	يَبْخَسْ		يبخس	diminish	yabkhas
+4	2:281:33	w	مِنْهُ		منه	from it	min'hu
+4	2:281:34	w	شَيْـٔاࣰ࣌		شيا	anything	shayan
+5	2:281:35	w	فَإِن		فان	Then if	fa-in
+5	2:281:36	w	كَانَ		كان	is	kāna
+5	2:281:37	w	ࡰ۬لذِے		الذي	the one	alladhī
+5	2:281:38	w	عَلَيْهِ		عليه	on him	ʿalayhi
+5	2:281:39	w	ࡴ۬لْحَقُّ		الحق	(is) the right	l-ḥaqu
+5	2:281:40	w	سَفِيهاً		سفيها	(of) limited understanding	safīhan
+5	2:281:41	w	ࡰوْ		او	or	aw
+5	2:281:42	w	ضَعِيفاً		ضعيفا	weak	ḍaʿīfan
+5	2:281:43	w	ࡰوْ		او	or	aw
+5	2:281:44	w	لَا		لا	not	lā
+5	2:281:45	w	يَسْتَطِيعُ		يستطيع	capable	yastaṭīʿu
+6	2:281:46	w	أَنْ		ان	that	an
+6	2:281:47	w	يُّمِلَّ		يمل	(can) dictate	yumilla
+6	2:281:48	w	هُوَ		هو	he	huwa
+6	2:281:49	w	فَلْيُمْلِلْ		فليملل	then let dictate	falyum'lil
+6	2:281:50	w	وَلِيُّهُۥ		وليه	his guardian	waliyyuhu
+6	2:281:51	w	بِالْعَدْلِ࣌		بالعدل	with justice	bil-ʿadli
+6	2:281:52	w	وَاسْتَشْهِدُواْ		واستشهدوا	And call for evidence	wa-is'tashhidū
+6	2:281:53	w	شَهِيدَيْنِ		شهيدين	two witnesses	shahīdayni
+7	2:281:54	w	مِن		من	among	min
+7	2:281:55	w	رِّجَالِكُمْ࣌		رجالكم	your men	rijālikum
+7	2:281:56	w	فَإِن		فان	And if	fa-in
+7	2:281:57	w	لَّمْ		لم	not	lam
+7	2:281:58	w	يَكُونَا		يكونا	there are	yakūnā
+7	2:281:59	w	رَجُلَيْنِ		رجلين	two men	rajulayni
+7	2:281:60	w	فَرَجُلࣱ		فرجل	then one man	farajulun
+7	2:281:61	w	وَامْرَأَتَٰنِ		وامراتن	and two women	wa-im'ra-atāni
+8	2:281:62	w	مِمَّن		ممن	of whom	mimman
+8	2:281:63	w	تَرْضَوْنَ		ترضون	you agree	tarḍawna
+8	2:281:64	w	مِنَ		من	of	mina
+8	2:281:65	w	ࡰ۬لشُّهَدَآءِ		الشهدا	[the] witnesses	l-shuhadāi
+8	2:281:66	w	ࡶَن		ان	(so) that (if)	an
+8	2:281:67	w	تَضِلَّ		تضل	[she] errs	taḍilla
+8	2:281:68	w	إِحْدٜيٰهُمَا		احديهما	one of the two	iḥ'dāhumā
+8	2:281:69	w	فَتُذَكِّرَ		فتذكر	then will remind	fatudhakkira
+9	2:281:70	w	إِحْدٜيٰهُمَا		احديهما	one of the two	iḥ'dāhumā
+9	2:281:71	w	ࡰ۬لُاخْرٜىٰ࣌		الاخري	the other	l-ukh'rā
+9	2:281:72	w	وَلَا		ولا	And not	walā
+9	2:281:73	w	يَابَ		ياب	(should) refuse	yaba
+9	2:281:74	w	ࡰ۬لشُّهَدَآءُ		الشهدا	the witnesses	l-shuhadāu
+9	2:281:75	w	ࡹِذَا		اذا	when	idhā
+9	2:281:76	w	مَا		ما	that	mā
+9	2:281:77	w	دُعُواْ࣌		دعوا	they are called	duʿū
+9	2:281:78	w	وَلَا		ولا	And not	walā
+9	2:281:79	w	تَسْـَٔمُوٓاْ		تسموا	(be) weary	tasamū
+10	2:281:80	w	أَن		ان	that	an
+10	2:281:81	w	تَكْتُبُوهُ		تكتبوه	you write it	taktubūhu
+10	2:281:82	w	صَغِيراً		صغيرا	small	ṣaghīran
+10	2:281:83	w	ࡰوْ		او	or	aw
+10	2:281:84	w	كَبِيراً		كبيرا	large	kabīran
+10	2:281:85	w	ࡴلَىٰٓ		الي	for	ilā
+10	2:281:86	w	أَجَلِهِۦ࣌		اجلهي	its term	ajalihi
+10	2:281:87	w	ذَٰلِكُمُۥٓ		ذلكم	That	dhālikum
+10	2:281:88	w	أَقْسَطُ		اقسط	(is) more just	aqsaṭu
+11	2:281:89	w	عِندَ		عند	near	ʿinda
+11	2:281:90	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+11	2:281:91	w	وَأَقْوَمُ		واقوم	and more upright	wa-aqwamu
+11	2:281:92	w	لِلشَّهَٰدَةِ		للشهدة	for evidence	lilshahādati
+11	2:281:93	w	وَأَدْنٜىٰٓ		وادني	and nearer	wa-adnā
+11	2:281:94	w	أَلَّا		الا	that not	allā
+11	2:281:95	w	تَرْتَابُوٓاْ		ترتابوا	you (have) doubt	tartābū
+11	2:281:96	w	إِلَّآ		الا	except	illā
+11	2:281:97	w	أَن		ان	that	an
+11	2:281:98	w	تَكُونَ		تكون	be	takūna
+12	2:281:99	w	تِجَٰرَةٌ		تجرة	a transaction	tijāratan
+12	2:281:100	w	حَاضِرَةࣱ		حاضرة	present	ḥāḍiratan
+12	2:281:101	w	تُدِيرُونَهَا		تديرونها	you carry out	tudīrūnahā
+12	2:281:102	w	بَيْنَكُمْ		بينكم	among you	baynakum
+12	2:281:103	w	فَلَيْسَ		فليس	then not	falaysa
+12	2:281:104	w	عَلَيْكُمْ		عليكم	on you	ʿalaykum
+13	2:281:105	w	جُنَاحٌ		جناح	any sin	junāḥun
+13	2:281:106	w	ࡰلَّا		الا	that not	allā
+13	2:281:107	w	تَكْتُبُوهَا࣌		تكتبوها	you write it	taktubūhā
+13	2:281:108	w	وَأَشْهِدُوٓاْ		واشهدوا	And take witness	wa-ashhidū
+13	2:281:109	w	إِذَا		اذا	when	idhā
+13	2:281:110	w	تَبَايَعْتُمْ࣌		تبايعتم	you make commercial transaction	tabāyaʿtum
+13	2:281:111	w	وَلَا		ولا	And not	walā
+13	2:281:112	w	يُضَآرَّ		يضار	(should) be harmed	yuḍārra
+14	2:281:113	w	كَاتِبࣱ		كاتب	(the) scribe	kātibun
+14	2:281:114	w	وَلَا		ولا	and not	walā
+14	2:281:115	w	شَهِيدࣱ࣌		شهيد	(the) witness	shahīdun
+14	2:281:116	w	وَإِن		وان	and if	wa-in
+14	2:281:117	w	تَفْعَلُواْ		تفعلوا	you do	tafʿalū
+14	2:281:118	w	فَإِنَّهُۥ		فانه	then indeed it	fa-innahu
+14	2:281:119	w	فُسُوقُۢ		فسوق	(is) sinful conduct	fusūqun
+14	2:281:120	w	بِكُمْ࣌		بكم	for you	bikum
+15	2:281:121	w	وَاتَّقُواْ		واتقوا	and fear	wa-ittaqū
+15	2:281:122	w	ࡲ۬للَّهَ࣌		الله	Allah	l-laha
+15	2:281:123	w	وَيُعَلِّمُكُمُ		ويعلمكم	And teaches	wayuʿallimukumu
+15	2:281:124	w	ࡲ۬للَّهُ࣌		الله	Allah	l-lahu
+15	2:281:125	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	2:281:126	w	بِكُلِّ		بكل	of every	bikulli
+15	2:281:127	w	شَےْءٍ		شي	thing	shayin
+15	2:281:128	w	عَلِيمࣱ࣌		عليم	(is) All-Knower	ʿalīmun
+15	2:281:129	e	۝٢٨١				

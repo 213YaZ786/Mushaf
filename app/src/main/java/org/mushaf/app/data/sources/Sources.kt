@@ -25,6 +25,8 @@ data class SourceList(
     val quranCom: List<String>,
     val recitations: List<String>,
     val fawaz: List<String>,
+    /** mp3quran's API (the Warsh recitations and their timing). */
+    val mp3quran: List<String> = listOf("https://www.mp3quran.net/api/v3"),
     /** The speech recogniser's files, "{file}" in the place. */
     val stt: List<String> = emptyList(),
     /** Fingerprints that replace the bundled ones, "print 12" to SHA-256, when a font is reissued. */

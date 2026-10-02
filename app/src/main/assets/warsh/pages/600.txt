@@ -1,0 +1,120 @@
+1	100:6:1	w	ࡴنَّ		ان	Indeed	inna
+1	100:6:2	w	ࡰ۬لِانسَٰنَ		الانسن	mankind	l-insāna
+1	100:6:3	w	لِرَبِّهِۦ		لربهي	to his Lord	lirabbihi
+1	100:6:4	w	لَكَنُودࣱ		لكنود	(is) surely ungrateful	lakanūdun
+1	100:6:5	e	۝٦				
+1	100:7:1	w	وَإِنَّهُۥ		وانه	And indeed, he	wa-innahu
+1	100:7:2	w	عَلَىٰ		علي	on	ʿalā
+1	100:7:3	w	ذَٰلِكَ		ذلك	that	dhālika
+1	100:7:4	w	لَشَهِيدࣱ		لشهيد	surely (is) a witness	lashahīdun
+1	100:7:5	e	۝٧				
+1	100:8:1	w	وَإِنَّهُۥ		وانه	And indeed he	wa-innahu
+2	100:8:2	w	لِحُبِّ		لحب	in (the) love	liḥubbi
+2	100:8:3	w	ࡴ۬لْخَيْرِ		الخير	(of) wealth	l-khayri
+2	100:8:4	w	لَشَدِيدٌ࣌		لشديد	(is) surely intense	lashadīdun
+2	100:8:5	e	۝٨				
+2	100:9:1	w	۞ ࡰفَلَا		افلا	But does not	afalā
+2	100:9:2	w	يَعْلَمُ		يعلم	he know	yaʿlamu
+2	100:9:3	w	إِذَا		اذا	when	idhā
+2	100:9:4	w	بُعْثِرَ		بعثر	will be scattered	buʿ'thira
+2	100:9:5	w	مَا		ما	what	mā
+2	100:9:6	w	فِے		في	(is) in	fī
+2	100:9:7	w	ࡴ۬لْقُبُورِ		القبور	the graves	l-qubūri
+2	100:9:8	e	۝٩				
+3	100:10:1	w	وَحُصِّلَ		وحصل	And is made apparent	waḥuṣṣila
+3	100:10:2	w	مَا		ما	what	mā
+3	100:10:3	w	فِے		في	(is) in	fī
+3	100:10:4	w	ࡴ۬لصُّدُورِ		الصدور	the breasts	l-ṣudūri
+3	100:10:5	e	۝١٠				
+3	100:11:1	w	إِنَّ		ان	Indeed	inna
+3	100:11:2	w	رَبَّهُم		ربهم	their Lord	rabbahum
+3	100:11:3	w	بِهِمْ		بهم	about them	bihim
+3	100:11:4	w	يَوْمَئِذࣲ		يوميذ	that Day	yawma-idhin
+3	100:11:5	w	لَّخَبِيرٌ࣌		لخبير	(is) surely All-Aware	lakhabīrun
+3	100:11:6	e	۝١١				
+4	101:0:0	t					
+5	101:0:0	b					
+6	101:1:1	w	ࡴ۬لْقَارِعَةُ		القارعة	The Striking Calamity	al-qāriʿatu
+6	101:1:2	w	مَا		ما	What	mā
+6	101:1:3	w	ࡰ۬لْقَارِعَةُ࣌		القارعة	(is) the Striking Calamity	l-qāriʿatu
+6	101:1:4	e	۝١				
+6	101:2:1	w	وَمَآ		وما	And what	wamā
+6	101:2:2	w	أَدْرٜيٰكَ		ادريك	will make you know	adrāka
+6	101:2:3	w	مَا		ما	what	mā
+6	101:2:4	w	ࡰ۬لْقَارِعَةُ࣌		القارعة	(is) the Striking Calamity	l-qāriʿatu
+6	101:2:5	e	۝٢				
+6	101:3:1	w	يَوْمَ		يوم	(The) Day	yawma
+6	101:3:2	w	يَكُونُ		يكون	will be	yakūnu
+7	101:3:3	w	ࡲ۬لنَّاسُ		الناس	the mankind	l-nāsu
+7	101:3:4	w	كَالْفَرَاشِ		كالفراش	like moths	kal-farāshi
+7	101:3:5	w	ࡴ۬لْمَبْثُوثِ		المبثوث	scattered	l-mabthūthi
+7	101:3:6	e	۝٣				
+7	101:4:1	w	وَتَكُونُ		وتكون	And will be	watakūnu
+7	101:4:2	w	ࡲ۬لْجِبَالُ		الجبال	the mountains	l-jibālu
+7	101:4:3	w	كَالْعِهْنِ		كالعهن	like wool	kal-ʿih'ni
+8	101:4:4	w	ࡴ۬لْمَنفُوشِ࣌		المنفوش	fluffed up	l-manfūshi
+8	101:4:5	e	۝٤				
+8	101:5:1	w	فَأَمَّا		فاما	Then as for	fa-ammā
+8	101:5:2	w	مَن		من	(him) whose	man
+8	101:5:3	w	ثَقُلَتْ		ثقلت	(are) heavy	thaqulat
+8	101:5:4	w	مَوَٰزِينُهُۥ		موزينه	his scales	mawāzīnuhu
+8	101:5:5	e	۝٥				
+8	101:6:1	w	فَهُوَ		فهو	Then he	fahuwa
+8	101:6:2	w	فِے		في	(will be) in	fī
+8	101:6:3	w	عِيشَةࣲ		عيشة	a life	ʿīshatin
+9	101:6:4	w	رَّاضِيَةࣲ࣌		راضية	pleasant	rāḍiyatin
+9	101:6:5	e	۝٦				
+9	101:7:1	w	وَأَمَّا		واما	But as for	wa-ammā
+9	101:7:2	w	مَنْ		من	(him) whose	man
+9	101:7:3	w	خَفَّتْ		خفت	(are) light	khaffat
+9	101:7:4	w	مَوَٰزِينُهُۥ		موزينه	his scales	mawāzīnuhu
+9	101:7:5	e	۝٧				
+9	101:8:1	w	فَأُمُّهُۥ		فامه	His abode	fa-ummuhu
+9	101:8:2	w	هَاوِيَةࣱ࣌		هاوية	(will be the) Pit	hāwiyatun
+9	101:8:3	e	۝٨				
+10	101:9:1	w	وَمَآ		وما	And what	wamā
+10	101:9:2	w	أَدْرٜيٰكَ		ادريك	will make you know	adrāka
+10	101:9:3	w	مَا		ما	what	mā
+10	101:9:4	w	هِيَهْ࣌		هيه	it is	hiyah
+10	101:9:5	e	۝٩				
+10	101:10:1	w	نَارٌ		نار	A Fire	nārun
+10	101:10:2	w	حَامِيَةٌ࣌		حامية	intensely hot	ḥāmiyatun
+10	101:10:3	e	۝١٠				
+11	102:0:0	t					
+12	102:0:0	b					
+13	102:1:1	w	ࡰلْهٜيٰكُمُ		الهيكم	Diverts you	alhākumu
+13	102:1:2	w	ࡲ۬لتَّكَاثُرُ		التكاثر	the competition to increase	l-takāthuru
+13	102:1:3	e	۝١				
+13	102:2:1	w	حَتَّىٰ		حتي	Until	ḥattā
+13	102:2:2	w	زُرْتُمُ		زرتم	you visit	zur'tumu
+13	102:2:3	w	ࡲ۬لْمَقَابِرَ࣌		المقابر	the graves	l-maqābira
+13	102:2:4	e	۝٢				
+13	102:3:1	w	كَلَّا		كلا	Nay	kallā
+13	102:3:2	w	سَوْفَ		سوف	Soon	sawfa
+13	102:3:3	w	تَعْلَمُونَ		تعلمون	you will know	taʿlamūna
+13	102:3:4	e	۝٣				
+13	102:4:1	w	ثُمَّ		ثم	Then	thumma
+14	102:4:2	w	كَلَّا		كلا	nay	kallā
+14	102:4:3	w	سَوْفَ		سوف	Soon	sawfa
+14	102:4:4	w	تَعْلَمُونَ࣌		تعلمون	you will know	taʿlamūna
+14	102:4:5	e	۝٤				
+14	102:5:1	w	كَلَّا		كلا	Nay	kallā
+14	102:5:2	w	لَوْ		لو	If	law
+14	102:5:3	w	تَعْلَمُونَ		تعلمون	you know	taʿlamūna
+14	102:5:4	w	عِلْمَ		علم	(with) a knowledge	ʿil'ma
+14	102:5:5	w	ࡰ۬لْيَقِينِ࣌		اليقين	(of) certainty	l-yaqīni
+14	102:5:6	e	۝٥				
+14	102:6:1	w	لَتَرَوُنَّ		لترون	Surely you will see	latarawunna
+14	102:6:2	w	ࡰ۬لْجَحِيمَ		الجحيم	the Hellfire	l-jaḥīma
+14	102:6:3	e	۝٦				
+15	102:7:1	w	ثُمَّ		ثم	Then	thumma
+15	102:7:2	w	لَتَرَوُنَّهَا		لترونها	surely you will see it	latarawunnahā
+15	102:7:3	w	عَيْنَ		عين	(with the) eye	ʿayna
+15	102:7:4	w	ࡰ۬لْيَقِينِ		اليقين	(of) certainty	l-yaqīni
+15	102:7:5	e	۝٧				
+15	102:8:1	w	ثُمَّ		ثم	Then	thumma
+15	102:8:2	w	لَتُسْـَٔلُنَّ		لتسلن	surely you will be asked	latus'alunna
+15	102:8:3	w	يَوْمَئِذٍ		يوميذ	that Day	yawma-idhin
+15	102:8:4	w	عَنِ		عن	about	ʿani
+15	102:8:5	w	ࡴ۬لنَّعِيمِ࣌		النعيم	the pleasures	l-naʿīmi
+15	102:8:6	e	۝٨				

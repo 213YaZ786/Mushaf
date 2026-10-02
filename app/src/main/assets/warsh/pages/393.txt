@@ -1,0 +1,142 @@
+1	28:60:1	w	وَمَآ		وما	And whatever	wamā
+1	28:60:2	w	أُوتِيتُم		اوتيتم	you have been given	ūtītum
+1	28:60:3	w	مِّن		من	from	min
+1	28:60:4	w	شَےْءࣲ		شي	things	shayin
+1	28:60:5	w	فَمَتَٰعُ		فمتع	(is) an enjoyment	famatāʿu
+1	28:60:6	w	ࡲ۬لْحَيَوٰةِ		الحيوة	(of the) life	l-ḥayati
+1	28:60:7	w	ࡴ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+1	28:60:8	w	وَزِينَتُهَا࣌		وزينتها	and its adornment	wazīnatuhā
+1	28:60:9	w	وَمَا		وما	And what	wamā
+1	28:60:10	w	عِندَ		عند	(is) with	ʿinda
+2	28:60:11	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+2	28:60:12	w	خَيْرࣱ		خير	(is) better	khayrun
+2	28:60:13	w	وَأَبْقٜىٰٓ࣌		وابقي	and more lasting	wa-abqā
+2	28:60:14	w	أَفَلَا		افلا	So (will) not	afalā
+2	28:60:15	w	تَعْقِلُونَ࣌		تعقلون	you use intellect	taʿqilūna
+2	28:60:16	e	۝٦٠				
+2	28:61:1	w	أَفَمَنْ		افمن	Then is (he) whom	afaman
+2	28:61:2	w	وَّعَدْنَٰهُ		وعدنه	We have promised him	waʿadnāhu
+2	28:61:3	w	وَعْداً		وعدا	a promise	waʿdan
+2	28:61:4	w	حَسَناࣰ		حسنا	good	ḥasanan
+3	28:61:5	w	فَهُوَ		فهو	and he	fahuwa
+3	28:61:6	w	لَٰقِيهِ		لقيه	(will) meet it	lāqīhi
+3	28:61:7	w	كَمَن		كمن	like (the one) whom	kaman
+3	28:61:8	w	مَّتَّعْنَٰهُ		متعنه	We provided him	mattaʿnāhu
+3	28:61:9	w	مَتَٰعَ		متع	enjoyment	matāʿa
+3	28:61:10	w	ࡰ۬لْحَيَوٰةِ		الحيوة	(of the) life	l-ḥayati
+3	28:61:11	w	ࡴ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+3	28:61:12	w	ثُمَّ		ثم	then	thumma
+3	28:61:13	w	هُوَ		هو	he	huwa
+3	28:61:14	w	يَوْمَ		يوم	(on the) Day	yawma
+4	28:61:15	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+4	28:61:16	w	مِنَ		من	(will be) among	mina
+4	28:61:17	w	ࡰ۬لْمُحْضَرِينَ࣌		المحضرين	those presented	l-muḥ'ḍarīna
+4	28:61:18	e	۝٦١				
+4	28:62:1	w	وَيَوْمَ		ويوم	And (the) Day	wayawma
+4	28:62:2	w	يُنَادِيهِمْ		يناديهم	He will call them	yunādīhim
+4	28:62:3	w	فَيَقُولُ		فيقول	and say	fayaqūlu
+4	28:62:4	w	أَيْنَ		اين	Where	ayna
+5	28:62:5	w	شُرَكَآءِيَ		شركاي	(are) My partners	shurakāiya
+5	28:62:6	w	ࡰ۬لذِينَ		الذين	whom	alladhīna
+5	28:62:7	w	كُنتُمْ		كنتم	you used (to)	kuntum
+5	28:62:8	w	تَزْعُمُونَ࣌		تزعمون	claim	tazʿumūna
+5	28:62:9	e	۝٦٢				
+5	28:63:1	w	۞ قَالَ		قال	(Will) say	qāla
+5	28:63:2	w	ࡰ۬لذِينَ		الذين	those	alladhīna
+5	28:63:3	w	حَقَّ		حق	(has) come true	ḥaqqa
+5	28:63:4	w	عَلَيْهِمُ		عليهم	against whom	ʿalayhimu
+6	28:63:5	w	ࡲ۬لْقَوْلُ		القول	the Word	l-qawlu
+6	28:63:6	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+6	28:63:7	w	هَٰٓؤُلَآءِ		هولا	These	hāulāi
+6	28:63:8	w	ࡴ۬لذِينَ		الذين	(are) those whom	alladhīna
+6	28:63:9	w	أَغْوَيْنَآ		اغوينا	we led astray	aghwaynā
+6	28:63:10	w	أَغْوَيْنَٰهُمْ		اغوينهم	We led them astray	aghwaynāhum
+6	28:63:11	w	كَمَا		كما	as	kamā
+6	28:63:12	w	غَوَيْنَا࣌		غوينا	we were astray	ghawaynā
+6	28:63:13	w	تَبَرَّأْنَآ		تبرانا	We declare our innocence	tabarranā
+7	28:63:14	w	إِلَيْكَ࣌		اليك	before You	ilayka
+7	28:63:15	w	مَا		ما	Not	mā
+7	28:63:16	w	كَانُوٓاْ		كانوا	they used (to)	kānū
+7	28:63:17	w	إِيَّانَا		ايانا	worship us	iyyānā
+7	28:63:18	w	يَعْبُدُونَ࣌		يعبدون	worship us	yaʿbudūna
+7	28:63:19	e	۝٦٣				
+7	28:64:1	w	وَقِيلَ		وقيل	And it will be said	waqīla
+7	28:64:2	w	ࡸَدْعُواْ		ادعوا	Call	id'ʿū
+7	28:64:3	w	شُرَكَآءَكُمْ		شركاكم	your partners	shurakāakum
+8	28:64:4	w	فَدَعَوْهُمْ		فدعوهم	And they will call them	fadaʿawhum
+8	28:64:5	w	فَلَمْ		فلم	but not	falam
+8	28:64:6	w	يَسْتَجِيبُواْ		يستجيبوا	they will respond	yastajībū
+8	28:64:7	w	لَهُمْ		لهم	to them	lahum
+8	28:64:8	w	وَرَأَوُاْ		وراوا	and they will see	wara-awū
+8	28:64:9	w	ࡲ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+8	28:64:10	w	لَوَ		لو	If only	law
+8	28:64:11	w	ࡰنَّهُمْ		انهم	[that] they	annahum
+8	28:64:12	w	كَانُواْ		كانوا	had been	kānū
+9	28:64:13	w	يَهْتَدُونَ࣌		يهتدون	guided	yahtadūna
+9	28:64:14	e	۝٦٤				
+9	28:65:1	w	وَيَوْمَ		ويوم	And (the) Day	wayawma
+9	28:65:2	w	يُنَادِيهِمْ		يناديهم	He will call them	yunādīhim
+9	28:65:3	w	فَيَقُولُ		فيقول	and say	fayaqūlu
+9	28:65:4	w	مَاذَآ		ماذا	What	mādhā
+9	28:65:5	w	أَجَبْتُمُ		اجبتم	did you answer	ajabtumu
+9	28:65:6	w	ࡲ۬لْمُرْسَلِينَ࣌		المرسلين	the Messengers	l-mur'salīna
+9	28:65:7	e	۝٦٥				
+10	28:66:1	w	فَعَمِيَتْ		فعميت	But (will) be obscure	faʿamiyat
+10	28:66:2	w	عَلَيْهِمُ		عليهم	to them	ʿalayhimu
+10	28:66:3	w	ࡲ۬لَانۢبَآءُ		الانبا	the information	l-anbāu
+10	28:66:4	w	يَوْمَئِذࣲ		يوميذ	that day	yawma-idhin
+10	28:66:5	w	فَهُمْ		فهم	so they	fahum
+10	28:66:6	w	لَا		لا	will not ask one another	lā
+10	28:66:7	w	يَتَسَآءَلُونَ࣌		يتسالون	will not ask one another	yatasāalūna
+10	28:66:8	e	۝٦٦				
+10	28:67:1	w	فَأَمَّا		فاما	But as for	fa-ammā
+10	28:67:2	w	مَن		من	(him) who	man
+10	28:67:3	w	تَابَ		تاب	repented	tāba
+11	28:67:4	w	وَءَامَنَ		وامن	and believed	waāmana
+11	28:67:5	w	وَعَمِلَ		وعمل	and did	waʿamila
+11	28:67:6	w	صَٰلِحاࣰ		صلحا	righteousness	ṣāliḥan
+11	28:67:7	w	فَعَسٜىٰٓ		فعسي	then perhaps	faʿasā
+11	28:67:8	w	أَنْ		ان	[that]	an
+11	28:67:9	w	يَّكُونَ		يكون	he will be	yakūna
+11	28:67:10	w	مِنَ		من	of	mina
+11	28:67:11	w	ࡰ۬لْمُفْلِحِينَ࣌		المفلحين	the successful ones	l-muf'liḥīna
+11	28:67:12	e	۝٦٧				
+12	28:68:1	w	وَرَبُّكَ		وربك	And your Lord	warabbuka
+12	28:68:2	w	يَخْلُقُ		يخلق	creates	yakhluqu
+12	28:68:3	w	مَا		ما	what	mā
+12	28:68:4	w	يَشَآءُ		يشا	He wills	yashāu
+12	28:68:5	w	وَيَخْتَارُ࣌		ويختار	and chooses	wayakhtāru
+12	28:68:6	w	مَا		ما	Not	mā
+12	28:68:7	w	كَانَ		كان	they have	kāna
+12	28:68:8	w	لَهُمُ		لهم	for them	lahumu
+12	28:68:9	w	ࡲ۬لْخِيَرَةُ࣌		الخيرة	the choice	l-khiyaratu
+13	28:68:10	w	سُبْحَٰنَ		سبحن	Glory be	sub'ḥāna
+13	28:68:11	w	ࡰ۬للَّهِ		الله	(to) Allah	l-lahi
+13	28:68:12	w	وَتَعَٰلٜىٰ		وتعلي	and High is He	wataʿālā
+13	28:68:13	w	عَمَّا		عما	above what	ʿammā
+13	28:68:14	w	يُشْرِكُونَ࣌		يشركون	they associate (with Him)	yush'rikūna
+13	28:68:15	e	۝٦٨				
+13	28:69:1	w	وَرَبُّكَ		وربك	And your Lord	warabbuka
+13	28:69:2	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+13	28:69:3	w	مَا		ما	what	mā
+14	28:69:4	w	تُكِنُّ		تكن	conceals	tukinnu
+14	28:69:5	w	صُدُورُهُمْ		صدورهم	their breasts	ṣudūruhum
+14	28:69:6	w	وَمَا		وما	and what	wamā
+14	28:69:7	w	يُعْلِنُونَ࣌		يعلنون	they declare	yuʿ'linūna
+14	28:69:8	e	۝٦٩				
+14	28:70:1	w	وَهُوَ		وهو	And He	wahuwa
+14	28:70:2	w	ࡰ۬للَّهُ		الله	(is) Allah	l-lahu
+14	28:70:3	w	لَآ		لا	(there is) no	lā
+14	28:70:4	w	إِلَٰهَ		اله	god	ilāha
+14	28:70:5	w	إِلَّا		الا	but	illā
+14	28:70:6	w	هُوَ࣌		هو	He	huwa
+14	28:70:7	w	لَهُ		له	To Him	lahu
+15	28:70:8	w	ࡲ۬لْحَمْدُ		الحمد	(are due) all praises	l-ḥamdu
+15	28:70:9	w	فِے		في	in	fī
+15	28:70:10	w	ࡴ۬لُاولٜىٰ		الاولي	the first	l-ūlā
+15	28:70:11	w	وَالَاخِرَةِ࣌		والاخرة	and the last	wal-ākhirati
+15	28:70:12	w	وَلَهُ		وله	And for Him	walahu
+15	28:70:13	w	ࡲ۬لْحُكْمُ࣌		الحكم	(is) the Decision	l-ḥuk'mu
+15	28:70:14	w	وَإِلَيْهِ		واليه	and to Him	wa-ilayhi
+15	28:70:15	w	تُرْجَعُونَ࣌		ترجعون	you will be returned	tur'jaʿūna
+15	28:70:16	e	۝٧٠				

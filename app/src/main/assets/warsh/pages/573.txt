@@ -1,0 +1,165 @@
+1	72:14:1	w	وَإِنَّا		وانا	And that we	wa-annā
+1	72:14:2	w	مِنَّا		منا	among us	minnā
+1	72:14:3	w	ࡰ۬لْمُسْلِمُونَ		المسلمون	(are) Muslims	l-mus'limūna
+1	72:14:4	w	وَمِنَّا		ومنا	and among us	waminnā
+1	72:14:5	w	ࡰ۬لْقَٰسِطُونَ࣌		القسطون	(are) unjust	l-qāsiṭūna
+1	72:14:6	w	فَمَنَ		فمن	And whoever	faman
+1	72:14:7	w	ࡰسْلَمَ		اسلم	submits	aslama
+1	72:14:8	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+2	72:14:9	w	تَحَرَّوْاْ		تحروا	have sought	taḥarraw
+2	72:14:10	w	رَشَداࣰ࣌		رشدا	(the) right path	rashadan
+2	72:14:11	e	۝١٤				
+2	72:15:1	w	وَأَمَّا		واما	And as for	wa-ammā
+2	72:15:2	w	ࡰ۬لْقَٰسِطُونَ		القسطون	the unjust	l-qāsiṭūna
+2	72:15:3	w	فَكَانُواْ		فكانوا	they will be	fakānū
+2	72:15:4	w	لِجَهَنَّمَ		لجهنم	for Hell	lijahannama
+2	72:15:5	w	حَطَباࣰ࣌		حطبا	firewood	ḥaṭaban
+2	72:15:6	e	۝١٥				
+3	72:16:1	w	وَأَن		وان	And that if	wa-allawi
+3	72:16:2	w	لَّوِ		لو		
+3	72:16:3	w	ࡴٜسْتَقَٰمُواْ		استقموا	they had remained	is'taqāmū
+3	72:16:4	w	عَلَى		علي	on	ʿalā
+3	72:16:5	w	ࡰ۬لطَّرِيقَةِ		الطريقة	the Way	l-ṭarīqati
+3	72:16:6	w	لَأَسْقَيْنَٰهُم		لاسقينهم	surely We (would) have given them to drink	la-asqaynāhum
+3	72:16:7	w	مَّآءً		ما	water	māan
+3	72:16:8	w	غَدَقاࣰ		غدقا	(in) abundance	ghadaqan
+3	72:16:9	e	۝١٦				
+3	72:17:1	w	لِّنَفْتِنَهُمْ		لنفتنهم	That We might test them	linaftinahum
+4	72:17:2	w	فِيهِ࣌		فيه	therein	fīhi
+4	72:17:3	w	وَمَنْ		ومن	And whoever	waman
+4	72:17:4	w	يُّعْرِضْ		يعرض	turns away	yuʿ'riḍ
+4	72:17:5	w	عَن		عن	from	ʿan
+4	72:17:6	w	ذِكْرِ		ذكر	the Remembrance	dhik'ri
+4	72:17:7	w	رَبِّهِۦ		ربهي	(of) his Lord	rabbihi
+4	72:17:8	w	نَسْلُكْهُ		نسلكه	He will make him enter	yasluk'hu
+4	72:17:9	w	عَذَاباࣰ		عذابا	a punishment	ʿadhāban
+4	72:17:10	w	صَعَداࣰ࣌		صعدا	severe	ṣaʿadan
+4	72:17:11	e	۝١٧				
+4	72:18:1	w	وَأَنَّ		وان	And that	wa-anna
+5	72:18:2	w	ࡰ۬لْمَسَٰجِدَ		المسجد	the masjids	l-masājida
+5	72:18:3	w	لِلهِ		لله	(are) for Allah	lillahi
+5	72:18:4	w	فَلَا		فلا	so (do) not	falā
+5	72:18:5	w	تَدْعُواْ		تدعوا	call	tadʿū
+5	72:18:6	w	مَعَ		مع	with	maʿa
+5	72:18:7	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+5	72:18:8	w	أَحَداࣰ࣌		احدا	anyone	aḥadan
+5	72:18:9	e	۝١٨				
+5	72:19:1	w	وَإِنَّهُۥ		وانه	And that	wa-annahu
+5	72:19:2	w	لَمَّا		لما	when	lammā
+5	72:19:3	w	قَامَ		قام	stood up	qāma
+5	72:19:4	w	عَبْدُ		عبد	(the) slave	ʿabdu
+5	72:19:5	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+6	72:19:6	w	يَدْعُوهُ		يدعوه	calling (upon) Him	yadʿūhu
+6	72:19:7	w	كَادُواْ		كادوا	they almost	kādū
+6	72:19:8	w	يَكُونُونَ		يكونون	became	yakūnūna
+6	72:19:9	w	عَلَيْهِ		عليه	around him	ʿalayhi
+6	72:19:10	w	لِبَداࣰ࣌		لبدا	a compacted mass	libadan
+6	72:19:11	e	۝١٩				
+6	72:20:1	w	قَالَ		قال	Say	qul
+6	72:20:2	w	إِنَّمَآ		انما	Only	innamā
+6	72:20:3	w	أَدْعُواْ		ادعوا	I call upon	adʿū
+6	72:20:4	w	رَبِّے		ربي	my Lord	rabbī
+6	72:20:5	w	وَلَآ		ولا	and not	walā
+6	72:20:6	w	أُشْرِكُ		اشرك	I associate	ush'riku
+7	72:20:7	w	بِهِۦٓ		بهي	with Him	bihi
+7	72:20:8	w	أَحَداࣰ࣌		احدا	anyone	aḥadan
+7	72:20:9	e	۝٢٠				
+7	72:21:1	w	قُلِ		قل	Say	qul
+7	72:21:2	w	ࡴنِّے		اني	Indeed, I	innī
+7	72:21:3	w	لَآ		لا	(do) not	lā
+7	72:21:4	w	أَمْلِكُ		املك	possess	amliku
+7	72:21:5	w	لَكُمْ		لكم	for you	lakum
+7	72:21:6	w	ضَرّاࣰ		ضرا	any harm	ḍarran
+7	72:21:7	w	وَلَا		ولا	and not	walā
+7	72:21:8	w	رَشَداࣰ࣌		رشدا	right path	rashadan
+7	72:21:9	e	۝٢١				
+7	72:22:1	w	قُلِ		قل	Say	qul
+7	72:22:2	w	ࡴنِّے		اني	Indeed I	innī
+8	72:22:3	w	لَنْ		لن	never	lan
+8	72:22:4	w	يُّجِيرَنِے		يجيرني	can protect me	yujīranī
+8	72:22:5	w	مِنَ		من	from	mina
+8	72:22:6	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+8	72:22:7	w	أَحَدࣱ		احد	anyone	aḥadun
+8	72:22:8	w	وَلَنَ		ولن	and never	walan
+8	72:22:9	w	ࡰجِدَ		اجد	can I find	ajida
+8	72:22:10	w	مِن		من	from	min
+8	72:22:11	w	دُونِهِۦ		دونهي	besides Him	dūnihi
+8	72:22:12	w	مُلْتَحَداً		ملتحدا	any refuge	mul'taḥadan
+8	72:22:13	e	۝٢٢				
+8	72:23:1	w	ࡴلَّا		الا	But	illā
+8	72:23:2	w	بَلَٰغاࣰ		بلغا	(the) notification	balāghan
+9	72:23:3	w	مِّنَ		من	from	mina
+9	72:23:4	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+9	72:23:5	w	وَرِسَٰلَٰتِهِۦ࣌		ورسلتهي	and His Messages	warisālātihi
+9	72:23:6	w	۞ وَمَنْ		ومن	And whoever	waman
+9	72:23:7	w	يَّعْصِ		يعص	disobeys	yaʿṣi
+9	72:23:8	w	ࡴ۬للَّهَ		الله	Allah	l-laha
+9	72:23:9	w	وَرَسُولَهُۥ		ورسوله	and His Messenger	warasūlahu
+9	72:23:10	w	فَإِنَّ		فان	then indeed	fa-inna
+9	72:23:11	w	لَهُۥ		له	for him	lahu
+9	72:23:12	w	نَارَ		نار	(is the) Fire	nāra
+9	72:23:13	w	جَهَنَّمَ		جهنم	(of) Hell	jahannama
+10	72:23:14	w	خَٰلِدِينَ		خلدين	(they will) abide	khālidīna
+10	72:23:15	w	فِيهَآ		فيها	therein	fīhā
+10	72:23:16	w	أَبَداً࣌		ابدا	forever	abadan
+10	72:23:17	e	۝٢٣				
+10	72:24:1	w	حَتَّىٰٓ		حتي	Until	ḥattā
+10	72:24:2	w	إِذَا		اذا	when	idhā
+10	72:24:3	w	رَأَوْاْ		راوا	they see	ra-aw
+10	72:24:4	w	مَا		ما	what	mā
+10	72:24:5	w	يُوعَدُونَ		يوعدون	they are promised	yūʿadūna
+10	72:24:6	w	فَسَيَعْلَمُونَ		فسيعلمون	then they will know	fasayaʿlamūna
+11	72:24:7	w	مَنَ		من	who	man
+11	72:24:8	w	ࡰضْعَفُ		اضعف	(is) weaker	aḍʿafu
+11	72:24:9	w	نَاصِراࣰ		ناصرا	(in) helpers	nāṣiran
+11	72:24:10	w	وَأَقَلُّ		واقل	and fewer	wa-aqallu
+11	72:24:11	w	عَدَداࣰ࣌		عددا	(in) number	ʿadadan
+11	72:24:12	e	۝٢٤				
+11	72:25:1	w	قُلِ		قل	Say	qul
+11	72:25:2	w	ࡴنَ		ان	Not	in
+11	72:25:3	w	ࡰدْرِےٓ		ادري	I know	adrī
+11	72:25:4	w	أَقَرِيبࣱ		اقريب	whether is near	aqarībun
+11	72:25:5	w	مَّا		ما	what	mā
+11	72:25:6	w	تُوعَدُونَ		توعدون	you are promised	tūʿadūna
+12	72:25:7	w	أَمْ		ام	or (whether)	am
+12	72:25:8	w	يَجْعَلُ		يجعل	will appoint	yajʿalu
+12	72:25:9	w	لَهُۥ		له	for it	lahu
+12	72:25:10	w	رَبِّيَ		ربي	my Lord	rabbī
+12	72:25:11	w	أَمَداً࣌		امدا	a (distant) term	amadan
+12	72:25:12	e	۝٢٥				
+12	72:26:1	w	عَٰلِمُ		علم	(The) All-Knower	ʿālimu
+12	72:26:2	w	ࡲ۬لْغَيْبِ		الغيب	(of) the unseen	l-ghaybi
+12	72:26:3	w	فَلَا		فلا	so not	falā
+12	72:26:4	w	يُظْهِرُ		يظهر	He reveals	yuẓ'hiru
+12	72:26:5	w	عَلَىٰ		علي	from	ʿalā
+12	72:26:6	w	غَيْبِهِۦٓ		غيبهي	His unseen	ghaybihi
+13	72:26:7	w	أَحَداً		احدا	(to) anyone	aḥadan
+13	72:26:8	e	۝٢٦				
+13	72:27:1	w	ࡴلَّا		الا	Except	illā
+13	72:27:2	w	مَنِ		من	whom	mani
+13	72:27:3	w	ࡴٜرْتَضٜىٰ		ارتضي	He has approved	ir'taḍā
+13	72:27:4	w	مِن		من	of	min
+13	72:27:5	w	رَّسُولࣲ		رسول	a Messenger	rasūlin
+13	72:27:6	w	فَإِنَّهُۥ		فانه	and indeed, He	fa-innahu
+13	72:27:7	w	يَسْلُكُ		يسلك	makes to march	yasluku
+13	72:27:8	w	مِنۢ		من	from	min
+13	72:27:9	w	بَيْنِ		بين	before	bayni
+14	72:27:10	w	يَدَيْهِ		يديه	him	yadayhi
+14	72:27:11	w	وَمِنْ		ومن	and from	wamin
+14	72:27:12	w	خَلْفِهِۦ		خلفهي	behind him	khalfihi
+14	72:27:13	w	رَصَداࣰ		رصدا	a guard	raṣadan
+14	72:27:14	e	۝٢٧				
+14	72:28:1	w	لِّيَعْلَمَ		ليعلم	That He may make evident	liyaʿlama
+14	72:28:2	w	أَن		ان	that	an
+14	72:28:3	w	قَدَ		قد	indeed	qad
+14	72:28:4	w	ࡰبْلَغُواْ		ابلغوا	they have conveyed	ablaghū
+14	72:28:5	w	رِسَٰلَٰتِ		رسلت	(the) Messages	risālāti
+15	72:28:6	w	رَبِّهِمْ		ربهم	(of) their Lord	rabbihim
+15	72:28:7	w	وَأَحَاطَ		واحاط	and He has encompassed	wa-aḥāṭa
+15	72:28:8	w	بِمَا		بما	what	bimā
+15	72:28:9	w	لَدَيْهِمْ		لديهم	(is) with them	ladayhim
+15	72:28:10	w	وَأَحْصٜىٰ		واحصي	and He takes account	wa-aḥṣā
+15	72:28:11	w	كُلَّ		كل	(of) all	kulla
+15	72:28:12	w	شَےْءٍ		شي	things	shayin
+15	72:28:13	w	عَدَداࣰ࣌		عددا	(in) number	ʿadadan
+15	72:28:14	e	۝٢٨				

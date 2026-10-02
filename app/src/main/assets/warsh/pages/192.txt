@@ -1,0 +1,117 @@
+1	9:32:1	w	يُرِيدُونَ		يريدون	They want	yurīdūna
+1	9:32:2	w	أَنْ		ان	to	an
+1	9:32:3	w	يُّطْفِـُٔواْ		يطفوا	extinguish	yuṭ'fiū
+1	9:32:4	w	نُورَ		نور	Allah's light	nūra
+1	9:32:5	w	ࡰ۬للَّهِ		الله	Allah's light	l-lahi
+1	9:32:6	w	بِأَفْوَٰهِهِمْ		بافوههم	with their mouths	bi-afwāhihim
+1	9:32:7	w	وَيَابَى		ويابي	but Allah refuses	wayabā
+1	9:32:8	w	ࡰ۬للَّهُ		الله	but Allah refuses	l-lahu
+1	9:32:9	w	إِلَّآ		الا	except	illā
+1	9:32:10	w	أَنْ		ان	to	an
+2	9:32:11	w	يُّتِمَّ		يتم	perfect	yutimma
+2	9:32:12	w	نُورَهُۥ		نوره	His Light	nūrahu
+2	9:32:13	w	وَلَوْ		ولو	even if	walaw
+2	9:32:14	w	كَرِهَ		كره	the disbelievers dislike (it)	kariha
+2	9:32:15	w	ࡰ۬لْكَٰفِرُونَ࣌		الكفرون	the disbelievers dislike (it)	l-kāfirūna
+2	9:32:16	e	۝٣٢				
+2	9:33:1	w	هُوَ		هو	He	huwa
+2	9:33:2	w	ࡰ۬لذِےٓ		الذي	(is) the One Who	alladhī
+2	9:33:3	w	أَرْسَلَ		ارسل	has sent	arsala
+3	9:33:4	w	رَسُولَهُۥ		رسوله	His Messenger	rasūlahu
+3	9:33:5	w	بِالْهُدٜىٰ		بالهدي	with the guidance	bil-hudā
+3	9:33:6	w	وَدِينِ		ودين	and the religion	wadīni
+3	9:33:7	w	ࡴ۬لْحَقِّ		الحق	(of) [the] truth	l-ḥaqi
+3	9:33:8	w	لِيُظْهِرَهُۥ		ليظهره	to manifest it	liyuẓ'hirahu
+3	9:33:9	w	عَلَى		علي	over	ʿalā
+3	9:33:10	w	ࡰ۬لدِّينِ		الدين	all religions	l-dīni
+4	9:33:11	w	كُلِّهِۦ		كلهي	all religions	kullihi
+4	9:33:12	w	وَلَوْ		ولو	Even if	walaw
+4	9:33:13	w	كَرِهَ		كره	dislike (it)	kariha
+4	9:33:14	w	ࡰ۬لْمُشْرِكُونَ࣌		المشركون	the polytheists	l-mush'rikūna
+4	9:33:15	e	۝٣٣				
+4	9:34:1	w	۞ يَٰٓأَيُّهَا		يايها	O you who believe	yāayyuhā
+4	9:34:2	w	ࡰ۬لذِينَ		الذين	O you who believe	alladhīna
+5	9:34:3	w	ءَامَنُوٓاْ		امنوا	O you who believe	āmanū
+5	9:34:4	w	إِنَّ		ان	Indeed	inna
+5	9:34:5	w	كَثِيراࣰ		كثيرا	many	kathīran
+5	9:34:6	w	مِّنَ		من	of	mina
+5	9:34:7	w	ࡰ۬لَاحْبٜارِ		الاحبار	the rabbis	l-aḥbāri
+5	9:34:8	w	وَالرُّهْبَانِ		والرهبان	and the monks	wal-ruh'bāni
+5	9:34:9	w	لَيَاكُلُونَ		لياكلون	surely eat	layakulūna
+6	9:34:10	w	أَمْوَٰلَ		امول	(the) wealth	amwāla
+6	9:34:11	w	ࡰ۬لنَّاسِ		الناس	(of) the people	l-nāsi
+6	9:34:12	w	بِالْبَٰطِلِ		بالبطل	in falsehood	bil-bāṭili
+6	9:34:13	w	وَيَصُدُّونَ		ويصدون	and hinder	wayaṣuddūna
+6	9:34:14	w	عَن		عن	from	ʿan
+6	9:34:15	w	سَبِيلِ		سبيل	(the) way	sabīli
+6	9:34:16	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+7	9:34:17	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+7	9:34:18	w	يَكْنِزُونَ		يكنزون	hoard	yaknizūna
+7	9:34:19	w	ࡰ۬لذَّهَبَ		الذهب	the gold	l-dhahaba
+7	9:34:20	w	وَالْفِضَّةَ		والفضة	and the silver	wal-fiḍata
+7	9:34:21	w	وَلَا		ولا	and (do) not	walā
+7	9:34:22	w	يُنفِقُونَهَا		ينفقونها	spend it	yunfiqūnahā
+7	9:34:23	w	فِے		في	in	fī
+8	9:34:24	w	سَبِيلِ		سبيل	(the) way	sabīli
+8	9:34:25	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+8	9:34:26	w	فَبَشِّرْهُم		فبشرهم	[so] give them tidings	fabashir'hum
+8	9:34:27	w	بِعَذَابٍ		بعذاب	of a punishment	biʿadhābin
+8	9:34:28	w	ࡰلِيمࣲ࣌		اليم	painful	alīmin
+8	9:34:29	e	۝٣٤				
+8	9:35:1	w	يَوْمَ		يوم	(The) Day	yawma
+8	9:35:2	w	يُحْمٜىٰ		يحمي	it will be heated [on it]	yuḥ'mā
+8	9:35:3	w	عَلَيْهَا		عليها	it will be heated [on it]	ʿalayhā
+9	9:35:4	w	فِے		في	in	fī
+9	9:35:5	w	نٜارِ		نار	the Fire	nāri
+9	9:35:6	w	جَهَنَّمَ		جهنم	(of) Hell	jahannama
+9	9:35:7	w	فَتُكْوٜىٰ		فتكوي	and will be branded	fatuk'wā
+9	9:35:8	w	بِهَا		بها	with it	bihā
+9	9:35:9	w	جِبَاهُهُمْ		جباههم	their foreheads	jibāhuhum
+9	9:35:10	w	وَجُنُوبُهُمْ		وجنوبهم	and their flanks	wajunūbuhum
+10	9:35:11	w	وَظُهُورُهُمْ		وظهورهم	and their backs	waẓuhūruhum
+10	9:35:12	w	هَٰذَا		هذا	This	hādhā
+10	9:35:13	w	مَا		ما	(is) what	mā
+10	9:35:14	w	كَنَزْتُمْ		كنزتم	you hoarded	kanaztum
+10	9:35:15	w	لِأَنفُسِكُمْ		لانفسكم	for yourselves	li-anfusikum
+10	9:35:16	w	فَذُوقُواْ		فذوقوا	so taste	fadhūqū
+10	9:35:17	w	مَا		ما	what	mā
+10	9:35:18	w	كُنتُمْ		كنتم	you used to	kuntum
+11	9:35:19	w	تَكْنِزُونَ࣌		تكنزون	hoard	taknizūna
+11	9:35:20	e	۝٣٥				
+11	9:36:1	w	إِنَّ		ان	Indeed	inna
+11	9:36:2	w	عِدَّةَ		عدة	(the) number	ʿiddata
+11	9:36:3	w	ࡰ۬لشُّهُورِ		الشهور	(of) the months	l-shuhūri
+11	9:36:4	w	عِندَ		عند	with	ʿinda
+11	9:36:5	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+11	9:36:6	w	ࡴٜثْنَا		اثنا	(is) twelve	ith'nā
+11	9:36:7	w	عَشَرَ		عشر	(is) twelve	ʿashara
+12	9:36:8	w	شَهْراࣰ		شهرا	months	shahran
+12	9:36:9	w	فِے		في	in	fī
+12	9:36:10	w	كِتَٰبِ		كتب	(the) ordinance	kitābi
+12	9:36:11	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+12	9:36:12	w	يَوْمَ		يوم	(from the) Day	yawma
+12	9:36:13	w	خَلَقَ		خلق	He created	khalaqa
+12	9:36:14	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+12	9:36:15	w	وَالَارْضَ࣌		والارض	and the earth	wal-arḍa
+12	9:36:16	w	مِنْهَآ		منها	of them	min'hā
+13	9:36:17	w	أَرْبَعَةٌ		اربعة	four	arbaʿatun
+13	9:36:18	w	حُرُمࣱ࣌		حرم	(are) sacred	ḥurumun
+13	9:36:19	w	ذَٰلِكَ		ذلك	That	dhālika
+13	9:36:20	w	ࡰ۬لدِّينُ		الدين	(is) the religion	l-dīnu
+13	9:36:21	w	ࡲ۬لْقَيِّمُ࣌		القيم	the upright	l-qayimu
+13	9:36:22	w	فَلَا		فلا	so (do) not	falā
+13	9:36:23	w	تَظْلِمُواْ		تظلموا	wrong	taẓlimū
+13	9:36:24	w	فِيهِنَّ		فيهن	therein	fīhinna
+14	9:36:25	w	أَنفُسَكُمْ࣌		انفسكم	yourselves	anfusakum
+14	9:36:26	w	وَقَٰتِلُواْ		وقتلوا	And fight	waqātilū
+14	9:36:27	w	ࡲ۬لْمُشْرِكِينَ		المشركين	the polytheists	l-mush'rikīna
+14	9:36:28	w	كَآفَّةࣰ		كافة	all together	kāffatan
+14	9:36:29	w	كَمَا		كما	as	kamā
+15	9:36:30	w	يُقَٰتِلُونَكُمْ		يقتلونكم	they fight you	yuqātilūnakum
+15	9:36:31	w	كَآفَّةࣰ࣌		كافة	all together	kāffatan
+15	9:36:32	w	وَاعْلَمُوٓاْ		واعلموا	And know	wa-iʿ'lamū
+15	9:36:33	w	أَنَّ		ان	that	anna
+15	9:36:34	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	9:36:35	w	مَعَ		مع	(is) with	maʿa
+15	9:36:36	w	ࡰ۬لْمُتَّقِينَ࣌		المتقين	the righteous	l-mutaqīna
+15	9:36:37	e	۝٣٦				

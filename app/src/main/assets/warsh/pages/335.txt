@@ -1,0 +1,123 @@
+1	22:22:1	w	وَهُدُوٓاْ		وهدوا	And they were guided	wahudū
+1	22:22:2	w	إِلَى		الي	to	ilā
+1	22:22:3	w	ࡰ۬لطَّيِّبِ		الطيب	the good	l-ṭayibi
+1	22:22:4	w	مِنَ		من	of	mina
+1	22:22:5	w	ࡰ۬لْقَوْلِ࣌		القول	the speech	l-qawli
+1	22:22:6	w	وَهُدُوٓاْ		وهدوا	and they were guided	wahudū
+1	22:22:7	w	إِلَىٰ		الي	to	ilā
+1	22:22:8	w	صِرَٰطِ		صرط	(the) path	ṣirāṭi
+1	22:22:9	w	ࡴ۬لْحَمِيدِ࣌		الحميد	(of) the Praiseworthy	l-ḥamīdi
+1	22:22:10	e	۝٢٢				
+2	22:23:1	w	إِنَّ		ان	Indeed	inna
+2	22:23:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+2	22:23:3	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+2	22:23:4	w	وَيَصُدُّونَ		ويصدون	and hinder	wayaṣuddūna
+2	22:23:5	w	عَن		عن	from	ʿan
+2	22:23:6	w	سَبِيلِ		سبيل	(the) way	sabīli
+2	22:23:7	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+2	22:23:8	w	وَالْمَسْجِدِ		والمسجد	and Al-Masjid Al-Haraam	wal-masjidi
+3	22:23:9	w	ࡴ۬لْحَرَامِ		الحرام	and Al-Masjid Al-Haraam	l-ḥarāmi
+3	22:23:10	w	ࡴ۬لذِے		الذي	which	alladhī
+3	22:23:11	w	جَعَلْنَٰهُ		جعلنه	We made it	jaʿalnāhu
+3	22:23:12	w	لِلنَّاسِ		للناس	for the mankind	lilnnāsi
+3	22:23:13	w	سَوَآءٌ		سوا	equal	sawāan
+3	22:23:14	w	ࡴ۬لْعَٰكِفُ		العكف	(are) the resident	l-ʿākifu
+3	22:23:15	w	فِيهِ		فيه	therein	fīhi
+3	22:23:16	w	وَالْبَادِۦ࣌		والبادي	and the visitor	wal-bādi
+4	22:23:17	w	وَمَنْ		ومن	and whoever	waman
+4	22:23:18	w	يُّرِدْ		يرد	intends	yurid
+4	22:23:19	w	فِيهِ		فيه	therein	fīhi
+4	22:23:20	w	بِإِلْحَادِۢ		بالحاد	of deviation	bi-il'ḥādin
+4	22:23:21	w	بِظُلْمࣲ		بظلم	(or) wrongdoing	biẓul'min
+4	22:23:22	w	نُّذِقْهُ		نذقه	We will make him taste	nudhiq'hu
+4	22:23:23	w	مِنْ		من	of	min
+4	22:23:24	w	عَذَابٍ		عذاب	a punishment	ʿadhābin
+4	22:23:25	w	ࡰلِيمࣲ࣌		اليم	painful	alīmin
+4	22:23:26	e	۝٢٣				
+5	22:24:1	w	وَإِذْ		واذ	And when	wa-idh
+5	22:24:2	w	بَوَّأْنَا		بوانا	We assigned	bawwanā
+5	22:24:3	w	لِإِبْرَٰهِيمَ		لابرهيم	to Ibrahim	li-ib'rāhīma
+5	22:24:4	w	مَكَانَ		مكان	(the) site	makāna
+5	22:24:5	w	ࡰ۬لْبَيْتِ		البيت	(of) the House	l-bayti
+5	22:24:6	w	أَن		ان	That	an
+5	22:24:7	w	لَّا		لا	(do) not	lā
+5	22:24:8	w	تُشْرِكْ		تشرك	associate	tush'rik
+5	22:24:9	w	بِے		بي	with Me	bī
+6	22:24:10	w	شَيْـٔاࣰ࣌		شيا	anything	shayan
+6	22:24:11	w	وَطَهِّرْ		وطهر	and purify	waṭahhir
+6	22:24:12	w	بَيْتِيَ		بيتي	My House	baytiya
+6	22:24:13	w	لِلطَّآئِفِينَ		للطايفين	for those who circumambulate	lilṭṭāifīna
+6	22:24:14	w	وَالْقَآئِمِينَ		والقايمين	and those who stand	wal-qāimīna
+6	22:24:15	w	وَالرُّكَّعِ		والركع	and those who bow	wal-rukaʿi
+7	22:24:16	w	ࡴ۬لسُّجُودِ࣌		السجود	(and) those who prostrate	l-sujūdi
+7	22:24:17	e	۝٢٤				
+7	22:25:1	w	وَأَذِّن		واذن	And proclaim	wa-adhin
+7	22:25:2	w	فِے		في	to	fī
+7	22:25:3	w	ࡴ۬لنَّاسِ		الناس	[the] mankind	l-nāsi
+7	22:25:4	w	بِالْحَجِّ		بالحج	[of] the Pilgrimage	bil-ḥaji
+7	22:25:5	w	يَاتُوكَ		ياتوك	they will come to you	yatūka
+7	22:25:6	w	رِجَالاࣰ		رجالا	(on) foot	rijālan
+8	22:25:7	w	وَعَلَىٰ		وعلي	and on	waʿalā
+8	22:25:8	w	كُلِّ		كل	every	kulli
+8	22:25:9	w	ضَامِرࣲ		ضامر	lean camel	ḍāmirin
+8	22:25:10	w	يَاتِينَ		ياتين	they will come	yatīna
+8	22:25:11	w	مِن		من	from	min
+8	22:25:12	w	كُلِّ		كل	every	kulli
+8	22:25:13	w	فَجٍّ		فج	mountain highway	fajjin
+8	22:25:14	w	عَمِيقࣲ		عميق	distant	ʿamīqin
+8	22:25:15	e	۝٢٥				
+9	22:26:1	w	لِّيَشْهَدُواْ		ليشهدوا	That they may witness	liyashhadū
+9	22:26:2	w	مَنَٰفِعَ		منفع	benefits	manāfiʿa
+9	22:26:3	w	لَهُمْ		لهم	for them	lahum
+9	22:26:4	w	وَيَذْكُرُواْ		ويذكروا	and mention	wayadhkurū
+9	22:26:5	w	ࡲٜسْمَ		اسم	(the) name	is'ma
+9	22:26:6	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+9	22:26:7	w	فِےٓ		في	on	fī
+9	22:26:8	w	أَيَّامࣲ		ايام	days	ayyāmin
+10	22:26:9	w	مَّعْلُومَٰتٍ		معلومت	known	maʿlūmātin
+10	22:26:10	w	عَلَىٰ		علي	over	ʿalā
+10	22:26:11	w	مَا		ما	what	mā
+10	22:26:12	w	رَزَقَهُم		رزقهم	He has provided them	razaqahum
+10	22:26:13	w	مِّنۢ		من	of	min
+10	22:26:14	w	بَهِيمَةِ		بهيمة	(the) beast	bahīmati
+10	22:26:15	w	ࡴ۬لَانْعَٰمِ࣌		الانعم	(of) cattle	l-anʿāmi
+10	22:26:16	w	فَكُلُواْ		فكلوا	So eat	fakulū
+11	22:26:17	w	مِنْهَا		منها	of them	min'hā
+11	22:26:18	w	وَأَطْعِمُواْ		واطعموا	and feed	wa-aṭʿimū
+11	22:26:19	w	ࡲ۬لْبَآئِسَ		البايس	the miserable	l-bāisa
+11	22:26:20	w	ࡰ۬لْفَقِيرَ࣌		الفقير	the poor	l-faqīra
+11	22:26:21	e	۝٢٦				
+11	22:27:1	w	ثُمَّ		ثم	Then	thumma
+11	22:27:2	w	لِيَقْضُواْ		ليقضوا	let them end	l'yaqḍū
+12	22:27:3	w	تَفَثَهُمْ		تفثهم	their prescribed duties	tafathahum
+12	22:27:4	w	وَلْيُوفُواْ		وليوفوا	and fulfil	walyūfū
+12	22:27:5	w	نُذُورَهُمْ		نذورهم	their vows	nudhūrahum
+12	22:27:6	w	وَلْيَطَّوَّفُواْ		وليطوفوا	and circumambulate	walyaṭṭawwafū
+12	22:27:7	w	بِالْبَيْتِ		بالبيت	the House	bil-bayti
+12	22:27:8	w	ࡴ۬لْعَتِيقِ࣌		العتيق	[the] Ancient	l-ʿatīqi
+12	22:27:9	e	۝٢٧				
+13	22:28:1	w	۞ ذَٰلِكَ࣌		ذلك	That	dhālika
+13	22:28:2	w	وَمَنْ		ومن	and whoever	waman
+13	22:28:3	w	يُّعَظِّمْ		يعظم	honors	yuʿaẓẓim
+13	22:28:4	w	حُرُمَٰتِ		حرمت	(the) sacred rites	ḥurumāti
+13	22:28:5	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+13	22:28:6	w	فَهُوَ		فهو	then it	fahuwa
+13	22:28:7	w	خَيْرࣱ		خير	(is) best	khayrun
+13	22:28:8	w	لَّهُۥ		له	for him	lahu
+13	22:28:9	w	عِندَ		عند	near	ʿinda
+14	22:28:10	w	رَبِّهِۦ࣌		ربهي	his Lord	rabbihi
+14	22:28:11	w	وَأُحِلَّتْ		واحلت	And are made lawful	wa-uḥillat
+14	22:28:12	w	لَكُمُ		لكم	to you	lakumu
+14	22:28:13	w	ࡲ۬لَانْعَٰمُ		الانعم	the cattle	l-anʿāmu
+14	22:28:14	w	إِلَّا		الا	except	illā
+14	22:28:15	w	مَا		ما	what	mā
+14	22:28:16	w	يُتْلٜىٰ		يتلي	is recited	yut'lā
+14	22:28:17	w	عَلَيْكُمْ࣌		عليكم	to you	ʿalaykum
+15	22:28:18	w	فَاجْتَنِبُواْ		فاجتنبوا	So avoid	fa-ij'tanibū
+15	22:28:19	w	ࡲ۬لرِّجْسَ		الرجس	the abomination	l-rij'sa
+15	22:28:20	w	مِنَ		من	of	mina
+15	22:28:21	w	ࡰ۬لَاوْثَٰنِ		الاوثن	the idols	l-awthāni
+15	22:28:22	w	وَاجْتَنِبُواْ		واجتنبوا	and avoid	wa-ij'tanibū
+15	22:28:23	w	قَوْلَ		قول	(the) word	qawla
+15	22:28:24	w	ࡰ۬لزُّورِ		الزور	false	l-zūri
+15	22:28:25	e	۝٢٨				

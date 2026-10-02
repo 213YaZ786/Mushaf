@@ -1,0 +1,155 @@
+1	6:29:1	w	بَلْ		بل	Nay	bal
+1	6:29:2	w	بَدَا		بدا	became manifest	badā
+1	6:29:3	w	لَهُم		لهم	for them	lahum
+1	6:29:4	w	مَّا		ما	what	mā
+1	6:29:5	w	كَانُواْ		كانوا	they used to	kānū
+1	6:29:6	w	يُخْفُونَ		يخفون	conceal	yukh'fūna
+1	6:29:7	w	مِن		من	from	min
+1	6:29:8	w	قَبْلُ࣌		قبل	before	qablu
+1	6:29:9	w	وَلَوْ		ولو	And if	walaw
+1	6:29:10	w	رُدُّواْ		ردوا	they were sent back	ruddū
+1	6:29:11	w	لَعَادُواْ		لعادوا	certainly they (would) return	laʿādū
+1	6:29:12	w	لِمَا		لما	to what	limā
+1	6:29:13	w	نُهُواْ		نهوا	they were forbidden	nuhū
+1	6:29:14	w	عَنْهُ࣌		عنه	from it	ʿanhu
+2	6:29:15	w	وَإِنَّهُمْ		وانهم	and indeed they	wa-innahum
+2	6:29:16	w	لَكَٰذِبُونَ࣌		لكذبون	certainly are liars	lakādhibūna
+2	6:29:17	e	۝٢٩				
+2	6:30:1	w	وَقَالُوٓاْ		وقالوا	And they said	waqālū
+2	6:30:2	w	إِنْ		ان	Not	in
+2	6:30:3	w	هِيَ		هي	it (is)	hiya
+2	6:30:4	w	إِلَّا		الا	except	illā
+2	6:30:5	w	حَيَاتُنَا		حياتنا	our life	ḥayātunā
+2	6:30:6	w	ࡰ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+2	6:30:7	w	وَمَا		وما	and not	wamā
+2	6:30:8	w	نَحْنُ		نحن	we	naḥnu
+3	6:30:9	w	بِمَبْعُوثِينَ࣌		بمبعوثين	(will be) resurrected	bimabʿūthīna
+3	6:30:10	e	۝٣٠				
+3	6:31:1	w	وَلَوْ		ولو	And if	walaw
+3	6:31:2	w	تَرٜىٰٓ		تري	you (could) see	tarā
+3	6:31:3	w	إِذْ		اذ	when	idh
+3	6:31:4	w	وُقِفُواْ		وقفوا	they will be made to stand	wuqifū
+3	6:31:5	w	عَلَىٰ		علي	before	ʿalā
+3	6:31:6	w	رَبِّهِمْ		ربهم	their Lord	rabbihim
+3	6:31:7	w	قَالَ		قال	He (will) say	qāla
+3	6:31:8	w	أَلَيْسَ		اليس	Is not	alaysa
+3	6:31:9	w	هَٰذَا		هذا	this	hādhā
+4	6:31:10	w	بِالْحَقِّ࣌		بالحق	the truth	bil-ḥaqi
+4	6:31:11	w	قَالُواْ		قالوا	They will say	qālū
+4	6:31:12	w	بَلٜىٰ		بلي	Yes	balā
+4	6:31:13	w	وَرَبِّنَا࣌		وربنا	by our Lord	warabbinā
+4	6:31:14	w	قَالَ		قال	He (will) say	qāla
+4	6:31:15	w	فَذُوقُواْ		فذوقوا	So taste	fadhūqū
+4	6:31:16	w	ࡲ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+4	6:31:17	w	بِمَا		بما	because	bimā
+4	6:31:18	w	كُنتُمْ		كنتم	you used to	kuntum
+4	6:31:19	w	تَكْفُرُونَ࣌		تكفرون	disbelieve	takfurūna
+4	6:31:20	e	۝٣١				
+5	6:32:1	w	قَدْ		قد	Indeed	qad
+5	6:32:2	w	خَسِرَ		خسر	incurred loss	khasira
+5	6:32:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	6:32:4	w	كَذَّبُواْ		كذبوا	denied	kadhabū
+5	6:32:5	w	بِلِقَآءِ		بلقا	in (the) meeting	biliqāi
+5	6:32:6	w	ࡴ۬للَّهِ		الله	(with) Allah	l-lahi
+5	6:32:7	w	حَتَّىٰٓ		حتي	until	ḥattā
+5	6:32:8	w	إِذَا		اذا	when	idhā
+5	6:32:9	w	جَآءَتْهُمُ		جاتهم	came to them	jāathumu
+5	6:32:10	w	ࡲ۬لسَّاعَةُ		الساعة	the Hour	l-sāʿatu
+6	6:32:11	w	بَغْتَةࣰ		بغتة	suddenly	baghtatan
+6	6:32:12	w	قَالُواْ		قالوا	they said	qālū
+6	6:32:13	w	يَٰحَسْرَتَنَا		يحسرتنا	Oh! Our regret	yāḥasratanā
+6	6:32:14	w	عَلَىٰ		علي	over	ʿalā
+6	6:32:15	w	مَا		ما	what	mā
+6	6:32:16	w	فَرَّطْنَا		فرطنا	we neglected	farraṭnā
+6	6:32:17	w	فِيهَا		فيها	concerning it	fīhā
+6	6:32:18	w	وَهُمْ		وهم	while they	wahum
+6	6:32:19	w	يَحْمِلُونَ		يحملون	will bear	yaḥmilūna
+6	6:32:20	w	أَوْزَارَهُمْ		اوزارهم	their burdens	awzārahum
+7	6:32:21	w	عَلَىٰ		علي	on	ʿalā
+7	6:32:22	w	ظُهُورِهِمُۥٓ࣌		ظهورهم	their backs	ẓuhūrihim
+7	6:32:23	w	أَلَا		الا	Unquestionably	alā
+7	6:32:24	w	سَآءَ		سا	Evil	sāa
+7	6:32:25	w	مَا		ما	(is) what	mā
+7	6:32:26	w	يَزِرُونَ࣌		يزرون	they bear	yazirūna
+7	6:32:27	e	۝٣٢				
+7	6:33:1	w	وَمَا		وما	And not	wamā
+7	6:33:2	w	ࡰ۬لْحَيَوٰةُ		الحيوة	(is) the life	l-ḥayatu
+7	6:33:3	w	ࡲ۬لدُّنْيٜآ		الدنيا	(of) the world	l-dun'yā
+7	6:33:4	w	إِلَّا		الا	except	illā
+7	6:33:5	w	لَعِبࣱ		لعب	a play	laʿibun
+8	6:33:6	w	وَلَهْوࣱ࣌		ولهو	and amusement	walahwun
+8	6:33:7	w	وَلَلدَّارُ		وللدار	but the home	walalddāru
+8	6:33:8	w	ࡲ۬لَاخِرَةُ		الاخرة	(of) the Hereafter	l-ākhiratu
+8	6:33:9	w	خَيْرࣱ		خير	(is) best	khayrun
+8	6:33:10	w	لِّلذِينَ		للذين	for those who	lilladhīna
+8	6:33:11	w	يَتَّقُونَ࣌		يتقون	(are) God conscious	yattaqūna
+8	6:33:12	w	أَفَلَا		افلا	Then not	afalā
+8	6:33:13	w	تَعْقِلُونَ࣌		تعقلون	(will) you reason	taʿqilūna
+8	6:33:14	e	۝٣٣				
+9	6:34:1	w	قَدْ		قد	Indeed	qad
+9	6:34:2	w	نَعْلَمُ		نعلم	We know	naʿlamu
+9	6:34:3	w	إِنَّهُۥ		انه	that it	innahu
+9	6:34:4	w	لَيُحْزِنُكَ		ليحزنك	grieves you	layaḥzunuka
+9	6:34:5	w	ࡰ۬لذِے		الذي	what	alladhī
+9	6:34:6	w	يَقُولُونَ࣌		يقولون	they say	yaqūlūna
+9	6:34:7	w	فَإِنَّهُمْ		فانهم	And indeed, they	fa-innahum
+9	6:34:8	w	لَا		لا	(do) not	lā
+9	6:34:9	w	يُكْذِبُونَكَ࣌		يكذبونك	deny you	yukadhibūnaka
+10	6:34:10	w	وَلَٰكِنَّ		ولكن	but	walākinna
+10	6:34:11	w	ࡰ۬لظَّٰلِمِينَ		الظلمين	the wrongdoers	l-ẓālimīna
+10	6:34:12	w	بِـَٔايَٰتِ		بايت	the Verses	biāyāti
+10	6:34:13	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+10	6:34:14	w	يَجْحَدُونَ࣌		يجحدون	they reject	yajḥadūna
+10	6:34:15	e	۝٣٤				
+10	6:35:1	w	وَلَقَدْ		ولقد	And surely	walaqad
+10	6:35:2	w	كُذِّبَتْ		كذبت	were rejected	kudhibat
+11	6:35:3	w	رُسُلࣱ		رسل	Messengers	rusulun
+11	6:35:4	w	مِّن		من	from	min
+11	6:35:5	w	قَبْلِكَ		قبلك	before you	qablika
+11	6:35:6	w	فَصَبَرُواْ		فصبروا	but they were patient	faṣabarū
+11	6:35:7	w	عَلَىٰ		علي	over	ʿalā
+11	6:35:8	w	مَا		ما	what	mā
+11	6:35:9	w	كُذِّبُواْ		كذبوا	they were rejected	kudhibū
+11	6:35:10	w	وَأُوذُواْ		واوذوا	and they were harmed	waūdhū
+11	6:35:11	w	حَتَّىٰٓ		حتي	until	ḥattā
+11	6:35:12	w	أَتٜيٰهُمْ		اتيهم	came to them	atāhum
+11	6:35:13	w	نَصْرُنَا࣌		نصرنا	Our help	naṣrunā
+12	6:35:14	w	وَلَا		ولا	And no	walā
+12	6:35:15	w	مُبَدِّلَ		مبدل	one (can) alter	mubaddila
+12	6:35:16	w	لِكَلِمَٰتِ		لكلمت	(the) words	likalimāti
+12	6:35:17	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+12	6:35:18	w	وَلَقَدْ		ولقد	and surely	walaqad
+12	6:35:19	w	جَآءَكَ		جاك	has come to you	jāaka
+12	6:35:20	w	مِن		من	of	min
+12	6:35:21	w	نَّبَإِےْ		نباي	(the) news	naba-i
+12	6:35:22	w	ࡴ۬لْمُرْسَلِينَ࣌		المرسلين	(of) the Messengers	l-mur'salīna
+12	6:35:23	e	۝٣٥				
+13	6:36:1	w	وَإِن		وان	And if	wa-in
+13	6:36:2	w	كَانَ		كان	is	kāna
+13	6:36:3	w	كَبُرَ		كبر	difficult	kabura
+13	6:36:4	w	عَلَيْكَ		عليك	for you	ʿalayka
+13	6:36:5	w	إِعْرَاضُهُمْ		اعراضهم	their aversion	iʿ'rāḍuhum
+13	6:36:6	w	فَإِنِ		فان	then if	fa-ini
+13	6:36:7	w	ࡴٜسْتَطَعْتَ		استطعت	you are able	is'taṭaʿta
+13	6:36:8	w	أَن		ان	to	an
+13	6:36:9	w	تَبْتَغِيَ		تبتغي	seek	tabtaghiya
+14	6:36:10	w	نَفَقاࣰ		نفقا	a tunnel	nafaqan
+14	6:36:11	w	فِے		في	in	fī
+14	6:36:12	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+14	6:36:13	w	أَوْ		او	or	aw
+14	6:36:14	w	سُلَّماࣰ		سلما	a ladder	sullaman
+14	6:36:15	w	فِے		في	into	fī
+14	6:36:16	w	ࡴ۬لسَّمَآءِ		السما	the sky	l-samāi
+14	6:36:17	w	فَتَاتِيَهُم		فتاتيهم	so that you bring to them	fatatiyahum
+14	6:36:18	w	بِـَٔايَةࣲ࣌		باية	a Sign	biāyatin
+14	6:36:19	w	وَلَوْ		ولو	But if	walaw
+14	6:36:20	w	شَآءَ		شا	(had) willed	shāa
+15	6:36:21	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+15	6:36:22	w	لَجَمَعَهُمْ		لجمعهم	surely He (would) have gathered them	lajamaʿahum
+15	6:36:23	w	عَلَى		علي	on	ʿalā
+15	6:36:24	w	ࡰ۬لْهُدٜىٰ࣌		الهدي	the guidance	l-hudā
+15	6:36:25	w	فَلَا		فلا	So (do) not	falā
+15	6:36:26	w	تَكُونَنَّ		تكونن	be	takūnanna
+15	6:36:27	w	مِنَ		من	of	mina
+15	6:36:28	w	ࡰ۬لْجَٰهِلِينَ࣌		الجهلين	the ignorant	l-jāhilīna
+15	6:36:29	e	۝٣٦				

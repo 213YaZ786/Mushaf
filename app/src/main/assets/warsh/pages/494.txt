@@ -1,0 +1,130 @@
+1	43:61:1	w	وَإِنَّهُۥ		وانه	And indeed, it	wa-innahu
+1	43:61:2	w	لَعِلْمࣱ		لعلم	surely (is) a knowledge	laʿil'mun
+1	43:61:3	w	لِّلسَّاعَةِ		للساعة	of the Hour	lilssāʿati
+1	43:61:4	w	فَلَا		فلا	So (do) not	falā
+1	43:61:5	w	تَمْتَرُنَّ		تمترن	(be) doubtful	tamtarunna
+1	43:61:6	w	بِهَا࣌		بها	about it	bihā
+1	43:61:7	w	وَاتَّبِعُونِ		واتبعون	and follow Me	wa-ittabiʿūni
+1	43:61:8	w	هَٰذَا		هذا	This	hādhā
+1	43:61:9	w	صِرَٰطࣱ		صرط	(is the) Path	ṣirāṭun
+2	43:61:10	w	مُّسْتَقِيمࣱ࣌		مستقيم	Straight	mus'taqīmun
+2	43:61:11	e	۝٦١				
+2	43:62:1	w	وَلَا		ولا	And (let) not	walā
+2	43:62:2	w	يَصُدَّنَّكُمُ		يصدنكم	avert you	yaṣuddannakumu
+2	43:62:3	w	ࡲ۬لشَّيْطَٰنُ࣌		الشيطن	the Shaitaan	l-shayṭānu
+2	43:62:4	w	إِنَّهُۥ		انه	Indeed, he	innahu
+2	43:62:5	w	لَكُمْ		لكم	(is) for you	lakum
+2	43:62:6	w	عَدُوࣱّ		عدو	an enemy	ʿaduwwun
+2	43:62:7	w	مُّبِينࣱ࣌		مبين	clear	mubīnun
+2	43:62:8	e	۝٦٢				
+3	43:63:1	w	۞ وَلَمَّا		ولما	And when	walammā
+3	43:63:2	w	جَآءَ		جا	came	jāa
+3	43:63:3	w	عِيسٜىٰ		عيسي	Isa	ʿīsā
+3	43:63:4	w	بِالْبَيِّنَٰتِ		بالبينت	with clear proofs	bil-bayināti
+3	43:63:5	w	قَالَ		قال	he said	qāla
+3	43:63:6	w	قَدْ		قد	Verily	qad
+3	43:63:7	w	جِئْتُكُم		جيتكم	I have come to you	ji'tukum
+3	43:63:8	w	بِالْحِكْمَةِ		بالحكمة	with wisdom	bil-ḥik'mati
+4	43:63:9	w	وَلِأُبَيِّنَ		ولابين	and that I make clear	wali-ubayyina
+4	43:63:10	w	لَكُم		لكم	to you	lakum
+4	43:63:11	w	بَعْضَ		بعض	some	baʿḍa
+4	43:63:12	w	ࡰ۬لذِے		الذي	(of) that which	alladhī
+4	43:63:13	w	تَخْتَلِفُونَ		تختلفون	you differ	takhtalifūna
+4	43:63:14	w	فِيهِ࣌		فيه	in it	fīhi
+4	43:63:15	w	فَاتَّقُواْ		فاتقوا	So fear	fa-ittaqū
+4	43:63:16	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+4	43:63:17	w	وَأَطِيعُونِ࣌		واطيعون	and obey me	wa-aṭīʿūni
+4	43:63:18	e	۝٦٣				
+5	43:64:1	w	إِنَّ		ان	Indeed	inna
+5	43:64:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	43:64:3	w	هُوَ		هو	He	huwa
+5	43:64:4	w	رَبِّے		ربي	(is) my Lord	rabbī
+5	43:64:5	w	وَرَبُّكُمْ		وربكم	and your Lord	warabbukum
+5	43:64:6	w	فَاعْبُدُوهُ࣌		فاعبدوه	so worship Him	fa-uʿ'budūhu
+5	43:64:7	w	هَٰذَا		هذا	This	hādhā
+5	43:64:8	w	صِرَٰطࣱ		صرط	(is) a Path	ṣirāṭun
+5	43:64:9	w	مُّسْتَقِيمࣱ࣌		مستقيم	Straight	mus'taqīmun
+5	43:64:10	e	۝٦٤				
+6	43:65:1	w	فَاخْتَلَفَ		فاختلف	But differed	fa-ikh'talafa
+6	43:65:2	w	ࡰ۬لَاحْزَابُ		الاحزاب	the factions	l-aḥzābu
+6	43:65:3	w	مِنۢ		من	from	min
+6	43:65:4	w	بَيْنِهِمْ࣌		بينهم	among them	baynihim
+6	43:65:5	w	فَوَيْلࣱ		فويل	so woe	fawaylun
+6	43:65:6	w	لِّلذِينَ		للذين	to those who	lilladhīna
+6	43:65:7	w	ظَلَمُواْ		ظلموا	wronged	ẓalamū
+7	43:65:8	w	مِنْ		من	from	min
+7	43:65:9	w	عَذَابِ		عذاب	(the) punishment	ʿadhābi
+7	43:65:10	w	يَوْمٍ		يوم	(of the) Day	yawmin
+7	43:65:11	w	ࡰلِيمٍ࣌		اليم	painful	alīmin
+7	43:65:12	e	۝٦٥				
+7	43:66:1	w	هَلْ		هل	Are	hal
+7	43:66:2	w	يَنظُرُونَ		ينظرون	they waiting	yanẓurūna
+7	43:66:3	w	إِلَّا		الا	except	illā
+7	43:66:4	w	ࡰ۬لسَّاعَةَ		الساعة	(for) the Hour	l-sāʿata
+7	43:66:5	w	أَن		ان	that	an
+8	43:66:6	w	تَاتِيَهُم		تاتيهم	it should come on them	tatiyahum
+8	43:66:7	w	بَغْتَةࣰ		بغتة	suddenly	baghtatan
+8	43:66:8	w	وَهُمْ		وهم	while they	wahum
+8	43:66:9	w	لَا		لا	(do) not	lā
+8	43:66:10	w	يَشْعُرُونَ࣌		يشعرون	perceive	yashʿurūna
+8	43:66:11	e	۝٦٦				
+8	43:67:1	w	ࡰ۬لَاخِلَّآءُ		الاخلا	Friends	al-akhilāu
+8	43:67:2	w	يَوْمَئِذِۢ		يوميذ	that Day	yawma-idhin
+9	43:67:3	w	بَعْضُهُمْ		بعضهم	some of them	baʿḍuhum
+9	43:67:4	w	لِبَعْضٍ		لبعض	to others	libaʿḍin
+9	43:67:5	w	عَدُوٌّ		عدو	(will be) enemies	ʿaduwwun
+9	43:67:6	w	ࡴلَّا		الا	except	illā
+9	43:67:7	w	ࡰ۬لْمُتَّقِينَ࣌		المتقين	the righteous	l-mutaqīna
+9	43:67:8	e	۝٦٧				
+9	43:68:1	w	يَٰعِبَادِے		يعبادي	O My slaves	yāʿibādi
+9	43:68:2	w	لَا		لا	No	lā
+9	43:68:3	w	خَوْفٌ		خوف	fear	khawfun
+10	43:68:4	w	عَلَيْكُمُ		عليكم	on you	ʿalaykumu
+10	43:68:5	w	ࡲ۬لْيَوْمَ		اليوم	this Day	l-yawma
+10	43:68:6	w	وَلَآ		ولا	and not	walā
+10	43:68:7	w	أَنتُمْ		انتم	you	antum
+10	43:68:8	w	تَحْزَنُونَ࣌		تحزنون	will grieve	taḥzanūna
+10	43:68:9	e	۝٦٨				
+10	43:69:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+10	43:69:2	w	ءَامَنُواْ		امنوا	believed	āmanū
+10	43:69:3	w	بِـَٔايَٰتِنَا		بايتنا	in Our Verses	biāyātinā
+11	43:69:4	w	وَكَانُواْ		وكانوا	and were	wakānū
+11	43:69:5	w	مُسْلِمِينَ		مسلمين	submissive	mus'limīna
+11	43:69:6	e	۝٦٩				
+11	43:70:1	w	ࡸَدْخُلُواْ		ادخلوا	Enter	ud'khulū
+11	43:70:2	w	ࡲ۬لْجَنَّةَ		الجنة	Paradise	l-janata
+11	43:70:3	w	أَنتُمْ		انتم	you	antum
+11	43:70:4	w	وَأَزْوَٰجُكُمْ		وازوجكم	and your spouses	wa-azwājukum
+12	43:70:5	w	تُحْبَرُونَ࣌		تحبرون	delighted	tuḥ'barūna
+12	43:70:6	e	۝٧٠				
+12	43:71:1	w	يُطَافُ		يطاف	Will be circulated	yuṭāfu
+12	43:71:2	w	عَلَيْهِم		عليهم	for them	ʿalayhim
+12	43:71:3	w	بِصِحَافࣲ		بصحاف	plates	biṣiḥāfin
+12	43:71:4	w	مِّن		من	of	min
+12	43:71:5	w	ذَهَبࣲ		ذهب	gold	dhahabin
+12	43:71:6	w	وَأَكْوَابࣲ࣌		واكواب	and cups	wa-akwābin
+13	43:71:7	w	وَفِيهَا		وفيها	And therein	wafīhā
+13	43:71:8	w	مَا		ما	(is) what	mā
+13	43:71:9	w	تَشْتَهِيهِ		تشتهيه	desires	tashtahīhi
+13	43:71:10	w	ࡴ۬لَانفُسُ		الانفس	the souls	l-anfusu
+13	43:71:11	w	وَتَلَذُّ		وتلذ	and delights	wataladhu
+13	43:71:12	w	ࡲ۬لَاعْيُنُ࣌		الاعين	the eyes	l-aʿyunu
+13	43:71:13	w	وَأَنتُمْ		وانتم	and you	wa-antum
+13	43:71:14	w	فِيهَا		فيها	therein	fīhā
+14	43:71:15	w	خَٰلِدُونَ࣌		خلدون	will abide forever	khālidūna
+14	43:71:16	e	۝٧١				
+14	43:72:1	w	وَتِلْكَ		وتلك	And this	watil'ka
+14	43:72:2	w	ࡰ۬لْجَنَّةُ		الجنة	(is) the Paradise	l-janatu
+14	43:72:3	w	ࡲ۬لتِےٓ		التي	which	allatī
+14	43:72:4	w	أُورِثْتُمُوهَا		اورثتموها	you are made to inherit	ūrith'tumūhā
+14	43:72:5	w	بِمَا		بما	for what	bimā
+14	43:72:6	w	كُنتُمْ		كنتم	you used to	kuntum
+15	43:72:7	w	تَعْمَلُونَ࣌		تعملون	do	taʿmalūna
+15	43:72:8	e	۝٧٢				
+15	43:73:1	w	لَكُمْ		لكم	For you	lakum
+15	43:73:2	w	فِيهَا		فيها	therein	fīhā
+15	43:73:3	w	فَٰكِهَةࣱ		فكهة	(are) fruits	fākihatun
+15	43:73:4	w	كَثِيرَةࣱ		كثيرة	abundant	kathīratun
+15	43:73:5	w	مِّنْهَا		منها	from it	min'hā
+15	43:73:6	w	تَاكُلُونَ࣌		تاكلون	you will eat	takulūna
+15	43:73:7	e	۝٧٣				

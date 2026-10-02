@@ -1,0 +1,146 @@
+1	2:29:1	w	وَإِذْ		واذ	And when	wa-idh
+1	2:29:2	w	قَالَ		قال	said	qāla
+1	2:29:3	w	رَبُّكَ		ربك	your Lord	rabbuka
+1	2:29:4	w	لِلْمَلَٰٓئِكَةِ		للمليكة	to the angels	lil'malāikati
+1	2:29:5	w	إِنِّے		اني	Indeed, I (am)	innī
+1	2:29:6	w	جَاعِلࣱ		جاعل	going to place	jāʿilun
+1	2:29:7	w	فِے		في	in	fī
+1	2:29:8	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+1	2:29:9	w	خَلِيفَةࣰ࣌		خليفة	a vicegerent	khalīfatan
+1	2:29:10	w	قَالُوٓاْ		قالوا	they said	qālū
+2	2:29:11	w	أَتَجْعَلُ		اتجعل	Will You place	atajʿalu
+2	2:29:12	w	فِيهَا		فيها	in it	fīhā
+2	2:29:13	w	مَنْ		من	(one) who	man
+2	2:29:14	w	يُّفْسِدُ		يفسد	will spread corruption	yuf'sidu
+2	2:29:15	w	فِيهَا		فيها	in it	fīhā
+2	2:29:16	w	وَيَسْفِكُ		ويسفك	and will shed	wayasfiku
+2	2:29:17	w	ࡲ۬لدِّمَآءَ		الدما	[the] blood[s]	l-dimāa
+2	2:29:18	w	وَنَحْنُ		ونحن	while we	wanaḥnu
+2	2:29:19	w	نُسَبِّحُ		نسبح	[we] glorify (You)	nusabbiḥu
+3	2:29:20	w	بِحَمْدِكَ		بحمدك	with Your praises	biḥamdika
+3	2:29:21	w	وَنُقَدِّسُ		ونقدس	and we sanctify	wanuqaddisu
+3	2:29:22	w	لَكَ࣌		لك	[to] You	laka
+3	2:29:23	w	قَالَ		قال	He said	qāla
+3	2:29:24	w	إِنِّيَ		اني	Indeed, I	innī
+3	2:29:25	w	أَعْلَمُ		اعلم	[I] know	aʿlamu
+3	2:29:26	w	مَا		ما	what	mā
+3	2:29:27	w	لَا		لا	not	lā
+3	2:29:28	w	تَعْلَمُونَ࣌		تعلمون	you know	taʿlamūna
+3	2:29:29	e	۝٢٩				
+4	2:30:1	w	وَعَلَّمَ		وعلم	And He taught	waʿallama
+4	2:30:2	w	ءَادَمَ		ادم	Adam	ādama
+4	2:30:3	w	ࡰ۬لَاسْمَآءَ		الاسما	the names	l-asmāa
+4	2:30:4	w	كُلَّهَا		كلها	all of them	kullahā
+4	2:30:5	w	ثُمَّ		ثم	Then	thumma
+4	2:30:6	w	عَرَضَهُمْ		عرضهم	He displayed them	ʿaraḍahum
+4	2:30:7	w	عَلَى		علي	to	ʿalā
+4	2:30:8	w	ࡰ۬لْمَلَٰٓئِكَةِ		المليكة	the angels	l-malāikati
+4	2:30:9	w	فَقَالَ		فقال	then He said	faqāla
+5	2:30:10	w	أَنۢبِـُٔونِے		انبوني	Inform Me	anbiūnī
+5	2:30:11	w	بِأَسْمَآءِ		باسما	of (the) names	bi-asmāi
+5	2:30:12	w	هَٰٓؤُلَآءِ		هولا	(of) these	hāulāi
+5	2:30:13	w	ان		ان	if	in
+5	2:30:14	w	كُنتُمْ		كنتم	you are	kuntum
+5	2:30:15	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+5	2:30:16	e	۝٣٠				
+5	2:31:1	w	قَالُواْ		قالوا	They said	qālū
+5	2:31:2	w	سُبْحَٰنَكَ		سبحنك	Glory be to You	sub'ḥānaka
+6	2:31:3	w	لَا		لا	No	lā
+6	2:31:4	w	عِلْمَ		علم	knowledge	ʿil'ma
+6	2:31:5	w	لَنَآ		لنا	(is) for us	lanā
+6	2:31:6	w	إِلَّا		الا	except	illā
+6	2:31:7	w	مَا		ما	what	mā
+6	2:31:8	w	عَلَّمْتَنَآ		علمتنا	You have taught us	ʿallamtanā
+6	2:31:9	w	إِنَّكَ		انك	Indeed You	innaka
+6	2:31:10	w	أَنتَ		انت	You	anta
+6	2:31:11	w	ࡰ۬لْعَلِيمُ		العليم	(are) the All-Knowing	l-ʿalīmu
+6	2:31:12	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+6	2:31:13	e	۝٣١				
+6	2:32:1	w	قَالَ		قال	He said	qāla
+6	2:32:2	w	يَٰٓـَٔادَمُ		يادم	O Adam	yāādamu
+7	2:32:3	w	أَنۢبِئْهُم		انبيهم	Inform them	anbi'hum
+7	2:32:4	w	بِأَسْمَآئِهِمْ࣌		باسمايهم	of their names	bi-asmāihim
+7	2:32:5	w	فَلَمَّآ		فلما	And when	falammā
+7	2:32:6	w	أَنۢبَأَهُم		انباهم	he had informed them	anba-ahum
+7	2:32:7	w	بِأَسْمَآئِهِمْ		باسمايهم	of their names	bi-asmāihim
+7	2:32:8	w	قَالَ		قال	He said	qāla
+7	2:32:9	w	أَلَمَ		الم	Did not	alam
+7	2:32:10	w	ࡰقُل		اقل	I say	aqul
+7	2:32:11	w	لَّكُمُۥٓ		لكم	to you	lakum
+8	2:32:12	w	إِنِّيَ		اني	Indeed, I	innī
+8	2:32:13	w	أَعْلَمُ		اعلم	[I] know	aʿlamu
+8	2:32:14	w	غَيْبَ		غيب	(the) unseen	ghayba
+8	2:32:15	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+8	2:32:16	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+8	2:32:17	w	وَأَعْلَمُ		واعلم	and I know	wa-aʿlamu
+8	2:32:18	w	مَا		ما	what	mā
+8	2:32:19	w	تُبْدُونَ		تبدون	you reveal	tub'dūna
+8	2:32:20	w	وَمَا		وما	and what	wamā
+8	2:32:21	w	كُنتُمْ		كنتم	you [were]	kuntum
+9	2:32:22	w	تَكْتُمُونَ࣌		تكتمون	conceal	taktumūna
+9	2:32:23	e	۝٣٢				
+9	2:33:1	w	۞ وَإِذْ		واذ	And when	wa-idh
+9	2:33:2	w	قُلْنَا		قلنا	We said	qul'nā
+9	2:33:3	w	لِلْمَلَٰٓئِكَةِ		للمليكة	to the angels	lil'malāikati
+9	2:33:4	w	ࡴ࢈سْجُدُواْ		اسجدوا	Prostrate	us'judū
+9	2:33:5	w	لِأٓدَمَ		لادم	to Adam	liādama
+9	2:33:6	w	فَسَجَدُوٓاْ࣌		فسجدوا	[so] they prostrated	fasajadū
+10	2:33:7	w	إِلَّآ		الا	except	illā
+10	2:33:8	w	إِبْلِيسَ		ابليس	Iblis	ib'līsa
+10	2:33:9	w	أَبٜىٰ		ابي	He refused	abā
+10	2:33:10	w	وَاسْتَكْبَرَ		واستكبر	and was arrogant	wa-is'takbara
+10	2:33:11	w	وَكَانَ		وكان	and became	wakāna
+10	2:33:12	w	مِنَ		من	of	mina
+10	2:33:13	w	ࡰ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+10	2:33:14	e	۝٣٣				
+10	2:34:1	w	وَقُلْنَا		وقلنا	And We said	waqul'nā
+11	2:34:2	w	يَٰٓـَٔادَمُ		يادم	O Adam	yāādamu
+11	2:34:3	w	ࡲ࢈سْكُنَ		اسكن	Dwell	us'kun
+11	2:34:4	w	ࡰنتَ		انت	you	anta
+11	2:34:5	w	وَزَوْجُكَ		وزوجك	and your spouse	wazawjuka
+11	2:34:6	w	ࡰ۬لْجَنَّةَ		الجنة	(in) Paradise	l-janata
+11	2:34:7	w	وَكُلَا		وكلا	and [you both] eat	wakulā
+11	2:34:8	w	مِنْهَا		منها	from it	min'hā
+11	2:34:9	w	رَغَداً		رغدا	freely	raghadan
+11	2:34:10	w	حَيْثُ		حيث	(from) wherever	ḥaythu
+12	2:34:11	w	شِئْتُمَا࣌		شيتما	you [both] wish	shi'tumā
+12	2:34:12	w	وَلَا		ولا	But do not	walā
+12	2:34:13	w	تَقْرَبَا		تقربا	[you two] approach	taqrabā
+12	2:34:14	w	هَٰذِهِ		هذه	this	hādhihi
+12	2:34:15	w	ࡴ۬لشَّجَرَةَ		الشجرة	[the] tree	l-shajarata
+12	2:34:16	w	فَتَكُونَا		فتكونا	lest you [both] be	fatakūnā
+12	2:34:17	w	مِنَ		من	of	mina
+12	2:34:18	w	ࡰ۬لظَّٰلِمِينَ࣌		الظلمين	the wrongdoers	l-ẓālimīna
+12	2:34:19	e	۝٣٤				
+12	2:35:1	w	فَأَزَلَّهُمَا		فازلهما	Then made [both of] them slip	fa-azallahumā
+13	2:35:2	w	ࡰ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan	l-shayṭānu
+13	2:35:3	w	عَنْهَا		عنها	from it	ʿanhā
+13	2:35:4	w	فَأَخْرَجَهُمَا		فاخرجهما	and he got [both of] them out	fa-akhrajahumā
+13	2:35:5	w	مِمَّا		مما	from what	mimmā
+13	2:35:6	w	كَانَا		كانا	they [both] were	kānā
+13	2:35:7	w	فِيهِ࣌		فيه	in [it]	fīhi
+13	2:35:8	w	وَقُلْنَا		وقلنا	And We said	waqul'nā
+13	2:35:9	w	ࡰٜهْبِطُواْ࣌		اهبطوا	Go down (all of you)	ih'biṭū
+13	2:35:10	w	بَعْضُكُمْ		بعضكم	some of you	baʿḍukum
+14	2:35:11	w	لِبَعْضٍ		لبعض	to others	libaʿḍin
+14	2:35:12	w	عَدُوࣱّ࣌		عدو	(as) enemy	ʿaduwwun
+14	2:35:13	w	وَلَكُمْ		ولكم	and for you	walakum
+14	2:35:14	w	فِے		في	in	fī
+14	2:35:15	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+14	2:35:16	w	مُسْتَقَرࣱّ		مستقر	(is) a dwelling place	mus'taqarrun
+14	2:35:17	w	وَمَتَٰعٌ		ومتع	and a provision	wamatāʿun
+14	2:35:18	w	ࡴلَىٰ		الي	for	ilā
+14	2:35:19	w	حِينࣲ࣌		حين	a period	ḥīnin
+14	2:35:20	e	۝٣٥				
+14	2:36:1	w	فَتَلَقّٜىٰٓ		فتلقي	Then received	fatalaqqā
+15	2:36:2	w	ءَادَمُ		ادم	Adam	ādamu
+15	2:36:3	w	مِن		من	from	min
+15	2:36:4	w	رَّبِّهِۦ		ربهي	his Lord	rabbihi
+15	2:36:5	w	كَلِمَٰتࣲ		كلمت	words	kalimātin
+15	2:36:6	w	فَتَابَ		فتاب	So (his Lord) turned	fatāba
+15	2:36:7	w	عَلَيْهِ࣌		عليه	towards him	ʿalayhi
+15	2:36:8	w	إِنَّهُۥ		انه	Indeed He	innahu
+15	2:36:9	w	هُوَ		هو	He	huwa
+15	2:36:10	w	ࡰ۬لتَّوَّابُ		التواب	(is) the Oft-returning (to mercy)	l-tawābu
+15	2:36:11	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+15	2:36:12	e	۝٣٦				

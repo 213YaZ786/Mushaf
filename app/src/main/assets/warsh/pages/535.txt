@@ -1,0 +1,157 @@
+1	56:19:1	w	يَطُوفُ		يطوف	Will circulate	yaṭūfu
+1	56:19:2	w	عَلَيْهِمْ		عليهم	among them	ʿalayhim
+1	56:19:3	w	وِلْدَٰنࣱ		ولدن	boys	wil'dānun
+1	56:19:4	w	مُّخَلَّدُونَ		مخلدون	immortal	mukhalladūna
+1	56:19:5	e	۝١٩				
+1	56:20:1	w	بِأَكْوَابࣲ		باكواب	With vessels	bi-akwābin
+1	56:20:2	w	وَأَبَارِيقَ		واباريق	and jugs	wa-abārīqa
+1	56:20:3	e	۝٢٠				
+1	56:21:1	w	وَكَأْسࣲ		وكاس	and a cup	wakasin
+2	56:21:2	w	مِّن		من	from	min
+2	56:21:3	w	مَّعِينࣲ		معين	a flowing stream	maʿīnin
+2	56:21:4	e	۝٢١				
+2	56:22:1	w	لَّا		لا	Not	lā
+2	56:22:2	w	يُصَدَّعُونَ		يصدعون	they will get headache	yuṣaddaʿūna
+2	56:22:3	w	عَنْهَا		عنها	therefrom	ʿanhā
+2	56:22:4	w	وَلَا		ولا	and not	walā
+2	56:22:5	w	يُنزَفُونَ		ينزفون	they will get intoxicated	yunzifūna
+2	56:22:6	e	۝٢٢				
+2	56:23:1	w	وَفَٰكِهَةࣲ		وفكهة	And fruits	wafākihatin
+2	56:23:2	w	مِّمَّا		مما	of what	mimmā
+3	56:23:3	w	يَتَخَيَّرُونَ		يتخيرون	they select	yatakhayyarūna
+3	56:23:4	e	۝٢٣				
+3	56:24:1	w	وَلَحْمِ		ولحم	And (the) flesh	walaḥmi
+3	56:24:2	w	طَيْرࣲ		طير	(of) fowls	ṭayrin
+3	56:24:3	w	مِّمَّا		مما	of what	mimmā
+3	56:24:4	w	يَشْتَهُونَ࣌		يشتهون	they desire	yashtahūna
+3	56:24:5	e	۝٢٤				
+3	56:25:1	w	وَحُورٌ		وحور	And fair ones	waḥūrun
+3	56:25:2	w	عِينࣱ		عين	(with) large eyes	ʿīnun
+3	56:25:3	w	كَأَمْثَٰلِ		كامثل	Like	ka-amthāli
+4	56:25:4	w	ࡴ۬للُّؤْلُوِٕ		اللولو	pearls	l-lu'lu-i
+4	56:25:5	w	ࡴ۬لْمَكْنُونِ		المكنون	well-protected	l-maknūni
+4	56:25:6	e	۝٢٥				
+4	56:26:1	w	جَزَآءَۢ		جزا	A reward	jazāan
+4	56:26:2	w	بِمَا		بما	for what	bimā
+4	56:26:3	w	كَانُواْ		كانوا	they used (to)	kānū
+4	56:26:4	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+4	56:26:5	e	۝٢٦				
+4	56:27:1	w	لَا		لا	Not	lā
+4	56:27:2	w	يَسْمَعُونَ		يسمعون	they will hear	yasmaʿūna
+5	56:27:3	w	فِيهَا		فيها	therein	fīhā
+5	56:27:4	w	لَغْواࣰ		لغوا	vain talk	laghwan
+5	56:27:5	w	وَلَا		ولا	and not	walā
+5	56:27:6	w	تَاثِيماً࣌		تاثيما	sinful (speech)	tathīman
+5	56:27:7	e	۝٢٧				
+5	56:28:1	w	ࡴلَّا		الا	Except	illā
+5	56:28:2	w	قِيلاࣰ		قيلا	a saying	qīlan
+5	56:28:3	w	سَلَٰماࣰ		سلما	Peace	salāman
+5	56:28:4	w	سَلَٰماࣰ࣌		سلما	Peace	salāman
+5	56:28:5	e	۝٢٨				
+5	56:29:1	w	وَأَصْحَٰبُ		واصحب	And (the) companions	wa-aṣḥābu
+5	56:29:2	w	ࡲ۬لْيَمِينِ		اليمين	(of) the right	l-yamīni
+5	56:29:3	w	مَآ		ما	what	mā
+6	56:29:4	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+6	56:29:5	w	ࡲ۬لْيَمِينِ࣌		اليمين	(of) the right	l-yamīni
+6	56:29:6	e	۝٢٩				
+6	56:30:1	w	فِے		في	Among	fī
+6	56:30:2	w	سِدْرࣲ		سدر	lote trees	sid'rin
+6	56:30:3	w	مَّخْضُودࣲ		مخضود	thornless	makhḍūdin
+6	56:30:4	e	۝٣٠				
+6	56:31:1	w	وَطَلْحࣲ		وطلح	And banana trees	waṭalḥin
+6	56:31:2	w	مَّنضُودࣲ		منضود	layered	manḍūdin
+6	56:31:3	e	۝٣١				
+6	56:32:1	w	وَظِلࣲّ		وظل	And shade	waẓillin
+7	56:32:2	w	مَّمْدُودࣲ		ممدود	extended	mamdūdin
+7	56:32:3	e	۝٣٢				
+7	56:33:1	w	وَمَآءࣲ		وما	And water	wamāin
+7	56:33:2	w	مَّسْكُوبࣲ		مسكوب	poured forth	maskūbin
+7	56:33:3	e	۝٣٣				
+7	56:34:1	w	وَفَٰكِهَةࣲ		وفكهة	And fruit	wafākihatin
+7	56:34:2	w	كَثِيرَةࣲ		كثيرة	abundant	kathīratin
+7	56:34:3	e	۝٣٤				
+7	56:35:1	w	لَّا		لا	Not	lā
+7	56:35:2	w	مَقْطُوعَةࣲ		مقطوعة	limited	maqṭūʿatin
+8	56:35:3	w	وَلَا		ولا	and not	walā
+8	56:35:4	w	مَمْنُوعَةࣲ		ممنوعة	forbidden	mamnūʿatin
+8	56:35:5	e	۝٣٥				
+8	56:36:1	w	وَفُرُشࣲ		وفرش	And (on) couches	wafurushin
+8	56:36:2	w	مَّرْفُوعَةٍ࣌		مرفوعة	raised	marfūʿatin
+8	56:36:3	e	۝٣٦				
+8	56:37:1	w	ࡴنَّآ		انا	Indeed, We	innā
+8	56:37:2	w	أَنشَأْنَٰهُنَّ		انشانهن	[We] have produced them	anshanāhunna
+8	56:37:3	w	إِنشَآءࣰ		انشا	(into) a creation	inshāan
+8	56:37:4	e	۝٣٧				
+9	56:38:1	w	فَجَعَلْنَٰهُنَّ		فجعلنهن	And We have made them	fajaʿalnāhunna
+9	56:38:2	w	أَبْكَاراً		ابكارا	virgins	abkāran
+9	56:38:3	e	۝٣٨				
+9	56:39:1	w	عُرُباً		عربا	Devoted	ʿuruban
+9	56:39:2	w	ࡰتْرَاباࣰ		اترابا	equals in age	atrāban
+9	56:39:3	e	۝٣٩				
+9	56:40:1	w	لِّأَصْحَٰبِ		لاصحب	For (the) companions	li-aṣḥābi
+9	56:40:2	w	ࡴ۬لْيَمِينِ࣌		اليمين	(of) the right	l-yamīni
+9	56:40:3	e	۝٤٠				
+9	56:41:1	w	ثُلَّةࣱ		ثلة	A company	thullatun
+10	56:41:2	w	مِّنَ		من	of	mina
+10	56:41:3	w	ࡰ۬لَاوَّلِينَ		الاولين	the former people	l-awalīna
+10	56:41:4	e	۝٤١				
+10	56:42:1	w	وَثُلَّةࣱ		وثلة	And a company	wathullatun
+10	56:42:2	w	مِّنَ		من	of	mina
+10	56:42:3	w	ࡰ۬لَاخِرِينَ࣌		الاخرين	the later people	l-ākhirīna
+10	56:42:4	e	۝٤٢				
+10	56:43:1	w	وَأَصْحَٰبُ		واصحب	And (the) companions	wa-aṣḥābu
+10	56:43:2	w	ࡲ۬لشِّمَالِ		الشمال	(of) the left	l-shimāli
+10	56:43:3	e	۝٤٣				
+11	56:44:1	w	مَآ		ما	what	mā
+11	56:44:2	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+11	56:44:3	w	ࡲ۬لشِّمَالِ࣌		الشمال	(of) the left	l-shimāli
+11	56:44:4	e	۝٤٤				
+11	56:45:1	w	فِے		في	In	fī
+11	56:45:2	w	سَمُومࣲ		سموم	scorching fire	samūmin
+11	56:45:3	w	وَحَمِيمࣲ		وحميم	and scalding water	waḥamīmin
+11	56:45:4	e	۝٤٥				
+11	56:46:1	w	وَظِلࣲّ		وظل	And a shade	waẓillin
+11	56:46:2	w	مِّنْ		من	of	min
+11	56:46:3	w	يَّحْمُومࣲ		يحموم	black smoke	yaḥmūmin
+11	56:46:4	e	۝٤٦				
+12	56:47:1	w	لَّا		لا	Not	lā
+12	56:47:2	w	بَارِدࣲ		بارد	cool	bāridin
+12	56:47:3	w	وَلَا		ولا	and not	walā
+12	56:47:4	w	كَرِيمٍ࣌		كريم	pleasant	karīmin
+12	56:47:5	e	۝٤٧				
+12	56:48:1	w	ࡴنَّهُمْ		انهم	Indeed, they	innahum
+12	56:48:2	w	كَانُواْ		كانوا	were	kānū
+12	56:48:3	w	قَبْلَ		قبل	before	qabla
+12	56:48:4	w	ذَٰلِكَ		ذلك	that	dhālika
+12	56:48:5	w	مُتْرَفِينَ࣌		مترفين	indulging in affluence	mut'rafīna
+12	56:48:6	e	۝٤٨				
+12	56:49:1	w	وَكَانُواْ		وكانوا	And were	wakānū
+13	56:49:2	w	يُصِرُّونَ		يصرون	persisting	yuṣirrūna
+13	56:49:3	w	عَلَى		علي	in	ʿalā
+13	56:49:4	w	ࡰ۬لْحِنثِ		الحنث	the sin	l-ḥinthi
+13	56:49:5	w	ࡴ۬لْعَظِيمِ࣌		العظيم	the great	l-ʿaẓīmi
+13	56:49:6	e	۝٤٩				
+13	56:50:1	w	وَكَانُواْ		وكانوا	And they used (to)	wakānū
+13	56:50:2	w	يَقُولُونَ		يقولون	say	yaqūlūna
+13	56:50:3	w	أَئِذَا		ايذا	When	a-idhā
+13	56:50:4	w	مِتْنَا		متنا	we die	mit'nā
+13	56:50:5	w	وَكُنَّا		وكنا	and become	wakunnā
+14	56:50:6	w	تُرَاباࣰ		ترابا	dust	turāban
+14	56:50:7	w	وَعِظَٰماً		وعظما	and bones	waʿiẓāman
+14	56:50:8	w	ࡴنَّا		انا	will we	a-innā
+14	56:50:9	w	لَمَبْعُوثُونَ		لمبعوثون	surely be resurrected	lamabʿūthūna
+14	56:50:10	e	۝٥٠				
+14	56:51:1	w	أَوَءَابَآؤُنَا		اواباونا	And also our fathers	awaābāunā
+14	56:51:2	w	ࡰ۬لَاوَّلُونَ࣌		الاولون	former	l-awalūna
+14	56:51:3	e	۝٥١				
+14	56:52:1	w	۞ قُلِ		قل	Say	qul
+14	56:52:2	w	ࡴنَّ		ان	Indeed	inna
+15	56:52:3	w	ࡰ۬لَاوَّلِينَ		الاولين	the former	l-awalīna
+15	56:52:4	w	وَالَاخِرِينَ		والاخرين	and the later people	wal-ākhirīna
+15	56:52:5	w	لَمَجْمُوعُونَ		لمجموعون	Surely, will be gathered	lamajmūʿūna
+15	56:52:6	e	۝٥٢				
+15	56:53:1	w	إِلَىٰ		الي	for	ilā
+15	56:53:2	w	مِيقَٰتِ		ميقت	(the) appointment	mīqāti
+15	56:53:3	w	يَوْمࣲ		يوم	(of) a Day	yawmin
+15	56:53:4	w	مَّعْلُومࣲ࣌		معلوم	well-known	maʿlūmin
+15	56:53:5	e	۝٥٣				

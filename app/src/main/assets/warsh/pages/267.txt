@@ -1,0 +1,119 @@
+1	15:91:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+1	15:91:2	w	جَعَلُواْ		جعلوا	have made	jaʿalū
+1	15:91:3	w	ࡲ۬لْقُرْءَانَ		القران	the Quran	l-qur'āna
+1	15:91:4	w	عِضِينَ࣌		عضين	(in) parts	ʿiḍīna
+1	15:91:5	e	۝٩١				
+1	15:92:1	w	فَوَرَبِّكَ		فوربك	So by your Lord	fawarabbika
+1	15:92:2	w	لَنَسْـَٔلَنَّهُمُۥٓ		لنسلنهم	surely We will question them	lanasalannahum
+2	15:92:3	w	أَجْمَعِينَ		اجمعين	all	ajmaʿīna
+2	15:92:4	e	۝٩٢				
+2	15:93:1	w	عَمَّا		عما	About what	ʿammā
+2	15:93:2	w	كَانُواْ		كانوا	they used (to)	kānū
+2	15:93:3	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+2	15:93:4	e	۝٩٣				
+2	15:94:1	w	فَاصْدَعْ		فاصدع	So proclaim	fa-iṣ'daʿ
+2	15:94:2	w	بِمَا		بما	of what	bimā
+2	15:94:3	w	تُومَرُ࣌		تومر	you are ordered	tu'maru
+2	15:94:4	w	وَأَعْرِضْ		واعرض	and turn away	wa-aʿriḍ
+3	15:94:5	w	عَنِ		عن	from	ʿani
+3	15:94:6	w	ࡴ۬لْمُشْرِكِينَ࣌		المشركين	the polytheists	l-mush'rikīna
+3	15:94:7	e	۝٩٤				
+3	15:95:1	w	إِنَّا		انا	Indeed, We	innā
+3	15:95:2	w	كَفَيْنَٰكَ		كفينك	[We] are sufficient for you	kafaynāka
+3	15:95:3	w	ࡰ۬لْمُسْتَهْزِءِينَ		المستهزين	(against) the mockers	l-mus'tahziīna
+3	15:95:4	e	۝٩٥				
+3	15:96:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+4	15:96:2	w	يَجْعَلُونَ		يجعلون	set up	yajʿalūna
+4	15:96:3	w	مَعَ		مع	with	maʿa
+4	15:96:4	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+4	15:96:5	w	إِلَٰهاً		الها	god	ilāhan
+4	15:96:6	w	اٰخَرَ࣌		اخر	another	ākhara
+4	15:96:7	w	فَسَوْفَ		فسوف	But soon	fasawfa
+4	15:96:8	w	يَعْلَمُونَ࣌		يعلمون	they will come to know	yaʿlamūna
+4	15:96:9	e	۝٩٦				
+4	15:97:1	w	وَلَقَدْ		ولقد	And verily	walaqad
+4	15:97:2	w	نَعْلَمُ		نعلم	We know	naʿlamu
+5	15:97:3	w	أَنَّكَ		انك	that [you]	annaka
+5	15:97:4	w	يَضِيقُ		يضيق	(is) straitened	yaḍīqu
+5	15:97:5	w	صَدْرُكَ		صدرك	your breast	ṣadruka
+5	15:97:6	w	بِمَا		بما	by what	bimā
+5	15:97:7	w	يَقُولُونَ࣌		يقولون	they say	yaqūlūna
+5	15:97:8	e	۝٩٧				
+5	15:98:1	w	فَسَبِّحْ		فسبح	So glorify	fasabbiḥ
+5	15:98:2	w	بِحَمْدِ		بحمد	with the praise	biḥamdi
+5	15:98:3	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+6	15:98:4	w	وَكُن		وكن	and be	wakun
+6	15:98:5	w	مِّنَ		من	of	mina
+6	15:98:6	w	ࡰ۬لسَّٰجِدِينَ࣌		السجدين	those who prostrate	l-sājidīna
+6	15:98:7	e	۝٩٨				
+6	15:99:1	w	وَاعْبُدْ		واعبد	And worship	wa-uʿ'bud
+6	15:99:2	w	رَبَّكَ		ربك	your Lord	rabbaka
+6	15:99:3	w	حَتَّىٰ		حتي	until	ḥattā
+6	15:99:4	w	يَاتِيَكَ		ياتيك	comes to you	yatiyaka
+6	15:99:5	w	ࡰ۬لْيَقِينُ࣌		اليقين	the certainty	l-yaqīnu
+6	15:99:6	e	۝٩٩				
+7	16:0:0	t					
+8	16:0:0	b					
+9	16:1:1	w	أَتٜىٰٓ		اتي	Will come	atā
+9	16:1:2	w	أَمْرُ		امر	(the) command of Allah	amru
+9	16:1:3	w	ࡲ۬للَّهِ		الله	(the) command of Allah	l-lahi
+9	16:1:4	w	فَلَا		فلا	so (do) not	falā
+9	16:1:5	w	تَسْتَعْجِلُوهُ࣌		تستعجلوه	(be) impatient for it	tastaʿjilūhu
+9	16:1:6	w	سُبْحَٰنَهُۥ		سبحنه	Glorified is He	sub'ḥānahu
+9	16:1:7	w	وَتَعَٰلٜىٰ		وتعلي	and Exalted (is) He	wataʿālā
+9	16:1:8	w	عَمَّا		عما	above what	ʿammā
+9	16:1:9	w	يُشْرِكُونَ࣌		يشركون	they associate	yush'rikūna
+9	16:1:10	e	۝١				
+10	16:2:1	w	يُنَزِّلُ		ينزل	He sends down	yunazzilu
+10	16:2:2	w	ࡲ۬لْمَلَٰٓئِكَةَ		المليكة	the Angels	l-malāikata
+10	16:2:3	w	بِالرُّوحِ		بالروح	with the inspiration	bil-rūḥi
+10	16:2:4	w	مِنَ		من	of	min
+10	16:2:5	w	ࡰمْرِهِۦ		امرهي	His Command	amrihi
+10	16:2:6	w	عَلَىٰ		علي	upon	ʿalā
+10	16:2:7	w	مَنْ		من	whom	man
+10	16:2:8	w	يَّشَآءُ		يشا	He wills	yashāu
+10	16:2:9	w	مِنْ		من	of	min
+11	16:2:10	w	عِبَادِهِۦٓ		عبادهي	His slaves	ʿibādihi
+11	16:2:11	w	أَنَ		ان	that	an
+11	16:2:12	w	ࡰنذِرُوٓاْ		انذروا	Warn	andhirū
+11	16:2:13	w	أَنَّهُۥ		انه	that [He]	annahu
+11	16:2:14	w	لَآ		لا	(there is) no	lā
+11	16:2:15	w	إِلَٰهَ		اله	god	ilāha
+11	16:2:16	w	إِلَّآ		الا	except	illā
+11	16:2:17	w	أَنَا		انا	Me	anā
+11	16:2:18	w	فَاتَّقُونِ࣌		فاتقون	so fear Me	fa-ittaqūni
+11	16:2:19	e	۝٢				
+11	16:3:1	w	خَلَقَ		خلق	He created	khalaqa
+12	16:3:2	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+12	16:3:3	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+12	16:3:4	w	بِالْحَقِّ࣌		بالحق	in truth	bil-ḥaqi
+12	16:3:5	w	تَعَٰلٜىٰ		تعلي	Exalted is He	taʿālā
+12	16:3:6	w	عَمَّا		عما	above what	ʿammā
+12	16:3:7	w	يُشْرِكُونَ࣌		يشركون	they associate	yush'rikūna
+12	16:3:8	e	۝٣				
+12	16:4:1	w	خَلَقَ		خلق	He created	khalaqa
+13	16:4:2	w	ࡰ۬لِانسَٰنَ		الانسن	the human kind	l-insāna
+13	16:4:3	w	مِن		من	from	min
+13	16:4:4	w	نُّطْفَةࣲ		نطفة	a minute quantity of semen	nuṭ'fatin
+13	16:4:5	w	فَإِذَا		فاذا	then behold	fa-idhā
+13	16:4:6	w	هُوَ		هو	he	huwa
+13	16:4:7	w	خَصِيمࣱ		خصيم	(is) an opponent	khaṣīmun
+13	16:4:8	w	مُّبِينࣱ࣌		مبين	clear	mubīnun
+13	16:4:9	e	۝٤				
+13	16:5:1	w	وَالَانْعَٰمَ		والانعم	And the cattle	wal-anʿāma
+14	16:5:2	w	خَلَقَهَا࣌		خلقها	He created them	khalaqahā
+14	16:5:3	w	لَكُمْ		لكم	for you	lakum
+14	16:5:4	w	فِيهَا		فيها	in them	fīhā
+14	16:5:5	w	دِفْءࣱ		دف	(is) warmth	dif'on
+14	16:5:6	w	وَمَنَٰفِعُ		ومنفع	and benefits	wamanāfiʿu
+14	16:5:7	w	وَمِنْهَا		ومنها	and from them	wamin'hā
+14	16:5:8	w	تَاكُلُونَ࣌		تاكلون	you eat	takulūna
+14	16:5:9	e	۝٥				
+15	16:6:1	w	وَلَكُمْ		ولكم	And for you	walakum
+15	16:6:2	w	فِيهَا		فيها	in them	fīhā
+15	16:6:3	w	جَمَالٌ		جمال	(is) beauty	jamālun
+15	16:6:4	w	حِينَ		حين	when	ḥīna
+15	16:6:5	w	تُرِيحُونَ		تريحون	you bring them in	turīḥūna
+15	16:6:6	w	وَحِينَ		وحين	and when	waḥīna
+15	16:6:7	w	تَسْرَحُونَ࣌		تسرحون	you take them out	tasraḥūna
+15	16:6:8	e	۝٦				

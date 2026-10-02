@@ -1,0 +1,129 @@
+1	57:24:1	w	لَقَدَ		لقد	Certainly	laqad
+1	57:24:2	w	ࡰرْسَلْنَا		ارسلنا	We sent	arsalnā
+1	57:24:3	w	رُسُلَنَا		رسلنا	Our Messengers	rusulanā
+1	57:24:4	w	بِالْبَيِّنَٰتِ		بالبينت	with clear proofs	bil-bayināti
+1	57:24:5	w	وَأَنزَلْنَا		وانزلنا	and We sent down	wa-anzalnā
+1	57:24:6	w	مَعَهُمُ		معهم	with them	maʿahumu
+1	57:24:7	w	ࡲ۬لْكِتَٰبَ		الكتب	the Scripture	l-kitāba
+2	57:24:8	w	وَالْمِيزَانَ		والميزان	and the Balance	wal-mīzāna
+2	57:24:9	w	لِيَقُومَ		ليقوم	that may establish	liyaqūma
+2	57:24:10	w	ࡰ۬لنَّاسُ		الناس	the people	l-nāsu
+2	57:24:11	w	بِالْقِسْطِ࣌		بالقسط	justice	bil-qis'ṭi
+2	57:24:12	w	وَأَنزَلْنَا		وانزلنا	And We sent down	wa-anzalnā
+2	57:24:13	w	ࡰ۬لْحَدِيدَ		الحديد	[the] iron	l-ḥadīda
+2	57:24:14	w	فِيهِ		فيه	wherein	fīhi
+3	57:24:15	w	بَأْسࣱ		باس	(is) power	basun
+3	57:24:16	w	شَدِيدࣱ		شديد	mighty	shadīdun
+3	57:24:17	w	وَمَنَٰفِعُ		ومنفع	and benefits	wamanāfiʿu
+3	57:24:18	w	لِلنَّاسِ࣌		للناس	for the people	lilnnāsi
+3	57:24:19	w	وَلِيَعْلَمَ		وليعلم	and so that Allah may make evident	waliyaʿlama
+3	57:24:20	w	ࡰ۬للَّهُ		الله	and so that Allah may make evident	l-lahu
+3	57:24:21	w	مَنْ		من	(he) who	man
+3	57:24:22	w	يَّنصُرُهُۥ		ينصره	helps Him	yanṣuruhu
+3	57:24:23	w	وَرُسُلَهُۥ		ورسله	and His Messengers	warusulahu
+4	57:24:24	w	بِالْغَيْبِ࣌		بالغيب	unseen	bil-ghaybi
+4	57:24:25	w	إِنَّ		ان	Indeed	inna
+4	57:24:26	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	57:24:27	w	قَوِيٌّ		قوي	(is) All-Strong	qawiyyun
+4	57:24:28	w	عَزِيزࣱ࣌		عزيز	All-Mighty	ʿazīzun
+4	57:24:29	e	۝٢٤				
+4	57:25:1	w	وَلَقَدَ		ولقد	And certainly	walaqad
+4	57:25:2	w	ࡰرْسَلْنَا		ارسلنا	We sent	arsalnā
+4	57:25:3	w	نُوحاࣰ		نوحا	Nuh	nūḥan
+4	57:25:4	w	وَإِبْرَٰهِيمَ		وابرهيم	and Ibrahim	wa-ib'rāhīma
+5	57:25:5	w	وَجَعَلْنَا		وجعلنا	and We placed	wajaʿalnā
+5	57:25:6	w	فِے		في	in	fī
+5	57:25:7	w	ذُرِّيَّتِهِمَا		ذريتهما	their offspring	dhurriyyatihimā
+5	57:25:8	w	ࡰ۬لنُّبُوٓءَةَ		النبوة	Prophethood	l-nubuwata
+5	57:25:9	w	وَالْكِتَٰبَ࣌		والكتب	and the Scripture	wal-kitāba
+5	57:25:10	w	فَمِنْهُم		فمنهم	and among them	famin'hum
+5	57:25:11	w	مُّهْتَدࣲ࣌		مهتد	(is) a guided one	muh'tadin
+6	57:25:12	w	وَكَثِيرࣱ		وكثير	but most	wakathīrun
+6	57:25:13	w	مِّنْهُمْ		منهم	of them	min'hum
+6	57:25:14	w	فَٰسِقُونَ࣌		فسقون	(are) defiantly disobediently	fāsiqūna
+6	57:25:15	e	۝٢٥				
+6	57:26:1	w	ثُمَّ		ثم	Then	thumma
+6	57:26:2	w	قَفَّيْنَا		قفينا	We sent	qaffaynā
+6	57:26:3	w	عَلَىٰٓ		علي	on	ʿalā
+6	57:26:4	w	ءَاثٜـٰرِهِم		اثرهم	their footsteps	āthārihim
+7	57:26:5	w	بِرُسُلِنَا		برسلنا	Our Messengers	birusulinā
+7	57:26:6	w	وَقَفَّيْنَا		وقفينا	and We followed	waqaffaynā
+7	57:26:7	w	بِعِيسَى		بعيسي	with Isa	biʿīsā
+7	57:26:8	w	ࡰٜبْنِ		ابن	son	ib'ni
+7	57:26:9	w	مَرْيَمَ		مريم	(of) Maryam	maryama
+7	57:26:10	w	وَءَاتَيْنَٰهُ		واتينه	and We gave him	waātaynāhu
+7	57:26:11	w	ࡲ۬لِانجِيلَ࣌		الانجيل	the Injeel	l-injīla
+7	57:26:12	w	وَجَعَلْنَا		وجعلنا	And We placed	wajaʿalnā
+8	57:26:13	w	فِے		في	in	fī
+8	57:26:14	w	قُلُوبِ		قلوب	(the) hearts	qulūbi
+8	57:26:15	w	ࡴ۬لذِينَ		الذين	(of) those who	alladhīna
+8	57:26:16	w	ࡰٜتَّبَعُوهُ		اتبعوه	followed him	ittabaʿūhu
+8	57:26:17	w	رَأْفَةࣰ		رافة	compassion	rafatan
+8	57:26:18	w	وَرَحْمَةࣰ		ورحمة	and mercy	waraḥmatan
+8	57:26:19	w	وَرَهْبَانِيَّةً		ورهبانية	But monasticism	warahbāniyyatan
+9	57:26:20	w	ࡴٜبْتَدَعُوهَا		ابتدعوها	they innovated	ib'tadaʿūhā
+9	57:26:21	w	مَا		ما	not	mā
+9	57:26:22	w	كَتَبْنَٰهَا		كتبنها	We prescribed it	katabnāhā
+9	57:26:23	w	عَلَيْهِمُۥٓ		عليهم	for them	ʿalayhim
+9	57:26:24	w	إِلَّا		الا	only	illā
+9	57:26:25	w	ࡰٜبْتِغَآءَ		ابتغا	seeking	ib'tighāa
+9	57:26:26	w	رِضْوَٰنِ		رضون	(the) pleasure	riḍ'wāni
+9	57:26:27	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+9	57:26:28	w	فَمَا		فما	but not	famā
+10	57:26:29	w	رَعَوْهَا		رعوها	they observed it	raʿawhā
+10	57:26:30	w	حَقَّ		حق	(with) right	ḥaqqa
+10	57:26:31	w	رِعَايَتِهَا࣌		رعايتها	observance	riʿāyatihā
+10	57:26:32	w	فَـَٔاتَيْنَا		فاتينا	So We gave	faātaynā
+10	57:26:33	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	57:26:34	w	ءَامَنُواْ		امنوا	believed	āmanū
+10	57:26:35	w	مِنْهُمُۥٓ		منهم	among them	min'hum
+10	57:26:36	w	أَجْرَهُمْ࣌		اجرهم	their reward	ajrahum
+11	57:26:37	w	وَكَثِيرࣱ		وكثير	but most	wakathīrun
+11	57:26:38	w	مِّنْهُمْ		منهم	of them	min'hum
+11	57:26:39	w	فَٰسِقُونَ࣌		فسقون	(are) defiantly disobediently	fāsiqūna
+11	57:26:40	e	۝٢٦				
+11	57:27:1	w	يَٰٓأَيُّهَا		يايها	O you who believe	yāayyuhā
+11	57:27:2	w	ࡰ۬لذِينَ		الذين	O you who believe	alladhīna
+11	57:27:3	w	ءَامَنُواْ		امنوا	O you who believe	āmanū
+11	57:27:4	w	ࡲٜتَّقُواْ		اتقوا	Fear	ittaqū
+11	57:27:5	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+12	57:27:6	w	وَءَامِنُواْ		وامنوا	and believe	waāminū
+12	57:27:7	w	بِرَسُولِهِۦ		برسولهي	in His Messenger	birasūlihi
+12	57:27:8	w	يُوتِكُمْ		يوتكم	He will give you	yu'tikum
+12	57:27:9	w	كِفْلَيْنِ		كفلين	double portion	kif'layni
+12	57:27:10	w	مِن		من	of	min
+12	57:27:11	w	رَّحْمَتِهِۦ		رحمتهي	His Mercy	raḥmatihi
+12	57:27:12	w	وَيَجْعَل		ويجعل	and He will make	wayajʿal
+12	57:27:13	w	لَّكُمْ		لكم	for you	lakum
+12	57:27:14	w	نُوراࣰ		نورا	a light	nūran
+13	57:27:15	w	تَمْشُونَ		تمشون	you will walk	tamshūna
+13	57:27:16	w	بِهِۦ		بهي	with it	bihi
+13	57:27:17	w	وَيَغْفِرْ		ويغفر	and He will forgive	wayaghfir
+13	57:27:18	w	لَكُمْ࣌		لكم	you	lakum
+13	57:27:19	w	وَاللَّهُ		والله	And Allah	wal-lahu
+13	57:27:20	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+13	57:27:21	w	رَّحِيمࣱ		رحيم	Most Merciful	raḥīmun
+13	57:27:22	e	۝٢٧				
+13	57:28:1	w	لِّيَ۬لَّا		ليلا	So that	li-allā
+13	57:28:2	w	يَعْلَمَ		يعلم	may know	yaʿlama
+14	57:28:3	w	أَهْلُ		اهل	(the) People	ahlu
+14	57:28:4	w	ࡲ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+14	57:28:5	w	أَلَّا		الا	that not	allā
+14	57:28:6	w	يَقْدِرُونَ		يقدرون	they have power	yaqdirūna
+14	57:28:7	w	عَلَىٰ		علي	over	ʿalā
+14	57:28:8	w	شَےْءࣲ		شي	anything	shayin
+14	57:28:9	w	مِّن		من	from	min
+14	57:28:10	w	فَضْلِ		فضل	(the) Bounty	faḍli
+14	57:28:11	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+14	57:28:12	w	وَأَنَّ		وان	and that	wa-anna
+15	57:28:13	w	ࡰ۬لْفَضْلَ		الفضل	the Bounty	l-faḍla
+15	57:28:14	w	بِيَدِ		بيد	(is) in Allah's Hand	biyadi
+15	57:28:15	w	ࡴ۬للَّهِ		الله	(is) in Allah's Hand	l-lahi
+15	57:28:16	w	يُوتِيهِ		يوتيه	He gives it	yu'tīhi
+15	57:28:17	w	مَنْ		من	whom	man
+15	57:28:18	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+15	57:28:19	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	57:28:20	w	ذُو		ذو	(is) the Possessor of Bounty	dhū
+15	57:28:21	w	ࡲ۬لْفَضْلِ		الفضل	(is) the Possessor of Bounty	l-faḍli
+15	57:28:22	w	ࡴ۬لْعَظِيمِ࣌		العظيم	the Great	l-ʿaẓīmi
+15	57:28:23	e	۝٢٨				

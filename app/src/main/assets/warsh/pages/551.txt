@@ -1,0 +1,128 @@
+1	60:12:1	w	يَٰٓأَيُّهَا‏		يايها	O	yāayyuhā
+1	60:12:2	w	ࡰ۬لنَّبِےٓءُ		النبي	Prophet	l-nabiyu
+1	60:12:3	w	ࡹِذَا		اذا	When	idhā
+1	60:12:4	w	جَآءَكَ		جاك	come to you	jāaka
+1	60:12:5	w	ࡰ۬لْمُومِنَٰتُ		المومنت	the believing women	l-mu'minātu
+1	60:12:6	w	يُبَايِعْنَكَ		يبايعنك	pledging to you	yubāyiʿ'naka
+1	60:12:7	w	عَلَىٰٓ		علي	[on]	ʿalā
+1	60:12:8	w	أَن		ان	that	an
+1	60:12:9	w	لَّا		لا	not	lā
+1	60:12:10	w	يُشْرِكْنَ		يشركن	they will associate	yush'rik'na
+2	60:12:11	w	بِاللَّهِ		بالله	with Allah	bil-lahi
+2	60:12:12	w	شَيْـٔاࣰ		شيا	anything	shayan
+2	60:12:13	w	وَلَا		ولا	and not	walā
+2	60:12:14	w	يَسْرِقْنَ		يسرقن	they will steal	yasriq'na
+2	60:12:15	w	وَلَا		ولا	and not	walā
+2	60:12:16	w	يَزْنِينَ		يزنين	they will commit adultery	yaznīna
+2	60:12:17	w	وَلَا		ولا	and not	walā
+2	60:12:18	w	يَقْتُلْنَ		يقتلن	they will kill	yaqtul'na
+2	60:12:19	w	أَوْلَٰدَهُنَّ		اولدهن	their children	awlādahunna
+2	60:12:20	w	وَلَا		ولا	and not	walā
+2	60:12:21	w	يَاتِينَ		ياتين	they bring	yatīna
+3	60:12:22	w	بِبُهْتَٰنࣲ		ببهتن	slander	bibuh'tānin
+3	60:12:23	w	يَفْتَرِينَهُۥ		يفترينه	they invent it	yaftarīnahu
+3	60:12:24	w	بَيْنَ		بين	between	bayna
+3	60:12:25	w	أَيْدِيهِنَّ		ايديهن	their hands	aydīhinna
+3	60:12:26	w	وَأَرْجُلِهِنَّ		وارجلهن	and their feet	wa-arjulihinna
+3	60:12:27	w	وَلَا		ولا	and not	walā
+3	60:12:28	w	يَعْصِينَكَ		يعصينك	they will disobey you	yaʿṣīnaka
+3	60:12:29	w	فِے		في	in	fī
+4	60:12:30	w	مَعْرُوفࣲ		معروف	(the) right	maʿrūfin
+4	60:12:31	w	فَبَايِعْهُنَّ		فبايعهن	then accept their pledge	fabāyiʿ'hunna
+4	60:12:32	w	وَاسْتَغْفِرْ		واستغفر	and ask forgiveness	wa-is'taghfir
+4	60:12:33	w	لَهُنَّ		لهن	for them	lahunna
+4	60:12:34	w	ࡰ۬للَّهَ࣌		الله	(from) Allah	l-laha
+4	60:12:35	w	إِنَّ		ان	Indeed	inna
+4	60:12:36	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	60:12:37	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+4	60:12:38	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+4	60:12:39	e	۝١٢				
+5	60:13:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+5	60:13:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+5	60:13:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+5	60:13:4	w	لَا		لا	(Do) not	lā
+5	60:13:5	w	تَتَوَلَّوْاْ		تتولوا	make allies	tatawallaw
+5	60:13:6	w	قَوْماً		قوما	(of) a people	qawman
+5	60:13:7	w	غَضِبَ		غضب	(The) wrath	ghaḍiba
+5	60:13:8	w	ࡰ۬للَّهُ		الله	(of) Allah	l-lahu
+5	60:13:9	w	عَلَيْهِمْ		عليهم	(is) upon them	ʿalayhim
+5	60:13:10	w	قَدْ		قد	Indeed	qad
+6	60:13:11	w	يَئِسُواْ		ييسوا	they despair	ya-isū
+6	60:13:12	w	مِنَ		من	of	mina
+6	60:13:13	w	ࡰ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+6	60:13:14	w	كَمَا		كما	as	kamā
+6	60:13:15	w	يَئِسَ		ييس	despair	ya-isa
+6	60:13:16	w	ࡰ۬لْكُفَّارُ		الكفار	the disbelievers	l-kufāru
+6	60:13:17	w	مِنَ		من	of	min
+6	60:13:18	w	ࡰصْحَٰبِ		اصحب	(the) companions	aṣḥābi
+6	60:13:19	w	ࡴ۬لْقُبُورِ࣌		القبور	(of) the graves	l-qubūri
+6	60:13:20	e	۝١٣				
+7	61:0:0	t					
+8	61:0:0	b					
+9	61:1:1	w	سَبَّحَ		سبح	Glorifies	sabbaḥa
+9	61:1:2	w	لِلهِ		لله	Allah	lillahi
+9	61:1:3	w	مَا		ما	whatever	mā
+9	61:1:4	w	فِے		في	(is) in	fī
+9	61:1:5	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+9	61:1:6	w	وَمَا		وما	and whatever	wamā
+9	61:1:7	w	فِے		في	(is) in	fī
+9	61:1:8	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+9	61:1:9	w	وَهُوَ		وهو	And He	wahuwa
+9	61:1:10	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+9	61:1:11	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+9	61:1:12	e	۝١				
+10	61:2:1	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+10	61:2:2	w	ࡰ۬لذِينَ		الذين	(you) who	alladhīna
+10	61:2:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+10	61:2:4	w	لِمَ		لم	Why	lima
+10	61:2:5	w	تَقُولُونَ		تقولون	(do) you say	taqūlūna
+10	61:2:6	w	مَا		ما	what	mā
+10	61:2:7	w	لَا		لا	not	lā
+10	61:2:8	w	تَفْعَلُونَ࣌		تفعلون	you do	tafʿalūna
+10	61:2:9	e	۝٢				
+11	61:3:1	w	كَبُرَ		كبر	Great is	kabura
+11	61:3:2	w	مَقْتاً		مقتا	hatred	maqtan
+11	61:3:3	w	عِندَ		عند	with	ʿinda
+11	61:3:4	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+11	61:3:5	w	أَن		ان	that	an
+11	61:3:6	w	تَقُولُواْ		تقولوا	you say	taqūlū
+11	61:3:7	w	مَا		ما	what	mā
+11	61:3:8	w	لَا		لا	not	lā
+11	61:3:9	w	تَفْعَلُونَ࣌		تفعلون	you do	tafʿalūna
+11	61:3:10	e	۝٣				
+11	61:4:1	w	إِنَّ		ان	Indeed	inna
+12	61:4:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+12	61:4:3	w	يُحِبُّ		يحب	loves	yuḥibbu
+12	61:4:4	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+12	61:4:5	w	يُقَٰتِلُونَ		يقتلون	fight	yuqātilūna
+12	61:4:6	w	فِے		في	in	fī
+12	61:4:7	w	سَبِيلِهِۦ		سبيلهي	His Way	sabīlihi
+12	61:4:8	w	صَفّاࣰ		صفا	(in) a row	ṣaffan
+12	61:4:9	w	كَأَنَّهُم		كانهم	as if they	ka-annahum
+13	61:4:10	w	بُنْيَٰنࣱ		بنين	(were) a structure	bun'yānun
+13	61:4:11	w	مَّرْصُوصࣱ࣌		مرصوص	joined firmly	marṣūṣun
+13	61:4:12	e	۝٤				
+13	61:5:1	w	وَإِذْ		واذ	And when	wa-idh
+13	61:5:2	w	قَالَ		قال	said	qāla
+13	61:5:3	w	مُوسٜىٰ		موسي	Musa	mūsā
+13	61:5:4	w	لِقَوْمِهِۦ		لقومهي	to his people	liqawmihi
+13	61:5:5	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+13	61:5:6	w	لِمَ		لم	Why	lima
+14	61:5:7	w	تُوذُونَنِے		توذونني	do you hurt me	tu'dhūnanī
+14	61:5:8	w	وَقَد		وقد	while certainly	waqad
+14	61:5:9	w	تَّعْلَمُونَ		تعلمون	you know	taʿlamūna
+14	61:5:10	w	أَنِّے		اني	that I am	annī
+14	61:5:11	w	رَسُولُ		رسول	(the) Messenger	rasūlu
+14	61:5:12	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+14	61:5:13	w	إِلَيْكُمْ࣌		اليكم	to you	ilaykum
+14	61:5:14	w	فَلَمَّا		فلما	Then when	falammā
+14	61:5:15	w	زَاغُوٓاْ		زاغوا	they deviated	zāghū
+15	61:5:16	w	أَزَاغَ		ازاغ	(was caused to) deviate	azāgha
+15	61:5:17	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+15	61:5:18	w	قُلُوبَهُمْ࣌		قلوبهم	their hearts	qulūbahum
+15	61:5:19	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	61:5:20	w	لَا		لا	(does) not	lā
+15	61:5:21	w	يَهْدِے		يهدي	guide	yahdī
+15	61:5:22	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+15	61:5:23	w	ࡰ۬لْفَٰسِقِينَ࣌		الفسقين	the defiantly disobedient	l-fāsiqīna
+15	61:5:24	e	۝٥				

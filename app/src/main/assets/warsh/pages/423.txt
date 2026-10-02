@@ -1,0 +1,155 @@
+1	33:36:1	w	وَمَا		وما	And not	wamā
+1	33:36:2	w	كَانَ		كان	(it) is	kāna
+1	33:36:3	w	لِمُومِنࣲ		لمومن	for a believing man	limu'minin
+1	33:36:4	w	وَلَا		ولا	and not	walā
+1	33:36:5	w	مُومِنَةٍ		مومنة	(for) a believing woman	mu'minatin
+1	33:36:6	w	ࡴذَا		اذا	when	idhā
+1	33:36:7	w	قَضَى		قضي	Allah has decided	qaḍā
+1	33:36:8	w	ࡰ۬للَّهُ		الله	Allah has decided	l-lahu
+1	33:36:9	w	وَرَسُولُهُۥٓ		ورسوله	and His Messenger	warasūluhu
+1	33:36:10	w	أَمْراً		امرا	a matter	amran
+1	33:36:11	w	ࡰن		ان	that	an
+2	33:36:12	w	تَكُونَ		تكون	(there) should be	yakūna
+2	33:36:13	w	لَهُمُ		لهم	for them	lahumu
+2	33:36:14	w	ࡲ۬لْخِيَرَةُ		الخيرة	(any) choice	l-khiyaratu
+2	33:36:15	w	مِنَ		من	about	min
+2	33:36:16	w	ࡰمْرِهِمْ࣌		امرهم	their affair	amrihim
+2	33:36:17	w	وَمَنْ		ومن	And whoever	waman
+2	33:36:18	w	يَّعْصِ		يعص	disobeys	yaʿṣi
+2	33:36:19	w	ࡴ۬للَّهَ		الله	Allah	l-laha
+2	33:36:20	w	وَرَسُولَهُۥ		ورسوله	and His Messenger	warasūlahu
+2	33:36:21	w	فَقَد		فقد	certainly	faqad
+3	33:36:22	w	ضَّلَّ		ضل	he (has) strayed	ḍalla
+3	33:36:23	w	ضَلَٰلاࣰ		ضللا	(into) error	ḍalālan
+3	33:36:24	w	مُّبِيناࣰ࣌		مبينا	clear	mubīnan
+3	33:36:25	e	۝٣٦				
+3	33:37:1	w	وَإِذْ		واذ	And when	wa-idh
+3	33:37:2	w	تَقُولُ		تقول	you said	taqūlu
+3	33:37:3	w	لِلذِےٓ		للذي	to the one	lilladhī
+3	33:37:4	w	أَنْعَمَ		انعم	Allah bestowed favor	anʿama
+3	33:37:5	w	ࡰ۬للَّهُ		الله	Allah bestowed favor	l-lahu
+3	33:37:6	w	عَلَيْهِ		عليه	on him	ʿalayhi
+3	33:37:7	w	وَأَنْعَمْتَ		وانعمت	and you bestowed favor	wa-anʿamta
+4	33:37:8	w	عَلَيْهِ		عليه	on him	ʿalayhi
+4	33:37:9	w	أَمْسِكْ		امسك	Keep	amsik
+4	33:37:10	w	عَلَيْكَ		عليك	to yourself	ʿalayka
+4	33:37:11	w	زَوْجَكَ		زوجك	your wife	zawjaka
+4	33:37:12	w	وَاتَّقِ		واتق	and fear	wa-ittaqi
+4	33:37:13	w	ࡴ۬للَّهَ		الله	Allah	l-laha
+4	33:37:14	w	وَتُخْفِے		وتخفي	But you concealed	watukh'fī
+4	33:37:15	w	فِے		في	within	fī
+4	33:37:16	w	نَفْسِكَ		نفسك	yourself	nafsika
+5	33:37:17	w	مَا		ما	what	mā
+5	33:37:18	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+5	33:37:19	w	مُبْدِيهِ		مبديه	(was to) disclose	mub'dīhi
+5	33:37:20	w	وَتَخْشَى		وتخشي	And you fear	watakhshā
+5	33:37:21	w	ࡰ۬لنَّاسَ		الناس	the people	l-nāsa
+5	33:37:22	w	وَاللَّهُ		والله	while Allah	wal-lahu
+5	33:37:23	w	أَحَقُّ		احق	has more right	aḥaqqu
+5	33:37:24	w	أَن		ان	that	an
+5	33:37:25	w	تَخْشٜيٰهُ࣌		تخشيه	you (should) fear Him	takhshāhu
+5	33:37:26	w	۞ فَلَمَّا		فلما	So when	falammā
+6	33:37:27	w	قَضٜىٰ		قضي	ended	qaḍā
+6	33:37:28	w	زَيْدࣱ		زيد	Zaid	zaydun
+6	33:37:29	w	مِّنْهَا		منها	from her	min'hā
+6	33:37:30	w	وَطَراࣰ		وطرا	necessary (formalities)	waṭaran
+6	33:37:31	w	زَوَّجْنَٰكَهَا		زوجنكها	We married her to you	zawwajnākahā
+6	33:37:32	w	لِكَےْ		لكي	so that	likay
+6	33:37:33	w	لَا		لا	not	lā
+6	33:37:34	w	يَكُونَ		يكون	there be	yakūna
+6	33:37:35	w	عَلَى		علي	on	ʿalā
+6	33:37:36	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+7	33:37:37	w	حَرَجࣱ		حرج	any discomfort	ḥarajun
+7	33:37:38	w	فِےٓ		في	concerning	fī
+7	33:37:39	w	أَزْوَٰجِ		ازوج	the wives	azwāji
+7	33:37:40	w	أَدْعِيَآئِهِمُۥٓ		ادعيايهم	(of) their adopted sons	adʿiyāihim
+7	33:37:41	w	إِذَا		اذا	when	idhā
+7	33:37:42	w	قَضَوْاْ		قضوا	they have ended	qaḍaw
+7	33:37:43	w	مِنْهُنَّ		منهن	from them	min'hunna
+7	33:37:44	w	وَطَراࣰ࣌		وطرا	necessary (formalities)	waṭaran
+7	33:37:45	w	وَكَانَ		وكان	And is	wakāna
+7	33:37:46	w	أَمْرُ		امر	(the) Command	amru
+7	33:37:47	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+8	33:37:48	w	مَفْعُولاࣰ࣌		مفعولا	accomplished	mafʿūlan
+8	33:37:49	e	۝٣٧				
+8	33:38:1	w	مَّا		ما	Not	mā
+8	33:38:2	w	كَانَ		كان	(there can) be	kāna
+8	33:38:3	w	عَلَى		علي	upon	ʿalā
+8	33:38:4	w	ࡰ۬لنَّبِےٓءِ		النبي	the Prophet	l-nabiyi
+8	33:38:5	w	مِنْ		من	any	min
+8	33:38:6	w	حَرَجࣲ		حرج	discomfort	ḥarajin
+8	33:38:7	w	فِيمَا		فيما	in what	fīmā
+8	33:38:8	w	فَرَضَ		فرض	Allah has imposed	faraḍa
+8	33:38:9	w	ࡰ۬للَّهُ		الله	Allah has imposed	l-lahu
+8	33:38:10	w	لَهُۥ࣌		له	on him	lahu
+8	33:38:11	w	سُنَّةَ		سنة	(That is the) Way	sunnata
+9	33:38:12	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+9	33:38:13	w	فِے		في	concerning	fī
+9	33:38:14	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+9	33:38:15	w	خَلَوْاْ		خلوا	passed away	khalaw
+9	33:38:16	w	مِن		من	before	min
+9	33:38:17	w	قَبْلُ࣌		قبل	before	qablu
+9	33:38:18	w	وَكَانَ		وكان	And is	wakāna
+9	33:38:19	w	أَمْرُ		امر	(the) Command	amru
+9	33:38:20	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+9	33:38:21	w	قَدَراࣰ		قدرا	a decree	qadaran
+9	33:38:22	w	مَّقْدُوراً࣌		مقدورا	destined	maqdūran
+9	33:38:23	e	۝٣٨				
+9	33:39:1	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+10	33:39:2	w	يُبَلِّغُونَ		يبلغون	convey	yuballighūna
+10	33:39:3	w	رِسَٰلَٰتِ		رسلت	(the) Messages	risālāti
+10	33:39:4	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+10	33:39:5	w	وَيَخْشَوْنَهُۥ		ويخشونه	and fear Him	wayakhshawnahu
+10	33:39:6	w	وَلَا		ولا	and (do) not	walā
+10	33:39:7	w	يَخْشَوْنَ		يخشون	fear	yakhshawna
+10	33:39:8	w	أَحَداً		احدا	anyone	aḥadan
+10	33:39:9	w	ࡴلَّا		الا	except	illā
+10	33:39:10	w	ࡰ۬للَّهَ࣌		الله	Allah	l-laha
+10	33:39:11	w	وَكَفٜىٰ		وكفي	And sufficient is Allah	wakafā
+11	33:39:12	w	بِاللَّهِ		بالله	And sufficient is Allah	bil-lahi
+11	33:39:13	w	حَسِيباࣰ࣌		حسيبا	(as) a Reckoner	ḥasīban
+11	33:39:14	e	۝٣٩				
+11	33:40:1	w	مَّا		ما	Not	mā
+11	33:40:2	w	كَانَ		كان	is	kāna
+11	33:40:3	w	مُحَمَّدٌ		محمد	Muhammad	muḥammadun
+11	33:40:4	w	ࡰبَآ		ابا	(the) father	abā
+11	33:40:5	w	أَحَدࣲ		احد	(of) anyone	aḥadin
+11	33:40:6	w	مِّن		من	of	min
+11	33:40:7	w	رِّجَالِكُمْ࣌		رجالكم	your men	rijālikum
+11	33:40:8	w	وَلَٰكِن		ولكن	but	walākin
+12	33:40:9	w	رَّسُولَ		رسول	(he is the) Messenger	rasūla
+12	33:40:10	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+12	33:40:11	w	وَخَاتِمَ		وخاتم	and Seal	wakhātama
+12	33:40:12	w	ࡰ۬لنَّبِيٓـِٕۑنَ࣌		النبين	(of) the Prophets	l-nabiyīna
+12	33:40:13	w	وَكَانَ		وكان	And Allah is	wakāna
+12	33:40:14	w	ࡰ۬للَّهُ		الله	And Allah is	l-lahu
+12	33:40:15	w	بِكُلِّ		بكل	of every	bikulli
+12	33:40:16	w	شَےْءٍ		شي	thing	shayin
+12	33:40:17	w	عَلِيماࣰ࣌		عليما	All-Knower	ʿalīman
+12	33:40:18	e	۝٤٠				
+13	33:41:1	w	يَٰٓأَيُّهَا		يايها	O you who believe	yāayyuhā
+13	33:41:2	w	ࡰ۬لذِينَ		الذين	O you who believe	alladhīna
+13	33:41:3	w	ءَامَنُواْ		امنوا	O you who believe	āmanū
+13	33:41:4	w	ࡲ࢈ذْكُرُواْ		اذكروا	Remember	udh'kurū
+13	33:41:5	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+13	33:41:6	w	ذِكْراࣰ		ذكرا	(with) remembrance	dhik'ran
+13	33:41:7	w	كَثِيراࣰ		كثيرا	much	kathīran
+13	33:41:8	e	۝٤١				
+13	33:42:1	w	وَسَبِّحُوهُ		وسبحوه	And glorify Him	wasabbiḥūhu
+14	33:42:2	w	بُكْرَةࣰ		بكرة	morning	buk'ratan
+14	33:42:3	w	وَأَصِيلاً࣌		واصيلا	and evening	wa-aṣīlan
+14	33:42:4	e	۝٤٢				
+14	33:43:1	w	هُوَ		هو	He	huwa
+14	33:43:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+14	33:43:3	w	يُصَلِّے		يصلي	sends His blessings	yuṣallī
+14	33:43:4	w	عَلَيْكُمْ		عليكم	upon you	ʿalaykum
+14	33:43:5	w	وَمَلَٰٓئِكَتُهُۥ		ومليكته	and His Angels	wamalāikatuhu
+15	33:43:6	w	لِيُخْرِجَكُم		ليخرجكم	so that He may bring you out	liyukh'rijakum
+15	33:43:7	w	مِّنَ		من	from	mina
+15	33:43:8	w	ࡰ۬لظُّلُمَٰتِ		الظلمت	the darkness[es]	l-ẓulumāti
+15	33:43:9	w	إِلَى		الي	to	ilā
+15	33:43:10	w	ࡰ۬لنُّورِ࣌		النور	the light	l-nūri
+15	33:43:11	w	وَكَانَ		وكان	And He is	wakāna
+15	33:43:12	w	بِالْمُومِنِينَ		بالمومنين	to the believers	bil-mu'minīna
+15	33:43:13	w	رَحِيماࣰ࣌		رحيما	Merciful	raḥīman
+15	33:43:14	e	۝٤٣				

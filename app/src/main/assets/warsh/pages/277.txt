@@ -1,0 +1,128 @@
+1	16:88:1	w	ࡰ۬لذِينَ		الذين	And those who	alladhīna
+1	16:88:2	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+1	16:88:3	w	وَصَدُّواْ		وصدوا	and hindered	waṣaddū
+1	16:88:4	w	عَن		عن	from	ʿan
+1	16:88:5	w	سَبِيلِ		سبيل	(the) way	sabīli
+1	16:88:6	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+1	16:88:7	w	زِدْنَٰهُمْ		زدنهم	We will increase them	zid'nāhum
+1	16:88:8	w	عَذَاباࣰ		عذابا	(in) punishment	ʿadhāban
+2	16:88:9	w	فَوْقَ		فوق	over	fawqa
+2	16:88:10	w	ࡰ۬لْعَذَابِ		العذاب	punishment	l-ʿadhābi
+2	16:88:11	w	بِمَا		بما	because	bimā
+2	16:88:12	w	كَانُواْ		كانوا	they used (to)	kānū
+2	16:88:13	w	يُفْسِدُونَ࣌		يفسدون	spread corruption	yuf'sidūna
+2	16:88:14	e	۝٨٨				
+2	16:89:1	w	وَيَوْمَ		ويوم	And the Day	wayawma
+2	16:89:2	w	نَبْعَثُ		نبعث	We will resurrect	nabʿathu
+2	16:89:3	w	فِے		في	among	fī
+3	16:89:4	w	كُلِّ		كل	every	kulli
+3	16:89:5	w	أُمَّةࣲ		امة	nation	ummatin
+3	16:89:6	w	شَهِيداً		شهيدا	a witness	shahīdan
+3	16:89:7	w	عَلَيْهِم		عليهم	over them	ʿalayhim
+3	16:89:8	w	مِّنَ		من	from	min
+3	16:89:9	w	ࡰنفُسِهِمْ		انفسهم	themselves	anfusihim
+3	16:89:10	w	وَجِئْنَا		وجينا	And We (will) bring	waji'nā
+3	16:89:11	w	بِكَ		بك	you	bika
+4	16:89:12	w	شَهِيداً		شهيدا	(as) a witness	shahīdan
+4	16:89:13	w	عَلَىٰ		علي	over	ʿalā
+4	16:89:14	w	هَٰٓؤُلَآءِ࣌		هولا	these	hāulāi
+4	16:89:15	w	وَنَزَّلْنَا		ونزلنا	And We sent down	wanazzalnā
+4	16:89:16	w	عَلَيْكَ		عليك	to you	ʿalayka
+4	16:89:17	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+4	16:89:18	w	تِبْيَٰناࣰ		تبينا	(as) a clarification	tib'yānan
+5	16:89:19	w	لِّكُلِّ		لكل	of every	likulli
+5	16:89:20	w	شَےْءࣲ		شي	thing	shayin
+5	16:89:21	w	وَهُدىࣰ		وهدي	and a guidance	wahudan
+5	16:89:22	w	وَرَحْمَةࣰ		ورحمة	and mercy	waraḥmatan
+5	16:89:23	w	وَبُشْرٜىٰ		وبشري	and glad tidings	wabush'rā
+5	16:89:24	w	لِلْمُسْلِمِينَ࣌		للمسلمين	for the Muslims	lil'mus'limīna
+5	16:89:25	e	۝٨٩				
+5	16:90:1	w	۞ إِنَّ		ان	Indeed	inna
+5	16:90:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	16:90:3	w	يَامُرُ		يامر	commands	yamuru
+6	16:90:4	w	بِالْعَدْلِ		بالعدل	justice	bil-ʿadli
+6	16:90:5	w	وَالِاحْسَٰنِ		والاحسن	and the good	wal-iḥ'sāni
+6	16:90:6	w	وَإِيتَآءِےْ		وايتاي	and giving	waītāi
+6	16:90:7	w	ذِے		ذي	(to) relatives	dhī
+6	16:90:8	w	ࡴ۬لْقُرْبٜىٰ࣌		القربي	(to) relatives	l-qur'bā
+6	16:90:9	w	وَيَنْهٜىٰ		وينهي	and forbids	wayanhā
+6	16:90:10	w	عَنِ		عن	[from]	ʿani
+7	16:90:11	w	ࡴ۬لْفَحْشَآءِ		الفحشا	the immorality	l-faḥshāi
+7	16:90:12	w	وَالْمُنكَرِ		والمنكر	and the bad	wal-munkari
+7	16:90:13	w	وَالْبَغْيِ࣌		والبغي	and the oppression	wal-baghyi
+7	16:90:14	w	يَعِظُكُمْ		يعظكم	He admonishes you	yaʿiẓukum
+7	16:90:15	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+7	16:90:16	w	تَذَّكَّرُونَ࣌		تذكرون	take heed	tadhakkarūna
+7	16:90:17	e	۝٩٠				
+8	16:91:1	w	وَأَوْفُواْ		واوفوا	And fulfil	wa-awfū
+8	16:91:2	w	بِعَهْدِ		بعهد	the covenant	biʿahdi
+8	16:91:3	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+8	16:91:4	w	إِذَا		اذا	when	idhā
+8	16:91:5	w	عَٰهَدتُّمْ࣌		عهدتم	you have taken a covenant	ʿāhadttum
+8	16:91:6	w	وَلَا		ولا	and (do) not	walā
+8	16:91:7	w	تَنقُضُواْ		تنقضوا	break	tanquḍū
+8	16:91:8	w	ࡲ۬لَايْمَٰنَ		الايمن	oaths	l-aymāna
+8	16:91:9	w	بَعْدَ		بعد	after	baʿda
+9	16:91:10	w	تَوْكِيدِهَا		توكيدها	their confirmation	tawkīdihā
+9	16:91:11	w	وَقَدْ		وقد	while verily	waqad
+9	16:91:12	w	جَعَلْتُمُ		جعلتم	you have made	jaʿaltumu
+9	16:91:13	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+9	16:91:14	w	عَلَيْكُمْ		عليكم	over you	ʿalaykum
+9	16:91:15	w	كَفِيلاً࣌		كفيلا	a surety	kafīlan
+9	16:91:16	w	ࡴنَّ		ان	Indeed	inna
+10	16:91:17	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	16:91:18	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+10	16:91:19	w	مَا		ما	what	mā
+10	16:91:20	w	تَفْعَلُونَ࣌		تفعلون	you do	tafʿalūna
+10	16:91:21	e	۝٩١				
+10	16:92:1	w	وَلَا		ولا	And (do) not	walā
+10	16:92:2	w	تَكُونُواْ		تكونوا	be	takūnū
+10	16:92:3	w	كَالتِے		كالتي	like her who	ka-allatī
+10	16:92:4	w	نَقَضَتْ		نقضت	untwists	naqaḍat
+11	16:92:5	w	غَزْلَهَا		غزلها	her spun yarn	ghazlahā
+11	16:92:6	w	مِنۢ		من	after	min
+11	16:92:7	w	بَعْدِ		بعد	after	baʿdi
+11	16:92:8	w	قُوَّةٍ		قوة	strength	quwwatin
+11	16:92:9	w	ࡰنكَٰثاࣰ		انكثا	(into) untwisted strands	ankāthan
+11	16:92:10	w	تَتَّخِذُونَ		تتخذون	you take	tattakhidhūna
+11	16:92:11	w	أَيْمَٰنَكُمْ		ايمنكم	your oaths	aymānakum
+11	16:92:12	w	دَخَلاَۢ		دخلا	(as) a deception	dakhalan
+12	16:92:13	w	بَيْنَكُمُۥٓ		بينكم	between you	baynakum
+12	16:92:14	w	أَن		ان	because	an
+12	16:92:15	w	تَكُونَ		تكون	is	takūna
+12	16:92:16	w	أُمَّةٌ		امة	a community	ummatun
+12	16:92:17	w	هِيَ		هي	[it]	hiya
+12	16:92:18	w	أَرْبٜىٰ		اربي	more numerous	arbā
+12	16:92:19	w	مِنُ		من	than	min
+12	16:92:20	w	ࡳمَّةٍ࣌		امة	(another) community	ummatin
+12	16:92:21	w	ࡴنَّمَا		انما	Only	innamā
+12	16:92:22	w	يَبْلُوكُمُ		يبلوكم	Allah tests you	yablūkumu
+12	16:92:23	w	ࡲ۬للَّهُ		الله	Allah tests you	l-lahu
+13	16:92:24	w	بِهِۦ࣌		بهي	by it	bihi
+13	16:92:25	w	وَلَيُبَيِّنَنَّ		وليبينن	And He will make clear	walayubayyinanna
+13	16:92:26	w	لَكُمْ		لكم	to you	lakum
+13	16:92:27	w	يَوْمَ		يوم	(on) the Day	yawma
+13	16:92:28	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+13	16:92:29	w	مَا		ما	what	mā
+13	16:92:30	w	كُنتُمْ		كنتم	you used (to)	kuntum
+13	16:92:31	w	فِيهِ		فيه	in it	fīhi
+13	16:92:32	w	تَخْتَلِفُونَ࣌		تختلفون	differ	takhtalifūna
+13	16:92:33	e	۝٩٢				
+14	16:93:1	w	وَلَوْ		ولو	And if	walaw
+14	16:93:2	w	شَآءَ		شا	Allah (had) willed	shāa
+14	16:93:3	w	ࡰ۬للَّهُ		الله	Allah (had) willed	l-lahu
+14	16:93:4	w	لَجَعَلَكُمُۥٓ		لجعلكم	surely He (could) have made you	lajaʿalakum
+14	16:93:5	w	أُمَّةࣰ		امة	a nation	ummatan
+14	16:93:6	w	وَٰحِدَةࣰ࣌		وحدة	one	wāḥidatan
+14	16:93:7	w	وَلَٰكِنْ		ولكن	but	walākin
+14	16:93:8	w	يُّضِلُّ		يضل	He lets go astray	yuḍillu
+14	16:93:9	w	مَنْ		من	whom	man
+15	16:93:10	w	يَّشَآءُ		يشا	He wills	yashāu
+15	16:93:11	w	وَيَهْدِے		ويهدي	and guides	wayahdī
+15	16:93:12	w	مَنْ		من	whom	man
+15	16:93:13	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+15	16:93:14	w	وَلَتُسْـَٔلُنَّ		ولتسلن	And surely you will be questioned	walatus'alunna
+15	16:93:15	w	عَمَّا		عما	about what	ʿammā
+15	16:93:16	w	كُنتُمْ		كنتم	you used (to)	kuntum
+15	16:93:17	w	تَعْمَلُونَ࣌		تعملون	do	taʿmalūna
+15	16:93:18	e	۝٩٣				

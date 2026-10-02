@@ -1,0 +1,141 @@
+1	2:134:1	w	وَقَالُواْ		وقالوا	And they said	waqālū
+1	2:134:2	w	كُونُواْ		كونوا	Be	kūnū
+1	2:134:3	w	هُوداً		هودا	Jews	hūdan
+1	2:134:4	w	ࡰوْ		او	or	aw
+1	2:134:5	w	نَصَٰرٜىٰ		نصري	Christians	naṣārā
+1	2:134:6	w	تَهْتَدُواْ࣌		تهتدوا	(then) you will be guided	tahtadū
+1	2:134:7	w	قُلْ		قل	Say	qul
+1	2:134:8	w	بَلْ		بل	Nay	bal
+1	2:134:9	w	مِلَّةَ		ملة	(the) religion	millata
+1	2:134:10	w	إِبْرَٰهِيمَ		ابرهيم	(of) Ibrahim	ib'rāhīma
+2	2:134:11	w	حَنِيفاࣰ࣌		حنيفا	(the) upright	ḥanīfan
+2	2:134:12	w	وَمَا		وما	and not	wamā
+2	2:134:13	w	كَانَ		كان	he was	kāna
+2	2:134:14	w	مِنَ		من	of	mina
+2	2:134:15	w	ࡰ۬لْمُشْرِكِينَ࣌		المشركين	those who associated partners (with Allah)	l-mush'rikīna
+2	2:134:16	e	۝١٣٤				
+2	2:135:1	w	قُولُوٓاْ		قولوا	Say	qūlū
+2	2:135:2	w	ءَامَنَّا		امنا	We have believed	āmannā
+2	2:135:3	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+2	2:135:4	w	وَمَآ		وما	and what	wamā
+3	2:135:5	w	أُنزِلَ		انزل	(is) revealed	unzila
+3	2:135:6	w	إِلَيْنَا		الينا	to us	ilaynā
+3	2:135:7	w	وَمَآ		وما	and what	wamā
+3	2:135:8	w	أُنزِلَ		انزل	was revealed	unzila
+3	2:135:9	w	إِلَىٰٓ		الي	to	ilā
+3	2:135:10	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+3	2:135:11	w	وَإِسْمَٰعِيلَ		واسمعيل	and Ishmael	wa-is'māʿīla
+3	2:135:12	w	وَإِسْحَٰقَ		واسحق	and Isaac	wa-is'ḥāqa
+3	2:135:13	w	وَيَعْقُوبَ		ويعقوب	and Yaqub	wayaʿqūba
+4	2:135:14	w	وَالَاسْبَاطِ		والاسباط	and the descendants	wal-asbāṭi
+4	2:135:15	w	وَمَآ		وما	and what	wamā
+4	2:135:16	w	أُوتِيَ		اوتي	was given	ūtiya
+4	2:135:17	w	مُوسٜىٰ		موسي	(to) Musa	mūsā
+4	2:135:18	w	وَعِيسٜىٰ		وعيسي	and Isa	waʿīsā
+4	2:135:19	w	وَمَآ		وما	and what	wamā
+4	2:135:20	w	أُوتِيَ		اوتي	was given	ūtiya
+4	2:135:21	w	ࡰ۬لنَّبِيٓـُٔونَ		النبيون	(to) the Prophets	l-nabiyūna
+4	2:135:22	w	مِن		من	from	min
+5	2:135:23	w	رَّبِّهِمْ		ربهم	their Lord	rabbihim
+5	2:135:24	w	لَا		لا	Not	lā
+5	2:135:25	w	نُفَرِّقُ		نفرق	we make distinction	nufarriqu
+5	2:135:26	w	بَيْنَ		بين	between	bayna
+5	2:135:27	w	أَحَدࣲ		احد	any	aḥadin
+5	2:135:28	w	مِّنْهُمْ		منهم	of them	min'hum
+5	2:135:29	w	وَنَحْنُ		ونحن	And we	wanaḥnu
+5	2:135:30	w	لَهُۥ		له	to Him	lahu
+5	2:135:31	w	مُسْلِمُونَ࣌		مسلمون	(are) submissive	mus'limūna
+5	2:135:32	e	۝١٣٥				
+6	2:136:1	w	فَإِنَ		فان	So if	fa-in
+6	2:136:2	w	اٰمَنُواْ		امنوا	they believe[d]	āmanū
+6	2:136:3	w	بِمِثْلِ		بمثل	in (the) like	bimith'li
+6	2:136:4	w	مَآ		ما	(of) what	mā
+6	2:136:5	w	ءَامَنتُم		امنتم	you have believed	āmantum
+6	2:136:6	w	بِهِۦ		بهي	in [it]	bihi
+6	2:136:7	w	فَقَدِ		فقد	then indeed	faqadi
+6	2:136:8	w	ࡴٜهْتَدَواْ࣌		اهتدوا	they are (rightly) guided	ih'tadaw
+6	2:136:9	w	وَّإِن		وان	But if	wa-in
+6	2:136:10	w	تَوَلَّوْاْ		تولوا	they turn away	tawallaw
+7	2:136:11	w	فَإِنَّمَا		فانما	then only	fa-innamā
+7	2:136:12	w	هُمْ		هم	they	hum
+7	2:136:13	w	فِے		في	(are) in	fī
+7	2:136:14	w	شِقَاقࣲ࣌		شقاق	dissension	shiqāqin
+7	2:136:15	w	فَسَيَكْفِيكَهُمُ		فسيكفيكهم	So will suffice you against them	fasayakfīkahumu
+7	2:136:16	w	ࡲ۬للَّهُ࣌		الله	Allah	l-lahu
+7	2:136:17	w	وَهُوَ		وهو	and He	wahuwa
+7	2:136:18	w	ࡰ۬لسَّمِيعُ		السميع	(is) the All-Hearing	l-samīʿu
+7	2:136:19	w	ࡲ۬لْعَلِيمُ࣌		العليم	the All-Knowing	l-ʿalīmu
+7	2:136:20	e	۝١٣٦				
+8	2:137:1	w	صِبْغَةَ		صبغة	(The) color (religion)	ṣib'ghata
+8	2:137:2	w	ࡰ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+8	2:137:3	w	وَمَنَ		ومن	And who	waman
+8	2:137:4	w	ࡰحْسَنُ		احسن	(is) better	aḥsanu
+8	2:137:5	w	مِنَ		من	than	mina
+8	2:137:6	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+8	2:137:7	w	صِبْغَةࣰ࣌		صبغة	at coloring	ṣib'ghatan
+8	2:137:8	w	وَنَحْنُ		ونحن	And we	wanaḥnu
+8	2:137:9	w	لَهُۥ		له	to Him	lahu
+9	2:137:10	w	عَٰبِدُونَ࣌		عبدون	(are) worshippers	ʿābidūna
+9	2:137:11	e	۝١٣٧				
+9	2:138:1	w	قُلَ		قل	Say	qul
+9	2:138:2	w	ࡰتُحَآجُّونَنَا		اتحاجوننا	Do you argue with us	atuḥājjūnanā
+9	2:138:3	w	فِے		في	about	fī
+9	2:138:4	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+9	2:138:5	w	وَهُوَ		وهو	while He	wahuwa
+9	2:138:6	w	رَبُّنَا		ربنا	(is) our Lord	rabbunā
+9	2:138:7	w	وَرَبُّكُمْ		وربكم	and your Lord	warabbukum
+10	2:138:8	w	وَلَنَآ		ولنا	And for us	walanā
+10	2:138:9	w	أَعْمَٰلُنَا		اعملنا	(are) our deeds	aʿmālunā
+10	2:138:10	w	وَلَكُمُۥٓ		ولكم	and for you	walakum
+10	2:138:11	w	أَعْمَٰلُكُمْ࣌		اعملكم	(are) your deeds	aʿmālukum
+10	2:138:12	w	وَنَحْنُ		ونحن	and we	wanaḥnu
+10	2:138:13	w	لَهُۥ		له	to Him	lahu
+10	2:138:14	w	مُخْلِصُونَ࣌		مخلصون	(are) sincere	mukh'liṣūna
+10	2:138:15	e	۝١٣٨				
+11	2:139:1	w	أَمْ		ام	Or	am
+11	2:139:2	w	يَقُولُونَ		يقولون	(do) you say	taqūlūna
+11	2:139:3	w	إِنَّ		ان	that	inna
+11	2:139:4	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+11	2:139:5	w	وَإِسْمَٰعِيلَ		واسمعيل	and Ishmael	wa-is'māʿīla
+11	2:139:6	w	وَإِسْحَٰقَ		واسحق	and Isaac	wa-is'ḥāqa
+11	2:139:7	w	وَيَعْقُوبَ		ويعقوب	and Yaqub	wayaʿqūba
+12	2:139:8	w	وَالَاسْبَاطَ		والاسباط	and the descendants	wal-asbāṭa
+12	2:139:9	w	كَانُواْ		كانوا	were	kānū
+12	2:139:10	w	هُوداً		هودا	Jews	hūdan
+12	2:139:11	w	ࡰوْ		او	or	aw
+12	2:139:12	w	نَصَٰرٜىٰ࣌		نصري	Christians	naṣārā
+12	2:139:13	w	قُلَ		قل	Say	qul
+12	2:139:14	w	آٓنتُمُۥٓ		انتم	Are you	a-antum
+12	2:139:15	w	أَعْلَمُ		اعلم	better knowing	aʿlamu
+12	2:139:16	w	أَمِ		ام	or	ami
+13	2:139:17	w	ࡴ۬للَّهُ࣌		الله	(is) Allah	l-lahu
+13	2:139:18	w	وَمَنَ		ومن	And who	waman
+13	2:139:19	w	ࡰظْلَمُ		اظلم	(is) more unjust	aẓlamu
+13	2:139:20	w	مِمَّن		ممن	than (the one) who	mimman
+13	2:139:21	w	كَتَمَ		كتم	concealed	katama
+13	2:139:22	w	شَهَٰدَةً		شهدة	a testimony	shahādatan
+13	2:139:23	w	عِندَهُۥ		عنده	(that) he has	ʿindahu
+13	2:139:24	w	مِنَ		من	from	mina
+13	2:139:25	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+13	2:139:26	w	وَمَا		وما	And not	wamā
+13	2:139:27	w	ࡰ۬للَّهُ		الله	(is) Allah	l-lahu
+14	2:139:28	w	بِغَٰفِلٍ		بغفل	unaware	bighāfilin
+14	2:139:29	w	عَمَّا		عما	of what	ʿammā
+14	2:139:30	w	تَعْمَلُونَ࣌		تعملون	you do	taʿmalūna
+14	2:139:31	e	۝١٣٩				
+14	2:140:1	w	تِلْكَ		تلك	This	til'ka
+14	2:140:2	w	أُمَّةࣱ		امة	(was) a community	ummatun
+14	2:140:3	w	قَدْ		قد	(which)	qad
+14	2:140:4	w	خَلَتْ࣌		خلت	has passed away	khalat
+14	2:140:5	w	لَهَا		لها	for it	lahā
+14	2:140:6	w	مَا		ما	what	mā
+14	2:140:7	w	كَسَبَتْ࣌		كسبت	it earned	kasabat
+15	2:140:8	w	وَلَكُم		ولكم	and for you	walakum
+15	2:140:9	w	مَّا		ما	what	mā
+15	2:140:10	w	كَسَبْتُمْ࣌		كسبتم	you have earned	kasabtum
+15	2:140:11	w	وَلَا		ولا	And not	walā
+15	2:140:12	w	تُسْـَٔلُونَ		تسلون	you will be asked	tus'alūna
+15	2:140:13	w	عَمَّا		عما	about what	ʿammā
+15	2:140:14	w	كَانُواْ		كانوا	they used to	kānū
+15	2:140:15	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+15	2:140:16	e	۝١٤٠				

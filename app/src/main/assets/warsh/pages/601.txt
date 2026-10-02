@@ -1,0 +1,93 @@
+1	103:0:0	t					
+2	103:0:0	b					
+3	103:1:1	w	وَالْعَصْرِ		والعصر	By the time	wal-ʿaṣri
+3	103:1:2	w	إِنَّ		ان	Indeed	inna
+3	103:1:3	w	ࡰ۬لِانسَٰنَ		الانسن	mankind	l-insāna
+3	103:1:4	w	لَفِے		لفي	(is) surely, in	lafī
+3	103:1:5	w	خُسْرٍ		خسر	loss	khus'rin
+3	103:1:6	e	۝١				
+3	103:2:1	w	ࡴلَّا		الا	Except	illā
+3	103:2:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+3	103:2:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+4	103:2:4	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+4	103:2:5	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+4	103:2:6	w	وَتَوَاصَوْاْ		وتواصوا	and enjoin (each other)	watawāṣaw
+4	103:2:7	w	بِالْحَقِّ		بالحق	to the truth	bil-ḥaqi
+4	103:2:8	e	۝٢				
+4	103:3:1	w	وَتَوَاصَوْاْ		وتواصوا	and enjoin (each other)	watawāṣaw
+4	103:3:2	w	بِالصَّبْرِ࣌		بالصبر	to [the] patience	bil-ṣabri
+4	103:3:3	e	۝٣				
+5	104:0:0	t					
+6	104:0:0	b					
+7	104:1:1	w	وَيْلࣱ		ويل	Woe	waylun
+7	104:1:2	w	لِّكُلِّ		لكل	to every	likulli
+7	104:1:3	w	هُمَزَةࣲ		همزة	slanderer	humazatin
+7	104:1:4	w	لُّمَزَةٍ		لمزة	backbiter	lumazatin
+7	104:1:5	e	۝١				
+7	104:2:1	w	ࡴ۬لذِے		الذي	The one who	alladhī
+7	104:2:2	w	جَمَعَ		جمع	collects	jamaʿa
+7	104:2:3	w	مَالاࣰ		مالا	wealth	mālan
+7	104:2:4	w	وَعَدَّدَهُۥ		وعدده	and counts it	waʿaddadahu
+7	104:2:5	e	۝٢				
+8	104:3:1	w	يَحْسِبُ		يحسب	Thinking	yaḥsabu
+8	104:3:2	w	أَنَّ		ان	that	anna
+8	104:3:3	w	مَالَهُۥٓ		ماله	his wealth	mālahu
+8	104:3:4	w	أَخْلَدَهُۥ		اخلده	will make him immortal	akhladahu
+8	104:3:5	e	۝٣				
+8	104:4:1	w	كَلَّا࣌		كلا	Nay	kallā
+8	104:4:2	w	لَيُنۢبَذَنَّ		لينبذن	Surely he will be thrown	layunbadhanna
+8	104:4:3	w	فِے		في	in	fī
+8	104:4:4	w	ࡴ۬لْحُطَمَةِ࣌		الحطمة	the Crusher	l-ḥuṭamati
+8	104:4:5	e	۝٤				
+9	104:5:1	w	وَمَآ		وما	And what	wamā
+9	104:5:2	w	أَدْرٜيٰكَ		ادريك	will make you know	adrāka
+9	104:5:3	w	مَا		ما	what	mā
+9	104:5:4	w	ࡰ۬لْحُطَمَةُ࣌		الحطمة	the Crusher (is)	l-ḥuṭamatu
+9	104:5:5	e	۝٥				
+9	104:6:1	w	نَارُ		نار	A Fire	nāru
+9	104:6:2	w	ࡲ۬للَّهِ		الله	Allah	l-lahi
+9	104:6:3	w	ࡴ۬لْمُوقَدَةُ		الموقدة	kindled	l-mūqadatu
+9	104:6:4	e	۝٦				
+9	104:7:1	w	ࡲ۬لتِے		التي	Which	allatī
+9	104:7:2	w	تَطَّلِعُ		تطلع	mounts up	taṭṭaliʿu
+10	104:7:3	w	عَلَى		علي	to	ʿalā
+10	104:7:4	w	ࡰ۬لَافْـِٕدَةِ࣌		الافدة	the hearts	l-afidati
+10	104:7:5	e	۝٧				
+10	104:8:1	w	إِنَّهَا		انها	Indeed, it	innahā
+10	104:8:2	w	عَلَيْهِم		عليهم	(will be) upon them	ʿalayhim
+10	104:8:3	w	مُّوصَدَةࣱ		موصدة	closed over	mu'ṣadatun
+10	104:8:4	e	۝٨				
+10	104:9:1	w	فِے		في	In	fī
+10	104:9:2	w	عَمَدࣲ		عمد	columns	ʿamadin
+10	104:9:3	w	مُّمَدَّدَةٍ࣌		ممددة	extended	mumaddadatin
+10	104:9:4	e	۝٩				
+11	105:0:0	t					
+12	105:0:0	b					
+13	105:1:1	w	ࡰلَمْ		الم	Have not	alam
+13	105:1:2	w	تَرَ		تر	you seen	tara
+13	105:1:3	w	كَيْفَ		كيف	how	kayfa
+13	105:1:4	w	فَعَلَ		فعل	dealt	faʿala
+13	105:1:5	w	رَبُّكَ		ربك	your Lord	rabbuka
+13	105:1:6	w	بِأَصْحَٰبِ		باصحب	with (the) Companions	bi-aṣḥābi
+13	105:1:7	w	ࡴ۬لْفِيلِ࣌		الفيل	(of the) Elephant	l-fīli
+13	105:1:8	e	۝١				
+13	105:2:1	w	أَلَمْ		الم	Did not	alam
+13	105:2:2	w	يَجْعَلْ		يجعل	He make	yajʿal
+14	105:2:3	w	كَيْدَهُمْ		كيدهم	their plan	kaydahum
+14	105:2:4	w	فِے		في	go	fī
+14	105:2:5	w	تَضْلِيلࣲ		تضليل	astray	taḍlīlin
+14	105:2:6	e	۝٢				
+14	105:3:1	w	وَأَرْسَلَ		وارسل	And He sent	wa-arsala
+14	105:3:2	w	عَلَيْهِمْ		عليهم	against them	ʿalayhim
+14	105:3:3	w	طَيْراً		طيرا	birds	ṭayran
+14	105:3:4	w	ࡰبَابِيلَ		ابابيل	(in) flocks	abābīla
+14	105:3:5	e	۝٣				
+15	105:4:1	w	تَرْمِيهِم		ترميهم	Striking them	tarmīhim
+15	105:4:2	w	بِحِجَارَةࣲ		بحجارة	with stones	biḥijāratin
+15	105:4:3	w	مِّن		من	of	min
+15	105:4:4	w	سِجِّيلࣲ		سجيل	baked clay	sijjīlin
+15	105:4:5	e	۝٤				
+15	105:5:1	w	فَجَعَلَهُمْ		فجعلهم	Then He made them	fajaʿalahum
+15	105:5:2	w	كَعَصْفࣲ		كعصف	like straw	kaʿaṣfin
+15	105:5:3	w	مَّاكُولࣲ࣌		ماكول	eaten up	makūlin
+15	105:5:4	e	۝٥				

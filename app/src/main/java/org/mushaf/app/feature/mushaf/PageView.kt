@@ -64,6 +64,8 @@ fun PageView(
     hafs: FontFamily,
     /** Page 1's print font, whose first ayah is the basmala as printed; null until it is here. */
     basmala: FontFamily?,
+    /** The basmala as written in this mushaf, in [hafs] when page 1's print font is missing. */
+    basmalaText: String,
     surahNames: FontFamily,
     marked: AyahKey?,
     /** The ayah and word heard in the recitation: the word takes the accent. */
@@ -127,7 +129,7 @@ fun PageView(
                     Box(Modifier.fillMaxWidth().height(lineHeight), contentAlignment = Alignment.Center) {
                         when (line) {
                             is PageLine.Title -> SurahTitle(line.surah, surahNames, size, lineHeight)
-                            is PageLine.Basmala -> Basmala(basmala, hafs, style)
+                            is PageLine.Basmala -> Basmala(basmala, hafs, style, basmalaText)
                             is PageLine.Words -> WordsLine(
                                 words = line.words,
                                 justify = !centred,
@@ -283,9 +285,13 @@ private fun SurahTitle(surah: Int, names: FontFamily, size: TextUnit, height: Dp
  * font, so it is the printed one; in the Hafs font until that font is here.
  */
 @Composable
-private fun Basmala(print: FontFamily?, hafs: FontFamily, style: TextStyle) {
+private fun Basmala(print: FontFamily?, hafs: FontFamily, style: TextStyle, text: String) {
     if (print == null) {
-        Text(BASMALA, style = style.copy(fontFamily = hafs, fontSize = style.fontSize * 0.92f), maxLines = 1)
+        // The words set apart and a little larger than the text, as the print sets its basmala.
+        val wordStyle = style.copy(fontFamily = hafs, fontSize = style.fontSize * 1.08f)
+        Row(horizontalArrangement = Arrangement.spacedBy(14.dp), verticalAlignment = Alignment.CenterVertically) {
+            for (w in text.split(' ').filter { it.isNotEmpty() }) Text(w, style = wordStyle, maxLines = 1, softWrap = false)
+        }
         return
     }
     val glyphStyle = style.copy(fontFamily = print, fontSize = style.fontSize * 1.25f)
@@ -296,8 +302,6 @@ private fun Basmala(print: FontFamily?, hafs: FontFamily, style: TextStyle) {
 
 /** The room between two words on a line that is not justified, in word heights. */
 private const val WORD_GAP = 0.18f
-
-private const val BASMALA ="بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ"
 
 /** The four words of 1:1 in page 1's print font. */
 private val BASMALA_GLYPHS = listOf("ﱁ", "ﱂ", "ﱃ", "ﱄ")

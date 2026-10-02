@@ -1,0 +1,153 @@
+1	23:18:1	w	وَأَنزَلْنَا		وانزلنا	And We send down	wa-anzalnā
+1	23:18:2	w	مِنَ		من	from	mina
+1	23:18:3	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+1	23:18:4	w	مَآءَۢ		ما	water	māan
+1	23:18:5	w	بِقَدَرࣲ		بقدر	in (due) measure	biqadarin
+1	23:18:6	w	فَأَسْكَنَّٰهُ		فاسكنه	then We cause it to settle	fa-askannāhu
+1	23:18:7	w	فِے		في	in	fī
+1	23:18:8	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+1	23:18:9	w	وَإِنَّا		وانا	And indeed, We	wa-innā
+1	23:18:10	w	عَلَىٰ		علي	on	ʿalā
+2	23:18:11	w	ذَهَابِۢ		ذهاب	taking it away	dhahābin
+2	23:18:12	w	بِهِۦ		بهي	taking it away	bihi
+2	23:18:13	w	لَقَٰدِرُونَ࣌		لقدرون	surely (are) Able	laqādirūna
+2	23:18:14	e	۝١٨				
+2	23:19:1	w	فَأَنشَأْنَا		فانشانا	Then We produced	fa-anshanā
+2	23:19:2	w	لَكُم		لكم	for you	lakum
+2	23:19:3	w	بِهِۦ		بهي	by it	bihi
+2	23:19:4	w	جَنَّٰتࣲ		جنت	gardens	jannātin
+2	23:19:5	w	مِّن		من	of date-palms	min
+2	23:19:6	w	نَّخِيلࣲ		نخيل	of date-palms	nakhīlin
+3	23:19:7	w	وَأَعْنَٰبࣲ		واعنب	and grapevines	wa-aʿnābin
+3	23:19:8	w	لَّكُمْ		لكم	for you	lakum
+3	23:19:9	w	فِيهَا		فيها	in it	fīhā
+3	23:19:10	w	فَوَٰكِهُ		فوكه	(are) fruits	fawākihu
+3	23:19:11	w	كَثِيرَةࣱ		كثيرة	abundant	kathīratun
+3	23:19:12	w	وَمِنْهَا		ومنها	and from them	wamin'hā
+3	23:19:13	w	تَاكُلُونَ		تاكلون	you eat	takulūna
+3	23:19:14	e	۝١٩				
+3	23:20:1	w	وَشَجَرَةࣰ		وشجرة	And a tree	washajaratan
+4	23:20:2	w	تَخْرُجُ		تخرج	(that) springs forth	takhruju
+4	23:20:3	w	مِن		من	from	min
+4	23:20:4	w	طُورِ		طور	Mount Sinai	ṭūri
+4	23:20:5	w	سِينَآءَ		سينا	Mount Sinai	saynāa
+4	23:20:6	w	تَنۢبُتُ		تنبت	(which) produces	tanbutu
+4	23:20:7	w	بِالدُّهْنِ		بالدهن	oil	bil-duh'ni
+4	23:20:8	w	وَصِبْغࣲ		وصبغ	and a relish	waṣib'ghin
+4	23:20:9	w	لِّلَاكِلِينَ࣌		للاكلين	for those who eat	lil'ākilīna
+4	23:20:10	e	۝٢٠				
+5	23:21:1	w	وَإِنَّ		وان	And indeed	wa-inna
+5	23:21:2	w	لَكُمْ		لكم	for you	lakum
+5	23:21:3	w	فِے		في	in	fī
+5	23:21:4	w	ࡴ۬لَانْعَٰمِ		الانعم	the cattle	l-anʿāmi
+5	23:21:5	w	لَعِبْرَةࣰ࣌		لعبرة	surely, (is) a lesson	laʿib'ratan
+5	23:21:6	w	نَّسْقِيكُم		نسقيكم	We give you drink	nus'qīkum
+5	23:21:7	w	مِّمَّا		مما	from what	mimmā
+5	23:21:8	w	فِے		في	(is) in	fī
+5	23:21:9	w	بُطُونِهَا࣌		بطونها	their bellies	buṭūnihā
+5	23:21:10	w	وَلَكُمْ		ولكم	and for you	walakum
+6	23:21:11	w	فِيهَا		فيها	in them	fīhā
+6	23:21:12	w	مَنَٰفِعُ		منفع	(are) benefits	manāfiʿu
+6	23:21:13	w	كَثِيرَةࣱ		كثيرة	many	kathīratun
+6	23:21:14	w	وَمِنْهَا		ومنها	and of them	wamin'hā
+6	23:21:15	w	تَاكُلُونَ		تاكلون	you eat	takulūna
+6	23:21:16	e	۝٢١				
+6	23:22:1	w	وَعَلَيْهَا		وعليها	And on them	waʿalayhā
+6	23:22:2	w	وَعَلَى		وعلي	and on	waʿalā
+6	23:22:3	w	ࡰ۬لْفُلْكِ		الفلك	[the] ships	l-ful'ki
+7	23:22:4	w	تُحْمَلُونَ࣌		تحملون	you are carried	tuḥ'malūna
+7	23:22:5	e	۝٢٢				
+7	23:23:1	w	وَلَقَدَ		ولقد	And verily	walaqad
+7	23:23:2	w	ࡰرْسَلْنَا		ارسلنا	We sent	arsalnā
+7	23:23:3	w	نُوحاً		نوحا	Nuh	nūḥan
+7	23:23:4	w	ࡴلَىٰ		الي	to	ilā
+7	23:23:5	w	قَوْمِهِۦ		قومهي	his people	qawmihi
+7	23:23:6	w	فَقَالَ		فقال	and he said	faqāla
+7	23:23:7	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+7	23:23:8	w	ࡴ࢈عْبُدُواْ		اعبدوا	Worship	uʿ'budū
+7	23:23:9	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+8	23:23:10	w	مَا		ما	not	mā
+8	23:23:11	w	لَكُم		لكم	for you	lakum
+8	23:23:12	w	مِّنِ		من	(is) any	min
+8	23:23:13	w	ࡴلَٰهٍ		اله	god	ilāhin
+8	23:23:14	w	غَيْرُهُۥٓ࣌		غيره	other than Him	ghayruhu
+8	23:23:15	w	أَفَلَا		افلا	Then will not	afalā
+8	23:23:16	w	تَتَّقُونَ࣌		تتقون	you fear	tattaqūna
+8	23:23:17	e	۝٢٣				
+8	23:24:1	w	۞ فَقَالَ		فقال	But said	faqāla
+8	23:24:2	w	ࡰ۬لْمَلَؤُاْ		الملوا	the chiefs	l-mala-u
+8	23:24:3	w	ࡲ۬لذِينَ		الذين	(of) those who	alladhīna
+8	23:24:4	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+9	23:24:5	w	مِن		من	among	min
+9	23:24:6	w	قَوْمِهِۦ		قومهي	his people	qawmihi
+9	23:24:7	w	مَا		ما	This is not	mā
+9	23:24:8	w	هَٰذَآ		هذا	This is not	hādhā
+9	23:24:9	w	إِلَّا		الا	but	illā
+9	23:24:10	w	بَشَرࣱ		بشر	a man	basharun
+9	23:24:11	w	مِّثْلُكُمْ		مثلكم	like you	mith'lukum
+9	23:24:12	w	يُرِيدُ		يريد	he wishes	yurīdu
+9	23:24:13	w	أَنْ		ان	to	an
+9	23:24:14	w	يَّتَفَضَّلَ		يتفضل	assert (his) superiority	yatafaḍḍala
+9	23:24:15	w	عَلَيْكُمْ		عليكم	over you	ʿalaykum
+10	23:24:16	w	وَلَوْ		ولو	and if	walaw
+10	23:24:17	w	شَآءَ		شا	Allah had willed	shāa
+10	23:24:18	w	ࡰ۬للَّهُ		الله	Allah had willed	l-lahu
+10	23:24:19	w	لَأَنزَلَ		لانزل	surely He (would have) sent down	la-anzala
+10	23:24:20	w	مَلَٰٓئِكَةࣰ		مليكة	Angels	malāikatan
+10	23:24:21	w	مَّا		ما	Not	mā
+10	23:24:22	w	سَمِعْنَا		سمعنا	we heard	samiʿ'nā
+10	23:24:23	w	بِهَٰذَا		بهذا	of this	bihādhā
+10	23:24:24	w	فِےٓ		في	from	fī
+10	23:24:25	w	ءَابَآئِنَا		اباينا	our forefathers	ābāinā
+11	23:24:26	w	ࡰ۬لَاوَّلِينَ		الاولين	our forefathers	l-awalīna
+11	23:24:27	e	۝٢٤				
+11	23:25:1	w	إِنْ		ان	Not	in
+11	23:25:2	w	هُوَ		هو	he	huwa
+11	23:25:3	w	إِلَّا		الا	(is) but	illā
+11	23:25:4	w	رَجُلُۢ		رجل	a man	rajulun
+11	23:25:5	w	بِهِۦ		بهي	in him	bihi
+11	23:25:6	w	جِنَّةࣱ		جنة	(is) madness	jinnatun
+11	23:25:7	w	فَتَرَبَّصُواْ		فتربصوا	so wait	fatarabbaṣū
+11	23:25:8	w	بِهِۦ		بهي	concerning him	bihi
+11	23:25:9	w	حَتَّىٰ		حتي	until	ḥattā
+12	23:25:10	w	حِينࣲ࣌		حين	a time	ḥīnin
+12	23:25:11	e	۝٢٥				
+12	23:26:1	w	قَالَ		قال	He said	qāla
+12	23:26:2	w	رَبِّ		رب	My Lord	rabbi
+12	23:26:3	w	ࡴ࢈نصُرْنِے		انصرني	Help me	unṣur'nī
+12	23:26:4	w	بِمَا		بما	because	bimā
+12	23:26:5	w	كَذَّبُونِ࣌		كذبون	they deny me	kadhabūni
+12	23:26:6	e	۝٢٦				
+12	23:27:1	w	فَأَوْحَيْنَآ		فاوحينا	So We inspired	fa-awḥaynā
+12	23:27:2	w	إِلَيْهِ		اليه	to him	ilayhi
+13	23:27:3	w	أَنِ		ان	That	ani
+13	23:27:4	w	ࡴٜصْنَعِ		اصنع	construct	iṣ'naʿi
+13	23:27:5	w	ࡴ۬لْفُلْكَ		الفلك	the ship	l-ful'ka
+13	23:27:6	w	بِأَعْيُنِنَا		باعيننا	under Our eyes	bi-aʿyuninā
+13	23:27:7	w	وَوَحْيِنَا࣌		ووحينا	and Our inspiration	wawaḥyinā
+13	23:27:8	w	فَإِذَا		فاذا	then when	fa-idhā
+13	23:27:9	w	جَآءَ		جا	comes	jāa
+13	23:27:10	w	امْرُنَا		امرنا	Our Command	amrunā
+13	23:27:11	w	وَفَارَ		وفار	and gushes forth	wafāra
+13	23:27:12	w	ࡰ۬لتَّنُّورُ		التنور	the oven	l-tanūru
+14	23:27:13	w	فَاسْلُكْ		فاسلك	then put	fa-us'luk
+14	23:27:14	w	فِيهَا		فيها	into it	fīhā
+14	23:27:15	w	مِن		من	of	min
+14	23:27:16	w	كُلِّ		كل	every (kind)	kullin
+14	23:27:17	w	زَوْجَيْنِ		زوجين	(of) mates	zawjayni
+14	23:27:18	w	ࡴٜثْنَيْنِ		اثنين	two	ith'nayni
+14	23:27:19	w	وَأَهْلَكَ		واهلك	and your family	wa-ahlaka
+14	23:27:20	w	إِلَّا		الا	except	illā
+14	23:27:21	w	مَن		من	those	man
+14	23:27:22	w	سَبَقَ		سبق	(has) preceded	sabaqa
+14	23:27:23	w	عَلَيْهِ		عليه	against whom	ʿalayhi
+15	23:27:24	w	ࡴ۬لْقَوْلُ		القول	the Word	l-qawlu
+15	23:27:25	w	مِنْهُمْ࣌		منهم	thereof	min'hum
+15	23:27:26	w	وَلَا		ولا	And (do) not	walā
+15	23:27:27	w	تُخَٰطِبْنِے		تخطبني	address Me	tukhāṭib'nī
+15	23:27:28	w	فِے		في	concerning	fī
+15	23:27:29	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+15	23:27:30	w	ظَلَمُوٓاْ		ظلموا	wronged	ẓalamū
+15	23:27:31	w	إِنَّهُم		انهم	indeed, they	innahum
+15	23:27:32	w	مُّغْرَقُونَ࣌		مغرقون	(are) the ones to be drowned	mugh'raqūna
+15	23:27:33	e	۝٢٧				

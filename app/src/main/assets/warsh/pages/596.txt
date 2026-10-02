@@ -1,0 +1,120 @@
+1	92:10:1	w	فَسَنُيَسِّرُهُۥ		فسنيسره	Then We will ease him	fasanuyassiruhu
+1	92:10:2	w	لِلْعُسْرٜىٰ࣌		للعسري	towards [the] difficulty	lil'ʿus'rā
+1	92:10:3	e	۝١٠				
+1	92:11:1	w	وَمَا		وما	And not	wamā
+1	92:11:2	w	يُغْنِے		يغني	will avail	yugh'nī
+1	92:11:3	w	عَنْهُ		عنه	him	ʿanhu
+1	92:11:4	w	مَالُهُۥٓ		ماله	his wealth	māluhu
+1	92:11:5	w	إِذَا		اذا	when	idhā
+1	92:11:6	w	تَرَدّٜىٰٓ࣌		تردي	he falls	taraddā
+1	92:11:7	e	۝١١				
+1	92:12:1	w	إِنَّ		ان	Indeed	inna
+1	92:12:2	w	عَلَيْنَا		علينا	upon Us	ʿalaynā
+2	92:12:3	w	لَلْهُدٜىٰ		للهدي	(is) the guidance	lalhudā
+2	92:12:4	e	۝١٢				
+2	92:13:1	w	وَإِنَّ		وان	And indeed	wa-inna
+2	92:13:2	w	لَنَا		لنا	for Us	lanā
+2	92:13:3	w	لَلَاخِرَةَ		للاخرة	(is) the Hereafter	lalākhirata
+2	92:13:4	w	وَالُاولٜىٰ࣌		والاولي	and the first (life)	wal-ūlā
+2	92:13:5	e	۝١٣				
+2	92:14:1	w	فَأَنذَرْتُكُمْ		فانذرتكم	So I warn you	fa-andhartukum
+2	92:14:2	w	نَاراࣰ		نارا	(of) a Fire	nāran
+2	92:14:3	w	تَلَظّٜىٰ		تلظي	blazing	talaẓẓā
+2	92:14:4	e	۝١٤				
+3	92:15:1	w	لَا		لا	Not	lā
+3	92:15:2	w	يَصْلَيٰهَآ		يصليها	will burn (in) it	yaṣlāhā
+3	92:15:3	w	إِلَّا		الا	except	illā
+3	92:15:4	w	ࡰ۬لَاشْقَي		الاشقي	the most wretched	l-ashqā
+3	92:15:5	e	۝١٥				
+3	92:16:1	w	ࡰ۬لذِے		الذي	The one who	alladhī
+3	92:16:2	w	كَذَّبَ		كذب	denied	kadhaba
+3	92:16:3	w	وَتَوَلّٜىٰ࣌		وتولي	and turned away	watawallā
+3	92:16:4	e	۝١٦				
+3	92:17:1	w	وَسَيُجَنَّبُهَا		وسيجنبها	But will be removed from it	wasayujannabuhā
+4	92:17:2	w	ࡰ۬لَاتْقَي		الاتقي	the righteous	l-atqā
+4	92:17:3	e	۝١٧				
+4	92:18:1	w	ࡰ۬لذِے		الذي	The one who	alladhī
+4	92:18:2	w	يُوتِے		يوتي	gives	yu'tī
+4	92:18:3	w	مَالَهُۥ		ماله	his wealth	mālahu
+4	92:18:4	w	يَتَزَكّٜىٰ࣌		يتزكي	(to) purify himself	yatazakkā
+4	92:18:5	e	۝١٨				
+4	92:19:1	w	وَمَا		وما	And not	wamā
+4	92:19:2	w	لِأَحَدٍ		لاحد	for anyone	li-aḥadin
+4	92:19:3	w	عِندَهُۥ		عنده	with him	ʿindahu
+4	92:19:4	w	مِن		من	any	min
+4	92:19:5	w	نِّعْمَةࣲ		نعمة	favor	niʿ'matin
+5	92:19:6	w	تُجْزٜىٰٓ		تجزي	to be recompensed	tuj'zā
+5	92:19:7	e	۝١٩				
+5	92:20:1	w	إِلَّا		الا	Except	illā
+5	92:20:2	w	ࡰٜبْتِغَآءَ		ابتغا	seeking	ib'tighāa
+5	92:20:3	w	وَجْهِ		وجه	(the) Countenance	wajhi
+5	92:20:4	w	رَبِّهِ		ربه	(of) his Lord	rabbihi
+5	92:20:5	w	ࡴ۬لَاعْلٜىٰ࣌		الاعلي	the Most High	l-aʿlā
+5	92:20:6	e	۝٢٠				
+5	92:21:1	w	وَلَسَوْفَ		ولسوف	And soon, surely	walasawfa
+5	92:21:2	w	يَرْضٜىٰ࣌		يرضي	he will be pleased	yarḍā
+5	92:21:3	e	۝٢١				
+6	93:0:0	t					
+7	93:0:0	b					
+8	93:1:1	w	وَالضُّحٜىٰ		والضحي	By the morning brightness	wal-ḍuḥā
+8	93:1:2	e	۝١				
+8	93:2:1	w	وَاليْلِ		واليل	And the night	wa-al-layli
+8	93:2:2	w	إِذَا		اذا	when	idhā
+8	93:2:3	w	سَجٜىٰ		سجي	it covers with darkness	sajā
+8	93:2:4	e	۝٢				
+8	93:3:1	w	مَا		ما	Not	mā
+8	93:3:2	w	وَدَّعَكَ		ودعك	has forsaken you	waddaʿaka
+8	93:3:3	w	رَبُّكَ		ربك	your Lord	rabbuka
+8	93:3:4	w	وَمَا		وما	and not	wamā
+8	93:3:5	w	قَلٜىٰ࣌		قلي	He is displeased	qalā
+8	93:3:6	e	۝٣				
+9	93:4:1	w	وَلَلَاخِرَةُ		وللاخرة	And surely the Hereafter	walalākhiratu
+9	93:4:2	w	خَيْرࣱ		خير	(is) better	khayrun
+9	93:4:3	w	لَّكَ		لك	for you	laka
+9	93:4:4	w	مِنَ		من	than	mina
+9	93:4:5	w	ࡰ۬لُاولٜىٰ࣌		الاولي	the first	l-ūlā
+9	93:4:6	e	۝٤				
+9	93:5:1	w	وَلَسَوْفَ		ولسوف	And soon	walasawfa
+9	93:5:2	w	يُعْطِيكَ		يعطيك	will give you	yuʿ'ṭīka
+9	93:5:3	w	رَبُّكَ		ربك	your Lord	rabbuka
+10	93:5:4	w	فَتَرْضٜىٰٓ࣌		فترضي	then you will be satisfied	fatarḍā
+10	93:5:5	e	۝٥				
+10	93:6:1	w	أَلَمْ		الم	Did not	alam
+10	93:6:2	w	يَجِدْكَ		يجدك	He find you	yajid'ka
+10	93:6:3	w	يَتِيماࣰ		يتيما	an orphan	yatīman
+10	93:6:4	w	فَـَٔاوٜىٰ		فاوي	and give shelter	faāwā
+10	93:6:5	e	۝٦				
+10	93:7:1	w	وَوَجَدَكَ		ووجدك	And He found you	wawajadaka
+10	93:7:2	w	ضَآلّاࣰ		ضالا	lost	ḍāllan
+11	93:7:3	w	فَهَدٜىٰ		فهدي	so He guided	fahadā
+11	93:7:4	e	۝٧				
+11	93:8:1	w	وَوَجَدَكَ		ووجدك	And He found you	wawajadaka
+11	93:8:2	w	عَآئِلاࣰ		عايلا	in need	ʿāilan
+11	93:8:3	w	فَأَغْنٜىٰ࣌		فاغني	so He made self-sufficient	fa-aghnā
+11	93:8:4	e	۝٨				
+11	93:9:1	w	فَأَمَّا		فاما	So as for	fa-ammā
+11	93:9:2	w	ࡰ۬لْيَتِيمَ		اليتيم	the orphan	l-yatīma
+11	93:9:3	w	فَلَا		فلا	then (do) not	falā
+11	93:9:4	w	تَقْهَرْ࣌		تقهر	oppress	taqhar
+11	93:9:5	e	۝٩				
+12	93:10:1	w	وَأَمَّا		واما	And as for	wa-ammā
+12	93:10:2	w	ࡰ۬لسَّآئِلَ		السايل	one who asks	l-sāila
+12	93:10:3	w	فَلَا		فلا	then (do) not	falā
+12	93:10:4	w	تَنْهَرْ࣌		تنهر	repel	tanhar
+12	93:10:5	e	۝١٠				
+12	93:11:1	w	وَأَمَّا		واما	But as for	wa-ammā
+12	93:11:2	w	بِنِعْمَةِ		بنعمة	(the) Favor	biniʿ'mati
+12	93:11:3	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+12	93:11:4	w	فَحَدِّثَ࣌		فحدث	narrate	faḥaddith
+12	93:11:5	e	۝١١				
+13	94:0:0	t					
+14	94:0:0	b					
+15	94:1:1	w	ࡰلَمْ		الم	Have not	alam
+15	94:1:2	w	نَشْرَحْ		نشرح	We expanded	nashraḥ
+15	94:1:3	w	لَكَ		لك	for you	laka
+15	94:1:4	w	صَدْرَكَ		صدرك	your breast	ṣadraka
+15	94:1:5	e	۝١				
+15	94:2:1	w	وَوَضَعْنَا		ووضعنا	And We removed	wawaḍaʿnā
+15	94:2:2	w	عَنكَ		عنك	from you	ʿanka
+15	94:2:3	w	وِزْرَكَ		وزرك	your burden	wiz'raka
+15	94:2:4	e	۝٢				

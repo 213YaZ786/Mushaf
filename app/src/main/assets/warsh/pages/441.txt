@@ -1,0 +1,144 @@
+1	36:12:1	w	وَاضْرِبْ		واضرب	And set forth	wa-iḍ'rib
+1	36:12:2	w	لَهُم		لهم	to them	lahum
+1	36:12:3	w	مَّثَلاً		مثلا	an example	mathalan
+1	36:12:4	w	ࡰصْحَٰبَ		اصحب	(of the) companions	aṣḥāba
+1	36:12:5	w	ࡰ۬لْقَرْيَةِ		القرية	(of) the city	l-qaryati
+1	36:12:6	w	إِذْ		اذ	when	idh
+1	36:12:7	w	جَآءَهَا		جاها	came to it	jāahā
+1	36:12:8	w	ࡰ۬لْمُرْسَلُونَ		المرسلون	the Messengers	l-mur'salūna
+1	36:12:9	e	۝١٢				
+2	36:13:1	w	إِذَ		اذ	When	idh
+2	36:13:2	w	ࡰرْسَلْنَآ		ارسلنا	We sent	arsalnā
+2	36:13:3	w	إِلَيْهِمُ		اليهم	to them	ilayhimu
+2	36:13:4	w	ࡲٜثْنَيْنِ		اثنين	two (Messengers)	ith'nayni
+2	36:13:5	w	فَكَذَّبُوهُمَا		فكذبوهما	but they denied both of them	fakadhabūhumā
+2	36:13:6	w	فَعَزَّزْنَا		فعززنا	so We strengthened them	faʿazzaznā
+2	36:13:7	w	بِثَالِثࣲ		بثالث	with a third	bithālithin
+2	36:13:8	w	فَقَالُوٓاْ		فقالوا	and they said	faqālū
+3	36:13:9	w	إِنَّآ		انا	Indeed, We	innā
+3	36:13:10	w	إِلَيْكُم		اليكم	to you	ilaykum
+3	36:13:11	w	مُّرْسَلُونَ࣌		مرسلون	(are) Messengers	mur'salūna
+3	36:13:12	e	۝١٣				
+3	36:14:1	w	قَالُواْ		قالوا	They said	qālū
+3	36:14:2	w	مَآ		ما	Not	mā
+3	36:14:3	w	أَنتُمُۥٓ		انتم	you	antum
+3	36:14:4	w	إِلَّا		الا	(are) but	illā
+3	36:14:5	w	بَشَرࣱ		بشر	human beings	basharun
+3	36:14:6	w	مِّثْلُنَا		مثلنا	like us	mith'lunā
+4	36:14:7	w	وَمَآ		وما	and not	wamā
+4	36:14:8	w	أَنزَلَ		انزل	has revealed	anzala
+4	36:14:9	w	ࡰ۬لرَّحْمَٰنُ		الرحمن	the Most Gracious	l-raḥmānu
+4	36:14:10	w	مِن		من	any	min
+4	36:14:11	w	شَےْءٍ		شي	thing	shayin
+4	36:14:12	w	ࡴنَ		ان	Not	in
+4	36:14:13	w	ࡰنتُمُۥٓ		انتم	you	antum
+4	36:14:14	w	إِلَّا		الا	(are) but	illā
+4	36:14:15	w	تَكْذِبُونَ࣌		تكذبون	lying	takdhibūna
+4	36:14:16	e	۝١٤				
+4	36:15:1	w	قَالُواْ		قالوا	They said	qālū
+5	36:15:2	w	رَبُّنَا		ربنا	Our Lord	rabbunā
+5	36:15:3	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+5	36:15:4	w	إِنَّآ		انا	that we	innā
+5	36:15:5	w	إِلَيْكُمْ		اليكم	to you	ilaykum
+5	36:15:6	w	لَمُرْسَلُونَ		لمرسلون	(are) surely Messengers	lamur'salūna
+5	36:15:7	e	۝١٥				
+5	36:16:1	w	وَمَا		وما	And not	wamā
+5	36:16:2	w	عَلَيْنَآ		علينا	(is) on us	ʿalaynā
+5	36:16:3	w	إِلَّا		الا	except	illā
+5	36:16:4	w	ࡰ۬لْبَلَٰغُ		البلغ	the conveyance	l-balāghu
+6	36:16:5	w	ࡲ۬لْمُبِينُ࣌		المبين	clear	l-mubīnu
+6	36:16:6	e	۝١٦				
+6	36:17:1	w	قَالُوٓاْ		قالوا	They said	qālū
+6	36:17:2	w	إِنَّا		انا	Indeed, we	innā
+6	36:17:3	w	تَطَيَّرْنَا		تطيرنا	[we] see an evil omen	taṭayyarnā
+6	36:17:4	w	بِكُمْ		بكم	from you	bikum
+6	36:17:5	w	لَئِن		لين	If	la-in
+6	36:17:6	w	لَّمْ		لم	not	lam
+6	36:17:7	w	تَنتَهُواْ		تنتهوا	you desist	tantahū
+6	36:17:8	w	لَنَرْجُمَنَّكُمْ		لنرجمنكم	surely, we will stone you	lanarjumannakum
+7	36:17:9	w	وَلَيَمَسَّنَّكُم		وليمسنكم	and surely will touch you	walayamassannakum
+7	36:17:10	w	مِّنَّا		منا	from us	minnā
+7	36:17:11	w	عَذَابٌ		عذاب	a punishment	ʿadhābun
+7	36:17:12	w	ࡰلِيمࣱ࣌		اليم	painful	alīmun
+7	36:17:13	e	۝١٧				
+7	36:18:1	w	قَالُواْ		قالوا	They said	qālū
+7	36:18:2	w	طَٰٓئِرُكُم		طيركم	Your evil omen	ṭāirukum
+7	36:18:3	w	مَّعَكُمُۥٓ		معكم	(be) with you	maʿakum
+7	36:18:4	w	أَئِن		اين	Is it because	a-in
+8	36:18:5	w	ذُكِّرْتُم࣌		ذكرتم	you are admonished	dhukkir'tum
+8	36:18:6	w	بَلَ		بل	Nay	bal
+8	36:18:7	w	ࡰنتُمْ		انتم	you	antum
+8	36:18:8	w	قَوْمࣱ		قوم	(are) a people	qawmun
+8	36:18:9	w	مُّسْرِفُونَ࣌		مسرفون	transgressing	mus'rifūna
+8	36:18:10	e	۝١٨				
+8	36:19:1	w	وَجَآءَ		وجا	And came	wajāa
+8	36:19:2	w	مِنَ		من	from	min
+8	36:19:3	w	ࡰقْصَا		اقصا	(the) farthest end	aqṣā
+8	36:19:4	w	ࡰ۬لْمَدِينَةِ		المدينة	(of) the city	l-madīnati
+9	36:19:5	w	رَجُلࣱ		رجل	a man	rajulun
+9	36:19:6	w	يَسْعٜىٰ࣌		يسعي	running	yasʿā
+9	36:19:7	w	قَالَ		قال	He said	qāla
+9	36:19:8	w	يَٰقَوْمِ		يقوم	O my People	yāqawmi
+9	36:19:9	w	ࡴٜتَّبِعُواْ		اتبعوا	Follow	ittabiʿū
+9	36:19:10	w	ࡲ۬لْمُرْسَلِينَ		المرسلين	the Messengers	l-mur'salīna
+9	36:19:11	e	۝١٩				
+9	36:20:1	w	ࡰٜتَّبِعُواْ		اتبعوا	Follow	ittabiʿū
+10	36:20:2	w	مَن		من	(those) who	man
+10	36:20:3	w	لَّا		لا	(do) not	lā
+10	36:20:4	w	يَسْـَٔلُكُمُۥٓ		يسلكم	ask (of) you	yasalukum
+10	36:20:5	w	أَجْراࣰ		اجرا	any payment	ajran
+10	36:20:6	w	وَهُم		وهم	and they	wahum
+10	36:20:7	w	مُّهْتَدُونَ࣌		مهتدون	(are) rightly guided	muh'tadūna
+10	36:20:8	e	۝٢٠				
+10	36:21:1	w	وَمَا		وما	And what	wamā
+10	36:21:2	w	لِيَ		لي	(is) for me	liya
+10	36:21:3	w	لَآ		لا	(that) not	lā
+10	36:21:4	w	أَعْبُدُ		اعبد	I worship	aʿbudu
+11	36:21:5	w	ࡲ۬لذِے		الذي	the One Who	alladhī
+11	36:21:6	w	فَطَرَنِے		فطرني	created me	faṭaranī
+11	36:21:7	w	وَإِلَيْهِ		واليه	and to Whom	wa-ilayhi
+11	36:21:8	w	تُرْجَعُونَ࣌		ترجعون	you will be returned	tur'jaʿūna
+11	36:21:9	e	۝٢١				
+11	36:22:1	w	ءَآتَّخِذُ		اتخذ	Should I take	a-attakhidhu
+11	36:22:2	w	مِن		من	besides Him	min
+11	36:22:3	w	دُونِهِۦٓ		دونهي	besides Him	dūnihi
+11	36:22:4	w	ءَالِهَةً		الهة	gods	ālihatan
+12	36:22:5	w	ࡴنْ		ان	If	in
+12	36:22:6	w	يُّرِدْنِ		يردن	intends for me	yurid'ni
+12	36:22:7	w	ࡴ۬لرَّحْمَٰنُ		الرحمن	the Most Gracious	l-raḥmānu
+12	36:22:8	w	بِضُرࣲّ		بضر	any harm	biḍurrin
+12	36:22:9	w	لَّا		لا	not	lā
+12	36:22:10	w	تُغْنِ		تغن	will avail	tugh'ni
+12	36:22:11	w	عَنِّے		عني	[from] me	ʿannī
+12	36:22:12	w	شَفَٰعَتُهُمْ		شفعتهم	their intercession	shafāʿatuhum
+12	36:22:13	w	شَيْـٔاࣰ		شيا	(in) anything	shayan
+13	36:22:14	w	وَلَا		ولا	and not	walā
+13	36:22:15	w	يُنقِذُونِۦٓ࣌		ينقذوني	they (can) save me	yunqidhūni
+13	36:22:16	e	۝٢٢				
+13	36:23:1	w	إِنِّيَ		اني	Indeed, I	innī
+13	36:23:2	w	إِذاࣰ		اذا	then	idhan
+13	36:23:3	w	لَّفِے		لفي	surely would be in	lafī
+13	36:23:4	w	ضَلَٰلࣲ		ضلل	an error	ḍalālin
+13	36:23:5	w	مُّبِينٍ࣌		مبين	clear	mubīnin
+13	36:23:6	e	۝٢٣				
+13	36:24:1	w	ࡴنِّيَ		اني	Indeed, I	innī
+13	36:24:2	w	ءَامَنتُ		امنت	[I] have believed	āmantu
+14	36:24:3	w	بِرَبِّكُمْ		بربكم	in your Lord	birabbikum
+14	36:24:4	w	فَاسْمَعُونِ࣌		فاسمعون	so listen to me	fa-is'maʿūni
+14	36:24:5	e	۝٢٤				
+14	36:25:1	w	قِيلَ		قيل	It was said	qīla
+14	36:25:2	w	ࡸَدْخُلِ		ادخل	Enter	ud'khuli
+14	36:25:3	w	ࡴ۬لْجَنَّةَ࣌		الجنة	Paradise	l-janata
+14	36:25:4	w	قَالَ		قال	He said	qāla
+14	36:25:5	w	يَٰلَيْتَ		يليت	I wish	yālayta
+14	36:25:6	w	قَوْمِے		قومي	my people	qawmī
+15	36:25:7	w	يَعْلَمُونَ		يعلمون	knew	yaʿlamūna
+15	36:25:8	e	۝٢٥				
+15	36:26:1	w	بِمَا		بما	Of how	bimā
+15	36:26:2	w	غَفَرَ		غفر	has forgiven	ghafara
+15	36:26:3	w	لِے		لي	me	lī
+15	36:26:4	w	رَبِّے		ربي	my Lord	rabbī
+15	36:26:5	w	وَجَعَلَنِے		وجعلني	and placed me	wajaʿalanī
+15	36:26:6	w	مِنَ		من	among	mina
+15	36:26:7	w	ࡰ۬لْمُكْرَمِينَ࣌		المكرمين	the honored ones	l-muk'ramīna
+15	36:26:8	e	۝٢٦				

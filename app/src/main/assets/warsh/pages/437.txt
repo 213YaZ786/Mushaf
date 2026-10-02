@@ -1,0 +1,139 @@
+1	35:19:1	w	وَمَا		وما	And not	wamā
+1	35:19:2	w	يَسْتَوِے		يستوي	equal	yastawī
+1	35:19:3	w	ࡴ۬لَاعْمٜىٰ		الاعمي	(are) the blind	l-aʿmā
+1	35:19:4	w	وَالْبَصِيرُ		والبصير	and the seeing	wal-baṣīru
+1	35:19:5	e	۝١٩				
+1	35:20:1	w	وَلَا		ولا	And not	walā
+1	35:20:2	w	ࡰ۬لظُّلُمَٰتُ		الظلمت	the darkness[es]	l-ẓulumātu
+1	35:20:3	w	وَلَا		ولا	and not	walā
+1	35:20:4	w	ࡰ۬لنُّورُ		النور	[the] light	l-nūru
+1	35:20:5	e	۝٢٠				
+2	35:21:1	w	وَلَا		ولا	And not	walā
+2	35:21:2	w	ࡰ۬لظِّلُّ		الظل	the shade	l-ẓilu
+2	35:21:3	w	وَلَا		ولا	and not	walā
+2	35:21:4	w	ࡰ۬لْحَرُورُ࣌		الحرور	the heat	l-ḥarūru
+2	35:21:5	e	۝٢١				
+2	35:22:1	w	وَمَا		وما	And not	wamā
+2	35:22:2	w	يَسْتَوِے		يستوي	equal	yastawī
+2	35:22:3	w	ࡴ۬لَاحْيَآءُ		الاحيا	(are) the living	l-aḥyāu
+2	35:22:4	w	وَلَا		ولا	and not	walā
+3	35:22:5	w	ࡰ۬لَامْوَٰتُ࣌		الاموت	the dead	l-amwātu
+3	35:22:6	w	إِنَّ		ان	Indeed	inna
+3	35:22:7	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+3	35:22:8	w	يُسْمِعُ		يسمع	causes to hear	yus'miʿu
+3	35:22:9	w	مَنْ		من	whom	man
+3	35:22:10	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+3	35:22:11	w	وَمَآ		وما	and not	wamā
+3	35:22:12	w	أَنتَ		انت	you	anta
+3	35:22:13	w	بِمُسْمِعࣲ		بمسمع	can make hear	bimus'miʿin
+3	35:22:14	w	مَّن		من	(those) who	man
+3	35:22:15	w	فِے		في	(are) in	fī
+4	35:22:16	w	ࡴ۬لْقُبُورِ࣌		القبور	the graves	l-qubūri
+4	35:22:17	e	۝٢٢				
+4	35:23:1	w	إِنَ		ان	Not	in
+4	35:23:2	w	ࡰنتَ		انت	you (are)	anta
+4	35:23:3	w	إِلَّا		الا	but	illā
+4	35:23:4	w	نَذِيرٌ࣌		نذير	a warner	nadhīrun
+4	35:23:5	e	۝٢٣				
+4	35:24:1	w	ࡴنَّآ		انا	Indeed, We	innā
+4	35:24:2	w	أَرْسَلْنَٰكَ		ارسلنك	[We] have sent you	arsalnāka
+4	35:24:3	w	بِالْحَقِّ		بالحق	with the truth	bil-ḥaqi
+4	35:24:4	w	بَشِيراࣰ		بشيرا	(as) a bearer of glad tidings	bashīran
+5	35:24:5	w	وَنَذِيراࣰ࣌		ونذيرا	and (as) a warner	wanadhīran
+5	35:24:6	w	وَإِن		وان	And not	wa-in
+5	35:24:7	w	مِّنُ		من	(was) any	min
+5	35:24:8	w	ࡳمَّةٍ		امة	nation	ummatin
+5	35:24:9	w	ࡴلَّا		الا	but	illā
+5	35:24:10	w	خَلَا		خلا	had passed	khalā
+5	35:24:11	w	فِيهَا		فيها	within it	fīhā
+5	35:24:12	w	نَذِيرࣱ࣌		نذير	a warner	nadhīrun
+5	35:24:13	e	۝٢٤				
+5	35:25:1	w	وَإِنْ		وان	And if	wa-in
+5	35:25:2	w	يُّكَذِّبُوكَ		يكذبوك	they deny you	yukadhibūka
+6	35:25:3	w	فَقَدْ		فقد	then certainly	faqad
+6	35:25:4	w	كَذَّبَ		كذب	denied	kadhaba
+6	35:25:5	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	35:25:6	w	مِن		من	(were) before them	min
+6	35:25:7	w	قَبْلِهِمْ		قبلهم	(were) before them	qablihim
+6	35:25:8	w	جَآءَتْهُمْ		جاتهم	Came to them	jāathum
+6	35:25:9	w	رُسُلُهُم		رسلهم	their Messengers	rusuluhum
+6	35:25:10	w	بِالْبَيِّنَٰتِ		بالبينت	with clear signs	bil-bayināti
+7	35:25:11	w	وَبِالزُّبُرِ		وبالزبر	and with Scriptures	wabil-zuburi
+7	35:25:12	w	وَبِالْكِتَٰبِ		وبالكتب	and with the Book	wabil-kitābi
+7	35:25:13	w	ࡴ۬لْمُنِيرِ		المنير	[the] enlightening	l-munīri
+7	35:25:14	e	۝٢٥				
+7	35:26:1	w	ثُمَّ		ثم	Then	thumma
+7	35:26:2	w	أَخَذتُّ		اخذت	I seized	akhadhtu
+7	35:26:3	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+7	35:26:4	w	كَفَرُواْ࣌		كفروا	disbelieved	kafarū
+8	35:26:5	w	فَكَيْفَ		فكيف	and how	fakayfa
+8	35:26:6	w	كَانَ		كان	was	kāna
+8	35:26:7	w	نَكِيرِۦٓ࣌		نكيري	My rejection	nakīri
+8	35:26:8	e	۝٢٦				
+8	35:27:1	w	أَلَمْ		الم	Do not	alam
+8	35:27:2	w	تَرَ		تر	you see	tara
+8	35:27:3	w	أَنَّ		ان	that	anna
+8	35:27:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+8	35:27:5	w	أَنزَلَ		انزل	sends down	anzala
+8	35:27:6	w	مِنَ		من	from	mina
+8	35:27:7	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+9	35:27:8	w	مَآءࣰ		ما	water	māan
+9	35:27:9	w	فَأَخْرَجْنَا		فاخرجنا	then We bring forth	fa-akhrajnā
+9	35:27:10	w	بِهِۦ		بهي	therewith	bihi
+9	35:27:11	w	ثَمَرَٰتࣲ		ثمرت	fruits	thamarātin
+9	35:27:12	w	مُّخْتَلِفاً		مختلفا	(of) various	mukh'talifan
+9	35:27:13	w	ࡰلْوَٰنُهَا࣌		الونها	[their] colors	alwānuhā
+9	35:27:14	w	وَمِنَ		ومن	And in	wamina
+9	35:27:15	w	ࡰ۬لْجِبَالِ		الجبال	the mountains	l-jibāli
+10	35:27:16	w	جُدَدُۢ		جدد	(are) tracts	judadun
+10	35:27:17	w	بِيضࣱ		بيض	white	bīḍun
+10	35:27:18	w	وَحُمْرࣱ		وحمر	and red	waḥum'run
+10	35:27:19	w	مُّخْتَلِفٌ		مختلف	(of) various	mukh'talifun
+10	35:27:20	w	ࡰلْوَٰنُهَا		الونها	[their] colors	alwānuhā
+10	35:27:21	w	وَغَرَابِيبُ		وغرابيب	and intensely black	wagharābību
+10	35:27:22	w	سُودࣱ࣌		سود	and intensely black	sūdun
+10	35:27:23	e	۝٢٧				
+11	35:28:1	w	وَمِنَ		ومن	And among	wamina
+11	35:28:2	w	ࡰ۬لنَّاسِ		الناس	men	l-nāsi
+11	35:28:3	w	وَالدَّوَآبِّ		والدواب	and moving creatures	wal-dawābi
+11	35:28:4	w	وَالَانْعَٰمِ		والانعم	and the cattle	wal-anʿāmi
+11	35:28:5	w	مُخْتَلِفٌ		مختلف	(are) various	mukh'talifun
+11	35:28:6	w	ࡰلْوَٰنُهُۥ		الونه	[their] colors	alwānuhu
+11	35:28:7	w	كَذَٰلِكَ࣌		كذلك	likewise	kadhālika
+12	35:28:8	w	إِنَّمَا		انما	Only	innamā
+12	35:28:9	w	يَخْشَى		يخشي	fear	yakhshā
+12	35:28:10	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+12	35:28:11	w	مِنْ		من	among	min
+12	35:28:12	w	عِبَادِهِ		عباده	His slaves	ʿibādihi
+12	35:28:13	w	ࡴ۬لْعُلَمَٰٓؤُاْ࣌		العلموا	those who have knowledge	l-ʿulamāu
+12	35:28:14	w	ࡹِنَّ		ان	Indeed	inna
+12	35:28:15	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+12	35:28:16	w	عَزِيزٌ		عزيز	(is) All-Mighty	ʿazīzun
+12	35:28:17	w	غَفُورٌ࣌		غفور	Oft-Forgiving	ghafūrun
+12	35:28:18	e	۝٢٨				
+13	35:29:1	w	ࡴنَّ		ان	Indeed	inna
+13	35:29:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	35:29:3	w	يَتْلُونَ		يتلون	recite	yatlūna
+13	35:29:4	w	كِتَٰبَ		كتب	(the) Book	kitāba
+13	35:29:5	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+13	35:29:6	w	وَأَقَامُواْ		واقاموا	and establish	wa-aqāmū
+13	35:29:7	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+13	35:29:8	w	وَأَنفَقُواْ		وانفقوا	and spend	wa-anfaqū
+13	35:29:9	w	مِمَّا		مما	out of what	mimmā
+14	35:29:10	w	رَزَقْنَٰهُمْ		رزقنهم	We have provided them	razaqnāhum
+14	35:29:11	w	سِرّاࣰ		سرا	secretly	sirran
+14	35:29:12	w	وَعَلَٰنِيَةࣰ		وعلنية	and openly	waʿalāniyatan
+14	35:29:13	w	يَرْجُونَ		يرجون	hope	yarjūna
+14	35:29:14	w	تِجَٰرَةࣰ		تجرة	(for) a commerce	tijāratan
+14	35:29:15	w	لَّن		لن	never	lan
+14	35:29:16	w	تَبُورَ		تبور	it will perish	tabūra
+14	35:29:17	e	۝٢٩				
+14	35:30:1	w	لِيُوَفِّيَهُمُۥٓ		ليوفيهم	That He may give them in full	liyuwaffiyahum
+15	35:30:2	w	أُجُورَهُمْ		اجورهم	their rewards	ujūrahum
+15	35:30:3	w	وَيَزِيدَهُم		ويزيدهم	and increase for them	wayazīdahum
+15	35:30:4	w	مِّن		من	of	min
+15	35:30:5	w	فَضْلِهِۦٓ࣌		فضلهي	His Bounty	faḍlihi
+15	35:30:6	w	إِنَّهُۥ		انه	Indeed, He	innahu
+15	35:30:7	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+15	35:30:8	w	شَكُورࣱ࣌		شكور	Most Appreciative	shakūrun
+15	35:30:9	e	۝٣٠				

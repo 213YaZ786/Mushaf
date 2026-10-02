@@ -1,0 +1,139 @@
+1	26:207:1	w	مَآ		ما	Not	mā
+1	26:207:2	w	أَغْنٜىٰ		اغني	(will) avail	aghnā
+1	26:207:3	w	عَنْهُم		عنهم	them	ʿanhum
+1	26:207:4	w	مَّا		ما	what	mā
+1	26:207:5	w	كَانُواْ		كانوا	enjoyment they were given	kānū
+1	26:207:6	w	يُمَتَّعُونَ࣌		يمتعون	enjoyment they were given	yumattaʿūna
+1	26:207:7	e	۝٢٠٧				
+1	26:208:1	w	وَمَآ		وما	And not	wamā
+1	26:208:2	w	أَهْلَكْنَا		اهلكنا	We destroyed	ahlaknā
+2	26:208:3	w	مِن		من	any	min
+2	26:208:4	w	قَرْيَةٍ		قرية	town	qaryatin
+2	26:208:5	w	ࡴلَّا		الا	but	illā
+2	26:208:6	w	لَهَا		لها	it had	lahā
+2	26:208:7	w	مُنذِرُونَ		منذرون	warners	mundhirūna
+2	26:208:8	e	۝٢٠٨				
+2	26:209:1	w	ذِكْرٜىٰ࣌		ذكري	(To) remind	dhik'rā
+2	26:209:2	w	وَمَا		وما	and not	wamā
+2	26:209:3	w	كُنَّا		كنا	We are	kunnā
+3	26:209:4	w	ظَٰلِمِينَ࣌		ظلمين	unjust	ẓālimīna
+3	26:209:5	e	۝٢٠٩				
+3	26:210:1	w	۞ وَمَا		وما	And not	wamā
+3	26:210:2	w	تَنَزَّلَتْ		تنزلت	have brought it down	tanazzalat
+3	26:210:3	w	بِهِ		به	have brought it down	bihi
+3	26:210:4	w	ࡴ۬لشَّيَٰطِينُ		الشيطين	the devils	l-shayāṭīnu
+3	26:210:5	w	وَمَا		وما	And not	wamā
+3	26:210:6	w	يَنۢبَغِے		ينبغي	(it) suits	yanbaghī
+3	26:210:7	w	لَهُمْ		لهم	[for] them	lahum
+4	26:210:8	w	وَمَا		وما	and not	wamā
+4	26:210:9	w	يَسْتَطِيعُونَ࣌		يستطيعون	they are able	yastaṭīʿūna
+4	26:210:10	e	۝٢١٠				
+4	26:211:1	w	إِنَّهُمْ		انهم	Indeed, they	innahum
+4	26:211:2	w	عَنِ		عن	from	ʿani
+4	26:211:3	w	ࡴ۬لسَّمْعِ		السمع	the hearing	l-samʿi
+4	26:211:4	w	لَمَعْزُولُونَ࣌		لمعزولون	(are) surely banished	lamaʿzūlūna
+4	26:211:5	e	۝٢١١				
+5	26:212:1	w	فَلَا		فلا	So (do) not	falā
+5	26:212:2	w	تَدْعُ		تدع	invoke	tadʿu
+5	26:212:3	w	مَعَ		مع	with	maʿa
+5	26:212:4	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+5	26:212:5	w	إِلَٰهاً		الها	god	ilāhan
+5	26:212:6	w	اٰخَرَ		اخر	another	ākhara
+5	26:212:7	w	فَتَكُونَ		فتكون	lest you be	fatakūna
+5	26:212:8	w	مِنَ		من	of	mina
+5	26:212:9	w	ࡰ۬لْمُعَذَّبِينَ࣌		المعذبين	those punished	l-muʿadhabīna
+5	26:212:10	e	۝٢١٢				
+6	26:213:1	w	وَأَنذِرْ		وانذر	And warn	wa-andhir
+6	26:213:2	w	عَشِيرَتَكَ		عشيرتك	your kindred	ʿashīrataka
+6	26:213:3	w	ࡰ۬لَاقْرَبِينَ		الاقربين	[the] closest	l-aqrabīna
+6	26:213:4	e	۝٢١٣				
+6	26:214:1	w	وَاخْفِضْ		واخفض	And lower	wa-ikh'fiḍ
+6	26:214:2	w	جَنَاحَكَ		جناحك	your wing	janāḥaka
+6	26:214:3	w	لِمَنِ		لمن	to (those) who	limani
+6	26:214:4	w	ࡴٜتَّبَعَكَ		اتبعك	follow you	ittabaʿaka
+7	26:214:5	w	مِنَ		من	of	mina
+7	26:214:6	w	ࡰ۬لْمُومِنِينَ࣌		المومنين	the believers	l-mu'minīna
+7	26:214:7	e	۝٢١٤				
+7	26:215:1	w	فَإِنْ		فان	Then if	fa-in
+7	26:215:2	w	عَصَوْكَ		عصوك	they disobey you	ʿaṣawka
+7	26:215:3	w	فَقُلِ		فقل	then say	faqul
+7	26:215:4	w	ࡴنِّے		اني	Indeed, I am	innī
+7	26:215:5	w	بَرِےٓءࣱ		بري	innocent	barīon
+7	26:215:6	w	مِّمَّا		مما	of what	mimmā
+7	26:215:7	w	تَعْمَلُونَ࣌		تعملون	you do	taʿmalūna
+7	26:215:8	e	۝٢١٥				
+8	26:216:1	w	فَتَوَكَّلْ		فتوكل	And put (your) trust	watawakkal
+8	26:216:2	w	عَلَى		علي	in	ʿalā
+8	26:216:3	w	ࡰ۬لْعَزِيزِ		العزيز	the All-Mighty	l-ʿazīzi
+8	26:216:4	w	ࡴ۬لرَّحِيمِ		الرحيم	the Most Merciful	l-raḥīmi
+8	26:216:5	e	۝٢١٦				
+8	26:217:1	w	ࡴ۬لذِے		الذي	The One Who	alladhī
+8	26:217:2	w	يَرٜيٰكَ		يريك	sees you	yarāka
+8	26:217:3	w	حِينَ		حين	when	ḥīna
+8	26:217:4	w	تَقُومُ		تقوم	you stand up	taqūmu
+8	26:217:5	e	۝٢١٧				
+9	26:218:1	w	وَتَقَلُّبَكَ		وتقلبك	And your movements	wataqallubaka
+9	26:218:2	w	فِے		في	among	fī
+9	26:218:3	w	ࡴ۬لسَّٰجِدِينَ࣌		السجدين	those who prostrate	l-sājidīna
+9	26:218:4	e	۝٢١٨				
+9	26:219:1	w	إِنَّهُۥ		انه	Indeed, He	innahu
+9	26:219:2	w	هُوَ		هو	[He]	huwa
+9	26:219:3	w	ࡰ۬لسَّمِيعُ		السميع	(is) the All-Hearer	l-samīʿu
+9	26:219:4	w	ࡲ۬لْعَلِيمُ࣌		العليم	the All-Knower	l-ʿalīmu
+9	26:219:5	e	۝٢١٩				
+10	26:220:1	w	هَلُ		هل	Shall	hal
+10	26:220:2	w	ࡳنَبِّئُكُمْ		انبيكم	I inform you	unabbi-ukum
+10	26:220:3	w	عَلَىٰ		علي	upon	ʿalā
+10	26:220:4	w	مَن		من	whom	man
+10	26:220:5	w	تَنَزَّلُ		تنزل	descend	tanazzalu
+10	26:220:6	w	ࡲ۬لشَّيَٰطِينُ		الشيطين	the devils	l-shayāṭīnu
+10	26:220:7	e	۝٢٢٠				
+10	26:221:1	w	تَنَزَّلُ		تنزل	They descend	tanazzalu
+10	26:221:2	w	عَلَىٰ		علي	upon	ʿalā
+10	26:221:3	w	كُلِّ		كل	every	kulli
+11	26:221:4	w	أَفَّاكٍ		افاك	liar	affākin
+11	26:221:5	w	ࡰثِيمࣲ		اثيم	sinful	athīmin
+11	26:221:6	e	۝٢٢١				
+11	26:222:1	w	يُلْقُونَ		يلقون	They pass on	yul'qūna
+11	26:222:2	w	ࡰ۬لسَّمْعَ		السمع	(what is) heard	l-samʿa
+11	26:222:3	w	وَأَكْثَرُهُمْ		واكثرهم	and most of them	wa-aktharuhum
+11	26:222:4	w	كَٰذِبُونَ࣌		كذبون	(are) liars	kādhibūna
+11	26:222:5	e	۝٢٢٢				
+12	26:223:1	w	وَالشُّعَرَآءُ		والشعرا	And the poets	wal-shuʿarāu
+12	26:223:2	w	يَتْبَعُهُمُ		يتبعهم	follow them	yattabiʿuhumu
+12	26:223:3	w	ࡲ۬لْغَاوُۥنَ࣌		الغاون	the deviators	l-ghāwūna
+12	26:223:4	e	۝٢٢٣				
+12	26:224:1	w	أَلَمْ		الم	Do not	alam
+12	26:224:2	w	تَرَ		تر	you see	tara
+12	26:224:3	w	أَنَّهُمْ		انهم	that they	annahum
+12	26:224:4	w	فِے		في	in	fī
+12	26:224:5	w	كُلِّ		كل	every	kulli
+12	26:224:6	w	وَادࣲ		واد	valley	wādin
+13	26:224:7	w	يَهِيمُونَ		يهيمون	[they] roam	yahīmūna
+13	26:224:8	e	۝٢٢٤				
+13	26:225:1	w	وَأَنَّهُمْ		وانهم	And that they	wa-annahum
+13	26:225:2	w	يَقُولُونَ		يقولون	say	yaqūlūna
+13	26:225:3	w	مَا		ما	what	mā
+13	26:225:4	w	لَا		لا	not	lā
+13	26:225:5	w	يَفْعَلُونَ࣌		يفعلون	they do	yafʿalūna
+13	26:225:6	e	۝٢٢٥				
+13	26:226:1	w	إِلَّا		الا	Except	illā
+13	26:226:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	26:226:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+14	26:226:4	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+14	26:226:5	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+14	26:226:6	w	وَذَكَرُواْ		وذكروا	and remember	wadhakarū
+14	26:226:7	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+14	26:226:8	w	كَثِيراࣰ		كثيرا	much	kathīran
+14	26:226:9	w	وَانتَصَرُواْ		وانتصروا	and defend themselves	wa-intaṣarū
+14	26:226:10	w	مِنۢ		من	after	min
+14	26:226:11	w	بَعْدِ		بعد	after	baʿdi
+15	26:226:12	w	مَا		ما	after	mā
+15	26:226:13	w	ظُلِمُواْ࣌		ظلموا	they were wronged	ẓulimū
+15	26:226:14	w	وَسَيَعْلَمُ		وسيعلم	And will come to know	wasayaʿlamu
+15	26:226:15	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+15	26:226:16	w	ظَلَمُوٓاْ		ظلموا	have wronged	ẓalamū
+15	26:226:17	w	أَيَّ		اي	(to) what	ayya
+15	26:226:18	w	مُنقَلَبࣲ		منقلب	return	munqalabin
+15	26:226:19	w	يَنقَلِبُونَ࣌		ينقلبون	they will return	yanqalibūna
+15	26:226:20	e	۝٢٢٦				

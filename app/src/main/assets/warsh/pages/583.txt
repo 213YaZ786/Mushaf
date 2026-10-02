@@ -1,0 +1,147 @@
+1	78:31:1	w	ࡴنَّ		ان	Indeed	inna
+1	78:31:2	w	لِلْمُتَّقِينَ		للمتقين	for the righteous	lil'muttaqīna
+1	78:31:3	w	مَفَازاً		مفازا	(is) success	mafāzan
+1	78:31:4	e	۝٣١				
+1	78:32:1	w	حَدَآئِقَ		حدايق	Gardens	ḥadāiqa
+1	78:32:2	w	وَأَعْنَٰباࣰ		واعنبا	and grapevines	wa-aʿnāban
+1	78:32:3	e	۝٣٢				
+1	78:33:1	w	وَكَوَاعِبَ		وكواعب	And splendid companions	wakawāʿiba
+1	78:33:2	w	أَتْرَاباࣰ		اترابا	well-matched	atrāban
+1	78:33:3	e	۝٣٣				
+1	78:34:1	w	وَكَأْساࣰ		وكاسا	And a cup	wakasan
+2	78:34:2	w	دِهَاقاࣰ		دهاقا	full	dihāqan
+2	78:34:3	e	۝٣٤				
+2	78:35:1	w	لَّا		لا	Not	lā
+2	78:35:2	w	يَسْمَعُونَ		يسمعون	they will hear	yasmaʿūna
+2	78:35:3	w	فِيهَا		فيها	therein	fīhā
+2	78:35:4	w	لَغْواࣰ		لغوا	any vain talk	laghwan
+2	78:35:5	w	وَلَا		ولا	and not	walā
+2	78:35:6	w	كِذَّاباࣰ࣌		كذابا	any falsehood	kidhāban
+2	78:35:7	e	۝٣٥				
+2	78:36:1	w	جَزَآءࣰ		جزا	(As) a reward	jazāan
+2	78:36:2	w	مِّن		من	from	min
+2	78:36:3	w	رَّبِّكَ		ربك	your Lord	rabbika
+2	78:36:4	w	عَطَآءً		عطا	a gift	ʿaṭāan
+3	78:36:5	w	حِسَاباࣰ࣌		حسابا	(according to) account	ḥisāban
+3	78:36:6	e	۝٣٦				
+3	78:37:1	w	رَّبُّ		رب	Lord	rabbi
+3	78:37:2	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+3	78:37:3	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+3	78:37:4	w	وَمَا		وما	and whatever	wamā
+3	78:37:5	w	بَيْنَهُمَا࣌		بينهما	(is) between both of them	baynahumā
+3	78:37:6	w	ࡰ۬لرَّحْمَٰنُ		الرحمن	the Most Gracious	l-raḥmāni
+3	78:37:7	w	لَا		لا	not	lā
+3	78:37:8	w	يَمْلِكُونَ		يملكون	they have power	yamlikūna
+4	78:37:9	w	مِنْهُ		منه	from Him	min'hu
+4	78:37:10	w	خِطَاباࣰ࣌		خطابا	(to) address	khiṭāban
+4	78:37:11	e	۝٣٧				
+4	78:38:1	w	يَوْمَ		يوم	(The) Day	yawma
+4	78:38:2	w	يَقُومُ		يقوم	will stand	yaqūmu
+4	78:38:3	w	ࡲ۬لرُّوحُ		الروح	the Spirit	l-rūḥu
+4	78:38:4	w	وَالْمَلَٰٓئِكَةُ		والمليكة	and the Angels	wal-malāikatu
+4	78:38:5	w	صَفّاࣰ		صفا	(in) rows	ṣaffan
+4	78:38:6	w	لَّا		لا	not	lā
+4	78:38:7	w	يَتَكَلَّمُونَ		يتكلمون	they will speak	yatakallamūna
+5	78:38:8	w	إِلَّا		الا	except	illā
+5	78:38:9	w	مَنَ		من	(one) who	man
+5	78:38:10	w	ࡰذِنَ		اذن	permits	adhina
+5	78:38:11	w	لَهُ		له	[for] him	lahu
+5	78:38:12	w	ࡲ۬لرَّحْمَٰنُ		الرحمن	the Most Gracious	l-raḥmānu
+5	78:38:13	w	وَقَالَ		وقال	and he (will) say	waqāla
+5	78:38:14	w	صَوَاباࣰ࣌		صوابا	(what is) correct	ṣawāban
+5	78:38:15	e	۝٣٨				
+5	78:39:1	w	ذَٰلِكَ		ذلك	That	dhālika
+5	78:39:2	w	ࡰ۬لْيَوْمُ		اليوم	(is) the Day	l-yawmu
+5	78:39:3	w	ࡲ۬لْحَقُّ࣌		الحق	the True	l-ḥaqu
+5	78:39:4	w	فَمَن		فمن	So whoever	faman
+6	78:39:5	w	شَآءَ		شا	wills	shāa
+6	78:39:6	w	ࡰٜتَّخَذَ		اتخذ	let him take	ittakhadha
+6	78:39:7	w	إِلَىٰ		الي	towards	ilā
+6	78:39:8	w	رَبِّهِۦ		ربهي	his Lord	rabbihi
+6	78:39:9	w	مَـَٔاباً࣌		مابا	a return	maāban
+6	78:39:10	e	۝٣٩				
+6	78:40:1	w	ࡴنَّآ		انا	Indeed We	innā
+6	78:40:2	w	أَنذَرْنَٰكُمْ		انذرنكم	[We] have warned you	andharnākum
+6	78:40:3	w	عَذَاباࣰ		عذابا	(of) a punishment	ʿadhāban
+6	78:40:4	w	قَرِيباࣰ		قريبا	near	qarīban
+6	78:40:5	w	يَوْمَ		يوم	(the) Day	yawma
+6	78:40:6	w	يَنظُرُ		ينظر	will see	yanẓuru
+7	78:40:7	w	ࡲ۬لْمَرْءُ		المر	the man	l-maru
+7	78:40:8	w	مَا		ما	what	mā
+7	78:40:9	w	قَدَّمَتْ		قدمت	have sent forth	qaddamat
+7	78:40:10	w	يَدَٰهُ		يده	his hands	yadāhu
+7	78:40:11	w	وَيَقُولُ		ويقول	and will say	wayaqūlu
+7	78:40:12	w	ࡲ۬لْكَافِرُ		الكافر	the disbeliever	l-kāfiru
+7	78:40:13	w	يَٰلَيْتَنِے		يليتني	O I wish	yālaytanī
+7	78:40:14	w	كُنتُ		كنت	I were	kuntu
+7	78:40:15	w	تُرَٰباࣰ࣌		تربا	dust	turāban
+7	78:40:16	e	۝٤٠				
+8	79:0:0	t					
+9	79:0:0	b					
+10	79:1:1	w	وَالنَّٰزِعَٰتِ		والنزعت	By those who extract	wal-nāziʿāti
+10	79:1:2	w	غَرْقاࣰ		غرقا	violently	gharqan
+10	79:1:3	e	۝١				
+10	79:2:1	w	وَالنَّٰشِطَٰتِ		والنشطت	And those who draw out	wal-nāshiṭāti
+10	79:2:2	w	نَشْطاࣰ		نشطا	gently	nashṭan
+10	79:2:3	e	۝٢				
+10	79:3:1	w	وَالسَّٰبِحَٰتِ		والسبحت	And those who glide	wal-sābiḥāti
+10	79:3:2	w	سَبْحاࣰ		سبحا	swimming	sabḥan
+10	79:3:3	e	۝٣				
+11	79:4:1	w	فَالسَّٰبِقَٰتِ		فالسبقت	And those who race each other	fal-sābiqāti
+11	79:4:2	w	سَبْقاࣰ		سبقا	(in) a race	sabqan
+11	79:4:3	e	۝٤				
+11	79:5:1	w	فَالْمُدَبِّرَٰتِ		فالمدبرت	And those who arrange	fal-mudabirāti
+11	79:5:2	w	أَمْراࣰ		امرا	(the) matter	amran
+11	79:5:3	e	۝٥				
+11	79:6:1	w	يَوْمَ		يوم	(The) Day	yawma
+11	79:6:2	w	تَرْجُفُ		ترجف	will quake	tarjufu
+11	79:6:3	w	ࡲ۬لرَّاجِفَةُ		الراجفة	the quaking one	l-rājifatu
+11	79:6:4	e	۝٦				
+12	79:7:1	w	تَتْبَعُهَا		تتبعها	Follows it	tatbaʿuhā
+12	79:7:2	w	ࡰ۬لرَّادِفَةُ࣌		الرادفة	the subsequent	l-rādifatu
+12	79:7:3	e	۝٧				
+12	79:8:1	w	قُلُوبࣱ		قلوب	Hearts	qulūbun
+12	79:8:2	w	يَوْمَئِذࣲ		يوميذ	that Day	yawma-idhin
+12	79:8:3	w	وَاجِفَةٌ		واجفة	will palpitate	wājifatun
+12	79:8:4	e	۝٨				
+12	79:9:1	w	ࡰبْصَٰرُهَا		ابصرها	Their eyes	abṣāruhā
+12	79:9:2	w	خَٰشِعَةࣱ࣌		خشعة	humbled	khāshiʿatun
+12	79:9:3	e	۝٩				
+13	79:10:1	w	يَقُولُونَ		يقولون	They say	yaqūlūna
+13	79:10:2	w	أَࢇنَّا		انا	Will we	a-innā
+13	79:10:3	w	لَمَرْدُودُونَ		لمردودون	indeed be returned	lamardūdūna
+13	79:10:4	w	فِے		في	to	fī
+13	79:10:5	w	ࡴ۬لْحَافِرَةِ		الحافرة	the former state	l-ḥāfirati
+13	79:10:6	e	۝١٠				
+13	79:11:1	w	إِذَا		اذا	What! When	a-idhā
+13	79:11:2	w	كُنَّا		كنا	we are	kunnā
+13	79:11:3	w	عِظَٰماࣰ		عظما	bones	ʿiẓāman
+13	79:11:4	w	نَّخِرَةࣰ࣌		نخرة	decayed	nakhiratan
+13	79:11:5	e	۝١١				
+13	79:12:1	w	قَالُواْ		قالوا	They say	qālū
+14	79:12:2	w	تِلْكَ		تلك	This	til'ka
+14	79:12:3	w	إِذاࣰ		اذا	then	idhan
+14	79:12:4	w	كَرَّةٌ		كرة	(would be) a return	karratun
+14	79:12:5	w	خَاسِرَةࣱ		خاسرة	losing	khāsiratun
+14	79:12:6	e	۝١٢				
+14	79:13:1	w	فَإِنَّمَا		فانما	Then only	fa-innamā
+14	79:13:2	w	هِيَ		هي	it	hiya
+14	79:13:3	w	زَجْرَةࣱ		زجرة	(will be) a shout	zajratun
+14	79:13:4	w	وَٰحِدَةࣱ		وحدة	single	wāḥidatun
+14	79:13:5	e	۝١٣				
+14	79:14:1	w	فَإِذَا		فاذا	And behold	fa-idhā
+14	79:14:2	w	هُم		هم	They	hum
+14	79:14:3	w	بِالسَّاهِرَةِ࣌		بالساهرة	(will be) awakened	bil-sāhirati
+14	79:14:4	e	۝١٤				
+15	79:15:1	w	هَلَ		هل	Has	hal
+15	79:15:2	w	ࡰتٜيٰكَ		اتيك	(there) come to you	atāka
+15	79:15:3	w	حَدِيثُ		حديث	(the) story	ḥadīthu
+15	79:15:4	w	مُوسٜىٰٓ		موسي	(of) Musa	mūsā
+15	79:15:5	e	۝١٥				
+15	79:16:1	w	إِذْ		اذ	When	idh
+15	79:16:2	w	نَادٜيٰهُ		ناديه	called him	nādāhu
+15	79:16:3	w	رَبُّهُۥ		ربه	his Lord	rabbuhu
+15	79:16:4	w	بِالْوَادِ		بالواد	in the valley	bil-wādi
+15	79:16:5	w	ࡴ۬لْمُقَدَّسِ		المقدس	the sacred	l-muqadasi
+15	79:16:6	w	طُوَى࣌		طوي	(of) Tuwa	ṭuwan
+15	79:16:7	e	۝١٦				

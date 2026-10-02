@@ -1,0 +1,144 @@
+1	10:79:1	w	وَقَالَ		وقال	And Firaun said	waqāla
+1	10:79:2	w	فِرْعَوْنُ		فرعون	And Firaun said	fir'ʿawnu
+1	10:79:3	w	ࡲٜيتُونِے		ايتوني	Bring to me	i'tūnī
+1	10:79:4	w	بِكُلِّ		بكل	every	bikulli
+1	10:79:5	w	سَٰحِرٍ		سحر	magician	sāḥirin
+1	10:79:6	w	عَلِيمࣲ࣌		عليم	learned	ʿalīmin
+1	10:79:7	e	۝٧٩				
+1	10:80:1	w	فَلَمَّا		فلما	So when	falammā
+1	10:80:2	w	جَآءَ		جا	came	jāa
+1	10:80:3	w	ࡰ۬لسَّحَرَةُ		السحرة	the magicians	l-saḥaratu
+2	10:80:4	w	قَالَ		قال	said	qāla
+2	10:80:5	w	لَهُم		لهم	to them	lahum
+2	10:80:6	w	مُّوسٜىٰٓ		موسي	Musa	mūsā
+2	10:80:7	w	أَلْقُواْ		القوا	Throw	alqū
+2	10:80:8	w	مَآ		ما	whatever	mā
+2	10:80:9	w	أَنتُم		انتم	you	antum
+2	10:80:10	w	مُّلْقُونَ࣌		ملقون	(wish to) throw	mul'qūna
+2	10:80:11	e	۝٨٠				
+2	10:81:1	w	فَلَمَّآ		فلما	Then when	falammā
+2	10:81:2	w	أَلْقَوْاْ		القوا	they (had) thrown	alqaw
+2	10:81:3	w	قَالَ		قال	Musa said	qāla
+3	10:81:4	w	مُوسٜىٰ		موسي	Musa said	mūsā
+3	10:81:5	w	مَا		ما	What	mā
+3	10:81:6	w	جِئْتُم		جيتم	you have brought	ji'tum
+3	10:81:7	w	بِهِ		به	[it]	bihi
+3	10:81:8	w	ࡴ۬لسِّحْرُ࣌		السحر	(is) the magic	l-siḥ'ru
+3	10:81:9	w	إِنَّ		ان	Indeed	inna
+3	10:81:10	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+3	10:81:11	w	سَيُبْطِلُهُۥٓ࣌		سيبطله	will nullify it	sayub'ṭiluhu
+3	10:81:12	w	إِنَّ		ان	Indeed	inna
+3	10:81:13	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+3	10:81:14	w	لَا		لا	(does) not	lā
+3	10:81:15	w	يُصْلِحُ		يصلح	amend	yuṣ'liḥu
+4	10:81:16	w	عَمَلَ		عمل	the work	ʿamala
+4	10:81:17	w	ࡰ۬لْمُفْسِدِينَ࣌		المفسدين	(of) the corrupters	l-muf'sidīna
+4	10:81:18	e	۝٨١				
+4	10:82:1	w	وَيُحِقُّ		ويحق	And Allah will establish	wayuḥiqqu
+4	10:82:2	w	ࡲ۬للَّهُ		الله	And Allah will establish	l-lahu
+4	10:82:3	w	ࡲ۬لْحَقَّ		الحق	the truth	l-ḥaqa
+4	10:82:4	w	بِكَلِمَٰتِهِۦ		بكلمتهي	by His words	bikalimātihi
+4	10:82:5	w	وَلَوْ		ولو	even if	walaw
+4	10:82:6	w	كَرِهَ		كره	dislike it	kariha
+5	10:82:7	w	ࡰ۬لْمُجْرِمُونَ࣌		المجرمون	the criminals	l-muj'rimūna
+5	10:82:8	e	۝٨٢				
+5	10:83:1	w	۞ فَمَآ		فما	But none	famā
+5	10:83:2	w	ءَامَنَ		امن	believed	āmana
+5	10:83:3	w	لِمُوسٜىٰٓ		لموسي	Musa	limūsā
+5	10:83:4	w	إِلَّا		الا	except	illā
+5	10:83:5	w	ذُرِّيَّةࣱ		ذرية	(the) offspring	dhurriyyatun
+5	10:83:6	w	مِّن		من	among	min
+5	10:83:7	w	قَوْمِهِۦ		قومهي	his people	qawmihi
+5	10:83:8	w	عَلَىٰ		علي	for	ʿalā
+6	10:83:9	w	خَوْفࣲ		خوف	fear	khawfin
+6	10:83:10	w	مِّن		من	of	min
+6	10:83:11	w	فِرْعَوْنَ		فرعون	Firaun	fir'ʿawna
+6	10:83:12	w	وَمَلَإِيْهِمُۥٓ		وملايهم	and their chiefs	wamala-ihim
+6	10:83:13	w	أَنْ		ان	lest	an
+6	10:83:14	w	يَّفْتِنَهُمْ࣌		يفتنهم	they persecute them	yaftinahum
+6	10:83:15	w	وَإِنَّ		وان	And indeed	wa-inna
+6	10:83:16	w	فِرْعَوْنَ		فرعون	Firaun	fir'ʿawna
+6	10:83:17	w	لَعَالࣲ		لعال	(was) a tyrant	laʿālin
+7	10:83:18	w	فِے		في	in	fī
+7	10:83:19	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+7	10:83:20	w	وَإِنَّهُۥ		وانه	and indeed, he	wa-innahu
+7	10:83:21	w	لَمِنَ		لمن	(was) of	lamina
+7	10:83:22	w	ࡰ۬لْمُسْرِفِينَ࣌		المسرفين	the ones who commit excesses	l-mus'rifīna
+7	10:83:23	e	۝٨٣				
+7	10:84:1	w	وَقَالَ		وقال	And Musa said	waqāla
+7	10:84:2	w	مُوسٜىٰ		موسي	And Musa said	mūsā
+7	10:84:3	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+7	10:84:4	w	إِن		ان	If	in
+8	10:84:5	w	كُنتُمُۥٓ		كنتم	you have	kuntum
+8	10:84:6	w	ءَامَنتُم		امنتم	believed	āmantum
+8	10:84:7	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+8	10:84:8	w	فَعَلَيْهِ		فعليه	then on Him	faʿalayhi
+8	10:84:9	w	تَوَكَّلُوٓاْ		توكلوا	put your trust	tawakkalū
+8	10:84:10	w	إِن		ان	if	in
+8	10:84:11	w	كُنتُم		كنتم	you are	kuntum
+8	10:84:12	w	مُّسْلِمِينَ࣌		مسلمين	Muslims	mus'limīna
+8	10:84:13	e	۝٨٤				
+9	10:85:1	w	فَقَالُواْ		فقالوا	Then they said	faqālū
+9	10:85:2	w	عَلَى		علي	Upon	ʿalā
+9	10:85:3	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+9	10:85:4	w	تَوَكَّلْنَا࣌		توكلنا	we put our trust	tawakkalnā
+9	10:85:5	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+9	10:85:6	w	لَا		لا	(Do) not	lā
+9	10:85:7	w	تَجْعَلْنَا		تجعلنا	make us	tajʿalnā
+9	10:85:8	w	فِتْنَةࣰ		فتنة	a trial	fit'natan
+9	10:85:9	w	لِّلْقَوْمِ		للقوم	for the people	lil'qawmi
+9	10:85:10	w	ࡴ۬لظَّٰلِمِينَ࣌		الظلمين	the wrongdoers	l-ẓālimīna
+9	10:85:11	e	۝٨٥				
+10	10:86:1	w	وَنَجِّنَا		ونجنا	And save us	wanajjinā
+10	10:86:2	w	بِرَحْمَتِكَ		برحمتك	by Your Mercy	biraḥmatika
+10	10:86:3	w	مِنَ		من	from	mina
+10	10:86:4	w	ࡰ۬لْقَوْمِ		القوم	the people	l-qawmi
+10	10:86:5	w	ࡴ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+10	10:86:6	e	۝٨٦				
+10	10:87:1	w	وَأَوْحَيْنَآ		واوحينا	And We inspired	wa-awḥaynā
+10	10:87:2	w	إِلَىٰ		الي	to	ilā
+10	10:87:3	w	مُوسٜىٰ		موسي	Musa	mūsā
+11	10:87:4	w	وَأَخِيهِ		واخيه	and his brother	wa-akhīhi
+11	10:87:5	w	أَن		ان	that	an
+11	10:87:6	w	تَبَوَّءَا		تبوا	Settle	tabawwaā
+11	10:87:7	w	لِقَوْمِكُمَا		لقومكما	your people	liqawmikumā
+11	10:87:8	w	بِمِصْرَ		بمصر	in Egypt	bimiṣ'ra
+11	10:87:9	w	بُيُوتاࣰ		بيوتا	(in) houses	buyūtan
+11	10:87:10	w	وَاجْعَلُواْ		واجعلوا	and make	wa-ij'ʿalū
+11	10:87:11	w	بُيُوتَكُمْ		بيوتكم	your houses	buyūtakum
+12	10:87:12	w	قِبْلَةࣰ		قبلة	(as) places of worship	qib'latan
+12	10:87:13	w	وَأَقِيمُواْ		واقيموا	and establish	wa-aqīmū
+12	10:87:14	w	ࡲ۬لصَّلَوٰةَ࣌		الصلوة	the prayer	l-ṣalata
+12	10:87:15	w	وَبَشِّرِ		وبشر	And give glad tidings	wabashiri
+12	10:87:16	w	ࡴ۬لْمُومِنِينَ࣌		المومنين	(to) the believers	l-mu'minīna
+12	10:87:17	e	۝٨٧				
+12	10:88:1	w	وَقَالَ		وقال	And Musa said	waqāla
+12	10:88:2	w	مُوسٜىٰ		موسي	And Musa said	mūsā
+12	10:88:3	w	رَبَّنَآ		ربنا	Our Lord	rabbanā
+13	10:88:4	w	إِنَّكَ		انك	Indeed, You	innaka
+13	10:88:5	w	ءَاتَيْتَ		اتيت	have given	ātayta
+13	10:88:6	w	فِرْعَوْنَ		فرعون	Firaun	fir'ʿawna
+13	10:88:7	w	وَمَلَأَهُۥ		وملاه	and his chiefs	wamala-ahu
+13	10:88:8	w	زِينَةࣰ		زينة	splendor	zīnatan
+13	10:88:9	w	وَأَمْوَٰلاࣰ		وامولا	and wealth	wa-amwālan
+13	10:88:10	w	فِے		في	in	fī
+13	10:88:11	w	ࡴ۬لْحَيَوٰةِ		الحيوة	the life	l-ḥayati
+13	10:88:12	w	ࡴ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+14	10:88:13	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+14	10:88:14	w	لِيَضِلُّواْ		ليضلوا	That they may lead astray	liyuḍillū
+14	10:88:15	w	عَن		عن	from	ʿan
+14	10:88:16	w	سَبِيلِكَ࣌		سبيلك	Your way	sabīlika
+14	10:88:17	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+14	10:88:18	w	ࡰٜطْمِسْ		اطمس	Destroy	iṭ'mis
+14	10:88:19	w	عَلَىٰٓ		علي	[on]	ʿalā
+14	10:88:20	w	أَمْوَٰلِهِمْ		امولهم	their wealth	amwālihim
+14	10:88:21	w	وَاشْدُدْ		واشدد	and harden	wa-ush'dud
+15	10:88:22	w	عَلَىٰ		علي	[on]	ʿalā
+15	10:88:23	w	قُلُوبِهِمْ		قلوبهم	their hearts	qulūbihim
+15	10:88:24	w	فَلَا		فلا	so (that) not	falā
+15	10:88:25	w	يُومِنُواْ		يومنوا	they believe	yu'minū
+15	10:88:26	w	حَتَّىٰ		حتي	until	ḥattā
+15	10:88:27	w	يَرَوُاْ		يروا	they see	yarawū
+15	10:88:28	w	ࡲ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+15	10:88:29	w	ࡰ۬لَالِيمَ࣌		الاليم	the painful	l-alīma
+15	10:88:30	e	۝٨٨				

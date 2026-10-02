@@ -1,0 +1,158 @@
+1	11:71:1	w	قَالَتْ		قالت	She said	qālat
+1	11:71:2	w	يَٰوَيْلَتٜىٰٓ		يويلتي	Woe to me	yāwaylatā
+1	11:71:3	w	ءَالِدُ		الد	Shall I bear a child	a-alidu
+1	11:71:4	w	وَأَنَا		وانا	while I am	wa-anā
+1	11:71:5	w	عَجُوزࣱ		عجوز	an old woman	ʿajūzun
+1	11:71:6	w	وَهَٰذَا		وهذا	and this	wahādhā
+1	11:71:7	w	بَعْلِے		بعلي	my husband	baʿlī
+1	11:71:8	w	شَيْخاً࣌		شيخا	(is) an old man	shaykhan
+1	11:71:9	w	ࡴنَّ		ان	Indeed	inna
+1	11:71:10	w	هَٰذَا		هذا	this	hādhā
+2	11:71:11	w	لَشَےْءٌ		لشي	(is) surely a thing	lashayon
+2	11:71:12	w	عَجِيبࣱ࣌		عجيب	amazing	ʿajībun
+2	11:71:13	e	۝٧١				
+2	11:72:1	w	۞ قَالُوٓاْ		قالوا	They said	qālū
+2	11:72:2	w	أَتَعْجَبِينَ		اتعجبين	Are you amazed	ataʿjabīna
+2	11:72:3	w	مِنَ		من	at	min
+2	11:72:4	w	ࡰمْرِ		امر	(the) decree of Allah	amri
+2	11:72:5	w	ࡴ۬للَّهِ࣌		الله	(the) decree of Allah	l-lahi
+2	11:72:6	w	رَحْمَتُ		رحمت	The Mercy of Allah	raḥmatu
+2	11:72:7	w	ࡲ۬للَّهِ		الله	The Mercy of Allah	l-lahi
+3	11:72:8	w	وَبَرَكَٰتُهُۥ		وبركته	and His blessings	wabarakātuhu
+3	11:72:9	w	عَلَيْكُمُۥٓ		عليكم	(be) upon you	ʿalaykum
+3	11:72:10	w	أَهْلَ		اهل	people	ahla
+3	11:72:11	w	ࡰ۬لْبَيْتِ࣌		البيت	(of) the house	l-bayti
+3	11:72:12	w	إِنَّهُۥ		انه	Indeed, He	innahu
+3	11:72:13	w	حَمِيدࣱ		حميد	(is) All-Praiseworthy	ḥamīdun
+3	11:72:14	w	مَّجِيدࣱ࣌		مجيد	All-Glorious	majīdun
+3	11:72:15	e	۝٧٢				
+3	11:73:1	w	فَلَمَّا		فلما	And when	falammā
+4	11:73:2	w	ذَهَبَ		ذهب	(had) gone away	dhahaba
+4	11:73:3	w	عَنِ		عن	from	ʿan
+4	11:73:4	w	ࡴبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+4	11:73:5	w	ࡰ۬لرَّوْعُ		الروع	the fright	l-rawʿu
+4	11:73:6	w	وَجَآءَتْهُ		وجاته	and had reached him	wajāathu
+4	11:73:7	w	ࡲ۬لْبُشْرٜىٰ		البشري	the glad tidings	l-bush'rā
+4	11:73:8	w	يُجَٰدِلُنَا		يجدلنا	he argued with Us	yujādilunā
+4	11:73:9	w	فِے		في	concerning	fī
+4	11:73:10	w	قَوْمِ		قوم	the people	qawmi
+5	11:73:11	w	لُوطٍ࣌		لوط	of Lut	lūṭin
+5	11:73:12	e	۝٧٣				
+5	11:74:1	w	ࡴنَّ		ان	Indeed	inna
+5	11:74:2	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+5	11:74:3	w	لَحَلِيمٌ		لحليم	(was) certainly forbearing	laḥalīmun
+5	11:74:4	w	ࡰوَّٰهࣱ		اوه	imploring	awwāhun
+5	11:74:5	w	مُّنِيبࣱ࣌		منيب	and oft-returning	munībun
+5	11:74:6	e	۝٧٤				
+5	11:75:1	w	يَٰٓإِبْرَٰهِيمُ		يابرهيم	O Ibrahim	yāib'rāhīmu
+5	11:75:2	w	أَعْرِضْ		اعرض	Turn away	aʿriḍ
+5	11:75:3	w	عَنْ		عن	from	ʿan
+6	11:75:4	w	هَٰذَآ࣌		هذا	this	hādhā
+6	11:75:5	w	إِنَّهُۥ		انه	Indeed, it	innahu
+6	11:75:6	w	قَدْ		قد	certainly	qad
+6	11:75:7	w	جَآءَ		جا	has come	jāa
+6	11:75:8	w	امْرُ		امر	(the) Command	amru
+6	11:75:9	w	رَبِّكَ࣌		ربك	(of) your Lord	rabbika
+6	11:75:10	w	وَإِنَّهُمُۥٓ		وانهم	and indeed, [they]	wa-innahum
+6	11:75:11	w	ءَاتِيهِمْ		اتيهم	(will) come (for) them	ātīhim
+6	11:75:12	w	عَذَابٌ		عذاب	a punishment	ʿadhābun
+6	11:75:13	w	غَيْرُ		غير	(which) cannot	ghayru
+6	11:75:14	w	مَرْدُودࣲ࣌		مردود	(be) repelled	mardūdin
+6	11:75:15	e	۝٧٥				
+7	11:76:1	w	وَلَمَّا		ولما	And when	walammā
+7	11:76:2	w	جَآءَتْ		جات	came	jāat
+7	11:76:3	w	رُسُلُنَا		رسلنا	Our messengers	rusulunā
+7	11:76:4	w	لُوطاࣰ		لوطا	(to) Lut	lūṭan
+7	11:76:5	w	س۬ےٓءَ		سي	he was distressed	sīa
+7	11:76:6	w	بِهِمْ		بهم	for them	bihim
+7	11:76:7	w	وَضَاقَ		وضاق	and felt straitened	waḍāqa
+7	11:76:8	w	بِهِمْ		بهم	for them	bihim
+7	11:76:9	w	ذَرْعاࣰ		ذرعا	(and) uneasy	dharʿan
+7	11:76:10	w	وَقَالَ		وقال	and said	waqāla
+7	11:76:11	w	هَٰذَا		هذا	This	hādhā
+8	11:76:12	w	يَوْمٌ		يوم	(is) a day	yawmun
+8	11:76:13	w	عَصِيبࣱ࣌		عصيب	distressful	ʿaṣībun
+8	11:76:14	e	۝٧٦				
+8	11:77:1	w	وَجَآءَهُۥ		وجاه	And came (to) him	wajāahu
+8	11:77:2	w	قَوْمُهُۥ		قومه	his people	qawmuhu
+8	11:77:3	w	يُهْرَعُونَ		يهرعون	rushing	yuh'raʿūna
+8	11:77:4	w	إِلَيْهِ		اليه	to him	ilayhi
+8	11:77:5	w	وَمِن		ومن	and before	wamin
+8	11:77:6	w	قَبْلُ		قبل	and before	qablu
+8	11:77:7	w	كَانُواْ		كانوا	they (had) been	kānū
+9	11:77:8	w	يَعْمَلُونَ		يعملون	doing	yaʿmalūna
+9	11:77:9	w	ࡰ۬لسَّيِّـَٔاتِ࣌		السيات	the evil deeds	l-sayiāti
+9	11:77:10	w	قَالَ		قال	He said	qāla
+9	11:77:11	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+9	11:77:12	w	هَٰٓؤُلَآءِ		هولا	These	hāulāi
+9	11:77:13	w	بَنَاتِے		بناتي	(are) my daughters	banātī
+9	11:77:14	w	هُنَّ		هن	they	hunna
+9	11:77:15	w	أَطْهَرُ		اطهر	(are) purer	aṭharu
+9	11:77:16	w	لَكُمْ		لكم	for you	lakum
+9	11:77:17	w	فَاتَّقُواْ		فاتقوا	So fear	fa-ittaqū
+10	11:77:18	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+10	11:77:19	w	وَلَا		ولا	and (do) not	walā
+10	11:77:20	w	تُخْزُونِ		تخزون	disgrace me	tukh'zūni
+10	11:77:21	w	فِے		في	concerning	fī
+10	11:77:22	w	ضَيْفِيَ࣌		ضيفي	my guests	ḍayfī
+10	11:77:23	w	أَلَيْسَ		اليس	Is (there) not	alaysa
+10	11:77:24	w	مِنكُمْ		منكم	among you	minkum
+10	11:77:25	w	رَجُلࣱ		رجل	a man	rajulun
+10	11:77:26	w	رَّشِيدࣱ࣌		رشيد	right-minded	rashīdun
+10	11:77:27	e	۝٧٧				
+10	11:78:1	w	قَالُواْ		قالوا	They said	qālū
+11	11:78:2	w	لَقَدْ		لقد	Verily	laqad
+11	11:78:3	w	عَلِمْتَ		علمت	you know	ʿalim'ta
+11	11:78:4	w	مَا		ما	(that) not	mā
+11	11:78:5	w	لَنَا		لنا	we have	lanā
+11	11:78:6	w	فِے		في	concerning	fī
+11	11:78:7	w	بَنَاتِكَ		بناتك	your daughters	banātika
+11	11:78:8	w	مِنْ		من	any	min
+11	11:78:9	w	حَقࣲّ		حق	right	ḥaqqin
+11	11:78:10	w	وَإِنَّكَ		وانك	And indeed, you	wa-innaka
+11	11:78:11	w	لَتَعْلَمُ		لتعلم	surely know	lataʿlamu
+11	11:78:12	w	مَا		ما	what	mā
+11	11:78:13	w	نُرِيدُ࣌		نريد	we want	nurīdu
+11	11:78:14	e	۝٧٨				
+12	11:79:1	w	قَالَ		قال	He said	qāla
+12	11:79:2	w	لَوَ		لو	If	law
+12	11:79:3	w	ࡰنَّ		ان	that	anna
+12	11:79:4	w	لِے		لي	I had	lī
+12	11:79:5	w	بِكُمْ		بكم	over you	bikum
+12	11:79:6	w	قُوَّةً		قوة	power	quwwatan
+12	11:79:7	w	ࡰوَ		او	or	aw
+12	11:79:8	w	اٰوِےٓ		اوي	I could take refuge	āwī
+12	11:79:9	w	إِلَىٰ		الي	in	ilā
+12	11:79:10	w	رُكْنࣲ		ركن	a support	ruk'nin
+12	11:79:11	w	شَدِيدࣲ࣌		شديد	strong	shadīdin
+12	11:79:12	e	۝٧٩				
+12	11:80:1	w	قَالُواْ		قالوا	They said	qālū
+13	11:80:2	w	يَٰلُوطُ		يلوط	O Lut	yālūṭu
+13	11:80:3	w	إِنَّا		انا	Indeed, we	innā
+13	11:80:4	w	رُسُلُ		رسل	(are) messengers	rusulu
+13	11:80:5	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+13	11:80:6	w	لَنْ		لن	never	lan
+13	11:80:7	w	يَّصِلُوٓاْ		يصلوا	they will reach	yaṣilū
+13	11:80:8	w	إِلَيْكَ࣌		اليك	you	ilayka
+13	11:80:9	w	فَاسْرِ		فاسر	So travel	fa-asri
+13	11:80:10	w	بِأَهْلِكَ		باهلك	with your family	bi-ahlika
+13	11:80:11	w	بِقِطْعࣲ		بقطع	in a part	biqiṭ'ʿin
+14	11:80:12	w	مِّنَ		من	of	mina
+14	11:80:13	w	ࡰ۬ليْلِ		اليل	the night	al-layli
+14	11:80:14	w	وَلَا		ولا	and (let) not	walā
+14	11:80:15	w	يَلْتَفِتْ		يلتفت	look back	yaltafit
+14	11:80:16	w	مِنكُمُۥٓ		منكم	anyone of you	minkum
+14	11:80:17	w	أَحَدٌ		احد	anyone of you	aḥadun
+14	11:80:18	w	ࡴلَّا		الا	except	illā
+14	11:80:19	w	ࡰٜمْرَأَتَكَ࣌		امراتك	your wife	im'ra-ataka
+14	11:80:20	w	إِنَّهُۥ		انه	Indeed, it	innahu
+14	11:80:21	w	مُصِيبُهَا		مصيبها	will strike her	muṣībuhā
+15	11:80:22	w	مَآ		ما	what	mā
+15	11:80:23	w	أَصَابَهُمُۥٓ࣌		اصابهم	will strike them	aṣābahum
+15	11:80:24	w	إِنَّ		ان	Indeed	inna
+15	11:80:25	w	مَوْعِدَهُمُ		موعدهم	their appointed time	mawʿidahumu
+15	11:80:26	w	ࡲ۬لصُّبْحُ࣌		الصبح	(is) morning	l-ṣub'ḥu
+15	11:80:27	w	أَلَيْسَ		اليس	Is not	alaysa
+15	11:80:28	w	ࡰ۬لصُّبْحُ		الصبح	the morning	l-ṣub'ḥu
+15	11:80:29	w	بِقَرِيبࣲ࣌		بقريب	near	biqarībin
+15	11:80:30	e	۝٨٠				

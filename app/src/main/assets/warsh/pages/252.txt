@@ -1,0 +1,154 @@
+1	13:21:1	w	۞ أَفَمَنْ		افمن	Then is (he) who	afaman
+1	13:21:2	w	يَّعْلَمُ		يعلم	knows	yaʿlamu
+1	13:21:3	w	أَنَّمَآ		انما	that which	annamā
+1	13:21:4	w	أُنزِلَ		انزل	has been revealed	unzila
+1	13:21:5	w	إِلَيْكَ		اليك	to you	ilayka
+1	13:21:6	w	مِن		من	from	min
+1	13:21:7	w	رَّبِّكَ		ربك	your Lord	rabbika
+1	13:21:8	w	ࡰ۬لْحَقُّ		الحق	(is) the truth	l-ḥaqu
+1	13:21:9	w	كَمَنْ		كمن	like (one) who	kaman
+1	13:21:10	w	هُوَ		هو	[he]	huwa
+2	13:21:11	w	أَعْمٜىٰٓ࣌		اعمي	(is) blind	aʿmā
+2	13:21:12	w	إِنَّمَا		انما	Only	innamā
+2	13:21:13	w	يَتَذَكَّرُ		يتذكر	pay heed	yatadhakkaru
+2	13:21:14	w	أُوْلُواْ		اولوا	men	ulū
+2	13:21:15	w	ࡲ۬لَالْبَٰبِ		الالبب	(of) understanding	l-albābi
+2	13:21:16	e	۝٢١				
+2	13:22:1	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+2	13:22:2	w	يُوفُونَ		يوفون	fulfill	yūfūna
+2	13:22:3	w	بِعَهْدِ		بعهد	the covenant	biʿahdi
+2	13:22:4	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+3	13:22:5	w	وَلَا		ولا	and not	walā
+3	13:22:6	w	يَنقُضُونَ		ينقضون	they break	yanquḍūna
+3	13:22:7	w	ࡰ۬لْمِيثَٰقَ		الميثق	the contract	l-mīthāqa
+3	13:22:8	e	۝٢٢				
+3	13:23:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+3	13:23:2	w	يَصِلُونَ		يصلون	join	yaṣilūna
+3	13:23:3	w	مَآ		ما	what	mā
+3	13:23:4	w	أَمَرَ		امر	(has been) commanded	amara
+3	13:23:5	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+3	13:23:6	w	بِهِۦٓ		بهي	[for it]	bihi
+3	13:23:7	w	أَنْ		ان	to	an
+3	13:23:8	w	يُّوصَلَ		يوصل	be joined	yūṣala
+4	13:23:9	w	وَيَخْشَوْنَ		ويخشون	and fear	wayakhshawna
+4	13:23:10	w	رَبَّهُمْ		ربهم	their Lord	rabbahum
+4	13:23:11	w	وَيَخَافُونَ		ويخافون	and are afraid	wayakhāfūna
+4	13:23:12	w	سُوٓءَ		سو	(of) the evil	sūa
+4	13:23:13	w	ࡰ۬لْحِسَابِ		الحساب	the account	l-ḥisābi
+4	13:23:14	e	۝٢٣				
+4	13:24:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+4	13:24:2	w	صَبَرُواْ		صبروا	(are) patient	ṣabarū
+5	13:24:3	w	ࡲٜبْتِغَآءَ		ابتغا	seeking	ib'tighāa
+5	13:24:4	w	وَجْهِ		وجه	(the) Face	wajhi
+5	13:24:5	w	رَبِّهِمْ		ربهم	(of) their Lord	rabbihim
+5	13:24:6	w	وَأَقَامُواْ		واقاموا	and establish	wa-aqāmū
+5	13:24:7	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+5	13:24:8	w	وَأَنفَقُواْ		وانفقوا	and spend	wa-anfaqū
+5	13:24:9	w	مِمَّا		مما	from what	mimmā
+5	13:24:10	w	رَزَقْنَٰهُمْ		رزقنهم	We have provided them	razaqnāhum
+5	13:24:11	w	سِرّاࣰ		سرا	secretly	sirran
+6	13:24:12	w	وَعَلَٰنِيَةࣰ		وعلنية	and publicly	waʿalāniyatan
+6	13:24:13	w	وَيَدْرَءُونَ		ويدرون	and they repel	wayadraūna
+6	13:24:14	w	بِالْحَسَنَةِ		بالحسنة	with the good	bil-ḥasanati
+6	13:24:15	w	ࡴ۬لسَّيِّئَةَ࣌		السيية	the evil	l-sayi-ata
+6	13:24:16	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+6	13:24:17	w	لَهُمْ		لهم	for them	lahum
+6	13:24:18	w	عُقْبَى		عقبي	(is) the final attainment	ʿuq'bā
+6	13:24:19	w	ࡰ۬لدّٜارِ࣌		الدار	(of) the Home	l-dāri
+6	13:24:20	e	۝٢٤				
+7	13:25:1	w	جَنَّٰتُ		جنت	Gardens	jannātu
+7	13:25:2	w	عَدْنࣲ		عدن	of Eden	ʿadnin
+7	13:25:3	w	يَدْخُلُونَهَا		يدخلونها	they will enter them	yadkhulūnahā
+7	13:25:4	w	وَمَن		ومن	and whoever	waman
+7	13:25:5	w	صَلَحَ		صلح	(were) righteous	ṣalaḥa
+7	13:25:6	w	مِنَ		من	among	min
+7	13:25:7	w	اٰبَآئِهِمْ		ابايهم	their fathers	ābāihim
+7	13:25:8	w	وَأَزْوَٰجِهِمْ		وازوجهم	and their spouses	wa-azwājihim
+7	13:25:9	w	وَذُرِّيَّٰتِهِمْ࣌		وذريتهم	and their offsprings	wadhurriyyātihim
+8	13:25:10	w	وَالْمَلَٰٓئِكَةُ		والمليكة	And the Angels	wal-malāikatu
+8	13:25:11	w	يَدْخُلُونَ		يدخلون	will enter	yadkhulūna
+8	13:25:12	w	عَلَيْهِم		عليهم	upon them	ʿalayhim
+8	13:25:13	w	مِّن		من	from	min
+8	13:25:14	w	كُلِّ		كل	every	kulli
+8	13:25:15	w	بَابࣲ࣌		باب	gate	bābin
+8	13:25:16	w	سَلَٰمٌ		سلم	(Saying), "Peace	salāmun
+8	13:25:17	w	عَلَيْكُم		عليكم	(be) upon you	ʿalaykum
+8	13:25:18	w	بِمَا		بما	for what	bimā
+8	13:25:19	w	صَبَرْتُمْ࣌		صبرتم	you patiently endured	ṣabartum
+9	13:25:20	w	فَنِعْمَ		فنعم	And excellent	faniʿ'ma
+9	13:25:21	w	عُقْبَى		عقبي	(is) the final attainment	ʿuq'bā
+9	13:25:22	w	ࡰ۬لدّٜارِ࣌		الدار	(of) the Home	l-dāri
+9	13:25:23	e	۝٢٥				
+9	13:26:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+9	13:26:2	w	يَنقُضُونَ		ينقضون	break	yanquḍūna
+9	13:26:3	w	عَهْدَ		عهد	the covenant	ʿahda
+9	13:26:4	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+9	13:26:5	w	مِنۢ		من	from	min
+9	13:26:6	w	بَعْدِ		بعد	after	baʿdi
+9	13:26:7	w	مِيثَٰقِهِۦ		ميثقهي	contracting it	mīthāqihi
+10	13:26:8	w	وَيَقْطَعُونَ		ويقطعون	and sever	wayaqṭaʿūna
+10	13:26:9	w	مَآ		ما	what	mā
+10	13:26:10	w	أَمَرَ		امر	(has been) commanded	amara
+10	13:26:11	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+10	13:26:12	w	بِهِۦٓ		بهي	for it	bihi
+10	13:26:13	w	أَنْ		ان	to	an
+10	13:26:14	w	يُّوصَلَ		يوصل	be joined	yūṣala
+10	13:26:15	w	وَيُفْسِدُونَ		ويفسدون	and spread corruption	wayuf'sidūna
+10	13:26:16	w	فِے		في	in	fī
+10	13:26:17	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+10	13:26:18	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+11	13:26:19	w	لَهُمُ		لهم	for them	lahumu
+11	13:26:20	w	ࡲ۬للَّعْنَةُ		اللعنة	(is) the curse	l-laʿnatu
+11	13:26:21	w	وَلَهُمْ		ولهم	and for them	walahum
+11	13:26:22	w	سُوٓءُ		سو	(is) an evil	sūu
+11	13:26:23	w	ࡲ۬لدّٜارِ࣌		الدار	home	l-dāri
+11	13:26:24	e	۝٢٦				
+11	13:27:1	w	ࡴ۬للَّهُ		الله	Allah	al-lahu
+11	13:27:2	w	يَبْسُطُ		يبسط	extends	yabsuṭu
+11	13:27:3	w	ࡲ۬لرِّزْقَ		الرزق	the provision	l-riz'qa
+11	13:27:4	w	لِمَنْ		لمن	for whom	liman
+11	13:27:5	w	يَّشَآءُ		يشا	He wills	yashāu
+12	13:27:6	w	وَيَقْدِرُ࣌		ويقدر	and restricts	wayaqdiru
+12	13:27:7	w	وَفَرِحُواْ		وفرحوا	And they rejoice	wafariḥū
+12	13:27:8	w	بِالْحَيَوٰةِ		بالحيوة	in the life	bil-ḥayati
+12	13:27:9	w	ࡴ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+12	13:27:10	w	وَمَا		وما	and nothing	wamā
+12	13:27:11	w	ࡰ۬لْحَيَوٰةُ		الحيوة	(is) the life	l-ḥayatu
+12	13:27:12	w	ࡲ۬لدُّنْيٜا		الدنيا	of the world	l-dun'yā
+12	13:27:13	w	فِے		في	in (comparison to)	fī
+12	13:27:14	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+13	13:27:15	w	إِلَّا		الا	except	illā
+13	13:27:16	w	مَتَٰعࣱ࣌		متع	an enjoyment	matāʿun
+13	13:27:17	e	۝٢٧				
+13	13:28:1	w	وَيَقُولُ		ويقول	And say	wayaqūlu
+13	13:28:2	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+13	13:28:3	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+13	13:28:4	w	لَوْلَآ		لولا	Why has not	lawlā
+13	13:28:5	w	أُنزِلَ		انزل	been sent down	unzila
+13	13:28:6	w	عَلَيْهِ		عليه	upon him	ʿalayhi
+13	13:28:7	w	ءَايَةࣱ		اية	a Sign	āyatun
+13	13:28:8	w	مِّن		من	from	min
+13	13:28:9	w	رَّبِّهِۦ࣌		ربهي	his Lord	rabbihi
+14	13:28:10	w	قُلِ		قل	Say	qul
+14	13:28:11	w	ࡴنَّ		ان	Indeed	inna
+14	13:28:12	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+14	13:28:13	w	يُضِلُّ		يضل	lets go astray	yuḍillu
+14	13:28:14	w	مَنْ		من	whom	man
+14	13:28:15	w	يَّشَآءُ		يشا	He wills	yashāu
+14	13:28:16	w	وَيَهْدِےٓ		ويهدي	and guides	wayahdī
+14	13:28:17	w	إِلَيْهِ		اليه	to Himself	ilayhi
+14	13:28:18	w	مَنَ		من	whoever	man
+14	13:28:19	w	ࡰنَابَ࣌		اناب	turns back	anāba
+14	13:28:20	e	۝٢٨				
+14	13:29:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+14	13:29:2	w	ءَامَنُواْ		امنوا	believed	āmanū
+15	13:29:3	w	وَتَطْمَئِنُّ		وتطمين	and find satisfaction	wataṭma-innu
+15	13:29:4	w	قُلُوبُهُم		قلوبهم	their hearts	qulūbuhum
+15	13:29:5	w	بِذِكْرِ		بذكر	in the remembrance	bidhik'ri
+15	13:29:6	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+15	13:29:7	w	أَلَا		الا	No doubt	alā
+15	13:29:8	w	بِذِكْرِ		بذكر	in the remembrance	bidhik'ri
+15	13:29:9	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+15	13:29:10	w	تَطْمَئِنُّ		تطمين	find satisfaction	taṭma-innu
+15	13:29:11	w	ࡲ۬لْقُلُوبُ࣌		القلوب	the hearts	l-qulūbu
+15	13:29:12	e	۝٢٩				

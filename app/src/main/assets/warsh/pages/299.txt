@@ -1,0 +1,137 @@
+1	18:45:1	w	ࡴ۬لْمَالُ		المال	The wealth	al-mālu
+1	18:45:2	w	وَالْبَنُونَ		والبنون	and children	wal-banūna
+1	18:45:3	w	زِينَةُ		زينة	(are) adornment	zīnatu
+1	18:45:4	w	ࡲ۬لْحَيَوٰةِ		الحيوة	(of) the life	l-ḥayati
+1	18:45:5	w	ࡴ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+1	18:45:6	w	وَالْبَٰقِيَٰتُ		والبقيت	But the enduring	wal-bāqiyātu
+1	18:45:7	w	ࡲ۬لصَّٰلِحَٰتُ		الصلحت	good deeds	l-ṣāliḥātu
+2	18:45:8	w	خَيْرٌ		خير	(are) better	khayrun
+2	18:45:9	w	عِندَ		عند	near	ʿinda
+2	18:45:10	w	رَبِّكَ		ربك	your Lord	rabbika
+2	18:45:11	w	ثَوَاباࣰ		ثوابا	(for) reward	thawāban
+2	18:45:12	w	وَخَيْرٌ		وخير	and better	wakhayrun
+2	18:45:13	w	ࡰمَلاࣰ࣌		املا	(for) hope	amalan
+2	18:45:14	e	۝٤٥				
+2	18:46:1	w	وَيَوْمَ		ويوم	And the Day	wayawma
+2	18:46:2	w	نُسَيِّرُ		نسير	We will cause (to) move	nusayyiru
+2	18:46:3	w	ࡲ۬لْجِبَالَ		الجبال	the mountains	l-jibāla
+2	18:46:4	w	وَتَرَى		وتري	and you will see	watarā
+3	18:46:5	w	ࡰ۬لَارْضَ		الارض	the earth	l-arḍa
+3	18:46:6	w	بَارِزَةࣰ		بارزة	(as) a leveled plain	bārizatan
+3	18:46:7	w	وَحَشَرْنَٰهُمْ		وحشرنهم	and We will gather them	waḥasharnāhum
+3	18:46:8	w	فَلَمْ		فلم	and not	falam
+3	18:46:9	w	نُغَادِرْ		نغادر	We will leave behind	nughādir
+3	18:46:10	w	مِنْهُمُۥٓ		منهم	from them	min'hum
+3	18:46:11	w	أَحَداࣰ࣌		احدا	anyone	aḥadan
+3	18:46:12	e	۝٤٦				
+3	18:47:1	w	وَعُرِضُواْ		وعرضوا	And they will be presented	waʿuriḍū
+3	18:47:2	w	عَلَىٰ		علي	before	ʿalā
+4	18:47:3	w	رَبِّكَ		ربك	your Lord	rabbika
+4	18:47:4	w	صَفّاࣰ࣌		صفا	(in) rows	ṣaffan
+4	18:47:5	w	لَّقَدْ		لقد	Certainly	laqad
+4	18:47:6	w	جِئْتُمُونَا		جيتمونا	you have come to Us	ji'tumūnā
+4	18:47:7	w	كَمَا		كما	as	kamā
+4	18:47:8	w	خَلَقْنَٰكُمُۥٓ		خلقنكم	We created you	khalaqnākum
+4	18:47:9	w	أَوَّلَ		اول	the first	awwala
+4	18:47:10	w	مَرَّةِۢ࣌		مرة	time	marratin
+4	18:47:11	w	بَلْ		بل	Nay	bal
+4	18:47:12	w	زَعَمْتُمُۥٓ		زعمتم	you claimed	zaʿamtum
+5	18:47:13	w	أَلَّن		الن	that not	allan
+5	18:47:14	w	نَّجْعَلَ		نجعل	We made	najʿala
+5	18:47:15	w	لَكُم		لكم	for you	lakum
+5	18:47:16	w	مَّوْعِداࣰ࣌		موعدا	an appointment	mawʿidan
+5	18:47:17	e	۝٤٧				
+5	18:48:1	w	وَوُضِعَ		ووضع	And (will) be placed	wawuḍiʿa
+5	18:48:2	w	ࡰ۬لْكِتَٰبُ		الكتب	the Book	l-kitābu
+5	18:48:3	w	فَتَرَى		فتري	and you will see	fatarā
+5	18:48:4	w	ࡰ۬لْمُجْرِمِينَ		المجرمين	the criminals	l-muj'rimīna
+6	18:48:5	w	مُشْفِقِينَ		مشفقين	fearful	mush'fiqīna
+6	18:48:6	w	مِمَّا		مما	of what	mimmā
+6	18:48:7	w	فِيهِ࣌		فيه	(is) in it	fīhi
+6	18:48:8	w	وَيَقُولُونَ		ويقولون	and they will say	wayaqūlūna
+6	18:48:9	w	يَٰوَيْلَتَنَا		يويلتنا	Oh, woe to us	yāwaylatanā
+6	18:48:10	w	مَالِ		مال	What (is) for	māli
+6	18:48:11	w	هَٰذَا		هذا	this	hādhā
+6	18:48:12	w	ࡰ۬لْكِتَٰبِ		الكتب	[the] Book	l-kitābi
+7	18:48:13	w	لَا		لا	not	lā
+7	18:48:14	w	يُغَادِرُ		يغادر	leaves	yughādiru
+7	18:48:15	w	صَغِيرَةࣰ		صغيرة	a small	ṣaghīratan
+7	18:48:16	w	وَلَا		ولا	and not	walā
+7	18:48:17	w	كَبِيرَةً		كبيرة	a great	kabīratan
+7	18:48:18	w	ࡴلَّآ		الا	except	illā
+7	18:48:19	w	أَحْصٜيٰهَا࣌		احصيها	has enumerated it	aḥṣāhā
+7	18:48:20	w	وَوَجَدُواْ		ووجدوا	And they will find	wawajadū
+7	18:48:21	w	مَا		ما	what	mā
+7	18:48:22	w	عَمِلُواْ		عملوا	they did	ʿamilū
+8	18:48:23	w	حَاضِراࣰ࣌		حاضرا	presented	ḥāḍiran
+8	18:48:24	w	وَلَا		ولا	And not	walā
+8	18:48:25	w	يَظْلِمُ		يظلم	deals unjustly	yaẓlimu
+8	18:48:26	w	رَبُّكَ		ربك	your Lord	rabbuka
+8	18:48:27	w	أَحَداࣰ࣌		احدا	(with) anyone	aḥadan
+8	18:48:28	e	۝٤٨				
+8	18:49:1	w	۞ وَإِذْ		واذ	And when	wa-idh
+8	18:49:2	w	قُلْنَا		قلنا	We said	qul'nā
+8	18:49:3	w	لِلْمَلَٰٓئِكَةِ		للمليكة	to the Angels	lil'malāikati
+8	18:49:4	w	ࡴ࢈سْجُدُواْ		اسجدوا	Prostrate	us'judū
+9	18:49:5	w	لِأٓدَمَ		لادم	to Adam	liādama
+9	18:49:6	w	فَسَجَدُوٓاْ࣌		فسجدوا	so they prostrated	fasajadū
+9	18:49:7	w	إِلَّآ		الا	except	illā
+9	18:49:8	w	إِبْلِيسَ		ابليس	Iblis	ib'līsa
+9	18:49:9	w	كَانَ		كان	(He) was	kāna
+9	18:49:10	w	مِنَ		من	of	mina
+9	18:49:11	w	ࡰ۬لْجِنِّ		الجن	the jinn	l-jini
+9	18:49:12	w	فَفَسَقَ		ففسق	and he rebelled	fafasaqa
+9	18:49:13	w	عَنَ		عن	against	ʿan
+9	18:49:14	w	ࡰمْرِ		امر	the Command	amri
+9	18:49:15	w	رَبِّهِۦٓ࣌		ربهي	(of) his Lord	rabbihi
+10	18:49:16	w	أَفَتَتَّخِذُونَهُۥ		افتتخذونه	Will you then take him	afatattakhidhūnahu
+10	18:49:17	w	وَذُرِّيَّتَهُۥٓ		وذريته	and his offspring	wadhurriyyatahu
+10	18:49:18	w	أَوْلِيَآءَ		اوليا	(as) protectors	awliyāa
+10	18:49:19	w	مِن		من	other than Me	min
+10	18:49:20	w	دُونِے		دوني	other than Me	dūnī
+10	18:49:21	w	وَهُمْ		وهم	while they	wahum
+10	18:49:22	w	لَكُمْ		لكم	(are) to you	lakum
+10	18:49:23	w	عَدُوُّۢ࣌		عدو	enemies	ʿaduwwun
+11	18:49:24	w	بِيسَ		بيس	Wretched	bi'sa
+11	18:49:25	w	لِلظَّٰلِمِينَ		للظلمين	for the wrongdoers	lilẓẓālimīna
+11	18:49:26	w	بَدَلاࣰ࣌		بدلا	(is) the exchange	badalan
+11	18:49:27	e	۝٤٩				
+11	18:50:1	w	مَّآ		ما	Not	mā
+11	18:50:2	w	أَشْهَدتُّهُمْ		اشهدتهم	I made them witness	ashhadttuhum
+11	18:50:3	w	خَلْقَ		خلق	the creation	khalqa
+11	18:50:4	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+11	18:50:5	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+12	18:50:6	w	وَلَا		ولا	and not	walā
+12	18:50:7	w	خَلْقَ		خلق	the creation	khalqa
+12	18:50:8	w	أَنفُسِهِمْ		انفسهم	(of) themselves	anfusihim
+12	18:50:9	w	وَمَا		وما	and not	wamā
+12	18:50:10	w	كُنتُ		كنت	I Am	kuntu
+12	18:50:11	w	مُتَّخِذَ		متخذ	the One to take	muttakhidha
+12	18:50:12	w	ࡰ۬لْمُضِلِّينَ		المضلين	the misleaders	l-muḍilīna
+12	18:50:13	w	عَضُداࣰ࣌		عضدا	(as) helper(s)	ʿaḍudan
+12	18:50:14	e	۝٥٠				
+13	18:51:1	w	وَيَوْمَ		ويوم	And the Day	wayawma
+13	18:51:2	w	يَقُولُ		يقول	He will say	yaqūlu
+13	18:51:3	w	نَادُواْ		نادوا	Call	nādū
+13	18:51:4	w	شُرَكَآءِيَ		شركاي	My partners	shurakāiya
+13	18:51:5	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	18:51:6	w	زَعَمْتُمْ		زعمتم	you claimed	zaʿamtum
+13	18:51:7	w	فَدَعَوْهُمْ		فدعوهم	then they will call them	fadaʿawhum
+14	18:51:8	w	فَلَمْ		فلم	but not	falam
+14	18:51:9	w	يَسْتَجِيبُواْ		يستجيبوا	they will respond	yastajībū
+14	18:51:10	w	لَهُمْ		لهم	to them	lahum
+14	18:51:11	w	وَجَعَلْنَا		وجعلنا	And We will make	wajaʿalnā
+14	18:51:12	w	بَيْنَهُم		بينهم	between them	baynahum
+14	18:51:13	w	مَّوْبِقاࣰ࣌		موبقا	a barrier	mawbiqan
+14	18:51:14	e	۝٥١				
+14	18:52:1	w	وَرَءَا		ورا	And will see	waraā
+14	18:52:2	w	ࡰ۬لْمُجْرِمُونَ		المجرمون	the criminals	l-muj'rimūna
+15	18:52:3	w	ࡰ۬لنَّارَ		النار	the Fire	l-nāra
+15	18:52:4	w	فَظَنُّوٓاْ		فظنوا	and they (will be) certain	faẓannū
+15	18:52:5	w	أَنَّهُم		انهم	that they	annahum
+15	18:52:6	w	مُّوَاقِعُوهَا		مواقعوها	are to fall in it	muwāqiʿūhā
+15	18:52:7	w	وَلَمْ		ولم	And not	walam
+15	18:52:8	w	يَجِدُواْ		يجدوا	they will find	yajidū
+15	18:52:9	w	عَنْهَا		عنها	from it	ʿanhā
+15	18:52:10	w	مَصْرِفاࣰ࣌		مصرفا	a way of escape	maṣrifan
+15	18:52:11	e	۝٥٢				

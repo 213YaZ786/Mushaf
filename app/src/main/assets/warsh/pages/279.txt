@@ -1,0 +1,120 @@
+1	16:103:1	w	وَلَقَدْ		ولقد	And certainly	walaqad
+1	16:103:2	w	نَعْلَمُ		نعلم	We know	naʿlamu
+1	16:103:3	w	أَنَّهُمْ		انهم	that they	annahum
+1	16:103:4	w	يَقُولُونَ		يقولون	say	yaqūlūna
+1	16:103:5	w	إِنَّمَا		انما	Only	innamā
+1	16:103:6	w	يُعَلِّمُهُۥ		يعلمه	teaches him	yuʿallimuhu
+1	16:103:7	w	بَشَرࣱ࣌		بشر	a human being	basharun
+1	16:103:8	w	لِّسَانُ		لسان	(The) tongue	lisānu
+1	16:103:9	w	ࡲ۬لذِے		الذي	(of) the one	alladhī
+2	16:103:10	w	يُلْحِدُونَ		يلحدون	they refer	yul'ḥidūna
+2	16:103:11	w	إِلَيْهِ		اليه	to him	ilayhi
+2	16:103:12	w	أَعْجَمِيࣱّ		اعجمي	(is) foreign	aʿjamiyyun
+2	16:103:13	w	وَهَٰذَا		وهذا	while this	wahādhā
+2	16:103:14	w	لِسَانٌ		لسان	(is) a language	lisānun
+2	16:103:15	w	عَرَبِيࣱّ		عربي	Arabic	ʿarabiyyun
+2	16:103:16	w	مُّبِينٌ࣌		مبين	clear	mubīnun
+2	16:103:17	e	۝١٠٣				
+3	16:104:1	w	ࡴنَّ		ان	Indeed	inna
+3	16:104:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+3	16:104:3	w	لَا		لا	(do) not	lā
+3	16:104:4	w	يُومِنُونَ		يومنون	believe	yu'minūna
+3	16:104:5	w	بِـَٔايَٰتِ		بايت	in the Verses	biāyāti
+3	16:104:6	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+3	16:104:7	w	لَا		لا	not	lā
+3	16:104:8	w	يَهْدِيهِمُ		يهديهم	Allah will guide them	yahdīhimu
+3	16:104:9	w	ࡲ۬للَّهُ࣌		الله	Allah will guide them	l-lahu
+4	16:104:10	w	وَلَهُمْ		ولهم	and for them	walahum
+4	16:104:11	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+4	16:104:12	w	ࡰلِيمٌ࣌		اليم	painful	alīmun
+4	16:104:13	e	۝١٠٤				
+4	16:105:1	w	ࡴنَّمَا		انما	Only	innamā
+4	16:105:2	w	يَفْتَرِے		يفتري	they invent	yaftarī
+4	16:105:3	w	ࡴ۬لْكَذِبَ		الكذب	the falsehood	l-kadhiba
+4	16:105:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	16:105:5	w	لَا		لا	(do) not	lā
+5	16:105:6	w	يُومِنُونَ		يومنون	believe	yu'minūna
+5	16:105:7	w	بِـَٔايَٰتِ		بايت	in the Verses	biāyāti
+5	16:105:8	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+5	16:105:9	w	وَأُوْلَٰٓئِكَ		واوليك	and those	wa-ulāika
+5	16:105:10	w	هُمُ		هم	they	humu
+5	16:105:11	w	ࡲ۬لْكَٰذِبُونَ࣌		الكذبون	(are) the liars	l-kādhibūna
+5	16:105:12	e	۝١٠٥				
+6	16:106:1	w	مَن		من	Whoever	man
+6	16:106:2	w	كَفَرَ		كفر	disbelieves	kafara
+6	16:106:3	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+6	16:106:4	w	مِنۢ		من	after	min
+6	16:106:5	w	بَعْدِ		بعد	after	baʿdi
+6	16:106:6	w	إِيمَٰنِهِۦٓ		ايمنهي	his belief	īmānihi
+6	16:106:7	w	إِلَّا		الا	except	illā
+6	16:106:8	w	مَنُ		من	(one) who	man
+6	16:106:9	w	ࡳكْرِهَ		اكره	is forced	uk'riha
+6	16:106:10	w	وَقَلْبُهُۥ		وقلبه	while his heart	waqalbuhu
+7	16:106:11	w	مُطْمَئِنُّۢ		مطمين	(is) content	muṭ'ma-innun
+7	16:106:12	w	بِالِايمَٰنِ࣌		بالايمن	with the faith	bil-īmāni
+7	16:106:13	w	وَلَٰكِن		ولكن	But	walākin
+7	16:106:14	w	مَّن		من	(one) who	man
+7	16:106:15	w	شَرَحَ		شرح	opens	sharaḥa
+7	16:106:16	w	بِالْكُفْرِ		بالكفر	to disbelief	bil-kuf'ri
+7	16:106:17	w	صَدْراࣰ		صدرا	(his) breast	ṣadran
+8	16:106:18	w	فَعَلَيْهِمْ		فعليهم	then upon them	faʿalayhim
+8	16:106:19	w	غَضَبࣱ		غضب	(is) a wrath	ghaḍabun
+8	16:106:20	w	مِّنَ		من	of	mina
+8	16:106:21	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+8	16:106:22	w	وَلَهُمْ		ولهم	and for them	walahum
+8	16:106:23	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+8	16:106:24	w	عَظِيمࣱ࣌		عظيم	great	ʿaẓīmun
+8	16:106:25	e	۝١٠٦				
+9	16:107:1	w	ذَٰلِكَ		ذلك	That (is)	dhālika
+9	16:107:2	w	بِأَنَّهُمُ		بانهم	because	bi-annahumu
+9	16:107:3	w	ࡲٜسْتَحَبُّواْ		استحبوا	they preferred	is'taḥabbū
+9	16:107:4	w	ࡲ۬لْحَيَوٰةَ		الحيوة	the life	l-ḥayata
+9	16:107:5	w	ࡰ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+9	16:107:6	w	عَلَى		علي	over	ʿalā
+10	16:107:7	w	ࡰ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+10	16:107:8	w	وَأَنَّ		وان	and that	wa-anna
+10	16:107:9	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	16:107:10	w	لَا		لا	(does) not	lā
+10	16:107:11	w	يَهْدِے		يهدي	guide	yahdī
+10	16:107:12	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+10	16:107:13	w	ࡰ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+10	16:107:14	e	۝١٠٧				
+11	16:108:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+11	16:108:2	w	ࡰ۬لذِينَ		الذين	(are) the ones	alladhīna
+11	16:108:3	w	طَبَعَ		طبع	Allah has set a seal	ṭabaʿa
+11	16:108:4	w	ࡰ۬للَّهُ		الله	Allah has set a seal	l-lahu
+11	16:108:5	w	عَلَىٰ		علي	over	ʿalā
+11	16:108:6	w	قُلُوبِهِمْ		قلوبهم	their hearts	qulūbihim
+11	16:108:7	w	وَسَمْعِهِمْ		وسمعهم	and their hearing	wasamʿihim
+12	16:108:8	w	وَأَبْصٜـٰرِهِمْ࣌		وابصرهم	and their sight	wa-abṣārihim
+12	16:108:9	w	وَأُوْلَٰٓئِكَ		واوليك	And those	wa-ulāika
+12	16:108:10	w	هُمُ		هم	they are	humu
+12	16:108:11	w	ࡲ۬لْغَٰفِلُونَ࣌		الغفلون	the heedless	l-ghāfilūna
+12	16:108:12	e	۝١٠٨				
+12	16:109:1	w	لَا		لا	No	lā
+12	16:109:2	w	جَرَمَ		جرم	doubt	jarama
+13	16:109:3	w	أَنَّهُمْ		انهم	that they	annahum
+13	16:109:4	w	فِے		في	in	fī
+13	16:109:5	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+13	16:109:6	w	هُمُ		هم	[they]	humu
+13	16:109:7	w	ࡲ۬لْخَٰسِرُونَ࣌		الخسرون	(are) the losers	l-khāsirūna
+13	16:109:8	e	۝١٠٩				
+13	16:110:1	w	ثُمَّ		ثم	Then	thumma
+13	16:110:2	w	إِنَّ		ان	indeed	inna
+13	16:110:3	w	رَبَّكَ		ربك	your Lord	rabbaka
+14	16:110:4	w	لِلذِينَ		للذين	to those who	lilladhīna
+14	16:110:5	w	هَاجَرُواْ		هاجروا	emigrated	hājarū
+14	16:110:6	w	مِنۢ		من	after	min
+14	16:110:7	w	بَعْدِ		بعد	after	baʿdi
+14	16:110:8	w	مَا		ما	what	mā
+14	16:110:9	w	فُتِنُواْ		فتنوا	they had been put to trials	futinū
+14	16:110:10	w	ثُمَّ		ثم	then	thumma
+14	16:110:11	w	جَٰهَدُواْ		جهدوا	strove hard	jāhadū
+15	16:110:12	w	وَصَبَرُوٓاْ		وصبروا	and were patient	waṣabarū
+15	16:110:13	w	إِنَّ		ان	Indeed	inna
+15	16:110:14	w	رَبَّكَ		ربك	your Lord	rabbaka
+15	16:110:15	w	مِنۢ		من	after it	min
+15	16:110:16	w	بَعْدِهَا		بعدها	after it	baʿdihā
+15	16:110:17	w	لَغَفُورࣱ		لغفور	surely is Oft-Forgiving	laghafūrun
+15	16:110:18	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+15	16:110:19	e	۝١١٠				

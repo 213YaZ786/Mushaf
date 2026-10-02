@@ -1,0 +1,140 @@
+1	2:153:1	w	وَلَا		ولا	And (do) not	walā
+1	2:153:2	w	تَقُولُواْ		تقولوا	say	taqūlū
+1	2:153:3	w	لِمَنْ		لمن	for (the ones) who	liman
+1	2:153:4	w	يُّقْتَلُ		يقتل	are slain	yuq'talu
+1	2:153:5	w	فِے		في	in	fī
+1	2:153:6	w	سَبِيلِ		سبيل	(the) way	sabīli
+1	2:153:7	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+1	2:153:8	w	أَمْوَٰتُۢ࣌		اموت	(They are) dead	amwātun
+1	2:153:9	w	بَلَ		بل	Nay	bal
+1	2:153:10	w	ࡰحْيَآءࣱ࣌		احيا	(they are) alive	aḥyāon
+1	2:153:11	w	وَلَٰكِن		ولكن	[and] but	walākin
+2	2:153:12	w	لَّا		لا	you (do) not	lā
+2	2:153:13	w	تَشْعُرُونَ࣌		تشعرون	perceive	tashʿurūna
+2	2:153:14	e	۝١٥٣				
+2	2:154:1	w	وَلَنَبْلُوَنَّكُم		ولنبلونكم	And surely We will test you	walanabluwannakum
+2	2:154:2	w	بِشَےْءࣲ		بشي	with something	bishayin
+2	2:154:3	w	مِّنَ		من	of	mina
+2	2:154:4	w	ࡰ۬لْخَوْفِ		الخوف	[the] fear	l-khawfi
+2	2:154:5	w	وَالْجُوعِ		والجوع	and [the] hunger	wal-jūʿi
+3	2:154:6	w	وَنَقْصࣲ		ونقص	and loss	wanaqṣin
+3	2:154:7	w	مِّنَ		من	of	mina
+3	2:154:8	w	ࡰ۬لَامْوَٰلِ		الامول	[the] wealth	l-amwāli
+3	2:154:9	w	وَالَانفُسِ		والانفس	and [the] lives	wal-anfusi
+3	2:154:10	w	وَالثَّمَرَٰتِ࣌		والثمرت	and [the] fruits	wal-thamarāti
+3	2:154:11	w	وَبَشِّرِ		وبشر	but give good news	wabashiri
+3	2:154:12	w	ࡴ۬لصَّٰبِرِينَ		الصبرين	(to) the patient ones	l-ṣābirīna
+3	2:154:13	e	۝١٥٤				
+4	2:155:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+4	2:155:2	w	إِذَآ		اذا	when	idhā
+4	2:155:3	w	أَصَٰبَتْهُم		اصبتهم	strikes them	aṣābathum
+4	2:155:4	w	مُّصِيبَةࣱ		مصيبة	a misfortune	muṣībatun
+4	2:155:5	w	قَالُوٓاْ		قالوا	they say	qālū
+4	2:155:6	w	إِنَّا		انا	Indeed, we	innā
+4	2:155:7	w	لِلهِ		لله	belong to Allah	lillahi
+4	2:155:8	w	وَإِنَّآ		وانا	and indeed we	wa-innā
+4	2:155:9	w	إِلَيْهِ		اليه	towards Him	ilayhi
+4	2:155:10	w	رَٰجِعُونَ࣌		رجعون	will return	rājiʿūna
+4	2:155:11	e	۝١٥٥				
+5	2:156:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+5	2:156:2	w	عَلَيْهِمْ		عليهم	on them	ʿalayhim
+5	2:156:3	w	صَلَوَٰتࣱ		صلوت	(are) blessings	ṣalawātun
+5	2:156:4	w	مِّن		من	from	min
+5	2:156:5	w	رَّبِّهِمْ		ربهم	their Lord	rabbihim
+5	2:156:6	w	وَرَحْمَةࣱ࣌		ورحمة	and Mercy	waraḥmatun
+5	2:156:7	w	وَأُوْلَٰٓئِكَ		واوليك	And those	wa-ulāika
+6	2:156:8	w	هُمُ		هم	[they]	humu
+6	2:156:9	w	ࡲ۬لْمُهْتَدُونَ࣌		المهتدون	(are) the guided ones	l-muh'tadūna
+6	2:156:10	e	۝١٥٦				
+6	2:157:1	w	۞ إِنَّ		ان	Indeed	inna
+6	2:157:2	w	ࡰ۬لصَّفَا		الصفا	the Safa	l-ṣafā
+6	2:157:3	w	وَالْمَرْوَةَ		والمروة	and the Marwah	wal-marwata
+6	2:157:4	w	مِن		من	(are) from	min
+6	2:157:5	w	شَعَٰٓئِرِ		شعير	(the) symbols	shaʿāiri
+6	2:157:6	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+7	2:157:7	w	فَمَنْ		فمن	So whoever	faman
+7	2:157:8	w	حَجَّ		حج	performs Hajj	ḥajja
+7	2:157:9	w	ࡰ۬لْبَيْتَ		البيت	(of) the House	l-bayta
+7	2:157:10	w	أَوِ		او	or	awi
+7	2:157:11	w	ࡴٜعْتَمَرَ		اعتمر	performs Umrah	iʿ'tamara
+7	2:157:12	w	فَلَا		فلا	so no	falā
+7	2:157:13	w	جُنَاحَ		جناح	blame	junāḥa
+7	2:157:14	w	عَلَيْهِ		عليه	on him	ʿalayhi
+7	2:157:15	w	أَنْ		ان	that	an
+7	2:157:16	w	يَّطَّوَّفَ		يطوف	he walks	yaṭṭawwafa
+7	2:157:17	w	بِهِمَا࣌		بهما	between [both of] them	bihimā
+8	2:157:18	w	وَمَن		ومن	And whoever	waman
+8	2:157:19	w	تَطَوَّعَ		تطوع	voluntarily does	taṭawwaʿa
+8	2:157:20	w	خَيْراࣰ		خيرا	good	khayran
+8	2:157:21	w	فَإِنَّ		فان	then indeed	fa-inna
+8	2:157:22	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+8	2:157:23	w	شَاكِرٌ		شاكر	(is) All-Appreciative	shākirun
+8	2:157:24	w	عَلِيمٌ࣌		عليم	All-Knowing	ʿalīmun
+8	2:157:25	e	۝١٥٧				
+8	2:158:1	w	ࡴنَّ		ان	Indeed	inna
+8	2:158:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+9	2:158:3	w	يَكْتُمُونَ		يكتمون	conceal	yaktumūna
+9	2:158:4	w	مَآ		ما	what	mā
+9	2:158:5	w	أَنزَلْنَا		انزلنا	We revealed	anzalnā
+9	2:158:6	w	مِنَ		من	of	mina
+9	2:158:7	w	ࡰ۬لْبَيِّنَٰتِ		البينت	the clear proofs	l-bayināti
+9	2:158:8	w	وَالْهُدٜىٰ		والهدي	and the Guidance	wal-hudā
+9	2:158:9	w	مِنۢ		من	from	min
+9	2:158:10	w	بَعْدِ		بعد	after	baʿdi
+9	2:158:11	w	مَا		ما	[what]	mā
+9	2:158:12	w	بَيَّنَّٰهُ		بينه	We made clear	bayyannāhu
+10	2:158:13	w	لِلنَّاسِ		للناس	to the people	lilnnāsi
+10	2:158:14	w	فِے		في	in	fī
+10	2:158:15	w	ࡴ۬لْكِتَٰبِ		الكتب	the Book	l-kitābi
+10	2:158:16	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+10	2:158:17	w	يَلْعَنُهُمُ		يلعنهم	curses them	yalʿanuhumu
+10	2:158:18	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+10	2:158:19	w	وَيَلْعَنُهُمُ		ويلعنهم	and curse them	wayalʿanuhumu
+10	2:158:20	w	ࡲ۬للَّٰعِنُونَ		اللعنون	the ones who curse	l-lāʿinūna
+10	2:158:21	e	۝١٥٨				
+11	2:159:1	w	إِلَّا		الا	Except	illā
+11	2:159:2	w	ࡰ۬لذِينَ		الذين	those	alladhīna
+11	2:159:3	w	تَابُواْ		تابوا	who repent[ed]	tābū
+11	2:159:4	w	وَأَصْلَحُواْ		واصلحوا	and reform[ed]	wa-aṣlaḥū
+11	2:159:5	w	وَبَيَّنُواْ		وبينوا	and openly declar[ed]	wabayyanū
+11	2:159:6	w	فَأُوْلَٰٓئِكَ		فاوليك	Then those	fa-ulāika
+11	2:159:7	w	أَتُوبُ		اتوب	I will accept repentance	atūbu
+11	2:159:8	w	عَلَيْهِمْ		عليهم	from them	ʿalayhim
+12	2:159:9	w	وَأَنَا		وانا	and I (am)	wa-anā
+12	2:159:10	w	ࡰ۬لتَّوَّابُ		التواب	the Acceptor of Repentance	l-tawābu
+12	2:159:11	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+12	2:159:12	e	۝١٥٩				
+12	2:160:1	w	إِنَّ		ان	Indeed	inna
+12	2:160:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	2:160:3	w	كَفَرُواْ		كفروا	disbelieve[d]	kafarū
+12	2:160:4	w	وَمَاتُواْ		وماتوا	and die[d]	wamātū
+12	2:160:5	w	وَهُمْ		وهم	while they	wahum
+13	2:160:6	w	كُفَّارٌ		كفار	(were) disbelievers	kuffārun
+13	2:160:7	w	ࡳوْلَٰٓئِكَ		اوليك	those	ulāika
+13	2:160:8	w	عَلَيْهِمْ		عليهم	on them	ʿalayhim
+13	2:160:9	w	لَعْنَةُ		لعنة	(is the) curse	laʿnatu
+13	2:160:10	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+13	2:160:11	w	وَالْمَلَٰٓئِكَةِ		والمليكة	and the Angels	wal-malāikati
+13	2:160:12	w	وَالنَّاسِ		والناس	and the mankind	wal-nāsi
+13	2:160:13	w	أَجْمَعِينَ		اجمعين	all together	ajmaʿīna
+13	2:160:14	e	۝١٦٠				
+14	2:161:1	w	خَٰلِدِينَ		خلدين	(Will) abide forever	khālidīna
+14	2:161:2	w	فِيهَا࣌		فيها	in it	fīhā
+14	2:161:3	w	لَا		لا	Not	lā
+14	2:161:4	w	يُخَفَّفُ		يخفف	will be lightened	yukhaffafu
+14	2:161:5	w	عَنْهُمُ		عنهم	for them	ʿanhumu
+14	2:161:6	w	ࡲ۬لْعَذَابُ		العذاب	the punishment	l-ʿadhābu
+14	2:161:7	w	وَلَا		ولا	and not	walā
+14	2:161:8	w	هُمْ		هم	they	hum
+14	2:161:9	w	يُنظَرُونَ࣌		ينظرون	will be reprieved	yunẓarūna
+14	2:161:10	e	۝١٦١				
+15	2:162:1	w	وَإِلَٰهُكُمُۥٓ		والهكم	And your God	wa-ilāhukum
+15	2:162:2	w	إِلَٰهࣱ		اله	(is) God	ilāhun
+15	2:162:3	w	وَٰحِدࣱ࣌		وحد	one (only)	wāḥidun
+15	2:162:4	w	لَّآ		لا	(there is) no	lā
+15	2:162:5	w	إِلَٰهَ		اله	god	ilāha
+15	2:162:6	w	إِلَّا		الا	except	illā
+15	2:162:7	w	هُوَ࣌		هو	Him	huwa
+15	2:162:8	w	ࡰ۬لرَّحْمَٰنُ		الرحمن	the Most Gracious	l-raḥmānu
+15	2:162:9	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+15	2:162:10	e	۝١٦٢				

@@ -23,6 +23,15 @@ class ArabicTest {
     }
 
     @Test
+    fun theWarshMushafsLettersReadAsTyped() {
+        // ٱلْحَمْدُ and ٱلرَّحْمَٰنِ as the Warsh file writes them, with the alef forms of Arabic Extended-B.
+        assertEquals("الحمد", Arabic.normalize("ࡴ۬lْحَمْدُ".replace("l", "ل")))
+        assertEquals(Arabic.normalize("الرحمن"), Arabic.normalize("ࡰ۬لرَّحْمَٰنِ"))
+        // The Maghrebi feh and qaf.
+        assertEquals("فقال", Arabic.normalize("ڢڧال"))
+    }
+
+    @Test
     fun wordsAreSplitOnSpaces() {
         assertEquals(listOf("بسم", "الله"), Arabic.words("  بِسۡمِ   ٱللَّهِ "))
     }

@@ -1,0 +1,124 @@
+1	2:236:1	w	حَٰفِظُواْ		حفظوا	Guard strictly	ḥāfiẓū
+1	2:236:2	w	عَلَى		علي	[on]	ʿalā
+1	2:236:3	w	ࡰ۬لصَّلَوَٰتِ		الصلوت	the prayers	l-ṣalawāti
+1	2:236:4	w	وَالصَّلَوٰةِ		والصلوة	and the prayer	wal-ṣalati
+1	2:236:5	w	ࡴ۬لْوُسْطٜىٰ		الوسطي	[the] middle	l-wus'ṭā
+1	2:236:6	w	وَقُومُواْ		وقوموا	and stand up	waqūmū
+1	2:236:7	w	لِلهِ		لله	for Allah	lillahi
+2	2:236:8	w	قَٰنِتِينَ࣌		قنتين	devoutly obedient	qānitīna
+2	2:236:9	e	۝٢٣٦				
+2	2:237:1	w	فَإِنْ		فان	And if	fa-in
+2	2:237:2	w	خِفْتُمْ		خفتم	you fear	khif'tum
+2	2:237:3	w	فَرِجَالاً		فرجالا	then (pray) on foot	farijālan
+2	2:237:4	w	ࡰوْ		او	or	aw
+2	2:237:5	w	رُكْبَاناࣰ࣌		ركبانا	riding	ruk'bānan
+2	2:237:6	w	فَإِذَآ		فاذا	Then when	fa-idhā
+2	2:237:7	w	أَمِنتُمْ		امنتم	you are secure	amintum
+3	2:237:8	w	فَاذْكُرُواْ		فاذكروا	then remember	fa-udh'kurū
+3	2:237:9	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+3	2:237:10	w	كَمَا		كما	as	kamā
+3	2:237:11	w	عَلَّمَكُم		علمكم	He (has) taught you	ʿallamakum
+3	2:237:12	w	مَّا		ما	what	mā
+3	2:237:13	w	لَمْ		لم	not	lam
+3	2:237:14	w	تَكُونُواْ		تكونوا	you were	takūnū
+3	2:237:15	w	تَعْلَمُونَ࣌		تعلمون	knowing	taʿlamūna
+3	2:237:16	e	۝٢٣٧				
+4	2:238:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+4	2:238:2	w	يُتَوَفَّوْنَ		يتوفون	die	yutawaffawna
+4	2:238:3	w	مِنكُمْ		منكم	among you	minkum
+4	2:238:4	w	وَيَذَرُونَ		ويذرون	and leave behind	wayadharūna
+4	2:238:5	w	أَزْوَٰجاࣰ		ازوجا	(their) wives	azwājan
+4	2:238:6	w	وَصِيَّةࣱ		وصية	(should make) a will	waṣiyyatan
+5	2:238:7	w	لِّأَزْوَٰجِهِم		لازوجهم	for their wives	li-azwājihim
+5	2:238:8	w	مَّتَٰعاً		متعا	provision	matāʿan
+5	2:238:9	w	ࡴلَى		الي	for	ilā
+5	2:238:10	w	ࡰ۬لْحَوْلِ		الحول	the year	l-ḥawli
+5	2:238:11	w	غَيْرَ		غير	without	ghayra
+5	2:238:12	w	إِخْرَاجࣲ࣌		اخراج	driving (them) out	ikh'rājin
+5	2:238:13	w	فَإِنْ		فان	But if	fa-in
+6	2:238:14	w	خَرَجْنَ		خرجن	they leave	kharajna
+6	2:238:15	w	فَلَا		فلا	then no	falā
+6	2:238:16	w	جُنَاحَ		جناح	blame	junāḥa
+6	2:238:17	w	عَلَيْكُمْ		عليكم	upon you	ʿalaykum
+6	2:238:18	w	فِے		في	in	fī
+6	2:238:19	w	مَا		ما	what	mā
+6	2:238:20	w	فَعَلْنَ		فعلن	they do	faʿalna
+6	2:238:21	w	فِےٓ		في	concerning	fī
+6	2:238:22	w	أَنفُسِهِنَّ		انفسهن	themselves	anfusihinna
+7	2:238:23	w	مِن		من	[of]	min
+7	2:238:24	w	مَّعْرُوفࣲ࣌		معروف	honorably	maʿrūfin
+7	2:238:25	w	وَاللَّهُ		والله	And Allah	wal-lahu
+7	2:238:26	w	عَزِيزٌ		عزيز	(is) All-Mighty	ʿazīzun
+7	2:238:27	w	حَكِيمࣱ࣌		حكيم	All-Wise	ḥakīmun
+7	2:238:28	e	۝٢٣٨				
+7	2:239:1	w	وَلِلْمُطَلَّقَٰتِ		وللمطلقت	And for the divorced women	walil'muṭallaqāti
+7	2:239:2	w	مَتَٰعُۢ		متع	(is) a provision	matāʿun
+8	2:239:3	w	بِالْمَعْرُوفِ࣌		بالمعروف	in a fair manner	bil-maʿrūfi
+8	2:239:4	w	حَقّاً		حقا	a duty	ḥaqqan
+8	2:239:5	w	عَلَى		علي	upon	ʿalā
+8	2:239:6	w	ࡰ۬لْمُتَّقِينَ࣌		المتقين	the righteous	l-mutaqīna
+8	2:239:7	e	۝٢٣٩				
+8	2:240:1	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+8	2:240:2	w	يُبَيِّنُ		يبين	makes clear	yubayyinu
+9	2:240:3	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+9	2:240:4	w	لَكُمُۥٓ		لكم	for you	lakum
+9	2:240:5	w	ءَايَٰتِهِۦ		ايتهي	His Verses	āyātihi
+9	2:240:6	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+9	2:240:7	w	تَعْقِلُونَ࣌		تعقلون	use your intellect	taʿqilūna
+9	2:240:8	e	۝٢٤٠				
+9	2:241:1	w	۞ أَلَمْ		الم	Did not	alam
+9	2:241:2	w	تَرَ		تر	you see	tara
+9	2:241:3	w	إِلَى		الي	[to]	ilā
+10	2:241:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	2:241:5	w	خَرَجُواْ		خرجوا	went out	kharajū
+10	2:241:6	w	مِن		من	from	min
+10	2:241:7	w	دِيٜـٰرِهِمْ		ديرهم	their homes	diyārihim
+10	2:241:8	w	وَهُمُۥٓ		وهم	and they	wahum
+10	2:241:9	w	أُلُوفٌ		الوف	(were in) thousands	ulūfun
+10	2:241:10	w	حَذَرَ		حذر	(in) fear	ḥadhara
+10	2:241:11	w	ࡰ۬لْمَوْتِ		الموت	(of) [the] death	l-mawti
+11	2:241:12	w	فَقَالَ		فقال	Then said	faqāla
+11	2:241:13	w	لَهُمُ		لهم	to them	lahumu
+11	2:241:14	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+11	2:241:15	w	مُوتُواْ		موتوا	Die	mūtū
+11	2:241:16	w	ثُمَّ		ثم	then	thumma
+11	2:241:17	w	أَحْيٜاهُمُۥٓ࣌		احياهم	He restored them to life	aḥyāhum
+11	2:241:18	w	إِنَّ		ان	Indeed	inna
+11	2:241:19	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	2:241:20	w	لَذُو		لذو	(is) surely Possessor	ladhū
+11	2:241:21	w	فَضْلٍ		فضل	(of) bounty	faḍlin
+12	2:241:22	w	عَلَى		علي	for	ʿalā
+12	2:241:23	w	ࡰ۬لنَّاسِ࣌		الناس	[the] mankind	l-nāsi
+12	2:241:24	w	وَلَٰكِنَّ		ولكن	[and] but	walākinna
+12	2:241:25	w	أَكْثَرَ		اكثر	most	akthara
+12	2:241:26	w	ࡰ۬لنَّاسِ		الناس	(of) the people	l-nāsi
+12	2:241:27	w	لَا		لا	(are) not	lā
+12	2:241:28	w	يَشْكُرُونَ࣌		يشكرون	grateful	yashkurūna
+12	2:241:29	e	۝٢٤١				
+13	2:242:1	w	وَقَٰتِلُواْ		وقتلوا	And fight	waqātilū
+13	2:242:2	w	فِے		في	in	fī
+13	2:242:3	w	سَبِيلِ		سبيل	(the) way	sabīli
+13	2:242:4	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+13	2:242:5	w	وَاعْلَمُوٓاْ		واعلموا	and know	wa-iʿ'lamū
+13	2:242:6	w	أَنَّ		ان	that	anna
+13	2:242:7	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+13	2:242:8	w	سَمِيعٌ		سميع	(is) All-Hearing	samīʿun
+13	2:242:9	w	عَلِيمࣱ࣌		عليم	All-Knowing	ʿalīmun
+13	2:242:10	e	۝٢٤٢				
+14	2:243:1	w	مَّن		من	Who	man
+14	2:243:2	w	ذَا		ذا	(is) the one	dhā
+14	2:243:3	w	ࡰ۬لذِے		الذي	who	alladhī
+14	2:243:4	w	يُقْرِضُ		يقرض	will lend	yuq'riḍu
+14	2:243:5	w	ࡲ۬للَّهَ		الله	(to) Allah	l-laha
+14	2:243:6	w	قَرْضاً		قرضا	a loan	qarḍan
+14	2:243:7	w	حَسَناࣰ		حسنا	good	ḥasanan
+14	2:243:8	w	فَيُضَٰعِفُهُۥ		فيضعفه	so (that) He multiplies it	fayuḍāʿifahu
+14	2:243:9	w	لَهُۥٓ		له	for him	lahu
+14	2:243:10	w	أَضْعَافاࣰ		اضعافا	manifolds	aḍʿāfan
+15	2:243:11	w	كَثِيرَةࣰ࣌		كثيرة	many	kathīratan
+15	2:243:12	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	2:243:13	w	يَقْبِضُ		يقبض	withholds	yaqbiḍu
+15	2:243:14	w	وَيَبْصُطُ࣌		ويبصط	and grants abundance	wayabṣuṭu
+15	2:243:15	w	وَإِلَيْهِ		واليه	and to Him	wa-ilayhi
+15	2:243:16	w	تُرْجَعُونَ࣌		ترجعون	you will be returned	tur'jaʿūna
+15	2:243:17	e	۝٢٤٣				

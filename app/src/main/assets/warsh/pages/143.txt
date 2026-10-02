@@ -1,0 +1,136 @@
+1	6:120:1	w	وَمَا		وما	And what	wamā
+1	6:120:2	w	لَكُمُۥٓ		لكم	for you	lakum
+1	6:120:3	w	أَلَّا		الا	that not	allā
+1	6:120:4	w	تَاكُلُواْ		تاكلوا	you eat	takulū
+1	6:120:5	w	مِمَّا		مما	of what	mimmā
+1	6:120:6	w	ذُكِرَ		ذكر	has been mentioned	dhukira
+1	6:120:7	w	ࡰٜسْمُ		اسم	(the) name	us'mu
+1	6:120:8	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+1	6:120:9	w	عَلَيْهِ		عليه	on it	ʿalayhi
+1	6:120:10	w	وَقَدْ		وقد	when indeed	waqad
+1	6:120:11	w	فَصَّلَ		فصل	He (has) explained in detail	faṣṣala
+2	6:120:12	w	لَكُم		لكم	to you	lakum
+2	6:120:13	w	مَّا		ما	what	mā
+2	6:120:14	w	حَرَّمَ		حرم	He (has) forbidden	ḥarrama
+2	6:120:15	w	عَلَيْكُمُۥٓ		عليكم	to you	ʿalaykum
+2	6:120:16	w	إِلَّا		الا	except	illā
+2	6:120:17	w	مَا		ما	what	mā
+2	6:120:18	w	ࡸَضْطُرِرْتُمُۥٓ		اضطررتم	you are compelled	uḍ'ṭurir'tum
+2	6:120:19	w	إِلَيْهِ࣌		اليه	to it	ilayhi
+2	6:120:20	w	وَإِنَّ		وان	And indeed	wa-inna
+2	6:120:21	w	كَثِيراࣰ		كثيرا	many	kathīran
+3	6:120:22	w	لَّيَضِلُّونَ		ليضلون	surely lead astray	layuḍillūna
+3	6:120:23	w	بِأَهْوَآئِهِم		باهوايهم	by their (vain) desires	bi-ahwāihim
+3	6:120:24	w	بِغَيْرِ		بغير	without	bighayri
+3	6:120:25	w	عِلْمٍ࣌		علم	knowledge	ʿil'min
+3	6:120:26	w	ࡴنَّ		ان	Indeed	inna
+3	6:120:27	w	رَبَّكَ		ربك	your Lord	rabbaka
+3	6:120:28	w	هُوَ		هو	He	huwa
+3	6:120:29	w	أَعْلَمُ		اعلم	(is) most knowing	aʿlamu
+3	6:120:30	w	بِالْمُعْتَدِينَ࣌		بالمعتدين	of the transgressors	bil-muʿ'tadīna
+3	6:120:31	e	۝١٢٠				
+4	6:121:1	w	۞ وَذَرُواْ		وذروا	Forsake	wadharū
+4	6:121:2	w	ظَٰهِرَ		ظهر	open	ẓāhira
+4	6:121:3	w	ࡰ۬لِاثْمِ		الاثم	[the] sins	l-ith'mi
+4	6:121:4	w	وَبَاطِنَهُۥٓ࣌		وباطنه	and the secret	wabāṭinahu
+4	6:121:5	w	إِنَّ		ان	Indeed	inna
+4	6:121:6	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+4	6:121:7	w	يَكْسِبُونَ		يكسبون	earn	yaksibūna
+4	6:121:8	w	ࡰ۬لِاثْمَ		الاثم	[the] sin	l-ith'ma
+5	6:121:9	w	سَيُجْزَوْنَ		سيجزون	they will be recompensed	sayuj'zawna
+5	6:121:10	w	بِمَا		بما	for what	bimā
+5	6:121:11	w	كَانُواْ		كانوا	they used to	kānū
+5	6:121:12	w	يَقْتَرِفُونَ࣌		يقترفون	commit	yaqtarifūna
+5	6:121:13	e	۝١٢١				
+5	6:122:1	w	وَلَا		ولا	And (do) not	walā
+5	6:122:2	w	تَاكُلُواْ		تاكلوا	eat	takulū
+5	6:122:3	w	مِمَّا		مما	of that	mimmā
+5	6:122:4	w	لَمْ		لم	not	lam
+6	6:122:5	w	يُذْكَرِ		يذكر	has been mentioned	yudh'kari
+6	6:122:6	w	ࡴٜسْمُ		اسم	(the) name	us'mu
+6	6:122:7	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+6	6:122:8	w	عَلَيْهِ		عليه	on it	ʿalayhi
+6	6:122:9	w	وَإِنَّهُۥ		وانه	and indeed, it (is)	wa-innahu
+6	6:122:10	w	لَفِسْقࣱ࣌		لفسق	grave disobedience	lafis'qun
+6	6:122:11	w	وَإِنَّ		وان	And indeed	wa-inna
+6	6:122:12	w	ࡰ۬لشَّيَٰطِينَ		الشيطين	the devils	l-shayāṭīna
+6	6:122:13	w	لَيُوحُونَ		ليوحون	inspire	layūḥūna
+7	6:122:14	w	إِلَىٰٓ		الي	to	ilā
+7	6:122:15	w	أَوْلِيَآئِهِمْ		اوليايهم	their friends	awliyāihim
+7	6:122:16	w	لِيُجَٰدِلُوكُمْ࣌		ليجدلوكم	so that they dispute with you	liyujādilūkum
+7	6:122:17	w	وَإِنَ		وان	and if	wa-in
+7	6:122:18	w	ࡰطَعْتُمُوهُمُۥٓ		اطعتموهم	you obey them	aṭaʿtumūhum
+7	6:122:19	w	إِنَّكُمْ		انكم	indeed, you	innakum
+7	6:122:20	w	لَمُشْرِكُونَ࣌		لمشركون	(would) be the polytheists	lamush'rikūna
+7	6:122:21	e	۝١٢٢				
+8	6:123:1	w	أَوَمَن		اومن	Is (one) who	awaman
+8	6:123:2	w	كَانَ		كان	was	kāna
+8	6:123:3	w	مَيِّتاࣰ		ميتا	dead	maytan
+8	6:123:4	w	فَأَحْيَيْنَٰهُ		فاحيينه	and We gave him life	fa-aḥyaynāhu
+8	6:123:5	w	وَجَعَلْنَا		وجعلنا	and We made	wajaʿalnā
+8	6:123:6	w	لَهُۥ		له	for him	lahu
+8	6:123:7	w	نُوراࣰ		نورا	light	nūran
+8	6:123:8	w	يَمْشِے		يمشي	he walks	yamshī
+8	6:123:9	w	بِهِۦ		بهي	whereby	bihi
+8	6:123:10	w	فِے		في	among	fī
+9	6:123:11	w	ࡴ۬لنَّاسِ		الناس	the people	l-nāsi
+9	6:123:12	w	كَمَن		كمن	like (one) who	kaman
+9	6:123:13	w	مَّثَلُهُۥ		مثله	[similar to him]	mathaluhu
+9	6:123:14	w	فِے		في	(is) in	fī
+9	6:123:15	w	ࡴ۬لظُّلُمَٰتِ		الظلمت	the darknesses	l-ẓulumāti
+9	6:123:16	w	لَيْسَ		ليس	not	laysa
+9	6:123:17	w	بِخَارِجࣲ		بخارج	he comes out	bikhārijin
+9	6:123:18	w	مِّنْهَا࣌		منها	of it	min'hā
+9	6:123:19	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+10	6:123:20	w	زُيِّنَ		زين	is made fair-seeming	zuyyina
+10	6:123:21	w	لِلْكٜـٰفِرِينَ		للكفرين	to the disbelievers	lil'kāfirīna
+10	6:123:22	w	مَا		ما	what	mā
+10	6:123:23	w	كَانُواْ		كانوا	they were	kānū
+10	6:123:24	w	يَعْمَلُونَ࣌		يعملون	doing	yaʿmalūna
+10	6:123:25	e	۝١٢٣				
+10	6:124:1	w	وَكَذَٰلِكَ		وكذلك	And thus	wakadhālika
+10	6:124:2	w	جَعَلْنَا		جعلنا	We placed	jaʿalnā
+11	6:124:3	w	فِے		في	in	fī
+11	6:124:4	w	كُلِّ		كل	every	kulli
+11	6:124:5	w	قَرْيَةٍ		قرية	city	qaryatin
+11	6:124:6	w	ࡰكَٰبِرَ		اكبر	greatest	akābira
+11	6:124:7	w	مُجْرِمِيهَا		مجرميها	(of) its criminals	muj'rimīhā
+11	6:124:8	w	لِيَمْكُرُواْ		ليمكروا	so that they plot	liyamkurū
+11	6:124:9	w	فِيهَا࣌		فيها	therein	fīhā
+11	6:124:10	w	وَمَا		وما	And not	wamā
+12	6:124:11	w	يَمْكُرُونَ		يمكرون	they plot	yamkurūna
+12	6:124:12	w	إِلَّا		الا	except	illā
+12	6:124:13	w	بِأَنفُسِهِمْ		بانفسهم	against themselves	bi-anfusihim
+12	6:124:14	w	وَمَا		وما	and not	wamā
+12	6:124:15	w	يَشْعُرُونَ࣌		يشعرون	they perceive	yashʿurūna
+12	6:124:16	e	۝١٢٤				
+12	6:125:1	w	وَإِذَا		واذا	And when	wa-idhā
+12	6:125:2	w	جَآءَتْهُمُۥٓ		جاتهم	comes to them	jāathum
+13	6:125:3	w	ءَايَةࣱ		اية	a Sign	āyatun
+13	6:125:4	w	قَالُواْ		قالوا	they say	qālū
+13	6:125:5	w	لَن		لن	Never	lan
+13	6:125:6	w	نُّومِنَ		نومن	we will believe	nu'mina
+13	6:125:7	w	حَتَّىٰ		حتي	until	ḥattā
+13	6:125:8	w	نُوتٜىٰ		نوتي	we are given	nu'tā
+13	6:125:9	w	مِثْلَ		مثل	like	mith'la
+13	6:125:10	w	مَآ		ما	what	mā
+13	6:125:11	w	أُوتِيَ		اوتي	was given	ūtiya
+13	6:125:12	w	رُسُلُ		رسل	(to the) Messengers	rusulu
+13	6:125:13	w	ࡲ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+14	6:125:14	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+14	6:125:15	w	أَعْلَمُ		اعلم	knows best	aʿlamu
+14	6:125:16	w	حَيْثُ		حيث	where	ḥaythu
+14	6:125:17	w	يَجْعَلُ		يجعل	He places	yajʿalu
+14	6:125:18	w	رِسَٰلَٰتِهِۦ࣌		رسلتهي	His Message	risālatahu
+14	6:125:19	w	سَيُصِيبُ		سيصيب	Will afflict	sayuṣību
+14	6:125:20	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+14	6:125:21	w	أَجْرَمُواْ		اجرموا	committed crimes	ajramū
+15	6:125:22	w	صَغَارٌ		صغار	a humiliation	ṣaghārun
+15	6:125:23	w	عِندَ		عند	from	ʿinda
+15	6:125:24	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+15	6:125:25	w	وَعَذَابࣱ		وعذاب	and a punishment	waʿadhābun
+15	6:125:26	w	شَدِيدُۢ		شديد	severe	shadīdun
+15	6:125:27	w	بِمَا		بما	for what	bimā
+15	6:125:28	w	كَانُواْ		كانوا	they used to	kānū
+15	6:125:29	w	يَمْكُرُونَ࣌		يمكرون	plot	yamkurūna
+15	6:125:30	e	۝١٢٥				

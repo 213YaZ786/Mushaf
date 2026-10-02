@@ -1,0 +1,134 @@
+1	40:41:1	w	۞ وَيَٰقَوْمِ		ويقوم	And O my people	wayāqawmi
+1	40:41:2	w	مَا		ما	What (is)	mā
+1	40:41:3	w	لِيَ		لي	for me	lī
+1	40:41:4	w	أَدْعُوكُمُۥٓ		ادعوكم	(that) I call you	adʿūkum
+1	40:41:5	w	إِلَى		الي	to	ilā
+1	40:41:6	w	ࡰ۬لنَّجَوٰةِ		النجوة	the salvation	l-najati
+1	40:41:7	w	وَتَدْعُونَنِےٓ		وتدعونني	while you call me	watadʿūnanī
+1	40:41:8	w	إِلَى		الي	to	ilā
+2	40:41:9	w	ࡰ۬لنّٜارِ࣌		النار	the Fire	l-nāri
+2	40:41:10	e	۝٤١				
+2	40:42:1	w	تَدْعُونَنِے		تدعونني	You call me	tadʿūnanī
+2	40:42:2	w	لِأَكْفُرَ		لاكفر	that I disbelieve	li-akfura
+2	40:42:3	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+2	40:42:4	w	وَأُشْرِكَ		واشرك	and (to) associate	wa-ush'rika
+2	40:42:5	w	بِهِۦ		بهي	with Him	bihi
+2	40:42:6	w	مَا		ما	what	mā
+2	40:42:7	w	لَيْسَ		ليس	not	laysa
+3	40:42:8	w	لِے		لي	for me	lī
+3	40:42:9	w	بِهِۦ		بهي	of it	bihi
+3	40:42:10	w	عِلْمࣱ		علم	any knowledge	ʿil'mun
+3	40:42:11	w	وَأَنَآ		وانا	and I	wa-anā
+3	40:42:12	w	أَدْعُوكُمُۥٓ		ادعوكم	call you	adʿūkum
+3	40:42:13	w	إِلَى		الي	to	ilā
+3	40:42:14	w	ࡰ۬لْعَزِيزِ		العزيز	the All-Mighty	l-ʿazīzi
+3	40:42:15	w	ࡴ۬لْغَفّٜـٰرِ࣌		الغفر	the Oft-Forgiving	l-ghafāri
+3	40:42:16	e	۝٤٢				
+3	40:43:1	w	لَا		لا	No	lā
+3	40:43:2	w	جَرَمَ		جرم	doubt	jarama
+4	40:43:3	w	أَنَّمَا		انما	that what	annamā
+4	40:43:4	w	تَدْعُونَنِےٓ		تدعونني	you call me	tadʿūnanī
+4	40:43:5	w	إِلَيْهِ		اليه	to it	ilayhi
+4	40:43:6	w	لَيْسَ		ليس	not	laysa
+4	40:43:7	w	لَهُۥ		له	for it	lahu
+4	40:43:8	w	دَعْوَةࣱ		دعوة	a claim	daʿwatun
+4	40:43:9	w	فِے		في	in	fī
+4	40:43:10	w	ࡴ۬لدُّنْيٜا		الدنيا	the world	l-dun'yā
+4	40:43:11	w	وَلَا		ولا	and not	walā
+4	40:43:12	w	فِے		في	in	fī
+4	40:43:13	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+5	40:43:14	w	وَأَنَّ		وان	and that	wa-anna
+5	40:43:15	w	مَرَدَّنَآ		مردنا	our return	maraddanā
+5	40:43:16	w	إِلَى		الي	(is) to	ilā
+5	40:43:17	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+5	40:43:18	w	وَأَنَّ		وان	and that	wa-anna
+5	40:43:19	w	ࡰ۬لْمُسْرِفِينَ		المسرفين	the transgressors	l-mus'rifīna
+5	40:43:20	w	هُمُۥٓ		هم	they	hum
+5	40:43:21	w	أَصْحَٰبُ		اصحب	(will be the) companions	aṣḥābu
+5	40:43:22	w	ࡲ۬لنّٜارِ࣌		النار	(of) the Fire	l-nāri
+5	40:43:23	e	۝٤٣				
+6	40:44:1	w	فَسَتَذْكُرُونَ		فستذكرون	And you will remember	fasatadhkurūna
+6	40:44:2	w	مَآ		ما	what	mā
+6	40:44:3	w	أَقُولُ		اقول	I say	aqūlu
+6	40:44:4	w	لَكُمْ࣌		لكم	to you	lakum
+6	40:44:5	w	وَأُفَوِّضُ		وافوض	and I entrust	wa-ufawwiḍu
+6	40:44:6	w	أَمْرِيَ		امري	my affair	amrī
+6	40:44:7	w	إِلَى		الي	to	ilā
+6	40:44:8	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+7	40:44:9	w	إِنَّ		ان	Indeed	inna
+7	40:44:10	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+7	40:44:11	w	بَصِيرُۢ		بصير	(is) All-Seer	baṣīrun
+7	40:44:12	w	بِالْعِبَادِ࣌		بالعباد	of (His) slaves	bil-ʿibādi
+7	40:44:13	e	۝٤٤				
+7	40:45:1	w	فَوَقٜيٰهُ		فوقيه	So Allah protected him	fawaqāhu
+7	40:45:2	w	ࡲ۬للَّهُ		الله	So Allah protected him	l-lahu
+7	40:45:3	w	سَيِّـَٔاتِ		سيات	(from the) evils	sayyiāti
+7	40:45:4	w	مَا		ما	that	mā
+7	40:45:5	w	مَكَرُواْ࣌		مكروا	they plotted	makarū
+8	40:45:6	w	وَحَاقَ		وحاق	and enveloped	waḥāqa
+8	40:45:7	w	بِـَٔالِ		بال	(the) people	biāli
+8	40:45:8	w	فِرْعَوْنَ		فرعون	(of) Firaun	fir'ʿawna
+8	40:45:9	w	سُوٓءُ		سو	(the) worst	sūu
+8	40:45:10	w	ࡲ۬لْعَذَابِ࣌		العذاب	punishment	l-ʿadhābi
+8	40:45:11	e	۝٤٥				
+8	40:46:1	w	ࡴ۬لنَّارُ		النار	The Fire	al-nāru
+8	40:46:2	w	يُعْرَضُونَ		يعرضون	they are exposed	yuʿ'raḍūna
+9	40:46:3	w	عَلَيْهَا		عليها	to it	ʿalayhā
+9	40:46:4	w	غُدُوّاࣰ		غدوا	morning	ghuduwwan
+9	40:46:5	w	وَعَشِيّاࣰ࣌		وعشيا	and evening	waʿashiyyan
+9	40:46:6	w	وَيَوْمَ		ويوم	And (the) Day	wayawma
+9	40:46:7	w	تَقُومُ		تقوم	(will be) established	taqūmu
+9	40:46:8	w	ࡲ۬لسَّاعَةُ		الساعة	the Hour	l-sāʿatu
+9	40:46:9	w	أَدْخِلُوٓاْ		ادخلوا	Cause to enter	adkhilū
+9	40:46:10	w	ءَالَ		ال	(the) people	āla
+10	40:46:11	w	فِرْعَوْنَ		فرعون	(of) Firaun	fir'ʿawna
+10	40:46:12	w	أَشَدَّ		اشد	(in the) severest	ashadda
+10	40:46:13	w	ࡰ۬لْعَذَابِ࣌		العذاب	punishment	l-ʿadhābi
+10	40:46:14	e	۝٤٦				
+10	40:47:1	w	وَإِذْ		واذ	And when	wa-idh
+10	40:47:2	w	يَتَحَآجُّونَ		يتحاجون	they will dispute	yataḥājjūna
+10	40:47:3	w	فِے		في	in	fī
+10	40:47:4	w	ࡴ۬لنّٜارِ		النار	the Fire	l-nāri
+11	40:47:5	w	فَيَقُولُ		فيقول	then will say	fayaqūlu
+11	40:47:6	w	ࡲ۬لضُّعَفَٰٓؤُاْ		الضعفوا	the weak	l-ḍuʿafāu
+11	40:47:7	w	لِلذِينَ		للذين	to those who	lilladhīna
+11	40:47:8	w	ࡰٜسْتَكْبَرُوٓاْ		استكبروا	were arrogant	is'takbarū
+11	40:47:9	w	إِنَّا		انا	Indeed, we	innā
+11	40:47:10	w	كُنَّا		كنا	[we] were	kunnā
+11	40:47:11	w	لَكُمْ		لكم	for you	lakum
+12	40:47:12	w	تَبَعاࣰ		تبعا	followers	tabaʿan
+12	40:47:13	w	فَهَلَ		فهل	so can	fahal
+12	40:47:14	w	ࡰنتُم		انتم	you	antum
+12	40:47:15	w	مُّغْنُونَ		مغنون	avert	mugh'nūna
+12	40:47:16	w	عَنَّا		عنا	from us	ʿannā
+12	40:47:17	w	نَصِيباࣰ		نصيبا	a portion	naṣīban
+12	40:47:18	w	مِّنَ		من	of	mina
+12	40:47:19	w	ࡰ۬لنّٜارِ࣌		النار	the Fire	l-nāri
+12	40:47:20	e	۝٤٧				
+12	40:48:1	w	قَالَ		قال	Will say	qāla
+13	40:48:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	40:48:3	w	ࡰٜسْتَكْبَرُوٓاْ		استكبروا	(were) arrogant	is'takbarū
+13	40:48:4	w	إِنَّا		انا	Indeed, we	innā
+13	40:48:5	w	كُلࣱّ		كل	all	kullun
+13	40:48:6	w	فِيهَآ		فيها	(are) in it	fīhā
+13	40:48:7	w	إِنَّ		ان	Indeed	inna
+13	40:48:8	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+13	40:48:9	w	قَدْ		قد	certainly	qad
+13	40:48:10	w	حَكَمَ		حكم	has judged	ḥakama
+14	40:48:11	w	بَيْنَ		بين	between	bayna
+14	40:48:12	w	ࡰ۬لْعِبَادِ࣌		العباد	(His) slaves	l-ʿibādi
+14	40:48:13	e	۝٤٨				
+14	40:49:1	w	وَقَالَ		وقال	And will say	waqāla
+14	40:49:2	w	ࡰ۬لذِينَ		الذين	those	alladhīna
+14	40:49:3	w	فِے		في	in	fī
+14	40:49:4	w	ࡴ۬لنّٜارِ		النار	the Fire	l-nāri
+14	40:49:5	w	لِخَزَنَةِ		لخزنة	to (the) keepers	likhazanati
+14	40:49:6	w	جَهَنَّمَ		جهنم	(of) Hell	jahannama
+15	40:49:7	w	ࡸَدْعُواْ		ادعوا	Call	id'ʿū
+15	40:49:8	w	رَبَّكُمْ		ربكم	your Lord	rabbakum
+15	40:49:9	w	يُخَفِّفْ		يخفف	(to) lighten	yukhaffif
+15	40:49:10	w	عَنَّا		عنا	for us	ʿannā
+15	40:49:11	w	يَوْماࣰ		يوما	a day	yawman
+15	40:49:12	w	مِّنَ		من	of	mina
+15	40:49:13	w	ࡰ۬لْعَذَابِ࣌		العذاب	the punishment	l-ʿadhābi
+15	40:49:14	e	۝٤٩				

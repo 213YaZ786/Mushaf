@@ -1,0 +1,144 @@
+1	19:78:1	w	ࡰفَرَٰٓيْتَ		افريت	Then, have you seen	afara-ayta
+1	19:78:2	w	ࡰ۬لذِے		الذي	he who	alladhī
+1	19:78:3	w	كَفَرَ		كفر	disbelieved	kafara
+1	19:78:4	w	بِـَٔايَٰتِنَا		بايتنا	in Our Verses	biāyātinā
+1	19:78:5	w	وَقَالَ		وقال	and said	waqāla
+1	19:78:6	w	لَأُوتَيَنَّ		لاوتين	Surely, I will be given	laūtayanna
+1	19:78:7	w	مَالاࣰ		مالا	wealth	mālan
+1	19:78:8	w	وَوَلَداً		وولدا	and children	wawaladan
+1	19:78:9	e	۝٧٨				
+2	19:79:1	w	ࡰطَّلَعَ		اطلع	Has he looked	aṭṭalaʿa
+2	19:79:2	w	ࡰ۬لْغَيْبَ		الغيب	(into) the unseen	l-ghayba
+2	19:79:3	w	أَمِ		ام	or	ami
+2	19:79:4	w	ࡴٜتَّخَذَ		اتخذ	has he taken	ittakhadha
+2	19:79:5	w	عِندَ		عند	from	ʿinda
+2	19:79:6	w	ࡰ۬لرَّحْمَٰنِ		الرحمن	the Most Gracious	l-raḥmāni
+2	19:79:7	w	عَهْداࣰ		عهدا	a promise	ʿahdan
+2	19:79:8	e	۝٧٩				
+2	19:80:1	w	كَلَّا࣌		كلا	Nay	kallā
+3	19:80:2	w	سَنَكْتُبُ		سنكتب	We will record	sanaktubu
+3	19:80:3	w	مَا		ما	what	mā
+3	19:80:4	w	يَقُولُ		يقول	he says	yaqūlu
+3	19:80:5	w	وَنَمُدُّ		ونمد	and We will extend	wanamuddu
+3	19:80:6	w	لَهُۥ		له	for him	lahu
+3	19:80:7	w	مِنَ		من	from	mina
+3	19:80:8	w	ࡰ۬لْعَذَابِ		العذاب	the punishment	l-ʿadhābi
+3	19:80:9	w	مَدّاࣰ࣌		مدا	extensively	maddan
+3	19:80:10	e	۝٨٠				
+3	19:81:1	w	وَنَرِثُهُۥ		ونرثه	And We will inherit (from) him	wanarithuhu
+4	19:81:2	w	مَا		ما	what	mā
+4	19:81:3	w	يَقُولُ		يقول	he says	yaqūlu
+4	19:81:4	w	وَيَاتِينَا		وياتينا	and he will come to Us	wayatīnā
+4	19:81:5	w	فَرْداࣰ࣌		فردا	alone	fardan
+4	19:81:6	e	۝٨١				
+4	19:82:1	w	وَاتَّخَذُواْ		واتخذوا	And they have taken	wa-ittakhadhū
+4	19:82:2	w	مِن		من	besides Allah	min
+4	19:82:3	w	دُونِ		دون	besides Allah	dūni
+4	19:82:4	w	ࡴ۬للَّهِ		الله	besides Allah	l-lahi
+4	19:82:5	w	ءَالِهَةࣰ		الهة	gods	ālihatan
+5	19:82:6	w	لِّيَكُونُواْ		ليكونوا	that they may be	liyakūnū
+5	19:82:7	w	لَهُمْ		لهم	for them	lahum
+5	19:82:8	w	عِزّاࣰ		عزا	an honor	ʿizzan
+5	19:82:9	e	۝٨٢				
+5	19:83:1	w	كَلَّا࣌		كلا	Nay	kallā
+5	19:83:2	w	سَيَكْفُرُونَ		سيكفرون	they will deny	sayakfurūna
+5	19:83:3	w	بِعِبَادَتِهِمْ		بعبادتهم	their worship (of them)	biʿibādatihim
+5	19:83:4	w	وَيَكُونُونَ		ويكونون	and they will be	wayakūnūna
+6	19:83:5	w	عَلَيْهِمْ		عليهم	against them	ʿalayhim
+6	19:83:6	w	ضِدّاً࣌		ضدا	opponents	ḍiddan
+6	19:83:7	e	۝٨٣				
+6	19:84:1	w	ࡰلَمْ		الم	Do not	alam
+6	19:84:2	w	تَرَ		تر	you see	tara
+6	19:84:3	w	أَنَّآ		انا	that We	annā
+6	19:84:4	w	أَرْسَلْنَا		ارسلنا	[We] have sent	arsalnā
+6	19:84:5	w	ࡰ۬لشَّيَٰطِينَ		الشيطين	the devils	l-shayāṭīna
+6	19:84:6	w	عَلَى		علي	upon	ʿalā
+6	19:84:7	w	ࡰ۬لْكٜـٰفِرِينَ		الكفرين	the disbelievers	l-kāfirīna
+7	19:84:8	w	تَؤُزُّهُمُۥٓ		توزهم	inciting them	ta-uzzuhum
+7	19:84:9	w	أَزّاࣰ࣌		ازا	(with) incitement	azzan
+7	19:84:10	e	۝٨٤				
+7	19:85:1	w	فَلَا		فلا	So (do) not	falā
+7	19:85:2	w	تَعْجَلْ		تعجل	make haste	taʿjal
+7	19:85:3	w	عَلَيْهِمُۥٓ࣌		عليهم	against them	ʿalayhim
+7	19:85:4	w	إِنَّمَا		انما	Only	innamā
+7	19:85:5	w	نَعُدُّ		نعد	We count	naʿuddu
+7	19:85:6	w	لَهُمْ		لهم	for them	lahum
+7	19:85:7	w	عَدّاࣰ࣌		عدا	a number	ʿaddan
+7	19:85:8	e	۝٨٥				
+8	19:86:1	w	يَوْمَ		يوم	(The) Day	yawma
+8	19:86:2	w	نَحْشُرُ		نحشر	We will gather	naḥshuru
+8	19:86:3	w	ࡲ۬لْمُتَّقِينَ		المتقين	the righteous	l-mutaqīna
+8	19:86:4	w	إِلَى		الي	to	ilā
+8	19:86:5	w	ࡰ۬لرَّحْمَٰنِ		الرحمن	the Most Gracious	l-raḥmāni
+8	19:86:6	w	وَفْداࣰ		وفدا	(as) a delegation	wafdan
+8	19:86:7	e	۝٨٦				
+8	19:87:1	w	وَنَسُوقُ		ونسوق	And We will drive	wanasūqu
+8	19:87:2	w	ࡲ۬لْمُجْرِمِينَ		المجرمين	the criminals	l-muj'rimīna
+9	19:87:3	w	إِلَىٰ		الي	to	ilā
+9	19:87:4	w	جَهَنَّمَ		جهنم	Hell	jahannama
+9	19:87:5	w	وِرْداࣰ࣌		وردا	thirsty	wir'dan
+9	19:87:6	e	۝٨٧				
+9	19:88:1	w	لَّا		لا	Not	lā
+9	19:88:2	w	يَمْلِكُونَ		يملكون	they will have the power	yamlikūna
+9	19:88:3	w	ࡰ۬لشَّفَٰعَةَ		الشفعة	(of) the intercession	l-shafāʿata
+9	19:88:4	w	إِلَّا		الا	except	illā
+9	19:88:5	w	مَنِ		من	(he) who	mani
+9	19:88:6	w	ࡴٜتَّخَذَ		اتخذ	has taken	ittakhadha
+9	19:88:7	w	عِندَ		عند	from	ʿinda
+10	19:88:8	w	ࡰ۬لرَّحْمَٰنِ		الرحمن	the Most Gracious	l-raḥmāni
+10	19:88:9	w	عَهْداࣰ࣌		عهدا	a covenant	ʿahdan
+10	19:88:10	e	۝٨٨				
+10	19:89:1	w	وَقَالُواْ		وقالوا	And they say	waqālū
+10	19:89:2	w	ࡲٜتَّخَذَ		اتخذ	Has taken	ittakhadha
+10	19:89:3	w	ࡰ۬لرَّحْمَٰنُ		الرحمن	the Most Gracious	l-raḥmānu
+10	19:89:4	w	وَلَداࣰ࣌		ولدا	a son	waladan
+10	19:89:5	e	۝٨٩				
+10	19:90:1	w	لَّقَدْ		لقد	Verily	laqad
+10	19:90:2	w	جِئْتُمْ		جيتم	you have put forth	ji'tum
+11	19:90:3	w	شَيْـٔاً		شيا	a thing	shayan
+11	19:90:4	w	ࡴدّاࣰ		ادا	atrocious	iddan
+11	19:90:5	e	۝٩٠				
+11	19:91:1	w	يَكَادُ		يكاد	Almost	takādu
+11	19:91:2	w	ࡲ۬لسَّمَٰوَٰتُ		السموت	the heavens	l-samāwātu
+11	19:91:3	w	يَتَفَطَّرْنَ		يتفطرن	get torn	yatafaṭṭarna
+11	19:91:4	w	مِنْهُ		منه	therefrom	min'hu
+11	19:91:5	w	وَتَنشَقُّ		وتنشق	and splits asunder	watanshaqqu
+12	19:91:6	w	ࡲ۬لَارْضُ		الارض	the earth	l-arḍu
+12	19:91:7	w	وَتَخِرُّ		وتخر	and collapse	watakhirru
+12	19:91:8	w	ࡲ۬لْجِبَالُ		الجبال	the mountain	l-jibālu
+12	19:91:9	w	هَدّاً		هدا	(in) devastation	haddan
+12	19:91:10	e	۝٩١				
+12	19:92:1	w	ࡰن		ان	That	an
+12	19:92:2	w	دَعَوْاْ		دعوا	they invoke	daʿaw
+12	19:92:3	w	لِلرَّحْمَٰنِ		للرحمن	to the Most Gracious	lilrraḥmāni
+12	19:92:4	w	وَلَداࣰ࣌		ولدا	a son	waladan
+12	19:92:5	e	۝٩٢				
+13	19:93:1	w	وَمَا		وما	And not	wamā
+13	19:93:2	w	يَنۢبَغِے		ينبغي	is appropriate	yanbaghī
+13	19:93:3	w	لِلرَّحْمَٰنِ		للرحمن	for the Most Gracious	lilrraḥmāni
+13	19:93:4	w	أَنْ		ان	that	an
+13	19:93:5	w	يَّتَّخِذَ		يتخذ	He should take	yattakhidha
+13	19:93:6	w	وَلَداً࣌		ولدا	a son	waladan
+13	19:93:7	e	۝٩٣				
+13	19:94:1	w	ࡴن		ان	Not	in
+13	19:94:2	w	كُلُّ		كل	all	kullu
+13	19:94:3	w	مَن		من	who	man
+13	19:94:4	w	فِے		في	(are) in	fī
+14	19:94:5	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+14	19:94:6	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+14	19:94:7	w	إِلَّآ		الا	but	illā
+14	19:94:8	w	ءَاتِے		اتي	(will) come	ātī
+14	19:94:9	w	ࡴ۬لرَّحْمَٰنِ		الرحمن	(to) the Most Gracious	l-raḥmāni
+14	19:94:10	w	عَبْداࣰ࣌		عبدا	(as) a slave	ʿabdan
+14	19:94:11	e	۝٩٤				
+14	19:95:1	w	لَّقَدَ		لقد	Verily	laqad
+14	19:95:2	w	ࡰحْصٜيٰهُمْ		احصيهم	He has enumerated them	aḥṣāhum
+15	19:95:3	w	وَعَدَّهُمْ		وعدهم	and counted them	waʿaddahum
+15	19:95:4	w	عَدّاࣰ࣌		عدا	a counting	ʿaddan
+15	19:95:5	e	۝٩٥				
+15	19:96:1	w	وَكُلُّهُمُۥٓ		وكلهم	And all of them	wakulluhum
+15	19:96:2	w	ءَاتِيهِ		اتيه	(will) come (to) Him	ātīhi
+15	19:96:3	w	يَوْمَ		يوم	(on the) Day	yawma
+15	19:96:4	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+15	19:96:5	w	فَرْداً࣌		فردا	alone	fardan
+15	19:96:6	e	۝٩٦				

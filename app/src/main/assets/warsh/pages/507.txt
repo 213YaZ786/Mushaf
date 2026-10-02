@@ -1,0 +1,153 @@
+1	47:0:0	t					
+2	47:0:0	b					
+3	47:1:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+3	47:1:2	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+3	47:1:3	w	وَصَدُّواْ		وصدوا	and turn away	waṣaddū
+3	47:1:4	w	عَن		عن	from	ʿan
+3	47:1:5	w	سَبِيلِ		سبيل	(the) way of Allah	sabīli
+3	47:1:6	w	ࡴ۬للَّهِ		الله	(the) way of Allah	l-lahi
+3	47:1:7	w	أَضَلَّ		اضل	He will cause to be lost	aḍalla
+3	47:1:8	w	أَعْمَٰلَهُمْ࣌		اعملهم	their deeds	aʿmālahum
+3	47:1:9	e	۝١				
+3	47:2:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+3	47:2:2	w	ءَامَنُواْ		امنوا	believe	āmanū
+4	47:2:3	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+4	47:2:4	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+4	47:2:5	w	وَءَامَنُواْ		وامنوا	and believe	waāmanū
+4	47:2:6	w	بِمَا		بما	in what	bimā
+4	47:2:7	w	نُزِّلَ		نزل	is revealed	nuzzila
+4	47:2:8	w	عَلَىٰ		علي	to	ʿalā
+4	47:2:9	w	مُحَمَّدࣲ		محمد	Muhammad	muḥammadin
+4	47:2:10	w	وَهُوَ		وهو	and it	wahuwa
+4	47:2:11	w	ࡰ۬لْحَقُّ		الحق	(is) the truth	l-ḥaqu
+4	47:2:12	w	مِن		من	from	min
+4	47:2:13	w	رَّبِّهِمْ		ربهم	their Lord	rabbihim
+4	47:2:14	w	كَفَّرَ		كفر	He will remove	kaffara
+5	47:2:15	w	عَنْهُمْ		عنهم	from them	ʿanhum
+5	47:2:16	w	سَيِّـَٔاتِهِمْ		سياتهم	their misdeeds	sayyiātihim
+5	47:2:17	w	وَأَصْلَحَ		واصلح	and improve	wa-aṣlaḥa
+5	47:2:18	w	بَالَهُمْ࣌		بالهم	their condition	bālahum
+5	47:2:19	e	۝٢				
+5	47:3:1	w	ذَٰلِكَ		ذلك	That	dhālika
+5	47:3:2	w	بِأَنَّ		بان	(is) because	bi-anna
+5	47:3:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	47:3:4	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+5	47:3:5	w	ࡲٜتَّبَعُواْ		اتبعوا	follow	ittabaʿū
+5	47:3:6	w	ࡲ۬لْبَٰطِلَ		البطل	falsehood	l-bāṭila
+5	47:3:7	w	وَأَنَّ		وان	and that	wa-anna
+6	47:3:8	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	47:3:9	w	ءَامَنُواْ		امنوا	believe	āmanū
+6	47:3:10	w	ࡲٜتَّبَعُواْ		اتبعوا	follow	ittabaʿū
+6	47:3:11	w	ࡲ۬لْحَقَّ		الحق	(the) truth	l-ḥaqa
+6	47:3:12	w	مِن		من	from	min
+6	47:3:13	w	رَّبِّهِمْ࣌		ربهم	their Lord	rabbihim
+6	47:3:14	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+6	47:3:15	w	يَضْرِبُ		يضرب	Allah presents	yaḍribu
+6	47:3:16	w	ࡲ۬للَّهُ		الله	Allah presents	l-lahu
+6	47:3:17	w	لِلنَّاسِ		للناس	to the people	lilnnāsi
+6	47:3:18	w	أَمْثَٰلَهُمْ࣌		امثلهم	their similitudes	amthālahum
+6	47:3:19	e	۝٣				
+7	47:4:1	w	فَإِذَا		فاذا	So when	fa-idhā
+7	47:4:2	w	لَقِيتُمُ		لقيتم	you meet	laqītumu
+7	47:4:3	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+7	47:4:4	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+7	47:4:5	w	فَضَرْبَ		فضرب	then strike	faḍarba
+7	47:4:6	w	ࡰ۬لرِّقَابِ࣌		الرقاب	the necks	l-riqābi
+7	47:4:7	w	حَتَّىٰٓ		حتي	until	ḥattā
+7	47:4:8	w	إِذَآ		اذا	when	idhā
+7	47:4:9	w	أَثْخَنتُمُوهُمْ		اثخنتموهم	you have subdued them	athkhantumūhum
+7	47:4:10	w	فَشُدُّواْ		فشدوا	then bind firmly	fashuddū
+7	47:4:11	w	ࡲ۬لْوَثَاقَ࣌		الوثاق	the bond	l-wathāqa
+8	47:4:12	w	فَإِمَّا		فاما	then either	fa-immā
+8	47:4:13	w	مَنّاَۢ		منا	a favor	mannan
+8	47:4:14	w	بَعْدُ		بعد	afterwards	baʿdu
+8	47:4:15	w	وَإِمَّا		واما	or	wa-immā
+8	47:4:16	w	فِدَآءً		فدا	ransom	fidāan
+8	47:4:17	w	حَتَّىٰ		حتي	until	ḥattā
+8	47:4:18	w	تَضَعَ		تضع	lays down	taḍaʿa
+8	47:4:19	w	ࡰ۬لْحَرْبُ		الحرب	the war	l-ḥarbu
+8	47:4:20	w	أَوْزَارَهَا࣌		اوزارها	its burdens	awzārahā
+8	47:4:21	e	۝٤				
+8	47:5:1	w	ذَٰلِكَ		ذلك	That	dhālika
+8	47:5:2	w	وَلَوْ		ولو	And if	walaw
+8	47:5:3	w	يَشَآءُ		يشا	Allah had willed	yashāu
+8	47:5:4	w	ࡲ۬للَّهُ		الله	Allah had willed	l-lahu
+9	47:5:5	w	لَانتَصَرَ		لانتصر	surely, He could have taken retribution	la-intaṣara
+9	47:5:6	w	مِنْهُمْ࣌		منهم	from them	min'hum
+9	47:5:7	w	وَلَٰكِن		ولكن	but	walākin
+9	47:5:8	w	لِّيَبْلُوَاْ		ليبلوا	to test	liyabluwā
+9	47:5:9	w	بَعْضَكُم		بعضكم	some of you	baʿḍakum
+9	47:5:10	w	بِبَعْضࣲ࣌		ببعض	with others	bibaʿḍin
+9	47:5:11	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+9	47:5:12	w	قَٰتَلُواْ		قتلوا	are killed	qutilū
+9	47:5:13	w	فِے		في	in	fī
+9	47:5:14	w	سَبِيلِ		سبيل	(the) way of Allah	sabīli
+9	47:5:15	w	ࡴ۬للَّهِ		الله	(the) way of Allah	l-lahi
+10	47:5:16	w	فَلَنْ		فلن	then never	falan
+10	47:5:17	w	يُّضِلَّ		يضل	He will cause to be lost	yuḍilla
+10	47:5:18	w	أَعْمَٰلَهُمْ࣌		اعملهم	their deeds	aʿmālahum
+10	47:5:19	e	۝٥				
+10	47:6:1	w	سَيَهْدِيهِمْ		سيهديهم	He will guide them	sayahdīhim
+10	47:6:2	w	وَيُصْلِحُ		ويصلح	and improve	wayuṣ'liḥu
+10	47:6:3	w	بَالَهُمْ		بالهم	their condition	bālahum
+10	47:6:4	e	۝٦				
+10	47:7:1	w	وَيُدْخِلُهُمُ		ويدخلهم	And admit them	wayud'khiluhumu
+10	47:7:2	w	ࡲ۬لْجَنَّةَ		الجنة	(to) Paradise	l-janata
+10	47:7:3	w	عَرَّفَهَا		عرفها	He has made it known	ʿarrafahā
+11	47:7:4	w	لَهُمْ࣌		لهم	to them	lahum
+11	47:7:5	e	۝٧				
+11	47:8:1	w	يَٰٓأَيُّهَا		يايها	O you who believe	yāayyuhā
+11	47:8:2	w	ࡰ۬لذِينَ		الذين	O you who believe	alladhīna
+11	47:8:3	w	ءَامَنُوٓاْ		امنوا	O you who believe	āmanū
+11	47:8:4	w	إِن		ان	If	in
+11	47:8:5	w	تَنصُرُواْ		تنصروا	you help	tanṣurū
+11	47:8:6	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+11	47:8:7	w	يَنصُرْكُمْ		ينصركم	He will help you	yanṣur'kum
+11	47:8:8	w	وَيُثَبِّتَ		ويثبت	and make firm	wayuthabbit
+11	47:8:9	w	ࡰقْدَامَكُمْ࣌		اقدامكم	your feet	aqdāmakum
+11	47:8:10	e	۝٨				
+12	47:9:1	w	وَالذِينَ		والذين	But those who	wa-alladhīna
+12	47:9:2	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+12	47:9:3	w	فَتَعْساࣰ		فتعسا	destruction (is)	fataʿsan
+12	47:9:4	w	لَّهُمْ		لهم	for them	lahum
+12	47:9:5	w	وَأَضَلَّ		واضل	and He will cause to be lost	wa-aḍalla
+12	47:9:6	w	أَعْمَٰلَهُمْ࣌		اعملهم	their deeds	aʿmālahum
+12	47:9:7	e	۝٩				
+12	47:10:1	w	ذَٰلِكَ		ذلك	That	dhālika
+12	47:10:2	w	بِأَنَّهُمْ		بانهم	(is) because they	bi-annahum
+12	47:10:3	w	كَرِهُواْ		كرهوا	hate	karihū
+12	47:10:4	w	مَآ		ما	what	mā
+13	47:10:5	w	أَنزَلَ		انزل	Allah has revealed	anzala
+13	47:10:6	w	ࡰ۬للَّهُ		الله	Allah has revealed	l-lahu
+13	47:10:7	w	فَأَحْبَطَ		فاحبط	so He has made worthless	fa-aḥbaṭa
+13	47:10:8	w	أَعْمَٰلَهُمُۥٓ࣌		اعملهم	their deeds	aʿmālahum
+13	47:10:9	e	۝١٠				
+13	47:11:1	w	۞ أَفَلَمْ		افلم	Do not	afalam
+13	47:11:2	w	يَسِيرُواْ		يسيروا	they travel	yasīrū
+13	47:11:3	w	فِے		في	in	fī
+13	47:11:4	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+13	47:11:5	w	فَيَنظُرُواْ		فينظروا	and see	fayanẓurū
+13	47:11:6	w	كَيْفَ		كيف	how	kayfa
+14	47:11:7	w	كَانَ		كان	was	kāna
+14	47:11:8	w	عَٰقِبَةُ		عقبة	(the) end	ʿāqibatu
+14	47:11:9	w	ࡲ۬لذِينَ		الذين	(of) those	alladhīna
+14	47:11:10	w	مِن		من	before them	min
+14	47:11:11	w	قَبْلِهِمْ		قبلهم	before them	qablihim
+14	47:11:12	w	دَمَّرَ		دمر	Allah destroyed	dammara
+14	47:11:13	w	ࡰ۬للَّهُ		الله	Allah destroyed	l-lahu
+14	47:11:14	w	عَلَيْهِمْ࣌		عليهم	[over] them	ʿalayhim
+14	47:11:15	w	وَلِلْكٜـٰفِرِينَ		وللكفرين	and for the disbelievers	walil'kāfirīna
+14	47:11:16	w	أَمْثَٰلُهَا࣌		امثلها	its likeness	amthāluhā
+14	47:11:17	e	۝١١				
+15	47:12:1	w	ذَٰلِكَ		ذلك	That	dhālika
+15	47:12:2	w	بِأَنَّ		بان	(is) because	bi-anna
+15	47:12:3	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	47:12:4	w	مَوْلَى		مولي	(is the) Protector	mawlā
+15	47:12:5	w	ࡰ۬لذِينَ		الذين	(of) those who	alladhīna
+15	47:12:6	w	ءَامَنُواْ		امنوا	believe	āmanū
+15	47:12:7	w	وَأَنَّ		وان	and that	wa-anna
+15	47:12:8	w	ࡰ۬لْكٜـٰفِرِينَ		الكفرين	the disbelievers	l-kāfirīna
+15	47:12:9	w	لَا		لا	(there is) no	lā
+15	47:12:10	w	مَوْلٜىٰ		مولي	protector	mawlā
+15	47:12:11	w	لَهُمُۥٓ࣌		لهم	for them	lahum
+15	47:12:12	e	۝١٢				

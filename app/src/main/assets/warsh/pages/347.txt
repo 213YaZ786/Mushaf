@@ -1,0 +1,144 @@
+1	23:76:1	w	۞ وَلَوْ		ولو	And if	walaw
+1	23:76:2	w	رَحِمْنَٰهُمْ		رحمنهم	We had mercy on them	raḥim'nāhum
+1	23:76:3	w	وَكَشَفْنَا		وكشفنا	and We removed	wakashafnā
+1	23:76:4	w	مَا		ما	what	mā
+1	23:76:5	w	بِهِم		بهم	(was) on them	bihim
+1	23:76:6	w	مِّن		من	of	min
+1	23:76:7	w	ضُرࣲّ		ضر	(the) hardship	ḍurrin
+1	23:76:8	w	لَّلَجُّواْ		للجوا	surely they would persist	lalajjū
+1	23:76:9	w	فِے		في	in	fī
+2	23:76:10	w	طُغْيَٰنِهِمْ		طغينهم	their transgression	ṭugh'yānihim
+2	23:76:11	w	يَعْمَهُونَ࣌		يعمهون	wandering blindly	yaʿmahūna
+2	23:76:12	e	۝٧٦				
+2	23:77:1	w	وَلَقَدَ		ولقد	And verily	walaqad
+2	23:77:2	w	ࡰخَذْنَٰهُم		اخذنهم	We seized them	akhadhnāhum
+2	23:77:3	w	بِالْعَذَابِ		بالعذاب	with the punishment	bil-ʿadhābi
+2	23:77:4	w	فَمَا		فما	but not	famā
+2	23:77:5	w	ࡰٜسْتَكَانُواْ		استكانوا	they submit	is'takānū
+3	23:77:6	w	لِرَبِّهِمْ		لربهم	to their Lord	lirabbihim
+3	23:77:7	w	وَمَا		وما	and not	wamā
+3	23:77:8	w	يَتَضَرَّعُونَ࣌		يتضرعون	they supplicate humbly	yataḍarraʿūna
+3	23:77:9	e	۝٧٧				
+3	23:78:1	w	حَتَّىٰٓ		حتي	Until	ḥattā
+3	23:78:2	w	إِذَا		اذا	when	idhā
+3	23:78:3	w	فَتَحْنَا		فتحنا	We opened	fataḥnā
+3	23:78:4	w	عَلَيْهِم		عليهم	for them	ʿalayhim
+3	23:78:5	w	بَاباࣰ		بابا	a gate	bāban
+3	23:78:6	w	ذَا		ذا	of a punishment	dhā
+3	23:78:7	w	عَذَابࣲ		عذاب	of a punishment	ʿadhābin
+4	23:78:8	w	شَدِيدٍ		شديد	severe	shadīdin
+4	23:78:9	w	ࡴذَا		اذا	behold	idhā
+4	23:78:10	w	هُمْ		هم	They	hum
+4	23:78:11	w	فِيهِ		فيه	in it	fīhi
+4	23:78:12	w	مُبْلِسُونَ࣌		مبلسون	(will be in) despair	mub'lisūna
+4	23:78:13	e	۝٧٨				
+4	23:79:1	w	وَهُوَ		وهو	And He	wahuwa
+4	23:79:2	w	ࡰ۬لذِےٓ		الذي	(is) the One Who	alladhī
+4	23:79:3	w	أَنشَأَ		انشا	produced	ansha-a
+4	23:79:4	w	لَكُمُ		لكم	for you	lakumu
+5	23:79:5	w	ࡲ۬لسَّمْعَ		السمع	the hearing	l-samʿa
+5	23:79:6	w	وَالَابْصَٰرَ		والابصر	and the sight	wal-abṣāra
+5	23:79:7	w	وَالَافْـِٕدَةَ࣌		والافدة	and the feeling	wal-afidata
+5	23:79:8	w	قَلِيلاࣰ		قليلا	little	qalīlan
+5	23:79:9	w	مَّا		ما	(is) what	mā
+5	23:79:10	w	تَشْكُرُونَ࣌		تشكرون	you give thanks	tashkurūna
+5	23:79:11	e	۝٧٩				
+5	23:80:1	w	وَهُوَ		وهو	And He	wahuwa
+5	23:80:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+6	23:80:3	w	ذَرَأَكُمْ		ذراكم	multiplied you	dhara-akum
+6	23:80:4	w	فِے		في	in	fī
+6	23:80:5	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+6	23:80:6	w	وَإِلَيْهِ		واليه	and to Him	wa-ilayhi
+6	23:80:7	w	تُحْشَرُونَ࣌		تحشرون	you will be gathered	tuḥ'sharūna
+6	23:80:8	e	۝٨٠				
+6	23:81:1	w	وَهُوَ		وهو	And He	wahuwa
+6	23:81:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+6	23:81:3	w	يُحْيِۦ		يحيي	gives life	yuḥ'yī
+7	23:81:4	w	وَيُمِيتُ࣌		ويميت	and causes death	wayumītu
+7	23:81:5	w	وَلَهُ		وله	and for Him	walahu
+7	23:81:6	w	ࡲٜخْتِلَٰفُ		اختلف	(is the) alternation	ikh'tilāfu
+7	23:81:7	w	ࡲ۬ليْلِ		اليل	(of) the night	al-layli
+7	23:81:8	w	وَالنَّهٜارِ࣌		والنهار	and the day	wal-nahāri
+7	23:81:9	w	أَفَلَا		افلا	Then will not	afalā
+7	23:81:10	w	تَعْقِلُونَ࣌		تعقلون	you reason	taʿqilūna
+7	23:81:11	e	۝٨١				
+7	23:82:1	w	بَلْ		بل	Nay	bal
+8	23:82:2	w	قَالُواْ		قالوا	they say	qālū
+8	23:82:3	w	مِثْلَ		مثل	(the) like	mith'la
+8	23:82:4	w	مَا		ما	(of) what	mā
+8	23:82:5	w	قَالَ		قال	said	qāla
+8	23:82:6	w	ࡰ۬لَاوَّلُونَ		الاولون	the former (people)	l-awalūna
+8	23:82:7	e	۝٨٢				
+8	23:83:1	w	قَالُوٓاْ		قالوا	They said	qālū
+8	23:83:2	w	أَࢇذَا		اذا	What! When	a-idhā
+8	23:83:3	w	مِتْنَا		متنا	we are dead	mit'nā
+8	23:83:4	w	وَكُنَّا		وكنا	and become	wakunnā
+8	23:83:5	w	تُرَاباࣰ		ترابا	dust	turāban
+9	23:83:6	w	وَعِظَٰماً		وعظما	and bones	waʿiẓāman
+9	23:83:7	w	ࡴنَّا		انا	would we	a-innā
+9	23:83:8	w	لَمَبْعُوثُونَ࣌		لمبعوثون	surely be resurrected	lamabʿūthūna
+9	23:83:9	e	۝٨٣				
+9	23:84:1	w	لَقَدْ		لقد	Verily	laqad
+9	23:84:2	w	وُعِدْنَا		وعدنا	we have been promised	wuʿid'nā
+9	23:84:3	w	نَحْنُ		نحن	[we]	naḥnu
+9	23:84:4	w	وَءَابَآؤُنَا		واباونا	and our forefathers	waābāunā
+9	23:84:5	w	هَٰذَا		هذا	this	hādhā
+10	23:84:6	w	مِن		من	before	min
+10	23:84:7	w	قَبْلُ࣌		قبل	before	qablu
+10	23:84:8	w	إِنْ		ان	not	in
+10	23:84:9	w	هَٰذَآ		هذا	(is) this	hādhā
+10	23:84:10	w	إِلَّآ		الا	but	illā
+10	23:84:11	w	أَسَٰطِيرُ		اسطير	(the) tales	asāṭīru
+10	23:84:12	w	ࡲ۬لَاوَّلِينَ࣌		الاولين	(of) the former (people)	l-awalīna
+10	23:84:13	e	۝٨٤				
+10	23:85:1	w	قُل		قل	Say	qul
+10	23:85:2	w	لِّمَنِ		لمن	To whom (belongs)	limani
+10	23:85:3	w	ࡴ۬لَارْضُ		الارض	the earth	l-arḍu
+11	23:85:4	w	وَمَن		ومن	and whoever	waman
+11	23:85:5	w	فِيهَآ		فيها	(is) in it	fīhā
+11	23:85:6	w	إِن		ان	if	in
+11	23:85:7	w	كُنتُمْ		كنتم	you	kuntum
+11	23:85:8	w	تَعْلَمُونَ		تعلمون	know	taʿlamūna
+11	23:85:9	e	۝٨٥				
+11	23:86:1	w	سَيَقُولُونَ		سيقولون	They will say	sayaqūlūna
+11	23:86:2	w	لِلهِ࣌		لله	To Allah	lillahi
+11	23:86:3	w	قُلَ		قل	Say	qul
+11	23:86:4	w	ࡰفَلَا		افلا	Then will not	afalā
+12	23:86:5	w	تَذَّكَّرُونَ࣌		تذكرون	you remember	tadhakkarūna
+12	23:86:6	e	۝٨٦				
+12	23:87:1	w	قُلْ		قل	Say	qul
+12	23:87:2	w	مَن		من	Who	man
+12	23:87:3	w	رَّبُّ		رب	(is the) Lord	rabbu
+12	23:87:4	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the seven heavens	l-samāwāti
+12	23:87:5	w	ࡴ۬لسَّبْعِ		السبع	(of) the seven heavens	l-sabʿi
+12	23:87:6	w	وَرَبُّ		ورب	and (the) Lord	warabbu
+12	23:87:7	w	ࡲ۬لْعَرْشِ		العرش	(of) the Throne	l-ʿarshi
+13	23:87:8	w	ࡴ۬لْعَظِيمِ࣌		العظيم	the Great	l-ʿaẓīmi
+13	23:87:9	e	۝٨٧				
+13	23:88:1	w	سَيَقُولُونَ		سيقولون	They will say	sayaqūlūna
+13	23:88:2	w	لِلهِ࣌		لله	Allah	lillahi
+13	23:88:3	w	قُلَ		قل	Say	qul
+13	23:88:4	w	ࡰفَلَا		افلا	Then will not	afalā
+13	23:88:5	w	تَتَّقُونَ࣌		تتقون	you fear (Him)	tattaqūna
+13	23:88:6	e	۝٨٨				
+13	23:89:1	w	قُلْ		قل	Say	qul
+13	23:89:2	w	مَنۢ		من	Who is (it)	man
+14	23:89:3	w	بِيَدِهِۦ		بيدهي	in Whose Hand(s)	biyadihi
+14	23:89:4	w	مَلَكُوتُ		ملكوت	(is the) dominion	malakūtu
+14	23:89:5	w	كُلِّ		كل	(of) all	kulli
+14	23:89:6	w	شَےْءࣲ		شي	things	shayin
+14	23:89:7	w	وَهُوَ		وهو	and He	wahuwa
+14	23:89:8	w	يُجِيرُ		يجير	protects	yujīru
+14	23:89:9	w	وَلَا		ولا	and no (one)	walā
+14	23:89:10	w	يُجَارُ		يجار	(can) be protected	yujāru
+14	23:89:11	w	عَلَيْهِ		عليه	against Him	ʿalayhi
+14	23:89:12	w	إِن		ان	If	in
+15	23:89:13	w	كُنتُمْ		كنتم	you	kuntum
+15	23:89:14	w	تَعْلَمُونَ		تعلمون	know	taʿlamūna
+15	23:89:15	e	۝٨٩				
+15	23:90:1	w	سَيَقُولُونَ		سيقولون	They will say	sayaqūlūna
+15	23:90:2	w	لِلهِ࣌		لله	Allah	lillahi
+15	23:90:3	w	قُلْ		قل	Say	qul
+15	23:90:4	w	فَأَنّٜىٰ		فاني	Then how	fa-annā
+15	23:90:5	w	تُسْحَرُونَ࣌		تسحرون	are you deluded	tus'ḥarūna
+15	23:90:6	e	۝٩٠				

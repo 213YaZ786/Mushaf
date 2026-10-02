@@ -1,0 +1,144 @@
+1	4:134:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+1	4:134:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+1	4:134:3	w	ءَامَنُواْ		امنوا	believe[d]	āmanū
+1	4:134:4	w	كُونُواْ		كونوا	Be	kūnū
+1	4:134:5	w	قَوَّٰمِينَ		قومين	custodians	qawwāmīna
+1	4:134:6	w	بِالْقِسْطِ		بالقسط	of justice	bil-qis'ṭi
+1	4:134:7	w	شُهَدَآءَ		شهدا	(as) witnesses	shuhadāa
+1	4:134:8	w	لِلهِ		لله	to Allah	lillahi
+1	4:134:9	w	وَلَوْ		ولو	even if	walaw
+2	4:134:10	w	عَلَىٰٓ		علي	(it is) against	ʿalā
+2	4:134:11	w	أَنفُسِكُمُۥٓ		انفسكم	yourselves	anfusikum
+2	4:134:12	w	أَوِ		او	or	awi
+2	4:134:13	w	ࡴ۬لْوَٰلِدَيْنِ		الولدين	the parents	l-wālidayni
+2	4:134:14	w	وَالَاقْرَبِينَ࣌		والاقربين	and the relatives	wal-aqrabīna
+2	4:134:15	w	إِنْ		ان	if	in
+2	4:134:16	w	يَّكُنْ		يكن	he be	yakun
+2	4:134:17	w	غَنِيّاً		غنيا	rich	ghaniyyan
+2	4:134:18	w	ࡰوْ		او	or	aw
+2	4:134:19	w	فَقِيراࣰ		فقيرا	poor	faqīran
+3	4:134:20	w	فَاللَّهُ		فالله	for Allah	fal-lahu
+3	4:134:21	w	أَوْلٜىٰ		اولي	(is) nearer	awlā
+3	4:134:22	w	بِهِمَا		بهما	to both of them	bihimā
+3	4:134:23	w	فَلَا		فلا	So (do) not	falā
+3	4:134:24	w	تَتَّبِعُواْ		تتبعوا	follow	tattabiʿū
+3	4:134:25	w	ࡲ۬لْهَوٜىٰٓ		الهوي	the desire	l-hawā
+3	4:134:26	w	أَن		ان	lest	an
+3	4:134:27	w	تَعْدِلُواْ࣌		تعدلوا	you deviate	taʿdilū
+3	4:134:28	w	وَإِن		وان	And if	wa-in
+3	4:134:29	w	تَلْوُۥٓاْ		تلوا	you distort	talwū
+4	4:134:30	w	أَوْ		او	or	aw
+4	4:134:31	w	تُعْرِضُواْ		تعرضوا	refrain	tuʿ'riḍū
+4	4:134:32	w	فَإِنَّ		فان	then indeed	fa-inna
+4	4:134:33	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	4:134:34	w	كَانَ		كان	is	kāna
+4	4:134:35	w	بِمَا		بما	of what	bimā
+4	4:134:36	w	تَعْمَلُونَ		تعملون	you do	taʿmalūna
+4	4:134:37	w	خَبِيراࣰ࣌		خبيرا	All-Aware	khabīran
+4	4:134:38	e	۝١٣٤				
+4	4:135:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+5	4:135:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+5	4:135:3	w	ءَامَنُوٓاْ		امنوا	believe[d]	āmanū
+5	4:135:4	w	ءَامِنُواْ		امنوا	Believe	āminū
+5	4:135:5	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+5	4:135:6	w	وَرَسُولِهِۦ		ورسولهي	and His Messenger	warasūlihi
+5	4:135:7	w	وَالْكِتَٰبِ		والكتب	and the Book	wal-kitābi
+5	4:135:8	w	ࡴ۬لذِے		الذي	which	alladhī
+5	4:135:9	w	نَزَّلَ		نزل	He revealed	nazzala
+6	4:135:10	w	عَلَىٰ		علي	upon	ʿalā
+6	4:135:11	w	رَسُولِهِۦ		رسولهي	His Messenger	rasūlihi
+6	4:135:12	w	وَالْكِتَٰبِ		والكتب	and the Book	wal-kitābi
+6	4:135:13	w	ࡴ۬لذِےٓ		الذي	which	alladhī
+6	4:135:14	w	أَنزَلَ		انزل	He revealed	anzala
+6	4:135:15	w	مِن		من	from	min
+6	4:135:16	w	قَبْلُ࣌		قبل	before	qablu
+6	4:135:17	w	وَمَنْ		ومن	And whoever	waman
+6	4:135:18	w	يَّكْفُرْ		يكفر	disbelieves	yakfur
+6	4:135:19	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+7	4:135:20	w	وَمَلَٰٓئِكَتِهِۦ		ومليكتهي	and His Angels	wamalāikatihi
+7	4:135:21	w	وَكُتُبِهِۦ		وكتبهي	and His Books	wakutubihi
+7	4:135:22	w	وَرُسُلِهِۦ		ورسلهي	and His Messengers	warusulihi
+7	4:135:23	w	وَالْيَوْمِ		واليوم	and the Day	wal-yawmi
+7	4:135:24	w	ࡴ۬لَاخِرِ		الاخر	the Last	l-ākhiri
+7	4:135:25	w	فَقَد		فقد	then surely	faqad
+7	4:135:26	w	ضَّلَّ		ضل	he (has) lost (the) way	ḍalla
+8	4:135:27	w	ضَلَٰلاَۢ		ضللا	straying	ḍalālan
+8	4:135:28	w	بَعِيداً࣌		بعيدا	far away	baʿīdan
+8	4:135:29	e	۝١٣٥				
+8	4:136:1	w	ࡴنَّ		ان	Indeed	inna
+8	4:136:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+8	4:136:3	w	ءَامَنُواْ		امنوا	believed	āmanū
+8	4:136:4	w	ثُمَّ		ثم	then	thumma
+8	4:136:5	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+8	4:136:6	w	ثُمَّ		ثم	then	thumma
+8	4:136:7	w	ءَامَنُواْ		امنوا	(again) believed	āmanū
+8	4:136:8	w	ثُمَّ		ثم	then	thumma
+9	4:136:9	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+9	4:136:10	w	ثُمَّ		ثم	then	thumma
+9	4:136:11	w	ࡰٜزْدَادُواْ		ازدادوا	increased	iz'dādū
+9	4:136:12	w	كُفْراࣰ		كفرا	(in) disbelief	kuf'ran
+9	4:136:13	w	لَّمْ		لم	not	lam
+9	4:136:14	w	يَكُنِ		يكن	will	yakuni
+9	4:136:15	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+9	4:136:16	w	لِيَغْفِرَ		ليغفر	forgive	liyaghfira
+9	4:136:17	w	لَهُمْ		لهم	[for] them	lahum
+9	4:136:18	w	وَلَا		ولا	and not	walā
+9	4:136:19	w	لِيَهْدِيَهُمْ		ليهديهم	will guide them	liyahdiyahum
+10	4:136:20	w	سَبِيلاَۢ࣌		سبيلا	(to) a (right) way	sabīlan
+10	4:136:21	e	۝١٣٦				
+10	4:137:1	w	بَشِّرِ		بشر	Give tidings	bashiri
+10	4:137:2	w	ࡴ۬لْمُنَٰفِقِينَ		المنفقين	(to) the hypocrites	l-munāfiqīna
+10	4:137:3	w	بِأَنَّ		بان	that	bi-anna
+10	4:137:4	w	لَهُمْ		لهم	for them	lahum
+10	4:137:5	w	عَذَاباً		عذابا	(is) a punishment	ʿadhāban
+10	4:137:6	w	ࡰلِيماً		اليما	painful	alīman
+10	4:137:7	e	۝١٣٧				
+10	4:138:1	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+11	4:138:2	w	يَتَّخِذُونَ		يتخذون	take	yattakhidhūna
+11	4:138:3	w	ࡰ۬لْكٜـٰفِرِينَ		الكفرين	the disbelievers	l-kāfirīna
+11	4:138:4	w	أَوْلِيَآءَ		اوليا	(as) allies	awliyāa
+11	4:138:5	w	مِن		من	(from)	min
+11	4:138:6	w	دُونِ		دون	instead of	dūni
+11	4:138:7	w	ࡴ۬لْمُومِنِينَ࣌		المومنين	the believers	l-mu'minīna
+11	4:138:8	w	أَيَبْتَغُونَ		ايبتغون	Do they seek	ayabtaghūna
+12	4:138:9	w	عِندَهُمُ		عندهم	with them	ʿindahumu
+12	4:138:10	w	ࡲ۬لْعِزَّةَ		العزة	the honor	l-ʿizata
+12	4:138:11	w	فَإِنَّ		فان	But indeed	fa-inna
+12	4:138:12	w	ࡰ۬لْعِزَّةَ		العزة	the honor	l-ʿizata
+12	4:138:13	w	لِلهِ		لله	(is) for Allah	lillahi
+12	4:138:14	w	جَمِيعاࣰ࣌		جميعا	all	jamīʿan
+12	4:138:15	e	۝١٣٨				
+12	4:139:1	w	۞ وَقَدْ		وقد	And surely	waqad
+12	4:139:2	w	نُزِّلَ		نزل	He has revealed	nazzala
+12	4:139:3	w	عَلَيْكُمْ		عليكم	to you	ʿalaykum
+12	4:139:4	w	فِے		في	in	fī
+13	4:139:5	w	ࡴ۬لْكِتَٰبِ		الكتب	the Book	l-kitābi
+13	4:139:6	w	أَنِ		ان	that	an
+13	4:139:7	w	ࡴذَا		اذا	when	idhā
+13	4:139:8	w	سَمِعْتُمُۥٓ		سمعتم	you hear	samiʿ'tum
+13	4:139:9	w	ءَايَٰتِ		ايت	(the) Verses	āyāti
+13	4:139:10	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+13	4:139:11	w	يُكْفَرُ		يكفر	being rejected	yuk'faru
+13	4:139:12	w	بِهَا		بها	[it]	bihā
+13	4:139:13	w	وَيُسْتَهْزَأُ		ويستهزا	and ridiculed	wayus'tahza-u
+13	4:139:14	w	بِهَا		بها	at [it]	bihā
+14	4:139:15	w	فَلَا		فلا	then do not	falā
+14	4:139:16	w	تَقْعُدُواْ		تقعدوا	sit	taqʿudū
+14	4:139:17	w	مَعَهُمْ		معهم	with them	maʿahum
+14	4:139:18	w	حَتَّىٰ		حتي	until	ḥattā
+14	4:139:19	w	يَخُوضُواْ		يخوضوا	they engage	yakhūḍū
+14	4:139:20	w	فِے		في	in	fī
+14	4:139:21	w	حَدِيثٍ		حديث	a conversation	ḥadīthin
+14	4:139:22	w	غَيْرِهِۦٓ࣌		غيرهي	other than that	ghayrihi
+14	4:139:23	w	إِنَّكُمُۥٓ		انكم	Indeed, you	innakum
+14	4:139:24	w	إِذاࣰ		اذا	then	idhan
+15	4:139:25	w	مِّثْلُهُمُۥٓ࣌		مثلهم	(would be) like them	mith'luhum
+15	4:139:26	w	إِنَّ		ان	Indeed	inna
+15	4:139:27	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	4:139:28	w	جَامِعُ		جامع	will gather	jāmiʿu
+15	4:139:29	w	ࡲ۬لْمُنَٰفِقِينَ		المنفقين	the hypocrites	l-munāfiqīna
+15	4:139:30	w	وَالْكٜـٰفِرِينَ		والكفرين	and the disbelievers	wal-kāfirīna
+15	4:139:31	w	فِے		في	in	fī
+15	4:139:32	w	جَهَنَّمَ		جهنم	Hell	jahannama
+15	4:139:33	w	جَمِيعاً		جميعا	all together	jamīʿan
+15	4:139:34	e	۝١٣٩				

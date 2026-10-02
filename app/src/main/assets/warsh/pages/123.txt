@@ -1,0 +1,135 @@
+1	5:93:1	w	إِنَّمَا		انما	Only	innamā
+1	5:93:2	w	يُرِيدُ		يريد	intends	yurīdu
+1	5:93:3	w	ࡲ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan	l-shayṭānu
+1	5:93:4	w	أَنْ		ان	to	an
+1	5:93:5	w	يُّوقِعَ		يوقع	cause	yūqiʿa
+1	5:93:6	w	بَيْنَكُمُ		بينكم	between you	baynakumu
+1	5:93:7	w	ࡲ۬لْعَدَٰوَةَ		العدوة	[the] enmity	l-ʿadāwata
+1	5:93:8	w	وَالْبَغْضَآءَ		والبغضا	and [the] hatred	wal-baghḍāa
+2	5:93:9	w	فِے		في	through	fī
+2	5:93:10	w	ࡴ۬لْخَمْرِ		الخمر	intoxicants	l-khamri
+2	5:93:11	w	وَالْمَيْسِرِ		والميسر	and gambling	wal-maysiri
+2	5:93:12	w	وَيَصُدَّكُمْ		ويصدكم	and hinders you	wayaṣuddakum
+2	5:93:13	w	عَن		عن	from	ʿan
+2	5:93:14	w	ذِكْرِ		ذكر	(the) remembrance	dhik'ri
+2	5:93:15	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+2	5:93:16	w	وَعَنِ		وعن	and from	waʿani
+3	5:93:17	w	ࡴ۬لصَّلَوٰةِ࣌		الصلوة	the prayer	l-ṣalati
+3	5:93:18	w	فَهَلَ		فهل	So will	fahal
+3	5:93:19	w	ࡰنتُم		انتم	you	antum
+3	5:93:20	w	مُّنتَهُونَ࣌		منتهون	(be) the ones who abstain	muntahūna
+3	5:93:21	e	۝٩٣				
+3	5:94:1	w	وَأَطِيعُواْ		واطيعوا	And obey	wa-aṭīʿū
+3	5:94:2	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+3	5:94:3	w	وَأَطِيعُواْ		واطيعوا	and obey	wa-aṭīʿū
+4	5:94:4	w	ࡲ۬لرَّسُولَ		الرسول	the Messenger	l-rasūla
+4	5:94:5	w	وَاحْذَرُواْ࣌		واحذروا	and beware	wa-iḥ'dharū
+4	5:94:6	w	فَإِن		فان	And if	fa-in
+4	5:94:7	w	تَوَلَّيْتُمْ		توليتم	you turn away	tawallaytum
+4	5:94:8	w	فَاعْلَمُوٓاْ		فاعلموا	then know	fa-iʿ'lamū
+4	5:94:9	w	أَنَّمَا		انما	only	annamā
+4	5:94:10	w	عَلَىٰ		علي	upon	ʿalā
+4	5:94:11	w	رَسُولِنَا		رسولنا	Our Messenger	rasūlinā
+5	5:94:12	w	ࡰ۬لْبَلَٰغُ		البلغ	(is to) convey (the Message)	l-balāghu
+5	5:94:13	w	ࡲ۬لْمُبِينُ࣌		المبين	clearly	l-mubīnu
+5	5:94:14	e	۝٩٤				
+5	5:95:1	w	لَيْسَ		ليس	Not	laysa
+5	5:95:2	w	عَلَى		علي	on	ʿalā
+5	5:95:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	5:95:4	w	ءَامَنُواْ		امنوا	believe	āmanū
+5	5:95:5	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+5	5:95:6	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	the good deeds	l-ṣāliḥāti
+6	5:95:7	w	جُنَاحࣱ		جناح	any sin	junāḥun
+6	5:95:8	w	فِيمَا		فيما	for what	fīmā
+6	5:95:9	w	طَعِمُوٓاْ		طعموا	they ate	ṭaʿimū
+6	5:95:10	w	إِذَا		اذا	when	idhā
+6	5:95:11	w	مَا		ما	that	mā
+6	5:95:12	w	ࡰٜتَّقَواْ		اتقوا	they fear (Allah)	ittaqaw
+6	5:95:13	w	وَّءَامَنُواْ		وامنوا	and they believe	waāmanū
+6	5:95:14	w	وَعَمِلُواْ		وعملوا	and they do	waʿamilū
+6	5:95:15	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	[the] good deeds	l-ṣāliḥāti
+7	5:95:16	w	ثُمَّ		ثم	then	thumma
+7	5:95:17	w	ࡰٜتَّقَواْ		اتقوا	they fear (Allah)	ittaqaw
+7	5:95:18	w	وَّءَامَنُواْ		وامنوا	and believe	waāmanū
+7	5:95:19	w	ثُمَّ		ثم	then	thumma
+7	5:95:20	w	ࡰٜتَّقَواْ		اتقوا	they fear (Allah)	ittaqaw
+7	5:95:21	w	وَّأَحْسَنُواْ࣌		واحسنوا	and do good	wa-aḥsanū
+7	5:95:22	w	وَاللَّهُ		والله	and Allah	wal-lahu
+7	5:95:23	w	يُحِبُّ		يحب	loves	yuḥibbu
+8	5:95:24	w	ࡲ۬لْمُحْسِنِينَ࣌		المحسنين	the good-doers	l-muḥ'sinīna
+8	5:95:25	e	۝٩٥				
+8	5:96:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+8	5:96:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+8	5:96:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+8	5:96:4	w	لَيَبْلُوَنَّكُمُ		ليبلونكم	Surely will test you	layabluwannakumu
+8	5:96:5	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+8	5:96:6	w	بِشَےْءࣲ		بشي	through something	bishayin
+9	5:96:7	w	مِّنَ		من	of	mina
+9	5:96:8	w	ࡰ۬لصَّيْدِ		الصيد	the game	l-ṣaydi
+9	5:96:9	w	تَنَالُهُۥٓ		تناله	can reach it	tanāluhu
+9	5:96:10	w	أَيْدِيكُمْ		ايديكم	your hands	aydīkum
+9	5:96:11	w	وَرِمَاحُكُمْ		ورماحكم	and your spears	warimāḥukum
+9	5:96:12	w	لِيَعْلَمَ		ليعلم	that may make evident	liyaʿlama
+9	5:96:13	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+9	5:96:14	w	مَنْ		من	who	man
+9	5:96:15	w	يَّخَافُهُۥ		يخافه	fears Him	yakhāfuhu
+10	5:96:16	w	بِالْغَيْبِ࣌		بالغيب	in the unseen	bil-ghaybi
+10	5:96:17	w	فَمَنِ		فمن	And whoever	famani
+10	5:96:18	w	ࡴٜعْتَدٜىٰ		اعتدي	transgressed	iʿ'tadā
+10	5:96:19	w	بَعْدَ		بعد	after	baʿda
+10	5:96:20	w	ذَٰلِكَ		ذلك	that	dhālika
+10	5:96:21	w	فَلَهُۥ		فله	then for him	falahu
+10	5:96:22	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+10	5:96:23	w	ࡰلِيمࣱ࣌		اليم	painful	alīmun
+10	5:96:24	e	۝٩٦				
+10	5:97:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+11	5:97:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+11	5:97:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+11	5:97:4	w	لَا		لا	(Do) not	lā
+11	5:97:5	w	تَقْتُلُواْ		تقتلوا	kill	taqtulū
+11	5:97:6	w	ࡲ۬لصَّيْدَ		الصيد	the game	l-ṣayda
+11	5:97:7	w	وَأَنتُمْ		وانتم	while you	wa-antum
+11	5:97:8	w	حُرُمࣱ࣌		حرم	(are in) Ihram	ḥurumun
+11	5:97:9	w	وَمَن		ومن	And whoever	waman
+11	5:97:10	w	قَتَلَهُۥ		قتله	killed it	qatalahu
+12	5:97:11	w	مِنكُم		منكم	among you	minkum
+12	5:97:12	w	مُّتَعَمِّداࣰ		متعمدا	intentionally	mutaʿammidan
+12	5:97:13	w	فَجَزَآءُ		فجزا	then penalty	fajazāon
+12	5:97:14	w	مِثْلِ		مثل	(is) similar	mith'lu
+12	5:97:15	w	مَا		ما	(to) what	mā
+12	5:97:16	w	قَتَلَ		قتل	he killed	qatala
+12	5:97:17	w	مِنَ		من	of	mina
+12	5:97:18	w	ࡰ۬لنَّعَمِ		النعم	the cattle	l-naʿami
+12	5:97:19	w	يَحْكُمُ		يحكم	judging	yaḥkumu
+12	5:97:20	w	بِهِۦ		بهي	it	bihi
+12	5:97:21	w	ذَوَا		ذوا	two men	dhawā
+13	5:97:22	w	عَدْلࣲ		عدل	just	ʿadlin
+13	5:97:23	w	مِّنكُمْ		منكم	among you	minkum
+13	5:97:24	w	هَدْياَۢ		هديا	(as) an offering	hadyan
+13	5:97:25	w	بَٰلِغَ		بلغ	reaching	bāligha
+13	5:97:26	w	ࡰ۬لْكَعْبَةِ		الكعبة	the Kabah	l-kaʿbati
+13	5:97:27	w	أَوْ		او	or	aw
+13	5:97:28	w	كَفَّٰرَةُ		كفرة	an expiation	kaffāratun
+13	5:97:29	w	طَعَامِ		طعام	feeding	ṭaʿāmu
+13	5:97:30	w	مَسَٰكِينَ		مسكين	needy people	masākīna
+14	5:97:31	w	أَوْ		او	or	aw
+14	5:97:32	w	عَدْلُ		عدل	equivalent	ʿadlu
+14	5:97:33	w	ذَٰلِكَ		ذلك	(of) that	dhālika
+14	5:97:34	w	صِيَاماࣰ		صياما	(in) fasting	ṣiyāman
+14	5:97:35	w	لِّيَذُوقَ		ليذوق	that he may taste	liyadhūqa
+14	5:97:36	w	وَبَالَ		وبال	(the) consequence	wabāla
+14	5:97:37	w	أَمْرِهِۦ࣌		امرهي	(of) his deed	amrihi
+14	5:97:38	w	عَفَا		عفا	Pardoned	ʿafā
+14	5:97:39	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+14	5:97:40	w	عَمَّا		عما	what	ʿammā
+15	5:97:41	w	سَلَفَ࣌		سلف	(has) passed	salafa
+15	5:97:42	w	وَمَنْ		ومن	but whoever	waman
+15	5:97:43	w	عَادَ		عاد	returned	ʿāda
+15	5:97:44	w	فَيَنتَقِمُ		فينتقم	then will take retribution	fayantaqimu
+15	5:97:45	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+15	5:97:46	w	مِنْهُ࣌		منه	from him	min'hu
+15	5:97:47	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	5:97:48	w	عَزِيزࣱ		عزيز	(is) All-Mighty	ʿazīzun
+15	5:97:49	w	ذُو		ذو	Owner	dhū
+15	5:97:50	w	ࡲٜنتِقَامٍ࣌		انتقام	(of) Retribution	intiqāmin
+15	5:97:51	e	۝٩٧				

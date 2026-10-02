@@ -1,0 +1,127 @@
+1	30:15:1	w	وَأَمَّا		واما	But as for	wa-ammā
+1	30:15:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	30:15:3	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+1	30:15:4	w	وَكَذَّبُواْ		وكذبوا	and denied	wakadhabū
+1	30:15:5	w	بِـَٔايَٰتِنَا		بايتنا	Our Signs	biāyātinā
+1	30:15:6	w	وَلِقَآءِ		ولقا	and (the) meeting	waliqāi
+1	30:15:7	w	ࡴ۬لَاخِرَةِ		الاخرة	(of) the Hereafter	l-ākhirati
+2	30:15:8	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+2	30:15:9	w	فِے		في	in	fī
+2	30:15:10	w	ࡴ۬لْعَذَابِ		العذاب	the punishment	l-ʿadhābi
+2	30:15:11	w	مُحْضَرُونَ࣌		محضرون	(will be) brought forth	muḥ'ḍarūna
+2	30:15:12	e	۝١٥				
+2	30:16:1	w	فَسُبْحَٰنَ		فسبحن	So glory be to	fasub'ḥāna
+2	30:16:2	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+2	30:16:3	w	حِينَ		حين	when	ḥīna
+2	30:16:4	w	تُمْسُونَ		تمسون	you reach the evening	tum'sūna
+3	30:16:5	w	وَحِينَ		وحين	and when	waḥīna
+3	30:16:6	w	تُصْبِحُونَ		تصبحون	you reach the morning	tuṣ'biḥūna
+3	30:16:7	e	۝١٦				
+3	30:17:1	w	وَلَهُ		وله	And for Him	walahu
+3	30:17:2	w	ࡲ۬لْحَمْدُ		الحمد	(are) all praises	l-ḥamdu
+3	30:17:3	w	فِے		في	in	fī
+3	30:17:4	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+3	30:17:5	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+3	30:17:6	w	وَعَشِيّاࣰ		وعشيا	and (at) night	waʿashiyyan
+4	30:17:7	w	وَحِينَ		وحين	and when	waḥīna
+4	30:17:8	w	تُظْهِرُونَ࣌		تظهرون	you are at noon	tuẓ'hirūna
+4	30:17:9	e	۝١٧				
+4	30:18:1	w	يُخْرِجُ		يخرج	He brings forth	yukh'riju
+4	30:18:2	w	ࡲ۬لْحَيَّ		الحي	the living	l-ḥaya
+4	30:18:3	w	مِنَ		من	from	mina
+4	30:18:4	w	ࡰ۬لْمَيِّتِ		الميت	the dead	l-mayiti
+4	30:18:5	w	وَيُخْرِجُ		ويخرج	and He brings forth	wayukh'riju
+4	30:18:6	w	ࡲ۬لْمَيِّتَ		الميت	the dead	l-mayita
+5	30:18:7	w	مِنَ		من	from	mina
+5	30:18:8	w	ࡰ۬لْحَيِّ		الحي	the living	l-ḥayi
+5	30:18:9	w	وَيُحْيِ		ويحي	and He gives life	wayuḥ'yī
+5	30:18:10	w	ࡴ۬لَارْضَ		الارض	(to) the earth	l-arḍa
+5	30:18:11	w	بَعْدَ		بعد	after	baʿda
+5	30:18:12	w	مَوْتِهَا࣌		موتها	its death	mawtihā
+5	30:18:13	w	وَكَذَٰلِكَ		وكذلك	and thus	wakadhālika
+5	30:18:14	w	تُخْرَجُونَ࣌		تخرجون	you will be brought forth	tukh'rajūna
+5	30:18:15	e	۝١٨				
+6	30:19:1	w	وَمِنَ		ومن	And among	wamin
+6	30:19:2	w	اٰيَٰتِهِۦٓ		ايتهي	His Signs	āyātihi
+6	30:19:3	w	أَنْ		ان	(is) that	an
+6	30:19:4	w	خَلَقَكُم		خلقكم	He created you	khalaqakum
+6	30:19:5	w	مِّن		من	from	min
+6	30:19:6	w	تُرَابࣲ		تراب	dust	turābin
+6	30:19:7	w	ثُمَّ		ثم	then	thumma
+6	30:19:8	w	إِذَآ		اذا	behold	idhā
+6	30:19:9	w	أَنتُم		انتم	You	antum
+6	30:19:10	w	بَشَرࣱ		بشر	(are) human beings	basharun
+7	30:19:11	w	تَنتَشِرُونَ࣌		تنتشرون	dispersing	tantashirūna
+7	30:19:12	e	۝١٩				
+7	30:20:1	w	وَمِنَ		ومن	And among	wamin
+7	30:20:2	w	اٰيَٰتِهِۦٓ		ايتهي	His Signs	āyātihi
+7	30:20:3	w	أَنْ		ان	(is) that	an
+7	30:20:4	w	خَلَقَ		خلق	He created	khalaqa
+7	30:20:5	w	لَكُم		لكم	for you	lakum
+7	30:20:6	w	مِّنَ		من	from	min
+7	30:20:7	w	ࡰنفُسِكُمُۥٓ		انفسكم	yourselves	anfusikum
+8	30:20:8	w	أَزْوَٰجاࣰ		ازوجا	mates	azwājan
+8	30:20:9	w	لِّتَسْكُنُوٓاْ		لتسكنوا	that you may find tranquility	litaskunū
+8	30:20:10	w	إِلَيْهَا		اليها	in them	ilayhā
+8	30:20:11	w	وَجَعَلَ		وجعل	and He placed	wajaʿala
+8	30:20:12	w	بَيْنَكُم		بينكم	between you	baynakum
+8	30:20:13	w	مَّوَدَّةࣰ		مودة	love	mawaddatan
+8	30:20:14	w	وَرَحْمَةً࣌		ورحمة	and mercy	waraḥmatan
+8	30:20:15	w	ࡴنَّ		ان	Indeed	inna
+9	30:20:16	w	فِے		في	in	fī
+9	30:20:17	w	ذَٰلِكَ		ذلك	that	dhālika
+9	30:20:18	w	لَأٓيَٰتࣲ		لايت	surely (are) Signs	laāyātin
+9	30:20:19	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+9	30:20:20	w	يَتَفَكَّرُونَ࣌		يتفكرون	who reflect	yatafakkarūna
+9	30:20:21	e	۝٢٠				
+9	30:21:1	w	۞ وَمِنَ		ومن	And among	wamin
+9	30:21:2	w	اٰيَٰتِهِۦ		ايتهي	His Signs	āyātihi
+10	30:21:3	w	خَلْقُ		خلق	(is the) creation	khalqu
+10	30:21:4	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+10	30:21:5	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+10	30:21:6	w	وَاخْتِلَٰفُ		واختلف	and the diversity	wa-ikh'tilāfu
+10	30:21:7	w	أَلْسِنَتِكُمْ		السنتكم	(of) your languages	alsinatikum
+10	30:21:8	w	وَأَلْوَٰنِكُمُۥٓ࣌		والونكم	and your colors	wa-alwānikum
+11	30:21:9	w	إِنَّ		ان	Indeed	inna
+11	30:21:10	w	فِے		في	in	fī
+11	30:21:11	w	ذَٰلِكَ		ذلك	that	dhālika
+11	30:21:12	w	لَأٓيَٰتࣲ		لايت	surely (are) Signs	laāyātin
+11	30:21:13	w	لِّلْعَٰلَمِينَ࣌		للعلمين	for those of knowledge	lil'ʿālimīna
+11	30:21:14	e	۝٢١				
+11	30:22:1	w	وَمِنَ		ومن	And among	wamin
+11	30:22:2	w	اٰيَٰتِهِۦ		ايتهي	His Signs	āyātihi
+11	30:22:3	w	مَنَامُكُم		منامكم	(is) your sleep	manāmukum
+12	30:22:4	w	بِاليْلِ		باليل	by night	bi-al-layli
+12	30:22:5	w	وَالنَّهٜارِ		والنهار	and the day	wal-nahāri
+12	30:22:6	w	وَابْتِغَآؤُكُم		وابتغاوكم	[and] your seeking	wa-ib'tighāukum
+12	30:22:7	w	مِّن		من	of	min
+12	30:22:8	w	فَضْلِهِۦٓ࣌		فضلهي	His Bounty	faḍlihi
+12	30:22:9	w	إِنَّ		ان	Indeed	inna
+12	30:22:10	w	فِے		في	in	fī
+12	30:22:11	w	ذَٰلِكَ		ذلك	that	dhālika
+13	30:22:12	w	لَأٓيَٰتࣲ		لايت	surely (are) Signs	laāyātin
+13	30:22:13	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+13	30:22:14	w	يَسْمَعُونَ࣌		يسمعون	who listen	yasmaʿūna
+13	30:22:15	e	۝٢٢				
+13	30:23:1	w	وَمِنَ		ومن	And among	wamin
+13	30:23:2	w	اٰيَٰتِهِۦ		ايتهي	His Signs	āyātihi
+13	30:23:3	w	يُرِيكُمُ		يريكم	He shows you	yurīkumu
+13	30:23:4	w	ࡲ۬لْبَرْقَ		البرق	the lightning	l-barqa
+14	30:23:5	w	خَوْفاࣰ		خوفا	(causing) fear	khawfan
+14	30:23:6	w	وَطَمَعاࣰ		وطمعا	and hope	waṭamaʿan
+14	30:23:7	w	وَيُنَزِّلُ		وينزل	and He sends down	wayunazzilu
+14	30:23:8	w	مِنَ		من	from	mina
+14	30:23:9	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+14	30:23:10	w	مَآءࣰ		ما	water	māan
+14	30:23:11	w	فَيُحْيِۦ		فيحيي	and gives life	fayuḥ'yī
+14	30:23:12	w	بِهِ		به	therewith	bihi
+14	30:23:13	w	ࡴ۬لَارْضَ		الارض	(to) the earth	l-arḍa
+15	30:23:14	w	بَعْدَ		بعد	after	baʿda
+15	30:23:15	w	مَوْتِهَآ࣌		موتها	its death	mawtihā
+15	30:23:16	w	إِنَّ		ان	Indeed	inna
+15	30:23:17	w	فِے		في	in	fī
+15	30:23:18	w	ذَٰلِكَ		ذلك	that	dhālika
+15	30:23:19	w	لَأٓيَٰتࣲ		لايت	surely (are) Signs	laāyātin
+15	30:23:20	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+15	30:23:21	w	يَعْقِلُونَ࣌		يعقلون	who use intellect	yaʿqilūna
+15	30:23:22	e	۝٢٣				

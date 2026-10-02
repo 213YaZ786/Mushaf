@@ -1,0 +1,122 @@
+1	3:10:1	w	إِنَّ		ان	Indeed	inna
+1	3:10:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	3:10:3	w	كَفَرُواْ		كفروا	disbelieve[d]	kafarū
+1	3:10:4	w	لَن		لن	never	lan
+1	3:10:5	w	تُغْنِيَ		تغني	will avail	tugh'niya
+1	3:10:6	w	عَنْهُمُۥٓ		عنهم	[for] them	ʿanhum
+1	3:10:7	w	أَمْوَٰلُهُمْ		امولهم	their wealth	amwāluhum
+1	3:10:8	w	وَلَآ		ولا	and not	walā
+1	3:10:9	w	أَوْلَٰدُهُم		اولدهم	their children	awlāduhum
+2	3:10:10	w	مِّنَ		من	against	mina
+2	3:10:11	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+2	3:10:12	w	شَيْـٔاࣰ࣌		شيا	anything	shayan
+2	3:10:13	w	وَأُوْلَٰٓئِكَ		واوليك	and those	wa-ulāika
+2	3:10:14	w	هُمْ		هم	they (are)	hum
+2	3:10:15	w	وَقُودُ		وقود	(the) fuel	waqūdu
+2	3:10:16	w	ࡲ۬لنّٜارِ		النار	(for) the Fire	l-nāri
+2	3:10:17	e	۝١٠				
+2	3:11:1	w	كَدَأْبِ		كداب	Like behavior	kadabi
+2	3:11:2	w	ءَالِ		ال	(of the) people	āli
+3	3:11:3	w	فِرْعَوْنَ࣌		فرعون	(of) Firaun	fir'ʿawna
+3	3:11:4	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+3	3:11:5	w	مِن		من	(were) from	min
+3	3:11:6	w	قَبْلِهِمْ		قبلهم	before them	qablihim
+3	3:11:7	w	كَذَّبُواْ		كذبوا	They denied	kadhabū
+3	3:11:8	w	بِـَٔايَٰتِنَا		بايتنا	Our Signs	biāyātinā
+3	3:11:9	w	فَأَخَذَهُمُ		فاخذهم	so seized them	fa-akhadhahumu
+3	3:11:10	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+4	3:11:11	w	بِذُنُوبِهِمْ࣌		بذنوبهم	for their sins	bidhunūbihim
+4	3:11:12	w	وَاللَّهُ		والله	And Allah	wal-lahu
+4	3:11:13	w	شَدِيدُ		شديد	(is) severe	shadīdu
+4	3:11:14	w	ࡲ۬لْعِقَابِ࣌		العقاب	(in) [the] punishment	l-ʿiqābi
+4	3:11:15	e	۝١١				
+4	3:12:1	w	قُل		قل	Say	qul
+4	3:12:2	w	لِّلذِينَ		للذين	to those who	lilladhīna
+4	3:12:3	w	كَفَرُواْ		كفروا	disbelieve[d]	kafarū
+5	3:12:4	w	سَتُغْلَبُونَ		ستغلبون	You will be overcome	satugh'labūna
+5	3:12:5	w	وَتُحْشَرُونَ		وتحشرون	and you will be gathered	watuḥ'sharūna
+5	3:12:6	w	إِلَىٰ		الي	to	ilā
+5	3:12:7	w	جَهَنَّمَ࣌		جهنم	Hell	jahannama
+5	3:12:8	w	وَبِيسَ		وبيس	[and] an evil	wabi'sa
+5	3:12:9	w	ࡰ۬لْمِهَادُ࣌		المهاد	[the] resting place	l-mihādu
+5	3:12:10	e	۝١٢				
+6	3:13:1	w	قَدْ		قد	Surely	qad
+6	3:13:2	w	كَانَ		كان	it was	kāna
+6	3:13:3	w	لَكُمُۥٓ		لكم	for you	lakum
+6	3:13:4	w	ءَايَةࣱ		اية	a sign	āyatun
+6	3:13:5	w	فِے		في	in	fī
+6	3:13:6	w	فِئَتَيْنِ		فيتين	(the) two hosts	fi-atayni
+6	3:13:7	w	ࡴٜلْتَقَتَا࣌		التقتا	which met	l-taqatā
+6	3:13:8	w	فِئَةࣱ		فية	one group	fi-atun
+6	3:13:9	w	تُقَٰتِلُ		تقتل	fighting	tuqātilu
+6	3:13:10	w	فِے		في	in	fī
+7	3:13:11	w	سَبِيلِ		سبيل	(the) way	sabīli
+7	3:13:12	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+7	3:13:13	w	وَأُخْرٜىٰ		واخري	and another	wa-ukh'rā
+7	3:13:14	w	كَافِرَةࣱ		كافرة	disbelievers	kāfiratun
+7	3:13:15	w	تَرَوْنَهُم		ترونهم	They were seeing them	yarawnahum
+7	3:13:16	w	مِّثْلَيْهِمْ		مثليهم	twice of them	mith'layhim
+7	3:13:17	w	رَأْيَ		راي	with the sight	raya
+8	3:13:18	w	ࡰ۬لْعَيْنِ࣌		العين	(of) their eyes	l-ʿayni
+8	3:13:19	w	وَاللَّهُ		والله	And Allah	wal-lahu
+8	3:13:20	w	يُوَ۬يِّدُ		يويد	supports	yu-ayyidu
+8	3:13:21	w	بِنَصْرِهِۦ		بنصرهي	with His help	binaṣrihi
+8	3:13:22	w	مَنْ		من	whom	man
+8	3:13:23	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+8	3:13:24	w	ࡹِنَّ		ان	Indeed	inna
+8	3:13:25	w	فِے		في	in	fī
+8	3:13:26	w	ذَٰلِكَ		ذلك	that	dhālika
+9	3:13:27	w	لَعِبْرَةࣰ		لعبرة	surely (is) a lesson	laʿib'ratan
+9	3:13:28	w	لِّأُوْلِے		لاولي	for the owners	li-ulī
+9	3:13:29	w	ࡴ۬لَابْصٜـٰرِ࣌		الابصر	(of) vision	l-abṣāri
+9	3:13:30	e	۝١٣				
+9	3:14:1	w	زُيِّنَ		زين	Beautified	zuyyina
+9	3:14:2	w	لِلنَّاسِ		للناس	for mankind	lilnnāsi
+9	3:14:3	w	حُبُّ		حب	(is) love	ḥubbu
+9	3:14:4	w	ࡲ۬لشَّهَوَٰتِ		الشهوت	(of) the (things they) desire	l-shahawāti
+10	3:14:5	w	مِنَ		من	of	mina
+10	3:14:6	w	ࡰ۬لنِّسَآءِ		النسا	[the] women	l-nisāi
+10	3:14:7	w	وَالْبَنِينَ		والبنين	and [the] sons	wal-banīna
+10	3:14:8	w	وَالْقَنَٰطِيرِ		والقنطير	and [the] heaps	wal-qanāṭīri
+10	3:14:9	w	ࡴ۬لْمُقَنطَرَةِ		المقنطرة	[the] stored up	l-muqanṭarati
+10	3:14:10	w	مِنَ		من	of	mina
+10	3:14:11	w	ࡰ۬لذَّهَبِ		الذهب	[the] gold	l-dhahabi
+11	3:14:12	w	وَالْفِضَّةِ		والفضة	and [the] silver	wal-fiḍati
+11	3:14:13	w	وَالْخَيْلِ		والخيل	and [the] horses	wal-khayli
+11	3:14:14	w	ࡴ۬لْمُسَوَّمَةِ		المسومة	[the] branded	l-musawamati
+11	3:14:15	w	وَالَانْعَٰمِ		والانعم	and [the] cattle	wal-anʿāmi
+11	3:14:16	w	وَالْحَرْثِ࣌		والحرث	and [the] tilled land	wal-ḥarthi
+11	3:14:17	w	ذَٰلِكَ		ذلك	That	dhālika
+12	3:14:18	w	مَتَٰعُ		متع	(is) provision	matāʿu
+12	3:14:19	w	ࡲ۬لْحَيَوٰةِ		الحيوة	(of) life	l-ḥayati
+12	3:14:20	w	ࡴ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+12	3:14:21	w	وَاللَّهُ		والله	but Allah	wal-lahu
+12	3:14:22	w	عِندَهُۥ		عنده	with Him	ʿindahu
+12	3:14:23	w	حُسْنُ		حسن	(is an) excellent	ḥus'nu
+12	3:14:24	w	ࡲ۬لْمَـَٔابِ࣌		الماب	[the] abode to return	l-maābi
+12	3:14:25	e	۝١٤				
+12	3:15:1	w	۞ قُلَ		قل	Say	qul
+13	3:15:2	w	ࡰوْࢇنَبِّئُكُم		اونبيكم	Shall I inform you	a-unabbi-ukum
+13	3:15:3	w	بِخَيْرࣲ		بخير	of better	bikhayrin
+13	3:15:4	w	مِّن		من	than	min
+13	3:15:5	w	ذَٰلِكُمْ࣌		ذلكم	that	dhālikum
+13	3:15:6	w	لِلذِينَ		للذين	For those who	lilladhīna
+13	3:15:7	w	ࡰٜتَّقَوْاْ		اتقوا	fear[ed]	ittaqaw
+13	3:15:8	w	عِندَ		عند	with	ʿinda
+13	3:15:9	w	رَبِّهِمْ		ربهم	their Lord	rabbihim
+14	3:15:10	w	جَنَّٰتࣱ		جنت	(are) Gardens	jannātun
+14	3:15:11	w	تَجْرِے		تجري	flows	tajrī
+14	3:15:12	w	مِن		من	from	min
+14	3:15:13	w	تَحْتِهَا		تحتها	underneath them	taḥtihā
+14	3:15:14	w	ࡰ۬لَانْهَٰرُ		الانهر	[the] rivers	l-anhāru
+14	3:15:15	w	خَٰلِدِينَ		خلدين	abiding forever	khālidīna
+14	3:15:16	w	فِيهَا		فيها	in it	fīhā
+14	3:15:17	w	وَأَزْوَٰجࣱ		وازوج	and spouses	wa-azwājun
+15	3:15:18	w	مُّطَهَّرَةࣱ		مطهرة	pure	muṭahharatun
+15	3:15:19	w	وَرِضْوَٰنࣱ		ورضون	and approval	wariḍ'wānun
+15	3:15:20	w	مِّنَ		من	from	mina
+15	3:15:21	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+15	3:15:22	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	3:15:23	w	بَصِيرُۢ		بصير	(is) All-Seer	baṣīrun
+15	3:15:24	w	بِالْعِبَادِ࣌		بالعباد	of (His) slaves	bil-ʿibādi
+15	3:15:25	e	۝١٥				

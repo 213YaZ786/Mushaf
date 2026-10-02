@@ -1,0 +1,156 @@
+1	2:223:1	w	لَّا		لا	Not	lā
+1	2:223:2	w	يُوَ۬اخِذُكُمُ		يواخذكم	will take you to task	yuākhidhukumu
+1	2:223:3	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+1	2:223:4	w	بِاللَّغْوِ		باللغو	for (what is) unintentional	bil-laghwi
+1	2:223:5	w	فِےٓ		في	in	fī
+1	2:223:6	w	أَيْمَٰنِكُمْ࣌		ايمنكم	your oaths	aymānikum
+1	2:223:7	w	وَلَٰكِنْ		ولكن	[and] but	walākin
+1	2:223:8	w	يُّوَ۬اخِذُكُم		يواخذكم	He takes you to task	yuākhidhukum
+1	2:223:9	w	بِمَا		بما	for what	bimā
+2	2:223:10	w	كَسَبَتْ		كسبت	(have) earned	kasabat
+2	2:223:11	w	قُلُوبُكُمْ࣌		قلوبكم	your hearts	qulūbukum
+2	2:223:12	w	وَاللَّهُ		والله	And Allah	wal-lahu
+2	2:223:13	w	غَفُورٌ		غفور	(is) Oft-Forgiving	ghafūrun
+2	2:223:14	w	حَلِيمࣱ࣌		حليم	Most Forbearing	ḥalīmun
+2	2:223:15	e	۝٢٢٣				
+2	2:224:1	w	لِّلذِينَ		للذين	For those who	lilladhīna
+2	2:224:2	w	يُولُونَ		يولون	swear (off)	yu'lūna
+2	2:224:3	w	مِن		من	from	min
+2	2:224:4	w	نِّسَآئِهِمْ		نسايهم	their wives	nisāihim
+3	2:224:5	w	تَرَبُّصُ		تربص	(is a) waiting (of)	tarabbuṣu
+3	2:224:6	w	أَرْبَعَةِ		اربعة	four	arbaʿati
+3	2:224:7	w	أَشْهُرࣲ࣌		اشهر	months	ashhurin
+3	2:224:8	w	فَإِن		فان	then if	fa-in
+3	2:224:9	w	فَآءُو		فاو	they return	fāū
+3	2:224:10	w	فَإِنَّ		فان	then indeed	fa-inna
+3	2:224:11	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+3	2:224:12	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+3	2:224:13	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+3	2:224:14	e	۝٢٢٤				
+3	2:225:1	w	وَإِنْ		وان	And if	wa-in
+3	2:225:2	w	عَزَمُواْ		عزموا	they resolve	ʿazamū
+4	2:225:3	w	ࡲ۬لطَّلَٰقَ		الطلق	(on) [the] divorce	l-ṭalāqa
+4	2:225:4	w	فَإِنَّ		فان	then indeed	fa-inna
+4	2:225:5	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	2:225:6	w	سَمِيعٌ		سميع	(is) All-Hearing	samīʿun
+4	2:225:7	w	عَلِيمࣱ࣌		عليم	All-Knowing	ʿalīmun
+4	2:225:8	e	۝٢٢٥				
+4	2:226:1	w	۞ وَالْمُطَلَّقَٰتُ		والمطلقت	And the women who are divorced	wal-muṭalaqātu
+4	2:226:2	w	يَتَرَبَّصْنَ		يتربصن	shall wait	yatarabbaṣna
+4	2:226:3	w	بِأَنفُسِهِنَّ		بانفسهن	concerning themselves	bi-anfusihinna
+5	2:226:4	w	ثَلَٰثَةَ		ثلثة	(for) three	thalāthata
+5	2:226:5	w	قُرُوٓءࣲ࣌		قرو	monthly periods	qurūin
+5	2:226:6	w	وَلَا		ولا	And (it is) not	walā
+5	2:226:7	w	يَحِلُّ		يحل	lawful	yaḥillu
+5	2:226:8	w	لَهُنَّ		لهن	for them	lahunna
+5	2:226:9	w	أَنْ		ان	that	an
+5	2:226:10	w	يَّكْتُمْنَ		يكتمن	they conceal	yaktum'na
+5	2:226:11	w	مَا		ما	what	mā
+5	2:226:12	w	خَلَقَ		خلق	(has been) created	khalaqa
+5	2:226:13	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+5	2:226:14	w	فِےٓ		في	in	fī
+5	2:226:15	w	أَرْحَامِهِنَّ		ارحامهن	their wombs	arḥāmihinna
+6	2:226:16	w	إِن		ان	if	in
+6	2:226:17	w	كُنَّ		كن	they	kunna
+6	2:226:18	w	يُومِنَّ		يومن	believe	yu'minna
+6	2:226:19	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+6	2:226:20	w	وَالْيَوْمِ		واليوم	and the Day	wal-yawmi
+6	2:226:21	w	ࡴ۬لَاخِرِ࣌		الاخر	[the] Last	l-ākhiri
+6	2:226:22	w	وَبُعُولَتُهُنَّ		وبعولتهن	And their husbands	wabuʿūlatuhunna
+6	2:226:23	w	أَحَقُّ		احق	(have) better right	aḥaqqu
+6	2:226:24	w	بِرَدِّهِنَّ		بردهن	to take them back	biraddihinna
+6	2:226:25	w	فِے		في	in	fī
+7	2:226:26	w	ذَٰلِكَ		ذلك	that (period)	dhālika
+7	2:226:27	w	إِنَ		ان	if	in
+7	2:226:28	w	ࡰرَادُوٓاْ		ارادوا	they wish	arādū
+7	2:226:29	w	إِصْلَٰحاࣰ࣌		اصلحا	(for) reconciliation	iṣ'lāḥan
+7	2:226:30	w	وَلَهُنَّ		ولهن	And for them	walahunna
+7	2:226:31	w	مِثْلُ		مثل	(is the) like	mith'lu
+7	2:226:32	w	ࡲ۬لذِے		الذي	(of) that which	alladhī
+7	2:226:33	w	عَلَيْهِنَّ		عليهن	(is) on them	ʿalayhinna
+7	2:226:34	w	بِالْمَعْرُوفِ࣌		بالمعروف	in a reasonable manner	bil-maʿrūfi
+8	2:226:35	w	وَلِلرِّجَالِ		وللرجال	and for the men	walilrrijāli
+8	2:226:36	w	عَلَيْهِنَّ		عليهن	over them	ʿalayhinna
+8	2:226:37	w	دَرَجَةࣱ࣌		درجة	(is) a degree	darajatun
+8	2:226:38	w	وَاللَّهُ		والله	And Allah	wal-lahu
+8	2:226:39	w	عَزِيزٌ		عزيز	(is) All-Mighty	ʿazīzun
+8	2:226:40	w	حَكِيمٌ࣌		حكيم	All-Wise	ḥakīmun
+8	2:226:41	e	۝٢٢٦				
+8	2:227:1	w	ࡴ۬لطَّلَٰقُ		الطلق	The divorce	al-ṭalāqu
+8	2:227:2	w	مَرَّتَٰنِ࣌		مرتن	(is) twice	marratāni
+9	2:227:3	w	فَإِمْسَاكُۢ		فامساك	Then to retain	fa-im'sākun
+9	2:227:4	w	بِمَعْرُوفٍ		بمعروف	in a reasonable manner	bimaʿrūfin
+9	2:227:5	w	ࡰوْ		او	or	aw
+9	2:227:6	w	تَسْرِيحُۢ		تسريح	to release (her)	tasrīḥun
+9	2:227:7	w	بِإِحْسَٰنࣲ࣌		باحسن	with kindness	bi-iḥ'sānin
+9	2:227:8	w	وَلَا		ولا	And (it is) not	walā
+9	2:227:9	w	يَحِلُّ		يحل	lawful	yaḥillu
+9	2:227:10	w	لَكُمُۥٓ		لكم	for you	lakum
+9	2:227:11	w	أَن		ان	that	an
+9	2:227:12	w	تَاخُذُواْ		تاخذوا	you take (back)	takhudhū
+10	2:227:13	w	مِمَّآ		مما	whatever	mimmā
+10	2:227:14	w	ءَاتَيْتُمُوهُنَّ		اتيتموهن	you have given them	ātaytumūhunna
+10	2:227:15	w	شَيْـٔاً		شيا	anything	shayan
+10	2:227:16	w	ࡴلَّآ		الا	except	illā
+10	2:227:17	w	أَنْ		ان	if	an
+10	2:227:18	w	يَّخَافَآ		يخافا	both fear	yakhāfā
+10	2:227:19	w	أَلَّا		الا	that not	allā
+10	2:227:20	w	يُقِيمَا		يقيما	they both (can) keep	yuqīmā
+10	2:227:21	w	حُدُودَ		حدود	(the) limits	ḥudūda
+10	2:227:22	w	ࡰ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+11	2:227:23	w	فَإِنْ		فان	But if	fa-in
+11	2:227:24	w	خِفْتُمُۥٓ		خفتم	you fear	khif'tum
+11	2:227:25	w	أَلَّا		الا	that not	allā
+11	2:227:26	w	يُقِيمَا		يقيما	they both (can) keep	yuqīmā
+11	2:227:27	w	حُدُودَ		حدود	(the) limits	ḥudūda
+11	2:227:28	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+11	2:227:29	w	فَلَا		فلا	then (there is) no	falā
+11	2:227:30	w	جُنَاحَ		جناح	sin	junāḥa
+11	2:227:31	w	عَلَيْهِمَا		عليهما	on both of them	ʿalayhimā
+11	2:227:32	w	فِيمَا		فيما	in what	fīmā
+11	2:227:33	w	ࡰٜفْتَدَتْ		افتدت	she ransoms	if'tadat
+11	2:227:34	w	بِهِۦ࣌		بهي	concerning it	bihi
+12	2:227:35	w	تِلْكَ		تلك	These	til'ka
+12	2:227:36	w	حُدُودُ		حدود	(are the) limits	ḥudūdu
+12	2:227:37	w	ࡲ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+12	2:227:38	w	فَلَا		فلا	so (do) not	falā
+12	2:227:39	w	تَعْتَدُوهَا࣌		تعتدوها	transgress them	taʿtadūhā
+12	2:227:40	w	وَمَنْ		ومن	And whoever	waman
+12	2:227:41	w	يَّتَعَدَّ		يتعد	transgresses	yataʿadda
+12	2:227:42	w	حُدُودَ		حدود	(the) limits	ḥudūda
+12	2:227:43	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+12	2:227:44	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+13	2:227:45	w	هُمُ		هم	they	humu
+13	2:227:46	w	ࡲ۬لظَّٰلِمُونَ࣌		الظلمون	(are) the wrongdoers	l-ẓālimūna
+13	2:227:47	e	۝٢٢٧				
+13	2:228:1	w	فَإِن		فان	Then if	fa-in
+13	2:228:2	w	طَلَّقَهَا		طلقها	he divorces her	ṭallaqahā
+13	2:228:3	w	فَلَا		فلا	then (she is) not	falā
+13	2:228:4	w	تَحِلُّ		تحل	lawful	taḥillu
+13	2:228:5	w	لَهُۥ		له	for him	lahu
+13	2:228:6	w	مِنۢ		من	from	min
+13	2:228:7	w	بَعْدُ		بعد	after (that)	baʿdu
+13	2:228:8	w	حَتَّىٰ		حتي	until	ḥattā
+13	2:228:9	w	تَنكِحَ		تنكح	she marries	tankiḥa
+14	2:228:10	w	زَوْجاً		زوجا	a spouse	zawjan
+14	2:228:11	w	غَيْرَهُۥ࣌		غيره	other than him	ghayrahu
+14	2:228:12	w	فَإِن		فان	Then if	fa-in
+14	2:228:13	w	طَلَّقَهَا		طلقها	he divorces her	ṭallaqahā
+14	2:228:14	w	فَلَا		فلا	then no	falā
+14	2:228:15	w	جُنَاحَ		جناح	sin	junāḥa
+14	2:228:16	w	عَلَيْهِمَآ		عليهما	on them	ʿalayhimā
+14	2:228:17	w	أَنْ		ان	if	an
+14	2:228:18	w	يَّتَرَاجَعَآ		يتراجعا	they return to each other	yatarājaʿā
+14	2:228:19	w	إِن		ان	if	in
+14	2:228:20	w	ظَنَّآ		ظنا	they believe	ẓannā
+14	2:228:21	w	أَنْ		ان	that	an
+15	2:228:22	w	يُّقِيمَا		يقيما	they (will be able to) keep	yuqīmā
+15	2:228:23	w	حُدُودَ		حدود	(the) limits	ḥudūda
+15	2:228:24	w	ࡰ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+15	2:228:25	w	وَتِلْكَ		وتلك	And these	watil'ka
+15	2:228:26	w	حُدُودُ		حدود	(are the) limits	ḥudūdu
+15	2:228:27	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+15	2:228:28	w	يُبَيِّنُهَا		يبينها	He makes them clear	yubayyinuhā
+15	2:228:29	w	لِقَوْمࣲ		لقوم	to a people	liqawmin
+15	2:228:30	w	يَعْلَمُونَ࣌		يعلمون	who know	yaʿlamūna
+15	2:228:31	e	۝٢٢٨				

@@ -1,0 +1,72 @@
+1	106:0:0	t					
+2	106:0:0	b					
+3	106:1:1	w	لِّإِيلَٰفِ		لايلف	For (the) familiarity	liīlāfi
+3	106:1:2	w	قُرَيْشٍ		قريش	(of the) Quraish	qurayshin
+3	106:1:3	e	۝١				
+3	106:2:1	w	ࡴيلَٰفِهِمْ		ايلفهم	Their familiarity	īlāfihim
+3	106:2:2	w	رِحْلَةَ		رحلة	(with the) journey	riḥ'lata
+3	106:2:3	w	ࡰ۬لشِّتَآءِ		الشتا	(of) winter	l-shitāi
+3	106:2:4	w	وَالصَّيْفِ࣌		والصيف	and summer	wal-ṣayfi
+3	106:2:5	e	۝٢				
+4	106:3:1	w	فَلْيَعْبُدُواْ		فليعبدوا	So let them worship	falyaʿbudū
+4	106:3:2	w	رَبَّ		رب	(the) Lord	rabba
+4	106:3:3	w	هَٰذَا		هذا	(of) this	hādhā
+4	106:3:4	w	ࡰ۬لْبَيْتِ		البيت	House	l-bayti
+4	106:3:5	e	۝٣				
+4	106:4:1	w	ࡴ۬لذِےٓ		الذي	The One Who	alladhī
+4	106:4:2	w	أَطْعَمَهُم		اطعمهم	feeds them	aṭʿamahum
+5	106:4:3	w	مِّن		من	[from]	min
+5	106:4:4	w	جُوعࣲ		جوع	(against) hunger	jūʿin
+5	106:4:5	e	۝٤				
+5	106:5:1	w	وَءَامَنَهُم		وامنهم	and gives them security	waāmanahum
+5	106:5:2	w	مِّنْ		من	from	min
+5	106:5:3	w	خَوْفٍ࣌		خوف	fear	khawfin
+5	106:5:4	e	۝٥				
+6	107:0:0	t					
+7	107:0:0	b					
+8	107:1:1	w	ࡰرَٰٓيْتَ		اريت	Have you seen	ara-ayta
+8	107:1:2	w	ࡰ۬لذِے		الذي	the one who	alladhī
+8	107:1:3	w	يُكَذِّبُ		يكذب	denies	yukadhibu
+8	107:1:4	w	بِالدِّينِ		بالدين	the Judgment	bil-dīni
+8	107:1:5	e	۝١				
+8	107:2:1	w	فَذَٰلِكَ		فذلك	Then that	fadhālika
+8	107:2:2	w	ࡰ۬لذِے		الذي	(is) the one who	alladhī
+8	107:2:3	w	يَدُعُّ		يدع	repulses	yaduʿʿu
+9	107:2:4	w	ࡲ۬لْيَتِيمَ		اليتيم	the orphan	l-yatīma
+9	107:2:5	e	۝٢				
+9	107:3:1	w	وَلَا		ولا	And (does) not	walā
+9	107:3:2	w	يَحُضُّ		يحض	feel the urge	yaḥuḍḍu
+9	107:3:3	w	عَلَىٰ		علي	to	ʿalā
+9	107:3:4	w	طَعَامِ		طعام	feed	ṭaʿāmi
+9	107:3:5	w	ࡴ۬لْمِسْكِينِ࣌		المسكين	the poor	l-mis'kīni
+9	107:3:6	e	۝٣				
+9	107:4:1	w	فَوَيْلࣱ		فويل	So woe	fawaylun
+10	107:4:2	w	لِّلْمُصَلِّينَ		للمصلين	to those who pray	lil'muṣallīna
+10	107:4:3	e	۝٤				
+10	107:5:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+10	107:5:2	w	هُمْ		هم	[they]	hum
+10	107:5:3	w	عَن		عن	about	ʿan
+10	107:5:4	w	صَلَاتِهِمْ		صلاتهم	their prayers	ṣalātihim
+10	107:5:5	w	سَاهُونَ		ساهون	(are) neglectful	sāhūna
+10	107:5:6	e	۝٥				
+11	107:6:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+11	107:6:2	w	هُمْ		هم	[they]	hum
+11	107:6:3	w	يُرَآءُونَ		يراون	make show	yurāūna
+11	107:6:4	w	وَيَمْنَعُونَ		ويمنعون	And they deny	wayamnaʿūna
+11	107:6:5	w	ࡰ۬لْمَاعُونَ࣌		الماعون	[the] small kindnesses	l-māʿūna
+11	107:6:6	e	۝٦				
+12	108:0:0	t					
+13	108:0:0	b					
+14	108:1:1	w	إِنَّآ		انا	Indeed, We	innā
+14	108:1:2	w	أَعْطَيْنَٰكَ		اعطينك	We have given you	aʿṭaynāka
+14	108:1:3	w	ࡰ۬لْكَوْثَرَ		الكوثر	Al-Kauthar	l-kawthara
+14	108:1:4	e	۝١				
+14	108:2:1	w	فَصَلِّ		فصل	So pray	faṣalli
+14	108:2:2	w	لِرَبِّكَ		لربك	to your Lord	lirabbika
+14	108:2:3	w	وَانْحَرِ࣌		وانحر	and sacrifice	wa-in'ḥar
+14	108:2:4	e	۝٢				
+15	108:3:1	w	ࡴنَّ		ان	Indeed	inna
+15	108:3:2	w	شَانِئَكَ		شانيك	your enemy	shāni-aka
+15	108:3:3	w	هُوَ		هو	he (is)	huwa
+15	108:3:4	w	ࡰ۬لَابْتَرُ࣌		الابتر	the one cut off	l-abtaru
+15	108:3:5	e	۝٣				

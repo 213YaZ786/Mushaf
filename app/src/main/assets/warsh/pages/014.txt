@@ -1,0 +1,126 @@
+1	2:88:1	w	وَلَمَّا		ولما	And when	walammā
+1	2:88:2	w	جَآءَهُمْ		جاهم	came to them	jāahum
+1	2:88:3	w	كِتَٰبࣱ		كتب	a Book	kitābun
+1	2:88:4	w	مِّنْ		من	of	min
+1	2:88:5	w	عِندِ		عند	from	ʿindi
+1	2:88:6	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+1	2:88:7	w	مُصَدِّقࣱ		مصدق	confirming	muṣaddiqun
+1	2:88:8	w	لِّمَا		لما	what (was)	limā
+1	2:88:9	w	مَعَهُمْ		معهم	with them	maʿahum
+2	2:88:10	w	وَكَانُواْ		وكانوا	though they used to	wakānū
+2	2:88:11	w	مِن		من	from	min
+2	2:88:12	w	قَبْلُ		قبل	before	qablu
+2	2:88:13	w	يَسْتَفْتِحُونَ		يستفتحون	(that), pray for victory	yastaftiḥūna
+2	2:88:14	w	عَلَى		علي	over	ʿalā
+2	2:88:15	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+2	2:88:16	w	كَفَرُواْ࣌		كفروا	disbelieved	kafarū
+2	2:88:17	w	فَلَمَّا		فلما	then when	falammā
+3	2:88:18	w	جَآءَهُم		جاهم	came to them	jāahum
+3	2:88:19	w	مَّا		ما	what	mā
+3	2:88:20	w	عَرَفُواْ		عرفوا	they recognized	ʿarafū
+3	2:88:21	w	كَفَرُواْ		كفروا	they disbelieved	kafarū
+3	2:88:22	w	بِهِۦ࣌		بهي	in it	bihi
+3	2:88:23	w	فَلَعْنَةُ		فلعنة	So (the) curse	falaʿnatu
+3	2:88:24	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+3	2:88:25	w	عَلَى		علي	(is) on	ʿalā
+3	2:88:26	w	ࡰ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+3	2:88:27	e	۝٨٨				
+4	2:89:1	w	بِيسَمَا		بيسما	Evil (is) that	bi'samā
+4	2:89:2	w	ࡰٜشْتَرَوْاْ		اشتروا	(for) which they have sold	ish'taraw
+4	2:89:3	w	بِهِۦٓ		بهي	with	bihi
+4	2:89:4	w	أَنفُسَهُمُۥٓ		انفسهم	themselves	anfusahum
+4	2:89:5	w	أَنْ		ان	that	an
+4	2:89:6	w	يَّكْفُرُواْ		يكفروا	they disbelieve	yakfurū
+4	2:89:7	w	بِمَآ		بما	in what	bimā
+4	2:89:8	w	أَنزَلَ		انزل	has revealed	anzala
+4	2:89:9	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+5	2:89:10	w	بَغْياً		بغيا	grudging	baghyan
+5	2:89:11	w	ࡰنْ		ان	that	an
+5	2:89:12	w	يُّنَزِّلَ		ينزل	sends down	yunazzila
+5	2:89:13	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+5	2:89:14	w	مِن		من	of	min
+5	2:89:15	w	فَضْلِهِۦ		فضلهي	His Grace	faḍlihi
+5	2:89:16	w	عَلَىٰ		علي	on	ʿalā
+5	2:89:17	w	مَنْ		من	whom	man
+5	2:89:18	w	يَّشَآءُ		يشا	He wills	yashāu
+5	2:89:19	w	مِنْ		من	from	min
+5	2:89:20	w	عِبَادِهِۦ࣌		عبادهي	His servants	ʿibādihi
+6	2:89:21	w	فَبَآءُو		فباو	So they have drawn (on themselves)	fabāū
+6	2:89:22	w	بِغَضَبٍ		بغضب	wrath	bighaḍabin
+6	2:89:23	w	عَلَىٰ		علي	upon	ʿalā
+6	2:89:24	w	غَضَبࣲ࣌		غضب	wrath	ghaḍabin
+6	2:89:25	w	وَلِلْكٜـٰفِرِينَ		وللكفرين	And for the disbelievers	walil'kāfirīna
+6	2:89:26	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+6	2:89:27	w	مُّهِينࣱ࣌		مهين	humiliating	muhīnun
+6	2:89:28	e	۝٨٩				
+7	2:90:1	w	وَإِذَا		واذا	And when	wa-idhā
+7	2:90:2	w	قِيلَ		قيل	it is said	qīla
+7	2:90:3	w	لَهُمُۥٓ		لهم	to them	lahum
+7	2:90:4	w	ءَامِنُواْ		امنوا	Believe	āminū
+7	2:90:5	w	بِمَآ		بما	in what	bimā
+7	2:90:6	w	أَنزَلَ		انزل	has revealed	anzala
+7	2:90:7	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+7	2:90:8	w	قَالُواْ		قالوا	they say	qālū
+7	2:90:9	w	نُومِنُ		نومن	We believe	nu'minu
+7	2:90:10	w	بِمَآ		بما	in what	bimā
+7	2:90:11	w	أُنزِلَ		انزل	was revealed	unzila
+8	2:90:12	w	عَلَيْنَا		علينا	to us	ʿalaynā
+8	2:90:13	w	وَيَكْفُرُونَ		ويكفرون	And they disbelieve	wayakfurūna
+8	2:90:14	w	بِمَا		بما	in what	bimā
+8	2:90:15	w	وَرَآءَهُۥ࣌		وراه	(is) besides it	warāahu
+8	2:90:16	w	وَهُوَ		وهو	while it	wahuwa
+8	2:90:17	w	ࡰ۬لْحَقُّ		الحق	(is) the truth	l-ḥaqu
+8	2:90:18	w	مُصَدِّقاࣰ		مصدقا	confirming	muṣaddiqan
+8	2:90:19	w	لِّمَا		لما	what	limā
+9	2:90:20	w	مَعَهُمْ࣌		معهم	(is) with them	maʿahum
+9	2:90:21	w	قُلْ		قل	Say	qul
+9	2:90:22	w	فَلِمَ		فلم	Then why	falima
+9	2:90:23	w	تَقْتُلُونَ		تقتلون	(did) you kill	taqtulūna
+9	2:90:24	w	أَنۢبِئَآءَ		انبيا	(the) Prophets	anbiyāa
+9	2:90:25	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+9	2:90:26	w	مِن		من	from	min
+9	2:90:27	w	قَبْلُ		قبل	before	qablu
+9	2:90:28	w	إِن		ان	if	in
+9	2:90:29	w	كُنتُم		كنتم	you were	kuntum
+10	2:90:30	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+10	2:90:31	e	۝٩٠				
+10	2:91:1	w	۞ وَلَقَدْ		ولقد	And indeed	walaqad
+10	2:91:2	w	جَآءَكُم		جاكم	came to you	jāakum
+10	2:91:3	w	مُّوسٜىٰ		موسي	Musa	mūsā
+10	2:91:4	w	بِالْبَيِّنَٰتِ		بالبينت	with [the] clear signs	bil-bayināti
+10	2:91:5	w	ثُمَّ		ثم	then	thumma
+11	2:91:6	w	ࡰٜتَّخَذتُّمُ		اتخذتم	you took	ittakhadhtumu
+11	2:91:7	w	ࡲ۬لْعِجْلَ		العجل	the calf	l-ʿij'la
+11	2:91:8	w	مِنۢ		من	from	min
+11	2:91:9	w	بَعْدِهِۦ		بعدهي	after him	baʿdihi
+11	2:91:10	w	وَأَنتُمْ		وانتم	and you	wa-antum
+11	2:91:11	w	ظَٰلِمُونَ࣌		ظلمون	(were) wrongdoers	ẓālimūna
+11	2:91:12	e	۝٩١				
+11	2:92:1	w	وَإِذَ		واذ	And when	wa-idh
+12	2:92:2	w	ࡰخَذْنَا		اخذنا	We took	akhadhnā
+12	2:92:3	w	مِيثَٰقَكُمْ		ميثقكم	your covenant	mīthāqakum
+12	2:92:4	w	وَرَفَعْنَا		ورفعنا	and We raised	warafaʿnā
+12	2:92:5	w	فَوْقَكُمُ		فوقكم	over you	fawqakumu
+12	2:92:6	w	ࡲ۬لطُّورَ࣌		الطور	the mount	l-ṭūra
+12	2:92:7	w	خُذُواْ		خذوا	Hold	khudhū
+13	2:92:8	w	مَآ		ما	what	mā
+13	2:92:9	w	ءَاتَيْنَٰكُم		اتينكم	We gave you	ātaynākum
+13	2:92:10	w	بِقُوَّةࣲ		بقوة	with firmness	biquwwatin
+13	2:92:11	w	وَاسْمَعُواْ࣌		واسمعوا	and listen	wa-is'maʿū
+13	2:92:12	w	قَالُواْ		قالوا	They said	qālū
+13	2:92:13	w	سَمِعْنَا		سمعنا	We heard	samiʿ'nā
+13	2:92:14	w	وَعَصَيْنَا࣌		وعصينا	and we disobeyed	waʿaṣaynā
+14	2:92:15	w	وَأُشْرِبُواْ		واشربوا	And they were made to drink	wa-ush'ribū
+14	2:92:16	w	فِے		في	in	fī
+14	2:92:17	w	قُلُوبِهِمُ		قلوبهم	their hearts	qulūbihimu
+14	2:92:18	w	ࡲ۬لْعِجْلَ		العجل	(love of) the calf	l-ʿij'la
+14	2:92:19	w	بِكُفْرِهِمْ࣌		بكفرهم	because of their disbelief	bikuf'rihim
+14	2:92:20	w	قُلْ		قل	Say	qul
+14	2:92:21	w	بِيسَمَا		بيسما	Evil (is) that	bi'samā
+15	2:92:22	w	يَامُرُكُم		يامركم	orders you (to do) it	yamurukum
+15	2:92:23	w	بِهِۦٓ		بهي	with	bihi
+15	2:92:24	w	إِيمَٰنُكُمُۥٓ		ايمنكم	your faith	īmānukum
+15	2:92:25	w	إِن		ان	if	in
+15	2:92:26	w	كُنتُم		كنتم	you are	kuntum
+15	2:92:27	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+15	2:92:28	e	۝٩٢				

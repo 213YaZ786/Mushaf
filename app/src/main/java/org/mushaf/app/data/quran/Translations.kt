@@ -157,7 +157,9 @@ class Translations(private val context: Context, private val quran: Quran, priva
     /** The meaning of [key] in translation [id], empty when it is not on the phone. */
     suspend fun text(id: String, key: AyahKey): String {
         if (id == BUNDLED.id) return quran.english(key)
-        return map(id)[key].orEmpty()
+        val m = map(id)
+        // Numbered as Hafs: a Warsh ayah shows the meaning of the Hafs ayat its words are in.
+        return quran.hafsKeys(key).joinToString(" ") { m[it].orEmpty() }.trim()
     }
 
     private suspend fun map(id: String): Map<AyahKey, String> = texts.get(id) ?: withContext(Dispatchers.IO) {

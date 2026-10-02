@@ -1,0 +1,42 @@
+1	2:0:0	t					
+2	2:0:0	b					
+3	2:1:1	w	أَلَٓمِّٓ࣌		الم	Alif Laam Meem	alif-lam-meem
+3	2:1:2	w	ذَٰلِكَ		ذلك	That	dhālika
+3	2:1:3	w	ࡰ۬لْكِتَٰبُ		الكتب	(is) the book	l-kitābu
+3	2:1:4	w	لَا		لا	no	lā
+3	2:1:5	w	رَيْبَ࣌		ريب	doubt	rayba
+3	2:1:6	w	فِيهِ		فيه	in it	fīhi
+3	2:1:7	w	هُدىࣰ		هدي	a Guidance	hudan
+4	2:1:8	w	لِّلْمُتَّقِينَ		للمتقين	for the God-conscious	lil'muttaqīna
+4	2:1:9	e	۝١				
+4	2:2:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+4	2:2:2	w	يُومِنُونَ		يومنون	believe	yu'minūna
+4	2:2:3	w	بِالْغَيْبِ		بالغيب	in the unseen	bil-ghaybi
+4	2:2:4	w	وَيُقِيمُونَ		ويقيمون	and establish	wayuqīmūna
+4	2:2:5	w	ࡰ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+5	2:2:6	w	وَمِمَّا		ومما	and out of what	wamimmā
+5	2:2:7	w	رَزَقْنَٰهُمْ		رزقنهم	We have provided them	razaqnāhum
+5	2:2:8	w	يُنفِقُونَ࣌		ينفقون	they spend	yunfiqūna
+5	2:2:9	e	۝٢				
+5	2:3:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+5	2:3:2	w	يُومِنُونَ		يومنون	believe	yu'minūna
+5	2:3:3	w	بِمَآ		بما	in what	bimā
+5	2:3:4	w	أُنزِلَ		انزل	(is) sent down	unzila
+6	2:3:5	w	إِلَيْكَ		اليك	to you	ilayka
+6	2:3:6	w	وَمَآ		وما	and what	wamā
+6	2:3:7	w	أُنزِلَ		انزل	was sent down	unzila
+6	2:3:8	w	مِن		من	from	min
+6	2:3:9	w	قَبْلِكَ		قبلك	before you	qablika
+6	2:3:10	w	وَبِالَاخِرَةِ		وبالاخرة	and in the Hereafter	wabil-ākhirati
+6	2:3:11	w	هُمْ		هم	they	hum
+6	2:3:12	w	يُوقِنُونَ		يوقنون	firmly believe	yūqinūna
+6	2:3:13	e	۝٣				
+7	2:4:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+7	2:4:2	w	عَلَىٰ		علي	(are) on	ʿalā
+7	2:4:3	w	هُدىࣰ		هدي	Guidance	hudan
+7	2:4:4	w	مِّن		من	from	min
+7	2:4:5	w	رَّبِّهِمْ࣌		ربهم	their Lord	rabbihim
+7	2:4:6	w	وَأُوْلَٰٓئِكَ		واوليك	and those	wa-ulāika
+8	2:4:7	w	هُمُ		هم	they	humu
+8	2:4:8	w	ࡲ۬لْمُفْلِحُونَ࣌		المفلحون	(are) the successful ones	l-muf'liḥūna
+8	2:4:9	e	۝٤				

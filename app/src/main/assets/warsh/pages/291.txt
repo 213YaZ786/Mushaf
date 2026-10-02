@@ -1,0 +1,151 @@
+1	17:87:1	w	ࡴلَّا		الا	Except	illā
+1	17:87:2	w	رَحْمَةࣰ		رحمة	a mercy	raḥmatan
+1	17:87:3	w	مِّن		من	from	min
+1	17:87:4	w	رَّبِّكَ࣌		ربك	your Lord	rabbika
+1	17:87:5	w	إِنَّ		ان	Indeed	inna
+1	17:87:6	w	فَضْلَهُۥ		فضله	His Bounty	faḍlahu
+1	17:87:7	w	كَانَ		كان	is	kāna
+1	17:87:8	w	عَلَيْكَ		عليك	upon you	ʿalayka
+1	17:87:9	w	كَبِيراࣰ࣌		كبيرا	great	kabīran
+1	17:87:10	e	۝٨٧				
+1	17:88:1	w	قُل		قل	Say	qul
+2	17:88:2	w	لَّئِنِ		لين	If	la-ini
+2	17:88:3	w	ࡴٜجْتَمَعَتِ		اجتمعت	gathered	ij'tamaʿati
+2	17:88:4	w	ࡴ۬لِانسُ		الانس	the mankind	l-insu
+2	17:88:5	w	وَالْجِنُّ		والجن	and the jinn	wal-jinu
+2	17:88:6	w	عَلَىٰٓ		علي	to	ʿalā
+2	17:88:7	w	أَنْ		ان	[that]	an
+2	17:88:8	w	يَّاتُواْ		ياتوا	bring	yatū
+2	17:88:9	w	بِمِثْلِ		بمثل	the like	bimith'li
+2	17:88:10	w	هَٰذَا		هذا	(of) this	hādhā
+2	17:88:11	w	ࡰ۬لْقُرْءَانِ		القران	Quran	l-qur'āni
+3	17:88:12	w	لَا		لا	not	lā
+3	17:88:13	w	يَاتُونَ		ياتون	they (could) bring	yatūna
+3	17:88:14	w	بِمِثْلِهِۦ		بمثلهي	the like of it	bimith'lihi
+3	17:88:15	w	وَلَوْ		ولو	even if	walaw
+3	17:88:16	w	كَانَ		كان	were	kāna
+3	17:88:17	w	بَعْضُهُمْ		بعضهم	some of them	baʿḍuhum
+3	17:88:18	w	لِبَعْضࣲ		لبعض	to some others	libaʿḍin
+3	17:88:19	w	ظَهِيراࣰ࣌		ظهيرا	assistants	ẓahīran
+3	17:88:20	e	۝٨٨				
+4	17:89:1	w	وَلَقَدْ		ولقد	And verily	walaqad
+4	17:89:2	w	صَرَّفْنَا		صرفنا	We have explained	ṣarrafnā
+4	17:89:3	w	لِلنَّاسِ		للناس	to mankind	lilnnāsi
+4	17:89:4	w	فِے		في	in	fī
+4	17:89:5	w	هَٰذَا		هذا	this	hādhā
+4	17:89:6	w	ࡰ۬لْقُرْءَانِ		القران	Quran	l-qur'āni
+4	17:89:7	w	مِن		من	from	min
+4	17:89:8	w	كُلِّ		كل	every	kulli
+4	17:89:9	w	مَثَلࣲ		مثل	example	mathalin
+4	17:89:10	w	فَأَبٜىٰٓ		فابي	but refused	fa-abā
+5	17:89:11	w	أَكْثَرُ		اكثر	most	aktharu
+5	17:89:12	w	ࡲ۬لنَّاسِ		الناس	(of) the mankind	l-nāsi
+5	17:89:13	w	إِلَّا		الا	except	illā
+5	17:89:14	w	كُفُوراࣰ࣌		كفورا	disbelief	kufūran
+5	17:89:15	e	۝٨٩				
+5	17:90:1	w	وَقَالُواْ		وقالوا	And they say	waqālū
+5	17:90:2	w	لَن		لن	Never	lan
+5	17:90:3	w	نُّومِنَ		نومن	we will believe	nu'mina
+5	17:90:4	w	لَكَ		لك	in you	laka
+5	17:90:5	w	حَتَّىٰ		حتي	until	ḥattā
+5	17:90:6	w	تُفَجِّرَ		تفجر	you cause to gush forth	tafjura
+6	17:90:7	w	لَنَا		لنا	for us	lanā
+6	17:90:8	w	مِنَ		من	from	mina
+6	17:90:9	w	ࡰ۬لَارْضِ		الارض	the earth	l-arḍi
+6	17:90:10	w	يَنۢبُوعاً		ينبوعا	a spring	yanbūʿan
+6	17:90:11	e	۝٩٠				
+6	17:91:1	w	ࡰوْ		او	Or	aw
+6	17:91:2	w	تَكُونَ		تكون	you have	takūna
+6	17:91:3	w	لَكَ		لك	for you	laka
+6	17:91:4	w	جَنَّةࣱ		جنة	a garden	jannatun
+6	17:91:5	w	مِّن		من	of	min
+6	17:91:6	w	نَّخِيلࣲ		نخيل	date-palms	nakhīlin
+7	17:91:7	w	وَعِنَبࣲ		وعنب	and grapes	waʿinabin
+7	17:91:8	w	فَتُفَجِّرَ		فتفجر	and cause to gush forth	fatufajjira
+7	17:91:9	w	ࡰ۬لَانْهَٰرَ		الانهر	the rivers	l-anhāra
+7	17:91:10	w	خِلَٰلَهَا		خللها	within them	khilālahā
+7	17:91:11	w	تَفْجِيراً		تفجيرا	abundantly	tafjīran
+7	17:91:12	e	۝٩١				
+7	17:92:1	w	ࡰوْ		او	Or	aw
+7	17:92:2	w	تُسْقِطَ		تسقط	you cause to fall	tus'qiṭa
+7	17:92:3	w	ࡰ۬لسَّمَآءَ		السما	the sky	l-samāa
+8	17:92:4	w	كَمَا		كما	as	kamā
+8	17:92:5	w	زَعَمْتَ		زعمت	you have claimed	zaʿamta
+8	17:92:6	w	عَلَيْنَا		علينا	upon us	ʿalaynā
+8	17:92:7	w	كِسَفاً		كسفا	(in) pieces	kisafan
+8	17:92:8	w	ࡰوْ		او	or	aw
+8	17:92:9	w	تَاتِيَ		تاتي	you bring	tatiya
+8	17:92:10	w	بِاللَّهِ		بالله	Allah	bil-lahi
+8	17:92:11	w	وَالْمَلَٰٓئِكَةِ		والمليكة	and the Angels	wal-malāikati
+9	17:92:12	w	قَبِيلاً		قبيلا	before (us)	qabīlan
+9	17:92:13	e	۝٩٢				
+9	17:93:1	w	ࡰوْ		او	Or	aw
+9	17:93:2	w	يَكُونَ		يكون	is	yakūna
+9	17:93:3	w	لَكَ		لك	for you	laka
+9	17:93:4	w	بَيْتࣱ		بيت	a house	baytun
+9	17:93:5	w	مِّن		من	of	min
+9	17:93:6	w	زُخْرُفٍ		زخرف	ornament	zukh'rufin
+9	17:93:7	w	ࡰوْ		او	or	aw
+9	17:93:8	w	تَرْقٜىٰ		ترقي	you ascend	tarqā
+9	17:93:9	w	فِے		في	into	fī
+10	17:93:10	w	ࡴ۬لسَّمَآءِ		السما	the sky	l-samāi
+10	17:93:11	w	وَلَن		ولن	And never	walan
+10	17:93:12	w	نُّومِنَ		نومن	we will believe	nu'mina
+10	17:93:13	w	لِرُقِيِّكَ		لرقيك	in your ascension	liruqiyyika
+10	17:93:14	w	حَتَّىٰ		حتي	until	ḥattā
+10	17:93:15	w	تُنَزِّلَ		تنزل	you bring down	tunazzila
+10	17:93:16	w	عَلَيْنَا		علينا	to us	ʿalaynā
+10	17:93:17	w	كِتَٰباࣰ		كتبا	a book	kitāban
+10	17:93:18	w	نَّقْرَؤُهُۥ࣌		نقروه	we could read it	naqra-uhu
+10	17:93:19	w	قُلْ		قل	Say	qul
+11	17:93:20	w	سُبْحَٰنَ		سبحن	Glorified (is)	sub'ḥāna
+11	17:93:21	w	رَبِّے		ربي	my Lord	rabbī
+11	17:93:22	w	هَلْ		هل	What	hal
+11	17:93:23	w	كُنتُ		كنت	am I	kuntu
+11	17:93:24	w	إِلَّا		الا	but	illā
+11	17:93:25	w	بَشَراࣰ		بشرا	a human	basharan
+11	17:93:26	w	رَّسُولاࣰ࣌		رسولا	a Messenger	rasūlan
+11	17:93:27	e	۝٩٣				
+11	17:94:1	w	وَمَا		وما	And what	wamā
+11	17:94:2	w	مَنَعَ		منع	prevented	manaʿa
+11	17:94:3	w	ࡰ۬لنَّاسَ		الناس	the people	l-nāsa
+12	17:94:4	w	أَنْ		ان	that	an
+12	17:94:5	w	يُّومِنُوٓاْ		يومنوا	they believe	yu'minū
+12	17:94:6	w	إِذْ		اذ	when	idh
+12	17:94:7	w	جَآءَهُمُ		جاهم	came to them	jāahumu
+12	17:94:8	w	ࡲ۬لْهُدٜىٰٓ		الهدي	the guidance	l-hudā
+12	17:94:9	w	إِلَّآ		الا	except	illā
+12	17:94:10	w	أَن		ان	that	an
+12	17:94:11	w	قَالُوٓاْ		قالوا	they said	qālū
+12	17:94:12	w	أَبَعَثَ		ابعث	Has Allah sent	abaʿatha
+12	17:94:13	w	ࡰ۬للَّهُ		الله	Has Allah sent	l-lahu
+12	17:94:14	w	بَشَراࣰ		بشرا	a human	basharan
+13	17:94:15	w	رَّسُولاࣰ࣌		رسولا	Messenger	rasūlan
+13	17:94:16	e	۝٩٤				
+13	17:95:1	w	قُل		قل	Say	qul
+13	17:95:2	w	لَّوْ		لو	If	law
+13	17:95:3	w	كَانَ		كان	(there) were	kāna
+13	17:95:4	w	فِے		في	in	fī
+13	17:95:5	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+13	17:95:6	w	مَلَٰٓئِكَةࣱ		مليكة	Angels	malāikatun
+13	17:95:7	w	يَمْشُونَ		يمشون	walking	yamshūna
+13	17:95:8	w	مُطْمَئِنِّينَ		مطمينين	securely	muṭ'ma-innīna
+14	17:95:9	w	لَنَزَّلْنَا		لنزلنا	surely We (would) have sent down	lanazzalnā
+14	17:95:10	w	عَلَيْهِم		عليهم	to them	ʿalayhim
+14	17:95:11	w	مِّنَ		من	from	mina
+14	17:95:12	w	ࡰ۬لسَّمَآءِ		السما	the heaven	l-samāi
+14	17:95:13	w	مَلَكاࣰ		ملكا	an Angel	malakan
+14	17:95:14	w	رَّسُولاࣰ࣌		رسولا	(as) a Messenger	rasūlan
+14	17:95:15	e	۝٩٥				
+14	17:96:1	w	قُلْ		قل	Say	qul
+14	17:96:2	w	كَفٜىٰ		كفي	Sufficient is	kafā
+14	17:96:3	w	بِاللَّهِ		بالله	Allah	bil-lahi
+15	17:96:4	w	شَهِيداَۢ		شهيدا	(as) a witness	shahīdan
+15	17:96:5	w	بَيْنِے		بيني	between me	baynī
+15	17:96:6	w	وَبَيْنَكُمُۥٓ࣌		وبينكم	and between you	wabaynakum
+15	17:96:7	w	إِنَّهُۥ		انه	Indeed, He	innahu
+15	17:96:8	w	كَانَ		كان	is	kāna
+15	17:96:9	w	بِعِبَادِهِۦ		بعبادهي	of His slaves	biʿibādihi
+15	17:96:10	w	خَبِيراَۢ		خبيرا	All-Aware	khabīran
+15	17:96:11	w	بَصِيراࣰ࣌		بصيرا	All-Seer	baṣīran
+15	17:96:12	e	۝٩٦				

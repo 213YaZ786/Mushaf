@@ -1,0 +1,122 @@
+1	8:34:1	w	وَمَا		وما	But what	wamā
+1	8:34:2	w	لَهُمُۥٓ		لهم	(is) for them	lahum
+1	8:34:3	w	أَلَّا		الا	that not	allā
+1	8:34:4	w	يُعَذِّبَهُمُ		يعذبهم	(should) punish them	yuʿadhibahumu
+1	8:34:5	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+1	8:34:6	w	وَهُمْ		وهم	while they	wahum
+1	8:34:7	w	يَصُدُّونَ		يصدون	hinder (people)	yaṣuddūna
+1	8:34:8	w	عَنِ		عن	from	ʿani
+1	8:34:9	w	ࡴ۬لْمَسْجِدِ		المسجد	Al-Masjid	l-masjidi
+2	8:34:10	w	ࡴ۬لْحَرَامِ		الحرام	Al-Haraam	l-ḥarāmi
+2	8:34:11	w	وَمَا		وما	while not	wamā
+2	8:34:12	w	كَانُوٓاْ		كانوا	they are	kānū
+2	8:34:13	w	أَوْلِيَآءَهُۥٓ࣌		اولياه	its guardians	awliyāahu
+2	8:34:14	w	إِنَ		ان	Not (can be)	in
+2	8:34:15	w	ࡰوْلِيَآؤُهُۥٓ		اولياوه	its guardians	awliyāuhu
+2	8:34:16	w	إِلَّا		الا	except	illā
+2	8:34:17	w	ࡰ۬لْمُتَّقُونَ࣌		المتقون	the ones who fear Allah	l-mutaqūna
+3	8:34:18	w	وَلَٰكِنَّ		ولكن	but	walākinna
+3	8:34:19	w	أَكْثَرَهُمْ		اكثرهم	most of them	aktharahum
+3	8:34:20	w	لَا		لا	(do) not	lā
+3	8:34:21	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+3	8:34:22	e	۝٣٤				
+3	8:35:1	w	وَمَا		وما	And not	wamā
+3	8:35:2	w	كَانَ		كان	was	kāna
+3	8:35:3	w	صَلَاتُهُمْ		صلاتهم	their prayer	ṣalātuhum
+4	8:35:4	w	عِندَ		عند	at	ʿinda
+4	8:35:5	w	ࡰ۬لْبَيْتِ		البيت	the House	l-bayti
+4	8:35:6	w	إِلَّا		الا	except	illā
+4	8:35:7	w	مُكَآءࣰ		مكا	whistling	mukāan
+4	8:35:8	w	وَتَصْدِيَةࣰ࣌		وتصدية	and clapping	wataṣdiyatan
+4	8:35:9	w	فَذُوقُواْ		فذوقوا	So taste	fadhūqū
+4	8:35:10	w	ࡲ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+5	8:35:11	w	بِمَا		بما	because	bimā
+5	8:35:12	w	كُنتُمْ		كنتم	you used to	kuntum
+5	8:35:13	w	تَكْفُرُونَ࣌		تكفرون	disbelieve	takfurūna
+5	8:35:14	e	۝٣٥				
+5	8:36:1	w	إِنَّ		ان	Indeed	inna
+5	8:36:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	8:36:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+5	8:36:4	w	يُنفِقُونَ		ينفقون	they spend	yunfiqūna
+6	8:36:5	w	أَمْوَٰلَهُمْ		امولهم	their wealth	amwālahum
+6	8:36:6	w	لِيَصُدُّواْ		ليصدوا	to hinder (people)	liyaṣuddū
+6	8:36:7	w	عَن		عن	from	ʿan
+6	8:36:8	w	سَبِيلِ		سبيل	(the) way	sabīli
+6	8:36:9	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+6	8:36:10	w	فَسَيُنفِقُونَهَا		فسينفقونها	So they will spend it	fasayunfiqūnahā
+6	8:36:11	w	ثُمَّ		ثم	then	thumma
+6	8:36:12	w	تَكُونُ		تكون	it will be	takūnu
+7	8:36:13	w	عَلَيْهِمْ		عليهم	for them	ʿalayhim
+7	8:36:14	w	حَسْرَةࣰ		حسرة	a regret	ḥasratan
+7	8:36:15	w	ثُمَّ		ثم	then	thumma
+7	8:36:16	w	يُغْلَبُونَ࣌		يغلبون	they will be overcome	yugh'labūna
+7	8:36:17	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+7	8:36:18	w	كَفَرُوٓاْ		كفروا	disbelieve	kafarū
+7	8:36:19	w	إِلَىٰ		الي	to	ilā
+7	8:36:20	w	جَهَنَّمَ		جهنم	Hell	jahannama
+8	8:36:21	w	يُحْشَرُونَ		يحشرون	they will be gathered	yuḥ'sharūna
+8	8:36:22	e	۝٣٦				
+8	8:37:1	w	لِيَمِيزَ		ليميز	That may distinguish	liyamīza
+8	8:37:2	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+8	8:37:3	w	ࡲ۬لْخَبِيثَ		الخبيث	the wicked	l-khabītha
+8	8:37:4	w	مِنَ		من	from	mina
+8	8:37:5	w	ࡰ۬لطَّيِّبِ		الطيب	the good	l-ṭayibi
+8	8:37:6	w	وَيَجْعَلَ		ويجعل	and place	wayajʿala
+9	8:37:7	w	ࡰ۬لْخَبِيثَ		الخبيث	the wicked	l-khabītha
+9	8:37:8	w	بَعْضَهُۥ		بعضه	some of them	baʿḍahu
+9	8:37:9	w	عَلَىٰ		علي	on	ʿalā
+9	8:37:10	w	بَعْضࣲ		بعض	others	baʿḍin
+9	8:37:11	w	فَيَرْكُمَهُۥ		فيركمه	and heap them	fayarkumahu
+9	8:37:12	w	جَمِيعاࣰ		جميعا	all together	jamīʿan
+9	8:37:13	w	فَيَجْعَلَهُۥ		فيجعله	and put them	fayajʿalahu
+10	8:37:14	w	فِے		في	in	fī
+10	8:37:15	w	جَهَنَّمَ࣌		جهنم	Hell	jahannama
+10	8:37:16	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+10	8:37:17	w	هُمُ		هم	they	humu
+10	8:37:18	w	ࡲ۬لْخَٰسِرُونَ࣌		الخسرون	(are) the losers	l-khāsirūna
+10	8:37:19	e	۝٣٧				
+10	8:38:1	w	قُل		قل	Say	qul
+10	8:38:2	w	لِّلذِينَ		للذين	to those who	lilladhīna
+11	8:38:3	w	كَفَرُوٓاْ		كفروا	disbelieve	kafarū
+11	8:38:4	w	إِنْ		ان	if	in
+11	8:38:5	w	يَّنتَهُواْ		ينتهوا	they cease	yantahū
+11	8:38:6	w	يُغْفَرْ		يغفر	will be forgiven	yugh'far
+11	8:38:7	w	لَهُم		لهم	for them	lahum
+11	8:38:8	w	مَّا		ما	what	mā
+11	8:38:9	w	قَدْ		قد	[verily]	qad
+11	8:38:10	w	سَلَفَ࣌		سلف	(is) past	salafa
+11	8:38:11	w	وَإِنْ		وان	But if	wa-in
+11	8:38:12	w	يَّعُودُواْ		يعودوا	they return	yaʿūdū
+12	8:38:13	w	فَقَدْ		فقد	then verily	faqad
+12	8:38:14	w	مَضَتْ		مضت	preceded	maḍat
+12	8:38:15	w	سُنَّتُ		سنت	(the) practice	sunnatu
+12	8:38:16	w	ࡲ۬لَاوَّلِينَ࣌		الاولين	(of) the former (people)	l-awalīna
+12	8:38:17	e	۝٣٨				
+12	8:39:1	w	وَقَٰتِلُوهُمْ		وقتلوهم	And fight them	waqātilūhum
+12	8:39:2	w	حَتَّىٰ		حتي	until	ḥattā
+13	8:39:3	w	لَا		لا	not	lā
+13	8:39:4	w	تَكُونَ		تكون	there is	takūna
+13	8:39:5	w	فِتْنَةࣱ		فتنة	oppression	fit'natun
+13	8:39:6	w	وَيَكُونَ		ويكون	and is	wayakūna
+13	8:39:7	w	ࡰ۬لدِّينُ		الدين	the religion	l-dīnu
+13	8:39:8	w	كُلُّهُۥ		كله	all of it	kulluhu
+13	8:39:9	w	لِلهِ࣌		لله	for Allah	lillahi
+13	8:39:10	w	فَإِنِ		فان	But if	fa-ini
+14	8:39:11	w	ࡴٜنتَهَوْاْ		انتهوا	they cease	intahaw
+14	8:39:12	w	فَإِنَّ		فان	then indeed	fa-inna
+14	8:39:13	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+14	8:39:14	w	بِمَا		بما	of what	bimā
+14	8:39:15	w	يَعْمَلُونَ		يعملون	they do	yaʿmalūna
+14	8:39:16	w	بَصِيرࣱ࣌		بصير	(is) All-Seer	baṣīrun
+14	8:39:17	e	۝٣٩				
+14	8:40:1	w	وَإِن		وان	And if	wa-in
+14	8:40:2	w	تَوَلَّوْاْ		تولوا	they turn away	tawallaw
+15	8:40:3	w	فَاعْلَمُوٓاْ		فاعلموا	then know	fa-iʿ'lamū
+15	8:40:4	w	أَنَّ		ان	that	anna
+15	8:40:5	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	8:40:6	w	مَوْلٜيٰكُمْ࣌		موليكم	(is) your Protector	mawlākum
+15	8:40:7	w	نِعْمَ		نعم	Excellent	niʿ'ma
+15	8:40:8	w	ࡰ۬لْمَوْلٜىٰ࣌		المولي	(is) the Protector	l-mawlā
+15	8:40:9	w	وَنِعْمَ		ونعم	and Excellent	waniʿ'ma
+15	8:40:10	w	ࡰ۬لنَّصِيرُ࣌		النصير	(is) the Helper	l-naṣīru
+15	8:40:11	e	۝٤٠				

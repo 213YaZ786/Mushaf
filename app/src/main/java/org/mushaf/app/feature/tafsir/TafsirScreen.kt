@@ -36,6 +36,7 @@ import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import org.koin.compose.koinInject
+import org.mushaf.app.ui.theme.quranFont
 import org.mushaf.app.data.offline.Pack
 import org.mushaf.app.feature.offline.OfferDownload
 import org.mushaf.app.R
@@ -70,6 +71,8 @@ fun TafsirScreen(key: AyahKey, onBack: () -> Unit) {
     val settings by store.settings.collectAsState()
     val haptics = rememberHaptics()
     val hafs = remember { FontFamily(Font(R.font.uthmanic_hafs)) }
+    // The ayah in its riwayah's font; the tafsir's own Arabic in the Hafs font.
+    val ayahFont = quranFont()
     val book = Tafsir.BOOKS.firstOrNull { it.id == settings.tafsir } ?: Tafsir.BOOKS.first()
     val surah by produceState("", key.surah) { value = quran.surah(key.surah).name }
     val arabic by produceState("", key) {
@@ -103,7 +106,7 @@ fun TafsirScreen(key: AyahKey, onBack: () -> Unit) {
             ZoneSurface(shape = RoundedCornerShape(24.dp), modifier = Modifier.fillMaxWidth()) {
                 Text(
                     arabic,
-                    style = TextStyle(fontFamily = hafs, fontSize = 28.sp, lineHeight = 52.sp, textAlign = TextAlign.Right),
+                    style = TextStyle(fontFamily = ayahFont, fontSize = 28.sp, lineHeight = 52.sp, textAlign = TextAlign.Right),
                     modifier = Modifier.fillMaxWidth().padding(18.dp)
                 )
             }

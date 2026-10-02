@@ -1,0 +1,122 @@
+1	4:12:1	w	وَلَكُمْ		ولكم	And for you	walakum
+1	4:12:2	w	نِصْفُ		نصف	(is) half	niṣ'fu
+1	4:12:3	w	مَا		ما	(of) what	mā
+1	4:12:4	w	تَرَكَ		ترك	(is) left	taraka
+1	4:12:5	w	أَزْوَٰجُكُمُۥٓ		ازوجكم	by your wives	azwājukum
+1	4:12:6	w	إِن		ان	if	in
+1	4:12:7	w	لَّمْ		لم	not	lam
+1	4:12:8	w	يَكُن		يكن	is	yakun
+2	4:12:9	w	لَّهُنَّ		لهن	for them	lahunna
+2	4:12:10	w	وَلَدࣱ࣌		ولد	a child	waladun
+2	4:12:11	w	فَإِن		فان	But if	fa-in
+2	4:12:12	w	كَانَ		كان	is	kāna
+2	4:12:13	w	لَهُنَّ		لهن	for them	lahunna
+2	4:12:14	w	وَلَدࣱ		ولد	a child	waladun
+2	4:12:15	w	فَلَكُمُ		فلكم	then for you	falakumu
+2	4:12:16	w	ࡲ۬لرُّبُعُ		الربع	(is) the fourth	l-rubuʿu
+2	4:12:17	w	مِمَّا		مما	of what	mimmā
+3	4:12:18	w	تَرَكْنَ		تركن	they left	tarakna
+3	4:12:19	w	مِنۢ		من	from	min
+3	4:12:20	w	بَعْدِ		بعد	after	baʿdi
+3	4:12:21	w	وَصِيَّةࣲ		وصية	any will	waṣiyyatin
+3	4:12:22	w	يُوصِينَ		يوصين	they have made	yūṣīna
+3	4:12:23	w	بِهَآ		بها	[for which]	bihā
+3	4:12:24	w	أَوْ		او	or	aw
+3	4:12:25	w	دَيْنࣲ࣌		دين	any debt	daynin
+4	4:12:26	w	وَلَهُنَّ		ولهن	And for them	walahunna
+4	4:12:27	w	ࡰ۬لرُّبُعُ		الربع	(is) the fourth	l-rubuʿu
+4	4:12:28	w	مِمَّا		مما	of what	mimmā
+4	4:12:29	w	تَرَكْتُمُۥٓ		تركتم	you left	taraktum
+4	4:12:30	w	إِن		ان	if	in
+4	4:12:31	w	لَّمْ		لم	not	lam
+4	4:12:32	w	يَكُن		يكن	is	yakun
+4	4:12:33	w	لَّكُمْ		لكم	for you	lakum
+4	4:12:34	w	وَلَدࣱ࣌		ولد	a child	waladun
+5	4:12:35	w	فَإِن		فان	But if	fa-in
+5	4:12:36	w	كَانَ		كان	is	kāna
+5	4:12:37	w	لَكُمْ		لكم	for you	lakum
+5	4:12:38	w	وَلَدࣱ		ولد	a child	waladun
+5	4:12:39	w	فَلَهُنَّ		فلهن	then for them	falahunna
+5	4:12:40	w	ࡰ۬لثُّمُنُ		الثمن	(is) the eighth	l-thumunu
+5	4:12:41	w	مِمَّا		مما	of what	mimmā
+5	4:12:42	w	تَرَكْتُم		تركتم	you left	taraktum
+6	4:12:43	w	مِّنۢ		من	from	min
+6	4:12:44	w	بَعْدِ		بعد	after	baʿdi
+6	4:12:45	w	وَصِيَّةࣲ		وصية	any will	waṣiyyatin
+6	4:12:46	w	تُوصُونَ		توصون	you have made	tūṣūna
+6	4:12:47	w	بِهَآ		بها	[for which]	bihā
+6	4:12:48	w	أَوْ		او	or	aw
+6	4:12:49	w	دَيْنࣲ࣌		دين	any debt	daynin
+6	4:12:50	w	وَإِن		وان	And if	wa-in
+6	4:12:51	w	كَانَ		كان	[is]	kāna
+7	4:12:52	w	رَجُلࣱ		رجل	a man	rajulun
+7	4:12:53	w	يُورَثُ		يورث	(whose wealth) is to be inherited	yūrathu
+7	4:12:54	w	كَلَٰلَةً		كللة	(has) no parent or child	kalālatan
+7	4:12:55	w	ࡰوِ		او	or	awi
+7	4:12:56	w	ࡴٜمْرَأَةࣱ		امراة	a women	im'ra-atun
+7	4:12:57	w	وَلَهُۥٓ		وله	and for him	walahu
+7	4:12:58	w	أَخٌ		اخ	(is) a brother	akhun
+7	4:12:59	w	ࡰوُ		او	or	aw
+7	4:12:60	w	ࡳخْتࣱ		اخت	a sister	ukh'tun
+7	4:12:61	w	فَلِكُلِّ		فلكل	then for each	falikulli
+8	4:12:62	w	وَٰحِدࣲ		وحد	one	wāḥidin
+8	4:12:63	w	مِّنْهُمَا		منهما	of (the) two	min'humā
+8	4:12:64	w	ࡰ۬لسُّدُسُ࣌		السدس	(is) the sixth	l-sudusu
+8	4:12:65	w	فَإِن		فان	But if	fa-in
+8	4:12:66	w	كَانُوٓاْ		كانوا	they are	kānū
+8	4:12:67	w	أَكْثَرَ		اكثر	more	akthara
+8	4:12:68	w	مِن		من	than	min
+8	4:12:69	w	ذَٰلِكَ		ذلك	that	dhālika
+9	4:12:70	w	فَهُمْ		فهم	then they	fahum
+9	4:12:71	w	شُرَكَآءُ		شركا	(are) partners	shurakāu
+9	4:12:72	w	فِے		في	in	fī
+9	4:12:73	w	ࡴ۬لثُّلُثِ		الثلث	the third	l-thuluthi
+9	4:12:74	w	مِنۢ		من	from	min
+9	4:12:75	w	بَعْدِ		بعد	after	baʿdi
+9	4:12:76	w	وَصِيَّةࣲ		وصية	any will	waṣiyyatin
+9	4:12:77	w	يُوصِے		يوصي	was made	yūṣā
+10	4:12:78	w	بِهَآ		بها	[for which]	bihā
+10	4:12:79	w	أَوْ		او	or	aw
+10	4:12:80	w	دَيْنٍ		دين	any debt	daynin
+10	4:12:81	w	غَيْرَ		غير	without	ghayra
+10	4:12:82	w	مُضَآرࣲّ࣌		مضار	(being) harmful	muḍārrin
+10	4:12:83	w	وَصِيَّةࣰ		وصية	An ordinance	waṣiyyatan
+10	4:12:84	w	مِّنَ		من	from	mina
+10	4:12:85	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+10	4:12:86	w	وَاللَّهُ		والله	And Allah	wal-lahu
+11	4:12:87	w	عَلِيمٌ		عليم	(is) All-Knowing	ʿalīmun
+11	4:12:88	w	حَلِيمࣱ࣌		حليم	All-Forbearing	ḥalīmun
+11	4:12:89	e	۝١٢				
+11	4:13:1	w	۞ تِلْكَ		تلك	These	til'ka
+11	4:13:2	w	حُدُودُ		حدود	(are the) limits	ḥudūdu
+11	4:13:3	w	ࡲ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+11	4:13:4	w	وَمَنْ		ومن	and whoever	waman
+11	4:13:5	w	يُّطِعِ		يطع	obeys	yuṭiʿi
+11	4:13:6	w	ࡴ۬للَّهَ		الله	Allah	l-laha
+12	4:13:7	w	وَرَسُولَهُۥ		ورسوله	and His Messenger	warasūlahu
+12	4:13:8	w	نُدْخِلْهُ		ندخله	He will admit him	yud'khil'hu
+12	4:13:9	w	جَنَّٰتࣲ		جنت	(to) Gardens	jannātin
+12	4:13:10	w	تَجْرِے		تجري	flows	tajrī
+12	4:13:11	w	مِن		من	from	min
+12	4:13:12	w	تَحْتِهَا		تحتها	underneath them	taḥtihā
+13	4:13:13	w	ࡰ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+13	4:13:14	w	خَٰلِدِينَ		خلدين	(will) abide forever	khālidīna
+13	4:13:15	w	فِيهَا࣌		فيها	in it	fīhā
+13	4:13:16	w	وَذَٰلِكَ		وذلك	And that	wadhālika
+13	4:13:17	w	ࡰ۬لْفَوْزُ		الفوز	(is) the success	l-fawzu
+13	4:13:18	w	ࡲ۬لْعَظِيمُ࣌		العظيم	[the] great	l-ʿaẓīmu
+13	4:13:19	e	۝١٣				
+14	4:14:1	w	وَمَنْ		ومن	And whoever	waman
+14	4:14:2	w	يَّعْصِ		يعص	disobeys	yaʿṣi
+14	4:14:3	w	ࡴ۬للَّهَ		الله	Allah	l-laha
+14	4:14:4	w	وَرَسُولَهُۥ		ورسوله	and His Messenger	warasūlahu
+14	4:14:5	w	وَيَتَعَدَّ		ويتعد	and transgresses	wayataʿadda
+14	4:14:6	w	حُدُودَهُۥ		حدوده	His limits	ḥudūdahu
+15	4:14:7	w	نُدْخِلْهُ		ندخله	He will admit him	yud'khil'hu
+15	4:14:8	w	نَاراً		نارا	(to) Fire	nāran
+15	4:14:9	w	خَٰلِداࣰ		خلدا	(will) abide forever	khālidan
+15	4:14:10	w	فِيهَا࣌		فيها	in it	fīhā
+15	4:14:11	w	وَلَهُۥ		وله	And for him	walahu
+15	4:14:12	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+15	4:14:13	w	مُّهِينࣱ࣌		مهين	humiliating	muhīnun
+15	4:14:14	e	۝١٤				

@@ -1,0 +1,118 @@
+1	29:39:1	w	وَقَارُونَ		وقارون	And Qarun	waqārūna
+1	29:39:2	w	وَفِرْعَوْنَ		وفرعون	and Firaun	wafir'ʿawna
+1	29:39:3	w	وَهَامَٰنَ࣌		وهامن	and Haman	wahāmāna
+1	29:39:4	w	وَلَقَدْ		ولقد	And certainly	walaqad
+1	29:39:5	w	جَآءَهُم		جاهم	came to them	jāahum
+1	29:39:6	w	مُّوسٜىٰ		موسي	Musa	mūsā
+1	29:39:7	w	بِالْبَيِّنَٰتِ		بالبينت	with clear evidences	bil-bayināti
+2	29:39:8	w	فَاسْتَكْبَرُواْ		فاستكبروا	but they were arrogant	fa-is'takbarū
+2	29:39:9	w	فِے		في	in	fī
+2	29:39:10	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+2	29:39:11	w	وَمَا		وما	and not	wamā
+2	29:39:12	w	كَانُواْ		كانوا	they could	kānū
+2	29:39:13	w	سَٰبِقِينَ࣌		سبقين	outstrip Us	sābiqīna
+2	29:39:14	e	۝٣٩				
+3	29:40:1	w	فَكُلّاً		فكلا	So each	fakullan
+3	29:40:2	w	ࡰخَذْنَا		اخذنا	We seized	akhadhnā
+3	29:40:3	w	بِذَنۢبِهِۦ࣌		بذنبهي	for his sin	bidhanbihi
+3	29:40:4	w	فَمِنْهُم		فمنهم	Then of them	famin'hum
+3	29:40:5	w	مَّنَ		من	(was he) who	man
+3	29:40:6	w	ࡰرْسَلْنَا		ارسلنا	We sent	arsalnā
+3	29:40:7	w	عَلَيْهِ		عليه	on him	ʿalayhi
+3	29:40:8	w	حَاصِباࣰ࣌		حاصبا	a violent storm	ḥāṣiban
+4	29:40:9	w	وَمِنْهُم		ومنهم	and of them	wamin'hum
+4	29:40:10	w	مَّنَ		من	(was he) who	man
+4	29:40:11	w	ࡰخَذَتْهُ		اخذته	seized him	akhadhathu
+4	29:40:12	w	ࡲ۬لصَّيْحَةُ࣌		الصيحة	the awful cry	l-ṣayḥatu
+4	29:40:13	w	وَمِنْهُم		ومنهم	and of them	wamin'hum
+4	29:40:14	w	مَّنْ		من	(was he) who	man
+4	29:40:15	w	خَسَفْنَا		خسفنا	We caused to swallow	khasafnā
+4	29:40:16	w	بِهِ		به	him	bihi
+5	29:40:17	w	ࡴ۬لَارْضَ࣌		الارض	the earth	l-arḍa
+5	29:40:18	w	وَمِنْهُم		ومنهم	and of them	wamin'hum
+5	29:40:19	w	مَّنَ		من	(was he) who	man
+5	29:40:20	w	ࡰغْرَقْنَا࣌		اغرقنا	We drowned	aghraqnā
+5	29:40:21	w	وَمَا		وما	And not	wamā
+5	29:40:22	w	كَانَ		كان	was	kāna
+5	29:40:23	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+5	29:40:24	w	لِيَظْلِمَهُمْ࣌		ليظلمهم	to wrong them	liyaẓlimahum
+6	29:40:25	w	وَلَٰكِن		ولكن	but	walākin
+6	29:40:26	w	كَانُوٓاْ		كانوا	they were	kānū
+6	29:40:27	w	أَنفُسَهُمْ		انفسهم	themselves	anfusahum
+6	29:40:28	w	يَظْلِمُونَ࣌		يظلمون	doing wrong	yaẓlimūna
+6	29:40:29	e	۝٤٠				
+6	29:41:1	w	مَثَلُ		مثل	(The) example	mathalu
+6	29:41:2	w	ࡲ۬لذِينَ		الذين	(of) those who	alladhīna
+7	29:41:3	w	ࡰٜتَّخَذُواْ		اتخذوا	take	ittakhadhū
+7	29:41:4	w	مِن		من	besides	min
+7	29:41:5	w	دُونِ		دون	besides	dūni
+7	29:41:6	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+7	29:41:7	w	أَوْلِيَآءَ		اوليا	protectors	awliyāa
+7	29:41:8	w	كَمَثَلِ		كمثل	(is) like	kamathali
+7	29:41:9	w	ࡴ۬لْعَنكَبُوتِ		العنكبوت	the spider	l-ʿankabūti
+8	29:41:10	w	ࡴٜتَّخَذَتْ		اتخذت	who takes	ittakhadhat
+8	29:41:11	w	بَيْتاࣰ࣌		بيتا	a house	baytan
+8	29:41:12	w	وَإِنَّ		وان	And indeed	wa-inna
+8	29:41:13	w	أَوْهَنَ		اوهن	the weakest	awhana
+8	29:41:14	w	ࡰ۬لْبُيُوتِ		البيوت	(of) houses	l-buyūti
+8	29:41:15	w	لَبَيْتُ		لبيت	(is) surely (the) house	labaytu
+8	29:41:16	w	ࡲ۬لْعَنكَبُوتِ		العنكبوت	(of) the spider	l-ʿankabūti
+9	29:41:17	w	لَوْ		لو	if (only)	law
+9	29:41:18	w	كَانُواْ		كانوا	they	kānū
+9	29:41:19	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+9	29:41:20	e	۝٤١				
+9	29:42:1	w	إِنَّ		ان	Indeed	inna
+9	29:42:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+9	29:42:3	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+9	29:42:4	w	مَا		ما	what	mā
+9	29:42:5	w	تَدْعُونَ		تدعون	they invoke	yadʿūna
+9	29:42:6	w	مِن		من	besides Him	min
+10	29:42:7	w	دُونِهِۦ		دونهي	besides Him	dūnihi
+10	29:42:8	w	مِن		من	any	min
+10	29:42:9	w	شَےْءࣲ࣌		شي	thing	shayin
+10	29:42:10	w	وَهُوَ		وهو	And He	wahuwa
+10	29:42:11	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+10	29:42:12	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+10	29:42:13	e	۝٤٢				
+10	29:43:1	w	وَتِلْكَ		وتلك	And these	watil'ka
+11	29:43:2	w	ࡰ۬لَامْثَٰلُ		الامثل	examples	l-amthālu
+11	29:43:3	w	نَضْرِبُهَا		نضربها	We set forth	naḍribuhā
+11	29:43:4	w	لِلنَّاسِ࣌		للناس	to mankind	lilnnāsi
+11	29:43:5	w	وَمَا		وما	but not	wamā
+11	29:43:6	w	يَعْقِلُهَآ		يعقلها	will understand them	yaʿqiluhā
+11	29:43:7	w	إِلَّا		الا	except	illā
+11	29:43:8	w	ࡰ۬لْعَٰلِمُونَ࣌		العلمون	those of knowledge	l-ʿālimūna
+11	29:43:9	e	۝٤٣				
+12	29:44:1	w	خَلَقَ		خلق	Allah created	khalaqa
+12	29:44:2	w	ࡰ۬للَّهُ		الله	Allah created	l-lahu
+12	29:44:3	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+12	29:44:4	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+12	29:44:5	w	بِالْحَقِّ࣌		بالحق	in truth	bil-ḥaqi
+12	29:44:6	w	إِنَّ		ان	Indeed	inna
+12	29:44:7	w	فِے		في	in	fī
+12	29:44:8	w	ذَٰلِكَ		ذلك	that	dhālika
+13	29:44:9	w	لَأٓيَةࣰ		لاية	(is) surely a Sign	laāyatan
+13	29:44:10	w	لِّلْمُومِنِينَ࣌		للمومنين	for the believers	lil'mu'minīna
+13	29:44:11	e	۝٤٤				
+13	29:45:1	w	ࡸَتْلُ		اتل	Recite	ut'lu
+13	29:45:2	w	مَآ		ما	what	mā
+13	29:45:3	w	أُوحِيَ		اوحي	has been revealed	ūḥiya
+13	29:45:4	w	إِلَيْكَ		اليك	to you	ilayka
+13	29:45:5	w	مِنَ		من	of	mina
+13	29:45:6	w	ࡰ۬لْكِتَٰبِ		الكتب	the Book	l-kitābi
+14	29:45:7	w	وَأَقِمِ		واقم	and establish	wa-aqimi
+14	29:45:8	w	ࡴ۬لصَّلَوٰةَ࣌		الصلوة	the prayer	l-ṣalata
+14	29:45:9	w	إِنَّ		ان	Indeed	inna
+14	29:45:10	w	ࡰ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+14	29:45:11	w	تَنْهٜىٰ		تنهي	prevents	tanhā
+14	29:45:12	w	عَنِ		عن	from	ʿani
+14	29:45:13	w	ࡴ۬لْفَحْشَآءِ		الفحشا	the immorality	l-faḥshāi
+15	29:45:14	w	وَالْمُنكَرِ࣌		والمنكر	and evil deeds	wal-munkari
+15	29:45:15	w	وَلَذِكْرُ		ولذكر	and surely (the) remembrance	waladhik'ru
+15	29:45:16	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+15	29:45:17	w	أَكْبَرُ࣌		اكبر	(is) greatest	akbaru
+15	29:45:18	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	29:45:19	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+15	29:45:20	w	مَا		ما	what	mā
+15	29:45:21	w	تَصْنَعُونَ࣌		تصنعون	you do	taṣnaʿūna
+15	29:45:22	e	۝٤٥				

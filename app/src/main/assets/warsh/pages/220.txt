@@ -1,0 +1,149 @@
+1	10:98:1	w	فَلَوْلَا		فلولا	So why not	falawlā
+1	10:98:2	w	كَانَتْ		كانت	was	kānat
+1	10:98:3	w	قَرْيَةٌ		قرية	any town	qaryatun
+1	10:98:4	w	اٰمَنَتْ		امنت	that believed	āmanat
+1	10:98:5	w	فَنَفَعَهَآ		فنفعها	and benefited it	fanafaʿahā
+1	10:98:6	w	إِيمَٰنُهَآ		ايمنها	its faith	īmānuhā
+1	10:98:7	w	إِلَّا		الا	except	illā
+1	10:98:8	w	قَوْمَ		قوم	the people	qawma
+1	10:98:9	w	يُونُسَ		يونس	(of) Yunus	yūnusa
+2	10:98:10	w	لَمَّآ		لما	When	lammā
+2	10:98:11	w	ءَامَنُواْ		امنوا	they believed	āmanū
+2	10:98:12	w	كَشَفْنَا		كشفنا	We removed	kashafnā
+2	10:98:13	w	عَنْهُمْ		عنهم	from them	ʿanhum
+2	10:98:14	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+2	10:98:15	w	ࡰ۬لْخِزْيِ		الخزي	(of) the disgrace	l-khiz'yi
+2	10:98:16	w	فِے		في	in	fī
+2	10:98:17	w	ࡴ۬لْحَيَوٰةِ		الحيوة	the life	l-ḥayati
+2	10:98:18	w	ࡴ۬لدُّنْيٜا		الدنيا	of the world	l-dun'yā
+3	10:98:19	w	وَمَتَّعْنَٰهُمُۥٓ		ومتعنهم	and We granted them enjoyment	wamattaʿnāhum
+3	10:98:20	w	إِلَىٰ		الي	for	ilā
+3	10:98:21	w	حِينࣲ࣌		حين	a time	ḥīnin
+3	10:98:22	e	۝٩٨				
+3	10:99:1	w	وَلَوْ		ولو	And if	walaw
+3	10:99:2	w	شَآءَ		شا	(had) willed	shāa
+3	10:99:3	w	رَبُّكَ		ربك	your Lord	rabbuka
+3	10:99:4	w	لَأٓمَنَ		لامن	surely, (would) have believed	laāmana
+3	10:99:5	w	مَن		من	who	man
+3	10:99:6	w	فِے		في	(are) in	fī
+3	10:99:7	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+4	10:99:8	w	كُلُّهُمْ		كلهم	all of them	kulluhum
+4	10:99:9	w	جَمِيعاً࣌		جميعا	together	jamīʿan
+4	10:99:10	w	ࡰفَأَنتَ		افانت	Then, will you	afa-anta
+4	10:99:11	w	تُكْرِهُ		تكره	compel	tuk'rihu
+4	10:99:12	w	ࡲ۬لنَّاسَ		الناس	the mankind	l-nāsa
+4	10:99:13	w	حَتَّىٰ		حتي	until	ḥattā
+4	10:99:14	w	يَكُونُواْ		يكونوا	they become	yakūnū
+4	10:99:15	w	مُومِنِينَ࣌		مومنين	believers	mu'minīna
+4	10:99:16	e	۝٩٩				
+5	10:100:1	w	وَمَا		وما	And not	wamā
+5	10:100:2	w	كَانَ		كان	is	kāna
+5	10:100:3	w	لِنَفْسٍ		لنفس	for a soul	linafsin
+5	10:100:4	w	ࡰن		ان	to	an
+5	10:100:5	w	تُومِنَ		تومن	believe	tu'mina
+5	10:100:6	w	إِلَّا		الا	except	illā
+5	10:100:7	w	بِإِذْنِ		باذن	by (the) permission	bi-idh'ni
+5	10:100:8	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+5	10:100:9	w	وَيَجْعَلُ		ويجعل	And He will place	wayajʿalu
+5	10:100:10	w	ࡲ۬لرِّجْسَ		الرجس	the wrath	l-rij'sa
+6	10:100:11	w	عَلَى		علي	on	ʿalā
+6	10:100:12	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	10:100:13	w	لَا		لا	(do) not	lā
+6	10:100:14	w	يَعْقِلُونَ࣌		يعقلون	use reason	yaʿqilūna
+6	10:100:15	e	۝١٠٠				
+6	10:101:1	w	قُلُ		قل	Say	quli
+6	10:101:2	w	ࡲ࢈نظُرُواْ		انظروا	See	unẓurū
+6	10:101:3	w	مَاذَا		ماذا	what	mādhā
+6	10:101:4	w	فِے		في	(is) in	fī
+6	10:101:5	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+7	10:101:6	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+7	10:101:7	w	وَمَا		وما	But not	wamā
+7	10:101:8	w	تُغْنِے		تغني	will avail	tugh'nī
+7	10:101:9	w	ࡴ۬لَايَٰتُ		الايت	the Signs	l-āyātu
+7	10:101:10	w	وَالنُّذُرُ		والنذر	and the warners	wal-nudhuru
+7	10:101:11	w	عَن		عن	to	ʿan
+7	10:101:12	w	قَوْمࣲ		قوم	a people	qawmin
+7	10:101:13	w	لَّا		لا	(who do) not	lā
+7	10:101:14	w	يُومِنُونَ࣌		يومنون	believe	yu'minūna
+7	10:101:15	e	۝١٠١				
+8	10:102:1	w	فَهَلْ		فهل	Then do	fahal
+8	10:102:2	w	يَنتَظِرُونَ		ينتظرون	they wait	yantaẓirūna
+8	10:102:3	w	إِلَّا		الا	except	illā
+8	10:102:4	w	مِثْلَ		مثل	like	mith'la
+8	10:102:5	w	أَيَّامِ		ايام	the days	ayyāmi
+8	10:102:6	w	ࡴ۬لذِينَ		الذين	(of) those who	alladhīna
+8	10:102:7	w	خَلَوْاْ		خلوا	passed away	khalaw
+8	10:102:8	w	مِن		من	before them	min
+8	10:102:9	w	قَبْلِهِمْ࣌		قبلهم	before them	qablihim
+9	10:102:10	w	قُلْ		قل	Say	qul
+9	10:102:11	w	فَانتَظِرُوٓاْ࣌		فانتظروا	Then wait	fa-intaẓirū
+9	10:102:12	w	إِنِّے		اني	indeed, I (am)	innī
+9	10:102:13	w	مَعَكُم		معكم	with you	maʿakum
+9	10:102:14	w	مِّنَ		من	among	mina
+9	10:102:15	w	ࡰ۬لْمُنتَظِرِينَ࣌		المنتظرين	the ones who wait	l-muntaẓirīna
+9	10:102:16	e	۝١٠٢				
+9	10:103:1	w	ثُمَّ		ثم	Then	thumma
+9	10:103:2	w	نُنَجِّے		ننجي	We will save	nunajjī
+10	10:103:3	w	رُسُلَنَا		رسلنا	Our Messengers	rusulanā
+10	10:103:4	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+10	10:103:5	w	ءَامَنُواْ		امنوا	believe	āmanū
+10	10:103:6	w	كَذَٰلِكَ࣌		كذلك	Thus	kadhālika
+10	10:103:7	w	حَقّاً		حقا	(it is) an obligation	ḥaqqan
+10	10:103:8	w	عَلَيْنَا		علينا	upon Us	ʿalaynā
+10	10:103:9	w	نُنَجِّ		ننج	(that) We save	nunji
+10	10:103:10	w	ࡴ۬لْمُومِنِينَ࣌		المومنين	the believers	l-mu'minīna
+10	10:103:11	e	۝١٠٣				
+11	10:104:1	w	۞ قُلْ		قل	Say	qul
+11	10:104:2	w	يَٰٓأَيُّهَا		يايها	O mankind	yāayyuhā
+11	10:104:3	w	ࡰ۬لنَّاسُ		الناس	O mankind	l-nāsu
+11	10:104:4	w	إِن		ان	If	in
+11	10:104:5	w	كُنتُمْ		كنتم	you are	kuntum
+11	10:104:6	w	فِے		في	in	fī
+11	10:104:7	w	شَكࣲّ		شك	doubt	shakkin
+11	10:104:8	w	مِّن		من	of	min
+11	10:104:9	w	دِينِے		ديني	my religion	dīnī
+11	10:104:10	w	فَلَآ		فلا	then not	falā
+11	10:104:11	w	أَعْبُدُ		اعبد	I worship	aʿbudu
+11	10:104:12	w	ࡲ۬لذِينَ		الذين	those whom	alladhīna
+12	10:104:13	w	تَعْبُدُونَ		تعبدون	you worship	taʿbudūna
+12	10:104:14	w	مِن		من	besides Allah	min
+12	10:104:15	w	دُونِ		دون	besides Allah	dūni
+12	10:104:16	w	ࡴ۬للَّهِ࣌		الله	besides Allah	l-lahi
+12	10:104:17	w	وَلَٰكِنَ		ولكن	but	walākin
+12	10:104:18	w	ࡰعْبُدُ		اعبد	I worship	aʿbudu
+12	10:104:19	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+12	10:104:20	w	ࡰ۬لذِے		الذي	the One Who	alladhī
+12	10:104:21	w	يَتَوَفّٜيٰكُمْ࣌		يتوفيكم	causes you to die	yatawaffākum
+12	10:104:22	w	وَأُمِرْتُ		وامرت	And I am commanded	wa-umir'tu
+13	10:104:23	w	أَنَ		ان	that	an
+13	10:104:24	w	ࡰكُونَ		اكون	I be	akūna
+13	10:104:25	w	مِنَ		من	of	mina
+13	10:104:26	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+13	10:104:27	e	۝١٠٤				
+13	10:105:1	w	وَأَنَ		وان	And that	wa-an
+13	10:105:2	w	ࡰقِمْ		اقم	Direct	aqim
+13	10:105:3	w	وَجْهَكَ		وجهك	your face	wajhaka
+13	10:105:4	w	لِلدِّينِ		للدين	to the religion	lilddīni
+13	10:105:5	w	حَنِيفاࣰ࣌		حنيفا	upright	ḥanīfan
+14	10:105:6	w	وَلَا		ولا	and (do) not	walā
+14	10:105:7	w	تَكُونَنَّ		تكونن	be	takūnanna
+14	10:105:8	w	مِنَ		من	of	mina
+14	10:105:9	w	ࡰ۬لْمُشْرِكِينَ࣌		المشركين	the polytheists	l-mush'rikīna
+14	10:105:10	e	۝١٠٥				
+14	10:106:1	w	وَلَا		ولا	And (do) not	walā
+14	10:106:2	w	تَدْعُ		تدع	invoke	tadʿu
+14	10:106:3	w	مِن		من	besides Allah	min
+14	10:106:4	w	دُونِ		دون	besides Allah	dūni
+14	10:106:5	w	ࡴ۬للَّهِ		الله	besides Allah	l-lahi
+14	10:106:6	w	مَا		ما	what	mā
+14	10:106:7	w	لَا		لا	(will) not	lā
+15	10:106:8	w	يَنفَعُكَ		ينفعك	benefit you	yanfaʿuka
+15	10:106:9	w	وَلَا		ولا	and not	walā
+15	10:106:10	w	يَضُرُّكَ࣌		يضرك	harm you	yaḍurruka
+15	10:106:11	w	فَإِن		فان	But if	fa-in
+15	10:106:12	w	فَعَلْتَ		فعلت	you did so	faʿalta
+15	10:106:13	w	فَإِنَّكَ		فانك	indeed, you	fa-innaka
+15	10:106:14	w	إِذاࣰ		اذا	then (will be)	idhan
+15	10:106:15	w	مِّنَ		من	of	mina
+15	10:106:16	w	ࡰ۬لظَّٰلِمِينَ࣌		الظلمين	the wrongdoers	l-ẓālimīna
+15	10:106:17	e	۝١٠٦				

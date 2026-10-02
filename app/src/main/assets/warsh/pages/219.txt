@@ -1,0 +1,140 @@
+1	10:89:1	w	قَالَ		قال	He said	qāla
+1	10:89:2	w	قَدُ		قد	Verily	qad
+1	10:89:3	w	ࡳجِيبَت		اجيبت	has been answered	ujībat
+1	10:89:4	w	دَّعْوَتُكُمَا		دعوتكما	(the) invocation of both of you	daʿwatukumā
+1	10:89:5	w	فَاسْتَقِيمَا࣌		فاستقيما	So you two (keep to the) straight way	fa-is'taqīmā
+1	10:89:6	w	وَلَا		ولا	And (do) not	walā
+1	10:89:7	w	تَتَّبِعَٰٓنِّ		تتبعن	follow	tattabiʿānni
+1	10:89:8	w	سَبِيلَ		سبيل	(the) way	sabīla
+2	10:89:9	w	ࡰ۬لذِينَ		الذين	(of) those who	alladhīna
+2	10:89:10	w	لَا		لا	(do) not	lā
+2	10:89:11	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+2	10:89:12	e	۝٨٩				
+2	10:90:1	w	وَجَٰوَزْنَا		وجوزنا	And We took across	wajāwaznā
+2	10:90:2	w	بِبَنِےٓ		ببني	(the) Children	bibanī
+2	10:90:3	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+2	10:90:4	w	ࡰ۬لْبَحْرَ		البحر	the sea	l-baḥra
+2	10:90:5	w	فَأَتْبَعَهُمْ		فاتبعهم	and followed them	fa-atbaʿahum
+3	10:90:6	w	فِرْعَوْنُ		فرعون	Firaun	fir'ʿawnu
+3	10:90:7	w	وَجُنُودُهُۥ		وجنوده	and his hosts	wajunūduhu
+3	10:90:8	w	بَغْياࣰ		بغيا	(in) rebellion	baghyan
+3	10:90:9	w	وَعَدْواً࣌		وعدوا	and enmity	waʿadwan
+3	10:90:10	w	حَتَّىٰٓ		حتي	until	ḥattā
+3	10:90:11	w	إِذَآ		اذا	when	idhā
+3	10:90:12	w	أَدْرَكَهُ		ادركه	overtook him	adrakahu
+3	10:90:13	w	ࡲ۬لْغَرَقُ		الغرق	the drowning	l-gharaqu
+4	10:90:14	w	قَالَ		قال	he said	qāla
+4	10:90:15	w	ءَامَنتُ		امنت	I believe	āmantu
+4	10:90:16	w	أَنَّهُۥ		انه	that	annahu
+4	10:90:17	w	لَآ		لا	(there is) no	lā
+4	10:90:18	w	إِلَٰهَ		اله	god	ilāha
+4	10:90:19	w	إِلَّا		الا	except	illā
+4	10:90:20	w	ࡰ۬لذِےٓ		الذي	the One	alladhī
+4	10:90:21	w	ءَامَنَتْ		امنت	in Whom believe	āmanat
+4	10:90:22	w	بِهِۦ		بهي	in Whom believe	bihi
+4	10:90:23	w	بَنُوٓاْ		بنوا	the Children of Israel	banū
+4	10:90:24	w	إِسْرَآءِيلَ		اسرايل	the Children of Israel	is'rāīla
+5	10:90:25	w	وَأَنَا		وانا	and I am	wa-anā
+5	10:90:26	w	مِنَ		من	of	mina
+5	10:90:27	w	ࡰ۬لْمُسْلِمِينَ࣌		المسلمين	the Muslims	l-mus'limīna
+5	10:90:28	e	۝٩٠				
+5	10:91:1	w	ءَالَٰنَ		الن	Now	āl'āna
+5	10:91:2	w	وَقَدْ		وقد	And verily	waqad
+5	10:91:3	w	عَصَيْتَ		عصيت	you (had) disobeyed	ʿaṣayta
+5	10:91:4	w	قَبْلُ		قبل	before	qablu
+5	10:91:5	w	وَكُنتَ		وكنت	and you were	wakunta
+6	10:91:6	w	مِنَ		من	of	mina
+6	10:91:7	w	ࡰ۬لْمُفْسِدِينَ࣌		المفسدين	the corrupters	l-muf'sidīna
+6	10:91:8	e	۝٩١				
+6	10:92:1	w	فَالْيَوْمَ		فاليوم	So today	fal-yawma
+6	10:92:2	w	نُنَجِّيكَ		ننجيك	We will save you	nunajjīka
+6	10:92:3	w	بِبَدَنِكَ		ببدنك	in your body	bibadanika
+6	10:92:4	w	لِتَكُونَ		لتكون	that you may be	litakūna
+6	10:92:5	w	لِمَنْ		لمن	for (those) who	liman
+7	10:92:6	w	خَلْفَكَ		خلفك	succeed you	khalfaka
+7	10:92:7	w	ءَايَةࣰ࣌		اية	a sign	āyatan
+7	10:92:8	w	وَإِنَّ		وان	And indeed	wa-inna
+7	10:92:9	w	كَثِيراࣰ		كثيرا	many	kathīran
+7	10:92:10	w	مِّنَ		من	among	mina
+7	10:92:11	w	ࡰ۬لنَّاسِ		الناس	the mankind	l-nāsi
+7	10:92:12	w	عَنَ		عن	of	ʿan
+7	10:92:13	w	اٰيَٰتِنَا		ايتنا	Our Signs	āyātinā
+7	10:92:14	w	لَغَٰفِلُونَ࣌		لغفلون	(are) surely heedless	laghāfilūna
+7	10:92:15	e	۝٩٢				
+8	10:93:1	w	۞ وَلَقَدْ		ولقد	And verily	walaqad
+8	10:93:2	w	بَوَّأْنَا		بوانا	We settled	bawwanā
+8	10:93:3	w	بَنِےٓ		بني	(the) Children	banī
+8	10:93:4	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+8	10:93:5	w	مُبَوَّأَ		مبوا	(in) a settlement	mubawwa-a
+8	10:93:6	w	صِدْقࣲ		صدق	honorable	ṣid'qin
+8	10:93:7	w	وَرَزَقْنَٰهُم		ورزقنهم	and We provided them	warazaqnāhum
+8	10:93:8	w	مِّنَ		من	with	mina
+8	10:93:9	w	ࡰ۬لطَّيِّبَٰتِ		الطيبت	the good things	l-ṭayibāti
+9	10:93:10	w	فَمَا		فما	and not	famā
+9	10:93:11	w	ࡰٜخْتَلَفُواْ		اختلفوا	they differ	ikh'talafū
+9	10:93:12	w	حَتَّىٰ		حتي	until	ḥattā
+9	10:93:13	w	جَآءَهُمُ		جاهم	came to them	jāahumu
+9	10:93:14	w	ࡲ۬لْعِلْمُ࣌		العلم	the knowledge	l-ʿil'mu
+9	10:93:15	w	إِنَّ		ان	Indeed	inna
+9	10:93:16	w	رَبَّكَ		ربك	your Lord	rabbaka
+9	10:93:17	w	يَقْضِے		يقضي	will judge	yaqḍī
+9	10:93:18	w	بَيْنَهُمْ		بينهم	between them	baynahum
+10	10:93:19	w	يَوْمَ		يوم	(on) the Day	yawma
+10	10:93:20	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+10	10:93:21	w	فِيمَا		فيما	concerning what	fīmā
+10	10:93:22	w	كَانُواْ		كانوا	they used (to)	kānū
+10	10:93:23	w	فِيهِ		فيه	[in it]	fīhi
+10	10:93:24	w	يَخْتَلِفُونَ࣌		يختلفون	differ	yakhtalifūna
+10	10:93:25	e	۝٩٣				
+10	10:94:1	w	فَإِن		فان	So if	fa-in
+10	10:94:2	w	كُنتَ		كنت	you are	kunta
+10	10:94:3	w	فِے		في	in	fī
+10	10:94:4	w	شَكࣲّ		شك	doubt	shakkin
+11	10:94:5	w	مِّمَّآ		مما	of what	mimmā
+11	10:94:6	w	أَنزَلْنَآ		انزلنا	We have revealed	anzalnā
+11	10:94:7	w	إِلَيْكَ		اليك	to you	ilayka
+11	10:94:8	w	فَسْـَٔلِ		فسل	then ask	fasali
+11	10:94:9	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+11	10:94:10	w	يَقْرَءُونَ		يقرون	(have been) reading	yaqraūna
+11	10:94:11	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+11	10:94:12	w	مِن		من	before you	min
+11	10:94:13	w	قَبْلِكَ࣌		قبلك	before you	qablika
+11	10:94:14	w	لَقَدْ		لقد	Verily	laqad
+12	10:94:15	w	جَآءَكَ		جاك	has come to you	jāaka
+12	10:94:16	w	ࡰ۬لْحَقُّ		الحق	the truth	l-ḥaqu
+12	10:94:17	w	مِن		من	from	min
+12	10:94:18	w	رَّبِّكَ࣌		ربك	your Lord	rabbika
+12	10:94:19	w	فَلَا		فلا	so (do) not	falā
+12	10:94:20	w	تَكُونَنَّ		تكونن	be	takūnanna
+12	10:94:21	w	مِنَ		من	among	mina
+12	10:94:22	w	ࡰ۬لْمُمْتَرِينَ࣌		الممترين	the doubters	l-mum'tarīna
+12	10:94:23	e	۝٩٤				
+12	10:95:1	w	وَلَا		ولا	And (do) not	walā
+12	10:95:2	w	تَكُونَنَّ		تكونن	be	takūnanna
+13	10:95:3	w	مِنَ		من	of	mina
+13	10:95:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	10:95:5	w	كَذَّبُواْ		كذبوا	deny	kadhabū
+13	10:95:6	w	بِـَٔايَٰتِ		بايت	(the) Signs of Allah	biāyāti
+13	10:95:7	w	ࡴ۬للَّهِ		الله	(the) Signs of Allah	l-lahi
+13	10:95:8	w	فَتَكُونَ		فتكون	then you will be	fatakūna
+13	10:95:9	w	مِنَ		من	among	mina
+13	10:95:10	w	ࡰ۬لْخَٰسِرِينَ࣌		الخسرين	the losers	l-khāsirīna
+13	10:95:11	e	۝٩٥				
+14	10:96:1	w	إِنَّ		ان	Indeed	inna
+14	10:96:2	w	ࡰ۬لذِينَ		الذين	those [whom]	alladhīna
+14	10:96:3	w	حَقَّتْ		حقت	has become due	ḥaqqat
+14	10:96:4	w	عَلَيْهِمْ		عليهم	on them	ʿalayhim
+14	10:96:5	w	كَلِمَٰتُ		كلمت	(the) Word	kalimatu
+14	10:96:6	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+14	10:96:7	w	لَا		لا	will not	lā
+14	10:96:8	w	يُومِنُونَ		يومنون	believe	yu'minūna
+14	10:96:9	e	۝٩٦				
+15	10:97:1	w	وَلَوْ		ولو	Even if	walaw
+15	10:97:2	w	جَآءَتْهُمْ		جاتهم	comes to them	jāathum
+15	10:97:3	w	كُلُّ		كل	every	kullu
+15	10:97:4	w	ءَايَةٍ		اية	Sign	āyatin
+15	10:97:5	w	حَتَّىٰ		حتي	until	ḥattā
+15	10:97:6	w	يَرَوُاْ		يروا	they see	yarawū
+15	10:97:7	w	ࡲ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+15	10:97:8	w	ࡰ۬لَالِيمَ࣌		الاليم	the painful	l-alīma
+15	10:97:9	e	۝٩٧				

@@ -1,0 +1,130 @@
+1	2:24:1	w	وَبَشِّرِ		وبشر	And give good news	wabashiri
+1	2:24:2	w	ࡴ۬لذِينَ		الذين	(to) those who	alladhīna
+1	2:24:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+1	2:24:4	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+1	2:24:5	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	[the] righteous deeds	l-ṣāliḥāti
+1	2:24:6	w	أَنَّ		ان	that	anna
+1	2:24:7	w	لَهُمْ		لهم	for them	lahum
+1	2:24:8	w	جَنَّٰتࣲ		جنت	(will be) Gardens	jannātin
+2	2:24:9	w	تَجْرِے		تجري	flow	tajrī
+2	2:24:10	w	مِن		من	[from]	min
+2	2:24:11	w	تَحْتِهَا		تحتها	under them	taḥtihā
+2	2:24:12	w	ࡰ۬لَانْهَٰرُ࣌		الانهر	the rivers	l-anhāru
+2	2:24:13	w	كُلَّمَا		كلما	Every time	kullamā
+2	2:24:14	w	رُزِقُواْ		رزقوا	they are provided	ruziqū
+2	2:24:15	w	مِنْهَا		منها	therefrom	min'hā
+2	2:24:16	w	مِن		من	of	min
+2	2:24:17	w	ثَمَرَةࣲ		ثمرة	fruit	thamaratin
+3	2:24:18	w	رِّزْقاࣰ		رزقا	(as) provision	riz'qan
+3	2:24:19	w	قَالُواْ		قالوا	they (will) say	qālū
+3	2:24:20	w	هَٰذَا		هذا	This (is)	hādhā
+3	2:24:21	w	ࡰ۬لذِے		الذي	the one which	alladhī
+3	2:24:22	w	رُزِقْنَا		رزقنا	we were provided	ruziq'nā
+3	2:24:23	w	مِن		من	from	min
+3	2:24:24	w	قَبْلُ࣌		قبل	before	qablu
+3	2:24:25	w	وَأُتُواْ		واتوا	And they will be given	wa-utū
+3	2:24:26	w	بِهِۦ		بهي	therefrom	bihi
+3	2:24:27	w	مُتَشَٰبِهاࣰ࣌		متشبها	(things) in resemblance	mutashābihan
+4	2:24:28	w	وَلَهُمْ		ولهم	And for them	walahum
+4	2:24:29	w	فِيهَآ		فيها	therein	fīhā
+4	2:24:30	w	أَزْوَٰجࣱ		ازوج	spouses	azwājun
+4	2:24:31	w	مُّطَهَّرَةࣱ࣌		مطهرة	purified	muṭahharatun
+4	2:24:32	w	وَهُمْ		وهم	and they	wahum
+4	2:24:33	w	فِيهَا		فيها	therein	fīhā
+4	2:24:34	w	خَٰلِدُونَ࣌		خلدون	(will) abide forever	khālidūna
+4	2:24:35	e	۝٢٤				
+4	2:25:1	w	۞ إِنَّ		ان	Indeed	inna
+5	2:25:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	2:25:3	w	لَا		لا	(is) not	lā
+5	2:25:4	w	يَسْتَحْيِۦٓ		يستحيي	ashamed	yastaḥyī
+5	2:25:5	w	أَنْ		ان	to	an
+5	2:25:6	w	يَّضْرِبَ		يضرب	set forth	yaḍriba
+5	2:25:7	w	مَثَلاࣰ		مثلا	an example	mathalan
+5	2:25:8	w	مَّا		ما	(like) even	mā
+5	2:25:9	w	بَعُوضَةࣰ		بعوضة	(of) a mosquito	baʿūḍatan
+5	2:25:10	w	فَمَا		فما	and (even) something	famā
+5	2:25:11	w	فَوْقَهَا࣌		فوقها	above it	fawqahā
+6	2:25:12	w	فَأَمَّا		فاما	Then as for	fa-ammā
+6	2:25:13	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	2:25:14	w	ءَامَنُواْ		امنوا	believed	āmanū
+6	2:25:15	w	فَيَعْلَمُونَ		فيعلمون	[thus] they will know	fayaʿlamūna
+6	2:25:16	w	أَنَّهُ		انه	that it	annahu
+6	2:25:17	w	ࡲ۬لْحَقُّ		الحق	(is) the truth	l-ḥaqu
+6	2:25:18	w	مِن		من	from	min
+6	2:25:19	w	رَّبِّهِمْ࣌		ربهم	their Lord	rabbihim
+6	2:25:20	w	وَأَمَّا		واما	And as for	wa-ammā
+7	2:25:21	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	2:25:22	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+7	2:25:23	w	فَيَقُولُونَ		فيقولون	[thus] they will say	fayaqūlūna
+7	2:25:24	w	مَاذَآ		ماذا	what	mādhā
+7	2:25:25	w	أَرَادَ		اراد	(did) intend	arāda
+7	2:25:26	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+7	2:25:27	w	بِهَٰذَا		بهذا	by this	bihādhā
+7	2:25:28	w	مَثَلاࣰ࣌		مثلا	example	mathalan
+8	2:25:29	w	يُضِلُّ		يضل	He lets go astray	yuḍillu
+8	2:25:30	w	بِهِۦ		بهي	by it	bihi
+8	2:25:31	w	كَثِيراࣰ		كثيرا	many	kathīran
+8	2:25:32	w	وَيَهْدِے		ويهدي	and He guides	wayahdī
+8	2:25:33	w	بِهِۦ		بهي	by it	bihi
+8	2:25:34	w	كَثِيراࣰ࣌		كثيرا	many	kathīran
+8	2:25:35	w	وَمَا		وما	And not	wamā
+8	2:25:36	w	يُضِلُّ		يضل	He lets go astray	yuḍillu
+8	2:25:37	w	بِهِۦٓ		بهي	by it	bihi
+9	2:25:38	w	إِلَّا		الا	except	illā
+9	2:25:39	w	ࡰ۬لْفَٰسِقِينَ		الفسقين	the defiantly disobedient	l-fāsiqīna
+9	2:25:40	e	۝٢٥				
+9	2:26:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+9	2:26:2	w	يَنقُضُونَ		ينقضون	break	yanquḍūna
+9	2:26:3	w	عَهْدَ		عهد	(the) Covenant	ʿahda
+9	2:26:4	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+9	2:26:5	w	مِنۢ		من	from	min
+9	2:26:6	w	بَعْدِ		بعد	after	baʿdi
+10	2:26:7	w	مِيثَٰقِهِۦ		ميثقهي	its ratification	mīthāqihi
+10	2:26:8	w	وَيَقْطَعُونَ		ويقطعون	and [they] cut	wayaqṭaʿūna
+10	2:26:9	w	مَآ		ما	what	mā
+10	2:26:10	w	أَمَرَ		امر	has ordered	amara
+10	2:26:11	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+10	2:26:12	w	بِهِۦٓ		بهي	it	bihi
+10	2:26:13	w	أَنْ		ان	to	an
+10	2:26:14	w	يُّوصَلَ		يوصل	be joined	yūṣala
+10	2:26:15	w	وَيُفْسِدُونَ		ويفسدون	and [they] spread corruption	wayuf'sidūna
+11	2:26:16	w	فِے		في	in	fī
+11	2:26:17	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+11	2:26:18	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+11	2:26:19	w	هُمُ		هم	they	humu
+11	2:26:20	w	ࡲ۬لْخَٰسِرُونَ࣌		الخسرون	(are) the losers	l-khāsirūna
+11	2:26:21	e	۝٢٦				
+11	2:27:1	w	كَيْفَ		كيف	How	kayfa
+11	2:27:2	w	تَكْفُرُونَ		تكفرون	(can) you disbelieve	takfurūna
+12	2:27:3	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+12	2:27:4	w	وَكُنتُمُۥٓ		وكنتم	While you were	wakuntum
+12	2:27:5	w	أَمْوَٰتاࣰ		اموتا	dead	amwātan
+12	2:27:6	w	فَأَحْيٜاكُمْ		فاحياكم	then He gave you life	fa-aḥyākum
+12	2:27:7	w	ثُمَّ		ثم	then	thumma
+12	2:27:8	w	يُمِيتُكُمْ࣌		يميتكم	He will cause you to die	yumītukum
+12	2:27:9	w	ثُمَّ		ثم	then	thumma
+13	2:27:10	w	يُحْيِيكُمْ		يحييكم	He will give you life	yuḥ'yīkum
+13	2:27:11	w	ثُمَّ		ثم	then	thumma
+13	2:27:12	w	إِلَيْهِ		اليه	to Him	ilayhi
+13	2:27:13	w	تُرْجَعُونَ࣌		ترجعون	you will be returned	tur'jaʿūna
+13	2:27:14	e	۝٢٧				
+13	2:28:1	w	هُوَ		هو	He	huwa
+13	2:28:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+13	2:28:3	w	خَلَقَ		خلق	created	khalaqa
+14	2:28:4	w	لَكُم		لكم	for you	lakum
+14	2:28:5	w	مَّا		ما	what	mā
+14	2:28:6	w	فِے		في	(is) in	fī
+14	2:28:7	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+14	2:28:8	w	جَمِيعاࣰ࣌		جميعا	all	jamīʿan
+14	2:28:9	w	ثُمَّ		ثم	Moreover	thumma
+14	2:28:10	w	ࡰٜسْتَوٜىٰٓ		استوي	He turned	is'tawā
+14	2:28:11	w	إِلَى		الي	to	ilā
+14	2:28:12	w	ࡰ۬لسَّمَآءِ		السما	the heaven	l-samāi
+15	2:28:13	w	فَسَوّٜيٰهُنَّ		فسويهن	and fashioned them	fasawwāhunna
+15	2:28:14	w	سَبْعَ		سبع	seven	sabʿa
+15	2:28:15	w	سَمَٰوَٰتࣲ࣌		سموت	heavens	samāwātin
+15	2:28:16	w	وَهُوَ		وهو	And He	wahuwa
+15	2:28:17	w	بِكُلِّ		بكل	of every	bikulli
+15	2:28:18	w	شَےْءٍ		شي	thing	shayin
+15	2:28:19	w	عَلِيمࣱ࣌		عليم	(is) All-Knowing	ʿalīmun
+15	2:28:20	e	۝٢٨				

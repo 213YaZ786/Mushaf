@@ -1,0 +1,125 @@
+1	3:109:1	w	وَلِلهِ		ولله	And to Allah (belongs)	walillahi
+1	3:109:2	w	مَا		ما	whatever	mā
+1	3:109:3	w	فِے		في	(is) in	fī
+1	3:109:4	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+1	3:109:5	w	وَمَا		وما	and whatever	wamā
+1	3:109:6	w	فِے		في	(is) in	fī
+1	3:109:7	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+1	3:109:8	w	وَإِلَى		والي	And to	wa-ilā
+1	3:109:9	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+1	3:109:10	w	تُرْجَعُ		ترجع	will be returned	tur'jaʿu
+1	3:109:11	w	ࡲ۬لُامُورُ࣌		الامور	the matters	l-umūru
+1	3:109:12	e	۝١٠٩				
+2	3:110:1	w	كُنتُمْ		كنتم	You are	kuntum
+2	3:110:2	w	خَيْرَ		خير	(the) best	khayra
+2	3:110:3	w	أُمَّةٍ		امة	(of) people	ummatin
+2	3:110:4	w	ࡳخْرِجَتْ		اخرجت	raised	ukh'rijat
+2	3:110:5	w	لِلنَّاسِ		للناس	for the mankind	lilnnāsi
+2	3:110:6	w	تَامُرُونَ		تامرون	enjoining	tamurūna
+2	3:110:7	w	بِالْمَعْرُوفِ		بالمعروف	the right	bil-maʿrūfi
+3	3:110:8	w	وَتَنْهَوْنَ		وتنهون	and forbidding	watanhawna
+3	3:110:9	w	عَنِ		عن	[from]	ʿani
+3	3:110:10	w	ࡴ۬لْمُنكَرِ		المنكر	the wrong	l-munkari
+3	3:110:11	w	وَتُومِنُونَ		وتومنون	and believing	watu'minūna
+3	3:110:12	w	بِاللَّهِ࣌		بالله	in Allah	bil-lahi
+3	3:110:13	w	وَلَوَ		ولو	And if	walaw
+3	3:110:14	w	اٰمَنَ		امن	believed	āmana
+3	3:110:15	w	أَهْلُ		اهل	(the) People	ahlu
+4	3:110:16	w	ࡲ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+4	3:110:17	w	لَكَانَ		لكان	surely would have been	lakāna
+4	3:110:18	w	خَيْراࣰ		خيرا	good	khayran
+4	3:110:19	w	لَّهُم࣌		لهم	for them	lahum
+4	3:110:20	w	مِّنْهُمُ		منهم	Among them	min'humu
+4	3:110:21	w	ࡲ۬لْمُومِنُونَ࣌		المومنون	(are) [the] believers	l-mu'minūna
+4	3:110:22	w	وَأَكْثَرُهُمُ		واكثرهم	but most of them	wa-aktharuhumu
+5	3:110:23	w	ࡲ۬لْفَٰسِقُونَ࣌		الفسقون	(are) defiantly disobedient	l-fāsiqūna
+5	3:110:24	e	۝١١٠				
+5	3:111:1	w	لَنْ		لن	Never	lan
+5	3:111:2	w	يَّضُرُّوكُمُۥٓ࣌		يضروكم	will they harm you	yaḍurrūkum
+5	3:111:3	w	إِلَّآ		الا	except	illā
+5	3:111:4	w	أَذىࣰ࣌		اذي	a hurt	adhan
+5	3:111:5	w	وَإِنْ		وان	And if	wa-in
+5	3:111:6	w	يُّقَٰتِلُوكُمْ		يقتلوكم	they fight you	yuqātilūkum
+6	3:111:7	w	يُوَلُّوكُمُ		يولوكم	they will turn (towards) you	yuwallūkumu
+6	3:111:8	w	ࡲ۬لَادْبَٰرَ࣌		الادبر	the backs	l-adbāra
+6	3:111:9	w	ثُمَّ		ثم	then	thumma
+6	3:111:10	w	لَا		لا	not	lā
+6	3:111:11	w	يُنصَرُونَ࣌		ينصرون	they will be helped	yunṣarūna
+6	3:111:12	e	۝١١١				
+6	3:112:1	w	ضُرِبَتْ		ضربت	Struck	ḍuribat
+6	3:112:2	w	عَلَيْهِمُ		عليهم	on them	ʿalayhimu
+7	3:112:3	w	ࡲ۬لذِّلَّةُ		الذلة	the humiliation	l-dhilatu
+7	3:112:4	w	أَيْنَ		اين	wherever	ayna
+7	3:112:5	w	مَا		ما	that	mā
+7	3:112:6	w	ثُقِفُوٓاْ࣌		ثقفوا	they are found	thuqifū
+7	3:112:7	w	إِلَّا		الا	except	illā
+7	3:112:8	w	بِحَبْلࣲ		بحبل	with a rope	biḥablin
+7	3:112:9	w	مِّنَ		من	from	mina
+7	3:112:10	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	3:112:11	w	وَحَبْلࣲ		وحبل	and a rope	waḥablin
+7	3:112:12	w	مِّنَ		من	from	mina
+7	3:112:13	w	ࡰ۬لنَّاسِ		الناس	the people	l-nāsi
+8	3:112:14	w	وَبَآءُو		وباو	And they incurred	wabāū
+8	3:112:15	w	بِغَضَبࣲ		بغضب	wrath	bighaḍabin
+8	3:112:16	w	مِّنَ		من	from	mina
+8	3:112:17	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+8	3:112:18	w	وَضُرِبَتْ		وضربت	and struck	waḍuribat
+8	3:112:19	w	عَلَيْهِمُ		عليهم	on them	ʿalayhimu
+8	3:112:20	w	ࡲ۬لْمَسْكَنَةُ࣌		المسكنة	the poverty	l-maskanatu
+9	3:112:21	w	ذَٰلِكَ		ذلك	That	dhālika
+9	3:112:22	w	بِأَنَّهُمْ		بانهم	(is) because	bi-annahum
+9	3:112:23	w	كَانُواْ		كانوا	they used to	kānū
+9	3:112:24	w	يَكْفُرُونَ		يكفرون	disbelieve	yakfurūna
+9	3:112:25	w	بِـَٔايَٰتِ		بايت	in (the) Verses	biāyāti
+9	3:112:26	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+9	3:112:27	w	وَيَقْتُلُونَ		ويقتلون	and they killed	wayaqtulūna
+10	3:112:28	w	ࡰ۬لَانۢبِئَآءَ		الانبيا	the Prophets	l-anbiyāa
+10	3:112:29	w	بِغَيْرِ		بغير	without	bighayri
+10	3:112:30	w	حَقࣲّ࣌		حق	right	ḥaqqin
+10	3:112:31	w	ذَٰلِكَ		ذلك	That	dhālika
+10	3:112:32	w	بِمَا		بما	(is) because	bimā
+10	3:112:33	w	عَصَواْ		عصوا	they disobeyed	ʿaṣaw
+10	3:112:34	w	وَّكَانُواْ		وكانوا	and they used to	wakānū
+10	3:112:35	w	يَعْتَدُونَ࣌		يعتدون	transgress	yaʿtadūna
+10	3:112:36	e	۝١١٢				
+11	3:113:1	w	۞ لَيْسُواْ		ليسوا	They are not	laysū
+11	3:113:2	w	سَوَآءࣰ࣌		سوا	(the) same	sawāan
+11	3:113:3	w	مِّنَ		من	among	min
+11	3:113:4	w	ࡰهْلِ		اهل	(the) People	ahli
+11	3:113:5	w	ࡴ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+11	3:113:6	w	أُمَّةࣱ		امة	(is) a community	ummatun
+11	3:113:7	w	قَآئِمَةࣱ		قايمة	standing	qāimatun
+11	3:113:8	w	يَتْلُونَ		يتلون	(and) reciting	yatlūna
+12	3:113:9	w	ءَايَٰتِ		ايت	(the) Verses	āyāti
+12	3:113:10	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+12	3:113:11	w	ءَانَآءَ		انا	(in the) hours	ānāa
+12	3:113:12	w	ࡰ۬ليْلِ		اليل	(of) the night	al-layli
+12	3:113:13	w	وَهُمْ		وهم	and they	wahum
+12	3:113:14	w	يَسْجُدُونَ࣌		يسجدون	prostrate	yasjudūna
+12	3:113:15	e	۝١١٣				
+12	3:114:1	w	يُومِنُونَ		يومنون	They believe	yu'minūna
+12	3:114:2	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+13	3:114:3	w	وَالْيَوْمِ		واليوم	and the Day	wal-yawmi
+13	3:114:4	w	ࡴ۬لَاخِرِ		الاخر	the Last	l-ākhiri
+13	3:114:5	w	وَيَامُرُونَ		ويامرون	and they enjoin	wayamurūna
+13	3:114:6	w	بِالْمَعْرُوفِ		بالمعروف	[with] the right	bil-maʿrūfi
+13	3:114:7	w	وَيَنْهَوْنَ		وينهون	and forbid	wayanhawna
+13	3:114:8	w	عَنِ		عن	[from]	ʿani
+13	3:114:9	w	ࡴ۬لْمُنكَرِ		المنكر	the wrong	l-munkari
+14	3:114:10	w	وَيُسَٰرِعُونَ		ويسرعون	and they hasten	wayusāriʿūna
+14	3:114:11	w	فِے		في	in	fī
+14	3:114:12	w	ࡴ۬لْخَيْرَٰتِ࣌		الخيرت	the good deeds	l-khayrāti
+14	3:114:13	w	وَأُوْلَٰٓئِكَ		واوليك	And those	wa-ulāika
+14	3:114:14	w	مِنَ		من	(are) from	mina
+14	3:114:15	w	ࡰ۬لصَّٰلِحِينَ࣌		الصلحين	the righteous	l-ṣāliḥīna
+14	3:114:16	e	۝١١٤				
+15	3:115:1	w	وَمَا		وما	And whatever	wamā
+15	3:115:2	w	تَفْعَلُواْ		تفعلوا	they do	yafʿalū
+15	3:115:3	w	مِنْ		من	of	min
+15	3:115:4	w	خَيْرࣲ		خير	a good	khayrin
+15	3:115:5	w	فَلَن		فلن	then never	falan
+15	3:115:6	w	تُكْفَرُوهُ࣌		تكفروه	will they be denied it	yuk'farūhu
+15	3:115:7	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	3:115:8	w	عَلِيمُۢ		عليم	(is) All-Knowing	ʿalīmun
+15	3:115:9	w	بِالْمُتَّقِينَ࣌		بالمتقين	of the God-fearing	bil-mutaqīna
+15	3:115:10	e	۝١١٥				

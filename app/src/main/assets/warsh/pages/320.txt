@@ -1,0 +1,147 @@
+1	20:111:1	w	فَتَعَٰلَى		فتعلي	So high (above all)	fataʿālā
+1	20:111:2	w	ࡰ۬للَّهُ		الله	(is) Allah	l-lahu
+1	20:111:3	w	ࡲ۬لْمَلِكُ		الملك	the King	l-maliku
+1	20:111:4	w	ࡲ۬لْحَقُّ࣌		الحق	the True	l-ḥaqu
+1	20:111:5	w	وَلَا		ولا	And (do) not	walā
+1	20:111:6	w	تَعْجَلْ		تعجل	hasten	taʿjal
+1	20:111:7	w	بِالْقُرْءَانِ		بالقران	with the Quran	bil-qur'āni
+1	20:111:8	w	مِن		من	before	min
+1	20:111:9	w	قَبْلِ		قبل	before	qabli
+1	20:111:10	w	أَنْ		ان	[that]	an
+2	20:111:11	w	يُّقْضٜىٰٓ		يقضي	is completed	yuq'ḍā
+2	20:111:12	w	إِلَيْكَ		اليك	to you	ilayka
+2	20:111:13	w	وَحْيُهُۥ࣌		وحيه	its revelation	waḥyuhu
+2	20:111:14	w	وَقُل		وقل	and say	waqul
+2	20:111:15	w	رَّبِّ		رب	My Lord	rabbi
+2	20:111:16	w	زِدْنِے		زدني	Increase me	zid'nī
+2	20:111:17	w	عِلْماࣰ࣌		علما	(in) knowledge	ʿil'man
+2	20:111:18	e	۝١١١				
+2	20:112:1	w	وَلَقَدْ		ولقد	And verily	walaqad
+2	20:112:2	w	عَهِدْنَآ		عهدنا	We made a covenant	ʿahid'nā
+3	20:112:3	w	إِلَىٰٓ		الي	with	ilā
+3	20:112:4	w	ءَادَمَ		ادم	Adam	ādama
+3	20:112:5	w	مِن		من	before	min
+3	20:112:6	w	قَبْلُ		قبل	before	qablu
+3	20:112:7	w	فَنَسِيَ		فنسي	but he forgot	fanasiya
+3	20:112:8	w	وَلَمْ		ولم	and not	walam
+3	20:112:9	w	نَجِدْ		نجد	We found	najid
+3	20:112:10	w	لَهُۥ		له	in him	lahu
+3	20:112:11	w	عَزْماࣰ࣌		عزما	determination	ʿazman
+3	20:112:12	e	۝١١٢				
+3	20:113:1	w	وَإِذْ		واذ	And when	wa-idh
+3	20:113:2	w	قُلْنَا		قلنا	We said	qul'nā
+4	20:113:3	w	لِلْمَلَٰٓئِكَةِ		للمليكة	to the Angels	lil'malāikati
+4	20:113:4	w	ࡴ࢈سْجُدُواْ		اسجدوا	Prostrate	us'judū
+4	20:113:5	w	لِأٓدَمَ		لادم	to Adam	liādama
+4	20:113:6	w	فَسَجَدُوٓاْ࣌		فسجدوا	then they prostrated	fasajadū
+4	20:113:7	w	إِلَّآ		الا	except	illā
+4	20:113:8	w	إِبْلِيسَ		ابليس	Iblis	ib'līsa
+4	20:113:9	w	أَبٜىٰ࣌		ابي	he refused	abā
+4	20:113:10	e	۝١١٣				
+5	20:114:1	w	فَقُلْنَا		فقلنا	Then We said	faqul'nā
+5	20:114:2	w	يَٰٓـَٔادَمُ		يادم	O Adam	yāādamu
+5	20:114:3	w	إِنَّ		ان	Indeed	inna
+5	20:114:4	w	هَٰذَا		هذا	this	hādhā
+5	20:114:5	w	عَدُوࣱّ		عدو	(is) an enemy	ʿaduwwun
+5	20:114:6	w	لَّكَ		لك	to you	laka
+5	20:114:7	w	وَلِزَوْجِكَ		ولزوجك	and to your wife	walizawjika
+5	20:114:8	w	فَلَا		فلا	So not	falā
+5	20:114:9	w	يُخْرِجَنَّكُمَا		يخرجنكما	(let) him drive you both	yukh'rijannakumā
+6	20:114:10	w	مِنَ		من	from	mina
+6	20:114:11	w	ࡰ۬لْجَنَّةِ		الجنة	Paradise	l-janati
+6	20:114:12	w	فَتَشْقٜىٰٓ࣌		فتشقي	so (that) you would suffer	fatashqā
+6	20:114:13	e	۝١١٤				
+6	20:115:1	w	إِنَّ		ان	Indeed	inna
+6	20:115:2	w	لَكَ		لك	for you	laka
+6	20:115:3	w	أَلَّا		الا	that not	allā
+6	20:115:4	w	تَجُوعَ		تجوع	you will be hungry	tajūʿa
+6	20:115:5	w	فِيهَا		فيها	therein	fīhā
+6	20:115:6	w	وَلَا		ولا	and not	walā
+6	20:115:7	w	تَعْرٜىٰ࣌		تعري	you will be unclothed	taʿrā
+6	20:115:8	e	۝١١٥				
+7	20:116:1	w	وَإِنَّكَ		وانك	And that you	wa-annaka
+7	20:116:2	w	لَا		لا	not	lā
+7	20:116:3	w	تَظْمَؤُاْ		تظموا	will suffer from thirst	taẓma-u
+7	20:116:4	w	فِيهَا		فيها	therein	fīhā
+7	20:116:5	w	وَلَا		ولا	and not	walā
+7	20:116:6	w	تَضْحٜىٰ࣌		تضحي	exposed to the sun's heat	taḍḥā
+7	20:116:7	e	۝١١٦				
+7	20:117:1	w	فَوَسْوَسَ		فوسوس	Then whispered	fawaswasa
+7	20:117:2	w	إِلَيْهِ		اليه	to him	ilayhi
+7	20:117:3	w	ࡴ۬لشَّيْطَٰنُ࣌		الشيطن	Shaitaan	l-shayṭānu
+8	20:117:4	w	قَالَ		قال	he said	qāla
+8	20:117:5	w	يَٰٓـَٔادَمُ		يادم	O Adam	yāādamu
+8	20:117:6	w	هَلَ		هل	Shall	hal
+8	20:117:7	w	ࡰدُلُّكَ		ادلك	I direct you	adulluka
+8	20:117:8	w	عَلَىٰ		علي	to	ʿalā
+8	20:117:9	w	شَجَرَةِ		شجرة	(the) tree	shajarati
+8	20:117:10	w	ࡴ۬لْخُلْدِ		الخلد	(of) the Eternity	l-khul'di
+8	20:117:11	w	وَمُلْكࣲ		وملك	and a kingdom	wamul'kin
+8	20:117:12	w	لَّا		لا	not	lā
+8	20:117:13	w	يَبْلٜىٰ࣌		يبلي	(that will) deteriorate	yablā
+8	20:117:14	e	۝١١٧				
+9	20:118:1	w	فَأَكَلَا		فاكلا	Then they both ate	fa-akalā
+9	20:118:2	w	مِنْهَا		منها	from it	min'hā
+9	20:118:3	w	فَبَدَتْ		فبدت	so became apparent	fabadat
+9	20:118:4	w	لَهُمَا		لهما	to them	lahumā
+9	20:118:5	w	سَوْءَٰتُهُمَا		سوتهما	their shame	sawātuhumā
+9	20:118:6	w	وَطَفِقَا		وطفقا	and they began	waṭafiqā
+9	20:118:7	w	يَخْصِفَٰنِ		يخصفن	(to) fasten	yakhṣifāni
+10	20:118:8	w	عَلَيْهِمَا		عليهما	on themselves	ʿalayhimā
+10	20:118:9	w	مِنْ		من	from	min
+10	20:118:10	w	وَّرَقِ		ورق	(the) leaves	waraqi
+10	20:118:11	w	ࡴ۬لْجَنَّةِ࣌		الجنة	(of) Paradise	l-janati
+10	20:118:12	w	وَعَصٜىٰٓ		وعصي	And Adam disobeyed	waʿaṣā
+10	20:118:13	w	ءَادَمُ		ادم	And Adam disobeyed	ādamu
+10	20:118:14	w	رَبَّهُۥ		ربه	his Lord	rabbahu
+10	20:118:15	w	فَغَوٜىٰ࣌		فغوي	and erred	faghawā
+10	20:118:16	e	۝١١٨				
+11	20:119:1	w	ثُمَّ		ثم	Then	thumma
+11	20:119:2	w	ࡰٜجْتَبٜـٰهُ		اجتبه	chose him	ij'tabāhu
+11	20:119:3	w	رَبُّهُۥ		ربه	his Lord	rabbuhu
+11	20:119:4	w	فَتَابَ		فتاب	and turned	fatāba
+11	20:119:5	w	عَلَيْهِ		عليه	to him	ʿalayhi
+11	20:119:6	w	وَهَدٜىٰ࣌		وهدي	and guided (him)	wahadā
+11	20:119:7	e	۝١١٩				
+11	20:120:1	w	قَالَ		قال	He said	qāla
+11	20:120:2	w	ࡰٜهْبِطَا		اهبطا	Go down	ih'biṭā
+11	20:120:3	w	مِنْهَا		منها	from it	min'hā
+12	20:120:4	w	جَمِيعاَۢ࣌		جميعا	all	jamīʿan
+12	20:120:5	w	بَعْضُكُمْ		بعضكم	some of you	baʿḍukum
+12	20:120:6	w	لِبَعْضٍ		لبعض	to others	libaʿḍin
+12	20:120:7	w	عَدُوࣱّ࣌		عدو	(as) enemy	ʿaduwwun
+12	20:120:8	w	فَإِمَّا		فاما	Then if	fa-immā
+12	20:120:9	w	يَاتِيَنَّكُم		ياتينكم	comes to you	yatiyannakum
+12	20:120:10	w	مِّنِّے		مني	from Me	minnī
+12	20:120:11	w	هُدىࣰ		هدي	guidance	hudan
+12	20:120:12	e	۝١٢٠				
+13	20:121:1	w	فَمَنِ		فمن	then whoever	famani
+13	20:121:2	w	ࡴٜتَّبَعَ		اتبع	follows	ittabaʿa
+13	20:121:3	w	هُدٜايَ		هداي	My guidance	hudāya
+13	20:121:4	w	فَلَا		فلا	then not	falā
+13	20:121:5	w	يَضِلُّ		يضل	he will go astray	yaḍillu
+13	20:121:6	w	وَلَا		ولا	and not	walā
+13	20:121:7	w	يَشْقٜىٰ࣌		يشقي	suffer	yashqā
+13	20:121:8	e	۝١٢١				
+13	20:122:1	w	وَمَنَ		ومن	And whoever	waman
+13	20:122:2	w	ࡰعْرَضَ		اعرض	turns away	aʿraḍa
+13	20:122:3	w	عَن		عن	from	ʿan
+14	20:122:4	w	ذِكْرِے		ذكري	My remembrance	dhik'rī
+14	20:122:5	w	فَإِنَّ		فان	then indeed	fa-inna
+14	20:122:6	w	لَهُۥ		له	for him	lahu
+14	20:122:7	w	مَعِيشَةࣰ		معيشة	(is) a life	maʿīshatan
+14	20:122:8	w	ضَنكاࣰ		ضنكا	straitened	ḍankan
+14	20:122:9	w	وَنَحْشُرُهُۥ		ونحشره	and We will gather him	wanaḥshuruhu
+14	20:122:10	w	يَوْمَ		يوم	(on the) Day	yawma
+14	20:122:11	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+15	20:122:12	w	أَعْمٜىٰ࣌		اعمي	blind	aʿmā
+15	20:122:13	e	۝١٢٢				
+15	20:123:1	w	قَالَ		قال	He will say	qāla
+15	20:123:2	w	رَبِّ		رب	My Lord	rabbi
+15	20:123:3	w	لِمَ		لم	Why	lima
+15	20:123:4	w	حَشَرْتَنِيَ		حشرتني	You raised me	ḥashartanī
+15	20:123:5	w	أَعْمٜىٰ		اعمي	blind	aʿmā
+15	20:123:6	w	وَقَدْ		وقد	while [verily]	waqad
+15	20:123:7	w	كُنتُ		كنت	I had	kuntu
+15	20:123:8	w	بَصِيراࣰ࣌		بصيرا	sight	baṣīran
+15	20:123:9	e	۝١٢٣				

@@ -1,0 +1,132 @@
+1	27:58:1	w	۞ فَمَا		فما	But not	famā
+1	27:58:2	w	كَانَ		كان	was	kāna
+1	27:58:3	w	جَوَابَ		جواب	(the) answer	jawāba
+1	27:58:4	w	قَوْمِهِۦٓ		قومهي	(of) his people	qawmihi
+1	27:58:5	w	إِلَّآ		الا	except	illā
+1	27:58:6	w	أَن		ان	that	an
+1	27:58:7	w	قَالُوٓاْ		قالوا	they said	qālū
+1	27:58:8	w	أَخْرِجُوٓاْ		اخرجوا	Drive out	akhrijū
+1	27:58:9	w	ءَالَ		ال	(the) family	āla
+2	27:58:10	w	لُوطࣲ		لوط	(of) Lut	lūṭin
+2	27:58:11	w	مِّن		من	from	min
+2	27:58:12	w	قَرْيَتِكُمُۥٓ࣌		قريتكم	your town	qaryatikum
+2	27:58:13	w	إِنَّهُمُۥٓ		انهم	Indeed, they	innahum
+2	27:58:14	w	أُنَاسࣱ		اناس	(are) people	unāsun
+2	27:58:15	w	يَتَطَهَّرُونَ࣌		يتطهرون	who keep clean and pure	yataṭahharūna
+2	27:58:16	e	۝٥٨				
+2	27:59:1	w	فَأَنجَيْنَٰهُ		فانجينه	So We saved him	fa-anjaynāhu
+3	27:59:2	w	وَأَهْلَهُۥٓ		واهله	and his family	wa-ahlahu
+3	27:59:3	w	إِلَّا		الا	except	illā
+3	27:59:4	w	ࡰٜمْرَأَتَهُۥ		امراته	his wife	im'ra-atahu
+3	27:59:5	w	قَدَّرْنَٰهَا		قدرنها	We destined her	qaddarnāhā
+3	27:59:6	w	مِنَ		من	(to be) of	mina
+3	27:59:7	w	ࡰ۬لْغَٰبِرِينَ࣌		الغبرين	those who remained behind	l-ghābirīna
+3	27:59:8	e	۝٥٩				
+3	27:60:1	w	وَأَمْطَرْنَا		وامطرنا	And We rained	wa-amṭarnā
+4	27:60:2	w	عَلَيْهِم		عليهم	upon them	ʿalayhim
+4	27:60:3	w	مَّطَراࣰ࣌		مطرا	a rain	maṭaran
+4	27:60:4	w	فَسَآءَ		فسا	and was evil	fasāa
+4	27:60:5	w	مَطَرُ		مطر	(the) rain	maṭaru
+4	27:60:6	w	ࡲ۬لْمُنذَرِينَ࣌		المنذرين	(on) those who were warned	l-mundharīna
+4	27:60:7	e	۝٦٠				
+4	27:61:1	w	قُلِ		قل	Say	quli
+4	27:61:2	w	ࡴ۬لْحَمْدُ		الحمد	All praise (be)	l-ḥamdu
+4	27:61:3	w	لِلهِ		لله	to Allah	lillahi
+4	27:61:4	w	وَسَلَٰمٌ		وسلم	and peace (be)	wasalāmun
+5	27:61:5	w	عَلَىٰ		علي	upon	ʿalā
+5	27:61:6	w	عِبَادِهِ		عباده	His slaves	ʿibādihi
+5	27:61:7	w	ࡴ۬لذِينَ		الذين	those whom	alladhīna
+5	27:61:8	w	ࡰٜصْطَفٜىٰٓ࣌		اصطفي	He has chosen	iṣ'ṭafā
+5	27:61:9	w	ءَآللَّهُ		الله	Is Allah	āllahu
+5	27:61:10	w	خَيْرٌ		خير	better	khayrun
+5	27:61:11	w	ࡰمَّا		اما	or what	ammā
+5	27:61:12	w	تُشْرِكُونَ࣌		تشركون	they associate (with Him)	yush'rikūna
+5	27:61:13	e	۝٦١				
+6	27:62:1	w	أَمَّنْ		امن	Or Who	amman
+6	27:62:2	w	خَلَقَ		خلق	has created	khalaqa
+6	27:62:3	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+6	27:62:4	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+6	27:62:5	w	وَأَنزَلَ		وانزل	and sent down	wa-anzala
+6	27:62:6	w	لَكُم		لكم	for you	lakum
+6	27:62:7	w	مِّنَ		من	from	mina
+6	27:62:8	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+7	27:62:9	w	مَآءࣰ		ما	water	māan
+7	27:62:10	w	فَأَنۢبَتْنَا		فانبتنا	And We caused to grow	fa-anbatnā
+7	27:62:11	w	بِهِۦ		بهي	thereby	bihi
+7	27:62:12	w	حَدَآئِقَ		حدايق	gardens	ḥadāiqa
+7	27:62:13	w	ذَاتَ		ذات	of beauty (and delight)	dhāta
+7	27:62:14	w	بَهْجَةࣲ࣌		بهجة	of beauty (and delight)	bahjatin
+7	27:62:15	w	مَّا		ما	not	mā
+7	27:62:16	w	كَانَ		كان	it is	kāna
+7	27:62:17	w	لَكُمُۥٓ		لكم	for you	lakum
+7	27:62:18	w	أَن		ان	that	an
+8	27:62:19	w	تُنۢبِتُواْ		تنبتوا	you cause to grow	tunbitū
+8	27:62:20	w	شَجَرَهَآ࣌		شجرها	their trees	shajarahā
+8	27:62:21	w	أَࢇلَٰهࣱ		اله	Is there any god	a-ilāhun
+8	27:62:22	w	مَّعَ		مع	with	maʿa
+8	27:62:23	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+8	27:62:24	w	بَلْ		بل	Nay	bal
+8	27:62:25	w	هُمْ		هم	they	hum
+8	27:62:26	w	قَوْمࣱ		قوم	(are) a people	qawmun
+8	27:62:27	w	يَعْدِلُونَ࣌		يعدلون	who ascribe equals	yaʿdilūna
+8	27:62:28	e	۝٦٢				
+9	27:63:1	w	أَمَّن		امن	Or Who	amman
+9	27:63:2	w	جَعَلَ		جعل	made	jaʿala
+9	27:63:3	w	ࡰ۬لَارْضَ		الارض	the earth	l-arḍa
+9	27:63:4	w	قَرَاراࣰ		قرارا	a firm abode	qarāran
+9	27:63:5	w	وَجَعَلَ		وجعل	and made	wajaʿala
+9	27:63:6	w	خِلَٰلَهَآ		خللها	(in) its midst	khilālahā
+9	27:63:7	w	أَنْهَٰراࣰ		انهرا	rivers	anhāran
+9	27:63:8	w	وَجَعَلَ		وجعل	and made	wajaʿala
+10	27:63:9	w	لَهَا		لها	for it	lahā
+10	27:63:10	w	رَوَٰسِيَ		روسي	firm mountains	rawāsiya
+10	27:63:11	w	وَجَعَلَ		وجعل	and made	wajaʿala
+10	27:63:12	w	بَيْنَ		بين	between	bayna
+10	27:63:13	w	ࡰ۬لْبَحْرَيْنِ		البحرين	the two seas	l-baḥrayni
+10	27:63:14	w	حَاجِزاً࣌		حاجزا	a barrier	ḥājizan
+10	27:63:15	w	ࡰࢇلَٰهࣱ		اله	Is there any god	a-ilāhun
+10	27:63:16	w	مَّعَ		مع	with	maʿa
+10	27:63:17	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+11	27:63:18	w	بَلَ		بل	Nay	bal
+11	27:63:19	w	ࡰكْثَرُهُمْ		اكثرهم	most of them	aktharuhum
+11	27:63:20	w	لَا		لا	(do) not	lā
+11	27:63:21	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+11	27:63:22	e	۝٦٣				
+11	27:64:1	w	أَمَّنْ		امن	Or Who	amman
+11	27:64:2	w	يُّجِيبُ		يجيب	responds	yujību
+11	27:64:3	w	ࡲ۬لْمُضْطَرَّ		المضطر	(to) the distressed one	l-muḍ'ṭara
+11	27:64:4	w	إِذَا		اذا	when	idhā
+12	27:64:5	w	دَعَاهُ		دعاه	he calls Him	daʿāhu
+12	27:64:6	w	وَيَكْشِفُ		ويكشف	and He removes	wayakshifu
+12	27:64:7	w	ࡲ۬لسُّوٓءَ		السو	the evil	l-sūa
+12	27:64:8	w	وَيَجْعَلُكُمْ		ويجعلكم	and makes you	wayajʿalukum
+12	27:64:9	w	خُلَفَآءَ		خلفا	inheritors	khulafāa
+12	27:64:10	w	ࡰ۬لَارْضِ࣌		الارض	(of) the earth	l-arḍi
+12	27:64:11	w	أَࢇلَٰهࣱ		اله	Is there any god	a-ilāhun
+13	27:64:12	w	مَّعَ		مع	with	maʿa
+13	27:64:13	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+13	27:64:14	w	قَلِيلاࣰ		قليلا	Little	qalīlan
+13	27:64:15	w	مَّا		ما	(is) what	mā
+13	27:64:16	w	تَذَّكَّرُونَ࣌		تذكرون	you remember	tadhakkarūna
+13	27:64:17	e	۝٦٤				
+13	27:65:1	w	أَمَّنْ		امن	Or Who	amman
+13	27:65:2	w	يَّهْدِيكُمْ		يهديكم	guides you	yahdīkum
+13	27:65:3	w	فِے		في	in	fī
+14	27:65:4	w	ظُلُمَٰتِ		ظلمت	(the) darkness[es]	ẓulumāti
+14	27:65:5	w	ࡴ۬لْبَرِّ		البر	(of) the land	l-bari
+14	27:65:6	w	وَالْبَحْرِ		والبحر	and the sea	wal-baḥri
+14	27:65:7	w	وَمَنْ		ومن	and Who	waman
+14	27:65:8	w	يُّرْسِلُ		يرسل	sends	yur'silu
+14	27:65:9	w	ࡲ۬لرِّيَٰحَ		الريح	the winds	l-riyāḥa
+14	27:65:10	w	نُشُراَۢ		نشرا	(as) glad tidings	bush'ran
+14	27:65:11	w	بَيْنَ		بين	before	bayna
+14	27:65:12	w	يَدَےْ		يدي	before	yaday
+15	27:65:13	w	رَحْمَتِهِۦٓ࣌		رحمتهي	His Mercy	raḥmatihi
+15	27:65:14	w	أَࢇلَٰهࣱ		اله	Is there any god	a-ilāhun
+15	27:65:15	w	مَّعَ		مع	with	maʿa
+15	27:65:16	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+15	27:65:17	w	تَعَٰلَى		تعلي	High is	taʿālā
+15	27:65:18	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+15	27:65:19	w	عَمَّا		عما	above what	ʿammā
+15	27:65:20	w	يُشْرِكُونَ࣌		يشركون	they associate (with Him)	yush'rikūna
+15	27:65:21	e	۝٦٥				

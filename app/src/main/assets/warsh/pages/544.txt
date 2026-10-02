@@ -1,0 +1,158 @@
+1	58:12:1	w	يَٰٓأَيُّهَا		يايها	O you who believe	yāayyuhā
+1	58:12:2	w	ࡰ۬لذِينَ		الذين	O you who believe	alladhīna
+1	58:12:3	w	ءَامَنُوٓاْ		امنوا	O you who believe	āmanū
+1	58:12:4	w	إِذَا		اذا	When	idhā
+1	58:12:5	w	نَٰجَيْتُمُ		نجيتم	you privately consult	nājaytumu
+1	58:12:6	w	ࡲ۬لرَّسُولَ		الرسول	the Messenger	l-rasūla
+1	58:12:7	w	فَقَدِّمُواْ		فقدموا	then offer	faqaddimū
+1	58:12:8	w	بَيْنَ		بين	before	bayna
+1	58:12:9	w	يَدَےْ		يدي	before	yaday
+1	58:12:10	w	نَجْوٜيٰكُمْ		نجويكم	your private consultation	najwākum
+2	58:12:11	w	صَدَقَةࣰ࣌		صدقة	charity	ṣadaqatan
+2	58:12:12	w	ذَٰلِكَ		ذلك	That	dhālika
+2	58:12:13	w	خَيْرࣱ		خير	(is) better	khayrun
+2	58:12:14	w	لَّكُمْ		لكم	for you	lakum
+2	58:12:15	w	وَأَطْهَرُ࣌		واطهر	and purer	wa-aṭharu
+2	58:12:16	w	فَإِن		فان	But if	fa-in
+2	58:12:17	w	لَّمْ		لم	not	lam
+2	58:12:18	w	تَجِدُواْ		تجدوا	you find	tajidū
+2	58:12:19	w	فَإِنَّ		فان	then indeed	fa-inna
+2	58:12:20	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+2	58:12:21	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+3	58:12:22	w	رَّحِيمٌ࣌		رحيم	Most Merciful	raḥīmun
+3	58:12:23	e	۝١٢				
+3	58:13:1	w	آٓشْفَقْتُمُۥٓ		اشفقتم	Are you afraid	a-ashfaqtum
+3	58:13:2	w	أَن		ان	to	an
+3	58:13:3	w	تُقَدِّمُواْ		تقدموا	offer	tuqaddimū
+3	58:13:4	w	بَيْنَ		بين	before	bayna
+3	58:13:5	w	يَدَےْ		يدي	before	yaday
+3	58:13:6	w	نَجْوٜيٰكُمْ		نجويكم	your private consultation	najwākum
+3	58:13:7	w	صَدَقَٰتࣲ࣌		صدقت	charities	ṣadaqātin
+4	58:13:8	w	فَإِذْ		فاذ	Then when	fa-idh
+4	58:13:9	w	لَمْ		لم	you do not	lam
+4	58:13:10	w	تَفْعَلُواْ		تفعلوا	you do not	tafʿalū
+4	58:13:11	w	وَتَابَ		وتاب	and Allah has forgiven	watāba
+4	58:13:12	w	ࡰ۬للَّهُ		الله	and Allah has forgiven	l-lahu
+4	58:13:13	w	عَلَيْكُمْ		عليكم	you	ʿalaykum
+4	58:13:14	w	فَأَقِيمُواْ		فاقيموا	then establish	fa-aqīmū
+4	58:13:15	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+4	58:13:16	w	وَءَاتُواْ		واتوا	and give	waātū
+4	58:13:17	w	ࡲ۬لزَّكَوٰةَ࣌		الزكوة	the zakah	l-zakata
+5	58:13:18	w	وَأَطِيعُواْ		واطيعوا	and obey	wa-aṭīʿū
+5	58:13:19	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+5	58:13:20	w	وَرَسُولَهُۥ࣌		ورسوله	and His Messenger	warasūlahu
+5	58:13:21	w	وَاللَّهُ		والله	And Allah	wal-lahu
+5	58:13:22	w	خَبِيرُۢ		خبير	(is) All-Aware	khabīrun
+5	58:13:23	w	بِمَا		بما	of what	bimā
+5	58:13:24	w	تَعْمَلُونَ࣌		تعملون	you do	taʿmalūna
+5	58:13:25	e	۝١٣				
+5	58:14:1	w	۞ أَلَمْ		الم	Do not	alam
+5	58:14:2	w	تَرَ		تر	you see	tara
+5	58:14:3	w	إِلَى		الي	[to]	ilā
+5	58:14:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	58:14:5	w	تَوَلَّوْاْ		تولوا	take as allies	tawallaw
+6	58:14:6	w	قَوْماً		قوما	a people	qawman
+6	58:14:7	w	غَضِبَ		غضب	wrath	ghaḍiba
+6	58:14:8	w	ࡰ۬للَّهُ		الله	(of) Allah	l-lahu
+6	58:14:9	w	عَلَيْهِم		عليهم	(is) upon them	ʿalayhim
+6	58:14:10	w	مَّا		ما	They (are) not	mā
+6	58:14:11	w	هُم		هم	They (are) not	hum
+6	58:14:12	w	مِّنكُمْ		منكم	of you	minkum
+6	58:14:13	w	وَلَا		ولا	and not	walā
+6	58:14:14	w	مِنْهُمْ		منهم	of them	min'hum
+6	58:14:15	w	وَيَحْلِفُونَ		ويحلفون	and they swear	wayaḥlifūna
+6	58:14:16	w	عَلَى		علي	to	ʿalā
+7	58:14:17	w	ࡰ۬لْكَذِبِ		الكذب	the lie	l-kadhibi
+7	58:14:18	w	وَهُمْ		وهم	while they	wahum
+7	58:14:19	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+7	58:14:20	e	۝١٤				
+7	58:15:1	w	أَعَدَّ		اعد	Allah has prepared	aʿadda
+7	58:15:2	w	ࡰ۬للَّهُ		الله	Allah has prepared	l-lahu
+7	58:15:3	w	لَهُمْ		لهم	for them	lahum
+7	58:15:4	w	عَذَاباࣰ		عذابا	a punishment	ʿadhāban
+7	58:15:5	w	شَدِيداً࣌		شديدا	severe	shadīdan
+7	58:15:6	w	ࡴنَّهُمْ		انهم	Indeed, [they]	innahum
+7	58:15:7	w	سَآءَ		سا	evil is	sāa
+8	58:15:8	w	مَا		ما	what	mā
+8	58:15:9	w	كَانُواْ		كانوا	they used to	kānū
+8	58:15:10	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+8	58:15:11	e	۝١٥				
+8	58:16:1	w	ࡰٜتَّخَذُوٓاْ		اتخذوا	They have taken	ittakhadhū
+8	58:16:2	w	أَيْمَٰنَهُمْ		ايمنهم	their oaths	aymānahum
+8	58:16:3	w	جُنَّةࣰ		جنة	(as) a cover	junnatan
+8	58:16:4	w	فَصَدُّواْ		فصدوا	so they hinder	faṣaddū
+8	58:16:5	w	عَن		عن	from	ʿan
+8	58:16:6	w	سَبِيلِ		سبيل	(the) way of Allah	sabīli
+8	58:16:7	w	ࡴ۬للَّهِ		الله	(the) way of Allah	l-lahi
+9	58:16:8	w	فَلَهُمْ		فلهم	so for them	falahum
+9	58:16:9	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+9	58:16:10	w	مُّهِينࣱ࣌		مهين	humiliating	muhīnun
+9	58:16:11	e	۝١٦				
+9	58:17:1	w	لَّن		لن	Never	lan
+9	58:17:2	w	تُغْنِيَ		تغني	will avail	tugh'niya
+9	58:17:3	w	عَنْهُمُۥٓ		عنهم	them	ʿanhum
+9	58:17:4	w	أَمْوَٰلُهُمْ		امولهم	their wealth	amwāluhum
+9	58:17:5	w	وَلَآ		ولا	and not	walā
+9	58:17:6	w	أَوْلَٰدُهُم		اولدهم	their children	awlāduhum
+10	58:17:7	w	مِّنَ		من	against	mina
+10	58:17:8	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+10	58:17:9	w	شَيْـٔاً࣌		شيا	(in) anything	shayan
+10	58:17:10	w	ࡳوْلَٰٓئِكَ		اوليك	Those	ulāika
+10	58:17:11	w	أَصْحَٰبُ		اصحب	(will be) companions	aṣḥābu
+10	58:17:12	w	ࡲ۬لنّٜارِ		النار	(of) the Fire	l-nāri
+10	58:17:13	w	هُمْ		هم	they	hum
+10	58:17:14	w	فِيهَا		فيها	in it	fīhā
+10	58:17:15	w	خَٰلِدُونَ࣌		خلدون	will abide forever	khālidūna
+10	58:17:16	e	۝١٧				
+10	58:18:1	w	يَوْمَ		يوم	(On the) Day	yawma
+11	58:18:2	w	يَبْعَثُهُمُ		يبعثهم	Allah will raise them	yabʿathuhumu
+11	58:18:3	w	ࡲ۬للَّهُ		الله	Allah will raise them	l-lahu
+11	58:18:4	w	جَمِيعاࣰ		جميعا	all	jamīʿan
+11	58:18:5	w	فَيَحْلِفُونَ		فيحلفون	then they will swear	fayaḥlifūna
+11	58:18:6	w	لَهُۥ		له	to Him	lahu
+11	58:18:7	w	كَمَا		كما	as	kamā
+11	58:18:8	w	يَحْلِفُونَ		يحلفون	they swear	yaḥlifūna
+11	58:18:9	w	لَكُمْ		لكم	to you	lakum
+11	58:18:10	w	وَيَحْسِبُونَ		ويحسبون	And they think	wayaḥsabūna
+12	58:18:11	w	أَنَّهُمْ		انهم	that they	annahum
+12	58:18:12	w	عَلَىٰ		علي	(are) on	ʿalā
+12	58:18:13	w	شَےْءٍ࣌		شي	something	shayin
+12	58:18:14	w	ࡰلَآ		الا	No doubt	alā
+12	58:18:15	w	إِنَّهُمْ		انهم	Indeed, they	innahum
+12	58:18:16	w	هُمُ		هم	[they]	humu
+12	58:18:17	w	ࡲ۬لْكَٰذِبُونَ࣌		الكذبون	(are) the liars	l-kādhibūna
+12	58:18:18	e	۝١٨				
+12	58:19:1	w	ࡰٜسْتَحْوَذَ		استحوذ	Has overcome	is'taḥwadha
+12	58:19:2	w	عَلَيْهِمُ		عليهم	them	ʿalayhimu
+13	58:19:3	w	ࡲ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan	l-shayṭānu
+13	58:19:4	w	فَأَنسٜيٰهُمْ		فانسيهم	so he made them forget	fa-ansāhum
+13	58:19:5	w	ذِكْرَ		ذكر	(the) remembrance	dhik'ra
+13	58:19:6	w	ࡰ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+13	58:19:7	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+13	58:19:8	w	حِزْبُ		حزب	(are the) party	ḥiz'bu
+13	58:19:9	w	ࡲ۬لشَّيْطَٰنِ࣌		الشيطن	(of) the Shaitaan	l-shayṭāni
+13	58:19:10	w	أَلَآ		الا	No doubt	alā
+13	58:19:11	w	إِنَّ		ان	Indeed	inna
+13	58:19:12	w	حِزْبَ		حزب	(the) party	ḥiz'ba
+14	58:19:13	w	ࡰ۬لشَّيْطَٰنِ		الشيطن	(of) the Shaitaan	l-shayṭāni
+14	58:19:14	w	هُمُ		هم	they	humu
+14	58:19:15	w	ࡲ۬لْخَٰسِرُونَ࣌		الخسرون	(will be) the losers	l-khāsirūna
+14	58:19:16	e	۝١٩				
+14	58:20:1	w	إِنَّ		ان	Indeed	inna
+14	58:20:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+14	58:20:3	w	يُحَآدُّونَ		يحادون	oppose	yuḥāddūna
+14	58:20:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+14	58:20:5	w	وَرَسُولَهُۥٓ		ورسوله	and His Messenger	warasūlahu
+14	58:20:6	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+15	58:20:7	w	فِے		في	(will be) among	fī
+15	58:20:8	w	ࡴ۬لَاذَلِّينَ࣌		الاذلين	the most humiliated	l-adhalīna
+15	58:20:9	w	كَتَبَ		كتب	Allah has decreed	kataba
+15	58:20:10	w	ࡰ۬للَّهُ		الله	Allah has decreed	l-lahu
+15	58:20:11	w	لَأَغْلِبَنَّ		لاغلبن	Surely, I will overcome	la-aghlibanna
+15	58:20:12	w	أَنَا		انا	I	anā
+15	58:20:13	w	وَرُسُلِيَ࣌		ورسلي	and My Messengers	warusulī
+15	58:20:14	w	إِنَّ		ان	Indeed	inna
+15	58:20:15	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	58:20:16	w	قَوِيٌّ		قوي	(is) All-Strong	qawiyyun
+15	58:20:17	w	عَزِيزࣱ࣌		عزيز	All-Mighty	ʿazīzun
+15	58:20:18	e	۝٢٠				

@@ -1,0 +1,134 @@
+1	40:34:1	w	وَلَقَدْ		ولقد	And indeed	walaqad
+1	40:34:2	w	جَآءَكُمْ		جاكم	came to you	jāakum
+1	40:34:3	w	يُوسُفُ		يوسف	Yusuf	yūsufu
+1	40:34:4	w	مِن		من	before	min
+1	40:34:5	w	قَبْلُ		قبل	before	qablu
+1	40:34:6	w	بِالْبَيِّنَٰتِ		بالبينت	with clear proofs	bil-bayināti
+1	40:34:7	w	فَمَا		فما	but not	famā
+1	40:34:8	w	زِلْتُمْ		زلتم	you ceased	zil'tum
+1	40:34:9	w	فِے		في	in	fī
+2	40:34:10	w	شَكࣲّ		شك	doubt	shakkin
+2	40:34:11	w	مِّمَّا		مما	about what	mimmā
+2	40:34:12	w	جَآءَكُم		جاكم	he brought to you	jāakum
+2	40:34:13	w	بِهِۦ		بهي	[with it]	bihi
+2	40:34:14	w	حَتَّىٰٓ		حتي	until	ḥattā
+2	40:34:15	w	إِذَا		اذا	when	idhā
+2	40:34:16	w	هَلَكَ		هلك	he died	halaka
+2	40:34:17	w	قُلْتُمْ		قلتم	you said	qul'tum
+2	40:34:18	w	لَنْ		لن	Never	lan
+2	40:34:19	w	يَّبْعَثَ		يبعث	will Allah raise	yabʿatha
+2	40:34:20	w	ࡰ۬للَّهُ		الله	will Allah raise	l-lahu
+3	40:34:21	w	مِنۢ		من	after him	min
+3	40:34:22	w	بَعْدِهِۦ		بعدهي	after him	baʿdihi
+3	40:34:23	w	رَسُولاࣰ࣌		رسولا	a Messenger	rasūlan
+3	40:34:24	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+3	40:34:25	w	يُضِلُّ		يضل	Allah lets go astray	yuḍillu
+3	40:34:26	w	ࡲ۬للَّهُ		الله	Allah lets go astray	l-lahu
+3	40:34:27	w	مَنْ		من	who	man
+3	40:34:28	w	هُوَ		هو	[he]	huwa
+3	40:34:29	w	مُسْرِفࣱ		مسرف	(is) a transgressor	mus'rifun
+4	40:34:30	w	مُّرْتَابٌ࣌		مرتاب	a doubter	mur'tābun
+4	40:34:31	e	۝٣٤				
+4	40:35:1	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+4	40:35:2	w	يُجَٰدِلُونَ		يجدلون	dispute	yujādilūna
+4	40:35:3	w	فِےٓ		في	concerning	fī
+4	40:35:4	w	ءَايَٰتِ		ايت	(the) Signs	āyāti
+4	40:35:5	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+4	40:35:6	w	بِغَيْرِ		بغير	without	bighayri
+4	40:35:7	w	سُلْطَٰنٍ		سلطن	any authority	sul'ṭānin
+5	40:35:8	w	ࡰتٜيٰهُمْ࣌		اتيهم	(having) come to them	atāhum
+5	40:35:9	w	كَبُرَ		كبر	(it) is greatly	kabura
+5	40:35:10	w	مَقْتاً		مقتا	hateful	maqtan
+5	40:35:11	w	عِندَ		عند	near Allah	ʿinda
+5	40:35:12	w	ࡰ۬للَّهِ		الله	near Allah	l-lahi
+5	40:35:13	w	وَعِندَ		وعند	and near	waʿinda
+5	40:35:14	w	ࡰ۬لذِينَ		الذين	those	alladhīna
+5	40:35:15	w	ءَامَنُواْ࣌		امنوا	who believe	āmanū
+5	40:35:16	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+6	40:35:17	w	يَطْبَعُ		يطبع	Allah sets a seal	yaṭbaʿu
+6	40:35:18	w	ࡲ۬للَّهُ		الله	Allah sets a seal	l-lahu
+6	40:35:19	w	عَلَىٰ		علي	over	ʿalā
+6	40:35:20	w	كُلِّ		كل	every	kulli
+6	40:35:21	w	قَلْبِ		قلب	heart	qalbi
+6	40:35:22	w	مُتَكَبِّرࣲ		متكبر	(of) an arrogant	mutakabbirin
+6	40:35:23	w	جَبّٜارࣲ࣌		جبار	tyrant	jabbārin
+6	40:35:24	e	۝٣٥				
+6	40:36:1	w	وَقَالَ		وقال	And said	waqāla
+6	40:36:2	w	فِرْعَوْنُ		فرعون	Firaun	fir'ʿawnu
+7	40:36:3	w	يَٰهَامَٰنُ		يهامن	O Haman	yāhāmānu
+7	40:36:4	w	ࡲٜبْنِ		ابن	Construct	ib'ni
+7	40:36:5	w	لِے		لي	for me	lī
+7	40:36:6	w	صَرْحاࣰ		صرحا	a tower	ṣarḥan
+7	40:36:7	w	لَّعَلِّيَ		لعلي	that I may	laʿallī
+7	40:36:8	w	أَبْلُغُ		ابلغ	reach	ablughu
+7	40:36:9	w	ࡲ۬لَاسْبَٰبَ		الاسبب	the ways	l-asbāba
+7	40:36:10	e	۝٣٦				
+7	40:37:1	w	أَسْبَٰبَ		اسبب	(The) ways	asbāba
+8	40:37:2	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	(to) the heavens	l-samāwāti
+8	40:37:3	w	فَأَطَّلِعُ		فاطلع	so I may look	fa-aṭṭaliʿa
+8	40:37:4	w	إِلَىٰٓ		الي	at	ilā
+8	40:37:5	w	إِلَٰهِ		اله	(the) God	ilāhi
+8	40:37:6	w	مُوسٜىٰ		موسي	(of) Musa	mūsā
+8	40:37:7	w	وَإِنِّے		واني	and indeed, I	wa-innī
+8	40:37:8	w	لَأَظُنُّهُۥ		لاظنه	[I] surely think him	la-aẓunnuhu
+8	40:37:9	w	كَٰذِباࣰ࣌		كذبا	(to be) a liar	kādhiban
+9	40:37:10	w	وَكَذَٰلِكَ		وكذلك	And thus	wakadhālika
+9	40:37:11	w	زُيِّنَ		زين	was made fair-seeming	zuyyina
+9	40:37:12	w	لِفِرْعَوْنَ		لفرعون	to Firaun	lifir'ʿawna
+9	40:37:13	w	سُوٓءُ		سو	(the) evil	sūu
+9	40:37:14	w	عَمَلِهِۦ		عملهي	(of) his deed	ʿamalihi
+9	40:37:15	w	وَصَدَّ		وصد	and he was averted	waṣudda
+9	40:37:16	w	عَنِ		عن	from	ʿani
+9	40:37:17	w	ࡴ۬لسَّبِيلِ࣌		السبيل	the way	l-sabīli
+10	40:37:18	w	وَمَا		وما	And not	wamā
+10	40:37:19	w	كَيْدُ		كيد	(was the) plot	kaydu
+10	40:37:20	w	فِرْعَوْنَ		فرعون	(of) Firaun	fir'ʿawna
+10	40:37:21	w	إِلَّا		الا	except	illā
+10	40:37:22	w	فِے		في	in	fī
+10	40:37:23	w	تَبَابࣲ࣌		تباب	ruin	tabābin
+10	40:37:24	e	۝٣٧				
+10	40:38:1	w	وَقَالَ		وقال	And said	waqāla
+10	40:38:2	w	ࡰ۬لذِےٓ		الذي	the one who	alladhī
+10	40:38:3	w	ءَامَنَ		امن	believed	āmana
+11	40:38:4	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+11	40:38:5	w	ࡴٜتَّبِعُونِ		اتبعون	Follow me	ittabiʿūni
+11	40:38:6	w	أَهْدِكُمْ		اهدكم	I will guide you	ahdikum
+11	40:38:7	w	سَبِيلَ		سبيل	(to the) way	sabīla
+11	40:38:8	w	ࡰ۬لرَّشَادِ࣌		الرشاد	the right	l-rashādi
+11	40:38:9	e	۝٣٨				
+11	40:39:1	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+11	40:39:2	w	إِنَّمَا		انما	Only	innamā
+12	40:39:3	w	هَٰذِهِ		هذه	this	hādhihi
+12	40:39:4	w	ࡴ۬لْحَيَوٰةُ		الحيوة	the life	l-ḥayatu
+12	40:39:5	w	ࡲ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+12	40:39:6	w	مَتَٰعࣱ࣌		متع	(is) enjoyment	matāʿun
+12	40:39:7	w	وَإِنَّ		وان	and indeed	wa-inna
+12	40:39:8	w	ࡰ۬لَاخِرَةَ		الاخرة	the Hereafter	l-ākhirata
+12	40:39:9	w	هِيَ		هي	it	hiya
+12	40:39:10	w	دَارُ		دار	(is the) home	dāru
+13	40:39:11	w	ࡲ۬لْقَرٜارِ࣌		القرار	(of) settlement	l-qarāri
+13	40:39:12	e	۝٣٩				
+13	40:40:1	w	مَنْ		من	Whoever	man
+13	40:40:2	w	عَمِلَ		عمل	does	ʿamila
+13	40:40:3	w	سَيِّئَةࣰ		سيية	an evil	sayyi-atan
+13	40:40:4	w	فَلَا		فلا	then not	falā
+13	40:40:5	w	يُجْزٜىٰٓ		يجزي	he will be recompensed	yuj'zā
+13	40:40:6	w	إِلَّا		الا	but	illā
+13	40:40:7	w	مِثْلَهَا࣌		مثلها	(the) like thereof	mith'lahā
+13	40:40:8	w	وَمَنْ		ومن	and whoever	waman
+14	40:40:9	w	عَمِلَ		عمل	does	ʿamila
+14	40:40:10	w	صَٰلِحاࣰ		صلحا	righteous (deeds)	ṣāliḥan
+14	40:40:11	w	مِّن		من	of	min
+14	40:40:12	w	ذَكَرٍ		ذكر	male	dhakarin
+14	40:40:13	w	ࡰوُ		او	or	aw
+14	40:40:14	w	ࡳنثٜىٰ		انثي	female	unthā
+14	40:40:15	w	وَهُوَ		وهو	while he	wahuwa
+14	40:40:16	w	مُومِنࣱ		مومن	(is) a believer	mu'minun
+14	40:40:17	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+15	40:40:18	w	يَدْخُلُونَ		يدخلون	will enter	yadkhulūna
+15	40:40:19	w	ࡰ۬لْجَنَّةَ		الجنة	Paradise	l-janata
+15	40:40:20	w	يُرْزَقُونَ		يرزقون	they will be given provision	yur'zaqūna
+15	40:40:21	w	فِيهَا		فيها	in it	fīhā
+15	40:40:22	w	بِغَيْرِ		بغير	without	bighayri
+15	40:40:23	w	حِسَابࣲ࣌		حساب	account	ḥisābin
+15	40:40:24	e	۝٤٠				

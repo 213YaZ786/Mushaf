@@ -1,0 +1,139 @@
+1	4:105:1	w	وَاسْتَغْفِرِ		واستغفر	And seek forgiveness	wa-is'taghfiri
+1	4:105:2	w	ࡴ۬للَّهَ࣌		الله	(of) Allah	l-laha
+1	4:105:3	w	إِنَّ		ان	Indeed	inna
+1	4:105:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	4:105:5	w	كَانَ		كان	is	kāna
+1	4:105:6	w	غَفُوراࣰ		غفورا	Oft-Forgiving	ghafūran
+1	4:105:7	w	رَّحِيماࣰ࣌		رحيما	Most Merciful	raḥīman
+1	4:105:8	e	۝١٠٥				
+1	4:106:1	w	وَلَا		ولا	And (do) not	walā
+1	4:106:2	w	تُجَٰدِلْ		تجدل	argue	tujādil
+2	4:106:3	w	عَنِ		عن	for	ʿani
+2	4:106:4	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+2	4:106:5	w	يَخْتَانُونَ		يختانون	deceive	yakhtānūna
+2	4:106:6	w	أَنفُسَهُمُۥٓ࣌		انفسهم	themselves	anfusahum
+2	4:106:7	w	إِنَّ		ان	Indeed	inna
+2	4:106:8	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+2	4:106:9	w	لَا		لا	(does) not	lā
+2	4:106:10	w	يُحِبُّ		يحب	love	yuḥibbu
+2	4:106:11	w	مَن		من	(the one) who	man
+2	4:106:12	w	كَانَ		كان	is	kāna
+3	4:106:13	w	خَوَّاناً		خوانا	treacherous	khawwānan
+3	4:106:14	w	ࡰثِيماࣰ࣌		اثيما	(and) sinful	athīman
+3	4:106:15	e	۝١٠٦				
+3	4:107:1	w	يَسْتَخْفُونَ		يستخفون	They seek to hide	yastakhfūna
+3	4:107:2	w	مِنَ		من	from	mina
+3	4:107:3	w	ࡰ۬لنَّاسِ		الناس	the people	l-nāsi
+3	4:107:4	w	وَلَا		ولا	but not	walā
+3	4:107:5	w	يَسْتَخْفُونَ		يستخفون	(can) they hide	yastakhfūna
+4	4:107:6	w	مِنَ		من	from	mina
+4	4:107:7	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+4	4:107:8	w	وَهُوَ		وهو	and He	wahuwa
+4	4:107:9	w	مَعَهُمُۥٓ		معهم	(is) with them	maʿahum
+4	4:107:10	w	إِذْ		اذ	when	idh
+4	4:107:11	w	يُبَيِّتُونَ		يبيتون	they plot by night	yubayyitūna
+4	4:107:12	w	مَا		ما	what	mā
+4	4:107:13	w	لَا		لا	not	lā
+4	4:107:14	w	يَرْضٜىٰ		يرضي	(does) he approve	yarḍā
+4	4:107:15	w	مِنَ		من	of	mina
+4	4:107:16	w	ࡰ۬لْقَوْلِ࣌		القول	the word	l-qawli
+5	4:107:17	w	وَكَانَ		وكان	And is	wakāna
+5	4:107:18	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+5	4:107:19	w	بِمَا		بما	of what	bimā
+5	4:107:20	w	يَعْمَلُونَ		يعملون	they do	yaʿmalūna
+5	4:107:21	w	مُحِيطاً࣌		محيطا	All-Encompassing	muḥīṭan
+5	4:107:22	e	۝١٠٧				
+5	4:108:1	w	هَآنتُمْ		هانتم	Here you are	hāantum
+5	4:108:2	w	هَٰٓؤُلَآءِ		هولا	those who	hāulāi
+6	4:108:3	w	جَٰدَلْتُمْ		جدلتم	[you] argue	jādaltum
+6	4:108:4	w	عَنْهُمْ		عنهم	for them	ʿanhum
+6	4:108:5	w	فِے		في	in	fī
+6	4:108:6	w	ࡴ۬لْحَيَوٰةِ		الحيوة	the life	l-ḥayati
+6	4:108:7	w	ࡴ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+6	4:108:8	w	فَمَنْ		فمن	but who	faman
+6	4:108:9	w	يُّجَٰدِلُ		يجدل	will argue	yujādilu
+6	4:108:10	w	ࡲ۬للَّهَ		الله	(with) Allah	l-laha
+6	4:108:11	w	عَنْهُمْ		عنهم	for them	ʿanhum
+7	4:108:12	w	يَوْمَ		يوم	(on the) Day	yawma
+7	4:108:13	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) [the] Resurrection	l-qiyāmati
+7	4:108:14	w	أَم		ام	or	am
+7	4:108:15	w	مَّنْ		من	who	man
+7	4:108:16	w	يَّكُونُ		يكون	will be	yakūnu
+7	4:108:17	w	عَلَيْهِمْ		عليهم	[over them]	ʿalayhim
+7	4:108:18	w	وَكِيلاࣰ࣌		وكيلا	(their) defender	wakīlan
+7	4:108:19	e	۝١٠٨				
+7	4:109:1	w	وَمَنْ		ومن	And whoever	waman
+7	4:109:2	w	يَّعْمَلْ		يعمل	does	yaʿmal
+8	4:109:3	w	سُوٓءاً		سوا	evil	sūan
+8	4:109:4	w	ࡰوْ		او	or	aw
+8	4:109:5	w	يَظْلِمْ		يظلم	wrongs	yaẓlim
+8	4:109:6	w	نَفْسَهُۥ		نفسه	his soul	nafsahu
+8	4:109:7	w	ثُمَّ		ثم	then	thumma
+8	4:109:8	w	يَسْتَغْفِرِ		يستغفر	seeks forgiveness	yastaghfiri
+8	4:109:9	w	ࡴ۬للَّهَ		الله	(of) Allah	l-laha
+8	4:109:10	w	يَجِدِ		يجد	he will find	yajidi
+8	4:109:11	w	ࡴ۬للَّهَ		الله	Allah	l-laha
+8	4:109:12	w	غَفُوراࣰ		غفورا	Oft-Forgiving	ghafūran
+9	4:109:13	w	رَّحِيماࣰ࣌		رحيما	Most Merciful	raḥīman
+9	4:109:14	e	۝١٠٩				
+9	4:110:1	w	وَمَنْ		ومن	And whoever	waman
+9	4:110:2	w	يَّكْسِبِ		يكسب	earns	yaksib
+9	4:110:3	w	ࡴثْماࣰ		اثما	sin	ith'man
+9	4:110:4	w	فَإِنَّمَا		فانما	then only	fa-innamā
+9	4:110:5	w	يَكْسِبُهُۥ		يكسبه	he earns it	yaksibuhu
+9	4:110:6	w	عَلَىٰ		علي	against	ʿalā
+9	4:110:7	w	نَفْسِهِۦ࣌		نفسهي	his soul	nafsihi
+10	4:110:8	w	وَكَانَ		وكان	And is	wakāna
+10	4:110:9	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+10	4:110:10	w	عَلِيماً		عليما	All-Knowing	ʿalīman
+10	4:110:11	w	حَكِيماࣰ࣌		حكيما	All-Wise	ḥakīman
+10	4:110:12	e	۝١١٠				
+10	4:111:1	w	وَمَنْ		ومن	And whoever	waman
+10	4:111:2	w	يَّكْسِبْ		يكسب	earns	yaksib
+10	4:111:3	w	خَطِيٓـَٔةً		خطية	a fault	khaṭīatan
+11	4:111:4	w	ࡰوِ		او	or	aw
+11	4:111:5	w	ࡴثْماࣰ		اثما	a sin	ith'man
+11	4:111:6	w	ثُمَّ		ثم	then	thumma
+11	4:111:7	w	يَرْمِ		يرم	throws	yarmi
+11	4:111:8	w	بِهِۦ		بهي	it	bihi
+11	4:111:9	w	بَرِيٓـٔاࣰ		بريا	(on) an innocent	barīan
+11	4:111:10	w	فَقَدِ		فقد	then surely	faqadi
+11	4:111:11	w	ࡴٜحْتَمَلَ		احتمل	he (has) burdened (himself)	iḥ'tamala
+11	4:111:12	w	بُهْتَٰناࣰ		بهتنا	(with) a slander	buh'tānan
+11	4:111:13	w	وَإِثْماࣰ		واثما	and a sin	wa-ith'man
+11	4:111:14	w	مُّبِيناࣰ࣌		مبينا	manifest	mubīnan
+11	4:111:15	e	۝١١١				
+12	4:112:1	w	وَلَوْلَا		ولولا	And if not	walawlā
+12	4:112:2	w	فَضْلُ		فضل	(for the) Grace	faḍlu
+12	4:112:3	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+12	4:112:4	w	عَلَيْكَ		عليك	upon you	ʿalayka
+12	4:112:5	w	وَرَحْمَتُهُۥ		ورحمته	and His Mercy	waraḥmatuhu
+12	4:112:6	w	لَهَمَّت		لهمت	surely (had) resolved	lahammat
+12	4:112:7	w	طَّآئِفَةࣱ		طايفة	a group	ṭāifatun
+12	4:112:8	w	مِّنْهُمُۥٓ		منهم	of them	min'hum
+13	4:112:9	w	أَنْ		ان	to	an
+13	4:112:10	w	يُّضِلُّوكَ࣌		يضلوك	mislead you	yuḍillūka
+13	4:112:11	w	وَمَا		وما	But not	wamā
+13	4:112:12	w	يُضِلُّونَ		يضلون	they mislead	yuḍillūna
+13	4:112:13	w	إِلَّآ		الا	except	illā
+13	4:112:14	w	أَنفُسَهُمْ		انفسهم	themselves	anfusahum
+13	4:112:15	w	وَمَا		وما	and not	wamā
+13	4:112:16	w	يَضُرُّونَكَ		يضرونك	they will harm you	yaḍurrūnaka
+14	4:112:17	w	مِن		من	in	min
+14	4:112:18	w	شَےْءࣲ࣌		شي	anything	shayin
+14	4:112:19	w	وَأَنزَلَ		وانزل	And has sent down	wa-anzala
+14	4:112:20	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+14	4:112:21	w	عَلَيْكَ		عليك	to you	ʿalayka
+14	4:112:22	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+14	4:112:23	w	وَالْحِكْمَةَ		والحكمة	and [the] Wisdom	wal-ḥik'mata
+14	4:112:24	w	وَعَلَّمَكَ		وعلمك	and taught you	waʿallamaka
+15	4:112:25	w	مَا		ما	what	mā
+15	4:112:26	w	لَمْ		لم	not	lam
+15	4:112:27	w	تَكُن		تكن	you did	takun
+15	4:112:28	w	تَعْلَمُ࣌		تعلم	know	taʿlamu
+15	4:112:29	w	وَكَانَ		وكان	And is	wakāna
+15	4:112:30	w	فَضْلُ		فضل	(the) Grace	faḍlu
+15	4:112:31	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+15	4:112:32	w	عَلَيْكَ		عليك	upon you	ʿalayka
+15	4:112:33	w	عَظِيماࣰ࣌		عظيما	great	ʿaẓīman
+15	4:112:34	e	۝١١٢				

@@ -1,0 +1,114 @@
+1	7:81:1	w	وَمَا		وما	And not	wamā
+1	7:81:2	w	كَانَ		كان	was	kāna
+1	7:81:3	w	جَوَابَ		جواب	(the) answer	jawāba
+1	7:81:4	w	قَوْمِهِۦٓ		قومهي	(of) his people	qawmihi
+1	7:81:5	w	إِلَّآ		الا	except	illā
+1	7:81:6	w	أَن		ان	that	an
+1	7:81:7	w	قَالُوٓاْ		قالوا	they said	qālū
+1	7:81:8	w	أَخْرِجُوهُم		اخرجوهم	Drive them out	akhrijūhum
+1	7:81:9	w	مِّن		من	of	min
+2	7:81:10	w	قَرْيَتِكُمُۥٓ࣌		قريتكم	your town	qaryatikum
+2	7:81:11	w	إِنَّهُمُۥٓ		انهم	Indeed, they	innahum
+2	7:81:12	w	أُنَاسࣱ		اناس	(are) people	unāsun
+2	7:81:13	w	يَتَطَهَّرُونَ࣌		يتطهرون	who keep themselves pure	yataṭahharūna
+2	7:81:14	e	۝٨١				
+2	7:82:1	w	فَأَنجَيْنَٰهُ		فانجينه	So We saved him	fa-anjaynāhu
+3	7:82:2	w	وَأَهْلَهُۥٓ		واهله	and his family	wa-ahlahu
+3	7:82:3	w	إِلَّا		الا	except	illā
+3	7:82:4	w	ࡰٜمْرَأَتَهُۥ		امراته	his wife	im'ra-atahu
+3	7:82:5	w	كَانَتْ		كانت	she was	kānat
+3	7:82:6	w	مِنَ		من	of	mina
+3	7:82:7	w	ࡰ۬لْغَٰبِرِينَ࣌		الغبرين	those who stayed behind	l-ghābirīna
+3	7:82:8	e	۝٨٢				
+3	7:83:1	w	وَأَمْطَرْنَا		وامطرنا	And We showered	wa-amṭarnā
+4	7:83:2	w	عَلَيْهِم		عليهم	upon them	ʿalayhim
+4	7:83:3	w	مَّطَراࣰ࣌		مطرا	a rain	maṭaran
+4	7:83:4	w	فَانظُرْ		فانظر	So see	fa-unẓur
+4	7:83:5	w	كَيْفَ		كيف	how	kayfa
+4	7:83:6	w	كَانَ		كان	was	kāna
+4	7:83:7	w	عَٰقِبَةُ		عقبة	(the) end	ʿāqibatu
+4	7:83:8	w	ࡲ۬لْمُجْرِمِينَ࣌		المجرمين	(of) the criminals	l-muj'rimīna
+4	7:83:9	e	۝٨٣				
+5	7:84:1	w	وَإِلَىٰ		والي	And to	wa-ilā
+5	7:84:2	w	مَدْيَنَ		مدين	Madyan	madyana
+5	7:84:3	w	أَخَاهُمْ		اخاهم	his brother	akhāhum
+5	7:84:4	w	شُعَيْباࣰ࣌		شعيبا	Shuaib	shuʿayban
+5	7:84:5	w	قَالَ		قال	He said	qāla
+5	7:84:6	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+5	7:84:7	w	ࡴ࢈عْبُدُواْ		اعبدوا	Worship	uʿ'budū
+5	7:84:8	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+6	7:84:9	w	مَا		ما	not	mā
+6	7:84:10	w	لَكُم		لكم	for you	lakum
+6	7:84:11	w	مِّنِ		من	any	min
+6	7:84:12	w	ࡴلَٰهٍ		اله	god	ilāhin
+6	7:84:13	w	غَيْرُهُۥ࣌		غيره	other than Him	ghayruhu
+6	7:84:14	w	قَدْ		قد	Verily	qad
+6	7:84:15	w	جَآءَتْكُم		جاتكم	has came to you	jāatkum
+6	7:84:16	w	بَيِّنَةࣱ		بينة	a clear proof	bayyinatun
+6	7:84:17	w	مِّن		من	from	min
+6	7:84:18	w	رَّبِّكُمْ࣌		ربكم	your Lord	rabbikum
+7	7:84:19	w	فَأَوْفُواْ		فاوفوا	So give full	fa-awfū
+7	7:84:20	w	ࡲ۬لْكَيْلَ		الكيل	[the] measure	l-kayla
+7	7:84:21	w	وَالْمِيزَانَ࣌		والميزان	and the weight	wal-mīzāna
+7	7:84:22	w	وَلَا		ولا	and (do) not	walā
+7	7:84:23	w	تَبْخَسُواْ		تبخسوا	deprive	tabkhasū
+7	7:84:24	w	ࡲ۬لنَّاسَ		الناس	[the] people	l-nāsa
+8	7:84:25	w	أَشْيَآءَهُمْ࣌		اشياهم	in their things	ashyāahum
+8	7:84:26	w	وَلَا		ولا	and (do) not	walā
+8	7:84:27	w	تُفْسِدُواْ		تفسدوا	cause corruption	tuf'sidū
+8	7:84:28	w	فِے		في	in	fī
+8	7:84:29	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+8	7:84:30	w	بَعْدَ		بعد	after	baʿda
+8	7:84:31	w	إِصْلَٰحِهَا࣌		اصلحها	its reformation	iṣ'lāḥihā
+9	7:84:32	w	ذَٰلِكُمْ		ذلكم	That	dhālikum
+9	7:84:33	w	خَيْرࣱ		خير	(is) better	khayrun
+9	7:84:34	w	لَّكُمُۥٓ		لكم	for you	lakum
+9	7:84:35	w	إِن		ان	if	in
+9	7:84:36	w	كُنتُم		كنتم	you are	kuntum
+9	7:84:37	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+9	7:84:38	e	۝٨٤				
+9	7:85:1	w	وَلَا		ولا	And (do) not	walā
+10	7:85:2	w	تَقْعُدُواْ		تقعدوا	sit	taqʿudū
+10	7:85:3	w	بِكُلِّ		بكل	on every	bikulli
+10	7:85:4	w	صِرَٰطࣲ		صرط	path	ṣirāṭin
+10	7:85:5	w	تُوعِدُونَ		توعدون	threatening	tūʿidūna
+10	7:85:6	w	وَتَصُدُّونَ		وتصدون	and hindering	wataṣuddūna
+10	7:85:7	w	عَن		عن	from	ʿan
+11	7:85:8	w	سَبِيلِ		سبيل	(the) way	sabīli
+11	7:85:9	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+11	7:85:10	w	مَنَ		من	(those) who	man
+11	7:85:11	w	اٰمَنَ		امن	believe	āmana
+11	7:85:12	w	بِهِۦ		بهي	in Him	bihi
+11	7:85:13	w	وَتَبْغُونَهَا		وتبغونها	and seeking (to make) it	watabghūnahā
+11	7:85:14	w	عِوَجاࣰ࣌		عوجا	crooked	ʿiwajan
+11	7:85:15	w	وَاذْكُرُوٓاْ		واذكروا	And remember	wa-udh'kurū
+12	7:85:16	w	إِذْ		اذ	when	idh
+12	7:85:17	w	كُنتُمْ		كنتم	you were	kuntum
+12	7:85:18	w	قَلِيلاࣰ		قليلا	few	qalīlan
+12	7:85:19	w	فَكَثَّرَكُمْ࣌		فكثركم	and He increased you	fakatharakum
+12	7:85:20	w	وَانظُرُواْ		وانظروا	And see	wa-unẓurū
+12	7:85:21	w	كَيْفَ		كيف	how	kayfa
+12	7:85:22	w	كَانَ		كان	was	kāna
+13	7:85:23	w	عَٰقِبَةُ		عقبة	(the) end	ʿāqibatu
+13	7:85:24	w	ࡲ۬لْمُفْسِدِينَ࣌		المفسدين	(of) the corrupters	l-muf'sidīna
+13	7:85:25	e	۝٨٥				
+13	7:86:1	w	وَإِن		وان	And if	wa-in
+13	7:86:2	w	كَانَ		كان	(there) is	kāna
+13	7:86:3	w	طَآئِفَةࣱ		طايفة	a group	ṭāifatun
+13	7:86:4	w	مِّنكُمُۥٓ		منكم	among you	minkum
+14	7:86:5	w	ءَامَنُواْ		امنوا	(who has) believed	āmanū
+14	7:86:6	w	بِالذِےٓ		بالذي	in that which	bi-alladhī
+14	7:86:7	w	أُرْسِلْتُ		ارسلت	I have been sent	ur'sil'tu
+14	7:86:8	w	بِهِۦ		بهي	with [it]	bihi
+14	7:86:9	w	وَطَآئِفَةࣱ		وطايفة	and a group	waṭāifatun
+14	7:86:10	w	لَّمْ		لم	not	lam
+14	7:86:11	w	يُومِنُواْ		يومنوا	they believe	yu'minū
+14	7:86:12	w	فَاصْبِرُواْ		فاصبروا	then be patient	fa-iṣ'birū
+15	7:86:13	w	حَتَّىٰ		حتي	until	ḥattā
+15	7:86:14	w	يَحْكُمَ		يحكم	judges	yaḥkuma
+15	7:86:15	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+15	7:86:16	w	بَيْنَنَا࣌		بيننا	between us	baynanā
+15	7:86:17	w	وَهُوَ		وهو	And He	wahuwa
+15	7:86:18	w	خَيْرُ		خير	(is the) Best	khayru
+15	7:86:19	w	ࡲ۬لْحَٰكِمِينَ࣌		الحكمين	(of) [the] Judges	l-ḥākimīna
+15	7:86:20	e	۝٨٦				

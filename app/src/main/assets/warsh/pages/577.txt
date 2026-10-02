@@ -1,0 +1,155 @@
+1	74:47:1	w	فَمَا		فما	Then not	famā
+1	74:47:2	w	تَنفَعُهُمْ		تنفعهم	will benefit them	tanfaʿuhum
+1	74:47:3	w	شَفَٰعَةُ		شفعة	intercession	shafāʿatu
+1	74:47:4	w	ࡲ۬لشَّٰفِعِينَ࣌		الشفعين	(of) the intercessors	l-shāfiʿīna
+1	74:47:5	e	۝٤٧				
+1	74:48:1	w	فَمَا		فما	Then what	famā
+1	74:48:2	w	لَهُمْ		لهم	(is) for them	lahum
+1	74:48:3	w	عَنِ		عن	(that) from	ʿani
+1	74:48:4	w	ࡴ۬لتَّذْكِرَةِ		التذكرة	the Reminder	l-tadhkirati
+2	74:48:5	w	مُعْرِضِينَ		معرضين	they (are) turning away	muʿ'riḍīna
+2	74:48:6	e	۝٤٨				
+2	74:49:1	w	كَأَنَّهُمْ		كانهم	As if they (were)	ka-annahum
+2	74:49:2	w	حُمُرࣱ		حمر	donkeys	ḥumurun
+2	74:49:3	w	مُّسْتَنفَرَةࣱ		مستنفرة	frightened	mus'tanfiratun
+2	74:49:4	e	۝٤٩				
+2	74:50:1	w	فَرَّتْ		فرت	Fleeing	farrat
+2	74:50:2	w	مِن		من	from	min
+2	74:50:3	w	قَسْوَرَةِۢ࣌		قسورة	a lion	qaswaratin
+2	74:50:4	e	۝٥٠				
+3	74:51:1	w	بَلْ		بل	Nay	bal
+3	74:51:2	w	يُرِيدُ		يريد	Desires	yurīdu
+3	74:51:3	w	كُلُّ		كل	every	kullu
+3	74:51:4	w	ࡲٜمْرِےࣲٕ		امري	person	im'ri-in
+3	74:51:5	w	مِّنْهُمُۥٓ		منهم	of them	min'hum
+3	74:51:6	w	أَنْ		ان	that	an
+3	74:51:7	w	يُّوتٜىٰ		يوتي	he may be given	yu'tā
+3	74:51:8	w	صُحُفاࣰ		صحفا	pages	ṣuḥufan
+3	74:51:9	w	مُّنَشَّرَةࣰ࣌		منشرة	spread out	munasharatan
+3	74:51:10	e	۝٥١				
+3	74:52:1	w	كَلَّا		كلا	Nay	kallā
+3	74:52:2	w	بَل		بل	But	bal
+3	74:52:3	w	لَّا		لا	not	lā
+4	74:52:4	w	يَخَافُونَ		يخافون	they fear	yakhāfūna
+4	74:52:5	w	ࡰ۬لَاخِرَةَ࣌		الاخرة	the Hereafter	l-ākhirata
+4	74:52:6	e	۝٥٢				
+4	74:53:1	w	كَلَّآ		كلا	Nay	kallā
+4	74:53:2	w	إِنَّهُۥ		انه	Indeed, it	innahu
+4	74:53:3	w	تَذْكِرَةࣱ࣌		تذكرة	(is) a Reminder	tadhkiratun
+4	74:53:4	e	۝٥٣				
+4	74:54:1	w	فَمَن		فمن	So whoever	faman
+4	74:54:2	w	شَآءَ		شا	wills	shāa
+4	74:54:3	w	ذَكَرَهُۥ࣌		ذكره	(may) pay heed to it	dhakarahu
+4	74:54:4	e	۝٥٤				
+4	74:55:1	w	وَمَا		وما	And not	wamā
+5	74:55:2	w	تَذْكُرُونَ		تذكرون	will pay heed	yadhkurūna
+5	74:55:3	w	إِلَّآ		الا	except	illā
+5	74:55:4	w	أَنْ		ان	that	an
+5	74:55:5	w	يَّشَآءَ		يشا	wills	yashāa
+5	74:55:6	w	ࡰ۬للَّهُ࣌		الله	Allah	l-lahu
+5	74:55:7	w	هُوَ		هو	He	huwa
+5	74:55:8	w	أَهْلُ		اهل	(is) worthy	ahlu
+5	74:55:9	w	ࡲ۬لتَّقْوٜىٰ		التقوي	to be feared	l-taqwā
+5	74:55:10	w	وَأَهْلُ		واهل	and worthy	wa-ahlu
+5	74:55:11	w	ࡲ۬لْمَغْفِرَةِ࣌		المغفرة	to forgive	l-maghfirati
+5	74:55:12	e	۝٥٥				
+6	75:0:0	t					
+7	75:0:0	b					
+8	75:1:1	w	لَآ		لا	Nay	lā
+8	75:1:2	w	أُقْسِمُ		اقسم	I swear	uq'simu
+8	75:1:3	w	بِيَوْمِ		بيوم	by (the) Day	biyawmi
+8	75:1:4	w	ࡴ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+8	75:1:5	e	۝١				
+8	75:2:1	w	وَلَآ		ولا	And nay	walā
+8	75:2:2	w	أُقْسِمُ		اقسم	I swear	uq'simu
+8	75:2:3	w	بِالنَّفْسِ		بالنفس	by the soul	bil-nafsi
+8	75:2:4	w	ࡴ۬للَّوَّامَةِ࣌		اللوامة	self-accusing	l-lawāmati
+8	75:2:5	e	۝٢				
+8	75:3:1	w	أَيَحْسِبُ		ايحسب	Does think	ayaḥsabu
+9	75:3:2	w	ࡲ۬لِانسَٰنُ		الانسن	[the] man	l-insānu
+9	75:3:3	w	أَلَّن		الن	that not	allan
+9	75:3:4	w	نَّجْمَعَ		نجمع	We will assemble	najmaʿa
+9	75:3:5	w	عِظَامَهُۥ		عظامه	his bones	ʿiẓāmahu
+9	75:3:6	e	۝٣				
+9	75:4:1	w	بَلٜىٰ࣌		بلي	Nay	balā
+9	75:4:2	w	قَٰدِرِينَ		قدرين	(We are) Able	qādirīna
+9	75:4:3	w	عَلَىٰٓ		علي	on	ʿalā
+9	75:4:4	w	أَن		ان	that	an
+9	75:4:5	w	نُّسَوِّيَ		نسوي	We can restore	nusawwiya
+9	75:4:6	w	بَنَانَهُۥ࣌		بنانه	his fingertips	banānahu
+9	75:4:7	e	۝٤				
+9	75:5:1	w	بَلْ		بل	Nay	bal
+10	75:5:2	w	يُرِيدُ		يريد	Desires	yurīdu
+10	75:5:3	w	ࡲ۬لِانسَٰنُ		الانسن	[the] man	l-insānu
+10	75:5:4	w	لِيَفْجُرَ		ليفجر	to give (the) lie	liyafjura
+10	75:5:5	w	أَمَامَهُۥ࣌		امامه	(to) what is before him	amāmahu
+10	75:5:6	e	۝٥				
+10	75:6:1	w	يَسْـَٔلُ		يسل	He asks	yasalu
+10	75:6:2	w	أَيَّانَ		ايان	When	ayyāna
+10	75:6:3	w	يَوْمُ		يوم	(is the) Day	yawmu
+10	75:6:4	w	ࡲ۬لْقِيَٰمَةِ࣌		القيمة	(of) the Resurrection	l-qiyāmati
+10	75:6:5	e	۝٦				
+10	75:7:1	w	فَإِذَا		فاذا	So when	fa-idhā
+10	75:7:2	w	بَرَقَ		برق	is dazzled	bariqa
+11	75:7:3	w	ࡰ۬لْبَصَرُ		البصر	the vision	l-baṣaru
+11	75:7:4	e	۝٧				
+11	75:8:1	w	وَخَسَفَ		وخسف	And becomes dark	wakhasafa
+11	75:8:2	w	ࡰ۬لْقَمَرُ		القمر	the moon	l-qamaru
+11	75:8:3	e	۝٨				
+11	75:9:1	w	وَجُمِعَ		وجمع	And are joined	wajumiʿa
+11	75:9:2	w	ࡰ۬لشَّمْسُ		الشمس	the sun	l-shamsu
+11	75:9:3	w	وَالْقَمَرُ		والقمر	and the moon	wal-qamaru
+11	75:9:4	e	۝٩				
+11	75:10:1	w	يَقُولُ		يقول	Will say	yaqūlu
+11	75:10:2	w	ࡲ۬لِانسَٰنُ		الانسن	[the] man	l-insānu
+12	75:10:3	w	يَوْمَئِذٍ		يوميذ	that Day	yawma-idhin
+12	75:10:4	w	ࡰيْنَ		اين	Where	ayna
+12	75:10:5	w	ࡰ۬لْمَفَرُّ࣌		المفر	(is) the escape	l-mafaru
+12	75:10:6	e	۝١٠				
+12	75:11:1	w	كَلَّا		كلا	By no means	kallā
+12	75:11:2	w	لَا		لا	(There is) no	lā
+12	75:11:3	w	وَزَرَ࣌		وزر	refuge	wazara
+12	75:11:4	e	۝١١				
+12	75:12:1	w	إِلَىٰ		الي	To	ilā
+12	75:12:2	w	رَبِّكَ		ربك	your Lord	rabbika
+12	75:12:3	w	يَوْمَئِذٍ		يوميذ	that Day	yawma-idhin
+12	75:12:4	w	ࡴ۬لْمُسْتَقَرُّ࣌		المستقر	(is) the place of rest	l-mus'taqaru
+12	75:12:5	e	۝١٢				
+12	75:13:1	w	يُنَبَّؤُاْ		ينبوا	Will be informed	yunabba-u
+13	75:13:2	w	ࡲ۬لِانسَٰنُ		الانسن	[the] man	l-insānu
+13	75:13:3	w	يَوْمَئِذِۢ		يوميذ	that Day	yawma-idhin
+13	75:13:4	w	بِمَا		بما	of what	bimā
+13	75:13:5	w	قَدَّمَ		قدم	he sent forth	qaddama
+13	75:13:6	w	وَأَخَّرَ࣌		واخر	and kept back	wa-akhara
+13	75:13:7	e	۝١٣				
+13	75:14:1	w	بَلِ		بل	Nay	bali
+13	75:14:2	w	ࡴ۬لِانسَٰنُ		الانسن	[The] man	l-insānu
+13	75:14:3	w	عَلَىٰ		علي	against	ʿalā
+13	75:14:4	w	نَفْسِهِۦ		نفسهي	himself	nafsihi
+13	75:14:5	w	بَصِيرَةࣱ		بصيرة	(will be) a witness	baṣīratun
+13	75:14:6	e	۝١٤				
+14	75:15:1	w	وَلَوَ		ولو	Even if	walaw
+14	75:15:2	w	ࡰلْقٜىٰ		القي	he presents	alqā
+14	75:15:3	w	مَعَاذِيرَهُۥ࣌		معاذيره	his excuses	maʿādhīrahu
+14	75:15:4	e	۝١٥				
+14	75:16:1	w	لَا		لا	Not	lā
+14	75:16:2	w	تُحَرِّكْ		تحرك	move	tuḥarrik
+14	75:16:3	w	بِهِۦ		بهي	with it	bihi
+14	75:16:4	w	لِسَانَكَ		لسانك	your tongue	lisānaka
+14	75:16:5	w	لِتَعْجَلَ		لتعجل	to hasten	litaʿjala
+14	75:16:6	w	بِهِۦٓ࣌		بهي	with it	bihi
+14	75:16:7	w	إِنَّ		ان	Indeed	inna
+14	75:16:8	w	عَلَيْنَا		علينا	upon Us	ʿalaynā
+15	75:16:9	w	جَمْعَهُۥ		جمعه	(is) its collection	jamʿahu
+15	75:16:10	w	وَقُرْءَانَهُۥ࣌		وقرانه	and its recitation	waqur'ānahu
+15	75:16:11	e	۝١٦				
+15	75:17:1	w	فَإِذَا		فاذا	And when	fa-idhā
+15	75:17:2	w	قَرَأْنَٰهُ		قرانه	We have recited it	qaranāhu
+15	75:17:3	w	فَاتَّبِعْ		فاتبع	then follow	fa-ittabiʿ
+15	75:17:4	w	قُرْءَانَهُۥ		قرانه	its recitation	qur'ānahu
+15	75:17:5	e	۝١٧				
+15	75:18:1	w	ثُمَّ		ثم	Then	thumma
+15	75:18:2	w	إِنَّ		ان	indeed	inna
+15	75:18:3	w	عَلَيْنَا		علينا	upon Us	ʿalaynā
+15	75:18:4	w	بَيَانَهُۥ࣌		بيانه	(is) its explanation	bayānahu
+15	75:18:5	e	۝١٨				

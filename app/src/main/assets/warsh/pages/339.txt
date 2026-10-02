@@ -1,0 +1,129 @@
+1	22:54:1	w	ࡴ۬لْمُلْكُ		الملك	The Sovereignty	al-mul'ku
+1	22:54:2	w	يَوْمَئِذࣲ		يوميذ	(on) that Day	yawma-idhin
+1	22:54:3	w	لِّلهِ࣌		لله	(will be) for Allah	lillahi
+1	22:54:4	w	يَحْكُمُ		يحكم	He will judge	yaḥkumu
+1	22:54:5	w	بَيْنَهُمْ࣌		بينهم	between them	baynahum
+1	22:54:6	w	فَالذِينَ		فالذين	So those who	fa-alladhīna
+1	22:54:7	w	ءَامَنُواْ		امنوا	believe	āmanū
+2	22:54:8	w	وَعَمِلُواْ		وعملوا	and did	waʿamilū
+2	22:54:9	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+2	22:54:10	w	فِے		في	(will be) in	fī
+2	22:54:11	w	جَنَّٰتِ		جنت	Gardens	jannāti
+2	22:54:12	w	ࡴ۬لنَّعِيمِ࣌		النعيم	(of) Delight	l-naʿīmi
+2	22:54:13	e	۝٥٤				
+2	22:55:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+2	22:55:2	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+3	22:55:3	w	وَكَذَّبُواْ		وكذبوا	and denied	wakadhabū
+3	22:55:4	w	بِـَٔايَٰتِنَا		بايتنا	Our Verses	biāyātinā
+3	22:55:5	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+3	22:55:6	w	لَهُمْ		لهم	for them	lahum
+3	22:55:7	w	عَذَابࣱ		عذاب	(will be) a punishment	ʿadhābun
+3	22:55:8	w	مُّهِينࣱ࣌		مهين	humiliating	muhīnun
+3	22:55:9	e	۝٥٥				
+4	22:56:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+4	22:56:2	w	هَاجَرُواْ		هاجروا	emigrated	hājarū
+4	22:56:3	w	فِے		في	in	fī
+4	22:56:4	w	سَبِيلِ		سبيل	(the) way	sabīli
+4	22:56:5	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+4	22:56:6	w	ثُمَّ		ثم	then	thumma
+4	22:56:7	w	قُتِلُوٓاْ		قتلوا	were killed	qutilū
+4	22:56:8	w	أَوْ		او	or	aw
+4	22:56:9	w	مَاتُواْ		ماتوا	died	mātū
+5	22:56:10	w	لَيَرْزُقَنَّهُمُ		ليرزقنهم	surely, Allah will provide them	layarzuqannahumu
+5	22:56:11	w	ࡲ۬للَّهُ		الله	surely, Allah will provide them	l-lahu
+5	22:56:12	w	رِزْقاً		رزقا	a provision	riz'qan
+5	22:56:13	w	حَسَناࣰ࣌		حسنا	good	ḥasanan
+5	22:56:14	w	وَإِنَّ		وان	And indeed	wa-inna
+5	22:56:15	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	22:56:16	w	لَهُوَ		لهو	surely, He	lahuwa
+5	22:56:17	w	خَيْرُ		خير	(is the) Best	khayru
+6	22:56:18	w	ࡲ۬لرَّٰزِقِينَ࣌		الرزقين	(of) the Providers	l-rāziqīna
+6	22:56:19	e	۝٥٦				
+6	22:57:1	w	لَيُدْخِلَنَّهُم		ليدخلنهم	Surely, He will admit them	layud'khilannahum
+6	22:57:2	w	مَّدْخَلاࣰ		مدخلا	(to) an entrance	mud'khalan
+6	22:57:3	w	يَرْضَوْنَهُۥ࣌		يرضونه	they will be pleased (with) it	yarḍawnahu
+6	22:57:4	w	وَإِنَّ		وان	And indeed	wa-inna
+7	22:57:5	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+7	22:57:6	w	لَعَلِيمٌ		لعليم	surely, (is) All-Knowing	laʿalīmun
+7	22:57:7	w	حَلِيمࣱ࣌		حليم	Most Forbearing	ḥalīmun
+7	22:57:8	e	۝٥٧				
+7	22:58:1	w	۞ ذَٰلِكَ࣌		ذلك	That	dhālika
+7	22:58:2	w	وَمَنْ		ومن	and whoever	waman
+7	22:58:3	w	عَاقَبَ		عاقب	has retaliated	ʿāqaba
+7	22:58:4	w	بِمِثْلِ		بمثل	with the like	bimith'li
+8	22:58:5	w	مَا		ما	(of) that	mā
+8	22:58:6	w	عُوقِبَ		عوقب	he was made to suffer	ʿūqiba
+8	22:58:7	w	بِهِۦ		بهي	by it	bihi
+8	22:58:8	w	ثُمَّ		ثم	then	thumma
+8	22:58:9	w	بُغِيَ		بغي	he was oppressed	bughiya
+8	22:58:10	w	عَلَيْهِ		عليه	[on him]	ʿalayhi
+8	22:58:11	w	لَيَنصُرَنَّهُ		لينصرنه	Allah will surely help him	layanṣurannahu
+8	22:58:12	w	ࡲ۬للَّهُ࣌		الله	Allah will surely help him	l-lahu
+8	22:58:13	w	إِنَّ		ان	Indeed	inna
+9	22:58:14	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+9	22:58:15	w	لَعَفُوٌّ		لعفو	(is) surely Oft-Pardoning	laʿafuwwun
+9	22:58:16	w	غَفُورࣱ࣌		غفور	Oft-Forgiving	ghafūrun
+9	22:58:17	e	۝٥٨				
+9	22:59:1	w	ذَٰلِكَ		ذلك	That	dhālika
+9	22:59:2	w	بِأَنَّ		بان	(is) because	bi-anna
+9	22:59:3	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+9	22:59:4	w	يُولِجُ		يولج	causes to enter	yūliju
+9	22:59:5	w	ࡲ۬ليْلَ		اليل	the night	al-layla
+9	22:59:6	w	فِے		في	in (to)	fī
+10	22:59:7	w	ࡴ۬لنَّهٜارِ		النهار	the day	l-nahāri
+10	22:59:8	w	وَيُولِجُ		ويولج	and causes to enter	wayūliju
+10	22:59:9	w	ࡲ۬لنَّهَارَ		النهار	the day	l-nahāra
+10	22:59:10	w	فِے		في	in (to)	fī
+10	22:59:11	w	ࡴ۬ليْلِ		اليل	the night	al-layli
+10	22:59:12	w	وَأَنَّ		وان	And indeed	wa-anna
+10	22:59:13	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	22:59:14	w	سَمِيعُۢ		سميع	(is) All-Hearer	samīʿun
+11	22:59:15	w	بَصِيرࣱ࣌		بصير	All-Seer	baṣīrun
+11	22:59:16	e	۝٥٩				
+11	22:60:1	w	ذَٰلِكَ		ذلك	That (is)	dhālika
+11	22:60:2	w	بِأَنَّ		بان	because	bi-anna
+11	22:60:3	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	22:60:4	w	هُوَ		هو	He	huwa
+11	22:60:5	w	ࡰ۬لْحَقُّ		الحق	(is) the Truth	l-ḥaqu
+11	22:60:6	w	وَأَنَّ		وان	and that	wa-anna
+11	22:60:7	w	مَا		ما	what	mā
+11	22:60:8	w	تَدْعُونَ		تدعون	they invoke	yadʿūna
+12	22:60:9	w	مِن		من	besides Him	min
+12	22:60:10	w	دُونِهِۦ		دونهي	besides Him	dūnihi
+12	22:60:11	w	هُوَ		هو	it	huwa
+12	22:60:12	w	ࡰ۬لْبَٰطِلُ		البطل	(is) the falsehood	l-bāṭilu
+12	22:60:13	w	وَأَنَّ		وان	And that	wa-anna
+12	22:60:14	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+12	22:60:15	w	هُوَ		هو	He	huwa
+12	22:60:16	w	ࡰ۬لْعَلِيُّ		العلي	(is) the Most High	l-ʿaliyu
+12	22:60:17	w	ࡲ۬لْكَبِيرُ࣌		الكبير	the Most Great	l-kabīru
+12	22:60:18	e	۝٦٠				
+13	22:61:1	w	أَلَمْ		الم	Do not	alam
+13	22:61:2	w	تَرَ		تر	you see	tara
+13	22:61:3	w	أَنَّ		ان	that	anna
+13	22:61:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+13	22:61:5	w	أَنزَلَ		انزل	sends down	anzala
+13	22:61:6	w	مِنَ		من	from	mina
+13	22:61:7	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+13	22:61:8	w	مَآءࣰ		ما	water	māan
+13	22:61:9	w	فَتُصْبِحُ		فتصبح	then becomes	fatuṣ'biḥu
+14	22:61:10	w	ࡲ۬لَارْضُ		الارض	the earth	l-arḍu
+14	22:61:11	w	مُخْضَرَّةً࣌		مخضرة	green	mukh'ḍarratan
+14	22:61:12	w	ࡴنَّ		ان	Indeed	inna
+14	22:61:13	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+14	22:61:14	w	لَطِيفٌ		لطيف	(is) surely Subtle	laṭīfun
+14	22:61:15	w	خَبِيرࣱ࣌		خبير	All-Aware	khabīrun
+14	22:61:16	e	۝٦١				
+14	22:62:1	w	لَّهُۥ		له	For Him	lahu
+14	22:62:2	w	مَا		ما	(is) whatever	mā
+14	22:62:3	w	فِے		في	(is) in	fī
+15	22:62:4	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+15	22:62:5	w	وَمَا		وما	and whatever	wamā
+15	22:62:6	w	فِے		في	(is) in	fī
+15	22:62:7	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+15	22:62:8	w	وَإِنَّ		وان	And indeed	wa-inna
+15	22:62:9	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	22:62:10	w	لَهُوَ		لهو	surely, He	lahuwa
+15	22:62:11	w	ࡰ۬لْغَنِيُّ		الغني	(is) Free of need	l-ghaniyu
+15	22:62:12	w	ࡲ۬لْحَمِيدُ࣌		الحميد	the Praiseworthy	l-ḥamīdu
+15	22:62:13	e	۝٦٢				

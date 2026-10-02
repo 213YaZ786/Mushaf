@@ -1,0 +1,141 @@
+1	11:109:1	w	فَلَا		فلا	So (do) not	falā
+1	11:109:2	w	تَكُ		تك	be	taku
+1	11:109:3	w	فِے		في	in	fī
+1	11:109:4	w	مِرْيَةࣲ		مرية	doubt	mir'yatin
+1	11:109:5	w	مِّمَّا		مما	as to what	mimmā
+1	11:109:6	w	يَعْبُدُ		يعبد	worship	yaʿbudu
+1	11:109:7	w	هَٰٓؤُلَآءِ࣌		هولا	these (polytheists)	hāulāi
+1	11:109:8	w	مَا		ما	Not	mā
+1	11:109:9	w	يَعْبُدُونَ		يعبدون	they worship	yaʿbudūna
+1	11:109:10	w	إِلَّا		الا	except	illā
+2	11:109:11	w	كَمَا		كما	as what	kamā
+2	11:109:12	w	يَعْبُدُ		يعبد	worshipped	yaʿbudu
+2	11:109:13	w	ءَابَآؤُهُم		اباوهم	their forefathers	ābāuhum
+2	11:109:14	w	مِّن		من	before	min
+2	11:109:15	w	قَبْلُ࣌		قبل	before	qablu
+2	11:109:16	w	وَإِنَّا		وانا	And indeed, We	wa-innā
+2	11:109:17	w	لَمُوَفُّوهُمْ		لموفوهم	will surely pay them in full	lamuwaffūhum
+2	11:109:18	w	نَصِيبَهُمْ		نصيبهم	their share	naṣībahum
+2	11:109:19	w	غَيْرَ		غير	without	ghayra
+3	11:109:20	w	مَنقُوصࣲ࣌		منقوص	being diminished	manqūṣin
+3	11:109:21	e	۝١٠٩				
+3	11:110:1	w	وَلَقَدَ		ولقد	And verily	walaqad
+3	11:110:2	w	اٰتَيْنَا		اتينا	We gave	ātaynā
+3	11:110:3	w	مُوسَى		موسي	Musa	mūsā
+3	11:110:4	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+3	11:110:5	w	فَاخْتُلِفَ		فاختلف	but differences arose	fa-ukh'tulifa
+3	11:110:6	w	فِيهِ࣌		فيه	therein	fīhi
+3	11:110:7	w	وَلَوْلَا		ولولا	And if not	walawlā
+4	11:110:8	w	كَلِمَةࣱ		كلمة	(for) a Word	kalimatun
+4	11:110:9	w	سَبَقَتْ		سبقت	(that) preceded	sabaqat
+4	11:110:10	w	مِن		من	from	min
+4	11:110:11	w	رَّبِّكَ		ربك	your Lord	rabbika
+4	11:110:12	w	لَقُضِيَ		لقضي	surely would have been judged	laquḍiya
+4	11:110:13	w	بَيْنَهُمْ࣌		بينهم	between them	baynahum
+4	11:110:14	w	وَإِنَّهُمْ		وانهم	And indeed, they	wa-innahum
+4	11:110:15	w	لَفِے		لفي	surely (are) in	lafī
+4	11:110:16	w	شَكࣲّ		شك	doubt	shakkin
+5	11:110:17	w	مِّنْهُ		منه	concerning it	min'hu
+5	11:110:18	w	مُرِيبࣲ࣌		مريب	suspicious	murībin
+5	11:110:19	e	۝١١٠				
+5	11:111:1	w	وَإِن		وان	And indeed	wa-inna
+5	11:111:2	w	كُلّاࣰ		كلا	to each [when]	kullan
+5	11:111:3	w	لَّمَا		لما	to each [when]	lammā
+5	11:111:4	w	لَيُوَفِّيَنَّهُمْ		ليوفينهم	surely will pay them in full	layuwaffiyannahum
+5	11:111:5	w	رَبُّكَ		ربك	your Lord	rabbuka
+5	11:111:6	w	أَعْمَٰلَهُمُۥٓ࣌		اعملهم	their deeds	aʿmālahum
+6	11:111:7	w	إِنَّهُۥ		انه	Indeed, He	innahu
+6	11:111:8	w	بِمَا		بما	of what	bimā
+6	11:111:9	w	يَعْمَلُونَ		يعملون	they do	yaʿmalūna
+6	11:111:10	w	خَبِيرࣱ࣌		خبير	(is) All-Aware	khabīrun
+6	11:111:11	e	۝١١١				
+6	11:112:1	w	فَاسْتَقِمْ		فاستقم	So stand firm	fa-is'taqim
+6	11:112:2	w	كَمَآ		كما	as	kamā
+6	11:112:3	w	أُمِرْتَ		امرت	you are commanded	umir'ta
+6	11:112:4	w	وَمَن		ومن	and (those) who	waman
+6	11:112:5	w	تَابَ		تاب	turn (in repentance)	tāba
+7	11:112:6	w	مَعَكَ		معك	with you	maʿaka
+7	11:112:7	w	وَلَا		ولا	and (do) not	walā
+7	11:112:8	w	تَطْغَوِاْ࣌		تطغوا	transgress	taṭghaw
+7	11:112:9	w	ࡴنَّهُۥ		انه	Indeed, He	innahu
+7	11:112:10	w	بِمَا		بما	of what	bimā
+7	11:112:11	w	تَعْمَلُونَ		تعملون	you do	taʿmalūna
+7	11:112:12	w	بَصِيرࣱ࣌		بصير	(is) All-Seer	baṣīrun
+7	11:112:13	e	۝١١٢				
+7	11:113:1	w	وَلَا		ولا	And (do) not	walā
+7	11:113:2	w	تَرْكَنُوٓاْ		تركنوا	incline	tarkanū
+8	11:113:3	w	إِلَى		الي	to	ilā
+8	11:113:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+8	11:113:5	w	ظَلَمُواْ		ظلموا	do wrong	ẓalamū
+8	11:113:6	w	فَتَمَسَّكُمُ		فتمسكم	lest touches you	fatamassakumu
+8	11:113:7	w	ࡲ۬لنَّارُ࣌		النار	the Fire	l-nāru
+8	11:113:8	w	وَمَا		وما	and not	wamā
+8	11:113:9	w	لَكُم		لكم	(is) for you	lakum
+8	11:113:10	w	مِّن		من	besides Allah	min
+8	11:113:11	w	دُونِ		دون	besides Allah	dūni
+8	11:113:12	w	ࡴ۬للَّهِ		الله	besides Allah	l-lahi
+9	11:113:13	w	مِنَ		من	any	min
+9	11:113:14	w	ࡰوْلِيَآءَ࣌		اوليا	protectors	awliyāa
+9	11:113:15	w	ثُمَّ		ثم	then	thumma
+9	11:113:16	w	لَا		لا	not	lā
+9	11:113:17	w	تُنصَرُونَ࣌		تنصرون	you will be helped	tunṣarūna
+9	11:113:18	e	۝١١٣				
+9	11:114:1	w	وَأَقِمِ		واقم	And establish	wa-aqimi
+9	11:114:2	w	ࡴ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+9	11:114:3	w	طَرَفَيِ		طرفي	(at the) two ends	ṭarafayi
+9	11:114:4	w	ࡴ۬لنَّهٜارِ		النهار	(of) the day	l-nahāri
+10	11:114:5	w	وَزُلَفاࣰ		وزلفا	and (at) the approach	wazulafan
+10	11:114:6	w	مِّنَ		من	of	mina
+10	11:114:7	w	ࡰ۬ليْلِ࣌		اليل	the night	al-layli
+10	11:114:8	w	إِنَّ		ان	Indeed	inna
+10	11:114:9	w	ࡰ۬لْحَسَنَٰتِ		الحسنت	the good deeds	l-ḥasanāti
+10	11:114:10	w	يُذْهِبْنَ		يذهبن	remove	yudh'hib'na
+10	11:114:11	w	ࡰ۬لسَّيِّـَٔاتِ࣌		السيات	the evil deeds	l-sayiāti
+10	11:114:12	w	ذَٰلِكَ		ذلك	That	dhālika
+10	11:114:13	w	ذِكْرٜىٰ		ذكري	(is) a reminder	dhik'rā
+11	11:114:14	w	لِلذَّٰكِرِينَ࣌		للذكرين	for those who remember	lildhākirīna
+11	11:114:15	e	۝١١٤				
+11	11:115:1	w	وَاصْبِرْ࣌		واصبر	And be patient	wa-iṣ'bir
+11	11:115:2	w	فَإِنَّ		فان	for indeed	fa-inna
+11	11:115:3	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	11:115:4	w	لَا		لا	(does) not	lā
+11	11:115:5	w	يُضِيعُ		يضيع	let go waste	yuḍīʿu
+11	11:115:6	w	أَجْرَ		اجر	(the) reward	ajra
+11	11:115:7	w	ࡰ۬لْمُحْسِنِينَ࣌		المحسنين	(of) the good-doers	l-muḥ'sinīna
+11	11:115:8	e	۝١١٥				
+12	11:116:1	w	فَلَوْلَا		فلولا	So why not	falawlā
+12	11:116:2	w	كَانَ		كان	had been	kāna
+12	11:116:3	w	مِنَ		من	of	mina
+12	11:116:4	w	ࡰ۬لْقُرُونِ		القرون	the generations	l-qurūni
+12	11:116:5	w	مِن		من	before you	min
+12	11:116:6	w	قَبْلِكُمُۥٓ		قبلكم	before you	qablikum
+12	11:116:7	w	أُوْلُواْ		اولوا	those possessing a remnant	ulū
+12	11:116:8	w	بَقِيَّةࣲ		بقية	those possessing a remnant	baqiyyatin
+12	11:116:9	w	يَنْهَوْنَ		ينهون	forbidding	yanhawna
+13	11:116:10	w	عَنِ		عن	from	ʿani
+13	11:116:11	w	ࡴ۬لْفَسَادِ		الفساد	the corruption	l-fasādi
+13	11:116:12	w	فِے		في	in	fī
+13	11:116:13	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+13	11:116:14	w	إِلَّا		الا	except	illā
+13	11:116:15	w	قَلِيلاࣰ		قليلا	a few	qalīlan
+13	11:116:16	w	مِّمَّنَ		ممن	of those	mimman
+13	11:116:17	w	ࡰنجَيْنَا		انجينا	We saved	anjaynā
+13	11:116:18	w	مِنْهُمْ࣌		منهم	among them	min'hum
+13	11:116:19	w	وَاتَّبَعَ		واتبع	But followed	wa-ittabaʿa
+14	11:116:20	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+14	11:116:21	w	ظَلَمُواْ		ظلموا	did wrong	ẓalamū
+14	11:116:22	w	مَآ		ما	what	mā
+14	11:116:23	w	أُتْرِفُواْ		اترفوا	luxury they were given	ut'rifū
+14	11:116:24	w	فِيهِ		فيه	therein	fīhi
+14	11:116:25	w	وَكَانُواْ		وكانوا	and they were	wakānū
+14	11:116:26	w	مُجْرِمِينَ࣌		مجرمين	criminals	muj'rimīna
+14	11:116:27	e	۝١١٦				
+14	11:117:1	w	۞ وَمَا		وما	And not	wamā
+15	11:117:2	w	كَانَ		كان	would	kāna
+15	11:117:3	w	رَبُّكَ		ربك	your Lord	rabbuka
+15	11:117:4	w	لِيُهْلِكَ		ليهلك	destroy	liyuh'lika
+15	11:117:5	w	ࡰ۬لْقُرٜىٰ		القري	the cities	l-qurā
+15	11:117:6	w	بِظُلْمࣲ		بظلم	unjustly	biẓul'min
+15	11:117:7	w	وَأَهْلُهَا		واهلها	while its people	wa-ahluhā
+15	11:117:8	w	مُصْلِحُونَ࣌		مصلحون	(were) reformers	muṣ'liḥūna
+15	11:117:9	e	۝١١٧				

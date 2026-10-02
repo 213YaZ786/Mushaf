@@ -1,0 +1,135 @@
+1	36:70:1	w	أَوَلَمْ		اولم	Do not	awalam
+1	36:70:2	w	يَرَوَاْ		يروا	they see	yaraw
+1	36:70:3	w	ࡰنَّا		انا	that We	annā
+1	36:70:4	w	خَلَقْنَا		خلقنا	[We] created	khalaqnā
+1	36:70:5	w	لَهُم		لهم	for them	lahum
+1	36:70:6	w	مِّمَّا		مما	from what	mimmā
+1	36:70:7	w	عَمِلَتَ		عملت	have made	ʿamilat
+1	36:70:8	w	ࡰيْدِينَآ		ايدينا	Our hands	aydīnā
+2	36:70:9	w	أَنْعَٰماࣰ		انعما	cattle	anʿāman
+2	36:70:10	w	فَهُمْ		فهم	then they	fahum
+2	36:70:11	w	لَهَا		لها	[for them]	lahā
+2	36:70:12	w	مَٰلِكُونَ࣌		ملكون	(are the) owners	mālikūna
+2	36:70:13	e	۝٧٠				
+2	36:71:1	w	وَذَلَّلْنَٰهَا		وذللنها	And We have tamed them	wadhallalnāhā
+2	36:71:2	w	لَهُمْ		لهم	for them	lahum
+2	36:71:3	w	فَمِنْهَا		فمنها	so some of them	famin'hā
+3	36:71:4	w	رَكُوبُهُمْ		ركوبهم	they ride them	rakūbuhum
+3	36:71:5	w	وَمِنْهَا		ومنها	and some of them	wamin'hā
+3	36:71:6	w	يَاكُلُونَ࣌		ياكلون	they eat	yakulūna
+3	36:71:7	e	۝٧١				
+3	36:72:1	w	وَلَهُمْ		ولهم	And for them	walahum
+3	36:72:2	w	فِيهَا		فيها	therein	fīhā
+3	36:72:3	w	مَنَٰفِعُ		منفع	(are) benefits	manāfiʿu
+3	36:72:4	w	وَمَشَارِبُ࣌		ومشارب	and drinks	wamashāribu
+4	36:72:5	w	أَفَلَا		افلا	so (will) not	afalā
+4	36:72:6	w	يَشْكُرُونَ࣌		يشكرون	they give thanks	yashkurūna
+4	36:72:7	e	۝٧٢				
+4	36:73:1	w	وَاتَّخَذُواْ		واتخذوا	But they have taken	wa-ittakhadhū
+4	36:73:2	w	مِن		من	besides	min
+4	36:73:3	w	دُونِ		دون	besides	dūni
+4	36:73:4	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+4	36:73:5	w	ءَالِهَةࣰ		الهة	gods	ālihatan
+5	36:73:6	w	لَّعَلَّهُمْ		لعلهم	that they may	laʿallahum
+5	36:73:7	w	يُنصَرُونَ		ينصرون	be helped	yunṣarūna
+5	36:73:8	e	۝٧٣				
+5	36:74:1	w	لَا		لا	Not	lā
+5	36:74:2	w	يَسْتَطِيعُونَ		يستطيعون	they are able	yastaṭīʿūna
+5	36:74:3	w	نَصْرَهُمْ		نصرهم	to help them	naṣrahum
+5	36:74:4	w	وَهُمْ		وهم	but they	wahum
+5	36:74:5	w	لَهُمْ		لهم	for them	lahum
+5	36:74:6	w	جُندࣱ		جند	(are) hosts	jundun
+6	36:74:7	w	مُّحْضَرُونَ࣌		محضرون	(who will) be brought	muḥ'ḍarūna
+6	36:74:8	e	۝٧٤				
+6	36:75:1	w	فَلَا		فلا	So (let) not	falā
+6	36:75:2	w	يُحْزِنكَ		يحزنك	grieve you	yaḥzunka
+6	36:75:3	w	قَوْلُهُمُۥٓ࣌		قولهم	their speech	qawluhum
+6	36:75:4	w	إِنَّا		انا	Indeed, We	innā
+6	36:75:5	w	نَعْلَمُ		نعلم	[We] know	naʿlamu
+6	36:75:6	w	مَا		ما	what	mā
+6	36:75:7	w	يُسِرُّونَ		يسرون	they conceal	yusirrūna
+7	36:75:8	w	وَمَا		وما	and what	wamā
+7	36:75:9	w	يُعْلِنُونَ࣌		يعلنون	they declare	yuʿ'linūna
+7	36:75:10	e	۝٧٥				
+7	36:76:1	w	أَوَلَمْ		اولم	Does not	awalam
+7	36:76:2	w	يَرَ		ير	see	yara
+7	36:76:3	w	ࡰ۬لِانسَٰنُ		الانسن	[the] man	l-insānu
+7	36:76:4	w	أَنَّا		انا	that We	annā
+7	36:76:5	w	خَلَقْنَٰهُ		خلقنه	[We] created him	khalaqnāhu
+7	36:76:6	w	مِن		من	from	min
+7	36:76:7	w	نُّطْفَةࣲ		نطفة	a semen-drop	nuṭ'fatin
+8	36:76:8	w	فَإِذَا		فاذا	Then behold	fa-idhā
+8	36:76:9	w	هُوَ		هو	He	huwa
+8	36:76:10	w	خَصِيمࣱ		خصيم	(is) an opponent	khaṣīmun
+8	36:76:11	w	مُّبِينࣱ࣌		مبين	clear	mubīnun
+8	36:76:12	e	۝٧٦				
+8	36:77:1	w	وَضَرَبَ		وضرب	And he sets forth	waḍaraba
+8	36:77:2	w	لَنَا		لنا	for Us	lanā
+8	36:77:3	w	مَثَلاࣰ		مثلا	an example	mathalan
+8	36:77:4	w	وَنَسِيَ		ونسي	and forgets	wanasiya
+9	36:77:5	w	خَلْقَهُۥ࣌		خلقه	his (own) creation	khalqahu
+9	36:77:6	w	قَالَ		قال	He says	qāla
+9	36:77:7	w	مَنْ		من	Who	man
+9	36:77:8	w	يُّحْيِ		يحي	will give life	yuḥ'yī
+9	36:77:9	w	ࡴ۬لْعِظَٰمَ		العظم	(to) the bones	l-ʿiẓāma
+9	36:77:10	w	وَهِيَ		وهي	while they	wahiya
+9	36:77:11	w	رَمِيمࣱ࣌		رميم	(are) decomposed	ramīmun
+9	36:77:12	e	۝٧٧				
+9	36:78:1	w	قُلْ		قل	Say	qul
+9	36:78:2	w	يُحْيِيهَا		يحييها	He will give them life	yuḥ'yīhā
+10	36:78:3	w	ࡰ۬لذِےٓ		الذي	Who	alladhī
+10	36:78:4	w	أَنشَأَهَآ		انشاها	produced them	ansha-ahā
+10	36:78:5	w	أَوَّلَ		اول	(the) first	awwala
+10	36:78:6	w	مَرَّةࣲ		مرة	time	marratin
+10	36:78:7	w	وَهُوَ		وهو	and He	wahuwa
+10	36:78:8	w	بِكُلِّ		بكل	(is) of every	bikulli
+10	36:78:9	w	خَلْقٍ		خلق	creation	khalqin
+10	36:78:10	w	عَلِيمٌ࣌		عليم	All-Knower	ʿalīmun
+10	36:78:11	e	۝٧٨				
+11	36:79:1	w	۞ ࡴ۬لذِے		الذي	The One Who	alladhī
+11	36:79:2	w	جَعَلَ		جعل	made	jaʿala
+11	36:79:3	w	لَكُم		لكم	for you	lakum
+11	36:79:4	w	مِّنَ		من	from	mina
+11	36:79:5	w	ࡰ۬لشَّجَرِ		الشجر	the tree	l-shajari
+11	36:79:6	w	ࡴ۬لَاخْضَرِ		الاخضر	[the] green	l-akhḍari
+11	36:79:7	w	نَاراࣰ		نارا	fire	nāran
+11	36:79:8	w	فَإِذَآ		فاذا	and behold	fa-idhā
+11	36:79:9	w	أَنتُم		انتم	You	antum
+11	36:79:10	w	مِّنْهُ		منه	from it	min'hu
+12	36:79:11	w	تُوقِدُونَ࣌		توقدون	ignite	tūqidūna
+12	36:79:12	e	۝٧٩				
+12	36:80:1	w	أَوَلَيْسَ		اوليس	Is it not	awalaysa
+12	36:80:2	w	ࡰ۬لذِے		الذي	(He) Who	alladhī
+12	36:80:3	w	خَلَقَ		خلق	created	khalaqa
+12	36:80:4	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+12	36:80:5	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+12	36:80:6	w	بِقَٰدِرٍ		بقدر	Able	biqādirin
+13	36:80:7	w	عَلَىٰٓ		علي	to	ʿalā
+13	36:80:8	w	أَنْ		ان	[that]	an
+13	36:80:9	w	يَّخْلُقَ		يخلق	create	yakhluqa
+13	36:80:10	w	مِثْلَهُم࣌		مثلهم	(the) like of them	mith'lahum
+13	36:80:11	w	بَلٜىٰ		بلي	Yes, indeed	balā
+13	36:80:12	w	وَهُوَ		وهو	and He	wahuwa
+13	36:80:13	w	ࡰ۬لْخَلَّٰقُ		الخلق	(is) the Supreme Creator	l-khalāqu
+13	36:80:14	w	ࡲ۬لْعَلِيمُ࣌		العليم	the All-Knower	l-ʿalīmu
+13	36:80:15	e	۝٨٠				
+14	36:81:1	w	إِنَّمَآ		انما	Only	innamā
+14	36:81:2	w	أَمْرُهُۥٓ		امره	His Command	amruhu
+14	36:81:3	w	إِذَآ		اذا	when	idhā
+14	36:81:4	w	أَرَادَ		اراد	He intends	arāda
+14	36:81:5	w	شَيْـٔاً		شيا	a thing	shayan
+14	36:81:6	w	ࡰنْ		ان	that	an
+14	36:81:7	w	يَّقُولَ		يقول	He says	yaqūla
+14	36:81:8	w	لَهُۥ		له	to it	lahu
+14	36:81:9	w	كُن࣌		كن	Be	kun
+14	36:81:10	w	فَيَكُونُ࣌		فيكون	and it is	fayakūnu
+14	36:81:11	e	۝٨١				
+15	36:82:1	w	فَسُبْحَٰنَ		فسبحن	So glory be	fasub'ḥāna
+15	36:82:2	w	ࡰ۬لذِے		الذي	(to) the One who	alladhī
+15	36:82:3	w	بِيَدِهِۦ		بيدهي	in Whose hand	biyadihi
+15	36:82:4	w	مَلَكُوتُ		ملكوت	is (the) dominion	malakūtu
+15	36:82:5	w	كُلِّ		كل	(of) all	kulli
+15	36:82:6	w	شَےْءࣲ		شي	things	shayin
+15	36:82:7	w	وَإِلَيْهِ		واليه	and to Him	wa-ilayhi
+15	36:82:8	w	تُرْجَعُونَ࣌		ترجعون	you will be returned	tur'jaʿūna
+15	36:82:9	e	۝٨٢				

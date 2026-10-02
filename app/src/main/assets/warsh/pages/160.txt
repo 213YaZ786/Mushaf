@@ -1,0 +1,123 @@
+1	7:73:1	w	وَاذْكُرُوٓاْ		واذكروا	And remember	wa-udh'kurū
+1	7:73:2	w	إِذْ		اذ	when	idh
+1	7:73:3	w	جَعَلَكُمْ		جعلكم	He made you	jaʿalakum
+1	7:73:4	w	خُلَفَآءَ		خلفا	successors	khulafāa
+1	7:73:5	w	مِنۢ		من	from	min
+1	7:73:6	w	بَعْدِ		بعد	after	baʿdi
+1	7:73:7	w	عَادࣲ		عاد	Aad	ʿādin
+1	7:73:8	w	وَبَوَّأَكُمْ		وبواكم	and settled you	wabawwa-akum
+2	7:73:9	w	فِے		في	in	fī
+2	7:73:10	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+2	7:73:11	w	تَتَّخِذُونَ		تتخذون	You take	tattakhidhūna
+2	7:73:12	w	مِن		من	from	min
+2	7:73:13	w	سُهُولِهَا		سهولها	its plains	suhūlihā
+2	7:73:14	w	قُصُوراࣰ		قصورا	palaces	quṣūran
+2	7:73:15	w	وَتَنْحِتُونَ		وتنحتون	and you carve out	watanḥitūna
+3	7:73:16	w	ࡰ۬لْجِبَالَ		الجبال	the mountains	l-jibāla
+3	7:73:17	w	بُيُوتاࣰ࣌		بيوتا	(as) homes	buyūtan
+3	7:73:18	w	فَاذْكُرُوٓاْ		فاذكروا	So remember	fa-udh'kurū
+3	7:73:19	w	ءَالَآءَ		الا	(the) Bounties	ālāa
+3	7:73:20	w	ࡰ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+3	7:73:21	w	وَلَا		ولا	and (do) not	walā
+3	7:73:22	w	تَعْثَوْاْ		تعثوا	act wickedly	taʿthaw
+3	7:73:23	w	فِے		في	in	fī
+3	7:73:24	w	ࡴ۬لَارْضِ		الارض	(the) earth	l-arḍi
+4	7:73:25	w	مُفْسِدِينَ࣌		مفسدين	spreading corruption	muf'sidīna
+4	7:73:26	e	۝٧٣				
+4	7:74:1	w	قَالَ		قال	Said	qāla
+4	7:74:2	w	ࡰ۬لْمَلَأُ		الملا	the chiefs	l-mala-u
+4	7:74:3	w	ࡲ۬لذِينَ		الذين	those	alladhīna
+4	7:74:4	w	ࡰٜسْتَكْبَرُواْ		استكبروا	(who) were arrogant	is'takbarū
+4	7:74:5	w	مِن		من	among	min
+5	7:74:6	w	قَوْمِهِۦ		قومهي	his people	qawmihi
+5	7:74:7	w	لِلذِينَ		للذين	to those who	lilladhīna
+5	7:74:8	w	ࡸَسْتُضْعِفُواْ		استضعفوا	were oppressed	us'tuḍ'ʿifū
+5	7:74:9	w	لِمَنَ		لمن	[to] those who	liman
+5	7:74:10	w	اٰمَنَ		امن	believed	āmana
+5	7:74:11	w	مِنْهُمُۥٓ		منهم	among them	min'hum
+5	7:74:12	w	أَتَعْلَمُونَ		اتعلمون	Do you know	ataʿlamūna
+6	7:74:13	w	أَنَّ		ان	that	anna
+6	7:74:14	w	صَٰلِحاࣰ		صلحا	Salih	ṣāliḥan
+6	7:74:15	w	مُّرْسَلࣱ		مرسل	(is the) one sent	mur'salun
+6	7:74:16	w	مِّن		من	from	min
+6	7:74:17	w	رَّبِّهِۦ࣌		ربهي	his Lord	rabbihi
+6	7:74:18	w	قَالُوٓاْ		قالوا	They said	qālū
+6	7:74:19	w	إِنَّا		انا	Indeed, we	innā
+6	7:74:20	w	بِمَآ		بما	in what	bimā
+6	7:74:21	w	أُرْسِلَ		ارسل	he has been sent	ur'sila
+6	7:74:22	w	بِهِۦ		بهي	with [it]	bihi
+7	7:74:23	w	مُومِنُونَ࣌		مومنون	(are) believers	mu'minūna
+7	7:74:24	e	۝٧٤				
+7	7:75:1	w	قَالَ		قال	Said	qāla
+7	7:75:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	7:75:3	w	ࡰٜسْتَكْبَرُوٓاْ		استكبروا	were arrogant	is'takbarū
+7	7:75:4	w	إِنَّا		انا	Indeed we	innā
+7	7:75:5	w	بِالذِےٓ		بالذي	in that which	bi-alladhī
+8	7:75:6	w	ءَامَنتُم		امنتم	you believe	āmantum
+8	7:75:7	w	بِهِۦ		بهي	in it	bihi
+8	7:75:8	w	كَٰفِرُونَ࣌		كفرون	(are) disbelievers	kāfirūna
+8	7:75:9	e	۝٧٥				
+8	7:76:1	w	۞ فَعَقَرُواْ		فعقروا	Then they hamstrung	faʿaqarū
+8	7:76:2	w	ࡲ۬لنَّاقَةَ		الناقة	the she-camel	l-nāqata
+8	7:76:3	w	وَعَتَوْاْ		وعتوا	and (were) insolent	waʿataw
+8	7:76:4	w	عَنَ		عن	towards	ʿan
+9	7:76:5	w	ࡰمْرِ		امر	(the) command	amri
+9	7:76:6	w	رَبِّهِمْ࣌		ربهم	(of) their Lord	rabbihim
+9	7:76:7	w	وَقَالُواْ		وقالوا	and they said	waqālū
+9	7:76:8	w	يَٰصَٰلِحُ		يصلح	O Salih	yāṣāliḥu
+9	7:76:9	w	ࡲٜيتِنَا		ايتنا	Bring us	i'tinā
+9	7:76:10	w	بِمَا		بما	what	bimā
+9	7:76:11	w	تَعِدُنَآ		تعدنا	you promise us	taʿidunā
+9	7:76:12	w	إِن		ان	if	in
+9	7:76:13	w	كُنتَ		كنت	you are	kunta
+10	7:76:14	w	مِنَ		من	of	mina
+10	7:76:15	w	ࡰ۬لْمُرْسَلِينَ࣌		المرسلين	the Messengers	l-mur'salīna
+10	7:76:16	e	۝٧٦				
+10	7:77:1	w	فَأَخَذَتْهُمُ		فاخذتهم	So seized them	fa-akhadhathumu
+10	7:77:2	w	ࡲ۬لرَّجْفَةُ		الرجفة	the earthquake	l-rajfatu
+10	7:77:3	w	فَأَصْبَحُواْ		فاصبحوا	then they became	fa-aṣbaḥū
+10	7:77:4	w	فِے		في	in	fī
+10	7:77:5	w	دٜارِهِمْ		دارهم	their homes	dārihim
+11	7:77:6	w	جَٰثِمِينَ࣌		جثمين	fallen prone	jāthimīna
+11	7:77:7	e	۝٧٧				
+11	7:78:1	w	فَتَوَلّٜىٰ		فتولي	So he turned away	fatawallā
+11	7:78:2	w	عَنْهُمْ		عنهم	from them	ʿanhum
+11	7:78:3	w	وَقَالَ		وقال	and he said	waqāla
+11	7:78:4	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+11	7:78:5	w	لَقَدَ		لقد	Verily	laqad
+11	7:78:6	w	ࡰبْلَغْتُكُمْ		ابلغتكم	I have conveyed to you	ablaghtukum
+12	7:78:7	w	رِسَالَةَ		رسالة	(the) Message	risālata
+12	7:78:8	w	رَبِّے		ربي	(of) my Lord	rabbī
+12	7:78:9	w	وَنَصَحْتُ		ونصحت	and [I] advised	wanaṣaḥtu
+12	7:78:10	w	لَكُمْ࣌		لكم	[to] you	lakum
+12	7:78:11	w	وَلَٰكِن		ولكن	but	walākin
+12	7:78:12	w	لَّا		لا	not	lā
+12	7:78:13	w	تُحِبُّونَ		تحبون	you like	tuḥibbūna
+12	7:78:14	w	ࡰ۬لنَّٰصِحِينَ࣌		النصحين	the advisers	l-nāṣiḥīna
+12	7:78:15	e	۝٧٨				
+13	7:79:1	w	وَلُوطاً		ولوطا	And Lut	walūṭan
+13	7:79:2	w	ࡴذْ		اذ	when	idh
+13	7:79:3	w	قَالَ		قال	he said	qāla
+13	7:79:4	w	لِقَوْمِهِۦٓ		لقومهي	to his people	liqawmihi
+13	7:79:5	w	أَتَاتُونَ		اتاتون	Do you commit	atatūna
+13	7:79:6	w	ࡰ۬لْفَٰحِشَةَ		الفحشة	(such) immorality	l-fāḥishata
+13	7:79:7	w	مَا		ما	not	mā
+13	7:79:8	w	سَبَقَكُم		سبقكم	has preceded you	sabaqakum
+14	7:79:9	w	بِهَا		بها	therein	bihā
+14	7:79:10	w	مِنَ		من	any	min
+14	7:79:11	w	ࡰحَدࣲ		احد	one	aḥadin
+14	7:79:12	w	مِّنَ		من	of	mina
+14	7:79:13	w	ࡰ۬لْعَٰلَمِينَ࣌		العلمين	the worlds	l-ʿālamīna
+14	7:79:14	e	۝٧٩				
+14	7:80:1	w	إِنَّكُمْ		انكم	Indeed, you	innakum
+14	7:80:2	w	لَتَاتُونَ		لتاتون	you approach	latatūna
+14	7:80:3	w	ࡰ۬لرِّجَالَ		الرجال	the men	l-rijāla
+15	7:80:4	w	شَهْوَةࣰ		شهوة	lustfully	shahwatan
+15	7:80:5	w	مِّن		من	from	min
+15	7:80:6	w	دُونِ		دون	instead of	dūni
+15	7:80:7	w	ࡴ۬لنِّسَآءِ࣌		النسا	the women	l-nisāi
+15	7:80:8	w	بَلَ		بل	Nay	bal
+15	7:80:9	w	ࡰنتُمْ		انتم	you	antum
+15	7:80:10	w	قَوْمࣱ		قوم	(are) a people	qawmun
+15	7:80:11	w	مُّسْرِفُونَ࣌		مسرفون	(who) commit excesses	mus'rifūna
+15	7:80:12	e	۝٨٠				

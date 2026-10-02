@@ -1,0 +1,147 @@
+1	15:32:1	w	قَالَ		قال	He said	qāla
+1	15:32:2	w	يَٰٓإِبْلِيسُ		يابليس	O Iblis	yāib'līsu
+1	15:32:3	w	مَا		ما	What	mā
+1	15:32:4	w	لَكَ		لك	(is) for you	laka
+1	15:32:5	w	أَلَّا		الا	that not	allā
+1	15:32:6	w	تَكُونَ		تكون	you are	takūna
+1	15:32:7	w	مَعَ		مع	with	maʿa
+1	15:32:8	w	ࡰ۬لسَّٰجِدِينَ࣌		السجدين	those who prostrated	l-sājidīna
+1	15:32:9	e	۝٣٢				
+1	15:33:1	w	قَالَ		قال	He said	qāla
+1	15:33:2	w	لَمَ		لم	I am not	lam
+1	15:33:3	w	ࡰكُن		اكن	I am not	akun
+2	15:33:4	w	لِّأَسْجُدَ		لاسجد	(one) to prostrate	li-asjuda
+2	15:33:5	w	لِبَشَرٍ		لبشر	to a human	libasharin
+2	15:33:6	w	خَلَقْتَهُۥ		خلقته	whom You created	khalaqtahu
+2	15:33:7	w	مِن		من	(out) of	min
+2	15:33:8	w	صَلْصَٰلࣲ		صلصل	clay	ṣalṣālin
+2	15:33:9	w	مِّنْ		من	from	min
+2	15:33:10	w	حَمَإࣲ		حما	black mud	ḥama-in
+2	15:33:11	w	مَّسْنُونࣲ࣌		مسنون	altered	masnūnin
+2	15:33:12	e	۝٣٣				
+3	15:34:1	w	قَالَ		قال	He said	qāla
+3	15:34:2	w	فَاخْرُجْ		فاخرج	Then get out	fa-ukh'ruj
+3	15:34:3	w	مِنْهَا		منها	of it	min'hā
+3	15:34:4	w	فَإِنَّكَ		فانك	for indeed, you	fa-innaka
+3	15:34:5	w	رَجِيمࣱ		رجيم	(are) expelled	rajīmun
+3	15:34:6	e	۝٣٤				
+3	15:35:1	w	وَإِنَّ		وان	And indeed	wa-inna
+3	15:35:2	w	عَلَيْكَ		عليك	upon you	ʿalayka
+3	15:35:3	w	ࡰ۬للَّعْنَةَ		اللعنة	(will be) the curse	l-laʿnata
+3	15:35:4	w	إِلَىٰ		الي	till	ilā
+3	15:35:5	w	يَوْمِ		يوم	(the) Day	yawmi
+4	15:35:6	w	ࡴ۬لدِّينِ࣌		الدين	(of) [the] Judgment	l-dīni
+4	15:35:7	e	۝٣٥				
+4	15:36:1	w	قَالَ		قال	He said	qāla
+4	15:36:2	w	رَبِّ		رب	O my Lord	rabbi
+4	15:36:3	w	فَأَنظِرْنِےٓ		فانظرني	Then give me respite	fa-anẓir'nī
+4	15:36:4	w	إِلَىٰ		الي	till	ilā
+4	15:36:5	w	يَوْمِ		يوم	(the) Day	yawmi
+4	15:36:6	w	يُبْعَثُونَ࣌		يبعثون	they are raised	yub'ʿathūna
+4	15:36:7	e	۝٣٦				
+4	15:37:1	w	قَالَ		قال	He said	qāla
+4	15:37:2	w	فَإِنَّكَ		فانك	Then indeed you	fa-innaka
+5	15:37:3	w	مِنَ		من	(are) of	mina
+5	15:37:4	w	ࡰ۬لْمُنظَرِينَ		المنظرين	the ones given respite	l-munẓarīna
+5	15:37:5	e	۝٣٧				
+5	15:38:1	w	إِلَىٰ		الي	Till	ilā
+5	15:38:2	w	يَوْمِ		يوم	the Day	yawmi
+5	15:38:3	w	ࡴ۬لْوَقْتِ		الوقت	(of) the time	l-waqti
+5	15:38:4	w	ࡴ۬لْمَعْلُومِ࣌		المعلوم	well-known	l-maʿlūmi
+5	15:38:5	e	۝٣٨				
+5	15:39:1	w	قَالَ		قال	He said	qāla
+5	15:39:2	w	رَبِّ		رب	My Lord	rabbi
+5	15:39:3	w	بِمَآ		بما	Because	bimā
+6	15:39:4	w	أَغْوَيْتَنِے		اغويتني	You misled me	aghwaytanī
+6	15:39:5	w	لَأُزَيِّنَنَّ		لازينن	surely, I will make (evil) fair-seeming	la-uzayyinanna
+6	15:39:6	w	لَهُمْ		لهم	to them	lahum
+6	15:39:7	w	فِے		في	in	fī
+6	15:39:8	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+6	15:39:9	w	وَلَأُغْوِيَنَّهُمُۥٓ		ولاغوينهم	and I will mislead them	wala-ugh'wiyannahum
+6	15:39:10	w	أَجْمَعِينَ		اجمعين	all	ajmaʿīna
+6	15:39:11	e	۝٣٩				
+7	15:40:1	w	إِلَّا		الا	Except	illā
+7	15:40:2	w	عِبَادَكَ		عبادك	Your slaves	ʿibādaka
+7	15:40:3	w	مِنْهُمُ		منهم	among them	min'humu
+7	15:40:4	w	ࡲ۬لْمُخْلَصِينَ࣌		المخلصين	the ones who are sincere	l-mukh'laṣīna
+7	15:40:5	e	۝٤٠				
+7	15:41:1	w	قَالَ		قال	He said	qāla
+7	15:41:2	w	هَٰذَا		هذا	This	hādhā
+7	15:41:3	w	صِرَٰطٌ		صرط	(is) the way	ṣirāṭun
+7	15:41:4	w	عَلَيَّ		علي	to Me	ʿalayya
+8	15:41:5	w	مُسْتَقِيمٌ࣌		مستقيم	straight	mus'taqīmun
+8	15:41:6	e	۝٤١				
+8	15:42:1	w	ࡴنَّ		ان	Indeed	inna
+8	15:42:2	w	عِبَادِے		عبادي	My slaves	ʿibādī
+8	15:42:3	w	لَيْسَ		ليس	not	laysa
+8	15:42:4	w	لَكَ		لك	you have	laka
+8	15:42:5	w	عَلَيْهِمْ		عليهم	over them	ʿalayhim
+8	15:42:6	w	سُلْطَٰنٌ		سلطن	any authority	sul'ṭānun
+8	15:42:7	w	ࡴلَّا		الا	except	illā
+8	15:42:8	w	مَنِ		من	those who	mani
+9	15:42:9	w	ࡴٜتَّبَعَكَ		اتبعك	follow you	ittabaʿaka
+9	15:42:10	w	مِنَ		من	of	mina
+9	15:42:11	w	ࡰ۬لْغَاوِينَ࣌		الغاوين	the ones who go astray	l-ghāwīna
+9	15:42:12	e	۝٤٢				
+9	15:43:1	w	وَإِنَّ		وان	And indeed	wa-inna
+9	15:43:2	w	جَهَنَّمَ		جهنم	Hell	jahannama
+9	15:43:3	w	لَمَوْعِدُهُمُۥٓ		لموعدهم	(is) surely the promised place for them	lamawʿiduhum
+9	15:43:4	w	أَجْمَعِينَ		اجمعين	all	ajmaʿīna
+9	15:43:5	e	۝٤٣				
+10	15:44:1	w	لَهَا		لها	For it	lahā
+10	15:44:2	w	سَبْعَةُ		سبعة	(are) seven	sabʿatu
+10	15:44:3	w	أَبْوَٰبࣲ࣌		ابوب	gates	abwābin
+10	15:44:4	w	لِّكُلِّ		لكل	for each	likulli
+10	15:44:5	w	بَابࣲ		باب	gate	bābin
+10	15:44:6	w	مِّنْهُمْ		منهم	among them	min'hum
+10	15:44:7	w	جُزْءࣱ		جز	(is) a portion	juz'on
+10	15:44:8	w	مَّقْسُومٌ࣌		مقسوم	assigned	maqsūmun
+10	15:44:9	e	۝٤٤				
+11	15:45:1	w	ࡴنَّ		ان	Indeed	inna
+11	15:45:2	w	ࡰ۬لْمُتَّقِينَ		المتقين	the righteous	l-mutaqīna
+11	15:45:3	w	فِے		في	(will be) in	fī
+11	15:45:4	w	جَنَّٰتࣲ		جنت	Gardens	jannātin
+11	15:45:5	w	وَعُيُونٍ		وعيون	and water springs	waʿuyūnin
+11	15:45:6	e	۝٤٥				
+11	15:46:1	w	ࡲ࢈دْخُلُوهَا		ادخلوها	Enter it	ud'khulūhā
+11	15:46:2	w	بِسَلَٰمٍ		بسلم	in peace	bisalāmin
+11	15:46:3	w	اٰمِنِينَ࣌		امنين	secure	āminīna
+11	15:46:4	e	۝٤٦				
+12	15:47:1	w	وَنَزَعْنَا		ونزعنا	And We (will) remove	wanazaʿnā
+12	15:47:2	w	مَا		ما	what	mā
+12	15:47:3	w	فِے		في	(is) in	fī
+12	15:47:4	w	صُدُورِهِم		صدورهم	their breasts	ṣudūrihim
+12	15:47:5	w	مِّنْ		من	of	min
+12	15:47:6	w	غِلٍّ࣌		غل	rancor	ghillin
+12	15:47:7	w	ࡴخْوَٰناً		اخونا	(they will be) brothers	ikh'wānan
+12	15:47:8	w	عَلَىٰ		علي	on	ʿalā
+12	15:47:9	w	سُرُرࣲ		سرر	thrones	sururin
+12	15:47:10	w	مُّتَقَٰبِلِينَ࣌		متقبلين	facing each other	mutaqābilīna
+12	15:47:11	e	۝٤٧				
+13	15:48:1	w	لَا		لا	Not	lā
+13	15:48:2	w	يَمَسُّهُمْ		يمسهم	will touch them	yamassuhum
+13	15:48:3	w	فِيهَا		فيها	therein	fīhā
+13	15:48:4	w	نَصَبࣱ࣌		نصب	fatigue	naṣabun
+13	15:48:5	w	وَمَا		وما	and not	wamā
+13	15:48:6	w	هُم		هم	they	hum
+13	15:48:7	w	مِّنْهَا		منها	from it	min'hā
+13	15:48:8	w	بِمُخْرَجِينَ࣌		بمخرجين	will be removed	bimukh'rajīna
+13	15:48:9	e	۝٤٨				
+14	15:49:1	w	۞ نَبِّۓْ		نبي	Inform	nabbi
+14	15:49:2	w	عِبَادِيَ		عبادي	My slaves	ʿibādī
+14	15:49:3	w	أَنِّيَ		اني	that I	annī
+14	15:49:4	w	أَنَا		انا	I am	anā
+14	15:49:5	w	ࡰ۬لْغَفُورُ		الغفور	the Oft-Forgiving	l-ghafūru
+14	15:49:6	w	ࡲ۬لرَّحِيمُ		الرحيم	the Most Merciful	l-raḥīmu
+14	15:49:7	e	۝٤٩				
+14	15:50:1	w	وَأَنَّ		وان	And that	wa-anna
+14	15:50:2	w	عَذَابِے		عذابي	My punishment	ʿadhābī
+15	15:50:3	w	هُوَ		هو	it	huwa
+15	15:50:4	w	ࡰ۬لْعَذَابُ		العذاب	(is) the punishment	l-ʿadhābu
+15	15:50:5	w	ࡲ۬لَالِيمُ࣌		الاليم	the most painful	l-alīmu
+15	15:50:6	e	۝٥٠				
+15	15:51:1	w	وَنَبِّئْهُمْ		ونبيهم	And inform them	wanabbi'hum
+15	15:51:2	w	عَن		عن	about	ʿan
+15	15:51:3	w	ضَيْفِ		ضيف	(the) guests	ḍayfi
+15	15:51:4	w	إِبْرَٰهِيمَ		ابرهيم	(of) Ibrahim	ib'rāhīma
+15	15:51:5	e	۝٥١				

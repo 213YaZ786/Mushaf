@@ -1,0 +1,144 @@
+1	11:13:1	w	ࡰمْ		ام	Or	am
+1	11:13:2	w	يَقُولُونَ		يقولون	they say	yaqūlūna
+1	11:13:3	w	ࡰٜفْتَرٜيٰهُ࣌		افتريه	He has fabricated it	if'tarāhu
+1	11:13:4	w	قُلْ		قل	Say	qul
+1	11:13:5	w	فَاتُواْ		فاتوا	Then bring	fatū
+1	11:13:6	w	بِعَشْرِ		بعشر	ten	biʿashri
+1	11:13:7	w	سُوَرࣲ		سور	Surahs	suwarin
+1	11:13:8	w	مِّثْلِهِۦ		مثلهي	like it	mith'lihi
+1	11:13:9	w	مُفْتَرَيَٰتࣲ		مفتريت	fabricated	muf'tarayātin
+2	11:13:10	w	وَادْعُواْ		وادعوا	and call	wa-id'ʿū
+2	11:13:11	w	مَنِ		من	whoever	mani
+2	11:13:12	w	ࡴٜسْتَطَعْتُم		استطعتم	you can	is'taṭaʿtum
+2	11:13:13	w	مِّن		من	besides Allah	min
+2	11:13:14	w	دُونِ		دون	besides Allah	dūni
+2	11:13:15	w	ࡴ۬للَّهِ		الله	besides Allah	l-lahi
+2	11:13:16	w	إِن		ان	if	in
+2	11:13:17	w	كُنتُمْ		كنتم	you are	kuntum
+2	11:13:18	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+2	11:13:19	e	۝١٣				
+3	11:14:1	w	فَإِلَّمْ		فالم	Then if not	fa-illam
+3	11:14:2	w	يَسْتَجِيبُواْ		يستجيبوا	they respond	yastajībū
+3	11:14:3	w	لَكُمْ		لكم	to you	lakum
+3	11:14:4	w	فَاعْلَمُوٓاْ		فاعلموا	then know	fa-iʿ'lamū
+3	11:14:5	w	أَنَّمَآ		انما	that	annamā
+3	11:14:6	w	أُنزِلَ		انزل	it was sent down	unzila
+3	11:14:7	w	بِعِلْمِ		بعلم	with the knowledge of Allah	biʿil'mi
+3	11:14:8	w	ࡴ۬للَّهِ		الله	with the knowledge of Allah	l-lahi
+3	11:14:9	w	وَأَن		وان	and that	wa-an
+4	11:14:10	w	لَّآ		لا	(there is) no	lā
+4	11:14:11	w	إِلَٰهَ		اله	god	ilāha
+4	11:14:12	w	إِلَّا		الا	except	illā
+4	11:14:13	w	هُوَ࣌		هو	Him	huwa
+4	11:14:14	w	فَهَلَ		فهل	Then, would	fahal
+4	11:14:15	w	ࡰنتُم		انتم	you	antum
+4	11:14:16	w	مُّسْلِمُونَ࣌		مسلمون	(be) Muslims	mus'limūna
+4	11:14:17	e	۝١٤				
+4	11:15:1	w	۞ مَن		من	Whoever [is]	man
+4	11:15:2	w	كَانَ		كان	Whoever [is]	kāna
+4	11:15:3	w	يُرِيدُ		يريد	desires	yurīdu
+4	11:15:4	w	ࡲ۬لْحَيَوٰةَ		الحيوة	the life	l-ḥayata
+5	11:15:5	w	ࡰ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+5	11:15:6	w	وَزِينَتَهَا		وزينتها	and its adornments	wazīnatahā
+5	11:15:7	w	نُوَفِّ		نوف	We will repay in full	nuwaffi
+5	11:15:8	w	إِلَيْهِمُۥٓ		اليهم	to them	ilayhim
+5	11:15:9	w	أَعْمَٰلَهُمْ		اعملهم	(for) their deeds	aʿmālahum
+5	11:15:10	w	فِيهَا		فيها	therein	fīhā
+5	11:15:11	w	وَهُمْ		وهم	and they	wahum
+5	11:15:12	w	فِيهَا		فيها	in it	fīhā
+6	11:15:13	w	لَا		لا	will not be lessened	lā
+6	11:15:14	w	يُبْخَسُونَ࣌		يبخسون	will not be lessened	yub'khasūna
+6	11:15:15	e	۝١٥				
+6	11:16:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+6	11:16:2	w	ࡰ۬لذِينَ		الذين	(are) the ones who	alladhīna
+6	11:16:3	w	لَيْسَ		ليس	(is) not	laysa
+6	11:16:4	w	لَهُمْ		لهم	for them	lahum
+6	11:16:5	w	فِے		في	in	fī
+6	11:16:6	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+6	11:16:7	w	إِلَّا		الا	except	illā
+7	11:16:8	w	ࡰ۬لنَّارُ࣌		النار	the Fire	l-nāru
+7	11:16:9	w	وَحَبِطَ		وحبط	And (has) gone in vain	waḥabiṭa
+7	11:16:10	w	مَا		ما	what	mā
+7	11:16:11	w	صَنَعُواْ		صنعوا	they did	ṣanaʿū
+7	11:16:12	w	فِيهَا࣌		فيها	therein	fīhā
+7	11:16:13	w	وَبَٰطِلࣱ		وبطل	and (is) worthless	wabāṭilun
+7	11:16:14	w	مَّا		ما	what	mā
+7	11:16:15	w	كَانُواْ		كانوا	they used (to)	kānū
+7	11:16:16	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+7	11:16:17	e	۝١٦				
+8	11:17:1	w	أَفَمَن		افمن	Then is he who	afaman
+8	11:17:2	w	كَانَ		كان	is	kāna
+8	11:17:3	w	عَلَىٰ		علي	on	ʿalā
+8	11:17:4	w	بَيِّنَةࣲ		بينة	a clear proof	bayyinatin
+8	11:17:5	w	مِّن		من	from	min
+8	11:17:6	w	رَّبِّهِۦ		ربهي	his Lord	rabbihi
+8	11:17:7	w	وَيَتْلُوهُ		ويتلوه	and recites it	wayatlūhu
+8	11:17:8	w	شَاهِدࣱ		شاهد	a witness	shāhidun
+8	11:17:9	w	مِّنْهُ࣌		منه	from Him	min'hu
+8	11:17:10	w	وَمِن		ومن	and before it	wamin
+8	11:17:11	w	قَبْلِهِۦ		قبلهي	and before it	qablihi
+9	11:17:12	w	كِتَٰبُ		كتب	(was) a Book	kitābu
+9	11:17:13	w	مُوسٜىٰٓ		موسي	(of) Musa	mūsā
+9	11:17:14	w	إِمَاماࣰ		اماما	(as) a guide	imāman
+9	11:17:15	w	وَرَحْمَةً࣌		ورحمة	and (as) mercy	waraḥmatan
+9	11:17:16	w	ࡳوْلَٰٓئِكَ		اوليك	Those	ulāika
+9	11:17:17	w	يُومِنُونَ		يومنون	believe	yu'minūna
+9	11:17:18	w	بِهِۦ࣌		بهي	in it	bihi
+9	11:17:19	w	وَمَنْ		ومن	But whoever	waman
+10	11:17:20	w	يَّكْفُرْ		يكفر	disbelieves	yakfur
+10	11:17:21	w	بِهِۦ		بهي	in it	bihi
+10	11:17:22	w	مِنَ		من	among	mina
+10	11:17:23	w	ࡰ۬لَاحْزَابِ		الاحزاب	the sects	l-aḥzābi
+10	11:17:24	w	فَالنَّارُ		فالنار	then the Fire	fal-nāru
+10	11:17:25	w	مَوْعِدُهُۥ࣌		موعده	(will be) his promised (meeting) place	mawʿiduhu
+10	11:17:26	w	فَلَا		فلا	So (do) not	falā
+10	11:17:27	w	تَكُ		تك	be	taku
+10	11:17:28	w	فِے		في	in	fī
+10	11:17:29	w	مِرْيَةࣲ		مرية	doubt	mir'yatin
+11	11:17:30	w	مِّنْهُ࣌		منه	about it	min'hu
+11	11:17:31	w	إِنَّهُ		انه	Indeed, it	innahu
+11	11:17:32	w	ࡲ۬لْحَقُّ		الحق	(is) the truth	l-ḥaqu
+11	11:17:33	w	مِن		من	from	min
+11	11:17:34	w	رَّبِّكَ࣌		ربك	your Lord	rabbika
+11	11:17:35	w	وَلَٰكِنَّ		ولكن	but	walākinna
+11	11:17:36	w	أَكْثَرَ		اكثر	most	akthara
+11	11:17:37	w	ࡰ۬لنَّاسِ		الناس	(of) the people	l-nāsi
+11	11:17:38	w	لَا		لا	(do) not	lā
+11	11:17:39	w	يُومِنُونَ࣌		يومنون	believe	yu'minūna
+11	11:17:40	e	۝١٧				
+12	11:18:1	w	وَمَنَ		ومن	And who	waman
+12	11:18:2	w	ࡰظْلَمُ		اظلم	(is) more unjust	aẓlamu
+12	11:18:3	w	مِمَّنِ		ممن	than (he) who	mimmani
+12	11:18:4	w	ࡴٜفْتَرٜىٰ		افتري	invents	if'tarā
+12	11:18:5	w	عَلَى		علي	against	ʿalā
+12	11:18:6	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+12	11:18:7	w	كَذِباً࣌		كذبا	a lie	kadhiban
+12	11:18:8	w	ࡳوْلَٰٓئِكَ		اوليك	Those	ulāika
+12	11:18:9	w	يُعْرَضُونَ		يعرضون	will be presented	yuʿ'raḍūna
+13	11:18:10	w	عَلَىٰ		علي	before	ʿalā
+13	11:18:11	w	رَبِّهِمْ		ربهم	their Lord	rabbihim
+13	11:18:12	w	وَيَقُولُ		ويقول	and will say	wayaqūlu
+13	11:18:13	w	ࡲ۬لَاشْهَٰدُ		الاشهد	the witnesses	l-ashhādu
+13	11:18:14	w	هَٰٓؤُلَآءِ		هولا	These (are)	hāulāi
+13	11:18:15	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+13	11:18:16	w	كَذَبُواْ		كذبوا	lied	kadhabū
+13	11:18:17	w	عَلَىٰ		علي	against	ʿalā
+14	11:18:18	w	رَبِّهِمُۥٓ࣌		ربهم	their Lord	rabbihim
+14	11:18:19	w	أَلَا		الا	No doubt	alā
+14	11:18:20	w	لَعْنَةُ		لعنة	(The) curse of Allah	laʿnatu
+14	11:18:21	w	ࡲ۬للَّهِ		الله	(The) curse of Allah	l-lahi
+14	11:18:22	w	عَلَى		علي	(is) on	ʿalā
+14	11:18:23	w	ࡰ۬لظَّٰلِمِينَ		الظلمين	the wrongdoers	l-ẓālimīna
+14	11:18:24	e	۝١٨				
+14	11:19:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+14	11:19:2	w	يَصُدُّونَ		يصدون	hinder	yaṣuddūna
+14	11:19:3	w	عَن		عن	from	ʿan
+15	11:19:4	w	سَبِيلِ		سبيل	(the) way	sabīli
+15	11:19:5	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+15	11:19:6	w	وَيَبْغُونَهَا		ويبغونها	and seek (in) it	wayabghūnahā
+15	11:19:7	w	عِوَجاࣰ		عوجا	crookedness	ʿiwajan
+15	11:19:8	w	وَهُم		وهم	while they	wahum
+15	11:19:9	w	بِالَاخِرَةِ		بالاخرة	in the Hereafter	bil-ākhirati
+15	11:19:10	w	هُمْ		هم	[they]	hum
+15	11:19:11	w	كَٰفِرُونَ࣌		كفرون	(are) disbelievers	kāfirūna
+15	11:19:12	e	۝١٩				

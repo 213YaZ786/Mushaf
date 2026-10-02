@@ -1,0 +1,143 @@
+1	7:188:1	w	۞ قُل		قل	Say	qul
+1	7:188:2	w	لَّآ		لا	Not	lā
+1	7:188:3	w	أَمْلِكُ		املك	I have power	amliku
+1	7:188:4	w	لِنَفْسِے		لنفسي	for myself	linafsī
+1	7:188:5	w	نَفْعاࣰ		نفعا	(to) benefit	nafʿan
+1	7:188:6	w	وَلَا		ولا	and no	walā
+1	7:188:7	w	ضَرّاً		ضرا	(power to) harm	ḍarran
+1	7:188:8	w	ࡴلَّا		الا	except	illā
+1	7:188:9	w	مَا		ما	what	mā
+1	7:188:10	w	شَآءَ		شا	wills	shāa
+1	7:188:11	w	ࡰ۬للَّهُ࣌		الله	Allah	l-lahu
+1	7:188:12	w	وَلَوْ		ولو	And if	walaw
+1	7:188:13	w	كُنتُ		كنت	I would	kuntu
+2	7:188:14	w	أَعْلَمُ		اعلم	know	aʿlamu
+2	7:188:15	w	ࡲ۬لْغَيْبَ		الغيب	(of) the unseen	l-ghayba
+2	7:188:16	w	لَاسْتَكْثَرْتُ		لاستكثرت	surely I could have multiplied	la-is'takthartu
+2	7:188:17	w	مِنَ		من	of	mina
+2	7:188:18	w	ࡰ۬لْخَيْرِ࣌		الخير	the good	l-khayri
+2	7:188:19	w	وَمَا		وما	and not	wamā
+2	7:188:20	w	مَسَّنِيَ		مسني	(could) have touched me	massaniya
+2	7:188:21	w	ࡰ۬لسُّوٓءُ࣌		السو	the evil	l-sūu
+3	7:188:22	w	ࡹِنَ		ان	Not	in
+3	7:188:23	w	ࡰنَا		انا	(am) I	anā
+3	7:188:24	w	إِلَّا		الا	except	illā
+3	7:188:25	w	نَذِيرࣱ࣌		نذير	a warner	nadhīrun
+3	7:188:26	w	وَبَشِيرࣱ		وبشير	and a bearer of good tidings	wabashīrun
+3	7:188:27	w	لِّقَوْمࣲ		لقوم	to a people	liqawmin
+3	7:188:28	w	يُومِنُونَ࣌		يومنون	who believe	yu'minūna
+3	7:188:29	e	۝١٨٨				
+3	7:189:1	w	هُوَ		هو	He	huwa
+3	7:189:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+3	7:189:3	w	خَلَقَكُم		خلقكم	created you	khalaqakum
+4	7:189:4	w	مِّن		من	from	min
+4	7:189:5	w	نَّفْسࣲ		نفس	a soul	nafsin
+4	7:189:6	w	وَٰحِدَةࣲ		وحدة	single	wāḥidatin
+4	7:189:7	w	وَجَعَلَ		وجعل	and made	wajaʿala
+4	7:189:8	w	مِنْهَا		منها	from it	min'hā
+4	7:189:9	w	زَوْجَهَا		زوجها	its mate	zawjahā
+4	7:189:10	w	لِيَسْكُنَ		ليسكن	that he might live	liyaskuna
+4	7:189:11	w	إِلَيْهَا࣌		اليها	with her	ilayhā
+4	7:189:12	w	فَلَمَّا		فلما	And when	falammā
+5	7:189:13	w	تَغَشّٜيٰهَا		تغشيها	he covers her	taghashāhā
+5	7:189:14	w	حَمَلَتْ		حملت	she carries	ḥamalat
+5	7:189:15	w	حَمْلاً		حملا	a burden	ḥamlan
+5	7:189:16	w	خَفِيفاࣰ		خفيفا	light	khafīfan
+5	7:189:17	w	فَمَرَّتْ		فمرت	and continues	famarrat
+5	7:189:18	w	بِهِۦ࣌		بهي	with it	bihi
+5	7:189:19	w	فَلَمَّآ		فلما	But when	falammā
+5	7:189:20	w	أَثْقَلَت		اثقلت	she grows heavy	athqalat
+6	7:189:21	w	دَّعَوَا		دعوا	they both invoke	daʿawā
+6	7:189:22	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	7:189:23	w	رَبَّهُمَا		ربهما	their Lord	rabbahumā
+6	7:189:24	w	لَئِنَ		لين	If	la-in
+6	7:189:25	w	اٰتَيْتَنَا		اتيتنا	You give us	ātaytanā
+6	7:189:26	w	صَٰلِحاࣰ		صلحا	a righteous (child)	ṣāliḥan
+6	7:189:27	w	لَّنَكُونَنَّ		لنكونن	surely we will be	lanakūnanna
+6	7:189:28	w	مِنَ		من	among	mina
+6	7:189:29	w	ࡰ۬لشَّٰكِرِينَ࣌		الشكرين	the thankful	l-shākirīna
+6	7:189:30	e	۝١٨٩				
+7	7:190:1	w	فَلَمَّآ		فلما	But when	falammā
+7	7:190:2	w	ءَاتٜيٰهُمَا		اتيهما	He gives them	ātāhumā
+7	7:190:3	w	صَٰلِحاࣰ		صلحا	a good, (child)	ṣāliḥan
+7	7:190:4	w	جَعَلَا		جعلا	they make	jaʿalā
+7	7:190:5	w	لَهُۥ		له	for Him	lahu
+7	7:190:6	w	شِرْكاࣰ		شركا	partners	shurakāa
+7	7:190:7	w	فِيمَآ		فيما	in what	fīmā
+7	7:190:8	w	ءَاتٜيٰهُمَا࣌		اتيهما	He has given them	ātāhumā
+7	7:190:9	w	فَتَعَٰلَى		فتعلي	But exalted	fataʿālā
+7	7:190:10	w	ࡰ۬للَّهُ		الله	(is) Allah	l-lahu
+8	7:190:11	w	عَمَّا		عما	above what	ʿammā
+8	7:190:12	w	يُشْرِكُونَ࣌		يشركون	they associate (with Him)	yush'rikūna
+8	7:190:13	e	۝١٩٠				
+8	7:191:1	w	أَيُشْرِكُونَ		ايشركون	Do they associate	ayush'rikūna
+8	7:191:2	w	مَا		ما	what	mā
+8	7:191:3	w	لَا		لا	(can) not	lā
+8	7:191:4	w	يَخْلُقُ		يخلق	create	yakhluqu
+8	7:191:5	w	شَيْـٔاࣰ		شيا	anything	shayan
+8	7:191:6	w	وَهُمْ		وهم	and they	wahum
+8	7:191:7	w	يُخْلَقُونَ࣌		يخلقون	are created	yukh'laqūna
+8	7:191:8	e	۝١٩١				
+9	7:192:1	w	وَلَا		ولا	And not	walā
+9	7:192:2	w	يَسْتَطِيعُونَ		يستطيعون	they are able	yastaṭīʿūna
+9	7:192:3	w	لَهُمْ		لهم	to (give) them	lahum
+9	7:192:4	w	نَصْراࣰ		نصرا	any help	naṣran
+9	7:192:5	w	وَلَآ		ولا	and not	walā
+9	7:192:6	w	أَنفُسَهُمْ		انفسهم	themselves	anfusahum
+9	7:192:7	w	يَنصُرُونَ࣌		ينصرون	can they help	yanṣurūna
+9	7:192:8	e	۝١٩٢				
+9	7:193:1	w	وَإِن		وان	And if	wa-in
+9	7:193:2	w	تَدْعُوهُمُۥٓ		تدعوهم	you call them	tadʿūhum
+10	7:193:3	w	إِلَى		الي	to	ilā
+10	7:193:4	w	ࡰ۬لْهُدٜىٰ		الهدي	the guidance	l-hudā
+10	7:193:5	w	لَا		لا	not	lā
+10	7:193:6	w	يَتْبَعُوكُمْ࣌		يتبعوكم	will they follow you	yattabiʿūkum
+10	7:193:7	w	سَوَآءٌ		سوا	(It is) same	sawāon
+10	7:193:8	w	عَلَيْكُمُۥٓ		عليكم	for you	ʿalaykum
+10	7:193:9	w	أَدَعَوْتُمُوهُمُۥٓ		ادعوتموهم	whether you call them	adaʿawtumūhum
+11	7:193:10	w	أَمَ		ام	or	am
+11	7:193:11	w	ࡰنتُمْ		انتم	you	antum
+11	7:193:12	w	صَٰمِتُونَ࣌		صمتون	remain silent	ṣāmitūna
+11	7:193:13	e	۝١٩٣				
+11	7:194:1	w	إِنَّ		ان	Indeed	inna
+11	7:194:2	w	ࡰ۬لذِينَ		الذين	those whom	alladhīna
+11	7:194:3	w	تَدْعُونَ		تدعون	you call	tadʿūna
+11	7:194:4	w	مِن		من	from	min
+11	7:194:5	w	دُونِ		دون	besides	dūni
+11	7:194:6	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+11	7:194:7	w	عِبَادٌ		عباد	(are) slaves	ʿibādun
+12	7:194:8	w	ࡰمْثَالُكُمْ࣌		امثالكم	like you	amthālukum
+12	7:194:9	w	فَادْعُوهُمْ		فادعوهم	So invoke them	fa-id'ʿūhum
+12	7:194:10	w	فَلْيَسْتَجِيبُواْ		فليستجيبوا	and let them respond	falyastajībū
+12	7:194:11	w	لَكُمُۥٓ		لكم	to you	lakum
+12	7:194:12	w	إِن		ان	if	in
+12	7:194:13	w	كُنتُمْ		كنتم	you are	kuntum
+13	7:194:14	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+13	7:194:15	e	۝١٩٤				
+13	7:195:1	w	أَلَهُمُۥٓ		الهم	Are for them	alahum
+13	7:195:2	w	أَرْجُلࣱ		ارجل	feet	arjulun
+13	7:195:3	w	يَمْشُونَ		يمشون	(to) walk	yamshūna
+13	7:195:4	w	بِهَآ࣌		بها	with [it]	bihā
+13	7:195:5	w	أَمْ		ام	or	am
+13	7:195:6	w	لَهُمُۥٓ		لهم	for them	lahum
+13	7:195:7	w	أَيْدࣲ		ايد	hands	aydin
+13	7:195:8	w	يَبْطِشُونَ		يبطشون	(to) hold	yabṭishūna
+14	7:195:9	w	بِهَآ࣌		بها	with [it]	bihā
+14	7:195:10	w	أَمْ		ام	or	am
+14	7:195:11	w	لَهُمُۥٓ		لهم	for them	lahum
+14	7:195:12	w	أَعْيُنࣱ		اعين	eyes	aʿyunun
+14	7:195:13	w	يُبْصِرُونَ		يبصرون	(to) see	yub'ṣirūna
+14	7:195:14	w	بِهَآ࣌		بها	with [it]	bihā
+14	7:195:15	w	أَمْ		ام	or	am
+14	7:195:16	w	لَهُمُۥٓ		لهم	for them	lahum
+14	7:195:17	w	ءَاذَانࣱ		اذان	ears	ādhānun
+14	7:195:18	w	يَسْمَعُونَ		يسمعون	(to) hear	yasmaʿūna
+15	7:195:19	w	بِهَا࣌		بها	with [it]	bihā
+15	7:195:20	w	قُلُ		قل	Say	quli
+15	7:195:21	w	ࡲ࢈دْعُواْ		ادعوا	Call	id'ʿū
+15	7:195:22	w	شُرَكَآءَكُمْ		شركاكم	your partners	shurakāakum
+15	7:195:23	w	ثُمَّ		ثم	then	thumma
+15	7:195:24	w	كِيدُونِ		كيدون	scheme against me	kīdūni
+15	7:195:25	w	فَلَا		فلا	and (do) not	falā
+15	7:195:26	w	تُنظِرُونِ࣌		تنظرون	give me respite	tunẓirūni
+15	7:195:27	e	۝١٩٥				

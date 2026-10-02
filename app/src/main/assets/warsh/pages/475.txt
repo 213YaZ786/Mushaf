@@ -1,0 +1,140 @@
+1	40:67:1	w	هُوَ		هو	He	huwa
+1	40:67:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+1	40:67:3	w	خَلَقَكُم		خلقكم	created you	khalaqakum
+1	40:67:4	w	مِّن		من	from	min
+1	40:67:5	w	تُرَابࣲ		تراب	dust	turābin
+1	40:67:6	w	ثُمَّ		ثم	then	thumma
+1	40:67:7	w	مِن		من	from	min
+1	40:67:8	w	نُّطْفَةࣲ		نطفة	a semen-drop	nuṭ'fatin
+1	40:67:9	w	ثُمَّ		ثم	then	thumma
+1	40:67:10	w	مِنْ		من	from	min
+1	40:67:11	w	عَلَقَةࣲ		علقة	a clinging substance	ʿalaqatin
+1	40:67:12	w	ثُمَّ		ثم	then	thumma
+2	40:67:13	w	يُخْرِجُكُمْ		يخرجكم	He brings you out	yukh'rijukum
+2	40:67:14	w	طِفْلاࣰ		طفلا	(as) a child	ṭif'lan
+2	40:67:15	w	ثُمَّ		ثم	then	thumma
+2	40:67:16	w	لِتَبْلُغُوٓاْ		لتبلغوا	lets you reach	litablughū
+2	40:67:17	w	أَشُدَّكُمْ		اشدكم	your maturity	ashuddakum
+2	40:67:18	w	ثُمَّ		ثم	then	thumma
+2	40:67:19	w	لِتَكُونُواْ		لتكونوا	lets you become	litakūnū
+2	40:67:20	w	شُيُوخاࣰ࣌		شيوخا	old	shuyūkhan
+3	40:67:21	w	وَمِنكُم		ومنكم	and among you	waminkum
+3	40:67:22	w	مَّنْ		من	(is he) who	man
+3	40:67:23	w	يُّتَوَفّٜىٰ		يتوفي	dies	yutawaffā
+3	40:67:24	w	مِن		من	before	min
+3	40:67:25	w	قَبْلُ		قبل	before	qablu
+3	40:67:26	w	وَلِتَبْلُغُوٓاْ		ولتبلغوا	and lets you reach	walitablughū
+3	40:67:27	w	أَجَلاࣰ		اجلا	a term	ajalan
+3	40:67:28	w	مُّسَمّىࣰ		مسمي	specified	musamman
+3	40:67:29	w	وَلَعَلَّكُمْ		ولعلكم	and that you may	walaʿallakum
+4	40:67:30	w	تَعْقِلُونَ࣌		تعقلون	use reason	taʿqilūna
+4	40:67:31	e	۝٦٧				
+4	40:68:1	w	هُوَ		هو	He	huwa
+4	40:68:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+4	40:68:3	w	يُحْيِۦ		يحيي	gives life	yuḥ'yī
+4	40:68:4	w	وَيُمِيتُ࣌		ويميت	and causes death	wayumītu
+4	40:68:5	w	فَإِذَا		فاذا	And when	fa-idhā
+4	40:68:6	w	قَضٜىٰٓ		قضي	He decrees	qaḍā
+4	40:68:7	w	أَمْراࣰ		امرا	a matter	amran
+4	40:68:8	w	فَإِنَّمَا		فانما	then only	fa-innamā
+5	40:68:9	w	يَقُولُ		يقول	He says	yaqūlu
+5	40:68:10	w	لَهُۥ		له	to it	lahu
+5	40:68:11	w	كُن࣌		كن	Be	kun
+5	40:68:12	w	فَيَكُونُ࣌		فيكون	and it is	fayakūnu
+5	40:68:13	e	۝٦٨				
+5	40:69:1	w	أَلَمْ		الم	Do not	alam
+5	40:69:2	w	تَرَ		تر	you see	tara
+5	40:69:3	w	إِلَى		الي	[to]	ilā
+5	40:69:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	40:69:5	w	يُجَٰدِلُونَ		يجدلون	dispute	yujādilūna
+6	40:69:6	w	فِےٓ		في	concerning	fī
+6	40:69:7	w	ءَايَٰتِ		ايت	(the) Signs	āyāti
+6	40:69:8	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+6	40:69:9	w	أَنّٜىٰ		اني	How	annā
+6	40:69:10	w	يُصْرَفُونَ࣌		يصرفون	they are turned away	yuṣ'rafūna
+6	40:69:11	e	۝٦٩				
+6	40:70:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+6	40:70:2	w	كَذَّبُواْ		كذبوا	deny	kadhabū
+6	40:70:3	w	بِالْكِتَٰبِ		بالكتب	the Book	bil-kitābi
+7	40:70:4	w	وَبِمَآ		وبما	and with what	wabimā
+7	40:70:5	w	أَرْسَلْنَا		ارسلنا	We sent	arsalnā
+7	40:70:6	w	بِهِۦ		بهي	with it	bihi
+7	40:70:7	w	رُسُلَنَا		رسلنا	Our Messengers	rusulanā
+7	40:70:8	w	فَسَوْفَ		فسوف	but soon	fasawfa
+7	40:70:9	w	يَعْلَمُونَ		يعلمون	they will know	yaʿlamūna
+7	40:70:10	e	۝٧٠				
+7	40:71:1	w	إِذِ		اذ	When	idhi
+7	40:71:2	w	ࡴ۬لَاغْلَٰلُ		الاغلل	the iron collars	l-aghlālu
+8	40:71:3	w	فِےٓ		في	(will be) around	fī
+8	40:71:4	w	أَعْنَٰقِهِمْ		اعنقهم	their necks	aʿnāqihim
+8	40:71:5	w	وَالسَّلَٰسِلُ࣌		والسلسل	and the chains	wal-salāsilu
+8	40:71:6	w	يُسْحَبُونَ		يسحبون	they will be dragged	yus'ḥabūna
+8	40:71:7	e	۝٧١				
+8	40:72:1	w	فِے		في	In	fī
+8	40:72:2	w	ࡴ۬لْحَمِيمِ		الحميم	the boiling water	l-ḥamīmi
+8	40:72:3	w	ثُمَّ		ثم	then	thumma
+9	40:72:4	w	فِے		في	in	fī
+9	40:72:5	w	ࡴ۬لنّٜارِ		النار	the Fire	l-nāri
+9	40:72:6	w	يُسْجَرُونَ࣌		يسجرون	they will be burned	yus'jarūna
+9	40:72:7	e	۝٧٢				
+9	40:73:1	w	ثُمَّ		ثم	Then	thumma
+9	40:73:2	w	قِيلَ		قيل	it will be said	qīla
+9	40:73:3	w	لَهُمُۥٓ		لهم	to them	lahum
+9	40:73:4	w	أَيْنَ		اين	Where	ayna
+9	40:73:5	w	مَا		ما	(is) that which	mā
+9	40:73:6	w	كُنتُمْ		كنتم	you used to	kuntum
+10	40:73:7	w	تُشْرِكُونَ		تشركون	associate	tush'rikūna
+10	40:73:8	w	مِن		من	Other than	min
+10	40:73:9	w	دُونِ		دون	Other than	dūni
+10	40:73:10	w	ࡴ۬للَّهِ࣌		الله	Allah	l-lahi
+10	40:73:11	w	قَالُواْ		قالوا	They will say	qālū
+10	40:73:12	w	ضَلُّواْ		ضلوا	They have departed	ḍallū
+10	40:73:13	w	عَنَّا		عنا	from us	ʿannā
+10	40:73:14	w	بَل		بل	Nay	bal
+10	40:73:15	w	لَّمْ		لم	Not	lam
+10	40:73:16	w	نَكُن		نكن	we used to	nakun
+11	40:73:17	w	نَّدْعُواْ		ندعوا	[we] call	nadʿū
+11	40:73:18	w	مِن		من	before	min
+11	40:73:19	w	قَبْلُ		قبل	before	qablu
+11	40:73:20	w	شَيْـٔاࣰ࣌		شيا	anything	shayan
+11	40:73:21	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+11	40:73:22	w	يُضِلُّ		يضل	Allah lets go astray	yuḍillu
+11	40:73:23	w	ࡲ۬للَّهُ		الله	Allah lets go astray	l-lahu
+11	40:73:24	w	ࡲ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+11	40:73:25	e	۝٧٣				
+12	40:74:1	w	ذَٰلِكُم		ذلكم	That was	dhālikum
+12	40:74:2	w	بِمَا		بما	because	bimā
+12	40:74:3	w	كُنتُمْ		كنتم	you used to	kuntum
+12	40:74:4	w	تَفْرَحُونَ		تفرحون	rejoice	tafraḥūna
+12	40:74:5	w	فِے		في	in	fī
+12	40:74:6	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+12	40:74:7	w	بِغَيْرِ		بغير	without	bighayri
+12	40:74:8	w	ࡴ۬لْحَقِّ		الحق	right	l-ḥaqi
+12	40:74:9	w	وَبِمَا		وبما	and because	wabimā
+13	40:74:10	w	كُنتُمْ		كنتم	you used to	kuntum
+13	40:74:11	w	تَمْرَحُونَ࣌		تمرحون	be insolent	tamraḥūna
+13	40:74:12	e	۝٧٤				
+13	40:75:1	w	ࡸَدْخُلُوٓاْ		ادخلوا	Enter	ud'khulū
+13	40:75:2	w	أَبْوَٰبَ		ابوب	(the) gates	abwāba
+13	40:75:3	w	جَهَنَّمَ		جهنم	(of) Hell	jahannama
+13	40:75:4	w	خَٰلِدِينَ		خلدين	(to) abide forever	khālidīna
+13	40:75:5	w	فِيهَا࣌		فيها	in it	fīhā
+13	40:75:6	w	فَبِيسَ		فبيس	and wretched is	fabi'sa
+14	40:75:7	w	مَثْوَى		مثوي	(the) abode	mathwā
+14	40:75:8	w	ࡰ۬لْمُتَكَبِّرِينَ࣌		المتكبرين	(of) the arrogant	l-mutakabirīna
+14	40:75:9	e	۝٧٥				
+14	40:76:1	w	فَاصْبِرِ		فاصبر	So be patient	fa-iṣ'bir
+14	40:76:2	w	ࡴنَّ		ان	indeed	inna
+14	40:76:3	w	وَعْدَ		وعد	(the) Promise	waʿda
+14	40:76:4	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+14	40:76:5	w	حَقࣱّ࣌		حق	(is) true	ḥaqqun
+14	40:76:6	w	فَإِمَّا		فاما	And whether	fa-immā
+14	40:76:7	w	نُرِيَنَّكَ		نرينك	We show you	nuriyannaka
+15	40:76:8	w	بَعْضَ		بعض	some	baʿḍa
+15	40:76:9	w	ࡰ۬لذِے		الذي	(of) what	alladhī
+15	40:76:10	w	نَعِدُهُمُۥٓ		نعدهم	We have promised them	naʿiduhum
+15	40:76:11	w	أَوْ		او	or	aw
+15	40:76:12	w	نَتَوَفَّيَنَّكَ		نتوفينك	We cause you to die	natawaffayannaka
+15	40:76:13	w	فَإِلَيْنَا		فالينا	then to Us	fa-ilaynā
+15	40:76:14	w	يُرْجَعُونَ࣌		يرجعون	they will be returned	yur'jaʿūna
+15	40:76:15	e	۝٧٦				

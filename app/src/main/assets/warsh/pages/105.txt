@@ -1,0 +1,128 @@
+1	4:170:1	w	يَٰٓأَهْلَ		ياهل	O People	yāahla
+1	4:170:2	w	ࡰ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+1	4:170:3	w	لَا		لا	(Do) not	lā
+1	4:170:4	w	تَغْلُواْ		تغلوا	commit excess	taghlū
+1	4:170:5	w	فِے		في	in	fī
+1	4:170:6	w	دِينِكُمْ		دينكم	your religion	dīnikum
+1	4:170:7	w	وَلَا		ولا	and (do) not	walā
+1	4:170:8	w	تَقُولُواْ		تقولوا	say	taqūlū
+1	4:170:9	w	عَلَى		علي	about	ʿalā
+2	4:170:10	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+2	4:170:11	w	إِلَّا		الا	except	illā
+2	4:170:12	w	ࡰ۬لْحَقَّ࣌		الحق	the truth	l-ḥaqa
+2	4:170:13	w	إِنَّمَا		انما	Only	innamā
+2	4:170:14	w	ࡰ۬لْمَسِيحُ		المسيح	the Messiah	l-masīḥu
+2	4:170:15	w	عِيسَى		عيسي	Isa	ʿīsā
+2	4:170:16	w	ࡰٜبْنُ		ابن	son	ub'nu
+2	4:170:17	w	مَرْيَمَ		مريم	(of) Maryam	maryama
+2	4:170:18	w	رَسُولُ		رسول	(was) a Messenger	rasūlu
+2	4:170:19	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+3	4:170:20	w	وَكَلِمَتُهُۥٓ࣌		وكلمته	and His word	wakalimatuhu
+3	4:170:21	w	أَلْقٜيٰهَآ		القيها	which He conveyed	alqāhā
+3	4:170:22	w	إِلَىٰ		الي	to	ilā
+3	4:170:23	w	مَرْيَمَ		مريم	Maryam	maryama
+3	4:170:24	w	وَرُوحࣱ		وروح	and a spirit	warūḥun
+3	4:170:25	w	مِّنْهُ࣌		منه	from Him	min'hu
+3	4:170:26	w	فَـَٔامِنُواْ		فامنوا	So believe	faāminū
+3	4:170:27	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+4	4:170:28	w	وَرُسُلِهِۦ࣌		ورسلهي	and His Messengers	warusulihi
+4	4:170:29	w	وَلَا		ولا	And (do) not	walā
+4	4:170:30	w	تَقُولُواْ		تقولوا	say	taqūlū
+4	4:170:31	w	ثَلَٰثَةٌ࣌		ثلثة	Three	thalāthatun
+4	4:170:32	w	ࡴٜنتَهُواْ		انتهوا	desist	intahū
+4	4:170:33	w	خَيْراࣰ		خيرا	(it is) better	khayran
+4	4:170:34	w	لَّكُمُۥٓ࣌		لكم	for you	lakum
+4	4:170:35	w	إِنَّمَا		انما	Only	innamā
+4	4:170:36	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+5	4:170:37	w	إِلَٰهࣱ		اله	(is) God	ilāhun
+5	4:170:38	w	وَٰحِدࣱ࣌		وحد	One	wāḥidun
+5	4:170:39	w	سُبْحَٰنَهُۥٓ		سبحنه	Glory be to Him	sub'ḥānahu
+5	4:170:40	w	أَنْ		ان	That	an
+5	4:170:41	w	يَّكُونَ		يكون	He (should) have	yakūna
+5	4:170:42	w	لَهُۥ		له	for Him	lahu
+5	4:170:43	w	وَلَدࣱ࣌		ولد	a son	waladun
+5	4:170:44	w	لَّهُۥ		له	To Him (belongs)	lahu
+5	4:170:45	w	مَا		ما	whatever	mā
+5	4:170:46	w	فِے		في	(is) in	fī
+5	4:170:47	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+6	4:170:48	w	وَمَا		وما	and whatever	wamā
+6	4:170:49	w	فِے		في	(is) in	fī
+6	4:170:50	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+6	4:170:51	w	وَكَفٜىٰ		وكفي	And is sufficient	wakafā
+6	4:170:52	w	بِاللَّهِ		بالله	Allah	bil-lahi
+6	4:170:53	w	وَكِيلاࣰ࣌		وكيلا	(as) a Disposer of affairs	wakīlan
+6	4:170:54	e	۝١٧٠				
+6	4:171:1	w	لَّنْ		لن	Never	lan
+6	4:171:2	w	يَّسْتَنكِفَ		يستنكف	will disdain	yastankifa
+7	4:171:3	w	ࡰ۬لْمَسِيحُ		المسيح	the Messiah	l-masīḥu
+7	4:171:4	w	أَنْ		ان	to	an
+7	4:171:5	w	يَّكُونَ		يكون	be	yakūna
+7	4:171:6	w	عَبْداࣰ		عبدا	a slave	ʿabdan
+7	4:171:7	w	لِّلهِ		لله	of Allah	lillahi
+7	4:171:8	w	وَلَا		ولا	and not	walā
+7	4:171:9	w	ࡰ۬لْمَلَٰٓئِكَةُ		المليكة	the Angels	l-malāikatu
+7	4:171:10	w	ࡲ۬لْمُقَرَّبُونَ࣌		المقربون	the ones who are near (to Allah)	l-muqarabūna
+8	4:171:11	w	وَمَنْ		ومن	And whoever	waman
+8	4:171:12	w	يَّسْتَنكِفْ		يستنكف	disdains	yastankif
+8	4:171:13	w	عَنْ		عن	from	ʿan
+8	4:171:14	w	عِبَادَتِهِۦ		عبادتهي	His worship	ʿibādatihi
+8	4:171:15	w	وَيَسْتَكْبِرْ		ويستكبر	and is arrogant	wayastakbir
+8	4:171:16	w	فَسَيَحْشُرُهُمُۥٓ		فسيحشرهم	then He will gather them	fasayaḥshuruhum
+9	4:171:17	w	إِلَيْهِ		اليه	towards Him	ilayhi
+9	4:171:18	w	جَمِيعاࣰ࣌		جميعا	all together	jamīʿan
+9	4:171:19	e	۝١٧١				
+9	4:172:1	w	فَأَمَّا		فاما	Then as for	fa-ammā
+9	4:172:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+9	4:172:3	w	ءَامَنُواْ		امنوا	believed	āmanū
+9	4:172:4	w	وَعَمِلُواْ		وعملوا	and did	waʿamilū
+9	4:172:5	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	the righteous deeds	l-ṣāliḥāti
+10	4:172:6	w	فَيُوَفِّيهِمُۥٓ		فيوفيهم	then He will give them in full	fayuwaffīhim
+10	4:172:7	w	أُجُورَهُمْ		اجورهم	their reward	ujūrahum
+10	4:172:8	w	وَيَزِيدُهُم		ويزيدهم	and give them more	wayazīduhum
+10	4:172:9	w	مِّن		من	from	min
+10	4:172:10	w	فَضْلِهِۦ࣌		فضلهي	His Bounty	faḍlihi
+10	4:172:11	w	وَأَمَّا		واما	And as for	wa-ammā
+10	4:172:12	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	4:172:13	w	ࡰٜسْتَنكَفُواْ		استنكفوا	disdained	is'tankafū
+11	4:172:14	w	وَاسْتَكْبَرُواْ		واستكبروا	and were arrogant	wa-is'takbarū
+11	4:172:15	w	فَيُعَذِّبُهُمْ		فيعذبهم	then He will punish them	fayuʿadhibuhum
+11	4:172:16	w	عَذَاباً		عذابا	(with) a punishment	ʿadhāban
+11	4:172:17	w	ࡰلِيماࣰ		اليما	painful	alīman
+11	4:172:18	w	وَلَا		ولا	and not	walā
+11	4:172:19	w	يَجِدُونَ		يجدون	will they find	yajidūna
+12	4:172:20	w	لَهُم		لهم	for themselves	lahum
+12	4:172:21	w	مِّن		من	from	min
+12	4:172:22	w	دُونِ		دون	besides	dūni
+12	4:172:23	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+12	4:172:24	w	وَلِيّاࣰ		وليا	any protector	waliyyan
+12	4:172:25	w	وَلَا		ولا	and not	walā
+12	4:172:26	w	نَصِيراࣰ࣌		نصيرا	any helper	naṣīran
+12	4:172:27	e	۝١٧٢				
+12	4:173:1	w	۞ يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+12	4:173:2	w	ࡰ۬لنَّاسُ		الناس	mankind	l-nāsu
+13	4:173:3	w	قَدْ		قد	Surely	qad
+13	4:173:4	w	جَآءَكُم		جاكم	has come to you	jāakum
+13	4:173:5	w	بُرْهَٰنࣱ		برهن	a convincing proof	bur'hānun
+13	4:173:6	w	مِّن		من	from	min
+13	4:173:7	w	رَّبِّكُمْ		ربكم	your Lord	rabbikum
+13	4:173:8	w	وَأَنزَلْنَآ		وانزلنا	and We (have) sent down	wa-anzalnā
+13	4:173:9	w	إِلَيْكُمْ		اليكم	to you	ilaykum
+13	4:173:10	w	نُوراࣰ		نورا	a light	nūran
+13	4:173:11	w	مُّبِيناࣰ࣌		مبينا	clear	mubīnan
+13	4:173:12	e	۝١٧٣				
+14	4:174:1	w	فَأَمَّا		فاما	So as for	fa-ammā
+14	4:174:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+14	4:174:3	w	ءَامَنُواْ		امنوا	believed	āmanū
+14	4:174:4	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+14	4:174:5	w	وَاعْتَصَمُواْ		واعتصموا	and held fast	wa-iʿ'taṣamū
+14	4:174:6	w	بِهِۦ		بهي	to Him	bihi
+14	4:174:7	w	فَسَيُدْخِلُهُمْ		فسيدخلهم	then He will admit them	fasayud'khiluhum
+15	4:174:8	w	فِے		في	in	fī
+15	4:174:9	w	رَحْمَةࣲ		رحمة	Mercy	raḥmatin
+15	4:174:10	w	مِّنْهُ		منه	from Himself	min'hu
+15	4:174:11	w	وَفَضْلࣲ		وفضل	and Bounty	wafaḍlin
+15	4:174:12	w	وَيَهْدِيهِمُۥٓ		ويهديهم	and will guide them	wayahdīhim
+15	4:174:13	w	إِلَيْهِ		اليه	to Himself	ilayhi
+15	4:174:14	w	صِرَٰطاࣰ		صرطا	(on) a way	ṣirāṭan
+15	4:174:15	w	مُّسْتَقِيماࣰ࣌		مستقيما	straight	mus'taqīman
+15	4:174:16	e	۝١٧٤				

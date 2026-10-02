@@ -1,0 +1,154 @@
+1	26:137:1	w	إِنْ		ان	Not	in
+1	26:137:2	w	هَٰذَآ		هذا	(is) this	hādhā
+1	26:137:3	w	إِلَّا		الا	but	illā
+1	26:137:4	w	خُلُقُ		خلق	(the) custom	khuluqu
+1	26:137:5	w	ࡲ۬لَاوَّلِينَ		الاولين	(of) the former (people)	l-awalīna
+1	26:137:6	e	۝١٣٧				
+1	26:138:1	w	وَمَا		وما	And not	wamā
+1	26:138:2	w	نَحْنُ		نحن	we	naḥnu
+1	26:138:3	w	بِمُعَذَّبِينَ࣌		بمعذبين	(are) the ones to be punished	bimuʿadhabīna
+1	26:138:4	e	۝١٣٨				
+1	26:139:1	w	فَكَذَّبُوهُ		فكذبوه	So they denied him	fakadhabūhu
+2	26:139:2	w	فَأَهْلَكْنَٰهُمُۥٓ࣌		فاهلكنهم	then We destroyed them	fa-ahlaknāhum
+2	26:139:3	w	إِنَّ		ان	Indeed	inna
+2	26:139:4	w	فِے		في	in	fī
+2	26:139:5	w	ذَٰلِكَ		ذلك	that	dhālika
+2	26:139:6	w	لَأٓيَةࣰ࣌		لاية	surely, is a sign	laāyatan
+2	26:139:7	w	وَمَا		وما	but not	wamā
+2	26:139:8	w	كَانَ		كان	are	kāna
+2	26:139:9	w	أَكْثَرُهُم		اكثرهم	most of them	aktharuhum
+2	26:139:10	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+2	26:139:11	e	۝١٣٩				
+3	26:140:1	w	وَإِنَّ		وان	And indeed	wa-inna
+3	26:140:2	w	رَبَّكَ		ربك	your Lord	rabbaka
+3	26:140:3	w	لَهُوَ		لهو	surely, He	lahuwa
+3	26:140:4	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+3	26:140:5	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+3	26:140:6	e	۝١٤٠				
+3	26:141:1	w	كَذَّبَتْ		كذبت	Denied	kadhabat
+3	26:141:2	w	ثَمُودُ		ثمود	Thamud	thamūdu
+3	26:141:3	w	ࡲ۬لْمُرْسَلِينَ		المرسلين	the Messengers	l-mur'salīna
+3	26:141:4	e	۝١٤١				
+3	26:142:1	w	إِذْ		اذ	When	idh
+4	26:142:2	w	قَالَ		قال	said	qāla
+4	26:142:3	w	لَهُمُۥٓ		لهم	to them	lahum
+4	26:142:4	w	أَخُوهُمْ		اخوهم	their brother	akhūhum
+4	26:142:5	w	صَٰلِحٌ		صلح	Salih	ṣāliḥun
+4	26:142:6	w	ࡰلَا		الا	Will not	alā
+4	26:142:7	w	تَتَّقُونَ		تتقون	you fear (Allah)	tattaqūna
+4	26:142:8	e	۝١٤٢				
+4	26:143:1	w	إِنِّے		اني	Indeed, I am	innī
+4	26:143:2	w	لَكُمْ		لكم	to you	lakum
+4	26:143:3	w	رَسُولٌ		رسول	a Messenger	rasūlun
+4	26:143:4	w	ࡰمِينࣱ࣌		امين	trustworthy	amīnun
+4	26:143:5	e	۝١٤٣				
+5	26:144:1	w	فَاتَّقُواْ		فاتقوا	So fear	fa-ittaqū
+5	26:144:2	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+5	26:144:3	w	وَأَطِيعُونِ࣌		واطيعون	and obey me	wa-aṭīʿūni
+5	26:144:4	e	۝١٤٤				
+5	26:145:1	w	وَمَآ		وما	And not	wamā
+5	26:145:2	w	أَسْـَٔلُكُمْ		اسلكم	I ask you	asalukum
+5	26:145:3	w	عَلَيْهِ		عليه	for it	ʿalayhi
+5	26:145:4	w	مِنَ		من	any	min
+5	26:145:5	w	ࡰجْرٍ࣌		اجر	payment	ajrin
+5	26:145:6	w	ࡴنَ		ان	Not	in
+5	26:145:7	w	ࡰجْرِيَ		اجري	(is) my payment	ajriya
+6	26:145:8	w	إِلَّا		الا	except	illā
+6	26:145:9	w	عَلَىٰ		علي	from	ʿalā
+6	26:145:10	w	رَبِّ		رب	(the) Lord	rabbi
+6	26:145:11	w	ࡴ۬لْعَٰلَمِينَ࣌		العلمين	(of) the worlds	l-ʿālamīna
+6	26:145:12	e	۝١٤٥				
+6	26:146:1	w	۞ أَتُتْرَكُونَ		اتتركون	Will you be left	atut'rakūna
+6	26:146:2	w	فِے		في	in	fī
+6	26:146:3	w	مَا		ما	what	mā
+6	26:146:4	w	هَٰهُنَآ		ههنا	(is) here	hāhunā
+6	26:146:5	w	ءَامِنِينَ		امنين	secure	āminīna
+6	26:146:6	e	۝١٤٦				
+7	26:147:1	w	فِے		في	In	fī
+7	26:147:2	w	جَنَّٰتࣲ		جنت	gardens	jannātin
+7	26:147:3	w	وَعُيُونࣲ		وعيون	and springs	waʿuyūnin
+7	26:147:4	e	۝١٤٧				
+7	26:148:1	w	وَزُرُوعࣲ		وزروع	And cornfields	wazurūʿin
+7	26:148:2	w	وَنَخْلࣲ		ونخل	and date-palms	wanakhlin
+7	26:148:3	w	طَلْعُهَا		طلعها	its spadix	ṭalʿuhā
+7	26:148:4	w	هَضِيمࣱ		هضيم	soft	haḍīmun
+7	26:148:5	e	۝١٤٨				
+8	26:149:1	w	وَتَنْحِتُونَ		وتنحتون	And you carve	watanḥitūna
+8	26:149:2	w	مِنَ		من	of	mina
+8	26:149:3	w	ࡰ۬لْجِبَالِ		الجبال	the mountains	l-jibāli
+8	26:149:4	w	بُيُوتاࣰ		بيوتا	houses	buyūtan
+8	26:149:5	w	فَرِهِينَ࣌		فرهين	skillfully	fārihīna
+8	26:149:6	e	۝١٤٩				
+8	26:150:1	w	فَاتَّقُواْ		فاتقوا	So fear	fa-ittaqū
+8	26:150:2	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+9	26:150:3	w	وَأَطِيعُونِ࣌		واطيعون	and obey me	wa-aṭīʿūni
+9	26:150:4	e	۝١٥٠				
+9	26:151:1	w	وَلَا		ولا	And (do) not	walā
+9	26:151:2	w	تُطِيعُوٓاْ		تطيعوا	obey	tuṭīʿū
+9	26:151:3	w	أَمْرَ		امر	(the) command	amra
+9	26:151:4	w	ࡰ۬لْمُسْرِفِينَ		المسرفين	(of) the transgressors	l-mus'rifīna
+9	26:151:5	e	۝١٥١				
+9	26:152:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+9	26:152:2	w	يُفْسِدُونَ		يفسدون	spread corruption	yuf'sidūna
+9	26:152:3	w	فِے		في	in	fī
+10	26:152:4	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+10	26:152:5	w	وَلَا		ولا	and (do) not	walā
+10	26:152:6	w	يُصْلِحُونَ࣌		يصلحون	reform	yuṣ'liḥūna
+10	26:152:7	e	۝١٥٢				
+10	26:153:1	w	قَالُوٓاْ		قالوا	They said	qālū
+10	26:153:2	w	إِنَّمَآ		انما	Only	innamā
+10	26:153:3	w	أَنتَ		انت	you	anta
+10	26:153:4	w	مِنَ		من	(are) of	mina
+10	26:153:5	w	ࡰ۬لْمُسَحَّرِينَ		المسحرين	those bewitched	l-musaḥarīna
+10	26:153:6	e	۝١٥٣				
+11	26:154:1	w	مَآ		ما	Not	mā
+11	26:154:2	w	أَنتَ		انت	you	anta
+11	26:154:3	w	إِلَّا		الا	(are) except	illā
+11	26:154:4	w	بَشَرࣱ		بشر	a man	basharun
+11	26:154:5	w	مِّثْلُنَا		مثلنا	like us	mith'lunā
+11	26:154:6	w	فَاتِ		فات	so bring	fati
+11	26:154:7	w	بِـَٔايَةٍ		باية	a sign	biāyatin
+11	26:154:8	w	ࡴن		ان	if	in
+11	26:154:9	w	كُنتَ		كنت	you	kunta
+11	26:154:10	w	مِنَ		من	(are) of	mina
+11	26:154:11	w	ࡰ۬لصَّٰدِقِينَ࣌		الصدقين	the truthful	l-ṣādiqīna
+11	26:154:12	e	۝١٥٤				
+12	26:155:1	w	قَالَ		قال	He said	qāla
+12	26:155:2	w	هَٰذِهِۦ		هذهي	This	hādhihi
+12	26:155:3	w	نَاقَةࣱ		ناقة	(is) a she-camel	nāqatun
+12	26:155:4	w	لَّهَا		لها	For her	lahā
+12	26:155:5	w	شِرْبࣱ࣌		شرب	(is a share of) drink	shir'bun
+12	26:155:6	w	وَلَكُمْ		ولكم	and for you	walakum
+12	26:155:7	w	شِرْبُ		شرب	(is a share of) drink	shir'bu
+12	26:155:8	w	يَوْمࣲ		يوم	(on) a day	yawmin
+12	26:155:9	w	مَّعْلُومࣲ࣌		معلوم	known	maʿlūmin
+12	26:155:10	e	۝١٥٥				
+12	26:156:1	w	وَلَا		ولا	And (do) not	walā
+13	26:156:2	w	تَمَسُّوهَا		تمسوها	touch her	tamassūhā
+13	26:156:3	w	بِسُوٓءࣲ		بسو	with harm	bisūin
+13	26:156:4	w	فَيَاخُذَكُمْ		فياخذكم	lest seize you	fayakhudhakum
+13	26:156:5	w	عَذَابُ		عذاب	(the) punishment	ʿadhābu
+13	26:156:6	w	يَوْمٍ		يوم	(of) a Day	yawmin
+13	26:156:7	w	عَظِيمࣲ࣌		عظيم	Great	ʿaẓīmin
+13	26:156:8	e	۝١٥٦				
+13	26:157:1	w	فَعَقَرُوهَا		فعقروها	But they hamstrung her	faʿaqarūhā
+14	26:157:2	w	فَأَصْبَحُواْ		فاصبحوا	then they became	fa-aṣbaḥū
+14	26:157:3	w	نَٰدِمِينَ		ندمين	regretful	nādimīna
+14	26:157:4	e	۝١٥٧				
+14	26:158:1	w	فَأَخَذَهُمُ		فاخذهم	So seized them	fa-akhadhahumu
+14	26:158:2	w	ࡲ۬لْعَذَابُ࣌		العذاب	the punishment	l-ʿadhābu
+14	26:158:3	w	إِنَّ		ان	Indeed	inna
+14	26:158:4	w	فِے		في	in	fī
+14	26:158:5	w	ذَٰلِكَ		ذلك	that	dhālika
+14	26:158:6	w	لَأٓيَةࣰ࣌		لاية	surely is a sign	laāyatan
+14	26:158:7	w	وَمَا		وما	but not	wamā
+15	26:158:8	w	كَانَ		كان	are	kāna
+15	26:158:9	w	أَكْثَرُهُم		اكثرهم	most of them	aktharuhum
+15	26:158:10	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+15	26:158:11	e	۝١٥٨				
+15	26:159:1	w	وَإِنَّ		وان	And indeed	wa-inna
+15	26:159:2	w	رَبَّكَ		ربك	your Lord	rabbaka
+15	26:159:3	w	لَهُوَ		لهو	surely He	lahuwa
+15	26:159:4	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+15	26:159:5	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+15	26:159:6	e	۝١٥٩				

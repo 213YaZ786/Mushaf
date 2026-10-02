@@ -1,0 +1,160 @@
+1	24:36:15	w	رِجَالࣱ		رجال	Men	rijālun
+1	24:36:16	w	لَّا		لا	not	lā
+1	24:36:17	w	تُلْهِيهِمْ		تلهيهم	distracts them	tul'hīhim
+1	24:36:18	w	تِجَٰرَةࣱ		تجرة	trade	tijāratun
+1	24:36:19	w	وَلَا		ولا	and not	walā
+1	24:36:20	w	بَيْعٌ		بيع	sale	bayʿun
+1	24:36:21	w	عَن		عن	from	ʿan
+1	24:36:22	w	ذِكْرِ		ذكر	(the) remembrance of Allah	dhik'ri
+1	24:36:23	w	ࡴ۬للَّهِ		الله	(the) remembrance of Allah	l-lahi
+1	24:36:24	w	وَإِقَامِ		واقام	and (from) establishing	wa-iqāmi
+1	24:36:25	w	ࡴ۬لصَّلَوٰةِ		الصلوة	the prayer	l-ṣalati
+2	24:36:26	w	وَإِيتَآءِ		وايتا	and giving	waītāi
+2	24:36:27	w	ࡴ۬لزَّكَوٰةِ࣌		الزكوة	zakah	l-zakati
+2	24:36:28	w	يَخَافُونَ		يخافون	They fear	yakhāfūna
+2	24:36:29	w	يَوْماࣰ		يوما	a Day	yawman
+2	24:36:30	w	تَتَقَلَّبُ		تتقلب	will turn about	tataqallabu
+2	24:36:31	w	فِيهِ		فيه	therein	fīhi
+2	24:36:32	w	ࡴ۬لْقُلُوبُ		القلوب	the hearts	l-qulūbu
+2	24:36:33	w	وَالَابْصَٰرُ		والابصر	and the eyes	wal-abṣāru
+2	24:36:34	e	۝٣٦				
+3	24:37:1	w	لِيَجْزِيَهُمُ		ليجزيهم	That Allah may reward them	liyajziyahumu
+3	24:37:2	w	ࡲ۬للَّهُ		الله	That Allah may reward them	l-lahu
+3	24:37:3	w	أَحْسَنَ		احسن	(with the) best	aḥsana
+3	24:37:4	w	مَا		ما	(of) what	mā
+3	24:37:5	w	عَمِلُواْ		عملوا	they did	ʿamilū
+3	24:37:6	w	وَيَزِيدَهُم		ويزيدهم	and increase them	wayazīdahum
+3	24:37:7	w	مِّن		من	from	min
+3	24:37:8	w	فَضْلِهِۦ࣌		فضلهي	His Bounty	faḍlihi
+3	24:37:9	w	وَاللَّهُ		والله	And Allah	wal-lahu
+4	24:37:10	w	يَرْزُقُ		يرزق	provides	yarzuqu
+4	24:37:11	w	مَنْ		من	whom	man
+4	24:37:12	w	يَّشَآءُ		يشا	He wills	yashāu
+4	24:37:13	w	بِغَيْرِ		بغير	without	bighayri
+4	24:37:14	w	حِسَابࣲ࣌		حساب	measure	ḥisābin
+4	24:37:15	e	۝٣٧				
+4	24:38:1	w	وَالذِينَ		والذين	But those who	wa-alladhīna
+4	24:38:2	w	كَفَرُوٓاْ		كفروا	disbelieve	kafarū
+4	24:38:3	w	أَعْمَٰلُهُمْ		اعملهم	their deeds	aʿmāluhum
+4	24:38:4	w	كَسَرَابِۢ		كسراب	(are) like a mirage	kasarābin
+5	24:38:5	w	بِقِيعَةࣲ		بقيعة	in a lowland	biqīʿatin
+5	24:38:6	w	يَحْسِبُهُ		يحسبه	thinks it	yaḥsabuhu
+5	24:38:7	w	ࡲ۬لظَّمْـَٔانُ		الظمان	the thirsty one	l-ẓamānu
+5	24:38:8	w	مَآءً		ما	(to be) water	māan
+5	24:38:9	w	حَتَّىٰٓ		حتي	until	ḥattā
+5	24:38:10	w	إِذَا		اذا	when	idhā
+5	24:38:11	w	جَآءَهُۥ		جاه	he comes to it	jāahu
+5	24:38:12	w	لَمْ		لم	not	lam
+5	24:38:13	w	يَجِدْهُ		يجده	he finds it	yajid'hu
+5	24:38:14	w	شَيْـٔاࣰ		شيا	(to be) anything	shayan
+6	24:38:15	w	وَوَجَدَ		ووجد	but he finds	wawajada
+6	24:38:16	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	24:38:17	w	عِندَهُۥ		عنده	before him	ʿindahu
+6	24:38:18	w	فَوَفّٜيٰهُ		فوفيه	He will pay him in full	fawaffāhu
+6	24:38:19	w	حِسَابَهُۥ࣌		حسابه	his due	ḥisābahu
+6	24:38:20	w	وَاللَّهُ		والله	And Allah	wal-lahu
+6	24:38:21	w	سَرِيعُ		سريع	(is) swift	sarīʿu
+6	24:38:22	w	ࡲ۬لْحِسَابِ࣌		الحساب	(in) the account	l-ḥisābi
+6	24:38:23	e	۝٣٨				
+7	24:39:1	w	أَوْ		او	Or	aw
+7	24:39:2	w	كَظُلُمَٰتࣲ		كظلمت	(is) like (the) darkness[es]	kaẓulumātin
+7	24:39:3	w	فِے		في	in	fī
+7	24:39:4	w	بَحْرࣲ		بحر	a sea	baḥrin
+7	24:39:5	w	لُّجِّيࣲّ		لجي	deep	lujjiyyin
+7	24:39:6	w	يَغْشٜيٰهُ		يغشيه	covers it	yaghshāhu
+7	24:39:7	w	مَوْجࣱ		موج	a wave	mawjun
+7	24:39:8	w	مِّن		من	on it	min
+7	24:39:9	w	فَوْقِهِۦ		فوقهي	on it	fawqihi
+7	24:39:10	w	مَوْجࣱ		موج	a wave	mawjun
+7	24:39:11	w	مِّن		من	on it	min
+7	24:39:12	w	فَوْقِهِۦ		فوقهي	on it	fawqihi
+8	24:39:13	w	سَحَابࣱ࣌		سحاب	a cloud	saḥābun
+8	24:39:14	w	ظُلُمَٰتُۢ		ظلمت	darkness[es]	ẓulumātun
+8	24:39:15	w	بَعْضُهَا		بعضها	some of it	baʿḍuhā
+8	24:39:16	w	فَوْقَ		فوق	on	fawqa
+8	24:39:17	w	بَعْضٍ࣌		بعض	others	baʿḍin
+8	24:39:18	w	ࡴذَآ		اذا	When	idhā
+8	24:39:19	w	أَخْرَجَ		اخرج	he puts out	akhraja
+8	24:39:20	w	يَدَهُۥ		يده	his hand	yadahu
+8	24:39:21	w	لَمْ		لم	hardly	lam
+8	24:39:22	w	يَكَدْ		يكد	hardly	yakad
+9	24:39:23	w	يَرٜيٰهَا࣌		يريها	he (can) see it	yarāhā
+9	24:39:24	w	وَمَن		ومن	And (for) whom	waman
+9	24:39:25	w	لَّمْ		لم	not	lam
+9	24:39:26	w	يَجْعَلِ		يجعل	Allah (has) made	yajʿali
+9	24:39:27	w	ࡴ۬للَّهُ		الله	Allah (has) made	l-lahu
+9	24:39:28	w	لَهُۥ		له	for him	lahu
+9	24:39:29	w	نُوراࣰ		نورا	a light	nūran
+9	24:39:30	w	فَمَا		فما	then not	famā
+9	24:39:31	w	لَهُۥ		له	for him	lahu
+9	24:39:32	w	مِن		من	(is) any	min
+9	24:39:33	w	نُّورٍ࣌		نور	light	nūrin
+9	24:39:34	e	۝٣٩				
+9	24:40:1	w	ࡰلَمْ		الم	Do not	alam
+9	24:40:2	w	تَرَ		تر	you see	tara
+9	24:40:3	w	أَنَّ		ان	that	anna
+10	24:40:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	24:40:5	w	يُسَبِّحُ		يسبح	glorify	yusabbiḥu
+10	24:40:6	w	لَهُۥ		له	Him	lahu
+10	24:40:7	w	مَن		من	whoever	man
+10	24:40:8	w	فِے		في	(is) in	fī
+10	24:40:9	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+10	24:40:10	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+10	24:40:11	w	وَالطَّيْرُ		والطير	and the birds	wal-ṭayru
+10	24:40:12	w	صَٰٓفَّٰتࣲ࣌		صفت	(with) wings outspread	ṣāffātin
+10	24:40:13	w	كُلࣱّ		كل	Each one	kullun
+11	24:40:14	w	قَدْ		قد	verily	qad
+11	24:40:15	w	عَلِمَ		علم	knows	ʿalima
+11	24:40:16	w	صَلَاتَهُۥ		صلاته	its prayer	ṣalātahu
+11	24:40:17	w	وَتَسْبِيحَهُۥ࣌		وتسبيحه	and its glorification	watasbīḥahu
+11	24:40:18	w	وَاللَّهُ		والله	And Allah	wal-lahu
+11	24:40:19	w	عَلِيمُۢ		عليم	(is) All-Knower	ʿalīmun
+11	24:40:20	w	بِمَا		بما	of what	bimā
+11	24:40:21	w	يَفْعَلُونَ࣌		يفعلون	they do	yafʿalūna
+11	24:40:22	e	۝٤٠				
+11	24:41:1	w	وَلِلهِ		ولله	And to Allah (belongs)	walillahi
+11	24:41:2	w	مُلْكُ		ملك	(the) dominion	mul'ku
+12	24:41:3	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+12	24:41:4	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+12	24:41:5	w	وَإِلَى		والي	And to	wa-ilā
+12	24:41:6	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+12	24:41:7	w	ࡴ۬لْمَصِيرُ࣌		المصير	(is) the destination	l-maṣīru
+12	24:41:8	e	۝٤١				
+12	24:42:1	w	۞ أَلَمْ		الم	Do not	alam
+12	24:42:2	w	تَرَ		تر	you see	tara
+12	24:42:3	w	أَنَّ		ان	that	anna
+12	24:42:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+12	24:42:5	w	يُزْجِے		يزجي	drives	yuz'jī
+13	24:42:6	w	سَحَاباࣰ		سحابا	clouds	saḥāban
+13	24:42:7	w	ثُمَّ		ثم	then	thumma
+13	24:42:8	w	يُوَ۬لِّفُ		يولف	joins	yu-allifu
+13	24:42:9	w	بَيْنَهُۥ		بينه	between them	baynahu
+13	24:42:10	w	ثُمَّ		ثم	then	thumma
+13	24:42:11	w	يَجْعَلُهُۥ		يجعله	makes them	yajʿaluhu
+13	24:42:12	w	رُكَاماࣰ		ركاما	(into) a mass	rukāman
+13	24:42:13	w	فَتَرَى		فتري	then you see	fatarā
+13	24:42:14	w	ࡰ۬لْوَدْقَ		الودق	the rain	l-wadqa
+13	24:42:15	w	يَخْرُجُ		يخرج	come forth	yakhruju
+13	24:42:16	w	مِنْ		من	from	min
+14	24:42:17	w	خِلَٰلِهِۦ࣌		خللهي	their midst	khilālihi
+14	24:42:18	w	وَيُنَزِّلُ		وينزل	And He sends down	wayunazzilu
+14	24:42:19	w	مِنَ		من	from	mina
+14	24:42:20	w	ࡰ۬لسَّمَآءِ		السما	(the) sky	l-samāi
+14	24:42:21	w	مِن		من	[from]	min
+14	24:42:22	w	جِبَالࣲ		جبال	mountains	jibālin
+14	24:42:23	w	فِيهَا		فيها	within it	fīhā
+14	24:42:24	w	مِنۢ		من	[of]	min
+14	24:42:25	w	بَرَدࣲ		برد	(is) hail	baradin
+14	24:42:26	w	فَيُصِيبُ		فيصيب	and He strikes	fayuṣību
+14	24:42:27	w	بِهِۦ		بهي	with it	bihi
+14	24:42:28	w	مَنْ		من	whom	man
+15	24:42:29	w	يَّشَآءُ		يشا	He wills	yashāu
+15	24:42:30	w	وَيَصْرِفُهُۥ		ويصرفه	and averts it	wayaṣrifuhu
+15	24:42:31	w	عَن		عن	from	ʿan
+15	24:42:32	w	مَّنْ		من	whom	man
+15	24:42:33	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+15	24:42:34	w	يَكَادُ		يكاد	Nearly	yakādu
+15	24:42:35	w	سَنَا		سنا	(the) flash	sanā
+15	24:42:36	w	بَرْقِهِۦ		برقهي	(of) its lighting	barqihi
+15	24:42:37	w	يَذْهَبُ		يذهب	takes away	yadhhabu
+15	24:42:38	w	بِالَابْصٜـٰرِ࣌		بالابصر	the sight	bil-abṣāri

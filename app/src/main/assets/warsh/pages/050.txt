@@ -1,0 +1,146 @@
+1	3:0:0	t					
+2	3:0:0	b					
+3	3:1:1	w	أَلَٓمِّٓ࣌		الم	Alif Laam Meem	alif-lam-meem
+3	3:1:2	w	ࡰ۬للَّهُ		الله	Allah	al-lahu
+3	3:1:3	w	لَآ		لا	(there is) no	lā
+3	3:1:4	w	إِلَٰهَ		اله	God	ilāha
+3	3:1:5	w	إِلَّا		الا	except	illā
+3	3:1:6	w	هُوَ࣌		هو	Him	huwa
+3	3:1:7	w	ࡰ۬لْحَيُّ		الحي	the Ever-Living	l-ḥayu
+3	3:1:8	w	ࡲ۬لْقَيُّومُ		القيوم	the Sustainer of all that exists	l-qayūmu
+3	3:1:9	e	۝١				
+3	3:2:1	w	نَزَّلَ		نزل	He revealed	nazzala
+3	3:2:2	w	عَلَيْكَ		عليك	to you	ʿalayka
+3	3:2:3	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+4	3:2:4	w	بِالْحَقِّ		بالحق	in [the] truth	bil-ḥaqi
+4	3:2:5	w	مُصَدِّقاࣰ		مصدقا	confirming	muṣaddiqan
+4	3:2:6	w	لِّمَا		لما	that which	limā
+4	3:2:7	w	بَيْنَ		بين	(was)	bayna
+4	3:2:8	w	يَدَيْهِ࣌		يديه	before it	yadayhi
+4	3:2:9	w	وَأَنزَلَ		وانزل	and He revealed	wa-anzala
+4	3:2:10	w	ࡰ۬لتَّوْرٜيٰةَ		التورية	the Taurat	l-tawrāta
+4	3:2:11	w	وَالِانجِيلَ		والانجيل	and the Injeel	wal-injīla
+4	3:2:12	e	۝٢				
+5	3:3:1	w	مِن		من	From	min
+5	3:3:2	w	قَبْلُ		قبل	before (this)	qablu
+5	3:3:3	w	هُدىࣰ		هدي	(as) guidance	hudan
+5	3:3:4	w	لِّلنَّاسِ		للناس	for the mankind	lilnnāsi
+5	3:3:5	w	وَأَنزَلَ		وانزل	And (He) revealed	wa-anzala
+5	3:3:6	w	ࡰ۬لْفُرْقَانَ࣌		الفرقان	the Criterion	l-fur'qāna
+5	3:3:7	e	۝٣				
+5	3:4:1	w	إِنَّ		ان	Verily	inna
+5	3:4:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	3:4:3	w	كَفَرُواْ		كفروا	disbelieve[d]	kafarū
+5	3:4:4	w	بِـَٔايَٰتِ		بايت	in (the) Verses	biāyāti
+6	3:4:5	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+6	3:4:6	w	لَهُمْ		لهم	for them	lahum
+6	3:4:7	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+6	3:4:8	w	شَدِيدࣱ࣌		شديد	severe	shadīdun
+6	3:4:9	w	وَاللَّهُ		والله	And Allah	wal-lahu
+6	3:4:10	w	عَزِيزࣱ		عزيز	(is) All-Mighty	ʿazīzun
+6	3:4:11	w	ذُو		ذو	All-Able	dhū
+6	3:4:12	w	ࡲٜنتِقَامٍ࣌		انتقام	(of) retribution	intiqāmin
+6	3:4:13	e	۝٤				
+6	3:5:1	w	۞ ࡴنَّ		ان	Indeed	inna
+6	3:5:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	3:5:3	w	لَا		لا	not	lā
+6	3:5:4	w	يَخْفٜىٰ		يخفي	is hidden	yakhfā
+7	3:5:5	w	عَلَيْهِ		عليه	from Him	ʿalayhi
+7	3:5:6	w	شَےْءࣱ		شي	anything	shayon
+7	3:5:7	w	فِے		في	in	fī
+7	3:5:8	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+7	3:5:9	w	وَلَا		ولا	and not	walā
+7	3:5:10	w	فِے		في	in	fī
+7	3:5:11	w	ࡴ۬لسَّمَآءِ࣌		السما	the heaven	l-samāi
+7	3:5:12	e	۝٥				
+7	3:6:1	w	هُوَ		هو	He	huwa
+7	3:6:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+7	3:6:3	w	يُصَوِّرُكُمْ		يصوركم	shapes you	yuṣawwirukum
+8	3:6:4	w	فِے		في	in	fī
+8	3:6:5	w	ࡴ۬لَارْحَامِ		الارحام	the wombs	l-arḥāmi
+8	3:6:6	w	كَيْفَ		كيف	how(ever)	kayfa
+8	3:6:7	w	يَشَآءُ࣌		يشا	He wills	yashāu
+8	3:6:8	w	لَآ		لا	(There is) no	lā
+8	3:6:9	w	إِلَٰهَ		اله	god	ilāha
+8	3:6:10	w	إِلَّا		الا	except	illā
+8	3:6:11	w	هُوَ࣌		هو	Him	huwa
+8	3:6:12	w	ࡰ۬لْعَزِيزُ		العزيز	the All-Mighty	l-ʿazīzu
+8	3:6:13	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+8	3:6:14	e	۝٦				
+9	3:7:1	w	هُوَ		هو	He	huwa
+9	3:7:2	w	ࡰ۬لذِےٓ		الذي	(is) the One Who	alladhī
+9	3:7:3	w	أَنزَلَ		انزل	revealed	anzala
+9	3:7:4	w	عَلَيْكَ		عليك	to you	ʿalayka
+9	3:7:5	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+9	3:7:6	w	مِنْهُ࣌		منه	of it	min'hu
+9	3:7:7	w	ءَايَٰتࣱ		ايت	(are) Verses	āyātun
+9	3:7:8	w	مُّحْكَمَٰتٌ		محكمت	absolutely clear	muḥ'kamātun
+9	3:7:9	w	هُنَّ		هن	they (are)	hunna
+9	3:7:10	w	أُمُّ		ام	the foundation	ummu
+10	3:7:11	w	ࡲ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+10	3:7:12	w	وَأُخَرُ		واخر	and others	wa-ukharu
+10	3:7:13	w	مُتَشَٰبِهَٰتࣱ࣌		متشبهت	(are) allegorical	mutashābihātun
+10	3:7:14	w	فَأَمَّا		فاما	Then as for	fa-ammā
+10	3:7:15	w	ࡰ۬لذِينَ		الذين	those	alladhīna
+10	3:7:16	w	فِے		في	in	fī
+10	3:7:17	w	قُلُوبِهِمْ		قلوبهم	their hearts	qulūbihim
+10	3:7:18	w	زَيْغࣱ		زيغ	(is) perversity	zayghun
+10	3:7:19	w	فَيَتَّبِعُونَ		فيتبعون	[so] they follow	fayattabiʿūna
+11	3:7:20	w	مَا		ما	what	mā
+11	3:7:21	w	تَشَٰبَهَ		تشبه	(is) allegorical	tashābaha
+11	3:7:22	w	مِنْهُ		منه	of it	min'hu
+11	3:7:23	w	ࡲٜبْتِغَآءَ		ابتغا	seeking	ib'tighāa
+11	3:7:24	w	ࡰ۬لْفِتْنَةِ		الفتنة	[the] discord	l-fit'nati
+11	3:7:25	w	وَابْتِغَآءَ		وابتغا	and seeking	wa-ib'tighāa
+11	3:7:26	w	تَاوِيلِهِۦ࣌		تاويلهي	its interpretation	tawīlihi
+11	3:7:27	w	وَمَا		وما	And not	wamā
+11	3:7:28	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+11	3:7:29	w	تَاوِيلَهُۥٓ		تاويله	its interpretation	tawīlahu
+12	3:7:30	w	إِلَّا		الا	except	illā
+12	3:7:31	w	ࡰ۬للَّهُ࣌		الله	Allah	l-lahu
+12	3:7:32	w	وَالرَّٰسِخُونَ		والرسخون	And those firm	wal-rāsikhūna
+12	3:7:33	w	فِے		في	in	fī
+12	3:7:34	w	ࡴ۬لْعِلْمِ		العلم	[the] knowledge	l-ʿil'mi
+12	3:7:35	w	يَقُولُونَ		يقولون	they say	yaqūlūna
+12	3:7:36	w	ءَامَنَّا		امنا	We believe	āmannā
+12	3:7:37	w	بِهِۦ		بهي	in it	bihi
+12	3:7:38	w	كُلࣱّ		كل	All	kullun
+12	3:7:39	w	مِّنْ		من	(is)	min
+12	3:7:40	w	عِندِ		عند	from	ʿindi
+13	3:7:41	w	رَبِّنَا࣌		ربنا	our Lord	rabbinā
+13	3:7:42	w	وَمَا		وما	And not	wamā
+13	3:7:43	w	يَذَّكَّرُ		يذكر	will take heed	yadhakkaru
+13	3:7:44	w	إِلَّآ		الا	except	illā
+13	3:7:45	w	أُوْلُواْ		اولوا	men	ulū
+13	3:7:46	w	ࡲ۬لَالْبَٰبِ࣌		الالبب	(of) understanding	l-albābi
+13	3:7:47	e	۝٧				
+13	3:8:1	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+13	3:8:2	w	لَا		لا	(Do) not	lā
+13	3:8:3	w	تُزِغْ		تزغ	deviate	tuzigh
+13	3:8:4	w	قُلُوبَنَا		قلوبنا	our hearts	qulūbanā
+13	3:8:5	w	بَعْدَ		بعد	after	baʿda
+14	3:8:6	w	إِذْ		اذ	[when]	idh
+14	3:8:7	w	هَدَيْتَنَا		هديتنا	You (have) guided us	hadaytanā
+14	3:8:8	w	وَهَبْ		وهب	and grant	wahab
+14	3:8:9	w	لَنَا		لنا	(for) us	lanā
+14	3:8:10	w	مِن		من	from	min
+14	3:8:11	w	لَّدُنكَ		لدنك	Yourself	ladunka
+14	3:8:12	w	رَحْمَةً࣌		رحمة	mercy	raḥmatan
+14	3:8:13	w	ࡴنَّكَ		انك	Indeed You	innaka
+14	3:8:14	w	أَنتَ		انت	You	anta
+14	3:8:15	w	ࡰ۬لْوَهَّابُ࣌		الوهاب	(are) the Bestower	l-wahābu
+14	3:8:16	e	۝٨				
+14	3:9:1	w	رَبَّنَآ		ربنا	Our Lord	rabbanā
+15	3:9:2	w	إِنَّكَ		انك	Indeed, You	innaka
+15	3:9:3	w	جَامِعُ		جامع	will gather	jāmiʿu
+15	3:9:4	w	ࡲ۬لنَّاسِ		الناس	[the] mankind	l-nāsi
+15	3:9:5	w	لِيَوْمࣲ		ليوم	on a Day	liyawmin
+15	3:9:6	w	لَّا		لا	(there is) no	lā
+15	3:9:7	w	رَيْبَ		ريب	doubt	rayba
+15	3:9:8	w	فِيهِ࣌		فيه	in it	fīhi
+15	3:9:9	w	إِنَّ		ان	Indeed	inna
+15	3:9:10	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	3:9:11	w	لَا		لا	(does) not	lā
+15	3:9:12	w	يُخْلِفُ		يخلف	break	yukh'lifu
+15	3:9:13	w	ࡲ۬لْمِيعَادَ࣌		الميعاد	the Promise	l-mīʿāda
+15	3:9:14	e	۝٩				

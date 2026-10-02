@@ -10,12 +10,18 @@ import kotlinx.serialization.json.Json
 import org.mushaf.app.core.common.writeTextAtomically
 import org.mushaf.app.core.update.UpdateMode
 import org.mushaf.app.data.quran.Script
+import org.mushaf.app.core.quran.Riwayah
+import java.util.Locale
 
 @Serializable
 enum class ThemeMode { SYSTEM, LIGHT, DARK }
 
 @Serializable
 data class Settings(
+    /** The riwayah the mushaf is read in; at the first launch, the one of the phone's country. */
+    val riwayah: Riwayah = Riwayah.HAFS,
+    /** The reciter heard in Warsh (mp3quran's id, past 10000), Yassin al-Jazairi first. */
+    val warshReciter: Int = 10014,
     /** What happens when a newer version is out, checked once when the app opens. */
     val updates: UpdateMode = UpdateMode.INSTALL,
     val themeMode: ThemeMode = ThemeMode.SYSTEM,
@@ -73,10 +79,13 @@ class SettingsStore(context: Context) {
     val current: Settings get() = _settings.value
 
     private fun load(): Settings {
-        if (!file.exists()) return Settings()
+        if (!file.exists()) return Settings(riwayah = Riwayah.forCountry(Locale.getDefault().country))
         return runCatching { json.decodeFromString<Settings>(file.readText()) }
             .getOrDefault(Settings())
     }
+
+    /** The reciter heard in [r]. */
+    fun reciter(r: Riwayah = current.riwayah): Int = if (r == Riwayah.WARSH) current.warshReciter else current.reciter
 
     fun update(transform: (Settings) -> Settings) {
         val updated = transform(_settings.value)

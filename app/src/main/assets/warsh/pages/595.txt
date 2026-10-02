@@ -1,0 +1,120 @@
+1	90:19:1	w	وَالذِينَ		والذين	But those who	wa-alladhīna
+1	90:19:2	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+1	90:19:3	w	بِـَٔايَٰتِنَا		بايتنا	in Our Verses	biāyātinā
+1	90:19:4	w	هُمُۥٓ		هم	they	hum
+1	90:19:5	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+1	90:19:6	w	ࡲ۬لْمَشْـَٔمَةِ࣌		المشمة	(of) the left (hand)	l-mashamati
+1	90:19:7	e	۝١٩				
+1	90:20:1	w	عَلَيْهِمْ		عليهم	Over them	ʿalayhim
+1	90:20:2	w	نَارࣱ		نار	(will be the) Fire	nārun
+1	90:20:3	w	مُّوصَدَةࣱ࣌		موصدة	closed in	mu'ṣadatun
+1	90:20:4	e	۝٢٠				
+2	91:0:0	t					
+3	91:0:0	b					
+4	91:1:1	w	وَالشَّمْسِ		والشمس	By the sun	wal-shamsi
+4	91:1:2	w	وَضُحَيٰهَا		وضحيها	and its brightness	waḍuḥāhā
+4	91:1:3	e	۝١				
+4	91:2:1	w	وَالْقَمَرِ		والقمر	And the moon	wal-qamari
+4	91:2:2	w	إِذَا		اذا	when	idhā
+4	91:2:3	w	تَلَيٰهَا		تليها	it follows it	talāhā
+4	91:2:4	e	۝٢				
+4	91:3:1	w	وَالنَّهٜارِ		والنهار	And the day	wal-nahāri
+4	91:3:2	w	إِذَا		اذا	when	idhā
+4	91:3:3	w	جَلَّيٰهَا		جليها	it displays it	jallāhā
+4	91:3:4	e	۝٣				
+5	91:4:1	w	وَاليْلِ		واليل	And the night	wa-al-layli
+5	91:4:2	w	إِذَا		اذا	when	idhā
+5	91:4:3	w	يَغْشَيٰهَا		يغشيها	it covers it	yaghshāhā
+5	91:4:4	e	۝٤				
+5	91:5:1	w	وَالسَّمَآءِ		والسما	And the heaven	wal-samāi
+5	91:5:2	w	وَمَا		وما	and (He) Who	wamā
+5	91:5:3	w	بَنَيٰهَا		بنيها	constructed it	banāhā
+5	91:5:4	e	۝٥				
+5	91:6:1	w	وَالَارْضِ		والارض	And the earth	wal-arḍi
+6	91:6:2	w	وَمَا		وما	and by (He) Who	wamā
+6	91:6:3	w	طَحَيٰهَا		طحيها	spread it	ṭaḥāhā
+6	91:6:4	e	۝٦				
+6	91:7:1	w	وَنَفْسࣲ		ونفس	And (the) soul	wanafsin
+6	91:7:2	w	وَمَا		وما	and (He) Who	wamā
+6	91:7:3	w	سَوَّيٰهَا		سويها	proportioned it	sawwāhā
+6	91:7:4	e	۝٧				
+6	91:8:1	w	فَأَلْهَمَهَا		فالهمها	And He inspired it	fa-alhamahā
+6	91:8:2	w	فُجُورَهَا		فجورها	(to distinguish) its wickedness	fujūrahā
+7	91:8:3	w	وَتَقْوَيٰهَا		وتقويها	and its righteousness	wataqwāhā
+7	91:8:4	e	۝٨				
+7	91:9:1	w	قَدَ		قد	Indeed	qad
+7	91:9:2	w	ࡰفْلَحَ		افلح	he succeeds	aflaḥa
+7	91:9:3	w	مَن		من	who	man
+7	91:9:4	w	زَكَّيٰهَا		زكيها	purifies it	zakkāhā
+7	91:9:5	e	۝٩				
+7	91:10:1	w	وَقَدْ		وقد	And indeed	waqad
+7	91:10:2	w	خَابَ		خاب	he fails	khāba
+7	91:10:3	w	مَن		من	who	man
+7	91:10:4	w	دَسَّيٰهَا࣌		دسيها	buries it	dassāhā
+7	91:10:5	e	۝١٠				
+8	91:11:1	w	كَذَّبَتْ		كذبت	Denied	kadhabat
+8	91:11:2	w	ثَمُودُ		ثمود	Thamud	thamūdu
+8	91:11:3	w	بِطَغْوَيٰهَآ		بطغويها	by their transgression	biṭaghwāhā
+8	91:11:4	e	۝١١				
+8	91:12:1	w	إِذِ		اذ	When	idhi
+8	91:12:2	w	ࡴٜنۢبَعَثَ		انبعث	(was) sent forth	inbaʿatha
+8	91:12:3	w	أَشْقَيٰهَا		اشقيها	(the) most wicked of them	ashqāhā
+8	91:12:4	e	۝١٢				
+8	91:13:1	w	فَقَالَ		فقال	But said	faqāla
+8	91:13:2	w	لَهُمْ		لهم	to them	lahum
+9	91:13:3	w	رَسُولُ		رسول	(the) Messenger	rasūlu
+9	91:13:4	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+9	91:13:5	w	نَاقَةَ		ناقة	(It is the) she-camel	nāqata
+9	91:13:6	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+9	91:13:7	w	وَسُقْيَاهَا		وسقياها	and her drink	wasuq'yāhā
+9	91:13:8	e	۝١٣				
+9	91:14:1	w	فَكَذَّبُوهُ		فكذبوه	But they denied him	fakadhabūhu
+9	91:14:2	w	فَعَقَرُوهَا		فعقروها	and they hamstrung her	faʿaqarūhā
+9	91:14:3	w	فَدَمْدَمَ		فدمدم	So destroyed	fadamdama
+10	91:14:4	w	عَلَيْهِمْ		عليهم	them	ʿalayhim
+10	91:14:5	w	رَبُّهُم		ربهم	their Lord	rabbuhum
+10	91:14:6	w	بِذَنۢبِهِمْ		بذنبهم	for their sin	bidhanbihim
+10	91:14:7	w	فَسَوَّيٰهَا࣌		فسويها	and leveled them	fasawwāhā
+10	91:14:8	e	۝١٤				
+10	91:15:1	w	فَلَا		فلا	And not	walā
+10	91:15:2	w	يَخَافُ		يخاف	He fears	yakhāfu
+10	91:15:3	w	عُقْبَٰهَا࣌		عقبها	its consequences	ʿuq'bāhā
+10	91:15:4	e	۝١٥				
+11	92:0:0	t					
+12	92:0:0	b					
+13	92:1:1	w	وَاليْلِ		واليل	By the night	wa-al-layli
+13	92:1:2	w	إِذَا		اذا	when	idhā
+13	92:1:3	w	يَغْشٜىٰ		يغشي	it covers	yaghshā
+13	92:1:4	e	۝١				
+13	92:2:1	w	وَالنَّهٜارِ		والنهار	And the day	wal-nahāri
+13	92:2:2	w	إِذَا		اذا	when	idhā
+13	92:2:3	w	تَجَلّٜىٰ		تجلي	it shines in brightness	tajallā
+13	92:2:4	e	۝٢				
+13	92:3:1	w	وَمَا		وما	And He Who	wamā
+13	92:3:2	w	خَلَقَ		خلق	created	khalaqa
+13	92:3:3	w	ࡰ۬لذَّكَرَ		الذكر	the male	l-dhakara
+13	92:3:4	w	وَالُانثٜىٰٓ		والانثي	and the female	wal-unthā
+13	92:3:5	e	۝٣				
+14	92:4:1	w	إِنَّ		ان	Indeed	inna
+14	92:4:2	w	سَعْيَكُمْ		سعيكم	your efforts	saʿyakum
+14	92:4:3	w	لَشَتّٜىٰ࣌		لشتي	(are) surely diverse	lashattā
+14	92:4:4	e	۝٤				
+14	92:5:1	w	فَأَمَّا		فاما	Then as for	fa-ammā
+14	92:5:2	w	مَنَ		من	(him) who	man
+14	92:5:3	w	ࡰعْطٜىٰ		اعطي	gives	aʿṭā
+14	92:5:4	w	وَاتَّقٜىٰ		واتقي	and fears	wa-ittaqā
+14	92:5:5	e	۝٥				
+14	92:6:1	w	وَصَدَّقَ		وصدق	And believes	waṣaddaqa
+14	92:6:2	w	بِالْحُسْنٜىٰ		بالحسني	in the best	bil-ḥus'nā
+14	92:6:3	e	۝٦				
+15	92:7:1	w	فَسَنُيَسِّرُهُۥ		فسنيسره	Then We will ease him	fasanuyassiruhu
+15	92:7:2	w	لِلْيُسْرٜىٰ࣌		لليسري	towards [the] ease	lil'yus'rā
+15	92:7:3	e	۝٧				
+15	92:8:1	w	وَأَمَّا		واما	But as for	wa-ammā
+15	92:8:2	w	مَنۢ		من	(him) who	man
+15	92:8:3	w	بَخِلَ		بخل	withholds	bakhila
+15	92:8:4	w	وَاسْتَغْنٜىٰ		واستغني	and considers himself free from need	wa-is'taghnā
+15	92:8:5	e	۝٨				
+15	92:9:1	w	وَكَذَّبَ		وكذب	And denies	wakadhaba
+15	92:9:2	w	بِالْحُسْنٜىٰ		بالحسني	the best	bil-ḥus'nā
+15	92:9:3	e	۝٩				

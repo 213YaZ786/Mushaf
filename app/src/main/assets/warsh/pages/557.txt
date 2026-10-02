@@ -1,0 +1,115 @@
+1	64:10:1	w	وَالذِينَ		والذين	But those who	wa-alladhīna
+1	64:10:2	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+1	64:10:3	w	وَكَذَّبُواْ		وكذبوا	and denied	wakadhabū
+1	64:10:4	w	بِـَٔايَٰتِنَآ		بايتنا	[in] Our Verses	biāyātinā
+1	64:10:5	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+2	64:10:6	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+2	64:10:7	w	ࡲ۬لنّٜارِ		النار	(of) the Fire	l-nāri
+2	64:10:8	w	خَٰلِدِينَ		خلدين	abiding forever	khālidīna
+2	64:10:9	w	فِيهَا࣌		فيها	therein	fīhā
+2	64:10:10	w	وَبِيسَ		وبيس	And wretched is	wabi'sa
+2	64:10:11	w	ࡰ۬لْمَصِيرُ࣌		المصير	the destination	l-maṣīru
+2	64:10:12	e	۝١٠				
+3	64:11:1	w	مَآ		ما	Not	mā
+3	64:11:2	w	أَصَابَ		اصاب	strikes	aṣāba
+3	64:11:3	w	مِن		من	any	min
+3	64:11:4	w	مُّصِيبَةٍ		مصيبة	disaster	muṣībatin
+3	64:11:5	w	ࡴلَّا		الا	except	illā
+3	64:11:6	w	بِإِذْنِ		باذن	by (the) permission	bi-idh'ni
+3	64:11:7	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+3	64:11:8	w	وَمَنْ		ومن	And whoever	waman
+3	64:11:9	w	يُّومِنۢ		يومن	believes	yu'min
+3	64:11:10	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+4	64:11:11	w	يَهْدِ		يهد	He guides	yahdi
+4	64:11:12	w	قَلْبَهُۥ࣌		قلبه	his heart	qalbahu
+4	64:11:13	w	وَاللَّهُ		والله	And Allah	wal-lahu
+4	64:11:14	w	بِكُلِّ		بكل	of every	bikulli
+4	64:11:15	w	شَےْءٍ		شي	thing	shayin
+4	64:11:16	w	عَلِيمࣱ࣌		عليم	(is) All-Knowing	ʿalīmun
+4	64:11:17	e	۝١١				
+4	64:12:1	w	وَأَطِيعُواْ		واطيعوا	So obey	wa-aṭīʿū
+4	64:12:2	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+5	64:12:3	w	وَأَطِيعُواْ		واطيعوا	and obey	wa-aṭīʿū
+5	64:12:4	w	ࡲ۬لرَّسُولَ࣌		الرسول	the Messenger	l-rasūla
+5	64:12:5	w	فَإِن		فان	but if	fa-in
+5	64:12:6	w	تَوَلَّيْتُمْ		توليتم	you turn away	tawallaytum
+5	64:12:7	w	فَإِنَّمَا		فانما	then only	fa-innamā
+5	64:12:8	w	عَلَىٰ		علي	upon	ʿalā
+5	64:12:9	w	رَسُولِنَا		رسولنا	Our Messenger	rasūlinā
+5	64:12:10	w	ࡰ۬لْبَلَٰغُ		البلغ	(is) the conveyance	l-balāghu
+6	64:12:11	w	ࡲ۬لْمُبِينُ࣌		المبين	clear	l-mubīnu
+6	64:12:12	e	۝١٢				
+6	64:13:1	w	ࡲ۬للَّهُ		الله	Allah	al-lahu
+6	64:13:2	w	لَآ		لا	(there is) no	lā
+6	64:13:3	w	إِلَٰهَ		اله	god	ilāha
+6	64:13:4	w	إِلَّا		الا	except	illā
+6	64:13:5	w	هُوَ࣌		هو	Him	huwa
+6	64:13:6	w	وَعَلَى		وعلي	And upon	waʿalā
+6	64:13:7	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+6	64:13:8	w	فَلْيَتَوَكَّلِ		فليتوكل	let put (their) trust	falyatawakkali
+7	64:13:9	w	ࡴ۬لْمُومِنُونَ࣌		المومنون	the believers	l-mu'minūna
+7	64:13:10	e	۝١٣				
+7	64:14:1	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+7	64:14:2	w	ࡰ۬لذِينَ		الذين	(you) who	alladhīna
+7	64:14:3	w	ءَامَنُوٓاْ		امنوا	believe	āmanū
+7	64:14:4	w	إِنَّ		ان	Indeed	inna
+7	64:14:5	w	مِنَ		من	from	min
+7	64:14:6	w	ࡰزْوَٰجِكُمْ		ازوجكم	your spouses	azwājikum
+8	64:14:7	w	وَأَوْلَٰدِكُمْ		واولدكم	and your children	wa-awlādikum
+8	64:14:8	w	عَدُوّاࣰ		عدوا	(are) enemies	ʿaduwwan
+8	64:14:9	w	لَّكُمْ		لكم	to you	lakum
+8	64:14:10	w	فَاحْذَرُوهُمْ࣌		فاحذروهم	so beware of them	fa-iḥ'dharūhum
+8	64:14:11	w	وَإِن		وان	But if	wa-in
+8	64:14:12	w	تَعْفُواْ		تعفوا	you pardon	taʿfū
+9	64:14:13	w	وَتَصْفَحُواْ		وتصفحوا	and overlook	wataṣfaḥū
+9	64:14:14	w	وَتَغْفِرُواْ		وتغفروا	and forgive	wataghfirū
+9	64:14:15	w	فَإِنَّ		فان	then indeed	fa-inna
+9	64:14:16	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+9	64:14:17	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+9	64:14:18	w	رَّحِيمٌ࣌		رحيم	Most Merciful	raḥīmun
+9	64:14:19	e	۝١٤				
+9	64:15:1	w	ࡴنَّمَآ		انما	Only	innamā
+10	64:15:2	w	أَمْوَٰلُكُمْ		امولكم	your wealth	amwālukum
+10	64:15:3	w	وَأَوْلَٰدُكُمْ		واولدكم	and your children	wa-awlādukum
+10	64:15:4	w	فِتْنَةࣱ࣌		فتنة	(are) a trial	fit'natun
+10	64:15:5	w	وَاللَّهُ		والله	and Allah	wal-lahu
+10	64:15:6	w	عِندَهُۥٓ		عنده	with Him	ʿindahu
+10	64:15:7	w	أَجْرٌ		اجر	(is) a reward	ajrun
+11	64:15:8	w	عَظِيمࣱ࣌		عظيم	great	ʿaẓīmun
+11	64:15:9	e	۝١٥				
+11	64:16:1	w	فَاتَّقُواْ		فاتقوا	So fear	fa-ittaqū
+11	64:16:2	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+11	64:16:3	w	مَا		ما	what	mā
+11	64:16:4	w	ࡰٜسْتَطَعْتُمْ		استطعتم	you are able	is'taṭaʿtum
+11	64:16:5	w	وَاسْمَعُواْ		واسمعوا	and listen	wa-is'maʿū
+11	64:16:6	w	وَأَطِيعُواْ		واطيعوا	and obey	wa-aṭīʿū
+12	64:16:7	w	وَأَنفِقُواْ		وانفقوا	and spend	wa-anfiqū
+12	64:16:8	w	خَيْراࣰ		خيرا	(it is) better	khayran
+12	64:16:9	w	لِّأَنفُسِكُمْ࣌		لانفسكم	for yourselves	li-anfusikum
+12	64:16:10	w	وَمَنْ		ومن	And whoever	waman
+12	64:16:11	w	يُّوقَ		يوق	is saved	yūqa
+12	64:16:12	w	شُحَّ		شح	(from the) greediness	shuḥḥa
+12	64:16:13	w	نَفْسِهِۦ		نفسهي	(of) his soul	nafsihi
+13	64:16:14	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+13	64:16:15	w	هُمُ		هم	[they]	humu
+13	64:16:16	w	ࡲ۬لْمُفْلِحُونَ࣌		المفلحون	(are) the successful ones	l-muf'liḥūna
+13	64:16:17	e	۝١٦				
+13	64:17:1	w	إِن		ان	If	in
+13	64:17:2	w	تُقْرِضُواْ		تقرضوا	you loan	tuq'riḍū
+13	64:17:3	w	ࡲ۬للَّهَ		الله	(to) Allah	l-laha
+13	64:17:4	w	قَرْضاً		قرضا	a loan	qarḍan
+14	64:17:5	w	حَسَناࣰ		حسنا	goodly	ḥasanan
+14	64:17:6	w	يُضَٰعِفْهُ		يضعفه	He will multiply it	yuḍāʿif'hu
+14	64:17:7	w	لَكُمْ		لكم	for you	lakum
+14	64:17:8	w	وَيَغْفِرْ		ويغفر	and will forgive	wayaghfir
+14	64:17:9	w	لَكُمْ࣌		لكم	you	lakum
+14	64:17:10	w	وَاللَّهُ		والله	And Allah	wal-lahu
+14	64:17:11	w	شَكُورٌ		شكور	(is) Most Appreciative	shakūrun
+15	64:17:12	w	حَلِيمٌ࣌		حليم	Most Forbearing	ḥalīmun
+15	64:17:13	e	۝١٧				
+15	64:18:1	w	عَٰلِمُ		علم	(The) Knower	ʿālimu
+15	64:18:2	w	ࡲ۬لْغَيْبِ		الغيب	(of) the unseen	l-ghaybi
+15	64:18:3	w	وَالشَّهَٰدَةِ࣌		والشهدة	and the witnessed	wal-shahādati
+15	64:18:4	w	ࡴ۬لْعَزِيزُ		العزيز	the All-Mighty	l-ʿazīzu
+15	64:18:5	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+15	64:18:6	e	۝١٨				

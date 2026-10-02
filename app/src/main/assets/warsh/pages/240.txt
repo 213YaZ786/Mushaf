@@ -1,0 +1,134 @@
+1	12:38:1	w	وَاتَّبَعْتُ		واتبعت	And I follow	wa-ittabaʿtu
+1	12:38:2	w	مِلَّةَ		ملة	(the) religion	millata
+1	12:38:3	w	ءَابَآءِيَ		اباي	(of) my forefathers	ābāī
+1	12:38:4	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+1	12:38:5	w	وَإِسْحَٰقَ		واسحق	and Isaac	wa-is'ḥāqa
+1	12:38:6	w	وَيَعْقُوبَ࣌		ويعقوب	and Yaqub	wayaʿqūba
+1	12:38:7	w	مَا		ما	Not	mā
+1	12:38:8	w	كَانَ		كان	was	kāna
+2	12:38:9	w	لَنَآ		لنا	for us	lanā
+2	12:38:10	w	أَن		ان	that	an
+2	12:38:11	w	نُّشْرِكَ		نشرك	we associate	nush'rika
+2	12:38:12	w	بِاللَّهِ		بالله	with Allah	bil-lahi
+2	12:38:13	w	مِن		من	any	min
+2	12:38:14	w	شَےْءࣲ࣌		شي	thing	shayin
+2	12:38:15	w	ذَٰلِكَ		ذلك	That	dhālika
+2	12:38:16	w	مِن		من	(is) from	min
+2	12:38:17	w	فَضْلِ		فضل	(the) Grace	faḍli
+2	12:38:18	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+2	12:38:19	w	عَلَيْنَا		علينا	upon us	ʿalaynā
+3	12:38:20	w	وَعَلَى		وعلي	and upon	waʿalā
+3	12:38:21	w	ࡰ۬لنَّاسِ࣌		الناس	the mankind	l-nāsi
+3	12:38:22	w	وَلَٰكِنَّ		ولكن	but	walākinna
+3	12:38:23	w	أَكْثَرَ		اكثر	most	akthara
+3	12:38:24	w	ࡰ۬لنَّاسِ		الناس	(of) the men	l-nāsi
+3	12:38:25	w	لَا		لا	(are) not	lā
+3	12:38:26	w	يَشْكُرُونَ࣌		يشكرون	grateful	yashkurūna
+3	12:38:27	e	۝٣٨				
+3	12:39:1	w	يَٰصَٰحِبَيِ		يصحبي	O my two companions	yāṣāḥibayi
+4	12:39:2	w	ࡴ۬لسِّجْنِ		السجن	(of) the prison	l-sij'ni
+4	12:39:3	w	ءَآرْبَابࣱ		ارباب	Are lords	a-arbābun
+4	12:39:4	w	مُّتَفَرِّقُونَ		متفرقون	separate	mutafarriqūna
+4	12:39:5	w	خَيْرٌ		خير	better	khayrun
+4	12:39:6	w	ࡰمِ		ام	or	ami
+4	12:39:7	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+4	12:39:8	w	ࡲ۬لْوَٰحِدُ		الوحد	the One	l-wāḥidu
+4	12:39:9	w	ࡲ۬لْقَهَّارُ࣌		القهار	the Irresistible	l-qahāru
+4	12:39:10	e	۝٣٩				
+5	12:40:1	w	مَا		ما	Not	mā
+5	12:40:2	w	تَعْبُدُونَ		تعبدون	you worship	taʿbudūna
+5	12:40:3	w	مِن		من	besides Him	min
+5	12:40:4	w	دُونِهِۦٓ		دونهي	besides Him	dūnihi
+5	12:40:5	w	إِلَّآ		الا	but	illā
+5	12:40:6	w	أَسْمَآءࣰ		اسما	names	asmāan
+5	12:40:7	w	سَمَّيْتُمُوهَآ		سميتموها	which you have named them	sammaytumūhā
+5	12:40:8	w	أَنتُمْ		انتم	you	antum
+6	12:40:9	w	وَءَابَآؤُكُم		واباوكم	and your forefathers	waābāukum
+6	12:40:10	w	مَّآ		ما	not	mā
+6	12:40:11	w	أَنزَلَ		انزل	(has) sent down	anzala
+6	12:40:12	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+6	12:40:13	w	بِهَا		بها	for it	bihā
+6	12:40:14	w	مِن		من	any	min
+6	12:40:15	w	سُلْطَٰنٍ࣌		سلطن	authority	sul'ṭānin
+6	12:40:16	w	ࡴنِ		ان	Not	ini
+6	12:40:17	w	ࡴ۬لْحُكْمُ		الحكم	(is) the command	l-ḥuk'mu
+6	12:40:18	w	إِلَّا		الا	but	illā
+6	12:40:19	w	لِلهِ࣌		لله	for Allah	lillahi
+7	12:40:20	w	أَمَرَ		امر	He has commanded	amara
+7	12:40:21	w	أَلَّا		الا	that not	allā
+7	12:40:22	w	تَعْبُدُوٓاْ		تعبدوا	you worship	taʿbudū
+7	12:40:23	w	إِلَّآ		الا	but	illā
+7	12:40:24	w	إِيَّاهُ࣌		اياه	Him Alone	iyyāhu
+7	12:40:25	w	ذَٰلِكَ		ذلك	That	dhālika
+7	12:40:26	w	ࡰ۬لدِّينُ		الدين	(is) the religion	l-dīnu
+7	12:40:27	w	ࡲ۬لْقَيِّمُ࣌		القيم	the right	l-qayimu
+7	12:40:28	w	وَلَٰكِنَّ		ولكن	but	walākinna
+8	12:40:29	w	أَكْثَرَ		اكثر	most	akthara
+8	12:40:30	w	ࡰ۬لنَّاسِ		الناس	[the] men	l-nāsi
+8	12:40:31	w	لَا		لا	(do) not	lā
+8	12:40:32	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+8	12:40:33	e	۝٤٠				
+8	12:41:1	w	يَٰصَٰحِبَيِ		يصحبي	O my two companions	yāṣāḥibayi
+8	12:41:2	w	ࡴ۬لسِّجْنِ		السجن	(of) the prison	l-sij'ni
+8	12:41:3	w	أَمَّآ		اما	As for	ammā
+8	12:41:4	w	أَحَدُكُمَا		احدكما	one of you	aḥadukumā
+9	12:41:5	w	فَيَسْقِے		فيسقي	he will give drink	fayasqī
+9	12:41:6	w	رَبَّهُۥ		ربه	(to) his master	rabbahu
+9	12:41:7	w	خَمْراࣰ࣌		خمرا	wine	khamran
+9	12:41:8	w	وَأَمَّا		واما	and as for	wa-ammā
+9	12:41:9	w	ࡰ۬لَاخَرُ		الاخر	the other	l-ākharu
+9	12:41:10	w	فَيُصْلَبُ		فيصلب	he will be crucified	fayuṣ'labu
+9	12:41:11	w	فَتَاكُلُ		فتاكل	and will eat	fatakulu
+9	12:41:12	w	ࡲ۬لطَّيْرُ		الطير	the birds	l-ṭayru
+10	12:41:13	w	مِن		من	from	min
+10	12:41:14	w	رَّأْسِهِۦ࣌		راسهي	his head	rasihi
+10	12:41:15	w	قُضِيَ		قضي	Has been decreed	quḍiya
+10	12:41:16	w	ࡰ۬لَامْرُ		الامر	the matter	l-amru
+10	12:41:17	w	ࡲ۬لذِے		الذي	about which	alladhī
+10	12:41:18	w	فِيهِ		فيه	about which	fīhi
+10	12:41:19	w	تَسْتَفْتِيَٰنِ࣌		تستفتين	you both inquire	tastaftiyāni
+10	12:41:20	e	۝٤١				
+10	12:42:1	w	۞ وَقَالَ		وقال	And he said	waqāla
+11	12:42:2	w	لِلذِے		للذي	to the one whom	lilladhī
+11	12:42:3	w	ظَنَّ		ظن	he thought	ẓanna
+11	12:42:4	w	أَنَّهُۥ		انه	that he	annahu
+11	12:42:5	w	نَاجࣲ		ناج	(would be) saved	nājin
+11	12:42:6	w	مِّنْهُمَا		منهما	of both of them	min'humā
+11	12:42:7	w	ࡸَذْكُرْنِے		اذكرني	Mention me	udh'kur'nī
+11	12:42:8	w	عِندَ		عند	to	ʿinda
+11	12:42:9	w	رَبِّكَ࣌		ربك	your master	rabbika
+11	12:42:10	w	فَأَنسٜيٰهُ		فانسيه	But made him forget	fa-ansāhu
+12	12:42:11	w	ࡲ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan	l-shayṭānu
+12	12:42:12	w	ذِكْرَ		ذكر	(the) mention	dhik'ra
+12	12:42:13	w	رَبِّهِۦ		ربهي	(to) his master	rabbihi
+12	12:42:14	w	فَلَبِثَ		فلبث	so he remained	falabitha
+12	12:42:15	w	فِے		في	in	fī
+12	12:42:16	w	ࡴ۬لسِّجْنِ		السجن	the prison	l-sij'ni
+12	12:42:17	w	بِضْعَ		بضع	several	biḍ'ʿa
+12	12:42:18	w	سِنِينَ࣌		سنين	years	sinīna
+12	12:42:19	e	۝٤٢				
+13	12:43:1	w	وَقَالَ		وقال	And said	waqāla
+13	12:43:2	w	ࡰ۬لْمَلِكُ		الملك	the king	l-maliku
+13	12:43:3	w	إِنِّيَ		اني	Indeed, I	innī
+13	12:43:4	w	أَرٜىٰ		اري	[I] have seen	arā
+13	12:43:5	w	سَبْعَ		سبع	seven	sabʿa
+13	12:43:6	w	بَقَرَٰتࣲ		بقرت	cows	baqarātin
+13	12:43:7	w	سِمَانࣲ		سمان	fat	simānin
+13	12:43:8	w	يَاكُلُهُنَّ		ياكلهن	eating them	yakuluhunna
+14	12:43:9	w	سَبْعٌ		سبع	seven	sabʿun
+14	12:43:10	w	عِجَافࣱ		عجاف	lean ones	ʿijāfun
+14	12:43:11	w	وَسَبْعَ		وسبع	and seven	wasabʿa
+14	12:43:12	w	سُنۢبُلَٰتٍ		سنبلت	ears (of corn)	sunbulātin
+14	12:43:13	w	خُضْرࣲ		خضر	green	khuḍ'rin
+14	12:43:14	w	وَأُخَرَ		واخر	and others	wa-ukhara
+14	12:43:15	w	يَابِسَٰتࣲ࣌		يابست	dry	yābisātin
+14	12:43:16	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+15	12:43:17	w	ࡰ۬لْمَلَأُ		الملا	chiefs	l-mala-u
+15	12:43:18	w	ࡶَفْتُونِے		افتوني	Explain to me	aftūnī
+15	12:43:19	w	فِے		في	about	fī
+15	12:43:20	w	رُءْيٜـٰيَ		ريي	my vision	ru'yāya
+15	12:43:21	w	إِن		ان	if	in
+15	12:43:22	w	كُنتُمْ		كنتم	you can	kuntum
+15	12:43:23	w	لِلرُّءْيٜا		للريا	of visions	lilrru'yā
+15	12:43:24	w	تَعْبُرُونَ࣌		تعبرون	interpret	taʿburūna
+15	12:43:25	e	۝٤٣				

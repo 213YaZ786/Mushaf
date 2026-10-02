@@ -1,0 +1,131 @@
+1	4:175:1	w	يَسْتَفْتُونَكَ࣌		يستفتونك	They seek your ruling	yastaftūnaka
+1	4:175:2	w	قُلِ		قل	Say	quli
+1	4:175:3	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+1	4:175:4	w	يُفْتِيكُمْ		يفتيكم	gives you a ruling	yuf'tīkum
+1	4:175:5	w	فِے		في	concerning	fī
+1	4:175:6	w	ࡴ۬لْكَلَٰلَةِ࣌		الكللة	the Kalala	l-kalālati
+1	4:175:7	w	إِنِ		ان	if	ini
+1	4:175:8	w	ࡴٜمْرُؤٌاْ		امروا	a man	im'ru-on
+1	4:175:9	w	هَلَكَ		هلك	died	halaka
+2	4:175:10	w	لَيْسَ		ليس	(and) not	laysa
+2	4:175:11	w	لَهُۥ		له	he has	lahu
+2	4:175:12	w	وَلَدࣱ		ولد	a child	waladun
+2	4:175:13	w	وَلَهُۥٓ		وله	and he has	walahu
+2	4:175:14	w	أُخْتࣱ		اخت	a sister	ukh'tun
+2	4:175:15	w	فَلَهَا		فلها	then for her	falahā
+2	4:175:16	w	نِصْفُ		نصف	(is) a half	niṣ'fu
+2	4:175:17	w	مَا		ما	(of) what	mā
+2	4:175:18	w	تَرَكَ࣌		ترك	he left	taraka
+2	4:175:19	w	وَهُوَ		وهو	And he	wahuwa
+2	4:175:20	w	يَرِثُهَآ		يرثها	will inherit from her	yarithuhā
+2	4:175:21	w	إِن		ان	if	in
+3	4:175:22	w	لَّمْ		لم	not	lam
+3	4:175:23	w	يَكُن		يكن	is	yakun
+3	4:175:24	w	لَّهَا		لها	for her	lahā
+3	4:175:25	w	وَلَدࣱ࣌		ولد	a child	waladun
+3	4:175:26	w	فَإِن		فان	But if	fa-in
+3	4:175:27	w	كَانَتَا		كانتا	there were	kānatā
+3	4:175:28	w	ࡰٜثْنَتَيْنِ		اثنتين	two females	ith'natayni
+3	4:175:29	w	فَلَهُمَا		فلهما	then for them	falahumā
+3	4:175:30	w	ࡰ۬لثُّلُثَٰنِ		الثلثن	two thirds	l-thuluthāni
+3	4:175:31	w	مِمَّا		مما	of what	mimmā
+3	4:175:32	w	تَرَكَ࣌		ترك	he left	taraka
+4	4:175:33	w	وَإِن		وان	But if	wa-in
+4	4:175:34	w	كَانُوٓاْ		كانوا	they were	kānū
+4	4:175:35	w	إِخْوَةࣰ		اخوة	brothers and sisters	ikh'watan
+4	4:175:36	w	رِّجَالاࣰ		رجالا	men	rijālan
+4	4:175:37	w	وَنِسَآءࣰ		ونسا	and women	wanisāan
+4	4:175:38	w	فَلِلذَّكَرِ		فللذكر	then the male will have	falildhakari
+4	4:175:39	w	مِثْلُ		مثل	like	mith'lu
+4	4:175:40	w	حَظِّ		حظ	share	ḥaẓẓi
+4	4:175:41	w	ࡴ۬لُانثَيَيْنِ࣌		الانثيين	(of) the two females	l-unthayayni
+5	4:175:42	w	يُبَيِّنُ		يبين	makes clear	yubayyinu
+5	4:175:43	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+5	4:175:44	w	لَكُمُۥٓ		لكم	to you	lakum
+5	4:175:45	w	أَن		ان	lest	an
+5	4:175:46	w	تَضِلُّواْ࣌		تضلوا	you go astray	taḍillū
+5	4:175:47	w	وَاللَّهُ		والله	And Allah	wal-lahu
+5	4:175:48	w	بِكُلِّ		بكل	of every	bikulli
+5	4:175:49	w	شَےْءٍ		شي	thing	shayin
+5	4:175:50	w	عَلِيمࣱ࣌		عليم	(is) All-Knower	ʿalīmun
+5	4:175:51	e	۝١٧٥				
+6	5:0:0	t					
+7	5:0:0	b					
+8	5:1:1	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+8	5:1:2	w	ࡰ۬لذِينَ		الذين	you (who)	alladhīna
+8	5:1:3	w	ءَامَنُوٓاْ		امنوا	believe	āmanū
+8	5:1:4	w	أَوْفُواْ		اوفوا	Fulfil	awfū
+8	5:1:5	w	بِالْعُقُودِ࣌		بالعقود	the contracts	bil-ʿuqūdi
+8	5:1:6	e	۝١				
+8	5:2:1	w	أُحِلَّتْ		احلت	Are made lawful	uḥillat
+8	5:2:2	w	لَكُم		لكم	for you	lakum
+8	5:2:3	w	بَهِيمَةُ		بهيمة	the quadruped	bahīmatu
+8	5:2:4	w	ࡲ۬لَانْعَٰمِ		الانعم	(of) the grazing livestock	l-anʿāmi
+9	5:2:5	w	إِلَّا		الا	except	illā
+9	5:2:6	w	مَا		ما	what	mā
+9	5:2:7	w	يُتْلٜىٰ		يتلي	is recited	yut'lā
+9	5:2:8	w	عَلَيْكُمْ		عليكم	on you	ʿalaykum
+9	5:2:9	w	غَيْرَ		غير	not	ghayra
+9	5:2:10	w	مُحِلِّے		محلي	being permitted	muḥillī
+9	5:2:11	w	ࡴ۬لصَّيْدِ		الصيد	(to) hunt	l-ṣaydi
+9	5:2:12	w	وَأَنتُمْ		وانتم	while you	wa-antum
+9	5:2:13	w	حُرُمٌ࣌		حرم	(are in) Ihram	ḥurumun
+9	5:2:14	w	ࡴنَّ		ان	Indeed	inna
+9	5:2:15	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	5:2:16	w	يَحْكُمُ		يحكم	decrees	yaḥkumu
+10	5:2:17	w	مَا		ما	what	mā
+10	5:2:18	w	يُرِيدُ࣌		يريد	He wills	yurīdu
+10	5:2:19	e	۝٢				
+10	5:3:1	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+10	5:3:2	w	ࡰ۬لذِينَ		الذين	you (who)	alladhīna
+10	5:3:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+10	5:3:4	w	لَا		لا	(Do) not	lā
+10	5:3:5	w	تُحِلُّواْ		تحلوا	violate	tuḥillū
+10	5:3:6	w	شَعَٰٓئِرَ		شعير	(the) rites	shaʿāira
+10	5:3:7	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+10	5:3:8	w	وَلَا		ولا	and not	walā
+11	5:3:9	w	ࡰ۬لشَّهْرَ		الشهر	the month	l-shahra
+11	5:3:10	w	ࡰ۬لْحَرَامَ		الحرام	the sacred	l-ḥarāma
+11	5:3:11	w	وَلَا		ولا	and not	walā
+11	5:3:12	w	ࡰ۬لْهَدْيَ		الهدي	the sacrificial animals	l-hadya
+11	5:3:13	w	وَلَا		ولا	and not	walā
+11	5:3:14	w	ࡰ۬لْقَلَٰٓئِدَ		القليد	the garlanded	l-qalāida
+11	5:3:15	w	وَلَآ		ولا	and not	walā
+11	5:3:16	w	ءَآمِّينَ		امين	(those) coming	āmmīna
+11	5:3:17	w	ࡰ۬لْبَيْتَ		البيت	(to) the House	l-bayta
+11	5:3:18	w	ࡰ۬لْحَرَامَ		الحرام	the Sacred	l-ḥarāma
+12	5:3:19	w	يَبْتَغُونَ		يبتغون	seeking	yabtaghūna
+12	5:3:20	w	فَضْلاࣰ		فضلا	Bounty	faḍlan
+12	5:3:21	w	مِّن		من	of	min
+12	5:3:22	w	رَّبِّهِمْ		ربهم	their Lord	rabbihim
+12	5:3:23	w	وَرِضْوَٰناࣰ࣌		ورضونا	and good pleasure	wariḍ'wānan
+12	5:3:24	w	وَإِذَا		واذا	And when	wa-idhā
+12	5:3:25	w	حَلَلْتُمْ		حللتم	you come out of Ihram	ḥalaltum
+12	5:3:26	w	فَاصْطَادُواْ࣌		فاصطادوا	then (you may) hunt	fa-iṣ'ṭādū
+13	5:3:27	w	وَلَا		ولا	And let not	walā
+13	5:3:28	w	يَجْرِمَنَّكُمْ		يجرمنكم	incite you	yajrimannakum
+13	5:3:29	w	شَنَـَٔانُ		شنان	(the) hatred	shanaānu
+13	5:3:30	w	قَوْمٍ		قوم	(for) a people	qawmin
+13	5:3:31	w	ࡰن		ان	as	an
+13	5:3:32	w	صَدُّوكُمْ		صدوكم	they stopped you	ṣaddūkum
+13	5:3:33	w	عَنِ		عن	from	ʿani
+13	5:3:34	w	ࡴ۬لْمَسْجِدِ		المسجد	Al-Masjid	l-masjidi
+13	5:3:35	w	ࡴ۬لْحَرَامِ		الحرام	Al-Haraam	l-ḥarāmi
+14	5:3:36	w	أَن		ان	that	an
+14	5:3:37	w	تَعْتَدُواْ࣌		تعتدوا	you commit transgression	taʿtadū
+14	5:3:38	w	وَتَعَاوَنُواْ		وتعاونوا	And help one another	wataʿāwanū
+14	5:3:39	w	عَلَى		علي	in	ʿalā
+14	5:3:40	w	ࡰ۬لْبِرِّ		البر	[the] righteousness	l-biri
+14	5:3:41	w	وَالتَّقْوٜىٰ࣌		والتقوي	and [the] piety	wal-taqwā
+14	5:3:42	w	وَلَا		ولا	but (do) not	walā
+14	5:3:43	w	تَعَاوَنُواْ		تعاونوا	help one another	taʿāwanū
+14	5:3:44	w	عَلَى		علي	in	ʿalā
+15	5:3:45	w	ࡰ۬لِاثْمِ		الاثم	[the] sin	l-ith'mi
+15	5:3:46	w	وَالْعُدْوَٰنِ࣌		والعدون	and [the] transgression	wal-ʿud'wāni
+15	5:3:47	w	وَاتَّقُواْ		واتقوا	And fear	wa-ittaqū
+15	5:3:48	w	ࡲ۬للَّهَ࣌		الله	Allah	l-laha
+15	5:3:49	w	إِنَّ		ان	indeed	inna
+15	5:3:50	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	5:3:51	w	شَدِيدُ		شديد	(is) severe	shadīdu
+15	5:3:52	w	ࡲ۬لْعِقَابِ࣌		العقاب	(in) [the] punishment	l-ʿiqābi
+15	5:3:53	e	۝٣				

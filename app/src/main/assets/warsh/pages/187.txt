@@ -1,0 +1,128 @@
+1	9:0:0	t					
+2	9:1:1	w	بَرَآءَةࣱ		براة	Freedom from obligations	barāatun
+2	9:1:2	w	مِّنَ		من	from	mina
+2	9:1:3	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+2	9:1:4	w	وَرَسُولِهِۦٓ		ورسولهي	and His Messenger	warasūlihi
+2	9:1:5	w	إِلَى		الي	to	ilā
+2	9:1:6	w	ࡰ۬لذِينَ		الذين	those (with) whom	alladhīna
+2	9:1:7	w	عَٰهَدتُّم		عهدتم	you made a covenant	ʿāhadttum
+2	9:1:8	w	مِّنَ		من	from	mina
+2	9:1:9	w	ࡰ۬لْمُشْرِكِينَ࣌		المشركين	the polytheists	l-mush'rikīna
+2	9:1:10	e	۝١				
+3	9:2:1	w	فَسِيحُواْ		فسيحوا	So move about	fasīḥū
+3	9:2:2	w	فِے		في	in	fī
+3	9:2:3	w	ࡴ۬لَارْضِ		الارض	the land	l-arḍi
+3	9:2:4	w	أَرْبَعَةَ		اربعة	(during) four	arbaʿata
+3	9:2:5	w	أَشْهُرࣲ࣌		اشهر	months	ashhurin
+3	9:2:6	w	وَاعْلَمُوٓاْ		واعلموا	but know	wa-iʿ'lamū
+3	9:2:7	w	أَنَّكُمْ		انكم	that you	annakum
+3	9:2:8	w	غَيْرُ		غير	(can) not	ghayru
+3	9:2:9	w	مُعْجِزِے		معجزي	escape	muʿ'jizī
+4	9:2:10	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+4	9:2:11	w	وَأَنَّ		وان	and that	wa-anna
+4	9:2:12	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	9:2:13	w	مُخْزِے		مخزي	(is) the One Who (will) disgrace	mukh'zī
+4	9:2:14	w	ࡴ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+4	9:2:15	e	۝٢				
+4	9:3:1	w	وَأَذَٰنࣱ		واذن	And an announcement	wa-adhānun
+4	9:3:2	w	مِّنَ		من	from Allah	mina
+4	9:3:3	w	ࡰ۬للَّهِ		الله	from Allah	l-lahi
+4	9:3:4	w	وَرَسُولِهِۦٓ		ورسولهي	and His Messenger	warasūlihi
+5	9:3:5	w	إِلَى		الي	to	ilā
+5	9:3:6	w	ࡰ۬لنَّاسِ		الناس	the people	l-nāsi
+5	9:3:7	w	يَوْمَ		يوم	(on the) day	yawma
+5	9:3:8	w	ࡰ۬لْحَجِّ		الحج	(of) the greater Pilgrimage	l-ḥaji
+5	9:3:9	w	ࡴ۬لَاكْبَرِ		الاكبر	(of) the greater Pilgrimage	l-akbari
+5	9:3:10	w	أَنَّ		ان	that	anna
+5	9:3:11	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	9:3:12	w	بَرِےٓءࣱ		بري	(is) free from obligations	barīon
+5	9:3:13	w	مِّنَ		من	[of]	mina
+5	9:3:14	w	ࡰ۬لْمُشْرِكِينَ		المشركين	(to) the polytheists	l-mush'rikīna
+6	9:3:15	w	وَرَسُولُهُۥ࣌		ورسوله	and (so is) His Messenger	warasūluhu
+6	9:3:16	w	فَإِن		فان	So if	fa-in
+6	9:3:17	w	تُبْتُمْ		تبتم	you repent	tub'tum
+6	9:3:18	w	فَهُوَ		فهو	then, it is	fahuwa
+6	9:3:19	w	خَيْرࣱ		خير	best	khayrun
+6	9:3:20	w	لَّكُمْ࣌		لكم	for you	lakum
+6	9:3:21	w	وَإِن		وان	But if	wa-in
+6	9:3:22	w	تَوَلَّيْتُمْ		توليتم	you turn away	tawallaytum
+6	9:3:23	w	فَاعْلَمُوٓاْ		فاعلموا	then know	fa-iʿ'lamū
+7	9:3:24	w	أَنَّكُمْ		انكم	that you	annakum
+7	9:3:25	w	غَيْرُ		غير	(can) not	ghayru
+7	9:3:26	w	مُعْجِزِے		معجزي	escape	muʿ'jizī
+7	9:3:27	w	ࡴ۬للَّهِ࣌		الله	Allah	l-lahi
+7	9:3:28	w	وَبَشِّرِ		وبشر	And give glad tidings	wabashiri
+7	9:3:29	w	ࡴ۬لذِينَ		الذين	(to) those who	alladhīna
+7	9:3:30	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+7	9:3:31	w	بِعَذَابٍ		بعذاب	of a punishment	biʿadhābin
+7	9:3:32	w	ࡰلِيمٍ		اليم	painful	alīmin
+7	9:3:33	e	۝٣				
+8	9:4:1	w	ࡴلَّا		الا	Except	illā
+8	9:4:2	w	ࡰ۬لذِينَ		الذين	those (with) whom	alladhīna
+8	9:4:3	w	عَٰهَدتُّم		عهدتم	you have a covenant	ʿāhadttum
+8	9:4:4	w	مِّنَ		من	among	mina
+8	9:4:5	w	ࡰ۬لْمُشْرِكِينَ		المشركين	the polytheists	l-mush'rikīna
+8	9:4:6	w	ثُمَّ		ثم	then	thumma
+8	9:4:7	w	لَمْ		لم	not	lam
+8	9:4:8	w	يَنقُصُوكُمْ		ينقصوكم	they have failed you	yanquṣūkum
+8	9:4:9	w	شَيْـٔاࣰ		شيا	(in any) thing	shayan
+8	9:4:10	w	وَلَمْ		ولم	and not	walam
+9	9:4:11	w	يُظَٰهِرُواْ		يظهروا	they have supported	yuẓāhirū
+9	9:4:12	w	عَلَيْكُمُۥٓ		عليكم	against you	ʿalaykum
+9	9:4:13	w	أَحَداࣰ		احدا	anyone	aḥadan
+9	9:4:14	w	فَأَتِمُّوٓاْ		فاتموا	so fulfil	fa-atimmū
+9	9:4:15	w	إِلَيْهِمْ		اليهم	to them	ilayhim
+9	9:4:16	w	عَهْدَهُمُۥٓ		عهدهم	their treaty	ʿahdahum
+9	9:4:17	w	إِلَىٰ		الي	till	ilā
+9	9:4:18	w	مُدَّتِهِمُۥٓ࣌		مدتهم	their term	muddatihim
+10	9:4:19	w	إِنَّ		ان	Indeed	inna
+10	9:4:20	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	9:4:21	w	يُحِبُّ		يحب	loves	yuḥibbu
+10	9:4:22	w	ࡲ۬لْمُتَّقِينَ࣌		المتقين	the righteous	l-mutaqīna
+10	9:4:23	e	۝٤				
+10	9:5:1	w	۞ فَإِذَا		فاذا	Then when	fa-idhā
+10	9:5:2	w	ࡰٜنسَلَخَ		انسلخ	have passed	insalakha
+10	9:5:3	w	ࡰ۬لَاشْهُرُ		الاشهر	the sacred months	l-ashhuru
+10	9:5:4	w	ࡲ۬لْحُرُمُ		الحرم	the sacred months	l-ḥurumu
+11	9:5:5	w	فَاقْتُلُواْ		فاقتلوا	then kill	fa-uq'tulū
+11	9:5:6	w	ࡲ۬لْمُشْرِكِينَ		المشركين	the polytheists	l-mush'rikīna
+11	9:5:7	w	حَيْثُ		حيث	wherever	ḥaythu
+11	9:5:8	w	وَجَدتُّمُوهُمْ		وجدتموهم	you find them	wajadttumūhum
+11	9:5:9	w	وَخُذُوهُمْ		وخذوهم	and seize them	wakhudhūhum
+11	9:5:10	w	وَاحْصُرُوهُمْ		واحصروهم	and besiege them	wa-uḥ'ṣurūhum
+12	9:5:11	w	وَاقْعُدُواْ		واقعدوا	and sit (in wait)	wa-uq'ʿudū
+12	9:5:12	w	لَهُمْ		لهم	for them	lahum
+12	9:5:13	w	كُلَّ		كل	(at) every	kulla
+12	9:5:14	w	مَرْصَدࣲ࣌		مرصد	place of ambush	marṣadin
+12	9:5:15	w	فَإِن		فان	But if	fa-in
+12	9:5:16	w	تَابُواْ		تابوا	they repent	tābū
+12	9:5:17	w	وَأَقَامُواْ		واقاموا	and establish	wa-aqāmū
+12	9:5:18	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+12	9:5:19	w	وَءَاتَوُاْ		واتوا	and give	waātawū
+13	9:5:20	w	ࡲ۬لزَّكَوٰةَ		الزكوة	the zakah	l-zakata
+13	9:5:21	w	فَخَلُّواْ		فخلوا	then leave	fakhallū
+13	9:5:22	w	سَبِيلَهُمُۥٓ࣌		سبيلهم	their way	sabīlahum
+13	9:5:23	w	إِنَّ		ان	Indeed	inna
+13	9:5:24	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+13	9:5:25	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+13	9:5:26	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+13	9:5:27	e	۝٥				
+13	9:6:1	w	وَإِنَ		وان	And if	wa-in
+13	9:6:2	w	ࡰحَدࣱ		احد	anyone	aḥadun
+14	9:6:3	w	مِّنَ		من	of	mina
+14	9:6:4	w	ࡰ۬لْمُشْرِكِينَ		المشركين	the polytheists	l-mush'rikīna
+14	9:6:5	w	ࡰٜسْتَجَارَكَ		استجارك	seek your protection	is'tajāraka
+14	9:6:6	w	فَأَجِرْهُ		فاجره	then grant him protection	fa-ajir'hu
+14	9:6:7	w	حَتَّىٰ		حتي	until	ḥattā
+14	9:6:8	w	يَسْمَعَ		يسمع	he hears	yasmaʿa
+14	9:6:9	w	كَلَٰمَ		كلم	(the) Words of Allah	kalāma
+15	9:6:10	w	ࡰ۬للَّهِ		الله	(the) Words of Allah	l-lahi
+15	9:6:11	w	ثُمَّ		ثم	Then	thumma
+15	9:6:12	w	أَبْلِغْهُ		ابلغه	escort him	abligh'hu
+15	9:6:13	w	مَامَنَهُۥ࣌		مامنه	(to) his place of safety	mamanahu
+15	9:6:14	w	ذَٰلِكَ		ذلك	That	dhālika
+15	9:6:15	w	بِأَنَّهُمْ		بانهم	(is) because they	bi-annahum
+15	9:6:16	w	قَوْمࣱ		قوم	(are) a people	qawmun
+15	9:6:17	w	لَّا		لا	(who) do not know	lā
+15	9:6:18	w	يَعْلَمُونَ࣌		يعلمون	(who) do not know	yaʿlamūna
+15	9:6:19	e	۝٦				

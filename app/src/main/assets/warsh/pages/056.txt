@@ -1,0 +1,133 @@
+1	3:46:1	w	وَيُكَلِّمُ		ويكلم	And he will speak	wayukallimu
+1	3:46:2	w	ࡲ۬لنَّاسَ		الناس	(to) the people	l-nāsa
+1	3:46:3	w	فِے		في	in	fī
+1	3:46:4	w	ࡴ۬لْمَهْدِ		المهد	the cradle	l-mahdi
+1	3:46:5	w	وَكَهْلاࣰ࣌		وكهلا	and (in) maturity	wakahlan
+1	3:46:6	w	وَمِنَ		ومن	and (he will be) of	wamina
+1	3:46:7	w	ࡰ۬لصَّٰلِحِينَ࣌		الصلحين	the righteous	l-ṣāliḥīna
+1	3:46:8	e	۝٤٦				
+2	3:47:1	w	قَالَتْ		قالت	She said	qālat
+2	3:47:2	w	رَبِّ		رب	My Lord	rabbi
+2	3:47:3	w	أَنّٜىٰ		اني	how	annā
+2	3:47:4	w	يَكُونُ		يكون	is [it]	yakūnu
+2	3:47:5	w	لِے		لي	for me	lī
+2	3:47:6	w	وَلَدࣱ		ولد	a boy	waladun
+2	3:47:7	w	وَلَمْ		ولم	and (has) not	walam
+2	3:47:8	w	يَمْسَسْنِے		يمسسني	touch(ed) me	yamsasnī
+2	3:47:9	w	بَشَرࣱ࣌		بشر	any man	basharun
+2	3:47:10	w	قَالَ		قال	He said	qāla
+2	3:47:11	w	كَذَٰلِكِ࣌		كذلك	Thus	kadhāliki
+3	3:47:12	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+3	3:47:13	w	يَخْلُقُ		يخلق	creates	yakhluqu
+3	3:47:14	w	مَا		ما	what	mā
+3	3:47:15	w	يَشَآءُ࣌		يشا	He wills	yashāu
+3	3:47:16	w	ࡹِذَا		اذا	When	idhā
+3	3:47:17	w	قَضٜىٰٓ		قضي	He decrees	qaḍā
+3	3:47:18	w	أَمْراࣰ		امرا	a matter	amran
+3	3:47:19	w	فَإِنَّمَا		فانما	then only	fa-innamā
+3	3:47:20	w	يَقُولُ		يقول	He says	yaqūlu
+3	3:47:21	w	لَهُۥ		له	to it	lahu
+3	3:47:22	w	كُن࣌		كن	Be	kun
+3	3:47:23	w	فَيَكُونُ࣌		فيكون	and it becomes	fayakūnu
+3	3:47:24	e	۝٤٧				
+4	3:48:1	w	وَيُعَلِّمُهُ		ويعلمه	And He will teach him	wayuʿallimuhu
+4	3:48:2	w	ࡲ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+4	3:48:3	w	وَالْحِكْمَةَ		والحكمة	and [the] wisdom	wal-ḥik'mata
+4	3:48:4	w	وَالتَّوْرٜيٰةَ		والتورية	and the Taurat	wal-tawrāta
+4	3:48:5	w	وَالِانجِيلَ		والانجيل	and the Injeel	wal-injīla
+5	3:48:6	w	وَرَسُولاً		ورسولا	And (make him) a Messenger	warasūlan
+5	3:48:7	w	ࡴلَىٰ		الي	to	ilā
+5	3:48:8	w	بَنِےٓ		بني	(the) Children	banī
+5	3:48:9	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+5	3:48:10	w	أَنِّے		اني	Indeed, I	annī
+5	3:48:11	w	قَدْ		قد	[surely]	qad
+5	3:48:12	w	جِئْتُكُم		جيتكم	[I] (have) come (to) you	ji'tukum
+5	3:48:13	w	بِـَٔايَةࣲ		باية	with a sign	biāyatin
+5	3:48:14	w	مِّن		من	from	min
+6	3:48:15	w	رَّبِّكُمُۥٓ࣌		ربكم	your Lord	rabbikum
+6	3:48:16	w	إِنِّيَ		اني	that I	annī
+6	3:48:17	w	أَخْلُقُ		اخلق	[I] design	akhluqu
+6	3:48:18	w	لَكُم		لكم	for you	lakum
+6	3:48:19	w	مِّنَ		من	from	mina
+6	3:48:20	w	ࡰ۬لطِّينِ		الطين	[the] clay	l-ṭīni
+6	3:48:21	w	كَهَيْـَٔةِ		كهية	like the form	kahayati
+6	3:48:22	w	ࡴ۬لطَّيْرِ		الطير	(of) the bird	l-ṭayri
+6	3:48:23	w	فَأَنفُخُ		فانفخ	then I breath	fa-anfukhu
+7	3:48:24	w	فِيهِ		فيه	into it	fīhi
+7	3:48:25	w	فَيَكُونُ		فيكون	and it becomes	fayakūnu
+7	3:48:26	w	طَٰٓئِراَۢ		طيرا	a bird	ṭayran
+7	3:48:27	w	بِإِذْنِ		باذن	by (the) permission	bi-idh'ni
+7	3:48:28	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+7	3:48:29	w	وَأُبْرِۓُ		وابري	And I cure	wa-ub'ri-u
+7	3:48:30	w	ࡲ۬لَاكْمَهَ		الاكمه	the blind	l-akmaha
+7	3:48:31	w	وَالَابْرَصَ		والابرص	and the leper	wal-abraṣa
+8	3:48:32	w	وَأُحْيِ		واحي	and I give life	wa-uḥ'yī
+8	3:48:33	w	ࡴ۬لْمَوْتٜىٰ		الموتي	(to) the dead	l-mawtā
+8	3:48:34	w	بِإِذْنِ		باذن	by (the) permission	bi-idh'ni
+8	3:48:35	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+8	3:48:36	w	وَأُنَبِّئُكُم		وانبيكم	And I inform you	wa-unabbi-ukum
+8	3:48:37	w	بِمَا		بما	of what	bimā
+8	3:48:38	w	تَاكُلُونَ		تاكلون	you eat	takulūna
+8	3:48:39	w	وَمَا		وما	and what	wamā
+8	3:48:40	w	تَدَّخِرُونَ		تدخرون	you store	taddakhirūna
+9	3:48:41	w	فِے		في	in	fī
+9	3:48:42	w	بُيُوتِكُمُۥٓ࣌		بيوتكم	your houses	buyūtikum
+9	3:48:43	w	إِنَّ		ان	Indeed	inna
+9	3:48:44	w	فِے		في	in	fī
+9	3:48:45	w	ذَٰلِكَ		ذلك	that	dhālika
+9	3:48:46	w	لَأٓيَةࣰ		لاية	(is) surely a sign	laāyatan
+9	3:48:47	w	لَّكُمُۥٓ		لكم	for you	lakum
+9	3:48:48	w	إِن		ان	if	in
+9	3:48:49	w	كُنتُم		كنتم	you are	kuntum
+9	3:48:50	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+9	3:48:51	e	۝٤٨				
+10	3:49:1	w	وَمُصَدِّقاࣰ		ومصدقا	And confirming	wamuṣaddiqan
+10	3:49:2	w	لِّمَا		لما	that which	limā
+10	3:49:3	w	بَيْنَ		بين	(was)	bayna
+10	3:49:4	w	يَدَيَّ		يدي	before me	yadayya
+10	3:49:5	w	مِنَ		من	of	mina
+10	3:49:6	w	ࡰ۬لتَّوْرٜيٰةِ		التورية	the Taurat	l-tawrāti
+10	3:49:7	w	وَلِأُحِلَّ		ولاحل	and so that I make lawful	wali-uḥilla
+10	3:49:8	w	لَكُم		لكم	for you	lakum
+11	3:49:9	w	بَعْضَ		بعض	some	baʿḍa
+11	3:49:10	w	ࡰ۬لذِے		الذي	(of) that which	alladhī
+11	3:49:11	w	حُرِّمَ		حرم	was forbidden	ḥurrima
+11	3:49:12	w	عَلَيْكُمْ࣌		عليكم	to you	ʿalaykum
+11	3:49:13	w	وَجِئْتُكُم		وجيتكم	And I (have) come to you	waji'tukum
+11	3:49:14	w	بِـَٔايَةࣲ		باية	with a sign	biāyatin
+11	3:49:15	w	مِّن		من	from	min
+11	3:49:16	w	رَّبِّكُمْ࣌		ربكم	your Lord	rabbikum
+12	3:49:17	w	فَاتَّقُواْ		فاتقوا	So fear	fa-ittaqū
+12	3:49:18	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+12	3:49:19	w	وَأَطِيعُونِ࣌		واطيعون	and obey me	wa-aṭīʿūni
+12	3:49:20	e	۝٤٩				
+12	3:50:1	w	إِنَّ		ان	Indeed	inna
+12	3:50:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+12	3:50:3	w	رَبِّے		ربي	(is) my Lord	rabbī
+12	3:50:4	w	وَرَبُّكُمْ		وربكم	and your Lord	warabbukum
+12	3:50:5	w	فَاعْبُدُوهُ࣌		فاعبدوه	so worship Him	fa-uʿ'budūhu
+13	3:50:6	w	هَٰذَا		هذا	This	hādhā
+13	3:50:7	w	صِرَٰطࣱ		صرط	(is) the path	ṣirāṭun
+13	3:50:8	w	مُّسْتَقِيمࣱ࣌		مستقيم	straight	mus'taqīmun
+13	3:50:9	e	۝٥٠				
+13	3:51:1	w	۞ فَلَمَّآ		فلما	Then when	falammā
+13	3:51:2	w	أَحَسَّ		احس	perceived	aḥassa
+13	3:51:3	w	عِيسٜىٰ		عيسي	Isa	ʿīsā
+13	3:51:4	w	مِنْهُمُ		منهم	from them	min'humu
+14	3:51:5	w	ࡲ۬لْكُفْرَ		الكفر	[the] disbelief	l-kuf'ra
+14	3:51:6	w	قَالَ		قال	he said	qāla
+14	3:51:7	w	مَنَ		من	Who	man
+14	3:51:8	w	ࡰنصَارِيَ		انصاري	(will be) my helpers	anṣārī
+14	3:51:9	w	إِلَى		الي	to	ilā
+14	3:51:10	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+14	3:51:11	w	قَالَ		قال	Said	qāla
+14	3:51:12	w	ࡰ۬لْحَوَارِيُّونَ		الحواريون	the disciples	l-ḥawāriyūna
+14	3:51:13	w	نَحْنُ		نحن	We	naḥnu
+15	3:51:14	w	أَنصَارُ		انصار	(will be the) helpers	anṣāru
+15	3:51:15	w	ࡲ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+15	3:51:16	w	ءَامَنَّا		امنا	we believe[d]	āmannā
+15	3:51:17	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+15	3:51:18	w	وَاشْهَدْ		واشهد	and bear witness	wa-ish'had
+15	3:51:19	w	بِأَنَّا		بانا	that we	bi-annā
+15	3:51:20	w	مُسْلِمُونَ࣌		مسلمون	(are) Muslims	mus'limūna
+15	3:51:21	e	۝٥١				

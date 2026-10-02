@@ -16,6 +16,7 @@ import org.mushaf.app.core.hifz.PageState
 import org.mushaf.app.core.hifz.Runs
 import org.mushaf.app.core.hifz.Schedule
 import org.mushaf.app.core.quran.AyahKey
+import org.mushaf.app.core.quran.Riwayah
 import org.mushaf.app.data.quran.Quran
 
 /** How new ayat are learnt. */
@@ -46,11 +47,13 @@ data class HifzFile(
 /**
  * What the reader knows by heart and when to revise it, in one file on the
  * phone. An ayah is known or not; a page is revised as a whole, the ayat of
- * it that are known.
+ * it that are known. One file per riwayah: its ayat and pages are its own.
  */
-class Hifz(context: Context, private val quran: Quran) {
+class Hifz(context: Context, private val quran: Quran, riwayah: Riwayah) {
 
-    private val file = File(context.filesDir, "hifz.json")
+    private val dir = context.filesDir
+    @Volatile private var riwayah = riwayah
+    private val file: File get() = File(dir, riwayah.file("hifz"))
     private val json = Json { ignoreUnknownKeys = true }
 
     private val _state = MutableStateFlow(load())
@@ -61,6 +64,14 @@ class Hifz(context: Context, private val quran: Quran) {
     private fun save(updated: HifzFile) {
         _state.value = updated
         runCatching { file.writeTextAtomically(json.encodeToString(updated)) }
+    }
+
+    /** Reads the hifz of [r], once the reader has changed riwayah. */
+    fun use(r: Riwayah) {
+        if (r == riwayah) return
+        riwayah = r
+        lineCache = null
+        _state.value = load()
     }
 
     fun today(): Int = LocalDate.now().toEpochDay().toInt()

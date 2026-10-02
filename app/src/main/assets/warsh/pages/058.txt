@@ -1,0 +1,143 @@
+1	3:61:1	w	إِنَّ		ان	Indeed	inna
+1	3:61:2	w	هَٰذَا		هذا	this	hādhā
+1	3:61:3	w	لَهُوَ		لهو	surely it (is)	lahuwa
+1	3:61:4	w	ࡰ۬لْقَصَصُ		القصص	the narration	l-qaṣaṣu
+1	3:61:5	w	ࡲ۬لْحَقُّ࣌		الحق	[the] true	l-ḥaqu
+1	3:61:6	w	وَمَا		وما	And (there is) no	wamā
+1	3:61:7	w	مِنِ		من	(of)	min
+1	3:61:8	w	ࡴلَٰهٍ		اله	god	ilāhin
+1	3:61:9	w	ࡴلَّا		الا	except	illā
+1	3:61:10	w	ࡰ۬للَّهُ࣌		الله	Allah	l-lahu
+1	3:61:11	w	وَإِنَّ		وان	And indeed	wa-inna
+1	3:61:12	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	3:61:13	w	لَهُوَ		لهو	surely He	lahuwa
+2	3:61:14	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+2	3:61:15	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+2	3:61:16	e	۝٦١				
+2	3:62:1	w	فَإِن		فان	And if	fa-in
+2	3:62:2	w	تَوَلَّوْاْ		تولوا	they turn back	tawallaw
+2	3:62:3	w	فَإِنَّ		فان	then indeed	fa-inna
+2	3:62:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+2	3:62:5	w	عَلِيمُۢ		عليم	(is) All-Knowing	ʿalīmun
+2	3:62:6	w	بِالْمُفْسِدِينَ࣌		بالمفسدين	of the corrupters	bil-muf'sidīna
+2	3:62:7	e	۝٦٢				
+3	3:63:1	w	۞ قُلْ		قل	Say	qul
+3	3:63:2	w	يَٰٓأَهْلَ		ياهل	O People	yāahla
+3	3:63:3	w	ࡰ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+3	3:63:4	w	تَعَالَوِاْ		تعالوا	Come	taʿālaw
+3	3:63:5	w	ࡴلَىٰ		الي	to	ilā
+3	3:63:6	w	كَلِمَةࣲ		كلمة	a word	kalimatin
+3	3:63:7	w	سَوَآءِۢ		سوا	equitable	sawāin
+3	3:63:8	w	بَيْنَنَا		بيننا	between us	baynanā
+4	3:63:9	w	وَبَيْنَكُمُۥٓ		وبينكم	and between you	wabaynakum
+4	3:63:10	w	أَلَّا		الا	that not	allā
+4	3:63:11	w	نَعْبُدَ		نعبد	we worship	naʿbuda
+4	3:63:12	w	إِلَّا		الا	except	illā
+4	3:63:13	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	3:63:14	w	وَلَا		ولا	and not	walā
+4	3:63:15	w	نُشْرِكَ		نشرك	we associate partners	nush'rika
+4	3:63:16	w	بِهِۦ		بهي	with Him	bihi
+4	3:63:17	w	شَيْـٔاࣰ		شيا	anything	shayan
+4	3:63:18	w	وَلَا		ولا	and not	walā
+4	3:63:19	w	يَتَّخِذَ		يتخذ	take	yattakhidha
+5	3:63:20	w	بَعْضُنَا		بعضنا	some of us	baʿḍunā
+5	3:63:21	w	بَعْضاً		بعضا	(to) others	baʿḍan
+5	3:63:22	w	ࡰرْبَاباࣰ		اربابا	(as) lords	arbāban
+5	3:63:23	w	مِّن		من	from	min
+5	3:63:24	w	دُونِ		دون	besides	dūni
+5	3:63:25	w	ࡴ۬للَّهِ࣌		الله	Allah	l-lahi
+5	3:63:26	w	فَإِن		فان	Then if	fa-in
+5	3:63:27	w	تَوَلَّوْاْ		تولوا	they turn away	tawallaw
+5	3:63:28	w	فَقُولُواْ		فقولوا	then say	faqūlū
+5	3:63:29	w	ࡲٜشْهَدُواْ		اشهدوا	Bear witness	ish'hadū
+6	3:63:30	w	بِأَنَّا		بانا	that we	bi-annā
+6	3:63:31	w	مُسْلِمُونَ࣌		مسلمون	(are) Muslims	mus'limūna
+6	3:63:32	e	۝٦٣				
+6	3:64:1	w	يَٰٓأَهْلَ		ياهل	O People	yāahla
+6	3:64:2	w	ࡰ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+6	3:64:3	w	لِمَ		لم	Why	lima
+6	3:64:4	w	تُحَآجُّونَ		تحاجون	(do) you argue	tuḥājjūna
+6	3:64:5	w	فِےٓ		في	concerning	fī
+6	3:64:6	w	إِبْرَٰهِيمَ࣌		ابرهيم	Ibrahim	ib'rāhīma
+7	3:64:7	w	وَمَآ		وما	while not	wamā
+7	3:64:8	w	أُنزِلَتِ		انزلت	was revealed	unzilati
+7	3:64:9	w	ࡴ۬لتَّوْرٜيٰةُ		التورية	the Taurat	l-tawrātu
+7	3:64:10	w	وَالِانجِيلُ		والانجيل	and the Injeel	wal-injīlu
+7	3:64:11	w	إِلَّا		الا	except	illā
+7	3:64:12	w	مِنۢ		من	from	min
+7	3:64:13	w	بَعْدِهِۦٓ࣌		بعدهي	after him	baʿdihi
+7	3:64:14	w	أَفَلَا		افلا	Then why don't	afalā
+7	3:64:15	w	تَعْقِلُونَ࣌		تعقلون	you use your intellect	taʿqilūna
+7	3:64:16	e	۝٦٤				
+8	3:65:1	w	هَآنتُمْ		هانتم	Here you are	hāantum
+8	3:65:2	w	هَٰٓؤُلَآءِ		هولا	those who	hāulāi
+8	3:65:3	w	حَٰجَجْتُمْ		حججتم	argued	ḥājajtum
+8	3:65:4	w	فِيمَا		فيما	about what	fīmā
+8	3:65:5	w	لَكُم		لكم	[for] you	lakum
+8	3:65:6	w	بِهِۦ		بهي	of it	bihi
+8	3:65:7	w	عِلْمࣱ		علم	(have some) knowledge	ʿil'mun
+8	3:65:8	w	فَلِمَ		فلم	Then why	falima
+9	3:65:9	w	تُحَآجُّونَ		تحاجون	(do) you argue	tuḥājjūna
+9	3:65:10	w	فِيمَا		فيما	about what	fīmā
+9	3:65:11	w	لَيْسَ		ليس	not	laysa
+9	3:65:12	w	لَكُم		لكم	for you	lakum
+9	3:65:13	w	بِهِۦ		بهي	of it	bihi
+9	3:65:14	w	عِلْمࣱ࣌		علم	(any) knowledge	ʿil'mun
+9	3:65:15	w	وَاللَّهُ		والله	And Allah	wal-lahu
+9	3:65:16	w	يَعْلَمُ࣌		يعلم	knows	yaʿlamu
+9	3:65:17	w	وَأَنتُمْ		وانتم	while you	wa-antum
+10	3:65:18	w	لَا		لا	(do) not	lā
+10	3:65:19	w	تَعْلَمُونَ࣌		تعلمون	know	taʿlamūna
+10	3:65:20	e	۝٦٥				
+10	3:66:1	w	مَا		ما	Not	mā
+10	3:66:2	w	كَانَ		كان	was	kāna
+10	3:66:3	w	إِبْرَٰهِيمُ		ابرهيم	Ibrahim	ib'rāhīmu
+10	3:66:4	w	يَهُودِيّاࣰ		يهوديا	a Jew	yahūdiyyan
+10	3:66:5	w	وَلَا		ولا	and not	walā
+10	3:66:6	w	نَصْرَانِيّاࣰ		نصرانيا	a Christian	naṣrāniyyan
+11	3:66:7	w	وَلَٰكِن		ولكن	[and] but	walākin
+11	3:66:8	w	كَانَ		كان	he was	kāna
+11	3:66:9	w	حَنِيفاࣰ		حنيفا	a true	ḥanīfan
+11	3:66:10	w	مُّسْلِماࣰ࣌		مسلما	Muslim	mus'liman
+11	3:66:11	w	وَمَا		وما	and not	wamā
+11	3:66:12	w	كَانَ		كان	he was	kāna
+11	3:66:13	w	مِنَ		من	from	mina
+11	3:66:14	w	ࡰ۬لْمُشْرِكِينَ࣌		المشركين	the polytheists	l-mush'rikīna
+11	3:66:15	e	۝٦٦				
+12	3:67:1	w	إِنَّ		ان	Indeed	inna
+12	3:67:2	w	أَوْلَى		اولي	the best to claim relationship	awlā
+12	3:67:3	w	ࡰ۬لنَّاسِ		الناس	(of) people	l-nāsi
+12	3:67:4	w	بِإِبْرَٰهِيمَ		بابرهيم	with Ibrahim	bi-ib'rāhīma
+12	3:67:5	w	لَلذِينَ		للذين	(are) those who	lalladhīna
+12	3:67:6	w	ࡰٜتَّبَعُوهُ		اتبعوه	follow him	ittabaʿūhu
+12	3:67:7	w	وَهَٰذَا		وهذا	and this	wahādhā
+12	3:67:8	w	ࡰ۬لنَّبِےٓءُ		النبي	[the] Prophet	l-nabiyu
+12	3:67:9	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+13	3:67:10	w	ءَامَنُواْ࣌		امنوا	believe[d]	āmanū
+13	3:67:11	w	وَاللَّهُ		والله	And Allah	wal-lahu
+13	3:67:12	w	وَلِيُّ		ولي	(is) a Guardian	waliyyu
+13	3:67:13	w	ࡲ۬لْمُومِنِينَ࣌		المومنين	(of) the believers	l-mu'minīna
+13	3:67:14	e	۝٦٧				
+13	3:68:1	w	وَدَّت		ودت	Wished	waddat
+13	3:68:2	w	طَّآئِفَةࣱ		طايفة	a group	ṭāifatun
+13	3:68:3	w	مِّنَ		من	from	min
+13	3:68:4	w	ࡰهْلِ		اهل	(the) People	ahli
+13	3:68:5	w	ࡴ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+14	3:68:6	w	لَوْ		لو	if	law
+14	3:68:7	w	يُضِلُّونَكُمْ࣌		يضلونكم	they could lead you astray	yuḍillūnakum
+14	3:68:8	w	وَمَا		وما	and not	wamā
+14	3:68:9	w	يُضِلُّونَ		يضلون	they lead astray	yuḍillūna
+14	3:68:10	w	إِلَّآ		الا	except	illā
+14	3:68:11	w	أَنفُسَهُمْ		انفسهم	themselves	anfusahum
+14	3:68:12	w	وَمَا		وما	and not	wamā
+14	3:68:13	w	يَشْعُرُونَ࣌		يشعرون	they perceive	yashʿurūna
+14	3:68:14	e	۝٦٨				
+14	3:69:1	w	يَٰٓأَهْلَ		ياهل	O People	yāahla
+15	3:69:2	w	ࡰ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+15	3:69:3	w	لِمَ		لم	Why do	lima
+15	3:69:4	w	تَكْفُرُونَ		تكفرون	you deny	takfurūna
+15	3:69:5	w	بِـَٔايَٰتِ		بايت	[in] the Signs	biāyāti
+15	3:69:6	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+15	3:69:7	w	وَأَنتُمْ		وانتم	while you	wa-antum
+15	3:69:8	w	تَشْهَدُونَ࣌		تشهدون	bear witness	tashhadūna
+15	3:69:9	e	۝٦٩				

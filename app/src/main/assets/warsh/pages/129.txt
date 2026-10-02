@@ -1,0 +1,142 @@
+1	6:10:1	w	وَلَوْ		ولو	And if	walaw
+1	6:10:2	w	جَعَلْنَٰهُ		جعلنه	We had made him	jaʿalnāhu
+1	6:10:3	w	مَلَكاࣰ		ملكا	an Angel	malakan
+1	6:10:4	w	لَّجَعَلْنَٰهُ		لجعلنه	certainly We (would) have made him	lajaʿalnāhu
+1	6:10:5	w	رَجُلاࣰ		رجلا	a man	rajulan
+1	6:10:6	w	وَلَلَبَسْنَا		وللبسنا	and certainly We (would) have obscured	walalabasnā
+1	6:10:7	w	عَلَيْهِم		عليهم	to them	ʿalayhim
+1	6:10:8	w	مَّا		ما	what	mā
+2	6:10:9	w	يَلْبِسُونَ࣌		يلبسون	they are obscuring	yalbisūna
+2	6:10:10	e	۝١٠				
+2	6:11:1	w	وَلَقَدُ		ولقد	And indeed	walaqadi
+2	6:11:2	w	ࡲ࢈سْتُهْزِۓَ		استهزي	were mocked	us'tuh'zi-a
+2	6:11:3	w	بِرُسُلࣲ		برسل	Messengers	birusulin
+2	6:11:4	w	مِّن		من	from	min
+2	6:11:5	w	قَبْلِكَ		قبلك	before you	qablika
+2	6:11:6	w	فَحَاقَ		فحاق	but surrounded	faḥāqa
+2	6:11:7	w	بِالذِينَ		بالذين	those who	bi-alladhīna
+3	6:11:8	w	سَخِرُواْ		سخروا	scoffed	sakhirū
+3	6:11:9	w	مِنْهُم		منهم	of them	min'hum
+3	6:11:10	w	مَّا		ما	what	mā
+3	6:11:11	w	كَانُواْ		كانوا	they used to	kānū
+3	6:11:12	w	بِهِۦ		بهي	[at it]	bihi
+3	6:11:13	w	يَسْتَهْزِءُونَ࣌		يستهزون	mock	yastahziūna
+3	6:11:14	e	۝١١				
+3	6:12:1	w	قُلْ		قل	Say	qul
+3	6:12:2	w	سِيرُواْ		سيروا	Travel	sīrū
+4	6:12:3	w	فِے		في	in	fī
+4	6:12:4	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+4	6:12:5	w	ثُمَّ		ثم	and	thumma
+4	6:12:6	w	ࡸَنظُرُواْ		انظروا	see	unẓurū
+4	6:12:7	w	كَيْفَ		كيف	how	kayfa
+4	6:12:8	w	كَانَ		كان	was	kāna
+4	6:12:9	w	عَٰقِبَةُ		عقبة	(the) end	ʿāqibatu
+4	6:12:10	w	ࡲ۬لْمُكَذِّبِينَ࣌		المكذبين	(of) the rejecters	l-mukadhibīna
+4	6:12:11	e	۝١٢				
+5	6:13:1	w	قُل		قل	Say	qul
+5	6:13:2	w	لِّمَن		لمن	To whom (belongs)	liman
+5	6:13:3	w	مَّا		ما	what	mā
+5	6:13:4	w	فِے		في	(is) in	fī
+5	6:13:5	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+5	6:13:6	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+5	6:13:7	w	قُل		قل	Say	qul
+5	6:13:8	w	لِّلهِ࣌		لله	To Allah	lillahi
+5	6:13:9	w	كَتَبَ		كتب	He has decreed	kataba
+5	6:13:10	w	عَلَىٰ		علي	upon	ʿalā
+6	6:13:11	w	نَفْسِهِ		نفسه	Himself	nafsihi
+6	6:13:12	w	ࡴ۬لرَّحْمَةَ࣌		الرحمة	the Mercy	l-raḥmata
+6	6:13:13	w	لَيَجْمَعَنَّكُمُۥٓ		ليجمعنكم	Surely He will assemble you	layajmaʿannakum
+6	6:13:14	w	إِلَىٰ		الي	on	ilā
+6	6:13:15	w	يَوْمِ		يوم	(the) Day	yawmi
+6	6:13:16	w	ࡴ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+6	6:13:17	w	لَا		لا	(there is) no	lā
+6	6:13:18	w	رَيْبَ		ريب	doubt	rayba
+7	6:13:19	w	فِيهِ࣌		فيه	about it	fīhi
+7	6:13:20	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+7	6:13:21	w	خَسِرُوٓاْ		خسروا	have lost	khasirū
+7	6:13:22	w	أَنفُسَهُمْ		انفسهم	themselves	anfusahum
+7	6:13:23	w	فَهُمْ		فهم	then they	fahum
+7	6:13:24	w	لَا		لا	(do) not	lā
+7	6:13:25	w	يُومِنُونَ࣌		يومنون	believe	yu'minūna
+7	6:13:26	e	۝١٣				
+7	6:14:1	w	۞ وَلَهُۥ		وله	And for Him	walahu
+8	6:14:2	w	مَا		ما	(is) whatever	mā
+8	6:14:3	w	سَكَنَ		سكن	dwells	sakana
+8	6:14:4	w	فِے		في	in	fī
+8	6:14:5	w	ࡴ۬ليْلِ		اليل	the night	al-layli
+8	6:14:6	w	وَالنَّهٜارِ࣌		والنهار	and the day	wal-nahāri
+8	6:14:7	w	وَهُوَ		وهو	and He	wahuwa
+8	6:14:8	w	ࡰ۬لسَّمِيعُ		السميع	(is) All-Hearing	l-samīʿu
+8	6:14:9	w	ࡲ۬لْعَلِيمُ࣌		العليم	All-Knowing	l-ʿalīmu
+8	6:14:10	e	۝١٤				
+8	6:15:1	w	قُلَ		قل	Say	qul
+9	6:15:2	w	ࡰغَيْرَ		اغير	Is it other than	aghayra
+9	6:15:3	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+9	6:15:4	w	أَتَّخِذُ		اتخذ	I (should) take	attakhidhu
+9	6:15:5	w	وَلِيّاࣰ		وليا	(as) a protector	waliyyan
+9	6:15:6	w	فَاطِرِ		فاطر	Creator	fāṭiri
+9	6:15:7	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+9	6:15:8	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+9	6:15:9	w	وَهُوَ		وهو	while (it is) He	wahuwa
+10	6:15:10	w	يُطْعِمُ		يطعم	Who feeds	yuṭ'ʿimu
+10	6:15:11	w	وَلَا		ولا	and not	walā
+10	6:15:12	w	يُطْعَمُ࣌		يطعم	He is fed	yuṭ'ʿamu
+10	6:15:13	w	قُلِ		قل	Say	qul
+10	6:15:14	w	ࡴنِّيَ		اني	Indeed I	innī
+10	6:15:15	w	أُمِرْتُ		امرت	[I] am commanded	umir'tu
+10	6:15:16	w	أَنَ		ان	that	an
+10	6:15:17	w	ࡰكُونَ		اكون	I be	akūna
+10	6:15:18	w	أَوَّلَ		اول	(the) first	awwala
+10	6:15:19	w	مَنَ		من	who	man
+10	6:15:20	w	ࡰسْلَمَ࣌		اسلم	submits (to Allah)	aslama
+11	6:15:21	w	وَلَا		ولا	and not	walā
+11	6:15:22	w	تَكُونَنَّ		تكونن	be	takūnanna
+11	6:15:23	w	مِنَ		من	of	mina
+11	6:15:24	w	ࡰ۬لْمُشْرِكِينَ࣌		المشركين	the polytheists	l-mush'rikīna
+11	6:15:25	e	۝١٥				
+11	6:16:1	w	قُلِ		قل	Say	qul
+11	6:16:2	w	ࡴنِّيَ		اني	Indeed, I	innī
+11	6:16:3	w	أَخَافُ		اخاف	[I] fear	akhāfu
+11	6:16:4	w	إِنْ		ان	if	in
+11	6:16:5	w	عَصَيْتُ		عصيت	I disobeyed	ʿaṣaytu
+12	6:16:6	w	رَبِّے		ربي	my Lord	rabbī
+12	6:16:7	w	عَذَابَ		عذاب	punishment	ʿadhāba
+12	6:16:8	w	يَوْمٍ		يوم	(of) a Day	yawmin
+12	6:16:9	w	عَظِيمࣲ࣌		عظيم	Mighty	ʿaẓīmin
+12	6:16:10	e	۝١٦				
+12	6:17:1	w	مَّنْ		من	Whoever	man
+12	6:17:2	w	يُّصْرَفْ		يصرف	is averted	yuṣ'raf
+12	6:17:3	w	عَنْهُ		عنه	from it	ʿanhu
+12	6:17:4	w	يَوْمَئِذࣲ		يوميذ	that Day	yawma-idhin
+12	6:17:5	w	فَقَدْ		فقد	then surely	faqad
+12	6:17:6	w	رَحِمَهُۥ࣌		رحمه	He had Mercy on him	raḥimahu
+13	6:17:7	w	وَذَٰلِكَ		وذلك	And that	wadhālika
+13	6:17:8	w	ࡰ۬لْفَوْزُ		الفوز	(is) the success	l-fawzu
+13	6:17:9	w	ࡲ۬لْمُبِينُ࣌		المبين	(the) clear	l-mubīnu
+13	6:17:10	e	۝١٧				
+13	6:18:1	w	وَإِنْ		وان	And if	wa-in
+13	6:18:2	w	يَّمْسَسْكَ		يمسسك	touches you	yamsaska
+13	6:18:3	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+13	6:18:4	w	بِضُرࣲّ		بضر	with affliction	biḍurrin
+13	6:18:5	w	فَلَا		فلا	then no	falā
+13	6:18:6	w	كَاشِفَ		كاشف	remover	kāshifa
+14	6:18:7	w	لَهُۥٓ		له	of it	lahu
+14	6:18:8	w	إِلَّا		الا	except	illā
+14	6:18:9	w	هُوَ࣌		هو	Him	huwa
+14	6:18:10	w	وَإِنْ		وان	And if	wa-in
+14	6:18:11	w	يَّمْسَسْكَ		يمسسك	He touches you	yamsaska
+14	6:18:12	w	بِخَيْرࣲ		بخير	with good	bikhayrin
+14	6:18:13	w	فَهُوَ		فهو	then He	fahuwa
+14	6:18:14	w	عَلَىٰ		علي	(is) on	ʿalā
+14	6:18:15	w	كُلِّ		كل	every	kulli
+14	6:18:16	w	شَےْءࣲ		شي	thing	shayin
+14	6:18:17	w	قَدِيرࣱ࣌		قدير	All-Powerful	qadīrun
+14	6:18:18	e	۝١٨				
+15	6:19:1	w	وَهُوَ		وهو	And He	wahuwa
+15	6:19:2	w	ࡰ۬لْقَاهِرُ		القاهر	(is) the Subjugator	l-qāhiru
+15	6:19:3	w	فَوْقَ		فوق	over	fawqa
+15	6:19:4	w	عِبَادِهِۦ࣌		عبادهي	His slaves	ʿibādihi
+15	6:19:5	w	وَهُوَ		وهو	And He	wahuwa
+15	6:19:6	w	ࡰ۬لْحَكِيمُ		الحكيم	(is) the All-Wise	l-ḥakīmu
+15	6:19:7	w	ࡲ۬لْخَبِيرُ࣌		الخبير	the All-Aware	l-khabīru
+15	6:19:8	e	۝١٩				

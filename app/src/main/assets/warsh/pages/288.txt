@@ -1,0 +1,134 @@
+1	17:59:1	w	وَمَا		وما	And not	wamā
+1	17:59:2	w	مَنَعَنَآ		منعنا	stopped Us	manaʿanā
+1	17:59:3	w	أَن		ان	that	an
+1	17:59:4	w	نُّرْسِلَ		نرسل	We send	nur'sila
+1	17:59:5	w	بِالَايَٰتِ		بالايت	the Signs	bil-āyāti
+1	17:59:6	w	إِلَّآ		الا	except	illā
+1	17:59:7	w	أَن		ان	that	an
+1	17:59:8	w	كَذَّبَ		كذب	denied	kadhaba
+1	17:59:9	w	بِهَا		بها	them	bihā
+1	17:59:10	w	ࡰ۬لَاوَّلُونَ࣌		الاولون	the former (people)	l-awalūna
+2	17:59:11	w	وَءَاتَيْنَا		واتينا	And We gave	waātaynā
+2	17:59:12	w	ثَمُودَ		ثمود	Thamud	thamūda
+2	17:59:13	w	ࡰ۬لنَّاقَةَ		الناقة	the she-camel	l-nāqata
+2	17:59:14	w	مُبْصِرَةࣰ		مبصرة	(as) a visible sign	mub'ṣiratan
+2	17:59:15	w	فَظَلَمُواْ		فظلموا	but they wronged	faẓalamū
+2	17:59:16	w	بِهَا࣌		بها	her	bihā
+2	17:59:17	w	وَمَا		وما	And not	wamā
+2	17:59:18	w	نُرْسِلُ		نرسل	We send	nur'silu
+2	17:59:19	w	بِالَايَٰتِ		بالايت	the Signs	bil-āyāti
+3	17:59:20	w	إِلَّا		الا	except	illā
+3	17:59:21	w	تَخْوِيفاࣰ࣌		تخويفا	(as) a warning	takhwīfan
+3	17:59:22	e	۝٥٩				
+3	17:60:1	w	وَإِذْ		واذ	And when	wa-idh
+3	17:60:2	w	قُلْنَا		قلنا	We said	qul'nā
+3	17:60:3	w	لَكَ		لك	to you	laka
+3	17:60:4	w	إِنَّ		ان	Indeed	inna
+3	17:60:5	w	رَبَّكَ		ربك	your Lord	rabbaka
+3	17:60:6	w	أَحَاطَ		احاط	has encompassed	aḥāṭa
+3	17:60:7	w	بِالنَّاسِ࣌		بالناس	the mankind	bil-nāsi
+3	17:60:8	w	وَمَا		وما	And not	wamā
+3	17:60:9	w	جَعَلْنَا		جعلنا	We made	jaʿalnā
+4	17:60:10	w	ࡰ۬لرُّءْيَا		الريا	the vision	l-ru'yā
+4	17:60:11	w	ࡰ۬لتِےٓ		التي	which	allatī
+4	17:60:12	w	أَرَيْنَٰكَ		ارينك	We showed you	araynāka
+4	17:60:13	w	إِلَّا		الا	except	illā
+4	17:60:14	w	فِتْنَةࣰ		فتنة	(as) a trial	fit'natan
+4	17:60:15	w	لِّلنَّاسِ		للناس	for mankind	lilnnāsi
+4	17:60:16	w	وَالشَّجَرَةَ		والشجرة	and the tree	wal-shajarata
+4	17:60:17	w	ࡰ۬لْمَلْعُونَةَ		الملعونة	the accursed	l-malʿūnata
+5	17:60:18	w	فِے		في	in	fī
+5	17:60:19	w	ࡴ۬لْقُرْءَانِ࣌		القران	the Quran	l-qur'āni
+5	17:60:20	w	وَنُخَوِّفُهُمْ		ونخوفهم	And We threaten them	wanukhawwifuhum
+5	17:60:21	w	فَمَا		فما	but not	famā
+5	17:60:22	w	يَزِيدُهُمُۥٓ		يزيدهم	it increases them	yazīduhum
+5	17:60:23	w	إِلَّا		الا	except	illā
+5	17:60:24	w	طُغْيَٰناࣰ		طغينا	(in) transgression	ṭugh'yānan
+5	17:60:25	w	كَبِيراࣰ࣌		كبيرا	great	kabīran
+5	17:60:26	e	۝٦٠				
+6	17:61:1	w	۞ وَإِذْ		واذ	And when	wa-idh
+6	17:61:2	w	قُلْنَا		قلنا	We said	qul'nā
+6	17:61:3	w	لِلْمَلَٰٓئِكَةِ		للمليكة	to the Angels	lil'malāikati
+6	17:61:4	w	ࡴ࢈سْجُدُواْ		اسجدوا	Prostrate	us'judū
+6	17:61:5	w	لِأٓدَمَ		لادم	to Adam	liādama
+6	17:61:6	w	فَسَجَدُوٓاْ࣌		فسجدوا	So they prostrated	fasajadū
+6	17:61:7	w	إِلَّآ		الا	except	illā
+6	17:61:8	w	إِبْلِيسَ		ابليس	Iblis	ib'līsa
+7	17:61:9	w	قَالَ		قال	He said	qāla
+7	17:61:10	w	ءَآسْجُدُ		اسجد	Shall I prostrate	a-asjudu
+7	17:61:11	w	لِمَنْ		لمن	to (one) whom	liman
+7	17:61:12	w	خَلَقْتَ		خلقت	You created	khalaqta
+7	17:61:13	w	طِيناࣰ࣌		طينا	(from) clay	ṭīnan
+7	17:61:14	e	۝٦١				
+7	17:62:1	w	قَالَ		قال	He said	qāla
+7	17:62:2	w	أَرَٰٓيْتَكَ		اريتك	Do You see	ara-aytaka
+7	17:62:3	w	هَٰذَا		هذا	this	hādhā
+7	17:62:4	w	ࡰ۬لذِے		الذي	whom	alladhī
+8	17:62:5	w	كَرَّمْتَ		كرمت	You have honored	karramta
+8	17:62:6	w	عَلَيَّ		علي	above me	ʿalayya
+8	17:62:7	w	لَئِنَ		لين	If	la-in
+8	17:62:8	w	ࡰخَّرْتَنِۦٓ		اخرتني	You give me respite	akhartani
+8	17:62:9	w	إِلَىٰ		الي	till	ilā
+8	17:62:10	w	يَوْمِ		يوم	(the) Day	yawmi
+8	17:62:11	w	ࡴ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+8	17:62:12	w	لَأَحْتَنِكَنَّ		لاحتنكن	I will surely destroy	la-aḥtanikanna
+9	17:62:13	w	ذُرِّيَّتَهُۥٓ		ذريته	his offspring	dhurriyyatahu
+9	17:62:14	w	إِلَّا		الا	except	illā
+9	17:62:15	w	قَلِيلاࣰ࣌		قليلا	a few	qalīlan
+9	17:62:16	e	۝٦٢				
+9	17:63:1	w	قَالَ		قال	He said	qāla
+9	17:63:2	w	ࡰٜذْهَبْ		اذهب	Go	idh'hab
+9	17:63:3	w	فَمَن		فمن	and whoever	faman
+9	17:63:4	w	تَبِعَكَ		تبعك	follows you	tabiʿaka
+9	17:63:5	w	مِنْهُمْ		منهم	among them	min'hum
+9	17:63:6	w	فَإِنَّ		فان	then indeed	fa-inna
+10	17:63:7	w	جَهَنَّمَ		جهنم	Hell	jahannama
+10	17:63:8	w	جَزَآؤُكُمْ		جزاوكم	(is) your recompense	jazāukum
+10	17:63:9	w	جَزَآءࣰ		جزا	a recompense	jazāan
+10	17:63:10	w	مَّوْفُوراࣰ࣌		موفورا	ample	mawfūran
+10	17:63:11	e	۝٦٣				
+10	17:64:1	w	وَاسْتَفْزِزْ		واستفزز	And incite	wa-is'tafziz
+10	17:64:2	w	مَنِ		من	whoever	mani
+10	17:64:3	w	ࡴٜسْتَطَعْتَ		استطعت	you can	is'taṭaʿta
+11	17:64:4	w	مِنْهُم		منهم	among them	min'hum
+11	17:64:5	w	بِصَوْتِكَ		بصوتك	with your voice	biṣawtika
+11	17:64:6	w	وَأَجْلِبْ		واجلب	and assault	wa-ajlib
+11	17:64:7	w	عَلَيْهِم		عليهم	[on] them	ʿalayhim
+11	17:64:8	w	بِخَيْلِكَ		بخيلك	with your cavalry	bikhaylika
+11	17:64:9	w	وَرَجْلِكَ		ورجلك	and infantry	warajilika
+11	17:64:10	w	وَشَارِكْهُمْ		وشاركهم	and be a partner	washārik'hum
+12	17:64:11	w	فِے		في	in	fī
+12	17:64:12	w	ࡴ۬لَامْوَٰلِ		الامول	the wealth	l-amwāli
+12	17:64:13	w	وَالَاوْلَٰدِ		والاولد	and the children	wal-awlādi
+12	17:64:14	w	وَعِدْهُمْ࣌		وعدهم	and promise them	waʿid'hum
+12	17:64:15	w	وَمَا		وما	And not	wamā
+12	17:64:16	w	يَعِدُهُمُ		يعدهم	promises them	yaʿiduhumu
+12	17:64:17	w	ࡲ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan	l-shayṭānu
+12	17:64:18	w	إِلَّا		الا	except	illā
+13	17:64:19	w	غُرُوراً࣌		غرورا	delusion	ghurūran
+13	17:64:20	e	۝٦٤				
+13	17:65:1	w	ࡴنَّ		ان	Indeed	inna
+13	17:65:2	w	عِبَادِے		عبادي	My slaves	ʿibādī
+13	17:65:3	w	لَيْسَ		ليس	not	laysa
+13	17:65:4	w	لَكَ		لك	for you	laka
+13	17:65:5	w	عَلَيْهِمْ		عليهم	over them	ʿalayhim
+13	17:65:6	w	سُلْطَٰنࣱ࣌		سلطن	any authority	sul'ṭānun
+13	17:65:7	w	وَكَفٜىٰ		وكفي	And sufficient	wakafā
+14	17:65:8	w	بِرَبِّكَ		بربك	(is) your Lord	birabbika
+14	17:65:9	w	وَكِيلاࣰ࣌		وكيلا	(as) a Guardian	wakīlan
+14	17:65:10	e	۝٦٥				
+14	17:66:1	w	رَّبُّكُمُ		ربكم	Your Lord	rabbukumu
+14	17:66:2	w	ࡲ۬لذِے		الذي	(is) the One Who	alladhī
+14	17:66:3	w	يُزْجِے		يزجي	drives	yuz'jī
+14	17:66:4	w	لَكُمُ		لكم	for you	lakumu
+14	17:66:5	w	ࡲ۬لْفُلْكَ		الفلك	the ship	l-ful'ka
+14	17:66:6	w	فِے		في	in	fī
+15	17:66:7	w	ࡴ۬لْبَحْرِ		البحر	the sea	l-baḥri
+15	17:66:8	w	لِتَبْتَغُواْ		لتبتغوا	that you may seek	litabtaghū
+15	17:66:9	w	مِن		من	of	min
+15	17:66:10	w	فَضْلِهِۦٓ࣌		فضلهي	His Bounty	faḍlihi
+15	17:66:11	w	إِنَّهُۥ		انه	Indeed, He	innahu
+15	17:66:12	w	كَانَ		كان	is	kāna
+15	17:66:13	w	بِكُمْ		بكم	to you	bikum
+15	17:66:14	w	رَحِيماࣰ࣌		رحيما	Ever Merciful	raḥīman
+15	17:66:15	e	۝٦٦				

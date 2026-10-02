@@ -1,0 +1,111 @@
+1	5:11:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+1	5:11:2	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+1	5:11:3	w	وَكَذَّبُواْ		وكذبوا	and deny	wakadhabū
+1	5:11:4	w	بِـَٔايَٰتِنَآ		بايتنا	Our Signs	biāyātinā
+1	5:11:5	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+1	5:11:6	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+2	5:11:7	w	ࡲ۬لْجَحِيمِ࣌		الجحيم	(of) the Hellfire	l-jaḥīmi
+2	5:11:8	e	۝١١				
+2	5:12:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+2	5:12:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+2	5:12:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+2	5:12:4	w	ࡲ࢈ذْكُرُواْ		اذكروا	Remember	udh'kurū
+2	5:12:5	w	نِعْمَتَ		نعمت	(the) Favor	niʿ'mata
+3	5:12:6	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+3	5:12:7	w	عَلَيْكُمُۥٓ		عليكم	upon you	ʿalaykum
+3	5:12:8	w	إِذْ		اذ	when	idh
+3	5:12:9	w	هَمَّ		هم	determined	hamma
+3	5:12:10	w	قَوْمٌ		قوم	a people	qawmun
+3	5:12:11	w	ࡰنْ		ان	that	an
+3	5:12:12	w	يَّبْسُطُوٓاْ		يبسطوا	they stretch	yabsuṭū
+3	5:12:13	w	إِلَيْكُمُۥٓ		اليكم	towards you	ilaykum
+3	5:12:14	w	أَيْدِيَهُمْ		ايديهم	their hands	aydiyahum
+4	5:12:15	w	فَكَفَّ		فكف	but He restrained	fakaffa
+4	5:12:16	w	أَيْدِيَهُمْ		ايديهم	their hands	aydiyahum
+4	5:12:17	w	عَنكُمْ࣌		عنكم	from you	ʿankum
+4	5:12:18	w	وَاتَّقُواْ		واتقوا	And fear	wa-ittaqū
+4	5:12:19	w	ࡲ۬للَّهَ࣌		الله	Allah	l-laha
+4	5:12:20	w	وَعَلَى		وعلي	And upon	waʿalā
+4	5:12:21	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+4	5:12:22	w	فَلْيَتَوَكَّلِ		فليتوكل	so let put the trust	falyatawakkali
+5	5:12:23	w	ࡴ۬لْمُومِنُونَ࣌		المومنون	the believers	l-mu'minūna
+5	5:12:24	e	۝١٢				
+5	5:13:1	w	۞ وَلَقَدَ		ولقد	And certainly	walaqad
+5	5:13:2	w	ࡰخَذَ		اخذ	took	akhadha
+5	5:13:3	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+5	5:13:4	w	مِيثَٰقَ		ميثق	a Covenant	mīthāqa
+5	5:13:5	w	بَنِےٓ		بني	(from the) Children	banī
+5	5:13:6	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+6	5:13:7	w	وَبَعَثْنَا		وبعثنا	and We appointed	wabaʿathnā
+6	5:13:8	w	مِنْهُمُ		منهم	among them	min'humu
+6	5:13:9	w	ࡲٜثْنَےْ		اثني	two	ith'nay
+6	5:13:10	w	عَشَرَ		عشر	(and) ten	ʿashara
+6	5:13:11	w	نَقِيباࣰ࣌		نقيبا	leaders	naqīban
+6	5:13:12	w	وَقَالَ		وقال	And said	waqāla
+6	5:13:13	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+6	5:13:14	w	إِنِّے		اني	Indeed, I (am)	innī
+7	5:13:15	w	مَعَكُمْ࣌		معكم	with you	maʿakum
+7	5:13:16	w	لَئِنَ		لين	if	la-in
+7	5:13:17	w	ࡰقَمْتُمُ		اقمتم	you establish	aqamtumu
+7	5:13:18	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+7	5:13:19	w	وَءَاتَيْتُمُ		واتيتم	and give	waātaytumu
+7	5:13:20	w	ࡲ۬لزَّكَوٰةَ		الزكوة	the zakah	l-zakata
+8	5:13:21	w	وَءَامَنتُم		وامنتم	and you believe	waāmantum
+8	5:13:22	w	بِرُسُلِے		برسلي	in My Messengers	birusulī
+8	5:13:23	w	وَعَزَّرْتُمُوهُمْ		وعزرتموهم	and you assist them	waʿazzartumūhum
+8	5:13:24	w	وَأَقْرَضْتُمُ		واقرضتم	and you loan	wa-aqraḍtumu
+8	5:13:25	w	ࡲ۬للَّهَ		الله	(to) Allah	l-laha
+8	5:13:26	w	قَرْضاً		قرضا	a loan	qarḍan
+9	5:13:27	w	حَسَناࣰ		حسنا	goodly	ḥasanan
+9	5:13:28	w	لَّأُكَفِّرَنَّ		لاكفرن	surely I will remove	la-ukaffiranna
+9	5:13:29	w	عَنكُمْ		عنكم	from you	ʿankum
+9	5:13:30	w	سَيِّـَٔاتِكُمْ		سياتكم	your evil deeds	sayyiātikum
+9	5:13:31	w	وَلَأُدْخِلَنَّكُمْ		ولادخلنكم	and I will surely admit you	wala-ud'khilannakum
+10	5:13:32	w	جَنَّٰتࣲ		جنت	(to) gardens	jannātin
+10	5:13:33	w	تَجْرِے		تجري	flow	tajrī
+10	5:13:34	w	مِن		من	from	min
+10	5:13:35	w	تَحْتِهَا		تحتها	underneath them	taḥtihā
+10	5:13:36	w	ࡰ۬لَانْهَٰرُ࣌		الانهر	the rivers	l-anhāru
+10	5:13:37	w	فَمَن		فمن	But whoever	faman
+10	5:13:38	w	كَفَرَ		كفر	disbelieved	kafara
+10	5:13:39	w	بَعْدَ		بعد	after	baʿda
+10	5:13:40	w	ذَٰلِكَ		ذلك	that	dhālika
+11	5:13:41	w	مِنكُمْ		منكم	among you	minkum
+11	5:13:42	w	فَقَد		فقد	then certainly	faqad
+11	5:13:43	w	ضَّلَّ		ضل	he strayed	ḍalla
+11	5:13:44	w	سَوَآءَ		سوا	(from) the way	sawāa
+11	5:13:45	w	ࡰ۬لسَّبِيلِ࣌		السبيل	the right	l-sabīli
+11	5:13:46	e	۝١٣				
+11	5:14:1	w	فَبِمَا		فبما	So for	fabimā
+11	5:14:2	w	نَقْضِهِم		نقضهم	their breaking	naqḍihim
+12	5:14:3	w	مِّيثَٰقَهُمْ		ميثقهم	(of) their covenant	mīthāqahum
+12	5:14:4	w	لَعَنَّٰهُمْ		لعنهم	We cursed them	laʿannāhum
+12	5:14:5	w	وَجَعَلْنَا		وجعلنا	and We made	wajaʿalnā
+12	5:14:6	w	قُلُوبَهُمْ		قلوبهم	their hearts	qulūbahum
+12	5:14:7	w	قَٰسِيَةࣰ		قسية	hard	qāsiyatan
+12	5:14:8	w	يُحَرِّفُونَ		يحرفون	They distort	yuḥarrifūna
+13	5:14:9	w	ࡰ۬لْكَلِمَ		الكلم	the words	l-kalima
+13	5:14:10	w	عَن		عن	from	ʿan
+13	5:14:11	w	مَّوَاضِعِهِۦ		مواضعهي	their places	mawāḍiʿihi
+13	5:14:12	w	وَنَسُواْ		ونسوا	and forgot	wanasū
+13	5:14:13	w	حَظّاࣰ		حظا	a part	ḥaẓẓan
+13	5:14:14	w	مِّمَّا		مما	of what	mimmā
+13	5:14:15	w	ذُكِّرُواْ		ذكروا	they were reminded	dhukkirū
+13	5:14:16	w	بِهِۦ࣌		بهي	of [it]	bihi
+14	5:14:17	w	وَلَا		ولا	And not	walā
+14	5:14:18	w	تَزَالُ		تزال	will you cease	tazālu
+14	5:14:19	w	تَطَّلِعُ		تطلع	to discover	taṭṭaliʿu
+14	5:14:20	w	عَلَىٰ		علي	of	ʿalā
+14	5:14:21	w	خَآئِنَةࣲ		خاينة	treachery	khāinatin
+14	5:14:22	w	مِّنْهُمُۥٓ		منهم	from them	min'hum
+14	5:14:23	w	إِلَّا		الا	except	illā
+14	5:14:24	w	قَلِيلاࣰ		قليلا	a few	qalīlan
+14	5:14:25	w	مِّنْهُمْ࣌		منهم	of them	min'hum
+15	5:14:26	w	فَاعْفُ		فاعف	But forgive	fa-uʿ'fu
+15	5:14:27	w	عَنْهُمْ		عنهم	them	ʿanhum
+15	5:14:28	w	وَاصْفَحِ࣌		واصفح	and overlook	wa-iṣ'faḥ
+15	5:14:29	w	ࡴنَّ		ان	Indeed	inna
+15	5:14:30	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	5:14:31	w	يُحِبُّ		يحب	loves	yuḥibbu
+15	5:14:32	w	ࡲ۬لْمُحْسِنِينَ࣌		المحسنين	the good-doers	l-muḥ'sinīna
+15	5:14:33	e	۝١٤				

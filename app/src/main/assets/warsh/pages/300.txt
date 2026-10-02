@@ -1,0 +1,140 @@
+1	18:53:1	w	وَلَقَدْ		ولقد	And certainly	walaqad
+1	18:53:2	w	صَرَّفْنَا		صرفنا	We have explained	ṣarrafnā
+1	18:53:3	w	فِے		في	in	fī
+1	18:53:4	w	هَٰذَا		هذا	this	hādhā
+1	18:53:5	w	ࡰ۬لْقُرْءَانِ		القران	the Quran	l-qur'āni
+1	18:53:6	w	لِلنَّاسِ		للناس	for mankind	lilnnāsi
+1	18:53:7	w	مِن		من	of	min
+1	18:53:8	w	كُلِّ		كل	every	kulli
+1	18:53:9	w	مَثَلࣲ࣌		مثل	example	mathalin
+1	18:53:10	w	وَكَانَ		وكان	But is	wakāna
+2	18:53:11	w	ࡰ۬لِانسَٰنُ		الانسن	the man	l-insānu
+2	18:53:12	w	أَكْثَرَ		اكثر	(in) most	akthara
+2	18:53:13	w	شَےْءࣲ		شي	things	shayin
+2	18:53:14	w	جَدَلاࣰ࣌		جدلا	quarrelsome	jadalan
+2	18:53:15	e	۝٥٣				
+2	18:54:1	w	وَمَا		وما	And nothing	wamā
+2	18:54:2	w	مَنَعَ		منع	prevents	manaʿa
+2	18:54:3	w	ࡰ۬لنَّاسَ		الناس	men	l-nāsa
+2	18:54:4	w	أَنْ		ان	that	an
+2	18:54:5	w	يُّومِنُوٓاْ		يومنوا	they believe	yu'minū
+3	18:54:6	w	إِذْ		اذ	when	idh
+3	18:54:7	w	جَآءَهُمُ		جاهم	has come to them	jāahumu
+3	18:54:8	w	ࡲ۬لْهُدٜىٰ		الهدي	the guidance	l-hudā
+3	18:54:9	w	وَيَسْتَغْفِرُواْ		ويستغفروا	and they ask forgiveness	wayastaghfirū
+3	18:54:10	w	رَبَّهُمُۥٓ		ربهم	(of) their Lord	rabbahum
+3	18:54:11	w	إِلَّآ		الا	except	illā
+3	18:54:12	w	أَن		ان	that	an
+3	18:54:13	w	تَاتِيَهُمْ		تاتيهم	comes to them	tatiyahum
+3	18:54:14	w	سُنَّةُ		سنة	(the) way	sunnatu
+4	18:54:15	w	ࡲ۬لَاوَّلِينَ		الاولين	(of) the former (people)	l-awalīna
+4	18:54:16	w	أَوْ		او	or	aw
+4	18:54:17	w	يَاتِيَهُمُ		ياتيهم	comes to them	yatiyahumu
+4	18:54:18	w	ࡲ۬لْعَذَابُ		العذاب	the punishment	l-ʿadhābu
+4	18:54:19	w	قِبَلاࣰ࣌		قبلا	before (them)	qubulan
+4	18:54:20	e	۝٥٤				
+4	18:55:1	w	وَمَا		وما	And not	wamā
+4	18:55:2	w	نُرْسِلُ		نرسل	We send	nur'silu
+4	18:55:3	w	ࡲ۬لْمُرْسَلِينَ		المرسلين	the Messengers	l-mur'salīna
+5	18:55:4	w	إِلَّا		الا	except	illā
+5	18:55:5	w	مُبَشِّرِينَ		مبشرين	(as) bearers of glad tidings	mubashirīna
+5	18:55:6	w	وَمُنذِرِينَ࣌		ومنذرين	and (as) warners	wamundhirīna
+5	18:55:7	w	وَيُجَٰدِلُ		ويجدل	And dispute	wayujādilu
+5	18:55:8	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+5	18:55:9	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+5	18:55:10	w	بِالْبَٰطِلِ		بالبطل	with falsehood	bil-bāṭili
+6	18:55:11	w	لِيُدْحِضُواْ		ليدحضوا	to refute	liyud'ḥiḍū
+6	18:55:12	w	بِهِ		به	thereby	bihi
+6	18:55:13	w	ࡴ۬لْحَقَّ࣌		الحق	the truth	l-ḥaqa
+6	18:55:14	w	وَاتَّخَذُوٓاْ		واتخذوا	And they take	wa-ittakhadhū
+6	18:55:15	w	ءَايَٰتِے		ايتي	My Verses	āyātī
+6	18:55:16	w	وَمَآ		وما	and what	wamā
+6	18:55:17	w	أُنذِرُواْ		انذروا	they are warned	undhirū
+6	18:55:18	w	هُزُؤاࣰ࣌		هزوا	(in) ridicule	huzuwan
+6	18:55:19	e	۝٥٥				
+7	18:56:1	w	وَمَنَ		ومن	And who	waman
+7	18:56:2	w	ࡰظْلَمُ		اظلم	(is) more wrong	aẓlamu
+7	18:56:3	w	مِمَّن		ممن	than (he) who	mimman
+7	18:56:4	w	ذُكِّرَ		ذكر	is reminded	dhukkira
+7	18:56:5	w	بِـَٔايَٰتِ		بايت	of the Verses	biāyāti
+7	18:56:6	w	رَبِّهِۦ		ربهي	(of) his Lord	rabbihi
+7	18:56:7	w	فَأَعْرَضَ		فاعرض	but turns away	fa-aʿraḍa
+7	18:56:8	w	عَنْهَا		عنها	from them	ʿanhā
+7	18:56:9	w	وَنَسِيَ		ونسي	and forgets	wanasiya
+8	18:56:10	w	مَا		ما	what	mā
+8	18:56:11	w	قَدَّمَتْ		قدمت	have sent forth	qaddamat
+8	18:56:12	w	يَدَٰهُ࣌		يده	his hands	yadāhu
+8	18:56:13	w	إِنَّا		انا	Indeed, We	innā
+8	18:56:14	w	جَعَلْنَا		جعلنا	[We] have placed	jaʿalnā
+8	18:56:15	w	عَلَىٰ		علي	over	ʿalā
+8	18:56:16	w	قُلُوبِهِمُۥٓ		قلوبهم	their hearts	qulūbihim
+8	18:56:17	w	أَكِنَّةً		اكنة	coverings	akinnatan
+8	18:56:18	w	ࡰنْ		ان	lest	an
+8	18:56:19	w	يَّفْقَهُوهُ		يفقهوه	they understand it	yafqahūhu
+9	18:56:20	w	وَفِےٓ		وفي	and in	wafī
+9	18:56:21	w	ءَاذَانِهِمْ		اذانهم	their ears	ādhānihim
+9	18:56:22	w	وَقْراࣰ࣌		وقرا	(is) deafness	waqran
+9	18:56:23	w	وَإِن		وان	And if	wa-in
+9	18:56:24	w	تَدْعُهُمُۥٓ		تدعهم	you call them	tadʿuhum
+9	18:56:25	w	إِلَى		الي	to	ilā
+9	18:56:26	w	ࡰ۬لْهُدٜىٰ		الهدي	the guidance	l-hudā
+9	18:56:27	w	فَلَنْ		فلن	then never	falan
+9	18:56:28	w	يَّهْتَدُوٓاْ		يهتدوا	they will be guided	yahtadū
+9	18:56:29	w	إِذاً		اذا	then	idhan
+10	18:56:30	w	ࡰبَداࣰ࣌		ابدا	ever	abadan
+10	18:56:31	e	۝٥٦				
+10	18:57:1	w	وَرَبُّكَ		وربك	And your Lord	warabbuka
+10	18:57:2	w	ࡰ۬لْغَفُورُ		الغفور	(is) the Most Forgiving	l-ghafūru
+10	18:57:3	w	ذُو		ذو	Owner	dhū
+10	18:57:4	w	ࡲ۬لرَّحْمَةِ࣌		الرحمة	(of) the Mercy	l-raḥmati
+10	18:57:5	w	لَوْ		لو	If	law
+10	18:57:6	w	يُوَ۬اخِذُهُم		يواخذهم	He were to seize them	yuākhidhuhum
+10	18:57:7	w	بِمَا		بما	for what	bimā
+10	18:57:8	w	كَسَبُواْ		كسبوا	they have earned	kasabū
+11	18:57:9	w	لَعَجَّلَ		لعجل	surely, He (would) have hastened	laʿajjala
+11	18:57:10	w	لَهُمُ		لهم	for them	lahumu
+11	18:57:11	w	ࡲ۬لْعَذَابَ࣌		العذاب	the punishment	l-ʿadhāba
+11	18:57:12	w	بَل		بل	But	bal
+11	18:57:13	w	لَّهُم		لهم	for them	lahum
+11	18:57:14	w	مَّوْعِدࣱ		موعد	(is) an appointment	mawʿidun
+11	18:57:15	w	لَّنْ		لن	never	lan
+11	18:57:16	w	يَّجِدُواْ		يجدوا	they will find	yajidū
+11	18:57:17	w	مِن		من	other than it	min
+11	18:57:18	w	دُونِهِۦ		دونهي	other than it	dūnihi
+12	18:57:19	w	مَوْئِلاࣰ࣌		مويلا	an escape	mawilan
+12	18:57:20	e	۝٥٧				
+12	18:58:1	w	۞ وَتِلْكَ		وتلك	And these	watil'ka
+12	18:58:2	w	ࡰ۬لْقُرٜىٰٓ		القري	[the] towns	l-qurā
+12	18:58:3	w	أَهْلَكْنَٰهُمْ		اهلكنهم	We destroyed them	ahlaknāhum
+12	18:58:4	w	لَمَّا		لما	when	lammā
+12	18:58:5	w	ظَلَمُواْ		ظلموا	they wronged	ẓalamū
+12	18:58:6	w	وَجَعَلْنَا		وجعلنا	and We made	wajaʿalnā
+13	18:58:7	w	لِمُهْلَكِهِم		لمهلكهم	for their destruction	limahlikihim
+13	18:58:8	w	مَّوْعِداࣰ࣌		موعدا	an appointed time	mawʿidan
+13	18:58:9	e	۝٥٨				
+13	18:59:1	w	وَإِذْ		واذ	And when	wa-idh
+13	18:59:2	w	قَالَ		قال	said	qāla
+13	18:59:3	w	مُوسٜىٰ		موسي	Musa	mūsā
+13	18:59:4	w	لِفَتٜيٰهُ		لفتيه	to his boy	lifatāhu
+13	18:59:5	w	لَآ		لا	Not	lā
+13	18:59:6	w	أَبْرَحُ		ابرح	I will cease	abraḥu
+13	18:59:7	w	حَتَّىٰٓ		حتي	until	ḥattā
+14	18:59:8	w	أَبْلُغَ		ابلغ	I reach	ablugha
+14	18:59:9	w	مَجْمَعَ		مجمع	the junction	majmaʿa
+14	18:59:10	w	ࡰ۬لْبَحْرَيْنِ		البحرين	(of) the two seas	l-baḥrayni
+14	18:59:11	w	أَوَ		او	or	aw
+14	18:59:12	w	ࡰمْضِيَ		امضي	I continue	amḍiya
+14	18:59:13	w	حُقُباࣰ࣌		حقبا	(for) a long period	ḥuquban
+14	18:59:14	e	۝٥٩				
+14	18:60:1	w	فَلَمَّا		فلما	But when	falammā
+14	18:60:2	w	بَلَغَا		بلغا	they reached	balaghā
+14	18:60:3	w	مَجْمَعَ		مجمع	the junction	majmaʿa
+15	18:60:4	w	بَيْنِهِمَا		بينهما	between them	baynihimā
+15	18:60:5	w	نَسِيَا		نسيا	they forgot	nasiyā
+15	18:60:6	w	حُوتَهُمَا		حوتهما	their fish	ḥūtahumā
+15	18:60:7	w	فَاتَّخَذَ		فاتخذ	and it took	fa-ittakhadha
+15	18:60:8	w	سَبِيلَهُۥ		سبيله	its way	sabīlahu
+15	18:60:9	w	فِے		في	into	fī
+15	18:60:10	w	ࡴ۬لْبَحْرِ		البحر	the sea	l-baḥri
+15	18:60:11	w	سَرَباࣰ࣌		سربا	slipping away	saraban
+15	18:60:12	e	۝٦٠				

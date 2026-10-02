@@ -1,0 +1,154 @@
+1	28:13:1	w	وَلَمَّا		ولما	And when	walammā
+1	28:13:2	w	بَلَغَ		بلغ	he reached	balagha
+1	28:13:3	w	أَشُدَّهُۥ		اشده	his full strength	ashuddahu
+1	28:13:4	w	وَاسْتَوٜىٰٓ		واستوي	and became mature	wa-is'tawā
+1	28:13:5	w	ءَاتَيْنَٰهُ		اتينه	We bestowed upon him	ātaynāhu
+1	28:13:6	w	حُكْماࣰ		حكما	wisdom	ḥuk'man
+1	28:13:7	w	وَعِلْماࣰ࣌		وعلما	and knowledge	waʿil'man
+1	28:13:8	w	وَكَذَٰلِكَ		وكذلك	And thus	wakadhālika
+2	28:13:9	w	نَجْزِے		نجزي	We reward	najzī
+2	28:13:10	w	ࡴ۬لْمُحْسِنِينَ࣌		المحسنين	the good-doers	l-muḥ'sinīna
+2	28:13:11	e	۝١٣				
+2	28:14:1	w	وَدَخَلَ		ودخل	And he entered	wadakhala
+2	28:14:2	w	ࡰ۬لْمَدِينَةَ		المدينة	the city	l-madīnata
+2	28:14:3	w	عَلَىٰ		علي	at	ʿalā
+2	28:14:4	w	حِينِ		حين	a time	ḥīni
+2	28:14:5	w	غَفْلَةࣲ		غفلة	(of) inattention	ghaflatin
+2	28:14:6	w	مِّنَ		من	of	min
+2	28:14:7	w	ࡰهْلِهَا		اهلها	its people	ahlihā
+3	28:14:8	w	فَوَجَدَ		فوجد	and found	fawajada
+3	28:14:9	w	فِيهَا		فيها	therein	fīhā
+3	28:14:10	w	رَجُلَيْنِ		رجلين	two men	rajulayni
+3	28:14:11	w	يَقْتَتِلَٰنِ		يقتتلن	fighting each other	yaqtatilāni
+3	28:14:12	w	هَٰذَا		هذا	this	hādhā
+3	28:14:13	w	مِن		من	of	min
+3	28:14:14	w	شِيعَتِهِۦ		شيعتهي	his party	shīʿatihi
+3	28:14:15	w	وَهَٰذَا		وهذا	and this	wahādhā
+3	28:14:16	w	مِنْ		من	of	min
+3	28:14:17	w	عَدُوِّهِۦ࣌		عدوهي	his enemy	ʿaduwwihi
+4	28:14:18	w	فَاسْتَغَٰثَهُ		فاستغثه	And called him for help	fa-is'taghāthahu
+4	28:14:19	w	ࡲ۬لذِے		الذي	the one who	alladhī
+4	28:14:20	w	مِن		من	(was) from	min
+4	28:14:21	w	شِيعَتِهِۦ		شيعتهي	his party	shīʿatihi
+4	28:14:22	w	عَلَى		علي	against	ʿalā
+4	28:14:23	w	ࡰ۬لذِے		الذي	the one who	alladhī
+4	28:14:24	w	مِنْ		من	(was) from	min
+4	28:14:25	w	عَدُوِّهِۦ		عدوهي	his enemy	ʿaduwwihi
+4	28:14:26	w	فَوَكَزَهُۥ		فوكزه	so Musa struck him with his fist	fawakazahu
+5	28:14:27	w	مُوسٜىٰ		موسي	so Musa struck him with his fist	mūsā
+5	28:14:28	w	فَقَضٜىٰ		فقضي	and killed him	faqaḍā
+5	28:14:29	w	عَلَيْهِ࣌		عليه	and killed him	ʿalayhi
+5	28:14:30	w	قَالَ		قال	He said	qāla
+5	28:14:31	w	هَٰذَا		هذا	This (is)	hādhā
+5	28:14:32	w	مِنْ		من	of	min
+5	28:14:33	w	عَمَلِ		عمل	(the) deed	ʿamali
+5	28:14:34	w	ࡴ۬لشَّيْطَٰنِ࣌		الشيطن	(of) Shaitaan	l-shayṭāni
+5	28:14:35	w	إِنَّهُۥ		انه	Indeed, he	innahu
+5	28:14:36	w	عَدُوࣱّ		عدو	(is) an enemy	ʿaduwwun
+6	28:14:37	w	مُّضِلࣱّ		مضل	one who misleads	muḍillun
+6	28:14:38	w	مُّبِينࣱ࣌		مبين	clearly	mubīnun
+6	28:14:39	e	۝١٤				
+6	28:15:1	w	قَالَ		قال	He said	qāla
+6	28:15:2	w	رَبِّ		رب	My Lord	rabbi
+6	28:15:3	w	إِنِّے		اني	Indeed, I	innī
+6	28:15:4	w	ظَلَمْتُ		ظلمت	[I] have wronged	ẓalamtu
+6	28:15:5	w	نَفْسِے		نفسي	my soul	nafsī
+6	28:15:6	w	فَاغْفِرْ		فاغفر	so forgive	fa-igh'fir
+6	28:15:7	w	لِے࣌		لي	[for] me	lī
+6	28:15:8	w	فَغَفَرَ		فغفر	Then He forgave	faghafara
+6	28:15:9	w	لَهُۥٓ࣌		له	[for] him	lahu
+7	28:15:10	w	إِنَّهُۥ		انه	Indeed He	innahu
+7	28:15:11	w	هُوَ		هو	He (is)	huwa
+7	28:15:12	w	ࡰ۬لْغَفُورُ		الغفور	the Oft-Forgiving	l-ghafūru
+7	28:15:13	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+7	28:15:14	e	۝١٥				
+7	28:16:1	w	قَالَ		قال	He said	qāla
+7	28:16:2	w	رَبِّ		رب	My Lord	rabbi
+7	28:16:3	w	بِمَآ		بما	Because	bimā
+7	28:16:4	w	أَنْعَمْتَ		انعمت	You have favored	anʿamta
+7	28:16:5	w	عَلَيَّ		علي	[on] me	ʿalayya
+7	28:16:6	w	فَلَنَ		فلن	so not	falan
+7	28:16:7	w	ࡰكُونَ		اكون	I will be	akūna
+8	28:16:8	w	ظَهِيراࣰ		ظهيرا	a supporter	ẓahīran
+8	28:16:9	w	لِّلْمُجْرِمِينَ࣌		للمجرمين	(of) the criminals	lil'muj'rimīna
+8	28:16:10	e	۝١٦				
+8	28:17:1	w	فَأَصْبَحَ		فاصبح	In the morning he was	fa-aṣbaḥa
+8	28:17:2	w	فِے		في	in	fī
+8	28:17:3	w	ࡴ۬لْمَدِينَةِ		المدينة	the city	l-madīnati
+8	28:17:4	w	خَآئِفاࣰ		خايفا	fearful	khāifan
+8	28:17:5	w	يَتَرَقَّبُ		يترقب	(and) was vigilant	yataraqqabu
+8	28:17:6	w	فَإِذَا		فاذا	when behold	fa-idhā
+9	28:17:7	w	ࡰ۬لذِے		الذي	The one who	alladhī
+9	28:17:8	w	ࡴٜسْتَنصَرَهُۥ		استنصره	sought his help	is'tanṣarahu
+9	28:17:9	w	بِالَامْسِ		بالامس	the previous day	bil-amsi
+9	28:17:10	w	يَسْتَصْرِخُهُۥ࣌		يستصرخه	cried out to him for help	yastaṣrikhuhu
+9	28:17:11	w	قَالَ		قال	Said	qāla
+9	28:17:12	w	لَهُۥ		له	to him	lahu
+9	28:17:13	w	مُوسٜىٰٓ		موسي	Musa	mūsā
+9	28:17:14	w	إِنَّكَ		انك	Indeed, you	innaka
+9	28:17:15	w	لَغَوِيࣱّ		لغوي	(are) surely a deviator	laghawiyyun
+10	28:17:16	w	مُّبِينࣱ࣌		مبين	clear	mubīnun
+10	28:17:17	e	۝١٧				
+10	28:18:1	w	فَلَمَّآ		فلما	Then when	falammā
+10	28:18:2	w	أَنَ		ان	[that]	an
+10	28:18:3	w	ࡰرَادَ		اراد	he wanted	arāda
+10	28:18:4	w	أَنْ		ان	to	an
+10	28:18:5	w	يَّبْطِشَ		يبطش	strike	yabṭisha
+10	28:18:6	w	بِالذِے		بالذي	the one who	bi-alladhī
+10	28:18:7	w	هُوَ		هو	[he] (was)	huwa
+10	28:18:8	w	عَدُوࣱّ		عدو	an enemy	ʿaduwwun
+10	28:18:9	w	لَّهُمَا		لهما	to both of them	lahumā
+10	28:18:10	w	قَالَ		قال	he said	qāla
+10	28:18:11	w	يَٰمُوسٜىٰٓ		يموسي	O Musa	yāmūsā
+11	28:18:12	w	أَتُرِيدُ		اتريد	Do you intend	aturīdu
+11	28:18:13	w	أَن		ان	to	an
+11	28:18:14	w	تَقْتُلَنِے		تقتلني	kill me	taqtulanī
+11	28:18:15	w	كَمَا		كما	as	kamā
+11	28:18:16	w	قَتَلْتَ		قتلت	you killed	qatalta
+11	28:18:17	w	نَفْساَۢ		نفسا	a person	nafsan
+11	28:18:18	w	بِالَامْسِ࣌		بالامس	yesterday	bil-amsi
+11	28:18:19	w	إِن		ان	Not	in
+11	28:18:20	w	تُرِيدُ		تريد	you want	turīdu
+11	28:18:21	w	إِلَّآ		الا	but	illā
+11	28:18:22	w	أَن		ان	that	an
+12	28:18:23	w	تَكُونَ		تكون	you become	takūna
+12	28:18:24	w	جَبَّاراࣰ		جبارا	a tyrant	jabbāran
+12	28:18:25	w	فِے		في	in	fī
+12	28:18:26	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+12	28:18:27	w	وَمَا		وما	and not	wamā
+12	28:18:28	w	تُرِيدُ		تريد	you want	turīdu
+12	28:18:29	w	أَن		ان	that	an
+12	28:18:30	w	تَكُونَ		تكون	you be	takūna
+12	28:18:31	w	مِنَ		من	of	mina
+12	28:18:32	w	ࡰ۬لْمُصْلِحِينَ࣌		المصلحين	the reformers	l-muṣ'liḥīna
+12	28:18:33	e	۝١٨				
+13	28:19:1	w	وَجَآءَ		وجا	And came	wajāa
+13	28:19:2	w	رَجُلࣱ		رجل	a man	rajulun
+13	28:19:3	w	مِّنَ		من	from	min
+13	28:19:4	w	ࡰقْصَا		اقصا	(the) farthest end	aqṣā
+13	28:19:5	w	ࡰ۬لْمَدِينَةِ		المدينة	(of) the city	l-madīnati
+13	28:19:6	w	يَسْعٜىٰ࣌		يسعي	running	yasʿā
+13	28:19:7	w	قَالَ		قال	He said	qāla
+13	28:19:8	w	يَٰمُوسٜىٰٓ		يموسي	O Musa	yāmūsā
+13	28:19:9	w	إِنَّ		ان	Indeed	inna
+13	28:19:10	w	ࡰ۬لْمَلَأَ		الملا	the chiefs	l-mala-a
+14	28:19:11	w	يَاتَمِرُونَ		ياتمرون	are taking counsel	yatamirūna
+14	28:19:12	w	بِكَ		بك	about you	bika
+14	28:19:13	w	لِيَقْتُلُوكَ		ليقتلوك	to kill you	liyaqtulūka
+14	28:19:14	w	فَاخْرُجِ		فاخرج	so leave	fa-ukh'ruj
+14	28:19:15	w	ࡴنِّے		اني	indeed, I am	innī
+14	28:19:16	w	لَكَ		لك	to you	laka
+14	28:19:17	w	مِنَ		من	of	mina
+14	28:19:18	w	ࡰ۬لنَّٰصِحِينَ࣌		النصحين	the sincere advisors	l-nāṣiḥīna
+14	28:19:19	e	۝١٩				
+15	28:20:1	w	فَخَرَجَ		فخرج	So he left	fakharaja
+15	28:20:2	w	مِنْهَا		منها	from it	min'hā
+15	28:20:3	w	خَآئِفاࣰ		خايفا	fearing	khāifan
+15	28:20:4	w	يَتَرَقَّبُ࣌		يترقب	(and) vigilant	yataraqqabu
+15	28:20:5	w	قَالَ		قال	He said	qāla
+15	28:20:6	w	رَبِّ		رب	My Lord	rabbi
+15	28:20:7	w	نَجِّنِے		نجني	Save me	najjinī
+15	28:20:8	w	مِنَ		من	from	mina
+15	28:20:9	w	ࡰ۬لْقَوْمِ		القوم	the people	l-qawmi
+15	28:20:10	w	ࡴ۬لظَّٰلِمِينَ࣌		الظلمين	the wrongdoers	l-ẓālimīna
+15	28:20:11	e	۝٢٠				

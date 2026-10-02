@@ -1,0 +1,157 @@
+1	34:40:1	w	وَيَوْمَ		ويوم	And (the) Day	wayawma
+1	34:40:2	w	نَحْشُرُهُمْ		نحشرهم	He will gather them	yaḥshuruhum
+1	34:40:3	w	جَمِيعاࣰ		جميعا	all	jamīʿan
+1	34:40:4	w	ثُمَّ		ثم	then	thumma
+1	34:40:5	w	نَقُولُ		نقول	He will say	yaqūlu
+1	34:40:6	w	لِلْمَلَٰٓئِكَةِ		للمليكة	to the Angels	lil'malāikati
+1	34:40:7	w	أَهَٰٓؤُلَآءِ		اهولا	Were these you	ahāulāi
+1	34:40:8	w	ايَّاكُمْ		اياكم	Were these you	iyyākum
+2	34:40:9	w	كَانُواْ		كانوا	they were	kānū
+2	34:40:10	w	يَعْبُدُونَ࣌		يعبدون	worshipping	yaʿbudūna
+2	34:40:11	e	۝٤٠				
+2	34:41:1	w	قَالُواْ		قالوا	They will say	qālū
+2	34:41:2	w	سُبْحَٰنَكَ		سبحنك	Glory be to You	sub'ḥānaka
+2	34:41:3	w	أَنتَ		انت	You	anta
+2	34:41:4	w	وَلِيُّنَا		ولينا	(are) our Protector	waliyyunā
+2	34:41:5	w	مِن		من	not them	min
+2	34:41:6	w	دُونِهِم࣌		دونهم	not them	dūnihim
+2	34:41:7	w	بَلْ		بل	Nay	bal
+3	34:41:8	w	كَانُواْ		كانوا	they used	kānū
+3	34:41:9	w	يَعْبُدُونَ		يعبدون	(to) worship	yaʿbudūna
+3	34:41:10	w	ࡰ۬لْجِنَّ࣌		الجن	the jinn	l-jina
+3	34:41:11	w	أَكْثَرُهُم		اكثرهم	most of them	aktharuhum
+3	34:41:12	w	بِهِم		بهم	in them	bihim
+3	34:41:13	w	مُّومِنُونَ࣌		مومنون	(were) believers	mu'minūna
+3	34:41:14	e	۝٤١				
+3	34:42:1	w	فَالْيَوْمَ		فاليوم	But today	fal-yawma
+3	34:42:2	w	لَا		لا	not	lā
+3	34:42:3	w	يَمْلِكُ		يملك	possess power	yamliku
+4	34:42:4	w	بَعْضُكُمْ		بعضكم	some of you	baʿḍukum
+4	34:42:5	w	لِبَعْضࣲ		لبعض	on others	libaʿḍin
+4	34:42:6	w	نَّفْعاࣰ		نفعا	to benefit	nafʿan
+4	34:42:7	w	وَلَا		ولا	and not	walā
+4	34:42:8	w	ضَرّاࣰ		ضرا	to harm	ḍarran
+4	34:42:9	w	وَنَقُولُ		ونقول	and We will say	wanaqūlu
+4	34:42:10	w	لِلذِينَ		للذين	to those	lilladhīna
+4	34:42:11	w	ظَلَمُواْ		ظلموا	who wronged	ẓalamū
+4	34:42:12	w	ذُوقُواْ		ذوقوا	Taste	dhūqū
+4	34:42:13	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+5	34:42:14	w	ࡰ۬لنّٜارِ		النار	(of) the Fire	l-nāri
+5	34:42:15	w	ࡴ۬لتِے		التي	which	allatī
+5	34:42:16	w	كُنتُم		كنتم	you used	kuntum
+5	34:42:17	w	بِهَا		بها	to [it]	bihā
+5	34:42:18	w	تُكَذِّبُونَ࣌		تكذبون	deny	tukadhibūna
+5	34:42:19	e	۝٤٢				
+5	34:43:1	w	وَإِذَا		واذا	And when	wa-idhā
+5	34:43:2	w	تُتْلٜىٰ		تتلي	are recited	tut'lā
+5	34:43:3	w	عَلَيْهِمُۥٓ		عليهم	to them	ʿalayhim
+5	34:43:4	w	ءَايَٰتُنَا		ايتنا	Our Verses	āyātunā
+6	34:43:5	w	بَيِّنَٰتࣲ		بينت	clear	bayyinātin
+6	34:43:6	w	قَالُواْ		قالوا	they say	qālū
+6	34:43:7	w	مَا		ما	Not	mā
+6	34:43:8	w	هَٰذَآ		هذا	(is) this	hādhā
+6	34:43:9	w	إِلَّا		الا	but	illā
+6	34:43:10	w	رَجُلࣱ		رجل	a man	rajulun
+6	34:43:11	w	يُرِيدُ		يريد	who wishes	yurīdu
+6	34:43:12	w	أَنْ		ان	to	an
+6	34:43:13	w	يَّصُدَّكُمْ		يصدكم	hinder you	yaṣuddakum
+6	34:43:14	w	عَمَّا		عما	from what	ʿammā
+6	34:43:15	w	كَانَ		كان	used	kāna
+6	34:43:16	w	يَعْبُدُ		يعبد	(to) worship	yaʿbudu
+7	34:43:17	w	ءَابَآؤُكُمْ		اباوكم	your forefathers	ābāukum
+7	34:43:18	w	وَقَالُواْ		وقالوا	And they say	waqālū
+7	34:43:19	w	مَا		ما	Not	mā
+7	34:43:20	w	هَٰذَآ		هذا	(is) this	hādhā
+7	34:43:21	w	إِلَّآ		الا	except	illā
+7	34:43:22	w	إِفْكࣱ		افك	a lie	if'kun
+7	34:43:23	w	مُّفْتَرىࣰ࣌		مفتري	invented	muf'taran
+7	34:43:24	w	وَقَالَ		وقال	And said	waqāla
+7	34:43:25	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	34:43:26	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+8	34:43:27	w	لِلْحَقِّ		للحق	about the truth	lil'ḥaqqi
+8	34:43:28	w	لَمَّا		لما	when	lammā
+8	34:43:29	w	جَآءَهُمُۥٓ		جاهم	it came to them	jāahum
+8	34:43:30	w	إِنْ		ان	Not	in
+8	34:43:31	w	هَٰذَآ		هذا	(is) this	hādhā
+8	34:43:32	w	إِلَّا		الا	except	illā
+8	34:43:33	w	سِحْرࣱ		سحر	a magic	siḥ'run
+8	34:43:34	w	مُّبِينࣱ࣌		مبين	obvious	mubīnun
+8	34:43:35	e	۝٤٣				
+8	34:44:1	w	وَمَآ		وما	And not	wamā
+8	34:44:2	w	ءَاتَيْنَٰهُم		اتينهم	We (had) given them	ātaynāhum
+9	34:44:3	w	مِّن		من	any	min
+9	34:44:4	w	كُتُبࣲ		كتب	Scriptures	kutubin
+9	34:44:5	w	يَدْرُسُونَهَا࣌		يدرسونها	which they could study	yadrusūnahā
+9	34:44:6	w	وَمَآ		وما	and not	wamā
+9	34:44:7	w	أَرْسَلْنَآ		ارسلنا	We sent	arsalnā
+9	34:44:8	w	إِلَيْهِمْ		اليهم	to them	ilayhim
+9	34:44:9	w	قَبْلَكَ		قبلك	before you	qablaka
+9	34:44:10	w	مِن		من	any	min
+9	34:44:11	w	نَّذِيرࣲ࣌		نذير	warner	nadhīrin
+9	34:44:12	e	۝٤٤				
+10	34:45:1	w	وَكَذَّبَ		وكذب	And denied	wakadhaba
+10	34:45:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	34:45:3	w	مِن		من	(were) before them	min
+10	34:45:4	w	قَبْلِهِمْ		قبلهم	(were) before them	qablihim
+10	34:45:5	w	وَمَا		وما	and not	wamā
+10	34:45:6	w	بَلَغُواْ		بلغوا	they have attained	balaghū
+10	34:45:7	w	مِعْشَارَ		معشار	a tenth	miʿ'shāra
+10	34:45:8	w	مَآ		ما	(of) what	mā
+10	34:45:9	w	ءَاتَيْنَٰهُمْ࣌		اتينهم	We (had) given them	ātaynāhum
+10	34:45:10	w	فَكَذَّبُواْ		فكذبوا	But they denied	fakadhabū
+11	34:45:11	w	رُسُلِے࣌		رسلي	My Messengers	rusulī
+11	34:45:12	w	فَكَيْفَ		فكيف	so how	fakayfa
+11	34:45:13	w	كَانَ		كان	was	kāna
+11	34:45:14	w	نَكِيرِۦ࣌		نكيري	My rejection	nakīri
+11	34:45:15	e	۝٤٥				
+11	34:46:1	w	۞ قُلِ		قل	Say	qul
+11	34:46:2	w	ࡴنَّمَآ		انما	Only	innamā
+11	34:46:3	w	أَعِظُكُم		اعظكم	I advise you	aʿiẓukum
+11	34:46:4	w	بِوَٰحِدَةٍ࣌		بوحدة	for one (thing)	biwāḥidatin
+11	34:46:5	w	ࡰن		ان	that	an
+12	34:46:6	w	تَقُومُواْ		تقوموا	you stand	taqūmū
+12	34:46:7	w	لِلهِ		لله	for Allah	lillahi
+12	34:46:8	w	مَثْنٜىٰ		مثني	(in) pairs	mathnā
+12	34:46:9	w	وَفُرَٰدٜىٰ		وفردي	and (as) individuals	wafurādā
+12	34:46:10	w	ثُمَّ		ثم	then	thumma
+12	34:46:11	w	تَتَفَكَّرُواْ࣌		تتفكروا	reflect	tatafakkarū
+12	34:46:12	w	مَا		ما	Not	mā
+12	34:46:13	w	بِصَٰحِبِكُم		بصحبكم	(is in) your companion	biṣāḥibikum
+12	34:46:14	w	مِّن		من	any	min
+12	34:46:15	w	جِنَّةٍ࣌		جنة	madness	jinnatin
+13	34:46:16	w	ࡴنْ		ان	Not	in
+13	34:46:17	w	هُوَ		هو	he	huwa
+13	34:46:18	w	إِلَّا		الا	(is) except	illā
+13	34:46:19	w	نَذِيرࣱ		نذير	a warner	nadhīrun
+13	34:46:20	w	لَّكُم		لكم	for you	lakum
+13	34:46:21	w	بَيْنَ		بين	before	bayna
+13	34:46:22	w	يَدَےْ		يدي	before	yaday
+13	34:46:23	w	عَذَابࣲ		عذاب	a punishment	ʿadhābin
+13	34:46:24	w	شَدِيدࣲ࣌		شديد	severe	shadīdin
+13	34:46:25	e	۝٤٦				
+13	34:47:1	w	قُلْ		قل	Say	qul
+13	34:47:2	w	مَا		ما	Not	mā
+14	34:47:3	w	سَأَلْتُكُم		سالتكم	I ask you	sa-altukum
+14	34:47:4	w	مِّنَ		من	for	min
+14	34:47:5	w	ࡰجْرࣲ		اجر	any payment	ajrin
+14	34:47:6	w	فَهُوَ		فهو	but it (is)	fahuwa
+14	34:47:7	w	لَكُمُۥٓ࣌		لكم	for you	lakum
+14	34:47:8	w	إِنَ		ان	Not	in
+14	34:47:9	w	ࡰجْرِيَ		اجري	(is) my payment	ajriya
+14	34:47:10	w	إِلَّا		الا	but	illā
+14	34:47:11	w	عَلَى		علي	from	ʿalā
+14	34:47:12	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+14	34:47:13	w	وَهُوَ		وهو	And He	wahuwa
+14	34:47:14	w	عَلَىٰ		علي	(is) over	ʿalā
+15	34:47:15	w	كُلِّ		كل	all	kulli
+15	34:47:16	w	شَےْءࣲ		شي	things	shayin
+15	34:47:17	w	شَهِيدࣱ࣌		شهيد	a Witness	shahīdun
+15	34:47:18	e	۝٤٧				
+15	34:48:1	w	قُلِ		قل	Say	qul
+15	34:48:2	w	ࡴنَّ		ان	Indeed	inna
+15	34:48:3	w	رَبِّے		ربي	my Lord	rabbī
+15	34:48:4	w	يَقْذِفُ		يقذف	projects	yaqdhifu
+15	34:48:5	w	بِالْحَقِّ࣌		بالحق	the truth	bil-ḥaqi
+15	34:48:6	w	عَلَّٰمُ		علم	(the) All-Knower	ʿallāmu
+15	34:48:7	w	ࡲ۬لْغُيُوبِ࣌		الغيوب	(of) the unseen	l-ghuyūbi
+15	34:48:8	e	۝٤٨				

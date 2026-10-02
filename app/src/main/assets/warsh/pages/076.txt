@@ -1,0 +1,124 @@
+1	3:195:1	w	فَاسْتَجَابَ		فاستجاب	Then responded	fa-is'tajāba
+1	3:195:2	w	لَهُمْ		لهم	to them	lahum
+1	3:195:3	w	رَبُّهُمُۥٓ		ربهم	their Lord	rabbuhum
+1	3:195:4	w	أَنِّے		اني	Indeed, I	annī
+1	3:195:5	w	لَآ		لا	(will) not	lā
+1	3:195:6	w	أُضِيعُ		اضيع	(let go) waste	uḍīʿu
+1	3:195:7	w	عَمَلَ		عمل	deeds	ʿamala
+1	3:195:8	w	عَٰمِلࣲ		عمل	(of the) doer	ʿāmilin
+1	3:195:9	w	مِّنكُم		منكم	among you	minkum
+1	3:195:10	w	مِّن		من	[from]	min
+2	3:195:11	w	ذَكَرٍ		ذكر	(whether) male	dhakarin
+2	3:195:12	w	ࡰوُ		او	or	aw
+2	3:195:13	w	ࡳنثٜىٰ࣌		انثي	female	unthā
+2	3:195:14	w	بَعْضُكُم		بعضكم	each of you	baʿḍukum
+2	3:195:15	w	مِّنۢ		من	from	min
+2	3:195:16	w	بَعْضࣲ࣌		بعض	(the) other	baʿḍin
+2	3:195:17	w	فَالذِينَ		فالذين	So those who	fa-alladhīna
+2	3:195:18	w	هَاجَرُواْ		هاجروا	emigrated	hājarū
+3	3:195:19	w	وَأُخْرِجُواْ		واخرجوا	and were driven out	wa-ukh'rijū
+3	3:195:20	w	مِن		من	from	min
+3	3:195:21	w	دِيٜـٰرِهِمْ		ديرهم	their homes	diyārihim
+3	3:195:22	w	وَأُوذُواْ		واوذوا	and were harmed	waūdhū
+3	3:195:23	w	فِے		في	in	fī
+3	3:195:24	w	سَبِيلِے		سبيلي	My way	sabīlī
+3	3:195:25	w	وَقَٰتَلُواْ		وقتلوا	and fought	waqātalū
+3	3:195:26	w	وَقُتِلُواْ		وقتلوا	and were killed	waqutilū
+4	3:195:27	w	لَأُكَفِّرَنَّ		لاكفرن	surely I (will) remove	la-ukaffiranna
+4	3:195:28	w	عَنْهُمْ		عنهم	from them	ʿanhum
+4	3:195:29	w	سَيِّـَٔاتِهِمْ		سياتهم	their evil deeds	sayyiātihim
+4	3:195:30	w	وَلَأُدْخِلَنَّهُمْ		ولادخلنهم	and surely I will admit them	wala-ud'khilannahum
+4	3:195:31	w	جَنَّٰتࣲ		جنت	(to) Gardens	jannātin
+4	3:195:32	w	تَجْرِے		تجري	flowing	tajrī
+5	3:195:33	w	مِن		من	from	min
+5	3:195:34	w	تَحْتِهَا		تحتها	underneath them	taḥtihā
+5	3:195:35	w	ࡰ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+5	3:195:36	w	ثَوَاباࣰ		ثوابا	a reward	thawāban
+5	3:195:37	w	مِّنْ		من	from	min
+5	3:195:38	w	عِندِ		عند	[near]	ʿindi
+5	3:195:39	w	ࡴ۬للَّهِ࣌		الله	Allah	l-lahi
+5	3:195:40	w	وَاللَّهُ		والله	And Allah	wal-lahu
+5	3:195:41	w	عِندَهُۥ		عنده	with Him	ʿindahu
+6	3:195:42	w	حُسْنُ		حسن	(is the) best	ḥus'nu
+6	3:195:43	w	ࡲ۬لثَّوَابِ࣌		الثواب	reward	l-thawābi
+6	3:195:44	e	۝١٩٥				
+6	3:196:1	w	۞ لَا		لا	(Let) not	lā
+6	3:196:2	w	يَغُرَّنَّكَ		يغرنك	deceive you	yaghurrannaka
+6	3:196:3	w	تَقَلُّبُ		تقلب	(the) movement	taqallubu
+6	3:196:4	w	ࡲ۬لذِينَ		الذين	(of) those who	alladhīna
+6	3:196:5	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+6	3:196:6	w	فِے		في	in	fī
+7	3:196:7	w	ࡴ۬لْبِلَٰدِ࣌		البلد	the land	l-bilādi
+7	3:196:8	e	۝١٩٦				
+7	3:197:1	w	مَتَٰعࣱ		متع	An enjoyment	matāʿun
+7	3:197:2	w	قَلِيلࣱ࣌		قليل	little	qalīlun
+7	3:197:3	w	ثُمَّ		ثم	then	thumma
+7	3:197:4	w	مَأْوٜيٰهُمْ		ماويهم	their abode	mawāhum
+7	3:197:5	w	جَهَنَّمُ࣌		جهنم	(is) hell	jahannamu
+7	3:197:6	w	وَبِيسَ		وبيس	[and] a wretched	wabi'sa
+8	3:197:7	w	ࡰ۬لْمِهَادُ࣌		المهاد	[the] resting place	l-mihādu
+8	3:197:8	e	۝١٩٧				
+8	3:198:1	w	لَٰكِنِ		لكن	But	lākini
+8	3:198:2	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+8	3:198:3	w	ࡰٜتَّقَوْاْ		اتقوا	fear	ittaqaw
+8	3:198:4	w	رَبَّهُمْ		ربهم	their Lord	rabbahum
+8	3:198:5	w	لَهُمْ		لهم	for them	lahum
+8	3:198:6	w	جَنَّٰتࣱ		جنت	(will be) Gardens	jannātun
+9	3:198:7	w	تَجْرِے		تجري	flows	tajrī
+9	3:198:8	w	مِن		من	from	min
+9	3:198:9	w	تَحْتِهَا		تحتها	underneath them	taḥtihā
+9	3:198:10	w	ࡰ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+9	3:198:11	w	خَٰلِدِينَ		خلدين	will abide forever	khālidīna
+9	3:198:12	w	فِيهَا		فيها	in it	fīhā
+9	3:198:13	w	نُزُلاࣰ		نزلا	a hospitality	nuzulan
+9	3:198:14	w	مِّنْ		من	from	min
+10	3:198:15	w	عِندِ		عند	[near]	ʿindi
+10	3:198:16	w	ࡴ۬للَّهِ࣌		الله	Allah	l-lahi
+10	3:198:17	w	وَمَا		وما	And what	wamā
+10	3:198:18	w	عِندَ		عند	(is) with	ʿinda
+10	3:198:19	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+10	3:198:20	w	خَيْرࣱ		خير	(is) best	khayrun
+10	3:198:21	w	لِّلَابْرٜارِ࣌		للابرار	for the righteous	lil'abrāri
+10	3:198:22	e	۝١٩٨				
+10	3:199:1	w	وَإِنَّ		وان	And indeed	wa-inna
+10	3:199:2	w	مِنَ		من	among	min
+11	3:199:3	w	ࡰهْلِ		اهل	(the) People	ahli
+11	3:199:4	w	ࡴ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+11	3:199:5	w	لَمَنْ		لمن	(are those) who	laman
+11	3:199:6	w	يُّومِنُ		يومن	believe	yu'minu
+11	3:199:7	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+11	3:199:8	w	وَمَآ		وما	and what	wamā
+11	3:199:9	w	أُنزِلَ		انزل	was revealed	unzila
+11	3:199:10	w	إِلَيْكُمْ		اليكم	to you	ilaykum
+12	3:199:11	w	وَمَآ		وما	and what	wamā
+12	3:199:12	w	أُنزِلَ		انزل	was revealed	unzila
+12	3:199:13	w	إِلَيْهِمْ		اليهم	to them	ilayhim
+12	3:199:14	w	خَٰشِعِينَ		خشعين	humbly submissive	khāshiʿīna
+12	3:199:15	w	لِلهِ࣌		لله	to Allah	lillahi
+12	3:199:16	w	لَا		لا	Not	lā
+12	3:199:17	w	يَشْتَرُونَ		يشترون	(do) they exchange	yashtarūna
+12	3:199:18	w	بِـَٔايَٰتِ		بايت	[with] (the) Verses	biāyāti
+12	3:199:19	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+13	3:199:20	w	ثَمَناࣰ		ثمنا	(for) a price	thamanan
+13	3:199:21	w	قَلِيلاً࣌		قليلا	little	qalīlan
+13	3:199:22	w	ࡳوْلَٰٓئِكَ		اوليك	Those	ulāika
+13	3:199:23	w	لَهُمُۥٓ		لهم	for them	lahum
+13	3:199:24	w	أَجْرُهُمْ		اجرهم	their reward	ajruhum
+13	3:199:25	w	عِندَ		عند	(is) with	ʿinda
+13	3:199:26	w	رَبِّهِمُۥٓ࣌		ربهم	their Lord	rabbihim
+13	3:199:27	w	إِنَّ		ان	Indeed	inna
+13	3:199:28	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+14	3:199:29	w	سَرِيعُ		سريع	(is) swift	sarīʿu
+14	3:199:30	w	ࡲ۬لْحِسَابِ࣌		الحساب	(in taking) the account	l-ḥisābi
+14	3:199:31	e	۝١٩٩				
+14	3:200:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+14	3:200:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+14	3:200:3	w	ءَامَنُواْ		امنوا	believe[d]	āmanū
+14	3:200:4	w	ࡲٜصْبِرُواْ		اصبروا	Be steadfast	iṣ'birū
+15	3:200:5	w	وَصَابِرُواْ		وصابروا	and [be] patient	waṣābirū
+15	3:200:6	w	وَرَابِطُواْ		ورابطوا	and [be] constant	warābiṭū
+15	3:200:7	w	وَاتَّقُواْ		واتقوا	and fear	wa-ittaqū
+15	3:200:8	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+15	3:200:9	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+15	3:200:10	w	تُفْلِحُونَ࣌		تفلحون	(be) successful	tuf'liḥūna
+15	3:200:11	e	۝٢٠٠				

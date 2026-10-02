@@ -1,0 +1,140 @@
+1	73:0:0	t					
+2	73:0:0	b					
+3	73:1:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+3	73:1:2	w	ࡰ۬لْمُزَّمِّلُ		المزمل	who wraps himself	l-muzamilu
+3	73:1:3	w	قُمِ		قم	Stand	qumi
+3	73:1:4	w	ࡴ۬ليْلَ		اليل	(in) the night	al-layla
+3	73:1:5	w	إِلَّا		الا	except	illā
+3	73:1:6	w	قَلِيلاࣰ		قليلا	a little	qalīlan
+3	73:1:7	e	۝١				
+3	73:2:1	w	نِّصْفَهُۥٓ		نصفه	Half of it	niṣ'fahu
+3	73:2:2	w	أَوُ		او	or	awi
+3	73:2:3	w	ࡲ࢈نقُصْ		انقص	lessen	unquṣ
+3	73:2:4	w	مِنْهُ		منه	from it	min'hu
+3	73:2:5	w	قَلِيلاً		قليلا	a little	qalīlan
+3	73:2:6	e	۝٢				
+4	73:3:1	w	ࡰوْ		او	Or	aw
+4	73:3:2	w	زِدْ		زد	add	zid
+4	73:3:3	w	عَلَيْهِ		عليه	to it	ʿalayhi
+4	73:3:4	w	وَرَتِّلِ		ورتل	and recite	warattili
+4	73:3:5	w	ࡴ۬لْقُرْءَانَ		القران	the Quran	l-qur'āna
+4	73:3:6	w	تَرْتِيلاً࣌		ترتيلا	(with) measured rhythmic recitation	tartīlan
+4	73:3:7	e	۝٣				
+4	73:4:1	w	ࡴنَّا		انا	Indeed, We	innā
+4	73:4:2	w	سَنُلْقِے		سنلقي	will cast	sanul'qī
+4	73:4:3	w	عَلَيْكَ		عليك	upon you	ʿalayka
+4	73:4:4	w	قَوْلاࣰ		قولا	a Word	qawlan
+5	73:4:5	w	ثَقِيلاً࣌		ثقيلا	heavy	thaqīlan
+5	73:4:6	e	۝٤				
+5	73:5:1	w	ࡴنَّ		ان	Indeed	inna
+5	73:5:2	w	نَاشِئَةَ		ناشية	(the) rising	nāshi-ata
+5	73:5:3	w	ࡰ۬ليْلِ		اليل	(at) the night	al-layli
+5	73:5:4	w	هِيَ		هي	it	hiya
+5	73:5:5	w	أَشَدُّ		اشد	(is) very hard	ashaddu
+5	73:5:6	w	وَطْـٔاࣰ		وطا	and most potent	waṭan
+5	73:5:7	w	وَأَقْوَمُ		واقوم	and more suitable	wa-aqwamu
+5	73:5:8	w	قِيلاً࣌		قيلا	(for) Word	qīlan
+5	73:5:9	e	۝٥				
+5	73:6:1	w	ࡴنَّ		ان	Indeed	inna
+5	73:6:2	w	لَكَ		لك	for you	laka
+6	73:6:3	w	فِے		في	in	fī
+6	73:6:4	w	ࡴ۬لنَّهٜارِ		النهار	the day	l-nahāri
+6	73:6:5	w	سَبْحاࣰ		سبحا	(is) occupation	sabḥan
+6	73:6:6	w	طَوِيلاࣰ࣌		طويلا	prolonged	ṭawīlan
+6	73:6:7	e	۝٦				
+6	73:7:1	w	وَاذْكُرِ		واذكر	And remember	wa-udh'kuri
+6	73:7:2	w	ࡴٜسْمَ		اسم	(the) name	is'ma
+6	73:7:3	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+6	73:7:4	w	وَتَبَتَّلِ		وتبتل	and devote yourself	watabattal
+6	73:7:5	w	ࡴلَيْهِ		اليه	to Him	ilayhi
+6	73:7:6	w	تَبْتِيلاࣰ࣌		تبتيلا	(with) devotion	tabtīlan
+6	73:7:7	e	۝٧				
+7	73:8:1	w	رَّبُّ		رب	(The) Lord	rabbu
+7	73:8:2	w	ࡲ۬لْمَشْرِقِ		المشرق	(of) the east	l-mashriqi
+7	73:8:3	w	وَالْمَغْرِبِ࣌		والمغرب	and the west	wal-maghribi
+7	73:8:4	w	لَآ		لا	(there is) no	lā
+7	73:8:5	w	إِلَٰهَ		اله	god	ilāha
+7	73:8:6	w	إِلَّا		الا	except	illā
+7	73:8:7	w	هُوَ࣌		هو	Him	huwa
+7	73:8:8	w	فَاتَّخِذْهُ		فاتخذه	so take Him	fa-ittakhidh'hu
+7	73:8:9	w	وَكِيلاࣰ࣌		وكيلا	(as) Disposer of Affairs	wakīlan
+7	73:8:10	e	۝٨				
+7	73:9:1	w	وَاصْبِرْ		واصبر	And be patient	wa-iṣ'bir
+8	73:9:2	w	عَلَىٰ		علي	over	ʿalā
+8	73:9:3	w	مَا		ما	what	mā
+8	73:9:4	w	يَقُولُونَ࣌		يقولون	they say	yaqūlūna
+8	73:9:5	w	وَاهْجُرْهُمْ		واهجرهم	and avoid them	wa-uh'jur'hum
+8	73:9:6	w	هَجْراࣰ		هجرا	an avoidance	hajran
+8	73:9:7	w	جَمِيلاࣰ࣌		جميلا	gracious	jamīlan
+8	73:9:8	e	۝٩				
+8	73:10:1	w	وَذَرْنِے		وذرني	And leave Me	wadharnī
+8	73:10:2	w	وَالْمُكَذِّبِينَ		والمكذبين	and the deniers	wal-mukadhibīna
+9	73:10:3	w	أُوْلِے		اولي	possessors	ulī
+9	73:10:4	w	ࡴ۬لنَّعْمَةِ		النعمة	(of) the ease	l-naʿmati
+9	73:10:5	w	وَمَهِّلْهُمْ		ومهلهم	and allow them respite	wamahhil'hum
+9	73:10:6	w	قَلِيلاً࣌		قليلا	a little	qalīlan
+9	73:10:7	e	۝١٠				
+9	73:11:1	w	ࡴنَّ		ان	Indeed	inna
+9	73:11:2	w	لَدَيْنَآ		لدينا	with Us	ladaynā
+9	73:11:3	w	أَنكَالاࣰ		انكالا	(are) shackles	ankālan
+9	73:11:4	w	وَجَحِيماࣰ		وجحيما	and burning fire	wajaḥīman
+9	73:11:5	e	۝١١				
+10	73:12:1	w	وَطَعَاماࣰ		وطعاما	And food	waṭaʿāman
+10	73:12:2	w	ذَا		ذا	that	dhā
+10	73:12:3	w	غُصَّةࣲ		غصة	chokes	ghuṣṣatin
+10	73:12:4	w	وَعَذَاباً		وعذابا	and a punishment	waʿadhāban
+10	73:12:5	w	ࡰلِيماࣰ		اليما	painful	alīman
+10	73:12:6	e	۝١٢				
+10	73:13:1	w	يَوْمَ		يوم	(On the) Day	yawma
+10	73:13:2	w	تَرْجُفُ		ترجف	will quake	tarjufu
+10	73:13:3	w	ࡲ۬لَارْضُ		الارض	the earth	l-arḍu
+10	73:13:4	w	وَالْجِبَالُ		والجبال	and the mountains	wal-jibālu
+11	73:13:5	w	وَكَانَتِ		وكانت	and will become	wakānati
+11	73:13:6	w	ࡴ۬لْجِبَالُ		الجبال	the mountains	l-jibālu
+11	73:13:7	w	كَثِيباࣰ		كثيبا	a heap of sand	kathīban
+11	73:13:8	w	مَّهِيلاً࣌		مهيلا	pouring down	mahīlan
+11	73:13:9	e	۝١٣				
+11	73:14:1	w	ࡴنَّآ		انا	Indeed, We	innā
+11	73:14:2	w	أَرْسَلْنَآ		ارسلنا	[We] have sent	arsalnā
+11	73:14:3	w	إِلَيْكُمْ		اليكم	to you	ilaykum
+11	73:14:4	w	رَسُولاࣰ		رسولا	a Messenger	rasūlan
+11	73:14:5	w	شَٰهِداً		شهدا	(as) a witness	shāhidan
+12	73:14:6	w	عَلَيْكُمْ		عليكم	upon you	ʿalaykum
+12	73:14:7	w	كَمَآ		كما	as	kamā
+12	73:14:8	w	أَرْسَلْنَآ		ارسلنا	We sent	arsalnā
+12	73:14:9	w	إِلَىٰ		الي	to	ilā
+12	73:14:10	w	فِرْعَوْنَ		فرعون	Firaun	fir'ʿawna
+12	73:14:11	w	رَسُولاࣰ		رسولا	a Messenger	rasūlan
+12	73:14:12	e	۝١٤				
+12	73:15:1	w	فَعَصٜىٰ		فعصي	But disobeyed	faʿaṣā
+12	73:15:2	w	فِرْعَوْنُ		فرعون	Firaun	fir'ʿawnu
+12	73:15:3	w	ࡲ۬لرَّسُولَ		الرسول	the Messenger	l-rasūla
+13	73:15:4	w	فَأَخَذْنَٰهُ		فاخذنه	so We seized him	fa-akhadhnāhu
+13	73:15:5	w	أَخْذاࣰ		اخذا	(with) a seizure	akhdhan
+13	73:15:6	w	وَبِيلاࣰ࣌		وبيلا	ruinous	wabīlan
+13	73:15:7	e	۝١٥				
+13	73:16:1	w	فَكَيْفَ		فكيف	Then how	fakayfa
+13	73:16:2	w	تَتَّقُونَ		تتقون	will you guard yourselves	tattaqūna
+13	73:16:3	w	إِن		ان	if	in
+13	73:16:4	w	كَفَرْتُمْ		كفرتم	you disbelieve	kafartum
+13	73:16:5	w	يَوْماࣰ		يوما	a Day	yawman
+14	73:16:6	w	يَجْعَلُ		يجعل	(that) will make	yajʿalu
+14	73:16:7	w	ࡲ۬لْوِلْدَٰنَ		الولدن	the children	l-wil'dāna
+14	73:16:8	w	شِيباً		شيبا	gray-haired	shīban
+14	73:16:9	w	ࡴ۬لسَّمَآءُ		السما	The heaven	al-samāu
+14	73:16:10	w	مُنفَطِرُۢ		منفطر	(will) break apart	munfaṭirun
+14	73:16:11	w	بِهِۦ࣌		بهي	therefrom	bihi
+14	73:16:12	w	كَانَ		كان	is	kāna
+14	73:16:13	w	وَعْدُهُۥ		وعده	His Promise	waʿduhu
+14	73:16:14	w	مَفْعُولاً࣌		مفعولا	to be fulfilled	mafʿūlan
+14	73:16:15	e	۝١٦				
+15	73:17:1	w	ࡴنَّ		ان	Indeed	inna
+15	73:17:2	w	هَٰذِهِۦ		هذهي	this	hādhihi
+15	73:17:3	w	تَذْكِرَةࣱ࣌		تذكرة	(is) a Reminder	tadhkiratun
+15	73:17:4	w	فَمَن		فمن	then whoever	faman
+15	73:17:5	w	شَآءَ		شا	wills	shāa
+15	73:17:6	w	ࡰٜتَّخَذَ		اتخذ	(let him) take	ittakhadha
+15	73:17:7	w	إِلَىٰ		الي	to	ilā
+15	73:17:8	w	رَبِّهِۦ		ربهي	his Lord	rabbihi
+15	73:17:9	w	سَبِيلاً࣌		سبيلا	a way	sabīlan
+15	73:17:10	e	۝١٧				

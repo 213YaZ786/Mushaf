@@ -1,0 +1,129 @@
+1	7:144:1	w	قَالَ		قال	He said	qāla
+1	7:144:2	w	يَٰمُوسٜىٰٓ		يموسي	O Musa	yāmūsā
+1	7:144:3	w	إِنِّے		اني	Indeed, I	innī
+1	7:144:4	w	ࡴٜصْطَفَيْتُكَ		اصطفيتك	have chosen you	iṣ'ṭafaytuka
+1	7:144:5	w	عَلَى		علي	over	ʿalā
+1	7:144:6	w	ࡰ۬لنَّاسِ		الناس	the people	l-nāsi
+1	7:144:7	w	بِرِسَالَتِے		برسالتي	with My Messages	birisālātī
+1	7:144:8	w	وَبِكَلَٰمِے		وبكلمي	and with My words	wabikalāmī
+2	7:144:9	w	فَخُذْ		فخذ	So take	fakhudh
+2	7:144:10	w	مَآ		ما	what	mā
+2	7:144:11	w	ءَاتَيْتُكَ		اتيتك	I have given you	ātaytuka
+2	7:144:12	w	وَكُن		وكن	and be	wakun
+2	7:144:13	w	مِّنَ		من	among	mina
+2	7:144:14	w	ࡰ۬لشَّٰكِرِينَ࣌		الشكرين	the grateful	l-shākirīna
+2	7:144:15	e	۝١٤٤				
+2	7:145:1	w	وَكَتَبْنَا		وكتبنا	And We ordained (laws)	wakatabnā
+3	7:145:2	w	لَهُۥ		له	for him	lahu
+3	7:145:3	w	فِے		في	in	fī
+3	7:145:4	w	ࡴ۬لَالْوَاحِ		الالواح	the tablets	l-alwāḥi
+3	7:145:5	w	مِن		من	of	min
+3	7:145:6	w	كُلِّ		كل	every	kulli
+3	7:145:7	w	شَےْءࣲ		شي	thing	shayin
+3	7:145:8	w	مَّوْعِظَةࣰ		موعظة	an instruction	mawʿiẓatan
+3	7:145:9	w	وَتَفْصِيلاࣰ		وتفصيلا	and explanation	watafṣīlan
+3	7:145:10	w	لِّكُلِّ		لكل	for every	likulli
+3	7:145:11	w	شَےْءࣲ࣌		شي	thing	shayin
+4	7:145:12	w	فَخُذْهَا		فخذها	So take them	fakhudh'hā
+4	7:145:13	w	بِقُوَّةࣲ		بقوة	with firmness	biquwwatin
+4	7:145:14	w	وَامُرْ		وامر	and order	wamur
+4	7:145:15	w	قَوْمَكَ		قومك	your people	qawmaka
+4	7:145:16	w	يَاخُذُواْ		ياخذوا	(to) take	yakhudhū
+4	7:145:17	w	بِأَحْسَنِهَا࣌		باحسنها	(the) best of it	bi-aḥsanihā
+4	7:145:18	w	سَأُوْرِيكُمْ		ساوريكم	I will show you	sa-urīkum
+5	7:145:19	w	دَارَ		دار	(the) home	dāra
+5	7:145:20	w	ࡰ۬لْفَٰسِقِينَ࣌		الفسقين	(of) the defiantly disobedient	l-fāsiqīna
+5	7:145:21	e	۝١٤٥				
+5	7:146:1	w	سَأَصْرِفُ		ساصرف	I will turn away	sa-aṣrifu
+5	7:146:2	w	عَنَ		عن	from	ʿan
+5	7:146:3	w	اٰيَٰتِيَ		ايتي	My Signs	āyātiya
+5	7:146:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+5	7:146:5	w	يَتَكَبَّرُونَ		يتكبرون	are arrogant	yatakabbarūna
+6	7:146:6	w	فِے		في	in	fī
+6	7:146:7	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+6	7:146:8	w	بِغَيْرِ		بغير	without	bighayri
+6	7:146:9	w	ࡴ۬لْحَقِّ		الحق	[the] right	l-ḥaqi
+6	7:146:10	w	وَإِنْ		وان	and if	wa-in
+6	7:146:11	w	يَّرَوْاْ		يروا	they see	yaraw
+6	7:146:12	w	كُلَّ		كل	every	kulla
+6	7:146:13	w	ءَايَةࣲ		اية	sign	āyatin
+6	7:146:14	w	لَّا		لا	not	lā
+6	7:146:15	w	يُومِنُواْ		يومنوا	(will) they believe	yu'minū
+6	7:146:16	w	بِهَا		بها	in it	bihā
+7	7:146:17	w	وَإِنْ		وان	And if	wa-in
+7	7:146:18	w	يَّرَوْاْ		يروا	they see	yaraw
+7	7:146:19	w	سَبِيلَ		سبيل	(the) way	sabīla
+7	7:146:20	w	ࡰ۬لرُّشْدِ		الرشد	(of) the righteousness	l-rush'di
+7	7:146:21	w	لَا		لا	not	lā
+7	7:146:22	w	يَتَّخِذُوهُ		يتخذوه	(will) they take it	yattakhidhūhu
+7	7:146:23	w	سَبِيلاࣰ		سبيلا	(as) a way	sabīlan
+7	7:146:24	w	وَإِنْ		وان	but if	wa-in
+7	7:146:25	w	يَّرَوْاْ		يروا	they see	yaraw
+7	7:146:26	w	سَبِيلَ		سبيل	(the) way	sabīla
+8	7:146:27	w	ࡰ۬لْغَيِّ		الغي	(of) [the] error	l-ghayi
+8	7:146:28	w	يَتَّخِذُوهُ		يتخذوه	they will take it	yattakhidhūhu
+8	7:146:29	w	سَبِيلاࣰ࣌		سبيلا	(as) a way	sabīlan
+8	7:146:30	w	ذَٰلِكَ		ذلك	That	dhālika
+8	7:146:31	w	بِأَنَّهُمْ		بانهم	(is) because they	bi-annahum
+8	7:146:32	w	كَذَّبُواْ		كذبوا	denied	kadhabū
+8	7:146:33	w	بِـَٔايَٰتِنَا		بايتنا	Our Signs	biāyātinā
+9	7:146:34	w	وَكَانُواْ		وكانوا	and they were	wakānū
+9	7:146:35	w	عَنْهَا		عنها	of them	ʿanhā
+9	7:146:36	w	غَٰفِلِينَ࣌		غفلين	heedless	ghāfilīna
+9	7:146:37	e	۝١٤٦				
+9	7:147:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+9	7:147:2	w	كَذَّبُواْ		كذبوا	denied	kadhabū
+9	7:147:3	w	بِـَٔايَٰتِنَا		بايتنا	Our Signs	biāyātinā
+10	7:147:4	w	وَلِقَآءِ		ولقا	and (the) meeting	waliqāi
+10	7:147:5	w	ࡴ۬لَاخِرَةِ		الاخرة	(of) the Hereafter	l-ākhirati
+10	7:147:6	w	حَبِطَتَ		حبطت	worthless	ḥabiṭat
+10	7:147:7	w	ࡰعْمَٰلُهُمْ		اعملهم	(are) their deeds	aʿmāluhum
+10	7:147:8	w	هَلْ		هل	Will	hal
+10	7:147:9	w	يُجْزَوْنَ		يجزون	they be recompensed	yuj'zawna
+10	7:147:10	w	إِلَّا		الا	except	illā
+10	7:147:11	w	مَا		ما	(for) what	mā
+10	7:147:12	w	كَانُواْ		كانوا	they used to	kānū
+11	7:147:13	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+11	7:147:14	e	۝١٤٧				
+11	7:148:1	w	وَاتَّخَذَ		واتخذ	And took	wa-ittakhadha
+11	7:148:2	w	قَوْمُ		قوم	(the) people	qawmu
+11	7:148:3	w	مُوسٜىٰ		موسي	(of) Musa	mūsā
+11	7:148:4	w	مِنۢ		من	from	min
+11	7:148:5	w	بَعْدِهِۦ		بعدهي	after him	baʿdihi
+11	7:148:6	w	مِنْ		من	from	min
+11	7:148:7	w	حُلِيِّهِمْ		حليهم	their ornaments	ḥuliyyihim
+12	7:148:8	w	عِجْلاࣰ		عجلا	a calf	ʿij'lan
+12	7:148:9	w	جَسَداࣰ		جسدا	an image	jasadan
+12	7:148:10	w	لَّهُۥ		له	[for] it	lahu
+12	7:148:11	w	خُوَارٌ࣌		خوار	(had) a lowing sound	khuwārun
+12	7:148:12	w	ࡰلَمْ		الم	Did not	alam
+12	7:148:13	w	يَرَوَاْ		يروا	they see	yaraw
+12	7:148:14	w	ࡰنَّهُۥ		انه	that it	annahu
+12	7:148:15	w	لَا		لا	(could) not	lā
+12	7:148:16	w	يُكَلِّمُهُمْ		يكلمهم	speak to them	yukallimuhum
+12	7:148:17	w	وَلَا		ولا	and not	walā
+13	7:148:18	w	يَهْدِيهِمْ		يهديهم	guide them	yahdīhim
+13	7:148:19	w	سَبِيلاً࣌		سبيلا	(to) a way	sabīlan
+13	7:148:20	w	ࡴٜتَّخَذُوهُ		اتخذوه	They took it (for worship)	ittakhadhūhu
+13	7:148:21	w	وَكَانُواْ		وكانوا	and they were	wakānū
+13	7:148:22	w	ظَٰلِمِينَ࣌		ظلمين	wrongdoers	ẓālimīna
+13	7:148:23	e	۝١٤٨				
+14	7:149:1	w	۞ وَلَمَّا		ولما	And when	walammā
+14	7:149:2	w	سُقِطَ		سقط	(it was made to) fall	suqiṭa
+14	7:149:3	w	فِےٓ		في	into	fī
+14	7:149:4	w	أَيْدِيهِمْ		ايديهم	their hands	aydīhim
+14	7:149:5	w	وَرَأَوَاْ		وراوا	and they saw	wara-aw
+14	7:149:6	w	ࡰنَّهُمْ		انهم	that they	annahum
+14	7:149:7	w	قَد		قد	(had) indeed	qad
+14	7:149:8	w	ضَّلُّواْ		ضلوا	gone astray	ḍallū
+14	7:149:9	w	قَالُواْ		قالوا	they said	qālū
+14	7:149:10	w	لَئِن		لين	If	la-in
+15	7:149:11	w	لَّمْ		لم	not	lam
+15	7:149:12	w	يَرْحَمْنَا		يرحمنا	has Mercy on us	yarḥamnā
+15	7:149:13	w	رَبُّنَا		ربنا	Our Lord	rabbunā
+15	7:149:14	w	وَيَغْفِرْ		ويغفر	and forgive	wayaghfir
+15	7:149:15	w	لَنَا		لنا	[for] us	lanā
+15	7:149:16	w	لَنَكُونَنَّ		لنكونن	we will surely be	lanakūnanna
+15	7:149:17	w	مِنَ		من	among	mina
+15	7:149:18	w	ࡰ۬لْخَٰسِرِينَ࣌		الخسرين	the losers	l-khāsirīna
+15	7:149:19	e	۝١٤٩				

@@ -1,0 +1,128 @@
+1	6:83:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+1	6:83:2	w	ءَامَنُواْ		امنوا	believed	āmanū
+1	6:83:3	w	وَلَمْ		ولم	and (did) not	walam
+1	6:83:4	w	يَلْبِسُوٓاْ		يلبسوا	mix	yalbisū
+1	6:83:5	w	إِيمَٰنَهُم		ايمنهم	their belief	īmānahum
+1	6:83:6	w	بِظُلْمٍ		بظلم	with wrong	biẓul'min
+1	6:83:7	w	ࡳوْلَٰٓئِكَ		اوليك	those	ulāika
+1	6:83:8	w	لَهُمُ		لهم	for them	lahumu
+1	6:83:9	w	ࡲ۬لَامْنُ		الامن	(is) the security	l-amnu
+2	6:83:10	w	وَهُم		وهم	and they	wahum
+2	6:83:11	w	مُّهْتَدُونَ࣌		مهتدون	(are) rightly guided	muh'tadūna
+2	6:83:12	e	۝٨٣				
+2	6:84:1	w	وَتِلْكَ		وتلك	And this	watil'ka
+2	6:84:2	w	حُجَّتُنَآ		حجتنا	(is) Our argument	ḥujjatunā
+2	6:84:3	w	ءَاتَيْنَٰهَآ		اتينها	We gave it	ātaynāhā
+2	6:84:4	w	إِبْرَٰهِيمَ		ابرهيم	(to) Ibrahim	ib'rāhīma
+2	6:84:5	w	عَلَىٰ		علي	against	ʿalā
+3	6:84:6	w	قَوْمِهِۦ࣌		قومهي	his people	qawmihi
+3	6:84:7	w	نَرْفَعُ		نرفع	We raise	narfaʿu
+3	6:84:8	w	دَرَجَٰتِ		درجت	(by) degrees	darajātin
+3	6:84:9	w	مَن		من	whom	man
+3	6:84:10	w	نَّشَآءُ࣌		نشا	We will	nashāu
+3	6:84:11	w	ࡹِنَّ		ان	Indeed	inna
+3	6:84:12	w	رَبَّكَ		ربك	your Lord	rabbaka
+3	6:84:13	w	حَكِيمٌ		حكيم	(is) All-Wise	ḥakīmun
+3	6:84:14	w	عَلِيمࣱ࣌		عليم	All-Knowing	ʿalīmun
+3	6:84:15	e	۝٨٤				
+4	6:85:1	w	وَوَهَبْنَا		ووهبنا	And We bestowed	wawahabnā
+4	6:85:2	w	لَهُۥٓ		له	to him	lahu
+4	6:85:3	w	إِسْحَٰقَ		اسحق	Isaac	is'ḥāqa
+4	6:85:4	w	وَيَعْقُوبَ࣌		ويعقوب	and Yaqub	wayaʿqūba
+4	6:85:5	w	كُلّاً		كلا	all	kullan
+4	6:85:6	w	هَدَيْنَا࣌		هدينا	We guided	hadaynā
+4	6:85:7	w	وَنُوحاً		ونوحا	And Nuh	wanūḥan
+4	6:85:8	w	هَدَيْنَا		هدينا	We guided	hadaynā
+5	6:85:9	w	مِن		من	from	min
+5	6:85:10	w	قَبْلُ࣌		قبل	before	qablu
+5	6:85:11	w	وَمِن		ومن	and of	wamin
+5	6:85:12	w	ذُرِّيَّتِهِۦ		ذريتهي	his descendents	dhurriyyatihi
+5	6:85:13	w	دَاوُۥدَ		داود	Dawood	dāwūda
+5	6:85:14	w	وَسُلَيْمَٰنَ		وسليمن	and Sulaiman	wasulaymāna
+5	6:85:15	w	وَأَيُّوبَ		وايوب	and Ayyub	wa-ayyūba
+5	6:85:16	w	وَيُوسُفَ		ويوسف	and Yusuf	wayūsufa
+6	6:85:17	w	وَمُوسٜىٰ		وموسي	and Musa	wamūsā
+6	6:85:18	w	وَهَٰرُونَ࣌		وهرون	and Harun	wahārūna
+6	6:85:19	w	وَكَذَٰلِكَ		وكذلك	And thus	wakadhālika
+6	6:85:20	w	نَجْزِے		نجزي	We reward	najzī
+6	6:85:21	w	ࡴ۬لْمُحْسِنِينَ࣌		المحسنين	the good-doers	l-muḥ'sinīna
+6	6:85:22	e	۝٨٥				
+7	6:86:1	w	وَزَكَرِيَّآءَ		وزكريا	And Zakariya	wazakariyyā
+7	6:86:2	w	وَيَحْيٜىٰ		ويحيي	and Yahya	wayaḥyā
+7	6:86:3	w	وَعِيسٜىٰ		وعيسي	and Isa	waʿīsā
+7	6:86:4	w	وَإِلْيَاسَ࣌		والياس	and Elijah	wa-il'yāsa
+7	6:86:5	w	كُلࣱّ		كل	all (were)	kullun
+7	6:86:6	w	مِّنَ		من	of	mina
+7	6:86:7	w	ࡰ۬لصَّٰلِحِينَ࣌		الصلحين	the righteous	l-ṣāliḥīna
+7	6:86:8	e	۝٨٦				
+8	6:87:1	w	وَإِسْمَٰعِيلَ		واسمعيل	And Ishmael	wa-is'māʿīla
+8	6:87:2	w	وَالْيَسَعَ		واليسع	and Elisha	wal-yasaʿa
+8	6:87:3	w	وَيُونُسَ		ويونس	and Yunus	wayūnusa
+8	6:87:4	w	وَلُوطاࣰ࣌		ولوطا	and Lut	walūṭan
+8	6:87:5	w	وَكُلّاࣰ		وكلا	and all	wakullan
+8	6:87:6	w	فَضَّلْنَا		فضلنا	We preferred	faḍḍalnā
+8	6:87:7	w	عَلَى		علي	over	ʿalā
+9	6:87:8	w	ࡰ۬لْعَٰلَمِينَ࣌		العلمين	the worlds	l-ʿālamīna
+9	6:87:9	e	۝٨٧				
+9	6:88:1	w	وَمِنَ		ومن	And from	wamin
+9	6:88:2	w	اٰبَآئِهِمْ		ابايهم	their fathers	ābāihim
+9	6:88:3	w	وَذُرِّيَّٰتِهِمْ		وذريتهم	and their descendents	wadhurriyyātihim
+9	6:88:4	w	وَإِخْوَٰنِهِمْ࣌		واخونهم	and their brothers	wa-ikh'wānihim
+9	6:88:5	w	وَاجْتَبَيْنَٰهُمْ		واجتبينهم	and We chose them	wa-ij'tabaynāhum
+10	6:88:6	w	وَهَدَيْنَٰهُمُۥٓ		وهدينهم	and We guided them	wahadaynāhum
+10	6:88:7	w	إِلَىٰ		الي	to	ilā
+10	6:88:8	w	صِرَٰطࣲ		صرط	a path	ṣirāṭin
+10	6:88:9	w	مُّسْتَقِيمࣲ࣌		مستقيم	straight	mus'taqīmin
+10	6:88:10	e	۝٨٨				
+10	6:89:1	w	ذَٰلِكَ		ذلك	That	dhālika
+10	6:89:2	w	هُدَى		هدي	(is the) Guidance	hudā
+10	6:89:3	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+10	6:89:4	w	يَهْدِے		يهدي	He guides	yahdī
+11	6:89:5	w	بِهِۦ		بهي	with it	bihi
+11	6:89:6	w	مَنْ		من	whom	man
+11	6:89:7	w	يَّشَآءُ		يشا	He wills	yashāu
+11	6:89:8	w	مِنْ		من	of	min
+11	6:89:9	w	عِبَادِهِۦ࣌		عبادهي	His slaves	ʿibādihi
+11	6:89:10	w	وَلَوَ		ولو	But if	walaw
+11	6:89:11	w	ࡰشْرَكُواْ		اشركوا	they (had) associated partners (with Allah)	ashrakū
+11	6:89:12	w	لَحَبِطَ		لحبط	surely (would be) worthless	laḥabiṭa
+11	6:89:13	w	عَنْهُم		عنهم	for them	ʿanhum
+11	6:89:14	w	مَّا		ما	what	mā
+11	6:89:15	w	كَانُواْ		كانوا	they used to	kānū
+12	6:89:16	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+12	6:89:17	e	۝٨٩				
+12	6:90:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+12	6:90:2	w	ࡰ۬لذِينَ		الذين	(are) ones whom	alladhīna
+12	6:90:3	w	ءَاتَيْنَٰهُمُ		اتينهم	We gave them	ātaynāhumu
+12	6:90:4	w	ࡲ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+12	6:90:5	w	وَالْحُكْمَ		والحكم	and the judgment	wal-ḥuk'ma
+13	6:90:6	w	وَالنُّبُوٓءَةَ࣌		والنبوة	and the Prophethood	wal-nubuwata
+13	6:90:7	w	فَإِنْ		فان	But if	fa-in
+13	6:90:8	w	يَّكْفُرْ		يكفر	disbelieve	yakfur
+13	6:90:9	w	بِهَا		بها	in it	bihā
+13	6:90:10	w	هَٰٓؤُلَآءِ		هولا	these	hāulāi
+13	6:90:11	w	فَقَدْ		فقد	then indeed	faqad
+13	6:90:12	w	وَكَّلْنَا		وكلنا	We have entrusted	wakkalnā
+13	6:90:13	w	بِهَا		بها	it	bihā
+13	6:90:14	w	قَوْماࣰ		قوما	(to) a people	qawman
+13	6:90:15	w	لَّيْسُواْ		ليسوا	who are not	laysū
+14	6:90:16	w	بِهَا		بها	therein	bihā
+14	6:90:17	w	بِكٜـٰفِرِينَ࣌		بكفرين	disbelievers	bikāfirīna
+14	6:90:18	e	۝٩٠				
+14	6:91:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+14	6:91:2	w	ࡰ۬لذِينَ		الذين	(are) ones whom	alladhīna
+14	6:91:3	w	هَدَى		هدي	(have been) guided	hadā
+14	6:91:4	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+14	6:91:5	w	فَبِهُدٜيٰهُمُ		فبهديهم	so of their guidance	fabihudāhumu
+14	6:91:6	w	ࡲٜقْتَدِهْ࣌		اقتده	you follow	iq'tadih
+15	6:91:7	w	قُل		قل	Say	qul
+15	6:91:8	w	لَّآ		لا	Not	lā
+15	6:91:9	w	أَسْـَٔلُكُمْ		اسلكم	I ask you	asalukum
+15	6:91:10	w	عَلَيْهِ		عليه	for it	ʿalayhi
+15	6:91:11	w	أَجْراً࣌		اجرا	any reward	ajran
+15	6:91:12	w	ࡴنْ		ان	Not	in
+15	6:91:13	w	هُوَ		هو	(is) it	huwa
+15	6:91:14	w	إِلَّا		الا	but	illā
+15	6:91:15	w	ذِكْرٜىٰ		ذكري	a reminder	dhik'rā
+15	6:91:16	w	لِلْعَٰلَمِينَ࣌		للعلمين	for the worlds	lil'ʿālamīna
+15	6:91:17	e	۝٩١				

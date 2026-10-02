@@ -1,0 +1,137 @@
+1	50:0:0	t					
+2	50:0:0	b					
+3	50:1:1	w	قَٓ࣌		ق	Qaf	qaf
+3	50:1:2	w	وَالْقُرْءَانِ		والقران	By the Quran	wal-qur'āni
+3	50:1:3	w	ࡴ۬لْمَجِيدِ		المجيد	the Glorious	l-majīdi
+3	50:1:4	e	۝١				
+3	50:2:1	w	بَلْ		بل	Nay	bal
+3	50:2:2	w	عَجِبُوٓاْ		عجبوا	they wonder	ʿajibū
+3	50:2:3	w	أَن		ان	that	an
+3	50:2:4	w	جَآءَهُم		جاهم	has come to them	jāahum
+3	50:2:5	w	مُّنذِرࣱ		منذر	a warner	mundhirun
+3	50:2:6	w	مِّنْهُمْ		منهم	from them	min'hum
+3	50:2:7	w	فَقَالَ		فقال	So say	faqāla
+4	50:2:8	w	ࡰ۬لْكَٰفِرُونَ		الكفرون	the disbelievers	l-kāfirūna
+4	50:2:9	w	هَٰذَا		هذا	This	hādhā
+4	50:2:10	w	شَےْءٌ		شي	(is) a thing	shayon
+4	50:2:11	w	عَجِيبٌ		عجيب	amazing	ʿajībun
+4	50:2:12	e	۝٢				
+4	50:3:1	w	ࡰࢇذَا		اذا	What! When	a-idhā
+4	50:3:2	w	مِتْنَا		متنا	we die	mit'nā
+4	50:3:3	w	وَكُنَّا		وكنا	and have become	wakunnā
+4	50:3:4	w	تُرَاباࣰ		ترابا	dust	turāban
+4	50:3:5	w	ذَٰلِكَ		ذلك	That	dhālika
+5	50:3:6	w	رَجْعُۢ		رجع	(is) a return	rajʿun
+5	50:3:7	w	بَعِيدࣱ࣌		بعيد	far	baʿīdun
+5	50:3:8	e	۝٣				
+5	50:4:1	w	قَدْ		قد	Certainly	qad
+5	50:4:2	w	عَلِمْنَا		علمنا	We know	ʿalim'nā
+5	50:4:3	w	مَا		ما	what	mā
+5	50:4:4	w	تَنقُصُ		تنقص	diminishes	tanquṣu
+5	50:4:5	w	ࡲ۬لَارْضُ		الارض	the earth	l-arḍu
+5	50:4:6	w	مِنْهُمْ		منهم	of them	min'hum
+5	50:4:7	w	وَعِندَنَا		وعندنا	and with Us	waʿindanā
+5	50:4:8	w	كِتَٰبٌ		كتب	(is) a Book	kitābun
+6	50:4:9	w	حَفِيظُۢ࣌		حفيظ	guarded	ḥafīẓun
+6	50:4:10	e	۝٤				
+6	50:5:1	w	بَلْ		بل	Nay	bal
+6	50:5:2	w	كَذَّبُواْ		كذبوا	they denied	kadhabū
+6	50:5:3	w	بِالْحَقِّ		بالحق	the truth	bil-ḥaqi
+6	50:5:4	w	لَمَّا		لما	when	lammā
+6	50:5:5	w	جَآءَهُمْ		جاهم	it came (to) them	jāahum
+6	50:5:6	w	فَهُمْ		فهم	so they	fahum
+6	50:5:7	w	فِےٓ		في	(are) in	fī
+6	50:5:8	w	أَمْرࣲ		امر	a state	amrin
+6	50:5:9	w	مَّرِيجٍ࣌		مريج	confused	marījin
+6	50:5:10	e	۝٥				
+7	50:6:1	w	ࡰفَلَمْ		افلم	Then do not	afalam
+7	50:6:2	w	يَنظُرُوٓاْ		ينظروا	they look	yanẓurū
+7	50:6:3	w	إِلَى		الي	at	ilā
+7	50:6:4	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+7	50:6:5	w	فَوْقَهُمْ		فوقهم	above them	fawqahum
+7	50:6:6	w	كَيْفَ		كيف	how	kayfa
+7	50:6:7	w	بَنَيْنَٰهَا		بنينها	We structured it	banaynāhā
+7	50:6:8	w	وَزَيَّنَّٰهَا		وزينها	and adorned it	wazayyannāhā
+8	50:6:9	w	وَمَا		وما	and not	wamā
+8	50:6:10	w	لَهَا		لها	for it	lahā
+8	50:6:11	w	مِن		من	any	min
+8	50:6:12	w	فُرُوجࣲ࣌		فروج	rifts	furūjin
+8	50:6:13	e	۝٦				
+8	50:7:1	w	وَالَارْضَ		والارض	And the earth	wal-arḍa
+8	50:7:2	w	مَدَدْنَٰهَا		مددنها	We have spread it out	madadnāhā
+8	50:7:3	w	وَأَلْقَيْنَا		والقينا	and cast	wa-alqaynā
+8	50:7:4	w	فِيهَا		فيها	therein	fīhā
+8	50:7:5	w	رَوَٰسِيَ		روسي	firmly set mountains	rawāsiya
+9	50:7:6	w	وَأَنۢبَتْنَا		وانبتنا	and We made to grow	wa-anbatnā
+9	50:7:7	w	فِيهَا		فيها	therein	fīhā
+9	50:7:8	w	مِن		من	of	min
+9	50:7:9	w	كُلِّ		كل	every	kulli
+9	50:7:10	w	زَوْجِۢ		زوج	kind	zawjin
+9	50:7:11	w	بَهِيجࣲ		بهيج	beautiful	bahījin
+9	50:7:12	e	۝٧				
+9	50:8:1	w	تَبْصِرَةࣰ		تبصرة	Giving insight	tabṣiratan
+9	50:8:2	w	وَذِكْرٜىٰ		وذكري	and a reminder	wadhik'rā
+9	50:8:3	w	لِكُلِّ		لكل	for every	likulli
+9	50:8:4	w	عَبْدࣲ		عبد	slave	ʿabdin
+10	50:8:5	w	مُّنِيبࣲ࣌		منيب	who turns	munībin
+10	50:8:6	e	۝٨				
+10	50:9:1	w	۞ وَنَزَّلْنَا		ونزلنا	And We have sent down	wanazzalnā
+10	50:9:2	w	مِنَ		من	from	mina
+10	50:9:3	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+10	50:9:4	w	مَآءࣰ		ما	water	māan
+10	50:9:5	w	مُّبَٰرَكاࣰ		مبركا	blessed	mubārakan
+10	50:9:6	w	فَأَنۢبَتْنَا		فانبتنا	then We made to grow	fa-anbatnā
+10	50:9:7	w	بِهِۦ		بهي	thereby	bihi
+10	50:9:8	w	جَنَّٰتࣲ		جنت	gardens	jannātin
+11	50:9:9	w	وَحَبَّ		وحب	and grain	waḥabba
+11	50:9:10	w	ࡰ۬لْحَصِيدِ		الحصيد	(for) the harvest	l-ḥaṣīdi
+11	50:9:11	e	۝٩				
+11	50:10:1	w	وَالنَّخْلَ		والنخل	And the palms trees	wal-nakhla
+11	50:10:2	w	بَاسِقَٰتࣲ		باسقت	tall	bāsiqātin
+11	50:10:3	w	لَّهَا		لها	for it	lahā
+11	50:10:4	w	طَلْعࣱ		طلع	(are) layers	ṭalʿun
+11	50:10:5	w	نَّضِيدࣱ		نضيد	arranged	naḍīdun
+11	50:10:6	e	۝١٠				
+11	50:11:1	w	رِّزْقاࣰ		رزقا	A provision	riz'qan
+12	50:11:2	w	لِّلْعِبَادِ࣌		للعباد	for the slaves	lil'ʿibādi
+12	50:11:3	w	وَأَحْيَيْنَا		واحيينا	and We give life	wa-aḥyaynā
+12	50:11:4	w	بِهِۦ		بهي	therewith	bihi
+12	50:11:5	w	بَلْدَةࣰ		بلدة	(to) a land	baldatan
+12	50:11:6	w	مَّيْتاࣰ࣌		ميتا	dead	maytan
+12	50:11:7	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+12	50:11:8	w	ࡰ۬لْخُرُوجُ࣌		الخروج	(will be) the coming forth	l-khurūju
+12	50:11:9	e	۝١١				
+12	50:12:1	w	كَذَّبَتْ		كذبت	Denied	kadhabat
+13	50:12:2	w	قَبْلَهُمْ		قبلهم	before them	qablahum
+13	50:12:3	w	قَوْمُ		قوم	(the) people	qawmu
+13	50:12:4	w	نُوحࣲ		نوح	(of) Nuh	nūḥin
+13	50:12:5	w	وَأَصْحَٰبُ		واصحب	and (the) companions	wa-aṣḥābu
+13	50:12:6	w	ࡲ۬لرَّسِّ		الرس	(of) Ar-Raas	l-rasi
+13	50:12:7	w	وَثَمُودُ		وثمود	and Thamud	wathamūdu
+13	50:12:8	e	۝١٢				
+13	50:13:1	w	وَعَادࣱ		وعاد	And Aad	waʿādun
+13	50:13:2	w	وَفِرْعَوْنُ		وفرعون	and Firaun	wafir'ʿawnu
+13	50:13:3	w	وَإِخْوَٰنُ		واخون	and (the) brothers	wa-ikh'wānu
+14	50:13:4	w	لُوطࣲ		لوط	(of) Lut	lūṭin
+14	50:13:5	e	۝١٣				
+14	50:14:1	w	وَأَصْحَٰبُ		واصحب	And (the) companions	wa-aṣḥābu
+14	50:14:2	w	ࡲ۬لَايْكَةِ		الايكة	(of) the wood	l-aykati
+14	50:14:3	w	وَقَوْمُ		وقوم	and (the) people	waqawmu
+14	50:14:4	w	تُبَّعࣲ࣌		تبع	(of) Tubba	tubbaʿin
+14	50:14:5	w	كُلࣱّ		كل	All	kullun
+14	50:14:6	w	كَذَّبَ		كذب	denied	kadhaba
+14	50:14:7	w	ࡰ۬لرُّسُلَ		الرسل	the Messengers	l-rusula
+14	50:14:8	w	فَحَقَّ		فحق	so was fulfilled	faḥaqqa
+15	50:14:9	w	وَعِيدِۦٓ࣌		وعيدي	My Threat	waʿīdi
+15	50:14:10	e	۝١٤				
+15	50:15:1	w	أَفَعَيِينَا		افعيينا	Were We then tired	afaʿayīnā
+15	50:15:2	w	بِالْخَلْقِ		بالخلق	with the creation	bil-khalqi
+15	50:15:3	w	ࡴ۬لَاوَّلِ࣌		الاول	the first	l-awali
+15	50:15:4	w	بَلْ		بل	Nay	bal
+15	50:15:5	w	هُمْ		هم	they	hum
+15	50:15:6	w	فِے		في	(are) in	fī
+15	50:15:7	w	لَبْسࣲ		لبس	doubt	labsin
+15	50:15:8	w	مِّنْ		من	about	min
+15	50:15:9	w	خَلْقࣲ		خلق	a creation	khalqin
+15	50:15:10	w	جَدِيدࣲ࣌		جديد	new	jadīdin
+15	50:15:11	e	۝١٥				

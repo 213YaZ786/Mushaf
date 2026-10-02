@@ -1,0 +1,183 @@
+1	74:19:1	w	فَقُتِلَ		فقتل	So may he be destroyed	faqutila
+1	74:19:2	w	كَيْفَ		كيف	how	kayfa
+1	74:19:3	w	قَدَّرَ		قدر	he plotted	qaddara
+1	74:19:4	e	۝١٩				
+1	74:20:1	w	ثُمَّ		ثم	Then	thumma
+1	74:20:2	w	قُتِلَ		قتل	may he be destroyed	qutila
+1	74:20:3	w	كَيْفَ		كيف	how	kayfa
+1	74:20:4	w	قَدَّرَ		قدر	he plotted	qaddara
+1	74:20:5	e	۝٢٠				
+1	74:21:1	w	ثُمَّ		ثم	Then	thumma
+1	74:21:2	w	نَظَرَ		نظر	he looked	naẓara
+1	74:21:3	e	۝٢١				
+1	74:22:1	w	ثُمَّ		ثم	Then	thumma
+1	74:22:2	w	عَبَسَ		عبس	he frowned	ʿabasa
+2	74:22:3	w	وَبَسَرَ		وبسر	and scowled	wabasara
+2	74:22:4	e	۝٢٢				
+2	74:23:1	w	ثُمَّ		ثم	Then	thumma
+2	74:23:2	w	أَدْبَرَ		ادبر	he turned back	adbara
+2	74:23:3	w	وَاسْتَكْبَرَ		واستكبر	and was proud	wa-is'takbara
+2	74:23:4	e	۝٢٣				
+2	74:24:1	w	فَقَالَ		فقال	Then he said	faqāla
+2	74:24:2	w	إِنْ		ان	Not	in
+2	74:24:3	w	هَٰذَآ		هذا	(is) this	hādhā
+2	74:24:4	w	إِلَّا		الا	but	illā
+2	74:24:5	w	سِحْرࣱ		سحر	magic	siḥ'run
+2	74:24:6	w	يُوثَرُ		يوثر	imitated	yu'tharu
+2	74:24:7	e	۝٢٤				
+3	74:25:1	w	إِنْ		ان	Not	in
+3	74:25:2	w	هَٰذَآ		هذا	(is) this	hādhā
+3	74:25:3	w	إِلَّا		الا	but	illā
+3	74:25:4	w	قَوْلُ		قول	(the) word	qawlu
+3	74:25:5	w	ࡲ۬لْبَشَرِ࣌		البشر	(of) a human being	l-bashari
+3	74:25:6	e	۝٢٥				
+3	74:26:1	w	سَأُصْلِيهِ		ساصليه	Soon I will drive him	sa-uṣ'līhi
+3	74:26:2	w	سَقَرَ࣌		سقر	(into) Hell	saqara
+3	74:26:3	e	۝٢٦				
+3	74:27:1	w	وَمَآ		وما	And what	wamā
+3	74:27:2	w	أَدْرٜيٰكَ		ادريك	can make you know	adrāka
+3	74:27:3	w	مَا		ما	what	mā
+3	74:27:4	w	سَقَرُ࣌		سقر	(is) Hell	saqaru
+3	74:27:5	e	۝٢٧				
+4	74:28:1	w	لَا		لا	Not	lā
+4	74:28:2	w	تُبْقِے		تبقي	it lets remain	tub'qī
+4	74:28:3	w	وَلَا		ولا	and not	walā
+4	74:28:4	w	تَذَرُ࣌		تذر	it leaves	tadharu
+4	74:28:5	e	۝٢٨				
+4	74:29:1	w	لَوَّاحَةࣱ		لواحة	Scorching	lawwāḥatun
+4	74:29:2	w	لِّلْبَشَرِ࣌		للبشر	the human (skin)	lil'bashari
+4	74:29:3	e	۝٢٩				
+4	74:30:1	w	عَلَيْهَا		عليها	Over it	ʿalayhā
+4	74:30:2	w	تِسْعَةَ		تسعة	(are) nine	tis'ʿata
+4	74:30:3	w	عَشَرَ࣌		عشر	teen	ʿashara
+4	74:30:4	e	۝٣٠				
+4	74:31:1	w	۞ وَمَا		وما	And not	wamā
+4	74:31:2	w	جَعَلْنَآ		جعلنا	We have made	jaʿalnā
+5	74:31:3	w	أَصْحَٰبَ		اصحب	keepers	aṣḥāba
+5	74:31:4	w	ࡰ۬لنّٜارِ		النار	(of) the Fire	l-nāri
+5	74:31:5	w	إِلَّا		الا	except	illā
+5	74:31:6	w	مَلَٰٓئِكَةࣰ࣌		مليكة	Angels	malāikatan
+5	74:31:7	w	وَمَا		وما	And not	wamā
+5	74:31:8	w	جَعَلْنَا		جعلنا	We have made	jaʿalnā
+5	74:31:9	w	عِدَّتَهُمُۥٓ		عدتهم	their number	ʿiddatahum
+5	74:31:10	w	إِلَّا		الا	except	illā
+5	74:31:11	w	فِتْنَةࣰ		فتنة	(as) a trial	fit'natan
+5	74:31:12	w	لِّلذِينَ		للذين	for those who	lilladhīna
+5	74:31:13	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+6	74:31:14	w	لِيَسْتَيْقِنَ		ليستيقن	that may be certain	liyastayqina
+6	74:31:15	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	74:31:16	w	أُوتُواْ		اوتوا	were given	ūtū
+6	74:31:17	w	ࡲ۬لْكِتَٰبَ		الكتب	the Scripture	l-kitāba
+6	74:31:18	w	وَيَزْدَادَ		ويزداد	and may increase	wayazdāda
+6	74:31:19	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	74:31:20	w	ءَامَنُوٓاْ		امنوا	believe	āmanū
+6	74:31:21	w	إِيمَٰناࣰ		ايمنا	(in) faith	īmānan
+6	74:31:22	w	وَلَا		ولا	and not	walā
+6	74:31:23	w	يَرْتَابَ		يرتاب	may doubt	yartāba
+7	74:31:24	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	74:31:25	w	أُوتُواْ		اوتوا	were given	ūtū
+7	74:31:26	w	ࡲ۬لْكِتَٰبَ		الكتب	the Scripture	l-kitāba
+7	74:31:27	w	وَالْمُومِنُونَ		والمومنون	and the believers	wal-mu'minūna
+7	74:31:28	w	وَلِيَقُولَ		وليقول	and that may say	waliyaqūla
+7	74:31:29	w	ࡰ۬لذِينَ		الذين	those	alladhīna
+7	74:31:30	w	فِے		في	in	fī
+7	74:31:31	w	قُلُوبِهِم		قلوبهم	their hearts	qulūbihim
+7	74:31:32	w	مَّرَضࣱ		مرض	(is) a disease	maraḍun
+8	74:31:33	w	وَالْكَٰفِرُونَ		والكفرون	and the disbelievers	wal-kāfirūna
+8	74:31:34	w	مَاذَآ		ماذا	What	mādhā
+8	74:31:35	w	أَرَادَ		اراد	(does) intend	arāda
+8	74:31:36	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+8	74:31:37	w	بِهَٰذَا		بهذا	by this	bihādhā
+8	74:31:38	w	مَثَلاࣰ࣌		مثلا	example	mathalan
+8	74:31:39	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+8	74:31:40	w	يُضِلُّ		يضل	does let go astray	yuḍillu
+8	74:31:41	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+8	74:31:42	w	مَنْ		من	whom	man
+8	74:31:43	w	يَّشَآءُ		يشا	He wills	yashāu
+9	74:31:44	w	وَيَهْدِے		ويهدي	and guides	wayahdī
+9	74:31:45	w	مَنْ		من	whom	man
+9	74:31:46	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+9	74:31:47	w	وَمَا		وما	And none	wamā
+9	74:31:48	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+9	74:31:49	w	جُنُودَ		جنود	(the) hosts	junūda
+9	74:31:50	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+9	74:31:51	w	إِلَّا		الا	except	illā
+9	74:31:52	w	هُوَ࣌		هو	Him	huwa
+9	74:31:53	w	وَمَا		وما	And not	wamā
+9	74:31:54	w	هِيَ		هي	it	hiya
+9	74:31:55	w	إِلَّا		الا	(is) but	illā
+9	74:31:56	w	ذِكْرٜىٰ		ذكري	a reminder	dhik'rā
+10	74:31:57	w	لِلْبَشَرِ࣌		للبشر	to (the) human beings	lil'bashari
+10	74:31:58	e	۝٣١				
+10	74:32:1	w	كَلَّا		كلا	Nay	kallā
+10	74:32:2	w	وَالْقَمَرِ		والقمر	By the moon	wal-qamari
+10	74:32:3	e	۝٣٢				
+10	74:33:1	w	وَاليْلِ		واليل	And the night	wa-al-layli
+10	74:33:2	w	إِذَ		اذ	when	idh
+10	74:33:3	w	ࡰدْبَرَ		ادبر	it departs	adbara
+10	74:33:4	e	۝٣٣				
+10	74:34:1	w	وَالصُّبْحِ		والصبح	And the morning	wal-ṣub'ḥi
+10	74:34:2	w	إِذَآ		اذا	when	idhā
+10	74:34:3	w	أَسْفَرَ		اسفر	it brightens	asfara
+10	74:34:4	e	۝٣٤				
+10	74:35:1	w	إِنَّهَا		انها	Indeed, it	innahā
+11	74:35:2	w	لَإِحْدَى		لاحدي	(is) surely one	la-iḥ'dā
+11	74:35:3	w	ࡰ۬لْكُبَرِ		الكبر	(of) the greatest	l-kubari
+11	74:35:4	e	۝٣٥				
+11	74:36:1	w	نَذِيراࣰ		نذيرا	A warning	nadhīran
+11	74:36:2	w	لِّلْبَشَرِ		للبشر	to (the) human being	lil'bashari
+11	74:36:3	e	۝٣٦				
+11	74:37:1	w	لِمَن		لمن	To whoever	liman
+11	74:37:2	w	شَآءَ		شا	wills	shāa
+11	74:37:3	w	مِنكُمُۥٓ		منكم	among you	minkum
+11	74:37:4	w	أَنْ		ان	to	an
+11	74:37:5	w	يَّتَقَدَّمَ		يتقدم	proceed	yataqaddama
+11	74:37:6	w	أَوْ		او	or	aw
+11	74:37:7	w	يَتَأَخَّرَ࣌		يتاخر	stay behind	yata-akhara
+11	74:37:8	e	۝٣٧				
+12	74:38:1	w	كُلُّ		كل	Every	kullu
+12	74:38:2	w	نَفْسِۢ		نفس	soul	nafsin
+12	74:38:3	w	بِمَا		بما	for what	bimā
+12	74:38:4	w	كَسَبَتْ		كسبت	it has earned	kasabat
+12	74:38:5	w	رَهِينَةٌ		رهينة	(is) pledged	rahīnatun
+12	74:38:6	e	۝٣٨				
+12	74:39:1	w	ࡴلَّآ		الا	Except	illā
+12	74:39:2	w	أَصْحَٰبَ		اصحب	(the) companions	aṣḥāba
+12	74:39:3	w	ࡰ۬لْيَمِينِ࣌		اليمين	(of) the right	l-yamīni
+12	74:39:4	e	۝٣٩				
+12	74:40:1	w	فِے		في	In	fī
+12	74:40:2	w	جَنَّٰتࣲ		جنت	Gardens	jannātin
+13	74:40:3	w	يَتَسَآءَلُونَ		يتسالون	asking each other	yatasāalūna
+13	74:40:4	w	عَنِ		عن	About	ʿani
+13	74:40:5	w	ࡴ۬لْمُجْرِمِينَ		المجرمين	the criminals	l-muj'rimīna
+13	74:40:6	e	۝٤٠				
+13	74:41:1	w	مَا		ما	What	mā
+13	74:41:2	w	سَلَكَكُمْ		سلككم	led you	salakakum
+13	74:41:3	w	فِے		في	into	fī
+13	74:41:4	w	سَقَرَ࣌		سقر	Hell	saqara
+13	74:41:5	e	۝٤١				
+13	74:42:1	w	قَالُواْ		قالوا	They will say	qālū
+13	74:42:2	w	لَمْ		لم	Not	lam
+13	74:42:3	w	نَكُ		نك	we were	naku
+14	74:42:4	w	مِنَ		من	of	mina
+14	74:42:5	w	ࡰ۬لْمُصَلِّينَ		المصلين	those who prayed	l-muṣalīna
+14	74:42:6	e	۝٤٢				
+14	74:43:1	w	وَلَمْ		ولم	And not	walam
+14	74:43:2	w	نَكُ		نك	we used to	naku
+14	74:43:3	w	نُطْعِمُ		نطعم	feed	nuṭ'ʿimu
+14	74:43:4	w	ࡲ۬لْمِسْكِينَ		المسكين	the poor	l-mis'kīna
+14	74:43:5	e	۝٤٣				
+14	74:44:1	w	وَكُنَّا		وكنا	And we used to	wakunnā
+14	74:44:2	w	نَخُوضُ		نخوض	indulge in vain talk	nakhūḍu
+14	74:44:3	w	مَعَ		مع	with	maʿa
+15	74:44:4	w	ࡰ۬لْخَآئِضِينَ		الخايضين	the vain talkers	l-khāiḍīna
+15	74:44:5	e	۝٤٤				
+15	74:45:1	w	وَكُنَّا		وكنا	And we used to	wakunnā
+15	74:45:2	w	نُكَذِّبُ		نكذب	deny	nukadhibu
+15	74:45:3	w	بِيَوْمِ		بيوم	(the) Day	biyawmi
+15	74:45:4	w	ࡴ۬لدِّينِ		الدين	(of) the Judgment	l-dīni
+15	74:45:5	e	۝٤٥				
+15	74:46:1	w	حَتَّىٰٓ		حتي	Until	ḥattā
+15	74:46:2	w	أَتٜيٰنَا		اتينا	came to us	atānā
+15	74:46:3	w	ࡰ۬لْيَقِينُ࣌		اليقين	the certainty	l-yaqīnu
+15	74:46:4	e	۝٤٦				

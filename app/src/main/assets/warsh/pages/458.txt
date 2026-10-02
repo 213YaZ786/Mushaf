@@ -1,0 +1,130 @@
+1	38:83:1	w	۞ قَالَ		قال	He said	qāla
+1	38:83:2	w	فَالْحَقَّ		فالحق	Then (it is) the truth	fal-ḥaqu
+1	38:83:3	w	وَالْحَقَّ		والحق	and the truth	wal-ḥaqa
+1	38:83:4	w	أَقُولُ࣌		اقول	I say	aqūlu
+1	38:83:5	w	لَأَمْلَأَنَّ		لاملان	Surely I will fill	la-amla-anna
+1	38:83:6	w	جَهَنَّمَ		جهنم	Hell	jahannama
+1	38:83:7	w	مِنكَ		منك	with you	minka
+1	38:83:8	w	وَمِمَّن		وممن	and those who	wamimman
+1	38:83:9	w	تَبِعَكَ		تبعك	follow you	tabiʿaka
+1	38:83:10	w	مِنْهُمُۥٓ		منهم	among them	min'hum
+2	38:83:11	w	أَجْمَعِينَ࣌		اجمعين	all	ajmaʿīna
+2	38:83:12	e	۝٨٣				
+2	38:84:1	w	قُلْ		قل	Say	qul
+2	38:84:2	w	مَآ		ما	Not	mā
+2	38:84:3	w	أَسْـَٔلُكُمْ		اسلكم	I ask of you	asalukum
+2	38:84:4	w	عَلَيْهِ		عليه	for it	ʿalayhi
+2	38:84:5	w	مِنَ		من	any	min
+2	38:84:6	w	ࡰجْرࣲ		اجر	payment	ajrin
+2	38:84:7	w	وَمَآ		وما	and not	wamā
+2	38:84:8	w	أَنَا		انا	I am	anā
+2	38:84:9	w	مِنَ		من	of	mina
+2	38:84:10	w	ࡰ۬لْمُتَكَلِّفِينَ࣌		المتكلفين	the ones who pretend	l-mutakalifīna
+2	38:84:11	e	۝٨٤				
+3	38:85:1	w	إِنْ		ان	Not	in
+3	38:85:2	w	هُوَ		هو	it (is)	huwa
+3	38:85:3	w	إِلَّا		الا	except	illā
+3	38:85:4	w	ذِكْرࣱ		ذكر	a Reminder	dhik'run
+3	38:85:5	w	لِّلْعَٰلَمِينَ࣌		للعلمين	to the worlds	lil'ʿālamīna
+3	38:85:6	e	۝٨٥				
+3	38:86:1	w	وَلَتَعْلَمُنَّ		ولتعلمن	And surely you will know	walataʿlamunna
+3	38:86:2	w	نَبَأَهُۥ		نباه	its information	naba-ahu
+3	38:86:3	w	بَعْدَ		بعد	after	baʿda
+3	38:86:4	w	حِينࣲ࣌		حين	a time	ḥīnin
+3	38:86:5	e	۝٨٦				
+4	39:0:0	t					
+5	39:0:0	b					
+6	39:1:1	w	تَنزِيلُ		تنزيل	(The) revelation	tanzīlu
+6	39:1:2	w	ࡲ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+6	39:1:3	w	مِنَ		من	(is) from	mina
+6	39:1:4	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+6	39:1:5	w	ࡴ۬لْعَزِيزِ		العزيز	the All-Mighty	l-ʿazīzi
+6	39:1:6	w	ࡴ۬لْحَكِيمِ࣌		الحكيم	the All-Wise	l-ḥakīmi
+6	39:1:7	e	۝١				
+6	39:2:1	w	إِنَّآ		انا	Indeed, We	innā
+6	39:2:2	w	أَنزَلْنَآ		انزلنا	[We] have revealed	anzalnā
+6	39:2:3	w	إِلَيْكَ		اليك	to you	ilayka
+7	39:2:4	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+7	39:2:5	w	بِالْحَقِّ		بالحق	in truth	bil-ḥaqi
+7	39:2:6	w	فَاعْبُدِ		فاعبد	so worship	fa-uʿ'budi
+7	39:2:7	w	ࡴ۬للَّهَ		الله	Allah	l-laha
+7	39:2:8	w	مُخْلِصاࣰ		مخلصا	(being) sincere	mukh'liṣan
+7	39:2:9	w	لَّهُ		له	to Him	lahu
+7	39:2:10	w	ࡲ۬لدِّينَ࣌		الدين	(in) the religion	l-dīna
+7	39:2:11	e	۝٢				
+7	39:3:1	w	أَلَا		الا	Unquestionably	alā
+8	39:3:2	w	لِلهِ		لله	for Allah	lillahi
+8	39:3:3	w	ࡴ۬لدِّينُ		الدين	(is) the religion	l-dīnu
+8	39:3:4	w	ࡲ۬لْخَالِصُ࣌		الخالص	the pure	l-khāliṣu
+8	39:3:5	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+8	39:3:6	w	ࡰٜتَّخَذُواْ		اتخذوا	take	ittakhadhū
+8	39:3:7	w	مِن		من	besides Him	min
+8	39:3:8	w	دُونِهِۦٓ		دونهي	besides Him	dūnihi
+8	39:3:9	w	أَوْلِيَآءَ		اوليا	protectors	awliyāa
+9	39:3:10	w	مَا		ما	Not	mā
+9	39:3:11	w	نَعْبُدُهُمُۥٓ		نعبدهم	we worship them	naʿbuduhum
+9	39:3:12	w	إِلَّا		الا	except	illā
+9	39:3:13	w	لِيُقَرِّبُونَآ		ليقربونا	that they may bring us near	liyuqarribūnā
+9	39:3:14	w	إِلَى		الي	to	ilā
+9	39:3:15	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+9	39:3:16	w	زُلْفٜىٰٓ࣌		زلفي	(in) nearness	zul'fā
+9	39:3:17	w	إِنَّ		ان	Indeed	inna
+9	39:3:18	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+9	39:3:19	w	يَحْكُمُ		يحكم	will judge	yaḥkumu
+10	39:3:20	w	بَيْنَهُمْ		بينهم	between them	baynahum
+10	39:3:21	w	فِے		في	in	fī
+10	39:3:22	w	مَا		ما	what	mā
+10	39:3:23	w	هُمْ		هم	they	hum
+10	39:3:24	w	فِيهِ		فيه	[in it]	fīhi
+10	39:3:25	w	يَخْتَلِفُونَ࣌		يختلفون	differ	yakhtalifūna
+10	39:3:26	e	۝٣				
+10	39:4:1	w	إِنَّ		ان	Indeed	inna
+10	39:4:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	39:4:3	w	لَا		لا	(does) not	lā
+10	39:4:4	w	يَهْدِے		يهدي	guide	yahdī
+10	39:4:5	w	مَنْ		من	(one) who	man
+10	39:4:6	w	هُوَ		هو	[he]	huwa
+11	39:4:7	w	كَٰذِبࣱ		كذب	(is) a liar	kādhibun
+11	39:4:8	w	كَفَّارࣱ࣌		كفار	and a disbeliever	kaffārun
+11	39:4:9	e	۝٤				
+11	39:5:1	w	لَّوَ		لو	If	law
+11	39:5:2	w	ࡰرَادَ		اراد	Allah (had) intended	arāda
+11	39:5:3	w	ࡰ۬للَّهُ		الله	Allah (had) intended	l-lahu
+11	39:5:4	w	أَنْ		ان	to	an
+11	39:5:5	w	يَّتَّخِذَ		يتخذ	take	yattakhidha
+11	39:5:6	w	وَلَداࣰ		ولدا	a son	waladan
+11	39:5:7	w	لَّاصْطَفٜىٰ		لاصطفي	surely, He (could) have chosen	la-iṣ'ṭafā
+12	39:5:8	w	مِمَّا		مما	from what	mimmā
+12	39:5:9	w	يَخْلُقُ		يخلق	He creates	yakhluqu
+12	39:5:10	w	مَا		ما	whatever	mā
+12	39:5:11	w	يَشَآءُ࣌		يشا	He willed	yashāu
+12	39:5:12	w	سُبْحَٰنَهُۥ࣌		سبحنه	Glory be to Him	sub'ḥānahu
+12	39:5:13	w	هُوَ		هو	He	huwa
+12	39:5:14	w	ࡰ۬للَّهُ		الله	(is) Allah	l-lahu
+12	39:5:15	w	ࡲ۬لْوَٰحِدُ		الوحد	the One	l-wāḥidu
+12	39:5:16	w	ࡲ۬لْقَهَّارُ࣌		القهار	the Irresistible	l-qahāru
+12	39:5:17	e	۝٥				
+13	39:6:1	w	خَلَقَ		خلق	He created	khalaqa
+13	39:6:2	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+13	39:6:3	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+13	39:6:4	w	بِالْحَقِّ࣌		بالحق	in [the] truth	bil-ḥaqi
+13	39:6:5	w	يُكَوِّرُ		يكور	He wraps	yukawwiru
+13	39:6:6	w	ࡲ۬ليْلَ		اليل	the night	al-layla
+13	39:6:7	w	عَلَى		علي	over	ʿalā
+14	39:6:8	w	ࡰ۬لنَّهٜارِ		النهار	the day	l-nahāri
+14	39:6:9	w	وَيُكَوِّرُ		ويكور	and wraps	wayukawwiru
+14	39:6:10	w	ࡲ۬لنَّهَارَ		النهار	the day	l-nahāra
+14	39:6:11	w	عَلَى		علي	over	ʿalā
+14	39:6:12	w	ࡰ۬ليْلِ࣌		اليل	the night	al-layli
+14	39:6:13	w	وَسَخَّرَ		وسخر	And He subjected	wasakhara
+14	39:6:14	w	ࡰ۬لشَّمْسَ		الشمس	the sun	l-shamsa
+14	39:6:15	w	وَالْقَمَرَ࣌		والقمر	and the moon	wal-qamara
+15	39:6:16	w	كُلࣱّ		كل	each	kullun
+15	39:6:17	w	يَجْرِے		يجري	running	yajrī
+15	39:6:18	w	لِأَجَلࣲ		لاجل	for a term	li-ajalin
+15	39:6:19	w	مُّسَمّىً࣌		مسمي	specified	musamman
+15	39:6:20	w	ࡰلَا		الا	Unquestionably	alā
+15	39:6:21	w	هُوَ		هو	He	huwa
+15	39:6:22	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+15	39:6:23	w	ࡲ۬لْغَفَّٰرُ࣌		الغفر	the Oft-Forgiving	l-ghafāru
+15	39:6:24	e	۝٦				

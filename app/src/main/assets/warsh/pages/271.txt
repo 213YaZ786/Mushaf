@@ -1,0 +1,144 @@
+1	16:35:1	w	وَقَالَ		وقال	And said	waqāla
+1	16:35:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	16:35:3	w	أَشْرَكُواْ		اشركوا	associate partners (with Allah)	ashrakū
+1	16:35:4	w	لَوْ		لو	If	law
+1	16:35:5	w	شَآءَ		شا	Allah (had) willed	shāa
+1	16:35:6	w	ࡰ۬للَّهُ		الله	Allah (had) willed	l-lahu
+1	16:35:7	w	مَا		ما	not	mā
+1	16:35:8	w	عَبَدْنَا		عبدنا	we (would) have worshipped	ʿabadnā
+1	16:35:9	w	مِن		من	other than Him	min
+1	16:35:10	w	دُونِهِۦ		دونهي	other than Him	dūnihi
+1	16:35:11	w	مِن		من	any	min
+2	16:35:12	w	شَےْءࣲ		شي	thing	shayin
+2	16:35:13	w	نَّحْنُ		نحن	we	naḥnu
+2	16:35:14	w	وَلَآ		ولا	and not	walā
+2	16:35:15	w	ءَابَآؤُنَا		اباونا	our forefathers	ābāunā
+2	16:35:16	w	وَلَا		ولا	and not	walā
+2	16:35:17	w	حَرَّمْنَا		حرمنا	we (would) have forbidden	ḥarramnā
+2	16:35:18	w	مِن		من	other than Him	min
+2	16:35:19	w	دُونِهِۦ		دونهي	other than Him	dūnihi
+2	16:35:20	w	مِن		من	anything	min
+2	16:35:21	w	شَےْءࣲ࣌		شي	anything	shayin
+2	16:35:22	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+3	16:35:23	w	فَعَلَ		فعل	did	faʿala
+3	16:35:24	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+3	16:35:25	w	مِن		من	(were) before them	min
+3	16:35:26	w	قَبْلِهِمْ࣌		قبلهم	(were) before them	qablihim
+3	16:35:27	w	فَهَلْ		فهل	Then is (there)	fahal
+3	16:35:28	w	عَلَى		علي	on	ʿalā
+3	16:35:29	w	ࡰ۬لرُّسُلِ		الرسل	the messengers	l-rusuli
+3	16:35:30	w	إِلَّا		الا	except	illā
+3	16:35:31	w	ࡰ۬لْبَلَٰغُ		البلغ	the conveyance	l-balāghu
+3	16:35:32	w	ࡲ۬لْمُبِينُ࣌		المبين	clear	l-mubīnu
+3	16:35:33	e	۝٣٥				
+4	16:36:1	w	وَلَقَدْ		ولقد	And certainly	walaqad
+4	16:36:2	w	بَعَثْنَا		بعثنا	We sent	baʿathnā
+4	16:36:3	w	فِے		في	into	fī
+4	16:36:4	w	كُلِّ		كل	every	kulli
+4	16:36:5	w	أُمَّةࣲ		امة	nation	ummatin
+4	16:36:6	w	رَّسُولاً		رسولا	a Messenger	rasūlan
+4	16:36:7	w	ࡰنُ		ان	that	ani
+4	16:36:8	w	ࡲ࢈عْبُدُواْ		اعبدوا	Worship	uʿ'budū
+4	16:36:9	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+5	16:36:10	w	وَاجْتَنِبُواْ		واجتنبوا	and avoid	wa-ij'tanibū
+5	16:36:11	w	ࡲ۬لطَّٰغُوتَ࣌		الطغوت	the false deities	l-ṭāghūta
+5	16:36:12	w	فَمِنْهُم		فمنهم	Then among them	famin'hum
+5	16:36:13	w	مَّنْ		من	(were some) whom	man
+5	16:36:14	w	هَدَى		هدي	Allah guided	hadā
+5	16:36:15	w	ࡰ۬للَّهُ࣌		الله	Allah guided	l-lahu
+5	16:36:16	w	وَمِنْهُم		ومنهم	and among them	wamin'hum
+5	16:36:17	w	مَّنْ		من	(were) some	man
+6	16:36:18	w	حَقَّتْ		حقت	was justified	ḥaqqat
+6	16:36:19	w	عَلَيْهِ		عليه	on them	ʿalayhi
+6	16:36:20	w	ࡴ۬لضَّلَٰلَةُ࣌		الضللة	the straying	l-ḍalālatu
+6	16:36:21	w	فَسِيرُواْ		فسيروا	So travel	fasīrū
+6	16:36:22	w	فِے		في	in	fī
+6	16:36:23	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+6	16:36:24	w	فَانظُرُواْ		فانظروا	and see	fa-unẓurū
+6	16:36:25	w	كَيْفَ		كيف	how	kayfa
+7	16:36:26	w	كَانَ		كان	was	kāna
+7	16:36:27	w	عَٰقِبَةُ		عقبة	the end	ʿāqibatu
+7	16:36:28	w	ࡲ۬لْمُكَذِّبِينَ࣌		المكذبين	(of) the deniers	l-mukadhibīna
+7	16:36:29	e	۝٣٦				
+7	16:37:1	w	إِن		ان	If	in
+7	16:37:2	w	تَحْرِصْ		تحرص	you desire	taḥriṣ
+7	16:37:3	w	عَلَىٰ		علي	[for]	ʿalā
+7	16:37:4	w	هُدٜيٰهُمْ		هديهم	their guidance	hudāhum
+8	16:37:5	w	فَإِنَّ		فان	then indeed	fa-inna
+8	16:37:6	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+8	16:37:7	w	لَا		لا	(will) not	lā
+8	16:37:8	w	يُهْدٜىٰ		يهدي	guide	yahdī
+8	16:37:9	w	مَنْ		من	whom	man
+8	16:37:10	w	يُّضِلُّ࣌		يضل	He lets go astray	yuḍillu
+8	16:37:11	w	وَمَا		وما	and not (are)	wamā
+8	16:37:12	w	لَهُم		لهم	for them	lahum
+8	16:37:13	w	مِّن		من	any	min
+8	16:37:14	w	نَّٰصِرِينَ࣌		نصرين	helpers	nāṣirīna
+8	16:37:15	e	۝٣٧				
+9	16:38:1	w	۞ وَأَقْسَمُواْ		واقسموا	And they swear	wa-aqsamū
+9	16:38:2	w	بِاللَّهِ		بالله	by Allah	bil-lahi
+9	16:38:3	w	جَهْدَ		جهد	strongest	jahda
+9	16:38:4	w	أَيْمَٰنِهِمْ		ايمنهم	(of) their oaths	aymānihim
+9	16:38:5	w	لَا		لا	Allah will not resurrect	lā
+9	16:38:6	w	يَبْعَثُ		يبعث	Allah will not resurrect	yabʿathu
+9	16:38:7	w	ࡲ۬للَّهُ		الله	Allah will not resurrect	l-lahu
+9	16:38:8	w	مَنْ		من	(one) who	man
+9	16:38:9	w	يَّمُوتُ࣌		يموت	dies	yamūtu
+9	16:38:10	w	بَلٜىٰ		بلي	Nay	balā
+10	16:38:11	w	وَعْداً		وعدا	(it is) a promise	waʿdan
+10	16:38:12	w	عَلَيْهِ		عليه	upon Him	ʿalayhi
+10	16:38:13	w	حَقّاࣰ		حقا	(in) truth	ḥaqqan
+10	16:38:14	w	وَلَٰكِنَّ		ولكن	but	walākinna
+10	16:38:15	w	أَكْثَرَ		اكثر	most	akthara
+10	16:38:16	w	ࡰ۬لنَّاسِ		الناس	(of) the mankind	l-nāsi
+10	16:38:17	w	لَا		لا	(do) not	lā
+10	16:38:18	w	يَعْلَمُونَ		يعلمون	know	yaʿlamūna
+10	16:38:19	e	۝٣٨				
+11	16:39:1	w	لِيُبَيِّنَ		ليبين	That He will make clear	liyubayyina
+11	16:39:2	w	لَهُمُ		لهم	to them	lahumu
+11	16:39:3	w	ࡲ۬لذِے		الذي	that	alladhī
+11	16:39:4	w	يَخْتَلِفُونَ		يختلفون	they differ	yakhtalifūna
+11	16:39:5	w	فِيهِ		فيه	wherein	fīhi
+11	16:39:6	w	وَلِيَعْلَمَ		وليعلم	and that may know	waliyaʿlama
+11	16:39:7	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	16:39:8	w	كَفَرُوٓاْ		كفروا	disbelieved	kafarū
+12	16:39:9	w	أَنَّهُمْ		انهم	that they	annahum
+12	16:39:10	w	كَانُواْ		كانوا	were	kānū
+12	16:39:11	w	كَٰذِبِينَ࣌		كذبين	liars	kādhibīna
+12	16:39:12	e	۝٣٩				
+12	16:40:1	w	إِنَّمَا		انما	Only	innamā
+12	16:40:2	w	قَوْلُنَا		قولنا	Our Word	qawlunā
+12	16:40:3	w	لِشَےْءٍ		لشي	to a thing	lishayin
+12	16:40:4	w	ࡴذَآ		اذا	when	idhā
+12	16:40:5	w	أَرَدْنَٰهُ		اردنه	We intend it	aradnāhu
+12	16:40:6	w	أَن		ان	(is) that	an
+12	16:40:7	w	نَّقُولَ		نقول	We say	naqūla
+12	16:40:8	w	لَهُۥ		له	to it	lahu
+13	16:40:9	w	كُن࣌		كن	Be	kun
+13	16:40:10	w	فَيَكُونُ࣌		فيكون	and it is	fayakūnu
+13	16:40:11	e	۝٤٠				
+13	16:41:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+13	16:41:2	w	هَاجَرُواْ		هاجروا	emigrated	hājarū
+13	16:41:3	w	فِے		في	in (the way)	fī
+13	16:41:4	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+13	16:41:5	w	مِنۢ		من	after	min
+13	16:41:6	w	بَعْدِ		بعد	after	baʿdi
+13	16:41:7	w	مَا		ما	[what]	mā
+13	16:41:8	w	ظُلِمُواْ		ظلموا	they were wronged	ẓulimū
+14	16:41:9	w	لَنُبَوِّئَنَّهُمْ		لنبوينهم	surely We will give them position	lanubawwi-annahum
+14	16:41:10	w	فِے		في	in	fī
+14	16:41:11	w	ࡴ۬لدُّنْيٜا		الدنيا	the world	l-dun'yā
+14	16:41:12	w	حَسَنَةࣰ࣌		حسنة	good	ḥasanatan
+14	16:41:13	w	وَلَأَجْرُ		ولاجر	but surely the reward	wala-ajru
+14	16:41:14	w	ࡲ۬لَاخِرَةِ		الاخرة	(of) the Hereafter	l-ākhirati
+14	16:41:15	w	أَكْبَرُ		اكبر	(is) greater	akbaru
+14	16:41:16	w	لَوْ		لو	if	law
+14	16:41:17	w	كَانُواْ		كانوا	they	kānū
+15	16:41:18	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+15	16:41:19	e	۝٤١				
+15	16:42:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+15	16:42:2	w	صَبَرُواْ		صبروا	(are) patient	ṣabarū
+15	16:42:3	w	وَعَلَىٰ		وعلي	and on	waʿalā
+15	16:42:4	w	رَبِّهِمْ		ربهم	their Lord	rabbihim
+15	16:42:5	w	يَتَوَكَّلُونَ࣌		يتوكلون	they put their trust	yatawakkalūna
+15	16:42:6	e	۝٤٢				

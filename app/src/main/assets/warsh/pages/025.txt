@@ -1,0 +1,142 @@
+1	2:163:1	w	إِنَّ		ان	Indeed	inna
+1	2:163:2	w	فِے		في	in	fī
+1	2:163:3	w	خَلْقِ		خلق	(the) creation	khalqi
+1	2:163:4	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+1	2:163:5	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+1	2:163:6	w	وَاخْتِلَٰفِ		واختلف	and alternation	wa-ikh'tilāfi
+1	2:163:7	w	ࡴ۬ليْلِ		اليل	of the night	al-layli
+1	2:163:8	w	وَالنَّهٜارِ		والنهار	and the day	wal-nahāri
+2	2:163:9	w	وَالْفُلْكِ		والفلك	and the ships	wal-ful'ki
+2	2:163:10	w	ࡴ۬لتِے		التي	which	allatī
+2	2:163:11	w	تَجْرِے		تجري	sail	tajrī
+2	2:163:12	w	فِے		في	in	fī
+2	2:163:13	w	ࡴ۬لْبَحْرِ		البحر	the sea	l-baḥri
+2	2:163:14	w	بِمَا		بما	with what	bimā
+2	2:163:15	w	يَنفَعُ		ينفع	benefits	yanfaʿu
+2	2:163:16	w	ࡲ۬لنَّاسَ		الناس	[the] people	l-nāsa
+2	2:163:17	w	وَمَآ		وما	and what	wamā
+2	2:163:18	w	أَنزَلَ		انزل	(has) sent down	anzala
+2	2:163:19	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+3	2:163:20	w	مِنَ		من	from	mina
+3	2:163:21	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+3	2:163:22	w	مِن		من	[of]	min
+3	2:163:23	w	مَّآءࣲ		ما	water	māin
+3	2:163:24	w	فَأَحْيٜا		فاحيا	giving life	fa-aḥyā
+3	2:163:25	w	بِهِ		به	thereby	bihi
+3	2:163:26	w	ࡴ۬لَارْضَ		الارض	(to) the earth	l-arḍa
+3	2:163:27	w	بَعْدَ		بعد	after	baʿda
+3	2:163:28	w	مَوْتِهَا		موتها	its death	mawtihā
+3	2:163:29	w	وَبَثَّ		وبث	and dispersing	wabatha
+3	2:163:30	w	فِيهَا		فيها	therein	fīhā
+4	2:163:31	w	مِن		من	[of]	min
+4	2:163:32	w	كُلِّ		كل	every	kulli
+4	2:163:33	w	دَآبَّةࣲ		دابة	moving creature	dābbatin
+4	2:163:34	w	وَتَصْرِيفِ		وتصريف	and directing	wataṣrīfi
+4	2:163:35	w	ࡴ۬لرِّيَٰحِ		الريح	(of) the winds	l-riyāḥi
+4	2:163:36	w	وَالسَّحَابِ		والسحاب	and the clouds	wal-saḥābi
+4	2:163:37	w	ࡴ۬لْمُسَخَّرِ		المسخر	[the] controlled	l-musakhari
+4	2:163:38	w	بَيْنَ		بين	between	bayna
+5	2:163:39	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+5	2:163:40	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+5	2:163:41	w	لَأٓيَٰتࣲ		لايت	surely (are) Signs	laāyātin
+5	2:163:42	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+5	2:163:43	w	يَعْقِلُونَ࣌		يعقلون	who use their intellect	yaʿqilūna
+5	2:163:44	e	۝١٦٣				
+5	2:164:1	w	وَمِنَ		ومن	And among	wamina
+5	2:164:2	w	ࡰ۬لنَّاسِ		الناس	the mankind	l-nāsi
+6	2:164:3	w	مَنْ		من	who	man
+6	2:164:4	w	يَّتَّخِذُ		يتخذ	takes	yattakhidhu
+6	2:164:5	w	مِن		من	from	min
+6	2:164:6	w	دُونِ		دون	besides	dūni
+6	2:164:7	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+6	2:164:8	w	أَندَاداࣰ		اندادا	equals	andādan
+6	2:164:9	w	يُحِبُّونَهُمْ		يحبونهم	They love them	yuḥibbūnahum
+6	2:164:10	w	كَحُبِّ		كحب	as (they should) love	kaḥubbi
+6	2:164:11	w	ࡴ۬للَّهِ࣌		الله	Allah	l-lahi
+6	2:164:12	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+7	2:164:13	w	ءَامَنُوٓاْ		امنوا	believe[d]	āmanū
+7	2:164:14	w	أَشَدُّ		اشد	(are) stronger	ashaddu
+7	2:164:15	w	حُبّاࣰ		حبا	(in) love	ḥubban
+7	2:164:16	w	لِّلهِ࣌		لله	for Allah	lillahi
+7	2:164:17	w	وَلَوْ		ولو	And if	walaw
+7	2:164:18	w	تَرَى		تري	would see	yarā
+7	2:164:19	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	2:164:20	w	ظَلَمُوٓاْ		ظلموا	wronged	ẓalamū
+7	2:164:21	w	إِذْ		اذ	when	idh
+7	2:164:22	w	يَرَوْنَ		يرون	they will see	yarawna
+8	2:164:23	w	ࡰ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+8	2:164:24	w	أَنَّ		ان	that	anna
+8	2:164:25	w	ࡰ۬لْقُوَّةَ		القوة	the power	l-quwata
+8	2:164:26	w	لِلهِ		لله	(belongs) to Allah	lillahi
+8	2:164:27	w	جَمِيعاࣰ		جميعا	all	jamīʿan
+8	2:164:28	w	وَأَنَّ		وان	and [that]	wa-anna
+8	2:164:29	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+8	2:164:30	w	شَدِيدُ		شديد	(is) severe	shadīdu
+8	2:164:31	w	ࡲ۬لْعَذَابِ࣌		العذاب	(in) [the] punishment	l-ʿadhābi
+8	2:164:32	e	۝١٦٤				
+9	2:165:1	w	۞ إِذْ		اذ	When	idh
+9	2:165:2	w	تَبَرَّأَ		تبرا	will disown	tabarra-a
+9	2:165:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+9	2:165:4	w	ࡸَتُّبِعُواْ		اتبعوا	were followed	ittubiʿū
+9	2:165:5	w	مِنَ		من	[from]	mina
+9	2:165:6	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+9	2:165:7	w	ࡰٜتَّبَعُواْ		اتبعوا	followed	ittabaʿū
+9	2:165:8	w	وَرَأَوُاْ		وراوا	and they will see	wara-awū
+9	2:165:9	w	ࡲ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+10	2:165:10	w	وَتَقَطَّعَتْ		وتقطعت	[and] will be cut off	wataqaṭṭaʿat
+10	2:165:11	w	بِهِمُ		بهم	for them	bihimu
+10	2:165:12	w	ࡲ۬لَاسْبَٰبُ࣌		الاسبب	the relations	l-asbābu
+10	2:165:13	e	۝١٦٥				
+10	2:166:1	w	وَقَالَ		وقال	And said	waqāla
+10	2:166:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	2:166:3	w	ࡰٜتَّبَعُواْ		اتبعوا	followed	ittabaʿū
+10	2:166:4	w	لَوَ		لو	(Only) if	law
+10	2:166:5	w	ࡰنَّ		ان	[that]	anna
+11	2:166:6	w	لَنَا		لنا	for us	lanā
+11	2:166:7	w	كَرَّةࣰ		كرة	a return	karratan
+11	2:166:8	w	فَنَتَبَرَّأَ		فنتبرا	then we will disown	fanatabarra-a
+11	2:166:9	w	مِنْهُمْ		منهم	[from] them	min'hum
+11	2:166:10	w	كَمَا		كما	as	kamā
+11	2:166:11	w	تَبَرَّءُواْ		تبروا	they disown	tabarraū
+11	2:166:12	w	مِنَّا࣌		منا	[from] us	minnā
+11	2:166:13	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+11	2:166:14	w	يُرِيهِمُ		يريهم	will show them	yurīhimu
+11	2:166:15	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+12	2:166:16	w	أَعْمَٰلَهُمْ		اعملهم	their deeds	aʿmālahum
+12	2:166:17	w	حَسَرَٰتٍ		حسرت	(as) regrets	ḥasarātin
+12	2:166:18	w	عَلَيْهِمْ࣌		عليهم	for them	ʿalayhim
+12	2:166:19	w	وَمَا		وما	And not	wamā
+12	2:166:20	w	هُم		هم	they	hum
+12	2:166:21	w	بِخَٰرِجِينَ		بخرجين	will come out	bikhārijīna
+12	2:166:22	w	مِنَ		من	from	mina
+12	2:166:23	w	ࡰ۬لنّٜارِ࣌		النار	the Fire	l-nāri
+12	2:166:24	e	۝١٦٦				
+13	2:167:1	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+13	2:167:2	w	ࡰ۬لنَّاسُ		الناس	mankind	l-nāsu
+13	2:167:3	w	كُلُواْ		كلوا	Eat	kulū
+13	2:167:4	w	مِمَّا		مما	of what	mimmā
+13	2:167:5	w	فِے		في	(is) in	fī
+13	2:167:6	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+13	2:167:7	w	حَلَٰلاࣰ		حللا	lawful	ḥalālan
+13	2:167:8	w	طَيِّباࣰ࣌		طيبا	(and) good	ṭayyiban
+13	2:167:9	w	وَلَا		ولا	And (do) not	walā
+13	2:167:10	w	تَتَّبِعُواْ		تتبعوا	follow	tattabiʿū
+14	2:167:11	w	خُطْوَٰتِ		خطوت	(the) footsteps (of)	khuṭuwāti
+14	2:167:12	w	ࡴ۬لشَّيْطَٰنِ࣌		الشيطن	the Shaitaan	l-shayṭāni
+14	2:167:13	w	إِنَّهُۥ		انه	Indeed, he	innahu
+14	2:167:14	w	لَكُمْ		لكم	(is) to you	lakum
+14	2:167:15	w	عَدُوࣱّ		عدو	an enemy	ʿaduwwun
+14	2:167:16	w	مُّبِينٌ࣌		مبين	clear	mubīnun
+14	2:167:17	e	۝١٦٧				
+14	2:168:1	w	ࡴنَّمَا		انما	Only	innamā
+14	2:168:2	w	يَامُرُكُم		يامركم	he commands you	yamurukum
+15	2:168:3	w	بِالسُّوٓءِ		بالسو	to (do) the evil	bil-sūi
+15	2:168:4	w	وَالْفَحْشَآءِ		والفحشا	and the shameful	wal-faḥshāi
+15	2:168:5	w	وَأَن		وان	and that	wa-an
+15	2:168:6	w	تَقُولُواْ		تقولوا	you say	taqūlū
+15	2:168:7	w	عَلَى		علي	about	ʿalā
+15	2:168:8	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+15	2:168:9	w	مَا		ما	what	mā
+15	2:168:10	w	لَا		لا	not	lā
+15	2:168:11	w	تَعْلَمُونَ࣌		تعلمون	you know	taʿlamūna
+15	2:168:12	e	۝١٦٨				

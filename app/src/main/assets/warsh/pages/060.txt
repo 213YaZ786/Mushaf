@@ -1,0 +1,130 @@
+1	3:77:1	w	وَإِنَّ		وان	And indeed	wa-inna
+1	3:77:2	w	مِنْهُمْ		منهم	among them	min'hum
+1	3:77:3	w	لَفَرِيقاࣰ		لفريقا	surely (is) a group	lafarīqan
+1	3:77:4	w	يَلْوُۥنَ		يلون	they distort	yalwūna
+1	3:77:5	w	أَلْسِنَتَهُم		السنتهم	their tongues	alsinatahum
+1	3:77:6	w	بِالْكِتَٰبِ		بالكتب	in (reciting) the Book	bil-kitābi
+1	3:77:7	w	لِتَحْسِبُوهُ		لتحسبوه	so that you may think it	litaḥsabūhu
+2	3:77:8	w	مِنَ		من	(is) from	mina
+2	3:77:9	w	ࡰ۬لْكِتَٰبِ		الكتب	the Book	l-kitābi
+2	3:77:10	w	وَمَا		وما	and not	wamā
+2	3:77:11	w	هُوَ		هو	it	huwa
+2	3:77:12	w	مِنَ		من	(is) from	mina
+2	3:77:13	w	ࡰ۬لْكِتَٰبِ࣌		الكتب	the Book	l-kitābi
+2	3:77:14	w	وَيَقُولُونَ		ويقولون	And they say	wayaqūlūna
+2	3:77:15	w	هُوَ		هو	It	huwa
+2	3:77:16	w	مِنْ		من	(is)	min
+3	3:77:17	w	عِندِ		عند	from	ʿindi
+3	3:77:18	w	ࡴ۬للَّهِ࣌		الله	Allah	l-lahi
+3	3:77:19	w	وَمَا		وما	But not	wamā
+3	3:77:20	w	هُوَ		هو	it	huwa
+3	3:77:21	w	مِنْ		من	(is)	min
+3	3:77:22	w	عِندِ		عند	from	ʿindi
+3	3:77:23	w	ࡴ۬للَّهِ࣌		الله	Allah	l-lahi
+3	3:77:24	w	وَيَقُولُونَ		ويقولون	And they say	wayaqūlūna
+3	3:77:25	w	عَلَى		علي	about	ʿalā
+3	3:77:26	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+3	3:77:27	w	ࡴ۬لْكَذِبَ		الكذب	the lie	l-kadhiba
+4	3:77:28	w	وَهُمْ		وهم	while they	wahum
+4	3:77:29	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+4	3:77:30	e	۝٧٧				
+4	3:78:1	w	مَا		ما	Not	mā
+4	3:78:2	w	كَانَ		كان	is	kāna
+4	3:78:3	w	لِبَشَرٍ		لبشر	for a human	libasharin
+4	3:78:4	w	ࡰنْ		ان	that	an
+4	3:78:5	w	يُّوتِيَهُ		يوتيه	gives him	yu'tiyahu
+4	3:78:6	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+4	3:78:7	w	ࡲ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+5	3:78:8	w	وَالْحُكْمَ		والحكم	and the wisdom	wal-ḥuk'ma
+5	3:78:9	w	وَالنُّبُوٓءَةَ		والنبوة	and the Prophethood	wal-nubuwata
+5	3:78:10	w	ثُمَّ		ثم	then	thumma
+5	3:78:11	w	يَقُولَ		يقول	he says	yaqūla
+5	3:78:12	w	لِلنَّاسِ		للناس	to the people	lilnnāsi
+5	3:78:13	w	كُونُواْ		كونوا	Be	kūnū
+5	3:78:14	w	عِبَاداࣰ		عبادا	worshippers	ʿibādan
+5	3:78:15	w	لِّے		لي	of me	lī
+5	3:78:16	w	مِن		من	from	min
+6	3:78:17	w	دُونِ		دون	besides	dūni
+6	3:78:18	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+6	3:78:19	w	وَلَٰكِن		ولكن	but (would say)	walākin
+6	3:78:20	w	كُونُواْ		كونوا	Be	kūnū
+6	3:78:21	w	رَبَّٰنِيِّۑنَ		ربنين	worshippers of the Lord	rabbāniyyīna
+6	3:78:22	w	بِمَا		بما	because	bimā
+6	3:78:23	w	كُنتُمْ		كنتم	you have been	kuntum
+6	3:78:24	w	تَعْلَمُونَ		تعلمون	teaching	tuʿallimūna
+7	3:78:25	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+7	3:78:26	w	وَبِمَا		وبما	and because	wabimā
+7	3:78:27	w	كُنتُمْ		كنتم	you have been	kuntum
+7	3:78:28	w	تَدْرُسُونَ࣌		تدرسون	studying (it)	tadrusūna
+7	3:78:29	e	۝٧٨				
+7	3:79:1	w	وَلَا		ولا	And not	walā
+7	3:79:2	w	يَامُرُكُمُۥٓ		يامركم	he will order you	yamurakum
+7	3:79:3	w	أَن		ان	that	an
+8	3:79:4	w	تَتَّخِذُواْ		تتخذوا	you take	tattakhidhū
+8	3:79:5	w	ࡲ۬لْمَلَٰٓئِكَةَ		المليكة	the Angels	l-malāikata
+8	3:79:6	w	وَالنَّبِيٓـِٕۑنَ		والنبين	and the Prophets	wal-nabiyīna
+8	3:79:7	w	أَرْبَاباً࣌		اربابا	(as) lords	arbāban
+8	3:79:8	w	ࡰيَامُرُكُم		ايامركم	Would he order you	ayamurukum
+8	3:79:9	w	بِالْكُفْرِ		بالكفر	to [the] disbelief	bil-kuf'ri
+8	3:79:10	w	بَعْدَ		بعد	after	baʿda
+9	3:79:11	w	إِذَ		اذ	[when]	idh
+9	3:79:12	w	ࡰنتُم		انتم	you (have become)	antum
+9	3:79:13	w	مُّسْلِمُونَ࣌		مسلمون	Muslims	mus'limūna
+9	3:79:14	e	۝٧٩				
+9	3:80:1	w	وَإِذَ		واذ	And when	wa-idh
+9	3:80:2	w	ࡰخَذَ		اخذ	took	akhadha
+9	3:80:3	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+9	3:80:4	w	مِيثَٰقَ		ميثق	covenant	mīthāqa
+9	3:80:5	w	ࡰ۬لنَّبِيٓـِٕۑنَ		النبين	(of) the Prophets	l-nabiyīna
+9	3:80:6	w	لَمَآ		لما	Certainly, whatever	lamā
+9	3:80:7	w	ءَاتَيْنَٰكُم		اتينكم	I (have) given you	ātaytukum
+10	3:80:8	w	مِّن		من	of	min
+10	3:80:9	w	كِتَٰبࣲ		كتب	(the) Book	kitābin
+10	3:80:10	w	وَحِكْمَةࣲ		وحكمة	and wisdom	waḥik'matin
+10	3:80:11	w	ثُمَّ		ثم	then	thumma
+10	3:80:12	w	جَآءَكُمْ		جاكم	comes to you	jāakum
+10	3:80:13	w	رَسُولࣱ		رسول	a Messenger	rasūlun
+10	3:80:14	w	مُّصَدِّقࣱ		مصدق	confirming	muṣaddiqun
+10	3:80:15	w	لِّمَا		لما	that which	limā
+11	3:80:16	w	مَعَكُمْ		معكم	(is) with you	maʿakum
+11	3:80:17	w	لَتُومِنُنَّ		لتومنن	you must believe	latu'minunna
+11	3:80:18	w	بِهِۦ		بهي	in him	bihi
+11	3:80:19	w	وَلَتَنصُرُنَّهُۥ࣌		ولتنصرنه	and you must help him	walatanṣurunnahu
+11	3:80:20	w	۞ قَالَ		قال	He said	qāla
+11	3:80:21	w	ءَآقْرَرْتُمْ		اقررتم	Do you affirm	a-aqrartum
+11	3:80:22	w	وَأَخَذتُّمْ		واخذتم	and take	wa-akhadhtum
+12	3:80:23	w	عَلَىٰ		علي	on	ʿalā
+12	3:80:24	w	ذَٰلِكُمُۥٓ		ذلكم	that (condition)	dhālikum
+12	3:80:25	w	إِصْرِے࣌		اصري	My Covenant	iṣ'rī
+12	3:80:26	w	قَالُوٓاْ		قالوا	They said	qālū
+12	3:80:27	w	أَقْرَرْنَا࣌		اقررنا	We affirm	aqrarnā
+12	3:80:28	w	قَالَ		قال	He said	qāla
+12	3:80:29	w	فَاشْهَدُواْ		فاشهدوا	Then bear witness	fa-ish'hadū
+12	3:80:30	w	وَأَنَا		وانا	and I (am)	wa-anā
+12	3:80:31	w	مَعَكُم		معكم	with you	maʿakum
+13	3:80:32	w	مِّنَ		من	among	mina
+13	3:80:33	w	ࡰ۬لشَّٰهِدِينَ࣌		الشهدين	the witnesses	l-shāhidīna
+13	3:80:34	e	۝٨٠				
+13	3:81:1	w	فَمَن		فمن	Then whoever	faman
+13	3:81:2	w	تَوَلّٜىٰ		تولي	turns away	tawallā
+13	3:81:3	w	بَعْدَ		بعد	after	baʿda
+13	3:81:4	w	ذَٰلِكَ		ذلك	that	dhālika
+13	3:81:5	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+13	3:81:6	w	هُمُ		هم	they	humu
+14	3:81:7	w	ࡲ۬لْفَٰسِقُونَ࣌		الفسقون	(are) the defiantly disobedient	l-fāsiqūna
+14	3:81:8	e	۝٨١				
+14	3:82:1	w	أَفَغَيْرَ		افغير	So is (it) other than	afaghayra
+14	3:82:2	w	دِينِ		دين	(the) religion	dīni
+14	3:82:3	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+14	3:82:4	w	تَبْغُونَ		تبغون	they seek	yabghūna
+14	3:82:5	w	وَلَهُۥٓ		وله	While to Him	walahu
+14	3:82:6	w	أَسْلَمَ		اسلم	(have) submitted	aslama
+14	3:82:7	w	مَن		من	whatever	man
+14	3:82:8	w	فِے		في	(is) in	fī
+15	3:82:9	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+15	3:82:10	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+15	3:82:11	w	طَوْعاࣰ		طوعا	willingly	ṭawʿan
+15	3:82:12	w	وَكَرْهاࣰ࣌		وكرها	or unwillingly	wakarhan
+15	3:82:13	w	وَإِلَيْهِ		واليه	and towards Him	wa-ilayhi
+15	3:82:14	w	تُرْجَعُونَ࣌		ترجعون	they will be returned	yur'jaʿūna
+15	3:82:15	e	۝٨٢				

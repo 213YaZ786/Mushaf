@@ -1,0 +1,107 @@
+1	33:31:1	w	۞ وَمَنْ		ومن	And whoever	waman
+1	33:31:2	w	يَّقْنُتْ		يقنت	is obedient	yaqnut
+1	33:31:3	w	مِنكُنَّ		منكن	among you	minkunna
+1	33:31:4	w	لِلهِ		لله	to Allah	lillahi
+1	33:31:5	w	وَرَسُولِهِۦ		ورسولهي	and His Messenger	warasūlihi
+1	33:31:6	w	وَتَعْمَلْ		وتعمل	and does	wataʿmal
+1	33:31:7	w	صَٰلِحاࣰ		صلحا	righteousness	ṣāliḥan
+1	33:31:8	w	نُّوتِهَآ		نوتها	We will give her	nu'tihā
+2	33:31:9	w	أَجْرَهَا		اجرها	her reward	ajrahā
+2	33:31:10	w	مَرَّتَيْنِ		مرتين	twice	marratayni
+2	33:31:11	w	وَأَعْتَدْنَا		واعتدنا	and We have prepared	wa-aʿtadnā
+2	33:31:12	w	لَهَا		لها	for her	lahā
+2	33:31:13	w	رِزْقاࣰ		رزقا	a provision	riz'qan
+2	33:31:14	w	كَرِيماࣰ࣌		كريما	noble	karīman
+2	33:31:15	e	۝٣١				
+2	33:32:1	w	يَٰنِسَآءَ		ينسا	O wives	yānisāa
+2	33:32:2	w	ࡰ۬لنَّبِےٓءِ		النبي	(of) the Prophet	l-nabiyi
+3	33:32:3	w	لَسْتُنَّ		لستن	You are not	lastunna
+3	33:32:4	w	كَأَحَدࣲ		كاحد	like anyone	ka-aḥadin
+3	33:32:5	w	مِّنَ		من	among	mina
+3	33:32:6	w	ࡰ۬لنِّسَآءِ		النسا	the women	l-nisāi
+3	33:32:7	w	انِ		ان	If	ini
+3	33:32:8	w	ࡴٜتَّقَيْتُنَّ࣌		اتقيتن	you fear (Allah)	ittaqaytunna
+3	33:32:9	w	فَلَا		فلا	then (do) not	falā
+3	33:32:10	w	تَخْضَعْنَ		تخضعن	be soft	takhḍaʿna
+3	33:32:11	w	بِالْقَوْلِ		بالقول	in speech	bil-qawli
+4	33:32:12	w	فَيَطْمَعَ		فيطمع	lest should be moved with desire	fayaṭmaʿa
+4	33:32:13	w	ࡰ۬لذِے		الذي	he who	alladhī
+4	33:32:14	w	فِے		في	in	fī
+4	33:32:15	w	قَلْبِهِۦ		قلبهي	his heart	qalbihi
+4	33:32:16	w	مَرَضࣱ		مرض	(is) a disease	maraḍun
+4	33:32:17	w	وَقُلْنَ		وقلن	but say	waqul'na
+4	33:32:18	w	قَوْلاࣰ		قولا	a word	qawlan
+4	33:32:19	w	مَّعْرُوفاࣰ		معروفا	appropriate	maʿrūfan
+4	33:32:20	e	۝٣٢				
+4	33:33:1	w	وَقَرْنَ		وقرن	And stay	waqarna
+5	33:33:2	w	فِے		في	in	fī
+5	33:33:3	w	بُيُوتِكُنَّ࣌		بيوتكن	your houses	buyūtikunna
+5	33:33:4	w	وَلَا		ولا	and (do) not	walā
+5	33:33:5	w	تَبَرَّجْنَ		تبرجن	display yourselves	tabarrajna
+5	33:33:6	w	تَبَرُّجَ		تبرج	(as was the) display	tabarruja
+5	33:33:7	w	ࡰ۬لْجَٰهِلِيَّةِ		الجهلية	(of the times of) ignorance	l-jāhiliyati
+5	33:33:8	w	ࡴ۬لُاولٜىٰ࣌		الاولي	the former	l-ūlā
+5	33:33:9	w	وَأَقِمْنَ		واقمن	And establish	wa-aqim'na
+6	33:33:10	w	ࡰ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+6	33:33:11	w	وَءَاتِينَ		واتين	and give	waātīna
+6	33:33:12	w	ࡰ۬لزَّكَوٰةَ࣌		الزكوة	zakah	l-zakata
+6	33:33:13	w	وَأَطِعْنَ		واطعن	and obey	wa-aṭiʿ'na
+6	33:33:14	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	33:33:15	w	وَرَسُولَهُۥٓ࣌		ورسوله	and His Messenger	warasūlahu
+6	33:33:16	w	إِنَّمَا		انما	Only	innamā
+7	33:33:17	w	يُرِيدُ		يريد	Allah wishes	yurīdu
+7	33:33:18	w	ࡲ۬للَّهُ		الله	Allah wishes	l-lahu
+7	33:33:19	w	لِيُذْهِبَ		ليذهب	to remove	liyudh'hiba
+7	33:33:20	w	عَنكُمُ		عنكم	from you	ʿankumu
+7	33:33:21	w	ࡲ۬لرِّجْسَ		الرجس	the impurity	l-rij'sa
+7	33:33:22	w	أَهْلَ		اهل	(O) People	ahla
+7	33:33:23	w	ࡰ۬لْبَيْتِ		البيت	(of) the House	l-bayti
+7	33:33:24	w	وَيُطَهِّرَكُمْ		ويطهركم	And to purify you	wayuṭahhirakum
+8	33:33:25	w	تَطْهِيراࣰ࣌		تطهيرا	(with thorough) purification	taṭhīran
+8	33:33:26	e	۝٣٣				
+8	33:34:1	w	وَاذْكُرْنَ		واذكرن	And remember	wa-udh'kur'na
+8	33:34:2	w	مَا		ما	what	mā
+8	33:34:3	w	يُتْلٜىٰ		يتلي	is recited	yut'lā
+8	33:34:4	w	فِے		في	in	fī
+8	33:34:5	w	بُيُوتِكُنَّ		بيوتكن	your houses	buyūtikunna
+8	33:34:6	w	مِنَ		من	of	min
+9	33:34:7	w	اٰيَٰتِ		ايت	(the) Verses	āyāti
+9	33:34:8	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+9	33:34:9	w	وَالْحِكْمَةِ࣌		والحكمة	and the wisdom	wal-ḥik'mati
+9	33:34:10	w	إِنَّ		ان	Indeed	inna
+9	33:34:11	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+9	33:34:12	w	كَانَ		كان	is	kāna
+9	33:34:13	w	لَطِيفاً		لطيفا	All-Subtle	laṭīfan
+9	33:34:14	w	خَبِيراً࣌		خبيرا	All-Aware	khabīran
+9	33:34:15	e	۝٣٤				
+10	33:35:1	w	ࡴنَّ		ان	Indeed	inna
+10	33:35:2	w	ࡰ۬لْمُسْلِمِينَ		المسلمين	the Muslim men	l-mus'limīna
+10	33:35:3	w	وَالْمُسْلِمَٰتِ		والمسلمت	and the Muslim women	wal-mus'limāti
+10	33:35:4	w	وَالْمُومِنِينَ		والمومنين	and the believing men	wal-mu'minīna
+10	33:35:5	w	وَالْمُومِنَٰتِ		والمومنت	and the believing women	wal-mu'mināti
+11	33:35:6	w	وَالْقَٰنِتِينَ		والقنتين	and the obedient men	wal-qānitīna
+11	33:35:7	w	وَالْقَٰنِتَٰتِ		والقنتت	and the obedient women	wal-qānitāti
+11	33:35:8	w	وَالصَّٰدِقِينَ		والصدقين	and the truthful men	wal-ṣādiqīna
+11	33:35:9	w	وَالصَّٰدِقَٰتِ		والصدقت	and the truthful women	wal-ṣādiqāti
+11	33:35:10	w	وَالصَّٰبِرِينَ		والصبرين	and the patient men	wal-ṣābirīna
+12	33:35:11	w	وَالصَّٰبِرَٰتِ		والصبرت	and the patient women	wal-ṣābirāti
+12	33:35:12	w	وَالْخَٰشِعِينَ		والخشعين	and the humble men	wal-khāshiʿīna
+12	33:35:13	w	وَالْخَٰشِعَٰتِ		والخشعت	and the humble women	wal-khāshiʿāti
+12	33:35:14	w	وَالْمُتَصَدِّقِينَ		والمتصدقين	and the men who give charity	wal-mutaṣadiqīna
+13	33:35:15	w	وَالْمُتَصَدِّقَٰتِ		والمتصدقت	and the women who give charity	wal-mutaṣadiqāti
+13	33:35:16	w	وَالصَّٰٓئِمِينَ		والصيمين	and the men who fast	wal-ṣāimīna
+13	33:35:17	w	وَالصَّٰٓئِمَٰتِ		والصيمت	and the women who fast	wal-ṣāimāti
+13	33:35:18	w	وَالْحَٰفِظِينَ		والحفظين	and the men who guard	wal-ḥāfiẓīna
+14	33:35:19	w	فُرُوجَهُمْ		فروجهم	their chastity	furūjahum
+14	33:35:20	w	وَالْحَٰفِظَٰتِ		والحفظت	and the women who guard (it)	wal-ḥāfiẓāti
+14	33:35:21	w	وَالذَّٰكِرِينَ		والذكرين	and the men who remember	wal-dhākirīna
+14	33:35:22	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+14	33:35:23	w	كَثِيراࣰ		كثيرا	much	kathīran
+15	33:35:24	w	وَالذَّٰكِرَٰتِ		والذكرت	and the women who remember	wal-dhākirāti
+15	33:35:25	w	أَعَدَّ		اعد	Allah has prepared	aʿadda
+15	33:35:26	w	ࡰ۬للَّهُ		الله	Allah has prepared	l-lahu
+15	33:35:27	w	لَهُم		لهم	for them	lahum
+15	33:35:28	w	مَّغْفِرَةࣰ		مغفرة	forgiveness	maghfiratan
+15	33:35:29	w	وَأَجْراً		واجرا	and a reward	wa-ajran
+15	33:35:30	w	عَظِيماࣰ࣌		عظيما	great	ʿaẓīman
+15	33:35:31	e	۝٣٥				

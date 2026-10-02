@@ -1,0 +1,141 @@
+1	12:79:1	w	قَالَ		قال	He said	qāla
+1	12:79:2	w	مَعَاذَ		معاذ	Allah forbid	maʿādha
+1	12:79:3	w	ࡰ۬للَّهِ		الله	Allah forbid	l-lahi
+1	12:79:4	w	أَن		ان	that	an
+1	12:79:5	w	نَّاخُذَ		ناخذ	we take	nakhudha
+1	12:79:6	w	إِلَّا		الا	except	illā
+1	12:79:7	w	مَنْ		من	(one) who	man
+1	12:79:8	w	وَّجَدْنَا		وجدنا	we found	wajadnā
+1	12:79:9	w	مَتَٰعَنَا		متعنا	our possession	matāʿanā
+1	12:79:10	w	عِندَهُۥٓ		عنده	with him	ʿindahu
+1	12:79:11	w	إِنَّآ		انا	Indeed, we	innā
+1	12:79:12	w	إِذاࣰ		اذا	then	idhan
+2	12:79:13	w	لَّظَٰلِمُونَ࣌		لظلمون	surely (would be) wrongdoers	laẓālimūna
+2	12:79:14	e	۝٧٩				
+2	12:80:1	w	فَلَمَّا		فلما	So when	falammā
+2	12:80:2	w	ࡰٜسْتَيْـَٔسُواْ		استيسوا	they despaired	is'tayasū
+2	12:80:3	w	مِنْهُ		منه	of him	min'hu
+2	12:80:4	w	خَلَصُواْ		خلصوا	they secluded themselves	khalaṣū
+2	12:80:5	w	نَجِيّاࣰ࣌		نجيا	(in) private consultation	najiyyan
+2	12:80:6	w	قَالَ		قال	Said	qāla
+2	12:80:7	w	كَبِيرُهُمُۥٓ		كبيرهم	the eldest among them	kabīruhum
+3	12:80:8	w	أَلَمْ		الم	Do not	alam
+3	12:80:9	w	تَعْلَمُوٓاْ		تعلموا	you know	taʿlamū
+3	12:80:10	w	أَنَّ		ان	that	anna
+3	12:80:11	w	أَبَاكُمْ		اباكم	your father	abākum
+3	12:80:12	w	قَدَ		قد	has taken	qad
+3	12:80:13	w	ࡰخَذَ		اخذ	has taken	akhadha
+3	12:80:14	w	عَلَيْكُم		عليكم	upon you	ʿalaykum
+3	12:80:15	w	مَّوْثِقاࣰ		موثقا	a promise	mawthiqan
+3	12:80:16	w	مِّنَ		من	by	mina
+3	12:80:17	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+4	12:80:18	w	وَمِن		ومن	and before	wamin
+4	12:80:19	w	قَبْلُ		قبل	and before	qablu
+4	12:80:20	w	مَا		ما	that	mā
+4	12:80:21	w	فَرَّطْتُّمْ		فرطتم	you failed	farraṭtum
+4	12:80:22	w	فِے		في	concerning	fī
+4	12:80:23	w	يُوسُفَ࣌		يوسف	Yusuf	yūsufa
+4	12:80:24	w	فَلَنَ		فلن	So never	falan
+4	12:80:25	w	ࡰبْرَحَ		ابرح	will I leave	abraḥa
+4	12:80:26	w	ࡰ۬لَارْضَ		الارض	the land	l-arḍa
+4	12:80:27	w	حَتَّىٰ		حتي	until	ḥattā
+5	12:80:28	w	يَاذَنَ		ياذن	permits	yadhana
+5	12:80:29	w	لِيَ		لي	me	lī
+5	12:80:30	w	أَبِيَ		ابي	my father	abī
+5	12:80:31	w	أَوْ		او	or	aw
+5	12:80:32	w	يَحْكُمَ		يحكم	Allah decides	yaḥkuma
+5	12:80:33	w	ࡰ۬للَّهُ		الله	Allah decides	l-lahu
+5	12:80:34	w	لِے࣌		لي	for me	lī
+5	12:80:35	w	وَهُوَ		وهو	and He	wahuwa
+5	12:80:36	w	خَيْرُ		خير	(is) the Best	khayru
+5	12:80:37	w	ࡲ۬لْحَٰكِمِينَ࣌		الحكمين	(of) the judges	l-ḥākimīna
+5	12:80:38	e	۝٨٠				
+6	12:81:1	w	ࡰٜرْجِعُوٓاْ		ارجعوا	Return	ir'jiʿū
+6	12:81:2	w	إِلَىٰٓ		الي	to	ilā
+6	12:81:3	w	أَبِيكُمْ		ابيكم	your father	abīkum
+6	12:81:4	w	فَقُولُواْ		فقولوا	and say	faqūlū
+6	12:81:5	w	يَٰٓأَبَانَآ		يابانا	'O our father	yāabānā
+6	12:81:6	w	إِنَّ		ان	Indeed	inna
+6	12:81:7	w	ࡰٜبْنَكَ		ابنك	your son	ib'naka
+6	12:81:8	w	سَرَقَ࣌		سرق	has stolen	saraqa
+7	12:81:9	w	وَمَا		وما	and not	wamā
+7	12:81:10	w	شَهِدْنَآ		شهدنا	we testify	shahid'nā
+7	12:81:11	w	إِلَّا		الا	except	illā
+7	12:81:12	w	بِمَا		بما	of what	bimā
+7	12:81:13	w	عَلِمْنَا		علمنا	we knew	ʿalim'nā
+7	12:81:14	w	وَمَا		وما	And not	wamā
+7	12:81:15	w	كُنَّا		كنا	we were	kunnā
+7	12:81:16	w	لِلْغَيْبِ		للغيب	of the unseen	lil'ghaybi
+7	12:81:17	w	حَٰفِظِينَ࣌		حفظين	guardians	ḥāfiẓīna
+7	12:81:18	e	۝٨١				
+8	12:82:1	w	وَسْـَٔلِ		وسل	And ask	wasali
+8	12:82:2	w	ࡴ۬لْقَرْيَةَ		القرية	the town	l-qaryata
+8	12:82:3	w	ࡰ۬لتِے		التي	where	allatī
+8	12:82:4	w	كُنَّا		كنا	we were	kunnā
+8	12:82:5	w	فِيهَا		فيها	[in it]	fīhā
+8	12:82:6	w	وَالْعِيرَ		والعير	and the caravan	wal-ʿīra
+8	12:82:7	w	ࡰ۬لتِےٓ		التي	which	allatī
+8	12:82:8	w	أَقْبَلْنَا		اقبلنا	we returned	aqbalnā
+8	12:82:9	w	فِيهَا		فيها	[in it]	fīhā
+9	12:82:10	w	وَإِنَّا		وانا	And indeed, we	wa-innā
+9	12:82:11	w	لَصَٰدِقُونَ࣌		لصدقون	surely (are) truthful.'	laṣādiqūna
+9	12:82:12	e	۝٨٢				
+9	12:83:1	w	قَالَ		قال	He said	qāla
+9	12:83:2	w	بَلْ		بل	Nay	bal
+9	12:83:3	w	سَوَّلَتْ		سولت	have enticed	sawwalat
+9	12:83:4	w	لَكُمُۥٓ		لكم	you	lakum
+9	12:83:5	w	أَنفُسُكُمُۥٓ		انفسكم	your souls	anfusukum
+9	12:83:6	w	أَمْراࣰ࣌		امرا	something	amran
+10	12:83:7	w	فَصَبْرࣱ		فصبر	so patience	faṣabrun
+10	12:83:8	w	جَمِيلٌ࣌		جميل	(is) beautiful	jamīlun
+10	12:83:9	w	عَسَى		عسي	Perhaps	ʿasā
+10	12:83:10	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+10	12:83:11	w	أَنْ		ان	will bring them to me	an
+10	12:83:12	w	يَّاتِيَنِے		ياتيني	will bring them to me	yatiyanī
+10	12:83:13	w	بِهِمْ		بهم	will bring them to me	bihim
+10	12:83:14	w	جَمِيعاً࣌		جميعا	all	jamīʿan
+10	12:83:15	w	ࡴنَّهُۥ		انه	Indeed, He	innahu
+10	12:83:16	w	هُوَ		هو	He	huwa
+11	12:83:17	w	ࡰ۬لْعَلِيمُ		العليم	(is) the All-Knower	l-ʿalīmu
+11	12:83:18	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	All-Wise	l-ḥakīmu
+11	12:83:19	e	۝٨٣				
+11	12:84:1	w	وَتَوَلّٜىٰ		وتولي	And he turned away	watawallā
+11	12:84:2	w	عَنْهُمْ		عنهم	from them	ʿanhum
+11	12:84:3	w	وَقَالَ		وقال	and said	waqāla
+11	12:84:4	w	يَٰٓأَسَفٜىٰ		ياسفي	Alas, my grief	yāasafā
+11	12:84:5	w	عَلَىٰ		علي	over	ʿalā
+12	12:84:6	w	يُوسُفَ࣌		يوسف	Yusuf	yūsufa
+12	12:84:7	w	وَابْيَضَّتْ		وابيضت	And became white	wa-ib'yaḍḍat
+12	12:84:8	w	عَيْنَٰهُ		عينه	his eyes	ʿaynāhu
+12	12:84:9	w	مِنَ		من	from	mina
+12	12:84:10	w	ࡰ۬لْحُزْنِ		الحزن	the grief	l-ḥuz'ni
+12	12:84:11	w	فَهُوَ		فهو	and he (was)	fahuwa
+12	12:84:12	w	كَظِيمࣱ࣌		كظيم	a suppressor	kaẓīmun
+12	12:84:13	e	۝٨٤				
+13	12:85:1	w	قَالُواْ		قالوا	They said	qālū
+13	12:85:2	w	تَاللَّهِ		تالله	By Allah	tal-lahi
+13	12:85:3	w	تَفْتَؤُاْ		تفتوا	you will not cease	tafta-u
+13	12:85:4	w	تَذْكُرُ		تذكر	remembering	tadhkuru
+13	12:85:5	w	يُوسُفَ		يوسف	Yusuf	yūsufa
+13	12:85:6	w	حَتَّىٰ		حتي	until	ḥattā
+13	12:85:7	w	تَكُونَ		تكون	you become	takūna
+13	12:85:8	w	حَرَضاً		حرضا	fatally ill	ḥaraḍan
+14	12:85:9	w	ࡰوْ		او	or	aw
+14	12:85:10	w	تَكُونَ		تكون	become	takūna
+14	12:85:11	w	مِنَ		من	of	mina
+14	12:85:12	w	ࡰ۬لْهَٰلِكِينَ࣌		الهلكين	those who perish	l-hālikīna
+14	12:85:13	e	۝٨٥				
+14	12:86:1	w	قَالَ		قال	He said	qāla
+14	12:86:2	w	إِنَّمَآ		انما	Only	innamā
+14	12:86:3	w	أَشْكُواْ		اشكوا	I complain	ashkū
+14	12:86:4	w	بَثِّے		بثي	(of) my suffering	bathī
+15	12:86:5	w	وَحُزْنِيَ		وحزني	and my grief	waḥuz'nī
+15	12:86:6	w	إِلَى		الي	to	ilā
+15	12:86:7	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+15	12:86:8	w	وَأَعْلَمُ		واعلم	and I know	wa-aʿlamu
+15	12:86:9	w	مِنَ		من	from	mina
+15	12:86:10	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+15	12:86:11	w	مَا		ما	what	mā
+15	12:86:12	w	لَا		لا	not	lā
+15	12:86:13	w	تَعْلَمُونَ࣌		تعلمون	you know	taʿlamūna
+15	12:86:14	e	۝٨٦				

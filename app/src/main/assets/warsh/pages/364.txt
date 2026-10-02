@@ -1,0 +1,146 @@
+1	25:44:1	w	ࡰمْ		ام	Or	am
+1	25:44:2	w	تَحْسِبُ		تحسب	do you think	taḥsabu
+1	25:44:3	w	أَنَّ		ان	that	anna
+1	25:44:4	w	أَكْثَرَهُمْ		اكثرهم	most of them	aktharahum
+1	25:44:5	w	يَسْمَعُونَ		يسمعون	hear	yasmaʿūna
+1	25:44:6	w	أَوْ		او	or	aw
+1	25:44:7	w	يَعْقِلُونَ࣌		يعقلون	understand	yaʿqilūna
+1	25:44:8	w	إِنْ		ان	Not	in
+1	25:44:9	w	هُمُۥٓ		هم	they	hum
+1	25:44:10	w	إِلَّا		الا	(are) except	illā
+2	25:44:11	w	كَالَانْعَٰمِ		كالانعم	like cattle	kal-anʿāmi
+2	25:44:12	w	بَلْ		بل	Nay	bal
+2	25:44:13	w	هُمُۥٓ		هم	they	hum
+2	25:44:14	w	أَضَلُّ		اضل	(are) more astray	aḍallu
+2	25:44:15	w	سَبِيلاً࣌		سبيلا	(from the) way	sabīlan
+2	25:44:16	e	۝٤٤				
+2	25:45:1	w	۞ ࡰلَمْ		الم	Do you not	alam
+2	25:45:2	w	تَرَ		تر	see	tara
+2	25:45:3	w	إِلَىٰ		الي	[to]	ilā
+2	25:45:4	w	رَبِّكَ		ربك	your Lord	rabbika
+2	25:45:5	w	كَيْفَ		كيف	how	kayfa
+3	25:45:6	w	مَدَّ		مد	He extends	madda
+3	25:45:7	w	ࡰ۬لظِّلَّ࣌		الظل	the shadow	l-ẓila
+3	25:45:8	w	وَلَوْ		ولو	And if	walaw
+3	25:45:9	w	شَآءَ		شا	He willed	shāa
+3	25:45:10	w	لَجَعَلَهُۥ		لجعله	surely He (could) have made it	lajaʿalahu
+3	25:45:11	w	سَاكِناࣰ࣌		ساكنا	stationary	sākinan
+3	25:45:12	w	ثُمَّ		ثم	Then	thumma
+3	25:45:13	w	جَعَلْنَا		جعلنا	We made	jaʿalnā
+3	25:45:14	w	ࡰ۬لشَّمْسَ		الشمس	the sun	l-shamsa
+3	25:45:15	w	عَلَيْهِ		عليه	for it	ʿalayhi
+4	25:45:16	w	دَلِيلاࣰ		دليلا	an indication	dalīlan
+4	25:45:17	e	۝٤٥				
+4	25:46:1	w	ثُمَّ		ثم	Then	thumma
+4	25:46:2	w	قَبَضْنَٰهُ		قبضنه	We withdraw it	qabaḍnāhu
+4	25:46:3	w	إِلَيْنَا		الينا	to Us	ilaynā
+4	25:46:4	w	قَبْضاࣰ		قبضا	a withdrawal	qabḍan
+4	25:46:5	w	يَسِيراࣰ࣌		يسيرا	gradual	yasīran
+4	25:46:6	e	۝٤٦				
+4	25:47:1	w	وَهُوَ		وهو	And He	wahuwa
+4	25:47:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+4	25:47:3	w	جَعَلَ		جعل	made	jaʿala
+5	25:47:4	w	لَكُمُ		لكم	for you	lakumu
+5	25:47:5	w	ࡲ۬ليْلَ		اليل	the night	al-layla
+5	25:47:6	w	لِبَاساࣰ		لباسا	(as) a covering	libāsan
+5	25:47:7	w	وَالنَّوْمَ		والنوم	and the sleep	wal-nawma
+5	25:47:8	w	سُبَاتاࣰ		سباتا	a rest	subātan
+5	25:47:9	w	وَجَعَلَ		وجعل	and made	wajaʿala
+5	25:47:10	w	ࡰ۬لنَّهَارَ		النهار	the day	l-nahāra
+5	25:47:11	w	نُشُوراࣰ࣌		نشورا	a resurrection	nushūran
+5	25:47:12	e	۝٤٧				
+6	25:48:1	w	وَهُوَ		وهو	And He	wahuwa
+6	25:48:2	w	ࡰ۬لذِےٓ		الذي	(is) the One Who	alladhī
+6	25:48:3	w	أَرْسَلَ		ارسل	sends	arsala
+6	25:48:4	w	ࡰ۬لرِّيَٰحَ		الريح	the winds	l-riyāḥa
+6	25:48:5	w	نُشُراَۢ		نشرا	(as) glad tidings	bush'ran
+6	25:48:6	w	بَيْنَ		بين	before	bayna
+6	25:48:7	w	يَدَےْ		يدي	before	yaday
+6	25:48:8	w	رَحْمَتِهِۦ࣌		رحمتهي	His Mercy	raḥmatihi
+6	25:48:9	w	وَأَنزَلْنَا		وانزلنا	and We send down	wa-anzalnā
+7	25:48:10	w	مِنَ		من	from	mina
+7	25:48:11	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+7	25:48:12	w	مَآءࣰ		ما	water	māan
+7	25:48:13	w	طَهُوراࣰ		طهورا	pure	ṭahūran
+7	25:48:14	e	۝٤٨				
+7	25:49:1	w	لِّنُحْۑِيَ		لنحي	That We may give life	linuḥ'yiya
+7	25:49:2	w	بِهِۦ		بهي	thereby	bihi
+7	25:49:3	w	بَلْدَةࣰ		بلدة	(to) a land	baldatan
+7	25:49:4	w	مَّيْتاࣰ		ميتا	dead	maytan
+7	25:49:5	w	وَنُسْقِيَهُۥ		ونسقيه	and We give drink	wanus'qiyahu
+8	25:49:6	w	مِمَّا		مما	thereof	mimmā
+8	25:49:7	w	خَلَقْنَآ		خلقنا	(to those) We created	khalaqnā
+8	25:49:8	w	أَنْعَٰماࣰ		انعما	cattle	anʿāman
+8	25:49:9	w	وَأَنَاسِيَّ		واناسي	and men	wa-anāsiyya
+8	25:49:10	w	كَثِيراࣰ࣌		كثيرا	many	kathīran
+8	25:49:11	e	۝٤٩				
+8	25:50:1	w	وَلَقَدْ		ولقد	And verily	walaqad
+8	25:50:2	w	صَرَّفْنَٰهُ		صرفنه	We have distributed it	ṣarrafnāhu
+8	25:50:3	w	بَيْنَهُمْ		بينهم	among them	baynahum
+9	25:50:4	w	لِيَذَّكَّرُواْ		ليذكروا	that they may remember	liyadhakkarū
+9	25:50:5	w	فَأَبٜىٰٓ		فابي	but refuse	fa-abā
+9	25:50:6	w	أَكْثَرُ		اكثر	most	aktharu
+9	25:50:7	w	ࡲ۬لنَّاسِ		الناس	(of) the people	l-nāsi
+9	25:50:8	w	إِلَّا		الا	except	illā
+9	25:50:9	w	كُفُوراࣰ࣌		كفورا	disbelief	kufūran
+9	25:50:10	e	۝٥٠				
+9	25:51:1	w	وَلَوْ		ولو	And if	walaw
+9	25:51:2	w	شِئْنَا		شينا	We willed	shi'nā
+10	25:51:3	w	لَبَعَثْنَا		لبعثنا	surely, We (would) have raised	labaʿathnā
+10	25:51:4	w	فِے		في	in	fī
+10	25:51:5	w	كُلِّ		كل	every	kulli
+10	25:51:6	w	قَرْيَةࣲ		قرية	town	qaryatin
+10	25:51:7	w	نَّذِيراࣰ࣌		نذيرا	a warner	nadhīran
+10	25:51:8	e	۝٥١				
+10	25:52:1	w	فَلَا		فلا	So (do) not	falā
+10	25:52:2	w	تُطِعِ		تطع	obey	tuṭiʿi
+10	25:52:3	w	ࡴ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+10	25:52:4	w	وَجَٰهِدْهُم		وجهدهم	and strive (against) them	wajāhid'hum
+11	25:52:5	w	بِهِۦ		بهي	with it	bihi
+11	25:52:6	w	جِهَاداࣰ		جهادا	a striving	jihādan
+11	25:52:7	w	كَبِيراࣰ࣌		كبيرا	great	kabīran
+11	25:52:8	e	۝٥٢				
+11	25:53:1	w	وَهُوَ		وهو	And He	wahuwa
+11	25:53:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+11	25:53:3	w	مَرَجَ		مرج	(has) released	maraja
+11	25:53:4	w	ࡰ۬لْبَحْرَيْنِ		البحرين	the two seas	l-baḥrayni
+11	25:53:5	w	هَٰذَا		هذا	[this] (one)	hādhā
+11	25:53:6	w	عَذْبࣱ		عذب	palatable	ʿadhbun
+12	25:53:7	w	فُرَاتࣱ		فرات	and sweet	furātun
+12	25:53:8	w	وَهَٰذَا		وهذا	and [this] (one)	wahādhā
+12	25:53:9	w	مِلْحٌ		ملح	salty	mil'ḥun
+12	25:53:10	w	ࡳجَاجࣱ࣌		اجاج	(and) bitter	ujājun
+12	25:53:11	w	وَجَعَلَ		وجعل	and He has made	wajaʿala
+12	25:53:12	w	بَيْنَهُمَا		بينهما	between them	baynahumā
+12	25:53:13	w	بَرْزَخاࣰ		برزخا	a barrier	barzakhan
+12	25:53:14	w	وَحِجْراࣰ		وحجرا	and a partition	waḥij'ran
+13	25:53:15	w	مَّحْجُوراࣰ࣌		محجورا	forbidden	maḥjūran
+13	25:53:16	e	۝٥٣				
+13	25:54:1	w	وَهُوَ		وهو	And He	wahuwa
+13	25:54:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+13	25:54:3	w	خَلَقَ		خلق	has created	khalaqa
+13	25:54:4	w	مِنَ		من	from	mina
+13	25:54:5	w	ࡰ۬لْمَآءِ		الما	the water	l-māi
+13	25:54:6	w	بَشَراࣰ		بشرا	human being	basharan
+13	25:54:7	w	فَجَعَلَهُۥ		فجعله	and has made (for) him	fajaʿalahu
+13	25:54:8	w	نَسَباࣰ		نسبا	blood relationship	nasaban
+14	25:54:9	w	وَصِهْراࣰ࣌		وصهرا	and marriage relationship	waṣih'ran
+14	25:54:10	w	وَكَانَ		وكان	And is	wakāna
+14	25:54:11	w	رَبُّكَ		ربك	your Lord	rabbuka
+14	25:54:12	w	قَدِيراࣰ࣌		قديرا	All-Powerful	qadīran
+14	25:54:13	e	۝٥٤				
+14	25:55:1	w	وَيَعْبُدُونَ		ويعبدون	But they worship	wayaʿbudūna
+14	25:55:2	w	مِن		من	besides Allah	min
+14	25:55:3	w	دُونِ		دون	besides Allah	dūni
+14	25:55:4	w	ࡴ۬للَّهِ		الله	besides Allah	l-lahi
+15	25:55:5	w	مَا		ما	what	mā
+15	25:55:6	w	لَا		لا	not profits them	lā
+15	25:55:7	w	يَنفَعُهُمْ		ينفعهم	not profits them	yanfaʿuhum
+15	25:55:8	w	وَلَا		ولا	and not	walā
+15	25:55:9	w	يَضُرُّهُمْ࣌		يضرهم	harms them	yaḍurruhum
+15	25:55:10	w	وَكَانَ		وكان	and is	wakāna
+15	25:55:11	w	ࡰ۬لْكَافِرُ		الكافر	the disbeliever	l-kāfiru
+15	25:55:12	w	عَلَىٰ		علي	against	ʿalā
+15	25:55:13	w	رَبِّهِۦ		ربهي	his Lord	rabbihi
+15	25:55:14	w	ظَهِيراࣰ࣌		ظهيرا	a helper	ẓahīran
+15	25:55:15	e	۝٥٥				

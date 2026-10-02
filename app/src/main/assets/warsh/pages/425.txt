@@ -1,0 +1,144 @@
+1	33:51:1	w	تُرْجِے		ترجي	You may defer	tur'jī
+1	33:51:2	w	مَن		من	whom	man
+1	33:51:3	w	تَشَآءُ		تشا	you will	tashāu
+1	33:51:4	w	مِنْهُنَّ		منهن	of them	min'hunna
+1	33:51:5	w	وَتُـْٔوِےٓ		وتوي	or you may take	watu'wī
+1	33:51:6	w	إِلَيْكَ		اليك	to yourself	ilayka
+1	33:51:7	w	مَن		من	whom	man
+1	33:51:8	w	تَشَآءُ࣌		تشا	you will	tashāu
+1	33:51:9	w	وَمَنِ		ومن	And whoever	wamani
+1	33:51:10	w	ࡴٜبْتَغَيْتَ		ابتغيت	you desire	ib'taghayta
+2	33:51:11	w	مِمَّنْ		ممن	of those whom	mimman
+2	33:51:12	w	عَزَلْتَ		عزلت	you (had) set aside	ʿazalta
+2	33:51:13	w	فَلَا		فلا	then (there is) no	falā
+2	33:51:14	w	جُنَاحَ		جناح	blame	junāḥa
+2	33:51:15	w	عَلَيْكَ࣌		عليك	upon you	ʿalayka
+2	33:51:16	w	ذَٰلِكَ		ذلك	That	dhālika
+2	33:51:17	w	أَدْنٜىٰٓ		ادني	(is) more suitable	adnā
+2	33:51:18	w	أَن		ان	that	an
+2	33:51:19	w	تَقَرَّ		تقر	may be cooled	taqarra
+2	33:51:20	w	أَعْيُنُهُنَّ		اعينهن	their eyes	aʿyunuhunna
+3	33:51:21	w	وَلَا		ولا	and not	walā
+3	33:51:22	w	يَحْزَنَّ		يحزن	they grieve	yaḥzanna
+3	33:51:23	w	وَيَرْضَيْنَ		ويرضين	and they may be pleased	wayarḍayna
+3	33:51:24	w	بِمَآ		بما	with what	bimā
+3	33:51:25	w	ءَاتَيْتَهُنَّ		اتيتهن	you have given them	ātaytahunna
+3	33:51:26	w	كُلُّهُنَّ࣌		كلهن	all of them	kulluhunna
+3	33:51:27	w	وَاللَّهُ		والله	And Allah	wal-lahu
+3	33:51:28	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+4	33:51:29	w	مَا		ما	what	mā
+4	33:51:30	w	فِے		في	(is) in	fī
+4	33:51:31	w	قُلُوبِكُمْ࣌		قلوبكم	your hearts	qulūbikum
+4	33:51:32	w	وَكَانَ		وكان	And Allah is	wakāna
+4	33:51:33	w	ࡰ۬للَّهُ		الله	And Allah is	l-lahu
+4	33:51:34	w	عَلِيماً		عليما	All-Knower	ʿalīman
+4	33:51:35	w	حَلِيماࣰ࣌		حليما	Most Forbearing	ḥalīman
+4	33:51:36	e	۝٥١				
+4	33:52:1	w	لَّا		لا	(It is) not	lā
+4	33:52:2	w	يَحِلُّ		يحل	lawful	yaḥillu
+4	33:52:3	w	لَكَ		لك	for you	laka
+5	33:52:4	w	ࡰ۬لنِّسَآءُ		النسا	(to marry) women	l-nisāu
+5	33:52:5	w	مِنۢ		من	after (this)	min
+5	33:52:6	w	بَعْدُ		بعد	after (this)	baʿdu
+5	33:52:7	w	وَلَآ		ولا	and not	walā
+5	33:52:8	w	أَن		ان	to	an
+5	33:52:9	w	تَبَدَّلَ		تبدل	exchange	tabaddala
+5	33:52:10	w	بِهِنَّ		بهن	them	bihinna
+5	33:52:11	w	مِنَ		من	for	min
+5	33:52:12	w	ࡰزْوَٰجࣲ		ازوج	(other) wives	azwājin
+5	33:52:13	w	وَلَوَ		ولو	even if	walaw
+5	33:52:14	w	ࡰعْجَبَكَ		اعجبك	pleases you	aʿjabaka
+6	33:52:15	w	حُسْنُهُنَّ		حسنهن	their beauty	ḥus'nuhunna
+6	33:52:16	w	إِلَّا		الا	except	illā
+6	33:52:17	w	مَا		ما	whom	mā
+6	33:52:18	w	مَلَكَتْ		ملكت	you rightfully possess	malakat
+6	33:52:19	w	يَمِينُكَ࣌		يمينك	you rightfully possess	yamīnuka
+6	33:52:20	w	وَكَانَ		وكان	And Allah is	wakāna
+6	33:52:21	w	ࡰ۬للَّهُ		الله	And Allah is	l-lahu
+6	33:52:22	w	عَلَىٰ		علي	over	ʿalā
+6	33:52:23	w	كُلِّ		كل	all	kulli
+7	33:52:24	w	شَےْءࣲ		شي	things	shayin
+7	33:52:25	w	رَّقِيباࣰ࣌		رقيبا	an Observer	raqīban
+7	33:52:26	e	۝٥٢				
+7	33:53:1	w	۞ يَٰٓأَيُّهَا		يايها	O you who believe	yāayyuhā
+7	33:53:2	w	ࡰ۬لذِينَ		الذين	O you who believe	alladhīna
+7	33:53:3	w	ءَامَنُواْ		امنوا	O you who believe	āmanū
+7	33:53:4	w	لَا		لا	(Do) not	lā
+7	33:53:5	w	تَدْخُلُواْ		تدخلوا	enter	tadkhulū
+7	33:53:6	w	بُيُوتَ		بيوت	(the) houses	buyūta
+7	33:53:7	w	ࡰ۬لنَّبِےٓءِ		النبي	(of) the Prophet	l-nabiyi
+8	33:53:8	w	الَّآ		الا	except	illā
+8	33:53:9	w	أَنْ		ان	when	an
+8	33:53:10	w	يُّوذَنَ		يوذن	permission is given	yu'dhana
+8	33:53:11	w	لَكُمُۥٓ		لكم	to you	lakum
+8	33:53:12	w	إِلَىٰ		الي	for	ilā
+8	33:53:13	w	طَعَامٍ		طعام	a meal	ṭaʿāmin
+8	33:53:14	w	غَيْرَ		غير	without	ghayra
+8	33:53:15	w	نَٰظِرِينَ		نظرين	awaiting	nāẓirīna
+8	33:53:16	w	إِنٜيٰهُ࣌		انيه	its preparation	ināhu
+8	33:53:17	w	وَلَٰكِنِ		ولكن	But	walākin
+9	33:53:18	w	ࡴذَا		اذا	when	idhā
+9	33:53:19	w	دُعِيتُمْ		دعيتم	you are invited	duʿītum
+9	33:53:20	w	فَادْخُلُواْ		فادخلوا	then enter	fa-ud'khulū
+9	33:53:21	w	فَإِذَا		فاذا	and when	fa-idhā
+9	33:53:22	w	طَعِمْتُمْ		طعمتم	you have eaten	ṭaʿim'tum
+9	33:53:23	w	فَانتَشِرُواْ		فانتشروا	then disperse	fa-intashirū
+9	33:53:24	w	وَلَا		ولا	and not	walā
+9	33:53:25	w	مُسْتَٰنِسِينَ		مستنسين	seeking to remain	mus'tanisīna
+10	33:53:26	w	لِحَدِيثٍ࣌		لحديث	for a conversation	liḥadīthin
+10	33:53:27	w	ࡴنَّ		ان	Indeed	inna
+10	33:53:28	w	ذَٰلِكُمْ		ذلكم	that	dhālikum
+10	33:53:29	w	كَانَ		كان	was	kāna
+10	33:53:30	w	يُوذِے		يوذي	troubling	yu'dhī
+10	33:53:31	w	ࡴ۬لنَّبِےٓءَ		النبي	the Prophet	l-nabiya
+10	33:53:32	w	فَيَسْتَحْيِۦ		فيستحيي	and he is shy	fayastaḥyī
+10	33:53:33	w	مِنكُمْ࣌		منكم	of (dismissing) you	minkum
+11	33:53:34	w	وَاللَّهُ		والله	But Allah	wal-lahu
+11	33:53:35	w	لَا		لا	is not shy	lā
+11	33:53:36	w	يَسْتَحْيِۦ		يستحيي	is not shy	yastaḥyī
+11	33:53:37	w	مِنَ		من	of	mina
+11	33:53:38	w	ࡰ۬لْحَقِّ࣌		الحق	the truth	l-ḥaqi
+11	33:53:39	w	وَإِذَا		واذا	And when	wa-idhā
+11	33:53:40	w	سَأَلْتُمُوهُنَّ		سالتموهن	you ask them	sa-altumūhunna
+11	33:53:41	w	مَتَٰعاࣰ		متعا	(for) anything	matāʿan
+11	33:53:42	w	فَسْـَٔلُوهُنَّ		فسلوهن	then ask them	fasalūhunna
+12	33:53:43	w	مِنْ		من	from	min
+12	33:53:44	w	وَّرَآءِ		ورا	behind	warāi
+12	33:53:45	w	حِجَابࣲ࣌		حجاب	a screen	ḥijābin
+12	33:53:46	w	ذَٰلِكُمُۥٓ		ذلكم	That	dhālikum
+12	33:53:47	w	أَطْهَرُ		اطهر	(is) purer	aṭharu
+12	33:53:48	w	لِقُلُوبِكُمْ		لقلوبكم	for your hearts	liqulūbikum
+12	33:53:49	w	وَقُلُوبِهِنَّ࣌		وقلوبهن	and their hearts	waqulūbihinna
+12	33:53:50	w	وَمَا		وما	And not	wamā
+13	33:53:51	w	كَانَ		كان	is	kāna
+13	33:53:52	w	لَكُمُۥٓ		لكم	for you	lakum
+13	33:53:53	w	أَن		ان	that	an
+13	33:53:54	w	تُوذُواْ		توذوا	you trouble	tu'dhū
+13	33:53:55	w	رَسُولَ		رسول	(the) Messenger	rasūla
+13	33:53:56	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+13	33:53:57	w	وَلَآ		ولا	and not	walā
+13	33:53:58	w	أَن		ان	that	an
+13	33:53:59	w	تَنكِحُوٓاْ		تنكحوا	you should marry	tankiḥū
+13	33:53:60	w	أَزْوَٰجَهُۥ		ازوجه	his wives	azwājahu
+14	33:53:61	w	مِنۢ		من	after him	min
+14	33:53:62	w	بَعْدِهِۦٓ		بعدهي	after him	baʿdihi
+14	33:53:63	w	أَبَداً࣌		ابدا	ever	abadan
+14	33:53:64	w	ࡴنَّ		ان	Indeed	inna
+14	33:53:65	w	ذَٰلِكُمْ		ذلكم	that	dhālikum
+14	33:53:66	w	كَانَ		كان	is	kāna
+14	33:53:67	w	عِندَ		عند	near	ʿinda
+14	33:53:68	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+14	33:53:69	w	عَظِيماً࣌		عظيما	an enormity	ʿaẓīman
+14	33:53:70	e	۝٥٣				
+15	33:54:1	w	ࡴن		ان	Whether	in
+15	33:54:2	w	تُبْدُواْ		تبدوا	you reveal	tub'dū
+15	33:54:3	w	شَيْـٔاً		شيا	a thing	shayan
+15	33:54:4	w	ࡰوْ		او	or	aw
+15	33:54:5	w	تُخْفُوهُ		تخفوه	conceal it	tukh'fūhu
+15	33:54:6	w	فَإِنَّ		فان	indeed	fa-inna
+15	33:54:7	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	33:54:8	w	كَانَ		كان	is	kāna
+15	33:54:9	w	بِكُلِّ		بكل	of all	bikulli
+15	33:54:10	w	شَےْءٍ		شي	things	shayin
+15	33:54:11	w	عَلِيماࣰ࣌		عليما	All-Knower	ʿalīman
+15	33:54:12	e	۝٥٤				

@@ -1,0 +1,125 @@
+1	82:0:0	t					
+2	82:0:0	b					
+3	82:1:1	w	إِذَا		اذا	When	idhā
+3	82:1:2	w	ࡰ۬لسَّمَآءُ		السما	the sky	l-samāu
+3	82:1:3	w	ࡲٜنفَطَرَتْ		انفطرت	(is) cleft asunder	infaṭarat
+3	82:1:4	e	۝١				
+3	82:2:1	w	وَإِذَا		واذا	And when	wa-idhā
+3	82:2:2	w	ࡰ۬لْكَوَاكِبُ		الكواكب	the stars	l-kawākibu
+3	82:2:3	w	ࡲٜنتَثَرَتْ		انتثرت	scatter	intatharat
+3	82:2:4	e	۝٢				
+3	82:3:1	w	وَإِذَا		واذا	And when	wa-idhā
+3	82:3:2	w	ࡰ۬لْبِحَارُ		البحار	the seas	l-biḥāru
+4	82:3:3	w	فُجِّرَتْ		فجرت	are made to gush forth	fujjirat
+4	82:3:4	e	۝٣				
+4	82:4:1	w	وَإِذَا		واذا	And when	wa-idhā
+4	82:4:2	w	ࡰ۬لْقُبُورُ		القبور	the graves	l-qubūru
+4	82:4:3	w	بُعْثِرَتْ		بعثرت	are overturned	buʿ'thirat
+4	82:4:4	e	۝٤				
+4	82:5:1	w	عَلِمَتْ		علمت	Will know	ʿalimat
+4	82:5:2	w	نَفْسࣱ		نفس	a soul	nafsun
+4	82:5:3	w	مَّا		ما	what	mā
+4	82:5:4	w	قَدَّمَتْ		قدمت	it has sent forth	qaddamat
+4	82:5:5	w	وَأَخَّرَتْ࣌		واخرت	and left behind	wa-akharat
+4	82:5:6	e	۝٥				
+5	82:6:1	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+5	82:6:2	w	ࡰ۬لِانسَٰنُ		الانسن	man	l-insānu
+5	82:6:3	w	مَا		ما	What	mā
+5	82:6:4	w	غَرَّكَ		غرك	has deceived you	gharraka
+5	82:6:5	w	بِرَبِّكَ		بربك	concerning your Lord	birabbika
+5	82:6:6	w	ࡰ۬لْكَرِيمِ		الكريم	the Most Noble	l-karīmi
+5	82:6:7	e	۝٦				
+5	82:7:1	w	ࡴ۬لذِے		الذي	Who	alladhī
+5	82:7:2	w	خَلَقَكَ		خلقك	created you	khalaqaka
+6	82:7:3	w	فَسَوّٜيٰكَ		فسويك	then fashioned you	fasawwāka
+6	82:7:4	w	فَعَدَّلَكَ		فعدلك	then balanced you	faʿadalaka
+6	82:7:5	e	۝٧				
+6	82:8:1	w	فِےٓ		في	In	fī
+6	82:8:2	w	أَيِّ		اي	whatever	ayyi
+6	82:8:3	w	صُورَةࣲ		صورة	form	ṣūratin
+6	82:8:4	w	مَّا		ما	what	mā
+6	82:8:5	w	شَآءَ		شا	He willed	shāa
+6	82:8:6	w	رَكَّبَكَ࣌		ركبك	He assembled you	rakkabaka
+6	82:8:7	e	۝٨				
+7	82:9:1	w	كَلَّا		كلا	Nay	kallā
+7	82:9:2	w	بَلْ		بل	But	bal
+7	82:9:3	w	تُكَذِّبُونَ		تكذبون	you deny	tukadhibūna
+7	82:9:4	w	بِالدِّينِ		بالدين	the Judgment	bil-dīni
+7	82:9:5	e	۝٩				
+7	82:10:1	w	وَإِنَّ		وان	And indeed	wa-inna
+7	82:10:2	w	عَلَيْكُمْ		عليكم	over you	ʿalaykum
+7	82:10:3	w	لَحَٰفِظِينَ		لحفظين	(are) surely guardians	laḥāfiẓīna
+7	82:10:4	e	۝١٠				
+8	82:11:1	w	كِرَاماࣰ		كراما	Noble	kirāman
+8	82:11:2	w	كَٰتِبِينَ		كتبين	recording	kātibīna
+8	82:11:3	e	۝١١				
+8	82:12:1	w	يَعْلَمُونَ		يعلمون	They know	yaʿlamūna
+8	82:12:2	w	مَا		ما	whatever	mā
+8	82:12:3	w	تَفْعَلُونَ࣌		تفعلون	you do	tafʿalūna
+8	82:12:4	e	۝١٢				
+8	82:13:1	w	إِنَّ		ان	Indeed	inna
+8	82:13:2	w	ࡰ۬لَابْرَارَ		الابرار	the righteous	l-abrāra
+8	82:13:3	w	لَفِے		لفي	(will be) surely in	lafī
+8	82:13:4	w	نَعِيمࣲ࣌		نعيم	bliss	naʿīmin
+8	82:13:5	e	۝١٣				
+9	82:14:1	w	وَإِنَّ		وان	And indeed	wa-inna
+9	82:14:2	w	ࡰ۬لْفُجَّارَ		الفجار	the wicked	l-fujāra
+9	82:14:3	w	لَفِے		لفي	(will be) surely in	lafī
+9	82:14:4	w	جَحِيمࣲ		جحيم	Hellfire	jaḥīmin
+9	82:14:5	e	۝١٤				
+9	82:15:1	w	يَصْلَوْنَهَا		يصلونها	They will burn (in) it	yaṣlawnahā
+9	82:15:2	w	يَوْمَ		يوم	(on the) Day	yawma
+9	82:15:3	w	ࡰ۬لدِّينِ		الدين	(of) the Judgment	l-dīni
+9	82:15:4	e	۝١٥				
+9	82:16:1	w	وَمَا		وما	And not	wamā
+9	82:16:2	w	هُمْ		هم	they	hum
+9	82:16:3	w	عَنْهَا		عنها	from it	ʿanhā
+10	82:16:4	w	بِغَآئِبِينَ࣌		بغايبين	(will be) absent	bighāibīna
+10	82:16:5	e	۝١٦				
+10	82:17:1	w	وَمَآ		وما	And what	wamā
+10	82:17:2	w	أَدْرٜيٰكَ		ادريك	can make you know	adrāka
+10	82:17:3	w	مَا		ما	what	mā
+10	82:17:4	w	يَوْمُ		يوم	(is the) Day	yawmu
+10	82:17:5	w	ࡲ۬لدِّينِ		الدين	(of) the Judgment	l-dīni
+10	82:17:6	e	۝١٧				
+10	82:18:1	w	ثُمَّ		ثم	Then	thumma
+10	82:18:2	w	مَآ		ما	what	mā
+10	82:18:3	w	أَدْرٜيٰكَ		ادريك	can make you know	adrāka
+10	82:18:4	w	مَا		ما	what	mā
+10	82:18:5	w	يَوْمُ		يوم	(is the) Day	yawmu
+11	82:18:6	w	ࡲ۬لدِّينِ࣌		الدين	(of) the Judgment	l-dīni
+11	82:18:7	e	۝١٨				
+11	82:19:1	w	يَوْمَ		يوم	(The) Day	yawma
+11	82:19:2	w	لَا		لا	not	lā
+11	82:19:3	w	تَمْلِكُ		تملك	will have power	tamliku
+11	82:19:4	w	نَفْسࣱ		نفس	a soul	nafsun
+11	82:19:5	w	لِّنَفْسࣲ		لنفس	for a soul	linafsin
+11	82:19:6	w	شَيْـٔاࣰ࣌		شيا	anything	shayan
+11	82:19:7	w	وَالَامْرُ		والامر	and the Command	wal-amru
+11	82:19:8	w	يَوْمَئِذࣲ		يوميذ	that Day	yawma-idhin
+11	82:19:9	w	لِّلهِ࣌		لله	(will be) with Allah	lillahi
+11	82:19:10	e	۝١٩				
+12	83:0:0	t					
+13	83:0:0	b					
+14	83:1:1	w	وَيْلࣱ		ويل	Woe	waylun
+14	83:1:2	w	لِّلْمُطَفِّفِينَ		للمطففين	to those who give less	lil'muṭaffifīna
+14	83:1:3	e	۝١				
+14	83:2:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+14	83:2:2	w	إِذَا		اذا	when	idhā
+14	83:2:3	w	ࡰٜكْتَالُواْ		اكتالوا	they take a measure	ik'tālū
+14	83:2:4	w	عَلَى		علي	from	ʿalā
+14	83:2:5	w	ࡰ۬لنَّاسِ		الناس	the people	l-nāsi
+14	83:2:6	w	يَسْتَوْفُونَ		يستوفون	they take in full	yastawfūna
+14	83:2:7	e	۝٢				
+14	83:3:1	w	وَإِذَا		واذا	But when	wa-idhā
+15	83:3:2	w	كَالُوهُمُۥٓ		كالوهم	they give by measure (to) them	kālūhum
+15	83:3:3	w	أَو		او	or	aw
+15	83:3:4	w	وَّزَنُوهُمْ		وزنوهم	they weigh (for) them	wazanūhum
+15	83:3:5	w	يُخْسِرُونَ࣌		يخسرون	they give less	yukh'sirūna
+15	83:3:6	e	۝٣				
+15	83:4:1	w	أَلَا		الا	Do not	alā
+15	83:4:2	w	يَظُنُّ		يظن	think	yaẓunnu
+15	83:4:3	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+15	83:4:4	w	أَنَّهُم		انهم	that they	annahum
+15	83:4:5	w	مَّبْعُوثُونَ		مبعوثون	(will be) resurrected	mabʿūthūna
+15	83:4:6	e	۝٤				

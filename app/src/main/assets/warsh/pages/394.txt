@@ -1,0 +1,140 @@
+1	28:71:1	w	قُلَ		قل	Say	qul
+1	28:71:2	w	ࡰرَٰٓيْتُمُۥٓ		اريتم	Have you seen	ara-aytum
+1	28:71:3	w	إِن		ان	if	in
+1	28:71:4	w	جَعَلَ		جعل	Allah made	jaʿala
+1	28:71:5	w	ࡰ۬للَّهُ		الله	Allah made	l-lahu
+1	28:71:6	w	عَلَيْكُمُ		عليكم	for you	ʿalaykumu
+1	28:71:7	w	ࡲ۬ليْلَ		اليل	the night	al-layla
+1	28:71:8	w	سَرْمَداً		سرمدا	continuous	sarmadan
+1	28:71:9	w	ࡴلَىٰ		الي	till	ilā
+1	28:71:10	w	يَوْمِ		يوم	(the) Day	yawmi
+2	28:71:11	w	ࡴ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+2	28:71:12	w	مَنِ		من	who	man
+2	28:71:13	w	ࡴلَٰهٌ		اله	(is the) god	ilāhun
+2	28:71:14	w	غَيْرُ		غير	besides	ghayru
+2	28:71:15	w	ࡲ۬للَّهِ		الله	Allah	l-lahi
+2	28:71:16	w	يَاتِيكُم		ياتيكم	who could bring you	yatīkum
+2	28:71:17	w	بِضِيَآءٍ࣌		بضيا	light	biḍiyāin
+2	28:71:18	w	ࡰفَلَا		افلا	Then will not	afalā
+2	28:71:19	w	تَسْمَعُونَ࣌		تسمعون	you hear	tasmaʿūna
+2	28:71:20	e	۝٧١				
+3	28:72:1	w	قُلَ		قل	Say	qul
+3	28:72:2	w	ࡰرَٰٓيْتُمُۥٓ		اريتم	Have you seen	ara-aytum
+3	28:72:3	w	إِن		ان	if	in
+3	28:72:4	w	جَعَلَ		جعل	Allah made	jaʿala
+3	28:72:5	w	ࡰ۬للَّهُ		الله	Allah made	l-lahu
+3	28:72:6	w	عَلَيْكُمُ		عليكم	for you	ʿalaykumu
+3	28:72:7	w	ࡲ۬لنَّهَارَ		النهار	the day	l-nahāra
+3	28:72:8	w	سَرْمَداً		سرمدا	continuous	sarmadan
+3	28:72:9	w	ࡴلَىٰ		الي	till	ilā
+4	28:72:10	w	يَوْمِ		يوم	(the) Day	yawmi
+4	28:72:11	w	ࡴ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+4	28:72:12	w	مَنِ		من	who	man
+4	28:72:13	w	ࡴلَٰهٌ		اله	(is the) god	ilāhun
+4	28:72:14	w	غَيْرُ		غير	besides	ghayru
+4	28:72:15	w	ࡲ۬للَّهِ		الله	Allah	l-lahi
+4	28:72:16	w	يَاتِيكُم		ياتيكم	who could bring you	yatīkum
+4	28:72:17	w	بِلَيْلࣲ		بليل	night	bilaylin
+4	28:72:18	w	تَسْكُنُونَ		تسكنون	(for) you (to) rest	taskunūna
+5	28:72:19	w	فِيهِ࣌		فيه	in it	fīhi
+5	28:72:20	w	أَفَلَا		افلا	Then will not	afalā
+5	28:72:21	w	تُبْصِرُونَ࣌		تبصرون	you see	tub'ṣirūna
+5	28:72:22	e	۝٧٢				
+5	28:73:1	w	وَمِن		ومن	And from	wamin
+5	28:73:2	w	رَّحْمَتِهِۦ		رحمتهي	His Mercy	raḥmatihi
+5	28:73:3	w	جَعَلَ		جعل	He made	jaʿala
+5	28:73:4	w	لَكُمُ		لكم	for you	lakumu
+5	28:73:5	w	ࡲ۬ليْلَ		اليل	the night	al-layla
+6	28:73:6	w	وَالنَّهَارَ		والنهار	and the day	wal-nahāra
+6	28:73:7	w	لِتَسْكُنُواْ		لتسكنوا	that you may rest	litaskunū
+6	28:73:8	w	فِيهِ		فيه	therein	fīhi
+6	28:73:9	w	وَلِتَبْتَغُواْ		ولتبتغوا	and that you may seek	walitabtaghū
+6	28:73:10	w	مِن		من	from	min
+6	28:73:11	w	فَضْلِهِۦ		فضلهي	His Bounty	faḍlihi
+6	28:73:12	w	وَلَعَلَّكُمْ		ولعلكم	and so that you may	walaʿallakum
+7	28:73:13	w	تَشْكُرُونَ࣌		تشكرون	be grateful	tashkurūna
+7	28:73:14	e	۝٧٣				
+7	28:74:1	w	وَيَوْمَ		ويوم	And (the) Day	wayawma
+7	28:74:2	w	يُنَادِيهِمْ		يناديهم	He will call them	yunādīhim
+7	28:74:3	w	فَيَقُولُ		فيقول	and say	fayaqūlu
+7	28:74:4	w	أَيْنَ		اين	Where	ayna
+7	28:74:5	w	شُرَكَآءِيَ		شركاي	(are) My partners	shurakāiya
+7	28:74:6	w	ࡰ۬لذِينَ		الذين	whom	alladhīna
+8	28:74:7	w	كُنتُمْ		كنتم	you used (to)	kuntum
+8	28:74:8	w	تَزْعُمُونَ࣌		تزعمون	claim	tazʿumūna
+8	28:74:9	e	۝٧٤				
+8	28:75:1	w	وَنَزَعْنَا		ونزعنا	And We will draw forth	wanazaʿnā
+8	28:75:2	w	مِن		من	from	min
+8	28:75:3	w	كُلِّ		كل	every	kulli
+8	28:75:4	w	أُمَّةࣲ		امة	nation	ummatin
+8	28:75:5	w	شَهِيداࣰ		شهيدا	a witness	shahīdan
+8	28:75:6	w	فَقُلْنَا		فقلنا	and We will say	faqul'nā
+9	28:75:7	w	هَاتُواْ		هاتوا	Bring	hātū
+9	28:75:8	w	بُرْهَٰنَكُمْ		برهنكم	your proof	bur'hānakum
+9	28:75:9	w	فَعَلِمُوٓاْ		فعلموا	Then they will know	faʿalimū
+9	28:75:10	w	أَنَّ		ان	that	anna
+9	28:75:11	w	ࡰ۬لْحَقَّ		الحق	the truth	l-ḥaqa
+9	28:75:12	w	لِلهِ		لله	(is) for Allah	lillahi
+9	28:75:13	w	وَضَلَّ		وضل	and (will be) lost	waḍalla
+9	28:75:14	w	عَنْهُم		عنهم	from them	ʿanhum
+10	28:75:15	w	مَّا		ما	what	mā
+10	28:75:16	w	كَانُواْ		كانوا	they used (to)	kānū
+10	28:75:17	w	يَفْتَرُونَ࣌		يفترون	invent	yaftarūna
+10	28:75:18	e	۝٧٥				
+10	28:76:1	w	۞ إِنَّ		ان	Indeed	inna
+10	28:76:2	w	قَارُونَ		قارون	Qarun	qārūna
+10	28:76:3	w	كَانَ		كان	was	kāna
+10	28:76:4	w	مِن		من	from	min
+10	28:76:5	w	قَوْمِ		قوم	(the) people	qawmi
+10	28:76:6	w	مُوسٜىٰ		موسي	(of) Musa	mūsā
+11	28:76:7	w	فَبَغٜىٰ		فبغي	but he oppressed	fabaghā
+11	28:76:8	w	عَلَيْهِمْ࣌		عليهم	[on] them	ʿalayhim
+11	28:76:9	w	وَءَاتَيْنَٰهُ		واتينه	And We gave him	waātaynāhu
+11	28:76:10	w	مِنَ		من	of	mina
+11	28:76:11	w	ࡰ۬لْكُنُوزِ		الكنوز	the treasures	l-kunūzi
+11	28:76:12	w	مَآ		ما	which	mā
+11	28:76:13	w	إِنَّ		ان	indeed	inna
+11	28:76:14	w	مَفَاتِحَهُۥ		مفاتحه	(the) keys of it	mafātiḥahu
+11	28:76:15	w	لَتَنُوٓأُ		لتنوا	would burden	latanūu
+12	28:76:16	w	بِالْعُصْبَةِ		بالعصبة	a company (of men)	bil-ʿuṣ'bati
+12	28:76:17	w	أُوْلِے		اولي	possessors of great strength	ulī
+12	28:76:18	w	ࡴ۬لْقُوَّةِ࣌		القوة	possessors of great strength	l-quwati
+12	28:76:19	w	إِذْ		اذ	When	idh
+12	28:76:20	w	قَالَ		قال	said	qāla
+12	28:76:21	w	لَهُۥ		له	to him	lahu
+12	28:76:22	w	قَوْمُهُۥ		قومه	his people	qawmuhu
+12	28:76:23	w	لَا		لا	(Do) not	lā
+12	28:76:24	w	تَفْرَحِ		تفرح	exult	tafraḥ
+12	28:76:25	w	ࡴنَّ		ان	Indeed	inna
+12	28:76:26	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+13	28:76:27	w	لَا		لا	(does) not	lā
+13	28:76:28	w	يُحِبُّ		يحب	love	yuḥibbu
+13	28:76:29	w	ࡲ۬لْفَرِحِينَ࣌		الفرحين	the exultant	l-fariḥīna
+13	28:76:30	e	۝٧٦				
+13	28:77:1	w	وَابْتَغِ		وابتغ	But seek	wa-ib'taghi
+13	28:77:2	w	فِيمَآ		فيما	through what	fīmā
+13	28:77:3	w	ءَاتٜيٰكَ		اتيك	Allah has given you	ātāka
+13	28:77:4	w	ࡰ۬للَّهُ		الله	Allah has given you	l-lahu
+13	28:77:5	w	ࡲ۬لدَّارَ		الدار	the home	l-dāra
+13	28:77:6	w	ࡰ۬لَاخِرَةَ࣌		الاخرة	(of) the Hereafter	l-ākhirata
+14	28:77:7	w	وَلَا		ولا	and (do) not	walā
+14	28:77:8	w	تَنسَ		تنس	forget	tansa
+14	28:77:9	w	نَصِيبَكَ		نصيبك	your share	naṣībaka
+14	28:77:10	w	مِنَ		من	of	mina
+14	28:77:11	w	ࡰ۬لدُّنْيٜا࣌		الدنيا	the world	l-dun'yā
+14	28:77:12	w	وَأَحْسِن		واحسن	And do good	wa-aḥsin
+14	28:77:13	w	كَمَآ		كما	as	kamā
+14	28:77:14	w	أَحْسَنَ		احسن	Allah has been good	aḥsana
+14	28:77:15	w	ࡰ۬للَّهُ		الله	Allah has been good	l-lahu
+14	28:77:16	w	إِلَيْكَ࣌		اليك	to you	ilayka
+15	28:77:17	w	وَلَا		ولا	And (do) not	walā
+15	28:77:18	w	تَبْغِ		تبغ	seek	tabghi
+15	28:77:19	w	ࡴ۬لْفَسَادَ		الفساد	corruption	l-fasāda
+15	28:77:20	w	فِے		في	in	fī
+15	28:77:21	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+15	28:77:22	w	إِنَّ		ان	Indeed	inna
+15	28:77:23	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	28:77:24	w	لَا		لا	(does) not	lā
+15	28:77:25	w	يُحِبُّ		يحب	love	yuḥibbu
+15	28:77:26	w	ࡲ۬لْمُفْسِدِينَ࣌		المفسدين	the corrupters	l-muf'sidīna
+15	28:77:27	e	۝٧٧				

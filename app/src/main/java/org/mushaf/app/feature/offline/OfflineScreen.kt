@@ -32,6 +32,7 @@ import org.mushaf.app.data.offline.Offline
 import org.mushaf.app.data.offline.Pack
 import org.mushaf.app.data.quran.PageFonts
 import org.mushaf.app.data.quran.Script
+import org.mushaf.app.core.quran.Riwayah
 import org.mushaf.app.data.quran.Tafsir
 import org.mushaf.app.data.settings.SettingsStore
 import org.mushaf.app.navigation.LocalReadableInset
@@ -70,15 +71,16 @@ fun OfflineScreen(onBack: () -> Unit) {
             Spacer(Modifier.height(padding.calculateTopPadding()))
             Section("Everything in use") {
                 Text(
-                    "The mushaf's pages, ${Recitations.reciter(settings.reciter).name}'s recitation and the tafsir you read, kept on the phone.",
+                    "The mushaf's pages, ${Recitations.reciter(store.reciter(settings.riwayah)).name}'s recitation and the tafsir you read, kept on the phone.",
                     style = MaterialTheme.typography.bodyMedium,
                     modifier = Modifier.padding(16.dp)
                 )
                 Row(Modifier.padding(start = 16.dp, end = 16.dp, bottom = 16.dp)) {
                     BoldButton(onClick = {
                         haptics.done()
-                        if (settings.script != Script.HAFS) offline.start(Pack.Pages(settings.script))
-                        offline.start(Pack.Recitation(settings.reciter))
+                        // Warsh's pages are drawn from the font the app carries: nothing to fetch.
+                        if (settings.script != Script.HAFS && settings.riwayah == Riwayah.HAFS) offline.start(Pack.Pages(settings.script))
+                        offline.start(Pack.Recitation(store.reciter(settings.riwayah)))
                         offline.start(Pack.TafsirBook(settings.tafsir))
                     }, filled = true) { Text("Keep all offline") }
                 }
@@ -94,7 +96,7 @@ fun OfflineScreen(onBack: () -> Unit) {
                 if (Script.TAJWEED.usable) PackRow(Pack.Pages(Script.TAJWEED), "Tajweed in colour", "604 pages, about 170 MB")
             }
             Section("Recitations") {
-                for (r in Recitations.RECITERS) PackRow(Pack.Recitation(r.id), r.label, "114 surahs, about 0.5 to 1.5 GB")
+                for (r in Recitations.of(settings.riwayah)) PackRow(Pack.Recitation(r.id), r.label, "114 surahs, about 0.5 to 1.5 GB")
             }
             Section("Tafsir") {
                 for (b in Tafsir.BOOKS) PackRow(Pack.TafsirBook(b.id), b.name, "${b.language}, 114 surahs")

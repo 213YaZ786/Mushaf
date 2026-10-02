@@ -1,0 +1,123 @@
+1	44:38:1	w	إِنَّ		ان	Indeed	inna
+1	44:38:2	w	يَوْمَ		يوم	(the) Day of Judgment	yawma
+1	44:38:3	w	ࡰ۬لْفَصْلِ		الفصل	(the) Day of Judgment	l-faṣli
+1	44:38:4	w	مِيقَٰتُهُمُۥٓ		ميقتهم	(is) an appointed term for them	mīqātuhum
+1	44:38:5	w	أَجْمَعِينَ		اجمعين	all	ajmaʿīna
+1	44:38:6	e	۝٣٨				
+1	44:39:1	w	يَوْمَ		يوم	(The) Day	yawma
+1	44:39:2	w	لَا		لا	not	lā
+1	44:39:3	w	يُغْنِے		يغني	will avail	yugh'nī
+2	44:39:4	w	مَوْلىً		مولي	a relation	mawlan
+2	44:39:5	w	عَن		عن	for	ʿan
+2	44:39:6	w	مَّوْلىࣰ		مولي	a relation	mawlan
+2	44:39:7	w	شَيْـٔاࣰ		شيا	anything	shayan
+2	44:39:8	w	وَلَا		ولا	and not	walā
+2	44:39:9	w	هُمْ		هم	they	hum
+2	44:39:10	w	يُنصَرُونَ		ينصرون	will be helped	yunṣarūna
+2	44:39:11	e	۝٣٩				
+2	44:40:1	w	إِلَّا		الا	Except	illā
+2	44:40:2	w	مَن		من	(on) whom	man
+3	44:40:3	w	رَّحِمَ		رحم	Allah has mercy	raḥima
+3	44:40:4	w	ࡰ۬للَّهُ࣌		الله	Allah has mercy	l-lahu
+3	44:40:5	w	إِنَّهُۥ		انه	Indeed, He	innahu
+3	44:40:6	w	هُوَ		هو	[He]	huwa
+3	44:40:7	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+3	44:40:8	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+3	44:40:9	e	۝٤٠				
+3	44:41:1	w	إِنَّ		ان	Indeed	inna
+3	44:41:2	w	شَجَرَتَ		شجرت	(the) tree	shajarata
+3	44:41:3	w	ࡰ۬لزَّقُّومِ		الزقوم	(of) Zaqqum	l-zaqūmi
+4	44:41:4	w	طَعَامُ		طعام	(Will be) food	ṭaʿāmu
+4	44:41:5	w	ࡲ۬لَاثِيمِ		الاثيم	(of) the sinner(s)	l-athīmi
+4	44:41:6	e	۝٤١				
+4	44:42:1	w	كَالْمُهْلِ		كالمهل	Like the murky oil	kal-muh'li
+4	44:42:2	w	تَغْلِے		تغلي	it will boil	yaghlī
+4	44:42:3	w	فِے		في	in	fī
+4	44:42:4	w	ࡴ۬لْبُطُونِ		البطون	the bellies	l-buṭūni
+4	44:42:5	e	۝٤٢				
+5	44:43:1	w	كَغَلْيِ		كغلي	Like boiling	kaghalyi
+5	44:43:2	w	ࡴ۬لْحَمِيمِ࣌		الحميم	(of) scalding water	l-ḥamīmi
+5	44:43:3	e	۝٤٣				
+5	44:44:1	w	خُذُوهُ		خذوه	Seize him	khudhūhu
+5	44:44:2	w	فَاعْتُلُوهُ		فاعتلوه	and drag him	fa-iʿ'tilūhu
+5	44:44:3	w	إِلَىٰ		الي	into	ilā
+5	44:44:4	w	سَوَآءِ		سوا	(the) midst	sawāi
+5	44:44:5	w	ࡴ۬لْجَحِيمِ		الجحيم	(of) the Hellfire	l-jaḥīmi
+5	44:44:6	e	۝٤٤				
+6	44:45:1	w	ثُمَّ		ثم	Then	thumma
+6	44:45:2	w	صُبُّواْ		صبوا	pour	ṣubbū
+6	44:45:3	w	فَوْقَ		فوق	over	fawqa
+6	44:45:4	w	رَأْسِهِۦ		راسهي	his head	rasihi
+6	44:45:5	w	مِنْ		من	of	min
+6	44:45:6	w	عَذَابِ		عذاب	(the) punishment	ʿadhābi
+6	44:45:7	w	ࡴ۬لْحَمِيمِ		الحميم	(of) the scalding water	l-ḥamīmi
+6	44:45:8	e	۝٤٥				
+7	44:46:1	w	ذُقِ࣌		ذق	Taste	dhuq
+7	44:46:2	w	ࡴنَّكَ		انك	Indeed, you	innaka
+7	44:46:3	w	أَنتَ		انت	[you] (were)	anta
+7	44:46:4	w	ࡰ۬لْعَزِيزُ		العزيز	the mighty	l-ʿazīzu
+7	44:46:5	w	ࡲ۬لْكَرِيمُ࣌		الكريم	the noble	l-karīmu
+7	44:46:6	e	۝٤٦				
+7	44:47:1	w	إِنَّ		ان	Indeed	inna
+7	44:47:2	w	هَٰذَا		هذا	this	hādhā
+8	44:47:3	w	مَا		ما	(is) what	mā
+8	44:47:4	w	كُنتُم		كنتم	you used to	kuntum
+8	44:47:5	w	بِهِۦ		بهي	[about it]	bihi
+8	44:47:6	w	تَمْتَرُونَ࣌		تمترون	doubt	tamtarūna
+8	44:47:7	e	۝٤٧				
+8	44:48:1	w	إِنَّ		ان	Indeed	inna
+8	44:48:2	w	ࡰ۬لْمُتَّقِينَ		المتقين	the righteous	l-mutaqīna
+8	44:48:3	w	فِے		في	(will be) in	fī
+9	44:48:4	w	مُقَامٍ		مقام	a place	maqāmin
+9	44:48:5	w	ࡰمِينࣲ		امين	secure	amīnin
+9	44:48:6	e	۝٤٨				
+9	44:49:1	w	فِے		في	In	fī
+9	44:49:2	w	جَنَّٰتࣲ		جنت	gardens	jannātin
+9	44:49:3	w	وَعُيُونࣲ		وعيون	and springs	waʿuyūnin
+9	44:49:4	e	۝٤٩				
+9	44:50:1	w	يَلْبَسُونَ		يلبسون	Wearing garments	yalbasūna
+9	44:50:2	w	مِن		من	of	min
+10	44:50:3	w	سُندُسࣲ		سندس	fine silk	sundusin
+10	44:50:4	w	وَإِسْتَبْرَقࣲ		واستبرق	and heavy silk	wa-is'tabraqin
+10	44:50:5	w	مُّتَقَٰبِلِينَ࣌		متقبلين	facing each other	mutaqābilīna
+10	44:50:6	e	۝٥٠				
+10	44:51:1	w	كَذَٰلِكَ࣌		كذلك	Thus	kadhālika
+10	44:51:2	w	وَزَوَّجْنَٰهُم		وزوجنهم	And We will marry them	wazawwajnāhum
+11	44:51:3	w	بِحُورٍ		بحور	(to) companions with beautiful eyes	biḥūrin
+11	44:51:4	w	عِينࣲ࣌		عين	(to) companions with beautiful eyes	ʿīnin
+11	44:51:5	e	۝٥١				
+11	44:52:1	w	يَدْعُونَ		يدعون	They will call	yadʿūna
+11	44:52:2	w	فِيهَا		فيها	therein	fīhā
+11	44:52:3	w	بِكُلِّ		بكل	for every (kind)	bikulli
+11	44:52:4	w	فَٰكِهَةٍ		فكهة	(of) fruit	fākihatin
+11	44:52:5	w	اٰمِنِينَ࣌		امنين	secure	āminīna
+11	44:52:6	e	۝٥٢				
+12	44:53:1	w	لَا		لا	Not	lā
+12	44:53:2	w	يَذُوقُونَ		يذوقون	they will taste	yadhūqūna
+12	44:53:3	w	فِيهَا		فيها	therein	fīhā
+12	44:53:4	w	ࡰ۬لْمَوْتَ࣌		الموت	the death	l-mawta
+12	44:53:5	w	إِلَّا		الا	except	illā
+12	44:53:6	w	ࡰ۬لْمَوْتَةَ		الموتة	the death	l-mawtata
+12	44:53:7	w	ࡰ۬لُاولٜىٰ࣌		الاولي	the first	l-ūlā
+12	44:53:8	w	وَوَقٜيٰهُمْ		ووقيهم	And He will protect them	wawaqāhum
+13	44:53:9	w	عَذَابَ		عذاب	(from the) punishment	ʿadhāba
+13	44:53:10	w	ࡰ۬لْجَحِيمِ		الجحيم	(of) the Hellfire	l-jaḥīmi
+13	44:53:11	e	۝٥٣				
+13	44:54:1	w	فَضْلاࣰ		فضلا	A Bounty	faḍlan
+13	44:54:2	w	مِّن		من	from	min
+13	44:54:3	w	رَّبِّكَ࣌		ربك	your Lord	rabbika
+13	44:54:4	w	ذَٰلِكَ		ذلك	That	dhālika
+14	44:54:5	w	هُوَ		هو	it	huwa
+14	44:54:6	w	ࡰ۬لْفَوْزُ		الفوز	(will be) the success	l-fawzu
+14	44:54:7	w	ࡲ۬لْعَظِيمُ࣌		العظيم	the great	l-ʿaẓīmu
+14	44:54:8	e	۝٥٤				
+14	44:55:1	w	فَإِنَّمَا		فانما	Indeed	fa-innamā
+14	44:55:2	w	يَسَّرْنَٰهُ		يسرنه	We have made it easy	yassarnāhu
+14	44:55:3	w	بِلِسَانِكَ		بلسانك	in your tongue	bilisānika
+15	44:55:4	w	لَعَلَّهُمْ		لعلهم	so that they may	laʿallahum
+15	44:55:5	w	يَتَذَكَّرُونَ࣌		يتذكرون	take heed	yatadhakkarūna
+15	44:55:6	e	۝٥٥				
+15	44:56:1	w	فَارْتَقِبِ࣌		فارتقب	So watch	fa-ir'taqib
+15	44:56:2	w	ࡴنَّهُم		انهم	indeed, they	innahum
+15	44:56:3	w	مُّرْتَقِبُونَ࣌		مرتقبون	(too are) watching	mur'taqibūna
+15	44:56:4	e	۝٥٦				

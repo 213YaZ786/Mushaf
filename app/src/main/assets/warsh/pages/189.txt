@@ -1,0 +1,134 @@
+1	9:14:1	w	قَٰتِلُوهُمْ		قتلوهم	Fight them	qātilūhum
+1	9:14:2	w	يُعَذِّبْهُمُ		يعذبهم	Allah will punish them	yuʿadhib'humu
+1	9:14:3	w	ࡲ۬للَّهُ		الله	Allah will punish them	l-lahu
+1	9:14:4	w	بِأَيْدِيكُمْ		بايديكم	by your hands	bi-aydīkum
+1	9:14:5	w	وَيُخْزِهِمْ		ويخزهم	and disgrace them	wayukh'zihim
+1	9:14:6	w	وَيَنصُرْكُمْ		وينصركم	and give you victory	wayanṣur'kum
+2	9:14:7	w	عَلَيْهِمْ		عليهم	over them	ʿalayhim
+2	9:14:8	w	وَيَشْفِ		ويشف	and will heal	wayashfi
+2	9:14:9	w	صُدُورَ		صدور	(the) breasts	ṣudūra
+2	9:14:10	w	قَوْمࣲ		قوم	(of) a people	qawmin
+2	9:14:11	w	مُّومِنِينَ		مومنين	(who are) believers	mu'minīna
+2	9:14:12	e	۝١٤				
+2	9:15:1	w	وَيُذْهِبْ		ويذهب	And remove	wayudh'hib
+2	9:15:2	w	غَيْظَ		غيظ	(the) anger	ghayẓa
+3	9:15:3	w	قُلُوبِهِمْ࣌		قلوبهم	(of) their hearts	qulūbihim
+3	9:15:4	w	وَيَتُوبُ		ويتوب	And Allah accepts repentance	wayatūbu
+3	9:15:5	w	ࡲ۬للَّهُ		الله	And Allah accepts repentance	l-lahu
+3	9:15:6	w	عَلَىٰ		علي	of	ʿalā
+3	9:15:7	w	مَنْ		من	whom	man
+3	9:15:8	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+3	9:15:9	w	وَاللَّهُ		والله	And Allah	wal-lahu
+3	9:15:10	w	عَلِيمٌ		عليم	(is) All-Knower	ʿalīmun
+3	9:15:11	w	حَكِيمٌ࣌		حكيم	All-Wise	ḥakīmun
+3	9:15:12	e	۝١٥				
+4	9:16:1	w	ࡰمْ		ام	Or	am
+4	9:16:2	w	حَسِبْتُمُۥٓ		حسبتم	(do) you think	ḥasib'tum
+4	9:16:3	w	أَن		ان	that	an
+4	9:16:4	w	تُتْرَكُواْ		تتركوا	you would be left	tut'rakū
+4	9:16:5	w	وَلَمَّا		ولما	while not	walammā
+4	9:16:6	w	يَعْلَمِ		يعلم	Allah made evident	yaʿlami
+4	9:16:7	w	ࡴ۬للَّهُ		الله	Allah made evident	l-lahu
+4	9:16:8	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+4	9:16:9	w	جَٰهَدُواْ		جهدوا	strive	jāhadū
+4	9:16:10	w	مِنكُمْ		منكم	among you	minkum
+5	9:16:11	w	وَلَمْ		ولم	and not	walam
+5	9:16:12	w	يَتَّخِذُواْ		يتخذوا	take	yattakhidhū
+5	9:16:13	w	مِن		من	besides Allah	min
+5	9:16:14	w	دُونِ		دون	besides Allah	dūni
+5	9:16:15	w	ࡴ۬للَّهِ		الله	besides Allah	l-lahi
+5	9:16:16	w	وَلَا		ولا	and not	walā
+5	9:16:17	w	رَسُولِهِۦ		رسولهي	His Messenger	rasūlihi
+5	9:16:18	w	وَلَا		ولا	and not	walā
+5	9:16:19	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+5	9:16:20	w	وَلِيجَةࣰ࣌		وليجة	(as) intimates	walījatan
+6	9:16:21	w	وَاللَّهُ		والله	And Allah	wal-lahu
+6	9:16:22	w	خَبِيرُۢ		خبير	(is) All-Aware	khabīrun
+6	9:16:23	w	بِمَا		بما	of what	bimā
+6	9:16:24	w	تَعْمَلُونَ࣌		تعملون	you do	taʿmalūna
+6	9:16:25	e	۝١٦				
+6	9:17:1	w	مَا		ما	(It) is not	mā
+6	9:17:2	w	كَانَ		كان	(It) is not	kāna
+6	9:17:3	w	لِلْمُشْرِكِينَ		للمشركين	for the polytheists	lil'mush'rikīna
+6	9:17:4	w	أَنْ		ان	that	an
+6	9:17:5	w	يَّعْمُرُواْ		يعمروا	they maintain	yaʿmurū
+7	9:17:6	w	مَسَٰجِدَ		مسجد	(the) masajid of Allah	masājida
+7	9:17:7	w	ࡰ۬للَّهِ		الله	(the) masajid of Allah	l-lahi
+7	9:17:8	w	شَٰهِدِينَ		شهدين	(while) witnessing	shāhidīna
+7	9:17:9	w	عَلَىٰٓ		علي	against	ʿalā
+7	9:17:10	w	أَنفُسِهِم		انفسهم	themselves	anfusihim
+7	9:17:11	w	بِالْكُفْرِ࣌		بالكفر	[with] disbelief	bil-kuf'ri
+7	9:17:12	w	أُوْلَٰٓئِكَ		اوليك	(For) those	ulāika
+7	9:17:13	w	حَبِطَتَ		حبطت	worthless	ḥabiṭat
+8	9:17:14	w	ࡰعْمَٰلُهُمْ		اعملهم	(are) their deeds	aʿmāluhum
+8	9:17:15	w	وَفِے		وفي	and in	wafī
+8	9:17:16	w	ࡴ۬لنّٜارِ		النار	the Fire	l-nāri
+8	9:17:17	w	هُمْ		هم	they	hum
+8	9:17:18	w	خَٰلِدُونَ࣌		خلدون	(will) abide forever	khālidūna
+8	9:17:19	e	۝١٧				
+8	9:18:1	w	إِنَّمَا		انما	Only	innamā
+8	9:18:2	w	يَعْمُرُ		يعمر	will maintain	yaʿmuru
+8	9:18:3	w	مَسَٰجِدَ		مسجد	(the) masajid of Allah	masājida
+9	9:18:4	w	ࡰ۬للَّهِ		الله	(the) masajid of Allah	l-lahi
+9	9:18:5	w	مَنَ		من	(the one) who	man
+9	9:18:6	w	اٰمَنَ		امن	believes	āmana
+9	9:18:7	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+9	9:18:8	w	وَالْيَوْمِ		واليوم	and the Day	wal-yawmi
+9	9:18:9	w	ࡴ۬لَاخِرِ		الاخر	the Last	l-ākhiri
+9	9:18:10	w	وَأَقَامَ		واقام	and establishes	wa-aqāma
+9	9:18:11	w	ࡰ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+9	9:18:12	w	وَءَاتَى		واتي	and gives	waātā
+10	9:18:13	w	ࡰ۬لزَّكَوٰةَ		الزكوة	the zakah	l-zakata
+10	9:18:14	w	وَلَمْ		ولم	and not	walam
+10	9:18:15	w	يَخْشَ		يخش	fear	yakhsha
+10	9:18:16	w	إِلَّا		الا	except	illā
+10	9:18:17	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	9:18:18	w	فَعَسٜىٰٓ		فعسي	Then perhaps	faʿasā
+10	9:18:19	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+10	9:18:20	w	أَنْ		ان	[that]	an
+10	9:18:21	w	يَّكُونُواْ		يكونوا	they are	yakūnū
+10	9:18:22	w	مِنَ		من	of	mina
+11	9:18:23	w	ࡰ۬لْمُهْتَدِينَ࣌		المهتدين	the guided ones	l-muh'tadīna
+11	9:18:24	e	۝١٨				
+11	9:19:1	w	۞ أَجَعَلْتُمْ		اجعلتم	Do you make	ajaʿaltum
+11	9:19:2	w	سِقَايَةَ		سقاية	the providing of water	siqāyata
+11	9:19:3	w	ࡰ۬لْحَآجِّ		الحاج	(to) the pilgrims	l-ḥāji
+11	9:19:4	w	وَعِمَارَةَ		وعمارة	and (the) maintenance	waʿimārata
+11	9:19:5	w	ࡰ۬لْمَسْجِدِ		المسجد	(of) Al-Masjid Al-Haraam	l-masjidi
+12	9:19:6	w	ࡴ۬لْحَرَامِ		الحرام	(of) Al-Masjid Al-Haraam	l-ḥarāmi
+12	9:19:7	w	كَمَنَ		كمن	like (the one) who	kaman
+12	9:19:8	w	اٰمَنَ		امن	believes	āmana
+12	9:19:9	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+12	9:19:10	w	وَالْيَوْمِ		واليوم	and the Day	wal-yawmi
+12	9:19:11	w	ࡴ۬لَاخِرِ		الاخر	the Last	l-ākhiri
+12	9:19:12	w	وَجَٰهَدَ		وجهد	and strives	wajāhada
+12	9:19:13	w	فِے		في	in	fī
+12	9:19:14	w	سَبِيلِ		سبيل	(the) way	sabīli
+13	9:19:15	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+13	9:19:16	w	لَا		لا	They are not equal	lā
+13	9:19:17	w	يَسْتَوُۥنَ		يستون	They are not equal	yastawūna
+13	9:19:18	w	عِندَ		عند	near	ʿinda
+13	9:19:19	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+13	9:19:20	w	وَاللَّهُ		والله	And Allah	wal-lahu
+13	9:19:21	w	لَا		لا	(does) not	lā
+13	9:19:22	w	يَهْدِے		يهدي	guide	yahdī
+13	9:19:23	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+13	9:19:24	w	ࡰ۬لظَّٰلِمِينَ࣌		الظلمين	the wrongdoers	l-ẓālimīna
+13	9:19:25	e	۝١٩				
+14	9:20:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+14	9:20:2	w	ءَامَنُواْ		امنوا	believed	āmanū
+14	9:20:3	w	وَهَاجَرُواْ		وهاجروا	and emigrated	wahājarū
+14	9:20:4	w	وَجَٰهَدُواْ		وجهدوا	and strove	wajāhadū
+14	9:20:5	w	فِے		في	in	fī
+14	9:20:6	w	سَبِيلِ		سبيل	(the) way	sabīli
+14	9:20:7	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+14	9:20:8	w	بِأَمْوَٰلِهِمْ		بامولهم	with their wealth	bi-amwālihim
+15	9:20:9	w	وَأَنفُسِهِمُۥٓ		وانفسهم	and their lives	wa-anfusihim
+15	9:20:10	w	أَعْظَمُ		اعظم	(are) greater	aʿẓamu
+15	9:20:11	w	دَرَجَةً		درجة	(in) rank	darajatan
+15	9:20:12	w	عِندَ		عند	near	ʿinda
+15	9:20:13	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+15	9:20:14	w	وَأُوْلَٰٓئِكَ		واوليك	And those	wa-ulāika
+15	9:20:15	w	هُمُ		هم	they	humu
+15	9:20:16	w	ࡲ۬لْفَآئِزُونَ࣌		الفايزون	(are) the successful	l-fāizūna
+15	9:20:17	e	۝٢٠				

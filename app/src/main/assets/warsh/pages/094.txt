@@ -1,0 +1,151 @@
+1	4:94:1	w	لَّا		لا	Not	lā
+1	4:94:2	w	يَسْتَوِے		يستوي	(are) equal	yastawī
+1	4:94:3	w	ࡴ۬لْقَٰعِدُونَ		القعدون	the ones who sit	l-qāʿidūna
+1	4:94:4	w	مِنَ		من	among	mina
+1	4:94:5	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+1	4:94:6	w	غَيْرَ		غير	other than	ghayru
+1	4:94:7	w	أُوْلِے		اولي	the ones (who are)	ulī
+1	4:94:8	w	ࡴ۬لضَّرَرِ		الضرر	[the] disabled	l-ḍarari
+1	4:94:9	w	وَالْمُجَٰهِدُونَ		والمجهدون	and the ones who strive	wal-mujāhidūna
+2	4:94:10	w	فِے		في	in	fī
+2	4:94:11	w	سَبِيلِ		سبيل	(the) way	sabīli
+2	4:94:12	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+2	4:94:13	w	بِأَمْوَٰلِهِمْ		بامولهم	with their wealth	bi-amwālihim
+2	4:94:14	w	وَأَنفُسِهِمْ࣌		وانفسهم	and their lives	wa-anfusihim
+2	4:94:15	w	فَضَّلَ		فضل	Preferred	faḍḍala
+2	4:94:16	w	ࡰ۬للَّهُ		الله	(has) Allah	l-lahu
+2	4:94:17	w	ࡲ۬لْمُجَٰهِدِينَ		المجهدين	the ones who strive	l-mujāhidīna
+2	4:94:18	w	بِأَمْوَٰلِهِمْ		بامولهم	with their wealth	bi-amwālihim
+3	4:94:19	w	وَأَنفُسِهِمْ		وانفسهم	and their lives	wa-anfusihim
+3	4:94:20	w	عَلَى		علي	to	ʿalā
+3	4:94:21	w	ࡰ۬لْقَٰعِدِينَ		القعدين	the ones who sit	l-qāʿidīna
+3	4:94:22	w	دَرَجَةࣰ࣌		درجة	(in) rank	darajatan
+3	4:94:23	w	وَكُلّاࣰ		وكلا	And (to) all	wakullan
+3	4:94:24	w	وَعَدَ		وعد	promised	waʿada
+3	4:94:25	w	ࡰ۬للَّهُ		الله	(has) Allah	l-lahu
+3	4:94:26	w	ࡲ۬لْحُسْنٜىٰ࣌		الحسني	the best	l-ḥus'nā
+3	4:94:27	w	وَفَضَّلَ		وفضل	preferred	wafaḍḍala
+3	4:94:28	w	ࡰ۬للَّهُ		الله	(has) Allah	l-lahu
+4	4:94:29	w	ࡲ۬لْمُجَٰهِدِينَ		المجهدين	the ones who strive	l-mujāhidīna
+4	4:94:30	w	عَلَى		علي	over	ʿalā
+4	4:94:31	w	ࡰ۬لْقَٰعِدِينَ		القعدين	the ones who sit	l-qāʿidīna
+4	4:94:32	w	أَجْراً		اجرا	(with) a reward	ajran
+4	4:94:33	w	عَظِيماࣰ		عظيما	great	ʿaẓīman
+4	4:94:34	e	۝٩٤				
+4	4:95:1	w	دَرَجَٰتࣲ		درجت	Ranks	darajātin
+4	4:95:2	w	مِّنْهُ		منه	from Him	min'hu
+4	4:95:3	w	وَمَغْفِرَةࣰ		ومغفرة	and forgiveness	wamaghfiratan
+4	4:95:4	w	وَرَحْمَةࣰ࣌		ورحمة	and mercy	waraḥmatan
+5	4:95:5	w	وَكَانَ		وكان	And is	wakāna
+5	4:95:6	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+5	4:95:7	w	غَفُوراࣰ		غفورا	Oft-Forgiving	ghafūran
+5	4:95:8	w	رَّحِيماً࣌		رحيما	Most Merciful	raḥīman
+5	4:95:9	e	۝٩٥				
+5	4:96:1	w	ࡴنَّ		ان	Indeed	inna
+5	4:96:2	w	ࡰ۬لذِينَ		الذين	those whom	alladhīna
+5	4:96:3	w	تَوَفّٜيٰهُمُ		توفيهم	take them (in death)	tawaffāhumu
+5	4:96:4	w	ࡲ۬لْمَلَٰٓئِكَةُ		المليكة	the Angels	l-malāikatu
+5	4:96:5	w	ظَالِمِےٓ		ظالمي	(while) they (were) wronging	ẓālimī
+6	4:96:6	w	أَنفُسِهِمْ		انفسهم	themselves	anfusihim
+6	4:96:7	w	قَالُواْ		قالوا	they say	qālū
+6	4:96:8	w	فِيمَ		فيم	In what (condition)	fīma
+6	4:96:9	w	كُنتُمْ࣌		كنتم	were you	kuntum
+6	4:96:10	w	قَالُواْ		قالوا	They said	qālū
+6	4:96:11	w	كُنَّا		كنا	We were	kunnā
+6	4:96:12	w	مُسْتَضْعَفِينَ		مستضعفين	oppressed	mus'taḍʿafīna
+6	4:96:13	w	فِے		في	in	fī
+6	4:96:14	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+7	4:96:15	w	قَالُوٓاْ		قالوا	They said	qālū
+7	4:96:16	w	أَلَمْ		الم	Not	alam
+7	4:96:17	w	تَكُنَ		تكن	was	takun
+7	4:96:18	w	ࡰرْضُ		ارض	(the) earth	arḍu
+7	4:96:19	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+7	4:96:20	w	وَٰسِعَةࣰ		وسعة	spacious (enough)	wāsiʿatan
+7	4:96:21	w	فَتُهَاجِرُواْ		فتهاجروا	so that you (could) emigrate	fatuhājirū
+7	4:96:22	w	فِيهَا࣌		فيها	in it	fīhā
+7	4:96:23	w	فَأُوْلَٰٓئِكَ		فاوليك	Then those	fa-ulāika
+7	4:96:24	w	مَأْوٜيٰهُمْ		ماويهم	(will have) their abode	mawāhum
+8	4:96:25	w	جَهَنَّمُ		جهنم	(in) Hell	jahannamu
+8	4:96:26	w	وَسَآءَتْ		وسات	and it is an evil	wasāat
+8	4:96:27	w	مَصِيراً		مصيرا	destination	maṣīran
+8	4:96:28	e	۝٩٦				
+8	4:97:1	w	ࡴلَّا		الا	Except	illā
+8	4:97:2	w	ࡰ۬لْمُسْتَضْعَفِينَ		المستضعفين	the oppressed	l-mus'taḍʿafīna
+8	4:97:3	w	مِنَ		من	among	mina
+8	4:97:4	w	ࡰ۬لرِّجَالِ		الرجال	the men	l-rijāli
+8	4:97:5	w	وَالنِّسَآءِ		والنسا	and the women	wal-nisāi
+8	4:97:6	w	وَالْوِلْدَٰنِ		والولدن	and the children	wal-wil'dāni
+9	4:97:7	w	لَا		لا	(who) not	lā
+9	4:97:8	w	يَسْتَطِيعُونَ		يستطيعون	are able to	yastaṭīʿūna
+9	4:97:9	w	حِيلَةࣰ		حيلة	plan	ḥīlatan
+9	4:97:10	w	وَلَا		ولا	and not	walā
+9	4:97:11	w	يَهْتَدُونَ		يهتدون	they are directed	yahtadūna
+9	4:97:12	w	سَبِيلاࣰ࣌		سبيلا	(to) a way	sabīlan
+9	4:97:13	e	۝٩٧				
+9	4:98:1	w	فَأُوْلَٰٓئِكَ		فاوليك	Then those	fa-ulāika
+9	4:98:2	w	عَسَى		عسي	may be	ʿasā
+9	4:98:3	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+10	4:98:4	w	أَنْ		ان	will	an
+10	4:98:5	w	يَّعْفُوَ		يعفو	pardon	yaʿfuwa
+10	4:98:6	w	عَنْهُمْ࣌		عنهم	[on] them	ʿanhum
+10	4:98:7	w	وَكَانَ		وكان	and is	wakāna
+10	4:98:8	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+10	4:98:9	w	عَفُوّاً		عفوا	Oft-Pardoning	ʿafuwwan
+10	4:98:10	w	غَفُوراࣰ࣌		غفورا	Oft-Forgiving	ghafūran
+10	4:98:11	e	۝٩٨				
+10	4:99:1	w	۞ وَمَنْ		ومن	And whoever	waman
+10	4:99:2	w	يُّهَاجِرْ		يهاجر	emigrates	yuhājir
+10	4:99:3	w	فِے		في	in	fī
+11	4:99:4	w	سَبِيلِ		سبيل	(the) way	sabīli
+11	4:99:5	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+11	4:99:6	w	يَجِدْ		يجد	will find	yajid
+11	4:99:7	w	فِے		في	in	fī
+11	4:99:8	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+11	4:99:9	w	مُرَٰغَماࣰ		مرغما	place(s) of refuge	murāghaman
+11	4:99:10	w	كَثِيراࣰ		كثيرا	many	kathīran
+11	4:99:11	w	وَسَعَةࣰ࣌		وسعة	and abundance	wasaʿatan
+11	4:99:12	w	وَمَنْ		ومن	And whoever	waman
+11	4:99:13	w	يَّخْرُجْ		يخرج	leaves	yakhruj
+11	4:99:14	w	مِنۢ		من	from	min
+12	4:99:15	w	بَيْتِهِۦ		بيتهي	his home	baytihi
+12	4:99:16	w	مُهَاجِراً		مهاجرا	(as) an emigrant	muhājiran
+12	4:99:17	w	ࡴلَى		الي	to	ilā
+12	4:99:18	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+12	4:99:19	w	وَرَسُولِهِۦ		ورسولهي	and His Messenger	warasūlihi
+12	4:99:20	w	ثُمَّ		ثم	then	thumma
+12	4:99:21	w	يُدْرِكْهُ		يدركه	overtakes him	yud'rik'hu
+12	4:99:22	w	ࡲ۬لْمَوْتُ		الموت	[the] death	l-mawtu
+12	4:99:23	w	فَقَدْ		فقد	then certainly	faqad
+12	4:99:24	w	وَقَعَ		وقع	(became) incumbent	waqaʿa
+12	4:99:25	w	أَجْرُهُۥ		اجره	his reward	ajruhu
+13	4:99:26	w	عَلَى		علي	on	ʿalā
+13	4:99:27	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+13	4:99:28	w	وَكَانَ		وكان	And is	wakāna
+13	4:99:29	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+13	4:99:30	w	غَفُوراࣰ		غفورا	Oft-Forgiving	ghafūran
+13	4:99:31	w	رَّحِيماࣰ࣌		رحيما	Most Merciful	raḥīman
+13	4:99:32	e	۝٩٩				
+13	4:100:1	w	وَإِذَا		واذا	And when	wa-idhā
+13	4:100:2	w	ضَرَبْتُمْ		ضربتم	you travel	ḍarabtum
+13	4:100:3	w	فِے		في	in	fī
+13	4:100:4	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+13	4:100:5	w	فَلَيْسَ		فليس	then not	falaysa
+14	4:100:6	w	عَلَيْكُمْ		عليكم	upon you	ʿalaykum
+14	4:100:7	w	جُنَاحٌ		جناح	(is) any blame	junāḥun
+14	4:100:8	w	ࡰن		ان	that	an
+14	4:100:9	w	تَقْصُرُواْ		تقصروا	you shorten	taqṣurū
+14	4:100:10	w	مِنَ		من	[of]	mina
+14	4:100:11	w	ࡰ۬لصَّلَوٰةِ		الصلوة	the prayer	l-ṣalati
+14	4:100:12	w	إِنْ		ان	if	in
+14	4:100:13	w	خِفْتُمُۥٓ		خفتم	you fear	khif'tum
+14	4:100:14	w	أَنْ		ان	that	an
+14	4:100:15	w	يَّفْتِنَكُمُ		يفتنكم	(may) harm you	yaftinakumu
+15	4:100:16	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+15	4:100:17	w	كَفَرُوٓاْ࣌		كفروا	disbelieved	kafarū
+15	4:100:18	w	إِنَّ		ان	Indeed	inna
+15	4:100:19	w	ࡰ۬لْكٜـٰفِرِينَ		الكفرين	the disbelievers	l-kāfirīna
+15	4:100:20	w	كَانُواْ		كانوا	are	kānū
+15	4:100:21	w	لَكُمْ		لكم	for you	lakum
+15	4:100:22	w	عَدُوّاࣰ		عدوا	an enemy	ʿaduwwan
+15	4:100:23	w	مُّبِيناࣰ࣌		مبينا	open	mubīnan
+15	4:100:24	e	۝١٠٠				

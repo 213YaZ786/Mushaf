@@ -1,0 +1,143 @@
+1	41:20:1	w	وَقَالُواْ		وقالوا	And they will say	waqālū
+1	41:20:2	w	لِجُلُودِهِمْ		لجلودهم	to their skins	lijulūdihim
+1	41:20:3	w	لِمَ		لم	Why do	lima
+1	41:20:4	w	شَهِدتُّمْ		شهدتم	you testify	shahidttum
+1	41:20:5	w	عَلَيْنَا࣌		علينا	against us	ʿalaynā
+1	41:20:6	w	قَالُوٓاْ		قالوا	They will say	qālū
+1	41:20:7	w	أَنطَقَنَا		انطقنا	Allah made us speak	anṭaqanā
+1	41:20:8	w	ࡰ۬للَّهُ		الله	Allah made us speak	l-lahu
+1	41:20:9	w	ࡲ۬لذِےٓ		الذي	the One Who	alladhī
+1	41:20:10	w	أَنطَقَ		انطق	makes speak	anṭaqa
+2	41:20:11	w	كُلَّ		كل	every	kulla
+2	41:20:12	w	شَےْءࣲ࣌		شي	thing	shayin
+2	41:20:13	w	وَهُوَ		وهو	and He	wahuwa
+2	41:20:14	w	خَلَقَكُمُۥٓ		خلقكم	created you	khalaqakum
+2	41:20:15	w	أَوَّلَ		اول	(the) first	awwala
+2	41:20:16	w	مَرَّةࣲ		مرة	time	marratin
+2	41:20:17	w	وَإِلَيْهِ		واليه	and to Him	wa-ilayhi
+2	41:20:18	w	تُرْجَعُونَ࣌		ترجعون	you will be returned	tur'jaʿūna
+2	41:20:19	e	۝٢٠				
+2	41:21:1	w	وَمَا		وما	And not	wamā
+3	41:21:2	w	كُنتُمْ		كنتم	you were	kuntum
+3	41:21:3	w	تَسْتَتِرُونَ		تستترون	covering yourselves	tastatirūna
+3	41:21:4	w	أَنْ		ان	lest	an
+3	41:21:5	w	يَّشْهَدَ		يشهد	testify	yashhada
+3	41:21:6	w	عَلَيْكُمْ		عليكم	against you	ʿalaykum
+3	41:21:7	w	سَمْعُكُمْ		سمعكم	your hearing	samʿukum
+3	41:21:8	w	وَلَآ		ولا	and not	walā
+3	41:21:9	w	أَبْصَٰرُكُمْ		ابصركم	your sight	abṣārukum
+3	41:21:10	w	وَلَا		ولا	and not	walā
+4	41:21:11	w	جُلُودُكُمْ࣌		جلودكم	your skins	julūdukum
+4	41:21:12	w	وَلَٰكِن		ولكن	but	walākin
+4	41:21:13	w	ظَنَنتُمُۥٓ		ظننتم	you assumed	ẓanantum
+4	41:21:14	w	أَنَّ		ان	that	anna
+4	41:21:15	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	41:21:16	w	لَا		لا	(does) not	lā
+4	41:21:17	w	يَعْلَمُ		يعلم	know	yaʿlamu
+4	41:21:18	w	كَثِيراࣰ		كثيرا	much	kathīran
+4	41:21:19	w	مِّمَّا		مما	of what	mimmā
+4	41:21:20	w	تَعْمَلُونَ࣌		تعملون	you do	taʿmalūna
+4	41:21:21	e	۝٢١				
+5	41:22:1	w	وَذَٰلِكُمْ		وذلكم	And that	wadhālikum
+5	41:22:2	w	ظَنُّكُمُ		ظنكم	(was) your assumption	ẓannukumu
+5	41:22:3	w	ࡲ۬لذِے		الذي	which	alladhī
+5	41:22:4	w	ظَنَنتُم		ظننتم	you assumed	ẓanantum
+5	41:22:5	w	بِرَبِّكُمُۥٓ		بربكم	about your Lord	birabbikum
+5	41:22:6	w	أَرْدٜيٰكُمْ		ارديكم	It has ruined you	ardākum
+5	41:22:7	w	فَأَصْبَحْتُم		فاصبحتم	and you have become	fa-aṣbaḥtum
+6	41:22:8	w	مِّنَ		من	of	mina
+6	41:22:9	w	ࡰ۬لْخَٰسِرِينَ࣌		الخسرين	the losers	l-khāsirīna
+6	41:22:10	e	۝٢٢				
+6	41:23:1	w	فَإِنْ		فان	Then if	fa-in
+6	41:23:2	w	يَّصْبِرُواْ		يصبروا	they endure	yaṣbirū
+6	41:23:3	w	فَالنَّارُ		فالنار	the Fire	fal-nāru
+6	41:23:4	w	مَثْوىࣰ		مثوي	(is) an abode	mathwan
+6	41:23:5	w	لَّهُمْ࣌		لهم	for them	lahum
+6	41:23:6	w	وَإِنْ		وان	and if	wa-in
+6	41:23:7	w	يَّسْتَعْتِبُواْ		يستعتبوا	they ask for favor	yastaʿtibū
+7	41:23:8	w	فَمَا		فما	then not	famā
+7	41:23:9	w	هُم		هم	they	hum
+7	41:23:10	w	مِّنَ		من	(will be) of	mina
+7	41:23:11	w	ࡰ۬لْمُعْتَبِينَ࣌		المعتبين	those who receive favor	l-muʿ'tabīna
+7	41:23:12	e	۝٢٣				
+7	41:24:1	w	۞ وَقَيَّضْنَا		وقيضنا	And We have destined	waqayyaḍnā
+7	41:24:2	w	لَهُمْ		لهم	for them	lahum
+7	41:24:3	w	قُرَنَآءَ		قرنا	companions	quranāa
+7	41:24:4	w	فَزَيَّنُواْ		فزينوا	(who) made fair-seeming	fazayyanū
+7	41:24:5	w	لَهُم		لهم	to them	lahum
+8	41:24:6	w	مَّا		ما	what	mā
+8	41:24:7	w	بَيْنَ		بين	(was) before them	bayna
+8	41:24:8	w	أَيْدِيهِمْ		ايديهم	(was) before them	aydīhim
+8	41:24:9	w	وَمَا		وما	and what	wamā
+8	41:24:10	w	خَلْفَهُمْ࣌		خلفهم	(was) behind them	khalfahum
+8	41:24:11	w	وَحَقَّ		وحق	and (is) justified	waḥaqqa
+8	41:24:12	w	عَلَيْهِمُ		عليهم	against them	ʿalayhimu
+8	41:24:13	w	ࡲ۬لْقَوْلُ		القول	the Word	l-qawlu
+8	41:24:14	w	فِےٓ		في	among	fī
+8	41:24:15	w	أُمَمࣲ		امم	nations	umamin
+8	41:24:16	w	قَدْ		قد	(that have) passed away	qad
+9	41:24:17	w	خَلَتْ		خلت	(that have) passed away	khalat
+9	41:24:18	w	مِن		من	before them	min
+9	41:24:19	w	قَبْلِهِم		قبلهم	before them	qablihim
+9	41:24:20	w	مِّنَ		من	of	mina
+9	41:24:21	w	ࡰ۬لْجِنِّ		الجن	the jinn	l-jini
+9	41:24:22	w	وَالِانسِ࣌		والانس	and the men	wal-insi
+9	41:24:23	w	إِنَّهُمْ		انهم	Indeed, they	innahum
+9	41:24:24	w	كَانُواْ		كانوا	were	kānū
+9	41:24:25	w	خَٰسِرِينَ࣌		خسرين	losers	khāsirīna
+9	41:24:26	e	۝٢٤				
+10	41:25:1	w	وَقَالَ		وقال	And said	waqāla
+10	41:25:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	41:25:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+10	41:25:4	w	لَا		لا	(Do) not	lā
+10	41:25:5	w	تَسْمَعُواْ		تسمعوا	listen	tasmaʿū
+10	41:25:6	w	لِهَٰذَا		لهذا	to this	lihādhā
+10	41:25:7	w	ࡰ۬لْقُرْءَانِ		القران	Quran	l-qur'āni
+10	41:25:8	w	وَالْغَوْاْ		والغوا	and make noise	wal-ghaw
+10	41:25:9	w	فِيهِ		فيه	therein	fīhi
+10	41:25:10	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+11	41:25:11	w	تَغْلِبُونَ࣌		تغلبون	overcome	taghlibūna
+11	41:25:12	e	۝٢٥				
+11	41:26:1	w	فَلَنُذِيقَنَّ		فلنذيقن	But surely We will cause to taste	falanudhīqanna
+11	41:26:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	41:26:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+11	41:26:4	w	عَذَاباࣰ		عذابا	a punishment	ʿadhāban
+11	41:26:5	w	شَدِيداࣰ		شديدا	severe	shadīdan
+11	41:26:6	w	وَلَنَجْزِيَنَّهُمُۥٓ		ولنجزينهم	and surely We will recompense them	walanajziyannahum
+12	41:26:7	w	أَسْوَأَ		اسوا	(the) worst	aswa-a
+12	41:26:8	w	ࡰ۬لذِے		الذي	(of) what	alladhī
+12	41:26:9	w	كَانُواْ		كانوا	they used to	kānū
+12	41:26:10	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+12	41:26:11	e	۝٢٦				
+12	41:27:1	w	ذَٰلِكَ		ذلك	That	dhālika
+12	41:27:2	w	جَزَآءُ		جزا	(is the) recompense	jazāu
+12	41:27:3	w	ࡶَعْدَآءِ		اعدا	(of the) enemies	aʿdāi
+12	41:27:4	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+12	41:27:5	w	ࡴ۬لنَّارُ࣌		النار	the Fire	l-nāru
+13	41:27:6	w	لَهُمْ		لهم	for them	lahum
+13	41:27:7	w	فِيهَا		فيها	therein	fīhā
+13	41:27:8	w	دَارُ		دار	(is the) home	dāru
+13	41:27:9	w	ࡲ۬لْخُلْدِ࣌		الخلد	(of) the eternity	l-khul'di
+13	41:27:10	w	جَزَآءَۢ		جزا	(as) recompense	jazāan
+13	41:27:11	w	بِمَا		بما	for what	bimā
+13	41:27:12	w	كَانُواْ		كانوا	they used to	kānū
+13	41:27:13	w	بِـَٔايَٰتِنَا		بايتنا	of Our Verses	biāyātinā
+13	41:27:14	w	يَجْحَدُونَ࣌		يجحدون	reject	yajḥadūna
+13	41:27:15	e	۝٢٧				
+14	41:28:1	w	وَقَالَ		وقال	And (will) say	waqāla
+14	41:28:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+14	41:28:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+14	41:28:4	w	رَبَّنَآ		ربنا	Our Lord	rabbanā
+14	41:28:5	w	أَرِنَا		ارنا	Show us	arinā
+14	41:28:6	w	ࡰ۬لذَيْنِ		الذين	those who	alladhayni
+14	41:28:7	w	أَضَلَّٰنَا		اضلنا	misled us	aḍallānā
+14	41:28:8	w	مِنَ		من	of	mina
+14	41:28:9	w	ࡰ۬لْجِنِّ		الجن	the jinn	l-jini
+15	41:28:10	w	وَالِانسِ		والانس	and the men	wal-insi
+15	41:28:11	w	نَجْعَلْهُمَا		نجعلهما	(so) we may put them	najʿalhumā
+15	41:28:12	w	تَحْتَ		تحت	under	taḥta
+15	41:28:13	w	أَقْدَامِنَا		اقدامنا	our feet	aqdāminā
+15	41:28:14	w	لِيَكُونَا		ليكونا	that they be	liyakūnā
+15	41:28:15	w	مِنَ		من	of	mina
+15	41:28:16	w	ࡰ۬لَاسْفَلِينَ࣌		الاسفلين	the lowest	l-asfalīna
+15	41:28:17	e	۝٢٨				

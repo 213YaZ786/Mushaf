@@ -1,0 +1,143 @@
+1	80:41:1	w	تَرْهَقُهَا		ترهقها	Will cover them	tarhaquhā
+1	80:41:2	w	قَتَرَةٌ࣌		قترة	darkness	qataratun
+1	80:41:3	e	۝٤١				
+1	80:42:1	w	ࡳوْلَٰٓئِكَ		اوليك	Those	ulāika
+1	80:42:2	w	هُمُ		هم	[they]	humu
+1	80:42:3	w	ࡲ۬لْكَفَرَةُ		الكفرة	(are) the disbelievers	l-kafaratu
+1	80:42:4	w	ࡲ۬لْفَجَرَةُ࣌		الفجرة	the wicked ones	l-fajaratu
+1	80:42:5	e	۝٤٢				
+2	81:0:0	t					
+3	81:0:0	b					
+4	81:1:1	w	إِذَا		اذا	When	idhā
+4	81:1:2	w	ࡰ۬لشَّمْسُ		الشمس	the sun	l-shamsu
+4	81:1:3	w	كُوِّرَتْ		كورت	is wrapped up	kuwwirat
+4	81:1:4	e	۝١				
+4	81:2:1	w	وَإِذَا		واذا	And when	wa-idhā
+4	81:2:2	w	ࡰ۬لنُّجُومُ		النجوم	the stars	l-nujūmu
+4	81:2:3	w	ࡲٜنكَدَرَتْ		انكدرت	fall, losing their luster	inkadarat
+4	81:2:4	e	۝٢				
+4	81:3:1	w	وَإِذَا		واذا	And when	wa-idhā
+4	81:3:2	w	ࡰ۬لْجِبَالُ		الجبال	the mountains	l-jibālu
+5	81:3:3	w	سُيِّرَتْ		سيرت	are moved away	suyyirat
+5	81:3:4	e	۝٣				
+5	81:4:1	w	وَإِذَا		واذا	And when	wa-idhā
+5	81:4:2	w	ࡰ۬لْعِشَارُ		العشار	the full-term she-camels	l-ʿishāru
+5	81:4:3	w	عُطِّلَتْ		عطلت	(are) left untended	ʿuṭṭilat
+5	81:4:4	e	۝٤				
+5	81:5:1	w	وَإِذَا		واذا	And when	wa-idhā
+5	81:5:2	w	ࡰ۬لْوُحُوشُ		الوحوش	the wild beasts	l-wuḥūshu
+5	81:5:3	w	حُشِرَتْ		حشرت	are gathered	ḥushirat
+5	81:5:4	e	۝٥				
+6	81:6:1	w	وَإِذَا		واذا	And when	wa-idhā
+6	81:6:2	w	ࡰ۬لْبِحَارُ		البحار	the seas	l-biḥāru
+6	81:6:3	w	سُجِّرَتْ		سجرت	are made to overflow	sujjirat
+6	81:6:4	e	۝٦				
+6	81:7:1	w	وَإِذَا		واذا	And when	wa-idhā
+6	81:7:2	w	ࡰ۬لنُّفُوسُ		النفوس	the souls	l-nufūsu
+6	81:7:3	w	زُوِّجَتْ		زوجت	are paired	zuwwijat
+6	81:7:4	e	۝٧				
+6	81:8:1	w	وَإِذَا		واذا	And when	wa-idhā
+6	81:8:2	w	ࡰ۬لْمَوْءُۥدَةُ		المودة	the female infant buried alive	l-mawūdatu
+7	81:8:3	w	سُئِلَتْ		سيلت	is asked	su-ilat
+7	81:8:4	e	۝٨				
+7	81:9:1	w	بِأَيِّ		باي	For what	bi-ayyi
+7	81:9:2	w	ذَنۢبࣲ		ذنب	sin	dhanbin
+7	81:9:3	w	قُتِلَتْ		قتلت	she was killed	qutilat
+7	81:9:4	e	۝٩				
+7	81:10:1	w	وَإِذَا		واذا	And when	wa-idhā
+7	81:10:2	w	ࡰ۬لصُّحُفُ		الصحف	the pages	l-ṣuḥufu
+7	81:10:3	w	نُشِرَتْ		نشرت	are laid open	nushirat
+7	81:10:4	e	۝١٠				
+7	81:11:1	w	وَإِذَا		واذا	And when	wa-idhā
+7	81:11:2	w	ࡰ۬لسَّمَآءُ		السما	the sky	l-samāu
+8	81:11:3	w	كُشِطَتْ		كشطت	is stripped away	kushiṭat
+8	81:11:4	e	۝١١				
+8	81:12:1	w	وَإِذَا		واذا	And when	wa-idhā
+8	81:12:2	w	ࡰ۬لْجَحِيمُ		الجحيم	the Hellfire	l-jaḥīmu
+8	81:12:3	w	سُعِّرَتْ		سعرت	is set ablaze	suʿʿirat
+8	81:12:4	e	۝١٢				
+8	81:13:1	w	وَإِذَا		واذا	And when	wa-idhā
+8	81:13:2	w	ࡰ۬لْجَنَّةُ		الجنة	Paradise	l-janatu
+8	81:13:3	w	أُزْلِفَتْ		ازلفت	is brought near	uz'lifat
+8	81:13:4	e	۝١٣				
+9	81:14:1	w	عَلِمَتْ		علمت	Will know	ʿalimat
+9	81:14:2	w	نَفْسࣱ		نفس	a soul	nafsun
+9	81:14:3	w	مَّآ		ما	what	mā
+9	81:14:4	w	أَحْضَرَتْ࣌		احضرت	it has brought	aḥḍarat
+9	81:14:5	e	۝١٤				
+9	81:15:1	w	فَلَآ		فلا	But nay	falā
+9	81:15:2	w	أُقْسِمُ		اقسم	I swear	uq'simu
+9	81:15:3	w	بِالْخُنَّسِ		بالخنس	by the retreating planets	bil-khunasi
+9	81:15:4	e	۝١٥				
+9	81:16:1	w	ࡴ۬لْجَوَارِ		الجوار	Those that run	al-jawāri
+10	81:16:2	w	ࡴ۬لْكُنَّسِ		الكنس	(and) disappear	l-kunasi
+10	81:16:3	e	۝١٦				
+10	81:17:1	w	وَاليْلِ		واليل	And the night	wa-al-layli
+10	81:17:2	w	إِذَا		اذا	when	idhā
+10	81:17:3	w	عَسْعَسَ		عسعس	it departs	ʿasʿasa
+10	81:17:4	e	۝١٧				
+10	81:18:1	w	وَالصُّبْحِ		والصبح	And the dawn	wal-ṣub'ḥi
+10	81:18:2	w	إِذَا		اذا	when	idhā
+10	81:18:3	w	تَنَفَّسَ		تنفس	it breathes	tanaffasa
+10	81:18:4	e	۝١٨				
+10	81:19:1	w	إِنَّهُۥ		انه	Indeed, it	innahu
+11	81:19:2	w	لَقَوْلُ		لقول	(is) surely a word	laqawlu
+11	81:19:3	w	رَسُولࣲ		رسول	(of) a Messenger	rasūlin
+11	81:19:4	w	كَرِيمࣲ		كريم	noble	karīmin
+11	81:19:5	e	۝١٩				
+11	81:20:1	w	ذِے		ذي	Possessor of	dhī
+11	81:20:2	w	قُوَّةٍ		قوة	power	quwwatin
+11	81:20:3	w	عِندَ		عند	with	ʿinda
+11	81:20:4	w	ذِے		ذي	(the) Owner of	dhī
+11	81:20:5	w	ࡴ۬لْعَرْشِ		العرش	the Throne	l-ʿarshi
+11	81:20:6	w	مَكِينࣲ		مكين	secure	makīnin
+11	81:20:7	e	۝٢٠				
+11	81:21:1	w	مُّطَاعࣲ		مطاع	One to be obeyed	muṭāʿin
+11	81:21:2	w	ثَمَّ		ثم	and	thamma
+12	81:21:3	w	أَمِينࣲ࣌		امين	trustworthy	amīnin
+12	81:21:4	e	۝٢١				
+12	81:22:1	w	وَمَا		وما	And not	wamā
+12	81:22:2	w	صَٰحِبُكُم		صحبكم	(is) your companion	ṣāḥibukum
+12	81:22:3	w	بِمَجْنُونࣲ࣌		بمجنون	mad	bimajnūnin
+12	81:22:4	e	۝٢٢				
+12	81:23:1	w	وَلَقَدْ		ولقد	And certainly	walaqad
+12	81:23:2	w	رٜءٜاهُ		راه	he saw him	raāhu
+12	81:23:3	w	بِالُافُقِ		بالافق	in the horizon	bil-ufuqi
+12	81:23:4	w	ࡴ۬لْمُبِينِ࣌		المبين	the clear	l-mubīni
+12	81:23:5	e	۝٢٣				
+13	81:24:1	w	وَمَا		وما	And not	wamā
+13	81:24:2	w	هُوَ		هو	he (is)	huwa
+13	81:24:3	w	عَلَى		علي	on	ʿalā
+13	81:24:4	w	ࡰ۬لْغَيْبِ		الغيب	the unseen	l-ghaybi
+13	81:24:5	w	بِضَنِينࣲ࣌		بضنين	a withholder	biḍanīnin
+13	81:24:6	e	۝٢٤				
+13	81:25:1	w	وَمَا		وما	And not	wamā
+13	81:25:2	w	هُوَ		هو	it	huwa
+13	81:25:3	w	بِقَوْلِ		بقول	(is the) word	biqawli
+13	81:25:4	w	شَيْطَٰنࣲ		شيطن	(of) Shaitaan	shayṭānin
+13	81:25:5	w	رَّجِيمࣲ		رجيم	accursed	rajīmin
+13	81:25:6	e	۝٢٥				
+14	81:26:1	w	فَأَيْنَ		فاين	So where	fa-ayna
+14	81:26:2	w	تَذْهَبُونَ࣌		تذهبون	are you going	tadhhabūna
+14	81:26:3	e	۝٢٦				
+14	81:27:1	w	إِنْ		ان	Not	in
+14	81:27:2	w	هُوَ		هو	it	huwa
+14	81:27:3	w	إِلَّا		الا	(is) except	illā
+14	81:27:4	w	ذِكْرࣱ		ذكر	a reminder	dhik'run
+14	81:27:5	w	لِّلْعَٰلَمِينَ		للعلمين	to the worlds	lil'ʿālamīna
+14	81:27:6	e	۝٢٧				
+14	81:28:1	w	لِمَن		لمن	For whoever	liman
+14	81:28:2	w	شَآءَ		شا	wills	shāa
+14	81:28:3	w	مِنكُمُۥٓ		منكم	among you	minkum
+15	81:28:4	w	أَنْ		ان	to	an
+15	81:28:5	w	يَّسْتَقِيمَ࣌		يستقيم	take a straight way	yastaqīma
+15	81:28:6	e	۝٢٨				
+15	81:29:1	w	وَمَا		وما	And not	wamā
+15	81:29:2	w	تَشَآءُونَ		تشاون	you will	tashāūna
+15	81:29:3	w	إِلَّآ		الا	except	illā
+15	81:29:4	w	أَنْ		ان	that	an
+15	81:29:5	w	يَّشَآءَ		يشا	wills	yashāa
+15	81:29:6	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+15	81:29:7	w	رَبُّ		رب	Lord	rabbu
+15	81:29:8	w	ࡲ۬لْعَٰلَمِينَ࣌		العلمين	(of) the worlds	l-ʿālamīna
+15	81:29:9	e	۝٢٩				

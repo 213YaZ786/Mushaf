@@ -1,0 +1,149 @@
+1	46:20:1	w	۞ وَاذْكُرَ		واذكر	And mention	wa-udh'kur
+1	46:20:2	w	ࡰخَا		اخا	(the) brother	akhā
+1	46:20:3	w	عَادٍ		عاد	(of) Aad	ʿādin
+1	46:20:4	w	ࡴذَ		اذ	when	idh
+1	46:20:5	w	ࡰنذَرَ		انذر	he warned	andhara
+1	46:20:6	w	قَوْمَهُۥ		قومه	his people	qawmahu
+1	46:20:7	w	بِالَاحْقَافِ		بالاحقاف	in the Al-Ahqaf	bil-aḥqāfi
+1	46:20:8	w	وَقَدْ		وقد	and had already passed away	waqad
+1	46:20:9	w	خَلَتِ		خلت	and had already passed away	khalati
+1	46:20:10	w	ࡴ۬لنُّذُرُ		النذر	[the] warners	l-nudhuru
+2	46:20:11	w	مِنۢ		من	before him	min
+2	46:20:12	w	بَيْنِ		بين	before him	bayni
+2	46:20:13	w	يَدَيْهِ		يديه	before him	yadayhi
+2	46:20:14	w	وَمِنْ		ومن	and after him	wamin
+2	46:20:15	w	خَلْفِهِۦٓ		خلفهي	and after him	khalfihi
+2	46:20:16	w	أَلَّا		الا	That not	allā
+2	46:20:17	w	تَعْبُدُوٓاْ		تعبدوا	you worship	taʿbudū
+2	46:20:18	w	إِلَّا		الا	except	illā
+2	46:20:19	w	ࡰ۬للَّهَ࣌		الله	Allah	l-laha
+2	46:20:20	w	إِنِّيَ		اني	Indeed, I	innī
+2	46:20:21	w	أَخَافُ		اخاف	[I] fear	akhāfu
+2	46:20:22	w	عَلَيْكُمْ		عليكم	for you	ʿalaykum
+3	46:20:23	w	عَذَابَ		عذاب	a punishment	ʿadhāba
+3	46:20:24	w	يَوْمٍ		يوم	(of) a Day	yawmin
+3	46:20:25	w	عَظِيمࣲ࣌		عظيم	Great	ʿaẓīmin
+3	46:20:26	e	۝٢٠				
+3	46:21:1	w	قَالُوٓاْ		قالوا	They said	qālū
+3	46:21:2	w	أَجِئْتَنَا		اجيتنا	Have you come to us	aji'tanā
+3	46:21:3	w	لِتَافِكَنَا		لتافكنا	to turn us away	litafikanā
+3	46:21:4	w	عَنَ		عن	from	ʿan
+3	46:21:5	w	اٰلِهَتِنَا		الهتنا	our gods	ālihatinā
+3	46:21:6	w	فَاتِنَا		فاتنا	Then bring us	fatinā
+4	46:21:7	w	بِمَا		بما	what	bimā
+4	46:21:8	w	تَعِدُنَآ		تعدنا	you threaten us	taʿidunā
+4	46:21:9	w	إِن		ان	if	in
+4	46:21:10	w	كُنتَ		كنت	you are	kunta
+4	46:21:11	w	مِنَ		من	of	mina
+4	46:21:12	w	ࡰ۬لصَّٰدِقِينَ࣌		الصدقين	the truthful	l-ṣādiqīna
+4	46:21:13	e	۝٢١				
+4	46:22:1	w	قَالَ		قال	He said	qāla
+4	46:22:2	w	إِنَّمَا		انما	Only	innamā
+4	46:22:3	w	ࡰ۬لْعِلْمُ		العلم	the knowledge	l-ʿil'mu
+4	46:22:4	w	عِندَ		عند	(is) with Allah	ʿinda
+4	46:22:5	w	ࡰ۬للَّهِ		الله	(is) with Allah	l-lahi
+5	46:22:6	w	وَأُبَلِّغُكُم		وابلغكم	and I convey to you	wa-uballighukum
+5	46:22:7	w	مَّآ		ما	what	mā
+5	46:22:8	w	أُرْسِلْتُ		ارسلت	I am sent	ur'sil'tu
+5	46:22:9	w	بِهِۦ		بهي	with it	bihi
+5	46:22:10	w	وَلَٰكِنِّيَ		ولكني	but	walākinnī
+5	46:22:11	w	أَرٜيٰكُمْ		اريكم	I see you	arākum
+5	46:22:12	w	قَوْماࣰ		قوما	a people	qawman
+5	46:22:13	w	تَجْهَلُونَ࣌		تجهلون	ignorant	tajhalūna
+5	46:22:14	e	۝٢٢				
+5	46:23:1	w	فَلَمَّا		فلما	Then when	falammā
+6	46:23:2	w	رَأَوْهُ		راوه	they saw it	ra-awhu
+6	46:23:3	w	عَارِضاࣰ		عارضا	(as) a cloud	ʿāriḍan
+6	46:23:4	w	مُّسْتَقْبِلَ		مستقبل	approaching	mus'taqbila
+6	46:23:5	w	أَوْدِيَتِهِمْ		اوديتهم	their valleys	awdiyatihim
+6	46:23:6	w	قَالُواْ		قالوا	they said	qālū
+6	46:23:7	w	هَٰذَا		هذا	This	hādhā
+6	46:23:8	w	عَارِضࣱ		عارض	(is) a cloud	ʿāriḍun
+6	46:23:9	w	مُّمْطِرُنَا࣌		ممطرنا	bringing us rain	mum'ṭirunā
+7	46:23:10	w	بَلْ		بل	Nay	bal
+7	46:23:11	w	هُوَ		هو	it	huwa
+7	46:23:12	w	مَا		ما	(is) what	mā
+7	46:23:13	w	ࡰٜسْتَعْجَلْتُم		استعجلتم	you were asking it to be hastened	is'taʿjaltum
+7	46:23:14	w	بِهِۦ࣌		بهي	you were asking it to be hastened	bihi
+7	46:23:15	w	رِيحࣱ		ريح	a wind	rīḥun
+7	46:23:16	w	فِيهَا		فيها	in it	fīhā
+7	46:23:17	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+7	46:23:18	w	ࡰلِيمࣱ࣌		اليم	painful	alīmun
+7	46:23:19	e	۝٢٣				
+7	46:24:1	w	تُدَمِّرُ		تدمر	Destroying	tudammiru
+7	46:24:2	w	كُلَّ		كل	every	kulla
+8	46:24:3	w	شَےْءِۢ		شي	thing	shayin
+8	46:24:4	w	بِأَمْرِ		بامر	by (the) command	bi-amri
+8	46:24:5	w	رَبِّهَا࣌		ربها	(of) its Lord	rabbihā
+8	46:24:6	w	فَأَصْبَحُواْ		فاصبحوا	Then they became (such)	fa-aṣbaḥū
+8	46:24:7	w	لَا		لا	not	lā
+8	46:24:8	w	تَرٜىٰٓ		تري	is seen	yurā
+8	46:24:9	w	إِلَّا		الا	except	illā
+8	46:24:10	w	مَسَٰكِنَهُمْ࣌		مسكنهم	their dwellings	masākinuhum
+8	46:24:11	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+8	46:24:12	w	نَجْزِے		نجزي	We recompense	najzī
+9	46:24:13	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+9	46:24:14	w	ࡰ۬لْمُجْرِمِينَ࣌		المجرمين	[the] criminals	l-muj'rimīna
+9	46:24:15	e	۝٢٤				
+9	46:25:1	w	وَلَقَدْ		ولقد	And certainly	walaqad
+9	46:25:2	w	مَكَّنَّٰهُمْ		مكنهم	We had established them	makkannāhum
+9	46:25:3	w	فِيمَآ		فيما	in what	fīmā
+9	46:25:4	w	إِن		ان	not	in
+9	46:25:5	w	مَّكَّنَّٰكُمْ		مكنكم	We have established you	makkannākum
+9	46:25:6	w	فِيهِ		فيه	in it	fīhi
+10	46:25:7	w	وَجَعَلْنَا		وجعلنا	and We made	wajaʿalnā
+10	46:25:8	w	لَهُمْ		لهم	for them	lahum
+10	46:25:9	w	سَمْعاࣰ		سمعا	hearing	samʿan
+10	46:25:10	w	وَأَبْصَٰراࣰ		وابصرا	and vision	wa-abṣāran
+10	46:25:11	w	وَأَفْـِٕدَةࣰ࣌		وافدة	and hearts	wa-afidatan
+10	46:25:12	w	فَمَآ		فما	But not	famā
+10	46:25:13	w	أَغْنٜىٰ		اغني	availed	aghnā
+10	46:25:14	w	عَنْهُمْ		عنهم	them	ʿanhum
+10	46:25:15	w	سَمْعُهُمْ		سمعهم	their hearing	samʿuhum
+11	46:25:16	w	وَلَآ		ولا	and not	walā
+11	46:25:17	w	أَبْصَٰرُهُمْ		ابصرهم	their vision	abṣāruhum
+11	46:25:18	w	وَلَآ		ولا	and not	walā
+11	46:25:19	w	أَفْـِٕدَتُهُم		افدتهم	their hearts	afidatuhum
+11	46:25:20	w	مِّن		من	any	min
+11	46:25:21	w	شَےْءٍ		شي	thing	shayin
+11	46:25:22	w	ࡴذْ		اذ	when	idh
+11	46:25:23	w	كَانُواْ		كانوا	they were	kānū
+11	46:25:24	w	يَجْحَدُونَ		يجحدون	rejecting	yajḥadūna
+11	46:25:25	w	بِـَٔايَٰتِ		بايت	(the) Signs	biāyāti
+12	46:25:26	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+12	46:25:27	w	وَحَاقَ		وحاق	and enveloped	waḥāqa
+12	46:25:28	w	بِهِم		بهم	them	bihim
+12	46:25:29	w	مَّا		ما	what	mā
+12	46:25:30	w	كَانُواْ		كانوا	they used to	kānū
+12	46:25:31	w	بِهِۦ		بهي	[at it]	bihi
+12	46:25:32	w	يَسْتَهْزِءُونَ࣌		يستهزون	ridicule	yastahziūna
+12	46:25:33	e	۝٢٥				
+12	46:26:1	w	وَلَقَدَ		ولقد	And certainly	walaqad
+12	46:26:2	w	ࡰهْلَكْنَا		اهلكنا	We destroyed	ahlaknā
+13	46:26:3	w	مَا		ما	what	mā
+13	46:26:4	w	حَوْلَكُم		حولكم	surrounds you	ḥawlakum
+13	46:26:5	w	مِّنَ		من	of	mina
+13	46:26:6	w	ࡰ۬لْقُرٜىٰ		القري	the towns	l-qurā
+13	46:26:7	w	وَصَرَّفْنَا		وصرفنا	and We have diversified	waṣarrafnā
+13	46:26:8	w	ࡰ۬لَايَٰتِ		الايت	the Signs	l-āyāti
+13	46:26:9	w	لَعَلَّهُمْ		لعلهم	that they may	laʿallahum
+13	46:26:10	w	يَرْجِعُونَ࣌		يرجعون	return	yarjiʿūna
+13	46:26:11	e	۝٢٦				
+14	46:27:1	w	فَلَوْلَا		فلولا	Then why (did) not	falawlā
+14	46:27:2	w	نَصَرَهُمُ		نصرهم	help them	naṣarahumu
+14	46:27:3	w	ࡲ۬لذِينَ		الذين	those whom	alladhīna
+14	46:27:4	w	ࡰٜتَّخَذُواْ		اتخذوا	they had taken	ittakhadhū
+14	46:27:5	w	مِن		من	besides	min
+14	46:27:6	w	دُونِ		دون	besides	dūni
+14	46:27:7	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+14	46:27:8	w	قُرْبَاناً		قربانا	gods as a way of approach	qur'bānan
+14	46:27:9	w	اٰلِهَةَۢ࣌		الهة	gods as a way of approach	ālihatan
+15	46:27:10	w	بَلْ		بل	Nay	bal
+15	46:27:11	w	ضَلُّواْ		ضلوا	they were lost	ḍallū
+15	46:27:12	w	عَنْهُمْ࣌		عنهم	from them	ʿanhum
+15	46:27:13	w	وَذَٰلِكَ		وذلك	And that	wadhālika
+15	46:27:14	w	إِفْكُهُمْ		افكهم	(was) their falsehood	if'kuhum
+15	46:27:15	w	وَمَا		وما	and what	wamā
+15	46:27:16	w	كَانُواْ		كانوا	they were	kānū
+15	46:27:17	w	يَفْتَرُونَ࣌		يفترون	inventing	yaftarūna
+15	46:27:18	e	۝٢٧				

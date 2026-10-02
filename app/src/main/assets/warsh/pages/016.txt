@@ -1,0 +1,127 @@
+1	2:101:1	w	وَاتَّبَعُواْ		واتبعوا	And they followed	wa-ittabaʿū
+1	2:101:2	w	مَا		ما	what	mā
+1	2:101:3	w	تَتْلُواْ		تتلوا	recite(d)	tatlū
+1	2:101:4	w	ࡲ۬لشَّيَٰطِينُ		الشيطين	the devils	l-shayāṭīnu
+1	2:101:5	w	عَلَىٰ		علي	over	ʿalā
+1	2:101:6	w	مُلْكِ		ملك	(the) kingdom	mul'ki
+1	2:101:7	w	سُلَيْمَٰنَ࣌		سليمن	(of) Sulaiman	sulaymāna
+1	2:101:8	w	وَمَا		وما	And not	wamā
+1	2:101:9	w	كَفَرَ		كفر	disbelieved	kafara
+2	2:101:10	w	سُلَيْمَٰنُ࣌		سليمن	Sulaiman	sulaymānu
+2	2:101:11	w	وَلَٰكِنَّ		ولكن	[and] but	walākinna
+2	2:101:12	w	ࡰ۬لشَّيَٰطِينَ		الشيطين	the devils	l-shayāṭīna
+2	2:101:13	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+2	2:101:14	w	يُعَلِّمُونَ		يعلمون	they teach	yuʿallimūna
+2	2:101:15	w	ࡰ۬لنَّاسَ		الناس	the people	l-nāsa
+3	2:101:16	w	ࡰ۬لسِّحْرَ		السحر	[the] magic	l-siḥ'ra
+3	2:101:17	w	وَمَآ		وما	and what	wamā
+3	2:101:18	w	أُنزِلَ		انزل	was sent down	unzila
+3	2:101:19	w	عَلَى		علي	to	ʿalā
+3	2:101:20	w	ࡰ۬لْمَلَكَيْنِ		الملكين	the two angels	l-malakayni
+3	2:101:21	w	بِبَابِلَ		ببابل	in Babylon	bibābila
+3	2:101:22	w	هَارُوتَ		هاروت	Harut	hārūta
+3	2:101:23	w	وَمَارُوتَ࣌		وماروت	and Marut	wamārūta
+4	2:101:24	w	وَمَا		وما	And not	wamā
+4	2:101:25	w	يُعَلِّمَٰنِ		يعلمن	they both teach	yuʿallimāni
+4	2:101:26	w	مِنَ		من	any	min
+4	2:101:27	w	ࡰحَدٍ		احد	one	aḥadin
+4	2:101:28	w	حَتَّىٰ		حتي	unless	ḥattā
+4	2:101:29	w	يَقُولَآ		يقولا	they [both] say	yaqūlā
+4	2:101:30	w	إِنَّمَا		انما	Only	innamā
+4	2:101:31	w	نَحْنُ		نحن	we	naḥnu
+4	2:101:32	w	فِتْنَةࣱ		فتنة	(are) a trial	fit'natun
+4	2:101:33	w	فَلَا		فلا	so (do) not	falā
+5	2:101:34	w	تَكْفُرْ࣌		تكفر	disbelieve	takfur
+5	2:101:35	w	فَيَتَعَلَّمُونَ		فيتعلمون	But they learn	fayataʿallamūna
+5	2:101:36	w	مِنْهُمَا		منهما	from those two	min'humā
+5	2:101:37	w	مَا		ما	what	mā
+5	2:101:38	w	يُفَرِّقُونَ		يفرقون	[they] causes separation	yufarriqūna
+5	2:101:39	w	بِهِۦ		بهي	with it	bihi
+5	2:101:40	w	بَيْنَ		بين	between	bayna
+5	2:101:41	w	ࡰ۬لْمَرْءِ		المر	the man	l-mari
+6	2:101:42	w	وَزَوْجِهِۦ࣌		وزوجهي	and his spouse	wazawjihi
+6	2:101:43	w	وَمَا		وما	And not	wamā
+6	2:101:44	w	هُم		هم	they (could)	hum
+6	2:101:45	w	بِضَآرِّينَ		بضارين	at all [be those who] harm	biḍārrīna
+6	2:101:46	w	بِهِۦ		بهي	with it	bihi
+6	2:101:47	w	مِنَ		من	any	min
+6	2:101:48	w	ࡰحَدٍ		احد	one	aḥadin
+6	2:101:49	w	ࡴلَّا		الا	except	illā
+6	2:101:50	w	بِإِذْنِ		باذن	by permission	bi-idh'ni
+6	2:101:51	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+7	2:101:52	w	وَيَتَعَلَّمُونَ		ويتعلمون	And they learn	wayataʿallamūna
+7	2:101:53	w	مَا		ما	what	mā
+7	2:101:54	w	يَضُرُّهُمْ		يضرهم	harms them	yaḍurruhum
+7	2:101:55	w	وَلَا		ولا	and not	walā
+7	2:101:56	w	يَنفَعُهُمْ࣌		ينفعهم	profits them	yanfaʿuhum
+7	2:101:57	w	وَلَقَدْ		ولقد	And indeed	walaqad
+7	2:101:58	w	عَلِمُواْ		علموا	they knew	ʿalimū
+7	2:101:59	w	لَمَنِ		لمن	that whoever	lamani
+8	2:101:60	w	ࡴٜشْتَرٜيٰهُ		اشتريه	buys it	ish'tarāhu
+8	2:101:61	w	مَا		ما	not	mā
+8	2:101:62	w	لَهُۥ		له	for him	lahu
+8	2:101:63	w	فِے		في	in	fī
+8	2:101:64	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+8	2:101:65	w	مِنْ		من	any	min
+8	2:101:66	w	خَلَٰقࣲ࣌		خلق	share	khalāqin
+8	2:101:67	w	وَلَبِيسَ		ولبيس	And surely evil	walabi'sa
+8	2:101:68	w	مَا		ما	(is) what	mā
+8	2:101:69	w	شَرَوْاْ		شروا	they sold	sharaw
+8	2:101:70	w	بِهِۦٓ		بهي	with it	bihi
+9	2:101:71	w	أَنفُسَهُمْ		انفسهم	themselves	anfusahum
+9	2:101:72	w	لَوْ		لو	if	law
+9	2:101:73	w	كَانُواْ		كانوا	they were	kānū
+9	2:101:74	w	يَعْلَمُونَ࣌		يعلمون	(to) know	yaʿlamūna
+9	2:101:75	e	۝١٠١				
+9	2:102:1	w	وَلَوَ		ولو	And if	walaw
+9	2:102:2	w	ࡰنَّهُمُۥٓ		انهم	[that] they	annahum
+9	2:102:3	w	ءَامَنُواْ		امنوا	(had) believed	āmanū
+9	2:102:4	w	وَاتَّقَوْاْ		واتقوا	and feared (Allah)	wa-ittaqaw
+10	2:102:5	w	لَمَثُوبَةࣱ		لمثوبة	surely (the) reward	lamathūbatun
+10	2:102:6	w	مِّنْ		من	(of)	min
+10	2:102:7	w	عِندِ		عند	from	ʿindi
+10	2:102:8	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+10	2:102:9	w	خَيْرࣱ		خير	(would have been) better	khayrun
+10	2:102:10	w	لَّوْ		لو	if	law
+10	2:102:11	w	كَانُواْ		كانوا	they were	kānū
+10	2:102:12	w	يَعْلَمُونَ࣌		يعلمون	(to) know	yaʿlamūna
+10	2:102:13	e	۝١٠٢				
+11	2:103:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+11	2:103:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+11	2:103:3	w	ءَامَنُواْ		امنوا	believe[d]	āmanū
+11	2:103:4	w	لَا		لا	(Do) not	lā
+11	2:103:5	w	تَقُولُواْ		تقولوا	say	taqūlū
+11	2:103:6	w	رَٰعِنَا		رعنا	Raina	rāʿinā
+11	2:103:7	w	وَقُولُواْ		وقولوا	and say	waqūlū
+11	2:103:8	w	ࡲ࢈نظُرْنَا		انظرنا	Unzurna	unẓur'nā
+12	2:103:9	w	وَاسْمَعُواْ࣌		واسمعوا	and listen	wa-is'maʿū
+12	2:103:10	w	وَلِلْكٜـٰفِرِينَ		وللكفرين	And for the disbelievers	walil'kāfirīna
+12	2:103:11	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+12	2:103:12	w	ࡰلِيمࣱ࣌		اليم	painful	alīmun
+12	2:103:13	e	۝١٠٣				
+12	2:104:1	w	مَّا		ما	(Do) not	mā
+12	2:104:2	w	يَوَدُّ		يود	like	yawaddu
+13	2:104:3	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+13	2:104:4	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+13	2:104:5	w	مِنَ		من	from	min
+13	2:104:6	w	ࡰهْلِ		اهل	(the) People	ahli
+13	2:104:7	w	ࡴ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+13	2:104:8	w	وَلَا		ولا	and not	walā
+13	2:104:9	w	ࡰ۬لْمُشْرِكِينَ		المشركين	those who associate partners (with Allah)	l-mush'rikīna
+14	2:104:10	w	أَنْ		ان	that	an
+14	2:104:11	w	يُّنَزَّلَ		ينزل	(there should) be sent down	yunazzala
+14	2:104:12	w	عَلَيْكُم		عليكم	to you	ʿalaykum
+14	2:104:13	w	مِّنْ		من	any	min
+14	2:104:14	w	خَيْرࣲ		خير	good	khayrin
+14	2:104:15	w	مِّن		من	from	min
+14	2:104:16	w	رَّبِّكُمْ࣌		ربكم	your Lord	rabbikum
+14	2:104:17	w	وَاللَّهُ		والله	And Allah	wal-lahu
+14	2:104:18	w	يَخْتَصُّ		يختص	chooses	yakhtaṣṣu
+15	2:104:19	w	بِرَحْمَتِهِۦ		برحمتهي	for His Mercy	biraḥmatihi
+15	2:104:20	w	مَنْ		من	whom	man
+15	2:104:21	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+15	2:104:22	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	2:104:23	w	ذُو		ذو	(is the) Possessor	dhū
+15	2:104:24	w	ࡲ۬لْفَضْلِ		الفضل	(of) [the] Bounty	l-faḍli
+15	2:104:25	w	ࡴ۬لْعَظِيمِ࣌		العظيم	[the] Great	l-ʿaẓīmi
+15	2:104:26	e	۝١٠٤				

@@ -1,0 +1,135 @@
+1	22:16:1	w	وَكَذَٰلِكَ		وكذلك	And thus	wakadhālika
+1	22:16:2	w	أَنزَلْنَٰهُ		انزلنه	We sent it down	anzalnāhu
+1	22:16:3	w	ءَايَٰتِۢ		ايت	(as) clear Verses	āyātin
+1	22:16:4	w	بَيِّنَٰتࣲ࣌		بينت	(as) clear Verses	bayyinātin
+1	22:16:5	w	وَأَنَّ		وان	and that	wa-anna
+1	22:16:6	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	22:16:7	w	يَهْدِے		يهدي	guides	yahdī
+1	22:16:8	w	مَنْ		من	whom	man
+1	22:16:9	w	يُّرِيدُ࣌		يريد	He intends	yurīdu
+1	22:16:10	e	۝١٦				
+2	22:17:1	w	إِنَّ		ان	Indeed	inna
+2	22:17:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+2	22:17:3	w	ءَامَنُواْ		امنوا	have believed	āmanū
+2	22:17:4	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+2	22:17:5	w	هَادُواْ		هادوا	were Jews	hādū
+2	22:17:6	w	وَالصَّٰبِينَ		والصبين	and the Sabians	wal-ṣābiīna
+2	22:17:7	w	وَالنَّصَٰرٜىٰ		والنصري	and the Christians	wal-naṣārā
+3	22:17:8	w	وَالْمَجُوسَ		والمجوس	and the Magians	wal-majūsa
+3	22:17:9	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+3	22:17:10	w	أَشْرَكُوٓاْ		اشركوا	(are) polytheists	ashrakū
+3	22:17:11	w	إِنَّ		ان	indeed	inna
+3	22:17:12	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+3	22:17:13	w	يَفْصِلُ		يفصل	will judge	yafṣilu
+3	22:17:14	w	بَيْنَهُمْ		بينهم	between them	baynahum
+3	22:17:15	w	يَوْمَ		يوم	(on) the Day	yawma
+4	22:17:16	w	ࡰ۬لْقِيَٰمَةِ࣌		القيمة	(of) the Resurrection	l-qiyāmati
+4	22:17:17	w	إِنَّ		ان	Indeed	inna
+4	22:17:18	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	22:17:19	w	عَلَىٰ		علي	over	ʿalā
+4	22:17:20	w	كُلِّ		كل	every	kulli
+4	22:17:21	w	شَےْءࣲ		شي	thing	shayin
+4	22:17:22	w	شَهِيدٌ࣌		شهيد	(is) a Witness	shahīdun
+4	22:17:23	e	۝١٧				
+4	22:18:1	w	ࡰلَمْ		الم	Do not	alam
+4	22:18:2	w	تَرَ		تر	you see	tara
+4	22:18:3	w	أَنَّ		ان	that	anna
+4	22:18:4	w	ࡰ۬للَّهَ		الله	(to) Allah	l-laha
+5	22:18:5	w	يَسْجُدُ		يسجد	prostrates	yasjudu
+5	22:18:6	w	لَهُۥ		له	to Him	lahu
+5	22:18:7	w	مَن		من	whoever	man
+5	22:18:8	w	فِے		في	(is) in	fī
+5	22:18:9	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+5	22:18:10	w	وَمَن		ومن	and whoever	waman
+5	22:18:11	w	فِے		في	(is) in	fī
+5	22:18:12	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+5	22:18:13	w	وَالشَّمْسُ		والشمس	and the sun	wal-shamsu
+6	22:18:14	w	وَالْقَمَرُ		والقمر	and the moon	wal-qamaru
+6	22:18:15	w	وَالنُّجُومُ		والنجوم	and the stars	wal-nujūmu
+6	22:18:16	w	وَالْجِبَالُ		والجبال	and the mountains	wal-jibālu
+6	22:18:17	w	وَالشَّجَرُ		والشجر	and the trees	wal-shajaru
+6	22:18:18	w	وَالدَّوَآبُّ		والدواب	and the moving creatures	wal-dawābu
+6	22:18:19	w	وَكَثِيرࣱ		وكثير	and many	wakathīrun
+6	22:18:20	w	مِّنَ		من	of	mina
+7	22:18:21	w	ࡰ۬لنَّاسِ࣌		الناس	the people	l-nāsi
+7	22:18:22	w	وَكَثِيرٌ		وكثير	But many	wakathīrun
+7	22:18:23	w	حَقَّ		حق	(is) justly due	ḥaqqa
+7	22:18:24	w	عَلَيْهِ		عليه	on him	ʿalayhi
+7	22:18:25	w	ࡴ۬لْعَذَابُ࣌		العذاب	the punishment	l-ʿadhābu
+7	22:18:26	w	وَمَنْ		ومن	And whoever	waman
+7	22:18:27	w	يُّهِنِ		يهن	Allah humiliates	yuhini
+7	22:18:28	w	ࡴ۬للَّهُ		الله	Allah humiliates	l-lahu
+7	22:18:29	w	فَمَا		فما	then not	famā
+7	22:18:30	w	لَهُۥ		له	for him	lahu
+8	22:18:31	w	مِن		من	any	min
+8	22:18:32	w	مُّكْرِمٍ࣌		مكرم	bestower of honor	muk'rimin
+8	22:18:33	w	ࡴنَّ		ان	Indeed	inna
+8	22:18:34	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+8	22:18:35	w	يَفْعَلُ		يفعل	does	yafʿalu
+8	22:18:36	w	مَا		ما	what	mā
+8	22:18:37	w	يَشَآءُ۩࣌		يشا	He wills	yashāu
+8	22:18:38	e	۝١٨				
+8	22:19:1	w	۞ هَٰذَٰنِ		هذن	These two	hādhāni
+8	22:19:2	w	خَصْمَٰنِ		خصمن	opponents	khaṣmāni
+9	22:19:3	w	ࡴٜخْتَصَمُواْ		اختصموا	dispute	ikh'taṣamū
+9	22:19:4	w	فِے		في	concerning	fī
+9	22:19:5	w	رَبِّهِمْ࣌		ربهم	their Lord	rabbihim
+9	22:19:6	w	فَالذِينَ		فالذين	But those who	fa-alladhīna
+9	22:19:7	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+9	22:19:8	w	قُطِّعَتْ		قطعت	will be cut out	quṭṭiʿat
+9	22:19:9	w	لَهُمْ		لهم	for them	lahum
+9	22:19:10	w	ثِيَابࣱ		ثياب	garments	thiyābun
+10	22:19:11	w	مِّن		من	of	min
+10	22:19:12	w	نّٜارࣲ		نار	fire	nārin
+10	22:19:13	w	يُصَبُّ		يصب	Will be poured	yuṣabbu
+10	22:19:14	w	مِن		من	over	min
+10	22:19:15	w	فَوْقِ		فوق	over	fawqi
+10	22:19:16	w	رُءُوسِهِمُ		روسهم	their heads	ruūsihimu
+10	22:19:17	w	ࡲ۬لْحَمِيمُ		الحميم	[the] scalding water	l-ḥamīmu
+10	22:19:18	w	يُصْهَرُ		يصهر	Will be melted	yuṣ'haru
+10	22:19:19	w	بِهِۦ		بهي	with it	bihi
+10	22:19:20	w	مَا		ما	what	mā
+11	22:19:21	w	فِے		في	(is) in	fī
+11	22:19:22	w	بُطُونِهِمْ		بطونهم	their bellies	buṭūnihim
+11	22:19:23	w	وَالْجُلُودُ࣌		والجلود	and the skins	wal-julūdu
+11	22:19:24	w	وَلَهُم		ولهم	And for them	walahum
+11	22:19:25	w	مَّقَٰمِعُ		مقمع	(are) hooked rods	maqāmiʿu
+11	22:19:26	w	مِنْ		من	of	min
+11	22:19:27	w	حَدِيدࣲ࣌		حديد	iron	ḥadīdin
+11	22:19:28	e	۝١٩				
+11	22:20:1	w	كُلَّمَآ		كلما	Every time	kullamā
+12	22:20:2	w	أَرَادُوٓاْ		ارادوا	they want	arādū
+12	22:20:3	w	أَنْ		ان	to	an
+12	22:20:4	w	يَّخْرُجُواْ		يخرجوا	come out	yakhrujū
+12	22:20:5	w	مِنْهَا		منها	from it	min'hā
+12	22:20:6	w	مِنْ		من	from	min
+12	22:20:7	w	غَمٍّ		غم	anguish	ghammin
+12	22:20:8	w	ࡳعِيدُواْ		اعيدوا	they will be returned	uʿīdū
+12	22:20:9	w	فِيهَا࣌		فيها	therein	fīhā
+12	22:20:10	w	وَذُوقُواْ		وذوقوا	Taste	wadhūqū
+12	22:20:11	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+13	22:20:12	w	ࡰ۬لْحَرِيقِ࣌		الحريق	(of) the Burning Fire	l-ḥarīqi
+13	22:20:13	e	۝٢٠				
+13	22:21:1	w	إِنَّ		ان	Indeed	inna
+13	22:21:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+13	22:21:3	w	يُدْخِلُ		يدخل	will admit	yud'khilu
+13	22:21:4	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+13	22:21:5	w	ءَامَنُواْ		امنوا	believe	āmanū
+13	22:21:6	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+13	22:21:7	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	the righteous deeds	l-ṣāliḥāti
+14	22:21:8	w	جَنَّٰتࣲ		جنت	(to) Gardens	jannātin
+14	22:21:9	w	تَجْرِے		تجري	flow	tajrī
+14	22:21:10	w	مِن		من	from	min
+14	22:21:11	w	تَحْتِهَا		تحتها	underneath it	taḥtihā
+14	22:21:12	w	ࡰ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+14	22:21:13	w	يُحَلَّوْنَ		يحلون	They will be adorned	yuḥallawna
+14	22:21:14	w	فِيهَا		فيها	therein	fīhā
+14	22:21:15	w	مِنَ		من	with	min
+15	22:21:16	w	ࡰسَاوِرَ		اساور	bracelets	asāwira
+15	22:21:17	w	مِن		من	of	min
+15	22:21:18	w	ذَهَبࣲ		ذهب	gold	dhahabin
+15	22:21:19	w	وَلُؤْلُؤاࣰ࣌		ولولوا	and pearl	walu'lu-an
+15	22:21:20	w	وَلِبَاسُهُمْ		ولباسهم	and their garments	walibāsuhum
+15	22:21:21	w	فِيهَا		فيها	therein	fīhā
+15	22:21:22	w	حَرِيرࣱ࣌		حرير	(will be of) silk	ḥarīrun
+15	22:21:23	e	۝٢١				

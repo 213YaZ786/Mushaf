@@ -1,0 +1,113 @@
+1	5:15:1	w	وَمِنَ		ومن	And from	wamina
+1	5:15:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	5:15:3	w	قَالُوٓاْ		قالوا	said	qālū
+1	5:15:4	w	إِنَّا		انا	Indeed we	innā
+1	5:15:5	w	نَصَٰرٜىٰٓ		نصري	(are) Christians	naṣārā
+1	5:15:6	w	أَخَذْنَا		اخذنا	We took	akhadhnā
+1	5:15:7	w	مِيثَٰقَهُمْ		ميثقهم	their covenant	mīthāqahum
+1	5:15:8	w	فَنَسُواْ		فنسوا	but they forgot	fanasū
+2	5:15:9	w	حَظّاࣰ		حظا	a part	ḥaẓẓan
+2	5:15:10	w	مِّمَّا		مما	of what	mimmā
+2	5:15:11	w	ذُكِّرُواْ		ذكروا	they were reminded	dhukkirū
+2	5:15:12	w	بِهِۦ		بهي	of [it]	bihi
+2	5:15:13	w	فَأَغْرَيْنَا		فاغرينا	So We aroused	fa-aghraynā
+2	5:15:14	w	بَيْنَهُمُ		بينهم	between them	baynahumu
+2	5:15:15	w	ࡲ۬لْعَدَٰوَةَ		العدوة	[the] enmity	l-ʿadāwata
+3	5:15:16	w	وَالْبَغْضَآءَ		والبغضا	and [the] hatred	wal-baghḍāa
+3	5:15:17	w	ࡹلَىٰ		الي	till	ilā
+3	5:15:18	w	يَوْمِ		يوم	(the) Day	yawmi
+3	5:15:19	w	ࡴ۬لْقِيَٰمَةِ࣌		القيمة	(of) the Resurrection	l-qiyāmati
+3	5:15:20	w	وَسَوْفَ		وسوف	And soon	wasawfa
+3	5:15:21	w	يُنَبِّئُهُمُ		ينبيهم	will inform them	yunabbi-uhumu
+3	5:15:22	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+4	5:15:23	w	بِمَا		بما	of what	bimā
+4	5:15:24	w	كَانُواْ		كانوا	they used to	kānū
+4	5:15:25	w	يَصْنَعُونَ࣌		يصنعون	do	yaṣnaʿūna
+4	5:15:26	e	۝١٥				
+4	5:16:1	w	يَٰٓأَهْلَ		ياهل	O People	yāahla
+4	5:16:2	w	ࡰ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+4	5:16:3	w	قَدْ		قد	Surely	qad
+5	5:16:4	w	جَآءَكُمْ		جاكم	has come to you	jāakum
+5	5:16:5	w	رَسُولُنَا		رسولنا	Our Messenger	rasūlunā
+5	5:16:6	w	يُبَيِّنُ		يبين	making clear	yubayyinu
+5	5:16:7	w	لَكُمْ		لكم	to you	lakum
+5	5:16:8	w	كَثِيراࣰ		كثيرا	much	kathīran
+5	5:16:9	w	مِّمَّا		مما	of what	mimmā
+6	5:16:10	w	كُنتُمْ		كنتم	you used to	kuntum
+6	5:16:11	w	تُخْفُونَ		تخفون	conceal	tukh'fūna
+6	5:16:12	w	مِنَ		من	of	mina
+6	5:16:13	w	ࡰ۬لْكِتَٰبِ		الكتب	the Scripture	l-kitābi
+6	5:16:14	w	وَيَعْفُواْ		ويعفوا	and overlooking	wayaʿfū
+6	5:16:15	w	عَن		عن	of	ʿan
+6	5:16:16	w	كَثِيرࣲ࣌		كثير	much	kathīrin
+6	5:16:17	e	۝١٦				
+7	5:17:1	w	قَدْ		قد	Surely	qad
+7	5:17:2	w	جَآءَكُم		جاكم	has come to you	jāakum
+7	5:17:3	w	مِّنَ		من	from	mina
+7	5:17:4	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	5:17:5	w	نُورࣱ		نور	a light	nūrun
+7	5:17:6	w	وَكِتَٰبࣱ		وكتب	and a Book	wakitābun
+7	5:17:7	w	مُّبِينࣱ		مبين	clear	mubīnun
+7	5:17:8	e	۝١٧				
+8	5:18:1	w	يَهْدِے		يهدي	Guides	yahdī
+8	5:18:2	w	بِهِ		به	with it	bihi
+8	5:18:3	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+8	5:18:4	w	مَنِ		من	(those) who	mani
+8	5:18:5	w	ࡴٜتَّبَعَ		اتبع	seek	ittabaʿa
+8	5:18:6	w	رِضْوَٰنَهُۥ		رضونه	His pleasure	riḍ'wānahu
+8	5:18:7	w	سُبُلَ		سبل	(to the) ways	subula
+8	5:18:8	w	ࡰ۬لسَّلَٰمِ࣌		السلم	(of) the peace	l-salāmi
+9	5:18:9	w	وَيُخْرِجُهُم		ويخرجهم	and brings them out	wayukh'rijuhum
+9	5:18:10	w	مِّنَ		من	from	mina
+9	5:18:11	w	ࡰ۬لظُّلُمَٰتِ		الظلمت	the darknessess	l-ẓulumāti
+9	5:18:12	w	إِلَى		الي	to	ilā
+9	5:18:13	w	ࡰ۬لنُّورِ		النور	the light	l-nūri
+9	5:18:14	w	بِإِذْنِهِۦ࣌		باذنهي	by His permission	bi-idh'nihi
+10	5:18:15	w	وَيَهْدِيهِمُۥٓ		ويهديهم	and guides them	wayahdīhim
+10	5:18:16	w	إِلَىٰ		الي	to	ilā
+10	5:18:17	w	صِرَٰطࣲ		صرط	(the) way	ṣirāṭin
+10	5:18:18	w	مُّسْتَقِيمࣲ࣌		مستقيم	(the) straight	mus'taqīmin
+10	5:18:19	e	۝١٨				
+10	5:19:1	w	۞ لَّقَدْ		لقد	Certainly	laqad
+10	5:19:2	w	كَفَرَ		كفر	disbelieved	kafara
+11	5:19:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	5:19:4	w	قَالُوٓاْ		قالوا	said	qālū
+11	5:19:5	w	إِنَّ		ان	Indeed	inna
+11	5:19:6	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	5:19:7	w	هُوَ		هو	He	huwa
+11	5:19:8	w	ࡰ۬لْمَسِيحُ		المسيح	(is) the Messiah	l-masīḥu
+11	5:19:9	w	ࡲٜبْنُ		ابن	son	ub'nu
+11	5:19:10	w	مَرْيَمَ࣌		مريم	(of) Maryam	maryama
+12	5:19:11	w	قُلْ		قل	Say	qul
+12	5:19:12	w	فَمَنْ		فمن	Then who	faman
+12	5:19:13	w	يَّمْلِكُ		يملك	has power	yamliku
+12	5:19:14	w	مِنَ		من	against	mina
+12	5:19:15	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+12	5:19:16	w	شَيْـٔاً		شيا	(in) anything	shayan
+12	5:19:17	w	ࡴنَ		ان	if	in
+12	5:19:18	w	ࡰرَادَ		اراد	He intends	arāda
+12	5:19:19	w	أَنْ		ان	to	an
+12	5:19:20	w	يُّهْلِكَ		يهلك	destroy	yuh'lika
+13	5:19:21	w	ࡰ۬لْمَسِيحَ		المسيح	the Messiah	l-masīḥa
+13	5:19:22	w	ࡰٜبْنَ		ابن	son	ib'na
+13	5:19:23	w	مَرْيَمَ		مريم	(of) Maryam	maryama
+13	5:19:24	w	وَأُمَّهُۥ		وامه	and his mother	wa-ummahu
+13	5:19:25	w	وَمَن		ومن	and whoever	waman
+13	5:19:26	w	فِے		في	(is) in	fī
+13	5:19:27	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+14	5:19:28	w	جَمِيعاࣰ࣌		جميعا	all	jamīʿan
+14	5:19:29	w	وَلِلهِ		ولله	And for Allah	walillahi
+14	5:19:30	w	مُلْكُ		ملك	(is the) dominion	mul'ku
+14	5:19:31	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+14	5:19:32	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+14	5:19:33	w	وَمَا		وما	and what	wamā
+14	5:19:34	w	بَيْنَهُمَا࣌		بينهما	(is) between both of them	baynahumā
+15	5:19:35	w	يَخْلُقُ		يخلق	He creates	yakhluqu
+15	5:19:36	w	مَا		ما	what	mā
+15	5:19:37	w	يَشَآءُ࣌		يشا	He wills	yashāu
+15	5:19:38	w	وَاللَّهُ		والله	and Allah	wal-lahu
+15	5:19:39	w	عَلَىٰ		علي	(is) on	ʿalā
+15	5:19:40	w	كُلِّ		كل	every	kulli
+15	5:19:41	w	شَےْءࣲ		شي	thing	shayin
+15	5:19:42	w	قَدِيرࣱ࣌		قدير	All-Powerful	qadīrun
+15	5:19:43	e	۝١٩				

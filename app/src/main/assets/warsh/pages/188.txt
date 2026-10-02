@@ -1,0 +1,120 @@
+1	9:7:1	w	كَيْفَ		كيف	How	kayfa
+1	9:7:2	w	يَكُونُ		يكون	can (there) be	yakūnu
+1	9:7:3	w	لِلْمُشْرِكِينَ		للمشركين	for the polytheists	lil'mush'rikīna
+1	9:7:4	w	عَهْدٌ		عهد	a covenant	ʿahdun
+1	9:7:5	w	عِندَ		عند	with	ʿinda
+1	9:7:6	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+1	9:7:7	w	وَعِندَ		وعند	and with	waʿinda
+1	9:7:8	w	رَسُولِهِۦٓ		رسولهي	His Messenger	rasūlihi
+2	9:7:9	w	إِلَّا		الا	except	illā
+2	9:7:10	w	ࡰ۬لذِينَ		الذين	those (with) whom	alladhīna
+2	9:7:11	w	عَٰهَدتُّمْ		عهدتم	you made a covenant	ʿāhadttum
+2	9:7:12	w	عِندَ		عند	near	ʿinda
+2	9:7:13	w	ࡰ۬لْمَسْجِدِ		المسجد	Al-Masjid	l-masjidi
+2	9:7:14	w	ࡴ۬لْحَرَامِ		الحرام	Al-Haraam	l-ḥarāmi
+2	9:7:15	w	فَمَا		فما	So long as	famā
+2	9:7:16	w	ࡰٜسْتَقَٰمُواْ		استقموا	they are upright	is'taqāmū
+3	9:7:17	w	لَكُمْ		لكم	to you	lakum
+3	9:7:18	w	فَاسْتَقِيمُواْ		فاستقيموا	then you be upright	fa-is'taqīmū
+3	9:7:19	w	لَهُمُۥٓ࣌		لهم	to them	lahum
+3	9:7:20	w	إِنَّ		ان	Indeed	inna
+3	9:7:21	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+3	9:7:22	w	يُحِبُّ		يحب	loves	yuḥibbu
+3	9:7:23	w	ࡲ۬لْمُتَّقِينَ࣌		المتقين	the righteous	l-mutaqīna
+3	9:7:24	e	۝٧				
+4	9:8:1	w	كَيْفَ		كيف	How	kayfa
+4	9:8:2	w	وَإِنْ		وان	while, if	wa-in
+4	9:8:3	w	يَّظْهَرُواْ		يظهروا	they gain dominance	yaẓharū
+4	9:8:4	w	عَلَيْكُمْ		عليكم	over you	ʿalaykum
+4	9:8:5	w	لَا		لا	they do not regard (the ties)	lā
+4	9:8:6	w	يَرْقُبُواْ		يرقبوا	they do not regard (the ties)	yarqubū
+4	9:8:7	w	فِيكُمُۥٓ		فيكم	with you	fīkum
+4	9:8:8	w	إِلّاࣰ		الا	(of) kinship	illan
+4	9:8:9	w	وَلَا		ولا	and not	walā
+5	9:8:10	w	ذِمَّةࣰ࣌		ذمة	covenant of protection	dhimmatan
+5	9:8:11	w	يُرْضُونَكُم		يرضونكم	They satisfy you	yur'ḍūnakum
+5	9:8:12	w	بِأَفْوَٰهِهِمْ		بافوههم	with their mouths	bi-afwāhihim
+5	9:8:13	w	وَتَابٜىٰ		وتابي	but refuse	watabā
+5	9:8:14	w	قُلُوبُهُمْ		قلوبهم	their hearts	qulūbuhum
+5	9:8:15	w	وَأَكْثَرُهُمْ		واكثرهم	and most of them	wa-aktharuhum
+6	9:8:16	w	فَٰسِقُونَ࣌		فسقون	(are) defiantly disobedient	fāsiqūna
+6	9:8:17	e	۝٨				
+6	9:9:1	w	ࡰٜشْتَرَوْاْ		اشتروا	They exchange	ish'taraw
+6	9:9:2	w	بِـَٔايَٰتِ		بايت	[with] the Verses of Allah	biāyāti
+6	9:9:3	w	ࡴ۬للَّهِ		الله	[with] the Verses of Allah	l-lahi
+6	9:9:4	w	ثَمَناࣰ		ثمنا	(for) a little price	thamanan
+6	9:9:5	w	قَلِيلاࣰ		قليلا	(for) a little price	qalīlan
+6	9:9:6	w	فَصَدُّواْ		فصدوا	and they hinder (people)	faṣaddū
+6	9:9:7	w	عَن		عن	from	ʿan
+7	9:9:8	w	سَبِيلِهِۦٓ࣌		سبيلهي	His way	sabīlihi
+7	9:9:9	w	إِنَّهُمْ		انهم	Indeed	innahum
+7	9:9:10	w	سَآءَ		سا	evil	sāa
+7	9:9:11	w	مَا		ما	(is) what	mā
+7	9:9:12	w	كَانُواْ		كانوا	they used to	kānū
+7	9:9:13	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+7	9:9:14	e	۝٩				
+7	9:10:1	w	لَا		لا	Not	lā
+7	9:10:2	w	يَرْقُبُونَ		يرقبون	they respect (the ties)	yarqubūna
+8	9:10:3	w	فِے		في	towards	fī
+8	9:10:4	w	مُومِنٍ		مومن	a believer	mu'minin
+8	9:10:5	w	ࡴلّاࣰ		الا	(of) kinship	illan
+8	9:10:6	w	وَلَا		ولا	and not	walā
+8	9:10:7	w	ذِمَّةࣰ࣌		ذمة	covenant of protection	dhimmatan
+8	9:10:8	w	وَأُوْلَٰٓئِكَ		واوليك	And those	wa-ulāika
+8	9:10:9	w	هُمُ		هم	[they]	humu
+8	9:10:10	w	ࡲ۬لْمُعْتَدُونَ࣌		المعتدون	(are) the transgressors	l-muʿ'tadūna
+8	9:10:11	e	۝١٠				
+8	9:11:1	w	فَإِن		فان	But if	fa-in
+9	9:11:2	w	تَابُواْ		تابوا	they repent	tābū
+9	9:11:3	w	وَأَقَامُواْ		واقاموا	and establish	wa-aqāmū
+9	9:11:4	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+9	9:11:5	w	وَءَاتَوُاْ		واتوا	and give	waātawū
+9	9:11:6	w	ࡲ۬لزَّكَوٰةَ		الزكوة	the zakah	l-zakata
+9	9:11:7	w	فَإِخْوَٰنُكُمْ		فاخونكم	then (they are) your brothers	fa-ikh'wānukum
+9	9:11:8	w	فِے		في	in	fī
+10	9:11:9	w	ࡴ۬لدِّينِ࣌		الدين	[the] religion	l-dīni
+10	9:11:10	w	وَنُفَصِّلُ		ونفصل	And We explain in detail	wanufaṣṣilu
+10	9:11:11	w	ࡲ۬لَايَٰتِ		الايت	the Verses	l-āyāti
+10	9:11:12	w	لِقَوْمࣲ		لقوم	for a people	liqawmin
+10	9:11:13	w	يَعْلَمُونَ࣌		يعلمون	(who) know	yaʿlamūna
+10	9:11:14	e	۝١١				
+10	9:12:1	w	۞ وَإِن		وان	And if	wa-in
+11	9:12:2	w	نَّكَثُوٓاْ		نكثوا	they break	nakathū
+11	9:12:3	w	أَيْمَٰنَهُم		ايمنهم	their oaths	aymānahum
+11	9:12:4	w	مِّنۢ		من	after	min
+11	9:12:5	w	بَعْدِ		بعد	after	baʿdi
+11	9:12:6	w	عَهْدِهِمْ		عهدهم	their treaty	ʿahdihim
+11	9:12:7	w	وَطَعَنُواْ		وطعنوا	and defame	waṭaʿanū
+11	9:12:8	w	فِے		في	[in]	fī
+11	9:12:9	w	دِينِكُمْ		دينكم	your religion	dīnikum
+12	9:12:10	w	فَقَٰتِلُوٓاْ		فقتلوا	then fight	faqātilū
+12	9:12:11	w	أَيٜمَّةَ		ايمة	the leaders	a-immata
+12	9:12:12	w	ࡰ۬لْكُفْرِ࣌		الكفر	(of) [the] disbelief	l-kuf'ri
+12	9:12:13	w	إِنَّهُمْ		انهم	indeed, they	innahum
+12	9:12:14	w	لَآ		لا	no	lā
+12	9:12:15	w	أَيْمَٰنَ		ايمن	oaths	aymāna
+12	9:12:16	w	لَهُمْ		لهم	for them	lahum
+12	9:12:17	w	لَعَلَّهُمْ		لعلهم	so that they may	laʿallahum
+13	9:12:18	w	يَنتَهُونَ࣌		ينتهون	cease	yantahūna
+13	9:12:19	e	۝١٢				
+13	9:13:1	w	أَلَا		الا	Will not	alā
+13	9:13:2	w	تُقَٰتِلُونَ		تقتلون	you fight	tuqātilūna
+13	9:13:3	w	قَوْماࣰ		قوما	a people	qawman
+13	9:13:4	w	نَّكَثُوٓاْ		نكثوا	who broke	nakathū
+13	9:13:5	w	أَيْمَٰنَهُمْ		ايمنهم	their oaths	aymānahum
+14	9:13:6	w	وَهَمُّواْ		وهموا	and determined	wahammū
+14	9:13:7	w	بِإِخْرَاجِ		باخراج	to drive out	bi-ikh'rāji
+14	9:13:8	w	ࡴ۬لرَّسُولِ		الرسول	the Messenger	l-rasūli
+14	9:13:9	w	وَهُم		وهم	and they	wahum
+14	9:13:10	w	بَدَءُوكُمُۥٓ		بدوكم	began (to attack) you	badaūkum
+14	9:13:11	w	أَوَّلَ		اول	first	awwala
+14	9:13:12	w	مَرَّةٍ		مرة	time	marratin
+15	9:13:13	w	ࡰتَخْشَوْنَهُمْ࣌		اتخشونهم	Do you fear them	atakhshawnahum
+15	9:13:14	w	فَاللَّهُ		فالله	But Allah	fal-lahu
+15	9:13:15	w	أَحَقُّ		احق	(has) more right	aḥaqqu
+15	9:13:16	w	أَن		ان	that	an
+15	9:13:17	w	تَخْشَوْهُ		تخشوه	you should fear Him	takhshawhu
+15	9:13:18	w	إِن		ان	if	in
+15	9:13:19	w	كُنتُم		كنتم	you are	kuntum
+15	9:13:20	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+15	9:13:21	e	۝١٣				

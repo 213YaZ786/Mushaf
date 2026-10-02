@@ -134,7 +134,7 @@ class Listen(
     }
 
     private suspend fun load(surah: Int) {
-        val reciter = reciterFor ?: settings.current.reciter
+        val reciter = reciterFor ?: settings.reciter()
         if (audio?.surah == surah && audio?.reciter == reciter) return
         val a = recitations.surah(reciter, surah)
         // The recording's place comes from the API: played only from a known server, encrypted.
@@ -197,7 +197,7 @@ class Listen(
 
     /** A new reciter takes over at the ayah being heard. */
     fun setReciter(id: Int) {
-        settings.update { it.copy(reciter = id) }
+        settings.update { if (id > Recitations.WARSH_BASE) it.copy(warshReciter = id) else it.copy(reciter = id) }
         val key = _state.value.key ?: return
         audio = null
         play(key, range?.endInclusive)

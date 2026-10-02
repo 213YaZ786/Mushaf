@@ -1,0 +1,140 @@
+1	17:18:1	w	مَّن		من	Whoever	man
+1	17:18:2	w	كَانَ		كان	should	kāna
+1	17:18:3	w	يُرِيدُ		يريد	desire	yurīdu
+1	17:18:4	w	ࡲ۬لْعَاجِلَةَ		العاجلة	the immediate	l-ʿājilata
+1	17:18:5	w	عَجَّلْنَا		عجلنا	We hasten	ʿajjalnā
+1	17:18:6	w	لَهُۥ		له	for him	lahu
+1	17:18:7	w	فِيهَا		فيها	in it	fīhā
+1	17:18:8	w	مَا		ما	what	mā
+1	17:18:9	w	نَشَآءُ		نشا	We will	nashāu
+1	17:18:10	w	لِمَن		لمن	to whom	liman
+1	17:18:11	w	نُّرِيدُ		نريد	We intend	nurīdu
+1	17:18:12	w	ثُمَّ		ثم	Then	thumma
+2	17:18:13	w	جَعَلْنَا		جعلنا	We have made	jaʿalnā
+2	17:18:14	w	لَهُۥ		له	for him	lahu
+2	17:18:15	w	جَهَنَّمَ		جهنم	Hell	jahannama
+2	17:18:16	w	يَصْلَيٰهَا		يصليها	he will burn	yaṣlāhā
+2	17:18:17	w	مَذْمُوماࣰ		مذموما	disgraced	madhmūman
+2	17:18:18	w	مَّدْحُوراࣰ࣌		مدحورا	rejected	madḥūran
+2	17:18:19	e	۝١٨				
+2	17:19:1	w	وَمَنَ		ومن	And whoever	waman
+2	17:19:2	w	ࡰرَادَ		اراد	desires	arāda
+3	17:19:3	w	ࡰ۬لَاخِرَةَ		الاخرة	the Hereafter	l-ākhirata
+3	17:19:4	w	وَسَعٜىٰ		وسعي	and exerts	wasaʿā
+3	17:19:5	w	لَهَا		لها	for it	lahā
+3	17:19:6	w	سَعْيَهَا		سعيها	the effort	saʿyahā
+3	17:19:7	w	وَهُوَ		وهو	while he	wahuwa
+3	17:19:8	w	مُومِنࣱ		مومن	(is) a believer	mu'minun
+3	17:19:9	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+3	17:19:10	w	كَانَ		كان	[are]	kāna
+4	17:19:11	w	سَعْيُهُم		سعيهم	their effort	saʿyuhum
+4	17:19:12	w	مَّشْكُوراࣰ࣌		مشكورا	(is) appreciated	mashkūran
+4	17:19:13	e	۝١٩				
+4	17:20:1	w	كُلّاࣰ		كلا	(To) each	kullan
+4	17:20:2	w	نُّمِدُّ࣌		نمد	We extend	numiddu
+4	17:20:3	w	هَٰٓؤُلَآءِ		هولا	(to) these	hāulāi
+4	17:20:4	w	وَهَٰٓؤُلَآءِ		وهولا	and (to) these	wahāulāi
+4	17:20:5	w	مِنْ		من	from	min
+4	17:20:6	w	عَطَآءِ		عطا	(the) gift	ʿaṭāi
+5	17:20:7	w	رَبِّكَ࣌		ربك	(of) your Lord	rabbika
+5	17:20:8	w	وَمَا		وما	And not	wamā
+5	17:20:9	w	كَانَ		كان	is	kāna
+5	17:20:10	w	عَطَآءُ		عطا	(the) gift	ʿaṭāu
+5	17:20:11	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+5	17:20:12	w	مَحْظُوراً࣌		محظورا	restricted	maḥẓūran
+5	17:20:13	e	۝٢٠				
+5	17:21:1	w	ࡲ࢈نظُرْ		انظر	See	unẓur
+5	17:21:2	w	كَيْفَ		كيف	how	kayfa
+5	17:21:3	w	فَضَّلْنَا		فضلنا	We preferred	faḍḍalnā
+6	17:21:4	w	بَعْضَهُمْ		بعضهم	some of them	baʿḍahum
+6	17:21:5	w	عَلَىٰ		علي	over	ʿalā
+6	17:21:6	w	بَعْضࣲ࣌		بعض	others	baʿḍin
+6	17:21:7	w	وَلَلَاخِرَةُ		وللاخرة	And surely the Hereafter	walalākhiratu
+6	17:21:8	w	أَكْبَرُ		اكبر	(is) greater	akbaru
+6	17:21:9	w	دَرَجَٰتࣲ		درجت	(in) degrees	darajātin
+6	17:21:10	w	وَأَكْبَرُ		واكبر	and greater	wa-akbaru
+6	17:21:11	w	تَفْضِيلاࣰ࣌		تفضيلا	(in) excellence	tafḍīlan
+6	17:21:12	e	۝٢١				
+7	17:22:1	w	لَّا		لا	(Do) not	lā
+7	17:22:2	w	تَجْعَلْ		تجعل	make	tajʿal
+7	17:22:3	w	مَعَ		مع	with	maʿa
+7	17:22:4	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	17:22:5	w	إِلَٰهاً		الها	god	ilāhan
+7	17:22:6	w	اٰخَرَ		اخر	another	ākhara
+7	17:22:7	w	فَتَقْعُدَ		فتقعد	lest you will sit	fataqʿuda
+7	17:22:8	w	مَذْمُوماࣰ		مذموما	disgraced	madhmūman
+7	17:22:9	w	مَّخْذُولاࣰ࣌		مخذولا	forsaken	makhdhūlan
+7	17:22:10	e	۝٢٢				
+8	17:23:1	w	۞ وَقَضٜىٰ		وقضي	And has decreed	waqaḍā
+8	17:23:2	w	رَبُّكَ		ربك	your Lord	rabbuka
+8	17:23:3	w	أَلَّا		الا	that (do) not	allā
+8	17:23:4	w	تَعْبُدُوٓاْ		تعبدوا	worship	taʿbudū
+8	17:23:5	w	إِلَّآ		الا	except	illā
+8	17:23:6	w	إِيَّاهُ࣌		اياه	Him Alone	iyyāhu
+8	17:23:7	w	وَبِالْوَٰلِدَيْنِ		وبالولدين	and to the parents	wabil-wālidayni
+8	17:23:8	w	إِحْسَٰناً࣌		احسنا	(be) good	iḥ'sānan
+8	17:23:9	w	ࡴمَّا		اما	Whether	immā
+9	17:23:10	w	يَبْلُغَنَّ		يبلغن	reach	yablughanna
+9	17:23:11	w	عِندَكَ		عندك	with you	ʿindaka
+9	17:23:12	w	ࡰ۬لْكِبَرَ		الكبر	the old age	l-kibara
+9	17:23:13	w	أَحَدُهُمَآ		احدهما	one of them	aḥaduhumā
+9	17:23:14	w	أَوْ		او	or	aw
+9	17:23:15	w	كِلَاهُمَا		كلاهما	both of them	kilāhumā
+9	17:23:16	w	فَلَا		فلا	then (do) not	falā
+9	17:23:17	w	تَقُل		تقل	say	taqul
+9	17:23:18	w	لَّهُمَآ		لهما	to both of them	lahumā
+10	17:23:19	w	أُفࣲّ		اف	a word of disrespect	uffin
+10	17:23:20	w	وَلَا		ولا	and (do) not	walā
+10	17:23:21	w	تَنْهَرْهُمَا࣌		تنهرهما	repel them	tanharhumā
+10	17:23:22	w	وَقُل		وقل	but speak	waqul
+10	17:23:23	w	لَّهُمَا		لهما	to them	lahumā
+10	17:23:24	w	قَوْلاࣰ		قولا	a word	qawlan
+10	17:23:25	w	كَرِيماࣰ࣌		كريما	noble	karīman
+10	17:23:26	e	۝٢٣				
+10	17:24:1	w	وَاخْفِضْ		واخفض	And lower	wa-ikh'fiḍ
+10	17:24:2	w	لَهُمَا		لهما	to them	lahumā
+11	17:24:3	w	جَنَاحَ		جناح	(the) wing	janāḥa
+11	17:24:4	w	ࡰ۬لذُّلِّ		الذل	(of) humility	l-dhuli
+11	17:24:5	w	مِنَ		من	(out) of	mina
+11	17:24:6	w	ࡰ۬لرَّحْمَةِ࣌		الرحمة	[the] mercy	l-raḥmati
+11	17:24:7	w	وَقُل		وقل	and say	waqul
+11	17:24:8	w	رَّبِّ		رب	My Lord	rabbi
+11	17:24:9	w	ࡴٜرْحَمْهُمَا		ارحمهما	Have mercy on both of them	ir'ḥamhumā
+11	17:24:10	w	كَمَا		كما	as	kamā
+11	17:24:11	w	رَبَّيَٰنِے		ربيني	they brought me up	rabbayānī
+12	17:24:12	w	صَغِيراࣰ࣌		صغيرا	(when I was) small	ṣaghīran
+12	17:24:13	e	۝٢٤				
+12	17:25:1	w	رَّبُّكُمُۥٓ		ربكم	Your Lord	rabbukum
+12	17:25:2	w	أَعْلَمُ		اعلم	(is) most knowing	aʿlamu
+12	17:25:3	w	بِمَا		بما	of what	bimā
+12	17:25:4	w	فِے		في	(is) in	fī
+12	17:25:5	w	نُفُوسِكُمُۥٓ࣌		نفوسكم	yourselves	nufūsikum
+12	17:25:6	w	إِن		ان	If	in
+12	17:25:7	w	تَكُونُواْ		تكونوا	you are	takūnū
+13	17:25:8	w	صَٰلِحِينَ		صلحين	righteous	ṣāliḥīna
+13	17:25:9	w	فَإِنَّهُۥ		فانه	then indeed, He	fa-innahu
+13	17:25:10	w	كَانَ		كان	is	kāna
+13	17:25:11	w	لِلَاوَّٰبِينَ		للاوبين	to those who often turn (to Him)	lil'awwābīna
+13	17:25:12	w	غَفُوراࣰ࣌		غفورا	Most Forgiving	ghafūran
+13	17:25:13	e	۝٢٥				
+13	17:26:1	w	وَءَاتِ		وات	And give	waāti
+13	17:26:2	w	ذَا		ذا	the relatives	dhā
+13	17:26:3	w	ࡰ۬لْقُرْبٜىٰ		القربي	the relatives	l-qur'bā
+14	17:26:4	w	حَقَّهُۥ		حقه	his right	ḥaqqahu
+14	17:26:5	w	وَالْمِسْكِينَ		والمسكين	and the needy	wal-mis'kīna
+14	17:26:6	w	وَابْنَ		وابن	and the wayfarer	wa-ib'na
+14	17:26:7	w	ࡰ۬لسَّبِيلِ࣌		السبيل	and the wayfarer	l-sabīli
+14	17:26:8	w	وَلَا		ولا	and (do) not	walā
+14	17:26:9	w	تُبَذِّرْ		تبذر	spend	tubadhir
+14	17:26:10	w	تَبْذِيراً࣌		تبذيرا	wastefully	tabdhīran
+14	17:26:11	e	۝٢٦				
+14	17:27:1	w	ࡴنَّ		ان	Indeed	inna
+14	17:27:2	w	ࡰ۬لْمُبَذِّرِينَ		المبذرين	the spendthrifts	l-mubadhirīna
+15	17:27:3	w	كَانُوٓاْ		كانوا	are	kānū
+15	17:27:4	w	إِخْوَٰنَ		اخون	brothers	ikh'wāna
+15	17:27:5	w	ࡰ۬لشَّيَٰطِينِ࣌		الشيطين	(of) the devils	l-shayāṭīni
+15	17:27:6	w	وَكَانَ		وكان	And is	wakāna
+15	17:27:7	w	ࡰ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan	l-shayṭānu
+15	17:27:8	w	لِرَبِّهِۦ		لربهي	to his Lord	lirabbihi
+15	17:27:9	w	كَفُوراࣰ࣌		كفورا	ungrateful	kafūran
+15	17:27:10	e	۝٢٧				

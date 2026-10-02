@@ -9,6 +9,7 @@ import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
 import org.mushaf.app.core.common.writeTextAtomically
 import org.mushaf.app.core.quran.AyahKey
+import org.mushaf.app.core.quran.Riwayah
 
 @Serializable
 data class Bookmark(val key: AyahKey, val at: Long)
@@ -21,11 +22,14 @@ data class MarksFile(val bookmarks: List<Bookmark> = emptyList(), val notes: Lis
 
 /**
  * The reader's bookmarks and notes on ayat, in one small file on the
- * phone, written atomically. Nothing leaves the device.
+ * phone per riwayah (their ayat are not numbered alike), written
+ * atomically. Nothing leaves the device.
  */
-class Marks(context: Context) {
+class Marks(context: Context, riwayah: Riwayah) {
 
-    private val file = File(context.filesDir, "marks.json")
+    private val dir = context.filesDir
+    @Volatile private var riwayah = riwayah
+    private val file: File get() = File(dir, riwayah.file("marks"))
     private val json = Json { ignoreUnknownKeys = true }
 
     private val _marks = MutableStateFlow(load())
@@ -37,6 +41,13 @@ class Marks(context: Context) {
     private fun save(updated: MarksFile) {
         _marks.value = updated
         runCatching { file.writeTextAtomically(json.encodeToString(updated)) }
+    }
+
+    /** Reads the marks of [r], once the reader has changed riwayah. */
+    fun use(r: Riwayah) {
+        if (r == riwayah) return
+        riwayah = r
+        _marks.value = load()
     }
 
     fun isBookmarked(key: AyahKey) = _marks.value.bookmarks.any { it.key == key }

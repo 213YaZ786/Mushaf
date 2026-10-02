@@ -1,0 +1,140 @@
+1	2:282:1	w	۞ وَإِن		وان	And if	wa-in
+1	2:282:2	w	كُنتُمْ		كنتم	you are	kuntum
+1	2:282:3	w	عَلَىٰ		علي	on	ʿalā
+1	2:282:4	w	سَفَرࣲ		سفر	a journey	safarin
+1	2:282:5	w	وَلَمْ		ولم	and not	walam
+1	2:282:6	w	تَجِدُواْ		تجدوا	you find	tajidū
+1	2:282:7	w	كَاتِباࣰ		كاتبا	a scribe	kātiban
+1	2:282:8	w	فَرِهَٰنࣱ		فرهن	then pledge	farihānun
+1	2:282:9	w	مَّقْبُوضَةࣱ࣌		مقبوضة	in hand	maqbūḍatun
+2	2:282:10	w	فَإِنَ		فان	Then if	fa-in
+2	2:282:11	w	ࡰمِنَ		امن	entrusts	amina
+2	2:282:12	w	بَعْضُكُم		بعضكم	one of you	baʿḍukum
+2	2:282:13	w	بَعْضاࣰ		بعضا	(to) another	baʿḍan
+2	2:282:14	w	فَلْيُوَ۬دِّ		فليود	then let discharge	falyu-addi
+2	2:282:15	w	ࡴ۬لذِے		الذي	the one who	alladhī
+2	2:282:16	w	ࡴ࢈وتُمِنَ		اوتمن	is entrusted	u'tumina
+2	2:282:17	w	أَمَٰنَتَهُۥ࣌		امنته	his trust	amānatahu
+2	2:282:18	w	وَلْيَتَّقِ		وليتق	And let him fear	walyattaqi
+3	2:282:19	w	ࡴ۬للَّهَ		الله	Allah	l-laha
+3	2:282:20	w	رَبَّهُۥ࣌		ربه	his Lord	rabbahu
+3	2:282:21	w	وَلَا		ولا	And (do) not	walā
+3	2:282:22	w	تَكْتُمُواْ		تكتموا	conceal	taktumū
+3	2:282:23	w	ࡲ۬لشَّهَٰدَةَ࣌		الشهدة	the evidence	l-shahādata
+3	2:282:24	w	وَمَنْ		ومن	And whoever	waman
+3	2:282:25	w	يَّكْتُمْهَا		يكتمها	conceals it	yaktum'hā
+3	2:282:26	w	فَإِنَّهُۥٓ		فانه	then indeed he	fa-innahu
+4	2:282:27	w	ءَاثِمࣱ		اثم	(is) sinful	āthimun
+4	2:282:28	w	قَلْبُهُۥ࣌		قلبه	his heart	qalbuhu
+4	2:282:29	w	وَاللَّهُ		والله	And Allah	wal-lahu
+4	2:282:30	w	بِمَا		بما	of what	bimā
+4	2:282:31	w	تَعْمَلُونَ		تعملون	you do	taʿmalūna
+4	2:282:32	w	عَلِيمࣱ࣌		عليم	(is) All-Knower	ʿalīmun
+4	2:282:33	e	۝٢٨٢				
+4	2:283:1	w	لِّلهِ		لله	To Allah (belongs)	lillahi
+4	2:283:2	w	مَا		ما	whatever	mā
+4	2:283:3	w	فِے		في	(is) in	fī
+4	2:283:4	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+5	2:283:5	w	وَمَا		وما	and whatever	wamā
+5	2:283:6	w	فِے		في	(is) in	fī
+5	2:283:7	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+5	2:283:8	w	وَإِن		وان	And if	wa-in
+5	2:283:9	w	تُبْدُواْ		تبدوا	you disclose	tub'dū
+5	2:283:10	w	مَا		ما	what	mā
+5	2:283:11	w	فِےٓ		في	(is) in	fī
+5	2:283:12	w	أَنفُسِكُمُۥٓ		انفسكم	yourselves	anfusikum
+5	2:283:13	w	أَوْ		او	or	aw
+5	2:283:14	w	تُخْفُوهُ		تخفوه	you conceal it	tukh'fūhu
+6	2:283:15	w	يُحَاسِبْكُم		يحاسبكم	will call you to account	yuḥāsib'kum
+6	2:283:16	w	بِهِ		به	for it	bihi
+6	2:283:17	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+6	2:283:18	w	فَيَغْفِرْ		فيغفر	Then, He will forgive	fayaghfiru
+6	2:283:19	w	لِمَنْ		لمن	[to] whom	liman
+6	2:283:20	w	يَّشَآءُ		يشا	He wills	yashāu
+6	2:283:21	w	وَيُعَذِّبْ		ويعذب	and He will punish	wayuʿadhibu
+6	2:283:22	w	مَنْ		من	whom	man
+6	2:283:23	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+7	2:283:24	w	وَاللَّهُ		والله	And Allah	wal-lahu
+7	2:283:25	w	عَلَىٰ		علي	on	ʿalā
+7	2:283:26	w	كُلِّ		كل	every	kulli
+7	2:283:27	w	شَےْءࣲ		شي	thing	shayin
+7	2:283:28	w	قَدِيرٌ࣌		قدير	(is) All-Powerful	qadīrun
+7	2:283:29	e	۝٢٨٣				
+7	2:284:1	w	اٰمَنَ		امن	Believed	āmana
+7	2:284:2	w	ࡰ۬لرَّسُولُ		الرسول	the Messenger	l-rasūlu
+7	2:284:3	w	بِمَآ		بما	in what	bimā
+7	2:284:4	w	أُنزِلَ		انزل	was revealed	unzila
+8	2:284:5	w	إِلَيْهِ		اليه	to him	ilayhi
+8	2:284:6	w	مِن		من	from	min
+8	2:284:7	w	رَّبِّهِۦ		ربهي	his Lord	rabbihi
+8	2:284:8	w	وَالْمُومِنُونَ࣌		والمومنون	and the believers	wal-mu'minūna
+8	2:284:9	w	كُلٌّ		كل	All	kullun
+8	2:284:10	w	اٰمَنَ		امن	believed	āmana
+8	2:284:11	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+8	2:284:12	w	وَمَلَٰٓئِكَتِهِۦ		ومليكتهي	and His Angels	wamalāikatihi
+9	2:284:13	w	وَكُتُبِهِۦ		وكتبهي	and His Books	wakutubihi
+9	2:284:14	w	وَرُسُلِهِۦ࣌		ورسلهي	and His Messengers	warusulihi
+9	2:284:15	w	لَا		لا	Not	lā
+9	2:284:16	w	نُفَرِّقُ		نفرق	we make distinction	nufarriqu
+9	2:284:17	w	بَيْنَ		بين	between	bayna
+9	2:284:18	w	أَحَدࣲ		احد	any	aḥadin
+9	2:284:19	w	مِّن		من	of	min
+9	2:284:20	w	رُّسُلِهِۦ࣌		رسلهي	His messengers	rusulihi
+9	2:284:21	w	وَقَالُواْ		وقالوا	And they said	waqālū
+10	2:284:22	w	سَمِعْنَا		سمعنا	We heard	samiʿ'nā
+10	2:284:23	w	وَأَطَعْنَا࣌		واطعنا	and we obeyed	wa-aṭaʿnā
+10	2:284:24	w	غُفْرَانَكَ		غفرانك	(Grant) us Your forgiveness	ghuf'rānaka
+10	2:284:25	w	رَبَّنَا࣌		ربنا	our Lord	rabbanā
+10	2:284:26	w	وَإِلَيْكَ		واليك	and to You	wa-ilayka
+10	2:284:27	w	ࡰ۬لْمَصِيرُ࣌		المصير	(is) the return	l-maṣīru
+10	2:284:28	e	۝٢٨٤				
+10	2:285:1	w	لَا		لا	(Does) not	lā
+10	2:285:2	w	يُكَلِّفُ		يكلف	burden	yukallifu
+11	2:285:3	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+11	2:285:4	w	نَفْساً		نفسا	any soul	nafsan
+11	2:285:5	w	ࡴلَّا		الا	except	illā
+11	2:285:6	w	وُسْعَهَا࣌		وسعها	its capacity	wus'ʿahā
+11	2:285:7	w	لَهَا		لها	for it	lahā
+11	2:285:8	w	مَا		ما	what	mā
+11	2:285:9	w	كَسَبَتْ࣌		كسبت	it earned	kasabat
+11	2:285:10	w	وَعَلَيْهَا		وعليها	and against it	waʿalayhā
+11	2:285:11	w	مَا		ما	what	mā
+11	2:285:12	w	ࡰٜكْتَسَبَتْ࣌		اكتسبت	it earned	ik'tasabat
+12	2:285:13	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+12	2:285:14	w	لَا		لا	(Do) not	lā
+12	2:285:15	w	تُوَ۬اخِذْنَآ		تواخذنا	take us to task	tuākhidh'nā
+12	2:285:16	w	إِن		ان	if	in
+12	2:285:17	w	نَّسِينَآ		نسينا	we forget	nasīnā
+12	2:285:18	w	أَوَ		او	or	aw
+12	2:285:19	w	ࡰخْطَأْنَا࣌		اخطانا	we err	akhṭanā
+12	2:285:20	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+12	2:285:21	w	وَلَا		ولا	And (do) not	walā
+12	2:285:22	w	تَحْمِلْ		تحمل	lay	taḥmil
+13	2:285:23	w	عَلَيْنَآ		علينا	upon us	ʿalaynā
+13	2:285:24	w	إِصْراࣰ		اصرا	a burden	iṣ'ran
+13	2:285:25	w	كَمَا		كما	like that	kamā
+13	2:285:26	w	حَمَلْتَهُۥ		حملته	(which) You laid [it]	ḥamaltahu
+13	2:285:27	w	عَلَى		علي	on	ʿalā
+13	2:285:28	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	2:285:29	w	مِن		من	(were) from	min
+13	2:285:30	w	قَبْلِنَا࣌		قبلنا	before us	qablinā
+13	2:285:31	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+14	2:285:32	w	وَلَا		ولا	[And] (do) not	walā
+14	2:285:33	w	تُحَمِّلْنَا		تحملنا	lay on us	tuḥammil'nā
+14	2:285:34	w	مَا		ما	what	mā
+14	2:285:35	w	لَا		لا	not	lā
+14	2:285:36	w	طَاقَةَ		طاقة	(the) strength	ṭāqata
+14	2:285:37	w	لَنَا		لنا	we have	lanā
+14	2:285:38	w	بِهِۦ࣌		بهي	[of it] (to bear)	bihi
+14	2:285:39	w	وَاعْفُ		واعف	And pardon	wa-uʿ'fu
+14	2:285:40	w	عَنَّا࣌		عنا	[from] us	ʿannā
+14	2:285:41	w	وَاغْفِرْ		واغفر	and forgive	wa-igh'fir
+14	2:285:42	w	لَنَا࣌		لنا	[for] us	lanā
+15	2:285:43	w	وَارْحَمْنَآ࣌		وارحمنا	and have mercy on us	wa-ir'ḥamnā
+15	2:285:44	w	أَنتَ		انت	You (are)	anta
+15	2:285:45	w	مَوْلٜيٰنَا		مولينا	our Protector	mawlānā
+15	2:285:46	w	فَانصُرْنَا		فانصرنا	so help us	fa-unṣur'nā
+15	2:285:47	w	عَلَى		علي	against	ʿalā
+15	2:285:48	w	ࡰ۬لْقَوْمِ		القوم	the people	l-qawmi
+15	2:285:49	w	ࡴ۬لْكٜـٰفِرِينَ࣌		الكفرين	[the] disbelievers	l-kāfirīna
+15	2:285:50	e	۝٢٨٥				

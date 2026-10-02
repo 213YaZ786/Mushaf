@@ -1,0 +1,138 @@
+1	10:107:1	w	وَإِنْ		وان	And if	wa-in
+1	10:107:2	w	يَّمْسَسْكَ		يمسسك	Allah touches you	yamsaska
+1	10:107:3	w	ࡰ۬للَّهُ		الله	Allah touches you	l-lahu
+1	10:107:4	w	بِضُرࣲّ		بضر	with adversity	biḍurrin
+1	10:107:5	w	فَلَا		فلا	(there is) no	falā
+1	10:107:6	w	كَاشِفَ		كاشف	remover	kāshifa
+1	10:107:7	w	لَهُۥٓ		له	of it	lahu
+1	10:107:8	w	إِلَّا		الا	except	illā
+1	10:107:9	w	هُوَ࣌		هو	Him	huwa
+1	10:107:10	w	وَإِنْ		وان	and if	wa-in
+2	10:107:11	w	يُّرِدْكَ		يردك	He intends for you	yurid'ka
+2	10:107:12	w	بِخَيْرࣲ		بخير	any good	bikhayrin
+2	10:107:13	w	فَلَا		فلا	then (there is) no	falā
+2	10:107:14	w	رَآدَّ		راد	repeller	rādda
+2	10:107:15	w	لِفَضْلِهِۦ࣌		لفضلهي	(of) His Bounty	lifaḍlihi
+2	10:107:16	w	يُصِيبُ		يصيب	He causes it to reach	yuṣību
+2	10:107:17	w	بِهِۦ		بهي	He causes it to reach	bihi
+2	10:107:18	w	مَنْ		من	whom	man
+2	10:107:19	w	يَّشَآءُ		يشا	He wills	yashāu
+2	10:107:20	w	مِنْ		من	of	min
+2	10:107:21	w	عِبَادِهِۦ࣌		عبادهي	His slaves	ʿibādihi
+3	10:107:22	w	وَهُوَ		وهو	And He	wahuwa
+3	10:107:23	w	ࡰ۬لْغَفُورُ		الغفور	(is) the Oft-Forgiving	l-ghafūru
+3	10:107:24	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+3	10:107:25	e	۝١٠٧				
+3	10:108:1	w	قُلْ		قل	Say	qul
+3	10:108:2	w	يَٰٓأَيُّهَا		يايها	O mankind	yāayyuhā
+3	10:108:3	w	ࡰ۬لنَّاسُ		الناس	O mankind	l-nāsu
+3	10:108:4	w	قَدْ		قد	Verily	qad
+3	10:108:5	w	جَآءَكُمُ		جاكم	has come to you	jāakumu
+3	10:108:6	w	ࡲ۬لْحَقُّ		الحق	the truth	l-ḥaqu
+4	10:108:7	w	مِن		من	from	min
+4	10:108:8	w	رَّبِّكُمْ࣌		ربكم	your Lord	rabbikum
+4	10:108:9	w	فَمَنِ		فمن	So whoever	famani
+4	10:108:10	w	ࡴٜهْتَدٜىٰ		اهتدي	(is) guided	ih'tadā
+4	10:108:11	w	فَإِنَّمَا		فانما	then only	fa-innamā
+4	10:108:12	w	يَهْتَدِے		يهتدي	(he is) guided	yahtadī
+4	10:108:13	w	لِنَفْسِهِۦ࣌		لنفسهي	for his soul	linafsihi
+4	10:108:14	w	وَمَن		ومن	and whoever	waman
+4	10:108:15	w	ضَلَّ		ضل	goes astray	ḍalla
+5	10:108:16	w	فَإِنَّمَا		فانما	then only	fa-innamā
+5	10:108:17	w	يَضِلُّ		يضل	he strays	yaḍillu
+5	10:108:18	w	عَلَيْهَا࣌		عليها	against it	ʿalayhā
+5	10:108:19	w	وَمَآ		وما	And I am not	wamā
+5	10:108:20	w	أَنَا		انا	And I am not	anā
+5	10:108:21	w	عَلَيْكُم		عليكم	over you	ʿalaykum
+5	10:108:22	w	بِوَكِيلࣲ࣌		بوكيل	a guardian	biwakīlin
+5	10:108:23	e	۝١٠٨				
+5	10:109:1	w	وَاتَّبِعْ		واتبع	And follow	wa-ittabiʿ
+5	10:109:2	w	مَا		ما	what	mā
+5	10:109:3	w	يُوحٜىٰٓ		يوحي	is revealed	yūḥā
+6	10:109:4	w	إِلَيْكَ		اليك	to you	ilayka
+6	10:109:5	w	وَاصْبِرْ		واصبر	and be patient	wa-iṣ'bir
+6	10:109:6	w	حَتَّىٰ		حتي	until	ḥattā
+6	10:109:7	w	يَحْكُمَ		يحكم	Allah gives judgment	yaḥkuma
+6	10:109:8	w	ࡰ۬للَّهُ࣌		الله	Allah gives judgment	l-lahu
+6	10:109:9	w	وَهُوَ		وهو	And He	wahuwa
+6	10:109:10	w	خَيْرُ		خير	(is) the Best	khayru
+6	10:109:11	w	ࡲ۬لْحَٰكِمِينَ࣌		الحكمين	(of) the Judges	l-ḥākimīna
+6	10:109:12	e	۝١٠٩				
+7	11:0:0	t					
+8	11:0:0	b					
+9	11:1:1	w	أَلَٓرٜ࣌		الر	Alif Lam Ra	alif-lam-ra
+9	11:1:2	w	كِتَٰبٌ		كتب	(This is) a Book	kitābun
+9	11:1:3	w	ࡳحْكِمَتَ		احكمت	are perfected	uḥ'kimat
+9	11:1:4	w	اٰيَٰتُهُۥ		ايته	its Verses	āyātuhu
+9	11:1:5	w	ثُمَّ		ثم	moreover	thumma
+9	11:1:6	w	فُصِّلَتْ		فصلت	explained in detail	fuṣṣilat
+9	11:1:7	w	مِن		من	from (he One Who)	min
+9	11:1:8	w	لَّدُنْ		لدن	from (he One Who)	ladun
+9	11:1:9	w	حَكِيمٍ		حكيم	(is) All-Wise	ḥakīmin
+9	11:1:10	w	خَبِيرٍ		خبير	All-Aware	khabīrin
+9	11:1:11	e	۝١				
+10	11:2:1	w	ࡰلَّا		الا	That "Not	allā
+10	11:2:2	w	تَعْبُدُوٓاْ		تعبدوا	you worship	taʿbudū
+10	11:2:3	w	إِلَّا		الا	but	illā
+10	11:2:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	11:2:5	w	إِنَّنِے		انني	Indeed, I am	innanī
+10	11:2:6	w	لَكُم		لكم	to you	lakum
+10	11:2:7	w	مِّنْهُ		منه	from Him	min'hu
+10	11:2:8	w	نَذِيرࣱ		نذير	a warner	nadhīrun
+10	11:2:9	w	وَبَشِيرࣱ		وبشير	and a bearer of glad tidings	wabashīrun
+10	11:2:10	e	۝٢				
+10	11:3:1	w	وَأَنِ		وان	And that	wa-ani
+10	11:3:2	w	ࡴٜسْتَغْفِرُواْ		استغفروا	Seek forgiveness	is'taghfirū
+11	11:3:3	w	رَبَّكُمْ		ربكم	(of) your Lord	rabbakum
+11	11:3:4	w	ثُمَّ		ثم	and	thumma
+11	11:3:5	w	تُوبُوٓاْ		توبوا	turn in repentance	tūbū
+11	11:3:6	w	إِلَيْهِ		اليه	to Him	ilayhi
+11	11:3:7	w	يُمَتِّعْكُم		يمتعكم	He will let you	yumattiʿ'kum
+11	11:3:8	w	مَّتَٰعاً		متعا	enjoy	matāʿan
+11	11:3:9	w	حَسَناً		حسنا	a good	ḥasanan
+11	11:3:10	w	ࡴلَىٰٓ		الي	for	ilā
+11	11:3:11	w	أَجَلࣲ		اجل	a term	ajalin
+11	11:3:12	w	مُّسَمّىࣰ		مسمي	appointed	musamman
+12	11:3:13	w	وَيُوتِ		ويوت	And give	wayu'ti
+12	11:3:14	w	كُلَّ		كل	(to) every	kulla
+12	11:3:15	w	ذِے		ذي	owner	dhī
+12	11:3:16	w	فَضْلࣲ		فضل	(of) grace	faḍlin
+12	11:3:17	w	فَضْلَهُۥ࣌		فضله	His Grace	faḍlahu
+12	11:3:18	w	وَإِن		وان	But if	wa-in
+12	11:3:19	w	تَوَلَّوْاْ		تولوا	you turn away	tawallaw
+12	11:3:20	w	فَإِنِّيَ		فاني	then indeed, I	fa-innī
+12	11:3:21	w	أَخَافُ		اخاف	fear	akhāfu
+12	11:3:22	w	عَلَيْكُمْ		عليكم	for you	ʿalaykum
+12	11:3:23	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+13	11:3:24	w	يَوْمࣲ		يوم	(of) a Great Day	yawmin
+13	11:3:25	w	كَبِيرٍ࣌		كبير	(of) a Great Day	kabīrin
+13	11:3:26	e	۝٣				
+13	11:4:1	w	ࡴلَى		الي	To	ilā
+13	11:4:2	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+13	11:4:3	w	مَرْجِعُكُمْ࣌		مرجعكم	(is) your return	marjiʿukum
+13	11:4:4	w	وَهُوَ		وهو	and He	wahuwa
+13	11:4:5	w	عَلَىٰ		علي	(is) on	ʿalā
+13	11:4:6	w	كُلِّ		كل	every	kulli
+13	11:4:7	w	شَےْءࣲ		شي	thing	shayin
+13	11:4:8	w	قَدِيرٌ࣌		قدير	All-Powerful	qadīrun
+13	11:4:9	e	۝٤				
+14	11:5:1	w	ࡰلَآ		الا	No doubt	alā
+14	11:5:2	w	إِنَّهُمْ		انهم	They	innahum
+14	11:5:3	w	يَثْنُونَ		يثنون	fold up	yathnūna
+14	11:5:4	w	صُدُورَهُمْ		صدورهم	their breasts	ṣudūrahum
+14	11:5:5	w	لِيَسْتَخْفُواْ		ليستخفوا	that they may hide	liyastakhfū
+14	11:5:6	w	مِنْهُ࣌		منه	from Him	min'hu
+14	11:5:7	w	أَلَا		الا	Surely	alā
+14	11:5:8	w	حِينَ		حين	when	ḥīna
+14	11:5:9	w	يَسْتَغْشُونَ		يستغشون	they cover (themselves)	yastaghshūna
+15	11:5:10	w	ثِيَابَهُمْ		ثيابهم	(with) their garments	thiyābahum
+15	11:5:11	w	يَعْلَمُ		يعلم	He knows	yaʿlamu
+15	11:5:12	w	مَا		ما	what	mā
+15	11:5:13	w	يُسِرُّونَ		يسرون	they conceal	yusirrūna
+15	11:5:14	w	وَمَا		وما	and what	wamā
+15	11:5:15	w	يُعْلِنُونَ࣌		يعلنون	they reveal	yuʿ'linūna
+15	11:5:16	w	إِنَّهُۥ		انه	Indeed, He	innahu
+15	11:5:17	w	عَلِيمُۢ		عليم	(is) All-Knower	ʿalīmun
+15	11:5:18	w	بِذَاتِ		بذات	of what	bidhāti
+15	11:5:19	w	ࡴ۬لصُّدُورِ࣌		الصدور	(is in) the breasts	l-ṣudūri
+15	11:5:20	e	۝٥				

@@ -1,0 +1,128 @@
+1	2:181:1	w	فَمَنْ		فمن	But whoever	faman
+1	2:181:2	w	خَافَ		خاف	fears	khāfa
+1	2:181:3	w	مِن		من	from	min
+1	2:181:4	w	مُّوصࣲ		موص	(the) testator	mūṣin
+1	2:181:5	w	جَنَفاً		جنفا	(any) error	janafan
+1	2:181:6	w	ࡰوِ		او	or	aw
+1	2:181:7	w	ࡴثْماࣰ		اثما	sin	ith'man
+1	2:181:8	w	فَأَصْلَحَ		فاصلح	then reconciles	fa-aṣlaḥa
+1	2:181:9	w	بَيْنَهُمْ		بينهم	between them	baynahum
+1	2:181:10	w	فَلَآ		فلا	then (there is) no	falā
+2	2:181:11	w	إِثْمَ		اثم	sin	ith'ma
+2	2:181:12	w	عَلَيْهِ࣌		عليه	on him	ʿalayhi
+2	2:181:13	w	إِنَّ		ان	Indeed	inna
+2	2:181:14	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+2	2:181:15	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+2	2:181:16	w	رَّحِيمࣱ࣌		رحيم	All-Merciful	raḥīmun
+2	2:181:17	e	۝١٨١				
+2	2:182:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+2	2:182:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+2	2:182:3	w	ءَامَنُواْ		امنوا	believe[d]	āmanū
+3	2:182:4	w	كُتِبَ		كتب	Is prescribed	kutiba
+3	2:182:5	w	عَلَيْكُمُ		عليكم	for you	ʿalaykumu
+3	2:182:6	w	ࡲ۬لصِّيَامُ		الصيام	[the] fasting	l-ṣiyāmu
+3	2:182:7	w	كَمَا		كما	as	kamā
+3	2:182:8	w	كُتِبَ		كتب	was prescribed	kutiba
+3	2:182:9	w	عَلَى		علي	to	ʿalā
+3	2:182:10	w	ࡰ۬لذِينَ		الذين	those	alladhīna
+4	2:182:11	w	مِن		من	from	min
+4	2:182:12	w	قَبْلِكُمْ		قبلكم	before you	qablikum
+4	2:182:13	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+4	2:182:14	w	تَتَّقُونَ		تتقون	(become) righteous	tattaqūna
+4	2:182:15	e	۝١٨٢				
+4	2:183:1	w	أَيَّاماࣰ		اياما	(Fasting for) days	ayyāman
+4	2:183:2	w	مَّعْدُودَٰتࣲ࣌		معدودت	numbered	maʿdūdātin
+4	2:183:3	w	فَمَن		فمن	So whoever	faman
+5	2:183:4	w	كَانَ		كان	is	kāna
+5	2:183:5	w	مِنكُم		منكم	among you	minkum
+5	2:183:6	w	مَّرِيضاً		مريضا	sick	marīḍan
+5	2:183:7	w	ࡰوْ		او	or	aw
+5	2:183:8	w	عَلَىٰ		علي	on	ʿalā
+5	2:183:9	w	سَفَرࣲ		سفر	a journey	safarin
+5	2:183:10	w	فَعِدَّةࣱ		فعدة	then a prescribed number	faʿiddatun
+5	2:183:11	w	مِّنَ		من	of	min
+5	2:183:12	w	ࡰيَّامٍ		ايام	days	ayyāmin
+5	2:183:13	w	ࡳخَرَ࣌		اخر	other	ukhara
+6	2:183:14	w	وَعَلَى		وعلي	And on	waʿalā
+6	2:183:15	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	2:183:16	w	يُطِيقُونَهُۥ		يطيقونه	can afford it	yuṭīqūnahu
+6	2:183:17	w	فِدْيَةُ		فدية	a ransom	fid'yatun
+6	2:183:18	w	طَعَامِ		طعام	(of) feeding	ṭaʿāmu
+6	2:183:19	w	مَسَٰكِينَ࣌		مسكين	a poor	mis'kīnin
+6	2:183:20	w	فَمَن		فمن	And whoever	faman
+6	2:183:21	w	تَطَوَّعَ		تطوع	volunteers	taṭawwaʿa
+7	2:183:22	w	خَيْراࣰ		خيرا	good	khayran
+7	2:183:23	w	فَهُوَ		فهو	then it	fahuwa
+7	2:183:24	w	خَيْرࣱ		خير	(is) better	khayrun
+7	2:183:25	w	لَّهُۥ࣌		له	for him	lahu
+7	2:183:26	w	وَأَن		وان	And to	wa-an
+7	2:183:27	w	تَصُومُواْ		تصوموا	fast	taṣūmū
+7	2:183:28	w	خَيْرࣱ		خير	(is) better	khayrun
+7	2:183:29	w	لَّكُمُۥٓ		لكم	for you	lakum
+7	2:183:30	w	إِن		ان	if	in
+7	2:183:31	w	كُنتُمْ		كنتم	you	kuntum
+8	2:183:32	w	تَعْلَمُونَ࣌		تعلمون	know	taʿlamūna
+8	2:183:33	e	۝١٨٣				
+8	2:184:1	w	۞ شَهْرُ		شهر	Month	shahru
+8	2:184:2	w	رَمَضَانَ		رمضان	(of) Ramadhaan	ramaḍāna
+8	2:184:3	w	ࡰ۬لذِےٓ		الذي	(is) that	alladhī
+8	2:184:4	w	أُنزِلَ		انزل	was revealed	unzila
+8	2:184:5	w	فِيهِ		فيه	therein	fīhi
+8	2:184:6	w	ࡴ۬لْقُرْءَانُ		القران	the Quran	l-qur'ānu
+9	2:184:7	w	هُدىࣰ		هدي	a Guidance	hudan
+9	2:184:8	w	لِّلنَّاسِ		للناس	for mankind	lilnnāsi
+9	2:184:9	w	وَبَيِّنَٰتࣲ		وبينت	and clear proofs	wabayyinātin
+9	2:184:10	w	مِّنَ		من	of	mina
+9	2:184:11	w	ࡰ۬لْهُدٜىٰ		الهدي	[the] Guidance	l-hudā
+9	2:184:12	w	وَالْفُرْقَانِ࣌		والفرقان	and the Criterion	wal-fur'qāni
+9	2:184:13	w	فَمَن		فمن	So whoever	faman
+9	2:184:14	w	شَهِدَ		شهد	witnesses	shahida
+10	2:184:15	w	مِنكُمُ		منكم	among you	minkumu
+10	2:184:16	w	ࡲ۬لشَّهْرَ		الشهر	the month	l-shahra
+10	2:184:17	w	فَلْيَصُمْهُ࣌		فليصمه	then he should fast in it	falyaṣum'hu
+10	2:184:18	w	وَمَن		ومن	and whoever	waman
+10	2:184:19	w	كَانَ		كان	is	kāna
+10	2:184:20	w	مَرِيضاً		مريضا	sick	marīḍan
+10	2:184:21	w	ࡰوْ		او	or	aw
+10	2:184:22	w	عَلَىٰ		علي	on	ʿalā
+11	2:184:23	w	سَفَرࣲ		سفر	a journey	safarin
+11	2:184:24	w	فَعِدَّةࣱ		فعدة	then prescribed number (should be made up)	faʿiddatun
+11	2:184:25	w	مِّنَ		من	from	min
+11	2:184:26	w	ࡰيَّامٍ		ايام	days	ayyāmin
+11	2:184:27	w	ࡳخَرَ࣌		اخر	other	ukhara
+11	2:184:28	w	يُرِيدُ		يريد	Intends	yurīdu
+11	2:184:29	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+11	2:184:30	w	بِكُمُ		بكم	for you	bikumu
+11	2:184:31	w	ࡲ۬لْيُسْرَ		اليسر	[the] ease	l-yus'ra
+12	2:184:32	w	وَلَا		ولا	and not	walā
+12	2:184:33	w	يُرِيدُ		يريد	intends	yurīdu
+12	2:184:34	w	بِكُمُ		بكم	for you	bikumu
+12	2:184:35	w	ࡲ۬لْعُسْرَ࣌		العسر	[the] hardship	l-ʿus'ra
+12	2:184:36	w	وَلِتُكْمِلُواْ		ولتكملوا	so that you complete	walituk'milū
+12	2:184:37	w	ࡲ۬لْعِدَّةَ		العدة	the prescribed period	l-ʿidata
+12	2:184:38	w	وَلِتُكَبِّرُواْ		ولتكبروا	and that you magnify	walitukabbirū
+13	2:184:39	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+13	2:184:40	w	عَلَىٰ		علي	for	ʿalā
+13	2:184:41	w	مَا		ما	[what]	mā
+13	2:184:42	w	هَدٜيٰكُمْ		هديكم	He guided you	hadākum
+13	2:184:43	w	وَلَعَلَّكُمْ		ولعلكم	so that you may	walaʿallakum
+13	2:184:44	w	تَشْكُرُونَ࣌		تشكرون	(be) grateful	tashkurūna
+13	2:184:45	e	۝١٨٤				
+13	2:185:1	w	وَإِذَا		واذا	And when	wa-idhā
+13	2:185:2	w	سَأَلَكَ		سالك	ask you	sa-alaka
+14	2:185:3	w	عِبَادِے		عبادي	My servants	ʿibādī
+14	2:185:4	w	عَنِّے		عني	about Me	ʿannī
+14	2:185:5	w	فَإِنِّے		فاني	then indeed I am	fa-innī
+14	2:185:6	w	قَرِيبٌ࣌		قريب	near	qarībun
+14	2:185:7	w	ࡳجِيبُ		اجيب	I respond	ujību
+14	2:185:8	w	دَعْوَةَ		دعوة	(to the) invocation	daʿwata
+14	2:185:9	w	ࡰ۬لدَّاعِۦٓ		الداعي	(of) the supplicant	l-dāʿi
+14	2:185:10	w	إِذَا		اذا	when	idhā
+14	2:185:11	w	دَعَانِۦ࣌		دعاني	he calls Me	daʿāni
+15	2:185:12	w	فَلْيَسْتَجِيبُواْ		فليستجيبوا	So let them respond	falyastajībū
+15	2:185:13	w	لِے		لي	to Me	lī
+15	2:185:14	w	وَلْيُومِنُواْ		وليومنوا	and let them believe	walyu'minū
+15	2:185:15	w	بِيَ		بي	in Me	bī
+15	2:185:16	w	لَعَلَّهُمْ		لعلهم	so that they may	laʿallahum
+15	2:185:17	w	يَرْشُدُونَ࣌		يرشدون	(be) led aright	yarshudūna
+15	2:185:18	e	۝١٨٥				

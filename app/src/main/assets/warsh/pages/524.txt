@@ -1,0 +1,148 @@
+1	52:13:1	w	أَفَسِحْرٌ		افسحر	Then is this magic	afasiḥ'run
+1	52:13:2	w	هَٰذَآ		هذا	Then is this magic	hādhā
+1	52:13:3	w	أَمَ		ام	or	am
+1	52:13:4	w	ࡰنتُمْ		انتم	you	antum
+1	52:13:5	w	لَا		لا	(do) not	lā
+1	52:13:6	w	تُبْصِرُونَ࣌		تبصرون	see	tub'ṣirūna
+1	52:13:7	e	۝١٣				
+1	52:14:1	w	ࡰٜصْلَوْهَا		اصلوها	Burn in it	iṣ'lawhā
+1	52:14:2	w	فَاصْبِرُوٓاْ		فاصبروا	then be patient	fa-iṣ'birū
+2	52:14:3	w	أَوْ		او	or	aw
+2	52:14:4	w	لَا		لا	(do) not	lā
+2	52:14:5	w	تَصْبِرُواْ		تصبروا	be patient	taṣbirū
+2	52:14:6	w	سَوَآءٌ		سوا	(it is) same	sawāon
+2	52:14:7	w	عَلَيْكُمُۥٓ࣌		عليكم	for you	ʿalaykum
+2	52:14:8	w	إِنَّمَا		انما	Only	innamā
+2	52:14:9	w	تُجْزَوْنَ		تجزون	you are being recompensed	tuj'zawna
+2	52:14:10	w	مَا		ما	(for) what	mā
+2	52:14:11	w	كُنتُمْ		كنتم	you used to	kuntum
+2	52:14:12	w	تَعْمَلُونَ࣌		تعملون	do	taʿmalūna
+2	52:14:13	e	۝١٤				
+3	52:15:1	w	إِنَّ		ان	Indeed	inna
+3	52:15:2	w	ࡰ۬لْمُتَّقِينَ		المتقين	the righteous	l-mutaqīna
+3	52:15:3	w	فِے		في	(will be) in	fī
+3	52:15:4	w	جَنَّٰتࣲ		جنت	Gardens	jannātin
+3	52:15:5	w	وَنَعِيمࣲ		ونعيم	and pleasure	wanaʿīmin
+3	52:15:6	e	۝١٥				
+3	52:16:1	w	فَٰكِهِينَ		فكهين	Enjoying	fākihīna
+3	52:16:2	w	بِمَآ		بما	in what	bimā
+3	52:16:3	w	ءَاتٜيٰهُمْ		اتيهم	has given them	ātāhum
+3	52:16:4	w	رَبُّهُمْ࣌		ربهم	their Lord	rabbuhum
+4	52:16:5	w	وَوَقٜيٰهُمْ		ووقيهم	and protected them	wawaqāhum
+4	52:16:6	w	رَبُّهُمْ		ربهم	their Lord	rabbuhum
+4	52:16:7	w	عَذَابَ		عذاب	(from the) punishment	ʿadhāba
+4	52:16:8	w	ࡰ۬لْجَحِيمِ࣌		الجحيم	(of) Hellfire	l-jaḥīmi
+4	52:16:9	e	۝١٦				
+4	52:17:1	w	كُلُواْ		كلوا	Eat	kulū
+4	52:17:2	w	وَاشْرَبُواْ		واشربوا	and drink	wa-ish'rabū
+4	52:17:3	w	هَنِيٓـٔاَۢ		هنيا	(in) satisfaction	hanīan
+4	52:17:4	w	بِمَا		بما	for what	bimā
+5	52:17:5	w	كُنتُمْ		كنتم	you used to	kuntum
+5	52:17:6	w	تَعْمَلُونَ		تعملون	do	taʿmalūna
+5	52:17:7	e	۝١٧				
+5	52:18:1	w	مُتَّكِـِٕينَ		متكين	Reclining	muttakiīna
+5	52:18:2	w	عَلَىٰ		علي	on	ʿalā
+5	52:18:3	w	سُرُرࣲ		سرر	thrones	sururin
+5	52:18:4	w	مَّصْفُوفَةࣲ		مصفوفة	lined up	maṣfūfatin
+5	52:18:5	w	وَزَوَّجْنَٰهُم		وزوجنهم	and We will marry them	wazawwajnāhum
+6	52:18:6	w	بِحُورٍ		بحور	to fair ones	biḥūrin
+6	52:18:7	w	عِينࣲ࣌		عين	(with) large eyes	ʿīnin
+6	52:18:8	e	۝١٨				
+6	52:19:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+6	52:19:2	w	ءَامَنُواْ		امنوا	believed	āmanū
+6	52:19:3	w	وَاتَّبَعَتْهُمْ		واتبعتهم	and followed them	wa-ittabaʿathum
+6	52:19:4	w	ذُرِّيَّتُهُم		ذريتهم	their offspring	dhurriyyatuhum
+6	52:19:5	w	بِإِيمَٰنٍ		بايمن	in faith	biīmānin
+6	52:19:6	w	ࡰلْحَقْنَا		الحقنا	We will join	alḥaqnā
+7	52:19:7	w	بِهِمْ		بهم	with them	bihim
+7	52:19:8	w	ذُرِّيَّٰتِهِمْ		ذريتهم	their offspring	dhurriyyatahum
+7	52:19:9	w	وَمَآ		وما	and not	wamā
+7	52:19:10	w	أَلَتْنَٰهُم		التنهم	We will deprive them	alatnāhum
+7	52:19:11	w	مِّنْ		من	of	min
+7	52:19:12	w	عَمَلِهِم		عملهم	their deeds	ʿamalihim
+7	52:19:13	w	مِّن		من	(in) any	min
+7	52:19:14	w	شَےْءࣲ࣌		شي	thing	shayin
+7	52:19:15	w	كُلُّ		كل	Every	kullu
+7	52:19:16	w	ࡲٜمْرِےِٕۢ		امري	person	im'ri-in
+7	52:19:17	w	بِمَا		بما	for what	bimā
+8	52:19:18	w	كَسَبَ		كسب	he earned	kasaba
+8	52:19:19	w	رَهِينࣱ࣌		رهين	(is) pledged	rahīnun
+8	52:19:20	e	۝١٩				
+8	52:20:1	w	وَأَمْدَدْنَٰهُم		وامددنهم	And We will provide them	wa-amdadnāhum
+8	52:20:2	w	بِفَٰكِهَةࣲ		بفكهة	with fruit	bifākihatin
+8	52:20:3	w	وَلَحْمࣲ		ولحم	and meat	walaḥmin
+8	52:20:4	w	مِّمَّا		مما	from what	mimmā
+8	52:20:5	w	يَشْتَهُونَ		يشتهون	they desire	yashtahūna
+8	52:20:6	e	۝٢٠				
+9	52:21:1	w	يَتَنَٰزَعُونَ		يتنزعون	They will pass to one another	yatanāzaʿūna
+9	52:21:2	w	فِيهَا		فيها	therein	fīhā
+9	52:21:3	w	كَأْساࣰ		كاسا	a cup	kasan
+9	52:21:4	w	لَّا		لا	no	lā
+9	52:21:5	w	لَغْوࣱ		لغو	ill speech	laghwun
+9	52:21:6	w	فِيهَا		فيها	therein	fīhā
+9	52:21:7	w	وَلَا		ولا	and no	walā
+9	52:21:8	w	تَاثِيمࣱ࣌		تاثيم	sin	tathīmun
+9	52:21:9	e	۝٢١				
+9	52:22:1	w	۞ وَيَطُوفُ		ويطوف	And will circulate	wayaṭūfu
+9	52:22:2	w	عَلَيْهِمْ		عليهم	among them	ʿalayhim
+10	52:22:3	w	غِلْمَانࣱ		غلمان	boys	ghil'mānun
+10	52:22:4	w	لَّهُمْ		لهم	for them	lahum
+10	52:22:5	w	كَأَنَّهُمْ		كانهم	as if they (were)	ka-annahum
+10	52:22:6	w	لُؤْلُؤࣱ		لولو	pearls	lu'lu-on
+10	52:22:7	w	مَّكْنُونࣱ࣌		مكنون	well-protected	maknūnun
+10	52:22:8	e	۝٢٢				
+10	52:23:1	w	وَأَقْبَلَ		واقبل	And will approach	wa-aqbala
+10	52:23:2	w	بَعْضُهُمْ		بعضهم	some of them	baʿḍuhum
+10	52:23:3	w	عَلَىٰ		علي	to	ʿalā
+11	52:23:4	w	بَعْضࣲ		بعض	others	baʿḍin
+11	52:23:5	w	يَتَسَآءَلُونَ࣌		يتسالون	inquiring	yatasāalūna
+11	52:23:6	e	۝٢٣				
+11	52:24:1	w	قَالُوٓاْ		قالوا	They will say	qālū
+11	52:24:2	w	إِنَّا		انا	Indeed, we	innā
+11	52:24:3	w	كُنَّا		كنا	[we] were	kunnā
+11	52:24:4	w	قَبْلُ		قبل	before	qablu
+11	52:24:5	w	فِےٓ		في	among	fī
+11	52:24:6	w	أَهْلِنَا		اهلنا	our families	ahlinā
+11	52:24:7	w	مُشْفِقِينَ		مشفقين	fearful	mush'fiqīna
+11	52:24:8	e	۝٢٤				
+12	52:25:1	w	فَمَنَّ		فمن	But Allah conferred favor	famanna
+12	52:25:2	w	ࡰ۬للَّهُ		الله	But Allah conferred favor	l-lahu
+12	52:25:3	w	عَلَيْنَا		علينا	upon us	ʿalaynā
+12	52:25:4	w	وَوَقٜيٰنَا		ووقينا	and protected us	wawaqānā
+12	52:25:5	w	عَذَابَ		عذاب	(from the) punishment	ʿadhāba
+12	52:25:6	w	ࡰ۬لسَّمُومِ࣌		السموم	(of) the Scorching Fire	l-samūmi
+12	52:25:7	e	۝٢٥				
+12	52:26:1	w	إِنَّا		انا	Indeed, we	innā
+12	52:26:2	w	كُنَّا		كنا	[we] used to	kunnā
+12	52:26:3	w	مِن		من	before	min
+12	52:26:4	w	قَبْلُ		قبل	before	qablu
+13	52:26:5	w	نَدْعُوهُ		ندعوه	call Him	nadʿūhu
+13	52:26:6	w	أَنَّهُۥ		انه	Indeed, He	innahu
+13	52:26:7	w	هُوَ		هو	[He]	huwa
+13	52:26:8	w	ࡰ۬لْبَرُّ		البر	(is) the Most Kind	l-baru
+13	52:26:9	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+13	52:26:10	e	۝٢٦				
+13	52:27:1	w	فَذَكِّرْ		فذكر	Therefore remind	fadhakkir
+13	52:27:2	w	فَمَآ		فما	for not	famā
+13	52:27:3	w	أَنتَ		انت	you	anta
+13	52:27:4	w	بِنِعْمَتِ		بنعمت	(are) by (the) grace	biniʿ'mati
+14	52:27:5	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+14	52:27:6	w	بِكَاهِنࣲ		بكاهن	a soothsayer	bikāhinin
+14	52:27:7	w	وَلَا		ولا	and not	walā
+14	52:27:8	w	مَجْنُونٍ࣌		مجنون	a madman	majnūnin
+14	52:27:9	e	۝٢٧				
+14	52:28:1	w	ࡰمْ		ام	Or	am
+14	52:28:2	w	يَقُولُونَ		يقولون	(do) they say	yaqūlūna
+14	52:28:3	w	شَاعِرࣱ		شاعر	A poet	shāʿirun
+14	52:28:4	w	نَّتَرَبَّصُ		نتربص	we wait	natarabbaṣu
+14	52:28:5	w	بِهِۦ		بهي	for him	bihi
+15	52:28:6	w	رَيْبَ		ريب	a misfortune of time	rayba
+15	52:28:7	w	ࡰ۬لْمَنُونِ࣌		المنون	a misfortune of time	l-manūni
+15	52:28:8	e	۝٢٨				
+15	52:29:1	w	قُلْ		قل	Say	qul
+15	52:29:2	w	تَرَبَّصُواْ࣌		تربصوا	Wait	tarabbaṣū
+15	52:29:3	w	فَإِنِّے		فاني	for indeed I am	fa-innī
+15	52:29:4	w	مَعَكُم		معكم	with you	maʿakum
+15	52:29:5	w	مِّنَ		من	among	mina
+15	52:29:6	w	ࡰ۬لْمُتَرَبِّصِينَ࣌		المتربصين	those who wait	l-mutarabiṣīna
+15	52:29:7	e	۝٢٩				

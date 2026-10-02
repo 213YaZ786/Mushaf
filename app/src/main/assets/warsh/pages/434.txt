@@ -1,0 +1,143 @@
+1	34:49:1	w	قُلْ		قل	Say	qul
+1	34:49:2	w	جَآءَ		جا	Has come	jāa
+1	34:49:3	w	ࡰ۬لْحَقُّ		الحق	the truth	l-ḥaqu
+1	34:49:4	w	وَمَا		وما	and not	wamā
+1	34:49:5	w	يُبْدِۓُ		يبدي	(can) originate	yub'di-u
+1	34:49:6	w	ࡲ۬لْبَٰطِلُ		البطل	the falsehood	l-bāṭilu
+1	34:49:7	w	وَمَا		وما	and not	wamā
+1	34:49:8	w	يُعِيدُ࣌		يعيد	repeat	yuʿīdu
+1	34:49:9	e	۝٤٩				
+1	34:50:1	w	قُلِ		قل	Say	qul
+1	34:50:2	w	ࡴن		ان	If	in
+1	34:50:3	w	ضَلَلْتُ		ضللت	I err	ḍalaltu
+2	34:50:4	w	فَإِنَّمَآ		فانما	then only	fa-innamā
+2	34:50:5	w	أَضِلُّ		اضل	I will err	aḍillu
+2	34:50:6	w	عَلَىٰ		علي	against	ʿalā
+2	34:50:7	w	نَفْسِے		نفسي	myself	nafsī
+2	34:50:8	w	وَإِنِ		وان	But if	wa-ini
+2	34:50:9	w	ࡴٜهْتَدَيْتُ		اهتديت	I am guided	ih'tadaytu
+2	34:50:10	w	فَبِمَا		فبما	then it is by what	fabimā
+2	34:50:11	w	يُوحِےٓ		يوحي	reveals	yūḥī
+2	34:50:12	w	إِلَيَّ		الي	to me	ilayya
+2	34:50:13	w	رَبِّيَ࣌		ربي	my Lord	rabbī
+3	34:50:14	w	إِنَّهُۥ		انه	Indeed, He	innahu
+3	34:50:15	w	سَمِيعࣱ		سميع	(is) All-Hearer	samīʿun
+3	34:50:16	w	قَرِيبࣱ࣌		قريب	Ever-Near	qarībun
+3	34:50:17	e	۝٥٠				
+3	34:51:1	w	وَلَوْ		ولو	And if	walaw
+3	34:51:2	w	تَرٜىٰٓ		تري	you (could) see	tarā
+3	34:51:3	w	إِذْ		اذ	when	idh
+3	34:51:4	w	فَزِعُواْ		فزعوا	they will be terrified	faziʿū
+3	34:51:5	w	فَلَا		فلا	but (there will be) no	falā
+3	34:51:6	w	فَوْتَ		فوت	escape	fawta
+3	34:51:7	w	وَأُخِذُواْ		واخذوا	and they will be seized	wa-ukhidhū
+4	34:51:8	w	مِن		من	from	min
+4	34:51:9	w	مَّكَانࣲ		مكان	a place	makānin
+4	34:51:10	w	قَرِيبࣲ࣌		قريب	near	qarībin
+4	34:51:11	e	۝٥١				
+4	34:52:1	w	وَقَالُوٓاْ		وقالوا	And they will say	waqālū
+4	34:52:2	w	ءَامَنَّا		امنا	We believe	āmannā
+4	34:52:3	w	بِهِۦ࣌		بهي	in it	bihi
+4	34:52:4	w	وَأَنّٜىٰ		واني	But how	wa-annā
+4	34:52:5	w	لَهُمُ		لهم	for them	lahumu
+4	34:52:6	w	ࡲ۬لتَّنَاوُشُ		التناوش	(will be) the receiving	l-tanāwushu
+5	34:52:7	w	مِن		من	from	min
+5	34:52:8	w	مَّكَانِۢ		مكان	a place	makānin
+5	34:52:9	w	بَعِيدࣲ		بعيد	far off	baʿīdin
+5	34:52:10	e	۝٥٢				
+5	34:53:1	w	وَقَدْ		وقد	And certainly	waqad
+5	34:53:2	w	كَفَرُواْ		كفروا	they disbelieved	kafarū
+5	34:53:3	w	بِهِۦ		بهي	in it	bihi
+5	34:53:4	w	مِن		من	before	min
+5	34:53:5	w	قَبْلُ࣌		قبل	before	qablu
+5	34:53:6	w	وَيَقْذِفُونَ		ويقذفون	And they utter conjectures	wayaqdhifūna
+6	34:53:7	w	بِالْغَيْبِ		بالغيب	about the unseen	bil-ghaybi
+6	34:53:8	w	مِن		من	from	min
+6	34:53:9	w	مَّكَانِۢ		مكان	a place	makānin
+6	34:53:10	w	بَعِيدࣲ࣌		بعيد	far off	baʿīdin
+6	34:53:11	e	۝٥٣				
+6	34:54:1	w	وَحِيلَ		وحيل	And a barrier will be placed	waḥīla
+6	34:54:2	w	بَيْنَهُمْ		بينهم	between them	baynahum
+6	34:54:3	w	وَبَيْنَ		وبين	and between	wabayna
+6	34:54:4	w	مَا		ما	what	mā
+6	34:54:5	w	يَشْتَهُونَ		يشتهون	they desire	yashtahūna
+7	34:54:6	w	كَمَا		كما	as	kamā
+7	34:54:7	w	فُعِلَ		فعل	was done	fuʿila
+7	34:54:8	w	بِأَشْيَاعِهِم		باشياعهم	with their kind	bi-ashyāʿihim
+7	34:54:9	w	مِّن		من	before	min
+7	34:54:10	w	قَبْلُ		قبل	before	qablu
+7	34:54:11	w	إِنَّهُمْ		انهم	Indeed, they	innahum
+7	34:54:12	w	كَانُواْ		كانوا	were	kānū
+7	34:54:13	w	فِے		في	in	fī
+7	34:54:14	w	شَكࣲّ		شك	doubt	shakkin
+7	34:54:15	w	مُّرِيبٍ࣌		مريب	disquieting	murībin
+7	34:54:16	e	۝٥٤				
+8	35:0:0	t					
+9	35:0:0	b					
+10	35:1:1	w	ࡴ۬لْحَمْدُ		الحمد	All praises	al-ḥamdu
+10	35:1:2	w	لِلهِ		لله	(be) to Allah	lillahi
+10	35:1:3	w	فَاطِرِ		فاطر	Originator	fāṭiri
+10	35:1:4	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+10	35:1:5	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+10	35:1:6	w	جَاعِلِ		جاعل	(Who) makes	jāʿili
+10	35:1:7	w	ࡴ۬لْمَلَٰٓئِكَةِ		المليكة	the Angels	l-malāikati
+10	35:1:8	w	رُسُلاً		رسلا	messengers	rusulan
+10	35:1:9	w	ࡳوْلِےٓ		اولي	having wings	ulī
+11	35:1:10	w	أَجْنِحَةࣲ		اجنحة	having wings	ajniḥatin
+11	35:1:11	w	مَّثْنٜىٰ		مثني	two	mathnā
+11	35:1:12	w	وَثُلَٰثَ		وثلث	or three	wathulātha
+11	35:1:13	w	وَرُبَٰعَ࣌		وربع	or four	warubāʿa
+11	35:1:14	w	يَزِيدُ		يزيد	He increases	yazīdu
+11	35:1:15	w	فِے		في	in	fī
+11	35:1:16	w	ࡴ۬لْخَلْقِ		الخلق	the creation	l-khalqi
+11	35:1:17	w	مَا		ما	what	mā
+11	35:1:18	w	يَشَآءُ࣌		يشا	He wills	yashāu
+11	35:1:19	w	ࡹِنَّ		ان	Indeed	inna
+11	35:1:20	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	35:1:21	w	عَلَىٰ		علي	(is) on	ʿalā
+12	35:1:22	w	كُلِّ		كل	every	kulli
+12	35:1:23	w	شَےْءࣲ		شي	thing	shayin
+12	35:1:24	w	قَدِيرࣱ࣌		قدير	All-Powerful	qadīrun
+12	35:1:25	e	۝١				
+12	35:2:1	w	مَّا		ما	What	mā
+12	35:2:2	w	يَفْتَحِ		يفتح	Allah grants	yaftaḥi
+12	35:2:3	w	ࡴ۬للَّهُ		الله	Allah grants	l-lahu
+12	35:2:4	w	لِلنَّاسِ		للناس	to mankind	lilnnāsi
+12	35:2:5	w	مِن		من	of	min
+12	35:2:6	w	رَّحْمَةࣲ		رحمة	Mercy	raḥmatin
+12	35:2:7	w	فَلَا		فلا	then none	falā
+12	35:2:8	w	مُمْسِكَ		ممسك	(can) withhold	mum'sika
+12	35:2:9	w	لَهَا࣌		لها	it	lahā
+13	35:2:10	w	وَمَا		وما	And what	wamā
+13	35:2:11	w	يُمْسِكْ		يمسك	He withholds	yum'sik
+13	35:2:12	w	فَلَا		فلا	then none	falā
+13	35:2:13	w	مُرْسِلَ		مرسل	(can) release	mur'sila
+13	35:2:14	w	لَهُۥ		له	it	lahu
+13	35:2:15	w	مِنۢ		من	thereafter	min
+13	35:2:16	w	بَعْدِهِۦ࣌		بعدهي	thereafter	baʿdihi
+13	35:2:17	w	وَهُوَ		وهو	And He	wahuwa
+13	35:2:18	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+13	35:2:19	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+13	35:2:20	e	۝٢				
+14	35:3:1	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+14	35:3:2	w	ࡰ۬لنَّاسُ		الناس	mankind	l-nāsu
+14	35:3:3	w	ࡲ࢈ذْكُرُواْ		اذكروا	Remember	udh'kurū
+14	35:3:4	w	نِعْمَتَ		نعمت	(the) Favor	niʿ'mata
+14	35:3:5	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+14	35:3:6	w	عَلَيْكُمْ࣌		عليكم	upon you	ʿalaykum
+14	35:3:7	w	هَلْ		هل	Is	hal
+14	35:3:8	w	مِنْ		من	(there) any	min
+14	35:3:9	w	خَٰلِقٍ		خلق	creator	khāliqin
+14	35:3:10	w	غَيْرُ		غير	other (than) Allah	ghayru
+14	35:3:11	w	ࡲ۬للَّهِ		الله	other (than) Allah	l-lahi
+15	35:3:12	w	يَرْزُقُكُم		يرزقكم	who provides for you	yarzuqukum
+15	35:3:13	w	مِّنَ		من	from	mina
+15	35:3:14	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+15	35:3:15	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+15	35:3:16	w	لَآ		لا	(There is) no	lā
+15	35:3:17	w	إِلَٰهَ		اله	god	ilāha
+15	35:3:18	w	إِلَّا		الا	but	illā
+15	35:3:19	w	هُوَ࣌		هو	He	huwa
+15	35:3:20	w	فَأَنّٜىٰ		فاني	Then, how	fa-annā
+15	35:3:21	w	تُوفَكُونَ࣌		توفكون	(are) you deluded	tu'fakūna
+15	35:3:22	e	۝٣				

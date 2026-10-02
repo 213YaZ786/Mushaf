@@ -1,0 +1,167 @@
+1	10:34:1	w	قُلْ		قل	Say	qul
+1	10:34:2	w	هَلْ		هل	Is (there)	hal
+1	10:34:3	w	مِن		من	of	min
+1	10:34:4	w	شُرَكَآئِكُم		شركايكم	your partners	shurakāikum
+1	10:34:5	w	مَّنْ		من	(any) who	man
+1	10:34:6	w	يَّبْدَؤُاْ		يبدوا	originates	yabda-u
+1	10:34:7	w	ࡲ۬لْخَلْقَ		الخلق	the creation	l-khalqa
+1	10:34:8	w	ثُمَّ		ثم	then	thumma
+1	10:34:9	w	يُعِيدُهُۥ࣌		يعيده	repeats it	yuʿīduhu
+1	10:34:10	w	قُلِ		قل	Say	quli
+1	10:34:11	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+1	10:34:12	w	يَبْدَؤُاْ		يبدوا	originates	yabda-u
+2	10:34:13	w	ࡲ۬لْخَلْقَ		الخلق	the creation	l-khalqa
+2	10:34:14	w	ثُمَّ		ثم	then	thumma
+2	10:34:15	w	يُعِيدُهُۥ࣌		يعيده	repeats it	yuʿīduhu
+2	10:34:16	w	فَأَنّٜىٰ		فاني	So how	fa-annā
+2	10:34:17	w	تُوفَكُونَ࣌		توفكون	you are deluded	tu'fakūna
+2	10:34:18	e	۝٣٤				
+2	10:35:1	w	قُلْ		قل	Say	qul
+2	10:35:2	w	هَلْ		هل	Is (there)	hal
+2	10:35:3	w	مِن		من	of	min
+2	10:35:4	w	شُرَكَآئِكُم		شركايكم	your partners	shurakāikum
+2	10:35:5	w	مَّنْ		من	(any) who	man
+3	10:35:6	w	يَّهْدِےٓ		يهدي	guides	yahdī
+3	10:35:7	w	إِلَى		الي	to	ilā
+3	10:35:8	w	ࡰ۬لْحَقِّ࣌		الحق	the truth	l-ḥaqi
+3	10:35:9	w	قُلِ		قل	Say	quli
+3	10:35:10	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+3	10:35:11	w	يَهْدِے		يهدي	guides	yahdī
+3	10:35:12	w	لِلْحَقِّ࣌		للحق	to the truth	lil'ḥaqqi
+3	10:35:13	w	أَفَمَنْ		افمن	Is then (he) who	afaman
+3	10:35:14	w	يَّهْدِےٓ		يهدي	guides	yahdī
+3	10:35:15	w	إِلَى		الي	to	ilā
+3	10:35:16	w	ࡰ۬لْحَقِّ		الحق	the truth	l-ḥaqi
+3	10:35:17	w	أَحَقُّ		احق	more worthy	aḥaqqu
+4	10:35:18	w	أَنْ		ان	that	an
+4	10:35:19	w	يُّتَّبَعَ		يتبع	he should be followed	yuttabaʿa
+4	10:35:20	w	أَمَّن		امن	or (he) who	amman
+4	10:35:21	w	لَّا		لا	(does) not	lā
+4	10:35:22	w	يَهَدِّےٓ		يهدي	guide	yahiddī
+4	10:35:23	w	إِلَّآ		الا	unless	illā
+4	10:35:24	w	أَنْ		ان	[that]	an
+4	10:35:25	w	يُّهْدٜىٰ࣌		يهدي	he is guided	yuh'dā
+4	10:35:26	w	فَمَا		فما	Then what	famā
+4	10:35:27	w	لَكُمْ࣌		لكم	(is) for you	lakum
+4	10:35:28	w	كَيْفَ		كيف	how	kayfa
+4	10:35:29	w	تَحْكُمُونَ࣌		تحكمون	you judge	taḥkumūna
+4	10:35:30	e	۝٣٥				
+5	10:36:1	w	وَمَا		وما	And not	wamā
+5	10:36:2	w	يَتَّبِعُ		يتبع	follow	yattabiʿu
+5	10:36:3	w	أَكْثَرُهُمُۥٓ		اكثرهم	most of them	aktharuhum
+5	10:36:4	w	إِلَّا		الا	except	illā
+5	10:36:5	w	ظَنّاً࣌		ظنا	assumption	ẓannan
+5	10:36:6	w	ࡴنَّ		ان	Indeed	inna
+5	10:36:7	w	ࡰ۬لظَّنَّ		الظن	the assumption	l-ẓana
+5	10:36:8	w	لَا		لا	(does) not	lā
+5	10:36:9	w	يُغْنِے		يغني	avail	yugh'nī
+5	10:36:10	w	مِنَ		من	against	mina
+5	10:36:11	w	ࡰ۬لْحَقِّ		الحق	the truth	l-ḥaqi
+5	10:36:12	w	شَيْـٔاً࣌		شيا	anything	shayan
+5	10:36:13	w	ࡴنَّ		ان	Indeed	inna
+6	10:36:14	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	10:36:15	w	عَلِيمُۢ		عليم	(is) All-Knower	ʿalīmun
+6	10:36:16	w	بِمَا		بما	of what	bimā
+6	10:36:17	w	يَفْعَلُونَ࣌		يفعلون	they do	yafʿalūna
+6	10:36:18	e	۝٣٦				
+6	10:37:1	w	۞ وَمَا		وما	And not	wamā
+6	10:37:2	w	كَانَ		كان	is	kāna
+6	10:37:3	w	هَٰذَا		هذا	this	hādhā
+6	10:37:4	w	ࡰ۬لْقُرْءَانُ		القران	the Quran	l-qur'ānu
+6	10:37:5	w	أَنْ		ان	that	an
+6	10:37:6	w	يُّفْتَرٜىٰ		يفتري	(it could be) produced	yuf'tarā
+6	10:37:7	w	مِن		من	by	min
+7	10:37:8	w	دُونِ		دون	other than Allah	dūni
+7	10:37:9	w	ࡴ۬للَّهِ࣌		الله	other than Allah	l-lahi
+7	10:37:10	w	وَلَٰكِن		ولكن	but	walākin
+7	10:37:11	w	تَصْدِيقَ		تصديق	(it is) a confirmation	taṣdīqa
+7	10:37:12	w	ࡰ۬لذِے		الذي	(of that) which	alladhī
+7	10:37:13	w	بَيْنَ		بين	(was) before it	bayna
+7	10:37:14	w	يَدَيْهِ		يديه	(was) before it	yadayhi
+7	10:37:15	w	وَتَفْصِيلَ		وتفصيل	and a detailed explanation	watafṣīla
+7	10:37:16	w	ࡰ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+8	10:37:17	w	لَا		لا	(there is) no	lā
+8	10:37:18	w	رَيْبَ		ريب	doubt	rayba
+8	10:37:19	w	فِيهِ		فيه	in it	fīhi
+8	10:37:20	w	مِن		من	from	min
+8	10:37:21	w	رَّبِّ		رب	(the) Lord	rabbi
+8	10:37:22	w	ࡴ۬لْعَٰلَمِينَ࣌		العلمين	(of) the worlds	l-ʿālamīna
+8	10:37:23	e	۝٣٧				
+8	10:38:1	w	أَمْ		ام	Or	am
+8	10:38:2	w	يَقُولُونَ		يقولون	(do) they say	yaqūlūna
+8	10:38:3	w	ࡰٜفْتَرٜيٰهُ࣌		افتريه	He has invented it	if'tarāhu
+8	10:38:4	w	قُلْ		قل	Say	qul
+8	10:38:5	w	فَاتُواْ		فاتوا	Then bring	fatū
+8	10:38:6	w	بِسُورَةࣲ		بسورة	a Surah	bisūratin
+9	10:38:7	w	مِّثْلِهِۦ࣌		مثلهي	like it	mith'lihi
+9	10:38:8	w	وَادْعُواْ		وادعوا	and call	wa-id'ʿū
+9	10:38:9	w	مَنِ		من	whoever	mani
+9	10:38:10	w	ࡴٜسْتَطَعْتُم		استطعتم	you can	is'taṭaʿtum
+9	10:38:11	w	مِّن		من	besides Allah	min
+9	10:38:12	w	دُونِ		دون	besides Allah	dūni
+9	10:38:13	w	ࡴ۬للَّهِ		الله	besides Allah	l-lahi
+9	10:38:14	w	إِن		ان	if	in
+9	10:38:15	w	كُنتُمْ		كنتم	you are	kuntum
+9	10:38:16	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+9	10:38:17	e	۝٣٨				
+10	10:39:1	w	بَلْ		بل	Nay	bal
+10	10:39:2	w	كَذَّبُواْ		كذبوا	they denied	kadhabū
+10	10:39:3	w	بِمَا		بما	what	bimā
+10	10:39:4	w	لَمْ		لم	not	lam
+10	10:39:5	w	يُحِيطُواْ		يحيطوا	they could encompass	yuḥīṭū
+10	10:39:6	w	بِعِلْمِهِۦ		بعلمهي	(of) its knowledge	biʿil'mihi
+10	10:39:7	w	وَلَمَّا		ولما	and not	walammā
+10	10:39:8	w	يَاتِهِمْ		ياتهم	has come (to) them	yatihim
+10	10:39:9	w	تَاوِيلُهُۥ࣌		تاويله	its interpretation	tawīluhu
+10	10:39:10	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+11	10:39:11	w	كَذَّبَ		كذب	denied	kadhaba
+11	10:39:12	w	ࡰ۬لذِينَ		الذين	those	alladhīna
+11	10:39:13	w	مِن		من	before them	min
+11	10:39:14	w	قَبْلِهِمْ࣌		قبلهم	before them	qablihim
+11	10:39:15	w	فَانظُرْ		فانظر	then see	fa-unẓur
+11	10:39:16	w	كَيْفَ		كيف	how	kayfa
+11	10:39:17	w	كَانَ		كان	was	kāna
+11	10:39:18	w	عَٰقِبَةُ		عقبة	(the) end	ʿāqibatu
+11	10:39:19	w	ࡲ۬لظَّٰلِمِينَ࣌		الظلمين	(of) the wrongdoers	l-ẓālimīna
+11	10:39:20	e	۝٣٩				
+12	10:40:1	w	وَمِنْهُم		ومنهم	And of them	wamin'hum
+12	10:40:2	w	مَّنْ		من	(is one) who	man
+12	10:40:3	w	يُّومِنُ		يومن	believes	yu'minu
+12	10:40:4	w	بِهِۦ		بهي	in it	bihi
+12	10:40:5	w	وَمِنْهُم		ومنهم	and of them	wamin'hum
+12	10:40:6	w	مَّن		من	(is one) who	man
+12	10:40:7	w	لَّا		لا	(does) not	lā
+12	10:40:8	w	يُومِنُ		يومن	believe	yu'minu
+12	10:40:9	w	بِهِۦ࣌		بهي	in it	bihi
+12	10:40:10	w	وَرَبُّكَ		وربك	And your Lord	warabbuka
+12	10:40:11	w	أَعْلَمُ		اعلم	(is) All-Knower	aʿlamu
+13	10:40:12	w	بِالْمُفْسِدِينَ࣌		بالمفسدين	of the corrupters	bil-muf'sidīna
+13	10:40:13	e	۝٤٠				
+13	10:41:1	w	وَإِن		وان	And if	wa-in
+13	10:41:2	w	كَذَّبُوكَ		كذبوك	they deny you	kadhabūka
+13	10:41:3	w	فَقُل		فقل	then say	faqul
+13	10:41:4	w	لِّے		لي	For me	lī
+13	10:41:5	w	عَمَلِے		عملي	(are) my deeds	ʿamalī
+13	10:41:6	w	وَلَكُمْ		ولكم	and for you	walakum
+13	10:41:7	w	عَمَلُكُمُۥٓ		عملكم	(are) your deeds	ʿamalukum
+14	10:41:8	w	أَنتُم		انتم	You	antum
+14	10:41:9	w	بَرِيٓـُٔونَ		بريون	(are) disassociated	barīūna
+14	10:41:10	w	مِمَّآ		مما	from what	mimmā
+14	10:41:11	w	أَعْمَلُ		اعمل	I do	aʿmalu
+14	10:41:12	w	وَأَنَا		وانا	and I am	wa-anā
+14	10:41:13	w	بَرِےٓءࣱ		بري	disassociated	barīon
+14	10:41:14	w	مِّمَّا		مما	from what	mimmā
+14	10:41:15	w	تَعْمَلُونَ࣌		تعملون	you do	taʿmalūna
+14	10:41:16	e	۝٤١				
+14	10:42:1	w	وَمِنْهُم		ومنهم	And among them	wamin'hum
+14	10:42:2	w	مَّنْ		من	(are some) who	man
+15	10:42:3	w	يَّسْتَمِعُونَ		يستمعون	listen	yastamiʿūna
+15	10:42:4	w	إِلَيْكَ࣌		اليك	to you	ilayka
+15	10:42:5	w	أَفَأَنتَ		افانت	But (can) you	afa-anta
+15	10:42:6	w	تُسْمِعُ		تسمع	cause the deaf to hear	tus'miʿu
+15	10:42:7	w	ࡲ۬لصُّمَّ		الصم	cause the deaf to hear	l-ṣuma
+15	10:42:8	w	وَلَوْ		ولو	even though	walaw
+15	10:42:9	w	كَانُواْ		كانوا	they [were]	kānū
+15	10:42:10	w	لَا		لا	(do) not	lā
+15	10:42:11	w	يَعْقِلُونَ࣌		يعقلون	use reason	yaʿqilūna
+15	10:42:12	e	۝٤٢				

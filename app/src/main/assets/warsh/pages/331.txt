@@ -1,0 +1,120 @@
+1	21:101:1	w	لَا		لا	Not	lā
+1	21:101:2	w	يَسْمَعُونَ		يسمعون	they will hear	yasmaʿūna
+1	21:101:3	w	حَسِيسَهَا		حسيسها	(the) slightest sound of it	ḥasīsahā
+1	21:101:4	w	وَهُمْ		وهم	and they	wahum
+1	21:101:5	w	فِے		في	in	fī
+1	21:101:6	w	مَا		ما	what	mā
+1	21:101:7	w	ࡰٜشْتَهَتَ		اشتهت	desire	ish'tahat
+1	21:101:8	w	ࡰنفُسُهُمْ		انفسهم	their souls	anfusuhum
+2	21:101:9	w	خَٰلِدُونَ࣌		خلدون	will abide forever	khālidūna
+2	21:101:10	e	۝١٠١				
+2	21:102:1	w	لَا		لا	Not	lā
+2	21:102:2	w	يَحْزُنُهُمُ		يحزنهم	will grieve them	yaḥzunuhumu
+2	21:102:3	w	ࡲ۬لْفَزَعُ		الفزع	the terror	l-fazaʿu
+2	21:102:4	w	ࡲ۬لَاكْبَرُ࣌		الاكبر	[the] greatest	l-akbaru
+2	21:102:5	w	وَتَتَلَقّٜيٰهُمُ		وتتلقيهم	and will meet them	watatalaqqāhumu
+3	21:102:6	w	ࡲ۬لْمَلَٰٓئِكَةُ		المليكة	the Angels	l-malāikatu
+3	21:102:7	w	هَٰذَا		هذا	This	hādhā
+3	21:102:8	w	يَوْمُكُمُ		يومكم	(is) your Day	yawmukumu
+3	21:102:9	w	ࡲ۬لذِے		الذي	which	alladhī
+3	21:102:10	w	كُنتُمْ		كنتم	you were	kuntum
+3	21:102:11	w	تُوعَدُونَ࣌		توعدون	promised	tūʿadūna
+3	21:102:12	e	۝١٠٢				
+4	21:103:1	w	يَوْمَ		يوم	(The) Day	yawma
+4	21:103:2	w	نَطْوِے		نطوي	We will fold	naṭwī
+4	21:103:3	w	ࡴ۬لسَّمَآءَ		السما	the heaven	l-samāa
+4	21:103:4	w	كَطَيِّ		كطي	like (the) folding	kaṭayyi
+4	21:103:5	w	ࡴ۬لسِّجِلِّ		السجل	(of) a scroll	l-sijili
+4	21:103:6	w	لِلْكِتَٰبِ࣌		للكتب	for records	lil'kutubi
+4	21:103:7	w	كَمَا		كما	As	kamā
+5	21:103:8	w	بَدَأْنَآ		بدانا	We began	badanā
+5	21:103:9	w	أَوَّلَ		اول	(the) first	awwala
+5	21:103:10	w	خَلْقࣲ		خلق	creation	khalqin
+5	21:103:11	w	نُّعِيدُهُۥ࣌		نعيده	We will repeat it	nuʿīduhu
+5	21:103:12	w	وَعْداً		وعدا	a promise	waʿdan
+5	21:103:13	w	عَلَيْنَآ࣌		علينا	upon Us	ʿalaynā
+5	21:103:14	w	إِنَّا		انا	Indeed, We	innā
+5	21:103:15	w	كُنَّا		كنا	We are	kunnā
+6	21:103:16	w	فَٰعِلِينَ࣌		فعلين	(the) Doers	fāʿilīna
+6	21:103:17	e	۝١٠٣				
+6	21:104:1	w	وَلَقَدْ		ولقد	And verily	walaqad
+6	21:104:2	w	كَتَبْنَا		كتبنا	We have written	katabnā
+6	21:104:3	w	فِے		في	in	fī
+6	21:104:4	w	ࡴ۬لزَّبُورِ		الزبور	the Scripture	l-zabūri
+6	21:104:5	w	مِنۢ		من	after	min
+6	21:104:6	w	بَعْدِ		بعد	after	baʿdi
+7	21:104:7	w	ࡴ۬لذِّكْرِ		الذكر	the mention	l-dhik'ri
+7	21:104:8	w	أَنَّ		ان	that	anna
+7	21:104:9	w	ࡰ۬لَارْضَ		الارض	the earth	l-arḍa
+7	21:104:10	w	يَرِثُهَا		يرثها	will inherit it	yarithuhā
+7	21:104:11	w	عِبَادِيَ		عبادي	My slaves	ʿibādiya
+7	21:104:12	w	ࡰ۬لصَّٰلِحُونَ࣌		الصلحون	the righteous	l-ṣāliḥūna
+7	21:104:13	e	۝١٠٤				
+8	21:105:1	w	إِنَّ		ان	Indeed	inna
+8	21:105:2	w	فِے		في	in	fī
+8	21:105:3	w	هَٰذَا		هذا	this	hādhā
+8	21:105:4	w	لَبَلَٰغاࣰ		لبلغا	surely is a Message	labalāghan
+8	21:105:5	w	لِّقَوْمٍ		لقوم	for a people	liqawmin
+8	21:105:6	w	عَٰبِدِينَ࣌		عبدين	worshippers	ʿābidīna
+8	21:105:7	e	۝١٠٥				
+8	21:106:1	w	وَمَآ		وما	And not	wamā
+8	21:106:2	w	أَرْسَلْنَٰكَ		ارسلنك	We have sent you	arsalnāka
+9	21:106:3	w	إِلَّا		الا	but	illā
+9	21:106:4	w	رَحْمَةࣰ		رحمة	(as) a mercy	raḥmatan
+9	21:106:5	w	لِّلْعَٰلَمِينَ࣌		للعلمين	for the worlds	lil'ʿālamīna
+9	21:106:6	e	۝١٠٦				
+9	21:107:1	w	قُلِ		قل	Say	qul
+9	21:107:2	w	ࡴنَّمَا		انما	Only	innamā
+9	21:107:3	w	يُوحٜىٰٓ		يوحي	it is revealed	yūḥā
+9	21:107:4	w	إِلَيَّ		الي	to me	ilayya
+9	21:107:5	w	أَنَّمَآ		انما	that	annamā
+10	21:107:6	w	إِلَٰهُكُمُۥٓ		الهكم	your god	ilāhukum
+10	21:107:7	w	إِلَٰهࣱ		اله	(is) God	ilāhun
+10	21:107:8	w	وَٰحِدࣱ࣌		وحد	One	wāḥidun
+10	21:107:9	w	فَهَلَ		فهل	so will	fahal
+10	21:107:10	w	ࡰنتُم		انتم	you	antum
+10	21:107:11	w	مُّسْلِمُونَ࣌		مسلمون	submit (to Him)	mus'limūna
+10	21:107:12	e	۝١٠٧				
+10	21:108:1	w	فَإِن		فان	But if	fa-in
+11	21:108:2	w	تَوَلَّوْاْ		تولوا	they turn away	tawallaw
+11	21:108:3	w	فَقُلَ		فقل	then say	faqul
+11	21:108:4	w	اٰذَنتُكُمْ		اذنتكم	I (have) announced to you	ādhantukum
+11	21:108:5	w	عَلَىٰ		علي	equally	ʿalā
+11	21:108:6	w	سَوَآءࣲ࣌		سوا	equally	sawāin
+11	21:108:7	w	وَإِنَ		وان	And not	wa-in
+11	21:108:8	w	ࡰدْرِےٓ		ادري	I know	adrī
+11	21:108:9	w	أَقَرِيبٌ		اقريب	whether is near	aqarībun
+12	21:108:10	w	ࡰم		ام	or	am
+12	21:108:11	w	بَعِيدࣱ		بعيد	far	baʿīdun
+12	21:108:12	w	مَّا		ما	what	mā
+12	21:108:13	w	تُوعَدُونَ࣌		توعدون	you are promised	tūʿadūna
+12	21:108:14	e	۝١٠٨				
+12	21:109:1	w	إِنَّهُۥ		انه	Indeed, He	innahu
+12	21:109:2	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+12	21:109:3	w	ࡲ۬لْجَهْرَ		الجهر	the declared	l-jahra
+12	21:109:4	w	مِنَ		من	[of]	mina
+13	21:109:5	w	ࡰ۬لْقَوْلِ		القول	[the] speech	l-qawli
+13	21:109:6	w	وَيَعْلَمُ		ويعلم	and He knows	wayaʿlamu
+13	21:109:7	w	مَا		ما	what	mā
+13	21:109:8	w	تَكْتُمُونَ࣌		تكتمون	you conceal	taktumūna
+13	21:109:9	e	۝١٠٩				
+13	21:110:1	w	وَإِنَ		وان	And not	wa-in
+13	21:110:2	w	ࡰدْرِے		ادري	I know	adrī
+13	21:110:3	w	لَعَلَّهُۥ		لعله	perhaps it may be	laʿallahu
+14	21:110:4	w	فِتْنَةࣱ		فتنة	a trial	fit'natun
+14	21:110:5	w	لَّكُمْ		لكم	for you	lakum
+14	21:110:6	w	وَمَتَٰعٌ		ومتع	and an enjoyment	wamatāʿun
+14	21:110:7	w	ࡴلَىٰ		الي	for	ilā
+14	21:110:8	w	حِينࣲ࣌		حين	a time	ḥīnin
+14	21:110:9	e	۝١١٠				
+14	21:111:1	w	قُل		قل	He said	qāla
+14	21:111:2	w	رَّبِّ		رب	My Lord	rabbi
+14	21:111:3	w	ࡴ࢈حْكُم		احكم	judge	uḥ'kum
+15	21:111:4	w	بِالْحَقِّ࣌		بالحق	in truth	bil-ḥaqi
+15	21:111:5	w	وَرَبُّنَا		وربنا	And our Lord	warabbunā
+15	21:111:6	w	ࡰ۬لرَّحْمَٰنُ		الرحمن	(is) the Most Gracious	l-raḥmānu
+15	21:111:7	w	ࡲ۬لْمُسْتَعَانُ		المستعان	the One Whose help is sought	l-mus'taʿānu
+15	21:111:8	w	عَلَىٰ		علي	against	ʿalā
+15	21:111:9	w	مَا		ما	what	mā
+15	21:111:10	w	تَصِفُونَ࣌		تصفون	you attribute	taṣifūna
+15	21:111:11	e	۝١١١				

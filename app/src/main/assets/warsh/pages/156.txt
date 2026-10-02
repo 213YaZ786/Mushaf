@@ -1,0 +1,145 @@
+1	7:43:1	w	وَنَادٜىٰٓ		ونادي	And will call out	wanādā
+1	7:43:2	w	أَصْحَٰبُ		اصحب	(the) companions	aṣḥābu
+1	7:43:3	w	ࡲ۬لْجَنَّةِ		الجنة	(of) Paradise	l-janati
+1	7:43:4	w	أَصْحَٰبَ		اصحب	(to the) companions	aṣḥāba
+1	7:43:5	w	ࡰ۬لنّٜارِ		النار	(of) the Fire	l-nāri
+1	7:43:6	w	أَن		ان	that	an
+1	7:43:7	w	قَدْ		قد	Indeed	qad
+1	7:43:8	w	وَجَدْنَا		وجدنا	we found	wajadnā
+1	7:43:9	w	مَا		ما	what	mā
+1	7:43:10	w	وَعَدَنَا		وعدنا	(had) promised us	waʿadanā
+2	7:43:11	w	رَبُّنَا		ربنا	our Lord	rabbunā
+2	7:43:12	w	حَقّاࣰ		حقا	true	ḥaqqan
+2	7:43:13	w	فَهَلْ		فهل	So have	fahal
+2	7:43:14	w	وَجَدتُّم		وجدتم	you found	wajadttum
+2	7:43:15	w	مَّا		ما	what	mā
+2	7:43:16	w	وَعَدَ		وعد	(was) promised	waʿada
+2	7:43:17	w	رَبُّكُمْ		ربكم	(by) your Lord	rabbukum
+2	7:43:18	w	حَقّاࣰ࣌		حقا	(to be) true	ḥaqqan
+2	7:43:19	w	قَالُواْ		قالوا	They will say	qālū
+2	7:43:20	w	نَعَمْ࣌		نعم	Yes	naʿam
+2	7:43:21	w	فَأَذَّنَ		فاذن	Then will announce	fa-adhana
+3	7:43:22	w	مُوَ۬ذِّنُۢ		موذن	an announcer	mu-adhinun
+3	7:43:23	w	بَيْنَهُمُۥٓ		بينهم	among them	baynahum
+3	7:43:24	w	أَن		ان	[that]	an
+3	7:43:25	w	لَّعْنَةُ		لعنة	(The) curse	laʿnatu
+3	7:43:26	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+3	7:43:27	w	عَلَى		علي	(is) on	ʿalā
+3	7:43:28	w	ࡰ۬لظَّٰلِمِينَ		الظلمين	the wrongdoers	l-ẓālimīna
+3	7:43:29	e	۝٤٣				
+3	7:44:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+3	7:44:2	w	يَصُدُّونَ		يصدون	hinder	yaṣuddūna
+3	7:44:3	w	عَن		عن	from	ʿan
+4	7:44:4	w	سَبِيلِ		سبيل	(the) way	sabīli
+4	7:44:5	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+4	7:44:6	w	وَيَبْغُونَهَا		ويبغونها	and seek in it	wayabghūnahā
+4	7:44:7	w	عِوَجاࣰ		عوجا	crookedness	ʿiwajan
+4	7:44:8	w	وَهُم		وهم	while they (are)	wahum
+4	7:44:9	w	بِالَاخِرَةِ		بالاخرة	concerning the Hereafter	bil-ākhirati
+4	7:44:10	w	كَٰفِرُونَ࣌		كفرون	disbelievers	kāfirūna
+4	7:44:11	e	۝٤٤				
+4	7:45:1	w	وَبَيْنَهُمَا		وبينهما	And between them	wabaynahumā
+5	7:45:2	w	حِجَابࣱ࣌		حجاب	(will be) a partition	ḥijābun
+5	7:45:3	w	وَعَلَى		وعلي	and on	waʿalā
+5	7:45:4	w	ࡰ۬لَاعْرَافِ		الاعراف	the heights	l-aʿrāfi
+5	7:45:5	w	رِجَالࣱ		رجال	(will be) men	rijālun
+5	7:45:6	w	يَعْرِفُونَ		يعرفون	recognizing	yaʿrifūna
+5	7:45:7	w	كُلّاَۢ		كلا	all	kullan
+5	7:45:8	w	بِسِيمٜيٰهُمْ࣌		بسيميهم	by their marks	bisīmāhum
+5	7:45:9	w	وَنَادَوَاْ		ونادوا	And they will call out	wanādaw
+6	7:45:10	w	ࡰصْحَٰبَ		اصحب	(to the) companions	aṣḥāba
+6	7:45:11	w	ࡰ۬لْجَنَّةِ		الجنة	(of) Paradise	l-janati
+6	7:45:12	w	أَن		ان	that	an
+6	7:45:13	w	سَلَٰمٌ		سلم	Peace	salāmun
+6	7:45:14	w	عَلَيْكُمْ࣌		عليكم	(be) upon you	ʿalaykum
+6	7:45:15	w	لَمْ		لم	Not	lam
+6	7:45:16	w	يَدْخُلُوهَا		يدخلوها	they have entered it	yadkhulūhā
+6	7:45:17	w	وَهُمْ		وهم	but they	wahum
+6	7:45:18	w	يَطْمَعُونَ࣌		يطمعون	hope	yaṭmaʿūna
+6	7:45:19	e	۝٤٥				
+7	7:46:1	w	۞ وَإِذَا		واذا	And when	wa-idhā
+7	7:46:2	w	صُرِفَتَ		صرفت	are turned	ṣurifat
+7	7:46:3	w	ࡰبْصَٰرُهُمْ		ابصرهم	their eyes	abṣāruhum
+7	7:46:4	w	تِلْقَآءَ		تلقا	towards	til'qāa
+7	7:46:5	w	اصْحَٰبِ		اصحب	(the) companions	aṣḥābi
+7	7:46:6	w	ࡴ۬لنّٜارِ		النار	(of) the Fire	l-nāri
+7	7:46:7	w	قَالُواْ		قالوا	they (will) say	qālū
+7	7:46:8	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+7	7:46:9	w	لَا		لا	(Do) not	lā
+7	7:46:10	w	تَجْعَلْنَا		تجعلنا	place us	tajʿalnā
+8	7:46:11	w	مَعَ		مع	with	maʿa
+8	7:46:12	w	ࡰ۬لْقَوْمِ		القوم	the people	l-qawmi
+8	7:46:13	w	ࡴ۬لظَّٰلِمِينَ࣌		الظلمين	the wrongdoers	l-ẓālimīna
+8	7:46:14	e	۝٤٦				
+8	7:47:1	w	وَنَادٜىٰٓ		ونادي	And (will) call out	wanādā
+8	7:47:2	w	أَصْحَٰبُ		اصحب	(the) companions	aṣḥābu
+8	7:47:3	w	ࡲ۬لَاعْرَافِ		الاعراف	(of) the heights	l-aʿrāfi
+8	7:47:4	w	رِجَالاࣰ		رجالا	(to) men	rijālan
+8	7:47:5	w	يَعْرِفُونَهُم		يعرفونهم	whom they recognize	yaʿrifūnahum
+9	7:47:6	w	بِسِيمٜيٰهُمْ		بسيميهم	by their marks	bisīmāhum
+9	7:47:7	w	قَالُواْ		قالوا	saying	qālū
+9	7:47:8	w	مَآ		ما	Not	mā
+9	7:47:9	w	أَغْنٜىٰ		اغني	(has) availed	aghnā
+9	7:47:10	w	عَنكُمْ		عنكم	[to] you	ʿankum
+9	7:47:11	w	جَمْعُكُمْ		جمعكم	your gathering	jamʿukum
+9	7:47:12	w	وَمَا		وما	and what	wamā
+9	7:47:13	w	كُنتُمْ		كنتم	you were	kuntum
+9	7:47:14	w	تَسْتَكْبِرُونَ࣌		تستكبرون	arrogant (about)	tastakbirūna
+9	7:47:15	e	۝٤٧				
+10	7:48:1	w	أَهَٰٓؤُلَآءِ		اهولا	Are these	ahāulāi
+10	7:48:2	w	ࡴ۬لذِينَ		الذين	the ones whom	alladhīna
+10	7:48:3	w	أَقْسَمْتُمْ		اقسمتم	you had sworn	aqsamtum
+10	7:48:4	w	لَا		لا	(that) not	lā
+10	7:48:5	w	يَنَالُهُمُ		ينالهم	(will) grant them	yanāluhumu
+10	7:48:6	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+10	7:48:7	w	بِرَحْمَةٍ࣌		برحمة	Mercy	biraḥmatin
+10	7:48:8	w	ࡲ࢈دْخُلُواْ		ادخلوا	Enter	ud'khulū
+10	7:48:9	w	ࡲ۬لْجَنَّةَ		الجنة	Paradise	l-janata
+11	7:48:10	w	لَا		لا	(There will be) no	lā
+11	7:48:11	w	خَوْفٌ		خوف	fear	khawfun
+11	7:48:12	w	عَلَيْكُمْ		عليكم	upon you	ʿalaykum
+11	7:48:13	w	وَلَآ		ولا	and not	walā
+11	7:48:14	w	أَنتُمْ		انتم	you	antum
+11	7:48:15	w	تَحْزَنُونَ࣌		تحزنون	will grieve	taḥzanūna
+11	7:48:16	e	۝٤٨				
+11	7:49:1	w	وَنَادٜىٰٓ		ونادي	And (will) call out	wanādā
+11	7:49:2	w	أَصْحَٰبُ		اصحب	(the) companions	aṣḥābu
+11	7:49:3	w	ࡲ۬لنّٜارِ		النار	(of) the Fire	l-nāri
+11	7:49:4	w	أَصْحَٰبَ		اصحب	(to the) companions	aṣḥāba
+12	7:49:5	w	ࡰ۬لْجَنَّةِ		الجنة	(of) Paradise	l-janati
+12	7:49:6	w	أَنَ		ان	[that]	an
+12	7:49:7	w	ࡰفِيضُواْ		افيضوا	Pour	afīḍū
+12	7:49:8	w	عَلَيْنَا		علينا	upon us	ʿalaynā
+12	7:49:9	w	مِنَ		من	[of]	mina
+12	7:49:10	w	ࡰ۬لْمَآءِ		الما	(some) water	l-māi
+12	7:49:11	w	ࡶَوْ		او	or	aw
+12	7:49:12	w	مِمَّا		مما	of what	mimmā
+12	7:49:13	w	رَزَقَكُمُ		رزقكم	(has been) provided (to) you	razaqakumu
+12	7:49:14	w	ࡲ۬للَّهُ࣌		الله	(by) Allah	l-lahu
+12	7:49:15	w	قَالُوٓاْ		قالوا	They (will) say	qālū
+13	7:49:16	w	إِنَّ		ان	Indeed	inna
+13	7:49:17	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+13	7:49:18	w	حَرَّمَهُمَا		حرمهما	has forbidden both	ḥarramahumā
+13	7:49:19	w	عَلَى		علي	to	ʿalā
+13	7:49:20	w	ࡰ۬لْكٜـٰفِرِينَ		الكفرين	the disbelievers	l-kāfirīna
+13	7:49:21	e	۝٤٩				
+13	7:50:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+13	7:50:2	w	ࡰٜتَّخَذُواْ		اتخذوا	took	ittakhadhū
+13	7:50:3	w	دِينَهُمْ		دينهم	their religion	dīnahum
+13	7:50:4	w	لَهْواࣰ		لهوا	(as) an amusement	lahwan
+14	7:50:5	w	وَلَعِباࣰ		ولعبا	and play	walaʿiban
+14	7:50:6	w	وَغَرَّتْهُمُ		وغرتهم	and deluded them	wagharrathumu
+14	7:50:7	w	ࡲ۬لْحَيَوٰةُ		الحيوة	the life	l-ḥayatu
+14	7:50:8	w	ࡲ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+14	7:50:9	w	فَالْيَوْمَ		فاليوم	So today	fal-yawma
+14	7:50:10	w	نَنسٜيٰهُمْ		ننسيهم	We forget them	nansāhum
+14	7:50:11	w	كَمَا		كما	as	kamā
+14	7:50:12	w	نَسُواْ		نسوا	they forgot	nasū
+15	7:50:13	w	لِقَآءَ		لقا	(the) meeting	liqāa
+15	7:50:14	w	يَوْمِهِمْ		يومهم	(of) their day	yawmihim
+15	7:50:15	w	هَٰذَا		هذا	this	hādhā
+15	7:50:16	w	وَمَا		وما	and [what]	wamā
+15	7:50:17	w	كَانُواْ		كانوا	(as) they used to	kānū
+15	7:50:18	w	بِـَٔايَٰتِنَا		بايتنا	with Our Verses	biāyātinā
+15	7:50:19	w	يَجْحَدُونَ࣌		يجحدون	they reject	yajḥadūna
+15	7:50:20	e	۝٥٠				

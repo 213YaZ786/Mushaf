@@ -1,0 +1,135 @@
+1	32:12:1	w	وَلَوْ		ولو	And if	walaw
+1	32:12:2	w	تَرٜىٰٓ		تري	you (could) see	tarā
+1	32:12:3	w	إِذِ		اذ	when	idhi
+1	32:12:4	w	ࡴ۬لْمُجْرِمُونَ		المجرمون	the criminals	l-muj'rimūna
+1	32:12:5	w	نَاكِسُواْ		ناكسوا	(will) hang	nākisū
+1	32:12:6	w	رُءُوسِهِمْ		روسهم	their heads	ruūsihim
+1	32:12:7	w	عِندَ		عند	before	ʿinda
+1	32:12:8	w	رَبِّهِمْ		ربهم	their Lord	rabbihim
+2	32:12:9	w	رَبَّنَآ		ربنا	Our Lord	rabbanā
+2	32:12:10	w	أَبْصَرْنَا		ابصرنا	we have seen	abṣarnā
+2	32:12:11	w	وَسَمِعْنَا		وسمعنا	and we have heard	wasamiʿ'nā
+2	32:12:12	w	فَارْجِعْنَا		فارجعنا	so return us	fa-ir'jiʿ'nā
+2	32:12:13	w	نَعْمَلْ		نعمل	we will do	naʿmal
+2	32:12:14	w	صَٰلِحاً		صلحا	righteous (deeds)	ṣāliḥan
+2	32:12:15	w	ࡴنَّا		انا	Indeed, we	innā
+2	32:12:16	w	مُوقِنُونَ࣌		موقنون	(are now) certain	mūqinūna
+2	32:12:17	e	۝١٢				
+3	32:13:1	w	وَلَوْ		ولو	And if	walaw
+3	32:13:2	w	شِئْنَا		شينا	We (had) willed	shi'nā
+3	32:13:3	w	لَأٓتَيْنَا		لاتينا	surely We (would) have given	laātaynā
+3	32:13:4	w	كُلَّ		كل	every	kulla
+3	32:13:5	w	نَفْسٍ		نفس	soul	nafsin
+3	32:13:6	w	هُدٜيٰهَا࣌		هديها	its guidance	hudāhā
+3	32:13:7	w	وَلَٰكِنْ		ولكن	but	walākin
+3	32:13:8	w	حَقَّ		حق	(is) true	ḥaqqa
+3	32:13:9	w	ࡰ۬لْقَوْلُ		القول	the Word	l-qawlu
+4	32:13:10	w	مِنِّے		مني	from Me	minnī
+4	32:13:11	w	لَأَمْلَأَنَّ		لاملان	that I will surely fill	la-amla-anna
+4	32:13:12	w	جَهَنَّمَ		جهنم	Hell	jahannama
+4	32:13:13	w	مِنَ		من	with	mina
+4	32:13:14	w	ࡰ۬لْجِنَّةِ		الجنة	the jinn	l-jinati
+4	32:13:15	w	وَالنَّاسِ		والناس	and the men	wal-nāsi
+4	32:13:16	w	أَجْمَعِينَ࣌		اجمعين	together	ajmaʿīna
+4	32:13:17	e	۝١٣				
+4	32:14:1	w	فَذُوقُواْ		فذوقوا	So taste	fadhūqū
+5	32:14:2	w	بِمَا		بما	because	bimā
+5	32:14:3	w	نَسِيتُمْ		نسيتم	you forgot	nasītum
+5	32:14:4	w	لِقَآءَ		لقا	(the) meeting	liqāa
+5	32:14:5	w	يَوْمِكُمْ		يومكم	(of) this Day of yours	yawmikum
+5	32:14:6	w	هَٰذَآ		هذا	(of) this Day of yours	hādhā
+5	32:14:7	w	إِنَّا		انا	Indeed, We	innā
+5	32:14:8	w	نَسِينَٰكُمْ࣌		نسينكم	have forgotten you	nasīnākum
+5	32:14:9	w	وَذُوقُواْ		وذوقوا	And taste	wadhūqū
+5	32:14:10	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+6	32:14:11	w	ࡰ۬لْخُلْدِ		الخلد	(of) eternity	l-khul'di
+6	32:14:12	w	بِمَا		بما	for what	bimā
+6	32:14:13	w	كُنتُمْ		كنتم	you used (to)	kuntum
+6	32:14:14	w	تَعْمَلُونَ࣌		تعملون	do	taʿmalūna
+6	32:14:15	e	۝١٤				
+6	32:15:1	w	إِنَّمَا		انما	Only	innamā
+6	32:15:2	w	يُومِنُ		يومن	believe	yu'minu
+6	32:15:3	w	بِـَٔايَٰتِنَا		بايتنا	in Our Verses	biāyātinā
+6	32:15:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	32:15:5	w	إِذَا		اذا	when	idhā
+7	32:15:6	w	ذُكِّرُواْ		ذكروا	they are reminded	dhukkirū
+7	32:15:7	w	بِهَا		بها	of them	bihā
+7	32:15:8	w	خَرُّواْ		خروا	fall down	kharrū
+7	32:15:9	w	سُجَّداࣰ		سجدا	prostrating	sujjadan
+7	32:15:10	w	وَسَبَّحُواْ		وسبحوا	and glorify	wasabbaḥū
+7	32:15:11	w	بِحَمْدِ		بحمد	(the) praises	biḥamdi
+7	32:15:12	w	رَبِّهِمْ		ربهم	(of) their Lord	rabbihim
+7	32:15:13	w	وَهُمْ		وهم	and they	wahum
+8	32:15:14	w	لَا		لا	are not arrogant	lā
+8	32:15:15	w	يَسْتَكْبِرُونَ۩࣌		يستكبرون	are not arrogant	yastakbirūna
+8	32:15:16	e	۝١٥				
+8	32:16:1	w	تَتَجَافٜىٰ		تتجافي	Forsake	tatajāfā
+8	32:16:2	w	جُنُوبُهُمْ		جنوبهم	their sides	junūbuhum
+8	32:16:3	w	عَنِ		عن	from	ʿani
+8	32:16:4	w	ࡴ۬لْمَضَاجِعِ		المضاجع	(their) beds	l-maḍājiʿi
+9	32:16:5	w	يَدْعُونَ		يدعون	they call	yadʿūna
+9	32:16:6	w	رَبَّهُمْ		ربهم	their Lord	rabbahum
+9	32:16:7	w	خَوْفاࣰ		خوفا	(in) fear	khawfan
+9	32:16:8	w	وَطَمَعاࣰ		وطمعا	and hope	waṭamaʿan
+9	32:16:9	w	وَمِمَّا		ومما	and out of what	wamimmā
+9	32:16:10	w	رَزَقْنَٰهُمْ		رزقنهم	We have provided them	razaqnāhum
+9	32:16:11	w	يُنفِقُونَ࣌		ينفقون	they spend	yunfiqūna
+9	32:16:12	e	۝١٦				
+10	32:17:1	w	فَلَا		فلا	And not	falā
+10	32:17:2	w	تَعْلَمُ		تعلم	knows	taʿlamu
+10	32:17:3	w	نَفْسࣱ		نفس	a soul	nafsun
+10	32:17:4	w	مَّآ		ما	what	mā
+10	32:17:5	w	أُخْفِيَ		اخفي	is hidden	ukh'fiya
+10	32:17:6	w	لَهُم		لهم	for them	lahum
+10	32:17:7	w	مِّن		من	of	min
+10	32:17:8	w	قُرَّةِ		قرة	(the) comfort	qurrati
+10	32:17:9	w	أَعْيُنࣲ		اعين	(for) the eyes	aʿyunin
+10	32:17:10	w	جَزَآءَۢ		جزا	(as) a reward	jazāan
+10	32:17:11	w	بِمَا		بما	for what	bimā
+11	32:17:12	w	كَانُواْ		كانوا	they used (to)	kānū
+11	32:17:13	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+11	32:17:14	e	۝١٧				
+11	32:18:1	w	أَفَمَن		افمن	Then is one who	afaman
+11	32:18:2	w	كَانَ		كان	is	kāna
+11	32:18:3	w	مُومِناࣰ		مومنا	a believer	mu'minan
+11	32:18:4	w	كَمَن		كمن	like (him) who	kaman
+11	32:18:5	w	كَانَ		كان	is	kāna
+11	32:18:6	w	فَاسِقاࣰ࣌		فاسقا	defiantly disobedient	fāsiqan
+12	32:18:7	w	لَّا		لا	Not	lā
+12	32:18:8	w	يَسْتَوُۥنَ࣌		يستون	they are equal	yastawūna
+12	32:18:9	e	۝١٨				
+12	32:19:1	w	أَمَّا		اما	As for	ammā
+12	32:19:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	32:19:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+12	32:19:4	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+12	32:19:5	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+12	32:19:6	w	فَلَهُمْ		فلهم	then for them	falahum
+13	32:19:7	w	جَنَّٰتُ		جنت	(are) Gardens	jannātu
+13	32:19:8	w	ࡲ۬لْمَأْوٜىٰ		الماوي	(of) Refuge	l-mawā
+13	32:19:9	w	نُزُلاَۢ		نزلا	(as) hospitality	nuzulan
+13	32:19:10	w	بِمَا		بما	for what	bimā
+13	32:19:11	w	كَانُواْ		كانوا	they used (to)	kānū
+13	32:19:12	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+13	32:19:13	e	۝١٩				
+13	32:20:1	w	وَأَمَّا		واما	But as for	wa-ammā
+13	32:20:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	32:20:3	w	فَسَقُواْ		فسقوا	are defiantly disobedient	fasaqū
+14	32:20:4	w	فَمَأْوٜيٰهُمُ		فماويهم	then their refuge	famawāhumu
+14	32:20:5	w	ࡲ۬لنَّارُ࣌		النار	(is) the Fire	l-nāru
+14	32:20:6	w	كُلَّمَآ		كلما	Every time	kullamā
+14	32:20:7	w	أَرَادُوٓاْ		ارادوا	they wish	arādū
+14	32:20:8	w	أَنْ		ان	to	an
+14	32:20:9	w	يَّخْرُجُواْ		يخرجوا	come out	yakhrujū
+14	32:20:10	w	مِنْهَآ		منها	from it	min'hā
+14	32:20:11	w	أُعِيدُواْ		اعيدوا	they (will) be returned	uʿīdū
+14	32:20:12	w	فِيهَا		فيها	in it	fīhā
+15	32:20:13	w	وَقِيلَ		وقيل	and it (will) be said	waqīla
+15	32:20:14	w	لَهُمْ		لهم	to them	lahum
+15	32:20:15	w	ذُوقُواْ		ذوقوا	Taste	dhūqū
+15	32:20:16	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+15	32:20:17	w	ࡰ۬لنّٜارِ		النار	(of) the Fire	l-nāri
+15	32:20:18	w	ࡴ۬لذِے		الذي	which	alladhī
+15	32:20:19	w	كُنتُم		كنتم	you used (to)	kuntum
+15	32:20:20	w	بِهِۦ		بهي	[in it]	bihi
+15	32:20:21	w	تُكَذِّبُونَ࣌		تكذبون	deny	tukadhibūna
+15	32:20:22	e	۝٢٠				

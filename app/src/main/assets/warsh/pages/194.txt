@@ -1,0 +1,118 @@
+1	9:41:1	w	ࡴٜنفِرُواْ		انفروا	Go forth	infirū
+1	9:41:2	w	خِفَافاࣰ		خفافا	light	khifāfan
+1	9:41:3	w	وَثِقَالاࣰ		وثقالا	or heavy	wathiqālan
+1	9:41:4	w	وَجَٰهِدُواْ		وجهدوا	and strive	wajāhidū
+1	9:41:5	w	بِأَمْوَٰلِكُمْ		بامولكم	with your wealth	bi-amwālikum
+1	9:41:6	w	وَأَنفُسِكُمْ		وانفسكم	and your lives	wa-anfusikum
+2	9:41:7	w	فِے		في	in	fī
+2	9:41:8	w	سَبِيلِ		سبيل	(the) way	sabīli
+2	9:41:9	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+2	9:41:10	w	ذَٰلِكُمْ		ذلكم	That	dhālikum
+2	9:41:11	w	خَيْرࣱ		خير	(is) better	khayrun
+2	9:41:12	w	لَّكُمُۥٓ		لكم	for you	lakum
+2	9:41:13	w	إِن		ان	if	in
+2	9:41:14	w	كُنتُمْ		كنتم	you	kuntum
+2	9:41:15	w	تَعْلَمُونَ࣌		تعلمون	know	taʿlamūna
+2	9:41:16	e	۝٤١				
+3	9:42:1	w	لَوْ		لو	If	law
+3	9:42:2	w	كَانَ		كان	it had been	kāna
+3	9:42:3	w	عَرَضاࣰ		عرضا	a gain	ʿaraḍan
+3	9:42:4	w	قَرِيباࣰ		قريبا	near	qarīban
+3	9:42:5	w	وَسَفَراࣰ		وسفرا	and a journey	wasafaran
+3	9:42:6	w	قَاصِداࣰ		قاصدا	easy	qāṣidan
+3	9:42:7	w	لَّاتَّبَعُوكَ		لاتبعوك	surely they (would) have followed you	la-ittabaʿūka
+4	9:42:8	w	وَلَٰكِنۢ		ولكن	but	walākin
+4	9:42:9	w	بَعُدَتْ		بعدت	was long	baʿudat
+4	9:42:10	w	عَلَيْهِمُ		عليهم	for them	ʿalayhimu
+4	9:42:11	w	ࡲ۬لشُّقَّةُ࣌		الشقة	the distance	l-shuqatu
+4	9:42:12	w	وَسَيَحْلِفُونَ		وسيحلفون	And they will swear	wasayaḥlifūna
+4	9:42:13	w	بِاللَّهِ		بالله	by Allah	bil-lahi
+5	9:42:14	w	لَوِ		لو	If	lawi
+5	9:42:15	w	ࡴٜسْتَطَعْنَا		استطعنا	we were able	is'taṭaʿnā
+5	9:42:16	w	لَخَرَجْنَا		لخرجنا	certainly we (would) have come forth	lakharajnā
+5	9:42:17	w	مَعَكُمْ࣌		معكم	with you	maʿakum
+5	9:42:18	w	يُهْلِكُونَ		يهلكون	They destroy	yuh'likūna
+5	9:42:19	w	أَنفُسَهُمْ࣌		انفسهم	their own selves	anfusahum
+5	9:42:20	w	وَاللَّهُ		والله	and Allah	wal-lahu
+6	9:42:21	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+6	9:42:22	w	إِنَّهُمْ		انهم	(that) indeed, they	innahum
+6	9:42:23	w	لَكَٰذِبُونَ࣌		لكذبون	(are) surely liars	lakādhibūna
+6	9:42:24	e	۝٤٢				
+6	9:43:1	w	عَفَا		عفا	(May) Allah forgive	ʿafā
+6	9:43:2	w	ࡰ۬للَّهُ		الله	(May) Allah forgive	l-lahu
+6	9:43:3	w	عَنكَ		عنك	you	ʿanka
+6	9:43:4	w	لِمَ		لم	Why (did)	lima
+6	9:43:5	w	أَذِنتَ		اذنت	you grant leave	adhinta
+6	9:43:6	w	لَهُمْ		لهم	to them	lahum
+7	9:43:7	w	حَتَّىٰ		حتي	until	ḥattā
+7	9:43:8	w	يَتَبَيَّنَ		يتبين	(became) evident	yatabayyana
+7	9:43:9	w	لَكَ		لك	to you	laka
+7	9:43:10	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	9:43:11	w	صَدَقُواْ		صدقوا	were truthful	ṣadaqū
+7	9:43:12	w	وَتَعْلَمَ		وتعلم	and you knew	wataʿlama
+7	9:43:13	w	ࡰ۬لْكَٰذِبِينَ࣌		الكذبين	the liars	l-kādhibīna
+7	9:43:14	e	۝٤٣				
+8	9:44:1	w	لَا		لا	(Would) not ask your permission	lā
+8	9:44:2	w	يَسْتَٰذِنُكَ		يستذنك	(Would) not ask your permission	yastadhinuka
+8	9:44:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+8	9:44:4	w	يُومِنُونَ		يومنون	believe	yu'minūna
+8	9:44:5	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+8	9:44:6	w	وَالْيَوْمِ		واليوم	and the Day	wal-yawmi
+8	9:44:7	w	ࡴ۬لَاخِرِ		الاخر	the Last	l-ākhiri
+8	9:44:8	w	أَنْ		ان	that	an
+9	9:44:9	w	يُّجَٰهِدُواْ		يجهدوا	they strive	yujāhidū
+9	9:44:10	w	بِأَمْوَٰلِهِمْ		بامولهم	with their wealth	bi-amwālihim
+9	9:44:11	w	وَأَنفُسِهِمْ࣌		وانفسهم	and their lives	wa-anfusihim
+9	9:44:12	w	وَاللَّهُ		والله	And Allah	wal-lahu
+9	9:44:13	w	عَلِيمُۢ		عليم	(is) All-Knower	ʿalīmun
+9	9:44:14	w	بِالْمُتَّقِينَ࣌		بالمتقين	of the righteous	bil-mutaqīna
+9	9:44:15	e	۝٤٤				
+10	9:45:1	w	إِنَّمَا		انما	Only	innamā
+10	9:45:2	w	يَسْتَٰذِنُكَ		يستذنك	ask your leave	yastadhinuka
+10	9:45:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	9:45:4	w	لَا		لا	(do) not	lā
+10	9:45:5	w	يُومِنُونَ		يومنون	believe	yu'minūna
+10	9:45:6	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+10	9:45:7	w	وَالْيَوْمِ		واليوم	and the Day	wal-yawmi
+10	9:45:8	w	ࡴ۬لَاخِرِ		الاخر	the Last	l-ākhiri
+11	9:45:9	w	وَارْتَابَتْ		وارتابت	and (are in) doubts	wa-ir'tābat
+11	9:45:10	w	قُلُوبُهُمْ		قلوبهم	their hearts	qulūbuhum
+11	9:45:11	w	فَهُمْ		فهم	so they	fahum
+11	9:45:12	w	فِے		في	in	fī
+11	9:45:13	w	رَيْبِهِمْ		ريبهم	their doubts	raybihim
+11	9:45:14	w	يَتَرَدَّدُونَ࣌		يترددون	they waver	yataraddadūna
+11	9:45:15	e	۝٤٥				
+11	9:46:1	w	۞ وَلَوَ		ولو	And if	walaw
+11	9:46:2	w	ࡰرَادُواْ		ارادوا	they had wished	arādū
+12	9:46:3	w	ࡲ۬لْخُرُوجَ		الخروج	(to) go forth	l-khurūja
+12	9:46:4	w	لَأَعَدُّواْ		لاعدوا	surely they (would) have prepared	la-aʿaddū
+12	9:46:5	w	لَهُۥ		له	for it	lahu
+12	9:46:6	w	عُدَّةࣰ࣌		عدة	(some) preparation	ʿuddatan
+12	9:46:7	w	وَلَٰكِن		ولكن	But	walākin
+12	9:46:8	w	كَرِهَ		كره	Allah disliked	kariha
+12	9:46:9	w	ࡰ۬للَّهُ		الله	Allah disliked	l-lahu
+12	9:46:10	w	ࡲٜنۢبِعَاثَهُمْ		انبعاثهم	their being sent	inbiʿāthahum
+13	9:46:11	w	فَثَبَّطَهُمْ		فثبطهم	so He made them lag behind	fathabbaṭahum
+13	9:46:12	w	وَقِيلَ		وقيل	and it was said	waqīla
+13	9:46:13	w	ࡸَقْعُدُواْ		اقعدوا	Sit	uq'ʿudū
+13	9:46:14	w	مَعَ		مع	with	maʿa
+13	9:46:15	w	ࡰ۬لْقَٰعِدِينَ࣌		القعدين	those who sit	l-qāʿidīna
+13	9:46:16	e	۝٤٦				
+13	9:47:1	w	لَوْ		لو	If	law
+13	9:47:2	w	خَرَجُواْ		خرجوا	they (had) gone forth	kharajū
+13	9:47:3	w	فِيكُم		فيكم	with you	fīkum
+14	9:47:4	w	مَّا		ما	not	mā
+14	9:47:5	w	زَادُوكُمُۥٓ		زادوكم	they (would) have increased you	zādūkum
+14	9:47:6	w	إِلَّا		الا	except	illā
+14	9:47:7	w	خَبَالاࣰ		خبالا	(in) confusion	khabālan
+14	9:47:8	w	وَلَأَوْضَعُواْ		ولاوضعوا	and would have been active	wala-awḍaʿū
+14	9:47:9	w	خِلَٰلَكُمْ		خللكم	in your midst	khilālakum
+14	9:47:10	w	يَبْغُونَكُمُ		يبغونكم	seeking (for) you	yabghūnakumu
+15	9:47:11	w	ࡲ۬لْفِتْنَةَ		الفتنة	dissension	l-fit'nata
+15	9:47:12	w	وَفِيكُمْ		وفيكم	And among you (are some)	wafīkum
+15	9:47:13	w	سَمَّٰعُونَ		سمعون	who would have listened	sammāʿūna
+15	9:47:14	w	لَهُمْ࣌		لهم	to them	lahum
+15	9:47:15	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	9:47:16	w	عَلِيمُۢ		عليم	(is) All-Knower	ʿalīmun
+15	9:47:17	w	بِالظَّٰلِمِينَ࣌		بالظلمين	of the wrongdoers	bil-ẓālimīna
+15	9:47:18	e	۝٤٧				

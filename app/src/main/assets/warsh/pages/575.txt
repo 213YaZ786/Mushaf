@@ -1,0 +1,153 @@
+1	73:18:1	w	۞ ࡴنَّ		ان	Indeed	inna
+1	73:18:2	w	رَبَّكَ		ربك	your Lord	rabbaka
+1	73:18:3	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+1	73:18:4	w	أَنَّكَ		انك	that you	annaka
+1	73:18:5	w	تَقُومُ		تقوم	stand	taqūmu
+1	73:18:6	w	أَدْنٜىٰ		ادني	(a little) less	adnā
+1	73:18:7	w	مِن		من	than	min
+1	73:18:8	w	ثُلُثَيِ		ثلثي	two-thirds	thuluthayi
+1	73:18:9	w	ࡴ۬ليْلِ		اليل	(of) the night	al-layli
+1	73:18:10	w	وَنِصْفِهِۦ		ونصفهي	and half of it	waniṣ'fahu
+1	73:18:11	w	وَثُلُثِهِۦ		وثلثهي	and a third of it	wathuluthahu
+1	73:18:12	w	وَطَآئِفَةࣱ		وطايفة	and (so do) a group	waṭāifatun
+2	73:18:13	w	مِّنَ		من	of	mina
+2	73:18:14	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+2	73:18:15	w	مَعَكَ࣌		معك	(are) with you	maʿaka
+2	73:18:16	w	وَاللَّهُ		والله	And Allah	wal-lahu
+2	73:18:17	w	يُقَدِّرُ		يقدر	determines	yuqaddiru
+2	73:18:18	w	ࡲ۬ليْلَ		اليل	the night	al-layla
+2	73:18:19	w	وَالنَّهَارَ࣌		والنهار	and the day	wal-nahāra
+2	73:18:20	w	عَلِمَ		علم	He knows	ʿalima
+2	73:18:21	w	أَن		ان	that	an
+2	73:18:22	w	لَّن		لن	not	lan
+2	73:18:23	w	تُحْصُوهُ		تحصوه	you count it	tuḥ'ṣūhu
+2	73:18:24	w	فَتَابَ		فتاب	so He has turned	fatāba
+3	73:18:25	w	عَلَيْكُمْ࣌		عليكم	to you	ʿalaykum
+3	73:18:26	w	فَاقْرَءُواْ		فاقروا	so recite	fa-iq'raū
+3	73:18:27	w	مَا		ما	what	mā
+3	73:18:28	w	تَيَسَّرَ		تيسر	is easy	tayassara
+3	73:18:29	w	مِنَ		من	of	mina
+3	73:18:30	w	ࡰ۬لْقُرْءَانِ࣌		القران	the Quran	l-qur'āni
+3	73:18:31	w	عَلِمَ		علم	He knows	ʿalima
+3	73:18:32	w	أَن		ان	that	an
+3	73:18:33	w	سَيَكُونُ		سيكون	there will be	sayakūnu
+3	73:18:34	w	مِنكُم		منكم	among you	minkum
+3	73:18:35	w	مَّرْضٜىٰ		مرضي	sick	marḍā
+4	73:18:36	w	وَءَاخَرُونَ		واخرون	and others	waākharūna
+4	73:18:37	w	يَضْرِبُونَ		يضربون	traveling	yaḍribūna
+4	73:18:38	w	فِے		في	in	fī
+4	73:18:39	w	ࡴ۬لَارْضِ		الارض	the land	l-arḍi
+4	73:18:40	w	يَبْتَغُونَ		يبتغون	seeking	yabtaghūna
+4	73:18:41	w	مِن		من	of	min
+4	73:18:42	w	فَضْلِ		فضل	(the) Bounty	faḍli
+4	73:18:43	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+4	73:18:44	w	وَءَاخَرُونَ		واخرون	and others	waākharūna
+5	73:18:45	w	يُقَٰتِلُونَ		يقتلون	fighting	yuqātilūna
+5	73:18:46	w	فِے		في	in	fī
+5	73:18:47	w	سَبِيلِ		سبيل	(the) way	sabīli
+5	73:18:48	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+5	73:18:49	w	فَاقْرَءُواْ		فاقروا	So recite	fa-iq'raū
+5	73:18:50	w	مَا		ما	what	mā
+5	73:18:51	w	تَيَسَّرَ		تيسر	is easy	tayassara
+5	73:18:52	w	مِنْهُ࣌		منه	of it	min'hu
+5	73:18:53	w	وَأَقِيمُواْ		واقيموا	and establish	wa-aqīmū
+5	73:18:54	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+5	73:18:55	w	وَءَاتُواْ		واتوا	and give	waātū
+6	73:18:56	w	ࡲ۬لزَّكَوٰةَ࣌		الزكوة	the zakah	l-zakata
+6	73:18:57	w	وَأَقْرِضُواْ		واقرضوا	and loan	wa-aqriḍū
+6	73:18:58	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+6	73:18:59	w	قَرْضاً		قرضا	a loan	qarḍan
+6	73:18:60	w	حَسَناࣰ࣌		حسنا	goodly	ḥasanan
+6	73:18:61	w	وَمَا		وما	And whatever	wamā
+6	73:18:62	w	تُقَدِّمُواْ		تقدموا	you send forth	tuqaddimū
+6	73:18:63	w	لِأَنفُسِكُم		لانفسكم	for yourselves	li-anfusikum
+6	73:18:64	w	مِّنْ		من	of	min
+6	73:18:65	w	خَيْرࣲ		خير	good	khayrin
+6	73:18:66	w	تَجِدُوهُ		تجدوه	you will find it	tajidūhu
+7	73:18:67	w	عِندَ		عند	with	ʿinda
+7	73:18:68	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	73:18:69	w	هُوَ		هو	It	huwa
+7	73:18:70	w	خَيْراࣰ		خيرا	(will be) better	khayran
+7	73:18:71	w	وَأَعْظَمَ		واعظم	and greater	wa-aʿẓama
+7	73:18:72	w	أَجْراࣰ࣌		اجرا	(in) reward	ajran
+7	73:18:73	w	وَاسْتَغْفِرُواْ		واستغفروا	And seek forgiveness	wa-is'taghfirū
+7	73:18:74	w	ࡲ۬للَّهَ࣌		الله	(of) Allah	l-laha
+7	73:18:75	w	إِنَّ		ان	Indeed	inna
+7	73:18:76	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+7	73:18:77	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+7	73:18:78	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+7	73:18:79	e	۝١٨				
+8	74:0:0	t					
+9	74:0:0	b					
+10	74:1:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+10	74:1:2	w	ࡰ۬لْمُدَّثِّرُ		المدثر	who covers himself	l-mudathiru
+10	74:1:3	e	۝١				
+10	74:2:1	w	قُمْ		قم	Stand up	qum
+10	74:2:2	w	فَأَنذِرْ࣌		فانذر	and warn	fa-andhir
+10	74:2:3	e	۝٢				
+10	74:3:1	w	وَرَبَّكَ		وربك	And your Lord	warabbaka
+10	74:3:2	w	فَكَبِّرْ࣌		فكبر	magnify	fakabbir
+10	74:3:3	e	۝٣				
+10	74:4:1	w	وَثِيَابَكَ		وثيابك	And your clothing	wathiyābaka
+10	74:4:2	w	فَطَهِّرْ࣌		فطهر	purify	faṭahhir
+10	74:4:3	e	۝٤				
+11	74:5:1	w	وَالرِّجْزَ		والرجز	And uncleanliness	wal-ruj'za
+11	74:5:2	w	فَاهْجُرْ࣌		فاهجر	avoid	fa-uh'jur
+11	74:5:3	e	۝٥				
+11	74:6:1	w	وَلَا		ولا	And (do) not	walā
+11	74:6:2	w	تَمْنُن		تمنن	confer favor	tamnun
+11	74:6:3	w	تَسْتَكْثِرُ࣌		تستكثر	(to) acquire more	tastakthiru
+11	74:6:4	e	۝٦				
+11	74:7:1	w	وَلِرَبِّكَ		ولربك	And for your Lord	walirabbika
+11	74:7:2	w	فَاصْبِرْ࣌		فاصبر	be patient	fa-iṣ'bir
+11	74:7:3	e	۝٧				
+11	74:8:1	w	فَإِذَا		فاذا	Then when	fa-idhā
+11	74:8:2	w	نُقِرَ		نقر	is blown	nuqira
+12	74:8:3	w	فِے		في	in	fī
+12	74:8:4	w	ࡴ۬لنَّاقُورِ		الناقور	the trumpet	l-nāqūri
+12	74:8:5	e	۝٨				
+12	74:9:1	w	فَذَٰلِكَ		فذلك	That	fadhālika
+12	74:9:2	w	يَوْمَئِذࣲ		يوميذ	Day	yawma-idhin
+12	74:9:3	w	يَوْمٌ		يوم	(will be) a Day	yawmun
+12	74:9:4	w	عَسِيرٌ		عسير	difficult	ʿasīrun
+12	74:9:5	e	۝٩				
+12	74:10:1	w	عَلَى		علي	For	ʿalā
+12	74:10:2	w	ࡰ۬لْكٜـٰفِرِينَ		الكفرين	the disbelievers	l-kāfirīna
+12	74:10:3	w	غَيْرُ		غير	not	ghayru
+12	74:10:4	w	يَسِيرࣲ࣌		يسير	easy	yasīrin
+12	74:10:5	e	۝١٠				
+13	74:11:1	w	ذَرْنِے		ذرني	Leave Me	dharnī
+13	74:11:2	w	وَمَنْ		ومن	and whom	waman
+13	74:11:3	w	خَلَقْتُ		خلقت	I created	khalaqtu
+13	74:11:4	w	وَحِيداࣰ		وحيدا	alone	waḥīdan
+13	74:11:5	e	۝١١				
+13	74:12:1	w	وَجَعَلْتُ		وجعلت	And I granted	wajaʿaltu
+13	74:12:2	w	لَهُۥ		له	to him	lahu
+13	74:12:3	w	مَالاࣰ		مالا	wealth	mālan
+13	74:12:4	w	مَّمْدُوداࣰ		ممدودا	extensive	mamdūdan
+13	74:12:5	e	۝١٢				
+13	74:13:1	w	وَبَنِينَ		وبنين	And children	wabanīna
+14	74:13:2	w	شُهُوداࣰ		شهودا	present	shuhūdan
+14	74:13:3	e	۝١٣				
+14	74:14:1	w	وَمَهَّدتُّ		ومهدت	And I spread	wamahhadttu
+14	74:14:2	w	لَهُۥ		له	for him	lahu
+14	74:14:3	w	تَمْهِيداࣰ		تمهيدا	ease	tamhīdan
+14	74:14:4	e	۝١٤				
+14	74:15:1	w	ثُمَّ		ثم	Then	thumma
+14	74:15:2	w	يَطْمَعُ		يطمع	he desires	yaṭmaʿu
+14	74:15:3	w	أَنَ		ان	that	an
+14	74:15:4	w	ࡰزِيدَ		ازيد	I (should) add more	azīda
+14	74:15:5	e	۝١٥				
+14	74:16:1	w	كَلَّآ࣌		كلا	By no means	kallā
+14	74:16:2	w	إِنَّهُۥ		انه	Indeed, he	innahu
+15	74:16:3	w	كَانَ		كان	has been	kāna
+15	74:16:4	w	لِأٓيَٰتِنَا		لايتنا	to Our Verses	liāyātinā
+15	74:16:5	w	عَنِيداࣰ࣌		عنيدا	stubborn	ʿanīdan
+15	74:16:6	e	۝١٦				
+15	74:17:1	w	سَأُرْهِقُهُۥ		سارهقه	Soon I will cover Him	sa-ur'hiquhu
+15	74:17:2	w	صَعُوداً࣌		صعودا	(with) a laborious punishment	ṣaʿūdan
+15	74:17:3	e	۝١٧				
+15	74:18:1	w	ࡴنَّهُۥ		انه	Indeed, he	innahu
+15	74:18:2	w	فَكَّرَ		فكر	thought	fakkara
+15	74:18:3	w	وَقَدَّرَ		وقدر	and plotted	waqaddara
+15	74:18:4	e	۝١٨				

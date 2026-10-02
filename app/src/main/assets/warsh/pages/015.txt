@@ -1,0 +1,131 @@
+1	2:93:1	w	قُلِ		قل	Say	qul
+1	2:93:2	w	ࡴن		ان	If	in
+1	2:93:3	w	كَانَتْ		كانت	is	kānat
+1	2:93:4	w	لَكُمُ		لكم	for you	lakumu
+1	2:93:5	w	ࡲ۬لدَّارُ		الدار	the home	l-dāru
+1	2:93:6	w	ࡲ۬لَاخِرَةُ		الاخرة	(of) the Hereafter	l-ākhiratu
+1	2:93:7	w	عِندَ		عند	with	ʿinda
+1	2:93:8	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+1	2:93:9	w	خَالِصَةࣰ		خالصة	exclusively	khāliṣatan
+1	2:93:10	w	مِّن		من	from	min
+2	2:93:11	w	دُونِ		دون	excluding	dūni
+2	2:93:12	w	ࡴ۬لنَّاسِ		الناس	the mankind	l-nāsi
+2	2:93:13	w	فَتَمَنَّوُاْ		فتمنوا	then wish	fatamannawū
+2	2:93:14	w	ࡲ۬لْمَوْتَ		الموت	(for) [the] death	l-mawta
+2	2:93:15	w	إِن		ان	if	in
+2	2:93:16	w	كُنتُمْ		كنتم	you are	kuntum
+2	2:93:17	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+2	2:93:18	e	۝٩٣				
+2	2:94:1	w	وَلَنْ		ولن	And never (will)	walan
+3	2:94:2	w	يَّتَمَنَّوْهُ		يتمنوه	they wish for it	yatamannawhu
+3	2:94:3	w	أَبَداَۢ		ابدا	ever	abadan
+3	2:94:4	w	بِمَا		بما	because	bimā
+3	2:94:5	w	قَدَّمَتَ		قدمت	(of what) sent ahead	qaddamat
+3	2:94:6	w	ࡰيْدِيهِمْ࣌		ايديهم	their hands	aydīhim
+3	2:94:7	w	وَاللَّهُ		والله	And Allah	wal-lahu
+3	2:94:8	w	عَلِيمُۢ		عليم	(is) All-Knower	ʿalīmun
+3	2:94:9	w	بِالظَّٰلِمِينَ࣌		بالظلمين	of the wrongdoers	bil-ẓālimīna
+3	2:94:10	e	۝٩٤				
+4	2:95:1	w	وَلَتَجِدَنَّهُمُۥٓ		ولتجدنهم	And surely you will find them	walatajidannahum
+4	2:95:2	w	أَحْرَصَ		احرص	(the) most greedy	aḥraṣa
+4	2:95:3	w	ࡰ۬لنَّاسِ		الناس	(of) [the] mankind	l-nāsi
+4	2:95:4	w	عَلَىٰ		علي	for	ʿalā
+4	2:95:5	w	حَيَوٰةࣲ࣌		حيوة	life	ḥayatin
+4	2:95:6	w	وَمِنَ		ومن	and (greedier) than	wamina
+4	2:95:7	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+4	2:95:8	w	أَشْرَكُواْ		اشركوا	associate[d] partners (with Allah)	ashrakū
+5	2:95:9	w	يَوَدُّ		يود	Loves	yawaddu
+5	2:95:10	w	أَحَدُهُمْ		احدهم	(each) one of them	aḥaduhum
+5	2:95:11	w	لَوْ		لو	if	law
+5	2:95:12	w	يُعَمَّرُ		يعمر	he could be granted a life	yuʿammaru
+5	2:95:13	w	أَلْفَ		الف	(of) a thousand	alfa
+5	2:95:14	w	سَنَةࣲ࣌		سنة	year(s)	sanatin
+5	2:95:15	w	وَمَا		وما	But not	wamā
+5	2:95:16	w	هُوَ		هو	it	huwa
+5	2:95:17	w	بِمُزَحْزِحِهِۦ		بمزحزحهي	(will) remove him	bimuzaḥziḥihi
+5	2:95:18	w	مِنَ		من	from	mina
+6	2:95:19	w	ࡰ۬لْعَذَابِ		العذاب	the punishment	l-ʿadhābi
+6	2:95:20	w	أَنْ		ان	that	an
+6	2:95:21	w	يُّعَمَّرَ࣌		يعمر	he should be granted life	yuʿammara
+6	2:95:22	w	وَاللَّهُ		والله	And Allah	wal-lahu
+6	2:95:23	w	بَصِيرُۢ		بصير	(is) All-Seer	baṣīrun
+6	2:95:24	w	بِمَا		بما	of what	bimā
+6	2:95:25	w	يَعْمَلُونَ࣌		يعملون	they do	yaʿmalūna
+6	2:95:26	e	۝٩٥				
+6	2:96:1	w	قُلْ		قل	Say	qul
+6	2:96:2	w	مَن		من	Whoever	man
+7	2:96:3	w	كَانَ		كان	is	kāna
+7	2:96:4	w	عَدُوّاࣰ		عدوا	an enemy	ʿaduwwan
+7	2:96:5	w	لِّـجِبْرِيلَ		لجبريل	to Jibreel	lijib'rīla
+7	2:96:6	w	فَإِنَّهُۥ		فانه	then indeed he	fa-innahu
+7	2:96:7	w	نَزَّلَهُۥ		نزله	brought it down	nazzalahu
+7	2:96:8	w	عَلَىٰ		علي	on	ʿalā
+7	2:96:9	w	قَلْبِكَ		قلبك	your heart	qalbika
+7	2:96:10	w	بِإِذْنِ		باذن	by (the) permission	bi-idh'ni
+8	2:96:11	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+8	2:96:12	w	مُصَدِّقاࣰ		مصدقا	confirming	muṣaddiqan
+8	2:96:13	w	لِّمَا		لما	what	limā
+8	2:96:14	w	بَيْنَ		بين	(was)	bayna
+8	2:96:15	w	يَدَيْهِ		يديه	before it	yadayhi
+8	2:96:16	w	وَهُدىࣰ		وهدي	and a guidance	wahudan
+8	2:96:17	w	وَبُشْرٜىٰ		وبشري	and glad tiding(s)	wabush'rā
+8	2:96:18	w	لِلْمُومِنِينَ࣌		للمومنين	for the believers	lil'mu'minīna
+8	2:96:19	e	۝٩٦				
+9	2:97:1	w	مَن		من	Whoever	man
+9	2:97:2	w	كَانَ		كان	is	kāna
+9	2:97:3	w	عَدُوّاࣰ		عدوا	an enemy	ʿaduwwan
+9	2:97:4	w	لِّلهِ		لله	(to) Allah	lillahi
+9	2:97:5	w	وَمَلَٰٓئِكَتِهِۦ		ومليكتهي	and His Angels	wamalāikatihi
+9	2:97:6	w	وَرُسُلِهِۦ		ورسلهي	and His Messengers	warusulihi
+9	2:97:7	w	وَجِبْرِيلَ		وجبريل	and Jibreel	wajib'rīla
+10	2:97:8	w	وَمِيكَٰٓئِلَ		وميكيل	and Meekael	wamīkāla
+10	2:97:9	w	فَإِنَّ		فان	then indeed	fa-inna
+10	2:97:10	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	2:97:11	w	عَدُوࣱّ		عدو	(is) an enemy	ʿaduwwun
+10	2:97:12	w	لِّلْكٜـٰفِرِينَ࣌		للكفرين	to the disbelievers	lil'kāfirīna
+10	2:97:13	e	۝٩٧				
+10	2:98:1	w	وَلَقَدَ		ولقد	And indeed	walaqad
+10	2:98:2	w	ࡰنزَلْنَآ		انزلنا	We revealed	anzalnā
+11	2:98:3	w	إِلَيْكَ		اليك	to you	ilayka
+11	2:98:4	w	ءَايَٰتِۢ		ايت	Verses	āyātin
+11	2:98:5	w	بَيِّنَٰتࣲ࣌		بينت	clear	bayyinātin
+11	2:98:6	w	وَمَا		وما	and not	wamā
+11	2:98:7	w	يَكْفُرُ		يكفر	disbelieves	yakfuru
+11	2:98:8	w	بِهَآ		بها	in them	bihā
+11	2:98:9	w	إِلَّا		الا	except	illā
+11	2:98:10	w	ࡰ۬لْفَٰسِقُونَ࣌		الفسقون	the defiantly disobedient	l-fāsiqūna
+11	2:98:11	e	۝٩٨				
+12	2:99:1	w	أَوَكُلَّمَا		اوكلما	And is (it not that) whenever	awakullamā
+12	2:99:2	w	عَٰهَدُواْ		عهدوا	they took	ʿāhadū
+12	2:99:3	w	عَهْداࣰ		عهدا	a covenant	ʿahdan
+12	2:99:4	w	نَّبَذَهُۥ		نبذه	threw it away	nabadhahu
+12	2:99:5	w	فَرِيقࣱ		فريق	a party	farīqun
+12	2:99:6	w	مِّنْهُم࣌		منهم	of them	min'hum
+12	2:99:7	w	بَلَ		بل	Nay	bal
+12	2:99:8	w	ࡰكْثَرُهُمْ		اكثرهم	most of them	aktharuhum
+13	2:99:9	w	لَا		لا	(do) not	lā
+13	2:99:10	w	يُومِنُونَ࣌		يومنون	believe	yu'minūna
+13	2:99:11	e	۝٩٩				
+13	2:100:1	w	۞ وَلَمَّا		ولما	And when	walammā
+13	2:100:2	w	جَآءَهُمْ		جاهم	came to them	jāahum
+13	2:100:3	w	رَسُولࣱ		رسول	a Messenger	rasūlun
+13	2:100:4	w	مِّنْ		من	(of)	min
+13	2:100:5	w	عِندِ		عند	from	ʿindi
+13	2:100:6	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+13	2:100:7	w	مُصَدِّقࣱ		مصدق	confirming	muṣaddiqun
+14	2:100:8	w	لِّمَا		لما	what	limā
+14	2:100:9	w	مَعَهُمْ		معهم	(was) with them	maʿahum
+14	2:100:10	w	نَبَذَ		نبذ	threw away	nabadha
+14	2:100:11	w	فَرِيقࣱ		فريق	a party	farīqun
+14	2:100:12	w	مِّنَ		من	of	mina
+14	2:100:13	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+14	2:100:14	w	أُوتُواْ		اوتوا	were given	ūtū
+14	2:100:15	w	ࡲ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+15	2:100:16	w	كِتَٰبَ		كتب	(the) Book	kitāba
+15	2:100:17	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+15	2:100:18	w	وَرَآءَ		ورا	behind	warāa
+15	2:100:19	w	ظُهُورِهِمْ		ظهورهم	their backs	ẓuhūrihim
+15	2:100:20	w	كَأَنَّهُمْ		كانهم	as if they	ka-annahum
+15	2:100:21	w	لَا		لا	(do) not	lā
+15	2:100:22	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+15	2:100:23	e	۝١٠٠				

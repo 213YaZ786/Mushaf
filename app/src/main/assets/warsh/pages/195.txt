@@ -1,0 +1,124 @@
+1	9:48:1	w	لَقَدِ		لقد	Verily	laqadi
+1	9:48:2	w	ࡴٜبْتَغَوُاْ		ابتغوا	they had sought	ib'taghawū
+1	9:48:3	w	ࡲ۬لْفِتْنَةَ		الفتنة	dissension	l-fit'nata
+1	9:48:4	w	مِن		من	before	min
+1	9:48:5	w	قَبْلُ		قبل	before	qablu
+1	9:48:6	w	وَقَلَّبُواْ		وقلبوا	and had upset	waqallabū
+1	9:48:7	w	لَكَ		لك	for you	laka
+1	9:48:8	w	ࡰ۬لُامُورَ		الامور	the matters	l-umūra
+2	9:48:9	w	حَتَّىٰ		حتي	until	ḥattā
+2	9:48:10	w	جَآءَ		جا	came	jāa
+2	9:48:11	w	ࡰ۬لْحَقُّ		الحق	the truth	l-ḥaqu
+2	9:48:12	w	وَظَهَرَ		وظهر	and became manifest	waẓahara
+2	9:48:13	w	أَمْرُ		امر	(the) Order of Allah	amru
+2	9:48:14	w	ࡲ۬للَّهِ		الله	(the) Order of Allah	l-lahi
+2	9:48:15	w	وَهُمْ		وهم	while they	wahum
+2	9:48:16	w	كَٰرِهُونَ࣌		كرهون	disliked (it)	kārihūna
+2	9:48:17	e	۝٤٨				
+3	9:49:1	w	وَمِنْهُم		ومنهم	And among them	wamin'hum
+3	9:49:2	w	مَّنْ		من	(is he) who	man
+3	9:49:3	w	يَّقُولُ		يقول	says	yaqūlu
+3	9:49:4	w	ࡲٜيذَن		ايذن	Grant me leave	i'dhan
+3	9:49:5	w	لِّے		لي	Grant me leave	lī
+3	9:49:6	w	وَلَا		ولا	and (do) not	walā
+3	9:49:7	w	تَفْتِنِّےٓ࣌		تفتني	put me to trial	taftinnī
+3	9:49:8	w	أَلَا		الا	Surely	alā
+3	9:49:9	w	فِے		في	in	fī
+3	9:49:10	w	ࡴ۬لْفِتْنَةِ		الفتنة	the trial	l-fit'nati
+4	9:49:11	w	سَقَطُواْ࣌		سقطوا	they have fallen	saqaṭū
+4	9:49:12	w	وَإِنَّ		وان	And indeed	wa-inna
+4	9:49:13	w	جَهَنَّمَ		جهنم	Hell	jahannama
+4	9:49:14	w	لَمُحِيطَةُۢ		لمحيطة	(will) surely surround	lamuḥīṭatun
+4	9:49:15	w	بِالْكٜـٰفِرِينَ࣌		بالكفرين	the disbelievers	bil-kāfirīna
+4	9:49:16	e	۝٤٩				
+4	9:50:1	w	إِن		ان	If	in
+4	9:50:2	w	تُصِبْكَ		تصبك	befalls you	tuṣib'ka
+5	9:50:3	w	حَسَنَةࣱ		حسنة	good	ḥasanatun
+5	9:50:4	w	تَسُؤْهُمْ࣌		تسوهم	it distresses them	tasu'hum
+5	9:50:5	w	وَإِن		وان	but if	wa-in
+5	9:50:6	w	تُصِبْكَ		تصبك	befalls you	tuṣib'ka
+5	9:50:7	w	مُصِيبَةࣱ		مصيبة	a calamity	muṣībatun
+5	9:50:8	w	يَقُولُواْ		يقولوا	they say	yaqūlū
+5	9:50:9	w	قَدَ		قد	Verily	qad
+6	9:50:10	w	ࡰخَذْنَآ		اخذنا	we took	akhadhnā
+6	9:50:11	w	أَمْرَنَا		امرنا	our matter	amranā
+6	9:50:12	w	مِن		من	before	min
+6	9:50:13	w	قَبْلُ		قبل	before	qablu
+6	9:50:14	w	وَيَتَوَلَّواْ		ويتولوا	And they turn away	wayatawallaw
+6	9:50:15	w	وَّهُمْ		وهم	while they	wahum
+6	9:50:16	w	فَرِحُونَ࣌		فرحون	(are) rejoicing	fariḥūna
+6	9:50:17	e	۝٥٠				
+6	9:51:1	w	قُل		قل	Say	qul
+6	9:51:2	w	لَّنْ		لن	Never	lan
+7	9:51:3	w	يُّصِيبَنَآ		يصيبنا	will befall us	yuṣībanā
+7	9:51:4	w	إِلَّا		الا	except	illā
+7	9:51:5	w	مَا		ما	what	mā
+7	9:51:6	w	كَتَبَ		كتب	Allah has decreed	kataba
+7	9:51:7	w	ࡰ۬للَّهُ		الله	Allah has decreed	l-lahu
+7	9:51:8	w	لَنَا࣌		لنا	for us	lanā
+7	9:51:9	w	هُوَ		هو	He	huwa
+7	9:51:10	w	مَوْلٜيٰنَا࣌		مولينا	(is) our Protector	mawlānā
+7	9:51:11	w	وَعَلَى		وعلي	And on	waʿalā
+7	9:51:12	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+8	9:51:13	w	فَلْيَتَوَكَّلِ		فليتوكل	[so] let the believers put (their) trust	falyatawakkali
+8	9:51:14	w	ࡴ۬لْمُومِنُونَ࣌		المومنون	[so] let the believers put (their) trust	l-mu'minūna
+8	9:51:15	e	۝٥١				
+8	9:52:1	w	قُلْ		قل	Say	qul
+8	9:52:2	w	هَلْ		هل	Do	hal
+8	9:52:3	w	تَرَبَّصُونَ		تربصون	you await	tarabbaṣūna
+8	9:52:4	w	بِنَآ		بنا	for us	binā
+8	9:52:5	w	إِلَّآ		الا	except	illā
+8	9:52:6	w	إِحْدَى		احدي	one	iḥ'dā
+9	9:52:7	w	ࡰ۬لْحُسْنَيَيْنِ࣌		الحسنيين	(of) the two best (things)	l-ḥus'nayayni
+9	9:52:8	w	وَنَحْنُ		ونحن	while we	wanaḥnu
+9	9:52:9	w	نَتَرَبَّصُ		نتربص	[we] await	natarabbaṣu
+9	9:52:10	w	بِكُمُۥٓ		بكم	for you	bikum
+9	9:52:11	w	أَنْ		ان	that	an
+9	9:52:12	w	يُّصِيبَكُمُ		يصيبكم	Allah will afflict you	yuṣībakumu
+9	9:52:13	w	ࡲ۬للَّهُ		الله	Allah will afflict you	l-lahu
+10	9:52:14	w	بِعَذَابࣲ		بعذاب	with a punishment	biʿadhābin
+10	9:52:15	w	مِّنْ		من	from	min
+10	9:52:16	w	عِندِهِۦٓ		عندهي	[near] Him	ʿindihi
+10	9:52:17	w	أَوْ		او	or	aw
+10	9:52:18	w	بِأَيْدِينَا࣌		بايدينا	by our hands	bi-aydīnā
+10	9:52:19	w	فَتَرَبَّصُوٓاْ࣌		فتربصوا	So wait	fatarabbaṣū
+10	9:52:20	w	إِنَّا		انا	indeed, we	innā
+10	9:52:21	w	مَعَكُم		معكم	with you	maʿakum
+11	9:52:22	w	مُّتَرَبِّصُونَ࣌		متربصون	(are) waiting	mutarabbiṣūna
+11	9:52:23	e	۝٥٢				
+11	9:53:1	w	قُلَ		قل	Say	qul
+11	9:53:2	w	ࡰنفِقُواْ		انفقوا	Spend	anfiqū
+11	9:53:3	w	طَوْعاً		طوعا	willingly	ṭawʿan
+11	9:53:4	w	ࡰوْ		او	or	aw
+11	9:53:5	w	كَرْهاࣰ		كرها	unwillingly	karhan
+11	9:53:6	w	لَّنْ		لن	never	lan
+11	9:53:7	w	يُّتَقَبَّلَ		يتقبل	will be accepted	yutaqabbala
+12	9:53:8	w	مِنكُمُۥٓ࣌		منكم	from you	minkum
+12	9:53:9	w	إِنَّكُمْ		انكم	Indeed, you	innakum
+12	9:53:10	w	كُنتُمْ		كنتم	[you] are	kuntum
+12	9:53:11	w	قَوْماࣰ		قوما	a people	qawman
+12	9:53:12	w	فَٰسِقِينَ࣌		فسقين	defiantly disobedient	fāsiqīna
+12	9:53:13	e	۝٥٣				
+12	9:54:1	w	وَمَا		وما	And not	wamā
+13	9:54:2	w	مَنَعَهُمُۥٓ		منعهم	prevents them	manaʿahum
+13	9:54:3	w	أَن		ان	that	an
+13	9:54:4	w	تُقْبَلَ		تقبل	is accepted	tuq'bala
+13	9:54:5	w	مِنْهُمْ		منهم	from them	min'hum
+13	9:54:6	w	نَفَقَٰتُهُمُۥٓ		نفقتهم	their contributions	nafaqātuhum
+13	9:54:7	w	إِلَّآ		الا	except	illā
+13	9:54:8	w	أَنَّهُمْ		انهم	that they	annahum
+13	9:54:9	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+14	9:54:10	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+14	9:54:11	w	وَبِرَسُولِهِۦ		وبرسولهي	and in His Messenger	wabirasūlihi
+14	9:54:12	w	وَلَا		ولا	and not	walā
+14	9:54:13	w	يَاتُونَ		ياتون	they come	yatūna
+14	9:54:14	w	ࡰ۬لصَّلَوٰةَ		الصلوة	(to) the prayer	l-ṣalata
+14	9:54:15	w	إِلَّا		الا	except	illā
+14	9:54:16	w	وَهُمْ		وهم	while they	wahum
+15	9:54:17	w	كُسَالٜىٰ		كسالي	(are) lazy	kusālā
+15	9:54:18	w	وَلَا		ولا	and not	walā
+15	9:54:19	w	يُنفِقُونَ		ينفقون	they spend	yunfiqūna
+15	9:54:20	w	إِلَّا		الا	except	illā
+15	9:54:21	w	وَهُمْ		وهم	while they	wahum
+15	9:54:22	w	كَٰرِهُونَ࣌		كرهون	(are) unwilling	kārihūna
+15	9:54:23	e	۝٥٤				

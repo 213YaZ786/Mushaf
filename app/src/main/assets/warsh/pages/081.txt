@@ -1,0 +1,103 @@
+1	4:20:1	w	وَإِنَ		وان	And if	wa-in
+1	4:20:2	w	ࡰرَدتُّمُ		اردتم	you intend	aradttumu
+1	4:20:3	w	ࡲٜسْتِبْدَالَ		استبدال	replacing	is'tib'dāla
+1	4:20:4	w	زَوْجࣲ		زوج	a wife	zawjin
+1	4:20:5	w	مَّكَانَ		مكان	(in) place	makāna
+1	4:20:6	w	زَوْجࣲ		زوج	(of) a wife	zawjin
+1	4:20:7	w	وَءَاتَيْتُمُۥٓ		واتيتم	and you have given	waātaytum
+2	4:20:8	w	إِحْدٜيٰهُنَّ		احديهن	one of them	iḥ'dāhunna
+2	4:20:9	w	قِنطَاراࣰ		قنطارا	heap (of gold)	qinṭāran
+2	4:20:10	w	فَلَا		فلا	then (do) not	falā
+2	4:20:11	w	تَاخُذُواْ		تاخذوا	take away	takhudhū
+2	4:20:12	w	مِنْهُ		منه	from it	min'hu
+2	4:20:13	w	شَيْـٔاً࣌		شيا	anything	shayan
+2	4:20:14	w	ࡰتَاخُذُونَهُۥ		اتاخذونه	Would you take it	atakhudhūnahu
+3	4:20:15	w	بُهْتَٰناࣰ		بهتنا	(by) slander	buh'tānan
+3	4:20:16	w	وَإِثْماࣰ		واثما	and a sin	wa-ith'man
+3	4:20:17	w	مُّبِيناࣰ࣌		مبينا	open	mubīnan
+3	4:20:18	e	۝٢٠				
+3	4:21:1	w	وَكَيْفَ		وكيف	And how	wakayfa
+3	4:21:2	w	تَاخُذُونَهُۥ		تاخذونه	could you take it	takhudhūnahu
+3	4:21:3	w	وَقَدَ		وقد	when surely	waqad
+3	4:21:4	w	ࡰفْضٜىٰ		افضي	has gone	afḍā
+4	4:21:5	w	بَعْضُكُمُۥٓ		بعضكم	one of you	baʿḍukum
+4	4:21:6	w	إِلَىٰ		الي	to	ilā
+4	4:21:7	w	بَعْضࣲ		بعض	another	baʿḍin
+4	4:21:8	w	وَأَخَذْنَ		واخذن	and they have taken	wa-akhadhna
+4	4:21:9	w	مِنكُم		منكم	from you	minkum
+4	4:21:10	w	مِّيثَٰقاً		ميثقا	covenant	mīthāqan
+4	4:21:11	w	غَلِيظاࣰ࣌		غليظا	strong	ghalīẓan
+4	4:21:12	e	۝٢١				
+5	4:22:1	w	وَلَا		ولا	And (do) not	walā
+5	4:22:2	w	تَنكِحُواْ		تنكحوا	marry	tankiḥū
+5	4:22:3	w	مَا		ما	whom	mā
+5	4:22:4	w	نَكَحَ		نكح	married	nakaḥa
+5	4:22:5	w	ءَابَآؤُكُم		اباوكم	your fathers	ābāukum
+5	4:22:6	w	مِّنَ		من	of	mina
+5	4:22:7	w	ࡰ۬لنِّسَآءِ		النسا	the women	l-nisāi
+6	4:22:8	w	الَّا		الا	except	illā
+6	4:22:9	w	مَا		ما	what	mā
+6	4:22:10	w	قَدْ		قد	has	qad
+6	4:22:11	w	سَلَفَ࣌		سلف	passed before	salafa
+6	4:22:12	w	إِنَّهُۥ		انه	indeed it	innahu
+6	4:22:13	w	كَانَ		كان	was	kāna
+6	4:22:14	w	فَٰحِشَةࣰ		فحشة	an immorality	fāḥishatan
+6	4:22:15	w	وَمَقْتاࣰ࣌		ومقتا	and hateful	wamaqtan
+6	4:22:16	w	وَسَآءَ		وسا	and (an) evil	wasāa
+7	4:22:17	w	سَبِيلاً࣌		سبيلا	way	sabīlan
+7	4:22:18	e	۝٢٢				
+7	4:23:1	w	حُرِّمَتْ		حرمت	Forbidden	ḥurrimat
+7	4:23:2	w	عَلَيْكُمُۥٓ		عليكم	to you	ʿalaykum
+7	4:23:3	w	أُمَّهَٰتُكُمْ		امهتكم	(are) your mothers	ummahātukum
+7	4:23:4	w	وَبَنَاتُكُمْ		وبناتكم	and your daughters	wabanātukum
+8	4:23:5	w	وَأَخَوَٰتُكُمْ		واخوتكم	and your sisters	wa-akhawātukum
+8	4:23:6	w	وَعَمَّٰتُكُمْ		وعمتكم	and your father's sisters	waʿammātukum
+8	4:23:7	w	وَخَٰلَٰتُكُمْ		وخلتكم	and your mother's sisters	wakhālātukum
+8	4:23:8	w	وَبَنَاتُ		وبنات	and daughters	wabanātu
+9	4:23:9	w	ࡲ۬لَاخِ		الاخ	(of) brothers	l-akhi
+9	4:23:10	w	وَبَنَاتُ		وبنات	and daughters	wabanātu
+9	4:23:11	w	ࡲ۬لُاخْتِ࣌		الاخت	(of) sisters	l-ukh'ti
+9	4:23:12	w	وَأُمَّهَٰتُكُمُ		وامهتكم	and (the) mothers	wa-ummahātukumu
+9	4:23:13	w	ࡲ۬لتِےٓ		التي	who	allātī
+9	4:23:14	w	أَرْضَعْنَكُمْ		ارضعنكم	nursed you	arḍaʿnakum
+10	4:23:15	w	وَأَخَوَٰتُكُم		واخوتكم	and your sisters	wa-akhawātukum
+10	4:23:16	w	مِّنَ		من	from	mina
+10	4:23:17	w	ࡰ۬لرَّضَٰعَةِ࣌		الرضعة	the nursing	l-raḍāʿati
+10	4:23:18	w	وَأُمَّهَٰتُ		وامهت	and mothers	wa-ummahātu
+10	4:23:19	w	نِسَآئِكُمْ		نسايكم	(of) your wives	nisāikum
+11	4:23:20	w	وَرَبَٰٓئِبُكُمُ		وربيبكم	and your step daughters	warabāibukumu
+11	4:23:21	w	ࡲ۬لتِے		التي	who	allātī
+11	4:23:22	w	فِے		في	(are) in	fī
+11	4:23:23	w	حُجُورِكُم		حجوركم	your guardianship	ḥujūrikum
+11	4:23:24	w	مِّن		من	of	min
+11	4:23:25	w	نِّسَآئِكُمُ		نسايكم	your women	nisāikumu
+12	4:23:26	w	ࡲ۬لتِے		التي	whom	allātī
+12	4:23:27	w	دَخَلْتُم		دخلتم	you had relations	dakhaltum
+12	4:23:28	w	بِهِنَّ࣌		بهن	with them	bihinna
+12	4:23:29	w	فَإِن		فان	but if	fa-in
+12	4:23:30	w	لَّمْ		لم	not	lam
+12	4:23:31	w	تَكُونُواْ		تكونوا	you had	takūnū
+12	4:23:32	w	دَخَلْتُم		دخلتم	relations	dakhaltum
+12	4:23:33	w	بِهِنَّ		بهن	with them	bihinna
+12	4:23:34	w	فَلَا		فلا	then (there is) no	falā
+13	4:23:35	w	جُنَاحَ		جناح	sin	junāḥa
+13	4:23:36	w	عَلَيْكُمْ࣌		عليكم	on you	ʿalaykum
+13	4:23:37	w	وَحَلَٰٓئِلُ		وحليل	And wives	waḥalāilu
+13	4:23:38	w	أَبْنَآئِكُمُ		ابنايكم	(of) your sons	abnāikumu
+13	4:23:39	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+13	4:23:40	w	مِنَ		من	(are) from	min
+14	4:23:41	w	ࡰصْلَٰبِكُمْ࣌		اصلبكم	your loins	aṣlābikum
+14	4:23:42	w	وَأَن		وان	and that	wa-an
+14	4:23:43	w	تَجْمَعُواْ		تجمعوا	you gather together	tajmaʿū
+14	4:23:44	w	بَيْنَ		بين	[between]	bayna
+14	4:23:45	w	ࡰ۬لُاخْتَيْنِ		الاختين	two sisters	l-ukh'tayni
+14	4:23:46	w	إِلَّا		الا	except	illā
+15	4:23:47	w	مَا		ما	what	mā
+15	4:23:48	w	قَدْ		قد	has	qad
+15	4:23:49	w	سَلَفَ࣌		سلف	passed before	salafa
+15	4:23:50	w	إِنَّ		ان	Indeed	inna
+15	4:23:51	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	4:23:52	w	كَانَ		كان	is	kāna
+15	4:23:53	w	غَفُوراࣰ		غفورا	Oft-Forgiving	ghafūran
+15	4:23:54	w	رَّحِيماࣰ࣌		رحيما	Most-Merciful	raḥīman
+15	4:23:55	e	۝٢٣				

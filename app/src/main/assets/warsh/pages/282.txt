@@ -1,0 +1,115 @@
+1	17:0:0	t					
+2	17:0:0	b					
+3	17:1:1	w	سُبْحَٰنَ		سبحن	Exalted	sub'ḥāna
+3	17:1:2	w	ࡰ۬لذِےٓ		الذي	(is) the One Who	alladhī
+3	17:1:3	w	أَسْرٜىٰ		اسري	took	asrā
+3	17:1:4	w	بِعَبْدِهِۦ		بعبدهي	His servant	biʿabdihi
+3	17:1:5	w	لَيْلاࣰ		ليلا	(by) night	laylan
+3	17:1:6	w	مِّنَ		من	from	mina
+3	17:1:7	w	ࡰ۬لْمَسْجِدِ		المسجد	Al-Masjid Al-Haraam	l-masjidi
+3	17:1:8	w	ࡴ۬لْحَرَامِ		الحرام	Al-Masjid Al-Haraam	l-ḥarāmi
+3	17:1:9	w	إِلَى		الي	to	ilā
+4	17:1:10	w	ࡰ۬لْمَسْجِدِ		المسجد	Al-Masjid Al-Aqsa	l-masjidi
+4	17:1:11	w	ࡴ۬لَاقْصَا		الاقصا	Al-Masjid Al-Aqsa	l-aqṣā
+4	17:1:12	w	ࡰ۬لذِے		الذي	which	alladhī
+4	17:1:13	w	بَٰرَكْنَا		بركنا	We blessed	bāraknā
+4	17:1:14	w	حَوْلَهُۥ		حوله	its surroundings	ḥawlahu
+4	17:1:15	w	لِنُرِيَهُۥ		لنريه	that We may show him	linuriyahu
+4	17:1:16	w	مِنَ		من	of	min
+4	17:1:17	w	اٰيَٰتِنَآ࣌		ايتنا	Our Signs	āyātinā
+4	17:1:18	w	إِنَّهُۥ		انه	Indeed He	innahu
+5	17:1:19	w	هُوَ		هو	He	huwa
+5	17:1:20	w	ࡰ۬لسَّمِيعُ		السميع	(is) the All-Hearer	l-samīʿu
+5	17:1:21	w	ࡲ۬لْبَصِيرُ࣌		البصير	the All-Seer	l-baṣīru
+5	17:1:22	e	۝١				
+5	17:2:1	w	وَءَاتَيْنَا		واتينا	And We gave	waātaynā
+5	17:2:2	w	مُوسَى		موسي	Musa	mūsā
+5	17:2:3	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+5	17:2:4	w	وَجَعَلْنَٰهُ		وجعلنه	and made it	wajaʿalnāhu
+6	17:2:5	w	هُدىࣰ		هدي	a guidance	hudan
+6	17:2:6	w	لِّبَنِےٓ		لبني	for the Children	libanī
+6	17:2:7	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+6	17:2:8	w	أَلَّا		الا	That not	allā
+6	17:2:9	w	تَتَّخِذُواْ		تتخذوا	you take	tattakhidhū
+6	17:2:10	w	مِن		من	other than Me	min
+6	17:2:11	w	دُونِے		دوني	other than Me	dūnī
+6	17:2:12	w	وَكِيلاࣰ		وكيلا	(as) a Disposer of affairs	wakīlan
+6	17:2:13	e	۝٢				
+7	17:3:1	w	ذُرِّيَّةَ		ذرية	Offsprings	dhurriyyata
+7	17:3:2	w	مَنْ		من	(of one) who	man
+7	17:3:3	w	حَمَلْنَا		حملنا	We carried	ḥamalnā
+7	17:3:4	w	مَعَ		مع	with	maʿa
+7	17:3:5	w	نُوحٍ࣌		نوح	Nuh	nūḥin
+7	17:3:6	w	ࡴنَّهُۥ		انه	Indeed, he	innahu
+7	17:3:7	w	كَانَ		كان	was	kāna
+7	17:3:8	w	عَبْداࣰ		عبدا	a servant	ʿabdan
+7	17:3:9	w	شَكُوراࣰ࣌		شكورا	grateful	shakūran
+7	17:3:10	e	۝٣				
+8	17:4:1	w	وَقَضَيْنَآ		وقضينا	And We decreed	waqaḍaynā
+8	17:4:2	w	إِلَىٰ		الي	for	ilā
+8	17:4:3	w	بَنِےٓ		بني	(the) Children	banī
+8	17:4:4	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+8	17:4:5	w	فِے		في	in	fī
+8	17:4:6	w	ࡴ۬لْكِتَٰبِ		الكتب	the Book	l-kitābi
+8	17:4:7	w	لَتُفْسِدُنَّ		لتفسدن	Surely you will cause corruption	latuf'sidunna
+8	17:4:8	w	فِے		في	in	fī
+8	17:4:9	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+9	17:4:10	w	مَرَّتَيْنِ		مرتين	twice	marratayni
+9	17:4:11	w	وَلَتَعْلُنَّ		ولتعلن	and surely you will reach	walataʿlunna
+9	17:4:12	w	عُلُوّاࣰ		علوا	haughtiness	ʿuluwwan
+9	17:4:13	w	كَبِيراࣰ࣌		كبيرا	great	kabīran
+9	17:4:14	e	۝٤				
+9	17:5:1	w	فَإِذَا		فاذا	So when	fa-idhā
+9	17:5:2	w	جَآءَ		جا	came	jāa
+9	17:5:3	w	وَعْدُ		وعد	(the) promise	waʿdu
+9	17:5:4	w	أُولٜيٰهُمَا		اوليهما	(for) the first of the two	ūlāhumā
+9	17:5:5	w	بَعَثْنَا		بعثنا	We raised	baʿathnā
+10	17:5:6	w	عَلَيْكُمْ		عليكم	against you	ʿalaykum
+10	17:5:7	w	عِبَاداࣰ		عبادا	servants	ʿibādan
+10	17:5:8	w	لَّنَآ		لنا	of Ours	lanā
+10	17:5:9	w	أُوْلِے		اولي	those of great military might	ulī
+10	17:5:10	w	بَأْسࣲ		باس	those of great military might	basin
+10	17:5:11	w	شَدِيدࣲ		شديد	those of great military might	shadīdin
+10	17:5:12	w	فَجَاسُواْ		فجاسوا	and they entered	fajāsū
+10	17:5:13	w	خِلَٰلَ		خلل	the inner most part	khilāla
+10	17:5:14	w	ࡰ۬لدِّيٜارِ࣌		الديار	(of) the homes	l-diyāri
+11	17:5:15	w	وَكَانَ		وكان	and (it) was	wakāna
+11	17:5:16	w	وَعْداࣰ		وعدا	a promise	waʿdan
+11	17:5:17	w	مَّفْعُولاࣰ࣌		مفعولا	fulfilled	mafʿūlan
+11	17:5:18	e	۝٥				
+11	17:6:1	w	ثُمَّ		ثم	Then	thumma
+11	17:6:2	w	رَدَدْنَا		رددنا	We gave back	radadnā
+11	17:6:3	w	لَكُمُ		لكم	to you	lakumu
+11	17:6:4	w	ࡲ۬لْكَرَّةَ		الكرة	the return victory	l-karata
+11	17:6:5	w	عَلَيْهِمْ		عليهم	over them	ʿalayhim
+12	17:6:6	w	وَأَمْدَدْنَٰكُم		وامددنكم	And We reinforced you	wa-amdadnākum
+12	17:6:7	w	بِأَمْوَٰلࣲ		بامول	with the wealth	bi-amwālin
+12	17:6:8	w	وَبَنِينَ		وبنين	and sons	wabanīna
+12	17:6:9	w	وَجَعَلْنَٰكُمُۥٓ		وجعلنكم	and made you	wajaʿalnākum
+12	17:6:10	w	أَكْثَرَ		اكثر	more	akthara
+12	17:6:11	w	نَفِيراً࣌		نفيرا	numerous	nafīran
+12	17:6:12	e	۝٦				
+13	17:7:1	w	ࡴنَ		ان	If	in
+13	17:7:2	w	ࡰحْسَنتُمُۥٓ		احسنتم	you do good	aḥsantum
+13	17:7:3	w	أَحْسَنتُمْ		احسنتم	you do good	aḥsantum
+13	17:7:4	w	لِأَنفُسِكُمْ࣌		لانفسكم	for yourselves	li-anfusikum
+13	17:7:5	w	وَإِنَ		وان	and if	wa-in
+13	17:7:6	w	ࡰسَأْتُمْ		اساتم	you do evil	asatum
+13	17:7:7	w	فَلَهَا࣌		فلها	then it is for it	falahā
+13	17:7:8	w	فَإِذَا		فاذا	So when	fa-idhā
+14	17:7:9	w	جَآءَ		جا	came	jāa
+14	17:7:10	w	وَعْدُ		وعد	promise	waʿdu
+14	17:7:11	w	ࡲ۬لَاخِرَةِ		الاخرة	the last	l-ākhirati
+14	17:7:12	w	لِيَسُـُٔواْ		ليسوا	to sadden	liyasūū
+14	17:7:13	w	وُجُوهَكُمْ		وجوهكم	your faces	wujūhakum
+14	17:7:14	w	وَلِيَدْخُلُواْ		وليدخلوا	and to enter	waliyadkhulū
+14	17:7:15	w	ࡲ۬لْمَسْجِدَ		المسجد	the Masjid	l-masjida
+15	17:7:16	w	كَمَا		كما	just as	kamā
+15	17:7:17	w	دَخَلُوهُ		دخلوه	they (had) entered it	dakhalūhu
+15	17:7:18	w	أَوَّلَ		اول	first	awwala
+15	17:7:19	w	مَرَّةࣲ		مرة	time	marratin
+15	17:7:20	w	وَلِيُتَبِّرُواْ		وليتبروا	and to destroy	waliyutabbirū
+15	17:7:21	w	مَا		ما	what	mā
+15	17:7:22	w	عَلَوْاْ		علوا	they had conquered	ʿalaw
+15	17:7:23	w	تَتْبِيراً࣌		تتبيرا	(with) destruction	tatbīran
+15	17:7:24	e	۝٧				

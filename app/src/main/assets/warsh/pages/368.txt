@@ -1,0 +1,153 @@
+1	26:19:1	w	قَالَ		قال	He said	qāla
+1	26:19:2	w	فَعَلْتُهَآ		فعلتها	I did it	faʿaltuhā
+1	26:19:3	w	إِذاࣰ		اذا	when	idhan
+1	26:19:4	w	وَأَنَا		وانا	I	wa-anā
+1	26:19:5	w	مِنَ		من	(was) of	mina
+1	26:19:6	w	ࡰ۬لضَّآلِّينَ࣌		الضالين	those who are astray	l-ḍālīna
+1	26:19:7	e	۝١٩				
+1	26:20:1	w	فَفَرَرْتُ		ففررت	So I fled	fafarartu
+1	26:20:2	w	مِنكُمْ		منكم	from you	minkum
+1	26:20:3	w	لَمَّا		لما	when	lammā
+1	26:20:4	w	خِفْتُكُمْ		خفتكم	I feared you	khif'tukum
+2	26:20:5	w	فَوَهَبَ		فوهب	But granted	fawahaba
+2	26:20:6	w	لِے		لي	to me	lī
+2	26:20:7	w	رَبِّے		ربي	my Lord	rabbī
+2	26:20:8	w	حُكْماࣰ		حكما	judgment	ḥuk'man
+2	26:20:9	w	وَجَعَلَنِے		وجعلني	and made me	wajaʿalanī
+2	26:20:10	w	مِنَ		من	of	mina
+2	26:20:11	w	ࡰ۬لْمُرْسَلِينَ࣌		المرسلين	the Messengers	l-mur'salīna
+2	26:20:12	e	۝٢٠				
+2	26:21:1	w	وَتِلْكَ		وتلك	And this	watil'ka
+2	26:21:2	w	نِعْمَةࣱ		نعمة	(is the) favor	niʿ'matun
+2	26:21:3	w	تَمُنُّهَا		تمنها	with which you reproach	tamunnuhā
+3	26:21:4	w	عَلَيَّ		علي	[on] me	ʿalayya
+3	26:21:5	w	أَنْ		ان	that	an
+3	26:21:6	w	عَبَّدتَّ		عبدت	you have enslaved	ʿabbadtta
+3	26:21:7	w	بَنِےٓ		بني	(the) Children of Israel	banī
+3	26:21:8	w	إِسْرَآءِيلَ࣌		اسرايل	(the) Children of Israel	is'rāīla
+3	26:21:9	e	۝٢١				
+3	26:22:1	w	قَالَ		قال	Firaun said	qāla
+3	26:22:2	w	فِرْعَوْنُ		فرعون	Firaun said	fir'ʿawnu
+3	26:22:3	w	وَمَا		وما	And what	wamā
+3	26:22:4	w	رَبُّ		رب	(is the) Lord	rabbu
+3	26:22:5	w	ࡲ۬لْعَٰلَمِينَ࣌		العلمين	(of) the worlds	l-ʿālamīna
+3	26:22:6	e	۝٢٢				
+4	26:23:1	w	قَالَ		قال	He said	qāla
+4	26:23:2	w	رَبُّ		رب	Lord	rabbu
+4	26:23:3	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+4	26:23:4	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+4	26:23:5	w	وَمَا		وما	and whatever	wamā
+4	26:23:6	w	بَيْنَهُمَآ		بينهما	(is) between them	baynahumā
+4	26:23:7	w	إِن		ان	if	in
+4	26:23:8	w	كُنتُم		كنتم	you (should) be	kuntum
+4	26:23:9	w	مُّوقِنِينَ࣌		موقنين	convinced	mūqinīna
+4	26:23:10	e	۝٢٣				
+5	26:24:1	w	۞ قَالَ		قال	He said	qāla
+5	26:24:2	w	لِمَنْ		لمن	to those	liman
+5	26:24:3	w	حَوْلَهُۥٓ		حوله	around him	ḥawlahu
+5	26:24:4	w	أَلَا		الا	Do not	alā
+5	26:24:5	w	تَسْتَمِعُونَ࣌		تستمعون	you hear	tastamiʿūna
+5	26:24:6	e	۝٢٤				
+5	26:25:1	w	قَالَ		قال	He said	qāla
+5	26:25:2	w	رَبُّكُمْ		ربكم	Your Lord	rabbukum
+5	26:25:3	w	وَرَبُّ		ورب	and (the) Lord	warabbu
+5	26:25:4	w	ءَابَآئِكُمُ		ابايكم	(of) your forefathers	ābāikumu
+6	26:25:5	w	ࡲ۬لَاوَّلِينَ࣌		الاولين	(of) your forefathers	l-awalīna
+6	26:25:6	e	۝٢٥				
+6	26:26:1	w	قَالَ		قال	He said	qāla
+6	26:26:2	w	إِنَّ		ان	Indeed	inna
+6	26:26:3	w	رَسُولَكُمُ		رسولكم	your Messenger	rasūlakumu
+6	26:26:4	w	ࡲ۬لذِےٓ		الذي	who	alladhī
+6	26:26:5	w	أُرْسِلَ		ارسل	has been sent	ur'sila
+6	26:26:6	w	إِلَيْكُمْ		اليكم	to you	ilaykum
+6	26:26:7	w	لَمَجْنُونࣱ࣌		لمجنون	(is) surely mad	lamajnūnun
+6	26:26:8	e	۝٢٦				
+7	26:27:1	w	قَالَ		قال	He said	qāla
+7	26:27:2	w	رَبُّ		رب	Lord	rabbu
+7	26:27:3	w	ࡲ۬لْمَشْرِقِ		المشرق	(of) the east	l-mashriqi
+7	26:27:4	w	وَالْمَغْرِبِ		والمغرب	and the west	wal-maghribi
+7	26:27:5	w	وَمَا		وما	and whatever	wamā
+7	26:27:6	w	بَيْنَهُمَآ		بينهما	(is) between them	baynahumā
+7	26:27:7	w	إِن		ان	if	in
+7	26:27:8	w	كُنتُمْ		كنتم	you were	kuntum
+7	26:27:9	w	تَعْقِلُونَ࣌		تعقلون	(to) reason	taʿqilūna
+7	26:27:10	e	۝٢٧				
+8	26:28:1	w	قَالَ		قال	He said	qāla
+8	26:28:2	w	لَئِنِ		لين	If	la-ini
+8	26:28:3	w	ࡴٜتَّخَذتَّ		اتخذت	you take	ittakhadhta
+8	26:28:4	w	إِلَٰهاً		الها	a god	ilāhan
+8	26:28:5	w	غَيْرِے		غيري	other than me	ghayrī
+8	26:28:6	w	لَأَجْعَلَنَّكَ		لاجعلنك	I will surely make you	la-ajʿalannaka
+8	26:28:7	w	مِنَ		من	among	mina
+8	26:28:8	w	ࡰ۬لْمَسْجُونِينَ࣌		المسجونين	those imprisoned	l-masjūnīna
+8	26:28:9	e	۝٢٨				
+9	26:29:1	w	قَالَ		قال	He said	qāla
+9	26:29:2	w	أَوَلَوْ		اولو	Even if	awalaw
+9	26:29:3	w	جِئْتُكَ		جيتك	I bring you	ji'tuka
+9	26:29:4	w	بِشَےْءࣲ		بشي	something	bishayin
+9	26:29:5	w	مُّبِينࣲ࣌		مبين	manifest	mubīnin
+9	26:29:6	e	۝٢٩				
+9	26:30:1	w	قَالَ		قال	He said	qāla
+9	26:30:2	w	فَاتِ		فات	Then bring	fati
+9	26:30:3	w	بِهِۦٓ		بهي	it	bihi
+9	26:30:4	w	إِن		ان	if	in
+9	26:30:5	w	كُنتَ		كنت	you are	kunta
+10	26:30:6	w	مِنَ		من	of	mina
+10	26:30:7	w	ࡰ۬لصَّٰدِقِينَ࣌		الصدقين	the truthful	l-ṣādiqīna
+10	26:30:8	e	۝٣٠				
+10	26:31:1	w	فَأَلْقٜىٰ		فالقي	So he threw	fa-alqā
+10	26:31:2	w	عَصَاهُ		عصاه	his staff	ʿaṣāhu
+10	26:31:3	w	فَإِذَا		فاذا	and behold	fa-idhā
+10	26:31:4	w	هِيَ		هي	It	hiya
+10	26:31:5	w	ثُعْبَانࣱ		ثعبان	(was) a serpent	thuʿ'bānun
+10	26:31:6	w	مُّبِينࣱ		مبين	manifest	mubīnun
+10	26:31:7	e	۝٣١				
+11	26:32:1	w	وَنَزَعَ		ونزع	And he drew out	wanazaʿa
+11	26:32:2	w	يَدَهُۥ		يده	his hand	yadahu
+11	26:32:3	w	فَإِذَا		فاذا	and behold	fa-idhā
+11	26:32:4	w	هِيَ		هي	It	hiya
+11	26:32:5	w	بَيْضَآءُ		بيضا	(was) white	bayḍāu
+11	26:32:6	w	لِلنَّٰظِرِينَ࣌		للنظرين	for the observers	lilnnāẓirīna
+11	26:32:7	e	۝٣٢				
+11	26:33:1	w	قَالَ		قال	He said	qāla
+11	26:33:2	w	لِلْمَلَإِ		للملا	to the chiefs	lil'mala-i
+11	26:33:3	w	حَوْلَهُۥٓ		حوله	around him	ḥawlahu
+12	26:33:4	w	إِنَّ		ان	Indeed	inna
+12	26:33:5	w	هَٰذَا		هذا	this	hādhā
+12	26:33:6	w	لَسَٰحِرٌ		لسحر	(is) surely a magician	lasāḥirun
+12	26:33:7	w	عَلِيمࣱ		عليم	learned	ʿalīmun
+12	26:33:8	e	۝٣٣				
+12	26:34:1	w	يُرِيدُ		يريد	He wants	yurīdu
+12	26:34:2	w	أَنْ		ان	to	an
+12	26:34:3	w	يُّخْرِجَكُم		يخرجكم	drive you out	yukh'rijakum
+12	26:34:4	w	مِّنَ		من	from	min
+12	26:34:5	w	ࡰرْضِكُم		ارضكم	your land	arḍikum
+13	26:34:6	w	بِسِحْرِهِۦ		بسحرهي	by his magic	bisiḥ'rihi
+13	26:34:7	w	فَمَاذَا		فماذا	so what	famādhā
+13	26:34:8	w	تَامُرُونَ࣌		تامرون	(do) you advise	tamurūna
+13	26:34:9	e	۝٣٤				
+13	26:35:1	w	قَالُوٓاْ		قالوا	They said	qālū
+13	26:35:2	w	أَرْجِهِۦ		ارجهي	Postpone him	arjih
+13	26:35:3	w	وَأَخَاهُ		واخاه	and his brother	wa-akhāhu
+13	26:35:4	w	وَابْعَثْ		وابعث	and send	wa-ib'ʿath
+13	26:35:5	w	فِے		في	in	fī
+13	26:35:6	w	ࡴ۬لْمَدَآئِنِ		المداين	the cities	l-madāini
+14	26:35:7	w	حَٰشِرِينَ		حشرين	gatherers	ḥāshirīna
+14	26:35:8	e	۝٣٥				
+14	26:36:1	w	يَاتُوكَ		ياتوك	They (will) bring to you	yatūka
+14	26:36:2	w	بِكُلِّ		بكل	every	bikulli
+14	26:36:3	w	سَحّٜارٍ		سحار	magician	saḥḥārin
+14	26:36:4	w	عَلِيمࣲ࣌		عليم	learned	ʿalīmin
+14	26:36:5	e	۝٣٦				
+14	26:37:1	w	فَجُمِعَ		فجمع	So were assembled	fajumiʿa
+14	26:37:2	w	ࡰ۬لسَّحَرَةُ		السحرة	the magicians	l-saḥaratu
+15	26:37:3	w	لِمِيقَٰتِ		لميقت	for (the) appointment	limīqāti
+15	26:37:4	w	يَوْمࣲ		يوم	(on) a day	yawmin
+15	26:37:5	w	مَّعْلُومࣲ࣌		معلوم	well-known	maʿlūmin
+15	26:37:6	e	۝٣٧				
+15	26:38:1	w	وَقِيلَ		وقيل	And it was said	waqīla
+15	26:38:2	w	لِلنَّاسِ		للناس	to the people	lilnnāsi
+15	26:38:3	w	هَلَ		هل	Will	hal
+15	26:38:4	w	ࡰنتُم		انتم	you	antum
+15	26:38:5	w	مُّجْتَمِعُونَ		مجتمعون	assemble	muj'tamiʿūna
+15	26:38:6	e	۝٣٨				

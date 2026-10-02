@@ -1,0 +1,122 @@
+1	54:50:1	w	وَمَآ		وما	And not	wamā
+1	54:50:2	w	أَمْرُنَآ		امرنا	(is) Our Command	amrunā
+1	54:50:3	w	إِلَّا		الا	but	illā
+1	54:50:4	w	وَٰحِدَةࣱ		وحدة	one	wāḥidatun
+1	54:50:5	w	كَلَمْحِۢ		كلمح	like the twinkling	kalamḥin
+1	54:50:6	w	بِالْبَصَرِ࣌		بالبصر	(of) the eye	bil-baṣari
+1	54:50:7	e	۝٥٠				
+1	54:51:1	w	وَلَقَدَ		ولقد	And certainly	walaqad
+1	54:51:2	w	ࡰهْلَكْنَآ		اهلكنا	We destroyed	ahlaknā
+2	54:51:3	w	أَشْيَاعَكُمْ		اشياعكم	your kinds	ashyāʿakum
+2	54:51:4	w	فَهَلْ		فهل	so is (there)	fahal
+2	54:51:5	w	مِن		من	any	min
+2	54:51:6	w	مُّدَّكِرࣲ࣌		مدكر	who will receive admonition	muddakirin
+2	54:51:7	e	۝٥١				
+2	54:52:1	w	وَكُلُّ		وكل	And every	wakullu
+2	54:52:2	w	شَےْءࣲ		شي	thing	shayin
+2	54:52:3	w	فَعَلُوهُ		فعلوه	they did	faʿalūhu
+2	54:52:4	w	فِے		في	(is) in	fī
+2	54:52:5	w	ࡴ۬لزُّبُرِ࣌		الزبر	the written records	l-zuburi
+2	54:52:6	e	۝٥٢				
+3	54:53:1	w	وَكُلُّ		وكل	And every	wakullu
+3	54:53:2	w	صَغِيرࣲ		صغير	small	ṣaghīrin
+3	54:53:3	w	وَكَبِيرࣲ		وكبير	and big	wakabīrin
+3	54:53:4	w	مُّسْتَطَرٌ࣌		مستطر	(is) written down	mus'taṭarun
+3	54:53:5	e	۝٥٣				
+3	54:54:1	w	ࡴنَّ		ان	Indeed	inna
+3	54:54:2	w	ࡰ۬لْمُتَّقِينَ		المتقين	the righteous	l-mutaqīna
+3	54:54:3	w	فِے		في	(will be) in	fī
+4	54:54:4	w	جَنَّٰتࣲ		جنت	gardens	jannātin
+4	54:54:5	w	وَنَهَرࣲ		ونهر	and river	wanaharin
+4	54:54:6	e	۝٥٤				
+4	54:55:1	w	فِے		في	In	fī
+4	54:55:2	w	مَقْعَدِ		مقعد	a seat	maqʿadi
+4	54:55:3	w	صِدْقٍ		صدق	(of) honor	ṣid'qin
+4	54:55:4	w	عِندَ		عند	near	ʿinda
+4	54:55:5	w	مَلِيكࣲ		مليك	a King	malīkin
+4	54:55:6	w	مُّقْتَدِرٍ࣌		مقتدر	Most Powerful	muq'tadirin
+4	54:55:7	e	۝٥٥				
+5	55:0:0	t					
+6	55:0:0	b					
+7	55:1:1	w	ࡴ۬لرَّحْمَٰنُ		الرحمن	The Most Gracious	al-raḥmānu
+7	55:1:2	w	عَلَّمَ		علم	He taught	ʿallama
+7	55:1:3	w	ࡰ۬لْقُرْءَانَ࣌		القران	the Quran	l-qur'āna
+7	55:1:4	e	۝١				
+7	55:2:1	w	خَلَقَ		خلق	He created	khalaqa
+7	55:2:2	w	ࡰ۬لِانسَٰنَ		الانسن	[the] man	l-insāna
+7	55:2:3	w	عَلَّمَهُ		علمه	He taught him	ʿallamahu
+7	55:2:4	w	ࡲ۬لْبَيَانَ࣌		البيان	[the] speech	l-bayāna
+7	55:2:5	e	۝٢				
+8	55:3:1	w	ࡰ۬لشَّمْسُ		الشمس	The sun	al-shamsu
+8	55:3:2	w	وَالْقَمَرُ		والقمر	and the moon	wal-qamaru
+8	55:3:3	w	بِحُسْبَانࣲ࣌		بحسبان	by (precise) calculation	biḥus'bānin
+8	55:3:4	e	۝٣				
+8	55:4:1	w	وَالنَّجْمُ		والنجم	And the stars	wal-najmu
+8	55:4:2	w	وَالشَّجَرُ		والشجر	and the trees	wal-shajaru
+8	55:4:3	w	يَسْجُدَٰنِ࣌		يسجدن	both prostrate	yasjudāni
+8	55:4:4	e	۝٤				
+9	55:5:1	w	وَالسَّمَآءَ		والسما	And the heaven	wal-samāa
+9	55:5:2	w	رَفَعَهَا		رفعها	He raised it	rafaʿahā
+9	55:5:3	w	وَوَضَعَ		ووضع	and He has set up	wawaḍaʿa
+9	55:5:4	w	ࡰ۬لْمِيزَانَ		الميزان	the balance	l-mīzāna
+9	55:5:5	e	۝٥				
+9	55:6:1	w	أَلَّا		الا	That not	allā
+9	55:6:2	w	تَطْغَوْاْ		تطغوا	you may transgress	taṭghaw
+9	55:6:3	w	فِے		في	in	fī
+9	55:6:4	w	ࡴ۬لْمِيزَانِ		الميزان	the balance	l-mīzāni
+9	55:6:5	e	۝٦				
+10	55:7:1	w	وَأَقِيمُواْ		واقيموا	And establish	wa-aqīmū
+10	55:7:2	w	ࡲ۬لْوَزْنَ		الوزن	the weight	l-wazna
+10	55:7:3	w	بِالْقِسْطِ		بالقسط	in justice	bil-qis'ṭi
+10	55:7:4	w	وَلَا		ولا	and (do) not	walā
+10	55:7:5	w	تُخْسِرُواْ		تخسروا	make deficient	tukh'sirū
+10	55:7:6	w	ࡲ۬لْمِيزَانَ࣌		الميزان	the balance	l-mīzāna
+10	55:7:7	e	۝٧				
+10	55:8:1	w	وَالَارْضَ		والارض	And the earth	wal-arḍa
+11	55:8:2	w	وَضَعَهَا		وضعها	He laid it	waḍaʿahā
+11	55:8:3	w	لِلَانَامِ		للانام	for the creatures	lil'anāmi
+11	55:8:4	e	۝٨				
+11	55:9:1	w	فِيهَا		فيها	Therein	fīhā
+11	55:9:2	w	فَٰكِهَةࣱ		فكهة	(is) fruit	fākihatun
+11	55:9:3	w	وَالنَّخْلُ		والنخل	and date-palms	wal-nakhlu
+11	55:9:4	w	ذَاتُ		ذات	having	dhātu
+11	55:9:5	w	ࡲ۬لَاكْمَامِ		الاكمام	sheaths	l-akmāmi
+11	55:9:6	e	۝٩				
+12	55:10:1	w	وَالْحَبُّ		والحب	And the grain	wal-ḥabu
+12	55:10:2	w	ذُو		ذو	having	dhū
+12	55:10:3	w	ࡲ۬لْعَصْفِ		العصف	husk	l-ʿaṣfi
+12	55:10:4	w	وَالرَّيْحَانُ࣌		والريحان	and scented plants	wal-rayḥānu
+12	55:10:5	e	۝١٠				
+12	55:11:1	w	فَبِأَيِّ		فباي	So which	fabi-ayyi
+12	55:11:2	w	ءَالَآءِ		الا	(of the) favors	ālāi
+12	55:11:3	w	رَبِّكُمَا		ربكما	(of) your Lord	rabbikumā
+12	55:11:4	w	تُكَذِّبَانِ࣌		تكذبان	will you both deny	tukadhibāni
+12	55:11:5	e	۝١١				
+13	55:12:1	w	خَلَقَ		خلق	He created	khalaqa
+13	55:12:2	w	ࡰ۬لِانسَٰنَ		الانسن	the man	l-insāna
+13	55:12:3	w	مِن		من	from	min
+13	55:12:4	w	صَلْصَٰلࣲ		صلصل	clay	ṣalṣālin
+13	55:12:5	w	كَالْفَخّٜارِ		كالفخار	like the pottery	kal-fakhāri
+13	55:12:6	e	۝١٢				
+13	55:13:1	w	وَخَلَقَ		وخلق	And He created	wakhalaqa
+13	55:13:2	w	ࡰ۬لْجَآنَّ		الجان	the jinn	l-jāna
+14	55:13:3	w	مِن		من	from	min
+14	55:13:4	w	مَّارِجࣲ		مارج	a smokeless flame	mārijin
+14	55:13:5	w	مِّن		من	of	min
+14	55:13:6	w	نّٜارࣲ࣌		نار	fire	nārin
+14	55:13:7	e	۝١٣				
+14	55:14:1	w	فَبِأَيِّ		فباي	So which	fabi-ayyi
+14	55:14:2	w	ءَالَآءِ		الا	(of the) favors	ālāi
+14	55:14:3	w	رَبِّكُمَا		ربكما	(of) your Lord	rabbikumā
+14	55:14:4	w	تُكَذِّبَانِ࣌		تكذبان	will you both deny	tukadhibāni
+14	55:14:5	e	۝١٤				
+14	55:15:1	w	رَبُّ		رب	Lord	rabbu
+15	55:15:2	w	ࡲ۬لْمَشْرِقَيْنِ		المشرقين	(of) the two Easts	l-mashriqayni
+15	55:15:3	w	وَرَبُّ		ورب	and Lord	warabbu
+15	55:15:4	w	ࡲ۬لْمَغْرِبَيْنِ࣌		المغربين	(of) the two Wests	l-maghribayni
+15	55:15:5	e	۝١٥				
+15	55:16:1	w	فَبِأَيِّ		فباي	So which	fabi-ayyi
+15	55:16:2	w	ءَالَآءِ		الا	(of the) favors	ālāi
+15	55:16:3	w	رَبِّكُمَا		ربكما	(of) your Lord	rabbikumā
+15	55:16:4	w	تُكَذِّبَانِ࣌		تكذبان	will you both deny	tukadhibāni
+15	55:16:5	e	۝١٦				

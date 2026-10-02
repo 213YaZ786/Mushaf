@@ -1,0 +1,145 @@
+1	5:98:1	w	ࡳحِلَّ		احل	Is made lawful	uḥilla
+1	5:98:2	w	لَكُمْ		لكم	for you	lakum
+1	5:98:3	w	صَيْدُ		صيد	game	ṣaydu
+1	5:98:4	w	ࡲ۬لْبَحْرِ		البحر	(of) the sea	l-baḥri
+1	5:98:5	w	وَطَعَامُهُۥ࣌		وطعامه	and its food	waṭaʿāmuhu
+1	5:98:6	w	مَتَٰعاࣰ		متعا	(as) provision	matāʿan
+1	5:98:7	w	لَّكُمْ		لكم	for you	lakum
+1	5:98:8	w	وَلِلسَّيَّارَةِ࣌		وللسيارة	and for the travelers	walilssayyārati
+2	5:98:9	w	وَحُرِّمَ		وحرم	and is made unlawful	waḥurrima
+2	5:98:10	w	عَلَيْكُمْ		عليكم	on you	ʿalaykum
+2	5:98:11	w	صَيْدُ		صيد	game	ṣaydu
+2	5:98:12	w	ࡲ۬لْبَرِّ		البر	(of) the land	l-bari
+2	5:98:13	w	مَا		ما	as	mā
+2	5:98:14	w	دُمْتُمْ		دمتم	long as you	dum'tum
+2	5:98:15	w	حُرُماࣰ࣌		حرما	(are in) Ihram	ḥuruman
+2	5:98:16	w	وَاتَّقُواْ		واتقوا	And be conscious	wa-ittaqū
+2	5:98:17	w	ࡲ۬للَّهَ		الله	(of) Allah	l-laha
+2	5:98:18	w	ࡰ۬لذِےٓ		الذي	the One	alladhī
+3	5:98:19	w	إِلَيْهِ		اليه	to Him	ilayhi
+3	5:98:20	w	تُحْشَرُونَ࣌		تحشرون	you will be gathered	tuḥ'sharūna
+3	5:98:21	e	۝٩٨				
+3	5:99:1	w	۞ جَعَلَ		جعل	Has (been) made	jaʿala
+3	5:99:2	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+3	5:99:3	w	ࡲ۬لْكَعْبَةَ		الكعبة	the Kabah	l-kaʿbata
+3	5:99:4	w	ࡰ۬لْبَيْتَ		البيت	the House	l-bayta
+3	5:99:5	w	ࡰ۬لْحَرَامَ		الحرام	the Sacred	l-ḥarāma
+4	5:99:6	w	قِيَٰماࣰ		قيما	an establishment	qiyāman
+4	5:99:7	w	لِّلنَّاسِ		للناس	for mankind	lilnnāsi
+4	5:99:8	w	وَالشَّهْرَ		والشهر	and the month(s)	wal-shahra
+4	5:99:9	w	ࡰ۬لْحَرَامَ		الحرام	[the] sacred	l-ḥarāma
+4	5:99:10	w	وَالْهَدْيَ		والهدي	and the (animals) for offering	wal-hadya
+4	5:99:11	w	وَالْقَلَٰٓئِدَ࣌		والقليد	and the garlands	wal-qalāida
+4	5:99:12	w	ذَٰلِكَ		ذلك	That (is)	dhālika
+4	5:99:13	w	لِتَعْلَمُوٓاْ		لتعلموا	so that you may know	litaʿlamū
+5	5:99:14	w	أَنَّ		ان	that	anna
+5	5:99:15	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	5:99:16	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+5	5:99:17	w	مَا		ما	what	mā
+5	5:99:18	w	فِے		في	(is) in	fī
+5	5:99:19	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+5	5:99:20	w	وَمَا		وما	and what	wamā
+5	5:99:21	w	فِے		في	(is) in	fī
+5	5:99:22	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+5	5:99:23	w	وَأَنَّ		وان	and that	wa-anna
+5	5:99:24	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	5:99:25	w	بِكُلِّ		بكل	of every	bikulli
+6	5:99:26	w	شَےْءٍ		شي	thing	shayin
+6	5:99:27	w	عَلِيمٌ࣌		عليم	(is) All-Knowing	ʿalīmun
+6	5:99:28	e	۝٩٩				
+6	5:100:1	w	ࡴٜعْلَمُوٓاْ		اعلموا	Know	iʿ'lamū
+6	5:100:2	w	أَنَّ		ان	that	anna
+6	5:100:3	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	5:100:4	w	شَدِيدُ		شديد	(is) severe	shadīdu
+6	5:100:5	w	ࡲ۬لْعِقَابِ		العقاب	(in) punishment	l-ʿiqābi
+6	5:100:6	w	وَأَنَّ		وان	and that	wa-anna
+6	5:100:7	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+7	5:100:8	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+7	5:100:9	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+7	5:100:10	e	۝١٠٠				
+7	5:101:1	w	مَّا		ما	Not	mā
+7	5:101:2	w	عَلَى		علي	on	ʿalā
+7	5:101:3	w	ࡰ۬لرَّسُولِ		الرسول	the Messenger	l-rasūli
+7	5:101:4	w	إِلَّا		الا	except	illā
+7	5:101:5	w	ࡰ۬لْبَلَٰغُ࣌		البلغ	the conveyance	l-balāghu
+7	5:101:6	w	وَاللَّهُ		والله	And Allah	wal-lahu
+7	5:101:7	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+7	5:101:8	w	مَا		ما	what	mā
+8	5:101:9	w	تُبْدُونَ		تبدون	you reveal	tub'dūna
+8	5:101:10	w	وَمَا		وما	and what	wamā
+8	5:101:11	w	تَكْتُمُونَ࣌		تكتمون	you conceal	taktumūna
+8	5:101:12	e	۝١٠١				
+8	5:102:1	w	قُل		قل	Say	qul
+8	5:102:2	w	لَّا		لا	Not	lā
+8	5:102:3	w	يَسْتَوِے		يستوي	(are) equal	yastawī
+8	5:102:4	w	ࡴ۬لْخَبِيثُ		الخبيث	the evil	l-khabīthu
+8	5:102:5	w	وَالطَّيِّبُ		والطيب	and the good	wal-ṭayibu
+9	5:102:6	w	وَلَوَ		ولو	even if	walaw
+9	5:102:7	w	ࡰعْجَبَكَ		اعجبك	impresses you	aʿjabaka
+9	5:102:8	w	كَثْرَةُ		كثرة	abundance	kathratu
+9	5:102:9	w	ࡲ۬لْخَبِيثِ࣌		الخبيث	(of) the evil	l-khabīthi
+9	5:102:10	w	فَاتَّقُواْ		فاتقوا	So fear	fa-ittaqū
+9	5:102:11	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+9	5:102:12	w	يَٰٓأُوْلِے		ياولي	O men	yāulī
+9	5:102:13	w	ࡴ۬لَالْبَٰبِ		الالبب	(of) understanding	l-albābi
+10	5:102:14	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+10	5:102:15	w	تُفْلِحُونَ࣌		تفلحون	(be) successful	tuf'liḥūna
+10	5:102:16	e	۝١٠٢				
+10	5:103:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+10	5:103:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+10	5:103:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+10	5:103:4	w	لَا		لا	(Do) not	lā
+10	5:103:5	w	تَسْـَٔلُواْ		تسلوا	ask	tasalū
+10	5:103:6	w	عَنَ		عن	about	ʿan
+11	5:103:7	w	ࡰشْيَآءَ		اشيا	things	ashyāa
+11	5:103:8	w	ࡹن		ان	if	in
+11	5:103:9	w	تُبْدَ		تبد	made clear	tub'da
+11	5:103:10	w	لَكُمْ		لكم	to you	lakum
+11	5:103:11	w	تَسُؤْكُمْ࣌		تسوكم	it may distress you	tasu'kum
+11	5:103:12	w	وَإِن		وان	and if	wa-in
+11	5:103:13	w	تَسْـَٔلُواْ		تسلوا	you ask	tasalū
+11	5:103:14	w	عَنْهَا		عنها	about it	ʿanhā
+11	5:103:15	w	حِينَ		حين	when	ḥīna
+11	5:103:16	w	يُنَزَّلُ		ينزل	is being revealed	yunazzalu
+12	5:103:17	w	ࡲ۬لْقُرْءَانُ		القران	the Quran	l-qur'ānu
+12	5:103:18	w	تُبْدَ		تبد	it would be made clear	tub'da
+12	5:103:19	w	لَكُمْ		لكم	to you	lakum
+12	5:103:20	w	عَفَا		عفا	has (been) pardoned	ʿafā
+12	5:103:21	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+12	5:103:22	w	عَنْهَا࣌		عنها	[about] it	ʿanhā
+12	5:103:23	w	وَاللَّهُ		والله	and Allah	wal-lahu
+12	5:103:24	w	غَفُورٌ		غفور	(is) Oft-Forgiving	ghafūrun
+12	5:103:25	w	حَلِيمࣱ࣌		حليم	All-Forbearing	ḥalīmun
+12	5:103:26	e	۝١٠٣				
+13	5:104:1	w	قَدْ		قد	Indeed	qad
+13	5:104:2	w	سَأَلَهَا		سالها	asked them	sa-alahā
+13	5:104:3	w	قَوْمࣱ		قوم	a people	qawmun
+13	5:104:4	w	مِّن		من	from	min
+13	5:104:5	w	قَبْلِكُمْ		قبلكم	before you	qablikum
+13	5:104:6	w	ثُمَّ		ثم	then	thumma
+13	5:104:7	w	أَصْبَحُواْ		اصبحوا	they became	aṣbaḥū
+13	5:104:8	w	بِهَا		بها	thereby	bihā
+13	5:104:9	w	كٜـٰفِرِينَ࣌		كفرين	disbelievers	kāfirīna
+13	5:104:10	e	۝١٠٤				
+13	5:105:1	w	مَا		ما	Not	mā
+13	5:105:2	w	جَعَلَ		جعل	has (been) made	jaʿala
+14	5:105:3	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+14	5:105:4	w	مِنۢ		من	of	min
+14	5:105:5	w	بَحِيرَةࣲ		بحيرة	a Bahirah	baḥīratin
+14	5:105:6	w	وَلَا		ولا	and not	walā
+14	5:105:7	w	سَآئِبَةࣲ		سايبة	a Saibah	sāibatin
+14	5:105:8	w	وَلَا		ولا	and not	walā
+14	5:105:9	w	وَصِيلَةࣲ		وصيلة	a Wasilah	waṣīlatin
+14	5:105:10	w	وَلَا		ولا	and not	walā
+14	5:105:11	w	حَامࣲ࣌		حام	a Hami	ḥāmin
+14	5:105:12	w	وَلَٰكِنَّ		ولكن	[And] but	walākinna
+14	5:105:13	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+15	5:105:14	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+15	5:105:15	w	يَفْتَرُونَ		يفترون	they invent	yaftarūna
+15	5:105:16	w	عَلَى		علي	against	ʿalā
+15	5:105:17	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+15	5:105:18	w	ࡴ۬لْكَذِبَ		الكذب	the lie	l-kadhiba
+15	5:105:19	w	وَأَكْثَرُهُمْ		واكثرهم	and most of them	wa-aktharuhum
+15	5:105:20	w	لَا		لا	(do) not	lā
+15	5:105:21	w	يَعْقِلُونَ࣌		يعقلون	use reason	yaʿqilūna
+15	5:105:22	e	۝١٠٥				

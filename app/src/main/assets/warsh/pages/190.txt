@@ -1,0 +1,117 @@
+1	9:21:1	w	يُبَشِّرُهُمْ		يبشرهم	Their Lord gives them glad tidings	yubashiruhum
+1	9:21:2	w	رَبُّهُم		ربهم	Their Lord gives them glad tidings	rabbuhum
+1	9:21:3	w	بِرَحْمَةࣲ		برحمة	of Mercy	biraḥmatin
+1	9:21:4	w	مِّنْهُ		منه	from Him	min'hu
+1	9:21:5	w	وَرِضْوَٰنࣲ		ورضون	and Pleasure	wariḍ'wānin
+1	9:21:6	w	وَجَنَّٰتࣲ		وجنت	and Gardens	wajannātin
+1	9:21:7	w	لَّهُمْ		لهم	for them	lahum
+1	9:21:8	w	فِيهَا		فيها	in it	fīhā
+2	9:21:9	w	نَعِيمࣱ		نعيم	(is) bliss	naʿīmun
+2	9:21:10	w	مُّقِيمٌ		مقيم	enduring	muqīmun
+2	9:21:11	e	۝٢١				
+2	9:22:1	w	خَٰلِدِينَ		خلدين	(They will) abide	khālidīna
+2	9:22:2	w	فِيهَآ		فيها	in it	fīhā
+2	9:22:3	w	أَبَداً࣌		ابدا	forever	abadan
+2	9:22:4	w	ࡴنَّ		ان	Indeed	inna
+2	9:22:5	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+2	9:22:6	w	عِندَهُۥٓ		عنده	with Him	ʿindahu
+2	9:22:7	w	أَجْرٌ		اجر	(is) a reward	ajrun
+3	9:22:8	w	عَظِيمࣱ࣌		عظيم	great	ʿaẓīmun
+3	9:22:9	e	۝٢٢				
+3	9:23:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+3	9:23:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+3	9:23:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+3	9:23:4	w	لَا		لا	(Do) not	lā
+3	9:23:5	w	تَتَّخِذُوٓاْ		تتخذوا	take	tattakhidhū
+3	9:23:6	w	ءَابَآءَكُمْ		اباكم	your fathers	ābāakum
+4	9:23:7	w	وَإِخْوَٰنَكُمُۥٓ		واخونكم	and your brothers	wa-ikh'wānakum
+4	9:23:8	w	أَوْلِيَآءَ		اوليا	(as) allies	awliyāa
+4	9:23:9	w	ࡹنِ		ان	if	ini
+4	9:23:10	w	ࡴٜسْتَحَبُّواْ		استحبوا	they prefer	is'taḥabbū
+4	9:23:11	w	ࡲ۬لْكُفْرَ		الكفر	[the] disbelief	l-kuf'ra
+4	9:23:12	w	عَلَى		علي	over	ʿalā
+4	9:23:13	w	ࡰ۬لِايمَٰنِ࣌		الايمن	[the] belief	l-īmāni
+5	9:23:14	w	وَمَنْ		ومن	And whoever	waman
+5	9:23:15	w	يَّتَوَلَّهُم		يتولهم	takes them as allies	yatawallahum
+5	9:23:16	w	مِّنكُمْ		منكم	among you	minkum
+5	9:23:17	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+5	9:23:18	w	هُمُ		هم	[they]	humu
+5	9:23:19	w	ࡲ۬لظَّٰلِمُونَ࣌		الظلمون	(are) the wrongdoers	l-ẓālimūna
+5	9:23:20	e	۝٢٣				
+5	9:24:1	w	قُلِ		قل	Say	qul
+5	9:24:2	w	ࡴن		ان	If	in
+6	9:24:3	w	كَانَ		كان	are	kāna
+6	9:24:4	w	ءَابَآؤُكُمْ		اباوكم	your fathers	ābāukum
+6	9:24:5	w	وَأَبْنَآؤُكُمْ		وابناوكم	and your sons	wa-abnāukum
+6	9:24:6	w	وَإِخْوَٰنُكُمْ		واخونكم	and your brothers	wa-ikh'wānukum
+6	9:24:7	w	وَأَزْوَٰجُكُمْ		وازوجكم	and your spouses	wa-azwājukum
+7	9:24:8	w	وَعَشِيرَتُكُمْ		وعشيرتكم	and your relatives	waʿashīratukum
+7	9:24:9	w	وَأَمْوَٰلٌ		وامول	and wealth	wa-amwālun
+7	9:24:10	w	ࡴٜقْتَرَفْتُمُوهَا		اقترفتموها	that you have acquired	iq'taraftumūhā
+7	9:24:11	w	وَتِجَٰرَةࣱ		وتجرة	and the commerce	watijāratun
+7	9:24:12	w	تَخْشَوْنَ		تخشون	you fear	takhshawna
+8	9:24:13	w	كَسَادَهَا		كسادها	a decline (in) it	kasādahā
+8	9:24:14	w	وَمَسَٰكِنُ		ومسكن	and the dwellings	wamasākinu
+8	9:24:15	w	تَرْضَوْنَهَآ		ترضونها	you delight (in) it	tarḍawnahā
+8	9:24:16	w	أَحَبَّ		احب	(are) more beloved	aḥabba
+8	9:24:17	w	إِلَيْكُم		اليكم	to you	ilaykum
+8	9:24:18	w	مِّنَ		من	than	mina
+8	9:24:19	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+9	9:24:20	w	وَرَسُولِهِۦ		ورسولهي	and His Messenger	warasūlihi
+9	9:24:21	w	وَجِهَادࣲ		وجهاد	and striving	wajihādin
+9	9:24:22	w	فِے		في	in	fī
+9	9:24:23	w	سَبِيلِهِۦ		سبيلهي	His way	sabīlihi
+9	9:24:24	w	فَتَرَبَّصُواْ		فتربصوا	then wait	fatarabbaṣū
+9	9:24:25	w	حَتَّىٰ		حتي	until	ḥattā
+9	9:24:26	w	يَاتِيَ		ياتي	Allah brings	yatiya
+9	9:24:27	w	ࡰ۬للَّهُ		الله	Allah brings	l-lahu
+10	9:24:28	w	بِأَمْرِهِۦ࣌		بامرهي	His Command	bi-amrihi
+10	9:24:29	w	وَاللَّهُ		والله	And Allah	wal-lahu
+10	9:24:30	w	لَا		لا	(does) not	lā
+10	9:24:31	w	يَهْدِے		يهدي	guide	yahdī
+10	9:24:32	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+10	9:24:33	w	ࡰ۬لْفَٰسِقِينَ࣌		الفسقين	the defiantly disobedient	l-fāsiqīna
+10	9:24:34	e	۝٢٤				
+10	9:25:1	w	لَقَدْ		لقد	Verily	laqad
+10	9:25:2	w	نَصَرَكُمُ		نصركم	Allah helped you	naṣarakumu
+10	9:25:3	w	ࡲ۬للَّهُ		الله	Allah helped you	l-lahu
+11	9:25:4	w	فِے		في	in	fī
+11	9:25:5	w	مَوَاطِنَ		مواطن	regions	mawāṭina
+11	9:25:6	w	كَثِيرَةࣲ		كثيرة	many	kathīratin
+11	9:25:7	w	وَيَوْمَ		ويوم	and (on the) day	wayawma
+11	9:25:8	w	حُنَيْنٍ		حنين	(of) Hunain	ḥunaynin
+11	9:25:9	w	ࡴذَ		اذ	when	idh
+11	9:25:10	w	ࡰعْجَبَتْكُمْ		اعجبتكم	pleased you	aʿjabatkum
+11	9:25:11	w	كَثْرَتُكُمْ		كثرتكم	your multitude	kathratukum
+12	9:25:12	w	فَلَمْ		فلم	but not	falam
+12	9:25:13	w	تُغْنِ		تغن	availed	tugh'ni
+12	9:25:14	w	عَنكُمْ		عنكم	you	ʿankum
+12	9:25:15	w	شَيْـٔاࣰ		شيا	anything	shayan
+12	9:25:16	w	وَضَاقَتْ		وضاقت	and (was) straitened	waḍāqat
+12	9:25:17	w	عَلَيْكُمُ		عليكم	for you	ʿalaykumu
+12	9:25:18	w	ࡲ۬لَارْضُ		الارض	the earth	l-arḍu
+13	9:25:19	w	بِمَا		بما	(in spite) of its vastness	bimā
+13	9:25:20	w	رَحُبَتْ		رحبت	(in spite) of its vastness	raḥubat
+13	9:25:21	w	ثُمَّ		ثم	then	thumma
+13	9:25:22	w	وَلَّيْتُم		وليتم	you turned back	wallaytum
+13	9:25:23	w	مُّدْبِرِينَ࣌		مدبرين	fleeing	mud'birīna
+13	9:25:24	e	۝٢٥				
+13	9:26:1	w	ثُمَّ		ثم	Then	thumma
+13	9:26:2	w	أَنزَلَ		انزل	Allah sent down	anzala
+13	9:26:3	w	ࡰ۬للَّهُ		الله	Allah sent down	l-lahu
+13	9:26:4	w	سَكِينَتَهُۥ		سكينته	His tranquility	sakīnatahu
+14	9:26:5	w	عَلَىٰ		علي	on	ʿalā
+14	9:26:6	w	رَسُولِهِۦ		رسولهي	His Messenger	rasūlihi
+14	9:26:7	w	وَعَلَى		وعلي	and on	waʿalā
+14	9:26:8	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+14	9:26:9	w	وَأَنزَلَ		وانزل	and sent down	wa-anzala
+14	9:26:10	w	جُنُوداࣰ		جنودا	forces	junūdan
+14	9:26:11	w	لَّمْ		لم	which you did not see	lam
+14	9:26:12	w	تَرَوْهَا		تروها	which you did not see	tarawhā
+15	9:26:13	w	وَعَذَّبَ		وعذب	and He punished	waʿadhaba
+15	9:26:14	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+15	9:26:15	w	كَفَرُواْ࣌		كفروا	disbelieved	kafarū
+15	9:26:16	w	وَذَٰلِكَ		وذلك	And that	wadhālika
+15	9:26:17	w	جَزَآءُ		جزا	(is) the recompense	jazāu
+15	9:26:18	w	ࡲ۬لْكٜـٰفِرِينَ࣌		الكفرين	(of) the disbelievers	l-kāfirīna
+15	9:26:19	e	۝٢٦				

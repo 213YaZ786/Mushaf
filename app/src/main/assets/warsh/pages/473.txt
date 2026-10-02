@@ -1,0 +1,118 @@
+1	40:50:1	w	قَالُوٓاْ		قالوا	They (will) say	qālū
+1	40:50:2	w	أَوَلَمْ		اولم	Did there not	awalam
+1	40:50:3	w	تَكُ		تك	Did there not	taku
+1	40:50:4	w	تَاتِيكُمْ		تاتيكم	come to you	tatīkum
+1	40:50:5	w	رُسُلُكُم		رسلكم	your Messengers	rusulukum
+1	40:50:6	w	بِالْبَيِّنَٰتِ		بالبينت	with clear proofs	bil-bayināti
+1	40:50:7	w	قَالُواْ		قالوا	They (will) say	qālū
+1	40:50:8	w	بَلٜىٰ		بلي	Yes	balā
+2	40:50:9	w	قَالُواْ		قالوا	They (will) say	qālū
+2	40:50:10	w	فَادْعُواْ࣌		فادعوا	Then call	fa-id'ʿū
+2	40:50:11	w	وَمَا		وما	but not	wamā
+2	40:50:12	w	دُعَٰٓؤُاْ		دعوا	(is the) call	duʿāu
+2	40:50:13	w	ࡲ۬لْكٜـٰفِرِينَ		الكفرين	(of) the disbelievers	l-kāfirīna
+2	40:50:14	w	إِلَّا		الا	except	illā
+2	40:50:15	w	فِے		في	in	fī
+2	40:50:16	w	ضَلَٰلٍ࣌		ضلل	error	ḍalālin
+2	40:50:17	e	۝٥٠				
+3	40:51:1	w	ࡴنَّا		انا	Indeed We	innā
+3	40:51:2	w	لَنَنصُرُ		لننصر	We will surely help	lananṣuru
+3	40:51:3	w	رُسُلَنَا		رسلنا	Our Messengers	rusulanā
+3	40:51:4	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+3	40:51:5	w	ءَامَنُواْ		امنوا	believe	āmanū
+3	40:51:6	w	فِے		في	in	fī
+3	40:51:7	w	ࡴ۬لْحَيَوٰةِ		الحيوة	the life	l-ḥayati
+3	40:51:8	w	ࡴ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+4	40:51:9	w	وَيَوْمَ		ويوم	and (on the) Day	wayawma
+4	40:51:10	w	يَقُومُ		يقوم	(when) will stand	yaqūmu
+4	40:51:11	w	ࡲ۬لَاشْهَٰدُ		الاشهد	the witnesses	l-ashhādu
+4	40:51:12	e	۝٥١				
+4	40:52:1	w	يَوْمَ		يوم	(The) Day	yawma
+4	40:52:2	w	لَا		لا	not	lā
+4	40:52:3	w	يَنفَعُ		ينفع	will benefit	yanfaʿu
+4	40:52:4	w	ࡲ۬لظَّٰلِمِينَ		الظلمين	the wrongdoers	l-ẓālimīna
+4	40:52:5	w	مَعْذِرَتُهُمْ		معذرتهم	their excuse	maʿdhiratuhum
+5	40:52:6	w	وَلَهُمُ		ولهم	and for them	walahumu
+5	40:52:7	w	ࡲ۬للَّعْنَةُ		اللعنة	(is) the curse	l-laʿnatu
+5	40:52:8	w	وَلَهُمْ		ولهم	and for them	walahum
+5	40:52:9	w	سُوٓءُ		سو	(is the) worst	sūu
+5	40:52:10	w	ࡲ۬لدّٜارِ࣌		الدار	home	l-dāri
+5	40:52:11	e	۝٥٢				
+5	40:53:1	w	۞ وَلَقَدَ		ولقد	And certainly	walaqad
+5	40:53:2	w	اٰتَيْنَا		اتينا	We gave	ātaynā
+5	40:53:3	w	مُوسَى		موسي	Musa	mūsā
+6	40:53:4	w	ࡰ۬لْهُدٜىٰ		الهدي	the guidance	l-hudā
+6	40:53:5	w	وَأَوْرَثْنَا		واورثنا	and We caused to inherit	wa-awrathnā
+6	40:53:6	w	بَنِےٓ		بني	(the) Children of Israel	banī
+6	40:53:7	w	إِسْرَآءِيلَ		اسرايل	(the) Children of Israel	is'rāīla
+6	40:53:8	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+6	40:53:9	w	هُدىࣰ		هدي	A guide	hudan
+7	40:53:10	w	وَذِكْرٜىٰ		وذكري	and a reminder	wadhik'rā
+7	40:53:11	w	لِأُوْلِے		لاولي	for those	li-ulī
+7	40:53:12	w	ࡴ۬لَالْبَٰبِ࣌		الالبب	(of) understanding	l-albābi
+7	40:53:13	e	۝٥٣				
+7	40:54:1	w	فَاصْبِرِ		فاصبر	So be patient	fa-iṣ'bir
+7	40:54:2	w	ࡴنَّ		ان	indeed	inna
+7	40:54:3	w	وَعْدَ		وعد	(the) Promise of Allah	waʿda
+7	40:54:4	w	ࡰ۬للَّهِ		الله	(the) Promise of Allah	l-lahi
+8	40:54:5	w	حَقࣱّ࣌		حق	(is) true	ḥaqqun
+8	40:54:6	w	وَاسْتَغْفِرْ		واستغفر	And ask forgiveness	wa-is'taghfir
+8	40:54:7	w	لِذَنۢبِكَ		لذنبك	for your sin	lidhanbika
+8	40:54:8	w	وَسَبِّحْ		وسبح	and glorify	wasabbiḥ
+8	40:54:9	w	بِحَمْدِ		بحمد	(the) praise	biḥamdi
+8	40:54:10	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+8	40:54:11	w	بِالْعَشِيِّ		بالعشي	in the evening	bil-ʿashiyi
+9	40:54:12	w	وَالِابْكٜـٰرِ࣌		والابكر	and the morning	wal-ib'kāri
+9	40:54:13	e	۝٥٤				
+9	40:55:1	w	إِنَّ		ان	Indeed	inna
+9	40:55:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+9	40:55:3	w	يُجَٰدِلُونَ		يجدلون	dispute	yujādilūna
+9	40:55:4	w	فِےٓ		في	concerning	fī
+9	40:55:5	w	ءَايَٰتِ		ايت	(the) Signs	āyāti
+9	40:55:6	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+10	40:55:7	w	بِغَيْرِ		بغير	without	bighayri
+10	40:55:8	w	سُلْطَٰنٍ		سلطن	any authority	sul'ṭānin
+10	40:55:9	w	ࡰتٜيٰهُمُۥٓ		اتيهم	(which) came to them	atāhum
+10	40:55:10	w	إِن		ان	not	in
+10	40:55:11	w	فِے		في	(is) in	fī
+10	40:55:12	w	صُدُورِهِمُۥٓ		صدورهم	their breasts	ṣudūrihim
+10	40:55:13	w	إِلَّا		الا	but	illā
+10	40:55:14	w	كِبْرࣱ		كبر	greatness	kib'run
+11	40:55:15	w	مَّا		ما	not	mā
+11	40:55:16	w	هُم		هم	they	hum
+11	40:55:17	w	بِبَٰلِغِيهِ࣌		ببلغيه	(can) reach it	bibālighīhi
+11	40:55:18	w	فَاسْتَعِذْ		فاستعذ	So seek refuge	fa-is'taʿidh
+11	40:55:19	w	بِاللَّهِ࣌		بالله	in Allah	bil-lahi
+11	40:55:20	w	إِنَّهُۥ		انه	Indeed He	innahu
+11	40:55:21	w	هُوَ		هو	He	huwa
+11	40:55:22	w	ࡰ۬لسَّمِيعُ		السميع	(is) the All-Hearer	l-samīʿu
+12	40:55:23	w	ࡲ۬لْبَصِيرُ࣌		البصير	the All-Seer	l-baṣīru
+12	40:55:24	e	۝٥٥				
+12	40:56:1	w	لَخَلْقُ		لخلق	Surely, (the) creation	lakhalqu
+12	40:56:2	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+12	40:56:3	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+12	40:56:4	w	أَكْبَرُ		اكبر	(is) greater	akbaru
+12	40:56:5	w	مِنْ		من	than	min
+13	40:56:6	w	خَلْقِ		خلق	(the) creation	khalqi
+13	40:56:7	w	ࡴ۬لنَّاسِ࣌		الناس	(of) the mankind	l-nāsi
+13	40:56:8	w	وَلَٰكِنَّ		ولكن	but	walākinna
+13	40:56:9	w	أَكْثَرَ		اكثر	most	akthara
+13	40:56:10	w	ࡰ۬لنَّاسِ		الناس	(of) the people	l-nāsi
+13	40:56:11	w	لَا		لا	(do) not	lā
+13	40:56:12	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+13	40:56:13	e	۝٥٦				
+14	40:57:1	w	وَمَا		وما	And not	wamā
+14	40:57:2	w	يَسْتَوِے		يستوي	(are) equal	yastawī
+14	40:57:3	w	ࡴ۬لَاعْمٜىٰ		الاعمي	the blind	l-aʿmā
+14	40:57:4	w	وَالْبَصِيرُ		والبصير	and the seeing	wal-baṣīru
+14	40:57:5	e	۝٥٧				
+14	40:58:1	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+14	40:58:2	w	ءَامَنُواْ		امنوا	believe	āmanū
+14	40:58:3	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+15	40:58:4	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+15	40:58:5	w	وَلَا		ولا	and not	walā
+15	40:58:6	w	ࡰ۬لْمُسِےٓءُ࣌		المسي	the evildoer	l-musīu
+15	40:58:7	w	قَلِيلاࣰ		قليلا	Little	qalīlan
+15	40:58:8	w	مَّا		ما	(is) what	mā
+15	40:58:9	w	يَتَذَكَّرُونَ࣌		يتذكرون	you take heed	tatadhakkarūna
+15	40:58:10	e	۝٥٨				

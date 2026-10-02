@@ -1,0 +1,118 @@
+1	39:72:1	w	وَتَرَى		وتري	And you will see	watarā
+1	39:72:2	w	ࡰ۬لْمَلَٰٓئِكَةَ		المليكة	the Angels	l-malāikata
+1	39:72:3	w	حَآفِّينَ		حافين	surrounding	ḥāffīna
+1	39:72:4	w	مِنْ		من	[from]	min
+1	39:72:5	w	حَوْلِ		حول	around	ḥawli
+1	39:72:6	w	ࡴ۬لْعَرْشِ		العرش	the Throne	l-ʿarshi
+1	39:72:7	w	يُسَبِّحُونَ		يسبحون	glorifying	yusabbiḥūna
+1	39:72:8	w	بِحَمْدِ		بحمد	(the) praise	biḥamdi
+2	39:72:9	w	رَبِّهِمْ࣌		ربهم	(of) their Lord	rabbihim
+2	39:72:10	w	وَقُضِيَ		وقضي	And (will) be judged	waquḍiya
+2	39:72:11	w	بَيْنَهُم		بينهم	between them	baynahum
+2	39:72:12	w	بِالْحَقِّ࣌		بالحق	in truth	bil-ḥaqi
+2	39:72:13	w	وَقِيلَ		وقيل	and it will be said	waqīla
+2	39:72:14	w	ࡰ۬لْحَمْدُ		الحمد	All praise be	l-ḥamdu
+2	39:72:15	w	لِلهِ		لله	to Allah	lillahi
+2	39:72:16	w	رَبِّ		رب	(the) Lord	rabbi
+2	39:72:17	w	ࡴ۬لْعَٰلَمِينَ࣌		العلمين	(of) the worlds	l-ʿālamīna
+2	39:72:18	e	۝٧٢				
+3	40:0:0	t					
+4	40:0:0	b					
+5	40:1:1	w	حٜمِٓ࣌		حم	Ha Meem	hha-meem
+5	40:1:2	w	تَنزِيلُ		تنزيل	(The) revelation	tanzīlu
+5	40:1:3	w	ࡲ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+5	40:1:4	w	مِنَ		من	(is) from	mina
+5	40:1:5	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+5	40:1:6	w	ࡴ۬لْعَزِيزِ		العزيز	the All-Mighty	l-ʿazīzi
+5	40:1:7	w	ࡴ۬لْعَلِيمِ		العليم	the All-Knower	l-ʿalīmi
+5	40:1:8	e	۝١				
+5	40:2:1	w	غَافِرِ		غافر	(The) Forgiver	ghāfiri
+5	40:2:2	w	ࡴ۬لذَّنۢبِ		الذنب	(of) the sin	l-dhanbi
+6	40:2:3	w	وَقَابِلِ		وقابل	and (the) Acceptor	waqābili
+6	40:2:4	w	ࡴ۬لتَّوْبِ		التوب	(of) [the] repentance	l-tawbi
+6	40:2:5	w	شَدِيدِ		شديد	severe	shadīdi
+6	40:2:6	w	ࡴ۬لْعِقَابِ		العقاب	(in) the punishment	l-ʿiqābi
+6	40:2:7	w	ذِے		ذي	Owner (of) the abundance	dhī
+6	40:2:8	w	ࡴ۬لطَّوْلِ࣌		الطول	Owner (of) the abundance	l-ṭawli
+6	40:2:9	w	لَآ		لا	(There is) no	lā
+6	40:2:10	w	إِلَٰهَ		اله	god	ilāha
+6	40:2:11	w	إِلَّا		الا	except	illā
+6	40:2:12	w	هُوَ࣌		هو	Him	huwa
+6	40:2:13	w	إِلَيْهِ		اليه	to Him	ilayhi
+7	40:2:14	w	ࡴ۬لْمَصِيرُ࣌		المصير	(is) the final return	l-maṣīru
+7	40:2:15	e	۝٢				
+7	40:3:1	w	مَا		ما	Not	mā
+7	40:3:2	w	يُجَٰدِلُ		يجدل	dispute	yujādilu
+7	40:3:3	w	فِےٓ		في	concerning	fī
+7	40:3:4	w	ءَايَٰتِ		ايت	(the) Verses	āyāti
+7	40:3:5	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+7	40:3:6	w	إِلَّا		الا	except	illā
+7	40:3:7	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	40:3:8	w	كَفَرُواْ࣌		كفروا	disbelieve	kafarū
+7	40:3:9	w	فَلَا		فلا	so (let) not	falā
+8	40:3:10	w	يَغْرُرْكَ		يغررك	deceive you	yaghrur'ka
+8	40:3:11	w	تَقَلُّبُهُمْ		تقلبهم	their movement	taqallubuhum
+8	40:3:12	w	فِے		في	in	fī
+8	40:3:13	w	ࡴ۬لْبِلَٰدِ࣌		البلد	the cities	l-bilādi
+8	40:3:14	e	۝٣				
+8	40:4:1	w	كَذَّبَتْ		كذبت	Denied	kadhabat
+8	40:4:2	w	قَبْلَهُمْ		قبلهم	before them	qablahum
+8	40:4:3	w	قَوْمُ		قوم	(the) people	qawmu
+8	40:4:4	w	نُوحࣲ		نوح	(of) Nuh	nūḥin
+9	40:4:5	w	وَالَاحْزَابُ		والاحزاب	and the factions	wal-aḥzābu
+9	40:4:6	w	مِنۢ		من	after them	min
+9	40:4:7	w	بَعْدِهِمْ࣌		بعدهم	after them	baʿdihim
+9	40:4:8	w	وَهَمَّتْ		وهمت	and plotted	wahammat
+9	40:4:9	w	كُلُّ		كل	every	kullu
+9	40:4:10	w	أُمَّةِۢ		امة	nation	ummatin
+9	40:4:11	w	بِرَسُولِهِمْ		برسولهم	against their Messenger	birasūlihim
+9	40:4:12	w	لِيَاخُذُوهُ࣌		لياخذوه	to seize him	liyakhudhūhu
+10	40:4:13	w	وَجَٰدَلُواْ		وجدلوا	and they disputed	wajādalū
+10	40:4:14	w	بِالْبَٰطِلِ		بالبطل	by falsehood	bil-bāṭili
+10	40:4:15	w	لِيُدْحِضُواْ		ليدحضوا	to refute	liyud'ḥiḍū
+10	40:4:16	w	بِهِ		به	thereby	bihi
+10	40:4:17	w	ࡴ۬لْحَقَّ		الحق	the truth	l-ḥaqa
+10	40:4:18	w	فَأَخَذتُّهُمْ࣌		فاخذتهم	So I seized them	fa-akhadhtuhum
+10	40:4:19	w	فَكَيْفَ		فكيف	Then how	fakayfa
+11	40:4:20	w	كَانَ		كان	was	kāna
+11	40:4:21	w	عِقَابِ࣌		عقاب	My penalty	ʿiqābi
+11	40:4:22	e	۝٤				
+11	40:5:1	w	وَكَذَٰلِكَ		وكذلك	And thus	wakadhālika
+11	40:5:2	w	حَقَّتْ		حقت	has been justified	ḥaqqat
+11	40:5:3	w	كَلِمَٰتُ		كلمت	(the) Word	kalimatu
+11	40:5:4	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+11	40:5:5	w	عَلَى		علي	against	ʿalā
+11	40:5:6	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	40:5:7	w	كَفَرُوٓاْ		كفروا	disbelieved	kafarū
+12	40:5:8	w	أَنَّهُمُۥٓ		انهم	that they	annahum
+12	40:5:9	w	أَصْحَٰبُ		اصحب	(are) companions	aṣḥābu
+12	40:5:10	w	ࡲ۬لنّٜارِ࣌		النار	(of) the Fire	l-nāri
+12	40:5:11	e	۝٥				
+12	40:6:1	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+12	40:6:2	w	يَحْمِلُونَ		يحملون	bear	yaḥmilūna
+12	40:6:3	w	ࡰ۬لْعَرْشَ		العرش	the Throne	l-ʿarsha
+13	40:6:4	w	وَمَنْ		ومن	and who	waman
+13	40:6:5	w	حَوْلَهُۥ		حوله	(are) around it	ḥawlahu
+13	40:6:6	w	يُسَبِّحُونَ		يسبحون	glorify	yusabbiḥūna
+13	40:6:7	w	بِحَمْدِ		بحمد	(the) praises	biḥamdi
+13	40:6:8	w	رَبِّهِمْ		ربهم	(of) their Lord	rabbihim
+13	40:6:9	w	وَيُومِنُونَ		ويومنون	and believe	wayu'minūna
+13	40:6:10	w	بِهِۦ		بهي	in Him	bihi
+13	40:6:11	w	وَيَسْتَغْفِرُونَ		ويستغفرون	and ask forgiveness	wayastaghfirūna
+14	40:6:12	w	لِلذِينَ		للذين	for those who	lilladhīna
+14	40:6:13	w	ءَامَنُواْ࣌		امنوا	believe	āmanū
+14	40:6:14	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+14	40:6:15	w	وَسِعْتَ		وسعت	You encompass	wasiʿ'ta
+14	40:6:16	w	كُلَّ		كل	all	kulla
+14	40:6:17	w	شَےْءࣲ		شي	things	shayin
+14	40:6:18	w	رَّحْمَةࣰ		رحمة	(by Your) Mercy	raḥmatan
+14	40:6:19	w	وَعِلْماࣰ		وعلما	and knowledge	waʿil'man
+14	40:6:20	w	فَاغْفِرْ		فاغفر	so forgive	fa-igh'fir
+15	40:6:21	w	لِلذِينَ		للذين	those who	lilladhīna
+15	40:6:22	w	تَابُواْ		تابوا	repent	tābū
+15	40:6:23	w	وَاتَّبَعُواْ		واتبعوا	and follow	wa-ittabaʿū
+15	40:6:24	w	سَبِيلَكَ		سبيلك	Your Way	sabīlaka
+15	40:6:25	w	وَقِهِمْ		وقهم	and save them (from)	waqihim
+15	40:6:26	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+15	40:6:27	w	ࡰ۬لْجَحِيمِ࣌		الجحيم	(of) the Hellfire	l-jaḥīmi
+15	40:6:28	e	۝٦				

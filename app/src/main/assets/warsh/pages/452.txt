@@ -1,0 +1,150 @@
+1	37:154:1	w	مَا		ما	What is with you	mā
+1	37:154:2	w	لَكُمْ࣌		لكم	What is with you	lakum
+1	37:154:3	w	كَيْفَ		كيف	How	kayfa
+1	37:154:4	w	تَحْكُمُونَ࣌		تحكمون	you judge	taḥkumūna
+1	37:154:5	e	۝١٥٤				
+1	37:155:1	w	أَفَلَا		افلا	Then will not	afalā
+1	37:155:2	w	تَذَّكَّرُونَ࣌		تذكرون	you pay heed	tadhakkarūna
+1	37:155:3	e	۝١٥٥				
+1	37:156:1	w	أَمْ		ام	Or	am
+1	37:156:2	w	لَكُمْ		لكم	(is) for you	lakum
+1	37:156:3	w	سُلْطَٰنࣱ		سلطن	an authority	sul'ṭānun
+2	37:156:4	w	مُّبِينࣱ		مبين	clear	mubīnun
+2	37:156:5	e	۝١٥٦				
+2	37:157:1	w	فَاتُواْ		فاتوا	Then bring	fatū
+2	37:157:2	w	بِكِتَٰبِكُمُۥٓ		بكتبكم	your book	bikitābikum
+2	37:157:3	w	إِن		ان	if	in
+2	37:157:4	w	كُنتُمْ		كنتم	you are	kuntum
+2	37:157:5	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+2	37:157:6	e	۝١٥٧				
+2	37:158:1	w	وَجَعَلُواْ		وجعلوا	And they have made	wajaʿalū
+3	37:158:2	w	بَيْنَهُۥ		بينه	between Him	baynahu
+3	37:158:3	w	وَبَيْنَ		وبين	and between	wabayna
+3	37:158:4	w	ࡰ۬لْجِنَّةِ		الجنة	the jinn	l-jinati
+3	37:158:5	w	نَسَباࣰ࣌		نسبا	a relationship	nasaban
+3	37:158:6	w	وَلَقَدْ		ولقد	but certainly	walaqad
+3	37:158:7	w	عَلِمَتِ		علمت	know	ʿalimati
+3	37:158:8	w	ࡴ۬لْجِنَّةُ		الجنة	the jinn	l-jinatu
+3	37:158:9	w	إِنَّهُمْ		انهم	that they	innahum
+3	37:158:10	w	لَمُحْضَرُونَ࣌		لمحضرون	(will) surely be brought	lamuḥ'ḍarūna
+3	37:158:11	e	۝١٥٨				
+4	37:159:1	w	سُبْحَٰنَ		سبحن	Glory be	sub'ḥāna
+4	37:159:2	w	ࡰ۬للَّهِ		الله	(to) Allah	l-lahi
+4	37:159:3	w	عَمَّا		عما	above what	ʿammā
+4	37:159:4	w	يَصِفُونَ࣌		يصفون	they attribute	yaṣifūna
+4	37:159:5	e	۝١٥٩				
+4	37:160:1	w	إِلَّا		الا	Except	illā
+4	37:160:2	w	عِبَادَ		عباد	(the) slaves	ʿibāda
+4	37:160:3	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+4	37:160:4	w	ࡴ۬لْمُخْلَصِينَ࣌		المخلصين	the chosen	l-mukh'laṣīna
+4	37:160:5	e	۝١٦٠				
+5	37:161:1	w	فَإِنَّكُمْ		فانكم	So indeed, you	fa-innakum
+5	37:161:2	w	وَمَا		وما	and what	wamā
+5	37:161:3	w	تَعْبُدُونَ		تعبدون	you worship	taʿbudūna
+5	37:161:4	e	۝١٦١				
+5	37:162:1	w	مَآ		ما	Not	mā
+5	37:162:2	w	أَنتُمْ		انتم	you	antum
+5	37:162:3	w	عَلَيْهِ		عليه	from Him	ʿalayhi
+5	37:162:4	w	بِفَٰتِنِينَ		بفتنين	can tempt away (anyone)	bifātinīna
+5	37:162:5	e	۝١٦٢				
+5	37:163:1	w	إِلَّا		الا	Except	illā
+5	37:163:2	w	مَنْ		من	who	man
+6	37:163:3	w	هُوَ		هو	he	huwa
+6	37:163:4	w	صَالِ		صال	(is) to burn	ṣāli
+6	37:163:5	w	ࡴ۬لْجَحِيمِ࣌		الجحيم	(in) the Hellfire	l-jaḥīmi
+6	37:163:6	e	۝١٦٣				
+6	37:164:1	w	وَمَا		وما	And not	wamā
+6	37:164:2	w	مِنَّآ		منا	among us	minnā
+6	37:164:3	w	إِلَّا		الا	except	illā
+6	37:164:4	w	لَهُۥ		له	for him	lahu
+6	37:164:5	w	مَقَامࣱ		مقام	(is) a position	maqāmun
+6	37:164:6	w	مَّعْلُومࣱ࣌		معلوم	known	maʿlūmun
+6	37:164:7	e	۝١٦٤				
+6	37:165:1	w	وَإِنَّا		وانا	And indeed, we	wa-innā
+7	37:165:2	w	لَنَحْنُ		لنحن	surely, [we]	lanaḥnu
+7	37:165:3	w	ࡲ۬لصَّآفُّونَ		الصافون	stand in rows	l-ṣāfūna
+7	37:165:4	e	۝١٦٥				
+7	37:166:1	w	وَإِنَّا		وانا	And indeed, we	wa-innā
+7	37:166:2	w	لَنَحْنُ		لنحن	surely, [we]	lanaḥnu
+7	37:166:3	w	ࡲ۬لْمُسَبِّحُونَ࣌		المسبحون	glorify (Allah)	l-musabiḥūna
+7	37:166:4	e	۝١٦٦				
+7	37:167:1	w	وَإِن		وان	And indeed	wa-in
+7	37:167:2	w	كَانُواْ		كانوا	they used to	kānū
+8	37:167:3	w	لَيَقُولُونَ		ليقولون	say	layaqūlūna
+8	37:167:4	e	۝١٦٧				
+8	37:168:1	w	لَوَ		لو	If	law
+8	37:168:2	w	ࡰنَّ		ان	that	anna
+8	37:168:3	w	عِندَنَا		عندنا	we had	ʿindanā
+8	37:168:4	w	ذِكْراࣰ		ذكرا	a reminder	dhik'ran
+8	37:168:5	w	مِّنَ		من	from	mina
+8	37:168:6	w	ࡰ۬لَاوَّلِينَ		الاولين	the former (people)	l-awalīna
+8	37:168:7	e	۝١٦٨				
+8	37:169:1	w	لَكُنَّا		لكنا	Certainly, we (would) have been	lakunnā
+8	37:169:2	w	عِبَادَ		عباد	slaves	ʿibāda
+8	37:169:3	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+9	37:169:4	w	ࡴ۬لْمُخْلَصِينَ࣌		المخلصين	the chosen	l-mukh'laṣīna
+9	37:169:5	e	۝١٦٩				
+9	37:170:1	w	فَكَفَرُواْ		فكفروا	But they disbelieved	fakafarū
+9	37:170:2	w	بِهِۦ࣌		بهي	in it	bihi
+9	37:170:3	w	فَسَوْفَ		فسوف	so soon	fasawfa
+9	37:170:4	w	يَعْلَمُونَ࣌		يعلمون	they will know	yaʿlamūna
+9	37:170:5	e	۝١٧٠				
+9	37:171:1	w	وَلَقَدْ		ولقد	And verily	walaqad
+9	37:171:2	w	سَبَقَتْ		سبقت	has preceded	sabaqat
+10	37:171:3	w	كَلِمَتُنَا		كلمتنا	Our Word	kalimatunā
+10	37:171:4	w	لِعِبَادِنَا		لعبادنا	for Our slaves	liʿibādinā
+10	37:171:5	w	ࡰ۬لْمُرْسَلِينَ		المرسلين	the Messengers	l-mur'salīna
+10	37:171:6	e	۝١٧١				
+10	37:172:1	w	إِنَّهُمْ		انهم	Indeed they	innahum
+10	37:172:2	w	لَهُمُ		لهم	surely they	lahumu
+10	37:172:3	w	ࡲ۬لْمَنصُورُونَ		المنصورون	(would be) the victorious	l-manṣūrūna
+10	37:172:4	e	۝١٧٢				
+10	37:173:1	w	وَإِنَّ		وان	And indeed	wa-inna
+11	37:173:2	w	جُندَنَا		جندنا	Our host	jundanā
+11	37:173:3	w	لَهُمُ		لهم	surely, they	lahumu
+11	37:173:4	w	ࡲ۬لْغَٰلِبُونَ࣌		الغلبون	(will be) those who overcome	l-ghālibūna
+11	37:173:5	e	۝١٧٣				
+11	37:174:1	w	فَتَوَلَّ		فتول	So turn away	fatawalla
+11	37:174:2	w	عَنْهُمْ		عنهم	from them	ʿanhum
+11	37:174:3	w	حَتَّىٰ		حتي	until	ḥattā
+11	37:174:4	w	حِينࣲ࣌		حين	a time	ḥīnin
+11	37:174:5	e	۝١٧٤				
+11	37:175:1	w	وَأَبْصِرْهُمْ		وابصرهم	And see them	wa-abṣir'hum
+11	37:175:2	w	فَسَوْفَ		فسوف	so soon	fasawfa
+12	37:175:3	w	يُبْصِرُونَ࣌		يبصرون	they will see	yub'ṣirūna
+12	37:175:4	e	۝١٧٥				
+12	37:176:1	w	أَفَبِعَذَابِنَا		افبعذابنا	Then is (it) for Our punishment	afabiʿadhābinā
+12	37:176:2	w	يَسْتَعْجِلُونَ࣌		يستعجلون	they hasten	yastaʿjilūna
+12	37:176:3	e	۝١٧٦				
+12	37:177:1	w	فَإِذَا		فاذا	But when	fa-idhā
+12	37:177:2	w	نَزَلَ		نزل	it descends	nazala
+12	37:177:3	w	بِسَاحَتِهِمْ		بساحتهم	in their territory	bisāḥatihim
+12	37:177:4	w	فَسَآءَ		فسا	then evil (will be)	fasāa
+13	37:177:5	w	صَبَاحُ		صباح	(the) morning	ṣabāḥu
+13	37:177:6	w	ࡲ۬لْمُنذَرِينَ࣌		المنذرين	(for) those who were warned	l-mundharīna
+13	37:177:7	e	۝١٧٧				
+13	37:178:1	w	وَتَوَلَّ		وتول	So turn away	watawalla
+13	37:178:2	w	عَنْهُمْ		عنهم	from them	ʿanhum
+13	37:178:3	w	حَتَّىٰ		حتي	for	ḥattā
+13	37:178:4	w	حِينࣲ࣌		حين	a time	ḥīnin
+13	37:178:5	e	۝١٧٨				
+13	37:179:1	w	وَأَبْصِرْ		وابصر	And see	wa-abṣir
+13	37:179:2	w	فَسَوْفَ		فسوف	so soon	fasawfa
+14	37:179:3	w	يُبْصِرُونَ࣌		يبصرون	they will see	yub'ṣirūna
+14	37:179:4	e	۝١٧٩				
+14	37:180:1	w	سُبْحَٰنَ		سبحن	Glory	sub'ḥāna
+14	37:180:2	w	رَبِّكَ		ربك	(be to) your Lord	rabbika
+14	37:180:3	w	رَبِّ		رب	(the) Lord	rabbi
+14	37:180:4	w	ࡴ۬لْعِزَّةِ		العزة	(of) Honor	l-ʿizati
+14	37:180:5	w	عَمَّا		عما	above what	ʿammā
+14	37:180:6	w	يَصِفُونَ࣌		يصفون	they attribute	yaṣifūna
+14	37:180:7	e	۝١٨٠				
+15	37:181:1	w	وَسَلَٰمٌ		وسلم	And peace be	wasalāmun
+15	37:181:2	w	عَلَى		علي	upon	ʿalā
+15	37:181:3	w	ࡰ۬لْمُرْسَلِينَ࣌		المرسلين	the Messengers	l-mur'salīna
+15	37:181:4	e	۝١٨١				
+15	37:182:1	w	وَالْحَمْدُ		والحمد	And all praise	wal-ḥamdu
+15	37:182:2	w	لِلهِ		لله	(be) to Allah	lillahi
+15	37:182:3	w	رَبِّ		رب	(the) Lord	rabbi
+15	37:182:4	w	ࡴ۬لْعَٰلَمِينَ࣌		العلمين	(of) the worlds	l-ʿālamīna
+15	37:182:5	e	۝١٨٢				

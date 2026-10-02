@@ -1,0 +1,120 @@
+1	29:31:1	w	وَلَمَّا		ولما	And when	walammā
+1	29:31:2	w	جَآءَتْ		جات	came	jāat
+1	29:31:3	w	رُسُلُنَآ		رسلنا	Our messengers	rusulunā
+1	29:31:4	w	إِبْرَٰهِيمَ		ابرهيم	(to) Ibrahim	ib'rāhīma
+1	29:31:5	w	بِالْبُشْرٜىٰ		بالبشري	with the glad tidings	bil-bush'rā
+1	29:31:6	w	قَالُوٓاْ		قالوا	they said	qālū
+1	29:31:7	w	إِنَّا		انا	Indeed, we	innā
+1	29:31:8	w	مُهْلِكُوٓاْ		مهلكوا	(are) going to destroy	muh'likū
+2	29:31:9	w	أَهْلِ		اهل	(the) people	ahli
+2	29:31:10	w	هَٰذِهِ		هذه	(of) this	hādhihi
+2	29:31:11	w	ࡴ۬لْقَرْيَةِ		القرية	town	l-qaryati
+2	29:31:12	w	إِنَّ		ان	Indeed	inna
+2	29:31:13	w	أَهْلَهَا		اهلها	its people	ahlahā
+2	29:31:14	w	كَانُواْ		كانوا	are	kānū
+2	29:31:15	w	ظَٰلِمِينَ࣌		ظلمين	wrongdoers	ẓālimīna
+2	29:31:16	e	۝٣١				
+3	29:32:1	w	قَالَ		قال	He said	qāla
+3	29:32:2	w	إِنَّ		ان	Indeed	inna
+3	29:32:3	w	فِيهَا		فيها	in it	fīhā
+3	29:32:4	w	لُوطاࣰ࣌		لوطا	(is) Lut	lūṭan
+3	29:32:5	w	قَالُواْ		قالوا	They said	qālū
+3	29:32:6	w	نَحْنُ		نحن	We	naḥnu
+3	29:32:7	w	أَعْلَمُ		اعلم	know better	aʿlamu
+3	29:32:8	w	بِمَن		بمن	who	biman
+3	29:32:9	w	فِيهَا࣌		فيها	(is) in it	fīhā
+3	29:32:10	w	لَنُنَجِّيَنَّهُۥ		لننجينه	We will surely save him	lanunajjiyannahu
+4	29:32:11	w	وَأَهْلَهُۥٓ		واهله	and his family	wa-ahlahu
+4	29:32:12	w	إِلَّا		الا	except	illā
+4	29:32:13	w	ࡰٜمْرَأَتَهُۥ		امراته	his wife	im'ra-atahu
+4	29:32:14	w	كَانَتْ		كانت	She	kānat
+4	29:32:15	w	مِنَ		من	(is) of	mina
+4	29:32:16	w	ࡰ۬لْغَٰبِرِينَ࣌		الغبرين	those who remain behind	l-ghābirīna
+4	29:32:17	e	۝٣٢				
+4	29:33:1	w	وَلَمَّآ		ولما	And when	walammā
+5	29:33:2	w	أَن		ان	[that]	an
+5	29:33:3	w	جَآءَتْ		جات	came	jāat
+5	29:33:4	w	رُسُلُنَا		رسلنا	Our messengers	rusulunā
+5	29:33:5	w	لُوطاࣰ		لوطا	(to) Lut	lūṭan
+5	29:33:6	w	س۬ےٓءَ		سي	he was distressed	sīa
+5	29:33:7	w	بِهِمْ		بهم	for them	bihim
+5	29:33:8	w	وَضَاقَ		وضاق	and felt straitened	waḍāqa
+5	29:33:9	w	بِهِمْ		بهم	for them	bihim
+5	29:33:10	w	ذَرْعاࣰ࣌		ذرعا	(and) uneasy	dharʿan
+6	29:33:11	w	وَقَالُواْ		وقالوا	And they said	waqālū
+6	29:33:12	w	لَا		لا	(Do) not	lā
+6	29:33:13	w	تَخَفْ		تخف	fear	takhaf
+6	29:33:14	w	وَلَا		ولا	and (do) not	walā
+6	29:33:15	w	تَحْزَنِ		تحزن	grieve	taḥzan
+6	29:33:16	w	ࡴنَّا		انا	Indeed, we	innā
+6	29:33:17	w	مُنَجُّوكَ		منجوك	(will) save you	munajjūka
+6	29:33:18	w	وَأَهْلَكَ		واهلك	and your family	wa-ahlaka
+6	29:33:19	w	إِلَّا		الا	except	illā
+7	29:33:20	w	ࡰٜمْرَأَتَكَ		امراتك	your wife	im'ra-ataka
+7	29:33:21	w	كَانَتْ		كانت	She	kānat
+7	29:33:22	w	مِنَ		من	(is) of	mina
+7	29:33:23	w	ࡰ۬لْغَٰبِرِينَ࣌		الغبرين	those who remain behind	l-ghābirīna
+7	29:33:24	e	۝٣٣				
+7	29:34:1	w	إِنَّا		انا	Indeed, we	innā
+7	29:34:2	w	مُنزِلُونَ		منزلون	(will) bring down	munzilūna
+7	29:34:3	w	عَلَىٰٓ		علي	on	ʿalā
+7	29:34:4	w	أَهْلِ		اهل	(the) people	ahli
+8	29:34:5	w	هَٰذِهِ		هذه	(of) this	hādhihi
+8	29:34:6	w	ࡴ۬لْقَرْيَةِ		القرية	town	l-qaryati
+8	29:34:7	w	رِجْزاࣰ		رجزا	a punishment	rij'zan
+8	29:34:8	w	مِّنَ		من	from	mina
+8	29:34:9	w	ࡰ۬لسَّمَآءِ		السما	(the) sky	l-samāi
+8	29:34:10	w	بِمَا		بما	because	bimā
+8	29:34:11	w	كَانُواْ		كانوا	they have been	kānū
+8	29:34:12	w	يَفْسُقُونَ࣌		يفسقون	defiantly disobedient	yafsuqūna
+8	29:34:13	e	۝٣٤				
+9	29:35:1	w	وَلَقَد		ولقد	And verily	walaqad
+9	29:35:2	w	تَّرَكْنَا		تركنا	We have left	taraknā
+9	29:35:3	w	مِنْهَآ		منها	about it	min'hā
+9	29:35:4	w	ءَايَةَۢ		اية	a sign	āyatan
+9	29:35:5	w	بَيِّنَةࣰ		بينة	(as) evidence	bayyinatan
+9	29:35:6	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+9	29:35:7	w	يَعْقِلُونَ࣌		يعقلون	who use reason	yaʿqilūna
+9	29:35:8	e	۝٣٥				
+10	29:36:1	w	۞ وَإِلَىٰ		والي	And to	wa-ilā
+10	29:36:2	w	مَدْيَنَ		مدين	Madyan	madyana
+10	29:36:3	w	أَخَاهُمْ		اخاهم	their brother	akhāhum
+10	29:36:4	w	شُعَيْباࣰ		شعيبا	Shuaib	shuʿayban
+10	29:36:5	w	فَقَالَ		فقال	And he said	faqāla
+10	29:36:6	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+10	29:36:7	w	ࡴ࢈عْبُدُواْ		اعبدوا	Worship	uʿ'budū
+10	29:36:8	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+11	29:36:9	w	وَارْجُواْ		وارجوا	and expect	wa-ir'jū
+11	29:36:10	w	ࡲ۬لْيَوْمَ		اليوم	the Day	l-yawma
+11	29:36:11	w	ࡰ۬لَاخِرَ		الاخر	the Last	l-ākhira
+11	29:36:12	w	وَلَا		ولا	and (do) not	walā
+11	29:36:13	w	تَعْثَوْاْ		تعثوا	commit evil	taʿthaw
+11	29:36:14	w	فِے		في	in	fī
+11	29:36:15	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+11	29:36:16	w	مُفْسِدِينَ࣌		مفسدين	(as) corrupters	muf'sidīna
+11	29:36:17	e	۝٣٦				
+12	29:37:1	w	فَكَذَّبُوهُ		فكذبوه	But they denied him	fakadhabūhu
+12	29:37:2	w	فَأَخَذَتْهُمُ		فاخذتهم	so seized them	fa-akhadhathumu
+12	29:37:3	w	ࡲ۬لرَّجْفَةُ		الرجفة	the earthquake	l-rajfatu
+12	29:37:4	w	فَأَصْبَحُواْ		فاصبحوا	and they became	fa-aṣbaḥū
+12	29:37:5	w	فِے		في	in	fī
+12	29:37:6	w	دٜارِهِمْ		دارهم	their home	dārihim
+13	29:37:7	w	جَٰثِمِينَ࣌		جثمين	fallen prone	jāthimīna
+13	29:37:8	e	۝٣٧				
+13	29:38:1	w	وَعَاداࣰ		وعادا	And Aad	waʿādan
+13	29:38:2	w	وَثَمُوداࣰ		وثمودا	and Thamud	wathamūdā
+13	29:38:3	w	وَقَد		وقد	and verily	waqad
+13	29:38:4	w	تَّبَيَّنَ		تبين	(has) become clear	tabayyana
+13	29:38:5	w	لَكُم		لكم	to you	lakum
+14	29:38:6	w	مِّن		من	from	min
+14	29:38:7	w	مَّسَٰكِنِهِمْ		مسكنهم	their dwellings	masākinihim
+14	29:38:8	w	وَزَيَّنَ		وزين	And made fair-seeming	wazayyana
+14	29:38:9	w	لَهُمُ		لهم	to them	lahumu
+14	29:38:10	w	ࡲ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan	l-shayṭānu
+14	29:38:11	w	أَعْمَٰلَهُمْ		اعملهم	their deeds	aʿmālahum
+15	29:38:12	w	فَصَدَّهُمْ		فصدهم	and averted them	faṣaddahum
+15	29:38:13	w	عَنِ		عن	from	ʿani
+15	29:38:14	w	ࡴ۬لسَّبِيلِ		السبيل	the Way	l-sabīli
+15	29:38:15	w	وَكَانُواْ		وكانوا	though they were	wakānū
+15	29:38:16	w	مُسْتَبْصِرِينَ࣌		مستبصرين	endowed with insight	mus'tabṣirīna
+15	29:38:17	e	۝٣٨				

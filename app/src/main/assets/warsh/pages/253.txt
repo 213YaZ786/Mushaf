@@ -1,0 +1,159 @@
+1	13:30:1	w	ࡲ۬لذِينَ		الذين	Those who	alladhīna
+1	13:30:2	w	ءَامَنُواْ		امنوا	believed	āmanū
+1	13:30:3	w	وَعَمِلُواْ		وعملوا	and did	waʿamilū
+1	13:30:4	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+1	13:30:5	w	طُوبٜىٰ		طوبي	blessedness	ṭūbā
+1	13:30:6	w	لَهُمْ		لهم	(is) for them	lahum
+1	13:30:7	w	وَحُسْنُ		وحسن	and a beautiful	waḥus'nu
+1	13:30:8	w	مَـَٔابࣲ࣌		ماب	place of return	maābin
+1	13:30:9	e	۝٣٠				
+2	13:31:1	w	۞ كَذَٰلِكَ		كذلك	Thus	kadhālika
+2	13:31:2	w	أَرْسَلْنَٰكَ		ارسلنك	We have sent you	arsalnāka
+2	13:31:3	w	فِےٓ		في	to	fī
+2	13:31:4	w	أُمَّةࣲ		امة	a nation	ummatin
+2	13:31:5	w	قَدْ		قد	verily	qad
+2	13:31:6	w	خَلَتْ		خلت	have passed away	khalat
+2	13:31:7	w	مِن		من	from	min
+2	13:31:8	w	قَبْلِهَآ		قبلها	before it	qablihā
+2	13:31:9	w	أُمَمࣱ		امم	nations	umamun
+2	13:31:10	w	لِّتَتْلُوَاْ		لتتلوا	so that you might recite	litatluwā
+3	13:31:11	w	عَلَيْهِمُ		عليهم	to them	ʿalayhimu
+3	13:31:12	w	ࡲ۬لذِےٓ		الذي	what	alladhī
+3	13:31:13	w	أَوْحَيْنَآ		اوحينا	We revealed	awḥaynā
+3	13:31:14	w	إِلَيْكَ		اليك	to you	ilayka
+3	13:31:15	w	وَهُمْ		وهم	while they	wahum
+3	13:31:16	w	يَكْفُرُونَ		يكفرون	disbelieve	yakfurūna
+3	13:31:17	w	بِالرَّحْمَٰنِ࣌		بالرحمن	in the Most Gracious	bil-raḥmāni
+3	13:31:18	w	قُلْ		قل	Say	qul
+3	13:31:19	w	هُوَ		هو	He	huwa
+3	13:31:20	w	رَبِّے࣌		ربي	(is) my Lord	rabbī
+4	13:31:21	w	لَآ		لا	(there is) no	lā
+4	13:31:22	w	إِلَٰهَ		اله	god	ilāha
+4	13:31:23	w	إِلَّا		الا	except	illā
+4	13:31:24	w	هُوَ࣌		هو	Him	huwa
+4	13:31:25	w	عَلَيْهِ		عليه	Upon Him	ʿalayhi
+4	13:31:26	w	تَوَكَّلْتُ࣌		توكلت	I put my trust	tawakkaltu
+4	13:31:27	w	وَإِلَيْهِ		واليه	and to Him	wa-ilayhi
+4	13:31:28	w	مَتَابِ࣌		متاب	(is) my return	matābi
+4	13:31:29	e	۝٣١				
+4	13:32:1	w	وَلَوَ		ولو	And if	walaw
+4	13:32:2	w	ࡰنَّ		ان	that was	anna
+4	13:32:3	w	قُرْءَاناࣰ		قرانا	any Quran	qur'ānan
+5	13:32:4	w	سُيِّرَتْ		سيرت	could be moved	suyyirat
+5	13:32:5	w	بِهِ		به	by it	bihi
+5	13:32:6	w	ࡴ۬لْجِبَالُ		الجبال	the mountains	l-jibālu
+5	13:32:7	w	أَوْ		او	or	aw
+5	13:32:8	w	قُطِّعَتْ		قطعت	could be cloven asunder	quṭṭiʿat
+5	13:32:9	w	بِهِ		به	by it	bihi
+5	13:32:10	w	ࡴ۬لَارْضُ		الارض	the earth	l-arḍu
+5	13:32:11	w	أَوْ		او	or	aw
+5	13:32:12	w	كُلِّمَ		كلم	could be made to speak	kullima
+5	13:32:13	w	بِهِ		به	by it	bihi
+5	13:32:14	w	ࡴ۬لْمَوْتٜىٰ࣌		الموتي	the dead	l-mawtā
+6	13:32:15	w	بَل		بل	Nay	bal
+6	13:32:16	w	لِّلهِ		لله	with Allah	lillahi
+6	13:32:17	w	ࡴ۬لَامْرُ		الامر	(is) the command	l-amru
+6	13:32:18	w	جَمِيعاً࣌		جميعا	all	jamīʿan
+6	13:32:19	w	ࡰفَلَمْ		افلم	Then do not	afalam
+6	13:32:20	w	يَاْيْـَٔسِ		يايس	know	yāy'asi
+6	13:32:21	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+6	13:32:22	w	ءَامَنُوٓاْ		امنوا	believe	āmanū
+6	13:32:23	w	أَن		ان	that	an
+6	13:32:24	w	لَّوْ		لو	if	law
+6	13:32:25	w	يَشَآءُ		يشا	had willed	yashāu
+7	13:32:26	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+7	13:32:27	w	لَهَدَى		لهدي	surely, He would have guided	lahadā
+7	13:32:28	w	ࡰ۬لنَّاسَ		الناس	all	l-nāsa
+7	13:32:29	w	جَمِيعاࣰ࣌		جميعا	all of the mankind	jamīʿan
+7	13:32:30	w	وَلَا		ولا	And not	walā
+7	13:32:31	w	يَزَالُ		يزال	will cease	yazālu
+7	13:32:32	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+7	13:32:33	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+7	13:32:34	w	تُصِيبُهُم		تصيبهم	to strike them	tuṣībuhum
+8	13:32:35	w	بِمَا		بما	for what	bimā
+8	13:32:36	w	صَنَعُواْ		صنعوا	they did	ṣanaʿū
+8	13:32:37	w	قَارِعَةٌ		قارعة	a disaster	qāriʿatun
+8	13:32:38	w	ࡰوْ		او	or	aw
+8	13:32:39	w	تَحُلُّ		تحل	it settles	taḥullu
+8	13:32:40	w	قَرِيباࣰ		قريبا	close	qarīban
+8	13:32:41	w	مِّن		من	from	min
+8	13:32:42	w	دٜارِهِمْ		دارهم	their homes	dārihim
+8	13:32:43	w	حَتَّىٰ		حتي	until	ḥattā
+8	13:32:44	w	يَاتِيَ		ياتي	comes	yatiya
+8	13:32:45	w	وَعْدُ		وعد	(the) promise	waʿdu
+9	13:32:46	w	ࡲ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+9	13:32:47	w	إِنَّ		ان	Indeed	inna
+9	13:32:48	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+9	13:32:49	w	لَا		لا	(will) not	lā
+9	13:32:50	w	يُخْلِفُ		يخلف	fail	yukh'lifu
+9	13:32:51	w	ࡲ۬لْمِيعَادَ࣌		الميعاد	(in) the Promise	l-mīʿāda
+9	13:32:52	e	۝٣٢				
+9	13:33:1	w	وَلَقَدُ		ولقد	And certainly	walaqadi
+9	13:33:2	w	ࡲ࢈سْتُهْزِۓَ		استهزي	were mocked	us'tuh'zi-a
+9	13:33:3	w	بِرُسُلࣲ		برسل	Messengers	birusulin
+9	13:33:4	w	مِّن		من	from	min
+10	13:33:5	w	قَبْلِكَ		قبلك	before you	qablika
+10	13:33:6	w	فَأَمْلَيْتُ		فامليت	but I granted respite	fa-amlaytu
+10	13:33:7	w	لِلذِينَ		للذين	to those who	lilladhīna
+10	13:33:8	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+10	13:33:9	w	ثُمَّ		ثم	then	thumma
+10	13:33:10	w	أَخَذتُّهُمْ࣌		اخذتهم	I seized them	akhadhtuhum
+10	13:33:11	w	فَكَيْفَ		فكيف	and how	fakayfa
+10	13:33:12	w	كَانَ		كان	was	kāna
+11	13:33:13	w	عِقَابِ࣌		عقاب	My penalty	ʿiqābi
+11	13:33:14	e	۝٣٣				
+11	13:34:1	w	أَفَمَنْ		افمن	Is then He Who	afaman
+11	13:34:2	w	هُوَ		هو	(He)	huwa
+11	13:34:3	w	قَآئِمٌ		قايم	(is) a Maintainer	qāimun
+11	13:34:4	w	عَلَىٰ		علي	of	ʿalā
+11	13:34:5	w	كُلِّ		كل	every	kulli
+11	13:34:6	w	نَفْسِۢ		نفس	soul	nafsin
+11	13:34:7	w	بِمَا		بما	for what	bimā
+11	13:34:8	w	كَسَبَتْ࣌		كسبت	it has earned	kasabat
+11	13:34:9	w	وَجَعَلُواْ		وجعلوا	Yet they ascribe	wajaʿalū
+12	13:34:10	w	لِلهِ		لله	to Allah	lillahi
+12	13:34:11	w	شُرَكَآءَ		شركا	partners	shurakāa
+12	13:34:12	w	قُلْ		قل	Say	qul
+12	13:34:13	w	سَمُّوهُمُۥٓ࣌		سموهم	Name them	sammūhum
+12	13:34:14	w	أَمْ		ام	Or	am
+12	13:34:15	w	تُنَبِّـُٔونَهُۥ		تنبونه	(do) you inform Him	tunabbiūnahu
+12	13:34:16	w	بِمَا		بما	of what	bimā
+12	13:34:17	w	لَا		لا	not	lā
+12	13:34:18	w	يَعْلَمُ		يعلم	He knows	yaʿlamu
+12	13:34:19	w	فِے		في	in	fī
+12	13:34:20	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+12	13:34:21	w	أَم		ام	or	am
+13	13:34:22	w	بِظَٰهِرࣲ		بظهر	of the apparent	biẓāhirin
+13	13:34:23	w	مِّنَ		من	of	mina
+13	13:34:24	w	ࡰ۬لْقَوْلِ࣌		القول	the words	l-qawli
+13	13:34:25	w	بَلْ		بل	Nay	bal
+13	13:34:26	w	زُيِّنَ		زين	(is) made fair-seeming	zuyyina
+13	13:34:27	w	لِلذِينَ		للذين	to those who	lilladhīna
+13	13:34:28	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+13	13:34:29	w	مَكْرُهُمْ		مكرهم	their plotting	makruhum
+13	13:34:30	w	وَصَدُّواْ		وصدوا	and they are hindered	waṣuddū
+13	13:34:31	w	عَنِ		عن	from	ʿani
+14	13:34:32	w	ࡴ۬لسَّبِيلِ࣌		السبيل	the Path	l-sabīli
+14	13:34:33	w	وَمَنْ		ومن	And whoever	waman
+14	13:34:34	w	يُّضْلِلِ		يضلل	(by) Allah	yuḍ'lili
+14	13:34:35	w	ࡴ۬للَّهُ		الله	Allah lets go astray	l-lahu
+14	13:34:36	w	فَمَا		فما	then not	famā
+14	13:34:37	w	لَهُۥ		له	for him	lahu
+14	13:34:38	w	مِنْ		من	any	min
+14	13:34:39	w	هَادࣲ࣌		هاد	guide	hādin
+14	13:34:40	e	۝٣٤				
+14	13:35:1	w	لَّهُمْ		لهم	For them	lahum
+14	13:35:2	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+14	13:35:3	w	فِے		في	in	fī
+14	13:35:4	w	ࡴ۬لْحَيَوٰةِ		الحيوة	the life	l-ḥayati
+15	13:35:5	w	ࡴ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+15	13:35:6	w	وَلَعَذَابُ		ولعذاب	and surely the punishment	walaʿadhābu
+15	13:35:7	w	ࡲ۬لَاخِرَةِ		الاخرة	(of) the Hereafter	l-ākhirati
+15	13:35:8	w	أَشَقُّ࣌		اشق	(is) harder	ashaqqu
+15	13:35:9	w	وَمَا		وما	And not	wamā
+15	13:35:10	w	لَهُم		لهم	for them	lahum
+15	13:35:11	w	مِّنَ		من	against	mina
+15	13:35:12	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+15	13:35:13	w	مِنْ		من	any	min
+15	13:35:14	w	وَّاقࣲ࣌		واق	defender	wāqin
+15	13:35:15	e	۝٣٥				

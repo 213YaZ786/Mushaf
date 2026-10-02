@@ -1,0 +1,138 @@
+1	36:54:1	w	إِنَّ		ان	Indeed	inna
+1	36:54:2	w	أَصْحَٰبَ		اصحب	(the) companions	aṣḥāba
+1	36:54:3	w	ࡰ۬لْجَنَّةِ		الجنة	(of) Paradise	l-janati
+1	36:54:4	w	ࡴ۬لْيَوْمَ		اليوم	this Day	l-yawma
+1	36:54:5	w	فِے		في	[in]	fī
+1	36:54:6	w	شُغْلࣲ		شغل	will be occupied	shughulin
+1	36:54:7	w	فَٰكِهُونَ		فكهون	(in) amusement	fākihūna
+1	36:54:8	e	۝٥٤				
+1	36:55:1	w	هُمْ		هم	They	hum
+1	36:55:2	w	وَأَزْوَٰجُهُمْ		وازوجهم	and their spouses	wa-azwājuhum
+2	36:55:3	w	فِے		في	in	fī
+2	36:55:4	w	ظِلَٰلٍ		ظلل	shades	ẓilālin
+2	36:55:5	w	عَلَى		علي	on	ʿalā
+2	36:55:6	w	ࡰ۬لَارَآئِكِ		الارايك	[the] couches	l-arāiki
+2	36:55:7	w	مُتَّكِـُٔونَ࣌		متكون	reclining	muttakiūna
+2	36:55:8	e	۝٥٥				
+2	36:56:1	w	لَهُمْ		لهم	For them	lahum
+2	36:56:2	w	فِيهَا		فيها	therein	fīhā
+2	36:56:3	w	فَٰكِهَةࣱ࣌		فكهة	(are) fruits	fākihatun
+3	36:56:4	w	وَلَهُم		ولهم	and for them	walahum
+3	36:56:5	w	مَّا		ما	(is) whatever	mā
+3	36:56:6	w	يَدَّعُونَ		يدعون	they call for	yaddaʿūna
+3	36:56:7	e	۝٥٦				
+3	36:57:1	w	سَلَٰمࣱ࣌		سلم	Peace	salāmun
+3	36:57:2	w	قَوْلاࣰ		قولا	A word	qawlan
+3	36:57:3	w	مِّن		من	from	min
+3	36:57:4	w	رَّبࣲّ		رب	a Lord	rabbin
+3	36:57:5	w	رَّحِيمࣲ࣌		رحيم	Most Merciful	raḥīmin
+3	36:57:6	e	۝٥٧				
+3	36:58:1	w	وَامْتَٰزُواْ		وامتزوا	But stand apart	wa-im'tāzū
+4	36:58:2	w	ࡲ۬لْيَوْمَ		اليوم	today	l-yawma
+4	36:58:3	w	أَيُّهَا		ايها	O criminals	ayyuhā
+4	36:58:4	w	ࡰ۬لْمُجْرِمُونَ࣌		المجرمون	O criminals	l-muj'rimūna
+4	36:58:5	e	۝٥٨				
+4	36:59:1	w	۞ أَلَمَ		الم	Did not	alam
+4	36:59:2	w	ࡰعْهَدِ		اعهد	I enjoin	aʿhad
+4	36:59:3	w	ࡴلَيْكُمْ		اليكم	upon you	ilaykum
+4	36:59:4	w	يَٰبَنِےٓ		يبني	O Children of Adam	yābanī
+4	36:59:5	w	ءَادَمَ		ادم	O Children of Adam	ādama
+5	36:59:6	w	أَن		ان	That	an
+5	36:59:7	w	لَّا		لا	(do) not	lā
+5	36:59:8	w	تَعْبُدُواْ		تعبدوا	worship	taʿbudū
+5	36:59:9	w	ࡲ۬لشَّيْطَٰنَ		الشيطن	the Shaitaan	l-shayṭāna
+5	36:59:10	w	إِنَّهُۥ		انه	indeed, he	innahu
+5	36:59:11	w	لَكُمْ		لكم	(is) for you	lakum
+5	36:59:12	w	عَدُوࣱّ		عدو	an enemy	ʿaduwwun
+5	36:59:13	w	مُّبِينࣱ		مبين	clear	mubīnun
+5	36:59:14	e	۝٥٩				
+5	36:60:1	w	وَأَنُ		وان	And that	wa-ani
+6	36:60:2	w	ࡲ࢈عْبُدُونِے࣌		اعبدوني	you worship Me	uʿ'budūnī
+6	36:60:3	w	هَٰذَا		هذا	This	hādhā
+6	36:60:4	w	صِرَٰطࣱ		صرط	(is) a Path	ṣirāṭun
+6	36:60:5	w	مُّسْتَقِيمࣱ࣌		مستقيم	Straight	mus'taqīmun
+6	36:60:6	e	۝٦٠				
+6	36:61:1	w	وَلَقَدَ		ولقد	And indeed	walaqad
+6	36:61:2	w	ࡰضَلَّ		اضل	he led astray	aḍalla
+6	36:61:3	w	مِنكُمْ		منكم	from you	minkum
+7	36:61:4	w	جِبِلّاࣰ		جبلا	a multitude	jibillan
+7	36:61:5	w	كَثِيراً࣌		كثيرا	great	kathīran
+7	36:61:6	w	ࡰفَلَمْ		افلم	Then did not	afalam
+7	36:61:7	w	تَكُونُواْ		تكونوا	you	takūnū
+7	36:61:8	w	تَعْقِلُونَ࣌		تعقلون	use reason	taʿqilūna
+7	36:61:9	e	۝٦١				
+7	36:62:1	w	هَٰذِهِۦ		هذهي	This (is)	hādhihi
+7	36:62:2	w	جَهَنَّمُ		جهنم	(the) Hell	jahannamu
+7	36:62:3	w	ࡲ۬لتِے		التي	which	allatī
+8	36:62:4	w	كُنتُمْ		كنتم	you were	kuntum
+8	36:62:5	w	تُوعَدُونَ		توعدون	promised	tūʿadūna
+8	36:62:6	e	۝٦٢				
+8	36:63:1	w	ࡰٜصْلَوْهَا		اصلوها	Burn therein	iṣ'lawhā
+8	36:63:2	w	ࡰ۬لْيَوْمَ		اليوم	today	l-yawma
+8	36:63:3	w	بِمَا		بما	because	bimā
+8	36:63:4	w	كُنتُمْ		كنتم	you used to	kuntum
+8	36:63:5	w	تَكْفُرُونَ࣌		تكفرون	disbelieve	takfurūna
+8	36:63:6	e	۝٦٣				
+9	36:64:1	w	ࡰ۬لْيَوْمَ		اليوم	This Day	al-yawma
+9	36:64:2	w	نَخْتِمُ		نختم	We will seal	nakhtimu
+9	36:64:3	w	عَلَىٰٓ		علي	[on]	ʿalā
+9	36:64:4	w	أَفْوَٰهِهِمْ		افوههم	their mouths	afwāhihim
+9	36:64:5	w	وَتُكَلِّمُنَآ		وتكلمنا	and will speak to Us	watukallimunā
+9	36:64:6	w	أَيْدِيهِمْ		ايديهم	their hands	aydīhim
+9	36:64:7	w	وَتَشْهَدُ		وتشهد	and will bear witness	watashhadu
+9	36:64:8	w	أَرْجُلُهُم		ارجلهم	their feet	arjuluhum
+10	36:64:9	w	بِمَا		بما	about what	bimā
+10	36:64:10	w	كَانُواْ		كانوا	they used to	kānū
+10	36:64:11	w	يَكْسِبُونَ࣌		يكسبون	earn	yaksibūna
+10	36:64:12	e	۝٦٤				
+10	36:65:1	w	وَلَوْ		ولو	And if	walaw
+10	36:65:2	w	نَشَآءُ		نشا	We willed	nashāu
+10	36:65:3	w	لَطَمَسْنَا		لطمسنا	We (would have) surely obliterated	laṭamasnā
+10	36:65:4	w	عَلَىٰٓ		علي	[over]	ʿalā
+10	36:65:5	w	أَعْيُنِهِمْ		اعينهم	their eyes	aʿyunihim
+11	36:65:6	w	فَاسْتَبَقُواْ		فاستبقوا	then they (would) race	fa-is'tabaqū
+11	36:65:7	w	ࡲ۬لصِّرَٰطَ		الصرط	(to find) the path	l-ṣirāṭa
+11	36:65:8	w	فَأَنّٜىٰ		فاني	then how	fa-annā
+11	36:65:9	w	يُبْصِرُونَ࣌		يبصرون	(could) they see	yub'ṣirūna
+11	36:65:10	e	۝٦٥				
+11	36:66:1	w	وَلَوْ		ولو	And if	walaw
+11	36:66:2	w	نَشَآءُ		نشا	We willed	nashāu
+11	36:66:3	w	لَمَسَخْنَٰهُمْ		لمسخنهم	surely, We (would have) transformed them	lamasakhnāhum
+12	36:66:4	w	عَلَىٰ		علي	in	ʿalā
+12	36:66:5	w	مَكَانَتِهِمْ		مكانتهم	their places	makānatihim
+12	36:66:6	w	فَمَا		فما	then not	famā
+12	36:66:7	w	ࡰٜسْتَطَٰعُواْ		استطعوا	they would have been able	is'taṭāʿū
+12	36:66:8	w	مُضِيّاࣰ		مضيا	to proceed	muḍiyyan
+12	36:66:9	w	وَلَا		ولا	and not	walā
+12	36:66:10	w	يَرْجِعُونَ࣌		يرجعون	return	yarjiʿūna
+12	36:66:11	e	۝٦٦				
+13	36:67:1	w	وَمَن		ومن	And (he) whom	waman
+13	36:67:2	w	نُّعَمِّرْهُ		نعمره	We grant him long life	nuʿammir'hu
+13	36:67:3	w	نَنكُسْهُ		ننكسه	We reverse him	nunakkis'hu
+13	36:67:4	w	فِے		في	in	fī
+13	36:67:5	w	ࡴ۬لْخَلْقِ࣌		الخلق	the creation	l-khalqi
+13	36:67:6	w	أَفَلَا		افلا	Then will not	afalā
+13	36:67:7	w	تَعْقِلُونَ࣌		تعقلون	they use intellect	yaʿqilūna
+13	36:67:8	e	۝٦٧				
+13	36:68:1	w	وَمَا		وما	And not	wamā
+14	36:68:2	w	عَلَّمْنَٰهُ		علمنه	We taught him	ʿallamnāhu
+14	36:68:3	w	ࡲ۬لشِّعْرَ		الشعر	[the] poetry	l-shiʿ'ra
+14	36:68:4	w	وَمَا		وما	and not	wamā
+14	36:68:5	w	يَنۢبَغِے		ينبغي	it is befitting	yanbaghī
+14	36:68:6	w	لَهُۥٓ࣌		له	for him	lahu
+14	36:68:7	w	إِنْ		ان	Not	in
+14	36:68:8	w	هُوَ		هو	it	huwa
+14	36:68:9	w	إِلَّا		الا	(is) except	illā
+14	36:68:10	w	ذِكْرࣱ		ذكر	a Reminder	dhik'run
+14	36:68:11	w	وَقُرْءَانࣱ		وقران	and a Quran	waqur'ānun
+14	36:68:12	w	مُّبِينࣱ		مبين	clear	mubīnun
+14	36:68:13	e	۝٦٨				
+15	36:69:1	w	لِّتُنذِرَ		لتنذر	To warn	liyundhira
+15	36:69:2	w	مَن		من	(him) who	man
+15	36:69:3	w	كَانَ		كان	is	kāna
+15	36:69:4	w	حَيّاࣰ		حيا	alive	ḥayyan
+15	36:69:5	w	وَيَحِقَّ		ويحق	and may be proved true	wayaḥiqqa
+15	36:69:6	w	ࡰ۬لْقَوْلُ		القول	the Word	l-qawlu
+15	36:69:7	w	عَلَى		علي	against	ʿalā
+15	36:69:8	w	ࡰ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+15	36:69:9	e	۝٦٩				

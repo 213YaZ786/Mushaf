@@ -1,0 +1,128 @@
+1	2:214:1	w	كُتِبَ		كتب	Is prescribed	kutiba
+1	2:214:2	w	عَلَيْكُمُ		عليكم	upon you	ʿalaykumu
+1	2:214:3	w	ࡲ۬لْقِتَالُ		القتال	[the] fighting	l-qitālu
+1	2:214:4	w	وَهُوَ		وهو	while it	wahuwa
+1	2:214:5	w	كُرْهࣱ		كره	(is) hateful	kur'hun
+1	2:214:6	w	لَّكُمْ࣌		لكم	to you	lakum
+1	2:214:7	w	وَعَسٜىٰٓ		وعسي	But perhaps	waʿasā
+1	2:214:8	w	أَن		ان	[that]	an
+2	2:214:9	w	تَكْرَهُواْ		تكرهوا	you dislike	takrahū
+2	2:214:10	w	شَيْـٔاࣰ		شيا	a thing	shayan
+2	2:214:11	w	وَهُوَ		وهو	and it	wahuwa
+2	2:214:12	w	خَيْرࣱ		خير	(is) good	khayrun
+2	2:214:13	w	لَّكُمْ࣌		لكم	for you	lakum
+2	2:214:14	w	وَعَسٜىٰٓ		وعسي	and perhaps	waʿasā
+2	2:214:15	w	أَن		ان	[that]	an
+2	2:214:16	w	تُحِبُّواْ		تحبوا	you love	tuḥibbū
+2	2:214:17	w	شَيْـٔاࣰ		شيا	a thing	shayan
+2	2:214:18	w	وَهُوَ		وهو	and it	wahuwa
+3	2:214:19	w	شَرࣱّ		شر	(is) bad	sharrun
+3	2:214:20	w	لَّكُمْ࣌		لكم	for you	lakum
+3	2:214:21	w	وَاللَّهُ		والله	And Allah	wal-lahu
+3	2:214:22	w	يَعْلَمُ࣌		يعلم	knows	yaʿlamu
+3	2:214:23	w	وَأَنتُمْ		وانتم	while you	wa-antum
+3	2:214:24	w	لَا		لا	(do) not	lā
+3	2:214:25	w	تَعْلَمُونَ࣌		تعلمون	know	taʿlamūna
+3	2:214:26	e	۝٢١٤				
+3	2:215:1	w	يَسْـَٔلُونَكَ		يسلونك	They ask you	yasalūnaka
+3	2:215:2	w	عَنِ		عن	about	ʿani
+3	2:215:3	w	ࡴ۬لشَّهْرِ		الشهر	the month	l-shahri
+4	2:215:4	w	ࡴ۬لْحَرَامِ		الحرام	[the] sacred	l-ḥarāmi
+4	2:215:5	w	قِتَالࣲ		قتال	(concerning) fighting	qitālin
+4	2:215:6	w	فِيهِ࣌		فيه	in it	fīhi
+4	2:215:7	w	قُلْ		قل	Say	qul
+4	2:215:8	w	قِتَالࣱ		قتال	Fighting	qitālun
+4	2:215:9	w	فِيهِ		فيه	therein	fīhi
+4	2:215:10	w	كَبِيرࣱ࣌		كبير	(is) a great (sin)	kabīrun
+4	2:215:11	w	وَصَدٌّ		وصد	but hindering (people)	waṣaddun
+4	2:215:12	w	عَن		عن	from	ʿan
+4	2:215:13	w	سَبِيلِ		سبيل	(the) way	sabīli
+5	2:215:14	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+5	2:215:15	w	وَكُفْرُۢ		وكفر	and disbelief	wakuf'run
+5	2:215:16	w	بِهِۦ		بهي	in Him	bihi
+5	2:215:17	w	وَالْمَسْجِدِ		والمسجد	and (preventing access to) Al-Masjid	wal-masjidi
+5	2:215:18	w	ࡴ۬لْحَرَامِ		الحرام	Al-Haraam	l-ḥarāmi
+5	2:215:19	w	وَإِخْرَاجُ		واخراج	and driving out	wa-ikh'rāju
+5	2:215:20	w	أَهْلِهِۦ		اهلهي	its people	ahlihi
+5	2:215:21	w	مِنْهُ		منه	from it	min'hu
+6	2:215:22	w	أَكْبَرُ		اكبر	(is) greater (sin)	akbaru
+6	2:215:23	w	عِندَ		عند	near	ʿinda
+6	2:215:24	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+6	2:215:25	w	وَالْفِتْنَةُ		والفتنة	And [the] oppression	wal-fit'natu
+6	2:215:26	w	أَكْبَرُ		اكبر	(is) greater	akbaru
+6	2:215:27	w	مِنَ		من	than	mina
+6	2:215:28	w	ࡰ۬لْقَتْلِ࣌		القتل	[the] killing	l-qatli
+6	2:215:29	w	وَلَا		ولا	And not	walā
+6	2:215:30	w	يَزَالُونَ		يزالون	they will cease	yazālūna
+7	2:215:31	w	يُقَٰتِلُونَكُمْ		يقتلونكم	(to) fight with you	yuqātilūnakum
+7	2:215:32	w	حَتَّىٰ		حتي	until	ḥattā
+7	2:215:33	w	يَرُدُّوكُمْ		يردوكم	they turn you away	yaruddūkum
+7	2:215:34	w	عَن		عن	from	ʿan
+7	2:215:35	w	دِينِكُمُۥٓ		دينكم	your religion	dīnikum
+7	2:215:36	w	إِنِ		ان	if	ini
+7	2:215:37	w	ࡴٜسْتَطَٰعُواْ࣌		استطعوا	they are able	is'taṭāʿū
+7	2:215:38	w	وَمَنْ		ومن	And whoever	waman
+8	2:215:39	w	يَّرْتَدِدْ		يرتدد	turns away	yartadid
+8	2:215:40	w	مِنكُمْ		منكم	among you	minkum
+8	2:215:41	w	عَن		عن	from	ʿan
+8	2:215:42	w	دِينِهِۦ		دينهي	his religion	dīnihi
+8	2:215:43	w	فَيَمُتْ		فيمت	then dies	fayamut
+8	2:215:44	w	وَهُوَ		وهو	while he	wahuwa
+8	2:215:45	w	كَافِرࣱ		كافر	(is) a disbeliever	kāfirun
+8	2:215:46	w	فَأُوْلَٰٓئِكَ		فاوليك	for those	fa-ulāika
+9	2:215:47	w	حَبِطَتَ		حبطت	became worthless	ḥabiṭat
+9	2:215:48	w	ࡰعْمَٰلُهُمْ		اعملهم	their deeds	aʿmāluhum
+9	2:215:49	w	فِے		في	in	fī
+9	2:215:50	w	ࡴ۬لدُّنْيٜا		الدنيا	the world	l-dun'yā
+9	2:215:51	w	وَالَاخِرَةِ࣌		والاخرة	and the Hereafter	wal-ākhirati
+9	2:215:52	w	وَأُوْلَٰٓئِكَ		واوليك	And those	wa-ulāika
+9	2:215:53	w	أَصْحَٰبُ		اصحب	(are) companions	aṣḥābu
+10	2:215:54	w	ࡲ۬لنّٜارِ		النار	(of) the Fire	l-nāri
+10	2:215:55	w	هُمْ		هم	they	hum
+10	2:215:56	w	فِيهَا		فيها	in it	fīhā
+10	2:215:57	w	خَٰلِدُونَ࣌		خلدون	(will) abide forever	khālidūna
+10	2:215:58	e	۝٢١٥				
+10	2:216:1	w	إِنَّ		ان	Indeed	inna
+10	2:216:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	2:216:3	w	ءَامَنُواْ		امنوا	believed	āmanū
+10	2:216:4	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+11	2:216:5	w	هَاجَرُواْ		هاجروا	emigrated	hājarū
+11	2:216:6	w	وَجَٰهَدُواْ		وجهدوا	and strove	wajāhadū
+11	2:216:7	w	فِے		في	in	fī
+11	2:216:8	w	سَبِيلِ		سبيل	(the) way	sabīli
+11	2:216:9	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+11	2:216:10	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+11	2:216:11	w	يَرْجُونَ		يرجون	they hope	yarjūna
+11	2:216:12	w	رَحْمَتَ		رحمت	(for) Mercy	raḥmata
+12	2:216:13	w	ࡰ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+12	2:216:14	w	وَاللَّهُ		والله	And Allah	wal-lahu
+12	2:216:15	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+12	2:216:16	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+12	2:216:17	e	۝٢١٦				
+12	2:217:1	w	۞ يَسْـَٔلُونَكَ		يسلونك	They ask you	yasalūnaka
+12	2:217:2	w	عَنِ		عن	about	ʿani
+12	2:217:3	w	ࡴ۬لْخَمْرِ		الخمر	[the] intoxicants	l-khamri
+12	2:217:4	w	وَالْمَيْسِرِ࣌		والميسر	and [the] games of chance	wal-maysiri
+13	2:217:5	w	قُلْ		قل	Say	qul
+13	2:217:6	w	فِيهِمَآ		فيهما	In both of them	fīhimā
+13	2:217:7	w	إِثْمࣱ		اثم	(is) a sin	ith'mun
+13	2:217:8	w	كَبِيرࣱ		كبير	great	kabīrun
+13	2:217:9	w	وَمَنَٰفِعُ		ومنفع	and (some) benefits	wamanāfiʿu
+13	2:217:10	w	لِلنَّاسِ࣌		للناس	for [the] people	lilnnāsi
+13	2:217:11	w	وَإِثْمُهُمَآ		واثمهما	But sin of both of them	wa-ith'muhumā
+13	2:217:12	w	أَكْبَرُ		اكبر	(is) greater	akbaru
+14	2:217:13	w	مِن		من	than	min
+14	2:217:14	w	نَّفْعِهِمَا࣌		نفعهما	(the) benefit of (the) two	nafʿihimā
+14	2:217:15	w	وَيَسْـَٔلُونَكَ		ويسلونك	And they ask you	wayasalūnaka
+14	2:217:16	w	مَاذَا		ماذا	what	mādhā
+14	2:217:17	w	يُنفِقُونَ		ينفقون	they (should) spend	yunfiqūna
+14	2:217:18	w	قُلِ		قل	Say	quli
+14	2:217:19	w	ࡴ۬لْعَفْوَ࣌		العفو	The surplus	l-ʿafwa
+14	2:217:20	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+15	2:217:21	w	يُبَيِّنُ		يبين	makes clear	yubayyinu
+15	2:217:22	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+15	2:217:23	w	لَكُمُ		لكم	to you	lakumu
+15	2:217:24	w	ࡲ۬لَايَٰتِ		الايت	[the] Verses	l-āyāti
+15	2:217:25	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+15	2:217:26	w	تَتَفَكَّرُونَ		تتفكرون	ponder	tatafakkarūna
+15	2:217:27	e	۝٢١٧				

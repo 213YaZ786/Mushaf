@@ -1,0 +1,135 @@
+1	5:67:1	w	وَلَوَ		ولو	And if	walaw
+1	5:67:2	w	ࡰنَّ		ان	that	anna
+1	5:67:3	w	أَهْلَ		اهل	(the) People	ahla
+1	5:67:4	w	ࡰ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+1	5:67:5	w	ءَامَنُواْ		امنوا	(had) believed	āmanū
+1	5:67:6	w	وَاتَّقَوْاْ		واتقوا	and feared (Allah)	wa-ittaqaw
+1	5:67:7	w	لَكَفَّرْنَا		لكفرنا	surely We (would have) removed	lakaffarnā
+1	5:67:8	w	عَنْهُمْ		عنهم	from them	ʿanhum
+2	5:67:9	w	سَيِّـَٔاتِهِمْ		سياتهم	their evil (deeds)	sayyiātihim
+2	5:67:10	w	وَلَأَدْخَلْنَٰهُمْ		ولادخلنهم	and surely We (would have) admitted them	wala-adkhalnāhum
+2	5:67:11	w	جَنَّٰتِ		جنت	(to) Gardens	jannāti
+2	5:67:12	w	ࡴ۬لنَّعِيمِ࣌		النعيم	(of) Bliss	l-naʿīmi
+2	5:67:13	e	۝٦٧				
+2	5:68:1	w	وَلَوَ		ولو	And if	walaw
+2	5:68:2	w	ࡰنَّهُمُۥٓ		انهم	that they	annahum
+2	5:68:3	w	أَقَامُواْ		اقاموا	had stood firmly	aqāmū
+3	5:68:4	w	ࡲ۬لتَّوْرٜيٰةَ		التورية	(by) the Taurat	l-tawrāta
+3	5:68:5	w	وَالِانجِيلَ		والانجيل	and the Injeel	wal-injīla
+3	5:68:6	w	وَمَآ		وما	and what	wamā
+3	5:68:7	w	أُنزِلَ		انزل	was revealed	unzila
+3	5:68:8	w	إِلَيْهِم		اليهم	to them	ilayhim
+3	5:68:9	w	مِّن		من	from	min
+3	5:68:10	w	رَّبِّهِمْ		ربهم	their Lord	rabbihim
+3	5:68:11	w	لَأَكَلُواْ		لاكلوا	surely they (would have) eaten	la-akalū
+4	5:68:12	w	مِن		من	from	min
+4	5:68:13	w	فَوْقِهِمْ		فوقهم	above them	fawqihim
+4	5:68:14	w	وَمِن		ومن	and from	wamin
+4	5:68:15	w	تَحْتِ		تحت	beneath	taḥti
+4	5:68:16	w	أَرْجُلِهِم࣌		ارجلهم	their feet	arjulihim
+4	5:68:17	w	مِّنْهُمُۥٓ		منهم	Among them	min'hum
+4	5:68:18	w	أُمَّةࣱ		امة	(is) a community	ummatun
+4	5:68:19	w	مُّقْتَصِدَةࣱ࣌		مقتصدة	moderate	muq'taṣidatun
+5	5:68:20	w	وَكَثِيرࣱ		وكثير	but many	wakathīrun
+5	5:68:21	w	مِّنْهُمْ		منهم	of them	min'hum
+5	5:68:22	w	سَآءَ		سا	evil	sāa
+5	5:68:23	w	مَا		ما	(is) what	mā
+5	5:68:24	w	يَعْمَلُونَ࣌		يعملون	they do	yaʿmalūna
+5	5:68:25	e	۝٦٨				
+5	5:69:1	w	۞ يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+5	5:69:2	w	ࡰ۬لرَّسُولُ		الرسول	Messenger	l-rasūlu
+6	5:69:3	w	بَلِّغْ		بلغ	Convey	balligh
+6	5:69:4	w	مَآ		ما	what	mā
+6	5:69:5	w	أُنزِلَ		انزل	has been revealed	unzila
+6	5:69:6	w	إِلَيْكَ		اليك	to you	ilayka
+6	5:69:7	w	مِن		من	from	min
+6	5:69:8	w	رَّبِّكَ࣌		ربك	your Lord	rabbika
+6	5:69:9	w	وَإِن		وان	and if	wa-in
+6	5:69:10	w	لَّمْ		لم	not	lam
+6	5:69:11	w	تَفْعَلْ		تفعل	you do	tafʿal
+6	5:69:12	w	فَمَا		فما	then not	famā
+6	5:69:13	w	بَلَّغْتَ		بلغت	you (have) conveyed	ballaghta
+7	5:69:14	w	رِسَالَٰتِهِۦ࣌		رسالتهي	His Message	risālatahu
+7	5:69:15	w	وَاللَّهُ		والله	And Allah	wal-lahu
+7	5:69:16	w	يَعْصِمُكَ		يعصمك	will protect you	yaʿṣimuka
+7	5:69:17	w	مِنَ		من	from	mina
+7	5:69:18	w	ࡰ۬لنَّاسِ࣌		الناس	the people	l-nāsi
+7	5:69:19	w	إِنَّ		ان	Indeed	inna
+7	5:69:20	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+7	5:69:21	w	لَا		لا	(does) not	lā
+7	5:69:22	w	يَهْدِے		يهدي	guide	yahdī
+7	5:69:23	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+8	5:69:24	w	ࡰ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelieving	l-kāfirīna
+8	5:69:25	e	۝٦٩				
+8	5:70:1	w	قُلْ		قل	Say	qul
+8	5:70:2	w	يَٰٓأَهْلَ		ياهل	O People	yāahla
+8	5:70:3	w	ࡰ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+8	5:70:4	w	لَسْتُمْ		لستم	You are not	lastum
+8	5:70:5	w	عَلَىٰ		علي	on	ʿalā
+8	5:70:6	w	شَےْءٍ		شي	anything	shayin
+8	5:70:7	w	حَتَّىٰ		حتي	until	ḥattā
+9	5:70:8	w	تُقِيمُواْ		تقيموا	you stand firmly	tuqīmū
+9	5:70:9	w	ࡲ۬لتَّوْرٜيٰةَ		التورية	(by) the Taurat	l-tawrāta
+9	5:70:10	w	وَالِانجِيلَ		والانجيل	and the Injeel	wal-injīla
+9	5:70:11	w	وَمَآ		وما	and what	wamā
+9	5:70:12	w	أُنزِلَ		انزل	has been revealed	unzila
+9	5:70:13	w	إِلَيْكُم		اليكم	to you	ilaykum
+9	5:70:14	w	مِّن		من	from	min
+9	5:70:15	w	رَّبِّكُمْ࣌		ربكم	your Lord	rabbikum
+10	5:70:16	w	وَلَيَزِيدَنَّ		وليزيدن	And surely increase	walayazīdanna
+10	5:70:17	w	كَثِيراࣰ		كثيرا	many	kathīran
+10	5:70:18	w	مِّنْهُم		منهم	of them	min'hum
+10	5:70:19	w	مَّآ		ما	what	mā
+10	5:70:20	w	أُنزِلَ		انزل	has been revealed	unzila
+10	5:70:21	w	إِلَيْكَ		اليك	to you	ilayka
+10	5:70:22	w	مِن		من	from	min
+10	5:70:23	w	رَّبِّكَ		ربك	your Lord	rabbika
+10	5:70:24	w	طُغْيَٰناࣰ		طغينا	(in) rebellion	ṭugh'yānan
+11	5:70:25	w	وَكُفْراࣰ࣌		وكفرا	and disbelief	wakuf'ran
+11	5:70:26	w	فَلَا		فلا	So (do) not	falā
+11	5:70:27	w	تَاسَ		تاس	grieve	tasa
+11	5:70:28	w	عَلَى		علي	over	ʿalā
+11	5:70:29	w	ࡰ۬لْقَوْمِ		القوم	the people	l-qawmi
+11	5:70:30	w	ࡴ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelieving	l-kāfirīna
+11	5:70:31	e	۝٧٠				
+11	5:71:1	w	إِنَّ		ان	Indeed	inna
+11	5:71:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	5:71:3	w	ءَامَنُواْ		امنوا	believed	āmanū
+12	5:71:4	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+12	5:71:5	w	هَادُواْ		هادوا	became Jews	hādū
+12	5:71:6	w	وَالصَّٰبُونَ		والصبون	and the Sabians	wal-ṣābiūna
+12	5:71:7	w	وَالنَّصَٰرٜىٰ		والنصري	and the Christians	wal-naṣārā
+12	5:71:8	w	مَنَ		من	whoever	man
+12	5:71:9	w	اٰمَنَ		امن	believed	āmana
+12	5:71:10	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+12	5:71:11	w	وَالْيَوْمِ		واليوم	and the Day	wal-yawmi
+12	5:71:12	w	ࡴ۬لَاخِرِ		الاخر	the Last	l-ākhiri
+13	5:71:13	w	وَعَمِلَ		وعمل	and did	waʿamila
+13	5:71:14	w	صَٰلِحاࣰ		صلحا	good deeds	ṣāliḥan
+13	5:71:15	w	فَلَا		فلا	then no	falā
+13	5:71:16	w	خَوْفٌ		خوف	fear	khawfun
+13	5:71:17	w	عَلَيْهِمْ		عليهم	on them	ʿalayhim
+13	5:71:18	w	وَلَا		ولا	and not	walā
+13	5:71:19	w	هُمْ		هم	they	hum
+13	5:71:20	w	يَحْزَنُونَ࣌		يحزنون	will grieve	yaḥzanūna
+13	5:71:21	e	۝٧١				
+13	5:72:1	w	لَقَدَ		لقد	Certainly	laqad
+13	5:72:2	w	ࡰخَذْنَا		اخذنا	We took	akhadhnā
+14	5:72:3	w	مِيثَٰقَ		ميثق	a Covenant	mīthāqa
+14	5:72:4	w	بَنِےٓ		بني	(from the) Children	banī
+14	5:72:5	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+14	5:72:6	w	وَأَرْسَلْنَآ		وارسلنا	and We sent	wa-arsalnā
+14	5:72:7	w	إِلَيْهِمْ		اليهم	to them	ilayhim
+14	5:72:8	w	رُسُلاࣰ࣌		رسلا	Messengers	rusulan
+14	5:72:9	w	كُلَّمَا		كلما	Whenever	kullamā
+14	5:72:10	w	جَآءَهُمْ		جاهم	came to them	jāahum
+15	5:72:11	w	رَسُولُۢ		رسول	any Messenger	rasūlun
+15	5:72:12	w	بِمَا		بما	with what	bimā
+15	5:72:13	w	لَا		لا	not	lā
+15	5:72:14	w	تَهْوٜىٰٓ		تهوي	desired	tahwā
+15	5:72:15	w	أَنفُسُهُمْ		انفسهم	their souls	anfusuhum
+15	5:72:16	w	فَرِيقاࣰ		فريقا	a group	farīqan
+15	5:72:17	w	كَذَّبُواْ		كذبوا	they denied	kadhabū
+15	5:72:18	w	وَفَرِيقاࣰ		وفريقا	and a group	wafarīqan
+15	5:72:19	w	يَقْتُلُونَ࣌		يقتلون	they kill	yaqtulūna
+15	5:72:20	e	۝٧٢				

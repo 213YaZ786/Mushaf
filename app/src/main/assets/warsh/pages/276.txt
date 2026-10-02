@@ -1,0 +1,125 @@
+1	16:80:1	w	وَاللَّهُ		والله	And Allah	wal-lahu
+1	16:80:2	w	جَعَلَ		جعل	(has) made	jaʿala
+1	16:80:3	w	لَكُم		لكم	for you	lakum
+1	16:80:4	w	مِّنۢ		من	[from]	min
+1	16:80:5	w	بُيُوتِكُمْ		بيوتكم	your homes	buyūtikum
+1	16:80:6	w	سَكَناࣰ		سكنا	a resting place	sakanan
+1	16:80:7	w	وَجَعَلَ		وجعل	and made	wajaʿala
+1	16:80:8	w	لَكُم		لكم	for you	lakum
+1	16:80:9	w	مِّن		من	from	min
+1	16:80:10	w	جُلُودِ		جلود	the hides	julūdi
+2	16:80:11	w	ࡴ۬لَانْعَٰمِ		الانعم	(of) the cattle	l-anʿāmi
+2	16:80:12	w	بُيُوتاࣰ		بيوتا	tents	buyūtan
+2	16:80:13	w	تَسْتَخِفُّونَهَا		تستخفونها	which you find light	tastakhiffūnahā
+2	16:80:14	w	يَوْمَ		يوم	(on) the day	yawma
+2	16:80:15	w	ظَعَنِكُمْ		ظعنكم	(of) your travel	ẓaʿnikum
+2	16:80:16	w	وَيَوْمَ		ويوم	and the day	wayawma
+2	16:80:17	w	إِقَامَتِكُمْ࣌		اقامتكم	(of) your encampment	iqāmatikum
+3	16:80:18	w	وَمِنَ		ومن	and from	wamin
+3	16:80:19	w	ࡰصْوَافِهَا		اصوافها	their wool	aṣwāfihā
+3	16:80:20	w	وَأَوْبٜارِهَا		واوبارها	and their fur	wa-awbārihā
+3	16:80:21	w	وَأَشْعٜارِهَآ		واشعارها	and their hair	wa-ashʿārihā
+3	16:80:22	w	أَثَٰثاࣰ		اثثا	(is) furnishing	athāthan
+3	16:80:23	w	وَمَتَٰعاً		ومتعا	and a provision	wamatāʿan
+3	16:80:24	w	ࡴلَىٰ		الي	for	ilā
+3	16:80:25	w	حِينࣲ࣌		حين	a time	ḥīnin
+3	16:80:26	e	۝٨٠				
+4	16:81:1	w	وَاللَّهُ		والله	And Allah	wal-lahu
+4	16:81:2	w	جَعَلَ		جعل	(has) made	jaʿala
+4	16:81:3	w	لَكُم		لكم	for you	lakum
+4	16:81:4	w	مِّمَّا		مما	from what	mimmā
+4	16:81:5	w	خَلَقَ		خلق	He created	khalaqa
+4	16:81:6	w	ظِلَٰلاࣰ		ظللا	shades	ẓilālan
+4	16:81:7	w	وَجَعَلَ		وجعل	and (has) made	wajaʿala
+4	16:81:8	w	لَكُم		لكم	for you	lakum
+4	16:81:9	w	مِّنَ		من	from	mina
+5	16:81:10	w	ࡰ۬لْجِبَالِ		الجبال	the mountains	l-jibāli
+5	16:81:11	w	أَكْنَٰناࣰ		اكننا	shelters	aknānan
+5	16:81:12	w	وَجَعَلَ		وجعل	and (has) made	wajaʿala
+5	16:81:13	w	لَكُمْ		لكم	for you	lakum
+5	16:81:14	w	سَرَٰبِيلَ		سربيل	garments	sarābīla
+5	16:81:15	w	تَقِيكُمُ		تقيكم	to protect you	taqīkumu
+6	16:81:16	w	ࡲ۬لْحَرَّ		الحر	(from) the heat	l-ḥara
+6	16:81:17	w	وَسَرَٰبِيلَ		وسربيل	and garments	wasarābīla
+6	16:81:18	w	تَقِيكُم		تقيكم	to protect you	taqīkum
+6	16:81:19	w	بَأْسَكُمْ࣌		باسكم	from your (mutual) violence	basakum
+6	16:81:20	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+6	16:81:21	w	يُتِمُّ		يتم	He completes	yutimmu
+6	16:81:22	w	نِعْمَتَهُۥ		نعمته	His Favor	niʿ'matahu
+7	16:81:23	w	عَلَيْكُمْ		عليكم	upon you	ʿalaykum
+7	16:81:24	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+7	16:81:25	w	تُسْلِمُونَ࣌		تسلمون	submit	tus'limūna
+7	16:81:26	e	۝٨١				
+7	16:82:1	w	فَإِن		فان	Then, if	fa-in
+7	16:82:2	w	تَوَلَّوْاْ		تولوا	they turn away	tawallaw
+7	16:82:3	w	فَإِنَّمَا		فانما	then only	fa-innamā
+7	16:82:4	w	عَلَيْكَ		عليك	upon you	ʿalayka
+8	16:82:5	w	ࡰ۬لْبَلَٰغُ		البلغ	(is) the conveyance	l-balāghu
+8	16:82:6	w	ࡲ۬لْمُبِينُ࣌		المبين	the clear	l-mubīnu
+8	16:82:7	e	۝٨٢				
+8	16:83:1	w	يَعْرِفُونَ		يعرفون	They recognize	yaʿrifūna
+8	16:83:2	w	نِعْمَتَ		نعمت	(the) Favor	niʿ'mata
+8	16:83:3	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+8	16:83:4	w	ثُمَّ		ثم	then	thumma
+8	16:83:5	w	يُنكِرُونَهَا࣌		ينكرونها	they deny it	yunkirūnahā
+9	16:83:6	w	وَأَكْثَرُهُمُ		واكثرهم	And most of them	wa-aktharuhumu
+9	16:83:7	w	ࡲ۬لْكَٰفِرُونَ࣌		الكفرون	(are) the disbelievers	l-kāfirūna
+9	16:83:8	e	۝٨٣				
+9	16:84:1	w	وَيَوْمَ		ويوم	And the Day	wayawma
+9	16:84:2	w	نَبْعَثُ		نبعث	We will resurrect	nabʿathu
+9	16:84:3	w	مِن		من	from	min
+9	16:84:4	w	كُلِّ		كل	every	kulli
+9	16:84:5	w	أُمَّةࣲ		امة	nation	ummatin
+10	16:84:6	w	شَهِيداࣰ		شهيدا	a witness	shahīdan
+10	16:84:7	w	ثُمَّ		ثم	then	thumma
+10	16:84:8	w	لَا		لا	not	lā
+10	16:84:9	w	يُوذَنُ		يوذن	will be permitted	yu'dhanu
+10	16:84:10	w	لِلذِينَ		للذين	to those who	lilladhīna
+10	16:84:11	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+10	16:84:12	w	وَلَا		ولا	and not	walā
+10	16:84:13	w	هُمْ		هم	they	hum
+10	16:84:14	w	يُسْتَعْتَبُونَ࣌		يستعتبون	will be asked to make amends	yus'taʿtabūna
+10	16:84:15	e	۝٨٤				
+11	16:85:1	w	وَإِذَا		واذا	And when	wa-idhā
+11	16:85:2	w	رَءَا		را	(will) see	raā
+11	16:85:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	16:85:4	w	ظَلَمُواْ		ظلموا	wronged	ẓalamū
+11	16:85:5	w	ࡲ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+11	16:85:6	w	فَلَا		فلا	then not	falā
+11	16:85:7	w	يُخَفَّفُ		يخفف	it will be lightened	yukhaffafu
+11	16:85:8	w	عَنْهُمْ		عنهم	for them	ʿanhum
+11	16:85:9	w	وَلَا		ولا	and not	walā
+11	16:85:10	w	هُمْ		هم	they	hum
+12	16:85:11	w	يُنظَرُونَ࣌		ينظرون	will be given respite	yunẓarūna
+12	16:85:12	e	۝٨٥				
+12	16:86:1	w	وَإِذَا		واذا	And when	wa-idhā
+12	16:86:2	w	رَءَا		را	(will) see	raā
+12	16:86:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	16:86:4	w	أَشْرَكُواْ		اشركوا	associated partners with Allah	ashrakū
+12	16:86:5	w	شُرَكَآءَهُمْ		شركاهم	their partners	shurakāahum
+12	16:86:6	w	قَالُواْ		قالوا	They will say	qālū
+13	16:86:7	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+13	16:86:8	w	هَٰٓؤُلَآءِ		هولا	these	hāulāi
+13	16:86:9	w	شُرَكَآؤُنَا		شركاونا	(are) our partners	shurakāunā
+13	16:86:10	w	ࡰ۬لذِينَ		الذين	those whom	alladhīna
+13	16:86:11	w	كُنَّا		كنا	we used to	kunnā
+13	16:86:12	w	نَدْعُواْ		ندعوا	invoke	nadʿū
+13	16:86:13	w	مِن		من	besides You	min
+13	16:86:14	w	دُونِكَ࣌		دونك	besides You	dūnika
+14	16:86:15	w	فَأَلْقَوِاْ		فالقوا	But they (will) throw back	fa-alqaw
+14	16:86:16	w	ࡴلَيْهِمُ		اليهم	at them	ilayhimu
+14	16:86:17	w	ࡲ۬لْقَوْلَ		القول	(their) word	l-qawla
+14	16:86:18	w	إِنَّكُمْ		انكم	Indeed, you	innakum
+14	16:86:19	w	لَكَٰذِبُونَ࣌		لكذبون	(are) surely liars	lakādhibūna
+14	16:86:20	e	۝٨٦				
+14	16:87:1	w	وَأَلْقَوِاْ		والقوا	And they (will) offer	wa-alqaw
+14	16:87:2	w	ࡴلَى		الي	to	ilā
+15	16:87:3	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+15	16:87:4	w	يَوْمَئِذٍ		يوميذ	(on) that Day	yawma-idhin
+15	16:87:5	w	ࡴ۬لسَّلَمَ࣌		السلم	the submission	l-salama
+15	16:87:6	w	وَضَلَّ		وضل	and (is) lost	waḍalla
+15	16:87:7	w	عَنْهُم		عنهم	from them	ʿanhum
+15	16:87:8	w	مَّا		ما	what	mā
+15	16:87:9	w	كَانُواْ		كانوا	they used (to)	kānū
+15	16:87:10	w	يَفْتَرُونَ࣌		يفترون	invent	yaftarūna
+15	16:87:11	e	۝٨٧				

@@ -1,0 +1,135 @@
+1	30:24:1	w	وَمِنَ		ومن	And among	wamin
+1	30:24:2	w	اٰيَٰتِهِۦٓ		ايتهي	His Signs	āyātihi
+1	30:24:3	w	أَن		ان	(is) that	an
+1	30:24:4	w	تَقُومَ		تقوم	stands	taqūma
+1	30:24:5	w	ࡰ۬لسَّمَآءُ		السما	the heavens	l-samāu
+1	30:24:6	w	وَالَارْضُ		والارض	and the earth	wal-arḍu
+1	30:24:7	w	بِأَمْرِهِۦ࣌		بامرهي	by His Command	bi-amrihi
+1	30:24:8	w	ثُمَّ		ثم	Then	thumma
+1	30:24:9	w	إِذَا		اذا	when	idhā
+1	30:24:10	w	دَعَاكُمْ		دعاكم	He calls you	daʿākum
+2	30:24:11	w	دَعْوَةࣰ		دعوة	(with) a call	daʿwatan
+2	30:24:12	w	مِّنَ		من	from	mina
+2	30:24:13	w	ࡰ۬لَارْضِ		الارض	the earth	l-arḍi
+2	30:24:14	w	إِذَآ		اذا	behold	idhā
+2	30:24:15	w	أَنتُمْ		انتم	You	antum
+2	30:24:16	w	تَخْرُجُونَ࣌		تخرجون	will come forth	takhrujūna
+2	30:24:17	e	۝٢٤				
+2	30:25:1	w	وَلَهُۥ		وله	And to Him (belongs)	walahu
+2	30:25:2	w	مَن		من	whoever	man
+2	30:25:3	w	فِے		في	(is) in	fī
+2	30:25:4	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+3	30:25:5	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+3	30:25:6	w	كُلࣱّ		كل	All	kullun
+3	30:25:7	w	لَّهُۥ		له	to Him	lahu
+3	30:25:8	w	قَٰنِتُونَ࣌		قنتون	(are) obedient	qānitūna
+3	30:25:9	e	۝٢٥				
+3	30:26:1	w	وَهُوَ		وهو	And He	wahuwa
+3	30:26:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+3	30:26:3	w	يَبْدَؤُاْ		يبدوا	originates	yabda-u
+3	30:26:4	w	ࡲ۬لْخَلْقَ		الخلق	the creation	l-khalqa
+3	30:26:5	w	ثُمَّ		ثم	then	thumma
+4	30:26:6	w	يُعِيدُهُۥ		يعيده	repeats it	yuʿīduhu
+4	30:26:7	w	وَهُوَ		وهو	and it	wahuwa
+4	30:26:8	w	أَهْوَنُ		اهون	(is) easier	ahwanu
+4	30:26:9	w	عَلَيْهِ࣌		عليه	for Him	ʿalayhi
+4	30:26:10	w	وَلَهُ		وله	And for Him	walahu
+4	30:26:11	w	ࡲ۬لْمَثَلُ		المثل	(is) the description	l-mathalu
+4	30:26:12	w	ࡲ۬لَاعْلٜىٰ		الاعلي	the highest	l-aʿlā
+4	30:26:13	w	فِے		في	in	fī
+4	30:26:14	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+5	30:26:15	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+5	30:26:16	w	وَهُوَ		وهو	And He	wahuwa
+5	30:26:17	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+5	30:26:18	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+5	30:26:19	e	۝٢٦				
+5	30:27:1	w	ضَرَبَ		ضرب	He sets forth	ḍaraba
+5	30:27:2	w	لَكُم		لكم	to you	lakum
+5	30:27:3	w	مَّثَلاࣰ		مثلا	an example	mathalan
+5	30:27:4	w	مِّنَ		من	from	min
+6	30:27:5	w	ࡰنفُسِكُمْ		انفسكم	yourselves	anfusikum
+6	30:27:6	w	هَل		هل	Is	hal
+6	30:27:7	w	لَّكُم		لكم	for you	lakum
+6	30:27:8	w	مِّن		من	among	min
+6	30:27:9	w	مَّا		ما	what	mā
+6	30:27:10	w	مَلَكَتَ		ملكت	possess	malakat
+6	30:27:11	w	ࡰيْمَٰنُكُم		ايمنكم	your right hands	aymānukum
+6	30:27:12	w	مِّن		من	any	min
+7	30:27:13	w	شُرَكَآءَ		شركا	partners	shurakāa
+7	30:27:14	w	فِے		في	in	fī
+7	30:27:15	w	مَا		ما	what	mā
+7	30:27:16	w	رَزَقْنَٰكُمْ		رزقنكم	We have provided you	razaqnākum
+7	30:27:17	w	فَأَنتُمْ		فانتم	so you	fa-antum
+7	30:27:18	w	فِيهِ		فيه	in it	fīhi
+7	30:27:19	w	سَوَآءࣱ		سوا	(are) equal	sawāon
+7	30:27:20	w	تَخَافُونَهُمْ		تخافونهم	you fear them	takhāfūnahum
+8	30:27:21	w	كَخِيفَتِكُمُۥٓ		كخيفتكم	as you fear	kakhīfatikum
+8	30:27:22	w	أَنفُسَكُمْ࣌		انفسكم	yourselves	anfusakum
+8	30:27:23	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+8	30:27:24	w	نُفَصِّلُ		نفصل	We explain	nufaṣṣilu
+8	30:27:25	w	ࡲ۬لَايَٰتِ		الايت	the Verses	l-āyāti
+8	30:27:26	w	لِقَوْمࣲ		لقوم	for a people	liqawmin
+9	30:27:27	w	يَعْقِلُونَ࣌		يعقلون	(who) use reason	yaʿqilūna
+9	30:27:28	e	۝٢٧				
+9	30:28:1	w	بَلِ		بل	Nay	bali
+9	30:28:2	w	ࡴٜتَّبَعَ		اتبع	follow	ittabaʿa
+9	30:28:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+9	30:28:4	w	ظَلَمُوٓاْ		ظلموا	do wrong	ẓalamū
+9	30:28:5	w	أَهْوَآءَهُم		اهواهم	their desires	ahwāahum
+9	30:28:6	w	بِغَيْرِ		بغير	without	bighayri
+9	30:28:7	w	عِلْمࣲ࣌		علم	knowledge	ʿil'min
+10	30:28:8	w	فَمَنْ		فمن	Then who	faman
+10	30:28:9	w	يَّهْدِے		يهدي	(can) guide	yahdī
+10	30:28:10	w	مَنَ		من	(one) whom	man
+10	30:28:11	w	ࡰضَلَّ		اضل	Allah has let go astray	aḍalla
+10	30:28:12	w	ࡰ۬للَّهُ࣌		الله	Allah has let go astray	l-lahu
+10	30:28:13	w	وَمَا		وما	And not	wamā
+10	30:28:14	w	لَهُم		لهم	for them	lahum
+10	30:28:15	w	مِّن		من	any	min
+10	30:28:16	w	نَّٰصِرِينَ࣌		نصرين	helpers	nāṣirīna
+10	30:28:17	e	۝٢٨				
+10	30:29:1	w	۞ فَأَقِمْ		فاقم	So set	fa-aqim
+11	30:29:2	w	وَجْهَكَ		وجهك	your face	wajhaka
+11	30:29:3	w	لِلدِّينِ		للدين	to the religion	lilddīni
+11	30:29:4	w	حَنِيفاࣰ		حنيفا	upright	ḥanīfan
+11	30:29:5	w	فِطْرَتَ		فطرت	Nature	fiṭ'rata
+11	30:29:6	w	ࡰ۬للَّهِ		الله	(made by) Allah	l-lahi
+11	30:29:7	w	ࡴ۬لتِے		التي	(upon) which	allatī
+11	30:29:8	w	فَطَرَ		فطر	He has created	faṭara
+11	30:29:9	w	ࡰ۬لنَّاسَ		الناس	mankind	l-nāsa
+11	30:29:10	w	عَلَيْهَا		عليها	[on it]	ʿalayhā
+12	30:29:11	w	لَا		لا	No	lā
+12	30:29:12	w	تَبْدِيلَ		تبديل	change	tabdīla
+12	30:29:13	w	لِخَلْقِ		لخلق	(should there be) in the creation	likhalqi
+12	30:29:14	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+12	30:29:15	w	ذَٰلِكَ		ذلك	That	dhālika
+12	30:29:16	w	ࡰ۬لدِّينُ		الدين	(is) the religion	l-dīnu
+12	30:29:17	w	ࡲ۬لْقَيِّمُ		القيم	the correct	l-qayimu
+12	30:29:18	w	وَلَٰكِنَّ		ولكن	but	walākinna
+12	30:29:19	w	أَكْثَرَ		اكثر	most	akthara
+13	30:29:20	w	ࡰ۬لنَّاسِ		الناس	men	l-nāsi
+13	30:29:21	w	لَا		لا	(do) not	lā
+13	30:29:22	w	يَعْلَمُونَ		يعلمون	know	yaʿlamūna
+13	30:29:23	e	۝٢٩				
+13	30:30:1	w	مُنِيبِينَ		منيبين	Turning	munībīna
+13	30:30:2	w	إِلَيْهِ		اليه	to Him	ilayhi
+13	30:30:3	w	وَاتَّقُوهُ		واتقوه	and fear Him	wa-ittaqūhu
+13	30:30:4	w	وَأَقِيمُواْ		واقيموا	and establish	wa-aqīmū
+14	30:30:5	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+14	30:30:6	w	وَلَا		ولا	and (do) not	walā
+14	30:30:7	w	تَكُونُواْ		تكونوا	be	takūnū
+14	30:30:8	w	مِنَ		من	of	mina
+14	30:30:9	w	ࡰ۬لْمُشْرِكِينَ		المشركين	the polytheists	l-mush'rikīna
+14	30:30:10	e	۝٣٠				
+14	30:31:1	w	مِنَ		من	Of	mina
+14	30:31:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+14	30:31:3	w	فَرَّقُواْ		فرقوا	divide	farraqū
+15	30:31:4	w	دِينَهُمْ		دينهم	their religion	dīnahum
+15	30:31:5	w	وَكَانُواْ		وكانوا	and become	wakānū
+15	30:31:6	w	شِيَعاࣰ࣌		شيعا	sects	shiyaʿan
+15	30:31:7	w	كُلُّ		كل	each	kullu
+15	30:31:8	w	حِزْبِۢ		حزب	party	ḥiz'bin
+15	30:31:9	w	بِمَا		بما	in what	bimā
+15	30:31:10	w	لَدَيْهِمْ		لديهم	they have	ladayhim
+15	30:31:11	w	فَرِحُونَ࣌		فرحون	rejoicing	fariḥūna
+15	30:31:12	e	۝٣١				

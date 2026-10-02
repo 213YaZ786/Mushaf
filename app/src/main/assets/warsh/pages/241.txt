@@ -1,0 +1,153 @@
+1	12:44:1	w	قَالُوٓاْ		قالوا	They said	qālū
+1	12:44:2	w	أَضْغَٰثُ		اضغث	Confused	aḍghāthu
+1	12:44:3	w	أَحْلَٰمࣲ࣌		احلم	dreams	aḥlāmin
+1	12:44:4	w	وَمَا		وما	and not	wamā
+1	12:44:5	w	نَحْنُ		نحن	we	naḥnu
+1	12:44:6	w	بِتَاوِيلِ		بتاويل	(are) in the interpretation	bitawīli
+1	12:44:7	w	ࡴ۬لَاحْلَٰمِ		الاحلم	(of) the dreams	l-aḥlāmi
+1	12:44:8	w	بِعَٰلِمِينَ࣌		بعلمين	learned	biʿālimīna
+1	12:44:9	e	۝٤٤				
+2	12:45:1	w	وَقَالَ		وقال	But said	waqāla
+2	12:45:2	w	ࡰ۬لذِے		الذي	the one who	alladhī
+2	12:45:3	w	نَجَا		نجا	was saved	najā
+2	12:45:4	w	مِنْهُمَا		منهما	of the two	min'humā
+2	12:45:5	w	وَادَّكَرَ		وادكر	and remembered	wa-iddakara
+2	12:45:6	w	بَعْدَ		بعد	after	baʿda
+2	12:45:7	w	أُمَّةٍ		امة	a period	ummatin
+2	12:45:8	w	ࡰنَآ		انا	I	anā
+2	12:45:9	w	أُنَبِّئُكُم		انبيكم	[I] will inform you	unabbi-ukum
+3	12:45:10	w	بِتَاوِيلِهِۦ		بتاويلهي	of its interpretation	bitawīlihi
+3	12:45:11	w	فَأَرْسِلُونِ࣌		فارسلون	so send me forth	fa-arsilūni
+3	12:45:12	e	۝٤٥				
+3	12:46:1	w	يُوسُفُ		يوسف	Yusuf	yūsufu
+3	12:46:2	w	أَيُّهَا		ايها	O	ayyuhā
+3	12:46:3	w	ࡰ۬لصِّدِّيقُ		الصديق	the truthful one	l-ṣidīqu
+3	12:46:4	w	أَفْتِنَا		افتنا	Explain to us	aftinā
+3	12:46:5	w	فِے		في	about	fī
+3	12:46:6	w	سَبْعِ		سبع	(the) seven	sabʿi
+4	12:46:7	w	بَقَرَٰتࣲ		بقرت	cows	baqarātin
+4	12:46:8	w	سِمَانࣲ		سمان	fat	simānin
+4	12:46:9	w	يَاكُلُهُنَّ		ياكلهن	eating them	yakuluhunna
+4	12:46:10	w	سَبْعٌ		سبع	seven	sabʿun
+4	12:46:11	w	عِجَافࣱ		عجاف	lean ones	ʿijāfun
+4	12:46:12	w	وَسَبْعِ		وسبع	and seven	wasabʿi
+4	12:46:13	w	سُنۢبُلَٰتٍ		سنبلت	ears (of corn)	sunbulātin
+4	12:46:14	w	خُضْرࣲ		خضر	green	khuḍ'rin
+5	12:46:15	w	وَأُخَرَ		واخر	and other	wa-ukhara
+5	12:46:16	w	يَابِسَٰتࣲ		يابست	dry	yābisātin
+5	12:46:17	w	لَّعَلِّيَ		لعلي	that I may	laʿallī
+5	12:46:18	w	أَرْجِعُ		ارجع	return	arjiʿu
+5	12:46:19	w	إِلَى		الي	to	ilā
+5	12:46:20	w	ࡰ۬لنَّاسِ		الناس	the people	l-nāsi
+5	12:46:21	w	لَعَلَّهُمْ		لعلهم	so that they may	laʿallahum
+5	12:46:22	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+5	12:46:23	e	۝٤٦				
+5	12:47:1	w	قَالَ		قال	He said	qāla
+6	12:47:2	w	تَزْرَعُونَ		تزرعون	You will sow	tazraʿūna
+6	12:47:3	w	سَبْعَ		سبع	(for) seven	sabʿa
+6	12:47:4	w	سِنِينَ		سنين	years	sinīna
+6	12:47:5	w	دَأْباࣰ࣌		دابا	as usual	da-aban
+6	12:47:6	w	فَمَا		فما	and that which	famā
+6	12:47:7	w	حَصَدتُّمْ		حصدتم	you reap	ḥaṣadttum
+6	12:47:8	w	فَذَرُوهُ		فذروه	so leave it	fadharūhu
+6	12:47:9	w	فِے		في	in	fī
+6	12:47:10	w	سُنۢبُلِهِۦٓ		سنبلهي	its ears	sunbulihi
+6	12:47:11	w	إِلَّا		الا	except	illā
+7	12:47:12	w	قَلِيلاࣰ		قليلا	a little	qalīlan
+7	12:47:13	w	مِّمَّا		مما	from which	mimmā
+7	12:47:14	w	تَاكُلُونَ࣌		تاكلون	you (will) eat	takulūna
+7	12:47:15	e	۝٤٧				
+7	12:48:1	w	ثُمَّ		ثم	Then	thumma
+7	12:48:2	w	يَاتِے		ياتي	will come	yatī
+7	12:48:3	w	مِنۢ		من	after	min
+7	12:48:4	w	بَعْدِ		بعد	after	baʿdi
+7	12:48:5	w	ذَٰلِكَ		ذلك	that	dhālika
+7	12:48:6	w	سَبْعࣱ		سبع	seven	sabʿun
+7	12:48:7	w	شِدَادࣱ		شداد	hard (years)	shidādun
+8	12:48:8	w	يَاكُلْنَ		ياكلن	(which will) consume	yakul'na
+8	12:48:9	w	مَا		ما	what	mā
+8	12:48:10	w	قَدَّمْتُمْ		قدمتم	you advanced	qaddamtum
+8	12:48:11	w	لَهُنَّ		لهن	for them	lahunna
+8	12:48:12	w	إِلَّا		الا	except	illā
+8	12:48:13	w	قَلِيلاࣰ		قليلا	a little	qalīlan
+8	12:48:14	w	مِّمَّا		مما	of what	mimmā
+8	12:48:15	w	تُحْصِنُونَ࣌		تحصنون	you (will) store	tuḥ'ṣinūna
+8	12:48:16	e	۝٤٨				
+8	12:49:1	w	ثُمَّ		ثم	Then	thumma
+8	12:49:2	w	يَاتِے		ياتي	will come	yatī
+8	12:49:3	w	مِنۢ		من	after	min
+8	12:49:4	w	بَعْدِ		بعد	after	baʿdi
+9	12:49:5	w	ذَٰلِكَ		ذلك	that	dhālika
+9	12:49:6	w	عَامࣱ		عام	a year	ʿāmun
+9	12:49:7	w	فِيهِ		فيه	in it	fīhi
+9	12:49:8	w	يُغَاثُ		يغاث	will be given abundant rain	yughāthu
+9	12:49:9	w	ࡲ۬لنَّاسُ		الناس	the people	l-nāsu
+9	12:49:10	w	وَفِيهِ		وفيه	and in it	wafīhi
+9	12:49:11	w	يَعْصِرُونَ࣌		يعصرون	they will press	yaʿṣirūna
+9	12:49:12	e	۝٤٩				
+9	12:50:1	w	وَقَالَ		وقال	And said	waqāla
+9	12:50:2	w	ࡰ۬لْمَلِكُ		الملك	the king	l-maliku
+10	12:50:3	w	ࡲٜيتُونِے		ايتوني	Bring him to me	i'tūnī
+10	12:50:4	w	بِهِۦ࣌		بهي	Bring him to me	bihi
+10	12:50:5	w	فَلَمَّا		فلما	But when	falammā
+10	12:50:6	w	جَآءَهُ		جاه	came to him	jāahu
+10	12:50:7	w	ࡲ۬لرَّسُولُ		الرسول	the messenger	l-rasūlu
+10	12:50:8	w	قَالَ		قال	he said	qāla
+10	12:50:9	w	ࡰٜرْجِعِ		ارجع	Return	ir'jiʿ
+10	12:50:10	w	ࡴلَىٰ		الي	to	ilā
+10	12:50:11	w	رَبِّكَ		ربك	your lord	rabbika
+10	12:50:12	w	فَسْـَٔلْهُ		فسله	and ask him	fasalhu
+11	12:50:13	w	مَا		ما	what	mā
+11	12:50:14	w	بَالُ		بال	(is the) case	bālu
+11	12:50:15	w	ࡲ۬لنِّسْوَةِ		النسوة	(of) the women	l-nis'wati
+11	12:50:16	w	ࡴ۬لتِے		التي	who	allātī
+11	12:50:17	w	قَطَّعْنَ		قطعن	cut	qaṭṭaʿna
+11	12:50:18	w	أَيْدِيَهُنَّ࣌		ايديهن	their hands	aydiyahunna
+11	12:50:19	w	إِنَّ		ان	Indeed	inna
+11	12:50:20	w	رَبِّے		ربي	my Lord	rabbī
+11	12:50:21	w	بِكَيْدِهِنَّ		بكيدهن	of their plot	bikaydihinna
+11	12:50:22	w	عَلِيمࣱ࣌		عليم	(is) All-Knower	ʿalīmun
+11	12:50:23	e	۝٥٠				
+12	12:51:1	w	قَالَ		قال	He said	qāla
+12	12:51:2	w	مَا		ما	What	mā
+12	12:51:3	w	خَطْبُكُنَّ		خطبكن	(was) your affair	khaṭbukunna
+12	12:51:4	w	إِذْ		اذ	when	idh
+12	12:51:5	w	رَٰوَدتُّنَّ		رودتن	you sought to seduce	rāwadttunna
+12	12:51:6	w	يُوسُفَ		يوسف	Yusuf	yūsufa
+12	12:51:7	w	عَن		عن	from	ʿan
+12	12:51:8	w	نَّفْسِهِۦ࣌		نفسهي	himself	nafsihi
+12	12:51:9	w	قُلْنَ		قلن	They said	qul'na
+12	12:51:10	w	حَٰشَ		حش	Allah forbid	ḥāsha
+12	12:51:11	w	لِلهِ		لله	Allah forbid	lillahi
+13	12:51:12	w	مَا		ما	Not	mā
+13	12:51:13	w	عَلِمْنَا		علمنا	we know	ʿalim'nā
+13	12:51:14	w	عَلَيْهِ		عليه	about him	ʿalayhi
+13	12:51:15	w	مِن		من	any	min
+13	12:51:16	w	سُوٓءࣲ࣌		سو	evil	sūin
+13	12:51:17	w	قَالَتِ		قالت	Said	qālati
+13	12:51:18	w	ࡴٜمْرَأَتُ		امرات	(the) wife	im'ra-atu
+13	12:51:19	w	ࡲ۬لْعَزِيزِ		العزيز	(of) Aziz	l-ʿazīzi
+13	12:51:20	w	ࡴ۬لَٰنَ		الن	Now	l-āna
+13	12:51:21	w	حَصْحَصَ		حصحص	(is) manifest	ḥaṣḥaṣa
+13	12:51:22	w	ࡰ۬لْحَقُّ		الحق	the truth	l-ḥaqu
+14	12:51:23	w	أَنَا		انا	I	anā
+14	12:51:24	w	رَٰوَدتُّهُۥ		رودته	sought to seduce him	rāwadttuhu
+14	12:51:25	w	عَن		عن	from	ʿan
+14	12:51:26	w	نَّفْسِهِۦ		نفسهي	himself	nafsihi
+14	12:51:27	w	وَإِنَّهُۥ		وانه	and indeed, he	wa-innahu
+14	12:51:28	w	لَمِنَ		لمن	(is) surely of	lamina
+14	12:51:29	w	ࡰ۬لصَّٰدِقِينَ࣌		الصدقين	the truthful	l-ṣādiqīna
+14	12:51:30	e	۝٥١				
+14	12:52:1	w	ذَٰلِكَ		ذلك	That	dhālika
+14	12:52:2	w	لِيَعْلَمَ		ليعلم	he may know	liyaʿlama
+15	12:52:3	w	أَنِّے		اني	that I	annī
+15	12:52:4	w	لَمَ		لم	not	lam
+15	12:52:5	w	ࡰخُنْهُ		اخنه	[I] betray him	akhun'hu
+15	12:52:6	w	بِالْغَيْبِ		بالغيب	in secret	bil-ghaybi
+15	12:52:7	w	وَأَنَّ		وان	and that	wa-anna
+15	12:52:8	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	12:52:9	w	لَا		لا	(does) not	lā
+15	12:52:10	w	يَهْدِے		يهدي	guide	yahdī
+15	12:52:11	w	كَيْدَ		كيد	(the) plan	kayda
+15	12:52:12	w	ࡰ۬لْخَآئِنِينَ࣌		الخاينين	(of) the betrayers	l-khāinīna
+15	12:52:13	e	۝٥٢				

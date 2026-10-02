@@ -1,0 +1,131 @@
+1	18:16:1	w	وَإِذِ		واذ	And when	wa-idhi
+1	18:16:2	w	ࡴٜعْتَزَلْتُمُوهُمْ		اعتزلتموهم	you withdraw from them	iʿ'tazaltumūhum
+1	18:16:3	w	وَمَا		وما	and what	wamā
+1	18:16:4	w	يَعْبُدُونَ		يعبدون	they worship	yaʿbudūna
+1	18:16:5	w	إِلَّا		الا	except	illā
+1	18:16:6	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	18:16:7	w	فَأْوُۥٓاْ		فاوا	then retreat	fawū
+1	18:16:8	w	إِلَى		الي	to	ilā
+1	18:16:9	w	ࡰ۬لْكَهْفِ		الكهف	the cave	l-kahfi
+2	18:16:10	w	يَنشُرْ		ينشر	Will spread	yanshur
+2	18:16:11	w	لَكُمْ		لكم	for you	lakum
+2	18:16:12	w	رَبُّكُم		ربكم	your Lord	rabbukum
+2	18:16:13	w	مِّن		من	of	min
+2	18:16:14	w	رَّحْمَتِهِۦ		رحمتهي	His Mercy	raḥmatihi
+2	18:16:15	w	وَيُهَيِّۓْ		ويهيي	and will facilitate	wayuhayyi
+2	18:16:16	w	لَكُم		لكم	for you	lakum
+2	18:16:17	w	مِّنَ		من	[from]	min
+2	18:16:18	w	ࡰمْرِكُم		امركم	your affair	amrikum
+3	18:16:19	w	مَّرْفِقاࣰ࣌		مرفقا	(in) ease	mir'faqan
+3	18:16:20	e	۝١٦				
+3	18:17:1	w	۞ وَتَرَى		وتري	And you (might) have seen	watarā
+3	18:17:2	w	ࡰ۬لشَّمْسَ		الشمس	the sun	l-shamsa
+3	18:17:3	w	إِذَا		اذا	when	idhā
+3	18:17:4	w	طَلَعَت		طلعت	it rose	ṭalaʿat
+3	18:17:5	w	تَّزَّٰوَرُ		تزور	inclining away	tazāwaru
+3	18:17:6	w	عَن		عن	from	ʿan
+3	18:17:7	w	كَهْفِهِمْ		كهفهم	their cave	kahfihim
+3	18:17:8	w	ذَاتَ		ذات	to	dhāta
+4	18:17:9	w	ࡰ۬لْيَمِينِ		اليمين	the right	l-yamīni
+4	18:17:10	w	وَإِذَا		واذا	and when	wa-idhā
+4	18:17:11	w	غَرَبَت		غربت	it set	gharabat
+4	18:17:12	w	تَّقْرِضُهُمْ		تقرضهم	passing away from them	taqriḍuhum
+4	18:17:13	w	ذَاتَ		ذات	to	dhāta
+4	18:17:14	w	ࡰ۬لشِّمَالِ		الشمال	the left	l-shimāli
+4	18:17:15	w	وَهُمْ		وهم	while they	wahum
+4	18:17:16	w	فِے		في	(lay) in	fī
+4	18:17:17	w	فَجْوَةࣲ		فجوة	the open space	fajwatin
+5	18:17:18	w	مِّنْهُ࣌		منه	thereof	min'hu
+5	18:17:19	w	ذَٰلِكَ		ذلك	That	dhālika
+5	18:17:20	w	مِنَ		من	(was) from	min
+5	18:17:21	w	اٰيَٰتِ		ايت	(the) Signs	āyāti
+5	18:17:22	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+5	18:17:23	w	مَنْ		من	Whoever	man
+5	18:17:24	w	يَّهْدِ		يهد	Allah guides	yahdi
+5	18:17:25	w	ࡴ۬للَّهُ		الله	Allah guides	l-lahu
+5	18:17:26	w	فَهُوَ		فهو	and he	fahuwa
+5	18:17:27	w	ࡰ۬لْمُهْتَدِۦ࣌		المهتدي	(is) the guided one	l-muh'tadi
+5	18:17:28	w	وَمَنْ		ومن	and whoever	waman
+6	18:17:29	w	يُّضْلِلْ		يضلل	He lets go astray	yuḍ'lil
+6	18:17:30	w	فَلَن		فلن	then never	falan
+6	18:17:31	w	تَجِدَ		تجد	you will find	tajida
+6	18:17:32	w	لَهُۥ		له	for him	lahu
+6	18:17:33	w	وَلِيّاࣰ		وليا	a protector	waliyyan
+6	18:17:34	w	مُّرْشِداࣰ࣌		مرشدا	a guide	mur'shidan
+6	18:17:35	e	۝١٧				
+6	18:18:1	w	وَتَحْسِبُهُمُۥٓ		وتحسبهم	And you (would) think them	wataḥsabuhum
+6	18:18:2	w	أَيْقَاظاࣰ		ايقاظا	awake	ayqāẓan
+7	18:18:3	w	وَهُمْ		وهم	while they	wahum
+7	18:18:4	w	رُقُودࣱ࣌		رقود	(were) asleep	ruqūdun
+7	18:18:5	w	وَنُقَلِّبُهُمْ		ونقلبهم	And We turned them	wanuqallibuhum
+7	18:18:6	w	ذَاتَ		ذات	to	dhāta
+7	18:18:7	w	ࡰ۬لْيَمِينِ		اليمين	the right	l-yamīni
+7	18:18:8	w	وَذَاتَ		وذات	and to	wadhāta
+7	18:18:9	w	ࡰ۬لشِّمَالِ		الشمال	the left	l-shimāli
+7	18:18:10	w	وَكَلْبُهُم		وكلبهم	while their dog	wakalbuhum
+8	18:18:11	w	بَٰسِطࣱ		بسط	stretched	bāsiṭun
+8	18:18:12	w	ذِرَاعَيْهِ		ذراعيه	his two forelegs	dhirāʿayhi
+8	18:18:13	w	بِالْوَصِيدِ࣌		بالوصيد	at the entrance	bil-waṣīdi
+8	18:18:14	w	لَوِ		لو	If	lawi
+8	18:18:15	w	ࡴٜطَّلَعْتَ		اطلعت	you had looked	iṭṭalaʿta
+8	18:18:16	w	عَلَيْهِمْ		عليهم	at them	ʿalayhim
+8	18:18:17	w	لَوَلَّيْتَ		لوليت	you (would) have surely turned back	lawallayta
+8	18:18:18	w	مِنْهُمْ		منهم	from them	min'hum
+9	18:18:19	w	فِرَاراࣰ		فرارا	(in) flight	firāran
+9	18:18:20	w	وَلَمُلِّئْتَ		ولمليت	and surely you would have been filled	walamuli'ta
+9	18:18:21	w	مِنْهُمْ		منهم	by them	min'hum
+9	18:18:22	w	رُعْباࣰ࣌		رعبا	(with) terror	ruʿ'ban
+9	18:18:23	e	۝١٨				
+9	18:19:1	w	وَكَذَٰلِكَ		وكذلك	And similarly	wakadhālika
+9	18:19:2	w	بَعَثْنَٰهُمْ		بعثنهم	We raised them	baʿathnāhum
+10	18:19:3	w	لِيَتَسَآءَلُواْ		ليتسالوا	that they might question	liyatasāalū
+10	18:19:4	w	بَيْنَهُمْ࣌		بينهم	among them	baynahum
+10	18:19:5	w	قَالَ		قال	Said	qāla
+10	18:19:6	w	قَآئِلࣱ		قايل	a speaker	qāilun
+10	18:19:7	w	مِّنْهُمْ		منهم	among them	min'hum
+10	18:19:8	w	كَمْ		كم	How long	kam
+10	18:19:9	w	لَبِثْتُمْ࣌		لبثتم	have you remained	labith'tum
+10	18:19:10	w	قَالُواْ		قالوا	They said	qālū
+10	18:19:11	w	لَبِثْنَا		لبثنا	We have remained	labith'nā
+11	18:19:12	w	يَوْماً		يوما	a day	yawman
+11	18:19:13	w	ࡰوْ		او	or	aw
+11	18:19:14	w	بَعْضَ		بعض	a part	baʿḍa
+11	18:19:15	w	يَوْمࣲ࣌		يوم	(of) a day	yawmin
+11	18:19:16	w	قَالُواْ		قالوا	They said	qālū
+11	18:19:17	w	رَبُّكُمُۥٓ		ربكم	Your Lord	rabbukum
+11	18:19:18	w	أَعْلَمُ		اعلم	knows best	aʿlamu
+11	18:19:19	w	بِمَا		بما	how long	bimā
+11	18:19:20	w	لَبِثْتُمْ		لبثتم	you have remained	labith'tum
+11	18:19:21	w	فَابْعَثُوٓاْ		فابعثوا	So send	fa-ib'ʿathū
+12	18:19:22	w	أَحَدَكُم		احدكم	one of you	aḥadakum
+12	18:19:23	w	بِوَرِقِكُمْ		بورقكم	with this silver coin of yours	biwariqikum
+12	18:19:24	w	هَٰذِهِۦٓ		هذهي	with this silver coin of yours	hādhihi
+12	18:19:25	w	إِلَى		الي	to	ilā
+12	18:19:26	w	ࡰ۬لْمَدِينَةِ		المدينة	the city	l-madīnati
+12	18:19:27	w	فَلْيَنظُرَ		فلينظر	and let him see	falyanẓur
+12	18:19:28	w	ࡰيُّهَآ		ايها	which is	ayyuhā
+12	18:19:29	w	أَزْكٜىٰ		ازكي	the purest	azkā
+13	18:19:30	w	طَعَاماࣰ		طعاما	food	ṭaʿāman
+13	18:19:31	w	فَلْيَاتِكُم		فلياتكم	and let him bring to you	falyatikum
+13	18:19:32	w	بِرِزْقࣲ		برزق	provision	biriz'qin
+13	18:19:33	w	مِّنْهُ		منه	from it	min'hu
+13	18:19:34	w	وَلْيَتَلَطَّفْ࣌		وليتلطف	and let him be cautious	walyatalaṭṭaf
+13	18:19:35	w	وَلَا		ولا	And let not be aware	walā
+13	18:19:36	w	يُشْعِرَنَّ		يشعرن	And let not be aware	yush'ʿiranna
+14	18:19:37	w	بِكُمُۥٓ		بكم	about you	bikum
+14	18:19:38	w	أَحَداً࣌		احدا	anyone	aḥadan
+14	18:19:39	e	۝١٩				
+14	18:20:1	w	ࡴنَّهُمُۥٓ		انهم	Indeed, [they]	innahum
+14	18:20:2	w	إِنْ		ان	if	in
+14	18:20:3	w	يَّظْهَرُواْ		يظهروا	they come to know	yaẓharū
+14	18:20:4	w	عَلَيْكُمْ		عليكم	about you	ʿalaykum
+14	18:20:5	w	يَرْجُمُوكُمُۥٓ		يرجموكم	they will stone you	yarjumūkum
+15	18:20:6	w	أَوْ		او	or	aw
+15	18:20:7	w	يُعِيدُوكُمْ		يعيدوكم	return you	yuʿīdūkum
+15	18:20:8	w	فِے		في	to	fī
+15	18:20:9	w	مِلَّتِهِمْ		ملتهم	their religion	millatihim
+15	18:20:10	w	وَلَن		ولن	And never	walan
+15	18:20:11	w	تُفْلِحُوٓاْ		تفلحوا	will you succeed	tuf'liḥū
+15	18:20:12	w	إِذاً		اذا	then	idhan
+15	18:20:13	w	ࡰبَداࣰ࣌		ابدا	ever	abadan
+15	18:20:14	e	۝٢٠				

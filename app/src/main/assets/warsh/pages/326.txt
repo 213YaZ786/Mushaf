@@ -1,0 +1,138 @@
+1	21:45:1	w	قُلِ		قل	Say	qul
+1	21:45:2	w	ࡴنَّمَآ		انما	Only	innamā
+1	21:45:3	w	أُنذِرُكُم		انذركم	I warn you	undhirukum
+1	21:45:4	w	بِالْوَحْيِ࣌		بالوحي	by the revelation	bil-waḥyi
+1	21:45:5	w	وَلَا		ولا	But not	walā
+1	21:45:6	w	يَسْمَعُ		يسمع	hear	yasmaʿu
+1	21:45:7	w	ࡲ۬لصُّمُّ		الصم	the deaf	l-ṣumu
+1	21:45:8	w	ࡲ۬لدُّعَآءَ		الدعا	the call	l-duʿāa
+1	21:45:9	w	ࡹذَا		اذا	when	idhā
+2	21:45:10	w	مَا		ما	when	mā
+2	21:45:11	w	يُنذَرُونَ࣌		ينذرون	they are warned	yundharūna
+2	21:45:12	e	۝٤٥				
+2	21:46:1	w	وَلَئِن		ولين	And if	wala-in
+2	21:46:2	w	مَّسَّتْهُمْ		مستهم	touches them	massathum
+2	21:46:3	w	نَفْحَةࣱ		نفحة	a whiff	nafḥatun
+2	21:46:4	w	مِّنْ		من	of	min
+2	21:46:5	w	عَذَابِ		عذاب	(the) punishment	ʿadhābi
+2	21:46:6	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+3	21:46:7	w	لَيَقُولُنَّ		ليقولن	surely they will say	layaqūlunna
+3	21:46:8	w	يَٰوَيْلَنَآ		يويلنا	O woe to us	yāwaylanā
+3	21:46:9	w	إِنَّا		انا	Indeed, we	innā
+3	21:46:10	w	كُنَّا		كنا	[we] were	kunnā
+3	21:46:11	w	ظَٰلِمِينَ࣌		ظلمين	wrongdoers	ẓālimīna
+3	21:46:12	e	۝٤٦				
+3	21:47:1	w	وَنَضَعُ		ونضع	And We set	wanaḍaʿu
+3	21:47:2	w	ࡲ۬لْمَوَٰزِينَ		الموزين	the scales	l-mawāzīna
+4	21:47:3	w	ࡰ۬لْقِسْطَ		القسط	(of) the justice	l-qis'ṭa
+4	21:47:4	w	لِيَوْمِ		ليوم	for (the) Day	liyawmi
+4	21:47:5	w	ࡴ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+4	21:47:6	w	فَلَا		فلا	so not	falā
+4	21:47:7	w	تُظْلَمُ		تظلم	will be wronged	tuẓ'lamu
+4	21:47:8	w	نَفْسࣱ		نفس	any soul	nafsun
+4	21:47:9	w	شَيْـٔاࣰ࣌		شيا	(in) anything	shayan
+4	21:47:10	w	وَإِن		وان	And if	wa-in
+4	21:47:11	w	كَانَ		كان	(there) be	kāna
+5	21:47:12	w	مِثْقَالُ		مثقال	weight	mith'qāla
+5	21:47:13	w	حَبَّةࣲ		حبة	(of) a seed	ḥabbatin
+5	21:47:14	w	مِّنْ		من	of	min
+5	21:47:15	w	خَرْدَلٍ		خردل	a mustard	khardalin
+5	21:47:16	w	ࡰتَيْنَا		اتينا	We will bring	ataynā
+5	21:47:17	w	بِهَا		بها	[with] it	bihā
+5	21:47:18	w	وَكَفٜىٰ		وكفي	And sufficient	wakafā
+5	21:47:19	w	بِنَا		بنا	(are) We	binā
+5	21:47:20	w	حَٰسِبِينَ࣌		حسبين	(as) Reckoners	ḥāsibīna
+5	21:47:21	e	۝٤٧				
+6	21:48:1	w	وَلَقَدَ		ولقد	And verily	walaqad
+6	21:48:2	w	اٰتَيْنَا		اتينا	We gave	ātaynā
+6	21:48:3	w	مُوسٜىٰ		موسي	Musa	mūsā
+6	21:48:4	w	وَهَٰرُونَ		وهرون	and Harun	wahārūna
+6	21:48:5	w	ࡰ۬لْفُرْقَانَ		الفرقان	the Criterion	l-fur'qāna
+6	21:48:6	w	وَضِيَآءࣰ		وضيا	and a light	waḍiyāan
+6	21:48:7	w	وَذِكْراࣰ		وذكرا	and a Reminder	wadhik'ran
+7	21:48:8	w	لِّلْمُتَّقِينَ		للمتقين	for the righteous	lil'muttaqīna
+7	21:48:9	e	۝٤٨				
+7	21:49:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+7	21:49:2	w	يَخْشَوْنَ		يخشون	fear	yakhshawna
+7	21:49:3	w	رَبَّهُم		ربهم	their Lord	rabbahum
+7	21:49:4	w	بِالْغَيْبِ		بالغيب	in the unseen	bil-ghaybi
+7	21:49:5	w	وَهُم		وهم	and they	wahum
+7	21:49:6	w	مِّنَ		من	of	mina
+7	21:49:7	w	ࡰ۬لسَّاعَةِ		الساعة	the Hour	l-sāʿati
+8	21:49:8	w	مُشْفِقُونَ࣌		مشفقون	(are) afraid	mush'fiqūna
+8	21:49:9	e	۝٤٩				
+8	21:50:1	w	وَهَٰذَا		وهذا	And this	wahādhā
+8	21:50:2	w	ذِكْرࣱ		ذكر	(is) a Reminder	dhik'run
+8	21:50:3	w	مُّبَٰرَكٌ		مبرك	blessed	mubārakun
+8	21:50:4	w	ࡰنزَلْنَٰهُ࣌		انزلنه	which We (have) revealed	anzalnāhu
+8	21:50:5	w	أَفَأَنتُمْ		افانتم	Then are you	afa-antum
+8	21:50:6	w	لَهُۥ		له	of it	lahu
+9	21:50:7	w	مُنكِرُونَ࣌		منكرون	rejecters	munkirūna
+9	21:50:8	e	۝٥٠				
+9	21:51:1	w	۞ وَلَقَدَ		ولقد	And verily	walaqad
+9	21:51:2	w	اٰتَيْنَآ		اتينا	We gave	ātaynā
+9	21:51:3	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+9	21:51:4	w	رُشْدَهُۥ		رشده	his guidance	rush'dahu
+9	21:51:5	w	مِن		من	before	min
+9	21:51:6	w	قَبْلُ		قبل	before	qablu
+9	21:51:7	w	وَكُنَّا		وكنا	and We were	wakunnā
+10	21:51:8	w	بِهِۦ		بهي	about him	bihi
+10	21:51:9	w	عَٰلِمِينَ࣌		علمين	Well-Knowing	ʿālimīna
+10	21:51:10	e	۝٥١				
+10	21:52:1	w	إِذْ		اذ	When	idh
+10	21:52:2	w	قَالَ		قال	he said	qāla
+10	21:52:3	w	لِأَبِيهِ		لابيه	to his father	li-abīhi
+10	21:52:4	w	وَقَوْمِهِۦ		وقومهي	and his people	waqawmihi
+10	21:52:5	w	مَا		ما	What	mā
+10	21:52:6	w	هَٰذِهِ		هذه	(are) these	hādhihi
+10	21:52:7	w	ࡴ۬لتَّمَاثِيلُ		التماثيل	[the] statues	l-tamāthīlu
+10	21:52:8	w	ࡲ۬لتِےٓ		التي	which	allatī
+11	21:52:9	w	أَنتُمْ		انتم	you	antum
+11	21:52:10	w	لَهَا		لها	to it	lahā
+11	21:52:11	w	عَٰكِفُونَ࣌		عكفون	(are) devoted	ʿākifūna
+11	21:52:12	e	۝٥٢				
+11	21:53:1	w	قَالُواْ		قالوا	They said	qālū
+11	21:53:2	w	وَجَدْنَآ		وجدنا	We found	wajadnā
+11	21:53:3	w	ءَابَآءَنَا		ابانا	our forefathers	ābāanā
+11	21:53:4	w	لَهَا		لها	of them	lahā
+11	21:53:5	w	عَٰبِدِينَ࣌		عبدين	worshippers	ʿābidīna
+11	21:53:6	e	۝٥٣				
+11	21:54:1	w	قَالَ		قال	He said	qāla
+12	21:54:2	w	لَقَدْ		لقد	Verily	laqad
+12	21:54:3	w	كُنتُمُۥٓ		كنتم	you are	kuntum
+12	21:54:4	w	أَنتُمْ		انتم	[you]	antum
+12	21:54:5	w	وَءَابَآؤُكُمْ		واباوكم	and your forefathers	waābāukum
+12	21:54:6	w	فِے		في	(were) in	fī
+12	21:54:7	w	ضَلَٰلࣲ		ضلل	an error	ḍalālin
+12	21:54:8	w	مُّبِينࣲ࣌		مبين	manifest	mubīnin
+12	21:54:9	e	۝٥٤				
+12	21:55:1	w	قَالُوٓاْ		قالوا	They said	qālū
+12	21:55:2	w	أَجِئْتَنَا		اجيتنا	Have you come to us	aji'tanā
+13	21:55:3	w	بِالْحَقِّ		بالحق	with the truth	bil-ḥaqi
+13	21:55:4	w	أَمَ		ام	or	am
+13	21:55:5	w	ࡰنتَ		انت	you	anta
+13	21:55:6	w	مِنَ		من	(are) of	mina
+13	21:55:7	w	ࡰ۬للَّٰعِبِينَ࣌		اللعبين	those who play	l-lāʿibīna
+13	21:55:8	e	۝٥٥				
+13	21:56:1	w	قَالَ		قال	He said	qāla
+13	21:56:2	w	بَل		بل	Nay	bal
+13	21:56:3	w	رَّبُّكُمْ		ربكم	your Lord	rabbukum
+13	21:56:4	w	رَبُّ		رب	(is the) Lord	rabbu
+13	21:56:5	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+14	21:56:6	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+14	21:56:7	w	ࡴ۬لذِے		الذي	the One Who	alladhī
+14	21:56:8	w	فَطَرَهُنَّ࣌		فطرهن	created them	faṭarahunna
+14	21:56:9	w	وَأَنَا		وانا	and I am	wa-anā
+14	21:56:10	w	عَلَىٰ		علي	to	ʿalā
+14	21:56:11	w	ذَٰلِكُم		ذلكم	that	dhālikum
+14	21:56:12	w	مِّنَ		من	of	mina
+14	21:56:13	w	ࡰ۬لشَّٰهِدِينَ࣌		الشهدين	the witnesses	l-shāhidīna
+14	21:56:14	e	۝٥٦				
+15	21:57:1	w	وَتَاللَّهِ		وتالله	And by Allah	watal-lahi
+15	21:57:2	w	لَأَكِيدَنَّ		لاكيدن	surely, I will plan	la-akīdanna
+15	21:57:3	w	أَصْنَٰمَكُم		اصنمكم	(against) your idols	aṣnāmakum
+15	21:57:4	w	بَعْدَ		بعد	after	baʿda
+15	21:57:5	w	أَن		ان	[that]	an
+15	21:57:6	w	تُوَلُّواْ		تولوا	you go away	tuwallū
+15	21:57:7	w	مُدْبِرِينَ࣌		مدبرين	turning (your) backs	mud'birīna
+15	21:57:8	e	۝٥٧				

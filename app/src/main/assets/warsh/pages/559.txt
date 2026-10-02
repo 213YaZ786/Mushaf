@@ -1,0 +1,160 @@
+1	65:6:1	w	ࡰسْكِنُوهُنَّ		اسكنوهن	Lodge them	askinūhunna
+1	65:6:2	w	مِنْ		من	from	min
+1	65:6:3	w	حَيْثُ		حيث	where	ḥaythu
+1	65:6:4	w	سَكَنتُم		سكنتم	you dwell	sakantum
+1	65:6:5	w	مِّنْ		من	(out) of	min
+1	65:6:6	w	وُّجْدِكُمْ࣌		وجدكم	your means	wuj'dikum
+1	65:6:7	w	وَلَا		ولا	and (do) not	walā
+1	65:6:8	w	تُضَآرُّوهُنَّ		تضاروهن	harm them	tuḍārrūhunna
+1	65:6:9	w	لِتُضَيِّقُواْ		لتضيقوا	to distress	lituḍayyiqū
+2	65:6:10	w	عَلَيْهِنَّ࣌		عليهن	[on] them	ʿalayhinna
+2	65:6:11	w	وَإِن		وان	And if	wa-in
+2	65:6:12	w	كُنَّ		كن	they are	kunna
+2	65:6:13	w	أُوْلَٰتِ		اولت	those (who are)	ulāti
+2	65:6:14	w	حَمْلࣲ		حمل	pregnant	ḥamlin
+2	65:6:15	w	فَأَنفِقُواْ		فانفقوا	then spend	fa-anfiqū
+2	65:6:16	w	عَلَيْهِنَّ		عليهن	on them	ʿalayhinna
+2	65:6:17	w	حَتَّىٰ		حتي	until	ḥattā
+2	65:6:18	w	يَضَعْنَ		يضعن	they deliver	yaḍaʿna
+2	65:6:19	w	حَمْلَهُنَّ࣌		حملهن	their burden	ḥamlahunna
+2	65:6:20	w	فَإِنَ		فان	Then if	fa-in
+3	65:6:21	w	ࡰرْضَعْنَ		ارضعن	they suckle	arḍaʿna
+3	65:6:22	w	لَكُمْ		لكم	for you	lakum
+3	65:6:23	w	فَـَٔاتُوهُنَّ		فاتوهن	then give them	faātūhunna
+3	65:6:24	w	أُجُورَهُنَّ		اجورهن	their payment	ujūrahunna
+3	65:6:25	w	وَاتَمِرُواْ		واتمروا	and consult	watamirū
+3	65:6:26	w	بَيْنَكُم		بينكم	among yourselves	baynakum
+3	65:6:27	w	بِمَعْرُوفࣲ࣌		بمعروف	with kindness	bimaʿrūfin
+3	65:6:28	w	۞ وَإِن		وان	but if	wa-in
+4	65:6:29	w	تَعَاسَرْتُمْ		تعاسرتم	you disagree	taʿāsartum
+4	65:6:30	w	فَسَتُرْضِعُ		فسترضع	then may suckle	fasatur'ḍiʿu
+4	65:6:31	w	لَهُۥٓ		له	for him	lahu
+4	65:6:32	w	أُخْرٜىٰ࣌		اخري	another (women)	ukh'rā
+4	65:6:33	e	۝٦				
+4	65:7:1	w	لِيُنفِقْ		لينفق	Let spend	liyunfiq
+4	65:7:2	w	ذُو		ذو	owner	dhū
+4	65:7:3	w	سَعَةࣲ		سعة	(of) ample means	saʿatin
+4	65:7:4	w	مِّن		من	from	min
+4	65:7:5	w	سَعَتِهِۦ࣌		سعتهي	his ample means	saʿatihi
+4	65:7:6	w	وَمَن		ومن	and (he) who	waman
+5	65:7:7	w	قُدِرَ		قدر	is restricted	qudira
+5	65:7:8	w	عَلَيْهِ		عليه	on him	ʿalayhi
+5	65:7:9	w	رِزْقُهُۥ		رزقه	his provision	riz'quhu
+5	65:7:10	w	فَلْيُنفِقْ		فلينفق	let him spend	falyunfiq
+5	65:7:11	w	مِمَّآ		مما	from what	mimmā
+5	65:7:12	w	ءَاتٜيٰهُ		اتيه	he has been given	ātāhu
+5	65:7:13	w	ࡲ۬للَّهُ࣌		الله	(by) Allah	l-lahu
+5	65:7:14	w	لَا		لا	Does not	lā
+5	65:7:15	w	يُكَلِّفُ		يكلف	burden	yukallifu
+5	65:7:16	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+5	65:7:17	w	نَفْساً		نفسا	any soul	nafsan
+5	65:7:18	w	ࡴلَّا		الا	except	illā
+6	65:7:19	w	مَآ		ما	(with) what	mā
+6	65:7:20	w	ءَاتٜيٰهَا࣌		اتيها	He has given it	ātāhā
+6	65:7:21	w	سَيَجْعَلُ		سيجعل	Will bring about	sayajʿalu
+6	65:7:22	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+6	65:7:23	w	بَعْدَ		بعد	after	baʿda
+6	65:7:24	w	عُسْرࣲ		عسر	hardship	ʿus'rin
+6	65:7:25	w	يُسْراࣰ࣌		يسرا	ease	yus'ran
+6	65:7:26	e	۝٧				
+6	65:8:1	w	وَكَأَيِّن		وكاين	And how many	waka-ayyin
+6	65:8:2	w	مِّن		من	of	min
+6	65:8:3	w	قَرْيَةٍ		قرية	a town	qaryatin
+6	65:8:4	w	عَتَتْ		عتت	rebelled	ʿatat
+7	65:8:5	w	عَنَ		عن	against	ʿan
+7	65:8:6	w	ࡰمْرِ		امر	(the) Command	amri
+7	65:8:7	w	رَبِّهَا		ربها	(of) its Lord	rabbihā
+7	65:8:8	w	وَرُسُلِهِۦ		ورسلهي	and His Messengers	warusulihi
+7	65:8:9	w	فَحَاسَبْنَٰهَا		فحاسبنها	so We took it to account	faḥāsabnāhā
+7	65:8:10	w	حِسَاباࣰ		حسابا	an account	ḥisāban
+7	65:8:11	w	شَدِيداࣰ		شديدا	severe	shadīdan
+7	65:8:12	w	وَعَذَّبْنَٰهَا		وعذبنها	and We punished it	waʿadhabnāhā
+7	65:8:13	w	عَذَاباࣰ		عذابا	a punishment	ʿadhāban
+8	65:8:14	w	نُّكُراࣰ		نكرا	terrible	nuk'ran
+8	65:8:15	e	۝٨				
+8	65:9:1	w	فَذَاقَتْ		فذاقت	So it tasted	fadhāqat
+8	65:9:2	w	وَبَالَ		وبال	(the bad) consequence	wabāla
+8	65:9:3	w	أَمْرِهَا࣌		امرها	(of) its affair	amrihā
+8	65:9:4	w	وَكَانَ		وكان	and was	wakāna
+8	65:9:5	w	عَٰقِبَةُ		عقبة	(the) end	ʿāqibatu
+8	65:9:6	w	أَمْرِهَا		امرها	(of) its affair	amrihā
+8	65:9:7	w	خُسْراً࣌		خسرا	loss	khus'ran
+8	65:9:8	e	۝٩				
+8	65:10:1	w	ࡰعَدَّ		اعد	Has prepared	aʿadda
+8	65:10:2	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+9	65:10:3	w	لَهُمْ		لهم	for them	lahum
+9	65:10:4	w	عَذَاباࣰ		عذابا	a punishment	ʿadhāban
+9	65:10:5	w	شَدِيداࣰ࣌		شديدا	severe	shadīdan
+9	65:10:6	w	فَاتَّقُواْ		فاتقوا	So fear	fa-ittaqū
+9	65:10:7	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+9	65:10:8	w	يَٰٓأُوْلِے		ياولي	O men	yāulī
+9	65:10:9	w	ࡴ۬لَالْبَٰبِ࣌		الالبب	(of) understanding	l-albābi
+9	65:10:10	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+9	65:10:11	w	ءَامَنُواْ		امنوا	have believed	āmanū
+9	65:10:12	w	قَدَ		قد	Indeed	qad
+9	65:10:13	w	ࡰنزَلَ		انزل	Has sent down	anzala
+10	65:10:14	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+10	65:10:15	w	إِلَيْكُمْ		اليكم	to you	ilaykum
+10	65:10:16	w	ذِكْراࣰ࣌		ذكرا	a Message	dhik'ran
+10	65:10:17	e	۝١٠				
+10	65:11:1	w	رَّسُولاࣰ		رسولا	A Messenger	rasūlan
+10	65:11:2	w	يَتْلُواْ		يتلوا	reciting	yatlū
+10	65:11:3	w	عَلَيْكُمُۥٓ		عليكم	to you	ʿalaykum
+10	65:11:4	w	ءَايَٰتِ		ايت	(the) Verses	āyāti
+10	65:11:5	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+10	65:11:6	w	مُبَيَّنَٰتࣲ		مبينت	clear	mubayyinātin
+10	65:11:7	w	لِّيُخْرِجَ		ليخرج	that he may bring out	liyukh'rija
+11	65:11:8	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	65:11:9	w	ءَامَنُواْ		امنوا	believe	āmanū
+11	65:11:10	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+11	65:11:11	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+11	65:11:12	w	مِنَ		من	from	mina
+11	65:11:13	w	ࡰ۬لظُّلُمَٰتِ		الظلمت	the darkness[es]	l-ẓulumāti
+11	65:11:14	w	إِلَى		الي	towards	ilā
+11	65:11:15	w	ࡰ۬لنُّورِ࣌		النور	the light	l-nūri
+11	65:11:16	w	وَمَنْ		ومن	And whoever	waman
+11	65:11:17	w	يُّومِنۢ		يومن	believes	yu'min
+12	65:11:18	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+12	65:11:19	w	وَيَعْمَلْ		ويعمل	and does	wayaʿmal
+12	65:11:20	w	صَٰلِحاࣰ		صلحا	righteous deeds	ṣāliḥan
+12	65:11:21	w	نُّدْخِلْهُ		ندخله	He will admit him	yud'khil'hu
+12	65:11:22	w	جَنَّٰتࣲ		جنت	(into) Gardens	jannātin
+12	65:11:23	w	تَجْرِے		تجري	flow	tajrī
+12	65:11:24	w	مِن		من	from	min
+12	65:11:25	w	تَحْتِهَا		تحتها	underneath it	taḥtihā
+12	65:11:26	w	ࡰ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+12	65:11:27	w	خَٰلِدِينَ		خلدين	abiding	khālidīna
+13	65:11:28	w	فِيهَآ		فيها	therein	fīhā
+13	65:11:29	w	أَبَداࣰ		ابدا	forever	abadan
+13	65:11:30	w	قَدَ		قد	Indeed	qad
+13	65:11:31	w	ࡰحْسَنَ		احسن	Has been (granted) good	aḥsana
+13	65:11:32	w	ࡰ۬للَّهُ		الله	(by) Allah	l-lahu
+13	65:11:33	w	لَهُۥ		له	for him	lahu
+13	65:11:34	w	رِزْقاً࣌		رزقا	provision	riz'qan
+13	65:11:35	e	۝١١				
+13	65:12:1	w	ࡴ۬للَّهُ		الله	Allah	al-lahu
+13	65:12:2	w	ࡲ۬لذِے		الذي	(is) He Who	alladhī
+13	65:12:3	w	خَلَقَ		خلق	created	khalaqa
+13	65:12:4	w	سَبْعَ		سبع	seven	sabʿa
+13	65:12:5	w	سَمَٰوَٰتࣲ		سموت	heavens	samāwātin
+14	65:12:6	w	وَمِنَ		ومن	and of	wamina
+14	65:12:7	w	ࡰ۬لَارْضِ		الارض	the earth	l-arḍi
+14	65:12:8	w	مِثْلَهُنَّ࣌		مثلهن	(the) like of them	mith'lahunna
+14	65:12:9	w	يَتَنَزَّلُ		يتنزل	Descends	yatanazzalu
+14	65:12:10	w	ࡲ۬لَامْرُ		الامر	the command	l-amru
+14	65:12:11	w	بَيْنَهُنَّ		بينهن	between them	baynahunna
+14	65:12:12	w	لِتَعْلَمُوٓاْ		لتعلموا	that you may know	litaʿlamū
+14	65:12:13	w	أَنَّ		ان	that	anna
+14	65:12:14	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+14	65:12:15	w	عَلَىٰ		علي	(is) on	ʿalā
+15	65:12:16	w	كُلِّ		كل	every	kulli
+15	65:12:17	w	شَےْءࣲ		شي	thing	shayin
+15	65:12:18	w	قَدِيرࣱ		قدير	All-Powerful	qadīrun
+15	65:12:19	w	وَأَنَّ		وان	And that	wa-anna
+15	65:12:20	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	65:12:21	w	قَدَ		قد	indeed	qad
+15	65:12:22	w	ࡰحَاطَ		احاط	encompasses	aḥāṭa
+15	65:12:23	w	بِكُلِّ		بكل	all	bikulli
+15	65:12:24	w	شَےْءٍ		شي	things	shayin
+15	65:12:25	w	عِلْماࣰ࣌		علما	(in) knowledge	ʿil'man
+15	65:12:26	e	۝١٢				

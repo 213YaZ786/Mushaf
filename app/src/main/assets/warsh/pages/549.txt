@@ -1,0 +1,146 @@
+1	60:0:0	t					
+2	60:0:0	b					
+3	60:1:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+3	60:1:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+3	60:1:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+3	60:1:4	w	لَا		لا	(Do) not	lā
+3	60:1:5	w	تَتَّخِذُواْ		تتخذوا	take	tattakhidhū
+3	60:1:6	w	عَدُوِّے		عدوي	My enemies	ʿaduwwī
+3	60:1:7	w	وَعَدُوَّكُمُۥٓ		وعدوكم	and your enemies	waʿaduwwakum
+3	60:1:8	w	أَوْلِيَآءَ࣌		اوليا	(as) allies	awliyāa
+3	60:1:9	w	تُلْقُونَ		تلقون	offering	tul'qūna
+3	60:1:10	w	إِلَيْهِم		اليهم	them	ilayhim
+4	60:1:11	w	بِالْمَوَدَّةِ		بالمودة	love	bil-mawadati
+4	60:1:12	w	وَقَدْ		وقد	while	waqad
+4	60:1:13	w	كَفَرُواْ		كفروا	they have disbelieved	kafarū
+4	60:1:14	w	بِمَا		بما	in what	bimā
+4	60:1:15	w	جَآءَكُم		جاكم	came to you	jāakum
+4	60:1:16	w	مِّنَ		من	of	mina
+4	60:1:17	w	ࡰ۬لْحَقِّ࣌		الحق	the truth	l-ḥaqi
+4	60:1:18	w	يُخْرِجُونَ		يخرجون	driving out	yukh'rijūna
+4	60:1:19	w	ࡰ۬لرَّسُولَ		الرسول	the Messenger	l-rasūla
+4	60:1:20	w	وَإِيَّاكُمُۥٓ		واياكم	and yourselves	wa-iyyākum
+4	60:1:21	w	أَن		ان	because	an
+5	60:1:22	w	تُومِنُواْ		تومنوا	you believe	tu'minū
+5	60:1:23	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+5	60:1:24	w	رَبِّكُمُۥٓ࣌		ربكم	your Lord	rabbikum
+5	60:1:25	w	إِن		ان	If	in
+5	60:1:26	w	كُنتُمْ		كنتم	you	kuntum
+5	60:1:27	w	خَرَجْتُمْ		خرجتم	come forth	kharajtum
+5	60:1:28	w	جِهَٰداࣰ		جهدا	(to) strive	jihādan
+5	60:1:29	w	فِے		في	in	fī
+5	60:1:30	w	سَبِيلِے		سبيلي	My way	sabīlī
+5	60:1:31	w	وَابْتِغَآءَ		وابتغا	and (to) seek	wa-ib'tighāa
+5	60:1:32	w	مَرْضَاتِے		مرضاتي	My Pleasure	marḍātī
+6	60:1:33	w	تُسِرُّونَ		تسرون	You confide	tusirrūna
+6	60:1:34	w	إِلَيْهِم		اليهم	to them	ilayhim
+6	60:1:35	w	بِالْمَوَدَّةِ		بالمودة	love	bil-mawadati
+6	60:1:36	w	وَأَنَآ		وانا	but I Am	wa-anā
+6	60:1:37	w	أَعْلَمُ		اعلم	most knowing	aʿlamu
+6	60:1:38	w	بِمَآ		بما	of what	bimā
+6	60:1:39	w	أَخْفَيْتُمْ		اخفيتم	you conceal	akhfaytum
+6	60:1:40	w	وَمَآ		وما	and what	wamā
+6	60:1:41	w	أَعْلَنتُمْ࣌		اعلنتم	you declare	aʿlantum
+6	60:1:42	w	وَمَنْ		ومن	And whoever	waman
+6	60:1:43	w	يَّفْعَلْهُ		يفعله	does it	yafʿalhu
+7	60:1:44	w	مِنكُمْ		منكم	among you	minkum
+7	60:1:45	w	فَقَد		فقد	then certainly	faqad
+7	60:1:46	w	ضَّلَّ		ضل	he has strayed	ḍalla
+7	60:1:47	w	سَوَآءَ		سوا	(from the) straight	sawāa
+7	60:1:48	w	ࡰ۬لسَّبِيلِ࣌		السبيل	path	l-sabīli
+7	60:1:49	e	۝١				
+7	60:2:1	w	إِنْ		ان	If	in
+7	60:2:2	w	يَّثْقَفُوكُمْ		يثقفوكم	they gain dominance over you	yathqafūkum
+7	60:2:3	w	يَكُونُواْ		يكونوا	they would be	yakūnū
+7	60:2:4	w	لَكُمُۥٓ		لكم	to you	lakum
+7	60:2:5	w	أَعْدَآءࣰ		اعدا	enemies	aʿdāan
+8	60:2:6	w	وَيَبْسُطُوٓاْ		ويبسطوا	and extend	wayabsuṭū
+8	60:2:7	w	إِلَيْكُمُۥٓ		اليكم	against you	ilaykum
+8	60:2:8	w	أَيْدِيَهُمْ		ايديهم	their hands	aydiyahum
+8	60:2:9	w	وَأَلْسِنَتَهُم		والسنتهم	and their tongues	wa-alsinatahum
+8	60:2:10	w	بِالسُّوٓءِ࣌		بالسو	with evil	bil-sūi
+8	60:2:11	w	وَوَدُّواْ		وودوا	and they desire	wawaddū
+8	60:2:12	w	لَوْ		لو	that	law
+8	60:2:13	w	تَكْفُرُونَ࣌		تكفرون	you would disbelieve	takfurūna
+8	60:2:14	e	۝٢				
+8	60:3:1	w	لَن		لن	Never	lan
+9	60:3:2	w	تَنفَعَكُمُۥٓ		تنفعكم	will benefit you	tanfaʿakum
+9	60:3:3	w	أَرْحَامُكُمْ		ارحامكم	your relatives	arḥāmukum
+9	60:3:4	w	وَلَآ		ولا	and not	walā
+9	60:3:5	w	أَوْلَٰدُكُمْ࣌		اولدكم	your children	awlādukum
+9	60:3:6	w	يَوْمَ		يوم	(on the) Day	yawma
+9	60:3:7	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+9	60:3:8	w	يُفْصَلُ		يفصل	He will judge	yafṣilu
+9	60:3:9	w	بَيْنَكُمْ࣌		بينكم	between you	baynakum
+9	60:3:10	w	وَاللَّهُ		والله	And Allah	wal-lahu
+9	60:3:11	w	بِمَا		بما	of what	bimā
+10	60:3:12	w	تَعْمَلُونَ		تعملون	you do	taʿmalūna
+10	60:3:13	w	بَصِيرࣱ࣌		بصير	(is) All-Seer	baṣīrun
+10	60:3:14	e	۝٣				
+10	60:4:1	w	قَدْ		قد	Indeed	qad
+10	60:4:2	w	كَانَتْ		كانت	(there) is	kānat
+10	60:4:3	w	لَكُمُۥٓ		لكم	for you	lakum
+10	60:4:4	w	إِسْوَةٌ		اسوة	an example	us'watun
+10	60:4:5	w	حَسَنَةࣱ		حسنة	good	ḥasanatun
+10	60:4:6	w	فِےٓ		في	in	fī
+10	60:4:7	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+10	60:4:8	w	وَالذِينَ		والذين	and those	wa-alladhīna
+10	60:4:9	w	مَعَهُۥٓ		معه	with him	maʿahu
+11	60:4:10	w	إِذْ		اذ	when	idh
+11	60:4:11	w	قَالُواْ		قالوا	they said	qālū
+11	60:4:12	w	لِقَوْمِهِمُۥٓ		لقومهم	to their people	liqawmihim
+11	60:4:13	w	إِنَّا		انا	Indeed, we	innā
+11	60:4:14	w	بُرَءَٰٓؤُاْ		بروا	(are) disassociated	buraāu
+11	60:4:15	w	مِنكُمْ		منكم	from you	minkum
+11	60:4:16	w	وَمِمَّا		ومما	and from what	wamimmā
+11	60:4:17	w	تَعْبُدُونَ		تعبدون	you worship	taʿbudūna
+11	60:4:18	w	مِن		من	from	min
+11	60:4:19	w	دُونِ		دون	besides	dūni
+11	60:4:20	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+11	60:4:21	w	كَفَرْنَا		كفرنا	We have denied	kafarnā
+12	60:4:22	w	بِكُمْ		بكم	you	bikum
+12	60:4:23	w	وَبَدَا		وبدا	and has appeared	wabadā
+12	60:4:24	w	بَيْنَنَا		بيننا	between us	baynanā
+12	60:4:25	w	وَبَيْنَكُمُ		وبينكم	and between you	wabaynakumu
+12	60:4:26	w	ࡲ۬لْعَدَٰوَةُ		العدوة	enmity	l-ʿadāwatu
+12	60:4:27	w	وَالْبَغْضَآءُ		والبغضا	and hatred	wal-baghḍāu
+12	60:4:28	w	ࡶَبَداً		ابدا	forever	abadan
+12	60:4:29	w	حَتَّىٰ		حتي	until	ḥattā
+12	60:4:30	w	تُومِنُواْ		تومنوا	you believe	tu'minū
+12	60:4:31	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+13	60:4:32	w	وَحْدَهُۥٓ		وحده	Alone	waḥdahu
+13	60:4:33	w	إِلَّا		الا	Except	illā
+13	60:4:34	w	قَوْلَ		قول	(the) saying	qawla
+13	60:4:35	w	إِبْرَٰهِيمَ		ابرهيم	(of) Ibrahim	ib'rāhīma
+13	60:4:36	w	لِأَبِيهِ		لابيه	to his father	li-abīhi
+13	60:4:37	w	لَأَسْتَغْفِرَنَّ		لاستغفرن	Surely I ask forgiveness	la-astaghfiranna
+13	60:4:38	w	لَكَ		لك	for you	laka
+13	60:4:39	w	وَمَآ		وما	but not	wamā
+13	60:4:40	w	أَمْلِكُ		املك	I have power	amliku
+13	60:4:41	w	لَكَ		لك	for you	laka
+13	60:4:42	w	مِنَ		من	from	mina
+13	60:4:43	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+14	60:4:44	w	مِن		من	of	min
+14	60:4:45	w	شَےْءࣲ࣌		شي	anything	shayin
+14	60:4:46	w	رَّبَّنَا		ربنا	Our Lord	rabbanā
+14	60:4:47	w	عَلَيْكَ		عليك	upon You	ʿalayka
+14	60:4:48	w	تَوَكَّلْنَا		توكلنا	we put our trust	tawakkalnā
+14	60:4:49	w	وَإِلَيْكَ		واليك	and to You	wa-ilayka
+14	60:4:50	w	أَنَبْنَا		انبنا	we turn	anabnā
+14	60:4:51	w	وَإِلَيْكَ		واليك	and to You	wa-ilayka
+14	60:4:52	w	ࡰ۬لْمَصِيرُ࣌		المصير	(is) the final return	l-maṣīru
+14	60:4:53	e	۝٤				
+14	60:5:1	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+14	60:5:2	w	لَا		لا	(do) not	lā
+15	60:5:3	w	تَجْعَلْنَا		تجعلنا	make us	tajʿalnā
+15	60:5:4	w	فِتْنَةࣰ		فتنة	a trial	fit'natan
+15	60:5:5	w	لِّلذِينَ		للذين	for those who	lilladhīna
+15	60:5:6	w	كَفَرُواْ࣌		كفروا	disbelieve	kafarū
+15	60:5:7	w	وَاغْفِرْ		واغفر	and forgive	wa-igh'fir
+15	60:5:8	w	لَنَا		لنا	us	lanā
+15	60:5:9	w	رَبَّنَآ࣌		ربنا	our Lord	rabbanā
+15	60:5:10	w	إِنَّكَ		انك	Indeed You	innaka
+15	60:5:11	w	أَنتَ		انت	[You]	anta
+15	60:5:12	w	ࡰ۬لْعَزِيزُ		العزيز	(are) the All-Mighty	l-ʿazīzu
+15	60:5:13	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+15	60:5:14	e	۝٥				

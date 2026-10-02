@@ -1,0 +1,142 @@
+1	48:10:1	w	ࡴنَّ		ان	Indeed	inna
+1	48:10:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	48:10:3	w	يُبَايِعُونَكَ		يبايعونك	pledge allegiance to you	yubāyiʿūnaka
+1	48:10:4	w	إِنَّمَا		انما	only	innamā
+1	48:10:5	w	يُبَايِعُونَ		يبايعون	they pledge allegiance	yubāyiʿūna
+1	48:10:6	w	ࡰ۬للَّهَ࣌		الله	(to) Allah	l-laha
+1	48:10:7	w	يَدُ		يد	(The) Hand	yadu
+1	48:10:8	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+1	48:10:9	w	فَوْقَ		فوق	(is) over	fawqa
+2	48:10:10	w	أَيْدِيهِمْ࣌		ايديهم	their hands	aydīhim
+2	48:10:11	w	فَمَن		فمن	Then whoever	faman
+2	48:10:12	w	نَّكَثَ		نكث	breaks (his oath)	nakatha
+2	48:10:13	w	فَإِنَّمَا		فانما	then only	fa-innamā
+2	48:10:14	w	يَنكُثُ		ينكث	he breaks	yankuthu
+2	48:10:15	w	عَلَىٰ		علي	against	ʿalā
+2	48:10:16	w	نَفْسِهِۦ࣌		نفسهي	himself	nafsihi
+2	48:10:17	w	وَمَنَ		ومن	and whoever	waman
+3	48:10:18	w	ࡰوْفٜىٰ		اوفي	fulfils	awfā
+3	48:10:19	w	بِمَا		بما	what	bimā
+3	48:10:20	w	عَٰهَدَ		عهد	he has covenanted	ʿāhada
+3	48:10:21	w	عَلَيْهِ		عليه	(with)	ʿalayhu
+3	48:10:22	w	ࡴ۬للَّهَ		الله	Allah	l-laha
+3	48:10:23	w	فَسَنُوتِيهِ		فسنوتيه	soon He will give him	fasayu'tīhi
+3	48:10:24	w	أَجْراً		اجرا	a reward	ajran
+3	48:10:25	w	عَظِيماࣰ࣌		عظيما	great	ʿaẓīman
+3	48:10:26	e	۝١٠				
+3	48:11:1	w	سَيَقُولُ		سيقول	Will say	sayaqūlu
+4	48:11:2	w	لَكَ		لك	to you	laka
+4	48:11:3	w	ࡰ۬لْمُخَلَّفُونَ		المخلفون	those who remained behind	l-mukhalafūna
+4	48:11:4	w	مِنَ		من	of	mina
+4	48:11:5	w	ࡰ۬لَاعْرَابِ		الاعراب	the Bedouins	l-aʿrābi
+4	48:11:6	w	شَغَلَتْنَآ		شغلتنا	Kept us busy	shaghalatnā
+4	48:11:7	w	أَمْوَٰلُنَا		امولنا	our properties	amwālunā
+4	48:11:8	w	وَأَهْلُونَا		واهلونا	and our families	wa-ahlūnā
+5	48:11:9	w	فَاسْتَغْفِرْ		فاستغفر	so ask forgiveness	fa-is'taghfir
+5	48:11:10	w	لَنَا࣌		لنا	for us	lanā
+5	48:11:11	w	يَقُولُونَ		يقولون	They say	yaqūlūna
+5	48:11:12	w	بِأَلْسِنَتِهِم		بالسنتهم	with their tongues	bi-alsinatihim
+5	48:11:13	w	مَّا		ما	what	mā
+5	48:11:14	w	لَيْسَ		ليس	is not	laysa
+5	48:11:15	w	فِے		في	in	fī
+5	48:11:16	w	قُلُوبِهِمْ࣌		قلوبهم	their hearts	qulūbihim
+5	48:11:17	w	قُلْ		قل	Say	qul
+5	48:11:18	w	فَمَنْ		فمن	Then who	faman
+6	48:11:19	w	يَّمْلِكُ		يملك	has power	yamliku
+6	48:11:20	w	لَكُم		لكم	for you	lakum
+6	48:11:21	w	مِّنَ		من	against	mina
+6	48:11:22	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+6	48:11:23	w	شَيْـٔاً		شيا	(in) anything	shayan
+6	48:11:24	w	ࡴنَ		ان	if	in
+6	48:11:25	w	ࡰرَادَ		اراد	He intends	arāda
+6	48:11:26	w	بِكُمْ		بكم	for you	bikum
+6	48:11:27	w	ضَرّاً		ضرا	harm	ḍarran
+6	48:11:28	w	ࡰوَ		او	or	aw
+6	48:11:29	w	ࡰرَادَ		اراد	He intends	arāda
+6	48:11:30	w	بِكُمْ		بكم	for you	bikum
+7	48:11:31	w	نَفْعاَۢ࣌		نفعا	a benefit	nafʿan
+7	48:11:32	w	بَلْ		بل	Nay	bal
+7	48:11:33	w	كَانَ		كان	is	kāna
+7	48:11:34	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+7	48:11:35	w	بِمَا		بما	of what	bimā
+7	48:11:36	w	تَعْمَلُونَ		تعملون	you do	taʿmalūna
+7	48:11:37	w	خَبِيراَۢ࣌		خبيرا	All-Aware	khabīran
+7	48:11:38	e	۝١١				
+7	48:12:1	w	بَلْ		بل	Nay	bal
+7	48:12:2	w	ظَنَنتُمُۥٓ		ظننتم	you thought	ẓanantum
+7	48:12:3	w	أَن		ان	that	an
+8	48:12:4	w	لَّنْ		لن	(would) never	lan
+8	48:12:5	w	يَّنقَلِبَ		ينقلب	return	yanqaliba
+8	48:12:6	w	ࡰ۬لرَّسُولُ		الرسول	the Messenger	l-rasūlu
+8	48:12:7	w	وَالْمُومِنُونَ		والمومنون	and the believers	wal-mu'minūna
+8	48:12:8	w	إِلَىٰٓ		الي	to	ilā
+8	48:12:9	w	أَهْلِيهِمُۥٓ		اهليهم	their families	ahlīhim
+8	48:12:10	w	أَبَداࣰ		ابدا	ever	abadan
+8	48:12:11	w	وَزُيِّنَ		وزين	that was made fair-seeming	wazuyyina
+9	48:12:12	w	ذَٰلِكَ		ذلك	that was made fair-seeming	dhālika
+9	48:12:13	w	فِے		في	in	fī
+9	48:12:14	w	قُلُوبِكُمْ		قلوبكم	your hearts	qulūbikum
+9	48:12:15	w	وَظَنَنتُمْ		وظننتم	And you assumed	waẓanantum
+9	48:12:16	w	ظَنَّ		ظن	an assumption	ẓanna
+9	48:12:17	w	ࡰ۬لسَّوْءِ		السو	evil	l-sawi
+9	48:12:18	w	وَكُنتُمْ		وكنتم	and you became	wakuntum
+9	48:12:19	w	قَوْماَۢ		قوما	a people	qawman
+9	48:12:20	w	بُوراࣰ࣌		بورا	ruined	būran
+9	48:12:21	e	۝١٢				
+10	48:13:1	w	وَمَن		ومن	And whoever	waman
+10	48:13:2	w	لَّمْ		لم	(has) not believed	lam
+10	48:13:3	w	يُومِنۢ		يومن	(has) not believed	yu'min
+10	48:13:4	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+10	48:13:5	w	وَرَسُولِهِۦ		ورسولهي	and His Messenger	warasūlihi
+10	48:13:6	w	فَإِنَّآ		فانا	then indeed, We	fa-innā
+10	48:13:7	w	أَعْتَدْنَا		اعتدنا	[We] have prepared	aʿtadnā
+10	48:13:8	w	لِلْكٜـٰفِرِينَ		للكفرين	for the disbelievers	lil'kāfirīna
+10	48:13:9	w	سَعِيراࣰ࣌		سعيرا	a Blazing Fire	saʿīran
+10	48:13:10	e	۝١٣				
+11	48:14:1	w	وَلِلهِ		ولله	And for Allah	walillahi
+11	48:14:2	w	مُلْكُ		ملك	(is the) kingdom	mul'ku
+11	48:14:3	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+11	48:14:4	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+11	48:14:5	w	يَغْفِرُ		يغفر	He forgives	yaghfiru
+11	48:14:6	w	لِمَنْ		لمن	whom	liman
+11	48:14:7	w	يَّشَآءُ		يشا	He wills	yashāu
+11	48:14:8	w	وَيُعَذِّبُ		ويعذب	and punishes	wayuʿadhibu
+12	48:14:9	w	مَنْ		من	whom	man
+12	48:14:10	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+12	48:14:11	w	وَكَانَ		وكان	And is	wakāna
+12	48:14:12	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+12	48:14:13	w	غَفُوراࣰ		غفورا	Oft-Forgiving	ghafūran
+12	48:14:14	w	رَّحِيماࣰ࣌		رحيما	Most Merciful	raḥīman
+12	48:14:15	e	۝١٤				
+12	48:15:1	w	سَيَقُولُ		سيقول	Will say	sayaqūlu
+12	48:15:2	w	ࡲ۬لْمُخَلَّفُونَ		المخلفون	those who remained behind	l-mukhalafūna
+12	48:15:3	w	إِذَا		اذا	when	idhā
+13	48:15:4	w	ࡰٜنطَلَقْتُمُۥٓ		انطلقتم	you set forth	inṭalaqtum
+13	48:15:5	w	إِلَىٰ		الي	towards	ilā
+13	48:15:6	w	مَغَانِمَ		مغانم	(the) spoils of war	maghānima
+13	48:15:7	w	لِتَاخُذُوهَا		لتاخذوها	to take it	litakhudhūhā
+13	48:15:8	w	ذَرُونَا		ذرونا	Allow us	dharūnā
+13	48:15:9	w	نَتَّبِعْكُمْ࣌		نتبعكم	(to) follow you	nattabiʿ'kum
+13	48:15:10	w	يُرِيدُونَ		يريدون	They wish	yurīdūna
+14	48:15:11	w	أَنْ		ان	to	an
+14	48:15:12	w	يُّبَدِّلُواْ		يبدلوا	change	yubaddilū
+14	48:15:13	w	كَلَٰمَ		كلم	(the) Words	kalāma
+14	48:15:14	w	ࡰ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+14	48:15:15	w	قُل		قل	Say	qul
+14	48:15:16	w	لَّن		لن	Never	lan
+14	48:15:17	w	تَتَّبِعُونَا࣌		تتبعونا	will you follow us	tattabiʿūnā
+14	48:15:18	w	كَذَٰلِكُمْ		كذلكم	Thus	kadhālikum
+14	48:15:19	w	قَالَ		قال	Allah said	qāla
+14	48:15:20	w	ࡰ۬للَّهُ		الله	Allah said	l-lahu
+14	48:15:21	w	مِن		من	before	min
+14	48:15:22	w	قَبْلُ࣌		قبل	before	qablu
+15	48:15:23	w	فَسَيَقُولُونَ		فسيقولون	Then they will say	fasayaqūlūna
+15	48:15:24	w	بَلْ		بل	Nay	bal
+15	48:15:25	w	تَحْسُدُونَنَا࣌		تحسدوننا	you envy us	taḥsudūnanā
+15	48:15:26	w	بَلْ		بل	Nay	bal
+15	48:15:27	w	كَانُواْ		كانوا	they were	kānū
+15	48:15:28	w	لَا		لا	not	lā
+15	48:15:29	w	يَفْقَهُونَ		يفقهون	understanding	yafqahūna
+15	48:15:30	w	إِلَّا		الا	except	illā
+15	48:15:31	w	قَلِيلاࣰ࣌		قليلا	a little	qalīlan
+15	48:15:32	e	۝١٥				

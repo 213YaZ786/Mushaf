@@ -1,0 +1,150 @@
+1	49:5:1	w	وَلَوَ		ولو	And if	walaw
+1	49:5:2	w	ࡰنَّهُمْ		انهم	they	annahum
+1	49:5:3	w	صَبَرُواْ		صبروا	had been patient	ṣabarū
+1	49:5:4	w	حَتَّىٰ		حتي	until	ḥattā
+1	49:5:5	w	تَخْرُجَ		تخرج	you came out	takhruja
+1	49:5:6	w	إِلَيْهِمْ		اليهم	to them	ilayhim
+1	49:5:7	w	لَكَانَ		لكان	certainly it would be	lakāna
+1	49:5:8	w	خَيْراࣰ		خيرا	better	khayran
+1	49:5:9	w	لَّهُمْ࣌		لهم	for them	lahum
+1	49:5:10	w	وَاللَّهُ		والله	And Allah	wal-lahu
+1	49:5:11	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+2	49:5:12	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+2	49:5:13	e	۝٥				
+2	49:6:1	w	يَٰٓأَيُّهَا		يايها	O you who believe	yāayyuhā
+2	49:6:2	w	ࡰ۬لذِينَ		الذين	O you who believe	alladhīna
+2	49:6:3	w	ءَامَنُوٓاْ		امنوا	O you who believe	āmanū
+2	49:6:4	w	إِن		ان	If	in
+2	49:6:5	w	جَآءَكُمْ		جاكم	comes to you	jāakum
+2	49:6:6	w	فَاسِقُۢ		فاسق	a wicked person	fāsiqun
+2	49:6:7	w	بِنَبَإࣲ		بنبا	with information	binaba-in
+2	49:6:8	w	فَتَبَيَّنُوٓاْ		فتبينوا	investigate	fatabayyanū
+3	49:6:9	w	أَن		ان	lest	an
+3	49:6:10	w	تُصِيبُواْ		تصيبوا	you harm	tuṣībū
+3	49:6:11	w	قَوْماَۢ		قوما	a people	qawman
+3	49:6:12	w	بِجَهَٰلَةࣲ		بجهلة	in ignorance	bijahālatin
+3	49:6:13	w	فَتُصْبِحُواْ		فتصبحوا	then you become	fatuṣ'biḥū
+3	49:6:14	w	عَلَىٰ		علي	over	ʿalā
+3	49:6:15	w	مَا		ما	what	mā
+3	49:6:16	w	فَعَلْتُمْ		فعلتم	you have done	faʿaltum
+3	49:6:17	w	نَٰدِمِينَ࣌		ندمين	regretful	nādimīna
+3	49:6:18	e	۝٦				
+4	49:7:1	w	وَاعْلَمُوٓاْ		واعلموا	And know	wa-iʿ'lamū
+4	49:7:2	w	أَنَّ		ان	that	anna
+4	49:7:3	w	فِيكُمْ		فيكم	among you	fīkum
+4	49:7:4	w	رَسُولَ		رسول	(is the) Messenger of Allah	rasūla
+4	49:7:5	w	ࡰ۬للَّهِ		الله	(is the) Messenger of Allah	l-lahi
+4	49:7:6	w	لَوْ		لو	If	law
+4	49:7:7	w	يُطِيعُكُمْ		يطيعكم	he were to obey you	yuṭīʿukum
+4	49:7:8	w	فِے		في	in	fī
+4	49:7:9	w	كَثِيرࣲ		كثير	much	kathīrin
+4	49:7:10	w	مِّنَ		من	of	mina
+4	49:7:11	w	ࡰ۬لَامْرِ		الامر	the matter	l-amri
+4	49:7:12	w	لَعَنِتُّمْ࣌		لعنتم	surely you would be in difficulty	laʿanittum
+5	49:7:13	w	وَلَٰكِنَّ		ولكن	but	walākinna
+5	49:7:14	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	49:7:15	w	حَبَّبَ		حبب	has endeared	ḥabbaba
+5	49:7:16	w	إِلَيْكُمُ		اليكم	to you	ilaykumu
+5	49:7:17	w	ࡲ۬لِايمَٰنَ		الايمن	the Faith	l-īmāna
+5	49:7:18	w	وَزَيَّنَهُۥ		وزينه	and has made it pleasing	wazayyanahu
+5	49:7:19	w	فِے		في	in	fī
+5	49:7:20	w	قُلُوبِكُمْ		قلوبكم	your hearts	qulūbikum
+5	49:7:21	w	وَكَرَّهَ		وكره	and has made hateful	wakarraha
+6	49:7:22	w	إِلَيْكُمُ		اليكم	to you	ilaykumu
+6	49:7:23	w	ࡲ۬لْكُفْرَ		الكفر	disbelief	l-kuf'ra
+6	49:7:24	w	وَالْفُسُوقَ		والفسوق	and defiance	wal-fusūqa
+6	49:7:25	w	وَالْعِصْيَانَ࣌		والعصيان	and disobedience	wal-ʿiṣ'yāna
+6	49:7:26	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+6	49:7:27	w	هُمُ		هم	(are) they	humu
+6	49:7:28	w	ࡲ۬لرَّٰشِدُونَ		الرشدون	the guided ones	l-rāshidūna
+6	49:7:29	e	۝٧				
+7	49:8:1	w	فَضْلاࣰ		فضلا	A Bounty	faḍlan
+7	49:8:2	w	مِّنَ		من	from Allah	mina
+7	49:8:3	w	ࡰ۬للَّهِ		الله	from Allah	l-lahi
+7	49:8:4	w	وَنِعْمَةࣰ࣌		ونعمة	and favor	waniʿ'matan
+7	49:8:5	w	وَاللَّهُ		والله	And Allah	wal-lahu
+7	49:8:6	w	عَلِيمٌ		عليم	(is) All-Knower	ʿalīmun
+7	49:8:7	w	حَكِيمࣱ࣌		حكيم	All-Wise	ḥakīmun
+7	49:8:8	e	۝٨				
+7	49:9:1	w	۞ وَإِن		وان	And if	wa-in
+7	49:9:2	w	طَآئِفَتَٰنِ		طايفتن	two parties	ṭāifatāni
+8	49:9:3	w	مِنَ		من	among	mina
+8	49:9:4	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+8	49:9:5	w	ࡰٜقْتَتَلُواْ		اقتتلوا	fight	iq'tatalū
+8	49:9:6	w	فَأَصْلِحُواْ		فاصلحوا	then make peace	fa-aṣliḥū
+8	49:9:7	w	بَيْنَهُمَا࣌		بينهما	between both of them	baynahumā
+8	49:9:8	w	فَإِنۢ		فان	But if	fa-in
+8	49:9:9	w	بَغَتِ		بغت	oppresses	baghat
+8	49:9:10	w	ࡴحْدٜيٰهُمَا		احديهما	one of them	iḥ'dāhumā
+9	49:9:11	w	عَلَى		علي	on	ʿalā
+9	49:9:12	w	ࡰ۬لُاخْرٜىٰ		الاخري	the other	l-ukh'rā
+9	49:9:13	w	فَقَٰتِلُواْ		فقتلوا	then fight	faqātilū
+9	49:9:14	w	ࡲ۬لتِے		التي	one which	allatī
+9	49:9:15	w	تَبْغِے		تبغي	oppresses	tabghī
+9	49:9:16	w	حَتَّىٰ		حتي	until	ḥattā
+9	49:9:17	w	تَفِےٓءَ		تفي	it returns	tafīa
+9	49:9:18	w	ࡹلَىٰٓ		الي	to	ilā
+9	49:9:19	w	أَمْرِ		امر	(the) command	amri
+9	49:9:20	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+9	49:9:21	w	فَإِن		فان	Then if	fa-in
+9	49:9:22	w	فَآءَتْ		فات	it returns	fāat
+10	49:9:23	w	فَأَصْلِحُواْ		فاصلحوا	then make peace	fa-aṣliḥū
+10	49:9:24	w	بَيْنَهُمَا		بينهما	between them	baynahumā
+10	49:9:25	w	بِالْعَدْلِ		بالعدل	with justice	bil-ʿadli
+10	49:9:26	w	وَأَقْسِطُوٓاْ࣌		واقسطوا	and act justly	wa-aqsiṭū
+10	49:9:27	w	إِنَّ		ان	Indeed	inna
+10	49:9:28	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	49:9:29	w	يُحِبُّ		يحب	loves	yuḥibbu
+10	49:9:30	w	ࡲ۬لْمُقْسِطِينَ࣌		المقسطين	those who act justly	l-muq'siṭīna
+10	49:9:31	e	۝٩				
+11	49:10:1	w	إِنَّمَا		انما	Only	innamā
+11	49:10:2	w	ࡰ۬لْمُومِنُونَ		المومنون	the believers	l-mu'minūna
+11	49:10:3	w	إِخْوَةࣱ		اخوة	(are) brothers	ikh'watun
+11	49:10:4	w	فَأَصْلِحُواْ		فاصلحوا	so make peace	fa-aṣliḥū
+11	49:10:5	w	بَيْنَ		بين	between	bayna
+11	49:10:6	w	أَخَوَيْكُمْ࣌		اخويكم	your brothers	akhawaykum
+11	49:10:7	w	وَاتَّقُواْ		واتقوا	and fear Allah	wa-ittaqū
+11	49:10:8	w	ࡲ۬للَّهَ		الله	and fear Allah	l-laha
+12	49:10:9	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+12	49:10:10	w	تُرْحَمُونَ࣌		ترحمون	receive mercy	tur'ḥamūna
+12	49:10:11	e	۝١٠				
+12	49:11:1	w	يَٰٓأَيُّهَا		يايها	O you who believe	yāayyuhā
+12	49:11:2	w	ࡰ۬لذِينَ		الذين	O you who believe	alladhīna
+12	49:11:3	w	ءَامَنُواْ		امنوا	O you who believe	āmanū
+12	49:11:4	w	لَا		لا	(Let) not	lā
+12	49:11:5	w	يَسْخَرْ		يسخر	ridicule	yaskhar
+12	49:11:6	w	قَوْمࣱ		قوم	a people	qawmun
+12	49:11:7	w	مِّن		من	[of]	min
+12	49:11:8	w	قَوْمٍ		قوم	(another) people	qawmin
+13	49:11:9	w	عَسٜىٰٓ		عسي	perhaps	ʿasā
+13	49:11:10	w	أَنْ		ان	that	an
+13	49:11:11	w	يَّكُونُواْ		يكونوا	they may be	yakūnū
+13	49:11:12	w	خَيْراࣰ		خيرا	better	khayran
+13	49:11:13	w	مِّنْهُمْ		منهم	than them	min'hum
+13	49:11:14	w	وَلَا		ولا	and (let) not	walā
+13	49:11:15	w	نِسَآءࣱ		نسا	women	nisāon
+13	49:11:16	w	مِّن		من	[of]	min
+13	49:11:17	w	نِّسَآءٍ		نسا	(other) women	nisāin
+13	49:11:18	w	عَسٜىٰٓ		عسي	perhaps	ʿasā
+13	49:11:19	w	أَنْ		ان	that	an
+13	49:11:20	w	يَّكُنَّ		يكن	they may be	yakunna
+14	49:11:21	w	خَيْراࣰ		خيرا	better	khayran
+14	49:11:22	w	مِّنْهُنَّ࣌		منهن	than them	min'hunna
+14	49:11:23	w	وَلَا		ولا	And (do) not	walā
+14	49:11:24	w	تَلْمِزُوٓاْ		تلمزوا	insult	talmizū
+14	49:11:25	w	أَنفُسَكُمْ		انفسكم	yourselves	anfusakum
+14	49:11:26	w	وَلَا		ولا	and (do) not	walā
+14	49:11:27	w	تَنَابَزُواْ		تنابزوا	call each other	tanābazū
+14	49:11:28	w	بِالَالْقَٰبِ࣌		بالالقب	by nicknames	bil-alqābi
+14	49:11:29	w	بِيسَ		بيس	Wretched is	bi'sa
+14	49:11:30	w	ࡰ۬لِاسْمُ		الاسم	the name	l-s'mu
+15	49:11:31	w	ࡲ۬لْفُسُوقُ		الفسوق	(of) disobedience	l-fusūqu
+15	49:11:32	w	بَعْدَ		بعد	after	baʿda
+15	49:11:33	w	ࡰ۬لِايمَٰنِ࣌		الايمن	the faith	l-īmāni
+15	49:11:34	w	وَمَن		ومن	And whoever	waman
+15	49:11:35	w	لَّمْ		لم	(does) not	lam
+15	49:11:36	w	يَتُبْ		يتب	repent	yatub
+15	49:11:37	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+15	49:11:38	w	هُمُ		هم	they	humu
+15	49:11:39	w	ࡲ۬لظَّٰلِمُونَ࣌		الظلمون	(are) the wrongdoers	l-ẓālimūna
+15	49:11:40	e	۝١١				

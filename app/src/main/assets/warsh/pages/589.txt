@@ -1,0 +1,142 @@
+1	83:34:1	w	فَالْيَوْمَ		فاليوم	So today	fal-yawma
+1	83:34:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	83:34:3	w	ءَامَنُواْ		امنوا	believed	āmanū
+1	83:34:4	w	مِنَ		من	at	mina
+1	83:34:5	w	ࡰ۬لْكُفّٜارِ		الكفار	the disbelievers	l-kufāri
+1	83:34:6	w	يَضْحَكُونَ		يضحكون	they will laugh	yaḍḥakūna
+1	83:34:7	e	۝٣٤				
+1	83:35:1	w	عَلَى		علي	On	ʿalā
+2	83:35:2	w	ࡰ۬لَارَآئِكِ࣌		الارايك	the thrones	l-arāiki
+2	83:35:3	w	يَنظُرُونَ		ينظرون	observing	yanẓurūna
+2	83:35:4	e	۝٣٥				
+2	83:36:1	w	هَلْ		هل	Have (not)	hal
+2	83:36:2	w	ثُوِّبَ		ثوب	been rewarded	thuwwiba
+2	83:36:3	w	ࡰ۬لْكُفَّارُ		الكفار	the disbelievers	l-kufāru
+2	83:36:4	w	مَا		ما	(for) what	mā
+2	83:36:5	w	كَانُواْ		كانوا	they used to	kānū
+2	83:36:6	w	يَفْعَلُونَ࣌		يفعلون	do	yafʿalūna
+2	83:36:7	e	۝٣٦				
+3	84:0:0	t					
+4	84:0:0	b					
+5	84:1:1	w	إِذَا		اذا	When	idhā
+5	84:1:2	w	ࡰ۬لسَّمَآءُ		السما	the sky	l-samāu
+5	84:1:3	w	ࡲٜنشَقَّتْ		انشقت	is split asunder	inshaqqat
+5	84:1:4	e	۝١				
+5	84:2:1	w	وَأَذِنَتْ		واذنت	And has listened	wa-adhinat
+5	84:2:2	w	لِرَبِّهَا		لربها	to its Lord	lirabbihā
+5	84:2:3	w	وَحُقَّتْ		وحقت	and was obligated	waḥuqqat
+5	84:2:4	e	۝٢				
+5	84:3:1	w	وَإِذَا		واذا	And when	wa-idhā
+5	84:3:2	w	ࡰ۬لَارْضُ		الارض	the earth	l-arḍu
+6	84:3:3	w	مُدَّتْ		مدت	is spread	muddat
+6	84:3:4	e	۝٣				
+6	84:4:1	w	وَأَلْقَتْ		والقت	And has cast out	wa-alqat
+6	84:4:2	w	مَا		ما	what	mā
+6	84:4:3	w	فِيهَا		فيها	(is) in it	fīhā
+6	84:4:4	w	وَتَخَلَّتْ		وتخلت	and becomes empty	watakhallat
+6	84:4:5	e	۝٤				
+6	84:5:1	w	وَأَذِنَتْ		واذنت	And has listened	wa-adhinat
+6	84:5:2	w	لِرَبِّهَا		لربها	to its Lord	lirabbihā
+6	84:5:3	w	وَحُقَّتْ࣌		وحقت	and was obligated	waḥuqqat
+6	84:5:4	e	۝٥				
+7	84:6:1	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+7	84:6:2	w	ࡰ۬لِانسَٰنُ		الانسن	mankind	l-insānu
+7	84:6:3	w	إِنَّكَ		انك	Indeed, you	innaka
+7	84:6:4	w	كَادِحٌ		كادح	(are) laboring	kādiḥun
+7	84:6:5	w	ࡴلَىٰ		الي	to	ilā
+7	84:6:6	w	رَبِّكَ		ربك	your Lord	rabbika
+7	84:6:7	w	كَدْحاࣰ		كدحا	(with) exertion	kadḥan
+7	84:6:8	w	فَمُلَٰقِيهِ࣌		فملقيه	and you (will) meet Him	famulāqīhi
+7	84:6:9	e	۝٦				
+7	84:7:1	w	فَأَمَّا		فاما	Then as for	fa-ammā
+8	84:7:2	w	مَنُ		من	(him) who	man
+8	84:7:3	w	ࡳوتِيَ		اوتي	is given	ūtiya
+8	84:7:4	w	كِتَٰبَهُۥ		كتبه	his record	kitābahu
+8	84:7:5	w	بِيَمِينِهِۦ		بيمينهي	in his right (hand)	biyamīnihi
+8	84:7:6	e	۝٧				
+8	84:8:1	w	فَسَوْفَ		فسوف	Then soon	fasawfa
+8	84:8:2	w	يُحَاسَبُ		يحاسب	his account will be taken	yuḥāsabu
+8	84:8:3	w	حِسَاباࣰ		حسابا	an account	ḥisāban
+8	84:8:4	w	يَسِيراࣰ		يسيرا	easy	yasīran
+8	84:8:5	e	۝٨				
+9	84:9:1	w	وَيَنقَلِبُ		وينقلب	And he will return	wayanqalibu
+9	84:9:2	w	إِلَىٰٓ		الي	to	ilā
+9	84:9:3	w	أَهْلِهِۦ		اهلهي	his people	ahlihi
+9	84:9:4	w	مَسْرُوراࣰ࣌		مسرورا	happily	masrūran
+9	84:9:5	e	۝٩				
+9	84:10:1	w	وَأَمَّا		واما	But as for	wa-ammā
+9	84:10:2	w	مَنُ		من	(him) who	man
+9	84:10:3	w	ࡳوتِيَ		اوتي	is given	ūtiya
+9	84:10:4	w	كِتَٰبَهُۥ		كتبه	his record	kitābahu
+9	84:10:5	w	وَرَآءَ		ورا	behind	warāa
+9	84:10:6	w	ظَهْرِهِۦ		ظهرهي	his back	ẓahrihi
+9	84:10:7	e	۝١٠				
+10	84:11:1	w	فَسَوْفَ		فسوف	Then soon	fasawfa
+10	84:11:2	w	يَدْعُواْ		يدعوا	he will call	yadʿū
+10	84:11:3	w	ثُبُوراࣰ		ثبورا	(for) destruction	thubūran
+10	84:11:4	e	۝١١				
+10	84:12:1	w	وَيُصَلَّىٰ		ويصلي	And he will burn	wayaṣlā
+10	84:12:2	w	سَعِيراً࣌		سعيرا	(in) a Blaze	saʿīran
+10	84:12:3	e	۝١٢				
+10	84:13:1	w	ࡴنَّهُۥ		انه	Indeed, he	innahu
+10	84:13:2	w	كَانَ		كان	had been	kāna
+10	84:13:3	w	فِےٓ		في	among	fī
+10	84:13:4	w	أَهْلِهِۦ		اهلهي	his people	ahlihi
+11	84:13:5	w	مَسْرُوراً࣌		مسرورا	happy	masrūran
+11	84:13:6	e	۝١٣				
+11	84:14:1	w	ࡴنَّهُۥ		انه	Indeed, he	innahu
+11	84:14:2	w	ظَنَّ		ظن	(had) thought	ẓanna
+11	84:14:3	w	أَن		ان	that	an
+11	84:14:4	w	لَّنْ		لن	never	lan
+11	84:14:5	w	يَّحُورَ		يحور	he would return	yaḥūra
+11	84:14:6	e	۝١٤				
+11	84:15:1	w	بَلٜىٰٓ࣌		بلي	Yes	balā
+11	84:15:2	w	إِنَّ		ان	Indeed	inna
+11	84:15:3	w	رَبَّهُۥ		ربه	his Lord	rabbahu
+11	84:15:4	w	كَانَ		كان	was	kāna
+11	84:15:5	w	بِهِۦ		بهي	of him	bihi
+11	84:15:6	w	بَصِيراࣰ࣌		بصيرا	All-Seer	baṣīran
+11	84:15:7	e	۝١٥				
+12	84:16:1	w	۞ فَلَآ		فلا	But nay	falā
+12	84:16:2	w	أُقْسِمُ		اقسم	I swear	uq'simu
+12	84:16:3	w	بِالشَّفَقِ		بالشفق	by the twilight glow	bil-shafaqi
+12	84:16:4	e	۝١٦				
+12	84:17:1	w	وَاليْلِ		واليل	And the night	wa-al-layli
+12	84:17:2	w	وَمَا		وما	and what	wamā
+12	84:17:3	w	وَسَقَ		وسق	it envelops	wasaqa
+12	84:17:4	e	۝١٧				
+12	84:18:1	w	وَالْقَمَرِ		والقمر	And the moon	wal-qamari
+12	84:18:2	w	إِذَا		اذا	when	idhā
+13	84:18:3	w	ࡰٜتَّسَقَ		اتسق	it becomes full	ittasaqa
+13	84:18:4	e	۝١٨				
+13	84:19:1	w	لَتَرْكَبُنَّ		لتركبن	You will surely embark	latarkabunna
+13	84:19:2	w	طَبَقاً		طبقا	(to) stage	ṭabaqan
+13	84:19:3	w	عَن		عن	from	ʿan
+13	84:19:4	w	طَبَقࣲ࣌		طبق	stage	ṭabaqin
+13	84:19:5	e	۝١٩				
+13	84:20:1	w	فَمَا		فما	So what	famā
+13	84:20:2	w	لَهُمْ		لهم	(is) for them	lahum
+13	84:20:3	w	لَا		لا	not	lā
+13	84:20:4	w	يُومِنُونَ		يومنون	they believe	yu'minūna
+13	84:20:5	e	۝٢٠				
+14	84:21:1	w	وَإِذَا		واذا	And when	wa-idhā
+14	84:21:2	w	قُرِۓَ		قري	is recited	quri-a
+14	84:21:3	w	عَلَيْهِمُ		عليهم	to them	ʿalayhimu
+14	84:21:4	w	ࡲ۬لْقُرْءَانُ		القران	the Quran	l-qur'ānu
+14	84:21:5	w	لَا		لا	not	lā
+14	84:21:6	w	يَسْجُدُونَ۩࣌		يسجدون	they prostrate	yasjudūna
+14	84:21:7	e	۝٢١				
+14	84:22:1	w	بَلِ		بل	Nay	bali
+14	84:22:2	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+14	84:22:3	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+15	84:22:4	w	يُكَذِّبُونَ		يكذبون	deny	yukadhibūna
+15	84:22:5	e	۝٢٢				
+15	84:23:1	w	وَاللَّهُ		والله	And Allah	wal-lahu
+15	84:23:2	w	أَعْلَمُ		اعلم	(is) most knowing	aʿlamu
+15	84:23:3	w	بِمَا		بما	of what	bimā
+15	84:23:4	w	يُوعُونَ࣌		يوعون	they keep within themselves	yūʿūna
+15	84:23:5	e	۝٢٣				
+15	84:24:1	w	فَبَشِّرْهُم		فبشرهم	so give them tidings	fabashir'hum
+15	84:24:2	w	بِعَذَابٍ		بعذاب	of a punishment	biʿadhābin
+15	84:24:3	w	ࡰلِيمٍ࣌		اليم	painful	alīmin
+15	84:24:4	e	۝٢٤				

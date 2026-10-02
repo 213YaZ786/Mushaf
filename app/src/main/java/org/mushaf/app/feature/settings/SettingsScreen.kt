@@ -21,6 +21,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import org.koin.compose.koinInject
+import androidx.compose.runtime.rememberCoroutineScope
+import kotlinx.coroutines.launch
+import org.mushaf.app.data.quran.Riwayat
+import org.mushaf.app.core.quran.Riwayah
 import org.mushaf.app.BuildConfig
 import org.mushaf.app.core.update.UpdateMode
 import org.mushaf.app.core.update.Updates
@@ -40,7 +44,7 @@ import org.mushaf.app.ui.icon.AppIcons
 import org.mushaf.app.ui.theme.TEXT_SCALES
 import org.mushaf.app.ui.theme.textScaleLabel
 
-private enum class OpenDialog { NONE, SCRIPT, THEME, TEXT_SIZE, UPDATES }
+private enum class OpenDialog { NONE, RIWAYAH, SCRIPT, THEME, TEXT_SIZE, UPDATES }
 
 @Composable
 fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslations: () -> Unit, onOpenOffline: () -> Unit, onOpenGuide: () -> Unit) {
@@ -49,6 +53,8 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
     val settings by store.settings.collectAsState()
     val context = LocalContext.current
     var dialog by rememberSaveable { mutableStateOf(OpenDialog.NONE) }
+    val riwayat: Riwayat = koinInject()
+    val scope = rememberCoroutineScope()
 
     FloatingFrame(
         bottom = 0.dp,
@@ -65,6 +71,12 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
             Section("Mushaf") {
                 val kept = remember(settings.script) { fonts.count(settings.script) }
                 SettingRow(
+                    title = "Riwayah",
+                    summary = "${settings.riwayah.label} · ${settings.riwayah.arabic}",
+                    onClick = { dialog = OpenDialog.RIWAYAH }
+                )
+                // Warsh has one script, the King Fahd Complex's; the printed pages are Hafs's.
+                if (settings.riwayah == Riwayah.HAFS) SettingRow(
                     title = "Pages",
                     summary = scriptLabel(settings.script) + when (settings.script) {
                         Script.HAFS -> ""
@@ -137,6 +149,13 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
     }
 
     when (dialog) {
+        OpenDialog.RIWAYAH -> ChoiceDialog(
+            title = "Riwayah",
+            options = Riwayah.entries.map { it to "${it.label} · ${it.arabic}" },
+            selected = settings.riwayah,
+            onSelect = { r -> scope.launch { riwayat.change(r) } },
+            onDismiss = { dialog = OpenDialog.NONE }
+        )
         OpenDialog.SCRIPT -> ChoiceDialog(
             title = "Pages",
             options = Script.entries.filter { it.usable }.map { it to scriptLabel(it) },

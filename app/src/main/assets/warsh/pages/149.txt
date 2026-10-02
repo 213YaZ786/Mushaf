@@ -1,0 +1,132 @@
+1	6:153:1	w	وَلَا		ولا	And (do) not	walā
+1	6:153:2	w	تَقْرَبُواْ		تقربوا	go near	taqrabū
+1	6:153:3	w	مَالَ		مال	wealth	māla
+1	6:153:4	w	ࡰ۬لْيَتِيمِ		اليتيم	(of) the orphans	l-yatīmi
+1	6:153:5	w	إِلَّا		الا	except	illā
+1	6:153:6	w	بِالتِے		بالتي	with that	bi-allatī
+1	6:153:7	w	هِيَ		هي	which	hiya
+1	6:153:8	w	أَحْسَنُ		احسن	(is) best	aḥsanu
+1	6:153:9	w	حَتَّىٰ		حتي	until	ḥattā
+1	6:153:10	w	يَبْلُغَ		يبلغ	he reaches	yablugha
+1	6:153:11	w	أَشُدَّهُۥ࣌		اشده	his maturity	ashuddahu
+2	6:153:12	w	وَأَوْفُواْ		واوفوا	And give full	wa-awfū
+2	6:153:13	w	ࡲ۬لْكَيْلَ		الكيل	[the] measure	l-kayla
+2	6:153:14	w	وَالْمِيزَانَ		والميزان	and the weight	wal-mīzāna
+2	6:153:15	w	بِالْقِسْطِ࣌		بالقسط	with justice	bil-qis'ṭi
+2	6:153:16	w	لَا		لا	Not	lā
+2	6:153:17	w	نُكَلِّفُ		نكلف	We burden	nukallifu
+2	6:153:18	w	نَفْساً		نفسا	any soul	nafsan
+2	6:153:19	w	ࡴلَّا		الا	except	illā
+3	6:153:20	w	وُسْعَهَا࣌		وسعها	(to) its capacity	wus'ʿahā
+3	6:153:21	w	وَإِذَا		واذا	And when	wa-idhā
+3	6:153:22	w	قُلْتُمْ		قلتم	you speak	qul'tum
+3	6:153:23	w	فَاعْدِلُواْ		فاعدلوا	then be just	fa-iʿ'dilū
+3	6:153:24	w	وَلَوْ		ولو	even if	walaw
+3	6:153:25	w	كَانَ		كان	he is	kāna
+3	6:153:26	w	ذَا		ذا	(one of)	dhā
+3	6:153:27	w	قُرْبٜىٰ࣌		قربي	a near relative	qur'bā
+3	6:153:28	w	وَبِعَهْدِ		وبعهد	And (the) Covenant	wabiʿahdi
+4	6:153:29	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+4	6:153:30	w	أَوْفُواْ࣌		اوفوا	fulfil	awfū
+4	6:153:31	w	ذَٰلِكُمْ		ذلكم	That	dhālikum
+4	6:153:32	w	وَصّٜيٰكُم		وصيكم	(He) has enjoined on you	waṣṣākum
+4	6:153:33	w	بِهِۦ		بهي	with it	bihi
+4	6:153:34	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+4	6:153:35	w	تَذَّكَّرُونَ࣌		تذكرون	remember	tadhakkarūna
+4	6:153:36	e	۝١٥٣				
+5	6:154:1	w	وَأَنَّ		وان	And that	wa-anna
+5	6:154:2	w	هَٰذَا		هذا	this	hādhā
+5	6:154:3	w	صِرَٰطِے		صرطي	(is) My path	ṣirāṭī
+5	6:154:4	w	مُسْتَقِيماࣰ		مستقيما	straight	mus'taqīman
+5	6:154:5	w	فَاتَّبِعُوهُ࣌		فاتبعوه	so follow it	fa-ittabiʿūhu
+5	6:154:6	w	وَلَا		ولا	And (do) not	walā
+5	6:154:7	w	تَتَّبِعُواْ		تتبعوا	follow	tattabiʿū
+5	6:154:8	w	ࡲ۬لسُّبُلَ		السبل	the (other) paths	l-subula
+6	6:154:9	w	فَتَفَرَّقَ		فتفرق	then they will separate	fatafarraqa
+6	6:154:10	w	بِكُمْ		بكم	you	bikum
+6	6:154:11	w	عَن		عن	from	ʿan
+6	6:154:12	w	سَبِيلِهِۦ࣌		سبيلهي	His path	sabīlihi
+6	6:154:13	w	ذَٰلِكُمْ		ذلكم	That	dhālikum
+6	6:154:14	w	وَصّٜيٰكُم		وصيكم	(He) has enjoined on you	waṣṣākum
+6	6:154:15	w	بِهِۦ		بهي	[with it]	bihi
+6	6:154:16	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+7	6:154:17	w	تَتَّقُونَ࣌		تتقون	become righteous	tattaqūna
+7	6:154:18	e	۝١٥٤				
+7	6:155:1	w	ثُمَّ		ثم	Moreover	thumma
+7	6:155:2	w	ءَاتَيْنَا		اتينا	We gave	ātaynā
+7	6:155:3	w	مُوسَى		موسي	Musa	mūsā
+7	6:155:4	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+7	6:155:5	w	تَمَاماً		تماما	completing (Our Favor)	tamāman
+7	6:155:6	w	عَلَى		علي	on	ʿalā
+7	6:155:7	w	ࡰ۬لذِےٓ		الذي	the one who	alladhī
+8	6:155:8	w	أَحْسَنَ		احسن	did good	aḥsana
+8	6:155:9	w	وَتَفْصِيلاࣰ		وتفصيلا	and an explanation	watafṣīlan
+8	6:155:10	w	لِّكُلِّ		لكل	of every	likulli
+8	6:155:11	w	شَےْءࣲ		شي	thing	shayin
+8	6:155:12	w	وَهُدىࣰ		وهدي	and a guidance	wahudan
+8	6:155:13	w	وَرَحْمَةࣰ		ورحمة	and mercy	waraḥmatan
+8	6:155:14	w	لَّعَلَّهُم		لعلهم	so that they may	laʿallahum
+8	6:155:15	w	بِلِقَآءِ		بلقا	in (the) meeting	biliqāi
+9	6:155:16	w	رَبِّهِمْ		ربهم	(with) their Lord	rabbihim
+9	6:155:17	w	يُومِنُونَ࣌		يومنون	believe	yu'minūna
+9	6:155:18	e	۝١٥٥				
+9	6:156:1	w	وَهَٰذَا		وهذا	And this	wahādhā
+9	6:156:2	w	كِتَٰبٌ		كتب	(is) a Book	kitābun
+9	6:156:3	w	ࡰنزَلْنَٰهُ		انزلنه	We have revealed it	anzalnāhu
+9	6:156:4	w	مُبَٰرَكࣱ		مبرك	blessed	mubārakun
+9	6:156:5	w	فَاتَّبِعُوهُ		فاتبعوه	so follow it	fa-ittabiʿūhu
+10	6:156:6	w	وَاتَّقُواْ		واتقوا	and fear (Allah)	wa-ittaqū
+10	6:156:7	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+10	6:156:8	w	تُرْحَمُونَ		ترحمون	receive mercy	tur'ḥamūna
+10	6:156:9	e	۝١٥٦				
+10	6:157:1	w	أَن		ان	Lest	an
+10	6:157:2	w	تَقُولُوٓاْ		تقولوا	you say	taqūlū
+10	6:157:3	w	إِنَّمَآ		انما	Only	innamā
+10	6:157:4	w	أُنزِلَ		انزل	was revealed	unzila
+10	6:157:5	w	ࡰ۬لْكِتَٰبُ		الكتب	the Book	l-kitābu
+11	6:157:6	w	عَلَىٰ		علي	on	ʿalā
+11	6:157:7	w	طَآئِفَتَيْنِ		طايفتين	the two groups	ṭāifatayni
+11	6:157:8	w	مِن		من	from	min
+11	6:157:9	w	قَبْلِنَا		قبلنا	before us	qablinā
+11	6:157:10	w	وَإِن		وان	and indeed	wa-in
+11	6:157:11	w	كُنَّا		كنا	we were	kunnā
+11	6:157:12	w	عَن		عن	about	ʿan
+11	6:157:13	w	دِرَاسَتِهِمْ		دراستهم	their study	dirāsatihim
+11	6:157:14	w	لَغَٰفِلِينَ		لغفلين	certainly unaware	laghāfilīna
+11	6:157:15	e	۝١٥٧				
+12	6:158:1	w	أَوْ		او	Or	aw
+12	6:158:2	w	تَقُولُواْ		تقولوا	you say	taqūlū
+12	6:158:3	w	لَوَ		لو	If	law
+12	6:158:4	w	ࡰنَّآ		انا	[that]	annā
+12	6:158:5	w	أُنزِلَ		انزل	was revealed	unzila
+12	6:158:6	w	عَلَيْنَا		علينا	to us	ʿalaynā
+12	6:158:7	w	ࡰ۬لْكِتَٰبُ		الكتب	the Book	l-kitābu
+12	6:158:8	w	لَكُنَّآ		لكنا	surely we (would) have been	lakunnā
+12	6:158:9	w	أَهْدٜىٰ		اهدي	better guided	ahdā
+12	6:158:10	w	مِنْهُمْ࣌		منهم	than them	min'hum
+12	6:158:11	w	فَقَدْ		فقد	So verily	faqad
+13	6:158:12	w	جَآءَكُم		جاكم	has come to you	jāakum
+13	6:158:13	w	بَيِّنَةࣱ		بينة	clear proofs	bayyinatun
+13	6:158:14	w	مِّن		من	from	min
+13	6:158:15	w	رَّبِّكُمْ		ربكم	your Lord	rabbikum
+13	6:158:16	w	وَهُدىࣰ		وهدي	and a Guidance	wahudan
+13	6:158:17	w	وَرَحْمَةࣱ࣌		ورحمة	and a Mercy	waraḥmatun
+13	6:158:18	w	فَمَنَ		فمن	Then who	faman
+13	6:158:19	w	ࡰظْلَمُ		اظلم	(is) more unjust	aẓlamu
+14	6:158:20	w	مِمَّن		ممن	than (he) who	mimman
+14	6:158:21	w	كَذَّبَ		كذب	denies	kadhaba
+14	6:158:22	w	بِـَٔايَٰتِ		بايت	[with] (the) Verses	biāyāti
+14	6:158:23	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+14	6:158:24	w	وَصَدَفَ		وصدف	and turns away	waṣadafa
+14	6:158:25	w	عَنْهَا࣌		عنها	from them	ʿanhā
+14	6:158:26	w	سَنَجْزِے		سنجزي	We will recompense	sanajzī
+14	6:158:27	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+15	6:158:28	w	يَصْدِفُونَ		يصدفون	turn away	yaṣdifūna
+15	6:158:29	w	عَنَ		عن	from	ʿan
+15	6:158:30	w	اٰيَٰتِنَا		ايتنا	Our Signs	āyātinā
+15	6:158:31	w	سُوٓءَ		سو	(with) an evil	sūa
+15	6:158:32	w	ࡰ۬لْعَذَابِ		العذاب	punishment	l-ʿadhābi
+15	6:158:33	w	بِمَا		بما	because	bimā
+15	6:158:34	w	كَانُواْ		كانوا	they used to	kānū
+15	6:158:35	w	يَصْدِفُونَ࣌		يصدفون	turn away	yaṣdifūna
+15	6:158:36	e	۝١٥٨				

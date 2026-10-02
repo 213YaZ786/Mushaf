@@ -1,0 +1,160 @@
+1	22:6:1	w	ذَٰلِكَ		ذلك	That	dhālika
+1	22:6:2	w	بِأَنَّ		بان	(is) because	bi-anna
+1	22:6:3	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	22:6:4	w	هُوَ		هو	He	huwa
+1	22:6:5	w	ࡰ۬لْحَقُّ		الحق	(is) the Truth	l-ḥaqu
+1	22:6:6	w	وَأَنَّهُۥ		وانه	And that He	wa-annahu
+1	22:6:7	w	يُحْيِ		يحي	[He] gives life	yuḥ'yī
+1	22:6:8	w	ࡴ۬لْمَوْتٜىٰ		الموتي	(to) the dead	l-mawtā
+1	22:6:9	w	وَأَنَّهُۥ		وانه	and that He	wa-annahu
+1	22:6:10	w	عَلَىٰ		علي	(is) over	ʿalā
+1	22:6:11	w	كُلِّ		كل	every	kulli
+2	22:6:12	w	شَےْءࣲ		شي	thing	shayin
+2	22:6:13	w	قَدِيرࣱ		قدير	All-Powerful	qadīrun
+2	22:6:14	e	۝٦				
+2	22:7:1	w	وَأَنَّ		وان	And that	wa-anna
+2	22:7:2	w	ࡰ۬لسَّاعَةَ		الساعة	the Hour	l-sāʿata
+2	22:7:3	w	ءَاتِيَةࣱ		اتية	will come	ātiyatun
+2	22:7:4	w	لَّا		لا	(there is) no	lā
+2	22:7:5	w	رَيْبَ		ريب	doubt	rayba
+2	22:7:6	w	فِيهَا		فيها	about it	fīhā
+2	22:7:7	w	وَأَنَّ		وان	and that	wa-anna
+2	22:7:8	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+2	22:7:9	w	يَبْعَثُ		يبعث	will resurrect	yabʿathu
+3	22:7:10	w	مَن		من	(those) who	man
+3	22:7:11	w	فِے		في	(are) in	fī
+3	22:7:12	w	ࡴ۬لْقُبُورِ࣌		القبور	the graves	l-qubūri
+3	22:7:13	e	۝٧				
+3	22:8:1	w	وَمِنَ		ومن	And among	wamina
+3	22:8:2	w	ࡰ۬لنَّاسِ		الناس	mankind	l-nāsi
+3	22:8:3	w	مَنْ		من	(is he) who	man
+3	22:8:4	w	يُّجَٰدِلُ		يجدل	disputes	yujādilu
+3	22:8:5	w	فِے		في	concerning	fī
+3	22:8:6	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+3	22:8:7	w	بِغَيْرِ		بغير	without	bighayri
+3	22:8:8	w	عِلْمࣲ		علم	any knowledge	ʿil'min
+4	22:8:9	w	وَلَا		ولا	and not	walā
+4	22:8:10	w	هُدىࣰ		هدي	any guidance	hudan
+4	22:8:11	w	وَلَا		ولا	and not	walā
+4	22:8:12	w	كِتَٰبࣲ		كتب	a Book	kitābin
+4	22:8:13	w	مُّنِيرࣲ		منير	enlightening	munīrin
+4	22:8:14	e	۝٨				
+4	22:9:1	w	ثَانِيَ		ثاني	Twisting	thāniya
+4	22:9:2	w	عِطْفِهِۦ		عطفهي	his neck	ʿiṭ'fihi
+4	22:9:3	w	لِيُضِلَّ		ليضل	to mislead	liyuḍilla
+4	22:9:4	w	عَن		عن	from	ʿan
+4	22:9:5	w	سَبِيلِ		سبيل	(the) way	sabīli
+5	22:9:6	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+5	22:9:7	w	لَهُۥ		له	For him	lahu
+5	22:9:8	w	فِے		في	in	fī
+5	22:9:9	w	ࡴ۬لدُّنْيٜا		الدنيا	the world	l-dun'yā
+5	22:9:10	w	خِزْيࣱ࣌		خزي	(is) disgrace	khiz'yun
+5	22:9:11	w	وَنُذِيقُهُۥ		ونذيقه	and We will make him taste	wanudhīquhu
+5	22:9:12	w	يَوْمَ		يوم	(on the) Day	yawma
+5	22:9:13	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) Resurrection	l-qiyāmati
+5	22:9:14	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+5	22:9:15	w	ࡰ۬لْحَرِيقِ࣌		الحريق	(of) the Burning Fire	l-ḥarīqi
+5	22:9:16	e	۝٩				
+6	22:10:1	w	ذَٰلِكَ		ذلك	That	dhālika
+6	22:10:2	w	بِمَا		بما	(is) for what	bimā
+6	22:10:3	w	قَدَّمَتْ		قدمت	have sent forth	qaddamat
+6	22:10:4	w	يَدَٰكَ		يدك	your hands	yadāka
+6	22:10:5	w	وَأَنَّ		وان	and that	wa-anna
+6	22:10:6	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	22:10:7	w	لَيْسَ		ليس	is not	laysa
+6	22:10:8	w	بِظَلَّٰمࣲ		بظلم	unjust	biẓallāmin
+6	22:10:9	w	لِّلْعَبِيدِ࣌		للعبيد	to His slaves	lil'ʿabīdi
+6	22:10:10	e	۝١٠				
+7	22:11:1	w	۞ وَمِنَ		ومن	And among	wamina
+7	22:11:2	w	ࡰ۬لنَّاسِ		الناس	the mankind	l-nāsi
+7	22:11:3	w	مَنْ		من	(is he) who	man
+7	22:11:4	w	يَّعْبُدُ		يعبد	worships	yaʿbudu
+7	22:11:5	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+7	22:11:6	w	عَلَىٰ		علي	on	ʿalā
+7	22:11:7	w	حَرْفࣲ		حرف	an edge	ḥarfin
+7	22:11:8	w	فَإِنَ		فان	And if	fa-in
+7	22:11:9	w	ࡰصَابَهُۥ		اصابه	befalls him	aṣābahu
+7	22:11:10	w	خَيْرٌ		خير	good	khayrun
+7	22:11:11	w	ࡴٜطْمَأَنَّ		اطمان	he is content	iṭ'ma-anna
+8	22:11:12	w	بِهِۦ		بهي	with it	bihi
+8	22:11:13	w	وَإِنَ		وان	and if	wa-in
+8	22:11:14	w	ࡰصَابَتْهُ		اصابته	befalls him	aṣābathu
+8	22:11:15	w	فِتْنَةٌ		فتنة	a trial	fit'natun
+8	22:11:16	w	ࡴٜنقَلَبَ		انقلب	he turns	inqalaba
+8	22:11:17	w	عَلَىٰ		علي	on	ʿalā
+8	22:11:18	w	وَجْهِهِۦ		وجههي	his face	wajhihi
+8	22:11:19	w	خَسِرَ		خسر	He has lost	khasira
+8	22:11:20	w	ࡰ۬لدُّنْيٜا		الدنيا	the world	l-dun'yā
+8	22:11:21	w	وَالَاخِرَةَ࣌		والاخرة	and the Hereafter	wal-ākhirata
+9	22:11:22	w	ذَٰلِكَ		ذلك	That	dhālika
+9	22:11:23	w	هُوَ		هو	[it]	huwa
+9	22:11:24	w	ࡰ۬لْخُسْرَانُ		الخسران	(is) the loss	l-khus'rānu
+9	22:11:25	w	ࡲ۬لْمُبِينُ࣌		المبين	clear	l-mubīnu
+9	22:11:26	e	۝١١				
+9	22:12:1	w	يَدْعُواْ		يدعوا	He calls	yadʿū
+9	22:12:2	w	مِن		من	besides	min
+9	22:12:3	w	دُونِ		دون	besides	dūni
+9	22:12:4	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+9	22:12:5	w	مَا		ما	what	mā
+9	22:12:6	w	لَا		لا	not	lā
+9	22:12:7	w	يَضُرُّهُۥ		يضره	harms him	yaḍurruhu
+10	22:12:8	w	وَمَا		وما	and what	wamā
+10	22:12:9	w	لَا		لا	not	lā
+10	22:12:10	w	يَنفَعُهُۥ࣌		ينفعه	benefits him	yanfaʿuhu
+10	22:12:11	w	ذَٰلِكَ		ذلك	That	dhālika
+10	22:12:12	w	هُوَ		هو	[it]	huwa
+10	22:12:13	w	ࡰ۬لضَّلَٰلُ		الضلل	(is) the straying	l-ḍalālu
+10	22:12:14	w	ࡲ۬لْبَعِيدُ		البعيد	far away	l-baʿīdu
+10	22:12:15	e	۝١٢				
+10	22:13:1	w	يَدْعُواْ࣌		يدعوا	He calls	yadʿū
+10	22:13:2	w	لَمَن		لمن	(one) who	laman
+10	22:13:3	w	ضَرُّهُۥٓ		ضره	his harm	ḍarruhu
+11	22:13:4	w	أَقْرَبُ		اقرب	(is) closer	aqrabu
+11	22:13:5	w	مِن		من	than	min
+11	22:13:6	w	نَّفْعِهِۦ		نفعهي	his benefit	nafʿihi
+11	22:13:7	w	لَبِيسَ		لبيس	Surely, an evil	labi'sa
+11	22:13:8	w	ࡰ۬لْمَوْلٜىٰ		المولي	protector	l-mawlā
+11	22:13:9	w	وَلَبِيسَ		ولبيس	and surely an evil	walabi'sa
+11	22:13:10	w	ࡰ۬لْعَشِيرُ࣌		العشير	friend	l-ʿashīru
+11	22:13:11	e	۝١٣				
+11	22:14:1	w	إِنَّ		ان	Indeed	inna
+11	22:14:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+12	22:14:3	w	يُدْخِلُ		يدخل	will admit	yud'khilu
+12	22:14:4	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+12	22:14:5	w	ءَامَنُواْ		امنوا	believe	āmanū
+12	22:14:6	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+12	22:14:7	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	the righteous deeds	l-ṣāliḥāti
+12	22:14:8	w	جَنَّٰتࣲ		جنت	(to) Gardens	jannātin
+12	22:14:9	w	تَجْرِے		تجري	flow	tajrī
+12	22:14:10	w	مِن		من	from	min
+13	22:14:11	w	تَحْتِهَا		تحتها	underneath it	taḥtihā
+13	22:14:12	w	ࡰ۬لَانْهَٰرُ࣌		الانهر	the rivers	l-anhāru
+13	22:14:13	w	إِنَّ		ان	Indeed	inna
+13	22:14:14	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+13	22:14:15	w	يَفْعَلُ		يفعل	does	yafʿalu
+13	22:14:16	w	مَا		ما	what	mā
+13	22:14:17	w	يُرِيدُ࣌		يريد	He intends	yurīdu
+13	22:14:18	e	۝١٤				
+13	22:15:1	w	مَن		من	Whoever	man
+13	22:15:2	w	كَانَ		كان	[is]	kāna
+13	22:15:3	w	يَظُنُّ		يظن	thinks	yaẓunnu
+13	22:15:4	w	أَن		ان	that	an
+14	22:15:5	w	لَّنْ		لن	not	lan
+14	22:15:6	w	يَّنصُرَهُ		ينصره	Allah will help him	yanṣurahu
+14	22:15:7	w	ࡲ۬للَّهُ		الله	Allah will help him	l-lahu
+14	22:15:8	w	فِے		في	in	fī
+14	22:15:9	w	ࡴ۬لدُّنْيٜا		الدنيا	the world	l-dun'yā
+14	22:15:10	w	وَالَاخِرَةِ		والاخرة	and the Hereafter	wal-ākhirati
+14	22:15:11	w	فَلْيَمْدُدْ		فليمدد	then let him extend	falyamdud
+14	22:15:12	w	بِسَبَبٍ		بسبب	a rope	bisababin
+14	22:15:13	w	ࡴلَى		الي	to	ilā
+14	22:15:14	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+15	22:15:15	w	ثُمَّ		ثم	then	thumma
+15	22:15:16	w	لِيَقْطَعْ		ليقطع	let him cut off	l'yaqṭaʿ
+15	22:15:17	w	فَلْيَنظُرْ		فلينظر	then let him see	falyanẓur
+15	22:15:18	w	هَلْ		هل	whether	hal
+15	22:15:19	w	يُذْهِبَنَّ		يذهبن	will remove	yudh'hibanna
+15	22:15:20	w	كَيْدُهُۥ		كيده	his plan	kayduhu
+15	22:15:21	w	مَا		ما	what	mā
+15	22:15:22	w	يَغِيظُ࣌		يغيظ	enrages	yaghīẓu
+15	22:15:23	e	۝١٥				

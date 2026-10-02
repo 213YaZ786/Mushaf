@@ -1,0 +1,134 @@
+1	40:16:1	w	ࡴ۬لْيَوْمَ		اليوم	This Day	al-yawma
+1	40:16:2	w	تُجْزٜىٰ		تجزي	will be recompensed	tuj'zā
+1	40:16:3	w	كُلُّ		كل	every	kullu
+1	40:16:4	w	نَفْسِۢ		نفس	soul	nafsin
+1	40:16:5	w	بِمَا		بما	for what	bimā
+1	40:16:6	w	كَسَبَتْ࣌		كسبت	it earned	kasabat
+1	40:16:7	w	لَا		لا	No	lā
+1	40:16:8	w	ظُلْمَ		ظلم	injustice	ẓul'ma
+1	40:16:9	w	ࡰ۬لْيَوْمَ࣌		اليوم	today	l-yawma
+1	40:16:10	w	إِنَّ		ان	Indeed	inna
+2	40:16:11	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+2	40:16:12	w	سَرِيعُ		سريع	(is) Swift	sarīʿu
+2	40:16:13	w	ࡲ۬لْحِسَابِ࣌		الحساب	(in) Account	l-ḥisābi
+2	40:16:14	e	۝١٦				
+2	40:17:1	w	وَأَنذِرْهُمْ		وانذرهم	And warn them	wa-andhir'hum
+2	40:17:2	w	يَوْمَ		يوم	(of the) Day	yawma
+2	40:17:3	w	ࡰ۬لَازِفَةِ		الازفة	the Approaching	l-āzifati
+2	40:17:4	w	إِذِ		اذ	when	idhi
+2	40:17:5	w	ࡴ۬لْقُلُوبُ		القلوب	the hearts	l-qulūbu
+3	40:17:6	w	لَدَى		لدي	(are) at	ladā
+3	40:17:7	w	ࡰ۬لْحَنَاجِرِ		الحناجر	the throats	l-ḥanājiri
+3	40:17:8	w	كَٰظِمِينَ࣌		كظمين	choked	kāẓimīna
+3	40:17:9	e	۝١٧				
+3	40:18:1	w	مَا		ما	Not	mā
+3	40:18:2	w	لِلظَّٰلِمِينَ		للظلمين	for the wrongdoers	lilẓẓālimīna
+3	40:18:3	w	مِنْ		من	any	min
+3	40:18:4	w	حَمِيمࣲ		حميم	intimate friend	ḥamīmin
+3	40:18:5	w	وَلَا		ولا	and no	walā
+3	40:18:6	w	شَفِيعࣲ		شفيع	intercessor	shafīʿin
+4	40:18:7	w	يُطَاعُ࣌		يطاع	(who) is obeyed	yuṭāʿu
+4	40:18:8	e	۝١٨				
+4	40:19:1	w	يَعْلَمُ		يعلم	He knows	yaʿlamu
+4	40:19:2	w	خَآئِنَةَ		خاينة	(the) stealthy glance	khāinata
+4	40:19:3	w	ࡰ۬لَاعْيُنِ		الاعين	(the) stealthy glance	l-aʿyuni
+4	40:19:4	w	وَمَا		وما	and what	wamā
+4	40:19:5	w	تُخْفِے		تخفي	conceal	tukh'fī
+4	40:19:6	w	ࡴ۬لصُّدُورُ࣌		الصدور	the breasts	l-ṣudūru
+4	40:19:7	e	۝١٩				
+4	40:20:1	w	وَاللَّهُ		والله	And Allah	wal-lahu
+5	40:20:2	w	يَقْضِے		يقضي	judges	yaqḍī
+5	40:20:3	w	بِالْحَقِّ࣌		بالحق	in truth	bil-ḥaqi
+5	40:20:4	w	وَالذِينَ		والذين	while those (whom)	wa-alladhīna
+5	40:20:5	w	تَدْعُونَ		تدعون	they invoke	yadʿūna
+5	40:20:6	w	مِن		من	besides Him	min
+5	40:20:7	w	دُونِهِۦ		دونهي	besides Him	dūnihi
+5	40:20:8	w	لَا		لا	not	lā
+5	40:20:9	w	يَقْضُونَ		يقضون	they judge	yaqḍūna
+5	40:20:10	w	بِشَےْءٍ࣌		بشي	with anything	bishayin
+6	40:20:11	w	ࡴنَّ		ان	Indeed	inna
+6	40:20:12	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	40:20:13	w	هُوَ		هو	He	huwa
+6	40:20:14	w	ࡰ۬لسَّمِيعُ		السميع	(is) the All-Hearer	l-samīʿu
+6	40:20:15	w	ࡲ۬لْبَصِيرُ࣌		البصير	the All-Seer	l-baṣīru
+6	40:20:16	e	۝٢٠				
+6	40:21:1	w	۞ أَوَلَمْ		اولم	Do not	awalam
+6	40:21:2	w	يَسِيرُواْ		يسيروا	they travel	yasīrū
+6	40:21:3	w	فِے		في	in	fī
+6	40:21:4	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+7	40:21:5	w	فَيَنظُرُواْ		فينظروا	and see	fayanẓurū
+7	40:21:6	w	كَيْفَ		كيف	how	kayfa
+7	40:21:7	w	كَانَ		كان	was	kāna
+7	40:21:8	w	عَٰقِبَةُ		عقبة	(the) end	ʿāqibatu
+7	40:21:9	w	ࡲ۬لذِينَ		الذين	(of) those who	alladhīna
+7	40:21:10	w	كَانُواْ		كانوا	were	kānū
+7	40:21:11	w	مِن		من	before them	min
+7	40:21:12	w	قَبْلِهِمْ࣌		قبلهم	before them	qablihim
+8	40:21:13	w	كَانُواْ		كانوا	They were	kānū
+8	40:21:14	w	هُمُۥٓ		هم	[they]	hum
+8	40:21:15	w	أَشَدَّ		اشد	superior	ashadda
+8	40:21:16	w	مِنْهُمْ		منهم	to them	min'hum
+8	40:21:17	w	قُوَّةࣰ		قوة	(in) strength	quwwatan
+8	40:21:18	w	وَءَاثَاراࣰ		واثارا	and (in) impressions	waāthāran
+8	40:21:19	w	فِے		في	in	fī
+8	40:21:20	w	ࡴ۬لَارْضِ		الارض	the land	l-arḍi
+8	40:21:21	w	فَأَخَذَهُمُ		فاخذهم	but Allah seized them	fa-akhadhahumu
+8	40:21:22	w	ࡲ۬للَّهُ		الله	but Allah seized them	l-lahu
+9	40:21:23	w	بِذُنُوبِهِمْ࣌		بذنوبهم	for their sins	bidhunūbihim
+9	40:21:24	w	وَمَا		وما	and not	wamā
+9	40:21:25	w	كَانَ		كان	was	kāna
+9	40:21:26	w	لَهُم		لهم	for them	lahum
+9	40:21:27	w	مِّنَ		من	against	mina
+9	40:21:28	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+9	40:21:29	w	مِنْ		من	any	min
+9	40:21:30	w	وَّاقࣲ࣌		واق	protector	wāqin
+9	40:21:31	e	۝٢١				
+9	40:22:1	w	ذَٰلِكَ		ذلك	That	dhālika
+9	40:22:2	w	بِأَنَّهُمْ		بانهم	(was) because [they]	bi-annahum
+10	40:22:3	w	كَانَت		كانت	used to come to them	kānat
+10	40:22:4	w	تَّاتِيهِمْ		تاتيهم	used to come to them	tatīhim
+10	40:22:5	w	رُسُلُهُم		رسلهم	their Messengers	rusuluhum
+10	40:22:6	w	بِالْبَيِّنَٰتِ		بالبينت	with clear proofs	bil-bayināti
+10	40:22:7	w	فَكَفَرُواْ		فكفروا	but they disbelieved	fakafarū
+10	40:22:8	w	فَأَخَذَهُمُ		فاخذهم	So Allah seized them	fa-akhadhahumu
+10	40:22:9	w	ࡲ۬للَّهُ࣌		الله	So Allah seized them	l-lahu
+11	40:22:10	w	إِنَّهُۥ		انه	Indeed, He	innahu
+11	40:22:11	w	قَوِيࣱّ		قوي	(is) All-Strong	qawiyyun
+11	40:22:12	w	شَدِيدُ		شديد	severe	shadīdu
+11	40:22:13	w	ࡲ۬لْعِقَابِ࣌		العقاب	(in) punishment	l-ʿiqābi
+11	40:22:14	e	۝٢٢				
+11	40:23:1	w	وَلَقَدَ		ولقد	And certainly	walaqad
+11	40:23:2	w	ࡰرْسَلْنَا		ارسلنا	We sent	arsalnā
+11	40:23:3	w	مُوسٜىٰ		موسي	Musa	mūsā
+11	40:23:4	w	بِـَٔايَٰتِنَا		بايتنا	with Our Signs	biāyātinā
+12	40:23:5	w	وَسُلْطَٰنࣲ		وسلطن	and an authority	wasul'ṭānin
+12	40:23:6	w	مُّبِينٍ		مبين	clear	mubīnin
+12	40:23:7	e	۝٢٣				
+12	40:24:1	w	ࡴلَىٰ		الي	To	ilā
+12	40:24:2	w	فِرْعَوْنَ		فرعون	Firaun	fir'ʿawna
+12	40:24:3	w	وَهَامَٰنَ		وهامن	Haman	wahāmāna
+12	40:24:4	w	وَقَارُونَ		وقارون	and Qarun	waqārūna
+13	40:24:5	w	فَقَالُواْ		فقالوا	but they said	faqālū
+13	40:24:6	w	سَٰحِرࣱ		سحر	A magician	sāḥirun
+13	40:24:7	w	كَذَّابࣱ࣌		كذاب	a liar	kadhābun
+13	40:24:8	e	۝٢٤				
+13	40:25:1	w	فَلَمَّا		فلما	Then when	falammā
+13	40:25:2	w	جَآءَهُم		جاهم	he brought to them	jāahum
+13	40:25:3	w	بِالْحَقِّ		بالحق	the truth	bil-ḥaqi
+13	40:25:4	w	مِنْ		من	from	min
+14	40:25:5	w	عِندِنَا		عندنا	Us	ʿindinā
+14	40:25:6	w	قَالُواْ		قالوا	they said	qālū
+14	40:25:7	w	ࡲ࢈قْتُلُوٓاْ		اقتلوا	Kill	uq'tulū
+14	40:25:8	w	أَبْنَآءَ		ابنا	(the) sons	abnāa
+14	40:25:9	w	ࡰ۬لذِينَ		الذين	(of) those who	alladhīna
+14	40:25:10	w	ءَامَنُواْ		امنوا	believe	āmanū
+14	40:25:11	w	مَعَهُۥ		معه	with him	maʿahu
+14	40:25:12	w	وَاسْتَحْيُواْ		واستحيوا	and let live	wa-is'taḥyū
+15	40:25:13	w	نِسَآءَهُمْ࣌		نساهم	their women	nisāahum
+15	40:25:14	w	وَمَا		وما	And not	wamā
+15	40:25:15	w	كَيْدُ		كيد	(is the) plot	kaydu
+15	40:25:16	w	ࡲ۬لْكٜـٰفِرِينَ		الكفرين	(of) the disbelievers	l-kāfirīna
+15	40:25:17	w	إِلَّا		الا	but	illā
+15	40:25:18	w	فِے		في	in	fī
+15	40:25:19	w	ضَلَٰلࣲ࣌		ضلل	error	ḍalālin
+15	40:25:20	e	۝٢٥				

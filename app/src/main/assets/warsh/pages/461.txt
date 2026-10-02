@@ -1,0 +1,147 @@
+1	39:21:1	w	أَفَمَن		افمن	So is (one for) whom	afaman
+1	39:21:2	w	شَرَحَ		شرح	Allah has expanded	sharaḥa
+1	39:21:3	w	ࡰ۬للَّهُ		الله	Allah has expanded	l-lahu
+1	39:21:4	w	صَدْرَهُۥ		صدره	his breast	ṣadrahu
+1	39:21:5	w	لِلِاسْلَٰمِ		للاسلم	for Islam	lil'is'lāmi
+1	39:21:6	w	فَهُوَ		فهو	so he	fahuwa
+1	39:21:7	w	عَلَىٰ		علي	(is) upon	ʿalā
+1	39:21:8	w	نُورࣲ		نور	a light	nūrin
+1	39:21:9	w	مِّن		من	from	min
+1	39:21:10	w	رَّبِّهِۦ࣌		ربهي	his Lord	rabbihi
+1	39:21:11	w	فَوَيْلࣱ		فويل	So woe	fawaylun
+2	39:21:12	w	لِّلْقَٰسِيَةِ		للقسية	to (those are) hardened	lil'qāsiyati
+2	39:21:13	w	قُلُوبُهُم		قلوبهم	their hearts	qulūbuhum
+2	39:21:14	w	مِّن		من	from	min
+2	39:21:15	w	ذِكْرِ		ذكر	(the) remembrance of Allah	dhik'ri
+2	39:21:16	w	ࡴ۬للَّهِ࣌		الله	(the) remembrance of Allah	l-lahi
+2	39:21:17	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+2	39:21:18	w	فِے		في	(are) in	fī
+2	39:21:19	w	ضَلَٰلࣲ		ضلل	error	ḍalālin
+2	39:21:20	w	مُّبِينٍ࣌		مبين	clear	mubīnin
+2	39:21:21	e	۝٢١				
+3	39:22:1	w	ࡴ۬للَّهُ		الله	Allah	al-lahu
+3	39:22:2	w	نَزَّلَ		نزل	has revealed	nazzala
+3	39:22:3	w	أَحْسَنَ		احسن	(the) best	aḥsana
+3	39:22:4	w	ࡰ۬لْحَدِيثِ		الحديث	(of) [the] statement	l-ḥadīthi
+3	39:22:5	w	كِتَٰباࣰ		كتبا	a Book	kitāban
+3	39:22:6	w	مُّتَشَٰبِهاࣰ		متشبها	(its parts) resembling each other	mutashābihan
+3	39:22:7	w	مَّثَانِيَ࣌		مثاني	oft-repeated	mathāniya
+3	39:22:8	w	تَقْشَعِرُّ		تقشعر	Shiver	taqshaʿirru
+4	39:22:9	w	مِنْهُ		منه	from it	min'hu
+4	39:22:10	w	جُلُودُ		جلود	(the) skins	julūdu
+4	39:22:11	w	ࡲ۬لذِينَ		الذين	(of) those who	alladhīna
+4	39:22:12	w	يَخْشَوْنَ		يخشون	fear	yakhshawna
+4	39:22:13	w	رَبَّهُمْ		ربهم	their Lord	rabbahum
+4	39:22:14	w	ثُمَّ		ثم	then	thumma
+4	39:22:15	w	تَلِينُ		تلين	relax	talīnu
+4	39:22:16	w	جُلُودُهُمْ		جلودهم	their skins	julūduhum
+4	39:22:17	w	وَقُلُوبُهُمُۥٓ		وقلوبهم	and their hearts	waqulūbuhum
+5	39:22:18	w	إِلَىٰ		الي	at	ilā
+5	39:22:19	w	ذِكْرِ		ذكر	(the) remembrance	dhik'ri
+5	39:22:20	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+5	39:22:21	w	ذَٰلِكَ		ذلك	That	dhālika
+5	39:22:22	w	هُدَى		هدي	(is the) guidance	hudā
+5	39:22:23	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+5	39:22:24	w	يَهْدِے		يهدي	He guides	yahdī
+5	39:22:25	w	بِهِۦ		بهي	with it	bihi
+5	39:22:26	w	مَنْ		من	whom	man
+5	39:22:27	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+5	39:22:28	w	وَمَنْ		ومن	And whoever	waman
+6	39:22:29	w	يُّضْلِلِ		يضلل	Allah lets go astray	yuḍ'lili
+6	39:22:30	w	ࡴ۬للَّهُ		الله	Allah lets go astray	l-lahu
+6	39:22:31	w	فَمَا		فما	then not	famā
+6	39:22:32	w	لَهُۥ		له	for him	lahu
+6	39:22:33	w	مِنْ		من	any	min
+6	39:22:34	w	هَادٍ࣌		هاد	guide	hādin
+6	39:22:35	e	۝٢٢				
+6	39:23:1	w	ࡰفَمَنْ		افمن	Then (is) he who	afaman
+6	39:23:2	w	يَّتَّقِے		يتقي	will shield	yattaqī
+6	39:23:3	w	بِوَجْهِهِۦ		بوجههي	with his face	biwajhihi
+6	39:23:4	w	سُوٓءَ		سو	(the) worst	sūa
+6	39:23:5	w	ࡰ۬لْعَذَابِ		العذاب	punishment	l-ʿadhābi
+7	39:23:6	w	يَوْمَ		يوم	(on the) Day	yawma
+7	39:23:7	w	ࡰ۬لْقِيَٰمَةِ࣌		القيمة	(of) the Resurrection	l-qiyāmati
+7	39:23:8	w	وَقِيلَ		وقيل	And it will be said	waqīla
+7	39:23:9	w	لِلظَّٰلِمِينَ		للظلمين	to the wrongdoers	lilẓẓālimīna
+7	39:23:10	w	ذُوقُواْ		ذوقوا	Taste	dhūqū
+7	39:23:11	w	مَا		ما	what	mā
+7	39:23:12	w	كُنتُمْ		كنتم	you used to	kuntum
+7	39:23:13	w	تَكْسِبُونَ࣌		تكسبون	earn	taksibūna
+7	39:23:14	e	۝٢٣				
+8	39:24:1	w	كَذَّبَ		كذب	Denied	kadhaba
+8	39:24:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+8	39:24:3	w	مِن		من	(were) before them	min
+8	39:24:4	w	قَبْلِهِمْ		قبلهم	(were) before them	qablihim
+8	39:24:5	w	فَأَتٜيٰهُمُ		فاتيهم	so came upon them	fa-atāhumu
+8	39:24:6	w	ࡲ۬لْعَذَابُ		العذاب	the punishment	l-ʿadhābu
+8	39:24:7	w	مِنْ		من	from	min
+8	39:24:8	w	حَيْثُ		حيث	where	ḥaythu
+9	39:24:9	w	لَا		لا	not	lā
+9	39:24:10	w	يَشْعُرُونَ࣌		يشعرون	they perceive	yashʿurūna
+9	39:24:11	e	۝٢٤				
+9	39:25:1	w	فَأَذَاقَهُمُ		فاذاقهم	So Allah made them	fa-adhāqahumu
+9	39:25:2	w	ࡲ۬للَّهُ		الله	So Allah made them	l-lahu
+9	39:25:3	w	ࡲ۬لْخِزْيَ		الخزي	the disgrace	l-khiz'ya
+9	39:25:4	w	فِے		في	in	fī
+9	39:25:5	w	ࡴ۬لْحَيَوٰةِ		الحيوة	the life	l-ḥayati
+9	39:25:6	w	ࡴ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+9	39:25:7	w	وَلَعَذَابُ		ولعذاب	and certainly (the) punishment	walaʿadhābu
+10	39:25:8	w	ࡲ۬لَاخِرَةِ		الاخرة	(of) the Hereafter	l-ākhirati
+10	39:25:9	w	أَكْبَرُ		اكبر	(is) greater	akbaru
+10	39:25:10	w	لَوْ		لو	if	law
+10	39:25:11	w	كَانُواْ		كانوا	they	kānū
+10	39:25:12	w	يَعْلَمُونَ࣌		يعلمون	knew	yaʿlamūna
+10	39:25:13	e	۝٢٥				
+10	39:26:1	w	وَلَقَد		ولقد	And indeed	walaqad
+10	39:26:2	w	ضَّرَبْنَا		ضربنا	We have set forth	ḍarabnā
+10	39:26:3	w	لِلنَّاسِ		للناس	for people	lilnnāsi
+10	39:26:4	w	فِے		في	in	fī
+11	39:26:5	w	هَٰذَا		هذا	this	hādhā
+11	39:26:6	w	ࡰ۬لْقُرْءَانِ		القران	Quran	l-qur'āni
+11	39:26:7	w	مِن		من	of	min
+11	39:26:8	w	كُلِّ		كل	every	kulli
+11	39:26:9	w	مَثَلࣲ		مثل	example	mathalin
+11	39:26:10	w	لَّعَلَّهُمْ		لعلهم	so that they may	laʿallahum
+11	39:26:11	w	يَتَذَكَّرُونَ		يتذكرون	take heed	yatadhakkarūna
+11	39:26:12	e	۝٢٦				
+11	39:27:1	w	قُرْءَاناً		قرانا	A Quran	qur'ānan
+11	39:27:2	w	عَرَبِيّاً		عربيا	(in) Arabic	ʿarabiyyan
+12	39:27:3	w	غَيْرَ		غير	without	ghayra
+12	39:27:4	w	ذِے		ذي	any	dhī
+12	39:27:5	w	عِوَجࣲ		عوج	crookedness	ʿiwajin
+12	39:27:6	w	لَّعَلَّهُمْ		لعلهم	so that they may	laʿallahum
+12	39:27:7	w	يَتَّقُونَ࣌		يتقون	(become) righteous	yattaqūna
+12	39:27:8	e	۝٢٧				
+12	39:28:1	w	ضَرَبَ		ضرب	Allah sets forth	ḍaraba
+12	39:28:2	w	ࡰ۬للَّهُ		الله	Allah sets forth	l-lahu
+12	39:28:3	w	مَثَلاࣰ		مثلا	an example	mathalan
+12	39:28:4	w	رَّجُلاࣰ		رجلا	a man	rajulan
+12	39:28:5	w	فِيهِ		فيه	about him	fīhi
+13	39:28:6	w	شُرَكَآءُ		شركا	partners	shurakāu
+13	39:28:7	w	مُتَشَٰكِسُونَ		متشكسون	quarreling	mutashākisūna
+13	39:28:8	w	وَرَجُلاࣰ		ورجلا	and a man	warajulan
+13	39:28:9	w	سَلَماࣰ		سلما	(belonging) exclusively	salaman
+13	39:28:10	w	لِّرَجُلٍ࣌		لرجل	to one man	lirajulin
+13	39:28:11	w	هَلْ		هل	are	hal
+13	39:28:12	w	يَسْتَوِيَٰنِ		يستوين	they both equal	yastawiyāni
+13	39:28:13	w	مَثَلاً࣌		مثلا	(in) comparison	mathalan
+14	39:28:14	w	ࡴ۬لْحَمْدُ		الحمد	All praise	l-ḥamdu
+14	39:28:15	w	لِلهِ࣌		لله	(be) to Allah	lillahi
+14	39:28:16	w	بَلَ		بل	Nay	bal
+14	39:28:17	w	ࡰكْثَرُهُمْ		اكثرهم	most of them	aktharuhum
+14	39:28:18	w	لَا		لا	(do) not	lā
+14	39:28:19	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+14	39:28:20	e	۝٢٨				
+14	39:29:1	w	إِنَّكَ		انك	Indeed, you	innaka
+14	39:29:2	w	مَيِّتࣱ		ميت	will die	mayyitun
+14	39:29:3	w	وَإِنَّهُم		وانهم	and indeed, they	wa-innahum
+15	39:29:4	w	مَّيِّتُونَ		ميتون	(will also) die	mayyitūna
+15	39:29:5	e	۝٢٩				
+15	39:30:1	w	ثُمَّ		ثم	Then	thumma
+15	39:30:2	w	إِنَّكُمْ		انكم	indeed you	innakum
+15	39:30:3	w	يَوْمَ		يوم	(on the) Day	yawma
+15	39:30:4	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+15	39:30:5	w	عِندَ		عند	before	ʿinda
+15	39:30:6	w	رَبِّكُمْ		ربكم	your Lord	rabbikum
+15	39:30:7	w	تَخْتَصِمُونَ࣌		تختصمون	will dispute	takhtaṣimūna
+15	39:30:8	e	۝٣٠				

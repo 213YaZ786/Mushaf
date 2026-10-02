@@ -1,0 +1,136 @@
+1	16:15:1	w	۞ وَأَلْقٜىٰ		والقي	And He has cast	wa-alqā
+1	16:15:2	w	فِے		في	in	fī
+1	16:15:3	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+1	16:15:4	w	رَوَٰسِيَ		روسي	firm mountains	rawāsiya
+1	16:15:5	w	أَن		ان	lest	an
+1	16:15:6	w	تَمِيدَ		تميد	it should shake	tamīda
+1	16:15:7	w	بِكُمْ		بكم	with you	bikum
+1	16:15:8	w	وَأَنْهَٰراࣰ		وانهرا	and rivers	wa-anhāran
+1	16:15:9	w	وَسُبُلاࣰ		وسبلا	and roads	wasubulan
+2	16:15:10	w	لَّعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+2	16:15:11	w	تَهْتَدُونَ		تهتدون	be guided	tahtadūna
+2	16:15:12	e	۝١٥				
+2	16:16:1	w	وَعَلَٰمَٰتࣲ࣌		وعلمت	And landmarks	waʿalāmātin
+2	16:16:2	w	وَبِالنَّجْمِ		وبالنجم	And by the stars	wabil-najmi
+2	16:16:3	w	هُمْ		هم	they	hum
+2	16:16:4	w	يَهْتَدُونَ࣌		يهتدون	guide themselves	yahtadūna
+2	16:16:5	e	۝١٦				
+3	16:17:1	w	أَفَمَنْ		افمن	Then is He Who	afaman
+3	16:17:2	w	يَّخْلُقُ		يخلق	creates	yakhluqu
+3	16:17:3	w	كَمَن		كمن	like one who	kaman
+3	16:17:4	w	لَّا		لا	(does) not	lā
+3	16:17:5	w	يَخْلُقُ࣌		يخلق	create	yakhluqu
+3	16:17:6	w	أَفَلَا		افلا	Then will you not	afalā
+3	16:17:7	w	تَذَّكَّرُونَ࣌		تذكرون	remember	tadhakkarūna
+3	16:17:8	e	۝١٧				
+3	16:18:1	w	وَإِن		وان	And if	wa-in
+4	16:18:2	w	تَعُدُّواْ		تعدوا	you should count	taʿuddū
+4	16:18:3	w	نِعْمَةَ		نعمة	the Favors of Allah	niʿ'mata
+4	16:18:4	w	ࡰ۬للَّهِ		الله	the Favors of Allah	l-lahi
+4	16:18:5	w	لَا		لا	not	lā
+4	16:18:6	w	تُحْصُوهَآ࣌		تحصوها	you could enumerate them	tuḥ'ṣūhā
+4	16:18:7	w	إِنَّ		ان	Indeed	inna
+4	16:18:8	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	16:18:9	w	لَغَفُورࣱ		لغفور	(is) Oft-Forgiving	laghafūrun
+4	16:18:10	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+4	16:18:11	e	۝١٨				
+5	16:19:1	w	وَاللَّهُ		والله	And Allah	wal-lahu
+5	16:19:2	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+5	16:19:3	w	مَا		ما	what	mā
+5	16:19:4	w	تُسِرُّونَ		تسرون	you conceal	tusirrūna
+5	16:19:5	w	وَمَا		وما	and what	wamā
+5	16:19:6	w	تُعْلِنُونَ࣌		تعلنون	you reveal	tuʿ'linūna
+5	16:19:7	e	۝١٩				
+5	16:20:1	w	وَالذِينَ		والذين	And those whom	wa-alladhīna
+5	16:20:2	w	تَدْعُونَ		تدعون	they invoke	yadʿūna
+6	16:20:3	w	مِن		من	besides	min
+6	16:20:4	w	دُونِ		دون	besides	dūni
+6	16:20:5	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+6	16:20:6	w	لَا		لا	not	lā
+6	16:20:7	w	يَخْلُقُونَ		يخلقون	they create	yakhluqūna
+6	16:20:8	w	شَيْـٔاࣰ		شيا	anything	shayan
+6	16:20:9	w	وَهُمْ		وهم	but (are) themselves	wahum
+6	16:20:10	w	يُخْلَقُونَ࣌		يخلقون	created	yukh'laqūna
+6	16:20:11	e	۝٢٠				
+6	16:21:1	w	أَمْوَٰتٌ		اموت	(They are) dead	amwātun
+7	16:21:2	w	غَيْرُ		غير	not alive	ghayru
+7	16:21:3	w	أَحْيَآءࣲ࣌		احيا	not alive	aḥyāin
+7	16:21:4	w	وَمَا		وما	And not	wamā
+7	16:21:5	w	يَشْعُرُونَ		يشعرون	they perceive	yashʿurūna
+7	16:21:6	w	أَيَّانَ		ايان	when	ayyāna
+7	16:21:7	w	يُبْعَثُونَ࣌		يبعثون	they will be resurrected	yub'ʿathūna
+7	16:21:8	e	۝٢١				
+7	16:22:1	w	إِلَٰهُكُمُۥٓ		الهكم	Your god	ilāhukum
+7	16:22:2	w	إِلَٰهࣱ		اله	(is) God	ilāhun
+8	16:22:3	w	وَٰحِدࣱ࣌		وحد	One	wāḥidun
+8	16:22:4	w	فَالذِينَ		فالذين	But those who	fa-alladhīna
+8	16:22:5	w	لَا		لا	(do) not	lā
+8	16:22:6	w	يُومِنُونَ		يومنون	believe	yu'minūna
+8	16:22:7	w	بِالَاخِرَةِ		بالاخرة	in the Hereafter	bil-ākhirati
+8	16:22:8	w	قُلُوبُهُم		قلوبهم	their hearts	qulūbuhum
+8	16:22:9	w	مُّنكِرَةࣱ		منكرة	refuse	munkiratun
+8	16:22:10	w	وَهُم		وهم	and they	wahum
+9	16:22:11	w	مُّسْتَكْبِرُونَ࣌		مستكبرون	(are) arrogant	mus'takbirūna
+9	16:22:12	e	۝٢٢				
+9	16:23:1	w	لَا		لا	No doubt	lā
+9	16:23:2	w	جَرَمَ		جرم	No doubt	jarama
+9	16:23:3	w	أَنَّ		ان	that	anna
+9	16:23:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+9	16:23:5	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+9	16:23:6	w	مَا		ما	what	mā
+9	16:23:7	w	يُسِرُّونَ		يسرون	they conceal	yusirrūna
+9	16:23:8	w	وَمَا		وما	and what	wamā
+10	16:23:9	w	يُعْلِنُونَ࣌		يعلنون	they reveal	yuʿ'linūna
+10	16:23:10	w	إِنَّهُۥ		انه	Indeed, He	innahu
+10	16:23:11	w	لَا		لا	(does) not	lā
+10	16:23:12	w	يُحِبُّ		يحب	love	yuḥibbu
+10	16:23:13	w	ࡲ۬لْمُسْتَكْبِرِينَ࣌		المستكبرين	the arrogant ones	l-mus'takbirīna
+10	16:23:14	e	۝٢٣				
+10	16:24:1	w	وَإِذَا		واذا	And when	wa-idhā
+10	16:24:2	w	قِيلَ		قيل	it is said	qīla
+10	16:24:3	w	لَهُم		لهم	to them	lahum
+11	16:24:4	w	مَّاذَآ		ماذا	What	mādhā
+11	16:24:5	w	أَنزَلَ		انزل	has your Lord sent down	anzala
+11	16:24:6	w	رَبُّكُمْ		ربكم	has your Lord sent down	rabbukum
+11	16:24:7	w	قَالُوٓاْ		قالوا	They say	qālū
+11	16:24:8	w	أَسَٰطِيرُ		اسطير	Tales	asāṭīru
+11	16:24:9	w	ࡲ۬لَاوَّلِينَ		الاولين	(of) the ancient	l-awalīna
+11	16:24:10	e	۝٢٤				
+11	16:25:1	w	لِيَحْمِلُوٓاْ		ليحملوا	That they may bear	liyaḥmilū
+12	16:25:2	w	أَوْزَارَهُمْ		اوزارهم	their own burdens	awzārahum
+12	16:25:3	w	كَامِلَةࣰ		كاملة	(in) full	kāmilatan
+12	16:25:4	w	يَوْمَ		يوم	on (the) Day	yawma
+12	16:25:5	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+12	16:25:6	w	وَمِنَ		ومن	and of	wamin
+12	16:25:7	w	ࡰوْزٜارِ		اوزار	the burdens	awzāri
+12	16:25:8	w	ࡴ۬لذِينَ		الذين	(of) those whom	alladhīna
+12	16:25:9	w	يُضِلُّونَهُم		يضلونهم	they misled [them]	yuḍillūnahum
+13	16:25:10	w	بِغَيْرِ		بغير	without	bighayri
+13	16:25:11	w	عِلْمٍ࣌		علم	knowledge	ʿil'min
+13	16:25:12	w	ࡰلَا		الا	Unquestionably	alā
+13	16:25:13	w	سَآءَ		سا	evil	sāa
+13	16:25:14	w	مَا		ما	(is) what	mā
+13	16:25:15	w	يَزِرُونَ࣌		يزرون	they will bear	yazirūna
+13	16:25:16	e	۝٢٥				
+13	16:26:1	w	قَدْ		قد	Verily	qad
+13	16:26:2	w	مَكَرَ		مكر	plotted	makara
+13	16:26:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	16:26:4	w	مِن		من	(were) before them	min
+13	16:26:5	w	قَبْلِهِمْ		قبلهم	(were) before them	qablihim
+14	16:26:6	w	فَأَتَى		فاتي	but Allah came	fa-atā
+14	16:26:7	w	ࡰ۬للَّهُ		الله	but Allah came	l-lahu
+14	16:26:8	w	بُنْيَٰنَهُم		بنينهم	(at) their building	bun'yānahum
+14	16:26:9	w	مِّنَ		من	from	mina
+14	16:26:10	w	ࡰ۬لْقَوَاعِدِ		القواعد	the foundations	l-qawāʿidi
+14	16:26:11	w	فَخَرَّ		فخر	so fell	fakharra
+14	16:26:12	w	عَلَيْهِمُ		عليهم	upon them	ʿalayhimu
+14	16:26:13	w	ࡲ۬لسَّقْفُ		السقف	the roof	l-saqfu
+15	16:26:14	w	مِن		من	from	min
+15	16:26:15	w	فَوْقِهِمْ		فوقهم	above them	fawqihim
+15	16:26:16	w	وَأَتٜيٰهُمُ		واتيهم	and came to them	wa-atāhumu
+15	16:26:17	w	ࡲ۬لْعَذَابُ		العذاب	the punishment	l-ʿadhābu
+15	16:26:18	w	مِنْ		من	from	min
+15	16:26:19	w	حَيْثُ		حيث	where	ḥaythu
+15	16:26:20	w	لَا		لا	they (did) not perceive	lā
+15	16:26:21	w	يَشْعُرُونَ࣌		يشعرون	they (did) not perceive	yashʿurūna
+15	16:26:22	e	۝٢٦				

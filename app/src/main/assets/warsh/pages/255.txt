@@ -1,0 +1,111 @@
+1	13:44:1	w	وَيَقُولُ		ويقول	And say	wayaqūlu
+1	13:44:2	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+1	13:44:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+1	13:44:4	w	لَسْتَ		لست	You are not	lasta
+1	13:44:5	w	مُرْسَلاࣰ࣌		مرسلا	a Messenger	mur'salan
+1	13:44:6	w	قُلْ		قل	Say	qul
+1	13:44:7	w	كَفٜىٰ		كفي	Sufficient	kafā
+1	13:44:8	w	بِاللَّهِ		بالله	(is) Allah	bil-lahi
+2	13:44:9	w	شَهِيداَۢ		شهيدا	(as) a Witness	shahīdan
+2	13:44:10	w	بَيْنِے		بيني	between me	baynī
+2	13:44:11	w	وَبَيْنَكُمْ		وبينكم	and between you	wabaynakum
+2	13:44:12	w	وَمَنْ		ومن	and whoever	waman
+2	13:44:13	w	عِندَهُۥ		عنده	[he] has	ʿindahu
+2	13:44:14	w	عِلْمُ		علم	knowledge	ʿil'mu
+2	13:44:15	w	ࡲ۬لْكِتَٰبِ࣌		الكتب	(of) the Book	l-kitābi
+2	13:44:16	e	۝٤٤				
+3	14:0:0	t					
+4	14:0:0	b					
+5	14:1:1	w	أَلَٓرٜ࣌		الر	Alif Laam Ra	alif-lam-ra
+5	14:1:2	w	كِتَٰبٌ		كتب	A Book	kitābun
+5	14:1:3	w	ࡰنزَلْنَٰهُ		انزلنه	which We have revealed	anzalnāhu
+5	14:1:4	w	إِلَيْكَ		اليك	to you	ilayka
+5	14:1:5	w	لِتُخْرِجَ		لتخرج	so that you may bring out	litukh'rija
+5	14:1:6	w	ࡰ۬لنَّاسَ		الناس	the mankind	l-nāsa
+5	14:1:7	w	مِنَ		من	from	mina
+5	14:1:8	w	ࡰ۬لظُّلُمَٰتِ		الظلمت	the darkness[es]	l-ẓulumāti
+6	14:1:9	w	إِلَى		الي	to	ilā
+6	14:1:10	w	ࡰ۬لنُّورِ		النور	the light	l-nūri
+6	14:1:11	e	۝١				
+6	14:2:1	w	بِإِذْنِ		باذن	by the permission	bi-idh'ni
+6	14:2:2	w	رَبِّهِمُۥٓ		ربهم	(of) their Lord	rabbihim
+6	14:2:3	w	إِلَىٰ		الي	to	ilā
+6	14:2:4	w	صِرَٰطِ		صرط	the Path	ṣirāṭi
+6	14:2:5	w	ࡴ۬لْعَزِيزِ		العزيز	(of) the All-Mighty	l-ʿazīzi
+6	14:2:6	w	ࡴ۬لْحَمِيدِ࣌		الحميد	the Praiseworthy	l-ḥamīdi
+6	14:2:7	e	۝٢				
+7	14:3:1	w	ࡴ۬للَّهُ		الله	Allah	al-lahi
+7	14:3:2	w	ࡲ۬لذِے		الذي	(is) the One	alladhī
+7	14:3:3	w	لَهُۥ		له	to Him (belongs)	lahu
+7	14:3:4	w	مَا		ما	whatever	mā
+7	14:3:5	w	فِے		في	(is) in	fī
+7	14:3:6	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+7	14:3:7	w	وَمَا		وما	and whatever	wamā
+7	14:3:8	w	فِے		في	(is) in	fī
+7	14:3:9	w	ࡴ۬لَارْضِ࣌		الارض	the earth	l-arḍi
+7	14:3:10	w	وَوَيْلࣱ		وويل	And woe	wawaylun
+8	14:3:11	w	لِّلْكٜـٰفِرِينَ		للكفرين	to the disbelievers	lil'kāfirīna
+8	14:3:12	w	مِنْ		من	from	min
+8	14:3:13	w	عَذَابࣲ		عذاب	the punishment	ʿadhābin
+8	14:3:14	w	شَدِيدٍ࣌		شديد	severe	shadīdin
+8	14:3:15	e	۝٣				
+8	14:4:1	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+8	14:4:2	w	يَسْتَحِبُّونَ		يستحبون	love more	yastaḥibbūna
+9	14:4:3	w	ࡰ۬لْحَيَوٰةَ		الحيوة	the life	l-ḥayata
+9	14:4:4	w	ࡰ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+9	14:4:5	w	عَلَى		علي	than	ʿalā
+9	14:4:6	w	ࡰ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+9	14:4:7	w	وَيَصُدُّونَ		ويصدون	and hinder	wayaṣuddūna
+9	14:4:8	w	عَن		عن	from	ʿan
+9	14:4:9	w	سَبِيلِ		سبيل	(the) Path	sabīli
+10	14:4:10	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+10	14:4:11	w	وَيَبْغُونَهَا		ويبغونها	and seek in it	wayabghūnahā
+10	14:4:12	w	عِوَجاً		عوجا	crookedness	ʿiwajan
+10	14:4:13	w	ࡳوْلَٰٓئِكَ		اوليك	those	ulāika
+10	14:4:14	w	فِے		في	[in]	fī
+10	14:4:15	w	ضَلَٰلِۢ		ضلل	(are) far astray	ḍalālin
+10	14:4:16	w	بَعِيدࣲ࣌		بعيد	(are) far astray	baʿīdin
+10	14:4:17	e	۝٤				
+10	14:5:1	w	وَمَآ		وما	And not	wamā
+11	14:5:2	w	أَرْسَلْنَا		ارسلنا	We sent	arsalnā
+11	14:5:3	w	مِن		من	any	min
+11	14:5:4	w	رَّسُولٍ		رسول	Messenger	rasūlin
+11	14:5:5	w	ࡴلَّا		الا	except	illā
+11	14:5:6	w	بِلِسَانِ		بلسان	with the language	bilisāni
+11	14:5:7	w	قَوْمِهِۦ		قومهي	(of) his people	qawmihi
+11	14:5:8	w	لِيُبَيِّنَ		ليبين	so that he might make clear	liyubayyina
+11	14:5:9	w	لَهُمْ࣌		لهم	for them	lahum
+11	14:5:10	w	فَيُضِلُّ		فيضل	Then Allah lets go astray	fayuḍillu
+12	14:5:11	w	ࡲ۬للَّهُ		الله	Then Allah lets go astray	l-lahu
+12	14:5:12	w	مَنْ		من	whom	man
+12	14:5:13	w	يَّشَآءُ		يشا	He wills	yashāu
+12	14:5:14	w	وَيَهْدِے		ويهدي	and guides	wayahdī
+12	14:5:15	w	مَنْ		من	whom	man
+12	14:5:16	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+12	14:5:17	w	وَهُوَ		وهو	And He	wahuwa
+12	14:5:18	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+13	14:5:19	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+13	14:5:20	e	۝٥				
+13	14:6:1	w	وَلَقَدَ		ولقد	And verily	walaqad
+13	14:6:2	w	ࡰرْسَلْنَا		ارسلنا	We sent	arsalnā
+13	14:6:3	w	مُوسٜىٰ		موسي	Musa	mūsā
+13	14:6:4	w	بِـَٔايَٰتِنَآ		بايتنا	with Our Signs	biāyātinā
+13	14:6:5	w	أَنَ		ان	that	an
+13	14:6:6	w	ࡰخْرِجْ		اخرج	Bring out	akhrij
+14	14:6:7	w	قَوْمَكَ		قومك	your people	qawmaka
+14	14:6:8	w	مِنَ		من	from	mina
+14	14:6:9	w	ࡰ۬لظُّلُمَٰتِ		الظلمت	the darkness[es]	l-ẓulumāti
+14	14:6:10	w	إِلَى		الي	to	ilā
+14	14:6:11	w	ࡰ۬لنُّورِ		النور	the light	l-nūri
+14	14:6:12	e	۝٦				
+14	14:7:1	w	وَذَكِّرْهُم		وذكرهم	And remind them	wadhakkir'hum
+14	14:7:2	w	بِأَييَّٰمِ		باييم	of the days	bi-ayyāmi
+15	14:7:3	w	ࡴ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+15	14:7:4	w	إِنَّ		ان	Indeed	inna
+15	14:7:5	w	فِے		في	in	fī
+15	14:7:6	w	ذَٰلِكَ		ذلك	that	dhālika
+15	14:7:7	w	لَأٓيَٰتࣲ		لايت	surely (are) the signs	laāyātin
+15	14:7:8	w	لِّكُلِّ		لكل	for everyone	likulli
+15	14:7:9	w	صَبّٜارࣲ		صبار	patient	ṣabbārin
+15	14:7:10	w	شَكُورࣲ࣌		شكور	and thankful	shakūrin
+15	14:7:11	e	۝٧				

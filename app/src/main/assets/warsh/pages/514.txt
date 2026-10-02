@@ -1,0 +1,134 @@
+1	48:24:1	w	وَهُوَ		وهو	And He	wahuwa
+1	48:24:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+1	48:24:3	w	كَفَّ		كف	withheld	kaffa
+1	48:24:4	w	أَيْدِيَهُمْ		ايديهم	their hands	aydiyahum
+1	48:24:5	w	عَنكُمْ		عنكم	from you	ʿankum
+1	48:24:6	w	وَأَيْدِيَكُمْ		وايديكم	and your hands	wa-aydiyakum
+1	48:24:7	w	عَنْهُم		عنهم	from them	ʿanhum
+1	48:24:8	w	بِبَطْنِ		ببطن	within	bibaṭni
+1	48:24:9	w	مَكَّةَ		مكة	Makkah	makkata
+2	48:24:10	w	مِنۢ		من	after	min
+2	48:24:11	w	بَعْدِ		بعد	after	baʿdi
+2	48:24:12	w	أَنَ		ان	that	an
+2	48:24:13	w	ࡰظْفَرَكُمْ		اظفركم	He gave you victory	aẓfarakum
+2	48:24:14	w	عَلَيْهِمْ࣌		عليهم	over them	ʿalayhim
+2	48:24:15	w	وَكَانَ		وكان	And is	wakāna
+2	48:24:16	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+2	48:24:17	w	بِمَا		بما	of what	bimā
+2	48:24:18	w	تَعْمَلُونَ		تعملون	you do	taʿmalūna
+2	48:24:19	w	بَصِيراً࣌		بصيرا	All-Seer	baṣīran
+2	48:24:20	e	۝٢٤				
+3	48:25:1	w	هُمُ		هم	They	humu
+3	48:25:2	w	ࡲ۬لذِينَ		الذين	(are) those who	alladhīna
+3	48:25:3	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+3	48:25:4	w	وَصَدُّوكُمْ		وصدوكم	and hindered you	waṣaddūkum
+3	48:25:5	w	عَنِ		عن	from	ʿani
+3	48:25:6	w	ࡴ۬لْمَسْجِدِ		المسجد	Al-Masjid Al-Haraam	l-masjidi
+3	48:25:7	w	ࡴ۬لْحَرَامِ		الحرام	Al-Masjid Al-Haraam	l-ḥarāmi
+4	48:25:8	w	وَالْهَدْيَ		والهدي	while the offering	wal-hadya
+4	48:25:9	w	مَعْكُوفاً		معكوفا	(was) prevented	maʿkūfan
+4	48:25:10	w	ࡰنْ		ان	from	an
+4	48:25:11	w	يَّبْلُغَ		يبلغ	reaching	yablugha
+4	48:25:12	w	مَحِلَّهُۥ࣌		محله	its place (of sacrifice)	maḥillahu
+4	48:25:13	w	وَلَوْلَا		ولولا	And if not	walawlā
+4	48:25:14	w	رِجَالࣱ		رجال	(for) men	rijālun
+4	48:25:15	w	مُّومِنُونَ		مومنون	believing	mu'minūna
+4	48:25:16	w	وَنِسَآءࣱ		ونسا	and women	wanisāon
+5	48:25:17	w	مُّومِنَٰتࣱ		مومنت	believing	mu'minātun
+5	48:25:18	w	لَّمْ		لم	not	lam
+5	48:25:19	w	تَعْلَمُوهُمُۥٓ		تعلموهم	you knew them	taʿlamūhum
+5	48:25:20	w	أَن		ان	that	an
+5	48:25:21	w	تَطَـُٔوهُمْ		تطوهم	you may trample them	taṭaūhum
+5	48:25:22	w	فَتُصِيبَكُم		فتصيبكم	and would befall you	fatuṣībakum
+5	48:25:23	w	مِّنْهُم		منهم	from them	min'hum
+5	48:25:24	w	مَّعَرَّةُۢ		معرة	any harm	maʿarratun
+6	48:25:25	w	بِغَيْرِ		بغير	without	bighayri
+6	48:25:26	w	عِلْمࣲ		علم	knowledge	ʿil'min
+6	48:25:27	w	لِّيُدْخِلَ		ليدخل	That Allah may admit	liyud'khila
+6	48:25:28	w	ࡰ۬للَّهُ		الله	That Allah may admit	l-lahu
+6	48:25:29	w	فِے		في	to	fī
+6	48:25:30	w	رَحْمَتِهِۦ		رحمتهي	His Mercy	raḥmatihi
+6	48:25:31	w	مَنْ		من	whom	man
+6	48:25:32	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+6	48:25:33	w	لَوْ		لو	If	law
+6	48:25:34	w	تَزَيَّلُواْ		تزيلوا	they had been apart	tazayyalū
+6	48:25:35	w	لَعَذَّبْنَا		لعذبنا	surely, We would have punished	laʿadhabnā
+7	48:25:36	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	48:25:37	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+7	48:25:38	w	مِنْهُمْ		منهم	among them	min'hum
+7	48:25:39	w	عَذَاباً		عذابا	(with) a punishment	ʿadhāban
+7	48:25:40	w	ࡰلِيماً࣌		اليما	painful	alīman
+7	48:25:41	e	۝٢٥				
+7	48:26:1	w	۞ ࡴذْ		اذ	When	idh
+7	48:26:2	w	جَعَلَ		جعل	had put	jaʿala
+7	48:26:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	48:26:4	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+8	48:26:5	w	فِے		في	in	fī
+8	48:26:6	w	قُلُوبِهِمُ		قلوبهم	their hearts	qulūbihimu
+8	48:26:7	w	ࡲ۬لْحَمِيَّةَ		الحمية	disdain	l-ḥamiyata
+8	48:26:8	w	حَمِيَّةَ		حمية	(the) disdain	ḥamiyyata
+8	48:26:9	w	ࡰ۬لْجَٰهِلِيَّةِ࣌		الجهلية	(of the time of) ignorance	l-jāhiliyati
+8	48:26:10	w	فَأَنزَلَ		فانزل	Then Allah sent down	fa-anzala
+8	48:26:11	w	ࡰ۬للَّهُ		الله	Then Allah sent down	l-lahu
+8	48:26:12	w	سَكِينَتَهُۥ		سكينته	His tranquility	sakīnatahu
+9	48:26:13	w	عَلَىٰ		علي	upon	ʿalā
+9	48:26:14	w	رَسُولِهِۦ		رسولهي	His Messenger	rasūlihi
+9	48:26:15	w	وَعَلَى		وعلي	and upon	waʿalā
+9	48:26:16	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+9	48:26:17	w	وَأَلْزَمَهُمْ		والزمهم	and made them adhere	wa-alzamahum
+9	48:26:18	w	كَلِمَةَ		كلمة	(to the) word	kalimata
+9	48:26:19	w	ࡰ۬لتَّقْوٜىٰ		التقوي	(of) righteousness	l-taqwā
+10	48:26:20	w	وَكَانُوٓاْ		وكانوا	and they were	wakānū
+10	48:26:21	w	أَحَقَّ		احق	more deserving	aḥaqqa
+10	48:26:22	w	بِهَا		بها	of it	bihā
+10	48:26:23	w	وَأَهْلَهَا࣌		واهلها	and worthy of it	wa-ahlahā
+10	48:26:24	w	وَكَانَ		وكان	And is	wakāna
+10	48:26:25	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+10	48:26:26	w	بِكُلِّ		بكل	of every	bikulli
+10	48:26:27	w	شَےْءٍ		شي	thing	shayin
+10	48:26:28	w	عَلِيماࣰ࣌		عليما	All-Knower	ʿalīman
+10	48:26:29	e	۝٢٦				
+11	48:27:1	w	لَّقَدْ		لقد	Certainly	laqad
+11	48:27:2	w	صَدَقَ		صدق	Allah has fulfilled	ṣadaqa
+11	48:27:3	w	ࡰ۬للَّهُ		الله	Allah has fulfilled	l-lahu
+11	48:27:4	w	رَسُولَهُ		رسوله	His Messenger's	rasūlahu
+11	48:27:5	w	ࡲ۬لرُّءْيٜا		الريا	vision	l-ru'yā
+11	48:27:6	w	بِالْحَقِّ		بالحق	in truth	bil-ḥaqi
+11	48:27:7	w	لَتَدْخُلُنَّ		لتدخلن	Surely, you will enter	latadkhulunna
+11	48:27:8	w	ࡰ۬لْمَسْجِدَ		المسجد	Al-Masjid Al-Haraam	l-masjida
+12	48:27:9	w	ࡰ۬لْحَرَامَ		الحرام	Al-Masjid Al-Haraam	l-ḥarāma
+12	48:27:10	w	إِن		ان	if	in
+12	48:27:11	w	شَآءَ		شا	Allah wills	shāa
+12	48:27:12	w	ࡰ۬للَّهُ		الله	Allah wills	l-lahu
+12	48:27:13	w	ءَامِنِينَ		امنين	secure	āminīna
+12	48:27:14	w	مُحَلِّقِينَ		محلقين	having shaved	muḥalliqīna
+12	48:27:15	w	رُءُوسَكُمْ		روسكم	your heads	ruūsakum
+12	48:27:16	w	وَمُقَصِّرِينَ		ومقصرين	and shortened	wamuqaṣṣirīna
+13	48:27:17	w	لَا		لا	not	lā
+13	48:27:18	w	تَخَافُونَ࣌		تخافون	fearing	takhāfūna
+13	48:27:19	w	فَعَلِمَ		فعلم	But He knew	faʿalima
+13	48:27:20	w	مَا		ما	what	mā
+13	48:27:21	w	لَمْ		لم	not	lam
+13	48:27:22	w	تَعْلَمُواْ		تعلموا	you knew	taʿlamū
+13	48:27:23	w	فَجَعَلَ		فجعل	and He made	fajaʿala
+13	48:27:24	w	مِن		من	besides	min
+13	48:27:25	w	دُونِ		دون	besides	dūni
+13	48:27:26	w	ذَٰلِكَ		ذلك	that	dhālika
+14	48:27:27	w	فَتْحاࣰ		فتحا	a victory	fatḥan
+14	48:27:28	w	قَرِيباً࣌		قريبا	near	qarīban
+14	48:27:29	e	۝٢٧				
+14	48:28:1	w	هُوَ		هو	He	huwa
+14	48:28:2	w	ࡰ۬لذِےٓ		الذي	(is) the One Who	alladhī
+14	48:28:3	w	أَرْسَلَ		ارسل	(has) sent	arsala
+14	48:28:4	w	رَسُولَهُۥ		رسوله	His Messenger	rasūlahu
+14	48:28:5	w	بِالْهُدٜىٰ		بالهدي	with guidance	bil-hudā
+14	48:28:6	w	وَدِينِ		ودين	and (the) religion	wadīni
+15	48:28:7	w	ࡴ۬لْحَقِّ		الحق	the true	l-ḥaqi
+15	48:28:8	w	لِيُظْهِرَهُۥ		ليظهره	that He (may) make it prevail	liyuẓ'hirahu
+15	48:28:9	w	عَلَى		علي	over	ʿalā
+15	48:28:10	w	ࡰ۬لدِّينِ		الدين	the religions	l-dīni
+15	48:28:11	w	كُلِّهِۦ࣌		كلهي	all	kullihi
+15	48:28:12	w	وَكَفٜىٰ		وكفي	And sufficient is	wakafā
+15	48:28:13	w	بِاللَّهِ		بالله	Allah	bil-lahi
+15	48:28:14	w	شَهِيداࣰ࣌		شهيدا	(as) a Witness	shahīdan
+15	48:28:15	e	۝٢٨				

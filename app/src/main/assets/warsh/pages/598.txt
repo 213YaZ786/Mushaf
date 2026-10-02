@@ -1,0 +1,127 @@
+1	96:13:1	w	أَرَٰٓيْتَ		اريت	Have you seen	ara-ayta
+1	96:13:2	w	إِن		ان	if	in
+1	96:13:3	w	كَذَّبَ		كذب	he denies	kadhaba
+1	96:13:4	w	وَتَوَلّٜىٰٓ		وتولي	and turns away	watawallā
+1	96:13:5	e	۝١٣				
+1	96:14:1	w	أَلَمْ		الم	Does not	alam
+1	96:14:2	w	يَعْلَم		يعلم	he know	yaʿlam
+1	96:14:3	w	بِأَنَّ		بان	that	bi-anna
+1	96:14:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	96:14:5	w	يَرٜىٰ࣌		يري	sees	yarā
+1	96:14:6	e	۝١٤				
+1	96:15:1	w	كَلَّا		كلا	Nay	kallā
+1	96:15:2	w	لَئِن		لين	If	la-in
+1	96:15:3	w	لَّمْ		لم	not	lam
+2	96:15:4	w	يَنتَهِ		ينته	he desists	yantahi
+2	96:15:5	e	۝١٥				
+2	96:16:1	w	لَنَسْفَعاَۢ		لنسفعا	surely We will drag him	lanasfaʿan
+2	96:16:2	w	بِالنَّاصِيَةِ		بالناصية	by the forelock	bil-nāṣiyati
+2	96:16:3	e	۝١٦				
+2	96:17:1	w	نَاصِيَةࣲ		ناصية	A forelock	nāṣiyatin
+2	96:17:2	w	كَٰذِبَةٍ		كذبة	lying	kādhibatin
+2	96:17:3	w	خَاطِئَةࣲ࣌		خاطية	sinful	khāṭi-atin
+2	96:17:4	e	۝١٧				
+2	96:18:1	w	فَلْيَدْعُ		فليدع	Then let him call	falyadʿu
+3	96:18:2	w	نَادِيَهُۥ		ناديه	his associates	nādiyahu
+3	96:18:3	e	۝١٨				
+3	96:19:1	w	سَنَدْعُ		سندع	We will call	sanadʿu
+3	96:19:2	w	ࡲ۬لزَّبَانِيَةَ࣌		الزبانية	the Angels of Hell	l-zabāniyata
+3	96:19:3	e	۝١٩				
+3	96:20:1	w	كَلَّا		كلا	Nay	kallā
+3	96:20:2	w	لَا		لا	(Do) not	lā
+3	96:20:3	w	تُطِعْهُ		تطعه	obey him	tuṭiʿ'hu
+3	96:20:4	w	وَاسْجُدْ		واسجد	But prostrate	wa-us'jud
+3	96:20:5	w	وَاقْتَرِبِ۩࣌		واقترب	and draw near (to Allah)	wa-iq'tarib
+3	96:20:6	e	۝٢٠				
+4	97:0:0	t					
+5	97:0:0	b					
+6	97:1:1	w	ࡴنَّآ		انا	Indeed, We	innā
+6	97:1:2	w	أَنزَلْنَٰهُ		انزلنه	revealed it	anzalnāhu
+6	97:1:3	w	فِے		في	in	fī
+6	97:1:4	w	لَيْلَةِ		ليلة	(the) Night	laylati
+6	97:1:5	w	ࡴ۬لْقَدْرِ࣌		القدر	(of) Power	l-qadri
+6	97:1:6	e	۝١				
+6	97:2:1	w	وَمَآ		وما	And what	wamā
+6	97:2:2	w	أَدْرٜيٰكَ		ادريك	can make you know	adrāka
+6	97:2:3	w	مَا		ما	what	mā
+6	97:2:4	w	لَيْلَةُ		ليلة	(the) Night	laylatu
+6	97:2:5	w	ࡲ۬لْقَدْرِ࣌		القدر	(of) Power (is)	l-qadri
+6	97:2:6	e	۝٢				
+7	97:3:1	w	لَيْلَةُ		ليلة	(The) Night	laylatu
+7	97:3:2	w	ࡲ۬لْقَدْرِ		القدر	(of) Power	l-qadri
+7	97:3:3	w	خَيْرࣱ		خير	(is) better	khayrun
+7	97:3:4	w	مِّنَ		من	than	min
+7	97:3:5	w	ࡰلْفِ		الف	a thousand	alfi
+7	97:3:6	w	شَهْرࣲ࣌		شهر	month(s)	shahrin
+7	97:3:7	e	۝٣				
+7	97:4:1	w	تَنَزَّلُ		تنزل	Descend	tanazzalu
+7	97:4:2	w	ࡲ۬لْمَلَٰٓئِكَةُ		المليكة	the Angels	l-malāikatu
+7	97:4:3	w	وَالرُّوحُ		والروح	and the Spirit	wal-rūḥu
+7	97:4:4	w	فِيهَا		فيها	therein	fīhā
+8	97:4:5	w	بِإِذْنِ		باذن	by (the) permission	bi-idh'ni
+8	97:4:6	w	رَبِّهِم		ربهم	(of) their Lord	rabbihim
+8	97:4:7	w	مِّن		من	for	min
+8	97:4:8	w	كُلِّ		كل	every	kulli
+8	97:4:9	w	أَمْرࣲ࣌		امر	affair	amrin
+8	97:4:10	e	۝٤				
+8	97:5:1	w	سَلَٰمٌ		سلم	Peace	salāmun
+8	97:5:2	w	هِيَ		هي	it (is)	hiya
+8	97:5:3	w	حَتَّىٰ		حتي	until	ḥattā
+8	97:5:4	w	مَطْلَعِ		مطلع	(the) emergence	maṭlaʿi
+8	97:5:5	w	ࡴ۬لْفَجْرِ࣌		الفجر	(of) the dawn	l-fajri
+8	97:5:6	e	۝٥				
+9	98:0:0	t					
+10	98:0:0	b					
+11	98:1:1	w	لَمْ		لم	Not	lam
+11	98:1:2	w	يَكُنِ		يكن	were	yakuni
+11	98:1:3	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+11	98:1:4	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+11	98:1:5	w	مِنَ		من	from	min
+11	98:1:6	w	ࡰهْلِ		اهل	(the) People	ahli
+11	98:1:7	w	ࡴ۬لْكِتَٰبِ		الكتب	of the Book	l-kitābi
+11	98:1:8	w	وَالْمُشْرِكِينَ		والمشركين	and the polytheists	wal-mush'rikīna
+11	98:1:9	w	مُنفَكِّينَ		منفكين	to be abandoned	munfakkīna
+11	98:1:10	w	حَتَّىٰ		حتي	until	ḥattā
+12	98:1:11	w	تَاتِيَهُمُ		تاتيهم	(there) comes to them	tatiyahumu
+12	98:1:12	w	ࡲ۬لْبَيِّنَةُ࣌		البينة	the clear evidence	l-bayinatu
+12	98:1:13	e	۝١				
+12	98:2:1	w	رَسُولࣱ		رسول	A Messenger	rasūlun
+12	98:2:2	w	مِّنَ		من	from	mina
+12	98:2:3	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+12	98:2:4	w	يَتْلُواْ		يتلوا	reciting	yatlū
+12	98:2:5	w	صُحُفاࣰ		صحفا	pages	ṣuḥufan
+12	98:2:6	w	مُّطَهَّرَةࣰ		مطهرة	purified	muṭahharatan
+12	98:2:7	e	۝٢				
+12	98:3:1	w	فِيهَا		فيها	Wherein	fīhā
+12	98:3:2	w	كُتُبࣱ		كتب	(are) writings	kutubun
+13	98:3:3	w	قَيِّمَةࣱ࣌		قيمة	correct	qayyimatun
+13	98:3:4	e	۝٣				
+13	98:4:1	w	وَمَا		وما	And not	wamā
+13	98:4:2	w	تَفَرَّقَ		تفرق	became divided	tafarraqa
+13	98:4:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	98:4:4	w	أُوتُواْ		اوتوا	were given	ūtū
+13	98:4:5	w	ࡲ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+13	98:4:6	w	إِلَّا		الا	until	illā
+13	98:4:7	w	مِنۢ		من	from	min
+13	98:4:8	w	بَعْدِ		بعد	after	baʿdi
+13	98:4:9	w	مَا		ما	what	mā
+13	98:4:10	w	جَآءَتْهُمُ		جاتهم	came (to) them	jāathumu
+14	98:4:11	w	ࡲ۬لْبَيِّنَةُ࣌		البينة	(of) the clear evidence	l-bayinatu
+14	98:4:12	e	۝٤				
+14	98:5:1	w	وَمَآ		وما	And not	wamā
+14	98:5:2	w	أُمِرُوٓاْ		امروا	they were commanded	umirū
+14	98:5:3	w	إِلَّا		الا	except	illā
+14	98:5:4	w	لِيَعْبُدُواْ		ليعبدوا	to worship	liyaʿbudū
+14	98:5:5	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+14	98:5:6	w	مُخْلِصِينَ		مخلصين	(being) sincere	mukh'liṣīna
+14	98:5:7	w	لَهُ		له	to Him	lahu
+14	98:5:8	w	ࡲ۬لدِّينَ		الدين	(in) the religion	l-dīna
+15	98:5:9	w	حُنَفَآءَ		حنفا	upright	ḥunafāa
+15	98:5:10	w	وَيُقِيمُواْ		ويقيموا	and to establish	wayuqīmū
+15	98:5:11	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+15	98:5:12	w	وَيُوتُواْ		ويوتوا	and to give	wayu'tū
+15	98:5:13	w	ࡲ۬لزَّكَوٰةَ࣌		الزكوة	the zakah	l-zakata
+15	98:5:14	w	وَذَٰلِكَ		وذلك	And that	wadhālika
+15	98:5:15	w	دِينُ		دين	(is the) religion	dīnu
+15	98:5:16	w	ࡲ۬لْقَيِّمَةِ࣌		القيمة	the correct	l-qayimati
+15	98:5:17	e	۝٥				

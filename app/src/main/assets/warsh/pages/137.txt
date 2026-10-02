@@ -1,0 +1,140 @@
+1	6:75:1	w	وَإِذْ		واذ	And when	wa-idh
+1	6:75:2	w	قَالَ		قال	said	qāla
+1	6:75:3	w	إِبْرَٰهِيمُ		ابرهيم	Ibrahim	ib'rāhīmu
+1	6:75:4	w	لِأَبِيهِ		لابيه	to his father	li-abīhi
+1	6:75:5	w	ءَازَرَ		ازر	Azar	āzara
+1	6:75:6	w	أَتَتَّخِذُ		اتتخذ	Do you take	atattakhidhu
+1	6:75:7	w	أَصْنَاماً		اصناما	idols	aṣnāman
+1	6:75:8	w	اٰلِهَةً࣌		الهة	(as) gods	ālihatan
+1	6:75:9	w	ࡴنِّيَ		اني	Indeed, I	innī
+2	6:75:10	w	أَرٜيٰكَ		اريك	[I] see you	arāka
+2	6:75:11	w	وَقَوْمَكَ		وقومك	and your people	waqawmaka
+2	6:75:12	w	فِے		في	in	fī
+2	6:75:13	w	ضَلَٰلࣲ		ضلل	error	ḍalālin
+2	6:75:14	w	مُّبِينࣲ࣌		مبين	manifest	mubīnin
+2	6:75:15	e	۝٧٥				
+2	6:76:1	w	وَكَذَٰلِكَ		وكذلك	And thus	wakadhālika
+2	6:76:2	w	نُرِےٓ		نري	We show(ed)	nurī
+2	6:76:3	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+3	6:76:4	w	مَلَكُوتَ		ملكوت	the kingdom	malakūta
+3	6:76:5	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+3	6:76:6	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+3	6:76:7	w	وَلِيَكُونَ		وليكون	so that he would be	waliyakūna
+3	6:76:8	w	مِنَ		من	among	mina
+3	6:76:9	w	ࡰ۬لْمُوقِنِينَ࣌		الموقنين	the ones who are certain	l-mūqinīna
+3	6:76:10	e	۝٧٦				
+4	6:77:1	w	فَلَمَّا		فلما	So when	falammā
+4	6:77:2	w	جَنَّ		جن	covered	janna
+4	6:77:3	w	عَلَيْهِ		عليه	over him	ʿalayhi
+4	6:77:4	w	ࡴ۬ليْلُ		اليل	the night	al-laylu
+4	6:77:5	w	رٜءٜا		را	he saw	raā
+4	6:77:6	w	كَوْكَباࣰ		كوكبا	a star	kawkaban
+4	6:77:7	w	قَالَ		قال	He said	qāla
+4	6:77:8	w	هَٰذَا		هذا	This	hādhā
+4	6:77:9	w	رَبِّے࣌		ربي	(is) my Lord	rabbī
+4	6:77:10	w	فَلَمَّآ		فلما	But when	falammā
+4	6:77:11	w	أَفَلَ		افل	it set	afala
+5	6:77:12	w	قَالَ		قال	he said	qāla
+5	6:77:13	w	لَآ		لا	Not	lā
+5	6:77:14	w	أُحِبُّ		احب	(do) I like	uḥibbu
+5	6:77:15	w	ࡲ۬لَافِلِينَ࣌		الافلين	the ones that set	l-āfilīna
+5	6:77:16	e	۝٧٧				
+5	6:78:1	w	فَلَمَّا		فلما	When	falammā
+5	6:78:2	w	رَءَا		را	he saw	raā
+5	6:78:3	w	ࡰ۬لْقَمَرَ		القمر	the moon	l-qamara
+5	6:78:4	w	بَازِغاࣰ		بازغا	rising	bāzighan
+5	6:78:5	w	قَالَ		قال	he said	qāla
+5	6:78:6	w	هَٰذَا		هذا	This	hādhā
+6	6:78:7	w	رَبِّے࣌		ربي	(is) my Lord	rabbī
+6	6:78:8	w	فَلَمَّآ		فلما	But when	falammā
+6	6:78:9	w	أَفَلَ		افل	it set	afala
+6	6:78:10	w	قَالَ		قال	he said	qāla
+6	6:78:11	w	لَئِن		لين	If	la-in
+6	6:78:12	w	لَّمْ		لم	(does) not	lam
+6	6:78:13	w	يَهْدِنِے		يهدني	guide me	yahdinī
+6	6:78:14	w	رَبِّے		ربي	my Lord	rabbī
+6	6:78:15	w	لَأَكُونَنَّ		لاكونن	I will surely be	la-akūnanna
+6	6:78:16	w	مِنَ		من	among	mina
+6	6:78:17	w	ࡰ۬لْقَوْمِ		القوم	the people	l-qawmi
+7	6:78:18	w	ࡴ۬لضَّآلِّينَ࣌		الضالين	who went astray	l-ḍālīna
+7	6:78:19	e	۝٧٨				
+7	6:79:1	w	فَلَمَّا		فلما	When	falammā
+7	6:79:2	w	رَءَا		را	he saw	raā
+7	6:79:3	w	ࡰ۬لشَّمْسَ		الشمس	the sun	l-shamsa
+7	6:79:4	w	بَازِغَةࣰ		بازغة	rising	bāzighatan
+7	6:79:5	w	قَالَ		قال	he said	qāla
+7	6:79:6	w	هَٰذَا		هذا	This (is)	hādhā
+7	6:79:7	w	رَبِّے		ربي	my Lord	rabbī
+7	6:79:8	w	هَٰذَآ		هذا	this (is)	hādhā
+8	6:79:9	w	أَكْبَرُ࣌		اكبر	greater	akbaru
+8	6:79:10	w	فَلَمَّآ		فلما	But when	falammā
+8	6:79:11	w	أَفَلَتْ		افلت	it set	afalat
+8	6:79:12	w	قَالَ		قال	he said	qāla
+8	6:79:13	w	يَٰقَوْمِ		يقوم	O my people	yāqawmi
+8	6:79:14	w	إِنِّے		اني	Indeed, I am	innī
+8	6:79:15	w	بَرِےٓءࣱ		بري	free	barīon
+8	6:79:16	w	مِّمَّا		مما	of what	mimmā
+8	6:79:17	w	تُشْرِكُونَ࣌		تشركون	you associate (with Allah)	tush'rikūna
+8	6:79:18	e	۝٧٩				
+9	6:80:1	w	إِنِّے		اني	Indeed, I	innī
+9	6:80:2	w	وَجَّهْتُ		وجهت	[I] have turned	wajjahtu
+9	6:80:3	w	وَجْهِيَ		وجهي	my face	wajhiya
+9	6:80:4	w	لِلذِے		للذي	to the One Who	lilladhī
+9	6:80:5	w	فَطَرَ		فطر	created	faṭara
+9	6:80:6	w	ࡰ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+9	6:80:7	w	وَالَارْضَ		والارض	and the earth	wal-arḍa
+10	6:80:8	w	حَنِيفاࣰ࣌		حنيفا	(as) a true monotheist	ḥanīfan
+10	6:80:9	w	وَمَآ		وما	and not	wamā
+10	6:80:10	w	أَنَا		انا	I (am)	anā
+10	6:80:11	w	مِنَ		من	of	mina
+10	6:80:12	w	ࡰ۬لْمُشْرِكِينَ࣌		المشركين	the polytheists	l-mush'rikīna
+10	6:80:13	e	۝٨٠				
+10	6:81:1	w	۞ وَحَآجَّهُۥ		وحاجه	And argued with him	waḥājjahu
+10	6:81:2	w	قَوْمُهُۥ࣌		قومه	his people	qawmuhu
+10	6:81:3	w	قَالَ		قال	He said	qāla
+11	6:81:4	w	أَتُحَٰٓجُّونِے		اتحجوني	Do you argue with me	atuḥājjūnnī
+11	6:81:5	w	فِے		في	concerning	fī
+11	6:81:6	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+11	6:81:7	w	وَقَدْ		وقد	while certainly	waqad
+11	6:81:8	w	هَدٜيٰنِ࣌		هدين	He has guided me	hadāni
+11	6:81:9	w	وَلَآ		ولا	And not	walā
+11	6:81:10	w	أَخَافُ		اخاف	(do) I fear	akhāfu
+11	6:81:11	w	مَا		ما	what	mā
+11	6:81:12	w	تُشْرِكُونَ		تشركون	you associate	tush'rikūna
+11	6:81:13	w	بِهِۦٓ		بهي	with Him	bihi
+12	6:81:14	w	إِلَّآ		الا	unless	illā
+12	6:81:15	w	أَنْ		ان	[that]	an
+12	6:81:16	w	يَّشَآءَ		يشا	wills	yashāa
+12	6:81:17	w	رَبِّے		ربي	my Lord	rabbī
+12	6:81:18	w	شَيْـٔاࣰ࣌		شيا	anything	shayan
+12	6:81:19	w	وَسِعَ		وسع	Encompasses	wasiʿa
+12	6:81:20	w	رَبِّے		ربي	my Lord	rabbī
+12	6:81:21	w	كُلَّ		كل	every	kulla
+12	6:81:22	w	شَےْءٍ		شي	thing	shayin
+12	6:81:23	w	عِلْماً࣌		علما	(in) knowledge	ʿil'man
+12	6:81:24	w	ࡰفَلَا		افلا	Then will not	afalā
+13	6:81:25	w	تَتَذَكَّرُونَ࣌		تتذكرون	you take heed	tatadhakkarūna
+13	6:81:26	e	۝٨١				
+13	6:82:1	w	وَكَيْفَ		وكيف	And how	wakayfa
+13	6:82:2	w	أَخَافُ		اخاف	could I fear	akhāfu
+13	6:82:3	w	مَآ		ما	what	mā
+13	6:82:4	w	أَشْرَكْتُمْ࣌		اشركتم	you associate (with Allah)	ashraktum
+13	6:82:5	w	وَلَا		ولا	while not	walā
+13	6:82:6	w	تَخَافُونَ		تخافون	you fear	takhāfūna
+14	6:82:7	w	أَنَّكُمُۥٓ		انكم	that you	annakum
+14	6:82:8	w	أَشْرَكْتُم		اشركتم	have associated	ashraktum
+14	6:82:9	w	بِاللَّهِ		بالله	with Allah	bil-lahi
+14	6:82:10	w	مَا		ما	what	mā
+14	6:82:11	w	لَمْ		لم	not	lam
+14	6:82:12	w	يُنَزِّلْ		ينزل	did He send down	yunazzil
+14	6:82:13	w	بِهِۦ		بهي	for it	bihi
+14	6:82:14	w	عَلَيْكُمْ		عليكم	to you	ʿalaykum
+14	6:82:15	w	سُلْطَٰناࣰ࣌		سلطنا	any authority	sul'ṭānan
+15	6:82:16	w	فَأَيُّ		فاي	So which	fa-ayyu
+15	6:82:17	w	ࡲ۬لْفَرِيقَيْنِ		الفريقين	(of) the two parties	l-farīqayni
+15	6:82:18	w	أَحَقُّ		احق	has more right	aḥaqqu
+15	6:82:19	w	بِالَامْنِ		بالامن	to security	bil-amni
+15	6:82:20	w	إِن		ان	if	in
+15	6:82:21	w	كُنتُمْ		كنتم	you	kuntum
+15	6:82:22	w	تَعْلَمُونَ࣌		تعلمون	know	taʿlamūna
+15	6:82:23	e	۝٨٢				

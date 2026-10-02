@@ -1,0 +1,124 @@
+1	33:0:0	t					
+2	33:0:0	b					
+3	33:1:1	w	يَٰٓأَيُّهَا‏		يايها	O Prophet	yāayyuhā
+3	33:1:2	w	ࡰ۬لنَّبِےٓءُ		النبي	O Prophet	l-nabiyu
+3	33:1:3	w	ࡲٜتَّقِ		اتق	Fear	ittaqi
+3	33:1:4	w	ࡴ۬للَّهَ࣌		الله	Allah	l-laha
+3	33:1:5	w	وَلَا		ولا	and (do) not	walā
+3	33:1:6	w	تُطِعِ		تطع	obey	tuṭiʿi
+3	33:1:7	w	ࡴ۬لْكٜـٰفِرِينَ		الكفرين	the disbelievers	l-kāfirīna
+3	33:1:8	w	وَالْمُنَٰفِقِينَ࣌		والمنفقين	and the hypocrites	wal-munāfiqīna
+3	33:1:9	w	إِنَّ		ان	Indeed	inna
+3	33:1:10	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+3	33:1:11	w	كَانَ		كان	is	kāna
+4	33:1:12	w	عَلِيماً		عليما	All-Knower	ʿalīman
+4	33:1:13	w	حَكِيماࣰ࣌		حكيما	All-Wise	ḥakīman
+4	33:1:14	e	۝١				
+4	33:2:1	w	وَاتَّبِعْ		واتبع	And follow	wa-ittabiʿ
+4	33:2:2	w	مَا		ما	what	mā
+4	33:2:3	w	يُوحٜىٰٓ		يوحي	is inspired	yūḥā
+4	33:2:4	w	إِلَيْكَ		اليك	to you	ilayka
+4	33:2:5	w	مِن		من	from	min
+4	33:2:6	w	رَّبِّكَ࣌		ربك	your Lord	rabbika
+4	33:2:7	w	إِنَّ		ان	Indeed	inna
+4	33:2:8	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	33:2:9	w	كَانَ		كان	is	kāna
+4	33:2:10	w	بِمَا		بما	of what	bimā
+5	33:2:11	w	تَعْمَلُونَ		تعملون	you do	taʿmalūna
+5	33:2:12	w	خَبِيراࣰ࣌		خبيرا	All-Aware	khabīran
+5	33:2:13	e	۝٢				
+5	33:3:1	w	وَتَوَكَّلْ		وتوكل	And put your trust	watawakkal
+5	33:3:2	w	عَلَى		علي	in	ʿalā
+5	33:3:3	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+5	33:3:4	w	وَكَفٜىٰ		وكفي	And Allah is sufficient	wakafā
+5	33:3:5	w	بِاللَّهِ		بالله	And Allah is sufficient	bil-lahi
+5	33:3:6	w	وَكِيلاࣰ࣌		وكيلا	(as) Disposer of affairs	wakīlan
+5	33:3:7	e	۝٣				
+5	33:4:1	w	مَّا		ما	Not	mā
+5	33:4:2	w	جَعَلَ		جعل	Allah (has) made	jaʿala
+6	33:4:3	w	ࡰ۬للَّهُ		الله	Allah (has) made	l-lahu
+6	33:4:4	w	لِرَجُلࣲ		لرجل	for any man	lirajulin
+6	33:4:5	w	مِّن		من	[of]	min
+6	33:4:6	w	قَلْبَيْنِ		قلبين	two hearts	qalbayni
+6	33:4:7	w	فِے		في	in	fī
+6	33:4:8	w	جَوْفِهِۦ࣌		جوفهي	his interior	jawfihi
+6	33:4:9	w	وَمَا		وما	And not	wamā
+6	33:4:10	w	جَعَلَ		جعل	He (has) made	jaʿala
+6	33:4:11	w	أَزْوَٰجَكُمُ		ازوجكم	your wives	azwājakumu
+6	33:4:12	w	ࡲ۬لٜےْ		الي	whom	allāī
+6	33:4:13	w	تَظَّهَّرُونَ		تظهرون	you declare unlawful	tuẓāhirūna
+7	33:4:14	w	مِنْهُنَّ		منهن	[of them]	min'hunna
+7	33:4:15	w	أُمَّهَٰتِكُمْ࣌		امهتكم	(as) your mothers	ummahātikum
+7	33:4:16	w	وَمَا		وما	And not	wamā
+7	33:4:17	w	جَعَلَ		جعل	He has made	jaʿala
+7	33:4:18	w	أَدْعِيَآءَكُمُۥٓ		ادعياكم	your adopted sons	adʿiyāakum
+7	33:4:19	w	أَبْنَآءَكُمْ࣌		ابناكم	your sons	abnāakum
+7	33:4:20	w	ذَٰلِكُمْ		ذلكم	That	dhālikum
+8	33:4:21	w	قَوْلُكُم		قولكم	(is) your saying	qawlukum
+8	33:4:22	w	بِأَفْوَٰهِكُمْ࣌		بافوهكم	by your mouths	bi-afwāhikum
+8	33:4:23	w	وَاللَّهُ		والله	but Allah	wal-lahu
+8	33:4:24	w	يَقُولُ		يقول	says	yaqūlu
+8	33:4:25	w	ࡲ۬لْحَقَّ࣌		الحق	the truth	l-ḥaqa
+8	33:4:26	w	وَهُوَ		وهو	and He	wahuwa
+8	33:4:27	w	يَهْدِے		يهدي	guides	yahdī
+8	33:4:28	w	ࡴ۬لسَّبِيلَ࣌		السبيل	(to) the Way	l-sabīla
+8	33:4:29	e	۝٤				
+9	33:5:1	w	ࡸَدْعُوهُمْ		ادعوهم	Call them	id'ʿūhum
+9	33:5:2	w	لِأٓبَآئِهِمْ		لابايهم	by their fathers	liābāihim
+9	33:5:3	w	هُوَ		هو	it	huwa
+9	33:5:4	w	أَقْسَطُ		اقسط	(is) more just	aqsaṭu
+9	33:5:5	w	عِندَ		عند	near	ʿinda
+9	33:5:6	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+9	33:5:7	w	فَإِن		فان	But if	fa-in
+9	33:5:8	w	لَّمْ		لم	not	lam
+9	33:5:9	w	تَعْلَمُوٓاْ		تعلموا	you know	taʿlamū
+9	33:5:10	w	ءَابَآءَهُمْ		اباهم	their fathers	ābāahum
+10	33:5:11	w	فَإِخْوَٰنُكُمْ		فاخونكم	then (they are) your brothers	fa-ikh'wānukum
+10	33:5:12	w	فِے		في	in	fī
+10	33:5:13	w	ࡴ۬لدِّينِ		الدين	[the] religion	l-dīni
+10	33:5:14	w	وَمَوَٰلِيكُمْ࣌		وموليكم	and your friends	wamawālīkum
+10	33:5:15	w	وَلَيْسَ		وليس	But not is	walaysa
+10	33:5:16	w	عَلَيْكُمْ		عليكم	upon you	ʿalaykum
+10	33:5:17	w	جُنَاحࣱ		جناح	any blame	junāḥun
+10	33:5:18	w	فِيمَآ		فيما	in what	fīmā
+11	33:5:19	w	أَخْطَأْتُم		اخطاتم	you made a mistake	akhṭatum
+11	33:5:20	w	بِهِۦ࣌		بهي	in it	bihi
+11	33:5:21	w	وَلَٰكِن		ولكن	but	walākin
+11	33:5:22	w	مَّا		ما	what	mā
+11	33:5:23	w	تَعَمَّدَتْ		تعمدت	intended	taʿammadat
+11	33:5:24	w	قُلُوبُكُمْ࣌		قلوبكم	your hearts	qulūbukum
+11	33:5:25	w	وَكَانَ		وكان	And Allah	wakāna
+11	33:5:26	w	ࡰ۬للَّهُ		الله	And Allah	l-lahu
+12	33:5:27	w	غَفُوراࣰ		غفورا	(is) Oft-Forgiving	ghafūran
+12	33:5:28	w	رَّحِيماً࣌		رحيما	Most Merciful	raḥīman
+12	33:5:29	e	۝٥				
+12	33:6:1	w	ࡴ۬لنَّبِےٓءُ		النبي	The Prophet	al-nabiyu
+12	33:6:2	w	ࡶَوْلٜىٰ		اولي	(is) closer	awlā
+12	33:6:3	w	بِالْمُومِنِينَ		بالمومنين	to the believers	bil-mu'minīna
+12	33:6:4	w	مِنَ		من	than	min
+12	33:6:5	w	ࡰنفُسِهِمْ࣌		انفسهم	their own selves	anfusihim
+13	33:6:6	w	وَأَزْوَٰجُهُۥٓ		وازوجه	and his wives	wa-azwājuhu
+13	33:6:7	w	أُمَّهَٰتُهُمْ࣌		امهتهم	(are) their mothers	ummahātuhum
+13	33:6:8	w	وَأُوْلُواْ		واولوا	And possessors	wa-ulū
+13	33:6:9	w	ࡲ۬لَارْحَامِ		الارحام	(of) relationships	l-arḥāmi
+13	33:6:10	w	بَعْضُهُمُۥٓ		بعضهم	some of them	baʿḍuhum
+13	33:6:11	w	أَوْلٜىٰ		اولي	(are) closer	awlā
+13	33:6:12	w	بِبَعْضࣲ		ببعض	to another	bibaʿḍin
+14	33:6:13	w	فِے		في	in	fī
+14	33:6:14	w	كِتَٰبِ		كتب	(the) Decree	kitābi
+14	33:6:15	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+14	33:6:16	w	مِنَ		من	than	mina
+14	33:6:17	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+14	33:6:18	w	وَالْمُهَٰجِرِينَ		والمهجرين	and the emigrants	wal-muhājirīna
+14	33:6:19	w	إِلَّآ		الا	except	illā
+14	33:6:20	w	أَن		ان	that	an
+14	33:6:21	w	تَفْعَلُوٓاْ		تفعلوا	you do	tafʿalū
+14	33:6:22	w	إِلَىٰٓ		الي	to	ilā
+15	33:6:23	w	أَوْلِيَآئِكُم		اوليايكم	your friends	awliyāikum
+15	33:6:24	w	مَّعْرُوفاࣰ࣌		معروفا	a kindness	maʿrūfan
+15	33:6:25	w	كَانَ		كان	That is	kāna
+15	33:6:26	w	ذَٰلِكَ		ذلك	That is	dhālika
+15	33:6:27	w	فِے		في	in	fī
+15	33:6:28	w	ࡴ۬لْكِتَٰبِ		الكتب	the Book	l-kitābi
+15	33:6:29	w	مَسْطُوراࣰ࣌		مسطورا	written	masṭūran
+15	33:6:30	e	۝٦				

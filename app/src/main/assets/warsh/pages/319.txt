@@ -1,0 +1,153 @@
+1	20:97:1	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+1	20:97:2	w	نَقُصُّ		نقص	We relate	naquṣṣu
+1	20:97:3	w	عَلَيْكَ		عليك	to you	ʿalayka
+1	20:97:4	w	مِنَ		من	from	min
+1	20:97:5	w	ࡰنۢبَآءِ		انبا	(the) news	anbāi
+1	20:97:6	w	مَا		ما	(of) what	mā
+1	20:97:7	w	قَدْ		قد	has preceded	qad
+1	20:97:8	w	سَبَقَ࣌		سبق	has preceded	sabaqa
+1	20:97:9	w	وَقَدَ		وقد	And certainly	waqad
+1	20:97:10	w	اٰتَيْنَٰكَ		اتينك	We have given you	ātaynāka
+1	20:97:11	w	مِن		من	from	min
+2	20:97:12	w	لَّدُنَّا		لدنا	Us	ladunnā
+2	20:97:13	w	ذِكْراࣰ࣌		ذكرا	a Reminder	dhik'ran
+2	20:97:14	e	۝٩٧				
+2	20:98:1	w	مَّنَ		من	Whoever	man
+2	20:98:2	w	ࡰعْرَضَ		اعرض	turns away	aʿraḍa
+2	20:98:3	w	عَنْهُ		عنه	from it	ʿanhu
+2	20:98:4	w	فَإِنَّهُۥ		فانه	then indeed, he	fa-innahu
+2	20:98:5	w	يَحْمِلُ		يحمل	will bear	yaḥmilu
+2	20:98:6	w	يَوْمَ		يوم	(on the) Day	yawma
+2	20:98:7	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) Resurrection	l-qiyāmati
+2	20:98:8	w	وِزْراً		وزرا	a burden	wiz'ran
+2	20:98:9	e	۝٩٨				
+3	20:99:1	w	خَٰلِدِينَ		خلدين	Abiding forever	khālidīna
+3	20:99:2	w	فِيهِ࣌		فيه	in it	fīhi
+3	20:99:3	w	وَسَآءَ		وسا	and evil	wasāa
+3	20:99:4	w	لَهُمْ		لهم	for them	lahum
+3	20:99:5	w	يَوْمَ		يوم	(on the) Day	yawma
+3	20:99:6	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+3	20:99:7	w	حِمْلاࣰ࣌		حملا	(as) a load	ḥim'lan
+3	20:99:8	e	۝٩٩				
+3	20:100:1	w	يَوْمَ		يوم	(The) Day	yawma
+3	20:100:2	w	يُنفَخُ		ينفخ	will be blown	yunfakhu
+4	20:100:3	w	فِے		في	in	fī
+4	20:100:4	w	ࡴ۬لصُّورِ		الصور	the Trumpet	l-ṣūri
+4	20:100:5	w	وَنَحْشُرُ		ونحشر	and We will gather	wanaḥshuru
+4	20:100:6	w	ࡲ۬لْمُجْرِمِينَ		المجرمين	the criminals	l-muj'rimīna
+4	20:100:7	w	يَوْمَئِذࣲ		يوميذ	that Day	yawma-idhin
+4	20:100:8	w	زُرْقاࣰ		زرقا	blue-eyed	zur'qan
+4	20:100:9	e	۝١٠٠				
+4	20:101:1	w	يَتَخَٰفَتُونَ		يتخفتون	They are murmuring	yatakhāfatūna
+5	20:101:2	w	بَيْنَهُمُۥٓ		بينهم	among themselves	baynahum
+5	20:101:3	w	إِن		ان	Not	in
+5	20:101:4	w	لَّبِثْتُمُۥٓ		لبثتم	you remained	labith'tum
+5	20:101:5	w	إِلَّا		الا	except (for)	illā
+5	20:101:6	w	عَشْراࣰ࣌		عشرا	ten	ʿashran
+5	20:101:7	e	۝١٠١				
+5	20:102:1	w	نَّحْنُ		نحن	We	naḥnu
+5	20:102:2	w	أَعْلَمُ		اعلم	know best	aʿlamu
+5	20:102:3	w	بِمَا		بما	what	bimā
+5	20:102:4	w	يَقُولُونَ		يقولون	they will say	yaqūlūna
+5	20:102:5	w	إِذْ		اذ	when	idh
+5	20:102:6	w	يَقُولُ		يقول	will say	yaqūlu
+6	20:102:7	w	أَمْثَلُهُمْ		امثلهم	(the) best of them	amthaluhum
+6	20:102:8	w	طَرِيقَةً		طريقة	(in) conduct	ṭarīqatan
+6	20:102:9	w	ࡴن		ان	Not	in
+6	20:102:10	w	لَّبِثْتُمُۥٓ		لبثتم	you remained	labith'tum
+6	20:102:11	w	إِلَّا		الا	except (for)	illā
+6	20:102:12	w	يَوْماࣰ࣌		يوما	a day	yawman
+6	20:102:13	e	۝١٠٢				
+6	20:103:1	w	وَيَسْـَٔلُونَكَ		ويسلونك	And they ask you	wayasalūnaka
+6	20:103:2	w	عَنِ		عن	about	ʿani
+6	20:103:3	w	ࡴ۬لْجِبَالِ		الجبال	the mountains	l-jibāli
+7	20:103:4	w	فَقُلْ		فقل	so say	faqul
+7	20:103:5	w	يَنسِفُهَا		ينسفها	Will blast them	yansifuhā
+7	20:103:6	w	رَبِّے		ربي	my Lord	rabbī
+7	20:103:7	w	نَسْفاࣰ		نسفا	(into) particles	nasfan
+7	20:103:8	e	۝١٠٣				
+7	20:104:1	w	فَيَذَرُهَا		فيذرها	Then He will leave it	fayadharuhā
+7	20:104:2	w	قَاعاࣰ		قاعا	a level	qāʿan
+7	20:104:3	w	صَفْصَفاࣰ		صفصفا	plain	ṣafṣafan
+7	20:104:4	w	لَّا		لا	Not	lā
+7	20:104:5	w	تَرٜىٰ		تري	you will see	tarā
+8	20:104:6	w	فِيهَا		فيها	in it	fīhā
+8	20:104:7	w	عِوَجاࣰ		عوجا	any crookedness	ʿiwajan
+8	20:104:8	w	وَلَآ		ولا	and not	walā
+8	20:104:9	w	أَمْتاࣰ࣌		امتا	any curve	amtan
+8	20:104:10	e	۝١٠٤				
+8	20:105:1	w	يَوْمَئِذࣲ		يوميذ	On that Day	yawma-idhin
+8	20:105:2	w	يَتَّبِعُونَ		يتبعون	they will follow	yattabiʿūna
+8	20:105:3	w	ࡰ۬لدَّاعِيَ		الداعي	the caller	l-dāʿiya
+8	20:105:4	w	لَا		لا	no	lā
+8	20:105:5	w	عِوَجَ		عوج	deviation	ʿiwaja
+9	20:105:6	w	لَهُۥ࣌		له	from it	lahu
+9	20:105:7	w	وَخَشَعَتِ		وخشعت	And (will be) humbled	wakhashaʿati
+9	20:105:8	w	ࡴ۬لَاصْوَاتُ		الاصوات	the voices	l-aṣwātu
+9	20:105:9	w	لِلرَّحْمَٰنِ		للرحمن	for the Most Gracious	lilrraḥmāni
+9	20:105:10	w	فَلَا		فلا	so not	falā
+9	20:105:11	w	تَسْمَعُ		تسمع	you will hear	tasmaʿu
+9	20:105:12	w	إِلَّا		الا	except	illā
+9	20:105:13	w	هَمْساࣰ࣌		همسا	a faint sound	hamsan
+9	20:105:14	e	۝١٠٥				
+10	20:106:1	w	يَوْمَئِذࣲ		يوميذ	(On) that Day	yawma-idhin
+10	20:106:2	w	لَّا		لا	not	lā
+10	20:106:3	w	تَنفَعُ		تنفع	will benefit	tanfaʿu
+10	20:106:4	w	ࡲ۬لشَّفَٰعَةُ		الشفعة	the intercession	l-shafāʿatu
+10	20:106:5	w	إِلَّا		الا	except	illā
+10	20:106:6	w	مَنَ		من	(to) whom	man
+10	20:106:7	w	ࡰذِنَ		اذن	has given permission	adhina
+10	20:106:8	w	لَهُ		له	[to him]	lahu
+10	20:106:9	w	ࡲ۬لرَّحْمَٰنُ		الرحمن	the Most Gracious	l-raḥmānu
+10	20:106:10	w	وَرَضِيَ		ورضي	and He has accepted	waraḍiya
+10	20:106:11	w	لَهُۥ		له	for him	lahu
+11	20:106:12	w	قَوْلاࣰ࣌		قولا	a word	qawlan
+11	20:106:13	e	۝١٠٦				
+11	20:107:1	w	يَعْلَمُ		يعلم	He knows	yaʿlamu
+11	20:107:2	w	مَا		ما	what	mā
+11	20:107:3	w	بَيْنَ		بين	(is) before them	bayna
+11	20:107:4	w	أَيْدِيهِمْ		ايديهم	(is) before them	aydīhim
+11	20:107:5	w	وَمَا		وما	and what	wamā
+11	20:107:6	w	خَلْفَهُمْ		خلفهم	(is) behind them	khalfahum
+11	20:107:7	w	وَلَا		ولا	while not	walā
+11	20:107:8	w	يُحِيطُونَ		يحيطون	they encompass	yuḥīṭūna
+11	20:107:9	w	بِهِۦ		بهي	it	bihi
+12	20:107:10	w	عِلْماࣰ࣌		علما	(in) knowledge	ʿil'man
+12	20:107:11	e	۝١٠٧				
+12	20:108:1	w	۞ وَعَنَتِ		وعنت	And (will be) humbled	waʿanati
+12	20:108:2	w	ࡴ۬لْوُجُوهُ		الوجوه	the faces	l-wujūhu
+12	20:108:3	w	لِلْحَيِّ		للحي	before the Ever-Living	lil'ḥayyi
+12	20:108:4	w	ࡴ۬لْقَيُّومِ࣌		القيوم	the Self-Subsisting	l-qayūmi
+12	20:108:5	w	وَقَدْ		وقد	And verily	waqad
+12	20:108:6	w	خَابَ		خاب	will have failed	khāba
+12	20:108:7	w	مَنْ		من	(he) who	man
+12	20:108:8	w	حَمَلَ		حمل	carried	ḥamala
+13	20:108:9	w	ظُلْماࣰ࣌		ظلما	wrongdoing	ẓul'man
+13	20:108:10	e	۝١٠٨				
+13	20:109:1	w	وَمَنْ		ومن	But (he) who	waman
+13	20:109:2	w	يَّعْمَلْ		يعمل	does	yaʿmal
+13	20:109:3	w	مِنَ		من	of	mina
+13	20:109:4	w	ࡰ۬لصَّٰلِحَٰتِ		الصلحت	the righteous deeds	l-ṣāliḥāti
+13	20:109:5	w	وَهُوَ		وهو	while he	wahuwa
+13	20:109:6	w	مُومِنࣱ		مومن	(is) a believer	mu'minun
+13	20:109:7	w	فَلَا		فلا	then not	falā
+13	20:109:8	w	يَخَافُ		يخاف	he will fear	yakhāfu
+14	20:109:9	w	ظُلْماࣰ		ظلما	injustice	ẓul'man
+14	20:109:10	w	وَلَا		ولا	and not	walā
+14	20:109:11	w	هَضْماࣰ࣌		هضما	deprivation	haḍman
+14	20:109:12	e	۝١٠٩				
+14	20:110:1	w	وَكَذَٰلِكَ		وكذلك	And thus	wakadhālika
+14	20:110:2	w	أَنزَلْنَٰهُ		انزلنه	We have sent it down	anzalnāhu
+14	20:110:3	w	قُرْءَاناً		قرانا	(the) Quran	qur'ānan
+14	20:110:4	w	عَرَبِيّاࣰ		عربيا	(in) Arabic	ʿarabiyyan
+14	20:110:5	w	وَصَرَّفْنَا		وصرفنا	and We have explained	waṣarrafnā
+15	20:110:6	w	فِيهِ		فيه	in it	fīhi
+15	20:110:7	w	مِنَ		من	of	mina
+15	20:110:8	w	ࡰ۬لْوَعِيدِ		الوعيد	the warnings	l-waʿīdi
+15	20:110:9	w	لَعَلَّهُمْ		لعلهم	that they may	laʿallahum
+15	20:110:10	w	يَتَّقُونَ		يتقون	fear	yattaqūna
+15	20:110:11	w	أَوْ		او	or	aw
+15	20:110:12	w	يُحْدِثُ		يحدث	it may cause	yuḥ'dithu
+15	20:110:13	w	لَهُمْ		لهم	[for] them	lahum
+15	20:110:14	w	ذِكْراࣰ࣌		ذكرا	remembrance	dhik'ran
+15	20:110:15	e	۝١١٠				

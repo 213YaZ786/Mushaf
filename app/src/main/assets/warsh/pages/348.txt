@@ -1,0 +1,146 @@
+1	23:91:1	w	بَلَ		بل	Nay	bal
+1	23:91:2	w	ࡰتَيْنَٰهُم		اتينهم	We (have) brought them	ataynāhum
+1	23:91:3	w	بِالْحَقِّ࣌		بالحق	the truth	bil-ḥaqi
+1	23:91:4	w	وَإِنَّهُمْ		وانهم	but indeed, they	wa-innahum
+1	23:91:5	w	لَكَٰذِبُونَ࣌		لكذبون	surely, (are) liars	lakādhibūna
+1	23:91:6	e	۝٩١				
+1	23:92:1	w	مَا		ما	Not	mā
+1	23:92:2	w	ࡰٜتَّخَذَ		اتخذ	Allah has taken	ittakhadha
+1	23:92:3	w	ࡰ۬للَّهُ		الله	Allah has taken	l-lahu
+1	23:92:4	w	مِنْ		من	any	min
+2	23:92:5	w	وَّلَدࣲ࣌		ولد	son	waladin
+2	23:92:6	w	وَمَا		وما	and not	wamā
+2	23:92:7	w	كَانَ		كان	is	kāna
+2	23:92:8	w	مَعَهُۥ		معه	with Him	maʿahu
+2	23:92:9	w	مِنِ		من	any	min
+2	23:92:10	w	ࡴلَٰهٍ࣌		اله	god	ilāhin
+2	23:92:11	w	ࡴذاࣰ		اذا	Then	idhan
+2	23:92:12	w	لَّذَهَبَ		لذهب	surely (would have) taken away	ladhahaba
+2	23:92:13	w	كُلُّ		كل	each	kullu
+2	23:92:14	w	إِلَٰهِۢ		اله	god	ilāhin
+2	23:92:15	w	بِمَا		بما	what	bimā
+2	23:92:16	w	خَلَقَ		خلق	he created	khalaqa
+3	23:92:17	w	وَلَعَلَا		ولعلا	and surely would have overpowered	walaʿalā
+3	23:92:18	w	بَعْضُهُمْ		بعضهم	some of them	baʿḍuhum
+3	23:92:19	w	عَلَىٰ		علي	[on]	ʿalā
+3	23:92:20	w	بَعْضࣲ࣌		بعض	others	baʿḍin
+3	23:92:21	w	سُبْحَٰنَ		سبحن	Glory be	sub'ḥāna
+3	23:92:22	w	ࡰ۬للَّهِ		الله	(to) Allah	l-lahi
+3	23:92:23	w	عَمَّا		عما	above what	ʿammā
+3	23:92:24	w	يَصِفُونَ࣌		يصفون	they attribute	yaṣifūna
+3	23:92:25	e	۝٩٢				
+4	23:93:1	w	عَٰلِمُ		علم	Knower	ʿālimi
+4	23:93:2	w	ࡲ۬لْغَيْبِ		الغيب	(of) the unseen	l-ghaybi
+4	23:93:3	w	وَالشَّهَٰدَةِ࣌		والشهدة	and the witnessed	wal-shahādati
+4	23:93:4	w	فَتَعَٰلٜىٰ		فتعلي	exalted is He	fataʿālā
+4	23:93:5	w	عَمَّا		عما	above what	ʿammā
+4	23:93:6	w	يُشْرِكُونَ࣌		يشركون	they associate	yush'rikūna
+4	23:93:7	e	۝٩٣				
+4	23:94:1	w	۞ قُل		قل	Say	qul
+4	23:94:2	w	رَّبِّ		رب	My Lord	rabbi
+4	23:94:3	w	إِمَّا		اما	If	immā
+5	23:94:4	w	تُرِيَنِّے		تريني	You should show me	turiyannī
+5	23:94:5	w	مَا		ما	what	mā
+5	23:94:6	w	يُوعَدُونَ		يوعدون	they are promised	yūʿadūna
+5	23:94:7	e	۝٩٤				
+5	23:95:1	w	رَبِّ		رب	My Lord	rabbi
+5	23:95:2	w	فَلَا		فلا	then (do) not	falā
+5	23:95:3	w	تَجْعَلْنِے		تجعلني	place me	tajʿalnī
+5	23:95:4	w	فِے		في	among	fī
+5	23:95:5	w	ࡴ۬لْقَوْمِ		القوم	the people	l-qawmi
+5	23:95:6	w	ࡴ۬لظَّٰلِمِينَ࣌		الظلمين	the wrongdoers	l-ẓālimīna
+5	23:95:7	e	۝٩٥				
+6	23:96:1	w	وَإِنَّا		وانا	And indeed We	wa-innā
+6	23:96:2	w	عَلَىٰٓ		علي	on	ʿalā
+6	23:96:3	w	أَن		ان	that	an
+6	23:96:4	w	نُّرِيَكَ		نريك	We show you	nuriyaka
+6	23:96:5	w	مَا		ما	what	mā
+6	23:96:6	w	نَعِدُهُمْ		نعدهم	We have promised them	naʿiduhum
+6	23:96:7	w	لَقَٰدِرُونَ࣌		لقدرون	surely able	laqādirūna
+6	23:96:8	e	۝٩٦				
+6	23:97:1	w	ࡰٜدْفَعْ		ادفع	Repel	id'faʿ
+6	23:97:2	w	بِالتِے		بالتي	by that	bi-allatī
+7	23:97:3	w	هِيَ		هي	which	hiya
+7	23:97:4	w	أَحْسَنُ		احسن	(is) best	aḥsanu
+7	23:97:5	w	ࡲ۬لسَّيِّئَةَ࣌		السيية	the evil	l-sayi-ata
+7	23:97:6	w	نَحْنُ		نحن	We	naḥnu
+7	23:97:7	w	أَعْلَمُ		اعلم	know best	aʿlamu
+7	23:97:8	w	بِمَا		بما	of what	bimā
+7	23:97:9	w	يَصِفُونَ࣌		يصفون	they attribute	yaṣifūna
+7	23:97:10	e	۝٩٧				
+7	23:98:1	w	وَقُل		وقل	And say	waqul
+7	23:98:2	w	رَّبِّ		رب	My Lord	rabbi
+8	23:98:3	w	أَعُوذُ		اعوذ	I seek refuge	aʿūdhu
+8	23:98:4	w	بِكَ		بك	in You	bika
+8	23:98:5	w	مِنْ		من	from	min
+8	23:98:6	w	هَمَزَٰتِ		همزت	(the) suggestions	hamazāti
+8	23:98:7	w	ࡴ۬لشَّيَٰطِينِ		الشيطين	(of) the evil ones	l-shayāṭīni
+8	23:98:8	e	۝٩٨				
+8	23:99:1	w	وَأَعُوذُ		واعوذ	And I seek refuge	wa-aʿūdhu
+8	23:99:2	w	بِكَ		بك	in You	bika
+8	23:99:3	w	رَبِّ		رب	My Lord	rabbi
+8	23:99:4	w	أَنْ		ان	Lest	an
+9	23:99:5	w	يَّحْضُرُونِ࣌		يحضرون	they be present with me	yaḥḍurūni
+9	23:99:6	e	۝٩٩				
+9	23:100:1	w	حَتَّىٰٓ		حتي	Until	ḥattā
+9	23:100:2	w	إِذَا		اذا	when	idhā
+9	23:100:3	w	جَآءَ		جا	comes	jāa
+9	23:100:4	w	احَدَهُمُ		احدهم	(to) one of them	aḥadahumu
+9	23:100:5	w	ࡲ۬لْمَوْتُ		الموت	the death	l-mawtu
+9	23:100:6	w	قَالَ		قال	he says	qāla
+9	23:100:7	w	رَبِّ		رب	My Lord	rabbi
+10	23:100:8	w	ࡴٜرْجِعُونِ		ارجعون	Send me back	ir'jiʿūni
+10	23:100:9	e	۝١٠٠				
+10	23:101:1	w	لَعَلِّيَ		لعلي	That I may	laʿallī
+10	23:101:2	w	أَعْمَلُ		اعمل	do	aʿmalu
+10	23:101:3	w	صَٰلِحاࣰ		صلحا	righteous (deeds)	ṣāliḥan
+10	23:101:4	w	فِيمَا		فيما	in what	fīmā
+10	23:101:5	w	تَرَكْتُ		تركت	I left behind	taraktu
+10	23:101:6	w	كَلَّآ࣌		كلا	No	kallā
+10	23:101:7	w	إِنَّهَا		انها	Indeed, it	innahā
+11	23:101:8	w	كَلِمَةٌ		كلمة	(is) a word	kalimatun
+11	23:101:9	w	هُوَ		هو	he	huwa
+11	23:101:10	w	قَآئِلُهَا࣌		قايلها	speaks it	qāiluhā
+11	23:101:11	w	وَمِنْ		ومن	and before them	wamin
+11	23:101:12	w	وَّرَآئِهِم		ورايهم	and before them	warāihim
+11	23:101:13	w	بَرْزَخٌ		برزخ	(is) a barrier	barzakhun
+11	23:101:14	w	ࡴلَىٰ		الي	till	ilā
+11	23:101:15	w	يَوْمِ		يوم	(the) Day	yawmi
+11	23:101:16	w	يُبْعَثُونَ࣌		يبعثون	they are resurrected	yub'ʿathūna
+11	23:101:17	e	۝١٠١				
+11	23:102:1	w	فَإِذَا		فاذا	So when	fa-idhā
+12	23:102:2	w	نُفِخَ		نفخ	is blown	nufikha
+12	23:102:3	w	فِے		في	in	fī
+12	23:102:4	w	ࡴ۬لصُّورِ		الصور	the trumpet	l-ṣūri
+12	23:102:5	w	فَلَآ		فلا	then not	falā
+12	23:102:6	w	أَنسَابَ		انساب	(there) will be relationship	ansāba
+12	23:102:7	w	بَيْنَهُمْ		بينهم	among them	baynahum
+12	23:102:8	w	يَوْمَئِذࣲ		يوميذ	that Day	yawma-idhin
+12	23:102:9	w	وَلَا		ولا	and not	walā
+12	23:102:10	w	يَتَسَآءَلُونَ࣌		يتسالون	will they ask each other	yatasāalūna
+12	23:102:11	e	۝١٠٢				
+13	23:103:1	w	فَمَن		فمن	Then (the one) whose	faman
+13	23:103:2	w	ثَقُلَتْ		ثقلت	(are) heavy	thaqulat
+13	23:103:3	w	مَوَٰزِينُهُۥ		موزينه	his scales	mawāzīnuhu
+13	23:103:4	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+13	23:103:5	w	هُمُ		هم	they	humu
+13	23:103:6	w	ࡲ۬لْمُفْلِحُونَ࣌		المفلحون	(are) the successful	l-muf'liḥūna
+13	23:103:7	e	۝١٠٣				
+13	23:104:1	w	وَمَنْ		ومن	But (the one) whose	waman
+13	23:104:2	w	خَفَّتْ		خفت	(are) light	khaffat
+14	23:104:3	w	مَوَٰزِينُهُۥ		موزينه	his scales	mawāzīnuhu
+14	23:104:4	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+14	23:104:5	w	ࡰ۬لذِينَ		الذين	they [who]	alladhīna
+14	23:104:6	w	خَسِرُوٓاْ		خسروا	have lost	khasirū
+14	23:104:7	w	أَنفُسَهُمْ		انفسهم	their souls	anfusahum
+14	23:104:8	w	فِے		في	in	fī
+14	23:104:9	w	جَهَنَّمَ		جهنم	Hell	jahannama
+15	23:104:10	w	خَٰلِدُونَ		خلدون	they (will) abide forever	khālidūna
+15	23:104:11	e	۝١٠٤				
+15	23:105:1	w	تَلْفَحُ		تلفح	Will burn	talfaḥu
+15	23:105:2	w	وُجُوهَهُمُ		وجوههم	their faces	wujūhahumu
+15	23:105:3	w	ࡲ۬لنَّارُ		النار	the Fire	l-nāru
+15	23:105:4	w	وَهُمْ		وهم	and they	wahum
+15	23:105:5	w	فِيهَا		فيها	in it	fīhā
+15	23:105:6	w	كَٰلِحُونَ࣌		كلحون	(will) grin with displaced lips	kāliḥūna
+15	23:105:7	e	۝١٠٥				

@@ -1,0 +1,129 @@
+1	25:33:1	w	وَلَا		ولا	And not	walā
+1	25:33:2	w	يَاتُونَكَ		ياتونك	they come to you	yatūnaka
+1	25:33:3	w	بِمَثَلٍ		بمثل	with an example	bimathalin
+1	25:33:4	w	ࡴلَّا		الا	but	illā
+1	25:33:5	w	جِئْنَٰكَ		جينك	We bring you	ji'nāka
+1	25:33:6	w	بِالْحَقِّ		بالحق	the truth	bil-ḥaqi
+1	25:33:7	w	وَأَحْسَنَ		واحسن	and (the) best	wa-aḥsana
+1	25:33:8	w	تَفْسِيراً࣌		تفسيرا	explanation	tafsīran
+1	25:33:9	e	۝٣٣				
+2	25:34:1	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+2	25:34:2	w	يُحْشَرُونَ		يحشرون	will be gathered	yuḥ'sharūna
+2	25:34:3	w	عَلَىٰ		علي	on	ʿalā
+2	25:34:4	w	وُجُوهِهِمُۥٓ		وجوههم	their faces	wujūhihim
+2	25:34:5	w	إِلَىٰ		الي	to	ilā
+2	25:34:6	w	جَهَنَّمَ		جهنم	Hell	jahannama
+2	25:34:7	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+2	25:34:8	w	شَرࣱّ		شر	(are the) worst	sharrun
+3	25:34:9	w	مَّكَاناࣰ		مكانا	(in) position	makānan
+3	25:34:10	w	وَأَضَلُّ		واضل	and most astray	wa-aḍallu
+3	25:34:11	w	سَبِيلاࣰ࣌		سبيلا	(from the) way	sabīlan
+3	25:34:12	e	۝٣٤				
+3	25:35:1	w	۞ وَلَقَدَ		ولقد	And verily	walaqad
+3	25:35:2	w	اٰتَيْنَا		اتينا	We gave	ātaynā
+3	25:35:3	w	مُوسَى		موسي	Musa	mūsā
+3	25:35:4	w	ࡰ۬لْكِتَٰبَ		الكتب	the Scripture	l-kitāba
+4	25:35:5	w	وَجَعَلْنَا		وجعلنا	and We appointed	wajaʿalnā
+4	25:35:6	w	مَعَهُۥٓ		معه	with him	maʿahu
+4	25:35:7	w	أَخَاهُ		اخاه	his brother	akhāhu
+4	25:35:8	w	هَٰرُونَ		هرون	Harun	hārūna
+4	25:35:9	w	وَزِيراࣰ࣌		وزيرا	(as) an assistant	wazīran
+4	25:35:10	e	۝٣٥				
+4	25:36:1	w	فَقُلْنَا		فقلنا	Then We said	faqul'nā
+4	25:36:2	w	ࡰٜذْهَبَآ		اذهبا	Go both of you	idh'habā
+5	25:36:3	w	إِلَى		الي	to	ilā
+5	25:36:4	w	ࡰ۬لْقَوْمِ		القوم	the people	l-qawmi
+5	25:36:5	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+5	25:36:6	w	كَذَّبُواْ		كذبوا	have denied	kadhabū
+5	25:36:7	w	بِـَٔايَٰتِنَا࣌		بايتنا	Our Signs	biāyātinā
+5	25:36:8	w	فَدَمَّرْنَٰهُمْ		فدمرنهم	Then We destroyed them	fadammarnāhum
+5	25:36:9	w	تَدْمِيراࣰ࣌		تدميرا	(with) destruction	tadmīran
+5	25:36:10	e	۝٣٦				
+6	25:37:1	w	وَقَوْمَ		وقوم	And (the) people	waqawma
+6	25:37:2	w	نُوحࣲ		نوح	(of) Nuh	nūḥin
+6	25:37:3	w	لَّمَّا		لما	when	lammā
+6	25:37:4	w	كَذَّبُواْ		كذبوا	they denied	kadhabū
+6	25:37:5	w	ࡲ۬لرُّسُلَ		الرسل	the Messengers	l-rusula
+6	25:37:6	w	أَغْرَقْنَٰهُمْ		اغرقنهم	We drowned them	aghraqnāhum
+6	25:37:7	w	وَجَعَلْنَٰهُمْ		وجعلنهم	and We made them	wajaʿalnāhum
+6	25:37:8	w	لِلنَّاسِ		للناس	for mankind	lilnnāsi
+7	25:37:9	w	ءَايَةࣰ࣌		اية	a sign	āyatan
+7	25:37:10	w	وَأَعْتَدْنَا		واعتدنا	And We have prepared	wa-aʿtadnā
+7	25:37:11	w	لِلظَّٰلِمِينَ		للظلمين	for the wrongdoers	lilẓẓālimīna
+7	25:37:12	w	عَذَاباً		عذابا	a punishment	ʿadhāban
+7	25:37:13	w	ࡰلِيماࣰ࣌		اليما	painful	alīman
+7	25:37:14	e	۝٣٧				
+7	25:38:1	w	وَعَاداࣰ		وعادا	And Ad	waʿādan
+7	25:38:2	w	وَثَمُوداࣰ		وثمودا	and Thamud	wathamūdā
+8	25:38:3	w	وَأَصْحَٰبَ		واصحب	and (the) dwellers	wa-aṣḥāba
+8	25:38:4	w	ࡰ۬لرَّسِّ		الرس	(of) Ar-rass	l-rasi
+8	25:38:5	w	وَقُرُوناَۢ		وقرونا	and generations	waqurūnan
+8	25:38:6	w	بَيْنَ		بين	between	bayna
+8	25:38:7	w	ذَٰلِكَ		ذلك	that	dhālika
+8	25:38:8	w	كَثِيراࣰ࣌		كثيرا	many	kathīran
+8	25:38:9	e	۝٣٨				
+8	25:39:1	w	وَكُلّاࣰ		وكلا	And each	wakullan
+9	25:39:2	w	ضَرَبْنَا		ضربنا	We have set forth	ḍarabnā
+9	25:39:3	w	لَهُ		له	for him	lahu
+9	25:39:4	w	ࡲ۬لَامْثَٰلَ࣌		الامثل	the examples	l-amthāla
+9	25:39:5	w	وَكُلّاࣰ		وكلا	and each	wakullan
+9	25:39:6	w	تَبَّرْنَا		تبرنا	We destroyed	tabbarnā
+9	25:39:7	w	تَتْبِيراࣰ࣌		تتبيرا	(with) destruction	tatbīran
+9	25:39:8	e	۝٣٩				
+9	25:40:1	w	وَلَقَدَ		ولقد	And verily	walaqad
+9	25:40:2	w	ࡰتَوْاْ		اتوا	they have come	ataw
+9	25:40:3	w	عَلَى		علي	upon	ʿalā
+10	25:40:4	w	ࡰ۬لْقَرْيَةِ		القرية	the town	l-qaryati
+10	25:40:5	w	ࡴ۬لتِےٓ		التي	which	allatī
+10	25:40:6	w	أُمْطِرَتْ		امطرت	was showered	um'ṭirat
+10	25:40:7	w	مَطَرَ		مطر	(with) a rain	maṭara
+10	25:40:8	w	ࡰ۬لسَّوْءِ࣌		السو	(of) evil	l-sawi
+10	25:40:9	w	ࡶَفَلَمْ		افلم	Then do not	afalam
+10	25:40:10	w	يَكُونُواْ		يكونوا	they [were]	yakūnū
+10	25:40:11	w	يَرَوْنَهَا࣌		يرونها	see it	yarawnahā
+11	25:40:12	w	بَلْ		بل	Nay	bal
+11	25:40:13	w	كَانُواْ		كانوا	they are	kānū
+11	25:40:14	w	لَا		لا	not	lā
+11	25:40:15	w	يَرْجُونَ		يرجون	expecting	yarjūna
+11	25:40:16	w	نُشُوراࣰ࣌		نشورا	Resurrection	nushūran
+11	25:40:17	e	۝٤٠				
+11	25:41:1	w	وَإِذَا		واذا	And when	wa-idhā
+11	25:41:2	w	رَأَوْكَ		راوك	they see you	ra-awka
+11	25:41:3	w	إِنْ		ان	not	in
+11	25:41:4	w	يَّتَّخِذُونَكَ		يتخذونك	they take you	yattakhidhūnaka
+12	25:41:5	w	إِلَّا		الا	except	illā
+12	25:41:6	w	هُزُؤاً࣌		هزوا	(in) mockery	huzuwan
+12	25:41:7	w	ࡰهَٰذَا		اهذا	Is this	ahādhā
+12	25:41:8	w	ࡰ۬لذِے		الذي	the one whom	alladhī
+12	25:41:9	w	بَعَثَ		بعث	Allah has sent	baʿatha
+12	25:41:10	w	ࡰ۬للَّهُ		الله	Allah has sent	l-lahu
+12	25:41:11	w	رَسُولاً		رسولا	(as) a Messenger	rasūlan
+12	25:41:12	e	۝٤١				
+12	25:42:1	w	ࡴن		ان	He would have almost	in
+12	25:42:2	w	كَادَ		كاد	He would have almost	kāda
+13	25:42:3	w	لَيُضِلُّنَا		ليضلنا	[surely] misled us	layuḍillunā
+13	25:42:4	w	عَنَ		عن	from	ʿan
+13	25:42:5	w	اٰلِهَتِنَا		الهتنا	our gods	ālihatinā
+13	25:42:6	w	لَوْلَآ		لولا	if not	lawlā
+13	25:42:7	w	أَن		ان	that	an
+13	25:42:8	w	صَبَرْنَا		صبرنا	we had been steadfast	ṣabarnā
+13	25:42:9	w	عَلَيْهَا࣌		عليها	to them	ʿalayhā
+13	25:42:10	w	وَسَوْفَ		وسوف	And soon	wasawfa
+14	25:42:11	w	يَعْلَمُونَ		يعلمون	will know	yaʿlamūna
+14	25:42:12	w	حِينَ		حين	when	ḥīna
+14	25:42:13	w	يَرَوْنَ		يرون	they will see	yarawna
+14	25:42:14	w	ࡰ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+14	25:42:15	w	مَنَ		من	who	man
+14	25:42:16	w	ࡰضَلُّ		اضل	(is) more astray	aḍallu
+14	25:42:17	w	سَبِيلاً࣌		سبيلا	(from the) way	sabīlan
+14	25:42:18	e	۝٤٢				
+14	25:43:1	w	ࡰرَٰٓيْتَ		اريت	Have you seen	ara-ayta
+15	25:43:2	w	مَنِ		من	(one) who	mani
+15	25:43:3	w	ࡴٜتَّخَذَ		اتخذ	takes	ittakhadha
+15	25:43:4	w	إِلَٰهَهُۥ		الهه	(as) his god	ilāhahu
+15	25:43:5	w	هَوٜيٰهُ		هويه	his own desire	hawāhu
+15	25:43:6	w	أَفَأَنتَ		افانت	Then would you	afa-anta
+15	25:43:7	w	تَكُونُ		تكون	be	takūnu
+15	25:43:8	w	عَلَيْهِ		عليه	over him	ʿalayhi
+15	25:43:9	w	وَكِيلاً࣌		وكيلا	a guardian	wakīlan
+15	25:43:10	e	۝٤٣				

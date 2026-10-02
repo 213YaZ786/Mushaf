@@ -1,0 +1,154 @@
+1	7:29:1	w	يَٰبَنِےٓ		يبني	O Children	yābanī
+1	7:29:2	w	ءَادَمَ		ادم	(of) Adam	ādama
+1	7:29:3	w	خُذُواْ		خذوا	Take	khudhū
+1	7:29:4	w	زِينَتَكُمْ		زينتكم	your adornment	zīnatakum
+1	7:29:5	w	عِندَ		عند	at	ʿinda
+1	7:29:6	w	كُلِّ		كل	every	kulli
+1	7:29:7	w	مَسْجِدࣲ		مسجد	masjid	masjidin
+1	7:29:8	w	وَكُلُواْ		وكلوا	and eat	wakulū
+1	7:29:9	w	وَاشْرَبُواْ࣌		واشربوا	and drink	wa-ish'rabū
+2	7:29:10	w	وَلَا		ولا	but (do) not	walā
+2	7:29:11	w	تُسْرِفُوٓاْ࣌		تسرفوا	be extravagant	tus'rifū
+2	7:29:12	w	إِنَّهُۥ		انه	Indeed, He	innahu
+2	7:29:13	w	لَا		لا	(does) not	lā
+2	7:29:14	w	يُحِبُّ		يحب	love	yuḥibbu
+2	7:29:15	w	ࡲ۬لْمُسْرِفِينَ࣌		المسرفين	the extravagant ones	l-mus'rifīna
+2	7:29:16	e	۝٢٩				
+2	7:30:1	w	۞ قُلْ		قل	Say	qul
+2	7:30:2	w	مَنْ		من	Who	man
+2	7:30:3	w	حَرَّمَ		حرم	has forbidden	ḥarrama
+2	7:30:4	w	زِينَةَ		زينة	(the) adornment	zīnata
+2	7:30:5	w	ࡰ۬للَّهِ		الله	(from) Allah	l-lahi
+3	7:30:6	w	ࡴ۬لتِےٓ		التي	which	allatī
+3	7:30:7	w	أَخْرَجَ		اخرج	He has brought forth	akhraja
+3	7:30:8	w	لِعِبَادِهِۦ		لعبادهي	for His slaves	liʿibādihi
+3	7:30:9	w	وَالطَّيِّبَٰتِ		والطيبت	and the pure things	wal-ṭayibāti
+3	7:30:10	w	مِنَ		من	of	mina
+3	7:30:11	w	ࡰ۬لرِّزْقِ࣌		الرزق	sustenance	l-riz'qi
+3	7:30:12	w	قُلْ		قل	Say	qul
+3	7:30:13	w	هِيَ		هي	They	hiya
+3	7:30:14	w	لِلذِينَ		للذين	(are) for those who	lilladhīna
+3	7:30:15	w	ءَامَنُواْ		امنوا	believe	āmanū
+4	7:30:16	w	فِے		في	during	fī
+4	7:30:17	w	ࡴ۬لْحَيَوٰةِ		الحيوة	the life	l-ḥayati
+4	7:30:18	w	ࡴ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+4	7:30:19	w	خَالِصَةࣱ		خالصة	exclusively (for them)	khāliṣatan
+4	7:30:20	w	يَوْمَ		يوم	(on the) Day	yawma
+4	7:30:21	w	ࡰ۬لْقِيَٰمَةِ࣌		القيمة	(of) Resurrection	l-qiyāmati
+4	7:30:22	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+4	7:30:23	w	نُفَصِّلُ		نفصل	We explain	nufaṣṣilu
+4	7:30:24	w	ࡲ۬لَايَٰتِ		الايت	the Signs	l-āyāti
+5	7:30:25	w	لِقَوْمࣲ		لقوم	for (the) people	liqawmin
+5	7:30:26	w	يَعْلَمُونَ࣌		يعلمون	who know	yaʿlamūna
+5	7:30:27	e	۝٣٠				
+5	7:31:1	w	قُلِ		قل	Say	qul
+5	7:31:2	w	ࡴنَّمَا		انما	Only	innamā
+5	7:31:3	w	حَرَّمَ		حرم	(had) forbidden	ḥarrama
+5	7:31:4	w	رَبِّيَ		ربي	my Lord	rabbiya
+5	7:31:5	w	ࡰ۬لْفَوَٰحِشَ		الفوحش	the shameful deeds	l-fawāḥisha
+5	7:31:6	w	مَا		ما	what	mā
+5	7:31:7	w	ظَهَرَ		ظهر	(is) apparent	ẓahara
+5	7:31:8	w	مِنْهَا		منها	of it	min'hā
+6	7:31:9	w	وَمَا		وما	and what	wamā
+6	7:31:10	w	بَطَنَ		بطن	is concealed	baṭana
+6	7:31:11	w	وَالِاثْمَ		والاثم	and the sin	wal-ith'ma
+6	7:31:12	w	وَالْبَغْيَ		والبغي	and the oppression	wal-baghya
+6	7:31:13	w	بِغَيْرِ		بغير	without	bighayri
+6	7:31:14	w	ࡴ۬لْحَقِّ		الحق	[the] right	l-ḥaqi
+6	7:31:15	w	وَأَن		وان	and that	wa-an
+6	7:31:16	w	تُشْرِكُواْ		تشركوا	you associate (others)	tush'rikū
+6	7:31:17	w	بِاللَّهِ		بالله	with Allah	bil-lahi
+6	7:31:18	w	مَا		ما	what	mā
+6	7:31:19	w	لَمْ		لم	not	lam
+7	7:31:20	w	يُنَزِّلْ		ينزل	He (has) sent down	yunazzil
+7	7:31:21	w	بِهِۦ		بهي	of it	bihi
+7	7:31:22	w	سُلْطَٰناࣰ		سلطنا	any authority	sul'ṭānan
+7	7:31:23	w	وَأَن		وان	and that	wa-an
+7	7:31:24	w	تَقُولُواْ		تقولوا	you say	taqūlū
+7	7:31:25	w	عَلَى		علي	about	ʿalā
+7	7:31:26	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	7:31:27	w	مَا		ما	what	mā
+7	7:31:28	w	لَا		لا	not	lā
+7	7:31:29	w	تَعْلَمُونَ࣌		تعلمون	you know	taʿlamūna
+7	7:31:30	e	۝٣١				
+7	7:32:1	w	وَلِكُلِّ		ولكل	And for every	walikulli
+8	7:32:2	w	أُمَّةٍ		امة	nation	ummatin
+8	7:32:3	w	ࡰجَلࣱ࣌		اجل	(is a fixed) term	ajalun
+8	7:32:4	w	فَإِذَا		فاذا	So when	fa-idhā
+8	7:32:5	w	جَآءَ		جا	comes	jāa
+8	7:32:6	w	اجَلُهُمْ		اجلهم	their term	ajaluhum
+8	7:32:7	w	لَا		لا	(they can) not	lā
+8	7:32:8	w	يَسْتَٰخِرُونَ		يستخرون	seek to delay	yastakhirūna
+8	7:32:9	w	سَاعَةࣰ࣌		ساعة	an hour	sāʿatan
+8	7:32:10	w	وَلَا		ولا	and not	walā
+8	7:32:11	w	يَسْتَقْدِمُونَ࣌		يستقدمون	seek to advance (it)	yastaqdimūna
+8	7:32:12	e	۝٣٢				
+9	7:33:1	w	يَٰبَنِےٓ		يبني	O Children	yābanī
+9	7:33:2	w	ءَادَمَ		ادم	(of) Adam	ādama
+9	7:33:3	w	إِمَّا		اما	If	immā
+9	7:33:4	w	يَاتِيَنَّكُمْ		ياتينكم	come to you	yatiyannakum
+9	7:33:5	w	رُسُلࣱ		رسل	Messengers	rusulun
+9	7:33:6	w	مِّنكُمْ		منكم	from you	minkum
+9	7:33:7	w	يَقُصُّونَ		يقصون	relating	yaquṣṣūna
+9	7:33:8	w	عَلَيْكُمُۥٓ		عليكم	to you	ʿalaykum
+9	7:33:9	w	ءَايَٰتِے		ايتي	My Verses	āyātī
+10	7:33:10	w	فَمَنِ		فمن	then whoever	famani
+10	7:33:11	w	ࡴٜتَّقٜىٰ		اتقي	fears Allah	ittaqā
+10	7:33:12	w	وَأَصْلَحَ		واصلح	and reforms	wa-aṣlaḥa
+10	7:33:13	w	فَلَا		فلا	then no	falā
+10	7:33:14	w	خَوْفٌ		خوف	fear	khawfun
+10	7:33:15	w	عَلَيْهِمْ		عليهم	on them	ʿalayhim
+10	7:33:16	w	وَلَا		ولا	and not	walā
+10	7:33:17	w	هُمْ		هم	they	hum
+10	7:33:18	w	يَحْزَنُونَ࣌		يحزنون	will grieve	yaḥzanūna
+10	7:33:19	e	۝٣٣				
+10	7:34:1	w	وَالذِينَ		والذين	But those who	wa-alladhīna
+11	7:34:2	w	كَذَّبُواْ		كذبوا	deny	kadhabū
+11	7:34:3	w	بِـَٔايَٰتِنَا		بايتنا	Our Verses	biāyātinā
+11	7:34:4	w	وَاسْتَكْبَرُواْ		واستكبروا	and (are) arrogant	wa-is'takbarū
+11	7:34:5	w	عَنْهَآ		عنها	towards them	ʿanhā
+11	7:34:6	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+11	7:34:7	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+11	7:34:8	w	ࡲ۬لنّٜارِ		النار	(of) the Fire	l-nāri
+11	7:34:9	w	هُمْ		هم	they	hum
+11	7:34:10	w	فِيهَا		فيها	in it	fīhā
+12	7:34:11	w	خَٰلِدُونَ࣌		خلدون	will abide forever	khālidūna
+12	7:34:12	e	۝٣٤				
+12	7:35:1	w	فَمَنَ		فمن	Then who	faman
+12	7:35:2	w	ࡰظْلَمُ		اظلم	(is) more unjust	aẓlamu
+12	7:35:3	w	مِمَّنِ		ممن	than (one) who	mimmani
+12	7:35:4	w	ࡴٜفْتَرٜىٰ		افتري	invented	if'tarā
+12	7:35:5	w	عَلَى		علي	against	ʿalā
+12	7:35:6	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+12	7:35:7	w	كَذِباً		كذبا	a lie	kadhiban
+12	7:35:8	w	ࡰوْ		او	or	aw
+12	7:35:9	w	كَذَّبَ		كذب	denies	kadhaba
+13	7:35:10	w	بِـَٔايَٰتِهِۦٓ࣌		بايتهي	His Verses	biāyātihi
+13	7:35:11	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+13	7:35:12	w	يَنَالُهُمْ		ينالهم	will reach them	yanāluhum
+13	7:35:13	w	نَصِيبُهُم		نصيبهم	their portion	naṣībuhum
+13	7:35:14	w	مِّنَ		من	from	mina
+13	7:35:15	w	ࡰ۬لْكِتَٰبِ࣌		الكتب	the Book	l-kitābi
+13	7:35:16	w	حَتَّىٰٓ		حتي	until	ḥattā
+13	7:35:17	w	إِذَا		اذا	when	idhā
+13	7:35:18	w	جَآءَتْهُمْ		جاتهم	comes to them	jāathum
+14	7:35:19	w	رُسُلُنَا		رسلنا	Our messengers (Angels)	rusulunā
+14	7:35:20	w	يَتَوَفَّوْنَهُمْ		يتوفونهم	(to) take them in death	yatawaffawnahum
+14	7:35:21	w	قَالُوٓاْ		قالوا	they say	qālū
+14	7:35:22	w	أَيْنَ		اين	Where are	ayna
+14	7:35:23	w	مَا		ما	those (whom)	mā
+14	7:35:24	w	كُنتُمْ		كنتم	you used to	kuntum
+14	7:35:25	w	تَدْعُونَ		تدعون	invoke	tadʿūna
+14	7:35:26	w	مِن		من	from	min
+14	7:35:27	w	دُونِ		دون	besides	dūni
+14	7:35:28	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+15	7:35:29	w	قَالُواْ		قالوا	They say	qālū
+15	7:35:30	w	ضَلُّواْ		ضلوا	They strayed	ḍallū
+15	7:35:31	w	عَنَّا࣌		عنا	from us	ʿannā
+15	7:35:32	w	وَشَهِدُواْ		وشهدوا	and they (will) testify	washahidū
+15	7:35:33	w	عَلَىٰٓ		علي	against	ʿalā
+15	7:35:34	w	أَنفُسِهِمُۥٓ		انفسهم	themselves	anfusihim
+15	7:35:35	w	أَنَّهُمْ		انهم	that they	annahum
+15	7:35:36	w	كَانُواْ		كانوا	were	kānū
+15	7:35:37	w	كٜـٰفِرِينَ࣌		كفرين	disbelievers	kāfirīna
+15	7:35:38	e	۝٣٥				

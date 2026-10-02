@@ -13,8 +13,13 @@ object PageLayout {
      * title has no room above it there, the title (and the basmala) close
      * this page instead, on its last lines, as printed (Yunus, page 207).
      */
-    fun page(number: Int, words: List<Word>, next: Word? = null): MushafPage {
+    fun page(number: Int, words: List<Word>, next: Word? = null, explicit: Map<Int, PageLine> = emptyMap()): MushafPage {
         val byLine = words.groupBy { it.line }
+        // A mushaf whose file places its titles and basmalas itself (Warsh) needs no guessing.
+        if (explicit.isNotEmpty()) {
+            val last = maxOf(byLine.keys.maxOrNull() ?: 0, explicit.keys.maxOrNull() ?: 0)
+            return MushafPage(number, (1..last).mapNotNull { n -> explicit[n] ?: byLine[n]?.let { PageLine.Words(n, it) } })
+        }
         val extra = mutableMapOf<Int, PageLine>()
         for (first in words.filter { it.key.ayah == 1 && it.position == 1 && !it.end }) {
             val surah = first.key.surah
@@ -52,10 +57,22 @@ object PageLayout {
     /** Lines a page is laid out on: 15, or 8 for the first two. */
     fun lineCount(page: Int): Int = if (page <= 2) 8 else 15
 
+    /**
+     * A title or basmala line of a page file (kind t or b), as the Warsh
+     * files write them: line, s:0:0, kind.
+     */
+    fun parseLine(row: String): PageLine? {
+        val f = row.split('\t')
+        if (f.size < 3 || (f[2] != "t" && f[2] != "b")) return null
+        val n = f[0].toIntOrNull() ?: return null
+        val s = f[1].substringBefore(':').toIntOrNull() ?: return null
+        return if (f[2] == "t") PageLine.Title(n, s) else PageLine.Basmala(n)
+    }
+
     /** One line of a page file: line, s:a:w, kind, text, glyph, plain, meaning, transliteration. */
     fun parseWord(row: String): Word? {
         val f = row.split('\t')
-        if (f.size < 5) return null
+        if (f.size < 5 || f[2] == "t" || f[2] == "b") return null
         val loc = f[1].split(':')
         if (loc.size < 3) return null
         return Word(

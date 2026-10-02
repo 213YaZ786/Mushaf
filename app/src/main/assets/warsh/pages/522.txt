@@ -1,0 +1,164 @@
+1	51:31:1	w	۞ قَالَ		قال	He said	qāla
+1	51:31:2	w	فَمَا		فما	Then what	famā
+1	51:31:3	w	خَطْبُكُمُۥٓ		خطبكم	(is) your mission	khaṭbukum
+1	51:31:4	w	أَيُّهَا		ايها	O messengers	ayyuhā
+1	51:31:5	w	ࡰ۬لْمُرْسَلُونَ࣌		المرسلون	O messengers	l-mur'salūna
+1	51:31:6	e	۝٣١				
+1	51:32:1	w	قَالُوٓاْ		قالوا	They said	qālū
+1	51:32:2	w	إِنَّآ		انا	Indeed, we	innā
+1	51:32:3	w	أُرْسِلْنَآ		ارسلنا	[we] have been sent	ur'sil'nā
+1	51:32:4	w	إِلَىٰ		الي	to	ilā
+1	51:32:5	w	قَوْمࣲ		قوم	a people	qawmin
+2	51:32:6	w	مُّجْرِمِينَ		مجرمين	criminal	muj'rimīna
+2	51:32:7	e	۝٣٢				
+2	51:33:1	w	لِنُرْسِلَ		لنرسل	That we may send down	linur'sila
+2	51:33:2	w	عَلَيْهِمْ		عليهم	upon them	ʿalayhim
+2	51:33:3	w	حِجَارَةࣰ		حجارة	stones	ḥijāratan
+2	51:33:4	w	مِّن		من	of	min
+2	51:33:5	w	طِينࣲ		طين	clay	ṭīnin
+2	51:33:6	e	۝٣٣				
+2	51:34:1	w	مُّسَوَّمَةً		مسومة	Marked	musawwamatan
+2	51:34:2	w	عِندَ		عند	by your Lord	ʿinda
+2	51:34:3	w	رَبِّكَ		ربك	by your Lord	rabbika
+3	51:34:4	w	لِلْمُسْرِفِينَ࣌		للمسرفين	for the transgressors	lil'mus'rifīna
+3	51:34:5	e	۝٣٤				
+3	51:35:1	w	فَأَخْرَجْنَا		فاخرجنا	Then We brought out	fa-akhrajnā
+3	51:35:2	w	مَن		من	(those) who	man
+3	51:35:3	w	كَانَ		كان	were	kāna
+3	51:35:4	w	فِيهَا		فيها	therein	fīhā
+3	51:35:5	w	مِنَ		من	of	mina
+3	51:35:6	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+3	51:35:7	e	۝٣٥				
+3	51:36:1	w	فَمَا		فما	But not	famā
+3	51:36:2	w	وَجَدْنَا		وجدنا	We found	wajadnā
+4	51:36:3	w	فِيهَا		فيها	therein	fīhā
+4	51:36:4	w	غَيْرَ		غير	other than	ghayra
+4	51:36:5	w	بَيْتࣲ		بيت	a house	baytin
+4	51:36:6	w	مِّنَ		من	of	mina
+4	51:36:7	w	ࡰ۬لْمُسْلِمِينَ		المسلمين	the Muslims	l-mus'limīna
+4	51:36:8	e	۝٣٦				
+4	51:37:1	w	وَتَرَكْنَا		وتركنا	And We left	wataraknā
+4	51:37:2	w	فِيهَآ		فيها	therein	fīhā
+4	51:37:3	w	ءَايَةࣰ		اية	a Sign	āyatan
+4	51:37:4	w	لِّلذِينَ		للذين	for those who	lilladhīna
+4	51:37:5	w	يَخَافُونَ		يخافون	fear	yakhāfūna
+5	51:37:6	w	ࡰ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+5	51:37:7	w	ࡰ۬لَالِيمَ࣌		الاليم	the painful	l-alīma
+5	51:37:8	e	۝٣٧				
+5	51:38:1	w	وَفِے		وفي	And in	wafī
+5	51:38:2	w	مُوسٜىٰٓ		موسي	Musa	mūsā
+5	51:38:3	w	إِذَ		اذ	when	idh
+5	51:38:4	w	ࡰرْسَلْنَٰهُ		ارسلنه	We sent him	arsalnāhu
+5	51:38:5	w	إِلَىٰ		الي	to	ilā
+5	51:38:6	w	فِرْعَوْنَ		فرعون	Firaun	fir'ʿawna
+5	51:38:7	w	بِسُلْطَٰنࣲ		بسلطن	with an authority	bisul'ṭānin
+6	51:38:8	w	مُّبِينࣲ		مبين	clear	mubīnin
+6	51:38:9	e	۝٣٨				
+6	51:39:1	w	فَتَوَلّٜىٰ		فتولي	But he turned away	fatawallā
+6	51:39:2	w	بِرُكْنِهِۦ		بركنهي	with his supporters	biruk'nihi
+6	51:39:3	w	وَقَالَ		وقال	and said	waqāla
+6	51:39:4	w	سَٰحِرٌ		سحر	A magician	sāḥirun
+6	51:39:5	w	ࡰوْ		او	or	aw
+6	51:39:6	w	مَجْنُونࣱ࣌		مجنون	a madman	majnūnun
+6	51:39:7	e	۝٣٩				
+6	51:40:1	w	فَأَخَذْنَٰهُ		فاخذنه	So We took him	fa-akhadhnāhu
+6	51:40:2	w	وَجُنُودَهُۥ		وجنوده	and his hosts	wajunūdahu
+7	51:40:3	w	فَنَبَذْنَٰهُمْ		فنبذنهم	and threw them	fanabadhnāhum
+7	51:40:4	w	فِے		في	into	fī
+7	51:40:5	w	ࡴ۬لْيَمِّ		اليم	the sea	l-yami
+7	51:40:6	w	وَهُوَ		وهو	while he	wahuwa
+7	51:40:7	w	مُلِيمࣱ࣌		مليم	(was) blameworthy	mulīmun
+7	51:40:8	e	۝٤٠				
+7	51:41:1	w	وَفِے		وفي	And in	wafī
+7	51:41:2	w	عَادٍ		عاد	Aad	ʿādin
+7	51:41:3	w	ࡴذَ		اذ	when	idh
+7	51:41:4	w	ࡰرْسَلْنَا		ارسلنا	We sent	arsalnā
+7	51:41:5	w	عَلَيْهِمُ		عليهم	against them	ʿalayhimu
+7	51:41:6	w	ࡲ۬لرِّيحَ		الريح	the wind	l-rīḥa
+8	51:41:7	w	ࡰ۬لْعَقِيمَ		العقيم	the barren	l-ʿaqīma
+8	51:41:8	e	۝٤١				
+8	51:42:1	w	مَا		ما	Not	mā
+8	51:42:2	w	تَذَرُ		تذر	it left	tadharu
+8	51:42:3	w	مِن		من	any	min
+8	51:42:4	w	شَےْءٍ		شي	thing	shayin
+8	51:42:5	w	ࡰتَتْ		اتت	it came	atat
+8	51:42:6	w	عَلَيْهِ		عليه	upon it	ʿalayhi
+8	51:42:7	w	إِلَّا		الا	but	illā
+8	51:42:8	w	جَعَلَتْهُ		جعلته	it made it	jaʿalathu
+8	51:42:9	w	كَالرَّمِيمِ࣌		كالرميم	like disintegrated ruins	kal-ramīmi
+8	51:42:10	e	۝٤٢				
+9	51:43:1	w	وَفِے		وفي	And in	wafī
+9	51:43:2	w	ثَمُودَ		ثمود	Thamud	thamūda
+9	51:43:3	w	إِذْ		اذ	when	idh
+9	51:43:4	w	قِيلَ		قيل	was said	qīla
+9	51:43:5	w	لَهُمْ		لهم	to them	lahum
+9	51:43:6	w	تَمَتَّعُواْ		تمتعوا	Enjoy (yourselves)	tamattaʿū
+9	51:43:7	w	حَتَّىٰ		حتي	for	ḥattā
+9	51:43:8	w	حِينࣲ		حين	a time	ḥīnin
+9	51:43:9	e	۝٤٣				
+9	51:44:1	w	فَعَتَوْاْ		فعتوا	But they rebelled	faʿataw
+9	51:44:2	w	عَنَ		عن	against	ʿan
+9	51:44:3	w	ࡰمْرِ		امر	(the) Command	amri
+9	51:44:4	w	رَبِّهِمْ		ربهم	(of) their Lord	rabbihim
+10	51:44:5	w	فَأَخَذَتْهُمُ		فاخذتهم	so seized them	fa-akhadhathumu
+10	51:44:6	w	ࡲ۬لصَّٰعِقَةُ		الصعقة	the thunderbolt	l-ṣāʿiqatu
+10	51:44:7	w	وَهُمْ		وهم	while they	wahum
+10	51:44:8	w	يَنظُرُونَ࣌		ينظرون	were looking	yanẓurūna
+10	51:44:9	e	۝٤٤				
+10	51:45:1	w	فَمَا		فما	Then not	famā
+10	51:45:2	w	ࡰٜسْتَطَٰعُواْ		استطعوا	they were able to	is'taṭāʿū
+10	51:45:3	w	مِن		من	[of]	min
+10	51:45:4	w	قِيَامࣲ		قيام	stand	qiyāmin
+11	51:45:5	w	وَمَا		وما	and not	wamā
+11	51:45:6	w	كَانُواْ		كانوا	they could	kānū
+11	51:45:7	w	مُنتَصِرِينَ࣌		منتصرين	help themselves	muntaṣirīna
+11	51:45:8	e	۝٤٥				
+11	51:46:1	w	وَقَوْمَ		وقوم	And (the) people	waqawma
+11	51:46:2	w	نُوحࣲ		نوح	(of) Nuh	nūḥin
+11	51:46:3	w	مِّن		من	before	min
+11	51:46:4	w	قَبْلُ࣌		قبل	before	qablu
+11	51:46:5	w	إِنَّهُمْ		انهم	indeed, they	innahum
+11	51:46:6	w	كَانُواْ		كانوا	were	kānū
+11	51:46:7	w	قَوْماࣰ		قوما	a people	qawman
+12	51:46:8	w	فَٰسِقِينَ࣌		فسقين	defiantly disobedient	fāsiqīna
+12	51:46:9	e	۝٤٦				
+12	51:47:1	w	وَالسَّمَآءَ		والسما	And the heaven	wal-samāa
+12	51:47:2	w	بَنَيْنَٰهَا		بنينها	We constructed it	banaynāhā
+12	51:47:3	w	بِأَيَيْدࣲ࣌		باييد	with strength	bi-aydin
+12	51:47:4	w	وَإِنَّا		وانا	and indeed, We	wa-innā
+12	51:47:5	w	لَمُوسِعُونَ࣌		لموسعون	(are) surely (its) Expanders	lamūsiʿūna
+12	51:47:6	e	۝٤٧				
+12	51:48:1	w	وَالَارْضَ		والارض	And the earth	wal-arḍa
+13	51:48:2	w	فَرَشْنَٰهَا࣌		فرشنها	We have spread it	farashnāhā
+13	51:48:3	w	فَنِعْمَ		فنعم	how excellent	faniʿ'ma
+13	51:48:4	w	ࡰ۬لْمَٰهِدُونَ࣌		المهدون	(are) the Spreaders	l-māhidūna
+13	51:48:5	e	۝٤٨				
+13	51:49:1	w	وَمِن		ومن	And of	wamin
+13	51:49:2	w	كُلِّ		كل	every	kulli
+13	51:49:3	w	شَےْءٍ		شي	thing	shayin
+13	51:49:4	w	خَلَقْنَا		خلقنا	We have created	khalaqnā
+13	51:49:5	w	زَوْجَيْنِ		زوجين	pairs	zawjayni
+14	51:49:6	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+14	51:49:7	w	تَذَّكَّرُونَ࣌		تذكرون	remember	tadhakkarūna
+14	51:49:8	e	۝٤٩				
+14	51:50:1	w	فَفِرُّوٓاْ		ففروا	So flee	fafirrū
+14	51:50:2	w	إِلَى		الي	to	ilā
+14	51:50:3	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+14	51:50:4	w	إِنِّے		اني	indeed, I am	innī
+14	51:50:5	w	لَكُم		لكم	to you	lakum
+14	51:50:6	w	مِّنْهُ		منه	from Him	min'hu
+14	51:50:7	w	نَذِيرࣱ		نذير	a warner	nadhīrun
+14	51:50:8	w	مُّبِينࣱ࣌		مبين	clear	mubīnun
+14	51:50:9	e	۝٥٠				
+15	51:51:1	w	وَلَا		ولا	And (do) not	walā
+15	51:51:2	w	تَجْعَلُواْ		تجعلوا	make	tajʿalū
+15	51:51:3	w	مَعَ		مع	with	maʿa
+15	51:51:4	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+15	51:51:5	w	إِلَٰهاً		الها	god	ilāhan
+15	51:51:6	w	اٰخَرَ		اخر	another	ākhara
+15	51:51:7	w	إِنِّے		اني	Indeed, I am	innī
+15	51:51:8	w	لَكُم		لكم	to you	lakum
+15	51:51:9	w	مِّنْهُ		منه	from Him	min'hu
+15	51:51:10	w	نَذِيرࣱ		نذير	a warner	nadhīrun
+15	51:51:11	w	مُّبِينࣱ࣌		مبين	clear	mubīnun
+15	51:51:12	e	۝٥١				

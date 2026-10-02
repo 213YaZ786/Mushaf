@@ -1,0 +1,134 @@
+1	6:144:1	w	ثَمَٰنِيَةَ		ثمنية	Eight	thamāniyata
+1	6:144:2	w	أَزْوَٰجࣲ࣌		ازوج	pairs	azwājin
+1	6:144:3	w	مِّنَ		من	of	mina
+1	6:144:4	w	ࡰ۬لضَّأْنِ		الضان	the sheep	l-ḍani
+1	6:144:5	w	ࡴٜثْنَيْنِ		اثنين	two	ith'nayni
+1	6:144:6	w	وَمِنَ		ومن	and of	wamina
+1	6:144:7	w	ࡰ۬لْمَعْزِ		المعز	the goats	l-maʿzi
+1	6:144:8	w	ࡴٜثْنَيْنِ࣌		اثنين	two	ith'nayni
+2	6:144:9	w	قُلَ		قل	Say	qul
+2	6:144:10	w	آٓلذَّكَرَيْنِ		الذكرين	(Are) the two males	āldhakarayni
+2	6:144:11	w	حَرَّمَ		حرم	He has forbidden	ḥarrama
+2	6:144:12	w	أَمِ		ام	or	ami
+2	6:144:13	w	ࡴ۬لُانثَيَيْنِ		الانثيين	the two females	l-unthayayni
+2	6:144:14	w	أَمَّا		اما	or what	ammā
+2	6:144:15	w	ࡰٜشْتَمَلَتْ		اشتملت	contains	ish'tamalat
+2	6:144:16	w	عَلَيْهِ		عليه	[in it]	ʿalayhi
+3	6:144:17	w	أَرْحَامُ		ارحام	(the) wombs	arḥāmu
+3	6:144:18	w	ࡲ۬لُانثَيَيْنِ࣌		الانثيين	(of) the two females	l-unthayayni
+3	6:144:19	w	نَبِّـُٔونِے		نبوني	Inform me	nabbiūnī
+3	6:144:20	w	بِعِلْمٍ		بعلم	with knowledge	biʿil'min
+3	6:144:21	w	ࡴن		ان	if	in
+3	6:144:22	w	كُنتُمْ		كنتم	you are	kuntum
+3	6:144:23	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+3	6:144:24	e	۝١٤٤				
+4	6:145:1	w	وَمِنَ		ومن	And of	wamina
+4	6:145:2	w	ࡰ۬لِابِلِ		الابل	the camels	l-ibili
+4	6:145:3	w	ࡴٜثْنَيْنِ		اثنين	two	ith'nayni
+4	6:145:4	w	وَمِنَ		ومن	and of	wamina
+4	6:145:5	w	ࡰ۬لْبَقَرِ		البقر	the cows	l-baqari
+4	6:145:6	w	ࡴٜثْنَيْنِ࣌		اثنين	two	ith'nayni
+4	6:145:7	w	قُلَ		قل	Say	qul
+4	6:145:8	w	آٓلذَّكَرَيْنِ		الذكرين	(Is it) the two males	āldhakarayni
+5	6:145:9	w	حَرَّمَ		حرم	He (has) forbidden	ḥarrama
+5	6:145:10	w	أَمِ		ام	or	ami
+5	6:145:11	w	ࡴ۬لُانثَيَيْنِ		الانثيين	the two females	l-unthayayni
+5	6:145:12	w	أَمَّا		اما	or what	ammā
+5	6:145:13	w	ࡰٜشْتَمَلَتْ		اشتملت	contains	ish'tamalat
+5	6:145:14	w	عَلَيْهِ		عليه	[in it]	ʿalayhi
+5	6:145:15	w	أَرْحَامُ		ارحام	(the) wombs	arḥāmu
+5	6:145:16	w	ࡲ۬لُانثَيَيْنِ࣌		الانثيين	(of) the two females	l-unthayayni
+6	6:145:17	w	أَمْ		ام	Or	am
+6	6:145:18	w	كُنتُمْ		كنتم	were you	kuntum
+6	6:145:19	w	شُهَدَآءَ		شهدا	witnesses	shuhadāa
+6	6:145:20	w	ࡹذْ		اذ	when	idh
+6	6:145:21	w	وَصّٜيٰكُمُ		وصيكم	enjoined you	waṣṣākumu
+6	6:145:22	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+6	6:145:23	w	بِهَٰذَا࣌		بهذا	with this	bihādhā
+6	6:145:24	w	فَمَنَ		فمن	Then who	faman
+7	6:145:25	w	ࡰظْلَمُ		اظلم	(is) more unjust	aẓlamu
+7	6:145:26	w	مِمَّنِ		ممن	than (one) who	mimmani
+7	6:145:27	w	ࡴٜفْتَرٜىٰ		افتري	invents	if'tarā
+7	6:145:28	w	عَلَى		علي	against	ʿalā
+7	6:145:29	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	6:145:30	w	كَذِباࣰ		كذبا	a lie	kadhiban
+7	6:145:31	w	لِّيُضِلَّ		ليضل	to mislead	liyuḍilla
+7	6:145:32	w	ࡰ۬لنَّاسَ		الناس	the people	l-nāsa
+7	6:145:33	w	بِغَيْرِ		بغير	without	bighayri
+8	6:145:34	w	عِلْمٍ࣌		علم	knowledge	ʿil'min
+8	6:145:35	w	ࡴنَّ		ان	Indeed	inna
+8	6:145:36	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+8	6:145:37	w	لَا		لا	(does) not	lā
+8	6:145:38	w	يَهْدِے		يهدي	guide	yahdī
+8	6:145:39	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+8	6:145:40	w	ࡰ۬لظَّٰلِمِينَ࣌		الظلمين	the wrongdoing	l-ẓālimīna
+8	6:145:41	e	۝١٤٥				
+8	6:146:1	w	۞ قُل		قل	Say	qul
+8	6:146:2	w	لَّآ		لا	Not	lā
+8	6:146:3	w	أَجِدُ		اجد	(do) I find	ajidu
+9	6:146:4	w	فِے		في	in	fī
+9	6:146:5	w	مَآ		ما	what	mā
+9	6:146:6	w	أُوحِيَ		اوحي	has been revealed	ūḥiya
+9	6:146:7	w	إِلَيَّ		الي	to me	ilayya
+9	6:146:8	w	مُحَرَّماً		محرما	(anything) forbidden	muḥarraman
+9	6:146:9	w	عَلَىٰ		علي	to	ʿalā
+9	6:146:10	w	طَاعِمࣲ		طاعم	an eater	ṭāʿimin
+9	6:146:11	w	يَطْعَمُهُۥٓ		يطعمه	who eats it	yaṭʿamuhu
+9	6:146:12	w	إِلَّآ		الا	except	illā
+9	6:146:13	w	أَنْ		ان	that	an
+9	6:146:14	w	يَّكُونَ		يكون	it be	yakūna
+10	6:146:15	w	مَيْتَةً		ميتة	dead	maytatan
+10	6:146:16	w	ࡰوْ		او	or	aw
+10	6:146:17	w	دَماࣰ		دما	blood	daman
+10	6:146:18	w	مَّسْفُوحاً		مسفوحا	poured forth	masfūḥan
+10	6:146:19	w	ࡰوْ		او	or	aw
+10	6:146:20	w	لَحْمَ		لحم	(the) flesh	laḥma
+10	6:146:21	w	خِنزِيرࣲ		خنزير	(of) swine	khinzīrin
+10	6:146:22	w	فَإِنَّهُۥ		فانه	for indeed, it	fa-innahu
+10	6:146:23	w	رِجْسٌ࣌		رجس	(is) filth	rij'sun
+10	6:146:24	w	ࡰوْ		او	or	aw
+11	6:146:25	w	فِسْقاً		فسقا	(it be) disobedience	fis'qan
+11	6:146:26	w	ࡳهِلَّ		اهل	[is] dedicated	uhilla
+11	6:146:27	w	لِغَيْرِ		لغير	to other than	lighayri
+11	6:146:28	w	ࡴ۬للَّهِ		الله	Allah	l-lahi
+11	6:146:29	w	بِهِۦ࣌		بهي	[on it]	bihi
+11	6:146:30	w	فَمَنُ		فمن	But whoever	famani
+11	6:146:31	w	ࡲ࢈ضْطُرَّ		اضطر	(is) compelled	uḍ'ṭurra
+11	6:146:32	w	غَيْرَ		غير	not	ghayra
+11	6:146:33	w	بَاغࣲ		باغ	desiring	bāghin
+11	6:146:34	w	وَلَا		ولا	and not	walā
+11	6:146:35	w	عَادࣲ		عاد	transgressing	ʿādin
+12	6:146:36	w	فَإِنَّ		فان	then indeed	fa-inna
+12	6:146:37	w	رَبَّكَ		ربك	your Lord	rabbaka
+12	6:146:38	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+12	6:146:39	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+12	6:146:40	e	۝١٤٦				
+12	6:147:1	w	وَعَلَى		وعلي	And to	waʿalā
+12	6:147:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	6:147:3	w	هَادُواْ		هادوا	are Jews	hādū
+12	6:147:4	w	حَرَّمْنَا		حرمنا	We forbade	ḥarramnā
+13	6:147:5	w	كُلَّ		كل	every	kulla
+13	6:147:6	w	ذِے		ذي	(animal) with	dhī
+13	6:147:7	w	ظُفُرࣲ		ظفر	claws	ẓufurin
+13	6:147:8	w	وَمِنَ		ومن	and of	wamina
+13	6:147:9	w	ࡰ۬لْبَقَرِ		البقر	the cows	l-baqari
+13	6:147:10	w	وَالْغَنَمِ࣌		والغنم	and the sheep	wal-ghanami
+13	6:147:11	w	حَرَّمْنَا		حرمنا	We forbade	ḥarramnā
+13	6:147:12	w	عَلَيْهِمْ		عليهم	to them	ʿalayhim
+14	6:147:13	w	شُحُومَهُمَآ		شحومهما	their fat	shuḥūmahumā
+14	6:147:14	w	إِلَّا		الا	except	illā
+14	6:147:15	w	مَا		ما	what	mā
+14	6:147:16	w	حَمَلَت		حملت	carried	ḥamalat
+14	6:147:17	w	ظُّهُورُهُمَآ		ظهورهما	their backs	ẓuhūruhumā
+14	6:147:18	w	أَوِ		او	or	awi
+14	6:147:19	w	ࡴ۬لْحَوَايٜآ		الحوايا	the entrails	l-ḥawāyā
+14	6:147:20	w	أَوْ		او	or	aw
+14	6:147:21	w	مَا		ما	what	mā
+14	6:147:22	w	ࡰٜخْتَلَطَ		اختلط	(is) joined	ikh'talaṭa
+15	6:147:23	w	بِعَظْمࣲ࣌		بعظم	with the bone	biʿaẓmin
+15	6:147:24	w	ذَٰلِكَ		ذلك	That	dhālika
+15	6:147:25	w	جَزَيْنَٰهُم		جزينهم	(is) their recompense	jazaynāhum
+15	6:147:26	w	بِبَغْيِهِمْ࣌		ببغيهم	for their rebellion	bibaghyihim
+15	6:147:27	w	وَإِنَّا		وانا	And indeed, We	wa-innā
+15	6:147:28	w	لَصَٰدِقُونَ࣌		لصدقون	[surely] are truthful	laṣādiqūna
+15	6:147:29	e	۝١٤٧				

@@ -1,0 +1,117 @@
+1	5:44:1	w	سَمَّٰعُونَ		سمعون	Listeners	sammāʿūna
+1	5:44:2	w	لِلْكَذِبِ		للكذب	to [the] falsehood	lil'kadhibi
+1	5:44:3	w	أَكَّٰلُونَ		اكلون	devourers	akkālūna
+1	5:44:4	w	لِلسُّحْتِ࣌		للسحت	of the forbidden	lilssuḥ'ti
+1	5:44:5	w	فَإِن		فان	So if	fa-in
+1	5:44:6	w	جَآءُوكَ		جاوك	they come to you	jāūka
+2	5:44:7	w	فَاحْكُم		فاحكم	then judge	fa-uḥ'kum
+2	5:44:8	w	بَيْنَهُمُۥٓ		بينهم	between them	baynahum
+2	5:44:9	w	أَوَ		او	or	aw
+2	5:44:10	w	ࡰعْرِضْ		اعرض	turn away	aʿriḍ
+2	5:44:11	w	عَنْهُمْ࣌		عنهم	from them	ʿanhum
+2	5:44:12	w	وَإِن		وان	And if	wa-in
+2	5:44:13	w	تُعْرِضْ		تعرض	you turn away	tuʿ'riḍ
+2	5:44:14	w	عَنْهُمْ		عنهم	from them	ʿanhum
+2	5:44:15	w	فَلَنْ		فلن	then never	falan
+3	5:44:16	w	يَّضُرُّوكَ		يضروك	will they harm you	yaḍurrūka
+3	5:44:17	w	شَيْـٔاࣰ࣌		شيا	(in) anything	shayan
+3	5:44:18	w	وَإِنْ		وان	And if	wa-in
+3	5:44:19	w	حَكَمْتَ		حكمت	you judge	ḥakamta
+3	5:44:20	w	فَاحْكُم		فاحكم	then judge	fa-uḥ'kum
+3	5:44:21	w	بَيْنَهُم		بينهم	between them	baynahum
+3	5:44:22	w	بِالْقِسْطِ࣌		بالقسط	with [the] justice	bil-qis'ṭi
+4	5:44:23	w	إِنَّ		ان	Indeed	inna
+4	5:44:24	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+4	5:44:25	w	يُحِبُّ		يحب	loves	yuḥibbu
+4	5:44:26	w	ࡲ۬لْمُقْسِطِينَ࣌		المقسطين	the ones who are just	l-muq'siṭīna
+4	5:44:27	e	۝٤٤				
+4	5:45:1	w	وَكَيْفَ		وكيف	But how can	wakayfa
+4	5:45:2	w	يُحَكِّمُونَكَ		يحكمونك	they appoint you a judge	yuḥakkimūnaka
+5	5:45:3	w	وَعِندَهُمُ		وعندهم	while they (have) with them	waʿindahumu
+5	5:45:4	w	ࡲ۬لتَّوْرٜيٰةُ		التورية	the Taurat	l-tawrātu
+5	5:45:5	w	فِيهَا		فيها	in it	fīhā
+5	5:45:6	w	حُكْمُ		حكم	(is the) Command	ḥuk'mu
+5	5:45:7	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+5	5:45:8	w	ثُمَّ		ثم	Then	thumma
+5	5:45:9	w	يَتَوَلَّوْنَ		يتولون	they turn away	yatawallawna
+5	5:45:10	w	مِنۢ		من	from	min
+5	5:45:11	w	بَعْدِ		بعد	after	baʿdi
+6	5:45:12	w	ذَٰلِكَ࣌		ذلك	that	dhālika
+6	5:45:13	w	وَمَآ		وما	and not	wamā
+6	5:45:14	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+6	5:45:15	w	بِالْمُومِنِينَ࣌		بالمومنين	(are) the believers	bil-mu'minīna
+6	5:45:16	e	۝٤٥				
+6	5:46:1	w	إِنَّآ		انا	Indeed	innā
+6	5:46:2	w	أَنزَلْنَا		انزلنا	We revealed	anzalnā
+6	5:46:3	w	ࡰ۬لتَّوْرٜيٰةَ		التورية	the Taurat	l-tawrāta
+7	5:46:4	w	فِيهَا		فيها	in it	fīhā
+7	5:46:5	w	هُدىࣰ		هدي	(was) Guidance	hudan
+7	5:46:6	w	وَنُورࣱ		ونور	and light	wanūrun
+7	5:46:7	w	يَحْكُمُ		يحكم	judged	yaḥkumu
+7	5:46:8	w	بِهَا		بها	by it	bihā
+7	5:46:9	w	ࡰ۬لنَّبِيٓـُٔونَ		النبيون	the Prophets	l-nabiyūna
+7	5:46:10	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	5:46:11	w	أَسْلَمُواْ		اسلموا	had submitted (to Allah)	aslamū
+8	5:46:12	w	لِلذِينَ		للذين	for those who	lilladhīna
+8	5:46:13	w	هَادُواْ		هادوا	were Jews	hādū
+8	5:46:14	w	وَالرَّبَّٰنِيُّونَ		والربنيون	and the Rabbis	wal-rabāniyūna
+8	5:46:15	w	وَالَاحْبَارُ		والاحبار	and the scholars	wal-aḥbāru
+8	5:46:16	w	بِمَا		بما	with what	bimā
+8	5:46:17	w	ࡸَسْتُحْفِظُواْ		استحفظوا	they were entrusted	us'tuḥ'fiẓū
+8	5:46:18	w	مِن		من	of	min
+9	5:46:19	w	كِتَٰبِ		كتب	(the) Book	kitābi
+9	5:46:20	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+9	5:46:21	w	وَكَانُواْ		وكانوا	and they were	wakānū
+9	5:46:22	w	عَلَيْهِ		عليه	to it	ʿalayhi
+9	5:46:23	w	شُهَدَآءَ࣌		شهدا	witnesses	shuhadāa
+9	5:46:24	w	فَلَا		فلا	So (do) not	falā
+9	5:46:25	w	تَخْشَوُاْ		تخشوا	fear	takhshawū
+9	5:46:26	w	ࡲ۬لنَّاسَ		الناس	the people	l-nāsa
+10	5:46:27	w	وَاخْشَوْنِ࣌		واخشون	but fear Me	wa-ikh'shawni
+10	5:46:28	w	وَلَا		ولا	and (do) not	walā
+10	5:46:29	w	تَشْتَرُواْ		تشتروا	sell	tashtarū
+10	5:46:30	w	بِـَٔايَٰتِے		بايتي	My Verses	biāyātī
+10	5:46:31	w	ثَمَناࣰ		ثمنا	(for) a price	thamanan
+10	5:46:32	w	قَلِيلاࣰ࣌		قليلا	little	qalīlan
+10	5:46:33	w	وَمَن		ومن	And whoever	waman
+10	5:46:34	w	لَّمْ		لم	(does) not	lam
+10	5:46:35	w	يَحْكُم		يحكم	judge	yaḥkum
+11	5:46:36	w	بِمَآ		بما	by what	bimā
+11	5:46:37	w	أَنزَلَ		انزل	has revealed	anzala
+11	5:46:38	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+11	5:46:39	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+11	5:46:40	w	هُمُ		هم	[they]	humu
+11	5:46:41	w	ࡲ۬لْكَٰفِرُونَ࣌		الكفرون	(are) the disbelievers	l-kāfirūna
+11	5:46:42	e	۝٤٦				
+11	5:47:1	w	۞ وَكَتَبْنَا		وكتبنا	And We ordained	wakatabnā
+12	5:47:2	w	عَلَيْهِمْ		عليهم	for them	ʿalayhim
+12	5:47:3	w	فِيهَآ		فيها	in it	fīhā
+12	5:47:4	w	أَنَّ		ان	that	anna
+12	5:47:5	w	ࡰ۬لنَّفْسَ		النفس	the life	l-nafsa
+12	5:47:6	w	بِالنَّفْسِ		بالنفس	for the life	bil-nafsi
+12	5:47:7	w	وَالْعَيْنَ		والعين	and the eye	wal-ʿayna
+12	5:47:8	w	بِالْعَيْنِ		بالعين	for the eye	bil-ʿayni
+12	5:47:9	w	وَالَانفَ		والانف	and the nose	wal-anfa
+13	5:47:10	w	بِالَانفِ		بالانف	for the nose	bil-anfi
+13	5:47:11	w	وَالُاذْنَ		والاذن	and the ear	wal-udhuna
+13	5:47:12	w	بِالُاذْنِ		بالاذن	for the ear	bil-udhuni
+13	5:47:13	w	وَالسِّنَّ		والسن	and the tooth	wal-sina
+13	5:47:14	w	بِالسِّنِّ		بالسن	for the tooth	bil-sini
+13	5:47:15	w	وَالْجُرُوحَ		والجروح	and (for) wounds	wal-jurūḥa
+14	5:47:16	w	قِصَاصࣱ࣌		قصاص	(is) retribution	qiṣāṣun
+14	5:47:17	w	فَمَن		فمن	But whoever	faman
+14	5:47:18	w	تَصَدَّقَ		تصدق	gives charity	taṣaddaqa
+14	5:47:19	w	بِهِۦ		بهي	with it	bihi
+14	5:47:20	w	فَهُوَ		فهو	then it is	fahuwa
+14	5:47:21	w	كَفَّارَةࣱ		كفارة	an expiation	kaffāratun
+14	5:47:22	w	لَّهُۥ࣌		له	for him	lahu
+14	5:47:23	w	وَمَن		ومن	And whoever	waman
+14	5:47:24	w	لَّمْ		لم	(does) not	lam
+15	5:47:25	w	يَحْكُم		يحكم	judge	yaḥkum
+15	5:47:26	w	بِمَآ		بما	by what	bimā
+15	5:47:27	w	أَنزَلَ		انزل	has revealed	anzala
+15	5:47:28	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+15	5:47:29	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+15	5:47:30	w	هُمُ		هم	[they]	humu
+15	5:47:31	w	ࡲ۬لظَّٰلِمُونَ࣌		الظلمون	(are) the wrongdoers	l-ẓālimūna
+15	5:47:32	e	۝٤٧				

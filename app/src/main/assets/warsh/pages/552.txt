@@ -1,0 +1,168 @@
+1	61:6:1	w	وَإِذْ		واذ	And when	wa-idh
+1	61:6:2	w	قَالَ		قال	said	qāla
+1	61:6:3	w	عِيسَى		عيسي	Isa	ʿīsā
+1	61:6:4	w	ࡰٜبْنُ		ابن	son	ub'nu
+1	61:6:5	w	مَرْيَمَ		مريم	(of) Maryam	maryama
+1	61:6:6	w	يَٰبَنِےٓ		يبني	O Children	yābanī
+1	61:6:7	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+1	61:6:8	w	إِنِّے		اني	Indeed, I am	innī
+1	61:6:9	w	رَسُولُ		رسول	(the) Messenger	rasūlu
+1	61:6:10	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+1	61:6:11	w	إِلَيْكُم		اليكم	to you	ilaykum
+1	61:6:12	w	مُّصَدِّقاࣰ		مصدقا	confirming	muṣaddiqan
+1	61:6:13	w	لِّمَا		لما	that which	limā
+2	61:6:14	w	بَيْنَ		بين	(was) between	bayna
+2	61:6:15	w	يَدَيَّ		يدي	my hands	yadayya
+2	61:6:16	w	مِنَ		من	of	mina
+2	61:6:17	w	ࡰ۬لتَّوْرٜيٰةِ		التورية	the Taurat	l-tawrāti
+2	61:6:18	w	وَمُبَشِّراَۢ		ومبشرا	and bringing glad tidings	wamubashiran
+2	61:6:19	w	بِرَسُولࣲ		برسول	(of) a Messenger	birasūlin
+2	61:6:20	w	يَاتِے		ياتي	to come	yatī
+2	61:6:21	w	مِنۢ		من	from	min
+2	61:6:22	w	بَعْدِيَ		بعدي	after me	baʿdī
+2	61:6:23	w	ࡰٜسْمُهُۥٓ		اسمه	whose name (will be)	us'muhu
+2	61:6:24	w	أَحْمَدُ࣌		احمد	Ahmad	aḥmadu
+2	61:6:25	w	فَلَمَّا		فلما	But when	falammā
+3	61:6:26	w	جَآءَهُم		جاهم	he came to them	jāahum
+3	61:6:27	w	بِالْبَيِّنَٰتِ		بالبينت	with clear proofs	bil-bayināti
+3	61:6:28	w	قَالُواْ		قالوا	they said	qālū
+3	61:6:29	w	هَٰذَا		هذا	This	hādhā
+3	61:6:30	w	سِحْرࣱ		سحر	(is) a magic	siḥ'run
+3	61:6:31	w	مُّبِينࣱ࣌		مبين	clear	mubīnun
+3	61:6:32	e	۝٦				
+3	61:7:1	w	وَمَنَ		ومن	And who	waman
+3	61:7:2	w	ࡰظْلَمُ		اظلم	(is) more wrong	aẓlamu
+3	61:7:3	w	مِمَّنِ		ممن	than (one) who	mimmani
+3	61:7:4	w	ࡴٜفْتَرٜىٰ		افتري	invents	if'tarā
+3	61:7:5	w	عَلَى		علي	upon	ʿalā
+4	61:7:6	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+4	61:7:7	w	ࡴ۬لْكَذِبَ		الكذب	the lie	l-kadhiba
+4	61:7:8	w	وَهُوَ		وهو	while he	wahuwa
+4	61:7:9	w	يُدْعٜىٰٓ		يدعي	is invited	yud'ʿā
+4	61:7:10	w	إِلَى		الي	to	ilā
+4	61:7:11	w	ࡰ۬لِاسْلَٰمِ࣌		الاسلم	Islam	l-is'lāmi
+4	61:7:12	w	وَاللَّهُ		والله	And Allah	wal-lahu
+4	61:7:13	w	لَا		لا	(does) not	lā
+4	61:7:14	w	يَهْدِے		يهدي	guide	yahdī
+4	61:7:15	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+4	61:7:16	w	ࡰ۬لظَّٰلِمِينَ࣌		الظلمين	[the] wrongdoers	l-ẓālimīna
+4	61:7:17	e	۝٧				
+5	61:8:1	w	يُرِيدُونَ		يريدون	They intend	yurīdūna
+5	61:8:2	w	لِيُطْفِـُٔواْ		ليطفوا	to put out	liyuṭ'fiū
+5	61:8:3	w	نُورَ		نور	(the) light	nūra
+5	61:8:4	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+5	61:8:5	w	بِأَفْوَٰهِهِمْ		بافوههم	with their mouths	bi-afwāhihim
+5	61:8:6	w	وَاللَّهُ		والله	but Allah	wal-lahu
+5	61:8:7	w	مُتِمࣱّ		متم	will perfect	mutimmu
+5	61:8:8	w	نُّورَهُۥ		نوره	His Light	nūrihi
+5	61:8:9	w	وَلَوْ		ولو	although	walaw
+5	61:8:10	w	كَرِهَ		كره	dislike	kariha
+6	61:8:11	w	ࡰ۬لْكَٰفِرُونَ࣌		الكفرون	the disbelievers	l-kāfirūna
+6	61:8:12	e	۝٨				
+6	61:9:1	w	هُوَ		هو	He	huwa
+6	61:9:2	w	ࡰ۬لذِےٓ		الذي	(is) the One Who	alladhī
+6	61:9:3	w	أَرْسَلَ		ارسل	sent	arsala
+6	61:9:4	w	رَسُولَهُۥ		رسوله	His Messenger	rasūlahu
+6	61:9:5	w	بِالْهُدٜىٰ		بالهدي	with guidance	bil-hudā
+6	61:9:6	w	وَدِينِ		ودين	and (the) religion	wadīni
+6	61:9:7	w	ࡴ۬لْحَقِّ		الحق	(of) the truth	l-ḥaqi
+6	61:9:8	w	لِيُظْهِرَهُۥ		ليظهره	to make it prevail	liyuẓ'hirahu
+6	61:9:9	w	عَلَى		علي	over	ʿalā
+7	61:9:10	w	ࡰ۬لدِّينِ		الدين	the religion	l-dīni
+7	61:9:11	w	كُلِّهِۦ		كلهي	all of them	kullihi
+7	61:9:12	w	وَلَوْ		ولو	although	walaw
+7	61:9:13	w	كَرِهَ		كره	dislike (it)	kariha
+7	61:9:14	w	ࡰ۬لْمُشْرِكُونَ࣌		المشركون	the polytheists	l-mush'rikūna
+7	61:9:15	e	۝٩				
+7	61:10:1	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+7	61:10:2	w	ࡰ۬لذِينَ		الذين	(you) who	alladhīna
+7	61:10:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+7	61:10:4	w	هَلَ		هل	Shall	hal
+7	61:10:5	w	ࡰدُلُّكُمْ		ادلكم	I guide you	adullukum
+7	61:10:6	w	عَلَىٰ		علي	to	ʿalā
+8	61:10:7	w	تِجَٰرَةࣲ		تجرة	a transaction	tijāratin
+8	61:10:8	w	تُنجِيكُم		تنجيكم	(that) will save you	tunjīkum
+8	61:10:9	w	مِّنْ		من	from	min
+8	61:10:10	w	عَذَابٍ		عذاب	a punishment	ʿadhābin
+8	61:10:11	w	ࡰلِيمࣲ		اليم	painful	alīmin
+8	61:10:12	e	۝١٠				
+8	61:11:1	w	تُومِنُونَ		تومنون	Believe	tu'minūna
+8	61:11:2	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+8	61:11:3	w	وَرَسُولِهِۦ		ورسولهي	and His Messenger	warasūlihi
+8	61:11:4	w	وَتُجَٰهِدُونَ		وتجهدون	and strive	watujāhidūna
+8	61:11:5	w	فِے		في	in	fī
+9	61:11:6	w	سَبِيلِ		سبيل	(the) way	sabīli
+9	61:11:7	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+9	61:11:8	w	بِأَمْوَٰلِكُمْ		بامولكم	with your wealth	bi-amwālikum
+9	61:11:9	w	وَأَنفُسِكُمْ		وانفسكم	and your lives	wa-anfusikum
+9	61:11:10	w	ذَٰلِكُمْ		ذلكم	That	dhālikum
+9	61:11:11	w	خَيْرࣱ		خير	(is) better	khayrun
+9	61:11:12	w	لَّكُمُۥٓ		لكم	for you	lakum
+9	61:11:13	w	إِن		ان	if	in
+9	61:11:14	w	كُنتُمْ		كنتم	you	kuntum
+9	61:11:15	w	تَعْلَمُونَ		تعلمون	know	taʿlamūna
+9	61:11:16	e	۝١١				
+10	61:12:1	w	يَغْفِرْ		يغفر	He will forgive	yaghfir
+10	61:12:2	w	لَكُمْ		لكم	for you	lakum
+10	61:12:3	w	ذُنُوبَكُمْ		ذنوبكم	your sins	dhunūbakum
+10	61:12:4	w	وَيُدْخِلْكُمْ		ويدخلكم	and admit you	wayud'khil'kum
+10	61:12:5	w	جَنَّٰتࣲ		جنت	(in) Gardens	jannātin
+10	61:12:6	w	تَجْرِے		تجري	flow	tajrī
+10	61:12:7	w	مِن		من	from	min
+10	61:12:8	w	تَحْتِهَا		تحتها	underneath it	taḥtihā
+10	61:12:9	w	ࡰ۬لَانْهَٰرُ		الانهر	the rivers	l-anhāru
+11	61:12:10	w	وَمَسَٰكِنَ		ومسكن	and dwellings	wamasākina
+11	61:12:11	w	طَيِّبَةࣰ		طيبة	pleasant	ṭayyibatan
+11	61:12:12	w	فِے		في	in	fī
+11	61:12:13	w	جَنَّٰتِ		جنت	Gardens	jannāti
+11	61:12:14	w	عَدْنࣲ࣌		عدن	(of) Eternity	ʿadnin
+11	61:12:15	w	ذَٰلِكَ		ذلك	That	dhālika
+11	61:12:16	w	ࡰ۬لْفَوْزُ		الفوز	(is) the success	l-fawzu
+11	61:12:17	w	ࡲ۬لْعَظِيمُ࣌		العظيم	the great	l-ʿaẓīmu
+11	61:12:18	e	۝١٢				
+11	61:13:1	w	وَأُخْرٜىٰ		واخري	And another	wa-ukh'rā
+12	61:13:2	w	تُحِبُّونَهَا		تحبونها	that you love	tuḥibbūnahā
+12	61:13:3	w	نَصْرࣱ		نصر	a help	naṣrun
+12	61:13:4	w	مِّنَ		من	from	mina
+12	61:13:5	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+12	61:13:6	w	وَفَتْحࣱ		وفتح	and a victory	wafatḥun
+12	61:13:7	w	قَرِيبࣱ࣌		قريب	near	qarībun
+12	61:13:8	w	وَبَشِّرِ		وبشر	and give glad tidings	wabashiri
+12	61:13:9	w	ࡴ۬لْمُومِنِينَ࣌		المومنين	(to) the believers	l-mu'minīna
+12	61:13:10	e	۝١٣				
+12	61:14:1	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+12	61:14:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+12	61:14:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+13	61:14:4	w	كُونُوٓاْ		كونوا	Be	kūnū
+13	61:14:5	w	أَنصَاراࣰ		انصارا	helpers	anṣāra
+13	61:14:6	w	لِّلهِ		لله	(of) Allah	l-lahi
+13	61:14:7	w	كَمَا		كما	as	kamā
+13	61:14:8	w	قَالَ		قال	said	qāla
+13	61:14:9	w	عِيسَى		عيسي	Isa	ʿīsā
+13	61:14:10	w	ࡰٜبْنُ		ابن	son	ub'nu
+13	61:14:11	w	مَرْيَمَ		مريم	(of) Maryam	maryama
+13	61:14:12	w	لِلْحَوَارِيِّۑنَ		للحوارين	to the disciples	lil'ḥawāriyyīna
+13	61:14:13	w	مَنَ		من	Who	man
+13	61:14:14	w	ࡰنصَارِيَ		انصاري	(are) my helpers	anṣārī
+14	61:14:15	w	إِلَى		الي	for	ilā
+14	61:14:16	w	ࡰ۬للَّهِ࣌		الله	Allah	l-lahi
+14	61:14:17	w	قَالَ		قال	Said	qāla
+14	61:14:18	w	ࡰ۬لْحَوَارِيُّونَ		الحواريون	the disciples	l-ḥawāriyūna
+14	61:14:19	w	نَحْنُ		نحن	We	naḥnu
+14	61:14:20	w	أَنصَارُ		انصار	(are) the helpers	anṣāru
+14	61:14:21	w	ࡲ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+14	61:14:22	w	فَـَٔامَنَت		فامنت	Then believed	faāmanat
+14	61:14:23	w	طَّآئِفَةࣱ		طايفة	a group	ṭāifatun
+14	61:14:24	w	مِّنۢ		من	of	min
+14	61:14:25	w	بَنِےٓ		بني	Children	banī
+14	61:14:26	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+15	61:14:27	w	وَكَفَرَت		وكفرت	and disbelieved	wakafarat
+15	61:14:28	w	طَّآئِفَةࣱ࣌		طايفة	a group	ṭāifatun
+15	61:14:29	w	فَأَيَّدْنَا		فايدنا	So We supported	fa-ayyadnā
+15	61:14:30	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+15	61:14:31	w	ءَامَنُواْ		امنوا	believed	āmanū
+15	61:14:32	w	عَلَىٰ		علي	against	ʿalā
+15	61:14:33	w	عَدُوِّهِمْ		عدوهم	their enemy	ʿaduwwihim
+15	61:14:34	w	فَأَصْبَحُواْ		فاصبحوا	and they became	fa-aṣbaḥū
+15	61:14:35	w	ظَٰهِرِينَ࣌		ظهرين	dominant	ẓāhirīna
+15	61:14:36	e	۝١٤				

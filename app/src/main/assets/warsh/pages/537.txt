@@ -1,0 +1,139 @@
+1	56:80:1	w	ࡴنَّهُۥ		انه	Indeed, it	innahu
+1	56:80:2	w	لَقُرْءَانࣱ		لقران	(is) surely, a Quran	laqur'ānun
+1	56:80:3	w	كَرِيمࣱ		كريم	noble	karīmun
+1	56:80:4	e	۝٨٠				
+1	56:81:1	w	فِے		في	In	fī
+1	56:81:2	w	كِتَٰبࣲ		كتب	a Book	kitābin
+1	56:81:3	w	مَّكْنُونࣲ		مكنون	well-guarded	maknūnin
+1	56:81:4	e	۝٨١				
+1	56:82:1	w	لَّا		لا	None	lā
+1	56:82:2	w	يَمَسُّهُۥٓ		يمسه	touch it	yamassuhu
+1	56:82:3	w	إِلَّا		الا	except	illā
+2	56:82:4	w	ࡰ۬لْمُطَهَّرُونَ࣌		المطهرون	the purified	l-muṭaharūna
+2	56:82:5	e	۝٨٢				
+2	56:83:1	w	تَنزِيلࣱ		تنزيل	A Revelation	tanzīlun
+2	56:83:2	w	مِّن		من	from	min
+2	56:83:3	w	رَّبِّ		رب	(the) Lord	rabbi
+2	56:83:4	w	ࡴ۬لْعَٰلَمِينَ࣌		العلمين	(of) the worlds	l-ʿālamīna
+2	56:83:5	e	۝٨٣				
+2	56:84:1	w	أَفَبِهَٰذَا		افبهذا	Then is it to this	afabihādhā
+2	56:84:2	w	ࡰ۬لْحَدِيثِ		الحديث	statement	l-ḥadīthi
+3	56:84:3	w	أَنتُم		انتم	that you	antum
+3	56:84:4	w	مُّدْهِنُونَ		مدهنون	(are) indifferent	mud'hinūna
+3	56:84:5	e	۝٨٤				
+3	56:85:1	w	وَتَجْعَلُونَ		وتجعلون	And you make	watajʿalūna
+3	56:85:2	w	رِزْقَكُمُۥٓ		رزقكم	your provision	riz'qakum
+3	56:85:3	w	أَنَّكُمْ		انكم	that you	annakum
+3	56:85:4	w	تُكَذِّبُونَ࣌		تكذبون	deny	tukadhibūna
+3	56:85:5	e	۝٨٥				
+3	56:86:1	w	فَلَوْلَآ		فلولا	Then why not	falawlā
+4	56:86:2	w	إِذَا		اذا	when	idhā
+4	56:86:3	w	بَلَغَتِ		بلغت	it reaches	balaghati
+4	56:86:4	w	ࡴ۬لْحُلْقُومَ		الحلقوم	the throat	l-ḥul'qūma
+4	56:86:5	e	۝٨٦				
+4	56:87:1	w	وَأَنتُمْ		وانتم	And you	wa-antum
+4	56:87:2	w	حِينَئِذࣲ		حينيذ	(at) that time	ḥīna-idhin
+4	56:87:3	w	تَنظُرُونَ		تنظرون	look on	tanẓurūna
+4	56:87:4	e	۝٨٧				
+4	56:88:1	w	وَنَحْنُ		ونحن	And We	wanaḥnu
+4	56:88:2	w	أَقْرَبُ		اقرب	(are) nearer	aqrabu
+5	56:88:3	w	إِلَيْهِ		اليه	to him	ilayhi
+5	56:88:4	w	مِنكُمْ		منكم	than you	minkum
+5	56:88:5	w	وَلَٰكِن		ولكن	but	walākin
+5	56:88:6	w	لَّا		لا	you (do) not see	lā
+5	56:88:7	w	تُبْصِرُونَ		تبصرون	you (do) not see	tub'ṣirūna
+5	56:88:8	e	۝٨٨				
+5	56:89:1	w	فَلَوْلَآ		فلولا	Then why not	falawlā
+5	56:89:2	w	إِن		ان	if	in
+5	56:89:3	w	كُنتُمْ		كنتم	you are	kuntum
+5	56:89:4	w	غَيْرَ		غير	not	ghayra
+5	56:89:5	w	مَدِينِينَ		مدينين	to be recompensed	madīnīna
+5	56:89:6	e	۝٨٩				
+6	56:90:1	w	تَرْجِعُونَهَآ		ترجعونها	Bring it back	tarjiʿūnahā
+6	56:90:2	w	إِن		ان	if	in
+6	56:90:3	w	كُنتُمْ		كنتم	you are	kuntum
+6	56:90:4	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+6	56:90:5	e	۝٩٠				
+6	56:91:1	w	فَأَمَّآ		فاما	Then	fa-ammā
+6	56:91:2	w	إِن		ان	if	in
+6	56:91:3	w	كَانَ		كان	he was	kāna
+6	56:91:4	w	مِنَ		من	of	mina
+6	56:91:5	w	ࡰ۬لْمُقَرَّبِينَ		المقربين	those brought near	l-muqarabīna
+6	56:91:6	e	۝٩١				
+7	56:92:1	w	فَرَوْحࣱ		فروح	Then rest	farawḥun
+7	56:92:2	w	وَرَيْحَانࣱ		وريحان	and bounty	warayḥānun
+7	56:92:3	w	وَجَنَّتُ		وجنت	and a Garden	wajannatu
+7	56:92:4	w	نَعِيمࣲ࣌		نعيم	(of) Pleasure	naʿīmin
+7	56:92:5	e	۝٩٢				
+7	56:93:1	w	وَأَمَّآ		واما	And	wa-ammā
+7	56:93:2	w	إِن		ان	if	in
+7	56:93:3	w	كَانَ		كان	he was	kāna
+7	56:93:4	w	مِنَ		من	of	min
+7	56:93:5	w	ࡰصْحَٰبِ		اصحب	(the) companions	aṣḥābi
+8	56:93:6	w	ࡴ۬لْيَمِينِ		اليمين	(of) the right	l-yamīni
+8	56:93:7	e	۝٩٣				
+8	56:94:1	w	فَسَلَٰمࣱ		فسلم	Then, peace	fasalāmun
+8	56:94:2	w	لَّكَ		لك	for you	laka
+8	56:94:3	w	مِنَ		من	[from]	min
+8	56:94:4	w	ࡰصْحَٰبِ		اصحب	(the) companions	aṣḥābi
+8	56:94:5	w	ࡴ۬لْيَمِينِ࣌		اليمين	(of) the right	l-yamīni
+8	56:94:6	e	۝٩٤				
+8	56:95:1	w	وَأَمَّآ		واما	But	wa-ammā
+8	56:95:2	w	إِن		ان	if	in
+8	56:95:3	w	كَانَ		كان	he was	kāna
+8	56:95:4	w	مِنَ		من	of	mina
+9	56:95:5	w	ࡰ۬لْمُكَذِّبِينَ		المكذبين	the deniers	l-mukadhibīna
+9	56:95:6	w	ࡰ۬لضَّآلِّينَ		الضالين	the astray	l-ḍālīna
+9	56:95:7	e	۝٩٥				
+9	56:96:1	w	فَنُزُلࣱ		فنزل	Then, hospitality	fanuzulun
+9	56:96:2	w	مِّنْ		من	of	min
+9	56:96:3	w	حَمِيمࣲ		حميم	(the) scalding water	ḥamīmin
+9	56:96:4	e	۝٩٦				
+9	56:97:1	w	وَتَصْلِيَةُ		وتصلية	And burning	wataṣliyatu
+9	56:97:2	w	جَحِيمٍ࣌		جحيم	(in) Hellfire	jaḥīmin
+9	56:97:3	e	۝٩٧				
+10	56:98:1	w	ࡴنَّ		ان	Indeed	inna
+10	56:98:2	w	هَٰذَا		هذا	this	hādhā
+10	56:98:3	w	لَهُوَ		لهو	surely, it	lahuwa
+10	56:98:4	w	حَقُّ		حق	(is the) truth	ḥaqqu
+10	56:98:5	w	ࡲ۬لْيَقِينِ࣌		اليقين	certain	l-yaqīni
+10	56:98:6	e	۝٩٨				
+10	56:99:1	w	فَسَبِّحْ		فسبح	So glorify	fasabbiḥ
+10	56:99:2	w	بِاسْمِ		باسم	(the) name	bi-is'mi
+10	56:99:3	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+10	56:99:4	w	ࡰ۬لْعَظِيمِ࣌		العظيم	the Most Great	l-ʿaẓīmi
+10	56:99:5	e	۝٩٩				
+11	57:0:0	t					
+12	57:0:0	b					
+13	57:1:1	w	سَبَّحَ		سبح	Glorifies	sabbaḥa
+13	57:1:2	w	لِلهِ		لله	[to] Allah	lillahi
+13	57:1:3	w	مَا		ما	whatever	mā
+13	57:1:4	w	فِے		في	(is) in	fī
+13	57:1:5	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+13	57:1:6	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+13	57:1:7	w	وَهُوَ		وهو	and He	wahuwa
+13	57:1:8	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+13	57:1:9	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+13	57:1:10	e	۝١				
+13	57:2:1	w	لَهُۥ		له	For Him	lahu
+13	57:2:2	w	مُلْكُ		ملك	(is the) dominion	mul'ku
+14	57:2:3	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+14	57:2:4	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+14	57:2:5	w	يُحْيِۦ		يحيي	He gives life	yuḥ'yī
+14	57:2:6	w	وَيُمِيتُ࣌		ويميت	and causes death	wayumītu
+14	57:2:7	w	وَهُوَ		وهو	and He	wahuwa
+14	57:2:8	w	عَلَىٰ		علي	(is) over	ʿalā
+14	57:2:9	w	كُلِّ		كل	all	kulli
+14	57:2:10	w	شَےْءࣲ		شي	things	shayin
+14	57:2:11	w	قَدِيرٌ࣌		قدير	All-Powerful	qadīrun
+14	57:2:12	e	۝٢				
+15	57:3:1	w	هُوَ		هو	He	huwa
+15	57:3:2	w	ࡰ۬لَاوَّلُ		الاول	(is) the First	l-awalu
+15	57:3:3	w	وَالَاخِرُ		والاخر	and the Last	wal-ākhiru
+15	57:3:4	w	وَالظَّٰهِرُ		والظهر	and the Apparent	wal-ẓāhiru
+15	57:3:5	w	وَالْبَاطِنُ࣌		والباطن	and the Unapparent	wal-bāṭinu
+15	57:3:6	w	وَهُوَ		وهو	and He	wahuwa
+15	57:3:7	w	بِكُلِّ		بكل	(is) of every	bikulli
+15	57:3:8	w	شَےْءٍ		شي	thing	shayin
+15	57:3:9	w	عَلِيمٌ࣌		عليم	All-Knower	ʿalīmun
+15	57:3:10	e	۝٣				

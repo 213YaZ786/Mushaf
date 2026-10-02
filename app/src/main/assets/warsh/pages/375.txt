@@ -1,0 +1,151 @@
+1	26:184:1	w	وَاتَّقُواْ		واتقوا	And fear	wa-ittaqū
+1	26:184:2	w	ࡲ۬لذِے		الذي	the One Who	alladhī
+1	26:184:3	w	خَلَقَكُمْ		خلقكم	created you	khalaqakum
+1	26:184:4	w	وَالْجِبِلَّةَ		والجبلة	and the generations	wal-jibilata
+1	26:184:5	w	ࡰ۬لَاوَّلِينَ࣌		الاولين	the former	l-awalīna
+1	26:184:6	e	۝١٨٤				
+1	26:185:1	w	قَالُوٓاْ		قالوا	They said	qālū
+1	26:185:2	w	إِنَّمَآ		انما	Only	innamā
+1	26:185:3	w	أَنتَ		انت	you	anta
+2	26:185:4	w	مِنَ		من	(are) of	mina
+2	26:185:5	w	ࡰ۬لْمُسَحَّرِينَ		المسحرين	those bewitched	l-musaḥarīna
+2	26:185:6	e	۝١٨٥				
+2	26:186:1	w	وَمَآ		وما	And not	wamā
+2	26:186:2	w	أَنتَ		انت	you	anta
+2	26:186:3	w	إِلَّا		الا	(are) except	illā
+2	26:186:4	w	بَشَرࣱ		بشر	a man	basharun
+2	26:186:5	w	مِّثْلُنَا		مثلنا	like us	mith'lunā
+2	26:186:6	w	وَإِن		وان	and indeed	wa-in
+2	26:186:7	w	نَّظُنُّكَ		نظنك	we think you	naẓunnuka
+2	26:186:8	w	لَمِنَ		لمن	surely (are) of	lamina
+3	26:186:9	w	ࡰ۬لْكَٰذِبِينَ		الكذبين	the liars	l-kādhibīna
+3	26:186:10	e	۝١٨٦				
+3	26:187:1	w	فَأَسْقِطْ		فاسقط	Then cause to fall	fa-asqiṭ
+3	26:187:2	w	عَلَيْنَا		علينا	upon us	ʿalaynā
+3	26:187:3	w	كِسْفاࣰ		كسفا	fragments	kisafan
+3	26:187:4	w	مِّنَ		من	of	mina
+3	26:187:5	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+3	26:187:6	w	ان		ان	if	in
+3	26:187:7	w	كُنتَ		كنت	you are	kunta
+4	26:187:8	w	مِنَ		من	of	mina
+4	26:187:9	w	ࡰ۬لصَّٰدِقِينَ࣌		الصدقين	the truthful	l-ṣādiqīna
+4	26:187:10	e	۝١٨٧				
+4	26:188:1	w	قَالَ		قال	He said	qāla
+4	26:188:2	w	رَبِّيَ		ربي	My Lord	rabbī
+4	26:188:3	w	أَعْلَمُ		اعلم	knows best	aʿlamu
+4	26:188:4	w	بِمَا		بما	of what	bimā
+4	26:188:5	w	تَعْمَلُونَ࣌		تعملون	you do	taʿmalūna
+4	26:188:6	e	۝١٨٨				
+4	26:189:1	w	فَكَذَّبُوهُ		فكذبوه	But they denied him	fakadhabūhu
+5	26:189:2	w	فَأَخَذَهُمْ		فاخذهم	so seized them	fa-akhadhahum
+5	26:189:3	w	عَذَابُ		عذاب	(the) punishment	ʿadhābu
+5	26:189:4	w	يَوْمِ		يوم	(of the) day	yawmi
+5	26:189:5	w	ࡴ۬لظُّلَّةِ࣌		الظلة	(of) the shadow	l-ẓulati
+5	26:189:6	w	إِنَّهُۥ		انه	Indeed, it	innahu
+5	26:189:7	w	كَانَ		كان	was	kāna
+5	26:189:8	w	عَذَابَ		عذاب	(the) punishment	ʿadhāba
+5	26:189:9	w	يَوْمٍ		يوم	(of) a Day	yawmin
+5	26:189:10	w	عَظِيمٍ࣌		عظيم	Great	ʿaẓīmin
+5	26:189:11	e	۝١٨٩				
+6	26:190:1	w	ࡴنَّ		ان	Indeed	inna
+6	26:190:2	w	فِے		في	in	fī
+6	26:190:3	w	ذَٰلِكَ		ذلك	that	dhālika
+6	26:190:4	w	لَأٓيَةࣰ࣌		لاية	surely, is a sign	laāyatan
+6	26:190:5	w	وَمَا		وما	but not	wamā
+6	26:190:6	w	كَانَ		كان	are	kāna
+6	26:190:7	w	أَكْثَرُهُم		اكثرهم	most of them	aktharuhum
+6	26:190:8	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+6	26:190:9	e	۝١٩٠				
+6	26:191:1	w	وَإِنَّ		وان	And indeed	wa-inna
+6	26:191:2	w	رَبَّكَ		ربك	your Lord	rabbaka
+7	26:191:3	w	لَهُوَ		لهو	surely, He	lahuwa
+7	26:191:4	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+7	26:191:5	w	ࡲ۬لرَّحِيمُ࣌		الرحيم	the Most Merciful	l-raḥīmu
+7	26:191:6	e	۝١٩١				
+7	26:192:1	w	وَإِنَّهُۥ		وانه	And indeed, it	wa-innahu
+7	26:192:2	w	لَتَنزِيلُ		لتنزيل	surely, is a Revelation	latanzīlu
+7	26:192:3	w	رَبِّ		رب	(of the) Lord	rabbi
+7	26:192:4	w	ࡴ۬لْعَٰلَمِينَ࣌		العلمين	(of) the worlds	l-ʿālamīna
+7	26:192:5	e	۝١٩٢				
+7	26:193:1	w	نَزَلَ		نزل	Has brought it down	nazala
+7	26:193:2	w	بِهِ		به	Has brought it down	bihi
+8	26:193:3	w	ࡴ۬لرُّوحُ		الروح	the Spirit	l-rūḥu
+8	26:193:4	w	ࡲ۬لَامِينُ		الامين	[the] Trustworthy	l-amīnu
+8	26:193:5	e	۝١٩٣				
+8	26:194:1	w	عَلَىٰ		علي	Upon	ʿalā
+8	26:194:2	w	قَلْبِكَ		قلبك	your heart	qalbika
+8	26:194:3	w	لِتَكُونَ		لتكون	that you may be	litakūna
+8	26:194:4	w	مِنَ		من	of	mina
+8	26:194:5	w	ࡰ۬لْمُنذِرِينَ		المنذرين	the warners	l-mundhirīna
+8	26:194:6	e	۝١٩٤				
+8	26:195:1	w	بِلِسَانٍ		بلسان	In language	bilisānin
+9	26:195:2	w	عَرَبِيࣲّ		عربي	Arabic	ʿarabiyyin
+9	26:195:3	w	مُّبِينࣲ࣌		مبين	clear	mubīnin
+9	26:195:4	e	۝١٩٥				
+9	26:196:1	w	وَإِنَّهُۥ		وانه	And indeed, it	wa-innahu
+9	26:196:2	w	لَفِے		لفي	surely, (is) in	lafī
+9	26:196:3	w	زُبُرِ		زبر	(the) Scriptures	zuburi
+9	26:196:4	w	ࡴ۬لَاوَّلِينَ࣌		الاولين	(of) the former (people)	l-awalīna
+9	26:196:5	e	۝١٩٦				
+9	26:197:1	w	أَوَلَمْ		اولم	Is it not	awalam
+9	26:197:2	w	يَكُن		يكن	Is it not	yakun
+9	26:197:3	w	لَّهُمُۥٓ		لهم	to them	lahum
+10	26:197:4	w	ءَايَةً		اية	a sign	āyatan
+10	26:197:5	w	ࡰنْ		ان	that	an
+10	26:197:6	w	يَّعْلَمَهُۥ		يعلمه	know it	yaʿlamahu
+10	26:197:7	w	عُلَمَٰٓؤُاْ		علموا	(the) scholars	ʿulamāu
+10	26:197:8	w	بَنِےٓ		بني	(of the) Children	banī
+10	26:197:9	w	إِسْرَآءِيلَ࣌		اسرايل	(of) Israel	is'rāīla
+10	26:197:10	e	۝١٩٧				
+10	26:198:1	w	وَلَوْ		ولو	And if	walaw
+10	26:198:2	w	نَزَّلْنَٰهُ		نزلنه	We (had) revealed it	nazzalnāhu
+10	26:198:3	w	عَلَىٰ		علي	to	ʿalā
+10	26:198:4	w	بَعْضِ		بعض	any	baʿḍi
+11	26:198:5	w	ࡴ۬لَاعْجَمِينَ		الاعجمين	(of) the non-Arabs	l-aʿjamīna
+11	26:198:6	e	۝١٩٨				
+11	26:199:1	w	فَقَرَأَهُۥ		فقراه	And he (had) recited it	faqara-ahu
+11	26:199:2	w	عَلَيْهِم		عليهم	to them	ʿalayhim
+11	26:199:3	w	مَّا		ما	not	mā
+11	26:199:4	w	كَانُواْ		كانوا	they would	kānū
+11	26:199:5	w	بِهِۦ		بهي	in it	bihi
+11	26:199:6	w	مُومِنِينَ࣌		مومنين	(be) believers	mu'minīna
+11	26:199:7	e	۝١٩٩				
+11	26:200:1	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+12	26:200:2	w	سَلَكْنَٰهُ		سلكنه	We have inserted it	salaknāhu
+12	26:200:3	w	فِے		في	into	fī
+12	26:200:4	w	قُلُوبِ		قلوب	(the) hearts	qulūbi
+12	26:200:5	w	ࡴ۬لْمُجْرِمِينَ		المجرمين	(of) the criminals	l-muj'rimīna
+12	26:200:6	e	۝٢٠٠				
+12	26:201:1	w	لَا		لا	Not	lā
+12	26:201:2	w	يُومِنُونَ		يومنون	they will believe	yu'minūna
+12	26:201:3	w	بِهِۦ		بهي	in it	bihi
+12	26:201:4	w	حَتَّىٰ		حتي	until	ḥattā
+12	26:201:5	w	يَرَوُاْ		يروا	they see	yarawū
+13	26:201:6	w	ࡲ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+13	26:201:7	w	ࡰ۬لَالِيمَ		الاليم	[the] painful	l-alīma
+13	26:201:8	e	۝٢٠١				
+13	26:202:1	w	فَيَاتِيَهُم		فياتيهم	And it will come to them	fayatiyahum
+13	26:202:2	w	بَغْتَةࣰ		بغتة	suddenly	baghtatan
+13	26:202:3	w	وَهُمْ		وهم	while they	wahum
+13	26:202:4	w	لَا		لا	(do) not	lā
+13	26:202:5	w	يَشْعُرُونَ		يشعرون	perceive	yashʿurūna
+13	26:202:6	e	۝٢٠٢				
+14	26:203:1	w	فَيَقُولُواْ		فيقولوا	Then they will say	fayaqūlū
+14	26:203:2	w	هَلْ		هل	Are	hal
+14	26:203:3	w	نَحْنُ		نحن	we	naḥnu
+14	26:203:4	w	مُنظَرُونَ࣌		منظرون	(to be) reprieved	munẓarūna
+14	26:203:5	e	۝٢٠٣				
+14	26:204:1	w	أَفَبِعَذَابِنَا		افبعذابنا	So is it for Our punishment	afabiʿadhābinā
+14	26:204:2	w	يَسْتَعْجِلُونَ࣌		يستعجلون	they wish to hasten	yastaʿjilūna
+14	26:204:3	e	۝٢٠٤				
+15	26:205:1	w	أَفَرَٰٓيْتَ		افريت	Then have you seen	afara-ayta
+15	26:205:2	w	إِن		ان	if	in
+15	26:205:3	w	مَّتَّعْنَٰهُمْ		متعنهم	We let them enjoy	mattaʿnāhum
+15	26:205:4	w	سِنِينَ		سنين	(for) years	sinīna
+15	26:205:5	e	۝٢٠٥				
+15	26:206:1	w	ثُمَّ		ثم	Then	thumma
+15	26:206:2	w	جَآءَهُم		جاهم	comes to them	jāahum
+15	26:206:3	w	مَّا		ما	what	mā
+15	26:206:4	w	كَانُواْ		كانوا	they were	kānū
+15	26:206:5	w	يُوعَدُونَ		يوعدون	promised	yūʿadūna
+15	26:206:6	e	۝٢٠٦				

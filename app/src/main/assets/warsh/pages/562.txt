@@ -1,0 +1,146 @@
+1	67:0:0	t					
+2	67:0:0	b					
+3	67:1:1	w	تَبَٰرَكَ		تبرك	Blessed is	tabāraka
+3	67:1:2	w	ࡰ۬لذِے		الذي	He	alladhī
+3	67:1:3	w	بِيَدِهِ		بيده	in Whose Hand	biyadihi
+3	67:1:4	w	ࡴ۬لْمُلْكُ		الملك	(is) the Dominion	l-mul'ku
+3	67:1:5	w	وَهُوَ		وهو	and He	wahuwa
+3	67:1:6	w	عَلَىٰ		علي	(is) over	ʿalā
+3	67:1:7	w	كُلِّ		كل	every	kulli
+3	67:1:8	w	شَےْءࣲ		شي	thing	shayin
+3	67:1:9	w	قَدِيرٌ࣌		قدير	All-Powerful	qadīrun
+3	67:1:10	e	۝١				
+3	67:2:1	w	ࡴ۬لذِے		الذي	The One Who	alladhī
+3	67:2:2	w	خَلَقَ		خلق	created	khalaqa
+4	67:2:3	w	ࡰ۬لْمَوْتَ		الموت	death	l-mawta
+4	67:2:4	w	وَالْحَيَوٰةَ		والحيوة	and life	wal-ḥayata
+4	67:2:5	w	لِيَبْلُوَكُمُۥٓ		ليبلوكم	that He may test you	liyabluwakum
+4	67:2:6	w	أَيُّكُمُۥٓ		ايكم	which of you	ayyukum
+4	67:2:7	w	أَحْسَنُ		احسن	(is) best	aḥsanu
+4	67:2:8	w	عَمَلاࣰ࣌		عملا	(in) deed	ʿamalan
+4	67:2:9	w	وَهُوَ		وهو	And He	wahuwa
+4	67:2:10	w	ࡰ۬لْعَزِيزُ		العزيز	(is) the All-Mighty	l-ʿazīzu
+4	67:2:11	w	ࡲ۬لْغَفُورُ࣌		الغفور	the Oft-Forgiving	l-ghafūru
+4	67:2:12	e	۝٢				
+5	67:3:1	w	ࡲ۬لذِے		الذي	The One Who	alladhī
+5	67:3:2	w	خَلَقَ		خلق	created	khalaqa
+5	67:3:3	w	سَبْعَ		سبع	seven	sabʿa
+5	67:3:4	w	سَمَٰوَٰتࣲ		سموت	heavens	samāwātin
+5	67:3:5	w	طِبَاقاࣰ࣌		طباقا	one above another	ṭibāqan
+5	67:3:6	w	مَّا		ما	Not	mā
+5	67:3:7	w	تَرٜىٰ		تري	you see	tarā
+5	67:3:8	w	فِے		في	in	fī
+5	67:3:9	w	خَلْقِ		خلق	(the) creation	khalqi
+5	67:3:10	w	ࡴ۬لرَّحْمَٰنِ		الرحمن	(of) the Most Gracious	l-raḥmāni
+5	67:3:11	w	مِن		من	any	min
+6	67:3:12	w	تَفَٰوُتࣲ࣌		تفوت	fault	tafāwutin
+6	67:3:13	w	فَارْجِعِ		فارجع	So return	fa-ir'jiʿi
+6	67:3:14	w	ࡴ۬لْبَصَرَ		البصر	the vision	l-baṣara
+6	67:3:15	w	هَلْ		هل	can	hal
+6	67:3:16	w	تَرٜىٰ		تري	you see	tarā
+6	67:3:17	w	مِن		من	any	min
+6	67:3:18	w	فُطُورࣲ࣌		فطور	flaw	fuṭūrin
+6	67:3:19	e	۝٣				
+6	67:4:1	w	ثُمَّ		ثم	Then	thumma
+6	67:4:2	w	ࡰٜرْجِعِ		ارجع	return	ir'jiʿi
+6	67:4:3	w	ࡴ۬لْبَصَرَ		البصر	the vision	l-baṣara
+6	67:4:4	w	كَرَّتَيْنِ		كرتين	twice (again)	karratayni
+7	67:4:5	w	يَنقَلِبِ		ينقلب	Will return	yanqalib
+7	67:4:6	w	ࡴلَيْكَ		اليك	to you	ilayka
+7	67:4:7	w	ࡰ۬لْبَصَرُ		البصر	the vision	l-baṣaru
+7	67:4:8	w	خَاسِئاࣰ		خاسيا	humbled	khāsi-an
+7	67:4:9	w	وَهُوَ		وهو	while it	wahuwa
+7	67:4:10	w	حَسِيرࣱ࣌		حسير	(is) fatigued	ḥasīrun
+7	67:4:11	e	۝٤				
+7	67:5:1	w	وَلَقَدْ		ولقد	And certainly	walaqad
+7	67:5:2	w	زَيَّنَّا		زينا	We have beautified	zayyannā
+7	67:5:3	w	ࡰ۬لسَّمَآءَ		السما	the heaven	l-samāa
+8	67:5:4	w	ࡰ۬لدُّنْيٜا		الدنيا	nearest	l-dun'yā
+8	67:5:5	w	بِمَصَٰبِيحَ		بمصبيح	with lamps	bimaṣābīḥa
+8	67:5:6	w	وَجَعَلْنَٰهَا		وجعلنها	and We have made them	wajaʿalnāhā
+8	67:5:7	w	رُجُوماࣰ		رجوما	(as) missiles	rujūman
+8	67:5:8	w	لِّلشَّيَٰطِينِ		للشيطين	for the devils	lilshayāṭīni
+8	67:5:9	w	وَأَعْتَدْنَا		واعتدنا	and We have prepared	wa-aʿtadnā
+8	67:5:10	w	لَهُمْ		لهم	for them	lahum
+8	67:5:11	w	عَذَابَ		عذاب	punishment	ʿadhāba
+9	67:5:12	w	ࡰ۬لسَّعِيرِ࣌		السعير	(of) the Blaze	l-saʿīri
+9	67:5:13	e	۝٥				
+9	67:6:1	w	وَلِلذِينَ		وللذين	And for those who	walilladhīna
+9	67:6:2	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+9	67:6:3	w	بِرَبِّهِمْ		بربهم	in their Lord	birabbihim
+9	67:6:4	w	عَذَابُ		عذاب	(is the) punishment	ʿadhābu
+9	67:6:5	w	جَهَنَّمَ࣌		جهنم	(of) Hell	jahannama
+9	67:6:6	w	وَبِيسَ		وبيس	and wretched is	wabi'sa
+9	67:6:7	w	ࡰ۬لْمَصِيرُ࣌		المصير	the destination	l-maṣīru
+9	67:6:8	e	۝٦				
+10	67:7:1	w	إِذَآ		اذا	When	idhā
+10	67:7:2	w	أُلْقُواْ		القوا	they are thrown	ul'qū
+10	67:7:3	w	فِيهَا		فيها	therein	fīhā
+10	67:7:4	w	سَمِعُواْ		سمعوا	they will hear	samiʿū
+10	67:7:5	w	لَهَا		لها	from it	lahā
+10	67:7:6	w	شَهِيقاࣰ		شهيقا	an inhaling	shahīqan
+10	67:7:7	w	وَهِيَ		وهي	while it	wahiya
+10	67:7:8	w	تَفُورُ		تفور	boils up	tafūru
+10	67:7:9	e	۝٧				
+10	67:8:1	w	تَكَادُ		تكاد	It almost	takādu
+10	67:8:2	w	تَمَيَّزُ		تميز	bursts	tamayyazu
+10	67:8:3	w	مِنَ		من	from	mina
+11	67:8:4	w	ࡰ۬لْغَيْظِ࣌		الغيظ	rage	l-ghayẓi
+11	67:8:5	w	كُلَّمَآ		كلما	Every time	kullamā
+11	67:8:6	w	أُلْقِيَ		القي	is thrown	ul'qiya
+11	67:8:7	w	فِيهَا		فيها	therein	fīhā
+11	67:8:8	w	فَوْجࣱ		فوج	a group	fawjun
+11	67:8:9	w	سَأَلَهُمْ		سالهم	(will) ask them	sa-alahum
+11	67:8:10	w	خَزَنَتُهَآ		خزنتها	its keepers	khazanatuhā
+11	67:8:11	w	أَلَمْ		الم	Did not	alam
+11	67:8:12	w	يَاتِكُمْ		ياتكم	come to you	yatikum
+11	67:8:13	w	نَذِيرࣱ࣌		نذير	a warner	nadhīrun
+11	67:8:14	e	۝٨				
+11	67:9:1	w	قَالُواْ		قالوا	They will say	qālū
+12	67:9:2	w	بَلٜىٰ		بلي	Yes	balā
+12	67:9:3	w	قَدْ		قد	indeed	qad
+12	67:9:4	w	جَآءَنَا		جانا	came to us	jāanā
+12	67:9:5	w	نَذِيرࣱ		نذير	a warner	nadhīrun
+12	67:9:6	e	۝٩				
+12	67:10:1	w	فَكَذَّبْنَا		فكذبنا	but we denied	fakadhabnā
+12	67:10:2	w	وَقُلْنَا		وقلنا	and we said	waqul'nā
+12	67:10:3	w	مَا		ما	Not	mā
+12	67:10:4	w	نَزَّلَ		نزل	has sent down	nazzala
+12	67:10:5	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+12	67:10:6	w	مِن		من	any	min
+12	67:10:7	w	شَےْءٍ		شي	thing	shayin
+12	67:10:8	w	ࡴنَ		ان	Not	in
+12	67:10:9	w	ࡰنتُمُۥٓ		انتم	you (are)	antum
+13	67:10:10	w	إِلَّا		الا	but	illā
+13	67:10:11	w	فِے		في	in	fī
+13	67:10:12	w	ضَلَٰلࣲ		ضلل	error	ḍalālin
+13	67:10:13	w	كَبِيرࣲ࣌		كبير	great	kabīrin
+13	67:10:14	e	۝١٠				
+13	67:11:1	w	وَقَالُواْ		وقالوا	And they will say	waqālū
+13	67:11:2	w	لَوْ		لو	If	law
+13	67:11:3	w	كُنَّا		كنا	we had	kunnā
+13	67:11:4	w	نَسْمَعُ		نسمع	listened	nasmaʿu
+13	67:11:5	w	أَوْ		او	or	aw
+13	67:11:6	w	نَعْقِلُ		نعقل	reasoned	naʿqilu
+13	67:11:7	w	مَا		ما	not	mā
+13	67:11:8	w	كُنَّا		كنا	we (would) have been	kunnā
+13	67:11:9	w	فِےٓ		في	among	fī
+13	67:11:10	w	أَصْحَٰبِ		اصحب	(the) companions	aṣḥābi
+14	67:11:11	w	ࡴ۬لسَّعِيرِ࣌		السعير	(of) the Blaze	l-saʿīri
+14	67:11:12	e	۝١١				
+14	67:12:1	w	فَاعْتَرَفُواْ		فاعترفوا	Then they (will) confess	fa-iʿ'tarafū
+14	67:12:2	w	بِذَنۢبِهِمْ࣌		بذنبهم	their sins	bidhanbihim
+14	67:12:3	w	فَسُحْقاࣰ		فسحقا	so away with	fasuḥ'qan
+14	67:12:4	w	لِّأَصْحَٰبِ		لاصحب	(the) companions	li-aṣḥābi
+14	67:12:5	w	ࡴ۬لسَّعِيرِ࣌		السعير	(of) the Blaze	l-saʿīri
+14	67:12:6	e	۝١٢				
+14	67:13:1	w	إِنَّ		ان	Indeed	inna
+15	67:13:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+15	67:13:3	w	يَخْشَوْنَ		يخشون	fear	yakhshawna
+15	67:13:4	w	رَبَّهُم		ربهم	their Lord	rabbahum
+15	67:13:5	w	بِالْغَيْبِ		بالغيب	unseen	bil-ghaybi
+15	67:13:6	w	لَهُم		لهم	for them	lahum
+15	67:13:7	w	مَّغْفِرَةࣱ		مغفرة	(is) forgiveness	maghfiratun
+15	67:13:8	w	وَأَجْرࣱ		واجر	and a reward	wa-ajrun
+15	67:13:9	w	كَبِيرࣱ࣌		كبير	great	kabīrun
+15	67:13:10	e	۝١٣				

@@ -1,0 +1,135 @@
+1	47:31:1	w	وَلَوْ		ولو	And if	walaw
+1	47:31:2	w	نَشَآءُ		نشا	We willed	nashāu
+1	47:31:3	w	لَأَرَيْنَٰكَهُمْ		لارينكهم	surely, We could show them to you	la-araynākahum
+1	47:31:4	w	فَلَعَرَفْتَهُم		فلعرفتهم	and you would know them	falaʿaraftahum
+1	47:31:5	w	بِسِيمٜـٰهُمْ࣌		بسيمهم	by their marks	bisīmāhum
+1	47:31:6	w	وَلَتَعْرِفَنَّهُمْ		ولتعرفنهم	but surely, you will know them	walataʿrifannahum
+1	47:31:7	w	فِے		في	by	fī
+2	47:31:8	w	لَحْنِ		لحن	(the) tone	laḥni
+2	47:31:9	w	ࡴ۬لْقَوْلِ࣌		القول	(of their) speech	l-qawli
+2	47:31:10	w	وَاللَّهُ		والله	And Allah	wal-lahu
+2	47:31:11	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+2	47:31:12	w	أَعْمَٰلَكُمْ࣌		اعملكم	your deeds	aʿmālakum
+2	47:31:13	e	۝٣١				
+2	47:32:1	w	وَلَنَبْلُوَنَّكُمْ		ولنبلونكم	And surely We will test you	walanabluwannakum
+2	47:32:2	w	حَتَّىٰ		حتي	until	ḥattā
+2	47:32:3	w	نَعْلَمَ		نعلم	We make evident	naʿlama
+3	47:32:4	w	ࡰ۬لْمُجَٰهِدِينَ		المجهدين	those who strive	l-mujāhidīna
+3	47:32:5	w	مِنكُمْ		منكم	among you	minkum
+3	47:32:6	w	وَالصَّٰبِرِينَ		والصبرين	and the patient ones	wal-ṣābirīna
+3	47:32:7	w	وَنَبْلُوَاْ		ونبلوا	and We will test	wanabluwā
+3	47:32:8	w	أَخْبَارَكُمُۥٓ࣌		اخباركم	your affairs	akhbārakum
+3	47:32:9	e	۝٣٢				
+3	47:33:1	w	إِنَّ		ان	Indeed	inna
+3	47:33:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+4	47:33:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+4	47:33:4	w	وَصَدُّواْ		وصدوا	and turn away	waṣaddū
+4	47:33:5	w	عَن		عن	from	ʿan
+4	47:33:6	w	سَبِيلِ		سبيل	(the) way of Allah	sabīli
+4	47:33:7	w	ࡴ۬للَّهِ		الله	(the) way of Allah	l-lahi
+4	47:33:8	w	وَشَآقُّواْ		وشاقوا	and oppose	washāqqū
+4	47:33:9	w	ࡲ۬لرَّسُولَ		الرسول	the Messenger	l-rasūla
+4	47:33:10	w	مِنۢ		من	after	min
+4	47:33:11	w	بَعْدِ		بعد	after	baʿdi
+4	47:33:12	w	مَا		ما	[what]	mā
+4	47:33:13	w	تَبَيَّنَ		تبين	(has been) made clear	tabayyana
+5	47:33:14	w	لَهُمُ		لهم	to them	lahumu
+5	47:33:15	w	ࡲ۬لْهُدٜىٰ		الهدي	the guidance	l-hudā
+5	47:33:16	w	لَنْ		لن	never	lan
+5	47:33:17	w	يَّضُرُّواْ		يضروا	will they harm	yaḍurrū
+5	47:33:18	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+5	47:33:19	w	شَيْـٔاࣰ࣌		شيا	(in) anything	shayan
+5	47:33:20	w	وَسَيُحْبِطُ		وسيحبط	and He will make worthless	wasayuḥ'biṭu
+5	47:33:21	w	أَعْمَٰلَهُمْ࣌		اعملهم	their deeds	aʿmālahum
+5	47:33:22	e	۝٣٣				
+6	47:34:1	w	۞ يَٰٓأَيُّهَا		يايها	O you who believe	yāayyuhā
+6	47:34:2	w	ࡰ۬لذِينَ		الذين	O you who believe	alladhīna
+6	47:34:3	w	ءَامَنُوٓاْ		امنوا	O you who believe	āmanū
+6	47:34:4	w	أَطِيعُواْ		اطيعوا	Obey	aṭīʿū
+6	47:34:5	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+6	47:34:6	w	وَأَطِيعُواْ		واطيعوا	and obey	wa-aṭīʿū
+6	47:34:7	w	ࡲ۬لرَّسُولَ		الرسول	the Messenger	l-rasūla
+6	47:34:8	w	وَلَا		ولا	and (do) not	walā
+7	47:34:9	w	تُبْطِلُوٓاْ		تبطلوا	make vain	tub'ṭilū
+7	47:34:10	w	أَعْمَٰلَكُمُۥٓ࣌		اعملكم	your deeds	aʿmālakum
+7	47:34:11	e	۝٣٤				
+7	47:35:1	w	إِنَّ		ان	Indeed	inna
+7	47:35:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	47:35:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+7	47:35:4	w	وَصَدُّواْ		وصدوا	and turn away	waṣaddū
+7	47:35:5	w	عَن		عن	from	ʿan
+7	47:35:6	w	سَبِيلِ		سبيل	(the) way	sabīli
+8	47:35:7	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+8	47:35:8	w	ثُمَّ		ثم	then	thumma
+8	47:35:9	w	مَاتُواْ		ماتوا	died	mātū
+8	47:35:10	w	وَهُمْ		وهم	while they	wahum
+8	47:35:11	w	كُفَّارࣱ		كفار	(were) disbelievers	kuffārun
+8	47:35:12	w	فَلَنْ		فلن	never	falan
+8	47:35:13	w	يَّغْفِرَ		يغفر	will Allah forgive	yaghfira
+8	47:35:14	w	ࡰ۬للَّهُ		الله	will Allah forgive	l-lahu
+8	47:35:15	w	لَهُمْ࣌		لهم	them	lahum
+8	47:35:16	e	۝٣٥				
+8	47:36:1	w	فَلَا		فلا	So (do) not	falā
+8	47:36:2	w	تَهِنُواْ		تهنوا	weaken	tahinū
+9	47:36:3	w	وَتَدْعُوٓاْ		وتدعوا	and call	watadʿū
+9	47:36:4	w	إِلَى		الي	for	ilā
+9	47:36:5	w	ࡰ۬لسَّلْمِ		السلم	peace	l-salmi
+9	47:36:6	w	وَأَنتُمُ		وانتم	while you	wa-antumu
+9	47:36:7	w	ࡲ۬لَاعْلَوْنَ		الاعلون	(are) superior	l-aʿlawna
+9	47:36:8	w	وَاللَّهُ		والله	and Allah	wal-lahu
+9	47:36:9	w	مَعَكُمْ࣌		معكم	(is) with you	maʿakum
+9	47:36:10	w	وَلَنْ		ولن	and never	walan
+9	47:36:11	w	يَّتِرَكُمُۥٓ		يتركم	will deprive you	yatirakum
+10	47:36:12	w	أَعْمَٰلَكُمُۥٓ࣌		اعملكم	(of) your deeds	aʿmālakum
+10	47:36:13	e	۝٣٦				
+10	47:37:1	w	إِنَّمَا		انما	Only	innamā
+10	47:37:2	w	ࡰ۬لْحَيَوٰةُ		الحيوة	the life	l-ḥayatu
+10	47:37:3	w	ࡲ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+10	47:37:4	w	لَعِبࣱ		لعب	(is) play	laʿibun
+10	47:37:5	w	وَلَهْوࣱ࣌		ولهو	and amusement	walahwun
+10	47:37:6	w	وَإِن		وان	And if	wa-in
+10	47:37:7	w	تُومِنُواْ		تومنوا	you believe	tu'minū
+10	47:37:8	w	وَتَتَّقُواْ		وتتقوا	and fear (Allah)	watattaqū
+11	47:37:9	w	يُوتِكُمُۥٓ		يوتكم	He will give you	yu'tikum
+11	47:37:10	w	أُجُورَكُمْ		اجوركم	your rewards	ujūrakum
+11	47:37:11	w	وَلَا		ولا	and not	walā
+11	47:37:12	w	يَسْـَٔلْكُمُۥٓ		يسلكم	will ask you	yasalkum
+11	47:37:13	w	أَمْوَٰلَكُمُۥٓ࣌		امولكم	(for) your wealth	amwālakum
+11	47:37:14	e	۝٣٧				
+11	47:38:1	w	إِنْ		ان	If	in
+11	47:38:2	w	يَّسْـَٔلْكُمُوهَا		يسلكموها	He were to ask you for it	yasalkumūhā
+12	47:38:3	w	فَيُحْفِكُمْ		فيحفكم	and press you	fayuḥ'fikum
+12	47:38:4	w	تَبْخَلُواْ		تبخلوا	you will withhold	tabkhalū
+12	47:38:5	w	وَيُخْرِجَ		ويخرج	and He will bring forth	wayukh'rij
+12	47:38:6	w	ࡰضْغَٰنَكُمْ࣌		اضغنكم	your hatred	aḍghānakum
+12	47:38:7	e	۝٣٨				
+12	47:39:1	w	هَآنتُمْ		هانتم	Here you are	hāantum
+12	47:39:2	w	هَٰٓؤُلَآءِ		هولا	these	hāulāi
+13	47:39:3	w	تُدْعَوْنَ		تدعون	called	tud'ʿawna
+13	47:39:4	w	لِتُنفِقُواْ		لتنفقوا	to spend	litunfiqū
+13	47:39:5	w	فِے		في	in	fī
+13	47:39:6	w	سَبِيلِ		سبيل	(the) way	sabīli
+13	47:39:7	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+13	47:39:8	w	فَمِنكُم		فمنكم	but among you	faminkum
+13	47:39:9	w	مَّنْ		من	(are some) who	man
+13	47:39:10	w	يَّبْخَلُ࣌		يبخل	withhold	yabkhalu
+13	47:39:11	w	وَمَنْ		ومن	and whoever	waman
+13	47:39:12	w	يَّبْخَلْ		يبخل	withholds	yabkhal
+14	47:39:13	w	فَإِنَّمَا		فانما	then only	fa-innamā
+14	47:39:14	w	يَبْخَلُ		يبخل	he withholds	yabkhalu
+14	47:39:15	w	عَن		عن	from	ʿan
+14	47:39:16	w	نَّفْسِهِۦ࣌		نفسهي	himself	nafsihi
+14	47:39:17	w	وَاللَّهُ		والله	But Allah	wal-lahu
+14	47:39:18	w	ࡲ۬لْغَنِيُّ࣌		الغني	(is) Free of need	l-ghaniyu
+14	47:39:19	w	وَأَنتُمُ		وانتم	while you	wa-antumu
+14	47:39:20	w	ࡲ۬لْفُقَرَآءُ࣌		الفقرا	(are) the needy	l-fuqarāu
+14	47:39:21	w	وَإِن		وان	And if	wa-in
+15	47:39:22	w	تَتَوَلَّوْاْ		تتولوا	you turn away	tatawallaw
+15	47:39:23	w	يَسْتَبْدِلْ		يستبدل	He will replace you	yastabdil
+15	47:39:24	w	قَوْماً		قوما	(with) a people	qawman
+15	47:39:25	w	غَيْرَكُمْ		غيركم	other than you	ghayrakum
+15	47:39:26	w	ثُمَّ		ثم	then	thumma
+15	47:39:27	w	لَا		لا	not	lā
+15	47:39:28	w	يَكُونُوٓاْ		يكونوا	they will be	yakūnū
+15	47:39:29	w	أَمْثَٰلَكُمُۥٓ࣌		امثلكم	(the) likes of you	amthālakum
+15	47:39:30	e	۝٣٩				

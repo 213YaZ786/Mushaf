@@ -47,6 +47,7 @@ import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import org.koin.compose.koinInject
+import org.mushaf.app.ui.theme.quranFont
 import org.mushaf.app.R
 import org.mushaf.app.core.quran.AyahKey
 import org.mushaf.app.core.quran.Word
@@ -87,7 +88,7 @@ fun MeaningScreen(
     val settings by store.settings.collectAsState()
     val saved by marks.marks.collectAsState()
     val haptics = rememberHaptics()
-    val hafs = remember { FontFamily(Font(R.font.uthmanic_hafs)) }
+    val hafs = quranFont()
     val chosen = settings.translations
 
     val surah by produceState<org.mushaf.app.core.quran.Surah?>(null, start.surah) { value = quran.surah(start.surah) }
@@ -95,7 +96,7 @@ fun MeaningScreen(
     // Every ayah of the surah with its words, read page by page.
     val rows by produceState<List<AyahRow>?>(null, start.surah, chosen) {
         val s = quran.surah(start.surah)
-        val words = (s.pages.first()..s.pages.last()).flatMap { quran.page(it).words }.filter { it.key.surah == start.surah }
+        val words = (s.pages.first()..s.pages.last()).flatMap { quran.page(it).words }.filter { it.key.surah == start.surah && it.key.ayah > 0 }
         value = words.groupBy { it.key }.map { (key, w) ->
             AyahRow(key, w, chosen.mapNotNull { id ->
                 val text = translations.text(id, key)

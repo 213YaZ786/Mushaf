@@ -1,0 +1,146 @@
+1	28:78:1	w	قَالَ		قال	He said	qāla
+1	28:78:2	w	إِنَّمَآ		انما	Only	innamā
+1	28:78:3	w	أُوتِيتُهُۥ		اوتيته	I have been given it	ūtītuhu
+1	28:78:4	w	عَلَىٰ		علي	on (account)	ʿalā
+1	28:78:5	w	عِلْمٍ		علم	(of) knowledge	ʿil'min
+1	28:78:6	w	عِندِيَ࣌		عندي	I have	ʿindī
+1	28:78:7	w	أَوَلَمْ		اولم	Did not	awalam
+1	28:78:8	w	يَعْلَمَ		يعلم	he know	yaʿlam
+1	28:78:9	w	ࡰنَّ		ان	that	anna
+1	28:78:10	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	28:78:11	w	قَدَ		قد	indeed	qad
+2	28:78:12	w	ࡰهْلَكَ		اهلك	destroyed	ahlaka
+2	28:78:13	w	مِن		من	before him	min
+2	28:78:14	w	قَبْلِهِۦ		قبلهي	before him	qablihi
+2	28:78:15	w	مِنَ		من	of	mina
+2	28:78:16	w	ࡰ۬لْقُرُونِ		القرون	the generations	l-qurūni
+2	28:78:17	w	مَنْ		من	who	man
+2	28:78:18	w	هُوَ		هو	[they]	huwa
+2	28:78:19	w	أَشَدُّ		اشد	(were) stronger	ashaddu
+2	28:78:20	w	مِنْهُ		منه	than him	min'hu
+2	28:78:21	w	قُوَّةࣰ		قوة	(in) strength	quwwatan
+2	28:78:22	w	وَأَكْثَرُ		واكثر	and greater	wa-aktharu
+3	28:78:23	w	جَمْعاࣰ࣌		جمعا	(in) accumulation	jamʿan
+3	28:78:24	w	وَلَا		ولا	And not	walā
+3	28:78:25	w	يُسْـَٔلُ		يسل	will be questioned	yus'alu
+3	28:78:26	w	عَن		عن	about	ʿan
+3	28:78:27	w	ذُنُوبِهِمُ		ذنوبهم	their sins	dhunūbihimu
+3	28:78:28	w	ࡲ۬لْمُجْرِمُونَ࣌		المجرمون	the criminals	l-muj'rimūna
+3	28:78:29	e	۝٧٨				
+3	28:79:1	w	فَخَرَجَ		فخرج	So he went forth	fakharaja
+3	28:79:2	w	عَلَىٰ		علي	to	ʿalā
+3	28:79:3	w	قَوْمِهِۦ		قومهي	his people	qawmihi
+4	28:79:4	w	فِے		في	in	fī
+4	28:79:5	w	زِينَتِهِۦ࣌		زينتهي	his adornment	zīnatihi
+4	28:79:6	w	قَالَ		قال	Said	qāla
+4	28:79:7	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+4	28:79:8	w	يُرِيدُونَ		يريدون	desire	yurīdūna
+4	28:79:9	w	ࡰ۬لْحَيَوٰةَ		الحيوة	the life	l-ḥayata
+4	28:79:10	w	ࡰ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+4	28:79:11	w	يَٰلَيْتَ		يليت	O! Would that	yālayta
+4	28:79:12	w	لَنَا		لنا	for us	lanā
+5	28:79:13	w	مِثْلَ		مثل	(the) like	mith'la
+5	28:79:14	w	مَآ		ما	(of) what	mā
+5	28:79:15	w	أُوتِيَ		اوتي	has been given	ūtiya
+5	28:79:16	w	قَارُونُ		قارون	(to) Qarun	qārūnu
+5	28:79:17	w	إِنَّهُۥ		انه	Indeed, he	innahu
+5	28:79:18	w	لَذُو		لذو	(is the) owner	ladhū
+5	28:79:19	w	حَظٍّ		حظ	(of) fortune	ḥaẓẓin
+5	28:79:20	w	عَظِيمࣲ࣌		عظيم	great	ʿaẓīmin
+5	28:79:21	e	۝٧٩				
+5	28:80:1	w	وَقَالَ		وقال	But said	waqāla
+5	28:80:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	28:80:3	w	أُوتُواْ		اوتوا	were given	ūtū
+6	28:80:4	w	ࡲ۬لْعِلْمَ		العلم	the knowledge	l-ʿil'ma
+6	28:80:5	w	وَيْلَكُمْ		ويلكم	Woe to you	waylakum
+6	28:80:6	w	ثَوَابُ		ثواب	(The) reward	thawābu
+6	28:80:7	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+6	28:80:8	w	خَيْرࣱ		خير	(is) better	khayrun
+6	28:80:9	w	لِّمَنَ		لمن	for (he) who	liman
+6	28:80:10	w	اٰمَنَ		امن	believes	āmana
+6	28:80:11	w	وَعَمِلَ		وعمل	and does	waʿamila
+7	28:80:12	w	صَٰلِحاࣰ࣌		صلحا	righteous (deeds)	ṣāliḥan
+7	28:80:13	w	وَلَا		ولا	And not	walā
+7	28:80:14	w	يُلَقّٜيٰهَآ		يلقيها	it is granted	yulaqqāhā
+7	28:80:15	w	إِلَّا		الا	except	illā
+7	28:80:16	w	ࡰ۬لصَّٰبِرُونَ࣌		الصبرون	(to) the patient ones	l-ṣābirūna
+7	28:80:17	e	۝٨٠				
+7	28:81:1	w	فَخَسَفْنَا		فخسفنا	Then We caused to swallow up	fakhasafnā
+7	28:81:2	w	بِهِۦ		بهي	him	bihi
+7	28:81:3	w	وَبِدٜارِهِ		وبداره	and his home	wabidārihi
+8	28:81:4	w	ࡴ۬لَارْضَ࣌		الارض	the earth	l-arḍa
+8	28:81:5	w	فَمَا		فما	Then not	famā
+8	28:81:6	w	كَانَ		كان	was	kāna
+8	28:81:7	w	لَهُۥ		له	for him	lahu
+8	28:81:8	w	مِن		من	any	min
+8	28:81:9	w	فِئَةࣲ		فية	group	fi-atin
+8	28:81:10	w	يَنصُرُونَهُۥ		ينصرونه	(to) help him	yanṣurūnahu
+8	28:81:11	w	مِن		من	besides	min
+8	28:81:12	w	دُونِ		دون	besides	dūni
+8	28:81:13	w	ࡴ۬للَّهِ࣌		الله	Allah	l-lahi
+9	28:81:14	w	وَمَا		وما	and not	wamā
+9	28:81:15	w	كَانَ		كان	was	kāna
+9	28:81:16	w	مِنَ		من	(he) of	mina
+9	28:81:17	w	ࡰ۬لْمُنتَصِرِينَ࣌		المنتصرين	those who (could) defend themselves	l-muntaṣirīna
+9	28:81:18	e	۝٨١				
+9	28:82:1	w	وَأَصْبَحَ		واصبح	And began	wa-aṣbaḥa
+9	28:82:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+9	28:82:3	w	تَمَنَّوْاْ		تمنوا	(had) wished	tamannaw
+9	28:82:4	w	مَكَانَهُۥ		مكانه	his position	makānahu
+10	28:82:5	w	بِالَامْسِ		بالامس	the day before	bil-amsi
+10	28:82:6	w	يَقُولُونَ		يقولون	(to) say	yaqūlūna
+10	28:82:7	w	وَيْكَأَنَّ		ويكان	Ah! That	wayka-anna
+10	28:82:8	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	28:82:9	w	يَبْسُطُ		يبسط	extends	yabsuṭu
+10	28:82:10	w	ࡲ۬لرِّزْقَ		الرزق	the provision	l-riz'qa
+10	28:82:11	w	لِمَنْ		لمن	for whom	liman
+10	28:82:12	w	يَّشَآءُ		يشا	He wills	yashāu
+11	28:82:13	w	مِنْ		من	of	min
+11	28:82:14	w	عِبَادِهِۦ		عبادهي	His slaves	ʿibādihi
+11	28:82:15	w	وَيَقْدِرُ࣌		ويقدر	and restricts it	wayaqdiru
+11	28:82:16	w	لَوْلَآ		لولا	If not	lawlā
+11	28:82:17	w	أَن		ان	that	an
+11	28:82:18	w	مَّنَّ		من	Allah had favored	manna
+11	28:82:19	w	ࡰ۬للَّهُ		الله	Allah had favored	l-lahu
+11	28:82:20	w	عَلَيْنَا		علينا	[to] us	ʿalaynā
+11	28:82:21	w	لَخُسِفَ		لخسف	He would have caused it to swallow us	lakhasafa
+11	28:82:22	w	بِنَا࣌		بنا	He would have caused it to swallow us	binā
+11	28:82:23	w	وَيْكَأَنَّهُۥ		ويكانه	Ah! That	wayka-annahu
+12	28:82:24	w	لَا		لا	not	lā
+12	28:82:25	w	يُفْلِحُ		يفلح	will succeed	yuf'liḥu
+12	28:82:26	w	ࡲ۬لْكَٰفِرُونَ࣌		الكفرون	the disbelievers	l-kāfirūna
+12	28:82:27	e	۝٨٢				
+12	28:83:1	w	۞ تِلْكَ		تلك	That	til'ka
+12	28:83:2	w	ࡰ۬لدَّارُ		الدار	the Home	l-dāru
+12	28:83:3	w	ࡲ۬لَاخِرَةُ		الاخرة	(of) the Hereafter	l-ākhiratu
+12	28:83:4	w	نَجْعَلُهَا		نجعلها	We assign it	najʿaluhā
+12	28:83:5	w	لِلذِينَ		للذين	to those who	lilladhīna
+13	28:83:6	w	لَا		لا	(do) not	lā
+13	28:83:7	w	يُرِيدُونَ		يريدون	desire	yurīdūna
+13	28:83:8	w	عُلُوّاࣰ		علوا	exaltedness	ʿuluwwan
+13	28:83:9	w	فِے		في	in	fī
+13	28:83:10	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+13	28:83:11	w	وَلَا		ولا	and not	walā
+13	28:83:12	w	فَسَاداࣰ࣌		فسادا	corruption	fasādan
+13	28:83:13	w	وَالْعَٰقِبَةُ		والعقبة	And the good end	wal-ʿāqibatu
+13	28:83:14	w	لِلْمُتَّقِينَ࣌		للمتقين	(is) for the righteous	lil'muttaqīna
+13	28:83:15	e	۝٨٣				
+14	28:84:1	w	مَن		من	Whoever	man
+14	28:84:2	w	جَآءَ		جا	comes	jāa
+14	28:84:3	w	بِالْحَسَنَةِ		بالحسنة	with a good (deed)	bil-ḥasanati
+14	28:84:4	w	فَلَهُۥ		فله	then for him	falahu
+14	28:84:5	w	خَيْرࣱ		خير	(will be) better	khayrun
+14	28:84:6	w	مِّنْهَا࣌		منها	than it	min'hā
+14	28:84:7	w	وَمَن		ومن	and whoever	waman
+14	28:84:8	w	جَآءَ		جا	comes	jāa
+14	28:84:9	w	بِالسَّيِّئَةِ		بالسيية	with an evil (deed)	bil-sayi-ati
+14	28:84:10	w	فَلَا		فلا	then not	falā
+15	28:84:11	w	يُجْزَى		يجزي	will be recompensed	yuj'zā
+15	28:84:12	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+15	28:84:13	w	عَمِلُواْ		عملوا	do	ʿamilū
+15	28:84:14	w	ࡲ۬لسَّيِّـَٔاتِ		السيات	the evil (deeds)	l-sayiāti
+15	28:84:15	w	إِلَّا		الا	except	illā
+15	28:84:16	w	مَا		ما	what	mā
+15	28:84:17	w	كَانُواْ		كانوا	they used (to)	kānū
+15	28:84:18	w	يَعْمَلُونَ࣌		يعملون	do	yaʿmalūna
+15	28:84:19	e	۝٨٤				

@@ -1,0 +1,131 @@
+1	39:54:1	w	أَوْ		او	Or	aw
+1	39:54:2	w	تَقُولَ		تقول	it should say	taqūla
+1	39:54:3	w	لَوَ		لو	If that	law
+1	39:54:4	w	ࡰنَّ		ان	If that	anna
+1	39:54:5	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+1	39:54:6	w	هَدٜيٰنِے		هديني	(had) guided me	hadānī
+1	39:54:7	w	لَكُنتُ		لكنت	surely, I (would) have been	lakuntu
+1	39:54:8	w	مِنَ		من	among	mina
+1	39:54:9	w	ࡰ۬لْمُتَّقِينَ		المتقين	the righteous	l-mutaqīna
+1	39:54:10	e	۝٥٤				
+1	39:55:1	w	أَوْ		او	Or	aw
+1	39:55:2	w	تَقُولَ		تقول	it should say	taqūla
+2	39:55:3	w	حِينَ		حين	when	ḥīna
+2	39:55:4	w	تَرَى		تري	it sees	tarā
+2	39:55:5	w	ࡰ۬لْعَذَابَ		العذاب	the punishment	l-ʿadhāba
+2	39:55:6	w	لَوَ		لو	If	law
+2	39:55:7	w	ࡰنَّ		ان	only	anna
+2	39:55:8	w	لِے		لي	for me	lī
+2	39:55:9	w	كَرَّةࣰ		كرة	another chance	karratan
+2	39:55:10	w	فَأَكُونَ		فاكون	then I could be	fa-akūna
+2	39:55:11	w	مِنَ		من	among	mina
+2	39:55:12	w	ࡰ۬لْمُحْسِنِينَ࣌		المحسنين	the good-doers	l-muḥ'sinīna
+2	39:55:13	e	۝٥٥				
+3	39:56:1	w	بَلٜىٰ		بلي	Yes	balā
+3	39:56:2	w	قَدْ		قد	verily	qad
+3	39:56:3	w	جَآءَتْكَ		جاتك	came to you	jāatka
+3	39:56:4	w	ءَايَٰتِے		ايتي	My Verses	āyātī
+3	39:56:5	w	فَكَذَّبْتَ		فكذبت	but you denied	fakadhabta
+3	39:56:6	w	بِهَا		بها	them	bihā
+3	39:56:7	w	وَاسْتَكْبَرْتَ		واستكبرت	and were arrogant	wa-is'takbarta
+3	39:56:8	w	وَكُنتَ		وكنت	and you were	wakunta
+4	39:56:9	w	مِنَ		من	among	mina
+4	39:56:10	w	ࡰ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+4	39:56:11	e	۝٥٦				
+4	39:57:1	w	وَيَوْمَ		ويوم	And (on the) Day	wayawma
+4	39:57:2	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+4	39:57:3	w	تَرَى		تري	you will see	tarā
+4	39:57:4	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+4	39:57:5	w	كَذَبُواْ		كذبوا	lied	kadhabū
+4	39:57:6	w	عَلَى		علي	about	ʿalā
+5	39:57:7	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+5	39:57:8	w	وُجُوهُهُم		وجوههم	their faces	wujūhuhum
+5	39:57:9	w	مُّسْوَدَّةٌ࣌		مسودة	(will be) blackened	mus'waddatun
+5	39:57:10	w	ࡰلَيْسَ		اليس	Is (there) not	alaysa
+5	39:57:11	w	فِے		في	in	fī
+5	39:57:12	w	جَهَنَّمَ		جهنم	Hell	jahannama
+5	39:57:13	w	مَثْوىࣰ		مثوي	an abode	mathwan
+5	39:57:14	w	لِّلْمُتَكَبِّرِينَ࣌		للمتكبرين	for the arrogant	lil'mutakabbirīna
+5	39:57:15	e	۝٥٧				
+6	39:58:1	w	وَيُنَجِّے		وينجي	And Allah will deliver	wayunajjī
+6	39:58:2	w	ࡴ۬للَّهُ		الله	And Allah will deliver	l-lahu
+6	39:58:3	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+6	39:58:4	w	ࡰٜتَّقَوْاْ		اتقوا	feared (Him)	ittaqaw
+6	39:58:5	w	بِمَفَازَتِهِمْ		بمفازتهم	to their place of salvation	bimafāzatihim
+6	39:58:6	w	لَا		لا	not	lā
+6	39:58:7	w	يَمَسُّهُمُ		يمسهم	will touch them	yamassuhumu
+6	39:58:8	w	ࡲ۬لسُّوٓءُ		السو	the evil	l-sūu
+7	39:58:9	w	وَلَا		ولا	and not	walā
+7	39:58:10	w	هُمْ		هم	they	hum
+7	39:58:11	w	يَحْزَنُونَ࣌		يحزنون	will grieve	yaḥzanūna
+7	39:58:12	e	۝٥٨				
+7	39:59:1	w	ࡰ۬للَّهُ		الله	Allah	al-lahu
+7	39:59:2	w	خَٰلِقُ		خلق	(is the) Creator	khāliqu
+7	39:59:3	w	كُلِّ		كل	(of) all	kulli
+7	39:59:4	w	شَےْءࣲ࣌		شي	things	shayin
+7	39:59:5	w	وَهُوَ		وهو	and He	wahuwa
+7	39:59:6	w	عَلَىٰ		علي	(is) over	ʿalā
+7	39:59:7	w	كُلِّ		كل	all	kulli
+8	39:59:8	w	شَےْءࣲ		شي	things	shayin
+8	39:59:9	w	وَكِيلࣱ࣌		وكيل	a Guardian	wakīlun
+8	39:59:10	e	۝٥٩				
+8	39:60:1	w	لَّهُۥ		له	For Him	lahu
+8	39:60:2	w	مَقَالِيدُ		مقاليد	(are the) keys	maqālīdu
+8	39:60:3	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+8	39:60:4	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+8	39:60:5	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+9	39:60:6	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+9	39:60:7	w	بِـَٔايَٰتِ		بايت	in (the) Verses	biāyāti
+9	39:60:8	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+9	39:60:9	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+9	39:60:10	w	هُمُ		هم	they	humu
+9	39:60:11	w	ࡲ۬لْخَٰسِرُونَ࣌		الخسرون	(are) the losers	l-khāsirūna
+9	39:60:12	e	۝٦٠				
+10	39:61:1	w	قُلَ		قل	Say	qul
+10	39:61:2	w	ࡰفَغَيْرَ		افغير	Is (it) other than	afaghayra
+10	39:61:3	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+10	39:61:4	w	تَامُرُونِيَ		تامروني	you order me	tamurūnnī
+10	39:61:5	w	أَعْبُدُ		اعبد	(to) worship	aʿbudu
+10	39:61:6	w	أَيُّهَا		ايها	O	ayyuhā
+10	39:61:7	w	ࡰ۬لْجَٰهِلُونَ࣌		الجهلون	ignorant ones	l-jāhilūna
+10	39:61:8	e	۝٦١				
+10	39:62:1	w	وَلَقَدُ		ولقد	And verily	walaqad
+11	39:62:2	w	ࡳوحِيَ		اوحي	it has been revealed	ūḥiya
+11	39:62:3	w	إِلَيْكَ		اليك	to you	ilayka
+11	39:62:4	w	وَإِلَى		والي	and to	wa-ilā
+11	39:62:5	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	39:62:6	w	مِن		من	(were) before you	min
+11	39:62:7	w	قَبْلِكَ		قبلك	(were) before you	qablika
+11	39:62:8	w	لَئِنَ		لين	if	la-in
+11	39:62:9	w	ࡰشْرَكْتَ		اشركت	you associate (with Allah)	ashrakta
+12	39:62:10	w	لَيَحْبَطَنَّ		ليحبطن	surely, will become worthless	layaḥbaṭanna
+12	39:62:11	w	عَمَلُكَ		عملك	your deeds	ʿamaluka
+12	39:62:12	w	وَلَتَكُونَنَّ		ولتكونن	and you will surely be	walatakūnanna
+12	39:62:13	w	مِنَ		من	among	mina
+12	39:62:14	w	ࡰ۬لْخَٰسِرِينَ࣌		الخسرين	the losers	l-khāsirīna
+12	39:62:15	e	۝٦٢				
+12	39:63:1	w	بَلِ		بل	Nay	bali
+13	39:63:2	w	ࡴ۬للَّهَ		الله	But worship Allah	l-laha
+13	39:63:3	w	فَاعْبُدْ		فاعبد	But worship Allah	fa-uʿ'bud
+13	39:63:4	w	وَكُن		وكن	and be	wakun
+13	39:63:5	w	مِّنَ		من	among	mina
+13	39:63:6	w	ࡰ۬لشَّٰكِرِينَ࣌		الشكرين	the thankful ones	l-shākirīna
+13	39:63:7	e	۝٦٣				
+13	39:64:1	w	۞ وَمَا		وما	And not	wamā
+13	39:64:2	w	قَدَرُواْ		قدروا	they appraised	qadarū
+13	39:64:3	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+13	39:64:4	w	حَقَّ		حق	(with) true	ḥaqqa
+14	39:64:5	w	قَدْرِهِۦ		قدرهي	appraisal	qadrihi
+14	39:64:6	w	وَالَارْضُ		والارض	while the earth	wal-arḍu
+14	39:64:7	w	جَمِيعاࣰ		جميعا	entirely	jamīʿan
+14	39:64:8	w	قَبْضَتُهُۥ		قبضته	(will be) in His Grip	qabḍatuhu
+14	39:64:9	w	يَوْمَ		يوم	(on the) Day	yawma
+14	39:64:10	w	ࡰ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+14	39:64:11	w	وَالسَّمَٰوَٰتُ		والسموت	and the heavens	wal-samāwātu
+15	39:64:12	w	مَطْوِيَّٰتُۢ		مطويت	(will be) folded	maṭwiyyātun
+15	39:64:13	w	بِيَمِينِهِۦ࣌		بيمينهي	in His Right Hand	biyamīnihi
+15	39:64:14	w	سُبْحَٰنَهُۥ		سبحنه	Glory be to Him	sub'ḥānahu
+15	39:64:15	w	وَتَعَٰلٜىٰ		وتعلي	And High is He	wataʿālā
+15	39:64:16	w	عَمَّا		عما	above what	ʿammā
+15	39:64:17	w	يُشْرِكُونَ࣌		يشركون	they associate (with Him)	yush'rikūna
+15	39:64:18	e	۝٦٤				

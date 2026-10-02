@@ -1,0 +1,132 @@
+1	5:111:1	w	يَوْمَ		يوم	(The) day	yawma
+1	5:111:2	w	يَجْمَعُ		يجمع	will (be) gathered	yajmaʿu
+1	5:111:3	w	ࡲ۬للَّهُ		الله	(by) Allah	l-lahu
+1	5:111:4	w	ࡲ۬لرُّسُلَ		الرسل	the Messengers	l-rusula
+1	5:111:5	w	فَيَقُولُ		فيقول	and He will say	fayaqūlu
+1	5:111:6	w	مَاذَآ		ماذا	What	mādhā
+1	5:111:7	w	أُجِبْتُمْ࣌		اجبتم	was (the) response you received	ujib'tum
+1	5:111:8	w	قَالُواْ		قالوا	They said	qālū
+1	5:111:9	w	لَا		لا	(There is) no	lā
+1	5:111:10	w	عِلْمَ		علم	knowledge	ʿil'ma
+1	5:111:11	w	لَنَآ		لنا	for us	lanā
+2	5:111:12	w	إِنَّكَ		انك	Indeed You	innaka
+2	5:111:13	w	أَنتَ		انت	You	anta
+2	5:111:14	w	عَلَّٰمُ		علم	(are the) Knower	ʿallāmu
+2	5:111:15	w	ࡲ۬لْغُيُوبِ࣌		الغيوب	(of) the unseen	l-ghuyūbi
+2	5:111:16	e	۝١١١				
+2	5:112:1	w	إِذْ		اذ	When	idh
+2	5:112:2	w	قَالَ		قال	said	qāla
+2	5:112:3	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+2	5:112:4	w	يَٰعِيسَى		يعيسي	O Isa	yāʿīsā
+2	5:112:5	w	ࡰٜبْنَ		ابن	son	ib'na
+2	5:112:6	w	مَرْيَمَ		مريم	(of) Maryam	maryama
+3	5:112:7	w	ࡸَذْكُرْ		اذكر	Remember	udh'kur
+3	5:112:8	w	نِعْمَتِے		نعمتي	My Favor	niʿ'matī
+3	5:112:9	w	عَلَيْكَ		عليك	upon you	ʿalayka
+3	5:112:10	w	وَعَلَىٰ		وعلي	and upon	waʿalā
+3	5:112:11	w	وَٰلِدَتِكَ		ولدتك	your mother	wālidatika
+3	5:112:12	w	إِذَ		اذ	when	idh
+3	5:112:13	w	ࡰيَّدتُّكَ		ايدتك	I strengthened you	ayyadttuka
+3	5:112:14	w	بِرُوحِ		بروح	with (the) Spirit	birūḥi
+4	5:112:15	w	ࡴ۬لْقُدُسِ		القدس	the Holy	l-qudusi
+4	5:112:16	w	تُكَلِّمُ		تكلم	you spoke	tukallimu
+4	5:112:17	w	ࡲ۬لنَّاسَ		الناس	(to) the people	l-nāsa
+4	5:112:18	w	فِے		في	in	fī
+4	5:112:19	w	ࡴ۬لْمَهْدِ		المهد	the cradle	l-mahdi
+4	5:112:20	w	وَكَهْلاࣰ࣌		وكهلا	and (in) maturity	wakahlan
+4	5:112:21	w	وَإِذْ		واذ	And when	wa-idh
+4	5:112:22	w	عَلَّمْتُكَ		علمتك	I taught you	ʿallamtuka
+5	5:112:23	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+5	5:112:24	w	وَالْحِكْمَةَ		والحكمة	and the wisdom	wal-ḥik'mata
+5	5:112:25	w	وَالتَّوْرٜيٰةَ		والتورية	and the Taurat	wal-tawrāta
+5	5:112:26	w	وَالِانجِيلَ࣌		والانجيل	and the Injeel	wal-injīla
+5	5:112:27	w	وَإِذْ		واذ	and when	wa-idh
+5	5:112:28	w	تَخْلُقُ		تخلق	you make	takhluqu
+6	5:112:29	w	مِنَ		من	from	mina
+6	5:112:30	w	ࡰ۬لطِّينِ		الطين	the clay	l-ṭīni
+6	5:112:31	w	كَهَيْـَٔةِ		كهية	like the shape	kahayati
+6	5:112:32	w	ࡴ۬لطَّيْرِ		الطير	(of) the bird	l-ṭayri
+6	5:112:33	w	بِإِذْنِے		باذني	by My permission	bi-idh'nī
+6	5:112:34	w	فَتَنفُخُ		فتنفخ	then you breath	fatanfukhu
+6	5:112:35	w	فِيهَا		فيها	into it	fīhā
+6	5:112:36	w	فَتَكُونُ		فتكون	and it becomes	fatakūnu
+7	5:112:37	w	طَٰٓئِراَۢ		طيرا	a bird	ṭayran
+7	5:112:38	w	بِإِذْنِے࣌		باذني	by My permission	bi-idh'nī
+7	5:112:39	w	وَتُبْرِۓُ		وتبري	and you heal	watub'ri-u
+7	5:112:40	w	ࡲ۬لَاكْمَهَ		الاكمه	the born blind	l-akmaha
+7	5:112:41	w	وَالَابْرَصَ		والابرص	and the leper	wal-abraṣa
+7	5:112:42	w	بِإِذْنِے࣌		باذني	by My permission	bi-idh'nī
+7	5:112:43	w	وَإِذْ		واذ	and when	wa-idh
+7	5:112:44	w	تُخْرِجُ		تخرج	you bring forth	tukh'riju
+8	5:112:45	w	ࡲ۬لْمَوْتٜىٰ		الموتي	the dead	l-mawtā
+8	5:112:46	w	بِإِذْنِے࣌		باذني	by My permission	bi-idh'nī
+8	5:112:47	w	وَإِذْ		واذ	And when	wa-idh
+8	5:112:48	w	كَفَفْتُ		كففت	I restrained	kafaftu
+8	5:112:49	w	بَنِےٓ		بني	(the) Children	banī
+8	5:112:50	w	إِسْرَآءِيلَ		اسرايل	(of) Israel	is'rāīla
+8	5:112:51	w	عَنكَ		عنك	from you	ʿanka
+8	5:112:52	w	إِذْ		اذ	when	idh
+9	5:112:53	w	جِئْتَهُم		جيتهم	you came to them	ji'tahum
+9	5:112:54	w	بِالْبَيِّنَٰتِ		بالبينت	with the clear proofs	bil-bayināti
+9	5:112:55	w	فَقَالَ		فقال	then said	faqāla
+9	5:112:56	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+9	5:112:57	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+9	5:112:58	w	مِنْهُمُۥٓ		منهم	among them	min'hum
+9	5:112:59	w	إِنْ		ان	Not	in
+9	5:112:60	w	هَٰذَآ		هذا	(is) this	hādhā
+10	5:112:61	w	إِلَّا		الا	but	illā
+10	5:112:62	w	سِحْرࣱ		سحر	magic	siḥ'run
+10	5:112:63	w	مُّبِينࣱ࣌		مبين	clear	mubīnun
+10	5:112:64	e	۝١١٢				
+10	5:113:1	w	۞ وَإِذَ		واذ	And when	wa-idh
+10	5:113:2	w	ࡰوْحَيْتُ		اوحيت	I inspired	awḥaytu
+10	5:113:3	w	إِلَى		الي	to	ilā
+10	5:113:4	w	ࡰ۬لْحَوَارِيِّۑنَ		الحوارين	the disciples	l-ḥawāriyīna
+10	5:113:5	w	أَنَ		ان	to	an
+10	5:113:6	w	اٰمِنُواْ		امنوا	believe	āminū
+11	5:113:7	w	بِے		بي	in Me	bī
+11	5:113:8	w	وَبِرَسُولِے࣌		وبرسولي	and in My Messenger	wabirasūlī
+11	5:113:9	w	قَالُوٓاْ		قالوا	they said	qālū
+11	5:113:10	w	ءَامَنَّا		امنا	We believe	āmannā
+11	5:113:11	w	وَاشْهَدْ		واشهد	and bear witness	wa-ish'had
+11	5:113:12	w	بِأَنَّنَا		باننا	that indeed we	bi-annanā
+11	5:113:13	w	مُسْلِمُونَ࣌		مسلمون	(are) Muslims	mus'limūna
+11	5:113:14	e	۝١١٣				
+12	5:114:1	w	إِذْ		اذ	When	idh
+12	5:114:2	w	قَالَ		قال	said	qāla
+12	5:114:3	w	ࡰ۬لْحَوَارِيُّونَ		الحواريون	the disciples	l-ḥawāriyūna
+12	5:114:4	w	يَٰعِيسَى		يعيسي	O Isa	yāʿīsā
+12	5:114:5	w	ࡰٜبْنَ		ابن	son	ib'na
+12	5:114:6	w	مَرْيَمَ		مريم	(of) Maryam	maryama
+12	5:114:7	w	هَلْ		هل	Is	hal
+12	5:114:8	w	يَسْتَطِيعُ		يستطيع	able	yastaṭīʿu
+12	5:114:9	w	رَبُّكَ		ربك	your Lord	rabbuka
+13	5:114:10	w	أَنْ		ان	to	an
+13	5:114:11	w	يُّنَزِّلَ		ينزل	send down	yunazzila
+13	5:114:12	w	عَلَيْنَا		علينا	to us	ʿalaynā
+13	5:114:13	w	مَآئِدَةࣰ		مايدة	a table spread	māidatan
+13	5:114:14	w	مِّنَ		من	from	mina
+13	5:114:15	w	ࡰ۬لسَّمَآءِ࣌		السما	the heaven	l-samāi
+13	5:114:16	w	قَالَ		قال	He said	qāla
+13	5:114:17	w	ࡰٜتَّقُواْ		اتقوا	Fear	ittaqū
+13	5:114:18	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+13	5:114:19	w	إِن		ان	if	in
+13	5:114:20	w	كُنتُم		كنتم	you are	kuntum
+14	5:114:21	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+14	5:114:22	e	۝١١٤				
+14	5:115:1	w	قَالُواْ		قالوا	They said	qālū
+14	5:115:2	w	نُرِيدُ		نريد	We wish	nurīdu
+14	5:115:3	w	أَن		ان	that	an
+14	5:115:4	w	نَّاكُلَ		ناكل	we eat	nakula
+14	5:115:5	w	مِنْهَا		منها	from it	min'hā
+14	5:115:6	w	وَتَطْمَئِنَّ		وتطمين	and satisfy	wataṭma-inna
+14	5:115:7	w	قُلُوبُنَا		قلوبنا	our hearts	qulūbunā
+15	5:115:8	w	وَنَعْلَمَ		ونعلم	and we know	wanaʿlama
+15	5:115:9	w	أَن		ان	that	an
+15	5:115:10	w	قَدْ		قد	certainly	qad
+15	5:115:11	w	صَدَقْتَنَا		صدقتنا	you have spoken the truth to us	ṣadaqtanā
+15	5:115:12	w	وَنَكُونَ		ونكون	and we be	wanakūna
+15	5:115:13	w	عَلَيْهَا		عليها	over it	ʿalayhā
+15	5:115:14	w	مِنَ		من	among	mina
+15	5:115:15	w	ࡰ۬لشَّٰهِدِينَ࣌		الشهدين	the witnesses	l-shāhidīna
+15	5:115:16	e	۝١١٥				

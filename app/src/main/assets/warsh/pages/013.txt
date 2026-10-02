@@ -1,0 +1,120 @@
+1	2:83:1	w	وَإِذَ		واذ	And when	wa-idh
+1	2:83:2	w	ࡰخَذْنَا		اخذنا	We took	akhadhnā
+1	2:83:3	w	مِيثَٰقَكُمْ		ميثقكم	your covenant	mīthāqakum
+1	2:83:4	w	لَا		لا	Not	lā
+1	2:83:5	w	تَسْفِكُونَ		تسفكون	will you shed	tasfikūna
+1	2:83:6	w	دِمَآءَكُمْ		دماكم	your blood	dimāakum
+1	2:83:7	w	وَلَا		ولا	and not	walā
+1	2:83:8	w	تُخْرِجُونَ		تخرجون	(will) evict	tukh'rijūna
+2	2:83:9	w	أَنفُسَكُم		انفسكم	yourselves	anfusakum
+2	2:83:10	w	مِّن		من	from	min
+2	2:83:11	w	دِيٜـٰرِكُمْ		ديركم	your homes	diyārikum
+2	2:83:12	w	ثُمَّ		ثم	then	thumma
+2	2:83:13	w	أَقْرَرْتُمْ		اقررتم	you ratified	aqrartum
+2	2:83:14	w	وَأَنتُمْ		وانتم	while you	wa-antum
+2	2:83:15	w	تَشْهَدُونَ࣌		تشهدون	(were) witnessing	tashhadūna
+2	2:83:16	e	۝٨٣				
+3	2:84:1	w	ثُمَّ		ثم	Then	thumma
+3	2:84:2	w	أَنتُمْ		انتم	you	antum
+3	2:84:3	w	هَٰٓؤُلَآءِ		هولا	(are) those	hāulāi
+3	2:84:4	w	تَقْتُلُونَ		تقتلون	(who) kill	taqtulūna
+3	2:84:5	w	أَنفُسَكُمْ		انفسكم	yourselves	anfusakum
+3	2:84:6	w	وَتُخْرِجُونَ		وتخرجون	and evict	watukh'rijūna
+3	2:84:7	w	فَرِيقاࣰ		فريقا	a party	farīqan
+4	2:84:8	w	مِّنكُم		منكم	of you	minkum
+4	2:84:9	w	مِّن		من	from	min
+4	2:84:10	w	دِيٜـٰرِهِمْ		ديرهم	their homes	diyārihim
+4	2:84:11	w	تَظَّٰهَرُونَ		تظهرون	you support one another	taẓāharūna
+4	2:84:12	w	عَلَيْهِم		عليهم	against them	ʿalayhim
+4	2:84:13	w	بِالِاثْمِ		بالاثم	in sin	bil-ith'mi
+4	2:84:14	w	وَالْعُدْوَٰنِ࣌		والعدون	and [the] transgression	wal-ʿud'wāni
+5	2:84:15	w	۞ وَإِنْ		وان	And if	wa-in
+5	2:84:16	w	يَّاتُوكُمُۥٓ		ياتوكم	they come to you	yatūkum
+5	2:84:17	w	أُسَٰرٜىٰ		اسري	(as) captives	usārā
+5	2:84:18	w	تُفَٰدُوهُمْ		تفدوهم	you ransom them	tufādūhum
+5	2:84:19	w	وَهُوَ		وهو	while it	wahuwa
+5	2:84:20	w	مُحَرَّمٌ		محرم	(was) forbidden	muḥarramun
+5	2:84:21	w	عَلَيْكُمُۥٓ		عليكم	to you	ʿalaykum
+6	2:84:22	w	إِخْرَاجُهُمُۥٓ࣌		اخراجهم	their eviction	ikh'rājuhum
+6	2:84:23	w	أَفَتُومِنُونَ		افتومنون	So do you believe	afatu'minūna
+6	2:84:24	w	بِبَعْضِ		ببعض	in part (of)	bibaʿḍi
+6	2:84:25	w	ࡴ۬لْكِتَٰبِ		الكتب	the Book	l-kitābi
+6	2:84:26	w	وَتَكْفُرُونَ		وتكفرون	and disbelieve	watakfurūna
+6	2:84:27	w	بِبَعْضࣲ࣌		ببعض	in part	bibaʿḍin
+7	2:84:28	w	فَمَا		فما	Then what	famā
+7	2:84:29	w	جَزَآءُ		جزا	(should be the) recompense	jazāu
+7	2:84:30	w	مَنْ		من	(for the one) who	man
+7	2:84:31	w	يَّفْعَلُ		يفعل	does	yafʿalu
+7	2:84:32	w	ذَٰلِكَ		ذلك	that	dhālika
+7	2:84:33	w	مِنكُمُۥٓ		منكم	among you	minkum
+7	2:84:34	w	إِلَّا		الا	except	illā
+7	2:84:35	w	خِزْيࣱ		خزي	disgrace	khiz'yun
+7	2:84:36	w	فِے		في	in	fī
+7	2:84:37	w	ࡴ۬لْحَيَوٰةِ		الحيوة	the life	l-ḥayati
+8	2:84:38	w	ࡴ۬لدُّنْيٜا࣌		الدنيا	(of) the world	l-dun'yā
+8	2:84:39	w	وَيَوْمَ		ويوم	and (on the) Day	wayawma
+8	2:84:40	w	ࡰ۬لْقِيَٰمَةِ		القيمة	of [the] Resurrection	l-qiyāmati
+8	2:84:41	w	يُرَدُّونَ		يردون	they will be sent back	yuraddūna
+8	2:84:42	w	إِلَىٰٓ		الي	to	ilā
+8	2:84:43	w	أَشَدِّ		اشد	(the) most severe	ashaddi
+8	2:84:44	w	ࡴ۬لْعَذَابِ࣌		العذاب	punishment	l-ʿadhābi
+8	2:84:45	w	وَمَا		وما	And not	wamā
+8	2:84:46	w	ࡰ۬للَّهُ		الله	(is) Allah	l-lahu
+9	2:84:47	w	بِغَٰفِلٍ		بغفل	unaware	bighāfilin
+9	2:84:48	w	عَمَّا		عما	of what	ʿammā
+9	2:84:49	w	يَعْمَلُونَ࣌		يعملون	you do	taʿmalūna
+9	2:84:50	e	۝٨٤				
+9	2:85:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+9	2:85:2	w	ࡰ۬لذِينَ		الذين	(are) the ones who	alladhīna
+9	2:85:3	w	ࡰٜشْتَرَوُاْ		اشتروا	bought	ish'tarawū
+9	2:85:4	w	ࡲ۬لْحَيَوٰةَ		الحيوة	the life	l-ḥayata
+10	2:85:5	w	ࡰ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+10	2:85:6	w	بِالَاخِرَةِ		بالاخرة	for the Hereafter	bil-ākhirati
+10	2:85:7	w	فَلَا		فلا	so not	falā
+10	2:85:8	w	يُخَفَّفُ		يخفف	will be lightened	yukhaffafu
+10	2:85:9	w	عَنْهُمُ		عنهم	for them	ʿanhumu
+10	2:85:10	w	ࡲ۬لْعَذَابُ		العذاب	the punishment	l-ʿadhābu
+10	2:85:11	w	وَلَا		ولا	and not	walā
+10	2:85:12	w	هُمْ		هم	they	hum
+10	2:85:13	w	يُنصَرُونَ࣌		ينصرون	will be helped	yunṣarūna
+10	2:85:14	e	۝٨٥				
+11	2:86:1	w	وَلَقَدَ		ولقد	And indeed	walaqad
+11	2:86:2	w	اٰتَيْنَا		اتينا	We gave	ātaynā
+11	2:86:3	w	مُوسَى		موسي	Musa	mūsā
+11	2:86:4	w	ࡰ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+11	2:86:5	w	وَقَفَّيْنَا		وقفينا	and We followed up	waqaffaynā
+11	2:86:6	w	مِنۢ		من	from	min
+11	2:86:7	w	بَعْدِهِۦ		بعدهي	after him	baʿdihi
+12	2:86:8	w	بِالرُّسُلِ࣌		بالرسل	with [the] Messengers	bil-rusuli
+12	2:86:9	w	وَءَاتَيْنَا		واتينا	And We gave	waātaynā
+12	2:86:10	w	عِيسَى		عيسي	Isa	ʿīsā
+12	2:86:11	w	ࡰٜبْنَ		ابن	(the) son	ib'na
+12	2:86:12	w	مَرْيَمَ		مريم	(of) Maryam	maryama
+12	2:86:13	w	ࡰ۬لْبَيِّنَٰتِ		البينت	[the] clear signs	l-bayināti
+12	2:86:14	w	وَأَيَّدْنَٰهُ		وايدنه	and We supported him	wa-ayyadnāhu
+12	2:86:15	w	بِرُوحِ		بروح	(with)	birūḥi
+13	2:86:16	w	ࡴ۬لْقُدُسِ࣌		القدس	the Holy Spirit	l-qudusi
+13	2:86:17	w	أَفَكُلَّمَا		افكلما	Is it (not) so (that) whenever	afakullamā
+13	2:86:18	w	جَآءَكُمْ		جاكم	came to you	jāakum
+13	2:86:19	w	رَسُولُۢ		رسول	a Messenger	rasūlun
+13	2:86:20	w	بِمَا		بما	with what	bimā
+13	2:86:21	w	لَا		لا	(does) not	lā
+13	2:86:22	w	تَهْوٜىٰٓ		تهوي	desire	tahwā
+13	2:86:23	w	أَنفُسُكُمُ		انفسكم	yourselves	anfusukumu
+14	2:86:24	w	ࡲٜسْتَكْبَرْتُمْ࣌		استكبرتم	you acted arrogantly	is'takbartum
+14	2:86:25	w	فَفَرِيقاࣰ		ففريقا	So a party	fafarīqan
+14	2:86:26	w	كَذَّبْتُمْ࣌		كذبتم	you denied	kadhabtum
+14	2:86:27	w	وَفَرِيقاࣰ		وفريقا	and a party	wafarīqan
+14	2:86:28	w	تَقْتُلُونَ࣌		تقتلون	you kill(ed)	taqtulūna
+14	2:86:29	e	۝٨٦				
+14	2:87:1	w	وَقَالُواْ		وقالوا	And they said	waqālū
+15	2:87:2	w	قُلُوبُنَا		قلوبنا	Our hearts	qulūbunā
+15	2:87:3	w	غُلْفُۢ࣌		غلف	(are) wrapped	ghul'fun
+15	2:87:4	w	بَل		بل	Nay	bal
+15	2:87:5	w	لَّعَنَهُمُ		لعنهم	has cursed them	laʿanahumu
+15	2:87:6	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+15	2:87:7	w	بِكُفْرِهِمْ		بكفرهم	for their disbelief	bikuf'rihim
+15	2:87:8	w	فَقَلِيلاࣰ		فقليلا	so little	faqalīlan
+15	2:87:9	w	مَّا		ما	(is) what	mā
+15	2:87:10	w	يُومِنُونَ࣌		يومنون	they believe	yu'minūna
+15	2:87:11	e	۝٨٧				

@@ -1,0 +1,133 @@
+1	40:7:1	w	رَبَّنَا		ربنا	Our Lord	rabbanā
+1	40:7:2	w	وَأَدْخِلْهُمْ		وادخلهم	And admit them	wa-adkhil'hum
+1	40:7:3	w	جَنَّٰتِ		جنت	(to) Gardens	jannāti
+1	40:7:4	w	عَدْنٍ		عدن	(of) Eden	ʿadnin
+1	40:7:5	w	ࡴ۬لتِے		التي	which	allatī
+1	40:7:6	w	وَعَدتَّهُمْ		وعدتهم	You have promised them	waʿadttahum
+1	40:7:7	w	وَمَن		ومن	and whoever	waman
+1	40:7:8	w	صَلَحَ		صلح	(was) righteous	ṣalaḥa
+2	40:7:9	w	مِنَ		من	among	min
+2	40:7:10	w	اٰبَآئِهِمْ		ابايهم	their fathers	ābāihim
+2	40:7:11	w	وَأَزْوَٰجِهِمْ		وازوجهم	and their spouses	wa-azwājihim
+2	40:7:12	w	وَذُرِّيَّٰتِهِمُۥٓ࣌		وذريتهم	and their offspring	wadhurriyyātihim
+2	40:7:13	w	إِنَّكَ		انك	Indeed You	innaka
+2	40:7:14	w	أَنتَ		انت	You	anta
+2	40:7:15	w	ࡰ۬لْعَزِيزُ		العزيز	(are) the All-Mighty	l-ʿazīzu
+3	40:7:16	w	ࡲ۬لْحَكِيمُ࣌		الحكيم	the All-Wise	l-ḥakīmu
+3	40:7:17	e	۝٧				
+3	40:8:1	w	وَقِهِمُ		وقهم	And protect them	waqihimu
+3	40:8:2	w	ࡲ۬لسَّيِّـَٔاتِ࣌		السيات	(from) the evils	l-sayiāti
+3	40:8:3	w	وَمَن		ومن	And whoever	waman
+3	40:8:4	w	تَقِ		تق	you protect	taqi
+3	40:8:5	w	ࡴ۬لسَّيِّـَٔاتِ		السيات	(from) the evils	l-sayiāti
+3	40:8:6	w	يَوْمَئِذࣲ		يوميذ	that Day	yawma-idhin
+4	40:8:7	w	فَقَدْ		فقد	then verily	faqad
+4	40:8:8	w	رَحِمْتَهُۥ࣌		رحمته	You have bestowed mercy on him	raḥim'tahu
+4	40:8:9	w	وَذَٰلِكَ		وذلك	And that	wadhālika
+4	40:8:10	w	هُوَ		هو	[it]	huwa
+4	40:8:11	w	ࡰ۬لْفَوْزُ		الفوز	(is) the success	l-fawzu
+4	40:8:12	w	ࡲ۬لْعَظِيمُ࣌		العظيم	the great	l-ʿaẓīmu
+4	40:8:13	e	۝٨				
+4	40:9:1	w	إِنَّ		ان	Indeed	inna
+4	40:9:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+4	40:9:3	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+5	40:9:4	w	يُنَادَوْنَ		ينادون	will be cried out to them	yunādawna
+5	40:9:5	w	لَمَقْتُ		لمقت	Certainly Allah's hatred	lamaqtu
+5	40:9:6	w	ࡲ۬للَّهِ		الله	Certainly Allah's hatred	l-lahi
+5	40:9:7	w	أَكْبَرُ		اكبر	(was) greater	akbaru
+5	40:9:8	w	مِن		من	than	min
+5	40:9:9	w	مَّقْتِكُمُۥٓ		مقتكم	your hatred	maqtikum
+5	40:9:10	w	أَنفُسَكُمُۥٓ		انفسكم	(of) yourselves	anfusakum
+6	40:9:11	w	إِذْ		اذ	when	idh
+6	40:9:12	w	تُدْعَوْنَ		تدعون	you were called	tud'ʿawna
+6	40:9:13	w	إِلَى		الي	to	ilā
+6	40:9:14	w	ࡰ۬لِايمَٰنِ		الايمن	the faith	l-īmāni
+6	40:9:15	w	فَتَكْفُرُونَ࣌		فتكفرون	and you disbelieved	fatakfurūna
+6	40:9:16	e	۝٩				
+6	40:10:1	w	۞ قَالُواْ		قالوا	They (will) say	qālū
+6	40:10:2	w	رَبَّنَآ		ربنا	Our Lord	rabbanā
+7	40:10:3	w	أَمَتَّنَا		امتنا	You gave us death	amattanā
+7	40:10:4	w	ࡰٜثْنَتَيْنِ		اثنتين	twice	ith'natayni
+7	40:10:5	w	وَأَحْيَيْتَنَا		واحييتنا	and You gave us life	wa-aḥyaytanā
+7	40:10:6	w	ࡰٜثْنَتَيْنِ		اثنتين	twice	ith'natayni
+7	40:10:7	w	فَاعْتَرَفْنَا		فاعترفنا	and we confess	fa-iʿ'tarafnā
+7	40:10:8	w	بِذُنُوبِنَا		بذنوبنا	our sins	bidhunūbinā
+7	40:10:9	w	فَهَلِ		فهل	So is (there)	fahal
+8	40:10:10	w	ࡴلَىٰ		الي	to	ilā
+8	40:10:11	w	خُرُوجࣲ		خروج	get out	khurūjin
+8	40:10:12	w	مِّن		من	any	min
+8	40:10:13	w	سَبِيلࣲ࣌		سبيل	way	sabīlin
+8	40:10:14	e	۝١٠				
+8	40:11:1	w	ذَٰلِكُم		ذلكم	That	dhālikum
+8	40:11:2	w	بِأَنَّهُۥٓ		بانه	(is) because	bi-annahu
+8	40:11:3	w	إِذَا		اذا	when	idhā
+8	40:11:4	w	دُعِيَ		دعي	Allah was invoked	duʿiya
+8	40:11:5	w	ࡰ۬للَّهُ		الله	Allah was invoked	l-lahu
+8	40:11:6	w	وَحْدَهُۥ		وحده	Alone	waḥdahu
+9	40:11:7	w	كَفَرْتُمْ		كفرتم	you disbelieved	kafartum
+9	40:11:8	w	وَإِنْ		وان	but if	wa-in
+9	40:11:9	w	يُّشْرَكْ		يشرك	(others) were associated	yush'rak
+9	40:11:10	w	بِهِۦ		بهي	with Him	bihi
+9	40:11:11	w	تُومِنُواْ࣌		تومنوا	you believed	tu'minū
+9	40:11:12	w	فَالْحُكْمُ		فالحكم	So the judgment	fal-ḥuk'mu
+9	40:11:13	w	لِلهِ		لله	(is) with Allah	lillahi
+9	40:11:14	w	ࡴ۬لْعَلِيِّ		العلي	the Most High	l-ʿaliyi
+10	40:11:15	w	ࡴ۬لْكَبِيرِ࣌		الكبير	the Most Great	l-kabīri
+10	40:11:16	e	۝١١				
+10	40:12:1	w	هُوَ		هو	He	huwa
+10	40:12:2	w	ࡰ۬لذِے		الذي	(is) the One Who	alladhī
+10	40:12:3	w	يُرِيكُمُۥٓ		يريكم	shows you	yurīkum
+10	40:12:4	w	ءَايَٰتِهِۦ		ايتهي	His Signs	āyātihi
+10	40:12:5	w	وَيُنَزِّلُ		وينزل	and sends down	wayunazzilu
+10	40:12:6	w	لَكُم		لكم	for you	lakum
+10	40:12:7	w	مِّنَ		من	from	mina
+11	40:12:8	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+11	40:12:9	w	رِزْقاࣰ࣌		رزقا	provision	riz'qan
+11	40:12:10	w	وَمَا		وما	But (does) not	wamā
+11	40:12:11	w	يَتَذَكَّرُ		يتذكر	take heed	yatadhakkaru
+11	40:12:12	w	إِلَّا		الا	except	illā
+11	40:12:13	w	مَنْ		من	(one) who	man
+11	40:12:14	w	يُّنِيبُ࣌		ينيب	turns	yunību
+11	40:12:15	e	۝١٢				
+11	40:13:1	w	فَادْعُواْ		فادعوا	So invoke	fa-id'ʿū
+11	40:13:2	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+12	40:13:3	w	مُخْلِصِينَ		مخلصين	(being) sincere	mukh'liṣīna
+12	40:13:4	w	لَهُ		له	to Him	lahu
+12	40:13:5	w	ࡲ۬لدِّينَ		الدين	(in) the religion	l-dīna
+12	40:13:6	w	وَلَوْ		ولو	even though	walaw
+12	40:13:7	w	كَرِهَ		كره	dislike (it)	kariha
+12	40:13:8	w	ࡰ۬لْكَٰفِرُونَ࣌		الكفرون	the disbelievers	l-kāfirūna
+12	40:13:9	e	۝١٣				
+12	40:14:1	w	رَفِيعُ		رفيع	Possessor of the Highest Ranks	rafīʿu
+13	40:14:2	w	ࡲ۬لدَّرَجَٰتِ		الدرجت	Possessor of the Highest Ranks	l-darajāti
+13	40:14:3	w	ذُو		ذو	Owner (of) the Throne	dhū
+13	40:14:4	w	ࡲ۬لْعَرْشِ࣌		العرش	Owner (of) the Throne	l-ʿarshi
+13	40:14:5	w	يُلْقِے		يلقي	He places	yul'qī
+13	40:14:6	w	ࡴ۬لرُّوحَ		الروح	the inspiration	l-rūḥa
+13	40:14:7	w	مِنَ		من	of	min
+13	40:14:8	w	ࡰمْرِهِۦ		امرهي	His Command	amrihi
+13	40:14:9	w	عَلَىٰ		علي	upon	ʿalā
+13	40:14:10	w	مَنْ		من	whom	man
+13	40:14:11	w	يَّشَآءُ		يشا	He wills	yashāu
+14	40:14:12	w	مِنْ		من	of	min
+14	40:14:13	w	عِبَادِهِۦ		عبادهي	His slaves	ʿibādihi
+14	40:14:14	w	لِيُنذِرَ		لينذر	to warn	liyundhira
+14	40:14:15	w	يَوْمَ		يوم	(of the) Day	yawma
+14	40:14:16	w	ࡰ۬لتَّلَٰقِۦ		التلقي	(of) the Meeting	l-talāqi
+14	40:14:17	e	۝١٤				
+14	40:15:1	w	يَوْمَ		يوم	(The) Day	yawma
+14	40:15:2	w	هُم		هم	they	hum
+14	40:15:3	w	بَٰرِزُونَ࣌		برزون	come forth	bārizūna
+14	40:15:4	w	لَا		لا	not	lā
+14	40:15:5	w	يَخْفٜىٰ		يخفي	is hidden	yakhfā
+15	40:15:6	w	عَلَى		علي	from	ʿalā
+15	40:15:7	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+15	40:15:8	w	مِنْهُمْ		منهم	about them	min'hum
+15	40:15:9	w	شَےْءࣱ࣌		شي	anything	shayon
+15	40:15:10	w	لِّمَنِ		لمن	For whom	limani
+15	40:15:11	w	ࡴ۬لْمُلْكُ		الملك	(is) the Dominion	l-mul'ku
+15	40:15:12	w	ࡲ۬لْيَوْمَ࣌		اليوم	this Day	l-yawma
+15	40:15:13	w	لِلهِ		لله	For Allah	lillahi
+15	40:15:14	w	ࡴ۬لْوَٰحِدِ		الوحد	the One	l-wāḥidi
+15	40:15:15	w	ࡴ۬لْقَهّٜارِ࣌		القهار	the Irresistible	l-qahāri
+15	40:15:16	e	۝١٥				

@@ -1,0 +1,132 @@
+1	47:21:1	w	۞ وَيَقُولُ		ويقول	And say	wayaqūlu
+1	47:21:2	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+1	47:21:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+1	47:21:4	w	لَوْلَا		لولا	Why not	lawlā
+1	47:21:5	w	نُزِّلَتْ		نزلت	has been revealed	nuzzilat
+1	47:21:6	w	سُورَةࣱ࣌		سورة	a Surah	sūratun
+1	47:21:7	w	فَإِذَآ		فاذا	But when	fa-idhā
+1	47:21:8	w	أُنزِلَتْ		انزلت	is revealed	unzilat
+1	47:21:9	w	سُورَةࣱ		سورة	a Surah	sūratun
+2	47:21:10	w	مُّحْكَمَةࣱ		محكمة	precise	muḥ'kamatun
+2	47:21:11	w	وَذُكِرَ		وذكر	and is mentioned	wadhukira
+2	47:21:12	w	فِيهَا		فيها	in it	fīhā
+2	47:21:13	w	ࡰ۬لْقِتَالُ		القتال	the fighting	l-qitālu
+2	47:21:14	w	رَأَيْتَ		رايت	you see	ra-ayta
+2	47:21:15	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+2	47:21:16	w	فِے		في	in	fī
+2	47:21:17	w	قُلُوبِهِم		قلوبهم	their hearts	qulūbihim
+2	47:21:18	w	مَّرَضࣱ		مرض	(is) a disease	maraḍun
+3	47:21:19	w	يَنظُرُونَ		ينظرون	looking	yanẓurūna
+3	47:21:20	w	إِلَيْكَ		اليك	at you	ilayka
+3	47:21:21	w	نَظَرَ		نظر	a look	naẓara
+3	47:21:22	w	ࡰ۬لْمَغْشِيِّ		المغشي	(of) one fainting	l-maghshiyi
+3	47:21:23	w	عَلَيْهِ		عليه	(of) one fainting	ʿalayhi
+3	47:21:24	w	مِنَ		من	from	mina
+3	47:21:25	w	ࡰ۬لْمَوْتِ࣌		الموت	the death	l-mawti
+3	47:21:26	w	فَأَوْلٜىٰ		فاولي	But more appropriate	fa-awlā
+3	47:21:27	w	لَهُمْ࣌		لهم	for them	lahum
+3	47:21:28	e	۝٢١				
+4	47:22:1	w	طَاعَةࣱ		طاعة	(Is) obedience	ṭāʿatun
+4	47:22:2	w	وَقَوْلࣱ		وقول	and a word	waqawlun
+4	47:22:3	w	مَّعْرُوفࣱ࣌		معروف	kind	maʿrūfun
+4	47:22:4	w	فَإِذَا		فاذا	And when	fa-idhā
+4	47:22:5	w	عَزَمَ		عزم	(is) determined	ʿazama
+4	47:22:6	w	ࡰ۬لَامْرُ		الامر	the matter	l-amru
+4	47:22:7	w	فَلَوْ		فلو	then if	falaw
+4	47:22:8	w	صَدَقُواْ		صدقوا	they had been true	ṣadaqū
+4	47:22:9	w	ࡲ۬للَّهَ		الله	(to) Allah	l-laha
+5	47:22:10	w	لَكَانَ		لكان	surely, it would have been	lakāna
+5	47:22:11	w	خَيْراࣰ		خيرا	better	khayran
+5	47:22:12	w	لَّهُمْ࣌		لهم	for them	lahum
+5	47:22:13	e	۝٢٢				
+5	47:23:1	w	فَهَلْ		فهل	Then would	fahal
+5	47:23:2	w	عَسِيتُمُۥٓ		عسيتم	you perhaps	ʿasaytum
+5	47:23:3	w	إِن		ان	if	in
+5	47:23:4	w	تَوَلَّيْتُمُۥٓ		توليتم	you are given authority	tawallaytum
+5	47:23:5	w	أَن		ان	that	an
+5	47:23:6	w	تُفْسِدُواْ		تفسدوا	you cause corruption	tuf'sidū
+6	47:23:7	w	فِے		في	in	fī
+6	47:23:8	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+6	47:23:9	w	وَتُقَطِّعُوٓاْ		وتقطعوا	and cut off	watuqaṭṭiʿū
+6	47:23:10	w	أَرْحَامَكُمُۥٓ࣌		ارحامكم	your ties of kinship	arḥāmakum
+6	47:23:11	e	۝٢٣				
+6	47:24:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+6	47:24:2	w	ࡰ۬لذِينَ		الذين	(are) the ones	alladhīna
+6	47:24:3	w	لَعَنَهُمُ		لعنهم	Allah has cursed them	laʿanahumu
+7	47:24:4	w	ࡲ۬للَّهُ		الله	Allah has cursed them	l-lahu
+7	47:24:5	w	فَأَصَمَّهُمْ		فاصمهم	so He made them deaf	fa-aṣammahum
+7	47:24:6	w	وَأَعْمٜىٰٓ		واعمي	and blinded	wa-aʿmā
+7	47:24:7	w	أَبْصَٰرَهُمُۥٓ࣌		ابصرهم	their vision	abṣārahum
+7	47:24:8	e	۝٢٤				
+7	47:25:1	w	أَفَلَا		افلا	Then do not	afalā
+7	47:25:2	w	يَتَدَبَّرُونَ		يتدبرون	they ponder	yatadabbarūna
+7	47:25:3	w	ࡰ۬لْقُرْءَانَ		القران	(over) the Quran	l-qur'āna
+8	47:25:4	w	أَمْ		ام	or	am
+8	47:25:5	w	عَلَىٰ		علي	upon	ʿalā
+8	47:25:6	w	قُلُوبٍ		قلوب	(their) hearts	qulūbin
+8	47:25:7	w	ࡰقْفَالُهَآ࣌		اقفالها	(are) locks	aqfāluhā
+8	47:25:8	e	۝٢٥				
+8	47:26:1	w	إِنَّ		ان	Indeed	inna
+8	47:26:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+8	47:26:3	w	ࡰٜرْتَدُّواْ		ارتدوا	return	ir'taddū
+8	47:26:4	w	عَلَىٰٓ		علي	on	ʿalā
+8	47:26:5	w	أَدْبٜـٰرِهِم		ادبرهم	their backs	adbārihim
+9	47:26:6	w	مِّنۢ		من	after	min
+9	47:26:7	w	بَعْدِ		بعد	after	baʿdi
+9	47:26:8	w	مَا		ما	what	mā
+9	47:26:9	w	تَبَيَّنَ		تبين	(has) become clear	tabayyana
+9	47:26:10	w	لَهُمُ		لهم	to them	lahumu
+9	47:26:11	w	ࡲ۬لْهُدَى		الهدي	(of) the guidance	l-hudā
+9	47:26:12	w	ࡰ۬لشَّيْطَٰنُ		الشيطن	Shaitaan	l-shayṭānu
+9	47:26:13	w	سَوَّلَ		سول	enticed	sawwala
+9	47:26:14	w	لَهُمْ࣌		لهم	[for] them	lahum
+9	47:26:15	w	وَأَمْلٜىٰ		واملي	and prolonged hope	wa-amlā
+10	47:26:16	w	لَهُمْ࣌		لهم	for them	lahum
+10	47:26:17	e	۝٢٦				
+10	47:27:1	w	ذَٰلِكَ		ذلك	That	dhālika
+10	47:27:2	w	بِأَنَّهُمْ		بانهم	(is) because they	bi-annahum
+10	47:27:3	w	قَالُواْ		قالوا	[they] said	qālū
+10	47:27:4	w	لِلذِينَ		للذين	to those who	lilladhīna
+10	47:27:5	w	كَرِهُواْ		كرهوا	hate	karihū
+10	47:27:6	w	مَا		ما	what	mā
+10	47:27:7	w	نَزَّلَ		نزل	Allah has revealed	nazzala
+10	47:27:8	w	ࡰ۬للَّهُ		الله	Allah has revealed	l-lahu
+11	47:27:9	w	سَنُطِيعُكُمْ		سنطيعكم	We will obey you	sanuṭīʿukum
+11	47:27:10	w	فِے		في	in	fī
+11	47:27:11	w	بَعْضِ		بعض	part	baʿḍi
+11	47:27:12	w	ࡴ۬لَامْرِ࣌		الامر	(of) the matter	l-amri
+11	47:27:13	w	وَاللَّهُ		والله	But Allah	wal-lahu
+11	47:27:14	w	يَعْلَمُ		يعلم	knows	yaʿlamu
+11	47:27:15	w	أَسْرَارَهُمْ࣌		اسرارهم	their secrets	is'rārahum
+11	47:27:16	e	۝٢٧				
+12	47:28:1	w	فَكَيْفَ		فكيف	Then how	fakayfa
+12	47:28:2	w	إِذَا		اذا	when	idhā
+12	47:28:3	w	تَوَفَّتْهُمُ		توفتهم	take them in death	tawaffathumu
+12	47:28:4	w	ࡲ۬لْمَلَٰٓئِكَةُ		المليكة	the Angels	l-malāikatu
+12	47:28:5	w	يَضْرِبُونَ		يضربون	striking	yaḍribūna
+12	47:28:6	w	وُجُوهَهُمْ		وجوههم	their faces	wujūhahum
+13	47:28:7	w	وَأَدْبَٰرَهُمْ࣌		وادبرهم	and their backs	wa-adbārahum
+13	47:28:8	e	۝٢٨				
+13	47:29:1	w	ذَٰلِكَ		ذلك	That	dhālika
+13	47:29:2	w	بِأَنَّهُمُ		بانهم	(is) because they	bi-annahumu
+13	47:29:3	w	ࡲٜتَّبَعُواْ		اتبعوا	followed	ittabaʿū
+13	47:29:4	w	مَآ		ما	what	mā
+13	47:29:5	w	أَسْخَطَ		اسخط	angered	askhaṭa
+13	47:29:6	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+14	47:29:7	w	وَكَرِهُواْ		وكرهوا	and hated	wakarihū
+14	47:29:8	w	رِضْوَٰنَهُۥ		رضونه	His pleasure	riḍ'wānahu
+14	47:29:9	w	فَأَحْبَطَ		فاحبط	so He made worthless	fa-aḥbaṭa
+14	47:29:10	w	أَعْمَٰلَهُمُۥٓ࣌		اعملهم	their deeds	aʿmālahum
+14	47:29:11	e	۝٢٩				
+14	47:30:1	w	أَمْ		ام	Or do	am
+14	47:30:2	w	حَسِبَ		حسب	think	ḥasiba
+15	47:30:3	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+15	47:30:4	w	فِے		في	in	fī
+15	47:30:5	w	قُلُوبِهِم		قلوبهم	their hearts	qulūbihim
+15	47:30:6	w	مَّرَضٌ		مرض	(is) a disease	maraḍun
+15	47:30:7	w	ࡰن		ان	that	an
+15	47:30:8	w	لَّنْ		لن	never	lan
+15	47:30:9	w	يُّخْرِجَ		يخرج	will Allah bring forth	yukh'rija
+15	47:30:10	w	ࡰ۬للَّهُ		الله	will Allah bring forth	l-lahu
+15	47:30:11	w	أَضْغَٰنَهُمْ࣌		اضغنهم	their hatred	aḍghānahum
+15	47:30:12	e	۝٣٠				

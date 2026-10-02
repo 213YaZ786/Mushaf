@@ -1,0 +1,123 @@
+1	24:60:1	w	إِنَّمَا		انما	Only	innamā
+1	24:60:2	w	ࡰ۬لْمُومِنُونَ		المومنون	the believers	l-mu'minūna
+1	24:60:3	w	ࡰ۬لذِينَ		الذين	(are) those who	alladhīna
+1	24:60:4	w	ءَامَنُواْ		امنوا	believe	āmanū
+1	24:60:5	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+1	24:60:6	w	وَرَسُولِهِۦ		ورسولهي	and His Messenger	warasūlihi
+1	24:60:7	w	وَإِذَا		واذا	and when	wa-idhā
+1	24:60:8	w	كَانُواْ		كانوا	they are	kānū
+1	24:60:9	w	مَعَهُۥ		معه	with him	maʿahu
+2	24:60:10	w	عَلَىٰٓ		علي	for	ʿalā
+2	24:60:11	w	أَمْرࣲ		امر	a matter	amrin
+2	24:60:12	w	جَامِعࣲ		جامع	(of) collective action	jāmiʿin
+2	24:60:13	w	لَّمْ		لم	not	lam
+2	24:60:14	w	يَذْهَبُواْ		يذهبوا	they go	yadhhabū
+2	24:60:15	w	حَتَّىٰ		حتي	until	ḥattā
+2	24:60:16	w	يَسْتَٰذِنُوهُ࣌		يستذنوه	they (have) asked his permission	yastadhinūhu
+2	24:60:17	w	إِنَّ		ان	Indeed	inna
+2	24:60:18	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+3	24:60:19	w	يَسْتَٰذِنُونَكَ		يستذنونك	ask your permission	yastadhinūnaka
+3	24:60:20	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+3	24:60:21	w	ࡰ۬لذِينَ		الذين	[those who]	alladhīna
+3	24:60:22	w	يُومِنُونَ		يومنون	believe	yu'minūna
+3	24:60:23	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+3	24:60:24	w	وَرَسُولِهِۦ࣌		ورسولهي	and His Messenger	warasūlihi
+3	24:60:25	w	فَإِذَا		فاذا	So when	fa-idhā
+4	24:60:26	w	ࡰٜسْتَٰذَنُوكَ		استذنوك	they ask your permission	is'tadhanūka
+4	24:60:27	w	لِبَعْضِ		لبعض	for some	libaʿḍi
+4	24:60:28	w	شَأْنِهِمْ		شانهم	affair of theirs	shanihim
+4	24:60:29	w	فَاذَن		فاذن	then give permission	fadhan
+4	24:60:30	w	لِّمَن		لمن	to whom	liman
+4	24:60:31	w	شِئْتَ		شيت	you will	shi'ta
+4	24:60:32	w	مِنْهُمْ		منهم	among them	min'hum
+4	24:60:33	w	وَاسْتَغْفِرْ		واستغفر	and ask forgiveness	wa-is'taghfir
+5	24:60:34	w	لَهُمُ		لهم	for them	lahumu
+5	24:60:35	w	ࡲ۬للَّهَ࣌		الله	(of) Allah	l-laha
+5	24:60:36	w	إِنَّ		ان	Indeed	inna
+5	24:60:37	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	24:60:38	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+5	24:60:39	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+5	24:60:40	e	۝٦٠				
+5	24:61:1	w	۞ لَّا		لا	(Do) not	lā
+5	24:61:2	w	تَجْعَلُواْ		تجعلوا	make	tajʿalū
+5	24:61:3	w	دُعَآءَ		دعا	(the) calling	duʿāa
+5	24:61:4	w	ࡰ۬لرَّسُولِ		الرسول	(of) the Messenger	l-rasūli
+6	24:61:5	w	بَيْنَكُمْ		بينكم	among you	baynakum
+6	24:61:6	w	كَدُعَآءِ		كدعا	as (the) call	kaduʿāi
+6	24:61:7	w	بَعْضِكُم		بعضكم	(of) some of you	baʿḍikum
+6	24:61:8	w	بَعْضاࣰ࣌		بعضا	(to) others	baʿḍan
+6	24:61:9	w	قَدْ		قد	Verily	qad
+6	24:61:10	w	يَعْلَمُ		يعلم	Allah knows	yaʿlamu
+6	24:61:11	w	ࡲ۬للَّهُ		الله	Allah knows	l-lahu
+6	24:61:12	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+7	24:61:13	w	يَتَسَلَّلُونَ		يتسللون	slip away	yatasallalūna
+7	24:61:14	w	مِنكُمْ		منكم	among you	minkum
+7	24:61:15	w	لِوَاذاࣰ࣌		لواذا	under shelter	liwādhan
+7	24:61:16	w	فَلْيَحْذَرِ		فليحذر	So let beware	falyaḥdhari
+7	24:61:17	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+7	24:61:18	w	يُخَالِفُونَ		يخالفون	oppose	yukhālifūna
+7	24:61:19	w	عَنَ		عن	[from]	ʿan
+7	24:61:20	w	ࡰمْرِهِۦٓ		امرهي	his orders	amrihi
+8	24:61:21	w	أَن		ان	lest	an
+8	24:61:22	w	تُصِيبَهُمْ		تصيبهم	befalls them	tuṣībahum
+8	24:61:23	w	فِتْنَةٌ		فتنة	a trial	fit'natun
+8	24:61:24	w	ࡰوْ		او	or	aw
+8	24:61:25	w	يُصِيبَهُمْ		يصيبهم	befalls them	yuṣībahum
+8	24:61:26	w	عَذَابٌ		عذاب	a punishment	ʿadhābun
+8	24:61:27	w	ࡰلِيمٌ࣌		اليم	painful	alīmun
+8	24:61:28	e	۝٦١				
+8	24:62:1	w	ࡰلَآ		الا	No doubt	alā
+8	24:62:2	w	إِنَّ		ان	Indeed	inna
+8	24:62:3	w	لِلهِ		لله	to Allah (belongs)	lillahi
+9	24:62:4	w	مَا		ما	whatever	mā
+9	24:62:5	w	فِے		في	(is) in	fī
+9	24:62:6	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+9	24:62:7	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+9	24:62:8	w	قَدْ		قد	Verily	qad
+9	24:62:9	w	يَعْلَمُ		يعلم	He knows	yaʿlamu
+9	24:62:10	w	مَآ		ما	what	mā
+9	24:62:11	w	أَنتُمْ		انتم	you	antum
+9	24:62:12	w	عَلَيْهِ࣌		عليه	(are) on [it]	ʿalayhi
+9	24:62:13	w	وَيَوْمَ		ويوم	And (the) Day	wayawma
+10	24:62:14	w	يُرْجَعُونَ		يرجعون	they will be returned	yur'jaʿūna
+10	24:62:15	w	إِلَيْهِ		اليه	to Him	ilayhi
+10	24:62:16	w	فَيُنَبِّئُهُم		فينبيهم	then He will inform them	fayunabbi-uhum
+10	24:62:17	w	بِمَا		بما	of what	bimā
+10	24:62:18	w	عَمِلُواْ࣌		عملوا	they did	ʿamilū
+10	24:62:19	w	وَاللَّهُ		والله	And Allah	wal-lahu
+10	24:62:20	w	بِكُلِّ		بكل	of every	bikulli
+10	24:62:21	w	شَےْءٍ		شي	thing	shayin
+10	24:62:22	w	عَلِيمࣱ࣌		عليم	(is) All-Knower	ʿalīmun
+10	24:62:23	e	۝٦٢				
+11	25:0:0	t					
+12	25:0:0	b					
+13	25:1:1	w	تَبَٰرَكَ		تبرك	Blessed is He	tabāraka
+13	25:1:2	w	ࡰ۬لذِے		الذي	Who	alladhī
+13	25:1:3	w	نَزَّلَ		نزل	sent down	nazzala
+13	25:1:4	w	ࡰ۬لْفُرْقَانَ		الفرقان	the Criterion	l-fur'qāna
+13	25:1:5	w	عَلَىٰ		علي	upon	ʿalā
+13	25:1:6	w	عَبْدِهِۦ		عبدهي	His slave	ʿabdihi
+13	25:1:7	w	لِيَكُونَ		ليكون	that he may be	liyakūna
+13	25:1:8	w	لِلْعَٰلَمِينَ		للعلمين	to the worlds	lil'ʿālamīna
+13	25:1:9	w	نَذِيراً࣌		نذيرا	a warner	nadhīran
+13	25:1:10	e	۝١				
+14	25:2:1	w	ࡴ۬لذِے		الذي	The One Who	alladhī
+14	25:2:2	w	لَهُۥ		له	to Him (belongs)	lahu
+14	25:2:3	w	مُلْكُ		ملك	(the) dominion	mul'ku
+14	25:2:4	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+14	25:2:5	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+14	25:2:6	w	وَلَمْ		ولم	and not	walam
+14	25:2:7	w	يَتَّخِذْ		يتخذ	He has taken	yattakhidh
+14	25:2:8	w	وَلَداࣰ		ولدا	a son	waladan
+14	25:2:9	w	وَلَمْ		ولم	and not	walam
+15	25:2:10	w	يَكُن		يكن	He has	yakun
+15	25:2:11	w	لَّهُۥ		له	for Him	lahu
+15	25:2:12	w	شَرِيكࣱ		شريك	a partner	sharīkun
+15	25:2:13	w	فِے		في	in	fī
+15	25:2:14	w	ࡴ۬لْمُلْكِ࣌		الملك	the dominion	l-mul'ki
+15	25:2:15	w	وَخَلَقَ		وخلق	and He (has) created	wakhalaqa
+15	25:2:16	w	كُلَّ		كل	every	kulla
+15	25:2:17	w	شَےْءࣲ		شي	thing	shayin
+15	25:2:18	w	فَقَدَّرَهُۥ		فقدره	and determined it	faqaddarahu
+15	25:2:19	w	تَقْدِيراࣰ࣌		تقديرا	(with) determination	taqdīran
+15	25:2:20	e	۝٢				

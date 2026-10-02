@@ -1,0 +1,154 @@
+1	36:40:1	w	وَءَايَةࣱ		واية	And a Sign	waāyatun
+1	36:40:2	w	لَّهُمُۥٓ		لهم	for them	lahum
+1	36:40:3	w	أَنَّا		انا	(is) that	annā
+1	36:40:4	w	حَمَلْنَا		حملنا	We carried	ḥamalnā
+1	36:40:5	w	ذُرِّيَّٰتِهِمْ		ذريتهم	their offspring	dhurriyyatahum
+1	36:40:6	w	فِے		في	in	fī
+1	36:40:7	w	ࡴ۬لْفُلْكِ		الفلك	the ship	l-ful'ki
+1	36:40:8	w	ࡴ۬لْمَشْحُونِ		المشحون	laden	l-mashḥūni
+1	36:40:9	e	۝٤٠				
+2	36:41:1	w	وَخَلَقْنَا		وخلقنا	And We created	wakhalaqnā
+2	36:41:2	w	لَهُم		لهم	for them	lahum
+2	36:41:3	w	مِّن		من	from	min
+2	36:41:4	w	مِّثْلِهِۦ		مثلهي	(the) likes of it	mith'lihi
+2	36:41:5	w	مَا		ما	what	mā
+2	36:41:6	w	يَرْكَبُونَ࣌		يركبون	they ride	yarkabūna
+2	36:41:7	e	۝٤١				
+2	36:42:1	w	وَإِن		وان	And if	wa-in
+2	36:42:2	w	نَّشَأْ		نشا	We will	nasha
+2	36:42:3	w	نُغْرِقْهُمْ		نغرقهم	We could drown them	nugh'riq'hum
+2	36:42:4	w	فَلَا		فلا	then not	falā
+3	36:42:5	w	صَرِيخَ		صريخ	(would be) a responder to a cry	ṣarīkha
+3	36:42:6	w	لَهُمْ		لهم	for them	lahum
+3	36:42:7	w	وَلَا		ولا	and not	walā
+3	36:42:8	w	هُمْ		هم	they	hum
+3	36:42:9	w	يُنقَذُونَ		ينقذون	would be saved	yunqadhūna
+3	36:42:10	e	۝٤٢				
+3	36:43:1	w	إِلَّا		الا	Except	illā
+3	36:43:2	w	رَحْمَةࣰ		رحمة	(by) Mercy	raḥmatan
+3	36:43:3	w	مِّنَّا		منا	from Us	minnā
+3	36:43:4	w	وَمَتَٰعاً		ومتعا	and provision	wamatāʿan
+3	36:43:5	w	ࡴلَىٰ		الي	for	ilā
+3	36:43:6	w	حِينࣲ࣌		حين	a time	ḥīnin
+3	36:43:7	e	۝٤٣				
+4	36:44:1	w	وَإِذَا		واذا	And when	wa-idhā
+4	36:44:2	w	قِيلَ		قيل	it is said	qīla
+4	36:44:3	w	لَهُمُ		لهم	to them	lahumu
+4	36:44:4	w	ࡲٜتَّقُواْ		اتقوا	Fear	ittaqū
+4	36:44:5	w	مَا		ما	what	mā
+4	36:44:6	w	بَيْنَ		بين	(is) before you	bayna
+4	36:44:7	w	أَيْدِيكُمْ		ايديكم	(is) before you	aydīkum
+4	36:44:8	w	وَمَا		وما	and what	wamā
+4	36:44:9	w	خَلْفَكُمْ		خلفكم	(is) behind you	khalfakum
+4	36:44:10	w	لَعَلَّكُمْ		لعلكم	so that you may	laʿallakum
+5	36:44:11	w	تُرْحَمُونَ࣌		ترحمون	receive mercy	tur'ḥamūna
+5	36:44:12	e	۝٤٤				
+5	36:45:1	w	۞ وَمَا		وما	And not	wamā
+5	36:45:2	w	تَاتِيهِم		تاتيهم	comes to them	tatīhim
+5	36:45:3	w	مِّنَ		من	of	min
+5	36:45:4	w	اٰيَةࣲ		اية	a Sign	āyatin
+5	36:45:5	w	مِّنَ		من	from	min
+5	36:45:6	w	اٰيَٰتِ		ايت	(the) Signs	āyāti
+5	36:45:7	w	رَبِّهِمُۥٓ		ربهم	(of) their Lord	rabbihim
+5	36:45:8	w	إِلَّا		الا	but	illā
+5	36:45:9	w	كَانُواْ		كانوا	they	kānū
+6	36:45:10	w	عَنْهَا		عنها	from it	ʿanhā
+6	36:45:11	w	مُعْرِضِينَ࣌		معرضين	turn away	muʿ'riḍīna
+6	36:45:12	e	۝٤٥				
+6	36:46:1	w	وَإِذَا		واذا	And when	wa-idhā
+6	36:46:2	w	قِيلَ		قيل	it is said	qīla
+6	36:46:3	w	لَهُمُۥٓ		لهم	to them	lahum
+6	36:46:4	w	أَنفِقُواْ		انفقوا	Spend	anfiqū
+6	36:46:5	w	مِمَّا		مما	from what	mimmā
+6	36:46:6	w	رَزَقَكُمُ		رزقكم	(has) provided you	razaqakumu
+6	36:46:7	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+7	36:46:8	w	قَالَ		قال	Said	qāla
+7	36:46:9	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	36:46:10	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+7	36:46:11	w	لِلذِينَ		للذين	to those who	lilladhīna
+7	36:46:12	w	ءَامَنُوٓاْ		امنوا	believed	āmanū
+7	36:46:13	w	أَنُطْعِمُ		انطعم	Should we feed	anuṭ'ʿimu
+7	36:46:14	w	مَن		من	whom	man
+7	36:46:15	w	لَّوْ		لو	if	law
+7	36:46:16	w	يَشَآءُ		يشا	Allah willed	yashāu
+7	36:46:17	w	ࡲ۬للَّهُ		الله	Allah willed	l-lahu
+8	36:46:18	w	أَطْعَمَهُۥٓ		اطعمه	He would have fed him	aṭʿamahu
+8	36:46:19	w	إِنَ		ان	Not	in
+8	36:46:20	w	ࡰنتُمُۥٓ		انتم	(are) you	antum
+8	36:46:21	w	إِلَّا		الا	except	illā
+8	36:46:22	w	فِے		في	in	fī
+8	36:46:23	w	ضَلَٰلࣲ		ضلل	an error	ḍalālin
+8	36:46:24	w	مُّبِينࣲ࣌		مبين	clear	mubīnin
+8	36:46:25	e	۝٤٦				
+8	36:47:1	w	وَيَقُولُونَ		ويقولون	And they say	wayaqūlūna
+8	36:47:2	w	مَتٜىٰ		متي	When (is)	matā
+8	36:47:3	w	هَٰذَا		هذا	this	hādhā
+9	36:47:4	w	ࡰ۬لْوَعْدُ		الوعد	promise	l-waʿdu
+9	36:47:5	w	إِن		ان	if	in
+9	36:47:6	w	كُنتُمْ		كنتم	you are	kuntum
+9	36:47:7	w	صَٰدِقِينَ࣌		صدقين	truthful	ṣādiqīna
+9	36:47:8	e	۝٤٧				
+9	36:48:1	w	مَا		ما	Not	mā
+9	36:48:2	w	يَنظُرُونَ		ينظرون	they await	yanẓurūna
+9	36:48:3	w	إِلَّا		الا	except	illā
+9	36:48:4	w	صَيْحَةࣰ		صيحة	a shout	ṣayḥatan
+9	36:48:5	w	وَٰحِدَةࣰ		وحدة	one	wāḥidatan
+10	36:48:6	w	تَاخُذُهُمْ		تاخذهم	it will seize them	takhudhuhum
+10	36:48:7	w	وَهُمْ		وهم	while they	wahum
+10	36:48:8	w	يَخَصِّمُونَ࣌		يخصمون	are disputing	yakhiṣṣimūna
+10	36:48:9	e	۝٤٨				
+10	36:49:1	w	فَلَا		فلا	Then not	falā
+10	36:49:2	w	يَسْتَطِيعُونَ		يستطيعون	they will be able	yastaṭīʿūna
+10	36:49:3	w	تَوْصِيَةࣰ		توصية	(to) make a will	tawṣiyatan
+10	36:49:4	w	وَلَآ		ولا	and not	walā
+10	36:49:5	w	إِلَىٰٓ		الي	to	ilā
+11	36:49:6	w	أَهْلِهِمْ		اهلهم	their people	ahlihim
+11	36:49:7	w	يَرْجِعُونَ࣌		يرجعون	they (can) return	yarjiʿūna
+11	36:49:8	e	۝٤٩				
+11	36:50:1	w	وَنُفِخَ		ونفخ	And will be blown	wanufikha
+11	36:50:2	w	فِے		في	[in]	fī
+11	36:50:3	w	ࡴ۬لصُّورِ		الصور	the trumpet	l-ṣūri
+11	36:50:4	w	فَإِذَا		فاذا	and behold	fa-idhā
+11	36:50:5	w	هُم		هم	They	hum
+11	36:50:6	w	مِّنَ		من	from	mina
+11	36:50:7	w	ࡰ۬لَاجْدَاثِ		الاجداث	the graves	l-ajdāthi
+11	36:50:8	w	إِلَىٰ		الي	to	ilā
+12	36:50:9	w	رَبِّهِمْ		ربهم	their Lord	rabbihim
+12	36:50:10	w	يَنسِلُونَ࣌		ينسلون	[they] will hasten	yansilūna
+12	36:50:11	e	۝٥٠				
+12	36:51:1	w	قَالُواْ		قالوا	They [will] say	qālū
+12	36:51:2	w	يَٰوَيْلَنَا		يويلنا	O woe to us	yāwaylanā
+12	36:51:3	w	مَنۢ		من	Who	man
+12	36:51:4	w	بَعَثَنَا		بعثنا	has raised us	baʿathanā
+12	36:51:5	w	مِن		من	from	min
+12	36:51:6	w	مَّرْقَدِنَا࣌		مرقدنا	our sleeping place	marqadinā
+12	36:51:7	w	هَٰذَا		هذا	This (is)	hādhā
+13	36:51:8	w	مَا		ما	What	mā
+13	36:51:9	w	وَعَدَ		وعد	(had) promised	waʿada
+13	36:51:10	w	ࡰ۬لرَّحْمَٰنُ		الرحمن	the Most Gracious	l-raḥmānu
+13	36:51:11	w	وَصَدَقَ		وصدق	and told (the) truth	waṣadaqa
+13	36:51:12	w	ࡰ۬لْمُرْسَلُونَ࣌		المرسلون	the Messengers	l-mur'salūna
+13	36:51:13	e	۝٥١				
+13	36:52:1	w	إِن		ان	Not	in
+13	36:52:2	w	كَانَتِ		كانت	it will be	kānat
+13	36:52:3	w	ࡴلَّا		الا	but	illā
+13	36:52:4	w	صَيْحَةࣰ		صيحة	a shout	ṣayḥatan
+14	36:52:5	w	وَٰحِدَةࣰ		وحدة	single	wāḥidatan
+14	36:52:6	w	فَإِذَا		فاذا	so behold	fa-idhā
+14	36:52:7	w	هُمْ		هم	They	hum
+14	36:52:8	w	جَمِيعࣱ		جميع	all	jamīʿun
+14	36:52:9	w	لَّدَيْنَا		لدينا	before Us	ladaynā
+14	36:52:10	w	مُحْضَرُونَ࣌		محضرون	(will be) brought	muḥ'ḍarūna
+14	36:52:11	e	۝٥٢				
+14	36:53:1	w	فَالْيَوْمَ		فاليوم	So this Day	fal-yawma
+14	36:53:2	w	لَا		لا	not	lā
+14	36:53:3	w	تُظْلَمُ		تظلم	will be wronged	tuẓ'lamu
+15	36:53:4	w	نَفْسࣱ		نفس	a soul	nafsun
+15	36:53:5	w	شَيْـٔاࣰ		شيا	(in) anything	shayan
+15	36:53:6	w	وَلَا		ولا	and not	walā
+15	36:53:7	w	تُجْزَوْنَ		تجزون	you will be recompensed	tuj'zawna
+15	36:53:8	w	إِلَّا		الا	except	illā
+15	36:53:9	w	مَا		ما	(for) what	mā
+15	36:53:10	w	كُنتُمْ		كنتم	you used (to)	kuntum
+15	36:53:11	w	تَعْمَلُونَ࣌		تعملون	do	taʿmalūna
+15	36:53:12	e	۝٥٣				

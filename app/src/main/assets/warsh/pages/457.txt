@@ -1,0 +1,171 @@
+1	38:61:1	w	وَقَالُواْ		وقالوا	And they (will) say	waqālū
+1	38:61:2	w	مَا		ما	What (is)	mā
+1	38:61:3	w	لَنَا		لنا	for us	lanā
+1	38:61:4	w	لَا		لا	not	lā
+1	38:61:5	w	نَرٜىٰ		نري	we see	narā
+1	38:61:6	w	رِجَالاࣰ		رجالا	men	rijālan
+1	38:61:7	w	كُنَّا		كنا	we used to	kunnā
+1	38:61:8	w	نَعُدُّهُم		نعدهم	count them	naʿudduhum
+1	38:61:9	w	مِّنَ		من	among	mina
+1	38:61:10	w	ࡰ۬لَاشْرٜارِ࣌		الاشرار	the bad ones	l-ashrāri
+1	38:61:11	e	۝٦١				
+1	38:62:1	w	أَتَّخَذْنَٰهُمْ		اتخذنهم	Did we take them	attakhadhnāhum
+2	38:62:2	w	سُخْرِيّاً		سخريا	(in) ridicule	sikh'riyyan
+2	38:62:3	w	ࡰمْ		ام	or	am
+2	38:62:4	w	زَاغَتْ		زاغت	has turned away	zāghat
+2	38:62:5	w	عَنْهُمُ		عنهم	from them	ʿanhumu
+2	38:62:6	w	ࡲ۬لَابْصَٰرُ࣌		الابصر	the vision	l-abṣāru
+2	38:62:7	e	۝٦٢				
+2	38:63:1	w	إِنَّ		ان	Indeed	inna
+2	38:63:2	w	ذَٰلِكَ		ذلك	that	dhālika
+2	38:63:3	w	لَحَقࣱّ		لحق	(is) surely (the) truth	laḥaqqun
+2	38:63:4	w	تَخَاصُمُ		تخاصم	(the) quarreling	takhāṣumu
+2	38:63:5	w	أَهْلِ		اهل	(of the) people	ahli
+3	38:63:6	w	ࡴ۬لنّٜارِ࣌		النار	(of) the Fire	l-nāri
+3	38:63:7	e	۝٦٣				
+3	38:64:1	w	قُلِ		قل	Say	qul
+3	38:64:2	w	ࡴنَّمَآ		انما	Only	innamā
+3	38:64:3	w	أَنَا		انا	I am	anā
+3	38:64:4	w	مُنذِرࣱ࣌		منذر	a warner	mundhirun
+3	38:64:5	w	وَمَا		وما	and not	wamā
+3	38:64:6	w	مِنِ		من	(is there) any	min
+3	38:64:7	w	ࡴلَٰهٍ		اله	god	ilāhin
+3	38:64:8	w	ࡴلَّا		الا	except	illā
+3	38:64:9	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+3	38:64:10	w	ࡲ۬لْوَٰحِدُ		الوحد	the One	l-wāḥidu
+3	38:64:11	w	ࡲ۬لْقَهَّارُ࣌		القهار	the Irresistible	l-qahāru
+3	38:64:12	e	۝٦٤				
+4	38:65:1	w	رَبُّ		رب	Lord	rabbu
+4	38:65:2	w	ࡲ۬لسَّمَٰوَٰتِ		السموت	(of) the heavens	l-samāwāti
+4	38:65:3	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+4	38:65:4	w	وَمَا		وما	and whatever	wamā
+4	38:65:5	w	بَيْنَهُمَا࣌		بينهما	(is) between them	baynahumā
+4	38:65:6	w	ࡰ۬لْعَزِيزُ		العزيز	the All-Mighty	l-ʿazīzu
+4	38:65:7	w	ࡲ۬لْغَفَّٰرُ࣌		الغفر	the Oft-Forgiving	l-ghafāru
+4	38:65:8	e	۝٦٥				
+4	38:66:1	w	قُلْ		قل	Say	qul
+4	38:66:2	w	هُوَ		هو	It (is)	huwa
+4	38:66:3	w	نَبَؤٌاْ		نبوا	a news	naba-on
+5	38:66:4	w	عَظِيمٌ		عظيم	great	ʿaẓīmun
+5	38:66:5	e	۝٦٦				
+5	38:67:1	w	ࡰنتُمْ		انتم	You	antum
+5	38:67:2	w	عَنْهُ		عنه	from it	ʿanhu
+5	38:67:3	w	مُعْرِضُونَ࣌		معرضون	turn away	muʿ'riḍūna
+5	38:67:4	e	۝٦٧				
+5	38:68:1	w	مَا		ما	Not	mā
+5	38:68:2	w	كَانَ		كان	is	kāna
+5	38:68:3	w	لِے		لي	for me	liya
+5	38:68:4	w	مِنْ		من	any	min
+5	38:68:5	w	عِلْمِۢ		علم	knowledge	ʿil'min
+5	38:68:6	w	بِالْمَلَإِ		بالملا	(of) the chiefs	bil-mala-i
+5	38:68:7	w	ࡴ۬لَاعْلٜىٰٓ		الاعلي	the exalted	l-aʿlā
+6	38:68:8	w	إِذْ		اذ	when	idh
+6	38:68:9	w	يَخْتَصِمُونَ࣌		يختصمون	they were disputing	yakhtaṣimūna
+6	38:68:10	e	۝٦٨				
+6	38:69:1	w	إِنْ		ان	Not	in
+6	38:69:2	w	يُّوحٜىٰٓ		يوحي	has been revealed	yūḥā
+6	38:69:3	w	إِلَيَّ		الي	to me	ilayya
+6	38:69:4	w	إِلَّآ		الا	except	illā
+6	38:69:5	w	أَنَّمَآ		انما	that only	annamā
+6	38:69:6	w	أَنَا		انا	I am	anā
+6	38:69:7	w	نَذِيرࣱ		نذير	a warner	nadhīrun
+6	38:69:8	w	مُّبِينٌ࣌		مبين	clear	mubīnun
+6	38:69:9	e	۝٦٩				
+6	38:70:1	w	ࡴذْ		اذ	When	idh
+6	38:70:2	w	قَالَ		قال	said	qāla
+7	38:70:3	w	رَبُّكَ		ربك	your Lord	rabbuka
+7	38:70:4	w	لِلْمَلَٰٓئِكَةِ		للمليكة	to the Angels	lil'malāikati
+7	38:70:5	w	إِنِّے		اني	Indeed, I Am	innī
+7	38:70:6	w	خَٰلِقُۢ		خلق	going to create	khāliqun
+7	38:70:7	w	بَشَراࣰ		بشرا	a human being	basharan
+7	38:70:8	w	مِّن		من	from	min
+7	38:70:9	w	طِينࣲ		طين	clay	ṭīnin
+7	38:70:10	e	۝٧٠				
+7	38:71:1	w	فَإِذَا		فاذا	So when	fa-idhā
+7	38:71:2	w	سَوَّيْتُهُۥ		سويته	I have proportioned him	sawwaytuhu
+7	38:71:3	w	وَنَفَخْتُ		ونفخت	and breathed	wanafakhtu
+8	38:71:4	w	فِيهِ		فيه	into him	fīhi
+8	38:71:5	w	مِن		من	of	min
+8	38:71:6	w	رُّوحِے		روحي	My spirit	rūḥī
+8	38:71:7	w	فَقَعُواْ		فقعوا	then fall down	faqaʿū
+8	38:71:8	w	لَهُۥ		له	to him	lahu
+8	38:71:9	w	سَٰجِدِينَ࣌		سجدين	prostrating	sājidīna
+8	38:71:10	e	۝٧١				
+8	38:72:1	w	فَسَجَدَ		فسجد	So prostrated	fasajada
+8	38:72:2	w	ࡰ۬لْمَلَٰٓئِكَةُ		المليكة	the Angels	l-malāikatu
+8	38:72:3	w	كُلُّهُمُۥٓ		كلهم	all of them	kulluhum
+9	38:72:4	w	أَجْمَعُونَ		اجمعون	together	ajmaʿūna
+9	38:72:5	e	۝٧٢				
+9	38:73:1	w	إِلَّآ		الا	Except	illā
+9	38:73:2	w	إِبْلِيسَ		ابليس	Iblis	ib'līsa
+9	38:73:3	w	ࡰٜسْتَكْبَرَ		استكبر	he was arrogant	is'takbara
+9	38:73:4	w	وَكَانَ		وكان	and became	wakāna
+9	38:73:5	w	مِنَ		من	of	mina
+9	38:73:6	w	ࡰ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+9	38:73:7	e	۝٧٣				
+9	38:74:1	w	قَالَ		قال	He said	qāla
+10	38:74:2	w	يَٰٓإِبْلِيسُ		يابليس	O Iblis	yāib'līsu
+10	38:74:3	w	مَا		ما	What	mā
+10	38:74:4	w	مَنَعَكَ		منعك	prevented you	manaʿaka
+10	38:74:5	w	أَن		ان	that	an
+10	38:74:6	w	تَسْجُدَ		تسجد	you (should) prostrate	tasjuda
+10	38:74:7	w	لِمَا		لما	to (one) whom	limā
+10	38:74:8	w	خَلَقْتُ		خلقت	I created	khalaqtu
+10	38:74:9	w	بِيَدَيَّ		بيدي	with My Hands	biyadayya
+10	38:74:10	w	أَسْتَكْبَرْتَ		استكبرت	Are you arrogant	astakbarta
+10	38:74:11	w	أَمْ		ام	or	am
+11	38:74:12	w	كُنتَ		كنت	are you	kunta
+11	38:74:13	w	مِنَ		من	of	mina
+11	38:74:14	w	ࡰ۬لْعَالِينَ࣌		العالين	the exalted ones	l-ʿālīna
+11	38:74:15	e	۝٧٤				
+11	38:75:1	w	قَالَ		قال	He said	qāla
+11	38:75:2	w	أَنَا		انا	I am	anā
+11	38:75:3	w	خَيْرࣱ		خير	better	khayrun
+11	38:75:4	w	مِّنْهُ		منه	than him	min'hu
+11	38:75:5	w	خَلَقْتَنِے		خلقتني	You created me	khalaqtanī
+11	38:75:6	w	مِن		من	from	min
+11	38:75:7	w	نّٜارࣲ		نار	fire	nārin
+11	38:75:8	w	وَخَلَقْتَهُۥ		وخلقته	and You created him	wakhalaqtahu
+11	38:75:9	w	مِن		من	from	min
+12	38:75:10	w	طِينࣲ࣌		طين	clay	ṭīnin
+12	38:75:11	e	۝٧٥				
+12	38:76:1	w	قَالَ		قال	He said	qāla
+12	38:76:2	w	فَاخْرُجْ		فاخرج	Then get out	fa-ukh'ruj
+12	38:76:3	w	مِنْهَا		منها	of it	min'hā
+12	38:76:4	w	فَإِنَّكَ		فانك	for indeed, you	fa-innaka
+12	38:76:5	w	رَجِيمࣱ		رجيم	(are) accursed	rajīmun
+12	38:76:6	e	۝٧٦				
+12	38:77:1	w	وَإِنَّ		وان	And indeed	wa-inna
+12	38:77:2	w	عَلَيْكَ		عليك	upon you	ʿalayka
+12	38:77:3	w	لَعْنَتِيَ		لعنتي	(is) My curse	laʿnatī
+12	38:77:4	w	إِلَىٰ		الي	until	ilā
+13	38:77:5	w	يَوْمِ		يوم	(the) Day	yawmi
+13	38:77:6	w	ࡴ۬لدِّينِ࣌		الدين	(of) Judgment	l-dīni
+13	38:77:7	e	۝٧٧				
+13	38:78:1	w	قَالَ		قال	He said	qāla
+13	38:78:2	w	رَبِّ		رب	My Lord	rabbi
+13	38:78:3	w	فَأَنظِرْنِےٓ		فانظرني	Then give me respite	fa-anẓir'nī
+13	38:78:4	w	إِلَىٰ		الي	until	ilā
+13	38:78:5	w	يَوْمِ		يوم	(the) Day	yawmi
+13	38:78:6	w	يُبْعَثُونَ࣌		يبعثون	they are resurrected	yub'ʿathūna
+13	38:78:7	e	۝٧٨				
+13	38:79:1	w	قَالَ		قال	He said	qāla
+13	38:79:2	w	فَإِنَّكَ		فانك	Then indeed, you	fa-innaka
+14	38:79:3	w	مِنَ		من	(are) of	mina
+14	38:79:4	w	ࡰ۬لْمُنظَرِينَ		المنظرين	those given respite	l-munẓarīna
+14	38:79:5	e	۝٧٩				
+14	38:80:1	w	إِلَىٰ		الي	Until	ilā
+14	38:80:2	w	يَوْمِ		يوم	(the) Day	yawmi
+14	38:80:3	w	ࡴ۬لْوَقْتِ		الوقت	(of) the time	l-waqti
+14	38:80:4	w	ࡴ۬لْمَعْلُومِ࣌		المعلوم	well-known	l-maʿlūmi
+14	38:80:5	e	۝٨٠				
+14	38:81:1	w	قَالَ		قال	He said	qāla
+14	38:81:2	w	فَبِعِزَّتِكَ		فبعزتك	Then by Your might	fabiʿizzatika
+15	38:81:3	w	لَأُغْوِيَنَّهُمُۥٓ		لاغوينهم	I will surely mislead them	la-ugh'wiyannahum
+15	38:81:4	w	أَجْمَعِينَ		اجمعين	all	ajmaʿīna
+15	38:81:5	e	۝٨١				
+15	38:82:1	w	إِلَّا		الا	Except	illā
+15	38:82:2	w	عِبَادَكَ		عبادك	Your slaves	ʿibādaka
+15	38:82:3	w	مِنْهُمُ		منهم	among them	min'humu
+15	38:82:4	w	ࡲ۬لْمُخْلَصِينَ࣌		المخلصين	the chosen ones	l-mukh'laṣīna
+15	38:82:5	e	۝٨٢				

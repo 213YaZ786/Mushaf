@@ -1,0 +1,132 @@
+1	3:52:1	w	رَبَّنَآ		ربنا	Our Lord	rabbanā
+1	3:52:2	w	ءَامَنَّا		امنا	we believe[d]	āmannā
+1	3:52:3	w	بِمَآ		بما	in what	bimā
+1	3:52:4	w	أَنزَلْتَ		انزلت	You revealed	anzalta
+1	3:52:5	w	وَاتَّبَعْنَا		واتبعنا	and we follow[ed]	wa-ittabaʿnā
+1	3:52:6	w	ࡰ۬لرَّسُولَ		الرسول	the Messenger	l-rasūla
+1	3:52:7	w	فَاكْتُبْنَا		فاكتبنا	then write us	fa-uk'tub'nā
+1	3:52:8	w	مَعَ		مع	among	maʿa
+2	3:52:9	w	ࡰ۬لشَّٰهِدِينَ࣌		الشهدين	the witnesses	l-shāhidīna
+2	3:52:10	e	۝٥٢				
+2	3:53:1	w	وَمَكَرُواْ		ومكروا	And they schemed	wamakarū
+2	3:53:2	w	وَمَكَرَ		ومكر	and planned	wamakara
+2	3:53:3	w	ࡰ۬للَّهُ࣌		الله	Allah	l-lahu
+2	3:53:4	w	وَاللَّهُ		والله	And Allah	wal-lahu
+2	3:53:5	w	خَيْرُ		خير	(is the) best	khayru
+2	3:53:6	w	ࡲ۬لْمَٰكِرِينَ࣌		المكرين	(of) the planners	l-mākirīna
+2	3:53:7	e	۝٥٣				
+3	3:54:1	w	إِذْ		اذ	When	idh
+3	3:54:2	w	قَالَ		قال	said	qāla
+3	3:54:3	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+3	3:54:4	w	يَٰعِيسٜىٰٓ		يعيسي	O Isa	yāʿīsā
+3	3:54:5	w	إِنِّے		اني	Indeed, I	innī
+3	3:54:6	w	مُتَوَفِّيكَ		متوفيك	(will) take you	mutawaffīka
+3	3:54:7	w	وَرَافِعُكَ		ورافعك	and raise you	warāfiʿuka
+3	3:54:8	w	إِلَيَّ		الي	to Myself	ilayya
+3	3:54:9	w	وَمُطَهِّرُكَ		ومطهرك	and purify you	wamuṭahhiruka
+4	3:54:10	w	مِنَ		من	from	mina
+4	3:54:11	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+4	3:54:12	w	كَفَرُواْ࣌		كفروا	disbelieve[d]	kafarū
+4	3:54:13	w	وَجَاعِلُ		وجاعل	and I will make	wajāʿilu
+4	3:54:14	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+4	3:54:15	w	ࡰٜتَّبَعُوكَ		اتبعوك	follow[ed] you	ittabaʿūka
+4	3:54:16	w	فَوْقَ		فوق	superior	fawqa
+4	3:54:17	w	ࡰ۬لذِينَ		الذين	(to) those who	alladhīna
+5	3:54:18	w	كَفَرُوٓاْ		كفروا	disbelieve[d]	kafarū
+5	3:54:19	w	إِلَىٰ		الي	on	ilā
+5	3:54:20	w	يَوْمِ		يوم	(the) Day	yawmi
+5	3:54:21	w	ࡴ۬لْقِيَٰمَةِ࣌		القيمة	(of) [the] Resurrection	l-qiyāmati
+5	3:54:22	w	ثُمَّ		ثم	Then	thumma
+5	3:54:23	w	إِلَيَّ		الي	to Me	ilayya
+5	3:54:24	w	مَرْجِعُكُمْ		مرجعكم	(is) your return	marjiʿukum
+5	3:54:25	w	فَأَحْكُمُ		فاحكم	and I will judge	fa-aḥkumu
+6	3:54:26	w	بَيْنَكُمْ		بينكم	between you	baynakum
+6	3:54:27	w	فِيمَا		فيما	about what	fīmā
+6	3:54:28	w	كُنتُمْ		كنتم	you were	kuntum
+6	3:54:29	w	فِيهِ		فيه	[in it]	fīhi
+6	3:54:30	w	تَخْتَلِفُونَ࣌		تختلفون	differing	takhtalifūna
+6	3:54:31	e	۝٥٤				
+6	3:55:1	w	فَأَمَّا		فاما	Then as for	fa-ammā
+6	3:55:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	3:55:3	w	كَفَرُواْ		كفروا	disbelieve[d]	kafarū
+7	3:55:4	w	فَأُعَذِّبُهُمْ		فاعذبهم	then I will punish them	fa-uʿadhibuhum
+7	3:55:5	w	عَذَاباࣰ		عذابا	(with) a punishment	ʿadhāban
+7	3:55:6	w	شَدِيداࣰ		شديدا	severe	shadīdan
+7	3:55:7	w	فِے		في	in	fī
+7	3:55:8	w	ࡴ۬لدُّنْيٜا		الدنيا	the world	l-dun'yā
+7	3:55:9	w	وَالَاخِرَةِ࣌		والاخرة	and (in) the Hereafter	wal-ākhirati
+7	3:55:10	w	وَمَا		وما	And not	wamā
+7	3:55:11	w	لَهُم		لهم	for them	lahum
+8	3:55:12	w	مِّن		من	any	min
+8	3:55:13	w	نَّٰصِرِينَ࣌		نصرين	helpers	nāṣirīna
+8	3:55:14	e	۝٥٥				
+8	3:56:1	w	وَأَمَّا		واما	And as for	wa-ammā
+8	3:56:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+8	3:56:3	w	ءَامَنُواْ		امنوا	believe[d]	āmanū
+8	3:56:4	w	وَعَمِلُواْ		وعملوا	and did	waʿamilū
+8	3:56:5	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	[the] righteous deeds	l-ṣāliḥāti
+9	3:56:6	w	فَنُوَفِّيهِمُۥٓ		فنوفيهم	then He will grant them in full	fayuwaffīhim
+9	3:56:7	w	أُجُورَهُمْ࣌		اجورهم	their reward	ujūrahum
+9	3:56:8	w	وَاللَّهُ		والله	And Allah	wal-lahu
+9	3:56:9	w	لَا		لا	(does) not	lā
+9	3:56:10	w	يُحِبُّ		يحب	love	yuḥibbu
+9	3:56:11	w	ࡲ۬لظَّٰلِمِينَ࣌		الظلمين	the wrongdoers	l-ẓālimīna
+9	3:56:12	e	۝٥٦				
+9	3:57:1	w	ذَٰلِكَ		ذلك	That	dhālika
+9	3:57:2	w	نَتْلُوهُ		نتلوه	(is what) We recite [it]	natlūhu
+10	3:57:3	w	عَلَيْكَ		عليك	to you	ʿalayka
+10	3:57:4	w	مِنَ		من	of	mina
+10	3:57:5	w	ࡰ۬لَايَٰتِ		الايت	the Verses	l-āyāti
+10	3:57:6	w	وَالذِّكْرِ		والذكر	and the Reminder	wal-dhik'ri
+10	3:57:7	w	ࡴ۬لْحَكِيمِ࣌		الحكيم	[the] Wise	l-ḥakīmi
+10	3:57:8	e	۝٥٧				
+10	3:58:1	w	إِنَّ		ان	Indeed	inna
+10	3:58:2	w	مَثَلَ		مثل	(the) likeness	mathala
+11	3:58:3	w	عِيسٜىٰ		عيسي	(of) Isa	ʿīsā
+11	3:58:4	w	عِندَ		عند	near	ʿinda
+11	3:58:5	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+11	3:58:6	w	كَمَثَلِ		كمثل	(is) like (the) likeness	kamathali
+11	3:58:7	w	ءَادَمَ࣌		ادم	(of) Adam	ādama
+11	3:58:8	w	خَلَقَهُۥ		خلقه	He created him	khalaqahu
+11	3:58:9	w	مِن		من	from	min
+11	3:58:10	w	تُرَابࣲ		تراب	dust	turābin
+11	3:58:11	w	ثُمَّ		ثم	then	thumma
+11	3:58:12	w	قَالَ		قال	He said	qāla
+11	3:58:13	w	لَهُۥ		له	to him	lahu
+12	3:58:14	w	كُن࣌		كن	Be	kun
+12	3:58:15	w	فَيَكُونُ࣌		فيكون	and he was	fayakūnu
+12	3:58:16	e	۝٥٨				
+12	3:59:1	w	ࡲ۬لْحَقُّ		الحق	The truth	al-ḥaqu
+12	3:59:2	w	مِن		من	(is) from	min
+12	3:59:3	w	رَّبِّكَ࣌		ربك	your Lord	rabbika
+12	3:59:4	w	فَلَا		فلا	so (do) not	falā
+12	3:59:5	w	تَكُن		تكن	be	takun
+12	3:59:6	w	مِّنَ		من	among	mina
+12	3:59:7	w	ࡰ۬لْمُمْتَرِينَ࣌		الممترين	the doubters	l-mum'tarīna
+12	3:59:8	e	۝٥٩				
+13	3:60:1	w	فَمَنْ		فمن	Then whoever	faman
+13	3:60:2	w	حَآجَّكَ		حاجك	argues (with) you	ḥājjaka
+13	3:60:3	w	فِيهِ		فيه	concerning it	fīhi
+13	3:60:4	w	مِنۢ		من	from	min
+13	3:60:5	w	بَعْدِ		بعد	after	baʿdi
+13	3:60:6	w	مَا		ما	what	mā
+13	3:60:7	w	جَآءَكَ		جاك	came to you	jāaka
+13	3:60:8	w	مِنَ		من	of	mina
+13	3:60:9	w	ࡰ۬لْعِلْمِ		العلم	the knowledge	l-ʿil'mi
+13	3:60:10	w	فَقُلْ		فقل	then say	faqul
+13	3:60:11	w	تَعَالَوْاْ		تعالوا	Come	taʿālaw
+14	3:60:12	w	نَدْعُ		ندع	let us call	nadʿu
+14	3:60:13	w	أَبْنَآءَنَا		ابنانا	our sons	abnāanā
+14	3:60:14	w	وَأَبْنَآءَكُمْ		وابناكم	and your sons	wa-abnāakum
+14	3:60:15	w	وَنِسَآءَنَا		ونسانا	and our women	wanisāanā
+14	3:60:16	w	وَنِسَآءَكُمْ		ونساكم	and your women	wanisāakum
+14	3:60:17	w	وَأَنفُسَنَا		وانفسنا	and ourselves	wa-anfusanā
+15	3:60:18	w	وَأَنفُسَكُمْ		وانفسكم	and yourselves	wa-anfusakum
+15	3:60:19	w	ثُمَّ		ثم	then	thumma
+15	3:60:20	w	نَبْتَهِلْ		نبتهل	let us pray humbly	nabtahil
+15	3:60:21	w	فَنَجْعَل		فنجعل	and [we] invoke	fanajʿal
+15	3:60:22	w	لَّعْنَتَ		لعنت	the curse	laʿnata
+15	3:60:23	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+15	3:60:24	w	عَلَى		علي	on	ʿalā
+15	3:60:25	w	ࡰ۬لْكَٰذِبِينَ࣌		الكذبين	the liars	l-kādhibīna
+15	3:60:26	e	۝٦٠				

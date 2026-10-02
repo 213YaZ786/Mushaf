@@ -1,0 +1,115 @@
+1	8:0:0	t					
+2	8:0:0	b					
+3	8:1:1	w	يَسْـَٔلُونَكَ		يسلونك	They ask you	yasalūnaka
+3	8:1:2	w	عَنِ		عن	about	ʿani
+3	8:1:3	w	ࡴ۬لَانفَالِ࣌		الانفال	the spoils of war	l-anfāli
+3	8:1:4	w	قُلِ		قل	Say	quli
+3	8:1:5	w	ࡴ۬لَانفَالُ		الانفال	The spoils of war	l-anfālu
+3	8:1:6	w	لِلهِ		لله	(are) for Allah	lillahi
+3	8:1:7	w	وَالرَّسُولِ࣌		والرسول	and the Messenger	wal-rasūli
+3	8:1:8	w	فَاتَّقُواْ		فاتقوا	So fear	fa-ittaqū
+3	8:1:9	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+4	8:1:10	w	وَأَصْلِحُواْ		واصلحوا	and set right	wa-aṣliḥū
+4	8:1:11	w	ذَاتَ		ذات	that	dhāta
+4	8:1:12	w	بَيْنِكُمْ࣌		بينكم	(which is) between you	baynikum
+4	8:1:13	w	وَأَطِيعُواْ		واطيعوا	and obey	wa-aṭīʿū
+4	8:1:14	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+4	8:1:15	w	وَرَسُولَهُۥٓ		ورسوله	and His Messenger	warasūlahu
+4	8:1:16	w	إِن		ان	if	in
+4	8:1:17	w	كُنتُم		كنتم	you are	kuntum
+5	8:1:18	w	مُّومِنِينَ࣌		مومنين	believers	mu'minīna
+5	8:1:19	e	۝١				
+5	8:2:1	w	إِنَّمَا		انما	Only	innamā
+5	8:2:2	w	ࡰ۬لْمُومِنُونَ		المومنون	the believers	l-mu'minūna
+5	8:2:3	w	ࡰ۬لذِينَ		الذين	(are) those who	alladhīna
+5	8:2:4	w	إِذَا		اذا	when	idhā
+5	8:2:5	w	ذُكِرَ		ذكر	is mentioned	dhukira
+5	8:2:6	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+5	8:2:7	w	وَجِلَتْ		وجلت	feel fear	wajilat
+6	8:2:8	w	قُلُوبُهُمْ		قلوبهم	their hearts	qulūbuhum
+6	8:2:9	w	وَإِذَا		واذا	and when	wa-idhā
+6	8:2:10	w	تُلِيَتْ		تليت	are recited	tuliyat
+6	8:2:11	w	عَلَيْهِمُۥٓ		عليهم	to them	ʿalayhim
+6	8:2:12	w	ءَايَٰتُهُۥ		ايته	His Verses	āyātuhu
+6	8:2:13	w	زَادَتْهُمُۥٓ		زادتهم	they increase them	zādathum
+6	8:2:14	w	إِيمَٰناࣰ		ايمنا	(in) faith	īmānan
+6	8:2:15	w	وَعَلَىٰ		وعلي	and upon	waʿalā
+6	8:2:16	w	رَبِّهِمْ		ربهم	their Lord	rabbihim
+7	8:2:17	w	يَتَوَكَّلُونَ࣌		يتوكلون	they put their trust	yatawakkalūna
+7	8:2:18	e	۝٢				
+7	8:3:1	w	ࡰ۬لذِينَ		الذين	Those who	alladhīna
+7	8:3:2	w	يُقِيمُونَ		يقيمون	establish	yuqīmūna
+7	8:3:3	w	ࡰ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+7	8:3:4	w	وَمِمَّا		ومما	and out of what	wamimmā
+7	8:3:5	w	رَزَقْنَٰهُمْ		رزقنهم	We have provided them	razaqnāhum
+8	8:3:6	w	يُنفِقُونَ		ينفقون	they spend	yunfiqūna
+8	8:3:7	e	۝٣				
+8	8:4:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+8	8:4:2	w	هُمُ		هم	they are	humu
+8	8:4:3	w	ࡲ۬لْمُومِنُونَ		المومنون	the believers	l-mu'minūna
+8	8:4:4	w	حَقّاࣰ࣌		حقا	(in) truth	ḥaqqan
+8	8:4:5	w	لَّهُمْ		لهم	For them	lahum
+8	8:4:6	w	دَرَجَٰتٌ		درجت	(are) ranks	darajātun
+8	8:4:7	w	عِندَ		عند	with	ʿinda
+9	8:4:8	w	رَبِّهِمْ		ربهم	their Lord	rabbihim
+9	8:4:9	w	وَمَغْفِرَةࣱ		ومغفرة	and forgiveness	wamaghfiratun
+9	8:4:10	w	وَرِزْقࣱ		ورزق	and a provision	wariz'qun
+9	8:4:11	w	كَرِيمࣱ࣌		كريم	noble	karīmun
+9	8:4:12	e	۝٤				
+9	8:5:1	w	۞ كَمَآ		كما	As	kamā
+9	8:5:2	w	أَخْرَجَكَ		اخرجك	brought you out	akhrajaka
+9	8:5:3	w	رَبُّكَ		ربك	your Lord	rabbuka
+10	8:5:4	w	مِنۢ		من	from	min
+10	8:5:5	w	بَيْتِكَ		بيتك	your home	baytika
+10	8:5:6	w	بِالْحَقِّ		بالحق	in truth	bil-ḥaqi
+10	8:5:7	w	وَإِنَّ		وان	while indeed	wa-inna
+10	8:5:8	w	فَرِيقاࣰ		فريقا	a party	farīqan
+10	8:5:9	w	مِّنَ		من	among	mina
+10	8:5:10	w	ࡰ۬لْمُومِنِينَ		المومنين	the believers	l-mu'minīna
+10	8:5:11	w	لَكَٰرِهُونَ		لكرهون	certainly disliked	lakārihūna
+10	8:5:12	e	۝٥				
+11	8:6:1	w	يُجَٰدِلُونَكَ		يجدلونك	They dispute with you	yujādilūnaka
+11	8:6:2	w	فِے		في	concerning	fī
+11	8:6:3	w	ࡴ۬لْحَقِّ		الحق	the truth	l-ḥaqi
+11	8:6:4	w	بَعْدَ		بعد	after what	baʿdamā
+11	8:6:5	w	مَا		ما	was made clear	tabayyana
+11	8:6:6	w	تَبَيَّنَ		تبين	as if	ka-annamā
+11	8:6:7	w	كَأَنَّمَا		كانما	they were driven	yusāqūna
+11	8:6:8	w	يُسَاقُونَ		يساقون	to	ilā
+11	8:6:9	w	إِلَى		الي	[the] death	l-mawti
+11	8:6:10	w	ࡰ۬لْمَوْتِ		الموت	while they	wahum
+12	8:6:11	w	وَهُمْ		وهم	(were) looking	yanẓurūna
+12	8:6:12	w	يَنظُرُونَ࣌		ينظرون		
+12	8:6:13	e	۝٦				
+12	8:7:1	w	وَإِذْ		واذ	And when	wa-idh
+12	8:7:2	w	يَعِدُكُمُ		يعدكم	promised you	yaʿidukumu
+12	8:7:3	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+12	8:7:4	w	إِحْدَى		احدي	one	iḥ'dā
+12	8:7:5	w	ࡰ۬لطَّآئِفَتَيْنِ		الطايفتين	(of) the two groups	l-ṭāifatayni
+12	8:7:6	w	أَنَّهَا		انها	that it (would be)	annahā
+13	8:7:7	w	لَكُمْ		لكم	for you	lakum
+13	8:7:8	w	وَتَوَدُّونَ		وتودون	and you wished	watawaddūna
+13	8:7:9	w	أَنَّ		ان	that	anna
+13	8:7:10	w	غَيْرَ		غير	(one) other than	ghayra
+13	8:7:11	w	ذَاتِ		ذات	that	dhāti
+13	8:7:12	w	ࡴ۬لشَّوْكَةِ		الشوكة	(of) the armed	l-shawkati
+13	8:7:13	w	تَكُونُ		تكون	would be	takūnu
+13	8:7:14	w	لَكُمْ࣌		لكم	for you	lakum
+13	8:7:15	w	وَيُرِيدُ		ويريد	But intended	wayurīdu
+14	8:7:16	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+14	8:7:17	w	أَنْ		ان	to	an
+14	8:7:18	w	يُّحِقَّ		يحق	justify	yuḥiqqa
+14	8:7:19	w	ࡰ۬لْحَقَّ		الحق	the truth	l-ḥaqa
+14	8:7:20	w	بِكَلِمَٰتِهِۦ		بكلمتهي	by His words	bikalimātihi
+14	8:7:21	w	وَيَقْطَعَ		ويقطع	and cut off	wayaqṭaʿa
+14	8:7:22	w	دَابِرَ		دابر	(the) roots	dābira
+14	8:7:23	w	ࡰ۬لْكٜـٰفِرِينَ		الكفرين	(of) the disbelievers	l-kāfirīna
+14	8:7:24	e	۝٧				
+15	8:8:1	w	لِيُحِقَّ		ليحق	That He might justify	liyuḥiqqa
+15	8:8:2	w	ࡰ۬لْحَقَّ		الحق	the truth	l-ḥaqa
+15	8:8:3	w	وَيُبْطِلَ		ويبطل	and prove false	wayub'ṭila
+15	8:8:4	w	ࡰ۬لْبَٰطِلَ		البطل	the falsehood	l-bāṭila
+15	8:8:5	w	وَلَوْ		ولو	even if	walaw
+15	8:8:6	w	كَرِهَ		كره	disliked (it)	kariha
+15	8:8:7	w	ࡰ۬لْمُجْرِمُونَ࣌		المجرمون	the criminals	l-muj'rimūna
+15	8:8:8	e	۝٨				

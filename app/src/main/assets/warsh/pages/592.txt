@@ -1,0 +1,145 @@
+1	87:11:1	w	وَيَتَجَنَّبُهَا		ويتجنبها	And will avoid it	wayatajannabuhā
+1	87:11:2	w	ࡰ۬لَاشْقَي		الاشقي	the wretched one	l-ashqā
+1	87:11:3	e	۝١١				
+1	87:12:1	w	ࡰ۬لذِے		الذي	The one who	alladhī
+1	87:12:2	w	يَصْلَى		يصلي	will burn	yaṣlā
+1	87:12:3	w	ࡰ۬لنَّارَ		النار	(in) the Fire	l-nāra
+1	87:12:4	w	ࡰ۬لْكُبْرٜىٰ		الكبري	[the] great	l-kub'rā
+1	87:12:5	e	۝١٢				
+1	87:13:1	w	ثُمَّ		ثم	Then	thumma
+1	87:13:2	w	لَا		لا	not	lā
+1	87:13:3	w	يَمُوتُ		يموت	he will die	yamūtu
+2	87:13:4	w	فِيهَا		فيها	therein	fīhā
+2	87:13:5	w	وَلَا		ولا	and not	walā
+2	87:13:6	w	يَحْيٜىٰ࣌		يحيي	will live	yaḥyā
+2	87:13:7	e	۝١٣				
+2	87:14:1	w	قَدَ		قد	Certainly	qad
+2	87:14:2	w	ࡰفْلَحَ		افلح	has succeeded	aflaḥa
+2	87:14:3	w	مَن		من	(one) who	man
+2	87:14:4	w	تَزَكّٜىٰ		تزكي	purifies (himself)	tazakkā
+2	87:14:5	e	۝١٤				
+2	87:15:1	w	وَذَكَرَ		وذكر	And remembers	wadhakara
+2	87:15:2	w	ࡰٜسْمَ		اسم	(the) name	is'ma
+2	87:15:3	w	رَبِّهِۦ		ربهي	(of) his Lord	rabbihi
+2	87:15:4	w	فَصَلّٜىٰ࣌		فصلي	and prays	faṣallā
+2	87:15:5	e	۝١٥				
+3	87:16:1	w	بَلْ		بل	Nay	bal
+3	87:16:2	w	تُوثِرُونَ		توثرون	You prefer	tu'thirūna
+3	87:16:3	w	ࡰ۬لْحَيَوٰةَ		الحيوة	the life	l-ḥayata
+3	87:16:4	w	ࡰ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+3	87:16:5	e	۝١٦				
+3	87:17:1	w	وَالَاخِرَةُ		والاخرة	While the Hereafter	wal-ākhiratu
+3	87:17:2	w	خَيْرࣱ		خير	(is) better	khayrun
+3	87:17:3	w	وَأَبْقٜىٰٓ࣌		وابقي	and everlasting	wa-abqā
+3	87:17:4	e	۝١٧				
+3	87:18:1	w	إِنَّ		ان	Indeed	inna
+4	87:18:2	w	هَٰذَا		هذا	this	hādhā
+4	87:18:3	w	لَفِے		لفي	surely (is) in	lafī
+4	87:18:4	w	ࡴ۬لصُّحُفِ		الصحف	the Scriptures	l-ṣuḥufi
+4	87:18:5	w	ࡴ۬لُاولٜىٰ		الاولي	[the] former	l-ūlā
+4	87:18:6	e	۝١٨				
+4	87:19:1	w	صُحُفِ		صحف	(The) Scriptures	ṣuḥufi
+4	87:19:2	w	إِبْرَٰهِيمَ		ابرهيم	(of) Ibrahim	ib'rāhīma
+4	87:19:3	w	وَمُوسٜىٰ࣌		وموسي	and Musa	wamūsā
+4	87:19:4	e	۝١٩				
+5	88:0:0	t					
+6	88:0:0	b					
+7	88:1:1	w	هَلَ		هل	Has	hal
+7	88:1:2	w	ࡰتٜيٰكَ		اتيك	(there) come to you	atāka
+7	88:1:3	w	حَدِيثُ		حديث	(the) news	ḥadīthu
+7	88:1:4	w	ࡲ۬لْغَٰشِيَةِ࣌		الغشية	(of) the Overwhelming	l-ghāshiyati
+7	88:1:5	e	۝١				
+7	88:2:1	w	وُجُوهࣱ		وجوه	Faces	wujūhun
+7	88:2:2	w	يَوْمَئِذٍ		يوميذ	that Day	yawma-idhin
+7	88:2:3	w	خَٰشِعَةٌ		خشعة	(will be) humbled	khāshiʿatun
+7	88:2:4	e	۝٢				
+7	88:3:1	w	عَامِلَةࣱ		عاملة	Laboring	ʿāmilatun
+8	88:3:2	w	نَّاصِبَةࣱ		ناصبة	exhausted	nāṣibatun
+8	88:3:3	e	۝٣				
+8	88:4:1	w	تَصْلَىٰ		تصلي	They will burn	taṣlā
+8	88:4:2	w	نَاراً		نارا	(in) a Fire	nāran
+8	88:4:3	w	حَامِيَةࣰ		حامية	intensely hot	ḥāmiyatan
+8	88:4:4	e	۝٤				
+8	88:5:1	w	تُسْقٜىٰ		تسقي	They will be given to drink	tus'qā
+8	88:5:2	w	مِنْ		من	from	min
+8	88:5:3	w	عَيْنٍ		عين	a spring	ʿaynin
+8	88:5:4	w	اٰنِيَةࣲ࣌		انية	boiling	āniyatin
+8	88:5:5	e	۝٥				
+8	88:6:1	w	لَّيْسَ		ليس	Not is	laysa
+9	88:6:2	w	لَهُمْ		لهم	for them	lahum
+9	88:6:3	w	طَعَامٌ		طعام	food	ṭaʿāmun
+9	88:6:4	w	ࡴلَّا		الا	except	illā
+9	88:6:5	w	مِن		من	from	min
+9	88:6:6	w	ضَرِيعࣲ		ضريع	a bitter thorny plant	ḍarīʿin
+9	88:6:7	e	۝٦				
+9	88:7:1	w	لَّا		لا	Not	lā
+9	88:7:2	w	يُسْمِنُ		يسمن	it nourishes	yus'minu
+9	88:7:3	w	وَلَا		ولا	and not	walā
+9	88:7:4	w	يُغْنِے		يغني	it avails	yugh'nī
+9	88:7:5	w	مِن		من	from	min
+9	88:7:6	w	جُوعࣲ࣌		جوع	hunger	jūʿin
+9	88:7:7	e	۝٧				
+9	88:8:1	w	وُجُوهࣱ		وجوه	Faces	wujūhun
+10	88:8:2	w	يَوْمَئِذࣲ		يوميذ	that Day	yawma-idhin
+10	88:8:3	w	نَّاعِمَةࣱ		ناعمة	(will be) joyful	nāʿimatun
+10	88:8:4	e	۝٨				
+10	88:9:1	w	لِّسَعْيِهَا		لسعيها	With their effort	lisaʿyihā
+10	88:9:2	w	رَاضِيَةࣱ		راضية	satisfied	rāḍiyatun
+10	88:9:3	e	۝٩				
+10	88:10:1	w	فِے		في	In	fī
+10	88:10:2	w	جَنَّةٍ		جنة	a garden	jannatin
+10	88:10:3	w	عَالِيَةࣲ		عالية	elevated	ʿāliyatin
+10	88:10:4	e	۝١٠				
+10	88:11:1	w	لَّا		لا	Not	lā
+10	88:11:2	w	تُسْمَعُ		تسمع	they will hear	tasmaʿu
+11	88:11:3	w	فِيهَا		فيها	therein	fīhā
+11	88:11:4	w	لَٰغِيَةࣱ࣌		لغية	vain talk	lāghiyatan
+11	88:11:5	e	۝١١				
+11	88:12:1	w	فِيهَا		فيها	Therein	fīhā
+11	88:12:2	w	عَيْنࣱ		عين	(will be) a spring	ʿaynun
+11	88:12:3	w	جَارِيَةࣱ࣌		جارية	flowing	jāriyatun
+11	88:12:4	e	۝١٢				
+11	88:13:1	w	فِيهَا		فيها	Therein	fīhā
+11	88:13:2	w	سُرُرࣱ		سرر	(will be) thrones	sururun
+11	88:13:3	w	مَّرْفُوعَةࣱ		مرفوعة	raised high	marfūʿatun
+11	88:13:4	e	۝١٣				
+11	88:14:1	w	وَأَكْوَابࣱ		واكواب	And cups	wa-akwābun
+12	88:14:2	w	مَّوْضُوعَةࣱ		موضوعة	put in place	mawḍūʿatun
+12	88:14:3	e	۝١٤				
+12	88:15:1	w	وَنَمَارِقُ		ونمارق	And cushions	wanamāriqu
+12	88:15:2	w	مَصْفُوفَةࣱ		مصفوفة	lined up	maṣfūfatun
+12	88:15:3	e	۝١٥				
+12	88:16:1	w	وَزَرَابِيُّ		وزرابي	And carpets	wazarābiyyu
+12	88:16:2	w	مَبْثُوثَةٌ࣌		مبثوثة	spread out	mabthūthatun
+12	88:16:3	e	۝١٦				
+12	88:17:1	w	۞ ࡰفَلَا		افلا	Then do not	afalā
+13	88:17:2	w	يَنظُرُونَ		ينظرون	they look	yanẓurūna
+13	88:17:3	w	إِلَى		الي	towards	ilā
+13	88:17:4	w	ࡰ۬لِابِلِ		الابل	the camels	l-ibili
+13	88:17:5	w	كَيْفَ		كيف	how	kayfa
+13	88:17:6	w	خُلِقَتْ		خلقت	they are created	khuliqat
+13	88:17:7	e	۝١٧				
+13	88:18:1	w	وَإِلَى		والي	And towards	wa-ilā
+13	88:18:2	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+13	88:18:3	w	كَيْفَ		كيف	how	kayfa
+13	88:18:4	w	رُفِعَتْ		رفعت	it is raised	rufiʿat
+13	88:18:5	e	۝١٨				
+14	88:19:1	w	وَإِلَى		والي	And towards	wa-ilā
+14	88:19:2	w	ࡰ۬لْجِبَالِ		الجبال	the mountains	l-jibāli
+14	88:19:3	w	كَيْفَ		كيف	how	kayfa
+14	88:19:4	w	نُصِبَتْ		نصبت	they are fixed	nuṣibat
+14	88:19:5	e	۝١٩				
+14	88:20:1	w	وَإِلَى		والي	And towards	wa-ilā
+14	88:20:2	w	ࡰ۬لَارْضِ		الارض	the earth	l-arḍi
+14	88:20:3	w	كَيْفَ		كيف	how	kayfa
+14	88:20:4	w	سُطِحَتْ࣌		سطحت	it is spread out	suṭiḥat
+14	88:20:5	e	۝٢٠				
+15	88:21:1	w	فَذَكِّرِ		فذكر	So remind	fadhakkir
+15	88:21:2	w	ࡴنَّمَآ		انما	only	innamā
+15	88:21:3	w	أَنتَ		انت	you	anta
+15	88:21:4	w	مُذَكِّرࣱ࣌		مذكر	(are) a reminder	mudhakkirun
+15	88:21:5	e	۝٢١				
+15	88:22:1	w	لَّسْتَ		لست	You are not	lasta
+15	88:22:2	w	عَلَيْهِم		عليهم	over them	ʿalayhim
+15	88:22:3	w	بِمُصَيْطِرٍ࣌		بمصيطر	a controller	bimuṣayṭirin
+15	88:22:4	e	۝٢٢				

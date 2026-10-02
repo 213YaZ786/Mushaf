@@ -1,0 +1,156 @@
+1	16:65:1	w	وَاللَّهُ		والله	And Allah	wal-lahu
+1	16:65:2	w	أَنزَلَ		انزل	has sent down	anzala
+1	16:65:3	w	مِنَ		من	from	mina
+1	16:65:4	w	ࡰ۬لسَّمَآءِ		السما	the sky	l-samāi
+1	16:65:5	w	مَآءࣰ		ما	water	māan
+1	16:65:6	w	فَأَحْيٜا		فاحيا	then gives life	fa-aḥyā
+1	16:65:7	w	بِهِ		به	by it	bihi
+1	16:65:8	w	ࡴ۬لَارْضَ		الارض	(to) the earth	l-arḍa
+1	16:65:9	w	بَعْدَ		بعد	after	baʿda
+1	16:65:10	w	مَوْتِهَآ࣌		موتها	its death	mawtihā
+1	16:65:11	w	إِنَّ		ان	Indeed	inna
+1	16:65:12	w	فِے		في	in	fī
+2	16:65:13	w	ذَٰلِكَ		ذلك	that	dhālika
+2	16:65:14	w	لَأٓيَةࣰ		لاية	(is) surely a Sign	laāyatan
+2	16:65:15	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+2	16:65:16	w	يَسْمَعُونَ࣌		يسمعون	who listen	yasmaʿūna
+2	16:65:17	e	۝٦٥				
+2	16:66:1	w	وَإِنَّ		وان	And indeed	wa-inna
+2	16:66:2	w	لَكُمْ		لكم	for you	lakum
+2	16:66:3	w	فِے		في	in	fī
+2	16:66:4	w	ࡴ۬لَانْعَٰمِ		الانعم	the cattle	l-anʿāmi
+2	16:66:5	w	لَعِبْرَةࣰ࣌		لعبرة	(is) a lesson	laʿib'ratan
+3	16:66:6	w	نَّسْقِيكُم		نسقيكم	We give you to drink	nus'qīkum
+3	16:66:7	w	مِّمَّا		مما	from what	mimmā
+3	16:66:8	w	فِے		في	(is) in	fī
+3	16:66:9	w	بُطُونِهِۦ		بطونهي	their bellies	buṭūnihi
+3	16:66:10	w	مِنۢ		من	from	min
+3	16:66:11	w	بَيْنِ		بين	between	bayni
+3	16:66:12	w	فَرْثࣲ		فرث	bowels	farthin
+3	16:66:13	w	وَدَمࣲ		ودم	and blood	wadamin
+3	16:66:14	w	لَّبَناً		لبنا	milk	labanan
+3	16:66:15	w	خَالِصاࣰ		خالصا	pure	khāliṣan
+3	16:66:16	w	سَآئِغاࣰ		سايغا	palatable	sāighan
+4	16:66:17	w	لِّلشَّٰرِبِينَ		للشربين	to the drinkers	lilshāribīna
+4	16:66:18	e	۝٦٦				
+4	16:67:1	w	وَمِن		ومن	And from	wamin
+4	16:67:2	w	ثَمَرَٰتِ		ثمرت	fruits	thamarāti
+4	16:67:3	w	ࡴ۬لنَّخِيلِ		النخيل	the date-palm	l-nakhīli
+4	16:67:4	w	وَالَاعْنَٰبِ		والاعنب	and the grapes	wal-aʿnābi
+4	16:67:5	w	تَتَّخِذُونَ		تتخذون	you take	tattakhidhūna
+4	16:67:6	w	مِنْهُ		منه	from it	min'hu
+4	16:67:7	w	سَكَراࣰ		سكرا	intoxicant	sakaran
+4	16:67:8	w	وَرِزْقاً		ورزقا	and a provision	wariz'qan
+5	16:67:9	w	حَسَناً࣌		حسنا	good	ḥasanan
+5	16:67:10	w	ࡴنَّ		ان	Indeed	inna
+5	16:67:11	w	فِے		في	in	fī
+5	16:67:12	w	ذَٰلِكَ		ذلك	that	dhālika
+5	16:67:13	w	لَأٓيَةࣰ		لاية	(is) surely a Sign	laāyatan
+5	16:67:14	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+5	16:67:15	w	يَعْقِلُونَ࣌		يعقلون	who use reason	yaʿqilūna
+5	16:67:16	e	۝٦٧				
+5	16:68:1	w	وَأَوْحٜىٰ		واوحي	And inspired	wa-awḥā
+5	16:68:2	w	رَبُّكَ		ربك	your Lord	rabbuka
+5	16:68:3	w	إِلَى		الي	to	ilā
+6	16:68:4	w	ࡰ۬لنَّحْلِ		النحل	the bee	l-naḥli
+6	16:68:5	w	أَنِ		ان	[that]	ani
+6	16:68:6	w	ࡴٜتَّخِذِے		اتخذي	Take	ittakhidhī
+6	16:68:7	w	مِنَ		من	among	mina
+6	16:68:8	w	ࡰ۬لْجِبَالِ		الجبال	the mountains	l-jibāli
+6	16:68:9	w	بُيُوتاࣰ		بيوتا	houses	buyūtan
+6	16:68:10	w	وَمِنَ		ومن	and among	wamina
+6	16:68:11	w	ࡰ۬لشَّجَرِ		الشجر	the trees	l-shajari
+6	16:68:12	w	وَمِمَّا		ومما	and in what	wamimmā
+6	16:68:13	w	يَعْرِشُونَ		يعرشون	they construct	yaʿrishūna
+6	16:68:14	e	۝٦٨				
+7	16:69:1	w	ثُمَّ		ثم	Then	thumma
+7	16:69:2	w	كُلِے		كلي	eat	kulī
+7	16:69:3	w	مِن		من	from	min
+7	16:69:4	w	كُلِّ		كل	all	kulli
+7	16:69:5	w	ࡴ۬لثَّمَرَٰتِ		الثمرت	the fruits	l-thamarāti
+7	16:69:6	w	فَاسْلُكِے		فاسلكي	and follow	fa-us'lukī
+7	16:69:7	w	سُبُلَ		سبل	(the) ways	subula
+7	16:69:8	w	رَبِّكِ		ربك	(of) your Lord	rabbiki
+7	16:69:9	w	ذُلُلاࣰ࣌		ذللا	made smooth	dhululan
+7	16:69:10	w	يَخْرُجُ		يخرج	Comes forth	yakhruju
+7	16:69:11	w	مِنۢ		من	from	min
+8	16:69:12	w	بُطُونِهَا		بطونها	their bellies	buṭūnihā
+8	16:69:13	w	شَرَابࣱ		شراب	a drink	sharābun
+8	16:69:14	w	مُّخْتَلِفٌ		مختلف	(of) varying	mukh'talifun
+8	16:69:15	w	ࡰلْوَٰنُهُۥ		الونه	colors	alwānuhu
+8	16:69:16	w	فِيهِ		فيه	in it	fīhi
+8	16:69:17	w	شِفَآءࣱ		شفا	(is) a healing	shifāon
+8	16:69:18	w	لِّلنَّاسِ࣌		للناس	for the mankind	lilnnāsi
+8	16:69:19	w	إِنَّ		ان	Indeed	inna
+8	16:69:20	w	فِے		في	in	fī
+8	16:69:21	w	ذَٰلِكَ		ذلك	that	dhālika
+8	16:69:22	w	لَأٓيَةࣰ		لاية	(is) surely a Sign	laāyatan
+9	16:69:23	w	لِّقَوْمࣲ		لقوم	for a people	liqawmin
+9	16:69:24	w	يَتَفَكَّرُونَ࣌		يتفكرون	who reflect	yatafakkarūna
+9	16:69:25	e	۝٦٩				
+9	16:70:1	w	وَاللَّهُ		والله	And Allah	wal-lahu
+9	16:70:2	w	خَلَقَكُمْ		خلقكم	created you	khalaqakum
+9	16:70:3	w	ثُمَّ		ثم	then	thumma
+9	16:70:4	w	يَتَوَفّٜيٰكُمْ࣌		يتوفيكم	will cause you to die	yatawaffākum
+9	16:70:5	w	وَمِنكُم		ومنكم	And among you	waminkum
+9	16:70:6	w	مَّنْ		من	(is one) who	man
+10	16:70:7	w	يُّرَدُّ		يرد	is sent back	yuraddu
+10	16:70:8	w	إِلَىٰٓ		الي	to	ilā
+10	16:70:9	w	أَرْذَلِ		ارذل	the worst	ardhali
+10	16:70:10	w	ࡴ۬لْعُمُرِ		العمر	(of) the age	l-ʿumuri
+10	16:70:11	w	لِكَےْ		لكي	so that	likay
+10	16:70:12	w	لَا		لا	not	lā
+10	16:70:13	w	يَعْلَمَ		يعلم	he will know	yaʿlama
+10	16:70:14	w	بَعْدَ		بعد	after	baʿda
+10	16:70:15	w	عِلْمࣲ		علم	knowledge	ʿil'min
+10	16:70:16	w	شَيْـٔاً࣌		شيا	a thing	shayan
+10	16:70:17	w	ࡴنَّ		ان	Indeed	inna
+10	16:70:18	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+10	16:70:19	w	عَلِيمࣱ		عليم	(is) All-Knowing	ʿalīmun
+11	16:70:20	w	قَدِيرࣱ࣌		قدير	All-Powerful	qadīrun
+11	16:70:21	e	۝٧٠				
+11	16:71:1	w	۞ وَاللَّهُ		والله	And Allah	wal-lahu
+11	16:71:2	w	فَضَّلَ		فضل	has favored	faḍḍala
+11	16:71:3	w	بَعْضَكُمْ		بعضكم	some of you	baʿḍakum
+11	16:71:4	w	عَلَىٰ		علي	over	ʿalā
+11	16:71:5	w	بَعْضࣲ		بعض	others	baʿḍin
+11	16:71:6	w	فِے		في	in	fī
+11	16:71:7	w	ࡴ۬لرِّزْقِ࣌		الرزق	[the] provision	l-riz'qi
+11	16:71:8	w	فَمَا		فما	But not	famā
+11	16:71:9	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	16:71:10	w	فُضِّلُواْ		فضلوا	were favored	fuḍḍilū
+12	16:71:11	w	بِرَآدِّے		برادي	would hand over	birāddī
+12	16:71:12	w	رِزْقِهِمْ		رزقهم	their provision	riz'qihim
+12	16:71:13	w	عَلَىٰ		علي	to	ʿalā
+12	16:71:14	w	مَا		ما	whom	mā
+12	16:71:15	w	مَلَكَتَ		ملكت	possess	malakat
+12	16:71:16	w	ࡰيْمَٰنُهُمْ		ايمنهم	their right hands	aymānuhum
+12	16:71:17	w	فَهُمْ		فهم	so (that) they	fahum
+12	16:71:18	w	فِيهِ		فيه	(are) in it	fīhi
+12	16:71:19	w	سَوَآءٌ࣌		سوا	equal	sawāon
+13	16:71:20	w	ࡰفَبِنِعْمَةِ		افبنعمة	Then is it the Favor	afabiniʿ'mati
+13	16:71:21	w	ࡴ۬للَّهِ		الله	of Allah	l-lahi
+13	16:71:22	w	يَجْحَدُونَ࣌		يجحدون	they reject	yajḥadūna
+13	16:71:23	e	۝٧١				
+13	16:72:1	w	وَاللَّهُ		والله	And Allah	wal-lahu
+13	16:72:2	w	جَعَلَ		جعل	(has) made	jaʿala
+13	16:72:3	w	لَكُم		لكم	for you	lakum
+13	16:72:4	w	مِّنَ		من	from	min
+13	16:72:5	w	ࡰنفُسِكُمُۥٓ		انفسكم	yourselves	anfusikum
+14	16:72:6	w	أَزْوَٰجاࣰ		ازوجا	spouses	azwājan
+14	16:72:7	w	وَجَعَلَ		وجعل	and has made	wajaʿala
+14	16:72:8	w	لَكُم		لكم	for you	lakum
+14	16:72:9	w	مِّنَ		من	from	min
+14	16:72:10	w	ࡰزْوَٰجِكُم		ازوجكم	your spouses	azwājikum
+14	16:72:11	w	بَنِينَ		بنين	sons	banīna
+14	16:72:12	w	وَحَفَدَةࣰ࣌		وحفدة	and grandsons	waḥafadatan
+14	16:72:13	w	وَرَزَقَكُم		ورزقكم	and has provided for you	warazaqakum
+14	16:72:14	w	مِّنَ		من	from	mina
+15	16:72:15	w	ࡰ۬لطَّيِّبَٰتِ࣌		الطيبت	the good things	l-ṭayibāti
+15	16:72:16	w	أَفَبِالْبَٰطِلِ		افبالبطل	Then in falsehood do	afabil-bāṭili
+15	16:72:17	w	يُومِنُونَ		يومنون	they believe	yu'minūna
+15	16:72:18	w	وَبِنِعْمَتِ		وبنعمت	and the Favor	wabiniʿ'mati
+15	16:72:19	w	ࡴ۬للَّهِ		الله	of Allah	l-lahi
+15	16:72:20	w	هُمْ		هم	they	hum
+15	16:72:21	w	يَكْفُرُونَ࣌		يكفرون	disbelieve	yakfurūna
+15	16:72:22	e	۝٧٢				

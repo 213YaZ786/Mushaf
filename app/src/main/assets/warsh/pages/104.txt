@@ -1,0 +1,132 @@
+1	4:162:1	w	ࡴنَّآ		انا	Indeed, We	innā
+1	4:162:2	w	أَوْحَيْنَآ		اوحينا	have revealed	awḥaynā
+1	4:162:3	w	إِلَيْكَ		اليك	to you	ilayka
+1	4:162:4	w	كَمَآ		كما	as	kamā
+1	4:162:5	w	أَوْحَيْنَآ		اوحينا	We revealed	awḥaynā
+1	4:162:6	w	إِلَىٰ		الي	to	ilā
+1	4:162:7	w	نُوحࣲ		نوح	Nuh	nūḥin
+1	4:162:8	w	وَالنَّبِيٓـِٕۑنَ		والنبين	and the Prophets	wal-nabiyīna
+1	4:162:9	w	مِنۢ		من	from	min
+1	4:162:10	w	بَعْدِهِۦ࣌		بعدهي	after him	baʿdihi
+2	4:162:11	w	وَأَوْحَيْنَآ		واوحينا	and We revealed	wa-awḥaynā
+2	4:162:12	w	إِلَىٰٓ		الي	to	ilā
+2	4:162:13	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+2	4:162:14	w	وَإِسْمَٰعِيلَ		واسمعيل	and Ishmael	wa-is'māʿīla
+2	4:162:15	w	وَإِسْحَٰقَ		واسحق	and Isaac	wa-is'ḥāqa
+2	4:162:16	w	وَيَعْقُوبَ		ويعقوب	and Yaqub	wayaʿqūba
+3	4:162:17	w	وَالَاسْبَاطِ		والاسباط	and the tribes	wal-asbāṭi
+3	4:162:18	w	وَعِيسٜىٰ		وعيسي	and Isa	waʿīsā
+3	4:162:19	w	وَأَيُّوبَ		وايوب	and Ayyub	wa-ayyūba
+3	4:162:20	w	وَيُونُسَ		ويونس	and Yunus	wayūnusa
+3	4:162:21	w	وَهَٰرُونَ		وهرون	and Harun	wahārūna
+3	4:162:22	w	وَسُلَيْمَٰنَ࣌		وسليمن	and Sulaiman	wasulaymāna
+4	4:162:23	w	وَءَاتَيْنَا		واتينا	and We gave	waātaynā
+4	4:162:24	w	دَاوُۥدَ		داود	(to) Dawood	dāwūda
+4	4:162:25	w	زَبُوراࣰ࣌		زبورا	the Zaboor	zabūran
+4	4:162:26	e	۝١٦٢				
+4	4:163:1	w	وَرُسُلاࣰ		ورسلا	And Messengers	warusulan
+4	4:163:2	w	قَدْ		قد	surely	qad
+4	4:163:3	w	قَصَصْنَٰهُمْ		قصصنهم	We (have) mentioned them	qaṣaṣnāhum
+4	4:163:4	w	عَلَيْكَ		عليك	to you	ʿalayka
+5	4:163:5	w	مِن		من	from	min
+5	4:163:6	w	قَبْلُ		قبل	before	qablu
+5	4:163:7	w	وَرُسُلاࣰ		ورسلا	and Messengers	warusulan
+5	4:163:8	w	لَّمْ		لم	not	lam
+5	4:163:9	w	نَقْصُصْهُمْ		نقصصهم	We (have) mentioned them	naqṣuṣ'hum
+5	4:163:10	w	عَلَيْكَ࣌		عليك	to you	ʿalayka
+5	4:163:11	w	وَكَلَّمَ		وكلم	And spoke	wakallama
+5	4:163:12	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+5	4:163:13	w	مُوسٜىٰ		موسي	(to) Musa	mūsā
+6	4:163:14	w	تَكْلِيماࣰ࣌		تكليما	(in a) conversation	taklīman
+6	4:163:15	e	۝١٦٣				
+6	4:164:1	w	رُّسُلاࣰ		رسلا	Messengers	rusulan
+6	4:164:2	w	مُّبَشِّرِينَ		مبشرين	bearers of glad tidings	mubashirīna
+6	4:164:3	w	وَمُنذِرِينَ		ومنذرين	and warners	wamundhirīna
+6	4:164:4	w	لِيَ۬لَّا		ليلا	so that not	li-allā
+6	4:164:5	w	يَكُونَ		يكون	there is	yakūna
+6	4:164:6	w	لِلنَّاسِ		للناس	for mankind	lilnnāsi
+7	4:164:7	w	عَلَى		علي	against	ʿalā
+7	4:164:8	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	4:164:9	w	حُجَّةُۢ		حجة	any argument	ḥujjatun
+7	4:164:10	w	بَعْدَ		بعد	after	baʿda
+7	4:164:11	w	ࡰ۬لرُّسُلِ࣌		الرسل	the Messengers	l-rusuli
+7	4:164:12	w	وَكَانَ		وكان	And is	wakāna
+7	4:164:13	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+7	4:164:14	w	عَزِيزاً		عزيزا	All-Mighty	ʿazīzan
+7	4:164:15	w	حَكِيماࣰ࣌		حكيما	All-Wise	ḥakīman
+7	4:164:16	e	۝١٦٤				
+8	4:165:1	w	۞ لَّٰكِنِ		لكن	But	lākini
+8	4:165:2	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+8	4:165:3	w	يَشْهَدُ		يشهد	bears witness	yashhadu
+8	4:165:4	w	بِمَآ		بما	to what	bimā
+8	4:165:5	w	أَنزَلَ		انزل	He (has) revealed	anzala
+8	4:165:6	w	إِلَيْكَ࣌		اليك	to you	ilayka
+8	4:165:7	w	أَنزَلَهُۥ		انزله	He has sent it down	anzalahu
+8	4:165:8	w	بِعِلْمِهِۦ		بعلمهي	with His Knowledge	biʿil'mihi
+8	4:165:9	w	وَالْمَلَٰٓئِكَةُ		والمليكة	and the Angels	wal-malāikatu
+9	4:165:10	w	يَشْهَدُونَ࣌		يشهدون	bear witness	yashhadūna
+9	4:165:11	w	وَكَفٜىٰ		وكفي	And is sufficient	wakafā
+9	4:165:12	w	بِاللَّهِ		بالله	Allah	bil-lahi
+9	4:165:13	w	شَهِيداً࣌		شهيدا	(as) a Witness	shahīdan
+9	4:165:14	e	۝١٦٥				
+9	4:166:1	w	ࡴنَّ		ان	Indeed	inna
+9	4:166:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+9	4:166:3	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+10	4:166:4	w	وَصَدُّواْ		وصدوا	and hinder	waṣaddū
+10	4:166:5	w	عَن		عن	from	ʿan
+10	4:166:6	w	سَبِيلِ		سبيل	(the) way	sabīli
+10	4:166:7	w	ࡴ۬للَّهِ		الله	(of) Allah	l-lahi
+10	4:166:8	w	قَد		قد	surely	qad
+10	4:166:9	w	ضَّلُّواْ		ضلوا	they have strayed	ḍallū
+10	4:166:10	w	ضَلَٰلاَۢ		ضللا	straying	ḍalālan
+10	4:166:11	w	بَعِيداً࣌		بعيدا	far away	baʿīdan
+10	4:166:12	e	۝١٦٦				
+10	4:167:1	w	ࡴنَّ		ان	Indeed	inna
+10	4:167:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	4:167:3	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+11	4:167:4	w	وَظَلَمُواْ		وظلموا	and did wrong	waẓalamū
+11	4:167:5	w	لَمْ		لم	not	lam
+11	4:167:6	w	يَكُنِ		يكن	will	yakuni
+11	4:167:7	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+11	4:167:8	w	لِيَغْفِرَ		ليغفر	[to] forgive	liyaghfira
+11	4:167:9	w	لَهُمْ		لهم	them	lahum
+11	4:167:10	w	وَلَا		ولا	and not	walā
+11	4:167:11	w	لِيَهْدِيَهُمْ		ليهديهم	He will guide them	liyahdiyahum
+12	4:167:12	w	طَرِيقاً		طريقا	(to) a way	ṭarīqan
+12	4:167:13	e	۝١٦٧				
+12	4:168:1	w	ࡴلَّا		الا	Except	illā
+12	4:168:2	w	طَرِيقَ		طريق	(the) way	ṭarīqa
+12	4:168:3	w	جَهَنَّمَ		جهنم	(to) Hell	jahannama
+12	4:168:4	w	خَٰلِدِينَ		خلدين	abiding	khālidīna
+12	4:168:5	w	فِيهَآ		فيها	in it	fīhā
+12	4:168:6	w	أَبَداࣰ࣌		ابدا	forever	abadan
+12	4:168:7	w	وَكَانَ		وكان	And is	wakāna
+13	4:168:8	w	ذَٰلِكَ		ذلك	that	dhālika
+13	4:168:9	w	عَلَى		علي	for	ʿalā
+13	4:168:10	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+13	4:168:11	w	يَسِيراࣰ࣌		يسيرا	easy	yasīran
+13	4:168:12	e	۝١٦٨				
+13	4:169:1	w	يَٰٓأَيُّهَا		يايها	O	yāayyuhā
+13	4:169:2	w	ࡰ۬لنَّاسُ		الناس	mankind	l-nāsu
+13	4:169:3	w	قَدْ		قد	Surely	qad
+13	4:169:4	w	جَآءَكُمُ		جاكم	has come to you	jāakumu
+13	4:169:5	w	ࡲ۬لرَّسُولُ		الرسول	the Messenger	l-rasūlu
+13	4:169:6	w	بِالْحَقِّ		بالحق	with the truth	bil-ḥaqi
+14	4:169:7	w	مِن		من	from	min
+14	4:169:8	w	رَّبِّكُمْ		ربكم	your Lord	rabbikum
+14	4:169:9	w	فَـَٔامِنُواْ		فامنوا	so believe	faāminū
+14	4:169:10	w	خَيْراࣰ		خيرا	(it is) better	khayran
+14	4:169:11	w	لَّكُمْ࣌		لكم	for you	lakum
+14	4:169:12	w	وَإِن		وان	But if	wa-in
+14	4:169:13	w	تَكْفُرُواْ		تكفروا	you disbelieve	takfurū
+14	4:169:14	w	فَإِنَّ		فان	then indeed	fa-inna
+14	4:169:15	w	لِلهِ		لله	to Allah (belongs)	lillahi
+15	4:169:16	w	مَا		ما	whatever	mā
+15	4:169:17	w	فِے		في	(is) in	fī
+15	4:169:18	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+15	4:169:19	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+15	4:169:20	w	وَكَانَ		وكان	And is	wakāna
+15	4:169:21	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+15	4:169:22	w	عَلِيماً		عليما	All-Knowing	ʿalīman
+15	4:169:23	w	حَكِيماࣰ࣌		حكيما	All-Wise	ḥakīman
+15	4:169:24	e	۝١٦٩				

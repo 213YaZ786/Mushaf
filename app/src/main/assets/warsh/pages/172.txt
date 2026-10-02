@@ -1,0 +1,138 @@
+1	7:164:1	w	وَإِذْ		واذ	And when	wa-idh
+1	7:164:2	w	قَالَتُ		قالت	said	qālat
+1	7:164:3	w	ࡳمَّةࣱ		امة	a community	ummatun
+1	7:164:4	w	مِّنْهُمْ		منهم	among them	min'hum
+1	7:164:5	w	لِمَ		لم	Why	lima
+1	7:164:6	w	تَعِظُونَ		تعظون	(do) you preach	taʿiẓūna
+1	7:164:7	w	قَوْماً		قوما	a people	qawman
+1	7:164:8	w	ࡴ۬للَّهُ		الله	(whom) Allah	l-lahu
+1	7:164:9	w	مُهْلِكُهُمُۥٓ		مهلكهم	(is going to) destroy them	muh'likuhum
+1	7:164:10	w	أَوْ		او	or	aw
+1	7:164:11	w	مُعَذِّبُهُمْ		معذبهم	punish them	muʿadhibuhum
+2	7:164:12	w	عَذَاباࣰ		عذابا	(with) a punishment	ʿadhāban
+2	7:164:13	w	شَدِيداࣰ࣌		شديدا	severe	shadīdan
+2	7:164:14	w	قَالُواْ		قالوا	They said	qālū
+2	7:164:15	w	مَعْذِرَةٌ		معذرة	To be absolved	maʿdhiratan
+2	7:164:16	w	ࡴلَىٰ		الي	before	ilā
+2	7:164:17	w	رَبِّكُمْ		ربكم	your Lord	rabbikum
+2	7:164:18	w	وَلَعَلَّهُمْ		ولعلهم	and that they may	walaʿallahum
+2	7:164:19	w	يَتَّقُونَ࣌		يتقون	become righteous	yattaqūna
+2	7:164:20	e	۝١٦٤				
+3	7:165:1	w	فَلَمَّا		فلما	So when	falammā
+3	7:165:2	w	نَسُواْ		نسوا	they forgot	nasū
+3	7:165:3	w	مَا		ما	what	mā
+3	7:165:4	w	ذُكِّرُواْ		ذكروا	they had been reminded	dhukkirū
+3	7:165:5	w	بِهِۦٓ		بهي	with [it]	bihi
+3	7:165:6	w	أَنجَيْنَا		انجينا	We saved	anjaynā
+3	7:165:7	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+3	7:165:8	w	يَنْهَوْنَ		ينهون	forbade	yanhawna
+3	7:165:9	w	عَنِ		عن	[from]	ʿani
+3	7:165:10	w	ࡴ۬لسُّوٓءِ		السو	the evil	l-sūi
+4	7:165:11	w	وَأَخَذْنَا		واخذنا	and We seized	wa-akhadhnā
+4	7:165:12	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+4	7:165:13	w	ظَلَمُواْ		ظلموا	wronged	ẓalamū
+4	7:165:14	w	بِعَذَابِۢ		بعذاب	with a punishment	biʿadhābin
+4	7:165:15	w	بِيسِۢ		بيس	wretched	baīsin
+4	7:165:16	w	بِمَا		بما	because	bimā
+4	7:165:17	w	كَانُواْ		كانوا	they were	kānū
+4	7:165:18	w	يَفْسُقُونَ࣌		يفسقون	defiantly disobeying	yafsuqūna
+4	7:165:19	e	۝١٦٥				
+5	7:166:1	w	فَلَمَّا		فلما	So when	falammā
+5	7:166:2	w	عَتَوْاْ		عتوا	they exceeded all bounds	ʿataw
+5	7:166:3	w	عَن		عن	about	ʿan
+5	7:166:4	w	مَّا		ما	what	mā
+5	7:166:5	w	نُهُواْ		نهوا	they were forbidden	nuhū
+5	7:166:6	w	عَنْهُ		عنه	from it	ʿanhu
+5	7:166:7	w	قُلْنَا		قلنا	We said	qul'nā
+5	7:166:8	w	لَهُمْ		لهم	to them	lahum
+5	7:166:9	w	كُونُواْ		كونوا	Be	kūnū
+5	7:166:10	w	قِرَدَةً		قردة	apes	qiradatan
+5	7:166:11	w	خَٰسِـِٕينَ࣌		خسين	despised	khāsiīna
+5	7:166:12	e	۝١٦٦				
+6	7:167:1	w	وَإِذْ		واذ	And when	wa-idh
+6	7:167:2	w	تَأَذَّنَ		تاذن	declared	ta-adhana
+6	7:167:3	w	رَبُّكَ		ربك	your Lord	rabbuka
+6	7:167:4	w	لَيَبْعَثَنَّ		ليبعثن	that He would surely send	layabʿathanna
+6	7:167:5	w	عَلَيْهِمُۥٓ		عليهم	upon them	ʿalayhim
+6	7:167:6	w	إِلَىٰ		الي	till	ilā
+6	7:167:7	w	يَوْمِ		يوم	(the) Day	yawmi
+6	7:167:8	w	ࡴ۬لْقِيَٰمَةِ		القيمة	(of) the Resurrection	l-qiyāmati
+6	7:167:9	w	مَنْ		من	(those) who	man
+6	7:167:10	w	يَّسُومُهُمْ		يسومهم	would afflict them	yasūmuhum
+7	7:167:11	w	سُوٓءَ		سو	(with) a grievous	sūa
+7	7:167:12	w	ࡰ۬لْعَذَابِ࣌		العذاب	[the] punishment	l-ʿadhābi
+7	7:167:13	w	إِنَّ		ان	Indeed	inna
+7	7:167:14	w	رَبَّكَ		ربك	your Lord	rabbaka
+7	7:167:15	w	لَسَرِيعُ		لسريع	(is) surely swift	lasarīʿu
+7	7:167:16	w	ࡲ۬لْعِقَابِ࣌		العقاب	(in) the retribution	l-ʿiqābi
+7	7:167:17	w	وَإِنَّهُۥ		وانه	but indeed, He	wa-innahu
+7	7:167:18	w	لَغَفُورࣱ		لغفور	(is) surely Oft-Forgiving	laghafūrun
+7	7:167:19	w	رَّحِيمࣱ࣌		رحيم	Most Merciful	raḥīmun
+7	7:167:20	e	۝١٦٧				
+8	7:168:1	w	وَقَطَّعْنَٰهُمْ		وقطعنهم	And We divided them	waqaṭṭaʿnāhum
+8	7:168:2	w	فِے		في	in	fī
+8	7:168:3	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+8	7:168:4	w	أُمَماࣰ࣌		امما	(as) nations	umaman
+8	7:168:5	w	مِّنْهُمُ		منهم	Among them	min'humu
+8	7:168:6	w	ࡲ۬لصَّٰلِحُونَ࣌		الصلحون	(are) the righteous	l-ṣāliḥūna
+8	7:168:7	w	وَمِنْهُمْ		ومنهم	and among them	wamin'hum
+9	7:168:8	w	دُونَ		دون	(are) other than	dūna
+9	7:168:9	w	ذَٰلِكَ࣌		ذلك	that	dhālika
+9	7:168:10	w	وَبَلَوْنَٰهُم		وبلونهم	And We tested them	wabalawnāhum
+9	7:168:11	w	بِالْحَسَنَٰتِ		بالحسنت	with the good	bil-ḥasanāti
+9	7:168:12	w	وَالسَّيِّـَٔاتِ		والسيات	and the bad	wal-sayiāti
+9	7:168:13	w	لَعَلَّهُمْ		لعلهم	so that they may	laʿallahum
+10	7:168:14	w	يَرْجِعُونَ࣌		يرجعون	return	yarjiʿūna
+10	7:168:15	e	۝١٦٨				
+10	7:169:1	w	فَخَلَفَ		فخلف	Then succeeded	fakhalafa
+10	7:169:2	w	مِنۢ		من	from	min
+10	7:169:3	w	بَعْدِهِمْ		بعدهم	after them	baʿdihim
+10	7:169:4	w	خَلْفࣱ		خلف	successors	khalfun
+10	7:169:5	w	وَرِثُواْ		ورثوا	(who) inherited	warithū
+10	7:169:6	w	ࡲ۬لْكِتَٰبَ		الكتب	the Book	l-kitāba
+11	7:169:7	w	يَاخُذُونَ		ياخذون	taking	yakhudhūna
+11	7:169:8	w	عَرَضَ		عرض	goods	ʿaraḍa
+11	7:169:9	w	هَٰذَا		هذا	(of) this	hādhā
+11	7:169:10	w	ࡰ۬لَادْنٜىٰ		الادني	the lower (life)	l-adnā
+11	7:169:11	w	وَيَقُولُونَ		ويقولون	and they say	wayaqūlūna
+11	7:169:12	w	سَيُغْفَرُ		سيغفر	It will be forgiven	sayugh'faru
+11	7:169:13	w	لَنَا		لنا	for us	lanā
+11	7:169:14	w	وَإِنْ		وان	And if	wa-in
+12	7:169:15	w	يَّاتِهِمْ		ياتهم	comes to them	yatihim
+12	7:169:16	w	عَرَضࣱ		عرض	goods	ʿaraḍun
+12	7:169:17	w	مِّثْلُهُۥ		مثله	similar to it	mith'luhu
+12	7:169:18	w	يَاخُذُوهُ࣌		ياخذوه	they will take it	yakhudhūhu
+12	7:169:19	w	أَلَمْ		الم	Was not	alam
+12	7:169:20	w	يُوخَذْ		يوخذ	taken	yu'khadh
+12	7:169:21	w	عَلَيْهِم		عليهم	on them	ʿalayhim
+12	7:169:22	w	مِّيثَٰقُ		ميثق	Covenant	mīthāqu
+12	7:169:23	w	ࡲ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+13	7:169:24	w	أَن		ان	that	an
+13	7:169:25	w	لَّا		لا	not	lā
+13	7:169:26	w	يَقُولُواْ		يقولوا	they will say	yaqūlū
+13	7:169:27	w	عَلَى		علي	about	ʿalā
+13	7:169:28	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+13	7:169:29	w	إِلَّا		الا	except	illā
+13	7:169:30	w	ࡰ۬لْحَقَّ࣌		الحق	the truth	l-ḥaqa
+13	7:169:31	w	وَدَرَسُواْ		ودرسوا	while they studied	wadarasū
+13	7:169:32	w	مَا		ما	what	mā
+13	7:169:33	w	فِيهِ࣌		فيه	(is) in it	fīhi
+13	7:169:34	w	وَالدَّارُ		والدار	And the home	wal-dāru
+13	7:169:35	w	ࡲ۬لَاخِرَةُ		الاخرة	(of) the Hereafter	l-ākhiratu
+14	7:169:36	w	خَيْرࣱ		خير	(is) better	khayrun
+14	7:169:37	w	لِّلذِينَ		للذين	for those who	lilladhīna
+14	7:169:38	w	يَتَّقُونَ࣌		يتقون	fear Allah	yattaqūna
+14	7:169:39	w	أَفَلَا		افلا	So will not	afalā
+14	7:169:40	w	تَعْقِلُونَ࣌		تعقلون	you use intellect	taʿqilūna
+14	7:169:41	e	۝١٦٩				
+14	7:170:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+14	7:170:2	w	يُمَسِّكُونَ		يمسكون	hold fast	yumassikūna
+15	7:170:3	w	بِالْكِتَٰبِ		بالكتب	to the Book	bil-kitābi
+15	7:170:4	w	وَأَقَامُواْ		واقاموا	and establish	wa-aqāmū
+15	7:170:5	w	ࡲ۬لصَّلَوٰةَ		الصلوة	the prayer	l-ṣalata
+15	7:170:6	w	إِنَّا		انا	indeed, We	innā
+15	7:170:7	w	لَا		لا	(will) not	lā
+15	7:170:8	w	نُضِيعُ		نضيع	[We] let go waste	nuḍīʿu
+15	7:170:9	w	أَجْرَ		اجر	(the) reward	ajra
+15	7:170:10	w	ࡰ۬لْمُصْلِحِينَ࣌		المصلحين	(of) the reformers	l-muṣ'liḥīna
+15	7:170:11	e	۝١٧٠				

@@ -1,0 +1,132 @@
+1	39:65:1	w	وَنُفِخَ		ونفخ	And (will) be blown	wanufikha
+1	39:65:2	w	فِے		في	[in]	fī
+1	39:65:3	w	ࡴ۬لصُّورِ		الصور	the trumpet	l-ṣūri
+1	39:65:4	w	فَصَعِقَ		فصعق	then (will) fall dead	faṣaʿiqa
+1	39:65:5	w	مَن		من	whoever	man
+1	39:65:6	w	فِے		في	(is) in	fī
+1	39:65:7	w	ࡴ۬لسَّمَٰوَٰتِ		السموت	the heavens	l-samāwāti
+1	39:65:8	w	وَمَن		ومن	and whoever	waman
+1	39:65:9	w	فِے		في	(is) on	fī
+1	39:65:10	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+2	39:65:11	w	إِلَّا		الا	except	illā
+2	39:65:12	w	مَن		من	whom	man
+2	39:65:13	w	شَآءَ		شا	Allah wills	shāa
+2	39:65:14	w	ࡰ۬للَّهُ࣌		الله	Allah wills	l-lahu
+2	39:65:15	w	ثُمَّ		ثم	Then	thumma
+2	39:65:16	w	نُفِخَ		نفخ	(it will) be blown	nufikha
+2	39:65:17	w	فِيهِ		فيه	[in it]	fīhi
+2	39:65:18	w	أُخْرٜىٰ		اخري	a second time	ukh'rā
+2	39:65:19	w	فَإِذَا		فاذا	and behold	fa-idhā
+2	39:65:20	w	هُمْ		هم	They	hum
+2	39:65:21	w	قِيَامࣱ		قيام	(will be) standing	qiyāmun
+2	39:65:22	w	يَنظُرُونَ࣌		ينظرون	waiting	yanẓurūna
+2	39:65:23	e	۝٦٥				
+3	39:66:1	w	وَأَشْرَقَتِ		واشرقت	And (will) shine	wa-ashraqati
+3	39:66:2	w	ࡴ۬لَارْضُ		الارض	the earth	l-arḍu
+3	39:66:3	w	بِنُورِ		بنور	with (the) light	binūri
+3	39:66:4	w	رَبِّهَا		ربها	(of) its Lord	rabbihā
+3	39:66:5	w	وَوُضِعَ		ووضع	and (will) be placed	wawuḍiʿa
+3	39:66:6	w	ࡰ۬لْكِتَٰبُ		الكتب	the Record	l-kitābu
+3	39:66:7	w	وَجِےٓءَ		وجي	and (will) be brought	wajīa
+4	39:66:8	w	بِالنَّبِيٓـِٕۑنَ		بالنبين	the Prophets	bil-nabiyīna
+4	39:66:9	w	وَالشُّهَدَآءِ		والشهدا	and the witnesses	wal-shuhadāi
+4	39:66:10	w	وَقُضِيَ		وقضي	and it (will) be judged	waquḍiya
+4	39:66:11	w	بَيْنَهُم		بينهم	between them	baynahum
+4	39:66:12	w	بِالْحَقِّ		بالحق	in truth	bil-ḥaqi
+4	39:66:13	w	وَهُمْ		وهم	and they	wahum
+4	39:66:14	w	لَا		لا	will not be wronged	lā
+4	39:66:15	w	يُظْلَمُونَ࣌		يظلمون	will not be wronged	yuẓ'lamūna
+4	39:66:16	e	۝٦٦				
+5	39:67:1	w	وَوُفِّيَتْ		ووفيت	And (will) be paid in full	wawuffiyat
+5	39:67:2	w	كُلُّ		كل	every	kullu
+5	39:67:3	w	نَفْسࣲ		نفس	soul	nafsin
+5	39:67:4	w	مَّا		ما	what	mā
+5	39:67:5	w	عَمِلَتْ		عملت	it did	ʿamilat
+5	39:67:6	w	وَهُوَ		وهو	and He	wahuwa
+5	39:67:7	w	أَعْلَمُ		اعلم	(is the) Best-Knower	aʿlamu
+5	39:67:8	w	بِمَا		بما	of what	bimā
+5	39:67:9	w	يَفْعَلُونَ࣌		يفعلون	they do	yafʿalūna
+5	39:67:10	e	۝٦٧				
+6	39:68:1	w	وَسِيقَ		وسيق	And (will) be driven	wasīqa
+6	39:68:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+6	39:68:3	w	كَفَرُوٓاْ		كفروا	disbelieve	kafarū
+6	39:68:4	w	إِلَىٰ		الي	to	ilā
+6	39:68:5	w	جَهَنَّمَ		جهنم	Hell	jahannama
+6	39:68:6	w	زُمَراً࣌		زمرا	(in) groups	zumaran
+6	39:68:7	w	حَتَّىٰٓ		حتي	until	ḥattā
+6	39:68:8	w	إِذَا		اذا	when	idhā
+6	39:68:9	w	جَآءُوهَا		جاوها	they reach it	jāūhā
+7	39:68:10	w	فُتِّحَتَ		فتحت	(will) be opened	futiḥat
+7	39:68:11	w	ࡰبْوَٰبُهَا		ابوبها	its gates	abwābuhā
+7	39:68:12	w	وَقَالَ		وقال	and (will) say	waqāla
+7	39:68:13	w	لَهُمْ		لهم	to them	lahum
+7	39:68:14	w	خَزَنَتُهَآ		خزنتها	its keepers	khazanatuhā
+7	39:68:15	w	أَلَمْ		الم	Did not	alam
+7	39:68:16	w	يَاتِكُمْ		ياتكم	come to you	yatikum
+7	39:68:17	w	رُسُلࣱ		رسل	Messengers	rusulun
+7	39:68:18	w	مِّنكُمْ		منكم	from you	minkum
+8	39:68:19	w	يَتْلُونَ		يتلون	reciting	yatlūna
+8	39:68:20	w	عَلَيْكُمُۥٓ		عليكم	to you	ʿalaykum
+8	39:68:21	w	ءَايَٰتِ		ايت	(the) Verses	āyāti
+8	39:68:22	w	رَبِّكُمْ		ربكم	(of) your Lord	rabbikum
+8	39:68:23	w	وَيُنذِرُونَكُمْ		وينذرونكم	and warning you	wayundhirūnakum
+8	39:68:24	w	لِقَآءَ		لقا	(of the) meeting	liqāa
+8	39:68:25	w	يَوْمِكُمْ		يومكم	(of) your Day	yawmikum
+9	39:68:26	w	هَٰذَا࣌		هذا	this	hādhā
+9	39:68:27	w	قَالُواْ		قالوا	They (will) say	qālū
+9	39:68:28	w	بَلٜىٰ		بلي	Yes	balā
+9	39:68:29	w	وَلَٰكِنْ		ولكن	But	walākin
+9	39:68:30	w	حَقَّتْ		حقت	has been justified	ḥaqqat
+9	39:68:31	w	كَلِمَةُ		كلمة	(the) word	kalimatu
+9	39:68:32	w	ࡲ۬لْعَذَابِ		العذاب	(of) punishment	l-ʿadhābi
+9	39:68:33	w	عَلَى		علي	against	ʿalā
+9	39:68:34	w	ࡰ۬لْكٜـٰفِرِينَ࣌		الكفرين	the disbelievers	l-kāfirīna
+9	39:68:35	e	۝٦٨				
+10	39:69:1	w	قِيلَ		قيل	It will be said	qīla
+10	39:69:2	w	ࡸَدْخُلُوٓاْ		ادخلوا	Enter	ud'khulū
+10	39:69:3	w	أَبْوَٰبَ		ابوب	(the) gates	abwāba
+10	39:69:4	w	جَهَنَّمَ		جهنم	(of) Hell	jahannama
+10	39:69:5	w	خَٰلِدِينَ		خلدين	(to) abide eternally	khālidīna
+10	39:69:6	w	فِيهَا࣌		فيها	therein	fīhā
+10	39:69:7	w	فَبِيسَ		فبيس	and wretched is	fabi'sa
+10	39:69:8	w	مَثْوَى		مثوي	(the) abode	mathwā
+11	39:69:9	w	ࡰ۬لْمُتَكَبِّرِينَ࣌		المتكبرين	(of) the arrogant	l-mutakabirīna
+11	39:69:10	e	۝٦٩				
+11	39:70:1	w	وَسِيقَ		وسيق	And (will) be driven	wasīqa
+11	39:70:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+11	39:70:3	w	ࡰٜتَّقَوْاْ		اتقوا	feared	ittaqaw
+11	39:70:4	w	رَبَّهُمُۥٓ		ربهم	their Lord	rabbahum
+11	39:70:5	w	إِلَى		الي	to	ilā
+11	39:70:6	w	ࡰ۬لْجَنَّةِ		الجنة	Paradise	l-janati
+12	39:70:7	w	زُمَراً࣌		زمرا	(in) groups	zumaran
+12	39:70:8	w	حَتَّىٰٓ		حتي	until	ḥattā
+12	39:70:9	w	إِذَا		اذا	when	idhā
+12	39:70:10	w	جَآءُوهَا		جاوها	they reach it	jāūhā
+12	39:70:11	w	وَفُتِّحَتَ		وفتحت	and (will) be opened	wafutiḥat
+12	39:70:12	w	ࡰبْوَٰبُهَا		ابوبها	its gates	abwābuhā
+12	39:70:13	w	وَقَالَ		وقال	and (will) say	waqāla
+12	39:70:14	w	لَهُمْ		لهم	to them	lahum
+12	39:70:15	w	خَزَنَتُهَا		خزنتها	its keepers	khazanatuhā
+13	39:70:16	w	سَلَٰمٌ		سلم	Peace be	salāmun
+13	39:70:17	w	عَلَيْكُمْ		عليكم	upon you	ʿalaykum
+13	39:70:18	w	طِبْتُمْ		طبتم	you have done well	ṭib'tum
+13	39:70:19	w	فَادْخُلُوهَا		فادخلوها	so enter it	fa-ud'khulūhā
+13	39:70:20	w	خَٰلِدِينَ࣌		خلدين	(to) abide eternally	khālidīna
+13	39:70:21	e	۝٧٠				
+13	39:71:1	w	وَقَالُواْ		وقالوا	And they will say	waqālū
+14	39:71:2	w	ࡲ۬لْحَمْدُ		الحمد	All praise	l-ḥamdu
+14	39:71:3	w	لِلهِ		لله	(be) to Allah	lillahi
+14	39:71:4	w	ࡴ۬لذِے		الذي	Who	alladhī
+14	39:71:5	w	صَدَقَنَا		صدقنا	has fulfilled for us	ṣadaqanā
+14	39:71:6	w	وَعْدَهُۥ		وعده	His promise	waʿdahu
+14	39:71:7	w	وَأَوْرَثَنَا		واورثنا	and has made us inherit	wa-awrathanā
+14	39:71:8	w	ࡰ۬لَارْضَ		الارض	the earth	l-arḍa
+15	39:71:9	w	نَتَبَوَّأُ		نتبوا	we may settle	natabawwa-u
+15	39:71:10	w	مِنَ		من	[from]	mina
+15	39:71:11	w	ࡰ۬لْجَنَّةِ		الجنة	(in) Paradise	l-janati
+15	39:71:12	w	حَيْثُ		حيث	wherever	ḥaythu
+15	39:71:13	w	نَشَآءُ		نشا	we wish	nashāu
+15	39:71:14	w	فَنِعْمَ		فنعم	So excellent	faniʿ'ma
+15	39:71:15	w	أَجْرُ		اجر	(is the) reward	ajru
+15	39:71:16	w	ࡲ۬لْعَٰمِلِينَ࣌		العملين	(of) the workers	l-ʿāmilīna
+15	39:71:17	e	۝٧١				

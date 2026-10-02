@@ -1,0 +1,135 @@
+1	3:83:1	w	قُلَ		قل	Say	qul
+1	3:83:2	w	اٰمَنَّا		امنا	We believed	āmannā
+1	3:83:3	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+1	3:83:4	w	وَمَآ		وما	and what	wamā
+1	3:83:5	w	أُنزِلَ		انزل	(is) revealed	unzila
+1	3:83:6	w	عَلَيْنَا		علينا	on us	ʿalaynā
+1	3:83:7	w	وَمَآ		وما	and what	wamā
+1	3:83:8	w	أُنزِلَ		انزل	was revealed	unzila
+1	3:83:9	w	عَلَىٰٓ		علي	on	ʿalā
+1	3:83:10	w	إِبْرَٰهِيمَ		ابرهيم	Ibrahim	ib'rāhīma
+2	3:83:11	w	وَإِسْمَٰعِيلَ		واسمعيل	and Ishmael	wa-is'māʿīla
+2	3:83:12	w	وَإِسْحَٰقَ		واسحق	and Isaac	wa-is'ḥāqa
+2	3:83:13	w	وَيَعْقُوبَ		ويعقوب	and Yaqub	wayaʿqūba
+2	3:83:14	w	وَالَاسْبَاطِ		والاسباط	and the descendents	wal-asbāṭi
+2	3:83:15	w	وَمَآ		وما	and what	wamā
+2	3:83:16	w	أُوتِيَ		اوتي	was given	ūtiya
+2	3:83:17	w	مُوسٜىٰ		موسي	(to) Musa	mūsā
+3	3:83:18	w	وَعِيسٜىٰ		وعيسي	and Isa	waʿīsā
+3	3:83:19	w	وَالنَّبِيٓـُٔونَ		والنبيون	and the Prophets	wal-nabiyūna
+3	3:83:20	w	مِن		من	from	min
+3	3:83:21	w	رَّبِّهِمْ		ربهم	their Lord	rabbihim
+3	3:83:22	w	لَا		لا	Not	lā
+3	3:83:23	w	نُفَرِّقُ		نفرق	we make distinction	nufarriqu
+3	3:83:24	w	بَيْنَ		بين	between	bayna
+3	3:83:25	w	أَحَدࣲ		احد	any	aḥadin
+3	3:83:26	w	مِّنْهُمْ		منهم	of them	min'hum
+4	3:83:27	w	وَنَحْنُ		ونحن	and we	wanaḥnu
+4	3:83:28	w	لَهُۥ		له	to Him	lahu
+4	3:83:29	w	مُسْلِمُونَ࣌		مسلمون	(are) submissive	mus'limūna
+4	3:83:30	e	۝٨٣				
+4	3:84:1	w	وَمَنْ		ومن	And whoever	waman
+4	3:84:2	w	يَّبْتَغِ		يبتغ	seeks	yabtaghi
+4	3:84:3	w	غَيْرَ		غير	other than	ghayra
+4	3:84:4	w	ࡰ۬لِاسْلَٰمِ		الاسلم	[the] Islam	l-is'lāmi
+4	3:84:5	w	دِيناࣰ		دينا	(as) religion	dīnan
+4	3:84:6	w	فَلَنْ		فلن	then never	falan
+5	3:84:7	w	يُّقْبَلَ		يقبل	will be accepted	yuq'bala
+5	3:84:8	w	مِنْهُ࣌		منه	from him	min'hu
+5	3:84:9	w	وَهُوَ		وهو	and he	wahuwa
+5	3:84:10	w	فِے		في	in	fī
+5	3:84:11	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+5	3:84:12	w	مِنَ		من	(will be) from	mina
+5	3:84:13	w	ࡰ۬لْخَٰسِرِينَ࣌		الخسرين	the losers	l-khāsirīna
+5	3:84:14	e	۝٨٤				
+5	3:85:1	w	كَيْفَ		كيف	How	kayfa
+6	3:85:2	w	يَهْدِے		يهدي	(shall) guide	yahdī
+6	3:85:3	w	ࡴ۬للَّهُ		الله	Allah	l-lahu
+6	3:85:4	w	قَوْماࣰ		قوما	a people	qawman
+6	3:85:5	w	كَفَرُواْ		كفروا	(who) disbelieved	kafarū
+6	3:85:6	w	بَعْدَ		بعد	after	baʿda
+6	3:85:7	w	إِيمَٰنِهِمْ		ايمنهم	their belief	īmānihim
+6	3:85:8	w	وَشَهِدُوٓاْ		وشهدوا	and (had) witnessed	washahidū
+7	3:85:9	w	أَنَّ		ان	that	anna
+7	3:85:10	w	ࡰ۬لرَّسُولَ		الرسول	the Messenger	l-rasūla
+7	3:85:11	w	حَقࣱّ		حق	(is) true	ḥaqqun
+7	3:85:12	w	وَجَآءَهُمُ		وجاهم	and came to them	wajāahumu
+7	3:85:13	w	ࡲ۬لْبَيِّنَٰتُ࣌		البينت	the clear proofs	l-bayinātu
+7	3:85:14	w	وَاللَّهُ		والله	And Allah	wal-lahu
+7	3:85:15	w	لَا		لا	(does) not	lā
+7	3:85:16	w	يَهْدِے		يهدي	guide	yahdī
+7	3:85:17	w	ࡴ۬لْقَوْمَ		القوم	the people	l-qawma
+8	3:85:18	w	ࡰ۬لظَّٰلِمِينَ࣌		الظلمين	[the] wrongdoers	l-ẓālimīna
+8	3:85:19	e	۝٨٥				
+8	3:86:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+8	3:86:2	w	جَزَآؤُهُمُۥٓ		جزاوهم	their recompense	jazāuhum
+8	3:86:3	w	أَنَّ		ان	that	anna
+8	3:86:4	w	عَلَيْهِمْ		عليهم	on them	ʿalayhim
+8	3:86:5	w	لَعْنَةَ		لعنة	(is the) curse	laʿnata
+8	3:86:6	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+9	3:86:7	w	وَالْمَلَٰٓئِكَةِ		والمليكة	and the Angels	wal-malāikati
+9	3:86:8	w	وَالنَّاسِ		والناس	and the people	wal-nāsi
+9	3:86:9	w	أَجْمَعِينَ		اجمعين	all together	ajmaʿīna
+9	3:86:10	e	۝٨٦				
+9	3:87:1	w	خَٰلِدِينَ		خلدين	(They will) abide forever	khālidīna
+9	3:87:2	w	فِيهَا		فيها	in it	fīhā
+9	3:87:3	w	لَا		لا	Not	lā
+9	3:87:4	w	يُخَفَّفُ		يخفف	will be lightened	yukhaffafu
+10	3:87:5	w	عَنْهُمُ		عنهم	for them	ʿanhumu
+10	3:87:6	w	ࡲ۬لْعَذَابُ		العذاب	the punishment	l-ʿadhābu
+10	3:87:7	w	وَلَا		ولا	and not	walā
+10	3:87:8	w	هُمْ		هم	they	hum
+10	3:87:9	w	يُنظَرُونَ		ينظرون	will be reprieved	yunẓarūna
+10	3:87:10	e	۝٨٧				
+10	3:88:1	w	إِلَّا		الا	Except	illā
+10	3:88:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+10	3:88:3	w	تَابُواْ		تابوا	repent	tābū
+10	3:88:4	w	مِنۢ		من	from	min
+11	3:88:5	w	بَعْدِ		بعد	after	baʿdi
+11	3:88:6	w	ذَٰلِكَ		ذلك	that	dhālika
+11	3:88:7	w	وَأَصْلَحُواْ		واصلحوا	and reform[ed] themselves	wa-aṣlaḥū
+11	3:88:8	w	فَإِنَّ		فان	Then indeed	fa-inna
+11	3:88:9	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+11	3:88:10	w	غَفُورࣱ		غفور	(is) Oft-Forgiving	ghafūrun
+11	3:88:11	w	رَّحِيمٌ࣌		رحيم	Most Merciful	raḥīmun
+11	3:88:12	e	۝٨٨				
+11	3:89:1	w	ࡴنَّ		ان	Indeed	inna
+11	3:89:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	3:89:3	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+12	3:89:4	w	بَعْدَ		بعد	after	baʿda
+12	3:89:5	w	إِيمَٰنِهِمْ		ايمنهم	their belief	īmānihim
+12	3:89:6	w	ثُمَّ		ثم	then	thumma
+12	3:89:7	w	ࡰٜزْدَادُواْ		ازدادوا	they increased	iz'dādū
+12	3:89:8	w	كُفْراࣰ		كفرا	(in) disbelief	kuf'ran
+12	3:89:9	w	لَّن		لن	never	lan
+12	3:89:10	w	تُقْبَلَ		تقبل	will be accepted	tuq'bala
+12	3:89:11	w	تَوْبَتُهُمْ࣌		توبتهم	their repentance	tawbatuhum
+13	3:89:12	w	وَأُوْلَٰٓئِكَ		واوليك	and those	wa-ulāika
+13	3:89:13	w	هُمُ		هم	they	humu
+13	3:89:14	w	ࡲ۬لضَّآلُّونَ࣌		الضالون	(are) those who have gone astray	l-ḍālūna
+13	3:89:15	e	۝٨٩				
+13	3:90:1	w	إِنَّ		ان	Indeed	inna
+13	3:90:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+13	3:90:3	w	كَفَرُواْ		كفروا	disbelieve[d]	kafarū
+13	3:90:4	w	وَمَاتُواْ		وماتوا	and died	wamātū
+14	3:90:5	w	وَهُمْ		وهم	while they	wahum
+14	3:90:6	w	كُفَّارࣱ		كفار	(are) disbelievers	kuffārun
+14	3:90:7	w	فَلَنْ		فلن	then never	falan
+14	3:90:8	w	يُّقْبَلَ		يقبل	will be accepted	yuq'bala
+14	3:90:9	w	مِنَ		من	from	min
+14	3:90:10	w	ࡰحَدِهِم		احدهم	any one of them	aḥadihim
+14	3:90:11	w	مِّلْءُ		مل	full	mil'u
+14	3:90:12	w	ࡲ۬لَارْضِ		الارض	earth	l-arḍi
+14	3:90:13	w	ذَهَباࣰ		ذهبا	(of) gold	dhahaban
+14	3:90:14	w	وَلَوِ		ولو	[and] (even) if	walawi
+15	3:90:15	w	ࡴٜفْتَدٜىٰ		افتدي	he offered as ransom	if'tadā
+15	3:90:16	w	بِهِۦٓ࣌		بهي	it	bihi
+15	3:90:17	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+15	3:90:18	w	لَهُمْ		لهم	for them	lahum
+15	3:90:19	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+15	3:90:20	w	ࡰلِيمࣱ࣌		اليم	painful	alīmun
+15	3:90:21	w	وَمَا		وما	and not	wamā
+15	3:90:22	w	لَهُم		لهم	(will be) for them	lahum
+15	3:90:23	w	مِّن		من	any	min
+15	3:90:24	w	نَّٰصِرِينَ࣌		نصرين	helpers	nāṣirīna
+15	3:90:25	e	۝٩٠				

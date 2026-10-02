@@ -13,7 +13,12 @@ object Arabic {
                 isMark(c) -> Unit
                 c == 'ـ' -> Unit // tatweel
                 c in "آأإٱٲٳ" -> out.append('ا') // alef forms
-                c == 'ى' || c == 'ی' -> out.append('ي') // alef maqsura, Farsi yeh
+                c in 'ࡰ'..'ࢆ' -> out.append('ا') // the Warsh mushaf's alef forms (Arabic Extended-B)
+                c == 'ى' || c == 'ی' || c == 'ے' -> out.append('ي') // alef maqsura, Farsi yeh, yeh barree
+                c == 'ڢ' -> out.append('ف') // the Maghrebi feh, its dot below
+                c == 'ڧ' || c == 'ٯ' -> out.append('ق') // the Maghrebi qaf, one dot above or none
+                c == 'ۨ' -> out.append('ن') // a small nun written as a sign (12:110 in Warsh)
+                c in "ۑࢇۥۦࣉ" -> Unit // seats and small letters that are signs, not letters
                 c == 'ة' -> out.append('ه') // teh marbuta
                 c == 'ؤ' -> out.append('و') // waw with hamza
                 c == 'ئ' -> out.append('ي') // yeh with hamza

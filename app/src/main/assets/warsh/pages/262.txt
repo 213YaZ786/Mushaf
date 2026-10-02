@@ -1,0 +1,127 @@
+1	15:0:0	t					
+2	15:0:0	b					
+3	15:1:1	w	أَلَٓرٜ࣌		الر	Alif Laam Ra	alif-lam-ra
+3	15:1:2	w	تِلْكَ		تلك	These	til'ka
+3	15:1:3	w	ءَايَٰتُ		ايت	(are) the Verses	āyātu
+3	15:1:4	w	ࡲ۬لْكِتَٰبِ		الكتب	(of) the Book	l-kitābi
+3	15:1:5	w	وَقُرْءَانࣲ		وقران	and Quran	waqur'ānin
+3	15:1:6	w	مُّبِينࣲ࣌		مبين	clear	mubīnin
+3	15:1:7	e	۝١				
+3	15:2:1	w	رُّبَمَا		ربما	Perhaps	rubamā
+3	15:2:2	w	يَوَدُّ		يود	will wish	yawaddu
+4	15:2:3	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+4	15:2:4	w	كَفَرُواْ		كفروا	disbelieved	kafarū
+4	15:2:5	w	لَوْ		لو	if	law
+4	15:2:6	w	كَانُواْ		كانوا	they had been	kānū
+4	15:2:7	w	مُسْلِمِينَ࣌		مسلمين	Muslims	mus'limīna
+4	15:2:8	e	۝٢				
+4	15:3:1	w	ذَرْهُمْ		ذرهم	Leave them	dharhum
+4	15:3:2	w	يَاكُلُواْ		ياكلوا	(to) eat	yakulū
+5	15:3:3	w	وَيَتَمَتَّعُواْ		ويتمتعوا	and enjoy	wayatamattaʿū
+5	15:3:4	w	وَيُلْهِهِمُ		ويلههم	and diverted them	wayul'hihimu
+5	15:3:5	w	ࡲ۬لَامَلُ࣌		الامل	the hope	l-amalu
+5	15:3:6	w	فَسَوْفَ		فسوف	then soon	fasawfa
+5	15:3:7	w	يَعْلَمُونَ࣌		يعلمون	they will come to know	yaʿlamūna
+5	15:3:8	e	۝٣				
+5	15:4:1	w	وَمَآ		وما	And not	wamā
+5	15:4:2	w	أَهْلَكْنَا		اهلكنا	We destroyed	ahlaknā
+6	15:4:3	w	مِن		من	any	min
+6	15:4:4	w	قَرْيَةٍ		قرية	town	qaryatin
+6	15:4:5	w	ࡴلَّا		الا	but	illā
+6	15:4:6	w	وَلَهَا		ولها	(there was) for it	walahā
+6	15:4:7	w	كِتَابࣱ		كتاب	a decree	kitābun
+6	15:4:8	w	مَّعْلُومࣱ࣌		معلوم	known	maʿlūmun
+6	15:4:9	e	۝٤				
+6	15:5:1	w	مَّا		ما	Not	mā
+6	15:5:2	w	تَسْبِقُ		تسبق	(can) advance	tasbiqu
+6	15:5:3	w	مِنُ		من	any	min
+6	15:5:4	w	ࡳمَّةٍ		امة	nation	ummatin
+7	15:5:5	w	ࡰجَلَهَا		اجلها	its term	ajalahā
+7	15:5:6	w	وَمَا		وما	and not	wamā
+7	15:5:7	w	يَسْتَٰخِرُونَ࣌		يستخرون	(can) delay it	yastakhirūna
+7	15:5:8	e	۝٥				
+7	15:6:1	w	وَقَالُواْ		وقالوا	And they say	waqālū
+7	15:6:2	w	يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+7	15:6:3	w	ࡰ۬لذِے		الذي	(to) whom	alladhī
+7	15:6:4	w	نُزِّلَ		نزل	has been sent down	nuzzila
+7	15:6:5	w	عَلَيْهِ		عليه	[on him]	ʿalayhi
+8	15:6:6	w	ࡴ۬لذِّكْرُ		الذكر	the Reminder	l-dhik'ru
+8	15:6:7	w	إِنَّكَ		انك	indeed, you	innaka
+8	15:6:8	w	لَمَجْنُونࣱ		لمجنون	(are) surely mad	lamajnūnun
+8	15:6:9	e	۝٦				
+8	15:7:1	w	لَّوْمَا		لوما	Why	law
+8	15:7:2	w	تَاتِينَا		تاتينا	not	mā
+8	15:7:3	w	بِالْمَلَٰٓئِكَةِ		بالمليكة	you bring to us	tatīnā
+8	15:7:4	w	إِن		ان	the Angels	bil-malāikati
+8	15:7:5	w	كُنتَ		كنت	if	in
+9	15:7:6	w	مِنَ		من	you are	kunta
+9	15:7:7	w	ࡰ۬لصَّٰدِقِينَ࣌		الصدقين	of	mina
+9	15:7:8	e	۝٧				
+9	15:8:1	w	مَا		ما	Not	mā
+9	15:8:2	w	تَنَزَّلُ		تنزل	We send down	nunazzilu
+9	15:8:3	w	ࡲ۬لْمَلَٰٓئِكَةُ		المليكة	the Angels	l-malāikata
+9	15:8:4	w	إِلَّا		الا	except	illā
+9	15:8:5	w	بِالْحَقِّ࣌		بالحق	with the truth	bil-ḥaqi
+9	15:8:6	w	وَمَا		وما	and not	wamā
+9	15:8:7	w	كَانُوٓاْ		كانوا	they would be	kānū
+10	15:8:8	w	إِذاࣰ		اذا	then	idhan
+10	15:8:9	w	مُّنظَرِينَ࣌		منظرين	given respite	munẓarīna
+10	15:8:10	e	۝٨				
+10	15:9:1	w	إِنَّا		انا	Indeed, We	innā
+10	15:9:2	w	نَحْنُ		نحن	We	naḥnu
+10	15:9:3	w	نَزَّلْنَا		نزلنا	have sent down	nazzalnā
+10	15:9:4	w	ࡰ۬لذِّكْرَ࣌		الذكر	the Reminder	l-dhik'ra
+10	15:9:5	w	وَإِنَّا		وانا	and indeed, We	wa-innā
+10	15:9:6	w	لَهُۥ		له	of it	lahu
+10	15:9:7	w	لَحَٰفِظُونَ࣌		لحفظون	(are) surely Guardians	laḥāfiẓūna
+10	15:9:8	e	۝٩				
+11	15:10:1	w	وَلَقَدَ		ولقد	And certainly	walaqad
+11	15:10:2	w	ࡰرْسَلْنَا		ارسلنا	We (had) sent	arsalnā
+11	15:10:3	w	مِن		من	before you	min
+11	15:10:4	w	قَبْلِكَ		قبلك	before you	qablika
+11	15:10:5	w	فِے		في	in	fī
+11	15:10:6	w	شِيَعِ		شيع	the sects	shiyaʿi
+11	15:10:7	w	ࡴ۬لَاوَّلِينَ࣌		الاولين	(of) the former (people)	l-awalīna
+11	15:10:8	e	۝١٠				
+11	15:11:1	w	وَمَا		وما	And not	wamā
+11	15:11:2	w	يَاتِيهِم		ياتيهم	came to them	yatīhim
+12	15:11:3	w	مِّن		من	any	min
+12	15:11:4	w	رَّسُولٍ		رسول	Messenger	rasūlin
+12	15:11:5	w	ࡴلَّا		الا	but	illā
+12	15:11:6	w	كَانُواْ		كانوا	they did	kānū
+12	15:11:7	w	بِهِۦ		بهي	at him	bihi
+12	15:11:8	w	يَسْتَهْزِءُونَ࣌		يستهزون	mock	yastahziūna
+12	15:11:9	e	۝١١				
+12	15:12:1	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+12	15:12:2	w	نَسْلُكُهُۥ		نسلكه	We let it enter	naslukuhu
+13	15:12:3	w	فِے		في	in	fī
+13	15:12:4	w	قُلُوبِ		قلوب	(the) hearts	qulūbi
+13	15:12:5	w	ࡴ۬لْمُجْرِمِينَ		المجرمين	(of) the criminals	l-muj'rimīna
+13	15:12:6	e	۝١٢				
+13	15:13:1	w	لَا		لا	Not	lā
+13	15:13:2	w	يُومِنُونَ		يومنون	they believe	yu'minūna
+13	15:13:3	w	بِهِۦ		بهي	in it	bihi
+13	15:13:4	w	وَقَدْ		وقد	and verily	waqad
+13	15:13:5	w	خَلَتْ		خلت	have passed	khalat
+13	15:13:6	w	سُنَّةُ		سنة	the way(s)	sunnatu
+13	15:13:7	w	ࡲ۬لَاوَّلِينَ࣌		الاولين	(of) the former (people)	l-awalīna
+13	15:13:8	e	۝١٣				
+14	15:14:1	w	وَلَوْ		ولو	And (even) if	walaw
+14	15:14:2	w	فَتَحْنَا		فتحنا	We opened	fataḥnā
+14	15:14:3	w	عَلَيْهِم		عليهم	to them	ʿalayhim
+14	15:14:4	w	بَاباࣰ		بابا	a gate	bāban
+14	15:14:5	w	مِّنَ		من	from	mina
+14	15:14:6	w	ࡰ۬لسَّمَآءِ		السما	the heaven	l-samāi
+14	15:14:7	w	فَظَلُّواْ		فظلوا	and they were to continue	faẓallū
+14	15:14:8	w	فِيهِ		فيه	therein	fīhi
+14	15:14:9	w	يَعْرُجُونَ		يعرجون	(to) ascend	yaʿrujūna
+14	15:14:10	e	۝١٤				
+15	15:15:1	w	لَقَالُوٓاْ		لقالوا	They would surely say	laqālū
+15	15:15:2	w	إِنَّمَا		انما	Only	innamā
+15	15:15:3	w	سُكِّرَتَ		سكرت	have been dazzled	sukkirat
+15	15:15:4	w	ࡰبْصَٰرُنَا		ابصرنا	our eyes	abṣārunā
+15	15:15:5	w	بَلْ		بل	Nay	bal
+15	15:15:6	w	نَحْنُ		نحن	we	naḥnu
+15	15:15:7	w	قَوْمࣱ		قوم	(are) a people	qawmun
+15	15:15:8	w	مَّسْحُورُونَ࣌		مسحورون	bewitched	masḥūrūna
+15	15:15:9	e	۝١٥				

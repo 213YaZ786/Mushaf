@@ -1,0 +1,138 @@
+1	22:45:1	w	وَيَسْتَعْجِلُونَكَ		ويستعجلونك	And they ask you to hasten	wayastaʿjilūnaka
+1	22:45:2	w	بِالْعَذَابِ࣌		بالعذاب	the punishment	bil-ʿadhābi
+1	22:45:3	w	وَلَنْ		ولن	But never will	walan
+1	22:45:4	w	يُّخْلِفَ		يخلف	fail/violate	yukh'lifa
+1	22:45:5	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+1	22:45:6	w	وَعْدَهُۥ࣌		وعده	(in) His Promise	waʿdahu
+1	22:45:7	w	وَإِنَّ		وان	And indeed	wa-inna
+1	22:45:8	w	يَوْماً		يوما	a day	yawman
+2	22:45:9	w	عِندَ		عند	with	ʿinda
+2	22:45:10	w	رَبِّكَ		ربك	your Lord	rabbika
+2	22:45:11	w	كَأَلْفِ		كالف	(is) like a thousand	ka-alfi
+2	22:45:12	w	سَنَةࣲ		سنة	year(s)	sanatin
+2	22:45:13	w	مِّمَّا		مما	of what	mimmā
+2	22:45:14	w	تَعُدُّونَ࣌		تعدون	you count	taʿuddūna
+2	22:45:15	e	۝٤٥				
+2	22:46:1	w	وَكَأَيِّن		وكاين	And how many	waka-ayyin
+2	22:46:2	w	مِّن		من	of	min
+3	22:46:3	w	قَرْيَةٍ		قرية	a township	qaryatin
+3	22:46:4	w	ࡰمْلَيْتُ		امليت	I gave respite	amlaytu
+3	22:46:5	w	لَهَا		لها	to it	lahā
+3	22:46:6	w	وَهِيَ		وهي	while it	wahiya
+3	22:46:7	w	ظَالِمَةࣱ		ظالمة	(was) doing wrong	ẓālimatun
+3	22:46:8	w	ثُمَّ		ثم	Then	thumma
+3	22:46:9	w	أَخَذتُّهَا࣌		اخذتها	I seized it	akhadhtuhā
+3	22:46:10	w	وَإِلَيَّ		والي	and to Me	wa-ilayya
+3	22:46:11	w	ࡰ۬لْمَصِيرُ࣌		المصير	(is) the destination	l-maṣīru
+3	22:46:12	e	۝٤٦				
+4	22:47:1	w	۞ قُلْ		قل	Say	qul
+4	22:47:2	w	يَٰٓأَيُّهَا		يايها	O mankind	yāayyuhā
+4	22:47:3	w	ࡰ۬لنَّاسُ		الناس	O mankind	l-nāsu
+4	22:47:4	w	إِنَّمَآ		انما	Only	innamā
+4	22:47:5	w	أَنَا		انا	I am	anā
+4	22:47:6	w	لَكُمْ		لكم	to you	lakum
+4	22:47:7	w	نَذِيرࣱ		نذير	a warner	nadhīrun
+4	22:47:8	w	مُّبِينࣱ࣌		مبين	clear	mubīnun
+4	22:47:9	e	۝٤٧				
+4	22:48:1	w	فَالذِينَ		فالذين	So those who	fa-alladhīna
+5	22:48:2	w	ءَامَنُواْ		امنوا	believe	āmanū
+5	22:48:3	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+5	22:48:4	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+5	22:48:5	w	لَهُم		لهم	for them	lahum
+5	22:48:6	w	مَّغْفِرَةࣱ		مغفرة	(is) forgiveness	maghfiratun
+5	22:48:7	w	وَرِزْقࣱ		ورزق	and a provision	wariz'qun
+5	22:48:8	w	كَرِيمࣱ࣌		كريم	noble	karīmun
+5	22:48:9	e	۝٤٨				
+6	22:49:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+6	22:49:2	w	سَعَوْاْ		سعوا	strove	saʿaw
+6	22:49:3	w	فِےٓ		في	against	fī
+6	22:49:4	w	ءَايَٰتِنَا		ايتنا	Our Verses	āyātinā
+6	22:49:5	w	مُعَٰجِزِينَ		معجزين	(to) cause failure	muʿājizīna
+6	22:49:6	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+6	22:49:7	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+7	22:49:8	w	ࡲ۬لْجَحِيمِ࣌		الجحيم	(of) the Hellfire	l-jaḥīmi
+7	22:49:9	e	۝٤٩				
+7	22:50:1	w	وَمَآ		وما	And not	wamā
+7	22:50:2	w	أَرْسَلْنَا		ارسلنا	We sent	arsalnā
+7	22:50:3	w	مِن		من	before you	min
+7	22:50:4	w	قَبْلِكَ		قبلك	before you	qablika
+7	22:50:5	w	مِن		من	any	min
+7	22:50:6	w	رَّسُولࣲ		رسول	Messenger	rasūlin
+7	22:50:7	w	وَلَا		ولا	and not	walā
+7	22:50:8	w	نَبِےٓءٍ		نبي	a Prophet	nabiyyin
+7	22:50:9	w	ࡴلَّآ		الا	but	illā
+8	22:50:10	w	إِذَا		اذا	when	idhā
+8	22:50:11	w	تَمَنّٜىٰٓ		تمني	he recited	tamannā
+8	22:50:12	w	أَلْقَى		القي	threw	alqā
+8	22:50:13	w	ࡰ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan	l-shayṭānu
+8	22:50:14	w	فِےٓ		في	in	fī
+8	22:50:15	w	أُمْنِيَّتِهِۦ		امنيتهي	his recitation	um'niyyatihi
+8	22:50:16	w	فَيَنسَخُ		فينسخ	But Allah abolishes	fayansakhu
+8	22:50:17	w	ࡲ۬للَّهُ		الله	But Allah abolishes	l-lahu
+8	22:50:18	w	مَا		ما	what	mā
+8	22:50:19	w	يُلْقِے		يلقي	throws	yul'qī
+9	22:50:20	w	ࡴ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan	l-shayṭānu
+9	22:50:21	w	ثُمَّ		ثم	then	thumma
+9	22:50:22	w	يُحْكِمُ		يحكم	Allah will establish	yuḥ'kimu
+9	22:50:23	w	ࡲ۬للَّهُ		الله	Allah will establish	l-lahu
+9	22:50:24	w	ءَايَٰتِهِۦ		ايتهي	His Verses	āyātihi
+9	22:50:25	w	وَاللَّهُ		والله	And Allah	wal-lahu
+9	22:50:26	w	عَلِيمٌ		عليم	(is) All-Knower	ʿalīmun
+9	22:50:27	w	حَكِيمࣱ		حكيم	All-Wise	ḥakīmun
+9	22:50:28	e	۝٥٠				
+10	22:51:1	w	لِّيَجْعَلَ		ليجعل	That He may make	liyajʿala
+10	22:51:2	w	مَا		ما	what	mā
+10	22:51:3	w	يُلْقِے		يلقي	the Shaitaan throws	yul'qī
+10	22:51:4	w	ࡴ۬لشَّيْطَٰنُ		الشيطن	the Shaitaan throws	l-shayṭānu
+10	22:51:5	w	فِتْنَةࣰ		فتنة	a trial	fit'natan
+10	22:51:6	w	لِّلذِينَ		للذين	for those	lilladhīna
+10	22:51:7	w	فِے		في	in	fī
+10	22:51:8	w	قُلُوبِهِم		قلوبهم	their hearts	qulūbihim
+10	22:51:9	w	مَّرَضࣱ		مرض	(is) a disease	maraḍun
+11	22:51:10	w	وَالْقَاسِيَةِ		والقاسية	and (are) hardened	wal-qāsiyati
+11	22:51:11	w	قُلُوبُهُمْ࣌		قلوبهم	their hearts	qulūbuhum
+11	22:51:12	w	وَإِنَّ		وان	And indeed	wa-inna
+11	22:51:13	w	ࡰ۬لظَّٰلِمِينَ		الظلمين	the wrongdoers	l-ẓālimīna
+11	22:51:14	w	لَفِے		لفي	(are) surely, in	lafī
+11	22:51:15	w	شِقَاقِۢ		شقاق	schism	shiqāqin
+11	22:51:16	w	بَعِيدࣲ࣌		بعيد	far	baʿīdin
+11	22:51:17	e	۝٥١				
+12	22:52:1	w	وَلِيَعْلَمَ		وليعلم	And that may know	waliyaʿlama
+12	22:52:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+12	22:52:3	w	أُوتُواْ		اوتوا	have been given	ūtū
+12	22:52:4	w	ࡲ۬لْعِلْمَ		العلم	the knowledge	l-ʿil'ma
+12	22:52:5	w	أَنَّهُ		انه	that it	annahu
+12	22:52:6	w	ࡲ۬لْحَقُّ		الحق	(is) the truth	l-ḥaqu
+12	22:52:7	w	مِن		من	from	min
+12	22:52:8	w	رَّبِّكَ		ربك	your Lord	rabbika
+12	22:52:9	w	فَيُومِنُواْ		فيومنوا	and they believe	fayu'minū
+13	22:52:10	w	بِهِۦ		بهي	in it	bihi
+13	22:52:11	w	فَتُخْبِتَ		فتخبت	and may humbly submit	fatukh'bita
+13	22:52:12	w	لَهُۥ		له	to it	lahu
+13	22:52:13	w	قُلُوبُهُمْ࣌		قلوبهم	their hearts	qulūbuhum
+13	22:52:14	w	وَإِنَّ		وان	And indeed	wa-inna
+13	22:52:15	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+13	22:52:16	w	لَهَادِ		لهاد	(is) surely (the) Guide	lahādi
+13	22:52:17	w	ࡴ۬لذِينَ		الذين	(of) those who	alladhīna
+13	22:52:18	w	ءَامَنُوٓاْ		امنوا	believe	āmanū
+13	22:52:19	w	إِلَىٰ		الي	to	ilā
+14	22:52:20	w	صِرَٰطࣲ		صرط	a Path	ṣirāṭin
+14	22:52:21	w	مُّسْتَقِيمࣲ࣌		مستقيم	Straight	mus'taqīmin
+14	22:52:22	e	۝٥٢				
+14	22:53:1	w	وَلَا		ولا	And not	walā
+14	22:53:2	w	يَزَالُ		يزال	will cease	yazālu
+14	22:53:3	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+14	22:53:4	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+14	22:53:5	w	فِے		في	(to be) in	fī
+14	22:53:6	w	مِرْيَةࣲ		مرية	doubt	mir'yatin
+14	22:53:7	w	مِّنْهُ		منه	of it	min'hu
+15	22:53:8	w	حَتَّىٰ		حتي	until	ḥattā
+15	22:53:9	w	تَاتِيَهُمُ		تاتيهم	comes to them	tatiyahumu
+15	22:53:10	w	ࡲ۬لسَّاعَةُ		الساعة	the Hour	l-sāʿatu
+15	22:53:11	w	بَغْتَةً		بغتة	suddenly	baghtatan
+15	22:53:12	w	ࡰوْ		او	or	aw
+15	22:53:13	w	يَاتِيَهُمْ		ياتيهم	comes to them	yatiyahum
+15	22:53:14	w	عَذَابُ		عذاب	(the) punishment	ʿadhābu
+15	22:53:15	w	يَوْمٍ		يوم	(of) a Day	yawmin
+15	22:53:16	w	عَقِيمٍ࣌		عقيم	barren	ʿaqīmin
+15	22:53:17	e	۝٥٣				

@@ -59,7 +59,7 @@ fun ListenPane(modifier: Modifier = Modifier) {
     FloatingPane(shape = RoundedCornerShape(28.dp), modifier = modifier.widthIn(max = 560.dp).fillMaxWidth()) {
         Column(Modifier.padding(horizontal = 16.dp, vertical = 12.dp)) {
             Text(
-                Recitations.reciter(settings.reciter).label,
+                Recitations.reciter(store.reciter(settings.riwayah)).label,
                 style = MaterialTheme.typography.titleMedium,
                 maxLines = 1,
                 overflow = TextOverflow.Ellipsis
@@ -103,8 +103,8 @@ fun ListenPane(modifier: Modifier = Modifier) {
     if (choosing) {
         ChoiceDialog(
             title = "Reciter",
-            options = Recitations.RECITERS.map { it.id to it.label },
-            selected = settings.reciter,
+            options = Recitations.of(settings.riwayah).map { it.id to it.label },
+            selected = store.reciter(settings.riwayah),
             onSelect = { listen.setReciter(it) },
             onDismiss = { choosing = false }
         )

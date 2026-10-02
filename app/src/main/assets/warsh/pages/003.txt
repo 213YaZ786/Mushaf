@@ -1,0 +1,138 @@
+1	2:5:1	w	إِنَّ		ان	Indeed	inna
+1	2:5:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+1	2:5:3	w	كَفَرُواْ		كفروا	disbelieve[d]	kafarū
+1	2:5:4	w	سَوَآءٌ		سوا	(it) is same	sawāon
+1	2:5:5	w	عَلَيْهِمُۥٓ		عليهم	to them	ʿalayhim
+1	2:5:6	w	ءَآنذَرْتَهُمُۥٓ		انذرتهم	whether you warn them	a-andhartahum
+1	2:5:7	w	أَمْ		ام	or	am
+1	2:5:8	w	لَمْ		لم	not	lam
+1	2:5:9	w	تُنذِرْهُمْ		تنذرهم	you warn them	tundhir'hum
+2	2:5:10	w	لَا		لا	not	lā
+2	2:5:11	w	يُومِنُونَ࣌		يومنون	they believe	yu'minūna
+2	2:5:12	e	۝٥				
+2	2:6:1	w	خَتَمَ		ختم	Has set a seal	khatama
+2	2:6:2	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+2	2:6:3	w	عَلَىٰ		علي	on	ʿalā
+2	2:6:4	w	قُلُوبِهِمْ		قلوبهم	their hearts	qulūbihim
+2	2:6:5	w	وَعَلَىٰ		وعلي	and on	waʿalā
+2	2:6:6	w	سَمْعِهِمْ࣌		سمعهم	their hearing	samʿihim
+2	2:6:7	w	وَعَلَىٰٓ		وعلي	and on	waʿalā
+3	2:6:8	w	أَبْصٜـٰرِهِمْ		ابصرهم	their vision	abṣārihim
+3	2:6:9	w	غِشَٰوَةࣱ࣌		غشوة	(is) a veil	ghishāwatun
+3	2:6:10	w	وَلَهُمْ		ولهم	And for them	walahum
+3	2:6:11	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+3	2:6:12	w	عَظِيمࣱ࣌		عظيم	great	ʿaẓīmun
+3	2:6:13	e	۝٦				
+3	2:7:1	w	وَمِنَ		ومن	And of	wamina
+3	2:7:2	w	ࡰ۬لنَّاسِ		الناس	the people	l-nāsi
+4	2:7:3	w	مَنْ		من	(are some) who	man
+4	2:7:4	w	يَّقُولُ		يقول	say	yaqūlu
+4	2:7:5	w	ءَامَنَّا		امنا	We believed	āmannā
+4	2:7:6	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+4	2:7:7	w	وَبِالْيَوْمِ		وباليوم	and in the Day	wabil-yawmi
+4	2:7:8	w	ࡴ۬لَاخِرِ		الاخر	[the] Last	l-ākhiri
+4	2:7:9	w	وَمَا		وما	but not	wamā
+4	2:7:10	w	هُم		هم	they	hum
+4	2:7:11	w	بِمُومِنِينَ࣌		بمومنين	(are) believers (at all)	bimu'minīna
+4	2:7:12	e	۝٧				
+5	2:8:1	w	يُخَٰدِعُونَ		يخدعون	They seek to deceive	yukhādiʿūna
+5	2:8:2	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	2:8:3	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+5	2:8:4	w	ءَامَنُواْ࣌		امنوا	believe[d]	āmanū
+5	2:8:5	w	وَمَا		وما	and not	wamā
+5	2:8:6	w	يُخَٰدِعُونَ		يخدعون	they deceive	yakhdaʿūna
+5	2:8:7	w	إِلَّآ		الا	except	illā
+5	2:8:8	w	أَنفُسَهُمْ		انفسهم	themselves	anfusahum
+6	2:8:9	w	وَمَا		وما	and not	wamā
+6	2:8:10	w	يَشْعُرُونَ࣌		يشعرون	they realize (it)	yashʿurūna
+6	2:8:11	e	۝٨				
+6	2:9:1	w	فِے		في	In	fī
+6	2:9:2	w	قُلُوبِهِم		قلوبهم	their hearts	qulūbihim
+6	2:9:3	w	مَّرَضࣱ࣌		مرض	(is) a disease	maraḍun
+6	2:9:4	w	فَزَادَهُمُ		فزادهم	so has increased them	fazādahumu
+6	2:9:5	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+6	2:9:6	w	مَرَضاࣰ࣌		مرضا	(in) disease	maraḍan
+7	2:9:7	w	وَلَهُمْ		ولهم	and for them	walahum
+7	2:9:8	w	عَذَابٌ		عذاب	(is) a punishment	ʿadhābun
+7	2:9:9	w	ࡰلِيمُۢ		اليم	painful	alīmun
+7	2:9:10	w	بِمَا		بما	because	bimā
+7	2:9:11	w	كَانُواْ		كانوا	they used to	kānū
+7	2:9:12	w	يُكَذِّبُونَ࣌		يكذبون	[they] lie	yakdhibūna
+7	2:9:13	e	۝٩				
+7	2:10:1	w	وَإِذَا		واذا	And when	wa-idhā
+7	2:10:2	w	قِيلَ		قيل	it is said	qīla
+7	2:10:3	w	لَهُمْ		لهم	to them	lahum
+8	2:10:4	w	لَا		لا	(Do) not	lā
+8	2:10:5	w	تُفْسِدُواْ		تفسدوا	spread corruption	tuf'sidū
+8	2:10:6	w	فِے		في	in	fī
+8	2:10:7	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+8	2:10:8	w	قَالُوٓاْ		قالوا	they say	qālū
+8	2:10:9	w	إِنَّمَا		انما	Only	innamā
+8	2:10:10	w	نَحْنُ		نحن	we	naḥnu
+8	2:10:11	w	مُصْلِحُونَ࣌		مصلحون	(are) reformers	muṣ'liḥūna
+8	2:10:12	e	۝١٠				
+8	2:11:1	w	أَلَآ		الا	Beware	alā
+8	2:11:2	w	إِنَّهُمْ		انهم	indeed they	innahum
+9	2:11:3	w	هُمُ		هم	themselves	humu
+9	2:11:4	w	ࡲ۬لْمُفْسِدُونَ		المفسدون	(are) the ones who spread corruption	l-muf'sidūna
+9	2:11:5	w	وَلَٰكِن		ولكن	[and] but	walākin
+9	2:11:6	w	لَّا		لا	not	lā
+9	2:11:7	w	يَشْعُرُونَ࣌		يشعرون	they realize (it)	yashʿurūna
+9	2:11:8	e	۝١١				
+9	2:12:1	w	وَإِذَا		واذا	And when	wa-idhā
+9	2:12:2	w	قِيلَ		قيل	it is said	qīla
+9	2:12:3	w	لَهُمُۥٓ		لهم	to them	lahum
+10	2:12:4	w	ءَامِنُواْ		امنوا	Believe	āminū
+10	2:12:5	w	كَمَآ		كما	as	kamā
+10	2:12:6	w	ءَامَنَ		امن	believed	āmana
+10	2:12:7	w	ࡰ۬لنَّاسُ		الناس	the people	l-nāsu
+10	2:12:8	w	قَالُوٓاْ		قالوا	they say	qālū
+10	2:12:9	w	أَنُومِنُ		انومن	Should we believe	anu'minu
+10	2:12:10	w	كَمَآ		كما	as	kamā
+10	2:12:11	w	ءَامَنَ		امن	believed	āmana
+10	2:12:12	w	ࡰ۬لسُّفَهَآءُ࣌		السفها	the fools	l-sufahāu
+11	2:12:13	w	ࡶَلَآ		الا	Beware	alā
+11	2:12:14	w	إِنَّهُمْ		انهم	certainly they	innahum
+11	2:12:15	w	هُمُ		هم	themselves	humu
+11	2:12:16	w	ࡲ۬لسُّفَهَآءُ		السفها	(are) the fools	l-sufahāu
+11	2:12:17	w	وَلَٰكِن		ولكن	[and] but	walākin
+11	2:12:18	w	لَّا		لا	not	lā
+11	2:12:19	w	يَعْلَمُونَ࣌		يعلمون	they know	yaʿlamūna
+11	2:12:20	e	۝١٢				
+11	2:13:1	w	وَإِذَا		واذا	And when	wa-idhā
+11	2:13:2	w	لَقُواْ		لقوا	they meet	laqū
+12	2:13:3	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+12	2:13:4	w	ءَامَنُواْ		امنوا	believe[d]	āmanū
+12	2:13:5	w	قَالُوٓاْ		قالوا	they say	qālū
+12	2:13:6	w	ءَامَنَّا࣌		امنا	We believe[d]	āmannā
+12	2:13:7	w	وَإِذَا		واذا	But when	wa-idhā
+12	2:13:8	w	خَلَوِاْ		خلوا	they are alone	khalaw
+12	2:13:9	w	ࡴلَىٰ		الي	with	ilā
+12	2:13:10	w	شَيَٰطِينِهِمْ		شيطينهم	their evil ones	shayāṭīnihim
+12	2:13:11	w	قَالُوٓاْ		قالوا	they say	qālū
+12	2:13:12	w	إِنَّا		انا	Indeed, we	innā
+13	2:13:13	w	مَعَكُمُۥٓ		معكم	(are) with you	maʿakum
+13	2:13:14	w	إِنَّمَا		انما	only	innamā
+13	2:13:15	w	نَحْنُ		نحن	we	naḥnu
+13	2:13:16	w	مُسْتَهْزِءُونَ࣌		مستهزون	(are) mockers	mus'tahziūna
+13	2:13:17	e	۝١٣				
+13	2:14:1	w	ࡰ۬للَّهُ		الله	Allah	al-lahu
+13	2:14:2	w	يَسْتَهْزِۓُ		يستهزي	mocks	yastahzi-u
+13	2:14:3	w	بِهِمْ		بهم	at them	bihim
+14	2:14:4	w	وَيَمُدُّهُمْ		ويمدهم	and prolongs them	wayamudduhum
+14	2:14:5	w	فِے		في	in	fī
+14	2:14:6	w	طُغْيَٰنِهِمْ		طغينهم	their transgression	ṭugh'yānihim
+14	2:14:7	w	يَعْمَهُونَ࣌		يعمهون	they wander blindly	yaʿmahūna
+14	2:14:8	e	۝١٤				
+14	2:15:1	w	أُوْلَٰٓئِكَ		اوليك	Those	ulāika
+14	2:15:2	w	ࡰ۬لذِينَ		الذين	(are) the ones who	alladhīna
+14	2:15:3	w	ࡰٜشْتَرَوُاْ		اشتروا	bought	ish'tarawū
+15	2:15:4	w	ࡲ۬لضَّلَٰلَةَ		الضللة	[the] astraying	l-ḍalālata
+15	2:15:5	w	بِالْهُدٜىٰ		بالهدي	for [the] guidance	bil-hudā
+15	2:15:6	w	فَمَا		فما	So not	famā
+15	2:15:7	w	رَبِحَت		ربحت	profited	rabiḥat
+15	2:15:8	w	تِّجَٰرَتُهُمْ		تجرتهم	their commerce	tijāratuhum
+15	2:15:9	w	وَمَا		وما	and not	wamā
+15	2:15:10	w	كَانُواْ		كانوا	were they	kānū
+15	2:15:11	w	مُهْتَدِينَ࣌		مهتدين	guided-ones	muh'tadīna
+15	2:15:12	e	۝١٥				

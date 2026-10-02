@@ -1,0 +1,141 @@
+1	17:67:1	w	وَإِذَا		واذا	And when	wa-idhā
+1	17:67:2	w	مَسَّكُمُ		مسكم	touches you	massakumu
+1	17:67:3	w	ࡲ۬لضُّرُّ		الضر	the hardship	l-ḍuru
+1	17:67:4	w	فِے		في	in	fī
+1	17:67:5	w	ࡴ۬لْبَحْرِ		البحر	the sea	l-baḥri
+1	17:67:6	w	ضَلَّ		ضل	lost	ḍalla
+1	17:67:7	w	مَن		من	(are) who	man
+1	17:67:8	w	تَدْعُونَ		تدعون	you call	tadʿūna
+1	17:67:9	w	إِلَّآ		الا	except	illā
+1	17:67:10	w	إِيَّاهُ࣌		اياه	Him Alone	iyyāhu
+1	17:67:11	w	فَلَمَّا		فلما	But when	falammā
+2	17:67:12	w	نَجّٜيٰكُمُۥٓ		نجيكم	He delivers you	najjākum
+2	17:67:13	w	إِلَى		الي	to	ilā
+2	17:67:14	w	ࡰ۬لْبَرِّ		البر	the land	l-bari
+2	17:67:15	w	أَعْرَضْتُمْ࣌		اعرضتم	you turn away	aʿraḍtum
+2	17:67:16	w	وَكَانَ		وكان	And is	wakāna
+2	17:67:17	w	ࡰ۬لِانسَٰنُ		الانسن	man	l-insānu
+2	17:67:18	w	كَفُوراً࣌		كفورا	ungrateful	kafūran
+2	17:67:19	e	۝٦٧				
+2	17:68:1	w	ࡰفَأَمِنتُمُۥٓ		افامنتم	Do you then feel secure	afa-amintum
+3	17:68:2	w	أَنْ		ان	that (not)	an
+3	17:68:3	w	يَّخْسِفَ		يخسف	He will cause to swallow	yakhsifa
+3	17:68:4	w	بِكُمْ		بكم	you	bikum
+3	17:68:5	w	جَانِبَ		جانب	side	jāniba
+3	17:68:6	w	ࡰ۬لْبَرِّ		البر	(of) the land	l-bari
+3	17:68:7	w	أَوْ		او	or	aw
+3	17:68:8	w	يُرْسِلَ		يرسل	send	yur'sila
+3	17:68:9	w	عَلَيْكُمْ		عليكم	against you	ʿalaykum
+3	17:68:10	w	حَاصِباࣰ		حاصبا	a storm of stones	ḥāṣiban
+4	17:68:11	w	ثُمَّ		ثم	Then	thumma
+4	17:68:12	w	لَا		لا	not	lā
+4	17:68:13	w	تَجِدُواْ		تجدوا	you will find	tajidū
+4	17:68:14	w	لَكُمْ		لكم	for you	lakum
+4	17:68:15	w	وَكِيلاً		وكيلا	a guardian	wakīlan
+4	17:68:16	e	۝٦٨				
+4	17:69:1	w	ࡰمَ		ام	Or	am
+4	17:69:2	w	ࡰمِنتُمُۥٓ		امنتم	do you feel secure	amintum
+4	17:69:3	w	أَنْ		ان	that (not)	an
+4	17:69:4	w	يُّعِيدَكُمْ		يعيدكم	He will send you back	yuʿīdakum
+4	17:69:5	w	فِيهِ		فيه	into it	fīhi
+4	17:69:6	w	تَارَةً		تارة	another time	tāratan
+5	17:69:7	w	ࡳخْرٜىٰ		اخري	another time	ukh'rā
+5	17:69:8	w	فَيُرْسِلَ		فيرسل	and send	fayur'sila
+5	17:69:9	w	عَلَيْكُمْ		عليكم	upon you	ʿalaykum
+5	17:69:10	w	قَاصِفاࣰ		قاصفا	a hurricane	qāṣifan
+5	17:69:11	w	مِّنَ		من	of	mina
+5	17:69:12	w	ࡰ۬لرِّيحِ		الريح	the wind	l-rīḥi
+5	17:69:13	w	فَيُغْرِقَكُم		فيغرقكم	and drown you	fayugh'riqakum
+5	17:69:14	w	بِمَا		بما	because	bimā
+6	17:69:15	w	كَفَرْتُمْ		كفرتم	you disbelieved	kafartum
+6	17:69:16	w	ثُمَّ		ثم	Then	thumma
+6	17:69:17	w	لَا		لا	not	lā
+6	17:69:18	w	تَجِدُواْ		تجدوا	you will find	tajidū
+6	17:69:19	w	لَكُمْ		لكم	for you	lakum
+6	17:69:20	w	عَلَيْنَا		علينا	against Us	ʿalaynā
+6	17:69:21	w	بِهِۦ		بهي	therein	bihi
+6	17:69:22	w	تَبِيعاࣰ࣌		تبيعا	an avenger	tabīʿan
+6	17:69:23	e	۝٦٩				
+6	17:70:1	w	۞ وَلَقَدْ		ولقد	And certainly	walaqad
+6	17:70:2	w	كَرَّمْنَا		كرمنا	We have honored	karramnā
+7	17:70:3	w	بَنِےٓ		بني	(the) children of Adam	banī
+7	17:70:4	w	ءَادَمَ		ادم	(the) children of Adam	ādama
+7	17:70:5	w	وَحَمَلْنَٰهُمْ		وحملنهم	and We carried them	waḥamalnāhum
+7	17:70:6	w	فِے		في	on	fī
+7	17:70:7	w	ࡴ۬لْبَرِّ		البر	the land	l-bari
+7	17:70:8	w	وَالْبَحْرِ		والبحر	and the sea	wal-baḥri
+7	17:70:9	w	وَرَزَقْنَٰهُم		ورزقنهم	and We have provided them	warazaqnāhum
+7	17:70:10	w	مِّنَ		من	of	mina
+7	17:70:11	w	ࡰ۬لطَّيِّبَٰتِ		الطيبت	the good things	l-ṭayibāti
+8	17:70:12	w	وَفَضَّلْنَٰهُمْ		وفضلنهم	and We preferred them	wafaḍḍalnāhum
+8	17:70:13	w	عَلَىٰ		علي	over	ʿalā
+8	17:70:14	w	كَثِيرࣲ		كثير	many	kathīrin
+8	17:70:15	w	مِّمَّنْ		ممن	of those whom	mimman
+8	17:70:16	w	خَلَقْنَا		خلقنا	We have created	khalaqnā
+8	17:70:17	w	تَفْضِيلاࣰ࣌		تفضيلا	(with) preference	tafḍīlan
+8	17:70:18	e	۝٧٠				
+8	17:71:1	w	يَوْمَ		يوم	(The) Day	yawma
+8	17:71:2	w	نَدْعُواْ		ندعوا	We will call	nadʿū
+9	17:71:3	w	كُلَّ		كل	all	kulla
+9	17:71:4	w	أُنَاسِۢ		اناس	human beings	unāsin
+9	17:71:5	w	بِإِمَٰمِهِمْ࣌		باممهم	with their record	bi-imāmihim
+9	17:71:6	w	فَمَنُ		فمن	then whoever	faman
+9	17:71:7	w	ࡳوتِيَ		اوتي	is given	ūtiya
+9	17:71:8	w	كِتَٰبَهُۥ		كتبه	his record	kitābahu
+9	17:71:9	w	بِيَمِينِهِۦ		بيمينهي	in his right hand	biyamīnihi
+9	17:71:10	w	فَأُوْلَٰٓئِكَ		فاوليك	then those	fa-ulāika
+10	17:71:11	w	يَقْرَءُونَ		يقرون	will read	yaqraūna
+10	17:71:12	w	كِتَٰبَهُمْ		كتبهم	their records	kitābahum
+10	17:71:13	w	وَلَا		ولا	and not	walā
+10	17:71:14	w	يُظْلَمُونَ		يظلمون	they will be wronged	yuẓ'lamūna
+10	17:71:15	w	فَتِيلاࣰ࣌		فتيلا	(even as much as) a hair on a date seed	fatīlan
+10	17:71:16	e	۝٧١				
+10	17:72:1	w	وَمَن		ومن	And whoever	waman
+10	17:72:2	w	كَانَ		كان	is	kāna
+11	17:72:3	w	فِے		في	in	fī
+11	17:72:4	w	هَٰذِهِۦٓ		هذهي	this (world)	hādhihi
+11	17:72:5	w	أَعْمٜىٰ		اعمي	blind	aʿmā
+11	17:72:6	w	فَهُوَ		فهو	then he	fahuwa
+11	17:72:7	w	فِے		في	in	fī
+11	17:72:8	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+11	17:72:9	w	أَعْمٜىٰ		اعمي	(will be) blind	aʿmā
+11	17:72:10	w	وَأَضَلُّ		واضل	and more astray	wa-aḍallu
+11	17:72:11	w	سَبِيلاࣰ࣌		سبيلا	(from the) path	sabīlan
+11	17:72:12	e	۝٧٢				
+12	17:73:1	w	وَإِن		وان	And indeed	wa-in
+12	17:73:2	w	كَادُواْ		كادوا	they were about (to)	kādū
+12	17:73:3	w	لَيَفْتِنُونَكَ		ليفتنونك	tempt you away	layaftinūnaka
+12	17:73:4	w	عَنِ		عن	from	ʿani
+12	17:73:5	w	ࡴ۬لذِےٓ		الذي	that which	alladhī
+12	17:73:6	w	أَوْحَيْنَآ		اوحينا	We revealed	awḥaynā
+12	17:73:7	w	إِلَيْكَ		اليك	to you	ilayka
+12	17:73:8	w	لِتَفْتَرِيَ		لتفتري	that you invent	litaftariya
+13	17:73:9	w	عَلَيْنَا		علينا	about Us	ʿalaynā
+13	17:73:10	w	غَيْرَهُۥ࣌		غيره	other (than) it	ghayrahu
+13	17:73:11	w	وَإِذاࣰ		واذا	And then	wa-idhan
+13	17:73:12	w	لَّاتَّخَذُوكَ		لاتخذوك	surely they would take you	la-ittakhadhūka
+13	17:73:13	w	خَلِيلاࣰ࣌		خليلا	(as) a friend	khalīlan
+13	17:73:14	e	۝٧٣				
+13	17:74:1	w	وَلَوْلَآ		ولولا	And if not	walawlā
+13	17:74:2	w	أَن		ان	[that]	an
+13	17:74:3	w	ثَبَّتْنَٰكَ		ثبتنك	We (had) strengthened you	thabbatnāka
+14	17:74:4	w	لَقَدْ		لقد	certainly	laqad
+14	17:74:5	w	كِدتَّ		كدت	you almost	kidtta
+14	17:74:6	w	تَرْكَنُ		تركن	(would) have inclined	tarkanu
+14	17:74:7	w	إِلَيْهِمْ		اليهم	to them	ilayhim
+14	17:74:8	w	شَيْـٔاࣰ		شيا	(in) something	shayan
+14	17:74:9	w	قَلِيلاً࣌		قليلا	a little	qalīlan
+14	17:74:10	e	۝٧٤				
+14	17:75:1	w	ࡴذاࣰ		اذا	Then	idhan
+14	17:75:2	w	لَّأَذَقْنَٰكَ		لاذقنك	We (would) have made you taste	la-adhaqnāka
+15	17:75:3	w	ضِعْفَ		ضعف	double	ḍiʿ'fa
+15	17:75:4	w	ࡰ۬لْحَيَوٰةِ		الحيوة	(in) the life	l-ḥayati
+15	17:75:5	w	وَضِعْفَ		وضعف	and double	waḍiʿ'fa
+15	17:75:6	w	ࡰ۬لْمَمَاتِ		الممات	(after) the death	l-mamāti
+15	17:75:7	w	ثُمَّ		ثم	Then	thumma
+15	17:75:8	w	لَا		لا	not	lā
+15	17:75:9	w	تَجِدُ		تجد	you (would) have found	tajidu
+15	17:75:10	w	لَكَ		لك	for you	laka
+15	17:75:11	w	عَلَيْنَا		علينا	against Us	ʿalaynā
+15	17:75:12	w	نَصِيراࣰ࣌		نصيرا	any helper	naṣīran
+15	17:75:13	e	۝٧٥				

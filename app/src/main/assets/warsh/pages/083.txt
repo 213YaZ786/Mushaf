@@ -1,0 +1,122 @@
+1	4:27:1	w	وَاللَّهُ		والله	And Allah	wal-lahu
+1	4:27:2	w	يُرِيدُ		يريد	wishes	yurīdu
+1	4:27:3	w	أَنْ		ان	to	an
+1	4:27:4	w	يَّتُوبَ		يتوب	accept repentance	yatūba
+1	4:27:5	w	عَلَيْكُمْ࣌		عليكم	from you	ʿalaykum
+1	4:27:6	w	وَيُرِيدُ		ويريد	but wish	wayurīdu
+1	4:27:7	w	ࡲ۬لذِينَ		الذين	those who	alladhīna
+1	4:27:8	w	يَتَّبِعُونَ		يتبعون	follow	yattabiʿūna
+2	4:27:9	w	ࡰ۬لشَّهَوَٰتِ		الشهوت	the passions	l-shahawāti
+2	4:27:10	w	أَن		ان	that	an
+2	4:27:11	w	تَمِيلُواْ		تميلوا	you deviate	tamīlū
+2	4:27:12	w	مَيْلاً		ميلا	(into) a deviation	maylan
+2	4:27:13	w	عَظِيماࣰ࣌		عظيما	great	ʿaẓīman
+2	4:27:14	e	۝٢٧				
+2	4:28:1	w	يُرِيدُ		يريد	Wishes	yurīdu
+2	4:28:2	w	ࡲ۬للَّهُ		الله	Allah	l-lahu
+2	4:28:3	w	أَنْ		ان	to	an
+2	4:28:4	w	يُّخَفِّفَ		يخفف	lighten	yukhaffifa
+3	4:28:5	w	عَنكُمْ࣌		عنكم	for you	ʿankum
+3	4:28:6	w	وَخُلِقَ		وخلق	and was created	wakhuliqa
+3	4:28:7	w	ࡰ۬لِانسَٰنُ		الانسن	the mankind	l-insānu
+3	4:28:8	w	ضَعِيفاࣰ࣌		ضعيفا	weak	ḍaʿīfan
+3	4:28:9	e	۝٢٨				
+3	4:29:1	w	۞ يَٰٓأَيُّهَا		يايها	O you	yāayyuhā
+3	4:29:2	w	ࡰ۬لذِينَ		الذين	who	alladhīna
+3	4:29:3	w	ءَامَنُواْ		امنوا	believe[d]	āmanū
+4	4:29:4	w	لَا		لا	(Do) not	lā
+4	4:29:5	w	تَاكُلُوٓاْ		تاكلوا	eat	takulū
+4	4:29:6	w	أَمْوَٰلَكُم		امولكم	your wealth	amwālakum
+4	4:29:7	w	بَيْنَكُم		بينكم	between yourselves	baynakum
+4	4:29:8	w	بِالْبَٰطِلِ࣌		بالبطل	unjustly	bil-bāṭili
+4	4:29:9	w	إِلَّآ		الا	But	illā
+4	4:29:10	w	أَن		ان	that	an
+4	4:29:11	w	تَكُونَ		تكون	(there) be	takūna
+5	4:29:12	w	تِجَٰرَةٌ		تجرة	business	tijāratan
+5	4:29:13	w	عَن		عن	on	ʿan
+5	4:29:14	w	تَرَاضࣲ		تراض	mutual consent	tarāḍin
+5	4:29:15	w	مِّنكُمْ࣌		منكم	among you	minkum
+5	4:29:16	w	وَلَا		ولا	And (do) not	walā
+5	4:29:17	w	تَقْتُلُوٓاْ		تقتلوا	kill	taqtulū
+5	4:29:18	w	أَنفُسَكُمُۥٓ࣌		انفسكم	yourselves	anfusakum
+5	4:29:19	w	إِنَّ		ان	Indeed	inna
+6	4:29:20	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+6	4:29:21	w	كَانَ		كان	is	kāna
+6	4:29:22	w	بِكُمْ		بكم	to you	bikum
+6	4:29:23	w	رَحِيماࣰ࣌		رحيما	Most Merciful	raḥīman
+6	4:29:24	e	۝٢٩				
+6	4:30:1	w	وَمَنْ		ومن	And whoever	waman
+6	4:30:2	w	يَّفْعَلْ		يفعل	does	yafʿal
+6	4:30:3	w	ذَٰلِكَ		ذلك	that	dhālika
+6	4:30:4	w	عُدْوَٰناࣰ		عدونا	(in) aggression	ʿud'wānan
+7	4:30:5	w	وَظُلْماࣰ		وظلما	and injustice	waẓul'man
+7	4:30:6	w	فَسَوْفَ		فسوف	then soon	fasawfa
+7	4:30:7	w	نُصْلِيهِ		نصليه	We (will) cast him	nuṣ'līhi
+7	4:30:8	w	نَاراࣰ࣌		نارا	(into) a Fire	nāran
+7	4:30:9	w	وَكَانَ		وكان	And is	wakāna
+7	4:30:10	w	ذَٰلِكَ		ذلك	that	dhālika
+7	4:30:11	w	عَلَى		علي	for	ʿalā
+7	4:30:12	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+8	4:30:13	w	يَسِيراً࣌		يسيرا	easy	yasīran
+8	4:30:14	e	۝٣٠				
+8	4:31:1	w	ࡴن		ان	If	in
+8	4:31:2	w	تَجْتَنِبُواْ		تجتنبوا	you avoid	tajtanibū
+8	4:31:3	w	كَبَآئِرَ		كباير	great (sins)	kabāira
+8	4:31:4	w	مَا		ما	(of) what	mā
+8	4:31:5	w	تُنْهَوْنَ		تنهون	you are forbidden	tun'hawna
+8	4:31:6	w	عَنْهُ		عنه	from [it]	ʿanhu
+8	4:31:7	w	نُكَفِّرْ		نكفر	We will remove	nukaffir
+9	4:31:8	w	عَنكُمْ		عنكم	from you	ʿankum
+9	4:31:9	w	سَيِّـَٔاتِكُمْ		سياتكم	your evil deeds	sayyiātikum
+9	4:31:10	w	وَنُدْخِلْكُم		وندخلكم	and We will admit you	wanud'khil'kum
+9	4:31:11	w	مَّدْخَلاࣰ		مدخلا	(to) an entrance	mud'khalan
+9	4:31:12	w	كَرِيماࣰ࣌		كريما	noble	karīman
+9	4:31:13	e	۝٣١				
+10	4:32:1	w	وَلَا		ولا	And (do) not	walā
+10	4:32:2	w	تَتَمَنَّوْاْ		تتمنوا	covet	tatamannaw
+10	4:32:3	w	مَا		ما	what	mā
+10	4:32:4	w	فَضَّلَ		فضل	(has) bestowed	faḍḍala
+10	4:32:5	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+10	4:32:6	w	بِهِۦ		بهي	[with it]	bihi
+10	4:32:7	w	بَعْضَكُمْ		بعضكم	some of you	baʿḍakum
+10	4:32:8	w	عَلَىٰ		علي	over	ʿalā
+10	4:32:9	w	بَعْضࣲ࣌		بعض	others	baʿḍin
+10	4:32:10	w	لِّلرِّجَالِ		للرجال	For men	lilrrijāli
+11	4:32:11	w	نَصِيبࣱ		نصيب	(is) a share	naṣībun
+11	4:32:12	w	مِّمَّا		مما	of what	mimmā
+11	4:32:13	w	ࡰٜكْتَسَبُواْ࣌		اكتسبوا	they earned	ik'tasabū
+11	4:32:14	w	وَلِلنِّسَآءِ		وللنسا	and for women	walilnnisāi
+11	4:32:15	w	نَصِيبࣱ		نصيب	(is) a share	naṣībun
+11	4:32:16	w	مِّمَّا		مما	of what	mimmā
+11	4:32:17	w	ࡰٜكْتَسَبْنَ࣌		اكتسبن	they earned	ik'tasabna
+12	4:32:18	w	وَسْـَٔلُواْ		وسلوا	And ask	wasalū
+12	4:32:19	w	ࡲ۬للَّهَ		الله	Allah	l-laha
+12	4:32:20	w	مِن		من	of	min
+12	4:32:21	w	فَضْلِهِۦٓ࣌		فضلهي	His bounty	faḍlihi
+12	4:32:22	w	إِنَّ		ان	Indeed	inna
+12	4:32:23	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+12	4:32:24	w	كَانَ		كان	is	kāna
+12	4:32:25	w	بِكُلِّ		بكل	of every	bikulli
+12	4:32:26	w	شَےْءٍ		شي	thing	shayin
+13	4:32:27	w	عَلِيماࣰ࣌		عليما	All-Knower	ʿalīman
+13	4:32:28	e	۝٣٢				
+13	4:33:1	w	وَلِكُلࣲّ		ولكل	And for all	walikullin
+13	4:33:2	w	جَعَلْنَا		جعلنا	We (have) made	jaʿalnā
+13	4:33:3	w	مَوَٰلِيَ		مولي	heirs	mawāliya
+13	4:33:4	w	مِمَّا		مما	of what	mimmā
+13	4:33:5	w	تَرَكَ࣌		ترك	(is) left	taraka
+13	4:33:6	w	ࡰ۬لْوَٰلِدَٰنِ		الولدن	(by) the parents	l-wālidāni
+14	4:33:7	w	وَالَاقْرَبُونَ࣌		والاقربون	and the relatives	wal-aqrabūna
+14	4:33:8	w	وَالذِينَ		والذين	And those whom	wa-alladhīna
+14	4:33:9	w	عَٰقَدَتَ		عقدت	pledged	ʿaqadat
+14	4:33:10	w	ࡰيْمَٰنُكُمْ		ايمنكم	your right hands	aymānukum
+14	4:33:11	w	فَـَٔاتُوهُمْ		فاتوهم	then give them	faātūhum
+15	4:33:12	w	نَصِيبَهُمُۥٓ࣌		نصيبهم	their share	naṣībahum
+15	4:33:13	w	إِنَّ		ان	Indeed	inna
+15	4:33:14	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	4:33:15	w	كَانَ		كان	is	kāna
+15	4:33:16	w	عَلَىٰ		علي	over	ʿalā
+15	4:33:17	w	كُلِّ		كل	every	kulli
+15	4:33:18	w	شَےْءࣲ		شي	thing	shayin
+15	4:33:19	w	شَهِيداً࣌		شهيدا	a Witness	shahīdan
+15	4:33:20	e	۝٣٣				

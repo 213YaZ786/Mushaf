@@ -1,0 +1,171 @@
+1	18:83:1	w	ࡴنَّا		انا	Indeed, We	innā
+1	18:83:2	w	مَكَّنَّا		مكنا	[We] established	makkannā
+1	18:83:3	w	لَهُۥ		له	[for] him	lahu
+1	18:83:4	w	فِے		في	in	fī
+1	18:83:5	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+1	18:83:6	w	وَءَاتَيْنَٰهُ		واتينه	and We gave him	waātaynāhu
+1	18:83:7	w	مِن		من	of	min
+1	18:83:8	w	كُلِّ		كل	every	kulli
+1	18:83:9	w	شَےْءࣲ		شي	thing	shayin
+1	18:83:10	w	سَبَباࣰ		سببا	a means	sababan
+1	18:83:11	e	۝٨٣				
+2	18:84:1	w	فَاتَّبَعَ		فاتبع	So he followed	fa-atbaʿa
+2	18:84:2	w	سَبَباً		سببا	a course	sababan
+2	18:84:3	w	حَتَّىٰٓ		حتي	Until	ḥattā
+2	18:84:4	w	إِذَا		اذا	when	idhā
+2	18:84:5	w	بَلَغَ		بلغ	he reached	balagha
+2	18:84:6	w	مَغْرِبَ		مغرب	(the) setting place	maghriba
+2	18:84:7	w	ࡰ۬لشَّمْسِ		الشمس	(of) the sun	l-shamsi
+2	18:84:8	w	وَجَدَهَا		وجدها	he found it	wajadahā
+2	18:84:9	w	تَغْرُبُ		تغرب	setting	taghrubu
+2	18:84:10	w	فِے		في	in	fī
+2	18:84:11	w	عَيْنٍ		عين	a spring	ʿaynin
+3	18:84:12	w	حَمِئَةࣲ		حمية	(of) dark mud	ḥami-atin
+3	18:84:13	w	وَوَجَدَ		ووجد	and he found	wawajada
+3	18:84:14	w	عِندَهَا		عندها	near it	ʿindahā
+3	18:84:15	w	قَوْماࣰ࣌		قوما	a community	qawman
+3	18:84:16	w	قُلْنَا		قلنا	We said	qul'nā
+3	18:84:17	w	يَٰذَا		يذا	O Dhul-qarnain	yādhā
+3	18:84:18	w	ࡰ۬لْقَرْنَيْنِ		القرنين	O Dhul-qarnain	l-qarnayni
+3	18:84:19	w	إِمَّآ		اما	Either	immā
+3	18:84:20	w	أَن		ان	[that]	an
+3	18:84:21	w	تُعَذِّبَ		تعذب	you punish	tuʿadhiba
+3	18:84:22	w	وَإِمَّآ		واما	or	wa-immā
+4	18:84:23	w	أَن		ان	[that]	an
+4	18:84:24	w	تَتَّخِذَ		تتخذ	you take	tattakhidha
+4	18:84:25	w	فِيهِمْ		فيهم	[in] them	fīhim
+4	18:84:26	w	حُسْناࣰ࣌		حسنا	(with) goodness	ḥus'nan
+4	18:84:27	e	۝٨٤				
+4	18:85:1	w	۞ قَالَ		قال	He said	qāla
+4	18:85:2	w	أَمَّا		اما	As for	ammā
+4	18:85:3	w	مَن		من	(one) who	man
+4	18:85:4	w	ظَلَمَ		ظلم	wrongs	ẓalama
+4	18:85:5	w	فَسَوْفَ		فسوف	then soon	fasawfa
+4	18:85:6	w	نُعَذِّبُهُۥ		نعذبه	we will punish him	nuʿadhibuhu
+4	18:85:7	w	ثُمَّ		ثم	Then	thumma
+4	18:85:8	w	يُرَدُّ		يرد	he will be returned	yuraddu
+5	18:85:9	w	إِلَىٰ		الي	to	ilā
+5	18:85:10	w	رَبِّهِۦ		ربهي	his Lord	rabbihi
+5	18:85:11	w	فَيُعَذِّبُهُۥ		فيعذبه	and He will punish him	fayuʿadhibuhu
+5	18:85:12	w	عَذَاباࣰ		عذابا	(with) a punishment	ʿadhāban
+5	18:85:13	w	نُّكُراࣰ࣌		نكرا	terrible	nuk'ran
+5	18:85:14	e	۝٨٥				
+5	18:86:1	w	وَأَمَّا		واما	But as for	wa-ammā
+5	18:86:2	w	مَنَ		من	(one) who	man
+5	18:86:3	w	اٰمَنَ		امن	believes	āmana
+5	18:86:4	w	وَعَمِلَ		وعمل	and does	waʿamila
+5	18:86:5	w	صَٰلِحاࣰ		صلحا	righteous (deeds)	ṣāliḥan
+6	18:86:6	w	فَلَهُۥ		فله	then for him	falahu
+6	18:86:7	w	جَزَآءُ		جزا	(is) a reward	jazāan
+6	18:86:8	w	ࡲ۬لْحُسْنٜىٰ࣌		الحسني	good	l-ḥus'nā
+6	18:86:9	w	وَسَنَقُولُ		وسنقول	And we will speak	wasanaqūlu
+6	18:86:10	w	لَهُۥ		له	to him	lahu
+6	18:86:11	w	مِنَ		من	from	min
+6	18:86:12	w	ࡰمْرِنَا		امرنا	our command	amrinā
+6	18:86:13	w	يُسْراࣰ࣌		يسرا	(with) ease	yus'ran
+6	18:86:14	e	۝٨٦				
+6	18:87:1	w	ثُمَّ		ثم	Then	thumma
+6	18:87:2	w	ࡰٜتَّبَعَ		اتبع	he followed	atbaʿa
+6	18:87:3	w	سَبَباً		سببا	(a) course	sababan
+7	18:87:4	w	حَتَّىٰٓ		حتي	Until	ḥattā
+7	18:87:5	w	إِذَا		اذا	when	idhā
+7	18:87:6	w	بَلَغَ		بلغ	he reached	balagha
+7	18:87:7	w	مَطْلِعَ		مطلع	(the) rising place	maṭliʿa
+7	18:87:8	w	ࡰ۬لشَّمْسِ		الشمس	(of) the sun	l-shamsi
+7	18:87:9	w	وَجَدَهَا		وجدها	and he found it	wajadahā
+7	18:87:10	w	تَطْلُعُ		تطلع	rising	taṭluʿu
+7	18:87:11	w	عَلَىٰ		علي	on	ʿalā
+7	18:87:12	w	قَوْمࣲ		قوم	a community	qawmin
+7	18:87:13	w	لَّمْ		لم	not	lam
+7	18:87:14	w	نَجْعَل		نجعل	We made	najʿal
+7	18:87:15	w	لَّهُم		لهم	for them	lahum
+8	18:87:16	w	مِّن		من	against it	min
+8	18:87:17	w	دُونِهَا		دونها	against it	dūnihā
+8	18:87:18	w	سِتْراࣰ		سترا	any shelter	sit'ran
+8	18:87:19	e	۝٨٧				
+8	18:88:1	w	كَذَٰلِكَ࣌		كذلك	Thus	kadhālika
+8	18:88:2	w	وَقَدَ		وقد	And verily	waqad
+8	18:88:3	w	ࡰحَطْنَا		احطنا	We encompassed	aḥaṭnā
+8	18:88:4	w	بِمَا		بما	of what	bimā
+8	18:88:5	w	لَدَيْهِ		لديه	(was) with him	ladayhi
+8	18:88:6	w	خُبْراࣰ࣌		خبرا	(of the) information	khub'ran
+8	18:88:7	e	۝٨٨				
+9	18:89:1	w	ثُمَّ		ثم	Then	thumma
+9	18:89:2	w	ࡰٜتَّبَعَ		اتبع	he followed	atbaʿa
+9	18:89:3	w	سَبَباً		سببا	a course	sababan
+9	18:89:4	w	حَتَّىٰٓ		حتي	Until	ḥattā
+9	18:89:5	w	إِذَا		اذا	when	idhā
+9	18:89:6	w	بَلَغَ		بلغ	he reached	balagha
+9	18:89:7	w	بَيْنَ		بين	between	bayna
+9	18:89:8	w	ࡰ۬لسُّدَّيْنِ		السدين	the two mountains	l-sadayni
+9	18:89:9	w	وَجَدَ		وجد	he found	wajada
+9	18:89:10	w	مِن		من	besides them	min
+9	18:89:11	w	دُونِهِمَا		دونهما	besides them	dūnihimā
+9	18:89:12	w	قَوْماࣰ		قوما	a community	qawman
+10	18:89:13	w	لَّا		لا	not	lā
+10	18:89:14	w	يَكَادُونَ		يكادون	who would almost	yakādūna
+10	18:89:15	w	يَفْقَهُونَ		يفقهون	understand	yafqahūna
+10	18:89:16	w	قَوْلاࣰ࣌		قولا	(his) speech	qawlan
+10	18:89:17	e	۝٨٩				
+10	18:90:1	w	قَالُواْ		قالوا	They said	qālū
+10	18:90:2	w	يَٰذَا		يذا	O Dhul-qarnain	yādhā
+10	18:90:3	w	ࡰ۬لْقَرْنَيْنِ		القرنين	O Dhul-qarnain	l-qarnayni
+10	18:90:4	w	إِنَّ		ان	Indeed	inna
+10	18:90:5	w	يَاجُوجَ		ياجوج	Yajuj	yajūja
+10	18:90:6	w	وَمَاجُوجَ		وماجوج	and Majuj	wamajūja
+11	18:90:7	w	مُفْسِدُونَ		مفسدون	(are) corrupters	muf'sidūna
+11	18:90:8	w	فِے		في	in	fī
+11	18:90:9	w	ࡴ۬لَارْضِ		الارض	the land	l-arḍi
+11	18:90:10	w	فَهَلْ		فهل	So may	fahal
+11	18:90:11	w	نَجْعَلُ		نجعل	we make	najʿalu
+11	18:90:12	w	لَكَ		لك	for you	laka
+11	18:90:13	w	خَرْجاً		خرجا	an expenditure	kharjan
+11	18:90:14	w	عَلَىٰٓ		علي	[on]	ʿalā
+11	18:90:15	w	أَن		ان	that	an
+11	18:90:16	w	تَجْعَلَ		تجعل	you make	tajʿala
+11	18:90:17	w	بَيْنَنَا		بيننا	between us	baynanā
+12	18:90:18	w	وَبَيْنَهُمْ		وبينهم	and between them	wabaynahum
+12	18:90:19	w	سُدّاࣰ࣌		سدا	a barrier	saddan
+12	18:90:20	e	۝٩٠				
+12	18:91:1	w	قَالَ		قال	He said	qāla
+12	18:91:2	w	مَا		ما	What	mā
+12	18:91:3	w	مَكَّنِّے		مكني	has established me	makkannī
+12	18:91:4	w	فِيهِ		فيه	[in it]	fīhi
+12	18:91:5	w	رَبِّے		ربي	my Lord	rabbī
+12	18:91:6	w	خَيْرࣱ࣌		خير	(is) better	khayrun
+12	18:91:7	w	فَأَعِينُونِے		فاعينوني	but assist me	fa-aʿīnūnī
+12	18:91:8	w	بِقُوَّةٍ		بقوة	with strength	biquwwatin
+12	18:91:9	w	ࡰجْعَلْ		اجعل	I will make	ajʿal
+13	18:91:10	w	بَيْنَكُمْ		بينكم	between you	baynakum
+13	18:91:11	w	وَبَيْنَهُمْ		وبينهم	and between them	wabaynahum
+13	18:91:12	w	رَدْماً࣌		ردما	a barrier	radman
+13	18:91:13	e	۝٩١				
+13	18:92:1	w	اٰتُونِے		اتوني	Bring me	ātūnī
+13	18:92:2	w	زُبَرَ		زبر	sheets	zubara
+13	18:92:3	w	ࡰ۬لْحَدِيدِ࣌		الحديد	(of) iron	l-ḥadīdi
+13	18:92:4	w	حَتَّىٰٓ		حتي	until	ḥattā
+13	18:92:5	w	إِذَا		اذا	when	idhā
+13	18:92:6	w	سَاوٜىٰ		ساوي	he (had) leveled	sāwā
+13	18:92:7	w	بَيْنَ		بين	between	bayna
+14	18:92:8	w	ࡰ۬لصَّدَفَيْنِ		الصدفين	the two cliffs	l-ṣadafayni
+14	18:92:9	w	قَالَ		قال	he said	qāla
+14	18:92:10	w	ࡸَنفُخُواْ࣌		انفخوا	Blow	unfukhū
+14	18:92:11	w	حَتَّىٰٓ		حتي	until	ḥattā
+14	18:92:12	w	إِذَا		اذا	when	idhā
+14	18:92:13	w	جَعَلَهُۥ		جعله	he made it	jaʿalahu
+14	18:92:14	w	نَاراࣰ		نارا	fire	nāran
+14	18:92:15	w	قَالَ		قال	he said	qāla
+14	18:92:16	w	ءَاتُونِےٓ		اتوني	Bring me	ātūnī
+14	18:92:17	w	أُفْرِغْ		افرغ	I pour	uf'righ
+14	18:92:18	w	عَلَيْهِ		عليه	over it	ʿalayhi
+15	18:92:19	w	قِطْراࣰ࣌		قطرا	molten copper	qiṭ'ran
+15	18:92:20	e	۝٩٢				
+15	18:93:1	w	فَمَا		فما	So not	famā
+15	18:93:2	w	ࡰٜسْطَٰعُوٓاْ		اسطعوا	they were able	is'ṭāʿū
+15	18:93:3	w	أَنْ		ان	to	an
+15	18:93:4	w	يَّظْهَرُوهُ		يظهروه	scale it	yaẓharūhu
+15	18:93:5	w	وَمَا		وما	and not	wamā
+15	18:93:6	w	ࡰٜسْتَطَٰعُواْ		استطعوا	they were able	is'taṭāʿū
+15	18:93:7	w	لَهُۥ		له	in it	lahu
+15	18:93:8	w	نَقْباࣰ࣌		نقبا	(to do) any penetration	naqban
+15	18:93:9	e	۝٩٣				

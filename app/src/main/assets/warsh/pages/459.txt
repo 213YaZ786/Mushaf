@@ -1,0 +1,151 @@
+1	39:7:1	w	خَلَقَكُم		خلقكم	He created you	khalaqakum
+1	39:7:2	w	مِّن		من	from	min
+1	39:7:3	w	نَّفْسࣲ		نفس	a soul	nafsin
+1	39:7:4	w	وَٰحِدَةࣲ		وحدة	single	wāḥidatin
+1	39:7:5	w	ثُمَّ		ثم	Then	thumma
+1	39:7:6	w	جَعَلَ		جعل	He made	jaʿala
+1	39:7:7	w	مِنْهَا		منها	from it	min'hā
+1	39:7:8	w	زَوْجَهَا࣌		زوجها	its mate	zawjahā
+1	39:7:9	w	وَأَنزَلَ		وانزل	And He sent down	wa-anzala
+1	39:7:10	w	لَكُم		لكم	for you	lakum
+2	39:7:11	w	مِّنَ		من	of	mina
+2	39:7:12	w	ࡰ۬لَانْعَٰمِ		الانعم	the cattle	l-anʿāmi
+2	39:7:13	w	ثَمَٰنِيَةَ		ثمنية	eight	thamāniyata
+2	39:7:14	w	أَزْوَٰجࣲ࣌		ازوج	kinds	azwājin
+2	39:7:15	w	يَخْلُقُكُمْ		يخلقكم	He creates you	yakhluqukum
+2	39:7:16	w	فِے		في	in	fī
+2	39:7:17	w	بُطُونِ		بطون	(the) wombs	buṭūni
+2	39:7:18	w	أُمَّهَٰتِكُمْ		امهتكم	(of) your mothers	ummahātikum
+3	39:7:19	w	خَلْقاࣰ		خلقا	creation	khalqan
+3	39:7:20	w	مِّنۢ		من	after	min
+3	39:7:21	w	بَعْدِ		بعد	after	baʿdi
+3	39:7:22	w	خَلْقࣲ		خلق	creation	khalqin
+3	39:7:23	w	فِے		في	in	fī
+3	39:7:24	w	ظُلُمَٰتࣲ		ظلمت	darkness[es]	ẓulumātin
+3	39:7:25	w	ثَلَٰثࣲ࣌		ثلث	three	thalāthin
+3	39:7:26	w	ذَٰلِكُمُ		ذلكم	That	dhālikumu
+3	39:7:27	w	ࡲ۬للَّهُ		الله	(is) Allah	l-lahu
+3	39:7:28	w	رَبُّكُمْ		ربكم	your Lord	rabbukum
+3	39:7:29	w	لَهُ		له	for Him	lahu
+4	39:7:30	w	ࡲ۬لْمُلْكُ࣌		الملك	(is) the dominion	l-mul'ku
+4	39:7:31	w	لَآ		لا	(There is) no	lā
+4	39:7:32	w	إِلَٰهَ		اله	god	ilāha
+4	39:7:33	w	إِلَّا		الا	except	illā
+4	39:7:34	w	هُوَ࣌		هو	He	huwa
+4	39:7:35	w	فَأَنّٜىٰ		فاني	Then how	fa-annā
+4	39:7:36	w	تُصْرَفُونَ࣌		تصرفون	are you turning away	tuṣ'rafūna
+4	39:7:37	e	۝٧				
+4	39:8:1	w	إِن		ان	If	in
+4	39:8:2	w	تَكْفُرُواْ		تكفروا	you disbelieve	takfurū
+4	39:8:3	w	فَإِنَّ		فان	then indeed	fa-inna
+4	39:8:4	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+5	39:8:5	w	غَنِيٌّ		غني	(is) free from need	ghaniyyun
+5	39:8:6	w	عَنكُمْ࣌		عنكم	of you	ʿankum
+5	39:8:7	w	وَلَا		ولا	And not	walā
+5	39:8:8	w	يَرْضٜىٰ		يرضي	He likes	yarḍā
+5	39:8:9	w	لِعِبَادِهِ		لعباده	in His slaves	liʿibādihi
+5	39:8:10	w	ࡴ۬لْكُفْرَ࣌		الكفر	ungratefulness	l-kuf'ra
+5	39:8:11	w	وَإِن		وان	And if	wa-in
+5	39:8:12	w	تَشْكُرُواْ		تشكروا	you are grateful	tashkurū
+5	39:8:13	w	يَرْضَهُ		يرضه	He likes it	yarḍahu
+6	39:8:14	w	لَكُمْ࣌		لكم	in you	lakum
+6	39:8:15	w	وَلَا		ولا	And not	walā
+6	39:8:16	w	تَزِرُ		تزر	will bear	taziru
+6	39:8:17	w	وَازِرَةࣱ		وازرة	bearer of burdens	wāziratun
+6	39:8:18	w	وِزْرَ		وزر	(the) burden	wiz'ra
+6	39:8:19	w	أُخْرٜىٰ࣌		اخري	(of) another	ukh'rā
+6	39:8:20	w	ثُمَّ		ثم	Then	thumma
+6	39:8:21	w	إِلَىٰ		الي	to	ilā
+6	39:8:22	w	رَبِّكُم		ربكم	your Lord	rabbikum
+6	39:8:23	w	مَّرْجِعُكُمْ		مرجعكم	(is) your return	marjiʿukum
+7	39:8:24	w	فَيُنَبِّئُكُم		فينبيكم	then He will inform you	fayunabbi-ukum
+7	39:8:25	w	بِمَا		بما	about what	bimā
+7	39:8:26	w	كُنتُمْ		كنتم	you used to	kuntum
+7	39:8:27	w	تَعْمَلُونَ࣌		تعملون	do	taʿmalūna
+7	39:8:28	w	إِنَّهُۥ		انه	Indeed, He	innahu
+7	39:8:29	w	عَلِيمُۢ		عليم	(is) the All-Knower	ʿalīmun
+7	39:8:30	w	بِذَاتِ		بذات	of what (is) in the breasts	bidhāti
+7	39:8:31	w	ࡴ۬لصُّدُورِ࣌		الصدور	of what (is) in the breasts	l-ṣudūri
+7	39:8:32	e	۝٨				
+8	39:9:1	w	۞ وَإِذَا		واذا	And when	wa-idhā
+8	39:9:2	w	مَسَّ		مس	touches	massa
+8	39:9:3	w	ࡰ۬لِانسَٰنَ		الانسن	[the] man	l-insāna
+8	39:9:4	w	ضُرࣱّ		ضر	adversity	ḍurrun
+8	39:9:5	w	دَعَا		دعا	he calls	daʿā
+8	39:9:6	w	رَبَّهُۥ		ربه	his Lord	rabbahu
+8	39:9:7	w	مُنِيباً		منيبا	turning	munīban
+8	39:9:8	w	ࡴلَيْهِ࣌		اليه	to Him	ilayhi
+8	39:9:9	w	ثُمَّ		ثم	then	thumma
+8	39:9:10	w	إِذَا		اذا	when	idhā
+8	39:9:11	w	خَوَّلَهُۥ		خوله	He bestows on him	khawwalahu
+8	39:9:12	w	نِعْمَةࣰ		نعمة	a favor	niʿ'matan
+9	39:9:13	w	مِّنْهُ		منه	from Himself	min'hu
+9	39:9:14	w	نَسِيَ		نسي	he forgets	nasiya
+9	39:9:15	w	مَا		ما	(for) what	mā
+9	39:9:16	w	كَانَ		كان	he used to call	kāna
+9	39:9:17	w	يَدْعُوٓاْ		يدعوا	he used to call	yadʿū
+9	39:9:18	w	إِلَيْهِ		اليه	[to] Him	ilayhi
+9	39:9:19	w	مِن		من	before	min
+9	39:9:20	w	قَبْلُ		قبل	before	qablu
+9	39:9:21	w	وَجَعَلَ		وجعل	and he sets up	wajaʿala
+9	39:9:22	w	لِلهِ		لله	to Allah	lillahi
+9	39:9:23	w	أَندَاداࣰ		اندادا	rivals	andādan
+10	39:9:24	w	لِّيُضِلَّ		ليضل	to mislead	liyuḍilla
+10	39:9:25	w	عَن		عن	from	ʿan
+10	39:9:26	w	سَبِيلِهِۦ࣌		سبيلهي	His Path	sabīlihi
+10	39:9:27	w	قُلْ		قل	Say	qul
+10	39:9:28	w	تَمَتَّعْ		تمتع	Enjoy	tamattaʿ
+10	39:9:29	w	بِكُفْرِكَ		بكفرك	in your disbelief	bikuf'rika
+10	39:9:30	w	قَلِيلاً		قليلا	(for) a little	qalīlan
+10	39:9:31	w	ࡴنَّكَ		انك	Indeed, you	innaka
+10	39:9:32	w	مِنَ		من	(are) of	min
+10	39:9:33	w	ࡰصْحَٰبِ		اصحب	(the) companions	aṣḥābi
+11	39:9:34	w	ࡴ۬لنّٜارِ࣌		النار	(of) the Fire	l-nāri
+11	39:9:35	e	۝٩				
+11	39:10:1	w	أَمَنْ		امن	Is (one) who	amman
+11	39:10:2	w	هُوَ		هو	[he]	huwa
+11	39:10:3	w	قَٰنِتٌ		قنت	(is) devoutly obedient	qānitun
+11	39:10:4	w	اٰنَآءَ		انا	(during) hours	ānāa
+11	39:10:5	w	ࡰ۬ليْلِ		اليل	(of) the night	al-layli
+11	39:10:6	w	سَاجِداࣰ		ساجدا	prostrating	sājidan
+11	39:10:7	w	وَقَآئِماࣰ		وقايما	and standing	waqāiman
+11	39:10:8	w	يَحْذَرُ		يحذر	fearing	yaḥdharu
+11	39:10:9	w	ࡲ۬لَاخِرَةَ		الاخرة	the Hereafter	l-ākhirata
+12	39:10:10	w	وَيَرْجُواْ		ويرجوا	and hoping	wayarjū
+12	39:10:11	w	رَحْمَةَ		رحمة	(for the) Mercy	raḥmata
+12	39:10:12	w	رَبِّهِۦ࣌		ربهي	(of) his Lord	rabbihi
+12	39:10:13	w	قُلْ		قل	Say	qul
+12	39:10:14	w	هَلْ		هل	Are	hal
+12	39:10:15	w	يَسْتَوِے		يستوي	equal	yastawī
+12	39:10:16	w	ࡴ۬لذِينَ		الذين	those who	alladhīna
+12	39:10:17	w	يَعْلَمُونَ		يعلمون	know	yaʿlamūna
+12	39:10:18	w	وَالذِينَ		والذين	and those who	wa-alladhīna
+13	39:10:19	w	لَا		لا	(do) not	lā
+13	39:10:20	w	يَعْلَمُونَ࣌		يعلمون	know	yaʿlamūna
+13	39:10:21	w	إِنَّمَا		انما	Only	innamā
+13	39:10:22	w	يَتَذَكَّرُ		يتذكر	will take heed	yatadhakkaru
+13	39:10:23	w	أُوْلُواْ		اولوا	those of understanding	ulū
+13	39:10:24	w	ࡲ۬لَالْبَٰبِ࣌		الالبب	those of understanding	l-albābi
+13	39:10:25	e	۝١٠				
+13	39:11:1	w	قُلْ		قل	Say	qul
+13	39:11:2	w	يَٰعِبَادِ		يعباد	O My slaves	yāʿibādi
+13	39:11:3	w	ࡴ۬لذِينَ		الذين	[those] who	alladhīna
+14	39:11:4	w	ءَامَنُواْ		امنوا	believe	āmanū
+14	39:11:5	w	ࡲٜتَّقُواْ		اتقوا	Fear	ittaqū
+14	39:11:6	w	رَبَّكُمْ࣌		ربكم	your Lord	rabbakum
+14	39:11:7	w	لِلذِينَ		للذين	For those who	lilladhīna
+14	39:11:8	w	أَحْسَنُواْ		احسنوا	do good	aḥsanū
+14	39:11:9	w	فِے		في	in	fī
+14	39:11:10	w	هَٰذِهِ		هذه	this	hādhihi
+14	39:11:11	w	ࡴ۬لدُّنْيٜا		الدنيا	world	l-dun'yā
+14	39:11:12	w	حَسَنَةࣱ࣌		حسنة	(is) good	ḥasanatun
+15	39:11:13	w	وَأَرْضُ		وارض	and the earth	wa-arḍu
+15	39:11:14	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+15	39:11:15	w	وَٰسِعَةٌ࣌		وسعة	(is) spacious	wāsiʿatun
+15	39:11:16	w	ࡴنَّمَا		انما	Only	innamā
+15	39:11:17	w	يُوَفَّى		يوفي	will be paid back in full	yuwaffā
+15	39:11:18	w	ࡰ۬لصَّٰبِرُونَ		الصبرون	the patient ones	l-ṣābirūna
+15	39:11:19	w	أَجْرَهُم		اجرهم	their reward	ajrahum
+15	39:11:20	w	بِغَيْرِ		بغير	without	bighayri
+15	39:11:21	w	حِسَابࣲ࣌		حساب	account	ḥisābin
+15	39:11:22	e	۝١١				

@@ -1,0 +1,137 @@
+1	57:18:1	w	وَالذِينَ		والذين	And those who	wa-alladhīna
+1	57:18:2	w	ءَامَنُواْ		امنوا	believe	āmanū
+1	57:18:3	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+1	57:18:4	w	وَرُسُلِهِۦٓ		ورسلهي	and His Messengers	warusulihi
+1	57:18:5	w	أُوْلَٰٓئِكَ		اوليك	[those]	ulāika
+1	57:18:6	w	هُمُ		هم	they	humu
+1	57:18:7	w	ࡲ۬لصِّدِّيقُونَ࣌		الصديقون	(are) the truthful	l-ṣidīqūna
+1	57:18:8	w	وَالشُّهَدَآءُ		والشهدا	and the martyrs	wal-shuhadāu
+2	57:18:9	w	عِندَ		عند	(are) with	ʿinda
+2	57:18:10	w	رَبِّهِمْ࣌		ربهم	their Lord	rabbihim
+2	57:18:11	w	لَهُمُۥٓ		لهم	For them	lahum
+2	57:18:12	w	أَجْرُهُمْ		اجرهم	(is) their reward	ajruhum
+2	57:18:13	w	وَنُورُهُمْ࣌		ونورهم	and their light	wanūruhum
+2	57:18:14	w	وَالذِينَ		والذين	But those who	wa-alladhīna
+2	57:18:15	w	كَفَرُواْ		كفروا	disbelieve	kafarū
+2	57:18:16	w	وَكَذَّبُواْ		وكذبوا	and deny	wakadhabū
+3	57:18:17	w	بِـَٔايَٰتِنَآ		بايتنا	Our Verses	biāyātinā
+3	57:18:18	w	أُوْلَٰٓئِكَ		اوليك	those	ulāika
+3	57:18:19	w	أَصْحَٰبُ		اصحب	(are the) companions	aṣḥābu
+3	57:18:20	w	ࡲ۬لْجَحِيمِ࣌		الجحيم	(of) the Hellfire	l-jaḥīmi
+3	57:18:21	e	۝١٨				
+3	57:19:1	w	ࡴٜعْلَمُوٓاْ		اعلموا	Know	iʿ'lamū
+3	57:19:2	w	أَنَّمَا		انما	that	annamā
+3	57:19:3	w	ࡰ۬لْحَيَوٰةُ		الحيوة	the life	l-ḥayatu
+4	57:19:4	w	ࡲ۬لدُّنْيٜا		الدنيا	(of) the world	l-dun'yā
+4	57:19:5	w	لَعِبࣱ		لعب	(is) play	laʿibun
+4	57:19:6	w	وَلَهْوࣱ		ولهو	and amusement	walahwun
+4	57:19:7	w	وَزِينَةࣱ		وزينة	and adornment	wazīnatun
+4	57:19:8	w	وَتَفَاخُرُۢ		وتفاخر	and boasting	watafākhurun
+4	57:19:9	w	بَيْنَكُمْ		بينكم	among you	baynakum
+4	57:19:10	w	وَتَكَاثُرࣱ		وتكاثر	and competition in increase	watakāthurun
+4	57:19:11	w	فِے		في	of	fī
+4	57:19:12	w	ࡴ۬لَامْوَٰلِ		الامول	the wealth	l-amwāli
+5	57:19:13	w	وَالَاوْلَٰدِ		والاولد	and the children	wal-awlādi
+5	57:19:14	w	كَمَثَلِ		كمثل	like (the) example	kamathali
+5	57:19:15	w	غَيْثٍ		غيث	(of) a rain	ghaythin
+5	57:19:16	w	ࡰعْجَبَ		اعجب	pleases	aʿjaba
+5	57:19:17	w	ࡰ۬لْكُفَّارَ		الكفار	the tillers	l-kufāra
+5	57:19:18	w	نَبَاتُهُۥ		نباته	its growth	nabātuhu
+5	57:19:19	w	ثُمَّ		ثم	then	thumma
+5	57:19:20	w	يَهِيجُ		يهيج	it dries	yahīju
+5	57:19:21	w	فَتَرٜيٰهُ		فتريه	and you see it	fatarāhu
+6	57:19:22	w	مُصْفَرّاࣰ		مصفرا	turning yellow	muṣ'farran
+6	57:19:23	w	ثُمَّ		ثم	then	thumma
+6	57:19:24	w	يَكُونُ		يكون	becomes	yakūnu
+6	57:19:25	w	حُطَٰماࣰ࣌		حطما	debris	ḥuṭāman
+6	57:19:26	w	وَفِے		وفي	And in	wafī
+6	57:19:27	w	ࡴ۬لَاخِرَةِ		الاخرة	the Hereafter	l-ākhirati
+6	57:19:28	w	عَذَابࣱ		عذاب	(is) a punishment	ʿadhābun
+6	57:19:29	w	شَدِيدࣱ		شديد	severe	shadīdun
+6	57:19:30	w	وَمَغْفِرَةࣱ		ومغفرة	and forgiveness	wamaghfiratun
+7	57:19:31	w	مِّنَ		من	from	mina
+7	57:19:32	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+7	57:19:33	w	وَرِضْوَٰنࣱ࣌		ورضون	and Pleasure	wariḍ'wānun
+7	57:19:34	w	وَمَا		وما	But not	wamā
+7	57:19:35	w	ࡰ۬لْحَيَوٰةُ		الحيوة	(is) the life	l-ḥayatu
+7	57:19:36	w	ࡲ۬لدُّنْيٜآ		الدنيا	(of) the world	l-dun'yā
+7	57:19:37	w	إِلَّا		الا	except	illā
+7	57:19:38	w	مَتَٰعُ		متع	(the) enjoyment	matāʿu
+7	57:19:39	w	ࡲ۬لْغُرُورِ࣌		الغرور	(of) delusion	l-ghurūri
+7	57:19:40	e	۝١٩				
+7	57:20:1	w	سَابِقُوٓاْ		سابقوا	Race	sābiqū
+8	57:20:2	w	إِلَىٰ		الي	to	ilā
+8	57:20:3	w	مَغْفِرَةࣲ		مغفرة	(the) forgiveness	maghfiratin
+8	57:20:4	w	مِّن		من	from	min
+8	57:20:5	w	رَّبِّكُمْ		ربكم	your Lord	rabbikum
+8	57:20:6	w	وَجَنَّةٍ		وجنة	and a Garden	wajannatin
+8	57:20:7	w	عَرْضُهَا		عرضها	its width	ʿarḍuhā
+8	57:20:8	w	كَعَرْضِ		كعرض	(is) like (the) width	kaʿarḍi
+8	57:20:9	w	ࡴ۬لسَّمَآءِ		السما	(of) the heaven	l-samāi
+9	57:20:10	w	وَالَارْضِ		والارض	and the earth	wal-arḍi
+9	57:20:11	w	أُعِدَّتْ		اعدت	prepared	uʿiddat
+9	57:20:12	w	لِلذِينَ		للذين	for those who	lilladhīna
+9	57:20:13	w	ءَامَنُواْ		امنوا	believe	āmanū
+9	57:20:14	w	بِاللَّهِ		بالله	in Allah	bil-lahi
+9	57:20:15	w	وَرُسُلِهِۦ࣌		ورسلهي	and His Messengers	warusulihi
+9	57:20:16	w	ذَٰلِكَ		ذلك	That	dhālika
+9	57:20:17	w	فَضْلُ		فضل	(is the) Bounty	faḍlu
+10	57:20:18	w	ࡲ۬للَّهِ		الله	(of) Allah	l-lahi
+10	57:20:19	w	يُوتِيهِ		يوتيه	He gives	yu'tīhi
+10	57:20:20	w	مَنْ		من	(to) whom	man
+10	57:20:21	w	يَّشَآءُ࣌		يشا	He wills	yashāu
+10	57:20:22	w	وَاللَّهُ		والله	And Allah	wal-lahu
+10	57:20:23	w	ذُو		ذو	(is) the Possessor of Bounty	dhū
+10	57:20:24	w	ࡲ۬لْفَضْلِ		الفضل	(is) the Possessor of Bounty	l-faḍli
+10	57:20:25	w	ࡴ۬لْعَظِيمِ࣌		العظيم	the Great	l-ʿaẓīmi
+10	57:20:26	e	۝٢٠				
+10	57:21:1	w	۞ مَآ		ما	Not	mā
+10	57:21:2	w	أَصَابَ		اصاب	strikes	aṣāba
+11	57:21:3	w	مِن		من	any	min
+11	57:21:4	w	مُّصِيبَةࣲ		مصيبة	disaster	muṣībatin
+11	57:21:5	w	فِے		في	in	fī
+11	57:21:6	w	ࡴ۬لَارْضِ		الارض	the earth	l-arḍi
+11	57:21:7	w	وَلَا		ولا	and not	walā
+11	57:21:8	w	فِےٓ		في	in	fī
+11	57:21:9	w	أَنفُسِكُمُۥٓ		انفسكم	yourselves	anfusikum
+11	57:21:10	w	إِلَّا		الا	but	illā
+11	57:21:11	w	فِے		في	in	fī
+11	57:21:12	w	كِتَٰبࣲ		كتب	a Register	kitābin
+11	57:21:13	w	مِّن		من	before	min
+12	57:21:14	w	قَبْلِ		قبل	before	qabli
+12	57:21:15	w	أَن		ان	that	an
+12	57:21:16	w	نَّبْرَأَهَآ࣌		نبراها	We bring it into existence	nabra-ahā
+12	57:21:17	w	إِنَّ		ان	Indeed	inna
+12	57:21:18	w	ذَٰلِكَ		ذلك	that	dhālika
+12	57:21:19	w	عَلَى		علي	for	ʿalā
+12	57:21:20	w	ࡰ۬للَّهِ		الله	Allah	l-lahi
+12	57:21:21	w	يَسِيرࣱ		يسير	(is) easy	yasīrun
+12	57:21:22	e	۝٢١				
+12	57:22:1	w	لِّكَيْلَا		لكيلا	So that you may not	likaylā
+13	57:22:2	w	تَاسَوْاْ		تاسوا	grieve	tasaw
+13	57:22:3	w	عَلَىٰ		علي	over	ʿalā
+13	57:22:4	w	مَا		ما	what	mā
+13	57:22:5	w	فَاتَكُمْ		فاتكم	has escaped you	fātakum
+13	57:22:6	w	وَلَا		ولا	and (do) not	walā
+13	57:22:7	w	تَفْرَحُواْ		تفرحوا	exult	tafraḥū
+13	57:22:8	w	بِمَآ		بما	at what	bimā
+13	57:22:9	w	ءَاتٜيٰكُمْ࣌		اتيكم	He has given you	ātākum
+13	57:22:10	w	وَاللَّهُ		والله	And Allah	wal-lahu
+14	57:22:11	w	لَا		لا	(does) not	lā
+14	57:22:12	w	يُحِبُّ		يحب	love	yuḥibbu
+14	57:22:13	w	كُلَّ		كل	every	kulla
+14	57:22:14	w	مُخْتَالࣲ		مختال	self-deluded	mukh'tālin
+14	57:22:15	w	فَخُورٍ࣌		فخور	boaster	fakhūrin
+14	57:22:16	e	۝٢٢				
+14	57:23:1	w	ࡴ۬لذِينَ		الذين	Those who	alladhīna
+14	57:23:2	w	يَبْخَلُونَ		يبخلون	are stingy	yabkhalūna
+14	57:23:3	w	وَيَامُرُونَ		ويامرون	and enjoin	wayamurūna
+15	57:23:4	w	ࡰ۬لنَّاسَ		الناس	(on) the people	l-nāsa
+15	57:23:5	w	بِالْبُخْلِ࣌		بالبخل	stinginess	bil-bukh'li
+15	57:23:6	w	وَمَنْ		ومن	And whoever	waman
+15	57:23:7	w	يَّتَوَلَّ		يتول	turns away	yatawalla
+15	57:23:8	w	فَإِنَّ		فان	then indeed	fa-inna
+15	57:23:9	w	ࡰ۬للَّهَ		الله	Allah	l-laha
+15	57:23:10	w	ࡰ۬لْغَنِيُّ		الغني	(is) Free of need	l-ghaniyu
+15	57:23:11	w	ࡲ۬لْحَمِيدُ࣌		الحميد	the Praiseworthy	l-ḥamīdu
+15	57:23:12	e	۝٢٣				

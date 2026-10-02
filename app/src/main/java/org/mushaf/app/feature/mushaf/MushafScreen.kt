@@ -56,6 +56,9 @@ import androidx.core.view.WindowInsetsControllerCompat
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.ui.theme.quranFont
+import org.mushaf.app.ui.theme.basmalaFor
+import org.mushaf.app.core.quran.Riwayah
 import org.mushaf.app.R
 import org.mushaf.app.core.quran.AyahKey
 import org.mushaf.app.core.quran.MushafPage
@@ -107,7 +110,9 @@ fun MushafScreen(
     val haptics = rememberHaptics()
     val scope = rememberCoroutineScope()
 
-    val hafs = remember { FontFamily(Font(R.font.uthmanic_hafs)) }
+    // The riwayah's own font; Hafs alone has the print fonts of each page.
+    val hafs = quranFont()
+    val warsh = settings.riwayah == Riwayah.WARSH
     val surahNames = remember { FontFamily(Font(R.font.surah_names)) }
     val arrived by fonts.arrived.collectAsState()
     val marked by reader.marked.collectAsState()
@@ -123,16 +128,24 @@ fun MushafScreen(
     val recitations: Recitations = koinInject()
     val surahPlaying = heard.key?.surah
     OfferDownload(
-        pack = Pack.Recitation(settings.reciter),
-        wanted = heard.playing && remember(settings.reciter) { recitations.kept(settings.reciter) } < 114,
+        pack = Pack.Recitation(store.reciter(settings.riwayah)),
+        wanted = heard.playing && remember(settings.reciter, settings.warshReciter, settings.riwayah) { recitations.kept(store.reciter(settings.riwayah)) } < 114,
         title = "Keep this recitation offline?",
-        text = Recitations.reciter(settings.reciter).name + "'s recitation of the whole Quran, kept on the phone to listen without a connection. It downloads in the background" +
+        text = Recitations.reciter(store.reciter(settings.riwayah)).name + "'s recitation of the whole Quran, kept on the phone to listen without a connection. It downloads in the background" +
             if (settings.wifiOnly) ", on Wi-Fi." else ".",
         one = "This surah only" to {
-            surahPlaying?.let { n -> scope.launch { runCatching { recitations.downloadSurah(settings.reciter, n) } } }
+            surahPlaying?.let { n -> scope.launch { runCatching { recitations.downloadSurah(store.reciter(settings.riwayah), n) } } }
             Unit
         }
     )
+
+    // The basmala as this riwayah's mushaf writes it: Warsh's from its first page.
+    val basmalaText by produceState(basmalaFor(settings.riwayah), settings.riwayah) {
+        if (settings.riwayah == Riwayah.WARSH) {
+            value = quran.page(1).words.filter { it.key.surah == 1 && it.key.ayah == 0 }.joinToString(" ") { it.text }
+                .ifEmpty { basmalaFor(Riwayah.WARSH) }
+        }
+    }
 
     KeepScreenOn(settings.keepScreenOn)
     SystemBars(visible = chrome || opened != null)
@@ -311,16 +324,17 @@ fun MushafScreen(
                                     val shown = page
                                     if (shown != null) {
                                         // Read again when a font arrives.
-                                        val print = remember(n, settings.script, arrived) {
-                                            if (settings.script.usable) fonts.family(settings.script, n) else null
+                                        val print = remember(n, settings.script, arrived, warsh) {
+                                            if (!warsh && settings.script.usable) fonts.family(settings.script, n) else null
                                         }
                                         PageView(
                                             page = shown,
                                             print = print,
                                             hafs = hafs,
-                                            basmala = remember(settings.script, arrived) {
-                                                if (settings.script.usable) fonts.family(settings.script, 1) else null
+                                            basmala = remember(settings.script, arrived, warsh) {
+                                                if (!warsh && settings.script.usable) fonts.family(settings.script, 1) else null
                                             },
+                                            basmalaText = basmalaText,
                                             surahNames = surahNames,
                                             marked = marked ?: opened?.key ?: heard.key,
                                             heard = heard.key.takeIf { settings.followVoice },
@@ -335,6 +349,8 @@ fun MushafScreen(
                                             },
                                             modifier = if (scrolled) Modifier.height(pageHeight) else Modifier,
                                             onLongPress = { w ->
+                                                // The basmala Warsh prints before al-Fatihah is not an ayah.
+                                                if (w.key.ayah == 0) return@PageView
                                                 haptics.firm()
                                                 if (session != null && w.key in session!!.keys) hifz.slip(w) else opened = w
                                             }

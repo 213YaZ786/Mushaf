@@ -1,0 +1,130 @@
+1	7:95:1	w	وَلَوَ		ولو	And if	walaw
+1	7:95:2	w	ࡰنَّ		ان	[that]	anna
+1	7:95:3	w	أَهْلَ		اهل	people	ahla
+1	7:95:4	w	ࡰ۬لْقُرٜىٰٓ		القري	(of) the cities	l-qurā
+1	7:95:5	w	ءَامَنُواْ		امنوا	(had) believed	āmanū
+1	7:95:6	w	وَاتَّقَوْاْ		واتقوا	and feared Allah	wa-ittaqaw
+1	7:95:7	w	لَفَتَحْنَا		لفتحنا	surely We (would have) opened	lafataḥnā
+1	7:95:8	w	عَلَيْهِم		عليهم	upon them	ʿalayhim
+1	7:95:9	w	بَرَكَٰتࣲ		بركت	blessings	barakātin
+2	7:95:10	w	مِّنَ		من	from	mina
+2	7:95:11	w	ࡰ۬لسَّمَآءِ		السما	the heaven	l-samāi
+2	7:95:12	w	وَالَارْضِ࣌		والارض	and the earth	wal-arḍi
+2	7:95:13	w	وَلَٰكِن		ولكن	but	walākin
+2	7:95:14	w	كَذَّبُواْ		كذبوا	they denied	kadhabū
+2	7:95:15	w	فَأَخَذْنَٰهُم		فاخذنهم	So We seized them	fa-akhadhnāhum
+2	7:95:16	w	بِمَا		بما	for what	bimā
+2	7:95:17	w	كَانُواْ		كانوا	they used to	kānū
+3	7:95:18	w	يَكْسِبُونَ࣌		يكسبون	earn	yaksibūna
+3	7:95:19	e	۝٩٥				
+3	7:96:1	w	أَفَأَمِنَ		افامن	Then did feel secure	afa-amina
+3	7:96:2	w	أَهْلُ		اهل	(the) people	ahlu
+3	7:96:3	w	ࡲ۬لْقُرٜىٰٓ		القري	(of) the cities	l-qurā
+3	7:96:4	w	أَنْ		ان	that	an
+3	7:96:5	w	يَّاتِيَهُم		ياتيهم	comes to them	yatiyahum
+3	7:96:6	w	بَأْسُنَا		باسنا	Our punishment	basunā
+4	7:96:7	w	بَيَٰتاࣰ		بيتا	(at) night	bayātan
+4	7:96:8	w	وَهُمْ		وهم	while they	wahum
+4	7:96:9	w	نَآئِمُونَ		نايمون	(were) asleep	nāimūna
+4	7:96:10	e	۝٩٦				
+4	7:97:1	w	أَوَࡰمِنَ		اوامن	Or felt secure	awa-amina
+4	7:97:2	w	أَهْلُ		اهل	(the) people	ahlu
+4	7:97:3	w	ࡲ۬لْقُرٜىٰٓ		القري	(of) the cities	l-qurā
+4	7:97:4	w	أَنْ		ان	that	an
+4	7:97:5	w	يَّاتِيَهُم		ياتيهم	comes to them	yatiyahum
+5	7:97:6	w	بَأْسُنَا		باسنا	Our punishment	basunā
+5	7:97:7	w	ضُحىࣰ		ضحي	(in) daylight	ḍuḥan
+5	7:97:8	w	وَهُمْ		وهم	while they	wahum
+5	7:97:9	w	يَلْعَبُونَ࣌		يلعبون	(were) playing	yalʿabūna
+5	7:97:10	e	۝٩٧				
+5	7:98:1	w	أَفَأَمِنُواْ		افامنوا	Then did they feel secure	afa-aminū
+5	7:98:2	w	مَكْرَ		مكر	(from the) plan	makra
+5	7:98:3	w	ࡰ۬للَّهِ࣌		الله	(of) Allah	l-lahi
+6	7:98:4	w	فَلَا		فلا	But not	falā
+6	7:98:5	w	يَامَنُ		يامن	feel secure	yamanu
+6	7:98:6	w	مَكْرَ		مكر	(from the) plan	makra
+6	7:98:7	w	ࡰ۬للَّهِ		الله	(of) Allah	l-lahi
+6	7:98:8	w	إِلَّا		الا	except	illā
+6	7:98:9	w	ࡰ۬لْقَوْمُ		القوم	the people	l-qawmu
+6	7:98:10	w	ࡲ۬لْخَٰسِرُونَ࣌		الخسرون	(who are) the losers	l-khāsirūna
+6	7:98:11	e	۝٩٨				
+6	7:99:1	w	۞ أَوَلَمْ		اولم	Would it not	awalam
+6	7:99:2	w	يَهْدِ		يهد	guide	yahdi
+7	7:99:3	w	لِلذِينَ		للذين	[for] those who	lilladhīna
+7	7:99:4	w	يَرِثُونَ		يرثون	inherit	yarithūna
+7	7:99:5	w	ࡰ۬لَارْضَ		الارض	the land	l-arḍa
+7	7:99:6	w	مِنۢ		من	from	min
+7	7:99:7	w	بَعْدِ		بعد	after	baʿdi
+7	7:99:8	w	أَهْلِهَآ		اهلها	its people	ahlihā
+7	7:99:9	w	أَن		ان	that	an
+7	7:99:10	w	لَّوْ		لو	if	law
+7	7:99:11	w	نَشَآءُ		نشا	We willed	nashāu
+8	7:99:12	w	ࡶَصَبْنَٰهُم		اصبنهم	We (could) afflict them	aṣabnāhum
+8	7:99:13	w	بِذُنُوبِهِمْ࣌		بذنوبهم	for their sins	bidhunūbihim
+8	7:99:14	w	وَنَطْبَعُ		ونطبع	and We put a seal	wanaṭbaʿu
+8	7:99:15	w	عَلَىٰ		علي	over	ʿalā
+8	7:99:16	w	قُلُوبِهِمْ		قلوبهم	their hearts	qulūbihim
+8	7:99:17	w	فَهُمْ		فهم	so they	fahum
+8	7:99:18	w	لَا		لا	(do) not	lā
+8	7:99:19	w	يَسْمَعُونَ࣌		يسمعون	hear	yasmaʿūna
+8	7:99:20	e	۝٩٩				
+9	7:100:1	w	تِلْكَ		تلك	These	til'ka
+9	7:100:2	w	ࡰ۬لْقُرٜىٰ		القري	(were) the cities	l-qurā
+9	7:100:3	w	نَقُصُّ		نقص	We relate	naquṣṣu
+9	7:100:4	w	عَلَيْكَ		عليك	to you	ʿalayka
+9	7:100:5	w	مِنَ		من	of	min
+9	7:100:6	w	ࡰنۢبَآئِهَا࣌		انبايها	their news	anbāihā
+9	7:100:7	w	وَلَقَدْ		ولقد	And certainly	walaqad
+9	7:100:8	w	جَآءَتْهُمْ		جاتهم	came to them	jāathum
+10	7:100:9	w	رُسُلُهُم		رسلهم	their Messengers	rusuluhum
+10	7:100:10	w	بِالْبَيِّنَٰتِ		بالبينت	with clear proofs	bil-bayināti
+10	7:100:11	w	فَمَا		فما	but not	famā
+10	7:100:12	w	كَانُواْ		كانوا	they were	kānū
+10	7:100:13	w	لِيُومِنُواْ		ليومنوا	to believe	liyu'minū
+10	7:100:14	w	بِمَا		بما	in what	bimā
+10	7:100:15	w	كَذَّبُواْ		كذبوا	they (had) denied	kadhabū
+10	7:100:16	w	مِن		من	from	min
+11	7:100:17	w	قَبْلُ࣌		قبل	before	qablu
+11	7:100:18	w	كَذَٰلِكَ		كذلك	Thus	kadhālika
+11	7:100:19	w	يَطْبَعُ		يطبع	(has been) put a seal	yaṭbaʿu
+11	7:100:20	w	ࡲ۬للَّهُ		الله	(by) Allah	l-lahu
+11	7:100:21	w	عَلَىٰ		علي	on	ʿalā
+11	7:100:22	w	قُلُوبِ		قلوب	(the) hearts	qulūbi
+11	7:100:23	w	ࡴ۬لْكٜـٰفِرِينَ࣌		الكفرين	(of) the disbelievers	l-kāfirīna
+11	7:100:24	e	۝١٠٠				
+11	7:101:1	w	وَمَا		وما	And not	wamā
+12	7:101:2	w	وَجَدْنَا		وجدنا	We found	wajadnā
+12	7:101:3	w	لِأَكْثَرِهِم		لاكثرهم	for most of them	li-aktharihim
+12	7:101:4	w	مِّنْ		من	any	min
+12	7:101:5	w	عَهْدࣲ࣌		عهد	covenant	ʿahdin
+12	7:101:6	w	وَإِنْ		وان	But	wa-in
+12	7:101:7	w	وَّجَدْنَآ		وجدنا	We found	wajadnā
+12	7:101:8	w	أَكْثَرَهُمْ		اكثرهم	most of them	aktharahum
+12	7:101:9	w	لَفَٰسِقِينَ࣌		لفسقين	certainly, defiantly disobedient	lafāsiqīna
+12	7:101:10	e	۝١٠١				
+13	7:102:1	w	ثُمَّ		ثم	Then	thumma
+13	7:102:2	w	بَعَثْنَا		بعثنا	We sent	baʿathnā
+13	7:102:3	w	مِنۢ		من	from	min
+13	7:102:4	w	بَعْدِهِم		بعدهم	after them	baʿdihim
+13	7:102:5	w	مُّوسٜىٰ		موسي	Musa	mūsā
+13	7:102:6	w	بِـَٔايَٰتِنَآ		بايتنا	with Our Signs	biāyātinā
+13	7:102:7	w	إِلَىٰ		الي	to	ilā
+13	7:102:8	w	فِرْعَوْنَ		فرعون	Firaun	fir'ʿawna
+13	7:102:9	w	وَمَلَإِيْهِۦ		وملايهي	and his chiefs	wamala-ihi
+14	7:102:10	w	فَظَلَمُواْ		فظلموا	But they were unjust	faẓalamū
+14	7:102:11	w	بِهَا࣌		بها	to them	bihā
+14	7:102:12	w	فَانظُرْ		فانظر	So see	fa-unẓur
+14	7:102:13	w	كَيْفَ		كيف	how	kayfa
+14	7:102:14	w	كَانَ		كان	was	kāna
+14	7:102:15	w	عَٰقِبَةُ		عقبة	(the) end	ʿāqibatu
+14	7:102:16	w	ࡲ۬لْمُفْسِدِينَ࣌		المفسدين	(of) the corrupters	l-muf'sidīna
+14	7:102:17	e	۝١٠٢				
+15	7:103:1	w	وَقَالَ		وقال	And said	waqāla
+15	7:103:2	w	مُوسٜىٰ		موسي	Musa	mūsā
+15	7:103:3	w	يَٰفِرْعَوْنُ		يفرعون	O Firaun	yāfir'ʿawnu
+15	7:103:4	w	إِنِّے		اني	Indeed, I am	innī
+15	7:103:5	w	رَسُولࣱ		رسول	a Messenger	rasūlun
+15	7:103:6	w	مِّن		من	from	min
+15	7:103:7	w	رَّبِّ		رب	(the) Lord	rabbi
+15	7:103:8	w	ࡴ۬لْعَٰلَمِينَ		العلمين	(of) the worlds	l-ʿālamīna
+15	7:103:9	e	۝١٠٣				

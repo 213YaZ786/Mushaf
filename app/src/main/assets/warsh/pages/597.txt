@@ -1,0 +1,129 @@
+1	94:3:1	w	ࡰ۬لذِےٓ		الذي	Which	alladhī
+1	94:3:2	w	أَنقَضَ		انقض	weighed upon	anqaḍa
+1	94:3:3	w	ظَهْرَكَ		ظهرك	your back	ẓahraka
+1	94:3:4	e	۝٣				
+1	94:4:1	w	وَرَفَعْنَا		ورفعنا	And We raised high	warafaʿnā
+1	94:4:2	w	لَكَ		لك	for you	laka
+1	94:4:3	w	ذِكْرَكَ࣌		ذكرك	your reputation	dhik'raka
+1	94:4:4	e	۝٤				
+1	94:5:1	w	فَإِنَّ		فان	So indeed	fa-inna
+1	94:5:2	w	مَعَ		مع	with	maʿa
+1	94:5:3	w	ࡰ۬لْعُسْرِ		العسر	the hardship	l-ʿus'ri
+1	94:5:4	w	يُسْراً		يسرا	(is) ease	yus'ran
+1	94:5:5	e	۝٥				
+2	94:6:1	w	ࡴنَّ		ان	Indeed	inna
+2	94:6:2	w	مَعَ		مع	with	maʿa
+2	94:6:3	w	ࡰ۬لْعُسْرِ		العسر	the hardship	l-ʿus'ri
+2	94:6:4	w	يُسْراࣰ࣌		يسرا	(is) ease	yus'ran
+2	94:6:5	e	۝٦				
+2	94:7:1	w	فَإِذَا		فاذا	So when	fa-idhā
+2	94:7:2	w	فَرَغْتَ		فرغت	you have finished	faraghta
+2	94:7:3	w	فَانصَبْ		فانصب	then labor hard	fa-inṣab
+2	94:7:4	e	۝٧				
+2	94:8:1	w	وَإِلَىٰ		والي	And to	wa-ilā
+2	94:8:2	w	رَبِّكَ		ربك	your Lord	rabbika
+2	94:8:3	w	فَارْغَبْ࣌		فارغب	turn your attention	fa-ir'ghab
+2	94:8:4	e	۝٨				
+3	95:0:0	t					
+4	95:0:0	b					
+5	95:1:1	w	وَالتِّينِ		والتين	By the fig	wal-tīni
+5	95:1:2	w	وَالزَّيْتُونِ		والزيتون	and the olive	wal-zaytūni
+5	95:1:3	e	۝١				
+5	95:2:1	w	وَطُورِ		وطور	And (the) Mount	waṭūri
+5	95:2:2	w	سِينِينَ		سينين	Sinai	sīnīna
+5	95:2:3	e	۝٢				
+5	95:3:1	w	وَهَٰذَا		وهذا	And this	wahādhā
+5	95:3:2	w	ࡰ۬لْبَلَدِ		البلد	[the] city	l-baladi
+5	95:3:3	w	ࡴ۬لَامِينِ		الامين	[the] secure	l-amīni
+5	95:3:4	e	۝٣				
+5	95:4:1	w	لَقَدْ		لقد	Indeed	laqad
+6	95:4:2	w	خَلَقْنَا		خلقنا	We created	khalaqnā
+6	95:4:3	w	ࡰ۬لِانسَٰنَ		الانسن	man	l-insāna
+6	95:4:4	w	فِےٓ		في	in	fī
+6	95:4:5	w	أَحْسَنِ		احسن	(the) best	aḥsani
+6	95:4:6	w	تَقْوِيمࣲ		تقويم	mould	taqwīmin
+6	95:4:7	e	۝٤				
+6	95:5:1	w	ثُمَّ		ثم	Then	thumma
+6	95:5:2	w	رَدَدْنَٰهُ		رددنه	We returned him	radadnāhu
+6	95:5:3	w	أَسْفَلَ		اسفل	(to the) lowest	asfala
+6	95:5:4	w	سَٰفِلِينَ		سفلين	(of the) low	sāfilīna
+6	95:5:5	e	۝٥				
+7	95:6:1	w	إِلَّا		الا	Except	illā
+7	95:6:2	w	ࡰ۬لذِينَ		الذين	those who	alladhīna
+7	95:6:3	w	ءَامَنُواْ		امنوا	believe	āmanū
+7	95:6:4	w	وَعَمِلُواْ		وعملوا	and do	waʿamilū
+7	95:6:5	w	ࡲ۬لصَّٰلِحَٰتِ		الصلحت	righteous deeds	l-ṣāliḥāti
+7	95:6:6	w	فَلَهُمُۥٓ		فلهم	then for them	falahum
+7	95:6:7	w	أَجْرٌ		اجر	(is a) reward	ajrun
+7	95:6:8	w	غَيْرُ		غير	never	ghayru
+7	95:6:9	w	مَمْنُونࣲ࣌		ممنون	ending	mamnūnin
+7	95:6:10	e	۝٦				
+8	95:7:1	w	فَمَا		فما	Then what	famā
+8	95:7:2	w	يُكَذِّبُكَ		يكذبك	causes you to deny	yukadhibuka
+8	95:7:3	w	بَعْدُ		بعد	after (this)	baʿdu
+8	95:7:4	w	بِالدِّينِ࣌		بالدين	the judgment	bil-dīni
+8	95:7:5	e	۝٧				
+8	95:8:1	w	أَلَيْسَ		اليس	Is not	alaysa
+8	95:8:2	w	ࡰ۬للَّهُ		الله	Allah	l-lahu
+8	95:8:3	w	بِأَحْكَمِ		باحكم	(the) Most Just	bi-aḥkami
+8	95:8:4	w	ࡴ۬لْحَٰكِمِينَ࣌		الحكمين	(of) the Judges	l-ḥākimīna
+8	95:8:5	e	۝٨				
+9	96:0:0	t					
+10	96:0:0	b					
+11	96:1:1	w	ࡰٜقْرَأْ		اقرا	Read	iq'ra
+11	96:1:2	w	بِاسْمِ		باسم	in (the) name	bi-is'mi
+11	96:1:3	w	رَبِّكَ		ربك	(of) your Lord	rabbika
+11	96:1:4	w	ࡰ۬لذِے		الذي	the One Who	alladhī
+11	96:1:5	w	خَلَقَ࣌		خلق	created	khalaqa
+11	96:1:6	e	۝١				
+11	96:2:1	w	خَلَقَ		خلق	He created	khalaqa
+11	96:2:2	w	ࡰ۬لِانسَٰنَ		الانسن	man	l-insāna
+11	96:2:3	w	مِنْ		من	from	min
+11	96:2:4	w	عَلَقٍ࣌		علق	a clinging substance	ʿalaqin
+11	96:2:5	e	۝٢				
+11	96:3:1	w	ࡴٜقْرَأْ		اقرا	Read	iq'ra
+12	96:3:2	w	وَرَبُّكَ		وربك	and your Lord	warabbuka
+12	96:3:3	w	ࡰ۬لَاكْرَمُ		الاكرم	(is) the Most Generous	l-akramu
+12	96:3:4	e	۝٣				
+12	96:4:1	w	ࡲ۬لذِے		الذي	The One Who	alladhī
+12	96:4:2	w	عَلَّمَ		علم	taught	ʿallama
+12	96:4:3	w	بِالْقَلَمِ		بالقلم	by the pen	bil-qalami
+12	96:4:4	e	۝٤				
+12	96:5:1	w	عَلَّمَ		علم	Taught	ʿallama
+12	96:5:2	w	ࡰ۬لِانسَٰنَ		الانسن	man	l-insāna
+12	96:5:3	w	مَا		ما	what	mā
+13	96:5:4	w	لَمْ		لم	not	lam
+13	96:5:5	w	يَعْلَمْ࣌		يعلم	he knew	yaʿlam
+13	96:5:6	e	۝٥				
+13	96:6:1	w	كَلَّآ		كلا	Nay	kallā
+13	96:6:2	w	إِنَّ		ان	Indeed	inna
+13	96:6:3	w	ࡰ۬لِانسَٰنَ		الانسن	man	l-insāna
+13	96:6:4	w	لَيَطْغٜىٰٓ		ليطغي	surely transgresses	layaṭghā
+13	96:6:5	e	۝٦				
+13	96:7:1	w	أَن		ان	That	an
+13	96:7:2	w	رّٜءٜاهُ		راه	he sees himself	raāhu
+13	96:7:3	w	ࡲٜسْتَغْنٜىٰٓ࣌		استغني	self-sufficient	is'taghnā
+13	96:7:4	e	۝٧				
+14	96:8:1	w	إِنَّ		ان	Indeed	inna
+14	96:8:2	w	إِلَىٰ		الي	to	ilā
+14	96:8:3	w	رَبِّكَ		ربك	your Lord	rabbika
+14	96:8:4	w	ࡰ۬لرُّجْعٜىٰٓ࣌		الرجعي	(is) the return	l-ruj'ʿā
+14	96:8:5	e	۝٨				
+14	96:9:1	w	أَرَٰٓيْتَ		اريت	Have you seen	ara-ayta
+14	96:9:2	w	ࡰ۬لذِے		الذي	the one who	alladhī
+14	96:9:3	w	يَنْهٜىٰ		ينهي	forbids	yanhā
+14	96:9:4	e	۝٩				
+14	96:10:1	w	عَبْداً		عبدا	A slave	ʿabdan
+15	96:10:2	w	ࡴذَا		اذا	when	idhā
+15	96:10:3	w	صَلّٜىٰٓ࣌		صلي	he prays	ṣallā
+15	96:10:4	e	۝١٠				
+15	96:11:1	w	أَرَٰٓيْتَ		اريت	Have you seen	ara-ayta
+15	96:11:2	w	إِن		ان	if	in
+15	96:11:3	w	كَانَ		كان	he is	kāna
+15	96:11:4	w	عَلَى		علي	upon	ʿalā
+15	96:11:5	w	ࡰ۬لْهُدٜىٰٓ		الهدي	[the] guidance	l-hudā
+15	96:11:6	e	۝١١				
+15	96:12:1	w	أَوَ		او	Or	aw
+15	96:12:2	w	ࡰمَرَ		امر	he enjoins	amara
+15	96:12:3	w	بِالتَّقْوٜىٰٓ࣌		بالتقوي	[of the] righteousness	bil-taqwā
+15	96:12:4	e	۝١٢				
