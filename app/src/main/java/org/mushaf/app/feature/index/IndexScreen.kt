@@ -41,7 +41,20 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.core.quran.AyahKey
+import org.mushaf.app.data.marks.Marks
+import org.mushaf.app.data.quran.Found
+import org.mushaf.app.data.quran.Search
+import org.mushaf.app.data.quran.Translations
+import org.mushaf.app.data.settings.SettingsStore
+import org.mushaf.app.ui.component.EmptyZone
+import org.mushaf.app.ui.component.SearchPill
+import androidx.compose.material3.Icon
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.ui.text.style.TextAlign
 import org.mushaf.app.R
 import org.mushaf.app.core.quran.QuranMeta
 import org.mushaf.app.core.quran.Surah
@@ -57,7 +70,7 @@ import org.mushaf.app.ui.component.ZoneSurface
 import org.mushaf.app.ui.component.rememberHaptics
 import org.mushaf.app.ui.icon.AppIcons
 
-private enum class Part(val label: String) { SURAHS("Surahs"), JUZ("Juz"), HIZB("Hizb") }
+private enum class Part(val label: String) { SURAHS("Surahs"), JUZ("Juz"), HIZB("Hizb"), SAVED("Saved") }
 
 /**
  * Where to go in the mushaf: the surahs, the 30 juz, the 60 hizb and their
@@ -67,6 +80,17 @@ private enum class Part(val label: String) { SURAHS("Surahs"), JUZ("Juz"), HIZB(
 fun IndexScreen(onBack: () -> Unit) {
     val quran: Quran = koinInject()
     val reader: Reader = koinInject()
+    val search: Search = koinInject()
+    val marks: Marks = koinInject()
+    val store: SettingsStore = koinInject()
+    val saved by marks.marks.collectAsState()
+    var query by rememberSaveable { mutableStateOf("") }
+    val found by produceState<List<Found>?>(null, query) {
+        value = if (query.isBlank()) null else {
+            delay(250)
+            search.find(query, store.current.translations.firstOrNull { it != Translations.BUNDLED.id })
+        }
+    }
     val haptics = rememberHaptics()
     val meta by produceState(quran.metaNow, quran) { value = quran.meta() }
     val page by reader.page.collectAsState()
@@ -76,6 +100,11 @@ fun IndexScreen(onBack: () -> Unit) {
     val open = { target: Int ->
         haptics.tick()
         reader.go(target)
+        onBack()
+    }
+    val openAyah = { key: AyahKey, page: Int ->
+        haptics.tick()
+        reader.go(page, key)
         onBack()
     }
 
@@ -88,10 +117,13 @@ fun IndexScreen(onBack: () -> Unit) {
                 horizontalArrangement = Arrangement.spacedBy(8.dp, Alignment.CenterHorizontally)
             ) {
                 for (p in Part.entries) {
-                    FloatingPane(shape = CircleShape, accent = p == part, onClick = { haptics.tick(); part = p }) {
-                        Text(p.label, style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(horizontal = 18.dp, vertical = 10.dp))
+                    FloatingPane(shape = CircleShape, accent = p == part && query.isBlank(), onClick = { haptics.tick(); part = p; query = "" }) {
+                        Text(p.label, style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(horizontal = 16.dp, vertical = 10.dp))
                     }
                 }
+            }
+            Box(Modifier.fillMaxWidth().padding(horizontal = 16.dp).padding(bottom = 8.dp)) {
+                SearchPill(query, { query = it }, "Search: words, meaning, 2:255, page 50", floating = true)
             }
         }
     ) { padding ->
@@ -104,8 +136,14 @@ fun IndexScreen(onBack: () -> Unit) {
                 Part.SURAHS -> m.surahs.indexOfLast { it.firstPage <= page }
                 Part.JUZ -> m.juz.indexOfLast { it.page <= page }
                 Part.HIZB -> (m.quarters.indexOfLast { it.page <= page } / 4)
+                Part.SAVED -> 0
             }.coerceAtLeast(0)
             list.scrollToItem((index - 2).coerceAtLeast(0))
+        }
+        val results = found
+        if (results != null) {
+            SearchResults(results, query, m, padding, inset, open, openAyah)
+            return@FloatingFrame
         }
         LazyColumn(
             state = list,
@@ -131,8 +169,88 @@ fun IndexScreen(onBack: () -> Unit) {
                 Part.HIZB -> items((1..60).toList(), key = { it }) { h ->
                     HizbRow(h, m, page, open)
                 }
+                Part.SAVED -> {
+                    val keys = (saved.bookmarks.map { it.key } + saved.notes.map { it.key }).distinct().sorted()
+                    if (keys.isEmpty()) item {
+                        EmptyZone(
+                            "Nothing saved yet",
+                            "Long press an ayah in the mushaf to bookmark it or write a note.",
+                            icon = AppIcons.BookmarkOutline
+                        )
+                    }
+                    items(keys, key = { it.toString() }) { key ->
+                        val note = saved.notes.firstOrNull { it.key == key }?.text
+                        val marked = saved.bookmarks.any { it.key == key }
+                        SavedRow(key, m.surahs[key.surah - 1].name, marked, note) { scope ->
+                            scope.launch { openAyah(key, quran.pageOf(key)) }
+                        }
+                    }
+                }
             }
             item { Spacer(Modifier.windowInsetsBottomHeight(WindowInsets.navigationBars)) }
+        }
+    }
+}
+
+@Composable
+private fun SearchResults(
+    results: List<Found>,
+    query: String,
+    m: QuranMeta,
+    padding: PaddingValues,
+    inset: androidx.compose.ui.unit.Dp,
+    open: (Int) -> Unit,
+    openAyah: (AyahKey, Int) -> Unit
+) {
+    val hafs = remember { FontFamily(Font(R.font.uthmanic_hafs)) }
+    LazyColumn(
+        contentPadding = PaddingValues(top = padding.calculateTopPadding() + 8.dp, start = inset + 12.dp, end = inset + 12.dp, bottom = 24.dp),
+        verticalArrangement = Arrangement.spacedBy(8.dp),
+        modifier = Modifier.fillMaxSize()
+    ) {
+        item {
+            Text(
+                when (results.size) { 0 -> "Nothing found for “$query”"; 1 -> "1 result"; else -> "${results.size} results" },
+                style = MaterialTheme.typography.labelLarge,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier.padding(start = 12.dp, top = 4.dp)
+            )
+        }
+        items(results, key = { (it as? Found.Ayah)?.key?.toString() ?: "p" }) { r ->
+            when (r) {
+                is Found.Page -> PlaceRow(r.page, "Page ${r.page}", "Open the page", here = false) { open(r.page) }
+                is Found.Ayah -> ZoneSurface(shape = RoundedCornerShape(22.dp), onClick = { openAyah(r.key, r.page) }, modifier = Modifier.fillMaxWidth()) {
+                    Column(Modifier.padding(horizontal = 16.dp, vertical = 12.dp)) {
+                        Text(
+                            "${m.surahs[r.key.surah - 1].name} ${r.key} · page ${r.page}",
+                            style = MaterialTheme.typography.labelLarge,
+                            color = MaterialTheme.colorScheme.primary
+                        )
+                        Text(
+                            r.text,
+                            style = if (r.arabic) TextStyle(fontFamily = hafs, fontSize = 22.sp, textAlign = TextAlign.Right) else MaterialTheme.typography.bodyMedium,
+                            maxLines = 3,
+                            overflow = TextOverflow.Ellipsis,
+                            modifier = Modifier.fillMaxWidth().padding(top = 4.dp)
+                        )
+                    }
+                }
+            }
+        }
+        item { Spacer(Modifier.windowInsetsBottomHeight(WindowInsets.navigationBars)) }
+    }
+}
+
+@Composable
+private fun SavedRow(key: AyahKey, surah: String, bookmarked: Boolean, note: String?, onClick: (kotlinx.coroutines.CoroutineScope) -> Unit) {
+    val scope = rememberCoroutineScope()
+    ZoneSurface(shape = RoundedCornerShape(22.dp), onClick = { onClick(scope) }, modifier = Modifier.fillMaxWidth()) {
+        Row(Modifier.padding(horizontal = 16.dp, vertical = 12.dp), verticalAlignment = Alignment.CenterVertically) {
+            Column(Modifier.weight(1f)) {
+                Text("$surah $key", style = MaterialTheme.typography.titleMedium)
+                if (note != null) Text(note, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 3, overflow = TextOverflow.Ellipsis)
+            }
+            if (bookmarked) Icon(AppIcons.Bookmark, contentDescription = "Bookmarked", tint = MaterialTheme.colorScheme.primary)
         }
     }
 }

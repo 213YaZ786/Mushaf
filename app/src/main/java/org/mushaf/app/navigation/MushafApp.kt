@@ -14,6 +14,17 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import org.koin.compose.koinInject
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.navigation.NavBackStackEntry
+import androidx.navigation.NavType
+import androidx.navigation.navArgument
+import kotlinx.coroutines.launch
+import org.mushaf.app.core.quran.AyahKey
+import org.mushaf.app.data.quran.Quran
+import org.mushaf.app.feature.meaning.MeaningScreen
+import org.mushaf.app.feature.mushaf.Reader
+import org.mushaf.app.feature.tafsir.TafsirScreen
+import org.mushaf.app.feature.translations.TranslationsScreen
 import org.mushaf.app.BuildConfig
 import org.mushaf.app.data.settings.SettingsStore
 import org.mushaf.app.feature.about.AboutScreen
@@ -27,7 +38,17 @@ private object Routes {
     const val INDEX = "index"
     const val SETTINGS = "settings"
     const val ABOUT = "about"
+    const val MEANING = "meaning/{s}/{a}"
+    const val TAFSIR = "tafsir/{s}/{a}"
+    const val TRANSLATIONS = "translations"
+    fun meaning(k: AyahKey) = "meaning/${k.surah}/${k.ayah}"
+    fun tafsir(k: AyahKey) = "tafsir/${k.surah}/${k.ayah}"
 }
+
+private fun NavBackStackEntry.key(): AyahKey =
+    AyahKey(arguments?.getInt("s") ?: 1, arguments?.getInt("a") ?: 1)
+
+private val keyArgs = listOf(navArgument("s") { type = NavType.IntType }, navArgument("a") { type = NavType.IntType })
 
 private const val NAV_MS = 260
 
@@ -55,8 +76,35 @@ fun MushafApp() {
         composable(Routes.MUSHAF) {
             MushafScreen(
                 onOpenIndex = { navController.navigate(Routes.INDEX) },
-                onOpenSettings = { navController.navigate(Routes.SETTINGS) }
+                onOpenSettings = { navController.navigate(Routes.SETTINGS) },
+                onOpenMeaning = { k -> navController.navigate(Routes.meaning(k)) },
+                onOpenTafsir = { k -> navController.navigate(Routes.tafsir(k)) }
             )
+        }
+        composable(Routes.MEANING, arguments = keyArgs) { entry ->
+            val reader: Reader = koinInject()
+            val quran: Quran = koinInject()
+            val scope = rememberCoroutineScope()
+            Readable {
+                MeaningScreen(
+                    start = entry.key(),
+                    onBack = { navController.popBackStack() },
+                    onOpenTranslations = { navController.navigate(Routes.TRANSLATIONS) },
+                    onOpenTafsir = { k -> navController.navigate(Routes.tafsir(k)) },
+                    onOpenInMushaf = { k ->
+                        scope.launch {
+                            reader.go(quran.pageOf(k), k)
+                            navController.popBackStack(Routes.MUSHAF, inclusive = false)
+                        }
+                    }
+                )
+            }
+        }
+        composable(Routes.TAFSIR, arguments = keyArgs) { entry ->
+            ReadableScroll { TafsirScreen(entry.key(), onBack = { navController.popBackStack() }) }
+        }
+        composable(Routes.TRANSLATIONS) {
+            Readable { TranslationsScreen(onBack = { navController.popBackStack() }) }
         }
         composable(Routes.INDEX) {
             Readable { IndexScreen(onBack = { navController.popBackStack() }) }
@@ -65,7 +113,8 @@ fun MushafApp() {
             ReadableScroll {
                 SettingsScreen(
                     onBack = { navController.popBackStack() },
-                    onOpenAbout = { navController.navigate(Routes.ABOUT) }
+                    onOpenAbout = { navController.navigate(Routes.ABOUT) },
+                    onOpenTranslations = { navController.navigate(Routes.TRANSLATIONS) }
                 )
             }
         }

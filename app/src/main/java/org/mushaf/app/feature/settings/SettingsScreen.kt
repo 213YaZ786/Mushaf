@@ -43,7 +43,7 @@ import org.mushaf.app.ui.theme.textScaleLabel
 private enum class OpenDialog { NONE, SCRIPT, THEME, TEXT_SIZE, UPDATES }
 
 @Composable
-fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit) {
+fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslations: () -> Unit) {
     val store: SettingsStore = koinInject()
     val fonts: PageFonts = koinInject()
     val settings by store.settings.collectAsState()
@@ -83,6 +83,20 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit) {
                     summary = "While a page is shown.",
                     checked = settings.keepScreenOn,
                     onChange = { on -> store.update { it.copy(keepScreenOn = on) } }
+                )
+            }
+
+            Section("Meaning") {
+                SettingRow(
+                    title = "Translations",
+                    summary = settings.translations.size.let { if (it == 1) "1 shown" else "$it shown" } + " · more than 600 in about 100 languages",
+                    onClick = onOpenTranslations
+                )
+                SwitchRow(
+                    title = "Word by word",
+                    summary = "Each word with its own meaning, when reading with the meaning.",
+                    checked = settings.wordByWord,
+                    onChange = { on -> store.update { it.copy(wordByWord = on) } }
                 )
             }
 

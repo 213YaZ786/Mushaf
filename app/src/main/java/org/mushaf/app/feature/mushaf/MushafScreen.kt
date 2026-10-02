@@ -78,7 +78,12 @@ import org.mushaf.app.ui.icon.AppIcons
  */
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-fun MushafScreen(onOpenIndex: () -> Unit, onOpenSettings: () -> Unit) {
+fun MushafScreen(
+    onOpenIndex: () -> Unit,
+    onOpenSettings: () -> Unit,
+    onOpenMeaning: (AyahKey) -> Unit,
+    onOpenTafsir: (AyahKey) -> Unit
+) {
     val quran: Quran = koinInject()
     val fonts: PageFonts = koinInject()
     val reader: Reader = koinInject()
@@ -164,7 +169,12 @@ fun MushafScreen(onOpenIndex: () -> Unit, onOpenSettings: () -> Unit) {
                 ) {
                     val juz = meta?.juz?.lastOrNull { it.page <= current }?.n
                     val quarter = meta?.quarters?.lastOrNull { it.page <= current }?.n
-                    PagePill(current, if (spread) current + 1 else null, juz, quarter)
+                    Row(horizontalArrangement = Arrangement.spacedBy(12.dp), verticalAlignment = Alignment.CenterVertically) {
+                        FloatingAction(AppIcons.Translate, "Read with meaning", {
+                            scope.launch { onOpenMeaning(quran.firstAyah(current)) }
+                        })
+                        PagePill(current, if (spread) current + 1 else null, juz, quarter)
+                    }
                 }
                 AnimatedVisibility(
                     visible = opened != null,
@@ -174,7 +184,14 @@ fun MushafScreen(onOpenIndex: () -> Unit, onOpenSettings: () -> Unit) {
                 ) {
                     var last by remember { mutableStateOf(opened) }
                     opened?.let { last = it }
-                    last?.let { word -> AyahSheet(word, hafs, onClose = { opened = null }) }
+                    last?.let { word ->
+                        AyahSheet(
+                            word, hafs,
+                            onClose = { opened = null },
+                            onOpenMeaning = { k -> opened = null; onOpenMeaning(k) },
+                            onOpenTafsir = { k -> opened = null; onOpenTafsir(k) }
+                        )
+                    }
                 }
             }
         ) { _ ->

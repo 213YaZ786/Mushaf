@@ -34,7 +34,13 @@ data class Settings(
     /** Two pages side by side when the window is wide enough, as an open book. */
     val twoPages: Boolean = true,
     /** The screen stays on while a page is shown. */
-    val keepScreenOn: Boolean = true
+    val keepScreenOn: Boolean = true,
+    /** The translations shown with the meaning, in order; Saheeh International comes with the app. */
+    val translations: List<String> = listOf("qc:20"),
+    /** Each word with its own meaning, under it, when reading with the meaning. */
+    val wordByWord: Boolean = true,
+    /** The book of tafsir opened last. */
+    val tafsir: Int = 169
 )
 
 /**

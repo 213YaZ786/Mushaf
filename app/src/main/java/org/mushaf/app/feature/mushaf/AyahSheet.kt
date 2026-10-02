@@ -34,6 +34,17 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.FlowRow
+import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.TextButton
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
+import org.mushaf.app.core.quran.AyahKey
+import org.mushaf.app.data.marks.Marks
+import org.mushaf.app.ui.component.ZoneAlertDialog
 import org.mushaf.app.core.quran.Word
 import org.mushaf.app.data.quran.Quran
 import org.mushaf.app.ui.component.FloatingAction
@@ -46,8 +57,15 @@ import org.mushaf.app.ui.icon.AppIcons
  * meaning and how it sounds, then its ayah's meaning, and what can be done
  * with the ayah.
  */
+@OptIn(ExperimentalLayoutApi::class)
 @Composable
-fun AyahSheet(word: Word, hafs: FontFamily, onClose: () -> Unit) {
+fun AyahSheet(
+    word: Word,
+    hafs: FontFamily,
+    onClose: () -> Unit,
+    onOpenMeaning: (AyahKey) -> Unit,
+    onOpenTafsir: (AyahKey) -> Unit
+) {
     val quran: Quran = koinInject()
     val context = LocalContext.current
     val clipboard = LocalClipboard.current
@@ -59,6 +77,11 @@ fun AyahSheet(word: Word, hafs: FontFamily, onClose: () -> Unit) {
         value = quran.page(quran.pageOf(word.key)).words.filter { it.key == word.key && !it.end }.joinToString(" ") { it.text }
     }
     val reference = "${surah ?: ""} ${word.key}".trim()
+    val marks: Marks = koinInject()
+    val saved by marks.marks.collectAsState()
+    val bookmarked = saved.bookmarks.any { it.key == word.key }
+    val note = saved.notes.firstOrNull { it.key == word.key }?.text
+    var writing by remember { mutableStateOf(false) }
 
     Box(
         Modifier
@@ -95,8 +118,19 @@ fun AyahSheet(word: Word, hafs: FontFamily, onClose: () -> Unit) {
                 Text(reference, style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary)
                 Spacer(Modifier.size(4.dp))
                 Text(meaning, style = MaterialTheme.typography.bodyLarge)
+                if (note != null) {
+                    Spacer(Modifier.size(8.dp))
+                    Text("Note · $note", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
+                }
                 Spacer(Modifier.size(16.dp))
-                Row(horizontalArrangement = Arrangement.spacedBy(12.dp), verticalAlignment = Alignment.CenterVertically) {
+                // The actions wrap onto a second line on a narrow screen.
+                FlowRow(horizontalArrangement = Arrangement.spacedBy(12.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
+                    FloatingAction(if (bookmarked) AppIcons.Bookmark else AppIcons.BookmarkOutline, if (bookmarked) "Remove bookmark" else "Bookmark", {
+                        haptics.toggle(marks.toggleBookmark(word.key))
+                    })
+                    FloatingAction(AppIcons.Translate, "Read with meaning", { onOpenMeaning(word.key) })
+                    FloatingAction(AppIcons.MenuBook, "Tafsir", { onOpenTafsir(word.key) })
+                    FloatingAction(AppIcons.Info, "Note", { writing = true })
                     FloatingAction(AppIcons.Copy, "Copy", {
                         haptics.done()
                         scope.launch {
@@ -108,9 +142,12 @@ fun AyahSheet(word: Word, hafs: FontFamily, onClose: () -> Unit) {
                             .putExtra(Intent.EXTRA_TEXT, "$arabic\n\n$meaning\n\n($reference)")
                         context.startActivity(Intent.createChooser(send, null))
                     })
-                    Spacer(Modifier.weight(1f))
                     FloatingAction(AppIcons.Close, "Close", onClose)
                 }
+                if (writing) NoteDialog(reference, note.orEmpty(), onDone = { text ->
+                    marks.setNote(word.key, text)
+                    writing = false
+                }, onCancel = { writing = false })
                 Text(
                     "Saheeh International",
                     style = MaterialTheme.typography.labelSmall,
@@ -121,4 +158,23 @@ fun AyahSheet(word: Word, hafs: FontFamily, onClose: () -> Unit) {
             }
         }
     }
+}
+
+@Composable
+private fun NoteDialog(reference: String, initial: String, onDone: (String) -> Unit, onCancel: () -> Unit) {
+    var text by remember { mutableStateOf(initial) }
+    ZoneAlertDialog(
+        onDismissRequest = onCancel,
+        title = { Text("Note on $reference") },
+        text = {
+            OutlinedTextField(
+                value = text,
+                onValueChange = { text = it },
+                minLines = 3,
+                modifier = Modifier.fillMaxWidth()
+            )
+        },
+        confirmButton = { TextButton(onClick = { onDone(text) }) { Text(if (text.isBlank() && initial.isNotBlank()) "Remove" else "Save") } },
+        dismissButton = { TextButton(onClick = onCancel) { Text("Cancel") } }
+    )
 }
