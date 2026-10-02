@@ -27,6 +27,7 @@ import org.mushaf.app.core.audio.SurahAudio
 import org.mushaf.app.core.audio.Timing
 import org.mushaf.app.core.quran.AyahKey
 import org.mushaf.app.data.audio.Recitations
+import org.mushaf.app.core.net.Net
 import org.mushaf.app.data.quran.Quran
 import org.mushaf.app.data.settings.SettingsStore
 
@@ -136,6 +137,11 @@ class Listen(
         val reciter = reciterFor ?: settings.current.reciter
         if (audio?.surah == surah && audio?.reciter == reciter) return
         val a = recitations.surah(reciter, surah)
+        // The recording's place comes from the API: played only from a known server, encrypted.
+        val uri = Uri.parse(a.url)
+        if (recitations.local(reciter, surah) == null && (uri.scheme != "https" || !Net.allowed(uri.host.orEmpty().lowercase()))) {
+            error("recording not on a known server")
+        }
         val s = quran.surah(surah)
         val item = MediaItem.Builder()
             .setUri(recitations.local(reciter, surah)?.let { Uri.fromFile(it) } ?: Uri.parse(a.url))

@@ -33,6 +33,7 @@ import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.key
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.produceState
 import androidx.compose.runtime.remember
@@ -73,6 +74,9 @@ import org.mushaf.app.feature.listen.Listen
 import org.mushaf.app.feature.hifz.HifzPane
 import org.mushaf.app.feature.hifz.HifzSession
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.layout.FlowRow
 import org.mushaf.app.data.audio.Recitations
 import org.mushaf.app.data.offline.Pack
@@ -134,11 +138,15 @@ fun MushafScreen(
     SystemBars(visible = chrome || opened != null)
 
     BoxWithConstraints(Modifier.fillMaxSize()) {
-        val spread = settings.twoPages && maxWidth > maxHeight && maxWidth >= 700.dp
+        // Two pages need a tablet's height too; a phone on its side shows one
+        // page across its width, scrolled down like a page held close.
+        val spread = settings.twoPages && maxWidth > maxHeight && maxWidth >= 700.dp && maxHeight >= 500.dp
+        val scrolled = !spread && maxWidth > maxHeight && maxHeight < 500.dp
+        val pageHeight = maxWidth * 1.45f
         val perItem = if (spread) 2 else 1
         val count = if (spread) PAGES / 2 else PAGES
-        val startPage = reader.page.value
-        val pager = rememberPagerState(initialPage = (startPage - 1) / perItem) { count }
+        // A new pager when one page becomes two or back: its saved place counts in spreads or in pages.
+        val pager = key(perItem) { rememberPagerState(initialPage = (reader.page.value - 1) / perItem) { count } }
         val current = pager.currentPage * perItem + 1
 
         // The page shown is remembered; the fonts of the pages around it are fetched ahead.
@@ -293,7 +301,12 @@ fun MushafScreen(
                             // Right to left: the odd page on the right, as in a printed mushaf.
                             val numbers = if (spread) listOf(item * 2 + 2, item * 2 + 1) else listOf(item + 1)
                             for (n in numbers) {
-                                Box(Modifier.weight(1f).fillMaxSize()) {
+                                Box(
+                                    Modifier
+                                        .weight(1f)
+                                        .fillMaxSize()
+                                        .then(if (scrolled) Modifier.verticalScroll(rememberScrollState()) else Modifier)
+                                ) {
                                     val page by produceState<MushafPage?>(null, n) { value = quran.page(n) }
                                     val shown = page
                                     if (shown != null) {
@@ -320,6 +333,7 @@ fun MushafScreen(
                                             onTap = {
                                                 if (opened != null) opened = null else chrome = !chrome
                                             },
+                                            modifier = if (scrolled) Modifier.height(pageHeight) else Modifier,
                                             onLongPress = { w ->
                                                 haptics.firm()
                                                 if (session != null && w.key in session!!.keys) hifz.slip(w) else opened = w

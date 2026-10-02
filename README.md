@@ -1,0 +1,54 @@
+# Mushaf
+
+The Quran as printed in Madinah, with its meaning, its recitation and help
+to learn it by heart. No account, no tracking, no ads.
+
+- The Madinah mushaf page by page, in the King Fahd Complex's own fonts,
+  or with the tajweed in colour; two pages side by side on a tablet.
+- Hold a word for its meaning, the ayah's translation and tafsir, a
+  bookmark, a note, or the recitation from there.
+- Read with the meaning: word by word, more than 500 translations in about
+  100 languages, ten books of tafsir in English and Arabic.
+- Listen to 13 reciters: the word recited lights up and the page turns
+  with the voice; an ayah or a passage repeated as often as you like.
+- Hifz: a new lesson each day and the revision of what you know, spaced
+  so that no page is forgotten; similar ayat pointed out; recite to the
+  phone and each word shows as you say it.
+- Play: Juz 'Amma for children, five games and three stars a surah.
+- Everything can be kept on the phone to read and listen offline.
+
+## Install
+
+Download the APK from [Releases](https://github.com/213YaZ786/Mushaf/releases)
+and install it. Android 12 or newer.
+
+## Privacy
+
+What you read, bookmark, learn and recite stays on your phone. Reciting to
+the phone is heard on the phone itself and never recorded nor sent. The
+app connects only to fetch what you use (page fonts, translations, tafsir,
+recitations, the speech model), to check its list of sources once a week
+and, unless you turn it off, to check for a new version on GitHub.
+
+## Text and sources
+
+Every ayah of the app is checked letter by letter against the Tanzil
+Project's text before each release, and every page font against its
+fingerprint when it is downloaded.
+
+- Quran text and page fonts: King Fahd Glorious Quran Printing Complex,
+  through [Quran.com](https://quran.com).
+- Text checked against [Tanzil](https://tanzil.net) (CC BY 3.0).
+- Translations: [Quran.com](https://quran.com) and
+  [fawazahmed0/quran-api](https://github.com/fawazahmed0/quran-api)
+  (QuranEnc, Tanzil and others).
+- Tafsir, surah introductions and recitations with their timing:
+  [Quran.com](https://quran.com) and [quranicaudio.com](https://quranicaudio.com).
+- Similar ayat: [Quran Revision Companion](https://github.com/Waqar144/quran_memorization_helper)
+  (MIT).
+- Speech recognition: [Tarteel](https://huggingface.co/tarteel-ai/whisper-base-ar-quran)'s
+  Quran model (Apache-2.0), run by [whisper.cpp](https://github.com/ggml-org/whisper.cpp) (MIT).
+
+## Licence
+
+MIT. Icons from Google's Material Icons, Apache License 2.0.

@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- What the reader made is kept by Android's backup: settings, bookmarks
+     and notes, hifz and stars. What can be fetched again (pages' fonts,
+     recitations, tafsir, translations, the speech model) is left out. -->
 <full-backup-content>
-    <include domain="sharedpref" path="." />
+    <include domain="file" path="settings.json" />
+    <include domain="file" path="marks.json" />
+    <include domain="file" path="hifz.json" />
+    <include domain="file" path="stars.json" />
 </full-backup-content>

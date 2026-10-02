@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- The app's one connection, the update check on GitHub: encrypted only,
-     trusting Android's own certificate authorities (never one a user or an
-     app added), and checked against the public Certificate Transparency
-     logs (Android 16 and later), so a wrongly issued certificate is
-     refused. Older versions skip the element they do not know. -->
+<!-- Every connection (pages' fonts, meanings, tafsir, recitations, the
+     speech model, the update check) is encrypted, trusts Android's own
+     certificate authorities only (never one a user or an app added), and is
+     checked against the public Certificate Transparency logs (Android 16 and
+     later), so a wrongly issued certificate is refused. Older versions skip
+     the element they do not know. Which servers may be reached is decided
+     in the code, see core/net/Net.kt. -->
 <network-security-config xmlns:tools="http://schemas.android.com/tools">
     <base-config cleartextTrafficPermitted="false">
         <trust-anchors>
