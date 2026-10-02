@@ -14,8 +14,8 @@ android {
         applicationId = "org.mushaf.app"
         minSdk = 31
         targetSdk = 37
-        versionCode = 2
-        versionName = "0.1.1"
+        versionCode = 3
+        versionName = "0.2.0"
         // The speech recogniser's engine (whisper.cpp), for the phones of today and the emulator.
         ndk { abiFilters += listOf("arm64-v8a", "armeabi-v7a", "x86_64") }
         externalNativeBuild {
