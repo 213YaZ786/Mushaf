@@ -1,0 +1,154 @@
+1	31:12:1	w	وَلَقَدۡ	ﱁ	ولقد	And verily	walaqad
+1	31:12:2	w	ءَاتَيۡنَا	ﱂ	اتينا	We gave	ātaynā
+1	31:12:3	w	لُقۡمَٰنَ	ﱃ	لقمان	Luqman	luq'māna
+1	31:12:4	w	ٱلۡحِكۡمَةَ	ﱄ	الحكمة	the wisdom	l-ḥik'mata
+1	31:12:5	w	أَنِ	ﱅ	ان	that	ani
+1	31:12:6	w	ٱشۡكُرۡ	ﱆ	اشكر	Be grateful	ush'kur
+1	31:12:7	w	لِلَّهِۚ	ﱇﱈ	لله	to Allah	lillahi
+1	31:12:8	w	وَمَن	ﱉ	ومن	And whoever	waman
+1	31:12:9	w	يَشۡكُرۡ	ﱊ	يشكر	(is) grateful	yashkur
+1	31:12:10	w	فَإِنَّمَا	ﱋ	فانما	then only	fa-innamā
+2	31:12:11	w	يَشۡكُرُ	ﱌ	يشكر	he is grateful	yashkuru
+2	31:12:12	w	لِنَفۡسِهِۦۖ	ﱍﱎ	لنفسه	for himself	linafsihi
+2	31:12:13	w	وَمَن	ﱏ	ومن	And whoever	waman
+2	31:12:14	w	كَفَرَ	ﱐ	كفر	(is) ungrateful	kafara
+2	31:12:15	w	فَإِنَّ	ﱑ	فان	then indeed	fa-inna
+2	31:12:16	w	ٱللَّهَ	ﱒ	الله	Allah	l-laha
+2	31:12:17	w	غَنِيٌّ	ﱓ	غني	(is) Free of need	ghaniyyun
+2	31:12:18	w	حَمِيدٞ	ﱔ	حميد	Praiseworthy	ḥamīdun
+2	31:12:19	e	١٢	ﱕ			
+2	31:13:1	w	وَإِذۡ	ﱖ	واذ	And when	wa-idh
+2	31:13:2	w	قَالَ	ﱗ	قال	said	qāla
+3	31:13:3	w	لُقۡمَٰنُ	ﱘ	لقمان	Luqman	luq'mānu
+3	31:13:4	w	لِٱبۡنِهِۦ	ﱙ	لابنه	to his son	li-ib'nihi
+3	31:13:5	w	وَهُوَ	ﱚ	وهو	while he	wahuwa
+3	31:13:6	w	يَعِظُهُۥ	ﱛ	يعظه	(was) instructing him	yaʿiẓuhu
+3	31:13:7	w	يَٰبُنَيَّ	ﱜ	يا بني	O my son	yābunayya
+3	31:13:8	w	لَا	ﱝ	لا	(Do) not	lā
+3	31:13:9	w	تُشۡرِكۡ	ﱞ	تشرك	associate partners	tush'rik
+3	31:13:10	w	بِٱللَّهِۖ	ﱟﱠ	بالله	with Allah	bil-lahi
+3	31:13:11	w	إِنَّ	ﱡ	ان	Indeed	inna
+3	31:13:12	w	ٱلشِّرۡكَ	ﱢ	الشرك	associating partners	l-shir'ka
+4	31:13:13	w	لَظُلۡمٌ	ﱣ	لظلم	(is) surely an injustice	laẓul'mun
+4	31:13:14	w	عَظِيمٞ	ﱤ	عظيم	great	ʿaẓīmun
+4	31:13:15	e	١٣	ﱥ			
+4	31:14:1	w	وَوَصَّيۡنَا	ﱦ	ووصينا	And We have enjoined	wawaṣṣaynā
+4	31:14:2	w	ٱلۡإِنسَٰنَ	ﱧ	الانسان	(upon) man	l-insāna
+4	31:14:3	w	بِوَٰلِدَيۡهِ	ﱨ	بوالديه	for his parents	biwālidayhi
+4	31:14:4	w	حَمَلَتۡهُ	ﱩ	حملته	carried him	ḥamalathu
+4	31:14:5	w	أُمُّهُۥ	ﱪ	امه	his mother	ummuhu
+5	31:14:6	w	وَهۡنًا	ﱫ	وهنا	(in) weakness	wahnan
+5	31:14:7	w	عَلَىٰ	ﱬ	على	upon	ʿalā
+5	31:14:8	w	وَهۡنٖ	ﱭ	وهن	weakness	wahnin
+5	31:14:9	w	وَفِصَٰلُهُۥ	ﱮ	وفصاله	and his weaning	wafiṣāluhu
+5	31:14:10	w	فِي	ﱯ	في	(is) in	fī
+5	31:14:11	w	عَامَيۡنِ	ﱰ	عامين	two years	ʿāmayni
+5	31:14:12	w	أَنِ	ﱱ	ان	that	ani
+5	31:14:13	w	ٱشۡكُرۡ	ﱲ	اشكر	Be grateful	ush'kur
+5	31:14:14	w	لِي	ﱳ	لي	to Me	lī
+5	31:14:15	w	وَلِوَٰلِدَيۡكَ	ﱴ	ولوالديك	and to your parents	waliwālidayka
+6	31:14:16	w	إِلَيَّ	ﱵ	الي	towards Me	ilayya
+6	31:14:17	w	ٱلۡمَصِيرُ	ﱶ	المصير	(is) the destination	l-maṣīru
+6	31:14:18	e	١٤	ﱷ			
+6	31:15:1	w	وَإِن	ﱸ	وان	But if	wa-in
+6	31:15:2	w	جَٰهَدَاكَ	ﱹ	جاهداك	they strive against you	jāhadāka
+6	31:15:3	w	عَلَىٰٓ	ﱺ	على	on	ʿalā
+6	31:15:4	w	أَن	ﱻ	ان	that	an
+6	31:15:5	w	تُشۡرِكَ	ﱼ	تشرك	you associate partners	tush'rika
+6	31:15:6	w	بِي	ﱽ	بي	with Me	bī
+6	31:15:7	w	مَا	ﱾ	ما	what	mā
+6	31:15:8	w	لَيۡسَ	ﱿ	ليس	not	laysa
+7	31:15:9	w	لَكَ	ﲀ	لك	you have	laka
+7	31:15:10	w	بِهِۦ	ﲁ	به	of it	bihi
+7	31:15:11	w	عِلۡمٞ	ﲂ	علم	any knowledge	ʿil'mun
+7	31:15:12	w	فَلَا	ﲃ	فلا	then (do) not	falā
+7	31:15:13	w	تُطِعۡهُمَاۖ	ﲄﲅ	تطعهما	obey both of them	tuṭiʿ'humā
+7	31:15:14	w	وَصَاحِبۡهُمَا	ﲆ	وصاحبهما	But accompany them	waṣāḥib'humā
+7	31:15:15	w	فِي	ﲇ	في	in	fī
+7	31:15:16	w	ٱلدُّنۡيَا	ﲈ	الدنيا	the world	l-dun'yā
+7	31:15:17	w	مَعۡرُوفٗاۖ	ﲉﲊ	معروفا	(with) kindness	maʿrūfan
+8	31:15:18	w	وَٱتَّبِعۡ	ﲋ	واتبع	and follow	wa-ittabiʿ
+8	31:15:19	w	سَبِيلَ	ﲌ	سبيل	(the) path	sabīla
+8	31:15:20	w	مَنۡ	ﲍ	من	(of him) who	man
+8	31:15:21	w	أَنَابَ	ﲎ	اناب	turns	anāba
+8	31:15:22	w	إِلَيَّۚ	ﲏﲐ	الي	to Me	ilayya
+8	31:15:23	w	ثُمَّ	ﲑ	ثم	Then	thumma
+8	31:15:24	w	إِلَيَّ	ﲒ	الي	towards Me	ilayya
+8	31:15:25	w	مَرۡجِعُكُمۡ	ﲓ	مرجعكم	(is) your return	marjiʿukum
+8	31:15:26	w	فَأُنَبِّئُكُم	ﲔ	فانبيكم	then I will inform you	fa-unabbi-ukum
+9	31:15:27	w	بِمَا	ﲕ	بما	of what	bimā
+9	31:15:28	w	كُنتُمۡ	ﲖ	كنتم	you used (to)	kuntum
+9	31:15:29	w	تَعۡمَلُونَ	ﲗ	تعملون	do	taʿmalūna
+9	31:15:30	e	١٥	ﲘ			
+9	31:16:1	w	يَٰبُنَيَّ	ﲙ	يا بني	O my son	yābunayya
+9	31:16:2	w	إِنَّهَآ	ﲚ	انها	Indeed it	innahā
+9	31:16:3	w	إِن	ﲛ	ان	if	in
+9	31:16:4	w	تَكُ	ﲜ	تك	it be	taku
+9	31:16:5	w	مِثۡقَالَ	ﲝ	مثقال	(the) weight	mith'qāla
+9	31:16:6	w	حَبَّةٖ	ﲞ	حبة	(of) a grain	ḥabbatin
+9	31:16:7	w	مِّنۡ	ﲟ	من	of	min
+10	31:16:8	w	خَرۡدَلٖ	ﲠ	خردل	a mustard seed	khardalin
+10	31:16:9	w	فَتَكُن	ﲡ	فتكن	and it be	fatakun
+10	31:16:10	w	فِي	ﲢ	في	in	fī
+10	31:16:11	w	صَخۡرَةٍ	ﲣ	صخرة	a rock	ṣakhratin
+10	31:16:12	w	أَوۡ	ﲤ	او	or	aw
+10	31:16:13	w	فِي	ﲥ	في	in	fī
+10	31:16:14	w	ٱلسَّمَٰوَٰتِ	ﲦ	السماوات	the heavens	l-samāwāti
+10	31:16:15	w	أَوۡ	ﲧ	او	or	aw
+10	31:16:16	w	فِي	ﲨ	في	in	fī
+10	31:16:17	w	ٱلۡأَرۡضِ	ﲩ	الارض	the earth	l-arḍi
+10	31:16:18	w	يَأۡتِ	ﲪ	يات	Allah will bring it forth	yati
+11	31:16:19	w	بِهَا	ﲫ	بها	Allah will bring it forth	bihā
+11	31:16:20	w	ٱللَّهُۚ	ﲬﲭ	الله	Allah will bring it forth	l-lahu
+11	31:16:21	w	إِنَّ	ﲮ	ان	Indeed	inna
+11	31:16:22	w	ٱللَّهَ	ﲯ	الله	Allah	l-laha
+11	31:16:23	w	لَطِيفٌ	ﲰ	لطيف	(is) All-Subtle	laṭīfun
+11	31:16:24	w	خَبِيرٞ	ﲱ	خبير	All-Aware	khabīrun
+11	31:16:25	e	١٦	ﲲ			
+11	31:17:1	w	يَٰبُنَيَّ	ﲳ	يا بني	O my son	yābunayya
+11	31:17:2	w	أَقِمِ	ﲴ	اقم	Establish	aqimi
+11	31:17:3	w	ٱلصَّلَوٰةَ	ﲵ	الصلاة	the prayer	l-ṣalata
+11	31:17:4	w	وَأۡمُرۡ	ﲶ	وامر	and enjoin	wamur
+12	31:17:5	w	بِٱلۡمَعۡرُوفِ	ﲷ	بالمعروف	[with] the right	bil-maʿrūfi
+12	31:17:6	w	وَٱنۡهَ	ﲸ	وانه	and forbid	wa-in'ha
+12	31:17:7	w	عَنِ	ﲹ	عن	from	ʿani
+12	31:17:8	w	ٱلۡمُنكَرِ	ﲺ	المنكر	the wrong	l-munkari
+12	31:17:9	w	وَٱصۡبِرۡ	ﲻ	واصبر	and be patient	wa-iṣ'bir
+12	31:17:10	w	عَلَىٰ	ﲼ	على	over	ʿalā
+12	31:17:11	w	مَآ	ﲽ	ما	what	mā
+12	31:17:12	w	أَصَابَكَۖ	ﲾﲿ	اصابك	befalls you	aṣābaka
+12	31:17:13	w	إِنَّ	ﳀ	ان	Indeed	inna
+12	31:17:14	w	ذَٰلِكَ	ﳁ	ذالك	that	dhālika
+13	31:17:15	w	مِنۡ	ﳂ	من	(is) of	min
+13	31:17:16	w	عَزۡمِ	ﳃ	عزم	the matters requiring determination	ʿazmi
+13	31:17:17	w	ٱلۡأُمُورِ	ﳄ	الامور	the matters requiring determination	l-umūri
+13	31:17:18	e	١٧	ﳅ			
+13	31:18:1	w	وَلَا	ﳆ	ولا	And (do) not	walā
+13	31:18:2	w	تُصَعِّرۡ	ﳇ	تصعر	turn	tuṣaʿʿir
+13	31:18:3	w	خَدَّكَ	ﳈ	خدك	your cheek	khaddaka
+13	31:18:4	w	لِلنَّاسِ	ﳉ	للناس	from men	lilnnāsi
+13	31:18:5	w	وَلَا	ﳊ	ولا	and (do) not	walā
+13	31:18:6	w	تَمۡشِ	ﳋ	تمش	walk	tamshi
+13	31:18:7	w	فِي	ﳌ	في	in	fī
+13	31:18:8	w	ٱلۡأَرۡضِ	ﳍ	الارض	the earth	l-arḍi
+14	31:18:9	w	مَرَحًاۖ	ﳎﳏ	مرحا	exultantly	maraḥan
+14	31:18:10	w	إِنَّ	ﳐ	ان	Indeed	inna
+14	31:18:11	w	ٱللَّهَ	ﳑ	الله	Allah	l-laha
+14	31:18:12	w	لَا	ﳒ	لا	(does) not	lā
+14	31:18:13	w	يُحِبُّ	ﳓ	يحب	like	yuḥibbu
+14	31:18:14	w	كُلَّ	ﳔ	كل	every	kulla
+14	31:18:15	w	مُخۡتَالٖ	ﳕ	مختال	self-conceited	mukh'tālin
+14	31:18:16	w	فَخُورٖ	ﳖ	فخور	boaster	fakhūrin
+14	31:18:17	e	١٨	ﳗ			
+14	31:19:1	w	وَٱقۡصِدۡ	ﳘ	واقصد	And be moderate	wa-iq'ṣid
+14	31:19:2	w	فِي	ﳙ	في	in	fī
+14	31:19:3	w	مَشۡيِكَ	ﳚ	مشيك	your pace	mashyika
+15	31:19:4	w	وَٱغۡضُضۡ	ﳛ	واغضض	and lower	wa-ugh'ḍuḍ
+15	31:19:5	w	مِن	ﳜ	من	[of]	min
+15	31:19:6	w	صَوۡتِكَۚ	ﳝﳞ	صوتك	your voice	ṣawtika
+15	31:19:7	w	إِنَّ	ﳟ	ان	Indeed	inna
+15	31:19:8	w	أَنكَرَ	ﳠ	انكر	(the) harshest	ankara
+15	31:19:9	w	ٱلۡأَصۡوَٰتِ	ﳡ	الاصوات	(of all) sounds	l-aṣwāti
+15	31:19:10	w	لَصَوۡتُ	ﳢ	لصوت	(is) surely (the) voice	laṣawtu
+15	31:19:11	w	ٱلۡحَمِيرِ	ﳣ	الحمير	(of) the donkeys	l-ḥamīri
+15	31:19:12	e	١٩	ﳤ			

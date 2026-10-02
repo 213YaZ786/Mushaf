@@ -1,0 +1,132 @@
+3	66:1:1	w	يَٰٓأَيُّهَا	ﱁ	يا ايها	O	yāayyuhā
+3	66:1:2	w	ٱلنَّبِيُّ	ﱂ	النبي	Prophet	l-nabiyu
+3	66:1:3	w	لِمَ	ﱃ	لم	Why (do)	lima
+3	66:1:4	w	تُحَرِّمُ	ﱄ	تحرم	you prohibit	tuḥarrimu
+3	66:1:5	w	مَآ	ﱅ	ما	what	mā
+3	66:1:6	w	أَحَلَّ	ﱆ	احل	has made lawful	aḥalla
+3	66:1:7	w	ٱللَّهُ	ﱇ	الله	Allah	l-lahu
+3	66:1:8	w	لَكَۖ	ﱈﱉ	لك	for you	laka
+3	66:1:9	w	تَبۡتَغِي	ﱊ	تبتغي	seeking	tabtaghī
+3	66:1:10	w	مَرۡضَاتَ	ﱋ	مرضات	(to) please	marḍāta
+3	66:1:11	w	أَزۡوَٰجِكَۚ	ﱌﱍ	ازواجك	your wives	azwājika
+3	66:1:12	w	وَٱللَّهُ	ﱎ	والله	And Allah	wal-lahu
+4	66:1:13	w	غَفُورٞ	ﱏ	غفور	(is) Oft-Forgiving	ghafūrun
+4	66:1:14	w	رَّحِيمٞ	ﱐ	رحيم	Most Merciful	raḥīmun
+4	66:1:15	e	١	ﱑ			
+4	66:2:1	w	قَدۡ	ﱒ	قد	Indeed	qad
+4	66:2:2	w	فَرَضَ	ﱓ	فرض	has ordained	faraḍa
+4	66:2:3	w	ٱللَّهُ	ﱔ	الله	Allah	l-lahu
+4	66:2:4	w	لَكُمۡ	ﱕ	لكم	for you	lakum
+4	66:2:5	w	تَحِلَّةَ	ﱖ	تحلة	(the) dissolution	taḥillata
+4	66:2:6	w	أَيۡمَٰنِكُمۡۚ	ﱗﱘ	ايمانكم	(of) your oaths	aymānikum
+4	66:2:7	w	وَٱللَّهُ	ﱙ	والله	And Allah	wal-lahu
+4	66:2:8	w	مَوۡلَىٰكُمۡۖ	ﱚﱛ	مولاكم	(is) your Protector	mawlākum
+4	66:2:9	w	وَهُوَ	ﱜ	وهو	and He	wahuwa
+5	66:2:10	w	ٱلۡعَلِيمُ	ﱝ	العليم	(is) the All-Knower	l-ʿalīmu
+5	66:2:11	w	ٱلۡحَكِيمُ	ﱞ	الحكيم	the All-Wise	l-ḥakīmu
+5	66:2:12	e	٢	ﱟ			
+5	66:3:1	w	وَإِذۡ	ﱠ	واذ	And when	wa-idh
+5	66:3:2	w	أَسَرَّ	ﱡ	اسر	confided	asarra
+5	66:3:3	w	ٱلنَّبِيُّ	ﱢ	النبي	the Prophet	l-nabiyu
+5	66:3:4	w	إِلَىٰ	ﱣ	الى	to	ilā
+5	66:3:5	w	بَعۡضِ	ﱤ	بعض	one	baʿḍi
+5	66:3:6	w	أَزۡوَٰجِهِۦ	ﱥ	ازواجه	(of) his wives	azwājihi
+5	66:3:7	w	حَدِيثٗا	ﱦ	حديثا	a statement	ḥadīthan
+5	66:3:8	w	فَلَمَّا	ﱧ	فلما	and when	falammā
+6	66:3:9	w	نَبَّأَتۡ	ﱨ	نبات	she informed	nabba-at
+6	66:3:10	w	بِهِۦ	ﱩ	به	about it	bihi
+6	66:3:11	w	وَأَظۡهَرَهُ	ﱪ	واظهره	and made it apparent	wa-aẓharahu
+6	66:3:12	w	ٱللَّهُ	ﱫ	الله	Allah	l-lahu
+6	66:3:13	w	عَلَيۡهِ	ﱬ	عليه	to him	ʿalayhi
+6	66:3:14	w	عَرَّفَ	ﱭ	عرف	he made known	ʿarrafa
+6	66:3:15	w	بَعۡضَهُۥ	ﱮ	بعضه	a part of it	baʿḍahu
+6	66:3:16	w	وَأَعۡرَضَ	ﱯ	واعرض	and avoided	wa-aʿraḍa
+6	66:3:17	w	عَنۢ	ﱰ	عن	[of]	ʿan
+6	66:3:18	w	بَعۡضٖۖ	ﱱﱲ	بعض	a part	baʿḍin
+6	66:3:19	w	فَلَمَّا	ﱳ	فلما	Then when	falammā
+7	66:3:20	w	نَبَّأَهَا	ﱴ	نباها	he informed her	nabba-ahā
+7	66:3:21	w	بِهِۦ	ﱵ	به	about it	bihi
+7	66:3:22	w	قَالَتۡ	ﱶ	قالت	she said	qālat
+7	66:3:23	w	مَنۡ	ﱷ	من	Who	man
+7	66:3:24	w	أَنۢبَأَكَ	ﱸ	انباك	informed you	anba-aka
+7	66:3:25	w	هَٰذَاۖ	ﱹﱺ	هاذا	this	hādhā
+7	66:3:26	w	قَالَ	ﱻ	قال	He said	qāla
+7	66:3:27	w	نَبَّأَنِيَ	ﱼ	نباني	Has informed me	nabba-aniya
+7	66:3:28	w	ٱلۡعَلِيمُ	ﱽ	العليم	the All-Knower	l-ʿalīmu
+7	66:3:29	w	ٱلۡخَبِيرُ	ﱾ	الخبير	the All-Aware	l-khabīru
+7	66:3:30	e	٣	ﱿ			
+7	66:4:1	w	إِن	ﲀ	ان	If	in
+8	66:4:2	w	تَتُوبَآ	ﲁ	تتوبا	you both turn	tatūbā
+8	66:4:3	w	إِلَى	ﲂ	الى	to	ilā
+8	66:4:4	w	ٱللَّهِ	ﲃ	الله	Allah	l-lahi
+8	66:4:5	w	فَقَدۡ	ﲄ	فقد	so indeed	faqad
+8	66:4:6	w	صَغَتۡ	ﲅ	صغت	(are) inclined	ṣaghat
+8	66:4:7	w	قُلُوبُكُمَاۖ	ﲆﲇ	قلوبكما	your hearts	qulūbukumā
+8	66:4:8	w	وَإِن	ﲈ	وان	but if	wa-in
+8	66:4:9	w	تَظَٰهَرَا	ﲉ	تظاهرا	you backup each other	taẓāharā
+8	66:4:10	w	عَلَيۡهِ	ﲊ	عليه	against him	ʿalayhi
+8	66:4:11	w	فَإِنَّ	ﲋ	فان	then indeed	fa-inna
+8	66:4:12	w	ٱللَّهَ	ﲌ	الله	Allah	l-laha
+9	66:4:13	w	هُوَ	ﲍ	هو	He	huwa
+9	66:4:14	w	مَوۡلَىٰهُ	ﲎ	مولاه	(is) his Protector	mawlāhu
+9	66:4:15	w	وَجِبۡرِيلُ	ﲏ	وجبريل	and Jibreel	wajib'rīlu
+9	66:4:16	w	وَصَٰلِحُ	ﲐ	وصالح	and (the) righteous	waṣāliḥu
+9	66:4:17	w	ٱلۡمُؤۡمِنِينَۖ	ﲑﲒ	المومنين	believers	l-mu'minīna
+9	66:4:18	w	وَٱلۡمَلَٰٓئِكَةُ	ﲓ	والملايكة	and the Angels	wal-malāikatu
+9	66:4:19	w	بَعۡدَ	ﲔ	بعد	after	baʿda
+9	66:4:20	w	ذَٰلِكَ	ﲕ	ذالك	that	dhālika
+10	66:4:21	w	ظَهِيرٌ	ﲖ	ظهير	(are his) assistants	ẓahīrun
+10	66:4:22	e	٤	ﲗ			
+10	66:5:1	w	عَسَىٰ	ﲘ	عسى	Perhaps	ʿasā
+10	66:5:2	w	رَبُّهُۥٓ	ﲙ	ربه	his Lord	rabbuhu
+10	66:5:3	w	إِن	ﲚ	ان	if	in
+10	66:5:4	w	طَلَّقَكُنَّ	ﲛ	طلقكن	he divorced you	ṭallaqakunna
+10	66:5:5	w	أَن	ﲜ	ان	[that]	an
+10	66:5:6	w	يُبۡدِلَهُۥٓ	ﲝ	يبدله	He will substitute for him	yub'dilahu
+10	66:5:7	w	أَزۡوَٰجًا	ﲞ	ازواجا	wives	azwājan
+10	66:5:8	w	خَيۡرٗا	ﲟ	خيرا	better	khayran
+10	66:5:9	w	مِّنكُنَّ	ﲠ	منكن	than you	minkunna
+11	66:5:10	w	مُسۡلِمَٰتٖ	ﲡ	مسلمات	submissive	mus'limātin
+11	66:5:11	w	مُّؤۡمِنَٰتٖ	ﲢ	مومنات	faithful	mu'minātin
+11	66:5:12	w	قَٰنِتَٰتٖ	ﲣ	قانتات	obedient	qānitātin
+11	66:5:13	w	تَٰٓئِبَٰتٍ	ﲤ	تايبات	repentant	tāibātin
+11	66:5:14	w	عَٰبِدَٰتٖ	ﲥ	عابدات	who worship	ʿābidātin
+11	66:5:15	w	سَٰٓئِحَٰتٖ	ﲦ	سايحات	who fast	sāiḥātin
+11	66:5:16	w	ثَيِّبَٰتٖ	ﲧ	ثيبات	previously married	thayyibātin
+12	66:5:17	w	وَأَبۡكَارٗا	ﲨ	وابكارا	and virgins	wa-abkāran
+12	66:5:18	e	٥	ﲩ			
+12	66:6:1	w	يَٰٓأَيُّهَا	ﲪ	يا ايها	O	yāayyuhā
+12	66:6:2	w	ٱلَّذِينَ	ﲫ	الذين	(you) who	alladhīna
+12	66:6:3	w	ءَامَنُواْ	ﲬ	امنوا	believe	āmanū
+12	66:6:4	w	قُوٓاْ	ﲭ	قوا	Protect	qū
+12	66:6:5	w	أَنفُسَكُمۡ	ﲮ	انفسكم	yourselves	anfusakum
+12	66:6:6	w	وَأَهۡلِيكُمۡ	ﲯ	واهليكم	and your families	wa-ahlīkum
+12	66:6:7	w	نَارٗا	ﲰ	نارا	(from) a Fire	nāran
+13	66:6:8	w	وَقُودُهَا	ﲱ	وقودها	whose fuel	waqūduhā
+13	66:6:9	w	ٱلنَّاسُ	ﲲ	الناس	(is) people	l-nāsu
+13	66:6:10	w	وَٱلۡحِجَارَةُ	ﲳ	والحجارة	and stones	wal-ḥijāratu
+13	66:6:11	w	عَلَيۡهَا	ﲴ	عليها	over it	ʿalayhā
+13	66:6:12	w	مَلَٰٓئِكَةٌ	ﲵ	ملايكة	(are) Angels	malāikatun
+13	66:6:13	w	غِلَاظٞ	ﲶ	غلاظ	stern	ghilāẓun
+13	66:6:14	w	شِدَادٞ	ﲷ	شداد	severe	shidādun
+14	66:6:15	w	لَّا	ﲸ	لا	not	lā
+14	66:6:16	w	يَعۡصُونَ	ﲹ	يعصون	they disobey	yaʿṣūna
+14	66:6:17	w	ٱللَّهَ	ﲺ	الله	Allah	l-laha
+14	66:6:18	w	مَآ	ﲻ	ما	(in) what	mā
+14	66:6:19	w	أَمَرَهُمۡ	ﲼ	امرهم	He Commands them	amarahum
+14	66:6:20	w	وَيَفۡعَلُونَ	ﲽ	ويفعلون	but they do	wayafʿalūna
+14	66:6:21	w	مَا	ﲾ	ما	what	mā
+14	66:6:22	w	يُؤۡمَرُونَ	ﲿ	يومرون	they are commanded	yu'marūna
+14	66:6:23	e	٦	ﳀ			
+14	66:7:1	w	يَٰٓأَيُّهَا	ﳁ	يا ايها	O	yāayyuhā
+14	66:7:2	w	ٱلَّذِينَ	ﳂ	الذين	(you) who	alladhīna
+15	66:7:3	w	كَفَرُواْ	ﳃ	كفروا	disbelieve	kafarū
+15	66:7:4	w	لَا	ﳄ	لا	(Do) not	lā
+15	66:7:5	w	تَعۡتَذِرُواْ	ﳅ	تعتذروا	make excuses	taʿtadhirū
+15	66:7:6	w	ٱلۡيَوۡمَۖ	ﳆﳇ	اليوم	today	l-yawma
+15	66:7:7	w	إِنَّمَا	ﳈ	انما	Only	innamā
+15	66:7:8	w	تُجۡزَوۡنَ	ﳉ	تجزون	you will be recompensed	tuj'zawna
+15	66:7:9	w	مَا	ﳊ	ما	(for) what	mā
+15	66:7:10	w	كُنتُمۡ	ﳋ	كنتم	you used to	kuntum
+15	66:7:11	w	تَعۡمَلُونَ	ﳌ	تعملون	do	taʿmalūna
+15	66:7:12	e	٧	ﳍ			

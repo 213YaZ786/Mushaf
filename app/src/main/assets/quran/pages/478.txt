@@ -1,0 +1,143 @@
+1	41:12:1	w	فَقَضَىٰهُنَّ	ﱁ	فقضاهن	Then He completed them	faqaḍāhunna
+1	41:12:2	w	سَبۡعَ	ﱂ	سبع	(as) seven	sabʿa
+1	41:12:3	w	سَمَٰوَاتٖ	ﱃ	سماوات	heavens	samāwātin
+1	41:12:4	w	فِي	ﱄ	في	in	fī
+1	41:12:5	w	يَوۡمَيۡنِ	ﱅ	يومين	two periods	yawmayni
+1	41:12:6	w	وَأَوۡحَىٰ	ﱆ	واوحى	and He revealed	wa-awḥā
+1	41:12:7	w	فِي	ﱇ	في	in	fī
+1	41:12:8	w	كُلِّ	ﱈ	كل	each	kulli
+1	41:12:9	w	سَمَآءٍ	ﱉ	سماء	heaven	samāin
+1	41:12:10	w	أَمۡرَهَاۚ	ﱊﱋ	امرها	its affair	amrahā
+2	41:12:11	w	وَزَيَّنَّا	ﱌ	وزينا	And We adorned	wazayyannā
+2	41:12:12	w	ٱلسَّمَآءَ	ﱍ	السماء	the heaven	l-samāa
+2	41:12:13	w	ٱلدُّنۡيَا	ﱎ	الدنيا	[the world]	l-dun'yā
+2	41:12:14	w	بِمَصَٰبِيحَ	ﱏ	بمصابيح	with lamps	bimaṣābīḥa
+2	41:12:15	w	وَحِفۡظٗاۚ	ﱐﱑ	وحفظا	and (to) guard	waḥif'ẓan
+2	41:12:16	w	ذَٰلِكَ	ﱒ	ذالك	That	dhālika
+2	41:12:17	w	تَقۡدِيرُ	ﱓ	تقدير	(is the) Decree	taqdīru
+2	41:12:18	w	ٱلۡعَزِيزِ	ﱔ	العزيز	(of) the All-Mighty	l-ʿazīzi
+3	41:12:19	w	ٱلۡعَلِيمِ	ﱕ	العليم	the All-Knower	l-ʿalīmi
+3	41:12:20	e	١٢	ﱖ			
+3	41:13:1	w	فَإِنۡ	ﱗ	فان	But if	fa-in
+3	41:13:2	w	أَعۡرَضُواْ	ﱘ	اعرضوا	they turn away	aʿraḍū
+3	41:13:3	w	فَقُلۡ	ﱙ	فقل	then say	faqul
+3	41:13:4	w	أَنذَرۡتُكُمۡ	ﱚ	انذرتكم	I have warned you	andhartukum
+3	41:13:5	w	صَٰعِقَةٗ	ﱛ	صاعقة	(of) a thunderbolt	ṣāʿiqatan
+3	41:13:6	w	مِّثۡلَ	ﱜ	مثل	like	mith'la
+3	41:13:7	w	صَٰعِقَةِ	ﱝ	صاعقة	(the) thunderbolt	ṣāʿiqati
+4	41:13:8	w	عَادٖ	ﱞ	عاد	(of) Aad	ʿādin
+4	41:13:9	w	وَثَمُودَ	ﱟ	وثمود	and Thamud	wathamūda
+4	41:13:10	e	١٣	ﱠ			
+4	41:14:1	w	إِذۡ	ﱡ	اذ	When	idh
+4	41:14:2	w	جَآءَتۡهُمُ	ﱢ	جاءتهم	came to them	jāathumu
+4	41:14:3	w	ٱلرُّسُلُ	ﱣ	الرسل	the Messengers	l-rusulu
+4	41:14:4	w	مِنۢ	ﱤ	من	from before them	min
+4	41:14:5	w	بَيۡنِ	ﱥ	بين	from before them	bayni
+4	41:14:6	w	أَيۡدِيهِمۡ	ﱦ	ايديهم	from before them	aydīhim
+4	41:14:7	w	وَمِنۡ	ﱧ	ومن	and from	wamin
+5	41:14:8	w	خَلۡفِهِمۡ	ﱨ	خلفهم	behind them	khalfihim
+5	41:14:9	w	أَلَّا	ﱩ	الا	(saying) "Do not	allā
+5	41:14:10	w	تَعۡبُدُوٓاْ	ﱪ	تعبدوا	worship	taʿbudū
+5	41:14:11	w	إِلَّا	ﱫ	الا	except	illā
+5	41:14:12	w	ٱللَّهَۖ	ﱬﱭ	الله	Allah	l-laha
+5	41:14:13	w	قَالُواْ	ﱮ	قالوا	They said	qālū
+5	41:14:14	w	لَوۡ	ﱯ	لو	If	law
+5	41:14:15	w	شَآءَ	ﱰ	شاء	(had) willed	shāa
+5	41:14:16	w	رَبُّنَا	ﱱ	ربنا	our Lord	rabbunā
+5	41:14:17	w	لَأَنزَلَ	ﱲ	لانزل	surely, He (would have) sent down	la-anzala
+5	41:14:18	w	مَلَٰٓئِكَةٗ	ﱳ	ملايكة	Angels	malāikatan
+6	41:14:19	w	فَإِنَّا	ﱴ	فانا	So indeed, we	fa-innā
+6	41:14:20	w	بِمَآ	ﱵ	بما	in what	bimā
+6	41:14:21	w	أُرۡسِلۡتُم	ﱶ	ارسلتم	you have been sent	ur'sil'tum
+6	41:14:22	w	بِهِۦ	ﱷ	به	with	bihi
+6	41:14:23	w	كَٰفِرُونَ	ﱸ	كافرون	(are) disbelievers	kāfirūna
+6	41:14:24	e	١٤	ﱹ			
+6	41:15:1	w	فَأَمَّا	ﱺ	فاما	Then as for	fa-ammā
+6	41:15:2	w	عَادٞ	ﱻ	عاد	Aad	ʿādun
+6	41:15:3	w	فَٱسۡتَكۡبَرُواْ	ﱼ	فاستكبروا	they were arrogant	fa-is'takbarū
+6	41:15:4	w	فِي	ﱽ	في	in	fī
+7	41:15:5	w	ٱلۡأَرۡضِ	ﱾ	الارض	the land	l-arḍi
+7	41:15:6	w	بِغَيۡرِ	ﱿ	بغير	without	bighayri
+7	41:15:7	w	ٱلۡحَقِّ	ﲀ	الحق	[the] right	l-ḥaqi
+7	41:15:8	w	وَقَالُواْ	ﲁ	وقالوا	and they said	waqālū
+7	41:15:9	w	مَنۡ	ﲂ	من	Who	man
+7	41:15:10	w	أَشَدُّ	ﲃ	اشد	(is) mightier	ashaddu
+7	41:15:11	w	مِنَّا	ﲄ	منا	than us	minnā
+7	41:15:12	w	قُوَّةًۖ	ﲅﲆ	قوة	(in) strength	quwwatan
+7	41:15:13	w	أَوَلَمۡ	ﲇ	اولم	Do not	awalam
+7	41:15:14	w	يَرَوۡاْ	ﲈ	يروا	they see	yaraw
+7	41:15:15	w	أَنَّ	ﲉ	ان	that	anna
+7	41:15:16	w	ٱللَّهَ	ﲊ	الله	Allah	l-laha
+8	41:15:17	w	ٱلَّذِي	ﲋ	الذي	the One Who	alladhī
+8	41:15:18	w	خَلَقَهُمۡ	ﲌ	خلقهم	created them	khalaqahum
+8	41:15:19	w	هُوَ	ﲍ	هو	He	huwa
+8	41:15:20	w	أَشَدُّ	ﲎ	اشد	(is) Mightier	ashaddu
+8	41:15:21	w	مِنۡهُمۡ	ﲏ	منهم	than them	min'hum
+8	41:15:22	w	قُوَّةٗۖ	ﲐﲑ	قوة	(in) strength	quwwatan
+8	41:15:23	w	وَكَانُواْ	ﲒ	وكانوا	But they used to	wakānū
+8	41:15:24	w	بِـَٔايَٰتِنَا	ﲓ	باياتنا	in Our Signs	biāyātinā
+8	41:15:25	w	يَجۡحَدُونَ	ﲔ	يجحدون	deny	yajḥadūna
+9	41:15:26	e	١٥	ﲕ			
+9	41:16:1	w	فَأَرۡسَلۡنَا	ﲖ	فارسلنا	So We sent	fa-arsalnā
+9	41:16:2	w	عَلَيۡهِمۡ	ﲗ	عليهم	upon them	ʿalayhim
+9	41:16:3	w	رِيحٗا	ﲘ	ريحا	a wind	rīḥan
+9	41:16:4	w	صَرۡصَرٗا	ﲙ	صرصرا	furious	ṣarṣaran
+9	41:16:5	w	فِيٓ	ﲚ	في	in	fī
+9	41:16:6	w	أَيَّامٖ	ﲛ	ايام	(the) days	ayyāmin
+9	41:16:7	w	نَّحِسَاتٖ	ﲜ	نحسات	(of) misfortune	naḥisātin
+9	41:16:8	w	لِّنُذِيقَهُمۡ	ﲝ	لنذيقهم	that We may make them taste	linudhīqahum
+10	41:16:9	w	عَذَابَ	ﲞ	عذاب	(the) punishment	ʿadhāba
+10	41:16:10	w	ٱلۡخِزۡيِ	ﲟ	الخزي	(of) disgrace	l-khiz'yi
+10	41:16:11	w	فِي	ﲠ	في	in	fī
+10	41:16:12	w	ٱلۡحَيَوٰةِ	ﲡ	الحياة	the life	l-ḥayati
+10	41:16:13	w	ٱلدُّنۡيَاۖ	ﲢﲣ	الدنيا	(of) the world	l-dun'yā
+10	41:16:14	w	وَلَعَذَابُ	ﲤ	ولعذاب	And surely, (the) punishment	walaʿadhābu
+10	41:16:15	w	ٱلۡأٓخِرَةِ	ﲥ	الاخرة	(of) the Hereafter	l-ākhirati
+10	41:16:16	w	أَخۡزَىٰۖ	ﲦﲧ	اخزى	(is) more disgracing	akhzā
+10	41:16:17	w	وَهُمۡ	ﲨ	وهم	and they	wahum
+11	41:16:18	w	لَا	ﲩ	لا	will not be helped	lā
+11	41:16:19	w	يُنصَرُونَ	ﲪ	ينصرون	will not be helped	yunṣarūna
+11	41:16:20	e	١٦	ﲫ			
+11	41:17:1	w	وَأَمَّا	ﲬ	واما	And as for	wa-ammā
+11	41:17:2	w	ثَمُودُ	ﲭ	ثمود	Thamud	thamūdu
+11	41:17:3	w	فَهَدَيۡنَٰهُمۡ	ﲮ	فهديناهم	We guided them	fahadaynāhum
+11	41:17:4	w	فَٱسۡتَحَبُّواْ	ﲯ	فاستحبوا	but they preferred	fa-is'taḥabbū
+11	41:17:5	w	ٱلۡعَمَىٰ	ﲰ	العمى	[the] blindness	l-ʿamā
+11	41:17:6	w	عَلَى	ﲱ	على	over	ʿalā
+12	41:17:7	w	ٱلۡهُدَىٰ	ﲲ	الهدى	the guidance	l-hudā
+12	41:17:8	w	فَأَخَذَتۡهُمۡ	ﲳ	فاخذتهم	so seized them	fa-akhadhathum
+12	41:17:9	w	صَٰعِقَةُ	ﲴ	صاعقة	a thunderbolt	ṣāʿiqatu
+12	41:17:10	w	ٱلۡعَذَابِ	ﲵ	العذاب	(of) the punishment	l-ʿadhābi
+12	41:17:11	w	ٱلۡهُونِ	ﲶ	الهون	humiliating	l-hūni
+12	41:17:12	w	بِمَا	ﲷ	بما	for what	bimā
+12	41:17:13	w	كَانُواْ	ﲸ	كانوا	they used to	kānū
+12	41:17:14	w	يَكۡسِبُونَ	ﲹ	يكسبون	earn	yaksibūna
+13	41:17:15	e	١٧	ﲺ			
+13	41:18:1	w	وَنَجَّيۡنَا	ﲻ	ونجينا	And We saved	wanajjaynā
+13	41:18:2	w	ٱلَّذِينَ	ﲼ	الذين	those who	alladhīna
+13	41:18:3	w	ءَامَنُواْ	ﲽ	امنوا	believed	āmanū
+13	41:18:4	w	وَكَانُواْ	ﲾ	وكانوا	and used to	wakānū
+13	41:18:5	w	يَتَّقُونَ	ﲿ	يتقون	fear (Allah)	yattaqūna
+13	41:18:6	e	١٨	ﳀ			
+13	41:19:1	w	وَيَوۡمَ	ﳁ	ويوم	And (the) Day	wayawma
+13	41:19:2	w	يُحۡشَرُ	ﳂ	يحشر	will be gathered	yuḥ'sharu
+13	41:19:3	w	أَعۡدَآءُ	ﳃ	اعداء	(the) enemies	aʿdāu
+13	41:19:4	w	ٱللَّهِ	ﳄ	الله	(of) Allah	l-lahi
+14	41:19:5	w	إِلَى	ﳅ	الى	to	ilā
+14	41:19:6	w	ٱلنَّارِ	ﳆ	النار	the Fire	l-nāri
+14	41:19:7	w	فَهُمۡ	ﳇ	فهم	then they	fahum
+14	41:19:8	w	يُوزَعُونَ	ﳈ	يوزعون	will be assembled in rows	yūzaʿūna
+14	41:19:9	e	١٩	ﳉ			
+14	41:20:1	w	حَتَّىٰٓ	ﳊ	حتى	Until	ḥattā
+14	41:20:2	w	إِذَا	ﳋ	اذا	when	idhā
+14	41:20:3	w	مَا	ﳌ	ما	when	mā
+14	41:20:4	w	جَآءُوهَا	ﳍ	جاءوها	they come to it	jāūhā
+14	41:20:5	w	شَهِدَ	ﳎ	شهد	(will) testify	shahida
+14	41:20:6	w	عَلَيۡهِمۡ	ﳏ	عليهم	against them	ʿalayhim
+15	41:20:7	w	سَمۡعُهُمۡ	ﳐ	سمعهم	their hearing	samʿuhum
+15	41:20:8	w	وَأَبۡصَٰرُهُمۡ	ﳑ	وابصارهم	and their sight	wa-abṣāruhum
+15	41:20:9	w	وَجُلُودُهُم	ﳒ	وجلودهم	and their skins	wajulūduhum
+15	41:20:10	w	بِمَا	ﳓ	بما	(as) to what	bimā
+15	41:20:11	w	كَانُواْ	ﳔ	كانوا	they used to	kānū
+15	41:20:12	w	يَعۡمَلُونَ	ﳕ	يعملون	do	yaʿmalūna
+15	41:20:13	e	٢٠	ﳖ			

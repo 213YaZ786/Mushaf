@@ -1,0 +1,137 @@
+1	59:10:1	w	وَٱلَّذِينَ	ﱁ	والذين	And those who	wa-alladhīna
+1	59:10:2	w	جَآءُو	ﱂ	جاءوا	came	jāū
+1	59:10:3	w	مِنۢ	ﱃ	من	from	min
+1	59:10:4	w	بَعۡدِهِمۡ	ﱄ	بعدهم	after them	baʿdihim
+1	59:10:5	w	يَقُولُونَ	ﱅ	يقولون	they say	yaqūlūna
+1	59:10:6	w	رَبَّنَا	ﱆ	ربنا	Our Lord	rabbanā
+1	59:10:7	w	ٱغۡفِرۡ	ﱇ	اغفر	forgive	igh'fir
+1	59:10:8	w	لَنَا	ﱈ	لنا	us	lanā
+1	59:10:9	w	وَلِإِخۡوَٰنِنَا	ﱉ	ولاخواننا	and our brothers	wali-ikh'wāninā
+2	59:10:10	w	ٱلَّذِينَ	ﱊ	الذين	who	alladhīna
+2	59:10:11	w	سَبَقُونَا	ﱋ	سبقونا	preceded us	sabaqūnā
+2	59:10:12	w	بِٱلۡإِيمَٰنِ	ﱌ	بالايمان	in faith	bil-īmāni
+2	59:10:13	w	وَلَا	ﱍ	ولا	and (do) not	walā
+2	59:10:14	w	تَجۡعَلۡ	ﱎ	تجعل	put	tajʿal
+2	59:10:15	w	فِي	ﱏ	في	in	fī
+2	59:10:16	w	قُلُوبِنَا	ﱐ	قلوبنا	our hearts	qulūbinā
+2	59:10:17	w	غِلّٗا	ﱑ	غلا	any rancor	ghillan
+2	59:10:18	w	لِّلَّذِينَ	ﱒ	للذين	towards those who	lilladhīna
+3	59:10:19	w	ءَامَنُواْ	ﱓ	امنوا	believed	āmanū
+3	59:10:20	w	رَبَّنَآ	ﱔ	ربنا	Our Lord	rabbanā
+3	59:10:21	w	إِنَّكَ	ﱕ	انك	indeed You	innaka
+3	59:10:22	w	رَءُوفٞ	ﱖ	رءوف	(are) Full of Kindness	raūfun
+3	59:10:23	w	رَّحِيمٌ	ﱗ	رحيم	Most Merciful	raḥīmun
+3	59:10:24	e	١٠	ﱘ			
+3	59:11:1	w	۞ أَلَمۡ	ﱙ ﱚ	۞ الم	Do not	alam
+3	59:11:2	w	تَرَ	ﱛ	تر	you see	tara
+3	59:11:3	w	إِلَى	ﱜ	الى	[to]	ilā
+3	59:11:4	w	ٱلَّذِينَ	ﱝ	الذين	those who	alladhīna
+4	59:11:5	w	نَافَقُواْ	ﱞ	نافقوا	(were) hypocrites	nāfaqū
+4	59:11:6	w	يَقُولُونَ	ﱟ	يقولون	saying	yaqūlūna
+4	59:11:7	w	لِإِخۡوَٰنِهِمُ	ﱠ	لاخوانهم	to their brothers	li-ikh'wānihimu
+4	59:11:8	w	ٱلَّذِينَ	ﱡ	الذين	those who	alladhīna
+4	59:11:9	w	كَفَرُواْ	ﱢ	كفروا	disbelieved	kafarū
+4	59:11:10	w	مِنۡ	ﱣ	من	among	min
+4	59:11:11	w	أَهۡلِ	ﱤ	اهل	the People	ahli
+4	59:11:12	w	ٱلۡكِتَٰبِ	ﱥ	الكتاب	(of) the Scripture	l-kitābi
+5	59:11:13	w	لَئِنۡ	ﱦ	لين	If	la-in
+5	59:11:14	w	أُخۡرِجۡتُمۡ	ﱧ	اخرجتم	you are expelled	ukh'rij'tum
+5	59:11:15	w	لَنَخۡرُجَنَّ	ﱨ	لنخرجن	surely we will leave	lanakhrujanna
+5	59:11:16	w	مَعَكُمۡ	ﱩ	معكم	with you	maʿakum
+5	59:11:17	w	وَلَا	ﱪ	ولا	and not	walā
+5	59:11:18	w	نُطِيعُ	ﱫ	نطيع	we will obey	nuṭīʿu
+5	59:11:19	w	فِيكُمۡ	ﱬ	فيكم	concerning you	fīkum
+5	59:11:20	w	أَحَدًا	ﱭ	احدا	anyone	aḥadan
+5	59:11:21	w	أَبَدٗا	ﱮ	ابدا	ever	abadan
+6	59:11:22	w	وَإِن	ﱯ	وان	and if	wa-in
+6	59:11:23	w	قُوتِلۡتُمۡ	ﱰ	قوتلتم	you are fought	qūtil'tum
+6	59:11:24	w	لَنَنصُرَنَّكُمۡ	ﱱ	لننصرنكم	certainly we will help you	lananṣurannakum
+6	59:11:25	w	وَٱللَّهُ	ﱲ	والله	And Allah	wal-lahu
+6	59:11:26	w	يَشۡهَدُ	ﱳ	يشهد	bears witness	yashhadu
+6	59:11:27	w	إِنَّهُمۡ	ﱴ	انهم	that they	innahum
+6	59:11:28	w	لَكَٰذِبُونَ	ﱵ	لكاذبون	(are) surely liars	lakādhibūna
+7	59:11:29	e	١١	ﱶ			
+7	59:12:1	w	لَئِنۡ	ﱷ	لين	If	la-in
+7	59:12:2	w	أُخۡرِجُواْ	ﱸ	اخرجوا	they are expelled	ukh'rijū
+7	59:12:3	w	لَا	ﱹ	لا	not	lā
+7	59:12:4	w	يَخۡرُجُونَ	ﱺ	يخرجون	they will leave	yakhrujūna
+7	59:12:5	w	مَعَهُمۡ	ﱻ	معهم	with them	maʿahum
+7	59:12:6	w	وَلَئِن	ﱼ	ولين	and if	wala-in
+7	59:12:7	w	قُوتِلُواْ	ﱽ	قوتلوا	they are fought	qūtilū
+7	59:12:8	w	لَا	ﱾ	لا	not	lā
+7	59:12:9	w	يَنصُرُونَهُمۡ	ﱿ	ينصرونهم	they will help them	yanṣurūnahum
+8	59:12:10	w	وَلَئِن	ﲀ	ولين	And if	wala-in
+8	59:12:11	w	نَّصَرُوهُمۡ	ﲁ	نصروهم	they help them	naṣarūhum
+8	59:12:12	w	لَيُوَلُّنَّ	ﲂ	ليولن	certainly they will turn	layuwallunna
+8	59:12:13	w	ٱلۡأَدۡبَٰرَ	ﲃ	الادبار	(their) backs	l-adbāra
+8	59:12:14	w	ثُمَّ	ﲄ	ثم	then	thumma
+8	59:12:15	w	لَا	ﲅ	لا	not	lā
+8	59:12:16	w	يُنصَرُونَ	ﲆ	ينصرون	they will be helped	yunṣarūna
+8	59:12:17	e	١٢	ﲇ			
+8	59:13:1	w	لَأَنتُمۡ	ﲈ	لانتم	Certainly you	la-antum
+9	59:13:2	w	أَشَدُّ	ﲉ	اشد	(are) more intense	ashaddu
+9	59:13:3	w	رَهۡبَةٗ	ﲊ	رهبة	(in) fear	rahbatan
+9	59:13:4	w	فِي	ﲋ	في	in	fī
+9	59:13:5	w	صُدُورِهِم	ﲌ	صدورهم	their breasts	ṣudūrihim
+9	59:13:6	w	مِّنَ	ﲍ	من	than	mina
+9	59:13:7	w	ٱللَّهِۚ	ﲎﲏ	الله	Allah	l-lahi
+9	59:13:8	w	ذَٰلِكَ	ﲐ	ذالك	That	dhālika
+9	59:13:9	w	بِأَنَّهُمۡ	ﲑ	بانهم	(is) because they	bi-annahum
+9	59:13:10	w	قَوۡمٞ	ﲒ	قوم	(are) a people	qawmun
+10	59:13:11	w	لَّا	ﲓ	لا	(who do) not	lā
+10	59:13:12	w	يَفۡقَهُونَ	ﲔ	يفقهون	understand	yafqahūna
+10	59:13:13	e	١٣	ﲕ			
+10	59:14:1	w	لَا	ﲖ	لا	Not	lā
+10	59:14:2	w	يُقَٰتِلُونَكُمۡ	ﲗ	يقاتلونكم	will they fight you	yuqātilūnakum
+10	59:14:3	w	جَمِيعًا	ﲘ	جميعا	all	jamīʿan
+10	59:14:4	w	إِلَّا	ﲙ	الا	except	illā
+10	59:14:5	w	فِي	ﲚ	في	in	fī
+10	59:14:6	w	قُرٗى	ﲛ	قرى	towns	quran
+10	59:14:7	w	مُّحَصَّنَةٍ	ﲜ	محصنة	fortified	muḥaṣṣanatin
+11	59:14:8	w	أَوۡ	ﲝ	او	or	aw
+11	59:14:9	w	مِن	ﲞ	من	from	min
+11	59:14:10	w	وَرَآءِ	ﲟ	وراء	behind	warāi
+11	59:14:11	w	جُدُرِۭۚ	ﲠﲡ	جدر	walls	judurin
+11	59:14:12	w	بَأۡسُهُم	ﲢ	باسهم	Their violence	basuhum
+11	59:14:13	w	بَيۡنَهُمۡ	ﲣ	بينهم	among themselves	baynahum
+11	59:14:14	w	شَدِيدٞۚ	ﲤﲥ	شديد	(is) severe	shadīdun
+11	59:14:15	w	تَحۡسَبُهُمۡ	ﲦ	تحسبهم	You think they	taḥsabuhum
+11	59:14:16	w	جَمِيعٗا	ﲧ	جميعا	(are) united	jamīʿan
+12	59:14:17	w	وَقُلُوبُهُمۡ	ﲨ	وقلوبهم	but their hearts	waqulūbuhum
+12	59:14:18	w	شَتَّىٰۚ	ﲩﲪ	شتى	(are) divided	shattā
+12	59:14:19	w	ذَٰلِكَ	ﲫ	ذالك	That	dhālika
+12	59:14:20	w	بِأَنَّهُمۡ	ﲬ	بانهم	(is) because they	bi-annahum
+12	59:14:21	w	قَوۡمٞ	ﲭ	قوم	(are) a people	qawmun
+12	59:14:22	w	لَّا	ﲮ	لا	not	lā
+12	59:14:23	w	يَعۡقِلُونَ	ﲯ	يعقلون	they reason	yaʿqilūna
+12	59:14:24	e	١٤	ﲰ			
+12	59:15:1	w	كَمَثَلِ	ﲱ	كمثل	Like (the) example	kamathali
+13	59:15:2	w	ٱلَّذِينَ	ﲲ	الذين	(of) those	alladhīna
+13	59:15:3	w	مِن	ﲳ	من	from	min
+13	59:15:4	w	قَبۡلِهِمۡ	ﲴ	قبلهم	before them	qablihim
+13	59:15:5	w	قَرِيبٗاۖ	ﲵﲶ	قريبا	shortly	qarīban
+13	59:15:6	w	ذَاقُواْ	ﲷ	ذاقوا	they tasted	dhāqū
+13	59:15:7	w	وَبَالَ	ﲸ	وبال	(the) evil result	wabāla
+13	59:15:8	w	أَمۡرِهِمۡ	ﲹ	امرهم	(of) their affair	amrihim
+13	59:15:9	w	وَلَهُمۡ	ﲺ	ولهم	and for them	walahum
+13	59:15:10	w	عَذَابٌ	ﲻ	عذاب	(is) a punishment	ʿadhābun
+14	59:15:11	w	أَلِيمٞ	ﲼ	اليم	painful	alīmun
+14	59:15:12	e	١٥	ﲽ			
+14	59:16:1	w	كَمَثَلِ	ﲾ	كمثل	Like (the) example	kamathali
+14	59:16:2	w	ٱلشَّيۡطَٰنِ	ﲿ	الشيطان	(of) the Shaitaan	l-shayṭāni
+14	59:16:3	w	إِذۡ	ﳀ	اذ	when	idh
+14	59:16:4	w	قَالَ	ﳁ	قال	he says	qāla
+14	59:16:5	w	لِلۡإِنسَٰنِ	ﳂ	للانسان	to man	lil'insāni
+14	59:16:6	w	ٱكۡفُرۡ	ﳃ	اكفر	Disbelieve	uk'fur
+14	59:16:7	w	فَلَمَّا	ﳄ	فلما	But when	falammā
+15	59:16:8	w	كَفَرَ	ﳅ	كفر	he disbelieves	kafara
+15	59:16:9	w	قَالَ	ﳆ	قال	he says	qāla
+15	59:16:10	w	إِنِّي	ﳇ	اني	Indeed, I am	innī
+15	59:16:11	w	بَرِيٓءٞ	ﳈ	بريء	disassociated	barīon
+15	59:16:12	w	مِّنكَ	ﳉ	منك	from you	minka
+15	59:16:13	w	إِنِّيٓ	ﳊ	اني	Indeed, [I]	innī
+15	59:16:14	w	أَخَافُ	ﳋ	اخاف	I fear	akhāfu
+15	59:16:15	w	ٱللَّهَ	ﳌ	الله	Allah	l-laha
+15	59:16:16	w	رَبَّ	ﳍ	رب	(the) Lord	rabba
+15	59:16:17	w	ٱلۡعَٰلَمِينَ	ﳎ	العالمين	(of) the worlds	l-ʿālamīna
+15	59:16:18	e	١٦	ﳏ			

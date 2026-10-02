@@ -1,0 +1,66 @@
+3	106:1:1	w	لِإِيلَٰفِ	ﱁ	لايلاف	For (the) familiarity	liīlāfi
+3	106:1:2	w	قُرَيۡشٍ	ﱂ	قريش	(of the) Quraish	qurayshin
+3	106:1:3	e	١	ﱃ			
+3	106:2:1	w	إِۦلَٰفِهِمۡ	ﱄ	ايلافهم	Their familiarity	īlāfihim
+3	106:2:2	w	رِحۡلَةَ	ﱅ	رحلة	(with the) journey	riḥ'lata
+3	106:2:3	w	ٱلشِّتَآءِ	ﱆ	الشتاء	(of) winter	l-shitāi
+3	106:2:4	w	وَٱلصَّيۡفِ	ﱇ	والصيف	and summer	wal-ṣayfi
+4	106:2:5	e	٢	ﱈ			
+4	106:3:1	w	فَلۡيَعۡبُدُواْ	ﱉ	فليعبدوا	So let them worship	falyaʿbudū
+4	106:3:2	w	رَبَّ	ﱊ	رب	(the) Lord	rabba
+4	106:3:3	w	هَٰذَا	ﱋ	هاذا	(of) this	hādhā
+4	106:3:4	w	ٱلۡبَيۡتِ	ﱌ	البيت	House	l-bayti
+4	106:3:5	e	٣	ﱍ			
+4	106:4:1	w	ٱلَّذِيٓ	ﱎ	الذي	The One Who	alladhī
+4	106:4:2	w	أَطۡعَمَهُم	ﱏ	اطعمهم	feeds them	aṭʿamahum
+5	106:4:3	w	مِّن	ﱐ	من	[from]	min
+5	106:4:4	w	جُوعٖ	ﱑ	جوع	(against) hunger	jūʿin
+5	106:4:5	w	وَءَامَنَهُم	ﱒ	وامنهم	and gives them security	waāmanahum
+5	106:4:6	w	مِّنۡ	ﱓ	من	from	min
+5	106:4:7	w	خَوۡفِۭ	ﱔ	خوف	fear	khawfin
+5	106:4:8	e	٤	ﱕ			
+8	107:1:1	w	أَرَءَيۡتَ	ﱖ	ارايت	Have you seen	ara-ayta
+8	107:1:2	w	ٱلَّذِي	ﱗ	الذي	the one who	alladhī
+8	107:1:3	w	يُكَذِّبُ	ﱘ	يكذب	denies	yukadhibu
+8	107:1:4	w	بِٱلدِّينِ	ﱙ	بالدين	the Judgment	bil-dīni
+8	107:1:5	e	١	ﱚ			
+8	107:2:1	w	فَذَٰلِكَ	ﱛ	فذالك	Then that	fadhālika
+8	107:2:2	w	ٱلَّذِي	ﱜ	الذي	(is) the one who	alladhī
+8	107:2:3	w	يَدُعُّ	ﱝ	يدع	repulses	yaduʿʿu
+9	107:2:4	w	ٱلۡيَتِيمَ	ﱞ	اليتيم	the orphan	l-yatīma
+9	107:2:5	e	٢	ﱟ			
+9	107:3:1	w	وَلَا	ﱠ	ولا	And (does) not	walā
+9	107:3:2	w	يَحُضُّ	ﱡ	يحض	feel the urge	yaḥuḍḍu
+9	107:3:3	w	عَلَىٰ	ﱢ	على	to	ʿalā
+9	107:3:4	w	طَعَامِ	ﱣ	طعام	feed	ṭaʿāmi
+9	107:3:5	w	ٱلۡمِسۡكِينِ	ﱤ	المسكين	the poor	l-mis'kīni
+9	107:3:6	e	٣	ﱥ			
+9	107:4:1	w	فَوَيۡلٞ	ﱦ	فويل	So woe	fawaylun
+10	107:4:2	w	لِّلۡمُصَلِّينَ	ﱧ	للمصلين	to those who pray	lil'muṣallīna
+10	107:4:3	e	٤	ﱨ			
+10	107:5:1	w	ٱلَّذِينَ	ﱩ	الذين	Those who	alladhīna
+10	107:5:2	w	هُمۡ	ﱪ	هم	[they]	hum
+10	107:5:3	w	عَن	ﱫ	عن	about	ʿan
+10	107:5:4	w	صَلَاتِهِمۡ	ﱬ	صلاتهم	their prayers	ṣalātihim
+10	107:5:5	w	سَاهُونَ	ﱭ	ساهون	(are) neglectful	sāhūna
+11	107:5:6	e	٥	ﱮ			
+11	107:6:1	w	ٱلَّذِينَ	ﱯ	الذين	Those who	alladhīna
+11	107:6:2	w	هُمۡ	ﱰ	هم	[they]	hum
+11	107:6:3	w	يُرَآءُونَ	ﱱ	يراءون	make show	yurāūna
+11	107:6:4	e	٦	ﱲ			
+11	107:7:1	w	وَيَمۡنَعُونَ	ﱳ	ويمنعون	And they deny	wayamnaʿūna
+11	107:7:2	w	ٱلۡمَاعُونَ	ﱴ	الماعون	[the] small kindnesses	l-māʿūna
+11	107:7:3	e	٧	ﱵ			
+14	108:1:1	w	إِنَّآ	ﱶ	انا	Indeed, We	innā
+14	108:1:2	w	أَعۡطَيۡنَٰكَ	ﱷ	اعطيناك	We have given you	aʿṭaynāka
+14	108:1:3	w	ٱلۡكَوۡثَرَ	ﱸ	الكوثر	Al-Kauthar	l-kawthara
+14	108:1:4	e	١	ﱹ			
+14	108:2:1	w	فَصَلِّ	ﱺ	فصل	So pray	faṣalli
+14	108:2:2	w	لِرَبِّكَ	ﱻ	لربك	to your Lord	lirabbika
+14	108:2:3	w	وَٱنۡحَرۡ	ﱼ	وانحر	and sacrifice	wa-in'ḥar
+14	108:2:4	e	٢	ﱽ			
+15	108:3:1	w	إِنَّ	ﱾ	ان	Indeed	inna
+15	108:3:2	w	شَانِئَكَ	ﱿ	شانيك	your enemy	shāni-aka
+15	108:3:3	w	هُوَ	ﲀ	هو	he (is)	huwa
+15	108:3:4	w	ٱلۡأَبۡتَرُ	ﲁ	الابتر	the one cut off	l-abtaru
+15	108:3:5	e	٣	ﲂ			

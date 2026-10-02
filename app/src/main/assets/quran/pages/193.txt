@@ -1,0 +1,122 @@
+1	9:37:1	w	إِنَّمَا	ﱁ	انما	Indeed	innamā
+1	9:37:2	w	ٱلنَّسِيٓءُ	ﱂ	النسيء	the postponing	l-nasīu
+1	9:37:3	w	زِيَادَةٞ	ﱃ	زيادة	(is) an increase	ziyādatun
+1	9:37:4	w	فِي	ﱄ	في	in	fī
+1	9:37:5	w	ٱلۡكُفۡرِۖ	ﱅﱆ	الكفر	the disbelief	l-kuf'ri
+1	9:37:6	w	يُضَلُّ	ﱇ	يضل	are led astray	yuḍallu
+1	9:37:7	w	بِهِ	ﱈ	به	by it	bihi
+1	9:37:8	w	ٱلَّذِينَ	ﱉ	الذين	those who	alladhīna
+2	9:37:9	w	كَفَرُواْ	ﱊ	كفروا	disbelieve	kafarū
+2	9:37:10	w	يُحِلُّونَهُۥ	ﱋ	يحلونه	They make it lawful	yuḥillūnahu
+2	9:37:11	w	عَامٗا	ﱌ	عاما	one year	ʿāman
+2	9:37:12	w	وَيُحَرِّمُونَهُۥ	ﱍ	ويحرمونه	and make it unlawful	wayuḥarrimūnahu
+2	9:37:13	w	عَامٗا	ﱎ	عاما	(another) year	ʿāman
+2	9:37:14	w	لِّيُوَاطِـُٔواْ	ﱏ	ليواطيوا	to adjust	liyuwāṭiū
+3	9:37:15	w	عِدَّةَ	ﱐ	عدة	the number	ʿiddata
+3	9:37:16	w	مَا	ﱑ	ما	which	mā
+3	9:37:17	w	حَرَّمَ	ﱒ	حرم	Allah has made unlawful	ḥarrama
+3	9:37:18	w	ٱللَّهُ	ﱓ	الله	Allah has made unlawful	l-lahu
+3	9:37:19	w	فَيُحِلُّواْ	ﱔ	فيحلوا	and making lawful	fayuḥillū
+3	9:37:20	w	مَا	ﱕ	ما	what	mā
+3	9:37:21	w	حَرَّمَ	ﱖ	حرم	Allah has made unlawful	ḥarrama
+3	9:37:22	w	ٱللَّهُۚ	ﱗﱘ	الله	Allah has made unlawful	l-lahu
+3	9:37:23	w	زُيِّنَ	ﱙ	زين	Is made fair-seeming	zuyyina
+3	9:37:24	w	لَهُمۡ	ﱚ	لهم	to them	lahum
+4	9:37:25	w	سُوٓءُ	ﱛ	سوء	(the) evil	sūu
+4	9:37:26	w	أَعۡمَٰلِهِمۡۗ	ﱜﱝ	اعمالهم	(of) their deeds	aʿmālihim
+4	9:37:27	w	وَٱللَّهُ	ﱞ	والله	And Allah	wal-lahu
+4	9:37:28	w	لَا	ﱟ	لا	(does) not	lā
+4	9:37:29	w	يَهۡدِي	ﱠ	يهدي	guide	yahdī
+4	9:37:30	w	ٱلۡقَوۡمَ	ﱡ	القوم	the people	l-qawma
+4	9:37:31	w	ٱلۡكَٰفِرِينَ	ﱢ	الكافرين	the disbelievers	l-kāfirīna
+5	9:37:32	e	٣٧	ﱣ			
+5	9:38:1	w	يَٰٓأَيُّهَا	ﱤ	يا ايها	O you who believe	yāayyuhā
+5	9:38:2	w	ٱلَّذِينَ	ﱥ	الذين	O you who believe	alladhīna
+5	9:38:3	w	ءَامَنُواْ	ﱦ	امنوا	O you who believe	āmanū
+5	9:38:4	w	مَا	ﱧ	ما	What	mā
+5	9:38:5	w	لَكُمۡ	ﱨ	لكم	(is the matter) with you	lakum
+5	9:38:6	w	إِذَا	ﱩ	اذا	when	idhā
+5	9:38:7	w	قِيلَ	ﱪ	قيل	it is said	qīla
+5	9:38:8	w	لَكُمُ	ﱫ	لكم	to you	lakumu
+6	9:38:9	w	ٱنفِرُواْ	ﱬ	انفروا	go forth	infirū
+6	9:38:10	w	فِي	ﱭ	في	in	fī
+6	9:38:11	w	سَبِيلِ	ﱮ	سبيل	(the) way	sabīli
+6	9:38:12	w	ٱللَّهِ	ﱯ	الله	(of) Allah	l-lahi
+6	9:38:13	w	ٱثَّاقَلۡتُمۡ	ﱰ	اثاقلتم	you cling heavily	ithāqaltum
+6	9:38:14	w	إِلَى	ﱱ	الى	to	ilā
+6	9:38:15	w	ٱلۡأَرۡضِۚ	ﱲﱳ	الارض	the earth	l-arḍi
+6	9:38:16	w	أَرَضِيتُم	ﱴ	ارضيتم	Are you pleased	araḍītum
+7	9:38:17	w	بِٱلۡحَيَوٰةِ	ﱵ	بالحياة	with the life	bil-ḥayati
+7	9:38:18	w	ٱلدُّنۡيَا	ﱶ	الدنيا	(of) the world	l-dun'yā
+7	9:38:19	w	مِنَ	ﱷ	من	(rather) than	mina
+7	9:38:20	w	ٱلۡأٓخِرَةِۚ	ﱸﱹ	الاخرة	the Hereafter	l-ākhirati
+7	9:38:21	w	فَمَا	ﱺ	فما	But what	famā
+7	9:38:22	w	مَتَٰعُ	ﱻ	متاع	(is the) enjoyment	matāʿu
+7	9:38:23	w	ٱلۡحَيَوٰةِ	ﱼ	الحياة	(of) the life	l-ḥayati
+8	9:38:24	w	ٱلدُّنۡيَا	ﱽ	الدنيا	(of) the world	l-dun'yā
+8	9:38:25	w	فِي	ﱾ	في	in (comparison to)	fī
+8	9:38:26	w	ٱلۡأٓخِرَةِ	ﱿ	الاخرة	the hereafter	l-ākhirati
+8	9:38:27	w	إِلَّا	ﲀ	الا	except	illā
+8	9:38:28	w	قَلِيلٌ	ﲁ	قليل	a little	qalīlun
+8	9:38:29	e	٣٨	ﲂ			
+8	9:39:1	w	إِلَّا	ﲃ	الا	If not	illā
+8	9:39:2	w	تَنفِرُواْ	ﲄ	تنفروا	you go forth	tanfirū
+8	9:39:3	w	يُعَذِّبۡكُمۡ	ﲅ	يعذبكم	He will punish you	yuʿadhib'kum
+9	9:39:4	w	عَذَابًا	ﲆ	عذابا	(with) a painful punishment	ʿadhāban
+9	9:39:5	w	أَلِيمٗا	ﲇ	اليما	(with) a painful punishment	alīman
+9	9:39:6	w	وَيَسۡتَبۡدِلۡ	ﲈ	ويستبدل	and will replace you	wayastabdil
+9	9:39:7	w	قَوۡمًا	ﲉ	قوما	(with) a people	qawman
+9	9:39:8	w	غَيۡرَكُمۡ	ﲊ	غيركم	other than you	ghayrakum
+9	9:39:9	w	وَلَا	ﲋ	ولا	and not	walā
+9	9:39:10	w	تَضُرُّوهُ	ﲌ	تضروه	you can harm Him	taḍurrūhu
+10	9:39:11	w	شَيۡـٔٗاۗ	ﲍﲎ	شييا	(in) anything	shayan
+10	9:39:12	w	وَٱللَّهُ	ﲏ	والله	And Allah	wal-lahu
+10	9:39:13	w	عَلَىٰ	ﲐ	على	(is) on	ʿalā
+10	9:39:14	w	كُلِّ	ﲑ	كل	every	kulli
+10	9:39:15	w	شَيۡءٖ	ﲒ	شيء	thing	shayin
+10	9:39:16	w	قَدِيرٌ	ﲓ	قدير	All-Powerful	qadīrun
+10	9:39:17	e	٣٩	ﲔ			
+10	9:40:1	w	إِلَّا	ﲕ	الا	If not	illā
+10	9:40:2	w	تَنصُرُوهُ	ﲖ	تنصروه	you help him	tanṣurūhu
+11	9:40:3	w	فَقَدۡ	ﲗ	فقد	certainly	faqad
+11	9:40:4	w	نَصَرَهُ	ﲘ	نصره	Allah helped him	naṣarahu
+11	9:40:5	w	ٱللَّهُ	ﲙ	الله	Allah helped him	l-lahu
+11	9:40:6	w	إِذۡ	ﲚ	اذ	when	idh
+11	9:40:7	w	أَخۡرَجَهُ	ﲛ	اخرجه	drove him out	akhrajahu
+11	9:40:8	w	ٱلَّذِينَ	ﲜ	الذين	those who	alladhīna
+11	9:40:9	w	كَفَرُواْ	ﲝ	كفروا	disbelieved	kafarū
+11	9:40:10	w	ثَانِيَ	ﲞ	ثاني	the second	thāniya
+11	9:40:11	w	ٱثۡنَيۡنِ	ﲟ	اثنين	(of) the two	ith'nayni
+12	9:40:12	w	إِذۡ	ﲠ	اذ	when	idh
+12	9:40:13	w	هُمَا	ﲡ	هما	they both	humā
+12	9:40:14	w	فِي	ﲢ	في	(were) in	fī
+12	9:40:15	w	ٱلۡغَارِ	ﲣ	الغار	the cave	l-ghāri
+12	9:40:16	w	إِذۡ	ﲤ	اذ	when	idh
+12	9:40:17	w	يَقُولُ	ﲥ	يقول	he said	yaqūlu
+12	9:40:18	w	لِصَٰحِبِهِۦ	ﲦ	لصاحبه	to his companion	liṣāḥibihi
+12	9:40:19	w	لَا	ﲧ	لا	(Do) not	lā
+12	9:40:20	w	تَحۡزَنۡ	ﲨ	تحزن	grieve	taḥzan
+12	9:40:21	w	إِنَّ	ﲩ	ان	indeed	inna
+12	9:40:22	w	ٱللَّهَ	ﲪ	الله	Allah	l-laha
+13	9:40:23	w	مَعَنَاۖ	ﲫﲬ	معنا	(is) with us	maʿanā
+13	9:40:24	w	فَأَنزَلَ	ﲭ	فانزل	Then Allah sent down	fa-anzala
+13	9:40:25	w	ٱللَّهُ	ﲮ	الله	Then Allah sent down	l-lahu
+13	9:40:26	w	سَكِينَتَهُۥ	ﲯ	سكينته	His tranquility	sakīnatahu
+13	9:40:27	w	عَلَيۡهِ	ﲰ	عليه	upon him	ʿalayhi
+13	9:40:28	w	وَأَيَّدَهُۥ	ﲱ	وايده	and supported him	wa-ayyadahu
+13	9:40:29	w	بِجُنُودٖ	ﲲ	بجنود	with forces	bijunūdin
+14	9:40:30	w	لَّمۡ	ﲳ	لم	which you did not see	lam
+14	9:40:31	w	تَرَوۡهَا	ﲴ	تروها	which you did not see	tarawhā
+14	9:40:32	w	وَجَعَلَ	ﲵ	وجعل	and made	wajaʿala
+14	9:40:33	w	كَلِمَةَ	ﲶ	كلمة	(the) word	kalimata
+14	9:40:34	w	ٱلَّذِينَ	ﲷ	الذين	(of) those who	alladhīna
+14	9:40:35	w	كَفَرُواْ	ﲸ	كفروا	disbelieved	kafarū
+14	9:40:36	w	ٱلسُّفۡلَىٰۗ	ﲹﲺ	السفلى	the lowest	l-suf'lā
+15	9:40:37	w	وَكَلِمَةُ	ﲻ	وكلمة	while (the) Word	wakalimatu
+15	9:40:38	w	ٱللَّهِ	ﲼ	الله	(of) Allah	l-lahi
+15	9:40:39	w	هِيَ	ﲽ	هي	it (is)	hiya
+15	9:40:40	w	ٱلۡعُلۡيَاۗ	ﲾﲿ	العليا	the highest	l-ʿul'yā
+15	9:40:41	w	وَٱللَّهُ	ﳀ	والله	And Allah	wal-lahu
+15	9:40:42	w	عَزِيزٌ	ﳁ	عزيز	(is) All-Mighty	ʿazīzun
+15	9:40:43	w	حَكِيمٌ	ﳂ	حكيم	All-Wise	ḥakīmun
+15	9:40:44	e	٤٠	ﳃ			

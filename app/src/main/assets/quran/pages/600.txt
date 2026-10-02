@@ -1,0 +1,94 @@
+3	100:10:1	w	وَحُصِّلَ	ﱙ	وحصل	And is made apparent	waḥuṣṣila
+3	100:10:2	w	مَا	ﱚ	ما	what	mā
+3	100:10:3	w	فِي	ﱛ	في	(is) in	fī
+3	100:10:4	w	ٱلصُّدُورِ	ﱜ	الصدور	the breasts	l-ṣudūri
+3	100:10:5	e	١٠	ﱝ			
+3	100:11:1	w	إِنَّ	ﱞ	ان	Indeed	inna
+3	100:11:2	w	رَبَّهُم	ﱟ	ربهم	their Lord	rabbahum
+3	100:11:3	w	بِهِمۡ	ﱠ	بهم	about them	bihim
+3	100:11:4	w	يَوۡمَئِذٖ	ﱡ	يوميذ	that Day	yawma-idhin
+3	100:11:5	w	لَّخَبِيرُۢ	ﱢ	لخبير	(is) surely All-Aware	lakhabīrun
+3	100:11:6	e	١١	ﱣ			
+6	101:1:1	w	ٱلۡقَارِعَةُ	ﱤ	القارعة	The Striking Calamity	al-qāriʿatu
+6	101:1:2	e	١	ﱥ			
+6	101:2:1	w	مَا	ﱦ	ما	What	mā
+6	101:2:2	w	ٱلۡقَارِعَةُ	ﱧ	القارعة	(is) the Striking Calamity	l-qāriʿatu
+6	101:2:3	e	٢	ﱨ			
+6	101:3:1	w	وَمَآ	ﱩ	وما	And what	wamā
+6	101:3:2	w	أَدۡرَىٰكَ	ﱪ	ادراك	will make you know	adrāka
+6	101:3:3	w	مَا	ﱫ	ما	what	mā
+6	101:3:4	w	ٱلۡقَارِعَةُ	ﱬ	القارعة	(is) the Striking Calamity	l-qāriʿatu
+6	101:3:5	e	٣	ﱭ			
+6	101:4:1	w	يَوۡمَ	ﱮ	يوم	(The) Day	yawma
+7	101:4:2	w	يَكُونُ	ﱯ	يكون	will be	yakūnu
+7	101:4:3	w	ٱلنَّاسُ	ﱰ	الناس	the mankind	l-nāsu
+7	101:4:4	w	كَٱلۡفَرَاشِ	ﱱ	كالفراش	like moths	kal-farāshi
+7	101:4:5	w	ٱلۡمَبۡثُوثِ	ﱲ	المبثوث	scattered	l-mabthūthi
+7	101:4:6	e	٤	ﱳ			
+7	101:5:1	w	وَتَكُونُ	ﱴ	وتكون	And will be	watakūnu
+7	101:5:2	w	ٱلۡجِبَالُ	ﱵ	الجبال	the mountains	l-jibālu
+8	101:5:3	w	كَٱلۡعِهۡنِ	ﱶ	كالعهن	like wool	kal-ʿih'ni
+8	101:5:4	w	ٱلۡمَنفُوشِ	ﱷ	المنفوش	fluffed up	l-manfūshi
+8	101:5:5	e	٥	ﱸ			
+8	101:6:1	w	فَأَمَّا	ﱹ	فاما	Then as for	fa-ammā
+8	101:6:2	w	مَن	ﱺ	من	(him) whose	man
+8	101:6:3	w	ثَقُلَتۡ	ﱻ	ثقلت	(are) heavy	thaqulat
+8	101:6:4	w	مَوَٰزِينُهُۥ	ﱼ	موازينه	his scales	mawāzīnuhu
+8	101:6:5	e	٦	ﱽ			
+8	101:7:1	w	فَهُوَ	ﱾ	فهو	Then he	fahuwa
+8	101:7:2	w	فِي	ﱿ	في	(will be) in	fī
+9	101:7:3	w	عِيشَةٖ	ﲀ	عيشة	a life	ʿīshatin
+9	101:7:4	w	رَّاضِيَةٖ	ﲁ	راضية	pleasant	rāḍiyatin
+9	101:7:5	e	٧	ﲂ			
+9	101:8:1	w	وَأَمَّا	ﲃ	واما	But as for	wa-ammā
+9	101:8:2	w	مَنۡ	ﲄ	من	(him) whose	man
+9	101:8:3	w	خَفَّتۡ	ﲅ	خفت	(are) light	khaffat
+9	101:8:4	w	مَوَٰزِينُهُۥ	ﲆ	موازينه	his scales	mawāzīnuhu
+9	101:8:5	e	٨	ﲇ			
+9	101:9:1	w	فَأُمُّهُۥ	ﲈ	فامه	His abode	fa-ummuhu
+9	101:9:2	w	هَاوِيَةٞ	ﲉ	هاوية	(will be the) Pit	hāwiyatun
+10	101:9:3	e	٩	ﲊ			
+10	101:10:1	w	وَمَآ	ﲋ	وما	And what	wamā
+10	101:10:2	w	أَدۡرَىٰكَ	ﲌ	ادراك	will make you know	adrāka
+10	101:10:3	w	مَا	ﲍ	ما	what	mā
+10	101:10:4	w	هِيَهۡ	ﲎ	هيه	it is	hiyah
+10	101:10:5	e	١٠	ﲏ			
+10	101:11:1	w	نَارٌ	ﲐ	نار	A Fire	nārun
+10	101:11:2	w	حَامِيَةُۢ	ﲑ	حامية	intensely hot	ḥāmiyatun
+10	101:11:3	e	١١	ﲒ			
+13	102:1:1	w	أَلۡهَىٰكُمُ	ﲓ	الهاكم	Diverts you	alhākumu
+13	102:1:2	w	ٱلتَّكَاثُرُ	ﲔ	التكاثر	the competition to increase	l-takāthuru
+13	102:1:3	e	١	ﲕ			
+13	102:2:1	w	حَتَّىٰ	ﲖ	حتى	Until	ḥattā
+13	102:2:2	w	زُرۡتُمُ	ﲗ	زرتم	you visit	zur'tumu
+13	102:2:3	w	ٱلۡمَقَابِرَ	ﲘ	المقابر	the graves	l-maqābira
+13	102:2:4	e	٢	ﲙ			
+13	102:3:1	w	كـَلَّا	ﲚ	كلا	Nay	kallā
+13	102:3:2	w	سَوۡفَ	ﲛ	سوف	Soon	sawfa
+13	102:3:3	w	تَعۡلَمُونَ	ﲜ	تعلمون	you will know	taʿlamūna
+13	102:3:4	e	٣	ﲝ			
+13	102:4:1	w	ثُمَّ	ﲞ	ثم	Then	thumma
+14	102:4:2	w	كـَلَّا	ﲟ	كلا	nay	kallā
+14	102:4:3	w	سَوۡفَ	ﲠ	سوف	Soon	sawfa
+14	102:4:4	w	تَعۡلَمُونَ	ﲡ	تعلمون	you will know	taʿlamūna
+14	102:4:5	e	٤	ﲢ			
+14	102:5:1	w	كـَلَّا	ﲣ	كلا	Nay	kallā
+14	102:5:2	w	لَوۡ	ﲤ	لو	If	law
+14	102:5:3	w	تَعۡلَمُونَ	ﲥ	تعلمون	you know	taʿlamūna
+14	102:5:4	w	عِلۡمَ	ﲦ	علم	(with) a knowledge	ʿil'ma
+14	102:5:5	w	ٱلۡيَقِينِ	ﲧ	اليقين	(of) certainty	l-yaqīni
+14	102:5:6	e	٥	ﲨ			
+14	102:6:1	w	لَتَرَوُنَّ	ﲩ	لترون	Surely you will see	latarawunna
+14	102:6:2	w	ٱلۡجَحِيمَ	ﲪ	الجحيم	the Hellfire	l-jaḥīma
+14	102:6:3	e	٦	ﲫ			
+15	102:7:1	w	ثُمَّ	ﲬ	ثم	Then	thumma
+15	102:7:2	w	لَتَرَوُنَّهَا	ﲭ	لترونها	surely you will see it	latarawunnahā
+15	102:7:3	w	عَيۡنَ	ﲮ	عين	(with the) eye	ʿayna
+15	102:7:4	w	ٱلۡيَقِينِ	ﲯ	اليقين	(of) certainty	l-yaqīni
+15	102:7:5	e	٧	ﲰ			
+15	102:8:1	w	ثُمَّ	ﲱ	ثم	Then	thumma
+15	102:8:2	w	لَتُسۡـَٔلُنَّ	ﲲ	لتسالن	surely you will be asked	latus'alunna
+15	102:8:3	w	يَوۡمَئِذٍ	ﲳ	يوميذ	that Day	yawma-idhin
+15	102:8:4	w	عَنِ	ﲴ	عن	about	ʿani
+15	102:8:5	w	ٱلنَّعِيمِ	ﲵ	النعيم	the pleasures	l-naʿīmi
+15	102:8:6	e	٨	ﲶ			

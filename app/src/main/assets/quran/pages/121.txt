@@ -1,0 +1,92 @@
+1	5:78:1	w	لُعِنَ	ﱁ	لعن	Were cursed	luʿina
+1	5:78:2	w	ٱلَّذِينَ	ﱂ	الذين	those who	alladhīna
+1	5:78:3	w	كَفَرُواْ	ﱃ	كفروا	disbelieved	kafarū
+1	5:78:4	w	مِنۢ	ﱄ	من	from	min
+1	5:78:5	w	بَنِيٓ	ﱅ	بني	(the) Children	banī
+1	5:78:6	w	إِسۡرَٰٓءِيلَ	ﱆ	اسراييل	(of) Israel	is'rāīla
+1	5:78:7	w	عَلَىٰ	ﱇ	على	by	ʿalā
+1	5:78:8	w	لِسَانِ	ﱈ	لسان	(the) tongue	lisāni
+2	5:78:9	w	دَاوُۥدَ	ﱉ	داوود	(of) Dawood	dāwūda
+2	5:78:10	w	وَعِيسَى	ﱊ	وعيسى	and Isa	waʿīsā
+2	5:78:11	w	ٱبۡنِ	ﱋ	ابن	son	ib'ni
+2	5:78:12	w	مَرۡيَمَۚ	ﱌﱍ	مريم	(of) Maryam	maryama
+2	5:78:13	w	ذَٰلِكَ	ﱎ	ذالك	that (was)	dhālika
+2	5:78:14	w	بِمَا	ﱏ	بما	because	bimā
+2	5:78:15	w	عَصَواْ	ﱐ	عصوا	they disobeyed	ʿaṣaw
+2	5:78:16	w	وَّكَانُواْ	ﱑ	وكانوا	and they were	wakānū
+3	5:78:17	w	يَعۡتَدُونَ	ﱒ	يعتدون	transgressing	yaʿtadūna
+3	5:78:18	e	٧٨	ﱓ			
+3	5:79:1	w	كَانُواْ	ﱔ	كانوا	They had been	kānū
+3	5:79:2	w	لَا	ﱕ	لا	not	lā
+3	5:79:3	w	يَتَنَاهَوۡنَ	ﱖ	يتناهون	forbidding each other	yatanāhawna
+3	5:79:4	w	عَن	ﱗ	عن	from	ʿan
+3	5:79:5	w	مُّنكَرٖ	ﱘ	منكر	wrongdoing	munkarin
+3	5:79:6	w	فَعَلُوهُۚ	ﱙﱚ	فعلوه	they did [it]	faʿalūhu
+4	5:79:7	w	لَبِئۡسَ	ﱛ	لبيس	Surely, evil	labi'sa
+4	5:79:8	w	مَا	ﱜ	ما	(was) what	mā
+4	5:79:9	w	كَانُواْ	ﱝ	كانوا	they were	kānū
+4	5:79:10	w	يَفۡعَلُونَ	ﱞ	يفعلون	doing	yafʿalūna
+4	5:79:11	e	٧٩	ﱟ			
+4	5:80:1	w	تَرَىٰ	ﱠ	ترى	You see	tarā
+4	5:80:2	w	كَثِيرٗا	ﱡ	كثيرا	many	kathīran
+4	5:80:3	w	مِّنۡهُمۡ	ﱢ	منهم	of them	min'hum
+5	5:80:4	w	يَتَوَلَّوۡنَ	ﱣ	يتولون	taking as allies	yatawallawna
+5	5:80:5	w	ٱلَّذِينَ	ﱤ	الذين	those who	alladhīna
+5	5:80:6	w	كَفَرُواْۚ	ﱥﱦ	كفروا	disbelieved	kafarū
+5	5:80:7	w	لَبِئۡسَ	ﱧ	لبيس	Surely evil	labi'sa
+5	5:80:8	w	مَا	ﱨ	ما	(is) what	mā
+5	5:80:9	w	قَدَّمَتۡ	ﱩ	قدمت	sent forth	qaddamat
+5	5:80:10	w	لَهُمۡ	ﱪ	لهم	for them	lahum
+6	5:80:11	w	أَنفُسُهُمۡ	ﱫ	انفسهم	their souls	anfusuhum
+6	5:80:12	w	أَن	ﱬ	ان	that	an
+6	5:80:13	w	سَخِطَ	ﱭ	سخط	became angry	sakhiṭa
+6	5:80:14	w	ٱللَّهُ	ﱮ	الله	Allah	l-lahu
+6	5:80:15	w	عَلَيۡهِمۡ	ﱯ	عليهم	with them	ʿalayhim
+6	5:80:16	w	وَفِي	ﱰ	وفي	and in	wafī
+6	5:80:17	w	ٱلۡعَذَابِ	ﱱ	العذاب	the punishment	l-ʿadhābi
+6	5:80:18	w	هُمۡ	ﱲ	هم	they	hum
+7	5:80:19	w	خَٰلِدُونَ	ﱳ	خالدون	(will) abide forever	khālidūna
+7	5:80:20	e	٨٠	ﱴ			
+7	5:81:1	w	وَلَوۡ	ﱵ	ولو	And if	walaw
+7	5:81:2	w	كَانُواْ	ﱶ	كانوا	they had	kānū
+7	5:81:3	w	يُؤۡمِنُونَ	ﱷ	يومنون	believed	yu'minūna
+7	5:81:4	w	بِٱللَّهِ	ﱸ	بالله	in Allah	bil-lahi
+7	5:81:5	w	وَٱلنَّبِيِّ	ﱹ	والنبي	and the Prophet	wal-nabiyi
+7	5:81:6	w	وَمَآ	ﱺ	وما	and what	wamā
+8	5:81:7	w	أُنزِلَ	ﱻ	انزل	has been revealed	unzila
+8	5:81:8	w	إِلَيۡهِ	ﱼ	اليه	to him	ilayhi
+8	5:81:9	w	مَا	ﱽ	ما	not	mā
+8	5:81:10	w	ٱتَّخَذُوهُمۡ	ﱾ	اتخذوهم	they (would have) taken them	ittakhadhūhum
+8	5:81:11	w	أَوۡلِيَآءَ	ﱿ	اولياء	(as) allies	awliyāa
+8	5:81:12	w	وَلَٰكِنَّ	ﲀ	ولاكن	[and] but	walākinna
+8	5:81:13	w	كَثِيرٗا	ﲁ	كثيرا	many	kathīran
+9	5:81:14	w	مِّنۡهُمۡ	ﲂ	منهم	of them	min'hum
+9	5:81:15	w	فَٰسِقُونَ	ﲃ	فاسقون	(are) defiantly disobedient	fāsiqūna
+9	5:81:16	e	٨١	ﲄ			
+9	5:82:1	w	۞ لَتَجِدَنَّ	ﲅ ﲆ	۞ لتجدن	Surely you will find	latajidanna
+9	5:82:2	w	أَشَدَّ	ﲇ	اشد	strongest	ashadda
+9	5:82:3	w	ٱلنَّاسِ	ﲈ	الناس	(of) the people	l-nāsi
+9	5:82:4	w	عَدَٰوَةٗ	ﲉ	عداوة	(in) enmity	ʿadāwatan
+10	5:82:5	w	لِّلَّذِينَ	ﲊ	للذين	to those who	lilladhīna
+10	5:82:6	w	ءَامَنُواْ	ﲋ	امنوا	believe	āmanū
+10	5:82:7	w	ٱلۡيَهُودَ	ﲌ	اليهود	the Jews	l-yahūda
+10	5:82:8	w	وَٱلَّذِينَ	ﲍ	والذين	and those who	wa-alladhīna
+10	5:82:9	w	أَشۡرَكُواْۖ	ﲎﲏ	اشركوا	(are) polytheists	ashrakū
+10	5:82:10	w	وَلَتَجِدَنَّ	ﲐ	ولتجدن	and surely you will find	walatajidanna
+11	5:82:11	w	أَقۡرَبَهُم	ﲑ	اقربهم	nearest of them	aqrabahum
+11	5:82:12	w	مَّوَدَّةٗ	ﲒ	مودة	(in) affection	mawaddatan
+11	5:82:13	w	لِّلَّذِينَ	ﲓ	للذين	to those who	lilladhīna
+11	5:82:14	w	ءَامَنُواْ	ﲔ	امنوا	believe	āmanū
+11	5:82:15	w	ٱلَّذِينَ	ﲕ	الذين	those who	alladhīna
+11	5:82:16	w	قَالُوٓاْ	ﲖ	قالوا	say	qālū
+11	5:82:17	w	إِنَّا	ﲗ	انا	We	innā
+11	5:82:18	w	نَصَٰرَىٰۚ	ﲘﲙ	نصارى	(are) Christians	naṣārā
+12	5:82:19	w	ذَٰلِكَ	ﲚ	ذالك	That (is)	dhālika
+12	5:82:20	w	بِأَنَّ	ﲛ	بان	because	bi-anna
+12	5:82:21	w	مِنۡهُمۡ	ﲜ	منهم	among them	min'hum
+12	5:82:22	w	قِسِّيسِينَ	ﲝ	قسيسين	(are) priests	qissīsīna
+12	5:82:23	w	وَرُهۡبَانٗا	ﲞ	ورهبانا	and monks	waruh'bānan
+12	5:82:24	w	وَأَنَّهُمۡ	ﲟ	وانهم	and that they	wa-annahum
+13	5:82:25	w	لَا	ﲠ	لا	(are) not	lā
+13	5:82:26	w	يَسۡتَكۡبِرُونَ	ﲡ	يستكبرون	arrogant	yastakbirūna
+13	5:82:27	e	٨٢	ﲢ			

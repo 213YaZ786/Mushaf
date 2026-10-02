@@ -1,0 +1,150 @@
+1	40:26:1	w	وَقَالَ	ﱁ	وقال	And said	waqāla
+1	40:26:2	w	فِرۡعَوۡنُ	ﱂ	فرعون	Firaun	fir'ʿawnu
+1	40:26:3	w	ذَرُونِيٓ	ﱃ	ذروني	Leave me	dharūnī
+1	40:26:4	w	أَقۡتُلۡ	ﱄ	اقتل	(so that) I kill	aqtul
+1	40:26:5	w	مُوسَىٰ	ﱅ	موسى	Musa	mūsā
+1	40:26:6	w	وَلۡيَدۡعُ	ﱆ	وليدع	and let him call	walyadʿu
+1	40:26:7	w	رَبَّهُۥٓۖ	ﱇﱈ	ربه	his Lord	rabbahu
+1	40:26:8	w	إِنِّيٓ	ﱉ	اني	Indeed, I	innī
+1	40:26:9	w	أَخَافُ	ﱊ	اخاف	[I] fear	akhāfu
+2	40:26:10	w	أَن	ﱋ	ان	that	an
+2	40:26:11	w	يُبَدِّلَ	ﱌ	يبدل	he will change	yubaddila
+2	40:26:12	w	دِينَكُمۡ	ﱍ	دينكم	your religion	dīnakum
+2	40:26:13	w	أَوۡ	ﱎ	او	or	aw
+2	40:26:14	w	أَن	ﱏ	ان	that	an
+2	40:26:15	w	يُظۡهِرَ	ﱐ	يظهر	he may cause to appear	yuẓ'hira
+2	40:26:16	w	فِي	ﱑ	في	in	fī
+2	40:26:17	w	ٱلۡأَرۡضِ	ﱒ	الارض	the land	l-arḍi
+2	40:26:18	w	ٱلۡفَسَادَ	ﱓ	الفساد	the corruption	l-fasāda
+2	40:26:19	e	٢٦	ﱔ			
+3	40:27:1	w	وَقَالَ	ﱕ	وقال	And said	waqāla
+3	40:27:2	w	مُوسَىٰٓ	ﱖ	موسى	Musa	mūsā
+3	40:27:3	w	إِنِّي	ﱗ	اني	Indeed, I	innī
+3	40:27:4	w	عُذۡتُ	ﱘ	عذت	[I] seek refuge	ʿudh'tu
+3	40:27:5	w	بِرَبِّي	ﱙ	بربي	in my Lord	birabbī
+3	40:27:6	w	وَرَبِّكُم	ﱚ	وربكم	and your Lord	warabbikum
+3	40:27:7	w	مِّن	ﱛ	من	from	min
+3	40:27:8	w	كُلِّ	ﱜ	كل	every	kulli
+3	40:27:9	w	مُتَكَبِّرٖ	ﱝ	متكبر	arrogant one	mutakabbirin
+3	40:27:10	w	لَّا	ﱞ	لا	not	lā
+3	40:27:11	w	يُؤۡمِنُ	ﱟ	يومن	who believes	yu'minu
+4	40:27:12	w	بِيَوۡمِ	ﱠ	بيوم	(in the) Day	biyawmi
+4	40:27:13	w	ٱلۡحِسَابِ	ﱡ	الحساب	(of) the Account	l-ḥisābi
+4	40:27:14	e	٢٧	ﱢ			
+4	40:28:1	w	وَقَالَ	ﱣ	وقال	And said	waqāla
+4	40:28:2	w	رَجُلٞ	ﱤ	رجل	a man	rajulun
+4	40:28:3	w	مُّؤۡمِنٞ	ﱥ	مومن	believing	mu'minun
+4	40:28:4	w	مِّنۡ	ﱦ	من	from	min
+4	40:28:5	w	ءَالِ	ﱧ	ال	(the) family	āli
+4	40:28:6	w	فِرۡعَوۡنَ	ﱨ	فرعون	(of) Firaun	fir'ʿawna
+5	40:28:7	w	يَكۡتُمُ	ﱩ	يكتم	who conceal(ed)	yaktumu
+5	40:28:8	w	إِيمَٰنَهُۥٓ	ﱪ	ايمانه	his faith	īmānahu
+5	40:28:9	w	أَتَقۡتُلُونَ	ﱫ	اتقتلون	Will you kill	ataqtulūna
+5	40:28:10	w	رَجُلًا	ﱬ	رجلا	a man	rajulan
+5	40:28:11	w	أَن	ﱭ	ان	because	an
+5	40:28:12	w	يَقُولَ	ﱮ	يقول	he says	yaqūla
+5	40:28:13	w	رَبِّيَ	ﱯ	ربي	My Lord	rabbiya
+5	40:28:14	w	ٱللَّهُ	ﱰ	الله	(is) Allah	l-lahu
+5	40:28:15	w	وَقَدۡ	ﱱ	وقد	and indeed	waqad
+6	40:28:16	w	جَآءَكُم	ﱲ	جاءكم	he has brought you	jāakum
+6	40:28:17	w	بِٱلۡبَيِّنَٰتِ	ﱳ	بالبينات	clear proofs	bil-bayināti
+6	40:28:18	w	مِن	ﱴ	من	from	min
+6	40:28:19	w	رَّبِّكُمۡۖ	ﱵﱶ	ربكم	your Lord	rabbikum
+6	40:28:20	w	وَإِن	ﱷ	وان	And if	wa-in
+6	40:28:21	w	يَكُ	ﱸ	يك	he is	yaku
+6	40:28:22	w	كَٰذِبٗا	ﱹ	كاذبا	a liar	kādhiban
+6	40:28:23	w	فَعَلَيۡهِ	ﱺ	فعليه	then upon him	faʿalayhi
+7	40:28:24	w	كَذِبُهُۥۖ	ﱻﱼ	كذبه	(is) his lie	kadhibuhu
+7	40:28:25	w	وَإِن	ﱽ	وان	and if	wa-in
+7	40:28:26	w	يَكُ	ﱾ	يك	he is	yaku
+7	40:28:27	w	صَادِقٗا	ﱿ	صادقا	truthful	ṣādiqan
+7	40:28:28	w	يُصِبۡكُم	ﲀ	يصبكم	(there) will strike you	yuṣib'kum
+7	40:28:29	w	بَعۡضُ	ﲁ	بعض	some (of)	baʿḍu
+7	40:28:30	w	ٱلَّذِي	ﲂ	الذي	(that) which	alladhī
+7	40:28:31	w	يَعِدُكُمۡۖ	ﲃﲄ	يعدكم	he threatens you	yaʿidukum
+8	40:28:32	w	إِنَّ	ﲅ	ان	Indeed	inna
+8	40:28:33	w	ٱللَّهَ	ﲆ	الله	Allah	l-laha
+8	40:28:34	w	لَا	ﲇ	لا	(does) not	lā
+8	40:28:35	w	يَهۡدِي	ﲈ	يهدي	guide	yahdī
+8	40:28:36	w	مَنۡ	ﲉ	من	(one) who	man
+8	40:28:37	w	هُوَ	ﲊ	هو	[he]	huwa
+8	40:28:38	w	مُسۡرِفٞ	ﲋ	مسرف	(is) a transgressor	mus'rifun
+8	40:28:39	w	كَذَّابٞ	ﲌ	كذاب	a liar	kadhābun
+8	40:28:40	e	٢٨	ﲍ			
+8	40:29:1	w	يَٰقَوۡمِ	ﲎ	يا قوم	O my people	yāqawmi
+8	40:29:2	w	لَكُمُ	ﲏ	لكم	For you	lakumu
+9	40:29:3	w	ٱلۡمُلۡكُ	ﲐ	الملك	(is) the kingdom	l-mul'ku
+9	40:29:4	w	ٱلۡيَوۡمَ	ﲑ	اليوم	today	l-yawma
+9	40:29:5	w	ظَٰهِرِينَ	ﲒ	ظاهرين	dominant	ẓāhirīna
+9	40:29:6	w	فِي	ﲓ	في	in	fī
+9	40:29:7	w	ٱلۡأَرۡضِ	ﲔ	الارض	the land	l-arḍi
+9	40:29:8	w	فَمَن	ﲕ	فمن	but who	faman
+9	40:29:9	w	يَنصُرُنَا	ﲖ	ينصرنا	will help us	yanṣurunā
+9	40:29:10	w	مِنۢ	ﲗ	من	from	min
+9	40:29:11	w	بَأۡسِ	ﲘ	باس	(the) punishment	basi
+9	40:29:12	w	ٱللَّهِ	ﲙ	الله	(of) Allah	l-lahi
+10	40:29:13	w	إِن	ﲚ	ان	if	in
+10	40:29:14	w	جَآءَنَاۚ	ﲛﲜ	جاءنا	it came to us	jāanā
+10	40:29:15	w	قَالَ	ﲝ	قال	Said	qāla
+10	40:29:16	w	فِرۡعَوۡنُ	ﲞ	فرعون	Firaun	fir'ʿawnu
+10	40:29:17	w	مَآ	ﲟ	ما	Not	mā
+10	40:29:18	w	أُرِيكُمۡ	ﲠ	اريكم	I show you	urīkum
+10	40:29:19	w	إِلَّا	ﲡ	الا	except	illā
+10	40:29:20	w	مَآ	ﲢ	ما	what	mā
+10	40:29:21	w	أَرَىٰ	ﲣ	ارى	I see	arā
+10	40:29:22	w	وَمَآ	ﲤ	وما	and not	wamā
+10	40:29:23	w	أَهۡدِيكُمۡ	ﲥ	اهديكم	I guide you	ahdīkum
+11	40:29:24	w	إِلَّا	ﲦ	الا	except	illā
+11	40:29:25	w	سَبِيلَ	ﲧ	سبيل	(to the) path	sabīla
+11	40:29:26	w	ٱلرَّشَادِ	ﲨ	الرشاد	the right	l-rashādi
+11	40:29:27	e	٢٩	ﲩ			
+11	40:30:1	w	وَقَالَ	ﲪ	وقال	And said	waqāla
+11	40:30:2	w	ٱلَّذِيٓ	ﲫ	الذي	(he) who	alladhī
+11	40:30:3	w	ءَامَنَ	ﲬ	امن	believed	āmana
+11	40:30:4	w	يَٰقَوۡمِ	ﲭ	يا قوم	O my people	yāqawmi
+11	40:30:5	w	إِنِّيٓ	ﲮ	اني	Indeed I	innī
+11	40:30:6	w	أَخَافُ	ﲯ	اخاف	[I] fear	akhāfu
+12	40:30:7	w	عَلَيۡكُم	ﲰ	عليكم	for you	ʿalaykum
+12	40:30:8	w	مِّثۡلَ	ﲱ	مثل	like	mith'la
+12	40:30:9	w	يَوۡمِ	ﲲ	يوم	(the) day	yawmi
+12	40:30:10	w	ٱلۡأَحۡزَابِ	ﲳ	الاحزاب	(of) the companies	l-aḥzābi
+12	40:30:11	e	٣٠	ﲴ			
+12	40:31:1	w	مِثۡلَ	ﲵ	مثل	Like	mith'la
+12	40:31:2	w	دَأۡبِ	ﲶ	داب	(the) plight	dabi
+12	40:31:3	w	قَوۡمِ	ﲷ	قوم	(of the) people	qawmi
+12	40:31:4	w	نُوحٖ	ﲸ	نوح	(of) Nuh	nūḥin
+12	40:31:5	w	وَعَادٖ	ﲹ	وعاد	and Aad	waʿādin
+13	40:31:6	w	وَثَمُودَ	ﲺ	وثمود	and Thamud	wathamūda
+13	40:31:7	w	وَٱلَّذِينَ	ﲻ	والذين	and those	wa-alladhīna
+13	40:31:8	w	مِنۢ	ﲼ	من	after them	min
+13	40:31:9	w	بَعۡدِهِمۡۚ	ﲽﲾ	بعدهم	after them	baʿdihim
+13	40:31:10	w	وَمَا	ﲿ	وما	And Allah (does) not	wamā
+13	40:31:11	w	ٱللَّهُ	ﳀ	الله	And Allah (does) not	l-lahu
+13	40:31:12	w	يُرِيدُ	ﳁ	يريد	want	yurīdu
+13	40:31:13	w	ظُلۡمٗا	ﳂ	ظلما	injustice	ẓul'man
+13	40:31:14	w	لِّلۡعِبَادِ	ﳃ	للعباد	for (His) slaves	lil'ʿibādi
+13	40:31:15	e	٣١	ﳄ			
+14	40:32:1	w	وَيَٰقَوۡمِ	ﳅ	ويا قوم	And O my people	wayāqawmi
+14	40:32:2	w	إِنِّيٓ	ﳆ	اني	Indeed, I	innī
+14	40:32:3	w	أَخَافُ	ﳇ	اخاف	[I] fear	akhāfu
+14	40:32:4	w	عَلَيۡكُمۡ	ﳈ	عليكم	for you	ʿalaykum
+14	40:32:5	w	يَوۡمَ	ﳉ	يوم	(the) Day	yawma
+14	40:32:6	w	ٱلتَّنَادِ	ﳊ	التناد	(of) Calling	l-tanādi
+14	40:32:7	e	٣٢	ﳋ			
+14	40:33:1	w	يَوۡمَ	ﳌ	يوم	A Day	yawma
+14	40:33:2	w	تُوَلُّونَ	ﳍ	تولون	you will turn back	tuwallūna
+14	40:33:3	w	مُدۡبِرِينَ	ﳎ	مدبرين	fleeing	mud'birīna
+15	40:33:4	w	مَا	ﳏ	ما	not	mā
+15	40:33:5	w	لَكُم	ﳐ	لكم	for you	lakum
+15	40:33:6	w	مِّنَ	ﳑ	من	from	mina
+15	40:33:7	w	ٱللَّهِ	ﳒ	الله	Allah	l-lahi
+15	40:33:8	w	مِنۡ	ﳓ	من	any	min
+15	40:33:9	w	عَاصِمٖۗ	ﳔﳕ	عاصم	protector	ʿāṣimin
+15	40:33:10	w	وَمَن	ﳖ	ومن	And whoever	waman
+15	40:33:11	w	يُضۡلِلِ	ﳗ	يضلل	Allah lets go astray	yuḍ'lili
+15	40:33:12	w	ٱللَّهُ	ﳘ	الله	Allah lets go astray	l-lahu
+15	40:33:13	w	فَمَا	ﳙ	فما	then not	famā
+15	40:33:14	w	لَهُۥ	ﳚ	له	for him	lahu
+15	40:33:15	w	مِنۡ	ﳛ	من	any	min
+15	40:33:16	w	هَادٖ	ﳜ	هاد	guide	hādin
+15	40:33:17	e	٣٣	ﳝ			

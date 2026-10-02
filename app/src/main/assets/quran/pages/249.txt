@@ -1,0 +1,122 @@
+3	13:1:1	w	الٓمٓرۚ	ﱁﱂ	المر	Alif Laam Mim Ra	alif-lam-meem-ra
+3	13:1:2	w	تِلۡكَ	ﱃ	تلك	These	til'ka
+3	13:1:3	w	ءَايَٰتُ	ﱄ	ايات	(are) the Verses	āyātu
+3	13:1:4	w	ٱلۡكِتَٰبِۗ	ﱅﱆ	الكتاب	(of) the Book	l-kitābi
+3	13:1:5	w	وَٱلَّذِيٓ	ﱇ	والذي	And that which	wa-alladhī
+3	13:1:6	w	أُنزِلَ	ﱈ	انزل	has been revealed	unzila
+3	13:1:7	w	إِلَيۡكَ	ﱉ	اليك	to you	ilayka
+3	13:1:8	w	مِن	ﱊ	من	from	min
+3	13:1:9	w	رَّبِّكَ	ﱋ	ربك	your Lord	rabbika
+3	13:1:10	w	ٱلۡحَقُّ	ﱌ	الحق	(is) the truth	l-ḥaqu
+4	13:1:11	w	وَلَٰكِنَّ	ﱍ	ولاكن	but	walākinna
+4	13:1:12	w	أَكۡثَرَ	ﱎ	اكثر	most	akthara
+4	13:1:13	w	ٱلنَّاسِ	ﱏ	الناس	(of) the mankind	l-nāsi
+4	13:1:14	w	لَا	ﱐ	لا	(do) not	lā
+4	13:1:15	w	يُؤۡمِنُونَ	ﱑ	يومنون	believe	yu'minūna
+4	13:1:16	e	١	ﱒ			
+4	13:2:1	w	ٱللَّهُ	ﱓ	الله	Allah	al-lahu
+4	13:2:2	w	ٱلَّذِي	ﱔ	الذي	(is) the One Who	alladhī
+4	13:2:3	w	رَفَعَ	ﱕ	رفع	raised	rafaʿa
+4	13:2:4	w	ٱلسَّمَٰوَٰتِ	ﱖ	السماوات	the heavens	l-samāwāti
+5	13:2:5	w	بِغَيۡرِ	ﱗ	بغير	without	bighayri
+5	13:2:6	w	عَمَدٖ	ﱘ	عمد	pillars	ʿamadin
+5	13:2:7	w	تَرَوۡنَهَاۖ	ﱙﱚ	ترونها	that you see	tarawnahā
+5	13:2:8	w	ثُمَّ	ﱛ	ثم	then	thumma
+5	13:2:9	w	ٱسۡتَوَىٰ	ﱜ	استوى	He established	is'tawā
+5	13:2:10	w	عَلَى	ﱝ	على	on	ʿalā
+5	13:2:11	w	ٱلۡعَرۡشِۖ	ﱞﱟ	العرش	the Throne	l-ʿarshi
+5	13:2:12	w	وَسَخَّرَ	ﱠ	وسخر	and subjected	wasakhara
+5	13:2:13	w	ٱلشَّمۡسَ	ﱡ	الشمس	the sun	l-shamsa
+5	13:2:14	w	وَٱلۡقَمَرَۖ	ﱢﱣ	والقمر	and the moon	wal-qamara
+6	13:2:15	w	كُلّٞ	ﱤ	كل	each	kullun
+6	13:2:16	w	يَجۡرِي	ﱥ	يجري	running	yajrī
+6	13:2:17	w	لِأَجَلٖ	ﱦ	لاجل	for a term	li-ajalin
+6	13:2:18	w	مُّسَمّٗىۚ	ﱧﱨ	مسمى	appointed	musamman
+6	13:2:19	w	يُدَبِّرُ	ﱩ	يدبر	He arranges	yudabbiru
+6	13:2:20	w	ٱلۡأَمۡرَ	ﱪ	الامر	the matter	l-amra
+6	13:2:21	w	يُفَصِّلُ	ﱫ	يفصل	He details	yufaṣṣilu
+6	13:2:22	w	ٱلۡأٓيَٰتِ	ﱬ	الايات	the Signs	l-āyāti
+6	13:2:23	w	لَعَلَّكُم	ﱭ	لعلكم	so that you may	laʿallakum
+7	13:2:24	w	بِلِقَآءِ	ﱮ	بلقاء	in the meeting	biliqāi
+7	13:2:25	w	رَبِّكُمۡ	ﱯ	ربكم	(with) your Lord	rabbikum
+7	13:2:26	w	تُوقِنُونَ	ﱰ	توقنون	believe with certainty	tūqinūna
+7	13:2:27	e	٢	ﱱ			
+7	13:3:1	w	وَهُوَ	ﱲ	وهو	And He	wahuwa
+7	13:3:2	w	ٱلَّذِي	ﱳ	الذي	(is) the One Who	alladhī
+7	13:3:3	w	مَدَّ	ﱴ	مد	spread	madda
+7	13:3:4	w	ٱلۡأَرۡضَ	ﱵ	الارض	the earth	l-arḍa
+7	13:3:5	w	وَجَعَلَ	ﱶ	وجعل	and placed	wajaʿala
+7	13:3:6	w	فِيهَا	ﱷ	فيها	in it	fīhā
+7	13:3:7	w	رَوَٰسِيَ	ﱸ	رواسي	firm mountains	rawāsiya
+8	13:3:8	w	وَأَنۡهَٰرٗاۖ	ﱹﱺ	وانهارا	and rivers	wa-anhāran
+8	13:3:9	w	وَمِن	ﱻ	ومن	and from	wamin
+8	13:3:10	w	كُلِّ	ﱼ	كل	all	kulli
+8	13:3:11	w	ٱلثَّمَرَٰتِ	ﱽ	الثمرات	(of) the fruits	l-thamarāti
+8	13:3:12	w	جَعَلَ	ﱾ	جعل	He made	jaʿala
+8	13:3:13	w	فِيهَا	ﱿ	فيها	in it	fīhā
+8	13:3:14	w	زَوۡجَيۡنِ	ﲀ	زوجين	pairs	zawjayni
+8	13:3:15	w	ٱثۡنَيۡنِۖ	ﲁﲂ	اثنين	two	ith'nayni
+8	13:3:16	w	يُغۡشِي	ﲃ	يغشي	He covers	yugh'shī
+8	13:3:17	w	ٱلَّيۡلَ	ﲄ	الليل	the night	al-layla
+9	13:3:18	w	ٱلنَّهَارَۚ	ﲅﲆ	النهار	(with) the day	l-nahāra
+9	13:3:19	w	إِنَّ	ﲇ	ان	Indeed	inna
+9	13:3:20	w	فِي	ﲈ	في	in	fī
+9	13:3:21	w	ذَٰلِكَ	ﲉ	ذالك	that	dhālika
+9	13:3:22	w	لَأٓيَٰتٖ	ﲊ	لايات	surely (are) Signs	laāyātin
+9	13:3:23	w	لِّقَوۡمٖ	ﲋ	لقوم	for a people	liqawmin
+9	13:3:24	w	يَتَفَكَّرُونَ	ﲌ	يتفكرون	who ponder	yatafakkarūna
+9	13:3:25	e	٣	ﲍ			
+9	13:4:1	w	وَفِي	ﲎ	وفي	And in	wafī
+9	13:4:2	w	ٱلۡأَرۡضِ	ﲏ	الارض	the earth	l-arḍi
+10	13:4:3	w	قِطَعٞ	ﲐ	قطع	are tracks	qiṭaʿun
+10	13:4:4	w	مُّتَجَٰوِرَٰتٞ	ﲑ	متجاورات	neighboring	mutajāwirātun
+10	13:4:5	w	وَجَنَّٰتٞ	ﲒ	وجنات	and gardens	wajannātun
+10	13:4:6	w	مِّنۡ	ﲓ	من	of	min
+10	13:4:7	w	أَعۡنَٰبٖ	ﲔ	اعناب	grapevines	aʿnābin
+10	13:4:8	w	وَزَرۡعٞ	ﲕ	وزرع	and crops	wazarʿun
+10	13:4:9	w	وَنَخِيلٞ	ﲖ	ونخيل	and date-palms	wanakhīlun
+10	13:4:10	w	صِنۡوَانٞ	ﲗ	صنوان	trees (growing) from a single root	ṣin'wānun
+11	13:4:11	w	وَغَيۡرُ	ﲘ	وغير	and not	waghayru
+11	13:4:12	w	صِنۡوَانٖ	ﲙ	صنوان	trees (growing) from a single root	ṣin'wānin
+11	13:4:13	w	يُسۡقَىٰ	ﲚ	يسقى	watered	yus'qā
+11	13:4:14	w	بِمَآءٖ	ﲛ	بماء	with water	bimāin
+11	13:4:15	w	وَٰحِدٖ	ﲜ	واحد	one	wāḥidin
+11	13:4:16	w	وَنُفَضِّلُ	ﲝ	ونفضل	but We cause to exceed	wanufaḍḍilu
+11	13:4:17	w	بَعۡضَهَا	ﲞ	بعضها	some of them	baʿḍahā
+11	13:4:18	w	عَلَىٰ	ﲟ	على	over	ʿalā
+11	13:4:19	w	بَعۡضٖ	ﲠ	بعض	others	baʿḍin
+12	13:4:20	w	فِي	ﲡ	في	in	fī
+12	13:4:21	w	ٱلۡأُكُلِۚ	ﲢﲣ	الاكل	the fruit	l-ukuli
+12	13:4:22	w	إِنَّ	ﲤ	ان	Indeed	inna
+12	13:4:23	w	فِي	ﲥ	في	in	fī
+12	13:4:24	w	ذَٰلِكَ	ﲦ	ذالك	that	dhālika
+12	13:4:25	w	لَأٓيَٰتٖ	ﲧ	لايات	surely (are) Signs	laāyātin
+12	13:4:26	w	لِّقَوۡمٖ	ﲨ	لقوم	for a people	liqawmin
+12	13:4:27	w	يَعۡقِلُونَ	ﲩ	يعقلون	who use reason	yaʿqilūna
+12	13:4:28	e	٤	ﲪ			
+12	13:5:1	w	۞ وَإِن	ﲫ ﲬ	۞ وان	And if	wa-in
+12	13:5:2	w	تَعۡجَبۡ	ﲭ	تعجب	you (are) astonished	taʿjab
+13	13:5:3	w	فَعَجَبٞ	ﲮ	فعجب	then astonishing	faʿajabun
+13	13:5:4	w	قَوۡلُهُمۡ	ﲯ	قولهم	(is) their saying	qawluhum
+13	13:5:5	w	أَءِذَا	ﲰ	ااذا	When	a-idhā
+13	13:5:6	w	كُنَّا	ﲱ	كنا	we are	kunnā
+13	13:5:7	w	تُرَٰبًا	ﲲ	ترابا	dust	turāban
+13	13:5:8	w	أَءِنَّا	ﲳ	اانا	will we	a-innā
+13	13:5:9	w	لَفِي	ﲴ	لفي	(be) indeed, in	lafī
+13	13:5:10	w	خَلۡقٖ	ﲵ	خلق	a creation	khalqin
+13	13:5:11	w	جَدِيدٍۗ	ﲶﲷ	جديد	new	jadīdin
+14	13:5:12	w	أُوْلَٰٓئِكَ	ﲸ	اولايك	Those	ulāika
+14	13:5:13	w	ٱلَّذِينَ	ﲹ	الذين	(are) the ones who	alladhīna
+14	13:5:14	w	كَفَرُواْ	ﲺ	كفروا	disbelieved	kafarū
+14	13:5:15	w	بِرَبِّهِمۡۖ	ﲻﲼ	بربهم	in their Lord	birabbihim
+14	13:5:16	w	وَأُوْلَٰٓئِكَ	ﲽ	واولايك	and those	wa-ulāika
+14	13:5:17	w	ٱلۡأَغۡلَٰلُ	ﲾ	الاغلال	the iron chains	l-aghlālu
+14	13:5:18	w	فِيٓ	ﲿ	في	(will be) in	fī
+15	13:5:19	w	أَعۡنَاقِهِمۡۖ	ﳀﳁ	اعناقهم	their necks	aʿnāqihim
+15	13:5:20	w	وَأُوْلَٰٓئِكَ	ﳂ	واولايك	those	wa-ulāika
+15	13:5:21	w	أَصۡحَٰبُ	ﳃ	اصحاب	(are the) companions	aṣḥābu
+15	13:5:22	w	ٱلنَّارِۖ	ﳄﳅ	النار	(of) the Fire	l-nāri
+15	13:5:23	w	هُمۡ	ﳆ	هم	they	hum
+15	13:5:24	w	فِيهَا	ﳇ	فيها	in it	fīhā
+15	13:5:25	w	خَٰلِدُونَ	ﳈ	خالدون	(will) abide forever	khālidūna
+15	13:5:26	e	٥	ﳉ			

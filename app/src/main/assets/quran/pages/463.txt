@@ -1,0 +1,136 @@
+1	39:41:1	w	إِنَّآ	ﱁ	انا	Indeed We	innā
+1	39:41:2	w	أَنزَلۡنَا	ﱂ	انزلنا	We revealed	anzalnā
+1	39:41:3	w	عَلَيۡكَ	ﱃ	عليك	to you	ʿalayka
+1	39:41:4	w	ٱلۡكِتَٰبَ	ﱄ	الكتاب	the Book	l-kitāba
+1	39:41:5	w	لِلنَّاسِ	ﱅ	للناس	for [the] mankind	lilnnāsi
+1	39:41:6	w	بِٱلۡحَقِّۖ	ﱆﱇ	بالحق	in truth	bil-ḥaqi
+1	39:41:7	w	فَمَنِ	ﱈ	فمن	So whoever	famani
+1	39:41:8	w	ٱهۡتَدَىٰ	ﱉ	اهتدى	accepts guidance	ih'tadā
+2	39:41:9	w	فَلِنَفۡسِهِۦۖ	ﱊﱋ	فلنفسه	then (it is) for his soul	falinafsihi
+2	39:41:10	w	وَمَن	ﱌ	ومن	and whoever	waman
+2	39:41:11	w	ضَلَّ	ﱍ	ضل	goes astray	ḍalla
+2	39:41:12	w	فَإِنَّمَا	ﱎ	فانما	then only	fa-innamā
+2	39:41:13	w	يَضِلُّ	ﱏ	يضل	he strays	yaḍillu
+2	39:41:14	w	عَلَيۡهَاۖ	ﱐﱑ	عليها	against his (soul)	ʿalayhā
+2	39:41:15	w	وَمَآ	ﱒ	وما	And not	wamā
+2	39:41:16	w	أَنتَ	ﱓ	انت	you	anta
+2	39:41:17	w	عَلَيۡهِم	ﱔ	عليهم	(are) over them	ʿalayhim
+3	39:41:18	w	بِوَكِيلٍ	ﱕ	بوكيل	a manager	biwakīlin
+3	39:41:19	e	٤١	ﱖ			
+3	39:42:1	w	ٱللَّهُ	ﱗ	الله	Allah	al-lahu
+3	39:42:2	w	يَتَوَفَّى	ﱘ	يتوفى	takes	yatawaffā
+3	39:42:3	w	ٱلۡأَنفُسَ	ﱙ	الانفس	the souls	l-anfusa
+3	39:42:4	w	حِينَ	ﱚ	حين	(at the) time	ḥīna
+3	39:42:5	w	مَوۡتِهَا	ﱛ	موتها	(of) their death	mawtihā
+3	39:42:6	w	وَٱلَّتِي	ﱜ	والتي	and the one who	wa-allatī
+4	39:42:7	w	لَمۡ	ﱝ	لم	(does) not	lam
+4	39:42:8	w	تَمُتۡ	ﱞ	تمت	die	tamut
+4	39:42:9	w	فِي	ﱟ	في	in	fī
+4	39:42:10	w	مَنَامِهَاۖ	ﱠﱡ	منامها	their sleep	manāmihā
+4	39:42:11	w	فَيُمۡسِكُ	ﱢ	فيمسك	Then He keeps	fayum'siku
+4	39:42:12	w	ٱلَّتِي	ﱣ	التي	the one whom	allatī
+4	39:42:13	w	قَضَىٰ	ﱤ	قضى	He has decreed	qaḍā
+4	39:42:14	w	عَلَيۡهَا	ﱥ	عليها	for them	ʿalayhā
+4	39:42:15	w	ٱلۡمَوۡتَ	ﱦ	الموت	the death	l-mawta
+5	39:42:16	w	وَيُرۡسِلُ	ﱧ	ويرسل	and sends	wayur'silu
+5	39:42:17	w	ٱلۡأُخۡرَىٰٓ	ﱨ	الاخرى	the others	l-ukh'rā
+5	39:42:18	w	إِلَىٰٓ	ﱩ	الى	for	ilā
+5	39:42:19	w	أَجَلٖ	ﱪ	اجل	a term	ajalin
+5	39:42:20	w	مُّسَمًّىۚ	ﱫﱬ	مسمى	specified	musamman
+5	39:42:21	w	إِنَّ	ﱭ	ان	Indeed	inna
+5	39:42:22	w	فِي	ﱮ	في	in	fī
+5	39:42:23	w	ذَٰلِكَ	ﱯ	ذالك	that	dhālika
+5	39:42:24	w	لَأٓيَٰتٖ	ﱰ	لايات	surely (are) signs	laāyātin
+5	39:42:25	w	لِّقَوۡمٖ	ﱱ	لقوم	for a people	liqawmin
+6	39:42:26	w	يَتَفَكَّرُونَ	ﱲ	يتفكرون	who ponder	yatafakkarūna
+6	39:42:27	e	٤٢	ﱳ			
+6	39:43:1	w	أَمِ	ﱴ	ام	Or	ami
+6	39:43:2	w	ٱتَّخَذُواْ	ﱵ	اتخذوا	have they taken	ittakhadhū
+6	39:43:3	w	مِن	ﱶ	من	besides	min
+6	39:43:4	w	دُونِ	ﱷ	دون	besides	dūni
+6	39:43:5	w	ٱللَّهِ	ﱸ	الله	Allah	l-lahi
+6	39:43:6	w	شُفَعَآءَۚ	ﱹﱺ	شفعاء	intercessors	shufaʿāa
+6	39:43:7	w	قُلۡ	ﱻ	قل	Say	qul
+7	39:43:8	w	أَوَلَوۡ	ﱼ	اولو	Even though	awalaw
+7	39:43:9	w	كَانُواْ	ﱽ	كانوا	they were	kānū
+7	39:43:10	w	لَا	ﱾ	لا	not	lā
+7	39:43:11	w	يَمۡلِكُونَ	ﱿ	يملكون	possessing	yamlikūna
+7	39:43:12	w	شَيۡـٔٗا	ﲀ	شييا	anything	shayan
+7	39:43:13	w	وَلَا	ﲁ	ولا	and not	walā
+7	39:43:14	w	يَعۡقِلُونَ	ﲂ	يعقلون	they understand	yaʿqilūna
+7	39:43:15	e	٤٣	ﲃ			
+7	39:44:1	w	قُل	ﲄ	قل	Say	qul
+8	39:44:2	w	لِّلَّهِ	ﲅ	لله	To Allah (belongs)	lillahi
+8	39:44:3	w	ٱلشَّفَٰعَةُ	ﲆ	الشفاعة	the intercession	l-shafāʿatu
+8	39:44:4	w	جَمِيعٗاۖ	ﲇﲈ	جميعا	all	jamīʿan
+8	39:44:5	w	لَّهُۥ	ﲉ	له	For Him	lahu
+8	39:44:6	w	مُلۡكُ	ﲊ	ملك	(is the) dominion	mul'ku
+8	39:44:7	w	ٱلسَّمَٰوَٰتِ	ﲋ	السماوات	(of) the heavens	l-samāwāti
+8	39:44:8	w	وَٱلۡأَرۡضِۖ	ﲌﲍ	والارض	and the earth	wal-arḍi
+8	39:44:9	w	ثُمَّ	ﲎ	ثم	Then	thumma
+9	39:44:10	w	إِلَيۡهِ	ﲏ	اليه	to Him	ilayhi
+9	39:44:11	w	تُرۡجَعُونَ	ﲐ	ترجعون	you will be returned	tur'jaʿūna
+9	39:44:12	e	٤٤	ﲑ			
+9	39:45:1	w	وَإِذَا	ﲒ	واذا	And when	wa-idhā
+9	39:45:2	w	ذُكِرَ	ﲓ	ذكر	Allah is mentioned	dhukira
+9	39:45:3	w	ٱللَّهُ	ﲔ	الله	Allah is mentioned	l-lahu
+9	39:45:4	w	وَحۡدَهُ	ﲕ	وحده	Alone	waḥdahu
+9	39:45:5	w	ٱشۡمَأَزَّتۡ	ﲖ	اشمازت	shrink with aversion	ish'ma-azzat
+10	39:45:6	w	قُلُوبُ	ﲗ	قلوب	(the) hearts	qulūbu
+10	39:45:7	w	ٱلَّذِينَ	ﲘ	الذين	(of) those who	alladhīna
+10	39:45:8	w	لَا	ﲙ	لا	(do) not	lā
+10	39:45:9	w	يُؤۡمِنُونَ	ﲚ	يومنون	believe	yu'minūna
+10	39:45:10	w	بِٱلۡأٓخِرَةِۖ	ﲛﲜ	بالاخرة	in the Hereafter	bil-ākhirati
+10	39:45:11	w	وَإِذَا	ﲝ	واذا	and when	wa-idhā
+10	39:45:12	w	ذُكِرَ	ﲞ	ذكر	are mentioned	dhukira
+10	39:45:13	w	ٱلَّذِينَ	ﲟ	الذين	those	alladhīna
+10	39:45:14	w	مِن	ﲠ	من	besides Him	min
+11	39:45:15	w	دُونِهِۦٓ	ﲡ	دونه	besides Him	dūnihi
+11	39:45:16	w	إِذَا	ﲢ	اذا	behold	idhā
+11	39:45:17	w	هُمۡ	ﲣ	هم	They	hum
+11	39:45:18	w	يَسۡتَبۡشِرُونَ	ﲤ	يستبشرون	rejoice	yastabshirūna
+11	39:45:19	e	٤٥	ﲥ			
+11	39:46:1	w	قُلِ	ﲦ	قل	Say	quli
+11	39:46:2	w	ٱللَّهُمَّ	ﲧ	اللهم	O Allah	l-lahuma
+11	39:46:3	w	فَاطِرَ	ﲨ	فاطر	Creator	fāṭira
+11	39:46:4	w	ٱلسَّمَٰوَٰتِ	ﲩ	السماوات	(of) the heavens	l-samāwāti
+12	39:46:5	w	وَٱلۡأَرۡضِ	ﲪ	والارض	and the earth	wal-arḍi
+12	39:46:6	w	عَٰلِمَ	ﲫ	عالم	Knower	ʿālima
+12	39:46:7	w	ٱلۡغَيۡبِ	ﲬ	الغيب	(of) the unseen	l-ghaybi
+12	39:46:8	w	وَٱلشَّهَٰدَةِ	ﲭ	والشهادة	and the witnessed	wal-shahādati
+12	39:46:9	w	أَنتَ	ﲮ	انت	You	anta
+12	39:46:10	w	تَحۡكُمُ	ﲯ	تحكم	will judge	taḥkumu
+12	39:46:11	w	بَيۡنَ	ﲰ	بين	between	bayna
+12	39:46:12	w	عِبَادِكَ	ﲱ	عبادك	Your slaves	ʿibādika
+13	39:46:13	w	فِي	ﲲ	في	in	fī
+13	39:46:14	w	مَا	ﲳ	ما	what	mā
+13	39:46:15	w	كَانُواْ	ﲴ	كانوا	they used to	kānū
+13	39:46:16	w	فِيهِ	ﲵ	فيه	therein	fīhi
+13	39:46:17	w	يَخۡتَلِفُونَ	ﲶ	يختلفون	differ	yakhtalifūna
+13	39:46:18	e	٤٦	ﲷ			
+13	39:47:1	w	وَلَوۡ	ﲸ	ولو	And if	walaw
+13	39:47:2	w	أَنَّ	ﲹ	ان	And if	anna
+13	39:47:3	w	لِلَّذِينَ	ﲺ	للذين	those who	lilladhīna
+13	39:47:4	w	ظَلَمُواْ	ﲻ	ظلموا	did wrong	ẓalamū
+13	39:47:5	w	مَا	ﲼ	ما	(had) whatever	mā
+13	39:47:6	w	فِي	ﲽ	في	(is) in	fī
+14	39:47:7	w	ٱلۡأَرۡضِ	ﲾ	الارض	the earth	l-arḍi
+14	39:47:8	w	جَمِيعٗا	ﲿ	جميعا	all	jamīʿan
+14	39:47:9	w	وَمِثۡلَهُۥ	ﳀ	ومثله	and (the) like of it	wamith'lahu
+14	39:47:10	w	مَعَهُۥ	ﳁ	معه	with it	maʿahu
+14	39:47:11	w	لَٱفۡتَدَوۡاْ	ﳂ	لافتدوا	they would ransom	la-if'tadaw
+14	39:47:12	w	بِهِۦ	ﳃ	به	with it	bihi
+14	39:47:13	w	مِن	ﳄ	من	from	min
+14	39:47:14	w	سُوٓءِ	ﳅ	سوء	(the) evil	sūi
+14	39:47:15	w	ٱلۡعَذَابِ	ﳆ	العذاب	(of) the punishment	l-ʿadhābi
+15	39:47:16	w	يَوۡمَ	ﳇ	يوم	(on the) Day	yawma
+15	39:47:17	w	ٱلۡقِيَٰمَةِۚ	ﳈﳉ	القيامة	(of) the Resurrection	l-qiyāmati
+15	39:47:18	w	وَبَدَا	ﳊ	وبدا	And (will) appear	wabadā
+15	39:47:19	w	لَهُم	ﳋ	لهم	to them	lahum
+15	39:47:20	w	مِّنَ	ﳌ	من	from	mina
+15	39:47:21	w	ٱللَّهِ	ﳍ	الله	Allah	l-lahi
+15	39:47:22	w	مَا	ﳎ	ما	what	mā
+15	39:47:23	w	لَمۡ	ﳏ	لم	not	lam
+15	39:47:24	w	يَكُونُواْ	ﳐ	يكونوا	they had	yakūnū
+15	39:47:25	w	يَحۡتَسِبُونَ	ﳑ	يحتسبون	taken into account	yaḥtasibūna
+15	39:47:26	e	٤٧	ﳒ			

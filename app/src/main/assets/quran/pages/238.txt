@@ -1,0 +1,143 @@
+1	12:23:1	w	وَرَٰوَدَتۡهُ	ﱁ	وراودته	And sought to seduce him	warāwadathu
+1	12:23:2	w	ٱلَّتِي	ﱂ	التي	she who	allatī
+1	12:23:3	w	هُوَ	ﱃ	هو	he (was)	huwa
+1	12:23:4	w	فِي	ﱄ	في	in	fī
+1	12:23:5	w	بَيۡتِهَا	ﱅ	بيتها	her house	baytihā
+1	12:23:6	w	عَن	ﱆ	عن	from	ʿan
+1	12:23:7	w	نَّفۡسِهِۦ	ﱇ	نفسه	his self	nafsihi
+1	12:23:8	w	وَغَلَّقَتِ	ﱈ	وغلقت	And she closed	waghallaqati
+1	12:23:9	w	ٱلۡأَبۡوَٰبَ	ﱉ	الابواب	the doors	l-abwāba
+2	12:23:10	w	وَقَالَتۡ	ﱊ	وقالت	and she said	waqālat
+2	12:23:11	w	هَيۡتَ	ﱋ	هيت	Come on	hayta
+2	12:23:12	w	لَكَۚ	ﱌﱍ	لك	you	laka
+2	12:23:13	w	قَالَ	ﱎ	قال	He said	qāla
+2	12:23:14	w	مَعَاذَ	ﱏ	معاذ	I seek refuge in Allah	maʿādha
+2	12:23:15	w	ٱللَّهِۖ	ﱐﱑ	الله	I seek refuge in Allah	l-lahi
+2	12:23:16	w	إِنَّهُۥ	ﱒ	انه	Indeed, he	innahu
+2	12:23:17	w	رَبِّيٓ	ﱓ	ربي	(is) my lord	rabbī
+2	12:23:18	w	أَحۡسَنَ	ﱔ	احسن	(who has) made good	aḥsana
+2	12:23:19	w	مَثۡوَايَۖ	ﱕﱖ	مثواي	my stay	mathwāya
+3	12:23:20	w	إِنَّهُۥ	ﱗ	انه	Indeed	innahu
+3	12:23:21	w	لَا	ﱘ	لا	not	lā
+3	12:23:22	w	يُفۡلِحُ	ﱙ	يفلح	will succeed	yuf'liḥu
+3	12:23:23	w	ٱلظَّٰلِمُونَ	ﱚ	الظالمون	the wrongdoers	l-ẓālimūna
+3	12:23:24	e	٢٣	ﱛ			
+3	12:24:1	w	وَلَقَدۡ	ﱜ	ولقد	And certainly	walaqad
+3	12:24:2	w	هَمَّتۡ	ﱝ	همت	she did desire	hammat
+3	12:24:3	w	بِهِۦۖ	ﱞﱟ	به	him	bihi
+3	12:24:4	w	وَهَمَّ	ﱠ	وهم	and he would have desired	wahamma
+3	12:24:5	w	بِهَا	ﱡ	بها	her	bihā
+4	12:24:6	w	لَوۡلَآ	ﱢ	لولا	if not	lawlā
+4	12:24:7	w	أَن	ﱣ	ان	that	an
+4	12:24:8	w	رَّءَا	ﱤ	راى	he saw	raā
+4	12:24:9	w	بُرۡهَٰنَ	ﱥ	برهان	the proof	bur'hāna
+4	12:24:10	w	رَبِّهِۦۚ	ﱦﱧ	ربه	(of) his Lord	rabbihi
+4	12:24:11	w	كَذَٰلِكَ	ﱨ	كذالك	Thus	kadhālika
+4	12:24:12	w	لِنَصۡرِفَ	ﱩ	لنصرف	that We might avert	linaṣrifa
+4	12:24:13	w	عَنۡهُ	ﱪ	عنه	from him	ʿanhu
+4	12:24:14	w	ٱلسُّوٓءَ	ﱫ	السوء	the evil	l-sūa
+5	12:24:15	w	وَٱلۡفَحۡشَآءَۚ	ﱬﱭ	والفحشاء	and the immorality	wal-faḥshāa
+5	12:24:16	w	إِنَّهُۥ	ﱮ	انه	Indeed, he	innahu
+5	12:24:17	w	مِنۡ	ﱯ	من	(was) of	min
+5	12:24:18	w	عِبَادِنَا	ﱰ	عبادنا	Our slaves	ʿibādinā
+5	12:24:19	w	ٱلۡمُخۡلَصِينَ	ﱱ	المخلصين	the sincere	l-mukh'laṣīna
+5	12:24:20	e	٢٤	ﱲ			
+5	12:25:1	w	وَٱسۡتَبَقَا	ﱳ	واستبقا	And they both raced	wa-is'tabaqā
+6	12:25:2	w	ٱلۡبَابَ	ﱴ	الباب	(to) the door	l-bāba
+6	12:25:3	w	وَقَدَّتۡ	ﱵ	وقدت	and she tore	waqaddat
+6	12:25:4	w	قَمِيصَهُۥ	ﱶ	قميصه	his shirt	qamīṣahu
+6	12:25:5	w	مِن	ﱷ	من	from	min
+6	12:25:6	w	دُبُرٖ	ﱸ	دبر	the back	duburin
+6	12:25:7	w	وَأَلۡفَيَا	ﱹ	والفيا	and they both found	wa-alfayā
+6	12:25:8	w	سَيِّدَهَا	ﱺ	سيدها	her husband	sayyidahā
+6	12:25:9	w	لَدَا	ﱻ	لدى	at	ladā
+6	12:25:10	w	ٱلۡبَابِۚ	ﱼﱽ	الباب	the door	l-bābi
+7	12:25:11	w	قَالَتۡ	ﱾ	قالت	She said	qālat
+7	12:25:12	w	مَا	ﱿ	ما	What	mā
+7	12:25:13	w	جَزَآءُ	ﲀ	جزاء	(is) the recompense	jazāu
+7	12:25:14	w	مَنۡ	ﲁ	من	(of one) who	man
+7	12:25:15	w	أَرَادَ	ﲂ	اراد	intended	arāda
+7	12:25:16	w	بِأَهۡلِكَ	ﲃ	باهلك	for your wife	bi-ahlika
+7	12:25:17	w	سُوٓءًا	ﲄ	سوءا	evil	sūan
+7	12:25:18	w	إِلَّآ	ﲅ	الا	except	illā
+7	12:25:19	w	أَن	ﲆ	ان	that	an
+7	12:25:20	w	يُسۡجَنَ	ﲇ	يسجن	he be imprisoned	yus'jana
+7	12:25:21	w	أَوۡ	ﲈ	او	or	aw
+7	12:25:22	w	عَذَابٌ	ﲉ	عذاب	a punishment	ʿadhābun
+8	12:25:23	w	أَلِيمٞ	ﲊ	اليم	painful	alīmun
+8	12:25:24	e	٢٥	ﲋ			
+8	12:26:1	w	قَالَ	ﲌ	قال	He said	qāla
+8	12:26:2	w	هِيَ	ﲍ	هي	She	hiya
+8	12:26:3	w	رَٰوَدَتۡنِي	ﲎ	راودتني	sought to seduce me	rāwadatnī
+8	12:26:4	w	عَن	ﲏ	عن	about	ʿan
+8	12:26:5	w	نَّفۡسِيۚ	ﲐﲑ	نفسي	myself	nafsī
+8	12:26:6	w	وَشَهِدَ	ﲒ	وشهد	And testified	washahida
+8	12:26:7	w	شَاهِدٞ	ﲓ	شاهد	a witness	shāhidun
+8	12:26:8	w	مِّنۡ	ﲔ	من	of	min
+9	12:26:9	w	أَهۡلِهَآ	ﲕ	اهلها	her family	ahlihā
+9	12:26:10	w	إِن	ﲖ	ان	If	in
+9	12:26:11	w	كَانَ	ﲗ	كان	[is]	kāna
+9	12:26:12	w	قَمِيصُهُۥ	ﲘ	قميصه	his shirt	qamīṣuhu
+9	12:26:13	w	قُدَّ	ﲙ	قد	(is) torn	qudda
+9	12:26:14	w	مِن	ﲚ	من	from	min
+9	12:26:15	w	قُبُلٖ	ﲛ	قبل	the front	qubulin
+9	12:26:16	w	فَصَدَقَتۡ	ﲜ	فصدقت	then she has spoken the truth	faṣadaqat
+9	12:26:17	w	وَهُوَ	ﲝ	وهو	and he	wahuwa
+9	12:26:18	w	مِنَ	ﲞ	من	(is) of	mina
+10	12:26:19	w	ٱلۡكَٰذِبِينَ	ﲟ	الكاذبين	the liars	l-kādhibīna
+10	12:26:20	e	٢٦	ﲠ			
+10	12:27:1	w	وَإِن	ﲡ	وان	But if	wa-in
+10	12:27:2	w	كَانَ	ﲢ	كان	[is]	kāna
+10	12:27:3	w	قَمِيصُهُۥ	ﲣ	قميصه	his shirt	qamīṣuhu
+10	12:27:4	w	قُدَّ	ﲤ	قد	(is) torn	qudda
+10	12:27:5	w	مِن	ﲥ	من	from	min
+10	12:27:6	w	دُبُرٖ	ﲦ	دبر	(the) back	duburin
+10	12:27:7	w	فَكَذَبَتۡ	ﲧ	فكذبت	then she has lied	fakadhabat
+10	12:27:8	w	وَهُوَ	ﲨ	وهو	and he	wahuwa
+11	12:27:9	w	مِنَ	ﲩ	من	(is) of	mina
+11	12:27:10	w	ٱلصَّٰدِقِينَ	ﲪ	الصادقين	the truthful	l-ṣādiqīna
+11	12:27:11	e	٢٧	ﲫ			
+11	12:28:1	w	فَلَمَّا	ﲬ	فلما	So when	falammā
+11	12:28:2	w	رَءَا	ﲭ	راى	he saw	raā
+11	12:28:3	w	قَمِيصَهُۥ	ﲮ	قميصه	his shirt	qamīṣahu
+11	12:28:4	w	قُدَّ	ﲯ	قد	torn	qudda
+11	12:28:5	w	مِن	ﲰ	من	from	min
+11	12:28:6	w	دُبُرٖ	ﲱ	دبر	(the) back	duburin
+11	12:28:7	w	قَالَ	ﲲ	قال	he said	qāla
+11	12:28:8	w	إِنَّهُۥ	ﲳ	انه	Indeed, it	innahu
+12	12:28:9	w	مِن	ﲴ	من	(is) of	min
+12	12:28:10	w	كَيۡدِكُنَّۖ	ﲵﲶ	كيدكن	your plot	kaydikunna
+12	12:28:11	w	إِنَّ	ﲷ	ان	Indeed	inna
+12	12:28:12	w	كَيۡدَكُنَّ	ﲸ	كيدكن	your plot	kaydakunna
+12	12:28:13	w	عَظِيمٞ	ﲹ	عظيم	(is) great	ʿaẓīmun
+12	12:28:14	e	٢٨	ﲺ			
+12	12:29:1	w	يُوسُفُ	ﲻ	يوسف	Yusuf	yūsufu
+12	12:29:2	w	أَعۡرِضۡ	ﲼ	اعرض	turn away	aʿriḍ
+12	12:29:3	w	عَنۡ	ﲽ	عن	from	ʿan
+13	12:29:4	w	هَٰذَاۚ	ﲾﲿ	هاذا	this	hādhā
+13	12:29:5	w	وَٱسۡتَغۡفِرِي	ﳀ	واستغفري	And ask forgiveness	wa-is'taghfirī
+13	12:29:6	w	لِذَنۢبِكِۖ	ﳁﳂ	لذنبك	for your sin	lidhanbiki
+13	12:29:7	w	إِنَّكِ	ﳃ	انك	Indeed, you	innaki
+13	12:29:8	w	كُنتِ	ﳄ	كنت	are	kunti
+13	12:29:9	w	مِنَ	ﳅ	من	of	mina
+13	12:29:10	w	ٱلۡخَاطِـِٔينَ	ﳆ	الخاطيين	the sinful	l-khāṭiīna
+14	12:29:11	e	٢٩	ﳇ			
+14	12:30:1	w	۞ وَقَالَ	ﳈ ﳉ	۞ وقال	And said	waqāla
+14	12:30:2	w	نِسۡوَةٞ	ﳊ	نسوة	women	nis'watun
+14	12:30:3	w	فِي	ﳋ	في	in	fī
+14	12:30:4	w	ٱلۡمَدِينَةِ	ﳌ	المدينة	the city	l-madīnati
+14	12:30:5	w	ٱمۡرَأَتُ	ﳍ	امرات	The wife of	im'ra-atu
+14	12:30:6	w	ٱلۡعَزِيزِ	ﳎ	العزيز	Aziz	l-ʿazīzi
+14	12:30:7	w	تُرَٰوِدُ	ﳏ	تراود	(is) seeking to seduce	turāwidu
+14	12:30:8	w	فَتَىٰهَا	ﳐ	فتاها	her slave boy	fatāhā
+15	12:30:9	w	عَن	ﳑ	عن	about	ʿan
+15	12:30:10	w	نَّفۡسِهِۦۖ	ﳒﳓ	نفسه	himself	nafsihi
+15	12:30:11	w	قَدۡ	ﳔ	قد	indeed	qad
+15	12:30:12	w	شَغَفَهَا	ﳕ	شغفها	he has impassioned her	shaghafahā
+15	12:30:13	w	حُبًّاۖ	ﳖﳗ	حبا	(with) love	ḥubban
+15	12:30:14	w	إِنَّا	ﳘ	انا	Indeed, we	innā
+15	12:30:15	w	لَنَرَىٰهَا	ﳙ	لنراها	[we] surely see her	lanarāhā
+15	12:30:16	w	فِي	ﳚ	في	in	fī
+15	12:30:17	w	ضَلَٰلٖ	ﳛ	ضلال	an error	ḍalālin
+15	12:30:18	w	مُّبِينٖ	ﳜ	مبين	clear	mubīnin
+15	12:30:19	e	٣٠	ﳝ			

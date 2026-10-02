@@ -1,0 +1,129 @@
+1	5:32:1	w	مِنۡ	ﱁ	من	From	min
+1	5:32:2	w	أَجۡلِ	ﱂ	اجل	time	ajli
+1	5:32:3	w	ذَٰلِكَ	ﱃ	ذالك	that	dhālika
+1	5:32:4	w	كَتَبۡنَا	ﱄ	كتبنا	We ordained	katabnā
+1	5:32:5	w	عَلَىٰ	ﱅ	على	on	ʿalā
+1	5:32:6	w	بَنِيٓ	ﱆ	بني	(the) Children	banī
+1	5:32:7	w	إِسۡرَٰٓءِيلَ	ﱇ	اسراييل	(of) Israel	is'rāīla
+1	5:32:8	w	أَنَّهُۥ	ﱈ	انه	that he	annahu
+1	5:32:9	w	مَن	ﱉ	من	who	man
+1	5:32:10	w	قَتَلَ	ﱊ	قتل	kills	qatala
+2	5:32:11	w	نَفۡسَۢا	ﱋ	نفسا	a soul	nafsan
+2	5:32:12	w	بِغَيۡرِ	ﱌ	بغير	other than	bighayri
+2	5:32:13	w	نَفۡسٍ	ﱍ	نفس	(for) a soul	nafsin
+2	5:32:14	w	أَوۡ	ﱎ	او	or	aw
+2	5:32:15	w	فَسَادٖ	ﱏ	فساد	(for) spreading corruption	fasādin
+2	5:32:16	w	فِي	ﱐ	في	in	fī
+2	5:32:17	w	ٱلۡأَرۡضِ	ﱑ	الارض	the earth	l-arḍi
+2	5:32:18	w	فَكَأَنَّمَا	ﱒ	فكانما	then (it) is as if	faka-annamā
+2	5:32:19	w	قَتَلَ	ﱓ	قتل	he has killed	qatala
+3	5:32:20	w	ٱلنَّاسَ	ﱔ	الناس	mankind	l-nāsa
+3	5:32:21	w	جَمِيعٗا	ﱕ	جميعا	all	jamīʿan
+3	5:32:22	w	وَمَنۡ	ﱖ	ومن	and whoever	waman
+3	5:32:23	w	أَحۡيَاهَا	ﱗ	احياها	saves it	aḥyāhā
+3	5:32:24	w	فَكَأَنَّمَآ	ﱘ	فكانما	then (it) is as if	faka-annamā
+3	5:32:25	w	أَحۡيَا	ﱙ	احيا	he has saved	aḥyā
+3	5:32:26	w	ٱلنَّاسَ	ﱚ	الناس	mankind	l-nāsa
+4	5:32:27	w	جَمِيعٗاۚ	ﱛﱜ	جميعا	all	jamīʿan
+4	5:32:28	w	وَلَقَدۡ	ﱝ	ولقد	And surely	walaqad
+4	5:32:29	w	جَآءَتۡهُمۡ	ﱞ	جاءتهم	came to them	jāathum
+4	5:32:30	w	رُسُلُنَا	ﱟ	رسلنا	Our Messengers	rusulunā
+4	5:32:31	w	بِٱلۡبَيِّنَٰتِ	ﱠ	بالبينات	with clear Signs	bil-bayināti
+4	5:32:32	w	ثُمَّ	ﱡ	ثم	yet	thumma
+4	5:32:33	w	إِنَّ	ﱢ	ان	indeed	inna
+4	5:32:34	w	كَثِيرٗا	ﱣ	كثيرا	many	kathīran
+5	5:32:35	w	مِّنۡهُم	ﱤ	منهم	of them	min'hum
+5	5:32:36	w	بَعۡدَ	ﱥ	بعد	after	baʿda
+5	5:32:37	w	ذَٰلِكَ	ﱦ	ذالك	that	dhālika
+5	5:32:38	w	فِي	ﱧ	في	in	fī
+5	5:32:39	w	ٱلۡأَرۡضِ	ﱨ	الارض	the earth	l-arḍi
+5	5:32:40	w	لَمُسۡرِفُونَ	ﱩ	لمسرفون	(are) surely those who commit excesses	lamus'rifūna
+5	5:32:41	e	٣٢	ﱪ			
+5	5:33:1	w	إِنَّمَا	ﱫ	انما	Only	innamā
+6	5:33:2	w	جَزَٰٓؤُاْ	ﱬ	جزاء	(the) recompense	jazāu
+6	5:33:3	w	ٱلَّذِينَ	ﱭ	الذين	(for) those who	alladhīna
+6	5:33:4	w	يُحَارِبُونَ	ﱮ	يحاربون	wage war	yuḥāribūna
+6	5:33:5	w	ٱللَّهَ	ﱯ	الله	(against) Allah	l-laha
+6	5:33:6	w	وَرَسُولَهُۥ	ﱰ	ورسوله	and His Messenger	warasūlahu
+6	5:33:7	w	وَيَسۡعَوۡنَ	ﱱ	ويسعون	and strive	wayasʿawna
+6	5:33:8	w	فِي	ﱲ	في	in	fī
+7	5:33:9	w	ٱلۡأَرۡضِ	ﱳ	الارض	the earth	l-arḍi
+7	5:33:10	w	فَسَادًا	ﱴ	فسادا	spreading corruption	fasādan
+7	5:33:11	w	أَن	ﱵ	ان	(is) that	an
+7	5:33:12	w	يُقَتَّلُوٓاْ	ﱶ	يقتلوا	they be killed	yuqattalū
+7	5:33:13	w	أَوۡ	ﱷ	او	or	aw
+7	5:33:14	w	يُصَلَّبُوٓاْ	ﱸ	يصلبوا	they be crucified	yuṣallabū
+7	5:33:15	w	أَوۡ	ﱹ	او	or	aw
+7	5:33:16	w	تُقَطَّعَ	ﱺ	تقطع	be cut off	tuqaṭṭaʿa
+7	5:33:17	w	أَيۡدِيهِمۡ	ﱻ	ايديهم	their hands	aydīhim
+8	5:33:18	w	وَأَرۡجُلُهُم	ﱼ	وارجلهم	and their feet	wa-arjuluhum
+8	5:33:19	w	مِّنۡ	ﱽ	من	of	min
+8	5:33:20	w	خِلَٰفٍ	ﱾ	خلاف	opposite sides	khilāfin
+8	5:33:21	w	أَوۡ	ﱿ	او	or	aw
+8	5:33:22	w	يُنفَوۡاْ	ﲀ	ينفوا	they be exiled	yunfaw
+8	5:33:23	w	مِنَ	ﲁ	من	from	mina
+8	5:33:24	w	ٱلۡأَرۡضِۚ	ﲂﲃ	الارض	the land	l-arḍi
+8	5:33:25	w	ذَٰلِكَ	ﲄ	ذالك	That	dhālika
+9	5:33:26	w	لَهُمۡ	ﲅ	لهم	(is) for them	lahum
+9	5:33:27	w	خِزۡيٞ	ﲆ	خزي	disgrace	khiz'yun
+9	5:33:28	w	فِي	ﲇ	في	in	fī
+9	5:33:29	w	ٱلدُّنۡيَاۖ	ﲈﲉ	الدنيا	the world	l-dun'yā
+9	5:33:30	w	وَلَهُمۡ	ﲊ	ولهم	and for them	walahum
+9	5:33:31	w	فِي	ﲋ	في	in	fī
+9	5:33:32	w	ٱلۡأٓخِرَةِ	ﲌ	الاخرة	the Hereafter	l-ākhirati
+9	5:33:33	w	عَذَابٌ	ﲍ	عذاب	(is) a punishment	ʿadhābun
+9	5:33:34	w	عَظِيمٌ	ﲎ	عظيم	great	ʿaẓīmun
+10	5:33:35	e	٣٣	ﲏ			
+10	5:34:1	w	إِلَّا	ﲐ	الا	Except	illā
+10	5:34:2	w	ٱلَّذِينَ	ﲑ	الذين	those who	alladhīna
+10	5:34:3	w	تَابُواْ	ﲒ	تابوا	repent	tābū
+10	5:34:4	w	مِن	ﲓ	من	from	min
+10	5:34:5	w	قَبۡلِ	ﲔ	قبل	before	qabli
+10	5:34:6	w	أَن	ﲕ	ان	that	an
+10	5:34:7	w	تَقۡدِرُواْ	ﲖ	تقدروا	you overpower	taqdirū
+10	5:34:8	w	عَلَيۡهِمۡۖ	ﲗﲘ	عليهم	[over] them	ʿalayhim
+10	5:34:9	w	فَٱعۡلَمُوٓاْ	ﲙ	فاعلموا	then know	fa-iʿ'lamū
+11	5:34:10	w	أَنَّ	ﲚ	ان	that	anna
+11	5:34:11	w	ٱللَّهَ	ﲛ	الله	Allah	l-laha
+11	5:34:12	w	غَفُورٞ	ﲜ	غفور	(is) Oft-Forgiving	ghafūrun
+11	5:34:13	w	رَّحِيمٞ	ﲝ	رحيم	Most Merciful	raḥīmun
+11	5:34:14	e	٣٤	ﲞ			
+11	5:35:1	w	يَٰٓأَيُّهَا	ﲟ	يا ايها	O you	yāayyuhā
+11	5:35:2	w	ٱلَّذِينَ	ﲠ	الذين	who	alladhīna
+11	5:35:3	w	ءَامَنُواْ	ﲡ	امنوا	believe	āmanū
+11	5:35:4	w	ٱتَّقُواْ	ﲢ	اتقوا	Fear	ittaqū
+12	5:35:5	w	ٱللَّهَ	ﲣ	الله	Allah	l-laha
+12	5:35:6	w	وَٱبۡتَغُوٓاْ	ﲤ	وابتغوا	and seek	wa-ib'taghū
+12	5:35:7	w	إِلَيۡهِ	ﲥ	اليه	towards Him	ilayhi
+12	5:35:8	w	ٱلۡوَسِيلَةَ	ﲦ	الوسيلة	the means	l-wasīlata
+12	5:35:9	w	وَجَٰهِدُواْ	ﲧ	وجاهدوا	and strive hard	wajāhidū
+12	5:35:10	w	فِي	ﲨ	في	in	fī
+12	5:35:11	w	سَبِيلِهِۦ	ﲩ	سبيله	His way	sabīlihi
+13	5:35:12	w	لَعَلَّكُمۡ	ﲪ	لعلكم	so that you may	laʿallakum
+13	5:35:13	w	تُفۡلِحُونَ	ﲫ	تفلحون	succeed	tuf'liḥūna
+13	5:35:14	e	٣٥	ﲬ			
+13	5:36:1	w	إِنَّ	ﲭ	ان	Indeed	inna
+13	5:36:2	w	ٱلَّذِينَ	ﲮ	الذين	those who	alladhīna
+13	5:36:3	w	كَفَرُواْ	ﲯ	كفروا	disbelieve	kafarū
+13	5:36:4	w	لَوۡ	ﲰ	لو	if	law
+13	5:36:5	w	أَنَّ	ﲱ	ان	that	anna
+13	5:36:6	w	لَهُم	ﲲ	لهم	for them	lahum
+14	5:36:7	w	مَّا	ﲳ	ما	(is) what	mā
+14	5:36:8	w	فِي	ﲴ	في	(is) in	fī
+14	5:36:9	w	ٱلۡأَرۡضِ	ﲵ	الارض	the earth	l-arḍi
+14	5:36:10	w	جَمِيعٗا	ﲶ	جميعا	all	jamīʿan
+14	5:36:11	w	وَمِثۡلَهُۥ	ﲷ	ومثله	and the like of it	wamith'lahu
+14	5:36:12	w	مَعَهُۥ	ﲸ	معه	with it	maʿahu
+14	5:36:13	w	لِيَفۡتَدُواْ	ﲹ	ليفتدوا	to ransom themselves	liyaftadū
+14	5:36:14	w	بِهِۦ	ﲺ	به	with it	bihi
+14	5:36:15	w	مِنۡ	ﲻ	من	from	min
+15	5:36:16	w	عَذَابِ	ﲼ	عذاب	(the) punishment	ʿadhābi
+15	5:36:17	w	يَوۡمِ	ﲽ	يوم	(of the) Day	yawmi
+15	5:36:18	w	ٱلۡقِيَٰمَةِ	ﲾ	القيامة	(of) the Resurrection	l-qiyāmati
+15	5:36:19	w	مَا	ﲿ	ما	not	mā
+15	5:36:20	w	تُقُبِّلَ	ﳀ	تقبل	will be accepted	tuqubbila
+15	5:36:21	w	مِنۡهُمۡۖ	ﳁﳂ	منهم	from them	min'hum
+15	5:36:22	w	وَلَهُمۡ	ﳃ	ولهم	and for them	walahum
+15	5:36:23	w	عَذَابٌ	ﳄ	عذاب	(is) a punishment	ʿadhābun
+15	5:36:24	w	أَلِيمٞ	ﳅ	اليم	painful	alīmun
+15	5:36:25	e	٣٦	ﳆ			

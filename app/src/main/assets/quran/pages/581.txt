@@ -1,0 +1,159 @@
+1	77:20:1	w	أَلَمۡ	ﱁ	الم	Did not	alam
+1	77:20:2	w	نَخۡلُقكُّم	ﱂ	نخلقكم	We create you	nakhluqkkum
+1	77:20:3	w	مِّن	ﱃ	من	from	min
+1	77:20:4	w	مَّآءٖ	ﱄ	ماء	a water	māin
+1	77:20:5	w	مَّهِينٖ	ﱅ	مهين	despicable	mahīnin
+1	77:20:6	e	٢٠	ﱆ			
+1	77:21:1	w	فَجَعَلۡنَٰهُ	ﱇ	فجعلناه	Then We placed it	fajaʿalnāhu
+1	77:21:2	w	فِي	ﱈ	في	in	fī
+1	77:21:3	w	قَرَارٖ	ﱉ	قرار	an abode	qarārin
+1	77:21:4	w	مَّكِينٍ	ﱊ	مكين	safe	makīnin
+1	77:21:5	e	٢١	ﱋ			
+1	77:22:1	w	إِلَىٰ	ﱌ	الى	For	ilā
+1	77:22:2	w	قَدَرٖ	ﱍ	قدر	a period	qadarin
+2	77:22:3	w	مَّعۡلُومٖ	ﱎ	معلوم	known	maʿlūmin
+2	77:22:4	e	٢٢	ﱏ			
+2	77:23:1	w	فَقَدَرۡنَا	ﱐ	فقدرنا	So We measured	faqadarnā
+2	77:23:2	w	فَنِعۡمَ	ﱑ	فنعم	and Best	faniʿ'ma
+2	77:23:3	w	ٱلۡقَٰدِرُونَ	ﱒ	القادرون	(are We to) measure	l-qādirūna
+2	77:23:4	e	٢٣	ﱓ			
+2	77:24:1	w	وَيۡلٞ	ﱔ	ويل	Woe	waylun
+2	77:24:2	w	يَوۡمَئِذٖ	ﱕ	يوميذ	that Day	yawma-idhin
+2	77:24:3	w	لِّلۡمُكَذِّبِينَ	ﱖ	للمكذبين	to the deniers	lil'mukadhibīna
+2	77:24:4	e	٢٤	ﱗ			
+3	77:25:1	w	أَلَمۡ	ﱘ	الم	Have not	alam
+3	77:25:2	w	نَجۡعَلِ	ﱙ	نجعل	We made	najʿali
+3	77:25:3	w	ٱلۡأَرۡضَ	ﱚ	الارض	the earth	l-arḍa
+3	77:25:4	w	كِفَاتًا	ﱛ	كفاتا	a receptacle	kifātan
+3	77:25:5	e	٢٥	ﱜ			
+3	77:26:1	w	أَحۡيَآءٗ	ﱝ	احياء	(For the) living	aḥyāan
+3	77:26:2	w	وَأَمۡوَٰتٗا	ﱞ	وامواتا	and (the) dead	wa-amwātan
+3	77:26:3	e	٢٦	ﱟ			
+3	77:27:1	w	وَجَعَلۡنَا	ﱠ	وجعلنا	And We made	wajaʿalnā
+3	77:27:2	w	فِيهَا	ﱡ	فيها	therein	fīhā
+3	77:27:3	w	رَوَٰسِيَ	ﱢ	رواسي	firmly set mountains	rawāsiya
+4	77:27:4	w	شَٰمِخَٰتٖ	ﱣ	شامخات	lofty	shāmikhātin
+4	77:27:5	w	وَأَسۡقَيۡنَٰكُم	ﱤ	واسقيناكم	and We gave you to drink	wa-asqaynākum
+4	77:27:6	w	مَّآءٗ	ﱥ	ماء	water	māan
+4	77:27:7	w	فُرَاتٗا	ﱦ	فراتا	sweet	furātan
+4	77:27:8	e	٢٧	ﱧ			
+4	77:28:1	w	وَيۡلٞ	ﱨ	ويل	Woe	waylun
+4	77:28:2	w	يَوۡمَئِذٖ	ﱩ	يوميذ	that Day	yawma-idhin
+4	77:28:3	w	لِّلۡمُكَذِّبِينَ	ﱪ	للمكذبين	to the deniers	lil'mukadhibīna
+4	77:28:4	e	٢٨	ﱫ			
+5	77:29:1	w	ٱنطَلِقُوٓاْ	ﱬ	انطلقوا	Proceed	inṭaliqū
+5	77:29:2	w	إِلَىٰ	ﱭ	الى	to	ilā
+5	77:29:3	w	مَا	ﱮ	ما	what	mā
+5	77:29:4	w	كُنتُم	ﱯ	كنتم	you used to	kuntum
+5	77:29:5	w	بِهِۦ	ﱰ	به	in it	bihi
+5	77:29:6	w	تُكَذِّبُونَ	ﱱ	تكذبون	deny	tukadhibūna
+5	77:29:7	e	٢٩	ﱲ			
+5	77:30:1	w	ٱنطَلِقُوٓاْ	ﱳ	انطلقوا	Proceed	inṭaliqū
+5	77:30:2	w	إِلَىٰ	ﱴ	الى	to	ilā
+5	77:30:3	w	ظِلّٖ	ﱵ	ظل	a shadow	ẓillin
+5	77:30:4	w	ذِي	ﱶ	ذي	having	dhī
+5	77:30:5	w	ثَلَٰثِ	ﱷ	ثلاث	three	thalāthi
+6	77:30:6	w	شُعَبٖ	ﱸ	شعب	columns	shuʿabin
+6	77:30:7	e	٣٠	ﱹ			
+6	77:31:1	w	لَّا	ﱺ	لا	No	lā
+6	77:31:2	w	ظَلِيلٖ	ﱻ	ظليل	cool shade	ẓalīlin
+6	77:31:3	w	وَلَا	ﱼ	ولا	and not	walā
+6	77:31:4	w	يُغۡنِي	ﱽ	يغني	availing	yugh'nī
+6	77:31:5	w	مِنَ	ﱾ	من	against	mina
+6	77:31:6	w	ٱللَّهَبِ	ﱿ	اللهب	the flame	l-lahabi
+6	77:31:7	e	٣١	ﲀ			
+6	77:32:1	w	إِنَّهَا	ﲁ	انها	Indeed, it	innahā
+6	77:32:2	w	تَرۡمِي	ﲂ	ترمي	throws up	tarmī
+6	77:32:3	w	بِشَرَرٖ	ﲃ	بشرر	sparks	bishararin
+7	77:32:4	w	كَٱلۡقَصۡرِ	ﲄ	كالقصر	as the fortress	kal-qaṣri
+7	77:32:5	e	٣٢	ﲅ			
+7	77:33:1	w	كَأَنَّهُۥ	ﲆ	كانه	As if they (were)	ka-annahu
+7	77:33:2	w	جِمَٰلَتٞ	ﲇ	جمالت	camels	jimālatun
+7	77:33:3	w	صُفۡرٞ	ﲈ	صفر	yellow	ṣuf'run
+7	77:33:4	e	٣٣	ﲉ			
+7	77:34:1	w	وَيۡلٞ	ﲊ	ويل	Woe	waylun
+7	77:34:2	w	يَوۡمَئِذٖ	ﲋ	يوميذ	that Day	yawma-idhin
+7	77:34:3	w	لِّلۡمُكَذِّبِينَ	ﲌ	للمكذبين	to the deniers	lil'mukadhibīna
+7	77:34:4	e	٣٤	ﲍ			
+8	77:35:1	w	هَٰذَا	ﲎ	هاذا	This	hādhā
+8	77:35:2	w	يَوۡمُ	ﲏ	يوم	(is) a Day	yawmu
+8	77:35:3	w	لَا	ﲐ	لا	not	lā
+8	77:35:4	w	يَنطِقُونَ	ﲑ	ينطقون	they will speak	yanṭiqūna
+8	77:35:5	e	٣٥	ﲒ			
+8	77:36:1	w	وَلَا	ﲓ	ولا	And not	walā
+8	77:36:2	w	يُؤۡذَنُ	ﲔ	يوذن	will it be permitted	yu'dhanu
+8	77:36:3	w	لَهُمۡ	ﲕ	لهم	for them	lahum
+8	77:36:4	w	فَيَعۡتَذِرُونَ	ﲖ	فيعتذرون	to make excuses	fayaʿtadhirūna
+8	77:36:5	e	٣٦	ﲗ			
+8	77:37:1	w	وَيۡلٞ	ﲘ	ويل	Woe	waylun
+8	77:37:2	w	يَوۡمَئِذٖ	ﲙ	يوميذ	that Day	yawma-idhin
+9	77:37:3	w	لِّلۡمُكَذِّبِينَ	ﲚ	للمكذبين	to the deniers	lil'mukadhibīna
+9	77:37:4	e	٣٧	ﲛ			
+9	77:38:1	w	هَٰذَا	ﲜ	هاذا	This	hādhā
+9	77:38:2	w	يَوۡمُ	ﲝ	يوم	(is the) Day	yawmu
+9	77:38:3	w	ٱلۡفَصۡلِۖ	ﲞﲟ	الفصل	(of) Judgment	l-faṣli
+9	77:38:4	w	جَمَعۡنَٰكُمۡ	ﲠ	جمعناكم	We have gathered you	jamaʿnākum
+9	77:38:5	w	وَٱلۡأَوَّلِينَ	ﲡ	والاولين	and the former (people)	wal-awalīna
+9	77:38:6	e	٣٨	ﲢ			
+9	77:39:1	w	فَإِن	ﲣ	فان	So if	fa-in
+9	77:39:2	w	كَانَ	ﲤ	كان	is	kāna
+10	77:39:3	w	لَكُمۡ	ﲥ	لكم	for you	lakum
+10	77:39:4	w	كَيۡدٞ	ﲦ	كيد	a plan	kaydun
+10	77:39:5	w	فَكِيدُونِ	ﲧ	فكيدون	then plan against Me	fakīdūni
+10	77:39:6	e	٣٩	ﲨ			
+10	77:40:1	w	وَيۡلٞ	ﲩ	ويل	Woe	waylun
+10	77:40:2	w	يَوۡمَئِذٖ	ﲪ	يوميذ	that Day	yawma-idhin
+10	77:40:3	w	لِّلۡمُكَذِّبِينَ	ﲫ	للمكذبين	to the deniers	lil'mukadhibīna
+10	77:40:4	e	٤٠	ﲬ			
+10	77:41:1	w	إِنَّ	ﲭ	ان	Indeed	inna
+10	77:41:2	w	ٱلۡمُتَّقِينَ	ﲮ	المتقين	the righteous	l-mutaqīna
+11	77:41:3	w	فِي	ﲯ	في	(will be) in	fī
+11	77:41:4	w	ظِلَٰلٖ	ﲰ	ظلال	shades	ẓilālin
+11	77:41:5	w	وَعُيُونٖ	ﲱ	وعيون	and springs	waʿuyūnin
+11	77:41:6	e	٤١	ﲲ			
+11	77:42:1	w	وَفَوَٰكِهَ	ﲳ	وفواكه	And fruits	wafawākiha
+11	77:42:2	w	مِمَّا	ﲴ	مما	from what	mimmā
+11	77:42:3	w	يَشۡتَهُونَ	ﲵ	يشتهون	they desire	yashtahūna
+11	77:42:4	e	٤٢	ﲶ			
+11	77:43:1	w	كُلُواْ	ﲷ	كلوا	Eat	kulū
+11	77:43:2	w	وَٱشۡرَبُواْ	ﲸ	واشربوا	and drink	wa-ish'rabū
+11	77:43:3	w	هَنِيٓـَٔۢا	ﲹ	هنييا	(in) satisfaction	hanīan
+12	77:43:4	w	بِمَا	ﲺ	بما	for what	bimā
+12	77:43:5	w	كُنتُمۡ	ﲻ	كنتم	you used to	kuntum
+12	77:43:6	w	تَعۡمَلُونَ	ﲼ	تعملون	do	taʿmalūna
+12	77:43:7	e	٤٣	ﲽ			
+12	77:44:1	w	إِنَّا	ﲾ	انا	Indeed, We	innā
+12	77:44:2	w	كَذَٰلِكَ	ﲿ	كذالك	thus	kadhālika
+12	77:44:3	w	نَجۡزِي	ﳀ	نجزي	reward	najzī
+12	77:44:4	w	ٱلۡمُحۡسِنِينَ	ﳁ	المحسنين	the good-doers	l-muḥ'sinīna
+12	77:44:5	e	٤٤	ﳂ			
+12	77:45:1	w	وَيۡلٞ	ﳃ	ويل	Woe	waylun
+13	77:45:2	w	يَوۡمَئِذٖ	ﳄ	يوميذ	that Day	yawma-idhin
+13	77:45:3	w	لِّلۡمُكَذِّبِينَ	ﳅ	للمكذبين	to the deniers	lil'mukadhibīna
+13	77:45:4	e	٤٥	ﳆ			
+13	77:46:1	w	كُلُواْ	ﳇ	كلوا	Eat	kulū
+13	77:46:2	w	وَتَمَتَّعُواْ	ﳈ	وتمتعوا	and enjoy yourselves	watamattaʿū
+13	77:46:3	w	قَلِيلًا	ﳉ	قليلا	a little	qalīlan
+13	77:46:4	w	إِنَّكُم	ﳊ	انكم	indeed, you	innakum
+13	77:46:5	w	مُّجۡرِمُونَ	ﳋ	مجرمون	(are) criminals	muj'rimūna
+13	77:46:6	e	٤٦	ﳌ			
+13	77:47:1	w	وَيۡلٞ	ﳍ	ويل	Woe	waylun
+14	77:47:2	w	يَوۡمَئِذٖ	ﳎ	يوميذ	that Day	yawma-idhin
+14	77:47:3	w	لِّلۡمُكَذِّبِينَ	ﳏ	للمكذبين	to the deniers	lil'mukadhibīna
+14	77:47:4	e	٤٧	ﳐ			
+14	77:48:1	w	وَإِذَا	ﳑ	واذا	And when	wa-idhā
+14	77:48:2	w	قِيلَ	ﳒ	قيل	it is said	qīla
+14	77:48:3	w	لَهُمُ	ﳓ	لهم	to them	lahumu
+14	77:48:4	w	ٱرۡكَعُواْ	ﳔ	اركعوا	Bow	ir'kaʿū
+14	77:48:5	w	لَا	ﳕ	لا	not	lā
+14	77:48:6	w	يَرۡكَعُونَ	ﳖ	يركعون	they bow	yarkaʿūna
+14	77:48:7	e	٤٨	ﳗ			
+15	77:49:1	w	وَيۡلٞ	ﳘ	ويل	Woe	waylun
+15	77:49:2	w	يَوۡمَئِذٖ	ﳙ	يوميذ	that Day	yawma-idhin
+15	77:49:3	w	لِّلۡمُكَذِّبِينَ	ﳚ	للمكذبين	to the deniers	lil'mukadhibīna
+15	77:49:4	e	٤٩	ﳛ			
+15	77:50:1	w	فَبِأَيِّ	ﳜ	فباي	Then in what	fabi-ayyi
+15	77:50:2	w	حَدِيثِۭ	ﳝ	حديث	statement	ḥadīthin
+15	77:50:3	w	بَعۡدَهُۥ	ﳞ	بعده	after it	baʿdahu
+15	77:50:4	w	يُؤۡمِنُونَ	ﳟ	يومنون	will they believe	yu'minūna
+15	77:50:5	e	٥٠	ﳠ			

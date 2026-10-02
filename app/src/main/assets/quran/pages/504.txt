@@ -1,0 +1,150 @@
+1	46:15:1	w	وَوَصَّيۡنَا	ﱁ	ووصينا	And We have enjoined	wawaṣṣaynā
+1	46:15:2	w	ٱلۡإِنسَٰنَ	ﱂ	الانسان	(on) man	l-insāna
+1	46:15:3	w	بِوَٰلِدَيۡهِ	ﱃ	بوالديه	to his parents	biwālidayhi
+1	46:15:4	w	إِحۡسَٰنًاۖ	ﱄﱅ	احسانا	kindness	iḥ'sānan
+1	46:15:5	w	حَمَلَتۡهُ	ﱆ	حملته	Carried him	ḥamalathu
+1	46:15:6	w	أُمُّهُۥ	ﱇ	امه	his mother	ummuhu
+1	46:15:7	w	كُرۡهٗا	ﱈ	كرها	(with) hardship	kur'han
+1	46:15:8	w	وَوَضَعَتۡهُ	ﱉ	ووضعته	and gave birth to him	wawaḍaʿathu
+2	46:15:9	w	كُرۡهٗاۖ	ﱊﱋ	كرها	(with) hardship	kur'han
+2	46:15:10	w	وَحَمۡلُهُۥ	ﱌ	وحمله	And (the) bearing of him	waḥamluhu
+2	46:15:11	w	وَفِصَٰلُهُۥ	ﱍ	وفصاله	and (the) weaning of him	wafiṣāluhu
+2	46:15:12	w	ثَلَٰثُونَ	ﱎ	ثلاثون	(is) thirty	thalāthūna
+2	46:15:13	w	شَهۡرًاۚ	ﱏﱐ	شهرا	month(s)	shahran
+2	46:15:14	w	حَتَّىٰٓ	ﱑ	حتى	until	ḥattā
+2	46:15:15	w	إِذَا	ﱒ	اذا	when	idhā
+2	46:15:16	w	بَلَغَ	ﱓ	بلغ	he reaches	balagha
+2	46:15:17	w	أَشُدَّهُۥ	ﱔ	اشده	his maturity	ashuddahu
+2	46:15:18	w	وَبَلَغَ	ﱕ	وبلغ	and reaches	wabalagha
+3	46:15:19	w	أَرۡبَعِينَ	ﱖ	اربعين	forty	arbaʿīna
+3	46:15:20	w	سَنَةٗ	ﱗ	سنة	year(s)	sanatan
+3	46:15:21	w	قَالَ	ﱘ	قال	he says	qāla
+3	46:15:22	w	رَبِّ	ﱙ	رب	My Lord	rabbi
+3	46:15:23	w	أَوۡزِعۡنِيٓ	ﱚ	اوزعني	grant me (the) power	awziʿ'nī
+3	46:15:24	w	أَنۡ	ﱛ	ان	that	an
+3	46:15:25	w	أَشۡكُرَ	ﱜ	اشكر	I may be grateful	ashkura
+3	46:15:26	w	نِعۡمَتَكَ	ﱝ	نعمتك	(for) Your favor	niʿ'mataka
+3	46:15:27	w	ٱلَّتِيٓ	ﱞ	التي	which	allatī
+3	46:15:28	w	أَنۡعَمۡتَ	ﱟ	انعمت	You have bestowed	anʿamta
+4	46:15:29	w	عَلَيَّ	ﱠ	علي	upon me	ʿalayya
+4	46:15:30	w	وَعَلَىٰ	ﱡ	وعلى	and upon	waʿalā
+4	46:15:31	w	وَٰلِدَيَّ	ﱢ	والدي	my parents	wālidayya
+4	46:15:32	w	وَأَنۡ	ﱣ	وان	and that	wa-an
+4	46:15:33	w	أَعۡمَلَ	ﱤ	اعمل	I do	aʿmala
+4	46:15:34	w	صَٰلِحٗا	ﱥ	صالحا	righteous (deeds)	ṣāliḥan
+4	46:15:35	w	تَرۡضَىٰهُ	ﱦ	ترضاه	which please You	tarḍāhu
+4	46:15:36	w	وَأَصۡلِحۡ	ﱧ	واصلح	and make righteous	wa-aṣliḥ
+4	46:15:37	w	لِي	ﱨ	لي	for me	lī
+4	46:15:38	w	فِي	ﱩ	في	among	fī
+4	46:15:39	w	ذُرِّيَّتِيٓۖ	ﱪﱫ	ذريتي	my offspring	dhurriyyatī
+5	46:15:40	w	إِنِّي	ﱬ	اني	indeed	innī
+5	46:15:41	w	تُبۡتُ	ﱭ	تبت	I turn	tub'tu
+5	46:15:42	w	إِلَيۡكَ	ﱮ	اليك	to You	ilayka
+5	46:15:43	w	وَإِنِّي	ﱯ	واني	and indeed, I am	wa-innī
+5	46:15:44	w	مِنَ	ﱰ	من	of	mina
+5	46:15:45	w	ٱلۡمُسۡلِمِينَ	ﱱ	المسلمين	those who submit	l-mus'limīna
+5	46:15:46	e	١٥	ﱲ			
+5	46:16:1	w	أُوْلَٰٓئِكَ	ﱳ	اولايك	Those	ulāika
+5	46:16:2	w	ٱلَّذِينَ	ﱴ	الذين	(are) the ones	alladhīna
+5	46:16:3	w	نَتَقَبَّلُ	ﱵ	نتقبل	We will accept	nataqabbalu
+6	46:16:4	w	عَنۡهُمۡ	ﱶ	عنهم	from them	ʿanhum
+6	46:16:5	w	أَحۡسَنَ	ﱷ	احسن	(the) best	aḥsana
+6	46:16:6	w	مَا	ﱸ	ما	(of) what	mā
+6	46:16:7	w	عَمِلُواْ	ﱹ	عملوا	they did	ʿamilū
+6	46:16:8	w	وَنَتَجَاوَزُ	ﱺ	ونتجاوز	and We will overlook	wanatajāwazu
+6	46:16:9	w	عَن	ﱻ	عن	[from]	ʿan
+6	46:16:10	w	سَيِّـَٔاتِهِمۡ	ﱼ	سيياتهم	their evil deeds	sayyiātihim
+6	46:16:11	w	فِيٓ	ﱽ	في	among	fī
+6	46:16:12	w	أَصۡحَٰبِ	ﱾ	اصحاب	(the) companions	aṣḥābi
+7	46:16:13	w	ٱلۡجَنَّةِۖ	ﱿﲀ	الجنة	(of) Paradise	l-janati
+7	46:16:14	w	وَعۡدَ	ﲁ	وعد	A promise	waʿda
+7	46:16:15	w	ٱلصِّدۡقِ	ﲂ	الصدق	true	l-ṣid'qi
+7	46:16:16	w	ٱلَّذِي	ﲃ	الذي	which	alladhī
+7	46:16:17	w	كَانُواْ	ﲄ	كانوا	they were	kānū
+7	46:16:18	w	يُوعَدُونَ	ﲅ	يوعدون	promised	yūʿadūna
+7	46:16:19	e	١٦	ﲆ			
+7	46:17:1	w	وَٱلَّذِي	ﲇ	والذي	But the one who	wa-alladhī
+7	46:17:2	w	قَالَ	ﲈ	قال	says	qāla
+8	46:17:3	w	لِوَٰلِدَيۡهِ	ﲉ	لوالديه	to his parents	liwālidayhi
+8	46:17:4	w	أُفّٖ	ﲊ	اف	Uff	uffin
+8	46:17:5	w	لَّكُمَآ	ﲋ	لكما	to both of you	lakumā
+8	46:17:6	w	أَتَعِدَانِنِيٓ	ﲌ	اتعدانني	Do you promise me	ataʿidāninī
+8	46:17:7	w	أَنۡ	ﲍ	ان	that	an
+8	46:17:8	w	أُخۡرَجَ	ﲎ	اخرج	I will be brought forth	ukh'raja
+8	46:17:9	w	وَقَدۡ	ﲏ	وقد	and have already passed away	waqad
+8	46:17:10	w	خَلَتِ	ﲐ	خلت	and have already passed away	khalati
+8	46:17:11	w	ٱلۡقُرُونُ	ﲑ	القرون	the generations	l-qurūnu
+8	46:17:12	w	مِن	ﲒ	من	before me	min
+9	46:17:13	w	قَبۡلِي	ﲓ	قبلي	before me	qablī
+9	46:17:14	w	وَهُمَا	ﲔ	وهما	And they both	wahumā
+9	46:17:15	w	يَسۡتَغِيثَانِ	ﲕ	يستغيثان	seek help	yastaghīthāni
+9	46:17:16	w	ٱللَّهَ	ﲖ	الله	(of) Allah	l-laha
+9	46:17:17	w	وَيۡلَكَ	ﲗ	ويلك	Woe to you	waylaka
+9	46:17:18	w	ءَامِنۡ	ﲘ	امن	Believe	āmin
+9	46:17:19	w	إِنَّ	ﲙ	ان	Indeed	inna
+9	46:17:20	w	وَعۡدَ	ﲚ	وعد	(the) Promise	waʿda
+9	46:17:21	w	ٱللَّهِ	ﲛ	الله	(of) Allah	l-lahi
+9	46:17:22	w	حَقّٞ	ﲜ	حق	(is) true	ḥaqqun
+9	46:17:23	w	فَيَقُولُ	ﲝ	فيقول	But he says	fayaqūlu
+10	46:17:24	w	مَا	ﲞ	ما	Not	mā
+10	46:17:25	w	هَٰذَآ	ﲟ	هاذا	(is) this	hādhā
+10	46:17:26	w	إِلَّآ	ﲠ	الا	but	illā
+10	46:17:27	w	أَسَٰطِيرُ	ﲡ	اساطير	(the) stories	asāṭīru
+10	46:17:28	w	ٱلۡأَوَّلِينَ	ﲢ	الاولين	(of) the former (people)	l-awalīna
+10	46:17:29	e	١٧	ﲣ			
+10	46:18:1	w	أُوْلَٰٓئِكَ	ﲤ	اولايك	Those	ulāika
+10	46:18:2	w	ٱلَّذِينَ	ﲥ	الذين	(are) the ones	alladhīna
+10	46:18:3	w	حَقَّ	ﲦ	حق	(has) proved true	ḥaqqa
+10	46:18:4	w	عَلَيۡهِمُ	ﲧ	عليهم	against them	ʿalayhimu
+10	46:18:5	w	ٱلۡقَوۡلُ	ﲨ	القول	the word	l-qawlu
+11	46:18:6	w	فِيٓ	ﲩ	في	among	fī
+11	46:18:7	w	أُمَمٖ	ﲪ	امم	nations	umamin
+11	46:18:8	w	قَدۡ	ﲫ	قد	(that) already passed away	qad
+11	46:18:9	w	خَلَتۡ	ﲬ	خلت	(that) already passed away	khalat
+11	46:18:10	w	مِن	ﲭ	من	before them	min
+11	46:18:11	w	قَبۡلِهِم	ﲮ	قبلهم	before them	qablihim
+11	46:18:12	w	مِّنَ	ﲯ	من	of	mina
+11	46:18:13	w	ٱلۡجِنِّ	ﲰ	الجن	(the) jinn	l-jini
+11	46:18:14	w	وَٱلۡإِنسِۖ	ﲱﲲ	والانس	and the men	wal-insi
+11	46:18:15	w	إِنَّهُمۡ	ﲳ	انهم	Indeed, they	innahum
+11	46:18:16	w	كَانُواْ	ﲴ	كانوا	are	kānū
+11	46:18:17	w	خَٰسِرِينَ	ﲵ	خاسرين	(the) losers	khāsirīna
+12	46:18:18	e	١٨	ﲶ			
+12	46:19:1	w	وَلِكُلّٖ	ﲷ	ولكل	And for all	walikullin
+12	46:19:2	w	دَرَجَٰتٞ	ﲸ	درجات	(are) degrees	darajātun
+12	46:19:3	w	مِّمَّا	ﲹ	مما	for what	mimmā
+12	46:19:4	w	عَمِلُواْۖ	ﲺﲻ	عملوا	they did	ʿamilū
+12	46:19:5	w	وَلِيُوَفِّيَهُمۡ	ﲼ	وليوفيهم	and that He may fully compensate them	waliyuwaffiyahum
+12	46:19:6	w	أَعۡمَٰلَهُمۡ	ﲽ	اعمالهم	(for) their deeds	aʿmālahum
+12	46:19:7	w	وَهُمۡ	ﲾ	وهم	and they	wahum
+12	46:19:8	w	لَا	ﲿ	لا	will not be wronged	lā
+12	46:19:9	w	يُظۡلَمُونَ	ﳀ	يظلمون	will not be wronged	yuẓ'lamūna
+13	46:19:10	e	١٩	ﳁ			
+13	46:20:1	w	وَيَوۡمَ	ﳂ	ويوم	And (the) Day	wayawma
+13	46:20:2	w	يُعۡرَضُ	ﳃ	يعرض	will be exposed	yuʿ'raḍu
+13	46:20:3	w	ٱلَّذِينَ	ﳄ	الذين	those who	alladhīna
+13	46:20:4	w	كَفَرُواْ	ﳅ	كفروا	disbelieved	kafarū
+13	46:20:5	w	عَلَى	ﳆ	على	to	ʿalā
+13	46:20:6	w	ٱلنَّارِ	ﳇ	النار	the Fire	l-nāri
+13	46:20:7	w	أَذۡهَبۡتُمۡ	ﳈ	اذهبتم	You exhausted	adhhabtum
+13	46:20:8	w	طَيِّبَٰتِكُمۡ	ﳉ	طيباتكم	your good things	ṭayyibātikum
+13	46:20:9	w	فِي	ﳊ	في	in	fī
+13	46:20:10	w	حَيَاتِكُمُ	ﳋ	حياتكم	your life	ḥayātikumu
+14	46:20:11	w	ٱلدُّنۡيَا	ﳌ	الدنيا	(of) the world	l-dun'yā
+14	46:20:12	w	وَٱسۡتَمۡتَعۡتُم	ﳍ	واستمتعتم	and you took your pleasures	wa-is'tamtaʿtum
+14	46:20:13	w	بِهَا	ﳎ	بها	therein	bihā
+14	46:20:14	w	فَٱلۡيَوۡمَ	ﳏ	فاليوم	So today	fal-yawma
+14	46:20:15	w	تُجۡزَوۡنَ	ﳐ	تجزون	you will be recompensed	tuj'zawna
+14	46:20:16	w	عَذَابَ	ﳑ	عذاب	(with) a punishment	ʿadhāba
+14	46:20:17	w	ٱلۡهُونِ	ﳒ	الهون	humiliating	l-hūni
+14	46:20:18	w	بِمَا	ﳓ	بما	because	bimā
+14	46:20:19	w	كُنتُمۡ	ﳔ	كنتم	you were	kuntum
+15	46:20:20	w	تَسۡتَكۡبِرُونَ	ﳕ	تستكبرون	arrogant	tastakbirūna
+15	46:20:21	w	فِي	ﳖ	في	in	fī
+15	46:20:22	w	ٱلۡأَرۡضِ	ﳗ	الارض	the earth	l-arḍi
+15	46:20:23	w	بِغَيۡرِ	ﳘ	بغير	without	bighayri
+15	46:20:24	w	ٱلۡحَقِّ	ﳙ	الحق	[the] right	l-ḥaqi
+15	46:20:25	w	وَبِمَا	ﳚ	وبما	and because	wabimā
+15	46:20:26	w	كُنتُمۡ	ﳛ	كنتم	you were	kuntum
+15	46:20:27	w	تَفۡسُقُونَ	ﳜ	تفسقون	defiantly disobedient	tafsuqūna
+15	46:20:28	e	٢٠	ﳝ			

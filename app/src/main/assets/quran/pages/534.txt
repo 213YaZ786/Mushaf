@@ -1,0 +1,116 @@
+1	55:70:1	w	فِيهِنَّ	ﱁ	فيهن	In them	fīhinna
+1	55:70:2	w	خَيۡرَٰتٌ	ﱂ	خيرات	(are) good	khayrātun
+1	55:70:3	w	حِسَانٞ	ﱃ	حسان	and beautiful ones	ḥisānun
+1	55:70:4	e	٧٠	ﱄ			
+1	55:71:1	w	فَبِأَيِّ	ﱅ	فباي	So which	fabi-ayyi
+1	55:71:2	w	ءَالَآءِ	ﱆ	الاء	(of the) favors	ālāi
+1	55:71:3	w	رَبِّكُمَا	ﱇ	ربكما	(of) your Lord	rabbikumā
+1	55:71:4	w	تُكَذِّبَانِ	ﱈ	تكذبان	will you both deny	tukadhibāni
+2	55:71:5	e	٧١	ﱉ			
+2	55:72:1	w	حُورٞ	ﱊ	حور	Fair ones	ḥūrun
+2	55:72:2	w	مَّقۡصُورَٰتٞ	ﱋ	مقصورات	restrained	maqṣūrātun
+2	55:72:3	w	فِي	ﱌ	في	in	fī
+2	55:72:4	w	ٱلۡخِيَامِ	ﱍ	الخيام	the pavilions	l-khiyāmi
+2	55:72:5	e	٧٢	ﱎ			
+2	55:73:1	w	فَبِأَيِّ	ﱏ	فباي	So which	fabi-ayyi
+2	55:73:2	w	ءَالَآءِ	ﱐ	الاء	(of the) favors	ālāi
+2	55:73:3	w	رَبِّكُمَا	ﱑ	ربكما	(of) your Lord	rabbikumā
+3	55:73:4	w	تُكَذِّبَانِ	ﱒ	تكذبان	will you both deny	tukadhibāni
+3	55:73:5	e	٧٣	ﱓ			
+3	55:74:1	w	لَمۡ	ﱔ	لم	Not	lam
+3	55:74:2	w	يَطۡمِثۡهُنَّ	ﱕ	يطمثهن	has touched them	yaṭmith'hunna
+3	55:74:3	w	إِنسٞ	ﱖ	انس	any man	insun
+3	55:74:4	w	قَبۡلَهُمۡ	ﱗ	قبلهم	before them	qablahum
+3	55:74:5	w	وَلَا	ﱘ	ولا	and not	walā
+3	55:74:6	w	جَآنّٞ	ﱙ	جان	any jinn	jānnun
+3	55:74:7	e	٧٤	ﱚ			
+3	55:75:1	w	فَبِأَيِّ	ﱛ	فباي	So which	fabi-ayyi
+4	55:75:2	w	ءَالَآءِ	ﱜ	الاء	(of the) favors	ālāi
+4	55:75:3	w	رَبِّكُمَا	ﱝ	ربكما	(of) your Lord	rabbikumā
+4	55:75:4	w	تُكَذِّبَانِ	ﱞ	تكذبان	will you both deny	tukadhibāni
+4	55:75:5	e	٧٥	ﱟ			
+4	55:76:1	w	مُتَّكِـِٔينَ	ﱠ	متكيين	Reclining	muttakiīna
+4	55:76:2	w	عَلَىٰ	ﱡ	على	on	ʿalā
+4	55:76:3	w	رَفۡرَفٍ	ﱢ	رفرف	cushions	rafrafin
+4	55:76:4	w	خُضۡرٖ	ﱣ	خضر	green	khuḍ'rin
+5	55:76:5	w	وَعَبۡقَرِيٍّ	ﱤ	وعبقري	and carpets	waʿabqariyyin
+5	55:76:6	w	حِسَانٖ	ﱥ	حسان	beautiful	ḥisānin
+5	55:76:7	e	٧٦	ﱦ			
+5	55:77:1	w	فَبِأَيِّ	ﱧ	فباي	So which	fabi-ayyi
+5	55:77:2	w	ءَالَآءِ	ﱨ	الاء	(of the) favors	ālāi
+5	55:77:3	w	رَبِّكُمَا	ﱩ	ربكما	(of) your Lord	rabbikumā
+5	55:77:4	w	تُكَذِّبَانِ	ﱪ	تكذبان	will you both deny	tukadhibāni
+5	55:77:5	e	٧٧	ﱫ			
+6	55:78:1	w	تَبَٰرَكَ	ﱬ	تبارك	Blessed is	tabāraka
+6	55:78:2	w	ٱسۡمُ	ﱭ	اسم	(the) name	us'mu
+6	55:78:3	w	رَبِّكَ	ﱮ	ربك	(of) your Lord	rabbika
+6	55:78:4	w	ذِي	ﱯ	ذي	Owner	dhī
+6	55:78:5	w	ٱلۡجَلَٰلِ	ﱰ	الجلال	(of) Majesty	l-jalāli
+6	55:78:6	w	وَٱلۡإِكۡرَامِ	ﱱ	والاكرام	and Honor	wal-ik'rāmi
+6	55:78:7	e	٧٨	ﱲ			
+9	56:1:1	w	إِذَا	ﱳ	اذا	When	idhā
+9	56:1:2	w	وَقَعَتِ	ﱴ	وقعت	occurs	waqaʿati
+9	56:1:3	w	ٱلۡوَاقِعَةُ	ﱵ	الواقعة	the Event	l-wāqiʿatu
+9	56:1:4	e	١	ﱶ			
+9	56:2:1	w	لَيۡسَ	ﱷ	ليس	Not	laysa
+9	56:2:2	w	لِوَقۡعَتِهَا	ﱸ	لوقعتها	at its occurrence	liwaqʿatihā
+9	56:2:3	w	كَاذِبَةٌ	ﱹ	كاذبة	a denial	kādhibatun
+9	56:2:4	e	٢	ﱺ			
+9	56:3:1	w	خَافِضَةٞ	ﱻ	خافضة	Bringing down	khāfiḍatun
+9	56:3:2	w	رَّافِعَةٌ	ﱼ	رافعة	raising up	rāfiʿatun
+10	56:3:3	e	٣	ﱽ			
+10	56:4:1	w	إِذَا	ﱾ	اذا	When	idhā
+10	56:4:2	w	رُجَّتِ	ﱿ	رجت	will be shaken	rujjati
+10	56:4:3	w	ٱلۡأَرۡضُ	ﲀ	الارض	the earth	l-arḍu
+10	56:4:4	w	رَجّٗا	ﲁ	رجا	(with) a shaking	rajjan
+10	56:4:5	e	٤	ﲂ			
+10	56:5:1	w	وَبُسَّتِ	ﲃ	وبست	And will be crumbled	wabussati
+10	56:5:2	w	ٱلۡجِبَالُ	ﲄ	الجبال	the mountains	l-jibālu
+10	56:5:3	w	بَسّٗا	ﲅ	بسا	(with awful) crumbling	bassan
+10	56:5:4	e	٥	ﲆ			
+10	56:6:1	w	فَكَانَتۡ	ﲇ	فكانت	So they become	fakānat
+11	56:6:2	w	هَبَآءٗ	ﲈ	هباء	dust particles	habāan
+11	56:6:3	w	مُّنۢبَثّٗا	ﲉ	منبثا	dispersing	munbathan
+11	56:6:4	e	٦	ﲊ			
+11	56:7:1	w	وَكُنتُمۡ	ﲋ	وكنتم	And you will become	wakuntum
+11	56:7:2	w	أَزۡوَٰجٗا	ﲌ	ازواجا	kinds	azwājan
+11	56:7:3	w	ثَلَٰثَةٗ	ﲍ	ثلاثة	three	thalāthatan
+11	56:7:4	e	٧	ﲎ			
+11	56:8:1	w	فَأَصۡحَٰبُ	ﲏ	فاصحاب	Then (the) companions	fa-aṣḥābu
+11	56:8:2	w	ٱلۡمَيۡمَنَةِ	ﲐ	الميمنة	(of) the right	l-maymanati
+12	56:8:3	w	مَآ	ﲑ	ما	what	mā
+12	56:8:4	w	أَصۡحَٰبُ	ﲒ	اصحاب	(are the) companions	aṣḥābu
+12	56:8:5	w	ٱلۡمَيۡمَنَةِ	ﲓ	الميمنة	(of) the right	l-maymanati
+12	56:8:6	e	٨	ﲔ			
+12	56:9:1	w	وَأَصۡحَٰبُ	ﲕ	واصحاب	And (the) companions	wa-aṣḥābu
+12	56:9:2	w	ٱلۡمَشۡـَٔمَةِ	ﲖ	المشامة	(of) the left	l-mashamati
+12	56:9:3	w	مَآ	ﲗ	ما	what	mā
+12	56:9:4	w	أَصۡحَٰبُ	ﲘ	اصحاب	(are the) companions	aṣḥābu
+13	56:9:5	w	ٱلۡمَشۡـَٔمَةِ	ﲙ	المشامة	(of) the left	l-mashamati
+13	56:9:6	e	٩	ﲚ			
+13	56:10:1	w	وَٱلسَّٰبِقُونَ	ﲛ	والسابقون	And the foremost	wal-sābiqūna
+13	56:10:2	w	ٱلسَّٰبِقُونَ	ﲜ	السابقون	(are) the foremost	l-sābiqūna
+13	56:10:3	e	١٠	ﲝ			
+13	56:11:1	w	أُوْلَٰٓئِكَ	ﲞ	اولايك	Those	ulāika
+13	56:11:2	w	ٱلۡمُقَرَّبُونَ	ﲟ	المقربون	(are) the nearest ones	l-muqarabūna
+13	56:11:3	e	١١	ﲠ			
+14	56:12:1	w	فِي	ﲡ	في	In	fī
+14	56:12:2	w	جَنَّٰتِ	ﲢ	جنات	Gardens	jannāti
+14	56:12:3	w	ٱلنَّعِيمِ	ﲣ	النعيم	(of) Pleasure	l-naʿīmi
+14	56:12:4	e	١٢	ﲤ			
+14	56:13:1	w	ثُلَّةٞ	ﲥ	ثلة	A company	thullatun
+14	56:13:2	w	مِّنَ	ﲦ	من	of	mina
+14	56:13:3	w	ٱلۡأَوَّلِينَ	ﲧ	الاولين	the former (people)	l-awalīna
+14	56:13:4	e	١٣	ﲨ			
+14	56:14:1	w	وَقَلِيلٞ	ﲩ	وقليل	And a few	waqalīlun
+14	56:14:2	w	مِّنَ	ﲪ	من	of	mina
+14	56:14:3	w	ٱلۡأٓخِرِينَ	ﲫ	الاخرين	the later (people)	l-ākhirīna
+15	56:14:4	e	١٤	ﲬ			
+15	56:15:1	w	عَلَىٰ	ﲭ	على	On	ʿalā
+15	56:15:2	w	سُرُرٖ	ﲮ	سرر	thrones	sururin
+15	56:15:3	w	مَّوۡضُونَةٖ	ﲯ	موضونة	decorated	mawḍūnatin
+15	56:15:4	e	١٥	ﲰ			
+15	56:16:1	w	مُّتَّكِـِٔينَ	ﲱ	متكيين	Reclining	muttakiīna
+15	56:16:2	w	عَلَيۡهَا	ﲲ	عليها	on them	ʿalayhā
+15	56:16:3	w	مُتَقَٰبِلِينَ	ﲳ	متقابلين	facing each other	mutaqābilīna
+15	56:16:4	e	١٦	ﲴ			

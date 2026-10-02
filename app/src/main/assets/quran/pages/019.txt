@@ -1,0 +1,153 @@
+1	2:120:1	w	وَلَن	ﱁ	ولن	And never	walan
+1	2:120:2	w	تَرۡضَىٰ	ﱂ	ترضى	will be pleased	tarḍā
+1	2:120:3	w	عَنكَ	ﱃ	عنك	with you	ʿanka
+1	2:120:4	w	ٱلۡيَهُودُ	ﱄ	اليهود	the Jews	l-yahūdu
+1	2:120:5	w	وَلَا	ﱅ	ولا	and [not]	walā
+1	2:120:6	w	ٱلنَّصَٰرَىٰ	ﱆ	النصارى	the Christians	l-naṣārā
+1	2:120:7	w	حَتَّىٰ	ﱇ	حتى	until	ḥattā
+1	2:120:8	w	تَتَّبِعَ	ﱈ	تتبع	you follow	tattabiʿa
+1	2:120:9	w	مِلَّتَهُمۡۗ	ﱉﱊ	ملتهم	their religion	millatahum
+1	2:120:10	w	قُلۡ	ﱋ	قل	Say	qul
+2	2:120:11	w	إِنَّ	ﱌ	ان	Indeed	inna
+2	2:120:12	w	هُدَى	ﱍ	هدى	(the) Guidance	hudā
+2	2:120:13	w	ٱللَّهِ	ﱎ	الله	(of) Allah	l-lahi
+2	2:120:14	w	هُوَ	ﱏ	هو	it	huwa
+2	2:120:15	w	ٱلۡهُدَىٰۗ	ﱐﱑ	الهدى	(is) the Guidance	l-hudā
+2	2:120:16	w	وَلَئِنِ	ﱒ	ولين	And if	wala-ini
+2	2:120:17	w	ٱتَّبَعۡتَ	ﱓ	اتبعت	you follow	ittabaʿta
+2	2:120:18	w	أَهۡوَآءَهُم	ﱔ	اهواءهم	their desires	ahwāahum
+2	2:120:19	w	بَعۡدَ	ﱕ	بعد	after	baʿda
+2	2:120:20	w	ٱلَّذِي	ﱖ	الذي	what	alladhī
+3	2:120:21	w	جَآءَكَ	ﱗ	جاءك	has come to you	jāaka
+3	2:120:22	w	مِنَ	ﱘ	من	of	mina
+3	2:120:23	w	ٱلۡعِلۡمِ	ﱙ	العلم	the knowledge	l-ʿil'mi
+3	2:120:24	w	مَا	ﱚ	ما	not	mā
+3	2:120:25	w	لَكَ	ﱛ	لك	for you	laka
+3	2:120:26	w	مِنَ	ﱜ	من	from	mina
+3	2:120:27	w	ٱللَّهِ	ﱝ	الله	Allah	l-lahi
+3	2:120:28	w	مِن	ﱞ	من	any	min
+3	2:120:29	w	وَلِيّٖ	ﱟ	ولي	protector	waliyyin
+3	2:120:30	w	وَلَا	ﱠ	ولا	and not	walā
+3	2:120:31	w	نَصِيرٍ	ﱡ	نصير	any helper	naṣīrin
+3	2:120:32	e	١٢٠	ﱢ			
+3	2:121:1	w	ٱلَّذِينَ	ﱣ	الذين	Those	alladhīna
+4	2:121:2	w	ءَاتَيۡنَٰهُمُ	ﱤ	اتيناهم	We have given them	ātaynāhumu
+4	2:121:3	w	ٱلۡكِتَٰبَ	ﱥ	الكتاب	the Book	l-kitāba
+4	2:121:4	w	يَتۡلُونَهُۥ	ﱦ	يتلونه	recite it	yatlūnahu
+4	2:121:5	w	حَقَّ	ﱧ	حق	(as it has the) right	ḥaqqa
+4	2:121:6	w	تِلَاوَتِهِۦٓ	ﱨ	تلاوته	(of) its recitation	tilāwatihi
+4	2:121:7	w	أُوْلَٰٓئِكَ	ﱩ	اولايك	Those (people)	ulāika
+4	2:121:8	w	يُؤۡمِنُونَ	ﱪ	يومنون	believe	yu'minūna
+4	2:121:9	w	بِهِۦۗ	ﱫﱬ	به	in it	bihi
+4	2:121:10	w	وَمَن	ﱭ	ومن	And whoever	waman
+5	2:121:11	w	يَكۡفُرۡ	ﱮ	يكفر	disbelieves	yakfur
+5	2:121:12	w	بِهِۦ	ﱯ	به	in it	bihi
+5	2:121:13	w	فَأُوْلَٰٓئِكَ	ﱰ	فاولايك	then those	fa-ulāika
+5	2:121:14	w	هُمُ	ﱱ	هم	they	humu
+5	2:121:15	w	ٱلۡخَٰسِرُونَ	ﱲ	الخاسرون	(are) the losers	l-khāsirūna
+5	2:121:16	e	١٢١	ﱳ			
+5	2:122:1	w	يَٰبَنِيٓ	ﱴ	يا بني	O Children	yābanī
+5	2:122:2	w	إِسۡرَٰٓءِيلَ	ﱵ	اسراييل	(of) Israel	is'rāīla
+5	2:122:3	w	ٱذۡكُرُواْ	ﱶ	اذكروا	Remember	udh'kurū
+5	2:122:4	w	نِعۡمَتِيَ	ﱷ	نعمتي	My Favor	niʿ'matiya
+6	2:122:5	w	ٱلَّتِيٓ	ﱸ	التي	which	allatī
+6	2:122:6	w	أَنۡعَمۡتُ	ﱹ	انعمت	I bestowed	anʿamtu
+6	2:122:7	w	عَلَيۡكُمۡ	ﱺ	عليكم	upon you	ʿalaykum
+6	2:122:8	w	وَأَنِّي	ﱻ	واني	and that I	wa-annī
+6	2:122:9	w	فَضَّلۡتُكُمۡ	ﱼ	فضلتكم	[I] preferred you	faḍḍaltukum
+6	2:122:10	w	عَلَى	ﱽ	على	over	ʿalā
+6	2:122:11	w	ٱلۡعَٰلَمِينَ	ﱾ	العالمين	the worlds	l-ʿālamīna
+6	2:122:12	e	١٢٢	ﱿ			
+6	2:123:1	w	وَٱتَّقُواْ	ﲀ	واتقوا	And fear	wa-ittaqū
+6	2:123:2	w	يَوۡمٗا	ﲁ	يوما	a day	yawman
+7	2:123:3	w	لَّا	ﲂ	لا	not	lā
+7	2:123:4	w	تَجۡزِي	ﲃ	تجزي	will avail	tajzī
+7	2:123:5	w	نَفۡسٌ	ﲄ	نفس	a soul	nafsun
+7	2:123:6	w	عَن	ﲅ	عن	(of)	ʿan
+7	2:123:7	w	نَّفۡسٖ	ﲆ	نفس	(another) soul	nafsin
+7	2:123:8	w	شَيۡـٔٗا	ﲇ	شييا	anything	shayan
+7	2:123:9	w	وَلَا	ﲈ	ولا	and not	walā
+7	2:123:10	w	يُقۡبَلُ	ﲉ	يقبل	will be accepted	yuq'balu
+7	2:123:11	w	مِنۡهَا	ﲊ	منها	from it	min'hā
+7	2:123:12	w	عَدۡلٞ	ﲋ	عدل	any compensation	ʿadlun
+7	2:123:13	w	وَلَا	ﲌ	ولا	and not	walā
+7	2:123:14	w	تَنفَعُهَا	ﲍ	تنفعها	will benefit it	tanfaʿuhā
+8	2:123:15	w	شَفَٰعَةٞ	ﲎ	شفاعة	any intercession	shafāʿatun
+8	2:123:16	w	وَلَا	ﲏ	ولا	and not	walā
+8	2:123:17	w	هُمۡ	ﲐ	هم	they	hum
+8	2:123:18	w	يُنصَرُونَ	ﲑ	ينصرون	will be helped	yunṣarūna
+8	2:123:19	e	١٢٣	ﲒ			
+8	2:124:1	w	۞ وَإِذِ	ﲓ ﲔ	۞ واذ	And when	wa-idhi
+8	2:124:2	w	ٱبۡتَلَىٰٓ	ﲕ	ابتلى	tried	ib'talā
+8	2:124:3	w	إِبۡرَٰهِـۧمَ	ﲖ	ابراهيم	Ibrahim	ib'rāhīma
+8	2:124:4	w	رَبُّهُۥ	ﲗ	ربه	his Lord	rabbuhu
+8	2:124:5	w	بِكَلِمَٰتٖ	ﲘ	بكلمات	with words	bikalimātin
+9	2:124:6	w	فَأَتَمَّهُنَّۖ	ﲙﲚ	فاتمهن	and he fulfilled them	fa-atammahunna
+9	2:124:7	w	قَالَ	ﲛ	قال	He said	qāla
+9	2:124:8	w	إِنِّي	ﲜ	اني	Indeed I	innī
+9	2:124:9	w	جَاعِلُكَ	ﲝ	جاعلك	(am) the One to make you	jāʿiluka
+9	2:124:10	w	لِلنَّاسِ	ﲞ	للناس	for the mankind	lilnnāsi
+9	2:124:11	w	إِمَامٗاۖ	ﲟﲠ	اماما	a leader	imāman
+9	2:124:12	w	قَالَ	ﲡ	قال	He said	qāla
+9	2:124:13	w	وَمِن	ﲢ	ومن	And from	wamin
+9	2:124:14	w	ذُرِّيَّتِيۖ	ﲣﲤ	ذريتي	my offspring	dhurriyyatī
+9	2:124:15	w	قَالَ	ﲥ	قال	He said	qāla
+10	2:124:16	w	لَا	ﲦ	لا	(Does) not	lā
+10	2:124:17	w	يَنَالُ	ﲧ	ينال	reach	yanālu
+10	2:124:18	w	عَهۡدِي	ﲨ	عهدي	My Covenant	ʿahdī
+10	2:124:19	w	ٱلظَّٰلِمِينَ	ﲩ	الظالمين	(to) the wrongdoers	l-ẓālimīna
+10	2:124:20	e	١٢٤	ﲪ			
+10	2:125:1	w	وَإِذۡ	ﲫ	واذ	And when	wa-idh
+10	2:125:2	w	جَعَلۡنَا	ﲬ	جعلنا	We made	jaʿalnā
+10	2:125:3	w	ٱلۡبَيۡتَ	ﲭ	البيت	the House	l-bayta
+10	2:125:4	w	مَثَابَةٗ	ﲮ	مثابة	a place of return	mathābatan
+10	2:125:5	w	لِّلنَّاسِ	ﲯ	للناس	for mankind	lilnnāsi
+11	2:125:6	w	وَأَمۡنٗا	ﲰ	وامنا	and (a place of) security	wa-amnan
+11	2:125:7	w	وَٱتَّخِذُواْ	ﲱ	واتخذوا	and (said), "Take	wa-ittakhidhū
+11	2:125:8	w	مِن	ﲲ	من	[from]	min
+11	2:125:9	w	مَّقَامِ	ﲳ	مقام	(the) standing place	maqāmi
+11	2:125:10	w	إِبۡرَٰهِـۧمَ	ﲴ	ابراهيم	(of) Ibrahim	ib'rāhīma
+11	2:125:11	w	مُصَلّٗىۖ	ﲵﲶ	مصلى	(as) a place of prayer	muṣallan
+11	2:125:12	w	وَعَهِدۡنَآ	ﲷ	وعهدنا	And We made a covenant	waʿahid'nā
+11	2:125:13	w	إِلَىٰٓ	ﲸ	الى	with	ilā
+11	2:125:14	w	إِبۡرَٰهِـۧمَ	ﲹ	ابراهيم	Ibrahim	ib'rāhīma
+12	2:125:15	w	وَإِسۡمَٰعِيلَ	ﲺ	واسماعيل	and Ishmael	wa-is'māʿīla
+12	2:125:16	w	أَن	ﲻ	ان	[that]	an
+12	2:125:17	w	طَهِّرَا	ﲼ	طهرا	[You both] purify	ṭahhirā
+12	2:125:18	w	بَيۡتِيَ	ﲽ	بيتي	My House	baytiya
+12	2:125:19	w	لِلطَّآئِفِينَ	ﲾ	للطايفين	for those who circumambulate	lilṭṭāifīna
+12	2:125:20	w	وَٱلۡعَٰكِفِينَ	ﲿ	والعاكفين	and those who seclude themselves for devotion and prayer	wal-ʿākifīna
+12	2:125:21	w	وَٱلرُّكَّعِ	ﳀ	والركع	and those who bow down	wal-rukaʿi
+12	2:125:22	w	ٱلسُّجُودِ	ﳁ	السجود	and those who prostrate	l-sujūdi
+13	2:125:23	e	١٢٥	ﳂ			
+13	2:126:1	w	وَإِذۡ	ﳃ	واذ	And when	wa-idh
+13	2:126:2	w	قَالَ	ﳄ	قال	said	qāla
+13	2:126:3	w	إِبۡرَٰهِـۧمُ	ﳅ	ابراهيم	Ibrahim	ib'rāhīmu
+13	2:126:4	w	رَبِّ	ﳆ	رب	My Lord	rabbi
+13	2:126:5	w	ٱجۡعَلۡ	ﳇ	اجعل	make	ij'ʿal
+13	2:126:6	w	هَٰذَا	ﳈ	هاذا	this	hādhā
+13	2:126:7	w	بَلَدًا	ﳉ	بلدا	a city	baladan
+13	2:126:8	w	ءَامِنٗا	ﳊ	امنا	secure	āminan
+13	2:126:9	w	وَٱرۡزُقۡ	ﳋ	وارزق	and provide	wa-ur'zuq
+13	2:126:10	w	أَهۡلَهُۥ	ﳌ	اهله	its people	ahlahu
+14	2:126:11	w	مِنَ	ﳍ	من	with	mina
+14	2:126:12	w	ٱلثَّمَرَٰتِ	ﳎ	الثمرات	fruits	l-thamarāti
+14	2:126:13	w	مَنۡ	ﳏ	من	(to) whoever	man
+14	2:126:14	w	ءَامَنَ	ﳐ	امن	believed	āmana
+14	2:126:15	w	مِنۡهُم	ﳑ	منهم	from them	min'hum
+14	2:126:16	w	بِٱللَّهِ	ﳒ	بالله	in Allah	bil-lahi
+14	2:126:17	w	وَٱلۡيَوۡمِ	ﳓ	واليوم	and the Day	wal-yawmi
+14	2:126:18	w	ٱلۡأٓخِرِۚ	ﳔﳕ	الاخر	the Last	l-ākhiri
+14	2:126:19	w	قَالَ	ﳖ	قال	He said	qāla
+14	2:126:20	w	وَمَن	ﳗ	ومن	And whoever	waman
+14	2:126:21	w	كَفَرَ	ﳘ	كفر	disbelieved	kafara
+15	2:126:22	w	فَأُمَتِّعُهُۥ	ﳙ	فامتعه	[then] I will grant him enjoyment	fa-umattiʿuhu
+15	2:126:23	w	قَلِيلٗا	ﳚ	قليلا	a little	qalīlan
+15	2:126:24	w	ثُمَّ	ﳛ	ثم	then	thumma
+15	2:126:25	w	أَضۡطَرُّهُۥٓ	ﳜ	اضطره	I will force him	aḍṭarruhu
+15	2:126:26	w	إِلَىٰ	ﳝ	الى	to	ilā
+15	2:126:27	w	عَذَابِ	ﳞ	عذاب	(the) punishment	ʿadhābi
+15	2:126:28	w	ٱلنَّارِۖ	ﳟﳠ	النار	(of) the Fire	l-nāri
+15	2:126:29	w	وَبِئۡسَ	ﳡ	وبيس	and evil	wabi'sa
+15	2:126:30	w	ٱلۡمَصِيرُ	ﳢ	المصير	(is) the destination	l-maṣīru
+15	2:126:31	e	١٢٦	ﳣ			

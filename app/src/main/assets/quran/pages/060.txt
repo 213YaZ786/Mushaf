@@ -1,0 +1,130 @@
+1	3:78:1	w	وَإِنَّ	ﱁ	وان	And indeed	wa-inna
+1	3:78:2	w	مِنۡهُمۡ	ﱂ	منهم	among them	min'hum
+1	3:78:3	w	لَفَرِيقٗا	ﱃ	لفريقا	surely (is) a group	lafarīqan
+1	3:78:4	w	يَلۡوُۥنَ	ﱄ	يلوون	they distort	yalwūna
+1	3:78:5	w	أَلۡسِنَتَهُم	ﱅ	السنتهم	their tongues	alsinatahum
+1	3:78:6	w	بِٱلۡكِتَٰبِ	ﱆ	بالكتاب	in (reciting) the Book	bil-kitābi
+1	3:78:7	w	لِتَحۡسَبُوهُ	ﱇ	لتحسبوه	so that you may think it	litaḥsabūhu
+2	3:78:8	w	مِنَ	ﱈ	من	(is) from	mina
+2	3:78:9	w	ٱلۡكِتَٰبِ	ﱉ	الكتاب	the Book	l-kitābi
+2	3:78:10	w	وَمَا	ﱊ	وما	and not	wamā
+2	3:78:11	w	هُوَ	ﱋ	هو	it	huwa
+2	3:78:12	w	مِنَ	ﱌ	من	(is) from	mina
+2	3:78:13	w	ٱلۡكِتَٰبِ	ﱍ	الكتاب	the Book	l-kitābi
+2	3:78:14	w	وَيَقُولُونَ	ﱎ	ويقولون	And they say	wayaqūlūna
+2	3:78:15	w	هُوَ	ﱏ	هو	It	huwa
+2	3:78:16	w	مِنۡ	ﱐ	من	(is)	min
+3	3:78:17	w	عِندِ	ﱑ	عند	from	ʿindi
+3	3:78:18	w	ٱللَّهِ	ﱒ	الله	Allah	l-lahi
+3	3:78:19	w	وَمَا	ﱓ	وما	But not	wamā
+3	3:78:20	w	هُوَ	ﱔ	هو	it	huwa
+3	3:78:21	w	مِنۡ	ﱕ	من	(is)	min
+3	3:78:22	w	عِندِ	ﱖ	عند	from	ʿindi
+3	3:78:23	w	ٱللَّهِۖ	ﱗ	الله	Allah	l-lahi
+3	3:78:24	w	وَيَقُولُونَ	ﱘ	ويقولون	And they say	wayaqūlūna
+3	3:78:25	w	عَلَى	ﱙ	على	about	ʿalā
+3	3:78:26	w	ٱللَّهِ	ﱚ	الله	Allah	l-lahi
+3	3:78:27	w	ٱلۡكَذِبَ	ﱛ	الكذب	the lie	l-kadhiba
+4	3:78:28	w	وَهُمۡ	ﱜ	وهم	while they	wahum
+4	3:78:29	w	يَعۡلَمُونَ	ﱝ	يعلمون	know	yaʿlamūna
+4	3:78:30	e	٧٨	ﱞ			
+4	3:79:1	w	مَا	ﱟ	ما	Not	mā
+4	3:79:2	w	كَانَ	ﱠ	كان	is	kāna
+4	3:79:3	w	لِبَشَرٍ	ﱡ	لبشر	for a human	libasharin
+4	3:79:4	w	أَن	ﱢ	ان	that	an
+4	3:79:5	w	يُؤۡتِيَهُ	ﱣ	يوتيه	gives him	yu'tiyahu
+4	3:79:6	w	ٱللَّهُ	ﱤ	الله	Allah	l-lahu
+4	3:79:7	w	ٱلۡكِتَٰبَ	ﱥ	الكتاب	the Book	l-kitāba
+5	3:79:8	w	وَٱلۡحُكۡمَ	ﱦ	والحكم	and the wisdom	wal-ḥuk'ma
+5	3:79:9	w	وَٱلنُّبُوَّةَ	ﱧ	والنبوة	and the Prophethood	wal-nubuwata
+5	3:79:10	w	ثُمَّ	ﱨ	ثم	then	thumma
+5	3:79:11	w	يَقُولَ	ﱩ	يقول	he says	yaqūla
+5	3:79:12	w	لِلنَّاسِ	ﱪ	للناس	to the people	lilnnāsi
+5	3:79:13	w	كُونُواْ	ﱫ	كونوا	Be	kūnū
+5	3:79:14	w	عِبَادٗا	ﱬ	عبادا	worshippers	ʿibādan
+5	3:79:15	w	لِّي	ﱭ	لي	of me	lī
+5	3:79:16	w	مِن	ﱮ	من	from	min
+6	3:79:17	w	دُونِ	ﱯ	دون	besides	dūni
+6	3:79:18	w	ٱللَّهِ	ﱰ	الله	Allah	l-lahi
+6	3:79:19	w	وَلَٰكِن	ﱱ	ولاكن	but (would say)	walākin
+6	3:79:20	w	كُونُواْ	ﱲ	كونوا	Be	kūnū
+6	3:79:21	w	رَبَّٰنِيِّـۧنَ	ﱳ	ربانيين	worshippers of the Lord	rabbāniyyīna
+6	3:79:22	w	بِمَا	ﱴ	بما	because	bimā
+6	3:79:23	w	كُنتُمۡ	ﱵ	كنتم	you have been	kuntum
+6	3:79:24	w	تُعَلِّمُونَ	ﱶ	تعلمون	teaching	tuʿallimūna
+7	3:79:25	w	ٱلۡكِتَٰبَ	ﱷ	الكتاب	the Book	l-kitāba
+7	3:79:26	w	وَبِمَا	ﱸ	وبما	and because	wabimā
+7	3:79:27	w	كُنتُمۡ	ﱹ	كنتم	you have been	kuntum
+7	3:79:28	w	تَدۡرُسُونَ	ﱺ	تدرسون	studying (it)	tadrusūna
+7	3:79:29	e	٧٩	ﱻ			
+7	3:80:1	w	وَلَا	ﱼ	ولا	And not	walā
+7	3:80:2	w	يَأۡمُرَكُمۡ	ﱽ	يامركم	he will order you	yamurakum
+7	3:80:3	w	أَن	ﱾ	ان	that	an
+8	3:80:4	w	تَتَّخِذُواْ	ﱿ	تتخذوا	you take	tattakhidhū
+8	3:80:5	w	ٱلۡمَلَٰٓئِكَةَ	ﲀ	الملايكة	the Angels	l-malāikata
+8	3:80:6	w	وَٱلنَّبِيِّـۧنَ	ﲁ	والنبيين	and the Prophets	wal-nabiyīna
+8	3:80:7	w	أَرۡبَابًاۚ	ﲂﲃ	اربابا	(as) lords	arbāban
+8	3:80:8	w	أَيَأۡمُرُكُم	ﲄ	ايامركم	Would he order you	ayamurukum
+8	3:80:9	w	بِٱلۡكُفۡرِ	ﲅ	بالكفر	to [the] disbelief	bil-kuf'ri
+8	3:80:10	w	بَعۡدَ	ﲆ	بعد	after	baʿda
+9	3:80:11	w	إِذۡ	ﲇ	اذ	[when]	idh
+9	3:80:12	w	أَنتُم	ﲈ	انتم	you (have become)	antum
+9	3:80:13	w	مُّسۡلِمُونَ	ﲉ	مسلمون	Muslims	mus'limūna
+9	3:80:14	e	٨٠	ﲊ			
+9	3:81:1	w	وَإِذۡ	ﲋ	واذ	And when	wa-idh
+9	3:81:2	w	أَخَذَ	ﲌ	اخذ	took	akhadha
+9	3:81:3	w	ٱللَّهُ	ﲍ	الله	Allah	l-lahu
+9	3:81:4	w	مِيثَٰقَ	ﲎ	ميثاق	covenant	mīthāqa
+9	3:81:5	w	ٱلنَّبِيِّـۧنَ	ﲏ	النبيين	(of) the Prophets	l-nabiyīna
+9	3:81:6	w	لَمَآ	ﲐ	لما	Certainly, whatever	lamā
+9	3:81:7	w	ءَاتَيۡتُكُم	ﲑ	اتيتكم	I (have) given you	ātaytukum
+10	3:81:8	w	مِّن	ﲒ	من	of	min
+10	3:81:9	w	كِتَٰبٖ	ﲓ	كتاب	(the) Book	kitābin
+10	3:81:10	w	وَحِكۡمَةٖ	ﲔ	وحكمة	and wisdom	waḥik'matin
+10	3:81:11	w	ثُمَّ	ﲕ	ثم	then	thumma
+10	3:81:12	w	جَآءَكُمۡ	ﲖ	جاءكم	comes to you	jāakum
+10	3:81:13	w	رَسُولٞ	ﲗ	رسول	a Messenger	rasūlun
+10	3:81:14	w	مُّصَدِّقٞ	ﲘ	مصدق	confirming	muṣaddiqun
+10	3:81:15	w	لِّمَا	ﲙ	لما	that which	limā
+11	3:81:16	w	مَعَكُمۡ	ﲚ	معكم	(is) with you	maʿakum
+11	3:81:17	w	لَتُؤۡمِنُنَّ	ﲛ	لتومنن	you must believe	latu'minunna
+11	3:81:18	w	بِهِۦ	ﲜ	به	in him	bihi
+11	3:81:19	w	وَلَتَنصُرُنَّهُۥۚ	ﲝﲞ	ولتنصرنه	and you must help him	walatanṣurunnahu
+11	3:81:20	w	قَالَ	ﲟ	قال	He said	qāla
+11	3:81:21	w	ءَأَقۡرَرۡتُمۡ	ﲠ	ااقررتم	Do you affirm	a-aqrartum
+11	3:81:22	w	وَأَخَذۡتُمۡ	ﲡ	واخذتم	and take	wa-akhadhtum
+12	3:81:23	w	عَلَىٰ	ﲢ	على	on	ʿalā
+12	3:81:24	w	ذَٰلِكُمۡ	ﲣ	ذالكم	that (condition)	dhālikum
+12	3:81:25	w	إِصۡرِيۖ	ﲤﲥ	اصري	My Covenant	iṣ'rī
+12	3:81:26	w	قَالُوٓاْ	ﲦ	قالوا	They said	qālū
+12	3:81:27	w	أَقۡرَرۡنَاۚ	ﲧﲨ	اقررنا	We affirm	aqrarnā
+12	3:81:28	w	قَالَ	ﲩ	قال	He said	qāla
+12	3:81:29	w	فَٱشۡهَدُواْ	ﲪ	فاشهدوا	Then bear witness	fa-ish'hadū
+12	3:81:30	w	وَأَنَا۠	ﲫ	وانا	and I (am)	wa-anā
+12	3:81:31	w	مَعَكُم	ﲬ	معكم	with you	maʿakum
+13	3:81:32	w	مِّنَ	ﲭ	من	among	mina
+13	3:81:33	w	ٱلشَّٰهِدِينَ	ﲮ	الشاهدين	the witnesses	l-shāhidīna
+13	3:81:34	e	٨١	ﲯ			
+13	3:82:1	w	فَمَن	ﲰ	فمن	Then whoever	faman
+13	3:82:2	w	تَوَلَّىٰ	ﲱ	تولى	turns away	tawallā
+13	3:82:3	w	بَعۡدَ	ﲲ	بعد	after	baʿda
+13	3:82:4	w	ذَٰلِكَ	ﲳ	ذالك	that	dhālika
+13	3:82:5	w	فَأُوْلَٰٓئِكَ	ﲴ	فاولايك	then those	fa-ulāika
+13	3:82:6	w	هُمُ	ﲵ	هم	they	humu
+14	3:82:7	w	ٱلۡفَٰسِقُونَ	ﲶ	الفاسقون	(are) the defiantly disobedient	l-fāsiqūna
+14	3:82:8	e	٨٢	ﲷ			
+14	3:83:1	w	أَفَغَيۡرَ	ﲸ	افغير	So is (it) other than	afaghayra
+14	3:83:2	w	دِينِ	ﲹ	دين	(the) religion	dīni
+14	3:83:3	w	ٱللَّهِ	ﲺ	الله	(of) Allah	l-lahi
+14	3:83:4	w	يَبۡغُونَ	ﲻ	يبغون	they seek	yabghūna
+14	3:83:5	w	وَلَهُۥٓ	ﲼ	وله	While to Him	walahu
+14	3:83:6	w	أَسۡلَمَ	ﲽ	اسلم	(have) submitted	aslama
+14	3:83:7	w	مَن	ﲾ	من	whatever	man
+14	3:83:8	w	فِي	ﲿ	في	(is) in	fī
+15	3:83:9	w	ٱلسَّمَٰوَٰتِ	ﳀ	السماوات	the heavens	l-samāwāti
+15	3:83:10	w	وَٱلۡأَرۡضِ	ﳁ	والارض	and the earth	wal-arḍi
+15	3:83:11	w	طَوۡعٗا	ﳂ	طوعا	willingly	ṭawʿan
+15	3:83:12	w	وَكَرۡهٗا	ﳃ	وكرها	or unwillingly	wakarhan
+15	3:83:13	w	وَإِلَيۡهِ	ﳄ	واليه	and towards Him	wa-ilayhi
+15	3:83:14	w	يُرۡجَعُونَ	ﳅ	يرجعون	they will be returned	yur'jaʿūna
+15	3:83:15	e	٨٣	ﳆ			

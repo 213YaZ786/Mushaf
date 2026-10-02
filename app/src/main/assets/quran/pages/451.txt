@@ -1,0 +1,142 @@
+1	37:127:1	w	فَكَذَّبُوهُ	ﱁ	فكذبوه	But they denied him	fakadhabūhu
+1	37:127:2	w	فَإِنَّهُمۡ	ﱂ	فانهم	so indeed, they	fa-innahum
+1	37:127:3	w	لَمُحۡضَرُونَ	ﱃ	لمحضرون	(will) surely be brought	lamuḥ'ḍarūna
+1	37:127:4	e	١٢٧	ﱄ			
+1	37:128:1	w	إِلَّا	ﱅ	الا	Except	illā
+1	37:128:2	w	عِبَادَ	ﱆ	عباد	(the) slaves	ʿibāda
+1	37:128:3	w	ٱللَّهِ	ﱇ	الله	(of) Allah	l-lahi
+1	37:128:4	w	ٱلۡمُخۡلَصِينَ	ﱈ	المخلصين	the chosen ones	l-mukh'laṣīna
+1	37:128:5	e	١٢٨	ﱉ			
+2	37:129:1	w	وَتَرَكۡنَا	ﱊ	وتركنا	And We left	wataraknā
+2	37:129:2	w	عَلَيۡهِ	ﱋ	عليه	for him	ʿalayhi
+2	37:129:3	w	فِي	ﱌ	في	among	fī
+2	37:129:4	w	ٱلۡأٓخِرِينَ	ﱍ	الاخرين	the later generations	l-ākhirīna
+2	37:129:5	e	١٢٩	ﱎ			
+2	37:130:1	w	سَلَٰمٌ	ﱏ	سلام	Peace be	salāmun
+2	37:130:2	w	عَلَىٰٓ	ﱐ	على	upon	ʿalā
+2	37:130:3	w	إِلۡ يَاسِينَ	ﱑ ﱒ	ال ياسين	Elijah	il yāsīna
+2	37:130:4	e	١٣٠	ﱓ			
+2	37:131:1	w	إِنَّا	ﱔ	انا	Indeed, We	innā
+3	37:131:2	w	كَذَٰلِكَ	ﱕ	كذالك	thus	kadhālika
+3	37:131:3	w	نَجۡزِي	ﱖ	نجزي	reward	najzī
+3	37:131:4	w	ٱلۡمُحۡسِنِينَ	ﱗ	المحسنين	the good-doers	l-muḥ'sinīna
+3	37:131:5	e	١٣١	ﱘ			
+3	37:132:1	w	إِنَّهُۥ	ﱙ	انه	Indeed, he (was)	innahu
+3	37:132:2	w	مِنۡ	ﱚ	من	of	min
+3	37:132:3	w	عِبَادِنَا	ﱛ	عبادنا	Our slaves	ʿibādinā
+3	37:132:4	w	ٱلۡمُؤۡمِنِينَ	ﱜ	المومنين	believing	l-mu'minīna
+4	37:132:5	e	١٣٢	ﱝ			
+4	37:133:1	w	وَإِنَّ	ﱞ	وان	And indeed	wa-inna
+4	37:133:2	w	لُوطٗا	ﱟ	لوطا	Lut	lūṭan
+4	37:133:3	w	لَّمِنَ	ﱠ	لمن	(was) of	lamina
+4	37:133:4	w	ٱلۡمُرۡسَلِينَ	ﱡ	المرسلين	the Messengers	l-mur'salīna
+4	37:133:5	e	١٣٣	ﱢ			
+4	37:134:1	w	إِذۡ	ﱣ	اذ	When	idh
+4	37:134:2	w	نَجَّيۡنَٰهُ	ﱤ	نجيناه	We saved him	najjaynāhu
+4	37:134:3	w	وَأَهۡلَهُۥٓ	ﱥ	واهله	and his family	wa-ahlahu
+4	37:134:4	w	أَجۡمَعِينَ	ﱦ	اجمعين	all	ajmaʿīna
+5	37:134:5	e	١٣٤	ﱧ			
+5	37:135:1	w	إِلَّا	ﱨ	الا	Except	illā
+5	37:135:2	w	عَجُوزٗا	ﱩ	عجوزا	an old woman	ʿajūzan
+5	37:135:3	w	فِي	ﱪ	في	(was) among	fī
+5	37:135:4	w	ٱلۡغَٰبِرِينَ	ﱫ	الغابرين	those who remained behind	l-ghābirīna
+5	37:135:5	e	١٣٥	ﱬ			
+5	37:136:1	w	ثُمَّ	ﱭ	ثم	Then	thumma
+5	37:136:2	w	دَمَّرۡنَا	ﱮ	دمرنا	We destroyed	dammarnā
+5	37:136:3	w	ٱلۡأٓخَرِينَ	ﱯ	الاخرين	the others	l-ākharīna
+5	37:136:4	e	١٣٦	ﱰ			
+5	37:137:1	w	وَإِنَّكُمۡ	ﱱ	وانكم	And indeed, you	wa-innakum
+6	37:137:2	w	لَتَمُرُّونَ	ﱲ	لتمرون	surely pass	latamurrūna
+6	37:137:3	w	عَلَيۡهِم	ﱳ	عليهم	by them	ʿalayhim
+6	37:137:4	w	مُّصۡبِحِينَ	ﱴ	مصبحين	(in the) morning	muṣ'biḥīna
+6	37:137:5	e	١٣٧	ﱵ			
+6	37:138:1	w	وَبِٱلَّيۡلِۚ	ﱶﱷ	وبالليل	And at night	wabi-al-layli
+6	37:138:2	w	أَفَلَا	ﱸ	افلا	Then will not	afalā
+6	37:138:3	w	تَعۡقِلُونَ	ﱹ	تعقلون	you use reason	taʿqilūna
+6	37:138:4	e	١٣٨	ﱺ			
+6	37:139:1	w	وَإِنَّ	ﱻ	وان	And indeed	wa-inna
+7	37:139:2	w	يُونُسَ	ﱼ	يونس	Yunus	yūnusa
+7	37:139:3	w	لَمِنَ	ﱽ	لمن	(was) surely of	lamina
+7	37:139:4	w	ٱلۡمُرۡسَلِينَ	ﱾ	المرسلين	the Messengers	l-mur'salīna
+7	37:139:5	e	١٣٩	ﱿ			
+7	37:140:1	w	إِذۡ	ﲀ	اذ	When	idh
+7	37:140:2	w	أَبَقَ	ﲁ	ابق	he ran away	abaqa
+7	37:140:3	w	إِلَى	ﲂ	الى	to	ilā
+7	37:140:4	w	ٱلۡفُلۡكِ	ﲃ	الفلك	the ship	l-ful'ki
+7	37:140:5	w	ٱلۡمَشۡحُونِ	ﲄ	المشحون	laden	l-mashḥūni
+7	37:140:6	e	١٤٠	ﲅ			
+8	37:141:1	w	فَسَاهَمَ	ﲆ	فساهم	Then he drew lots	fasāhama
+8	37:141:2	w	فَكَانَ	ﲇ	فكان	and was	fakāna
+8	37:141:3	w	مِنَ	ﲈ	من	of	mina
+8	37:141:4	w	ٱلۡمُدۡحَضِينَ	ﲉ	المدحضين	the losers	l-mud'ḥaḍīna
+8	37:141:5	e	١٤١	ﲊ			
+8	37:142:1	w	فَٱلۡتَقَمَهُ	ﲋ	فالتقمه	Then swallowed him	fal-taqamahu
+8	37:142:2	w	ٱلۡحُوتُ	ﲌ	الحوت	the fish	l-ḥūtu
+8	37:142:3	w	وَهُوَ	ﲍ	وهو	while he	wahuwa
+8	37:142:4	w	مُلِيمٞ	ﲎ	مليم	(was) blameworthy	mulīmun
+9	37:142:5	e	١٤٢	ﲏ			
+9	37:143:1	w	فَلَوۡلَآ	ﲐ	فلولا	And if not	falawlā
+9	37:143:2	w	أَنَّهُۥ	ﲑ	انه	that he	annahu
+9	37:143:3	w	كَانَ	ﲒ	كان	was	kāna
+9	37:143:4	w	مِنَ	ﲓ	من	of	mina
+9	37:143:5	w	ٱلۡمُسَبِّحِينَ	ﲔ	المسبحين	those who glorify	l-musabiḥīna
+9	37:143:6	e	١٤٣	ﲕ			
+9	37:144:1	w	لَلَبِثَ	ﲖ	للبث	Certainly, he (would have) remained	lalabitha
+9	37:144:2	w	فِي	ﲗ	في	in	fī
+9	37:144:3	w	بَطۡنِهِۦٓ	ﲘ	بطنه	its belly	baṭnihi
+9	37:144:4	w	إِلَىٰ	ﲙ	الى	until	ilā
+9	37:144:5	w	يَوۡمِ	ﲚ	يوم	the Day	yawmi
+10	37:144:6	w	يُبۡعَثُونَ	ﲛ	يبعثون	they are resurrected	yub'ʿathūna
+10	37:144:7	e	١٤٤	ﲜ			
+10	37:145:1	w	۞ فَنَبَذۡنَٰهُ	ﲝ ﲞ	۞ فنبذناه	But We cast him	fanabadhnāhu
+10	37:145:2	w	بِٱلۡعَرَآءِ	ﲟ	بالعراء	onto the open shore	bil-ʿarāi
+10	37:145:3	w	وَهُوَ	ﲠ	وهو	while he	wahuwa
+10	37:145:4	w	سَقِيمٞ	ﲡ	سقيم	(was) ill	saqīmun
+10	37:145:5	e	١٤٥	ﲢ			
+10	37:146:1	w	وَأَنۢبَتۡنَا	ﲣ	وانبتنا	And We caused to grow	wa-anbatnā
+11	37:146:2	w	عَلَيۡهِ	ﲤ	عليه	over him	ʿalayhi
+11	37:146:3	w	شَجَرَةٗ	ﲥ	شجرة	a plant	shajaratan
+11	37:146:4	w	مِّن	ﲦ	من	of	min
+11	37:146:5	w	يَقۡطِينٖ	ﲧ	يقطين	gourd	yaqṭīnin
+11	37:146:6	e	١٤٦	ﲨ			
+11	37:147:1	w	وَأَرۡسَلۡنَٰهُ	ﲩ	وارسلناه	And We sent him	wa-arsalnāhu
+11	37:147:2	w	إِلَىٰ	ﲪ	الى	to	ilā
+11	37:147:3	w	مِاْئَةِ	ﲫ	ماية	a hundred	mi-ati
+11	37:147:4	w	أَلۡفٍ	ﲬ	الف	thousand	alfin
+11	37:147:5	w	أَوۡ	ﲭ	او	or	aw
+12	37:147:6	w	يَزِيدُونَ	ﲮ	يزيدون	more	yazīdūna
+12	37:147:7	e	١٤٧	ﲯ			
+12	37:148:1	w	فَـَٔامَنُواْ	ﲰ	فامنوا	And they believed	faāmanū
+12	37:148:2	w	فَمَتَّعۡنَٰهُمۡ	ﲱ	فمتعناهم	so We gave them enjoyment	famattaʿnāhum
+12	37:148:3	w	إِلَىٰ	ﲲ	الى	for	ilā
+12	37:148:4	w	حِينٖ	ﲳ	حين	a while	ḥīnin
+12	37:148:5	e	١٤٨	ﲴ			
+12	37:149:1	w	فَٱسۡتَفۡتِهِمۡ	ﲵ	فاستفتهم	Then ask them	fa-is'taftihim
+13	37:149:2	w	أَلِرَبِّكَ	ﲶ	الربك	Does your Lord	alirabbika
+13	37:149:3	w	ٱلۡبَنَاتُ	ﲷ	البنات	(have) daughters	l-banātu
+13	37:149:4	w	وَلَهُمُ	ﲸ	ولهم	while for them	walahumu
+13	37:149:5	w	ٱلۡبَنُونَ	ﲹ	البنون	(are) sons	l-banūna
+13	37:149:6	e	١٤٩	ﲺ			
+13	37:150:1	w	أَمۡ	ﲻ	ام	Or	am
+13	37:150:2	w	خَلَقۡنَا	ﲼ	خلقنا	did We create	khalaqnā
+13	37:150:3	w	ٱلۡمَلَٰٓئِكَةَ	ﲽ	الملايكة	the Angels	l-malāikata
+13	37:150:4	w	إِنَٰثٗا	ﲾ	اناثا	females	ināthan
+14	37:150:5	w	وَهُمۡ	ﲿ	وهم	while they	wahum
+14	37:150:6	w	شَٰهِدُونَ	ﳀ	شاهدون	(were) witnesses	shāhidūna
+14	37:150:7	e	١٥٠	ﳁ			
+14	37:151:1	w	أَلَآ	ﳂ	الا	No doubt	alā
+14	37:151:2	w	إِنَّهُم	ﳃ	انهم	indeed, they	innahum
+14	37:151:3	w	مِّنۡ	ﳄ	من	of	min
+14	37:151:4	w	إِفۡكِهِمۡ	ﳅ	افكهم	their falsehood	if'kihim
+14	37:151:5	w	لَيَقُولُونَ	ﳆ	ليقولون	[they] say	layaqūlūna
+14	37:151:6	e	١٥١	ﳇ			
+14	37:152:1	w	وَلَدَ	ﳈ	ولد	Allah has begotten	walada
+15	37:152:2	w	ٱللَّهُ	ﳉ	الله	Allah has begotten	l-lahu
+15	37:152:3	w	وَإِنَّهُمۡ	ﳊ	وانهم	and indeed, they	wa-innahum
+15	37:152:4	w	لَكَٰذِبُونَ	ﳋ	لكاذبون	surely (are) liars	lakādhibūna
+15	37:152:5	e	١٥٢	ﳌ			
+15	37:153:1	w	أَصۡطَفَى	ﳍ	اصطفى	Has He chosen	aṣṭafā
+15	37:153:2	w	ٱلۡبَنَاتِ	ﳎ	البنات	[the] daughters	l-banāti
+15	37:153:3	w	عَلَى	ﳏ	على	over	ʿalā
+15	37:153:4	w	ٱلۡبَنِينَ	ﳐ	البنين	sons	l-banīna
+15	37:153:5	e	١٥٣	ﳑ			

@@ -1,0 +1,150 @@
+1	3:154:1	w	ثُمَّ	ﱁ	ثم	Then	thumma
+1	3:154:2	w	أَنزَلَ	ﱂ	انزل	He sent down	anzala
+1	3:154:3	w	عَلَيۡكُم	ﱃ	عليكم	upon you	ʿalaykum
+1	3:154:4	w	مِّنۢ	ﱄ	من	from	min
+1	3:154:5	w	بَعۡدِ	ﱅ	بعد	after	baʿdi
+1	3:154:6	w	ٱلۡغَمِّ	ﱆ	الغم	the distress	l-ghami
+1	3:154:7	w	أَمَنَةٗ	ﱇ	امنة	security	amanatan
+1	3:154:8	w	نُّعَاسٗا	ﱈ	نعاسا	slumber	nuʿāsan
+1	3:154:9	w	يَغۡشَىٰ	ﱉ	يغشى	overcoming	yaghshā
+1	3:154:10	w	طَآئِفَةٗ	ﱊ	طايفة	a group	ṭāifatan
+2	3:154:11	w	مِّنكُمۡۖ	ﱋﱌ	منكم	of you	minkum
+2	3:154:12	w	وَطَآئِفَةٞ	ﱍ	وطايفة	while a group	waṭāifatun
+2	3:154:13	w	قَدۡ	ﱎ	قد	certainly	qad
+2	3:154:14	w	أَهَمَّتۡهُمۡ	ﱏ	اهمتهم	worried [them]	ahammathum
+2	3:154:15	w	أَنفُسُهُمۡ	ﱐ	انفسهم	(about) themselves	anfusuhum
+2	3:154:16	w	يَظُنُّونَ	ﱑ	يظنون	thinking	yaẓunnūna
+2	3:154:17	w	بِٱللَّهِ	ﱒ	بالله	about Allah	bil-lahi
+2	3:154:18	w	غَيۡرَ	ﱓ	غير	other than	ghayra
+3	3:154:19	w	ٱلۡحَقِّ	ﱔ	الحق	the truth	l-ḥaqi
+3	3:154:20	w	ظَنَّ	ﱕ	ظن	(the) thought	ẓanna
+3	3:154:21	w	ٱلۡجَٰهِلِيَّةِۖ	ﱖﱗ	الجاهلية	(of) [the] ignorance	l-jāhiliyati
+3	3:154:22	w	يَقُولُونَ	ﱘ	يقولون	saying	yaqūlūna
+3	3:154:23	w	هَل	ﱙ	هل	Is (there)	hal
+3	3:154:24	w	لَّنَا	ﱚ	لنا	for us	lanā
+3	3:154:25	w	مِنَ	ﱛ	من	from	mina
+3	3:154:26	w	ٱلۡأَمۡرِ	ﱜ	الامر	the matter	l-amri
+3	3:154:27	w	مِن	ﱝ	من	any	min
+3	3:154:28	w	شَيۡءٖۗ	ﱞﱟ	شيء	thing	shayin
+4	3:154:29	w	قُلۡ	ﱠ	قل	Say	qul
+4	3:154:30	w	إِنَّ	ﱡ	ان	Indeed	inna
+4	3:154:31	w	ٱلۡأَمۡرَ	ﱢ	الامر	the matter	l-amra
+4	3:154:32	w	كُلَّهُۥ	ﱣ	كله	all (of) it	kullahu
+4	3:154:33	w	لِلَّهِۗ	ﱤﱥ	لله	(is) for Allah	lillahi
+4	3:154:34	w	يُخۡفُونَ	ﱦ	يخفون	They hide	yukh'fūna
+4	3:154:35	w	فِيٓ	ﱧ	في	in	fī
+4	3:154:36	w	أَنفُسِهِم	ﱨ	انفسهم	themselves	anfusihim
+4	3:154:37	w	مَّا	ﱩ	ما	what	mā
+4	3:154:38	w	لَا	ﱪ	لا	not	lā
+4	3:154:39	w	يُبۡدُونَ	ﱫ	يبدون	they reveal	yub'dūna
+4	3:154:40	w	لَكَۖ	ﱬﱭ	لك	to you	laka
+5	3:154:41	w	يَقُولُونَ	ﱮ	يقولون	They say	yaqūlūna
+5	3:154:42	w	لَوۡ	ﱯ	لو	If	law
+5	3:154:43	w	كَانَ	ﱰ	كان	was	kāna
+5	3:154:44	w	لَنَا	ﱱ	لنا	for us	lanā
+5	3:154:45	w	مِنَ	ﱲ	من	from	mina
+5	3:154:46	w	ٱلۡأَمۡرِ	ﱳ	الامر	the matter	l-amri
+5	3:154:47	w	شَيۡءٞ	ﱴ	شيء	anything	shayon
+5	3:154:48	w	مَّا	ﱵ	ما	not	mā
+5	3:154:49	w	قُتِلۡنَا	ﱶ	قتلنا	we would have been killed	qutil'nā
+5	3:154:50	w	هَٰهُنَاۗ	ﱷﱸ	هاهنا	here	hāhunā
+5	3:154:51	w	قُل	ﱹ	قل	Say	qul
+5	3:154:52	w	لَّوۡ	ﱺ	لو	If	law
+5	3:154:53	w	كُنتُمۡ	ﱻ	كنتم	you were	kuntum
+6	3:154:54	w	فِي	ﱼ	في	in	fī
+6	3:154:55	w	بُيُوتِكُمۡ	ﱽ	بيوتكم	your houses	buyūtikum
+6	3:154:56	w	لَبَرَزَ	ﱾ	لبرز	surely (would have) come out	labaraza
+6	3:154:57	w	ٱلَّذِينَ	ﱿ	الذين	those who	alladhīna
+6	3:154:58	w	كُتِبَ	ﲀ	كتب	was decreed	kutiba
+6	3:154:59	w	عَلَيۡهِمُ	ﲁ	عليهم	upon them	ʿalayhimu
+6	3:154:60	w	ٱلۡقَتۡلُ	ﲂ	القتل	[the] death	l-qatlu
+6	3:154:61	w	إِلَىٰ	ﲃ	الى	towards	ilā
+6	3:154:62	w	مَضَاجِعِهِمۡۖ	ﲄﲅ	مضاجعهم	their places of death	maḍājiʿihim
+7	3:154:63	w	وَلِيَبۡتَلِيَ	ﲆ	وليبتلي	And that might test	waliyabtaliya
+7	3:154:64	w	ٱللَّهُ	ﲇ	الله	Allah	l-lahu
+7	3:154:65	w	مَا	ﲈ	ما	what	mā
+7	3:154:66	w	فِي	ﲉ	في	(is) in	fī
+7	3:154:67	w	صُدُورِكُمۡ	ﲊ	صدوركم	your breasts	ṣudūrikum
+7	3:154:68	w	وَلِيُمَحِّصَ	ﲋ	وليمحص	and that He may purge	waliyumaḥḥiṣa
+7	3:154:69	w	مَا	ﲌ	ما	what	mā
+7	3:154:70	w	فِي	ﲍ	في	(is) in	fī
+7	3:154:71	w	قُلُوبِكُمۡۚ	ﲎﲏ	قلوبكم	your hearts	qulūbikum
+8	3:154:72	w	وَٱللَّهُ	ﲐ	والله	And Allah	wal-lahu
+8	3:154:73	w	عَلِيمُۢ	ﲑ	عليم	(is) All-Aware	ʿalīmun
+8	3:154:74	w	بِذَاتِ	ﲒ	بذات	of what	bidhāti
+8	3:154:75	w	ٱلصُّدُورِ	ﲓ	الصدور	(is in) the breasts	l-ṣudūri
+8	3:154:76	e	١٥٤	ﲔ			
+8	3:155:1	w	إِنَّ	ﲕ	ان	Indeed	inna
+8	3:155:2	w	ٱلَّذِينَ	ﲖ	الذين	those who	alladhīna
+8	3:155:3	w	تَوَلَّوۡاْ	ﲗ	تولوا	turned back	tawallaw
+8	3:155:4	w	مِنكُمۡ	ﲘ	منكم	among you	minkum
+9	3:155:5	w	يَوۡمَ	ﲙ	يوم	(on the) day	yawma
+9	3:155:6	w	ٱلۡتَقَى	ﲚ	التقى	met	l-taqā
+9	3:155:7	w	ٱلۡجَمۡعَانِ	ﲛ	الجمعان	the two hosts	l-jamʿāni
+9	3:155:8	w	إِنَّمَا	ﲜ	انما	only	innamā
+9	3:155:9	w	ٱسۡتَزَلَّهُمُ	ﲝ	استزلهم	made them slip	is'tazallahumu
+9	3:155:10	w	ٱلشَّيۡطَٰنُ	ﲞ	الشيطان	the Shaitaan	l-shayṭānu
+9	3:155:11	w	بِبَعۡضِ	ﲟ	ببعض	for some	bibaʿḍi
+10	3:155:12	w	مَا	ﲠ	ما	(of) what	mā
+10	3:155:13	w	كَسَبُواْۖ	ﲡﲢ	كسبوا	they (had) earned	kasabū
+10	3:155:14	w	وَلَقَدۡ	ﲣ	ولقد	And surely	walaqad
+10	3:155:15	w	عَفَا	ﲤ	عفا	forgave	ʿafā
+10	3:155:16	w	ٱللَّهُ	ﲥ	الله	Allah	l-lahu
+10	3:155:17	w	عَنۡهُمۡۗ	ﲦﲧ	عنهم	[on] them	ʿanhum
+10	3:155:18	w	إِنَّ	ﲨ	ان	indeed	inna
+10	3:155:19	w	ٱللَّهَ	ﲩ	الله	Allah	l-laha
+10	3:155:20	w	غَفُورٌ	ﲪ	غفور	(is) Oft-Forgiving	ghafūrun
+10	3:155:21	w	حَلِيمٞ	ﲫ	حليم	All-Forbearing	ḥalīmun
+10	3:155:22	e	١٥٥	ﲬ			
+10	3:156:1	w	يَٰٓأَيُّهَا	ﲭ	يا ايها	O you	yāayyuhā
+11	3:156:2	w	ٱلَّذِينَ	ﲮ	الذين	who	alladhīna
+11	3:156:3	w	ءَامَنُواْ	ﲯ	امنوا	believe[d]	āmanū
+11	3:156:4	w	لَا	ﲰ	لا	(Do) not	lā
+11	3:156:5	w	تَكُونُواْ	ﲱ	تكونوا	be	takūnū
+11	3:156:6	w	كَٱلَّذِينَ	ﲲ	كالذين	like those who	ka-alladhīna
+11	3:156:7	w	كَفَرُواْ	ﲳ	كفروا	disbelieved	kafarū
+11	3:156:8	w	وَقَالُواْ	ﲴ	وقالوا	and they said	waqālū
+11	3:156:9	w	لِإِخۡوَٰنِهِمۡ	ﲵ	لاخوانهم	about their brothers	li-ikh'wānihim
+11	3:156:10	w	إِذَا	ﲶ	اذا	when	idhā
+12	3:156:11	w	ضَرَبُواْ	ﲷ	ضربوا	they traveled	ḍarabū
+12	3:156:12	w	فِي	ﲸ	في	in	fī
+12	3:156:13	w	ٱلۡأَرۡضِ	ﲹ	الارض	the earth	l-arḍi
+12	3:156:14	w	أَوۡ	ﲺ	او	or	aw
+12	3:156:15	w	كَانُواْ	ﲻ	كانوا	they were	kānū
+12	3:156:16	w	غُزّٗى	ﲼ	غزى	fighting	ghuzzan
+12	3:156:17	w	لَّوۡ	ﲽ	لو	If	law
+12	3:156:18	w	كَانُواْ	ﲾ	كانوا	they had been	kānū
+12	3:156:19	w	عِندَنَا	ﲿ	عندنا	with us	ʿindanā
+12	3:156:20	w	مَا	ﳀ	ما	not	mā
+12	3:156:21	w	مَاتُواْ	ﳁ	ماتوا	they (would have) died	mātū
+13	3:156:22	w	وَمَا	ﳂ	وما	and not	wamā
+13	3:156:23	w	قُتِلُواْ	ﳃ	قتلوا	they (would have) been killed	qutilū
+13	3:156:24	w	لِيَجۡعَلَ	ﳄ	ليجعل	So makes	liyajʿala
+13	3:156:25	w	ٱللَّهُ	ﳅ	الله	Allah	l-lahu
+13	3:156:26	w	ذَٰلِكَ	ﳆ	ذالك	that	dhālika
+13	3:156:27	w	حَسۡرَةٗ	ﳇ	حسرة	a regret	ḥasratan
+13	3:156:28	w	فِي	ﳈ	في	in	fī
+13	3:156:29	w	قُلُوبِهِمۡۗ	ﳉﳊ	قلوبهم	their hearts	qulūbihim
+13	3:156:30	w	وَٱللَّهُ	ﳋ	والله	And Allah	wal-lahu
+13	3:156:31	w	يُحۡيِۦ	ﳌ	يحيي	gives life	yuḥ'yī
+14	3:156:32	w	وَيُمِيتُۗ	ﳍﳎ	ويميت	and causes death	wayumītu
+14	3:156:33	w	وَٱللَّهُ	ﳏ	والله	and Allah	wal-lahu
+14	3:156:34	w	بِمَا	ﳐ	بما	of what	bimā
+14	3:156:35	w	تَعۡمَلُونَ	ﳑ	تعملون	you do	taʿmalūna
+14	3:156:36	w	بَصِيرٞ	ﳒ	بصير	(is) All-Seer	baṣīrun
+14	3:156:37	e	١٥٦	ﳓ			
+14	3:157:1	w	وَلَئِن	ﳔ	ولين	And if	wala-in
+14	3:157:2	w	قُتِلۡتُمۡ	ﳕ	قتلتم	you are killed	qutil'tum
+14	3:157:3	w	فِي	ﳖ	في	in	fī
+14	3:157:4	w	سَبِيلِ	ﳗ	سبيل	(the) way	sabīli
+15	3:157:5	w	ٱللَّهِ	ﳘ	الله	(of) Allah	l-lahi
+15	3:157:6	w	أَوۡ	ﳙ	او	or	aw
+15	3:157:7	w	مُتُّمۡ	ﳚ	متم	die[d]	muttum
+15	3:157:8	w	لَمَغۡفِرَةٞ	ﳛ	لمغفرة	certainly forgiveness	lamaghfiratun
+15	3:157:9	w	مِّنَ	ﳜ	من	from	mina
+15	3:157:10	w	ٱللَّهِ	ﳝ	الله	Allah	l-lahi
+15	3:157:11	w	وَرَحۡمَةٌ	ﳞ	ورحمة	and Mercy	waraḥmatun
+15	3:157:12	w	خَيۡرٞ	ﳟ	خير	(are) better	khayrun
+15	3:157:13	w	مِّمَّا	ﳠ	مما	than what	mimmā
+15	3:157:14	w	يَجۡمَعُونَ	ﳡ	يجمعون	they accumulate	yajmaʿūna
+15	3:157:15	e	١٥٧	ﳢ			

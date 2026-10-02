@@ -1,0 +1,167 @@
+1	76:6:1	w	عَيۡنٗا	ﱁ	عينا	A spring	ʿaynan
+1	76:6:2	w	يَشۡرَبُ	ﱂ	يشرب	will drink	yashrabu
+1	76:6:3	w	بِهَا	ﱃ	بها	from it	bihā
+1	76:6:4	w	عِبَادُ	ﱄ	عباد	(the) slaves	ʿibādu
+1	76:6:5	w	ٱللَّهِ	ﱅ	الله	(of) Allah	l-lahi
+1	76:6:6	w	يُفَجِّرُونَهَا	ﱆ	يفجرونها	causing it to gush forth	yufajjirūnahā
+1	76:6:7	w	تَفۡجِيرٗا	ﱇ	تفجيرا	abundantly	tafjīran
+1	76:6:8	e	٦	ﱈ			
+1	76:7:1	w	يُوفُونَ	ﱉ	يوفون	They fulfill	yūfūna
+1	76:7:2	w	بِٱلنَّذۡرِ	ﱊ	بالنذر	the vows	bil-nadhri
+1	76:7:3	w	وَيَخَافُونَ	ﱋ	ويخافون	and fear	wayakhāfūna
+2	76:7:4	w	يَوۡمٗا	ﱌ	يوما	a Day	yawman
+2	76:7:5	w	كَانَ	ﱍ	كان	(which) is	kāna
+2	76:7:6	w	شَرُّهُۥ	ﱎ	شره	its evil	sharruhu
+2	76:7:7	w	مُسۡتَطِيرٗا	ﱏ	مستطيرا	widespread	mus'taṭīran
+2	76:7:8	e	٧	ﱐ			
+2	76:8:1	w	وَيُطۡعِمُونَ	ﱑ	ويطعمون	And they feed	wayuṭ'ʿimūna
+2	76:8:2	w	ٱلطَّعَامَ	ﱒ	الطعام	the food	l-ṭaʿāma
+2	76:8:3	w	عَلَىٰ	ﱓ	على	in spite of	ʿalā
+2	76:8:4	w	حُبِّهِۦ	ﱔ	حبه	love (for) it	ḥubbihi
+2	76:8:5	w	مِسۡكِينٗا	ﱕ	مسكينا	(to the) needy	mis'kīnan
+3	76:8:6	w	وَيَتِيمٗا	ﱖ	ويتيما	and (the) orphan	wayatīman
+3	76:8:7	w	وَأَسِيرًا	ﱗ	واسيرا	and (the) captive	wa-asīran
+3	76:8:8	e	٨	ﱘ			
+3	76:9:1	w	إِنَّمَا	ﱙ	انما	Only	innamā
+3	76:9:2	w	نُطۡعِمُكُمۡ	ﱚ	نطعمكم	we feed you	nuṭ'ʿimukum
+3	76:9:3	w	لِوَجۡهِ	ﱛ	لوجه	for (the) Countenance	liwajhi
+3	76:9:4	w	ٱللَّهِ	ﱜ	الله	(of) Allah	l-lahi
+3	76:9:5	w	لَا	ﱝ	لا	Not	lā
+3	76:9:6	w	نُرِيدُ	ﱞ	نريد	we desire	nurīdu
+3	76:9:7	w	مِنكُمۡ	ﱟ	منكم	from you	minkum
+3	76:9:8	w	جَزَآءٗ	ﱠ	جزاء	any reward	jazāan
+3	76:9:9	w	وَلَا	ﱡ	ولا	and not	walā
+3	76:9:10	w	شُكُورًا	ﱢ	شكورا	thanks	shukūran
+4	76:9:11	e	٩	ﱣ			
+4	76:10:1	w	إِنَّا	ﱤ	انا	Indeed, we	innā
+4	76:10:2	w	نَخَافُ	ﱥ	نخاف	fear	nakhāfu
+4	76:10:3	w	مِن	ﱦ	من	from	min
+4	76:10:4	w	رَّبِّنَا	ﱧ	ربنا	our Lord	rabbinā
+4	76:10:5	w	يَوۡمًا	ﱨ	يوما	a Day	yawman
+4	76:10:6	w	عَبُوسٗا	ﱩ	عبوسا	harsh	ʿabūsan
+4	76:10:7	w	قَمۡطَرِيرٗا	ﱪ	قمطريرا	and distressful	qamṭarīran
+4	76:10:8	e	١٠	ﱫ			
+4	76:11:1	w	فَوَقَىٰهُمُ	ﱬ	فوقاهم	But will protect them	fawaqāhumu
+4	76:11:2	w	ٱللَّهُ	ﱭ	الله	Allah	l-lahu
+4	76:11:3	w	شَرَّ	ﱮ	شر	(from the) evil	sharra
+4	76:11:4	w	ذَٰلِكَ	ﱯ	ذالك	(of) that	dhālika
+5	76:11:5	w	ٱلۡيَوۡمِ	ﱰ	اليوم	Day	l-yawmi
+5	76:11:6	w	وَلَقَّىٰهُمۡ	ﱱ	ولقاهم	and will cause them to meet	walaqqāhum
+5	76:11:7	w	نَضۡرَةٗ	ﱲ	نضرة	radiance	naḍratan
+5	76:11:8	w	وَسُرُورٗا	ﱳ	وسرورا	and happiness	wasurūran
+5	76:11:9	e	١١	ﱴ			
+5	76:12:1	w	وَجَزَىٰهُم	ﱵ	وجزاهم	And will reward them	wajazāhum
+5	76:12:2	w	بِمَا	ﱶ	بما	because	bimā
+5	76:12:3	w	صَبَرُواْ	ﱷ	صبروا	they were patient	ṣabarū
+5	76:12:4	w	جَنَّةٗ	ﱸ	جنة	(with) a Garden	jannatan
+5	76:12:5	w	وَحَرِيرٗا	ﱹ	وحريرا	and silk	waḥarīran
+5	76:12:6	e	١٢	ﱺ			
+6	76:13:1	w	مُّتَّكِـِٔينَ	ﱻ	متكيين	Reclining	muttakiīna
+6	76:13:2	w	فِيهَا	ﱼ	فيها	therein	fīhā
+6	76:13:3	w	عَلَى	ﱽ	على	on	ʿalā
+6	76:13:4	w	ٱلۡأَرَآئِكِۖ	ﱾﱿ	الارايك	couches	l-arāiki
+6	76:13:5	w	لَا	ﲀ	لا	Not	lā
+6	76:13:6	w	يَرَوۡنَ	ﲁ	يرون	they will see	yarawna
+6	76:13:7	w	فِيهَا	ﲂ	فيها	therein	fīhā
+6	76:13:8	w	شَمۡسٗا	ﲃ	شمسا	sun	shamsan
+6	76:13:9	w	وَلَا	ﲄ	ولا	and not	walā
+6	76:13:10	w	زَمۡهَرِيرٗا	ﲅ	زمهريرا	freezing cold	zamharīran
+6	76:13:11	e	١٣	ﲆ			
+7	76:14:1	w	وَدَانِيَةً	ﲇ	ودانية	And near	wadāniyatan
+7	76:14:2	w	عَلَيۡهِمۡ	ﲈ	عليهم	above them	ʿalayhim
+7	76:14:3	w	ظِلَٰلُهَا	ﲉ	ظلالها	(are) its shades	ẓilāluhā
+7	76:14:4	w	وَذُلِّلَتۡ	ﲊ	وذللت	and will hang low	wadhullilat
+7	76:14:5	w	قُطُوفُهَا	ﲋ	قطوفها	its cluster of fruits	quṭūfuhā
+7	76:14:6	w	تَذۡلِيلٗا	ﲌ	تذليلا	dangling low	tadhlīlan
+7	76:14:7	e	١٤	ﲍ			
+7	76:15:1	w	وَيُطَافُ	ﲎ	ويطاف	And will be circulated	wayuṭāfu
+7	76:15:2	w	عَلَيۡهِم	ﲏ	عليهم	among them	ʿalayhim
+7	76:15:3	w	بِـَٔانِيَةٖ	ﲐ	بانية	vessels	biāniyatin
+8	76:15:4	w	مِّن	ﲑ	من	of	min
+8	76:15:5	w	فِضَّةٖ	ﲒ	فضة	silver	fiḍḍatin
+8	76:15:6	w	وَأَكۡوَابٖ	ﲓ	واكواب	and cups	wa-akwābin
+8	76:15:7	w	كَانَتۡ	ﲔ	كانت	(that) are	kānat
+8	76:15:8	w	قَوَارِيرَا۠	ﲕ	قواريرا	(of) crystal	qawārīrā
+8	76:15:9	e	١٥	ﲖ			
+8	76:16:1	w	قَوَارِيرَاْ	ﲗ	قوارير	Crystal-clear	qawārīrā
+8	76:16:2	w	مِن	ﲘ	من	of	min
+8	76:16:3	w	فِضَّةٖ	ﲙ	فضة	silver	fiḍḍatin
+8	76:16:4	w	قَدَّرُوهَا	ﲚ	قدروها	They will determine its	qaddarūhā
+8	76:16:5	w	تَقۡدِيرٗا	ﲛ	تقديرا	measure	taqdīran
+8	76:16:6	e	١٦	ﲜ			
+9	76:17:1	w	وَيُسۡقَوۡنَ	ﲝ	ويسقون	And they will be given to drink	wayus'qawna
+9	76:17:2	w	فِيهَا	ﲞ	فيها	therein	fīhā
+9	76:17:3	w	كَأۡسٗا	ﲟ	كاسا	a cup	kasan
+9	76:17:4	w	كَانَ	ﲠ	كان	is	kāna
+9	76:17:5	w	مِزَاجُهَا	ﲡ	مزاجها	its mixture	mizājuhā
+9	76:17:6	w	زَنجَبِيلًا	ﲢ	زنجبيلا	(of) Zanjabil	zanjabīlan
+9	76:17:7	e	١٧	ﲣ			
+9	76:18:1	w	عَيۡنٗا	ﲤ	عينا	A spring	ʿaynan
+9	76:18:2	w	فِيهَا	ﲥ	فيها	therein	fīhā
+9	76:18:3	w	تُسَمَّىٰ	ﲦ	تسمى	named	tusammā
+9	76:18:4	w	سَلۡسَبِيلٗا	ﲧ	سلسبيلا	Salsabil	salsabīlan
+10	76:18:5	e	١٨	ﲨ			
+10	76:19:1	w	۞ وَيَطُوفُ	ﲩ ﲪ	۞ ويطوف	And will circulate	wayaṭūfu
+10	76:19:2	w	عَلَيۡهِمۡ	ﲫ	عليهم	among them	ʿalayhim
+10	76:19:3	w	وِلۡدَٰنٞ	ﲬ	ولدان	young boys	wil'dānun
+10	76:19:4	w	مُّخَلَّدُونَ	ﲭ	مخلدون	made eternal	mukhalladūna
+10	76:19:5	w	إِذَا	ﲮ	اذا	When	idhā
+10	76:19:6	w	رَأَيۡتَهُمۡ	ﲯ	رايتهم	you see them	ra-aytahum
+10	76:19:7	w	حَسِبۡتَهُمۡ	ﲰ	حسبتهم	you would think them	ḥasib'tahum
+10	76:19:8	w	لُؤۡلُؤٗا	ﲱ	لولوا	(to be) pearls	lu'lu-an
+10	76:19:9	w	مَّنثُورٗا	ﲲ	منثورا	scattered	manthūran
+11	76:19:10	e	١٩	ﲳ			
+11	76:20:1	w	وَإِذَا	ﲴ	واذا	And when	wa-idhā
+11	76:20:2	w	رَأَيۡتَ	ﲵ	رايت	you look	ra-ayta
+11	76:20:3	w	ثَمَّ	ﲶ	ثم	then	thamma
+11	76:20:4	w	رَأَيۡتَ	ﲷ	رايت	you will see	ra-ayta
+11	76:20:5	w	نَعِيمٗا	ﲸ	نعيما	blessings	naʿīman
+11	76:20:6	w	وَمُلۡكٗا	ﲹ	وملكا	and a kingdom	wamul'kan
+11	76:20:7	w	كَبِيرًا	ﲺ	كبيرا	great	kabīran
+11	76:20:8	e	٢٠	ﲻ			
+11	76:21:1	w	عَٰلِيَهُمۡ	ﲼ	عاليهم	Upon them	ʿāliyahum
+11	76:21:2	w	ثِيَابُ	ﲽ	ثياب	(will be) garments	thiyābu
+11	76:21:3	w	سُندُسٍ	ﲾ	سندس	(of) fine silk	sundusin
+12	76:21:4	w	خُضۡرٞ	ﲿ	خضر	green	khuḍ'run
+12	76:21:5	w	وَإِسۡتَبۡرَقٞۖ	ﳀﳁ	واستبرق	and heavy brocade	wa-is'tabraqun
+12	76:21:6	w	وَحُلُّوٓاْ	ﳂ	وحلوا	And they will be adorned	waḥullū
+12	76:21:7	w	أَسَاوِرَ	ﳃ	اساور	(with) bracelets	asāwira
+12	76:21:8	w	مِن	ﳄ	من	of	min
+12	76:21:9	w	فِضَّةٖ	ﳅ	فضة	silver	fiḍḍatin
+12	76:21:10	w	وَسَقَىٰهُمۡ	ﳆ	وسقاهم	and will give them to drink	wasaqāhum
+12	76:21:11	w	رَبُّهُمۡ	ﳇ	ربهم	their Lord	rabbuhum
+12	76:21:12	w	شَرَابٗا	ﳈ	شرابا	a drink	sharāban
+13	76:21:13	w	طَهُورًا	ﳉ	طهورا	pure	ṭahūran
+13	76:21:14	e	٢١	ﳊ			
+13	76:22:1	w	إِنَّ	ﳋ	ان	Indeed	inna
+13	76:22:2	w	هَٰذَا	ﳌ	هاذا	this	hādhā
+13	76:22:3	w	كَانَ	ﳍ	كان	is	kāna
+13	76:22:4	w	لَكُمۡ	ﳎ	لكم	for you	lakum
+13	76:22:5	w	جَزَآءٗ	ﳏ	جزاء	a reward	jazāan
+13	76:22:6	w	وَكَانَ	ﳐ	وكان	and has been	wakāna
+13	76:22:7	w	سَعۡيُكُم	ﳑ	سعيكم	your effort	saʿyukum
+13	76:22:8	w	مَّشۡكُورًا	ﳒ	مشكورا	appreciated	mashkūran
+13	76:22:9	e	٢٢	ﳓ			
+13	76:23:1	w	إِنَّا	ﳔ	انا	Indeed, We	innā
+14	76:23:2	w	نَحۡنُ	ﳕ	نحن	[We]	naḥnu
+14	76:23:3	w	نَزَّلۡنَا	ﳖ	نزلنا	[We] revealed	nazzalnā
+14	76:23:4	w	عَلَيۡكَ	ﳗ	عليك	to you	ʿalayka
+14	76:23:5	w	ٱلۡقُرۡءَانَ	ﳘ	القران	the Quran	l-qur'āna
+14	76:23:6	w	تَنزِيلٗا	ﳙ	تنزيلا	progressively	tanzīlan
+14	76:23:7	e	٢٣	ﳚ			
+14	76:24:1	w	فَٱصۡبِرۡ	ﳛ	فاصبر	So be patient	fa-iṣ'bir
+14	76:24:2	w	لِحُكۡمِ	ﳜ	لحكم	for (the) Command	liḥuk'mi
+14	76:24:3	w	رَبِّكَ	ﳝ	ربك	(of) your Lord	rabbika
+14	76:24:4	w	وَلَا	ﳞ	ولا	and (do) not	walā
+14	76:24:5	w	تُطِعۡ	ﳟ	تطع	obey	tuṭiʿ
+15	76:24:6	w	مِنۡهُمۡ	ﳠ	منهم	from them	min'hum
+15	76:24:7	w	ءَاثِمًا	ﳡ	اثما	any sinner	āthiman
+15	76:24:8	w	أَوۡ	ﳢ	او	or	aw
+15	76:24:9	w	كَفُورٗا	ﳣ	كفورا	disbeliever	kafūran
+15	76:24:10	e	٢٤	ﳤ			
+15	76:25:1	w	وَٱذۡكُرِ	ﳥ	واذكر	And remember	wa-udh'kuri
+15	76:25:2	w	ٱسۡمَ	ﳦ	اسم	(the) name	is'ma
+15	76:25:3	w	رَبِّكَ	ﳧ	ربك	(of) your Lord	rabbika
+15	76:25:4	w	بُكۡرَةٗ	ﳨ	بكرة	morning	buk'ratan
+15	76:25:5	w	وَأَصِيلٗا	ﳩ	واصيلا	and evening	wa-aṣīlan
+15	76:25:6	e	٢٥	ﳪ			

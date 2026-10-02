@@ -1,0 +1,140 @@
+1	4:87:1	w	ٱللَّهُ	ﱁ	الله	Allah	al-lahu
+1	4:87:2	w	لَآ	ﱂ	لا	(there is) no	lā
+1	4:87:3	w	إِلَٰهَ	ﱃ	الاه	god	ilāha
+1	4:87:4	w	إِلَّا	ﱄ	الا	except	illā
+1	4:87:5	w	هُوَۚ	ﱅﱆ	هو	Him	huwa
+1	4:87:6	w	لَيَجۡمَعَنَّكُمۡ	ﱇ	ليجمعنكم	surely He will gather you	layajmaʿannakum
+1	4:87:7	w	إِلَىٰ	ﱈ	الى	to	ilā
+1	4:87:8	w	يَوۡمِ	ﱉ	يوم	(the) Day	yawmi
+1	4:87:9	w	ٱلۡقِيَٰمَةِ	ﱊ	القيامة	(of) Resurrection	l-qiyāmati
+1	4:87:10	w	لَا	ﱋ	لا	no	lā
+1	4:87:11	w	رَيۡبَ	ﱌ	ريب	doubt	rayba
+1	4:87:12	w	فِيهِۗ	ﱍﱎ	فيه	about it	fīhi
+2	4:87:13	w	وَمَنۡ	ﱏ	ومن	And who	waman
+2	4:87:14	w	أَصۡدَقُ	ﱐ	اصدق	(is) more truthful	aṣdaqu
+2	4:87:15	w	مِنَ	ﱑ	من	than	mina
+2	4:87:16	w	ٱللَّهِ	ﱒ	الله	Allah	l-lahi
+2	4:87:17	w	حَدِيثٗا	ﱓ	حديثا	(in) statement	ḥadīthan
+2	4:87:18	e	٨٧	ﱔ			
+2	4:88:1	w	۞ فَمَا	ﱕ ﱖ	۞ فما	So what	famā
+2	4:88:2	w	لَكُمۡ	ﱗ	لكم	(is the matter) with you	lakum
+2	4:88:3	w	فِي	ﱘ	في	concerning	fī
+2	4:88:4	w	ٱلۡمُنَٰفِقِينَ	ﱙ	المنافقين	the hypocrites (that)	l-munāfiqīna
+3	4:88:5	w	فِئَتَيۡنِ	ﱚ	فيتين	(you have become) two parties	fi-atayni
+3	4:88:6	w	وَٱللَّهُ	ﱛ	والله	While Allah	wal-lahu
+3	4:88:7	w	أَرۡكَسَهُم	ﱜ	اركسهم	cast them back	arkasahum
+3	4:88:8	w	بِمَا	ﱝ	بما	for what	bimā
+3	4:88:9	w	كَسَبُوٓاْۚ	ﱞﱟ	كسبوا	they earned	kasabū
+3	4:88:10	w	أَتُرِيدُونَ	ﱠ	اتريدون	Do you wish	aturīdūna
+3	4:88:11	w	أَن	ﱡ	ان	that	an
+3	4:88:12	w	تَهۡدُواْ	ﱢ	تهدوا	you guide	tahdū
+3	4:88:13	w	مَنۡ	ﱣ	من	whom	man
+4	4:88:14	w	أَضَلَّ	ﱤ	اضل	is let astray	aḍalla
+4	4:88:15	w	ٱللَّهُۖ	ﱥﱦ	الله	(by) Allah	l-lahu
+4	4:88:16	w	وَمَن	ﱧ	ومن	And whoever	waman
+4	4:88:17	w	يُضۡلِلِ	ﱨ	يضلل	is let astray	yuḍ'lili
+4	4:88:18	w	ٱللَّهُ	ﱩ	الله	(by) Allah	l-lahu
+4	4:88:19	w	فَلَن	ﱪ	فلن	then never	falan
+4	4:88:20	w	تَجِدَ	ﱫ	تجد	will you find	tajida
+4	4:88:21	w	لَهُۥ	ﱬ	له	for him	lahu
+4	4:88:22	w	سَبِيلٗا	ﱭ	سبيلا	a way	sabīlan
+4	4:88:23	e	٨٨	ﱮ			
+4	4:89:1	w	وَدُّواْ	ﱯ	ودوا	They wish	waddū
+4	4:89:2	w	لَوۡ	ﱰ	لو	if	law
+4	4:89:3	w	تَكۡفُرُونَ	ﱱ	تكفرون	you disbelieve	takfurūna
+5	4:89:4	w	كَمَا	ﱲ	كما	as	kamā
+5	4:89:5	w	كَفَرُواْ	ﱳ	كفروا	they disbelieved	kafarū
+5	4:89:6	w	فَتَكُونُونَ	ﱴ	فتكونون	and you would be	fatakūnūna
+5	4:89:7	w	سَوَآءٗۖ	ﱵﱶ	سواء	alike	sawāan
+5	4:89:8	w	فَلَا	ﱷ	فلا	So (do) not	falā
+5	4:89:9	w	تَتَّخِذُواْ	ﱸ	تتخذوا	take	tattakhidhū
+5	4:89:10	w	مِنۡهُمۡ	ﱹ	منهم	from them	min'hum
+5	4:89:11	w	أَوۡلِيَآءَ	ﱺ	اولياء	allies	awliyāa
+5	4:89:12	w	حَتَّىٰ	ﱻ	حتى	until	ḥattā
+6	4:89:13	w	يُهَاجِرُواْ	ﱼ	يهاجروا	they emigrate	yuhājirū
+6	4:89:14	w	فِي	ﱽ	في	in	fī
+6	4:89:15	w	سَبِيلِ	ﱾ	سبيل	(the) way	sabīli
+6	4:89:16	w	ٱللَّهِۚ	ﱿﲀ	الله	(of) Allah	l-lahi
+6	4:89:17	w	فَإِن	ﲁ	فان	But if	fa-in
+6	4:89:18	w	تَوَلَّوۡاْ	ﲂ	تولوا	they turn back	tawallaw
+6	4:89:19	w	فَخُذُوهُمۡ	ﲃ	فخذوهم	seize them	fakhudhūhum
+6	4:89:20	w	وَٱقۡتُلُوهُمۡ	ﲄ	واقتلوهم	and kill them	wa-uq'tulūhum
+6	4:89:21	w	حَيۡثُ	ﲅ	حيث	wherever	ḥaythu
+7	4:89:22	w	وَجَدتُّمُوهُمۡۖ	ﲆﲇ	وجدتموهم	you find them	wajadttumūhum
+7	4:89:23	w	وَلَا	ﲈ	ولا	And (do) not	walā
+7	4:89:24	w	تَتَّخِذُواْ	ﲉ	تتخذوا	take	tattakhidhū
+7	4:89:25	w	مِنۡهُمۡ	ﲊ	منهم	from them	min'hum
+7	4:89:26	w	وَلِيّٗا	ﲋ	وليا	any ally	waliyyan
+7	4:89:27	w	وَلَا	ﲌ	ولا	and not	walā
+7	4:89:28	w	نَصِيرًا	ﲍ	نصيرا	any helper	naṣīran
+7	4:89:29	e	٨٩	ﲎ			
+7	4:90:1	w	إِلَّا	ﲏ	الا	Except	illā
+7	4:90:2	w	ٱلَّذِينَ	ﲐ	الذين	those who	alladhīna
+8	4:90:3	w	يَصِلُونَ	ﲑ	يصلون	join	yaṣilūna
+8	4:90:4	w	إِلَىٰ	ﲒ	الى	[to]	ilā
+8	4:90:5	w	قَوۡمِۭ	ﲓ	قوم	a group	qawmin
+8	4:90:6	w	بَيۡنَكُمۡ	ﲔ	بينكم	between you	baynakum
+8	4:90:7	w	وَبَيۡنَهُم	ﲕ	وبينهم	and between them	wabaynahum
+8	4:90:8	w	مِّيثَٰقٌ	ﲖ	ميثاق	(is) a treaty	mīthāqun
+8	4:90:9	w	أَوۡ	ﲗ	او	or	aw
+8	4:90:10	w	جَآءُوكُمۡ	ﲘ	جاءوكم	those who come to you	jāūkum
+8	4:90:11	w	حَصِرَتۡ	ﲙ	حصرت	restraining	ḥaṣirat
+9	4:90:12	w	صُدُورُهُمۡ	ﲚ	صدورهم	their hearts	ṣudūruhum
+9	4:90:13	w	أَن	ﲛ	ان	that	an
+9	4:90:14	w	يُقَٰتِلُوكُمۡ	ﲜ	يقاتلوكم	they fight you	yuqātilūkum
+9	4:90:15	w	أَوۡ	ﲝ	او	or	aw
+9	4:90:16	w	يُقَٰتِلُواْ	ﲞ	يقاتلوا	they fight	yuqātilū
+9	4:90:17	w	قَوۡمَهُمۡۚ	ﲟﲠ	قومهم	their people	qawmahum
+9	4:90:18	w	وَلَوۡ	ﲡ	ولو	And if	walaw
+9	4:90:19	w	شَآءَ	ﲢ	شاء	(had) willed	shāa
+9	4:90:20	w	ٱللَّهُ	ﲣ	الله	Allah	l-lahu
+10	4:90:21	w	لَسَلَّطَهُمۡ	ﲤ	لسلطهم	surely He (would have) given them power	lasallaṭahum
+10	4:90:22	w	عَلَيۡكُمۡ	ﲥ	عليكم	over you	ʿalaykum
+10	4:90:23	w	فَلَقَٰتَلُوكُمۡۚ	ﲦﲧ	فلقاتلوكم	and surely they (would have) fought you	falaqātalūkum
+10	4:90:24	w	فَإِنِ	ﲨ	فان	So if	fa-ini
+10	4:90:25	w	ٱعۡتَزَلُوكُمۡ	ﲩ	اعتزلوكم	they withdraw from you	iʿ'tazalūkum
+10	4:90:26	w	فَلَمۡ	ﲪ	فلم	and (do) not	falam
+10	4:90:27	w	يُقَٰتِلُوكُمۡ	ﲫ	يقاتلوكم	fight against you	yuqātilūkum
+11	4:90:28	w	وَأَلۡقَوۡاْ	ﲬ	والقوا	and offer	wa-alqaw
+11	4:90:29	w	إِلَيۡكُمُ	ﲭ	اليكم	to you	ilaykumu
+11	4:90:30	w	ٱلسَّلَمَ	ﲮ	السلم	[the] peace	l-salama
+11	4:90:31	w	فَمَا	ﲯ	فما	then not	famā
+11	4:90:32	w	جَعَلَ	ﲰ	جعل	(has) made	jaʿala
+11	4:90:33	w	ٱللَّهُ	ﲱ	الله	Allah	l-lahu
+11	4:90:34	w	لَكُمۡ	ﲲ	لكم	for you	lakum
+11	4:90:35	w	عَلَيۡهِمۡ	ﲳ	عليهم	against them	ʿalayhim
+11	4:90:36	w	سَبِيلٗا	ﲴ	سبيلا	a way	sabīlan
+11	4:90:37	e	٩٠	ﲵ			
+12	4:91:1	w	سَتَجِدُونَ	ﲶ	ستجدون	You will find	satajidūna
+12	4:91:2	w	ءَاخَرِينَ	ﲷ	اخرين	others	ākharīna
+12	4:91:3	w	يُرِيدُونَ	ﲸ	يريدون	wishing	yurīdūna
+12	4:91:4	w	أَن	ﲹ	ان	that	an
+12	4:91:5	w	يَأۡمَنُوكُمۡ	ﲺ	يامنوكم	they be secure from you	yamanūkum
+12	4:91:6	w	وَيَأۡمَنُواْ	ﲻ	ويامنوا	and they be secure from	wayamanū
+12	4:91:7	w	قَوۡمَهُمۡ	ﲼ	قومهم	their people	qawmahum
+12	4:91:8	w	كُلَّ	ﲽ	كل	Everytime	kulla
+13	4:91:9	w	مَا	ﲾ	ما	that	mā
+13	4:91:10	w	رُدُّوٓاْ	ﲿ	ردوا	they are returned	ruddū
+13	4:91:11	w	إِلَى	ﳀ	الى	to	ilā
+13	4:91:12	w	ٱلۡفِتۡنَةِ	ﳁ	الفتنة	the temptation	l-fit'nati
+13	4:91:13	w	أُرۡكِسُواْ	ﳂ	اركسوا	they are plunged	ur'kisū
+13	4:91:14	w	فِيهَاۚ	ﳃﳄ	فيها	into it	fīhā
+13	4:91:15	w	فَإِن	ﳅ	فان	So if	fa-in
+13	4:91:16	w	لَّمۡ	ﳆ	لم	not	lam
+13	4:91:17	w	يَعۡتَزِلُوكُمۡ	ﳇ	يعتزلوكم	they withdraw from you	yaʿtazilūkum
+13	4:91:18	w	وَيُلۡقُوٓاْ	ﳈ	ويلقوا	and offer	wayul'qū
+14	4:91:19	w	إِلَيۡكُمُ	ﳉ	اليكم	to you	ilaykumu
+14	4:91:20	w	ٱلسَّلَمَ	ﳊ	السلم	[the] peace	l-salama
+14	4:91:21	w	وَيَكُفُّوٓاْ	ﳋ	ويكفوا	and they restrain	wayakuffū
+14	4:91:22	w	أَيۡدِيَهُمۡ	ﳌ	ايديهم	their hands	aydiyahum
+14	4:91:23	w	فَخُذُوهُمۡ	ﳍ	فخذوهم	then seize them	fakhudhūhum
+14	4:91:24	w	وَٱقۡتُلُوهُمۡ	ﳎ	واقتلوهم	and kill them	wa-uq'tulūhum
+14	4:91:25	w	حَيۡثُ	ﳏ	حيث	wherever	ḥaythu
+15	4:91:26	w	ثَقِفۡتُمُوهُمۡۚ	ﳐﳑ	ثقفتموهم	you find them	thaqif'tumūhum
+15	4:91:27	w	وَأُوْلَٰٓئِكُمۡ	ﳒ	واولايكم	And those	wa-ulāikum
+15	4:91:28	w	جَعَلۡنَا	ﳓ	جعلنا	We made	jaʿalnā
+15	4:91:29	w	لَكُمۡ	ﳔ	لكم	for you	lakum
+15	4:91:30	w	عَلَيۡهِمۡ	ﳕ	عليهم	against them	ʿalayhim
+15	4:91:31	w	سُلۡطَٰنٗا	ﳖ	سلطانا	an authority	sul'ṭānan
+15	4:91:32	w	مُّبِينٗا	ﳗ	مبينا	clear	mubīnan
+15	4:91:33	e	٩١	ﳘ			

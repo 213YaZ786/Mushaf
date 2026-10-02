@@ -1,0 +1,129 @@
+3	44:1:1	w	حمٓ	ﱁ	حم	Ha Meem	hha-meem
+3	44:1:2	e	١	ﱂ			
+3	44:2:1	w	وَٱلۡكِتَٰبِ	ﱃ	والكتاب	By the Book	wal-kitābi
+3	44:2:2	w	ٱلۡمُبِينِ	ﱄ	المبين	the clear	l-mubīni
+3	44:2:3	e	٢	ﱅ			
+3	44:3:1	w	إِنَّآ	ﱆ	انا	Indeed, We	innā
+3	44:3:2	w	أَنزَلۡنَٰهُ	ﱇ	انزلناه	revealed it	anzalnāhu
+3	44:3:3	w	فِي	ﱈ	في	in	fī
+3	44:3:4	w	لَيۡلَةٖ	ﱉ	ليلة	a Night	laylatin
+3	44:3:5	w	مُّبَٰرَكَةٍۚ	ﱊﱋ	مباركة	Blessed	mubārakatin
+4	44:3:6	w	إِنَّا	ﱌ	انا	Indeed, We	innā
+4	44:3:7	w	كُنَّا	ﱍ	كنا	[We] are	kunnā
+4	44:3:8	w	مُنذِرِينَ	ﱎ	منذرين	(ever) warning	mundhirīna
+4	44:3:9	e	٣	ﱏ			
+4	44:4:1	w	فِيهَا	ﱐ	فيها	Therein	fīhā
+4	44:4:2	w	يُفۡرَقُ	ﱑ	يفرق	is made distinct	yuf'raqu
+4	44:4:3	w	كُلُّ	ﱒ	كل	every	kullu
+4	44:4:4	w	أَمۡرٍ	ﱓ	امر	affair	amrin
+4	44:4:5	w	حَكِيمٍ	ﱔ	حكيم	wise	ḥakīmin
+4	44:4:6	e	٤	ﱕ			
+4	44:5:1	w	أَمۡرٗا	ﱖ	امرا	A command	amran
+5	44:5:2	w	مِّنۡ	ﱗ	من	from	min
+5	44:5:3	w	عِندِنَآۚ	ﱘﱙ	عندنا	Us	ʿindinā
+5	44:5:4	w	إِنَّا	ﱚ	انا	Indeed, We	innā
+5	44:5:5	w	كُنَّا	ﱛ	كنا	[We] are	kunnā
+5	44:5:6	w	مُرۡسِلِينَ	ﱜ	مرسلين	(ever) sending	mur'silīna
+5	44:5:7	e	٥	ﱝ			
+5	44:6:1	w	رَحۡمَةٗ	ﱞ	رحمة	As Mercy	raḥmatan
+5	44:6:2	w	مِّن	ﱟ	من	from	min
+5	44:6:3	w	رَّبِّكَۚ	ﱠﱡ	ربك	your Lord	rabbika
+5	44:6:4	w	إِنَّهُۥ	ﱢ	انه	Indeed, He	innahu
+5	44:6:5	w	هُوَ	ﱣ	هو	[He]	huwa
+6	44:6:6	w	ٱلسَّمِيعُ	ﱤ	السميع	(is) the All-Hearer	l-samīʿu
+6	44:6:7	w	ٱلۡعَلِيمُ	ﱥ	العليم	the All-Knower	l-ʿalīmu
+6	44:6:8	e	٦	ﱦ			
+6	44:7:1	w	رَبِّ	ﱧ	رب	Lord	rabbi
+6	44:7:2	w	ٱلسَّمَٰوَٰتِ	ﱨ	السماوات	(of) the heavens	l-samāwāti
+6	44:7:3	w	وَٱلۡأَرۡضِ	ﱩ	والارض	and the earth	wal-arḍi
+6	44:7:4	w	وَمَا	ﱪ	وما	and whatever	wamā
+6	44:7:5	w	بَيۡنَهُمَآۖ	ﱫﱬ	بينهما	(is) between both of them	baynahumā
+7	44:7:6	w	إِن	ﱭ	ان	if	in
+7	44:7:7	w	كُنتُم	ﱮ	كنتم	you are	kuntum
+7	44:7:8	w	مُّوقِنِينَ	ﱯ	موقنين	certain	mūqinīna
+7	44:7:9	e	٧	ﱰ			
+7	44:8:1	w	لَآ	ﱱ	لا	(There is) no	lā
+7	44:8:2	w	إِلَٰهَ	ﱲ	الاه	god	ilāha
+7	44:8:3	w	إِلَّا	ﱳ	الا	except	illā
+7	44:8:4	w	هُوَ	ﱴ	هو	Him	huwa
+7	44:8:5	w	يُحۡيِۦ	ﱵ	يحيي	He gives life	yuḥ'yī
+7	44:8:6	w	وَيُمِيتُۖ	ﱶﱷ	ويميت	and causes death	wayumītu
+7	44:8:7	w	رَبُّكُمۡ	ﱸ	ربكم	your Lord	rabbukum
+8	44:8:8	w	وَرَبُّ	ﱹ	ورب	and (the) Lord	warabbu
+8	44:8:9	w	ءَابَآئِكُمُ	ﱺ	ابايكم	(of) your fathers	ābāikumu
+8	44:8:10	w	ٱلۡأَوَّلِينَ	ﱻ	الاولين	the former	l-awalīna
+8	44:8:11	e	٨	ﱼ			
+8	44:9:1	w	بَلۡ	ﱽ	بل	Nay	bal
+8	44:9:2	w	هُمۡ	ﱾ	هم	they	hum
+8	44:9:3	w	فِي	ﱿ	في	(are) in	fī
+8	44:9:4	w	شَكّٖ	ﲀ	شك	doubt	shakkin
+8	44:9:5	w	يَلۡعَبُونَ	ﲁ	يلعبون	playing	yalʿabūna
+8	44:9:6	e	٩	ﲂ			
+9	44:10:1	w	فَٱرۡتَقِبۡ	ﲃ	فارتقب	Then watch	fa-ir'taqib
+9	44:10:2	w	يَوۡمَ	ﲄ	يوم	(for the) Day	yawma
+9	44:10:3	w	تَأۡتِي	ﲅ	تاتي	(when) will bring	tatī
+9	44:10:4	w	ٱلسَّمَآءُ	ﲆ	السماء	the sky	l-samāu
+9	44:10:5	w	بِدُخَانٖ	ﲇ	بدخان	smoke	bidukhānin
+9	44:10:6	w	مُّبِينٖ	ﲈ	مبين	visible	mubīnin
+9	44:10:7	e	١٠	ﲉ			
+9	44:11:1	w	يَغۡشَى	ﲊ	يغشى	Enveloping	yaghshā
+9	44:11:2	w	ٱلنَّاسَۖ	ﲋﲌ	الناس	the people	l-nāsa
+10	44:11:3	w	هَٰذَا	ﲍ	هاذا	This	hādhā
+10	44:11:4	w	عَذَابٌ	ﲎ	عذاب	(will be) a punishment	ʿadhābun
+10	44:11:5	w	أَلِيمٞ	ﲏ	اليم	painful	alīmun
+10	44:11:6	e	١١	ﲐ			
+10	44:12:1	w	رَّبَّنَا	ﲑ	ربنا	Our Lord	rabbanā
+10	44:12:2	w	ٱكۡشِفۡ	ﲒ	اكشف	Remove	ik'shif
+10	44:12:3	w	عَنَّا	ﲓ	عنا	from us	ʿannā
+10	44:12:4	w	ٱلۡعَذَابَ	ﲔ	العذاب	the punishment	l-ʿadhāba
+10	44:12:5	w	إِنَّا	ﲕ	انا	indeed, we	innā
+10	44:12:6	w	مُؤۡمِنُونَ	ﲖ	مومنون	(are) believers	mu'minūna
+11	44:12:7	e	١٢	ﲗ			
+11	44:13:1	w	أَنَّىٰ	ﲘ	انى	How can	annā
+11	44:13:2	w	لَهُمُ	ﲙ	لهم	(there be) for them	lahumu
+11	44:13:3	w	ٱلذِّكۡرَىٰ	ﲚ	الذكرى	the reminder	l-dhik'rā
+11	44:13:4	w	وَقَدۡ	ﲛ	وقد	when verily	waqad
+11	44:13:5	w	جَآءَهُمۡ	ﲜ	جاءهم	had come to them	jāahum
+11	44:13:6	w	رَسُولٞ	ﲝ	رسول	a Messenger	rasūlun
+11	44:13:7	w	مُّبِينٞ	ﲞ	مبين	clear	mubīnun
+11	44:13:8	e	١٣	ﲟ			
+11	44:14:1	w	ثُمَّ	ﲠ	ثم	Then	thumma
+12	44:14:2	w	تَوَلَّوۡاْ	ﲡ	تولوا	they turned away	tawallaw
+12	44:14:3	w	عَنۡهُ	ﲢ	عنه	from him	ʿanhu
+12	44:14:4	w	وَقَالُواْ	ﲣ	وقالوا	and said	waqālū
+12	44:14:5	w	مُعَلَّمٞ	ﲤ	معلم	One taught	muʿallamun
+12	44:14:6	w	مَّجۡنُونٌ	ﲥ	مجنون	a mad man	majnūnun
+12	44:14:7	e	١٤	ﲦ			
+12	44:15:1	w	إِنَّا	ﲧ	انا	Indeed, We	innā
+12	44:15:2	w	كَاشِفُواْ	ﲨ	كاشفو	(will) remove	kāshifū
+12	44:15:3	w	ٱلۡعَذَابِ	ﲩ	العذاب	the punishment	l-ʿadhābi
+12	44:15:4	w	قَلِيلًاۚ	ﲪﲫ	قليلا	a little	qalīlan
+13	44:15:5	w	إِنَّكُمۡ	ﲬ	انكم	indeed, you	innakum
+13	44:15:6	w	عَآئِدُونَ	ﲭ	عايدون	(will) return	ʿāidūna
+13	44:15:7	e	١٥	ﲮ			
+13	44:16:1	w	يَوۡمَ	ﲯ	يوم	(The) Day	yawma
+13	44:16:2	w	نَبۡطِشُ	ﲰ	نبطش	We will seize	nabṭishu
+13	44:16:3	w	ٱلۡبَطۡشَةَ	ﲱ	البطشة	(with) the seizure	l-baṭshata
+13	44:16:4	w	ٱلۡكُبۡرَىٰٓ	ﲲ	الكبرى	the greatest	l-kub'rā
+13	44:16:5	w	إِنَّا	ﲳ	انا	indeed, We	innā
+13	44:16:6	w	مُنتَقِمُونَ	ﲴ	منتقمون	(will) take retribution	muntaqimūna
+14	44:16:7	e	١٦	ﲵ			
+14	44:17:1	w	۞ وَلَقَدۡ	ﲶ ﲷ	۞ ولقد	And certainly	walaqad
+14	44:17:2	w	فَتَنَّا	ﲸ	فتنا	We tried	fatannā
+14	44:17:3	w	قَبۡلَهُمۡ	ﲹ	قبلهم	before them	qablahum
+14	44:17:4	w	قَوۡمَ	ﲺ	قوم	(the) people	qawma
+14	44:17:5	w	فِرۡعَوۡنَ	ﲻ	فرعون	(of) Firaun	fir'ʿawna
+14	44:17:6	w	وَجَآءَهُمۡ	ﲼ	وجاءهم	and came to them	wajāahum
+14	44:17:7	w	رَسُولٞ	ﲽ	رسول	a Messenger	rasūlun
+14	44:17:8	w	كَرِيمٌ	ﲾ	كريم	noble	karīmun
+15	44:17:9	e	١٧	ﲿ			
+15	44:18:1	w	أَنۡ	ﳀ	ان	That	an
+15	44:18:2	w	أَدُّوٓاْ	ﳁ	ادوا	Deliver	addū
+15	44:18:3	w	إِلَيَّ	ﳂ	الي	to me	ilayya
+15	44:18:4	w	عِبَادَ	ﳃ	عباد	(the) servants	ʿibāda
+15	44:18:5	w	ٱللَّهِۖ	ﳄﳅ	الله	(of) Allah	l-lahi
+15	44:18:6	w	إِنِّي	ﳆ	اني	Indeed, I am	innī
+15	44:18:7	w	لَكُمۡ	ﳇ	لكم	to you	lakum
+15	44:18:8	w	رَسُولٌ	ﳈ	رسول	a Messenger	rasūlun
+15	44:18:9	w	أَمِينٞ	ﳉ	امين	trustworthy	amīnun
+15	44:18:10	e	١٨	ﳊ			

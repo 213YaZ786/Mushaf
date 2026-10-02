@@ -1,0 +1,135 @@
+1	14:25:1	w	تُؤۡتِيٓ	ﱁ	توتي	Giving	tu'tī
+1	14:25:2	w	أُكُلَهَا	ﱂ	اكلها	its fruit	ukulahā
+1	14:25:3	w	كُلَّ	ﱃ	كل	all	kulla
+1	14:25:4	w	حِينِۭ	ﱄ	حين	time	ḥīnin
+1	14:25:5	w	بِإِذۡنِ	ﱅ	باذن	by the permission	bi-idh'ni
+1	14:25:6	w	رَبِّهَاۗ	ﱆﱇ	ربها	of its Lord	rabbihā
+1	14:25:7	w	وَيَضۡرِبُ	ﱈ	ويضرب	And Allah sets forth	wayaḍribu
+1	14:25:8	w	ٱللَّهُ	ﱉ	الله	And Allah sets forth	l-lahu
+1	14:25:9	w	ٱلۡأَمۡثَالَ	ﱊ	الامثال	the examples	l-amthāla
+2	14:25:10	w	لِلنَّاسِ	ﱋ	للناس	for mankind	lilnnāsi
+2	14:25:11	w	لَعَلَّهُمۡ	ﱌ	لعلهم	so that they may	laʿallahum
+2	14:25:12	w	يَتَذَكَّرُونَ	ﱍ	يتذكرون	remember	yatadhakkarūna
+2	14:25:13	e	٢٥	ﱎ			
+2	14:26:1	w	وَمَثَلُ	ﱏ	ومثل	And (the) example	wamathalu
+2	14:26:2	w	كَلِمَةٍ	ﱐ	كلمة	(of) a word	kalimatin
+2	14:26:3	w	خَبِيثَةٖ	ﱑ	خبيثة	evil	khabīthatin
+3	14:26:4	w	كَشَجَرَةٍ	ﱒ	كشجرة	(is) like a tree	kashajaratin
+3	14:26:5	w	خَبِيثَةٍ	ﱓ	خبيثة	evil	khabīthatin
+3	14:26:6	w	ٱجۡتُثَّتۡ	ﱔ	اجتثت	uprooted	uj'tuthat
+3	14:26:7	w	مِن	ﱕ	من	from	min
+3	14:26:8	w	فَوۡقِ	ﱖ	فوق	the surface	fawqi
+3	14:26:9	w	ٱلۡأَرۡضِ	ﱗ	الارض	(of) the earth	l-arḍi
+3	14:26:10	w	مَا	ﱘ	ما	not	mā
+3	14:26:11	w	لَهَا	ﱙ	لها	for it	lahā
+3	14:26:12	w	مِن	ﱚ	من	(is) any	min
+4	14:26:13	w	قَرَارٖ	ﱛ	قرار	stability	qarārin
+4	14:26:14	e	٢٦	ﱜ			
+4	14:27:1	w	يُثَبِّتُ	ﱝ	يثبت	Allah keeps firm	yuthabbitu
+4	14:27:2	w	ٱللَّهُ	ﱞ	الله	Allah keeps firm	l-lahu
+4	14:27:3	w	ٱلَّذِينَ	ﱟ	الذين	those who	alladhīna
+4	14:27:4	w	ءَامَنُواْ	ﱠ	امنوا	believe	āmanū
+4	14:27:5	w	بِٱلۡقَوۡلِ	ﱡ	بالقول	with the firm word	bil-qawli
+4	14:27:6	w	ٱلثَّابِتِ	ﱢ	الثابت	with the firm word	l-thābiti
+4	14:27:7	w	فِي	ﱣ	في	in	fī
+4	14:27:8	w	ٱلۡحَيَوٰةِ	ﱤ	الحياة	the life	l-ḥayati
+5	14:27:9	w	ٱلدُّنۡيَا	ﱥ	الدنيا	(of) the world	l-dun'yā
+5	14:27:10	w	وَفِي	ﱦ	وفي	and in	wafī
+5	14:27:11	w	ٱلۡأٓخِرَةِۖ	ﱧﱨ	الاخرة	the Hereafter	l-ākhirati
+5	14:27:12	w	وَيُضِلُّ	ﱩ	ويضل	And Allah lets go astray	wayuḍillu
+5	14:27:13	w	ٱللَّهُ	ﱪ	الله	And Allah lets go astray	l-lahu
+5	14:27:14	w	ٱلظَّٰلِمِينَۚ	ﱫﱬ	الظالمين	the wrongdoers	l-ẓālimīna
+5	14:27:15	w	وَيَفۡعَلُ	ﱭ	ويفعل	And Allah does	wayafʿalu
+5	14:27:16	w	ٱللَّهُ	ﱮ	الله	And Allah does	l-lahu
+6	14:27:17	w	مَا	ﱯ	ما	what	mā
+6	14:27:18	w	يَشَآءُ	ﱰ	يشاء	He wills	yashāu
+6	14:27:19	e	٢٧	ﱱ			
+6	14:28:1	w	۞ أَلَمۡ	ﱲ ﱳ	۞ الم	Have not	alam
+6	14:28:2	w	تَرَ	ﱴ	تر	you seen	tara
+6	14:28:3	w	إِلَى	ﱵ	الى	[to]	ilā
+6	14:28:4	w	ٱلَّذِينَ	ﱶ	الذين	those who	alladhīna
+6	14:28:5	w	بَدَّلُواْ	ﱷ	بدلوا	(have) changed	baddalū
+6	14:28:6	w	نِعۡمَتَ	ﱸ	نعمت	(the) Favor	niʿ'mata
+6	14:28:7	w	ٱللَّهِ	ﱹ	الله	(of) Allah	l-lahi
+6	14:28:8	w	كُفۡرٗا	ﱺ	كفرا	(for) disbelief	kuf'ran
+7	14:28:9	w	وَأَحَلُّواْ	ﱻ	واحلوا	and they led	wa-aḥallū
+7	14:28:10	w	قَوۡمَهُمۡ	ﱼ	قومهم	their people	qawmahum
+7	14:28:11	w	دَارَ	ﱽ	دار	(to the) house	dāra
+7	14:28:12	w	ٱلۡبَوَارِ	ﱾ	البوار	(of) destruction	l-bawāri
+7	14:28:13	e	٢٨	ﱿ			
+7	14:29:1	w	جَهَنَّمَ	ﲀ	جهنم	Hell	jahannama
+7	14:29:2	w	يَصۡلَوۡنَهَاۖ	ﲁﲂ	يصلونها	(in) it they will burn	yaṣlawnahā
+7	14:29:3	w	وَبِئۡسَ	ﲃ	وبيس	and a wretched	wabi'sa
+8	14:29:4	w	ٱلۡقَرَارُ	ﲄ	القرار	place to settle	l-qarāru
+8	14:29:5	e	٢٩	ﲅ			
+8	14:30:1	w	وَجَعَلُواْ	ﲆ	وجعلوا	And they set up	wajaʿalū
+8	14:30:2	w	لِلَّهِ	ﲇ	لله	to Allah	lillahi
+8	14:30:3	w	أَندَادٗا	ﲈ	اندادا	equals	andādan
+8	14:30:4	w	لِّيُضِلُّواْ	ﲉ	ليضلوا	so that they mislead	liyuḍillū
+8	14:30:5	w	عَن	ﲊ	عن	from	ʿan
+8	14:30:6	w	سَبِيلِهِۦۗ	ﲋﲌ	سبيله	His Path	sabīlihi
+8	14:30:7	w	قُلۡ	ﲍ	قل	Say	qul
+9	14:30:8	w	تَمَتَّعُواْ	ﲎ	تمتعوا	Enjoy	tamattaʿū
+9	14:30:9	w	فَإِنَّ	ﲏ	فان	but indeed	fa-inna
+9	14:30:10	w	مَصِيرَكُمۡ	ﲐ	مصيركم	your destination	maṣīrakum
+9	14:30:11	w	إِلَى	ﲑ	الى	(is) to	ilā
+9	14:30:12	w	ٱلنَّارِ	ﲒ	النار	the Fire	l-nāri
+9	14:30:13	e	٣٠	ﲓ			
+9	14:31:1	w	قُل	ﲔ	قل	Say	qul
+9	14:31:2	w	لِّعِبَادِيَ	ﲕ	لعبادي	to My slaves	liʿibādiya
+9	14:31:3	w	ٱلَّذِينَ	ﲖ	الذين	those who	alladhīna
+10	14:31:4	w	ءَامَنُواْ	ﲗ	امنوا	believe	āmanū
+10	14:31:5	w	يُقِيمُواْ	ﲘ	يقيموا	(to) establish	yuqīmū
+10	14:31:6	w	ٱلصَّلَوٰةَ	ﲙ	الصلاة	the prayers	l-ṣalata
+10	14:31:7	w	وَيُنفِقُواْ	ﲚ	وينفقوا	and (to) spend	wayunfiqū
+10	14:31:8	w	مِمَّا	ﲛ	مما	from what	mimmā
+10	14:31:9	w	رَزَقۡنَٰهُمۡ	ﲜ	رزقناهم	We have provided them	razaqnāhum
+10	14:31:10	w	سِرّٗا	ﲝ	سرا	secretly	sirran
+10	14:31:11	w	وَعَلَانِيَةٗ	ﲞ	وعلانية	and publicly	waʿalāniyatan
+11	14:31:12	w	مِّن	ﲟ	من	before	min
+11	14:31:13	w	قَبۡلِ	ﲠ	قبل	before	qabli
+11	14:31:14	w	أَن	ﲡ	ان	[that]	an
+11	14:31:15	w	يَأۡتِيَ	ﲢ	ياتي	comes	yatiya
+11	14:31:16	w	يَوۡمٞ	ﲣ	يوم	a Day	yawmun
+11	14:31:17	w	لَّا	ﲤ	لا	not	lā
+11	14:31:18	w	بَيۡعٞ	ﲥ	بيع	any trade	bayʿun
+11	14:31:19	w	فِيهِ	ﲦ	فيه	in it	fīhi
+11	14:31:20	w	وَلَا	ﲧ	ولا	and not	walā
+11	14:31:21	w	خِلَٰلٌ	ﲨ	خلال	any friendship	khilālun
+11	14:31:22	e	٣١	ﲩ			
+11	14:32:1	w	ٱللَّهُ	ﲪ	الله	Allah	al-lahu
+11	14:32:2	w	ٱلَّذِي	ﲫ	الذي	(is) the One Who	alladhī
+12	14:32:3	w	خَلَقَ	ﲬ	خلق	created	khalaqa
+12	14:32:4	w	ٱلسَّمَٰوَٰتِ	ﲭ	السماوات	the heavens	l-samāwāti
+12	14:32:5	w	وَٱلۡأَرۡضَ	ﲮ	والارض	and the earth	wal-arḍa
+12	14:32:6	w	وَأَنزَلَ	ﲯ	وانزل	and sent down	wa-anzala
+12	14:32:7	w	مِنَ	ﲰ	من	from	mina
+12	14:32:8	w	ٱلسَّمَآءِ	ﲱ	السماء	the sky	l-samāi
+12	14:32:9	w	مَآءٗ	ﲲ	ماء	water	māan
+12	14:32:10	w	فَأَخۡرَجَ	ﲳ	فاخرج	then brought forth	fa-akhraja
+13	14:32:11	w	بِهِۦ	ﲴ	به	from it	bihi
+13	14:32:12	w	مِنَ	ﲵ	من	of	mina
+13	14:32:13	w	ٱلثَّمَرَٰتِ	ﲶ	الثمرات	the fruits	l-thamarāti
+13	14:32:14	w	رِزۡقٗا	ﲷ	رزقا	(as) a provision	riz'qan
+13	14:32:15	w	لَّكُمۡۖ	ﲸﲹ	لكم	for you	lakum
+13	14:32:16	w	وَسَخَّرَ	ﲺ	وسخر	and subjected	wasakhara
+13	14:32:17	w	لَكُمُ	ﲻ	لكم	for you	lakumu
+13	14:32:18	w	ٱلۡفُلۡكَ	ﲼ	الفلك	the ships	l-ful'ka
+13	14:32:19	w	لِتَجۡرِيَ	ﲽ	لتجري	so that they may sail	litajriya
+14	14:32:20	w	فِي	ﲾ	في	in	fī
+14	14:32:21	w	ٱلۡبَحۡرِ	ﲿ	البحر	the sea	l-baḥri
+14	14:32:22	w	بِأَمۡرِهِۦۖ	ﳀﳁ	بامره	by His command	bi-amrihi
+14	14:32:23	w	وَسَخَّرَ	ﳂ	وسخر	and subjected	wasakhara
+14	14:32:24	w	لَكُمُ	ﳃ	لكم	for you	lakumu
+14	14:32:25	w	ٱلۡأَنۡهَٰرَ	ﳄ	الانهار	the rivers	l-anhāra
+14	14:32:26	e	٣٢	ﳅ			
+14	14:33:1	w	وَسَخَّرَ	ﳆ	وسخر	And He subjected	wasakhara
+14	14:33:2	w	لَكُمُ	ﳇ	لكم	for you	lakumu
+15	14:33:3	w	ٱلشَّمۡسَ	ﳈ	الشمس	the sun	l-shamsa
+15	14:33:4	w	وَٱلۡقَمَرَ	ﳉ	والقمر	and the moon	wal-qamara
+15	14:33:5	w	دَآئِبَيۡنِۖ	ﳊﳋ	دايبين	both constantly pursuing their courses	dāibayni
+15	14:33:6	w	وَسَخَّرَ	ﳌ	وسخر	and subjected	wasakhara
+15	14:33:7	w	لَكُمُ	ﳍ	لكم	for you	lakumu
+15	14:33:8	w	ٱلَّيۡلَ	ﳎ	الليل	the night	al-layla
+15	14:33:9	w	وَٱلنَّهَارَ	ﳏ	والنهار	and the day	wal-nahāra
+15	14:33:10	e	٣٣	ﳐ			

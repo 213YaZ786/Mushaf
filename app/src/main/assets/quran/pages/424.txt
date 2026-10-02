@@ -1,0 +1,131 @@
+1	33:44:1	w	تَحِيَّتُهُمۡ	ﱁ	تحيتهم	Their greetings	taḥiyyatuhum
+1	33:44:2	w	يَوۡمَ	ﱂ	يوم	(on the) Day	yawma
+1	33:44:3	w	يَلۡقَوۡنَهُۥ	ﱃ	يلقونه	they will meet Him	yalqawnahu
+1	33:44:4	w	سَلَٰمٞۚ	ﱄﱅ	سلام	(will be), "Peace	salāmun
+1	33:44:5	w	وَأَعَدَّ	ﱆ	واعد	and He has prepared	wa-aʿadda
+1	33:44:6	w	لَهُمۡ	ﱇ	لهم	for them	lahum
+1	33:44:7	w	أَجۡرٗا	ﱈ	اجرا	a reward	ajran
+1	33:44:8	w	كَرِيمٗا	ﱉ	كريما	noble	karīman
+1	33:44:9	e	٤٤	ﱊ			
+1	33:45:1	w	يَٰٓأَيُّهَا	ﱋ	يا ايها	O Prophet	yāayyuhā
+2	33:45:2	w	ٱلنَّبِيُّ	ﱌ	النبي	O Prophet	l-nabiyu
+2	33:45:3	w	إِنَّآ	ﱍ	انا	Indeed, We	innā
+2	33:45:4	w	أَرۡسَلۡنَٰكَ	ﱎ	ارسلناك	have sent you	arsalnāka
+2	33:45:5	w	شَٰهِدٗا	ﱏ	شاهدا	(as) a witness	shāhidan
+2	33:45:6	w	وَمُبَشِّرٗا	ﱐ	ومبشرا	and a bearer of glad tidings	wamubashiran
+2	33:45:7	w	وَنَذِيرٗا	ﱑ	ونذيرا	and (as) a warner	wanadhīran
+2	33:45:8	e	٤٥	ﱒ			
+2	33:46:1	w	وَدَاعِيًا	ﱓ	وداعيا	And as one who invites	wadāʿiyan
+3	33:46:2	w	إِلَى	ﱔ	الى	to	ilā
+3	33:46:3	w	ٱللَّهِ	ﱕ	الله	Allah	l-lahi
+3	33:46:4	w	بِإِذۡنِهِۦ	ﱖ	باذنه	by His permission	bi-idh'nihi
+3	33:46:5	w	وَسِرَاجٗا	ﱗ	وسراجا	and (as) a lamp	wasirājan
+3	33:46:6	w	مُّنِيرٗا	ﱘ	منيرا	illuminating	munīran
+3	33:46:7	e	٤٦	ﱙ			
+3	33:47:1	w	وَبَشِّرِ	ﱚ	وبشر	And give glad tidings	wabashiri
+3	33:47:2	w	ٱلۡمُؤۡمِنِينَ	ﱛ	المومنين	(to) the believers	l-mu'minīna
+3	33:47:3	w	بِأَنَّ	ﱜ	بان	that	bi-anna
+3	33:47:4	w	لَهُم	ﱝ	لهم	for them	lahum
+4	33:47:5	w	مِّنَ	ﱞ	من	(is) from	mina
+4	33:47:6	w	ٱللَّهِ	ﱟ	الله	Allah	l-lahi
+4	33:47:7	w	فَضۡلٗا	ﱠ	فضلا	a Bounty	faḍlan
+4	33:47:8	w	كَبِيرٗا	ﱡ	كبيرا	great	kabīran
+4	33:47:9	e	٤٧	ﱢ			
+4	33:48:1	w	وَلَا	ﱣ	ولا	And (do) not	walā
+4	33:48:2	w	تُطِعِ	ﱤ	تطع	obey	tuṭiʿi
+4	33:48:3	w	ٱلۡكَٰفِرِينَ	ﱥ	الكافرين	the disbelievers	l-kāfirīna
+4	33:48:4	w	وَٱلۡمُنَٰفِقِينَ	ﱦ	والمنافقين	and the hypocrites	wal-munāfiqīna
+5	33:48:5	w	وَدَعۡ	ﱧ	ودع	and disregard	wadaʿ
+5	33:48:6	w	أَذَىٰهُمۡ	ﱨ	اذاهم	their harm	adhāhum
+5	33:48:7	w	وَتَوَكَّلۡ	ﱩ	وتوكل	and put your trust	watawakkal
+5	33:48:8	w	عَلَى	ﱪ	على	in	ʿalā
+5	33:48:9	w	ٱللَّهِۚ	ﱫﱬ	الله	Allah	l-lahi
+5	33:48:10	w	وَكَفَىٰ	ﱭ	وكفى	And sufficient is Allah	wakafā
+5	33:48:11	w	بِٱللَّهِ	ﱮ	بالله	And sufficient is Allah	bil-lahi
+5	33:48:12	w	وَكِيلٗا	ﱯ	وكيلا	(as) a Trustee	wakīlan
+5	33:48:13	e	٤٨	ﱰ			
+6	33:49:1	w	يَٰٓأَيُّهَا	ﱱ	يا ايها	O you who believe	yāayyuhā
+6	33:49:2	w	ٱلَّذِينَ	ﱲ	الذين	O you who believe	alladhīna
+6	33:49:3	w	ءَامَنُوٓاْ	ﱳ	امنوا	O you who believe	āmanū
+6	33:49:4	w	إِذَا	ﱴ	اذا	When	idhā
+6	33:49:5	w	نَكَحۡتُمُ	ﱵ	نكحتم	you marry	nakaḥtumu
+6	33:49:6	w	ٱلۡمُؤۡمِنَٰتِ	ﱶ	المومنات	believing women	l-mu'mināti
+6	33:49:7	w	ثُمَّ	ﱷ	ثم	and then	thumma
+6	33:49:8	w	طَلَّقۡتُمُوهُنَّ	ﱸ	طلقتموهن	divorce them	ṭallaqtumūhunna
+7	33:49:9	w	مِن	ﱹ	من	before	min
+7	33:49:10	w	قَبۡلِ	ﱺ	قبل	before	qabli
+7	33:49:11	w	أَن	ﱻ	ان	[that]	an
+7	33:49:12	w	تَمَسُّوهُنَّ	ﱼ	تمسوهن	you have touched them	tamassūhunna
+7	33:49:13	w	فَمَا	ﱽ	فما	then not	famā
+7	33:49:14	w	لَكُمۡ	ﱾ	لكم	for you	lakum
+7	33:49:15	w	عَلَيۡهِنَّ	ﱿ	عليهن	on them	ʿalayhinna
+7	33:49:16	w	مِنۡ	ﲀ	من	any	min
+7	33:49:17	w	عِدَّةٖ	ﲁ	عدة	waiting period	ʿiddatin
+7	33:49:18	w	تَعۡتَدُّونَهَاۖ	ﲂﲃ	تعتدونها	(to) count concerning them	taʿtaddūnahā
+8	33:49:19	w	فَمَتِّعُوهُنَّ	ﲄ	فمتعوهن	So provide for them	famattiʿūhunna
+8	33:49:20	w	وَسَرِّحُوهُنَّ	ﲅ	وسرحوهن	and release them	wasarriḥūhunna
+8	33:49:21	w	سَرَاحٗا	ﲆ	سراحا	(with) a release	sarāḥan
+8	33:49:22	w	جَمِيلٗا	ﲇ	جميلا	good	jamīlan
+8	33:49:23	e	٤٩	ﲈ			
+8	33:50:1	w	يَٰٓأَيُّهَا	ﲉ	يا ايها	O Prophet	yāayyuhā
+8	33:50:2	w	ٱلنَّبِيُّ	ﲊ	النبي	O Prophet	l-nabiyu
+9	33:50:3	w	إِنَّآ	ﲋ	انا	Indeed, We	innā
+9	33:50:4	w	أَحۡلَلۡنَا	ﲌ	احللنا	[We] have made lawful	aḥlalnā
+9	33:50:5	w	لَكَ	ﲍ	لك	to you	laka
+9	33:50:6	w	أَزۡوَٰجَكَ	ﲎ	ازواجك	your wives	azwājaka
+9	33:50:7	w	ٱلَّٰتِيٓ	ﲏ	اللاتي	(to) whom	allātī
+9	33:50:8	w	ءَاتَيۡتَ	ﲐ	اتيت	you have given	ātayta
+9	33:50:9	w	أُجُورَهُنَّ	ﲑ	اجورهن	their bridal money	ujūrahunna
+9	33:50:10	w	وَمَا	ﲒ	وما	and whom	wamā
+9	33:50:11	w	مَلَكَتۡ	ﲓ	ملكت	you rightfully possess	malakat
+10	33:50:12	w	يَمِينُكَ	ﲔ	يمينك	you rightfully possess	yamīnuka
+10	33:50:13	w	مِمَّآ	ﲕ	مما	from those (whom)	mimmā
+10	33:50:14	w	أَفَآءَ	ﲖ	افاء	Allah has given	afāa
+10	33:50:15	w	ٱللَّهُ	ﲗ	الله	Allah has given	l-lahu
+10	33:50:16	w	عَلَيۡكَ	ﲘ	عليك	to you	ʿalayka
+10	33:50:17	w	وَبَنَاتِ	ﲙ	وبنات	and (the) daughters	wabanāti
+10	33:50:18	w	عَمِّكَ	ﲚ	عمك	(of) your paternal uncles	ʿammika
+10	33:50:19	w	وَبَنَاتِ	ﲛ	وبنات	and (the) daughters	wabanāti
+10	33:50:20	w	عَمَّٰتِكَ	ﲜ	عماتك	(of) your paternal aunts	ʿammātika
+11	33:50:21	w	وَبَنَاتِ	ﲝ	وبنات	and (the) daughters	wabanāti
+11	33:50:22	w	خَالِكَ	ﲞ	خالك	(of) your maternal uncles	khālika
+11	33:50:23	w	وَبَنَاتِ	ﲟ	وبنات	and (the) daughters	wabanāti
+11	33:50:24	w	خَٰلَٰتِكَ	ﲠ	خالاتك	(of) your maternal aunts	khālātika
+11	33:50:25	w	ٱلَّٰتِي	ﲡ	اللاتي	who	allātī
+11	33:50:26	w	هَاجَرۡنَ	ﲢ	هاجرن	emigrated	hājarna
+11	33:50:27	w	مَعَكَ	ﲣ	معك	with you	maʿaka
+11	33:50:28	w	وَٱمۡرَأَةٗ	ﲤ	وامراة	and a woman	wa-im'ra-atan
+12	33:50:29	w	مُّؤۡمِنَةً	ﲥ	مومنة	believing	mu'minatan
+12	33:50:30	w	إِن	ﲦ	ان	if	in
+12	33:50:31	w	وَهَبَتۡ	ﲧ	وهبت	she gives	wahabat
+12	33:50:32	w	نَفۡسَهَا	ﲨ	نفسها	herself	nafsahā
+12	33:50:33	w	لِلنَّبِيِّ	ﲩ	للنبي	to the Prophet	lilnnabiyyi
+12	33:50:34	w	إِنۡ	ﲪ	ان	if	in
+12	33:50:35	w	أَرَادَ	ﲫ	اراد	wishes	arāda
+12	33:50:36	w	ٱلنَّبِيُّ	ﲬ	النبي	the Prophet	l-nabiyu
+12	33:50:37	w	أَن	ﲭ	ان	to	an
+12	33:50:38	w	يَسۡتَنكِحَهَا	ﲮ	يستنكحها	marry her	yastankiḥahā
+13	33:50:39	w	خَالِصَةٗ	ﲯ	خالصة	only	khāliṣatan
+13	33:50:40	w	لَّكَ	ﲰ	لك	for you	laka
+13	33:50:41	w	مِن	ﲱ	من	excluding	min
+13	33:50:42	w	دُونِ	ﲲ	دون	excluding	dūni
+13	33:50:43	w	ٱلۡمُؤۡمِنِينَۗ	ﲳﲴ	المومنين	the believers	l-mu'minīna
+13	33:50:44	w	قَدۡ	ﲵ	قد	Certainly	qad
+13	33:50:45	w	عَلِمۡنَا	ﲶ	علمنا	We know	ʿalim'nā
+13	33:50:46	w	مَا	ﲷ	ما	what	mā
+13	33:50:47	w	فَرَضۡنَا	ﲸ	فرضنا	We have made obligatory	faraḍnā
+14	33:50:48	w	عَلَيۡهِمۡ	ﲹ	عليهم	upon them	ʿalayhim
+14	33:50:49	w	فِيٓ	ﲺ	في	concerning	fī
+14	33:50:50	w	أَزۡوَٰجِهِمۡ	ﲻ	ازواجهم	their wives	azwājihim
+14	33:50:51	w	وَمَا	ﲼ	وما	and whom	wamā
+14	33:50:52	w	مَلَكَتۡ	ﲽ	ملكت	they rightfully possess	malakat
+14	33:50:53	w	أَيۡمَٰنُهُمۡ	ﲾ	ايمانهم	they rightfully possess	aymānuhum
+14	33:50:54	w	لِكَيۡلَا	ﲿ	لكيلا	that not	likaylā
+15	33:50:55	w	يَكُونَ	ﳀ	يكون	should be	yakūna
+15	33:50:56	w	عَلَيۡكَ	ﳁ	عليك	on you	ʿalayka
+15	33:50:57	w	حَرَجٞۗ	ﳂﳃ	حرج	any discomfort	ḥarajun
+15	33:50:58	w	وَكَانَ	ﳄ	وكان	And Allah is	wakāna
+15	33:50:59	w	ٱللَّهُ	ﳅ	الله	And Allah is	l-lahu
+15	33:50:60	w	غَفُورٗا	ﳆ	غفورا	Oft-Forgiving	ghafūran
+15	33:50:61	w	رَّحِيمٗا	ﳇ	رحيما	Most Merciful	raḥīman
+15	33:50:62	e	٥٠	ﳈ			

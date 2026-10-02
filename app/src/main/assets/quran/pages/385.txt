@@ -1,0 +1,122 @@
+1	27:89:1	w	مَن	ﱁ	من	Whoever	man
+1	27:89:2	w	جَآءَ	ﱂ	جاء	comes	jāa
+1	27:89:3	w	بِٱلۡحَسَنَةِ	ﱃ	بالحسنة	with the good	bil-ḥasanati
+1	27:89:4	w	فَلَهُۥ	ﱄ	فله	then for him	falahu
+1	27:89:5	w	خَيۡرٞ	ﱅ	خير	(will be) better	khayrun
+1	27:89:6	w	مِّنۡهَا	ﱆ	منها	than it	min'hā
+1	27:89:7	w	وَهُم	ﱇ	وهم	and they	wahum
+1	27:89:8	w	مِّن	ﱈ	من	from	min
+1	27:89:9	w	فَزَعٖ	ﱉ	فزع	(the) terror	fazaʿin
+1	27:89:10	w	يَوۡمَئِذٍ	ﱊ	يوميذ	(of) that Day	yawma-idhin
+1	27:89:11	w	ءَامِنُونَ	ﱋ	امنون	(will be) safe	āminūna
+1	27:89:12	e	٨٩	ﱌ			
+2	27:90:1	w	وَمَن	ﱍ	ومن	And whoever	waman
+2	27:90:2	w	جَآءَ	ﱎ	جاء	comes	jāa
+2	27:90:3	w	بِٱلسَّيِّئَةِ	ﱏ	بالسيية	with the evil	bil-sayi-ati
+2	27:90:4	w	فَكُبَّتۡ	ﱐ	فكبت	will be cast down	fakubbat
+2	27:90:5	w	وُجُوهُهُمۡ	ﱑ	وجوههم	their faces	wujūhuhum
+2	27:90:6	w	فِي	ﱒ	في	in	fī
+2	27:90:7	w	ٱلنَّارِ	ﱓ	النار	the Fire	l-nāri
+2	27:90:8	w	هَلۡ	ﱔ	هل	Are	hal
+2	27:90:9	w	تُجۡزَوۡنَ	ﱕ	تجزون	you recompensed	tuj'zawna
+2	27:90:10	w	إِلَّا	ﱖ	الا	except	illā
+3	27:90:11	w	مَا	ﱗ	ما	(for) what	mā
+3	27:90:12	w	كُنتُمۡ	ﱘ	كنتم	you used (to)	kuntum
+3	27:90:13	w	تَعۡمَلُونَ	ﱙ	تعملون	do	taʿmalūna
+3	27:90:14	e	٩٠	ﱚ			
+3	27:91:1	w	إِنَّمَآ	ﱛ	انما	Only	innamā
+3	27:91:2	w	أُمِرۡتُ	ﱜ	امرت	I am commanded	umir'tu
+3	27:91:3	w	أَنۡ	ﱝ	ان	that	an
+3	27:91:4	w	أَعۡبُدَ	ﱞ	اعبد	I worship	aʿbuda
+3	27:91:5	w	رَبَّ	ﱟ	رب	(the) Lord	rabba
+3	27:91:6	w	هَٰذِهِ	ﱠ	هاذه	(of) this	hādhihi
+3	27:91:7	w	ٱلۡبَلۡدَةِ	ﱡ	البلدة	city	l-baldati
+4	27:91:8	w	ٱلَّذِي	ﱢ	الذي	the One Who	alladhī
+4	27:91:9	w	حَرَّمَهَا	ﱣ	حرمها	made it sacred	ḥarramahā
+4	27:91:10	w	وَلَهُۥ	ﱤ	وله	and to Him (belongs)	walahu
+4	27:91:11	w	كُلُّ	ﱥ	كل	all	kullu
+4	27:91:12	w	شَيۡءٖۖ	ﱦﱧ	شيء	things	shayin
+4	27:91:13	w	وَأُمِرۡتُ	ﱨ	وامرت	And I am commanded	wa-umir'tu
+4	27:91:14	w	أَنۡ	ﱩ	ان	that	an
+4	27:91:15	w	أَكُونَ	ﱪ	اكون	I be	akūna
+4	27:91:16	w	مِنَ	ﱫ	من	of	mina
+4	27:91:17	w	ٱلۡمُسۡلِمِينَ	ﱬ	المسلمين	the Muslims	l-mus'limīna
+5	27:91:18	e	٩١	ﱭ			
+5	27:92:1	w	وَأَنۡ	ﱮ	وان	And that	wa-an
+5	27:92:2	w	أَتۡلُوَاْ	ﱯ	اتلو	I recite	atluwā
+5	27:92:3	w	ٱلۡقُرۡءَانَۖ	ﱰﱱ	القران	the Quran	l-qur'āna
+5	27:92:4	w	فَمَنِ	ﱲ	فمن	And whoever	famani
+5	27:92:5	w	ٱهۡتَدَىٰ	ﱳ	اهتدى	accepts guidance	ih'tadā
+5	27:92:6	w	فَإِنَّمَا	ﱴ	فانما	then only	fa-innamā
+5	27:92:7	w	يَهۡتَدِي	ﱵ	يهتدي	he accepts guidance	yahtadī
+5	27:92:8	w	لِنَفۡسِهِۦۖ	ﱶﱷ	لنفسه	for himself	linafsihi
+6	27:92:9	w	وَمَن	ﱸ	ومن	and whoever	waman
+6	27:92:10	w	ضَلَّ	ﱹ	ضل	goes astray	ḍalla
+6	27:92:11	w	فَقُلۡ	ﱺ	فقل	then say	faqul
+6	27:92:12	w	إِنَّمَآ	ﱻ	انما	Only	innamā
+6	27:92:13	w	أَنَا۠	ﱼ	انا	I am	anā
+6	27:92:14	w	مِنَ	ﱽ	من	of	mina
+6	27:92:15	w	ٱلۡمُنذِرِينَ	ﱾ	المنذرين	the warners	l-mundhirīna
+6	27:92:16	e	٩٢	ﱿ			
+6	27:93:1	w	وَقُلِ	ﲀ	وقل	And say	waquli
+6	27:93:2	w	ٱلۡحَمۡدُ	ﲁ	الحمد	All praise (be)	l-ḥamdu
+6	27:93:3	w	لِلَّهِ	ﲂ	لله	to Allah	lillahi
+7	27:93:4	w	سَيُرِيكُمۡ	ﲃ	سيريكم	He will show you	sayurīkum
+7	27:93:5	w	ءَايَٰتِهِۦ	ﲄ	اياته	His Signs	āyātihi
+7	27:93:6	w	فَتَعۡرِفُونَهَاۚ	ﲅﲆ	فتعرفونها	and you will recognize them	fataʿrifūnahā
+7	27:93:7	w	وَمَا	ﲇ	وما	And your Lord is not	wamā
+7	27:93:8	w	رَبُّكَ	ﲈ	ربك	And your Lord is not	rabbuka
+7	27:93:9	w	بِغَٰفِلٍ	ﲉ	بغافل	unaware	bighāfilin
+7	27:93:10	w	عَمَّا	ﲊ	عما	of what	ʿammā
+7	27:93:11	w	تَعۡمَلُونَ	ﲋ	تعملون	you do	taʿmalūna
+7	27:93:12	e	٩٣	ﲌ			
+10	28:1:1	w	طسٓمٓ	ﲍ	طسم	Ta Seem Meem	tta-seen-meem
+10	28:1:2	e	١	ﲎ			
+10	28:2:1	w	تِلۡكَ	ﲏ	تلك	These	til'ka
+10	28:2:2	w	ءَايَٰتُ	ﲐ	ايات	(are the) Verses	āyātu
+10	28:2:3	w	ٱلۡكِتَٰبِ	ﲑ	الكتاب	(of) the Book	l-kitābi
+10	28:2:4	w	ٱلۡمُبِينِ	ﲒ	المبين	the clear	l-mubīni
+10	28:2:5	e	٢	ﲓ			
+10	28:3:1	w	نَتۡلُواْ	ﲔ	نتلو	We recite	natlū
+10	28:3:2	w	عَلَيۡكَ	ﲕ	عليك	to you	ʿalayka
+11	28:3:3	w	مِن	ﲖ	من	from	min
+11	28:3:4	w	نَّبَإِ	ﲗ	نبا	(the) news	naba-i
+11	28:3:5	w	مُوسَىٰ	ﲘ	موسى	(of) Musa	mūsā
+11	28:3:6	w	وَفِرۡعَوۡنَ	ﲙ	وفرعون	and Firaun	wafir'ʿawna
+11	28:3:7	w	بِٱلۡحَقِّ	ﲚ	بالحق	in truth	bil-ḥaqi
+11	28:3:8	w	لِقَوۡمٖ	ﲛ	لقوم	for a people	liqawmin
+11	28:3:9	w	يُؤۡمِنُونَ	ﲜ	يومنون	who believe	yu'minūna
+11	28:3:10	e	٣	ﲝ			
+11	28:4:1	w	إِنَّ	ﲞ	ان	Indeed	inna
+12	28:4:2	w	فِرۡعَوۡنَ	ﲟ	فرعون	Firaun	fir'ʿawna
+12	28:4:3	w	عَلَا	ﲠ	علا	exalted himself	ʿalā
+12	28:4:4	w	فِي	ﲡ	في	in	fī
+12	28:4:5	w	ٱلۡأَرۡضِ	ﲢ	الارض	the land	l-arḍi
+12	28:4:6	w	وَجَعَلَ	ﲣ	وجعل	and made	wajaʿala
+12	28:4:7	w	أَهۡلَهَا	ﲤ	اهلها	its people	ahlahā
+12	28:4:8	w	شِيَعٗا	ﲥ	شيعا	(into) sects	shiyaʿan
+12	28:4:9	w	يَسۡتَضۡعِفُ	ﲦ	يستضعف	oppressing	yastaḍʿifu
+13	28:4:10	w	طَآئِفَةٗ	ﲧ	طايفة	a group	ṭāifatan
+13	28:4:11	w	مِّنۡهُمۡ	ﲨ	منهم	among them	min'hum
+13	28:4:12	w	يُذَبِّحُ	ﲩ	يذبح	slaughtering	yudhabbiḥu
+13	28:4:13	w	أَبۡنَآءَهُمۡ	ﲪ	ابناءهم	their sons	abnāahum
+13	28:4:14	w	وَيَسۡتَحۡيِۦ	ﲫ	ويستحيي	and letting live	wayastaḥyī
+13	28:4:15	w	نِسَآءَهُمۡۚ	ﲬﲭ	نساءهم	their women	nisāahum
+13	28:4:16	w	إِنَّهُۥ	ﲮ	انه	Indeed, he	innahu
+13	28:4:17	w	كَانَ	ﲯ	كان	was	kāna
+14	28:4:18	w	مِنَ	ﲰ	من	of	mina
+14	28:4:19	w	ٱلۡمُفۡسِدِينَ	ﲱ	المفسدين	the corrupters	l-muf'sidīna
+14	28:4:20	e	٤	ﲲ			
+14	28:5:1	w	وَنُرِيدُ	ﲳ	ونريد	And We wanted	wanurīdu
+14	28:5:2	w	أَن	ﲴ	ان	to	an
+14	28:5:3	w	نَّمُنَّ	ﲵ	نمن	bestow a favor	namunna
+14	28:5:4	w	عَلَى	ﲶ	على	upon	ʿalā
+14	28:5:5	w	ٱلَّذِينَ	ﲷ	الذين	those who	alladhīna
+14	28:5:6	w	ٱسۡتُضۡعِفُواْ	ﲸ	استضعفوا	were oppressed	us'tuḍ'ʿifū
+15	28:5:7	w	فِي	ﲹ	في	in	fī
+15	28:5:8	w	ٱلۡأَرۡضِ	ﲺ	الارض	the land	l-arḍi
+15	28:5:9	w	وَنَجۡعَلَهُمۡ	ﲻ	ونجعلهم	and make them	wanajʿalahum
+15	28:5:10	w	أَئِمَّةٗ	ﲼ	ايمة	leaders	a-immatan
+15	28:5:11	w	وَنَجۡعَلَهُمُ	ﲽ	ونجعلهم	and make them	wanajʿalahumu
+15	28:5:12	w	ٱلۡوَٰرِثِينَ	ﲾ	الوارثين	the inheritors	l-wārithīna
+15	28:5:13	e	٥	ﲿ			

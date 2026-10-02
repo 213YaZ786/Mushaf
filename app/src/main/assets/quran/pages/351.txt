@@ -1,0 +1,154 @@
+1	24:11:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	24:11:2	w	ٱلَّذِينَ	ﱂ	الذين	those who	alladhīna
+1	24:11:3	w	جَآءُو	ﱃ	جاءوا	brought	jāū
+1	24:11:4	w	بِٱلۡإِفۡكِ	ﱄ	بالافك	the lie	bil-if'ki
+1	24:11:5	w	عُصۡبَةٞ	ﱅ	عصبة	(are) a group	ʿuṣ'batun
+1	24:11:6	w	مِّنكُمۡۚ	ﱆﱇ	منكم	among you	minkum
+1	24:11:7	w	لَا	ﱈ	لا	(Do) not	lā
+1	24:11:8	w	تَحۡسَبُوهُ	ﱉ	تحسبوه	think it	taḥsabūhu
+1	24:11:9	w	شَرّٗا	ﱊ	شرا	bad	sharran
+1	24:11:10	w	لَّكُمۖ	ﱋﱌ	لكم	for you	lakum
+1	24:11:11	w	بَلۡ	ﱍ	بل	nay	bal
+2	24:11:12	w	هُوَ	ﱎ	هو	it	huwa
+2	24:11:13	w	خَيۡرٞ	ﱏ	خير	(is) good	khayrun
+2	24:11:14	w	لَّكُمۡۚ	ﱐﱑ	لكم	for you	lakum
+2	24:11:15	w	لِكُلِّ	ﱒ	لكل	For every	likulli
+2	24:11:16	w	ٱمۡرِيٕٖ	ﱓ	امري	person	im'ri-in
+2	24:11:17	w	مِّنۡهُم	ﱔ	منهم	among them	min'hum
+2	24:11:18	w	مَّا	ﱕ	ما	(is) what	mā
+2	24:11:19	w	ٱكۡتَسَبَ	ﱖ	اكتسب	he earned	ik'tasaba
+2	24:11:20	w	مِنَ	ﱗ	من	of	mina
+2	24:11:21	w	ٱلۡإِثۡمِۚ	ﱘﱙ	الاثم	the sin	l-ith'mi
+2	24:11:22	w	وَٱلَّذِي	ﱚ	والذي	and the one who	wa-alladhī
+2	24:11:23	w	تَوَلَّىٰ	ﱛ	تولى	took upon himself a greater share of it	tawallā
+3	24:11:24	w	كِبۡرَهُۥ	ﱜ	كبره	took upon himself a greater share of it	kib'rahu
+3	24:11:25	w	مِنۡهُمۡ	ﱝ	منهم	among them	min'hum
+3	24:11:26	w	لَهُۥ	ﱞ	له	for him	lahu
+3	24:11:27	w	عَذَابٌ	ﱟ	عذاب	(is) a punishment	ʿadhābun
+3	24:11:28	w	عَظِيمٞ	ﱠ	عظيم	great	ʿaẓīmun
+3	24:11:29	e	١١	ﱡ			
+3	24:12:1	w	لَّوۡلَآ	ﱢ	لولا	Why not	lawlā
+3	24:12:2	w	إِذۡ	ﱣ	اذ	when	idh
+3	24:12:3	w	سَمِعۡتُمُوهُ	ﱤ	سمعتموه	you heard it	samiʿ'tumūhu
+3	24:12:4	w	ظَنَّ	ﱥ	ظن	think	ẓanna
+3	24:12:5	w	ٱلۡمُؤۡمِنُونَ	ﱦ	المومنون	the believing men	l-mu'minūna
+4	24:12:6	w	وَٱلۡمُؤۡمِنَٰتُ	ﱧ	والمومنات	and the believing women	wal-mu'minātu
+4	24:12:7	w	بِأَنفُسِهِمۡ	ﱨ	بانفسهم	good of themselves	bi-anfusihim
+4	24:12:8	w	خَيۡرٗا	ﱩ	خيرا	good of themselves	khayran
+4	24:12:9	w	وَقَالُواْ	ﱪ	وقالوا	and say	waqālū
+4	24:12:10	w	هَٰذَآ	ﱫ	هاذا	This	hādhā
+4	24:12:11	w	إِفۡكٞ	ﱬ	افك	(is) a lie	if'kun
+4	24:12:12	w	مُّبِينٞ	ﱭ	مبين	clear	mubīnun
+4	24:12:13	e	١٢	ﱮ			
+4	24:13:1	w	لَّوۡلَا	ﱯ	لولا	Why (did) not	lawlā
+5	24:13:2	w	جَآءُو	ﱰ	جاءوا	they bring	jāū
+5	24:13:3	w	عَلَيۡهِ	ﱱ	عليه	for it	ʿalayhi
+5	24:13:4	w	بِأَرۡبَعَةِ	ﱲ	باربعة	four	bi-arbaʿati
+5	24:13:5	w	شُهَدَآءَۚ	ﱳﱴ	شهداء	witnesses	shuhadāa
+5	24:13:6	w	فَإِذۡ	ﱵ	فاذ	Then when	fa-idh
+5	24:13:7	w	لَمۡ	ﱶ	لم	not	lam
+5	24:13:8	w	يَأۡتُواْ	ﱷ	ياتوا	they brought	yatū
+5	24:13:9	w	بِٱلشُّهَدَآءِ	ﱸ	بالشهداء	the witnesses	bil-shuhadāi
+5	24:13:10	w	فَأُوْلَٰٓئِكَ	ﱹ	فاولايك	then those	fa-ulāika
+6	24:13:11	w	عِندَ	ﱺ	عند	near Allah	ʿinda
+6	24:13:12	w	ٱللَّهِ	ﱻ	الله	near Allah	l-lahi
+6	24:13:13	w	هُمُ	ﱼ	هم	they	humu
+6	24:13:14	w	ٱلۡكَٰذِبُونَ	ﱽ	الكاذبون	(are) the liars	l-kādhibūna
+6	24:13:15	e	١٣	ﱾ			
+6	24:14:1	w	وَلَوۡلَا	ﱿ	ولولا	And if not	walawlā
+6	24:14:2	w	فَضۡلُ	ﲀ	فضل	(for the) Grace	faḍlu
+6	24:14:3	w	ٱللَّهِ	ﲁ	الله	(of) Allah	l-lahi
+6	24:14:4	w	عَلَيۡكُمۡ	ﲂ	عليكم	upon you	ʿalaykum
+6	24:14:5	w	وَرَحۡمَتُهُۥ	ﲃ	ورحمته	and His Mercy	waraḥmatuhu
+7	24:14:6	w	فِي	ﲄ	في	in	fī
+7	24:14:7	w	ٱلدُّنۡيَا	ﲅ	الدنيا	the world	l-dun'yā
+7	24:14:8	w	وَٱلۡأٓخِرَةِ	ﲆ	والاخرة	and the Hereafter	wal-ākhirati
+7	24:14:9	w	لَمَسَّكُمۡ	ﲇ	لمسكم	surely would have touched you	lamassakum
+7	24:14:10	w	فِي	ﲈ	في	in	fī
+7	24:14:11	w	مَآ	ﲉ	ما	what	mā
+7	24:14:12	w	أَفَضۡتُمۡ	ﲊ	افضتم	you had rushed glibly	afaḍtum
+7	24:14:13	w	فِيهِ	ﲋ	فيه	concerning it	fīhi
+7	24:14:14	w	عَذَابٌ	ﲌ	عذاب	a punishment	ʿadhābun
+7	24:14:15	w	عَظِيمٌ	ﲍ	عظيم	great	ʿaẓīmun
+7	24:14:16	e	١٤	ﲎ			
+8	24:15:1	w	إِذۡ	ﲏ	اذ	When	idh
+8	24:15:2	w	تَلَقَّوۡنَهُۥ	ﲐ	تلقونه	you received it	talaqqawnahu
+8	24:15:3	w	بِأَلۡسِنَتِكُمۡ	ﲑ	بالسنتكم	with your tongues	bi-alsinatikum
+8	24:15:4	w	وَتَقُولُونَ	ﲒ	وتقولون	and you said	wataqūlūna
+8	24:15:5	w	بِأَفۡوَاهِكُم	ﲓ	بافواهكم	with your mouths	bi-afwāhikum
+8	24:15:6	w	مَّا	ﲔ	ما	what	mā
+8	24:15:7	w	لَيۡسَ	ﲕ	ليس	not	laysa
+8	24:15:8	w	لَكُم	ﲖ	لكم	for you	lakum
+8	24:15:9	w	بِهِۦ	ﲗ	به	of it	bihi
+8	24:15:10	w	عِلۡمٞ	ﲘ	علم	any knowledge	ʿil'mun
+9	24:15:11	w	وَتَحۡسَبُونَهُۥ	ﲙ	وتحسبونه	and you thought it	wataḥsabūnahu
+9	24:15:12	w	هَيِّنٗا	ﲚ	هينا	(was) insignificant	hayyinan
+9	24:15:13	w	وَهُوَ	ﲛ	وهو	while it	wahuwa
+9	24:15:14	w	عِندَ	ﲜ	عند	(was) near Allah	ʿinda
+9	24:15:15	w	ٱللَّهِ	ﲝ	الله	(was) near Allah	l-lahi
+9	24:15:16	w	عَظِيمٞ	ﲞ	عظيم	great	ʿaẓīmun
+9	24:15:17	e	١٥	ﲟ			
+9	24:16:1	w	وَلَوۡلَآ	ﲠ	ولولا	And why not	walawlā
+9	24:16:2	w	إِذۡ	ﲡ	اذ	when	idh
+9	24:16:3	w	سَمِعۡتُمُوهُ	ﲢ	سمعتموه	you heard it	samiʿ'tumūhu
+10	24:16:4	w	قُلۡتُم	ﲣ	قلتم	you said	qul'tum
+10	24:16:5	w	مَّا	ﲤ	ما	Not	mā
+10	24:16:6	w	يَكُونُ	ﲥ	يكون	it is	yakūnu
+10	24:16:7	w	لَنَآ	ﲦ	لنا	for us	lanā
+10	24:16:8	w	أَن	ﲧ	ان	that	an
+10	24:16:9	w	نَّتَكَلَّمَ	ﲨ	نتكلم	we speak	natakallama
+10	24:16:10	w	بِهَٰذَا	ﲩ	بهاذا	of this	bihādhā
+10	24:16:11	w	سُبۡحَٰنَكَ	ﲪ	سبحانك	Glory be to You	sub'ḥānaka
+10	24:16:12	w	هَٰذَا	ﲫ	هاذا	This	hādhā
+10	24:16:13	w	بُهۡتَٰنٌ	ﲬ	بهتان	(is) a slander	buh'tānun
+10	24:16:14	w	عَظِيمٞ	ﲭ	عظيم	great	ʿaẓīmun
+11	24:16:15	e	١٦	ﲮ			
+11	24:17:1	w	يَعِظُكُمُ	ﲯ	يعظكم	Allah warns you	yaʿiẓukumu
+11	24:17:2	w	ٱللَّهُ	ﲰ	الله	Allah warns you	l-lahu
+11	24:17:3	w	أَن	ﲱ	ان	that	an
+11	24:17:4	w	تَعُودُواْ	ﲲ	تعودوا	you return	taʿūdū
+11	24:17:5	w	لِمِثۡلِهِۦٓ	ﲳ	لمثله	(to the) like of it	limith'lihi
+11	24:17:6	w	أَبَدًا	ﲴ	ابدا	ever	abadan
+11	24:17:7	w	إِن	ﲵ	ان	if	in
+11	24:17:8	w	كُنتُم	ﲶ	كنتم	you are	kuntum
+11	24:17:9	w	مُّؤۡمِنِينَ	ﲷ	مومنين	believers	mu'minīna
+11	24:17:10	e	١٧	ﲸ			
+12	24:18:1	w	وَيُبَيِّنُ	ﲹ	ويبين	And Allah makes clear	wayubayyinu
+12	24:18:2	w	ٱللَّهُ	ﲺ	الله	And Allah makes clear	l-lahu
+12	24:18:3	w	لَكُمُ	ﲻ	لكم	to you	lakumu
+12	24:18:4	w	ٱلۡأٓيَٰتِۚ	ﲼﲽ	الايات	the Verses	l-āyāti
+12	24:18:5	w	وَٱللَّهُ	ﲾ	والله	And Allah	wal-lahu
+12	24:18:6	w	عَلِيمٌ	ﲿ	عليم	(is) All-Knower	ʿalīmun
+12	24:18:7	w	حَكِيمٌ	ﳀ	حكيم	All-Wise	ḥakīmun
+12	24:18:8	e	١٨	ﳁ			
+12	24:19:1	w	إِنَّ	ﳂ	ان	Indeed	inna
+12	24:19:2	w	ٱلَّذِينَ	ﳃ	الذين	those who	alladhīna
+13	24:19:3	w	يُحِبُّونَ	ﳄ	يحبون	like	yuḥibbūna
+13	24:19:4	w	أَن	ﳅ	ان	that	an
+13	24:19:5	w	تَشِيعَ	ﳆ	تشيع	(should) spread	tashīʿa
+13	24:19:6	w	ٱلۡفَٰحِشَةُ	ﳇ	الفاحشة	the immorality	l-fāḥishatu
+13	24:19:7	w	فِي	ﳈ	في	among	fī
+13	24:19:8	w	ٱلَّذِينَ	ﳉ	الذين	those who	alladhīna
+13	24:19:9	w	ءَامَنُواْ	ﳊ	امنوا	believe	āmanū
+13	24:19:10	w	لَهُمۡ	ﳋ	لهم	for them	lahum
+13	24:19:11	w	عَذَابٌ	ﳌ	عذاب	(is) a punishment	ʿadhābun
+13	24:19:12	w	أَلِيمٞ	ﳍ	اليم	painful	alīmun
+14	24:19:13	w	فِي	ﳎ	في	in	fī
+14	24:19:14	w	ٱلدُّنۡيَا	ﳏ	الدنيا	the world	l-dun'yā
+14	24:19:15	w	وَٱلۡأٓخِرَةِۚ	ﳐﳑ	والاخرة	and the Hereafter	wal-ākhirati
+14	24:19:16	w	وَٱللَّهُ	ﳒ	والله	And Allah	wal-lahu
+14	24:19:17	w	يَعۡلَمُ	ﳓ	يعلم	knows	yaʿlamu
+14	24:19:18	w	وَأَنتُمۡ	ﳔ	وانتم	while you	wa-antum
+14	24:19:19	w	لَا	ﳕ	لا	(do) not	lā
+14	24:19:20	w	تَعۡلَمُونَ	ﳖ	تعلمون	know	taʿlamūna
+14	24:19:21	e	١٩	ﳗ			
+14	24:20:1	w	وَلَوۡلَا	ﳘ	ولولا	And if not	walawlā
+15	24:20:2	w	فَضۡلُ	ﳙ	فضل	(for the) Grace of Allah	faḍlu
+15	24:20:3	w	ٱللَّهِ	ﳚ	الله	(for the) Grace of Allah	l-lahi
+15	24:20:4	w	عَلَيۡكُمۡ	ﳛ	عليكم	upon you	ʿalaykum
+15	24:20:5	w	وَرَحۡمَتُهُۥ	ﳜ	ورحمته	and His Mercy	waraḥmatuhu
+15	24:20:6	w	وَأَنَّ	ﳝ	وان	And that	wa-anna
+15	24:20:7	w	ٱللَّهَ	ﳞ	الله	Allah	l-laha
+15	24:20:8	w	رَءُوفٞ	ﳟ	رءوف	(is) Full of Kindness	raūfun
+15	24:20:9	w	رَّحِيمٞ	ﳠ	رحيم	Most Merciful	raḥīmun
+15	24:20:10	e	٢٠	ﳡ			

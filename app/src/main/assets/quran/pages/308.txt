@@ -1,0 +1,158 @@
+1	19:39:1	w	وَأَنذِرۡهُمۡ	ﱁ	وانذرهم	And warn them	wa-andhir'hum
+1	19:39:2	w	يَوۡمَ	ﱂ	يوم	(of the) Day	yawma
+1	19:39:3	w	ٱلۡحَسۡرَةِ	ﱃ	الحسرة	(of) the Regret	l-ḥasrati
+1	19:39:4	w	إِذۡ	ﱄ	اذ	when	idh
+1	19:39:5	w	قُضِيَ	ﱅ	قضي	has been decided	quḍiya
+1	19:39:6	w	ٱلۡأَمۡرُ	ﱆ	الامر	the matter	l-amru
+1	19:39:7	w	وَهُمۡ	ﱇ	وهم	And they	wahum
+1	19:39:8	w	فِي	ﱈ	في	(are) in	fī
+1	19:39:9	w	غَفۡلَةٖ	ﱉ	غفلة	heedlessness	ghaflatin
+1	19:39:10	w	وَهُمۡ	ﱊ	وهم	and they	wahum
+1	19:39:11	w	لَا	ﱋ	لا	(do) not	lā
+1	19:39:12	w	يُؤۡمِنُونَ	ﱌ	يومنون	believe	yu'minūna
+2	19:39:13	e	٣٩	ﱍ			
+2	19:40:1	w	إِنَّا	ﱎ	انا	Indeed, We	innā
+2	19:40:2	w	نَحۡنُ	ﱏ	نحن	[We]	naḥnu
+2	19:40:3	w	نَرِثُ	ﱐ	نرث	[We] will inherit	narithu
+2	19:40:4	w	ٱلۡأَرۡضَ	ﱑ	الارض	the earth	l-arḍa
+2	19:40:5	w	وَمَنۡ	ﱒ	ومن	and whoever	waman
+2	19:40:6	w	عَلَيۡهَا	ﱓ	عليها	(is) on it	ʿalayhā
+2	19:40:7	w	وَإِلَيۡنَا	ﱔ	والينا	and to Us	wa-ilaynā
+2	19:40:8	w	يُرۡجَعُونَ	ﱕ	يرجعون	they will be returned	yur'jaʿūna
+2	19:40:9	e	٤٠	ﱖ			
+2	19:41:1	w	وَٱذۡكُرۡ	ﱗ	واذكر	And mention	wa-udh'kur
+3	19:41:2	w	فِي	ﱘ	في	in	fī
+3	19:41:3	w	ٱلۡكِتَٰبِ	ﱙ	الكتاب	the Book	l-kitābi
+3	19:41:4	w	إِبۡرَٰهِيمَۚ	ﱚﱛ	ابراهيم	Ibrahim	ib'rāhīma
+3	19:41:5	w	إِنَّهُۥ	ﱜ	انه	Indeed, he	innahu
+3	19:41:6	w	كَانَ	ﱝ	كان	was	kāna
+3	19:41:7	w	صِدِّيقٗا	ﱞ	صديقا	a man of truth	ṣiddīqan
+3	19:41:8	w	نَّبِيًّا	ﱟ	نبيا	a Prophet	nabiyyan
+3	19:41:9	e	٤١	ﱠ			
+3	19:42:1	w	إِذۡ	ﱡ	اذ	When	idh
+3	19:42:2	w	قَالَ	ﱢ	قال	he said	qāla
+3	19:42:3	w	لِأَبِيهِ	ﱣ	لابيه	to his father	li-abīhi
+3	19:42:4	w	يَٰٓأَبَتِ	ﱤ	يا ابت	O my father	yāabati
+4	19:42:5	w	لِمَ	ﱥ	لم	Why	lima
+4	19:42:6	w	تَعۡبُدُ	ﱦ	تعبد	(do) you worship	taʿbudu
+4	19:42:7	w	مَا	ﱧ	ما	that which	mā
+4	19:42:8	w	لَا	ﱨ	لا	not	lā
+4	19:42:9	w	يَسۡمَعُ	ﱩ	يسمع	hears	yasmaʿu
+4	19:42:10	w	وَلَا	ﱪ	ولا	and not	walā
+4	19:42:11	w	يُبۡصِرُ	ﱫ	يبصر	sees	yub'ṣiru
+4	19:42:12	w	وَلَا	ﱬ	ولا	and not	walā
+4	19:42:13	w	يُغۡنِي	ﱭ	يغني	benefits	yugh'nī
+4	19:42:14	w	عَنكَ	ﱮ	عنك	[to] you	ʿanka
+4	19:42:15	w	شَيۡـٔٗا	ﱯ	شييا	(in) anything	shayan
+4	19:42:16	e	٤٢	ﱰ			
+4	19:43:1	w	يَٰٓأَبَتِ	ﱱ	يا ابت	O my father	yāabati
+5	19:43:2	w	إِنِّي	ﱲ	اني	Indeed, [I]	innī
+5	19:43:3	w	قَدۡ	ﱳ	قد	verily	qad
+5	19:43:4	w	جَآءَنِي	ﱴ	جاءني	(has) come to me	jāanī
+5	19:43:5	w	مِنَ	ﱵ	من	of	mina
+5	19:43:6	w	ٱلۡعِلۡمِ	ﱶ	العلم	the knowledge	l-ʿil'mi
+5	19:43:7	w	مَا	ﱷ	ما	what	mā
+5	19:43:8	w	لَمۡ	ﱸ	لم	not	lam
+5	19:43:9	w	يَأۡتِكَ	ﱹ	ياتك	came to you	yatika
+5	19:43:10	w	فَٱتَّبِعۡنِيٓ	ﱺ	فاتبعني	so follow me	fa-ittabiʿ'nī
+5	19:43:11	w	أَهۡدِكَ	ﱻ	اهدك	I will guide you	ahdika
+5	19:43:12	w	صِرَٰطٗا	ﱼ	صراطا	(to) the path	ṣirāṭan
+6	19:43:13	w	سَوِيّٗا	ﱽ	سويا	even	sawiyyan
+6	19:43:14	e	٤٣	ﱾ			
+6	19:44:1	w	يَٰٓأَبَتِ	ﱿ	يا ابت	O my father	yāabati
+6	19:44:2	w	لَا	ﲀ	لا	(Do) not	lā
+6	19:44:3	w	تَعۡبُدِ	ﲁ	تعبد	worship	taʿbudi
+6	19:44:4	w	ٱلشَّيۡطَٰنَۖ	ﲂﲃ	الشيطان	the Shaitaan	l-shayṭāna
+6	19:44:5	w	إِنَّ	ﲄ	ان	Indeed	inna
+6	19:44:6	w	ٱلشَّيۡطَٰنَ	ﲅ	الشيطان	the Shaitaan	l-shayṭāna
+6	19:44:7	w	كَانَ	ﲆ	كان	is	kāna
+6	19:44:8	w	لِلرَّحۡمَٰنِ	ﲇ	للرحمان	to the Most Gracious	lilrraḥmāni
+7	19:44:9	w	عَصِيّٗا	ﲈ	عصيا	disobedient	ʿaṣiyyan
+7	19:44:10	e	٤٤	ﲉ			
+7	19:45:1	w	يَٰٓأَبَتِ	ﲊ	يا ابت	O my father	yāabati
+7	19:45:2	w	إِنِّيٓ	ﲋ	اني	Indeed, I	innī
+7	19:45:3	w	أَخَافُ	ﲌ	اخاف	[I] fear	akhāfu
+7	19:45:4	w	أَن	ﲍ	ان	that	an
+7	19:45:5	w	يَمَسَّكَ	ﲎ	يمسك	will touch you	yamassaka
+7	19:45:6	w	عَذَابٞ	ﲏ	عذاب	a punishment	ʿadhābun
+7	19:45:7	w	مِّنَ	ﲐ	من	from	mina
+7	19:45:8	w	ٱلرَّحۡمَٰنِ	ﲑ	الرحمان	the Most Gracious	l-raḥmāni
+8	19:45:9	w	فَتَكُونَ	ﲒ	فتكون	so you would be	fatakūna
+8	19:45:10	w	لِلشَّيۡطَٰنِ	ﲓ	للشيطان	to the Shaitaan	lilshayṭāni
+8	19:45:11	w	وَلِيّٗا	ﲔ	وليا	a friend	waliyyan
+8	19:45:12	e	٤٥	ﲕ			
+8	19:46:1	w	قَالَ	ﲖ	قال	He said	qāla
+8	19:46:2	w	أَرَاغِبٌ	ﲗ	اراغب	Do you hate	arāghibun
+8	19:46:3	w	أَنتَ	ﲘ	انت	Do you hate	anta
+8	19:46:4	w	عَنۡ	ﲙ	عن	(from)	ʿan
+8	19:46:5	w	ءَالِهَتِي	ﲚ	الهتي	my gods	ālihatī
+9	19:46:6	w	يَٰٓإِبۡرَٰهِيمُۖ	ﲛﲜ	يا ابراهيم	O Ibrahim	yāib'rāhīmu
+9	19:46:7	w	لَئِن	ﲝ	لين	Surely, if	la-in
+9	19:46:8	w	لَّمۡ	ﲞ	لم	not	lam
+9	19:46:9	w	تَنتَهِ	ﲟ	تنته	you desist	tantahi
+9	19:46:10	w	لَأَرۡجُمَنَّكَۖ	ﲠﲡ	لارجمنك	surely, I will stone you	la-arjumannaka
+9	19:46:11	w	وَٱهۡجُرۡنِي	ﲢ	واهجرني	so leave me	wa-uh'jur'nī
+9	19:46:12	w	مَلِيّٗا	ﲣ	مليا	(for) a prolonged time	maliyyan
+9	19:46:13	e	٤٦	ﲤ			
+9	19:47:1	w	قَالَ	ﲥ	قال	He said	qāla
+10	19:47:2	w	سَلَٰمٌ	ﲦ	سلام	Peace (be)	salāmun
+10	19:47:3	w	عَلَيۡكَۖ	ﲧﲨ	عليك	on you	ʿalayka
+10	19:47:4	w	سَأَسۡتَغۡفِرُ	ﲩ	ساستغفر	I will ask forgiveness	sa-astaghfiru
+10	19:47:5	w	لَكَ	ﲪ	لك	for you	laka
+10	19:47:6	w	رَبِّيٓۖ	ﲫﲬ	ربي	(from) my Lord	rabbī
+10	19:47:7	w	إِنَّهُۥ	ﲭ	انه	Indeed, He	innahu
+10	19:47:8	w	كَانَ	ﲮ	كان	is	kāna
+10	19:47:9	w	بِي	ﲯ	بي	to me	bī
+10	19:47:10	w	حَفِيّٗا	ﲰ	حفيا	Ever Gracious	ḥafiyyan
+10	19:47:11	e	٤٧	ﲱ			
+11	19:48:1	w	وَأَعۡتَزِلُكُمۡ	ﲲ	واعتزلكم	And I will leave you	wa-aʿtazilukum
+11	19:48:2	w	وَمَا	ﲳ	وما	and what	wamā
+11	19:48:3	w	تَدۡعُونَ	ﲴ	تدعون	you invoke	tadʿūna
+11	19:48:4	w	مِن	ﲵ	من	besides	min
+11	19:48:5	w	دُونِ	ﲶ	دون	besides	dūni
+11	19:48:6	w	ٱللَّهِ	ﲷ	الله	Allah	l-lahi
+11	19:48:7	w	وَأَدۡعُواْ	ﲸ	وادعو	and I will invoke	wa-adʿū
+11	19:48:8	w	رَبِّي	ﲹ	ربي	my Lord	rabbī
+11	19:48:9	w	عَسَىٰٓ	ﲺ	عسى	May be	ʿasā
+11	19:48:10	w	أَلَّآ	ﲻ	الا	that not	allā
+12	19:48:11	w	أَكُونَ	ﲼ	اكون	I will be	akūna
+12	19:48:12	w	بِدُعَآءِ	ﲽ	بدعاء	in invocation	biduʿāi
+12	19:48:13	w	رَبِّي	ﲾ	ربي	(to) my Lord	rabbī
+12	19:48:14	w	شَقِيّٗا	ﲿ	شقيا	unblessed	shaqiyyan
+12	19:48:15	e	٤٨	ﳀ			
+12	19:49:1	w	فَلَمَّا	ﳁ	فلما	So when	falammā
+12	19:49:2	w	ٱعۡتَزَلَهُمۡ	ﳂ	اعتزلهم	he left them	iʿ'tazalahum
+12	19:49:3	w	وَمَا	ﳃ	وما	and what	wamā
+12	19:49:4	w	يَعۡبُدُونَ	ﳄ	يعبدون	they worshipped	yaʿbudūna
+12	19:49:5	w	مِن	ﳅ	من	besides Allah	min
+13	19:49:6	w	دُونِ	ﳆ	دون	besides Allah	dūni
+13	19:49:7	w	ٱللَّهِ	ﳇ	الله	besides Allah	l-lahi
+13	19:49:8	w	وَهَبۡنَا	ﳈ	وهبنا	[and] We bestowed	wahabnā
+13	19:49:9	w	لَهُۥٓ	ﳉ	له	[to] him	lahu
+13	19:49:10	w	إِسۡحَٰقَ	ﳊ	اسحاق	Isaac	is'ḥāqa
+13	19:49:11	w	وَيَعۡقُوبَۖ	ﳋﳌ	ويعقوب	and Yaqub	wayaʿqūba
+13	19:49:12	w	وَكُلّٗا	ﳍ	وكلا	and each (of them)	wakullan
+13	19:49:13	w	جَعَلۡنَا	ﳎ	جعلنا	We made	jaʿalnā
+13	19:49:14	w	نَبِيّٗا	ﳏ	نبيا	a Prophet	nabiyyan
+13	19:49:15	e	٤٩	ﳐ			
+14	19:50:1	w	وَوَهَبۡنَا	ﳑ	ووهبنا	And We bestowed	wawahabnā
+14	19:50:2	w	لَهُم	ﳒ	لهم	to them	lahum
+14	19:50:3	w	مِّن	ﳓ	من	of	min
+14	19:50:4	w	رَّحۡمَتِنَا	ﳔ	رحمتنا	Our Mercy	raḥmatinā
+14	19:50:5	w	وَجَعَلۡنَا	ﳕ	وجعلنا	and We made	wajaʿalnā
+14	19:50:6	w	لَهُمۡ	ﳖ	لهم	for them	lahum
+14	19:50:7	w	لِسَانَ	ﳗ	لسان	a truthful mention	lisāna
+14	19:50:8	w	صِدۡقٍ	ﳘ	صدق	a truthful mention	ṣid'qin
+14	19:50:9	w	عَلِيّٗا	ﳙ	عليا	high	ʿaliyyan
+14	19:50:10	e	٥٠	ﳚ			
+15	19:51:1	w	وَٱذۡكُرۡ	ﳛ	واذكر	And mention	wa-udh'kur
+15	19:51:2	w	فِي	ﳜ	في	in	fī
+15	19:51:3	w	ٱلۡكِتَٰبِ	ﳝ	الكتاب	the Book	l-kitābi
+15	19:51:4	w	مُوسَىٰٓۚ	ﳞﳟ	موسى	Musa	mūsā
+15	19:51:5	w	إِنَّهُۥ	ﳠ	انه	Indeed, he	innahu
+15	19:51:6	w	كَانَ	ﳡ	كان	was	kāna
+15	19:51:7	w	مُخۡلَصٗا	ﳢ	مخلصا	chosen	mukh'laṣan
+15	19:51:8	w	وَكَانَ	ﳣ	وكان	and was	wakāna
+15	19:51:9	w	رَسُولٗا	ﳤ	رسولا	a Messenger	rasūlan
+15	19:51:10	w	نَّبِيّٗا	ﳥ	نبيا	a Prophet	nabiyyan
+15	19:51:11	e	٥١	ﳦ			

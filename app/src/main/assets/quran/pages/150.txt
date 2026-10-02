@@ -1,0 +1,163 @@
+1	6:158:1	w	هَلۡ	ﱁ	هل	Are	hal
+1	6:158:2	w	يَنظُرُونَ	ﱂ	ينظرون	they waiting	yanẓurūna
+1	6:158:3	w	إِلَّآ	ﱃ	الا	except	illā
+1	6:158:4	w	أَن	ﱄ	ان	that	an
+1	6:158:5	w	تَأۡتِيَهُمُ	ﱅ	تاتيهم	comes to them	tatiyahumu
+1	6:158:6	w	ٱلۡمَلَٰٓئِكَةُ	ﱆ	الملايكة	the Angels	l-malāikatu
+1	6:158:7	w	أَوۡ	ﱇ	او	or	aw
+1	6:158:8	w	يَأۡتِيَ	ﱈ	ياتي	comes	yatiya
+1	6:158:9	w	رَبُّكَ	ﱉ	ربك	your Lord	rabbuka
+1	6:158:10	w	أَوۡ	ﱊ	او	or	aw
+1	6:158:11	w	يَأۡتِيَ	ﱋ	ياتي	comes	yatiya
+1	6:158:12	w	بَعۡضُ	ﱌ	بعض	some (of)	baʿḍu
+2	6:158:13	w	ءَايَٰتِ	ﱍ	ايات	(the) Signs	āyāti
+2	6:158:14	w	رَبِّكَۗ	ﱎﱏ	ربك	(of) your Lord	rabbika
+2	6:158:15	w	يَوۡمَ	ﱐ	يوم	(The) Day	yawma
+2	6:158:16	w	يَأۡتِي	ﱑ	ياتي	(when) comes	yatī
+2	6:158:17	w	بَعۡضُ	ﱒ	بعض	some (of)	baʿḍu
+2	6:158:18	w	ءَايَٰتِ	ﱓ	ايات	(the) Signs	āyāti
+2	6:158:19	w	رَبِّكَ	ﱔ	ربك	(of) your Lord	rabbika
+2	6:158:20	w	لَا	ﱕ	لا	not	lā
+2	6:158:21	w	يَنفَعُ	ﱖ	ينفع	will benefit	yanfaʿu
+2	6:158:22	w	نَفۡسًا	ﱗ	نفسا	a soul	nafsan
+2	6:158:23	w	إِيمَٰنُهَا	ﱘ	ايمانها	its faith	īmānuhā
+3	6:158:24	w	لَمۡ	ﱙ	لم	not	lam
+3	6:158:25	w	تَكُنۡ	ﱚ	تكن	(if) it had	takun
+3	6:158:26	w	ءَامَنَتۡ	ﱛ	امنت	believed	āmanat
+3	6:158:27	w	مِن	ﱜ	من	from	min
+3	6:158:28	w	قَبۡلُ	ﱝ	قبل	before	qablu
+3	6:158:29	w	أَوۡ	ﱞ	او	or	aw
+3	6:158:30	w	كَسَبَتۡ	ﱟ	كسبت	earned	kasabat
+3	6:158:31	w	فِيٓ	ﱠ	في	through	fī
+3	6:158:32	w	إِيمَٰنِهَا	ﱡ	ايمانها	its faith	īmānihā
+3	6:158:33	w	خَيۡرٗاۗ	ﱢﱣ	خيرا	any good	khayran
+3	6:158:34	w	قُلِ	ﱤ	قل	Say	quli
+3	6:158:35	w	ٱنتَظِرُوٓاْ	ﱥ	انتظروا	Wait	intaẓirū
+4	6:158:36	w	إِنَّا	ﱦ	انا	Indeed, we	innā
+4	6:158:37	w	مُنتَظِرُونَ	ﱧ	منتظرون	(are) those who wait	muntaẓirūna
+4	6:158:38	e	١٥٨	ﱨ			
+4	6:159:1	w	إِنَّ	ﱩ	ان	Indeed	inna
+4	6:159:2	w	ٱلَّذِينَ	ﱪ	الذين	those who	alladhīna
+4	6:159:3	w	فَرَّقُواْ	ﱫ	فرقوا	divide	farraqū
+4	6:159:4	w	دِينَهُمۡ	ﱬ	دينهم	their religion	dīnahum
+4	6:159:5	w	وَكَانُواْ	ﱭ	وكانوا	and become	wakānū
+4	6:159:6	w	شِيَعٗا	ﱮ	شيعا	sects	shiyaʿan
+4	6:159:7	w	لَّسۡتَ	ﱯ	لست	you are not	lasta
+5	6:159:8	w	مِنۡهُمۡ	ﱰ	منهم	with them	min'hum
+5	6:159:9	w	فِي	ﱱ	في	in	fī
+5	6:159:10	w	شَيۡءٍۚ	ﱲﱳ	شيء	anything	shayin
+5	6:159:11	w	إِنَّمَآ	ﱴ	انما	Only	innamā
+5	6:159:12	w	أَمۡرُهُمۡ	ﱵ	امرهم	their affair	amruhum
+5	6:159:13	w	إِلَى	ﱶ	الى	(is) with	ilā
+5	6:159:14	w	ٱللَّهِ	ﱷ	الله	Allah	l-lahi
+5	6:159:15	w	ثُمَّ	ﱸ	ثم	then	thumma
+5	6:159:16	w	يُنَبِّئُهُم	ﱹ	ينبيهم	He will inform them	yunabbi-uhum
+5	6:159:17	w	بِمَا	ﱺ	بما	of what	bimā
+5	6:159:18	w	كَانُواْ	ﱻ	كانوا	they used to	kānū
+5	6:159:19	w	يَفۡعَلُونَ	ﱼ	يفعلون	do	yafʿalūna
+6	6:159:20	e	١٥٩	ﱽ			
+6	6:160:1	w	مَن	ﱾ	من	Whoever	man
+6	6:160:2	w	جَآءَ	ﱿ	جاء	came	jāa
+6	6:160:3	w	بِٱلۡحَسَنَةِ	ﲀ	بالحسنة	with a good deed	bil-ḥasanati
+6	6:160:4	w	فَلَهُۥ	ﲁ	فله	then for him	falahu
+6	6:160:5	w	عَشۡرُ	ﲂ	عشر	(is) ten (times)	ʿashru
+6	6:160:6	w	أَمۡثَالِهَاۖ	ﲃﲄ	امثالها	the like of it	amthālihā
+6	6:160:7	w	وَمَن	ﲅ	ومن	And whoever	waman
+6	6:160:8	w	جَآءَ	ﲆ	جاء	came	jāa
+6	6:160:9	w	بِٱلسَّيِّئَةِ	ﲇ	بالسيية	with an evil deed	bil-sayi-ati
+7	6:160:10	w	فَلَا	ﲈ	فلا	then not	falā
+7	6:160:11	w	يُجۡزَىٰٓ	ﲉ	يجزى	he will be recompensed	yuj'zā
+7	6:160:12	w	إِلَّا	ﲊ	الا	except	illā
+7	6:160:13	w	مِثۡلَهَا	ﲋ	مثلها	the like of it	mith'lahā
+7	6:160:14	w	وَهُمۡ	ﲌ	وهم	and they	wahum
+7	6:160:15	w	لَا	ﲍ	لا	will not	lā
+7	6:160:16	w	يُظۡلَمُونَ	ﲎ	يظلمون	(be) wronged	yuẓ'lamūna
+7	6:160:17	e	١٦٠	ﲏ			
+7	6:161:1	w	قُلۡ	ﲐ	قل	Say	qul
+7	6:161:2	w	إِنَّنِي	ﲑ	انني	Indeed (as for) me	innanī
+7	6:161:3	w	هَدَىٰنِي	ﲒ	هداني	has guided me	hadānī
+7	6:161:4	w	رَبِّيٓ	ﲓ	ربي	my Lord	rabbī
+8	6:161:5	w	إِلَىٰ	ﲔ	الى	to	ilā
+8	6:161:6	w	صِرَٰطٖ	ﲕ	صراط	a path	ṣirāṭin
+8	6:161:7	w	مُّسۡتَقِيمٖ	ﲖ	مستقيم	straight	mus'taqīmin
+8	6:161:8	w	دِينٗا	ﲗ	دينا	a religion	dīnan
+8	6:161:9	w	قِيَمٗا	ﲘ	قيما	right	qiyaman
+8	6:161:10	w	مِّلَّةَ	ﲙ	ملة	religion	millata
+8	6:161:11	w	إِبۡرَٰهِيمَ	ﲚ	ابراهيم	(of) Ibrahim	ib'rāhīma
+8	6:161:12	w	حَنِيفٗاۚ	ﲛﲜ	حنيفا	a true monotheist	ḥanīfan
+8	6:161:13	w	وَمَا	ﲝ	وما	And not	wamā
+8	6:161:14	w	كَانَ	ﲞ	كان	he was	kāna
+9	6:161:15	w	مِنَ	ﲟ	من	from	mina
+9	6:161:16	w	ٱلۡمُشۡرِكِينَ	ﲠ	المشركين	the polytheists	l-mush'rikīna
+9	6:161:17	e	١٦١	ﲡ			
+9	6:162:1	w	قُلۡ	ﲢ	قل	Say	qul
+9	6:162:2	w	إِنَّ	ﲣ	ان	Indeed	inna
+9	6:162:3	w	صَلَاتِي	ﲤ	صلاتي	my prayer	ṣalātī
+9	6:162:4	w	وَنُسُكِي	ﲥ	ونسكي	and my rites of sacrifice	wanusukī
+9	6:162:5	w	وَمَحۡيَايَ	ﲦ	ومحياي	and my living	wamaḥyāya
+9	6:162:6	w	وَمَمَاتِي	ﲧ	ومماتي	and my dying	wamamātī
+9	6:162:7	w	لِلَّهِ	ﲨ	لله	(are) for Allah	lillahi
+10	6:162:8	w	رَبِّ	ﲩ	رب	Lord	rabbi
+10	6:162:9	w	ٱلۡعَٰلَمِينَ	ﲪ	العالمين	(of) the worlds	l-ʿālamīna
+10	6:162:10	e	١٦٢	ﲫ			
+10	6:163:1	w	لَا	ﲬ	لا	No	lā
+10	6:163:2	w	شَرِيكَ	ﲭ	شريك	partners	sharīka
+10	6:163:3	w	لَهُۥۖ	ﲮﲯ	له	for Him	lahu
+10	6:163:4	w	وَبِذَٰلِكَ	ﲰ	وبذالك	and with that	wabidhālika
+10	6:163:5	w	أُمِرۡتُ	ﲱ	امرت	I have been commanded	umir'tu
+10	6:163:6	w	وَأَنَا۠	ﲲ	وانا	And I am	wa-anā
+10	6:163:7	w	أَوَّلُ	ﲳ	اول	(the) first	awwalu
+10	6:163:8	w	ٱلۡمُسۡلِمِينَ	ﲴ	المسلمين	(of) the ones who surrender (to Him)	l-mus'limīna
+11	6:163:9	e	١٦٣	ﲵ			
+11	6:164:1	w	قُلۡ	ﲶ	قل	Say	qul
+11	6:164:2	w	أَغَيۡرَ	ﲷ	اغير	Is (it) other than	aghayra
+11	6:164:3	w	ٱللَّهِ	ﲸ	الله	Allah	l-lahi
+11	6:164:4	w	أَبۡغِي	ﲹ	ابغي	I (should) seek	abghī
+11	6:164:5	w	رَبّٗا	ﲺ	ربا	(as) a Lord	rabban
+11	6:164:6	w	وَهُوَ	ﲻ	وهو	while He	wahuwa
+11	6:164:7	w	رَبُّ	ﲼ	رب	(is) the Lord	rabbu
+11	6:164:8	w	كُلِّ	ﲽ	كل	(of) every	kulli
+11	6:164:9	w	شَيۡءٖۚ	ﲾﲿ	شيء	thing	shayin
+11	6:164:10	w	وَلَا	ﳀ	ولا	And not	walā
+11	6:164:11	w	تَكۡسِبُ	ﳁ	تكسب	earns	taksibu
+11	6:164:12	w	كُلُّ	ﳂ	كل	every	kullu
+12	6:164:13	w	نَفۡسٍ	ﳃ	نفس	soul	nafsin
+12	6:164:14	w	إِلَّا	ﳄ	الا	except	illā
+12	6:164:15	w	عَلَيۡهَاۚ	ﳅﳆ	عليها	against itself	ʿalayhā
+12	6:164:16	w	وَلَا	ﳇ	ولا	and not	walā
+12	6:164:17	w	تَزِرُ	ﳈ	تزر	bears	taziru
+12	6:164:18	w	وَازِرَةٞ	ﳉ	وازرة	any bearer of burden	wāziratun
+12	6:164:19	w	وِزۡرَ	ﳊ	وزر	burden	wiz'ra
+12	6:164:20	w	أُخۡرَىٰۚ	ﳋﳌ	اخرى	(of) another	ukh'rā
+12	6:164:21	w	ثُمَّ	ﳍ	ثم	Then	thumma
+12	6:164:22	w	إِلَىٰ	ﳎ	الى	to	ilā
+12	6:164:23	w	رَبِّكُم	ﳏ	ربكم	your Lord	rabbikum
+13	6:164:24	w	مَّرۡجِعُكُمۡ	ﳐ	مرجعكم	(is) your return	marjiʿukum
+13	6:164:25	w	فَيُنَبِّئُكُم	ﳑ	فينبيكم	then He will inform you	fayunabbi-ukum
+13	6:164:26	w	بِمَا	ﳒ	بما	about what	bimā
+13	6:164:27	w	كُنتُمۡ	ﳓ	كنتم	you were	kuntum
+13	6:164:28	w	فِيهِ	ﳔ	فيه	concerning it	fīhi
+13	6:164:29	w	تَخۡتَلِفُونَ	ﳕ	تختلفون	differing	takhtalifūna
+13	6:164:30	e	١٦٤	ﳖ			
+13	6:165:1	w	وَهُوَ	ﳗ	وهو	And He	wahuwa
+13	6:165:2	w	ٱلَّذِي	ﳘ	الذي	(is) the One Who	alladhī
+13	6:165:3	w	جَعَلَكُمۡ	ﳙ	جعلكم	(has) made you	jaʿalakum
+14	6:165:4	w	خَلَٰٓئِفَ	ﳚ	خلايف	successors	khalāifa
+14	6:165:5	w	ٱلۡأَرۡضِ	ﳛ	الارض	(of) the earth	l-arḍi
+14	6:165:6	w	وَرَفَعَ	ﳜ	ورفع	and raised	warafaʿa
+14	6:165:7	w	بَعۡضَكُمۡ	ﳝ	بعضكم	some of you	baʿḍakum
+14	6:165:8	w	فَوۡقَ	ﳞ	فوق	above	fawqa
+14	6:165:9	w	بَعۡضٖ	ﳟ	بعض	others	baʿḍin
+14	6:165:10	w	دَرَجَٰتٖ	ﳠ	درجات	(in) ranks	darajātin
+14	6:165:11	w	لِّيَبۡلُوَكُمۡ	ﳡ	ليبلوكم	so that He may test you	liyabluwakum
+14	6:165:12	w	فِي	ﳢ	في	in	fī
+15	6:165:13	w	مَآ	ﳣ	ما	what	mā
+15	6:165:14	w	ءَاتَىٰكُمۡۗ	ﳤﳥ	اتاكم	He has given you	ātākum
+15	6:165:15	w	إِنَّ	ﳦ	ان	Indeed	inna
+15	6:165:16	w	رَبَّكَ	ﳧ	ربك	your Lord	rabbaka
+15	6:165:17	w	سَرِيعُ	ﳨ	سريع	(is) swift	sarīʿu
+15	6:165:18	w	ٱلۡعِقَابِ	ﳩ	العقاب	(in) the punishment	l-ʿiqābi
+15	6:165:19	w	وَإِنَّهُۥ	ﳪ	وانه	and indeed, He (is)	wa-innahu
+15	6:165:20	w	لَغَفُورٞ	ﳫ	لغفور	[certainly], Oft-Forgiving	laghafūrun
+15	6:165:21	w	رَّحِيمُۢ	ﳬ	رحيم	Most Merciful	raḥīmun
+15	6:165:22	e	١٦٥	ﳭ			

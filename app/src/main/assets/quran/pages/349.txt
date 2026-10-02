@@ -1,0 +1,140 @@
+1	23:105:1	w	أَلَمۡ	ﱁ	الم	Were not	alam
+1	23:105:2	w	تَكُنۡ	ﱂ	تكن	Were not	takun
+1	23:105:3	w	ءَايَٰتِي	ﱃ	اياتي	My Verses	āyātī
+1	23:105:4	w	تُتۡلَىٰ	ﱄ	تتلى	recited	tut'lā
+1	23:105:5	w	عَلَيۡكُمۡ	ﱅ	عليكم	to you	ʿalaykum
+1	23:105:6	w	فَكُنتُم	ﱆ	فكنتم	and you used (to)	fakuntum
+1	23:105:7	w	بِهَا	ﱇ	بها	deny them	bihā
+1	23:105:8	w	تُكَذِّبُونَ	ﱈ	تكذبون	deny them	tukadhibūna
+1	23:105:9	e	١٠٥	ﱉ			
+1	23:106:1	w	قَالُواْ	ﱊ	قالوا	They (will) say	qālū
+2	23:106:2	w	رَبَّنَا	ﱋ	ربنا	Our Lord	rabbanā
+2	23:106:3	w	غَلَبَتۡ	ﱌ	غلبت	Overcame	ghalabat
+2	23:106:4	w	عَلَيۡنَا	ﱍ	علينا	[on] us	ʿalaynā
+2	23:106:5	w	شِقۡوَتُنَا	ﱎ	شقوتنا	our wretchedness	shiq'watunā
+2	23:106:6	w	وَكُنَّا	ﱏ	وكنا	and we were	wakunnā
+2	23:106:7	w	قَوۡمٗا	ﱐ	قوما	a people	qawman
+2	23:106:8	w	ضَآلِّينَ	ﱑ	ضالين	astray	ḍāllīna
+2	23:106:9	e	١٠٦	ﱒ			
+2	23:107:1	w	رَبَّنَآ	ﱓ	ربنا	Our Lord	rabbanā
+3	23:107:2	w	أَخۡرِجۡنَا	ﱔ	اخرجنا	Bring us out	akhrij'nā
+3	23:107:3	w	مِنۡهَا	ﱕ	منها	from it	min'hā
+3	23:107:4	w	فَإِنۡ	ﱖ	فان	then if	fa-in
+3	23:107:5	w	عُدۡنَا	ﱗ	عدنا	we return	ʿud'nā
+3	23:107:6	w	فَإِنَّا	ﱘ	فانا	then indeed, we	fa-innā
+3	23:107:7	w	ظَٰلِمُونَ	ﱙ	ظالمون	(would be) wrongdoers	ẓālimūna
+3	23:107:8	e	١٠٧	ﱚ			
+3	23:108:1	w	قَالَ	ﱛ	قال	He (will) say	qāla
+3	23:108:2	w	ٱخۡسَـُٔواْ	ﱜ	اخسيوا	Remain despised	ikh'saū
+3	23:108:3	w	فِيهَا	ﱝ	فيها	in it	fīhā
+4	23:108:4	w	وَلَا	ﱞ	ولا	and (do) not	walā
+4	23:108:5	w	تُكَلِّمُونِ	ﱟ	تكلمون	speak to Me	tukallimūni
+4	23:108:6	e	١٠٨	ﱠ			
+4	23:109:1	w	إِنَّهُۥ	ﱡ	انه	Indeed	innahu
+4	23:109:2	w	كَانَ	ﱢ	كان	(there) was	kāna
+4	23:109:3	w	فَرِيقٞ	ﱣ	فريق	a party	farīqun
+4	23:109:4	w	مِّنۡ	ﱤ	من	of	min
+4	23:109:5	w	عِبَادِي	ﱥ	عبادي	My slaves	ʿibādī
+4	23:109:6	w	يَقُولُونَ	ﱦ	يقولون	(who) said	yaqūlūna
+4	23:109:7	w	رَبَّنَآ	ﱧ	ربنا	Our Lord	rabbanā
+4	23:109:8	w	ءَامَنَّا	ﱨ	امنا	We believe	āmannā
+5	23:109:9	w	فَٱغۡفِرۡ	ﱩ	فاغفر	so forgive	fa-igh'fir
+5	23:109:10	w	لَنَا	ﱪ	لنا	us	lanā
+5	23:109:11	w	وَٱرۡحَمۡنَا	ﱫ	وارحمنا	and have mercy on us	wa-ir'ḥamnā
+5	23:109:12	w	وَأَنتَ	ﱬ	وانت	and You	wa-anta
+5	23:109:13	w	خَيۡرُ	ﱭ	خير	(are) best	khayru
+5	23:109:14	w	ٱلرَّٰحِمِينَ	ﱮ	الراحمين	(of) those who show mercy	l-rāḥimīna
+5	23:109:15	e	١٠٩	ﱯ			
+5	23:110:1	w	فَٱتَّخَذۡتُمُوهُمۡ	ﱰ	فاتخذتموهم	But you took them	fa-ittakhadhtumūhum
+6	23:110:2	w	سِخۡرِيًّا	ﱱ	سخريا	(in) mockery	sikh'riyyan
+6	23:110:3	w	حَتَّىٰٓ	ﱲ	حتى	until	ḥattā
+6	23:110:4	w	أَنسَوۡكُمۡ	ﱳ	انسوكم	they made you forget	ansawkum
+6	23:110:5	w	ذِكۡرِي	ﱴ	ذكري	My remembrance	dhik'rī
+6	23:110:6	w	وَكُنتُم	ﱵ	وكنتم	and you used (to)	wakuntum
+6	23:110:7	w	مِّنۡهُمۡ	ﱶ	منهم	at them	min'hum
+6	23:110:8	w	تَضۡحَكُونَ	ﱷ	تضحكون	laugh	taḍḥakūna
+6	23:110:9	e	١١٠	ﱸ			
+7	23:111:1	w	إِنِّي	ﱹ	اني	Indeed, I	innī
+7	23:111:2	w	جَزَيۡتُهُمُ	ﱺ	جزيتهم	have rewarded them	jazaytuhumu
+7	23:111:3	w	ٱلۡيَوۡمَ	ﱻ	اليوم	this Day	l-yawma
+7	23:111:4	w	بِمَا	ﱼ	بما	because	bimā
+7	23:111:5	w	صَبَرُوٓاْ	ﱽ	صبروا	they were patient	ṣabarū
+7	23:111:6	w	أَنَّهُمۡ	ﱾ	انهم	indeed, they	annahum
+7	23:111:7	w	هُمُ	ﱿ	هم	[they]	humu
+7	23:111:8	w	ٱلۡفَآئِزُونَ	ﲀ	الفايزون	(are) the successful ones	l-fāizūna
+7	23:111:9	e	١١١	ﲁ			
+7	23:112:1	w	قَٰلَ	ﲂ	قال	He will say	qāla
+8	23:112:2	w	كَمۡ	ﲃ	كم	How long	kam
+8	23:112:3	w	لَبِثۡتُمۡ	ﲄ	لبثتم	did you remain	labith'tum
+8	23:112:4	w	فِي	ﲅ	في	in	fī
+8	23:112:5	w	ٱلۡأَرۡضِ	ﲆ	الارض	the earth	l-arḍi
+8	23:112:6	w	عَدَدَ	ﲇ	عدد	(in) number	ʿadada
+8	23:112:7	w	سِنِينَ	ﲈ	سنين	(of) years	sinīna
+8	23:112:8	e	١١٢	ﲉ			
+8	23:113:1	w	قَالُواْ	ﲊ	قالوا	They will say	qālū
+8	23:113:2	w	لَبِثۡنَا	ﲋ	لبثنا	We remained	labith'nā
+8	23:113:3	w	يَوۡمًا	ﲌ	يوما	a day	yawman
+8	23:113:4	w	أَوۡ	ﲍ	او	or	aw
+8	23:113:5	w	بَعۡضَ	ﲎ	بعض	a part	baʿḍa
+9	23:113:6	w	يَوۡمٖ	ﲏ	يوم	(of) a day	yawmin
+9	23:113:7	w	فَسۡـَٔلِ	ﲐ	فاسال	but ask	fasali
+9	23:113:8	w	ٱلۡعَآدِّينَ	ﲑ	العادين	those who keep count	l-ʿādīna
+9	23:113:9	e	١١٣	ﲒ			
+9	23:114:1	w	قَٰلَ	ﲓ	قال	He will say	qāla
+9	23:114:2	w	إِن	ﲔ	ان	Not	in
+9	23:114:3	w	لَّبِثۡتُمۡ	ﲕ	لبثتم	you stayed	labith'tum
+9	23:114:4	w	إِلَّا	ﲖ	الا	but	illā
+9	23:114:5	w	قَلِيلٗاۖ	ﲗﲘ	قليلا	a little	qalīlan
+9	23:114:6	w	لَّوۡ	ﲙ	لو	if	law
+9	23:114:7	w	أَنَّكُمۡ	ﲚ	انكم	only you	annakum
+10	23:114:8	w	كُنتُمۡ	ﲛ	كنتم	[you]	kuntum
+10	23:114:9	w	تَعۡلَمُونَ	ﲜ	تعلمون	knew	taʿlamūna
+10	23:114:10	e	١١٤	ﲝ			
+10	23:115:1	w	أَفَحَسِبۡتُمۡ	ﲞ	افحسبتم	Then did you think	afaḥasib'tum
+10	23:115:2	w	أَنَّمَا	ﲟ	انما	that	annamā
+10	23:115:3	w	خَلَقۡنَٰكُمۡ	ﲠ	خلقناكم	We created you	khalaqnākum
+10	23:115:4	w	عَبَثٗا	ﲡ	عبثا	uselessly	ʿabathan
+10	23:115:5	w	وَأَنَّكُمۡ	ﲢ	وانكم	and that you	wa-annakum
+11	23:115:6	w	إِلَيۡنَا	ﲣ	الينا	to Us	ilaynā
+11	23:115:7	w	لَا	ﲤ	لا	not	lā
+11	23:115:8	w	تُرۡجَعُونَ	ﲥ	ترجعون	will be returned	tur'jaʿūna
+11	23:115:9	e	١١٥	ﲦ			
+11	23:116:1	w	فَتَعَٰلَى	ﲧ	فتعالى	So exalted is	fataʿālā
+11	23:116:2	w	ٱللَّهُ	ﲨ	الله	Allah	l-lahu
+11	23:116:3	w	ٱلۡمَلِكُ	ﲩ	الملك	the King	l-maliku
+11	23:116:4	w	ٱلۡحَقُّۖ	ﲪﲫ	الحق	the Truth	l-ḥaqu
+11	23:116:5	w	لَآ	ﲬ	لا	(There is) no	lā
+11	23:116:6	w	إِلَٰهَ	ﲭ	الاه	god	ilāha
+11	23:116:7	w	إِلَّا	ﲮ	الا	except	illā
+12	23:116:8	w	هُوَ	ﲯ	هو	Him	huwa
+12	23:116:9	w	رَبُّ	ﲰ	رب	(the) Lord	rabbu
+12	23:116:10	w	ٱلۡعَرۡشِ	ﲱ	العرش	(of) the Throne	l-ʿarshi
+12	23:116:11	w	ٱلۡكَرِيمِ	ﲲ	الكريم	Honorable	l-karīmi
+12	23:116:12	e	١١٦	ﲳ			
+12	23:117:1	w	وَمَن	ﲴ	ومن	And whoever	waman
+12	23:117:2	w	يَدۡعُ	ﲵ	يدع	invokes	yadʿu
+12	23:117:3	w	مَعَ	ﲶ	مع	with	maʿa
+12	23:117:4	w	ٱللَّهِ	ﲷ	الله	Allah	l-lahi
+12	23:117:5	w	إِلَٰهًا	ﲸ	الاها	god	ilāhan
+13	23:117:6	w	ءَاخَرَ	ﲹ	اخر	other	ākhara
+13	23:117:7	w	لَا	ﲺ	لا	no	lā
+13	23:117:8	w	بُرۡهَٰنَ	ﲻ	برهان	proof	bur'hāna
+13	23:117:9	w	لَهُۥ	ﲼ	له	for him	lahu
+13	23:117:10	w	بِهِۦ	ﲽ	به	in it	bihi
+13	23:117:11	w	فَإِنَّمَا	ﲾ	فانما	Then only	fa-innamā
+13	23:117:12	w	حِسَابُهُۥ	ﲿ	حسابه	his account	ḥisābuhu
+13	23:117:13	w	عِندَ	ﳀ	عند	(is) with	ʿinda
+13	23:117:14	w	رَبِّهِۦٓۚ	ﳁﳂ	ربه	his Lord	rabbihi
+13	23:117:15	w	إِنَّهُۥ	ﳃ	انه	Indeed, [he]	innahu
+13	23:117:16	w	لَا	ﳄ	لا	not	lā
+13	23:117:17	w	يُفۡلِحُ	ﳅ	يفلح	will succeed	yuf'liḥu
+14	23:117:18	w	ٱلۡكَٰفِرُونَ	ﳆ	الكافرون	the disbelievers	l-kāfirūna
+14	23:117:19	e	١١٧	ﳇ			
+14	23:118:1	w	وَقُل	ﳈ	وقل	And say	waqul
+14	23:118:2	w	رَّبِّ	ﳉ	رب	My Lord	rabbi
+14	23:118:3	w	ٱغۡفِرۡ	ﳊ	اغفر	Forgive	igh'fir
+14	23:118:4	w	وَٱرۡحَمۡ	ﳋ	وارحم	and have mercy	wa-ir'ḥam
+14	23:118:5	w	وَأَنتَ	ﳌ	وانت	and You	wa-anta
+14	23:118:6	w	خَيۡرُ	ﳍ	خير	(are the) Best	khayru
+14	23:118:7	w	ٱلرَّٰحِمِينَ	ﳎ	الراحمين	(of) those who show mercy	l-rāḥimīna
+14	23:118:8	e	١١٨	ﳏ			

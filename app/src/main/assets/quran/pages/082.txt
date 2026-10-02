@@ -1,0 +1,117 @@
+1	4:24:1	w	۞ وَٱلۡمُحۡصَنَٰتُ	ﱁ ﱂ	۞ والمحصنات	And (prohibited are) the ones who are married	wal-muḥ'ṣanātu
+1	4:24:2	w	مِنَ	ﱃ	من	of	mina
+1	4:24:3	w	ٱلنِّسَآءِ	ﱄ	النساء	the women	l-nisāi
+1	4:24:4	w	إِلَّا	ﱅ	الا	except	illā
+1	4:24:5	w	مَا	ﱆ	ما	whom	mā
+1	4:24:6	w	مَلَكَتۡ	ﱇ	ملكت	you possess	malakat
+1	4:24:7	w	أَيۡمَٰنُكُمۡۖ	ﱈﱉ	ايمانكم	rightfully	aymānukum
+2	4:24:8	w	كِتَٰبَ	ﱊ	كتاب	Decree	kitāba
+2	4:24:9	w	ٱللَّهِ	ﱋ	الله	(of) Allah	l-lahi
+2	4:24:10	w	عَلَيۡكُمۡۚ	ﱌﱍ	عليكم	upon you	ʿalaykum
+2	4:24:11	w	وَأُحِلَّ	ﱎ	واحل	And are lawful	wa-uḥilla
+2	4:24:12	w	لَكُم	ﱏ	لكم	to you	lakum
+2	4:24:13	w	مَّا	ﱐ	ما	what	mā
+2	4:24:14	w	وَرَآءَ	ﱑ	وراء	(is) beyond	warāa
+2	4:24:15	w	ذَٰلِكُمۡ	ﱒ	ذالكم	that	dhālikum
+2	4:24:16	w	أَن	ﱓ	ان	that	an
+2	4:24:17	w	تَبۡتَغُواْ	ﱔ	تبتغوا	you seek	tabtaghū
+3	4:24:18	w	بِأَمۡوَٰلِكُم	ﱕ	باموالكم	with your wealth	bi-amwālikum
+3	4:24:19	w	مُّحۡصِنِينَ	ﱖ	محصنين	desiring to be chaste	muḥ'ṣinīna
+3	4:24:20	w	غَيۡرَ	ﱗ	غير	not	ghayra
+3	4:24:21	w	مُسَٰفِحِينَۚ	ﱘﱙ	مسافحين	(to be) lustful	musāfiḥīna
+3	4:24:22	w	فَمَا	ﱚ	فما	So what	famā
+3	4:24:23	w	ٱسۡتَمۡتَعۡتُم	ﱛ	استمتعتم	you benefit[ed]	is'tamtaʿtum
+3	4:24:24	w	بِهِۦ	ﱜ	به	of it	bihi
+4	4:24:25	w	مِنۡهُنَّ	ﱝ	منهن	from them	min'hunna
+4	4:24:26	w	فَـَٔاتُوهُنَّ	ﱞ	فاتوهن	so you give them	faātūhunna
+4	4:24:27	w	أُجُورَهُنَّ	ﱟ	اجورهن	their bridal due	ujūrahunna
+4	4:24:28	w	فَرِيضَةٗۚ	ﱠﱡ	فريضة	(as) an obligation	farīḍatan
+4	4:24:29	w	وَلَا	ﱢ	ولا	And (there is) no	walā
+4	4:24:30	w	جُنَاحَ	ﱣ	جناح	sin	junāḥa
+4	4:24:31	w	عَلَيۡكُمۡ	ﱤ	عليكم	on you	ʿalaykum
+4	4:24:32	w	فِيمَا	ﱥ	فيما	concerning what	fīmā
+5	4:24:33	w	تَرَٰضَيۡتُم	ﱦ	تراضيتم	you mutually agree	tarāḍaytum
+5	4:24:34	w	بِهِۦ	ﱧ	به	of it	bihi
+5	4:24:35	w	مِنۢ	ﱨ	من	from	min
+5	4:24:36	w	بَعۡدِ	ﱩ	بعد	beyond	baʿdi
+5	4:24:37	w	ٱلۡفَرِيضَةِۚ	ﱪﱫ	الفريضة	the obligation	l-farīḍati
+5	4:24:38	w	إِنَّ	ﱬ	ان	Indeed	inna
+5	4:24:39	w	ٱللَّهَ	ﱭ	الله	Allah	l-laha
+5	4:24:40	w	كَانَ	ﱮ	كان	is	kāna
+5	4:24:41	w	عَلِيمًا	ﱯ	عليما	All-Knowing	ʿalīman
+6	4:24:42	w	حَكِيمٗا	ﱰ	حكيما	All-Wise	ḥakīman
+6	4:24:43	e	٢٤	ﱱ			
+6	4:25:1	w	وَمَن	ﱲ	ومن	And whoever	waman
+6	4:25:2	w	لَّمۡ	ﱳ	لم	(is) not	lam
+6	4:25:3	w	يَسۡتَطِعۡ	ﱴ	يستطع	able to	yastaṭiʿ
+6	4:25:4	w	مِنكُمۡ	ﱵ	منكم	among you	minkum
+6	4:25:5	w	طَوۡلًا	ﱶ	طولا	afford	ṭawlan
+6	4:25:6	w	أَن	ﱷ	ان	to	an
+6	4:25:7	w	يَنكِحَ	ﱸ	ينكح	marry	yankiḥa
+7	4:25:8	w	ٱلۡمُحۡصَنَٰتِ	ﱹ	المحصنات	the free chaste	l-muḥ'ṣanāti
+7	4:25:9	w	ٱلۡمُؤۡمِنَٰتِ	ﱺ	المومنات	[the] believing women	l-mu'mināti
+7	4:25:10	w	فَمِن	ﱻ	فمن	then (marry) from	famin
+7	4:25:11	w	مَّا	ﱼ	ما	what	mā
+7	4:25:12	w	مَلَكَتۡ	ﱽ	ملكت	possess[ed]	malakat
+7	4:25:13	w	أَيۡمَٰنُكُم	ﱾ	ايمانكم	your right hands	aymānukum
+7	4:25:14	w	مِّن	ﱿ	من	of	min
+8	4:25:15	w	فَتَيَٰتِكُمُ	ﲀ	فتياتكم	your slave girls	fatayātikumu
+8	4:25:16	w	ٱلۡمُؤۡمِنَٰتِۚ	ﲁﲂ	المومنات	(of) the believers	l-mu'mināti
+8	4:25:17	w	وَٱللَّهُ	ﲃ	والله	And Allah	wal-lahu
+8	4:25:18	w	أَعۡلَمُ	ﲄ	اعلم	knows best	aʿlamu
+8	4:25:19	w	بِإِيمَٰنِكُمۚ	ﲅﲆ	بايمانكم	about your faith	biīmānikum
+8	4:25:20	w	بَعۡضُكُم	ﲇ	بعضكم	You	baʿḍukum
+9	4:25:21	w	مِّنۢ	ﲈ	من	(are) from	min
+9	4:25:22	w	بَعۡضٖۚ	ﲉﲊ	بعض	(one) another	baʿḍin
+9	4:25:23	w	فَٱنكِحُوهُنَّ	ﲋ	فانكحوهن	So marry them	fa-inkiḥūhunna
+9	4:25:24	w	بِإِذۡنِ	ﲌ	باذن	with (the) permission	bi-idh'ni
+9	4:25:25	w	أَهۡلِهِنَّ	ﲍ	اهلهن	(of) their family	ahlihinna
+9	4:25:26	w	وَءَاتُوهُنَّ	ﲎ	واتوهن	and give them	waātūhunna
+9	4:25:27	w	أُجُورَهُنَّ	ﲏ	اجورهن	their bridal due	ujūrahunna
+10	4:25:28	w	بِٱلۡمَعۡرُوفِ	ﲐ	بالمعروف	in a fair manner	bil-maʿrūfi
+10	4:25:29	w	مُحۡصَنَٰتٍ	ﲑ	محصنات	(They should be) chaste	muḥ'ṣanātin
+10	4:25:30	w	غَيۡرَ	ﲒ	غير	not	ghayra
+10	4:25:31	w	مُسَٰفِحَٰتٖ	ﲓ	مسافحات	those who commit immorality	musāfiḥātin
+10	4:25:32	w	وَلَا	ﲔ	ولا	and not	walā
+10	4:25:33	w	مُتَّخِذَٰتِ	ﲕ	متخذات	those who take	muttakhidhāti
+11	4:25:34	w	أَخۡدَانٖۚ	ﲖﲗ	اخدان	secret lovers	akhdānin
+11	4:25:35	w	فَإِذَآ	ﲘ	فاذا	Then when	fa-idhā
+11	4:25:36	w	أُحۡصِنَّ	ﲙ	احصن	they are married	uḥ'ṣinna
+11	4:25:37	w	فَإِنۡ	ﲚ	فان	and if	fa-in
+11	4:25:38	w	أَتَيۡنَ	ﲛ	اتين	they commit	atayna
+11	4:25:39	w	بِفَٰحِشَةٖ	ﲜ	بفاحشة	adultery	bifāḥishatin
+11	4:25:40	w	فَعَلَيۡهِنَّ	ﲝ	فعليهن	then for them	faʿalayhinna
+11	4:25:41	w	نِصۡفُ	ﲞ	نصف	(is) half	niṣ'fu
+12	4:25:42	w	مَا	ﲟ	ما	(of) what	mā
+12	4:25:43	w	عَلَى	ﲠ	على	(is) on	ʿalā
+12	4:25:44	w	ٱلۡمُحۡصَنَٰتِ	ﲡ	المحصنات	the free chaste women	l-muḥ'ṣanāti
+12	4:25:45	w	مِنَ	ﲢ	من	of	mina
+12	4:25:46	w	ٱلۡعَذَابِۚ	ﲣﲤ	العذاب	the punishment	l-ʿadhābi
+12	4:25:47	w	ذَٰلِكَ	ﲥ	ذالك	That	dhālika
+12	4:25:48	w	لِمَنۡ	ﲦ	لمن	(is) for whoever	liman
+12	4:25:49	w	خَشِيَ	ﲧ	خشي	fears	khashiya
+12	4:25:50	w	ٱلۡعَنَتَ	ﲨ	العنت	committing sin	l-ʿanata
+13	4:25:51	w	مِنكُمۡۚ	ﲩﲪ	منكم	among you	minkum
+13	4:25:52	w	وَأَن	ﲫ	وان	and that	wa-an
+13	4:25:53	w	تَصۡبِرُواْ	ﲬ	تصبروا	you be patient	taṣbirū
+13	4:25:54	w	خَيۡرٞ	ﲭ	خير	(is) better	khayrun
+13	4:25:55	w	لَّكُمۡۗ	ﲮﲯ	لكم	for you	lakum
+13	4:25:56	w	وَٱللَّهُ	ﲰ	والله	And Allah	wal-lahu
+13	4:25:57	w	غَفُورٞ	ﲱ	غفور	(is) Oft-Forgiving	ghafūrun
+13	4:25:58	w	رَّحِيمٞ	ﲲ	رحيم	Most Merciful	raḥīmun
+14	4:25:59	e	٢٥	ﲳ			
+14	4:26:1	w	يُرِيدُ	ﲴ	يريد	Wishes	yurīdu
+14	4:26:2	w	ٱللَّهُ	ﲵ	الله	Allah	l-lahu
+14	4:26:3	w	لِيُبَيِّنَ	ﲶ	ليبين	to make clear	liyubayyina
+14	4:26:4	w	لَكُمۡ	ﲷ	لكم	to you	lakum
+14	4:26:5	w	وَيَهۡدِيَكُمۡ	ﲸ	ويهديكم	and to guide you	wayahdiyakum
+14	4:26:6	w	سُنَنَ	ﲹ	سنن	(to) ways	sunana
+14	4:26:7	w	ٱلَّذِينَ	ﲺ	الذين	(of) those	alladhīna
+15	4:26:8	w	مِن	ﲻ	من	from	min
+15	4:26:9	w	قَبۡلِكُمۡ	ﲼ	قبلكم	before you	qablikum
+15	4:26:10	w	وَيَتُوبَ	ﲽ	ويتوب	and (to) accept repentance	wayatūba
+15	4:26:11	w	عَلَيۡكُمۡۗ	ﲾﲿ	عليكم	from you	ʿalaykum
+15	4:26:12	w	وَٱللَّهُ	ﳀ	والله	And Allah	wal-lahu
+15	4:26:13	w	عَلِيمٌ	ﳁ	عليم	(is) All-Knowing	ʿalīmun
+15	4:26:14	w	حَكِيمٞ	ﳂ	حكيم	All-Wise	ḥakīmun
+15	4:26:15	e	٢٦	ﳃ			

@@ -1,0 +1,127 @@
+1	7:131:1	w	فَإِذَا	ﱁ	فاذا	But when	fa-idhā
+1	7:131:2	w	جَآءَتۡهُمُ	ﱂ	جاءتهم	came to them	jāathumu
+1	7:131:3	w	ٱلۡحَسَنَةُ	ﱃ	الحسنة	the good	l-ḥasanatu
+1	7:131:4	w	قَالُواْ	ﱄ	قالوا	they said	qālū
+1	7:131:5	w	لَنَا	ﱅ	لنا	For us	lanā
+1	7:131:6	w	هَٰذِهِۦۖ	ﱆﱇ	هاذه	(is) this	hādhihi
+1	7:131:7	w	وَإِن	ﱈ	وان	And if	wa-in
+1	7:131:8	w	تُصِبۡهُمۡ	ﱉ	تصبهم	afflicts them	tuṣib'hum
+1	7:131:9	w	سَيِّئَةٞ	ﱊ	سيية	bad	sayyi-atun
+2	7:131:10	w	يَطَّيَّرُواْ	ﱋ	يطيروا	they ascribe evil omens	yaṭṭayyarū
+2	7:131:11	w	بِمُوسَىٰ	ﱌ	بموسى	to Musa	bimūsā
+2	7:131:12	w	وَمَن	ﱍ	ومن	and who	waman
+2	7:131:13	w	مَّعَهُۥٓۗ	ﱎﱏ	معه	(were) with him	maʿahu
+2	7:131:14	w	أَلَآ	ﱐ	الا	Behold	alā
+2	7:131:15	w	إِنَّمَا	ﱑ	انما	Only	innamā
+2	7:131:16	w	طَٰٓئِرُهُمۡ	ﱒ	طايرهم	their evil omens	ṭāiruhum
+2	7:131:17	w	عِندَ	ﱓ	عند	(are) with	ʿinda
+2	7:131:18	w	ٱللَّهِ	ﱔ	الله	Allah	l-lahi
+3	7:131:19	w	وَلَٰكِنَّ	ﱕ	ولاكن	but	walākinna
+3	7:131:20	w	أَكۡثَرَهُمۡ	ﱖ	اكثرهم	most of them	aktharahum
+3	7:131:21	w	لَا	ﱗ	لا	(do) not	lā
+3	7:131:22	w	يَعۡلَمُونَ	ﱘ	يعلمون	know	yaʿlamūna
+3	7:131:23	e	١٣١	ﱙ			
+3	7:132:1	w	وَقَالُواْ	ﱚ	وقالوا	And they said	waqālū
+3	7:132:2	w	مَهۡمَا	ﱛ	مهما	Whatever	mahmā
+3	7:132:3	w	تَأۡتِنَا	ﱜ	تاتنا	you bring us	tatinā
+3	7:132:4	w	بِهِۦ	ﱝ	به	therewith	bihi
+4	7:132:5	w	مِنۡ	ﱞ	من	of	min
+4	7:132:6	w	ءَايَةٖ	ﱟ	اية	(the) sign	āyatin
+4	7:132:7	w	لِّتَسۡحَرَنَا	ﱠ	لتسحرنا	so that you bewitch us	litasḥaranā
+4	7:132:8	w	بِهَا	ﱡ	بها	with it	bihā
+4	7:132:9	w	فَمَا	ﱢ	فما	then not	famā
+4	7:132:10	w	نَحۡنُ	ﱣ	نحن	we	naḥnu
+4	7:132:11	w	لَكَ	ﱤ	لك	(will be) in you	laka
+4	7:132:12	w	بِمُؤۡمِنِينَ	ﱥ	بمومنين	believers	bimu'minīna
+4	7:132:13	e	١٣٢	ﱦ			
+4	7:133:1	w	فَأَرۡسَلۡنَا	ﱧ	فارسلنا	So We sent	fa-arsalnā
+5	7:133:2	w	عَلَيۡهِمُ	ﱨ	عليهم	on them	ʿalayhimu
+5	7:133:3	w	ٱلطُّوفَانَ	ﱩ	الطوفان	the flood	l-ṭūfāna
+5	7:133:4	w	وَٱلۡجَرَادَ	ﱪ	والجراد	and the locusts	wal-jarāda
+5	7:133:5	w	وَٱلۡقُمَّلَ	ﱫ	والقمل	and the lice	wal-qumala
+5	7:133:6	w	وَٱلضَّفَادِعَ	ﱬ	والضفادع	and the frogs	wal-ḍafādiʿa
+5	7:133:7	w	وَٱلدَّمَ	ﱭ	والدم	and the blood	wal-dama
+6	7:133:8	w	ءَايَٰتٖ	ﱮ	ايات	(as) signs	āyātin
+6	7:133:9	w	مُّفَصَّلَٰتٖ	ﱯ	مفصلات	manifest	mufaṣṣalātin
+6	7:133:10	w	فَٱسۡتَكۡبَرُواْ	ﱰ	فاستكبروا	but they showed arrogance	fa-is'takbarū
+6	7:133:11	w	وَكَانُواْ	ﱱ	وكانوا	and they were	wakānū
+6	7:133:12	w	قَوۡمٗا	ﱲ	قوما	a people	qawman
+6	7:133:13	w	مُّجۡرِمِينَ	ﱳ	مجرمين	criminal	muj'rimīna
+7	7:133:14	e	١٣٣	ﱴ			
+7	7:134:1	w	وَلَمَّا	ﱵ	ولما	And when	walammā
+7	7:134:2	w	وَقَعَ	ﱶ	وقع	fell	waqaʿa
+7	7:134:3	w	عَلَيۡهِمُ	ﱷ	عليهم	on them	ʿalayhimu
+7	7:134:4	w	ٱلرِّجۡزُ	ﱸ	الرجز	the punishment	l-rij'zu
+7	7:134:5	w	قَالُواْ	ﱹ	قالوا	they said	qālū
+7	7:134:6	w	يَٰمُوسَى	ﱺ	يا موسى	O Musa	yāmūsā
+7	7:134:7	w	ٱدۡعُ	ﱻ	ادع	Invoke	ud'ʿu
+7	7:134:8	w	لَنَا	ﱼ	لنا	for us	lanā
+7	7:134:9	w	رَبَّكَ	ﱽ	ربك	your Lord	rabbaka
+7	7:134:10	w	بِمَا	ﱾ	بما	by what	bimā
+8	7:134:11	w	عَهِدَ	ﱿ	عهد	He has promised	ʿahida
+8	7:134:12	w	عِندَكَۖ	ﲀﲁ	عندك	to you	ʿindaka
+8	7:134:13	w	لَئِن	ﲂ	لين	If	la-in
+8	7:134:14	w	كَشَفۡتَ	ﲃ	كشفت	you remove	kashafta
+8	7:134:15	w	عَنَّا	ﲄ	عنا	from us	ʿannā
+8	7:134:16	w	ٱلرِّجۡزَ	ﲅ	الرجز	the punishment	l-rij'za
+8	7:134:17	w	لَنُؤۡمِنَنَّ	ﲆ	لنومنن	surely, we will believe	lanu'minanna
+8	7:134:18	w	لَكَ	ﲇ	لك	[for] you	laka
+9	7:134:19	w	وَلَنُرۡسِلَنَّ	ﲈ	ولنرسلن	and surely, we will send	walanur'silanna
+9	7:134:20	w	مَعَكَ	ﲉ	معك	with you	maʿaka
+9	7:134:21	w	بَنِيٓ	ﲊ	بني	(the) Children	banī
+9	7:134:22	w	إِسۡرَٰٓءِيلَ	ﲋ	اسراييل	(of) Israel	is'rāīla
+9	7:134:23	e	١٣٤	ﲌ			
+9	7:135:1	w	فَلَمَّا	ﲍ	فلما	But when	falammā
+9	7:135:2	w	كَشَفۡنَا	ﲎ	كشفنا	We removed	kashafnā
+9	7:135:3	w	عَنۡهُمُ	ﲏ	عنهم	from them	ʿanhumu
+10	7:135:4	w	ٱلرِّجۡزَ	ﲐ	الرجز	the punishment	l-rij'za
+10	7:135:5	w	إِلَىٰٓ	ﲑ	الى	till	ilā
+10	7:135:6	w	أَجَلٍ	ﲒ	اجل	a (fixed) term	ajalin
+10	7:135:7	w	هُم	ﲓ	هم	(which) they	hum
+10	7:135:8	w	بَٰلِغُوهُ	ﲔ	بالغوه	were to reach [it]	bālighūhu
+10	7:135:9	w	إِذَا	ﲕ	اذا	then	idhā
+10	7:135:10	w	هُمۡ	ﲖ	هم	they	hum
+10	7:135:11	w	يَنكُثُونَ	ﲗ	ينكثون	broke (the word)	yankuthūna
+10	7:135:12	e	١٣٥	ﲘ			
+10	7:136:1	w	فَٱنتَقَمۡنَا	ﲙ	فانتقمنا	So We took retribution	fa-intaqamnā
+11	7:136:2	w	مِنۡهُمۡ	ﲚ	منهم	from them	min'hum
+11	7:136:3	w	فَأَغۡرَقۡنَٰهُمۡ	ﲛ	فاغرقناهم	and We drowned them	fa-aghraqnāhum
+11	7:136:4	w	فِي	ﲜ	في	in	fī
+11	7:136:5	w	ٱلۡيَمِّ	ﲝ	اليم	the sea	l-yami
+11	7:136:6	w	بِأَنَّهُمۡ	ﲞ	بانهم	because they	bi-annahum
+11	7:136:7	w	كَذَّبُواْ	ﲟ	كذبوا	denied	kadhabū
+11	7:136:8	w	بِـَٔايَٰتِنَا	ﲠ	باياتنا	Our Signs	biāyātinā
+11	7:136:9	w	وَكَانُواْ	ﲡ	وكانوا	and they were	wakānū
+11	7:136:10	w	عَنۡهَا	ﲢ	عنها	to them	ʿanhā
+12	7:136:11	w	غَٰفِلِينَ	ﲣ	غافلين	heedless	ghāfilīna
+12	7:136:12	e	١٣٦	ﲤ			
+12	7:137:1	w	وَأَوۡرَثۡنَا	ﲥ	واورثنا	And We made inheritors	wa-awrathnā
+12	7:137:2	w	ٱلۡقَوۡمَ	ﲦ	القوم	the people	l-qawma
+12	7:137:3	w	ٱلَّذِينَ	ﲧ	الذين	those who	alladhīna
+12	7:137:4	w	كَانُواْ	ﲨ	كانوا	were	kānū
+12	7:137:5	w	يُسۡتَضۡعَفُونَ	ﲩ	يستضعفون	considered weak	yus'taḍʿafūna
+13	7:137:6	w	مَشَٰرِقَ	ﲪ	مشارق	(the) eastern (parts)	mashāriqa
+13	7:137:7	w	ٱلۡأَرۡضِ	ﲫ	الارض	(of) the land	l-arḍi
+13	7:137:8	w	وَمَغَٰرِبَهَا	ﲬ	ومغاربها	and the western (parts) of it	wamaghāribahā
+13	7:137:9	w	ٱلَّتِي	ﲭ	التي	which	allatī
+13	7:137:10	w	بَٰرَكۡنَا	ﲮ	باركنا	We blessed	bāraknā
+13	7:137:11	w	فِيهَاۖ	ﲯﲰ	فيها	[in it]	fīhā
+13	7:137:12	w	وَتَمَّتۡ	ﲱ	وتمت	And was fulfilled	watammat
+13	7:137:13	w	كَلِمَتُ	ﲲ	كلمت	(the) word	kalimatu
+14	7:137:14	w	رَبِّكَ	ﲳ	ربك	(of) your Lord	rabbika
+14	7:137:15	w	ٱلۡحُسۡنَىٰ	ﲴ	الحسنى	the best	l-ḥus'nā
+14	7:137:16	w	عَلَىٰ	ﲵ	على	for	ʿalā
+14	7:137:17	w	بَنِيٓ	ﲶ	بني	(the) Children	banī
+14	7:137:18	w	إِسۡرَٰٓءِيلَ	ﲷ	اسراييل	(of) Israel	is'rāīla
+14	7:137:19	w	بِمَا	ﲸ	بما	because	bimā
+14	7:137:20	w	صَبَرُواْۖ	ﲹﲺ	صبروا	they were patient	ṣabarū
+14	7:137:21	w	وَدَمَّرۡنَا	ﲻ	ودمرنا	And We destroyed	wadammarnā
+15	7:137:22	w	مَا	ﲼ	ما	what	mā
+15	7:137:23	w	كَانَ	ﲽ	كان	used to	kāna
+15	7:137:24	w	يَصۡنَعُ	ﲾ	يصنع	make	yaṣnaʿu
+15	7:137:25	w	فِرۡعَوۡنُ	ﲿ	فرعون	Firaun	fir'ʿawnu
+15	7:137:26	w	وَقَوۡمُهُۥ	ﳀ	وقومه	and his people	waqawmuhu
+15	7:137:27	w	وَمَا	ﳁ	وما	and what	wamā
+15	7:137:28	w	كَانُواْ	ﳂ	كانوا	they used to	kānū
+15	7:137:29	w	يَعۡرِشُونَ	ﳃ	يعرشون	erect	yaʿrishūna
+15	7:137:30	e	١٣٧	ﳄ			

@@ -1,0 +1,128 @@
+1	16:88:1	w	ٱلَّذِينَ	ﱁ	الذين	And those who	alladhīna
+1	16:88:2	w	كَفَرُواْ	ﱂ	كفروا	disbelieved	kafarū
+1	16:88:3	w	وَصَدُّواْ	ﱃ	وصدوا	and hindered	waṣaddū
+1	16:88:4	w	عَن	ﱄ	عن	from	ʿan
+1	16:88:5	w	سَبِيلِ	ﱅ	سبيل	(the) way	sabīli
+1	16:88:6	w	ٱللَّهِ	ﱆ	الله	(of) Allah	l-lahi
+1	16:88:7	w	زِدۡنَٰهُمۡ	ﱇ	زدناهم	We will increase them	zid'nāhum
+1	16:88:8	w	عَذَابٗا	ﱈ	عذابا	(in) punishment	ʿadhāban
+2	16:88:9	w	فَوۡقَ	ﱉ	فوق	over	fawqa
+2	16:88:10	w	ٱلۡعَذَابِ	ﱊ	العذاب	punishment	l-ʿadhābi
+2	16:88:11	w	بِمَا	ﱋ	بما	because	bimā
+2	16:88:12	w	كَانُواْ	ﱌ	كانوا	they used (to)	kānū
+2	16:88:13	w	يُفۡسِدُونَ	ﱍ	يفسدون	spread corruption	yuf'sidūna
+2	16:88:14	e	٨٨	ﱎ			
+2	16:89:1	w	وَيَوۡمَ	ﱏ	ويوم	And the Day	wayawma
+2	16:89:2	w	نَبۡعَثُ	ﱐ	نبعث	We will resurrect	nabʿathu
+2	16:89:3	w	فِي	ﱑ	في	among	fī
+3	16:89:4	w	كُلِّ	ﱒ	كل	every	kulli
+3	16:89:5	w	أُمَّةٖ	ﱓ	امة	nation	ummatin
+3	16:89:6	w	شَهِيدًا	ﱔ	شهيدا	a witness	shahīdan
+3	16:89:7	w	عَلَيۡهِم	ﱕ	عليهم	over them	ʿalayhim
+3	16:89:8	w	مِّنۡ	ﱖ	من	from	min
+3	16:89:9	w	أَنفُسِهِمۡۖ	ﱗﱘ	انفسهم	themselves	anfusihim
+3	16:89:10	w	وَجِئۡنَا	ﱙ	وجينا	And We (will) bring	waji'nā
+3	16:89:11	w	بِكَ	ﱚ	بك	you	bika
+4	16:89:12	w	شَهِيدًا	ﱛ	شهيدا	(as) a witness	shahīdan
+4	16:89:13	w	عَلَىٰ	ﱜ	على	over	ʿalā
+4	16:89:14	w	هَٰٓؤُلَآءِۚ	ﱝﱞ	هاولاء	these	hāulāi
+4	16:89:15	w	وَنَزَّلۡنَا	ﱟ	ونزلنا	And We sent down	wanazzalnā
+4	16:89:16	w	عَلَيۡكَ	ﱠ	عليك	to you	ʿalayka
+4	16:89:17	w	ٱلۡكِتَٰبَ	ﱡ	الكتاب	the Book	l-kitāba
+4	16:89:18	w	تِبۡيَٰنٗا	ﱢ	تبيانا	(as) a clarification	tib'yānan
+4	16:89:19	w	لِّكُلِّ	ﱣ	لكل	of every	likulli
+5	16:89:20	w	شَيۡءٖ	ﱤ	شيء	thing	shayin
+5	16:89:21	w	وَهُدٗى	ﱥ	وهدى	and a guidance	wahudan
+5	16:89:22	w	وَرَحۡمَةٗ	ﱦ	ورحمة	and mercy	waraḥmatan
+5	16:89:23	w	وَبُشۡرَىٰ	ﱧ	وبشرى	and glad tidings	wabush'rā
+5	16:89:24	w	لِلۡمُسۡلِمِينَ	ﱨ	للمسلمين	for the Muslims	lil'mus'limīna
+5	16:89:25	e	٨٩	ﱩ			
+5	16:90:1	w	۞ إِنَّ	ﱪ ﱫ	۞ ان	Indeed	inna
+5	16:90:2	w	ٱللَّهَ	ﱬ	الله	Allah	l-laha
+6	16:90:3	w	يَأۡمُرُ	ﱭ	يامر	commands	yamuru
+6	16:90:4	w	بِٱلۡعَدۡلِ	ﱮ	بالعدل	justice	bil-ʿadli
+6	16:90:5	w	وَٱلۡإِحۡسَٰنِ	ﱯ	والاحسان	and the good	wal-iḥ'sāni
+6	16:90:6	w	وَإِيتَآيِٕ	ﱰ	وايتاء	and giving	waītāi
+6	16:90:7	w	ذِي	ﱱ	ذي	(to) relatives	dhī
+6	16:90:8	w	ٱلۡقُرۡبَىٰ	ﱲ	القربى	(to) relatives	l-qur'bā
+6	16:90:9	w	وَيَنۡهَىٰ	ﱳ	وينهى	and forbids	wayanhā
+6	16:90:10	w	عَنِ	ﱴ	عن	[from]	ʿani
+7	16:90:11	w	ٱلۡفَحۡشَآءِ	ﱵ	الفحشاء	the immorality	l-faḥshāi
+7	16:90:12	w	وَٱلۡمُنكَرِ	ﱶ	والمنكر	and the bad	wal-munkari
+7	16:90:13	w	وَٱلۡبَغۡيِۚ	ﱷﱸ	والبغي	and the oppression	wal-baghyi
+7	16:90:14	w	يَعِظُكُمۡ	ﱹ	يعظكم	He admonishes you	yaʿiẓukum
+7	16:90:15	w	لَعَلَّكُمۡ	ﱺ	لعلكم	so that you may	laʿallakum
+7	16:90:16	w	تَذَكَّرُونَ	ﱻ	تذكرون	take heed	tadhakkarūna
+8	16:90:17	e	٩٠	ﱼ			
+8	16:91:1	w	وَأَوۡفُواْ	ﱽ	واوفوا	And fulfil	wa-awfū
+8	16:91:2	w	بِعَهۡدِ	ﱾ	بعهد	the covenant	biʿahdi
+8	16:91:3	w	ٱللَّهِ	ﱿ	الله	(of) Allah	l-lahi
+8	16:91:4	w	إِذَا	ﲀ	اذا	when	idhā
+8	16:91:5	w	عَٰهَدتُّمۡ	ﲁ	عاهدتم	you have taken a covenant	ʿāhadttum
+8	16:91:6	w	وَلَا	ﲂ	ولا	and (do) not	walā
+8	16:91:7	w	تَنقُضُواْ	ﲃ	تنقضوا	break	tanquḍū
+8	16:91:8	w	ٱلۡأَيۡمَٰنَ	ﲄ	الايمان	oaths	l-aymāna
+9	16:91:9	w	بَعۡدَ	ﲅ	بعد	after	baʿda
+9	16:91:10	w	تَوۡكِيدِهَا	ﲆ	توكيدها	their confirmation	tawkīdihā
+9	16:91:11	w	وَقَدۡ	ﲇ	وقد	while verily	waqad
+9	16:91:12	w	جَعَلۡتُمُ	ﲈ	جعلتم	you have made	jaʿaltumu
+9	16:91:13	w	ٱللَّهَ	ﲉ	الله	Allah	l-laha
+9	16:91:14	w	عَلَيۡكُمۡ	ﲊ	عليكم	over you	ʿalaykum
+9	16:91:15	w	كَفِيلًاۚ	ﲋﲌ	كفيلا	a surety	kafīlan
+9	16:91:16	w	إِنَّ	ﲍ	ان	Indeed	inna
+10	16:91:17	w	ٱللَّهَ	ﲎ	الله	Allah	l-laha
+10	16:91:18	w	يَعۡلَمُ	ﲏ	يعلم	knows	yaʿlamu
+10	16:91:19	w	مَا	ﲐ	ما	what	mā
+10	16:91:20	w	تَفۡعَلُونَ	ﲑ	تفعلون	you do	tafʿalūna
+10	16:91:21	e	٩١	ﲒ			
+10	16:92:1	w	وَلَا	ﲓ	ولا	And (do) not	walā
+10	16:92:2	w	تَكُونُواْ	ﲔ	تكونوا	be	takūnū
+10	16:92:3	w	كَٱلَّتِي	ﲕ	كالتي	like her who	ka-allatī
+10	16:92:4	w	نَقَضَتۡ	ﲖ	نقضت	untwists	naqaḍat
+11	16:92:5	w	غَزۡلَهَا	ﲗ	غزلها	her spun yarn	ghazlahā
+11	16:92:6	w	مِنۢ	ﲘ	من	after	min
+11	16:92:7	w	بَعۡدِ	ﲙ	بعد	after	baʿdi
+11	16:92:8	w	قُوَّةٍ	ﲚ	قوة	strength	quwwatin
+11	16:92:9	w	أَنكَٰثٗا	ﲛ	انكاثا	(into) untwisted strands	ankāthan
+11	16:92:10	w	تَتَّخِذُونَ	ﲜ	تتخذون	you take	tattakhidhūna
+11	16:92:11	w	أَيۡمَٰنَكُمۡ	ﲝ	ايمانكم	your oaths	aymānakum
+11	16:92:12	w	دَخَلَۢا	ﲞ	دخلا	(as) a deception	dakhalan
+12	16:92:13	w	بَيۡنَكُمۡ	ﲟ	بينكم	between you	baynakum
+12	16:92:14	w	أَن	ﲠ	ان	because	an
+12	16:92:15	w	تَكُونَ	ﲡ	تكون	is	takūna
+12	16:92:16	w	أُمَّةٌ	ﲢ	امة	a community	ummatun
+12	16:92:17	w	هِيَ	ﲣ	هي	[it]	hiya
+12	16:92:18	w	أَرۡبَىٰ	ﲤ	اربى	more numerous	arbā
+12	16:92:19	w	مِنۡ	ﲥ	من	than	min
+12	16:92:20	w	أُمَّةٍۚ	ﲦﲧ	امة	(another) community	ummatin
+12	16:92:21	w	إِنَّمَا	ﲨ	انما	Only	innamā
+12	16:92:22	w	يَبۡلُوكُمُ	ﲩ	يبلوكم	Allah tests you	yablūkumu
+12	16:92:23	w	ٱللَّهُ	ﲪ	الله	Allah tests you	l-lahu
+13	16:92:24	w	بِهِۦۚ	ﲫﲬ	به	by it	bihi
+13	16:92:25	w	وَلَيُبَيِّنَنَّ	ﲭ	وليبينن	And He will make clear	walayubayyinanna
+13	16:92:26	w	لَكُمۡ	ﲮ	لكم	to you	lakum
+13	16:92:27	w	يَوۡمَ	ﲯ	يوم	(on) the Day	yawma
+13	16:92:28	w	ٱلۡقِيَٰمَةِ	ﲰ	القيامة	(of) the Resurrection	l-qiyāmati
+13	16:92:29	w	مَا	ﲱ	ما	what	mā
+13	16:92:30	w	كُنتُمۡ	ﲲ	كنتم	you used (to)	kuntum
+13	16:92:31	w	فِيهِ	ﲳ	فيه	in it	fīhi
+13	16:92:32	w	تَخۡتَلِفُونَ	ﲴ	تختلفون	differ	takhtalifūna
+14	16:92:33	e	٩٢	ﲵ			
+14	16:93:1	w	وَلَوۡ	ﲶ	ولو	And if	walaw
+14	16:93:2	w	شَآءَ	ﲷ	شاء	Allah (had) willed	shāa
+14	16:93:3	w	ٱللَّهُ	ﲸ	الله	Allah (had) willed	l-lahu
+14	16:93:4	w	لَجَعَلَكُمۡ	ﲹ	لجعلكم	surely He (could) have made you	lajaʿalakum
+14	16:93:5	w	أُمَّةٗ	ﲺ	امة	a nation	ummatan
+14	16:93:6	w	وَٰحِدَةٗ	ﲻ	واحدة	one	wāḥidatan
+14	16:93:7	w	وَلَٰكِن	ﲼ	ولاكن	but	walākin
+14	16:93:8	w	يُضِلُّ	ﲽ	يضل	He lets go astray	yuḍillu
+14	16:93:9	w	مَن	ﲾ	من	whom	man
+15	16:93:10	w	يَشَآءُ	ﲿ	يشاء	He wills	yashāu
+15	16:93:11	w	وَيَهۡدِي	ﳀ	ويهدي	and guides	wayahdī
+15	16:93:12	w	مَن	ﳁ	من	whom	man
+15	16:93:13	w	يَشَآءُۚ	ﳂﳃ	يشاء	He wills	yashāu
+15	16:93:14	w	وَلَتُسۡـَٔلُنَّ	ﳄ	ولتسالن	And surely you will be questioned	walatus'alunna
+15	16:93:15	w	عَمَّا	ﳅ	عما	about what	ʿammā
+15	16:93:16	w	كُنتُمۡ	ﳆ	كنتم	you used (to)	kuntum
+15	16:93:17	w	تَعۡمَلُونَ	ﳇ	تعملون	do	taʿmalūna
+15	16:93:18	e	٩٣	ﳈ			

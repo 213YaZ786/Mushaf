@@ -1,0 +1,125 @@
+3	41:1:1	w	حمٓ	ﱁ	حم	Ha Meem	hha-meem
+3	41:1:2	e	١	ﱂ			
+3	41:2:1	w	تَنزِيلٞ	ﱃ	تنزيل	A revelation	tanzīlun
+3	41:2:2	w	مِّنَ	ﱄ	من	from	mina
+3	41:2:3	w	ٱلرَّحۡمَٰنِ	ﱅ	الرحمان	the Most Gracious	l-raḥmāni
+3	41:2:4	w	ٱلرَّحِيمِ	ﱆ	الرحيم	the Most Merciful	l-raḥīmi
+3	41:2:5	e	٢	ﱇ			
+3	41:3:1	w	كِتَٰبٞ	ﱈ	كتاب	A Book	kitābun
+3	41:3:2	w	فُصِّلَتۡ	ﱉ	فصلت	are detailed	fuṣṣilat
+3	41:3:3	w	ءَايَٰتُهُۥ	ﱊ	اياته	its Verses	āyātuhu
+4	41:3:4	w	قُرۡءَانًا	ﱋ	قرانا	a Quran	qur'ānan
+4	41:3:5	w	عَرَبِيّٗا	ﱌ	عربيا	(in) Arabic	ʿarabiyyan
+4	41:3:6	w	لِّقَوۡمٖ	ﱍ	لقوم	for a people	liqawmin
+4	41:3:7	w	يَعۡلَمُونَ	ﱎ	يعلمون	(who) know	yaʿlamūna
+4	41:3:8	e	٣	ﱏ			
+4	41:4:1	w	بَشِيرٗا	ﱐ	بشيرا	A giver of glad tidings	bashīran
+4	41:4:2	w	وَنَذِيرٗا	ﱑ	ونذيرا	and a warner	wanadhīran
+4	41:4:3	w	فَأَعۡرَضَ	ﱒ	فاعرض	but turn away	fa-aʿraḍa
+4	41:4:4	w	أَكۡثَرُهُمۡ	ﱓ	اكثرهم	most of them	aktharuhum
+5	41:4:5	w	فَهُمۡ	ﱔ	فهم	so they	fahum
+5	41:4:6	w	لَا	ﱕ	لا	(do) not	lā
+5	41:4:7	w	يَسۡمَعُونَ	ﱖ	يسمعون	hear	yasmaʿūna
+5	41:4:8	e	٤	ﱗ			
+5	41:5:1	w	وَقَالُواْ	ﱘ	وقالوا	And they say	waqālū
+5	41:5:2	w	قُلُوبُنَا	ﱙ	قلوبنا	Our hearts	qulūbunā
+5	41:5:3	w	فِيٓ	ﱚ	في	(are) in	fī
+5	41:5:4	w	أَكِنَّةٖ	ﱛ	اكنة	coverings	akinnatin
+5	41:5:5	w	مِّمَّا	ﱜ	مما	from what	mimmā
+5	41:5:6	w	تَدۡعُونَآ	ﱝ	تدعونا	you call us	tadʿūnā
+5	41:5:7	w	إِلَيۡهِ	ﱞ	اليه	to it	ilayhi
+6	41:5:8	w	وَفِيٓ	ﱟ	وفي	and in	wafī
+6	41:5:9	w	ءَاذَانِنَا	ﱠ	اذاننا	our ears	ādhāninā
+6	41:5:10	w	وَقۡرٞ	ﱡ	وقر	(is) deafness	waqrun
+6	41:5:11	w	وَمِنۢ	ﱢ	ومن	and between us	wamin
+6	41:5:12	w	بَيۡنِنَا	ﱣ	بيننا	and between us	bayninā
+6	41:5:13	w	وَبَيۡنِكَ	ﱤ	وبينك	and between you	wabaynika
+6	41:5:14	w	حِجَابٞ	ﱥ	حجاب	(is) a screen	ḥijābun
+6	41:5:15	w	فَٱعۡمَلۡ	ﱦ	فاعمل	So work	fa-iʿ'mal
+6	41:5:16	w	إِنَّنَا	ﱧ	اننا	indeed, we	innanā
+6	41:5:17	w	عَٰمِلُونَ	ﱨ	عاملون	(are) working	ʿāmilūna
+7	41:5:18	e	٥	ﱩ			
+7	41:6:1	w	قُلۡ	ﱪ	قل	Say	qul
+7	41:6:2	w	إِنَّمَآ	ﱫ	انما	Only	innamā
+7	41:6:3	w	أَنَا۠	ﱬ	انا	I am	anā
+7	41:6:4	w	بَشَرٞ	ﱭ	بشر	a man	basharun
+7	41:6:5	w	مِّثۡلُكُمۡ	ﱮ	مثلكم	like you	mith'lukum
+7	41:6:6	w	يُوحَىٰٓ	ﱯ	يوحى	it is revealed	yūḥā
+7	41:6:7	w	إِلَيَّ	ﱰ	الي	to me	ilayya
+7	41:6:8	w	أَنَّمَآ	ﱱ	انما	that	annamā
+7	41:6:9	w	إِلَٰهُكُمۡ	ﱲ	الاهكم	your god	ilāhukum
+7	41:6:10	w	إِلَٰهٞ	ﱳ	الاه	(is) God	ilāhun
+7	41:6:11	w	وَٰحِدٞ	ﱴ	واحد	One	wāḥidun
+8	41:6:12	w	فَٱسۡتَقِيمُوٓاْ	ﱵ	فاستقيموا	so take a Straight Path	fa-is'taqīmū
+8	41:6:13	w	إِلَيۡهِ	ﱶ	اليه	to Him	ilayhi
+8	41:6:14	w	وَٱسۡتَغۡفِرُوهُۗ	ﱷﱸ	واستغفروه	and ask His forgiveness	wa-is'taghfirūhu
+8	41:6:15	w	وَوَيۡلٞ	ﱹ	وويل	And woe	wawaylun
+8	41:6:16	w	لِّلۡمُشۡرِكِينَ	ﱺ	للمشركين	to the polytheists	lil'mush'rikīna
+8	41:6:17	e	٦	ﱻ			
+8	41:7:1	w	ٱلَّذِينَ	ﱼ	الذين	Those who	alladhīna
+9	41:7:2	w	لَا	ﱽ	لا	(do) not	lā
+9	41:7:3	w	يُؤۡتُونَ	ﱾ	يوتون	give	yu'tūna
+9	41:7:4	w	ٱلزَّكَوٰةَ	ﱿ	الزكاة	the zakah	l-zakata
+9	41:7:5	w	وَهُم	ﲀ	وهم	and they	wahum
+9	41:7:6	w	بِٱلۡأٓخِرَةِ	ﲁ	بالاخرة	in the Hereafter	bil-ākhirati
+9	41:7:7	w	هُمۡ	ﲂ	هم	they	hum
+9	41:7:8	w	كَٰفِرُونَ	ﲃ	كافرون	(are) disbelievers	kāfirūna
+9	41:7:9	e	٧	ﲄ			
+9	41:8:1	w	إِنَّ	ﲅ	ان	Indeed	inna
+9	41:8:2	w	ٱلَّذِينَ	ﲆ	الذين	those who	alladhīna
+10	41:8:3	w	ءَامَنُواْ	ﲇ	امنوا	believe	āmanū
+10	41:8:4	w	وَعَمِلُواْ	ﲈ	وعملوا	and do	waʿamilū
+10	41:8:5	w	ٱلصَّٰلِحَٰتِ	ﲉ	الصالحات	righteous deeds	l-ṣāliḥāti
+10	41:8:6	w	لَهُمۡ	ﲊ	لهم	for them	lahum
+10	41:8:7	w	أَجۡرٌ	ﲋ	اجر	(is) a reward	ajrun
+10	41:8:8	w	غَيۡرُ	ﲌ	غير	never ending	ghayru
+10	41:8:9	w	مَمۡنُونٖ	ﲍ	ممنون	never ending	mamnūnin
+10	41:8:10	e	٨	ﲎ			
+10	41:9:1	w	۞ قُلۡ	ﲏ ﲐ	۞ قل	Say	qul
+10	41:9:2	w	أَئِنَّكُمۡ	ﲑ	اينكم	Do you indeed	a-innakum
+11	41:9:3	w	لَتَكۡفُرُونَ	ﲒ	لتكفرون	[surely] disbelieve	latakfurūna
+11	41:9:4	w	بِٱلَّذِي	ﲓ	بالذي	in the One Who	bi-alladhī
+11	41:9:5	w	خَلَقَ	ﲔ	خلق	created	khalaqa
+11	41:9:6	w	ٱلۡأَرۡضَ	ﲕ	الارض	the earth	l-arḍa
+11	41:9:7	w	فِي	ﲖ	في	in	fī
+11	41:9:8	w	يَوۡمَيۡنِ	ﲗ	يومين	two periods	yawmayni
+11	41:9:9	w	وَتَجۡعَلُونَ	ﲘ	وتجعلون	and you set up	watajʿalūna
+11	41:9:10	w	لَهُۥٓ	ﲙ	له	with Him	lahu
+11	41:9:11	w	أَندَادٗاۚ	ﲚﲛ	اندادا	rivals	andādan
+12	41:9:12	w	ذَٰلِكَ	ﲜ	ذالك	That	dhālika
+12	41:9:13	w	رَبُّ	ﲝ	رب	(is the) Lord	rabbu
+12	41:9:14	w	ٱلۡعَٰلَمِينَ	ﲞ	العالمين	(of) the worlds	l-ʿālamīna
+12	41:9:15	e	٩	ﲟ			
+12	41:10:1	w	وَجَعَلَ	ﲠ	وجعل	And He placed	wajaʿala
+12	41:10:2	w	فِيهَا	ﲡ	فيها	therein	fīhā
+12	41:10:3	w	رَوَٰسِيَ	ﲢ	رواسي	firmly-set mountains	rawāsiya
+12	41:10:4	w	مِن	ﲣ	من	above it	min
+12	41:10:5	w	فَوۡقِهَا	ﲤ	فوقها	above it	fawqihā
+13	41:10:6	w	وَبَٰرَكَ	ﲥ	وبارك	and He blessed	wabāraka
+13	41:10:7	w	فِيهَا	ﲦ	فيها	therein	fīhā
+13	41:10:8	w	وَقَدَّرَ	ﲧ	وقدر	and determined	waqaddara
+13	41:10:9	w	فِيهَآ	ﲨ	فيها	therein	fīhā
+13	41:10:10	w	أَقۡوَٰتَهَا	ﲩ	اقواتها	its sustenance	aqwātahā
+13	41:10:11	w	فِيٓ	ﲪ	في	in	fī
+13	41:10:12	w	أَرۡبَعَةِ	ﲫ	اربعة	four	arbaʿati
+13	41:10:13	w	أَيَّامٖ	ﲬ	ايام	periods	ayyāmin
+13	41:10:14	w	سَوَآءٗ	ﲭ	سواء	equal	sawāan
+14	41:10:15	w	لِّلسَّآئِلِينَ	ﲮ	للسايلين	for those who ask	lilssāilīna
+14	41:10:16	e	١٠	ﲯ			
+14	41:11:1	w	ثُمَّ	ﲰ	ثم	Then	thumma
+14	41:11:2	w	ٱسۡتَوَىٰٓ	ﲱ	استوى	He directed (Himself)	is'tawā
+14	41:11:3	w	إِلَى	ﲲ	الى	towards	ilā
+14	41:11:4	w	ٱلسَّمَآءِ	ﲳ	السماء	the heaven	l-samāi
+14	41:11:5	w	وَهِيَ	ﲴ	وهي	while it (was)	wahiya
+14	41:11:6	w	دُخَانٞ	ﲵ	دخان	smoke	dukhānun
+14	41:11:7	w	فَقَالَ	ﲶ	فقال	and He said	faqāla
+15	41:11:8	w	لَهَا	ﲷ	لها	to it	lahā
+15	41:11:9	w	وَلِلۡأَرۡضِ	ﲸ	وللارض	and to the earth	walil'arḍi
+15	41:11:10	w	ٱئۡتِيَا	ﲹ	ايتيا	Come both of you	i'tiyā
+15	41:11:11	w	طَوۡعًا	ﲺ	طوعا	willingly	ṭawʿan
+15	41:11:12	w	أَوۡ	ﲻ	او	or	aw
+15	41:11:13	w	كَرۡهٗا	ﲼ	كرها	unwillingly	karhan
+15	41:11:14	w	قَالَتَآ	ﲽ	قالتا	They both said	qālatā
+15	41:11:15	w	أَتَيۡنَا	ﲾ	اتينا	We come	ataynā
+15	41:11:16	w	طَآئِعِينَ	ﲿ	طايعين	willingly	ṭāiʿīna
+15	41:11:17	e	١١	ﳀ			

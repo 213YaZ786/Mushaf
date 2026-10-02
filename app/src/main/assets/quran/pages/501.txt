@@ -1,0 +1,171 @@
+1	45:23:1	w	أَفَرَءَيۡتَ	ﱁ	افرايت	Have you seen	afara-ayta
+1	45:23:2	w	مَنِ	ﱂ	من	(he) who	mani
+1	45:23:3	w	ٱتَّخَذَ	ﱃ	اتخذ	takes	ittakhadha
+1	45:23:4	w	إِلَٰهَهُۥ	ﱄ	الاهه	(as) his god	ilāhahu
+1	45:23:5	w	هَوَىٰهُ	ﱅ	هواه	his desire	hawāhu
+1	45:23:6	w	وَأَضَلَّهُ	ﱆ	واضله	and Allah lets him go astray	wa-aḍallahu
+1	45:23:7	w	ٱللَّهُ	ﱇ	الله	and Allah lets him go astray	l-lahu
+1	45:23:8	w	عَلَىٰ	ﱈ	على	knowingly	ʿalā
+1	45:23:9	w	عِلۡمٖ	ﱉ	علم	knowingly	ʿil'min
+1	45:23:10	w	وَخَتَمَ	ﱊ	وختم	and He sets a seal	wakhatama
+1	45:23:11	w	عَلَىٰ	ﱋ	على	upon	ʿalā
+1	45:23:12	w	سَمۡعِهِۦ	ﱌ	سمعه	his hearing	samʿihi
+2	45:23:13	w	وَقَلۡبِهِۦ	ﱍ	وقلبه	and his heart	waqalbihi
+2	45:23:14	w	وَجَعَلَ	ﱎ	وجعل	and puts	wajaʿala
+2	45:23:15	w	عَلَىٰ	ﱏ	على	over	ʿalā
+2	45:23:16	w	بَصَرِهِۦ	ﱐ	بصره	his vision	baṣarihi
+2	45:23:17	w	غِشَٰوَةٗ	ﱑ	غشاوة	a veil	ghishāwatan
+2	45:23:18	w	فَمَن	ﱒ	فمن	Then who	faman
+2	45:23:19	w	يَهۡدِيهِ	ﱓ	يهديه	will guide him	yahdīhi
+2	45:23:20	w	مِنۢ	ﱔ	من	after	min
+2	45:23:21	w	بَعۡدِ	ﱕ	بعد	after	baʿdi
+2	45:23:22	w	ٱللَّهِۚ	ﱖﱗ	الله	Allah	l-lahi
+2	45:23:23	w	أَفَلَا	ﱘ	افلا	Then will not	afalā
+3	45:23:24	w	تَذَكَّرُونَ	ﱙ	تذكرون	you receive admonition	tadhakkarūna
+3	45:23:25	e	٢٣	ﱚ			
+3	45:24:1	w	وَقَالُواْ	ﱛ	وقالوا	And they say	waqālū
+3	45:24:2	w	مَا	ﱜ	ما	Not	mā
+3	45:24:3	w	هِيَ	ﱝ	هي	it	hiya
+3	45:24:4	w	إِلَّا	ﱞ	الا	(is) but	illā
+3	45:24:5	w	حَيَاتُنَا	ﱟ	حياتنا	our life	ḥayātunā
+3	45:24:6	w	ٱلدُّنۡيَا	ﱠ	الدنيا	(of) the world	l-dun'yā
+3	45:24:7	w	نَمُوتُ	ﱡ	نموت	we die	namūtu
+3	45:24:8	w	وَنَحۡيَا	ﱢ	ونحيا	and we live	wanaḥyā
+3	45:24:9	w	وَمَا	ﱣ	وما	and not	wamā
+3	45:24:10	w	يُهۡلِكُنَآ	ﱤ	يهلكنا	destroys us	yuh'likunā
+4	45:24:11	w	إِلَّا	ﱥ	الا	except	illā
+4	45:24:12	w	ٱلدَّهۡرُۚ	ﱦﱧ	الدهر	the time	l-dahru
+4	45:24:13	w	وَمَا	ﱨ	وما	And not	wamā
+4	45:24:14	w	لَهُم	ﱩ	لهم	for them	lahum
+4	45:24:15	w	بِذَٰلِكَ	ﱪ	بذالك	of that	bidhālika
+4	45:24:16	w	مِنۡ	ﱫ	من	any	min
+4	45:24:17	w	عِلۡمٍۖ	ﱬﱭ	علم	knowledge	ʿil'min
+4	45:24:18	w	إِنۡ	ﱮ	ان	not	in
+4	45:24:19	w	هُمۡ	ﱯ	هم	they	hum
+4	45:24:20	w	إِلَّا	ﱰ	الا	(do) but	illā
+4	45:24:21	w	يَظُنُّونَ	ﱱ	يظنون	guess	yaẓunnūna
+4	45:24:22	e	٢٤	ﱲ			
+4	45:25:1	w	وَإِذَا	ﱳ	واذا	And when	wa-idhā
+4	45:25:2	w	تُتۡلَىٰ	ﱴ	تتلى	are recited	tut'lā
+5	45:25:3	w	عَلَيۡهِمۡ	ﱵ	عليهم	to them	ʿalayhim
+5	45:25:4	w	ءَايَٰتُنَا	ﱶ	اياتنا	Our Verses	āyātunā
+5	45:25:5	w	بَيِّنَٰتٖ	ﱷ	بينات	clear	bayyinātin
+5	45:25:6	w	مَّا	ﱸ	ما	not	mā
+5	45:25:7	w	كَانَ	ﱹ	كان	is	kāna
+5	45:25:8	w	حُجَّتَهُمۡ	ﱺ	حجتهم	their argument	ḥujjatahum
+5	45:25:9	w	إِلَّآ	ﱻ	الا	except	illā
+5	45:25:10	w	أَن	ﱼ	ان	that	an
+5	45:25:11	w	قَالُواْ	ﱽ	قالوا	they say	qālū
+5	45:25:12	w	ٱئۡتُواْ	ﱾ	ايتوا	Bring	i'tū
+5	45:25:13	w	بِـَٔابَآئِنَآ	ﱿ	باباينا	our forefathers	biābāinā
+5	45:25:14	w	إِن	ﲀ	ان	if	in
+6	45:25:15	w	كُنتُمۡ	ﲁ	كنتم	you are	kuntum
+6	45:25:16	w	صَٰدِقِينَ	ﲂ	صادقين	truthful	ṣādiqīna
+6	45:25:17	e	٢٥	ﲃ			
+6	45:26:1	w	قُلِ	ﲄ	قل	Say	quli
+6	45:26:2	w	ٱللَّهُ	ﲅ	الله	Allah	l-lahu
+6	45:26:3	w	يُحۡيِيكُمۡ	ﲆ	يحييكم	gives you life	yuḥ'yīkum
+6	45:26:4	w	ثُمَّ	ﲇ	ثم	then	thumma
+6	45:26:5	w	يُمِيتُكُمۡ	ﲈ	يميتكم	causes you to die	yumītukum
+6	45:26:6	w	ثُمَّ	ﲉ	ثم	then	thumma
+6	45:26:7	w	يَجۡمَعُكُمۡ	ﲊ	يجمعكم	He will gather you	yajmaʿukum
+6	45:26:8	w	إِلَىٰ	ﲋ	الى	to	ilā
+7	45:26:9	w	يَوۡمِ	ﲌ	يوم	(the) Day	yawmi
+7	45:26:10	w	ٱلۡقِيَٰمَةِ	ﲍ	القيامة	(of) the Resurrection	l-qiyāmati
+7	45:26:11	w	لَا	ﲎ	لا	no	lā
+7	45:26:12	w	رَيۡبَ	ﲏ	ريب	doubt	rayba
+7	45:26:13	w	فِيهِ	ﲐ	فيه	about it	fīhi
+7	45:26:14	w	وَلَٰكِنَّ	ﲑ	ولاكن	But	walākinna
+7	45:26:15	w	أَكۡثَرَ	ﲒ	اكثر	most	akthara
+7	45:26:16	w	ٱلنَّاسِ	ﲓ	الناس	(of) the people	l-nāsi
+7	45:26:17	w	لَا	ﲔ	لا	(do) not	lā
+7	45:26:18	w	يَعۡلَمُونَ	ﲕ	يعلمون	know	yaʿlamūna
+7	45:26:19	e	٢٦	ﲖ			
+7	45:27:1	w	وَلِلَّهِ	ﲗ	ولله	And for Allah	walillahi
+7	45:27:2	w	مُلۡكُ	ﲘ	ملك	(is the) dominion	mul'ku
+8	45:27:3	w	ٱلسَّمَٰوَٰتِ	ﲙ	السماوات	(of) the heavens	l-samāwāti
+8	45:27:4	w	وَٱلۡأَرۡضِۚ	ﲚﲛ	والارض	and the earth	wal-arḍi
+8	45:27:5	w	وَيَوۡمَ	ﲜ	ويوم	and (the) Day	wayawma
+8	45:27:6	w	تَقُومُ	ﲝ	تقوم	is established	taqūmu
+8	45:27:7	w	ٱلسَّاعَةُ	ﲞ	الساعة	the Hour	l-sāʿatu
+8	45:27:8	w	يَوۡمَئِذٖ	ﲟ	يوميذ	that Day	yawma-idhin
+8	45:27:9	w	يَخۡسَرُ	ﲠ	يخسر	will lose	yakhsaru
+8	45:27:10	w	ٱلۡمُبۡطِلُونَ	ﲡ	المبطلون	the falsifiers	l-mub'ṭilūna
+8	45:27:11	e	٢٧	ﲢ			
+9	45:28:1	w	وَتَرَىٰ	ﲣ	وترى	And you will see	watarā
+9	45:28:2	w	كُلَّ	ﲤ	كل	every	kulla
+9	45:28:3	w	أُمَّةٖ	ﲥ	امة	nation	ummatin
+9	45:28:4	w	جَاثِيَةٗۚ	ﲦﲧ	جاثية	kneeling	jāthiyatan
+9	45:28:5	w	كُلُّ	ﲨ	كل	Every	kullu
+9	45:28:6	w	أُمَّةٖ	ﲩ	امة	nation	ummatin
+9	45:28:7	w	تُدۡعَىٰٓ	ﲪ	تدعى	will be called	tud'ʿā
+9	45:28:8	w	إِلَىٰ	ﲫ	الى	to	ilā
+9	45:28:9	w	كِتَٰبِهَا	ﲬ	كتابها	its record	kitābihā
+9	45:28:10	w	ٱلۡيَوۡمَ	ﲭ	اليوم	Today	l-yawma
+9	45:28:11	w	تُجۡزَوۡنَ	ﲮ	تجزون	you will be recompensed	tuj'zawna
+9	45:28:12	w	مَا	ﲯ	ما	(for) what	mā
+9	45:28:13	w	كُنتُمۡ	ﲰ	كنتم	you used to	kuntum
+10	45:28:14	w	تَعۡمَلُونَ	ﲱ	تعملون	do	taʿmalūna
+10	45:28:15	e	٢٨	ﲲ			
+10	45:29:1	w	هَٰذَا	ﲳ	هاذا	This	hādhā
+10	45:29:2	w	كِتَٰبُنَا	ﲴ	كتابنا	Our Record	kitābunā
+10	45:29:3	w	يَنطِقُ	ﲵ	ينطق	speaks	yanṭiqu
+10	45:29:4	w	عَلَيۡكُم	ﲶ	عليكم	about you	ʿalaykum
+10	45:29:5	w	بِٱلۡحَقِّۚ	ﲷﲸ	بالحق	in truth	bil-ḥaqi
+10	45:29:6	w	إِنَّا	ﲹ	انا	Indeed, We	innā
+10	45:29:7	w	كُنَّا	ﲺ	كنا	[We] used to	kunnā
+10	45:29:8	w	نَسۡتَنسِخُ	ﲻ	نستنسخ	transcribe	nastansikhu
+11	45:29:9	w	مَا	ﲼ	ما	what	mā
+11	45:29:10	w	كُنتُمۡ	ﲽ	كنتم	you used to	kuntum
+11	45:29:11	w	تَعۡمَلُونَ	ﲾ	تعملون	do	taʿmalūna
+11	45:29:12	e	٢٩	ﲿ			
+11	45:30:1	w	فَأَمَّا	ﳀ	فاما	Then as for	fa-ammā
+11	45:30:2	w	ٱلَّذِينَ	ﳁ	الذين	those who	alladhīna
+11	45:30:3	w	ءَامَنُواْ	ﳂ	امنوا	believed	āmanū
+11	45:30:4	w	وَعَمِلُواْ	ﳃ	وعملوا	and did	waʿamilū
+11	45:30:5	w	ٱلصَّٰلِحَٰتِ	ﳄ	الصالحات	[the] righteous deeds	l-ṣāliḥāti
+12	45:30:6	w	فَيُدۡخِلُهُمۡ	ﳅ	فيدخلهم	will admit them	fayud'khiluhum
+12	45:30:7	w	رَبُّهُمۡ	ﳆ	ربهم	their Lord	rabbuhum
+12	45:30:8	w	فِي	ﳇ	في	in(to)	fī
+12	45:30:9	w	رَحۡمَتِهِۦۚ	ﳈﳉ	رحمته	His mercy	raḥmatihi
+12	45:30:10	w	ذَٰلِكَ	ﳊ	ذالك	That	dhālika
+12	45:30:11	w	هُوَ	ﳋ	هو	[it]	huwa
+12	45:30:12	w	ٱلۡفَوۡزُ	ﳌ	الفوز	(is) the success	l-fawzu
+12	45:30:13	w	ٱلۡمُبِينُ	ﳍ	المبين	clear	l-mubīnu
+12	45:30:14	e	٣٠	ﳎ			
+12	45:31:1	w	وَأَمَّا	ﳏ	واما	But as for	wa-ammā
+13	45:31:2	w	ٱلَّذِينَ	ﳐ	الذين	those who	alladhīna
+13	45:31:3	w	كَفَرُوٓاْ	ﳑ	كفروا	disbelieved	kafarū
+13	45:31:4	w	أَفَلَمۡ	ﳒ	افلم	Then were not	afalam
+13	45:31:5	w	تَكُنۡ	ﳓ	تكن	Then were not	takun
+13	45:31:6	w	ءَايَٰتِي	ﳔ	اياتي	My Verses	āyātī
+13	45:31:7	w	تُتۡلَىٰ	ﳕ	تتلى	recited	tut'lā
+13	45:31:8	w	عَلَيۡكُمۡ	ﳖ	عليكم	to you	ʿalaykum
+13	45:31:9	w	فَٱسۡتَكۡبَرۡتُمۡ	ﳗ	فاستكبرتم	but you were proud	fa-is'takbartum
+13	45:31:10	w	وَكُنتُمۡ	ﳘ	وكنتم	and you became	wakuntum
+13	45:31:11	w	قَوۡمٗا	ﳙ	قوما	a people	qawman
+14	45:31:12	w	مُّجۡرِمِينَ	ﳚ	مجرمين	criminals	muj'rimīna
+14	45:31:13	e	٣١	ﳛ			
+14	45:32:1	w	وَإِذَا	ﳜ	واذا	And when	wa-idhā
+14	45:32:2	w	قِيلَ	ﳝ	قيل	it was said	qīla
+14	45:32:3	w	إِنَّ	ﳞ	ان	Indeed	inna
+14	45:32:4	w	وَعۡدَ	ﳟ	وعد	(the) Promise	waʿda
+14	45:32:5	w	ٱللَّهِ	ﳠ	الله	(of) Allah	l-lahi
+14	45:32:6	w	حَقّٞ	ﳡ	حق	(is) true	ḥaqqun
+14	45:32:7	w	وَٱلسَّاعَةُ	ﳢ	والساعة	and the Hour	wal-sāʿatu
+14	45:32:8	w	لَا	ﳣ	لا	(there is) no	lā
+14	45:32:9	w	رَيۡبَ	ﳤ	ريب	doubt	rayba
+14	45:32:10	w	فِيهَا	ﳥ	فيها	about it	fīhā
+15	45:32:11	w	قُلۡتُم	ﳦ	قلتم	you said	qul'tum
+15	45:32:12	w	مَّا	ﳧ	ما	Not	mā
+15	45:32:13	w	نَدۡرِي	ﳨ	ندري	we know	nadrī
+15	45:32:14	w	مَا	ﳩ	ما	what	mā
+15	45:32:15	w	ٱلسَّاعَةُ	ﳪ	الساعة	the Hour (is)	l-sāʿatu
+15	45:32:16	w	إِن	ﳫ	ان	Not	in
+15	45:32:17	w	نَّظُنُّ	ﳬ	نظن	we think	naẓunnu
+15	45:32:18	w	إِلَّا	ﳭ	الا	except	illā
+15	45:32:19	w	ظَنّٗا	ﳮ	ظنا	an assumption	ẓannan
+15	45:32:20	w	وَمَا	ﳯ	وما	and not	wamā
+15	45:32:21	w	نَحۡنُ	ﳰ	نحن	we	naḥnu
+15	45:32:22	w	بِمُسۡتَيۡقِنِينَ	ﳱ	بمستيقنين	(are) convinced	bimus'tayqinīna
+15	45:32:23	e	٣٢	ﳲ			

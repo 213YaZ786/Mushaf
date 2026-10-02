@@ -1,0 +1,155 @@
+1	10:43:1	w	وَمِنۡهُم	ﱁ	ومنهم	And among them	wamin'hum
+1	10:43:2	w	مَّن	ﱂ	من	(are some) who	man
+1	10:43:3	w	يَنظُرُ	ﱃ	ينظر	look	yanẓuru
+1	10:43:4	w	إِلَيۡكَۚ	ﱄﱅ	اليك	at you	ilayka
+1	10:43:5	w	أَفَأَنتَ	ﱆ	افانت	But (can) you	afa-anta
+1	10:43:6	w	تَهۡدِي	ﱇ	تهدي	guide	tahdī
+1	10:43:7	w	ٱلۡعُمۡيَ	ﱈ	العمي	the blind	l-ʿum'ya
+1	10:43:8	w	وَلَوۡ	ﱉ	ولو	even though	walaw
+1	10:43:9	w	كَانُواْ	ﱊ	كانوا	they [were]	kānū
+1	10:43:10	w	لَا	ﱋ	لا	(do) not	lā
+1	10:43:11	w	يُبۡصِرُونَ	ﱌ	يبصرون	see	yub'ṣirūna
+2	10:43:12	e	٤٣	ﱍ			
+2	10:44:1	w	إِنَّ	ﱎ	ان	Indeed	inna
+2	10:44:2	w	ٱللَّهَ	ﱏ	الله	Allah	l-laha
+2	10:44:3	w	لَا	ﱐ	لا	(does) not	lā
+2	10:44:4	w	يَظۡلِمُ	ﱑ	يظلم	wrong	yaẓlimu
+2	10:44:5	w	ٱلنَّاسَ	ﱒ	الناس	the people	l-nāsa
+2	10:44:6	w	شَيۡـٔٗا	ﱓ	شييا	(in) anything	shayan
+2	10:44:7	w	وَلَٰكِنَّ	ﱔ	ولاكن	but	walākinna
+2	10:44:8	w	ٱلنَّاسَ	ﱕ	الناس	the people	l-nāsa
+2	10:44:9	w	أَنفُسَهُمۡ	ﱖ	انفسهم	wrong themselves	anfusahum
+3	10:44:10	w	يَظۡلِمُونَ	ﱗ	يظلمون	wrong themselves	yaẓlimūna
+3	10:44:11	e	٤٤	ﱘ			
+3	10:45:1	w	وَيَوۡمَ	ﱙ	ويوم	And the Day	wayawma
+3	10:45:2	w	يَحۡشُرُهُمۡ	ﱚ	يحشرهم	He will gather them	yaḥshuruhum
+3	10:45:3	w	كَأَن	ﱛ	كان	as if	ka-an
+3	10:45:4	w	لَّمۡ	ﱜ	لم	they had not remained	lam
+3	10:45:5	w	يَلۡبَثُوٓاْ	ﱝ	يلبثوا	they had not remained	yalbathū
+3	10:45:6	w	إِلَّا	ﱞ	الا	except	illā
+3	10:45:7	w	سَاعَةٗ	ﱟ	ساعة	an hour	sāʿatan
+3	10:45:8	w	مِّنَ	ﱠ	من	of	mina
+3	10:45:9	w	ٱلنَّهَارِ	ﱡ	النهار	the day	l-nahāri
+4	10:45:10	w	يَتَعَارَفُونَ	ﱢ	يتعارفون	they will recognize each other	yataʿārafūna
+4	10:45:11	w	بَيۡنَهُمۡۚ	ﱣﱤ	بينهم	between them	baynahum
+4	10:45:12	w	قَدۡ	ﱥ	قد	Certainly	qad
+4	10:45:13	w	خَسِرَ	ﱦ	خسر	(will have) lost	khasira
+4	10:45:14	w	ٱلَّذِينَ	ﱧ	الذين	those who	alladhīna
+4	10:45:15	w	كَذَّبُواْ	ﱨ	كذبوا	denied	kadhabū
+4	10:45:16	w	بِلِقَآءِ	ﱩ	بلقاء	the meeting	biliqāi
+4	10:45:17	w	ٱللَّهِ	ﱪ	الله	(with) Allah	l-lahi
+4	10:45:18	w	وَمَا	ﱫ	وما	and not	wamā
+4	10:45:19	w	كَانُواْ	ﱬ	كانوا	they were	kānū
+5	10:45:20	w	مُهۡتَدِينَ	ﱭ	مهتدين	the guided ones	muh'tadīna
+5	10:45:21	e	٤٥	ﱮ			
+5	10:46:1	w	وَإِمَّا	ﱯ	واما	And whether	wa-immā
+5	10:46:2	w	نُرِيَنَّكَ	ﱰ	نرينك	We show you	nuriyannaka
+5	10:46:3	w	بَعۡضَ	ﱱ	بعض	some	baʿḍa
+5	10:46:4	w	ٱلَّذِي	ﱲ	الذي	(of) that which	alladhī
+5	10:46:5	w	نَعِدُهُمۡ	ﱳ	نعدهم	We promised them	naʿiduhum
+5	10:46:6	w	أَوۡ	ﱴ	او	or	aw
+5	10:46:7	w	نَتَوَفَّيَنَّكَ	ﱵ	نتوفينك	We cause you to die	natawaffayannaka
+6	10:46:8	w	فَإِلَيۡنَا	ﱶ	فالينا	then to Us	fa-ilaynā
+6	10:46:9	w	مَرۡجِعُهُمۡ	ﱷ	مرجعهم	(is) their return	marjiʿuhum
+6	10:46:10	w	ثُمَّ	ﱸ	ثم	then	thumma
+6	10:46:11	w	ٱللَّهُ	ﱹ	الله	Allah	l-lahu
+6	10:46:12	w	شَهِيدٌ	ﱺ	شهيد	(is) a Witness	shahīdun
+6	10:46:13	w	عَلَىٰ	ﱻ	على	over	ʿalā
+6	10:46:14	w	مَا	ﱼ	ما	what	mā
+6	10:46:15	w	يَفۡعَلُونَ	ﱽ	يفعلون	they do	yafʿalūna
+6	10:46:16	e	٤٦	ﱾ			
+6	10:47:1	w	وَلِكُلِّ	ﱿ	ولكل	And for every	walikulli
+7	10:47:2	w	أُمَّةٖ	ﲀ	امة	nation	ummatin
+7	10:47:3	w	رَّسُولٞۖ	ﲁﲂ	رسول	(is) a Messenger	rasūlun
+7	10:47:4	w	فَإِذَا	ﲃ	فاذا	So when	fa-idhā
+7	10:47:5	w	جَآءَ	ﲄ	جاء	comes	jāa
+7	10:47:6	w	رَسُولُهُمۡ	ﲅ	رسولهم	their Messenger	rasūluhum
+7	10:47:7	w	قُضِيَ	ﲆ	قضي	it will be judged	quḍiya
+7	10:47:8	w	بَيۡنَهُم	ﲇ	بينهم	between them	baynahum
+7	10:47:9	w	بِٱلۡقِسۡطِ	ﲈ	بالقسط	in justice	bil-qis'ṭi
+7	10:47:10	w	وَهُمۡ	ﲉ	وهم	and they	wahum
+8	10:47:11	w	لَا	ﲊ	لا	(will) not	lā
+8	10:47:12	w	يُظۡلَمُونَ	ﲋ	يظلمون	be wronged	yuẓ'lamūna
+8	10:47:13	e	٤٧	ﲌ			
+8	10:48:1	w	وَيَقُولُونَ	ﲍ	ويقولون	And they say	wayaqūlūna
+8	10:48:2	w	مَتَىٰ	ﲎ	متى	When	matā
+8	10:48:3	w	هَٰذَا	ﲏ	هاذا	(will) this	hādhā
+8	10:48:4	w	ٱلۡوَعۡدُ	ﲐ	الوعد	the promise (be fulfilled)	l-waʿdu
+8	10:48:5	w	إِن	ﲑ	ان	if	in
+8	10:48:6	w	كُنتُمۡ	ﲒ	كنتم	you are	kuntum
+8	10:48:7	w	صَٰدِقِينَ	ﲓ	صادقين	truthful	ṣādiqīna
+9	10:48:8	e	٤٨	ﲔ			
+9	10:49:1	w	قُل	ﲕ	قل	Say	qul
+9	10:49:2	w	لَّآ	ﲖ	لا	Not	lā
+9	10:49:3	w	أَمۡلِكُ	ﲗ	املك	I have power	amliku
+9	10:49:4	w	لِنَفۡسِي	ﲘ	لنفسي	for myself	linafsī
+9	10:49:5	w	ضَرّٗا	ﲙ	ضرا	(for) any harm	ḍarran
+9	10:49:6	w	وَلَا	ﲚ	ولا	and not	walā
+9	10:49:7	w	نَفۡعًا	ﲛ	نفعا	(for) any profit	nafʿan
+9	10:49:8	w	إِلَّا	ﲜ	الا	except	illā
+9	10:49:9	w	مَا	ﲝ	ما	what	mā
+9	10:49:10	w	شَآءَ	ﲞ	شاء	Allah wills	shāa
+9	10:49:11	w	ٱللَّهُۗ	ﲟﲠ	الله	Allah wills	l-lahu
+9	10:49:12	w	لِكُلِّ	ﲡ	لكل	For every	likulli
+9	10:49:13	w	أُمَّةٍ	ﲢ	امة	nation	ummatin
+10	10:49:14	w	أَجَلٌۚ	ﲣﲤ	اجل	(is) a term	ajalun
+10	10:49:15	w	إِذَا	ﲥ	اذا	When	idhā
+10	10:49:16	w	جَآءَ	ﲦ	جاء	comes	jāa
+10	10:49:17	w	أَجَلُهُمۡ	ﲧ	اجلهم	their term	ajaluhum
+10	10:49:18	w	فَلَا	ﲨ	فلا	then not	falā
+10	10:49:19	w	يَسۡتَـٔۡخِرُونَ	ﲩ	يستاخرون	they remain behind	yastakhirūna
+10	10:49:20	w	سَاعَةٗ	ﲪ	ساعة	an hour	sāʿatan
+10	10:49:21	w	وَلَا	ﲫ	ولا	and not	walā
+10	10:49:22	w	يَسۡتَقۡدِمُونَ	ﲬ	يستقدمون	they can precede (it)	yastaqdimūna
+10	10:49:23	e	٤٩	ﲭ			
+11	10:50:1	w	قُلۡ	ﲮ	قل	Say	qul
+11	10:50:2	w	أَرَءَيۡتُمۡ	ﲯ	ارايتم	Do you see	ara-aytum
+11	10:50:3	w	إِنۡ	ﲰ	ان	if	in
+11	10:50:4	w	أَتَىٰكُمۡ	ﲱ	اتاكم	comes to you	atākum
+11	10:50:5	w	عَذَابُهُۥ	ﲲ	عذابه	His punishment	ʿadhābuhu
+11	10:50:6	w	بَيَٰتًا	ﲳ	بياتا	(by) night	bayātan
+11	10:50:7	w	أَوۡ	ﲴ	او	or	aw
+11	10:50:8	w	نَهَارٗا	ﲵ	نهارا	(by) day	nahāran
+11	10:50:9	w	مَّاذَا	ﲶ	ماذا	what (portion)	mādhā
+11	10:50:10	w	يَسۡتَعۡجِلُ	ﲷ	يستعجل	of it would (wish to) hasten	yastaʿjilu
+11	10:50:11	w	مِنۡهُ	ﲸ	منه	of it would (wish to) hasten	min'hu
+12	10:50:12	w	ٱلۡمُجۡرِمُونَ	ﲹ	المجرمون	the criminals	l-muj'rimūna
+12	10:50:13	e	٥٠	ﲺ			
+12	10:51:1	w	أَثُمَّ	ﲻ	اثم	Is (it) then	athumma
+12	10:51:2	w	إِذَا	ﲼ	اذا	when	idhā
+12	10:51:3	w	مَا	ﲽ	ما	when	mā
+12	10:51:4	w	وَقَعَ	ﲾ	وقع	(it had) occurred	waqaʿa
+12	10:51:5	w	ءَامَنتُم	ﲿ	امنتم	you (will) believe	āmantum
+12	10:51:6	w	بِهِۦٓۚ	ﳀﳁ	به	in it	bihi
+12	10:51:7	w	ءَآلۡـَٰٔنَ	ﳂ	الان	Now	āl'āna
+12	10:51:8	w	وَقَدۡ	ﳃ	وقد	And certainly	waqad
+12	10:51:9	w	كُنتُم	ﳄ	كنتم	you were	kuntum
+12	10:51:10	w	بِهِۦ	ﳅ	به	seeking to hasten it	bihi
+13	10:51:11	w	تَسۡتَعۡجِلُونَ	ﳆ	تستعجلون	seeking to hasten it	tastaʿjilūna
+13	10:51:12	e	٥١	ﳇ			
+13	10:52:1	w	ثُمَّ	ﳈ	ثم	Then	thumma
+13	10:52:2	w	قِيلَ	ﳉ	قيل	it will be said	qīla
+13	10:52:3	w	لِلَّذِينَ	ﳊ	للذين	to those who	lilladhīna
+13	10:52:4	w	ظَلَمُواْ	ﳋ	ظلموا	wronged	ẓalamū
+13	10:52:5	w	ذُوقُواْ	ﳌ	ذوقوا	Taste	dhūqū
+13	10:52:6	w	عَذَابَ	ﳍ	عذاب	punishment	ʿadhāba
+13	10:52:7	w	ٱلۡخُلۡدِ	ﳎ	الخلد	the everlasting	l-khul'di
+14	10:52:8	w	هَلۡ	ﳏ	هل	Are you (being) recompensed	hal
+14	10:52:9	w	تُجۡزَوۡنَ	ﳐ	تجزون	Are you (being) recompensed	tuj'zawna
+14	10:52:10	w	إِلَّا	ﳑ	الا	except	illā
+14	10:52:11	w	بِمَا	ﳒ	بما	for what	bimā
+14	10:52:12	w	كُنتُمۡ	ﳓ	كنتم	you used (to)	kuntum
+14	10:52:13	w	تَكۡسِبُونَ	ﳔ	تكسبون	earn	taksibūna
+14	10:52:14	e	٥٢	ﳕ			
+14	10:53:1	w	۞ وَيَسۡتَنۢبِـُٔونَكَ	ﳖ ﳗ	۞ ويستنبيونك	And they ask you to inform	wayastanbiūnaka
+15	10:53:2	w	أَحَقٌّ	ﳘ	احق	Is it true	aḥaqqun
+15	10:53:3	w	هُوَۖ	ﳙﳚ	هو	Is it true	huwa
+15	10:53:4	w	قُلۡ	ﳛ	قل	Say	qul
+15	10:53:5	w	إِي	ﳜ	اي	Yes	ī
+15	10:53:6	w	وَرَبِّيٓ	ﳝ	وربي	by my Lord	warabbī
+15	10:53:7	w	إِنَّهُۥ	ﳞ	انه	Indeed, it	innahu
+15	10:53:8	w	لَحَقّٞۖ	ﳟﳠ	لحق	(is) surely the truth	laḥaqqun
+15	10:53:9	w	وَمَآ	ﳡ	وما	and not	wamā
+15	10:53:10	w	أَنتُم	ﳢ	انتم	you	antum
+15	10:53:11	w	بِمُعۡجِزِينَ	ﳣ	بمعجزين	(can) escape (it)	bimuʿ'jizīna
+15	10:53:12	e	٥٣	ﳤ			

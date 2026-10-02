@@ -1,0 +1,133 @@
+1	28:85:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	28:85:2	w	ٱلَّذِي	ﱂ	الذي	He Who	alladhī
+1	28:85:3	w	فَرَضَ	ﱃ	فرض	ordained	faraḍa
+1	28:85:4	w	عَلَيۡكَ	ﱄ	عليك	upon you	ʿalayka
+1	28:85:5	w	ٱلۡقُرۡءَانَ	ﱅ	القران	the Quran	l-qur'āna
+1	28:85:6	w	لَرَآدُّكَ	ﱆ	لرادك	(will) surely take you back	larādduka
+1	28:85:7	w	إِلَىٰ	ﱇ	الى	to	ilā
+1	28:85:8	w	مَعَادٖۚ	ﱈﱉ	معاد	a place of return	maʿādin
+1	28:85:9	w	قُل	ﱊ	قل	Say	qul
+1	28:85:10	w	رَّبِّيٓ	ﱋ	ربي	My Lord	rabbī
+2	28:85:11	w	أَعۡلَمُ	ﱌ	اعلم	(is) most knowing	aʿlamu
+2	28:85:12	w	مَن	ﱍ	من	(of him) who	man
+2	28:85:13	w	جَآءَ	ﱎ	جاء	comes	jāa
+2	28:85:14	w	بِٱلۡهُدَىٰ	ﱏ	بالهدى	with the guidance	bil-hudā
+2	28:85:15	w	وَمَنۡ	ﱐ	ومن	and who	waman
+2	28:85:16	w	هُوَ	ﱑ	هو	he	huwa
+2	28:85:17	w	فِي	ﱒ	في	(is) in	fī
+2	28:85:18	w	ضَلَٰلٖ	ﱓ	ضلال	an error	ḍalālin
+2	28:85:19	w	مُّبِينٖ	ﱔ	مبين	manifest	mubīnin
+2	28:85:20	e	٨٥	ﱕ			
+2	28:86:1	w	وَمَا	ﱖ	وما	And not	wamā
+2	28:86:2	w	كُنتَ	ﱗ	كنت	you were	kunta
+3	28:86:3	w	تَرۡجُوٓاْ	ﱘ	ترجو	expecting	tarjū
+3	28:86:4	w	أَن	ﱙ	ان	that	an
+3	28:86:5	w	يُلۡقَىٰٓ	ﱚ	يلقى	would be sent down	yul'qā
+3	28:86:6	w	إِلَيۡكَ	ﱛ	اليك	to you	ilayka
+3	28:86:7	w	ٱلۡكِتَٰبُ	ﱜ	الكتاب	the Book	l-kitābu
+3	28:86:8	w	إِلَّا	ﱝ	الا	except	illā
+3	28:86:9	w	رَحۡمَةٗ	ﱞ	رحمة	(as) a mercy	raḥmatan
+3	28:86:10	w	مِّن	ﱟ	من	from	min
+3	28:86:11	w	رَّبِّكَۖ	ﱠﱡ	ربك	your Lord	rabbika
+3	28:86:12	w	فَلَا	ﱢ	فلا	So (do) not	falā
+4	28:86:13	w	تَكُونَنَّ	ﱣ	تكونن	be	takūnanna
+4	28:86:14	w	ظَهِيرٗا	ﱤ	ظهيرا	an assistant	ẓahīran
+4	28:86:15	w	لِّلۡكَٰفِرِينَ	ﱥ	للكافرين	to the disbelievers	lil'kāfirīna
+4	28:86:16	e	٨٦	ﱦ			
+4	28:87:1	w	وَلَا	ﱧ	ولا	And (let) not	walā
+4	28:87:2	w	يَصُدُّنَّكَ	ﱨ	يصدنك	avert you	yaṣuddunnaka
+4	28:87:3	w	عَنۡ	ﱩ	عن	from	ʿan
+4	28:87:4	w	ءَايَٰتِ	ﱪ	ايات	(the) Verses	āyāti
+5	28:87:5	w	ٱللَّهِ	ﱫ	الله	(of) Allah	l-lahi
+5	28:87:6	w	بَعۡدَ	ﱬ	بعد	after	baʿda
+5	28:87:7	w	إِذۡ	ﱭ	اذ	[when]	idh
+5	28:87:8	w	أُنزِلَتۡ	ﱮ	انزلت	they have been revealed	unzilat
+5	28:87:9	w	إِلَيۡكَۖ	ﱯﱰ	اليك	to you	ilayka
+5	28:87:10	w	وَٱدۡعُ	ﱱ	وادع	And invite (people)	wa-ud'ʿu
+5	28:87:11	w	إِلَىٰ	ﱲ	الى	to	ilā
+5	28:87:12	w	رَبِّكَۖ	ﱳﱴ	ربك	your Lord	rabbika
+5	28:87:13	w	وَلَا	ﱵ	ولا	And (do) not	walā
+5	28:87:14	w	تَكُونَنَّ	ﱶ	تكونن	be	takūnanna
+5	28:87:15	w	مِنَ	ﱷ	من	of	mina
+6	28:87:16	w	ٱلۡمُشۡرِكِينَ	ﱸ	المشركين	the polytheists	l-mush'rikīna
+6	28:87:17	e	٨٧	ﱹ			
+6	28:88:1	w	وَلَا	ﱺ	ولا	And (do) not	walā
+6	28:88:2	w	تَدۡعُ	ﱻ	تدع	invoke	tadʿu
+6	28:88:3	w	مَعَ	ﱼ	مع	with	maʿa
+6	28:88:4	w	ٱللَّهِ	ﱽ	الله	Allah	l-lahi
+6	28:88:5	w	إِلَٰهًا	ﱾ	الاها	god	ilāhan
+6	28:88:6	w	ءَاخَرَۘ	ﱿﲀ	اخر	other	ākhara
+6	28:88:7	w	لَآ	ﲁ	لا	(There is) no	lā
+6	28:88:8	w	إِلَٰهَ	ﲂ	الاه	god	ilāha
+6	28:88:9	w	إِلَّا	ﲃ	الا	except	illā
+6	28:88:10	w	هُوَۚ	ﲄﲅ	هو	Him	huwa
+7	28:88:11	w	كُلُّ	ﲆ	كل	Every	kullu
+7	28:88:12	w	شَيۡءٍ	ﲇ	شيء	thing	shayin
+7	28:88:13	w	هَالِكٌ	ﲈ	هالك	(will be) destroyed	hālikun
+7	28:88:14	w	إِلَّا	ﲉ	الا	except	illā
+7	28:88:15	w	وَجۡهَهُۥۚ	ﲊﲋ	وجهه	His Face	wajhahu
+7	28:88:16	w	لَهُ	ﲌ	له	To Him	lahu
+7	28:88:17	w	ٱلۡحُكۡمُ	ﲍ	الحكم	(is) the Decision	l-ḥuk'mu
+7	28:88:18	w	وَإِلَيۡهِ	ﲎ	واليه	and to Him	wa-ilayhi
+7	28:88:19	w	تُرۡجَعُونَ	ﲏ	ترجعون	you will be returned	tur'jaʿūna
+7	28:88:20	e	٨٨	ﲐ			
+10	29:1:1	w	الٓمٓ	ﲑ	الم	Alif Laam Meem	alif-lam-meem
+10	29:1:2	e	١	ﲒ			
+10	29:2:1	w	أَحَسِبَ	ﲓ	احسب	Do think	aḥasiba
+10	29:2:2	w	ٱلنَّاسُ	ﲔ	الناس	the people	l-nāsu
+10	29:2:3	w	أَن	ﲕ	ان	that	an
+10	29:2:4	w	يُتۡرَكُوٓاْ	ﲖ	يتركوا	they will be left	yut'rakū
+10	29:2:5	w	أَن	ﲗ	ان	because	an
+10	29:2:6	w	يَقُولُوٓاْ	ﲘ	يقولوا	they say	yaqūlū
+10	29:2:7	w	ءَامَنَّا	ﲙ	امنا	We believe	āmannā
+10	29:2:8	w	وَهُمۡ	ﲚ	وهم	and they	wahum
+11	29:2:9	w	لَا	ﲛ	لا	will not be tested	lā
+11	29:2:10	w	يُفۡتَنُونَ	ﲜ	يفتنون	will not be tested	yuf'tanūna
+11	29:2:11	e	٢	ﲝ			
+11	29:3:1	w	وَلَقَدۡ	ﲞ	ولقد	And indeed	walaqad
+11	29:3:2	w	فَتَنَّا	ﲟ	فتنا	We tested	fatannā
+11	29:3:3	w	ٱلَّذِينَ	ﲠ	الذين	those who	alladhīna
+11	29:3:4	w	مِن	ﲡ	من	(were) before them	min
+11	29:3:5	w	قَبۡلِهِمۡۖ	ﲢﲣ	قبلهم	(were) before them	qablihim
+11	29:3:6	w	فَلَيَعۡلَمَنَّ	ﲤ	فليعلمن	And Allah will surely make evident	falayaʿlamanna
+11	29:3:7	w	ٱللَّهُ	ﲥ	الله	And Allah will surely make evident	l-lahu
+11	29:3:8	w	ٱلَّذِينَ	ﲦ	الذين	those who	alladhīna
+12	29:3:9	w	صَدَقُواْ	ﲧ	صدقوا	(are) truthful	ṣadaqū
+12	29:3:10	w	وَلَيَعۡلَمَنَّ	ﲨ	وليعلمن	and He will surely make evident	walayaʿlamanna
+12	29:3:11	w	ٱلۡكَٰذِبِينَ	ﲩ	الكاذبين	the liars	l-kādhibīna
+12	29:3:12	e	٣	ﲪ			
+12	29:4:1	w	أَمۡ	ﲫ	ام	Or	am
+12	29:4:2	w	حَسِبَ	ﲬ	حسب	think	ḥasiba
+12	29:4:3	w	ٱلَّذِينَ	ﲭ	الذين	those who	alladhīna
+12	29:4:4	w	يَعۡمَلُونَ	ﲮ	يعملون	do	yaʿmalūna
+13	29:4:5	w	ٱلسَّيِّـَٔاتِ	ﲯ	السييات	evil deeds	l-sayiāti
+13	29:4:6	w	أَن	ﲰ	ان	that	an
+13	29:4:7	w	يَسۡبِقُونَاۚ	ﲱﲲ	يسبقونا	they can outrun Us	yasbiqūnā
+13	29:4:8	w	سَآءَ	ﲳ	ساء	Evil is	sāa
+13	29:4:9	w	مَا	ﲴ	ما	what	mā
+13	29:4:10	w	يَحۡكُمُونَ	ﲵ	يحكمون	they judge	yaḥkumūna
+13	29:4:11	e	٤	ﲶ			
+13	29:5:1	w	مَن	ﲷ	من	Whoever	man
+13	29:5:2	w	كَانَ	ﲸ	كان	[is]	kāna
+13	29:5:3	w	يَرۡجُواْ	ﲹ	يرجو	hopes	yarjū
+14	29:5:4	w	لِقَآءَ	ﲺ	لقاء	(for the) meeting	liqāa
+14	29:5:5	w	ٱللَّهِ	ﲻ	الله	(with) Allah	l-lahi
+14	29:5:6	w	فَإِنَّ	ﲼ	فان	then indeed	fa-inna
+14	29:5:7	w	أَجَلَ	ﲽ	اجل	(the) Term	ajala
+14	29:5:8	w	ٱللَّهِ	ﲾ	الله	(of) Allah	l-lahi
+14	29:5:9	w	لَأٓتٖۚ	ﲿﳀ	لات	(is) surely coming	laātin
+14	29:5:10	w	وَهُوَ	ﳁ	وهو	And He	wahuwa
+14	29:5:11	w	ٱلسَّمِيعُ	ﳂ	السميع	(is) the All-Hearer	l-samīʿu
+14	29:5:12	w	ٱلۡعَلِيمُ	ﳃ	العليم	the All-Knower	l-ʿalīmu
+14	29:5:13	e	٥	ﳄ			
+14	29:6:1	w	وَمَن	ﳅ	ومن	And whoever	waman
+15	29:6:2	w	جَٰهَدَ	ﳆ	جاهد	strives	jāhada
+15	29:6:3	w	فَإِنَّمَا	ﳇ	فانما	then only	fa-innamā
+15	29:6:4	w	يُجَٰهِدُ	ﳈ	يجاهد	he strives	yujāhidu
+15	29:6:5	w	لِنَفۡسِهِۦٓۚ	ﳉﳊ	لنفسه	for himself	linafsihi
+15	29:6:6	w	إِنَّ	ﳋ	ان	Indeed	inna
+15	29:6:7	w	ٱللَّهَ	ﳌ	الله	Allah	l-laha
+15	29:6:8	w	لَغَنِيٌّ	ﳍ	لغني	(is) Free from need	laghaniyyun
+15	29:6:9	w	عَنِ	ﳎ	عن	of	ʿani
+15	29:6:10	w	ٱلۡعَٰلَمِينَ	ﳏ	العالمين	the worlds	l-ʿālamīna
+15	29:6:11	e	٦	ﳐ			

@@ -1,0 +1,140 @@
+1	2:127:1	w	وَإِذۡ	ﱁ	واذ	And when	wa-idh
+1	2:127:2	w	يَرۡفَعُ	ﱂ	يرفع	(was) raising	yarfaʿu
+1	2:127:3	w	إِبۡرَٰهِـۧمُ	ﱃ	ابراهيم	Ibrahim	ib'rāhīmu
+1	2:127:4	w	ٱلۡقَوَاعِدَ	ﱄ	القواعد	the foundations	l-qawāʿida
+1	2:127:5	w	مِنَ	ﱅ	من	of	mina
+1	2:127:6	w	ٱلۡبَيۡتِ	ﱆ	البيت	the House	l-bayti
+1	2:127:7	w	وَإِسۡمَٰعِيلُ	ﱇ	واسماعيل	and Ishmael	wa-is'māʿīlu
+1	2:127:8	w	رَبَّنَا	ﱈ	ربنا	(saying), "Our Lord	rabbanā
+1	2:127:9	w	تَقَبَّلۡ	ﱉ	تقبل	Accept	taqabbal
+2	2:127:10	w	مِنَّآۖ	ﱊﱋ	منا	from us	minnā
+2	2:127:11	w	إِنَّكَ	ﱌ	انك	Indeed You	innaka
+2	2:127:12	w	أَنتَ	ﱍ	انت	[You] (are)	anta
+2	2:127:13	w	ٱلسَّمِيعُ	ﱎ	السميع	the All-Hearing	l-samīʿu
+2	2:127:14	w	ٱلۡعَلِيمُ	ﱏ	العليم	the All-Knowing	l-ʿalīmu
+2	2:127:15	e	١٢٧	ﱐ			
+2	2:128:1	w	رَبَّنَا	ﱑ	ربنا	Our Lord	rabbanā
+2	2:128:2	w	وَٱجۡعَلۡنَا	ﱒ	واجعلنا	[and] Make us	wa-ij'ʿalnā
+2	2:128:3	w	مُسۡلِمَيۡنِ	ﱓ	مسلمين	both submissive	mus'limayni
+3	2:128:4	w	لَكَ	ﱔ	لك	to You	laka
+3	2:128:5	w	وَمِن	ﱕ	ومن	And from	wamin
+3	2:128:6	w	ذُرِّيَّتِنَآ	ﱖ	ذريتنا	our offspring	dhurriyyatinā
+3	2:128:7	w	أُمَّةٗ	ﱗ	امة	a community	ummatan
+3	2:128:8	w	مُّسۡلِمَةٗ	ﱘ	مسلمة	submissive	mus'limatan
+3	2:128:9	w	لَّكَ	ﱙ	لك	to You	laka
+3	2:128:10	w	وَأَرِنَا	ﱚ	وارنا	And show us	wa-arinā
+3	2:128:11	w	مَنَاسِكَنَا	ﱛ	مناسكنا	our ways of worship	manāsikanā
+3	2:128:12	w	وَتُبۡ	ﱜ	وتب	and turn	watub
+3	2:128:13	w	عَلَيۡنَآۖ	ﱝﱞ	علينا	to us	ʿalaynā
+4	2:128:14	w	إِنَّكَ	ﱟ	انك	Indeed You	innaka
+4	2:128:15	w	أَنتَ	ﱠ	انت	[You] (are)	anta
+4	2:128:16	w	ٱلتَّوَّابُ	ﱡ	التواب	the Oft-returning	l-tawābu
+4	2:128:17	w	ٱلرَّحِيمُ	ﱢ	الرحيم	the Most Merciful	l-raḥīmu
+4	2:128:18	e	١٢٨	ﱣ			
+4	2:129:1	w	رَبَّنَا	ﱤ	ربنا	Our Lord	rabbanā
+4	2:129:2	w	وَٱبۡعَثۡ	ﱥ	وابعث	[And] raise up	wa-ib'ʿath
+4	2:129:3	w	فِيهِمۡ	ﱦ	فيهم	in them	fīhim
+4	2:129:4	w	رَسُولٗا	ﱧ	رسولا	a Messenger	rasūlan
+4	2:129:5	w	مِّنۡهُمۡ	ﱨ	منهم	from them	min'hum
+5	2:129:6	w	يَتۡلُواْ	ﱩ	يتلو	(who) will recite	yatlū
+5	2:129:7	w	عَلَيۡهِمۡ	ﱪ	عليهم	to them	ʿalayhim
+5	2:129:8	w	ءَايَٰتِكَ	ﱫ	اياتك	Your Verses	āyātika
+5	2:129:9	w	وَيُعَلِّمُهُمُ	ﱬ	ويعلمهم	and will teach them	wayuʿallimuhumu
+5	2:129:10	w	ٱلۡكِتَٰبَ	ﱭ	الكتاب	the Book	l-kitāba
+5	2:129:11	w	وَٱلۡحِكۡمَةَ	ﱮ	والحكمة	and the wisdom	wal-ḥik'mata
+6	2:129:12	w	وَيُزَكِّيهِمۡۖ	ﱯﱰ	ويزكيهم	and purify them	wayuzakkīhim
+6	2:129:13	w	إِنَّكَ	ﱱ	انك	Indeed You	innaka
+6	2:129:14	w	أَنتَ	ﱲ	انت	You (are)	anta
+6	2:129:15	w	ٱلۡعَزِيزُ	ﱳ	العزيز	the All-Mighty	l-ʿazīzu
+6	2:129:16	w	ٱلۡحَكِيمُ	ﱴ	الحكيم	the All-Wise	l-ḥakīmu
+6	2:129:17	e	١٢٩	ﱵ			
+6	2:130:1	w	وَمَن	ﱶ	ومن	And who	waman
+6	2:130:2	w	يَرۡغَبُ	ﱷ	يرغب	will turn away	yarghabu
+6	2:130:3	w	عَن	ﱸ	عن	from	ʿan
+6	2:130:4	w	مِّلَّةِ	ﱹ	ملة	(the) religion	millati
+7	2:130:5	w	إِبۡرَٰهِـۧمَ	ﱺ	ابراهيم	(of) Ibrahim	ib'rāhīma
+7	2:130:6	w	إِلَّا	ﱻ	الا	except	illā
+7	2:130:7	w	مَن	ﱼ	من	who	man
+7	2:130:8	w	سَفِهَ	ﱽ	سفه	fooled	safiha
+7	2:130:9	w	نَفۡسَهُۥۚ	ﱾﱿ	نفسه	himself	nafsahu
+7	2:130:10	w	وَلَقَدِ	ﲀ	ولقد	And indeed	walaqadi
+7	2:130:11	w	ٱصۡطَفَيۡنَٰهُ	ﲁ	اصطفيناه	We chose him	iṣ'ṭafaynāhu
+7	2:130:12	w	فِي	ﲂ	في	in	fī
+7	2:130:13	w	ٱلدُّنۡيَاۖ	ﲃﲄ	الدنيا	the world	l-dun'yā
+8	2:130:14	w	وَإِنَّهُۥ	ﲅ	وانه	and indeed he	wa-innahu
+8	2:130:15	w	فِي	ﲆ	في	in	fī
+8	2:130:16	w	ٱلۡأٓخِرَةِ	ﲇ	الاخرة	the Hereafter	l-ākhirati
+8	2:130:17	w	لَمِنَ	ﲈ	لمن	surely (will be) among	lamina
+8	2:130:18	w	ٱلصَّٰلِحِينَ	ﲉ	الصالحين	the righteous	l-ṣāliḥīna
+8	2:130:19	e	١٣٠	ﲊ			
+8	2:131:1	w	إِذۡ	ﲋ	اذ	When	idh
+8	2:131:2	w	قَالَ	ﲌ	قال	said	qāla
+8	2:131:3	w	لَهُۥ	ﲍ	له	to him	lahu
+8	2:131:4	w	رَبُّهُۥٓ	ﲎ	ربه	his Lord	rabbuhu
+8	2:131:5	w	أَسۡلِمۡۖ	ﲏﲐ	اسلم	Submit (yourself)	aslim
+9	2:131:6	w	قَالَ	ﲑ	قال	he said	qāla
+9	2:131:7	w	أَسۡلَمۡتُ	ﲒ	اسلمت	I (have) submitted (myself)	aslamtu
+9	2:131:8	w	لِرَبِّ	ﲓ	لرب	to (the) Lord	lirabbi
+9	2:131:9	w	ٱلۡعَٰلَمِينَ	ﲔ	العالمين	(of) the worlds	l-ʿālamīna
+9	2:131:10	e	١٣١	ﲕ			
+9	2:132:1	w	وَوَصَّىٰ	ﲖ	ووصى	And enjoined	wawaṣṣā
+9	2:132:2	w	بِهَآ	ﲗ	بها	[it]	bihā
+9	2:132:3	w	إِبۡرَٰهِـۧمُ	ﲘ	ابراهيم	Ibrahim	ib'rāhīmu
+9	2:132:4	w	بَنِيهِ	ﲙ	بنيه	(upon) his sons	banīhi
+10	2:132:5	w	وَيَعۡقُوبُ	ﲚ	ويعقوب	and Yaqub	wayaʿqūbu
+10	2:132:6	w	يَٰبَنِيَّ	ﲛ	يا بني	O my sons	yābaniyya
+10	2:132:7	w	إِنَّ	ﲜ	ان	Indeed	inna
+10	2:132:8	w	ٱللَّهَ	ﲝ	الله	Allah	l-laha
+10	2:132:9	w	ٱصۡطَفَىٰ	ﲞ	اصطفى	has chosen	iṣ'ṭafā
+10	2:132:10	w	لَكُمُ	ﲟ	لكم	for you	lakumu
+10	2:132:11	w	ٱلدِّينَ	ﲠ	الدين	the religion	l-dīna
+10	2:132:12	w	فَلَا	ﲡ	فلا	so not	falā
+10	2:132:13	w	تَمُوتُنَّ	ﲢ	تموتن	(should) you die	tamūtunna
+11	2:132:14	w	إِلَّا	ﲣ	الا	except	illā
+11	2:132:15	w	وَأَنتُم	ﲤ	وانتم	while you	wa-antum
+11	2:132:16	w	مُّسۡلِمُونَ	ﲥ	مسلمون	(are) submissive	mus'limūna
+11	2:132:17	e	١٣٢	ﲦ			
+11	2:133:1	w	أَمۡ	ﲧ	ام	Or	am
+11	2:133:2	w	كُنتُمۡ	ﲨ	كنتم	were you	kuntum
+11	2:133:3	w	شُهَدَآءَ	ﲩ	شهداء	witnesses	shuhadāa
+11	2:133:4	w	إِذۡ	ﲪ	اذ	when	idh
+11	2:133:5	w	حَضَرَ	ﲫ	حضر	came to	ḥaḍara
+11	2:133:6	w	يَعۡقُوبَ	ﲬ	يعقوب	Yaqub	yaʿqūba
+12	2:133:7	w	ٱلۡمَوۡتُ	ﲭ	الموت	[the] death	l-mawtu
+12	2:133:8	w	إِذۡ	ﲮ	اذ	when	idh
+12	2:133:9	w	قَالَ	ﲯ	قال	he said	qāla
+12	2:133:10	w	لِبَنِيهِ	ﲰ	لبنيه	to his sons	libanīhi
+12	2:133:11	w	مَا	ﲱ	ما	What	mā
+12	2:133:12	w	تَعۡبُدُونَ	ﲲ	تعبدون	will you worship	taʿbudūna
+12	2:133:13	w	مِنۢ	ﲳ	من	from	min
+12	2:133:14	w	بَعۡدِيۖ	ﲴﲵ	بعدي	after me	baʿdī
+12	2:133:15	w	قَالُواْ	ﲶ	قالوا	They said	qālū
+12	2:133:16	w	نَعۡبُدُ	ﲷ	نعبد	We will worship	naʿbudu
+13	2:133:17	w	إِلَٰهَكَ	ﲸ	الاهك	your God	ilāhaka
+13	2:133:18	w	وَإِلَٰهَ	ﲹ	والاه	and (the) God	wa-ilāha
+13	2:133:19	w	ءَابَآئِكَ	ﲺ	ابايك	(of) your forefathers	ābāika
+13	2:133:20	w	إِبۡرَٰهِـۧمَ	ﲻ	ابراهيم	Ibrahim	ib'rāhīma
+13	2:133:21	w	وَإِسۡمَٰعِيلَ	ﲼ	واسماعيل	and Ishmael	wa-is'māʿīla
+13	2:133:22	w	وَإِسۡحَٰقَ	ﲽ	واسحاق	and Isaac	wa-is'ḥāqa
+13	2:133:23	w	إِلَٰهٗا	ﲾ	الاها	God	ilāhan
+14	2:133:24	w	وَٰحِدٗا	ﲿ	واحدا	One	wāḥidan
+14	2:133:25	w	وَنَحۡنُ	ﳀ	ونحن	And we	wanaḥnu
+14	2:133:26	w	لَهُۥ	ﳁ	له	to Him	lahu
+14	2:133:27	w	مُسۡلِمُونَ	ﳂ	مسلمون	(are) submissive	mus'limūna
+14	2:133:28	e	١٣٣	ﳃ			
+14	2:134:1	w	تِلۡكَ	ﳄ	تلك	This	til'ka
+14	2:134:2	w	أُمَّةٞ	ﳅ	امة	(was) a community	ummatun
+14	2:134:3	w	قَدۡ	ﳆ	قد	(which)	qad
+14	2:134:4	w	خَلَتۡۖ	ﳇﳈ	خلت	has passed away	khalat
+14	2:134:5	w	لَهَا	ﳉ	لها	for it	lahā
+14	2:134:6	w	مَا	ﳊ	ما	what	mā
+14	2:134:7	w	كَسَبَتۡ	ﳋ	كسبت	it earned	kasabat
+15	2:134:8	w	وَلَكُم	ﳌ	ولكم	and for you	walakum
+15	2:134:9	w	مَّا	ﳍ	ما	what	mā
+15	2:134:10	w	كَسَبۡتُمۡۖ	ﳎﳏ	كسبتم	you have earned	kasabtum
+15	2:134:11	w	وَلَا	ﳐ	ولا	And not	walā
+15	2:134:12	w	تُسۡـَٔلُونَ	ﳑ	تسالون	you will be asked	tus'alūna
+15	2:134:13	w	عَمَّا	ﳒ	عما	about what	ʿammā
+15	2:134:14	w	كَانُواْ	ﳓ	كانوا	they used to	kānū
+15	2:134:15	w	يَعۡمَلُونَ	ﳔ	يعملون	do	yaʿmalūna
+15	2:134:16	e	١٣٤	ﳕ			

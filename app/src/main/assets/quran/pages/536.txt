@@ -1,0 +1,148 @@
+1	56:51:1	w	ثُمَّ	ﱁ	ثم	Then	thumma
+1	56:51:2	w	إِنَّكُمۡ	ﱂ	انكم	indeed you	innakum
+1	56:51:3	w	أَيُّهَا	ﱃ	ايها	O those astray	ayyuhā
+1	56:51:4	w	ٱلضَّآلُّونَ	ﱄ	الضالون	O those astray	l-ḍālūna
+1	56:51:5	w	ٱلۡمُكَذِّبُونَ	ﱅ	المكذبون	the deniers	l-mukadhibūna
+1	56:51:6	e	٥١	ﱆ			
+1	56:52:1	w	لَأٓكِلُونَ	ﱇ	لاكلون	Will surely eat	laākilūna
+1	56:52:2	w	مِن	ﱈ	من	from	min
+1	56:52:3	w	شَجَرٖ	ﱉ	شجر	(the) tree	shajarin
+1	56:52:4	w	مِّن	ﱊ	من	of	min
+1	56:52:5	w	زَقُّومٖ	ﱋ	زقوم	Zaqqum	zaqqūmin
+1	56:52:6	e	٥٢	ﱌ			
+2	56:53:1	w	فَمَالِـُٔونَ	ﱍ	فماليون	Then will fill	famāliūna
+2	56:53:2	w	مِنۡهَا	ﱎ	منها	with it	min'hā
+2	56:53:3	w	ٱلۡبُطُونَ	ﱏ	البطون	the bellies	l-buṭūna
+2	56:53:4	e	٥٣	ﱐ			
+2	56:54:1	w	فَشَٰرِبُونَ	ﱑ	فشاربون	And drink	fashāribūna
+2	56:54:2	w	عَلَيۡهِ	ﱒ	عليه	over it	ʿalayhi
+2	56:54:3	w	مِنَ	ﱓ	من	[from]	mina
+2	56:54:4	w	ٱلۡحَمِيمِ	ﱔ	الحميم	the scalding water	l-ḥamīmi
+2	56:54:5	e	٥٤	ﱕ			
+2	56:55:1	w	فَشَٰرِبُونَ	ﱖ	فشاربون	And will drink	fashāribūna
+3	56:55:2	w	شُرۡبَ	ﱗ	شرب	(as) drinking	shur'ba
+3	56:55:3	w	ٱلۡهِيمِ	ﱘ	الهيم	(of) the thirsty camels	l-hīmi
+3	56:55:4	e	٥٥	ﱙ			
+3	56:56:1	w	هَٰذَا	ﱚ	هاذا	This	hādhā
+3	56:56:2	w	نُزُلُهُمۡ	ﱛ	نزلهم	(is) their hospitality	nuzuluhum
+3	56:56:3	w	يَوۡمَ	ﱜ	يوم	(on the) Day	yawma
+3	56:56:4	w	ٱلدِّينِ	ﱝ	الدين	(of) Judgment	l-dīni
+3	56:56:5	e	٥٦	ﱞ			
+3	56:57:1	w	نَحۡنُ	ﱟ	نحن	We	naḥnu
+3	56:57:2	w	خَلَقۡنَٰكُمۡ	ﱠ	خلقناكم	[We] created you	khalaqnākum
+3	56:57:3	w	فَلَوۡلَا	ﱡ	فلولا	so why (do) not	falawlā
+4	56:57:4	w	تُصَدِّقُونَ	ﱢ	تصدقون	you admit the truth	tuṣaddiqūna
+4	56:57:5	e	٥٧	ﱣ			
+4	56:58:1	w	أَفَرَءَيۡتُم	ﱤ	افرايتم	Do you see	afara-aytum
+4	56:58:2	w	مَّا	ﱥ	ما	what	mā
+4	56:58:3	w	تُمۡنُونَ	ﱦ	تمنون	you emit	tum'nūna
+4	56:58:4	e	٥٨	ﱧ			
+4	56:59:1	w	ءَأَنتُمۡ	ﱨ	اانتم	Is it you	a-antum
+4	56:59:2	w	تَخۡلُقُونَهُۥٓ	ﱩ	تخلقونه	who create it	takhluqūnahu
+4	56:59:3	w	أَمۡ	ﱪ	ام	or	am
+4	56:59:4	w	نَحۡنُ	ﱫ	نحن	(are) We	naḥnu
+5	56:59:5	w	ٱلۡخَٰلِقُونَ	ﱬ	الخالقون	the Creators	l-khāliqūna
+5	56:59:6	e	٥٩	ﱭ			
+5	56:60:1	w	نَحۡنُ	ﱮ	نحن	We	naḥnu
+5	56:60:2	w	قَدَّرۡنَا	ﱯ	قدرنا	[We] have decreed	qaddarnā
+5	56:60:3	w	بَيۡنَكُمُ	ﱰ	بينكم	among you	baynakumu
+5	56:60:4	w	ٱلۡمَوۡتَ	ﱱ	الموت	the death	l-mawta
+5	56:60:5	w	وَمَا	ﱲ	وما	and not	wamā
+5	56:60:6	w	نَحۡنُ	ﱳ	نحن	We	naḥnu
+5	56:60:7	w	بِمَسۡبُوقِينَ	ﱴ	بمسبوقين	(are) outrun	bimasbūqīna
+5	56:60:8	e	٦٠	ﱵ			
+6	56:61:1	w	عَلَىٰٓ	ﱶ	على	In	ʿalā
+6	56:61:2	w	أَن	ﱷ	ان	that	an
+6	56:61:3	w	نُّبَدِّلَ	ﱸ	نبدل	We (will) change	nubaddila
+6	56:61:4	w	أَمۡثَٰلَكُمۡ	ﱹ	امثالكم	your likeness[es]	amthālakum
+6	56:61:5	w	وَنُنشِئَكُمۡ	ﱺ	وننشيكم	and produce you	wanunshi-akum
+6	56:61:6	w	فِي	ﱻ	في	in	fī
+6	56:61:7	w	مَا	ﱼ	ما	what	mā
+6	56:61:8	w	لَا	ﱽ	لا	not	lā
+6	56:61:9	w	تَعۡلَمُونَ	ﱾ	تعلمون	you know	taʿlamūna
+6	56:61:10	e	٦١	ﱿ			
+6	56:62:1	w	وَلَقَدۡ	ﲀ	ولقد	And certainly	walaqad
+7	56:62:2	w	عَلِمۡتُمُ	ﲁ	علمتم	you know	ʿalim'tumu
+7	56:62:3	w	ٱلنَّشۡأَةَ	ﲂ	النشاة	the creation	l-nashata
+7	56:62:4	w	ٱلۡأُولَىٰ	ﲃ	الاولى	the first	l-ūlā
+7	56:62:5	w	فَلَوۡلَا	ﲄ	فلولا	so why not	falawlā
+7	56:62:6	w	تَذَكَّرُونَ	ﲅ	تذكرون	you take heed	tadhakkarūna
+7	56:62:7	e	٦٢	ﲆ			
+7	56:63:1	w	أَفَرَءَيۡتُم	ﲇ	افرايتم	And do you see	afara-aytum
+7	56:63:2	w	مَّا	ﲈ	ما	what	mā
+7	56:63:3	w	تَحۡرُثُونَ	ﲉ	تحرثون	you sow	taḥruthūna
+8	56:63:4	e	٦٣	ﲊ			
+8	56:64:1	w	ءَأَنتُمۡ	ﲋ	اانتم	Is it you (who)	a-antum
+8	56:64:2	w	تَزۡرَعُونَهُۥٓ	ﲌ	تزرعونه	cause it to grow	tazraʿūnahu
+8	56:64:3	w	أَمۡ	ﲍ	ام	or	am
+8	56:64:4	w	نَحۡنُ	ﲎ	نحن	(are) We	naḥnu
+8	56:64:5	w	ٱلزَّٰرِعُونَ	ﲏ	الزارعون	the Ones Who grow	l-zāriʿūna
+8	56:64:6	e	٦٤	ﲐ			
+8	56:65:1	w	لَوۡ	ﲑ	لو	If	law
+8	56:65:2	w	نَشَآءُ	ﲒ	نشاء	We willed	nashāu
+8	56:65:3	w	لَجَعَلۡنَٰهُ	ﲓ	لجعلناه	We (would) surely, make it	lajaʿalnāhu
+9	56:65:4	w	حُطَٰمٗا	ﲔ	حطاما	debris	ḥuṭāman
+9	56:65:5	w	فَظَلۡتُمۡ	ﲕ	فظلتم	then you would remain	faẓaltum
+9	56:65:6	w	تَفَكَّهُونَ	ﲖ	تفكهون	wondering	tafakkahūna
+9	56:65:7	e	٦٥	ﲗ			
+9	56:66:1	w	إِنَّا	ﲘ	انا	Indeed, we	innā
+9	56:66:2	w	لَمُغۡرَمُونَ	ﲙ	لمغرمون	surely are laden with debt	lamugh'ramūna
+9	56:66:3	e	٦٦	ﲚ			
+9	56:67:1	w	بَلۡ	ﲛ	بل	Nay	bal
+9	56:67:2	w	نَحۡنُ	ﲜ	نحن	we	naḥnu
+10	56:67:3	w	مَحۡرُومُونَ	ﲝ	محرومون	(are) deprived	maḥrūmūna
+10	56:67:4	e	٦٧	ﲞ			
+10	56:68:1	w	أَفَرَءَيۡتُمُ	ﲟ	افرايتم	Do you see	afara-aytumu
+10	56:68:2	w	ٱلۡمَآءَ	ﲠ	الماء	the water	l-māa
+10	56:68:3	w	ٱلَّذِي	ﲡ	الذي	which	alladhī
+10	56:68:4	w	تَشۡرَبُونَ	ﲢ	تشربون	you drink	tashrabūna
+10	56:68:5	e	٦٨	ﲣ			
+10	56:69:1	w	ءَأَنتُمۡ	ﲤ	اانتم	Is it you	a-antum
+10	56:69:2	w	أَنزَلۡتُمُوهُ	ﲥ	انزلتموه	who send it down	anzaltumūhu
+11	56:69:3	w	مِنَ	ﲦ	من	from	mina
+11	56:69:4	w	ٱلۡمُزۡنِ	ﲧ	المزن	the rain clouds	l-muz'ni
+11	56:69:5	w	أَمۡ	ﲨ	ام	or	am
+11	56:69:6	w	نَحۡنُ	ﲩ	نحن	We	naḥnu
+11	56:69:7	w	ٱلۡمُنزِلُونَ	ﲪ	المنزلون	(are) the Ones to send	l-munzilūna
+11	56:69:8	e	٦٩	ﲫ			
+11	56:70:1	w	لَوۡ	ﲬ	لو	If	law
+11	56:70:2	w	نَشَآءُ	ﲭ	نشاء	We willed	nashāu
+11	56:70:3	w	جَعَلۡنَٰهُ	ﲮ	جعلناه	We (could) make it	jaʿalnāhu
+11	56:70:4	w	أُجَاجٗا	ﲯ	اجاجا	salty	ujājan
+11	56:70:5	w	فَلَوۡلَا	ﲰ	فلولا	then why are you not grateful	falawlā
+12	56:70:6	w	تَشۡكُرُونَ	ﲱ	تشكرون	then why are you not grateful	tashkurūna
+12	56:70:7	e	٧٠	ﲲ			
+12	56:71:1	w	أَفَرَءَيۡتُمُ	ﲳ	افرايتم	Do you see	afara-aytumu
+12	56:71:2	w	ٱلنَّارَ	ﲴ	النار	the Fire	l-nāra
+12	56:71:3	w	ٱلَّتِي	ﲵ	التي	which	allatī
+12	56:71:4	w	تُورُونَ	ﲶ	تورون	you ignite	tūrūna
+12	56:71:5	e	٧١	ﲷ			
+12	56:72:1	w	ءَأَنتُمۡ	ﲸ	اانتم	Is it you	a-antum
+12	56:72:2	w	أَنشَأۡتُمۡ	ﲹ	انشاتم	who produced	anshatum
+13	56:72:3	w	شَجَرَتَهَآ	ﲺ	شجرتها	its tree	shajaratahā
+13	56:72:4	w	أَمۡ	ﲻ	ام	or	am
+13	56:72:5	w	نَحۡنُ	ﲼ	نحن	We	naḥnu
+13	56:72:6	w	ٱلۡمُنشِـُٔونَ	ﲽ	المنشيون	(are) the Producers	l-munshiūna
+13	56:72:7	e	٧٢	ﲾ			
+13	56:73:1	w	نَحۡنُ	ﲿ	نحن	We	naḥnu
+13	56:73:2	w	جَعَلۡنَٰهَا	ﳀ	جعلناها	have made it	jaʿalnāhā
+13	56:73:3	w	تَذۡكِرَةٗ	ﳁ	تذكرة	a reminder	tadhkiratan
+13	56:73:4	w	وَمَتَٰعٗا	ﳂ	ومتاعا	and a provision	wamatāʿan
+14	56:73:5	w	لِّلۡمُقۡوِينَ	ﳃ	للمقوين	for the wayfarers in the desert	lil'muq'wīna
+14	56:73:6	e	٧٣	ﳄ			
+14	56:74:1	w	فَسَبِّحۡ	ﳅ	فسبح	So glorify	fasabbiḥ
+14	56:74:2	w	بِٱسۡمِ	ﳆ	باسم	(the) name	bi-is'mi
+14	56:74:3	w	رَبِّكَ	ﳇ	ربك	(of) your Lord	rabbika
+14	56:74:4	w	ٱلۡعَظِيمِ	ﳈ	العظيم	the Most Great	l-ʿaẓīmi
+14	56:74:5	e	٧٤	ﳉ			
+14	56:75:1	w	۞ فَلَآ	ﳊ ﳋ	۞ فلا	But nay	falā
+14	56:75:2	w	أُقۡسِمُ	ﳌ	اقسم	I swear	uq'simu
+15	56:75:3	w	بِمَوَٰقِعِ	ﳍ	بمواقع	by setting	bimawāqiʿi
+15	56:75:4	w	ٱلنُّجُومِ	ﳎ	النجوم	(of) the stars	l-nujūmi
+15	56:75:5	e	٧٥	ﳏ			
+15	56:76:1	w	وَإِنَّهُۥ	ﳐ	وانه	And indeed, it	wa-innahu
+15	56:76:2	w	لَقَسَمٞ	ﳑ	لقسم	(is) surely an oath	laqasamun
+15	56:76:3	w	لَّوۡ	ﳒ	لو	if	law
+15	56:76:4	w	تَعۡلَمُونَ	ﳓ	تعلمون	you know	taʿlamūna
+15	56:76:5	w	عَظِيمٌ	ﳔ	عظيم	great	ʿaẓīmun
+15	56:76:6	e	٧٦	ﳕ			

@@ -1,0 +1,136 @@
+1	2:234:1	w	وَٱلَّذِينَ	ﱁ	والذين	And those who	wa-alladhīna
+1	2:234:2	w	يُتَوَفَّوۡنَ	ﱂ	يتوفون	pass away	yutawaffawna
+1	2:234:3	w	مِنكُمۡ	ﱃ	منكم	among you	minkum
+1	2:234:4	w	وَيَذَرُونَ	ﱄ	ويذرون	and leave behind	wayadharūna
+1	2:234:5	w	أَزۡوَٰجٗا	ﱅ	ازواجا	wives	azwājan
+1	2:234:6	w	يَتَرَبَّصۡنَ	ﱆ	يتربصن	(the widows) should wait	yatarabbaṣna
+1	2:234:7	w	بِأَنفُسِهِنَّ	ﱇ	بانفسهن	for themselves	bi-anfusihinna
+2	2:234:8	w	أَرۡبَعَةَ	ﱈ	اربعة	(for) four	arbaʿata
+2	2:234:9	w	أَشۡهُرٖ	ﱉ	اشهر	months	ashhurin
+2	2:234:10	w	وَعَشۡرٗاۖ	ﱊﱋ	وعشرا	and ten (days)	waʿashran
+2	2:234:11	w	فَإِذَا	ﱌ	فاذا	Then when	fa-idhā
+2	2:234:12	w	بَلَغۡنَ	ﱍ	بلغن	they reach	balaghna
+2	2:234:13	w	أَجَلَهُنَّ	ﱎ	اجلهن	their (specified) term	ajalahunna
+2	2:234:14	w	فَلَا	ﱏ	فلا	then (there is) no	falā
+2	2:234:15	w	جُنَاحَ	ﱐ	جناح	blame	junāḥa
+2	2:234:16	w	عَلَيۡكُمۡ	ﱑ	عليكم	upon you	ʿalaykum
+3	2:234:17	w	فِيمَا	ﱒ	فيما	for what	fīmā
+3	2:234:18	w	فَعَلۡنَ	ﱓ	فعلن	they do	faʿalna
+3	2:234:19	w	فِيٓ	ﱔ	في	concerning	fī
+3	2:234:20	w	أَنفُسِهِنَّ	ﱕ	انفسهن	themselves	anfusihinna
+3	2:234:21	w	بِٱلۡمَعۡرُوفِۗ	ﱖﱗ	بالمعروف	in a fair manner	bil-maʿrūfi
+3	2:234:22	w	وَٱللَّهُ	ﱘ	والله	And Allah	wal-lahu
+3	2:234:23	w	بِمَا	ﱙ	بما	of what	bimā
+3	2:234:24	w	تَعۡمَلُونَ	ﱚ	تعملون	you do	taʿmalūna
+3	2:234:25	w	خَبِيرٞ	ﱛ	خبير	(is) All-Aware	khabīrun
+4	2:234:26	e	٢٣٤	ﱜ			
+4	2:235:1	w	وَلَا	ﱝ	ولا	And (there is) no	walā
+4	2:235:2	w	جُنَاحَ	ﱞ	جناح	blame	junāḥa
+4	2:235:3	w	عَلَيۡكُمۡ	ﱟ	عليكم	upon you	ʿalaykum
+4	2:235:4	w	فِيمَا	ﱠ	فيما	in what	fīmā
+4	2:235:5	w	عَرَّضۡتُم	ﱡ	عرضتم	you hint	ʿarraḍtum
+4	2:235:6	w	بِهِۦ	ﱢ	به	[with it]	bihi
+4	2:235:7	w	مِنۡ	ﱣ	من	of	min
+4	2:235:8	w	خِطۡبَةِ	ﱤ	خطبة	marriage proposal	khiṭ'bati
+4	2:235:9	w	ٱلنِّسَآءِ	ﱥ	النساء	[to] the women	l-nisāi
+5	2:235:10	w	أَوۡ	ﱦ	او	or	aw
+5	2:235:11	w	أَكۡنَنتُمۡ	ﱧ	اكننتم	you conceal it	aknantum
+5	2:235:12	w	فِيٓ	ﱨ	في	in	fī
+5	2:235:13	w	أَنفُسِكُمۡۚ	ﱩﱪ	انفسكم	yourselves	anfusikum
+5	2:235:14	w	عَلِمَ	ﱫ	علم	Knows	ʿalima
+5	2:235:15	w	ٱللَّهُ	ﱬ	الله	Allah	l-lahu
+5	2:235:16	w	أَنَّكُمۡ	ﱭ	انكم	that you	annakum
+5	2:235:17	w	سَتَذۡكُرُونَهُنَّ	ﱮ	ستذكرونهن	will mention them	satadhkurūnahunna
+6	2:235:18	w	وَلَٰكِن	ﱯ	ولاكن	[and] but	walākin
+6	2:235:19	w	لَّا	ﱰ	لا	(do) not	lā
+6	2:235:20	w	تُوَاعِدُوهُنَّ	ﱱ	تواعدوهن	promise them (widows)	tuwāʿidūhunna
+6	2:235:21	w	سِرًّا	ﱲ	سرا	secretly	sirran
+6	2:235:22	w	إِلَّآ	ﱳ	الا	except	illā
+6	2:235:23	w	أَن	ﱴ	ان	that	an
+6	2:235:24	w	تَقُولُواْ	ﱵ	تقولوا	you say	taqūlū
+6	2:235:25	w	قَوۡلٗا	ﱶ	قولا	a saying	qawlan
+6	2:235:26	w	مَّعۡرُوفٗاۚ	ﱷﱸ	معروفا	honorable	maʿrūfan
+7	2:235:27	w	وَلَا	ﱹ	ولا	And (do) not	walā
+7	2:235:28	w	تَعۡزِمُواْ	ﱺ	تعزموا	resolve (on)	taʿzimū
+7	2:235:29	w	عُقۡدَةَ	ﱻ	عقدة	the knot	ʿuq'data
+7	2:235:30	w	ٱلنِّكَاحِ	ﱼ	النكاح	(of) marriage	l-nikāḥi
+7	2:235:31	w	حَتَّىٰ	ﱽ	حتى	until	ḥattā
+7	2:235:32	w	يَبۡلُغَ	ﱾ	يبلغ	reaches	yablugha
+7	2:235:33	w	ٱلۡكِتَٰبُ	ﱿ	الكتاب	the prescribed term	l-kitābu
+7	2:235:34	w	أَجَلَهُۥۚ	ﲀﲁ	اجله	its end	ajalahu
+8	2:235:35	w	وَٱعۡلَمُوٓاْ	ﲂ	واعلموا	And know	wa-iʿ'lamū
+8	2:235:36	w	أَنَّ	ﲃ	ان	that	anna
+8	2:235:37	w	ٱللَّهَ	ﲄ	الله	Allah	l-laha
+8	2:235:38	w	يَعۡلَمُ	ﲅ	يعلم	knows	yaʿlamu
+8	2:235:39	w	مَا	ﲆ	ما	what	mā
+8	2:235:40	w	فِيٓ	ﲇ	في	(is) within	fī
+8	2:235:41	w	أَنفُسِكُمۡ	ﲈ	انفسكم	yourselves	anfusikum
+8	2:235:42	w	فَٱحۡذَرُوهُۚ	ﲉﲊ	فاحذروه	so beware of Him	fa-iḥ'dharūhu
+8	2:235:43	w	وَٱعۡلَمُوٓاْ	ﲋ	واعلموا	And know	wa-iʿ'lamū
+9	2:235:44	w	أَنَّ	ﲌ	ان	that	anna
+9	2:235:45	w	ٱللَّهَ	ﲍ	الله	Allah	l-laha
+9	2:235:46	w	غَفُورٌ	ﲎ	غفور	(is) Oft-Forgiving	ghafūrun
+9	2:235:47	w	حَلِيمٞ	ﲏ	حليم	Most Forbearing	ḥalīmun
+9	2:235:48	e	٢٣٥	ﲐ			
+9	2:236:1	w	لَّا	ﲑ	لا	(There is) no	lā
+9	2:236:2	w	جُنَاحَ	ﲒ	جناح	blame	junāḥa
+9	2:236:3	w	عَلَيۡكُمۡ	ﲓ	عليكم	upon you	ʿalaykum
+9	2:236:4	w	إِن	ﲔ	ان	if	in
+9	2:236:5	w	طَلَّقۡتُمُ	ﲕ	طلقتم	you divorce	ṭallaqtumu
+9	2:236:6	w	ٱلنِّسَآءَ	ﲖ	النساء	[the] women	l-nisāa
+10	2:236:7	w	مَا	ﲗ	ما	whom	mā
+10	2:236:8	w	لَمۡ	ﲘ	لم	not	lam
+10	2:236:9	w	تَمَسُّوهُنَّ	ﲙ	تمسوهن	you have touched	tamassūhunna
+10	2:236:10	w	أَوۡ	ﲚ	او	nor	aw
+10	2:236:11	w	تَفۡرِضُواْ	ﲛ	تفرضوا	you specified	tafriḍū
+10	2:236:12	w	لَهُنَّ	ﲜ	لهن	for them	lahunna
+10	2:236:13	w	فَرِيضَةٗۚ	ﲝﲞ	فريضة	an obligation (dower)	farīḍatan
+10	2:236:14	w	وَمَتِّعُوهُنَّ	ﲟ	ومتعوهن	And make provision for them	wamattiʿūhunna
+10	2:236:15	w	عَلَى	ﲠ	على	upon	ʿalā
+11	2:236:16	w	ٱلۡمُوسِعِ	ﲡ	الموسع	the wealthy	l-mūsiʿi
+11	2:236:17	w	قَدَرُهُۥ	ﲢ	قدره	according to his means	qadaruhu
+11	2:236:18	w	وَعَلَى	ﲣ	وعلى	and upon	waʿalā
+11	2:236:19	w	ٱلۡمُقۡتِرِ	ﲤ	المقتر	the poor	l-muq'tiri
+11	2:236:20	w	قَدَرُهُۥ	ﲥ	قدره	according to his means	qadaruhu
+11	2:236:21	w	مَتَٰعَۢا	ﲦ	متاعا	a provision	matāʿan
+11	2:236:22	w	بِٱلۡمَعۡرُوفِۖ	ﲧﲨ	بالمعروف	in a fair manner	bil-maʿrūfi
+11	2:236:23	w	حَقًّا	ﲩ	حقا	a duty	ḥaqqan
+11	2:236:24	w	عَلَى	ﲪ	على	upon	ʿalā
+12	2:236:25	w	ٱلۡمُحۡسِنِينَ	ﲫ	المحسنين	the good-doers	l-muḥ'sinīna
+12	2:236:26	e	٢٣٦	ﲬ			
+12	2:237:1	w	وَإِن	ﲭ	وان	And if	wa-in
+12	2:237:2	w	طَلَّقۡتُمُوهُنَّ	ﲮ	طلقتموهن	you divorce them	ṭallaqtumūhunna
+12	2:237:3	w	مِن	ﲯ	من	from	min
+12	2:237:4	w	قَبۡلِ	ﲰ	قبل	before	qabli
+12	2:237:5	w	أَن	ﲱ	ان	[that]	an
+12	2:237:6	w	تَمَسُّوهُنَّ	ﲲ	تمسوهن	you (have) touched them	tamassūhunna
+12	2:237:7	w	وَقَدۡ	ﲳ	وقد	while already	waqad
+13	2:237:8	w	فَرَضۡتُمۡ	ﲴ	فرضتم	you have specified	faraḍtum
+13	2:237:9	w	لَهُنَّ	ﲵ	لهن	for them	lahunna
+13	2:237:10	w	فَرِيضَةٗ	ﲶ	فريضة	an obligation (dower)	farīḍatan
+13	2:237:11	w	فَنِصۡفُ	ﲷ	فنصف	then (give) half	faniṣ'fu
+13	2:237:12	w	مَا	ﲸ	ما	(of) what	mā
+13	2:237:13	w	فَرَضۡتُمۡ	ﲹ	فرضتم	you have specified	faraḍtum
+13	2:237:14	w	إِلَّآ	ﲺ	الا	unless	illā
+13	2:237:15	w	أَن	ﲻ	ان	[that]	an
+13	2:237:16	w	يَعۡفُونَ	ﲼ	يعفون	they (women) forgo (it)	yaʿfūna
+14	2:237:17	w	أَوۡ	ﲽ	او	or	aw
+14	2:237:18	w	يَعۡفُوَاْ	ﲾ	يعفو	forgoes	yaʿfuwā
+14	2:237:19	w	ٱلَّذِي	ﲿ	الذي	the one	alladhī
+14	2:237:20	w	بِيَدِهِۦ	ﳀ	بيده	in whose hands	biyadihi
+14	2:237:21	w	عُقۡدَةُ	ﳁ	عقدة	(is the) knot	ʿuq'datu
+14	2:237:22	w	ٱلنِّكَاحِۚ	ﳂﳃ	النكاح	(of) the marriage	l-nikāḥi
+14	2:237:23	w	وَأَن	ﳄ	وان	And that	wa-an
+14	2:237:24	w	تَعۡفُوٓاْ	ﳅ	تعفوا	you forgo	taʿfū
+14	2:237:25	w	أَقۡرَبُ	ﳆ	اقرب	(is) nearer	aqrabu
+14	2:237:26	w	لِلتَّقۡوَىٰۚ	ﳇﳈ	للتقوى	to [the] righteousness	lilttaqwā
+15	2:237:27	w	وَلَا	ﳉ	ولا	And (do) not	walā
+15	2:237:28	w	تَنسَوُاْ	ﳊ	تنسوا	forget	tansawū
+15	2:237:29	w	ٱلۡفَضۡلَ	ﳋ	الفضل	the graciousness	l-faḍla
+15	2:237:30	w	بَيۡنَكُمۡۚ	ﳌﳍ	بينكم	among you	baynakum
+15	2:237:31	w	إِنَّ	ﳎ	ان	Indeed	inna
+15	2:237:32	w	ٱللَّهَ	ﳏ	الله	Allah	l-laha
+15	2:237:33	w	بِمَا	ﳐ	بما	of what	bimā
+15	2:237:34	w	تَعۡمَلُونَ	ﳑ	تعملون	you do	taʿmalūna
+15	2:237:35	w	بَصِيرٌ	ﳒ	بصير	(is) All-Seer	baṣīrun
+15	2:237:36	e	٢٣٧	ﳓ			

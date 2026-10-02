@@ -1,0 +1,142 @@
+1	12:70:1	w	فَلَمَّا	ﱁ	فلما	So when	falammā
+1	12:70:2	w	جَهَّزَهُم	ﱂ	جهزهم	he had furnished them	jahhazahum
+1	12:70:3	w	بِجَهَازِهِمۡ	ﱃ	بجهازهم	with their supplies	bijahāzihim
+1	12:70:4	w	جَعَلَ	ﱄ	جعل	he put	jaʿala
+1	12:70:5	w	ٱلسِّقَايَةَ	ﱅ	السقاية	the drinking cup	l-siqāyata
+1	12:70:6	w	فِي	ﱆ	في	in	fī
+1	12:70:7	w	رَحۡلِ	ﱇ	رحل	the bag	raḥli
+1	12:70:8	w	أَخِيهِ	ﱈ	اخيه	(of) his brother	akhīhi
+2	12:70:9	w	ثُمَّ	ﱉ	ثم	Then	thumma
+2	12:70:10	w	أَذَّنَ	ﱊ	اذن	called out	adhana
+2	12:70:11	w	مُؤَذِّنٌ	ﱋ	موذن	an announcer	mu-adhinun
+2	12:70:12	w	أَيَّتُهَا	ﱌ	ايتها	O you	ayyatuhā
+2	12:70:13	w	ٱلۡعِيرُ	ﱍ	العير	(in) the caravan	l-ʿīru
+2	12:70:14	w	إِنَّكُمۡ	ﱎ	انكم	Indeed, you	innakum
+2	12:70:15	w	لَسَٰرِقُونَ	ﱏ	لسارقون	surely (are) thieves	lasāriqūna
+2	12:70:16	e	٧٠	ﱐ			
+2	12:71:1	w	قَالُواْ	ﱑ	قالوا	They said	qālū
+3	12:71:2	w	وَأَقۡبَلُواْ	ﱒ	واقبلوا	turning towards	wa-aqbalū
+3	12:71:3	w	عَلَيۡهِم	ﱓ	عليهم	them	ʿalayhim
+3	12:71:4	w	مَّاذَا	ﱔ	ماذا	What (is it)	mādhā
+3	12:71:5	w	تَفۡقِدُونَ	ﱕ	تفقدون	you miss	tafqidūna
+3	12:71:6	e	٧١	ﱖ			
+3	12:72:1	w	قَالُواْ	ﱗ	قالوا	They said	qālū
+3	12:72:2	w	نَفۡقِدُ	ﱘ	نفقد	We are missing	nafqidu
+3	12:72:3	w	صُوَاعَ	ﱙ	صواع	(the) cup	ṣuwāʿa
+3	12:72:4	w	ٱلۡمَلِكِ	ﱚ	الملك	(of) the king	l-maliki
+4	12:72:5	w	وَلِمَن	ﱛ	ولمن	And for (one) who	waliman
+4	12:72:6	w	جَآءَ	ﱜ	جاء	brings	jāa
+4	12:72:7	w	بِهِۦ	ﱝ	به	it	bihi
+4	12:72:8	w	حِمۡلُ	ﱞ	حمل	(is) a load	ḥim'lu
+4	12:72:9	w	بَعِيرٖ	ﱟ	بعير	(of) a camel	baʿīrin
+4	12:72:10	w	وَأَنَا۠	ﱠ	وانا	and I	wa-anā
+4	12:72:11	w	بِهِۦ	ﱡ	به	for it	bihi
+4	12:72:12	w	زَعِيمٞ	ﱢ	زعيم	(is) responsible	zaʿīmun
+4	12:72:13	e	٧٢	ﱣ			
+4	12:73:1	w	قَالُواْ	ﱤ	قالوا	They said	qālū
+4	12:73:2	w	تَٱللَّهِ	ﱥ	تالله	By Allah	tal-lahi
+5	12:73:3	w	لَقَدۡ	ﱦ	لقد	certainly	laqad
+5	12:73:4	w	عَلِمۡتُم	ﱧ	علمتم	you know	ʿalim'tum
+5	12:73:5	w	مَّا	ﱨ	ما	not	mā
+5	12:73:6	w	جِئۡنَا	ﱩ	جينا	we came	ji'nā
+5	12:73:7	w	لِنُفۡسِدَ	ﱪ	لنفسد	that we cause corruption	linuf'sida
+5	12:73:8	w	فِي	ﱫ	في	in	fī
+5	12:73:9	w	ٱلۡأَرۡضِ	ﱬ	الارض	the land	l-arḍi
+5	12:73:10	w	وَمَا	ﱭ	وما	and not	wamā
+5	12:73:11	w	كُنَّا	ﱮ	كنا	we are	kunnā
+5	12:73:12	w	سَٰرِقِينَ	ﱯ	سارقين	thieves	sāriqīna
+6	12:73:13	e	٧٣	ﱰ			
+6	12:74:1	w	قَالُواْ	ﱱ	قالوا	They said	qālū
+6	12:74:2	w	فَمَا	ﱲ	فما	Then what	famā
+6	12:74:3	w	جَزَٰٓؤُهُۥٓ	ﱳ	جزاوه	(will be the) recompense (of) it	jazāuhu
+6	12:74:4	w	إِن	ﱴ	ان	if	in
+6	12:74:5	w	كُنتُمۡ	ﱵ	كنتم	you are	kuntum
+6	12:74:6	w	كَٰذِبِينَ	ﱶ	كاذبين	liars	kādhibīna
+6	12:74:7	e	٧٤	ﱷ			
+6	12:75:1	w	قَالُواْ	ﱸ	قالوا	They said	qālū
+6	12:75:2	w	جَزَٰٓؤُهُۥ	ﱹ	جزاوه	Its recompense	jazāuhu
+7	12:75:3	w	مَن	ﱺ	من	(is that one) who	man
+7	12:75:4	w	وُجِدَ	ﱻ	وجد	it is found	wujida
+7	12:75:5	w	فِي	ﱼ	في	in	fī
+7	12:75:6	w	رَحۡلِهِۦ	ﱽ	رحله	his bag	raḥlihi
+7	12:75:7	w	فَهُوَ	ﱾ	فهو	then he	fahuwa
+7	12:75:8	w	جَزَٰٓؤُهُۥۚ	ﱿﲀ	جزاوه	(will be) his recompense	jazāuhu
+7	12:75:9	w	كَذَٰلِكَ	ﲁ	كذالك	Thus	kadhālika
+7	12:75:10	w	نَجۡزِي	ﲂ	نجزي	(do) we recompense	najzī
+7	12:75:11	w	ٱلظَّٰلِمِينَ	ﲃ	الظالمين	the wrongdoers	l-ẓālimīna
+8	12:75:12	e	٧٥	ﲄ			
+8	12:76:1	w	فَبَدَأَ	ﲅ	فبدا	So he began	fabada-a
+8	12:76:2	w	بِأَوۡعِيَتِهِمۡ	ﲆ	باوعيتهم	with their bags	bi-awʿiyatihim
+8	12:76:3	w	قَبۡلَ	ﲇ	قبل	before	qabla
+8	12:76:4	w	وِعَآءِ	ﲈ	وعاء	(the) bag	wiʿāi
+8	12:76:5	w	أَخِيهِ	ﲉ	اخيه	(of) his brother	akhīhi
+8	12:76:6	w	ثُمَّ	ﲊ	ثم	then	thumma
+8	12:76:7	w	ٱسۡتَخۡرَجَهَا	ﲋ	استخرجها	he brought it out	is'takhrajahā
+8	12:76:8	w	مِن	ﲌ	من	from	min
+9	12:76:9	w	وِعَآءِ	ﲍ	وعاء	(the) bag	wiʿāi
+9	12:76:10	w	أَخِيهِۚ	ﲎﲏ	اخيه	(of) his brother	akhīhi
+9	12:76:11	w	كَذَٰلِكَ	ﲐ	كذالك	Thus	kadhālika
+9	12:76:12	w	كِدۡنَا	ﲑ	كدنا	(did) We plan	kid'nā
+9	12:76:13	w	لِيُوسُفَۖ	ﲒﲓ	ليوسف	for Yusuf	liyūsufa
+9	12:76:14	w	مَا	ﲔ	ما	He could not	mā
+9	12:76:15	w	كَانَ	ﲕ	كان	He could not	kāna
+9	12:76:16	w	لِيَأۡخُذَ	ﲖ	لياخذ	take	liyakhudha
+9	12:76:17	w	أَخَاهُ	ﲗ	اخاه	his brother	akhāhu
+10	12:76:18	w	فِي	ﲘ	في	by	fī
+10	12:76:19	w	دِينِ	ﲙ	دين	the law	dīni
+10	12:76:20	w	ٱلۡمَلِكِ	ﲚ	الملك	(of) the king	l-maliki
+10	12:76:21	w	إِلَّآ	ﲛ	الا	except	illā
+10	12:76:22	w	أَن	ﲜ	ان	that	an
+10	12:76:23	w	يَشَآءَ	ﲝ	يشاء	Allah willed	yashāa
+10	12:76:24	w	ٱللَّهُۚ	ﲞﲟ	الله	Allah willed	l-lahu
+10	12:76:25	w	نَرۡفَعُ	ﲠ	نرفع	We raise	narfaʿu
+10	12:76:26	w	دَرَجَٰتٖ	ﲡ	درجات	(in) degrees	darajātin
+10	12:76:27	w	مَّن	ﲢ	من	whom	man
+10	12:76:28	w	نَّشَآءُۗ	ﲣﲤ	نشاء	We will	nashāu
+11	12:76:29	w	وَفَوۡقَ	ﲥ	وفوق	but over	wafawqa
+11	12:76:30	w	كُلِّ	ﲦ	كل	every	kulli
+11	12:76:31	w	ذِي	ﲧ	ذي	possessor	dhī
+11	12:76:32	w	عِلۡمٍ	ﲨ	علم	(of) knowledge	ʿil'min
+11	12:76:33	w	عَلِيمٞ	ﲩ	عليم	(is) the All-Knower	ʿalīmun
+11	12:76:34	e	٧٦	ﲪ			
+11	12:77:1	w	۞ قَالُوٓاْ	ﲫ ﲬ	۞ قالوا	They said	qālū
+11	12:77:2	w	إِن	ﲭ	ان	If	in
+11	12:77:3	w	يَسۡرِقۡ	ﲮ	يسرق	he steals	yasriq
+12	12:77:4	w	فَقَدۡ	ﲯ	فقد	then verily	faqad
+12	12:77:5	w	سَرَقَ	ﲰ	سرق	stole	saraqa
+12	12:77:6	w	أَخٞ	ﲱ	اخ	a brother	akhun
+12	12:77:7	w	لَّهُۥ	ﲲ	له	of his	lahu
+12	12:77:8	w	مِن	ﲳ	من	before	min
+12	12:77:9	w	قَبۡلُۚ	ﲴﲵ	قبل	before	qablu
+12	12:77:10	w	فَأَسَرَّهَا	ﲶ	فاسرها	But Yusuf kept it secret	fa-asarrahā
+12	12:77:11	w	يُوسُفُ	ﲷ	يوسف	But Yusuf kept it secret	yūsufu
+12	12:77:12	w	فِي	ﲸ	في	within	fī
+12	12:77:13	w	نَفۡسِهِۦ	ﲹ	نفسه	himself	nafsihi
+13	12:77:14	w	وَلَمۡ	ﲺ	ولم	and (did) not	walam
+13	12:77:15	w	يُبۡدِهَا	ﲻ	يبدها	reveal it	yub'dihā
+13	12:77:16	w	لَهُمۡۚ	ﲼﲽ	لهم	to them	lahum
+13	12:77:17	w	قَالَ	ﲾ	قال	He said	qāla
+13	12:77:18	w	أَنتُمۡ	ﲿ	انتم	You	antum
+13	12:77:19	w	شَرّٞ	ﳀ	شر	(are the) worse	sharrun
+13	12:77:20	w	مَّكَانٗاۖ	ﳁﳂ	مكانا	(in) position	makānan
+13	12:77:21	w	وَٱللَّهُ	ﳃ	والله	and Allah	wal-lahu
+13	12:77:22	w	أَعۡلَمُ	ﳄ	اعلم	knows best	aʿlamu
+13	12:77:23	w	بِمَا	ﳅ	بما	of what	bimā
+14	12:77:24	w	تَصِفُونَ	ﳆ	تصفون	you describe	taṣifūna
+14	12:77:25	e	٧٧	ﳇ			
+14	12:78:1	w	قَالُواْ	ﳈ	قالوا	They said	qālū
+14	12:78:2	w	يَٰٓأَيُّهَا	ﳉ	يا ايها	O	yāayyuhā
+14	12:78:3	w	ٱلۡعَزِيزُ	ﳊ	العزيز	Aziz	l-ʿazīzu
+14	12:78:4	w	إِنَّ	ﳋ	ان	Indeed	inna
+14	12:78:5	w	لَهُۥٓ	ﳌ	له	he has	lahu
+14	12:78:6	w	أَبٗا	ﳍ	ابا	a father	aban
+14	12:78:7	w	شَيۡخٗا	ﳎ	شيخا	old	shaykhan
+14	12:78:8	w	كَبِيرٗا	ﳏ	كبيرا	[great]	kabīran
+15	12:78:9	w	فَخُذۡ	ﳐ	فخذ	so take	fakhudh
+15	12:78:10	w	أَحَدَنَا	ﳑ	احدنا	one of us	aḥadanā
+15	12:78:11	w	مَكَانَهُۥٓۖ	ﳒﳓ	مكانه	(in) his place	makānahu
+15	12:78:12	w	إِنَّا	ﳔ	انا	Indeed, we	innā
+15	12:78:13	w	نَرَىٰكَ	ﳕ	نراك	[we] see you	narāka
+15	12:78:14	w	مِنَ	ﳖ	من	of	mina
+15	12:78:15	w	ٱلۡمُحۡسِنِينَ	ﳗ	المحسنين	the good-doers	l-muḥ'sinīna
+15	12:78:16	e	٧٨	ﳘ			

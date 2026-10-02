@@ -1,0 +1,155 @@
+1	27:77:1	w	وَإِنَّهُۥ	ﱁ	وانه	And indeed, it	wa-innahu
+1	27:77:2	w	لَهُدٗى	ﱂ	لهدى	(is) surely a guidance	lahudan
+1	27:77:3	w	وَرَحۡمَةٞ	ﱃ	ورحمة	and a mercy	waraḥmatun
+1	27:77:4	w	لِّلۡمُؤۡمِنِينَ	ﱄ	للمومنين	for the believers	lil'mu'minīna
+1	27:77:5	e	٧٧	ﱅ			
+1	27:78:1	w	إِنَّ	ﱆ	ان	Indeed	inna
+1	27:78:2	w	رَبَّكَ	ﱇ	ربك	your Lord	rabbaka
+1	27:78:3	w	يَقۡضِي	ﱈ	يقضي	will judge	yaqḍī
+1	27:78:4	w	بَيۡنَهُم	ﱉ	بينهم	between them	baynahum
+2	27:78:5	w	بِحُكۡمِهِۦۚ	ﱊﱋ	بحكمه	by His Judgment	biḥuk'mihi
+2	27:78:6	w	وَهُوَ	ﱌ	وهو	and He	wahuwa
+2	27:78:7	w	ٱلۡعَزِيزُ	ﱍ	العزيز	(is) the All-Mighty	l-ʿazīzu
+2	27:78:8	w	ٱلۡعَلِيمُ	ﱎ	العليم	the All-Knower	l-ʿalīmu
+2	27:78:9	e	٧٨	ﱏ			
+2	27:79:1	w	فَتَوَكَّلۡ	ﱐ	فتوكل	So put your trust	fatawakkal
+2	27:79:2	w	عَلَى	ﱑ	على	in	ʿalā
+2	27:79:3	w	ٱللَّهِۖ	ﱒﱓ	الله	Allah	l-lahi
+2	27:79:4	w	إِنَّكَ	ﱔ	انك	indeed, you	innaka
+2	27:79:5	w	عَلَى	ﱕ	على	(are) on	ʿalā
+3	27:79:6	w	ٱلۡحَقِّ	ﱖ	الحق	the truth	l-ḥaqi
+3	27:79:7	w	ٱلۡمُبِينِ	ﱗ	المبين	manifest	l-mubīni
+3	27:79:8	e	٧٩	ﱘ			
+3	27:80:1	w	إِنَّكَ	ﱙ	انك	Indeed, you	innaka
+3	27:80:2	w	لَا	ﱚ	لا	(can) not	lā
+3	27:80:3	w	تُسۡمِعُ	ﱛ	تسمع	cause to hear	tus'miʿu
+3	27:80:4	w	ٱلۡمَوۡتَىٰ	ﱜ	الموتى	the dead	l-mawtā
+3	27:80:5	w	وَلَا	ﱝ	ولا	and not	walā
+3	27:80:6	w	تُسۡمِعُ	ﱞ	تسمع	can you cause to hear	tus'miʿu
+3	27:80:7	w	ٱلصُّمَّ	ﱟ	الصم	the deaf	l-ṣuma
+3	27:80:8	w	ٱلدُّعَآءَ	ﱠ	الدعاء	the call	l-duʿāa
+4	27:80:9	w	إِذَا	ﱡ	اذا	when	idhā
+4	27:80:10	w	وَلَّوۡاْ	ﱢ	ولوا	they turn back	wallaw
+4	27:80:11	w	مُدۡبِرِينَ	ﱣ	مدبرين	retreating	mud'birīna
+4	27:80:12	e	٨٠	ﱤ			
+4	27:81:1	w	وَمَآ	ﱥ	وما	And not	wamā
+4	27:81:2	w	أَنتَ	ﱦ	انت	(can) you	anta
+4	27:81:3	w	بِهَٰدِي	ﱧ	بهادي	guide	bihādī
+4	27:81:4	w	ٱلۡعُمۡيِ	ﱨ	العمي	the blind	l-ʿum'yi
+4	27:81:5	w	عَن	ﱩ	عن	from	ʿan
+4	27:81:6	w	ضَلَٰلَتِهِمۡۖ	ﱪﱫ	ضلالتهم	their error	ḍalālatihim
+4	27:81:7	w	إِن	ﱬ	ان	Not	in
+5	27:81:8	w	تُسۡمِعُ	ﱭ	تسمع	you can cause to hear	tus'miʿu
+5	27:81:9	w	إِلَّا	ﱮ	الا	except	illā
+5	27:81:10	w	مَن	ﱯ	من	(those) who	man
+5	27:81:11	w	يُؤۡمِنُ	ﱰ	يومن	believe	yu'minu
+5	27:81:12	w	بِـَٔايَٰتِنَا	ﱱ	باياتنا	in Our Signs	biāyātinā
+5	27:81:13	w	فَهُم	ﱲ	فهم	so they	fahum
+5	27:81:14	w	مُّسۡلِمُونَ	ﱳ	مسلمون	(are) Muslims	mus'limūna
+5	27:81:15	e	٨١	ﱴ			
+5	27:82:1	w	۞ وَإِذَا	ﱵ ﱶ	۞ واذا	And when	wa-idhā
+5	27:82:2	w	وَقَعَ	ﱷ	وقع	(is) fulfilled	waqaʿa
+6	27:82:3	w	ٱلۡقَوۡلُ	ﱸ	القول	the word	l-qawlu
+6	27:82:4	w	عَلَيۡهِمۡ	ﱹ	عليهم	against them	ʿalayhim
+6	27:82:5	w	أَخۡرَجۡنَا	ﱺ	اخرجنا	We will bring forth	akhrajnā
+6	27:82:6	w	لَهُمۡ	ﱻ	لهم	for them	lahum
+6	27:82:7	w	دَآبَّةٗ	ﱼ	دابة	a creature	dābbatan
+6	27:82:8	w	مِّنَ	ﱽ	من	from	mina
+6	27:82:9	w	ٱلۡأَرۡضِ	ﱾ	الارض	the earth	l-arḍi
+6	27:82:10	w	تُكَلِّمُهُمۡ	ﱿ	تكلمهم	speaking to them	tukallimuhum
+6	27:82:11	w	أَنَّ	ﲀ	ان	that	anna
+7	27:82:12	w	ٱلنَّاسَ	ﲁ	الناس	the people	l-nāsa
+7	27:82:13	w	كَانُواْ	ﲂ	كانوا	were	kānū
+7	27:82:14	w	بِـَٔايَٰتِنَا	ﲃ	باياتنا	of Our Signs	biāyātinā
+7	27:82:15	w	لَا	ﲄ	لا	not	lā
+7	27:82:16	w	يُوقِنُونَ	ﲅ	يوقنون	certain	yūqinūna
+7	27:82:17	e	٨٢	ﲆ			
+7	27:83:1	w	وَيَوۡمَ	ﲇ	ويوم	And (the) Day	wayawma
+7	27:83:2	w	نَحۡشُرُ	ﲈ	نحشر	We will gather	naḥshuru
+7	27:83:3	w	مِن	ﲉ	من	from	min
+7	27:83:4	w	كُلِّ	ﲊ	كل	every	kulli
+7	27:83:5	w	أُمَّةٖ	ﲋ	امة	nation	ummatin
+8	27:83:6	w	فَوۡجٗا	ﲌ	فوجا	a troop	fawjan
+8	27:83:7	w	مِّمَّن	ﲍ	ممن	of (those) who	mimman
+8	27:83:8	w	يُكَذِّبُ	ﲎ	يكذب	deny	yukadhibu
+8	27:83:9	w	بِـَٔايَٰتِنَا	ﲏ	باياتنا	Our Signs	biāyātinā
+8	27:83:10	w	فَهُمۡ	ﲐ	فهم	and they	fahum
+8	27:83:11	w	يُوزَعُونَ	ﲑ	يوزعون	will be set in rows	yūzaʿūna
+8	27:83:12	e	٨٣	ﲒ			
+8	27:84:1	w	حَتَّىٰٓ	ﲓ	حتى	Until	ḥattā
+8	27:84:2	w	إِذَا	ﲔ	اذا	when	idhā
+8	27:84:3	w	جَآءُو	ﲕ	جاءوا	they come	jāū
+8	27:84:4	w	قَالَ	ﲖ	قال	He will say	qāla
+9	27:84:5	w	أَكَذَّبۡتُم	ﲗ	اكذبتم	Did you deny	akadhabtum
+9	27:84:6	w	بِـَٔايَٰتِي	ﲘ	باياتي	My Signs	biāyātī
+9	27:84:7	w	وَلَمۡ	ﲙ	ولم	while not	walam
+9	27:84:8	w	تُحِيطُواْ	ﲚ	تحيطوا	you encompassed	tuḥīṭū
+9	27:84:9	w	بِهَا	ﲛ	بها	them	bihā
+9	27:84:10	w	عِلۡمًا	ﲜ	علما	(in) knowledge	ʿil'man
+9	27:84:11	w	أَمَّاذَا	ﲝ	اماذا	or what	ammādhā
+9	27:84:12	w	كُنتُمۡ	ﲞ	كنتم	you used (to)	kuntum
+9	27:84:13	w	تَعۡمَلُونَ	ﲟ	تعملون	do	taʿmalūna
+10	27:84:14	e	٨٤	ﲠ			
+10	27:85:1	w	وَوَقَعَ	ﲡ	ووقع	And (will be) fulfilled	wawaqaʿa
+10	27:85:2	w	ٱلۡقَوۡلُ	ﲢ	القول	the word	l-qawlu
+10	27:85:3	w	عَلَيۡهِم	ﲣ	عليهم	against them	ʿalayhim
+10	27:85:4	w	بِمَا	ﲤ	بما	because	bimā
+10	27:85:5	w	ظَلَمُواْ	ﲥ	ظلموا	they wronged	ẓalamū
+10	27:85:6	w	فَهُمۡ	ﲦ	فهم	and they	fahum
+10	27:85:7	w	لَا	ﲧ	لا	(will) not	lā
+10	27:85:8	w	يَنطِقُونَ	ﲨ	ينطقون	speak	yanṭiqūna
+10	27:85:9	e	٨٥	ﲩ			
+10	27:86:1	w	أَلَمۡ	ﲪ	الم	Do not	alam
+11	27:86:2	w	يَرَوۡاْ	ﲫ	يروا	they see	yaraw
+11	27:86:3	w	أَنَّا	ﲬ	انا	that We	annā
+11	27:86:4	w	جَعَلۡنَا	ﲭ	جعلنا	[We] have made	jaʿalnā
+11	27:86:5	w	ٱلَّيۡلَ	ﲮ	الليل	the night	al-layla
+11	27:86:6	w	لِيَسۡكُنُواْ	ﲯ	ليسكنوا	that they may rest	liyaskunū
+11	27:86:7	w	فِيهِ	ﲰ	فيه	in it	fīhi
+11	27:86:8	w	وَٱلنَّهَارَ	ﲱ	والنهار	and the day	wal-nahāra
+11	27:86:9	w	مُبۡصِرًاۚ	ﲲﲳ	مبصرا	giving visibility	mub'ṣiran
+11	27:86:10	w	إِنَّ	ﲴ	ان	Indeed	inna
+11	27:86:11	w	فِي	ﲵ	في	in	fī
+12	27:86:12	w	ذَٰلِكَ	ﲶ	ذالك	that	dhālika
+12	27:86:13	w	لَأٓيَٰتٖ	ﲷ	لايات	surely (are) Signs	laāyātin
+12	27:86:14	w	لِّقَوۡمٖ	ﲸ	لقوم	for a people	liqawmin
+12	27:86:15	w	يُؤۡمِنُونَ	ﲹ	يومنون	who believe	yu'minūna
+12	27:86:16	e	٨٦	ﲺ			
+12	27:87:1	w	وَيَوۡمَ	ﲻ	ويوم	And (the) Day	wayawma
+12	27:87:2	w	يُنفَخُ	ﲼ	ينفخ	will be blown	yunfakhu
+12	27:87:3	w	فِي	ﲽ	في	[in]	fī
+12	27:87:4	w	ٱلصُّورِ	ﲾ	الصور	the trumpet	l-ṣūri
+12	27:87:5	w	فَفَزِعَ	ﲿ	ففزع	and will be terrified	fafaziʿa
+12	27:87:6	w	مَن	ﳀ	من	whoever	man
+13	27:87:7	w	فِي	ﳁ	في	(is) in	fī
+13	27:87:8	w	ٱلسَّمَٰوَٰتِ	ﳂ	السماوات	the heavens	l-samāwāti
+13	27:87:9	w	وَمَن	ﳃ	ومن	and whoever	waman
+13	27:87:10	w	فِي	ﳄ	في	(is) in	fī
+13	27:87:11	w	ٱلۡأَرۡضِ	ﳅ	الارض	the earth	l-arḍi
+13	27:87:12	w	إِلَّا	ﳆ	الا	except	illā
+13	27:87:13	w	مَن	ﳇ	من	whom	man
+13	27:87:14	w	شَآءَ	ﳈ	شاء	Allah wills	shāa
+13	27:87:15	w	ٱللَّهُۚ	ﳉﳊ	الله	Allah wills	l-lahu
+13	27:87:16	w	وَكُلٌّ	ﳋ	وكل	And all	wakullun
+13	27:87:17	w	أَتَوۡهُ	ﳌ	اتوه	(will) come to Him	atawhu
+14	27:87:18	w	دَٰخِرِينَ	ﳍ	داخرين	humbled	dākhirīna
+14	27:87:19	e	٨٧	ﳎ			
+14	27:88:1	w	وَتَرَى	ﳏ	وترى	And you see	watarā
+14	27:88:2	w	ٱلۡجِبَالَ	ﳐ	الجبال	the mountains	l-jibāla
+14	27:88:3	w	تَحۡسَبُهَا	ﳑ	تحسبها	thinking them	taḥsabuhā
+14	27:88:4	w	جَامِدَةٗ	ﳒ	جامدة	firmly fixed	jāmidatan
+14	27:88:5	w	وَهِيَ	ﳓ	وهي	while they	wahiya
+14	27:88:6	w	تَمُرُّ	ﳔ	تمر	will pass	tamurru
+14	27:88:7	w	مَرَّ	ﳕ	مر	(as the) passing	marra
+14	27:88:8	w	ٱلسَّحَابِۚ	ﳖﳗ	السحاب	(of) the clouds	l-saḥābi
+15	27:88:9	w	صُنۡعَ	ﳘ	صنع	(The) Work	ṣun'ʿa
+15	27:88:10	w	ٱللَّهِ	ﳙ	الله	(of) Allah	l-lahi
+15	27:88:11	w	ٱلَّذِيٓ	ﳚ	الذي	Who	alladhī
+15	27:88:12	w	أَتۡقَنَ	ﳛ	اتقن	perfected	atqana
+15	27:88:13	w	كُلَّ	ﳜ	كل	all	kulla
+15	27:88:14	w	شَيۡءٍۚ	ﳝﳞ	شيء	things	shayin
+15	27:88:15	w	إِنَّهُۥ	ﳟ	انه	Indeed, He	innahu
+15	27:88:16	w	خَبِيرُۢ	ﳠ	خبير	(is) All-Aware	khabīrun
+15	27:88:17	w	بِمَا	ﳡ	بما	of what	bimā
+15	27:88:18	w	تَفۡعَلُونَ	ﳢ	تفعلون	you do	tafʿalūna
+15	27:88:19	e	٨٨	ﳣ			

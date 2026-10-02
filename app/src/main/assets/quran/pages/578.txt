@@ -1,0 +1,152 @@
+1	75:20:1	w	كـَلَّا	ﱁ	كلا	No	kallā
+1	75:20:2	w	بَلۡ	ﱂ	بل	But	bal
+1	75:20:3	w	تُحِبُّونَ	ﱃ	تحبون	you love	tuḥibbūna
+1	75:20:4	w	ٱلۡعَاجِلَةَ	ﱄ	العاجلة	the immediate	l-ʿājilata
+1	75:20:5	e	٢٠	ﱅ			
+1	75:21:1	w	وَتَذَرُونَ	ﱆ	وتذرون	And leave	watadharūna
+1	75:21:2	w	ٱلۡأٓخِرَةَ	ﱇ	الاخرة	the Hereafter	l-ākhirata
+1	75:21:3	e	٢١	ﱈ			
+1	75:22:1	w	وُجُوهٞ	ﱉ	وجوه	Faces	wujūhun
+1	75:22:2	w	يَوۡمَئِذٖ	ﱊ	يوميذ	that Day	yawma-idhin
+1	75:22:3	w	نَّاضِرَةٌ	ﱋ	ناضرة	(will be) radiant	nāḍiratun
+2	75:22:4	e	٢٢	ﱌ			
+2	75:23:1	w	إِلَىٰ	ﱍ	الى	Towards	ilā
+2	75:23:2	w	رَبِّهَا	ﱎ	ربها	their Lord	rabbihā
+2	75:23:3	w	نَاظِرَةٞ	ﱏ	ناظرة	looking	nāẓiratun
+2	75:23:4	e	٢٣	ﱐ			
+2	75:24:1	w	وَوُجُوهٞ	ﱑ	ووجوه	And faces	wawujūhun
+2	75:24:2	w	يَوۡمَئِذِۭ	ﱒ	يوميذ	that Day	yawma-idhin
+2	75:24:3	w	بَاسِرَةٞ	ﱓ	باسرة	(will be) distorted	bāsiratun
+2	75:24:4	e	٢٤	ﱔ			
+2	75:25:1	w	تَظُنُّ	ﱕ	تظن	Thinking	taẓunnu
+2	75:25:2	w	أَن	ﱖ	ان	that	an
+2	75:25:3	w	يُفۡعَلَ	ﱗ	يفعل	will be done	yuf'ʿala
+2	75:25:4	w	بِهَا	ﱘ	بها	to them	bihā
+3	75:25:5	w	فَاقِرَةٞ	ﱙ	فاقرة	backbreaking	fāqiratun
+3	75:25:6	e	٢٥	ﱚ			
+3	75:26:1	w	كـَلَّآ	ﱛ	كلا	No	kallā
+3	75:26:2	w	إِذَا	ﱜ	اذا	When	idhā
+3	75:26:3	w	بَلَغَتِ	ﱝ	بلغت	it reaches	balaghati
+3	75:26:4	w	ٱلتَّرَاقِيَ	ﱞ	التراقي	the collar bones	l-tarāqiya
+3	75:26:5	e	٢٦	ﱟ			
+3	75:27:1	w	وَقِيلَ	ﱠ	وقيل	And it is said	waqīla
+3	75:27:2	w	مَنۡۜ	ﱡﱢ	من	Who	man
+3	75:27:3	w	رَاقٖ	ﱣ	راق	(will) cure	rāqin
+3	75:27:4	e	٢٧	ﱤ			
+3	75:28:1	w	وَظَنَّ	ﱥ	وظن	And he is certain	waẓanna
+3	75:28:2	w	أَنَّهُ	ﱦ	انه	that it	annahu
+3	75:28:3	w	ٱلۡفِرَاقُ	ﱧ	الفراق	(is) the parting	l-firāqu
+4	75:28:4	e	٢٨	ﱨ			
+4	75:29:1	w	وَٱلۡتَفَّتِ	ﱩ	والتفت	And is wound	wal-tafati
+4	75:29:2	w	ٱلسَّاقُ	ﱪ	الساق	the leg	l-sāqu
+4	75:29:3	w	بِٱلسَّاقِ	ﱫ	بالساق	about the leg	bil-sāqi
+4	75:29:4	e	٢٩	ﱬ			
+4	75:30:1	w	إِلَىٰ	ﱭ	الى	To	ilā
+4	75:30:2	w	رَبِّكَ	ﱮ	ربك	your Lord	rabbika
+4	75:30:3	w	يَوۡمَئِذٍ	ﱯ	يوميذ	that Day	yawma-idhin
+4	75:30:4	w	ٱلۡمَسَاقُ	ﱰ	المساق	(will be) the driving	l-masāqu
+4	75:30:5	e	٣٠	ﱱ			
+4	75:31:1	w	فَلَا	ﱲ	فلا	And not	falā
+5	75:31:2	w	صَدَّقَ	ﱳ	صدق	he accepted (the) truth	ṣaddaqa
+5	75:31:3	w	وَلَا	ﱴ	ولا	and not	walā
+5	75:31:4	w	صَلَّىٰ	ﱵ	صلى	he prayed	ṣallā
+5	75:31:5	e	٣١	ﱶ			
+5	75:32:1	w	وَلَٰكِن	ﱷ	ولاكن	But	walākin
+5	75:32:2	w	كَذَّبَ	ﱸ	كذب	he denied	kadhaba
+5	75:32:3	w	وَتَوَلَّىٰ	ﱹ	وتولى	and turned away	watawallā
+5	75:32:4	e	٣٢	ﱺ			
+5	75:33:1	w	ثُمَّ	ﱻ	ثم	Then	thumma
+5	75:33:2	w	ذَهَبَ	ﱼ	ذهب	he went	dhahaba
+5	75:33:3	w	إِلَىٰٓ	ﱽ	الى	to	ilā
+5	75:33:4	w	أَهۡلِهِۦ	ﱾ	اهله	his family	ahlihi
+5	75:33:5	w	يَتَمَطَّىٰٓ	ﱿ	يتمطى	swaggering	yatamaṭṭā
+6	75:33:6	e	٣٣	ﲀ			
+6	75:34:1	w	أَوۡلَىٰ	ﲁ	اولى	Woe	awlā
+6	75:34:2	w	لَكَ	ﲂ	لك	to you	laka
+6	75:34:3	w	فَأَوۡلَىٰ	ﲃ	فاولى	and woe	fa-awlā
+6	75:34:4	e	٣٤	ﲄ			
+6	75:35:1	w	ثُمَّ	ﲅ	ثم	Then	thumma
+6	75:35:2	w	أَوۡلَىٰ	ﲆ	اولى	woe	awlā
+6	75:35:3	w	لَكَ	ﲇ	لك	to you	laka
+6	75:35:4	w	فَأَوۡلَىٰٓ	ﲈ	فاولى	and woe	fa-awlā
+6	75:35:5	e	٣٥	ﲉ			
+6	75:36:1	w	أَيَحۡسَبُ	ﲊ	ايحسب	Does think	ayaḥsabu
+6	75:36:2	w	ٱلۡإِنسَٰنُ	ﲋ	الانسان	man	l-insānu
+7	75:36:3	w	أَن	ﲌ	ان	that	an
+7	75:36:4	w	يُتۡرَكَ	ﲍ	يترك	he will be left	yut'raka
+7	75:36:5	w	سُدًى	ﲎ	سدى	neglected	sudan
+7	75:36:6	e	٣٦	ﲏ			
+7	75:37:1	w	أَلَمۡ	ﲐ	الم	Was not	alam
+7	75:37:2	w	يَكُ	ﲑ	يك	he	yaku
+7	75:37:3	w	نُطۡفَةٗ	ﲒ	نطفة	a semen-drop	nuṭ'fatan
+7	75:37:4	w	مِّن	ﲓ	من	of	min
+7	75:37:5	w	مَّنِيّٖ	ﲔ	مني	semen	maniyyin
+7	75:37:6	w	يُمۡنَىٰ	ﲕ	يمنى	emitted	yum'nā
+7	75:37:7	e	٣٧	ﲖ			
+7	75:38:1	w	ثُمَّ	ﲗ	ثم	Then	thumma
+7	75:38:2	w	كَانَ	ﲘ	كان	he was	kāna
+8	75:38:3	w	عَلَقَةٗ	ﲙ	علقة	a clinging substance	ʿalaqatan
+8	75:38:4	w	فَخَلَقَ	ﲚ	فخلق	then He created	fakhalaqa
+8	75:38:5	w	فَسَوَّىٰ	ﲛ	فسوى	and proportioned	fasawwā
+8	75:38:6	e	٣٨	ﲜ			
+8	75:39:1	w	فَجَعَلَ	ﲝ	فجعل	Then made	fajaʿala
+8	75:39:2	w	مِنۡهُ	ﲞ	منه	of him	min'hu
+8	75:39:3	w	ٱلزَّوۡجَيۡنِ	ﲟ	الزوجين	two kinds	l-zawjayni
+8	75:39:4	w	ٱلذَّكَرَ	ﲠ	الذكر	(the) male	l-dhakara
+9	75:39:5	w	وَٱلۡأُنثَىٰٓ	ﲡ	والانثى	and the female	wal-unthā
+9	75:39:6	e	٣٩	ﲢ			
+9	75:40:1	w	أَلَيۡسَ	ﲣ	اليس	Is not	alaysa
+9	75:40:2	w	ذَٰلِكَ	ﲤ	ذالك	[that]	dhālika
+9	75:40:3	w	بِقَٰدِرٍ	ﲥ	بقادر	(He) Able	biqādirin
+9	75:40:4	w	عَلَىٰٓ	ﲦ	على	[over]	ʿalā
+9	75:40:5	w	أَن	ﲧ	ان	to	an
+9	75:40:6	w	يُحۡـِۧيَ	ﲨ	يحيي	give life	yuḥ'yiya
+9	75:40:7	w	ٱلۡمَوۡتَىٰ	ﲩ	الموتى	(to) the dead	l-mawtā
+9	75:40:8	e	٤٠	ﲪ			
+12	76:1:1	w	هَلۡ	ﲫ	هل	Has	hal
+12	76:1:2	w	أَتَىٰ	ﲬ	اتى	(there) come	atā
+12	76:1:3	w	عَلَى	ﲭ	على	upon	ʿalā
+12	76:1:4	w	ٱلۡإِنسَٰنِ	ﲮ	الانسان	man	l-insāni
+12	76:1:5	w	حِينٞ	ﲯ	حين	a period	ḥīnun
+12	76:1:6	w	مِّنَ	ﲰ	من	of	mina
+12	76:1:7	w	ٱلدَّهۡرِ	ﲱ	الدهر	time	l-dahri
+12	76:1:8	w	لَمۡ	ﲲ	لم	not	lam
+12	76:1:9	w	يَكُن	ﲳ	يكن	he was	yakun
+12	76:1:10	w	شَيۡـٔٗا	ﲴ	شييا	a thing	shayan
+12	76:1:11	w	مَّذۡكُورًا	ﲵ	مذكورا	mentioned	madhkūran
+12	76:1:12	e	١	ﲶ			
+12	76:2:1	w	إِنَّا	ﲷ	انا	Indeed, We	innā
+12	76:2:2	w	خَلَقۡنَا	ﲸ	خلقنا	[We] created	khalaqnā
+13	76:2:3	w	ٱلۡإِنسَٰنَ	ﲹ	الانسان	man	l-insāna
+13	76:2:4	w	مِن	ﲺ	من	from	min
+13	76:2:5	w	نُّطۡفَةٍ	ﲻ	نطفة	a semen-drop	nuṭ'fatin
+13	76:2:6	w	أَمۡشَاجٖ	ﲼ	امشاج	a mixture	amshājin
+13	76:2:7	w	نَّبۡتَلِيهِ	ﲽ	نبتليه	(that) We test him	nabtalīhi
+13	76:2:8	w	فَجَعَلۡنَٰهُ	ﲾ	فجعلناه	so We made (for) him	fajaʿalnāhu
+13	76:2:9	w	سَمِيعَۢا	ﲿ	سميعا	hearing	samīʿan
+13	76:2:10	w	بَصِيرًا	ﳀ	بصيرا	and sight	baṣīran
+13	76:2:11	e	٢	ﳁ			
+13	76:3:1	w	إِنَّا	ﳂ	انا	Indeed, We	innā
+14	76:3:2	w	هَدَيۡنَٰهُ	ﳃ	هديناه	guided him	hadaynāhu
+14	76:3:3	w	ٱلسَّبِيلَ	ﳄ	السبيل	(to) the way	l-sabīla
+14	76:3:4	w	إِمَّا	ﳅ	اما	whether	immā
+14	76:3:5	w	شَاكِرٗا	ﳆ	شاكرا	(he) be grateful	shākiran
+14	76:3:6	w	وَإِمَّا	ﳇ	واما	and whether	wa-immā
+14	76:3:7	w	كَفُورًا	ﳈ	كفورا	(he) be ungrateful	kafūran
+14	76:3:8	e	٣	ﳉ			
+14	76:4:1	w	إِنَّآ	ﳊ	انا	Indeed, We	innā
+14	76:4:2	w	أَعۡتَدۡنَا	ﳋ	اعتدنا	[We] have prepared	aʿtadnā
+14	76:4:3	w	لِلۡكَٰفِرِينَ	ﳌ	للكافرين	for the disbelievers	lil'kāfirīna
+14	76:4:4	w	سَلَٰسِلَاْ	ﳍ	سلاسل	chains	salāsilā
+15	76:4:5	w	وَأَغۡلَٰلٗا	ﳎ	واغلالا	and shackles	wa-aghlālan
+15	76:4:6	w	وَسَعِيرًا	ﳏ	وسعيرا	and a Blazing Fire	wasaʿīran
+15	76:4:7	e	٤	ﳐ			
+15	76:5:1	w	إِنَّ	ﳑ	ان	Indeed	inna
+15	76:5:2	w	ٱلۡأَبۡرَارَ	ﳒ	الابرار	the righteous	l-abrāra
+15	76:5:3	w	يَشۡرَبُونَ	ﳓ	يشربون	will drink	yashrabūna
+15	76:5:4	w	مِن	ﳔ	من	from	min
+15	76:5:5	w	كَأۡسٖ	ﳕ	كاس	a cup	kasin
+15	76:5:6	w	كَانَ	ﳖ	كان	is	kāna
+15	76:5:7	w	مِزَاجُهَا	ﳗ	مزاجها	its mixture	mizājuhā
+15	76:5:8	w	كَافُورًا	ﳘ	كافورا	(of) Kafur	kāfūran
+15	76:5:9	e	٥	ﳙ			

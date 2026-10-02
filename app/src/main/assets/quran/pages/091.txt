@@ -1,0 +1,145 @@
+1	4:80:1	w	مَّن	ﱁ	من	(He) who	man
+1	4:80:2	w	يُطِعِ	ﱂ	يطع	obeys	yuṭiʿi
+1	4:80:3	w	ٱلرَّسُولَ	ﱃ	الرسول	the Messenger	l-rasūla
+1	4:80:4	w	فَقَدۡ	ﱄ	فقد	then surely	faqad
+1	4:80:5	w	أَطَاعَ	ﱅ	اطاع	he obeyed	aṭāʿa
+1	4:80:6	w	ٱللَّهَۖ	ﱆﱇ	الله	Allah	l-laha
+1	4:80:7	w	وَمَن	ﱈ	ومن	and whoever	waman
+1	4:80:8	w	تَوَلَّىٰ	ﱉ	تولى	turns away	tawallā
+1	4:80:9	w	فَمَآ	ﱊ	فما	then not	famā
+1	4:80:10	w	أَرۡسَلۡنَٰكَ	ﱋ	ارسلناك	We (have) sent you	arsalnāka
+2	4:80:11	w	عَلَيۡهِمۡ	ﱌ	عليهم	over them	ʿalayhim
+2	4:80:12	w	حَفِيظٗا	ﱍ	حفيظا	(as) a guardian	ḥafīẓan
+2	4:80:13	e	٨٠	ﱎ			
+2	4:81:1	w	وَيَقُولُونَ	ﱏ	ويقولون	And they say	wayaqūlūna
+2	4:81:2	w	طَاعَةٞ	ﱐ	طاعة	(We pledge) obedience	ṭāʿatun
+2	4:81:3	w	فَإِذَا	ﱑ	فاذا	Then when	fa-idhā
+2	4:81:4	w	بَرَزُواْ	ﱒ	برزوا	they leave	barazū
+2	4:81:5	w	مِنۡ	ﱓ	من	from	min
+2	4:81:6	w	عِندِكَ	ﱔ	عندك	you	ʿindika
+3	4:81:7	w	بَيَّتَ	ﱕ	بيت	plan by night	bayyata
+3	4:81:8	w	طَآئِفَةٞ	ﱖ	طايفة	a group	ṭāifatun
+3	4:81:9	w	مِّنۡهُمۡ	ﱗ	منهم	of them	min'hum
+3	4:81:10	w	غَيۡرَ	ﱘ	غير	other than	ghayra
+3	4:81:11	w	ٱلَّذِي	ﱙ	الذي	that which	alladhī
+3	4:81:12	w	تَقُولُۖ	ﱚﱛ	تقول	you say	taqūlu
+3	4:81:13	w	وَٱللَّهُ	ﱜ	والله	But Allah	wal-lahu
+3	4:81:14	w	يَكۡتُبُ	ﱝ	يكتب	records	yaktubu
+3	4:81:15	w	مَا	ﱞ	ما	what	mā
+3	4:81:16	w	يُبَيِّتُونَۖ	ﱟﱠ	يبيتون	they plan by night	yubayyitūna
+4	4:81:17	w	فَأَعۡرِضۡ	ﱡ	فاعرض	So turn (away)	fa-aʿriḍ
+4	4:81:18	w	عَنۡهُمۡ	ﱢ	عنهم	from them	ʿanhum
+4	4:81:19	w	وَتَوَكَّلۡ	ﱣ	وتوكل	and put (your) trust	watawakkal
+4	4:81:20	w	عَلَى	ﱤ	على	in	ʿalā
+4	4:81:21	w	ٱللَّهِۚ	ﱥﱦ	الله	Allah	l-lahi
+4	4:81:22	w	وَكَفَىٰ	ﱧ	وكفى	And sufficient	wakafā
+4	4:81:23	w	بِٱللَّهِ	ﱨ	بالله	is Allah	bil-lahi
+4	4:81:24	w	وَكِيلًا	ﱩ	وكيلا	(as) a Trustee	wakīlan
+5	4:81:25	e	٨١	ﱪ			
+5	4:82:1	w	أَفَلَا	ﱫ	افلا	Then (do) not	afalā
+5	4:82:2	w	يَتَدَبَّرُونَ	ﱬ	يتدبرون	they ponder	yatadabbarūna
+5	4:82:3	w	ٱلۡقُرۡءَانَۚ	ﱭﱮ	القران	(on) the Quran	l-qur'āna
+5	4:82:4	w	وَلَوۡ	ﱯ	ولو	And if	walaw
+5	4:82:5	w	كَانَ	ﱰ	كان	it had (been)	kāna
+5	4:82:6	w	مِنۡ	ﱱ	من	(of)	min
+5	4:82:7	w	عِندِ	ﱲ	عند	from	ʿindi
+5	4:82:8	w	غَيۡرِ	ﱳ	غير	other than	ghayri
+5	4:82:9	w	ٱللَّهِ	ﱴ	الله	Allah	l-lahi
+6	4:82:10	w	لَوَجَدُواْ	ﱵ	لوجدوا	surely they (would have) found	lawajadū
+6	4:82:11	w	فِيهِ	ﱶ	فيه	in it	fīhi
+6	4:82:12	w	ٱخۡتِلَٰفٗا	ﱷ	اختلافا	contradiction	ikh'tilāfan
+6	4:82:13	w	كَثِيرٗا	ﱸ	كثيرا	much	kathīran
+6	4:82:14	e	٨٢	ﱹ			
+6	4:83:1	w	وَإِذَا	ﱺ	واذا	And when	wa-idhā
+6	4:83:2	w	جَآءَهُمۡ	ﱻ	جاءهم	comes to them	jāahum
+6	4:83:3	w	أَمۡرٞ	ﱼ	امر	a matter	amrun
+6	4:83:4	w	مِّنَ	ﱽ	من	of	mina
+6	4:83:5	w	ٱلۡأَمۡنِ	ﱾ	الامن	the security	l-amni
+7	4:83:6	w	أَوِ	ﱿ	او	or	awi
+7	4:83:7	w	ٱلۡخَوۡفِ	ﲀ	الخوف	[the] fear	l-khawfi
+7	4:83:8	w	أَذَاعُواْ	ﲁ	اذاعوا	they spread	adhāʿū
+7	4:83:9	w	بِهِۦۖ	ﲂﲃ	به	[with] it	bihi
+7	4:83:10	w	وَلَوۡ	ﲄ	ولو	But if	walaw
+7	4:83:11	w	رَدُّوهُ	ﲅ	ردوه	they (had) referred it	raddūhu
+7	4:83:12	w	إِلَى	ﲆ	الى	to	ilā
+7	4:83:13	w	ٱلرَّسُولِ	ﲇ	الرسول	the Messenger	l-rasūli
+7	4:83:14	w	وَإِلَىٰٓ	ﲈ	والى	and to	wa-ilā
+7	4:83:15	w	أُوْلِي	ﲉ	اولي	those	ulī
+7	4:83:16	w	ٱلۡأَمۡرِ	ﲊ	الامر	(having) authority	l-amri
+8	4:83:17	w	مِنۡهُمۡ	ﲋ	منهم	among them	min'hum
+8	4:83:18	w	لَعَلِمَهُ	ﲌ	لعلمه	surely would have known it	laʿalimahu
+8	4:83:19	w	ٱلَّذِينَ	ﲍ	الذين	those who	alladhīna
+8	4:83:20	w	يَسۡتَنۢبِطُونَهُۥ	ﲎ	يستنبطونه	draw correct conclusion (from) it	yastanbiṭūnahu
+8	4:83:21	w	مِنۡهُمۡۗ	ﲏﲐ	منهم	among them	min'hum
+8	4:83:22	w	وَلَوۡلَا	ﲑ	ولولا	And if not	walawlā
+8	4:83:23	w	فَضۡلُ	ﲒ	فضل	(had been the) bounty	faḍlu
+8	4:83:24	w	ٱللَّهِ	ﲓ	الله	(of) Allah	l-lahi
+9	4:83:25	w	عَلَيۡكُمۡ	ﲔ	عليكم	on you	ʿalaykum
+9	4:83:26	w	وَرَحۡمَتُهُۥ	ﲕ	ورحمته	and His Mercy	waraḥmatuhu
+9	4:83:27	w	لَٱتَّبَعۡتُمُ	ﲖ	لاتبعتم	surely you (would have) followed	la-ittabaʿtumu
+9	4:83:28	w	ٱلشَّيۡطَٰنَ	ﲗ	الشيطان	the Shaitaan	l-shayṭāna
+9	4:83:29	w	إِلَّا	ﲘ	الا	except	illā
+9	4:83:30	w	قَلِيلٗا	ﲙ	قليلا	a few	qalīlan
+9	4:83:31	e	٨٣	ﲚ			
+10	4:84:1	w	فَقَٰتِلۡ	ﲛ	فقاتل	So fight	faqātil
+10	4:84:2	w	فِي	ﲜ	في	in	fī
+10	4:84:3	w	سَبِيلِ	ﲝ	سبيل	(the) way	sabīli
+10	4:84:4	w	ٱللَّهِ	ﲞ	الله	(of) Allah	l-lahi
+10	4:84:5	w	لَا	ﲟ	لا	not	lā
+10	4:84:6	w	تُكَلَّفُ	ﲠ	تكلف	are you responsible	tukallafu
+10	4:84:7	w	إِلَّا	ﲡ	الا	except	illā
+10	4:84:8	w	نَفۡسَكَۚ	ﲢﲣ	نفسك	(for) yourself	nafsaka
+10	4:84:9	w	وَحَرِّضِ	ﲤ	وحرض	And encourage	waḥarriḍi
+10	4:84:10	w	ٱلۡمُؤۡمِنِينَۖ	ﲥﲦ	المومنين	the believers	l-mu'minīna
+11	4:84:11	w	عَسَى	ﲧ	عسى	perhaps	ʿasā
+11	4:84:12	w	ٱللَّهُ	ﲨ	الله	Allah	l-lahu
+11	4:84:13	w	أَن	ﲩ	ان	will	an
+11	4:84:14	w	يَكُفَّ	ﲪ	يكف	restrain	yakuffa
+11	4:84:15	w	بَأۡسَ	ﲫ	باس	(the) might	basa
+11	4:84:16	w	ٱلَّذِينَ	ﲬ	الذين	(of) those who	alladhīna
+11	4:84:17	w	كَفَرُواْۚ	ﲭﲮ	كفروا	disbelieved	kafarū
+11	4:84:18	w	وَٱللَّهُ	ﲯ	والله	And Allah	wal-lahu
+11	4:84:19	w	أَشَدُّ	ﲰ	اشد	(is) Stronger	ashaddu
+11	4:84:20	w	بَأۡسٗا	ﲱ	باسا	(in) Might	basan
+12	4:84:21	w	وَأَشَدُّ	ﲲ	واشد	and Stronger	wa-ashaddu
+12	4:84:22	w	تَنكِيلٗا	ﲳ	تنكيلا	(in) punishment	tankīlan
+12	4:84:23	e	٨٤	ﲴ			
+12	4:85:1	w	مَّن	ﲵ	من	Whoever	man
+12	4:85:2	w	يَشۡفَعۡ	ﲶ	يشفع	intercedes	yashfaʿ
+12	4:85:3	w	شَفَٰعَةً	ﲷ	شفاعة	an intercession	shafāʿatan
+12	4:85:4	w	حَسَنَةٗ	ﲸ	حسنة	good	ḥasanatan
+12	4:85:5	w	يَكُن	ﲹ	يكن	will have	yakun
+12	4:85:6	w	لَّهُۥ	ﲺ	له	for him	lahu
+13	4:85:7	w	نَصِيبٞ	ﲻ	نصيب	a share	naṣībun
+13	4:85:8	w	مِّنۡهَاۖ	ﲼﲽ	منها	of it	min'hā
+13	4:85:9	w	وَمَن	ﲾ	ومن	and whoever	waman
+13	4:85:10	w	يَشۡفَعۡ	ﲿ	يشفع	intercedes	yashfaʿ
+13	4:85:11	w	شَفَٰعَةٗ	ﳀ	شفاعة	an intercession	shafāʿatan
+13	4:85:12	w	سَيِّئَةٗ	ﳁ	سيية	evil	sayyi-atan
+13	4:85:13	w	يَكُن	ﳂ	يكن	will have	yakun
+13	4:85:14	w	لَّهُۥ	ﳃ	له	for him	lahu
+13	4:85:15	w	كِفۡلٞ	ﳄ	كفل	a portion	kif'lun
+13	4:85:16	w	مِّنۡهَاۗ	ﳅﳆ	منها	of it	min'hā
+14	4:85:17	w	وَكَانَ	ﳇ	وكان	And is	wakāna
+14	4:85:18	w	ٱللَّهُ	ﳈ	الله	Allah	l-lahu
+14	4:85:19	w	عَلَىٰ	ﳉ	على	on	ʿalā
+14	4:85:20	w	كُلِّ	ﳊ	كل	every	kulli
+14	4:85:21	w	شَيۡءٖ	ﳋ	شيء	thing	shayin
+14	4:85:22	w	مُّقِيتٗا	ﳌ	مقيتا	a Keeper	muqītan
+14	4:85:23	e	٨٥	ﳍ			
+14	4:86:1	w	وَإِذَا	ﳎ	واذا	And when	wa-idhā
+14	4:86:2	w	حُيِّيتُم	ﳏ	حييتم	you are greeted	ḥuyyītum
+14	4:86:3	w	بِتَحِيَّةٖ	ﳐ	بتحية	with a greeting	bitaḥiyyatin
+14	4:86:4	w	فَحَيُّواْ	ﳑ	فحيوا	then greet	faḥayyū
+15	4:86:5	w	بِأَحۡسَنَ	ﳒ	باحسن	with better	bi-aḥsana
+15	4:86:6	w	مِنۡهَآ	ﳓ	منها	than it	min'hā
+15	4:86:7	w	أَوۡ	ﳔ	او	or	aw
+15	4:86:8	w	رُدُّوهَآۗ	ﳕﳖ	ردوها	return it	ruddūhā
+15	4:86:9	w	إِنَّ	ﳗ	ان	Indeed	inna
+15	4:86:10	w	ٱللَّهَ	ﳘ	الله	Allah	l-laha
+15	4:86:11	w	كَانَ	ﳙ	كان	is	kāna
+15	4:86:12	w	عَلَىٰ	ﳚ	على	of	ʿalā
+15	4:86:13	w	كُلِّ	ﳛ	كل	every	kulli
+15	4:86:14	w	شَيۡءٍ	ﳜ	شيء	thing	shayin
+15	4:86:15	w	حَسِيبًا	ﳝ	حسيبا	an Accountant	ḥasīban
+15	4:86:16	e	٨٦	ﳞ			

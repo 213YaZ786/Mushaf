@@ -1,0 +1,130 @@
+1	14:11:1	w	قَالَتۡ	ﱁ	قالت	Said	qālat
+1	14:11:2	w	لَهُمۡ	ﱂ	لهم	to them	lahum
+1	14:11:3	w	رُسُلُهُمۡ	ﱃ	رسلهم	their Messengers	rusuluhum
+1	14:11:4	w	إِن	ﱄ	ان	Not	in
+1	14:11:5	w	نَّحۡنُ	ﱅ	نحن	we (are)	naḥnu
+1	14:11:6	w	إِلَّا	ﱆ	الا	but	illā
+1	14:11:7	w	بَشَرٞ	ﱇ	بشر	a human	basharun
+1	14:11:8	w	مِّثۡلُكُمۡ	ﱈ	مثلكم	like you	mith'lukum
+1	14:11:9	w	وَلَٰكِنَّ	ﱉ	ولاكن	but	walākinna
+1	14:11:10	w	ٱللَّهَ	ﱊ	الله	Allah	l-laha
+2	14:11:11	w	يَمُنُّ	ﱋ	يمن	bestows His Grace	yamunnu
+2	14:11:12	w	عَلَىٰ	ﱌ	على	on	ʿalā
+2	14:11:13	w	مَن	ﱍ	من	whom	man
+2	14:11:14	w	يَشَآءُ	ﱎ	يشاء	He wills	yashāu
+2	14:11:15	w	مِنۡ	ﱏ	من	of	min
+2	14:11:16	w	عِبَادِهِۦۖ	ﱐﱑ	عباده	His slaves	ʿibādihi
+2	14:11:17	w	وَمَا	ﱒ	وما	And not	wamā
+2	14:11:18	w	كَانَ	ﱓ	كان	is	kāna
+2	14:11:19	w	لَنَآ	ﱔ	لنا	for us	lanā
+2	14:11:20	w	أَن	ﱕ	ان	that	an
+2	14:11:21	w	نَّأۡتِيَكُم	ﱖ	ناتيكم	we bring you	natiyakum
+3	14:11:22	w	بِسُلۡطَٰنٍ	ﱗ	بسلطان	an authority	bisul'ṭānin
+3	14:11:23	w	إِلَّا	ﱘ	الا	except	illā
+3	14:11:24	w	بِإِذۡنِ	ﱙ	باذن	by the permission of Allah	bi-idh'ni
+3	14:11:25	w	ٱللَّهِۚ	ﱚﱛ	الله	by the permission of Allah	l-lahi
+3	14:11:26	w	وَعَلَى	ﱜ	وعلى	And upon	waʿalā
+3	14:11:27	w	ٱللَّهِ	ﱝ	الله	Allah	l-lahi
+3	14:11:28	w	فَلۡيَتَوَكَّلِ	ﱞ	فليتوكل	so let put (their) trust	falyatawakkali
+3	14:11:29	w	ٱلۡمُؤۡمِنُونَ	ﱟ	المومنون	the believers	l-mu'minūna
+4	14:11:30	e	١١	ﱠ			
+4	14:12:1	w	وَمَا	ﱡ	وما	And what	wamā
+4	14:12:2	w	لَنَآ	ﱢ	لنا	(is) for us	lanā
+4	14:12:3	w	أَلَّا	ﱣ	الا	that not	allā
+4	14:12:4	w	نَتَوَكَّلَ	ﱤ	نتوكل	we put our trust	natawakkala
+4	14:12:5	w	عَلَى	ﱥ	على	upon	ʿalā
+4	14:12:6	w	ٱللَّهِ	ﱦ	الله	Allah	l-lahi
+4	14:12:7	w	وَقَدۡ	ﱧ	وقد	while certainly	waqad
+4	14:12:8	w	هَدَىٰنَا	ﱨ	هدانا	He has guided us	hadānā
+4	14:12:9	w	سُبُلَنَاۚ	ﱩﱪ	سبلنا	to our ways	subulanā
+4	14:12:10	w	وَلَنَصۡبِرَنَّ	ﱫ	ولنصبرن	And surely we will bear with patience	walanaṣbiranna
+5	14:12:11	w	عَلَىٰ	ﱬ	على	on	ʿalā
+5	14:12:12	w	مَآ	ﱭ	ما	what	mā
+5	14:12:13	w	ءَاذَيۡتُمُونَاۚ	ﱮﱯ	اذيتمونا	harm you may cause us	ādhaytumūnā
+5	14:12:14	w	وَعَلَى	ﱰ	وعلى	And upon	waʿalā
+5	14:12:15	w	ٱللَّهِ	ﱱ	الله	Allah	l-lahi
+5	14:12:16	w	فَلۡيَتَوَكَّلِ	ﱲ	فليتوكل	so let put (their) trust	falyatawakkali
+5	14:12:17	w	ٱلۡمُتَوَكِّلُونَ	ﱳ	المتوكلون	the ones who put (their) trust	l-mutawakilūna
+6	14:12:18	e	١٢	ﱴ			
+6	14:13:1	w	وَقَالَ	ﱵ	وقال	And said	waqāla
+6	14:13:2	w	ٱلَّذِينَ	ﱶ	الذين	those who	alladhīna
+6	14:13:3	w	كَفَرُواْ	ﱷ	كفروا	disbelieved	kafarū
+6	14:13:4	w	لِرُسُلِهِمۡ	ﱸ	لرسلهم	to their Messengers	lirusulihim
+6	14:13:5	w	لَنُخۡرِجَنَّكُم	ﱹ	لنخرجنكم	Surely we will drive you out	lanukh'rijannakum
+6	14:13:6	w	مِّنۡ	ﱺ	من	of	min
+6	14:13:7	w	أَرۡضِنَآ	ﱻ	ارضنا	our land	arḍinā
+7	14:13:8	w	أَوۡ	ﱼ	او	or	aw
+7	14:13:9	w	لَتَعُودُنَّ	ﱽ	لتعودن	surely you should return	lataʿūdunna
+7	14:13:10	w	فِي	ﱾ	في	to	fī
+7	14:13:11	w	مِلَّتِنَاۖ	ﱿﲀ	ملتنا	our religion	millatinā
+7	14:13:12	w	فَأَوۡحَىٰٓ	ﲁ	فاوحى	So inspired	fa-awḥā
+7	14:13:13	w	إِلَيۡهِمۡ	ﲂ	اليهم	to them	ilayhim
+7	14:13:14	w	رَبُّهُمۡ	ﲃ	ربهم	their Lord	rabbuhum
+7	14:13:15	w	لَنُهۡلِكَنَّ	ﲄ	لنهلكن	We will surely destroy	lanuh'likanna
+8	14:13:16	w	ٱلظَّٰلِمِينَ	ﲅ	الظالمين	the wrongdoers	l-ẓālimīna
+8	14:13:17	e	١٣	ﲆ			
+8	14:14:1	w	وَلَنُسۡكِنَنَّكُمُ	ﲇ	ولنسكننكم	And surely We will make you dwell	walanus'kinannakumu
+8	14:14:2	w	ٱلۡأَرۡضَ	ﲈ	الارض	(in) the land	l-arḍa
+8	14:14:3	w	مِنۢ	ﲉ	من	after them	min
+8	14:14:4	w	بَعۡدِهِمۡۚ	ﲊﲋ	بعدهم	after them	baʿdihim
+9	14:14:5	w	ذَٰلِكَ	ﲌ	ذالك	That	dhālika
+9	14:14:6	w	لِمَنۡ	ﲍ	لمن	(is) for whoever	liman
+9	14:14:7	w	خَافَ	ﲎ	خاف	fears	khāfa
+9	14:14:8	w	مَقَامِي	ﲏ	مقامي	standing before Me	maqāmī
+9	14:14:9	w	وَخَافَ	ﲐ	وخاف	and fears	wakhāfa
+9	14:14:10	w	وَعِيدِ	ﲑ	وعيد	My Threat	waʿīdi
+9	14:14:11	e	١٤	ﲒ			
+9	14:15:1	w	وَٱسۡتَفۡتَحُواْ	ﲓ	واستفتحوا	And they sought victory	wa-is'taftaḥū
+10	14:15:2	w	وَخَابَ	ﲔ	وخاب	and disappointed	wakhāba
+10	14:15:3	w	كُلُّ	ﲕ	كل	every	kullu
+10	14:15:4	w	جَبَّارٍ	ﲖ	جبار	tyrant	jabbārin
+10	14:15:5	w	عَنِيدٖ	ﲗ	عنيد	obstinate	ʿanīdin
+10	14:15:6	e	١٥	ﲘ			
+10	14:16:1	w	مِّن	ﲙ	من	of him	min
+10	14:16:2	w	وَرَآئِهِۦ	ﲚ	ورايه	Ahead	warāihi
+10	14:16:3	w	جَهَنَّمُ	ﲛ	جهنم	(is) Hell	jahannamu
+10	14:16:4	w	وَيُسۡقَىٰ	ﲜ	ويسقى	and he will be made to drink	wayus'qā
+11	14:16:5	w	مِن	ﲝ	من	of	min
+11	14:16:6	w	مَّآءٖ	ﲞ	ماء	water	māin
+11	14:16:7	w	صَدِيدٖ	ﲟ	صديد	purulent	ṣadīdin
+11	14:16:8	e	١٦	ﲠ			
+11	14:17:1	w	يَتَجَرَّعُهُۥ	ﲡ	يتجرعه	He will sip it	yatajarraʿuhu
+11	14:17:2	w	وَلَا	ﲢ	ولا	but not	walā
+11	14:17:3	w	يَكَادُ	ﲣ	يكاد	he will be near	yakādu
+11	14:17:4	w	يُسِيغُهُۥ	ﲤ	يسيغه	(to) swallowing it	yusīghuhu
+11	14:17:5	w	وَيَأۡتِيهِ	ﲥ	وياتيه	And will come to him	wayatīhi
+12	14:17:6	w	ٱلۡمَوۡتُ	ﲦ	الموت	the death	l-mawtu
+12	14:17:7	w	مِن	ﲧ	من	from	min
+12	14:17:8	w	كُلِّ	ﲨ	كل	every	kulli
+12	14:17:9	w	مَكَانٖ	ﲩ	مكان	side	makānin
+12	14:17:10	w	وَمَا	ﲪ	وما	but not	wamā
+12	14:17:11	w	هُوَ	ﲫ	هو	he	huwa
+12	14:17:12	w	بِمَيِّتٖۖ	ﲬﲭ	بميت	will die	bimayyitin
+12	14:17:13	w	وَمِن	ﲮ	ومن	And ahead of him	wamin
+12	14:17:14	w	وَرَآئِهِۦ	ﲯ	ورايه	And ahead of him	warāihi
+13	14:17:15	w	عَذَابٌ	ﲰ	عذاب	(is) a punishment	ʿadhābun
+13	14:17:16	w	غَلِيظٞ	ﲱ	غليظ	harsh	ghalīẓun
+13	14:17:17	e	١٧	ﲲ			
+13	14:18:1	w	مَّثَلُ	ﲳ	مثل	(The) example	mathalu
+13	14:18:2	w	ٱلَّذِينَ	ﲴ	الذين	(of) those who	alladhīna
+13	14:18:3	w	كَفَرُواْ	ﲵ	كفروا	disbelieve	kafarū
+13	14:18:4	w	بِرَبِّهِمۡۖ	ﲶﲷ	بربهم	in their Lord	birabbihim
+13	14:18:5	w	أَعۡمَٰلُهُمۡ	ﲸ	اعمالهم	their deeds	aʿmāluhum
+14	14:18:6	w	كَرَمَادٍ	ﲹ	كرماد	(are) like ashes	karamādin
+14	14:18:7	w	ٱشۡتَدَّتۡ	ﲺ	اشتدت	blows furiously	ish'taddat
+14	14:18:8	w	بِهِ	ﲻ	به	on it	bihi
+14	14:18:9	w	ٱلرِّيحُ	ﲼ	الريح	the wind	l-rīḥu
+14	14:18:10	w	فِي	ﲽ	في	in	fī
+14	14:18:11	w	يَوۡمٍ	ﲾ	يوم	a day	yawmin
+14	14:18:12	w	عَاصِفٖۖ	ﲿﳀ	عاصف	stormy	ʿāṣifin
+14	14:18:13	w	لَّا	ﳁ	لا	No	lā
+14	14:18:14	w	يَقۡدِرُونَ	ﳂ	يقدرون	control (they have)	yaqdirūna
+15	14:18:15	w	مِمَّا	ﳃ	مما	of what	mimmā
+15	14:18:16	w	كَسَبُواْ	ﳄ	كسبوا	they have earned	kasabū
+15	14:18:17	w	عَلَىٰ	ﳅ	على	on	ʿalā
+15	14:18:18	w	شَيۡءٖۚ	ﳆﳇ	شيء	anything	shayin
+15	14:18:19	w	ذَٰلِكَ	ﳈ	ذالك	That	dhālika
+15	14:18:20	w	هُوَ	ﳉ	هو	[it]	huwa
+15	14:18:21	w	ٱلضَّلَٰلُ	ﳊ	الضلال	(is) the straying	l-ḍalālu
+15	14:18:22	w	ٱلۡبَعِيدُ	ﳋ	البعيد	far	l-baʿīdu
+15	14:18:23	e	١٨	ﳌ			

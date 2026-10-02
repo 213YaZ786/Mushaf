@@ -1,0 +1,139 @@
+1	2:113:1	w	وَقَالَتِ	ﱁ	وقالت	And said	waqālati
+1	2:113:2	w	ٱلۡيَهُودُ	ﱂ	اليهود	the Jews	l-yahūdu
+1	2:113:3	w	لَيۡسَتِ	ﱃ	ليست	Not	laysati
+1	2:113:4	w	ٱلنَّصَٰرَىٰ	ﱄ	النصارى	the Christians	l-naṣārā
+1	2:113:5	w	عَلَىٰ	ﱅ	على	(are) on	ʿalā
+1	2:113:6	w	شَيۡءٖ	ﱆ	شيء	anything	shayin
+1	2:113:7	w	وَقَالَتِ	ﱇ	وقالت	and said	waqālati
+1	2:113:8	w	ٱلنَّصَٰرَىٰ	ﱈ	النصارى	the Christians	l-naṣārā
+2	2:113:9	w	لَيۡسَتِ	ﱉ	ليست	Not	laysati
+2	2:113:10	w	ٱلۡيَهُودُ	ﱊ	اليهود	the Jews	l-yahūdu
+2	2:113:11	w	عَلَىٰ	ﱋ	على	(are) on	ʿalā
+2	2:113:12	w	شَيۡءٖ	ﱌ	شيء	anything	shayin
+2	2:113:13	w	وَهُمۡ	ﱍ	وهم	although they	wahum
+2	2:113:14	w	يَتۡلُونَ	ﱎ	يتلون	recite	yatlūna
+2	2:113:15	w	ٱلۡكِتَٰبَۗ	ﱏﱐ	الكتاب	the Book	l-kitāba
+2	2:113:16	w	كَذَٰلِكَ	ﱑ	كذالك	Like that	kadhālika
+3	2:113:17	w	قَالَ	ﱒ	قال	said	qāla
+3	2:113:18	w	ٱلَّذِينَ	ﱓ	الذين	those who	alladhīna
+3	2:113:19	w	لَا	ﱔ	لا	(do) not	lā
+3	2:113:20	w	يَعۡلَمُونَ	ﱕ	يعلمون	know	yaʿlamūna
+3	2:113:21	w	مِثۡلَ	ﱖ	مثل	similar	mith'la
+3	2:113:22	w	قَوۡلِهِمۡۚ	ﱗﱘ	قولهم	their saying	qawlihim
+3	2:113:23	w	فَٱللَّهُ	ﱙ	فالله	[So] Allah	fal-lahu
+3	2:113:24	w	يَحۡكُمُ	ﱚ	يحكم	will judge	yaḥkumu
+3	2:113:25	w	بَيۡنَهُمۡ	ﱛ	بينهم	between them	baynahum
+4	2:113:26	w	يَوۡمَ	ﱜ	يوم	(on the) Day	yawma
+4	2:113:27	w	ٱلۡقِيَٰمَةِ	ﱝ	القيامة	(of) Resurrection	l-qiyāmati
+4	2:113:28	w	فِيمَا	ﱞ	فيما	in what	fīmā
+4	2:113:29	w	كَانُواْ	ﱟ	كانوا	they were	kānū
+4	2:113:30	w	فِيهِ	ﱠ	فيه	[in it]	fīhi
+4	2:113:31	w	يَخۡتَلِفُونَ	ﱡ	يختلفون	differing	yakhtalifūna
+4	2:113:32	e	١١٣	ﱢ			
+4	2:114:1	w	وَمَنۡ	ﱣ	ومن	And who	waman
+4	2:114:2	w	أَظۡلَمُ	ﱤ	اظلم	(is) more unjust	aẓlamu
+4	2:114:3	w	مِمَّن	ﱥ	ممن	than (one) who	mimman
+5	2:114:4	w	مَّنَعَ	ﱦ	منع	prevents	manaʿa
+5	2:114:5	w	مَسَٰجِدَ	ﱧ	مساجد	(the) masajid	masājida
+5	2:114:6	w	ٱللَّهِ	ﱨ	الله	(of) Allah	l-lahi
+5	2:114:7	w	أَن	ﱩ	ان	to	an
+5	2:114:8	w	يُذۡكَرَ	ﱪ	يذكر	be mentioned	yudh'kara
+5	2:114:9	w	فِيهَا	ﱫ	فيها	in them	fīhā
+5	2:114:10	w	ٱسۡمُهُۥ	ﱬ	اسمه	His name	us'muhu
+5	2:114:11	w	وَسَعَىٰ	ﱭ	وسعى	and strives	wasaʿā
+5	2:114:12	w	فِي	ﱮ	في	for	fī
+5	2:114:13	w	خَرَابِهَآۚ	ﱯﱰ	خرابها	their destruction	kharābihā
+6	2:114:14	w	أُوْلَٰٓئِكَ	ﱱ	اولايك	Those	ulāika
+6	2:114:15	w	مَا	ﱲ	ما	Not	mā
+6	2:114:16	w	كَانَ	ﱳ	كان	it is	kāna
+6	2:114:17	w	لَهُمۡ	ﱴ	لهم	for them	lahum
+6	2:114:18	w	أَن	ﱵ	ان	that	an
+6	2:114:19	w	يَدۡخُلُوهَآ	ﱶ	يدخلوها	they enter them	yadkhulūhā
+6	2:114:20	w	إِلَّا	ﱷ	الا	except	illā
+6	2:114:21	w	خَآئِفِينَۚ	ﱸﱹ	خايفين	(like) those in fear	khāifīna
+6	2:114:22	w	لَهُمۡ	ﱺ	لهم	For them	lahum
+6	2:114:23	w	فِي	ﱻ	في	in	fī
+7	2:114:24	w	ٱلدُّنۡيَا	ﱼ	الدنيا	the world	l-dun'yā
+7	2:114:25	w	خِزۡيٞ	ﱽ	خزي	(is) disgrace	khiz'yun
+7	2:114:26	w	وَلَهُمۡ	ﱾ	ولهم	and for them	walahum
+7	2:114:27	w	فِي	ﱿ	في	in	fī
+7	2:114:28	w	ٱلۡأٓخِرَةِ	ﲀ	الاخرة	the Hereafter	l-ākhirati
+7	2:114:29	w	عَذَابٌ	ﲁ	عذاب	(is) a punishment	ʿadhābun
+7	2:114:30	w	عَظِيمٞ	ﲂ	عظيم	great	ʿaẓīmun
+7	2:114:31	e	١١٤	ﲃ			
+7	2:115:1	w	وَلِلَّهِ	ﲄ	ولله	And for Allah	walillahi
+7	2:115:2	w	ٱلۡمَشۡرِقُ	ﲅ	المشرق	(is) the east	l-mashriqu
+8	2:115:3	w	وَٱلۡمَغۡرِبُۚ	ﲆﲇ	والمغرب	and the west	wal-maghribu
+8	2:115:4	w	فَأَيۡنَمَا	ﲈ	فاينما	so wherever	fa-aynamā
+8	2:115:5	w	تُوَلُّواْ	ﲉ	تولوا	you turn	tuwallū
+8	2:115:6	w	فَثَمَّ	ﲊ	فثم	[so] there	fathamma
+8	2:115:7	w	وَجۡهُ	ﲋ	وجه	(is the) face	wajhu
+8	2:115:8	w	ٱللَّهِۚ	ﲌﲍ	الله	(of) Allah	l-lahi
+8	2:115:9	w	إِنَّ	ﲎ	ان	Indeed	inna
+8	2:115:10	w	ٱللَّهَ	ﲏ	الله	Allah	l-laha
+8	2:115:11	w	وَٰسِعٌ	ﲐ	واسع	(is) All-Encompassing	wāsiʿun
+8	2:115:12	w	عَلِيمٞ	ﲑ	عليم	All-Knowing	ʿalīmun
+8	2:115:13	e	١١٥	ﲒ			
+9	2:116:1	w	وَقَالُواْ	ﲓ	وقالوا	And they said	waqālū
+9	2:116:2	w	ٱتَّخَذَ	ﲔ	اتخذ	has taken	ittakhadha
+9	2:116:3	w	ٱللَّهُ	ﲕ	الله	Allah	l-lahu
+9	2:116:4	w	وَلَدٗاۗ	ﲖﲗ	ولدا	a son	waladan
+9	2:116:5	w	سُبۡحَٰنَهُۥۖ	ﲘﲙ	سبحانه	Glory be to Him	sub'ḥānahu
+9	2:116:6	w	بَل	ﲚ	بل	Nay	bal
+9	2:116:7	w	لَّهُۥ	ﲛ	له	for Him	lahu
+9	2:116:8	w	مَا	ﲜ	ما	(is) what	mā
+9	2:116:9	w	فِي	ﲝ	في	(is) in	fī
+9	2:116:10	w	ٱلسَّمَٰوَٰتِ	ﲞ	السماوات	the heavens	l-samāwāti
+10	2:116:11	w	وَٱلۡأَرۡضِۖ	ﲟﲠ	والارض	and the earth	wal-arḍi
+10	2:116:12	w	كُلّٞ	ﲡ	كل	All	kullun
+10	2:116:13	w	لَّهُۥ	ﲢ	له	to Him	lahu
+10	2:116:14	w	قَٰنِتُونَ	ﲣ	قانتون	(are) humbly obedient	qānitūna
+10	2:116:15	e	١١٦	ﲤ			
+10	2:117:1	w	بَدِيعُ	ﲥ	بديع	(The) Originator	badīʿu
+10	2:117:2	w	ٱلسَّمَٰوَٰتِ	ﲦ	السماوات	(of) the heavens	l-samāwāti
+10	2:117:3	w	وَٱلۡأَرۡضِۖ	ﲧﲨ	والارض	and the earth	wal-arḍi
+11	2:117:4	w	وَإِذَا	ﲩ	واذا	And when	wa-idhā
+11	2:117:5	w	قَضَىٰٓ	ﲪ	قضى	He decrees	qaḍā
+11	2:117:6	w	أَمۡرٗا	ﲫ	امرا	a matter	amran
+11	2:117:7	w	فَإِنَّمَا	ﲬ	فانما	[so] only	fa-innamā
+11	2:117:8	w	يَقُولُ	ﲭ	يقول	He says	yaqūlu
+11	2:117:9	w	لَهُۥ	ﲮ	له	to it	lahu
+11	2:117:10	w	كُن	ﲯ	كن	Be	kun
+11	2:117:11	w	فَيَكُونُ	ﲰ	فيكون	and it becomes	fayakūnu
+11	2:117:12	e	١١٧	ﲱ			
+11	2:118:1	w	وَقَالَ	ﲲ	وقال	And said	waqāla
+12	2:118:2	w	ٱلَّذِينَ	ﲳ	الذين	those who	alladhīna
+12	2:118:3	w	لَا	ﲴ	لا	(do) not	lā
+12	2:118:4	w	يَعۡلَمُونَ	ﲵ	يعلمون	know	yaʿlamūna
+12	2:118:5	w	لَوۡلَا	ﲶ	لولا	Why not	lawlā
+12	2:118:6	w	يُكَلِّمُنَا	ﲷ	يكلمنا	speaks to us	yukallimunā
+12	2:118:7	w	ٱللَّهُ	ﲸ	الله	Allah	l-lahu
+12	2:118:8	w	أَوۡ	ﲹ	او	or	aw
+12	2:118:9	w	تَأۡتِينَآ	ﲺ	تاتينا	comes to us	tatīnā
+12	2:118:10	w	ءَايَةٞۗ	ﲻﲼ	اية	a sign	āyatun
+13	2:118:11	w	كَذَٰلِكَ	ﲽ	كذالك	Like that	kadhālika
+13	2:118:12	w	قَالَ	ﲾ	قال	said	qāla
+13	2:118:13	w	ٱلَّذِينَ	ﲿ	الذين	those	alladhīna
+13	2:118:14	w	مِن	ﳀ	من	from	min
+13	2:118:15	w	قَبۡلِهِم	ﳁ	قبلهم	before them	qablihim
+13	2:118:16	w	مِّثۡلَ	ﳂ	مثل	similar	mith'la
+13	2:118:17	w	قَوۡلِهِمۡۘ	ﳃﳄ	قولهم	their saying	qawlihim
+13	2:118:18	w	تَشَٰبَهَتۡ	ﳅ	تشابهت	Became alike	tashābahat
+14	2:118:19	w	قُلُوبُهُمۡۗ	ﳆﳇ	قلوبهم	their hearts	qulūbuhum
+14	2:118:20	w	قَدۡ	ﳈ	قد	Indeed	qad
+14	2:118:21	w	بَيَّنَّا	ﳉ	بينا	We have made clear	bayyannā
+14	2:118:22	w	ٱلۡأٓيَٰتِ	ﳊ	الايات	the signs	l-āyāti
+14	2:118:23	w	لِقَوۡمٖ	ﳋ	لقوم	for people	liqawmin
+14	2:118:24	w	يُوقِنُونَ	ﳌ	يوقنون	(who) firmly believe	yūqinūna
+14	2:118:25	e	١١٨	ﳍ			
+14	2:119:1	w	إِنَّآ	ﳎ	انا	Indeed We	innā
+14	2:119:2	w	أَرۡسَلۡنَٰكَ	ﳏ	ارسلناك	[We] have sent you	arsalnāka
+15	2:119:3	w	بِٱلۡحَقِّ	ﳐ	بالحق	with the truth	bil-ḥaqi
+15	2:119:4	w	بَشِيرٗا	ﳑ	بشيرا	(as) a bearer of good news	bashīran
+15	2:119:5	w	وَنَذِيرٗاۖ	ﳒﳓ	ونذيرا	and (as) a warner	wanadhīran
+15	2:119:6	w	وَلَا	ﳔ	ولا	And not	walā
+15	2:119:7	w	تُسۡـَٔلُ	ﳕ	تسال	you will be asked	tus'alu
+15	2:119:8	w	عَنۡ	ﳖ	عن	about	ʿan
+15	2:119:9	w	أَصۡحَٰبِ	ﳗ	اصحاب	(the) companions	aṣḥābi
+15	2:119:10	w	ٱلۡجَحِيمِ	ﳘ	الجحيم	(of) the blazing Fire	l-jaḥīmi
+15	2:119:11	e	١١٩	ﳙ			

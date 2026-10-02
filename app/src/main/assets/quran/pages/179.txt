@@ -1,0 +1,133 @@
+1	8:17:1	w	فَلَمۡ	ﱁ	فلم	And not	falam
+1	8:17:2	w	تَقۡتُلُوهُمۡ	ﱂ	تقتلوهم	you kill them	taqtulūhum
+1	8:17:3	w	وَلَٰكِنَّ	ﱃ	ولاكن	but	walākinna
+1	8:17:4	w	ٱللَّهَ	ﱄ	الله	Allah	l-laha
+1	8:17:5	w	قَتَلَهُمۡۚ	ﱅﱆ	قتلهم	killed them	qatalahum
+1	8:17:6	w	وَمَا	ﱇ	وما	And not	wamā
+1	8:17:7	w	رَمَيۡتَ	ﱈ	رميت	you threw	ramayta
+1	8:17:8	w	إِذۡ	ﱉ	اذ	when	idh
+1	8:17:9	w	رَمَيۡتَ	ﱊ	رميت	you threw	ramayta
+2	8:17:10	w	وَلَٰكِنَّ	ﱋ	ولاكن	but	walākinna
+2	8:17:11	w	ٱللَّهَ	ﱌ	الله	Allah	l-laha
+2	8:17:12	w	رَمَىٰ	ﱍ	رمى	threw	ramā
+2	8:17:13	w	وَلِيُبۡلِيَ	ﱎ	وليبلي	and that He may test	waliyub'liya
+2	8:17:14	w	ٱلۡمُؤۡمِنِينَ	ﱏ	المومنين	the believers	l-mu'minīna
+2	8:17:15	w	مِنۡهُ	ﱐ	منه	from Him	min'hu
+2	8:17:16	w	بَلَآءً	ﱑ	بلاء	(with) a trial	balāan
+2	8:17:17	w	حَسَنًاۚ	ﱒﱓ	حسنا	good	ḥasanan
+3	8:17:18	w	إِنَّ	ﱔ	ان	Indeed	inna
+3	8:17:19	w	ٱللَّهَ	ﱕ	الله	Allah	l-laha
+3	8:17:20	w	سَمِيعٌ	ﱖ	سميع	(is) All-Hearing	samīʿun
+3	8:17:21	w	عَلِيمٞ	ﱗ	عليم	All-Knowing	ʿalīmun
+3	8:17:22	e	١٧	ﱘ			
+3	8:18:1	w	ذَٰلِكُمۡ	ﱙ	ذالكم	That (is the case)	dhālikum
+3	8:18:2	w	وَأَنَّ	ﱚ	وان	and that	wa-anna
+3	8:18:3	w	ٱللَّهَ	ﱛ	الله	Allah (is)	l-laha
+3	8:18:4	w	مُوهِنُ	ﱜ	موهن	one who makes weak	mūhinu
+3	8:18:5	w	كَيۡدِ	ﱝ	كيد	(the) plan	kaydi
+4	8:18:6	w	ٱلۡكَٰفِرِينَ	ﱞ	الكافرين	(of) the disbelievers	l-kāfirīna
+4	8:18:7	e	١٨	ﱟ			
+4	8:19:1	w	إِن	ﱠ	ان	If	in
+4	8:19:2	w	تَسۡتَفۡتِحُواْ	ﱡ	تستفتحوا	you ask for victory	tastaftiḥū
+4	8:19:3	w	فَقَدۡ	ﱢ	فقد	then certainly	faqad
+4	8:19:4	w	جَآءَكُمُ	ﱣ	جاءكم	has come to you	jāakumu
+4	8:19:5	w	ٱلۡفَتۡحُۖ	ﱤﱥ	الفتح	the victory	l-fatḥu
+4	8:19:6	w	وَإِن	ﱦ	وان	And if	wa-in
+5	8:19:7	w	تَنتَهُواْ	ﱧ	تنتهوا	you desist	tantahū
+5	8:19:8	w	فَهُوَ	ﱨ	فهو	then it (is)	fahuwa
+5	8:19:9	w	خَيۡرٞ	ﱩ	خير	good	khayrun
+5	8:19:10	w	لَّكُمۡۖ	ﱪﱫ	لكم	for you	lakum
+5	8:19:11	w	وَإِن	ﱬ	وان	but if	wa-in
+5	8:19:12	w	تَعُودُواْ	ﱭ	تعودوا	you return	taʿūdū
+5	8:19:13	w	نَعُدۡ	ﱮ	نعد	We will return (too)	naʿud
+5	8:19:14	w	وَلَن	ﱯ	ولن	And never	walan
+5	8:19:15	w	تُغۡنِيَ	ﱰ	تغني	will avail	tugh'niya
+5	8:19:16	w	عَنكُمۡ	ﱱ	عنكم	you	ʿankum
+6	8:19:17	w	فِئَتُكُمۡ	ﱲ	فيتكم	your forces	fi-atukum
+6	8:19:18	w	شَيۡـٔٗا	ﱳ	شييا	anything	shayan
+6	8:19:19	w	وَلَوۡ	ﱴ	ولو	even if	walaw
+6	8:19:20	w	كَثُرَتۡ	ﱵ	كثرت	(they are) numerous	kathurat
+6	8:19:21	w	وَأَنَّ	ﱶ	وان	And that	wa-anna
+6	8:19:22	w	ٱللَّهَ	ﱷ	الله	Allah	l-laha
+6	8:19:23	w	مَعَ	ﱸ	مع	(is) with	maʿa
+6	8:19:24	w	ٱلۡمُؤۡمِنِينَ	ﱹ	المومنين	the believers	l-mu'minīna
+6	8:19:25	e	١٩	ﱺ			
+7	8:20:1	w	يَٰٓأَيُّهَا	ﱻ	يا ايها	O you	yāayyuhā
+7	8:20:2	w	ٱلَّذِينَ	ﱼ	الذين	who	alladhīna
+7	8:20:3	w	ءَامَنُوٓاْ	ﱽ	امنوا	believe	āmanū
+7	8:20:4	w	أَطِيعُواْ	ﱾ	اطيعوا	Obey	aṭīʿū
+7	8:20:5	w	ٱللَّهَ	ﱿ	الله	Allah	l-laha
+7	8:20:6	w	وَرَسُولَهُۥ	ﲀ	ورسوله	and His Messenger	warasūlahu
+7	8:20:7	w	وَلَا	ﲁ	ولا	And (do) not	walā
+7	8:20:8	w	تَوَلَّوۡاْ	ﲂ	تولوا	turn away	tawallaw
+7	8:20:9	w	عَنۡهُ	ﲃ	عنه	from him	ʿanhu
+8	8:20:10	w	وَأَنتُمۡ	ﲄ	وانتم	while you	wa-antum
+8	8:20:11	w	تَسۡمَعُونَ	ﲅ	تسمعون	hear	tasmaʿūna
+8	8:20:12	e	٢٠	ﲆ			
+8	8:21:1	w	وَلَا	ﲇ	ولا	And (do) not	walā
+8	8:21:2	w	تَكُونُواْ	ﲈ	تكونوا	be	takūnū
+8	8:21:3	w	كَٱلَّذِينَ	ﲉ	كالذين	like those who	ka-alladhīna
+8	8:21:4	w	قَالُواْ	ﲊ	قالوا	say	qālū
+8	8:21:5	w	سَمِعۡنَا	ﲋ	سمعنا	We heard	samiʿ'nā
+8	8:21:6	w	وَهُمۡ	ﲌ	وهم	while they	wahum
+9	8:21:7	w	لَا	ﲍ	لا	(do) not	lā
+9	8:21:8	w	يَسۡمَعُونَ	ﲎ	يسمعون	hear	yasmaʿūna
+9	8:21:9	e	٢١	ﲏ			
+9	8:22:1	w	۞ إِنَّ	ﲐ ﲑ	۞ ان	Indeed	inna
+9	8:22:2	w	شَرَّ	ﲒ	شر	worst	sharra
+9	8:22:3	w	ٱلدَّوَآبِّ	ﲓ	الدواب	(of) the living creatures	l-dawābi
+9	8:22:4	w	عِندَ	ﲔ	عند	near	ʿinda
+9	8:22:5	w	ٱللَّهِ	ﲕ	الله	Allah	l-lahi
+9	8:22:6	w	ٱلصُّمُّ	ﲖ	الصم	(are) the deaf	l-ṣumu
+9	8:22:7	w	ٱلۡبُكۡمُ	ﲗ	البكم	the dumb	l-buk'mu
+10	8:22:8	w	ٱلَّذِينَ	ﲘ	الذين	those who	alladhīna
+10	8:22:9	w	لَا	ﲙ	لا	(do) not	lā
+10	8:22:10	w	يَعۡقِلُونَ	ﲚ	يعقلون	use (their) intellect	yaʿqilūna
+10	8:22:11	e	٢٢	ﲛ			
+10	8:23:1	w	وَلَوۡ	ﲜ	ولو	And if	walaw
+10	8:23:2	w	عَلِمَ	ﲝ	علم	(had) known	ʿalima
+10	8:23:3	w	ٱللَّهُ	ﲞ	الله	Allah	l-lahu
+10	8:23:4	w	فِيهِمۡ	ﲟ	فيهم	in them	fīhim
+10	8:23:5	w	خَيۡرٗا	ﲠ	خيرا	any good	khayran
+10	8:23:6	w	لَّأَسۡمَعَهُمۡۖ	ﲡﲢ	لاسمعهم	surely, He (would) have made them hear	la-asmaʿahum
+11	8:23:7	w	وَلَوۡ	ﲣ	ولو	And if	walaw
+11	8:23:8	w	أَسۡمَعَهُمۡ	ﲤ	اسمعهم	He had made them hear	asmaʿahum
+11	8:23:9	w	لَتَوَلَّواْ	ﲥ	لتولوا	surely they would have turned away	latawallaw
+11	8:23:10	w	وَّهُم	ﲦ	وهم	while they	wahum
+11	8:23:11	w	مُّعۡرِضُونَ	ﲧ	معرضون	(were) averse	muʿ'riḍūna
+11	8:23:12	e	٢٣	ﲨ			
+11	8:24:1	w	يَٰٓأَيُّهَا	ﲩ	يا ايها	O you	yāayyuhā
+11	8:24:2	w	ٱلَّذِينَ	ﲪ	الذين	who	alladhīna
+12	8:24:3	w	ءَامَنُواْ	ﲫ	امنوا	believe	āmanū
+12	8:24:4	w	ٱسۡتَجِيبُواْ	ﲬ	استجيبوا	Respond	is'tajībū
+12	8:24:5	w	لِلَّهِ	ﲭ	لله	to Allah	lillahi
+12	8:24:6	w	وَلِلرَّسُولِ	ﲮ	وللرسول	and His Messenger	walilrrasūli
+12	8:24:7	w	إِذَا	ﲯ	اذا	when	idhā
+12	8:24:8	w	دَعَاكُمۡ	ﲰ	دعاكم	he calls you	daʿākum
+12	8:24:9	w	لِمَا	ﲱ	لما	to what	limā
+12	8:24:10	w	يُحۡيِيكُمۡۖ	ﲲﲳ	يحييكم	gives you life	yuḥ'yīkum
+13	8:24:11	w	وَٱعۡلَمُوٓاْ	ﲴ	واعلموا	And know	wa-iʿ'lamū
+13	8:24:12	w	أَنَّ	ﲵ	ان	that	anna
+13	8:24:13	w	ٱللَّهَ	ﲶ	الله	Allah	l-laha
+13	8:24:14	w	يَحُولُ	ﲷ	يحول	comes	yaḥūlu
+13	8:24:15	w	بَيۡنَ	ﲸ	بين	(in) between	bayna
+13	8:24:16	w	ٱلۡمَرۡءِ	ﲹ	المرء	a man	l-mari
+13	8:24:17	w	وَقَلۡبِهِۦ	ﲺ	وقلبه	and his heart	waqalbihi
+13	8:24:18	w	وَأَنَّهُۥٓ	ﲻ	وانه	and that	wa-annahu
+13	8:24:19	w	إِلَيۡهِ	ﲼ	اليه	to Him	ilayhi
+14	8:24:20	w	تُحۡشَرُونَ	ﲽ	تحشرون	you will be gathered	tuḥ'sharūna
+14	8:24:21	e	٢٤	ﲾ			
+14	8:25:1	w	وَٱتَّقُواْ	ﲿ	واتقوا	And fear	wa-ittaqū
+14	8:25:2	w	فِتۡنَةٗ	ﳀ	فتنة	a trial	fit'natan
+14	8:25:3	w	لَّا	ﳁ	لا	not	lā
+14	8:25:4	w	تُصِيبَنَّ	ﳂ	تصيبن	which will afflict	tuṣībanna
+14	8:25:5	w	ٱلَّذِينَ	ﳃ	الذين	those who	alladhīna
+14	8:25:6	w	ظَلَمُواْ	ﳄ	ظلموا	do wrong	ẓalamū
+15	8:25:7	w	مِنكُمۡ	ﳅ	منكم	among you	minkum
+15	8:25:8	w	خَآصَّةٗۖ	ﳆﳇ	خاصة	exclusively	khāṣṣatan
+15	8:25:9	w	وَٱعۡلَمُوٓاْ	ﳈ	واعلموا	And know	wa-iʿ'lamū
+15	8:25:10	w	أَنَّ	ﳉ	ان	that	anna
+15	8:25:11	w	ٱللَّهَ	ﳊ	الله	Allah	l-laha
+15	8:25:12	w	شَدِيدُ	ﳋ	شديد	(is) severe	shadīdu
+15	8:25:13	w	ٱلۡعِقَابِ	ﳌ	العقاب	(in) the penalty	l-ʿiqābi
+15	8:25:14	e	٢٥	ﳍ			

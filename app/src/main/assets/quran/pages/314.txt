@@ -1,0 +1,165 @@
+1	20:38:1	w	إِذۡ	ﱁ	اذ	When	idh
+1	20:38:2	w	أَوۡحَيۡنَآ	ﱂ	اوحينا	We inspired	awḥaynā
+1	20:38:3	w	إِلَىٰٓ	ﱃ	الى	to	ilā
+1	20:38:4	w	أُمِّكَ	ﱄ	امك	your mother	ummika
+1	20:38:5	w	مَا	ﱅ	ما	what	mā
+1	20:38:6	w	يُوحَىٰٓ	ﱆ	يوحى	is inspired	yūḥā
+1	20:38:7	e	٣٨	ﱇ			
+1	20:39:1	w	أَنِ	ﱈ	ان	That	ani
+1	20:39:2	w	ٱقۡذِفِيهِ	ﱉ	اقذفيه	cast him	iq'dhifīhi
+1	20:39:3	w	فِي	ﱊ	في	in	fī
+1	20:39:4	w	ٱلتَّابُوتِ	ﱋ	التابوت	the chest	l-tābūti
+1	20:39:5	w	فَٱقۡذِفِيهِ	ﱌ	فاقذفيه	then cast it	fa-iq'dhifīhi
+2	20:39:6	w	فِي	ﱍ	في	in	fī
+2	20:39:7	w	ٱلۡيَمِّ	ﱎ	اليم	the river	l-yami
+2	20:39:8	w	فَلۡيُلۡقِهِ	ﱏ	فليلقه	then let cast it	falyul'qihi
+2	20:39:9	w	ٱلۡيَمُّ	ﱐ	اليم	the river	l-yamu
+2	20:39:10	w	بِٱلسَّاحِلِ	ﱑ	بالساحل	on the bank	bil-sāḥili
+2	20:39:11	w	يَأۡخُذۡهُ	ﱒ	ياخذه	will take him	yakhudh'hu
+2	20:39:12	w	عَدُوّٞ	ﱓ	عدو	an enemy	ʿaduwwun
+2	20:39:13	w	لِّي	ﱔ	لي	to Me	lī
+2	20:39:14	w	وَعَدُوّٞ	ﱕ	وعدو	and an enemy	waʿaduwwun
+2	20:39:15	w	لَّهُۥۚ	ﱖﱗ	له	to him	lahu
+2	20:39:16	w	وَأَلۡقَيۡتُ	ﱘ	والقيت	And I cast	wa-alqaytu
+3	20:39:17	w	عَلَيۡكَ	ﱙ	عليك	over you	ʿalayka
+3	20:39:18	w	مَحَبَّةٗ	ﱚ	محبة	love	maḥabbatan
+3	20:39:19	w	مِّنِّي	ﱛ	مني	from Me	minnī
+3	20:39:20	w	وَلِتُصۡنَعَ	ﱜ	ولتصنع	and that you may be brought up	walituṣ'naʿa
+3	20:39:21	w	عَلَىٰ	ﱝ	على	under	ʿalā
+3	20:39:22	w	عَيۡنِيٓ	ﱞ	عيني	My eye	ʿaynī
+3	20:39:23	e	٣٩	ﱟ			
+3	20:40:1	w	إِذۡ	ﱠ	اذ	When	idh
+3	20:40:2	w	تَمۡشِيٓ	ﱡ	تمشي	was going	tamshī
+3	20:40:3	w	أُخۡتُكَ	ﱢ	اختك	your sister	ukh'tuka
+3	20:40:4	w	فَتَقُولُ	ﱣ	فتقول	and she said	fataqūlu
+4	20:40:5	w	هَلۡ	ﱤ	هل	Shall	hal
+4	20:40:6	w	أَدُلُّكُمۡ	ﱥ	ادلكم	I show you	adullukum
+4	20:40:7	w	عَلَىٰ	ﱦ	على	[to]	ʿalā
+4	20:40:8	w	مَن	ﱧ	من	(one) who	man
+4	20:40:9	w	يَكۡفُلُهُۥۖ	ﱨﱩ	يكفله	will nurse and rear him	yakfuluhu
+4	20:40:10	w	فَرَجَعۡنَٰكَ	ﱪ	فرجعناك	So We returned you	farajaʿnāka
+4	20:40:11	w	إِلَىٰٓ	ﱫ	الى	to	ilā
+4	20:40:12	w	أُمِّكَ	ﱬ	امك	your mother	ummika
+4	20:40:13	w	كَيۡ	ﱭ	كي	that	kay
+4	20:40:14	w	تَقَرَّ	ﱮ	تقر	may be cooled	taqarra
+4	20:40:15	w	عَيۡنُهَا	ﱯ	عينها	her eyes	ʿaynuhā
+5	20:40:16	w	وَلَا	ﱰ	ولا	and not	walā
+5	20:40:17	w	تَحۡزَنَۚ	ﱱﱲ	تحزن	she grieves	taḥzana
+5	20:40:18	w	وَقَتَلۡتَ	ﱳ	وقتلت	And you killed	waqatalta
+5	20:40:19	w	نَفۡسٗا	ﱴ	نفسا	a man	nafsan
+5	20:40:20	w	فَنَجَّيۡنَٰكَ	ﱵ	فنجيناك	but We saved you	fanajjaynāka
+5	20:40:21	w	مِنَ	ﱶ	من	from	mina
+5	20:40:22	w	ٱلۡغَمِّ	ﱷ	الغم	the distress	l-ghami
+5	20:40:23	w	وَفَتَنَّٰكَ	ﱸ	وفتناك	and We tried you	wafatannāka
+5	20:40:24	w	فُتُونٗاۚ	ﱹﱺ	فتونا	(with) a trial	futūnan
+6	20:40:25	w	فَلَبِثۡتَ	ﱻ	فلبثت	Then you remained	falabith'ta
+6	20:40:26	w	سِنِينَ	ﱼ	سنين	(some) years	sinīna
+6	20:40:27	w	فِيٓ	ﱽ	في	with	fī
+6	20:40:28	w	أَهۡلِ	ﱾ	اهل	(the) people	ahli
+6	20:40:29	w	مَدۡيَنَ	ﱿ	مدين	(of) Madyan	madyana
+6	20:40:30	w	ثُمَّ	ﲀ	ثم	Then	thumma
+6	20:40:31	w	جِئۡتَ	ﲁ	جيت	you came	ji'ta
+6	20:40:32	w	عَلَىٰ	ﲂ	على	at	ʿalā
+6	20:40:33	w	قَدَرٖ	ﲃ	قدر	the decreed (time)	qadarin
+6	20:40:34	w	يَٰمُوسَىٰ	ﲄ	يا موسى	O Musa	yāmūsā
+6	20:40:35	e	٤٠	ﲅ			
+7	20:41:1	w	وَٱصۡطَنَعۡتُكَ	ﲆ	واصطنعتك	And I (have) chosen you	wa-iṣ'ṭanaʿtuka
+7	20:41:2	w	لِنَفۡسِي	ﲇ	لنفسي	for Myself	linafsī
+7	20:41:3	e	٤١	ﲈ			
+7	20:42:1	w	ٱذۡهَبۡ	ﲉ	اذهب	Go	idh'hab
+7	20:42:2	w	أَنتَ	ﲊ	انت	you	anta
+7	20:42:3	w	وَأَخُوكَ	ﲋ	واخوك	and your brother	wa-akhūka
+7	20:42:4	w	بِـَٔايَٰتِي	ﲌ	باياتي	with My Signs	biāyātī
+7	20:42:5	w	وَلَا	ﲍ	ولا	and (do) not	walā
+8	20:42:6	w	تَنِيَا	ﲎ	تنيا	slacken	taniyā
+8	20:42:7	w	فِي	ﲏ	في	in	fī
+8	20:42:8	w	ذِكۡرِي	ﲐ	ذكري	My remembrance	dhik'rī
+8	20:42:9	e	٤٢	ﲑ			
+8	20:43:1	w	ٱذۡهَبَآ	ﲒ	اذهبا	Go, both of you	idh'habā
+8	20:43:2	w	إِلَىٰ	ﲓ	الى	to	ilā
+8	20:43:3	w	فِرۡعَوۡنَ	ﲔ	فرعون	Firaun	fir'ʿawna
+8	20:43:4	w	إِنَّهُۥ	ﲕ	انه	Indeed, he	innahu
+8	20:43:5	w	طَغَىٰ	ﲖ	طغى	(has) transgressed	ṭaghā
+8	20:43:6	e	٤٣	ﲗ			
+8	20:44:1	w	فَقُولَا	ﲘ	فقولا	And speak	faqūlā
+8	20:44:2	w	لَهُۥ	ﲙ	له	to him	lahu
+8	20:44:3	w	قَوۡلٗا	ﲚ	قولا	a word	qawlan
+9	20:44:4	w	لَّيِّنٗا	ﲛ	لينا	gentle	layyinan
+9	20:44:5	w	لَّعَلَّهُۥ	ﲜ	لعله	perhaps he	laʿallahu
+9	20:44:6	w	يَتَذَكَّرُ	ﲝ	يتذكر	may take heed	yatadhakkaru
+9	20:44:7	w	أَوۡ	ﲞ	او	or	aw
+9	20:44:8	w	يَخۡشَىٰ	ﲟ	يخشى	fear	yakhshā
+9	20:44:9	e	٤٤	ﲠ			
+9	20:45:1	w	قَالَا	ﲡ	قالا	They said	qālā
+9	20:45:2	w	رَبَّنَآ	ﲢ	ربنا	Our Lord	rabbanā
+9	20:45:3	w	إِنَّنَا	ﲣ	اننا	Indeed, we	innanā
+9	20:45:4	w	نَخَافُ	ﲤ	نخاف	fear	nakhāfu
+9	20:45:5	w	أَن	ﲥ	ان	that	an
+9	20:45:6	w	يَفۡرُطَ	ﲦ	يفرط	he will hasten	yafruṭa
+10	20:45:7	w	عَلَيۡنَآ	ﲧ	علينا	against us	ʿalaynā
+10	20:45:8	w	أَوۡ	ﲨ	او	or	aw
+10	20:45:9	w	أَن	ﲩ	ان	that	an
+10	20:45:10	w	يَطۡغَىٰ	ﲪ	يطغى	he will transgress	yaṭghā
+10	20:45:11	e	٤٥	ﲫ			
+10	20:46:1	w	قَالَ	ﲬ	قال	He said	qāla
+10	20:46:2	w	لَا	ﲭ	لا	(Do) not	lā
+10	20:46:3	w	تَخَافَآۖ	ﲮﲯ	تخافا	fear	takhāfā
+10	20:46:4	w	إِنَّنِي	ﲰ	انني	Indeed, I Am	innanī
+10	20:46:5	w	مَعَكُمَآ	ﲱ	معكما	with you both	maʿakumā
+10	20:46:6	w	أَسۡمَعُ	ﲲ	اسمع	I hear	asmaʿu
+10	20:46:7	w	وَأَرَىٰ	ﲳ	وارى	and I see	wa-arā
+11	20:46:8	e	٤٦	ﲴ			
+11	20:47:1	w	فَأۡتِيَاهُ	ﲵ	فاتياه	So go to him	fatiyāhu
+11	20:47:2	w	فَقُولَآ	ﲶ	فقولا	and say	faqūlā
+11	20:47:3	w	إِنَّا	ﲷ	انا	Indeed, we	innā
+11	20:47:4	w	رَسُولَا	ﲸ	رسولا	both (are) Messengers	rasūlā
+11	20:47:5	w	رَبِّكَ	ﲹ	ربك	(of) your Lord	rabbika
+11	20:47:6	w	فَأَرۡسِلۡ	ﲺ	فارسل	so send	fa-arsil
+11	20:47:7	w	مَعَنَا	ﲻ	معنا	with us	maʿanā
+11	20:47:8	w	بَنِيٓ	ﲼ	بني	(the) Children of Israel	banī
+11	20:47:9	w	إِسۡرَٰٓءِيلَ	ﲽ	اسراييل	(the) Children of Israel	is'rāīla
+12	20:47:10	w	وَلَا	ﲾ	ولا	and (do) not	walā
+12	20:47:11	w	تُعَذِّبۡهُمۡۖ	ﲿﳀ	تعذبهم	torment them	tuʿadhib'hum
+12	20:47:12	w	قَدۡ	ﳁ	قد	Verily	qad
+12	20:47:13	w	جِئۡنَٰكَ	ﳂ	جيناك	we came to you	ji'nāka
+12	20:47:14	w	بِـَٔايَةٖ	ﳃ	باية	with a Sign	biāyatin
+12	20:47:15	w	مِّن	ﳄ	من	from	min
+12	20:47:16	w	رَّبِّكَۖ	ﳅﳆ	ربك	your Lord	rabbika
+12	20:47:17	w	وَٱلسَّلَٰمُ	ﳇ	والسلام	And peace	wal-salāmu
+12	20:47:18	w	عَلَىٰ	ﳈ	على	on	ʿalā
+12	20:47:19	w	مَنِ	ﳉ	من	(one) who	mani
+12	20:47:20	w	ٱتَّبَعَ	ﳊ	اتبع	follows	ittabaʿa
+13	20:47:21	w	ٱلۡهُدَىٰٓ	ﳋ	الهدى	the Guidance	l-hudā
+13	20:47:22	e	٤٧	ﳌ			
+13	20:48:1	w	إِنَّا	ﳍ	انا	Indeed, we	innā
+13	20:48:2	w	قَدۡ	ﳎ	قد	verily	qad
+13	20:48:3	w	أُوحِيَ	ﳏ	اوحي	it has been revealed	ūḥiya
+13	20:48:4	w	إِلَيۡنَآ	ﳐ	الينا	to us	ilaynā
+13	20:48:5	w	أَنَّ	ﳑ	ان	that	anna
+13	20:48:6	w	ٱلۡعَذَابَ	ﳒ	العذاب	the punishment	l-ʿadhāba
+13	20:48:7	w	عَلَىٰ	ﳓ	على	(will be) on	ʿalā
+13	20:48:8	w	مَن	ﳔ	من	(one) who	man
+13	20:48:9	w	كَذَّبَ	ﳕ	كذب	denies	kadhaba
+14	20:48:10	w	وَتَوَلَّىٰ	ﳖ	وتولى	and turns away	watawallā
+14	20:48:11	e	٤٨	ﳗ			
+14	20:49:1	w	قَالَ	ﳘ	قال	He said	qāla
+14	20:49:2	w	فَمَن	ﳙ	فمن	Then who	faman
+14	20:49:3	w	رَّبُّكُمَا	ﳚ	ربكما	(is) your Lord	rabbukumā
+14	20:49:4	w	يَٰمُوسَىٰ	ﳛ	يا موسى	O Musa	yāmūsā
+14	20:49:5	e	٤٩	ﳜ			
+14	20:50:1	w	قَالَ	ﳝ	قال	He said	qāla
+14	20:50:2	w	رَبُّنَا	ﳞ	ربنا	Our Lord	rabbunā
+14	20:50:3	w	ٱلَّذِيٓ	ﳟ	الذي	(is) the One Who	alladhī
+14	20:50:4	w	أَعۡطَىٰ	ﳠ	اعطى	gave	aʿṭā
+15	20:50:5	w	كُلَّ	ﳡ	كل	(to) every	kulla
+15	20:50:6	w	شَيۡءٍ	ﳢ	شيء	thing	shayin
+15	20:50:7	w	خَلۡقَهُۥ	ﳣ	خلقه	its form	khalqahu
+15	20:50:8	w	ثُمَّ	ﳤ	ثم	then	thumma
+15	20:50:9	w	هَدَىٰ	ﳥ	هدى	He guided (it)	hadā
+15	20:50:10	e	٥٠	ﳦ			
+15	20:51:1	w	قَالَ	ﳧ	قال	He said	qāla
+15	20:51:2	w	فَمَا	ﳨ	فما	Then what	famā
+15	20:51:3	w	بَالُ	ﳩ	بال	(is the) case	bālu
+15	20:51:4	w	ٱلۡقُرُونِ	ﳪ	القرون	(of) the generations	l-qurūni
+15	20:51:5	w	ٱلۡأُولَىٰ	ﳫ	الاولى	(of) the former	l-ūlā
+15	20:51:6	e	٥١	ﳬ			

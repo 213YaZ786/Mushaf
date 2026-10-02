@@ -1,0 +1,142 @@
+1	36:28:1	w	۞ وَمَآ	ﱁ ﱂ	۞ وما	And not	wamā
+1	36:28:2	w	أَنزَلۡنَا	ﱃ	انزلنا	We sent down	anzalnā
+1	36:28:3	w	عَلَىٰ	ﱄ	على	upon	ʿalā
+1	36:28:4	w	قَوۡمِهِۦ	ﱅ	قومه	his people	qawmihi
+1	36:28:5	w	مِنۢ	ﱆ	من	after him	min
+1	36:28:6	w	بَعۡدِهِۦ	ﱇ	بعده	after him	baʿdihi
+1	36:28:7	w	مِن	ﱈ	من	any	min
+1	36:28:8	w	جُندٖ	ﱉ	جند	host	jundin
+1	36:28:9	w	مِّنَ	ﱊ	من	from	mina
+1	36:28:10	w	ٱلسَّمَآءِ	ﱋ	السماء	the heaven	l-samāi
+1	36:28:11	w	وَمَا	ﱌ	وما	and not	wamā
+2	36:28:12	w	كُنَّا	ﱍ	كنا	were We	kunnā
+2	36:28:13	w	مُنزِلِينَ	ﱎ	منزلين	(to) send down	munzilīna
+2	36:28:14	e	٢٨	ﱏ			
+2	36:29:1	w	إِن	ﱐ	ان	Not	in
+2	36:29:2	w	كَانَتۡ	ﱑ	كانت	it was	kānat
+2	36:29:3	w	إِلَّا	ﱒ	الا	but	illā
+2	36:29:4	w	صَيۡحَةٗ	ﱓ	صيحة	a shout	ṣayḥatan
+2	36:29:5	w	وَٰحِدَةٗ	ﱔ	واحدة	one	wāḥidatan
+2	36:29:6	w	فَإِذَا	ﱕ	فاذا	then behold	fa-idhā
+2	36:29:7	w	هُمۡ	ﱖ	هم	They	hum
+2	36:29:8	w	خَٰمِدُونَ	ﱗ	خامدون	(were) extinguished	khāmidūna
+3	36:29:9	e	٢٩	ﱘ			
+3	36:30:1	w	يَٰحَسۡرَةً	ﱙ	يا حسرة	Alas	yāḥasratan
+3	36:30:2	w	عَلَى	ﱚ	على	for	ʿalā
+3	36:30:3	w	ٱلۡعِبَادِۚ	ﱛﱜ	العباد	the servants	l-ʿibādi
+3	36:30:4	w	مَا	ﱝ	ما	Not	mā
+3	36:30:5	w	يَأۡتِيهِم	ﱞ	ياتيهم	came to them	yatīhim
+3	36:30:6	w	مِّن	ﱟ	من	any	min
+3	36:30:7	w	رَّسُولٍ	ﱠ	رسول	Messenger	rasūlin
+3	36:30:8	w	إِلَّا	ﱡ	الا	but	illā
+3	36:30:9	w	كَانُواْ	ﱢ	كانوا	they did	kānū
+3	36:30:10	w	بِهِۦ	ﱣ	به	mock at him	bihi
+4	36:30:11	w	يَسۡتَهۡزِءُونَ	ﱤ	يستهزيون	mock at him	yastahziūna
+4	36:30:12	e	٣٠	ﱥ			
+4	36:31:1	w	أَلَمۡ	ﱦ	الم	Do not	alam
+4	36:31:2	w	يَرَوۡاْ	ﱧ	يروا	they see	yaraw
+4	36:31:3	w	كَمۡ	ﱨ	كم	how many	kam
+4	36:31:4	w	أَهۡلَكۡنَا	ﱩ	اهلكنا	We destroyed	ahlaknā
+4	36:31:5	w	قَبۡلَهُم	ﱪ	قبلهم	before them	qablahum
+4	36:31:6	w	مِّنَ	ﱫ	من	of	mina
+4	36:31:7	w	ٱلۡقُرُونِ	ﱬ	القرون	the generations	l-qurūni
+5	36:31:8	w	أَنَّهُمۡ	ﱭ	انهم	That they	annahum
+5	36:31:9	w	إِلَيۡهِمۡ	ﱮ	اليهم	to them	ilayhim
+5	36:31:10	w	لَا	ﱯ	لا	will not return	lā
+5	36:31:11	w	يَرۡجِعُونَ	ﱰ	يرجعون	will not return	yarjiʿūna
+5	36:31:12	e	٣١	ﱱ			
+5	36:32:1	w	وَإِن	ﱲ	وان	And surely	wa-in
+5	36:32:2	w	كُلّٞ	ﱳ	كل	all	kullun
+5	36:32:3	w	لَّمَّا	ﱴ	لما	then	lammā
+5	36:32:4	w	جَمِيعٞ	ﱵ	جميع	together	jamīʿun
+5	36:32:5	w	لَّدَيۡنَا	ﱶ	لدينا	before Us	ladaynā
+5	36:32:6	w	مُحۡضَرُونَ	ﱷ	محضرون	(will be) brought	muḥ'ḍarūna
+6	36:32:7	e	٣٢	ﱸ			
+6	36:33:1	w	وَءَايَةٞ	ﱹ	واية	And a Sign	waāyatun
+6	36:33:2	w	لَّهُمُ	ﱺ	لهم	for them	lahumu
+6	36:33:3	w	ٱلۡأَرۡضُ	ﱻ	الارض	(is) the earth	l-arḍu
+6	36:33:4	w	ٱلۡمَيۡتَةُ	ﱼ	الميتة	dead	l-maytatu
+6	36:33:5	w	أَحۡيَيۡنَٰهَا	ﱽ	احييناها	We give it life	aḥyaynāhā
+6	36:33:6	w	وَأَخۡرَجۡنَا	ﱾ	واخرجنا	and We bring forth	wa-akhrajnā
+6	36:33:7	w	مِنۡهَا	ﱿ	منها	from it	min'hā
+6	36:33:8	w	حَبّٗا	ﲀ	حبا	grain	ḥabban
+7	36:33:9	w	فَمِنۡهُ	ﲁ	فمنه	and from it	famin'hu
+7	36:33:10	w	يَأۡكُلُونَ	ﲂ	ياكلون	they eat	yakulūna
+7	36:33:11	e	٣٣	ﲃ			
+7	36:34:1	w	وَجَعَلۡنَا	ﲄ	وجعلنا	And We placed	wajaʿalnā
+7	36:34:2	w	فِيهَا	ﲅ	فيها	therein	fīhā
+7	36:34:3	w	جَنَّٰتٖ	ﲆ	جنات	gardens	jannātin
+7	36:34:4	w	مِّن	ﲇ	من	of	min
+7	36:34:5	w	نَّخِيلٖ	ﲈ	نخيل	date-palms	nakhīlin
+8	36:34:6	w	وَأَعۡنَٰبٖ	ﲉ	واعناب	and grapevines	wa-aʿnābin
+8	36:34:7	w	وَفَجَّرۡنَا	ﲊ	وفجرنا	and We caused to gush forth	wafajjarnā
+8	36:34:8	w	فِيهَا	ﲋ	فيها	in it	fīhā
+8	36:34:9	w	مِنَ	ﲌ	من	of	mina
+8	36:34:10	w	ٱلۡعُيُونِ	ﲍ	العيون	the springs	l-ʿuyūni
+8	36:34:11	e	٣٤	ﲎ			
+8	36:35:1	w	لِيَأۡكُلُواْ	ﲏ	لياكلوا	That they may eat	liyakulū
+8	36:35:2	w	مِن	ﲐ	من	of	min
+8	36:35:3	w	ثَمَرِهِۦ	ﲑ	ثمره	its fruit	thamarihi
+9	36:35:4	w	وَمَا	ﲒ	وما	And not	wamā
+9	36:35:5	w	عَمِلَتۡهُ	ﲓ	عملته	made it	ʿamilathu
+9	36:35:6	w	أَيۡدِيهِمۡۚ	ﲔﲕ	ايديهم	their hands	aydīhim
+9	36:35:7	w	أَفَلَا	ﲖ	افلا	So will not	afalā
+9	36:35:8	w	يَشۡكُرُونَ	ﲗ	يشكرون	they be grateful	yashkurūna
+9	36:35:9	e	٣٥	ﲘ			
+9	36:36:1	w	سُبۡحَٰنَ	ﲙ	سبحان	Glory be	sub'ḥāna
+9	36:36:2	w	ٱلَّذِي	ﲚ	الذي	(to) the One Who	alladhī
+10	36:36:3	w	خَلَقَ	ﲛ	خلق	created	khalaqa
+10	36:36:4	w	ٱلۡأَزۡوَٰجَ	ﲜ	الازواج	(in) pairs	l-azwāja
+10	36:36:5	w	كُلَّهَا	ﲝ	كلها	all	kullahā
+10	36:36:6	w	مِمَّا	ﲞ	مما	of what	mimmā
+10	36:36:7	w	تُنۢبِتُ	ﲟ	تنبت	grows	tunbitu
+10	36:36:8	w	ٱلۡأَرۡضُ	ﲠ	الارض	the earth	l-arḍu
+10	36:36:9	w	وَمِنۡ	ﲡ	ومن	and of	wamin
+10	36:36:10	w	أَنفُسِهِمۡ	ﲢ	انفسهم	themselves	anfusihim
+11	36:36:11	w	وَمِمَّا	ﲣ	ومما	and of what	wamimmā
+11	36:36:12	w	لَا	ﲤ	لا	not	lā
+11	36:36:13	w	يَعۡلَمُونَ	ﲥ	يعلمون	they know	yaʿlamūna
+11	36:36:14	e	٣٦	ﲦ			
+11	36:37:1	w	وَءَايَةٞ	ﲧ	واية	And a Sign	waāyatun
+11	36:37:2	w	لَّهُمُ	ﲨ	لهم	for them	lahumu
+11	36:37:3	w	ٱلَّيۡلُ	ﲩ	الليل	(is) the night	al-laylu
+11	36:37:4	w	نَسۡلَخُ	ﲪ	نسلخ	We withdraw	naslakhu
+11	36:37:5	w	مِنۡهُ	ﲫ	منه	from it	min'hu
+11	36:37:6	w	ٱلنَّهَارَ	ﲬ	النهار	the day	l-nahāra
+12	36:37:7	w	فَإِذَا	ﲭ	فاذا	Then behold	fa-idhā
+12	36:37:8	w	هُم	ﲮ	هم	They	hum
+12	36:37:9	w	مُّظۡلِمُونَ	ﲯ	مظلمون	(are) those in darkness	muẓ'limūna
+12	36:37:10	e	٣٧	ﲰ			
+12	36:38:1	w	وَٱلشَّمۡسُ	ﲱ	والشمس	And the sun	wal-shamsu
+12	36:38:2	w	تَجۡرِي	ﲲ	تجري	runs	tajrī
+12	36:38:3	w	لِمُسۡتَقَرّٖ	ﲳ	لمستقر	to a term appointed	limus'taqarrin
+12	36:38:4	w	لَّهَاۚ	ﲴﲵ	لها	for it	lahā
+13	36:38:5	w	ذَٰلِكَ	ﲶ	ذالك	That	dhālika
+13	36:38:6	w	تَقۡدِيرُ	ﲷ	تقدير	(is the) Decree	taqdīru
+13	36:38:7	w	ٱلۡعَزِيزِ	ﲸ	العزيز	(of) the All-Mighty	l-ʿazīzi
+13	36:38:8	w	ٱلۡعَلِيمِ	ﲹ	العليم	the All-Knowing	l-ʿalīmi
+13	36:38:9	e	٣٨	ﲺ			
+13	36:39:1	w	وَٱلۡقَمَرَ	ﲻ	والقمر	And the moon	wal-qamara
+13	36:39:2	w	قَدَّرۡنَٰهُ	ﲼ	قدرناه	We have ordained for it	qaddarnāhu
+13	36:39:3	w	مَنَازِلَ	ﲽ	منازل	phases	manāzila
+13	36:39:4	w	حَتَّىٰ	ﲾ	حتى	until	ḥattā
+14	36:39:5	w	عَادَ	ﲿ	عاد	it returns	ʿāda
+14	36:39:6	w	كَٱلۡعُرۡجُونِ	ﳀ	كالعرجون	like the date stalk	kal-ʿur'jūni
+14	36:39:7	w	ٱلۡقَدِيمِ	ﳁ	القديم	the old	l-qadīmi
+14	36:39:8	e	٣٩	ﳂ			
+14	36:40:1	w	لَا	ﳃ	لا	Not	lā
+14	36:40:2	w	ٱلشَّمۡسُ	ﳄ	الشمس	the sun	l-shamsu
+14	36:40:3	w	يَنۢبَغِي	ﳅ	ينبغي	is permitted	yanbaghī
+14	36:40:4	w	لَهَآ	ﳆ	لها	for it	lahā
+14	36:40:5	w	أَن	ﳇ	ان	that	an
+14	36:40:6	w	تُدۡرِكَ	ﳈ	تدرك	it overtakes	tud'rika
+15	36:40:7	w	ٱلۡقَمَرَ	ﳉ	القمر	the moon	l-qamara
+15	36:40:8	w	وَلَا	ﳊ	ولا	and not	walā
+15	36:40:9	w	ٱلَّيۡلُ	ﳋ	الليل	the night	al-laylu
+15	36:40:10	w	سَابِقُ	ﳌ	سابق	(can) outstrip	sābiqu
+15	36:40:11	w	ٱلنَّهَارِۚ	ﳍﳎ	النهار	the day	l-nahāri
+15	36:40:12	w	وَكُلّٞ	ﳏ	وكل	but all	wakullun
+15	36:40:13	w	فِي	ﳐ	في	in	fī
+15	36:40:14	w	فَلَكٖ	ﳑ	فلك	an orbit	falakin
+15	36:40:15	w	يَسۡبَحُونَ	ﳒ	يسبحون	they are floating	yasbaḥūna
+15	36:40:16	e	٤٠	ﳓ			

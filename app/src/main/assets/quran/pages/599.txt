@@ -1,0 +1,83 @@
+3	98:8:1	w	جَزَآؤُهُمۡ	ﱝ	جزاوهم	Their reward	jazāuhum
+4	98:8:2	w	عِندَ	ﱞ	عند	(is) with	ʿinda
+4	98:8:3	w	رَبِّهِمۡ	ﱟ	ربهم	their Lord	rabbihim
+4	98:8:4	w	جَنَّٰتُ	ﱠ	جنات	Gardens	jannātu
+4	98:8:5	w	عَدۡنٖ	ﱡ	عدن	(of) Eternity	ʿadnin
+4	98:8:6	w	تَجۡرِي	ﱢ	تجري	flow	tajrī
+4	98:8:7	w	مِن	ﱣ	من	from	min
+4	98:8:8	w	تَحۡتِهَا	ﱤ	تحتها	underneath them	taḥtihā
+4	98:8:9	w	ٱلۡأَنۡهَٰرُ	ﱥ	الانهار	the rivers	l-anhāru
+4	98:8:10	w	خَٰلِدِينَ	ﱦ	خالدين	will abide	khālidīna
+5	98:8:11	w	فِيهَآ	ﱧ	فيها	therein	fīhā
+5	98:8:12	w	أَبَدٗاۖ	ﱨﱩ	ابدا	forever	abadan
+5	98:8:13	w	رَّضِيَ	ﱪ	رضي	(will be) pleased	raḍiya
+5	98:8:14	w	ٱللَّهُ	ﱫ	الله	Allah	l-lahu
+5	98:8:15	w	عَنۡهُمۡ	ﱬ	عنهم	with them	ʿanhum
+5	98:8:16	w	وَرَضُواْ	ﱭ	ورضوا	and they (will be) pleased	waraḍū
+5	98:8:17	w	عَنۡهُۚ	ﱮﱯ	عنه	with Him	ʿanhu
+5	98:8:18	w	ذَٰلِكَ	ﱰ	ذالك	That	dhālika
+5	98:8:19	w	لِمَنۡ	ﱱ	لمن	(is) for whoever	liman
+5	98:8:20	w	خَشِيَ	ﱲ	خشي	feared	khashiya
+5	98:8:21	w	رَبَّهُۥ	ﱳ	ربه	his Lord	rabbahu
+5	98:8:22	e	٨	ﱴ			
+8	99:1:1	w	إِذَا	ﱵ	اذا	When	idhā
+8	99:1:2	w	زُلۡزِلَتِ	ﱶ	زلزلت	is shaken	zul'zilati
+8	99:1:3	w	ٱلۡأَرۡضُ	ﱷ	الارض	the earth	l-arḍu
+8	99:1:4	w	زِلۡزَالَهَا	ﱸ	زلزالها	(with) its earthquake	zil'zālahā
+8	99:1:5	e	١	ﱹ			
+8	99:2:1	w	وَأَخۡرَجَتِ	ﱺ	واخرجت	And brings forth	wa-akhrajati
+8	99:2:2	w	ٱلۡأَرۡضُ	ﱻ	الارض	the earth	l-arḍu
+8	99:2:3	w	أَثۡقَالَهَا	ﱼ	اثقالها	its burdens	athqālahā
+8	99:2:4	e	٢	ﱽ			
+8	99:3:1	w	وَقَالَ	ﱾ	وقال	And says	waqāla
+9	99:3:2	w	ٱلۡإِنسَٰنُ	ﱿ	الانسان	man	l-insānu
+9	99:3:3	w	مَا	ﲀ	ما	What	mā
+9	99:3:4	w	لَهَا	ﲁ	لها	(is) with it	lahā
+9	99:3:5	e	٣	ﲂ			
+9	99:4:1	w	يَوۡمَئِذٖ	ﲃ	يوميذ	That Day	yawma-idhin
+9	99:4:2	w	تُحَدِّثُ	ﲄ	تحدث	it will report	tuḥaddithu
+9	99:4:3	w	أَخۡبَارَهَا	ﲅ	اخبارها	its news	akhbārahā
+9	99:4:4	e	٤	ﲆ			
+9	99:5:1	w	بِأَنَّ	ﲇ	بان	Because	bi-anna
+9	99:5:2	w	رَبَّكَ	ﲈ	ربك	your Lord	rabbaka
+9	99:5:3	w	أَوۡحَىٰ	ﲉ	اوحى	inspired	awḥā
+9	99:5:4	w	لَهَا	ﲊ	لها	[to] it	lahā
+10	99:5:5	e	٥	ﲋ			
+10	99:6:1	w	يَوۡمَئِذٖ	ﲌ	يوميذ	That Day	yawma-idhin
+10	99:6:2	w	يَصۡدُرُ	ﲍ	يصدر	will proceed	yaṣduru
+10	99:6:3	w	ٱلنَّاسُ	ﲎ	الناس	the mankind	l-nāsu
+10	99:6:4	w	أَشۡتَاتٗا	ﲏ	اشتاتا	(in) scattered groups	ashtātan
+10	99:6:5	w	لِّيُرَوۡاْ	ﲐ	ليروا	to be shown	liyuraw
+10	99:6:6	w	أَعۡمَٰلَهُمۡ	ﲑ	اعمالهم	their deeds	aʿmālahum
+10	99:6:7	e	٦	ﲒ			
+10	99:7:1	w	فَمَن	ﲓ	فمن	So whoever	faman
+10	99:7:2	w	يَعۡمَلۡ	ﲔ	يعمل	does	yaʿmal
+11	99:7:3	w	مِثۡقَالَ	ﲕ	مثقال	(equal to the) weight	mith'qāla
+11	99:7:4	w	ذَرَّةٍ	ﲖ	ذرة	(of) an atom	dharratin
+11	99:7:5	w	خَيۡرٗا	ﲗ	خيرا	good	khayran
+11	99:7:6	w	يَرَهُۥ	ﲘ	يره	will see it	yarahu
+11	99:7:7	e	٧	ﲙ			
+11	99:8:1	w	وَمَن	ﲚ	ومن	And whoever	waman
+11	99:8:2	w	يَعۡمَلۡ	ﲛ	يعمل	does	yaʿmal
+11	99:8:3	w	مِثۡقَالَ	ﲜ	مثقال	(equal to the) weight	mith'qāla
+11	99:8:4	w	ذَرَّةٖ	ﲝ	ذرة	(of) an atom	dharratin
+11	99:8:5	w	شَرّٗا	ﲞ	شرا	evil	sharran
+11	99:8:6	w	يَرَهُۥ	ﲟ	يره	will see it	yarahu
+11	99:8:7	e	٨	ﲠ			
+14	100:1:1	w	وَٱلۡعَٰدِيَٰتِ	ﲡ	والعاديات	By the racers	wal-ʿādiyāti
+14	100:1:2	w	ضَبۡحٗا	ﲢ	ضبحا	panting	ḍabḥan
+14	100:1:3	e	١	ﲣ			
+14	100:2:1	w	فَٱلۡمُورِيَٰتِ	ﲤ	فالموريات	And the producers of sparks	fal-mūriyāti
+14	100:2:2	w	قَدۡحٗا	ﲥ	قدحا	striking	qadḥan
+14	100:2:3	e	٢	ﲦ			
+14	100:3:1	w	فَٱلۡمُغِيرَٰتِ	ﲧ	فالمغيرات	And the chargers	fal-mughīrāti
+15	100:3:2	w	صُبۡحٗا	ﲨ	صبحا	(at) dawn	ṣub'ḥan
+15	100:3:3	e	٣	ﲩ			
+15	100:4:1	w	فَأَثَرۡنَ	ﲪ	فاثرن	Then raise	fa-atharna
+15	100:4:2	w	بِهِۦ	ﲫ	به	thereby	bihi
+15	100:4:3	w	نَقۡعٗا	ﲬ	نقعا	dust	naqʿan
+15	100:4:4	e	٤	ﲭ			
+15	100:5:1	w	فَوَسَطۡنَ	ﲮ	فوسطن	Then penetrate (in the) center	fawasaṭna
+15	100:5:2	w	بِهِۦ	ﲯ	به	thereby	bihi
+15	100:5:3	w	جَمۡعًا	ﲰ	جمعا	collectively	jamʿan
+15	100:5:4	e	٥	ﲱ			

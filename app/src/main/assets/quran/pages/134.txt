@@ -1,0 +1,143 @@
+1	6:53:1	w	وَكَذَٰلِكَ	ﱁ	وكذالك	And thus	wakadhālika
+1	6:53:2	w	فَتَنَّا	ﱂ	فتنا	We try	fatannā
+1	6:53:3	w	بَعۡضَهُم	ﱃ	بعضهم	some of them	baʿḍahum
+1	6:53:4	w	بِبَعۡضٖ	ﱄ	ببعض	with others	bibaʿḍin
+1	6:53:5	w	لِّيَقُولُوٓاْ	ﱅ	ليقولوا	that they say	liyaqūlū
+1	6:53:6	w	أَهَٰٓؤُلَآءِ	ﱆ	اهاولاء	Are these	ahāulāi
+1	6:53:7	w	مَنَّ	ﱇ	من	(whom has been) favored	manna
+1	6:53:8	w	ٱللَّهُ	ﱈ	الله	(by) Allah	l-lahu
+2	6:53:9	w	عَلَيۡهِم	ﱉ	عليهم	[upon them]	ʿalayhim
+2	6:53:10	w	مِّنۢ	ﱊ	من	from	min
+2	6:53:11	w	بَيۡنِنَآۗ	ﱋﱌ	بيننا	among us	bayninā
+2	6:53:12	w	أَلَيۡسَ	ﱍ	اليس	is not	alaysa
+2	6:53:13	w	ٱللَّهُ	ﱎ	الله	Allah	l-lahu
+2	6:53:14	w	بِأَعۡلَمَ	ﱏ	باعلم	most knowing	bi-aʿlama
+2	6:53:15	w	بِٱلشَّٰكِرِينَ	ﱐ	بالشاكرين	of those who are grateful	bil-shākirīna
+2	6:53:16	e	٥٣	ﱑ			
+2	6:54:1	w	وَإِذَا	ﱒ	واذا	And when	wa-idhā
+3	6:54:2	w	جَآءَكَ	ﱓ	جاءك	come to you	jāaka
+3	6:54:3	w	ٱلَّذِينَ	ﱔ	الذين	those who	alladhīna
+3	6:54:4	w	يُؤۡمِنُونَ	ﱕ	يومنون	believe	yu'minūna
+3	6:54:5	w	بِـَٔايَٰتِنَا	ﱖ	باياتنا	in Our Verses	biāyātinā
+3	6:54:6	w	فَقُلۡ	ﱗ	فقل	then say	faqul
+3	6:54:7	w	سَلَٰمٌ	ﱘ	سلام	Peace	salāmun
+3	6:54:8	w	عَلَيۡكُمۡۖ	ﱙﱚ	عليكم	(be) upon you	ʿalaykum
+3	6:54:9	w	كَتَبَ	ﱛ	كتب	(Has) Prescribed	kataba
+4	6:54:10	w	رَبُّكُمۡ	ﱜ	ربكم	your Lord	rabbukum
+4	6:54:11	w	عَلَىٰ	ﱝ	على	upon	ʿalā
+4	6:54:12	w	نَفۡسِهِ	ﱞ	نفسه	Himself	nafsihi
+4	6:54:13	w	ٱلرَّحۡمَةَ	ﱟ	الرحمة	the Mercy	l-raḥmata
+4	6:54:14	w	أَنَّهُۥ	ﱠ	انه	that he	annahu
+4	6:54:15	w	مَنۡ	ﱡ	من	who	man
+4	6:54:16	w	عَمِلَ	ﱢ	عمل	does	ʿamila
+4	6:54:17	w	مِنكُمۡ	ﱣ	منكم	among you	minkum
+4	6:54:18	w	سُوٓءَۢا	ﱤ	سوءا	evil	sūan
+5	6:54:19	w	بِجَهَٰلَةٖ	ﱥ	بجهالة	in ignorance	bijahālatin
+5	6:54:20	w	ثُمَّ	ﱦ	ثم	then	thumma
+5	6:54:21	w	تَابَ	ﱧ	تاب	repents	tāba
+5	6:54:22	w	مِنۢ	ﱨ	من	from	min
+5	6:54:23	w	بَعۡدِهِۦ	ﱩ	بعده	after it	baʿdihi
+5	6:54:24	w	وَأَصۡلَحَ	ﱪ	واصلح	and reforms	wa-aṣlaḥa
+5	6:54:25	w	فَأَنَّهُۥ	ﱫ	فانه	then, indeed He	fa-annahu
+5	6:54:26	w	غَفُورٞ	ﱬ	غفور	(is) Oft-Forgiving	ghafūrun
+5	6:54:27	w	رَّحِيمٞ	ﱭ	رحيم	Most Merciful	raḥīmun
+5	6:54:28	e	٥٤	ﱮ			
+6	6:55:1	w	وَكَذَٰلِكَ	ﱯ	وكذالك	And thus	wakadhālika
+6	6:55:2	w	نُفَصِّلُ	ﱰ	نفصل	We explain	nufaṣṣilu
+6	6:55:3	w	ٱلۡأٓيَٰتِ	ﱱ	الايات	the Verses	l-āyāti
+6	6:55:4	w	وَلِتَسۡتَبِينَ	ﱲ	ولتستبين	so that becomes manifest	walitastabīna
+6	6:55:5	w	سَبِيلُ	ﱳ	سبيل	(the) way	sabīlu
+6	6:55:6	w	ٱلۡمُجۡرِمِينَ	ﱴ	المجرمين	(of) the criminals	l-muj'rimīna
+7	6:55:7	e	٥٥	ﱵ			
+7	6:56:1	w	قُلۡ	ﱶ	قل	Say	qul
+7	6:56:2	w	إِنِّي	ﱷ	اني	Indeed I	innī
+7	6:56:3	w	نُهِيتُ	ﱸ	نهيت	[I] am forbidden	nuhītu
+7	6:56:4	w	أَنۡ	ﱹ	ان	that	an
+7	6:56:5	w	أَعۡبُدَ	ﱺ	اعبد	I worship	aʿbuda
+7	6:56:6	w	ٱلَّذِينَ	ﱻ	الذين	those whom	alladhīna
+7	6:56:7	w	تَدۡعُونَ	ﱼ	تدعون	you call	tadʿūna
+7	6:56:8	w	مِن	ﱽ	من	from	min
+7	6:56:9	w	دُونِ	ﱾ	دون	besides	dūni
+7	6:56:10	w	ٱللَّهِۚ	ﱿﲀ	الله	Allah	l-lahi
+7	6:56:11	w	قُل	ﲁ	قل	Say	qul
+8	6:56:12	w	لَّآ	ﲂ	لا	Not	lā
+8	6:56:13	w	أَتَّبِعُ	ﲃ	اتبع	I follow	attabiʿu
+8	6:56:14	w	أَهۡوَآءَكُمۡ	ﲄ	اهواءكم	your (vain) desires	ahwāakum
+8	6:56:15	w	قَدۡ	ﲅ	قد	certainly	qad
+8	6:56:16	w	ضَلَلۡتُ	ﲆ	ضللت	I would go astray	ḍalaltu
+8	6:56:17	w	إِذٗا	ﲇ	اذا	then	idhan
+8	6:56:18	w	وَمَآ	ﲈ	وما	and not	wamā
+8	6:56:19	w	أَنَا۠	ﲉ	انا	I (would be)	anā
+8	6:56:20	w	مِنَ	ﲊ	من	from	mina
+8	6:56:21	w	ٱلۡمُهۡتَدِينَ	ﲋ	المهتدين	the guided-ones	l-muh'tadīna
+9	6:56:22	e	٥٦	ﲌ			
+9	6:57:1	w	قُلۡ	ﲍ	قل	Say	qul
+9	6:57:2	w	إِنِّي	ﲎ	اني	Indeed, I (am)	innī
+9	6:57:3	w	عَلَىٰ	ﲏ	على	on	ʿalā
+9	6:57:4	w	بَيِّنَةٖ	ﲐ	بينة	clear proof	bayyinatin
+9	6:57:5	w	مِّن	ﲑ	من	from	min
+9	6:57:6	w	رَّبِّي	ﲒ	ربي	my Lord	rabbī
+9	6:57:7	w	وَكَذَّبۡتُم	ﲓ	وكذبتم	while you deny	wakadhabtum
+9	6:57:8	w	بِهِۦۚ	ﲔﲕ	به	[with] it	bihi
+9	6:57:9	w	مَا	ﲖ	ما	Not	mā
+9	6:57:10	w	عِندِي	ﲗ	عندي	I have	ʿindī
+9	6:57:11	w	مَا	ﲘ	ما	what	mā
+10	6:57:12	w	تَسۡتَعۡجِلُونَ	ﲙ	تستعجلون	you seek to hasten	tastaʿjilūna
+10	6:57:13	w	بِهِۦٓۚ	ﲚﲛ	به	of it	bihi
+10	6:57:14	w	إِنِ	ﲜ	ان	Not	ini
+10	6:57:15	w	ٱلۡحُكۡمُ	ﲝ	الحكم	(is) the decision	l-ḥuk'mu
+10	6:57:16	w	إِلَّا	ﲞ	الا	except	illā
+10	6:57:17	w	لِلَّهِۖ	ﲟﲠ	لله	for Allah	lillahi
+10	6:57:18	w	يَقُصُّ	ﲡ	يقص	He relates	yaquṣṣu
+10	6:57:19	w	ٱلۡحَقَّۖ	ﲢﲣ	الحق	the truth	l-ḥaqa
+10	6:57:20	w	وَهُوَ	ﲤ	وهو	and He	wahuwa
+11	6:57:21	w	خَيۡرُ	ﲥ	خير	(is the) best	khayru
+11	6:57:22	w	ٱلۡفَٰصِلِينَ	ﲦ	الفاصلين	(of) the Deciders	l-fāṣilīna
+11	6:57:23	e	٥٧	ﲧ			
+11	6:58:1	w	قُل	ﲨ	قل	Say	qul
+11	6:58:2	w	لَّوۡ	ﲩ	لو	If	law
+11	6:58:3	w	أَنَّ	ﲪ	ان	that	anna
+11	6:58:4	w	عِندِي	ﲫ	عندي	(were) with me	ʿindī
+11	6:58:5	w	مَا	ﲬ	ما	what	mā
+11	6:58:6	w	تَسۡتَعۡجِلُونَ	ﲭ	تستعجلون	you seek to hasten	tastaʿjilūna
+11	6:58:7	w	بِهِۦ	ﲮ	به	of it	bihi
+11	6:58:8	w	لَقُضِيَ	ﲯ	لقضي	surely would have been decided	laquḍiya
+12	6:58:9	w	ٱلۡأَمۡرُ	ﲰ	الامر	the matter	l-amru
+12	6:58:10	w	بَيۡنِي	ﲱ	بيني	between me	baynī
+12	6:58:11	w	وَبَيۡنَكُمۡۗ	ﲲﲳ	وبينكم	and between you	wabaynakum
+12	6:58:12	w	وَٱللَّهُ	ﲴ	والله	And Allah	wal-lahu
+12	6:58:13	w	أَعۡلَمُ	ﲵ	اعلم	(is) most knowing	aʿlamu
+12	6:58:14	w	بِٱلظَّٰلِمِينَ	ﲶ	بالظالمين	of the wrongdoers	bil-ẓālimīna
+12	6:58:15	e	٥٨	ﲷ			
+12	6:59:1	w	۞ وَعِندَهُۥ	ﲸ ﲹ	۞ وعنده	And with Him	waʿindahu
+13	6:59:2	w	مَفَاتِحُ	ﲺ	مفاتح	(are the) keys	mafātiḥu
+13	6:59:3	w	ٱلۡغَيۡبِ	ﲻ	الغيب	(of) the unseen	l-ghaybi
+13	6:59:4	w	لَا	ﲼ	لا	no (one)	lā
+13	6:59:5	w	يَعۡلَمُهَآ	ﲽ	يعلمها	knows them	yaʿlamuhā
+13	6:59:6	w	إِلَّا	ﲾ	الا	except	illā
+13	6:59:7	w	هُوَۚ	ﲿﳀ	هو	Him	huwa
+13	6:59:8	w	وَيَعۡلَمُ	ﳁ	ويعلم	And He knows	wayaʿlamu
+13	6:59:9	w	مَا	ﳂ	ما	what	mā
+13	6:59:10	w	فِي	ﳃ	في	(is) in	fī
+13	6:59:11	w	ٱلۡبَرِّ	ﳄ	البر	the land	l-bari
+14	6:59:12	w	وَٱلۡبَحۡرِۚ	ﳅﳆ	والبحر	and in the sea	wal-baḥri
+14	6:59:13	w	وَمَا	ﳇ	وما	And not	wamā
+14	6:59:14	w	تَسۡقُطُ	ﳈ	تسقط	falls	tasquṭu
+14	6:59:15	w	مِن	ﳉ	من	of	min
+14	6:59:16	w	وَرَقَةٍ	ﳊ	ورقة	any leaf	waraqatin
+14	6:59:17	w	إِلَّا	ﳋ	الا	but	illā
+14	6:59:18	w	يَعۡلَمُهَا	ﳌ	يعلمها	He knows it	yaʿlamuhā
+14	6:59:19	w	وَلَا	ﳍ	ولا	And not	walā
+14	6:59:20	w	حَبَّةٖ	ﳎ	حبة	a grain	ḥabbatin
+14	6:59:21	w	فِي	ﳏ	في	in	fī
+14	6:59:22	w	ظُلُمَٰتِ	ﳐ	ظلمات	the darkness[es]	ẓulumāti
+15	6:59:23	w	ٱلۡأَرۡضِ	ﳑ	الارض	(of) the earth	l-arḍi
+15	6:59:24	w	وَلَا	ﳒ	ولا	and not	walā
+15	6:59:25	w	رَطۡبٖ	ﳓ	رطب	moist	raṭbin
+15	6:59:26	w	وَلَا	ﳔ	ولا	and not	walā
+15	6:59:27	w	يَابِسٍ	ﳕ	يابس	dry	yābisin
+15	6:59:28	w	إِلَّا	ﳖ	الا	but	illā
+15	6:59:29	w	فِي	ﳗ	في	(is) in	fī
+15	6:59:30	w	كِتَٰبٖ	ﳘ	كتاب	a Record	kitābin
+15	6:59:31	w	مُّبِينٖ	ﳙ	مبين	Clear	mubīnin
+15	6:59:32	e	٥٩	ﳚ			

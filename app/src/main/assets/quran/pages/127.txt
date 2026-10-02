@@ -1,0 +1,165 @@
+1	5:114:1	w	قَالَ	ﱁ	قال	Said	qāla
+1	5:114:2	w	عِيسَى	ﱂ	عيسى	Isa	ʿīsā
+1	5:114:3	w	ٱبۡنُ	ﱃ	ابن	son	ub'nu
+1	5:114:4	w	مَرۡيَمَ	ﱄ	مريم	(of) Maryam	maryama
+1	5:114:5	w	ٱللَّهُمَّ	ﱅ	اللهم	O Allah	l-lahuma
+1	5:114:6	w	رَبَّنَآ	ﱆ	ربنا	our Lord	rabbanā
+1	5:114:7	w	أَنزِلۡ	ﱇ	انزل	send down	anzil
+1	5:114:8	w	عَلَيۡنَا	ﱈ	علينا	to us	ʿalaynā
+1	5:114:9	w	مَآئِدَةٗ	ﱉ	مايدة	a table spread	māidatan
+1	5:114:10	w	مِّنَ	ﱊ	من	from	mina
+1	5:114:11	w	ٱلسَّمَآءِ	ﱋ	السماء	the heaven	l-samāi
+2	5:114:12	w	تَكُونُ	ﱌ	تكون	to be	takūnu
+2	5:114:13	w	لَنَا	ﱍ	لنا	for us	lanā
+2	5:114:14	w	عِيدٗا	ﱎ	عيدا	a festival	ʿīdan
+2	5:114:15	w	لِّأَوَّلِنَا	ﱏ	لاولنا	for first of us	li-awwalinā
+2	5:114:16	w	وَءَاخِرِنَا	ﱐ	واخرنا	and last of us	waākhirinā
+2	5:114:17	w	وَءَايَةٗ	ﱑ	واية	and a sign	waāyatan
+2	5:114:18	w	مِّنكَۖ	ﱒﱓ	منك	from You	minka
+2	5:114:19	w	وَٱرۡزُقۡنَا	ﱔ	وارزقنا	And provide us	wa-ur'zuq'nā
+2	5:114:20	w	وَأَنتَ	ﱕ	وانت	and You	wa-anta
+3	5:114:21	w	خَيۡرُ	ﱖ	خير	(are) best	khayru
+3	5:114:22	w	ٱلرَّٰزِقِينَ	ﱗ	الرازقين	(of) the providers	l-rāziqīna
+3	5:114:23	e	١١٤	ﱘ			
+3	5:115:1	w	قَالَ	ﱙ	قال	Said	qāla
+3	5:115:2	w	ٱللَّهُ	ﱚ	الله	Allah	l-lahu
+3	5:115:3	w	إِنِّي	ﱛ	اني	Indeed I	innī
+3	5:115:4	w	مُنَزِّلُهَا	ﱜ	منزلها	(will) send it down	munazziluhā
+3	5:115:5	w	عَلَيۡكُمۡۖ	ﱝﱞ	عليكم	to you	ʿalaykum
+3	5:115:6	w	فَمَن	ﱟ	فمن	then whoever	faman
+3	5:115:7	w	يَكۡفُرۡ	ﱠ	يكفر	disbelieves	yakfur
+3	5:115:8	w	بَعۡدُ	ﱡ	بعد	after (that)	baʿdu
+4	5:115:9	w	مِنكُمۡ	ﱢ	منكم	among you	minkum
+4	5:115:10	w	فَإِنِّيٓ	ﱣ	فاني	then indeed I	fa-innī
+4	5:115:11	w	أُعَذِّبُهُۥ	ﱤ	اعذبه	[I] will punish him	uʿadhibuhu
+4	5:115:12	w	عَذَابٗا	ﱥ	عذابا	(with) a punishment	ʿadhāban
+4	5:115:13	w	لَّآ	ﱦ	لا	not	lā
+4	5:115:14	w	أُعَذِّبُهُۥٓ	ﱧ	اعذبه	I have punished	uʿadhibuhu
+4	5:115:15	w	أَحَدٗا	ﱨ	احدا	anyone	aḥadan
+4	5:115:16	w	مِّنَ	ﱩ	من	among	mina
+4	5:115:17	w	ٱلۡعَٰلَمِينَ	ﱪ	العالمين	the worlds	l-ʿālamīna
+4	5:115:18	e	١١٥	ﱫ			
+5	5:116:1	w	وَإِذۡ	ﱬ	واذ	And when	wa-idh
+5	5:116:2	w	قَالَ	ﱭ	قال	said	qāla
+5	5:116:3	w	ٱللَّهُ	ﱮ	الله	Allah	l-lahu
+5	5:116:4	w	يَٰعِيسَى	ﱯ	يا عيسى	O Isa	yāʿīsā
+5	5:116:5	w	ٱبۡنَ	ﱰ	ابن	son	ib'na
+5	5:116:6	w	مَرۡيَمَ	ﱱ	مريم	(of) Maryam	maryama
+5	5:116:7	w	ءَأَنتَ	ﱲ	اانت	Did you	a-anta
+5	5:116:8	w	قُلۡتَ	ﱳ	قلت	say	qul'ta
+5	5:116:9	w	لِلنَّاسِ	ﱴ	للناس	to the people	lilnnāsi
+5	5:116:10	w	ٱتَّخِذُونِي	ﱵ	اتخذوني	Take me	ittakhidhūnī
+6	5:116:11	w	وَأُمِّيَ	ﱶ	وامي	and my mother	wa-ummiya
+6	5:116:12	w	إِلَٰهَيۡنِ	ﱷ	الاهين	(as) two gods	ilāhayni
+6	5:116:13	w	مِن	ﱸ	من	from	min
+6	5:116:14	w	دُونِ	ﱹ	دون	besides	dūni
+6	5:116:15	w	ٱللَّهِۖ	ﱺﱻ	الله	Allah	l-lahi
+6	5:116:16	w	قَالَ	ﱼ	قال	He said	qāla
+6	5:116:17	w	سُبۡحَٰنَكَ	ﱽ	سبحانك	Glory be to You	sub'ḥānaka
+6	5:116:18	w	مَا	ﱾ	ما	Not	mā
+6	5:116:19	w	يَكُونُ	ﱿ	يكون	was	yakūnu
+6	5:116:20	w	لِيٓ	ﲀ	لي	for me	lī
+6	5:116:21	w	أَنۡ	ﲁ	ان	that	an
+6	5:116:22	w	أَقُولَ	ﲂ	اقول	I say	aqūla
+7	5:116:23	w	مَا	ﲃ	ما	what	mā
+7	5:116:24	w	لَيۡسَ	ﲄ	ليس	not	laysa
+7	5:116:25	w	لِي	ﲅ	لي	I	lī
+7	5:116:26	w	بِحَقٍّۚ	ﲆﲇ	بحق	(had) right	biḥaqqin
+7	5:116:27	w	إِن	ﲈ	ان	If	in
+7	5:116:28	w	كُنتُ	ﲉ	كنت	I had	kuntu
+7	5:116:29	w	قُلۡتُهُۥ	ﲊ	قلته	said it	qul'tuhu
+7	5:116:30	w	فَقَدۡ	ﲋ	فقد	then surely	faqad
+7	5:116:31	w	عَلِمۡتَهُۥۚ	ﲌﲍ	علمته	You would have known it	ʿalim'tahu
+7	5:116:32	w	تَعۡلَمُ	ﲎ	تعلم	You know	taʿlamu
+7	5:116:33	w	مَا	ﲏ	ما	what	mā
+7	5:116:34	w	فِي	ﲐ	في	(is) in	fī
+7	5:116:35	w	نَفۡسِي	ﲑ	نفسي	myself	nafsī
+8	5:116:36	w	وَلَآ	ﲒ	ولا	and not	walā
+8	5:116:37	w	أَعۡلَمُ	ﲓ	اعلم	I know	aʿlamu
+8	5:116:38	w	مَا	ﲔ	ما	what	mā
+8	5:116:39	w	فِي	ﲕ	في	(is) in	fī
+8	5:116:40	w	نَفۡسِكَۚ	ﲖﲗ	نفسك	Yourself	nafsika
+8	5:116:41	w	إِنَّكَ	ﲘ	انك	Indeed, You	innaka
+8	5:116:42	w	أَنتَ	ﲙ	انت	You	anta
+8	5:116:43	w	عَلَّٰمُ	ﲚ	علام	(are) All-Knower	ʿallāmu
+8	5:116:44	w	ٱلۡغُيُوبِ	ﲛ	الغيوب	(of) the unseen	l-ghuyūbi
+8	5:116:45	e	١١٦	ﲜ			
+8	5:117:1	w	مَا	ﲝ	ما	Not	mā
+8	5:117:2	w	قُلۡتُ	ﲞ	قلت	I said	qul'tu
+8	5:117:3	w	لَهُمۡ	ﲟ	لهم	to them	lahum
+9	5:117:4	w	إِلَّا	ﲠ	الا	except	illā
+9	5:117:5	w	مَآ	ﲡ	ما	what	mā
+9	5:117:6	w	أَمَرۡتَنِي	ﲢ	امرتني	You commanded me	amartanī
+9	5:117:7	w	بِهِۦٓ	ﲣ	به	[with it]	bihi
+9	5:117:8	w	أَنِ	ﲤ	ان	that	ani
+9	5:117:9	w	ٱعۡبُدُواْ	ﲥ	اعبدوا	You worship	uʿ'budū
+9	5:117:10	w	ٱللَّهَ	ﲦ	الله	Allah	l-laha
+9	5:117:11	w	رَبِّي	ﲧ	ربي	my Lord	rabbī
+9	5:117:12	w	وَرَبَّكُمۡۚ	ﲨﲩ	وربكم	and your Lord	warabbakum
+9	5:117:13	w	وَكُنتُ	ﲪ	وكنت	And I was	wakuntu
+9	5:117:14	w	عَلَيۡهِمۡ	ﲫ	عليهم	over them	ʿalayhim
+10	5:117:15	w	شَهِيدٗا	ﲬ	شهيدا	a witness	shahīdan
+10	5:117:16	w	مَّا	ﲭ	ما	that	mā
+10	5:117:17	w	دُمۡتُ	ﲮ	دمت	as long as I	dum'tu
+10	5:117:18	w	فِيهِمۡۖ	ﲯﲰ	فيهم	(was) among them	fīhim
+10	5:117:19	w	فَلَمَّا	ﲱ	فلما	then when	falammā
+10	5:117:20	w	تَوَفَّيۡتَنِي	ﲲ	توفيتني	You raised me	tawaffaytanī
+10	5:117:21	w	كُنتَ	ﲳ	كنت	You were	kunta
+10	5:117:22	w	أَنتَ	ﲴ	انت	[You]	anta
+10	5:117:23	w	ٱلرَّقِيبَ	ﲵ	الرقيب	the Watcher	l-raqība
+10	5:117:24	w	عَلَيۡهِمۡۚ	ﲶﲷ	عليهم	over them	ʿalayhim
+11	5:117:25	w	وَأَنتَ	ﲸ	وانت	and You	wa-anta
+11	5:117:26	w	عَلَىٰ	ﲹ	على	(are) on	ʿalā
+11	5:117:27	w	كُلِّ	ﲺ	كل	every	kulli
+11	5:117:28	w	شَيۡءٖ	ﲻ	شيء	thing	shayin
+11	5:117:29	w	شَهِيدٌ	ﲼ	شهيد	a Witness	shahīdun
+11	5:117:30	e	١١٧	ﲽ			
+11	5:118:1	w	إِن	ﲾ	ان	If	in
+11	5:118:2	w	تُعَذِّبۡهُمۡ	ﲿ	تعذبهم	You punish them	tuʿadhib'hum
+11	5:118:3	w	فَإِنَّهُمۡ	ﳀ	فانهم	then indeed they	fa-innahum
+11	5:118:4	w	عِبَادُكَۖ	ﳁﳂ	عبادك	(are) Your slaves	ʿibāduka
+11	5:118:5	w	وَإِن	ﳃ	وان	and if	wa-in
+12	5:118:6	w	تَغۡفِرۡ	ﳄ	تغفر	You forgive	taghfir
+12	5:118:7	w	لَهُمۡ	ﳅ	لهم	[for] them	lahum
+12	5:118:8	w	فَإِنَّكَ	ﳆ	فانك	then indeed You	fa-innaka
+12	5:118:9	w	أَنتَ	ﳇ	انت	You	anta
+12	5:118:10	w	ٱلۡعَزِيزُ	ﳈ	العزيز	(are) the All-Mighty	l-ʿazīzu
+12	5:118:11	w	ٱلۡحَكِيمُ	ﳉ	الحكيم	the All-Wise	l-ḥakīmu
+12	5:118:12	e	١١٨	ﳊ			
+12	5:119:1	w	قَالَ	ﳋ	قال	Will say	qāla
+12	5:119:2	w	ٱللَّهُ	ﳌ	الله	Allah	l-lahu
+12	5:119:3	w	هَٰذَا	ﳍ	هاذا	This	hādhā
+12	5:119:4	w	يَوۡمُ	ﳎ	يوم	Day	yawmu
+12	5:119:5	w	يَنفَعُ	ﳏ	ينفع	will profit	yanfaʿu
+13	5:119:6	w	ٱلصَّٰدِقِينَ	ﳐ	الصادقين	the truthful	l-ṣādiqīna
+13	5:119:7	w	صِدۡقُهُمۡۚ	ﳑﳒ	صدقهم	their truthfulness	ṣid'quhum
+13	5:119:8	w	لَهُمۡ	ﳓ	لهم	For them	lahum
+13	5:119:9	w	جَنَّٰتٞ	ﳔ	جنات	(are) Gardens	jannātun
+13	5:119:10	w	تَجۡرِي	ﳕ	تجري	flows	tajrī
+13	5:119:11	w	مِن	ﳖ	من	from	min
+13	5:119:12	w	تَحۡتِهَا	ﳗ	تحتها	underneath it	taḥtihā
+13	5:119:13	w	ٱلۡأَنۡهَٰرُ	ﳘ	الانهار	the rivers	l-anhāru
+13	5:119:14	w	خَٰلِدِينَ	ﳙ	خالدين	will abide	khālidīna
+14	5:119:15	w	فِيهَآ	ﳚ	فيها	in it	fīhā
+14	5:119:16	w	أَبَدٗاۖ	ﳛﳜ	ابدا	forever	abadan
+14	5:119:17	w	رَّضِيَ	ﳝ	رضي	is pleased	raḍiya
+14	5:119:18	w	ٱللَّهُ	ﳞ	الله	Allah	l-lahu
+14	5:119:19	w	عَنۡهُمۡ	ﳟ	عنهم	with them	ʿanhum
+14	5:119:20	w	وَرَضُواْ	ﳠ	ورضوا	and they are pleased	waraḍū
+14	5:119:21	w	عَنۡهُۚ	ﳡﳢ	عنه	with Him	ʿanhu
+14	5:119:22	w	ذَٰلِكَ	ﳣ	ذالك	That	dhālika
+14	5:119:23	w	ٱلۡفَوۡزُ	ﳤ	الفوز	(is) the success	l-fawzu
+14	5:119:24	w	ٱلۡعَظِيمُ	ﳥ	العظيم	(the) great	l-ʿaẓīmu
+14	5:119:25	e	١١٩	ﳦ			
+14	5:120:1	w	لِلَّهِ	ﳧ	لله	To Allah (belongs)	lillahi
+15	5:120:2	w	مُلۡكُ	ﳨ	ملك	the dominion	mul'ku
+15	5:120:3	w	ٱلسَّمَٰوَٰتِ	ﳩ	السماوات	(of) the heavens	l-samāwāti
+15	5:120:4	w	وَٱلۡأَرۡضِ	ﳪ	والارض	and the earth	wal-arḍi
+15	5:120:5	w	وَمَا	ﳫ	وما	and what	wamā
+15	5:120:6	w	فِيهِنَّۚ	ﳬﳭ	فيهن	(is) in them	fīhinna
+15	5:120:7	w	وَهُوَ	ﳮ	وهو	And He	wahuwa
+15	5:120:8	w	عَلَىٰ	ﳯ	على	(is) on	ʿalā
+15	5:120:9	w	كُلِّ	ﳰ	كل	every	kulli
+15	5:120:10	w	شَيۡءٖ	ﳱ	شيء	thing	shayin
+15	5:120:11	w	قَدِيرُۢ	ﳲ	قدير	All-Powerful	qadīrun
+15	5:120:12	e	١٢٠	ﳳ			

@@ -1,0 +1,132 @@
+1	5:71:1	w	وَحَسِبُوٓاْ	ﱁ	وحسبوا	And they thought	waḥasibū
+1	5:71:2	w	أَلَّا	ﱂ	الا	that not	allā
+1	5:71:3	w	تَكُونَ	ﱃ	تكون	will be (for them)	takūna
+1	5:71:4	w	فِتۡنَةٞ	ﱄ	فتنة	a trial	fit'natun
+1	5:71:5	w	فَعَمُواْ	ﱅ	فعموا	so they became blind	faʿamū
+1	5:71:6	w	وَصَمُّواْ	ﱆ	وصموا	and they became deaf	waṣammū
+1	5:71:7	w	ثُمَّ	ﱇ	ثم	Then	thumma
+1	5:71:8	w	تَابَ	ﱈ	تاب	turned	tāba
+1	5:71:9	w	ٱللَّهُ	ﱉ	الله	Allah	l-lahu
+1	5:71:10	w	عَلَيۡهِمۡ	ﱊ	عليهم	to them	ʿalayhim
+1	5:71:11	w	ثُمَّ	ﱋ	ثم	then (again)	thumma
+2	5:71:12	w	عَمُواْ	ﱌ	عموا	they became blind	ʿamū
+2	5:71:13	w	وَصَمُّواْ	ﱍ	وصموا	and they became deaf	waṣammū
+2	5:71:14	w	كَثِيرٞ	ﱎ	كثير	many	kathīrun
+2	5:71:15	w	مِّنۡهُمۡۚ	ﱏﱐ	منهم	of them	min'hum
+2	5:71:16	w	وَٱللَّهُ	ﱑ	والله	And Allah	wal-lahu
+2	5:71:17	w	بَصِيرُۢ	ﱒ	بصير	(is) All-Seer	baṣīrun
+2	5:71:18	w	بِمَا	ﱓ	بما	of what	bimā
+2	5:71:19	w	يَعۡمَلُونَ	ﱔ	يعملون	they do	yaʿmalūna
+2	5:71:20	e	٧١	ﱕ			
+3	5:72:1	w	لَقَدۡ	ﱖ	لقد	Certainly	laqad
+3	5:72:2	w	كَفَرَ	ﱗ	كفر	disbelieved	kafara
+3	5:72:3	w	ٱلَّذِينَ	ﱘ	الذين	those who	alladhīna
+3	5:72:4	w	قَالُوٓاْ	ﱙ	قالوا	say	qālū
+3	5:72:5	w	إِنَّ	ﱚ	ان	Indeed	inna
+3	5:72:6	w	ٱللَّهَ	ﱛ	الله	Allah	l-laha
+3	5:72:7	w	هُوَ	ﱜ	هو	He	huwa
+3	5:72:8	w	ٱلۡمَسِيحُ	ﱝ	المسيح	(is) the Messiah	l-masīḥu
+3	5:72:9	w	ٱبۡنُ	ﱞ	ابن	son	ub'nu
+3	5:72:10	w	مَرۡيَمَۖ	ﱟﱠ	مريم	(of) Maryam	maryama
+3	5:72:11	w	وَقَالَ	ﱡ	وقال	While said	waqāla
+3	5:72:12	w	ٱلۡمَسِيحُ	ﱢ	المسيح	the Messiah	l-masīḥu
+4	5:72:13	w	يَٰبَنِيٓ	ﱣ	يا بني	O Children	yābanī
+4	5:72:14	w	إِسۡرَٰٓءِيلَ	ﱤ	اسراييل	(of) Israel	is'rāīla
+4	5:72:15	w	ٱعۡبُدُواْ	ﱥ	اعبدوا	Worship	uʿ'budū
+4	5:72:16	w	ٱللَّهَ	ﱦ	الله	Allah	l-laha
+4	5:72:17	w	رَبِّي	ﱧ	ربي	my Lord	rabbī
+4	5:72:18	w	وَرَبَّكُمۡۖ	ﱨﱩ	وربكم	and your Lord	warabbakum
+4	5:72:19	w	إِنَّهُۥ	ﱪ	انه	Indeed, he	innahu
+4	5:72:20	w	مَن	ﱫ	من	who	man
+4	5:72:21	w	يُشۡرِكۡ	ﱬ	يشرك	associates partners	yush'rik
+5	5:72:22	w	بِٱللَّهِ	ﱭ	بالله	with Allah	bil-lahi
+5	5:72:23	w	فَقَدۡ	ﱮ	فقد	then surely	faqad
+5	5:72:24	w	حَرَّمَ	ﱯ	حرم	(has) forbidden	ḥarrama
+5	5:72:25	w	ٱللَّهُ	ﱰ	الله	Allah	l-lahu
+5	5:72:26	w	عَلَيۡهِ	ﱱ	عليه	for him	ʿalayhi
+5	5:72:27	w	ٱلۡجَنَّةَ	ﱲ	الجنة	Paradise	l-janata
+5	5:72:28	w	وَمَأۡوَىٰهُ	ﱳ	وماواه	and his abode	wamawāhu
+5	5:72:29	w	ٱلنَّارُۖ	ﱴﱵ	النار	(will be) the Fire	l-nāru
+5	5:72:30	w	وَمَا	ﱶ	وما	And not	wamā
+6	5:72:31	w	لِلظَّٰلِمِينَ	ﱷ	للظالمين	for the wrongdoers	lilẓẓālimīna
+6	5:72:32	w	مِنۡ	ﱸ	من	any	min
+6	5:72:33	w	أَنصَارٖ	ﱹ	انصار	helpers	anṣārin
+6	5:72:34	e	٧٢	ﱺ			
+6	5:73:1	w	لَّقَدۡ	ﱻ	لقد	Certainly	laqad
+6	5:73:2	w	كَفَرَ	ﱼ	كفر	disbelieved	kafara
+6	5:73:3	w	ٱلَّذِينَ	ﱽ	الذين	those who	alladhīna
+6	5:73:4	w	قَالُوٓاْ	ﱾ	قالوا	say	qālū
+6	5:73:5	w	إِنَّ	ﱿ	ان	Indeed	inna
+6	5:73:6	w	ٱللَّهَ	ﲀ	الله	Allah	l-laha
+7	5:73:7	w	ثَالِثُ	ﲁ	ثالث	(is the) third	thālithu
+7	5:73:8	w	ثَلَٰثَةٖۘ	ﲂﲃ	ثلاثة	(of) three	thalāthatin
+7	5:73:9	w	وَمَا	ﲄ	وما	And (there is) no	wamā
+7	5:73:10	w	مِنۡ	ﲅ	من	[of]	min
+7	5:73:11	w	إِلَٰهٍ	ﲆ	الاه	god	ilāhin
+7	5:73:12	w	إِلَّآ	ﲇ	الا	except	illā
+7	5:73:13	w	إِلَٰهٞ	ﲈ	الاه	(the) God	ilāhun
+7	5:73:14	w	وَٰحِدٞۚ	ﲉﲊ	واحد	(the) One	wāḥidun
+7	5:73:15	w	وَإِن	ﲋ	وان	And if	wa-in
+7	5:73:16	w	لَّمۡ	ﲌ	لم	not	lam
+7	5:73:17	w	يَنتَهُواْ	ﲍ	ينتهوا	they desist	yantahū
+8	5:73:18	w	عَمَّا	ﲎ	عما	from what	ʿammā
+8	5:73:19	w	يَقُولُونَ	ﲏ	يقولون	they are saying	yaqūlūna
+8	5:73:20	w	لَيَمَسَّنَّ	ﲐ	ليمسن	surely will afflict	layamassanna
+8	5:73:21	w	ٱلَّذِينَ	ﲑ	الذين	those who	alladhīna
+8	5:73:22	w	كَفَرُواْ	ﲒ	كفروا	disbelieved	kafarū
+8	5:73:23	w	مِنۡهُمۡ	ﲓ	منهم	among them	min'hum
+8	5:73:24	w	عَذَابٌ	ﲔ	عذاب	a punishment	ʿadhābun
+8	5:73:25	w	أَلِيمٌ	ﲕ	اليم	painful	alīmun
+8	5:73:26	e	٧٣	ﲖ			
+9	5:74:1	w	أَفَلَا	ﲗ	افلا	So will not	afalā
+9	5:74:2	w	يَتُوبُونَ	ﲘ	يتوبون	they turn in repentance	yatūbūna
+9	5:74:3	w	إِلَى	ﲙ	الى	to	ilā
+9	5:74:4	w	ٱللَّهِ	ﲚ	الله	Allah	l-lahi
+9	5:74:5	w	وَيَسۡتَغۡفِرُونَهُۥۚ	ﲛﲜ	ويستغفرونه	and seek His forgiveness	wayastaghfirūnahu
+9	5:74:6	w	وَٱللَّهُ	ﲝ	والله	And Allah	wal-lahu
+9	5:74:7	w	غَفُورٞ	ﲞ	غفور	(is) Oft-Forgiving	ghafūrun
+9	5:74:8	w	رَّحِيمٞ	ﲟ	رحيم	Most Merciful	raḥīmun
+9	5:74:9	e	٧٤	ﲠ			
+10	5:75:1	w	مَّا	ﲡ	ما	Not	mā
+10	5:75:2	w	ٱلۡمَسِيحُ	ﲢ	المسيح	(is) the Messiah	l-masīḥu
+10	5:75:3	w	ٱبۡنُ	ﲣ	ابن	son	ub'nu
+10	5:75:4	w	مَرۡيَمَ	ﲤ	مريم	(of) Maryam	maryama
+10	5:75:5	w	إِلَّا	ﲥ	الا	but	illā
+10	5:75:6	w	رَسُولٞ	ﲦ	رسول	a Messenger	rasūlun
+10	5:75:7	w	قَدۡ	ﲧ	قد	certainly	qad
+10	5:75:8	w	خَلَتۡ	ﲨ	خلت	had passed	khalat
+10	5:75:9	w	مِن	ﲩ	من	from	min
+10	5:75:10	w	قَبۡلِهِ	ﲪ	قبله	before him	qablihi
+10	5:75:11	w	ٱلرُّسُلُ	ﲫ	الرسل	the Messengers	l-rusulu
+10	5:75:12	w	وَأُمُّهُۥ	ﲬ	وامه	And his mother	wa-ummuhu
+11	5:75:13	w	صِدِّيقَةٞۖ	ﲭﲮ	صديقة	(was) truthful	ṣiddīqatun
+11	5:75:14	w	كَانَا	ﲯ	كانا	They both used to	kānā
+11	5:75:15	w	يَأۡكُلَانِ	ﲰ	ياكلان	eat	yakulāni
+11	5:75:16	w	ٱلطَّعَامَۗ	ﲱﲲ	الطعام	[the] food	l-ṭaʿāma
+11	5:75:17	w	ٱنظُرۡ	ﲳ	انظر	See	unẓur
+11	5:75:18	w	كَيۡفَ	ﲴ	كيف	how	kayfa
+11	5:75:19	w	نُبَيِّنُ	ﲵ	نبين	We make clear	nubayyinu
+11	5:75:20	w	لَهُمُ	ﲶ	لهم	to them	lahumu
+11	5:75:21	w	ٱلۡأٓيَٰتِ	ﲷ	الايات	the Signs	l-āyāti
+12	5:75:22	w	ثُمَّ	ﲸ	ثم	then	thumma
+12	5:75:23	w	ٱنظُرۡ	ﲹ	انظر	see	unẓur
+12	5:75:24	w	أَنَّىٰ	ﲺ	انى	how	annā
+12	5:75:25	w	يُؤۡفَكُونَ	ﲻ	يوفكون	they are deluded	yu'fakūna
+12	5:75:26	e	٧٥	ﲼ			
+12	5:76:1	w	قُلۡ	ﲽ	قل	Say	qul
+12	5:76:2	w	أَتَعۡبُدُونَ	ﲾ	اتعبدون	Do you worship	ataʿbudūna
+12	5:76:3	w	مِن	ﲿ	من	from	min
+12	5:76:4	w	دُونِ	ﳀ	دون	besides	dūni
+12	5:76:5	w	ٱللَّهِ	ﳁ	الله	Allah	l-lahi
+12	5:76:6	w	مَا	ﳂ	ما	what	mā
+12	5:76:7	w	لَا	ﳃ	لا	not	lā
+13	5:76:8	w	يَمۡلِكُ	ﳄ	يملك	has power	yamliku
+13	5:76:9	w	لَكُمۡ	ﳅ	لكم	to (cause) you	lakum
+13	5:76:10	w	ضَرّٗا	ﳆ	ضرا	any harm	ḍarran
+13	5:76:11	w	وَلَا	ﳇ	ولا	and not	walā
+13	5:76:12	w	نَفۡعٗاۚ	ﳈﳉ	نفعا	any benefit	nafʿan
+13	5:76:13	w	وَٱللَّهُ	ﳊ	والله	while Allah	wal-lahu
+13	5:76:14	w	هُوَ	ﳋ	هو	He	huwa
+13	5:76:15	w	ٱلسَّمِيعُ	ﳌ	السميع	(is) the All-Hearing	l-samīʿu
+13	5:76:16	w	ٱلۡعَلِيمُ	ﳍ	العليم	the All-Knowing	l-ʿalīmu
+13	5:76:17	e	٧٦	ﳎ			

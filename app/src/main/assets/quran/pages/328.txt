@@ -1,0 +1,122 @@
+1	21:73:1	w	وَجَعَلۡنَٰهُمۡ	ﱁ	وجعلناهم	And We made them	wajaʿalnāhum
+1	21:73:2	w	أَئِمَّةٗ	ﱂ	ايمة	leaders	a-immatan
+1	21:73:3	w	يَهۡدُونَ	ﱃ	يهدون	they guide	yahdūna
+1	21:73:4	w	بِأَمۡرِنَا	ﱄ	بامرنا	by Our Command	bi-amrinā
+1	21:73:5	w	وَأَوۡحَيۡنَآ	ﱅ	واوحينا	And We inspired	wa-awḥaynā
+1	21:73:6	w	إِلَيۡهِمۡ	ﱆ	اليهم	to them	ilayhim
+1	21:73:7	w	فِعۡلَ	ﱇ	فعل	(the) doing	fiʿ'la
+2	21:73:8	w	ٱلۡخَيۡرَٰتِ	ﱈ	الخيرات	(of) good deeds	l-khayrāti
+2	21:73:9	w	وَإِقَامَ	ﱉ	واقام	and establishment	wa-iqāma
+2	21:73:10	w	ٱلصَّلَوٰةِ	ﱊ	الصلاة	(of) the prayer	l-ṣalati
+2	21:73:11	w	وَإِيتَآءَ	ﱋ	وايتاء	and giving	waītāa
+2	21:73:12	w	ٱلزَّكَوٰةِۖ	ﱌﱍ	الزكاة	(of) zakah	l-zakati
+2	21:73:13	w	وَكَانُواْ	ﱎ	وكانوا	and they were	wakānū
+2	21:73:14	w	لَنَا	ﱏ	لنا	of Us	lanā
+3	21:73:15	w	عَٰبِدِينَ	ﱐ	عابدين	worshippers	ʿābidīna
+3	21:73:16	e	٧٣	ﱑ			
+3	21:74:1	w	وَلُوطًا	ﱒ	ولوطا	And (to) Lut	walūṭan
+3	21:74:2	w	ءَاتَيۡنَٰهُ	ﱓ	اتيناه	We gave him	ātaynāhu
+3	21:74:3	w	حُكۡمٗا	ﱔ	حكما	judgment	ḥuk'man
+3	21:74:4	w	وَعِلۡمٗا	ﱕ	وعلما	and knowledge	waʿil'man
+3	21:74:5	w	وَنَجَّيۡنَٰهُ	ﱖ	ونجيناه	and We saved him	wanajjaynāhu
+3	21:74:6	w	مِنَ	ﱗ	من	from	mina
+4	21:74:7	w	ٱلۡقَرۡيَةِ	ﱘ	القرية	the town	l-qaryati
+4	21:74:8	w	ٱلَّتِي	ﱙ	التي	which	allatī
+4	21:74:9	w	كَانَت	ﱚ	كانت	was	kānat
+4	21:74:10	w	تَّعۡمَلُ	ﱛ	تعمل	doing	taʿmalu
+4	21:74:11	w	ٱلۡخَبَٰٓئِثَۚ	ﱜﱝ	الخبايث	wicked deeds	l-khabāitha
+4	21:74:12	w	إِنَّهُمۡ	ﱞ	انهم	Indeed, they	innahum
+4	21:74:13	w	كَانُواْ	ﱟ	كانوا	were	kānū
+4	21:74:14	w	قَوۡمَ	ﱠ	قوم	a people	qawma
+4	21:74:15	w	سَوۡءٖ	ﱡ	سوء	evil	sawin
+5	21:74:16	w	فَٰسِقِينَ	ﱢ	فاسقين	defiantly disobedient	fāsiqīna
+5	21:74:17	e	٧٤	ﱣ			
+5	21:75:1	w	وَأَدۡخَلۡنَٰهُ	ﱤ	وادخلناه	And We admitted him	wa-adkhalnāhu
+5	21:75:2	w	فِي	ﱥ	في	into	fī
+5	21:75:3	w	رَحۡمَتِنَآۖ	ﱦﱧ	رحمتنا	Our Mercy	raḥmatinā
+5	21:75:4	w	إِنَّهُۥ	ﱨ	انه	Indeed, he	innahu
+5	21:75:5	w	مِنَ	ﱩ	من	(was) of	mina
+5	21:75:6	w	ٱلصَّٰلِحِينَ	ﱪ	الصالحين	the righteous	l-ṣāliḥīna
+6	21:75:7	e	٧٥	ﱫ			
+6	21:76:1	w	وَنُوحًا	ﱬ	ونوحا	And Nuh	wanūḥan
+6	21:76:2	w	إِذۡ	ﱭ	اذ	when	idh
+6	21:76:3	w	نَادَىٰ	ﱮ	نادى	he called	nādā
+6	21:76:4	w	مِن	ﱯ	من	before	min
+6	21:76:5	w	قَبۡلُ	ﱰ	قبل	before	qablu
+6	21:76:6	w	فَٱسۡتَجَبۡنَا	ﱱ	فاستجبنا	so We responded	fa-is'tajabnā
+6	21:76:7	w	لَهُۥ	ﱲ	له	to him	lahu
+6	21:76:8	w	فَنَجَّيۡنَٰهُ	ﱳ	فنجيناه	and We saved him	fanajjaynāhu
+7	21:76:9	w	وَأَهۡلَهُۥ	ﱴ	واهله	and his family	wa-ahlahu
+7	21:76:10	w	مِنَ	ﱵ	من	from	mina
+7	21:76:11	w	ٱلۡكَرۡبِ	ﱶ	الكرب	the affliction	l-karbi
+7	21:76:12	w	ٱلۡعَظِيمِ	ﱷ	العظيم	[the] great	l-ʿaẓīmi
+7	21:76:13	e	٧٦	ﱸ			
+7	21:77:1	w	وَنَصَرۡنَٰهُ	ﱹ	ونصرناه	And We helped him	wanaṣarnāhu
+7	21:77:2	w	مِنَ	ﱺ	من	from	mina
+7	21:77:3	w	ٱلۡقَوۡمِ	ﱻ	القوم	the people	l-qawmi
+8	21:77:4	w	ٱلَّذِينَ	ﱼ	الذين	who	alladhīna
+8	21:77:5	w	كَذَّبُواْ	ﱽ	كذبوا	denied	kadhabū
+8	21:77:6	w	بِـَٔايَٰتِنَآۚ	ﱾﱿ	باياتنا	Our Signs	biāyātinā
+8	21:77:7	w	إِنَّهُمۡ	ﲀ	انهم	Indeed, they	innahum
+8	21:77:8	w	كَانُواْ	ﲁ	كانوا	were	kānū
+8	21:77:9	w	قَوۡمَ	ﲂ	قوم	a people	qawma
+8	21:77:10	w	سَوۡءٖ	ﲃ	سوء	evil	sawin
+8	21:77:11	w	فَأَغۡرَقۡنَٰهُمۡ	ﲄ	فاغرقناهم	so We drowned them	fa-aghraqnāhum
+9	21:77:12	w	أَجۡمَعِينَ	ﲅ	اجمعين	all	ajmaʿīna
+9	21:77:13	e	٧٧	ﲆ			
+9	21:78:1	w	وَدَاوُۥدَ	ﲇ	وداوود	And Dawud	wadāwūda
+9	21:78:2	w	وَسُلَيۡمَٰنَ	ﲈ	وسليمان	and Sulaiman	wasulaymāna
+9	21:78:3	w	إِذۡ	ﲉ	اذ	when	idh
+9	21:78:4	w	يَحۡكُمَانِ	ﲊ	يحكمان	they judged	yaḥkumāni
+9	21:78:5	w	فِي	ﲋ	في	concerning	fī
+9	21:78:6	w	ٱلۡحَرۡثِ	ﲌ	الحرث	the field	l-ḥarthi
+10	21:78:7	w	إِذۡ	ﲍ	اذ	when	idh
+10	21:78:8	w	نَفَشَتۡ	ﲎ	نفشت	pastured	nafashat
+10	21:78:9	w	فِيهِ	ﲏ	فيه	in it	fīhi
+10	21:78:10	w	غَنَمُ	ﲐ	غنم	sheep	ghanamu
+10	21:78:11	w	ٱلۡقَوۡمِ	ﲑ	القوم	(of) a people	l-qawmi
+10	21:78:12	w	وَكُنَّا	ﲒ	وكنا	and We were	wakunnā
+10	21:78:13	w	لِحُكۡمِهِمۡ	ﲓ	لحكمهم	to their judgment	liḥuk'mihim
+10	21:78:14	w	شَٰهِدِينَ	ﲔ	شاهدين	witness	shāhidīna
+10	21:78:15	e	٧٨	ﲕ			
+11	21:79:1	w	فَفَهَّمۡنَٰهَا	ﲖ	ففهمناها	And We gave understanding of it	fafahhamnāhā
+11	21:79:2	w	سُلَيۡمَٰنَۚ	ﲗﲘ	سليمان	(to) Sulaiman	sulaymāna
+11	21:79:3	w	وَكُلًّا	ﲙ	وكلا	and (to) each	wakullan
+11	21:79:4	w	ءَاتَيۡنَا	ﲚ	اتينا	We gave	ātaynā
+11	21:79:5	w	حُكۡمٗا	ﲛ	حكما	judgment	ḥuk'man
+11	21:79:6	w	وَعِلۡمٗاۚ	ﲜﲝ	وعلما	and knowledge	waʿil'man
+11	21:79:7	w	وَسَخَّرۡنَا	ﲞ	وسخرنا	And We subjected	wasakharnā
+12	21:79:8	w	مَعَ	ﲟ	مع	with	maʿa
+12	21:79:9	w	دَاوُۥدَ	ﲠ	داوود	Dawud	dāwūda
+12	21:79:10	w	ٱلۡجِبَالَ	ﲡ	الجبال	the mountains	l-jibāla
+12	21:79:11	w	يُسَبِّحۡنَ	ﲢ	يسبحن	(to) glorify Our praises	yusabbiḥ'na
+12	21:79:12	w	وَٱلطَّيۡرَۚ	ﲣﲤ	والطير	and the birds	wal-ṭayra
+12	21:79:13	w	وَكُنَّا	ﲥ	وكنا	And We were	wakunnā
+12	21:79:14	w	فَٰعِلِينَ	ﲦ	فاعلين	the Doers	fāʿilīna
+12	21:79:15	e	٧٩	ﲧ			
+13	21:80:1	w	وَعَلَّمۡنَٰهُ	ﲨ	وعلمناه	And We taught him	waʿallamnāhu
+13	21:80:2	w	صَنۡعَةَ	ﲩ	صنعة	(the) making	ṣanʿata
+13	21:80:3	w	لَبُوسٖ	ﲪ	لبوس	(of) coats of armor	labūsin
+13	21:80:4	w	لَّكُمۡ	ﲫ	لكم	for you	lakum
+13	21:80:5	w	لِتُحۡصِنَكُم	ﲬ	لتحصنكم	to protect you	lituḥ'ṣinakum
+13	21:80:6	w	مِّنۢ	ﲭ	من	from	min
+13	21:80:7	w	بَأۡسِكُمۡۖ	ﲮﲯ	باسكم	your battle	basikum
+14	21:80:8	w	فَهَلۡ	ﲰ	فهل	Then will	fahal
+14	21:80:9	w	أَنتُمۡ	ﲱ	انتم	you	antum
+14	21:80:10	w	شَٰكِرُونَ	ﲲ	شاكرون	(be) grateful	shākirūna
+14	21:80:11	e	٨٠	ﲳ			
+14	21:81:1	w	وَلِسُلَيۡمَٰنَ	ﲴ	ولسليمان	And to Sulaiman	walisulaymāna
+14	21:81:2	w	ٱلرِّيحَ	ﲵ	الريح	the wind	l-rīḥa
+14	21:81:3	w	عَاصِفَةٗ	ﲶ	عاصفة	forcefully	ʿāṣifatan
+14	21:81:4	w	تَجۡرِي	ﲷ	تجري	blowing	tajrī
+14	21:81:5	w	بِأَمۡرِهِۦٓ	ﲸ	بامره	by his command	bi-amrihi
+15	21:81:6	w	إِلَى	ﲹ	الى	to	ilā
+15	21:81:7	w	ٱلۡأَرۡضِ	ﲺ	الارض	the land	l-arḍi
+15	21:81:8	w	ٱلَّتِي	ﲻ	التي	which	allatī
+15	21:81:9	w	بَٰرَكۡنَا	ﲼ	باركنا	We blessed	bāraknā
+15	21:81:10	w	فِيهَاۚ	ﲽﲾ	فيها	[in it]	fīhā
+15	21:81:11	w	وَكُنَّا	ﲿ	وكنا	And We are	wakunnā
+15	21:81:12	w	بِكُلِّ	ﳀ	بكل	of every	bikulli
+15	21:81:13	w	شَيۡءٍ	ﳁ	شيء	thing	shayin
+15	21:81:14	w	عَٰلِمِينَ	ﳂ	عالمين	Knowers	ʿālimīna
+15	21:81:15	e	٨١	ﳃ			

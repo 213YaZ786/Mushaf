@@ -1,0 +1,125 @@
+3	86:1:1	w	وَٱلسَّمَآءِ	ﱁ	والسماء	By the sky	wal-samāi
+3	86:1:2	w	وَٱلطَّارِقِ	ﱂ	والطارق	and the night comer	wal-ṭāriqi
+3	86:1:3	e	١	ﱃ			
+3	86:2:1	w	وَمَآ	ﱄ	وما	And what	wamā
+3	86:2:2	w	أَدۡرَىٰكَ	ﱅ	ادراك	can make you know	adrāka
+3	86:2:3	w	مَا	ﱆ	ما	what	mā
+3	86:2:4	w	ٱلطَّارِقُ	ﱇ	الطارق	the night comer (is)	l-ṭāriqu
+3	86:2:5	e	٢	ﱈ			
+3	86:3:1	w	ٱلنَّجۡمُ	ﱉ	النجم	(It is) the star	al-najmu
+3	86:3:2	w	ٱلثَّاقِبُ	ﱊ	الثاقب	the piercing	l-thāqibu
+4	86:3:3	e	٣	ﱋ			
+4	86:4:1	w	إِن	ﱌ	ان	Not	in
+4	86:4:2	w	كُلُّ	ﱍ	كل	(is) every	kullu
+4	86:4:3	w	نَفۡسٖ	ﱎ	نفس	soul	nafsin
+4	86:4:4	w	لَّمَّا	ﱏ	لما	but	lammā
+4	86:4:5	w	عَلَيۡهَا	ﱐ	عليها	over it	ʿalayhā
+4	86:4:6	w	حَافِظٞ	ﱑ	حافظ	(is) a protector	ḥāfiẓun
+4	86:4:7	e	٤	ﱒ			
+4	86:5:1	w	فَلۡيَنظُرِ	ﱓ	فلينظر	So let see	falyanẓuri
+4	86:5:2	w	ٱلۡإِنسَٰنُ	ﱔ	الانسان	man	l-insānu
+4	86:5:3	w	مِمَّ	ﱕ	مم	from what	mimma
+4	86:5:4	w	خُلِقَ	ﱖ	خلق	he is created	khuliqa
+4	86:5:5	e	٥	ﱗ			
+5	86:6:1	w	خُلِقَ	ﱘ	خلق	He is created	khuliqa
+5	86:6:2	w	مِن	ﱙ	من	from	min
+5	86:6:3	w	مَّآءٖ	ﱚ	ماء	a water	māin
+5	86:6:4	w	دَافِقٖ	ﱛ	دافق	ejected	dāfiqin
+5	86:6:5	e	٦	ﱜ			
+5	86:7:1	w	يَخۡرُجُ	ﱝ	يخرج	Coming forth	yakhruju
+5	86:7:2	w	مِنۢ	ﱞ	من	from	min
+5	86:7:3	w	بَيۡنِ	ﱟ	بين	between	bayni
+5	86:7:4	w	ٱلصُّلۡبِ	ﱠ	الصلب	the backbone	l-ṣul'bi
+5	86:7:5	w	وَٱلتَّرَآئِبِ	ﱡ	والترايب	and the ribs	wal-tarāibi
+5	86:7:6	e	٧	ﱢ			
+5	86:8:1	w	إِنَّهُۥ	ﱣ	انه	Indeed, He	innahu
+5	86:8:2	w	عَلَىٰ	ﱤ	على	to	ʿalā
+6	86:8:3	w	رَجۡعِهِۦ	ﱥ	رجعه	return him	rajʿihi
+6	86:8:4	w	لَقَادِرٞ	ﱦ	لقادر	(is) Able	laqādirun
+6	86:8:5	e	٨	ﱧ			
+6	86:9:1	w	يَوۡمَ	ﱨ	يوم	(The) Day	yawma
+6	86:9:2	w	تُبۡلَى	ﱩ	تبلى	will be tested	tub'lā
+6	86:9:3	w	ٱلسَّرَآئِرُ	ﱪ	السراير	the secrets	l-sarāiru
+6	86:9:4	e	٩	ﱫ			
+6	86:10:1	w	فَمَا	ﱬ	فما	Then not	famā
+6	86:10:2	w	لَهُۥ	ﱭ	له	(is) for him	lahu
+6	86:10:3	w	مِن	ﱮ	من	any	min
+6	86:10:4	w	قُوَّةٖ	ﱯ	قوة	power	quwwatin
+6	86:10:5	w	وَلَا	ﱰ	ولا	and not	walā
+6	86:10:6	w	نَاصِرٖ	ﱱ	ناصر	any helper	nāṣirin
+7	86:10:7	e	١٠	ﱲ			
+7	86:11:1	w	وَٱلسَّمَآءِ	ﱳ	والسماء	By the sky	wal-samāi
+7	86:11:2	w	ذَاتِ	ﱴ	ذات	which	dhāti
+7	86:11:3	w	ٱلرَّجۡعِ	ﱵ	الرجع	returns	l-rajʿi
+7	86:11:4	e	١١	ﱶ			
+7	86:12:1	w	وَٱلۡأَرۡضِ	ﱷ	والارض	And the earth	wal-arḍi
+7	86:12:2	w	ذَاتِ	ﱸ	ذات	which	dhāti
+7	86:12:3	w	ٱلصَّدۡعِ	ﱹ	الصدع	cracks open	l-ṣadʿi
+7	86:12:4	e	١٢	ﱺ			
+7	86:13:1	w	إِنَّهُۥ	ﱻ	انه	Indeed, it	innahu
+8	86:13:2	w	لَقَوۡلٞ	ﱼ	لقول	(is) surely a Word	laqawlun
+8	86:13:3	w	فَصۡلٞ	ﱽ	فصل	decisive	faṣlun
+8	86:13:4	e	١٣	ﱾ			
+8	86:14:1	w	وَمَا	ﱿ	وما	And not	wamā
+8	86:14:2	w	هُوَ	ﲀ	هو	it	huwa
+8	86:14:3	w	بِٱلۡهَزۡلِ	ﲁ	بالهزل	(is) for amusement	bil-hazli
+8	86:14:4	e	١٤	ﲂ			
+8	86:15:1	w	إِنَّهُمۡ	ﲃ	انهم	Indeed, they	innahum
+8	86:15:2	w	يَكِيدُونَ	ﲄ	يكيدون	are plotting	yakīdūna
+8	86:15:3	w	كَيۡدٗا	ﲅ	كيدا	a plot	kaydan
+8	86:15:4	e	١٥	ﲆ			
+9	86:16:1	w	وَأَكِيدُ	ﲇ	واكيد	But I am planning	wa-akīdu
+9	86:16:2	w	كَيۡدٗا	ﲈ	كيدا	a plan	kaydan
+9	86:16:3	e	١٦	ﲉ			
+9	86:17:1	w	فَمَهِّلِ	ﲊ	فمهل	So give respite	famahhili
+9	86:17:2	w	ٱلۡكَٰفِرِينَ	ﲋ	الكافرين	(to) the disbelievers	l-kāfirīna
+9	86:17:3	w	أَمۡهِلۡهُمۡ	ﲌ	امهلهم	Give respite to them	amhil'hum
+9	86:17:4	w	رُوَيۡدَۢا	ﲍ	رويدا	little	ruwaydan
+9	86:17:5	e	١٧	ﲎ			
+12	87:1:1	w	سَبِّحِ	ﲏ	سبح	Glorify	sabbiḥi
+12	87:1:2	w	ٱسۡمَ	ﲐ	اسم	(the) name	is'ma
+12	87:1:3	w	رَبِّكَ	ﲑ	ربك	(of) your Lord	rabbika
+12	87:1:4	w	ٱلۡأَعۡلَى	ﲒ	الاعلى	the Most High	l-aʿlā
+12	87:1:5	e	١	ﲓ			
+12	87:2:1	w	ٱلَّذِي	ﲔ	الذي	The One Who	alladhī
+12	87:2:2	w	خَلَقَ	ﲕ	خلق	created	khalaqa
+12	87:2:3	w	فَسَوَّىٰ	ﲖ	فسوى	then proportioned	fasawwā
+12	87:2:4	e	٢	ﲗ			
+12	87:3:1	w	وَٱلَّذِي	ﲘ	والذي	And the One Who	wa-alladhī
+12	87:3:2	w	قَدَّرَ	ﲙ	قدر	measured	qaddara
+12	87:3:3	w	فَهَدَىٰ	ﲚ	فهدى	then guided	fahadā
+13	87:3:4	e	٣	ﲛ			
+13	87:4:1	w	وَٱلَّذِيٓ	ﲜ	والذي	And the One Who	wa-alladhī
+13	87:4:2	w	أَخۡرَجَ	ﲝ	اخرج	brings forth	akhraja
+13	87:4:3	w	ٱلۡمَرۡعَىٰ	ﲞ	المرعى	the pasture	l-marʿā
+13	87:4:4	e	٤	ﲟ			
+13	87:5:1	w	فَجَعَلَهُۥ	ﲠ	فجعله	And then makes it	fajaʿalahu
+13	87:5:2	w	غُثَآءً	ﲡ	غثاء	stubble	ghuthāan
+13	87:5:3	w	أَحۡوَىٰ	ﲢ	احوى	dark	aḥwā
+13	87:5:4	e	٥	ﲣ			
+13	87:6:1	w	سَنُقۡرِئُكَ	ﲤ	سنقريك	We will make you recite	sanuq'ri-uka
+14	87:6:2	w	فَلَا	ﲥ	فلا	so not	falā
+14	87:6:3	w	تَنسَىٰٓ	ﲦ	تنسى	you will forget	tansā
+14	87:6:4	e	٦	ﲧ			
+14	87:7:1	w	إِلَّا	ﲨ	الا	Except	illā
+14	87:7:2	w	مَا	ﲩ	ما	what	mā
+14	87:7:3	w	شَآءَ	ﲪ	شاء	wills	shāa
+14	87:7:4	w	ٱللَّهُۚ	ﲫﲬ	الله	Allah	l-lahu
+14	87:7:5	w	إِنَّهُۥ	ﲭ	انه	Indeed, He	innahu
+14	87:7:6	w	يَعۡلَمُ	ﲮ	يعلم	knows	yaʿlamu
+14	87:7:7	w	ٱلۡجَهۡرَ	ﲯ	الجهر	the manifest	l-jahra
+14	87:7:8	w	وَمَا	ﲰ	وما	and what	wamā
+14	87:7:9	w	يَخۡفَىٰ	ﲱ	يخفى	is hidden	yakhfā
+14	87:7:10	e	٧	ﲲ			
+14	87:8:1	w	وَنُيَسِّرُكَ	ﲳ	ونيسرك	And We will ease you	wanuyassiruka
+15	87:8:2	w	لِلۡيُسۡرَىٰ	ﲴ	لليسرى	to the ease	lil'yus'rā
+15	87:8:3	e	٨	ﲵ			
+15	87:9:1	w	فَذَكِّرۡ	ﲶ	فذكر	So remind	fadhakkir
+15	87:9:2	w	إِن	ﲷ	ان	if	in
+15	87:9:3	w	نَّفَعَتِ	ﲸ	نفعت	benefits	nafaʿati
+15	87:9:4	w	ٱلذِّكۡرَىٰ	ﲹ	الذكرى	the reminder	l-dhik'rā
+15	87:9:5	e	٩	ﲺ			
+15	87:10:1	w	سَيَذَّكَّرُ	ﲻ	سيذكر	He will pay heed	sayadhakkaru
+15	87:10:2	w	مَن	ﲼ	من	(one) who	man
+15	87:10:3	w	يَخۡشَىٰ	ﲽ	يخشى	fears (Allah)	yakhshā
+15	87:10:4	e	١٠	ﲾ			

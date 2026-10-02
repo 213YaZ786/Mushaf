@@ -1,0 +1,132 @@
+1	33:23:1	w	مِّنَ	ﱁ	من	Among	mina
+1	33:23:2	w	ٱلۡمُؤۡمِنِينَ	ﱂ	المومنين	the believers	l-mu'minīna
+1	33:23:3	w	رِجَالٞ	ﱃ	رجال	(are) men	rijālun
+1	33:23:4	w	صَدَقُواْ	ﱄ	صدقوا	(who) have been true	ṣadaqū
+1	33:23:5	w	مَا	ﱅ	ما	(to) what	mā
+1	33:23:6	w	عَٰهَدُواْ	ﱆ	عاهدوا	they promised Allah	ʿāhadū
+1	33:23:7	w	ٱللَّهَ	ﱇ	الله	they promised Allah	l-laha
+1	33:23:8	w	عَلَيۡهِۖ	ﱈﱉ	عليه	[on it]	ʿalayhi
+1	33:23:9	w	فَمِنۡهُم	ﱊ	فمنهم	And among them	famin'hum
+1	33:23:10	w	مَّن	ﱋ	من	(is he) who	man
+2	33:23:11	w	قَضَىٰ	ﱌ	قضى	has fulfilled	qaḍā
+2	33:23:12	w	نَحۡبَهُۥ	ﱍ	نحبه	his vow	naḥbahu
+2	33:23:13	w	وَمِنۡهُم	ﱎ	ومنهم	and among them	wamin'hum
+2	33:23:14	w	مَّن	ﱏ	من	(is he) who	man
+2	33:23:15	w	يَنتَظِرُۖ	ﱐﱑ	ينتظر	awaits	yantaẓiru
+2	33:23:16	w	وَمَا	ﱒ	وما	And not	wamā
+2	33:23:17	w	بَدَّلُواْ	ﱓ	بدلوا	they alter	baddalū
+2	33:23:18	w	تَبۡدِيلٗا	ﱔ	تبديلا	(by) any alteration	tabdīlan
+2	33:23:19	e	٢٣	ﱕ			
+2	33:24:1	w	لِّيَجۡزِيَ	ﱖ	ليجزي	That Allah may reward	liyajziya
+3	33:24:2	w	ٱللَّهُ	ﱗ	الله	That Allah may reward	l-lahu
+3	33:24:3	w	ٱلصَّٰدِقِينَ	ﱘ	الصادقين	the truthful	l-ṣādiqīna
+3	33:24:4	w	بِصِدۡقِهِمۡ	ﱙ	بصدقهم	for their truth	biṣid'qihim
+3	33:24:5	w	وَيُعَذِّبَ	ﱚ	ويعذب	and punish	wayuʿadhiba
+3	33:24:6	w	ٱلۡمُنَٰفِقِينَ	ﱛ	المنافقين	the hypocrites	l-munāfiqīna
+3	33:24:7	w	إِن	ﱜ	ان	if	in
+3	33:24:8	w	شَآءَ	ﱝ	شاء	He wills	shāa
+3	33:24:9	w	أَوۡ	ﱞ	او	or	aw
+4	33:24:10	w	يَتُوبَ	ﱟ	يتوب	turn in mercy	yatūba
+4	33:24:11	w	عَلَيۡهِمۡۚ	ﱠﱡ	عليهم	to them	ʿalayhim
+4	33:24:12	w	إِنَّ	ﱢ	ان	Indeed	inna
+4	33:24:13	w	ٱللَّهَ	ﱣ	الله	Allah	l-laha
+4	33:24:14	w	كَانَ	ﱤ	كان	is	kāna
+4	33:24:15	w	غَفُورٗا	ﱥ	غفورا	Oft-Forgiving	ghafūran
+4	33:24:16	w	رَّحِيمٗا	ﱦ	رحيما	Most Merciful	raḥīman
+4	33:24:17	e	٢٤	ﱧ			
+4	33:25:1	w	وَرَدَّ	ﱨ	ورد	And Allah turned back	waradda
+4	33:25:2	w	ٱللَّهُ	ﱩ	الله	And Allah turned back	l-lahu
+4	33:25:3	w	ٱلَّذِينَ	ﱪ	الذين	those who	alladhīna
+5	33:25:4	w	كَفَرُواْ	ﱫ	كفروا	disbelieved	kafarū
+5	33:25:5	w	بِغَيۡظِهِمۡ	ﱬ	بغيظهم	in their rage	bighayẓihim
+5	33:25:6	w	لَمۡ	ﱭ	لم	not	lam
+5	33:25:7	w	يَنَالُواْ	ﱮ	ينالوا	they obtained	yanālū
+5	33:25:8	w	خَيۡرٗاۚ	ﱯﱰ	خيرا	any good	khayran
+5	33:25:9	w	وَكَفَى	ﱱ	وكفى	And sufficient is	wakafā
+5	33:25:10	w	ٱللَّهُ	ﱲ	الله	Allah	l-lahu
+5	33:25:11	w	ٱلۡمُؤۡمِنِينَ	ﱳ	المومنين	(for) the believers	l-mu'minīna
+6	33:25:12	w	ٱلۡقِتَالَۚ	ﱴﱵ	القتال	(in) the battle	l-qitāla
+6	33:25:13	w	وَكَانَ	ﱶ	وكان	and Allah is	wakāna
+6	33:25:14	w	ٱللَّهُ	ﱷ	الله	and Allah is	l-lahu
+6	33:25:15	w	قَوِيًّا	ﱸ	قويا	All-Strong	qawiyyan
+6	33:25:16	w	عَزِيزٗا	ﱹ	عزيزا	All-Mighty	ʿazīzan
+6	33:25:17	e	٢٥	ﱺ			
+6	33:26:1	w	وَأَنزَلَ	ﱻ	وانزل	And He brought down	wa-anzala
+6	33:26:2	w	ٱلَّذِينَ	ﱼ	الذين	those who	alladhīna
+6	33:26:3	w	ظَٰهَرُوهُم	ﱽ	ظاهروهم	backed them	ẓāharūhum
+6	33:26:4	w	مِّنۡ	ﱾ	من	among	min
+7	33:26:5	w	أَهۡلِ	ﱿ	اهل	(the) People	ahli
+7	33:26:6	w	ٱلۡكِتَٰبِ	ﲀ	الكتاب	(of) the Scripture	l-kitābi
+7	33:26:7	w	مِن	ﲁ	من	from	min
+7	33:26:8	w	صَيَاصِيهِمۡ	ﲂ	صياصيهم	their fortresses	ṣayāṣīhim
+7	33:26:9	w	وَقَذَفَ	ﲃ	وقذف	and cast	waqadhafa
+7	33:26:10	w	فِي	ﲄ	في	into	fī
+7	33:26:11	w	قُلُوبِهِمُ	ﲅ	قلوبهم	their hearts	qulūbihimu
+7	33:26:12	w	ٱلرُّعۡبَ	ﲆ	الرعب	[the] terror	l-ruʿ'ba
+8	33:26:13	w	فَرِيقٗا	ﲇ	فريقا	a group	farīqan
+8	33:26:14	w	تَقۡتُلُونَ	ﲈ	تقتلون	you killed	taqtulūna
+8	33:26:15	w	وَتَأۡسِرُونَ	ﲉ	وتاسرون	and you took captive	watasirūna
+8	33:26:16	w	فَرِيقٗا	ﲊ	فريقا	a group	farīqan
+8	33:26:17	e	٢٦	ﲋ			
+8	33:27:1	w	وَأَوۡرَثَكُمۡ	ﲌ	واورثكم	And He caused you to inherit	wa-awrathakum
+8	33:27:2	w	أَرۡضَهُمۡ	ﲍ	ارضهم	their land	arḍahum
+9	33:27:3	w	وَدِيَٰرَهُمۡ	ﲎ	وديارهم	and their houses	wadiyārahum
+9	33:27:4	w	وَأَمۡوَٰلَهُمۡ	ﲏ	واموالهم	and their properties	wa-amwālahum
+9	33:27:5	w	وَأَرۡضٗا	ﲐ	وارضا	and a land	wa-arḍan
+9	33:27:6	w	لَّمۡ	ﲑ	لم	not	lam
+9	33:27:7	w	تَطَـُٔوهَاۚ	ﲒﲓ	تطيوها	you (had) trodden	taṭaūhā
+9	33:27:8	w	وَكَانَ	ﲔ	وكان	And Allah is	wakāna
+9	33:27:9	w	ٱللَّهُ	ﲕ	الله	And Allah is	l-lahu
+9	33:27:10	w	عَلَىٰ	ﲖ	على	on	ʿalā
+9	33:27:11	w	كُلِّ	ﲗ	كل	every	kulli
+10	33:27:12	w	شَيۡءٖ	ﲘ	شيء	thing	shayin
+10	33:27:13	w	قَدِيرٗا	ﲙ	قديرا	All-Powerful	qadīran
+10	33:27:14	e	٢٧	ﲚ			
+10	33:28:1	w	يَٰٓأَيُّهَا	ﲛ	يا ايها	O Prophet	yāayyuhā
+10	33:28:2	w	ٱلنَّبِيُّ	ﲜ	النبي	O Prophet	l-nabiyu
+10	33:28:3	w	قُل	ﲝ	قل	Say	qul
+10	33:28:4	w	لِّأَزۡوَٰجِكَ	ﲞ	لازواجك	to your wives	li-azwājika
+10	33:28:5	w	إِن	ﲟ	ان	If	in
+10	33:28:6	w	كُنتُنَّ	ﲠ	كنتن	you	kuntunna
+10	33:28:7	w	تُرِدۡنَ	ﲡ	تردن	desire	turid'na
+11	33:28:8	w	ٱلۡحَيَوٰةَ	ﲢ	الحياة	the life	l-ḥayata
+11	33:28:9	w	ٱلدُّنۡيَا	ﲣ	الدنيا	(of) the world	l-dun'yā
+11	33:28:10	w	وَزِينَتَهَا	ﲤ	وزينتها	and its adornment	wazīnatahā
+11	33:28:11	w	فَتَعَالَيۡنَ	ﲥ	فتعالين	then come	fataʿālayna
+11	33:28:12	w	أُمَتِّعۡكُنَّ	ﲦ	امتعكن	I will provide for you	umattiʿ'kunna
+11	33:28:13	w	وَأُسَرِّحۡكُنَّ	ﲧ	واسرحكن	and release you	wa-usarriḥ'kunna
+12	33:28:14	w	سَرَاحٗا	ﲨ	سراحا	(with) a release	sarāḥan
+12	33:28:15	w	جَمِيلٗا	ﲩ	جميلا	good	jamīlan
+12	33:28:16	e	٢٨	ﲪ			
+12	33:29:1	w	وَإِن	ﲫ	وان	But if	wa-in
+12	33:29:2	w	كُنتُنَّ	ﲬ	كنتن	you	kuntunna
+12	33:29:3	w	تُرِدۡنَ	ﲭ	تردن	desire	turid'na
+12	33:29:4	w	ٱللَّهَ	ﲮ	الله	Allah	l-laha
+12	33:29:5	w	وَرَسُولَهُۥ	ﲯ	ورسوله	and His Messenger	warasūlahu
+12	33:29:6	w	وَٱلدَّارَ	ﲰ	والدار	and the Home	wal-dāra
+13	33:29:7	w	ٱلۡأٓخِرَةَ	ﲱ	الاخرة	(of) the Hereafter	l-ākhirata
+13	33:29:8	w	فَإِنَّ	ﲲ	فان	then indeed	fa-inna
+13	33:29:9	w	ٱللَّهَ	ﲳ	الله	Allah	l-laha
+13	33:29:10	w	أَعَدَّ	ﲴ	اعد	has prepared	aʿadda
+13	33:29:11	w	لِلۡمُحۡسِنَٰتِ	ﲵ	للمحسنات	for the good-doers	lil'muḥ'sināti
+13	33:29:12	w	مِنكُنَّ	ﲶ	منكن	among you	minkunna
+13	33:29:13	w	أَجۡرًا	ﲷ	اجرا	a reward	ajran
+13	33:29:14	w	عَظِيمٗا	ﲸ	عظيما	great	ʿaẓīman
+13	33:29:15	e	٢٩	ﲹ			
+14	33:30:1	w	يَٰنِسَآءَ	ﲺ	يا نساء	O wives	yānisāa
+14	33:30:2	w	ٱلنَّبِيِّ	ﲻ	النبي	(of) the Prophet	l-nabiyi
+14	33:30:3	w	مَن	ﲼ	من	Whoever	man
+14	33:30:4	w	يَأۡتِ	ﲽ	يات	commits	yati
+14	33:30:5	w	مِنكُنَّ	ﲾ	منكن	from you	minkunna
+14	33:30:6	w	بِفَٰحِشَةٖ	ﲿ	بفاحشة	immorality	bifāḥishatin
+14	33:30:7	w	مُّبَيِّنَةٖ	ﳀ	مبينة	clear	mubayyinatin
+14	33:30:8	w	يُضَٰعَفۡ	ﳁ	يضاعف	will be doubled	yuḍāʿaf
+15	33:30:9	w	لَهَا	ﳂ	لها	for her	lahā
+15	33:30:10	w	ٱلۡعَذَابُ	ﳃ	العذاب	the punishment	l-ʿadhābu
+15	33:30:11	w	ضِعۡفَيۡنِۚ	ﳄﳅ	ضعفين	two fold	ḍiʿ'fayni
+15	33:30:12	w	وَكَانَ	ﳆ	وكان	And that is	wakāna
+15	33:30:13	w	ذَٰلِكَ	ﳇ	ذالك	And that is	dhālika
+15	33:30:14	w	عَلَى	ﳈ	على	for	ʿalā
+15	33:30:15	w	ٱللَّهِ	ﳉ	الله	Allah	l-lahi
+15	33:30:16	w	يَسِيرٗا	ﳊ	يسيرا	easy	yasīran
+15	33:30:17	e	٣٠	ﳋ			

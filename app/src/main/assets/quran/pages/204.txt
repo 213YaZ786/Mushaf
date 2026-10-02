@@ -1,0 +1,131 @@
+1	9:107:1	w	وَٱلَّذِينَ	ﱁ	والذين	And those who	wa-alladhīna
+1	9:107:2	w	ٱتَّخَذُواْ	ﱂ	اتخذوا	take	ittakhadhū
+1	9:107:3	w	مَسۡجِدٗا	ﱃ	مسجدا	a masjid	masjidan
+1	9:107:4	w	ضِرَارٗا	ﱄ	ضرارا	(for causing) harm	ḍirāran
+1	9:107:5	w	وَكُفۡرٗا	ﱅ	وكفرا	and (for) disbelief	wakuf'ran
+1	9:107:6	w	وَتَفۡرِيقَۢا	ﱆ	وتفريقا	and (for) division	watafrīqan
+1	9:107:7	w	بَيۡنَ	ﱇ	بين	among	bayna
+2	9:107:8	w	ٱلۡمُؤۡمِنِينَ	ﱈ	المومنين	the believers	l-mu'minīna
+2	9:107:9	w	وَإِرۡصَادٗا	ﱉ	وارصادا	and (as) a station	wa-ir'ṣādan
+2	9:107:10	w	لِّمَنۡ	ﱊ	لمن	for whoever	liman
+2	9:107:11	w	حَارَبَ	ﱋ	حارب	warred	ḥāraba
+2	9:107:12	w	ٱللَّهَ	ﱌ	الله	(against) Allah	l-laha
+2	9:107:13	w	وَرَسُولَهُۥ	ﱍ	ورسوله	and His Messenger	warasūlahu
+2	9:107:14	w	مِن	ﱎ	من	before	min
+2	9:107:15	w	قَبۡلُۚ	ﱏﱐ	قبل	before	qablu
+3	9:107:16	w	وَلَيَحۡلِفُنَّ	ﱑ	وليحلفن	And surely they will swear	walayaḥlifunna
+3	9:107:17	w	إِنۡ	ﱒ	ان	Not	in
+3	9:107:18	w	أَرَدۡنَآ	ﱓ	اردنا	we wish	aradnā
+3	9:107:19	w	إِلَّا	ﱔ	الا	except	illā
+3	9:107:20	w	ٱلۡحُسۡنَىٰۖ	ﱕﱖ	الحسنى	the good	l-ḥus'nā
+3	9:107:21	w	وَٱللَّهُ	ﱗ	والله	But Allah	wal-lahu
+3	9:107:22	w	يَشۡهَدُ	ﱘ	يشهد	bears witness	yashhadu
+3	9:107:23	w	إِنَّهُمۡ	ﱙ	انهم	indeed, they	innahum
+4	9:107:24	w	لَكَٰذِبُونَ	ﱚ	لكاذبون	(are) surely liars	lakādhibūna
+4	9:107:25	e	١٠٧	ﱛ			
+4	9:108:1	w	لَا	ﱜ	لا	(Do) not	lā
+4	9:108:2	w	تَقُمۡ	ﱝ	تقم	stand	taqum
+4	9:108:3	w	فِيهِ	ﱞ	فيه	in it	fīhi
+4	9:108:4	w	أَبَدٗاۚ	ﱟﱠ	ابدا	ever	abadan
+4	9:108:5	w	لَّمَسۡجِدٌ	ﱡ	لمسجد	A masjid	lamasjidun
+4	9:108:6	w	أُسِّسَ	ﱢ	اسس	founded	ussisa
+4	9:108:7	w	عَلَى	ﱣ	على	on	ʿalā
+4	9:108:8	w	ٱلتَّقۡوَىٰ	ﱤ	التقوى	the righteousness	l-taqwā
+5	9:108:9	w	مِنۡ	ﱥ	من	from	min
+5	9:108:10	w	أَوَّلِ	ﱦ	اول	(the) first	awwali
+5	9:108:11	w	يَوۡمٍ	ﱧ	يوم	day	yawmin
+5	9:108:12	w	أَحَقُّ	ﱨ	احق	(is) more worthy	aḥaqqu
+5	9:108:13	w	أَن	ﱩ	ان	that	an
+5	9:108:14	w	تَقُومَ	ﱪ	تقوم	you stand	taqūma
+5	9:108:15	w	فِيهِۚ	ﱫﱬ	فيه	in it	fīhi
+5	9:108:16	w	فِيهِ	ﱭ	فيه	Within it	fīhi
+5	9:108:17	w	رِجَالٞ	ﱮ	رجال	(are) men	rijālun
+5	9:108:18	w	يُحِبُّونَ	ﱯ	يحبون	who love	yuḥibbūna
+5	9:108:19	w	أَن	ﱰ	ان	to	an
+6	9:108:20	w	يَتَطَهَّرُواْۚ	ﱱﱲ	يتطهروا	purify themselves	yataṭahharū
+6	9:108:21	w	وَٱللَّهُ	ﱳ	والله	and Allah	wal-lahu
+6	9:108:22	w	يُحِبُّ	ﱴ	يحب	loves	yuḥibbu
+6	9:108:23	w	ٱلۡمُطَّهِّرِينَ	ﱵ	المطهرين	the ones who purify themselves	l-muṭahirīna
+6	9:108:24	e	١٠٨	ﱶ			
+6	9:109:1	w	أَفَمَنۡ	ﱷ	افمن	Then is (one) who	afaman
+6	9:109:2	w	أَسَّسَ	ﱸ	اسس	founded	assasa
+6	9:109:3	w	بُنۡيَٰنَهُۥ	ﱹ	بنيانه	his building	bun'yānahu
+7	9:109:4	w	عَلَىٰ	ﱺ	على	on	ʿalā
+7	9:109:5	w	تَقۡوَىٰ	ﱻ	تقوى	righteousness	taqwā
+7	9:109:6	w	مِنَ	ﱼ	من	from	mina
+7	9:109:7	w	ٱللَّهِ	ﱽ	الله	Allah	l-lahi
+7	9:109:8	w	وَرِضۡوَٰنٍ	ﱾ	ورضوان	and (His) pleasure	wariḍ'wānin
+7	9:109:9	w	خَيۡرٌ	ﱿ	خير	better	khayrun
+7	9:109:10	w	أَم	ﲀ	ام	or	am
+7	9:109:11	w	مَّنۡ	ﲁ	من	(one) who	man
+7	9:109:12	w	أَسَّسَ	ﲂ	اسس	founded	assasa
+7	9:109:13	w	بُنۡيَٰنَهُۥ	ﲃ	بنيانه	his building	bun'yānahu
+8	9:109:14	w	عَلَىٰ	ﲄ	على	on	ʿalā
+8	9:109:15	w	شَفَا	ﲅ	شفا	edge	shafā
+8	9:109:16	w	جُرُفٍ	ﲆ	جرف	(of) a cliff	jurufin
+8	9:109:17	w	هَارٖ	ﲇ	هار	(about to) collapse	hārin
+8	9:109:18	w	فَٱنۡهَارَ	ﲈ	فانهار	so it collapsed	fa-in'hāra
+8	9:109:19	w	بِهِۦ	ﲉ	به	with him	bihi
+8	9:109:20	w	فِي	ﲊ	في	in	fī
+8	9:109:21	w	نَارِ	ﲋ	نار	(the) Fire	nāri
+8	9:109:22	w	جَهَنَّمَۗ	ﲌﲍ	جهنم	(of) Hell	jahannama
+8	9:109:23	w	وَٱللَّهُ	ﲎ	والله	And Allah	wal-lahu
+8	9:109:24	w	لَا	ﲏ	لا	(does) not	lā
+8	9:109:25	w	يَهۡدِي	ﲐ	يهدي	guide	yahdī
+9	9:109:26	w	ٱلۡقَوۡمَ	ﲑ	القوم	the wrongdoing people	l-qawma
+9	9:109:27	w	ٱلظَّٰلِمِينَ	ﲒ	الظالمين	the wrongdoing people	l-ẓālimīna
+9	9:109:28	e	١٠٩	ﲓ			
+9	9:110:1	w	لَا	ﲔ	لا	Not	lā
+9	9:110:2	w	يَزَالُ	ﲕ	يزال	(will) cease	yazālu
+9	9:110:3	w	بُنۡيَٰنُهُمُ	ﲖ	بنيانهم	their building	bun'yānuhumu
+9	9:110:4	w	ٱلَّذِي	ﲗ	الذي	which	alladhī
+9	9:110:5	w	بَنَوۡاْ	ﲘ	بنوا	they built	banaw
+9	9:110:6	w	رِيبَةٗ	ﲙ	ريبة	a (cause of) doubt	rībatan
+10	9:110:7	w	فِي	ﲚ	في	in	fī
+10	9:110:8	w	قُلُوبِهِمۡ	ﲛ	قلوبهم	their hearts	qulūbihim
+10	9:110:9	w	إِلَّآ	ﲜ	الا	except	illā
+10	9:110:10	w	أَن	ﲝ	ان	that	an
+10	9:110:11	w	تَقَطَّعَ	ﲞ	تقطع	(are) cut into pieces	taqaṭṭaʿa
+10	9:110:12	w	قُلُوبُهُمۡۗ	ﲟﲠ	قلوبهم	their hearts	qulūbuhum
+10	9:110:13	w	وَٱللَّهُ	ﲡ	والله	And Allah	wal-lahu
+10	9:110:14	w	عَلِيمٌ	ﲢ	عليم	(is) All-Knower	ʿalīmun
+10	9:110:15	w	حَكِيمٌ	ﲣ	حكيم	All-Wise	ḥakīmun
+11	9:110:16	e	١١٠	ﲤ			
+11	9:111:1	w	۞ إِنَّ	ﲥ ﲦ	۞ ان	Indeed	inna
+11	9:111:2	w	ٱللَّهَ	ﲧ	الله	Allah	l-laha
+11	9:111:3	w	ٱشۡتَرَىٰ	ﲨ	اشترى	(has) purchased	ish'tarā
+11	9:111:4	w	مِنَ	ﲩ	من	from	mina
+11	9:111:5	w	ٱلۡمُؤۡمِنِينَ	ﲪ	المومنين	the believers	l-mu'minīna
+11	9:111:6	w	أَنفُسَهُمۡ	ﲫ	انفسهم	their lives	anfusahum
+11	9:111:7	w	وَأَمۡوَٰلَهُم	ﲬ	واموالهم	and their wealth	wa-amwālahum
+12	9:111:8	w	بِأَنَّ	ﲭ	بان	because	bi-anna
+12	9:111:9	w	لَهُمُ	ﲮ	لهم	for them	lahumu
+12	9:111:10	w	ٱلۡجَنَّةَۚ	ﲯﲰ	الجنة	(is) Paradise	l-janata
+12	9:111:11	w	يُقَٰتِلُونَ	ﲱ	يقاتلون	They fight	yuqātilūna
+12	9:111:12	w	فِي	ﲲ	في	in	fī
+12	9:111:13	w	سَبِيلِ	ﲳ	سبيل	(the) way	sabīli
+12	9:111:14	w	ٱللَّهِ	ﲴ	الله	(of) Allah	l-lahi
+12	9:111:15	w	فَيَقۡتُلُونَ	ﲵ	فيقتلون	they slay	fayaqtulūna
+13	9:111:16	w	وَيُقۡتَلُونَۖ	ﲶﲷ	ويقتلون	and they are slain	wayuq'talūna
+13	9:111:17	w	وَعۡدًا	ﲸ	وعدا	A promise	waʿdan
+13	9:111:18	w	عَلَيۡهِ	ﲹ	عليه	upon Him	ʿalayhi
+13	9:111:19	w	حَقّٗا	ﲺ	حقا	true	ḥaqqan
+13	9:111:20	w	فِي	ﲻ	في	in	fī
+13	9:111:21	w	ٱلتَّوۡرَىٰةِ	ﲼ	التوراة	the Taurat	l-tawrāti
+13	9:111:22	w	وَٱلۡإِنجِيلِ	ﲽ	والانجيل	and the Injeel	wal-injīli
+14	9:111:23	w	وَٱلۡقُرۡءَانِۚ	ﲾﲿ	والقران	and the Quran	wal-qur'āni
+14	9:111:24	w	وَمَنۡ	ﳀ	ومن	And who	waman
+14	9:111:25	w	أَوۡفَىٰ	ﳁ	اوفى	(is) more faithful	awfā
+14	9:111:26	w	بِعَهۡدِهِۦ	ﳂ	بعهده	to his promise	biʿahdihi
+14	9:111:27	w	مِنَ	ﳃ	من	than	mina
+14	9:111:28	w	ٱللَّهِۚ	ﳄﳅ	الله	Allah	l-lahi
+14	9:111:29	w	فَٱسۡتَبۡشِرُواْ	ﳆ	فاستبشروا	So rejoice	fa-is'tabshirū
+15	9:111:30	w	بِبَيۡعِكُمُ	ﳇ	ببيعكم	in your transaction	bibayʿikumu
+15	9:111:31	w	ٱلَّذِي	ﳈ	الذي	which	alladhī
+15	9:111:32	w	بَايَعۡتُم	ﳉ	بايعتم	you have contracted	bāyaʿtum
+15	9:111:33	w	بِهِۦۚ	ﳊﳋ	به	[with it]	bihi
+15	9:111:34	w	وَذَٰلِكَ	ﳌ	وذالك	And that	wadhālika
+15	9:111:35	w	هُوَ	ﳍ	هو	it	huwa
+15	9:111:36	w	ٱلۡفَوۡزُ	ﳎ	الفوز	(is) the success	l-fawzu
+15	9:111:37	w	ٱلۡعَظِيمُ	ﳏ	العظيم	the great	l-ʿaẓīmu
+15	9:111:38	e	١١١	ﳐ			

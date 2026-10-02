@@ -1,0 +1,154 @@
+1	31:20:1	w	أَلَمۡ	ﱁ	الم	Do not	alam
+1	31:20:2	w	تَرَوۡاْ	ﱂ	تروا	you see	taraw
+1	31:20:3	w	أَنَّ	ﱃ	ان	that	anna
+1	31:20:4	w	ٱللَّهَ	ﱄ	الله	Allah	l-laha
+1	31:20:5	w	سَخَّرَ	ﱅ	سخر	has subjected	sakhara
+1	31:20:6	w	لَكُم	ﱆ	لكم	to you	lakum
+1	31:20:7	w	مَّا	ﱇ	ما	whatever	mā
+1	31:20:8	w	فِي	ﱈ	في	(is) in	fī
+1	31:20:9	w	ٱلسَّمَٰوَٰتِ	ﱉ	السماوات	the heavens	l-samāwāti
+1	31:20:10	w	وَمَا	ﱊ	وما	and whatever	wamā
+1	31:20:11	w	فِي	ﱋ	في	(is) in	fī
+1	31:20:12	w	ٱلۡأَرۡضِ	ﱌ	الارض	the earth	l-arḍi
+1	31:20:13	w	وَأَسۡبَغَ	ﱍ	واسبغ	and amply bestowed	wa-asbagha
+2	31:20:14	w	عَلَيۡكُمۡ	ﱎ	عليكم	upon you	ʿalaykum
+2	31:20:15	w	نِعَمَهُۥ	ﱏ	نعمه	His Bounties	niʿamahu
+2	31:20:16	w	ظَٰهِرَةٗ	ﱐ	ظاهرة	apparent	ẓāhiratan
+2	31:20:17	w	وَبَاطِنَةٗۗ	ﱑﱒ	وباطنة	and hidden	wabāṭinatan
+2	31:20:18	w	وَمِنَ	ﱓ	ومن	But of	wamina
+2	31:20:19	w	ٱلنَّاسِ	ﱔ	الناس	the people	l-nāsi
+2	31:20:20	w	مَن	ﱕ	من	(is he) who	man
+2	31:20:21	w	يُجَٰدِلُ	ﱖ	يجادل	disputes	yujādilu
+2	31:20:22	w	فِي	ﱗ	في	about	fī
+2	31:20:23	w	ٱللَّهِ	ﱘ	الله	Allah	l-lahi
+3	31:20:24	w	بِغَيۡرِ	ﱙ	بغير	without	bighayri
+3	31:20:25	w	عِلۡمٖ	ﱚ	علم	knowledge	ʿil'min
+3	31:20:26	w	وَلَا	ﱛ	ولا	and not	walā
+3	31:20:27	w	هُدٗى	ﱜ	هدى	guidance	hudan
+3	31:20:28	w	وَلَا	ﱝ	ولا	and not	walā
+3	31:20:29	w	كِتَٰبٖ	ﱞ	كتاب	a book	kitābin
+3	31:20:30	w	مُّنِيرٖ	ﱟ	منير	enlightening	munīrin
+3	31:20:31	e	٢٠	ﱠ			
+3	31:21:1	w	وَإِذَا	ﱡ	واذا	And when	wa-idhā
+3	31:21:2	w	قِيلَ	ﱢ	قيل	it is said	qīla
+3	31:21:3	w	لَهُمُ	ﱣ	لهم	to them	lahumu
+3	31:21:4	w	ٱتَّبِعُواْ	ﱤ	اتبعوا	Follow	ittabiʿū
+4	31:21:5	w	مَآ	ﱥ	ما	what	mā
+4	31:21:6	w	أَنزَلَ	ﱦ	انزل	Allah (has) revealed	anzala
+4	31:21:7	w	ٱللَّهُ	ﱧ	الله	Allah (has) revealed	l-lahu
+4	31:21:8	w	قَالُواْ	ﱨ	قالوا	they say	qālū
+4	31:21:9	w	بَلۡ	ﱩ	بل	Nay	bal
+4	31:21:10	w	نَتَّبِعُ	ﱪ	نتبع	we will follow	nattabiʿu
+4	31:21:11	w	مَا	ﱫ	ما	what	mā
+4	31:21:12	w	وَجَدۡنَا	ﱬ	وجدنا	we found	wajadnā
+4	31:21:13	w	عَلَيۡهِ	ﱭ	عليه	on it	ʿalayhi
+4	31:21:14	w	ءَابَآءَنَآۚ	ﱮﱯ	اباءنا	our forefathers	ābāanā
+4	31:21:15	w	أَوَلَوۡ	ﱰ	اولو	Even if	awalaw
+4	31:21:16	w	كَانَ	ﱱ	كان	Shaitaan was	kāna
+5	31:21:17	w	ٱلشَّيۡطَٰنُ	ﱲ	الشيطان	Shaitaan was	l-shayṭānu
+5	31:21:18	w	يَدۡعُوهُمۡ	ﱳ	يدعوهم	(to) call them	yadʿūhum
+5	31:21:19	w	إِلَىٰ	ﱴ	الى	to	ilā
+5	31:21:20	w	عَذَابِ	ﱵ	عذاب	(the) punishment	ʿadhābi
+5	31:21:21	w	ٱلسَّعِيرِ	ﱶ	السعير	(of) the Blaze	l-saʿīri
+5	31:21:22	e	٢١	ﱷ			
+5	31:22:1	w	۞ وَمَن	ﱸ ﱹ	۞ ومن	And whoever	waman
+5	31:22:2	w	يُسۡلِمۡ	ﱺ	يسلم	submits	yus'lim
+6	31:22:3	w	وَجۡهَهُۥٓ	ﱻ	وجهه	his face	wajhahu
+6	31:22:4	w	إِلَى	ﱼ	الى	to	ilā
+6	31:22:5	w	ٱللَّهِ	ﱽ	الله	Allah	l-lahi
+6	31:22:6	w	وَهُوَ	ﱾ	وهو	while he	wahuwa
+6	31:22:7	w	مُحۡسِنٞ	ﱿ	محسن	(is) a good-doer	muḥ'sinun
+6	31:22:8	w	فَقَدِ	ﲀ	فقد	then indeed	faqadi
+6	31:22:9	w	ٱسۡتَمۡسَكَ	ﲁ	استمسك	he has grasped	is'tamsaka
+6	31:22:10	w	بِٱلۡعُرۡوَةِ	ﲂ	بالعروة	the handhold	bil-ʿur'wati
+6	31:22:11	w	ٱلۡوُثۡقَىٰۗ	ﲃﲄ	الوثقى	the most trustworthy	l-wuth'qā
+7	31:22:12	w	وَإِلَى	ﲅ	والى	And to	wa-ilā
+7	31:22:13	w	ٱللَّهِ	ﲆ	الله	Allah	l-lahi
+7	31:22:14	w	عَٰقِبَةُ	ﲇ	عاقبة	(is the) end	ʿāqibatu
+7	31:22:15	w	ٱلۡأُمُورِ	ﲈ	الامور	(of) the matters	l-umūri
+7	31:22:16	e	٢٢	ﲉ			
+7	31:23:1	w	وَمَن	ﲊ	ومن	And whoever	waman
+7	31:23:2	w	كَفَرَ	ﲋ	كفر	disbelieves	kafara
+7	31:23:3	w	فَلَا	ﲌ	فلا	let not	falā
+7	31:23:4	w	يَحۡزُنكَ	ﲍ	يحزنك	grieve you	yaḥzunka
+7	31:23:5	w	كُفۡرُهُۥٓۚ	ﲎﲏ	كفره	his disbelief	kuf'ruhu
+8	31:23:6	w	إِلَيۡنَا	ﲐ	الينا	To Us	ilaynā
+8	31:23:7	w	مَرۡجِعُهُمۡ	ﲑ	مرجعهم	(is) their return	marjiʿuhum
+8	31:23:8	w	فَنُنَبِّئُهُم	ﲒ	فننبيهم	then We will inform them	fanunabbi-uhum
+8	31:23:9	w	بِمَا	ﲓ	بما	of what	bimā
+8	31:23:10	w	عَمِلُوٓاْۚ	ﲔﲕ	عملوا	they did	ʿamilū
+8	31:23:11	w	إِنَّ	ﲖ	ان	Indeed	inna
+8	31:23:12	w	ٱللَّهَ	ﲗ	الله	Allah	l-laha
+8	31:23:13	w	عَلِيمُۢ	ﲘ	عليم	(is) the All-Knower	ʿalīmun
+8	31:23:14	w	بِذَاتِ	ﲙ	بذات	of what	bidhāti
+8	31:23:15	w	ٱلصُّدُورِ	ﲚ	الصدور	(is in) the breasts	l-ṣudūri
+9	31:23:16	e	٢٣	ﲛ			
+9	31:24:1	w	نُمَتِّعُهُمۡ	ﲜ	نمتعهم	We grant them enjoyment	numattiʿuhum
+9	31:24:2	w	قَلِيلٗا	ﲝ	قليلا	(for) a little	qalīlan
+9	31:24:3	w	ثُمَّ	ﲞ	ثم	then	thumma
+9	31:24:4	w	نَضۡطَرُّهُمۡ	ﲟ	نضطرهم	We will force them	naḍṭarruhum
+9	31:24:5	w	إِلَىٰ	ﲠ	الى	to	ilā
+9	31:24:6	w	عَذَابٍ	ﲡ	عذاب	a punishment	ʿadhābin
+9	31:24:7	w	غَلِيظٖ	ﲢ	غليظ	severe	ghalīẓin
+9	31:24:8	e	٢٤	ﲣ			
+10	31:25:1	w	وَلَئِن	ﲤ	ولين	And if	wala-in
+10	31:25:2	w	سَأَلۡتَهُم	ﲥ	سالتهم	you ask them	sa-altahum
+10	31:25:3	w	مَّنۡ	ﲦ	من	Who	man
+10	31:25:4	w	خَلَقَ	ﲧ	خلق	created	khalaqa
+10	31:25:5	w	ٱلسَّمَٰوَٰتِ	ﲨ	السماوات	the heavens	l-samāwāti
+10	31:25:6	w	وَٱلۡأَرۡضَ	ﲩ	والارض	and the earth	wal-arḍa
+10	31:25:7	w	لَيَقُولُنَّ	ﲪ	ليقولن	They will surely say	layaqūlunna
+10	31:25:8	w	ٱللَّهُۚ	ﲫﲬ	الله	Allah	l-lahu
+10	31:25:9	w	قُلِ	ﲭ	قل	Say	quli
+11	31:25:10	w	ٱلۡحَمۡدُ	ﲮ	الحمد	All praises	l-ḥamdu
+11	31:25:11	w	لِلَّهِۚ	ﲯﲰ	لله	(are) for Allah	lillahi
+11	31:25:12	w	بَلۡ	ﲱ	بل	But	bal
+11	31:25:13	w	أَكۡثَرُهُمۡ	ﲲ	اكثرهم	most of them	aktharuhum
+11	31:25:14	w	لَا	ﲳ	لا	(do) not	lā
+11	31:25:15	w	يَعۡلَمُونَ	ﲴ	يعلمون	know	yaʿlamūna
+11	31:25:16	e	٢٥	ﲵ			
+11	31:26:1	w	لِلَّهِ	ﲶ	لله	To Allah (belongs)	lillahi
+11	31:26:2	w	مَا	ﲷ	ما	whatever	mā
+11	31:26:3	w	فِي	ﲸ	في	(is) in	fī
+11	31:26:4	w	ٱلسَّمَٰوَٰتِ	ﲹ	السماوات	the heavens	l-samāwāti
+12	31:26:5	w	وَٱلۡأَرۡضِۚ	ﲺﲻ	والارض	and the earth	wal-arḍi
+12	31:26:6	w	إِنَّ	ﲼ	ان	Indeed	inna
+12	31:26:7	w	ٱللَّهَ	ﲽ	الله	Allah	l-laha
+12	31:26:8	w	هُوَ	ﲾ	هو	He	huwa
+12	31:26:9	w	ٱلۡغَنِيُّ	ﲿ	الغني	(is) Free of need	l-ghaniyu
+12	31:26:10	w	ٱلۡحَمِيدُ	ﳀ	الحميد	the Praiseworthy	l-ḥamīdu
+12	31:26:11	e	٢٦	ﳁ			
+12	31:27:1	w	وَلَوۡ	ﳂ	ولو	And if	walaw
+12	31:27:2	w	أَنَّمَا	ﳃ	انما	whatever	annamā
+12	31:27:3	w	فِي	ﳄ	في	(is) in	fī
+12	31:27:4	w	ٱلۡأَرۡضِ	ﳅ	الارض	the earth	l-arḍi
+13	31:27:5	w	مِن	ﳆ	من	of	min
+13	31:27:6	w	شَجَرَةٍ	ﳇ	شجرة	(the) trees	shajaratin
+13	31:27:7	w	أَقۡلَٰمٞ	ﳈ	اقلام	(were) pens	aqlāmun
+13	31:27:8	w	وَٱلۡبَحۡرُ	ﳉ	والبحر	and the sea	wal-baḥru
+13	31:27:9	w	يَمُدُّهُۥ	ﳊ	يمده	(to) add to it	yamudduhu
+13	31:27:10	w	مِنۢ	ﳋ	من	after it	min
+13	31:27:11	w	بَعۡدِهِۦ	ﳌ	بعده	after it	baʿdihi
+13	31:27:12	w	سَبۡعَةُ	ﳍ	سبعة	seven	sabʿatu
+13	31:27:13	w	أَبۡحُرٖ	ﳎ	ابحر	seas	abḥurin
+14	31:27:14	w	مَّا	ﳏ	ما	not	mā
+14	31:27:15	w	نَفِدَتۡ	ﳐ	نفدت	would be exhausted	nafidat
+14	31:27:16	w	كَلِمَٰتُ	ﳑ	كلمات	(the) Words	kalimātu
+14	31:27:17	w	ٱللَّهِۚ	ﳒﳓ	الله	(of) Allah	l-lahi
+14	31:27:18	w	إِنَّ	ﳔ	ان	Indeed	inna
+14	31:27:19	w	ٱللَّهَ	ﳕ	الله	Allah	l-laha
+14	31:27:20	w	عَزِيزٌ	ﳖ	عزيز	(is) All-Mighty	ʿazīzun
+14	31:27:21	w	حَكِيمٞ	ﳗ	حكيم	All-Wise	ḥakīmun
+14	31:27:22	e	٢٧	ﳘ			
+14	31:28:1	w	مَّا	ﳙ	ما	Not	mā
+14	31:28:2	w	خَلۡقُكُمۡ	ﳚ	خلقكم	(is) your creation	khalqukum
+15	31:28:3	w	وَلَا	ﳛ	ولا	and not	walā
+15	31:28:4	w	بَعۡثُكُمۡ	ﳜ	بعثكم	your resurrection	baʿthukum
+15	31:28:5	w	إِلَّا	ﳝ	الا	but	illā
+15	31:28:6	w	كَنَفۡسٖ	ﳞ	كنفس	as a soul	kanafsin
+15	31:28:7	w	وَٰحِدَةٍۚ	ﳟﳠ	واحدة	single	wāḥidatin
+15	31:28:8	w	إِنَّ	ﳡ	ان	Indeed	inna
+15	31:28:9	w	ٱللَّهَ	ﳢ	الله	Allah	l-laha
+15	31:28:10	w	سَمِيعُۢ	ﳣ	سميع	(is) All-Hearer	samīʿun
+15	31:28:11	w	بَصِيرٌ	ﳤ	بصير	All-Seer	baṣīrun
+15	31:28:12	e	٢٨	ﳥ			

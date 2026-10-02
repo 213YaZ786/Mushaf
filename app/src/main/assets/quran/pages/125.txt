@@ -1,0 +1,147 @@
+1	5:104:1	w	وَإِذَا	ﱁ	واذا	And when	wa-idhā
+1	5:104:2	w	قِيلَ	ﱂ	قيل	it is said	qīla
+1	5:104:3	w	لَهُمۡ	ﱃ	لهم	to them	lahum
+1	5:104:4	w	تَعَالَوۡاْ	ﱄ	تعالوا	Come	taʿālaw
+1	5:104:5	w	إِلَىٰ	ﱅ	الى	to	ilā
+1	5:104:6	w	مَآ	ﱆ	ما	what	mā
+1	5:104:7	w	أَنزَلَ	ﱇ	انزل	has (been) revealed	anzala
+1	5:104:8	w	ٱللَّهُ	ﱈ	الله	(by) Allah	l-lahu
+1	5:104:9	w	وَإِلَى	ﱉ	والى	and to	wa-ilā
+1	5:104:10	w	ٱلرَّسُولِ	ﱊ	الرسول	the Messenger	l-rasūli
+1	5:104:11	w	قَالُواْ	ﱋ	قالوا	they said	qālū
+1	5:104:12	w	حَسۡبُنَا	ﱌ	حسبنا	Sufficient for us	ḥasbunā
+2	5:104:13	w	مَا	ﱍ	ما	(is) what	mā
+2	5:104:14	w	وَجَدۡنَا	ﱎ	وجدنا	we found	wajadnā
+2	5:104:15	w	عَلَيۡهِ	ﱏ	عليه	upon it	ʿalayhi
+2	5:104:16	w	ءَابَآءَنَآۚ	ﱐﱑ	اباءنا	our forefathers	ābāanā
+2	5:104:17	w	أَوَلَوۡ	ﱒ	اولو	Even though	awalaw
+2	5:104:18	w	كَانَ	ﱓ	كان	(that)	kāna
+2	5:104:19	w	ءَابَآؤُهُمۡ	ﱔ	اباوهم	their forefathers	ābāuhum
+2	5:104:20	w	لَا	ﱕ	لا	(were) not	lā
+2	5:104:21	w	يَعۡلَمُونَ	ﱖ	يعلمون	knowing	yaʿlamūna
+3	5:104:22	w	شَيۡـٔٗا	ﱗ	شييا	anything	shayan
+3	5:104:23	w	وَلَا	ﱘ	ولا	and not	walā
+3	5:104:24	w	يَهۡتَدُونَ	ﱙ	يهتدون	they (were) guided	yahtadūna
+3	5:104:25	e	١٠٤	ﱚ			
+3	5:105:1	w	يَٰٓأَيُّهَا	ﱛ	يا ايها	O you	yāayyuhā
+3	5:105:2	w	ٱلَّذِينَ	ﱜ	الذين	who	alladhīna
+3	5:105:3	w	ءَامَنُواْ	ﱝ	امنوا	believe	āmanū
+3	5:105:4	w	عَلَيۡكُمۡ	ﱞ	عليكم	Upon you	ʿalaykum
+3	5:105:5	w	أَنفُسَكُمۡۖ	ﱟﱠ	انفسكم	(is to guard) yourselves	anfusakum
+4	5:105:6	w	لَا	ﱡ	لا	Not	lā
+4	5:105:7	w	يَضُرُّكُم	ﱢ	يضركم	will harm you	yaḍurrukum
+4	5:105:8	w	مَّن	ﱣ	من	(those) who	man
+4	5:105:9	w	ضَلَّ	ﱤ	ضل	(have gone) astray	ḍalla
+4	5:105:10	w	إِذَا	ﱥ	اذا	when	idhā
+4	5:105:11	w	ٱهۡتَدَيۡتُمۡۚ	ﱦﱧ	اهتديتم	you have been guided	ih'tadaytum
+4	5:105:12	w	إِلَى	ﱨ	الى	To	ilā
+4	5:105:13	w	ٱللَّهِ	ﱩ	الله	Allah	l-lahi
+4	5:105:14	w	مَرۡجِعُكُمۡ	ﱪ	مرجعكم	(is) your return	marjiʿukum
+4	5:105:15	w	جَمِيعٗا	ﱫ	جميعا	all	jamīʿan
+5	5:105:16	w	فَيُنَبِّئُكُم	ﱬ	فينبيكم	then He will inform you	fayunabbi-ukum
+5	5:105:17	w	بِمَا	ﱭ	بما	of what	bimā
+5	5:105:18	w	كُنتُمۡ	ﱮ	كنتم	you used to	kuntum
+5	5:105:19	w	تَعۡمَلُونَ	ﱯ	تعملون	do	taʿmalūna
+5	5:105:20	e	١٠٥	ﱰ			
+5	5:106:1	w	يَٰٓأَيُّهَا	ﱱ	يا ايها	O you	yāayyuhā
+5	5:106:2	w	ٱلَّذِينَ	ﱲ	الذين	who	alladhīna
+5	5:106:3	w	ءَامَنُواْ	ﱳ	امنوا	believe	āmanū
+5	5:106:4	w	شَهَٰدَةُ	ﱴ	شهادة	(Take) testimony	shahādatu
+6	5:106:5	w	بَيۡنِكُمۡ	ﱵ	بينكم	among you	baynikum
+6	5:106:6	w	إِذَا	ﱶ	اذا	when	idhā
+6	5:106:7	w	حَضَرَ	ﱷ	حضر	approaches	ḥaḍara
+6	5:106:8	w	أَحَدَكُمُ	ﱸ	احدكم	one of you	aḥadakumu
+6	5:106:9	w	ٱلۡمَوۡتُ	ﱹ	الموت	[the] death	l-mawtu
+6	5:106:10	w	حِينَ	ﱺ	حين	(at the) time (of making)	ḥīna
+6	5:106:11	w	ٱلۡوَصِيَّةِ	ﱻ	الوصية	[the] a will	l-waṣiyati
+6	5:106:12	w	ٱثۡنَانِ	ﱼ	اثنان	two	ith'nāni
+6	5:106:13	w	ذَوَا	ﱽ	ذوا	men	dhawā
+7	5:106:14	w	عَدۡلٖ	ﱾ	عدل	just	ʿadlin
+7	5:106:15	w	مِّنكُمۡ	ﱿ	منكم	among you	minkum
+7	5:106:16	w	أَوۡ	ﲀ	او	or	aw
+7	5:106:17	w	ءَاخَرَانِ	ﲁ	اخران	two others	ākharāni
+7	5:106:18	w	مِنۡ	ﲂ	من	from	min
+7	5:106:19	w	غَيۡرِكُمۡ	ﲃ	غيركم	other than you	ghayrikum
+7	5:106:20	w	إِنۡ	ﲄ	ان	if	in
+7	5:106:21	w	أَنتُمۡ	ﲅ	انتم	you	antum
+7	5:106:22	w	ضَرَبۡتُمۡ	ﲆ	ضربتم	(are) travel(ing)	ḍarabtum
+7	5:106:23	w	فِي	ﲇ	في	in	fī
+7	5:106:24	w	ٱلۡأَرۡضِ	ﲈ	الارض	the earth	l-arḍi
+8	5:106:25	w	فَأَصَٰبَتۡكُم	ﲉ	فاصابتكم	then befalls you	fa-aṣābatkum
+8	5:106:26	w	مُّصِيبَةُ	ﲊ	مصيبة	calamity	muṣībatu
+8	5:106:27	w	ٱلۡمَوۡتِۚ	ﲋﲌ	الموت	(of) [the] death	l-mawti
+8	5:106:28	w	تَحۡبِسُونَهُمَا	ﲍ	تحبسونهما	Detain both of them	taḥbisūnahumā
+8	5:106:29	w	مِنۢ	ﲎ	من	from	min
+8	5:106:30	w	بَعۡدِ	ﲏ	بعد	after	baʿdi
+8	5:106:31	w	ٱلصَّلَوٰةِ	ﲐ	الصلاة	the prayer	l-ṣalati
+9	5:106:32	w	فَيُقۡسِمَانِ	ﲑ	فيقسمان	and let them both swear	fayuq'simāni
+9	5:106:33	w	بِٱللَّهِ	ﲒ	بالله	by Allah	bil-lahi
+9	5:106:34	w	إِنِ	ﲓ	ان	if	ini
+9	5:106:35	w	ٱرۡتَبۡتُمۡ	ﲔ	ارتبتم	you doubt	ir'tabtum
+9	5:106:36	w	لَا	ﲕ	لا	Not	lā
+9	5:106:37	w	نَشۡتَرِي	ﲖ	نشتري	we will exchange	nashtarī
+9	5:106:38	w	بِهِۦ	ﲗ	به	it for	bihi
+9	5:106:39	w	ثَمَنٗا	ﲘ	ثمنا	a price	thamanan
+9	5:106:40	w	وَلَوۡ	ﲙ	ولو	even if	walaw
+9	5:106:41	w	كَانَ	ﲚ	كان	he is	kāna
+9	5:106:42	w	ذَا	ﲛ	ذا	(of)	dhā
+10	5:106:43	w	قُرۡبَىٰ	ﲜ	قربى	a near relative	qur'bā
+10	5:106:44	w	وَلَا	ﲝ	ولا	and not	walā
+10	5:106:45	w	نَكۡتُمُ	ﲞ	نكتم	we will conceal	naktumu
+10	5:106:46	w	شَهَٰدَةَ	ﲟ	شهادة	testimony	shahādata
+10	5:106:47	w	ٱللَّهِ	ﲠ	الله	(of) Allah	l-lahi
+10	5:106:48	w	إِنَّآ	ﲡ	انا	Indeed, we	innā
+10	5:106:49	w	إِذٗا	ﲢ	اذا	then	idhan
+10	5:106:50	w	لَّمِنَ	ﲣ	لمن	(will) surely (be) of	lamina
+10	5:106:51	w	ٱلۡأٓثِمِينَ	ﲤ	الاثمين	the sinners	l-āthimīna
+10	5:106:52	e	١٠٦	ﲥ			
+10	5:107:1	w	فَإِنۡ	ﲦ	فان	Then if	fa-in
+10	5:107:2	w	عُثِرَ	ﲧ	عثر	it is discovered	ʿuthira
+11	5:107:3	w	عَلَىٰٓ	ﲨ	على	(on)	ʿalā
+11	5:107:4	w	أَنَّهُمَا	ﲩ	انهما	that the two	annahumā
+11	5:107:5	w	ٱسۡتَحَقَّآ	ﲪ	استحقا	(were) guilty	is'taḥaqqā
+11	5:107:6	w	إِثۡمٗا	ﲫ	اثما	(of) sin	ith'man
+11	5:107:7	w	فَـَٔاخَرَانِ	ﲬ	فاخران	then (let) two others	faākharāni
+11	5:107:8	w	يَقُومَانِ	ﲭ	يقومان	stand	yaqūmāni
+11	5:107:9	w	مَقَامَهُمَا	ﲮ	مقامهما	(in) their place	maqāmahumā
+11	5:107:10	w	مِنَ	ﲯ	من	from	mina
+11	5:107:11	w	ٱلَّذِينَ	ﲰ	الذين	those who	alladhīna
+12	5:107:12	w	ٱسۡتَحَقَّ	ﲱ	استحق	have a lawful right	is'taḥaqqa
+12	5:107:13	w	عَلَيۡهِمُ	ﲲ	عليهم	over them	ʿalayhimu
+12	5:107:14	w	ٱلۡأَوۡلَيَٰنِ	ﲳ	الاوليان	the former two	l-awlayāni
+12	5:107:15	w	فَيُقۡسِمَانِ	ﲴ	فيقسمان	and let them both swear	fayuq'simāni
+12	5:107:16	w	بِٱللَّهِ	ﲵ	بالله	by Allah	bil-lahi
+12	5:107:17	w	لَشَهَٰدَتُنَآ	ﲶ	لشهادتنا	Surely our testimony	lashahādatunā
+12	5:107:18	w	أَحَقُّ	ﲷ	احق	(is) truer	aḥaqqu
+12	5:107:19	w	مِن	ﲸ	من	than	min
+13	5:107:20	w	شَهَٰدَتِهِمَا	ﲹ	شهادتهما	testimony of the other two	shahādatihimā
+13	5:107:21	w	وَمَا	ﲺ	وما	and not	wamā
+13	5:107:22	w	ٱعۡتَدَيۡنَآ	ﲻ	اعتدينا	we have transgressed	iʿ'tadaynā
+13	5:107:23	w	إِنَّآ	ﲼ	انا	Indeed, we	innā
+13	5:107:24	w	إِذٗا	ﲽ	اذا	then	idhan
+13	5:107:25	w	لَّمِنَ	ﲾ	لمن	(will be) of	lamina
+13	5:107:26	w	ٱلظَّٰلِمِينَ	ﲿ	الظالمين	the wrongdoers	l-ẓālimīna
+13	5:107:27	e	١٠٧	ﳀ			
+13	5:108:1	w	ذَٰلِكَ	ﳁ	ذالك	That	dhālika
+13	5:108:2	w	أَدۡنَىٰٓ	ﳂ	ادنى	(is) closer	adnā
+14	5:108:3	w	أَن	ﳃ	ان	that	an
+14	5:108:4	w	يَأۡتُواْ	ﳄ	ياتوا	they will give	yatū
+14	5:108:5	w	بِٱلشَّهَٰدَةِ	ﳅ	بالشهادة	the testimony	bil-shahādati
+14	5:108:6	w	عَلَىٰ	ﳆ	على	in	ʿalā
+14	5:108:7	w	وَجۡهِهَآ	ﳇ	وجهها	its (true) form	wajhihā
+14	5:108:8	w	أَوۡ	ﳈ	او	or	aw
+14	5:108:9	w	يَخَافُوٓاْ	ﳉ	يخافوا	they would fear	yakhāfū
+14	5:108:10	w	أَن	ﳊ	ان	that	an
+14	5:108:11	w	تُرَدَّ	ﳋ	ترد	will be refuted	turadda
+14	5:108:12	w	أَيۡمَٰنُۢ	ﳌ	ايمان	their oaths	aymānun
+14	5:108:13	w	بَعۡدَ	ﳍ	بعد	after	baʿda
+15	5:108:14	w	أَيۡمَٰنِهِمۡۗ	ﳎﳏ	ايمانهم	their (others) oaths	aymānihim
+15	5:108:15	w	وَٱتَّقُواْ	ﳐ	واتقوا	And fear	wa-ittaqū
+15	5:108:16	w	ٱللَّهَ	ﳑ	الله	Allah	l-laha
+15	5:108:17	w	وَٱسۡمَعُواْۗ	ﳒﳓ	واسمعوا	and listen	wa-is'maʿū
+15	5:108:18	w	وَٱللَّهُ	ﳔ	والله	and Allah	wal-lahu
+15	5:108:19	w	لَا	ﳕ	لا	(does) not	lā
+15	5:108:20	w	يَهۡدِي	ﳖ	يهدي	guide	yahdī
+15	5:108:21	w	ٱلۡقَوۡمَ	ﳗ	القوم	the people	l-qawma
+15	5:108:22	w	ٱلۡفَٰسِقِينَ	ﳘ	الفاسقين	the defiantly disobedient	l-fāsiqīna
+15	5:108:23	e	١٠٨	ﳙ			

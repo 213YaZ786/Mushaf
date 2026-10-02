@@ -1,0 +1,145 @@
+1	2:231:1	w	وَإِذَا	ﱁ	واذا	And when	wa-idhā
+1	2:231:2	w	طَلَّقۡتُمُ	ﱂ	طلقتم	you divorce	ṭallaqtumu
+1	2:231:3	w	ٱلنِّسَآءَ	ﱃ	النساء	the women	l-nisāa
+1	2:231:4	w	فَبَلَغۡنَ	ﱄ	فبلغن	and they reach	fabalaghna
+1	2:231:5	w	أَجَلَهُنَّ	ﱅ	اجلهن	their (waiting) term	ajalahunna
+1	2:231:6	w	فَأَمۡسِكُوهُنَّ	ﱆ	فامسكوهن	then retain them	fa-amsikūhunna
+1	2:231:7	w	بِمَعۡرُوفٍ	ﱇ	بمعروف	in a fair manner	bimaʿrūfin
+2	2:231:8	w	أَوۡ	ﱈ	او	or	aw
+2	2:231:9	w	سَرِّحُوهُنَّ	ﱉ	سرحوهن	release them	sarriḥūhunna
+2	2:231:10	w	بِمَعۡرُوفٖۚ	ﱊﱋ	بمعروف	in a fair manner	bimaʿrūfin
+2	2:231:11	w	وَلَا	ﱌ	ولا	And (do) not	walā
+2	2:231:12	w	تُمۡسِكُوهُنَّ	ﱍ	تمسكوهن	retain them	tum'sikūhunna
+2	2:231:13	w	ضِرَارٗا	ﱎ	ضرارا	(to) hurt	ḍirāran
+2	2:231:14	w	لِّتَعۡتَدُواْۚ	ﱏﱐ	لتعتدوا	so that you transgress	litaʿtadū
+2	2:231:15	w	وَمَن	ﱑ	ومن	And whoever	waman
+3	2:231:16	w	يَفۡعَلۡ	ﱒ	يفعل	does	yafʿal
+3	2:231:17	w	ذَٰلِكَ	ﱓ	ذالك	that	dhālika
+3	2:231:18	w	فَقَدۡ	ﱔ	فقد	then indeed	faqad
+3	2:231:19	w	ظَلَمَ	ﱕ	ظلم	he wronged	ẓalama
+3	2:231:20	w	نَفۡسَهُۥۚ	ﱖﱗ	نفسه	himself	nafsahu
+3	2:231:21	w	وَلَا	ﱘ	ولا	And (do) not	walā
+3	2:231:22	w	تَتَّخِذُوٓاْ	ﱙ	تتخذوا	take	tattakhidhū
+3	2:231:23	w	ءَايَٰتِ	ﱚ	ايات	(the) Verses	āyāti
+3	2:231:24	w	ٱللَّهِ	ﱛ	الله	(of) Allah	l-lahi
+3	2:231:25	w	هُزُوٗاۚ	ﱜﱝ	هزوا	(in) jest	huzuwan
+4	2:231:26	w	وَٱذۡكُرُواْ	ﱞ	واذكروا	and remember	wa-udh'kurū
+4	2:231:27	w	نِعۡمَتَ	ﱟ	نعمت	(the) Favors	niʿ'mata
+4	2:231:28	w	ٱللَّهِ	ﱠ	الله	(of) Allah	l-lahi
+4	2:231:29	w	عَلَيۡكُمۡ	ﱡ	عليكم	upon you	ʿalaykum
+4	2:231:30	w	وَمَآ	ﱢ	وما	and what	wamā
+4	2:231:31	w	أَنزَلَ	ﱣ	انزل	(is) revealed	anzala
+4	2:231:32	w	عَلَيۡكُم	ﱤ	عليكم	to you	ʿalaykum
+4	2:231:33	w	مِّنَ	ﱥ	من	of	mina
+4	2:231:34	w	ٱلۡكِتَٰبِ	ﱦ	الكتاب	the Book	l-kitābi
+4	2:231:35	w	وَٱلۡحِكۡمَةِ	ﱧ	والحكمة	and [the] wisdom	wal-ḥik'mati
+5	2:231:36	w	يَعِظُكُم	ﱨ	يعظكم	He instructs you	yaʿiẓukum
+5	2:231:37	w	بِهِۦۚ	ﱩﱪ	به	with it	bihi
+5	2:231:38	w	وَٱتَّقُواْ	ﱫ	واتقوا	And fear	wa-ittaqū
+5	2:231:39	w	ٱللَّهَ	ﱬ	الله	Allah	l-laha
+5	2:231:40	w	وَٱعۡلَمُوٓاْ	ﱭ	واعلموا	and know	wa-iʿ'lamū
+5	2:231:41	w	أَنَّ	ﱮ	ان	that	anna
+5	2:231:42	w	ٱللَّهَ	ﱯ	الله	Allah (is)	l-laha
+5	2:231:43	w	بِكُلِّ	ﱰ	بكل	of every	bikulli
+5	2:231:44	w	شَيۡءٍ	ﱱ	شيء	thing	shayin
+5	2:231:45	w	عَلِيمٞ	ﱲ	عليم	All-Knower	ʿalīmun
+5	2:231:46	e	٢٣١	ﱳ			
+5	2:232:1	w	وَإِذَا	ﱴ	واذا	And when	wa-idhā
+6	2:232:2	w	طَلَّقۡتُمُ	ﱵ	طلقتم	you divorce	ṭallaqtumu
+6	2:232:3	w	ٱلنِّسَآءَ	ﱶ	النساء	[the] women	l-nisāa
+6	2:232:4	w	فَبَلَغۡنَ	ﱷ	فبلغن	and they reached	fabalaghna
+6	2:232:5	w	أَجَلَهُنَّ	ﱸ	اجلهن	their (waiting) term	ajalahunna
+6	2:232:6	w	فَلَا	ﱹ	فلا	then (do) not	falā
+6	2:232:7	w	تَعۡضُلُوهُنَّ	ﱺ	تعضلوهن	hinder them	taʿḍulūhunna
+6	2:232:8	w	أَن	ﱻ	ان	[that]	an
+6	2:232:9	w	يَنكِحۡنَ	ﱼ	ينكحن	(from) marrying	yankiḥ'na
+7	2:232:10	w	أَزۡوَٰجَهُنَّ	ﱽ	ازواجهن	their husbands	azwājahunna
+7	2:232:11	w	إِذَا	ﱾ	اذا	when	idhā
+7	2:232:12	w	تَرَٰضَوۡاْ	ﱿ	تراضوا	they agree	tarāḍaw
+7	2:232:13	w	بَيۡنَهُم	ﲀ	بينهم	between themselves	baynahum
+7	2:232:14	w	بِٱلۡمَعۡرُوفِۗ	ﲁﲂ	بالمعروف	in a fair manner	bil-maʿrūfi
+7	2:232:15	w	ذَٰلِكَ	ﲃ	ذالك	That	dhālika
+7	2:232:16	w	يُوعَظُ	ﲄ	يوعظ	is admonished	yūʿaẓu
+7	2:232:17	w	بِهِۦ	ﲅ	به	with it	bihi
+7	2:232:18	w	مَن	ﲆ	من	whoever	man
+7	2:232:19	w	كَانَ	ﲇ	كان	[is]	kāna
+8	2:232:20	w	مِنكُمۡ	ﲈ	منكم	among you	minkum
+8	2:232:21	w	يُؤۡمِنُ	ﲉ	يومن	believes	yu'minu
+8	2:232:22	w	بِٱللَّهِ	ﲊ	بالله	in Allah	bil-lahi
+8	2:232:23	w	وَٱلۡيَوۡمِ	ﲋ	واليوم	and the Day	wal-yawmi
+8	2:232:24	w	ٱلۡأٓخِرِۗ	ﲌﲍ	الاخر	[the] Last	l-ākhiri
+8	2:232:25	w	ذَٰلِكُمۡ	ﲎ	ذالكم	that	dhālikum
+8	2:232:26	w	أَزۡكَىٰ	ﲏ	ازكى	(is) more virtuous	azkā
+8	2:232:27	w	لَكُمۡ	ﲐ	لكم	for you	lakum
+8	2:232:28	w	وَأَطۡهَرُۚ	ﲑﲒ	واطهر	and more purer	wa-aṭharu
+8	2:232:29	w	وَٱللَّهُ	ﲓ	والله	And Allah	wal-lahu
+9	2:232:30	w	يَعۡلَمُ	ﲔ	يعلم	knows	yaʿlamu
+9	2:232:31	w	وَأَنتُمۡ	ﲕ	وانتم	and you	wa-antum
+9	2:232:32	w	لَا	ﲖ	لا	(do) not	lā
+9	2:232:33	w	تَعۡلَمُونَ	ﲗ	تعلمون	know	taʿlamūna
+9	2:232:34	e	٢٣٢	ﲘ			
+9	2:233:1	w	۞ وَٱلۡوَٰلِدَٰتُ	ﲙ ﲚ	۞ والوالدات	And the mothers	wal-wālidātu
+9	2:233:2	w	يُرۡضِعۡنَ	ﲛ	يرضعن	shall suckle	yur'ḍiʿ'na
+9	2:233:3	w	أَوۡلَٰدَهُنَّ	ﲜ	اولادهن	their children	awlādahunna
+9	2:233:4	w	حَوۡلَيۡنِ	ﲝ	حولين	(for) two years	ḥawlayni
+10	2:233:5	w	كَامِلَيۡنِۖ	ﲞﲟ	كاملين	complete	kāmilayni
+10	2:233:6	w	لِمَنۡ	ﲠ	لمن	for whoever	liman
+10	2:233:7	w	أَرَادَ	ﲡ	اراد	wishes	arāda
+10	2:233:8	w	أَن	ﲢ	ان	to	an
+10	2:233:9	w	يُتِمَّ	ﲣ	يتم	complete	yutimma
+10	2:233:10	w	ٱلرَّضَاعَةَۚ	ﲤﲥ	الرضاعة	the suckling	l-raḍāʿata
+10	2:233:11	w	وَعَلَى	ﲦ	وعلى	And upon	waʿalā
+10	2:233:12	w	ٱلۡمَوۡلُودِ	ﲧ	المولود	the father	l-mawlūdi
+10	2:233:13	w	لَهُۥ	ﲨ	له	(on) him	lahu
+10	2:233:14	w	رِزۡقُهُنَّ	ﲩ	رزقهن	(is) their provision	riz'quhunna
+11	2:233:15	w	وَكِسۡوَتُهُنَّ	ﲪ	وكسوتهن	and their clothing	wakis'watuhunna
+11	2:233:16	w	بِٱلۡمَعۡرُوفِۚ	ﲫﲬ	بالمعروف	in a fair manner	bil-maʿrūfi
+11	2:233:17	w	لَا	ﲭ	لا	Not	lā
+11	2:233:18	w	تُكَلَّفُ	ﲮ	تكلف	is burdened	tukallafu
+11	2:233:19	w	نَفۡسٌ	ﲯ	نفس	any soul	nafsun
+11	2:233:20	w	إِلَّا	ﲰ	الا	except	illā
+11	2:233:21	w	وُسۡعَهَاۚ	ﲱﲲ	وسعها	its capacity	wus'ʿahā
+11	2:233:22	w	لَا	ﲳ	لا	Not	lā
+11	2:233:23	w	تُضَآرَّ	ﲴ	تضار	made to suffer	tuḍārra
+12	2:233:24	w	وَٰلِدَةُۢ	ﲵ	والدة	(the) mother	wālidatun
+12	2:233:25	w	بِوَلَدِهَا	ﲶ	بولدها	because of her child	biwaladihā
+12	2:233:26	w	وَلَا	ﲷ	ولا	and not	walā
+12	2:233:27	w	مَوۡلُودٞ	ﲸ	مولود	(the) father	mawlūdun
+12	2:233:28	w	لَّهُۥ	ﲹ	له	(be)	lahu
+12	2:233:29	w	بِوَلَدِهِۦۚ	ﲺﲻ	بولده	because of his child	biwaladihi
+12	2:233:30	w	وَعَلَى	ﲼ	وعلى	And on	waʿalā
+12	2:233:31	w	ٱلۡوَارِثِ	ﲽ	الوارث	the (father's) heir	l-wārithi
+12	2:233:32	w	مِثۡلُ	ﲾ	مثل	(is a duty) like	mith'lu
+12	2:233:33	w	ذَٰلِكَۗ	ﲿﳀ	ذالك	that (of the father)	dhālika
+12	2:233:34	w	فَإِنۡ	ﳁ	فان	Then if	fa-in
+13	2:233:35	w	أَرَادَا	ﳂ	ارادا	they both desire	arādā
+13	2:233:36	w	فِصَالًا	ﳃ	فصالا	weaning	fiṣālan
+13	2:233:37	w	عَن	ﳄ	عن	through	ʿan
+13	2:233:38	w	تَرَاضٖ	ﳅ	تراض	mutual consent	tarāḍin
+13	2:233:39	w	مِّنۡهُمَا	ﳆ	منهما	of both of them	min'humā
+13	2:233:40	w	وَتَشَاوُرٖ	ﳇ	وتشاور	and consultation	watashāwurin
+13	2:233:41	w	فَلَا	ﳈ	فلا	then no	falā
+13	2:233:42	w	جُنَاحَ	ﳉ	جناح	blame	junāḥa
+13	2:233:43	w	عَلَيۡهِمَاۗ	ﳊﳋ	عليهما	on both of them	ʿalayhimā
+13	2:233:44	w	وَإِنۡ	ﳌ	وان	And if	wa-in
+14	2:233:45	w	أَرَدتُّمۡ	ﳍ	اردتم	you want	aradttum
+14	2:233:46	w	أَن	ﳎ	ان	to	an
+14	2:233:47	w	تَسۡتَرۡضِعُوٓاْ	ﳏ	تسترضعوا	ask another women to suckle	tastarḍiʿū
+14	2:233:48	w	أَوۡلَٰدَكُمۡ	ﳐ	اولادكم	your child	awlādakum
+14	2:233:49	w	فَلَا	ﳑ	فلا	then (there is) no	falā
+14	2:233:50	w	جُنَاحَ	ﳒ	جناح	blame	junāḥa
+14	2:233:51	w	عَلَيۡكُمۡ	ﳓ	عليكم	on you	ʿalaykum
+14	2:233:52	w	إِذَا	ﳔ	اذا	when	idhā
+14	2:233:53	w	سَلَّمۡتُم	ﳕ	سلمتم	you pay	sallamtum
+14	2:233:54	w	مَّآ	ﳖ	ما	what	mā
+15	2:233:55	w	ءَاتَيۡتُم	ﳗ	اتيتم	you give	ātaytum
+15	2:233:56	w	بِٱلۡمَعۡرُوفِۗ	ﳘﳙ	بالمعروف	in a fair manner	bil-maʿrūfi
+15	2:233:57	w	وَٱتَّقُواْ	ﳚ	واتقوا	And fear	wa-ittaqū
+15	2:233:58	w	ٱللَّهَ	ﳛ	الله	Allah	l-laha
+15	2:233:59	w	وَٱعۡلَمُوٓاْ	ﳜ	واعلموا	and know	wa-iʿ'lamū
+15	2:233:60	w	أَنَّ	ﳝ	ان	that	anna
+15	2:233:61	w	ٱللَّهَ	ﳞ	الله	Allah	l-laha
+15	2:233:62	w	بِمَا	ﳟ	بما	of what	bimā
+15	2:233:63	w	تَعۡمَلُونَ	ﳠ	تعملون	you do	taʿmalūna
+15	2:233:64	w	بَصِيرٞ	ﳡ	بصير	(is) All-Seer	baṣīrun
+15	2:233:65	e	٢٣٣	ﳢ			

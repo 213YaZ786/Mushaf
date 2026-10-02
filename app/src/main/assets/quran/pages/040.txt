@@ -1,0 +1,130 @@
+1	2:246:1	w	أَلَمۡ	ﱁ	الم	Did not	alam
+1	2:246:2	w	تَرَ	ﱂ	تر	you see	tara
+1	2:246:3	w	إِلَى	ﱃ	الى	[towards]	ilā
+1	2:246:4	w	ٱلۡمَلَإِ	ﱄ	الملا	the chiefs	l-mala-i
+1	2:246:5	w	مِنۢ	ﱅ	من	of	min
+1	2:246:6	w	بَنِيٓ	ﱆ	بني	(the) Children	banī
+1	2:246:7	w	إِسۡرَٰٓءِيلَ	ﱇ	اسراييل	(of) Israel	is'rāīla
+1	2:246:8	w	مِنۢ	ﱈ	من	from	min
+1	2:246:9	w	بَعۡدِ	ﱉ	بعد	after	baʿdi
+1	2:246:10	w	مُوسَىٰٓ	ﱊ	موسى	Musa	mūsā
+1	2:246:11	w	إِذۡ	ﱋ	اذ	when	idh
+2	2:246:12	w	قَالُواْ	ﱌ	قالوا	they said	qālū
+2	2:246:13	w	لِنَبِيّٖ	ﱍ	لنبي	to a Prophet	linabiyyin
+2	2:246:14	w	لَّهُمُ	ﱎ	لهم	of theirs	lahumu
+2	2:246:15	w	ٱبۡعَثۡ	ﱏ	ابعث	Appoint	ib'ʿath
+2	2:246:16	w	لَنَا	ﱐ	لنا	for us	lanā
+2	2:246:17	w	مَلِكٗا	ﱑ	ملكا	a king	malikan
+2	2:246:18	w	نُّقَٰتِلۡ	ﱒ	نقاتل	we may fight	nuqātil
+2	2:246:19	w	فِي	ﱓ	في	in	fī
+2	2:246:20	w	سَبِيلِ	ﱔ	سبيل	(the) way	sabīli
+2	2:246:21	w	ٱللَّهِۖ	ﱕﱖ	الله	(of) Allah	l-lahi
+3	2:246:22	w	قَالَ	ﱗ	قال	He said	qāla
+3	2:246:23	w	هَلۡ	ﱘ	هل	Would	hal
+3	2:246:24	w	عَسَيۡتُمۡ	ﱙ	عسيتم	you perhaps	ʿasaytum
+3	2:246:25	w	إِن	ﱚ	ان	if	in
+3	2:246:26	w	كُتِبَ	ﱛ	كتب	prescribed	kutiba
+3	2:246:27	w	عَلَيۡكُمُ	ﱜ	عليكم	upon you	ʿalaykumu
+3	2:246:28	w	ٱلۡقِتَالُ	ﱝ	القتال	[the] fighting	l-qitālu
+3	2:246:29	w	أَلَّا	ﱞ	الا	that not	allā
+3	2:246:30	w	تُقَٰتِلُواْۖ	ﱟﱠ	تقاتلوا	you fight	tuqātilū
+4	2:246:31	w	قَالُواْ	ﱡ	قالوا	They said	qālū
+4	2:246:32	w	وَمَا	ﱢ	وما	And what	wamā
+4	2:246:33	w	لَنَآ	ﱣ	لنا	for us	lanā
+4	2:246:34	w	أَلَّا	ﱤ	الا	that not	allā
+4	2:246:35	w	نُقَٰتِلَ	ﱥ	نقاتل	we fight	nuqātila
+4	2:246:36	w	فِي	ﱦ	في	in	fī
+4	2:246:37	w	سَبِيلِ	ﱧ	سبيل	(the) way	sabīli
+4	2:246:38	w	ٱللَّهِ	ﱨ	الله	(of) Allah	l-lahi
+4	2:246:39	w	وَقَدۡ	ﱩ	وقد	while surely	waqad
+4	2:246:40	w	أُخۡرِجۡنَا	ﱪ	اخرجنا	we have been driven	ukh'rij'nā
+5	2:246:41	w	مِن	ﱫ	من	from	min
+5	2:246:42	w	دِيَٰرِنَا	ﱬ	ديارنا	our homes	diyārinā
+5	2:246:43	w	وَأَبۡنَآئِنَاۖ	ﱭﱮ	وابناينا	and our children	wa-abnāinā
+5	2:246:44	w	فَلَمَّا	ﱯ	فلما	Yet, when	falammā
+5	2:246:45	w	كُتِبَ	ﱰ	كتب	was prescribed	kutiba
+5	2:246:46	w	عَلَيۡهِمُ	ﱱ	عليهم	upon them	ʿalayhimu
+5	2:246:47	w	ٱلۡقِتَالُ	ﱲ	القتال	the fighting	l-qitālu
+5	2:246:48	w	تَوَلَّوۡاْ	ﱳ	تولوا	they turned away	tawallaw
+6	2:246:49	w	إِلَّا	ﱴ	الا	except	illā
+6	2:246:50	w	قَلِيلٗا	ﱵ	قليلا	a few	qalīlan
+6	2:246:51	w	مِّنۡهُمۡۚ	ﱶﱷ	منهم	among them	min'hum
+6	2:246:52	w	وَٱللَّهُ	ﱸ	والله	And Allah	wal-lahu
+6	2:246:53	w	عَلِيمُۢ	ﱹ	عليم	(is) All-Knowing	ʿalīmun
+6	2:246:54	w	بِٱلظَّٰلِمِينَ	ﱺ	بالظالمين	of the wrongdoers	bil-ẓālimīna
+6	2:246:55	e	٢٤٦	ﱻ			
+6	2:247:1	w	وَقَالَ	ﱼ	وقال	And said	waqāla
+6	2:247:2	w	لَهُمۡ	ﱽ	لهم	to them	lahum
+7	2:247:3	w	نَبِيُّهُمۡ	ﱾ	نبيهم	their Prophet	nabiyyuhum
+7	2:247:4	w	إِنَّ	ﱿ	ان	Indeed	inna
+7	2:247:5	w	ٱللَّهَ	ﲀ	الله	Allah	l-laha
+7	2:247:6	w	قَدۡ	ﲁ	قد	(has) surely	qad
+7	2:247:7	w	بَعَثَ	ﲂ	بعث	raised	baʿatha
+7	2:247:8	w	لَكُمۡ	ﲃ	لكم	for you	lakum
+7	2:247:9	w	طَالُوتَ	ﲄ	طالوت	Talut	ṭālūta
+7	2:247:10	w	مَلِكٗاۚ	ﲅﲆ	ملكا	(as) a king	malikan
+8	2:247:11	w	قَالُوٓاْ	ﲇ	قالوا	They said	qālū
+8	2:247:12	w	أَنَّىٰ	ﲈ	انى	How	annā
+8	2:247:13	w	يَكُونُ	ﲉ	يكون	can be	yakūnu
+8	2:247:14	w	لَهُ	ﲊ	له	for him	lahu
+8	2:247:15	w	ٱلۡمُلۡكُ	ﲋ	الملك	the kingship	l-mul'ku
+8	2:247:16	w	عَلَيۡنَا	ﲌ	علينا	over us	ʿalaynā
+8	2:247:17	w	وَنَحۡنُ	ﲍ	ونحن	while we	wanaḥnu
+8	2:247:18	w	أَحَقُّ	ﲎ	احق	(are) more entitled	aḥaqqu
+9	2:247:19	w	بِٱلۡمُلۡكِ	ﲏ	بالملك	to kingship	bil-mul'ki
+9	2:247:20	w	مِنۡهُ	ﲐ	منه	than him	min'hu
+9	2:247:21	w	وَلَمۡ	ﲑ	ولم	and not	walam
+9	2:247:22	w	يُؤۡتَ	ﲒ	يوت	he has been given	yu'ta
+9	2:247:23	w	سَعَةٗ	ﲓ	سعة	abundance	saʿatan
+9	2:247:24	w	مِّنَ	ﲔ	من	of	mina
+9	2:247:25	w	ٱلۡمَالِۚ	ﲕﲖ	المال	[the] wealth	l-māli
+9	2:247:26	w	قَالَ	ﲗ	قال	He said	qāla
+9	2:247:27	w	إِنَّ	ﲘ	ان	Indeed	inna
+9	2:247:28	w	ٱللَّهَ	ﲙ	الله	Allah	l-laha
+10	2:247:29	w	ٱصۡطَفَىٰهُ	ﲚ	اصطفاه	has chosen him	iṣ'ṭafāhu
+10	2:247:30	w	عَلَيۡكُمۡ	ﲛ	عليكم	over you	ʿalaykum
+10	2:247:31	w	وَزَادَهُۥ	ﲜ	وزاده	and increased him	wazādahu
+10	2:247:32	w	بَسۡطَةٗ	ﲝ	بسطة	abundantly	basṭatan
+10	2:247:33	w	فِي	ﲞ	في	in	fī
+10	2:247:34	w	ٱلۡعِلۡمِ	ﲟ	العلم	[the] knowledge	l-ʿil'mi
+10	2:247:35	w	وَٱلۡجِسۡمِۖ	ﲠﲡ	والجسم	and [the] physique	wal-jis'mi
+11	2:247:36	w	وَٱللَّهُ	ﲢ	والله	And Allah	wal-lahu
+11	2:247:37	w	يُؤۡتِي	ﲣ	يوتي	gives	yu'tī
+11	2:247:38	w	مُلۡكَهُۥ	ﲤ	ملكه	His kingdom	mul'kahu
+11	2:247:39	w	مَن	ﲥ	من	(to) whom	man
+11	2:247:40	w	يَشَآءُۚ	ﲦﲧ	يشاء	He wills	yashāu
+11	2:247:41	w	وَٱللَّهُ	ﲨ	والله	And Allah	wal-lahu
+11	2:247:42	w	وَٰسِعٌ	ﲩ	واسع	(is) All-Encompassing	wāsiʿun
+11	2:247:43	w	عَلِيمٞ	ﲪ	عليم	All-Knowing	ʿalīmun
+11	2:247:44	e	٢٤٧	ﲫ			
+12	2:248:1	w	وَقَالَ	ﲬ	وقال	And said	waqāla
+12	2:248:2	w	لَهُمۡ	ﲭ	لهم	to them	lahum
+12	2:248:3	w	نَبِيُّهُمۡ	ﲮ	نبيهم	their Prophet	nabiyyuhum
+12	2:248:4	w	إِنَّ	ﲯ	ان	Indeed	inna
+12	2:248:5	w	ءَايَةَ	ﲰ	اية	a sign	āyata
+12	2:248:6	w	مُلۡكِهِۦٓ	ﲱ	ملكه	(of) his kingship	mul'kihi
+12	2:248:7	w	أَن	ﲲ	ان	(is) that	an
+12	2:248:8	w	يَأۡتِيَكُمُ	ﲳ	ياتيكم	will come to you	yatiyakumu
+13	2:248:9	w	ٱلتَّابُوتُ	ﲴ	التابوت	the ark	l-tābūtu
+13	2:248:10	w	فِيهِ	ﲵ	فيه	in it	fīhi
+13	2:248:11	w	سَكِينَةٞ	ﲶ	سكينة	(is) tranquility	sakīnatun
+13	2:248:12	w	مِّن	ﲷ	من	from	min
+13	2:248:13	w	رَّبِّكُمۡ	ﲸ	ربكم	your Lord	rabbikum
+13	2:248:14	w	وَبَقِيَّةٞ	ﲹ	وبقية	and a remnant	wabaqiyyatun
+13	2:248:15	w	مِّمَّا	ﲺ	مما	of what	mimmā
+14	2:248:16	w	تَرَكَ	ﲻ	ترك	(was) left	taraka
+14	2:248:17	w	ءَالُ	ﲼ	ال	(by the) family	ālu
+14	2:248:18	w	مُوسَىٰ	ﲽ	موسى	(of) Musa	mūsā
+14	2:248:19	w	وَءَالُ	ﲾ	وال	and family	waālu
+14	2:248:20	w	هَٰرُونَ	ﲿ	هارون	(of) Harun	hārūna
+14	2:248:21	w	تَحۡمِلُهُ	ﳀ	تحمله	will carry it	taḥmiluhu
+14	2:248:22	w	ٱلۡمَلَٰٓئِكَةُۚ	ﳁﳂ	الملايكة	the Angels	l-malāikatu
+15	2:248:23	w	إِنَّ	ﳃ	ان	Indeed	inna
+15	2:248:24	w	فِي	ﳄ	في	in	fī
+15	2:248:25	w	ذَٰلِكَ	ﳅ	ذالك	that	dhālika
+15	2:248:26	w	لَأٓيَةٗ	ﳆ	لاية	(is) surely a sign	laāyatan
+15	2:248:27	w	لَّكُمۡ	ﳇ	لكم	for you	lakum
+15	2:248:28	w	إِن	ﳈ	ان	if	in
+15	2:248:29	w	كُنتُم	ﳉ	كنتم	you are	kuntum
+15	2:248:30	w	مُّؤۡمِنِينَ	ﳊ	مومنين	believers	mu'minīna
+15	2:248:31	e	٢٤٨	ﳋ			

@@ -1,0 +1,133 @@
+1	11:82:1	w	فَلَمَّا	ﱁ	فلما	So when	falammā
+1	11:82:2	w	جَآءَ	ﱂ	جاء	came	jāa
+1	11:82:3	w	أَمۡرُنَا	ﱃ	امرنا	Our Command	amrunā
+1	11:82:4	w	جَعَلۡنَا	ﱄ	جعلنا	We made	jaʿalnā
+1	11:82:5	w	عَٰلِيَهَا	ﱅ	عاليها	its upside	ʿāliyahā
+1	11:82:6	w	سَافِلَهَا	ﱆ	سافلها	its downside	sāfilahā
+1	11:82:7	w	وَأَمۡطَرۡنَا	ﱇ	وامطرنا	and We rained	wa-amṭarnā
+1	11:82:8	w	عَلَيۡهَا	ﱈ	عليها	upon them	ʿalayhā
+2	11:82:9	w	حِجَارَةٗ	ﱉ	حجارة	stones	ḥijāratan
+2	11:82:10	w	مِّن	ﱊ	من	of	min
+2	11:82:11	w	سِجِّيلٖ	ﱋ	سجيل	baked clay	sijjīlin
+2	11:82:12	w	مَّنضُودٖ	ﱌ	منضود	(in) layers	manḍūdin
+2	11:82:13	e	٨٢	ﱍ			
+2	11:83:1	w	مُّسَوَّمَةً	ﱎ	مسومة	Marked	musawwamatan
+2	11:83:2	w	عِندَ	ﱏ	عند	from	ʿinda
+2	11:83:3	w	رَبِّكَۖ	ﱐﱑ	ربك	your Lord	rabbika
+3	11:83:4	w	وَمَا	ﱒ	وما	And not	wamā
+3	11:83:5	w	هِيَ	ﱓ	هي	it	hiya
+3	11:83:6	w	مِنَ	ﱔ	من	(is) from	mina
+3	11:83:7	w	ٱلظَّٰلِمِينَ	ﱕ	الظالمين	the wrongdoers	l-ẓālimīna
+3	11:83:8	w	بِبَعِيدٖ	ﱖ	ببعيد	far	bibaʿīdin
+3	11:83:9	e	٨٣	ﱗ			
+3	11:84:1	w	۞ وَإِلَىٰ	ﱘ ﱙ	۞ والى	And to	wa-ilā
+3	11:84:2	w	مَدۡيَنَ	ﱚ	مدين	Madyan	madyana
+3	11:84:3	w	أَخَاهُمۡ	ﱛ	اخاهم	their brother	akhāhum
+4	11:84:4	w	شُعَيۡبٗاۚ	ﱜﱝ	شعيبا	Shuaib	shuʿayban
+4	11:84:5	w	قَالَ	ﱞ	قال	He said	qāla
+4	11:84:6	w	يَٰقَوۡمِ	ﱟ	يا قوم	O my people	yāqawmi
+4	11:84:7	w	ٱعۡبُدُواْ	ﱠ	اعبدوا	Worship	uʿ'budū
+4	11:84:8	w	ٱللَّهَ	ﱡ	الله	Allah	l-laha
+4	11:84:9	w	مَا	ﱢ	ما	not	mā
+4	11:84:10	w	لَكُم	ﱣ	لكم	(is) for you	lakum
+4	11:84:11	w	مِّنۡ	ﱤ	من	any	min
+4	11:84:12	w	إِلَٰهٍ	ﱥ	الاه	god	ilāhin
+4	11:84:13	w	غَيۡرُهُۥۖ	ﱦﱧ	غيره	other than Him	ghayruhu
+5	11:84:14	w	وَلَا	ﱨ	ولا	And (do) not	walā
+5	11:84:15	w	تَنقُصُواْ	ﱩ	تنقصوا	decrease	tanquṣū
+5	11:84:16	w	ٱلۡمِكۡيَالَ	ﱪ	المكيال	(from) the measure	l-mik'yāla
+5	11:84:17	w	وَٱلۡمِيزَانَۖ	ﱫﱬ	والميزان	and the scale	wal-mīzāna
+5	11:84:18	w	إِنِّيٓ	ﱭ	اني	Indeed, I	innī
+5	11:84:19	w	أَرَىٰكُم	ﱮ	اراكم	see you	arākum
+5	11:84:20	w	بِخَيۡرٖ	ﱯ	بخير	in prosperity	bikhayrin
+6	11:84:21	w	وَإِنِّيٓ	ﱰ	واني	but indeed, I	wa-innī
+6	11:84:22	w	أَخَافُ	ﱱ	اخاف	fear	akhāfu
+6	11:84:23	w	عَلَيۡكُمۡ	ﱲ	عليكم	for you	ʿalaykum
+6	11:84:24	w	عَذَابَ	ﱳ	عذاب	punishment	ʿadhāba
+6	11:84:25	w	يَوۡمٖ	ﱴ	يوم	(of) a Day	yawmin
+6	11:84:26	w	مُّحِيطٖ	ﱵ	محيط	all-encompassing	muḥīṭin
+6	11:84:27	e	٨٤	ﱶ			
+6	11:85:1	w	وَيَٰقَوۡمِ	ﱷ	ويا قوم	And O my people	wayāqawmi
+7	11:85:2	w	أَوۡفُواْ	ﱸ	اوفوا	Give full	awfū
+7	11:85:3	w	ٱلۡمِكۡيَالَ	ﱹ	المكيال	measure	l-mik'yāla
+7	11:85:4	w	وَٱلۡمِيزَانَ	ﱺ	والميزان	and weight	wal-mīzāna
+7	11:85:5	w	بِٱلۡقِسۡطِۖ	ﱻﱼ	بالقسط	in justice	bil-qis'ṭi
+7	11:85:6	w	وَلَا	ﱽ	ولا	and (do) not	walā
+7	11:85:7	w	تَبۡخَسُواْ	ﱾ	تبخسوا	deprive	tabkhasū
+7	11:85:8	w	ٱلنَّاسَ	ﱿ	الناس	the people	l-nāsa
+8	11:85:9	w	أَشۡيَآءَهُمۡ	ﲀ	اشياءهم	(of) their things	ashyāahum
+8	11:85:10	w	وَلَا	ﲁ	ولا	and (do) not	walā
+8	11:85:11	w	تَعۡثَوۡاْ	ﲂ	تعثوا	act wickedly	taʿthaw
+8	11:85:12	w	فِي	ﲃ	في	in	fī
+8	11:85:13	w	ٱلۡأَرۡضِ	ﲄ	الارض	the earth	l-arḍi
+8	11:85:14	w	مُفۡسِدِينَ	ﲅ	مفسدين	spreading corruption	muf'sidīna
+8	11:85:15	e	٨٥	ﲆ			
+8	11:86:1	w	بَقِيَّتُ	ﲇ	بقيت	(What) remains	baqiyyatu
+9	11:86:2	w	ٱللَّهِ	ﲈ	الله	(from) Allah	l-lahi
+9	11:86:3	w	خَيۡرٞ	ﲉ	خير	(is) best	khayrun
+9	11:86:4	w	لَّكُمۡ	ﲊ	لكم	for you	lakum
+9	11:86:5	w	إِن	ﲋ	ان	if	in
+9	11:86:6	w	كُنتُم	ﲌ	كنتم	you are	kuntum
+9	11:86:7	w	مُّؤۡمِنِينَۚ	ﲍﲎ	مومنين	believers	mu'minīna
+9	11:86:8	w	وَمَآ	ﲏ	وما	And not	wamā
+9	11:86:9	w	أَنَا۠	ﲐ	انا	I am	anā
+9	11:86:10	w	عَلَيۡكُم	ﲑ	عليكم	over you	ʿalaykum
+10	11:86:11	w	بِحَفِيظٖ	ﲒ	بحفيظ	a guardian	biḥafīẓin
+10	11:86:12	e	٨٦	ﲓ			
+10	11:87:1	w	قَالُواْ	ﲔ	قالوا	They said	qālū
+10	11:87:2	w	يَٰشُعَيۡبُ	ﲕ	يا شعيب	O Shuaib	yāshuʿaybu
+10	11:87:3	w	أَصَلَوٰتُكَ	ﲖ	اصلاتك	Does your prayer	aṣalatuka
+10	11:87:4	w	تَأۡمُرُكَ	ﲗ	تامرك	command you	tamuruka
+10	11:87:5	w	أَن	ﲘ	ان	that	an
+10	11:87:6	w	نَّتۡرُكَ	ﲙ	نترك	we leave	natruka
+11	11:87:7	w	مَا	ﲚ	ما	what	mā
+11	11:87:8	w	يَعۡبُدُ	ﲛ	يعبد	worship	yaʿbudu
+11	11:87:9	w	ءَابَآؤُنَآ	ﲜ	اباونا	our forefathers	ābāunā
+11	11:87:10	w	أَوۡ	ﲝ	او	or	aw
+11	11:87:11	w	أَن	ﲞ	ان	that	an
+11	11:87:12	w	نَّفۡعَلَ	ﲟ	نفعل	we do	nafʿala
+11	11:87:13	w	فِيٓ	ﲠ	في	concerning	fī
+11	11:87:14	w	أَمۡوَٰلِنَا	ﲡ	اموالنا	our wealth	amwālinā
+11	11:87:15	w	مَا	ﲢ	ما	what	mā
+11	11:87:16	w	نَشَٰٓؤُاْۖ	ﲣﲤ	نشاء	we will	nashāu
+11	11:87:17	w	إِنَّكَ	ﲥ	انك	Indeed you	innaka
+12	11:87:18	w	لَأَنتَ	ﲦ	لانت	surely you	la-anta
+12	11:87:19	w	ٱلۡحَلِيمُ	ﲧ	الحليم	(are) the forbearing	l-ḥalīmu
+12	11:87:20	w	ٱلرَّشِيدُ	ﲨ	الرشيد	the right-minded	l-rashīdu
+12	11:87:21	e	٨٧	ﲩ			
+12	11:88:1	w	قَالَ	ﲪ	قال	He said	qāla
+12	11:88:2	w	يَٰقَوۡمِ	ﲫ	يا قوم	O my people	yāqawmi
+12	11:88:3	w	أَرَءَيۡتُمۡ	ﲬ	ارايتم	Do you see	ara-aytum
+12	11:88:4	w	إِن	ﲭ	ان	if	in
+12	11:88:5	w	كُنتُ	ﲮ	كنت	I am	kuntu
+13	11:88:6	w	عَلَىٰ	ﲯ	على	on	ʿalā
+13	11:88:7	w	بَيِّنَةٖ	ﲰ	بينة	a clear evidence	bayyinatin
+13	11:88:8	w	مِّن	ﲱ	من	from	min
+13	11:88:9	w	رَّبِّي	ﲲ	ربي	my Lord	rabbī
+13	11:88:10	w	وَرَزَقَنِي	ﲳ	ورزقني	and He has provided me	warazaqanī
+13	11:88:11	w	مِنۡهُ	ﲴ	منه	from Himself	min'hu
+13	11:88:12	w	رِزۡقًا	ﲵ	رزقا	a good provision	riz'qan
+13	11:88:13	w	حَسَنٗاۚ	ﲶﲷ	حسنا	a good provision	ḥasanan
+13	11:88:14	w	وَمَآ	ﲸ	وما	And not	wamā
+13	11:88:15	w	أُرِيدُ	ﲹ	اريد	I intend	urīdu
+13	11:88:16	w	أَنۡ	ﲺ	ان	that	an
+14	11:88:17	w	أُخَالِفَكُمۡ	ﲻ	اخالفكم	I differ from you	ukhālifakum
+14	11:88:18	w	إِلَىٰ	ﲼ	الى	in	ilā
+14	11:88:19	w	مَآ	ﲽ	ما	what	mā
+14	11:88:20	w	أَنۡهَىٰكُمۡ	ﲾ	انهاكم	I forbid you	anhākum
+14	11:88:21	w	عَنۡهُۚ	ﲿﳀ	عنه	from it	ʿanhu
+14	11:88:22	w	إِنۡ	ﳁ	ان	Not	in
+14	11:88:23	w	أُرِيدُ	ﳂ	اريد	I intend	urīdu
+14	11:88:24	w	إِلَّا	ﳃ	الا	except	illā
+14	11:88:25	w	ٱلۡإِصۡلَٰحَ	ﳄ	الاصلاح	the reform	l-iṣ'lāḥa
+15	11:88:26	w	مَا	ﳅ	ما	as much as I am able	mā
+15	11:88:27	w	ٱسۡتَطَعۡتُۚ	ﳆﳇ	استطعت	as much as I am able	is'taṭaʿtu
+15	11:88:28	w	وَمَا	ﳈ	وما	And not	wamā
+15	11:88:29	w	تَوۡفِيقِيٓ	ﳉ	توفيقي	(is) my success	tawfīqī
+15	11:88:30	w	إِلَّا	ﳊ	الا	except	illā
+15	11:88:31	w	بِٱللَّهِۚ	ﳋﳌ	بالله	with Allah	bil-lahi
+15	11:88:32	w	عَلَيۡهِ	ﳍ	عليه	Upon Him	ʿalayhi
+15	11:88:33	w	تَوَكَّلۡتُ	ﳎ	توكلت	I trust	tawakkaltu
+15	11:88:34	w	وَإِلَيۡهِ	ﳏ	واليه	and to Him	wa-ilayhi
+15	11:88:35	w	أُنِيبُ	ﳐ	انيب	I turn	unību
+15	11:88:36	e	٨٨	ﳑ			

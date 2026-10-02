@@ -1,0 +1,141 @@
+1	34:49:1	w	قُلۡ	ﱁ	قل	Say	qul
+1	34:49:2	w	جَآءَ	ﱂ	جاء	Has come	jāa
+1	34:49:3	w	ٱلۡحَقُّ	ﱃ	الحق	the truth	l-ḥaqu
+1	34:49:4	w	وَمَا	ﱄ	وما	and not	wamā
+1	34:49:5	w	يُبۡدِئُ	ﱅ	يبدي	(can) originate	yub'di-u
+1	34:49:6	w	ٱلۡبَٰطِلُ	ﱆ	الباطل	the falsehood	l-bāṭilu
+1	34:49:7	w	وَمَا	ﱇ	وما	and not	wamā
+1	34:49:8	w	يُعِيدُ	ﱈ	يعيد	repeat	yuʿīdu
+1	34:49:9	e	٤٩	ﱉ			
+1	34:50:1	w	قُلۡ	ﱊ	قل	Say	qul
+1	34:50:2	w	إِن	ﱋ	ان	If	in
+1	34:50:3	w	ضَلَلۡتُ	ﱌ	ضللت	I err	ḍalaltu
+2	34:50:4	w	فَإِنَّمَآ	ﱍ	فانما	then only	fa-innamā
+2	34:50:5	w	أَضِلُّ	ﱎ	اضل	I will err	aḍillu
+2	34:50:6	w	عَلَىٰ	ﱏ	على	against	ʿalā
+2	34:50:7	w	نَفۡسِيۖ	ﱐﱑ	نفسي	myself	nafsī
+2	34:50:8	w	وَإِنِ	ﱒ	وان	But if	wa-ini
+2	34:50:9	w	ٱهۡتَدَيۡتُ	ﱓ	اهتديت	I am guided	ih'tadaytu
+2	34:50:10	w	فَبِمَا	ﱔ	فبما	then it is by what	fabimā
+2	34:50:11	w	يُوحِيٓ	ﱕ	يوحي	reveals	yūḥī
+2	34:50:12	w	إِلَيَّ	ﱖ	الي	to me	ilayya
+2	34:50:13	w	رَبِّيٓۚ	ﱗﱘ	ربي	my Lord	rabbī
+2	34:50:14	w	إِنَّهُۥ	ﱙ	انه	Indeed, He	innahu
+3	34:50:15	w	سَمِيعٞ	ﱚ	سميع	(is) All-Hearer	samīʿun
+3	34:50:16	w	قَرِيبٞ	ﱛ	قريب	Ever-Near	qarībun
+3	34:50:17	e	٥٠	ﱜ			
+3	34:51:1	w	وَلَوۡ	ﱝ	ولو	And if	walaw
+3	34:51:2	w	تَرَىٰٓ	ﱞ	ترى	you (could) see	tarā
+3	34:51:3	w	إِذۡ	ﱟ	اذ	when	idh
+3	34:51:4	w	فَزِعُواْ	ﱠ	فزعوا	they will be terrified	faziʿū
+3	34:51:5	w	فَلَا	ﱡ	فلا	but (there will be) no	falā
+3	34:51:6	w	فَوۡتَ	ﱢ	فوت	escape	fawta
+3	34:51:7	w	وَأُخِذُواْ	ﱣ	واخذوا	and they will be seized	wa-ukhidhū
+3	34:51:8	w	مِن	ﱤ	من	from	min
+4	34:51:9	w	مَّكَانٖ	ﱥ	مكان	a place	makānin
+4	34:51:10	w	قَرِيبٖ	ﱦ	قريب	near	qarībin
+4	34:51:11	e	٥١	ﱧ			
+4	34:52:1	w	وَقَالُوٓاْ	ﱨ	وقالوا	And they will say	waqālū
+4	34:52:2	w	ءَامَنَّا	ﱩ	امنا	We believe	āmannā
+4	34:52:3	w	بِهِۦ	ﱪ	به	in it	bihi
+4	34:52:4	w	وَأَنَّىٰ	ﱫ	وانى	But how	wa-annā
+4	34:52:5	w	لَهُمُ	ﱬ	لهم	for them	lahumu
+4	34:52:6	w	ٱلتَّنَاوُشُ	ﱭ	التناوش	(will be) the receiving	l-tanāwushu
+4	34:52:7	w	مِن	ﱮ	من	from	min
+5	34:52:8	w	مَّكَانِۭ	ﱯ	مكان	a place	makānin
+5	34:52:9	w	بَعِيدٖ	ﱰ	بعيد	far off	baʿīdin
+5	34:52:10	e	٥٢	ﱱ			
+5	34:53:1	w	وَقَدۡ	ﱲ	وقد	And certainly	waqad
+5	34:53:2	w	كَفَرُواْ	ﱳ	كفروا	they disbelieved	kafarū
+5	34:53:3	w	بِهِۦ	ﱴ	به	in it	bihi
+5	34:53:4	w	مِن	ﱵ	من	before	min
+5	34:53:5	w	قَبۡلُۖ	ﱶﱷ	قبل	before	qablu
+5	34:53:6	w	وَيَقۡذِفُونَ	ﱸ	ويقذفون	And they utter conjectures	wayaqdhifūna
+6	34:53:7	w	بِٱلۡغَيۡبِ	ﱹ	بالغيب	about the unseen	bil-ghaybi
+6	34:53:8	w	مِن	ﱺ	من	from	min
+6	34:53:9	w	مَّكَانِۭ	ﱻ	مكان	a place	makānin
+6	34:53:10	w	بَعِيدٖ	ﱼ	بعيد	far off	baʿīdin
+6	34:53:11	e	٥٣	ﱽ			
+6	34:54:1	w	وَحِيلَ	ﱾ	وحيل	And a barrier will be placed	waḥīla
+6	34:54:2	w	بَيۡنَهُمۡ	ﱿ	بينهم	between them	baynahum
+6	34:54:3	w	وَبَيۡنَ	ﲀ	وبين	and between	wabayna
+6	34:54:4	w	مَا	ﲁ	ما	what	mā
+6	34:54:5	w	يَشۡتَهُونَ	ﲂ	يشتهون	they desire	yashtahūna
+7	34:54:6	w	كَمَا	ﲃ	كما	as	kamā
+7	34:54:7	w	فُعِلَ	ﲄ	فعل	was done	fuʿila
+7	34:54:8	w	بِأَشۡيَاعِهِم	ﲅ	باشياعهم	with their kind	bi-ashyāʿihim
+7	34:54:9	w	مِّن	ﲆ	من	before	min
+7	34:54:10	w	قَبۡلُۚ	ﲇﲈ	قبل	before	qablu
+7	34:54:11	w	إِنَّهُمۡ	ﲉ	انهم	Indeed, they	innahum
+7	34:54:12	w	كَانُواْ	ﲊ	كانوا	were	kānū
+7	34:54:13	w	فِي	ﲋ	في	in	fī
+7	34:54:14	w	شَكّٖ	ﲌ	شك	doubt	shakkin
+7	34:54:15	w	مُّرِيبِۭ	ﲍ	مريب	disquieting	murībin
+7	34:54:16	e	٥٤	ﲎ			
+10	35:1:1	w	ٱلۡحَمۡدُ	ﲏ	الحمد	All praises	al-ḥamdu
+10	35:1:2	w	لِلَّهِ	ﲐ	لله	(be) to Allah	lillahi
+10	35:1:3	w	فَاطِرِ	ﲑ	فاطر	Originator	fāṭiri
+10	35:1:4	w	ٱلسَّمَٰوَٰتِ	ﲒ	السماوات	(of) the heavens	l-samāwāti
+10	35:1:5	w	وَٱلۡأَرۡضِ	ﲓ	والارض	and the earth	wal-arḍi
+10	35:1:6	w	جَاعِلِ	ﲔ	جاعل	(Who) makes	jāʿili
+10	35:1:7	w	ٱلۡمَلَٰٓئِكَةِ	ﲕ	الملايكة	the Angels	l-malāikati
+10	35:1:8	w	رُسُلًا	ﲖ	رسلا	messengers	rusulan
+10	35:1:9	w	أُوْلِيٓ	ﲗ	اولي	having wings	ulī
+11	35:1:10	w	أَجۡنِحَةٖ	ﲘ	اجنحة	having wings	ajniḥatin
+11	35:1:11	w	مَّثۡنَىٰ	ﲙ	مثنى	two	mathnā
+11	35:1:12	w	وَثُلَٰثَ	ﲚ	وثلاث	or three	wathulātha
+11	35:1:13	w	وَرُبَٰعَۚ	ﲛﲜ	ورباع	or four	warubāʿa
+11	35:1:14	w	يَزِيدُ	ﲝ	يزيد	He increases	yazīdu
+11	35:1:15	w	فِي	ﲞ	في	in	fī
+11	35:1:16	w	ٱلۡخَلۡقِ	ﲟ	الخلق	the creation	l-khalqi
+11	35:1:17	w	مَا	ﲠ	ما	what	mā
+11	35:1:18	w	يَشَآءُۚ	ﲡﲢ	يشاء	He wills	yashāu
+11	35:1:19	w	إِنَّ	ﲣ	ان	Indeed	inna
+11	35:1:20	w	ٱللَّهَ	ﲤ	الله	Allah	l-laha
+11	35:1:21	w	عَلَىٰ	ﲥ	على	(is) on	ʿalā
+12	35:1:22	w	كُلِّ	ﲦ	كل	every	kulli
+12	35:1:23	w	شَيۡءٖ	ﲧ	شيء	thing	shayin
+12	35:1:24	w	قَدِيرٞ	ﲨ	قدير	All-Powerful	qadīrun
+12	35:1:25	e	١	ﲩ			
+12	35:2:1	w	مَّا	ﲪ	ما	What	mā
+12	35:2:2	w	يَفۡتَحِ	ﲫ	يفتح	Allah grants	yaftaḥi
+12	35:2:3	w	ٱللَّهُ	ﲬ	الله	Allah grants	l-lahu
+12	35:2:4	w	لِلنَّاسِ	ﲭ	للناس	to mankind	lilnnāsi
+12	35:2:5	w	مِن	ﲮ	من	of	min
+12	35:2:6	w	رَّحۡمَةٖ	ﲯ	رحمة	Mercy	raḥmatin
+12	35:2:7	w	فَلَا	ﲰ	فلا	then none	falā
+12	35:2:8	w	مُمۡسِكَ	ﲱ	ممسك	(can) withhold	mum'sika
+12	35:2:9	w	لَهَاۖ	ﲲﲳ	لها	it	lahā
+13	35:2:10	w	وَمَا	ﲴ	وما	And what	wamā
+13	35:2:11	w	يُمۡسِكۡ	ﲵ	يمسك	He withholds	yum'sik
+13	35:2:12	w	فَلَا	ﲶ	فلا	then none	falā
+13	35:2:13	w	مُرۡسِلَ	ﲷ	مرسل	(can) release	mur'sila
+13	35:2:14	w	لَهُۥ	ﲸ	له	it	lahu
+13	35:2:15	w	مِنۢ	ﲹ	من	thereafter	min
+13	35:2:16	w	بَعۡدِهِۦۚ	ﲺﲻ	بعده	thereafter	baʿdihi
+13	35:2:17	w	وَهُوَ	ﲼ	وهو	And He	wahuwa
+13	35:2:18	w	ٱلۡعَزِيزُ	ﲽ	العزيز	(is) the All-Mighty	l-ʿazīzu
+13	35:2:19	w	ٱلۡحَكِيمُ	ﲾ	الحكيم	the All-Wise	l-ḥakīmu
+13	35:2:20	e	٢	ﲿ			
+14	35:3:1	w	يَٰٓأَيُّهَا	ﳀ	يا ايها	O	yāayyuhā
+14	35:3:2	w	ٱلنَّاسُ	ﳁ	الناس	mankind	l-nāsu
+14	35:3:3	w	ٱذۡكُرُواْ	ﳂ	اذكروا	Remember	udh'kurū
+14	35:3:4	w	نِعۡمَتَ	ﳃ	نعمت	(the) Favor	niʿ'mata
+14	35:3:5	w	ٱللَّهِ	ﳄ	الله	(of) Allah	l-lahi
+14	35:3:6	w	عَلَيۡكُمۡۚ	ﳅﳆ	عليكم	upon you	ʿalaykum
+14	35:3:7	w	هَلۡ	ﳇ	هل	Is	hal
+14	35:3:8	w	مِنۡ	ﳈ	من	(there) any	min
+14	35:3:9	w	خَٰلِقٍ	ﳉ	خالق	creator	khāliqin
+14	35:3:10	w	غَيۡرُ	ﳊ	غير	other (than) Allah	ghayru
+14	35:3:11	w	ٱللَّهِ	ﳋ	الله	other (than) Allah	l-lahi
+15	35:3:12	w	يَرۡزُقُكُم	ﳌ	يرزقكم	who provides for you	yarzuqukum
+15	35:3:13	w	مِّنَ	ﳍ	من	from	mina
+15	35:3:14	w	ٱلسَّمَآءِ	ﳎ	السماء	the sky	l-samāi
+15	35:3:15	w	وَٱلۡأَرۡضِۚ	ﳏﳐ	والارض	and the earth	wal-arḍi
+15	35:3:16	w	لَآ	ﳑ	لا	(There is) no	lā
+15	35:3:17	w	إِلَٰهَ	ﳒ	الاه	god	ilāha
+15	35:3:18	w	إِلَّا	ﳓ	الا	but	illā
+15	35:3:19	w	هُوَۖ	ﳔﳕ	هو	He	huwa
+15	35:3:20	w	فَأَنَّىٰ	ﳖ	فانى	Then, how	fa-annā
+15	35:3:21	w	تُؤۡفَكُونَ	ﳗ	توفكون	(are) you deluded	tu'fakūna
+15	35:3:22	e	٣	ﳘ			

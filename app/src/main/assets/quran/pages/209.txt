@@ -1,0 +1,130 @@
+1	10:7:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	10:7:2	w	ٱلَّذِينَ	ﱂ	الذين	those who	alladhīna
+1	10:7:3	w	لَا	ﱃ	لا	(do) not	lā
+1	10:7:4	w	يَرۡجُونَ	ﱄ	يرجون	expect	yarjūna
+1	10:7:5	w	لِقَآءَنَا	ﱅ	لقاءنا	the meeting with Us	liqāanā
+1	10:7:6	w	وَرَضُواْ	ﱆ	ورضوا	and are pleased	waraḍū
+1	10:7:7	w	بِٱلۡحَيَوٰةِ	ﱇ	بالحياة	with the life	bil-ḥayati
+1	10:7:8	w	ٱلدُّنۡيَا	ﱈ	الدنيا	(of) the world	l-dun'yā
+1	10:7:9	w	وَٱطۡمَأَنُّواْ	ﱉ	واطمانوا	and feel satisfied	wa-iṭ'ma-annū
+2	10:7:10	w	بِهَا	ﱊ	بها	with it	bihā
+2	10:7:11	w	وَٱلَّذِينَ	ﱋ	والذين	and those	wa-alladhīna
+2	10:7:12	w	هُمۡ	ﱌ	هم	they	hum
+2	10:7:13	w	عَنۡ	ﱍ	عن	(are) of	ʿan
+2	10:7:14	w	ءَايَٰتِنَا	ﱎ	اياتنا	Our Signs	āyātinā
+2	10:7:15	w	غَٰفِلُونَ	ﱏ	غافلون	heedless	ghāfilūna
+2	10:7:16	e	٧	ﱐ			
+2	10:8:1	w	أُوْلَٰٓئِكَ	ﱑ	اولايك	Those	ulāika
+2	10:8:2	w	مَأۡوَىٰهُمُ	ﱒ	ماواهم	their abode	mawāhumu
+3	10:8:3	w	ٱلنَّارُ	ﱓ	النار	(will be) the Fire	l-nāru
+3	10:8:4	w	بِمَا	ﱔ	بما	for what	bimā
+3	10:8:5	w	كَانُواْ	ﱕ	كانوا	they used (to)	kānū
+3	10:8:6	w	يَكۡسِبُونَ	ﱖ	يكسبون	earn	yaksibūna
+3	10:8:7	e	٨	ﱗ			
+3	10:9:1	w	إِنَّ	ﱘ	ان	Indeed	inna
+3	10:9:2	w	ٱلَّذِينَ	ﱙ	الذين	those who	alladhīna
+3	10:9:3	w	ءَامَنُواْ	ﱚ	امنوا	believed	āmanū
+3	10:9:4	w	وَعَمِلُواْ	ﱛ	وعملوا	and did	waʿamilū
+4	10:9:5	w	ٱلصَّٰلِحَٰتِ	ﱜ	الصالحات	good deeds	l-ṣāliḥāti
+4	10:9:6	w	يَهۡدِيهِمۡ	ﱝ	يهديهم	(will) guide them	yahdīhim
+4	10:9:7	w	رَبُّهُم	ﱞ	ربهم	their Lord	rabbuhum
+4	10:9:8	w	بِإِيمَٰنِهِمۡۖ	ﱟﱠ	بايمانهم	by their faith	biīmānihim
+4	10:9:9	w	تَجۡرِي	ﱡ	تجري	Will flow	tajrī
+4	10:9:10	w	مِن	ﱢ	من	from	min
+4	10:9:11	w	تَحۡتِهِمُ	ﱣ	تحتهم	underneath them	taḥtihimu
+5	10:9:12	w	ٱلۡأَنۡهَٰرُ	ﱤ	الانهار	the rivers	l-anhāru
+5	10:9:13	w	فِي	ﱥ	في	in	fī
+5	10:9:14	w	جَنَّٰتِ	ﱦ	جنات	Gardens	jannāti
+5	10:9:15	w	ٱلنَّعِيمِ	ﱧ	النعيم	(of) Delight	l-naʿīmi
+5	10:9:16	e	٩	ﱨ			
+5	10:10:1	w	دَعۡوَىٰهُمۡ	ﱩ	دعواهم	Their prayer	daʿwāhum
+5	10:10:2	w	فِيهَا	ﱪ	فيها	therein	fīhā
+5	10:10:3	w	سُبۡحَٰنَكَ	ﱫ	سبحانك	(will be), "Glory be to You	sub'ḥānaka
+6	10:10:4	w	ٱللَّهُمَّ	ﱬ	اللهم	O Allah	l-lahuma
+6	10:10:5	w	وَتَحِيَّتُهُمۡ	ﱭ	وتحيتهم	And their greeting	wataḥiyyatuhum
+6	10:10:6	w	فِيهَا	ﱮ	فيها	therein (will be)	fīhā
+6	10:10:7	w	سَلَٰمٞۚ	ﱯﱰ	سلام	Peace	salāmun
+6	10:10:8	w	وَءَاخِرُ	ﱱ	واخر	And the last	waākhiru
+6	10:10:9	w	دَعۡوَىٰهُمۡ	ﱲ	دعواهم	(of) their call	daʿwāhum
+6	10:10:10	w	أَنِ	ﱳ	ان	(will be) [that]	ani
+6	10:10:11	w	ٱلۡحَمۡدُ	ﱴ	الحمد	All the Praise be	l-ḥamdu
+7	10:10:12	w	لِلَّهِ	ﱵ	لله	to Allah	lillahi
+7	10:10:13	w	رَبِّ	ﱶ	رب	Lord	rabbi
+7	10:10:14	w	ٱلۡعَٰلَمِينَ	ﱷ	العالمين	(of) the worlds	l-ʿālamīna
+7	10:10:15	e	١٠	ﱸ			
+7	10:11:1	w	۞ وَلَوۡ	ﱹ ﱺ	۞ ولو	And if	walaw
+7	10:11:2	w	يُعَجِّلُ	ﱻ	يعجل	hastens	yuʿajjilu
+7	10:11:3	w	ٱللَّهُ	ﱼ	الله	(by) Allah	l-lahu
+7	10:11:4	w	لِلنَّاسِ	ﱽ	للناس	for the mankind	lilnnāsi
+7	10:11:5	w	ٱلشَّرَّ	ﱾ	الشر	the evil	l-shara
+8	10:11:6	w	ٱسۡتِعۡجَالَهُم	ﱿ	استعجالهم	(as) He hastens for them	is'tiʿ'jālahum
+8	10:11:7	w	بِٱلۡخَيۡرِ	ﲀ	بالخير	the good	bil-khayri
+8	10:11:8	w	لَقُضِيَ	ﲁ	لقضي	surely, would have been decreed	laquḍiya
+8	10:11:9	w	إِلَيۡهِمۡ	ﲂ	اليهم	for them	ilayhim
+8	10:11:10	w	أَجَلُهُمۡۖ	ﲃﲄ	اجلهم	their term	ajaluhum
+8	10:11:11	w	فَنَذَرُ	ﲅ	فنذر	But We leave	fanadharu
+8	10:11:12	w	ٱلَّذِينَ	ﲆ	الذين	those who	alladhīna
+9	10:11:13	w	لَا	ﲇ	لا	(do) not	lā
+9	10:11:14	w	يَرۡجُونَ	ﲈ	يرجون	expect	yarjūna
+9	10:11:15	w	لِقَآءَنَا	ﲉ	لقاءنا	the meeting with Us	liqāanā
+9	10:11:16	w	فِي	ﲊ	في	in	fī
+9	10:11:17	w	طُغۡيَٰنِهِمۡ	ﲋ	طغيانهم	their transgression	ṭugh'yānihim
+9	10:11:18	w	يَعۡمَهُونَ	ﲌ	يعمهون	wandering blindly	yaʿmahūna
+9	10:11:19	e	١١	ﲍ			
+9	10:12:1	w	وَإِذَا	ﲎ	واذا	And when	wa-idhā
+9	10:12:2	w	مَسَّ	ﲏ	مس	touches	massa
+9	10:12:3	w	ٱلۡإِنسَٰنَ	ﲐ	الانسان	the man	l-insāna
+10	10:12:4	w	ٱلضُّرُّ	ﲑ	الضر	the affliction	l-ḍuru
+10	10:12:5	w	دَعَانَا	ﲒ	دعانا	he calls Us	daʿānā
+10	10:12:6	w	لِجَنۢبِهِۦٓ	ﲓ	لجنبه	(lying) on his side	lijanbihi
+10	10:12:7	w	أَوۡ	ﲔ	او	or	aw
+10	10:12:8	w	قَاعِدًا	ﲕ	قاعدا	sitting	qāʿidan
+10	10:12:9	w	أَوۡ	ﲖ	او	or	aw
+10	10:12:10	w	قَآئِمٗا	ﲗ	قايما	standing	qāiman
+10	10:12:11	w	فَلَمَّا	ﲘ	فلما	But when	falammā
+10	10:12:12	w	كَشَفۡنَا	ﲙ	كشفنا	We remove	kashafnā
+11	10:12:13	w	عَنۡهُ	ﲚ	عنه	from him	ʿanhu
+11	10:12:14	w	ضُرَّهُۥ	ﲛ	ضره	his affliction	ḍurrahu
+11	10:12:15	w	مَرَّ	ﲜ	مر	he passes on	marra
+11	10:12:16	w	كَأَن	ﲝ	كان	as if he	ka-an
+11	10:12:17	w	لَّمۡ	ﲞ	لم	(had) not	lam
+11	10:12:18	w	يَدۡعُنَآ	ﲟ	يدعنا	called Us	yadʿunā
+11	10:12:19	w	إِلَىٰ	ﲠ	الى	for	ilā
+11	10:12:20	w	ضُرّٖ	ﲡ	ضر	(the) affliction	ḍurrin
+11	10:12:21	w	مَّسَّهُۥۚ	ﲢﲣ	مسه	(that) touched him	massahu
+11	10:12:22	w	كَذَٰلِكَ	ﲤ	كذالك	Thus	kadhālika
+11	10:12:23	w	زُيِّنَ	ﲥ	زين	(it) is made fair seeming	zuyyina
+12	10:12:24	w	لِلۡمُسۡرِفِينَ	ﲦ	للمسرفين	to the extravagant	lil'mus'rifīna
+12	10:12:25	w	مَا	ﲧ	ما	what	mā
+12	10:12:26	w	كَانُواْ	ﲨ	كانوا	they used (to)	kānū
+12	10:12:27	w	يَعۡمَلُونَ	ﲩ	يعملون	do	yaʿmalūna
+12	10:12:28	e	١٢	ﲪ			
+12	10:13:1	w	وَلَقَدۡ	ﲫ	ولقد	And verily	walaqad
+12	10:13:2	w	أَهۡلَكۡنَا	ﲬ	اهلكنا	We destroyed	ahlaknā
+12	10:13:3	w	ٱلۡقُرُونَ	ﲭ	القرون	the generations	l-qurūna
+13	10:13:4	w	مِن	ﲮ	من	before you	min
+13	10:13:5	w	قَبۡلِكُمۡ	ﲯ	قبلكم	before you	qablikum
+13	10:13:6	w	لَمَّا	ﲰ	لما	when	lammā
+13	10:13:7	w	ظَلَمُواْ	ﲱ	ظلموا	they wronged	ẓalamū
+13	10:13:8	w	وَجَآءَتۡهُمۡ	ﲲ	وجاءتهم	and came to them	wajāathum
+13	10:13:9	w	رُسُلُهُم	ﲳ	رسلهم	their Messengers	rusuluhum
+13	10:13:10	w	بِٱلۡبَيِّنَٰتِ	ﲴ	بالبينات	with clear proofs	bil-bayināti
+13	10:13:11	w	وَمَا	ﲵ	وما	but not	wamā
+13	10:13:12	w	كَانُواْ	ﲶ	كانوا	they were	kānū
+14	10:13:13	w	لِيُؤۡمِنُواْۚ	ﲷﲸ	ليومنوا	to believe	liyu'minū
+14	10:13:14	w	كَذَٰلِكَ	ﲹ	كذالك	Thus	kadhālika
+14	10:13:15	w	نَجۡزِي	ﲺ	نجزي	We recompense	najzī
+14	10:13:16	w	ٱلۡقَوۡمَ	ﲻ	القوم	the people	l-qawma
+14	10:13:17	w	ٱلۡمُجۡرِمِينَ	ﲼ	المجرمين	(who are) criminals	l-muj'rimīna
+14	10:13:18	e	١٣	ﲽ			
+14	10:14:1	w	ثُمَّ	ﲾ	ثم	Then	thumma
+14	10:14:2	w	جَعَلۡنَٰكُمۡ	ﲿ	جعلناكم	We made you	jaʿalnākum
+15	10:14:3	w	خَلَٰٓئِفَ	ﳀ	خلايف	successors	khalāifa
+15	10:14:4	w	فِي	ﳁ	في	in	fī
+15	10:14:5	w	ٱلۡأَرۡضِ	ﳂ	الارض	the earth	l-arḍi
+15	10:14:6	w	مِنۢ	ﳃ	من	after them	min
+15	10:14:7	w	بَعۡدِهِمۡ	ﳄ	بعدهم	after them	baʿdihim
+15	10:14:8	w	لِنَنظُرَ	ﳅ	لننظر	so that We may see	linanẓura
+15	10:14:9	w	كَيۡفَ	ﳆ	كيف	how	kayfa
+15	10:14:10	w	تَعۡمَلُونَ	ﳇ	تعملون	you do	taʿmalūna
+15	10:14:11	e	١٤	ﳈ			

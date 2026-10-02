@@ -1,0 +1,149 @@
+2	37:1:1	w	وَٱلصَّٰٓفَّٰتِ	ﱁ	والصافات	By those lined	wal-ṣāfāti
+2	37:1:2	w	صَفّٗا	ﱂ	صفا	(in) rows	ṣaffan
+2	37:1:3	e	١	ﱃ			
+2	37:2:1	w	فَٱلزَّٰجِرَٰتِ	ﱄ	فالزاجرات	And those who drive	fal-zājirāti
+2	37:2:2	w	زَجۡرٗا	ﱅ	زجرا	strongly	zajran
+2	37:2:3	e	٢	ﱆ			
+2	37:3:1	w	فَٱلتَّٰلِيَٰتِ	ﱇ	فالتاليات	And those who recite	fal-tāliyāti
+2	37:3:2	w	ذِكۡرًا	ﱈ	ذكرا	(the) Message	dhik'ran
+2	37:3:3	e	٣	ﱉ			
+2	37:4:1	w	إِنَّ	ﱊ	ان	Indeed	inna
+3	37:4:2	w	إِلَٰهَكُمۡ	ﱋ	الاهكم	your Lord	ilāhakum
+3	37:4:3	w	لَوَٰحِدٞ	ﱌ	لواحد	(is) surely One	lawāḥidun
+3	37:4:4	e	٤	ﱍ			
+3	37:5:1	w	رَّبُّ	ﱎ	رب	Lord	rabbu
+3	37:5:2	w	ٱلسَّمَٰوَٰتِ	ﱏ	السماوات	(of) the heavens	l-samāwāti
+3	37:5:3	w	وَٱلۡأَرۡضِ	ﱐ	والارض	and the earth	wal-arḍi
+3	37:5:4	w	وَمَا	ﱑ	وما	and what	wamā
+3	37:5:5	w	بَيۡنَهُمَا	ﱒ	بينهما	(is) between both of them	baynahumā
+3	37:5:6	w	وَرَبُّ	ﱓ	ورب	and Lord	warabbu
+4	37:5:7	w	ٱلۡمَشَٰرِقِ	ﱔ	المشارق	(of) each point of sunrise	l-mashāriqi
+4	37:5:8	e	٥	ﱕ			
+4	37:6:1	w	إِنَّا	ﱖ	انا	Indeed, We	innā
+4	37:6:2	w	زَيَّنَّا	ﱗ	زينا	[We] adorned	zayyannā
+4	37:6:3	w	ٱلسَّمَآءَ	ﱘ	السماء	the sky	l-samāa
+4	37:6:4	w	ٱلدُّنۡيَا	ﱙ	الدنيا	[the world]	l-dun'yā
+4	37:6:5	w	بِزِينَةٍ	ﱚ	بزينة	with an adornment	bizīnatin
+4	37:6:6	w	ٱلۡكَوَاكِبِ	ﱛ	الكواكب	(of) the stars	l-kawākibi
+4	37:6:7	e	٦	ﱜ			
+4	37:7:1	w	وَحِفۡظٗا	ﱝ	وحفظا	And (to) guard	waḥif'ẓan
+5	37:7:2	w	مِّن	ﱞ	من	against	min
+5	37:7:3	w	كُلِّ	ﱟ	كل	every	kulli
+5	37:7:4	w	شَيۡطَٰنٖ	ﱠ	شيطان	devil	shayṭānin
+5	37:7:5	w	مَّارِدٖ	ﱡ	مارد	rebellious	māridin
+5	37:7:6	e	٧	ﱢ			
+5	37:8:1	w	لَّا	ﱣ	لا	Not	lā
+5	37:8:2	w	يَسَّمَّعُونَ	ﱤ	يسمعون	they may listen	yassammaʿūna
+5	37:8:3	w	إِلَى	ﱥ	الى	to	ilā
+5	37:8:4	w	ٱلۡمَلَإِ	ﱦ	الملا	the assembly	l-mala-i
+5	37:8:5	w	ٱلۡأَعۡلَىٰ	ﱧ	الاعلى	[the] exalted	l-aʿlā
+5	37:8:6	w	وَيُقۡذَفُونَ	ﱨ	ويقذفون	are pelted	wayuq'dhafūna
+6	37:8:7	w	مِن	ﱩ	من	from	min
+6	37:8:8	w	كُلِّ	ﱪ	كل	every	kulli
+6	37:8:9	w	جَانِبٖ	ﱫ	جانب	side	jānibin
+6	37:8:10	e	٨	ﱬ			
+6	37:9:1	w	دُحُورٗاۖ	ﱭﱮ	دحورا	Repelled	duḥūran
+6	37:9:2	w	وَلَهُمۡ	ﱯ	ولهم	and for them	walahum
+6	37:9:3	w	عَذَابٞ	ﱰ	عذاب	(is) a punishment	ʿadhābun
+6	37:9:4	w	وَاصِبٌ	ﱱ	واصب	perpetual	wāṣibun
+6	37:9:5	e	٩	ﱲ			
+6	37:10:1	w	إِلَّا	ﱳ	الا	Except	illā
+6	37:10:2	w	مَنۡ	ﱴ	من	(him) who	man
+6	37:10:3	w	خَطِفَ	ﱵ	خطف	snatches	khaṭifa
+7	37:10:4	w	ٱلۡخَطۡفَةَ	ﱶ	الخطفة	(by) theft	l-khaṭfata
+7	37:10:5	w	فَأَتۡبَعَهُۥ	ﱷ	فاتبعه	but follows him	fa-atbaʿahu
+7	37:10:6	w	شِهَابٞ	ﱸ	شهاب	a burning flame	shihābun
+7	37:10:7	w	ثَاقِبٞ	ﱹ	ثاقب	piercing	thāqibun
+7	37:10:8	e	١٠	ﱺ			
+7	37:11:1	w	فَٱسۡتَفۡتِهِمۡ	ﱻ	فاستفتهم	Then ask them	fa-is'taftihim
+7	37:11:2	w	أَهُمۡ	ﱼ	اهم	Are they	ahum
+7	37:11:3	w	أَشَدُّ	ﱽ	اشد	a stronger	ashaddu
+7	37:11:4	w	خَلۡقًا	ﱾ	خلقا	creation	khalqan
+7	37:11:5	w	أَم	ﱿ	ام	or	am
+8	37:11:6	w	مَّنۡ	ﲀ	من	(those) whom	man
+8	37:11:7	w	خَلَقۡنَآۚ	ﲁﲂ	خلقنا	We have created	khalaqnā
+8	37:11:8	w	إِنَّا	ﲃ	انا	Indeed, We	innā
+8	37:11:9	w	خَلَقۡنَٰهُم	ﲄ	خلقناهم	created them	khalaqnāhum
+8	37:11:10	w	مِّن	ﲅ	من	from	min
+8	37:11:11	w	طِينٖ	ﲆ	طين	a clay	ṭīnin
+8	37:11:12	w	لَّازِبِۭ	ﲇ	لازب	sticky	lāzibin
+8	37:11:13	e	١١	ﲈ			
+8	37:12:1	w	بَلۡ	ﲉ	بل	Nay	bal
+8	37:12:2	w	عَجِبۡتَ	ﲊ	عجبت	you wonder	ʿajib'ta
+8	37:12:3	w	وَيَسۡخَرُونَ	ﲋ	ويسخرون	while they mock	wayaskharūna
+9	37:12:4	e	١٢	ﲌ			
+9	37:13:1	w	وَإِذَا	ﲍ	واذا	And when	wa-idhā
+9	37:13:2	w	ذُكِّرُواْ	ﲎ	ذكروا	they are reminded	dhukkirū
+9	37:13:3	w	لَا	ﲏ	لا	not	lā
+9	37:13:4	w	يَذۡكُرُونَ	ﲐ	يذكرون	they receive admonition	yadhkurūna
+9	37:13:5	e	١٣	ﲑ			
+9	37:14:1	w	وَإِذَا	ﲒ	واذا	And when	wa-idhā
+9	37:14:2	w	رَأَوۡاْ	ﲓ	راوا	they see	ra-aw
+9	37:14:3	w	ءَايَةٗ	ﲔ	اية	a Sign	āyatan
+9	37:14:4	w	يَسۡتَسۡخِرُونَ	ﲕ	يستسخرون	they mock	yastaskhirūna
+9	37:14:5	e	١٤	ﲖ			
+10	37:15:1	w	وَقَالُوٓاْ	ﲗ	وقالوا	And they say	waqālū
+10	37:15:2	w	إِنۡ	ﲘ	ان	Not	in
+10	37:15:3	w	هَٰذَآ	ﲙ	هاذا	(is) this	hādhā
+10	37:15:4	w	إِلَّا	ﲚ	الا	except	illā
+10	37:15:5	w	سِحۡرٞ	ﲛ	سحر	a magic	siḥ'run
+10	37:15:6	w	مُّبِينٌ	ﲜ	مبين	clear	mubīnun
+10	37:15:7	e	١٥	ﲝ			
+10	37:16:1	w	أَءِذَا	ﲞ	ااذا	Is it when	a-idhā
+10	37:16:2	w	مِتۡنَا	ﲟ	متنا	we are dead	mit'nā
+10	37:16:3	w	وَكُنَّا	ﲠ	وكنا	and have become	wakunnā
+10	37:16:4	w	تُرَابٗا	ﲡ	ترابا	dust	turāban
+10	37:16:5	w	وَعِظَٰمًا	ﲢ	وعظاما	and bones	waʿiẓāman
+11	37:16:6	w	أَءِنَّا	ﲣ	اانا	shall we then	a-innā
+11	37:16:7	w	لَمَبۡعُوثُونَ	ﲤ	لمبعوثون	be certainly resurrected	lamabʿūthūna
+11	37:16:8	e	١٦	ﲥ			
+11	37:17:1	w	أَوَءَابَآؤُنَا	ﲦ	اواباونا	Or our fathers	awaābāunā
+11	37:17:2	w	ٱلۡأَوَّلُونَ	ﲧ	الاولون	former	l-awalūna
+11	37:17:3	e	١٧	ﲨ			
+11	37:18:1	w	قُلۡ	ﲩ	قل	Say	qul
+11	37:18:2	w	نَعَمۡ	ﲪ	نعم	Yes	naʿam
+11	37:18:3	w	وَأَنتُمۡ	ﲫ	وانتم	and you	wa-antum
+11	37:18:4	w	دَٰخِرُونَ	ﲬ	داخرون	(will be) humiliated	dākhirūna
+12	37:18:5	e	١٨	ﲭ			
+12	37:19:1	w	فَإِنَّمَا	ﲮ	فانما	Then only	fa-innamā
+12	37:19:2	w	هِيَ	ﲯ	هي	it	hiya
+12	37:19:3	w	زَجۡرَةٞ	ﲰ	زجرة	(will be) a cry	zajratun
+12	37:19:4	w	وَٰحِدَةٞ	ﲱ	واحدة	single	wāḥidatun
+12	37:19:5	w	فَإِذَا	ﲲ	فاذا	then, behold	fa-idhā
+12	37:19:6	w	هُمۡ	ﲳ	هم	They	hum
+12	37:19:7	w	يَنظُرُونَ	ﲴ	ينظرون	will see	yanẓurūna
+12	37:19:8	e	١٩	ﲵ			
+12	37:20:1	w	وَقَالُواْ	ﲶ	وقالوا	And they will say	waqālū
+12	37:20:2	w	يَٰوَيۡلَنَا	ﲷ	يا ويلنا	O woe to us	yāwaylanā
+13	37:20:3	w	هَٰذَا	ﲸ	هاذا	This	hādhā
+13	37:20:4	w	يَوۡمُ	ﲹ	يوم	(is the) Day	yawmu
+13	37:20:5	w	ٱلدِّينِ	ﲺ	الدين	(of) the Recompense	l-dīni
+13	37:20:6	e	٢٠	ﲻ			
+13	37:21:1	w	هَٰذَا	ﲼ	هاذا	This	hādhā
+13	37:21:2	w	يَوۡمُ	ﲽ	يوم	(is the) Day	yawmu
+13	37:21:3	w	ٱلۡفَصۡلِ	ﲾ	الفصل	(of) Judgment	l-faṣli
+13	37:21:4	w	ٱلَّذِي	ﲿ	الذي	which	alladhī
+13	37:21:5	w	كُنتُم	ﳀ	كنتم	you used to	kuntum
+13	37:21:6	w	بِهِۦ	ﳁ	به	[of it]	bihi
+13	37:21:7	w	تُكَذِّبُونَ	ﳂ	تكذبون	deny	tukadhibūna
+13	37:21:8	e	٢١	ﳃ			
+14	37:22:1	w	۞ ٱحۡشُرُواْ	ﳄ ﳅ	۞ احشروا	Gather	uḥ'shurū
+14	37:22:2	w	ٱلَّذِينَ	ﳆ	الذين	those who	alladhīna
+14	37:22:3	w	ظَلَمُواْ	ﳇ	ظلموا	wronged	ẓalamū
+14	37:22:4	w	وَأَزۡوَٰجَهُمۡ	ﳈ	وازواجهم	and their kinds	wa-azwājahum
+14	37:22:5	w	وَمَا	ﳉ	وما	and what	wamā
+14	37:22:6	w	كَانُواْ	ﳊ	كانوا	they used (to)	kānū
+14	37:22:7	w	يَعۡبُدُونَ	ﳋ	يعبدون	worship	yaʿbudūna
+14	37:22:8	e	٢٢	ﳌ			
+14	37:23:1	w	مِن	ﳍ	من	Besides	min
+14	37:23:2	w	دُونِ	ﳎ	دون	Besides	dūni
+15	37:23:3	w	ٱللَّهِ	ﳏ	الله	Allah	l-lahi
+15	37:23:4	w	فَٱهۡدُوهُمۡ	ﳐ	فاهدوهم	then lead them	fa-ih'dūhum
+15	37:23:5	w	إِلَىٰ	ﳑ	الى	to	ilā
+15	37:23:6	w	صِرَٰطِ	ﳒ	صراط	(the) Path	ṣirāṭi
+15	37:23:7	w	ٱلۡجَحِيمِ	ﳓ	الجحيم	(of) the Hellfire	l-jaḥīmi
+15	37:23:8	e	٢٣	ﳔ			
+15	37:24:1	w	وَقِفُوهُمۡۖ	ﳕﳖ	وقفوهم	And stop them	waqifūhum
+15	37:24:2	w	إِنَّهُم	ﳗ	انهم	indeed, they	innahum
+15	37:24:3	w	مَّسۡـُٔولُونَ	ﳘ	مسيولون	(are) to be questioned	masūlūna
+15	37:24:4	e	٢٤	ﳙ			

@@ -1,0 +1,130 @@
+1	8:26:1	w	وَٱذۡكُرُوٓاْ	ﱁ	واذكروا	And remember	wa-udh'kurū
+1	8:26:2	w	إِذۡ	ﱂ	اذ	when	idh
+1	8:26:3	w	أَنتُمۡ	ﱃ	انتم	you	antum
+1	8:26:4	w	قَلِيلٞ	ﱄ	قليل	(were) few	qalīlun
+1	8:26:5	w	مُّسۡتَضۡعَفُونَ	ﱅ	مستضعفون	(and) deemed weak	mus'taḍʿafūna
+1	8:26:6	w	فِي	ﱆ	في	in	fī
+1	8:26:7	w	ٱلۡأَرۡضِ	ﱇ	الارض	the earth	l-arḍi
+1	8:26:8	w	تَخَافُونَ	ﱈ	تخافون	fearing	takhāfūna
+2	8:26:9	w	أَن	ﱉ	ان	that	an
+2	8:26:10	w	يَتَخَطَّفَكُمُ	ﱊ	يتخطفكم	might do away with you	yatakhaṭṭafakumu
+2	8:26:11	w	ٱلنَّاسُ	ﱋ	الناس	the men	l-nāsu
+2	8:26:12	w	فَـَٔاوَىٰكُمۡ	ﱌ	فاواكم	then He sheltered you	faāwākum
+2	8:26:13	w	وَأَيَّدَكُم	ﱍ	وايدكم	and strengthened you	wa-ayyadakum
+2	8:26:14	w	بِنَصۡرِهِۦ	ﱎ	بنصره	with His help	binaṣrihi
+2	8:26:15	w	وَرَزَقَكُم	ﱏ	ورزقكم	and provided you	warazaqakum
+3	8:26:16	w	مِّنَ	ﱐ	من	of	mina
+3	8:26:17	w	ٱلطَّيِّبَٰتِ	ﱑ	الطيبات	the good things	l-ṭayibāti
+3	8:26:18	w	لَعَلَّكُمۡ	ﱒ	لعلكم	so that you may	laʿallakum
+3	8:26:19	w	تَشۡكُرُونَ	ﱓ	تشكرون	(be) thankful	tashkurūna
+3	8:26:20	e	٢٦	ﱔ			
+3	8:27:1	w	يَٰٓأَيُّهَا	ﱕ	يا ايها	O you	yāayyuhā
+3	8:27:2	w	ٱلَّذِينَ	ﱖ	الذين	who	alladhīna
+3	8:27:3	w	ءَامَنُواْ	ﱗ	امنوا	believe	āmanū
+4	8:27:4	w	لَا	ﱘ	لا	(Do) not	lā
+4	8:27:5	w	تَخُونُواْ	ﱙ	تخونوا	betray	takhūnū
+4	8:27:6	w	ٱللَّهَ	ﱚ	الله	Allah	l-laha
+4	8:27:7	w	وَٱلرَّسُولَ	ﱛ	والرسول	and the Messenger	wal-rasūla
+4	8:27:8	w	وَتَخُونُوٓاْ	ﱜ	وتخونوا	or betray	watakhūnū
+4	8:27:9	w	أَمَٰنَٰتِكُمۡ	ﱝ	اماناتكم	your trusts	amānātikum
+4	8:27:10	w	وَأَنتُمۡ	ﱞ	وانتم	while you	wa-antum
+4	8:27:11	w	تَعۡلَمُونَ	ﱟ	تعلمون	know	taʿlamūna
+5	8:27:12	e	٢٧	ﱠ			
+5	8:28:1	w	وَٱعۡلَمُوٓاْ	ﱡ	واعلموا	And know	wa-iʿ'lamū
+5	8:28:2	w	أَنَّمَآ	ﱢ	انما	that	annamā
+5	8:28:3	w	أَمۡوَٰلُكُمۡ	ﱣ	اموالكم	your wealth	amwālukum
+5	8:28:4	w	وَأَوۡلَٰدُكُمۡ	ﱤ	واولادكم	and your children	wa-awlādukum
+5	8:28:5	w	فِتۡنَةٞ	ﱥ	فتنة	(are) a trial	fit'natun
+5	8:28:6	w	وَأَنَّ	ﱦ	وان	And that	wa-anna
+5	8:28:7	w	ٱللَّهَ	ﱧ	الله	Allah	l-laha
+6	8:28:8	w	عِندَهُۥٓ	ﱨ	عنده	with Him	ʿindahu
+6	8:28:9	w	أَجۡرٌ	ﱩ	اجر	(is) a reward	ajrun
+6	8:28:10	w	عَظِيمٞ	ﱪ	عظيم	great	ʿaẓīmun
+6	8:28:11	e	٢٨	ﱫ			
+6	8:29:1	w	يَٰٓأَيُّهَا	ﱬ	يا ايها	O you	yāayyuhā
+6	8:29:2	w	ٱلَّذِينَ	ﱭ	الذين	who	alladhīna
+6	8:29:3	w	ءَامَنُوٓاْ	ﱮ	امنوا	believe	āmanū
+6	8:29:4	w	إِن	ﱯ	ان	If	in
+6	8:29:5	w	تَتَّقُواْ	ﱰ	تتقوا	you fear	tattaqū
+7	8:29:6	w	ٱللَّهَ	ﱱ	الله	Allah	l-laha
+7	8:29:7	w	يَجۡعَل	ﱲ	يجعل	He will grant	yajʿal
+7	8:29:8	w	لَّكُمۡ	ﱳ	لكم	you	lakum
+7	8:29:9	w	فُرۡقَانٗا	ﱴ	فرقانا	a criterion	fur'qānan
+7	8:29:10	w	وَيُكَفِّرۡ	ﱵ	ويكفر	and will remove	wayukaffir
+7	8:29:11	w	عَنكُمۡ	ﱶ	عنكم	from you	ʿankum
+7	8:29:12	w	سَيِّـَٔاتِكُمۡ	ﱷ	سيياتكم	your evil deeds	sayyiātikum
+8	8:29:13	w	وَيَغۡفِرۡ	ﱸ	ويغفر	and forgive	wayaghfir
+8	8:29:14	w	لَكُمۡۗ	ﱹﱺ	لكم	you	lakum
+8	8:29:15	w	وَٱللَّهُ	ﱻ	والله	And Allah	wal-lahu
+8	8:29:16	w	ذُو	ﱼ	ذو	(is) the Possessor	dhū
+8	8:29:17	w	ٱلۡفَضۡلِ	ﱽ	الفضل	(of) Bounty	l-faḍli
+8	8:29:18	w	ٱلۡعَظِيمِ	ﱾ	العظيم	the Great	l-ʿaẓīmi
+8	8:29:19	e	٢٩	ﱿ			
+8	8:30:1	w	وَإِذۡ	ﲀ	واذ	And when	wa-idh
+8	8:30:2	w	يَمۡكُرُ	ﲁ	يمكر	plotted	yamkuru
+8	8:30:3	w	بِكَ	ﲂ	بك	against you	bika
+9	8:30:4	w	ٱلَّذِينَ	ﲃ	الذين	those who	alladhīna
+9	8:30:5	w	كَفَرُواْ	ﲄ	كفروا	disbelieved	kafarū
+9	8:30:6	w	لِيُثۡبِتُوكَ	ﲅ	ليثبتوك	that they restrain you	liyuth'bitūka
+9	8:30:7	w	أَوۡ	ﲆ	او	or	aw
+9	8:30:8	w	يَقۡتُلُوكَ	ﲇ	يقتلوك	kill you	yaqtulūka
+9	8:30:9	w	أَوۡ	ﲈ	او	or	aw
+9	8:30:10	w	يُخۡرِجُوكَۚ	ﲉﲊ	يخرجوك	drive you out	yukh'rijūka
+9	8:30:11	w	وَيَمۡكُرُونَ	ﲋ	ويمكرون	And they were planning	wayamkurūna
+10	8:30:12	w	وَيَمۡكُرُ	ﲌ	ويمكر	and (also) was planning	wayamkuru
+10	8:30:13	w	ٱللَّهُۖ	ﲍﲎ	الله	Allah	l-lahu
+10	8:30:14	w	وَٱللَّهُ	ﲏ	والله	And Allah	wal-lahu
+10	8:30:15	w	خَيۡرُ	ﲐ	خير	is (the) Best	khayru
+10	8:30:16	w	ٱلۡمَٰكِرِينَ	ﲑ	الماكرين	(of) the Planners	l-mākirīna
+10	8:30:17	e	٣٠	ﲒ			
+10	8:31:1	w	وَإِذَا	ﲓ	واذا	And when	wa-idhā
+10	8:31:2	w	تُتۡلَىٰ	ﲔ	تتلى	are recited	tut'lā
+10	8:31:3	w	عَلَيۡهِمۡ	ﲕ	عليهم	to them	ʿalayhim
+11	8:31:4	w	ءَايَٰتُنَا	ﲖ	اياتنا	Our Verses	āyātunā
+11	8:31:5	w	قَالُواْ	ﲗ	قالوا	they say	qālū
+11	8:31:6	w	قَدۡ	ﲘ	قد	Verily	qad
+11	8:31:7	w	سَمِعۡنَا	ﲙ	سمعنا	we have heard	samiʿ'nā
+11	8:31:8	w	لَوۡ	ﲚ	لو	if	law
+11	8:31:9	w	نَشَآءُ	ﲛ	نشاء	we wish	nashāu
+11	8:31:10	w	لَقُلۡنَا	ﲜ	لقلنا	surely, we could say	laqul'nā
+11	8:31:11	w	مِثۡلَ	ﲝ	مثل	like	mith'la
+11	8:31:12	w	هَٰذَآ	ﲞ	هاذا	this	hādhā
+11	8:31:13	w	إِنۡ	ﲟ	ان	Not	in
+11	8:31:14	w	هَٰذَآ	ﲠ	هاذا	is this	hādhā
+12	8:31:15	w	إِلَّآ	ﲡ	الا	but	illā
+12	8:31:16	w	أَسَٰطِيرُ	ﲢ	اساطير	tales	asāṭīru
+12	8:31:17	w	ٱلۡأَوَّلِينَ	ﲣ	الاولين	(of) the former (people)	l-awalīna
+12	8:31:18	e	٣١	ﲤ			
+12	8:32:1	w	وَإِذۡ	ﲥ	واذ	And when	wa-idh
+12	8:32:2	w	قَالُواْ	ﲦ	قالوا	they said	qālū
+12	8:32:3	w	ٱللَّهُمَّ	ﲧ	اللهم	O Allah	l-lahuma
+12	8:32:4	w	إِن	ﲨ	ان	If	in
+12	8:32:5	w	كَانَ	ﲩ	كان	was	kāna
+12	8:32:6	w	هَٰذَا	ﲪ	هاذا	this	hādhā
+13	8:32:7	w	هُوَ	ﲫ	هو	[it]	huwa
+13	8:32:8	w	ٱلۡحَقَّ	ﲬ	الحق	the truth	l-ḥaqa
+13	8:32:9	w	مِنۡ	ﲭ	من	[of]	min
+13	8:32:10	w	عِندِكَ	ﲮ	عندك	from You	ʿindika
+13	8:32:11	w	فَأَمۡطِرۡ	ﲯ	فامطر	then (send) rain	fa-amṭir
+13	8:32:12	w	عَلَيۡنَا	ﲰ	علينا	upon us	ʿalaynā
+13	8:32:13	w	حِجَارَةٗ	ﲱ	حجارة	(of) stones	ḥijāratan
+13	8:32:14	w	مِّنَ	ﲲ	من	from	mina
+13	8:32:15	w	ٱلسَّمَآءِ	ﲳ	السماء	the sky	l-samāi
+14	8:32:16	w	أَوِ	ﲴ	او	or	awi
+14	8:32:17	w	ٱئۡتِنَا	ﲵ	ايتنا	bring (upon) us	i'tinā
+14	8:32:18	w	بِعَذَابٍ	ﲶ	بعذاب	a punishment	biʿadhābin
+14	8:32:19	w	أَلِيمٖ	ﲷ	اليم	painful	alīmin
+14	8:32:20	e	٣٢	ﲸ			
+14	8:33:1	w	وَمَا	ﲹ	وما	But not	wamā
+14	8:33:2	w	كَانَ	ﲺ	كان	is	kāna
+14	8:33:3	w	ٱللَّهُ	ﲻ	الله	(for) Allah	l-lahu
+14	8:33:4	w	لِيُعَذِّبَهُمۡ	ﲼ	ليعذبهم	that He punishes them	liyuʿadhibahum
+14	8:33:5	w	وَأَنتَ	ﲽ	وانت	while you	wa-anta
+15	8:33:6	w	فِيهِمۡۚ	ﲾﲿ	فيهم	(are) among them	fīhim
+15	8:33:7	w	وَمَا	ﳀ	وما	and not	wamā
+15	8:33:8	w	كَانَ	ﳁ	كان	is	kāna
+15	8:33:9	w	ٱللَّهُ	ﳂ	الله	Allah	l-lahu
+15	8:33:10	w	مُعَذِّبَهُمۡ	ﳃ	معذبهم	the One Who punishes them	muʿadhibahum
+15	8:33:11	w	وَهُمۡ	ﳄ	وهم	while they	wahum
+15	8:33:12	w	يَسۡتَغۡفِرُونَ	ﳅ	يستغفرون	seek forgiveness	yastaghfirūna
+15	8:33:13	e	٣٣	ﳆ			

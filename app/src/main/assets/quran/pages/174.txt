@@ -1,0 +1,153 @@
+1	7:179:1	w	وَلَقَدۡ	ﱁ	ولقد	And certainly	walaqad
+1	7:179:2	w	ذَرَأۡنَا	ﱂ	ذرانا	We have created	dharanā
+1	7:179:3	w	لِجَهَنَّمَ	ﱃ	لجهنم	for Hell	lijahannama
+1	7:179:4	w	كَثِيرٗا	ﱄ	كثيرا	many	kathīran
+1	7:179:5	w	مِّنَ	ﱅ	من	of	mina
+1	7:179:6	w	ٱلۡجِنِّ	ﱆ	الجن	the jinn	l-jini
+1	7:179:7	w	وَٱلۡإِنسِۖ	ﱇﱈ	والانس	and men	wal-insi
+1	7:179:8	w	لَهُمۡ	ﱉ	لهم	For them	lahum
+1	7:179:9	w	قُلُوبٞ	ﱊ	قلوب	(are) hearts	qulūbun
+1	7:179:10	w	لَّا	ﱋ	لا	(but) not	lā
+1	7:179:11	w	يَفۡقَهُونَ	ﱌ	يفقهون	they understand	yafqahūna
+2	7:179:12	w	بِهَا	ﱍ	بها	with them	bihā
+2	7:179:13	w	وَلَهُمۡ	ﱎ	ولهم	and for them	walahum
+2	7:179:14	w	أَعۡيُنٞ	ﱏ	اعين	(are) eyes	aʿyunun
+2	7:179:15	w	لَّا	ﱐ	لا	(but) not	lā
+2	7:179:16	w	يُبۡصِرُونَ	ﱑ	يبصرون	they see	yub'ṣirūna
+2	7:179:17	w	بِهَا	ﱒ	بها	with them	bihā
+2	7:179:18	w	وَلَهُمۡ	ﱓ	ولهم	and for them	walahum
+2	7:179:19	w	ءَاذَانٞ	ﱔ	اذان	(are) ears	ādhānun
+2	7:179:20	w	لَّا	ﱕ	لا	(but) not	lā
+2	7:179:21	w	يَسۡمَعُونَ	ﱖ	يسمعون	they hear	yasmaʿūna
+2	7:179:22	w	بِهَآۚ	ﱗﱘ	بها	with them	bihā
+3	7:179:23	w	أُوْلَٰٓئِكَ	ﱙ	اولايك	Those	ulāika
+3	7:179:24	w	كَٱلۡأَنۡعَٰمِ	ﱚ	كالانعام	(are) like cattle	kal-anʿāmi
+3	7:179:25	w	بَلۡ	ﱛ	بل	nay	bal
+3	7:179:26	w	هُمۡ	ﱜ	هم	they	hum
+3	7:179:27	w	أَضَلُّۚ	ﱝﱞ	اضل	(are) more astray	aḍallu
+3	7:179:28	w	أُوْلَٰٓئِكَ	ﱟ	اولايك	Those	ulāika
+3	7:179:29	w	هُمُ	ﱠ	هم	they	humu
+3	7:179:30	w	ٱلۡغَٰفِلُونَ	ﱡ	الغافلون	(are) the heedless	l-ghāfilūna
+3	7:179:31	e	١٧٩	ﱢ			
+3	7:180:1	w	وَلِلَّهِ	ﱣ	ولله	And for Allah	walillahi
+4	7:180:2	w	ٱلۡأَسۡمَآءُ	ﱤ	الاسماء	(are) the names	l-asmāu
+4	7:180:3	w	ٱلۡحُسۡنَىٰ	ﱥ	الحسنى	the most beautiful	l-ḥus'nā
+4	7:180:4	w	فَٱدۡعُوهُ	ﱦ	فادعوه	so invoke Him	fa-id'ʿūhu
+4	7:180:5	w	بِهَاۖ	ﱧﱨ	بها	by them	bihā
+4	7:180:6	w	وَذَرُواْ	ﱩ	وذروا	And leave	wadharū
+4	7:180:7	w	ٱلَّذِينَ	ﱪ	الذين	those who	alladhīna
+4	7:180:8	w	يُلۡحِدُونَ	ﱫ	يلحدون	deviate	yul'ḥidūna
+4	7:180:9	w	فِيٓ	ﱬ	في	concerning	fī
+4	7:180:10	w	أَسۡمَٰٓئِهِۦۚ	ﱭﱮ	اسمايه	His names	asmāihi
+5	7:180:11	w	سَيُجۡزَوۡنَ	ﱯ	سيجزون	They will be recompensed	sayuj'zawna
+5	7:180:12	w	مَا	ﱰ	ما	for what	mā
+5	7:180:13	w	كَانُواْ	ﱱ	كانوا	they used to	kānū
+5	7:180:14	w	يَعۡمَلُونَ	ﱲ	يعملون	do	yaʿmalūna
+5	7:180:15	e	١٨٠	ﱳ			
+5	7:181:1	w	وَمِمَّنۡ	ﱴ	وممن	And of (those) whom	wamimman
+5	7:181:2	w	خَلَقۡنَآ	ﱵ	خلقنا	We have created	khalaqnā
+5	7:181:3	w	أُمَّةٞ	ﱶ	امة	(is) a nation	ummatun
+5	7:181:4	w	يَهۡدُونَ	ﱷ	يهدون	who guides	yahdūna
+5	7:181:5	w	بِٱلۡحَقِّ	ﱸ	بالحق	with the truth	bil-ḥaqi
+6	7:181:6	w	وَبِهِۦ	ﱹ	وبه	and thereby	wabihi
+6	7:181:7	w	يَعۡدِلُونَ	ﱺ	يعدلون	they establish justice	yaʿdilūna
+6	7:181:8	e	١٨١	ﱻ			
+6	7:182:1	w	وَٱلَّذِينَ	ﱼ	والذين	But those who	wa-alladhīna
+6	7:182:2	w	كَذَّبُواْ	ﱽ	كذبوا	denied	kadhabū
+6	7:182:3	w	بِـَٔايَٰتِنَا	ﱾ	باياتنا	Our Signs	biāyātinā
+6	7:182:4	w	سَنَسۡتَدۡرِجُهُم	ﱿ	سنستدرجهم	We will gradually lead them	sanastadrijuhum
+7	7:182:5	w	مِّنۡ	ﲀ	من	from	min
+7	7:182:6	w	حَيۡثُ	ﲁ	حيث	where	ḥaythu
+7	7:182:7	w	لَا	ﲂ	لا	not	lā
+7	7:182:8	w	يَعۡلَمُونَ	ﲃ	يعلمون	they know	yaʿlamūna
+7	7:182:9	e	١٨٢	ﲄ			
+7	7:183:1	w	وَأُمۡلِي	ﲅ	واملي	And I will give respite	wa-um'lī
+7	7:183:2	w	لَهُمۡۚ	ﲆﲇ	لهم	to them	lahum
+7	7:183:3	w	إِنَّ	ﲈ	ان	Indeed	inna
+7	7:183:4	w	كَيۡدِي	ﲉ	كيدي	My plan	kaydī
+7	7:183:5	w	مَتِينٌ	ﲊ	متين	(is) firm	matīnun
+7	7:183:6	e	١٨٣	ﲋ			
+7	7:184:1	w	أَوَلَمۡ	ﲌ	اولم	Do not	awalam
+8	7:184:2	w	يَتَفَكَّرُواْۗ	ﲍﲎ	يتفكروا	they reflect	yatafakkarū
+8	7:184:3	w	مَا	ﲏ	ما	Not	mā
+8	7:184:4	w	بِصَاحِبِهِم	ﲐ	بصاحبهم	in their companion	biṣāḥibihim
+8	7:184:5	w	مِّن	ﲑ	من	[of]	min
+8	7:184:6	w	جِنَّةٍۚ	ﲒﲓ	جنة	(is) any madness	jinnatin
+8	7:184:7	w	إِنۡ	ﲔ	ان	Not	in
+8	7:184:8	w	هُوَ	ﲕ	هو	he	huwa
+8	7:184:9	w	إِلَّا	ﲖ	الا	(is) but	illā
+8	7:184:10	w	نَذِيرٞ	ﲗ	نذير	a warner	nadhīrun
+8	7:184:11	w	مُّبِينٌ	ﲘ	مبين	clear	mubīnun
+8	7:184:12	e	١٨٤	ﲙ			
+9	7:185:1	w	أَوَلَمۡ	ﲚ	اولم	Do not	awalam
+9	7:185:2	w	يَنظُرُواْ	ﲛ	ينظروا	they look	yanẓurū
+9	7:185:3	w	فِي	ﲜ	في	in	fī
+9	7:185:4	w	مَلَكُوتِ	ﲝ	ملكوت	(the) dominion	malakūti
+9	7:185:5	w	ٱلسَّمَٰوَٰتِ	ﲞ	السماوات	(of) the heavens	l-samāwāti
+9	7:185:6	w	وَٱلۡأَرۡضِ	ﲟ	والارض	and the earth	wal-arḍi
+9	7:185:7	w	وَمَا	ﲠ	وما	and what	wamā
+9	7:185:8	w	خَلَقَ	ﲡ	خلق	has (been) created	khalaqa
+9	7:185:9	w	ٱللَّهُ	ﲢ	الله	(by) Allah	l-lahu
+10	7:185:10	w	مِن	ﲣ	من	of	min
+10	7:185:11	w	شَيۡءٖ	ﲤ	شيء	(every)thing	shayin
+10	7:185:12	w	وَأَنۡ	ﲥ	وان	and that	wa-an
+10	7:185:13	w	عَسَىٰٓ	ﲦ	عسى	perhaps	ʿasā
+10	7:185:14	w	أَن	ﲧ	ان	[that]	an
+10	7:185:15	w	يَكُونَ	ﲨ	يكون	has	yakūna
+10	7:185:16	w	قَدِ	ﲩ	قد	verily	qadi
+10	7:185:17	w	ٱقۡتَرَبَ	ﲪ	اقترب	come near	iq'taraba
+10	7:185:18	w	أَجَلُهُمۡۖ	ﲫﲬ	اجلهم	their term	ajaluhum
+10	7:185:19	w	فَبِأَيِّ	ﲭ	فباي	So in what	fabi-ayyi
+10	7:185:20	w	حَدِيثِۭ	ﲮ	حديث	statement	ḥadīthin
+11	7:185:21	w	بَعۡدَهُۥ	ﲯ	بعده	after this	baʿdahu
+11	7:185:22	w	يُؤۡمِنُونَ	ﲰ	يومنون	will they believe	yu'minūna
+11	7:185:23	e	١٨٥	ﲱ			
+11	7:186:1	w	مَن	ﲲ	من	Whoever	man
+11	7:186:2	w	يُضۡلِلِ	ﲳ	يضلل	(is) let go astray	yuḍ'lili
+11	7:186:3	w	ٱللَّهُ	ﲴ	الله	(by) Allah	l-lahu
+11	7:186:4	w	فَلَا	ﲵ	فلا	then (there is) no	falā
+11	7:186:5	w	هَادِيَ	ﲶ	هادي	guide	hādiya
+11	7:186:6	w	لَهُۥۚ	ﲷﲸ	له	for him	lahu
+11	7:186:7	w	وَيَذَرُهُمۡ	ﲹ	ويذرهم	And He leaves them	wayadharuhum
+12	7:186:8	w	فِي	ﲺ	في	in	fī
+12	7:186:9	w	طُغۡيَٰنِهِمۡ	ﲻ	طغيانهم	their transgression	ṭugh'yānihim
+12	7:186:10	w	يَعۡمَهُونَ	ﲼ	يعمهون	wandering blindly	yaʿmahūna
+12	7:186:11	e	١٨٦	ﲽ			
+12	7:187:1	w	يَسۡـَٔلُونَكَ	ﲾ	يسالونك	They ask you	yasalūnaka
+12	7:187:2	w	عَنِ	ﲿ	عن	about	ʿani
+12	7:187:3	w	ٱلسَّاعَةِ	ﳀ	الساعة	the Hour	l-sāʿati
+12	7:187:4	w	أَيَّانَ	ﳁ	ايان	when will be	ayyāna
+12	7:187:5	w	مُرۡسَىٰهَاۖ	ﳂﳃ	مرساها	its appointed time	mur'sāhā
+13	7:187:6	w	قُلۡ	ﳄ	قل	Say	qul
+13	7:187:7	w	إِنَّمَا	ﳅ	انما	Only	innamā
+13	7:187:8	w	عِلۡمُهَا	ﳆ	علمها	its knowledge	ʿil'muhā
+13	7:187:9	w	عِندَ	ﳇ	عند	(is) with	ʿinda
+13	7:187:10	w	رَبِّيۖ	ﳈﳉ	ربي	my Lord	rabbī
+13	7:187:11	w	لَا	ﳊ	لا	no (one)	lā
+13	7:187:12	w	يُجَلِّيهَا	ﳋ	يجليها	can reveal [it]	yujallīhā
+13	7:187:13	w	لِوَقۡتِهَآ	ﳌ	لوقتها	its time	liwaqtihā
+13	7:187:14	w	إِلَّا	ﳍ	الا	except	illā
+13	7:187:15	w	هُوَۚ	ﳎﳏ	هو	Him	huwa
+13	7:187:16	w	ثَقُلَتۡ	ﳐ	ثقلت	It lays heavily	thaqulat
+13	7:187:17	w	فِي	ﳑ	في	in	fī
+14	7:187:18	w	ٱلسَّمَٰوَٰتِ	ﳒ	السماوات	the heavens	l-samāwāti
+14	7:187:19	w	وَٱلۡأَرۡضِۚ	ﳓﳔ	والارض	and the earth	wal-arḍi
+14	7:187:20	w	لَا	ﳕ	لا	Not	lā
+14	7:187:21	w	تَأۡتِيكُمۡ	ﳖ	تاتيكم	will it come to you	tatīkum
+14	7:187:22	w	إِلَّا	ﳗ	الا	but	illā
+14	7:187:23	w	بَغۡتَةٗۗ	ﳘﳙ	بغتة	suddenly	baghtatan
+14	7:187:24	w	يَسۡـَٔلُونَكَ	ﳚ	يسالونك	They ask you	yasalūnaka
+14	7:187:25	w	كَأَنَّكَ	ﳛ	كانك	as if you	ka-annaka
+14	7:187:26	w	حَفِيٌّ	ﳜ	حفي	(were) well informed	ḥafiyyun
+14	7:187:27	w	عَنۡهَاۖ	ﳝﳞ	عنها	about it	ʿanhā
+15	7:187:28	w	قُلۡ	ﳟ	قل	Say	qul
+15	7:187:29	w	إِنَّمَا	ﳠ	انما	Only	innamā
+15	7:187:30	w	عِلۡمُهَا	ﳡ	علمها	its knowledge	ʿil'muhā
+15	7:187:31	w	عِندَ	ﳢ	عند	(is) with	ʿinda
+15	7:187:32	w	ٱللَّهِ	ﳣ	الله	Allah	l-lahi
+15	7:187:33	w	وَلَٰكِنَّ	ﳤ	ولاكن	but	walākinna
+15	7:187:34	w	أَكۡثَرَ	ﳥ	اكثر	most	akthara
+15	7:187:35	w	ٱلنَّاسِ	ﳦ	الناس	(of) the people	l-nāsi
+15	7:187:36	w	لَا	ﳧ	لا	(do) not	lā
+15	7:187:37	w	يَعۡلَمُونَ	ﳨ	يعلمون	know	yaʿlamūna
+15	7:187:38	e	١٨٧	ﳩ			

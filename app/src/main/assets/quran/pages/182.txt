@@ -1,0 +1,124 @@
+1	8:41:1	w	۞ وَٱعۡلَمُوٓاْ	ﱁ ﱂ	۞ واعلموا	And know	wa-iʿ'lamū
+1	8:41:2	w	أَنَّمَا	ﱃ	انما	that what	annamā
+1	8:41:3	w	غَنِمۡتُم	ﱄ	غنمتم	you obtain (as) spoils of war	ghanim'tum
+1	8:41:4	w	مِّن	ﱅ	من	of	min
+1	8:41:5	w	شَيۡءٖ	ﱆ	شيء	anything	shayin
+1	8:41:6	w	فَأَنَّ	ﱇ	فان	then that	fa-anna
+1	8:41:7	w	لِلَّهِ	ﱈ	لله	for Allah	lillahi
+1	8:41:8	w	خُمُسَهُۥ	ﱉ	خمسه	(is) one fifth of it	khumusahu
+1	8:41:9	w	وَلِلرَّسُولِ	ﱊ	وللرسول	and for the Messenger	walilrrasūli
+2	8:41:10	w	وَلِذِي	ﱋ	ولذي	and for the	walidhī
+2	8:41:11	w	ٱلۡقُرۡبَىٰ	ﱌ	القربى	near relatives	l-qur'bā
+2	8:41:12	w	وَٱلۡيَتَٰمَىٰ	ﱍ	واليتامى	and the orphans	wal-yatāmā
+2	8:41:13	w	وَٱلۡمَسَٰكِينِ	ﱎ	والمساكين	and the needy	wal-masākīni
+2	8:41:14	w	وَٱبۡنِ	ﱏ	وابن	and the	wa-ib'ni
+2	8:41:15	w	ٱلسَّبِيلِ	ﱐ	السبيل	wayfarer	l-sabīli
+2	8:41:16	w	إِن	ﱑ	ان	if	in
+3	8:41:17	w	كُنتُمۡ	ﱒ	كنتم	you	kuntum
+3	8:41:18	w	ءَامَنتُم	ﱓ	امنتم	believe	āmantum
+3	8:41:19	w	بِٱللَّهِ	ﱔ	بالله	in Allah	bil-lahi
+3	8:41:20	w	وَمَآ	ﱕ	وما	and (in) what	wamā
+3	8:41:21	w	أَنزَلۡنَا	ﱖ	انزلنا	We sent down	anzalnā
+3	8:41:22	w	عَلَىٰ	ﱗ	على	to	ʿalā
+3	8:41:23	w	عَبۡدِنَا	ﱘ	عبدنا	Our slave	ʿabdinā
+3	8:41:24	w	يَوۡمَ	ﱙ	يوم	(on the) day	yawma
+3	8:41:25	w	ٱلۡفُرۡقَانِ	ﱚ	الفرقان	(of) the criterion	l-fur'qāni
+4	8:41:26	w	يَوۡمَ	ﱛ	يوم	(the) day	yawma
+4	8:41:27	w	ٱلۡتَقَى	ﱜ	التقى	(when) met	l-taqā
+4	8:41:28	w	ٱلۡجَمۡعَانِۗ	ﱝﱞ	الجمعان	the two forces	l-jamʿāni
+4	8:41:29	w	وَٱللَّهُ	ﱟ	والله	And Allah	wal-lahu
+4	8:41:30	w	عَلَىٰ	ﱠ	على	(is) on	ʿalā
+4	8:41:31	w	كُلِّ	ﱡ	كل	every	kulli
+4	8:41:32	w	شَيۡءٖ	ﱢ	شيء	thing	shayin
+4	8:41:33	w	قَدِيرٌ	ﱣ	قدير	All-Powerful	qadīrun
+4	8:41:34	e	٤١	ﱤ			
+4	8:42:1	w	إِذۡ	ﱥ	اذ	When	idh
+5	8:42:2	w	أَنتُم	ﱦ	انتم	you (were)	antum
+5	8:42:3	w	بِٱلۡعُدۡوَةِ	ﱧ	بالعدوة	on side of the valley	bil-ʿud'wati
+5	8:42:4	w	ٱلدُّنۡيَا	ﱨ	الدنيا	the nearer	l-dun'yā
+5	8:42:5	w	وَهُم	ﱩ	وهم	and they	wahum
+5	8:42:6	w	بِٱلۡعُدۡوَةِ	ﱪ	بالعدوة	(were) on the side	bil-ʿud'wati
+5	8:42:7	w	ٱلۡقُصۡوَىٰ	ﱫ	القصوى	the farther	l-quṣ'wā
+5	8:42:8	w	وَٱلرَّكۡبُ	ﱬ	والركب	and the caravan	wal-rakbu
+6	8:42:9	w	أَسۡفَلَ	ﱭ	اسفل	(was) lower	asfala
+6	8:42:10	w	مِنكُمۡۚ	ﱮﱯ	منكم	than you	minkum
+6	8:42:11	w	وَلَوۡ	ﱰ	ولو	And if	walaw
+6	8:42:12	w	تَوَاعَدتُّمۡ	ﱱ	تواعدتم	you (had) made an appointment	tawāʿadttum
+6	8:42:13	w	لَٱخۡتَلَفۡتُمۡ	ﱲ	لاختلفتم	certainly you would have failed	la-ikh'talaftum
+6	8:42:14	w	فِي	ﱳ	في	in	fī
+6	8:42:15	w	ٱلۡمِيعَٰدِ	ﱴ	الميعاد	the appointment	l-mīʿādi
+7	8:42:16	w	وَلَٰكِن	ﱵ	ولاكن	But	walākin
+7	8:42:17	w	لِّيَقۡضِيَ	ﱶ	ليقضي	that might accomplish	liyaqḍiya
+7	8:42:18	w	ٱللَّهُ	ﱷ	الله	Allah	l-lahu
+7	8:42:19	w	أَمۡرٗا	ﱸ	امرا	a matter	amran
+7	8:42:20	w	كَانَ	ﱹ	كان	(that) was	kāna
+7	8:42:21	w	مَفۡعُولٗا	ﱺ	مفعولا	destined	mafʿūlan
+7	8:42:22	w	لِّيَهۡلِكَ	ﱻ	ليهلك	that (might be) destroyed	liyahlika
+7	8:42:23	w	مَنۡ	ﱼ	من	(those) who	man
+8	8:42:24	w	هَلَكَ	ﱽ	هلك	(were to be) destroyed	halaka
+8	8:42:25	w	عَنۢ	ﱾ	عن	on	ʿan
+8	8:42:26	w	بَيِّنَةٖ	ﱿ	بينة	a clear evidence	bayyinatin
+8	8:42:27	w	وَيَحۡيَىٰ	ﲀ	ويحيى	and (might) live	wayaḥyā
+8	8:42:28	w	مَنۡ	ﲁ	من	(those) who	man
+8	8:42:29	w	حَيَّ	ﲂ	حي	(were to) live	ḥayya
+8	8:42:30	w	عَنۢ	ﲃ	عن	on	ʿan
+8	8:42:31	w	بَيِّنَةٖۗ	ﲄﲅ	بينة	a clear evidence	bayyinatin
+8	8:42:32	w	وَإِنَّ	ﲆ	وان	And indeed	wa-inna
+8	8:42:33	w	ٱللَّهَ	ﲇ	الله	Allah	l-laha
+9	8:42:34	w	لَسَمِيعٌ	ﲈ	لسميع	(is) All-Hearing	lasamīʿun
+9	8:42:35	w	عَلِيمٌ	ﲉ	عليم	All-Knowing	ʿalīmun
+9	8:42:36	e	٤٢	ﲊ			
+9	8:43:1	w	إِذۡ	ﲋ	اذ	When	idh
+9	8:43:2	w	يُرِيكَهُمُ	ﲌ	يريكهم	you (where) shown them	yurīkahumu
+9	8:43:3	w	ٱللَّهُ	ﲍ	الله	(by) Allah	l-lahu
+9	8:43:4	w	فِي	ﲎ	في	in	fī
+9	8:43:5	w	مَنَامِكَ	ﲏ	منامك	your dream	manāmika
+9	8:43:6	w	قَلِيلٗاۖ	ﲐﲑ	قليلا	(as) few	qalīlan
+10	8:43:7	w	وَلَوۡ	ﲒ	ولو	and if	walaw
+10	8:43:8	w	أَرَىٰكَهُمۡ	ﲓ	اراكهم	He had shown them to you	arākahum
+10	8:43:9	w	كَثِيرٗا	ﲔ	كثيرا	(as) many	kathīran
+10	8:43:10	w	لَّفَشِلۡتُمۡ	ﲕ	لفشلتم	surely you would have lost courage	lafashil'tum
+10	8:43:11	w	وَلَتَنَٰزَعۡتُمۡ	ﲖ	ولتنازعتم	and surely you would have disputed	walatanāzaʿtum
+10	8:43:12	w	فِي	ﲗ	في	in	fī
+10	8:43:13	w	ٱلۡأَمۡرِ	ﲘ	الامر	the matter	l-amri
+11	8:43:14	w	وَلَٰكِنَّ	ﲙ	ولاكن	but	walākinna
+11	8:43:15	w	ٱللَّهَ	ﲚ	الله	Allah	l-laha
+11	8:43:16	w	سَلَّمَۚ	ﲛﲜ	سلم	saved (you)	sallama
+11	8:43:17	w	إِنَّهُۥ	ﲝ	انه	Indeed, He	innahu
+11	8:43:18	w	عَلِيمُۢ	ﲞ	عليم	(is) All-Knower	ʿalīmun
+11	8:43:19	w	بِذَاتِ	ﲟ	بذات	of what is in	bidhāti
+11	8:43:20	w	ٱلصُّدُورِ	ﲠ	الصدور	the breasts	l-ṣudūri
+11	8:43:21	e	٤٣	ﲡ			
+11	8:44:1	w	وَإِذۡ	ﲢ	واذ	And when	wa-idh
+12	8:44:2	w	يُرِيكُمُوهُمۡ	ﲣ	يريكموهم	He showed them to you	yurīkumūhum
+12	8:44:3	w	إِذِ	ﲤ	اذ	when	idhi
+12	8:44:4	w	ٱلۡتَقَيۡتُمۡ	ﲥ	التقيتم	you met	l-taqaytum
+12	8:44:5	w	فِيٓ	ﲦ	في	in	fī
+12	8:44:6	w	أَعۡيُنِكُمۡ	ﲧ	اعينكم	your eyes	aʿyunikum
+12	8:44:7	w	قَلِيلٗا	ﲨ	قليلا	(as) few	qalīlan
+12	8:44:8	w	وَيُقَلِّلُكُمۡ	ﲩ	ويقللكم	and He made you (appear) as few	wayuqallilukum
+13	8:44:9	w	فِيٓ	ﲪ	في	in	fī
+13	8:44:10	w	أَعۡيُنِهِمۡ	ﲫ	اعينهم	their eyes	aʿyunihim
+13	8:44:11	w	لِيَقۡضِيَ	ﲬ	ليقضي	that might accomplish	liyaqḍiya
+13	8:44:12	w	ٱللَّهُ	ﲭ	الله	Allah might accomplish	l-lahu
+13	8:44:13	w	أَمۡرٗا	ﲮ	امرا	a matter	amran
+13	8:44:14	w	كَانَ	ﲯ	كان	(that) was	kāna
+13	8:44:15	w	مَفۡعُولٗاۗ	ﲰﲱ	مفعولا	(already) destined	mafʿūlan
+13	8:44:16	w	وَإِلَى	ﲲ	والى	And to	wa-ilā
+13	8:44:17	w	ٱللَّهِ	ﲳ	الله	Allah	l-lahi
+14	8:44:18	w	تُرۡجَعُ	ﲴ	ترجع	return	tur'jaʿu
+14	8:44:19	w	ٱلۡأُمُورُ	ﲵ	الامور	(all) the matters	l-umūru
+14	8:44:20	e	٤٤	ﲶ			
+14	8:45:1	w	يَٰٓأَيُّهَا	ﲷ	يا ايها	O you	yāayyuhā
+14	8:45:2	w	ٱلَّذِينَ	ﲸ	الذين	who	alladhīna
+14	8:45:3	w	ءَامَنُوٓاْ	ﲹ	امنوا	believe	āmanū
+14	8:45:4	w	إِذَا	ﲺ	اذا	When	idhā
+14	8:45:5	w	لَقِيتُمۡ	ﲻ	لقيتم	you meet	laqītum
+14	8:45:6	w	فِئَةٗ	ﲼ	فية	a force	fi-atan
+15	8:45:7	w	فَٱثۡبُتُواْ	ﲽ	فاثبتوا	then be firm	fa-uth'butū
+15	8:45:8	w	وَٱذۡكُرُواْ	ﲾ	واذكروا	and remember	wa-udh'kurū
+15	8:45:9	w	ٱللَّهَ	ﲿ	الله	Allah	l-laha
+15	8:45:10	w	كَثِيرٗا	ﳀ	كثيرا	much	kathīran
+15	8:45:11	w	لَّعَلَّكُمۡ	ﳁ	لعلكم	so that you may	laʿallakum
+15	8:45:12	w	تُفۡلِحُونَ	ﳂ	تفلحون	(be) successful	tuf'liḥūna
+15	8:45:13	e	٤٥	ﳃ			

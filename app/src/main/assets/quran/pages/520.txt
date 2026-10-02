@@ -1,0 +1,130 @@
+1	50:36:1	w	وَكَمۡ	ﱁ	وكم	And how many	wakam
+1	50:36:2	w	أَهۡلَكۡنَا	ﱂ	اهلكنا	We destroyed	ahlaknā
+1	50:36:3	w	قَبۡلَهُم	ﱃ	قبلهم	before them	qablahum
+1	50:36:4	w	مِّن	ﱄ	من	of	min
+1	50:36:5	w	قَرۡنٍ	ﱅ	قرن	a generation	qarnin
+1	50:36:6	w	هُمۡ	ﱆ	هم	they	hum
+1	50:36:7	w	أَشَدُّ	ﱇ	اشد	(were) stronger	ashaddu
+1	50:36:8	w	مِنۡهُم	ﱈ	منهم	than them	min'hum
+1	50:36:9	w	بَطۡشٗا	ﱉ	بطشا	(in) power	baṭshan
+1	50:36:10	w	فَنَقَّبُواْ	ﱊ	فنقبوا	so they explored	fanaqqabū
+2	50:36:11	w	فِي	ﱋ	في	throughout	fī
+2	50:36:12	w	ٱلۡبِلَٰدِ	ﱌ	البلاد	the lands	l-bilādi
+2	50:36:13	w	هَلۡ	ﱍ	هل	Is (there)	hal
+2	50:36:14	w	مِن	ﱎ	من	any	min
+2	50:36:15	w	مَّحِيصٍ	ﱏ	محيص	place of escape	maḥīṣin
+2	50:36:16	e	٣٦	ﱐ			
+2	50:37:1	w	إِنَّ	ﱑ	ان	Indeed	inna
+2	50:37:2	w	فِي	ﱒ	في	in	fī
+2	50:37:3	w	ذَٰلِكَ	ﱓ	ذالك	that	dhālika
+2	50:37:4	w	لَذِكۡرَىٰ	ﱔ	لذكرى	surely, is a reminder	ladhik'rā
+2	50:37:5	w	لِمَن	ﱕ	لمن	for (one) who	liman
+3	50:37:6	w	كَانَ	ﱖ	كان	is	kāna
+3	50:37:7	w	لَهُۥ	ﱗ	له	for him	lahu
+3	50:37:8	w	قَلۡبٌ	ﱘ	قلب	a heart	qalbun
+3	50:37:9	w	أَوۡ	ﱙ	او	or	aw
+3	50:37:10	w	أَلۡقَى	ﱚ	القى	(who) gives ear	alqā
+3	50:37:11	w	ٱلسَّمۡعَ	ﱛ	السمع	(who) gives ear	l-samʿa
+3	50:37:12	w	وَهُوَ	ﱜ	وهو	while he	wahuwa
+3	50:37:13	w	شَهِيدٞ	ﱝ	شهيد	(is) a witness	shahīdun
+3	50:37:14	e	٣٧	ﱞ			
+3	50:38:1	w	وَلَقَدۡ	ﱟ	ولقد	And certainly	walaqad
+3	50:38:2	w	خَلَقۡنَا	ﱠ	خلقنا	We created	khalaqnā
+4	50:38:3	w	ٱلسَّمَٰوَٰتِ	ﱡ	السماوات	the heavens	l-samāwāti
+4	50:38:4	w	وَٱلۡأَرۡضَ	ﱢ	والارض	and the earth	wal-arḍa
+4	50:38:5	w	وَمَا	ﱣ	وما	and whatever	wamā
+4	50:38:6	w	بَيۡنَهُمَا	ﱤ	بينهما	(is) between both of them	baynahumā
+4	50:38:7	w	فِي	ﱥ	في	in	fī
+4	50:38:8	w	سِتَّةِ	ﱦ	ستة	six	sittati
+4	50:38:9	w	أَيَّامٖ	ﱧ	ايام	periods	ayyāmin
+4	50:38:10	w	وَمَا	ﱨ	وما	and (did) not	wamā
+4	50:38:11	w	مَسَّنَا	ﱩ	مسنا	touch Us	massanā
+5	50:38:12	w	مِن	ﱪ	من	any	min
+5	50:38:13	w	لُّغُوبٖ	ﱫ	لغوب	fatigue	lughūbin
+5	50:38:14	e	٣٨	ﱬ			
+5	50:39:1	w	فَٱصۡبِرۡ	ﱭ	فاصبر	So be patient	fa-iṣ'bir
+5	50:39:2	w	عَلَىٰ	ﱮ	على	over	ʿalā
+5	50:39:3	w	مَا	ﱯ	ما	what	mā
+5	50:39:4	w	يَقُولُونَ	ﱰ	يقولون	they say	yaqūlūna
+5	50:39:5	w	وَسَبِّحۡ	ﱱ	وسبح	and glorify	wasabbiḥ
+5	50:39:6	w	بِحَمۡدِ	ﱲ	بحمد	(the) praise	biḥamdi
+5	50:39:7	w	رَبِّكَ	ﱳ	ربك	(of) your Lord	rabbika
+6	50:39:8	w	قَبۡلَ	ﱴ	قبل	before	qabla
+6	50:39:9	w	طُلُوعِ	ﱵ	طلوع	(the) rising	ṭulūʿi
+6	50:39:10	w	ٱلشَّمۡسِ	ﱶ	الشمس	(of) the sun	l-shamsi
+6	50:39:11	w	وَقَبۡلَ	ﱷ	وقبل	and before	waqabla
+6	50:39:12	w	ٱلۡغُرُوبِ	ﱸ	الغروب	the setting	l-ghurūbi
+6	50:39:13	e	٣٩	ﱹ			
+6	50:40:1	w	وَمِنَ	ﱺ	ومن	And of	wamina
+6	50:40:2	w	ٱلَّيۡلِ	ﱻ	الليل	the night	al-layli
+6	50:40:3	w	فَسَبِّحۡهُ	ﱼ	فسبحه	glorify Him	fasabbiḥ'hu
+7	50:40:4	w	وَأَدۡبَٰرَ	ﱽ	وادبار	and after	wa-adbāra
+7	50:40:5	w	ٱلسُّجُودِ	ﱾ	السجود	the prostration	l-sujūdi
+7	50:40:6	e	٤٠	ﱿ			
+7	50:41:1	w	وَٱسۡتَمِعۡ	ﲀ	واستمع	And listen	wa-is'tamiʿ
+7	50:41:2	w	يَوۡمَ	ﲁ	يوم	(The) Day	yawma
+7	50:41:3	w	يُنَادِ	ﲂ	يناد	will call	yunādi
+7	50:41:4	w	ٱلۡمُنَادِ	ﲃ	المناد	the caller	l-munādi
+7	50:41:5	w	مِن	ﲄ	من	from	min
+7	50:41:6	w	مَّكَانٖ	ﲅ	مكان	a place	makānin
+7	50:41:7	w	قَرِيبٖ	ﲆ	قريب	near	qarībin
+8	50:41:8	e	٤١	ﲇ			
+8	50:42:1	w	يَوۡمَ	ﲈ	يوم	(The) Day	yawma
+8	50:42:2	w	يَسۡمَعُونَ	ﲉ	يسمعون	they will hear	yasmaʿūna
+8	50:42:3	w	ٱلصَّيۡحَةَ	ﲊ	الصيحة	the Blast	l-ṣayḥata
+8	50:42:4	w	بِٱلۡحَقِّۚ	ﲋﲌ	بالحق	in truth	bil-ḥaqi
+8	50:42:5	w	ذَٰلِكَ	ﲍ	ذالك	That	dhālika
+8	50:42:6	w	يَوۡمُ	ﲎ	يوم	(is the) Day	yawmu
+8	50:42:7	w	ٱلۡخُرُوجِ	ﲏ	الخروج	(of) coming forth	l-khurūji
+8	50:42:8	e	٤٢	ﲐ			
+8	50:43:1	w	إِنَّا	ﲑ	انا	Indeed, We	innā
+9	50:43:2	w	نَحۡنُ	ﲒ	نحن	[We]	naḥnu
+9	50:43:3	w	نُحۡيِۦ	ﲓ	نحيي	[We] give life	nuḥ'yī
+9	50:43:4	w	وَنُمِيتُ	ﲔ	ونميت	and [We] cause death	wanumītu
+9	50:43:5	w	وَإِلَيۡنَا	ﲕ	والينا	and to Us	wa-ilaynā
+9	50:43:6	w	ٱلۡمَصِيرُ	ﲖ	المصير	(is) the final return	l-maṣīru
+9	50:43:7	e	٤٣	ﲗ			
+9	50:44:1	w	يَوۡمَ	ﲘ	يوم	(The) Day	yawma
+9	50:44:2	w	تَشَقَّقُ	ﲙ	تشقق	will split	tashaqqaqu
+9	50:44:3	w	ٱلۡأَرۡضُ	ﲚ	الارض	the earth	l-arḍu
+10	50:44:4	w	عَنۡهُمۡ	ﲛ	عنهم	from them	ʿanhum
+10	50:44:5	w	سِرَاعٗاۚ	ﲜﲝ	سراعا	hurrying	sirāʿan
+10	50:44:6	w	ذَٰلِكَ	ﲞ	ذالك	That	dhālika
+10	50:44:7	w	حَشۡرٌ	ﲟ	حشر	(is) a gathering	ḥashrun
+10	50:44:8	w	عَلَيۡنَا	ﲠ	علينا	for Us	ʿalaynā
+10	50:44:9	w	يَسِيرٞ	ﲡ	يسير	easy	yasīrun
+10	50:44:10	e	٤٤	ﲢ			
+10	50:45:1	w	نَّحۡنُ	ﲣ	نحن	We	naḥnu
+10	50:45:2	w	أَعۡلَمُ	ﲤ	اعلم	know best	aʿlamu
+10	50:45:3	w	بِمَا	ﲥ	بما	[of] what	bimā
+10	50:45:4	w	يَقُولُونَۖ	ﲦﲧ	يقولون	they say	yaqūlūna
+11	50:45:5	w	وَمَآ	ﲨ	وما	and not	wamā
+11	50:45:6	w	أَنتَ	ﲩ	انت	(are) you	anta
+11	50:45:7	w	عَلَيۡهِم	ﲪ	عليهم	over them	ʿalayhim
+11	50:45:8	w	بِجَبَّارٖۖ	ﲫﲬ	بجبار	the one to compel	bijabbārin
+11	50:45:9	w	فَذَكِّرۡ	ﲭ	فذكر	But remind	fadhakkir
+11	50:45:10	w	بِٱلۡقُرۡءَانِ	ﲮ	بالقران	with the Quran	bil-qur'āni
+11	50:45:11	w	مَن	ﲯ	من	whoever	man
+11	50:45:12	w	يَخَافُ	ﲰ	يخاف	fears	yakhāfu
+11	50:45:13	w	وَعِيدِ	ﲱ	وعيد	My threat	waʿīdi
+11	50:45:14	e	٤٥	ﲲ			
+14	51:1:1	w	وَٱلذَّٰرِيَٰتِ	ﲳ	والذاريات	By those scattering	wal-dhāriyāti
+14	51:1:2	w	ذَرۡوٗا	ﲴ	ذروا	dispersing	dharwan
+14	51:1:3	e	١	ﲵ			
+14	51:2:1	w	فَٱلۡحَٰمِلَٰتِ	ﲶ	فالحاملات	And those carrying	fal-ḥāmilāti
+14	51:2:2	w	وِقۡرٗا	ﲷ	وقرا	a load	wiq'ran
+14	51:2:3	e	٢	ﲸ			
+14	51:3:1	w	فَٱلۡجَٰرِيَٰتِ	ﲹ	فالجاريات	And those sailing	fal-jāriyāti
+14	51:3:2	w	يُسۡرٗا	ﲺ	يسرا	(with) ease	yus'ran
+14	51:3:3	e	٣	ﲻ			
+15	51:4:1	w	فَٱلۡمُقَسِّمَٰتِ	ﲼ	فالمقسمات	And those distributing	fal-muqasimāti
+15	51:4:2	w	أَمۡرًا	ﲽ	امرا	Command	amran
+15	51:4:3	e	٤	ﲾ			
+15	51:5:1	w	إِنَّمَا	ﲿ	انما	Indeed, what	innamā
+15	51:5:2	w	تُوعَدُونَ	ﳀ	توعدون	you are promised	tūʿadūna
+15	51:5:3	w	لَصَادِقٞ	ﳁ	لصادق	(is) surely true	laṣādiqun
+15	51:5:4	e	٥	ﳂ			
+15	51:6:1	w	وَإِنَّ	ﳃ	وان	And indeed	wa-inna
+15	51:6:2	w	ٱلدِّينَ	ﳄ	الدين	the Judgment	l-dīna
+15	51:6:3	w	لَوَٰقِعٞ	ﳅ	لواقع	(is) surely to occur	lawāqiʿun
+15	51:6:4	e	٦	ﳆ			

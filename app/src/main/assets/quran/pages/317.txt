@@ -1,0 +1,146 @@
+1	20:77:1	w	وَلَقَدۡ	ﱁ	ولقد	And verily	walaqad
+1	20:77:2	w	أَوۡحَيۡنَآ	ﱂ	اوحينا	We inspired	awḥaynā
+1	20:77:3	w	إِلَىٰ	ﱃ	الى	to	ilā
+1	20:77:4	w	مُوسَىٰٓ	ﱄ	موسى	Musa	mūsā
+1	20:77:5	w	أَنۡ	ﱅ	ان	that	an
+1	20:77:6	w	أَسۡرِ	ﱆ	اسر	Travel by night	asri
+1	20:77:7	w	بِعِبَادِي	ﱇ	بعبادي	with My slaves	biʿibādī
+1	20:77:8	w	فَٱضۡرِبۡ	ﱈ	فاضرب	and strike	fa-iḍ'rib
+1	20:77:9	w	لَهُمۡ	ﱉ	لهم	for them	lahum
+1	20:77:10	w	طَرِيقٗا	ﱊ	طريقا	a path	ṭarīqan
+2	20:77:11	w	فِي	ﱋ	في	in	fī
+2	20:77:12	w	ٱلۡبَحۡرِ	ﱌ	البحر	the sea	l-baḥri
+2	20:77:13	w	يَبَسٗا	ﱍ	يبسا	dry	yabasan
+2	20:77:14	w	لَّا	ﱎ	لا	not	lā
+2	20:77:15	w	تَخَٰفُ	ﱏ	تخاف	fearing	takhāfu
+2	20:77:16	w	دَرَكٗا	ﱐ	دركا	to be overtaken	darakan
+2	20:77:17	w	وَلَا	ﱑ	ولا	and not	walā
+2	20:77:18	w	تَخۡشَىٰ	ﱒ	تخشى	being afraid	takhshā
+2	20:77:19	e	٧٧	ﱓ			
+2	20:78:1	w	فَأَتۡبَعَهُمۡ	ﱔ	فاتبعهم	Then followed them	fa-atbaʿahum
+2	20:78:2	w	فِرۡعَوۡنُ	ﱕ	فرعون	Firaun	fir'ʿawnu
+3	20:78:3	w	بِجُنُودِهِۦ	ﱖ	بجنوده	with his forces	bijunūdihi
+3	20:78:4	w	فَغَشِيَهُم	ﱗ	فغشيهم	but covered them	faghashiyahum
+3	20:78:5	w	مِّنَ	ﱘ	من	from	mina
+3	20:78:6	w	ٱلۡيَمِّ	ﱙ	اليم	the sea	l-yami
+3	20:78:7	w	مَا	ﱚ	ما	what	mā
+3	20:78:8	w	غَشِيَهُمۡ	ﱛ	غشيهم	covered them	ghashiyahum
+3	20:78:9	e	٧٨	ﱜ			
+3	20:79:1	w	وَأَضَلَّ	ﱝ	واضل	And led astray	wa-aḍalla
+3	20:79:2	w	فِرۡعَوۡنُ	ﱞ	فرعون	Firaun	fir'ʿawnu
+3	20:79:3	w	قَوۡمَهُۥ	ﱟ	قومه	his people	qawmahu
+4	20:79:4	w	وَمَا	ﱠ	وما	and (did) not	wamā
+4	20:79:5	w	هَدَىٰ	ﱡ	هدى	guide them	hadā
+4	20:79:6	e	٧٩	ﱢ			
+4	20:80:1	w	يَٰبَنِيٓ	ﱣ	يا بني	O Children of Israel	yābanī
+4	20:80:2	w	إِسۡرَٰٓءِيلَ	ﱤ	اسراييل	O Children of Israel	is'rāīla
+4	20:80:3	w	قَدۡ	ﱥ	قد	Verily	qad
+4	20:80:4	w	أَنجَيۡنَٰكُم	ﱦ	انجيناكم	We delivered you	anjaynākum
+4	20:80:5	w	مِّنۡ	ﱧ	من	from	min
+4	20:80:6	w	عَدُوِّكُمۡ	ﱨ	عدوكم	your enemy	ʿaduwwikum
+4	20:80:7	w	وَوَٰعَدۡنَٰكُمۡ	ﱩ	وواعدناكم	and We made a covenant with you	wawāʿadnākum
+5	20:80:8	w	جَانِبَ	ﱪ	جانب	on (the) side	jāniba
+5	20:80:9	w	ٱلطُّورِ	ﱫ	الطور	(of) the Mount	l-ṭūri
+5	20:80:10	w	ٱلۡأَيۡمَنَ	ﱬ	الايمن	the right	l-aymana
+5	20:80:11	w	وَنَزَّلۡنَا	ﱭ	ونزلنا	and We sent down	wanazzalnā
+5	20:80:12	w	عَلَيۡكُمُ	ﱮ	عليكم	to you	ʿalaykumu
+5	20:80:13	w	ٱلۡمَنَّ	ﱯ	المن	the Manna	l-mana
+5	20:80:14	w	وَٱلسَّلۡوَىٰ	ﱰ	والسلوى	and the quails	wal-salwā
+5	20:80:15	e	٨٠	ﱱ			
+5	20:81:1	w	كُلُواْ	ﱲ	كلوا	Eat	kulū
+5	20:81:2	w	مِن	ﱳ	من	of	min
+6	20:81:3	w	طَيِّبَٰتِ	ﱴ	طيبات	(the) good things	ṭayyibāti
+6	20:81:4	w	مَا	ﱵ	ما	which	mā
+6	20:81:5	w	رَزَقۡنَٰكُمۡ	ﱶ	رزقناكم	We have provided you	razaqnākum
+6	20:81:6	w	وَلَا	ﱷ	ولا	and (do) not	walā
+6	20:81:7	w	تَطۡغَوۡاْ	ﱸ	تطغوا	transgress	taṭghaw
+6	20:81:8	w	فِيهِ	ﱹ	فيه	therein	fīhi
+6	20:81:9	w	فَيَحِلَّ	ﱺ	فيحل	lest should descend	fayaḥilla
+6	20:81:10	w	عَلَيۡكُمۡ	ﱻ	عليكم	upon you	ʿalaykum
+6	20:81:11	w	غَضَبِيۖ	ﱼﱽ	غضبي	My Anger	ghaḍabī
+7	20:81:12	w	وَمَن	ﱾ	ومن	And whoever	waman
+7	20:81:13	w	يَحۡلِلۡ	ﱿ	يحلل	on whom descends	yaḥlil
+7	20:81:14	w	عَلَيۡهِ	ﲀ	عليه	on whom descends	ʿalayhi
+7	20:81:15	w	غَضَبِي	ﲁ	غضبي	My Anger	ghaḍabī
+7	20:81:16	w	فَقَدۡ	ﲂ	فقد	indeed	faqad
+7	20:81:17	w	هَوَىٰ	ﲃ	هوى	he (has) perished	hawā
+7	20:81:18	e	٨١	ﲄ			
+7	20:82:1	w	وَإِنِّي	ﲅ	واني	But indeed, I Am	wa-innī
+7	20:82:2	w	لَغَفَّارٞ	ﲆ	لغفار	the Perpetual Forgiver	laghaffārun
+7	20:82:3	w	لِّمَن	ﲇ	لمن	of whoever	liman
+7	20:82:4	w	تَابَ	ﲈ	تاب	repents	tāba
+8	20:82:5	w	وَءَامَنَ	ﲉ	وامن	and believes	waāmana
+8	20:82:6	w	وَعَمِلَ	ﲊ	وعمل	and does	waʿamila
+8	20:82:7	w	صَٰلِحٗا	ﲋ	صالحا	righteous (deeds)	ṣāliḥan
+8	20:82:8	w	ثُمَّ	ﲌ	ثم	then	thumma
+8	20:82:9	w	ٱهۡتَدَىٰ	ﲍ	اهتدى	remains guided	ih'tadā
+8	20:82:10	e	٨٢	ﲎ			
+8	20:83:1	w	۞ وَمَآ	ﲏ ﲐ	۞ وما	And what	wamā
+8	20:83:2	w	أَعۡجَلَكَ	ﲑ	اعجلك	made you hasten	aʿjalaka
+8	20:83:3	w	عَن	ﲒ	عن	from	ʿan
+9	20:83:4	w	قَوۡمِكَ	ﲓ	قومك	your people	qawmika
+9	20:83:5	w	يَٰمُوسَىٰ	ﲔ	يا موسى	O Musa	yāmūsā
+9	20:83:6	e	٨٣	ﲕ			
+9	20:84:1	w	قَالَ	ﲖ	قال	He said	qāla
+9	20:84:2	w	هُمۡ	ﲗ	هم	They	hum
+9	20:84:3	w	أُوْلَآءِ	ﲘ	اولاء	(are) close	ulāi
+9	20:84:4	w	عَلَىٰٓ	ﲙ	على	upon	ʿalā
+9	20:84:5	w	أَثَرِي	ﲚ	اثري	my tracks	atharī
+9	20:84:6	w	وَعَجِلۡتُ	ﲛ	وعجلت	and I hastened	waʿajil'tu
+9	20:84:7	w	إِلَيۡكَ	ﲜ	اليك	to you	ilayka
+10	20:84:8	w	رَبِّ	ﲝ	رب	my Lord	rabbi
+10	20:84:9	w	لِتَرۡضَىٰ	ﲞ	لترضى	that You be pleased	litarḍā
+10	20:84:10	e	٨٤	ﲟ			
+10	20:85:1	w	قَالَ	ﲠ	قال	He said	qāla
+10	20:85:2	w	فَإِنَّا	ﲡ	فانا	But indeed, We	fa-innā
+10	20:85:3	w	قَدۡ	ﲢ	قد	[verily]	qad
+10	20:85:4	w	فَتَنَّا	ﲣ	فتنا	We (have) tried	fatannā
+10	20:85:5	w	قَوۡمَكَ	ﲤ	قومك	your people	qawmaka
+10	20:85:6	w	مِنۢ	ﲥ	من	after you	min
+10	20:85:7	w	بَعۡدِكَ	ﲦ	بعدك	after you	baʿdika
+10	20:85:8	w	وَأَضَلَّهُمُ	ﲧ	واضلهم	and has led them astray	wa-aḍallahumu
+11	20:85:9	w	ٱلسَّامِرِيُّ	ﲨ	السامري	the Samiri	l-sāmiriyu
+11	20:85:10	e	٨٥	ﲩ			
+11	20:86:1	w	فَرَجَعَ	ﲪ	فرجع	Then Musa returned	farajaʿa
+11	20:86:2	w	مُوسَىٰٓ	ﲫ	موسى	Then Musa returned	mūsā
+11	20:86:3	w	إِلَىٰ	ﲬ	الى	to	ilā
+11	20:86:4	w	قَوۡمِهِۦ	ﲭ	قومه	his people	qawmihi
+11	20:86:5	w	غَضۡبَٰنَ	ﲮ	غضبان	angry	ghaḍbāna
+11	20:86:6	w	أَسِفٗاۚ	ﲯﲰ	اسفا	(and) sorrowful	asifan
+11	20:86:7	w	قَالَ	ﲱ	قال	He said	qāla
+12	20:86:8	w	يَٰقَوۡمِ	ﲲ	يا قوم	O my people	yāqawmi
+12	20:86:9	w	أَلَمۡ	ﲳ	الم	Did not	alam
+12	20:86:10	w	يَعِدۡكُمۡ	ﲴ	يعدكم	promise you	yaʿid'kum
+12	20:86:11	w	رَبُّكُمۡ	ﲵ	ربكم	your Lord	rabbukum
+12	20:86:12	w	وَعۡدًا	ﲶ	وعدا	a promise	waʿdan
+12	20:86:13	w	حَسَنًاۚ	ﲷﲸ	حسنا	good	ḥasanan
+12	20:86:14	w	أَفَطَالَ	ﲹ	افطال	Then, did seem long	afaṭāla
+12	20:86:15	w	عَلَيۡكُمُ	ﲺ	عليكم	to you	ʿalaykumu
+12	20:86:16	w	ٱلۡعَهۡدُ	ﲻ	العهد	the promise	l-ʿahdu
+13	20:86:17	w	أَمۡ	ﲼ	ام	or	am
+13	20:86:18	w	أَرَدتُّمۡ	ﲽ	اردتم	did you desire	aradttum
+13	20:86:19	w	أَن	ﲾ	ان	that	an
+13	20:86:20	w	يَحِلَّ	ﲿ	يحل	descend	yaḥilla
+13	20:86:21	w	عَلَيۡكُمۡ	ﳀ	عليكم	upon you	ʿalaykum
+13	20:86:22	w	غَضَبٞ	ﳁ	غضب	(the) Anger	ghaḍabun
+13	20:86:23	w	مِّن	ﳂ	من	of	min
+13	20:86:24	w	رَّبِّكُمۡ	ﳃ	ربكم	your Lord	rabbikum
+13	20:86:25	w	فَأَخۡلَفۡتُم	ﳄ	فاخلفتم	so you broke	fa-akhlaftum
+14	20:86:26	w	مَّوۡعِدِي	ﳅ	موعدي	(the) promise to me	mawʿidī
+14	20:86:27	e	٨٦	ﳆ			
+14	20:87:1	w	قَالُواْ	ﳇ	قالوا	They said	qālū
+14	20:87:2	w	مَآ	ﳈ	ما	Not	mā
+14	20:87:3	w	أَخۡلَفۡنَا	ﳉ	اخلفنا	we broke	akhlafnā
+14	20:87:4	w	مَوۡعِدَكَ	ﳊ	موعدك	promise to you	mawʿidaka
+14	20:87:5	w	بِمَلۡكِنَا	ﳋ	بملكنا	by our will	bimalkinā
+14	20:87:6	w	وَلَٰكِنَّا	ﳌ	ولاكنا	but we	walākinnā
+14	20:87:7	w	حُمِّلۡنَآ	ﳍ	حملنا	[we] were made to carry	ḥummil'nā
+15	20:87:8	w	أَوۡزَارٗا	ﳎ	اوزارا	burdens	awzāran
+15	20:87:9	w	مِّن	ﳏ	من	from	min
+15	20:87:10	w	زِينَةِ	ﳐ	زينة	ornaments	zīnati
+15	20:87:11	w	ٱلۡقَوۡمِ	ﳑ	القوم	(of) the people	l-qawmi
+15	20:87:12	w	فَقَذَفۡنَٰهَا	ﳒ	فقذفناها	so we threw them	faqadhafnāhā
+15	20:87:13	w	فَكَذَٰلِكَ	ﳓ	فكذالك	and thus	fakadhālika
+15	20:87:14	w	أَلۡقَى	ﳔ	القى	threw	alqā
+15	20:87:15	w	ٱلسَّامِرِيُّ	ﳕ	السامري	the Samiri	l-sāmiriyu
+15	20:87:16	e	٨٧	ﳖ			

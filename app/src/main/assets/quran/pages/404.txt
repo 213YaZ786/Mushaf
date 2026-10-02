@@ -1,0 +1,120 @@
+1	29:64:1	w	وَمَا	ﱁ	وما	And not	wamā
+1	29:64:2	w	هَٰذِهِ	ﱂ	هاذه	(is) this	hādhihi
+1	29:64:3	w	ٱلۡحَيَوٰةُ	ﱃ	الحياة	life	l-ḥayatu
+1	29:64:4	w	ٱلدُّنۡيَآ	ﱄ	الدنيا	(of) the world	l-dun'yā
+1	29:64:5	w	إِلَّا	ﱅ	الا	but	illā
+1	29:64:6	w	لَهۡوٞ	ﱆ	لهو	amusement	lahwun
+1	29:64:7	w	وَلَعِبٞۚ	ﱇﱈ	ولعب	and play	walaʿibun
+1	29:64:8	w	وَإِنَّ	ﱉ	وان	And indeed	wa-inna
+1	29:64:9	w	ٱلدَّارَ	ﱊ	الدار	the Home	l-dāra
+1	29:64:10	w	ٱلۡأٓخِرَةَ	ﱋ	الاخرة	(of) the Hereafter	l-ākhirata
+1	29:64:11	w	لَهِيَ	ﱌ	لهي	surely, it	lahiya
+2	29:64:12	w	ٱلۡحَيَوَانُۚ	ﱍﱎ	الحيوان	(is) the life	l-ḥayawānu
+2	29:64:13	w	لَوۡ	ﱏ	لو	if only	law
+2	29:64:14	w	كَانُواْ	ﱐ	كانوا	they	kānū
+2	29:64:15	w	يَعۡلَمُونَ	ﱑ	يعلمون	know	yaʿlamūna
+2	29:64:16	e	٦٤	ﱒ			
+2	29:65:1	w	فَإِذَا	ﱓ	فاذا	And when	fa-idhā
+2	29:65:2	w	رَكِبُواْ	ﱔ	ركبوا	they embark	rakibū
+2	29:65:3	w	فِي	ﱕ	في	[in]	fī
+2	29:65:4	w	ٱلۡفُلۡكِ	ﱖ	الفلك	the ship	l-ful'ki
+2	29:65:5	w	دَعَوُاْ	ﱗ	دعوا	they call	daʿawū
+2	29:65:6	w	ٱللَّهَ	ﱘ	الله	Allah	l-laha
+3	29:65:7	w	مُخۡلِصِينَ	ﱙ	مخلصين	(being) sincere	mukh'liṣīna
+3	29:65:8	w	لَهُ	ﱚ	له	to Him	lahu
+3	29:65:9	w	ٱلدِّينَ	ﱛ	الدين	(in) the religion	l-dīna
+3	29:65:10	w	فَلَمَّا	ﱜ	فلما	But when	falammā
+3	29:65:11	w	نَجَّىٰهُمۡ	ﱝ	نجاهم	He delivers them	najjāhum
+3	29:65:12	w	إِلَى	ﱞ	الى	to	ilā
+3	29:65:13	w	ٱلۡبَرِّ	ﱟ	البر	the land	l-bari
+3	29:65:14	w	إِذَا	ﱠ	اذا	behold	idhā
+3	29:65:15	w	هُمۡ	ﱡ	هم	they	hum
+3	29:65:16	w	يُشۡرِكُونَ	ﱢ	يشركون	associate partners (with Him)	yush'rikūna
+3	29:65:17	e	٦٥	ﱣ			
+4	29:66:1	w	لِيَكۡفُرُواْ	ﱤ	ليكفروا	So that they may deny	liyakfurū
+4	29:66:2	w	بِمَآ	ﱥ	بما	[in] what	bimā
+4	29:66:3	w	ءَاتَيۡنَٰهُمۡ	ﱦ	اتيناهم	We have given them	ātaynāhum
+4	29:66:4	w	وَلِيَتَمَتَّعُواْۚ	ﱧﱨ	وليتمتعوا	and they may enjoy (themselves)	waliyatamattaʿū
+4	29:66:5	w	فَسَوۡفَ	ﱩ	فسوف	But soon	fasawfa
+4	29:66:6	w	يَعۡلَمُونَ	ﱪ	يعلمون	they will know	yaʿlamūna
+4	29:66:7	e	٦٦	ﱫ			
+5	29:67:1	w	أَوَلَمۡ	ﱬ	اولم	Do not	awalam
+5	29:67:2	w	يَرَوۡاْ	ﱭ	يروا	they see	yaraw
+5	29:67:3	w	أَنَّا	ﱮ	انا	that We	annā
+5	29:67:4	w	جَعَلۡنَا	ﱯ	جعلنا	have made	jaʿalnā
+5	29:67:5	w	حَرَمًا	ﱰ	حرما	a Sanctuary	ḥaraman
+5	29:67:6	w	ءَامِنٗا	ﱱ	امنا	secure	āminan
+5	29:67:7	w	وَيُتَخَطَّفُ	ﱲ	ويتخطف	while are being taken away	wayutakhaṭṭafu
+5	29:67:8	w	ٱلنَّاسُ	ﱳ	الناس	the people	l-nāsu
+5	29:67:9	w	مِنۡ	ﱴ	من	around them	min
+6	29:67:10	w	حَوۡلِهِمۡۚ	ﱵﱶ	حولهم	around them	ḥawlihim
+6	29:67:11	w	أَفَبِٱلۡبَٰطِلِ	ﱷ	افبالباطل	Then do in (the) falsehood	afabil-bāṭili
+6	29:67:12	w	يُؤۡمِنُونَ	ﱸ	يومنون	they believe	yu'minūna
+6	29:67:13	w	وَبِنِعۡمَةِ	ﱹ	وبنعمة	and in (the) Favor	wabiniʿ'mati
+6	29:67:14	w	ٱللَّهِ	ﱺ	الله	(of) Allah	l-lahi
+6	29:67:15	w	يَكۡفُرُونَ	ﱻ	يكفرون	they disbelieve	yakfurūna
+6	29:67:16	e	٦٧	ﱼ			
+7	29:68:1	w	وَمَنۡ	ﱽ	ومن	And who	waman
+7	29:68:2	w	أَظۡلَمُ	ﱾ	اظلم	(is) more unjust	aẓlamu
+7	29:68:3	w	مِمَّنِ	ﱿ	ممن	than (he) who	mimmani
+7	29:68:4	w	ٱفۡتَرَىٰ	ﲀ	افترى	invents	if'tarā
+7	29:68:5	w	عَلَى	ﲁ	على	against	ʿalā
+7	29:68:6	w	ٱللَّهِ	ﲂ	الله	Allah	l-lahi
+7	29:68:7	w	كَذِبًا	ﲃ	كذبا	a lie	kadhiban
+7	29:68:8	w	أَوۡ	ﲄ	او	or	aw
+7	29:68:9	w	كَذَّبَ	ﲅ	كذب	denies	kadhaba
+7	29:68:10	w	بِٱلۡحَقِّ	ﲆ	بالحق	the truth	bil-ḥaqi
+7	29:68:11	w	لَمَّا	ﲇ	لما	when	lammā
+7	29:68:12	w	جَآءَهُۥٓۚ	ﲈﲉ	جاءه	it has come to him	jāahu
+8	29:68:13	w	أَلَيۡسَ	ﲊ	اليس	Is there not	alaysa
+8	29:68:14	w	فِي	ﲋ	في	in	fī
+8	29:68:15	w	جَهَنَّمَ	ﲌ	جهنم	Hell	jahannama
+8	29:68:16	w	مَثۡوٗى	ﲍ	مثوى	an abode	mathwan
+8	29:68:17	w	لِّلۡكَٰفِرِينَ	ﲎ	للكافرين	for the disbelievers	lil'kāfirīna
+8	29:68:18	e	٦٨	ﲏ			
+8	29:69:1	w	وَٱلَّذِينَ	ﲐ	والذين	And those who	wa-alladhīna
+8	29:69:2	w	جَٰهَدُواْ	ﲑ	جاهدوا	strive	jāhadū
+9	29:69:3	w	فِينَا	ﲒ	فينا	for Us	fīnā
+9	29:69:4	w	لَنَهۡدِيَنَّهُمۡ	ﲓ	لنهدينهم	We will surely, guide them	lanahdiyannahum
+9	29:69:5	w	سُبُلَنَاۚ	ﲔﲕ	سبلنا	(to) Our ways	subulanā
+9	29:69:6	w	وَإِنَّ	ﲖ	وان	And indeed	wa-inna
+9	29:69:7	w	ٱللَّهَ	ﲗ	الله	Allah	l-laha
+9	29:69:8	w	لَمَعَ	ﲘ	لمع	surely (is) with	lamaʿa
+9	29:69:9	w	ٱلۡمُحۡسِنِينَ	ﲙ	المحسنين	the good-doers	l-muḥ'sinīna
+9	29:69:10	e	٦٩	ﲚ			
+12	30:1:1	w	الٓمٓ	ﲛ	الم	Alif Lam Meem	alif-lam-meem
+12	30:1:2	e	١	ﲜ			
+12	30:2:1	w	غُلِبَتِ	ﲝ	غلبت	Have been defeated	ghulibati
+12	30:2:2	w	ٱلرُّومُ	ﲞ	الروم	the Romans	l-rūmu
+12	30:2:3	e	٢	ﲟ			
+12	30:3:1	w	فِيٓ	ﲠ	في	In	fī
+12	30:3:2	w	أَدۡنَى	ﲡ	ادنى	(the) nearest	adnā
+12	30:3:3	w	ٱلۡأَرۡضِ	ﲢ	الارض	land	l-arḍi
+12	30:3:4	w	وَهُم	ﲣ	وهم	But they	wahum
+12	30:3:5	w	مِّنۢ	ﲤ	من	after	min
+13	30:3:6	w	بَعۡدِ	ﲥ	بعد	after	baʿdi
+13	30:3:7	w	غَلَبِهِمۡ	ﲦ	غلبهم	their defeat	ghalabihim
+13	30:3:8	w	سَيَغۡلِبُونَ	ﲧ	سيغلبون	will overcome	sayaghlibūna
+13	30:3:9	e	٣	ﲨ			
+13	30:4:1	w	فِي	ﲩ	في	Within	fī
+13	30:4:2	w	بِضۡعِ	ﲪ	بضع	a few	biḍ'ʿi
+13	30:4:3	w	سِنِينَۗ	ﲫﲬ	سنين	years	sinīna
+13	30:4:4	w	لِلَّهِ	ﲭ	لله	For Allah	lillahi
+13	30:4:5	w	ٱلۡأَمۡرُ	ﲮ	الامر	(is) the command	l-amru
+14	30:4:6	w	مِن	ﲯ	من	before	min
+14	30:4:7	w	قَبۡلُ	ﲰ	قبل	before	qablu
+14	30:4:8	w	وَمِنۢ	ﲱ	ومن	and after	wamin
+14	30:4:9	w	بَعۡدُۚ	ﲲﲳ	بعد	and after	baʿdu
+14	30:4:10	w	وَيَوۡمَئِذٖ	ﲴ	ويوميذ	And that day	wayawma-idhin
+14	30:4:11	w	يَفۡرَحُ	ﲵ	يفرح	will rejoice	yafraḥu
+14	30:4:12	w	ٱلۡمُؤۡمِنُونَ	ﲶ	المومنون	the believers	l-mu'minūna
+14	30:4:13	e	٤	ﲷ			
+15	30:5:1	w	بِنَصۡرِ	ﲸ	بنصر	With (the) help	binaṣri
+15	30:5:2	w	ٱللَّهِۚ	ﲹﲺ	الله	(of) Allah	l-lahi
+15	30:5:3	w	يَنصُرُ	ﲻ	ينصر	He helps	yanṣuru
+15	30:5:4	w	مَن	ﲼ	من	whom	man
+15	30:5:5	w	يَشَآءُۖ	ﲽﲾ	يشاء	He wills	yashāu
+15	30:5:6	w	وَهُوَ	ﲿ	وهو	And He	wahuwa
+15	30:5:7	w	ٱلۡعَزِيزُ	ﳀ	العزيز	(is) the All-Mighty	l-ʿazīzu
+15	30:5:8	w	ٱلرَّحِيمُ	ﳁ	الرحيم	the Most Merciful	l-raḥīmu
+15	30:5:9	e	٥	ﳂ			

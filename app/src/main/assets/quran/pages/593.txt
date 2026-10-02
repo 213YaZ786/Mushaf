@@ -1,0 +1,124 @@
+5	89:1:1	w	وَٱلۡفَجۡرِ	ﱔ	والفجر	By the dawn	wal-fajri
+5	89:1:2	e	١	ﱕ			
+5	89:2:1	w	وَلَيَالٍ	ﱖ	وليال	And the nights	walayālin
+5	89:2:2	w	عَشۡرٖ	ﱗ	عشر	ten	ʿashrin
+5	89:2:3	e	٢	ﱘ			
+5	89:3:1	w	وَٱلشَّفۡعِ	ﱙ	والشفع	And the even	wal-shafʿi
+5	89:3:2	w	وَٱلۡوَتۡرِ	ﱚ	والوتر	and the odd	wal-watri
+5	89:3:3	e	٣	ﱛ			
+5	89:4:1	w	وَٱلَّيۡلِ	ﱜ	والليل	And the night	wa-al-layli
+5	89:4:2	w	إِذَا	ﱝ	اذا	when	idhā
+5	89:4:3	w	يَسۡرِ	ﱞ	يسر	it passes	yasri
+5	89:4:4	e	٤	ﱟ			
+6	89:5:1	w	هَلۡ	ﱠ	هل	Is	hal
+6	89:5:2	w	فِي	ﱡ	في	in	fī
+6	89:5:3	w	ذَٰلِكَ	ﱢ	ذالك	that	dhālika
+6	89:5:4	w	قَسَمٞ	ﱣ	قسم	(not) an oath	qasamun
+6	89:5:5	w	لِّذِي	ﱤ	لذي	for those	lidhī
+6	89:5:6	w	حِجۡرٍ	ﱥ	حجر	who understand	ḥij'rin
+6	89:5:7	e	٥	ﱦ			
+6	89:6:1	w	أَلَمۡ	ﱧ	الم	Did not	alam
+6	89:6:2	w	تَرَ	ﱨ	تر	you see	tara
+6	89:6:3	w	كَيۡفَ	ﱩ	كيف	how	kayfa
+6	89:6:4	w	فَعَلَ	ﱪ	فعل	dealt	faʿala
+6	89:6:5	w	رَبُّكَ	ﱫ	ربك	your Lord	rabbuka
+6	89:6:6	w	بِعَادٍ	ﱬ	بعاد	with Aad	biʿādin
+6	89:6:7	e	٦	ﱭ			
+7	89:7:1	w	إِرَمَ	ﱮ	ارم	Iram	irama
+7	89:7:2	w	ذَاتِ	ﱯ	ذات	possessors (of)	dhāti
+7	89:7:3	w	ٱلۡعِمَادِ	ﱰ	العماد	lofty pillars	l-ʿimādi
+7	89:7:4	e	٧	ﱱ			
+7	89:8:1	w	ٱلَّتِي	ﱲ	التي	Which	allatī
+7	89:8:2	w	لَمۡ	ﱳ	لم	not	lam
+7	89:8:3	w	يُخۡلَقۡ	ﱴ	يخلق	had been created	yukh'laq
+7	89:8:4	w	مِثۡلُهَا	ﱵ	مثلها	like them	mith'luhā
+7	89:8:5	w	فِي	ﱶ	في	in	fī
+7	89:8:6	w	ٱلۡبِلَٰدِ	ﱷ	البلاد	the cities	l-bilādi
+7	89:8:7	e	٨	ﱸ			
+7	89:9:1	w	وَثَمُودَ	ﱹ	وثمود	And Thamud	wathamūda
+7	89:9:2	w	ٱلَّذِينَ	ﱺ	الذين	who	alladhīna
+8	89:9:3	w	جَابُواْ	ﱻ	جابوا	carved out	jābū
+8	89:9:4	w	ٱلصَّخۡرَ	ﱼ	الصخر	the rocks	l-ṣakhra
+8	89:9:5	w	بِٱلۡوَادِ	ﱽ	بالواد	in the valley	bil-wādi
+8	89:9:6	e	٩	ﱾ			
+8	89:10:1	w	وَفِرۡعَوۡنَ	ﱿ	وفرعون	And Firaun	wafir'ʿawna
+8	89:10:2	w	ذِي	ﲀ	ذي	owner of	dhī
+8	89:10:3	w	ٱلۡأَوۡتَادِ	ﲁ	الاوتاد	stakes	l-awtādi
+8	89:10:4	e	١٠	ﲂ			
+8	89:11:1	w	ٱلَّذِينَ	ﲃ	الذين	Who	alladhīna
+8	89:11:2	w	طَغَوۡاْ	ﲄ	طغوا	transgressed	ṭaghaw
+8	89:11:3	w	فِي	ﲅ	في	in	fī
+9	89:11:4	w	ٱلۡبِلَٰدِ	ﲆ	البلاد	the lands	l-bilādi
+9	89:11:5	e	١١	ﲇ			
+9	89:12:1	w	فَأَكۡثَرُواْ	ﲈ	فاكثروا	And (made) much	fa-aktharū
+9	89:12:2	w	فِيهَا	ﲉ	فيها	therein	fīhā
+9	89:12:3	w	ٱلۡفَسَادَ	ﲊ	الفساد	corruption	l-fasāda
+9	89:12:4	e	١٢	ﲋ			
+9	89:13:1	w	فَصَبَّ	ﲌ	فصب	So poured	faṣabba
+9	89:13:2	w	عَلَيۡهِمۡ	ﲍ	عليهم	on them	ʿalayhim
+9	89:13:3	w	رَبُّكَ	ﲎ	ربك	your Lord	rabbuka
+9	89:13:4	w	سَوۡطَ	ﲏ	سوط	scourge	sawṭa
+10	89:13:5	w	عَذَابٍ	ﲐ	عذاب	(of) punishment	ʿadhābin
+10	89:13:6	e	١٣	ﲑ			
+10	89:14:1	w	إِنَّ	ﲒ	ان	Indeed	inna
+10	89:14:2	w	رَبَّكَ	ﲓ	ربك	your Lord	rabbaka
+10	89:14:3	w	لَبِٱلۡمِرۡصَادِ	ﲔ	لبالمرصاد	(is) surely Ever Watchful	labil-mir'ṣādi
+10	89:14:4	e	١٤	ﲕ			
+10	89:15:1	w	فَأَمَّا	ﲖ	فاما	And as for	fa-ammā
+10	89:15:2	w	ٱلۡإِنسَٰنُ	ﲗ	الانسان	man	l-insānu
+10	89:15:3	w	إِذَا	ﲘ	اذا	when	idhā
+10	89:15:4	w	مَا	ﲙ	ما	does	mā
+10	89:15:5	w	ٱبۡتَلَىٰهُ	ﲚ	ابتلاه	try him	ib'talāhu
+11	89:15:6	w	رَبُّهُۥ	ﲛ	ربه	his Lord	rabbuhu
+11	89:15:7	w	فَأَكۡرَمَهُۥ	ﲜ	فاكرمه	and is generous to him	fa-akramahu
+11	89:15:8	w	وَنَعَّمَهُۥ	ﲝ	ونعمه	and favors him	wanaʿʿamahu
+11	89:15:9	w	فَيَقُولُ	ﲞ	فيقول	he says	fayaqūlu
+11	89:15:10	w	رَبِّيٓ	ﲟ	ربي	My Lord	rabbī
+11	89:15:11	w	أَكۡرَمَنِ	ﲠ	اكرمن	has honored me	akramani
+11	89:15:12	e	١٥	ﲡ			
+11	89:16:1	w	وَأَمَّآ	ﲢ	واما	But	wa-ammā
+11	89:16:2	w	إِذَا	ﲣ	اذا	when	idhā
+11	89:16:3	w	مَا	ﲤ	ما	does	mā
+11	89:16:4	w	ٱبۡتَلَىٰهُ	ﲥ	ابتلاه	He try him	ib'talāhu
+12	89:16:5	w	فَقَدَرَ	ﲦ	فقدر	and restricts	faqadara
+12	89:16:6	w	عَلَيۡهِ	ﲧ	عليه	for him	ʿalayhi
+12	89:16:7	w	رِزۡقَهُۥ	ﲨ	رزقه	his provision	riz'qahu
+12	89:16:8	w	فَيَقُولُ	ﲩ	فيقول	then he says	fayaqūlu
+12	89:16:9	w	رَبِّيٓ	ﲪ	ربي	My Lord	rabbī
+12	89:16:10	w	أَهَٰنَنِ	ﲫ	اهانن	(has) humiliated me	ahānani
+12	89:16:11	e	١٦	ﲬ			
+12	89:17:1	w	كـَلَّاۖ	ﲭﲮ	كلا	Nay	kallā
+12	89:17:2	w	بَل	ﲯ	بل	But	bal
+12	89:17:3	w	لَّا	ﲰ	لا	not	lā
+12	89:17:4	w	تُكۡرِمُونَ	ﲱ	تكرمون	you honor	tuk'rimūna
+13	89:17:5	w	ٱلۡيَتِيمَ	ﲲ	اليتيم	the orphan	l-yatīma
+13	89:17:6	e	١٧	ﲳ			
+13	89:18:1	w	وَلَا	ﲴ	ولا	And not	walā
+13	89:18:2	w	تَحَٰٓضُّونَ	ﲵ	تحاضون	you feel the urge	taḥāḍḍūna
+13	89:18:3	w	عَلَىٰ	ﲶ	على	to	ʿalā
+13	89:18:4	w	طَعَامِ	ﲷ	طعام	feed	ṭaʿāmi
+13	89:18:5	w	ٱلۡمِسۡكِينِ	ﲸ	المسكين	the poor	l-mis'kīni
+13	89:18:6	e	١٨	ﲹ			
+13	89:19:1	w	وَتَأۡكُلُونَ	ﲺ	وتاكلون	And you consume	watakulūna
+14	89:19:2	w	ٱلتُّرَاثَ	ﲻ	التراث	the inheritance	l-turātha
+14	89:19:3	w	أَكۡلٗا	ﲼ	اكلا	devouring	aklan
+14	89:19:4	w	لَّمّٗا	ﲽ	لما	altogether	lamman
+14	89:19:5	e	١٩	ﲾ			
+14	89:20:1	w	وَتُحِبُّونَ	ﲿ	وتحبون	And you love	watuḥibbūna
+14	89:20:2	w	ٱلۡمَالَ	ﳀ	المال	wealth	l-māla
+14	89:20:3	w	حُبّٗا	ﳁ	حبا	(with) love	ḥubban
+14	89:20:4	w	جَمّٗا	ﳂ	جما	immense	jamman
+14	89:20:5	e	٢٠	ﳃ			
+14	89:21:1	w	كـَلَّآۖ	ﳄﳅ	كلا	Nay	kallā
+14	89:21:2	w	إِذَا	ﳆ	اذا	When	idhā
+15	89:21:3	w	دُكَّتِ	ﳇ	دكت	is leveled	dukkati
+15	89:21:4	w	ٱلۡأَرۡضُ	ﳈ	الارض	the earth	l-arḍu
+15	89:21:5	w	دَكّٗا	ﳉ	دكا	pounded	dakkan
+15	89:21:6	w	دَكّٗا	ﳊ	دكا	(and) crushed	dakkan
+15	89:21:7	e	٢١	ﳋ			
+15	89:22:1	w	وَجَآءَ	ﳌ	وجاء	And comes	wajāa
+15	89:22:2	w	رَبُّكَ	ﳍ	ربك	your Lord	rabbuka
+15	89:22:3	w	وَٱلۡمَلَكُ	ﳎ	والملك	and the Angels	wal-malaku
+15	89:22:4	w	صَفّٗا	ﳏ	صفا	rank	ṣaffan
+15	89:22:5	w	صَفّٗا	ﳐ	صفا	(upon) rank	ṣaffan
+15	89:22:6	e	٢٢	ﳑ			

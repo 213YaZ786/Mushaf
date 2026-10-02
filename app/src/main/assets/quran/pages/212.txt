@@ -1,0 +1,143 @@
+1	10:26:1	w	۞ لِّلَّذِينَ	ﱁ ﱂ	۞ للذين	For those who	lilladhīna
+1	10:26:2	w	أَحۡسَنُواْ	ﱃ	احسنوا	do good	aḥsanū
+1	10:26:3	w	ٱلۡحُسۡنَىٰ	ﱄ	الحسنى	(is) the best	l-ḥus'nā
+1	10:26:4	w	وَزِيَادَةٞۖ	ﱅﱆ	وزيادة	and more	waziyādatun
+1	10:26:5	w	وَلَا	ﱇ	ولا	And not	walā
+1	10:26:6	w	يَرۡهَقُ	ﱈ	يرهق	(will) cover	yarhaqu
+1	10:26:7	w	وُجُوهَهُمۡ	ﱉ	وجوههم	their faces	wujūhahum
+1	10:26:8	w	قَتَرٞ	ﱊ	قتر	dust	qatarun
+2	10:26:9	w	وَلَا	ﱋ	ولا	and not	walā
+2	10:26:10	w	ذِلَّةٌۚ	ﱌﱍ	ذلة	humiliation	dhillatun
+2	10:26:11	w	أُوْلَٰٓئِكَ	ﱎ	اولايك	Those	ulāika
+2	10:26:12	w	أَصۡحَٰبُ	ﱏ	اصحاب	(are the) companions	aṣḥābu
+2	10:26:13	w	ٱلۡجَنَّةِۖ	ﱐﱑ	الجنة	(of) Paradise	l-janati
+2	10:26:14	w	هُمۡ	ﱒ	هم	they	hum
+2	10:26:15	w	فِيهَا	ﱓ	فيها	in it	fīhā
+2	10:26:16	w	خَٰلِدُونَ	ﱔ	خالدون	(will) abide forever	khālidūna
+2	10:26:17	e	٢٦	ﱕ			
+2	10:27:1	w	وَٱلَّذِينَ	ﱖ	والذين	And those who	wa-alladhīna
+3	10:27:2	w	كَسَبُواْ	ﱗ	كسبوا	earned	kasabū
+3	10:27:3	w	ٱلسَّيِّـَٔاتِ	ﱘ	السييات	the evil deeds	l-sayiāti
+3	10:27:4	w	جَزَآءُ	ﱙ	جزاء	(the) recompense	jazāu
+3	10:27:5	w	سَيِّئَةِۭ	ﱚ	سيية	(of) an evil deed	sayyi-atin
+3	10:27:6	w	بِمِثۡلِهَا	ﱛ	بمثلها	(is) like it	bimith'lihā
+3	10:27:7	w	وَتَرۡهَقُهُمۡ	ﱜ	وترهقهم	and (will) cover them	watarhaquhum
+3	10:27:8	w	ذِلَّةٞۖ	ﱝﱞ	ذلة	humiliation	dhillatun
+3	10:27:9	w	مَّا	ﱟ	ما	They will not have	mā
+3	10:27:10	w	لَهُم	ﱠ	لهم	They will not have	lahum
+4	10:27:11	w	مِّنَ	ﱡ	من	from	mina
+4	10:27:12	w	ٱللَّهِ	ﱢ	الله	Allah	l-lahi
+4	10:27:13	w	مِنۡ	ﱣ	من	any	min
+4	10:27:14	w	عَاصِمٖۖ	ﱤﱥ	عاصم	defender	ʿāṣimin
+4	10:27:15	w	كَأَنَّمَآ	ﱦ	كانما	As if	ka-annamā
+4	10:27:16	w	أُغۡشِيَتۡ	ﱧ	اغشيت	had been covered	ugh'shiyat
+4	10:27:17	w	وُجُوهُهُمۡ	ﱨ	وجوههم	their faces	wujūhuhum
+4	10:27:18	w	قِطَعٗا	ﱩ	قطعا	(with) pieces	qiṭaʿan
+4	10:27:19	w	مِّنَ	ﱪ	من	from	mina
+4	10:27:20	w	ٱلَّيۡلِ	ﱫ	الليل	the darkness (of) night	al-layli
+5	10:27:21	w	مُظۡلِمًاۚ	ﱬﱭ	مظلما	the darkness (of) night	muẓ'liman
+5	10:27:22	w	أُوْلَٰٓئِكَ	ﱮ	اولايك	Those	ulāika
+5	10:27:23	w	أَصۡحَٰبُ	ﱯ	اصحاب	(are the) companions	aṣḥābu
+5	10:27:24	w	ٱلنَّارِۖ	ﱰﱱ	النار	(of) the Fire	l-nāri
+5	10:27:25	w	هُمۡ	ﱲ	هم	they	hum
+5	10:27:26	w	فِيهَا	ﱳ	فيها	in it	fīhā
+5	10:27:27	w	خَٰلِدُونَ	ﱴ	خالدون	(will) abide forever	khālidūna
+5	10:27:28	e	٢٧	ﱵ			
+5	10:28:1	w	وَيَوۡمَ	ﱶ	ويوم	And (the) Day	wayawma
+5	10:28:2	w	نَحۡشُرُهُمۡ	ﱷ	نحشرهم	We will gather them	naḥshuruhum
+6	10:28:3	w	جَمِيعٗا	ﱸ	جميعا	all together	jamīʿan
+6	10:28:4	w	ثُمَّ	ﱹ	ثم	then	thumma
+6	10:28:5	w	نَقُولُ	ﱺ	نقول	We will say	naqūlu
+6	10:28:6	w	لِلَّذِينَ	ﱻ	للذين	to those who	lilladhīna
+6	10:28:7	w	أَشۡرَكُواْ	ﱼ	اشركوا	associate partners (with Allah)	ashrakū
+6	10:28:8	w	مَكَانَكُمۡ	ﱽ	مكانكم	(Remain in) your place	makānakum
+6	10:28:9	w	أَنتُمۡ	ﱾ	انتم	you	antum
+6	10:28:10	w	وَشُرَكَآؤُكُمۡۚ	ﱿﲀ	وشركاوكم	and your partners	washurakāukum
+6	10:28:11	w	فَزَيَّلۡنَا	ﲁ	فزيلنا	Then We will separate	fazayyalnā
+7	10:28:12	w	بَيۡنَهُمۡۖ	ﲂﲃ	بينهم	[between] them	baynahum
+7	10:28:13	w	وَقَالَ	ﲄ	وقال	and (will) say	waqāla
+7	10:28:14	w	شُرَكَآؤُهُم	ﲅ	شركاوهم	their partners	shurakāuhum
+7	10:28:15	w	مَّا	ﲆ	ما	Not	mā
+7	10:28:16	w	كُنتُمۡ	ﲇ	كنتم	you used (to)	kuntum
+7	10:28:17	w	إِيَّانَا	ﲈ	ايانا	worship us	iyyānā
+7	10:28:18	w	تَعۡبُدُونَ	ﲉ	تعبدون	worship us	taʿbudūna
+7	10:28:19	e	٢٨	ﲊ			
+7	10:29:1	w	فَكَفَىٰ	ﲋ	فكفى	So sufficient	fakafā
+7	10:29:2	w	بِٱللَّهِ	ﲌ	بالله	(is) Allah	bil-lahi
+8	10:29:3	w	شَهِيدَۢا	ﲍ	شهيدا	(as) a witness	shahīdan
+8	10:29:4	w	بَيۡنَنَا	ﲎ	بيننا	between us	baynanā
+8	10:29:5	w	وَبَيۡنَكُمۡ	ﲏ	وبينكم	and between you	wabaynakum
+8	10:29:6	w	إِن	ﲐ	ان	that	in
+8	10:29:7	w	كُنَّا	ﲑ	كنا	we were	kunnā
+8	10:29:8	w	عَنۡ	ﲒ	عن	of	ʿan
+8	10:29:9	w	عِبَادَتِكُمۡ	ﲓ	عبادتكم	your worship	ʿibādatikum
+8	10:29:10	w	لَغَٰفِلِينَ	ﲔ	لغافلين	certainly unaware	laghāfilīna
+8	10:29:11	e	٢٩	ﲕ			
+9	10:30:1	w	هُنَالِكَ	ﲖ	هنالك	There	hunālika
+9	10:30:2	w	تَبۡلُواْ	ﲗ	تبلو	will be put to trial	tablū
+9	10:30:3	w	كُلُّ	ﲘ	كل	every	kullu
+9	10:30:4	w	نَفۡسٖ	ﲙ	نفس	soul	nafsin
+9	10:30:5	w	مَّآ	ﲚ	ما	(for) what	mā
+9	10:30:6	w	أَسۡلَفَتۡۚ	ﲛﲜ	اسلفت	it did previously	aslafat
+9	10:30:7	w	وَرُدُّوٓاْ	ﲝ	وردوا	and they will be returned	waruddū
+9	10:30:8	w	إِلَى	ﲞ	الى	to	ilā
+9	10:30:9	w	ٱللَّهِ	ﲟ	الله	Allah	l-lahi
+9	10:30:10	w	مَوۡلَىٰهُمُ	ﲠ	مولاهم	their Lord	mawlāhumu
+10	10:30:11	w	ٱلۡحَقِّۖ	ﲡﲢ	الحق	the true	l-ḥaqi
+10	10:30:12	w	وَضَلَّ	ﲣ	وضل	and will be lost	waḍalla
+10	10:30:13	w	عَنۡهُم	ﲤ	عنهم	from them	ʿanhum
+10	10:30:14	w	مَّا	ﲥ	ما	what	mā
+10	10:30:15	w	كَانُواْ	ﲦ	كانوا	they used (to)	kānū
+10	10:30:16	w	يَفۡتَرُونَ	ﲧ	يفترون	invent	yaftarūna
+10	10:30:17	e	٣٠	ﲨ			
+10	10:31:1	w	قُلۡ	ﲩ	قل	Say	qul
+10	10:31:2	w	مَن	ﲪ	من	Who	man
+10	10:31:3	w	يَرۡزُقُكُم	ﲫ	يرزقكم	provides for you	yarzuqukum
+10	10:31:4	w	مِّنَ	ﲬ	من	from	mina
+11	10:31:5	w	ٱلسَّمَآءِ	ﲭ	السماء	the sky	l-samāi
+11	10:31:6	w	وَٱلۡأَرۡضِ	ﲮ	والارض	and the earth	wal-arḍi
+11	10:31:7	w	أَمَّن	ﲯ	امن	Or who	amman
+11	10:31:8	w	يَمۡلِكُ	ﲰ	يملك	controls	yamliku
+11	10:31:9	w	ٱلسَّمۡعَ	ﲱ	السمع	the hearing	l-samʿa
+11	10:31:10	w	وَٱلۡأَبۡصَٰرَ	ﲲ	والابصار	and the sight	wal-abṣāra
+11	10:31:11	w	وَمَن	ﲳ	ومن	And who	waman
+11	10:31:12	w	يُخۡرِجُ	ﲴ	يخرج	brings out	yukh'riju
+12	10:31:13	w	ٱلۡحَيَّ	ﲵ	الحي	the living	l-ḥaya
+12	10:31:14	w	مِنَ	ﲶ	من	from	mina
+12	10:31:15	w	ٱلۡمَيِّتِ	ﲷ	الميت	the dead	l-mayiti
+12	10:31:16	w	وَيُخۡرِجُ	ﲸ	ويخرج	and brings forth	wayukh'riju
+12	10:31:17	w	ٱلۡمَيِّتَ	ﲹ	الميت	the dead	l-mayita
+12	10:31:18	w	مِنَ	ﲺ	من	from	mina
+12	10:31:19	w	ٱلۡحَيِّ	ﲻ	الحي	the living	l-ḥayi
+12	10:31:20	w	وَمَن	ﲼ	ومن	And who	waman
+12	10:31:21	w	يُدَبِّرُ	ﲽ	يدبر	disposes	yudabbiru
+12	10:31:22	w	ٱلۡأَمۡرَۚ	ﲾﲿ	الامر	the affairs	l-amra
+13	10:31:23	w	فَسَيَقُولُونَ	ﳀ	فسيقولون	Then they will say	fasayaqūlūna
+13	10:31:24	w	ٱللَّهُۚ	ﳁﳂ	الله	Allah	l-lahu
+13	10:31:25	w	فَقُلۡ	ﳃ	فقل	Then say	faqul
+13	10:31:26	w	أَفَلَا	ﳄ	افلا	Then will not	afalā
+13	10:31:27	w	تَتَّقُونَ	ﳅ	تتقون	you fear (Him)	tattaqūna
+13	10:31:28	e	٣١	ﳆ			
+13	10:32:1	w	فَذَٰلِكُمُ	ﳇ	فذالكم	For that	fadhālikumu
+13	10:32:2	w	ٱللَّهُ	ﳈ	الله	(is) Allah	l-lahu
+13	10:32:3	w	رَبُّكُمُ	ﳉ	ربكم	your Lord	rabbukumu
+14	10:32:4	w	ٱلۡحَقُّۖ	ﳊﳋ	الحق	the true	l-ḥaqu
+14	10:32:5	w	فَمَاذَا	ﳌ	فماذا	So what (can be)	famādhā
+14	10:32:6	w	بَعۡدَ	ﳍ	بعد	after	baʿda
+14	10:32:7	w	ٱلۡحَقِّ	ﳎ	الحق	the truth	l-ḥaqi
+14	10:32:8	w	إِلَّا	ﳏ	الا	except	illā
+14	10:32:9	w	ٱلضَّلَٰلُۖ	ﳐﳑ	الضلال	the error	l-ḍalālu
+14	10:32:10	w	فَأَنَّىٰ	ﳒ	فانى	So how	fa-annā
+14	10:32:11	w	تُصۡرَفُونَ	ﳓ	تصرفون	(are) you turned away	tuṣ'rafūna
+14	10:32:12	e	٣٢	ﳔ			
+14	10:33:1	w	كَذَٰلِكَ	ﳕ	كذالك	Thus	kadhālika
+15	10:33:2	w	حَقَّتۡ	ﳖ	حقت	(is) proved true	ḥaqqat
+15	10:33:3	w	كَلِمَتُ	ﳗ	كلمت	(the) Word	kalimatu
+15	10:33:4	w	رَبِّكَ	ﳘ	ربك	(of) your Lord	rabbika
+15	10:33:5	w	عَلَى	ﳙ	على	upon	ʿalā
+15	10:33:6	w	ٱلَّذِينَ	ﳚ	الذين	those who	alladhīna
+15	10:33:7	w	فَسَقُوٓاْ	ﳛ	فسقوا	defiantly disobeyed	fasaqū
+15	10:33:8	w	أَنَّهُمۡ	ﳜ	انهم	that they	annahum
+15	10:33:9	w	لَا	ﳝ	لا	(will) not	lā
+15	10:33:10	w	يُؤۡمِنُونَ	ﳞ	يومنون	believe	yu'minūna
+15	10:33:11	e	٣٣	ﳟ			

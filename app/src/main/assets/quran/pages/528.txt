@@ -1,0 +1,132 @@
+1	53:45:1	w	وَأَنَّهُۥ	ﱁ	وانه	And that He	wa-annahu
+1	53:45:2	w	خَلَقَ	ﱂ	خلق	created	khalaqa
+1	53:45:3	w	ٱلزَّوۡجَيۡنِ	ﱃ	الزوجين	the pairs	l-zawjayni
+1	53:45:4	w	ٱلذَّكَرَ	ﱄ	الذكر	the male	l-dhakara
+1	53:45:5	w	وَٱلۡأُنثَىٰ	ﱅ	والانثى	and the female	wal-unthā
+1	53:45:6	e	٤٥	ﱆ			
+1	53:46:1	w	مِن	ﱇ	من	From	min
+1	53:46:2	w	نُّطۡفَةٍ	ﱈ	نطفة	a semen-drop	nuṭ'fatin
+1	53:46:3	w	إِذَا	ﱉ	اذا	when	idhā
+1	53:46:4	w	تُمۡنَىٰ	ﱊ	تمنى	it is emitted	tum'nā
+2	53:46:5	e	٤٦	ﱋ			
+2	53:47:1	w	وَأَنَّ	ﱌ	وان	And that	wa-anna
+2	53:47:2	w	عَلَيۡهِ	ﱍ	عليه	upon Him	ʿalayhi
+2	53:47:3	w	ٱلنَّشۡأَةَ	ﱎ	النشاة	(is) the bringing forth	l-nashata
+2	53:47:4	w	ٱلۡأُخۡرَىٰ	ﱏ	الاخرى	another	l-ukh'rā
+2	53:47:5	e	٤٧	ﱐ			
+2	53:48:1	w	وَأَنَّهُۥ	ﱑ	وانه	And that He	wa-annahu
+2	53:48:2	w	هُوَ	ﱒ	هو	[He]	huwa
+2	53:48:3	w	أَغۡنَىٰ	ﱓ	اغنى	enriches	aghnā
+2	53:48:4	w	وَأَقۡنَىٰ	ﱔ	واقنى	and suffices	wa-aqnā
+2	53:48:5	e	٤٨	ﱕ			
+2	53:49:1	w	وَأَنَّهُۥ	ﱖ	وانه	And that He	wa-annahu
+3	53:49:2	w	هُوَ	ﱗ	هو	[He]	huwa
+3	53:49:3	w	رَبُّ	ﱘ	رب	(is the) Lord	rabbu
+3	53:49:4	w	ٱلشِّعۡرَىٰ	ﱙ	الشعرى	(of) Sirius	l-shiʿ'rā
+3	53:49:5	e	٤٩	ﱚ			
+3	53:50:1	w	وَأَنَّهُۥٓ	ﱛ	وانه	And that He	wa-annahu
+3	53:50:2	w	أَهۡلَكَ	ﱜ	اهلك	destroyed	ahlaka
+3	53:50:3	w	عَادًا	ﱝ	عادا	Aad	ʿādan
+3	53:50:4	w	ٱلۡأُولَىٰ	ﱞ	الاولى	the first	l-ūlā
+3	53:50:5	e	٥٠	ﱟ			
+3	53:51:1	w	وَثَمُودَاْ	ﱠ	وثمود	And Thamud	wathamūdā
+3	53:51:2	w	فَمَآ	ﱡ	فما	so not	famā
+4	53:51:3	w	أَبۡقَىٰ	ﱢ	ابقى	He spared	abqā
+4	53:51:4	e	٥١	ﱣ			
+4	53:52:1	w	وَقَوۡمَ	ﱤ	وقوم	And (the) people	waqawma
+4	53:52:2	w	نُوحٖ	ﱥ	نوح	(of) Nuh	nūḥin
+4	53:52:3	w	مِّن	ﱦ	من	before	min
+4	53:52:4	w	قَبۡلُۖ	ﱧﱨ	قبل	before	qablu
+4	53:52:5	w	إِنَّهُمۡ	ﱩ	انهم	Indeed, they	innahum
+4	53:52:6	w	كَانُواْ	ﱪ	كانوا	they were	kānū
+4	53:52:7	w	هُمۡ	ﱫ	هم	they were	hum
+4	53:52:8	w	أَظۡلَمَ	ﱬ	اظلم	more unjust	aẓlama
+4	53:52:9	w	وَأَطۡغَىٰ	ﱭ	واطغى	and more rebellious	wa-aṭghā
+5	53:52:10	e	٥٢	ﱮ			
+5	53:53:1	w	وَٱلۡمُؤۡتَفِكَةَ	ﱯ	والموتفكة	And the overturned cities	wal-mu'tafikata
+5	53:53:2	w	أَهۡوَىٰ	ﱰ	اهوى	He overthrew	ahwā
+5	53:53:3	e	٥٣	ﱱ			
+5	53:54:1	w	فَغَشَّىٰهَا	ﱲ	فغشاها	So covered them	faghashāhā
+5	53:54:2	w	مَا	ﱳ	ما	what	mā
+5	53:54:3	w	غَشَّىٰ	ﱴ	غشى	covered	ghashā
+5	53:54:4	e	٥٤	ﱵ			
+5	53:55:1	w	فَبِأَيِّ	ﱶ	فباي	Then which (of)	fabi-ayyi
+5	53:55:2	w	ءَالَآءِ	ﱷ	الاء	the Favors	ālāi
+6	53:55:3	w	رَبِّكَ	ﱸ	ربك	(of) your Lord	rabbika
+6	53:55:4	w	تَتَمَارَىٰ	ﱹ	تتمارى	will you doubt	tatamārā
+6	53:55:5	e	٥٥	ﱺ			
+6	53:56:1	w	هَٰذَا	ﱻ	هاذا	This	hādhā
+6	53:56:2	w	نَذِيرٞ	ﱼ	نذير	(is) a warner	nadhīrun
+6	53:56:3	w	مِّنَ	ﱽ	من	from	mina
+6	53:56:4	w	ٱلنُّذُرِ	ﱾ	النذر	the warners	l-nudhuri
+6	53:56:5	w	ٱلۡأُولَىٰٓ	ﱿ	الاولى	the former	l-ūlā
+6	53:56:6	e	٥٦	ﲀ			
+6	53:57:1	w	أَزِفَتِ	ﲁ	ازفت	Has approached	azifati
+6	53:57:2	w	ٱلۡأٓزِفَةُ	ﲂ	الازفة	the Approaching Day	l-āzifatu
+7	53:57:3	e	٥٧	ﲃ			
+7	53:58:1	w	لَيۡسَ	ﲄ	ليس	Not is	laysa
+7	53:58:2	w	لَهَا	ﲅ	لها	for it	lahā
+7	53:58:3	w	مِن	ﲆ	من	besides	min
+7	53:58:4	w	دُونِ	ﲇ	دون	besides	dūni
+7	53:58:5	w	ٱللَّهِ	ﲈ	الله	Allah	l-lahi
+7	53:58:6	w	كَاشِفَةٌ	ﲉ	كاشفة	any remover	kāshifatun
+7	53:58:7	e	٥٨	ﲊ			
+7	53:59:1	w	أَفَمِنۡ	ﲋ	افمن	Then of	afamin
+7	53:59:2	w	هَٰذَا	ﲌ	هاذا	this	hādhā
+7	53:59:3	w	ٱلۡحَدِيثِ	ﲍ	الحديث	statement	l-ḥadīthi
+8	53:59:4	w	تَعۡجَبُونَ	ﲎ	تعجبون	you wonder	taʿjabūna
+8	53:59:5	e	٥٩	ﲏ			
+8	53:60:1	w	وَتَضۡحَكُونَ	ﲐ	وتضحكون	And you laugh	wataḍḥakūna
+8	53:60:2	w	وَلَا	ﲑ	ولا	and (do) not	walā
+8	53:60:3	w	تَبۡكُونَ	ﲒ	تبكون	weep	tabkūna
+8	53:60:4	e	٦٠	ﲓ			
+8	53:61:1	w	وَأَنتُمۡ	ﲔ	وانتم	While you	wa-antum
+8	53:61:2	w	سَٰمِدُونَ	ﲕ	سامدون	amuse (yourselves)	sāmidūna
+9	53:61:3	e	٦١	ﲖ			
+9	53:62:1	w	فَٱسۡجُدُواْۤ	ﲗﲘ	فاسجدوا	So prostrate	fa-us'judū
+9	53:62:2	w	لِلَّهِۤ	ﲙﲚ	لله	to Allah	lillahi
+9	53:62:3	w	وَٱعۡبُدُواْ۩	ﲛﲜ	واعبدوا ۩	and worship (Him)	wa-uʿ'budū
+9	53:62:4	e	٦٢	ﲝ			
+12	54:1:1	w	ٱقۡتَرَبَتِ	ﲞ	اقتربت	Has come near	iq'tarabati
+12	54:1:2	w	ٱلسَّاعَةُ	ﲟ	الساعة	the Hour	l-sāʿatu
+12	54:1:3	w	وَٱنشَقَّ	ﲠ	وانشق	and has split	wa-inshaqqa
+12	54:1:4	w	ٱلۡقَمَرُ	ﲡ	القمر	the moon	l-qamaru
+12	54:1:5	e	١	ﲢ			
+12	54:2:1	w	وَإِن	ﲣ	وان	And if	wa-in
+12	54:2:2	w	يَرَوۡاْ	ﲤ	يروا	they see	yaraw
+12	54:2:3	w	ءَايَةٗ	ﲥ	اية	a Sign	āyatan
+12	54:2:4	w	يُعۡرِضُواْ	ﲦ	يعرضوا	they turn away	yuʿ'riḍū
+12	54:2:5	w	وَيَقُولُواْ	ﲧ	ويقولوا	and say	wayaqūlū
+13	54:2:6	w	سِحۡرٞ	ﲨ	سحر	Magic	siḥ'run
+13	54:2:7	w	مُّسۡتَمِرّٞ	ﲩ	مستمر	continuing	mus'tamirrun
+13	54:2:8	e	٢	ﲪ			
+13	54:3:1	w	وَكَذَّبُواْ	ﲫ	وكذبوا	And they denied	wakadhabū
+13	54:3:2	w	وَٱتَّبَعُوٓاْ	ﲬ	واتبعوا	and followed	wa-ittabaʿū
+13	54:3:3	w	أَهۡوَآءَهُمۡۚ	ﲭﲮ	اهواءهم	their desires	ahwāahum
+13	54:3:4	w	وَكُلُّ	ﲯ	وكل	but (for) every	wakullu
+13	54:3:5	w	أَمۡرٖ	ﲰ	امر	matter	amrin
+13	54:3:6	w	مُّسۡتَقِرّٞ	ﲱ	مستقر	(will be a) settlement	mus'taqirrun
+13	54:3:7	e	٣	ﲲ			
+14	54:4:1	w	وَلَقَدۡ	ﲳ	ولقد	And certainly	walaqad
+14	54:4:2	w	جَآءَهُم	ﲴ	جاءهم	has come to them	jāahum
+14	54:4:3	w	مِّنَ	ﲵ	من	of	mina
+14	54:4:4	w	ٱلۡأَنۢبَآءِ	ﲶ	الانباء	the information	l-anbāi
+14	54:4:5	w	مَا	ﲷ	ما	wherein	mā
+14	54:4:6	w	فِيهِ	ﲸ	فيه	wherein	fīhi
+14	54:4:7	w	مُزۡدَجَرٌ	ﲹ	مزدجر	(is) deterrence	muz'dajarun
+14	54:4:8	e	٤	ﲺ			
+14	54:5:1	w	حِكۡمَةُۢ	ﲻ	حكمة	Wisdom	ḥik'matun
+14	54:5:2	w	بَٰلِغَةٞۖ	ﲼﲽ	بالغة	perfect	bālighatun
+14	54:5:3	w	فَمَا	ﲾ	فما	but not	famā
+14	54:5:4	w	تُغۡنِ	ﲿ	تغن	will avail	tugh'ni
+15	54:5:5	w	ٱلنُّذُرُ	ﳀ	النذر	the warnings	l-nudhuru
+15	54:5:6	e	٥	ﳁ			
+15	54:6:1	w	فَتَوَلَّ	ﳂ	فتول	So turn away	fatawalla
+15	54:6:2	w	عَنۡهُمۡۘ	ﳃﳄ	عنهم	from them	ʿanhum
+15	54:6:3	w	يَوۡمَ	ﳅ	يوم	(The) Day	yawma
+15	54:6:4	w	يَدۡعُ	ﳆ	يدع	will call	yadʿu
+15	54:6:5	w	ٱلدَّاعِ	ﳇ	الداع	the caller	l-dāʿi
+15	54:6:6	w	إِلَىٰ	ﳈ	الى	to	ilā
+15	54:6:7	w	شَيۡءٖ	ﳉ	شيء	a thing	shayin
+15	54:6:8	w	نُّكُرٍ	ﳊ	نكر	terrible	nukurin
+15	54:6:9	e	٦	ﳋ			

@@ -1,0 +1,158 @@
+1	4:75:1	w	وَمَا	ﱁ	وما	And what	wamā
+1	4:75:2	w	لَكُمۡ	ﱂ	لكم	for you	lakum
+1	4:75:3	w	لَا	ﱃ	لا	(that) not	lā
+1	4:75:4	w	تُقَٰتِلُونَ	ﱄ	تقاتلون	you fight	tuqātilūna
+1	4:75:5	w	فِي	ﱅ	في	in	fī
+1	4:75:6	w	سَبِيلِ	ﱆ	سبيل	(the) way	sabīli
+1	4:75:7	w	ٱللَّهِ	ﱇ	الله	(of) Allah	l-lahi
+1	4:75:8	w	وَٱلۡمُسۡتَضۡعَفِينَ	ﱈ	والمستضعفين	and (for) those who are weak	wal-mus'taḍʿafīna
+1	4:75:9	w	مِنَ	ﱉ	من	among	mina
+1	4:75:10	w	ٱلرِّجَالِ	ﱊ	الرجال	the men	l-rijāli
+2	4:75:11	w	وَٱلنِّسَآءِ	ﱋ	والنساء	and the women	wal-nisāi
+2	4:75:12	w	وَٱلۡوِلۡدَٰنِ	ﱌ	والولدان	and the children	wal-wil'dāni
+2	4:75:13	w	ٱلَّذِينَ	ﱍ	الذين	those who	alladhīna
+2	4:75:14	w	يَقُولُونَ	ﱎ	يقولون	say	yaqūlūna
+2	4:75:15	w	رَبَّنَآ	ﱏ	ربنا	Our Lord	rabbanā
+2	4:75:16	w	أَخۡرِجۡنَا	ﱐ	اخرجنا	take us out	akhrij'nā
+2	4:75:17	w	مِنۡ	ﱑ	من	of	min
+2	4:75:18	w	هَٰذِهِ	ﱒ	هاذه	this	hādhihi
+2	4:75:19	w	ٱلۡقَرۡيَةِ	ﱓ	القرية	[the] town	l-qaryati
+3	4:75:20	w	ٱلظَّالِمِ	ﱔ	الظالم	[the] oppressor(s)	l-ẓālimi
+3	4:75:21	w	أَهۡلُهَا	ﱕ	اهلها	(are) its people	ahluhā
+3	4:75:22	w	وَٱجۡعَل	ﱖ	واجعل	and appoint	wa-ij'ʿal
+3	4:75:23	w	لَّنَا	ﱗ	لنا	for us	lanā
+3	4:75:24	w	مِن	ﱘ	من	from	min
+3	4:75:25	w	لَّدُنكَ	ﱙ	لدنك	Yourself	ladunka
+3	4:75:26	w	وَلِيّٗا	ﱚ	وليا	a protector	waliyyan
+3	4:75:27	w	وَٱجۡعَل	ﱛ	واجعل	and appoint	wa-ij'ʿal
+3	4:75:28	w	لَّنَا	ﱜ	لنا	for us	lanā
+3	4:75:29	w	مِن	ﱝ	من	from	min
+3	4:75:30	w	لَّدُنكَ	ﱞ	لدنك	Yourself	ladunka
+3	4:75:31	w	نَصِيرًا	ﱟ	نصيرا	a helper	naṣīran
+4	4:75:32	e	٧٥	ﱠ			
+4	4:76:1	w	ٱلَّذِينَ	ﱡ	الذين	Those who	alladhīna
+4	4:76:2	w	ءَامَنُواْ	ﱢ	امنوا	believe	āmanū
+4	4:76:3	w	يُقَٰتِلُونَ	ﱣ	يقاتلون	they fight	yuqātilūna
+4	4:76:4	w	فِي	ﱤ	في	in	fī
+4	4:76:5	w	سَبِيلِ	ﱥ	سبيل	(the) way	sabīli
+4	4:76:6	w	ٱللَّهِۖ	ﱦﱧ	الله	(of) Allah	l-lahi
+4	4:76:7	w	وَٱلَّذِينَ	ﱨ	والذين	and those	wa-alladhīna
+4	4:76:8	w	كَفَرُواْ	ﱩ	كفروا	who disbelieve	kafarū
+4	4:76:9	w	يُقَٰتِلُونَ	ﱪ	يقاتلون	they fight	yuqātilūna
+4	4:76:10	w	فِي	ﱫ	في	in	fī
+5	4:76:11	w	سَبِيلِ	ﱬ	سبيل	(the) way	sabīli
+5	4:76:12	w	ٱلطَّٰغُوتِ	ﱭ	الطاغوت	(of) the false deities	l-ṭāghūti
+5	4:76:13	w	فَقَٰتِلُوٓاْ	ﱮ	فقاتلوا	So fight (against)	faqātilū
+5	4:76:14	w	أَوۡلِيَآءَ	ﱯ	اولياء	(the) friends	awliyāa
+5	4:76:15	w	ٱلشَّيۡطَٰنِۖ	ﱰﱱ	الشيطان	(of) the Shaitaan	l-shayṭāni
+5	4:76:16	w	إِنَّ	ﱲ	ان	Indeed	inna
+5	4:76:17	w	كَيۡدَ	ﱳ	كيد	(the) strategy	kayda
+5	4:76:18	w	ٱلشَّيۡطَٰنِ	ﱴ	الشيطان	(of) the Shaitaan	l-shayṭāni
+6	4:76:19	w	كَانَ	ﱵ	كان	is	kāna
+6	4:76:20	w	ضَعِيفًا	ﱶ	ضعيفا	weak	ḍaʿīfan
+6	4:76:21	e	٧٦	ﱷ			
+6	4:77:1	w	أَلَمۡ	ﱸ	الم	Have not	alam
+6	4:77:2	w	تَرَ	ﱹ	تر	you seen	tara
+6	4:77:3	w	إِلَى	ﱺ	الى	[towards]	ilā
+6	4:77:4	w	ٱلَّذِينَ	ﱻ	الذين	those who	alladhīna
+6	4:77:5	w	قِيلَ	ﱼ	قيل	(when) it was said	qīla
+6	4:77:6	w	لَهُمۡ	ﱽ	لهم	to them	lahum
+6	4:77:7	w	كُفُّوٓاْ	ﱾ	كفوا	Restrain	kuffū
+6	4:77:8	w	أَيۡدِيَكُمۡ	ﱿ	ايديكم	your hands	aydiyakum
+6	4:77:9	w	وَأَقِيمُواْ	ﲀ	واقيموا	and establish	wa-aqīmū
+7	4:77:10	w	ٱلصَّلَوٰةَ	ﲁ	الصلاة	the prayer	l-ṣalata
+7	4:77:11	w	وَءَاتُواْ	ﲂ	واتوا	and give	waātū
+7	4:77:12	w	ٱلزَّكَوٰةَ	ﲃ	الزكاة	the zakah	l-zakata
+7	4:77:13	w	فَلَمَّا	ﲄ	فلما	Then when	falammā
+7	4:77:14	w	كُتِبَ	ﲅ	كتب	was ordained	kutiba
+7	4:77:15	w	عَلَيۡهِمُ	ﲆ	عليهم	on them	ʿalayhimu
+7	4:77:16	w	ٱلۡقِتَالُ	ﲇ	القتال	the fighting	l-qitālu
+7	4:77:17	w	إِذَا	ﲈ	اذا	then	idhā
+7	4:77:18	w	فَرِيقٞ	ﲉ	فريق	a group	farīqun
+7	4:77:19	w	مِّنۡهُمۡ	ﲊ	منهم	of them	min'hum
+8	4:77:20	w	يَخۡشَوۡنَ	ﲋ	يخشون	[they] fear	yakhshawna
+8	4:77:21	w	ٱلنَّاسَ	ﲌ	الناس	the people	l-nāsa
+8	4:77:22	w	كَخَشۡيَةِ	ﲍ	كخشية	as (they) fear	kakhashyati
+8	4:77:23	w	ٱللَّهِ	ﲎ	الله	Allah	l-lahi
+8	4:77:24	w	أَوۡ	ﲏ	او	or	aw
+8	4:77:25	w	أَشَدَّ	ﲐ	اشد	more intense	ashadda
+8	4:77:26	w	خَشۡيَةٗۚ	ﲑﲒ	خشية	fear	khashyatan
+8	4:77:27	w	وَقَالُواْ	ﲓ	وقالوا	and they said	waqālū
+8	4:77:28	w	رَبَّنَا	ﲔ	ربنا	Our Lord	rabbanā
+8	4:77:29	w	لِمَ	ﲕ	لم	why	lima
+8	4:77:30	w	كَتَبۡتَ	ﲖ	كتبت	have You ordained	katabta
+9	4:77:31	w	عَلَيۡنَا	ﲗ	علينا	upon us	ʿalaynā
+9	4:77:32	w	ٱلۡقِتَالَ	ﲘ	القتال	[the] fighting	l-qitāla
+9	4:77:33	w	لَوۡلَآ	ﲙ	لولا	Why not	lawlā
+9	4:77:34	w	أَخَّرۡتَنَآ	ﲚ	اخرتنا	You postpone (it for) us	akhartanā
+9	4:77:35	w	إِلَىٰٓ	ﲛ	الى	to	ilā
+9	4:77:36	w	أَجَلٖ	ﲜ	اجل	a term	ajalin
+9	4:77:37	w	قَرِيبٖۗ	ﲝﲞ	قريب	near	qarībin
+9	4:77:38	w	قُلۡ	ﲟ	قل	Say	qul
+9	4:77:39	w	مَتَٰعُ	ﲠ	متاع	Enjoyment	matāʿu
+9	4:77:40	w	ٱلدُّنۡيَا	ﲡ	الدنيا	(of) the world	l-dun'yā
+9	4:77:41	w	قَلِيلٞ	ﲢ	قليل	(is) little	qalīlun
+10	4:77:42	w	وَٱلۡأٓخِرَةُ	ﲣ	والاخرة	and the Hereafter	wal-ākhiratu
+10	4:77:43	w	خَيۡرٞ	ﲤ	خير	(is) better	khayrun
+10	4:77:44	w	لِّمَنِ	ﲥ	لمن	for whoever	limani
+10	4:77:45	w	ٱتَّقَىٰ	ﲦ	اتقى	fears (Allah)	ittaqā
+10	4:77:46	w	وَلَا	ﲧ	ولا	and not	walā
+10	4:77:47	w	تُظۡلَمُونَ	ﲨ	تظلمون	you will be wronged	tuẓ'lamūna
+10	4:77:48	w	فَتِيلًا	ﲩ	فتيلا	(even as much as) a hair on a date-seed	fatīlan
+10	4:77:49	e	٧٧	ﲪ			
+10	4:78:1	w	أَيۡنَمَا	ﲫ	اينما	Wherever	aynamā
+10	4:78:2	w	تَكُونُواْ	ﲬ	تكونوا	you be	takūnū
+11	4:78:3	w	يُدۡرِككُّمُ	ﲭ	يدرككم	will overtake you	yud'rikkumu
+11	4:78:4	w	ٱلۡمَوۡتُ	ﲮ	الموت	[the] death	l-mawtu
+11	4:78:5	w	وَلَوۡ	ﲯ	ولو	even if	walaw
+11	4:78:6	w	كُنتُمۡ	ﲰ	كنتم	you are	kuntum
+11	4:78:7	w	فِي	ﲱ	في	in	fī
+11	4:78:8	w	بُرُوجٖ	ﲲ	بروج	towers	burūjin
+11	4:78:9	w	مُّشَيَّدَةٖۗ	ﲳﲴ	مشيدة	lofty	mushayyadatin
+11	4:78:10	w	وَإِن	ﲵ	وان	And if	wa-in
+11	4:78:11	w	تُصِبۡهُمۡ	ﲶ	تصبهم	befalls them	tuṣib'hum
+11	4:78:12	w	حَسَنَةٞ	ﲷ	حسنة	any good	ḥasanatun
+12	4:78:13	w	يَقُولُواْ	ﲸ	يقولوا	they say	yaqūlū
+12	4:78:14	w	هَٰذِهِۦ	ﲹ	هاذه	This	hādhihi
+12	4:78:15	w	مِنۡ	ﲺ	من	(is)	min
+12	4:78:16	w	عِندِ	ﲻ	عند	from	ʿindi
+12	4:78:17	w	ٱللَّهِۖ	ﲼﲽ	الله	Allah	l-lahi
+12	4:78:18	w	وَإِن	ﲾ	وان	And if	wa-in
+12	4:78:19	w	تُصِبۡهُمۡ	ﲿ	تصبهم	befalls them	tuṣib'hum
+12	4:78:20	w	سَيِّئَةٞ	ﳀ	سيية	any evil	sayyi-atun
+12	4:78:21	w	يَقُولُواْ	ﳁ	يقولوا	they say	yaqūlū
+12	4:78:22	w	هَٰذِهِۦ	ﳂ	هاذه	This	hādhihi
+12	4:78:23	w	مِنۡ	ﳃ	من	(is)	min
+13	4:78:24	w	عِندِكَۚ	ﳄﳅ	عندك	(from) you	ʿindika
+13	4:78:25	w	قُلۡ	ﳆ	قل	Say	qul
+13	4:78:26	w	كُلّٞ	ﳇ	كل	All	kullun
+13	4:78:27	w	مِّنۡ	ﳈ	من	(is)	min
+13	4:78:28	w	عِندِ	ﳉ	عند	from	ʿindi
+13	4:78:29	w	ٱللَّهِۖ	ﳊﳋ	الله	Allah	l-lahi
+13	4:78:30	w	فَمَالِ	ﳌ	فمال	So what (is wrong)	famāli
+13	4:78:31	w	هَٰٓؤُلَآءِ	ﳍ	هاولاء	(with) these	hāulāi
+13	4:78:32	w	ٱلۡقَوۡمِ	ﳎ	القوم	[the] people	l-qawmi
+13	4:78:33	w	لَا	ﳏ	لا	not	lā
+13	4:78:34	w	يَكَادُونَ	ﳐ	يكادون	do they seem	yakādūna
+13	4:78:35	w	يَفۡقَهُونَ	ﳑ	يفقهون	(to) understand	yafqahūna
+14	4:78:36	w	حَدِيثٗا	ﳒ	حديثا	any statement	ḥadīthan
+14	4:78:37	e	٧٨	ﳓ			
+14	4:79:1	w	مَّآ	ﳔ	ما	What(ever)	mā
+14	4:79:2	w	أَصَابَكَ	ﳕ	اصابك	befalls you	aṣābaka
+14	4:79:3	w	مِنۡ	ﳖ	من	of	min
+14	4:79:4	w	حَسَنَةٖ	ﳗ	حسنة	(the) good	ḥasanatin
+14	4:79:5	w	فَمِنَ	ﳘ	فمن	(is) from	famina
+14	4:79:6	w	ٱللَّهِۖ	ﳙﳚ	الله	Allah	l-lahi
+14	4:79:7	w	وَمَآ	ﳛ	وما	and whatever	wamā
+14	4:79:8	w	أَصَابَكَ	ﳜ	اصابك	befalls you	aṣābaka
+14	4:79:9	w	مِن	ﳝ	من	of	min
+14	4:79:10	w	سَيِّئَةٖ	ﳞ	سيية	(the) evil	sayyi-atin
+15	4:79:11	w	فَمِن	ﳟ	فمن	(is) from	famin
+15	4:79:12	w	نَّفۡسِكَۚ	ﳠﳡ	نفسك	yourself	nafsika
+15	4:79:13	w	وَأَرۡسَلۡنَٰكَ	ﳢ	وارسلناك	And We have sent you	wa-arsalnāka
+15	4:79:14	w	لِلنَّاسِ	ﳣ	للناس	for the people	lilnnāsi
+15	4:79:15	w	رَسُولٗاۚ	ﳤﳥ	رسولا	(as) a Messenger	rasūlan
+15	4:79:16	w	وَكَفَىٰ	ﳦ	وكفى	and is sufficient	wakafā
+15	4:79:17	w	بِٱللَّهِ	ﳧ	بالله	Allah	bil-lahi
+15	4:79:18	w	شَهِيدٗا	ﳨ	شهيدا	(as) a Witness	shahīdan
+15	4:79:19	e	٧٩	ﳩ			

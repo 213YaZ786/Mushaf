@@ -1,0 +1,120 @@
+3	7:1:1	w	الٓمٓصٓ	ﱁ	المص	Alif Laam Meem Saad	alif-lam-meem-sad
+3	7:1:2	e	١	ﱂ			
+3	7:2:1	w	كِتَٰبٌ	ﱃ	كتاب	(This is) a Book	kitābun
+3	7:2:2	w	أُنزِلَ	ﱄ	انزل	revealed	unzila
+3	7:2:3	w	إِلَيۡكَ	ﱅ	اليك	to you	ilayka
+3	7:2:4	w	فَلَا	ﱆ	فلا	so (let) not	falā
+3	7:2:5	w	يَكُن	ﱇ	يكن	be	yakun
+3	7:2:6	w	فِي	ﱈ	في	in	fī
+3	7:2:7	w	صَدۡرِكَ	ﱉ	صدرك	your breast	ṣadrika
+3	7:2:8	w	حَرَجٞ	ﱊ	حرج	any uneasiness	ḥarajun
+3	7:2:9	w	مِّنۡهُ	ﱋ	منه	from it	min'hu
+4	7:2:10	w	لِتُنذِرَ	ﱌ	لتنذر	that you warn	litundhira
+4	7:2:11	w	بِهِۦ	ﱍ	به	with it	bihi
+4	7:2:12	w	وَذِكۡرَىٰ	ﱎ	وذكرى	and a reminder	wadhik'rā
+4	7:2:13	w	لِلۡمُؤۡمِنِينَ	ﱏ	للمومنين	for the believers	lil'mu'minīna
+4	7:2:14	e	٢	ﱐ			
+4	7:3:1	w	ٱتَّبِعُواْ	ﱑ	اتبعوا	Follow	ittabiʿū
+4	7:3:2	w	مَآ	ﱒ	ما	what	mā
+4	7:3:3	w	أُنزِلَ	ﱓ	انزل	has been revealed	unzila
+4	7:3:4	w	إِلَيۡكُم	ﱔ	اليكم	to you	ilaykum
+5	7:3:5	w	مِّن	ﱕ	من	from	min
+5	7:3:6	w	رَّبِّكُمۡ	ﱖ	ربكم	your Lord	rabbikum
+5	7:3:7	w	وَلَا	ﱗ	ولا	and (do) not	walā
+5	7:3:8	w	تَتَّبِعُواْ	ﱘ	تتبعوا	follow	tattabiʿū
+5	7:3:9	w	مِن	ﱙ	من	from	min
+5	7:3:10	w	دُونِهِۦٓ	ﱚ	دونه	beside Him	dūnihi
+5	7:3:11	w	أَوۡلِيَآءَۗ	ﱛﱜ	اولياء	any allies	awliyāa
+5	7:3:12	w	قَلِيلٗا	ﱝ	قليلا	Little	qalīlan
+5	7:3:13	w	مَّا	ﱞ	ما	(is) what	mā
+5	7:3:14	w	تَذَكَّرُونَ	ﱟ	تذكرون	you remember	tadhakkarūna
+6	7:3:15	e	٣	ﱠ			
+6	7:4:1	w	وَكَم	ﱡ	وكم	And how many	wakam
+6	7:4:2	w	مِّن	ﱢ	من	of	min
+6	7:4:3	w	قَرۡيَةٍ	ﱣ	قرية	a city	qaryatin
+6	7:4:4	w	أَهۡلَكۡنَٰهَا	ﱤ	اهلكناها	We destroyed it	ahlaknāhā
+6	7:4:5	w	فَجَآءَهَا	ﱥ	فجاءها	and came to it	fajāahā
+6	7:4:6	w	بَأۡسُنَا	ﱦ	باسنا	Our punishment	basunā
+6	7:4:7	w	بَيَٰتًا	ﱧ	بياتا	(at) night	bayātan
+6	7:4:8	w	أَوۡ	ﱨ	او	or	aw
+6	7:4:9	w	هُمۡ	ﱩ	هم	(while) they	hum
+7	7:4:10	w	قَآئِلُونَ	ﱪ	قايلون	were sleeping at noon	qāilūna
+7	7:4:11	e	٤	ﱫ			
+7	7:5:1	w	فَمَا	ﱬ	فما	Then not	famā
+7	7:5:2	w	كَانَ	ﱭ	كان	was	kāna
+7	7:5:3	w	دَعۡوَىٰهُمۡ	ﱮ	دعواهم	their plea	daʿwāhum
+7	7:5:4	w	إِذۡ	ﱯ	اذ	when	idh
+7	7:5:5	w	جَآءَهُم	ﱰ	جاءهم	came to them	jāahum
+7	7:5:6	w	بَأۡسُنَآ	ﱱ	باسنا	Our punishment	basunā
+7	7:5:7	w	إِلَّآ	ﱲ	الا	except	illā
+7	7:5:8	w	أَن	ﱳ	ان	that	an
+7	7:5:9	w	قَالُوٓاْ	ﱴ	قالوا	they said	qālū
+8	7:5:10	w	إِنَّا	ﱵ	انا	Indeed, we	innā
+8	7:5:11	w	كُنَّا	ﱶ	كنا	were	kunnā
+8	7:5:12	w	ظَٰلِمِينَ	ﱷ	ظالمين	wrongdoers	ẓālimīna
+8	7:5:13	e	٥	ﱸ			
+8	7:6:1	w	فَلَنَسۡـَٔلَنَّ	ﱹ	فلنسالن	Then surely We will question	falanasalanna
+8	7:6:2	w	ٱلَّذِينَ	ﱺ	الذين	those (to) whom	alladhīna
+8	7:6:3	w	أُرۡسِلَ	ﱻ	ارسل	were sent	ur'sila
+8	7:6:4	w	إِلَيۡهِمۡ	ﱼ	اليهم	to them (Messengers)	ilayhim
+8	7:6:5	w	وَلَنَسۡـَٔلَنَّ	ﱽ	ولنسالن	and surely We will question	walanasalanna
+9	7:6:6	w	ٱلۡمُرۡسَلِينَ	ﱾ	المرسلين	the Messengers	l-mur'salīna
+9	7:6:7	e	٦	ﱿ			
+9	7:7:1	w	فَلَنَقُصَّنَّ	ﲀ	فلنقصن	Then surely We will narrate	falanaquṣṣanna
+9	7:7:2	w	عَلَيۡهِم	ﲁ	عليهم	to them	ʿalayhim
+9	7:7:3	w	بِعِلۡمٖۖ	ﲂﲃ	بعلم	with knowledge	biʿil'min
+9	7:7:4	w	وَمَا	ﲄ	وما	and not	wamā
+9	7:7:5	w	كُنَّا	ﲅ	كنا	were We	kunnā
+9	7:7:6	w	غَآئِبِينَ	ﲆ	غايبين	absent	ghāibīna
+9	7:7:7	e	٧	ﲇ			
+10	7:8:1	w	وَٱلۡوَزۡنُ	ﲈ	والوزن	And the weighing	wal-waznu
+10	7:8:2	w	يَوۡمَئِذٍ	ﲉ	يوميذ	that day	yawma-idhin
+10	7:8:3	w	ٱلۡحَقُّۚ	ﲊﲋ	الحق	(will be) the truth	l-ḥaqu
+10	7:8:4	w	فَمَن	ﲌ	فمن	So whose	faman
+10	7:8:5	w	ثَقُلَتۡ	ﲍ	ثقلت	(will be) heavy	thaqulat
+10	7:8:6	w	مَوَٰزِينُهُۥ	ﲎ	موازينه	his scales	mawāzīnuhu
+10	7:8:7	w	فَأُوْلَٰٓئِكَ	ﲏ	فاولايك	then those	fa-ulāika
+10	7:8:8	w	هُمُ	ﲐ	هم	[they]	humu
+11	7:8:9	w	ٱلۡمُفۡلِحُونَ	ﲑ	المفلحون	(will be) the successful ones	l-muf'liḥūna
+11	7:8:10	e	٨	ﲒ			
+11	7:9:1	w	وَمَنۡ	ﲓ	ومن	And (for) those	waman
+11	7:9:2	w	خَفَّتۡ	ﲔ	خفت	(will be) light	khaffat
+11	7:9:3	w	مَوَٰزِينُهُۥ	ﲕ	موازينه	his scales	mawāzīnuhu
+11	7:9:4	w	فَأُوْلَٰٓئِكَ	ﲖ	فاولايك	so those	fa-ulāika
+11	7:9:5	w	ٱلَّذِينَ	ﲗ	الذين	(will be) the ones who	alladhīna
+11	7:9:6	w	خَسِرُوٓاْ	ﲘ	خسروا	lost	khasirū
+12	7:9:7	w	أَنفُسَهُم	ﲙ	انفسهم	themselves	anfusahum
+12	7:9:8	w	بِمَا	ﲚ	بما	because	bimā
+12	7:9:9	w	كَانُواْ	ﲛ	كانوا	they were	kānū
+12	7:9:10	w	بِـَٔايَٰتِنَا	ﲜ	باياتنا	to Our Verses	biāyātinā
+12	7:9:11	w	يَظۡلِمُونَ	ﲝ	يظلمون	(doing) injustice	yaẓlimūna
+12	7:9:12	e	٩	ﲞ			
+12	7:10:1	w	وَلَقَدۡ	ﲟ	ولقد	And certainly	walaqad
+12	7:10:2	w	مَكَّنَّٰكُمۡ	ﲠ	مكناكم	We established you	makkannākum
+13	7:10:3	w	فِي	ﲡ	في	in	fī
+13	7:10:4	w	ٱلۡأَرۡضِ	ﲢ	الارض	the earth	l-arḍi
+13	7:10:5	w	وَجَعَلۡنَا	ﲣ	وجعلنا	and We made	wajaʿalnā
+13	7:10:6	w	لَكُمۡ	ﲤ	لكم	for you	lakum
+13	7:10:7	w	فِيهَا	ﲥ	فيها	in it	fīhā
+13	7:10:8	w	مَعَٰيِشَۗ	ﲦﲧ	معايش	livelihood	maʿāyisha
+13	7:10:9	w	قَلِيلٗا	ﲨ	قليلا	Little	qalīlan
+13	7:10:10	w	مَّا	ﲩ	ما	(is) what	mā
+13	7:10:11	w	تَشۡكُرُونَ	ﲪ	تشكرون	you (are) grateful	tashkurūna
+14	7:10:12	e	١٠	ﲫ			
+14	7:11:1	w	وَلَقَدۡ	ﲬ	ولقد	And certainly	walaqad
+14	7:11:2	w	خَلَقۡنَٰكُمۡ	ﲭ	خلقناكم	We created you	khalaqnākum
+14	7:11:3	w	ثُمَّ	ﲮ	ثم	then	thumma
+14	7:11:4	w	صَوَّرۡنَٰكُمۡ	ﲯ	صورناكم	We fashioned you	ṣawwarnākum
+14	7:11:5	w	ثُمَّ	ﲰ	ثم	Then	thumma
+14	7:11:6	w	قُلۡنَا	ﲱ	قلنا	We said	qul'nā
+14	7:11:7	w	لِلۡمَلَٰٓئِكَةِ	ﲲ	للملايكة	to the Angels	lil'malāikati
+15	7:11:8	w	ٱسۡجُدُواْ	ﲳ	اسجدوا	Prostrate	us'judū
+15	7:11:9	w	لِأٓدَمَ	ﲴ	لادم	to Adam	liādama
+15	7:11:10	w	فَسَجَدُوٓاْ	ﲵ	فسجدوا	So they prostrated	fasajadū
+15	7:11:11	w	إِلَّآ	ﲶ	الا	except	illā
+15	7:11:12	w	إِبۡلِيسَ	ﲷ	ابليس	Iblis	ib'līsa
+15	7:11:13	w	لَمۡ	ﲸ	لم	Not	lam
+15	7:11:14	w	يَكُن	ﲹ	يكن	he was	yakun
+15	7:11:15	w	مِّنَ	ﲺ	من	of	mina
+15	7:11:16	w	ٱلسَّٰجِدِينَ	ﲻ	الساجدين	those who prostrated	l-sājidīna
+15	7:11:17	e	١١	ﲼ			

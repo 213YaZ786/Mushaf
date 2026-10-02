@@ -1,0 +1,152 @@
+1	41:47:1	w	۞ إِلَيۡهِ	ﱁ ﱂ	۞ اليه	To Him	ilayhi
+1	41:47:2	w	يُرَدُّ	ﱃ	يرد	is referred	yuraddu
+1	41:47:3	w	عِلۡمُ	ﱄ	علم	(the) knowledge	ʿil'mu
+1	41:47:4	w	ٱلسَّاعَةِۚ	ﱅﱆ	الساعة	(of) the Hour	l-sāʿati
+1	41:47:5	w	وَمَا	ﱇ	وما	And not	wamā
+1	41:47:6	w	تَخۡرُجُ	ﱈ	تخرج	comes out	takhruju
+1	41:47:7	w	مِن	ﱉ	من	any	min
+1	41:47:8	w	ثَمَرَٰتٖ	ﱊ	ثمرات	fruits	thamarātin
+1	41:47:9	w	مِّنۡ	ﱋ	من	from	min
+1	41:47:10	w	أَكۡمَامِهَا	ﱌ	اكمامها	their coverings	akmāmihā
+2	41:47:11	w	وَمَا	ﱍ	وما	and not	wamā
+2	41:47:12	w	تَحۡمِلُ	ﱎ	تحمل	bears	taḥmilu
+2	41:47:13	w	مِنۡ	ﱏ	من	any	min
+2	41:47:14	w	أُنثَىٰ	ﱐ	انثى	female	unthā
+2	41:47:15	w	وَلَا	ﱑ	ولا	and not	walā
+2	41:47:16	w	تَضَعُ	ﱒ	تضع	gives birth	taḍaʿu
+2	41:47:17	w	إِلَّا	ﱓ	الا	except	illā
+2	41:47:18	w	بِعِلۡمِهِۦۚ	ﱔﱕ	بعلمه	with His knowledge	biʿil'mihi
+2	41:47:19	w	وَيَوۡمَ	ﱖ	ويوم	And (the) Day	wayawma
+2	41:47:20	w	يُنَادِيهِمۡ	ﱗ	يناديهم	He will call them	yunādīhim
+2	41:47:21	w	أَيۡنَ	ﱘ	اين	Where (are)	ayna
+3	41:47:22	w	شُرَكَآءِي	ﱙ	شركايي	My partners	shurakāī
+3	41:47:23	w	قَالُوٓاْ	ﱚ	قالوا	They will say	qālū
+3	41:47:24	w	ءَاذَنَّٰكَ	ﱛ	اذناك	We announce (to) You	ādhannāka
+3	41:47:25	w	مَا	ﱜ	ما	not	mā
+3	41:47:26	w	مِنَّا	ﱝ	منا	among us	minnā
+3	41:47:27	w	مِن	ﱞ	من	any	min
+3	41:47:28	w	شَهِيدٖ	ﱟ	شهيد	witness	shahīdin
+3	41:47:29	e	٤٧	ﱠ			
+3	41:48:1	w	وَضَلَّ	ﱡ	وضل	And lost	waḍalla
+3	41:48:2	w	عَنۡهُم	ﱢ	عنهم	from them	ʿanhum
+4	41:48:3	w	مَّا	ﱣ	ما	what	mā
+4	41:48:4	w	كَانُواْ	ﱤ	كانوا	they were	kānū
+4	41:48:5	w	يَدۡعُونَ	ﱥ	يدعون	invoking	yadʿūna
+4	41:48:6	w	مِن	ﱦ	من	before	min
+4	41:48:7	w	قَبۡلُۖ	ﱧﱨ	قبل	before	qablu
+4	41:48:8	w	وَظَنُّواْ	ﱩ	وظنوا	and they (will) be certain	waẓannū
+4	41:48:9	w	مَا	ﱪ	ما	(that) not	mā
+4	41:48:10	w	لَهُم	ﱫ	لهم	for them	lahum
+4	41:48:11	w	مِّن	ﱬ	من	any	min
+4	41:48:12	w	مَّحِيصٖ	ﱭ	محيص	place of escape	maḥīṣin
+4	41:48:13	e	٤٨	ﱮ			
+5	41:49:1	w	لَّا	ﱯ	لا	(Does) not	lā
+5	41:49:2	w	يَسۡـَٔمُ	ﱰ	يسام	get tired	yasamu
+5	41:49:3	w	ٱلۡإِنسَٰنُ	ﱱ	الانسان	man	l-insānu
+5	41:49:4	w	مِن	ﱲ	من	of	min
+5	41:49:5	w	دُعَآءِ	ﱳ	دعاء	praying	duʿāi
+5	41:49:6	w	ٱلۡخَيۡرِ	ﱴ	الخير	(for) the good	l-khayri
+5	41:49:7	w	وَإِن	ﱵ	وان	but if	wa-in
+5	41:49:8	w	مَّسَّهُ	ﱶ	مسه	touches him	massahu
+5	41:49:9	w	ٱلشَّرُّ	ﱷ	الشر	the evil	l-sharu
+5	41:49:10	w	فَيَـُٔوسٞ	ﱸ	فييوس	then he gives up hope	fayaūsun
+6	41:49:11	w	قَنُوطٞ	ﱹ	قنوط	(and) despairs	qanūṭun
+6	41:49:12	e	٤٩	ﱺ			
+6	41:50:1	w	وَلَئِنۡ	ﱻ	ولين	And verily, if	wala-in
+6	41:50:2	w	أَذَقۡنَٰهُ	ﱼ	اذقناه	We let him taste	adhaqnāhu
+6	41:50:3	w	رَحۡمَةٗ	ﱽ	رحمة	mercy	raḥmatan
+6	41:50:4	w	مِّنَّا	ﱾ	منا	from Us	minnā
+6	41:50:5	w	مِنۢ	ﱿ	من	after	min
+6	41:50:6	w	بَعۡدِ	ﲀ	بعد	after	baʿdi
+6	41:50:7	w	ضَرَّآءَ	ﲁ	ضراء	an adversity	ḍarrāa
+6	41:50:8	w	مَسَّتۡهُ	ﲂ	مسته	(has) touched him	massathu
+7	41:50:9	w	لَيَقُولَنَّ	ﲃ	ليقولن	he will surely say	layaqūlanna
+7	41:50:10	w	هَٰذَا	ﲄ	هاذا	This (is)	hādhā
+7	41:50:11	w	لِي	ﲅ	لي	(due) to me	lī
+7	41:50:12	w	وَمَآ	ﲆ	وما	and not	wamā
+7	41:50:13	w	أَظُنُّ	ﲇ	اظن	I think	aẓunnu
+7	41:50:14	w	ٱلسَّاعَةَ	ﲈ	الساعة	the Hour	l-sāʿata
+7	41:50:15	w	قَآئِمَةٗ	ﲉ	قايمة	(will be) established	qāimatan
+7	41:50:16	w	وَلَئِن	ﲊ	ولين	and if	wala-in
+7	41:50:17	w	رُّجِعۡتُ	ﲋ	رجعت	I am returned	rujiʿ'tu
+7	41:50:18	w	إِلَىٰ	ﲌ	الى	to	ilā
+8	41:50:19	w	رَبِّيٓ	ﲍ	ربي	my Lord	rabbī
+8	41:50:20	w	إِنَّ	ﲎ	ان	indeed	inna
+8	41:50:21	w	لِي	ﲏ	لي	for me	lī
+8	41:50:22	w	عِندَهُۥ	ﲐ	عنده	with Him	ʿindahu
+8	41:50:23	w	لَلۡحُسۡنَىٰۚ	ﲑﲒ	للحسنى	(will be) the best	lalḥus'nā
+8	41:50:24	w	فَلَنُنَبِّئَنَّ	ﲓ	فلننبين	But We will surely inform	falanunabbi-anna
+8	41:50:25	w	ٱلَّذِينَ	ﲔ	الذين	those who	alladhīna
+8	41:50:26	w	كَفَرُواْ	ﲕ	كفروا	disbelieved	kafarū
+8	41:50:27	w	بِمَا	ﲖ	بما	about what	bimā
+8	41:50:28	w	عَمِلُواْ	ﲗ	عملوا	they did	ʿamilū
+9	41:50:29	w	وَلَنُذِيقَنَّهُم	ﲘ	ولنذيقنهم	and We will surely make them taste	walanudhīqannahum
+9	41:50:30	w	مِّنۡ	ﲙ	من	of	min
+9	41:50:31	w	عَذَابٍ	ﲚ	عذاب	a punishment	ʿadhābin
+9	41:50:32	w	غَلِيظٖ	ﲛ	غليظ	severe	ghalīẓin
+9	41:50:33	e	٥٠	ﲜ			
+9	41:51:1	w	وَإِذَآ	ﲝ	واذا	And when	wa-idhā
+9	41:51:2	w	أَنۡعَمۡنَا	ﲞ	انعمنا	We bestow favor	anʿamnā
+9	41:51:3	w	عَلَى	ﲟ	على	upon	ʿalā
+9	41:51:4	w	ٱلۡإِنسَٰنِ	ﲠ	الانسان	man	l-insāni
+10	41:51:5	w	أَعۡرَضَ	ﲡ	اعرض	he turns away	aʿraḍa
+10	41:51:6	w	وَنَـَٔا	ﲢ	وناى	and distances himself	wanaā
+10	41:51:7	w	بِجَانِبِهِۦ	ﲣ	بجانبه	and distances himself	bijānibihi
+10	41:51:8	w	وَإِذَا	ﲤ	واذا	but when	wa-idhā
+10	41:51:9	w	مَسَّهُ	ﲥ	مسه	touches him	massahu
+10	41:51:10	w	ٱلشَّرُّ	ﲦ	الشر	the evil	l-sharu
+10	41:51:11	w	فَذُو	ﲧ	فذو	then (he is) full	fadhū
+10	41:51:12	w	دُعَآءٍ	ﲨ	دعاء	(of) supplication	duʿāin
+10	41:51:13	w	عَرِيضٖ	ﲩ	عريض	lengthy	ʿarīḍin
+11	41:51:14	e	٥١	ﲪ			
+11	41:52:1	w	قُلۡ	ﲫ	قل	Say	qul
+11	41:52:2	w	أَرَءَيۡتُمۡ	ﲬ	ارايتم	You see	ara-aytum
+11	41:52:3	w	إِن	ﲭ	ان	if	in
+11	41:52:4	w	كَانَ	ﲮ	كان	it is	kāna
+11	41:52:5	w	مِنۡ	ﲯ	من	from	min
+11	41:52:6	w	عِندِ	ﲰ	عند	from	ʿindi
+11	41:52:7	w	ٱللَّهِ	ﲱ	الله	Allah	l-lahi
+11	41:52:8	w	ثُمَّ	ﲲ	ثم	then	thumma
+11	41:52:9	w	كَفَرۡتُم	ﲳ	كفرتم	you disbelieve	kafartum
+11	41:52:10	w	بِهِۦ	ﲴ	به	in it	bihi
+12	41:52:11	w	مَنۡ	ﲵ	من	who	man
+12	41:52:12	w	أَضَلُّ	ﲶ	اضل	(is) more astray	aḍallu
+12	41:52:13	w	مِمَّنۡ	ﲷ	ممن	than (one) who	mimman
+12	41:52:14	w	هُوَ	ﲸ	هو	he	huwa
+12	41:52:15	w	فِي	ﲹ	في	(is) in	fī
+12	41:52:16	w	شِقَاقِۭ	ﲺ	شقاق	opposition	shiqāqin
+12	41:52:17	w	بَعِيدٖ	ﲻ	بعيد	far	baʿīdin
+12	41:52:18	e	٥٢	ﲼ			
+12	41:53:1	w	سَنُرِيهِمۡ	ﲽ	سنريهم	Soon We will show them	sanurīhim
+12	41:53:2	w	ءَايَٰتِنَا	ﲾ	اياتنا	Our Signs	āyātinā
+13	41:53:3	w	فِي	ﲿ	في	in	fī
+13	41:53:4	w	ٱلۡأٓفَاقِ	ﳀ	الافاق	the horizons	l-āfāqi
+13	41:53:5	w	وَفِيٓ	ﳁ	وفي	and in	wafī
+13	41:53:6	w	أَنفُسِهِمۡ	ﳂ	انفسهم	themselves	anfusihim
+13	41:53:7	w	حَتَّىٰ	ﳃ	حتى	until	ḥattā
+13	41:53:8	w	يَتَبَيَّنَ	ﳄ	يتبين	becomes clear	yatabayyana
+13	41:53:9	w	لَهُمۡ	ﳅ	لهم	to them	lahum
+13	41:53:10	w	أَنَّهُ	ﳆ	انه	that it	annahu
+13	41:53:11	w	ٱلۡحَقُّۗ	ﳇﳈ	الحق	(is) the truth	l-ḥaqu
+14	41:53:12	w	أَوَلَمۡ	ﳉ	اولم	Is (it) not	awalam
+14	41:53:13	w	يَكۡفِ	ﳊ	يكف	sufficient	yakfi
+14	41:53:14	w	بِرَبِّكَ	ﳋ	بربك	concerning your Lord	birabbika
+14	41:53:15	w	أَنَّهُۥ	ﳌ	انه	that He	annahu
+14	41:53:16	w	عَلَىٰ	ﳍ	على	(is) over	ʿalā
+14	41:53:17	w	كُلِّ	ﳎ	كل	all	kulli
+14	41:53:18	w	شَيۡءٖ	ﳏ	شيء	things	shayin
+14	41:53:19	w	شَهِيدٌ	ﳐ	شهيد	a Witness	shahīdun
+14	41:53:20	e	٥٣	ﳑ			
+14	41:54:1	w	أَلَآ	ﳒ	الا	Unquestionably	alā
+14	41:54:2	w	إِنَّهُمۡ	ﳓ	انهم	they	innahum
+15	41:54:3	w	فِي	ﳔ	في	(are) in	fī
+15	41:54:4	w	مِرۡيَةٖ	ﳕ	مرية	doubt	mir'yatin
+15	41:54:5	w	مِّن	ﳖ	من	about	min
+15	41:54:6	w	لِّقَآءِ	ﳗ	لقاء	(the) meeting	liqāi
+15	41:54:7	w	رَبِّهِمۡۗ	ﳘﳙ	ربهم	(with) their Lord	rabbihim
+15	41:54:8	w	أَلَآ	ﳚ	الا	Unquestionably	alā
+15	41:54:9	w	إِنَّهُۥ	ﳛ	انه	indeed, He	innahu
+15	41:54:10	w	بِكُلِّ	ﳜ	بكل	(is) of all	bikulli
+15	41:54:11	w	شَيۡءٖ	ﳝ	شيء	things	shayin
+15	41:54:12	w	مُّحِيطُۢ	ﳞ	محيط	encompassing	muḥīṭun
+15	41:54:13	e	٥٤	ﳟ			

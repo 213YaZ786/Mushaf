@@ -1,0 +1,132 @@
+1	39:32:1	w	۞ فَمَنۡ	ﱁ ﱂ	۞ فمن	Then who	faman
+1	39:32:2	w	أَظۡلَمُ	ﱃ	اظلم	(is) more unjust	aẓlamu
+1	39:32:3	w	مِمَّن	ﱄ	ممن	than (one) who	mimman
+1	39:32:4	w	كَذَبَ	ﱅ	كذب	lies	kadhaba
+1	39:32:5	w	عَلَى	ﱆ	على	against	ʿalā
+1	39:32:6	w	ٱللَّهِ	ﱇ	الله	Allah	l-lahi
+1	39:32:7	w	وَكَذَّبَ	ﱈ	وكذب	and denies	wakadhaba
+1	39:32:8	w	بِٱلصِّدۡقِ	ﱉ	بالصدق	the truth	bil-ṣid'qi
+2	39:32:9	w	إِذۡ	ﱊ	اذ	when	idh
+2	39:32:10	w	جَآءَهُۥٓۚ	ﱋﱌ	جاءه	it comes to him	jāahu
+2	39:32:11	w	أَلَيۡسَ	ﱍ	اليس	Is (there) not	alaysa
+2	39:32:12	w	فِي	ﱎ	في	in	fī
+2	39:32:13	w	جَهَنَّمَ	ﱏ	جهنم	Hell	jahannama
+2	39:32:14	w	مَثۡوٗى	ﱐ	مثوى	an abode	mathwan
+2	39:32:15	w	لِّلۡكَٰفِرِينَ	ﱑ	للكافرين	for the disbelievers	lil'kāfirīna
+2	39:32:16	e	٣٢	ﱒ			
+2	39:33:1	w	وَٱلَّذِي	ﱓ	والذي	And the one who	wa-alladhī
+3	39:33:2	w	جَآءَ	ﱔ	جاء	brought	jāa
+3	39:33:3	w	بِٱلصِّدۡقِ	ﱕ	بالصدق	the truth	bil-ṣid'qi
+3	39:33:4	w	وَصَدَّقَ	ﱖ	وصدق	and believed	waṣaddaqa
+3	39:33:5	w	بِهِۦٓ	ﱗ	به	in it	bihi
+3	39:33:6	w	أُوْلَٰٓئِكَ	ﱘ	اولايك	those	ulāika
+3	39:33:7	w	هُمُ	ﱙ	هم	[they]	humu
+3	39:33:8	w	ٱلۡمُتَّقُونَ	ﱚ	المتقون	(are) the righteous	l-mutaqūna
+3	39:33:9	e	٣٣	ﱛ			
+4	39:34:1	w	لَهُم	ﱜ	لهم	For them	lahum
+4	39:34:2	w	مَّا	ﱝ	ما	(is) what	mā
+4	39:34:3	w	يَشَآءُونَ	ﱞ	يشاءون	they wish	yashāūna
+4	39:34:4	w	عِندَ	ﱟ	عند	with	ʿinda
+4	39:34:5	w	رَبِّهِمۡۚ	ﱠﱡ	ربهم	their Lord	rabbihim
+4	39:34:6	w	ذَٰلِكَ	ﱢ	ذالك	That	dhālika
+4	39:34:7	w	جَزَآءُ	ﱣ	جزاء	(is the) reward	jazāu
+4	39:34:8	w	ٱلۡمُحۡسِنِينَ	ﱤ	المحسنين	(of) the good-doers	l-muḥ'sinīna
+4	39:34:9	e	٣٤	ﱥ			
+5	39:35:1	w	لِيُكَفِّرَ	ﱦ	ليكفر	That Allah will remove	liyukaffira
+5	39:35:2	w	ٱللَّهُ	ﱧ	الله	That Allah will remove	l-lahu
+5	39:35:3	w	عَنۡهُمۡ	ﱨ	عنهم	from them	ʿanhum
+5	39:35:4	w	أَسۡوَأَ	ﱩ	اسوا	(the) worst	aswa-a
+5	39:35:5	w	ٱلَّذِي	ﱪ	الذي	(of) what	alladhī
+5	39:35:6	w	عَمِلُواْ	ﱫ	عملوا	they did	ʿamilū
+5	39:35:7	w	وَيَجۡزِيَهُمۡ	ﱬ	ويجزيهم	and reward them	wayajziyahum
+5	39:35:8	w	أَجۡرَهُم	ﱭ	اجرهم	their due	ajrahum
+6	39:35:9	w	بِأَحۡسَنِ	ﱮ	باحسن	for (the) best	bi-aḥsani
+6	39:35:10	w	ٱلَّذِي	ﱯ	الذي	(of) what	alladhī
+6	39:35:11	w	كَانُواْ	ﱰ	كانوا	they used to	kānū
+6	39:35:12	w	يَعۡمَلُونَ	ﱱ	يعملون	do	yaʿmalūna
+6	39:35:13	e	٣٥	ﱲ			
+6	39:36:1	w	أَلَيۡسَ	ﱳ	اليس	Is not	alaysa
+6	39:36:2	w	ٱللَّهُ	ﱴ	الله	Allah	l-lahu
+6	39:36:3	w	بِكَافٍ	ﱵ	بكاف	sufficient	bikāfin
+7	39:36:4	w	عَبۡدَهُۥۖ	ﱶﱷ	عبده	(for) His slave	ʿabdahu
+7	39:36:5	w	وَيُخَوِّفُونَكَ	ﱸ	ويخوفونك	And they threaten you	wayukhawwifūnaka
+7	39:36:6	w	بِٱلَّذِينَ	ﱹ	بالذين	with those	bi-alladhīna
+7	39:36:7	w	مِن	ﱺ	من	besides Him	min
+7	39:36:8	w	دُونِهِۦۚ	ﱻﱼ	دونه	besides Him	dūnihi
+7	39:36:9	w	وَمَن	ﱽ	ومن	And whoever	waman
+7	39:36:10	w	يُضۡلِلِ	ﱾ	يضلل	Allah lets go astray	yuḍ'lili
+7	39:36:11	w	ٱللَّهُ	ﱿ	الله	Allah lets go astray	l-lahu
+8	39:36:12	w	فَمَا	ﲀ	فما	then not	famā
+8	39:36:13	w	لَهُۥ	ﲁ	له	for him	lahu
+8	39:36:14	w	مِنۡ	ﲂ	من	any	min
+8	39:36:15	w	هَادٖ	ﲃ	هاد	guide	hādin
+8	39:36:16	e	٣٦	ﲄ			
+8	39:37:1	w	وَمَن	ﲅ	ومن	And whoever	waman
+8	39:37:2	w	يَهۡدِ	ﲆ	يهد	Allah guides	yahdi
+8	39:37:3	w	ٱللَّهُ	ﲇ	الله	Allah guides	l-lahu
+8	39:37:4	w	فَمَا	ﲈ	فما	then not	famā
+8	39:37:5	w	لَهُۥ	ﲉ	له	for him	lahu
+8	39:37:6	w	مِن	ﲊ	من	any	min
+8	39:37:7	w	مُّضِلٍّۗ	ﲋﲌ	مضل	misleader	muḍillin
+9	39:37:8	w	أَلَيۡسَ	ﲍ	اليس	Is not	alaysa
+9	39:37:9	w	ٱللَّهُ	ﲎ	الله	Allah	l-lahu
+9	39:37:10	w	بِعَزِيزٖ	ﲏ	بعزيز	All-Mighty	biʿazīzin
+9	39:37:11	w	ذِي	ﲐ	ذي	All-Able of retribution	dhī
+9	39:37:12	w	ٱنتِقَامٖ	ﲑ	انتقام	All-Able of retribution	intiqāmin
+9	39:37:13	e	٣٧	ﲒ			
+9	39:38:1	w	وَلَئِن	ﲓ	ولين	And if	wala-in
+9	39:38:2	w	سَأَلۡتَهُم	ﲔ	سالتهم	you ask them	sa-altahum
+9	39:38:3	w	مَّنۡ	ﲕ	من	who	man
+9	39:38:4	w	خَلَقَ	ﲖ	خلق	created	khalaqa
+10	39:38:5	w	ٱلسَّمَٰوَٰتِ	ﲗ	السماوات	the heavens	l-samāwāti
+10	39:38:6	w	وَٱلۡأَرۡضَ	ﲘ	والارض	and the earth	wal-arḍa
+10	39:38:7	w	لَيَقُولُنَّ	ﲙ	ليقولن	Surely, they will say	layaqūlunna
+10	39:38:8	w	ٱللَّهُۚ	ﲚﲛ	الله	Allah	l-lahu
+10	39:38:9	w	قُلۡ	ﲜ	قل	Say	qul
+10	39:38:10	w	أَفَرَءَيۡتُم	ﲝ	افرايتم	Then do you see	afara-aytum
+10	39:38:11	w	مَّا	ﲞ	ما	what	mā
+10	39:38:12	w	تَدۡعُونَ	ﲟ	تدعون	you invoke	tadʿūna
+11	39:38:13	w	مِن	ﲠ	من	besides	min
+11	39:38:14	w	دُونِ	ﲡ	دون	besides	dūni
+11	39:38:15	w	ٱللَّهِ	ﲢ	الله	Allah	l-lahi
+11	39:38:16	w	إِنۡ	ﲣ	ان	if	in
+11	39:38:17	w	أَرَادَنِيَ	ﲤ	ارادني	Allah intended for me	arādaniya
+11	39:38:18	w	ٱللَّهُ	ﲥ	الله	Allah intended for me	l-lahu
+11	39:38:19	w	بِضُرٍّ	ﲦ	بضر	harm	biḍurrin
+11	39:38:20	w	هَلۡ	ﲧ	هل	are	hal
+11	39:38:21	w	هُنَّ	ﲨ	هن	they	hunna
+11	39:38:22	w	كَٰشِفَٰتُ	ﲩ	كاشفات	removers	kāshifātu
+12	39:38:23	w	ضُرِّهِۦٓ	ﲪ	ضره	(of) harm (from) Him	ḍurrihi
+12	39:38:24	w	أَوۡ	ﲫ	او	or	aw
+12	39:38:25	w	أَرَادَنِي	ﲬ	ارادني	if He intended for me	arādanī
+12	39:38:26	w	بِرَحۡمَةٍ	ﲭ	برحمة	mercy	biraḥmatin
+12	39:38:27	w	هَلۡ	ﲮ	هل	are	hal
+12	39:38:28	w	هُنَّ	ﲯ	هن	they	hunna
+12	39:38:29	w	مُمۡسِكَٰتُ	ﲰ	ممسكات	withholders	mum'sikātu
+12	39:38:30	w	رَحۡمَتِهِۦۚ	ﲱﲲ	رحمته	(of) His mercy	raḥmatihi
+13	39:38:31	w	قُلۡ	ﲳ	قل	Say	qul
+13	39:38:32	w	حَسۡبِيَ	ﲴ	حسبي	Sufficient (is) Allah for me	ḥasbiya
+13	39:38:33	w	ٱللَّهُۖ	ﲵﲶ	الله	Sufficient (is) Allah for me	l-lahu
+13	39:38:34	w	عَلَيۡهِ	ﲷ	عليه	upon Him	ʿalayhi
+13	39:38:35	w	يَتَوَكَّلُ	ﲸ	يتوكل	put trust	yatawakkalu
+13	39:38:36	w	ٱلۡمُتَوَكِّلُونَ	ﲹ	المتوكلون	those who trust	l-mutawakilūna
+13	39:38:37	e	٣٨	ﲺ			
+13	39:39:1	w	قُلۡ	ﲻ	قل	Say	qul
+13	39:39:2	w	يَٰقَوۡمِ	ﲼ	يا قوم	O my people	yāqawmi
+14	39:39:3	w	ٱعۡمَلُواْ	ﲽ	اعملوا	Work	iʿ'malū
+14	39:39:4	w	عَلَىٰ	ﲾ	على	(according) to	ʿalā
+14	39:39:5	w	مَكَانَتِكُمۡ	ﲿ	مكانتكم	your position	makānatikum
+14	39:39:6	w	إِنِّي	ﳀ	اني	indeed, I am	innī
+14	39:39:7	w	عَٰمِلٞۖ	ﳁﳂ	عامل	working	ʿāmilun
+14	39:39:8	w	فَسَوۡفَ	ﳃ	فسوف	then soon	fasawfa
+14	39:39:9	w	تَعۡلَمُونَ	ﳄ	تعلمون	you will know	taʿlamūna
+14	39:39:10	e	٣٩	ﳅ			
+15	39:40:1	w	مَن	ﳆ	من	(Upon) whom	man
+15	39:40:2	w	يَأۡتِيهِ	ﳇ	ياتيه	will come	yatīhi
+15	39:40:3	w	عَذَابٞ	ﳈ	عذاب	a punishment	ʿadhābun
+15	39:40:4	w	يُخۡزِيهِ	ﳉ	يخزيه	disgracing him	yukh'zīhi
+15	39:40:5	w	وَيَحِلُّ	ﳊ	ويحل	and descends	wayaḥillu
+15	39:40:6	w	عَلَيۡهِ	ﳋ	عليه	on him	ʿalayhi
+15	39:40:7	w	عَذَابٞ	ﳌ	عذاب	a punishment	ʿadhābun
+15	39:40:8	w	مُّقِيمٌ	ﳍ	مقيم	everlasting	muqīmun
+15	39:40:9	e	٤٠	ﳎ			

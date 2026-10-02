@@ -1,0 +1,147 @@
+1	13:35:1	w	۞ مَّثَلُ	ﱁ ﱂ	۞ مثل	The example	mathalu
+1	13:35:2	w	ٱلۡجَنَّةِ	ﱃ	الجنة	of Paradise	l-janati
+1	13:35:3	w	ٱلَّتِي	ﱄ	التي	which	allatī
+1	13:35:4	w	وُعِدَ	ﱅ	وعد	(is) promised	wuʿida
+1	13:35:5	w	ٱلۡمُتَّقُونَۖ	ﱆﱇ	المتقون	(to) the righteous	l-mutaqūna
+1	13:35:6	w	تَجۡرِي	ﱈ	تجري	flows	tajrī
+1	13:35:7	w	مِن	ﱉ	من	from	min
+1	13:35:8	w	تَحۡتِهَا	ﱊ	تحتها	underneath it	taḥtihā
+1	13:35:9	w	ٱلۡأَنۡهَٰرُۖ	ﱋﱌ	الانهار	the rivers	l-anhāru
+2	13:35:10	w	أُكُلُهَا	ﱍ	اكلها	Its food	ukuluhā
+2	13:35:11	w	دَآئِمٞ	ﱎ	دايم	(is) everlasting	dāimun
+2	13:35:12	w	وَظِلُّهَاۚ	ﱏﱐ	وظلها	and its shade	waẓilluhā
+2	13:35:13	w	تِلۡكَ	ﱑ	تلك	This	til'ka
+2	13:35:14	w	عُقۡبَى	ﱒ	عقبى	(is the) end	ʿuq'bā
+2	13:35:15	w	ٱلَّذِينَ	ﱓ	الذين	of those who	alladhīna
+2	13:35:16	w	ٱتَّقَواْۚ	ﱔﱕ	اتقوا	(are) righteous	ittaqaw
+2	13:35:17	w	وَّعُقۡبَى	ﱖ	وعقبى	and (the) end	waʿuq'bā
+3	13:35:18	w	ٱلۡكَٰفِرِينَ	ﱗ	الكافرين	(of) the disbelievers	l-kāfirīna
+3	13:35:19	w	ٱلنَّارُ	ﱘ	النار	(is) the Fire	l-nāru
+3	13:35:20	e	٣٥	ﱙ			
+3	13:36:1	w	وَٱلَّذِينَ	ﱚ	والذين	And those (to) whom	wa-alladhīna
+3	13:36:2	w	ءَاتَيۡنَٰهُمُ	ﱛ	اتيناهم	We have given them	ātaynāhumu
+3	13:36:3	w	ٱلۡكِتَٰبَ	ﱜ	الكتاب	the Book	l-kitāba
+3	13:36:4	w	يَفۡرَحُونَ	ﱝ	يفرحون	rejoice	yafraḥūna
+4	13:36:5	w	بِمَآ	ﱞ	بما	at what	bimā
+4	13:36:6	w	أُنزِلَ	ﱟ	انزل	has been revealed	unzila
+4	13:36:7	w	إِلَيۡكَۖ	ﱠﱡ	اليك	to you	ilayka
+4	13:36:8	w	وَمِنَ	ﱢ	ومن	but among	wamina
+4	13:36:9	w	ٱلۡأَحۡزَابِ	ﱣ	الاحزاب	the groups	l-aḥzābi
+4	13:36:10	w	مَن	ﱤ	من	(those) who	man
+4	13:36:11	w	يُنكِرُ	ﱥ	ينكر	deny	yunkiru
+4	13:36:12	w	بَعۡضَهُۥۚ	ﱦﱧ	بعضه	a part of it	baʿḍahu
+4	13:36:13	w	قُلۡ	ﱨ	قل	Say	qul
+4	13:36:14	w	إِنَّمَآ	ﱩ	انما	Only	innamā
+5	13:36:15	w	أُمِرۡتُ	ﱪ	امرت	I have been commanded	umir'tu
+5	13:36:16	w	أَنۡ	ﱫ	ان	that	an
+5	13:36:17	w	أَعۡبُدَ	ﱬ	اعبد	I worship	aʿbuda
+5	13:36:18	w	ٱللَّهَ	ﱭ	الله	Allah	l-laha
+5	13:36:19	w	وَلَآ	ﱮ	ولا	and not	walā
+5	13:36:20	w	أُشۡرِكَ	ﱯ	اشرك	I associate partners	ush'rika
+5	13:36:21	w	بِهِۦٓۚ	ﱰﱱ	به	with Him	bihi
+5	13:36:22	w	إِلَيۡهِ	ﱲ	اليه	To Him	ilayhi
+5	13:36:23	w	أَدۡعُواْ	ﱳ	ادعو	I call	adʿū
+5	13:36:24	w	وَإِلَيۡهِ	ﱴ	واليه	and to Him	wa-ilayhi
+5	13:36:25	w	مَـَٔابِ	ﱵ	ماب	(is) my return	maābi
+6	13:36:26	e	٣٦	ﱶ			
+6	13:37:1	w	وَكَذَٰلِكَ	ﱷ	وكذالك	And thus	wakadhālika
+6	13:37:2	w	أَنزَلۡنَٰهُ	ﱸ	انزلناه	We have revealed it	anzalnāhu
+6	13:37:3	w	حُكۡمًا	ﱹ	حكما	(to be) a judgment of authority	ḥuk'man
+6	13:37:4	w	عَرَبِيّٗاۚ	ﱺﱻ	عربيا	(in) Arabic	ʿarabiyyan
+6	13:37:5	w	وَلَئِنِ	ﱼ	ولين	And if	wala-ini
+6	13:37:6	w	ٱتَّبَعۡتَ	ﱽ	اتبعت	you follow	ittabaʿta
+6	13:37:7	w	أَهۡوَآءَهُم	ﱾ	اهواءهم	their desires	ahwāahum
+7	13:37:8	w	بَعۡدَ مَا	ﱿﲀ	بعد ما	after what	baʿdamā
+7	13:37:9	w	جَآءَكَ	ﲁ	جاءك	came to you	jāaka
+7	13:37:10	w	مِنَ	ﲂ	من	of	mina
+7	13:37:11	w	ٱلۡعِلۡمِ	ﲃ	العلم	the knowledge	l-ʿil'mi
+7	13:37:12	w	مَا	ﲄ	ما	not	mā
+7	13:37:13	w	لَكَ	ﲅ	لك	for you	laka
+7	13:37:14	w	مِنَ	ﲆ	من	against	mina
+7	13:37:15	w	ٱللَّهِ	ﲇ	الله	Allah	l-lahi
+7	13:37:16	w	مِن	ﲈ	من	any	min
+7	13:37:17	w	وَلِيّٖ	ﲉ	ولي	protector	waliyyin
+7	13:37:18	w	وَلَا	ﲊ	ولا	and not	walā
+7	13:37:19	w	وَاقٖ	ﲋ	واق	defender	wāqin
+7	13:37:20	e	٣٧	ﲌ			
+7	13:38:1	w	وَلَقَدۡ	ﲍ	ولقد	And certainly	walaqad
+8	13:38:2	w	أَرۡسَلۡنَا	ﲎ	ارسلنا	We sent	arsalnā
+8	13:38:3	w	رُسُلٗا	ﲏ	رسلا	Messengers	rusulan
+8	13:38:4	w	مِّن	ﲐ	من	from	min
+8	13:38:5	w	قَبۡلِكَ	ﲑ	قبلك	before you	qablika
+8	13:38:6	w	وَجَعَلۡنَا	ﲒ	وجعلنا	and We made	wajaʿalnā
+8	13:38:7	w	لَهُمۡ	ﲓ	لهم	for them	lahum
+8	13:38:8	w	أَزۡوَٰجٗا	ﲔ	ازواجا	wives	azwājan
+8	13:38:9	w	وَذُرِّيَّةٗۚ	ﲕﲖ	وذرية	and offspring	wadhurriyyatan
+8	13:38:10	w	وَمَا	ﲗ	وما	And not	wamā
+8	13:38:11	w	كَانَ	ﲘ	كان	was	kāna
+9	13:38:12	w	لِرَسُولٍ	ﲙ	لرسول	for a Messenger	lirasūlin
+9	13:38:13	w	أَن	ﲚ	ان	that	an
+9	13:38:14	w	يَأۡتِيَ	ﲛ	ياتي	he comes	yatiya
+9	13:38:15	w	بِـَٔايَةٍ	ﲜ	باية	with a sign	biāyatin
+9	13:38:16	w	إِلَّا	ﲝ	الا	except	illā
+9	13:38:17	w	بِإِذۡنِ	ﲞ	باذن	by the leave	bi-idh'ni
+9	13:38:18	w	ٱللَّهِۗ	ﲟﲠ	الله	(of) Allah	l-lahi
+9	13:38:19	w	لِكُلِّ	ﲡ	لكل	For everything	likulli
+9	13:38:20	w	أَجَلٖ	ﲢ	اجل	(is) a time	ajalin
+9	13:38:21	w	كِتَابٞ	ﲣ	كتاب	prescribed	kitābun
+9	13:38:22	e	٣٨	ﲤ			
+10	13:39:1	w	يَمۡحُواْ	ﲥ	يمحو	(Is) eliminated	yamḥū
+10	13:39:2	w	ٱللَّهُ	ﲦ	الله	(by) Allah	l-lahu
+10	13:39:3	w	مَا	ﲧ	ما	what	mā
+10	13:39:4	w	يَشَآءُ	ﲨ	يشاء	He wills	yashāu
+10	13:39:5	w	وَيُثۡبِتُۖ	ﲩﲪ	ويثبت	and confirms	wayuth'bitu
+10	13:39:6	w	وَعِندَهُۥٓ	ﲫ	وعنده	and with Him	waʿindahu
+10	13:39:7	w	أُمُّ	ﲬ	ام	(is) the Mother (of) the Book	ummu
+10	13:39:8	w	ٱلۡكِتَٰبِ	ﲭ	الكتاب	(is) the Mother (of) the Book	l-kitābi
+10	13:39:9	e	٣٩	ﲮ			
+10	13:40:1	w	وَإِن	ﲯ	وان	And whether	wa-in
+10	13:40:2	w	مَّا	ﲰ	ما	(what)	mā
+11	13:40:3	w	نُرِيَنَّكَ	ﲱ	نرينك	We show you	nuriyannaka
+11	13:40:4	w	بَعۡضَ	ﲲ	بعض	a part	baʿḍa
+11	13:40:5	w	ٱلَّذِي	ﲳ	الذي	(of) what	alladhī
+11	13:40:6	w	نَعِدُهُمۡ	ﲴ	نعدهم	We have promised them	naʿiduhum
+11	13:40:7	w	أَوۡ	ﲵ	او	or	aw
+11	13:40:8	w	نَتَوَفَّيَنَّكَ	ﲶ	نتوفينك	We cause you to die	natawaffayannaka
+11	13:40:9	w	فَإِنَّمَا	ﲷ	فانما	so only	fa-innamā
+11	13:40:10	w	عَلَيۡكَ	ﲸ	عليك	on you	ʿalayka
+11	13:40:11	w	ٱلۡبَلَٰغُ	ﲹ	البلاغ	(is) the conveyance	l-balāghu
+12	13:40:12	w	وَعَلَيۡنَا	ﲺ	وعلينا	and on Us	waʿalaynā
+12	13:40:13	w	ٱلۡحِسَابُ	ﲻ	الحساب	(is) the reckoning	l-ḥisābu
+12	13:40:14	e	٤٠	ﲼ			
+12	13:41:1	w	أَوَلَمۡ	ﲽ	اولم	Did not	awalam
+12	13:41:2	w	يَرَوۡاْ	ﲾ	يروا	they see	yaraw
+12	13:41:3	w	أَنَّا	ﲿ	انا	that We	annā
+12	13:41:4	w	نَأۡتِي	ﳀ	ناتي	come	natī
+12	13:41:5	w	ٱلۡأَرۡضَ	ﳁ	الارض	(to) the land	l-arḍa
+12	13:41:6	w	نَنقُصُهَا	ﳂ	ننقصها	reducing it	nanquṣuhā
+13	13:41:7	w	مِنۡ	ﳃ	من	from	min
+13	13:41:8	w	أَطۡرَافِهَاۚ	ﳄﳅ	اطرافها	its borders	aṭrāfihā
+13	13:41:9	w	وَٱللَّهُ	ﳆ	والله	And Allah	wal-lahu
+13	13:41:10	w	يَحۡكُمُ	ﳇ	يحكم	judges	yaḥkumu
+13	13:41:11	w	لَا	ﳈ	لا	(there is) no	lā
+13	13:41:12	w	مُعَقِّبَ	ﳉ	معقب	adjuster	muʿaqqiba
+13	13:41:13	w	لِحُكۡمِهِۦۚ	ﳊﳋ	لحكمه	(of) His Judgment	liḥuk'mihi
+13	13:41:14	w	وَهُوَ	ﳌ	وهو	And He	wahuwa
+13	13:41:15	w	سَرِيعُ	ﳍ	سريع	(is) Swift	sarīʿu
+14	13:41:16	w	ٱلۡحِسَابِ	ﳎ	الحساب	(in) the reckoning	l-ḥisābi
+14	13:41:17	e	٤١	ﳏ			
+14	13:42:1	w	وَقَدۡ	ﳐ	وقد	And certainly	waqad
+14	13:42:2	w	مَكَرَ	ﳑ	مكر	plotted	makara
+14	13:42:3	w	ٱلَّذِينَ	ﳒ	الذين	those who	alladhīna
+14	13:42:4	w	مِن	ﳓ	من	(were) from	min
+14	13:42:5	w	قَبۡلِهِمۡ	ﳔ	قبلهم	before them	qablihim
+14	13:42:6	w	فَلِلَّهِ	ﳕ	فلله	but for Allah	falillahi
+14	13:42:7	w	ٱلۡمَكۡرُ	ﳖ	المكر	(is) the plot	l-makru
+14	13:42:8	w	جَمِيعٗاۖ	ﳗﳘ	جميعا	all	jamīʿan
+15	13:42:9	w	يَعۡلَمُ	ﳙ	يعلم	He knows	yaʿlamu
+15	13:42:10	w	مَا	ﳚ	ما	what	mā
+15	13:42:11	w	تَكۡسِبُ	ﳛ	تكسب	earns	taksibu
+15	13:42:12	w	كُلُّ	ﳜ	كل	every	kullu
+15	13:42:13	w	نَفۡسٖۗ	ﳝﳞ	نفس	soul	nafsin
+15	13:42:14	w	وَسَيَعۡلَمُ	ﳟ	وسيعلم	and will know	wasayaʿlamu
+15	13:42:15	w	ٱلۡكُفَّٰرُ	ﳠ	الكفار	the disbelievers	l-kufāru
+15	13:42:16	w	لِمَنۡ	ﳡ	لمن	for whom	liman
+15	13:42:17	w	عُقۡبَى	ﳢ	عقبى	(is) the final	ʿuq'bā
+15	13:42:18	w	ٱلدَّارِ	ﳣ	الدار	the home	l-dāri
+15	13:42:19	e	٤٢	ﳤ			

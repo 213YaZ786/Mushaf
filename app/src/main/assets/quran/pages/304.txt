@@ -1,0 +1,166 @@
+1	18:98:1	w	قَالَ	ﱁ	قال	He said	qāla
+1	18:98:2	w	هَٰذَا	ﱂ	هاذا	This	hādhā
+1	18:98:3	w	رَحۡمَةٞ	ﱃ	رحمة	(is) a mercy	raḥmatun
+1	18:98:4	w	مِّن	ﱄ	من	from	min
+1	18:98:5	w	رَّبِّيۖ	ﱅﱆ	ربي	my Lord	rabbī
+1	18:98:6	w	فَإِذَا	ﱇ	فاذا	But when	fa-idhā
+1	18:98:7	w	جَآءَ	ﱈ	جاء	comes	jāa
+1	18:98:8	w	وَعۡدُ	ﱉ	وعد	(the) Promise	waʿdu
+1	18:98:9	w	رَبِّي	ﱊ	ربي	(of) my Lord	rabbī
+1	18:98:10	w	جَعَلَهُۥ	ﱋ	جعله	He will make it	jaʿalahu
+1	18:98:11	w	دَكَّآءَۖ	ﱌﱍ	دكاء	level	dakkāa
+1	18:98:12	w	وَكَانَ	ﱎ	وكان	And is	wakāna
+1	18:98:13	w	وَعۡدُ	ﱏ	وعد	(the) Promise	waʿdu
+1	18:98:14	w	رَبِّي	ﱐ	ربي	(of) my Lord	rabbī
+2	18:98:15	w	حَقّٗا	ﱑ	حقا	true	ḥaqqan
+2	18:98:16	e	٩٨	ﱒ			
+2	18:99:1	w	۞ وَتَرَكۡنَا	ﱓ ﱔ	۞ وتركنا	And We (will) leave	wataraknā
+2	18:99:2	w	بَعۡضَهُمۡ	ﱕ	بعضهم	some of them	baʿḍahum
+2	18:99:3	w	يَوۡمَئِذٖ	ﱖ	يوميذ	(on) that Day	yawma-idhin
+2	18:99:4	w	يَمُوجُ	ﱗ	يموج	to surge	yamūju
+2	18:99:5	w	فِي	ﱘ	في	over	fī
+2	18:99:6	w	بَعۡضٖۖ	ﱙﱚ	بعض	others	baʿḍin
+2	18:99:7	w	وَنُفِخَ	ﱛ	ونفخ	and (will be) blown	wanufikha
+2	18:99:8	w	فِي	ﱜ	في	in	fī
+2	18:99:9	w	ٱلصُّورِ	ﱝ	الصور	the trumpet	l-ṣūri
+3	18:99:10	w	فَجَمَعۡنَٰهُمۡ	ﱞ	فجمعناهم	then We (will) gather them	fajamaʿnāhum
+3	18:99:11	w	جَمۡعٗا	ﱟ	جمعا	all together	jamʿan
+3	18:99:12	e	٩٩	ﱠ			
+3	18:100:1	w	وَعَرَضۡنَا	ﱡ	وعرضنا	And We (will) present	waʿaraḍnā
+3	18:100:2	w	جَهَنَّمَ	ﱢ	جهنم	Hell	jahannama
+3	18:100:3	w	يَوۡمَئِذٖ	ﱣ	يوميذ	(on) that Day	yawma-idhin
+3	18:100:4	w	لِّلۡكَٰفِرِينَ	ﱤ	للكافرين	to the disbelievers	lil'kāfirīna
+3	18:100:5	w	عَرۡضًا	ﱥ	عرضا	(on) display	ʿarḍan
+3	18:100:6	e	١٠٠	ﱦ			
+4	18:101:1	w	ٱلَّذِينَ	ﱧ	الذين	Those	alladhīna
+4	18:101:2	w	كَانَتۡ	ﱨ	كانت	had been	kānat
+4	18:101:3	w	أَعۡيُنُهُمۡ	ﱩ	اعينهم	their eyes	aʿyunuhum
+4	18:101:4	w	فِي	ﱪ	في	within	fī
+4	18:101:5	w	غِطَآءٍ	ﱫ	غطاء	a cover	ghiṭāin
+4	18:101:6	w	عَن	ﱬ	عن	from	ʿan
+4	18:101:7	w	ذِكۡرِي	ﱭ	ذكري	My remembrance	dhik'rī
+4	18:101:8	w	وَكَانُواْ	ﱮ	وكانوا	and were	wakānū
+4	18:101:9	w	لَا	ﱯ	لا	not	lā
+4	18:101:10	w	يَسۡتَطِيعُونَ	ﱰ	يستطيعون	able	yastaṭīʿūna
+4	18:101:11	w	سَمۡعًا	ﱱ	سمعا	(to) hear	samʿan
+5	18:101:12	e	١٠١	ﱲ			
+5	18:102:1	w	أَفَحَسِبَ	ﱳ	افحسب	Do then think	afaḥasiba
+5	18:102:2	w	ٱلَّذِينَ	ﱴ	الذين	those who	alladhīna
+5	18:102:3	w	كَفَرُوٓاْ	ﱵ	كفروا	disbelieve	kafarū
+5	18:102:4	w	أَن	ﱶ	ان	that	an
+5	18:102:5	w	يَتَّخِذُواْ	ﱷ	يتخذوا	they (can) take	yattakhidhū
+5	18:102:6	w	عِبَادِي	ﱸ	عبادي	My servants	ʿibādī
+5	18:102:7	w	مِن	ﱹ	من	besides Me	min
+5	18:102:8	w	دُونِيٓ	ﱺ	دوني	besides Me	dūnī
+5	18:102:9	w	أَوۡلِيَآءَۚ	ﱻﱼ	اولياء	(as) protectors	awliyāa
+5	18:102:10	w	إِنَّآ	ﱽ	انا	Indeed, We	innā
+6	18:102:11	w	أَعۡتَدۡنَا	ﱾ	اعتدنا	We have prepared	aʿtadnā
+6	18:102:12	w	جَهَنَّمَ	ﱿ	جهنم	Hell	jahannama
+6	18:102:13	w	لِلۡكَٰفِرِينَ	ﲀ	للكافرين	for the disbelievers	lil'kāfirīna
+6	18:102:14	w	نُزُلٗا	ﲁ	نزلا	(as) a lodging	nuzulan
+6	18:102:15	e	١٠٢	ﲂ			
+6	18:103:1	w	قُلۡ	ﲃ	قل	Say	qul
+6	18:103:2	w	هَلۡ	ﲄ	هل	Shall	hal
+6	18:103:3	w	نُنَبِّئُكُم	ﲅ	ننبيكم	We inform you	nunabbi-ukum
+6	18:103:4	w	بِٱلۡأَخۡسَرِينَ	ﲆ	بالاخسرين	of the greatest losers	bil-akhsarīna
+6	18:103:5	w	أَعۡمَٰلًا	ﲇ	اعمالا	(as to their) deeds	aʿmālan
+7	18:103:6	e	١٠٣	ﲈ			
+7	18:104:1	w	ٱلَّذِينَ	ﲉ	الذين	Those	alladhīna
+7	18:104:2	w	ضَلَّ	ﲊ	ضل	is lost	ḍalla
+7	18:104:3	w	سَعۡيُهُمۡ	ﲋ	سعيهم	their effort	saʿyuhum
+7	18:104:4	w	فِي	ﲌ	في	in	fī
+7	18:104:5	w	ٱلۡحَيَوٰةِ	ﲍ	الحياة	the life	l-ḥayati
+7	18:104:6	w	ٱلدُّنۡيَا	ﲎ	الدنيا	(of) the world	l-dun'yā
+7	18:104:7	w	وَهُمۡ	ﲏ	وهم	while they	wahum
+7	18:104:8	w	يَحۡسَبُونَ	ﲐ	يحسبون	think	yaḥsabūna
+7	18:104:9	w	أَنَّهُمۡ	ﲑ	انهم	that they	annahum
+7	18:104:10	w	يُحۡسِنُونَ	ﲒ	يحسنون	(were) acquiring good	yuḥ'sinūna
+8	18:104:11	w	صُنۡعًا	ﲓ	صنعا	(in) work	ṣun'ʿan
+8	18:104:12	e	١٠٤	ﲔ			
+8	18:105:1	w	أُوْلَٰٓئِكَ	ﲕ	اولايك	Those	ulāika
+8	18:105:2	w	ٱلَّذِينَ	ﲖ	الذين	(are) the ones who	alladhīna
+8	18:105:3	w	كَفَرُواْ	ﲗ	كفروا	disbelieve	kafarū
+8	18:105:4	w	بِـَٔايَٰتِ	ﲘ	بايات	in the Verses	biāyāti
+8	18:105:5	w	رَبِّهِمۡ	ﲙ	ربهم	(of) their Lord	rabbihim
+8	18:105:6	w	وَلِقَآئِهِۦ	ﲚ	ولقايه	and the meeting (with) Him	waliqāihi
+8	18:105:7	w	فَحَبِطَتۡ	ﲛ	فحبطت	So (are) vain	faḥabiṭat
+9	18:105:8	w	أَعۡمَٰلُهُمۡ	ﲜ	اعمالهم	their deeds	aʿmāluhum
+9	18:105:9	w	فَلَا	ﲝ	فلا	so not	falā
+9	18:105:10	w	نُقِيمُ	ﲞ	نقيم	We will assign	nuqīmu
+9	18:105:11	w	لَهُمۡ	ﲟ	لهم	for them	lahum
+9	18:105:12	w	يَوۡمَ	ﲠ	يوم	(on) the Day	yawma
+9	18:105:13	w	ٱلۡقِيَٰمَةِ	ﲡ	القيامة	(of) the Resurrection	l-qiyāmati
+9	18:105:14	w	وَزۡنٗا	ﲢ	وزنا	any weight	waznan
+9	18:105:15	e	١٠٥	ﲣ			
+9	18:106:1	w	ذَٰلِكَ	ﲤ	ذالك	That	dhālika
+9	18:106:2	w	جَزَآؤُهُمۡ	ﲥ	جزاوهم	(is) their recompense	jazāuhum
+9	18:106:3	w	جَهَنَّمُ	ﲦ	جهنم	Hell	jahannamu
+10	18:106:4	w	بِمَا	ﲧ	بما	because	bimā
+10	18:106:5	w	كَفَرُواْ	ﲨ	كفروا	they disbelieved	kafarū
+10	18:106:6	w	وَٱتَّخَذُوٓاْ	ﲩ	واتخذوا	and took	wa-ittakhadhū
+10	18:106:7	w	ءَايَٰتِي	ﲪ	اياتي	My Verses	āyātī
+10	18:106:8	w	وَرُسُلِي	ﲫ	ورسلي	and My Messengers	warusulī
+10	18:106:9	w	هُزُوًا	ﲬ	هزوا	(in) ridicule	huzuwan
+10	18:106:10	e	١٠٦	ﲭ			
+10	18:107:1	w	إِنَّ	ﲮ	ان	Indeed	inna
+10	18:107:2	w	ٱلَّذِينَ	ﲯ	الذين	those who	alladhīna
+10	18:107:3	w	ءَامَنُواْ	ﲰ	امنوا	believed	āmanū
+10	18:107:4	w	وَعَمِلُواْ	ﲱ	وعملوا	and did	waʿamilū
+11	18:107:5	w	ٱلصَّٰلِحَٰتِ	ﲲ	الصالحات	righteous deeds	l-ṣāliḥāti
+11	18:107:6	w	كَانَتۡ	ﲳ	كانت	for them will be	kānat
+11	18:107:7	w	لَهُمۡ	ﲴ	لهم	for them will be	lahum
+11	18:107:8	w	جَنَّٰتُ	ﲵ	جنات	Gardens	jannātu
+11	18:107:9	w	ٱلۡفِرۡدَوۡسِ	ﲶ	الفردوس	(of) the Paradise	l-fir'dawsi
+11	18:107:10	w	نُزُلًا	ﲷ	نزلا	(as) a lodging	nuzulan
+11	18:107:11	e	١٠٧	ﲸ			
+11	18:108:1	w	خَٰلِدِينَ	ﲹ	خالدين	Abiding forever	khālidīna
+11	18:108:2	w	فِيهَا	ﲺ	فيها	in it	fīhā
+12	18:108:3	w	لَا	ﲻ	لا	Not	lā
+12	18:108:4	w	يَبۡغُونَ	ﲼ	يبغون	they will desire	yabghūna
+12	18:108:5	w	عَنۡهَا	ﲽ	عنها	from it	ʿanhā
+12	18:108:6	w	حِوَلٗا	ﲾ	حولا	any transfer	ḥiwalan
+12	18:108:7	e	١٠٨	ﲿ			
+12	18:109:1	w	قُل	ﳀ	قل	Say	qul
+12	18:109:2	w	لَّوۡ	ﳁ	لو	If	law
+12	18:109:3	w	كَانَ	ﳂ	كان	were	kāna
+12	18:109:4	w	ٱلۡبَحۡرُ	ﳃ	البحر	the sea	l-baḥru
+12	18:109:5	w	مِدَادٗا	ﳄ	مدادا	ink	midādan
+12	18:109:6	w	لِّكَلِمَٰتِ	ﳅ	لكلمات	for (the) Words	likalimāti
+12	18:109:7	w	رَبِّي	ﳆ	ربي	(of) my Lord	rabbī
+12	18:109:8	w	لَنَفِدَ	ﳇ	لنفد	surely (would be) exhausted	lanafida
+13	18:109:9	w	ٱلۡبَحۡرُ	ﳈ	البحر	the sea	l-baḥru
+13	18:109:10	w	قَبۡلَ	ﳉ	قبل	before	qabla
+13	18:109:11	w	أَن	ﳊ	ان	[that]	an
+13	18:109:12	w	تَنفَدَ	ﳋ	تنفد	(were) exhausted	tanfada
+13	18:109:13	w	كَلِمَٰتُ	ﳌ	كلمات	(the) Words	kalimātu
+13	18:109:14	w	رَبِّي	ﳍ	ربي	(of) my Lord	rabbī
+13	18:109:15	w	وَلَوۡ	ﳎ	ولو	even if	walaw
+13	18:109:16	w	جِئۡنَا	ﳏ	جينا	We brought	ji'nā
+13	18:109:17	w	بِمِثۡلِهِۦ	ﳐ	بمثله	(the) like (of) it	bimith'lihi
+13	18:109:18	w	مَدَدٗا	ﳑ	مددا	(as) a supplement	madadan
+13	18:109:19	e	١٠٩	ﳒ			
+13	18:110:1	w	قُلۡ	ﳓ	قل	Say	qul
+13	18:110:2	w	إِنَّمَآ	ﳔ	انما	Only	innamā
+14	18:110:3	w	أَنَا۠	ﳕ	انا	I	anā
+14	18:110:4	w	بَشَرٞ	ﳖ	بشر	(am) a man	basharun
+14	18:110:5	w	مِّثۡلُكُمۡ	ﳗ	مثلكم	like you	mith'lukum
+14	18:110:6	w	يُوحَىٰٓ	ﳘ	يوحى	Has been revealed	yūḥā
+14	18:110:7	w	إِلَيَّ	ﳙ	الي	to me	ilayya
+14	18:110:8	w	أَنَّمَآ	ﳚ	انما	that	annamā
+14	18:110:9	w	إِلَٰهُكُمۡ	ﳛ	الاهكم	your God	ilāhukum
+14	18:110:10	w	إِلَٰهٞ	ﳜ	الاه	(is) God	ilāhun
+14	18:110:11	w	وَٰحِدٞۖ	ﳝﳞ	واحد	One	wāḥidun
+14	18:110:12	w	فَمَن	ﳟ	فمن	So whoever	faman
+14	18:110:13	w	كَانَ	ﳠ	كان	is	kāna
+14	18:110:14	w	يَرۡجُواْ	ﳡ	يرجو	hoping	yarjū
+15	18:110:15	w	لِقَآءَ	ﳢ	لقاء	(for the) meeting	liqāa
+15	18:110:16	w	رَبِّهِۦ	ﳣ	ربه	(with) his Lord	rabbihi
+15	18:110:17	w	فَلۡيَعۡمَلۡ	ﳤ	فليعمل	let him do	falyaʿmal
+15	18:110:18	w	عَمَلٗا	ﳥ	عملا	deeds	ʿamalan
+15	18:110:19	w	صَٰلِحٗا	ﳦ	صالحا	righteous	ṣāliḥan
+15	18:110:20	w	وَلَا	ﳧ	ولا	and not	walā
+15	18:110:21	w	يُشۡرِكۡ	ﳨ	يشرك	associate	yush'rik
+15	18:110:22	w	بِعِبَادَةِ	ﳩ	بعبادة	in (the) worship	biʿibādati
+15	18:110:23	w	رَبِّهِۦٓ	ﳪ	ربه	(of) his Lord	rabbihi
+15	18:110:24	w	أَحَدَۢا	ﳫ	احدا	anyone	aḥadan
+15	18:110:25	e	١١٠	ﳬ			

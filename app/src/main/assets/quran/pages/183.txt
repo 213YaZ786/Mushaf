@@ -1,0 +1,130 @@
+1	8:46:1	w	وَأَطِيعُواْ	ﱁ	واطيعوا	And obey	wa-aṭīʿū
+1	8:46:2	w	ٱللَّهَ	ﱂ	الله	Allah	l-laha
+1	8:46:3	w	وَرَسُولَهُۥ	ﱃ	ورسوله	and His Messenger	warasūlahu
+1	8:46:4	w	وَلَا	ﱄ	ولا	and (do) not	walā
+1	8:46:5	w	تَنَٰزَعُواْ	ﱅ	تنازعوا	dispute	tanāzaʿū
+1	8:46:6	w	فَتَفۡشَلُواْ	ﱆ	فتفشلوا	lest you lose courage	fatafshalū
+1	8:46:7	w	وَتَذۡهَبَ	ﱇ	وتذهب	and (would) depart	watadhhaba
+2	8:46:8	w	رِيحُكُمۡۖ	ﱈﱉ	ريحكم	your strength	rīḥukum
+2	8:46:9	w	وَٱصۡبِرُوٓاْۚ	ﱊﱋ	واصبروا	and be patient	wa-iṣ'birū
+2	8:46:10	w	إِنَّ	ﱌ	ان	Indeed	inna
+2	8:46:11	w	ٱللَّهَ	ﱍ	الله	Allah	l-laha
+2	8:46:12	w	مَعَ	ﱎ	مع	(is) with	maʿa
+2	8:46:13	w	ٱلصَّٰبِرِينَ	ﱏ	الصابرين	the patient ones	l-ṣābirīna
+2	8:46:14	e	٤٦	ﱐ			
+2	8:47:1	w	وَلَا	ﱑ	ولا	And (do) not	walā
+2	8:47:2	w	تَكُونُواْ	ﱒ	تكونوا	be	takūnū
+3	8:47:3	w	كَٱلَّذِينَ	ﱓ	كالذين	like those who	ka-alladhīna
+3	8:47:4	w	خَرَجُواْ	ﱔ	خرجوا	came forth	kharajū
+3	8:47:5	w	مِن	ﱕ	من	from	min
+3	8:47:6	w	دِيَٰرِهِم	ﱖ	ديارهم	their homes	diyārihim
+3	8:47:7	w	بَطَرٗا	ﱗ	بطرا	boastfully	baṭaran
+3	8:47:8	w	وَرِئَآءَ	ﱘ	ورياء	and showing off	wariāa
+3	8:47:9	w	ٱلنَّاسِ	ﱙ	الناس	(to) the people	l-nāsi
+3	8:47:10	w	وَيَصُدُّونَ	ﱚ	ويصدون	and hinder (them)	wayaṣuddūna
+4	8:47:11	w	عَن	ﱛ	عن	from	ʿan
+4	8:47:12	w	سَبِيلِ	ﱜ	سبيل	(the) way	sabīli
+4	8:47:13	w	ٱللَّهِۚ	ﱝﱞ	الله	(of) Allah	l-lahi
+4	8:47:14	w	وَٱللَّهُ	ﱟ	والله	And Allah	wal-lahu
+4	8:47:15	w	بِمَا	ﱠ	بما	of what	bimā
+4	8:47:16	w	يَعۡمَلُونَ	ﱡ	يعملون	they do	yaʿmalūna
+4	8:47:17	w	مُحِيطٞ	ﱢ	محيط	(is) All-Encompassing	muḥīṭun
+4	8:47:18	e	٤٧	ﱣ			
+4	8:48:1	w	وَإِذۡ	ﱤ	واذ	And when	wa-idh
+4	8:48:2	w	زَيَّنَ	ﱥ	زين	made fair-seeming	zayyana
+5	8:48:3	w	لَهُمُ	ﱦ	لهم	to them	lahumu
+5	8:48:4	w	ٱلشَّيۡطَٰنُ	ﱧ	الشيطان	the Shaitaan	l-shayṭānu
+5	8:48:5	w	أَعۡمَٰلَهُمۡ	ﱨ	اعمالهم	their deeds	aʿmālahum
+5	8:48:6	w	وَقَالَ	ﱩ	وقال	and he said	waqāla
+5	8:48:7	w	لَا	ﱪ	لا	No (one)	lā
+5	8:48:8	w	غَالِبَ	ﱫ	غالب	(can) overcome	ghāliba
+5	8:48:9	w	لَكُمُ	ﱬ	لكم	[to] you	lakumu
+5	8:48:10	w	ٱلۡيَوۡمَ	ﱭ	اليوم	today	l-yawma
+5	8:48:11	w	مِنَ	ﱮ	من	from	mina
+6	8:48:12	w	ٱلنَّاسِ	ﱯ	الناس	the people	l-nāsi
+6	8:48:13	w	وَإِنِّي	ﱰ	واني	and indeed, I am	wa-innī
+6	8:48:14	w	جَارٞ	ﱱ	جار	a neighbor	jārun
+6	8:48:15	w	لَّكُمۡۖ	ﱲﱳ	لكم	for you	lakum
+6	8:48:16	w	فَلَمَّا	ﱴ	فلما	But when	falammā
+6	8:48:17	w	تَرَآءَتِ	ﱵ	تراءت	came in sight	tarāati
+6	8:48:18	w	ٱلۡفِئَتَانِ	ﱶ	الفيتان	the two forces	l-fi-atāni
+6	8:48:19	w	نَكَصَ	ﱷ	نكص	he turned away	nakaṣa
+7	8:48:20	w	عَلَىٰ	ﱸ	على	on	ʿalā
+7	8:48:21	w	عَقِبَيۡهِ	ﱹ	عقبيه	his heels	ʿaqibayhi
+7	8:48:22	w	وَقَالَ	ﱺ	وقال	and said	waqāla
+7	8:48:23	w	إِنِّي	ﱻ	اني	Indeed, I am	innī
+7	8:48:24	w	بَرِيٓءٞ	ﱼ	بريء	free	barīon
+7	8:48:25	w	مِّنكُمۡ	ﱽ	منكم	of you	minkum
+7	8:48:26	w	إِنِّيٓ	ﱾ	اني	Indeed, I	innī
+7	8:48:27	w	أَرَىٰ	ﱿ	ارى	see	arā
+7	8:48:28	w	مَا	ﲀ	ما	what	mā
+7	8:48:29	w	لَا	ﲁ	لا	not	lā
+8	8:48:30	w	تَرَوۡنَ	ﲂ	ترون	you see	tarawna
+8	8:48:31	w	إِنِّيٓ	ﲃ	اني	indeed, I	innī
+8	8:48:32	w	أَخَافُ	ﲄ	اخاف	[I] fear	akhāfu
+8	8:48:33	w	ٱللَّهَۚ	ﲅﲆ	الله	Allah	l-laha
+8	8:48:34	w	وَٱللَّهُ	ﲇ	والله	And Allah	wal-lahu
+8	8:48:35	w	شَدِيدُ	ﲈ	شديد	(is) severe	shadīdu
+8	8:48:36	w	ٱلۡعِقَابِ	ﲉ	العقاب	(in) the penalty	l-ʿiqābi
+8	8:48:37	e	٤٨	ﲊ			
+8	8:49:1	w	إِذۡ	ﲋ	اذ	When	idh
+8	8:49:2	w	يَقُولُ	ﲌ	يقول	said	yaqūlu
+9	8:49:3	w	ٱلۡمُنَٰفِقُونَ	ﲍ	المنافقون	the hypocrites	l-munāfiqūna
+9	8:49:4	w	وَٱلَّذِينَ	ﲎ	والذين	and those who	wa-alladhīna
+9	8:49:5	w	فِي	ﲏ	في	in	fī
+9	8:49:6	w	قُلُوبِهِم	ﲐ	قلوبهم	their hearts	qulūbihim
+9	8:49:7	w	مَّرَضٌ	ﲑ	مرض	(was) a disease	maraḍun
+9	8:49:8	w	غَرَّ	ﲒ	غر	(Had) deluded	gharra
+9	8:49:9	w	هَٰٓؤُلَآءِ	ﲓ	هاولاء	these (people)	hāulāi
+9	8:49:10	w	دِينُهُمۡۗ	ﲔﲕ	دينهم	their religion	dīnuhum
+10	8:49:11	w	وَمَن	ﲖ	ومن	But whoever	waman
+10	8:49:12	w	يَتَوَكَّلۡ	ﲗ	يتوكل	puts (his) trust	yatawakkal
+10	8:49:13	w	عَلَى	ﲘ	على	in	ʿalā
+10	8:49:14	w	ٱللَّهِ	ﲙ	الله	Allah	l-lahi
+10	8:49:15	w	فَإِنَّ	ﲚ	فان	then indeed	fa-inna
+10	8:49:16	w	ٱللَّهَ	ﲛ	الله	Allah	l-laha
+10	8:49:17	w	عَزِيزٌ	ﲜ	عزيز	(is) All-Mighty	ʿazīzun
+10	8:49:18	w	حَكِيمٞ	ﲝ	حكيم	All-Wise	ḥakīmun
+10	8:49:19	e	٤٩	ﲞ			
+10	8:50:1	w	وَلَوۡ	ﲟ	ولو	And if	walaw
+11	8:50:2	w	تَرَىٰٓ	ﲠ	ترى	you (could) see	tarā
+11	8:50:3	w	إِذۡ	ﲡ	اذ	when	idh
+11	8:50:4	w	يَتَوَفَّى	ﲢ	يتوفى	take away souls	yatawaffā
+11	8:50:5	w	ٱلَّذِينَ	ﲣ	الذين	(of) those who	alladhīna
+11	8:50:6	w	كَفَرُواْ	ﲤ	كفروا	disbelieve	kafarū
+11	8:50:7	w	ٱلۡمَلَٰٓئِكَةُ	ﲥ	الملايكة	the Angels	l-malāikatu
+11	8:50:8	w	يَضۡرِبُونَ	ﲦ	يضربون	striking	yaḍribūna
+12	8:50:9	w	وُجُوهَهُمۡ	ﲧ	وجوههم	their faces	wujūhahum
+12	8:50:10	w	وَأَدۡبَٰرَهُمۡ	ﲨ	وادبارهم	and their backs	wa-adbārahum
+12	8:50:11	w	وَذُوقُواْ	ﲩ	وذوقوا	Taste	wadhūqū
+12	8:50:12	w	عَذَابَ	ﲪ	عذاب	(the) punishment	ʿadhāba
+12	8:50:13	w	ٱلۡحَرِيقِ	ﲫ	الحريق	(of) the Blazing Fire	l-ḥarīqi
+12	8:50:14	e	٥٠	ﲬ			
+12	8:51:1	w	ذَٰلِكَ	ﲭ	ذالك	That	dhālika
+13	8:51:2	w	بِمَا	ﲮ	بما	(is) for what	bimā
+13	8:51:3	w	قَدَّمَتۡ	ﲯ	قدمت	sent forth	qaddamat
+13	8:51:4	w	أَيۡدِيكُمۡ	ﲰ	ايديكم	your hands	aydīkum
+13	8:51:5	w	وَأَنَّ	ﲱ	وان	And indeed	wa-anna
+13	8:51:6	w	ٱللَّهَ	ﲲ	الله	Allah	l-laha
+13	8:51:7	w	لَيۡسَ	ﲳ	ليس	(is) not	laysa
+13	8:51:8	w	بِظَلَّٰمٖ	ﲴ	بظلام	unjust	biẓallāmin
+13	8:51:9	w	لِّلۡعَبِيدِ	ﲵ	للعبيد	to His slaves	lil'ʿabīdi
+13	8:51:10	e	٥١	ﲶ			
+14	8:52:1	w	كَدَأۡبِ	ﲷ	كداب	Like (the) way	kadabi
+14	8:52:2	w	ءَالِ	ﲸ	ال	(of) people	āli
+14	8:52:3	w	فِرۡعَوۡنَ	ﲹ	فرعون	(of) Firaun	fir'ʿawna
+14	8:52:4	w	وَٱلَّذِينَ	ﲺ	والذين	and those who	wa-alladhīna
+14	8:52:5	w	مِن	ﲻ	من	(were) from	min
+14	8:52:6	w	قَبۡلِهِمۡۚ	ﲼﲽ	قبلهم	before them	qablihim
+14	8:52:7	w	كَفَرُواْ	ﲾ	كفروا	They disbelieved	kafarū
+14	8:52:8	w	بِـَٔايَٰتِ	ﲿ	بايات	in (the) Signs	biāyāti
+14	8:52:9	w	ٱللَّهِ	ﳀ	الله	(of) Allah	l-lahi
+15	8:52:10	w	فَأَخَذَهُمُ	ﳁ	فاخذهم	so seized them	fa-akhadhahumu
+15	8:52:11	w	ٱللَّهُ	ﳂ	الله	Allah	l-lahu
+15	8:52:12	w	بِذُنُوبِهِمۡۚ	ﳃﳄ	بذنوبهم	for their sins	bidhunūbihim
+15	8:52:13	w	إِنَّ	ﳅ	ان	Indeed	inna
+15	8:52:14	w	ٱللَّهَ	ﳆ	الله	Allah	l-laha
+15	8:52:15	w	قَوِيّٞ	ﳇ	قوي	(is) All-Strong	qawiyyun
+15	8:52:16	w	شَدِيدُ	ﳈ	شديد	(and) severe	shadīdu
+15	8:52:17	w	ٱلۡعِقَابِ	ﳉ	العقاب	(in) the penalty	l-ʿiqābi
+15	8:52:18	e	٥٢	ﳊ			

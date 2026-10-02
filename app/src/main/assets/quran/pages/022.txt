@@ -1,0 +1,136 @@
+1	2:142:1	w	۞ سَيَقُولُ	ﱁ ﱂ	۞ سيقول	Will say	sayaqūlu
+1	2:142:2	w	ٱلسُّفَهَآءُ	ﱃ	السفهاء	the foolish ones	l-sufahāu
+1	2:142:3	w	مِنَ	ﱄ	من	from	mina
+1	2:142:4	w	ٱلنَّاسِ	ﱅ	الناس	the people	l-nāsi
+1	2:142:5	w	مَا	ﱆ	ما	What	mā
+1	2:142:6	w	وَلَّىٰهُمۡ	ﱇ	ولاهم	(has) turned them	wallāhum
+1	2:142:7	w	عَن	ﱈ	عن	from	ʿan
+1	2:142:8	w	قِبۡلَتِهِمُ	ﱉ	قبلتهم	their direction of prayer	qib'latihimu
+1	2:142:9	w	ٱلَّتِي	ﱊ	التي	which	allatī
+1	2:142:10	w	كَانُواْ	ﱋ	كانوا	they were used to	kānū
+2	2:142:11	w	عَلَيۡهَاۚ	ﱌﱍ	عليها	[on it]	ʿalayhā
+2	2:142:12	w	قُل	ﱎ	قل	Say	qul
+2	2:142:13	w	لِّلَّهِ	ﱏ	لله	For Allah	lillahi
+2	2:142:14	w	ٱلۡمَشۡرِقُ	ﱐ	المشرق	(is) the east	l-mashriqu
+2	2:142:15	w	وَٱلۡمَغۡرِبُۚ	ﱑﱒ	والمغرب	and the west	wal-maghribu
+2	2:142:16	w	يَهۡدِي	ﱓ	يهدي	He guides	yahdī
+2	2:142:17	w	مَن	ﱔ	من	whom	man
+2	2:142:18	w	يَشَآءُ	ﱕ	يشاء	He wills	yashāu
+2	2:142:19	w	إِلَىٰ	ﱖ	الى	to	ilā
+2	2:142:20	w	صِرَٰطٖ	ﱗ	صراط	a path	ṣirāṭin
+3	2:142:21	w	مُّسۡتَقِيمٖ	ﱘ	مستقيم	straight	mus'taqīmin
+3	2:142:22	e	١٤٢	ﱙ			
+3	2:143:1	w	وَكَذَٰلِكَ	ﱚ	وكذالك	And thus	wakadhālika
+3	2:143:2	w	جَعَلۡنَٰكُمۡ	ﱛ	جعلناكم	We made you	jaʿalnākum
+3	2:143:3	w	أُمَّةٗ	ﱜ	امة	a community	ummatan
+3	2:143:4	w	وَسَطٗا	ﱝ	وسطا	(of the) middle way	wasaṭan
+3	2:143:5	w	لِّتَكُونُواْ	ﱞ	لتكونوا	so that you will be	litakūnū
+4	2:143:6	w	شُهَدَآءَ	ﱟ	شهداء	witnesses	shuhadāa
+4	2:143:7	w	عَلَى	ﱠ	على	over	ʿalā
+4	2:143:8	w	ٱلنَّاسِ	ﱡ	الناس	the mankind	l-nāsi
+4	2:143:9	w	وَيَكُونَ	ﱢ	ويكون	and will be	wayakūna
+4	2:143:10	w	ٱلرَّسُولُ	ﱣ	الرسول	the Messenger	l-rasūlu
+4	2:143:11	w	عَلَيۡكُمۡ	ﱤ	عليكم	on you	ʿalaykum
+4	2:143:12	w	شَهِيدٗاۗ	ﱥﱦ	شهيدا	a witness	shahīdan
+4	2:143:13	w	وَمَا	ﱧ	وما	And not	wamā
+5	2:143:14	w	جَعَلۡنَا	ﱨ	جعلنا	We made	jaʿalnā
+5	2:143:15	w	ٱلۡقِبۡلَةَ	ﱩ	القبلة	the direction of prayer	l-qib'lata
+5	2:143:16	w	ٱلَّتِي	ﱪ	التي	which	allatī
+5	2:143:17	w	كُنتَ	ﱫ	كنت	you were used to	kunta
+5	2:143:18	w	عَلَيۡهَآ	ﱬ	عليها	[on it]	ʿalayhā
+5	2:143:19	w	إِلَّا	ﱭ	الا	except	illā
+5	2:143:20	w	لِنَعۡلَمَ	ﱮ	لنعلم	that We make evident	linaʿlama
+5	2:143:21	w	مَن	ﱯ	من	(he) who	man
+5	2:143:22	w	يَتَّبِعُ	ﱰ	يتبع	follows	yattabiʿu
+5	2:143:23	w	ٱلرَّسُولَ	ﱱ	الرسول	the Messenger	l-rasūla
+6	2:143:24	w	مِمَّن	ﱲ	ممن	from (he) who	mimman
+6	2:143:25	w	يَنقَلِبُ	ﱳ	ينقلب	turns back	yanqalibu
+6	2:143:26	w	عَلَىٰ	ﱴ	على	on	ʿalā
+6	2:143:27	w	عَقِبَيۡهِۚ	ﱵﱶ	عقبيه	his heels	ʿaqibayhi
+6	2:143:28	w	وَإِن	ﱷ	وان	And indeed	wa-in
+6	2:143:29	w	كَانَتۡ	ﱸ	كانت	it was	kānat
+6	2:143:30	w	لَكَبِيرَةً	ﱹ	لكبيرة	certainly a great (test)	lakabīratan
+6	2:143:31	w	إِلَّا	ﱺ	الا	except	illā
+6	2:143:32	w	عَلَى	ﱻ	على	for	ʿalā
+6	2:143:33	w	ٱلَّذِينَ	ﱼ	الذين	those whom	alladhīna
+7	2:143:34	w	هَدَى	ﱽ	هدى	guided	hadā
+7	2:143:35	w	ٱللَّهُۗ	ﱾﱿ	الله	(by) Allah	l-lahu
+7	2:143:36	w	وَمَا	ﲀ	وما	And not	wamā
+7	2:143:37	w	كَانَ	ﲁ	كان	will	kāna
+7	2:143:38	w	ٱللَّهُ	ﲂ	الله	Allah	l-lahu
+7	2:143:39	w	لِيُضِيعَ	ﲃ	ليضيع	let go waste	liyuḍīʿa
+7	2:143:40	w	إِيمَٰنَكُمۡۚ	ﲄﲅ	ايمانكم	your faith	īmānakum
+7	2:143:41	w	إِنَّ	ﲆ	ان	Indeed	inna
+7	2:143:42	w	ٱللَّهَ	ﲇ	الله	Allah	l-laha
+8	2:143:43	w	بِٱلنَّاسِ	ﲈ	بالناس	(is) to [the] mankind	bil-nāsi
+8	2:143:44	w	لَرَءُوفٞ	ﲉ	لرءوف	Full of Kindness	laraūfun
+8	2:143:45	w	رَّحِيمٞ	ﲊ	رحيم	Most Merciful	raḥīmun
+8	2:143:46	e	١٤٣	ﲋ			
+8	2:144:1	w	قَدۡ	ﲌ	قد	Indeed	qad
+8	2:144:2	w	نَرَىٰ	ﲍ	نرى	We see	narā
+8	2:144:3	w	تَقَلُّبَ	ﲎ	تقلب	(the) turning	taqalluba
+8	2:144:4	w	وَجۡهِكَ	ﲏ	وجهك	(of) your face	wajhika
+8	2:144:5	w	فِي	ﲐ	في	towards	fī
+8	2:144:6	w	ٱلسَّمَآءِۖ	ﲑﲒ	السماء	the heaven	l-samāi
+9	2:144:7	w	فَلَنُوَلِّيَنَّكَ	ﲓ	فلنولينك	So We will surely turn you	falanuwalliyannaka
+9	2:144:8	w	قِبۡلَةٗ	ﲔ	قبلة	(to the) direction of prayer	qib'latan
+9	2:144:9	w	تَرۡضَىٰهَاۚ	ﲕﲖ	ترضاها	you will be pleased with	tarḍāhā
+9	2:144:10	w	فَوَلِّ	ﲗ	فول	So turn	fawalli
+9	2:144:11	w	وَجۡهَكَ	ﲘ	وجهك	your face	wajhaka
+9	2:144:12	w	شَطۡرَ	ﲙ	شطر	towards the direction	shaṭra
+9	2:144:13	w	ٱلۡمَسۡجِدِ	ﲚ	المسجد	(of) Al-Masjid	l-masjidi
+10	2:144:14	w	ٱلۡحَرَامِۚ	ﲛﲜ	الحرام	Al-Haraam	l-ḥarāmi
+10	2:144:15	w	وَحَيۡثُ	ﲝ	وحيث	and wherever	waḥaythu
+10	2:144:16	w	مَا	ﲞ	ما	that	mā
+10	2:144:17	w	كُنتُمۡ	ﲟ	كنتم	you are	kuntum
+10	2:144:18	w	فَوَلُّواْ	ﲠ	فولوا	[so] turn	fawallū
+10	2:144:19	w	وُجُوهَكُمۡ	ﲡ	وجوهكم	your faces	wujūhakum
+10	2:144:20	w	شَطۡرَهُۥۗ	ﲢﲣ	شطره	(in) its direction	shaṭrahu
+10	2:144:21	w	وَإِنَّ	ﲤ	وان	And indeed	wa-inna
+11	2:144:22	w	ٱلَّذِينَ	ﲥ	الذين	those who	alladhīna
+11	2:144:23	w	أُوتُواْ	ﲦ	اوتوا	were given	ūtū
+11	2:144:24	w	ٱلۡكِتَٰبَ	ﲧ	الكتاب	the Book	l-kitāba
+11	2:144:25	w	لَيَعۡلَمُونَ	ﲨ	ليعلمون	surely know	layaʿlamūna
+11	2:144:26	w	أَنَّهُ	ﲩ	انه	that it	annahu
+11	2:144:27	w	ٱلۡحَقُّ	ﲪ	الحق	(is) the truth	l-ḥaqu
+11	2:144:28	w	مِن	ﲫ	من	from	min
+11	2:144:29	w	رَّبِّهِمۡۗ	ﲬﲭ	ربهم	their Lord	rabbihim
+11	2:144:30	w	وَمَا	ﲮ	وما	And not	wamā
+11	2:144:31	w	ٱللَّهُ	ﲯ	الله	(is) Allah	l-lahu
+12	2:144:32	w	بِغَٰفِلٍ	ﲰ	بغافل	unaware	bighāfilin
+12	2:144:33	w	عَمَّا	ﲱ	عما	of what	ʿammā
+12	2:144:34	w	يَعۡمَلُونَ	ﲲ	يعملون	they do	yaʿmalūna
+12	2:144:35	e	١٤٤	ﲳ			
+12	2:145:1	w	وَلَئِنۡ	ﲴ	ولين	And even if	wala-in
+12	2:145:2	w	أَتَيۡتَ	ﲵ	اتيت	you come	atayta
+12	2:145:3	w	ٱلَّذِينَ	ﲶ	الذين	(to) those who	alladhīna
+12	2:145:4	w	أُوتُواْ	ﲷ	اوتوا	were given	ūtū
+12	2:145:5	w	ٱلۡكِتَٰبَ	ﲸ	الكتاب	the Book	l-kitāba
+13	2:145:6	w	بِكُلِّ	ﲹ	بكل	with all	bikulli
+13	2:145:7	w	ءَايَةٖ	ﲺ	اية	(the) signs	āyatin
+13	2:145:8	w	مَّا	ﲻ	ما	not	mā
+13	2:145:9	w	تَبِعُواْ	ﲼ	تبعوا	they would follow	tabiʿū
+13	2:145:10	w	قِبۡلَتَكَۚ	ﲽﲾ	قبلتك	your direction of prayer	qib'lataka
+13	2:145:11	w	وَمَآ	ﲿ	وما	and not	wamā
+13	2:145:12	w	أَنتَ	ﳀ	انت	(will) you (be)	anta
+13	2:145:13	w	بِتَابِعٖ	ﳁ	بتابع	a follower	bitābiʿin
+13	2:145:14	w	قِبۡلَتَهُمۡۚ	ﳂﳃ	قبلتهم	(of) their direction of prayer	qib'latahum
+14	2:145:15	w	وَمَا	ﳄ	وما	And not	wamā
+14	2:145:16	w	بَعۡضُهُم	ﳅ	بعضهم	some of them	baʿḍuhum
+14	2:145:17	w	بِتَابِعٖ	ﳆ	بتابع	(are) followers	bitābiʿin
+14	2:145:18	w	قِبۡلَةَ	ﳇ	قبلة	(of the) direction of prayer	qib'lata
+14	2:145:19	w	بَعۡضٖۚ	ﳈﳉ	بعض	(of each) other	baʿḍin
+14	2:145:20	w	وَلَئِنِ	ﳊ	ولين	And if	wala-ini
+14	2:145:21	w	ٱتَّبَعۡتَ	ﳋ	اتبعت	you followed	ittabaʿta
+14	2:145:22	w	أَهۡوَآءَهُم	ﳌ	اهواءهم	their desires	ahwāahum
+14	2:145:23	w	مِّنۢ	ﳍ	من	from	min
+15	2:145:24	w	بَعۡدِ	ﳎ	بعد	after	baʿdi
+15	2:145:25	w	مَا	ﳏ	ما	[what]	mā
+15	2:145:26	w	جَآءَكَ	ﳐ	جاءك	came to you	jāaka
+15	2:145:27	w	مِنَ	ﳑ	من	of	mina
+15	2:145:28	w	ٱلۡعِلۡمِ	ﳒ	العلم	the knowledge	l-ʿil'mi
+15	2:145:29	w	إِنَّكَ	ﳓ	انك	indeed, you	innaka
+15	2:145:30	w	إِذٗا	ﳔ	اذا	(would) then	idhan
+15	2:145:31	w	لَّمِنَ	ﳕ	لمن	(be) surely among	lamina
+15	2:145:32	w	ٱلظَّٰلِمِينَ	ﳖ	الظالمين	the wrongdoers	l-ẓālimīna
+15	2:145:33	e	١٤٥	ﳗ			

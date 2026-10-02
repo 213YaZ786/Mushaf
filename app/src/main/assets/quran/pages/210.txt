@@ -1,0 +1,139 @@
+1	10:15:1	w	وَإِذَا	ﱁ	واذا	And when	wa-idhā
+1	10:15:2	w	تُتۡلَىٰ	ﱂ	تتلى	are recited	tut'lā
+1	10:15:3	w	عَلَيۡهِمۡ	ﱃ	عليهم	to them	ʿalayhim
+1	10:15:4	w	ءَايَاتُنَا	ﱄ	اياتنا	Our Verses	āyātunā
+1	10:15:5	w	بَيِّنَٰتٖ	ﱅ	بينات	(as) clear proofs	bayyinātin
+1	10:15:6	w	قَالَ	ﱆ	قال	said	qāla
+1	10:15:7	w	ٱلَّذِينَ	ﱇ	الذين	those who	alladhīna
+1	10:15:8	w	لَا	ﱈ	لا	(do) not	lā
+1	10:15:9	w	يَرۡجُونَ	ﱉ	يرجون	hope	yarjūna
+2	10:15:10	w	لِقَآءَنَا	ﱊ	لقاءنا	(for the) meeting (with) Us	liqāanā
+2	10:15:11	w	ٱئۡتِ	ﱋ	ايت	Bring us	i'ti
+2	10:15:12	w	بِقُرۡءَانٍ	ﱌ	بقران	a Quran	biqur'ānin
+2	10:15:13	w	غَيۡرِ	ﱍ	غير	other (than)	ghayri
+2	10:15:14	w	هَٰذَآ	ﱎ	هاذا	this	hādhā
+2	10:15:15	w	أَوۡ	ﱏ	او	or	aw
+2	10:15:16	w	بَدِّلۡهُۚ	ﱐﱑ	بدله	change it	baddil'hu
+2	10:15:17	w	قُلۡ	ﱒ	قل	Say	qul
+2	10:15:18	w	مَا	ﱓ	ما	Not	mā
+2	10:15:19	w	يَكُونُ	ﱔ	يكون	(it) is	yakūnu
+3	10:15:20	w	لِيٓ	ﱕ	لي	for me	lī
+3	10:15:21	w	أَنۡ	ﱖ	ان	that	an
+3	10:15:22	w	أُبَدِّلَهُۥ	ﱗ	ابدله	I change it	ubaddilahu
+3	10:15:23	w	مِن	ﱘ	من	of	min
+3	10:15:24	w	تِلۡقَآيِٕ	ﱙ	تلقاء	my own accord	til'qāi
+3	10:15:25	w	نَفۡسِيٓۖ	ﱚﱛ	نفسي	my own accord	nafsī
+3	10:15:26	w	إِنۡ	ﱜ	ان	Not	in
+3	10:15:27	w	أَتَّبِعُ	ﱝ	اتبع	I follow	attabiʿu
+3	10:15:28	w	إِلَّا	ﱞ	الا	except	illā
+3	10:15:29	w	مَا	ﱟ	ما	what	mā
+3	10:15:30	w	يُوحَىٰٓ	ﱠ	يوحى	is revealed	yūḥā
+3	10:15:31	w	إِلَيَّۖ	ﱡﱢ	الي	to me	ilayya
+4	10:15:32	w	إِنِّيٓ	ﱣ	اني	Indeed, I	innī
+4	10:15:33	w	أَخَافُ	ﱤ	اخاف	[I] fear	akhāfu
+4	10:15:34	w	إِنۡ	ﱥ	ان	if	in
+4	10:15:35	w	عَصَيۡتُ	ﱦ	عصيت	I were to disobey	ʿaṣaytu
+4	10:15:36	w	رَبِّي	ﱧ	ربي	my Lord	rabbī
+4	10:15:37	w	عَذَابَ	ﱨ	عذاب	(the) punishment	ʿadhāba
+4	10:15:38	w	يَوۡمٍ	ﱩ	يوم	(of) a Day	yawmin
+4	10:15:39	w	عَظِيمٖ	ﱪ	عظيم	Great	ʿaẓīmin
+4	10:15:40	e	١٥	ﱫ			
+4	10:16:1	w	قُل	ﱬ	قل	Say	qul
+5	10:16:2	w	لَّوۡ	ﱭ	لو	If	law
+5	10:16:3	w	شَآءَ	ﱮ	شاء	(had) willed	shāa
+5	10:16:4	w	ٱللَّهُ	ﱯ	الله	Allah	l-lahu
+5	10:16:5	w	مَا	ﱰ	ما	not	mā
+5	10:16:6	w	تَلَوۡتُهُۥ	ﱱ	تلوته	I (would) have recited it	talawtuhu
+5	10:16:7	w	عَلَيۡكُمۡ	ﱲ	عليكم	to you	ʿalaykum
+5	10:16:8	w	وَلَآ	ﱳ	ولا	and not	walā
+5	10:16:9	w	أَدۡرَىٰكُم	ﱴ	ادراكم	He (would) have made it known to you	adrākum
+5	10:16:10	w	بِهِۦۖ	ﱵﱶ	به	He (would) have made it known to you	bihi
+6	10:16:11	w	فَقَدۡ	ﱷ	فقد	Verily	faqad
+6	10:16:12	w	لَبِثۡتُ	ﱸ	لبثت	I have stayed	labith'tu
+6	10:16:13	w	فِيكُمۡ	ﱹ	فيكم	among you	fīkum
+6	10:16:14	w	عُمُرٗا	ﱺ	عمرا	a lifetime	ʿumuran
+6	10:16:15	w	مِّن	ﱻ	من	before it	min
+6	10:16:16	w	قَبۡلِهِۦٓۚ	ﱼﱽ	قبله	before it	qablihi
+6	10:16:17	w	أَفَلَا	ﱾ	افلا	Then will not	afalā
+6	10:16:18	w	تَعۡقِلُونَ	ﱿ	تعقلون	you use reason	taʿqilūna
+6	10:16:19	e	١٦	ﲀ			
+7	10:17:1	w	فَمَنۡ	ﲁ	فمن	So who	faman
+7	10:17:2	w	أَظۡلَمُ	ﲂ	اظلم	(is) more wrong	aẓlamu
+7	10:17:3	w	مِمَّنِ	ﲃ	ممن	than he who	mimmani
+7	10:17:4	w	ٱفۡتَرَىٰ	ﲄ	افترى	invents	if'tarā
+7	10:17:5	w	عَلَى	ﲅ	على	against	ʿalā
+7	10:17:6	w	ٱللَّهِ	ﲆ	الله	Allah	l-lahi
+7	10:17:7	w	كَذِبًا	ﲇ	كذبا	a lie	kadhiban
+7	10:17:8	w	أَوۡ	ﲈ	او	or	aw
+7	10:17:9	w	كَذَّبَ	ﲉ	كذب	denies	kadhaba
+7	10:17:10	w	بِـَٔايَٰتِهِۦٓۚ	ﲊﲋ	باياته	His Signs	biāyātihi
+8	10:17:11	w	إِنَّهُۥ	ﲌ	انه	Indeed	innahu
+8	10:17:12	w	لَا	ﲍ	لا	not	lā
+8	10:17:13	w	يُفۡلِحُ	ﲎ	يفلح	will succeed	yuf'liḥu
+8	10:17:14	w	ٱلۡمُجۡرِمُونَ	ﲏ	المجرمون	the criminals	l-muj'rimūna
+8	10:17:15	e	١٧	ﲐ			
+8	10:18:1	w	وَيَعۡبُدُونَ	ﲑ	ويعبدون	And they worship	wayaʿbudūna
+8	10:18:2	w	مِن	ﲒ	من	from	min
+8	10:18:3	w	دُونِ	ﲓ	دون	other than	dūni
+8	10:18:4	w	ٱللَّهِ	ﲔ	الله	Allah	l-lahi
+9	10:18:5	w	مَا	ﲕ	ما	that (which)	mā
+9	10:18:6	w	لَا	ﲖ	لا	(does) not	lā
+9	10:18:7	w	يَضُرُّهُمۡ	ﲗ	يضرهم	harm them	yaḍurruhum
+9	10:18:8	w	وَلَا	ﲘ	ولا	and not	walā
+9	10:18:9	w	يَنفَعُهُمۡ	ﲙ	ينفعهم	benefit them	yanfaʿuhum
+9	10:18:10	w	وَيَقُولُونَ	ﲚ	ويقولون	and they say	wayaqūlūna
+9	10:18:11	w	هَٰٓؤُلَآءِ	ﲛ	هاولاء	These	hāulāi
+9	10:18:12	w	شُفَعَٰٓؤُنَا	ﲜ	شفعاونا	(are) our intercessors	shufaʿāunā
+10	10:18:13	w	عِندَ	ﲝ	عند	with	ʿinda
+10	10:18:14	w	ٱللَّهِۚ	ﲞﲟ	الله	Allah	l-lahi
+10	10:18:15	w	قُلۡ	ﲠ	قل	Say	qul
+10	10:18:16	w	أَتُنَبِّـُٔونَ	ﲡ	اتنبيون	Do you inform	atunabbiūna
+10	10:18:17	w	ٱللَّهَ	ﲢ	الله	Allah	l-laha
+10	10:18:18	w	بِمَا	ﲣ	بما	of what	bimā
+10	10:18:19	w	لَا	ﲤ	لا	not	lā
+10	10:18:20	w	يَعۡلَمُ	ﲥ	يعلم	he knows	yaʿlamu
+10	10:18:21	w	فِي	ﲦ	في	in	fī
+10	10:18:22	w	ٱلسَّمَٰوَٰتِ	ﲧ	السماوات	the heavens	l-samāwāti
+10	10:18:23	w	وَلَا	ﲨ	ولا	and not	walā
+11	10:18:24	w	فِي	ﲩ	في	in	fī
+11	10:18:25	w	ٱلۡأَرۡضِۚ	ﲪﲫ	الارض	the earth	l-arḍi
+11	10:18:26	w	سُبۡحَٰنَهُۥ	ﲬ	سبحانه	Glorified is He	sub'ḥānahu
+11	10:18:27	w	وَتَعَٰلَىٰ	ﲭ	وتعالى	and Exalted	wataʿālā
+11	10:18:28	w	عَمَّا	ﲮ	عما	above what	ʿammā
+11	10:18:29	w	يُشۡرِكُونَ	ﲯ	يشركون	they associate (with Him)	yush'rikūna
+11	10:18:30	e	١٨	ﲰ			
+11	10:19:1	w	وَمَا	ﲱ	وما	And not	wamā
+12	10:19:2	w	كَانَ	ﲲ	كان	was	kāna
+12	10:19:3	w	ٱلنَّاسُ	ﲳ	الناس	the mankind	l-nāsu
+12	10:19:4	w	إِلَّآ	ﲴ	الا	but	illā
+12	10:19:5	w	أُمَّةٗ	ﲵ	امة	a community	ummatan
+12	10:19:6	w	وَٰحِدَةٗ	ﲶ	واحدة	one	wāḥidatan
+12	10:19:7	w	فَٱخۡتَلَفُواْۚ	ﲷﲸ	فاختلفوا	then they differed	fa-ikh'talafū
+12	10:19:8	w	وَلَوۡلَا	ﲹ	ولولا	And had (it) not been	walawlā
+12	10:19:9	w	كَلِمَةٞ	ﲺ	كلمة	a word	kalimatun
+13	10:19:10	w	سَبَقَتۡ	ﲻ	سبقت	(that) preceded	sabaqat
+13	10:19:11	w	مِن	ﲼ	من	from	min
+13	10:19:12	w	رَّبِّكَ	ﲽ	ربك	your Lord	rabbika
+13	10:19:13	w	لَقُضِيَ	ﲾ	لقضي	surely, it (would) have been judged	laquḍiya
+13	10:19:14	w	بَيۡنَهُمۡ	ﲿ	بينهم	between them	baynahum
+13	10:19:15	w	فِيمَا	ﳀ	فيما	concerning what	fīmā
+13	10:19:16	w	فِيهِ	ﳁ	فيه	[therein]	fīhi
+13	10:19:17	w	يَخۡتَلِفُونَ	ﳂ	يختلفون	they differ	yakhtalifūna
+14	10:19:18	e	١٩	ﳃ			
+14	10:20:1	w	وَيَقُولُونَ	ﳄ	ويقولون	And they say	wayaqūlūna
+14	10:20:2	w	لَوۡلَآ	ﳅ	لولا	Why not	lawlā
+14	10:20:3	w	أُنزِلَ	ﳆ	انزل	is sent down	unzila
+14	10:20:4	w	عَلَيۡهِ	ﳇ	عليه	to him	ʿalayhi
+14	10:20:5	w	ءَايَةٞ	ﳈ	اية	a Sign	āyatun
+14	10:20:6	w	مِّن	ﳉ	من	from	min
+14	10:20:7	w	رَّبِّهِۦۖ	ﳊﳋ	ربه	his Lord	rabbihi
+14	10:20:8	w	فَقُلۡ	ﳌ	فقل	So say	faqul
+14	10:20:9	w	إِنَّمَا	ﳍ	انما	Only	innamā
+15	10:20:10	w	ٱلۡغَيۡبُ	ﳎ	الغيب	the unseen	l-ghaybu
+15	10:20:11	w	لِلَّهِ	ﳏ	لله	(is) for Allah	lillahi
+15	10:20:12	w	فَٱنتَظِرُوٓاْ	ﳐ	فانتظروا	so wait	fa-intaẓirū
+15	10:20:13	w	إِنِّي	ﳑ	اني	indeed, I am	innī
+15	10:20:14	w	مَعَكُم	ﳒ	معكم	with you	maʿakum
+15	10:20:15	w	مِّنَ	ﳓ	من	among	mina
+15	10:20:16	w	ٱلۡمُنتَظِرِينَ	ﳔ	المنتظرين	the ones who wait	l-muntaẓirīna
+15	10:20:17	e	٢٠	ﳕ			

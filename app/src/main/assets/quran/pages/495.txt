@@ -1,0 +1,147 @@
+1	43:74:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	43:74:2	w	ٱلۡمُجۡرِمِينَ	ﱂ	المجرمين	the criminals	l-muj'rimīna
+1	43:74:3	w	فِي	ﱃ	في	(will be) in	fī
+1	43:74:4	w	عَذَابِ	ﱄ	عذاب	(the) punishment	ʿadhābi
+1	43:74:5	w	جَهَنَّمَ	ﱅ	جهنم	(of) Hell	jahannama
+1	43:74:6	w	خَٰلِدُونَ	ﱆ	خالدون	abiding forever	khālidūna
+1	43:74:7	e	٧٤	ﱇ			
+1	43:75:1	w	لَا	ﱈ	لا	Not	lā
+1	43:75:2	w	يُفَتَّرُ	ﱉ	يفتر	will it subside	yufattaru
+1	43:75:3	w	عَنۡهُمۡ	ﱊ	عنهم	for them	ʿanhum
+1	43:75:4	w	وَهُمۡ	ﱋ	وهم	and they	wahum
+2	43:75:5	w	فِيهِ	ﱌ	فيه	in it	fīhi
+2	43:75:6	w	مُبۡلِسُونَ	ﱍ	مبلسون	(will) despair	mub'lisūna
+2	43:75:7	e	٧٥	ﱎ			
+2	43:76:1	w	وَمَا	ﱏ	وما	And not	wamā
+2	43:76:2	w	ظَلَمۡنَٰهُمۡ	ﱐ	ظلمناهم	We wronged them	ẓalamnāhum
+2	43:76:3	w	وَلَٰكِن	ﱑ	ولاكن	but	walākin
+2	43:76:4	w	كَانُواْ	ﱒ	كانوا	they were	kānū
+2	43:76:5	w	هُمُ	ﱓ	هم	themselves	humu
+2	43:76:6	w	ٱلظَّٰلِمِينَ	ﱔ	الظالمين	wrongdoers	l-ẓālimīna
+2	43:76:7	e	٧٦	ﱕ			
+3	43:77:1	w	وَنَادَوۡاْ	ﱖ	ونادوا	And they will call	wanādaw
+3	43:77:2	w	يَٰمَٰلِكُ	ﱗ	يا مالك	O Malik	yāmāliku
+3	43:77:3	w	لِيَقۡضِ	ﱘ	ليقض	Let put an end	liyaqḍi
+3	43:77:4	w	عَلَيۡنَا	ﱙ	علينا	to us	ʿalaynā
+3	43:77:5	w	رَبُّكَۖ	ﱚﱛ	ربك	your Lord	rabbuka
+3	43:77:6	w	قَالَ	ﱜ	قال	He (will) say	qāla
+3	43:77:7	w	إِنَّكُم	ﱝ	انكم	Indeed, you	innakum
+3	43:77:8	w	مَّٰكِثُونَ	ﱞ	ماكثون	(will) remain	mākithūna
+3	43:77:9	e	٧٧	ﱟ			
+3	43:78:1	w	لَقَدۡ	ﱠ	لقد	Certainly	laqad
+4	43:78:2	w	جِئۡنَٰكُم	ﱡ	جيناكم	We have brought you	ji'nākum
+4	43:78:3	w	بِٱلۡحَقِّ	ﱢ	بالحق	the truth	bil-ḥaqi
+4	43:78:4	w	وَلَٰكِنَّ	ﱣ	ولاكن	but	walākinna
+4	43:78:5	w	أَكۡثَرَكُمۡ	ﱤ	اكثركم	most of you	aktharakum
+4	43:78:6	w	لِلۡحَقِّ	ﱥ	للحق	to the truth	lil'ḥaqqi
+4	43:78:7	w	كَٰرِهُونَ	ﱦ	كارهون	(are) averse	kārihūna
+4	43:78:8	e	٧٨	ﱧ			
+4	43:79:1	w	أَمۡ	ﱨ	ام	Or	am
+4	43:79:2	w	أَبۡرَمُوٓاْ	ﱩ	ابرموا	have they determined	abramū
+4	43:79:3	w	أَمۡرٗا	ﱪ	امرا	an affair	amran
+5	43:79:4	w	فَإِنَّا	ﱫ	فانا	Then indeed, We	fa-innā
+5	43:79:5	w	مُبۡرِمُونَ	ﱬ	مبرمون	(are) determined	mub'rimūna
+5	43:79:6	e	٧٩	ﱭ			
+5	43:80:1	w	أَمۡ	ﱮ	ام	Or	am
+5	43:80:2	w	يَحۡسَبُونَ	ﱯ	يحسبون	(do) they think	yaḥsabūna
+5	43:80:3	w	أَنَّا	ﱰ	انا	that We	annā
+5	43:80:4	w	لَا	ﱱ	لا	(can) not	lā
+5	43:80:5	w	نَسۡمَعُ	ﱲ	نسمع	hear	nasmaʿu
+5	43:80:6	w	سِرَّهُمۡ	ﱳ	سرهم	their secret(s)	sirrahum
+5	43:80:7	w	وَنَجۡوَىٰهُمۚ	ﱴﱵ	ونجواهم	and their private counsel(s)	wanajwāhum
+5	43:80:8	w	بَلَىٰ	ﱶ	بلى	Nay	balā
+6	43:80:9	w	وَرُسُلُنَا	ﱷ	ورسلنا	and Our Messengers	warusulunā
+6	43:80:10	w	لَدَيۡهِمۡ	ﱸ	لديهم	with them	ladayhim
+6	43:80:11	w	يَكۡتُبُونَ	ﱹ	يكتبون	are recording	yaktubūna
+6	43:80:12	e	٨٠	ﱺ			
+6	43:81:1	w	قُلۡ	ﱻ	قل	Say	qul
+6	43:81:2	w	إِن	ﱼ	ان	If	in
+6	43:81:3	w	كَانَ	ﱽ	كان	had	kāna
+6	43:81:4	w	لِلرَّحۡمَٰنِ	ﱾ	للرحمان	the Most Gracious	lilrraḥmāni
+6	43:81:5	w	وَلَدٞ	ﱿ	ولد	a son	waladun
+6	43:81:6	w	فَأَنَا۠	ﲀ	فانا	Then, I	fa-anā
+6	43:81:7	w	أَوَّلُ	ﲁ	اول	(would be the) first	awwalu
+7	43:81:8	w	ٱلۡعَٰبِدِينَ	ﲂ	العابدين	(of) the worshippers	l-ʿābidīna
+7	43:81:9	e	٨١	ﲃ			
+7	43:82:1	w	سُبۡحَٰنَ	ﲄ	سبحان	Glory be	sub'ḥāna
+7	43:82:2	w	رَبِّ	ﲅ	رب	(to the) Lord	rabbi
+7	43:82:3	w	ٱلسَّمَٰوَٰتِ	ﲆ	السماوات	(of) the heavens	l-samāwāti
+7	43:82:4	w	وَٱلۡأَرۡضِ	ﲇ	والارض	and the earth	wal-arḍi
+7	43:82:5	w	رَبِّ	ﲈ	رب	(the) Lord	rabbi
+7	43:82:6	w	ٱلۡعَرۡشِ	ﲉ	العرش	(of) the Throne	l-ʿarshi
+8	43:82:7	w	عَمَّا	ﲊ	عما	above what	ʿammā
+8	43:82:8	w	يَصِفُونَ	ﲋ	يصفون	they ascribe	yaṣifūna
+8	43:82:9	e	٨٢	ﲌ			
+8	43:83:1	w	فَذَرۡهُمۡ	ﲍ	فذرهم	So leave them	fadharhum
+8	43:83:2	w	يَخُوضُواْ	ﲎ	يخوضوا	(to) converse vainly	yakhūḍū
+8	43:83:3	w	وَيَلۡعَبُواْ	ﲏ	ويلعبوا	and play	wayalʿabū
+8	43:83:4	w	حَتَّىٰ	ﲐ	حتى	until	ḥattā
+8	43:83:5	w	يُلَٰقُواْ	ﲑ	يلاقوا	they meet	yulāqū
+8	43:83:6	w	يَوۡمَهُمُ	ﲒ	يومهم	their Day	yawmahumu
+9	43:83:7	w	ٱلَّذِي	ﲓ	الذي	which	alladhī
+9	43:83:8	w	يُوعَدُونَ	ﲔ	يوعدون	they are promised	yūʿadūna
+9	43:83:9	e	٨٣	ﲕ			
+9	43:84:1	w	وَهُوَ	ﲖ	وهو	And He	wahuwa
+9	43:84:2	w	ٱلَّذِي	ﲗ	الذي	(is) the One Who	alladhī
+9	43:84:3	w	فِي	ﲘ	في	(is) in	fī
+9	43:84:4	w	ٱلسَّمَآءِ	ﲙ	السماء	the heaven	l-samāi
+9	43:84:5	w	إِلَٰهٞ	ﲚ	الاه	God	ilāhun
+9	43:84:6	w	وَفِي	ﲛ	وفي	and in	wafī
+9	43:84:7	w	ٱلۡأَرۡضِ	ﲜ	الارض	the earth	l-arḍi
+10	43:84:8	w	إِلَٰهٞۚ	ﲝﲞ	الاه	God	ilāhun
+10	43:84:9	w	وَهُوَ	ﲟ	وهو	And He	wahuwa
+10	43:84:10	w	ٱلۡحَكِيمُ	ﲠ	الحكيم	(is) the All-Wise	l-ḥakīmu
+10	43:84:11	w	ٱلۡعَلِيمُ	ﲡ	العليم	the All-Knower	l-ʿalīmu
+10	43:84:12	e	٨٤	ﲢ			
+10	43:85:1	w	وَتَبَارَكَ	ﲣ	وتبارك	And blessed (is)	watabāraka
+10	43:85:2	w	ٱلَّذِي	ﲤ	الذي	the One Who	alladhī
+10	43:85:3	w	لَهُۥ	ﲥ	له	to Whom	lahu
+10	43:85:4	w	مُلۡكُ	ﲦ	ملك	(belongs the) dominion	mul'ku
+10	43:85:5	w	ٱلسَّمَٰوَٰتِ	ﲧ	السماوات	(of) the heavens	l-samāwāti
+11	43:85:6	w	وَٱلۡأَرۡضِ	ﲨ	والارض	and the earth	wal-arḍi
+11	43:85:7	w	وَمَا	ﲩ	وما	and whatever	wamā
+11	43:85:8	w	بَيۡنَهُمَا	ﲪ	بينهما	(is) between both of them	baynahumā
+11	43:85:9	w	وَعِندَهُۥ	ﲫ	وعنده	and with Him	waʿindahu
+11	43:85:10	w	عِلۡمُ	ﲬ	علم	(is the) knowledge	ʿil'mu
+11	43:85:11	w	ٱلسَّاعَةِ	ﲭ	الساعة	(of) the Hour	l-sāʿati
+11	43:85:12	w	وَإِلَيۡهِ	ﲮ	واليه	and to Him	wa-ilayhi
+11	43:85:13	w	تُرۡجَعُونَ	ﲯ	ترجعون	you will be returned	tur'jaʿūna
+12	43:85:14	e	٨٥	ﲰ			
+12	43:86:1	w	وَلَا	ﲱ	ولا	And not	walā
+12	43:86:2	w	يَمۡلِكُ	ﲲ	يملك	have power	yamliku
+12	43:86:3	w	ٱلَّذِينَ	ﲳ	الذين	those whom	alladhīna
+12	43:86:4	w	يَدۡعُونَ	ﲴ	يدعون	they invoke	yadʿūna
+12	43:86:5	w	مِن	ﲵ	من	besides Him	min
+12	43:86:6	w	دُونِهِ	ﲶ	دونه	besides Him	dūnihi
+12	43:86:7	w	ٱلشَّفَٰعَةَ	ﲷ	الشفاعة	(for) the intercession	l-shafāʿata
+12	43:86:8	w	إِلَّا	ﲸ	الا	except	illā
+13	43:86:9	w	مَن	ﲹ	من	who	man
+13	43:86:10	w	شَهِدَ	ﲺ	شهد	testifies	shahida
+13	43:86:11	w	بِٱلۡحَقِّ	ﲻ	بالحق	to the truth	bil-ḥaqi
+13	43:86:12	w	وَهُمۡ	ﲼ	وهم	and they	wahum
+13	43:86:13	w	يَعۡلَمُونَ	ﲽ	يعلمون	know	yaʿlamūna
+13	43:86:14	e	٨٦	ﲾ			
+13	43:87:1	w	وَلَئِن	ﲿ	ولين	And if	wala-in
+13	43:87:2	w	سَأَلۡتَهُم	ﳀ	سالتهم	you ask them	sa-altahum
+13	43:87:3	w	مَّنۡ	ﳁ	من	who	man
+13	43:87:4	w	خَلَقَهُمۡ	ﳂ	خلقهم	created them	khalaqahum
+14	43:87:5	w	لَيَقُولُنَّ	ﳃ	ليقولن	they will certainly say	layaqūlunna
+14	43:87:6	w	ٱللَّهُۖ	ﳄﳅ	الله	Allah	l-lahu
+14	43:87:7	w	فَأَنَّىٰ	ﳆ	فانى	Then how	fa-annā
+14	43:87:8	w	يُؤۡفَكُونَ	ﳇ	يوفكون	are they deluded	yu'fakūna
+14	43:87:9	e	٨٧	ﳈ			
+14	43:88:1	w	وَقِيلِهِۦ	ﳉ	وقيله	And his saying	waqīlihi
+14	43:88:2	w	يَٰرَبِّ	ﳊ	يا رب	O my Lord	yārabbi
+14	43:88:3	w	إِنَّ	ﳋ	ان	Indeed	inna
+14	43:88:4	w	هَٰٓؤُلَآءِ	ﳌ	هاولاء	these	hāulāi
+14	43:88:5	w	قَوۡمٞ	ﳍ	قوم	(are) a people	qawmun
+15	43:88:6	w	لَّا	ﳎ	لا	(who do) not	lā
+15	43:88:7	w	يُؤۡمِنُونَ	ﳏ	يومنون	believe	yu'minūna
+15	43:88:8	e	٨٨	ﳐ			
+15	43:89:1	w	فَٱصۡفَحۡ	ﳑ	فاصفح	So turn away	fa-iṣ'faḥ
+15	43:89:2	w	عَنۡهُمۡ	ﳒ	عنهم	from them	ʿanhum
+15	43:89:3	w	وَقُلۡ	ﳓ	وقل	and say	waqul
+15	43:89:4	w	سَلَٰمٞۚ	ﳔﳕ	سلام	Peace	salāmun
+15	43:89:5	w	فَسَوۡفَ	ﳖ	فسوف	But soon	fasawfa
+15	43:89:6	w	يَعۡلَمُونَ	ﳗ	يعلمون	they will know	yaʿlamūna
+15	43:89:7	e	٨٩	ﳘ			

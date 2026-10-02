@@ -1,0 +1,149 @@
+1	20:88:1	w	فَأَخۡرَجَ	ﱁ	فاخرج	Then he brought forth	fa-akhraja
+1	20:88:2	w	لَهُمۡ	ﱂ	لهم	for them	lahum
+1	20:88:3	w	عِجۡلٗا	ﱃ	عجلا	a calf's	ʿij'lan
+1	20:88:4	w	جَسَدٗا	ﱄ	جسدا	body	jasadan
+1	20:88:5	w	لَّهُۥ	ﱅ	له	it had	lahu
+1	20:88:6	w	خُوَارٞ	ﱆ	خوار	a lowing sound	khuwārun
+1	20:88:7	w	فَقَالُواْ	ﱇ	فقالوا	and they said	faqālū
+1	20:88:8	w	هَٰذَآ	ﱈ	هاذا	This	hādhā
+1	20:88:9	w	إِلَٰهُكُمۡ	ﱉ	الاهكم	(is) your god	ilāhukum
+2	20:88:10	w	وَإِلَٰهُ	ﱊ	والاه	and the god	wa-ilāhu
+2	20:88:11	w	مُوسَىٰ	ﱋ	موسى	(of) Musa	mūsā
+2	20:88:12	w	فَنَسِيَ	ﱌ	فنسي	but he forgot	fanasiya
+2	20:88:13	e	٨٨	ﱍ			
+2	20:89:1	w	أَفَلَا	ﱎ	افلا	Then, did not	afalā
+2	20:89:2	w	يَرَوۡنَ	ﱏ	يرون	they see	yarawna
+2	20:89:3	w	أَلَّا	ﱐ	الا	that not	allā
+2	20:89:4	w	يَرۡجِعُ	ﱑ	يرجع	it (could) return	yarjiʿu
+2	20:89:5	w	إِلَيۡهِمۡ	ﱒ	اليهم	to them	ilayhim
+2	20:89:6	w	قَوۡلٗا	ﱓ	قولا	a word	qawlan
+3	20:89:7	w	وَلَا	ﱔ	ولا	and not	walā
+3	20:89:8	w	يَمۡلِكُ	ﱕ	يملك	possess	yamliku
+3	20:89:9	w	لَهُمۡ	ﱖ	لهم	for them	lahum
+3	20:89:10	w	ضَرّٗا	ﱗ	ضرا	any harm	ḍarran
+3	20:89:11	w	وَلَا	ﱘ	ولا	and not	walā
+3	20:89:12	w	نَفۡعٗا	ﱙ	نفعا	any benefit	nafʿan
+3	20:89:13	e	٨٩	ﱚ			
+3	20:90:1	w	وَلَقَدۡ	ﱛ	ولقد	And verily	walaqad
+3	20:90:2	w	قَالَ	ﱜ	قال	(had) said	qāla
+3	20:90:3	w	لَهُمۡ	ﱝ	لهم	to them	lahum
+3	20:90:4	w	هَٰرُونُ	ﱞ	هارون	Harun	hārūnu
+4	20:90:5	w	مِن	ﱟ	من	before	min
+4	20:90:6	w	قَبۡلُ	ﱠ	قبل	before	qablu
+4	20:90:7	w	يَٰقَوۡمِ	ﱡ	يا قوم	O my people	yāqawmi
+4	20:90:8	w	إِنَّمَا	ﱢ	انما	Only	innamā
+4	20:90:9	w	فُتِنتُم	ﱣ	فتنتم	you are being tested	futintum
+4	20:90:10	w	بِهِۦۖ	ﱤﱥ	به	by it	bihi
+4	20:90:11	w	وَإِنَّ	ﱦ	وان	and indeed	wa-inna
+4	20:90:12	w	رَبَّكُمُ	ﱧ	ربكم	your Lord	rabbakumu
+4	20:90:13	w	ٱلرَّحۡمَٰنُ	ﱨ	الرحمان	(is) the Most Gracious	l-raḥmānu
+4	20:90:14	w	فَٱتَّبِعُونِي	ﱩ	فاتبعوني	so follow me	fa-ittabiʿūnī
+5	20:90:15	w	وَأَطِيعُوٓاْ	ﱪ	واطيعوا	and obey	wa-aṭīʿū
+5	20:90:16	w	أَمۡرِي	ﱫ	امري	my order	amrī
+5	20:90:17	e	٩٠	ﱬ			
+5	20:91:1	w	قَالُواْ	ﱭ	قالوا	They said	qālū
+5	20:91:2	w	لَن	ﱮ	لن	Never	lan
+5	20:91:3	w	نَّبۡرَحَ	ﱯ	نبرح	we will cease	nabraḥa
+5	20:91:4	w	عَلَيۡهِ	ﱰ	عليه	being devoted to it	ʿalayhi
+5	20:91:5	w	عَٰكِفِينَ	ﱱ	عاكفين	being devoted to it	ʿākifīna
+5	20:91:6	w	حَتَّىٰ	ﱲ	حتى	until	ḥattā
+5	20:91:7	w	يَرۡجِعَ	ﱳ	يرجع	returns	yarjiʿa
+6	20:91:8	w	إِلَيۡنَا	ﱴ	الينا	to us	ilaynā
+6	20:91:9	w	مُوسَىٰ	ﱵ	موسى	Musa	mūsā
+6	20:91:10	e	٩١	ﱶ			
+6	20:92:1	w	قَالَ	ﱷ	قال	He said	qāla
+6	20:92:2	w	يَٰهَٰرُونُ	ﱸ	يا هارون	O Harun	yāhārūnu
+6	20:92:3	w	مَا	ﱹ	ما	What	mā
+6	20:92:4	w	مَنَعَكَ	ﱺ	منعك	prevented you	manaʿaka
+6	20:92:5	w	إِذۡ	ﱻ	اذ	when	idh
+6	20:92:6	w	رَأَيۡتَهُمۡ	ﱼ	رايتهم	you saw them	ra-aytahum
+6	20:92:7	w	ضَلُّوٓاْ	ﱽ	ضلوا	going astray	ḍallū
+6	20:92:8	e	٩٢	ﱾ			
+7	20:93:1	w	أَلَّا	ﱿ	الا	That not	allā
+7	20:93:2	w	تَتَّبِعَنِۖ	ﲀﲁ	تتبعن	you follow me	tattabiʿani
+7	20:93:3	w	أَفَعَصَيۡتَ	ﲂ	افعصيت	Then, have you disobeyed	afaʿaṣayta
+7	20:93:4	w	أَمۡرِي	ﲃ	امري	my order	amrī
+7	20:93:5	e	٩٣	ﲄ			
+7	20:94:1	w	قَالَ	ﲅ	قال	He said	qāla
+7	20:94:2	w	يَبۡنَؤُمَّ	ﲆ	يا ابن ام	O son of my mother	yabna-umma
+7	20:94:3	w	لَا	ﲇ	لا	(Do) not	lā
+7	20:94:4	w	تَأۡخُذۡ	ﲈ	تاخذ	seize (me)	takhudh
+7	20:94:5	w	بِلِحۡيَتِي	ﲉ	بلحيتي	by my beard	biliḥ'yatī
+8	20:94:6	w	وَلَا	ﲊ	ولا	and not	walā
+8	20:94:7	w	بِرَأۡسِيٓۖ	ﲋﲌ	براسي	by my head	birasī
+8	20:94:8	w	إِنِّي	ﲍ	اني	Indeed, I	innī
+8	20:94:9	w	خَشِيتُ	ﲎ	خشيت	[I] feared	khashītu
+8	20:94:10	w	أَن	ﲏ	ان	that	an
+8	20:94:11	w	تَقُولَ	ﲐ	تقول	you would say	taqūla
+8	20:94:12	w	فَرَّقۡتَ	ﲑ	فرقت	You caused division	farraqta
+8	20:94:13	w	بَيۡنَ	ﲒ	بين	between	bayna
+8	20:94:14	w	بَنِيٓ	ﲓ	بني	(the) Children of Israel	banī
+8	20:94:15	w	إِسۡرَٰٓءِيلَ	ﲔ	اسراييل	(the) Children of Israel	is'rāīla
+9	20:94:16	w	وَلَمۡ	ﲕ	ولم	and not	walam
+9	20:94:17	w	تَرۡقُبۡ	ﲖ	ترقب	you respect	tarqub
+9	20:94:18	w	قَوۡلِي	ﲗ	قولي	my word	qawlī
+9	20:94:19	e	٩٤	ﲘ			
+9	20:95:1	w	قَالَ	ﲙ	قال	He said	qāla
+9	20:95:2	w	فَمَا	ﲚ	فما	Then what	famā
+9	20:95:3	w	خَطۡبُكَ	ﲛ	خطبك	(is) your case	khaṭbuka
+9	20:95:4	w	يَٰسَٰمِرِيُّ	ﲜ	يا سامري	O Samiri	yāsāmiriyyu
+9	20:95:5	e	٩٥	ﲝ			
+9	20:96:1	w	قَالَ	ﲞ	قال	He said	qāla
+10	20:96:2	w	بَصُرۡتُ	ﲟ	بصرت	I perceived	baṣur'tu
+10	20:96:3	w	بِمَا	ﲠ	بما	what	bimā
+10	20:96:4	w	لَمۡ	ﲡ	لم	not	lam
+10	20:96:5	w	يَبۡصُرُواْ	ﲢ	يبصروا	they perceive	yabṣurū
+10	20:96:6	w	بِهِۦ	ﲣ	به	in it	bihi
+10	20:96:7	w	فَقَبَضۡتُ	ﲤ	فقبضت	so I took	faqabaḍtu
+10	20:96:8	w	قَبۡضَةٗ	ﲥ	قبضة	a handful	qabḍatan
+10	20:96:9	w	مِّنۡ	ﲦ	من	from	min
+10	20:96:10	w	أَثَرِ	ﲧ	اثر	(the) track	athari
+11	20:96:11	w	ٱلرَّسُولِ	ﲨ	الرسول	(of) the Messenger	l-rasūli
+11	20:96:12	w	فَنَبَذۡتُهَا	ﲩ	فنبذتها	then threw it	fanabadhtuhā
+11	20:96:13	w	وَكَذَٰلِكَ	ﲪ	وكذالك	and thus	wakadhālika
+11	20:96:14	w	سَوَّلَتۡ	ﲫ	سولت	suggested	sawwalat
+11	20:96:15	w	لِي	ﲬ	لي	to me	lī
+11	20:96:16	w	نَفۡسِي	ﲭ	نفسي	my soul	nafsī
+11	20:96:17	e	٩٦	ﲮ			
+11	20:97:1	w	قَالَ	ﲯ	قال	He said	qāla
+12	20:97:2	w	فَٱذۡهَبۡ	ﲰ	فاذهب	Then go	fa-idh'hab
+12	20:97:3	w	فَإِنَّ	ﲱ	فان	And indeed	fa-inna
+12	20:97:4	w	لَكَ	ﲲ	لك	for you	laka
+12	20:97:5	w	فِي	ﲳ	في	in	fī
+12	20:97:6	w	ٱلۡحَيَوٰةِ	ﲴ	الحياة	the life	l-ḥayati
+12	20:97:7	w	أَن	ﲵ	ان	that	an
+12	20:97:8	w	تَقُولَ	ﲶ	تقول	you will say	taqūla
+12	20:97:9	w	لَا	ﲷ	لا	(Do) not	lā
+12	20:97:10	w	مِسَاسَۖ	ﲸﲹ	مساس	touch	misāsa
+12	20:97:11	w	وَإِنَّ	ﲺ	وان	And indeed	wa-inna
+12	20:97:12	w	لَكَ	ﲻ	لك	for you	laka
+13	20:97:13	w	مَوۡعِدٗا	ﲼ	موعدا	(is) an appointment	mawʿidan
+13	20:97:14	w	لَّن	ﲽ	لن	never	lan
+13	20:97:15	w	تُخۡلَفَهُۥۖ	ﲾﲿ	تخلفه	you will fail to (keep) it	tukh'lafahu
+13	20:97:16	w	وَٱنظُرۡ	ﳀ	وانظر	And look	wa-unẓur
+13	20:97:17	w	إِلَىٰٓ	ﳁ	الى	at	ilā
+13	20:97:18	w	إِلَٰهِكَ	ﳂ	الاهك	your god	ilāhika
+13	20:97:19	w	ٱلَّذِي	ﳃ	الذي	that which	alladhī
+13	20:97:20	w	ظَلۡتَ	ﳄ	ظلت	you have remained	ẓalta
+13	20:97:21	w	عَلَيۡهِ	ﳅ	عليه	to it	ʿalayhi
+14	20:97:22	w	عَاكِفٗاۖ	ﳆﳇ	عاكفا	devoted	ʿākifan
+14	20:97:23	w	لَّنُحَرِّقَنَّهُۥ	ﳈ	لنحرقنه	Surely we will burn it	lanuḥarriqannahu
+14	20:97:24	w	ثُمَّ	ﳉ	ثم	then	thumma
+14	20:97:25	w	لَنَنسِفَنَّهُۥ	ﳊ	لننسفنه	certainly we will scatter it	lanansifannahu
+14	20:97:26	w	فِي	ﳋ	في	in	fī
+14	20:97:27	w	ٱلۡيَمِّ	ﳌ	اليم	the sea	l-yami
+14	20:97:28	w	نَسۡفًا	ﳍ	نسفا	(in) particles	nasfan
+14	20:97:29	e	٩٧	ﳎ			
+14	20:98:1	w	إِنَّمَآ	ﳏ	انما	Only	innamā
+15	20:98:2	w	إِلَٰهُكُمُ	ﳐ	الاهكم	your God	ilāhukumu
+15	20:98:3	w	ٱللَّهُ	ﳑ	الله	(is) Allah	l-lahu
+15	20:98:4	w	ٱلَّذِي	ﳒ	الذي	the One	alladhī
+15	20:98:5	w	لَآ	ﳓ	لا	(there is) no	lā
+15	20:98:6	w	إِلَٰهَ	ﳔ	الاه	god	ilāha
+15	20:98:7	w	إِلَّا	ﳕ	الا	but	illā
+15	20:98:8	w	هُوَۚ	ﳖﳗ	هو	He	huwa
+15	20:98:9	w	وَسِعَ	ﳘ	وسع	He has encompassed	wasiʿa
+15	20:98:10	w	كُلَّ	ﳙ	كل	all	kulla
+15	20:98:11	w	شَيۡءٍ	ﳚ	شيء	things	shayin
+15	20:98:12	w	عِلۡمٗا	ﳛ	علما	(in) knowledge	ʿil'man
+15	20:98:13	e	٩٨	ﳜ			

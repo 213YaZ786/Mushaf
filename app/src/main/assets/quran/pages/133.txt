@@ -1,0 +1,147 @@
+1	6:45:1	w	فَقُطِعَ	ﱁ	فقطع	So was cut off	faquṭiʿa
+1	6:45:2	w	دَابِرُ	ﱂ	دابر	(the) remnant	dābiru
+1	6:45:3	w	ٱلۡقَوۡمِ	ﱃ	القوم	(of) the people	l-qawmi
+1	6:45:4	w	ٱلَّذِينَ	ﱄ	الذين	[those] who	alladhīna
+1	6:45:5	w	ظَلَمُواْۚ	ﱅﱆ	ظلموا	did wrong	ẓalamū
+1	6:45:6	w	وَٱلۡحَمۡدُ	ﱇ	والحمد	And all praises and thanks	wal-ḥamdu
+1	6:45:7	w	لِلَّهِ	ﱈ	لله	(be) to Allah	lillahi
+1	6:45:8	w	رَبِّ	ﱉ	رب	Lord	rabbi
+1	6:45:9	w	ٱلۡعَٰلَمِينَ	ﱊ	العالمين	(of) the worlds	l-ʿālamīna
+1	6:45:10	e	٤٥	ﱋ			
+2	6:46:1	w	قُلۡ	ﱌ	قل	Say	qul
+2	6:46:2	w	أَرَءَيۡتُمۡ	ﱍ	ارايتم	Have you seen	ara-aytum
+2	6:46:3	w	إِنۡ	ﱎ	ان	if	in
+2	6:46:4	w	أَخَذَ	ﱏ	اخذ	took away	akhadha
+2	6:46:5	w	ٱللَّهُ	ﱐ	الله	Allah	l-lahu
+2	6:46:6	w	سَمۡعَكُمۡ	ﱑ	سمعكم	your hearing	samʿakum
+2	6:46:7	w	وَأَبۡصَٰرَكُمۡ	ﱒ	وابصاركم	and your sight	wa-abṣārakum
+2	6:46:8	w	وَخَتَمَ	ﱓ	وختم	and sealed	wakhatama
+2	6:46:9	w	عَلَىٰ	ﱔ	على	[on]	ʿalā
+2	6:46:10	w	قُلُوبِكُم	ﱕ	قلوبكم	your hearts	qulūbikum
+3	6:46:11	w	مَّنۡ	ﱖ	من	who	man
+3	6:46:12	w	إِلَٰهٌ	ﱗ	الاه	(is the) god	ilāhun
+3	6:46:13	w	غَيۡرُ	ﱘ	غير	other than	ghayru
+3	6:46:14	w	ٱللَّهِ	ﱙ	الله	Allah	l-lahi
+3	6:46:15	w	يَأۡتِيكُم	ﱚ	ياتيكم	to bring [back] to you	yatīkum
+3	6:46:16	w	بِهِۗ	ﱛﱜ	به	with it	bihi
+3	6:46:17	w	ٱنظُرۡ	ﱝ	انظر	See	unẓur
+3	6:46:18	w	كَيۡفَ	ﱞ	كيف	how	kayfa
+3	6:46:19	w	نُصَرِّفُ	ﱟ	نصرف	We explain	nuṣarrifu
+3	6:46:20	w	ٱلۡأٓيَٰتِ	ﱠ	الايات	the Signs	l-āyāti
+4	6:46:21	w	ثُمَّ	ﱡ	ثم	yet	thumma
+4	6:46:22	w	هُمۡ	ﱢ	هم	they	hum
+4	6:46:23	w	يَصۡدِفُونَ	ﱣ	يصدفون	turn away	yaṣdifūna
+4	6:46:24	e	٤٦	ﱤ			
+4	6:47:1	w	قُلۡ	ﱥ	قل	Say	qul
+4	6:47:2	w	أَرَءَيۡتَكُمۡ	ﱦ	ارايتكم	Have you seen	ara-aytakum
+4	6:47:3	w	إِنۡ	ﱧ	ان	if	in
+4	6:47:4	w	أَتَىٰكُمۡ	ﱨ	اتاكم	comes to you	atākum
+4	6:47:5	w	عَذَابُ	ﱩ	عذاب	punishment	ʿadhābu
+4	6:47:6	w	ٱللَّهِ	ﱪ	الله	(of) Allah	l-lahi
+5	6:47:7	w	بَغۡتَةً	ﱫ	بغتة	suddenly	baghtatan
+5	6:47:8	w	أَوۡ	ﱬ	او	or	aw
+5	6:47:9	w	جَهۡرَةً	ﱭ	جهرة	openly	jahratan
+5	6:47:10	w	هَلۡ	ﱮ	هل	will	hal
+5	6:47:11	w	يُهۡلَكُ	ﱯ	يهلك	(any) be destroyed	yuh'laku
+5	6:47:12	w	إِلَّا	ﱰ	الا	except	illā
+5	6:47:13	w	ٱلۡقَوۡمُ	ﱱ	القوم	the people	l-qawmu
+5	6:47:14	w	ٱلظَّٰلِمُونَ	ﱲ	الظالمون	the wrongdoers	l-ẓālimūna
+5	6:47:15	e	٤٧	ﱳ			
+5	6:48:1	w	وَمَا	ﱴ	وما	And not	wamā
+6	6:48:2	w	نُرۡسِلُ	ﱵ	نرسل	We send	nur'silu
+6	6:48:3	w	ٱلۡمُرۡسَلِينَ	ﱶ	المرسلين	the Messengers	l-mur'salīna
+6	6:48:4	w	إِلَّا	ﱷ	الا	except	illā
+6	6:48:5	w	مُبَشِّرِينَ	ﱸ	مبشرين	(as) bearer of glad tidings	mubashirīna
+6	6:48:6	w	وَمُنذِرِينَۖ	ﱹﱺ	ومنذرين	and (as) warners	wamundhirīna
+6	6:48:7	w	فَمَنۡ	ﱻ	فمن	So whoever	faman
+6	6:48:8	w	ءَامَنَ	ﱼ	امن	believed	āmana
+6	6:48:9	w	وَأَصۡلَحَ	ﱽ	واصلح	and reformed	wa-aṣlaḥa
+7	6:48:10	w	فَلَا	ﱾ	فلا	then no	falā
+7	6:48:11	w	خَوۡفٌ	ﱿ	خوف	fear	khawfun
+7	6:48:12	w	عَلَيۡهِمۡ	ﲀ	عليهم	upon them	ʿalayhim
+7	6:48:13	w	وَلَا	ﲁ	ولا	and not	walā
+7	6:48:14	w	هُمۡ	ﲂ	هم	they	hum
+7	6:48:15	w	يَحۡزَنُونَ	ﲃ	يحزنون	will grieve	yaḥzanūna
+7	6:48:16	e	٤٨	ﲄ			
+7	6:49:1	w	وَٱلَّذِينَ	ﲅ	والذين	And those who	wa-alladhīna
+7	6:49:2	w	كَذَّبُواْ	ﲆ	كذبوا	denied	kadhabū
+7	6:49:3	w	بِـَٔايَٰتِنَا	ﲇ	باياتنا	[in] Our Verses	biāyātinā
+8	6:49:4	w	يَمَسُّهُمُ	ﲈ	يمسهم	will touch them	yamassuhumu
+8	6:49:5	w	ٱلۡعَذَابُ	ﲉ	العذاب	the punishment	l-ʿadhābu
+8	6:49:6	w	بِمَا	ﲊ	بما	for what	bimā
+8	6:49:7	w	كَانُواْ	ﲋ	كانوا	they used to	kānū
+8	6:49:8	w	يَفۡسُقُونَ	ﲌ	يفسقون	defiantly disobey	yafsuqūna
+8	6:49:9	e	٤٩	ﲍ			
+8	6:50:1	w	قُل	ﲎ	قل	Say	qul
+8	6:50:2	w	لَّآ	ﲏ	لا	Not	lā
+8	6:50:3	w	أَقُولُ	ﲐ	اقول	(do) I say	aqūlu
+8	6:50:4	w	لَكُمۡ	ﲑ	لكم	to you	lakum
+9	6:50:5	w	عِندِي	ﲒ	عندي	(that) with me	ʿindī
+9	6:50:6	w	خَزَآئِنُ	ﲓ	خزاين	(are the) treasures	khazāinu
+9	6:50:7	w	ٱللَّهِ	ﲔ	الله	(of) Allah	l-lahi
+9	6:50:8	w	وَلَآ	ﲕ	ولا	and not	walā
+9	6:50:9	w	أَعۡلَمُ	ﲖ	اعلم	(that) I know	aʿlamu
+9	6:50:10	w	ٱلۡغَيۡبَ	ﲗ	الغيب	the unseen	l-ghayba
+9	6:50:11	w	وَلَآ	ﲘ	ولا	and not	walā
+9	6:50:12	w	أَقُولُ	ﲙ	اقول	I say	aqūlu
+9	6:50:13	w	لَكُمۡ	ﲚ	لكم	to you	lakum
+9	6:50:14	w	إِنِّي	ﲛ	اني	that I (am)	innī
+9	6:50:15	w	مَلَكٌۖ	ﲜﲝ	ملك	an Angel	malakun
+10	6:50:16	w	إِنۡ	ﲞ	ان	Not	in
+10	6:50:17	w	أَتَّبِعُ	ﲟ	اتبع	(do) I follow	attabiʿu
+10	6:50:18	w	إِلَّا	ﲠ	الا	except	illā
+10	6:50:19	w	مَا	ﲡ	ما	what	mā
+10	6:50:20	w	يُوحَىٰٓ	ﲢ	يوحى	is revealed	yūḥā
+10	6:50:21	w	إِلَيَّۚ	ﲣﲤ	الي	to me	ilayya
+10	6:50:22	w	قُلۡ	ﲥ	قل	Say	qul
+10	6:50:23	w	هَلۡ	ﲦ	هل	Can	hal
+10	6:50:24	w	يَسۡتَوِي	ﲧ	يستوي	be equal	yastawī
+10	6:50:25	w	ٱلۡأَعۡمَىٰ	ﲨ	الاعمى	the blind	l-aʿmā
+10	6:50:26	w	وَٱلۡبَصِيرُۚ	ﲩﲪ	والبصير	and the seeing one	wal-baṣīru
+11	6:50:27	w	أَفَلَا	ﲫ	افلا	Then will not	afalā
+11	6:50:28	w	تَتَفَكَّرُونَ	ﲬ	تتفكرون	you give thought	tatafakkarūna
+11	6:50:29	e	٥٠	ﲭ			
+11	6:51:1	w	وَأَنذِرۡ	ﲮ	وانذر	And warn	wa-andhir
+11	6:51:2	w	بِهِ	ﲯ	به	with it	bihi
+11	6:51:3	w	ٱلَّذِينَ	ﲰ	الذين	those who	alladhīna
+11	6:51:4	w	يَخَافُونَ	ﲱ	يخافون	fear	yakhāfūna
+11	6:51:5	w	أَن	ﲲ	ان	that	an
+11	6:51:6	w	يُحۡشَرُوٓاْ	ﲳ	يحشروا	they will be gathered	yuḥ'sharū
+11	6:51:7	w	إِلَىٰ	ﲴ	الى	to	ilā
+12	6:51:8	w	رَبِّهِمۡ	ﲵ	ربهم	their Lord	rabbihim
+12	6:51:9	w	لَيۡسَ	ﲶ	ليس	not	laysa
+12	6:51:10	w	لَهُم	ﲷ	لهم	for them	lahum
+12	6:51:11	w	مِّن	ﲸ	من	of	min
+12	6:51:12	w	دُونِهِۦ	ﲹ	دونه	other than Him	dūnihi
+12	6:51:13	w	وَلِيّٞ	ﲺ	ولي	any protector	waliyyun
+12	6:51:14	w	وَلَا	ﲻ	ولا	and not	walā
+12	6:51:15	w	شَفِيعٞ	ﲼ	شفيع	any intercessor	shafīʿun
+12	6:51:16	w	لَّعَلَّهُمۡ	ﲽ	لعلهم	so that they may	laʿallahum
+12	6:51:17	w	يَتَّقُونَ	ﲾ	يتقون	(become) righteous	yattaqūna
+13	6:51:18	e	٥١	ﲿ			
+13	6:52:1	w	وَلَا	ﳀ	ولا	And (do) not	walā
+13	6:52:2	w	تَطۡرُدِ	ﳁ	تطرد	send away	taṭrudi
+13	6:52:3	w	ٱلَّذِينَ	ﳂ	الذين	those who	alladhīna
+13	6:52:4	w	يَدۡعُونَ	ﳃ	يدعون	call	yadʿūna
+13	6:52:5	w	رَبَّهُم	ﳄ	ربهم	their Lord	rabbahum
+13	6:52:6	w	بِٱلۡغَدَوٰةِ	ﳅ	بالغداة	in the morning	bil-ghadati
+13	6:52:7	w	وَٱلۡعَشِيِّ	ﳆ	والعشي	and the evening	wal-ʿashiyi
+13	6:52:8	w	يُرِيدُونَ	ﳇ	يريدون	desiring	yurīdūna
+14	6:52:9	w	وَجۡهَهُۥۖ	ﳈﳉ	وجهه	His Countenance	wajhahu
+14	6:52:10	w	مَا	ﳊ	ما	Not	mā
+14	6:52:11	w	عَلَيۡكَ	ﳋ	عليك	(is) on you	ʿalayka
+14	6:52:12	w	مِنۡ	ﳌ	من	of	min
+14	6:52:13	w	حِسَابِهِم	ﳍ	حسابهم	their account	ḥisābihim
+14	6:52:14	w	مِّن	ﳎ	من	[of]	min
+14	6:52:15	w	شَيۡءٖ	ﳏ	شيء	anything	shayin
+14	6:52:16	w	وَمَا	ﳐ	وما	and not	wamā
+14	6:52:17	w	مِنۡ	ﳑ	من	from	min
+14	6:52:18	w	حِسَابِكَ	ﳒ	حسابك	your account	ḥisābika
+15	6:52:19	w	عَلَيۡهِم	ﳓ	عليهم	on them	ʿalayhim
+15	6:52:20	w	مِّن	ﳔ	من	[of]	min
+15	6:52:21	w	شَيۡءٖ	ﳕ	شيء	anything	shayin
+15	6:52:22	w	فَتَطۡرُدَهُمۡ	ﳖ	فتطردهم	So were you to send them away	fataṭrudahum
+15	6:52:23	w	فَتَكُونَ	ﳗ	فتكون	then you would be	fatakūna
+15	6:52:24	w	مِنَ	ﳘ	من	of	mina
+15	6:52:25	w	ٱلظَّٰلِمِينَ	ﳙ	الظالمين	the wrongdoers	l-ẓālimīna
+15	6:52:26	e	٥٢	ﳚ			

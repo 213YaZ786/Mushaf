@@ -1,0 +1,131 @@
+4	85:1:1	w	وَٱلسَّمَآءِ	ﱋ	والسماء	By the sky	wal-samāi
+4	85:1:2	w	ذَاتِ	ﱌ	ذات	containing	dhāti
+4	85:1:3	w	ٱلۡبُرُوجِ	ﱍ	البروج	the constellations	l-burūji
+4	85:1:4	e	١	ﱎ			
+4	85:2:1	w	وَٱلۡيَوۡمِ	ﱏ	واليوم	And the Day	wal-yawmi
+4	85:2:2	w	ٱلۡمَوۡعُودِ	ﱐ	الموعود	Promised	l-mawʿūdi
+4	85:2:3	e	٢	ﱑ			
+4	85:3:1	w	وَشَاهِدٖ	ﱒ	وشاهد	And (the) witness	washāhidin
+4	85:3:2	w	وَمَشۡهُودٖ	ﱓ	ومشهود	and what is witnessed	wamashhūdin
+5	85:3:3	e	٣	ﱔ			
+5	85:4:1	w	قُتِلَ	ﱕ	قتل	Destroyed were	qutila
+5	85:4:2	w	أَصۡحَٰبُ	ﱖ	اصحاب	(the) companions	aṣḥābu
+5	85:4:3	w	ٱلۡأُخۡدُودِ	ﱗ	الاخدود	(of) the pit	l-ukh'dūdi
+5	85:4:4	e	٤	ﱘ			
+5	85:5:1	w	ٱلنَّارِ	ﱙ	النار	(Of) the fire	al-nāri
+5	85:5:2	w	ذَاتِ	ﱚ	ذات	full	dhāti
+5	85:5:3	w	ٱلۡوَقُودِ	ﱛ	الوقود	(of) the fuel	l-waqūdi
+5	85:5:4	e	٥	ﱜ			
+5	85:6:1	w	إِذۡ	ﱝ	اذ	When	idh
+5	85:6:2	w	هُمۡ	ﱞ	هم	they	hum
+5	85:6:3	w	عَلَيۡهَا	ﱟ	عليها	by it	ʿalayhā
+6	85:6:4	w	قُعُودٞ	ﱠ	قعود	(were) sitting	quʿūdun
+6	85:6:5	e	٦	ﱡ			
+6	85:7:1	w	وَهُمۡ	ﱢ	وهم	And they	wahum
+6	85:7:2	w	عَلَىٰ	ﱣ	على	over	ʿalā
+6	85:7:3	w	مَا	ﱤ	ما	what	mā
+6	85:7:4	w	يَفۡعَلُونَ	ﱥ	يفعلون	they were doing	yafʿalūna
+6	85:7:5	w	بِٱلۡمُؤۡمِنِينَ	ﱦ	بالمومنين	to the believers	bil-mu'minīna
+6	85:7:6	w	شُهُودٞ	ﱧ	شهود	witnesses	shuhūdun
+6	85:7:7	e	٧	ﱨ			
+6	85:8:1	w	وَمَا	ﱩ	وما	And not	wamā
+6	85:8:2	w	نَقَمُواْ	ﱪ	نقموا	they resented	naqamū
+7	85:8:3	w	مِنۡهُمۡ	ﱫ	منهم	[of] them	min'hum
+7	85:8:4	w	إِلَّآ	ﱬ	الا	except	illā
+7	85:8:5	w	أَن	ﱭ	ان	that	an
+7	85:8:6	w	يُؤۡمِنُواْ	ﱮ	يومنوا	they believed	yu'minū
+7	85:8:7	w	بِٱللَّهِ	ﱯ	بالله	in Allah	bil-lahi
+7	85:8:8	w	ٱلۡعَزِيزِ	ﱰ	العزيز	the All-Mighty	l-ʿazīzi
+7	85:8:9	w	ٱلۡحَمِيدِ	ﱱ	الحميد	the Praiseworthy	l-ḥamīdi
+7	85:8:10	e	٨	ﱲ			
+7	85:9:1	w	ٱلَّذِي	ﱳ	الذي	The One Who	alladhī
+7	85:9:2	w	لَهُۥ	ﱴ	له	for Him	lahu
+7	85:9:3	w	مُلۡكُ	ﱵ	ملك	(is) the dominion	mul'ku
+8	85:9:4	w	ٱلسَّمَٰوَٰتِ	ﱶ	السماوات	(of) the heavens	l-samāwāti
+8	85:9:5	w	وَٱلۡأَرۡضِۚ	ﱷﱸ	والارض	and the earth	wal-arḍi
+8	85:9:6	w	وَٱللَّهُ	ﱹ	والله	and Allah	wal-lahu
+8	85:9:7	w	عَلَىٰ	ﱺ	على	on	ʿalā
+8	85:9:8	w	كُلِّ	ﱻ	كل	every	kulli
+8	85:9:9	w	شَيۡءٖ	ﱼ	شيء	thing	shayin
+8	85:9:10	w	شَهِيدٌ	ﱽ	شهيد	(is) a Witness	shahīdun
+8	85:9:11	e	٩	ﱾ			
+8	85:10:1	w	إِنَّ	ﱿ	ان	Indeed	inna
+8	85:10:2	w	ٱلَّذِينَ	ﲀ	الذين	those who	alladhīna
+9	85:10:3	w	فَتَنُواْ	ﲁ	فتنوا	persecuted	fatanū
+9	85:10:4	w	ٱلۡمُؤۡمِنِينَ	ﲂ	المومنين	the believing men	l-mu'minīna
+9	85:10:5	w	وَٱلۡمُؤۡمِنَٰتِ	ﲃ	والمومنات	and the believing women	wal-mu'mināti
+9	85:10:6	w	ثُمَّ	ﲄ	ثم	then	thumma
+9	85:10:7	w	لَمۡ	ﲅ	لم	not	lam
+9	85:10:8	w	يَتُوبُواْ	ﲆ	يتوبوا	they repented	yatūbū
+9	85:10:9	w	فَلَهُمۡ	ﲇ	فلهم	then for them	falahum
+9	85:10:10	w	عَذَابُ	ﲈ	عذاب	(is the) punishment	ʿadhābu
+9	85:10:11	w	جَهَنَّمَ	ﲉ	جهنم	(of) Hell	jahannama
+9	85:10:12	w	وَلَهُمۡ	ﲊ	ولهم	and for them	walahum
+10	85:10:13	w	عَذَابُ	ﲋ	عذاب	(is the) punishment	ʿadhābu
+10	85:10:14	w	ٱلۡحَرِيقِ	ﲌ	الحريق	(of) the Burning Fire	l-ḥarīqi
+10	85:10:15	e	١٠	ﲍ			
+10	85:11:1	w	إِنَّ	ﲎ	ان	Indeed	inna
+10	85:11:2	w	ٱلَّذِينَ	ﲏ	الذين	those who	alladhīna
+10	85:11:3	w	ءَامَنُواْ	ﲐ	امنوا	believe	āmanū
+10	85:11:4	w	وَعَمِلُواْ	ﲑ	وعملوا	and do	waʿamilū
+10	85:11:5	w	ٱلصَّٰلِحَٰتِ	ﲒ	الصالحات	the righteous deeds	l-ṣāliḥāti
+10	85:11:6	w	لَهُمۡ	ﲓ	لهم	for them	lahum
+11	85:11:7	w	جَنَّٰتٞ	ﲔ	جنات	(will be) Gardens	jannātun
+11	85:11:8	w	تَجۡرِي	ﲕ	تجري	flow	tajrī
+11	85:11:9	w	مِن	ﲖ	من	from	min
+11	85:11:10	w	تَحۡتِهَا	ﲗ	تحتها	underneath it	taḥtihā
+11	85:11:11	w	ٱلۡأَنۡهَٰرُۚ	ﲘﲙ	الانهار	the rivers	l-anhāru
+11	85:11:12	w	ذَٰلِكَ	ﲚ	ذالك	That	dhālika
+11	85:11:13	w	ٱلۡفَوۡزُ	ﲛ	الفوز	(is) the success	l-fawzu
+11	85:11:14	w	ٱلۡكَبِيرُ	ﲜ	الكبير	the great	l-kabīru
+11	85:11:15	e	١١	ﲝ			
+11	85:12:1	w	إِنَّ	ﲞ	ان	Indeed	inna
+11	85:12:2	w	بَطۡشَ	ﲟ	بطش	(the) Grip	baṭsha
+12	85:12:3	w	رَبِّكَ	ﲠ	ربك	(of) your Lord	rabbika
+12	85:12:4	w	لَشَدِيدٌ	ﲡ	لشديد	(is) surely strong	lashadīdun
+12	85:12:5	e	١٢	ﲢ			
+12	85:13:1	w	إِنَّهُۥ	ﲣ	انه	Indeed He	innahu
+12	85:13:2	w	هُوَ	ﲤ	هو	He	huwa
+12	85:13:3	w	يُبۡدِئُ	ﲥ	يبدي	originates	yub'di-u
+12	85:13:4	w	وَيُعِيدُ	ﲦ	ويعيد	and repeats	wayuʿīdu
+12	85:13:5	e	١٣	ﲧ			
+12	85:14:1	w	وَهُوَ	ﲨ	وهو	And He	wahuwa
+12	85:14:2	w	ٱلۡغَفُورُ	ﲩ	الغفور	(is) the Oft-Forgiving	l-ghafūru
+12	85:14:3	w	ٱلۡوَدُودُ	ﲪ	الودود	the Most Loving	l-wadūdu
+12	85:14:4	e	١٤	ﲫ			
+13	85:15:1	w	ذُو	ﲬ	ذو	Owner (of)	dhū
+13	85:15:2	w	ٱلۡعَرۡشِ	ﲭ	العرش	the Throne	l-ʿarshi
+13	85:15:3	w	ٱلۡمَجِيدُ	ﲮ	المجيد	the Glorious	l-majīdu
+13	85:15:4	e	١٥	ﲯ			
+13	85:16:1	w	فَعَّالٞ	ﲰ	فعال	Doer	faʿʿālun
+13	85:16:2	w	لِّمَا	ﲱ	لما	of what	limā
+13	85:16:3	w	يُرِيدُ	ﲲ	يريد	He intends	yurīdu
+13	85:16:4	e	١٦	ﲳ			
+13	85:17:1	w	هَلۡ	ﲴ	هل	Has	hal
+13	85:17:2	w	أَتَىٰكَ	ﲵ	اتاك	come to you	atāka
+13	85:17:3	w	حَدِيثُ	ﲶ	حديث	(the) story	ḥadīthu
+13	85:17:4	w	ٱلۡجُنُودِ	ﲷ	الجنود	(of) the hosts	l-junūdi
+14	85:17:5	e	١٧	ﲸ			
+14	85:18:1	w	فِرۡعَوۡنَ	ﲹ	فرعون	Firaun	fir'ʿawna
+14	85:18:2	w	وَثَمُودَ	ﲺ	وثمود	and Thamud	wathamūda
+14	85:18:3	e	١٨	ﲻ			
+14	85:19:1	w	بَلِ	ﲼ	بل	Nay	bali
+14	85:19:2	w	ٱلَّذِينَ	ﲽ	الذين	Those who	alladhīna
+14	85:19:3	w	كَفَرُواْ	ﲾ	كفروا	disbelieve	kafarū
+14	85:19:4	w	فِي	ﲿ	في	(are) in	fī
+14	85:19:5	w	تَكۡذِيبٖ	ﳀ	تكذيب	denial	takdhībin
+14	85:19:6	e	١٩	ﳁ			
+14	85:20:1	w	وَٱللَّهُ	ﳂ	والله	But Allah	wal-lahu
+14	85:20:2	w	مِن	ﳃ	من	from	min
+15	85:20:3	w	وَرَآئِهِم	ﳄ	ورايهم	behind them	warāihim
+15	85:20:4	w	مُّحِيطُۢ	ﳅ	محيط	encompasses	muḥīṭun
+15	85:20:5	e	٢٠	ﳆ			
+15	85:21:1	w	بَلۡ	ﳇ	بل	Nay	bal
+15	85:21:2	w	هُوَ	ﳈ	هو	It	huwa
+15	85:21:3	w	قُرۡءَانٞ	ﳉ	قران	(is) a Quran	qur'ānun
+15	85:21:4	w	مَّجِيدٞ	ﳊ	مجيد	Glorious	majīdun
+15	85:21:5	e	٢١	ﳋ			
+15	85:22:1	w	فِي	ﳌ	في	In	fī
+15	85:22:2	w	لَوۡحٖ	ﳍ	لوح	a Tablet	lawḥin
+15	85:22:3	w	مَّحۡفُوظِۭ	ﳎ	محفوظ	Guarded	maḥfūẓin
+15	85:22:4	e	٢٢	ﳏ			

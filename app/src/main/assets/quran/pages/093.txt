@@ -1,0 +1,118 @@
+1	4:92:1	w	وَمَا	ﱁ	وما	And not	wamā
+1	4:92:2	w	كَانَ	ﱂ	كان	is	kāna
+1	4:92:3	w	لِمُؤۡمِنٍ	ﱃ	لمومن	for a believer	limu'minin
+1	4:92:4	w	أَن	ﱄ	ان	that	an
+1	4:92:5	w	يَقۡتُلَ	ﱅ	يقتل	he kills	yaqtula
+1	4:92:6	w	مُؤۡمِنًا	ﱆ	مومنا	a believer	mu'minan
+1	4:92:7	w	إِلَّا	ﱇ	الا	except	illā
+1	4:92:8	w	خَطَـٔٗاۚ	ﱈﱉ	خطا	(by) mistake	khaṭa-an
+1	4:92:9	w	وَمَن	ﱊ	ومن	And whoever	waman
+1	4:92:10	w	قَتَلَ	ﱋ	قتل	killed	qatala
+2	4:92:11	w	مُؤۡمِنًا	ﱌ	مومنا	a believer	mu'minan
+2	4:92:12	w	خَطَـٔٗا	ﱍ	خطا	(by) mistake	khaṭa-an
+2	4:92:13	w	فَتَحۡرِيرُ	ﱎ	فتحرير	then freeing	fataḥrīru
+2	4:92:14	w	رَقَبَةٖ	ﱏ	رقبة	(of) a slave	raqabatin
+2	4:92:15	w	مُّؤۡمِنَةٖ	ﱐ	مومنة	believing	mu'minatin
+2	4:92:16	w	وَدِيَةٞ	ﱑ	ودية	and blood money	wadiyatun
+2	4:92:17	w	مُّسَلَّمَةٌ	ﱒ	مسلمة	(is to be) paid	musallamatun
+3	4:92:18	w	إِلَىٰٓ	ﱓ	الى	to	ilā
+3	4:92:19	w	أَهۡلِهِۦٓ	ﱔ	اهله	his family	ahlihi
+3	4:92:20	w	إِلَّآ	ﱕ	الا	unless	illā
+3	4:92:21	w	أَن	ﱖ	ان	that	an
+3	4:92:22	w	يَصَّدَّقُواْۚ	ﱗﱘ	يصدقوا	they remit (as) charity	yaṣṣaddaqū
+3	4:92:23	w	فَإِن	ﱙ	فان	But if	fa-in
+3	4:92:24	w	كَانَ	ﱚ	كان	(he) was	kāna
+3	4:92:25	w	مِن	ﱛ	من	from	min
+3	4:92:26	w	قَوۡمٍ	ﱜ	قوم	a people	qawmin
+3	4:92:27	w	عَدُوّٖ	ﱝ	عدو	hostile	ʿaduwwin
+4	4:92:28	w	لَّكُمۡ	ﱞ	لكم	to you	lakum
+4	4:92:29	w	وَهُوَ	ﱟ	وهو	and he was	wahuwa
+4	4:92:30	w	مُؤۡمِنٞ	ﱠ	مومن	a believer	mu'minun
+4	4:92:31	w	فَتَحۡرِيرُ	ﱡ	فتحرير	then freeing	fataḥrīru
+4	4:92:32	w	رَقَبَةٖ	ﱢ	رقبة	(of) a believing slave	raqabatin
+4	4:92:33	w	مُّؤۡمِنَةٖۖ	ﱣﱤ	مومنة	believing	mu'minatin
+4	4:92:34	w	وَإِن	ﱥ	وان	And if	wa-in
+4	4:92:35	w	كَانَ	ﱦ	كان	(he) was	kāna
+5	4:92:36	w	مِن	ﱧ	من	from	min
+5	4:92:37	w	قَوۡمِۭ	ﱨ	قوم	a people	qawmin
+5	4:92:38	w	بَيۡنَكُمۡ	ﱩ	بينكم	between you	baynakum
+5	4:92:39	w	وَبَيۡنَهُم	ﱪ	وبينهم	and between them	wabaynahum
+5	4:92:40	w	مِّيثَٰقٞ	ﱫ	ميثاق	(is) a treaty	mīthāqun
+5	4:92:41	w	فَدِيَةٞ	ﱬ	فدية	then blood money	fadiyatun
+5	4:92:42	w	مُّسَلَّمَةٌ	ﱭ	مسلمة	(is to be) paid	musallamatun
+5	4:92:43	w	إِلَىٰٓ	ﱮ	الى	to	ilā
+6	4:92:44	w	أَهۡلِهِۦ	ﱯ	اهله	his family	ahlihi
+6	4:92:45	w	وَتَحۡرِيرُ	ﱰ	وتحرير	and freeing	wataḥrīru
+6	4:92:46	w	رَقَبَةٖ	ﱱ	رقبة	(of) a slave	raqabatin
+6	4:92:47	w	مُّؤۡمِنَةٖۖ	ﱲﱳ	مومنة	believing	mu'minatin
+6	4:92:48	w	فَمَن	ﱴ	فمن	And whoever	faman
+6	4:92:49	w	لَّمۡ	ﱵ	لم	(does) not	lam
+6	4:92:50	w	يَجِدۡ	ﱶ	يجد	find	yajid
+6	4:92:51	w	فَصِيَامُ	ﱷ	فصيام	then fasting	faṣiyāmu
+7	4:92:52	w	شَهۡرَيۡنِ	ﱸ	شهرين	(for) two months	shahrayni
+7	4:92:53	w	مُتَتَابِعَيۡنِ	ﱹ	متتابعين	consecutively	mutatābiʿayni
+7	4:92:54	w	تَوۡبَةٗ	ﱺ	توبة	(seeking) repentance	tawbatan
+7	4:92:55	w	مِّنَ	ﱻ	من	from	mina
+7	4:92:56	w	ٱللَّهِۗ	ﱼﱽ	الله	Allah	l-lahi
+7	4:92:57	w	وَكَانَ	ﱾ	وكان	and is	wakāna
+7	4:92:58	w	ٱللَّهُ	ﱿ	الله	Allah	l-lahu
+8	4:92:59	w	عَلِيمًا	ﲀ	عليما	All-Knowing	ʿalīman
+8	4:92:60	w	حَكِيمٗا	ﲁ	حكيما	All-Wise	ḥakīman
+8	4:92:61	e	٩٢	ﲂ			
+8	4:93:1	w	وَمَن	ﲃ	ومن	And whoever	waman
+8	4:93:2	w	يَقۡتُلۡ	ﲄ	يقتل	kills	yaqtul
+8	4:93:3	w	مُؤۡمِنٗا	ﲅ	مومنا	a believer	mu'minan
+8	4:93:4	w	مُّتَعَمِّدٗا	ﲆ	متعمدا	intentionally	mutaʿammidan
+9	4:93:5	w	فَجَزَآؤُهُۥ	ﲇ	فجزاوه	then his recompense	fajazāuhu
+9	4:93:6	w	جَهَنَّمُ	ﲈ	جهنم	(is) Hell	jahannamu
+9	4:93:7	w	خَٰلِدٗا	ﲉ	خالدا	abiding forever	khālidan
+9	4:93:8	w	فِيهَا	ﲊ	فيها	in it	fīhā
+9	4:93:9	w	وَغَضِبَ	ﲋ	وغضب	and will fall the wrath	waghaḍiba
+9	4:93:10	w	ٱللَّهُ	ﲌ	الله	(of) Allah	l-lahu
+9	4:93:11	w	عَلَيۡهِ	ﲍ	عليه	on him	ʿalayhi
+10	4:93:12	w	وَلَعَنَهُۥ	ﲎ	ولعنه	and He (will) curse him	walaʿanahu
+10	4:93:13	w	وَأَعَدَّ	ﲏ	واعد	and He has prepared	wa-aʿadda
+10	4:93:14	w	لَهُۥ	ﲐ	له	for him	lahu
+10	4:93:15	w	عَذَابًا	ﲑ	عذابا	a punishment	ʿadhāban
+10	4:93:16	w	عَظِيمٗا	ﲒ	عظيما	great	ʿaẓīman
+10	4:93:17	e	٩٣	ﲓ			
+10	4:94:1	w	يَٰٓأَيُّهَا	ﲔ	يا ايها	O you	yāayyuhā
+10	4:94:2	w	ٱلَّذِينَ	ﲕ	الذين	who	alladhīna
+11	4:94:3	w	ءَامَنُوٓاْ	ﲖ	امنوا	believe[d]	āmanū
+11	4:94:4	w	إِذَا	ﲗ	اذا	When	idhā
+11	4:94:5	w	ضَرَبۡتُمۡ	ﲘ	ضربتم	you go forth	ḍarabtum
+11	4:94:6	w	فِي	ﲙ	في	in	fī
+11	4:94:7	w	سَبِيلِ	ﲚ	سبيل	(the) way	sabīli
+11	4:94:8	w	ٱللَّهِ	ﲛ	الله	(of) Allah	l-lahi
+11	4:94:9	w	فَتَبَيَّنُواْ	ﲜ	فتبينوا	then investigate	fatabayyanū
+11	4:94:10	w	وَلَا	ﲝ	ولا	and (do) not	walā
+11	4:94:11	w	تَقُولُواْ	ﲞ	تقولوا	say	taqūlū
+12	4:94:12	w	لِمَنۡ	ﲟ	لمن	to (the one) who	liman
+12	4:94:13	w	أَلۡقَىٰٓ	ﲠ	القى	offers	alqā
+12	4:94:14	w	إِلَيۡكُمُ	ﲡ	اليكم	to you	ilaykumu
+12	4:94:15	w	ٱلسَّلَٰمَ	ﲢ	السلام	(a greeting of) peace	l-salāma
+12	4:94:16	w	لَسۡتَ	ﲣ	لست	You are not	lasta
+12	4:94:17	w	مُؤۡمِنٗا	ﲤ	مومنا	a believer	mu'minan
+12	4:94:18	w	تَبۡتَغُونَ	ﲥ	تبتغون	seeking	tabtaghūna
+13	4:94:19	w	عَرَضَ	ﲦ	عرض	transitory gains	ʿaraḍa
+13	4:94:20	w	ٱلۡحَيَوٰةِ	ﲧ	الحياة	(of) the life	l-ḥayati
+13	4:94:21	w	ٱلدُّنۡيَا	ﲨ	الدنيا	(of) the world	l-dun'yā
+13	4:94:22	w	فَعِندَ	ﲩ	فعند	for with	faʿinda
+13	4:94:23	w	ٱللَّهِ	ﲪ	الله	Allah	l-lahi
+13	4:94:24	w	مَغَانِمُ	ﲫ	مغانم	(are) booties	maghānimu
+13	4:94:25	w	كَثِيرَةٞۚ	ﲬﲭ	كثيرة	abundant	kathīratun
+14	4:94:26	w	كَذَٰلِكَ	ﲮ	كذالك	Like that	kadhālika
+14	4:94:27	w	كُنتُم	ﲯ	كنتم	you were	kuntum
+14	4:94:28	w	مِّن	ﲰ	من	from	min
+14	4:94:29	w	قَبۡلُ	ﲱ	قبل	before	qablu
+14	4:94:30	w	فَمَنَّ	ﲲ	فمن	then conferred favor	famanna
+14	4:94:31	w	ٱللَّهُ	ﲳ	الله	Allah	l-lahu
+14	4:94:32	w	عَلَيۡكُمۡ	ﲴ	عليكم	upon you	ʿalaykum
+15	4:94:33	w	فَتَبَيَّنُوٓاْۚ	ﲵﲶ	فتبينوا	so investigate	fatabayyanū
+15	4:94:34	w	إِنَّ	ﲷ	ان	Indeed	inna
+15	4:94:35	w	ٱللَّهَ	ﲸ	الله	Allah	l-laha
+15	4:94:36	w	كَانَ	ﲹ	كان	is	kāna
+15	4:94:37	w	بِمَا	ﲺ	بما	of what	bimā
+15	4:94:38	w	تَعۡمَلُونَ	ﲻ	تعملون	you do	taʿmalūna
+15	4:94:39	w	خَبِيرٗا	ﲼ	خبيرا	All-Aware	khabīran
+15	4:94:40	e	٩٤	ﲽ			

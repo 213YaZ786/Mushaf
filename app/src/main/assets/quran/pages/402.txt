@@ -1,0 +1,128 @@
+1	29:46:1	w	۞ وَلَا	ﱁ ﱂ	۞ ولا	And (do) not	walā
+1	29:46:2	w	تُجَٰدِلُوٓاْ	ﱃ	تجادلوا	argue	tujādilū
+1	29:46:3	w	أَهۡلَ	ﱄ	اهل	(with the) People of the Book	ahla
+1	29:46:4	w	ٱلۡكِتَٰبِ	ﱅ	الكتاب	(with the) People of the Book	l-kitābi
+1	29:46:5	w	إِلَّا	ﱆ	الا	except	illā
+1	29:46:6	w	بِٱلَّتِي	ﱇ	بالتي	by which	bi-allatī
+1	29:46:7	w	هِيَ	ﱈ	هي	[it]	hiya
+1	29:46:8	w	أَحۡسَنُ	ﱉ	احسن	(is) best	aḥsanu
+1	29:46:9	w	إِلَّا	ﱊ	الا	except	illā
+2	29:46:10	w	ٱلَّذِينَ	ﱋ	الذين	those who	alladhīna
+2	29:46:11	w	ظَلَمُواْ	ﱌ	ظلموا	(do) wrong	ẓalamū
+2	29:46:12	w	مِنۡهُمۡۖ	ﱍﱎ	منهم	among them	min'hum
+2	29:46:13	w	وَقُولُوٓاْ	ﱏ	وقولوا	and say	waqūlū
+2	29:46:14	w	ءَامَنَّا	ﱐ	امنا	We believe	āmannā
+2	29:46:15	w	بِٱلَّذِيٓ	ﱑ	بالذي	in that (which)	bi-alladhī
+2	29:46:16	w	أُنزِلَ	ﱒ	انزل	has been revealed	unzila
+2	29:46:17	w	إِلَيۡنَا	ﱓ	الينا	to us	ilaynā
+2	29:46:18	w	وَأُنزِلَ	ﱔ	وانزل	and was revealed	wa-unzila
+3	29:46:19	w	إِلَيۡكُمۡ	ﱕ	اليكم	to you	ilaykum
+3	29:46:20	w	وَإِلَٰهُنَا	ﱖ	والاهنا	And our God	wa-ilāhunā
+3	29:46:21	w	وَإِلَٰهُكُمۡ	ﱗ	والاهكم	and your God	wa-ilāhukum
+3	29:46:22	w	وَٰحِدٞ	ﱘ	واحد	(is) One	wāḥidun
+3	29:46:23	w	وَنَحۡنُ	ﱙ	ونحن	and we	wanaḥnu
+3	29:46:24	w	لَهُۥ	ﱚ	له	to Him	lahu
+3	29:46:25	w	مُسۡلِمُونَ	ﱛ	مسلمون	submit	mus'limūna
+4	29:46:26	e	٤٦	ﱜ			
+4	29:47:1	w	وَكَذَٰلِكَ	ﱝ	وكذالك	And thus	wakadhālika
+4	29:47:2	w	أَنزَلۡنَآ	ﱞ	انزلنا	We (have) revealed	anzalnā
+4	29:47:3	w	إِلَيۡكَ	ﱟ	اليك	to you	ilayka
+4	29:47:4	w	ٱلۡكِتَٰبَۚ	ﱠﱡ	الكتاب	the Book	l-kitāba
+4	29:47:5	w	فَٱلَّذِينَ	ﱢ	فالذين	So those	fa-alladhīna
+4	29:47:6	w	ءَاتَيۡنَٰهُمُ	ﱣ	اتيناهم	We gave [them]	ātaynāhumu
+5	29:47:7	w	ٱلۡكِتَٰبَ	ﱤ	الكتاب	the Book	l-kitāba
+5	29:47:8	w	يُؤۡمِنُونَ	ﱥ	يومنون	believe	yu'minūna
+5	29:47:9	w	بِهِۦۖ	ﱦﱧ	به	therein	bihi
+5	29:47:10	w	وَمِنۡ	ﱨ	ومن	And among	wamin
+5	29:47:11	w	هَٰٓؤُلَآءِ	ﱩ	هاولاء	these	hāulāi
+5	29:47:12	w	مَن	ﱪ	من	(are some) who	man
+5	29:47:13	w	يُؤۡمِنُ	ﱫ	يومن	believe	yu'minu
+5	29:47:14	w	بِهِۦۚ	ﱬﱭ	به	therein	bihi
+5	29:47:15	w	وَمَا	ﱮ	وما	And none	wamā
+6	29:47:16	w	يَجۡحَدُ	ﱯ	يجحد	reject	yajḥadu
+6	29:47:17	w	بِـَٔايَٰتِنَآ	ﱰ	باياتنا	Our Verses	biāyātinā
+6	29:47:18	w	إِلَّا	ﱱ	الا	except	illā
+6	29:47:19	w	ٱلۡكَٰفِرُونَ	ﱲ	الكافرون	the disbelievers	l-kāfirūna
+6	29:47:20	e	٤٧	ﱳ			
+6	29:48:1	w	وَمَا	ﱴ	وما	And not	wamā
+6	29:48:2	w	كُنتَ	ﱵ	كنت	(did) you	kunta
+6	29:48:3	w	تَتۡلُواْ	ﱶ	تتلو	recite	tatlū
+6	29:48:4	w	مِن	ﱷ	من	before it	min
+7	29:48:5	w	قَبۡلِهِۦ	ﱸ	قبله	before it	qablihi
+7	29:48:6	w	مِن	ﱹ	من	any	min
+7	29:48:7	w	كِتَٰبٖ	ﱺ	كتاب	Book	kitābin
+7	29:48:8	w	وَلَا	ﱻ	ولا	and not	walā
+7	29:48:9	w	تَخُطُّهُۥ	ﱼ	تخطه	(did) you write it	takhuṭṭuhu
+7	29:48:10	w	بِيَمِينِكَۖ	ﱽﱾ	بيمينك	with your right hand	biyamīnika
+7	29:48:11	w	إِذٗا	ﱿ	اذا	in that case	idhan
+7	29:48:12	w	لَّٱرۡتَابَ	ﲀ	لارتاب	surely (would) have doubted	la-ir'tāba
+8	29:48:13	w	ٱلۡمُبۡطِلُونَ	ﲁ	المبطلون	the falsifiers	l-mub'ṭilūna
+8	29:48:14	e	٤٨	ﲂ			
+8	29:49:1	w	بَلۡ	ﲃ	بل	Nay	bal
+8	29:49:2	w	هُوَ	ﲄ	هو	it	huwa
+8	29:49:3	w	ءَايَٰتُۢ	ﲅ	ايات	(is) Verses	āyātun
+8	29:49:4	w	بَيِّنَٰتٞ	ﲆ	بينات	clear	bayyinātun
+8	29:49:5	w	فِي	ﲇ	في	in	fī
+8	29:49:6	w	صُدُورِ	ﲈ	صدور	(the) breasts	ṣudūri
+8	29:49:7	w	ٱلَّذِينَ	ﲉ	الذين	(of) those who	alladhīna
+9	29:49:8	w	أُوتُواْ	ﲊ	اوتوا	are given	ūtū
+9	29:49:9	w	ٱلۡعِلۡمَۚ	ﲋﲌ	العلم	the knowledge	l-ʿil'ma
+9	29:49:10	w	وَمَا	ﲍ	وما	And not	wamā
+9	29:49:11	w	يَجۡحَدُ	ﲎ	يجحد	reject	yajḥadu
+9	29:49:12	w	بِـَٔايَٰتِنَآ	ﲏ	باياتنا	Our Verses	biāyātinā
+9	29:49:13	w	إِلَّا	ﲐ	الا	except	illā
+9	29:49:14	w	ٱلظَّٰلِمُونَ	ﲑ	الظالمون	the wrongdoers	l-ẓālimūna
+9	29:49:15	e	٤٩	ﲒ			
+9	29:50:1	w	وَقَالُواْ	ﲓ	وقالوا	And they say	waqālū
+10	29:50:2	w	لَوۡلَآ	ﲔ	لولا	Why not	lawlā
+10	29:50:3	w	أُنزِلَ	ﲕ	انزل	are sent down	unzila
+10	29:50:4	w	عَلَيۡهِ	ﲖ	عليه	to him	ʿalayhi
+10	29:50:5	w	ءَايَٰتٞ	ﲗ	ايات	(the) Signs	āyātun
+10	29:50:6	w	مِّن	ﲘ	من	from	min
+10	29:50:7	w	رَّبِّهِۦۚ	ﲙﲚ	ربه	his Lord	rabbihi
+10	29:50:8	w	قُلۡ	ﲛ	قل	Say	qul
+10	29:50:9	w	إِنَّمَا	ﲜ	انما	Only	innamā
+10	29:50:10	w	ٱلۡأٓيَٰتُ	ﲝ	الايات	the Signs	l-āyātu
+10	29:50:11	w	عِندَ	ﲞ	عند	(are) with	ʿinda
+10	29:50:12	w	ٱللَّهِ	ﲟ	الله	Allah	l-lahi
+11	29:50:13	w	وَإِنَّمَآ	ﲠ	وانما	and only	wa-innamā
+11	29:50:14	w	أَنَا۠	ﲡ	انا	I (am)	anā
+11	29:50:15	w	نَذِيرٞ	ﲢ	نذير	a warner	nadhīrun
+11	29:50:16	w	مُّبِينٌ	ﲣ	مبين	clear	mubīnun
+11	29:50:17	e	٥٠	ﲤ			
+11	29:51:1	w	أَوَلَمۡ	ﲥ	اولم	And is (it) not	awalam
+11	29:51:2	w	يَكۡفِهِمۡ	ﲦ	يكفهم	sufficient for them	yakfihim
+11	29:51:3	w	أَنَّآ	ﲧ	انا	that We	annā
+11	29:51:4	w	أَنزَلۡنَا	ﲨ	انزلنا	revealed	anzalnā
+11	29:51:5	w	عَلَيۡكَ	ﲩ	عليك	to you	ʿalayka
+12	29:51:6	w	ٱلۡكِتَٰبَ	ﲪ	الكتاب	the Book	l-kitāba
+12	29:51:7	w	يُتۡلَىٰ	ﲫ	يتلى	(which) is recited	yut'lā
+12	29:51:8	w	عَلَيۡهِمۡۚ	ﲬﲭ	عليهم	to them	ʿalayhim
+12	29:51:9	w	إِنَّ	ﲮ	ان	Indeed	inna
+12	29:51:10	w	فِي	ﲯ	في	in	fī
+12	29:51:11	w	ذَٰلِكَ	ﲰ	ذالك	that	dhālika
+12	29:51:12	w	لَرَحۡمَةٗ	ﲱ	لرحمة	surely is a mercy	laraḥmatan
+12	29:51:13	w	وَذِكۡرَىٰ	ﲲ	وذكرى	and a reminder	wadhik'rā
+13	29:51:14	w	لِقَوۡمٖ	ﲳ	لقوم	for a people	liqawmin
+13	29:51:15	w	يُؤۡمِنُونَ	ﲴ	يومنون	who believe	yu'minūna
+13	29:51:16	e	٥١	ﲵ			
+13	29:52:1	w	قُلۡ	ﲶ	قل	Say	qul
+13	29:52:2	w	كَفَىٰ	ﲷ	كفى	Sufficient is	kafā
+13	29:52:3	w	بِٱللَّهِ	ﲸ	بالله	Allah	bil-lahi
+13	29:52:4	w	بَيۡنِي	ﲹ	بيني	between me	baynī
+13	29:52:5	w	وَبَيۡنَكُمۡ	ﲺ	وبينكم	and between you	wabaynakum
+14	29:52:6	w	شَهِيدٗاۖ	ﲻﲼ	شهيدا	(as) a Witness	shahīdan
+14	29:52:7	w	يَعۡلَمُ	ﲽ	يعلم	He knows	yaʿlamu
+14	29:52:8	w	مَا	ﲾ	ما	what	mā
+14	29:52:9	w	فِي	ﲿ	في	(is) in	fī
+14	29:52:10	w	ٱلسَّمَٰوَٰتِ	ﳀ	السماوات	the heavens	l-samāwāti
+14	29:52:11	w	وَٱلۡأَرۡضِۗ	ﳁﳂ	والارض	and the earth	wal-arḍi
+14	29:52:12	w	وَٱلَّذِينَ	ﳃ	والذين	And those who	wa-alladhīna
+14	29:52:13	w	ءَامَنُواْ	ﳄ	امنوا	believe	āmanū
+15	29:52:14	w	بِٱلۡبَٰطِلِ	ﳅ	بالباطل	in [the] falsehood	bil-bāṭili
+15	29:52:15	w	وَكَفَرُواْ	ﳆ	وكفروا	and disbelieve	wakafarū
+15	29:52:16	w	بِٱللَّهِ	ﳇ	بالله	in Allah	bil-lahi
+15	29:52:17	w	أُوْلَٰٓئِكَ	ﳈ	اولايك	those	ulāika
+15	29:52:18	w	هُمُ	ﳉ	هم	they	humu
+15	29:52:19	w	ٱلۡخَٰسِرُونَ	ﳊ	الخاسرون	(are) the losers	l-khāsirūna
+15	29:52:20	e	٥٢	ﳋ			

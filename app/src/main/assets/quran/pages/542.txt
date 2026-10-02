@@ -1,0 +1,127 @@
+3	58:1:1	w	قَدۡ	ﱁ	قد	Indeed	qad
+3	58:1:2	w	سَمِعَ	ﱂ	سمع	Allah has heard	samiʿa
+3	58:1:3	w	ٱللَّهُ	ﱃ	الله	Allah has heard	l-lahu
+3	58:1:4	w	قَوۡلَ	ﱄ	قول	(the) speech	qawla
+3	58:1:5	w	ٱلَّتِي	ﱅ	التي	(of one) who	allatī
+3	58:1:6	w	تُجَٰدِلُكَ	ﱆ	تجادلك	disputes with you	tujādiluka
+3	58:1:7	w	فِي	ﱇ	في	concerning	fī
+3	58:1:8	w	زَوۡجِهَا	ﱈ	زوجها	her husband	zawjihā
+3	58:1:9	w	وَتَشۡتَكِيٓ	ﱉ	وتشتكي	and she directs her complaint	watashtakī
+3	58:1:10	w	إِلَى	ﱊ	الى	to	ilā
+3	58:1:11	w	ٱللَّهِ	ﱋ	الله	Allah	l-lahi
+4	58:1:12	w	وَٱللَّهُ	ﱌ	والله	And Allah	wal-lahu
+4	58:1:13	w	يَسۡمَعُ	ﱍ	يسمع	hears	yasmaʿu
+4	58:1:14	w	تَحَاوُرَكُمَآۚ	ﱎﱏ	تحاوركما	(the) dialogue of both of you	taḥāwurakumā
+4	58:1:15	w	إِنَّ	ﱐ	ان	Indeed	inna
+4	58:1:16	w	ٱللَّهَ	ﱑ	الله	Allah	l-laha
+4	58:1:17	w	سَمِيعُۢ	ﱒ	سميع	(is) All-Hearer	samīʿun
+4	58:1:18	w	بَصِيرٌ	ﱓ	بصير	All-Seer	baṣīrun
+4	58:1:19	e	١	ﱔ			
+4	58:2:1	w	ٱلَّذِينَ	ﱕ	الذين	Those who	alladhīna
+4	58:2:2	w	يُظَٰهِرُونَ	ﱖ	يظاهرون	pronounce zihar	yuẓāhirūna
+5	58:2:3	w	مِنكُم	ﱗ	منكم	among you	minkum
+5	58:2:4	w	مِّن	ﱘ	من	[from]	min
+5	58:2:5	w	نِّسَآئِهِم	ﱙ	نسايهم	(to) their wives	nisāihim
+5	58:2:6	w	مَّا	ﱚ	ما	not	mā
+5	58:2:7	w	هُنَّ	ﱛ	هن	they	hunna
+5	58:2:8	w	أُمَّهَٰتِهِمۡۖ	ﱜﱝ	امهاتهم	(are) their mothers	ummahātihim
+5	58:2:9	w	إِنۡ	ﱞ	ان	Not	in
+5	58:2:10	w	أُمَّهَٰتُهُمۡ	ﱟ	امهاتهم	(are) their mothers	ummahātuhum
+5	58:2:11	w	إِلَّا	ﱠ	الا	except	illā
+5	58:2:12	w	ٱلَّٰٓـِٔي	ﱡ	اللايي	those who	allāī
+6	58:2:13	w	وَلَدۡنَهُمۡۚ	ﱢﱣ	ولدنهم	gave them birth	waladnahum
+6	58:2:14	w	وَإِنَّهُمۡ	ﱤ	وانهم	And indeed, they	wa-innahum
+6	58:2:15	w	لَيَقُولُونَ	ﱥ	ليقولون	surely say	layaqūlūna
+6	58:2:16	w	مُنكَرٗا	ﱦ	منكرا	an evil	munkaran
+6	58:2:17	w	مِّنَ	ﱧ	من	[of]	mina
+6	58:2:18	w	ٱلۡقَوۡلِ	ﱨ	القول	[the] word	l-qawli
+6	58:2:19	w	وَزُورٗاۚ	ﱩﱪ	وزورا	and a lie	wazūran
+6	58:2:20	w	وَإِنَّ	ﱫ	وان	But indeed	wa-inna
+7	58:2:21	w	ٱللَّهَ	ﱬ	الله	Allah	l-laha
+7	58:2:22	w	لَعَفُوٌّ	ﱭ	لعفو	(is) surely, Oft-Pardoning	laʿafuwwun
+7	58:2:23	w	غَفُورٞ	ﱮ	غفور	Oft-Forgiving	ghafūrun
+7	58:2:24	e	٢	ﱯ			
+7	58:3:1	w	وَٱلَّذِينَ	ﱰ	والذين	And those who	wa-alladhīna
+7	58:3:2	w	يُظَٰهِرُونَ	ﱱ	يظاهرون	pronounce zihar	yuẓāhirūna
+7	58:3:3	w	مِن	ﱲ	من	[from]	min
+7	58:3:4	w	نِّسَآئِهِمۡ	ﱳ	نسايهم	(to) their wives	nisāihim
+7	58:3:5	w	ثُمَّ	ﱴ	ثم	then	thumma
+7	58:3:6	w	يَعُودُونَ	ﱵ	يعودون	go back	yaʿūdūna
+8	58:3:7	w	لِمَا	ﱶ	لما	on what	limā
+8	58:3:8	w	قَالُواْ	ﱷ	قالوا	they said	qālū
+8	58:3:9	w	فَتَحۡرِيرُ	ﱸ	فتحرير	then freeing	fataḥrīru
+8	58:3:10	w	رَقَبَةٖ	ﱹ	رقبة	(of) a slave	raqabatin
+8	58:3:11	w	مِّن	ﱺ	من	before	min
+8	58:3:12	w	قَبۡلِ	ﱻ	قبل	before	qabli
+8	58:3:13	w	أَن	ﱼ	ان	[that]	an
+8	58:3:14	w	يَتَمَآسَّاۚ	ﱽﱾ	يتماسا	they touch each other	yatamāssā
+8	58:3:15	w	ذَٰلِكُمۡ	ﱿ	ذالكم	That	dhālikum
+8	58:3:16	w	تُوعَظُونَ	ﲀ	توعظون	you are admonished	tūʿaẓūna
+9	58:3:17	w	بِهِۦۚ	ﲁﲂ	به	to it	bihi
+9	58:3:18	w	وَٱللَّهُ	ﲃ	والله	And Allah	wal-lahu
+9	58:3:19	w	بِمَا	ﲄ	بما	of what	bimā
+9	58:3:20	w	تَعۡمَلُونَ	ﲅ	تعملون	you do	taʿmalūna
+9	58:3:21	w	خَبِيرٞ	ﲆ	خبير	(is) All-Aware	khabīrun
+9	58:3:22	e	٣	ﲇ			
+9	58:4:1	w	فَمَن	ﲈ	فمن	Then whoever	faman
+9	58:4:2	w	لَّمۡ	ﲉ	لم	(does) not	lam
+9	58:4:3	w	يَجِدۡ	ﲊ	يجد	find	yajid
+9	58:4:4	w	فَصِيَامُ	ﲋ	فصيام	then fasting	faṣiyāmu
+9	58:4:5	w	شَهۡرَيۡنِ	ﲌ	شهرين	(for) two months	shahrayni
+10	58:4:6	w	مُتَتَابِعَيۡنِ	ﲍ	متتابعين	consecutively	mutatābiʿayni
+10	58:4:7	w	مِن	ﲎ	من	before	min
+10	58:4:8	w	قَبۡلِ	ﲏ	قبل	before	qabli
+10	58:4:9	w	أَن	ﲐ	ان	[that]	an
+10	58:4:10	w	يَتَمَآسَّاۖ	ﲑﲒ	يتماسا	they both touch each other	yatamāssā
+10	58:4:11	w	فَمَن	ﲓ	فمن	But (he) who	faman
+10	58:4:12	w	لَّمۡ	ﲔ	لم	not	lam
+10	58:4:13	w	يَسۡتَطِعۡ	ﲕ	يستطع	is able	yastaṭiʿ
+10	58:4:14	w	فَإِطۡعَامُ	ﲖ	فاطعام	then (the) feeding	fa-iṭ'ʿāmu
+10	58:4:15	w	سِتِّينَ	ﲗ	ستين	(of) sixty	sittīna
+11	58:4:16	w	مِسۡكِينٗاۚ	ﲘﲙ	مسكينا	needy one(s)	mis'kīnan
+11	58:4:17	w	ذَٰلِكَ	ﲚ	ذالك	That	dhālika
+11	58:4:18	w	لِتُؤۡمِنُواْ	ﲛ	لتومنوا	so that you may believe	litu'minū
+11	58:4:19	w	بِٱللَّهِ	ﲜ	بالله	in Allah	bil-lahi
+11	58:4:20	w	وَرَسُولِهِۦۚ	ﲝﲞ	ورسوله	and His Messenger	warasūlihi
+11	58:4:21	w	وَتِلۡكَ	ﲟ	وتلك	and these	watil'ka
+11	58:4:22	w	حُدُودُ	ﲠ	حدود	(are the) limits	ḥudūdu
+11	58:4:23	w	ٱللَّهِۗ	ﲡﲢ	الله	(of) Allah	l-lahi
+12	58:4:24	w	وَلِلۡكَٰفِرِينَ	ﲣ	وللكافرين	and for the disbelievers	walil'kāfirīna
+12	58:4:25	w	عَذَابٌ	ﲤ	عذاب	(is) a punishment	ʿadhābun
+12	58:4:26	w	أَلِيمٌ	ﲥ	اليم	painful	alīmun
+12	58:4:27	e	٤	ﲦ			
+12	58:5:1	w	إِنَّ	ﲧ	ان	Indeed	inna
+12	58:5:2	w	ٱلَّذِينَ	ﲨ	الذين	those who	alladhīna
+12	58:5:3	w	يُحَآدُّونَ	ﲩ	يحادون	oppose	yuḥāddūna
+12	58:5:4	w	ٱللَّهَ	ﲪ	الله	Allah	l-laha
+12	58:5:5	w	وَرَسُولَهُۥ	ﲫ	ورسوله	and His Messenger	warasūlahu
+13	58:5:6	w	كُبِتُواْ	ﲬ	كبتوا	(will) be disgraced	kubitū
+13	58:5:7	w	كَمَا	ﲭ	كما	as	kamā
+13	58:5:8	w	كُبِتَ	ﲮ	كبت	were disgraced	kubita
+13	58:5:9	w	ٱلَّذِينَ	ﲯ	الذين	those	alladhīna
+13	58:5:10	w	مِن	ﲰ	من	before them	min
+13	58:5:11	w	قَبۡلِهِمۡۚ	ﲱﲲ	قبلهم	before them	qablihim
+13	58:5:12	w	وَقَدۡ	ﲳ	وقد	And certainly	waqad
+13	58:5:13	w	أَنزَلۡنَآ	ﲴ	انزلنا	We have sent down	anzalnā
+13	58:5:14	w	ءَايَٰتِۭ	ﲵ	ايات	Verses	āyātin
+13	58:5:15	w	بَيِّنَٰتٖۚ	ﲶﲷ	بينات	clear	bayyinātin
+14	58:5:16	w	وَلِلۡكَٰفِرِينَ	ﲸ	وللكافرين	And for the disbelievers	walil'kāfirīna
+14	58:5:17	w	عَذَابٞ	ﲹ	عذاب	(is) a punishment	ʿadhābun
+14	58:5:18	w	مُّهِينٞ	ﲺ	مهين	humiliating	muhīnun
+14	58:5:19	e	٥	ﲻ			
+14	58:6:1	w	يَوۡمَ	ﲼ	يوم	(On the) Day	yawma
+14	58:6:2	w	يَبۡعَثُهُمُ	ﲽ	يبعثهم	(when) Allah will raise them	yabʿathuhumu
+14	58:6:3	w	ٱللَّهُ	ﲾ	الله	(when) Allah will raise them	l-lahu
+14	58:6:4	w	جَمِيعٗا	ﲿ	جميعا	all	jamīʿan
+14	58:6:5	w	فَيُنَبِّئُهُم	ﳀ	فينبيهم	and inform them	fayunabbi-uhum
+15	58:6:6	w	بِمَا	ﳁ	بما	of what	bimā
+15	58:6:7	w	عَمِلُوٓاْۚ	ﳂﳃ	عملوا	they did	ʿamilū
+15	58:6:8	w	أَحۡصَىٰهُ	ﳄ	احصاه	Allah has recorded it	aḥṣāhu
+15	58:6:9	w	ٱللَّهُ	ﳅ	الله	Allah has recorded it	l-lahu
+15	58:6:10	w	وَنَسُوهُۚ	ﳆﳇ	ونسوه	while they forgot it	wanasūhu
+15	58:6:11	w	وَٱللَّهُ	ﳈ	والله	And Allah	wal-lahu
+15	58:6:12	w	عَلَىٰ	ﳉ	على	(is) over	ʿalā
+15	58:6:13	w	كُلِّ	ﳊ	كل	all	kulli
+15	58:6:14	w	شَيۡءٖ	ﳋ	شيء	things	shayin
+15	58:6:15	w	شَهِيدٌ	ﳌ	شهيد	a Witness	shahīdun
+15	58:6:16	e	٦	ﳍ			

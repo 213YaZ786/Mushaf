@@ -1,0 +1,138 @@
+1	17:105:1	w	وَبِٱلۡحَقِّ	ﱁ	وبالحق	And with the truth	wabil-ḥaqi
+1	17:105:2	w	أَنزَلۡنَٰهُ	ﱂ	انزلناه	We sent it down	anzalnāhu
+1	17:105:3	w	وَبِٱلۡحَقِّ	ﱃ	وبالحق	and with the truth	wabil-ḥaqi
+1	17:105:4	w	نَزَلَۗ	ﱄﱅ	نزل	it descended	nazala
+1	17:105:5	w	وَمَآ	ﱆ	وما	And not	wamā
+1	17:105:6	w	أَرۡسَلۡنَٰكَ	ﱇ	ارسلناك	We sent you	arsalnāka
+1	17:105:7	w	إِلَّا	ﱈ	الا	except	illā
+1	17:105:8	w	مُبَشِّرٗا	ﱉ	مبشرا	(as) a bearer of glad tidings	mubashiran
+1	17:105:9	w	وَنَذِيرٗا	ﱊ	ونذيرا	and a warner	wanadhīran
+1	17:105:10	e	١٠٥	ﱋ			
+2	17:106:1	w	وَقُرۡءَانٗا	ﱌ	وقرانا	And the Quran	waqur'ānan
+2	17:106:2	w	فَرَقۡنَٰهُ	ﱍ	فرقناه	We have divided	faraqnāhu
+2	17:106:3	w	لِتَقۡرَأَهُۥ	ﱎ	لتقراه	that you might recite it	litaqra-ahu
+2	17:106:4	w	عَلَى	ﱏ	على	to	ʿalā
+2	17:106:5	w	ٱلنَّاسِ	ﱐ	الناس	the people	l-nāsi
+2	17:106:6	w	عَلَىٰ	ﱑ	على	at	ʿalā
+2	17:106:7	w	مُكۡثٖ	ﱒ	مكث	intervals	muk'thin
+2	17:106:8	w	وَنَزَّلۡنَٰهُ	ﱓ	ونزلناه	And We have revealed it	wanazzalnāhu
+2	17:106:9	w	تَنزِيلٗا	ﱔ	تنزيلا	(in) stages	tanzīlan
+2	17:106:10	e	١٠٦	ﱕ			
+3	17:107:1	w	قُلۡ	ﱖ	قل	Say	qul
+3	17:107:2	w	ءَامِنُواْ	ﱗ	امنوا	Believe	āminū
+3	17:107:3	w	بِهِۦٓ	ﱘ	به	in it	bihi
+3	17:107:4	w	أَوۡ	ﱙ	او	or	aw
+3	17:107:5	w	لَا	ﱚ	لا	(do) not	lā
+3	17:107:6	w	تُؤۡمِنُوٓاْۚ	ﱛﱜ	تومنوا	believe	tu'minū
+3	17:107:7	w	إِنَّ	ﱝ	ان	Indeed	inna
+3	17:107:8	w	ٱلَّذِينَ	ﱞ	الذين	those who	alladhīna
+3	17:107:9	w	أُوتُواْ	ﱟ	اوتوا	were given	ūtū
+3	17:107:10	w	ٱلۡعِلۡمَ	ﱠ	العلم	the knowledge	l-ʿil'ma
+3	17:107:11	w	مِن	ﱡ	من	before it	min
+3	17:107:12	w	قَبۡلِهِۦٓ	ﱢ	قبله	before it	qablihi
+3	17:107:13	w	إِذَا	ﱣ	اذا	when	idhā
+3	17:107:14	w	يُتۡلَىٰ	ﱤ	يتلى	it is recited	yut'lā
+4	17:107:15	w	عَلَيۡهِمۡ	ﱥ	عليهم	to them	ʿalayhim
+4	17:107:16	w	يَخِرُّونَۤ	ﱦﱧ	يخرون	they fall	yakhirrūna
+4	17:107:17	w	لِلۡأَذۡقَانِۤ	ﱨﱩ	للاذقان	on their faces	lil'adhqāni
+4	17:107:18	w	سُجَّدٗاۤ	ﱪﱫ	سجدا	(in) prostration	sujjadan
+4	17:107:19	e	١٠٧	ﱬ			
+4	17:108:1	w	وَيَقُولُونَ	ﱭ	ويقولون	And they say	wayaqūlūna
+4	17:108:2	w	سُبۡحَٰنَ	ﱮ	سبحان	Glory be to	sub'ḥāna
+4	17:108:3	w	رَبِّنَآ	ﱯ	ربنا	our Lord	rabbinā
+4	17:108:4	w	إِن	ﱰ	ان	Indeed	in
+4	17:108:5	w	كَانَ	ﱱ	كان	is	kāna
+5	17:108:6	w	وَعۡدُ	ﱲ	وعد	(the) promise	waʿdu
+5	17:108:7	w	رَبِّنَا	ﱳ	ربنا	(of) our Lord	rabbinā
+5	17:108:8	w	لَمَفۡعُولٗا	ﱴ	لمفعولا	surely fulfilled	lamafʿūlan
+5	17:108:9	e	١٠٨	ﱵ			
+5	17:109:1	w	وَيَخِرُّونَ	ﱶ	ويخرون	And they fall	wayakhirrūna
+5	17:109:2	w	لِلۡأَذۡقَانِ	ﱷ	للاذقان	on their faces	lil'adhqāni
+5	17:109:3	w	يَبۡكُونَ	ﱸ	يبكون	weeping	yabkūna
+5	17:109:4	w	وَيَزِيدُهُمۡ	ﱹ	ويزيدهم	and it increases them	wayazīduhum
+6	17:109:5	w	خُشُوعٗا ۩	ﱺﱻ	خشوعا ۩	(in) humility	khushūʿan
+6	17:109:6	e	١٠٩	ﱼ			
+6	17:110:1	w	قُلِ	ﱽ	قل	Say	quli
+6	17:110:2	w	ٱدۡعُواْ	ﱾ	ادعوا	Invoke	id'ʿū
+6	17:110:3	w	ٱللَّهَ	ﱿ	الله	Allah	l-laha
+6	17:110:4	w	أَوِ	ﲀ	او	or	awi
+6	17:110:5	w	ٱدۡعُواْ	ﲁ	ادعوا	invoke	id'ʿū
+6	17:110:6	w	ٱلرَّحۡمَٰنَۖ	ﲂﲃ	الرحمان	the Most Gracious	l-raḥmāna
+6	17:110:7	w	أَيّٗا	ﲄ	ايا	By whatever (name)	ayyan
+6	17:110:8	w	مَّا	ﲅ	ما	By whatever (name)	mā
+6	17:110:9	w	تَدۡعُواْ	ﲆ	تدعوا	you invoke	tadʿū
+6	17:110:10	w	فَلَهُ	ﲇ	فله	to Him (belongs)	falahu
+7	17:110:11	w	ٱلۡأَسۡمَآءُ	ﲈ	الاسماء	the Most Beautiful Names	l-asmāu
+7	17:110:12	w	ٱلۡحُسۡنَىٰۚ	ﲉﲊ	الحسنى	the Most Beautiful Names	l-ḥus'nā
+7	17:110:13	w	وَلَا	ﲋ	ولا	And (do) not	walā
+7	17:110:14	w	تَجۡهَرۡ	ﲌ	تجهر	be loud	tajhar
+7	17:110:15	w	بِصَلَاتِكَ	ﲍ	بصلاتك	in your prayers	biṣalātika
+7	17:110:16	w	وَلَا	ﲎ	ولا	and not	walā
+7	17:110:17	w	تُخَافِتۡ	ﲏ	تخافت	be silent	tukhāfit
+7	17:110:18	w	بِهَا	ﲐ	بها	therein	bihā
+7	17:110:19	w	وَٱبۡتَغِ	ﲑ	وابتغ	but seek	wa-ib'taghi
+8	17:110:20	w	بَيۡنَ	ﲒ	بين	between	bayna
+8	17:110:21	w	ذَٰلِكَ	ﲓ	ذالك	that	dhālika
+8	17:110:22	w	سَبِيلٗا	ﲔ	سبيلا	a way	sabīlan
+8	17:110:23	e	١١٠	ﲕ			
+8	17:111:1	w	وَقُلِ	ﲖ	وقل	And say	waquli
+8	17:111:2	w	ٱلۡحَمۡدُ	ﲗ	الحمد	All Praise	l-ḥamdu
+8	17:111:3	w	لِلَّهِ	ﲘ	لله	(is) for Allah	lillahi
+8	17:111:4	w	ٱلَّذِي	ﲙ	الذي	the One Who	alladhī
+8	17:111:5	w	لَمۡ	ﲚ	لم	has not taken	lam
+8	17:111:6	w	يَتَّخِذۡ	ﲛ	يتخذ	has not taken	yattakhidh
+8	17:111:7	w	وَلَدٗا	ﲜ	ولدا	a son	waladan
+8	17:111:8	w	وَلَمۡ	ﲝ	ولم	and not	walam
+8	17:111:9	w	يَكُن	ﲞ	يكن	is	yakun
+9	17:111:10	w	لَّهُۥ	ﲟ	له	for Him	lahu
+9	17:111:11	w	شَرِيكٞ	ﲠ	شريك	a partner	sharīkun
+9	17:111:12	w	فِي	ﲡ	في	in	fī
+9	17:111:13	w	ٱلۡمُلۡكِ	ﲢ	الملك	the dominion	l-mul'ki
+9	17:111:14	w	وَلَمۡ	ﲣ	ولم	and not	walam
+9	17:111:15	w	يَكُن	ﲤ	يكن	is	yakun
+9	17:111:16	w	لَّهُۥ	ﲥ	له	for Him	lahu
+9	17:111:17	w	وَلِيّٞ	ﲦ	ولي	any protector	waliyyun
+9	17:111:18	w	مِّنَ	ﲧ	من	out of	mina
+9	17:111:19	w	ٱلذُّلِّۖ	ﲨﲩ	الذل	weakness	l-dhuli
+9	17:111:20	w	وَكَبِّرۡهُ	ﲪ	وكبره	And magnify Him	wakabbir'hu
+9	17:111:21	w	تَكۡبِيرَۢا	ﲫ	تكبيرا	(with all) magnificence	takbīran
+9	17:111:22	e	١١١	ﲬ			
+12	18:1:1	w	ٱلۡحَمۡدُ	ﲭ	الحمد	All Praise	al-ḥamdu
+12	18:1:2	w	لِلَّهِ	ﲮ	لله	(is) for Allah	lillahi
+12	18:1:3	w	ٱلَّذِيٓ	ﲯ	الذي	the One Who	alladhī
+12	18:1:4	w	أَنزَلَ	ﲰ	انزل	(has) revealed	anzala
+12	18:1:5	w	عَلَىٰ	ﲱ	على	to	ʿalā
+12	18:1:6	w	عَبۡدِهِ	ﲲ	عبده	His slave	ʿabdihi
+12	18:1:7	w	ٱلۡكِتَٰبَ	ﲳ	الكتاب	the Book	l-kitāba
+12	18:1:8	w	وَلَمۡ	ﲴ	ولم	and not	walam
+12	18:1:9	w	يَجۡعَل	ﲵ	يجعل	(has) made	yajʿal
+12	18:1:10	w	لَّهُۥ	ﲶ	له	in it	lahu
+12	18:1:11	w	عِوَجَاۜ	ﲷﲸ	عوجا	any crookedness	ʿiwajā
+13	18:1:12	e	١	ﲹ			
+13	18:2:1	w	قَيِّمٗا	ﲺ	قيما	Straight	qayyiman
+13	18:2:2	w	لِّيُنذِرَ	ﲻ	لينذر	to warn	liyundhira
+13	18:2:3	w	بَأۡسٗا	ﲼ	باسا	(of) a punishment	basan
+13	18:2:4	w	شَدِيدٗا	ﲽ	شديدا	severe	shadīdan
+13	18:2:5	w	مِّن	ﲾ	من	from	min
+13	18:2:6	w	لَّدُنۡهُ	ﲿ	لدنه	near Him	ladun'hu
+13	18:2:7	w	وَيُبَشِّرَ	ﳀ	ويبشر	and give glad tidings	wayubashira
+13	18:2:8	w	ٱلۡمُؤۡمِنِينَ	ﳁ	المومنين	(to) the believers	l-mu'minīna
+14	18:2:9	w	ٱلَّذِينَ	ﳂ	الذين	those who	alladhīna
+14	18:2:10	w	يَعۡمَلُونَ	ﳃ	يعملون	do	yaʿmalūna
+14	18:2:11	w	ٱلصَّٰلِحَٰتِ	ﳄ	الصالحات	righteous deeds	l-ṣāliḥāti
+14	18:2:12	w	أَنَّ	ﳅ	ان	that	anna
+14	18:2:13	w	لَهُمۡ	ﳆ	لهم	for them	lahum
+14	18:2:14	w	أَجۡرًا	ﳇ	اجرا	(is) a good reward	ajran
+14	18:2:15	w	حَسَنٗا	ﳈ	حسنا	(is) a good reward	ḥasanan
+14	18:2:16	e	٢	ﳉ			
+15	18:3:1	w	مَّٰكِثِينَ	ﳊ	ماكثين	(They will) abide	mākithīna
+15	18:3:2	w	فِيهِ	ﳋ	فيه	in it	fīhi
+15	18:3:3	w	أَبَدٗا	ﳌ	ابدا	forever	abadan
+15	18:3:4	e	٣	ﳍ			
+15	18:4:1	w	وَيُنذِرَ	ﳎ	وينذر	And to warn	wayundhira
+15	18:4:2	w	ٱلَّذِينَ	ﳏ	الذين	those who	alladhīna
+15	18:4:3	w	قَالُواْ	ﳐ	قالوا	say	qālū
+15	18:4:4	w	ٱتَّخَذَ	ﳑ	اتخذ	Allah has taken	ittakhadha
+15	18:4:5	w	ٱللَّهُ	ﳒ	الله	Allah has taken	l-lahu
+15	18:4:6	w	وَلَدٗا	ﳓ	ولدا	a son	waladan
+15	18:4:7	e	٤	ﳔ			

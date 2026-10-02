@@ -1,0 +1,131 @@
+2	10:1:1	w	الٓرۚ	ﱁﱂ	الر	Alif Lam Ra	alif-lam-ra
+2	10:1:2	w	تِلۡكَ	ﱃ	تلك	These	til'ka
+2	10:1:3	w	ءَايَٰتُ	ﱄ	ايات	(are the) verses	āyātu
+2	10:1:4	w	ٱلۡكِتَٰبِ	ﱅ	الكتاب	(of) the Book	l-kitābi
+2	10:1:5	w	ٱلۡحَكِيمِ	ﱆ	الحكيم	the wise	l-ḥakīmi
+2	10:1:6	e	١	ﱇ			
+2	10:2:1	w	أَكَانَ	ﱈ	اكان	Is it	akāna
+2	10:2:2	w	لِلنَّاسِ	ﱉ	للناس	for the mankind	lilnnāsi
+2	10:2:3	w	عَجَبًا	ﱊ	عجبا	a wonder	ʿajaban
+3	10:2:4	w	أَنۡ	ﱋ	ان	that	an
+3	10:2:5	w	أَوۡحَيۡنَآ	ﱌ	اوحينا	We revealed	awḥaynā
+3	10:2:6	w	إِلَىٰ	ﱍ	الى	to	ilā
+3	10:2:7	w	رَجُلٖ	ﱎ	رجل	a man	rajulin
+3	10:2:8	w	مِّنۡهُمۡ	ﱏ	منهم	from (among) them	min'hum
+3	10:2:9	w	أَنۡ	ﱐ	ان	that	an
+3	10:2:10	w	أَنذِرِ	ﱑ	انذر	Warn	andhiri
+3	10:2:11	w	ٱلنَّاسَ	ﱒ	الناس	the mankind	l-nāsa
+3	10:2:12	w	وَبَشِّرِ	ﱓ	وبشر	and give glad tidings	wabashiri
+3	10:2:13	w	ٱلَّذِينَ	ﱔ	الذين	(to) those who	alladhīna
+4	10:2:14	w	ءَامَنُوٓاْ	ﱕ	امنوا	believe	āmanū
+4	10:2:15	w	أَنَّ	ﱖ	ان	that	anna
+4	10:2:16	w	لَهُمۡ	ﱗ	لهم	for them	lahum
+4	10:2:17	w	قَدَمَ	ﱘ	قدم	(will be) a respectable position	qadama
+4	10:2:18	w	صِدۡقٍ	ﱙ	صدق	(will be) a respectable position	ṣid'qin
+4	10:2:19	w	عِندَ	ﱚ	عند	near	ʿinda
+4	10:2:20	w	رَبِّهِمۡۗ	ﱛﱜ	ربهم	their Lord	rabbihim
+4	10:2:21	w	قَالَ	ﱝ	قال	Said	qāla
+4	10:2:22	w	ٱلۡكَٰفِرُونَ	ﱞ	الكافرون	the disbelievers	l-kāfirūna
+5	10:2:23	w	إِنَّ	ﱟ	ان	Indeed	inna
+5	10:2:24	w	هَٰذَا	ﱠ	هاذا	this	hādhā
+5	10:2:25	w	لَسَٰحِرٞ	ﱡ	لساحر	(is) surely a magician	lasāḥirun
+5	10:2:26	w	مُّبِينٌ	ﱢ	مبين	obvious	mubīnun
+5	10:2:27	e	٢	ﱣ			
+5	10:3:1	w	إِنَّ	ﱤ	ان	Indeed	inna
+5	10:3:2	w	رَبَّكُمُ	ﱥ	ربكم	your Lord	rabbakumu
+5	10:3:3	w	ٱللَّهُ	ﱦ	الله	(is) Allah	l-lahu
+5	10:3:4	w	ٱلَّذِي	ﱧ	الذي	the One Who	alladhī
+5	10:3:5	w	خَلَقَ	ﱨ	خلق	created	khalaqa
+5	10:3:6	w	ٱلسَّمَٰوَٰتِ	ﱩ	السماوات	the heavens	l-samāwāti
+6	10:3:7	w	وَٱلۡأَرۡضَ	ﱪ	والارض	and the earth	wal-arḍa
+6	10:3:8	w	فِي	ﱫ	في	in	fī
+6	10:3:9	w	سِتَّةِ	ﱬ	ستة	six	sittati
+6	10:3:10	w	أَيَّامٖ	ﱭ	ايام	periods	ayyāmin
+6	10:3:11	w	ثُمَّ	ﱮ	ثم	then	thumma
+6	10:3:12	w	ٱسۡتَوَىٰ	ﱯ	استوى	He established	is'tawā
+6	10:3:13	w	عَلَى	ﱰ	على	on	ʿalā
+6	10:3:14	w	ٱلۡعَرۡشِۖ	ﱱﱲ	العرش	the Throne	l-ʿarshi
+6	10:3:15	w	يُدَبِّرُ	ﱳ	يدبر	disposing	yudabbiru
+6	10:3:16	w	ٱلۡأَمۡرَۖ	ﱴﱵ	الامر	the affairs	l-amra
+7	10:3:17	w	مَا	ﱶ	ما	Not	mā
+7	10:3:18	w	مِن	ﱷ	من	(is) any intercessor	min
+7	10:3:19	w	شَفِيعٍ	ﱸ	شفيع	(is) any intercessor	shafīʿin
+7	10:3:20	w	إِلَّا	ﱹ	الا	except	illā
+7	10:3:21	w	مِنۢ	ﱺ	من	after	min
+7	10:3:22	w	بَعۡدِ	ﱻ	بعد	after	baʿdi
+7	10:3:23	w	إِذۡنِهِۦۚ	ﱼﱽ	اذنه	His permission	idh'nihi
+7	10:3:24	w	ذَٰلِكُمُ	ﱾ	ذالكم	That	dhālikumu
+7	10:3:25	w	ٱللَّهُ	ﱿ	الله	(is) Allah	l-lahu
+7	10:3:26	w	رَبُّكُمۡ	ﲀ	ربكم	your Lord	rabbukum
+7	10:3:27	w	فَٱعۡبُدُوهُۚ	ﲁﲂ	فاعبدوه	so worship Him	fa-uʿ'budūhu
+8	10:3:28	w	أَفَلَا	ﲃ	افلا	Then will not	afalā
+8	10:3:29	w	تَذَكَّرُونَ	ﲄ	تذكرون	you remember	tadhakkarūna
+8	10:3:30	e	٣	ﲅ			
+8	10:4:1	w	إِلَيۡهِ	ﲆ	اليه	To Him	ilayhi
+8	10:4:2	w	مَرۡجِعُكُمۡ	ﲇ	مرجعكم	(will be) your return	marjiʿukum
+8	10:4:3	w	جَمِيعٗاۖ	ﲈﲉ	جميعا	[all]	jamīʿan
+8	10:4:4	w	وَعۡدَ	ﲊ	وعد	Promise	waʿda
+8	10:4:5	w	ٱللَّهِ	ﲋ	الله	(of) Allah	l-lahi
+8	10:4:6	w	حَقًّاۚ	ﲌﲍ	حقا	(is) true	ḥaqqan
+8	10:4:7	w	إِنَّهُۥ	ﲎ	انه	Indeed, He	innahu
+9	10:4:8	w	يَبۡدَؤُاْ	ﲏ	يبدا	originates	yabda-u
+9	10:4:9	w	ٱلۡخَلۡقَ	ﲐ	الخلق	the creation	l-khalqa
+9	10:4:10	w	ثُمَّ	ﲑ	ثم	then	thumma
+9	10:4:11	w	يُعِيدُهُۥ	ﲒ	يعيده	He repeats it	yuʿīduhu
+9	10:4:12	w	لِيَجۡزِيَ	ﲓ	ليجزي	that He may reward	liyajziya
+9	10:4:13	w	ٱلَّذِينَ	ﲔ	الذين	those who	alladhīna
+9	10:4:14	w	ءَامَنُواْ	ﲕ	امنوا	believed	āmanū
+9	10:4:15	w	وَعَمِلُواْ	ﲖ	وعملوا	and did	waʿamilū
+10	10:4:16	w	ٱلصَّٰلِحَٰتِ	ﲗ	الصالحات	the good deeds	l-ṣāliḥāti
+10	10:4:17	w	بِٱلۡقِسۡطِۚ	ﲘﲙ	بالقسط	in justice	bil-qis'ṭi
+10	10:4:18	w	وَٱلَّذِينَ	ﲚ	والذين	But those who	wa-alladhīna
+10	10:4:19	w	كَفَرُواْ	ﲛ	كفروا	disbelieved	kafarū
+10	10:4:20	w	لَهُمۡ	ﲜ	لهم	for them	lahum
+10	10:4:21	w	شَرَابٞ	ﲝ	شراب	(will be) a drink	sharābun
+10	10:4:22	w	مِّنۡ	ﲞ	من	of	min
+10	10:4:23	w	حَمِيمٖ	ﲟ	حميم	boiling fluids	ḥamīmin
+11	10:4:24	w	وَعَذَابٌ	ﲠ	وعذاب	and a punishment	waʿadhābun
+11	10:4:25	w	أَلِيمُۢ	ﲡ	اليم	painful	alīmun
+11	10:4:26	w	بِمَا	ﲢ	بما	because	bimā
+11	10:4:27	w	كَانُواْ	ﲣ	كانوا	they used (to)	kānū
+11	10:4:28	w	يَكۡفُرُونَ	ﲤ	يكفرون	disbelieve	yakfurūna
+11	10:4:29	e	٤	ﲥ			
+11	10:5:1	w	هُوَ	ﲦ	هو	He	huwa
+11	10:5:2	w	ٱلَّذِي	ﲧ	الذي	(is) the One Who	alladhī
+11	10:5:3	w	جَعَلَ	ﲨ	جعل	made	jaʿala
+11	10:5:4	w	ٱلشَّمۡسَ	ﲩ	الشمس	the sun	l-shamsa
+12	10:5:5	w	ضِيَآءٗ	ﲪ	ضياء	a shining light	ḍiyāan
+12	10:5:6	w	وَٱلۡقَمَرَ	ﲫ	والقمر	and the moon	wal-qamara
+12	10:5:7	w	نُورٗا	ﲬ	نورا	a reflected light	nūran
+12	10:5:8	w	وَقَدَّرَهُۥ	ﲭ	وقدره	and determined for it	waqaddarahu
+12	10:5:9	w	مَنَازِلَ	ﲮ	منازل	phases	manāzila
+12	10:5:10	w	لِتَعۡلَمُواْ	ﲯ	لتعلموا	that you may know	litaʿlamū
+12	10:5:11	w	عَدَدَ	ﲰ	عدد	(the) number	ʿadada
+12	10:5:12	w	ٱلسِّنِينَ	ﲱ	السنين	(of) the years	l-sinīna
+13	10:5:13	w	وَٱلۡحِسَابَۚ	ﲲﲳ	والحساب	and the count (of time)	wal-ḥisāba
+13	10:5:14	w	مَا	ﲴ	ما	Not	mā
+13	10:5:15	w	خَلَقَ	ﲵ	خلق	created	khalaqa
+13	10:5:16	w	ٱللَّهُ	ﲶ	الله	Allah	l-lahu
+13	10:5:17	w	ذَٰلِكَ	ﲷ	ذالك	that	dhālika
+13	10:5:18	w	إِلَّا	ﲸ	الا	except	illā
+13	10:5:19	w	بِٱلۡحَقِّۚ	ﲹﲺ	بالحق	in truth	bil-ḥaqi
+13	10:5:20	w	يُفَصِّلُ	ﲻ	يفصل	He explains	yufaṣṣilu
+13	10:5:21	w	ٱلۡأٓيَٰتِ	ﲼ	الايات	the Signs	l-āyāti
+14	10:5:22	w	لِقَوۡمٖ	ﲽ	لقوم	for a people	liqawmin
+14	10:5:23	w	يَعۡلَمُونَ	ﲾ	يعلمون	(who) know	yaʿlamūna
+14	10:5:24	e	٥	ﲿ			
+14	10:6:1	w	إِنَّ	ﳀ	ان	Indeed	inna
+14	10:6:2	w	فِي	ﳁ	في	in	fī
+14	10:6:3	w	ٱخۡتِلَٰفِ	ﳂ	اختلاف	(the) alternation	ikh'tilāfi
+14	10:6:4	w	ٱلَّيۡلِ	ﳃ	الليل	(of) the night	al-layli
+14	10:6:5	w	وَٱلنَّهَارِ	ﳄ	والنهار	and the day	wal-nahāri
+14	10:6:6	w	وَمَا	ﳅ	وما	and what	wamā
+14	10:6:7	w	خَلَقَ	ﳆ	خلق	(has been) created	khalaqa
+15	10:6:8	w	ٱللَّهُ	ﳇ	الله	(by) Allah	l-lahu
+15	10:6:9	w	فِي	ﳈ	في	in	fī
+15	10:6:10	w	ٱلسَّمَٰوَٰتِ	ﳉ	السماوات	the heavens	l-samāwāti
+15	10:6:11	w	وَٱلۡأَرۡضِ	ﳊ	والارض	and the earth	wal-arḍi
+15	10:6:12	w	لَأٓيَٰتٖ	ﳋ	لايات	(are) Signs	laāyātin
+15	10:6:13	w	لِّقَوۡمٖ	ﳌ	لقوم	for a people	liqawmin
+15	10:6:14	w	يَتَّقُونَ	ﳍ	يتقون	who are God conscious	yattaqūna
+15	10:6:15	e	٦	ﳎ			

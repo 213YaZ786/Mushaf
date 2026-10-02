@@ -1,0 +1,146 @@
+1	16:55:1	w	لِيَكۡفُرُواْ	ﱁ	ليكفروا	So as to deny	liyakfurū
+1	16:55:2	w	بِمَآ	ﱂ	بما	that which	bimā
+1	16:55:3	w	ءَاتَيۡنَٰهُمۡۚ	ﱃﱄ	اتيناهم	We have given them	ātaynāhum
+1	16:55:4	w	فَتَمَتَّعُواْ	ﱅ	فتمتعوا	Then enjoy yourselves	fatamattaʿū
+1	16:55:5	w	فَسَوۡفَ	ﱆ	فسوف	soon	fasawfa
+1	16:55:6	w	تَعۡلَمُونَ	ﱇ	تعلمون	you will know	taʿlamūna
+1	16:55:7	e	٥٥	ﱈ			
+1	16:56:1	w	وَيَجۡعَلُونَ	ﱉ	ويجعلون	And they assign	wayajʿalūna
+2	16:56:2	w	لِمَا	ﱊ	لما	to what	limā
+2	16:56:3	w	لَا	ﱋ	لا	not	lā
+2	16:56:4	w	يَعۡلَمُونَ	ﱌ	يعلمون	they know	yaʿlamūna
+2	16:56:5	w	نَصِيبٗا	ﱍ	نصيبا	a portion	naṣīban
+2	16:56:6	w	مِّمَّا	ﱎ	مما	of what	mimmā
+2	16:56:7	w	رَزَقۡنَٰهُمۡۗ	ﱏﱐ	رزقناهم	We have provided them	razaqnāhum
+2	16:56:8	w	تَٱللَّهِ	ﱑ	تالله	By Allah	tal-lahi
+2	16:56:9	w	لَتُسۡـَٔلُنَّ	ﱒ	لتسالن	surely you will be asked	latus'alunna
+2	16:56:10	w	عَمَّا	ﱓ	عما	about what	ʿammā
+2	16:56:11	w	كُنتُمۡ	ﱔ	كنتم	you used (to)	kuntum
+3	16:56:12	w	تَفۡتَرُونَ	ﱕ	تفترون	invent	taftarūna
+3	16:56:13	e	٥٦	ﱖ			
+3	16:57:1	w	وَيَجۡعَلُونَ	ﱗ	ويجعلون	And they assign	wayajʿalūna
+3	16:57:2	w	لِلَّهِ	ﱘ	لله	to Allah	lillahi
+3	16:57:3	w	ٱلۡبَنَٰتِ	ﱙ	البنات	daughters	l-banāti
+3	16:57:4	w	سُبۡحَٰنَهُۥ	ﱚ	سبحانه	Glory be to Him	sub'ḥānahu
+3	16:57:5	w	وَلَهُم	ﱛ	ولهم	And for them	walahum
+3	16:57:6	w	مَّا	ﱜ	ما	(is) what	mā
+3	16:57:7	w	يَشۡتَهُونَ	ﱝ	يشتهون	they desire	yashtahūna
+4	16:57:8	e	٥٧	ﱞ			
+4	16:58:1	w	وَإِذَا	ﱟ	واذا	And when	wa-idhā
+4	16:58:2	w	بُشِّرَ	ﱠ	بشر	is given good news	bushira
+4	16:58:3	w	أَحَدُهُم	ﱡ	احدهم	(to) one of them	aḥaduhum
+4	16:58:4	w	بِٱلۡأُنثَىٰ	ﱢ	بالانثى	of a female	bil-unthā
+4	16:58:5	w	ظَلَّ	ﱣ	ظل	turns	ẓalla
+4	16:58:6	w	وَجۡهُهُۥ	ﱤ	وجهه	his face	wajhuhu
+4	16:58:7	w	مُسۡوَدّٗا	ﱥ	مسودا	dark	mus'waddan
+4	16:58:8	w	وَهُوَ	ﱦ	وهو	and he	wahuwa
+4	16:58:9	w	كَظِيمٞ	ﱧ	كظيم	suppresses grief	kaẓīmun
+4	16:58:10	e	٥٨	ﱨ			
+5	16:59:1	w	يَتَوَٰرَىٰ	ﱩ	يتوارى	He hides himself	yatawārā
+5	16:59:2	w	مِنَ	ﱪ	من	from	mina
+5	16:59:3	w	ٱلۡقَوۡمِ	ﱫ	القوم	the people	l-qawmi
+5	16:59:4	w	مِن	ﱬ	من	(because) of	min
+5	16:59:5	w	سُوٓءِ	ﱭ	سوء	the evil	sūi
+5	16:59:6	w	مَا	ﱮ	ما	of what	mā
+5	16:59:7	w	بُشِّرَ	ﱯ	بشر	he has been given good news	bushira
+5	16:59:8	w	بِهِۦٓۚ	ﱰﱱ	به	about	bihi
+5	16:59:9	w	أَيُمۡسِكُهُۥ	ﱲ	ايمسكه	Should he keep it	ayum'sikuhu
+5	16:59:10	w	عَلَىٰ	ﱳ	على	in	ʿalā
+5	16:59:11	w	هُونٍ	ﱴ	هون	humiliation	hūnin
+6	16:59:12	w	أَمۡ	ﱵ	ام	or	am
+6	16:59:13	w	يَدُسُّهُۥ	ﱶ	يدسه	bury it	yadussuhu
+6	16:59:14	w	فِي	ﱷ	في	in	fī
+6	16:59:15	w	ٱلتُّرَابِۗ	ﱸﱹ	التراب	the dust	l-turābi
+6	16:59:16	w	أَلَا	ﱺ	الا	Unquestionably	alā
+6	16:59:17	w	سَآءَ	ﱻ	ساء	evil	sāa
+6	16:59:18	w	مَا	ﱼ	ما	(is) what	mā
+6	16:59:19	w	يَحۡكُمُونَ	ﱽ	يحكمون	they decide	yaḥkumūna
+6	16:59:20	e	٥٩	ﱾ			
+6	16:60:1	w	لِلَّذِينَ	ﱿ	للذين	For those who	lilladhīna
+6	16:60:2	w	لَا	ﲀ	لا	(do) not	lā
+6	16:60:3	w	يُؤۡمِنُونَ	ﲁ	يومنون	believe	yu'minūna
+7	16:60:4	w	بِٱلۡأٓخِرَةِ	ﲂ	بالاخرة	in the Hereafter	bil-ākhirati
+7	16:60:5	w	مَثَلُ	ﲃ	مثل	(is) a similitude	mathalu
+7	16:60:6	w	ٱلسَّوۡءِۖ	ﲄﲅ	السوء	(of) the evil	l-sawi
+7	16:60:7	w	وَلِلَّهِ	ﲆ	ولله	and for Allah	walillahi
+7	16:60:8	w	ٱلۡمَثَلُ	ﲇ	المثل	(is) the similitude	l-mathalu
+7	16:60:9	w	ٱلۡأَعۡلَىٰۚ	ﲈﲉ	الاعلى	the Highest	l-aʿlā
+7	16:60:10	w	وَهُوَ	ﲊ	وهو	And He	wahuwa
+7	16:60:11	w	ٱلۡعَزِيزُ	ﲋ	العزيز	(is) the All-Mighty	l-ʿazīzu
+7	16:60:12	w	ٱلۡحَكِيمُ	ﲌ	الحكيم	All-Wise	l-ḥakīmu
+8	16:60:13	e	٦٠	ﲍ			
+8	16:61:1	w	وَلَوۡ	ﲎ	ولو	And if	walaw
+8	16:61:2	w	يُؤَاخِذُ	ﲏ	يواخذ	Allah were to seize	yuākhidhu
+8	16:61:3	w	ٱللَّهُ	ﲐ	الله	Allah were to seize	l-lahu
+8	16:61:4	w	ٱلنَّاسَ	ﲑ	الناس	the mankind	l-nāsa
+8	16:61:5	w	بِظُلۡمِهِم	ﲒ	بظلمهم	for their wrongdoing	biẓul'mihim
+8	16:61:6	w	مَّا	ﲓ	ما	not	mā
+8	16:61:7	w	تَرَكَ	ﲔ	ترك	He (would) have left	taraka
+8	16:61:8	w	عَلَيۡهَا	ﲕ	عليها	upon it	ʿalayhā
+8	16:61:9	w	مِن	ﲖ	من	any	min
+8	16:61:10	w	دَآبَّةٖ	ﲗ	دابة	moving creature	dābbatin
+9	16:61:11	w	وَلَٰكِن	ﲘ	ولاكن	but	walākin
+9	16:61:12	w	يُؤَخِّرُهُمۡ	ﲙ	يوخرهم	He defers them	yu-akhiruhum
+9	16:61:13	w	إِلَىٰٓ	ﲚ	الى	for	ilā
+9	16:61:14	w	أَجَلٖ	ﲛ	اجل	a term	ajalin
+9	16:61:15	w	مُّسَمّٗىۖ	ﲜﲝ	مسمى	appointed	musamman
+9	16:61:16	w	فَإِذَا	ﲞ	فاذا	Then when	fa-idhā
+9	16:61:17	w	جَآءَ	ﲟ	جاء	comes	jāa
+9	16:61:18	w	أَجَلُهُمۡ	ﲠ	اجلهم	their terms	ajaluhum
+9	16:61:19	w	لَا	ﲡ	لا	not	lā
+9	16:61:20	w	يَسۡتَـٔۡخِرُونَ	ﲢ	يستاخرون	they (will) remain behind	yastakhirūna
+10	16:61:21	w	سَاعَةٗ	ﲣ	ساعة	an hour	sāʿatan
+10	16:61:22	w	وَلَا	ﲤ	ولا	and not	walā
+10	16:61:23	w	يَسۡتَقۡدِمُونَ	ﲥ	يستقدمون	they can advance (it)	yastaqdimūna
+10	16:61:24	e	٦١	ﲦ			
+10	16:62:1	w	وَيَجۡعَلُونَ	ﲧ	ويجعلون	And they assign	wayajʿalūna
+10	16:62:2	w	لِلَّهِ	ﲨ	لله	to Allah	lillahi
+10	16:62:3	w	مَا	ﲩ	ما	what	mā
+10	16:62:4	w	يَكۡرَهُونَۚ	ﲪﲫ	يكرهون	they dislike	yakrahūna
+10	16:62:5	w	وَتَصِفُ	ﲬ	وتصف	and assert	wataṣifu
+11	16:62:6	w	أَلۡسِنَتُهُمُ	ﲭ	السنتهم	their tongues	alsinatuhumu
+11	16:62:7	w	ٱلۡكَذِبَ	ﲮ	الكذب	the lie	l-kadhiba
+11	16:62:8	w	أَنَّ	ﲯ	ان	that	anna
+11	16:62:9	w	لَهُمُ	ﲰ	لهم	for them	lahumu
+11	16:62:10	w	ٱلۡحُسۡنَىٰۚ	ﲱﲲ	الحسنى	(is) the best	l-ḥus'nā
+11	16:62:11	w	لَا	ﲳ	لا	No	lā
+11	16:62:12	w	جَرَمَ	ﲴ	جرم	doubt	jarama
+11	16:62:13	w	أَنَّ	ﲵ	ان	that	anna
+11	16:62:14	w	لَهُمُ	ﲶ	لهم	for them	lahumu
+11	16:62:15	w	ٱلنَّارَ	ﲷ	النار	(is) the Fire	l-nāra
+12	16:62:16	w	وَأَنَّهُم	ﲸ	وانهم	and that they	wa-annahum
+12	16:62:17	w	مُّفۡرَطُونَ	ﲹ	مفرطون	(will) be abandoned	muf'raṭūna
+12	16:62:18	e	٦٢	ﲺ			
+12	16:63:1	w	تَٱللَّهِ	ﲻ	تالله	By Allah	tal-lahi
+12	16:63:2	w	لَقَدۡ	ﲼ	لقد	certainly	laqad
+12	16:63:3	w	أَرۡسَلۡنَآ	ﲽ	ارسلنا	We have sent	arsalnā
+12	16:63:4	w	إِلَىٰٓ	ﲾ	الى	to	ilā
+12	16:63:5	w	أُمَمٖ	ﲿ	امم	nations	umamin
+12	16:63:6	w	مِّن	ﳀ	من	before you	min
+12	16:63:7	w	قَبۡلِكَ	ﳁ	قبلك	before you	qablika
+13	16:63:8	w	فَزَيَّنَ	ﳂ	فزين	but made fair-seeming	fazayyana
+13	16:63:9	w	لَهُمُ	ﳃ	لهم	to them	lahumu
+13	16:63:10	w	ٱلشَّيۡطَٰنُ	ﳄ	الشيطان	the Shaitaan	l-shayṭānu
+13	16:63:11	w	أَعۡمَٰلَهُمۡ	ﳅ	اعمالهم	their deeds	aʿmālahum
+13	16:63:12	w	فَهُوَ	ﳆ	فهو	So he	fahuwa
+13	16:63:13	w	وَلِيُّهُمُ	ﳇ	وليهم	(is) their ally	waliyyuhumu
+13	16:63:14	w	ٱلۡيَوۡمَ	ﳈ	اليوم	today	l-yawma
+13	16:63:15	w	وَلَهُمۡ	ﳉ	ولهم	and for them	walahum
+14	16:63:16	w	عَذَابٌ	ﳊ	عذاب	(is) a punishment	ʿadhābun
+14	16:63:17	w	أَلِيمٞ	ﳋ	اليم	painful	alīmun
+14	16:63:18	e	٦٣	ﳌ			
+14	16:64:1	w	وَمَآ	ﳍ	وما	And not	wamā
+14	16:64:2	w	أَنزَلۡنَا	ﳎ	انزلنا	We revealed	anzalnā
+14	16:64:3	w	عَلَيۡكَ	ﳏ	عليك	to you	ʿalayka
+14	16:64:4	w	ٱلۡكِتَٰبَ	ﳐ	الكتاب	the Book	l-kitāba
+14	16:64:5	w	إِلَّا	ﳑ	الا	except	illā
+14	16:64:6	w	لِتُبَيِّنَ	ﳒ	لتبين	that you make clear	litubayyina
+14	16:64:7	w	لَهُمُ	ﳓ	لهم	to them	lahumu
+15	16:64:8	w	ٱلَّذِي	ﳔ	الذي	that which	alladhī
+15	16:64:9	w	ٱخۡتَلَفُواْ	ﳕ	اختلفوا	they differed	ikh'talafū
+15	16:64:10	w	فِيهِ	ﳖ	فيه	in it	fīhi
+15	16:64:11	w	وَهُدٗى	ﳗ	وهدى	and (as) a guidance	wahudan
+15	16:64:12	w	وَرَحۡمَةٗ	ﳘ	ورحمة	and mercy	waraḥmatan
+15	16:64:13	w	لِّقَوۡمٖ	ﳙ	لقوم	for a people	liqawmin
+15	16:64:14	w	يُؤۡمِنُونَ	ﳚ	يومنون	who believe	yu'minūna
+15	16:64:15	e	٦٤	ﳛ			

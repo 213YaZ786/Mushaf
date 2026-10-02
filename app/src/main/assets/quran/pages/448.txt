@@ -1,0 +1,148 @@
+1	37:52:1	w	يَقُولُ	ﱁ	يقول	Who (would) say	yaqūlu
+1	37:52:2	w	أَءِنَّكَ	ﱂ	اانك	Are you indeed	a-innaka
+1	37:52:3	w	لَمِنَ	ﱃ	لمن	surely of	lamina
+1	37:52:4	w	ٱلۡمُصَدِّقِينَ	ﱄ	المصدقين	those who believe	l-muṣadiqīna
+1	37:52:5	e	٥٢	ﱅ			
+1	37:53:1	w	أَءِذَا	ﱆ	ااذا	Is (it) when	a-idhā
+1	37:53:2	w	مِتۡنَا	ﱇ	متنا	we have died	mit'nā
+1	37:53:3	w	وَكُنَّا	ﱈ	وكنا	and become	wakunnā
+1	37:53:4	w	تُرَابٗا	ﱉ	ترابا	dust	turāban
+1	37:53:5	w	وَعِظَٰمًا	ﱊ	وعظاما	and bones	waʿiẓāman
+1	37:53:6	w	أَءِنَّا	ﱋ	اانا	will we	a-innā
+2	37:53:7	w	لَمَدِينُونَ	ﱌ	لمدينون	surely be brought to Judgment	lamadīnūna
+2	37:53:8	e	٥٣	ﱍ			
+2	37:54:1	w	قَالَ	ﱎ	قال	He (will) say	qāla
+2	37:54:2	w	هَلۡ	ﱏ	هل	Will	hal
+2	37:54:3	w	أَنتُم	ﱐ	انتم	you	antum
+2	37:54:4	w	مُّطَّلِعُونَ	ﱑ	مطلعون	be looking	muṭṭaliʿūna
+2	37:54:5	e	٥٤	ﱒ			
+2	37:55:1	w	فَٱطَّلَعَ	ﱓ	فاطلع	Then he (will) look	fa-iṭṭalaʿa
+2	37:55:2	w	فَرَءَاهُ	ﱔ	فراه	and see him	faraāhu
+2	37:55:3	w	فِي	ﱕ	في	in	fī
+2	37:55:4	w	سَوَآءِ	ﱖ	سواء	(the) midst	sawāi
+3	37:55:5	w	ٱلۡجَحِيمِ	ﱗ	الجحيم	(of) the Hellfire	l-jaḥīmi
+3	37:55:6	e	٥٥	ﱘ			
+3	37:56:1	w	قَالَ	ﱙ	قال	He (will) say	qāla
+3	37:56:2	w	تَٱللَّهِ	ﱚ	تالله	By Allah	tal-lahi
+3	37:56:3	w	إِن	ﱛ	ان	verily	in
+3	37:56:4	w	كِدتَّ	ﱜ	كدت	you almost	kidtta
+3	37:56:5	w	لَتُرۡدِينِ	ﱝ	لتردين	ruined me	latur'dīni
+3	37:56:6	e	٥٦	ﱞ			
+3	37:57:1	w	وَلَوۡلَا	ﱟ	ولولا	And if not	walawlā
+3	37:57:2	w	نِعۡمَةُ	ﱠ	نعمة	(for the) Grace	niʿ'matu
+3	37:57:3	w	رَبِّي	ﱡ	ربي	(of) my Lord	rabbī
+4	37:57:4	w	لَكُنتُ	ﱢ	لكنت	certainly, I (would) have been	lakuntu
+4	37:57:5	w	مِنَ	ﱣ	من	among	mina
+4	37:57:6	w	ٱلۡمُحۡضَرِينَ	ﱤ	المحضرين	those brought	l-muḥ'ḍarīna
+4	37:57:7	e	٥٧	ﱥ			
+4	37:58:1	w	أَفَمَا	ﱦ	افما	Then are not	afamā
+4	37:58:2	w	نَحۡنُ	ﱧ	نحن	we	naḥnu
+4	37:58:3	w	بِمَيِّتِينَ	ﱨ	بميتين	(to) die	bimayyitīna
+4	37:58:4	e	٥٨	ﱩ			
+4	37:59:1	w	إِلَّا	ﱪ	الا	Except	illā
+4	37:59:2	w	مَوۡتَتَنَا	ﱫ	موتتنا	our death	mawtatanā
+5	37:59:3	w	ٱلۡأُولَىٰ	ﱬ	الاولى	the first	l-ūlā
+5	37:59:4	w	وَمَا	ﱭ	وما	and not	wamā
+5	37:59:5	w	نَحۡنُ	ﱮ	نحن	we	naḥnu
+5	37:59:6	w	بِمُعَذَّبِينَ	ﱯ	بمعذبين	will be punished	bimuʿadhabīna
+5	37:59:7	e	٥٩	ﱰ			
+5	37:60:1	w	إِنَّ	ﱱ	ان	Indeed	inna
+5	37:60:2	w	هَٰذَا	ﱲ	هاذا	this	hādhā
+5	37:60:3	w	لَهُوَ	ﱳ	لهو	surely	lahuwa
+5	37:60:4	w	ٱلۡفَوۡزُ	ﱴ	الفوز	(is) the attainment	l-fawzu
+5	37:60:5	w	ٱلۡعَظِيمُ	ﱵ	العظيم	great	l-ʿaẓīmu
+5	37:60:6	e	٦٠	ﱶ			
+6	37:61:1	w	لِمِثۡلِ	ﱷ	لمثل	For (the) like	limith'li
+6	37:61:2	w	هَٰذَا	ﱸ	هاذا	(of) this	hādhā
+6	37:61:3	w	فَلۡيَعۡمَلِ	ﱹ	فليعمل	let work	falyaʿmali
+6	37:61:4	w	ٱلۡعَٰمِلُونَ	ﱺ	العاملون	the workers	l-ʿāmilūna
+6	37:61:5	e	٦١	ﱻ			
+6	37:62:1	w	أَذَٰلِكَ	ﱼ	اذالك	Is that	adhālika
+6	37:62:2	w	خَيۡرٞ	ﱽ	خير	better	khayrun
+6	37:62:3	w	نُّزُلًا	ﱾ	نزلا	(as) hospitality	nuzulan
+6	37:62:4	w	أَمۡ	ﱿ	ام	or	am
+6	37:62:5	w	شَجَرَةُ	ﲀ	شجرة	(the) tree	shajaratu
+7	37:62:6	w	ٱلزَّقُّومِ	ﲁ	الزقوم	(of) Zaqqum	l-zaqūmi
+7	37:62:7	e	٦٢	ﲂ			
+7	37:63:1	w	إِنَّا	ﲃ	انا	Indeed, We	innā
+7	37:63:2	w	جَعَلۡنَٰهَا	ﲄ	جعلناها	[We] have made it	jaʿalnāhā
+7	37:63:3	w	فِتۡنَةٗ	ﲅ	فتنة	a trial	fit'natan
+7	37:63:4	w	لِّلظَّٰلِمِينَ	ﲆ	للظالمين	for the wrongdoers	lilẓẓālimīna
+7	37:63:5	e	٦٣	ﲇ			
+7	37:64:1	w	إِنَّهَا	ﲈ	انها	Indeed, it	innahā
+7	37:64:2	w	شَجَرَةٞ	ﲉ	شجرة	(is) a tree	shajaratun
+8	37:64:3	w	تَخۡرُجُ	ﲊ	تخرج	that grows	takhruju
+8	37:64:4	w	فِيٓ	ﲋ	في	in	fī
+8	37:64:5	w	أَصۡلِ	ﲌ	اصل	(the) bottom	aṣli
+8	37:64:6	w	ٱلۡجَحِيمِ	ﲍ	الجحيم	(of) the Hellfire	l-jaḥīmi
+8	37:64:7	e	٦٤	ﲎ			
+8	37:65:1	w	طَلۡعُهَا	ﲏ	طلعها	Its emerging fruit	ṭalʿuhā
+8	37:65:2	w	كَأَنَّهُۥ	ﲐ	كانه	(is) as if it	ka-annahu
+8	37:65:3	w	رُءُوسُ	ﲑ	رءوس	(was) heads	ruūsu
+8	37:65:4	w	ٱلشَّيَٰطِينِ	ﲒ	الشياطين	(of) the devils	l-shayāṭīni
+9	37:65:5	e	٦٥	ﲓ			
+9	37:66:1	w	فَإِنَّهُمۡ	ﲔ	فانهم	And indeed, they	fa-innahum
+9	37:66:2	w	لَأٓكِلُونَ	ﲕ	لاكلون	(will) surely eat	laākilūna
+9	37:66:3	w	مِنۡهَا	ﲖ	منها	from it	min'hā
+9	37:66:4	w	فَمَالِـُٔونَ	ﲗ	فماليون	and fill	famāliūna
+9	37:66:5	w	مِنۡهَا	ﲘ	منها	with it	min'hā
+9	37:66:6	w	ٱلۡبُطُونَ	ﲙ	البطون	(their) bellies	l-buṭūna
+9	37:66:7	e	٦٦	ﲚ			
+9	37:67:1	w	ثُمَّ	ﲛ	ثم	Then	thumma
+9	37:67:2	w	إِنَّ	ﲜ	ان	indeed	inna
+9	37:67:3	w	لَهُمۡ	ﲝ	لهم	for them	lahum
+10	37:67:4	w	عَلَيۡهَا	ﲞ	عليها	in it	ʿalayhā
+10	37:67:5	w	لَشَوۡبٗا	ﲟ	لشوبا	(is) a mixture	lashawban
+10	37:67:6	w	مِّنۡ	ﲠ	من	of	min
+10	37:67:7	w	حَمِيمٖ	ﲡ	حميم	boiling water	ḥamīmin
+10	37:67:8	e	٦٧	ﲢ			
+10	37:68:1	w	ثُمَّ	ﲣ	ثم	Then	thumma
+10	37:68:2	w	إِنَّ	ﲤ	ان	indeed	inna
+10	37:68:3	w	مَرۡجِعَهُمۡ	ﲥ	مرجعهم	their return	marjiʿahum
+10	37:68:4	w	لَإِلَى	ﲦ	لالى	(will) surely be to	la-ilā
+10	37:68:5	w	ٱلۡجَحِيمِ	ﲧ	الجحيم	the Hellfire	l-jaḥīmi
+10	37:68:6	e	٦٨	ﲨ			
+11	37:69:1	w	إِنَّهُمۡ	ﲩ	انهم	Indeed, they	innahum
+11	37:69:2	w	أَلۡفَوۡاْ	ﲪ	الفوا	found	alfaw
+11	37:69:3	w	ءَابَآءَهُمۡ	ﲫ	اباءهم	their fathers	ābāahum
+11	37:69:4	w	ضَآلِّينَ	ﲬ	ضالين	astray	ḍāllīna
+11	37:69:5	e	٦٩	ﲭ			
+11	37:70:1	w	فَهُمۡ	ﲮ	فهم	So they	fahum
+11	37:70:2	w	عَلَىٰٓ	ﲯ	على	on	ʿalā
+11	37:70:3	w	ءَاثَٰرِهِمۡ	ﲰ	اثارهم	their footsteps	āthārihim
+11	37:70:4	w	يُهۡرَعُونَ	ﲱ	يهرعون	they hastened	yuh'raʿūna
+11	37:70:5	e	٧٠	ﲲ			
+12	37:71:1	w	وَلَقَدۡ	ﲳ	ولقد	And verily	walaqad
+12	37:71:2	w	ضَلَّ	ﲴ	ضل	went astray	ḍalla
+12	37:71:3	w	قَبۡلَهُمۡ	ﲵ	قبلهم	before them	qablahum
+12	37:71:4	w	أَكۡثَرُ	ﲶ	اكثر	most	aktharu
+12	37:71:5	w	ٱلۡأَوَّلِينَ	ﲷ	الاولين	(of) the former (people)	l-awalīna
+12	37:71:6	e	٧١	ﲸ			
+12	37:72:1	w	وَلَقَدۡ	ﲹ	ولقد	And verily	walaqad
+12	37:72:2	w	أَرۡسَلۡنَا	ﲺ	ارسلنا	We sent	arsalnā
+12	37:72:3	w	فِيهِم	ﲻ	فيهم	among them	fīhim
+13	37:72:4	w	مُّنذِرِينَ	ﲼ	منذرين	warners	mundhirīna
+13	37:72:5	e	٧٢	ﲽ			
+13	37:73:1	w	فَٱنظُرۡ	ﲾ	فانظر	Then see	fa-unẓur
+13	37:73:2	w	كَيۡفَ	ﲿ	كيف	how	kayfa
+13	37:73:3	w	كَانَ	ﳀ	كان	was	kāna
+13	37:73:4	w	عَٰقِبَةُ	ﳁ	عاقبة	(the) end	ʿāqibatu
+13	37:73:5	w	ٱلۡمُنذَرِينَ	ﳂ	المنذرين	(of) those who were warned	l-mundharīna
+13	37:73:6	e	٧٣	ﳃ			
+14	37:74:1	w	إِلَّا	ﳄ	الا	Except	illā
+14	37:74:2	w	عِبَادَ	ﳅ	عباد	(the) slaves	ʿibāda
+14	37:74:3	w	ٱللَّهِ	ﳆ	الله	(of) Allah	l-lahi
+14	37:74:4	w	ٱلۡمُخۡلَصِينَ	ﳇ	المخلصين	the chosen ones	l-mukh'laṣīna
+14	37:74:5	e	٧٤	ﳈ			
+14	37:75:1	w	وَلَقَدۡ	ﳉ	ولقد	And verily	walaqad
+14	37:75:2	w	نَادَىٰنَا	ﳊ	نادانا	called Us	nādānā
+14	37:75:3	w	نُوحٞ	ﳋ	نوح	Nuh	nūḥun
+14	37:75:4	w	فَلَنِعۡمَ	ﳌ	فلنعم	and Best	falaniʿ'ma
+15	37:75:5	w	ٱلۡمُجِيبُونَ	ﳍ	المجيبون	(are We as) Responders	l-mujībūna
+15	37:75:6	e	٧٥	ﳎ			
+15	37:76:1	w	وَنَجَّيۡنَٰهُ	ﳏ	ونجيناه	And We saved him	wanajjaynāhu
+15	37:76:2	w	وَأَهۡلَهُۥ	ﳐ	واهله	and his family	wa-ahlahu
+15	37:76:3	w	مِنَ	ﳑ	من	from	mina
+15	37:76:4	w	ٱلۡكَرۡبِ	ﳒ	الكرب	the distress	l-karbi
+15	37:76:5	w	ٱلۡعَظِيمِ	ﳓ	العظيم	the great	l-ʿaẓīmi
+15	37:76:6	e	٧٦	ﳔ			

@@ -1,0 +1,133 @@
+1	6:69:1	w	وَمَا	ﱁ	وما	And not	wamā
+1	6:69:2	w	عَلَى	ﱂ	على	(is) on	ʿalā
+1	6:69:3	w	ٱلَّذِينَ	ﱃ	الذين	those who	alladhīna
+1	6:69:4	w	يَتَّقُونَ	ﱄ	يتقون	fear (Allah)	yattaqūna
+1	6:69:5	w	مِنۡ	ﱅ	من	of	min
+1	6:69:6	w	حِسَابِهِم	ﱆ	حسابهم	their account	ḥisābihim
+1	6:69:7	w	مِّن	ﱇ	من	[of]	min
+1	6:69:8	w	شَيۡءٖ	ﱈ	شيء	anything	shayin
+1	6:69:9	w	وَلَٰكِن	ﱉ	ولاكن	but	walākin
+2	6:69:10	w	ذِكۡرَىٰ	ﱊ	ذكرى	(for) reminder	dhik'rā
+2	6:69:11	w	لَعَلَّهُمۡ	ﱋ	لعلهم	so that they may	laʿallahum
+2	6:69:12	w	يَتَّقُونَ	ﱌ	يتقون	fear (Allah)	yattaqūna
+2	6:69:13	e	٦٩	ﱍ			
+2	6:70:1	w	وَذَرِ	ﱎ	وذر	And leave	wadhari
+2	6:70:2	w	ٱلَّذِينَ	ﱏ	الذين	those who	alladhīna
+2	6:70:3	w	ٱتَّخَذُواْ	ﱐ	اتخذوا	take	ittakhadhū
+2	6:70:4	w	دِينَهُمۡ	ﱑ	دينهم	their religion	dīnahum
+3	6:70:5	w	لَعِبٗا	ﱒ	لعبا	(as) a play	laʿiban
+3	6:70:6	w	وَلَهۡوٗا	ﱓ	ولهوا	and amusement	walahwan
+3	6:70:7	w	وَغَرَّتۡهُمُ	ﱔ	وغرتهم	and deluded them	wagharrathumu
+3	6:70:8	w	ٱلۡحَيَوٰةُ	ﱕ	الحياة	the life	l-ḥayatu
+3	6:70:9	w	ٱلدُّنۡيَاۚ	ﱖﱗ	الدنيا	(of) the world	l-dun'yā
+3	6:70:10	w	وَذَكِّرۡ	ﱘ	وذكر	But remind	wadhakkir
+3	6:70:11	w	بِهِۦٓ	ﱙ	به	with it	bihi
+3	6:70:12	w	أَن	ﱚ	ان	lest	an
+4	6:70:13	w	تُبۡسَلَ	ﱛ	تبسل	is given up to destruction	tub'sala
+4	6:70:14	w	نَفۡسُۢ	ﱜ	نفس	a soul	nafsun
+4	6:70:15	w	بِمَا	ﱝ	بما	for what	bimā
+4	6:70:16	w	كَسَبَتۡ	ﱞ	كسبت	it (has) earned	kasabat
+4	6:70:17	w	لَيۡسَ	ﱟ	ليس	not	laysa
+4	6:70:18	w	لَهَا	ﱠ	لها	(is) for it	lahā
+4	6:70:19	w	مِن	ﱡ	من	from	min
+4	6:70:20	w	دُونِ	ﱢ	دون	besides	dūni
+4	6:70:21	w	ٱللَّهِ	ﱣ	الله	Allah	l-lahi
+4	6:70:22	w	وَلِيّٞ	ﱤ	ولي	any protector	waliyyun
+5	6:70:23	w	وَلَا	ﱥ	ولا	and not	walā
+5	6:70:24	w	شَفِيعٞ	ﱦ	شفيع	any intercessor	shafīʿun
+5	6:70:25	w	وَإِن	ﱧ	وان	And if	wa-in
+5	6:70:26	w	تَعۡدِلۡ	ﱨ	تعدل	it offers ransom	taʿdil
+5	6:70:27	w	كُلَّ	ﱩ	كل	every	kulla
+5	6:70:28	w	عَدۡلٖ	ﱪ	عدل	ransom	ʿadlin
+5	6:70:29	w	لَّا	ﱫ	لا	not	lā
+5	6:70:30	w	يُؤۡخَذۡ	ﱬ	يوخذ	will it be taken	yu'khadh
+5	6:70:31	w	مِنۡهَآۗ	ﱭﱮ	منها	from it	min'hā
+5	6:70:32	w	أُوْلَٰٓئِكَ	ﱯ	اولايك	Those	ulāika
+6	6:70:33	w	ٱلَّذِينَ	ﱰ	الذين	(are) ones who	alladhīna
+6	6:70:34	w	أُبۡسِلُواْ	ﱱ	ابسلوا	are given to destruction	ub'silū
+6	6:70:35	w	بِمَا	ﱲ	بما	for what	bimā
+6	6:70:36	w	كَسَبُواْۖ	ﱳﱴ	كسبوا	they earned	kasabū
+6	6:70:37	w	لَهُمۡ	ﱵ	لهم	For them	lahum
+6	6:70:38	w	شَرَابٞ	ﱶ	شراب	(will be) a drink	sharābun
+6	6:70:39	w	مِّنۡ	ﱷ	من	of	min
+6	6:70:40	w	حَمِيمٖ	ﱸ	حميم	boiling water	ḥamīmin
+7	6:70:41	w	وَعَذَابٌ	ﱹ	وعذاب	and a punishment	waʿadhābun
+7	6:70:42	w	أَلِيمُۢ	ﱺ	اليم	painful	alīmun
+7	6:70:43	w	بِمَا	ﱻ	بما	because	bimā
+7	6:70:44	w	كَانُواْ	ﱼ	كانوا	they used to	kānū
+7	6:70:45	w	يَكۡفُرُونَ	ﱽ	يكفرون	disbelieve	yakfurūna
+7	6:70:46	e	٧٠	ﱾ			
+7	6:71:1	w	قُلۡ	ﱿ	قل	Say	qul
+7	6:71:2	w	أَنَدۡعُواْ	ﲀ	اندعو	Shall we call	anadʿū
+7	6:71:3	w	مِن	ﲁ	من	from	min
+7	6:71:4	w	دُونِ	ﲂ	دون	besides	dūni
+8	6:71:5	w	ٱللَّهِ	ﲃ	الله	Allah	l-lahi
+8	6:71:6	w	مَا	ﲄ	ما	what	mā
+8	6:71:7	w	لَا	ﲅ	لا	not	lā
+8	6:71:8	w	يَنفَعُنَا	ﲆ	ينفعنا	benefits us	yanfaʿunā
+8	6:71:9	w	وَلَا	ﲇ	ولا	and not	walā
+8	6:71:10	w	يَضُرُّنَا	ﲈ	يضرنا	harms us	yaḍurrunā
+8	6:71:11	w	وَنُرَدُّ	ﲉ	ونرد	and we turn back	wanuraddu
+8	6:71:12	w	عَلَىٰٓ	ﲊ	على	on	ʿalā
+8	6:71:13	w	أَعۡقَابِنَا	ﲋ	اعقابنا	our heels	aʿqābinā
+8	6:71:14	w	بَعۡدَ	ﲌ	بعد	after	baʿda
+8	6:71:15	w	إِذۡ	ﲍ	اذ	[when]	idh
+9	6:71:16	w	هَدَىٰنَا	ﲎ	هدانا	(has) guided us	hadānā
+9	6:71:17	w	ٱللَّهُ	ﲏ	الله	Allah	l-lahu
+9	6:71:18	w	كَٱلَّذِي	ﲐ	كالذي	Like the one	ka-alladhī
+9	6:71:19	w	ٱسۡتَهۡوَتۡهُ	ﲑ	استهوته	whom (has been) enticed	is'tahwathu
+9	6:71:20	w	ٱلشَّيَٰطِينُ	ﲒ	الشياطين	(by) the Shaitaan	l-shayāṭīnu
+9	6:71:21	w	فِي	ﲓ	في	in	fī
+9	6:71:22	w	ٱلۡأَرۡضِ	ﲔ	الارض	the earth	l-arḍi
+10	6:71:23	w	حَيۡرَانَ	ﲕ	حيران	confused	ḥayrāna
+10	6:71:24	w	لَهُۥٓ	ﲖ	له	he has	lahu
+10	6:71:25	w	أَصۡحَٰبٞ	ﲗ	اصحاب	companions	aṣḥābun
+10	6:71:26	w	يَدۡعُونَهُۥٓ	ﲘ	يدعونه	who call him	yadʿūnahu
+10	6:71:27	w	إِلَى	ﲙ	الى	towards	ilā
+10	6:71:28	w	ٱلۡهُدَى	ﲚ	الهدى	the guidance	l-hudā
+10	6:71:29	w	ٱئۡتِنَاۗ	ﲛﲜ	ايتنا	'Come to us.'	i'tinā
+10	6:71:30	w	قُلۡ	ﲝ	قل	Say	qul
+10	6:71:31	w	إِنَّ	ﲞ	ان	Indeed	inna
+11	6:71:32	w	هُدَى	ﲟ	هدى	(the) Guidance	hudā
+11	6:71:33	w	ٱللَّهِ	ﲠ	الله	(of) Allah	l-lahi
+11	6:71:34	w	هُوَ	ﲡ	هو	it	huwa
+11	6:71:35	w	ٱلۡهُدَىٰۖ	ﲢﲣ	الهدى	(is) the Guidance	l-hudā
+11	6:71:36	w	وَأُمِرۡنَا	ﲤ	وامرنا	and we have been commanded	wa-umir'nā
+11	6:71:37	w	لِنُسۡلِمَ	ﲥ	لنسلم	that we submit	linus'lima
+11	6:71:38	w	لِرَبِّ	ﲦ	لرب	to (the) Lord	lirabbi
+11	6:71:39	w	ٱلۡعَٰلَمِينَ	ﲧ	العالمين	(of) the worlds	l-ʿālamīna
+11	6:71:40	e	٧١	ﲨ			
+11	6:72:1	w	وَأَنۡ	ﲩ	وان	And to	wa-an
+12	6:72:2	w	أَقِيمُواْ	ﲪ	اقيموا	establish	aqīmū
+12	6:72:3	w	ٱلصَّلَوٰةَ	ﲫ	الصلاة	the prayer	l-ṣalata
+12	6:72:4	w	وَٱتَّقُوهُۚ	ﲬﲭ	واتقوه	and fear Him	wa-ittaqūhu
+12	6:72:5	w	وَهُوَ	ﲮ	وهو	And He	wahuwa
+12	6:72:6	w	ٱلَّذِيٓ	ﲯ	الذي	(is) the One	alladhī
+12	6:72:7	w	إِلَيۡهِ	ﲰ	اليه	to Him	ilayhi
+12	6:72:8	w	تُحۡشَرُونَ	ﲱ	تحشرون	you will be gathered	tuḥ'sharūna
+12	6:72:9	e	٧٢	ﲲ			
+12	6:73:1	w	وَهُوَ	ﲳ	وهو	And (it is) He	wahuwa
+13	6:73:2	w	ٱلَّذِي	ﲴ	الذي	Who	alladhī
+13	6:73:3	w	خَلَقَ	ﲵ	خلق	created	khalaqa
+13	6:73:4	w	ٱلسَّمَٰوَٰتِ	ﲶ	السماوات	the heavens	l-samāwāti
+13	6:73:5	w	وَٱلۡأَرۡضَ	ﲷ	والارض	and the earth	wal-arḍa
+13	6:73:6	w	بِٱلۡحَقِّۖ	ﲸﲹ	بالحق	in truth	bil-ḥaqi
+13	6:73:7	w	وَيَوۡمَ	ﲺ	ويوم	And (the) Day	wayawma
+13	6:73:8	w	يَقُولُ	ﲻ	يقول	He says	yaqūlu
+13	6:73:9	w	كُن	ﲼ	كن	Be	kun
+14	6:73:10	w	فَيَكُونُۚ	ﲽﲾ	فيكون	and it is	fayakūnu
+14	6:73:11	w	قَوۡلُهُ	ﲿ	قوله	His word	qawluhu
+14	6:73:12	w	ٱلۡحَقُّۚ	ﳀﳁ	الحق	(is) the truth	l-ḥaqu
+14	6:73:13	w	وَلَهُ	ﳂ	وله	And for Him	walahu
+14	6:73:14	w	ٱلۡمُلۡكُ	ﳃ	الملك	(is) the Dominion	l-mul'ku
+14	6:73:15	w	يَوۡمَ	ﳄ	يوم	(on the) Day	yawma
+14	6:73:16	w	يُنفَخُ	ﳅ	ينفخ	will be blown	yunfakhu
+14	6:73:17	w	فِي	ﳆ	في	in	fī
+14	6:73:18	w	ٱلصُّورِۚ	ﳇﳈ	الصور	the trumpet	l-ṣūri
+15	6:73:19	w	عَٰلِمُ	ﳉ	عالم	(He is) All-Knower	ʿālimu
+15	6:73:20	w	ٱلۡغَيۡبِ	ﳊ	الغيب	(of) the unseen	l-ghaybi
+15	6:73:21	w	وَٱلشَّهَٰدَةِۚ	ﳋﳌ	والشهادة	and the seen	wal-shahādati
+15	6:73:22	w	وَهُوَ	ﳍ	وهو	And He	wahuwa
+15	6:73:23	w	ٱلۡحَكِيمُ	ﳎ	الحكيم	(is) the All-Wise	l-ḥakīmu
+15	6:73:24	w	ٱلۡخَبِيرُ	ﳏ	الخبير	the All-Aware	l-khabīru
+15	6:73:25	e	٧٣	ﳐ			

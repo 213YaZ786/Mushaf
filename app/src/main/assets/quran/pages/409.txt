@@ -1,0 +1,151 @@
+1	30:42:1	w	قُلۡ	ﱁ	قل	Say	qul
+1	30:42:2	w	سِيرُواْ	ﱂ	سيروا	Travel	sīrū
+1	30:42:3	w	فِي	ﱃ	في	in	fī
+1	30:42:4	w	ٱلۡأَرۡضِ	ﱄ	الارض	the earth	l-arḍi
+1	30:42:5	w	فَٱنظُرُواْ	ﱅ	فانظروا	and see	fa-unẓurū
+1	30:42:6	w	كَيۡفَ	ﱆ	كيف	how	kayfa
+1	30:42:7	w	كَانَ	ﱇ	كان	was	kāna
+1	30:42:8	w	عَٰقِبَةُ	ﱈ	عاقبة	(the) end	ʿāqibatu
+1	30:42:9	w	ٱلَّذِينَ	ﱉ	الذين	(of) those who	alladhīna
+1	30:42:10	w	مِن	ﱊ	من	(were) before	min
+1	30:42:11	w	قَبۡلُۚ	ﱋﱌ	قبل	(were) before	qablu
+2	30:42:12	w	كَانَ	ﱍ	كان	Most of them were	kāna
+2	30:42:13	w	أَكۡثَرُهُم	ﱎ	اكثرهم	Most of them were	aktharuhum
+2	30:42:14	w	مُّشۡرِكِينَ	ﱏ	مشركين	polytheists	mush'rikīna
+2	30:42:15	e	٤٢	ﱐ			
+2	30:43:1	w	فَأَقِمۡ	ﱑ	فاقم	So set	fa-aqim
+2	30:43:2	w	وَجۡهَكَ	ﱒ	وجهك	your face	wajhaka
+2	30:43:3	w	لِلدِّينِ	ﱓ	للدين	to the religion	lilddīni
+2	30:43:4	w	ٱلۡقَيِّمِ	ﱔ	القيم	right	l-qayimi
+2	30:43:5	w	مِن	ﱕ	من	before	min
+3	30:43:6	w	قَبۡلِ	ﱖ	قبل	before	qabli
+3	30:43:7	w	أَن	ﱗ	ان	[that]	an
+3	30:43:8	w	يَأۡتِيَ	ﱘ	ياتي	comes	yatiya
+3	30:43:9	w	يَوۡمٞ	ﱙ	يوم	a Day	yawmun
+3	30:43:10	w	لَّا	ﱚ	لا	not	lā
+3	30:43:11	w	مَرَدَّ	ﱛ	مرد	(can be) averted	maradda
+3	30:43:12	w	لَهُۥ	ﱜ	له	[it]	lahu
+3	30:43:13	w	مِنَ	ﱝ	من	from	mina
+3	30:43:14	w	ٱللَّهِۖ	ﱞﱟ	الله	Allah	l-lahi
+3	30:43:15	w	يَوۡمَئِذٖ	ﱠ	يوميذ	That Day	yawma-idhin
+3	30:43:16	w	يَصَّدَّعُونَ	ﱡ	يصدعون	they will be divided	yaṣṣaddaʿūna
+3	30:43:17	e	٤٣	ﱢ			
+3	30:44:1	w	مَن	ﱣ	من	Whoever	man
+4	30:44:2	w	كَفَرَ	ﱤ	كفر	disbelieves	kafara
+4	30:44:3	w	فَعَلَيۡهِ	ﱥ	فعليه	then against him	faʿalayhi
+4	30:44:4	w	كُفۡرُهُۥۖ	ﱦﱧ	كفره	(is) his disbelief	kuf'ruhu
+4	30:44:5	w	وَمَنۡ	ﱨ	ومن	And whoever	waman
+4	30:44:6	w	عَمِلَ	ﱩ	عمل	does	ʿamila
+4	30:44:7	w	صَٰلِحٗا	ﱪ	صالحا	righteousness	ṣāliḥan
+4	30:44:8	w	فَلِأَنفُسِهِمۡ	ﱫ	فلانفسهم	then for themselves	fali-anfusihim
+4	30:44:9	w	يَمۡهَدُونَ	ﱬ	يمهدون	they are preparing	yamhadūna
+4	30:44:10	e	٤٤	ﱭ			
+5	30:45:1	w	لِيَجۡزِيَ	ﱮ	ليجزي	That He may reward	liyajziya
+5	30:45:2	w	ٱلَّذِينَ	ﱯ	الذين	those who	alladhīna
+5	30:45:3	w	ءَامَنُواْ	ﱰ	امنوا	believe	āmanū
+5	30:45:4	w	وَعَمِلُواْ	ﱱ	وعملوا	and do	waʿamilū
+5	30:45:5	w	ٱلصَّٰلِحَٰتِ	ﱲ	الصالحات	righteous deeds	l-ṣāliḥāti
+5	30:45:6	w	مِن	ﱳ	من	(out) of	min
+5	30:45:7	w	فَضۡلِهِۦٓۚ	ﱴﱵ	فضله	His Bounty	faḍlihi
+5	30:45:8	w	إِنَّهُۥ	ﱶ	انه	Indeed, He	innahu
+5	30:45:9	w	لَا	ﱷ	لا	(does) not	lā
+5	30:45:10	w	يُحِبُّ	ﱸ	يحب	like	yuḥibbu
+6	30:45:11	w	ٱلۡكَٰفِرِينَ	ﱹ	الكافرين	the disbelievers	l-kāfirīna
+6	30:45:12	e	٤٥	ﱺ			
+6	30:46:1	w	وَمِنۡ	ﱻ	ومن	And among	wamin
+6	30:46:2	w	ءَايَٰتِهِۦٓ	ﱼ	اياته	His Signs	āyātihi
+6	30:46:3	w	أَن	ﱽ	ان	(is) that	an
+6	30:46:4	w	يُرۡسِلَ	ﱾ	يرسل	He sends	yur'sila
+6	30:46:5	w	ٱلرِّيَاحَ	ﱿ	الرياح	the winds	l-riyāḥa
+6	30:46:6	w	مُبَشِّرَٰتٖ	ﲀ	مبشرات	(as) bearers of glad tidings	mubashirātin
+6	30:46:7	w	وَلِيُذِيقَكُم	ﲁ	وليذيقكم	and to let you taste	waliyudhīqakum
+7	30:46:8	w	مِّن	ﲂ	من	of	min
+7	30:46:9	w	رَّحۡمَتِهِۦ	ﲃ	رحمته	His Mercy	raḥmatihi
+7	30:46:10	w	وَلِتَجۡرِيَ	ﲄ	ولتجري	and that may sail	walitajriya
+7	30:46:11	w	ٱلۡفُلۡكُ	ﲅ	الفلك	the ships	l-ful'ku
+7	30:46:12	w	بِأَمۡرِهِۦ	ﲆ	بامره	at His Command	bi-amrihi
+7	30:46:13	w	وَلِتَبۡتَغُواْ	ﲇ	ولتبتغوا	and that you may seek	walitabtaghū
+7	30:46:14	w	مِن	ﲈ	من	of	min
+7	30:46:15	w	فَضۡلِهِۦ	ﲉ	فضله	His Bounty	faḍlihi
+7	30:46:16	w	وَلَعَلَّكُمۡ	ﲊ	ولعلكم	and that you may	walaʿallakum
+8	30:46:17	w	تَشۡكُرُونَ	ﲋ	تشكرون	be grateful	tashkurūna
+8	30:46:18	e	٤٦	ﲌ			
+8	30:47:1	w	وَلَقَدۡ	ﲍ	ولقد	And verily	walaqad
+8	30:47:2	w	أَرۡسَلۡنَا	ﲎ	ارسلنا	We sent	arsalnā
+8	30:47:3	w	مِن	ﲏ	من	before you	min
+8	30:47:4	w	قَبۡلِكَ	ﲐ	قبلك	before you	qablika
+8	30:47:5	w	رُسُلًا	ﲑ	رسلا	Messengers	rusulan
+8	30:47:6	w	إِلَىٰ	ﲒ	الى	to	ilā
+8	30:47:7	w	قَوۡمِهِمۡ	ﲓ	قومهم	their people	qawmihim
+8	30:47:8	w	فَجَآءُوهُم	ﲔ	فجاءوهم	and they came to them	fajāūhum
+9	30:47:9	w	بِٱلۡبَيِّنَٰتِ	ﲕ	بالبينات	with clear proofs	bil-bayināti
+9	30:47:10	w	فَٱنتَقَمۡنَا	ﲖ	فانتقمنا	then We took retribution	fa-intaqamnā
+9	30:47:11	w	مِنَ	ﲗ	من	from	mina
+9	30:47:12	w	ٱلَّذِينَ	ﲘ	الذين	those who	alladhīna
+9	30:47:13	w	أَجۡرَمُواْۖ	ﲙﲚ	اجرموا	committed crimes	ajramū
+9	30:47:14	w	وَكَانَ	ﲛ	وكان	And it was	wakāna
+9	30:47:15	w	حَقًّا	ﲜ	حقا	incumbent	ḥaqqan
+9	30:47:16	w	عَلَيۡنَا	ﲝ	علينا	upon Us	ʿalaynā
+9	30:47:17	w	نَصۡرُ	ﲞ	نصر	(to) help	naṣru
+10	30:47:18	w	ٱلۡمُؤۡمِنِينَ	ﲟ	المومنين	the believers	l-mu'minīna
+10	30:47:19	e	٤٧	ﲠ			
+10	30:48:1	w	ٱللَّهُ	ﲡ	الله	Allah	al-lahu
+10	30:48:2	w	ٱلَّذِي	ﲢ	الذي	(is) the One Who	alladhī
+10	30:48:3	w	يُرۡسِلُ	ﲣ	يرسل	sends	yur'silu
+10	30:48:4	w	ٱلرِّيَٰحَ	ﲤ	الرياح	the winds	l-riyāḥa
+10	30:48:5	w	فَتُثِيرُ	ﲥ	فتثير	so they raise	fatuthīru
+10	30:48:6	w	سَحَابٗا	ﲦ	سحابا	(the) clouds	saḥāban
+10	30:48:7	w	فَيَبۡسُطُهُۥ	ﲧ	فيبسطه	then He spreads them	fayabsuṭuhu
+11	30:48:8	w	فِي	ﲨ	في	in	fī
+11	30:48:9	w	ٱلسَّمَآءِ	ﲩ	السماء	the sky	l-samāi
+11	30:48:10	w	كَيۡفَ	ﲪ	كيف	how	kayfa
+11	30:48:11	w	يَشَآءُ	ﲫ	يشاء	He wills	yashāu
+11	30:48:12	w	وَيَجۡعَلُهُۥ	ﲬ	ويجعله	and He makes them	wayajʿaluhu
+11	30:48:13	w	كِسَفٗا	ﲭ	كسفا	fragments	kisafan
+11	30:48:14	w	فَتَرَى	ﲮ	فترى	so you see	fatarā
+11	30:48:15	w	ٱلۡوَدۡقَ	ﲯ	الودق	the rain	l-wadqa
+11	30:48:16	w	يَخۡرُجُ	ﲰ	يخرج	coming forth	yakhruju
+11	30:48:17	w	مِنۡ	ﲱ	من	from	min
+12	30:48:18	w	خِلَٰلِهِۦۖ	ﲲﲳ	خلاله	their midst	khilālihi
+12	30:48:19	w	فَإِذَآ	ﲴ	فاذا	Then when	fa-idhā
+12	30:48:20	w	أَصَابَ	ﲵ	اصاب	He causes it to fall on	aṣāba
+12	30:48:21	w	بِهِۦ	ﲶ	به	He causes it to fall on	bihi
+12	30:48:22	w	مَن	ﲷ	من	whom	man
+12	30:48:23	w	يَشَآءُ	ﲸ	يشاء	He wills	yashāu
+12	30:48:24	w	مِنۡ	ﲹ	من	of	min
+12	30:48:25	w	عِبَادِهِۦٓ	ﲺ	عباده	His slaves	ʿibādihi
+12	30:48:26	w	إِذَا	ﲻ	اذا	behold	idhā
+12	30:48:27	w	هُمۡ	ﲼ	هم	They	hum
+12	30:48:28	w	يَسۡتَبۡشِرُونَ	ﲽ	يستبشرون	rejoice	yastabshirūna
+13	30:48:29	e	٤٨	ﲾ			
+13	30:49:1	w	وَإِن	ﲿ	وان	And certainly	wa-in
+13	30:49:2	w	كَانُواْ	ﳀ	كانوا	they were	kānū
+13	30:49:3	w	مِن	ﳁ	من	before	min
+13	30:49:4	w	قَبۡلِ	ﳂ	قبل	before	qabli
+13	30:49:5	w	أَن	ﳃ	ان	[that]	an
+13	30:49:6	w	يُنَزَّلَ	ﳄ	ينزل	it was sent down	yunazzala
+13	30:49:7	w	عَلَيۡهِم	ﳅ	عليهم	upon them	ʿalayhim
+13	30:49:8	w	مِّن	ﳆ	من	[before it]	min
+13	30:49:9	w	قَبۡلِهِۦ	ﳇ	قبله	[before it]	qablihi
+13	30:49:10	w	لَمُبۡلِسِينَ	ﳈ	لمبلسين	surely in despair	lamub'lisīna
+14	30:49:11	e	٤٩	ﳉ			
+14	30:50:1	w	فَٱنظُرۡ	ﳊ	فانظر	So look	fa-unẓur
+14	30:50:2	w	إِلَىٰٓ	ﳋ	الى	at	ilā
+14	30:50:3	w	ءَاثَٰرِ	ﳌ	اثار	(the) effects	āthāri
+14	30:50:4	w	رَحۡمَتِ	ﳍ	رحمت	(of the) Mercy	raḥmati
+14	30:50:5	w	ٱللَّهِ	ﳎ	الله	(of) Allah	l-lahi
+14	30:50:6	w	كَيۡفَ	ﳏ	كيف	how	kayfa
+14	30:50:7	w	يُحۡيِ	ﳐ	يحيي	He gives life	yuḥ'yī
+14	30:50:8	w	ٱلۡأَرۡضَ	ﳑ	الارض	(to) the earth	l-arḍa
+14	30:50:9	w	بَعۡدَ	ﳒ	بعد	after	baʿda
+14	30:50:10	w	مَوۡتِهَآۚ	ﳓﳔ	موتها	its death	mawtihā
+15	30:50:11	w	إِنَّ	ﳕ	ان	Indeed	inna
+15	30:50:12	w	ذَٰلِكَ	ﳖ	ذالك	that	dhālika
+15	30:50:13	w	لَمُحۡيِ	ﳗ	لمحيي	surely He (will) give life	lamuḥ'yī
+15	30:50:14	w	ٱلۡمَوۡتَىٰۖ	ﳘﳙ	الموتى	(to) the dead	l-mawtā
+15	30:50:15	w	وَهُوَ	ﳚ	وهو	And He	wahuwa
+15	30:50:16	w	عَلَىٰ	ﳛ	على	(is) on	ʿalā
+15	30:50:17	w	كُلِّ	ﳜ	كل	every	kulli
+15	30:50:18	w	شَيۡءٖ	ﳝ	شيء	thing	shayin
+15	30:50:19	w	قَدِيرٞ	ﳞ	قدير	All-Powerful	qadīrun
+15	30:50:20	e	٥٠	ﳟ			

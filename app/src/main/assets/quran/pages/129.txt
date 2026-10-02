@@ -1,0 +1,142 @@
+1	6:9:1	w	وَلَوۡ	ﱁ	ولو	And if	walaw
+1	6:9:2	w	جَعَلۡنَٰهُ	ﱂ	جعلناه	We had made him	jaʿalnāhu
+1	6:9:3	w	مَلَكٗا	ﱃ	ملكا	an Angel	malakan
+1	6:9:4	w	لَّجَعَلۡنَٰهُ	ﱄ	لجعلناه	certainly We (would) have made him	lajaʿalnāhu
+1	6:9:5	w	رَجُلٗا	ﱅ	رجلا	a man	rajulan
+1	6:9:6	w	وَلَلَبَسۡنَا	ﱆ	وللبسنا	and certainly We (would) have obscured	walalabasnā
+1	6:9:7	w	عَلَيۡهِم	ﱇ	عليهم	to them	ʿalayhim
+1	6:9:8	w	مَّا	ﱈ	ما	what	mā
+2	6:9:9	w	يَلۡبِسُونَ	ﱉ	يلبسون	they are obscuring	yalbisūna
+2	6:9:10	e	٩	ﱊ			
+2	6:10:1	w	وَلَقَدِ	ﱋ	ولقد	And indeed	walaqadi
+2	6:10:2	w	ٱسۡتُهۡزِئَ	ﱌ	استهزي	were mocked	us'tuh'zi-a
+2	6:10:3	w	بِرُسُلٖ	ﱍ	برسل	Messengers	birusulin
+2	6:10:4	w	مِّن	ﱎ	من	from	min
+2	6:10:5	w	قَبۡلِكَ	ﱏ	قبلك	before you	qablika
+2	6:10:6	w	فَحَاقَ	ﱐ	فحاق	but surrounded	faḥāqa
+2	6:10:7	w	بِٱلَّذِينَ	ﱑ	بالذين	those who	bi-alladhīna
+3	6:10:8	w	سَخِرُواْ	ﱒ	سخروا	scoffed	sakhirū
+3	6:10:9	w	مِنۡهُم	ﱓ	منهم	of them	min'hum
+3	6:10:10	w	مَّا	ﱔ	ما	what	mā
+3	6:10:11	w	كَانُواْ	ﱕ	كانوا	they used to	kānū
+3	6:10:12	w	بِهِۦ	ﱖ	به	[at it]	bihi
+3	6:10:13	w	يَسۡتَهۡزِءُونَ	ﱗ	يستهزيون	mock	yastahziūna
+3	6:10:14	e	١٠	ﱘ			
+3	6:11:1	w	قُلۡ	ﱙ	قل	Say	qul
+3	6:11:2	w	سِيرُواْ	ﱚ	سيروا	Travel	sīrū
+4	6:11:3	w	فِي	ﱛ	في	in	fī
+4	6:11:4	w	ٱلۡأَرۡضِ	ﱜ	الارض	the earth	l-arḍi
+4	6:11:5	w	ثُمَّ	ﱝ	ثم	and	thumma
+4	6:11:6	w	ٱنظُرُواْ	ﱞ	انظروا	see	unẓurū
+4	6:11:7	w	كَيۡفَ	ﱟ	كيف	how	kayfa
+4	6:11:8	w	كَانَ	ﱠ	كان	was	kāna
+4	6:11:9	w	عَٰقِبَةُ	ﱡ	عاقبة	(the) end	ʿāqibatu
+4	6:11:10	w	ٱلۡمُكَذِّبِينَ	ﱢ	المكذبين	(of) the rejecters	l-mukadhibīna
+5	6:11:11	e	١١	ﱣ			
+5	6:12:1	w	قُل	ﱤ	قل	Say	qul
+5	6:12:2	w	لِّمَن	ﱥ	لمن	To whom (belongs)	liman
+5	6:12:3	w	مَّا	ﱦ	ما	what	mā
+5	6:12:4	w	فِي	ﱧ	في	(is) in	fī
+5	6:12:5	w	ٱلسَّمَٰوَٰتِ	ﱨ	السماوات	the heavens	l-samāwāti
+5	6:12:6	w	وَٱلۡأَرۡضِۖ	ﱩﱪ	والارض	and the earth	wal-arḍi
+5	6:12:7	w	قُل	ﱫ	قل	Say	qul
+5	6:12:8	w	لِّلَّهِۚ	ﱬﱭ	لله	To Allah	lillahi
+5	6:12:9	w	كَتَبَ	ﱮ	كتب	He has decreed	kataba
+5	6:12:10	w	عَلَىٰ	ﱯ	على	upon	ʿalā
+6	6:12:11	w	نَفۡسِهِ	ﱰ	نفسه	Himself	nafsihi
+6	6:12:12	w	ٱلرَّحۡمَةَۚ	ﱱﱲ	الرحمة	the Mercy	l-raḥmata
+6	6:12:13	w	لَيَجۡمَعَنَّكُمۡ	ﱳ	ليجمعنكم	Surely He will assemble you	layajmaʿannakum
+6	6:12:14	w	إِلَىٰ	ﱴ	الى	on	ilā
+6	6:12:15	w	يَوۡمِ	ﱵ	يوم	(the) Day	yawmi
+6	6:12:16	w	ٱلۡقِيَٰمَةِ	ﱶ	القيامة	(of) the Resurrection	l-qiyāmati
+6	6:12:17	w	لَا	ﱷ	لا	(there is) no	lā
+6	6:12:18	w	رَيۡبَ	ﱸ	ريب	doubt	rayba
+7	6:12:19	w	فِيهِۚ	ﱹﱺ	فيه	about it	fīhi
+7	6:12:20	w	ٱلَّذِينَ	ﱻ	الذين	Those who	alladhīna
+7	6:12:21	w	خَسِرُوٓاْ	ﱼ	خسروا	have lost	khasirū
+7	6:12:22	w	أَنفُسَهُمۡ	ﱽ	انفسهم	themselves	anfusahum
+7	6:12:23	w	فَهُمۡ	ﱾ	فهم	then they	fahum
+7	6:12:24	w	لَا	ﱿ	لا	(do) not	lā
+7	6:12:25	w	يُؤۡمِنُونَ	ﲀ	يومنون	believe	yu'minūna
+7	6:12:26	e	١٢	ﲁ			
+7	6:13:1	w	۞ وَلَهُۥ	ﲂ ﲃ	۞ وله	And for Him	walahu
+8	6:13:2	w	مَا	ﲄ	ما	(is) whatever	mā
+8	6:13:3	w	سَكَنَ	ﲅ	سكن	dwells	sakana
+8	6:13:4	w	فِي	ﲆ	في	in	fī
+8	6:13:5	w	ٱلَّيۡلِ	ﲇ	الليل	the night	al-layli
+8	6:13:6	w	وَٱلنَّهَارِۚ	ﲈﲉ	والنهار	and the day	wal-nahāri
+8	6:13:7	w	وَهُوَ	ﲊ	وهو	and He	wahuwa
+8	6:13:8	w	ٱلسَّمِيعُ	ﲋ	السميع	(is) All-Hearing	l-samīʿu
+8	6:13:9	w	ٱلۡعَلِيمُ	ﲌ	العليم	All-Knowing	l-ʿalīmu
+8	6:13:10	e	١٣	ﲍ			
+8	6:14:1	w	قُلۡ	ﲎ	قل	Say	qul
+9	6:14:2	w	أَغَيۡرَ	ﲏ	اغير	Is it other than	aghayra
+9	6:14:3	w	ٱللَّهِ	ﲐ	الله	Allah	l-lahi
+9	6:14:4	w	أَتَّخِذُ	ﲑ	اتخذ	I (should) take	attakhidhu
+9	6:14:5	w	وَلِيّٗا	ﲒ	وليا	(as) a protector	waliyyan
+9	6:14:6	w	فَاطِرِ	ﲓ	فاطر	Creator	fāṭiri
+9	6:14:7	w	ٱلسَّمَٰوَٰتِ	ﲔ	السماوات	(of) the heavens	l-samāwāti
+9	6:14:8	w	وَٱلۡأَرۡضِ	ﲕ	والارض	and the earth	wal-arḍi
+9	6:14:9	w	وَهُوَ	ﲖ	وهو	while (it is) He	wahuwa
+10	6:14:10	w	يُطۡعِمُ	ﲗ	يطعم	Who feeds	yuṭ'ʿimu
+10	6:14:11	w	وَلَا	ﲘ	ولا	and not	walā
+10	6:14:12	w	يُطۡعَمُۗ	ﲙﲚ	يطعم	He is fed	yuṭ'ʿamu
+10	6:14:13	w	قُلۡ	ﲛ	قل	Say	qul
+10	6:14:14	w	إِنِّيٓ	ﲜ	اني	Indeed I	innī
+10	6:14:15	w	أُمِرۡتُ	ﲝ	امرت	[I] am commanded	umir'tu
+10	6:14:16	w	أَنۡ	ﲞ	ان	that	an
+10	6:14:17	w	أَكُونَ	ﲟ	اكون	I be	akūna
+10	6:14:18	w	أَوَّلَ	ﲠ	اول	(the) first	awwala
+10	6:14:19	w	مَنۡ	ﲡ	من	who	man
+10	6:14:20	w	أَسۡلَمَۖ	ﲢﲣ	اسلم	submits (to Allah)	aslama
+11	6:14:21	w	وَلَا	ﲤ	ولا	and not	walā
+11	6:14:22	w	تَكُونَنَّ	ﲥ	تكونن	be	takūnanna
+11	6:14:23	w	مِنَ	ﲦ	من	of	mina
+11	6:14:24	w	ٱلۡمُشۡرِكِينَ	ﲧ	المشركين	the polytheists	l-mush'rikīna
+11	6:14:25	e	١٤	ﲨ			
+11	6:15:1	w	قُلۡ	ﲩ	قل	Say	qul
+11	6:15:2	w	إِنِّيٓ	ﲪ	اني	Indeed, I	innī
+11	6:15:3	w	أَخَافُ	ﲫ	اخاف	[I] fear	akhāfu
+11	6:15:4	w	إِنۡ	ﲬ	ان	if	in
+11	6:15:5	w	عَصَيۡتُ	ﲭ	عصيت	I disobeyed	ʿaṣaytu
+12	6:15:6	w	رَبِّي	ﲮ	ربي	my Lord	rabbī
+12	6:15:7	w	عَذَابَ	ﲯ	عذاب	punishment	ʿadhāba
+12	6:15:8	w	يَوۡمٍ	ﲰ	يوم	(of) a Day	yawmin
+12	6:15:9	w	عَظِيمٖ	ﲱ	عظيم	Mighty	ʿaẓīmin
+12	6:15:10	e	١٥	ﲲ			
+12	6:16:1	w	مَّن	ﲳ	من	Whoever	man
+12	6:16:2	w	يُصۡرَفۡ	ﲴ	يصرف	is averted	yuṣ'raf
+12	6:16:3	w	عَنۡهُ	ﲵ	عنه	from it	ʿanhu
+12	6:16:4	w	يَوۡمَئِذٖ	ﲶ	يوميذ	that Day	yawma-idhin
+12	6:16:5	w	فَقَدۡ	ﲷ	فقد	then surely	faqad
+12	6:16:6	w	رَحِمَهُۥۚ	ﲸﲹ	رحمه	He had Mercy on him	raḥimahu
+13	6:16:7	w	وَذَٰلِكَ	ﲺ	وذالك	And that	wadhālika
+13	6:16:8	w	ٱلۡفَوۡزُ	ﲻ	الفوز	(is) the success	l-fawzu
+13	6:16:9	w	ٱلۡمُبِينُ	ﲼ	المبين	(the) clear	l-mubīnu
+13	6:16:10	e	١٦	ﲽ			
+13	6:17:1	w	وَإِن	ﲾ	وان	And if	wa-in
+13	6:17:2	w	يَمۡسَسۡكَ	ﲿ	يمسسك	touches you	yamsaska
+13	6:17:3	w	ٱللَّهُ	ﳀ	الله	Allah	l-lahu
+13	6:17:4	w	بِضُرّٖ	ﳁ	بضر	with affliction	biḍurrin
+13	6:17:5	w	فَلَا	ﳂ	فلا	then no	falā
+13	6:17:6	w	كَاشِفَ	ﳃ	كاشف	remover	kāshifa
+14	6:17:7	w	لَهُۥٓ	ﳄ	له	of it	lahu
+14	6:17:8	w	إِلَّا	ﳅ	الا	except	illā
+14	6:17:9	w	هُوَۖ	ﳆﳇ	هو	Him	huwa
+14	6:17:10	w	وَإِن	ﳈ	وان	And if	wa-in
+14	6:17:11	w	يَمۡسَسۡكَ	ﳉ	يمسسك	He touches you	yamsaska
+14	6:17:12	w	بِخَيۡرٖ	ﳊ	بخير	with good	bikhayrin
+14	6:17:13	w	فَهُوَ	ﳋ	فهو	then He	fahuwa
+14	6:17:14	w	عَلَىٰ	ﳌ	على	(is) on	ʿalā
+14	6:17:15	w	كُلِّ	ﳍ	كل	every	kulli
+14	6:17:16	w	شَيۡءٖ	ﳎ	شيء	thing	shayin
+14	6:17:17	w	قَدِيرٞ	ﳏ	قدير	All-Powerful	qadīrun
+15	6:17:18	e	١٧	ﳐ			
+15	6:18:1	w	وَهُوَ	ﳑ	وهو	And He	wahuwa
+15	6:18:2	w	ٱلۡقَاهِرُ	ﳒ	القاهر	(is) the Subjugator	l-qāhiru
+15	6:18:3	w	فَوۡقَ	ﳓ	فوق	over	fawqa
+15	6:18:4	w	عِبَادِهِۦۚ	ﳔﳕ	عباده	His slaves	ʿibādihi
+15	6:18:5	w	وَهُوَ	ﳖ	وهو	And He	wahuwa
+15	6:18:6	w	ٱلۡحَكِيمُ	ﳗ	الحكيم	(is) the All-Wise	l-ḥakīmu
+15	6:18:7	w	ٱلۡخَبِيرُ	ﳘ	الخبير	the All-Aware	l-khabīru
+15	6:18:8	e	١٨	ﳙ			

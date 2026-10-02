@@ -1,0 +1,287 @@
+package org.mushaf.app.feature.mushaf
+
+import android.app.Activity
+import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.scaleIn
+import androidx.compose.animation.scaleOut
+import androidx.compose.animation.slideInVertically
+import androidx.compose.animation.slideOutVertically
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.BoxWithConstraints
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.WindowInsets
+import androidx.compose.foundation.layout.asPaddingValues
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.navigationBarsPadding
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.systemBarsIgnoringVisibility
+import androidx.compose.foundation.layout.displayCutout
+import androidx.compose.foundation.layout.union
+import androidx.compose.foundation.pager.HorizontalPager
+import androidx.compose.foundation.pager.rememberPagerState
+import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.runtime.DisposableEffect
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.produceState
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.saveable.rememberSaveable
+import androidx.compose.runtime.setValue
+import androidx.compose.runtime.snapshotFlow
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalLayoutDirection
+import androidx.compose.ui.platform.LocalView
+import androidx.compose.ui.res.fontResource
+import androidx.compose.ui.text.font.Font
+import androidx.compose.ui.text.font.FontFamily
+import androidx.compose.ui.unit.LayoutDirection
+import androidx.compose.ui.unit.dp
+import androidx.core.view.WindowCompat
+import androidx.core.view.WindowInsetsCompat
+import androidx.core.view.WindowInsetsControllerCompat
+import kotlinx.coroutines.flow.distinctUntilChanged
+import kotlinx.coroutines.launch
+import org.koin.compose.koinInject
+import org.mushaf.app.R
+import org.mushaf.app.core.quran.AyahKey
+import org.mushaf.app.core.quran.MushafPage
+import org.mushaf.app.core.quran.PAGES
+import org.mushaf.app.core.quran.Word
+import org.mushaf.app.data.quran.PageFonts
+import org.mushaf.app.data.quran.Quran
+import org.mushaf.app.data.settings.SettingsStore
+import org.mushaf.app.ui.component.FloatingAction
+import org.mushaf.app.ui.component.FloatingFrame
+import org.mushaf.app.ui.component.FloatingPane
+import org.mushaf.app.ui.component.FloatingTop
+import org.mushaf.app.ui.component.rememberHaptics
+import org.mushaf.app.ui.icon.AppIcons
+
+/**
+ * The mushaf: its pages fill the window, turned from right to left. A tap
+ * shows the glass over them (where the reader is, the index, settings) or
+ * hides it with the system bars; a long press on a word opens its ayah.
+ * On a wide window two pages face each other, as in a book.
+ */
+@OptIn(ExperimentalLayoutApi::class)
+@Composable
+fun MushafScreen(onOpenIndex: () -> Unit, onOpenSettings: () -> Unit) {
+    val quran: Quran = koinInject()
+    val fonts: PageFonts = koinInject()
+    val reader: Reader = koinInject()
+    val store: SettingsStore = koinInject()
+    val settings by store.settings.collectAsState()
+    val haptics = rememberHaptics()
+    val scope = rememberCoroutineScope()
+
+    val hafs = remember { FontFamily(Font(R.font.uthmanic_hafs)) }
+    val arrived by fonts.arrived.collectAsState()
+    val marked by reader.marked.collectAsState()
+    val meta by produceState(quran.metaNow, quran) { value = quran.meta() }
+
+    var chrome by rememberSaveable { mutableStateOf(true) }
+    var opened by remember { mutableStateOf<Word?>(null) }
+
+    KeepScreenOn(settings.keepScreenOn)
+    SystemBars(visible = chrome || opened != null)
+
+    BoxWithConstraints(Modifier.fillMaxSize()) {
+        val spread = settings.twoPages && maxWidth > maxHeight && maxWidth >= 700.dp
+        val perItem = if (spread) 2 else 1
+        val count = if (spread) PAGES / 2 else PAGES
+        val startPage = reader.page.value
+        val pager = rememberPagerState(initialPage = (startPage - 1) / perItem) { count }
+        val current = pager.currentPage * perItem + 1
+
+        // The page shown is remembered; the fonts of the pages around it are fetched ahead.
+        LaunchedEffect(pager, perItem) {
+            snapshotFlow { pager.currentPage }.distinctUntilChanged().collect { item ->
+                val first = item * perItem + 1
+                reader.shown(first)
+                fonts.prefetch(settings.script, (first - 2)..(first + perItem + 2))
+            }
+        }
+        // A page asked for by the index or a search.
+        val goTo by reader.goTo.collectAsState()
+        LaunchedEffect(goTo, perItem) {
+            val target = goTo ?: return@LaunchedEffect
+            pager.scrollToPage((target - 1) / perItem)
+            reader.wentTo()
+        }
+        // The mark of a jump stays until the reader turns the page.
+        LaunchedEffect(pager) {
+            snapshotFlow { pager.currentPage }.distinctUntilChanged().collect {
+                if (marked != null && reader.goTo.value == null) reader.unmark()
+            }
+        }
+
+        FloatingFrame(
+            bottom = 0.dp,
+            top = {
+                AnimatedVisibility(
+                    visible = chrome,
+                    enter = fadeIn() + slideInVertically { -it / 2 },
+                    exit = fadeOut() + slideOutVertically { -it / 2 }
+                ) {
+                    val surah = meta?.let { m -> pageSurah(m.pageStart, current)?.let { m.surahs[it - 1] } }
+                    FloatingTop(
+                        title = null,
+                        leading = { FloatingAction(AppIcons.MenuBook, "Index", onOpenIndex) },
+                        trailing = { FloatingAction(AppIcons.Settings, "Settings", onOpenSettings) },
+                        center = {
+                            FloatingPane(shape = CircleShape, onClick = { haptics.tick(); onOpenIndex() }) {
+                                Text(
+                                    surah?.name ?: " ",
+                                    style = MaterialTheme.typography.titleMedium,
+                                    maxLines = 1,
+                                    modifier = Modifier.padding(horizontal = 18.dp, vertical = 10.dp)
+                                )
+                            }
+                        }
+                    )
+                }
+            },
+            overlay = {
+                AnimatedVisibility(
+                    visible = chrome && opened == null,
+                    enter = fadeIn() + scaleIn(initialScale = 0.9f),
+                    exit = fadeOut() + scaleOut(targetScale = 0.9f),
+                    modifier = Modifier.align(Alignment.BottomCenter).navigationBarsPadding().padding(bottom = 16.dp)
+                ) {
+                    val juz = meta?.juz?.lastOrNull { it.page <= current }?.n
+                    val quarter = meta?.quarters?.lastOrNull { it.page <= current }?.n
+                    PagePill(current, if (spread) current + 1 else null, juz, quarter)
+                }
+                AnimatedVisibility(
+                    visible = opened != null,
+                    enter = fadeIn() + slideInVertically { it / 2 },
+                    exit = fadeOut() + slideOutVertically { it / 2 },
+                    modifier = Modifier.align(Alignment.BottomCenter)
+                ) {
+                    var last by remember { mutableStateOf(opened) }
+                    opened?.let { last = it }
+                    last?.let { word -> AyahSheet(word, hafs, onClose = { opened = null }) }
+                }
+            }
+        ) { _ ->
+            // The pages keep clear of the system bars even when those are hidden,
+            // so a page never moves when the glass comes and goes.
+            val bars = WindowInsets.systemBarsIgnoringVisibility.union(WindowInsets.displayCutout).asPaddingValues()
+            CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Rtl) {
+                HorizontalPager(
+                    state = pager,
+                    beyondViewportPageCount = 1,
+                    modifier = Modifier.fillMaxSize()
+                ) { item ->
+                    CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Ltr) {
+                        Row(
+                            Modifier
+                                .fillMaxSize()
+                                .padding(bars)
+                                .padding(horizontal = if (spread) 24.dp else 12.dp, vertical = 8.dp),
+                            horizontalArrangement = Arrangement.spacedBy(32.dp)
+                        ) {
+                            // Right to left: the odd page on the right, as in a printed mushaf.
+                            val numbers = if (spread) listOf(item * 2 + 2, item * 2 + 1) else listOf(item + 1)
+                            for (n in numbers) {
+                                Box(Modifier.weight(1f).fillMaxSize()) {
+                                    val page by produceState<MushafPage?>(null, n) { value = quran.page(n) }
+                                    val shown = page
+                                    if (shown != null) {
+                                        // Read again when a font arrives.
+                                        val print = remember(n, settings.script, arrived) {
+                                            if (settings.script.usable) fonts.family(settings.script, n) else null
+                                        }
+                                        PageView(
+                                            page = shown,
+                                            print = print,
+                                            hafs = hafs,
+                                            titles = { s -> meta?.surahs?.getOrNull(s - 1)?.arabic.orEmpty() },
+                                            marked = marked ?: opened?.key,
+                                            playing = null,
+                                            show = { WordShow.ALL },
+                                            onTap = {
+                                                if (opened != null) opened = null else chrome = !chrome
+                                            },
+                                            onLongPress = { w ->
+                                                haptics.firm()
+                                                opened = w
+                                            }
+                                        )
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+/** The surah the page starts in. */
+private fun pageSurah(pageStart: List<String>, page: Int): Int? =
+    pageStart.getOrNull(page - 1)?.let { AyahKey.parse(it)?.surah }
+
+@Composable
+private fun PagePill(page: Int, second: Int?, juz: Int?, quarter: Int?) {
+    FloatingPane(shape = CircleShape) {
+        val pages = if (second != null) "Pages $page–$second" else "Page $page"
+        val place = buildList {
+            juz?.let { add("Juz $it") }
+            quarter?.let { add(hizbLabel(it)) }
+        }.joinToString(" · ")
+        Text(
+            if (place.isEmpty()) pages else "$pages · $place",
+            style = MaterialTheme.typography.labelLarge,
+            modifier = Modifier.padding(horizontal = 18.dp, vertical = 10.dp)
+        )
+    }
+}
+
+/** "Hizb 3", "¼ Hizb 3", "½ Hizb 3", "¾ Hizb 3" for quarter n of 240. */
+fun hizbLabel(quarter: Int): String {
+    val hizb = (quarter - 1) / 4 + 1
+    return when ((quarter - 1) % 4) {
+        0 -> "Hizb $hizb"
+        1 -> "¼ Hizb $hizb"
+        2 -> "½ Hizb $hizb"
+        else -> "¾ Hizb $hizb"
+    }
+}
+
+@Composable
+private fun KeepScreenOn(on: Boolean) {
+    val view = LocalView.current
+    DisposableEffect(on) {
+        view.keepScreenOn = on
+        onDispose { view.keepScreenOn = false }
+    }
+}
+
+/** The status and navigation bars follow the glass: hidden with it, back with a swipe. */
+@Composable
+private fun SystemBars(visible: Boolean) {
+    val view = LocalView.current
+    DisposableEffect(visible) {
+        val window = (view.context as? Activity)?.window
+        val controller = window?.let { WindowCompat.getInsetsController(it, view) }
+        controller?.systemBarsBehavior = WindowInsetsControllerCompat.BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE
+        if (visible) controller?.show(WindowInsetsCompat.Type.systemBars())
+        else controller?.hide(WindowInsetsCompat.Type.systemBars())
+        onDispose { controller?.show(WindowInsetsCompat.Type.systemBars()) }
+    }
+}

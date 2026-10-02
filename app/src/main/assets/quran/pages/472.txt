@@ -1,0 +1,134 @@
+1	40:41:1	w	۞ وَيَٰقَوۡمِ	ﱁ ﱂ	۞ ويا قوم	And O my people	wayāqawmi
+1	40:41:2	w	مَا	ﱃ	ما	What (is)	mā
+1	40:41:3	w	لِيٓ	ﱄ	لي	for me	lī
+1	40:41:4	w	أَدۡعُوكُمۡ	ﱅ	ادعوكم	(that) I call you	adʿūkum
+1	40:41:5	w	إِلَى	ﱆ	الى	to	ilā
+1	40:41:6	w	ٱلنَّجَوٰةِ	ﱇ	النجاة	the salvation	l-najati
+1	40:41:7	w	وَتَدۡعُونَنِيٓ	ﱈ	وتدعونني	while you call me	watadʿūnanī
+1	40:41:8	w	إِلَى	ﱉ	الى	to	ilā
+1	40:41:9	w	ٱلنَّارِ	ﱊ	النار	the Fire	l-nāri
+2	40:41:10	e	٤١	ﱋ			
+2	40:42:1	w	تَدۡعُونَنِي	ﱌ	تدعونني	You call me	tadʿūnanī
+2	40:42:2	w	لِأَكۡفُرَ	ﱍ	لاكفر	that I disbelieve	li-akfura
+2	40:42:3	w	بِٱللَّهِ	ﱎ	بالله	in Allah	bil-lahi
+2	40:42:4	w	وَأُشۡرِكَ	ﱏ	واشرك	and (to) associate	wa-ush'rika
+2	40:42:5	w	بِهِۦ	ﱐ	به	with Him	bihi
+2	40:42:6	w	مَا	ﱑ	ما	what	mā
+2	40:42:7	w	لَيۡسَ	ﱒ	ليس	not	laysa
+2	40:42:8	w	لِي	ﱓ	لي	for me	lī
+2	40:42:9	w	بِهِۦ	ﱔ	به	of it	bihi
+3	40:42:10	w	عِلۡمٞ	ﱕ	علم	any knowledge	ʿil'mun
+3	40:42:11	w	وَأَنَا۠	ﱖ	وانا	and I	wa-anā
+3	40:42:12	w	أَدۡعُوكُمۡ	ﱗ	ادعوكم	call you	adʿūkum
+3	40:42:13	w	إِلَى	ﱘ	الى	to	ilā
+3	40:42:14	w	ٱلۡعَزِيزِ	ﱙ	العزيز	the All-Mighty	l-ʿazīzi
+3	40:42:15	w	ٱلۡغَفَّٰرِ	ﱚ	الغفار	the Oft-Forgiving	l-ghafāri
+3	40:42:16	e	٤٢	ﱛ			
+3	40:43:1	w	لَا	ﱜ	لا	No	lā
+3	40:43:2	w	جَرَمَ	ﱝ	جرم	doubt	jarama
+3	40:43:3	w	أَنَّمَا	ﱞ	انما	that what	annamā
+4	40:43:4	w	تَدۡعُونَنِيٓ	ﱟ	تدعونني	you call me	tadʿūnanī
+4	40:43:5	w	إِلَيۡهِ	ﱠ	اليه	to it	ilayhi
+4	40:43:6	w	لَيۡسَ	ﱡ	ليس	not	laysa
+4	40:43:7	w	لَهُۥ	ﱢ	له	for it	lahu
+4	40:43:8	w	دَعۡوَةٞ	ﱣ	دعوة	a claim	daʿwatun
+4	40:43:9	w	فِي	ﱤ	في	in	fī
+4	40:43:10	w	ٱلدُّنۡيَا	ﱥ	الدنيا	the world	l-dun'yā
+4	40:43:11	w	وَلَا	ﱦ	ولا	and not	walā
+4	40:43:12	w	فِي	ﱧ	في	in	fī
+4	40:43:13	w	ٱلۡأٓخِرَةِ	ﱨ	الاخرة	the Hereafter	l-ākhirati
+5	40:43:14	w	وَأَنَّ	ﱩ	وان	and that	wa-anna
+5	40:43:15	w	مَرَدَّنَآ	ﱪ	مردنا	our return	maraddanā
+5	40:43:16	w	إِلَى	ﱫ	الى	(is) to	ilā
+5	40:43:17	w	ٱللَّهِ	ﱬ	الله	Allah	l-lahi
+5	40:43:18	w	وَأَنَّ	ﱭ	وان	and that	wa-anna
+5	40:43:19	w	ٱلۡمُسۡرِفِينَ	ﱮ	المسرفين	the transgressors	l-mus'rifīna
+5	40:43:20	w	هُمۡ	ﱯ	هم	they	hum
+5	40:43:21	w	أَصۡحَٰبُ	ﱰ	اصحاب	(will be the) companions	aṣḥābu
+5	40:43:22	w	ٱلنَّارِ	ﱱ	النار	(of) the Fire	l-nāri
+6	40:43:23	e	٤٣	ﱲ			
+6	40:44:1	w	فَسَتَذۡكُرُونَ	ﱳ	فستذكرون	And you will remember	fasatadhkurūna
+6	40:44:2	w	مَآ	ﱴ	ما	what	mā
+6	40:44:3	w	أَقُولُ	ﱵ	اقول	I say	aqūlu
+6	40:44:4	w	لَكُمۡۚ	ﱶﱷ	لكم	to you	lakum
+6	40:44:5	w	وَأُفَوِّضُ	ﱸ	وافوض	and I entrust	wa-ufawwiḍu
+6	40:44:6	w	أَمۡرِيٓ	ﱹ	امري	my affair	amrī
+6	40:44:7	w	إِلَى	ﱺ	الى	to	ilā
+6	40:44:8	w	ٱللَّهِۚ	ﱻﱼ	الله	Allah	l-lahi
+7	40:44:9	w	إِنَّ	ﱽ	ان	Indeed	inna
+7	40:44:10	w	ٱللَّهَ	ﱾ	الله	Allah	l-laha
+7	40:44:11	w	بَصِيرُۢ	ﱿ	بصير	(is) All-Seer	baṣīrun
+7	40:44:12	w	بِٱلۡعِبَادِ	ﲀ	بالعباد	of (His) slaves	bil-ʿibādi
+7	40:44:13	e	٤٤	ﲁ			
+7	40:45:1	w	فَوَقَىٰهُ	ﲂ	فوقاه	So Allah protected him	fawaqāhu
+7	40:45:2	w	ٱللَّهُ	ﲃ	الله	So Allah protected him	l-lahu
+7	40:45:3	w	سَيِّـَٔاتِ	ﲄ	سييات	(from the) evils	sayyiāti
+7	40:45:4	w	مَا	ﲅ	ما	that	mā
+7	40:45:5	w	مَكَرُواْۖ	ﲆﲇ	مكروا	they plotted	makarū
+8	40:45:6	w	وَحَاقَ	ﲈ	وحاق	and enveloped	waḥāqa
+8	40:45:7	w	بِـَٔالِ	ﲉ	بال	(the) people	biāli
+8	40:45:8	w	فِرۡعَوۡنَ	ﲊ	فرعون	(of) Firaun	fir'ʿawna
+8	40:45:9	w	سُوٓءُ	ﲋ	سوء	(the) worst	sūu
+8	40:45:10	w	ٱلۡعَذَابِ	ﲌ	العذاب	punishment	l-ʿadhābi
+8	40:45:11	e	٤٥	ﲍ			
+8	40:46:1	w	ٱلنَّارُ	ﲎ	النار	The Fire	al-nāru
+8	40:46:2	w	يُعۡرَضُونَ	ﲏ	يعرضون	they are exposed	yuʿ'raḍūna
+9	40:46:3	w	عَلَيۡهَا	ﲐ	عليها	to it	ʿalayhā
+9	40:46:4	w	غُدُوّٗا	ﲑ	غدوا	morning	ghuduwwan
+9	40:46:5	w	وَعَشِيّٗاۚ	ﲒﲓ	وعشيا	and evening	waʿashiyyan
+9	40:46:6	w	وَيَوۡمَ	ﲔ	ويوم	And (the) Day	wayawma
+9	40:46:7	w	تَقُومُ	ﲕ	تقوم	(will be) established	taqūmu
+9	40:46:8	w	ٱلسَّاعَةُ	ﲖ	الساعة	the Hour	l-sāʿatu
+9	40:46:9	w	أَدۡخِلُوٓاْ	ﲗ	ادخلوا	Cause to enter	adkhilū
+9	40:46:10	w	ءَالَ	ﲘ	ال	(the) people	āla
+10	40:46:11	w	فِرۡعَوۡنَ	ﲙ	فرعون	(of) Firaun	fir'ʿawna
+10	40:46:12	w	أَشَدَّ	ﲚ	اشد	(in the) severest	ashadda
+10	40:46:13	w	ٱلۡعَذَابِ	ﲛ	العذاب	punishment	l-ʿadhābi
+10	40:46:14	e	٤٦	ﲜ			
+10	40:47:1	w	وَإِذۡ	ﲝ	واذ	And when	wa-idh
+10	40:47:2	w	يَتَحَآجُّونَ	ﲞ	يتحاجون	they will dispute	yataḥājjūna
+10	40:47:3	w	فِي	ﲟ	في	in	fī
+10	40:47:4	w	ٱلنَّارِ	ﲠ	النار	the Fire	l-nāri
+11	40:47:5	w	فَيَقُولُ	ﲡ	فيقول	then will say	fayaqūlu
+11	40:47:6	w	ٱلضُّعَفَٰٓؤُاْ	ﲢ	الضعفاء	the weak	l-ḍuʿafāu
+11	40:47:7	w	لِلَّذِينَ	ﲣ	للذين	to those who	lilladhīna
+11	40:47:8	w	ٱسۡتَكۡبَرُوٓاْ	ﲤ	استكبروا	were arrogant	is'takbarū
+11	40:47:9	w	إِنَّا	ﲥ	انا	Indeed, we	innā
+11	40:47:10	w	كُنَّا	ﲦ	كنا	[we] were	kunnā
+11	40:47:11	w	لَكُمۡ	ﲧ	لكم	for you	lakum
+12	40:47:12	w	تَبَعٗا	ﲨ	تبعا	followers	tabaʿan
+12	40:47:13	w	فَهَلۡ	ﲩ	فهل	so can	fahal
+12	40:47:14	w	أَنتُم	ﲪ	انتم	you	antum
+12	40:47:15	w	مُّغۡنُونَ	ﲫ	مغنون	avert	mugh'nūna
+12	40:47:16	w	عَنَّا	ﲬ	عنا	from us	ʿannā
+12	40:47:17	w	نَصِيبٗا	ﲭ	نصيبا	a portion	naṣīban
+12	40:47:18	w	مِّنَ	ﲮ	من	of	mina
+12	40:47:19	w	ٱلنَّارِ	ﲯ	النار	the Fire	l-nāri
+12	40:47:20	e	٤٧	ﲰ			
+12	40:48:1	w	قَالَ	ﲱ	قال	Will say	qāla
+13	40:48:2	w	ٱلَّذِينَ	ﲲ	الذين	those who	alladhīna
+13	40:48:3	w	ٱسۡتَكۡبَرُوٓاْ	ﲳ	استكبروا	(were) arrogant	is'takbarū
+13	40:48:4	w	إِنَّا	ﲴ	انا	Indeed, we	innā
+13	40:48:5	w	كُلّٞ	ﲵ	كل	all	kullun
+13	40:48:6	w	فِيهَآ	ﲶ	فيها	(are) in it	fīhā
+13	40:48:7	w	إِنَّ	ﲷ	ان	Indeed	inna
+13	40:48:8	w	ٱللَّهَ	ﲸ	الله	Allah	l-laha
+13	40:48:9	w	قَدۡ	ﲹ	قد	certainly	qad
+13	40:48:10	w	حَكَمَ	ﲺ	حكم	has judged	ḥakama
+14	40:48:11	w	بَيۡنَ	ﲻ	بين	between	bayna
+14	40:48:12	w	ٱلۡعِبَادِ	ﲼ	العباد	(His) slaves	l-ʿibādi
+14	40:48:13	e	٤٨	ﲽ			
+14	40:49:1	w	وَقَالَ	ﲾ	وقال	And will say	waqāla
+14	40:49:2	w	ٱلَّذِينَ	ﲿ	الذين	those	alladhīna
+14	40:49:3	w	فِي	ﳀ	في	in	fī
+14	40:49:4	w	ٱلنَّارِ	ﳁ	النار	the Fire	l-nāri
+14	40:49:5	w	لِخَزَنَةِ	ﳂ	لخزنة	to (the) keepers	likhazanati
+14	40:49:6	w	جَهَنَّمَ	ﳃ	جهنم	(of) Hell	jahannama
+15	40:49:7	w	ٱدۡعُواْ	ﳄ	ادعوا	Call	id'ʿū
+15	40:49:8	w	رَبَّكُمۡ	ﳅ	ربكم	your Lord	rabbakum
+15	40:49:9	w	يُخَفِّفۡ	ﳆ	يخفف	(to) lighten	yukhaffif
+15	40:49:10	w	عَنَّا	ﳇ	عنا	for us	ʿannā
+15	40:49:11	w	يَوۡمٗا	ﳈ	يوما	a day	yawman
+15	40:49:12	w	مِّنَ	ﳉ	من	of	mina
+15	40:49:13	w	ٱلۡعَذَابِ	ﳊ	العذاب	the punishment	l-ʿadhābi
+15	40:49:14	e	٤٩	ﳋ			

@@ -1,0 +1,128 @@
+2	23:1:1	w	قَدۡ	ﱁ	قد	Indeed	qad
+2	23:1:2	w	أَفۡلَحَ	ﱂ	افلح	successful	aflaḥa
+2	23:1:3	w	ٱلۡمُؤۡمِنُونَ	ﱃ	المومنون	(are) the believers	l-mu'minūna
+2	23:1:4	e	١	ﱄ			
+2	23:2:1	w	ٱلَّذِينَ	ﱅ	الذين	Those who	alladhīna
+2	23:2:2	w	هُمۡ	ﱆ	هم	[they]	hum
+2	23:2:3	w	فِي	ﱇ	في	during	fī
+2	23:2:4	w	صَلَاتِهِمۡ	ﱈ	صلاتهم	their prayers	ṣalātihim
+2	23:2:5	w	خَٰشِعُونَ	ﱉ	خاشعون	(are) humbly submissive	khāshiʿūna
+3	23:2:6	e	٢	ﱊ			
+3	23:3:1	w	وَٱلَّذِينَ	ﱋ	والذين	Those who	wa-alladhīna
+3	23:3:2	w	هُمۡ	ﱌ	هم	[they]	hum
+3	23:3:3	w	عَنِ	ﱍ	عن	from	ʿani
+3	23:3:4	w	ٱللَّغۡوِ	ﱎ	اللغو	the vain talk	l-laghwi
+3	23:3:5	w	مُعۡرِضُونَ	ﱏ	معرضون	turn away	muʿ'riḍūna
+3	23:3:6	e	٣	ﱐ			
+3	23:4:1	w	وَٱلَّذِينَ	ﱑ	والذين	Those who	wa-alladhīna
+3	23:4:2	w	هُمۡ	ﱒ	هم	[they]	hum
+3	23:4:3	w	لِلزَّكَوٰةِ	ﱓ	للزكاة	of purification works	lilzzakati
+4	23:4:4	w	فَٰعِلُونَ	ﱔ	فاعلون	(are) doers	fāʿilūna
+4	23:4:5	e	٤	ﱕ			
+4	23:5:1	w	وَٱلَّذِينَ	ﱖ	والذين	And those who	wa-alladhīna
+4	23:5:2	w	هُمۡ	ﱗ	هم	[they]	hum
+4	23:5:3	w	لِفُرُوجِهِمۡ	ﱘ	لفروجهم	of their modesty	lifurūjihim
+4	23:5:4	w	حَٰفِظُونَ	ﱙ	حافظون	(are) guardians	ḥāfiẓūna
+4	23:5:5	e	٥	ﱚ			
+4	23:6:1	w	إِلَّا	ﱛ	الا	Except	illā
+4	23:6:2	w	عَلَىٰٓ	ﱜ	على	from	ʿalā
+5	23:6:3	w	أَزۡوَٰجِهِمۡ	ﱝ	ازواجهم	their spouses	azwājihim
+5	23:6:4	w	أَوۡ	ﱞ	او	or	aw
+5	23:6:5	w	مَا	ﱟ	ما	what	mā
+5	23:6:6	w	مَلَكَتۡ	ﱠ	ملكت	possess	malakat
+5	23:6:7	w	أَيۡمَٰنُهُمۡ	ﱡ	ايمانهم	their right hands	aymānuhum
+5	23:6:8	w	فَإِنَّهُمۡ	ﱢ	فانهم	then indeed, they	fa-innahum
+5	23:6:9	w	غَيۡرُ	ﱣ	غير	(are) not	ghayru
+5	23:6:10	w	مَلُومِينَ	ﱤ	ملومين	blameworthy	malūmīna
+5	23:6:11	e	٦	ﱥ			
+5	23:7:1	w	فَمَنِ	ﱦ	فمن	Then whoever	famani
+6	23:7:2	w	ٱبۡتَغَىٰ	ﱧ	ابتغى	seeks	ib'taghā
+6	23:7:3	w	وَرَآءَ	ﱨ	وراء	beyond	warāa
+6	23:7:4	w	ذَٰلِكَ	ﱩ	ذالك	that	dhālika
+6	23:7:5	w	فَأُوْلَٰٓئِكَ	ﱪ	فاولايك	then those	fa-ulāika
+6	23:7:6	w	هُمُ	ﱫ	هم	[they]	humu
+6	23:7:7	w	ٱلۡعَادُونَ	ﱬ	العادون	(are) the transgressors	l-ʿādūna
+6	23:7:8	e	٧	ﱭ			
+6	23:8:1	w	وَٱلَّذِينَ	ﱮ	والذين	And those who	wa-alladhīna
+6	23:8:2	w	هُمۡ	ﱯ	هم	[they]	hum
+7	23:8:3	w	لِأَمَٰنَٰتِهِمۡ	ﱰ	لاماناتهم	of their trusts	li-amānātihim
+7	23:8:4	w	وَعَهۡدِهِمۡ	ﱱ	وعهدهم	and their promise(s)	waʿahdihim
+7	23:8:5	w	رَٰعُونَ	ﱲ	راعون	(are) observers	rāʿūna
+7	23:8:6	e	٨	ﱳ			
+7	23:9:1	w	وَٱلَّذِينَ	ﱴ	والذين	And those who	wa-alladhīna
+7	23:9:2	w	هُمۡ	ﱵ	هم	[they]	hum
+7	23:9:3	w	عَلَىٰ	ﱶ	على	over	ʿalā
+7	23:9:4	w	صَلَوَٰتِهِمۡ	ﱷ	صلواتهم	their prayers	ṣalawātihim
+8	23:9:5	w	يُحَافِظُونَ	ﱸ	يحافظون	they guard	yuḥāfiẓūna
+8	23:9:6	e	٩	ﱹ			
+8	23:10:1	w	أُوْلَٰٓئِكَ	ﱺ	اولايك	Those	ulāika
+8	23:10:2	w	هُمُ	ﱻ	هم	[they]	humu
+8	23:10:3	w	ٱلۡوَٰرِثُونَ	ﱼ	الوارثون	(are) the inheritors	l-wārithūna
+8	23:10:4	e	١٠	ﱽ			
+8	23:11:1	w	ٱلَّذِينَ	ﱾ	الذين	Who	alladhīna
+8	23:11:2	w	يَرِثُونَ	ﱿ	يرثون	will inherit	yarithūna
+9	23:11:3	w	ٱلۡفِرۡدَوۡسَ	ﲀ	الفردوس	the Paradise	l-fir'dawsa
+9	23:11:4	w	هُمۡ	ﲁ	هم	They	hum
+9	23:11:5	w	فِيهَا	ﲂ	فيها	therein	fīhā
+9	23:11:6	w	خَٰلِدُونَ	ﲃ	خالدون	(will) abide forever	khālidūna
+9	23:11:7	e	١١	ﲄ			
+9	23:12:1	w	وَلَقَدۡ	ﲅ	ولقد	And indeed	walaqad
+9	23:12:2	w	خَلَقۡنَا	ﲆ	خلقنا	We created	khalaqnā
+9	23:12:3	w	ٱلۡإِنسَٰنَ	ﲇ	الانسان	the humankind	l-insāna
+9	23:12:4	w	مِن	ﲈ	من	from	min
+10	23:12:5	w	سُلَٰلَةٖ	ﲉ	سلالة	an essence	sulālatin
+10	23:12:6	w	مِّن	ﲊ	من	of	min
+10	23:12:7	w	طِينٖ	ﲋ	طين	clay	ṭīnin
+10	23:12:8	e	١٢	ﲌ			
+10	23:13:1	w	ثُمَّ	ﲍ	ثم	Then	thumma
+10	23:13:2	w	جَعَلۡنَٰهُ	ﲎ	جعلناه	We placed him	jaʿalnāhu
+10	23:13:3	w	نُطۡفَةٗ	ﲏ	نطفة	(as) a semen-drop	nuṭ'fatan
+10	23:13:4	w	فِي	ﲐ	في	in	fī
+10	23:13:5	w	قَرَارٖ	ﲑ	قرار	a resting place	qarārin
+10	23:13:6	w	مَّكِينٖ	ﲒ	مكين	firm	makīnin
+10	23:13:7	e	١٣	ﲓ			
+11	23:14:1	w	ثُمَّ	ﲔ	ثم	Then	thumma
+11	23:14:2	w	خَلَقۡنَا	ﲕ	خلقنا	We created	khalaqnā
+11	23:14:3	w	ٱلنُّطۡفَةَ	ﲖ	النطفة	the semen-drop	l-nuṭ'fata
+11	23:14:4	w	عَلَقَةٗ	ﲗ	علقة	(into) a clinging substance	ʿalaqatan
+11	23:14:5	w	فَخَلَقۡنَا	ﲘ	فخلقنا	then We created	fakhalaqnā
+11	23:14:6	w	ٱلۡعَلَقَةَ	ﲙ	العلقة	the clinging substance	l-ʿalaqata
+11	23:14:7	w	مُضۡغَةٗ	ﲚ	مضغة	(into) an embryonic lump	muḍ'ghatan
+11	23:14:8	w	فَخَلَقۡنَا	ﲛ	فخلقنا	then We created	fakhalaqnā
+12	23:14:9	w	ٱلۡمُضۡغَةَ	ﲜ	المضغة	the embryonic lump	l-muḍ'ghata
+12	23:14:10	w	عِظَٰمٗا	ﲝ	عظاما	(into) bones	ʿiẓāman
+12	23:14:11	w	فَكَسَوۡنَا	ﲞ	فكسونا	then We clothed	fakasawnā
+12	23:14:12	w	ٱلۡعِظَٰمَ	ﲟ	العظام	the bones	l-ʿiẓāma
+12	23:14:13	w	لَحۡمٗا	ﲠ	لحما	(with) flesh	laḥman
+12	23:14:14	w	ثُمَّ	ﲡ	ثم	then	thumma
+12	23:14:15	w	أَنشَأۡنَٰهُ	ﲢ	انشاناه	We produce it	anshanāhu
+12	23:14:16	w	خَلۡقًا	ﲣ	خلقا	(as) a creation	khalqan
+13	23:14:17	w	ءَاخَرَۚ	ﲤﲥ	اخر	another	ākhara
+13	23:14:18	w	فَتَبَارَكَ	ﲦ	فتبارك	So blessed is	fatabāraka
+13	23:14:19	w	ٱللَّهُ	ﲧ	الله	Allah	l-lahu
+13	23:14:20	w	أَحۡسَنُ	ﲨ	احسن	(the) Best	aḥsanu
+13	23:14:21	w	ٱلۡخَٰلِقِينَ	ﲩ	الخالقين	(of) the Creators	l-khāliqīna
+13	23:14:22	e	١٤	ﲪ			
+13	23:15:1	w	ثُمَّ	ﲫ	ثم	Then	thumma
+13	23:15:2	w	إِنَّكُم	ﲬ	انكم	indeed, you	innakum
+13	23:15:3	w	بَعۡدَ	ﲭ	بعد	after	baʿda
+13	23:15:4	w	ذَٰلِكَ	ﲮ	ذالك	that	dhālika
+14	23:15:5	w	لَمَيِّتُونَ	ﲯ	لميتون	surely (will) die	lamayyitūna
+14	23:15:6	e	١٥	ﲰ			
+14	23:16:1	w	ثُمَّ	ﲱ	ثم	Then	thumma
+14	23:16:2	w	إِنَّكُمۡ	ﲲ	انكم	indeed, you	innakum
+14	23:16:3	w	يَوۡمَ	ﲳ	يوم	(on the) Day	yawma
+14	23:16:4	w	ٱلۡقِيَٰمَةِ	ﲴ	القيامة	(of) the Resurrection	l-qiyāmati
+14	23:16:5	w	تُبۡعَثُونَ	ﲵ	تبعثون	will be resurrected	tub'ʿathūna
+14	23:16:6	e	١٦	ﲶ			
+14	23:17:1	w	وَلَقَدۡ	ﲷ	ولقد	And indeed	walaqad
+15	23:17:2	w	خَلَقۡنَا	ﲸ	خلقنا	We (have) created	khalaqnā
+15	23:17:3	w	فَوۡقَكُمۡ	ﲹ	فوقكم	above you	fawqakum
+15	23:17:4	w	سَبۡعَ	ﲺ	سبع	seven	sabʿa
+15	23:17:5	w	طَرَآئِقَ	ﲻ	طرايق	paths	ṭarāiqa
+15	23:17:6	w	وَمَا	ﲼ	وما	and not	wamā
+15	23:17:7	w	كُنَّا	ﲽ	كنا	We are	kunnā
+15	23:17:8	w	عَنِ	ﲾ	عن	of	ʿani
+15	23:17:9	w	ٱلۡخَلۡقِ	ﲿ	الخلق	the creation	l-khalqi
+15	23:17:10	w	غَٰفِلِينَ	ﳀ	غافلين	unaware	ghāfilīna
+15	23:17:11	e	١٧	ﳁ			

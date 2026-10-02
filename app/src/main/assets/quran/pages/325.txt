@@ -1,0 +1,125 @@
+1	21:36:1	w	وَإِذَا	ﱁ	واذا	And when	wa-idhā
+1	21:36:2	w	رَءَاكَ	ﱂ	راك	they see you	raāka
+1	21:36:3	w	ٱلَّذِينَ	ﱃ	الذين	those who	alladhīna
+1	21:36:4	w	كَفَرُوٓاْ	ﱄ	كفروا	disbelieve	kafarū
+1	21:36:5	w	إِن	ﱅ	ان	not	in
+1	21:36:6	w	يَتَّخِذُونَكَ	ﱆ	يتخذونك	they take you	yattakhidhūnaka
+1	21:36:7	w	إِلَّا	ﱇ	الا	except	illā
+1	21:36:8	w	هُزُوًا	ﱈ	هزوا	(in) ridicule	huzuwan
+1	21:36:9	w	أَهَٰذَا	ﱉ	اهاذا	Is this	ahādhā
+2	21:36:10	w	ٱلَّذِي	ﱊ	الذي	the one who	alladhī
+2	21:36:11	w	يَذۡكُرُ	ﱋ	يذكر	mentions	yadhkuru
+2	21:36:12	w	ءَالِهَتَكُمۡ	ﱌ	الهتكم	your gods	ālihatakum
+2	21:36:13	w	وَهُم	ﱍ	وهم	And they	wahum
+2	21:36:14	w	بِذِكۡرِ	ﱎ	بذكر	at (the) mention	bidhik'ri
+2	21:36:15	w	ٱلرَّحۡمَٰنِ	ﱏ	الرحمان	(of) the Most Gracious	l-raḥmāni
+2	21:36:16	w	هُمۡ	ﱐ	هم	[they]	hum
+3	21:36:17	w	كَٰفِرُونَ	ﱑ	كافرون	(are) disbelievers	kāfirūna
+3	21:36:18	e	٣٦	ﱒ			
+3	21:37:1	w	خُلِقَ	ﱓ	خلق	Is created	khuliqa
+3	21:37:2	w	ٱلۡإِنسَٰنُ	ﱔ	الانسان	the man	l-insānu
+3	21:37:3	w	مِنۡ	ﱕ	من	of	min
+3	21:37:4	w	عَجَلٖۚ	ﱖﱗ	عجل	haste	ʿajalin
+3	21:37:5	w	سَأُوْرِيكُمۡ	ﱘ	ساريكم	I will show you	sa-urīkum
+4	21:37:6	w	ءَايَٰتِي	ﱙ	اياتي	My Signs	āyātī
+4	21:37:7	w	فَلَا	ﱚ	فلا	so (do) not	falā
+4	21:37:8	w	تَسۡتَعۡجِلُونِ	ﱛ	تستعجلون	ask Me to hasten	tastaʿjilūni
+4	21:37:9	e	٣٧	ﱜ			
+4	21:38:1	w	وَيَقُولُونَ	ﱝ	ويقولون	And they say	wayaqūlūna
+4	21:38:2	w	مَتَىٰ	ﱞ	متى	When (will be fulfilled)	matā
+4	21:38:3	w	هَٰذَا	ﱟ	هاذا	this	hādhā
+4	21:38:4	w	ٱلۡوَعۡدُ	ﱠ	الوعد	promise	l-waʿdu
+5	21:38:5	w	إِن	ﱡ	ان	if	in
+5	21:38:6	w	كُنتُمۡ	ﱢ	كنتم	you are	kuntum
+5	21:38:7	w	صَٰدِقِينَ	ﱣ	صادقين	truthful	ṣādiqīna
+5	21:38:8	e	٣٨	ﱤ			
+5	21:39:1	w	لَوۡ	ﱥ	لو	If	law
+5	21:39:2	w	يَعۡلَمُ	ﱦ	يعلم	knew	yaʿlamu
+5	21:39:3	w	ٱلَّذِينَ	ﱧ	الذين	those who	alladhīna
+5	21:39:4	w	كَفَرُواْ	ﱨ	كفروا	disbelieved	kafarū
+5	21:39:5	w	حِينَ	ﱩ	حين	(the) time	ḥīna
+6	21:39:6	w	لَا	ﱪ	لا	(when) not	lā
+6	21:39:7	w	يَكُفُّونَ	ﱫ	يكفون	they will avert	yakuffūna
+6	21:39:8	w	عَن	ﱬ	عن	from	ʿan
+6	21:39:9	w	وُجُوهِهِمُ	ﱭ	وجوههم	their faces	wujūhihimu
+6	21:39:10	w	ٱلنَّارَ	ﱮ	النار	the Fire	l-nāra
+6	21:39:11	w	وَلَا	ﱯ	ولا	and not	walā
+6	21:39:12	w	عَن	ﱰ	عن	from	ʿan
+6	21:39:13	w	ظُهُورِهِمۡ	ﱱ	ظهورهم	their backs	ẓuhūrihim
+6	21:39:14	w	وَلَا	ﱲ	ولا	and not	walā
+7	21:39:15	w	هُمۡ	ﱳ	هم	they	hum
+7	21:39:16	w	يُنصَرُونَ	ﱴ	ينصرون	will be helped	yunṣarūna
+7	21:39:17	e	٣٩	ﱵ			
+7	21:40:1	w	بَلۡ	ﱶ	بل	Nay	bal
+7	21:40:2	w	تَأۡتِيهِم	ﱷ	تاتيهم	it will come to them	tatīhim
+7	21:40:3	w	بَغۡتَةٗ	ﱸ	بغتة	unexpectedly	baghtatan
+7	21:40:4	w	فَتَبۡهَتُهُمۡ	ﱹ	فتبهتهم	and bewilder them	fatabhatuhum
+7	21:40:5	w	فَلَا	ﱺ	فلا	then not	falā
+8	21:40:6	w	يَسۡتَطِيعُونَ	ﱻ	يستطيعون	they will be able	yastaṭīʿūna
+8	21:40:7	w	رَدَّهَا	ﱼ	ردها	to repel it	raddahā
+8	21:40:8	w	وَلَا	ﱽ	ولا	and not	walā
+8	21:40:9	w	هُمۡ	ﱾ	هم	they	hum
+8	21:40:10	w	يُنظَرُونَ	ﱿ	ينظرون	will be given respite	yunẓarūna
+8	21:40:11	e	٤٠	ﲀ			
+8	21:41:1	w	وَلَقَدِ	ﲁ	ولقد	And verily	walaqadi
+8	21:41:2	w	ٱسۡتُهۡزِئَ	ﲂ	استهزي	were mocked	us'tuh'zi-a
+9	21:41:3	w	بِرُسُلٖ	ﲃ	برسل	Messengers	birusulin
+9	21:41:4	w	مِّن	ﲄ	من	before you	min
+9	21:41:5	w	قَبۡلِكَ	ﲅ	قبلك	before you	qablika
+9	21:41:6	w	فَحَاقَ	ﲆ	فحاق	then surrounded	faḥāqa
+9	21:41:7	w	بِٱلَّذِينَ	ﲇ	بالذين	those who	bi-alladhīna
+9	21:41:8	w	سَخِرُواْ	ﲈ	سخروا	mocked	sakhirū
+9	21:41:9	w	مِنۡهُم	ﲉ	منهم	from them	min'hum
+9	21:41:10	w	مَّا	ﲊ	ما	what	mā
+9	21:41:11	w	كَانُواْ	ﲋ	كانوا	they used	kānū
+10	21:41:12	w	بِهِۦ	ﲌ	به	at it	bihi
+10	21:41:13	w	يَسۡتَهۡزِءُونَ	ﲍ	يستهزيون	(to) mock	yastahziūna
+10	21:41:14	e	٤١	ﲎ			
+10	21:42:1	w	قُلۡ	ﲏ	قل	Say	qul
+10	21:42:2	w	مَن	ﲐ	من	Who	man
+10	21:42:3	w	يَكۡلَؤُكُم	ﲑ	يكلوكم	(can) protect you	yakla-ukum
+10	21:42:4	w	بِٱلَّيۡلِ	ﲒ	بالليل	in the night	bi-al-layli
+10	21:42:5	w	وَٱلنَّهَارِ	ﲓ	والنهار	and the day	wal-nahāri
+11	21:42:6	w	مِنَ	ﲔ	من	from	mina
+11	21:42:7	w	ٱلرَّحۡمَٰنِۚ	ﲕﲖ	الرحمان	the Most Gracious	l-raḥmāni
+11	21:42:8	w	بَلۡ	ﲗ	بل	Yet	bal
+11	21:42:9	w	هُمۡ	ﲘ	هم	they	hum
+11	21:42:10	w	عَن	ﲙ	عن	from	ʿan
+11	21:42:11	w	ذِكۡرِ	ﲚ	ذكر	(the) remembrance	dhik'ri
+11	21:42:12	w	رَبِّهِم	ﲛ	ربهم	(of) their Lord	rabbihim
+11	21:42:13	w	مُّعۡرِضُونَ	ﲜ	معرضون	turn away	muʿ'riḍūna
+11	21:42:14	e	٤٢	ﲝ			
+12	21:43:1	w	أَمۡ	ﲞ	ام	Or	am
+12	21:43:2	w	لَهُمۡ	ﲟ	لهم	have they	lahum
+12	21:43:3	w	ءَالِهَةٞ	ﲠ	الهة	gods	ālihatun
+12	21:43:4	w	تَمۡنَعُهُم	ﲡ	تمنعهم	(to) defend them	tamnaʿuhum
+12	21:43:5	w	مِّن	ﲢ	من	from	min
+12	21:43:6	w	دُونِنَاۚ	ﲣﲤ	دوننا	Us	dūninā
+12	21:43:7	w	لَا	ﲥ	لا	Not	lā
+12	21:43:8	w	يَسۡتَطِيعُونَ	ﲦ	يستطيعون	they are able	yastaṭīʿūna
+12	21:43:9	w	نَصۡرَ	ﲧ	نصر	(to) help	naṣra
+13	21:43:10	w	أَنفُسِهِمۡ	ﲨ	انفسهم	themselves	anfusihim
+13	21:43:11	w	وَلَا	ﲩ	ولا	and not	walā
+13	21:43:12	w	هُم	ﲪ	هم	they	hum
+13	21:43:13	w	مِّنَّا	ﲫ	منا	from Us	minnā
+13	21:43:14	w	يُصۡحَبُونَ	ﲬ	يصحبون	can be protected	yuṣ'ḥabūna
+13	21:43:15	e	٤٣	ﲭ			
+13	21:44:1	w	بَلۡ	ﲮ	بل	Nay	bal
+13	21:44:2	w	مَتَّعۡنَا	ﲯ	متعنا	We gave provision	mattaʿnā
+13	21:44:3	w	هَٰٓؤُلَآءِ	ﲰ	هاولاء	(to) these	hāulāi
+14	21:44:4	w	وَءَابَآءَهُمۡ	ﲱ	واباءهم	and their fathers	waābāahum
+14	21:44:5	w	حَتَّىٰ	ﲲ	حتى	until	ḥattā
+14	21:44:6	w	طَالَ	ﲳ	طال	grew long	ṭāla
+14	21:44:7	w	عَلَيۡهِمُ	ﲴ	عليهم	for them	ʿalayhimu
+14	21:44:8	w	ٱلۡعُمُرُۗ	ﲵﲶ	العمر	the life	l-ʿumuru
+14	21:44:9	w	أَفَلَا	ﲷ	افلا	Then do not	afalā
+14	21:44:10	w	يَرَوۡنَ	ﲸ	يرون	they see	yarawna
+14	21:44:11	w	أَنَّا	ﲹ	انا	that We	annā
+14	21:44:12	w	نَأۡتِي	ﲺ	ناتي	We come	natī
+15	21:44:13	w	ٱلۡأَرۡضَ	ﲻ	الارض	(to) the land	l-arḍa
+15	21:44:14	w	نَنقُصُهَا	ﲼ	ننقصها	We reduce it	nanquṣuhā
+15	21:44:15	w	مِنۡ	ﲽ	من	from	min
+15	21:44:16	w	أَطۡرَافِهَآۚ	ﲾﲿ	اطرافها	its borders	aṭrāfihā
+15	21:44:17	w	أَفَهُمُ	ﳀ	افهم	So is (it) they	afahumu
+15	21:44:18	w	ٱلۡغَٰلِبُونَ	ﳁ	الغالبون	(who will be) overcoming	l-ghālibūna
+15	21:44:19	e	٤٤	ﳂ			

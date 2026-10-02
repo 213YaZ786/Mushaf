@@ -1,0 +1,135 @@
+1	14:19:1	w	أَلَمۡ	ﱁ	الم	Do not	alam
+1	14:19:2	w	تَرَ	ﱂ	تر	you see	tara
+1	14:19:3	w	أَنَّ	ﱃ	ان	that	anna
+1	14:19:4	w	ٱللَّهَ	ﱄ	الله	Allah	l-laha
+1	14:19:5	w	خَلَقَ	ﱅ	خلق	created	khalaqa
+1	14:19:6	w	ٱلسَّمَٰوَٰتِ	ﱆ	السماوات	the heavens	l-samāwāti
+1	14:19:7	w	وَٱلۡأَرۡضَ	ﱇ	والارض	and the earth	wal-arḍa
+1	14:19:8	w	بِٱلۡحَقِّۚ	ﱈﱉ	بالحق	in truth	bil-ḥaqi
+1	14:19:9	w	إِن	ﱊ	ان	If	in
+1	14:19:10	w	يَشَأۡ	ﱋ	يشا	He wills	yasha
+2	14:19:11	w	يُذۡهِبۡكُمۡ	ﱌ	يذهبكم	He can remove you	yudh'hib'kum
+2	14:19:12	w	وَيَأۡتِ	ﱍ	ويات	and bring	wayati
+2	14:19:13	w	بِخَلۡقٖ	ﱎ	بخلق	a creation	bikhalqin
+2	14:19:14	w	جَدِيدٖ	ﱏ	جديد	new	jadīdin
+2	14:19:15	e	١٩	ﱐ			
+2	14:20:1	w	وَمَا	ﱑ	وما	And not	wamā
+2	14:20:2	w	ذَٰلِكَ	ﱒ	ذالك	(is) that	dhālika
+2	14:20:3	w	عَلَى	ﱓ	على	on	ʿalā
+2	14:20:4	w	ٱللَّهِ	ﱔ	الله	Allah	l-lahi
+2	14:20:5	w	بِعَزِيزٖ	ﱕ	بعزيز	great	biʿazīzin
+3	14:20:6	e	٢٠	ﱖ			
+3	14:21:1	w	وَبَرَزُواْ	ﱗ	وبرزوا	And they will come forth	wabarazū
+3	14:21:2	w	لِلَّهِ	ﱘ	لله	before Allah	lillahi
+3	14:21:3	w	جَمِيعٗا	ﱙ	جميعا	all together	jamīʿan
+3	14:21:4	w	فَقَالَ	ﱚ	فقال	then will say	faqāla
+3	14:21:5	w	ٱلضُّعَفَٰٓؤُاْ	ﱛ	الضعفاء	the weak	l-ḍuʿafāu
+3	14:21:6	w	لِلَّذِينَ	ﱜ	للذين	to those who	lilladhīna
+3	14:21:7	w	ٱسۡتَكۡبَرُوٓاْ	ﱝ	استكبروا	were arrogant	is'takbarū
+4	14:21:8	w	إِنَّا	ﱞ	انا	Indeed we	innā
+4	14:21:9	w	كُنَّا	ﱟ	كنا	we were	kunnā
+4	14:21:10	w	لَكُمۡ	ﱠ	لكم	your	lakum
+4	14:21:11	w	تَبَعٗا	ﱡ	تبعا	followers	tabaʿan
+4	14:21:12	w	فَهَلۡ	ﱢ	فهل	so can	fahal
+4	14:21:13	w	أَنتُم	ﱣ	انتم	you (be)	antum
+4	14:21:14	w	مُّغۡنُونَ	ﱤ	مغنون	the one who avails	mugh'nūna
+4	14:21:15	w	عَنَّا	ﱥ	عنا	us	ʿannā
+4	14:21:16	w	مِنۡ	ﱦ	من	from	min
+4	14:21:17	w	عَذَابِ	ﱧ	عذاب	(the) punishment	ʿadhābi
+4	14:21:18	w	ٱللَّهِ	ﱨ	الله	(of) Allah	l-lahi
+5	14:21:19	w	مِن	ﱩ	من	anything	min
+5	14:21:20	w	شَيۡءٖۚ	ﱪﱫ	شيء	anything	shayin
+5	14:21:21	w	قَالُواْ	ﱬ	قالوا	They will say	qālū
+5	14:21:22	w	لَوۡ	ﱭ	لو	If	law
+5	14:21:23	w	هَدَىٰنَا	ﱮ	هدانا	Allah had guided us	hadānā
+5	14:21:24	w	ٱللَّهُ	ﱯ	الله	Allah had guided us	l-lahu
+5	14:21:25	w	لَهَدَيۡنَٰكُمۡۖ	ﱰﱱ	لهديناكم	surely we would have guided you	lahadaynākum
+5	14:21:26	w	سَوَآءٌ	ﱲ	سواء	(It is) same	sawāon
+5	14:21:27	w	عَلَيۡنَآ	ﱳ	علينا	for us	ʿalaynā
+6	14:21:28	w	أَجَزِعۡنَآ	ﱴ	اجزعنا	whether we show intolerance	ajaziʿ'nā
+6	14:21:29	w	أَمۡ	ﱵ	ام	or	am
+6	14:21:30	w	صَبَرۡنَا	ﱶ	صبرنا	we are patient	ṣabarnā
+6	14:21:31	w	مَا	ﱷ	ما	not	mā
+6	14:21:32	w	لَنَا	ﱸ	لنا	(is) for us	lanā
+6	14:21:33	w	مِن	ﱹ	من	any	min
+6	14:21:34	w	مَّحِيصٖ	ﱺ	محيص	place of escape	maḥīṣin
+6	14:21:35	e	٢١	ﱻ			
+6	14:22:1	w	وَقَالَ	ﱼ	وقال	And will say	waqāla
+6	14:22:2	w	ٱلشَّيۡطَٰنُ	ﱽ	الشيطان	the Shaitaan	l-shayṭānu
+6	14:22:3	w	لَمَّا	ﱾ	لما	when	lammā
+7	14:22:4	w	قُضِيَ	ﱿ	قضي	has been decided	quḍiya
+7	14:22:5	w	ٱلۡأَمۡرُ	ﲀ	الامر	the matter	l-amru
+7	14:22:6	w	إِنَّ	ﲁ	ان	Indeed	inna
+7	14:22:7	w	ٱللَّهَ	ﲂ	الله	Allah	l-laha
+7	14:22:8	w	وَعَدَكُمۡ	ﲃ	وعدكم	promised you	waʿadakum
+7	14:22:9	w	وَعۡدَ	ﲄ	وعد	a promise	waʿda
+7	14:22:10	w	ٱلۡحَقِّ	ﲅ	الحق	(of) truth	l-ḥaqi
+7	14:22:11	w	وَوَعَدتُّكُمۡ	ﲆ	ووعدتكم	And I promised you	wawaʿadttukum
+8	14:22:12	w	فَأَخۡلَفۡتُكُمۡۖ	ﲇﲈ	فاخلفتكم	but I betrayed you	fa-akhlaftukum
+8	14:22:13	w	وَمَا	ﲉ	وما	But not	wamā
+8	14:22:14	w	كَانَ	ﲊ	كان	I had	kāna
+8	14:22:15	w	لِيَ	ﲋ	لي	I had	liya
+8	14:22:16	w	عَلَيۡكُم	ﲌ	عليكم	over you	ʿalaykum
+8	14:22:17	w	مِّن	ﲍ	من	any	min
+8	14:22:18	w	سُلۡطَٰنٍ	ﲎ	سلطان	authority	sul'ṭānin
+8	14:22:19	w	إِلَّآ	ﲏ	الا	except	illā
+9	14:22:20	w	أَن	ﲐ	ان	that	an
+9	14:22:21	w	دَعَوۡتُكُمۡ	ﲑ	دعوتكم	I invited you	daʿawtukum
+9	14:22:22	w	فَٱسۡتَجَبۡتُمۡ	ﲒ	فاستجبتم	and you responded	fa-is'tajabtum
+9	14:22:23	w	لِيۖ	ﲓﲔ	لي	to me	lī
+9	14:22:24	w	فَلَا	ﲕ	فلا	So (do) not	falā
+9	14:22:25	w	تَلُومُونِي	ﲖ	تلوموني	blame me	talūmūnī
+9	14:22:26	w	وَلُومُوٓاْ	ﲗ	ولوموا	but blame	walūmū
+9	14:22:27	w	أَنفُسَكُمۖ	ﲘﲙ	انفسكم	yourselves	anfusakum
+10	14:22:28	w	مَّآ	ﲚ	ما	Not	mā
+10	14:22:29	w	أَنَا۠	ﲛ	انا	(can) I	anā
+10	14:22:30	w	بِمُصۡرِخِكُمۡ	ﲜ	بمصرخكم	(be) your helper	bimuṣ'rikhikum
+10	14:22:31	w	وَمَآ	ﲝ	وما	and not	wamā
+10	14:22:32	w	أَنتُم	ﲞ	انتم	you (can)	antum
+10	14:22:33	w	بِمُصۡرِخِيَّ	ﲟ	بمصرخي	(be) my helper	bimuṣ'rikhiyya
+10	14:22:34	w	إِنِّي	ﲠ	اني	Indeed, I	innī
+10	14:22:35	w	كَفَرۡتُ	ﲡ	كفرت	deny	kafartu
+11	14:22:36	w	بِمَآ	ﲢ	بما	[of what]	bimā
+11	14:22:37	w	أَشۡرَكۡتُمُونِ	ﲣ	اشركتمون	your association of me (with Allah)	ashraktumūni
+11	14:22:38	w	مِن	ﲤ	من	before	min
+11	14:22:39	w	قَبۡلُۗ	ﲥﲦ	قبل	before	qablu
+11	14:22:40	w	إِنَّ	ﲧ	ان	Indeed	inna
+11	14:22:41	w	ٱلظَّٰلِمِينَ	ﲨ	الظالمين	the wrongdoers	l-ẓālimīna
+11	14:22:42	w	لَهُمۡ	ﲩ	لهم	for them	lahum
+11	14:22:43	w	عَذَابٌ	ﲪ	عذاب	(is) a punishment	ʿadhābun
+12	14:22:44	w	أَلِيمٞ	ﲫ	اليم	painful	alīmun
+12	14:22:45	e	٢٢	ﲬ			
+12	14:23:1	w	وَأُدۡخِلَ	ﲭ	وادخل	And will be admitted	wa-ud'khila
+12	14:23:2	w	ٱلَّذِينَ	ﲮ	الذين	those who	alladhīna
+12	14:23:3	w	ءَامَنُواْ	ﲯ	امنوا	believed	āmanū
+12	14:23:4	w	وَعَمِلُواْ	ﲰ	وعملوا	and did	waʿamilū
+12	14:23:5	w	ٱلصَّٰلِحَٰتِ	ﲱ	الصالحات	righteous deeds	l-ṣāliḥāti
+12	14:23:6	w	جَنَّٰتٖ	ﲲ	جنات	(to) Gardens	jannātin
+13	14:23:7	w	تَجۡرِي	ﲳ	تجري	flows	tajrī
+13	14:23:8	w	مِن	ﲴ	من	from	min
+13	14:23:9	w	تَحۡتِهَا	ﲵ	تحتها	underneath it	taḥtihā
+13	14:23:10	w	ٱلۡأَنۡهَٰرُ	ﲶ	الانهار	the rivers	l-anhāru
+13	14:23:11	w	خَٰلِدِينَ	ﲷ	خالدين	(will) abide forever	khālidīna
+13	14:23:12	w	فِيهَا	ﲸ	فيها	in it	fīhā
+13	14:23:13	w	بِإِذۡنِ	ﲹ	باذن	by the permission	bi-idh'ni
+13	14:23:14	w	رَبِّهِمۡۖ	ﲺﲻ	ربهم	(of) their Lord	rabbihim
+13	14:23:15	w	تَحِيَّتُهُمۡ	ﲼ	تحيتهم	their greetings	taḥiyyatuhum
+14	14:23:16	w	فِيهَا	ﲽ	فيها	therein	fīhā
+14	14:23:17	w	سَلَٰمٌ	ﲾ	سلام	(will be) peace	salāmun
+14	14:23:18	e	٢٣	ﲿ			
+14	14:24:1	w	أَلَمۡ	ﳀ	الم	Do not	alam
+14	14:24:2	w	تَرَ	ﳁ	تر	you see	tara
+14	14:24:3	w	كَيۡفَ	ﳂ	كيف	how	kayfa
+14	14:24:4	w	ضَرَبَ	ﳃ	ضرب	Allah sets forth	ḍaraba
+14	14:24:5	w	ٱللَّهُ	ﳄ	الله	Allah sets forth	l-lahu
+14	14:24:6	w	مَثَلٗا	ﳅ	مثلا	the example	mathalan
+14	14:24:7	w	كَلِمَةٗ	ﳆ	كلمة	a word	kalimatan
+14	14:24:8	w	طَيِّبَةٗ	ﳇ	طيبة	good	ṭayyibatan
+15	14:24:9	w	كَشَجَرَةٖ	ﳈ	كشجرة	(is) like a tree	kashajaratin
+15	14:24:10	w	طَيِّبَةٍ	ﳉ	طيبة	good	ṭayyibatin
+15	14:24:11	w	أَصۡلُهَا	ﳊ	اصلها	its root	aṣluhā
+15	14:24:12	w	ثَابِتٞ	ﳋ	ثابت	(is) firm	thābitun
+15	14:24:13	w	وَفَرۡعُهَا	ﳌ	وفرعها	and its branches	wafarʿuhā
+15	14:24:14	w	فِي	ﳍ	في	(are) in	fī
+15	14:24:15	w	ٱلسَّمَآءِ	ﳎ	السماء	the sky	l-samāi
+15	14:24:16	e	٢٤	ﳏ			

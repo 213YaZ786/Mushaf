@@ -1,0 +1,142 @@
+1	18:21:1	w	وَكَذَٰلِكَ	ﱁ	وكذالك	And similarly	wakadhālika
+1	18:21:2	w	أَعۡثَرۡنَا	ﱂ	اعثرنا	We made known	aʿtharnā
+1	18:21:3	w	عَلَيۡهِمۡ	ﱃ	عليهم	about them	ʿalayhim
+1	18:21:4	w	لِيَعۡلَمُوٓاْ	ﱄ	ليعلموا	that they might know	liyaʿlamū
+1	18:21:5	w	أَنَّ	ﱅ	ان	that	anna
+1	18:21:6	w	وَعۡدَ	ﱆ	وعد	(the) Promise	waʿda
+1	18:21:7	w	ٱللَّهِ	ﱇ	الله	(of) Allah	l-lahi
+1	18:21:8	w	حَقّٞ	ﱈ	حق	(is) true	ḥaqqun
+1	18:21:9	w	وَأَنَّ	ﱉ	وان	and that	wa-anna
+2	18:21:10	w	ٱلسَّاعَةَ	ﱊ	الساعة	(about) the Hour	l-sāʿata
+2	18:21:11	w	لَا	ﱋ	لا	(there is) no	lā
+2	18:21:12	w	رَيۡبَ	ﱌ	ريب	doubt	rayba
+2	18:21:13	w	فِيهَآ	ﱍ	فيها	in it	fīhā
+2	18:21:14	w	إِذۡ	ﱎ	اذ	When	idh
+2	18:21:15	w	يَتَنَٰزَعُونَ	ﱏ	يتنازعون	they disputed	yatanāzaʿūna
+2	18:21:16	w	بَيۡنَهُمۡ	ﱐ	بينهم	among themselves	baynahum
+2	18:21:17	w	أَمۡرَهُمۡۖ	ﱑﱒ	امرهم	about their affair	amrahum
+2	18:21:18	w	فَقَالُواْ	ﱓ	فقالوا	and they said	faqālū
+3	18:21:19	w	ٱبۡنُواْ	ﱔ	ابنوا	Construct	ib'nū
+3	18:21:20	w	عَلَيۡهِم	ﱕ	عليهم	over them	ʿalayhim
+3	18:21:21	w	بُنۡيَٰنٗاۖ	ﱖﱗ	بنيانا	a structure	bun'yānan
+3	18:21:22	w	رَّبُّهُمۡ	ﱘ	ربهم	Their Lord	rabbuhum
+3	18:21:23	w	أَعۡلَمُ	ﱙ	اعلم	knows best	aʿlamu
+3	18:21:24	w	بِهِمۡۚ	ﱚﱛ	بهم	about them	bihim
+3	18:21:25	w	قَالَ	ﱜ	قال	Said	qāla
+3	18:21:26	w	ٱلَّذِينَ	ﱝ	الذين	those who	alladhīna
+3	18:21:27	w	غَلَبُواْ	ﱞ	غلبوا	prevailed	ghalabū
+3	18:21:28	w	عَلَىٰٓ	ﱟ	على	in	ʿalā
+4	18:21:29	w	أَمۡرِهِمۡ	ﱠ	امرهم	their matter	amrihim
+4	18:21:30	w	لَنَتَّخِذَنَّ	ﱡ	لنتخذن	Surely we will take	lanattakhidhanna
+4	18:21:31	w	عَلَيۡهِم	ﱢ	عليهم	over them	ʿalayhim
+4	18:21:32	w	مَّسۡجِدٗا	ﱣ	مسجدا	a place of worship	masjidan
+4	18:21:33	e	٢١	ﱤ			
+4	18:22:1	w	سَيَقُولُونَ	ﱥ	سيقولون	They say	sayaqūlūna
+4	18:22:2	w	ثَلَٰثَةٞ	ﱦ	ثلاثة	(they were) three	thalāthatun
+5	18:22:3	w	رَّابِعُهُمۡ	ﱧ	رابعهم	the forth of them	rābiʿuhum
+5	18:22:4	w	كَلۡبُهُمۡ	ﱨ	كلبهم	their dog	kalbuhum
+5	18:22:5	w	وَيَقُولُونَ	ﱩ	ويقولون	and they say	wayaqūlūna
+5	18:22:6	w	خَمۡسَةٞ	ﱪ	خمسة	(they were) five	khamsatun
+5	18:22:7	w	سَادِسُهُمۡ	ﱫ	سادسهم	the sixth of them	sādisuhum
+5	18:22:8	w	كَلۡبُهُمۡ	ﱬ	كلبهم	their dog	kalbuhum
+6	18:22:9	w	رَجۡمَۢا	ﱭ	رجما	guessing	rajman
+6	18:22:10	w	بِٱلۡغَيۡبِۖ	ﱮﱯ	بالغيب	about the unseen	bil-ghaybi
+6	18:22:11	w	وَيَقُولُونَ	ﱰ	ويقولون	and they say	wayaqūlūna
+6	18:22:12	w	سَبۡعَةٞ	ﱱ	سبعة	(they were) seven	sabʿatun
+6	18:22:13	w	وَثَامِنُهُمۡ	ﱲ	وثامنهم	and the eight of them	wathāminuhum
+6	18:22:14	w	كَلۡبُهُمۡۚ	ﱳﱴ	كلبهم	their dog	kalbuhum
+6	18:22:15	w	قُل	ﱵ	قل	Say	qul
+6	18:22:16	w	رَّبِّيٓ	ﱶ	ربي	My Lord	rabbī
+7	18:22:17	w	أَعۡلَمُ	ﱷ	اعلم	knows best	aʿlamu
+7	18:22:18	w	بِعِدَّتِهِم	ﱸ	بعدتهم	their number	biʿiddatihim
+7	18:22:19	w	مَّا	ﱹ	ما	None	mā
+7	18:22:20	w	يَعۡلَمُهُمۡ	ﱺ	يعلمهم	knows them	yaʿlamuhum
+7	18:22:21	w	إِلَّا	ﱻ	الا	except	illā
+7	18:22:22	w	قَلِيلٞۗ	ﱼﱽ	قليل	a few	qalīlun
+7	18:22:23	w	فَلَا	ﱾ	فلا	So (do) not	falā
+7	18:22:24	w	تُمَارِ	ﱿ	تمار	argue	tumāri
+7	18:22:25	w	فِيهِمۡ	ﲀ	فيهم	about them	fīhim
+7	18:22:26	w	إِلَّا	ﲁ	الا	except	illā
+7	18:22:27	w	مِرَآءٗ	ﲂ	مراء	(with) an argument	mirāan
+8	18:22:28	w	ظَٰهِرٗا	ﲃ	ظاهرا	obvious	ẓāhiran
+8	18:22:29	w	وَلَا	ﲄ	ولا	and (do) not	walā
+8	18:22:30	w	تَسۡتَفۡتِ	ﲅ	تستفت	inquire	tastafti
+8	18:22:31	w	فِيهِم	ﲆ	فيهم	about them	fīhim
+8	18:22:32	w	مِّنۡهُمۡ	ﲇ	منهم	among them	min'hum
+8	18:22:33	w	أَحَدٗا	ﲈ	احدا	(from) anyone	aḥadan
+8	18:22:34	e	٢٢	ﲉ			
+8	18:23:1	w	وَلَا	ﲊ	ولا	And (do) not	walā
+8	18:23:2	w	تَقُولَنَّ	ﲋ	تقولن	say	taqūlanna
+8	18:23:3	w	لِشَاْيۡءٍ	ﲌ	لشيء	of anything	lishāy'in
+9	18:23:4	w	إِنِّي	ﲍ	اني	Indeed, I	innī
+9	18:23:5	w	فَاعِلٞ	ﲎ	فاعل	will do	fāʿilun
+9	18:23:6	w	ذَٰلِكَ	ﲏ	ذالك	that	dhālika
+9	18:23:7	w	غَدًا	ﲐ	غدا	tomorrow	ghadan
+9	18:23:8	e	٢٣	ﲑ			
+9	18:24:1	w	إِلَّآ	ﲒ	الا	Except	illā
+9	18:24:2	w	أَن	ﲓ	ان	If	an
+9	18:24:3	w	يَشَآءَ	ﲔ	يشاء	Allah wills	yashāa
+9	18:24:4	w	ٱللَّهُۚ	ﲕﲖ	الله	Allah wills	l-lahu
+9	18:24:5	w	وَٱذۡكُر	ﲗ	واذكر	And remember	wa-udh'kur
+9	18:24:6	w	رَّبَّكَ	ﲘ	ربك	your Lord	rabbaka
+10	18:24:7	w	إِذَا	ﲙ	اذا	when	idhā
+10	18:24:8	w	نَسِيتَ	ﲚ	نسيت	you forget	nasīta
+10	18:24:9	w	وَقُلۡ	ﲛ	وقل	and say	waqul
+10	18:24:10	w	عَسَىٰٓ	ﲜ	عسى	Perhaps	ʿasā
+10	18:24:11	w	أَن	ﲝ	ان	[that]	an
+10	18:24:12	w	يَهۡدِيَنِ	ﲞ	يهدين	will guide me	yahdiyani
+10	18:24:13	w	رَبِّي	ﲟ	ربي	my Lord	rabbī
+10	18:24:14	w	لِأَقۡرَبَ	ﲠ	لاقرب	to a nearer (way)	li-aqraba
+10	18:24:15	w	مِنۡ	ﲡ	من	than	min
+10	18:24:16	w	هَٰذَا	ﲢ	هاذا	this	hādhā
+10	18:24:17	w	رَشَدٗا	ﲣ	رشدا	right way	rashadan
+11	18:24:18	e	٢٤	ﲤ			
+11	18:25:1	w	وَلَبِثُواْ	ﲥ	ولبثوا	And they remained	walabithū
+11	18:25:2	w	فِي	ﲦ	في	in	fī
+11	18:25:3	w	كَهۡفِهِمۡ	ﲧ	كهفهم	their cave	kahfihim
+11	18:25:4	w	ثَلَٰثَ	ﲨ	ثلاث	(for) three	thalātha
+11	18:25:5	w	مِاْئَةٖ	ﲩ	ماية	hundred	mi-atin
+11	18:25:6	w	سِنِينَ	ﲪ	سنين	years	sinīna
+11	18:25:7	w	وَٱزۡدَادُواْ	ﲫ	وازدادوا	and add	wa-iz'dādū
+11	18:25:8	w	تِسۡعٗا	ﲬ	تسعا	nine	tis'ʿan
+12	18:25:9	e	٢٥	ﲭ			
+12	18:26:1	w	قُلِ	ﲮ	قل	Say	quli
+12	18:26:2	w	ٱللَّهُ	ﲯ	الله	Allah	l-lahu
+12	18:26:3	w	أَعۡلَمُ	ﲰ	اعلم	knows best	aʿlamu
+12	18:26:4	w	بِمَا	ﲱ	بما	about what (period)	bimā
+12	18:26:5	w	لَبِثُواْۖ	ﲲﲳ	لبثوا	they remained	labithū
+12	18:26:6	w	لَهُۥ	ﲴ	له	For Him	lahu
+12	18:26:7	w	غَيۡبُ	ﲵ	غيب	(is the) unseen	ghaybu
+12	18:26:8	w	ٱلسَّمَٰوَٰتِ	ﲶ	السماوات	(of) the heavens	l-samāwāti
+12	18:26:9	w	وَٱلۡأَرۡضِۖ	ﲷﲸ	والارض	and the earth	wal-arḍi
+13	18:26:10	w	أَبۡصِرۡ	ﲹ	ابصر	How clearly He sees	abṣir
+13	18:26:11	w	بِهِۦ	ﲺ	به	[of it]	bihi
+13	18:26:12	w	وَأَسۡمِعۡۚ	ﲻﲼ	واسمع	And how clearly He hears	wa-asmiʿ
+13	18:26:13	w	مَا	ﲽ	ما	Not	mā
+13	18:26:14	w	لَهُم	ﲾ	لهم	for them	lahum
+13	18:26:15	w	مِّن	ﲿ	من	besides Him	min
+13	18:26:16	w	دُونِهِۦ	ﳀ	دونه	besides Him	dūnihi
+13	18:26:17	w	مِن	ﳁ	من	any	min
+13	18:26:18	w	وَلِيّٖ	ﳂ	ولي	protector	waliyyin
+13	18:26:19	w	وَلَا	ﳃ	ولا	and not	walā
+13	18:26:20	w	يُشۡرِكُ	ﳄ	يشرك	He shares	yush'riku
+14	18:26:21	w	فِي	ﳅ	في	[in]	fī
+14	18:26:22	w	حُكۡمِهِۦٓ	ﳆ	حكمه	His Commands	ḥuk'mihi
+14	18:26:23	w	أَحَدٗا	ﳇ	احدا	(with) anyone	aḥadan
+14	18:26:24	e	٢٦	ﳈ			
+14	18:27:1	w	وَٱتۡلُ	ﳉ	واتل	And recite	wa-ut'lu
+14	18:27:2	w	مَآ	ﳊ	ما	what	mā
+14	18:27:3	w	أُوحِيَ	ﳋ	اوحي	has been revealed	ūḥiya
+14	18:27:4	w	إِلَيۡكَ	ﳌ	اليك	to you	ilayka
+14	18:27:5	w	مِن	ﳍ	من	of	min
+14	18:27:6	w	كِتَابِ	ﳎ	كتاب	the Book	kitābi
+15	18:27:7	w	رَبِّكَۖ	ﳏﳐ	ربك	(of) your Lord	rabbika
+15	18:27:8	w	لَا	ﳑ	لا	None	lā
+15	18:27:9	w	مُبَدِّلَ	ﳒ	مبدل	can change	mubaddila
+15	18:27:10	w	لِكَلِمَٰتِهِۦ	ﳓ	لكلماته	His Words	likalimātihi
+15	18:27:11	w	وَلَن	ﳔ	ولن	and never	walan
+15	18:27:12	w	تَجِدَ	ﳕ	تجد	you will find	tajida
+15	18:27:13	w	مِن	ﳖ	من	besides Him	min
+15	18:27:14	w	دُونِهِۦ	ﳗ	دونه	besides Him	dūnihi
+15	18:27:15	w	مُلۡتَحَدٗا	ﳘ	ملتحدا	a refuge	mul'taḥadan
+15	18:27:16	e	٢٧	ﳙ			

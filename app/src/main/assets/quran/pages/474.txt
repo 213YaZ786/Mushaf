@@ -1,0 +1,126 @@
+1	40:59:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	40:59:2	w	ٱلسَّاعَةَ	ﱂ	الساعة	the Hour	l-sāʿata
+1	40:59:3	w	لَأٓتِيَةٞ	ﱃ	لاتية	(is) surely coming	laātiyatun
+1	40:59:4	w	لَّا	ﱄ	لا	no	lā
+1	40:59:5	w	رَيۡبَ	ﱅ	ريب	doubt	rayba
+1	40:59:6	w	فِيهَا	ﱆ	فيها	in it	fīhā
+1	40:59:7	w	وَلَٰكِنَّ	ﱇ	ولاكن	but	walākinna
+1	40:59:8	w	أَكۡثَرَ	ﱈ	اكثر	most	akthara
+1	40:59:9	w	ٱلنَّاسِ	ﱉ	الناس	(of) the people	l-nāsi
+2	40:59:10	w	لَا	ﱊ	لا	(do) not	lā
+2	40:59:11	w	يُؤۡمِنُونَ	ﱋ	يومنون	believe	yu'minūna
+2	40:59:12	e	٥٩	ﱌ			
+2	40:60:1	w	وَقَالَ	ﱍ	وقال	And said	waqāla
+2	40:60:2	w	رَبُّكُمُ	ﱎ	ربكم	your Lord	rabbukumu
+2	40:60:3	w	ٱدۡعُونِيٓ	ﱏ	ادعوني	Call upon Me	id'ʿūnī
+2	40:60:4	w	أَسۡتَجِبۡ	ﱐ	استجب	I will respond	astajib
+2	40:60:5	w	لَكُمۡۚ	ﱑﱒ	لكم	to you	lakum
+3	40:60:6	w	إِنَّ	ﱓ	ان	Indeed	inna
+3	40:60:7	w	ٱلَّذِينَ	ﱔ	الذين	those who	alladhīna
+3	40:60:8	w	يَسۡتَكۡبِرُونَ	ﱕ	يستكبرون	(are) proud	yastakbirūna
+3	40:60:9	w	عَنۡ	ﱖ	عن	to	ʿan
+3	40:60:10	w	عِبَادَتِي	ﱗ	عبادتي	worship Me	ʿibādatī
+3	40:60:11	w	سَيَدۡخُلُونَ	ﱘ	سيدخلون	will enter	sayadkhulūna
+3	40:60:12	w	جَهَنَّمَ	ﱙ	جهنم	Hell	jahannama
+4	40:60:13	w	دَاخِرِينَ	ﱚ	داخرين	(in) humiliation	dākhirīna
+4	40:60:14	e	٦٠	ﱛ			
+4	40:61:1	w	ٱللَّهُ	ﱜ	الله	Allah	al-lahu
+4	40:61:2	w	ٱلَّذِي	ﱝ	الذي	(is) the One Who	alladhī
+4	40:61:3	w	جَعَلَ	ﱞ	جعل	made	jaʿala
+4	40:61:4	w	لَكُمُ	ﱟ	لكم	for you	lakumu
+4	40:61:5	w	ٱلَّيۡلَ	ﱠ	الليل	the night	al-layla
+4	40:61:6	w	لِتَسۡكُنُواْ	ﱡ	لتسكنوا	that you may rest	litaskunū
+5	40:61:7	w	فِيهِ	ﱢ	فيه	in it	fīhi
+5	40:61:8	w	وَٱلنَّهَارَ	ﱣ	والنهار	and the day	wal-nahāra
+5	40:61:9	w	مُبۡصِرًاۚ	ﱤﱥ	مبصرا	giving visibility	mub'ṣiran
+5	40:61:10	w	إِنَّ	ﱦ	ان	Indeed	inna
+5	40:61:11	w	ٱللَّهَ	ﱧ	الله	Allah	l-laha
+5	40:61:12	w	لَذُو	ﱨ	لذو	(is) Full (of) Bounty	ladhū
+5	40:61:13	w	فَضۡلٍ	ﱩ	فضل	(is) Full (of) Bounty	faḍlin
+5	40:61:14	w	عَلَى	ﱪ	على	to	ʿalā
+5	40:61:15	w	ٱلنَّاسِ	ﱫ	الناس	the people	l-nāsi
+5	40:61:16	w	وَلَٰكِنَّ	ﱬ	ولاكن	but	walākinna
+6	40:61:17	w	أَكۡثَرَ	ﱭ	اكثر	most	akthara
+6	40:61:18	w	ٱلنَّاسِ	ﱮ	الناس	(of) the people	l-nāsi
+6	40:61:19	w	لَا	ﱯ	لا	(do) not	lā
+6	40:61:20	w	يَشۡكُرُونَ	ﱰ	يشكرون	give thanks	yashkurūna
+6	40:61:21	e	٦١	ﱱ			
+6	40:62:1	w	ذَٰلِكُمُ	ﱲ	ذالكم	That	dhālikumu
+6	40:62:2	w	ٱللَّهُ	ﱳ	الله	(is) Allah	l-lahu
+6	40:62:3	w	رَبُّكُمۡ	ﱴ	ربكم	your Lord	rabbukum
+7	40:62:4	w	خَٰلِقُ	ﱵ	خالق	(the) Creator	khāliqu
+7	40:62:5	w	كُلِّ	ﱶ	كل	(of) all	kulli
+7	40:62:6	w	شَيۡءٖ	ﱷ	شيء	things	shayin
+7	40:62:7	w	لَّآ	ﱸ	لا	(there is) no	lā
+7	40:62:8	w	إِلَٰهَ	ﱹ	الاه	god	ilāha
+7	40:62:9	w	إِلَّا	ﱺ	الا	except	illā
+7	40:62:10	w	هُوَۖ	ﱻﱼ	هو	Him	huwa
+7	40:62:11	w	فَأَنَّىٰ	ﱽ	فانى	So how	fa-annā
+7	40:62:12	w	تُؤۡفَكُونَ	ﱾ	توفكون	are you deluded	tu'fakūna
+7	40:62:13	e	٦٢	ﱿ			
+8	40:63:1	w	كَذَٰلِكَ	ﲀ	كذالك	Thus	kadhālika
+8	40:63:2	w	يُؤۡفَكُ	ﲁ	يوفك	were deluded	yu'faku
+8	40:63:3	w	ٱلَّذِينَ	ﲂ	الذين	those who	alladhīna
+8	40:63:4	w	كَانُواْ	ﲃ	كانوا	were	kānū
+8	40:63:5	w	بِـَٔايَٰتِ	ﲄ	بايات	(the) Signs	biāyāti
+8	40:63:6	w	ٱللَّهِ	ﲅ	الله	(of) Allah	l-lahi
+8	40:63:7	w	يَجۡحَدُونَ	ﲆ	يجحدون	rejecting	yajḥadūna
+8	40:63:8	e	٦٣	ﲇ			
+9	40:64:1	w	ٱللَّهُ	ﲈ	الله	Allah	al-lahu
+9	40:64:2	w	ٱلَّذِي	ﲉ	الذي	(is) the One Who	alladhī
+9	40:64:3	w	جَعَلَ	ﲊ	جعل	made	jaʿala
+9	40:64:4	w	لَكُمُ	ﲋ	لكم	for you	lakumu
+9	40:64:5	w	ٱلۡأَرۡضَ	ﲌ	الارض	the earth	l-arḍa
+9	40:64:6	w	قَرَارٗا	ﲍ	قرارا	a place of settlement	qarāran
+9	40:64:7	w	وَٱلسَّمَآءَ	ﲎ	والسماء	and the sky	wal-samāa
+9	40:64:8	w	بِنَآءٗ	ﲏ	بناء	a canopy	bināan
+10	40:64:9	w	وَصَوَّرَكُمۡ	ﲐ	وصوركم	and He formed you	waṣawwarakum
+10	40:64:10	w	فَأَحۡسَنَ	ﲑ	فاحسن	and perfected	fa-aḥsana
+10	40:64:11	w	صُوَرَكُمۡ	ﲒ	صوركم	your forms	ṣuwarakum
+10	40:64:12	w	وَرَزَقَكُم	ﲓ	ورزقكم	and provided you	warazaqakum
+10	40:64:13	w	مِّنَ	ﲔ	من	of	mina
+11	40:64:14	w	ٱلطَّيِّبَٰتِۚ	ﲕﲖ	الطيبات	the good things	l-ṭayibāti
+11	40:64:15	w	ذَٰلِكُمُ	ﲗ	ذالكم	That	dhālikumu
+11	40:64:16	w	ٱللَّهُ	ﲘ	الله	(is) Allah	l-lahu
+11	40:64:17	w	رَبُّكُمۡۖ	ﲙﲚ	ربكم	your Lord	rabbukum
+11	40:64:18	w	فَتَبَارَكَ	ﲛ	فتبارك	Then blessed (is)	fatabāraka
+11	40:64:19	w	ٱللَّهُ	ﲜ	الله	Allah	l-lahu
+11	40:64:20	w	رَبُّ	ﲝ	رب	(the) Lord	rabbu
+12	40:64:21	w	ٱلۡعَٰلَمِينَ	ﲞ	العالمين	(of) the worlds	l-ʿālamīna
+12	40:64:22	e	٦٤	ﲟ			
+12	40:65:1	w	هُوَ	ﲠ	هو	He	huwa
+12	40:65:2	w	ٱلۡحَيُّ	ﲡ	الحي	(is) the Ever-Living	l-ḥayu
+12	40:65:3	w	لَآ	ﲢ	لا	(there is) no	lā
+12	40:65:4	w	إِلَٰهَ	ﲣ	الاه	god	ilāha
+12	40:65:5	w	إِلَّا	ﲤ	الا	but	illā
+12	40:65:6	w	هُوَ	ﲥ	هو	He	huwa
+12	40:65:7	w	فَٱدۡعُوهُ	ﲦ	فادعوه	so call Him	fa-id'ʿūhu
+12	40:65:8	w	مُخۡلِصِينَ	ﲧ	مخلصين	(being) sincere	mukh'liṣīna
+13	40:65:9	w	لَهُ	ﲨ	له	to Him	lahu
+13	40:65:10	w	ٱلدِّينَۗ	ﲩﲪ	الدين	(in) the religion	l-dīna
+13	40:65:11	w	ٱلۡحَمۡدُ	ﲫ	الحمد	All praise (be)	l-ḥamdu
+13	40:65:12	w	لِلَّهِ	ﲬ	لله	to Allah	lillahi
+13	40:65:13	w	رَبِّ	ﲭ	رب	(the) Lord	rabbi
+13	40:65:14	w	ٱلۡعَٰلَمِينَ	ﲮ	العالمين	(of) the worlds	l-ʿālamīna
+13	40:65:15	e	٦٥	ﲯ			
+13	40:66:1	w	۞ قُلۡ	ﲰ ﲱ	۞ قل	Say	qul
+13	40:66:2	w	إِنِّي	ﲲ	اني	Indeed, I	innī
+14	40:66:3	w	نُهِيتُ	ﲳ	نهيت	[I] have been forbidden	nuhītu
+14	40:66:4	w	أَنۡ	ﲴ	ان	to	an
+14	40:66:5	w	أَعۡبُدَ	ﲵ	اعبد	worship	aʿbuda
+14	40:66:6	w	ٱلَّذِينَ	ﲶ	الذين	those whom	alladhīna
+14	40:66:7	w	تَدۡعُونَ	ﲷ	تدعون	you call	tadʿūna
+14	40:66:8	w	مِن	ﲸ	من	besides	min
+14	40:66:9	w	دُونِ	ﲹ	دون	besides	dūni
+14	40:66:10	w	ٱللَّهِ	ﲺ	الله	Allah	l-lahi
+14	40:66:11	w	لَمَّا	ﲻ	لما	when	lammā
+14	40:66:12	w	جَآءَنِيَ	ﲼ	جاءني	have come to me	jāaniya
+15	40:66:13	w	ٱلۡبَيِّنَٰتُ	ﲽ	البينات	the clear proofs	l-bayinātu
+15	40:66:14	w	مِن	ﲾ	من	from	min
+15	40:66:15	w	رَّبِّي	ﲿ	ربي	my Lord	rabbī
+15	40:66:16	w	وَأُمِرۡتُ	ﳀ	وامرت	and I am commanded	wa-umir'tu
+15	40:66:17	w	أَنۡ	ﳁ	ان	to	an
+15	40:66:18	w	أُسۡلِمَ	ﳂ	اسلم	submit	us'lima
+15	40:66:19	w	لِرَبِّ	ﳃ	لرب	to (the) Lord	lirabbi
+15	40:66:20	w	ٱلۡعَٰلَمِينَ	ﳄ	العالمين	(of) the worlds	l-ʿālamīna
+15	40:66:21	e	٦٦	ﳅ			

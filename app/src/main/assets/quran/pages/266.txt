@@ -1,0 +1,140 @@
+1	15:71:1	w	قَالَ	ﱁ	قال	He said	qāla
+1	15:71:2	w	هَٰٓؤُلَآءِ	ﱂ	هاولاء	These	hāulāi
+1	15:71:3	w	بَنَاتِيٓ	ﱃ	بناتي	(are) my daughters	banātī
+1	15:71:4	w	إِن	ﱄ	ان	if	in
+1	15:71:5	w	كُنتُمۡ	ﱅ	كنتم	you would be	kuntum
+1	15:71:6	w	فَٰعِلِينَ	ﱆ	فاعلين	doers	fāʿilīna
+1	15:71:7	e	٧١	ﱇ			
+1	15:72:1	w	لَعَمۡرُكَ	ﱈ	لعمرك	By your life	laʿamruka
+1	15:72:2	w	إِنَّهُمۡ	ﱉ	انهم	indeed, they	innahum
+1	15:72:3	w	لَفِي	ﱊ	لفي	were in	lafī
+1	15:72:4	w	سَكۡرَتِهِمۡ	ﱋ	سكرتهم	their intoxication	sakratihim
+2	15:72:5	w	يَعۡمَهُونَ	ﱌ	يعمهون	wandering blindly	yaʿmahūna
+2	15:72:6	e	٧٢	ﱍ			
+2	15:73:1	w	فَأَخَذَتۡهُمُ	ﱎ	فاخذتهم	So, seized them	fa-akhadhathumu
+2	15:73:2	w	ٱلصَّيۡحَةُ	ﱏ	الصيحة	the awful cry	l-ṣayḥatu
+2	15:73:3	w	مُشۡرِقِينَ	ﱐ	مشرقين	at sunrise	mush'riqīna
+2	15:73:4	e	٧٣	ﱑ			
+2	15:74:1	w	فَجَعَلۡنَا	ﱒ	فجعلنا	And We made	fajaʿalnā
+2	15:74:2	w	عَٰلِيَهَا	ﱓ	عاليها	its highest (part)	ʿāliyahā
+3	15:74:3	w	سَافِلَهَا	ﱔ	سافلها	its lowest	sāfilahā
+3	15:74:4	w	وَأَمۡطَرۡنَا	ﱕ	وامطرنا	and We rained	wa-amṭarnā
+3	15:74:5	w	عَلَيۡهِمۡ	ﱖ	عليهم	upon them	ʿalayhim
+3	15:74:6	w	حِجَارَةٗ	ﱗ	حجارة	stones	ḥijāratan
+3	15:74:7	w	مِّن	ﱘ	من	of	min
+3	15:74:8	w	سِجِّيلٍ	ﱙ	سجيل	baked clay	sijjīlin
+3	15:74:9	e	٧٤	ﱚ			
+3	15:75:1	w	إِنَّ	ﱛ	ان	Indeed	inna
+3	15:75:2	w	فِي	ﱜ	في	in	fī
+3	15:75:3	w	ذَٰلِكَ	ﱝ	ذالك	that	dhālika
+4	15:75:4	w	لَأٓيَٰتٖ	ﱞ	لايات	(are) the Signs	laāyātin
+4	15:75:5	w	لِّلۡمُتَوَسِّمِينَ	ﱟ	للمتوسمين	for those who discern	lil'mutawassimīna
+4	15:75:6	e	٧٥	ﱠ			
+4	15:76:1	w	وَإِنَّهَا	ﱡ	وانها	And indeed, it	wa-innahā
+4	15:76:2	w	لَبِسَبِيلٖ	ﱢ	لبسبيل	(is) on a road	labisabīlin
+4	15:76:3	w	مُّقِيمٍ	ﱣ	مقيم	established	muqīmin
+4	15:76:4	e	٧٦	ﱤ			
+4	15:77:1	w	إِنَّ	ﱥ	ان	Indeed	inna
+4	15:77:2	w	فِي	ﱦ	في	in	fī
+4	15:77:3	w	ذَٰلِكَ	ﱧ	ذالك	that	dhālika
+5	15:77:4	w	لَأٓيَةٗ	ﱨ	لاية	surely (is) a Sign	laāyatan
+5	15:77:5	w	لِّلۡمُؤۡمِنِينَ	ﱩ	للمومنين	for the believers	lil'mu'minīna
+5	15:77:6	e	٧٧	ﱪ			
+5	15:78:1	w	وَإِن	ﱫ	وان	And were	wa-in
+5	15:78:2	w	كَانَ	ﱬ	كان	And were	kāna
+5	15:78:3	w	أَصۡحَٰبُ	ﱭ	اصحاب	(the) companions	aṣḥābu
+5	15:78:4	w	ٱلۡأَيۡكَةِ	ﱮ	الايكة	(of) the wood	l-aykati
+5	15:78:5	w	لَظَٰلِمِينَ	ﱯ	لظالمين	surely wrongdoers	laẓālimīna
+5	15:78:6	e	٧٨	ﱰ			
+6	15:79:1	w	فَٱنتَقَمۡنَا	ﱱ	فانتقمنا	So We took retribution	fa-intaqamnā
+6	15:79:2	w	مِنۡهُمۡ	ﱲ	منهم	from them	min'hum
+6	15:79:3	w	وَإِنَّهُمَا	ﱳ	وانهما	and indeed, they both	wa-innahumā
+6	15:79:4	w	لَبِإِمَامٖ	ﱴ	لبامام	(were) on a highway	labi-imāmin
+6	15:79:5	w	مُّبِينٖ	ﱵ	مبين	clear	mubīnin
+6	15:79:6	e	٧٩	ﱶ			
+6	15:80:1	w	وَلَقَدۡ	ﱷ	ولقد	And certainly	walaqad
+6	15:80:2	w	كَذَّبَ	ﱸ	كذب	denied	kadhaba
+6	15:80:3	w	أَصۡحَٰبُ	ﱹ	اصحاب	(the) companions	aṣḥābu
+7	15:80:4	w	ٱلۡحِجۡرِ	ﱺ	الحجر	(of) the Rocky Tract	l-ḥij'ri
+7	15:80:5	w	ٱلۡمُرۡسَلِينَ	ﱻ	المرسلين	the Messengers	l-mur'salīna
+7	15:80:6	e	٨٠	ﱼ			
+7	15:81:1	w	وَءَاتَيۡنَٰهُمۡ	ﱽ	واتيناهم	And We gave them	waātaynāhum
+7	15:81:2	w	ءَايَٰتِنَا	ﱾ	اياتنا	Our Signs	āyātinā
+7	15:81:3	w	فَكَانُواْ	ﱿ	فكانوا	but they were	fakānū
+7	15:81:4	w	عَنۡهَا	ﲀ	عنها	from them	ʿanhā
+7	15:81:5	w	مُعۡرِضِينَ	ﲁ	معرضين	turning away	muʿ'riḍīna
+8	15:81:6	e	٨١	ﲂ			
+8	15:82:1	w	وَكَانُواْ	ﲃ	وكانوا	And they used (to)	wakānū
+8	15:82:2	w	يَنۡحِتُونَ	ﲄ	ينحتون	carve	yanḥitūna
+8	15:82:3	w	مِنَ	ﲅ	من	from	mina
+8	15:82:4	w	ٱلۡجِبَالِ	ﲆ	الجبال	the mountains	l-jibāli
+8	15:82:5	w	بُيُوتًا	ﲇ	بيوتا	houses	buyūtan
+8	15:82:6	w	ءَامِنِينَ	ﲈ	امنين	secure	āminīna
+8	15:82:7	e	٨٢	ﲉ			
+8	15:83:1	w	فَأَخَذَتۡهُمُ	ﲊ	فاخذتهم	But seized them	fa-akhadhathumu
+9	15:83:2	w	ٱلصَّيۡحَةُ	ﲋ	الصيحة	the awful cry	l-ṣayḥatu
+9	15:83:3	w	مُصۡبِحِينَ	ﲌ	مصبحين	(at) early morning	muṣ'biḥīna
+9	15:83:4	e	٨٣	ﲍ			
+9	15:84:1	w	فَمَآ	ﲎ	فما	And not	famā
+9	15:84:2	w	أَغۡنَىٰ	ﲏ	اغنى	availed	aghnā
+9	15:84:3	w	عَنۡهُم	ﲐ	عنهم	them	ʿanhum
+9	15:84:4	w	مَّا	ﲑ	ما	what	mā
+9	15:84:5	w	كَانُواْ	ﲒ	كانوا	they used (to)	kānū
+9	15:84:6	w	يَكۡسِبُونَ	ﲓ	يكسبون	earn	yaksibūna
+9	15:84:7	e	٨٤	ﲔ			
+10	15:85:1	w	وَمَا	ﲕ	وما	And not	wamā
+10	15:85:2	w	خَلَقۡنَا	ﲖ	خلقنا	We created	khalaqnā
+10	15:85:3	w	ٱلسَّمَٰوَٰتِ	ﲗ	السماوات	the heavens	l-samāwāti
+10	15:85:4	w	وَٱلۡأَرۡضَ	ﲘ	والارض	and the earth	wal-arḍa
+10	15:85:5	w	وَمَا	ﲙ	وما	and whatever	wamā
+10	15:85:6	w	بَيۡنَهُمَآ	ﲚ	بينهما	(is) between them	baynahumā
+10	15:85:7	w	إِلَّا	ﲛ	الا	except	illā
+10	15:85:8	w	بِٱلۡحَقِّۗ	ﲜﲝ	بالحق	in truth	bil-ḥaqi
+10	15:85:9	w	وَإِنَّ	ﲞ	وان	And indeed	wa-inna
+11	15:85:10	w	ٱلسَّاعَةَ	ﲟ	الساعة	the Hour	l-sāʿata
+11	15:85:11	w	لَأٓتِيَةٞۖ	ﲠﲡ	لاتية	(is) surely coming	laātiyatun
+11	15:85:12	w	فَٱصۡفَحِ	ﲢ	فاصفح	So overlook	fa-iṣ'faḥi
+11	15:85:13	w	ٱلصَّفۡحَ	ﲣ	الصفح	(with) forgiveness	l-ṣafḥa
+11	15:85:14	w	ٱلۡجَمِيلَ	ﲤ	الجميل	gracious	l-jamīla
+11	15:85:15	e	٨٥	ﲥ			
+11	15:86:1	w	إِنَّ	ﲦ	ان	Indeed	inna
+11	15:86:2	w	رَبَّكَ	ﲧ	ربك	your Lord	rabbaka
+11	15:86:3	w	هُوَ	ﲨ	هو	He	huwa
+12	15:86:4	w	ٱلۡخَلَّٰقُ	ﲩ	الخلاق	(is) the Creator	l-khalāqu
+12	15:86:5	w	ٱلۡعَلِيمُ	ﲪ	العليم	the All-Knower	l-ʿalīmu
+12	15:86:6	e	٨٦	ﲫ			
+12	15:87:1	w	وَلَقَدۡ	ﲬ	ولقد	And certainly	walaqad
+12	15:87:2	w	ءَاتَيۡنَٰكَ	ﲭ	اتيناك	We have given you	ātaynāka
+12	15:87:3	w	سَبۡعٗا	ﲮ	سبعا	seven	sabʿan
+12	15:87:4	w	مِّنَ	ﲯ	من	of	mina
+12	15:87:5	w	ٱلۡمَثَانِي	ﲰ	المثاني	the oft-repeated	l-mathānī
+13	15:87:6	w	وَٱلۡقُرۡءَانَ	ﲱ	والقران	and the Quran	wal-qur'āna
+13	15:87:7	w	ٱلۡعَظِيمَ	ﲲ	العظيم	Great	l-ʿaẓīma
+13	15:87:8	e	٨٧	ﲳ			
+13	15:88:1	w	لَا	ﲴ	لا	(Do) not	lā
+13	15:88:2	w	تَمُدَّنَّ	ﲵ	تمدن	extend	tamuddanna
+13	15:88:3	w	عَيۡنَيۡكَ	ﲶ	عينيك	your eyes	ʿaynayka
+13	15:88:4	w	إِلَىٰ	ﲷ	الى	towards	ilā
+13	15:88:5	w	مَا	ﲸ	ما	what	mā
+13	15:88:6	w	مَتَّعۡنَا	ﲹ	متعنا	We have bestowed	mattaʿnā
+13	15:88:7	w	بِهِۦٓ	ﲺ	به	with it	bihi
+13	15:88:8	w	أَزۡوَٰجٗا	ﲻ	ازواجا	(to) categories	azwājan
+14	15:88:9	w	مِّنۡهُمۡ	ﲼ	منهم	of them	min'hum
+14	15:88:10	w	وَلَا	ﲽ	ولا	and (do) not	walā
+14	15:88:11	w	تَحۡزَنۡ	ﲾ	تحزن	grieve	taḥzan
+14	15:88:12	w	عَلَيۡهِمۡ	ﲿ	عليهم	over them	ʿalayhim
+14	15:88:13	w	وَٱخۡفِضۡ	ﳀ	واخفض	And lower	wa-ikh'fiḍ
+14	15:88:14	w	جَنَاحَكَ	ﳁ	جناحك	your wing	janāḥaka
+14	15:88:15	w	لِلۡمُؤۡمِنِينَ	ﳂ	للمومنين	to the believers	lil'mu'minīna
+14	15:88:16	e	٨٨	ﳃ			
+14	15:89:1	w	وَقُلۡ	ﳄ	وقل	And say	waqul
+15	15:89:2	w	إِنِّيٓ	ﳅ	اني	Indeed, I	innī
+15	15:89:3	w	أَنَا	ﳆ	انا	[I] am	anā
+15	15:89:4	w	ٱلنَّذِيرُ	ﳇ	النذير	a warner	l-nadhīru
+15	15:89:5	w	ٱلۡمُبِينُ	ﳈ	المبين	clear	l-mubīnu
+15	15:89:6	e	٨٩	ﳉ			
+15	15:90:1	w	كَمَآ	ﳊ	كما	As	kamā
+15	15:90:2	w	أَنزَلۡنَا	ﳋ	انزلنا	We sent down	anzalnā
+15	15:90:3	w	عَلَى	ﳌ	على	on	ʿalā
+15	15:90:4	w	ٱلۡمُقۡتَسِمِينَ	ﳍ	المقتسمين	those who divided	l-muq'tasimīna
+15	15:90:5	e	٩٠	ﳎ			

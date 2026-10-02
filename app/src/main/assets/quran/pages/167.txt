@@ -1,0 +1,130 @@
+1	7:138:1	w	وَجَٰوَزۡنَا	ﱁ	وجاوزنا	And We led across	wajāwaznā
+1	7:138:2	w	بِبَنِيٓ	ﱂ	ببني	(the) Children	bibanī
+1	7:138:3	w	إِسۡرَٰٓءِيلَ	ﱃ	اسراييل	(of) Israel	is'rāīla
+1	7:138:4	w	ٱلۡبَحۡرَ	ﱄ	البحر	the sea	l-baḥra
+1	7:138:5	w	فَأَتَوۡاْ	ﱅ	فاتوا	Then they came	fa-ataw
+1	7:138:6	w	عَلَىٰ	ﱆ	على	upon	ʿalā
+1	7:138:7	w	قَوۡمٖ	ﱇ	قوم	a people	qawmin
+1	7:138:8	w	يَعۡكُفُونَ	ﱈ	يعكفون	devoted	yaʿkufūna
+2	7:138:9	w	عَلَىٰٓ	ﱉ	على	to	ʿalā
+2	7:138:10	w	أَصۡنَامٖ	ﱊ	اصنام	idols	aṣnāmin
+2	7:138:11	w	لَّهُمۡۚ	ﱋﱌ	لهم	of theirs	lahum
+2	7:138:12	w	قَالُواْ	ﱍ	قالوا	They said	qālū
+2	7:138:13	w	يَٰمُوسَى	ﱎ	يا موسى	O Musa	yāmūsā
+2	7:138:14	w	ٱجۡعَل	ﱏ	اجعل	Make	ij'ʿal
+2	7:138:15	w	لَّنَآ	ﱐ	لنا	for us	lanā
+2	7:138:16	w	إِلَٰهٗا	ﱑ	الاها	a god	ilāhan
+2	7:138:17	w	كَمَا	ﱒ	كما	like what	kamā
+3	7:138:18	w	لَهُمۡ	ﱓ	لهم	they have	lahum
+3	7:138:19	w	ءَالِهَةٞۚ	ﱔﱕ	الهة	gods	ālihatun
+3	7:138:20	w	قَالَ	ﱖ	قال	He said	qāla
+3	7:138:21	w	إِنَّكُمۡ	ﱗ	انكم	Indeed, you	innakum
+3	7:138:22	w	قَوۡمٞ	ﱘ	قوم	(are) a people	qawmun
+3	7:138:23	w	تَجۡهَلُونَ	ﱙ	تجهلون	ignorant	tajhalūna
+3	7:138:24	e	١٣٨	ﱚ			
+3	7:139:1	w	إِنَّ	ﱛ	ان	Indeed	inna
+3	7:139:2	w	هَٰٓؤُلَآءِ	ﱜ	هاولاء	these	hāulāi
+3	7:139:3	w	مُتَبَّرٞ	ﱝ	متبر	destroyed	mutabbarun
+4	7:139:4	w	مَّا	ﱞ	ما	(is) what	mā
+4	7:139:5	w	هُمۡ	ﱟ	هم	they	hum
+4	7:139:6	w	فِيهِ	ﱠ	فيه	(are) in it	fīhi
+4	7:139:7	w	وَبَٰطِلٞ	ﱡ	وباطل	and vain	wabāṭilun
+4	7:139:8	w	مَّا	ﱢ	ما	(is) what	mā
+4	7:139:9	w	كَانُواْ	ﱣ	كانوا	they used to	kānū
+4	7:139:10	w	يَعۡمَلُونَ	ﱤ	يعملون	do	yaʿmalūna
+4	7:139:11	e	١٣٩	ﱥ			
+4	7:140:1	w	قَالَ	ﱦ	قال	He said	qāla
+4	7:140:2	w	أَغَيۡرَ	ﱧ	اغير	Should other than	aghayra
+4	7:140:3	w	ٱللَّهِ	ﱨ	الله	Allah	l-lahi
+5	7:140:4	w	أَبۡغِيكُمۡ	ﱩ	ابغيكم	I seek for you	abghīkum
+5	7:140:5	w	إِلَٰهٗا	ﱪ	الاها	a god	ilāhan
+5	7:140:6	w	وَهُوَ	ﱫ	وهو	while He	wahuwa
+5	7:140:7	w	فَضَّلَكُمۡ	ﱬ	فضلكم	has preferred you	faḍḍalakum
+5	7:140:8	w	عَلَى	ﱭ	على	over	ʿalā
+5	7:140:9	w	ٱلۡعَٰلَمِينَ	ﱮ	العالمين	the worlds	l-ʿālamīna
+5	7:140:10	e	١٤٠	ﱯ			
+5	7:141:1	w	وَإِذۡ	ﱰ	واذ	And when	wa-idh
+5	7:141:2	w	أَنجَيۡنَٰكُم	ﱱ	انجيناكم	We saved you	anjaynākum
+6	7:141:3	w	مِّنۡ	ﱲ	من	from	min
+6	7:141:4	w	ءَالِ	ﱳ	ال	(the) people	āli
+6	7:141:5	w	فِرۡعَوۡنَ	ﱴ	فرعون	(of) Firaun	fir'ʿawna
+6	7:141:6	w	يَسُومُونَكُمۡ	ﱵ	يسومونكم	who were afflicting you	yasūmūnakum
+6	7:141:7	w	سُوٓءَ	ﱶ	سوء	(with) worst	sūa
+6	7:141:8	w	ٱلۡعَذَابِ	ﱷ	العذاب	(of) torment	l-ʿadhābi
+6	7:141:9	w	يُقَتِّلُونَ	ﱸ	يقتلون	they were killing	yuqattilūna
+7	7:141:10	w	أَبۡنَآءَكُمۡ	ﱹ	ابناءكم	your sons	abnāakum
+7	7:141:11	w	وَيَسۡتَحۡيُونَ	ﱺ	ويستحيون	and letting live	wayastaḥyūna
+7	7:141:12	w	نِسَآءَكُمۡۚ	ﱻﱼ	نساءكم	your women	nisāakum
+7	7:141:13	w	وَفِي	ﱽ	وفي	And in	wafī
+7	7:141:14	w	ذَٰلِكُم	ﱾ	ذالكم	that	dhālikum
+7	7:141:15	w	بَلَآءٞ	ﱿ	بلاء	(was) a trial	balāon
+8	7:141:16	w	مِّن	ﲀ	من	from	min
+8	7:141:17	w	رَّبِّكُمۡ	ﲁ	ربكم	your Lord	rabbikum
+8	7:141:18	w	عَظِيمٞ	ﲂ	عظيم	great	ʿaẓīmun
+8	7:141:19	e	١٤١	ﲃ			
+8	7:142:1	w	۞ وَوَٰعَدۡنَا	ﲄ ﲅ	۞ وواعدنا	And We appointed	wawāʿadnā
+8	7:142:2	w	مُوسَىٰ	ﲆ	موسى	(for) Musa	mūsā
+8	7:142:3	w	ثَلَٰثِينَ	ﲇ	ثلاثين	thirty	thalāthīna
+8	7:142:4	w	لَيۡلَةٗ	ﲈ	ليلة	nights	laylatan
+9	7:142:5	w	وَأَتۡمَمۡنَٰهَا	ﲉ	واتممناها	and We completed them	wa-atmamnāhā
+9	7:142:6	w	بِعَشۡرٖ	ﲊ	بعشر	with ten (more)	biʿashrin
+9	7:142:7	w	فَتَمَّ	ﲋ	فتم	so was completed	fatamma
+9	7:142:8	w	مِيقَٰتُ	ﲌ	ميقات	(the) set term	mīqātu
+9	7:142:9	w	رَبِّهِۦٓ	ﲍ	ربه	(of) his Lord	rabbihi
+9	7:142:10	w	أَرۡبَعِينَ	ﲎ	اربعين	(of) forty	arbaʿīna
+9	7:142:11	w	لَيۡلَةٗۚ	ﲏﲐ	ليلة	night(s)	laylatan
+9	7:142:12	w	وَقَالَ	ﲑ	وقال	And said	waqāla
+10	7:142:13	w	مُوسَىٰ	ﲒ	موسى	Musa	mūsā
+10	7:142:14	w	لِأَخِيهِ	ﲓ	لاخيه	to his brother	li-akhīhi
+10	7:142:15	w	هَٰرُونَ	ﲔ	هارون	Harun	hārūna
+10	7:142:16	w	ٱخۡلُفۡنِي	ﲕ	اخلفني	Take my place	ukh'luf'nī
+10	7:142:17	w	فِي	ﲖ	في	in	fī
+10	7:142:18	w	قَوۡمِي	ﲗ	قومي	my people	qawmī
+10	7:142:19	w	وَأَصۡلِحۡ	ﲘ	واصلح	and do right	wa-aṣliḥ
+10	7:142:20	w	وَلَا	ﲙ	ولا	and (do) not	walā
+10	7:142:21	w	تَتَّبِعۡ	ﲚ	تتبع	follow	tattabiʿ
+11	7:142:22	w	سَبِيلَ	ﲛ	سبيل	(the) way	sabīla
+11	7:142:23	w	ٱلۡمُفۡسِدِينَ	ﲜ	المفسدين	(of) the corrupters	l-muf'sidīna
+11	7:142:24	e	١٤٢	ﲝ			
+11	7:143:1	w	وَلَمَّا	ﲞ	ولما	And when	walammā
+11	7:143:2	w	جَآءَ	ﲟ	جاء	came	jāa
+11	7:143:3	w	مُوسَىٰ	ﲠ	موسى	Musa	mūsā
+11	7:143:4	w	لِمِيقَٰتِنَا	ﲡ	لميقاتنا	to Our appointed place	limīqātinā
+11	7:143:5	w	وَكَلَّمَهُۥ	ﲢ	وكلمه	and spoke to him	wakallamahu
+12	7:143:6	w	رَبُّهُۥ	ﲣ	ربه	his Lord	rabbuhu
+12	7:143:7	w	قَالَ	ﲤ	قال	he said	qāla
+12	7:143:8	w	رَبِّ	ﲥ	رب	O my Lord	rabbi
+12	7:143:9	w	أَرِنِيٓ	ﲦ	ارني	Show me	arinī
+12	7:143:10	w	أَنظُرۡ	ﲧ	انظر	(that) I may look	anẓur
+12	7:143:11	w	إِلَيۡكَۚ	ﲨﲩ	اليك	at You	ilayka
+12	7:143:12	w	قَالَ	ﲪ	قال	He said	qāla
+12	7:143:13	w	لَن	ﲫ	لن	Never	lan
+12	7:143:14	w	تَرَىٰنِي	ﲬ	تراني	you (can) see Me	tarānī
+12	7:143:15	w	وَلَٰكِنِ	ﲭ	ولاكن	but	walākini
+13	7:143:16	w	ٱنظُرۡ	ﲮ	انظر	look	unẓur
+13	7:143:17	w	إِلَى	ﲯ	الى	at	ilā
+13	7:143:18	w	ٱلۡجَبَلِ	ﲰ	الجبل	the mountain	l-jabali
+13	7:143:19	w	فَإِنِ	ﲱ	فان	[then] if	fa-ini
+13	7:143:20	w	ٱسۡتَقَرَّ	ﲲ	استقر	it remains	is'taqarra
+13	7:143:21	w	مَكَانَهُۥ	ﲳ	مكانه	in its place	makānahu
+13	7:143:22	w	فَسَوۡفَ	ﲴ	فسوف	then	fasawfa
+13	7:143:23	w	تَرَىٰنِيۚ	ﲵﲶ	تراني	you (will) see Me	tarānī
+13	7:143:24	w	فَلَمَّا	ﲷ	فلما	But when	falammā
+14	7:143:25	w	تَجَلَّىٰ	ﲸ	تجلى	revealed (His) Glory	tajallā
+14	7:143:26	w	رَبُّهُۥ	ﲹ	ربه	his Lord	rabbuhu
+14	7:143:27	w	لِلۡجَبَلِ	ﲺ	للجبل	to the mountain	lil'jabali
+14	7:143:28	w	جَعَلَهُۥ	ﲻ	جعله	He made it	jaʿalahu
+14	7:143:29	w	دَكّٗا	ﲼ	دكا	crumbled to dust	dakkan
+14	7:143:30	w	وَخَرَّ	ﲽ	وخر	and fell down	wakharra
+14	7:143:31	w	مُوسَىٰ	ﲾ	موسى	Musa	mūsā
+14	7:143:32	w	صَعِقٗاۚ	ﲿﳀ	صعقا	unconscious	ṣaʿiqan
+14	7:143:33	w	فَلَمَّآ	ﳁ	فلما	And when	falammā
+15	7:143:34	w	أَفَاقَ	ﳂ	افاق	he recovered	afāqa
+15	7:143:35	w	قَالَ	ﳃ	قال	he said	qāla
+15	7:143:36	w	سُبۡحَٰنَكَ	ﳄ	سبحانك	Glory be to You	sub'ḥānaka
+15	7:143:37	w	تُبۡتُ	ﳅ	تبت	I turn (in repentance)	tub'tu
+15	7:143:38	w	إِلَيۡكَ	ﳆ	اليك	to you	ilayka
+15	7:143:39	w	وَأَنَا۠	ﳇ	وانا	and I am	wa-anā
+15	7:143:40	w	أَوَّلُ	ﳈ	اول	(the) first	awwalu
+15	7:143:41	w	ٱلۡمُؤۡمِنِينَ	ﳉ	المومنين	(of) the believers	l-mu'minīna
+15	7:143:42	e	١٤٣	ﳊ			

@@ -1,0 +1,136 @@
+1	35:12:1	w	وَمَا	ﱁ	وما	And not	wamā
+1	35:12:2	w	يَسۡتَوِي	ﱂ	يستوي	are alike	yastawī
+1	35:12:3	w	ٱلۡبَحۡرَانِ	ﱃ	البحران	the two seas	l-baḥrāni
+1	35:12:4	w	هَٰذَا	ﱄ	هاذا	This	hādhā
+1	35:12:5	w	عَذۡبٞ	ﱅ	عذب	(is) fresh	ʿadhbun
+1	35:12:6	w	فُرَاتٞ	ﱆ	فرات	sweet	furātun
+1	35:12:7	w	سَآئِغٞ	ﱇ	سايغ	pleasant	sāighun
+1	35:12:8	w	شَرَابُهُۥ	ﱈ	شرابه	its drink	sharābuhu
+1	35:12:9	w	وَهَٰذَا	ﱉ	وهاذا	and this	wahādhā
+2	35:12:10	w	مِلۡحٌ	ﱊ	ملح	salty	mil'ḥun
+2	35:12:11	w	أُجَاجٞۖ	ﱋﱌ	اجاج	(and) bitter	ujājun
+2	35:12:12	w	وَمِن	ﱍ	ومن	And from	wamin
+2	35:12:13	w	كُلّٖ	ﱎ	كل	each	kullin
+2	35:12:14	w	تَأۡكُلُونَ	ﱏ	تاكلون	you eat	takulūna
+2	35:12:15	w	لَحۡمٗا	ﱐ	لحما	meat	laḥman
+2	35:12:16	w	طَرِيّٗا	ﱑ	طريا	fresh	ṭariyyan
+2	35:12:17	w	وَتَسۡتَخۡرِجُونَ	ﱒ	وتستخرجون	and you extract	watastakhrijūna
+3	35:12:18	w	حِلۡيَةٗ	ﱓ	حلية	ornaments	ḥil'yatan
+3	35:12:19	w	تَلۡبَسُونَهَاۖ	ﱔﱕ	تلبسونها	you wear them	talbasūnahā
+3	35:12:20	w	وَتَرَى	ﱖ	وترى	and you see	watarā
+3	35:12:21	w	ٱلۡفُلۡكَ	ﱗ	الفلك	the ships	l-ful'ka
+3	35:12:22	w	فِيهِ	ﱘ	فيه	in it	fīhi
+3	35:12:23	w	مَوَاخِرَ	ﱙ	مواخر	cleaving	mawākhira
+3	35:12:24	w	لِتَبۡتَغُواْ	ﱚ	لتبتغوا	so that you may seek	litabtaghū
+3	35:12:25	w	مِن	ﱛ	من	of	min
+3	35:12:26	w	فَضۡلِهِۦ	ﱜ	فضله	His Bounty	faḍlihi
+4	35:12:27	w	وَلَعَلَّكُمۡ	ﱝ	ولعلكم	and that you may	walaʿallakum
+4	35:12:28	w	تَشۡكُرُونَ	ﱞ	تشكرون	be grateful	tashkurūna
+4	35:12:29	e	١٢	ﱟ			
+4	35:13:1	w	يُولِجُ	ﱠ	يولج	He causes to enter	yūliju
+4	35:13:2	w	ٱلَّيۡلَ	ﱡ	الليل	the night	al-layla
+4	35:13:3	w	فِي	ﱢ	في	in (to)	fī
+4	35:13:4	w	ٱلنَّهَارِ	ﱣ	النهار	the day	l-nahāri
+4	35:13:5	w	وَيُولِجُ	ﱤ	ويولج	and He causes to enter	wayūliju
+5	35:13:6	w	ٱلنَّهَارَ	ﱥ	النهار	the day	l-nahāra
+5	35:13:7	w	فِي	ﱦ	في	in (to)	fī
+5	35:13:8	w	ٱلَّيۡلِ	ﱧ	الليل	the night	al-layli
+5	35:13:9	w	وَسَخَّرَ	ﱨ	وسخر	and He has subjected	wasakhara
+5	35:13:10	w	ٱلشَّمۡسَ	ﱩ	الشمس	the sun	l-shamsa
+5	35:13:11	w	وَٱلۡقَمَرَۖ	ﱪﱫ	والقمر	and the moon	wal-qamara
+5	35:13:12	w	كُلّٞ	ﱬ	كل	each	kullun
+5	35:13:13	w	يَجۡرِي	ﱭ	يجري	running	yajrī
+6	35:13:14	w	لِأَجَلٖ	ﱮ	لاجل	for a term	li-ajalin
+6	35:13:15	w	مُّسَمّٗىۚ	ﱯﱰ	مسمى	appointed	musamman
+6	35:13:16	w	ذَٰلِكُمُ	ﱱ	ذالكم	That (is)	dhālikumu
+6	35:13:17	w	ٱللَّهُ	ﱲ	الله	Allah	l-lahu
+6	35:13:18	w	رَبُّكُمۡ	ﱳ	ربكم	your Lord	rabbukum
+6	35:13:19	w	لَهُ	ﱴ	له	for Him	lahu
+6	35:13:20	w	ٱلۡمُلۡكُۚ	ﱵﱶ	الملك	(is) the Dominion	l-mul'ku
+6	35:13:21	w	وَٱلَّذِينَ	ﱷ	والذين	And those whom	wa-alladhīna
+7	35:13:22	w	تَدۡعُونَ	ﱸ	تدعون	you invoke	tadʿūna
+7	35:13:23	w	مِن	ﱹ	من	besides Him	min
+7	35:13:24	w	دُونِهِۦ	ﱺ	دونه	besides Him	dūnihi
+7	35:13:25	w	مَا	ﱻ	ما	not	mā
+7	35:13:26	w	يَمۡلِكُونَ	ﱼ	يملكون	they possess	yamlikūna
+7	35:13:27	w	مِن	ﱽ	من	even	min
+7	35:13:28	w	قِطۡمِيرٍ	ﱾ	قطمير	(as much as) the membrane of a date-seed	qiṭ'mīrin
+7	35:13:29	e	١٣	ﱿ			
+7	35:14:1	w	إِن	ﲀ	ان	If	in
+8	35:14:2	w	تَدۡعُوهُمۡ	ﲁ	تدعوهم	you invoke them	tadʿūhum
+8	35:14:3	w	لَا	ﲂ	لا	not	lā
+8	35:14:4	w	يَسۡمَعُواْ	ﲃ	يسمعوا	they hear	yasmaʿū
+8	35:14:5	w	دُعَآءَكُمۡ	ﲄ	دعاءكم	your call	duʿāakum
+8	35:14:6	w	وَلَوۡ	ﲅ	ولو	and if	walaw
+8	35:14:7	w	سَمِعُواْ	ﲆ	سمعوا	they heard	samiʿū
+8	35:14:8	w	مَا	ﲇ	ما	not	mā
+8	35:14:9	w	ٱسۡتَجَابُواْ	ﲈ	استجابوا	they (would) respond	is'tajābū
+8	35:14:10	w	لَكُمۡۖ	ﲉﲊ	لكم	to you	lakum
+9	35:14:11	w	وَيَوۡمَ	ﲋ	ويوم	And (on the) Day	wayawma
+9	35:14:12	w	ٱلۡقِيَٰمَةِ	ﲌ	القيامة	(of) the Resurrection	l-qiyāmati
+9	35:14:13	w	يَكۡفُرُونَ	ﲍ	يكفرون	they will deny	yakfurūna
+9	35:14:14	w	بِشِرۡكِكُمۡۚ	ﲎﲏ	بشرككم	your association	bishir'kikum
+9	35:14:15	w	وَلَا	ﲐ	ولا	And none	walā
+9	35:14:16	w	يُنَبِّئُكَ	ﲑ	ينبيك	can inform you	yunabbi-uka
+9	35:14:17	w	مِثۡلُ	ﲒ	مثل	like	mith'lu
+9	35:14:18	w	خَبِيرٖ	ﲓ	خبير	(the) All-Aware	khabīrin
+10	35:14:19	e	١٤	ﲔ			
+10	35:15:1	w	۞ يَٰٓأَيُّهَا	ﲕ ﲖ	۞ يا ايها	O	yāayyuhā
+10	35:15:2	w	ٱلنَّاسُ	ﲗ	الناس	mankind	l-nāsu
+10	35:15:3	w	أَنتُمُ	ﲘ	انتم	You	antumu
+10	35:15:4	w	ٱلۡفُقَرَآءُ	ﲙ	الفقراء	(are) those in need	l-fuqarāu
+10	35:15:5	w	إِلَى	ﲚ	الى	of	ilā
+10	35:15:6	w	ٱللَّهِۖ	ﲛﲜ	الله	Allah	l-lahi
+10	35:15:7	w	وَٱللَّهُ	ﲝ	والله	while Allah	wal-lahu
+10	35:15:8	w	هُوَ	ﲞ	هو	He	huwa
+10	35:15:9	w	ٱلۡغَنِيُّ	ﲟ	الغني	(is) Free of need	l-ghaniyu
+11	35:15:10	w	ٱلۡحَمِيدُ	ﲠ	الحميد	the Praiseworthy	l-ḥamīdu
+11	35:15:11	e	١٥	ﲡ			
+11	35:16:1	w	إِن	ﲢ	ان	If	in
+11	35:16:2	w	يَشَأۡ	ﲣ	يشا	He wills	yasha
+11	35:16:3	w	يُذۡهِبۡكُمۡ	ﲤ	يذهبكم	He (can) do away with you	yudh'hib'kum
+11	35:16:4	w	وَيَأۡتِ	ﲥ	ويات	and bring	wayati
+11	35:16:5	w	بِخَلۡقٖ	ﲦ	بخلق	in a creation	bikhalqin
+11	35:16:6	w	جَدِيدٖ	ﲧ	جديد	new	jadīdin
+11	35:16:7	e	١٦	ﲨ			
+12	35:17:1	w	وَمَا	ﲩ	وما	And not	wamā
+12	35:17:2	w	ذَٰلِكَ	ﲪ	ذالك	that	dhālika
+12	35:17:3	w	عَلَى	ﲫ	على	(is) on	ʿalā
+12	35:17:4	w	ٱللَّهِ	ﲬ	الله	Allah	l-lahi
+12	35:17:5	w	بِعَزِيزٖ	ﲭ	بعزيز	difficult	biʿazīzin
+12	35:17:6	e	١٧	ﲮ			
+12	35:18:1	w	وَلَا	ﲯ	ولا	And not	walā
+12	35:18:2	w	تَزِرُ	ﲰ	تزر	will bear	taziru
+12	35:18:3	w	وَازِرَةٞ	ﲱ	وازرة	bearer of burdens	wāziratun
+12	35:18:4	w	وِزۡرَ	ﲲ	وزر	burden	wiz'ra
+12	35:18:5	w	أُخۡرَىٰۚ	ﲳﲴ	اخرى	(of) another	ukh'rā
+12	35:18:6	w	وَإِن	ﲵ	وان	And if	wa-in
+13	35:18:7	w	تَدۡعُ	ﲶ	تدع	calls	tadʿu
+13	35:18:8	w	مُثۡقَلَةٌ	ﲷ	مثقلة	a heavily laden	muth'qalatun
+13	35:18:9	w	إِلَىٰ	ﲸ	الى	to	ilā
+13	35:18:10	w	حِمۡلِهَا	ﲹ	حملها	(carry) its load	ḥim'lihā
+13	35:18:11	w	لَا	ﲺ	لا	not	lā
+13	35:18:12	w	يُحۡمَلۡ	ﲻ	يحمل	will be carried	yuḥ'mal
+13	35:18:13	w	مِنۡهُ	ﲼ	منه	of it	min'hu
+13	35:18:14	w	شَيۡءٞ	ﲽ	شيء	anything	shayon
+13	35:18:15	w	وَلَوۡ	ﲾ	ولو	even if	walaw
+13	35:18:16	w	كَانَ	ﲿ	كان	he be	kāna
+13	35:18:17	w	ذَا	ﳀ	ذا	near of kin	dhā
+13	35:18:18	w	قُرۡبَىٰٓۗ	ﳁﳂ	قربى	near of kin	qur'bā
+14	35:18:19	w	إِنَّمَا	ﳃ	انما	Only	innamā
+14	35:18:20	w	تُنذِرُ	ﳄ	تنذر	you can warn	tundhiru
+14	35:18:21	w	ٱلَّذِينَ	ﳅ	الذين	those who	alladhīna
+14	35:18:22	w	يَخۡشَوۡنَ	ﳆ	يخشون	fear	yakhshawna
+14	35:18:23	w	رَبَّهُم	ﳇ	ربهم	their Lord	rabbahum
+14	35:18:24	w	بِٱلۡغَيۡبِ	ﳈ	بالغيب	unseen	bil-ghaybi
+14	35:18:25	w	وَأَقَامُواْ	ﳉ	واقاموا	and establish	wa-aqāmū
+14	35:18:26	w	ٱلصَّلَوٰةَۚ	ﳊﳋ	الصلاة	the prayer	l-ṣalata
+15	35:18:27	w	وَمَن	ﳌ	ومن	And whoever	waman
+15	35:18:28	w	تَزَكَّىٰ	ﳍ	تزكى	purifies himself	tazakkā
+15	35:18:29	w	فَإِنَّمَا	ﳎ	فانما	then only	fa-innamā
+15	35:18:30	w	يَتَزَكَّىٰ	ﳏ	يتزكى	he purifies	yatazakkā
+15	35:18:31	w	لِنَفۡسِهِۦۚ	ﳐﳑ	لنفسه	for his own self	linafsihi
+15	35:18:32	w	وَإِلَى	ﳒ	والى	And to	wa-ilā
+15	35:18:33	w	ٱللَّهِ	ﳓ	الله	Allah	l-lahi
+15	35:18:34	w	ٱلۡمَصِيرُ	ﳔ	المصير	(is) the destination	l-maṣīru
+15	35:18:35	e	١٨	ﳕ			

@@ -1,0 +1,128 @@
+1	9:55:1	w	فَلَا	ﱁ	فلا	So (let) not	falā
+1	9:55:2	w	تُعۡجِبۡكَ	ﱂ	تعجبك	impress you	tuʿ'jib'ka
+1	9:55:3	w	أَمۡوَٰلُهُمۡ	ﱃ	اموالهم	their wealth	amwāluhum
+1	9:55:4	w	وَلَآ	ﱄ	ولا	and not	walā
+1	9:55:5	w	أَوۡلَٰدُهُمۡۚ	ﱅﱆ	اولادهم	their children	awlāduhum
+1	9:55:6	w	إِنَّمَا	ﱇ	انما	Only	innamā
+1	9:55:7	w	يُرِيدُ	ﱈ	يريد	Allah intends	yurīdu
+1	9:55:8	w	ٱللَّهُ	ﱉ	الله	Allah intends	l-lahu
+1	9:55:9	w	لِيُعَذِّبَهُم	ﱊ	ليعذبهم	to punish them	liyuʿadhibahum
+2	9:55:10	w	بِهَا	ﱋ	بها	with it	bihā
+2	9:55:11	w	فِي	ﱌ	في	in	fī
+2	9:55:12	w	ٱلۡحَيَوٰةِ	ﱍ	الحياة	the life	l-ḥayati
+2	9:55:13	w	ٱلدُّنۡيَا	ﱎ	الدنيا	(of) the world	l-dun'yā
+2	9:55:14	w	وَتَزۡهَقَ	ﱏ	وتزهق	and should depart	watazhaqa
+2	9:55:15	w	أَنفُسُهُمۡ	ﱐ	انفسهم	their souls	anfusuhum
+2	9:55:16	w	وَهُمۡ	ﱑ	وهم	while they	wahum
+2	9:55:17	w	كَٰفِرُونَ	ﱒ	كافرون	(are) disbelievers	kāfirūna
+3	9:55:18	e	٥٥	ﱓ			
+3	9:56:1	w	وَيَحۡلِفُونَ	ﱔ	ويحلفون	And they swear	wayaḥlifūna
+3	9:56:2	w	بِٱللَّهِ	ﱕ	بالله	by Allah	bil-lahi
+3	9:56:3	w	إِنَّهُمۡ	ﱖ	انهم	indeed, they	innahum
+3	9:56:4	w	لَمِنكُمۡ	ﱗ	لمنكم	surely (are) of you	laminkum
+3	9:56:5	w	وَمَا	ﱘ	وما	while not	wamā
+3	9:56:6	w	هُم	ﱙ	هم	they	hum
+3	9:56:7	w	مِّنكُمۡ	ﱚ	منكم	(are) of you	minkum
+3	9:56:8	w	وَلَٰكِنَّهُمۡ	ﱛ	ولاكنهم	but they	walākinnahum
+4	9:56:9	w	قَوۡمٞ	ﱜ	قوم	(are) a people	qawmun
+4	9:56:10	w	يَفۡرَقُونَ	ﱝ	يفرقون	(who) are afraid	yafraqūna
+4	9:56:11	e	٥٦	ﱞ			
+4	9:57:1	w	لَوۡ	ﱟ	لو	If	law
+4	9:57:2	w	يَجِدُونَ	ﱠ	يجدون	they could find	yajidūna
+4	9:57:3	w	مَلۡجَـًٔا	ﱡ	ملجا	a refuge	malja-an
+4	9:57:4	w	أَوۡ	ﱢ	او	or	aw
+4	9:57:5	w	مَغَٰرَٰتٍ	ﱣ	مغارات	caves	maghārātin
+4	9:57:6	w	أَوۡ	ﱤ	او	or	aw
+4	9:57:7	w	مُدَّخَلٗا	ﱥ	مدخلا	a place to enter	muddakhalan
+5	9:57:8	w	لَّوَلَّوۡاْ	ﱦ	لولوا	surely, they would turn	lawallaw
+5	9:57:9	w	إِلَيۡهِ	ﱧ	اليه	to it	ilayhi
+5	9:57:10	w	وَهُمۡ	ﱨ	وهم	and they	wahum
+5	9:57:11	w	يَجۡمَحُونَ	ﱩ	يجمحون	run wild	yajmaḥūna
+5	9:57:12	e	٥٧	ﱪ			
+5	9:58:1	w	وَمِنۡهُم	ﱫ	ومنهم	And among them	wamin'hum
+5	9:58:2	w	مَّن	ﱬ	من	(is he) who	man
+5	9:58:3	w	يَلۡمِزُكَ	ﱭ	يلمزك	criticizes you	yalmizuka
+5	9:58:4	w	فِي	ﱮ	في	concerning	fī
+6	9:58:5	w	ٱلصَّدَقَٰتِ	ﱯ	الصدقات	the charities	l-ṣadaqāti
+6	9:58:6	w	فَإِنۡ	ﱰ	فان	Then if	fa-in
+6	9:58:7	w	أُعۡطُواْ	ﱱ	اعطوا	they are given	uʿ'ṭū
+6	9:58:8	w	مِنۡهَا	ﱲ	منها	from it	min'hā
+6	9:58:9	w	رَضُواْ	ﱳ	رضوا	they are pleased	raḍū
+6	9:58:10	w	وَإِن	ﱴ	وان	but if	wa-in
+6	9:58:11	w	لَّمۡ	ﱵ	لم	not	lam
+6	9:58:12	w	يُعۡطَوۡاْ	ﱶ	يعطوا	they are given	yuʿ'ṭaw
+6	9:58:13	w	مِنۡهَآ	ﱷ	منها	from it	min'hā
+6	9:58:14	w	إِذَا	ﱸ	اذا	then	idhā
+7	9:58:15	w	هُمۡ	ﱹ	هم	they	hum
+7	9:58:16	w	يَسۡخَطُونَ	ﱺ	يسخطون	(are) enraged	yaskhaṭūna
+7	9:58:17	e	٥٨	ﱻ			
+7	9:59:1	w	وَلَوۡ	ﱼ	ولو	And if	walaw
+7	9:59:2	w	أَنَّهُمۡ	ﱽ	انهم	[that] they	annahum
+7	9:59:3	w	رَضُواْ	ﱾ	رضوا	(were) satisfied	raḍū
+7	9:59:4	w	مَآ	ﱿ	ما	(with) what	mā
+7	9:59:5	w	ءَاتَىٰهُمُ	ﲀ	اتاهم	Allah gave them	ātāhumu
+7	9:59:6	w	ٱللَّهُ	ﲁ	الله	Allah gave them	l-lahu
+7	9:59:7	w	وَرَسُولُهُۥ	ﲂ	ورسوله	and His Messenger	warasūluhu
+8	9:59:8	w	وَقَالُواْ	ﲃ	وقالوا	and said	waqālū
+8	9:59:9	w	حَسۡبُنَا	ﲄ	حسبنا	Sufficient for us	ḥasbunā
+8	9:59:10	w	ٱللَّهُ	ﲅ	الله	(is) Allah	l-lahu
+8	9:59:11	w	سَيُؤۡتِينَا	ﲆ	سيوتينا	Allah will give us	sayu'tīnā
+8	9:59:12	w	ٱللَّهُ	ﲇ	الله	Allah will give us	l-lahu
+8	9:59:13	w	مِن	ﲈ	من	of	min
+8	9:59:14	w	فَضۡلِهِۦ	ﲉ	فضله	His Bounty	faḍlihi
+8	9:59:15	w	وَرَسُولُهُۥٓ	ﲊ	ورسوله	and His Messenger	warasūluhu
+9	9:59:16	w	إِنَّآ	ﲋ	انا	Indeed, we	innā
+9	9:59:17	w	إِلَى	ﲌ	الى	to	ilā
+9	9:59:18	w	ٱللَّهِ	ﲍ	الله	Allah	l-lahi
+9	9:59:19	w	رَٰغِبُونَ	ﲎ	راغبون	turn our hopes	rāghibūna
+9	9:59:20	e	٥٩	ﲏ			
+9	9:60:1	w	۞ إِنَّمَا	ﲐ ﲑ	۞ انما	Only	innamā
+9	9:60:2	w	ٱلصَّدَقَٰتُ	ﲒ	الصدقات	the charities	l-ṣadaqātu
+9	9:60:3	w	لِلۡفُقَرَآءِ	ﲓ	للفقراء	(are) for the poor	lil'fuqarāi
+9	9:60:4	w	وَٱلۡمَسَٰكِينِ	ﲔ	والمساكين	and the needy	wal-masākīni
+10	9:60:5	w	وَٱلۡعَٰمِلِينَ	ﲕ	والعاملين	and those who collect	wal-ʿāmilīna
+10	9:60:6	w	عَلَيۡهَا	ﲖ	عليها	them	ʿalayhā
+10	9:60:7	w	وَٱلۡمُؤَلَّفَةِ	ﲗ	والمولفة	and the ones inclined	wal-mu-alafati
+10	9:60:8	w	قُلُوبُهُمۡ	ﲘ	قلوبهم	their hearts	qulūbuhum
+10	9:60:9	w	وَفِي	ﲙ	وفي	and in	wafī
+10	9:60:10	w	ٱلرِّقَابِ	ﲚ	الرقاب	the (freeing of) the necks	l-riqābi
+11	9:60:11	w	وَٱلۡغَٰرِمِينَ	ﲛ	والغارمين	and for those in debt	wal-ghārimīna
+11	9:60:12	w	وَفِي	ﲜ	وفي	and in	wafī
+11	9:60:13	w	سَبِيلِ	ﲝ	سبيل	(the) way	sabīli
+11	9:60:14	w	ٱللَّهِ	ﲞ	الله	(of) Allah	l-lahi
+11	9:60:15	w	وَٱبۡنِ	ﲟ	وابن	and the wayfarer	wa-ib'ni
+11	9:60:16	w	ٱلسَّبِيلِۖ	ﲠﲡ	السبيل	and the wayfarer	l-sabīli
+11	9:60:17	w	فَرِيضَةٗ	ﲢ	فريضة	an obligation	farīḍatan
+12	9:60:18	w	مِّنَ	ﲣ	من	from	mina
+12	9:60:19	w	ٱللَّهِۗ	ﲤﲥ	الله	Allah	l-lahi
+12	9:60:20	w	وَٱللَّهُ	ﲦ	والله	And Allah	wal-lahu
+12	9:60:21	w	عَلِيمٌ	ﲧ	عليم	(is) All-Knowing	ʿalīmun
+12	9:60:22	w	حَكِيمٞ	ﲨ	حكيم	All-Wise	ḥakīmun
+12	9:60:23	e	٦٠	ﲩ			
+12	9:61:1	w	وَمِنۡهُمُ	ﲪ	ومنهم	And among them	wamin'humu
+12	9:61:2	w	ٱلَّذِينَ	ﲫ	الذين	(are) those who	alladhīna
+12	9:61:3	w	يُؤۡذُونَ	ﲬ	يوذون	hurt	yu'dhūna
+13	9:61:4	w	ٱلنَّبِيَّ	ﲭ	النبي	the Prophet	l-nabiya
+13	9:61:5	w	وَيَقُولُونَ	ﲮ	ويقولون	and they say	wayaqūlūna
+13	9:61:6	w	هُوَ	ﲯ	هو	He is	huwa
+13	9:61:7	w	أُذُنٞۚ	ﲰﲱ	اذن	(all) ear	udhunun
+13	9:61:8	w	قُلۡ	ﲲ	قل	Say	qul
+13	9:61:9	w	أُذُنُ	ﲳ	اذن	An ear	udhunu
+13	9:61:10	w	خَيۡرٖ	ﲴ	خير	(of) goodness	khayrin
+13	9:61:11	w	لَّكُمۡ	ﲵ	لكم	for you	lakum
+13	9:61:12	w	يُؤۡمِنُ	ﲶ	يومن	he believes	yu'minu
+14	9:61:13	w	بِٱللَّهِ	ﲷ	بالله	in Allah	bil-lahi
+14	9:61:14	w	وَيُؤۡمِنُ	ﲸ	ويومن	and believes	wayu'minu
+14	9:61:15	w	لِلۡمُؤۡمِنِينَ	ﲹ	للمومنين	the believers	lil'mu'minīna
+14	9:61:16	w	وَرَحۡمَةٞ	ﲺ	ورحمة	and (is) a mercy	waraḥmatun
+14	9:61:17	w	لِّلَّذِينَ	ﲻ	للذين	to those who	lilladhīna
+14	9:61:18	w	ءَامَنُواْ	ﲼ	امنوا	believe	āmanū
+15	9:61:19	w	مِنكُمۡۚ	ﲽﲾ	منكم	among you	minkum
+15	9:61:20	w	وَٱلَّذِينَ	ﲿ	والذين	And those who	wa-alladhīna
+15	9:61:21	w	يُؤۡذُونَ	ﳀ	يوذون	hurt	yu'dhūna
+15	9:61:22	w	رَسُولَ	ﳁ	رسول	(the) Messenger	rasūla
+15	9:61:23	w	ٱللَّهِ	ﳂ	الله	(of) Allah	l-lahi
+15	9:61:24	w	لَهُمۡ	ﳃ	لهم	for them	lahum
+15	9:61:25	w	عَذَابٌ	ﳄ	عذاب	(is) a punishment	ʿadhābun
+15	9:61:26	w	أَلِيمٞ	ﳅ	اليم	painful	alīmun
+15	9:61:27	e	٦١	ﳆ			

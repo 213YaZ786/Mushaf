@@ -1,0 +1,129 @@
+1	2:146:1	w	ٱلَّذِينَ	ﱁ	الذين	(To) those whom	alladhīna
+1	2:146:2	w	ءَاتَيۡنَٰهُمُ	ﱂ	اتيناهم	We gave [them]	ātaynāhumu
+1	2:146:3	w	ٱلۡكِتَٰبَ	ﱃ	الكتاب	the Book	l-kitāba
+1	2:146:4	w	يَعۡرِفُونَهُۥ	ﱄ	يعرفونه	they recognize it	yaʿrifūnahu
+1	2:146:5	w	كَمَا	ﱅ	كما	like	kamā
+1	2:146:6	w	يَعۡرِفُونَ	ﱆ	يعرفون	they recognize	yaʿrifūna
+1	2:146:7	w	أَبۡنَآءَهُمۡۖ	ﱇﱈ	ابناءهم	their sons	abnāahum
+2	2:146:8	w	وَإِنَّ	ﱉ	وان	And indeed	wa-inna
+2	2:146:9	w	فَرِيقٗا	ﱊ	فريقا	a group	farīqan
+2	2:146:10	w	مِّنۡهُمۡ	ﱋ	منهم	of them	min'hum
+2	2:146:11	w	لَيَكۡتُمُونَ	ﱌ	ليكتمون	surely they conceal	layaktumūna
+2	2:146:12	w	ٱلۡحَقَّ	ﱍ	الحق	the Truth	l-ḥaqa
+2	2:146:13	w	وَهُمۡ	ﱎ	وهم	while they	wahum
+2	2:146:14	w	يَعۡلَمُونَ	ﱏ	يعلمون	know	yaʿlamūna
+2	2:146:15	e	١٤٦	ﱐ			
+2	2:147:1	w	ٱلۡحَقُّ	ﱑ	الحق	The Truth	al-ḥaqu
+3	2:147:2	w	مِن	ﱒ	من	(is) from	min
+3	2:147:3	w	رَّبِّكَ	ﱓ	ربك	your Lord	rabbika
+3	2:147:4	w	فَلَا	ﱔ	فلا	so (do) not	falā
+3	2:147:5	w	تَكُونَنَّ	ﱕ	تكونن	be	takūnanna
+3	2:147:6	w	مِنَ	ﱖ	من	among	mina
+3	2:147:7	w	ٱلۡمُمۡتَرِينَ	ﱗ	الممترين	the doubters	l-mum'tarīna
+3	2:147:8	e	١٤٧	ﱘ			
+3	2:148:1	w	وَلِكُلّٖ	ﱙ	ولكل	And for everyone	walikullin
+3	2:148:2	w	وِجۡهَةٌ	ﱚ	وجهة	(is) a direction	wij'hatun
+4	2:148:3	w	هُوَ	ﱛ	هو	he	huwa
+4	2:148:4	w	مُوَلِّيهَاۖ	ﱜﱝ	موليها	turns towards it	muwallīhā
+4	2:148:5	w	فَٱسۡتَبِقُواْ	ﱞ	فاستبقوا	so race	fa-is'tabiqū
+4	2:148:6	w	ٱلۡخَيۡرَٰتِۚ	ﱟﱠ	الخيرات	(to) the good	l-khayrāti
+4	2:148:7	w	أَيۡنَ	ﱡ	اين	Wherever	ayna
+4	2:148:8	w	مَا	ﱢ	ما	that	mā
+4	2:148:9	w	تَكُونُواْ	ﱣ	تكونوا	you will be	takūnū
+4	2:148:10	w	يَأۡتِ	ﱤ	يات	will bring	yati
+4	2:148:11	w	بِكُمُ	ﱥ	بكم	you	bikumu
+4	2:148:12	w	ٱللَّهُ	ﱦ	الله	(by) Allah	l-lahu
+5	2:148:13	w	جَمِيعًاۚ	ﱧﱨ	جميعا	together	jamīʿan
+5	2:148:14	w	إِنَّ	ﱩ	ان	Indeed	inna
+5	2:148:15	w	ٱللَّهَ	ﱪ	الله	Allah	l-laha
+5	2:148:16	w	عَلَىٰ	ﱫ	على	(is) on	ʿalā
+5	2:148:17	w	كُلِّ	ﱬ	كل	every	kulli
+5	2:148:18	w	شَيۡءٖ	ﱭ	شيء	thing	shayin
+5	2:148:19	w	قَدِيرٞ	ﱮ	قدير	All-Powerful	qadīrun
+5	2:148:20	e	١٤٨	ﱯ			
+5	2:149:1	w	وَمِنۡ	ﱰ	ومن	And from	wamin
+5	2:149:2	w	حَيۡثُ	ﱱ	حيث	wherever	ḥaythu
+5	2:149:3	w	خَرَجۡتَ	ﱲ	خرجت	you start forth	kharajta
+6	2:149:4	w	فَوَلِّ	ﱳ	فول	[so] turn	fawalli
+6	2:149:5	w	وَجۡهَكَ	ﱴ	وجهك	your face	wajhaka
+6	2:149:6	w	شَطۡرَ	ﱵ	شطر	(in the) direction	shaṭra
+6	2:149:7	w	ٱلۡمَسۡجِدِ	ﱶ	المسجد	(of) Al-Masjid	l-masjidi
+6	2:149:8	w	ٱلۡحَرَامِۖ	ﱷﱸ	الحرام	Al-Haraam	l-ḥarāmi
+6	2:149:9	w	وَإِنَّهُۥ	ﱹ	وانه	And indeed, it	wa-innahu
+6	2:149:10	w	لَلۡحَقُّ	ﱺ	للحق	(is) surely the truth	lalḥaqqu
+6	2:149:11	w	مِن	ﱻ	من	from	min
+6	2:149:12	w	رَّبِّكَۗ	ﱼﱽ	ربك	your Lord	rabbika
+7	2:149:13	w	وَمَا	ﱾ	وما	And not	wamā
+7	2:149:14	w	ٱللَّهُ	ﱿ	الله	(is) Allah	l-lahu
+7	2:149:15	w	بِغَٰفِلٍ	ﲀ	بغافل	unaware	bighāfilin
+7	2:149:16	w	عَمَّا	ﲁ	عما	of what	ʿammā
+7	2:149:17	w	تَعۡمَلُونَ	ﲂ	تعملون	you do	taʿmalūna
+7	2:149:18	e	١٤٩	ﲃ			
+7	2:150:1	w	وَمِنۡ	ﲄ	ومن	And from	wamin
+7	2:150:2	w	حَيۡثُ	ﲅ	حيث	wherever	ḥaythu
+7	2:150:3	w	خَرَجۡتَ	ﲆ	خرجت	you start forth	kharajta
+7	2:150:4	w	فَوَلِّ	ﲇ	فول	[so] turn	fawalli
+8	2:150:5	w	وَجۡهَكَ	ﲈ	وجهك	your face	wajhaka
+8	2:150:6	w	شَطۡرَ	ﲉ	شطر	(in the) direction	shaṭra
+8	2:150:7	w	ٱلۡمَسۡجِدِ	ﲊ	المسجد	(of) Al-Masjid	l-masjidi
+8	2:150:8	w	ٱلۡحَرَامِۚ	ﲋﲌ	الحرام	Al-Haraam	l-ḥarāmi
+8	2:150:9	w	وَحَيۡثُ	ﲍ	وحيث	And wherever	waḥaythu
+8	2:150:10	w	مَا	ﲎ	ما	that	mā
+8	2:150:11	w	كُنتُمۡ	ﲏ	كنتم	you (all) are	kuntum
+8	2:150:12	w	فَوَلُّواْ	ﲐ	فولوا	[so] turn	fawallū
+9	2:150:13	w	وُجُوهَكُمۡ	ﲑ	وجوهكم	your faces	wujūhakum
+9	2:150:14	w	شَطۡرَهُۥ	ﲒ	شطره	(in) its direction	shaṭrahu
+9	2:150:15	w	لِئَلَّا	ﲓ	ليلا	so that not	li-allā
+9	2:150:16	w	يَكُونَ	ﲔ	يكون	will be	yakūna
+9	2:150:17	w	لِلنَّاسِ	ﲕ	للناس	for the people	lilnnāsi
+9	2:150:18	w	عَلَيۡكُمۡ	ﲖ	عليكم	against you	ʿalaykum
+9	2:150:19	w	حُجَّةٌ	ﲗ	حجة	any argument	ḥujjatun
+9	2:150:20	w	إِلَّا	ﲘ	الا	except	illā
+9	2:150:21	w	ٱلَّذِينَ	ﲙ	الذين	those who	alladhīna
+10	2:150:22	w	ظَلَمُواْ	ﲚ	ظلموا	wronged	ẓalamū
+10	2:150:23	w	مِنۡهُمۡ	ﲛ	منهم	among them	min'hum
+10	2:150:24	w	فَلَا	ﲜ	فلا	so (do) not	falā
+10	2:150:25	w	تَخۡشَوۡهُمۡ	ﲝ	تخشوهم	fear them	takhshawhum
+10	2:150:26	w	وَٱخۡشَوۡنِي	ﲞ	واخشوني	but fear Me	wa-ikh'shawnī
+10	2:150:27	w	وَلِأُتِمَّ	ﲟ	ولاتم	And that I complete	wali-utimma
+10	2:150:28	w	نِعۡمَتِي	ﲠ	نعمتي	My favor	niʿ'matī
+10	2:150:29	w	عَلَيۡكُمۡ	ﲡ	عليكم	upon you	ʿalaykum
+11	2:150:30	w	وَلَعَلَّكُمۡ	ﲢ	ولعلكم	[and] so that you may	walaʿallakum
+11	2:150:31	w	تَهۡتَدُونَ	ﲣ	تهتدون	(be) guided	tahtadūna
+11	2:150:32	e	١٥٠	ﲤ			
+11	2:151:1	w	كَمَآ	ﲥ	كما	As	kamā
+11	2:151:2	w	أَرۡسَلۡنَا	ﲦ	ارسلنا	We sent	arsalnā
+11	2:151:3	w	فِيكُمۡ	ﲧ	فيكم	among you	fīkum
+11	2:151:4	w	رَسُولٗا	ﲨ	رسولا	a Messenger	rasūlan
+11	2:151:5	w	مِّنكُمۡ	ﲩ	منكم	from you	minkum
+11	2:151:6	w	يَتۡلُواْ	ﲪ	يتلو	(who) recites	yatlū
+12	2:151:7	w	عَلَيۡكُمۡ	ﲫ	عليكم	to you	ʿalaykum
+12	2:151:8	w	ءَايَٰتِنَا	ﲬ	اياتنا	Our verses	āyātinā
+12	2:151:9	w	وَيُزَكِّيكُمۡ	ﲭ	ويزكيكم	and purifies you	wayuzakkīkum
+12	2:151:10	w	وَيُعَلِّمُكُمُ	ﲮ	ويعلمكم	and teaches you	wayuʿallimukumu
+12	2:151:11	w	ٱلۡكِتَٰبَ	ﲯ	الكتاب	the Book	l-kitāba
+12	2:151:12	w	وَٱلۡحِكۡمَةَ	ﲰ	والحكمة	and the wisdom	wal-ḥik'mata
+13	2:151:13	w	وَيُعَلِّمُكُم	ﲱ	ويعلمكم	and teaches you	wayuʿallimukum
+13	2:151:14	w	مَّا	ﲲ	ما	what	mā
+13	2:151:15	w	لَمۡ	ﲳ	لم	not	lam
+13	2:151:16	w	تَكُونُواْ	ﲴ	تكونوا	you were	takūnū
+13	2:151:17	w	تَعۡلَمُونَ	ﲵ	تعلمون	knowing	taʿlamūna
+13	2:151:18	e	١٥١	ﲶ			
+13	2:152:1	w	فَٱذۡكُرُونِيٓ	ﲷ	فاذكروني	So remember Me	fa-udh'kurūnī
+13	2:152:2	w	أَذۡكُرۡكُمۡ	ﲸ	اذكركم	I will remember you	adhkur'kum
+14	2:152:3	w	وَٱشۡكُرُواْ	ﲹ	واشكروا	and be grateful	wa-ush'kurū
+14	2:152:4	w	لِي	ﲺ	لي	to Me	lī
+14	2:152:5	w	وَلَا	ﲻ	ولا	and (do) not	walā
+14	2:152:6	w	تَكۡفُرُونِ	ﲼ	تكفرون	(be) ungrateful to Me	takfurūni
+14	2:152:7	e	١٥٢	ﲽ			
+14	2:153:1	w	يَٰٓأَيُّهَا	ﲾ	يا ايها	O you	yāayyuhā
+14	2:153:2	w	ٱلَّذِينَ	ﲿ	الذين	who	alladhīna
+14	2:153:3	w	ءَامَنُواْ	ﳀ	امنوا	believe[d]	āmanū
+15	2:153:4	w	ٱسۡتَعِينُواْ	ﳁ	استعينوا	Seek help	is'taʿīnū
+15	2:153:5	w	بِٱلصَّبۡرِ	ﳂ	بالصبر	through patience	bil-ṣabri
+15	2:153:6	w	وَٱلصَّلَوٰةِۚ	ﳃﳄ	والصلاة	and the prayer	wal-ṣalati
+15	2:153:7	w	إِنَّ	ﳅ	ان	Indeed	inna
+15	2:153:8	w	ٱللَّهَ	ﳆ	الله	Allah	l-laha
+15	2:153:9	w	مَعَ	ﳇ	مع	(is) with	maʿa
+15	2:153:10	w	ٱلصَّٰبِرِينَ	ﳈ	الصابرين	the patient ones	l-ṣābirīna
+15	2:153:11	e	١٥٣	ﳉ			

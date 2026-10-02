@@ -1,0 +1,130 @@
+1	19:96:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	19:96:2	w	ٱلَّذِينَ	ﱂ	الذين	those who	alladhīna
+1	19:96:3	w	ءَامَنُواْ	ﱃ	امنوا	believed	āmanū
+1	19:96:4	w	وَعَمِلُواْ	ﱄ	وعملوا	and did	waʿamilū
+1	19:96:5	w	ٱلصَّٰلِحَٰتِ	ﱅ	الصالحات	good deeds	l-ṣāliḥāti
+1	19:96:6	w	سَيَجۡعَلُ	ﱆ	سيجعل	will bestow	sayajʿalu
+1	19:96:7	w	لَهُمُ	ﱇ	لهم	for them	lahumu
+2	19:96:8	w	ٱلرَّحۡمَٰنُ	ﱈ	الرحمان	the Most Gracious	l-raḥmānu
+2	19:96:9	w	وُدّٗا	ﱉ	ودا	affection	wuddan
+2	19:96:10	e	٩٦	ﱊ			
+2	19:97:1	w	فَإِنَّمَا	ﱋ	فانما	So, only	fa-innamā
+2	19:97:2	w	يَسَّرۡنَٰهُ	ﱌ	يسرناه	We (have) made it easy	yassarnāhu
+2	19:97:3	w	بِلِسَانِكَ	ﱍ	بلسانك	in your tongue	bilisānika
+2	19:97:4	w	لِتُبَشِّرَ	ﱎ	لتبشر	that you may give glad tidings	litubashira
+2	19:97:5	w	بِهِ	ﱏ	به	with it	bihi
+3	19:97:6	w	ٱلۡمُتَّقِينَ	ﱐ	المتقين	(to) the righteous	l-mutaqīna
+3	19:97:7	w	وَتُنذِرَ	ﱑ	وتنذر	and warn	watundhira
+3	19:97:8	w	بِهِۦ	ﱒ	به	with it	bihi
+3	19:97:9	w	قَوۡمٗا	ﱓ	قوما	a people	qawman
+3	19:97:10	w	لُّدّٗا	ﱔ	لدا	hostile	luddan
+3	19:97:11	e	٩٧	ﱕ			
+3	19:98:1	w	وَكَمۡ	ﱖ	وكم	And how many	wakam
+3	19:98:2	w	أَهۡلَكۡنَا	ﱗ	اهلكنا	We (have) destroyed	ahlaknā
+3	19:98:3	w	قَبۡلَهُم	ﱘ	قبلهم	before them	qablahum
+4	19:98:4	w	مِّن	ﱙ	من	of	min
+4	19:98:5	w	قَرۡنٍ	ﱚ	قرن	a generation	qarnin
+4	19:98:6	w	هَلۡ	ﱛ	هل	Can	hal
+4	19:98:7	w	تُحِسُّ	ﱜ	تحس	you perceive	tuḥissu
+4	19:98:8	w	مِنۡهُم	ﱝ	منهم	of them	min'hum
+4	19:98:9	w	مِّنۡ	ﱞ	من	any	min
+4	19:98:10	w	أَحَدٍ	ﱟ	احد	one	aḥadin
+4	19:98:11	w	أَوۡ	ﱠ	او	or	aw
+4	19:98:12	w	تَسۡمَعُ	ﱡ	تسمع	hear	tasmaʿu
+4	19:98:13	w	لَهُمۡ	ﱢ	لهم	from them	lahum
+4	19:98:14	w	رِكۡزَۢا	ﱣ	ركزا	a sound	rik'zan
+4	19:98:15	e	٩٨	ﱤ			
+7	20:1:1	w	طه	ﱥ	طه	Ta Ha	tta-ha
+7	20:1:2	e	١	ﱦ			
+7	20:2:1	w	مَآ	ﱧ	ما	Not	mā
+7	20:2:2	w	أَنزَلۡنَا	ﱨ	انزلنا	We (have) sent down	anzalnā
+7	20:2:3	w	عَلَيۡكَ	ﱩ	عليك	to you	ʿalayka
+7	20:2:4	w	ٱلۡقُرۡءَانَ	ﱪ	القران	the Quran	l-qur'āna
+7	20:2:5	w	لِتَشۡقَىٰٓ	ﱫ	لتشقى	that you be distressed	litashqā
+7	20:2:6	e	٢	ﱬ			
+7	20:3:1	w	إِلَّا	ﱭ	الا	(But)	illā
+7	20:3:2	w	تَذۡكِرَةٗ	ﱮ	تذكرة	(as) a reminder	tadhkiratan
+8	20:3:3	w	لِّمَن	ﱯ	لمن	for (those) who	liman
+8	20:3:4	w	يَخۡشَىٰ	ﱰ	يخشى	fear	yakhshā
+8	20:3:5	e	٣	ﱱ			
+8	20:4:1	w	تَنزِيلٗا	ﱲ	تنزيلا	A revelation	tanzīlan
+8	20:4:2	w	مِّمَّنۡ	ﱳ	ممن	from (He) Who	mimman
+8	20:4:3	w	خَلَقَ	ﱴ	خلق	created	khalaqa
+8	20:4:4	w	ٱلۡأَرۡضَ	ﱵ	الارض	the earth	l-arḍa
+8	20:4:5	w	وَٱلسَّمَٰوَٰتِ	ﱶ	والسماوات	and the heavens	wal-samāwāti
+8	20:4:6	w	ٱلۡعُلَى	ﱷ	العلى	[the] high	l-ʿulā
+8	20:4:7	e	٤	ﱸ			
+9	20:5:1	w	ٱلرَّحۡمَٰنُ	ﱹ	الرحمان	The Most Gracious	al-raḥmānu
+9	20:5:2	w	عَلَى	ﱺ	على	over	ʿalā
+9	20:5:3	w	ٱلۡعَرۡشِ	ﱻ	العرش	the Throne	l-ʿarshi
+9	20:5:4	w	ٱسۡتَوَىٰ	ﱼ	استوى	is established	is'tawā
+9	20:5:5	e	٥	ﱽ			
+9	20:6:1	w	لَهُۥ	ﱾ	له	To Him (belongs)	lahu
+9	20:6:2	w	مَا	ﱿ	ما	whatever	mā
+9	20:6:3	w	فِي	ﲀ	في	(is) in	fī
+9	20:6:4	w	ٱلسَّمَٰوَٰتِ	ﲁ	السماوات	the heavens	l-samāwāti
+9	20:6:5	w	وَمَا	ﲂ	وما	and whatever	wamā
+9	20:6:6	w	فِي	ﲃ	في	(is) in	fī
+10	20:6:7	w	ٱلۡأَرۡضِ	ﲄ	الارض	the earth	l-arḍi
+10	20:6:8	w	وَمَا	ﲅ	وما	and whatever	wamā
+10	20:6:9	w	بَيۡنَهُمَا	ﲆ	بينهما	(is) between them	baynahumā
+10	20:6:10	w	وَمَا	ﲇ	وما	and whatever	wamā
+10	20:6:11	w	تَحۡتَ	ﲈ	تحت	(is) under	taḥta
+10	20:6:12	w	ٱلثَّرَىٰ	ﲉ	الثرى	the soil	l-tharā
+10	20:6:13	e	٦	ﲊ			
+10	20:7:1	w	وَإِن	ﲋ	وان	And if	wa-in
+10	20:7:2	w	تَجۡهَرۡ	ﲌ	تجهر	you speak aloud	tajhar
+10	20:7:3	w	بِٱلۡقَوۡلِ	ﲍ	بالقول	the word	bil-qawli
+11	20:7:4	w	فَإِنَّهُۥ	ﲎ	فانه	then indeed, He	fa-innahu
+11	20:7:5	w	يَعۡلَمُ	ﲏ	يعلم	knows	yaʿlamu
+11	20:7:6	w	ٱلسِّرَّ	ﲐ	السر	the secret	l-sira
+11	20:7:7	w	وَأَخۡفَى	ﲑ	واخفى	and the more hidden	wa-akhfā
+11	20:7:8	e	٧	ﲒ			
+11	20:8:1	w	ٱللَّهُ	ﲓ	الله	Allah	al-lahu
+11	20:8:2	w	لَآ	ﲔ	لا	(there is) no	lā
+11	20:8:3	w	إِلَٰهَ	ﲕ	الاه	god	ilāha
+11	20:8:4	w	إِلَّا	ﲖ	الا	except	illā
+11	20:8:5	w	هُوَۖ	ﲗﲘ	هو	Him	huwa
+11	20:8:6	w	لَهُ	ﲙ	له	To Him (belong)	lahu
+11	20:8:7	w	ٱلۡأَسۡمَآءُ	ﲚ	الاسماء	the Names	l-asmāu
+12	20:8:8	w	ٱلۡحُسۡنَىٰ	ﲛ	الحسنى	the Most Beautiful	l-ḥus'nā
+12	20:8:9	e	٨	ﲜ			
+12	20:9:1	w	وَهَلۡ	ﲝ	وهل	And has	wahal
+12	20:9:2	w	أَتَىٰكَ	ﲞ	اتاك	come to you	atāka
+12	20:9:3	w	حَدِيثُ	ﲟ	حديث	the narration	ḥadīthu
+12	20:9:4	w	مُوسَىٰٓ	ﲠ	موسى	(of) Musa	mūsā
+12	20:9:5	e	٩	ﲡ			
+12	20:10:1	w	إِذۡ	ﲢ	اذ	When	idh
+12	20:10:2	w	رَءَا	ﲣ	راى	he saw	raā
+12	20:10:3	w	نَارٗا	ﲤ	نارا	a fire	nāran
+13	20:10:4	w	فَقَالَ	ﲥ	فقال	then he said	faqāla
+13	20:10:5	w	لِأَهۡلِهِ	ﲦ	لاهله	to his family	li-ahlihi
+13	20:10:6	w	ٱمۡكُثُوٓاْ	ﲧ	امكثوا	Stay here	um'kuthū
+13	20:10:7	w	إِنِّيٓ	ﲨ	اني	indeed, I	innī
+13	20:10:8	w	ءَانَسۡتُ	ﲩ	انست	[I] perceived	ānastu
+13	20:10:9	w	نَارٗا	ﲪ	نارا	a fire	nāran
+13	20:10:10	w	لَّعَلِّيٓ	ﲫ	لعلي	perhaps I (can)	laʿallī
+13	20:10:11	w	ءَاتِيكُم	ﲬ	اتيكم	bring you	ātīkum
+13	20:10:12	w	مِّنۡهَا	ﲭ	منها	therefrom	min'hā
+13	20:10:13	w	بِقَبَسٍ	ﲮ	بقبس	a burning brand	biqabasin
+14	20:10:14	w	أَوۡ	ﲯ	او	or	aw
+14	20:10:15	w	أَجِدُ	ﲰ	اجد	I find	ajidu
+14	20:10:16	w	عَلَى	ﲱ	على	at	ʿalā
+14	20:10:17	w	ٱلنَّارِ	ﲲ	النار	the fire	l-nāri
+14	20:10:18	w	هُدٗى	ﲳ	هدى	guidance	hudan
+14	20:10:19	e	١٠	ﲴ			
+14	20:11:1	w	فَلَمَّآ	ﲵ	فلما	Then when	falammā
+14	20:11:2	w	أَتَىٰهَا	ﲶ	اتاها	he came to it	atāhā
+14	20:11:3	w	نُودِيَ	ﲷ	نودي	he was called	nūdiya
+14	20:11:4	w	يَٰمُوسَىٰٓ	ﲸ	يا موسى	O Musa	yāmūsā
+14	20:11:5	e	١١	ﲹ			
+14	20:12:1	w	إِنِّيٓ	ﲺ	اني	Indeed, [I]	innī
+15	20:12:2	w	أَنَا۠	ﲻ	انا	I Am	anā
+15	20:12:3	w	رَبُّكَ	ﲼ	ربك	your Lord	rabbuka
+15	20:12:4	w	فَٱخۡلَعۡ	ﲽ	فاخلع	so remove	fa-ikh'laʿ
+15	20:12:5	w	نَعۡلَيۡكَ	ﲾ	نعليك	your shoes	naʿlayka
+15	20:12:6	w	إِنَّكَ	ﲿ	انك	Indeed, you	innaka
+15	20:12:7	w	بِٱلۡوَادِ	ﳀ	بالواد	(are) in the valley	bil-wādi
+15	20:12:8	w	ٱلۡمُقَدَّسِ	ﳁ	المقدس	the sacred	l-muqadasi
+15	20:12:9	w	طُوٗى	ﳂ	طوى	(of) Tuwa	ṭuwan
+15	20:12:10	e	١٢	ﳃ			

@@ -1,0 +1,140 @@
+1	28:51:1	w	۞ وَلَقَدۡ	ﱁ ﱂ	۞ ولقد	And indeed	walaqad
+1	28:51:2	w	وَصَّلۡنَا	ﱃ	وصلنا	We have conveyed	waṣṣalnā
+1	28:51:3	w	لَهُمُ	ﱄ	لهم	to them	lahumu
+1	28:51:4	w	ٱلۡقَوۡلَ	ﱅ	القول	the Word	l-qawla
+1	28:51:5	w	لَعَلَّهُمۡ	ﱆ	لعلهم	so that they may	laʿallahum
+1	28:51:6	w	يَتَذَكَّرُونَ	ﱇ	يتذكرون	remember	yatadhakkarūna
+1	28:51:7	e	٥١	ﱈ			
+1	28:52:1	w	ٱلَّذِينَ	ﱉ	الذين	Those who	alladhīna
+2	28:52:2	w	ءَاتَيۡنَٰهُمُ	ﱊ	اتيناهم	We gave them	ātaynāhumu
+2	28:52:3	w	ٱلۡكِتَٰبَ	ﱋ	الكتاب	the Scripture	l-kitāba
+2	28:52:4	w	مِن	ﱌ	من	before it	min
+2	28:52:5	w	قَبۡلِهِۦ	ﱍ	قبله	before it	qablihi
+2	28:52:6	w	هُم	ﱎ	هم	they	hum
+2	28:52:7	w	بِهِۦ	ﱏ	به	in it	bihi
+2	28:52:8	w	يُؤۡمِنُونَ	ﱐ	يومنون	believe	yu'minūna
+2	28:52:9	e	٥٢	ﱑ			
+2	28:53:1	w	وَإِذَا	ﱒ	واذا	And when	wa-idhā
+2	28:53:2	w	يُتۡلَىٰ	ﱓ	يتلى	it is recited	yut'lā
+3	28:53:3	w	عَلَيۡهِمۡ	ﱔ	عليهم	to them	ʿalayhim
+3	28:53:4	w	قَالُوٓاْ	ﱕ	قالوا	they say	qālū
+3	28:53:5	w	ءَامَنَّا	ﱖ	امنا	We believe	āmannā
+3	28:53:6	w	بِهِۦٓ	ﱗ	به	in it	bihi
+3	28:53:7	w	إِنَّهُ	ﱘ	انه	Indeed, it	innahu
+3	28:53:8	w	ٱلۡحَقُّ	ﱙ	الحق	(is) the truth	l-ḥaqu
+3	28:53:9	w	مِن	ﱚ	من	from	min
+3	28:53:10	w	رَّبِّنَآ	ﱛ	ربنا	our Lord	rabbinā
+3	28:53:11	w	إِنَّا	ﱜ	انا	Indeed, we	innā
+3	28:53:12	w	كُنَّا	ﱝ	كنا	[we] were	kunnā
+3	28:53:13	w	مِن	ﱞ	من	before it	min
+3	28:53:14	w	قَبۡلِهِۦ	ﱟ	قبله	before it	qablihi
+4	28:53:15	w	مُسۡلِمِينَ	ﱠ	مسلمين	Muslims	mus'limīna
+4	28:53:16	e	٥٣	ﱡ			
+4	28:54:1	w	أُوْلَٰٓئِكَ	ﱢ	اولايك	Those	ulāika
+4	28:54:2	w	يُؤۡتَوۡنَ	ﱣ	يوتون	will be given	yu'tawna
+4	28:54:3	w	أَجۡرَهُم	ﱤ	اجرهم	their reward	ajrahum
+4	28:54:4	w	مَّرَّتَيۡنِ	ﱥ	مرتين	twice	marratayni
+4	28:54:5	w	بِمَا	ﱦ	بما	because	bimā
+4	28:54:6	w	صَبَرُواْ	ﱧ	صبروا	they are patient	ṣabarū
+4	28:54:7	w	وَيَدۡرَءُونَ	ﱨ	ويدرءون	and they repel	wayadraūna
+5	28:54:8	w	بِٱلۡحَسَنَةِ	ﱩ	بالحسنة	with good	bil-ḥasanati
+5	28:54:9	w	ٱلسَّيِّئَةَ	ﱪ	السيية	the evil	l-sayi-ata
+5	28:54:10	w	وَمِمَّا	ﱫ	ومما	and from what	wamimmā
+5	28:54:11	w	رَزَقۡنَٰهُمۡ	ﱬ	رزقناهم	We have provided them	razaqnāhum
+5	28:54:12	w	يُنفِقُونَ	ﱭ	ينفقون	they spend	yunfiqūna
+5	28:54:13	e	٥٤	ﱮ			
+5	28:55:1	w	وَإِذَا	ﱯ	واذا	And when	wa-idhā
+5	28:55:2	w	سَمِعُواْ	ﱰ	سمعوا	they hear	samiʿū
+6	28:55:3	w	ٱللَّغۡوَ	ﱱ	اللغو	vain talk	l-laghwa
+6	28:55:4	w	أَعۡرَضُواْ	ﱲ	اعرضوا	they turn away	aʿraḍū
+6	28:55:5	w	عَنۡهُ	ﱳ	عنه	from it	ʿanhu
+6	28:55:6	w	وَقَالُواْ	ﱴ	وقالوا	and say	waqālū
+6	28:55:7	w	لَنَآ	ﱵ	لنا	For us	lanā
+6	28:55:8	w	أَعۡمَٰلُنَا	ﱶ	اعمالنا	our deeds	aʿmālunā
+6	28:55:9	w	وَلَكُمۡ	ﱷ	ولكم	and for you	walakum
+6	28:55:10	w	أَعۡمَٰلُكُمۡ	ﱸ	اعمالكم	your deeds	aʿmālukum
+6	28:55:11	w	سَلَٰمٌ	ﱹ	سلام	Peace (be)	salāmun
+7	28:55:12	w	عَلَيۡكُمۡ	ﱺ	عليكم	on you	ʿalaykum
+7	28:55:13	w	لَا	ﱻ	لا	not	lā
+7	28:55:14	w	نَبۡتَغِي	ﱼ	نبتغي	we seek	nabtaghī
+7	28:55:15	w	ٱلۡجَٰهِلِينَ	ﱽ	الجاهلين	the ignorant	l-jāhilīna
+7	28:55:16	e	٥٥	ﱾ			
+7	28:56:1	w	إِنَّكَ	ﱿ	انك	Indeed, you	innaka
+7	28:56:2	w	لَا	ﲀ	لا	(can) not	lā
+7	28:56:3	w	تَهۡدِي	ﲁ	تهدي	guide	tahdī
+7	28:56:4	w	مَنۡ	ﲂ	من	whom	man
+7	28:56:5	w	أَحۡبَبۡتَ	ﲃ	احببت	you love	aḥbabta
+8	28:56:6	w	وَلَٰكِنَّ	ﲄ	ولاكن	but	walākinna
+8	28:56:7	w	ٱللَّهَ	ﲅ	الله	Allah	l-laha
+8	28:56:8	w	يَهۡدِي	ﲆ	يهدي	guides	yahdī
+8	28:56:9	w	مَن	ﲇ	من	whom	man
+8	28:56:10	w	يَشَآءُۚ	ﲈﲉ	يشاء	He wills	yashāu
+8	28:56:11	w	وَهُوَ	ﲊ	وهو	And He	wahuwa
+8	28:56:12	w	أَعۡلَمُ	ﲋ	اعلم	(is) most knowing	aʿlamu
+8	28:56:13	w	بِٱلۡمُهۡتَدِينَ	ﲌ	بالمهتدين	(of) the guided ones	bil-muh'tadīna
+8	28:56:14	e	٥٦	ﲍ			
+9	28:57:1	w	وَقَالُوٓاْ	ﲎ	وقالوا	And they say	waqālū
+9	28:57:2	w	إِن	ﲏ	ان	If	in
+9	28:57:3	w	نَّتَّبِعِ	ﲐ	نتبع	we follow	nattabiʿi
+9	28:57:4	w	ٱلۡهُدَىٰ	ﲑ	الهدى	the guidance	l-hudā
+9	28:57:5	w	مَعَكَ	ﲒ	معك	with you	maʿaka
+9	28:57:6	w	نُتَخَطَّفۡ	ﲓ	نتخطف	we would be swept	nutakhaṭṭaf
+9	28:57:7	w	مِنۡ	ﲔ	من	from	min
+9	28:57:8	w	أَرۡضِنَآۚ	ﲕﲖ	ارضنا	our land	arḍinā
+9	28:57:9	w	أَوَلَمۡ	ﲗ	اولم	Have not	awalam
+10	28:57:10	w	نُمَكِّن	ﲘ	نمكن	We established	numakkin
+10	28:57:11	w	لَّهُمۡ	ﲙ	لهم	for them	lahum
+10	28:57:12	w	حَرَمًا	ﲚ	حرما	a sanctuary	ḥaraman
+10	28:57:13	w	ءَامِنٗا	ﲛ	امنا	secure	āminan
+10	28:57:14	w	يُجۡبَىٰٓ	ﲜ	يجبى	are brought	yuj'bā
+10	28:57:15	w	إِلَيۡهِ	ﲝ	اليه	to it	ilayhi
+10	28:57:16	w	ثَمَرَٰتُ	ﲞ	ثمرات	fruits	thamarātu
+10	28:57:17	w	كُلِّ	ﲟ	كل	(of) all	kulli
+10	28:57:18	w	شَيۡءٖ	ﲠ	شيء	things	shayin
+10	28:57:19	w	رِّزۡقٗا	ﲡ	رزقا	a provision	riz'qan
+11	28:57:20	w	مِّن	ﲢ	من	from	min
+11	28:57:21	w	لَّدُنَّا	ﲣ	لدنا	Us	ladunnā
+11	28:57:22	w	وَلَٰكِنَّ	ﲤ	ولاكن	But	walākinna
+11	28:57:23	w	أَكۡثَرَهُمۡ	ﲥ	اكثرهم	most of them	aktharahum
+11	28:57:24	w	لَا	ﲦ	لا	(do) not	lā
+11	28:57:25	w	يَعۡلَمُونَ	ﲧ	يعلمون	know	yaʿlamūna
+11	28:57:26	e	٥٧	ﲨ			
+11	28:58:1	w	وَكَمۡ	ﲩ	وكم	And how many	wakam
+11	28:58:2	w	أَهۡلَكۡنَا	ﲪ	اهلكنا	We have destroyed	ahlaknā
+11	28:58:3	w	مِن	ﲫ	من	of	min
+12	28:58:4	w	قَرۡيَةِۭ	ﲬ	قرية	a town	qaryatin
+12	28:58:5	w	بَطِرَتۡ	ﲭ	بطرت	which exulted	baṭirat
+12	28:58:6	w	مَعِيشَتَهَاۖ	ﲮﲯ	معيشتها	(in) its means of livelihood	maʿīshatahā
+12	28:58:7	w	فَتِلۡكَ	ﲰ	فتلك	And these	fatil'ka
+12	28:58:8	w	مَسَٰكِنُهُمۡ	ﲱ	مساكنهم	(are) their dwellings	masākinuhum
+12	28:58:9	w	لَمۡ	ﲲ	لم	not	lam
+12	28:58:10	w	تُسۡكَن	ﲳ	تسكن	have been inhabited	tus'kan
+12	28:58:11	w	مِّنۢ	ﲴ	من	after them	min
+13	28:58:12	w	بَعۡدِهِمۡ	ﲵ	بعدهم	after them	baʿdihim
+13	28:58:13	w	إِلَّا	ﲶ	الا	except	illā
+13	28:58:14	w	قَلِيلٗاۖ	ﲷﲸ	قليلا	a little	qalīlan
+13	28:58:15	w	وَكُنَّا	ﲹ	وكنا	And indeed, [We]	wakunnā
+13	28:58:16	w	نَحۡنُ	ﲺ	نحن	We	naḥnu
+13	28:58:17	w	ٱلۡوَٰرِثِينَ	ﲻ	الوارثين	(are) the inheritors	l-wārithīna
+13	28:58:18	e	٥٨	ﲼ			
+13	28:59:1	w	وَمَا	ﲽ	وما	And not	wamā
+13	28:59:2	w	كَانَ	ﲾ	كان	was	kāna
+13	28:59:3	w	رَبُّكَ	ﲿ	ربك	your Lord	rabbuka
+14	28:59:4	w	مُهۡلِكَ	ﳀ	مهلك	(the) one to destroy	muh'lika
+14	28:59:5	w	ٱلۡقُرَىٰ	ﳁ	القرى	the towns	l-qurā
+14	28:59:6	w	حَتَّىٰ	ﳂ	حتى	until	ḥattā
+14	28:59:7	w	يَبۡعَثَ	ﳃ	يبعث	He (had) sent	yabʿatha
+14	28:59:8	w	فِيٓ	ﳄ	في	in	fī
+14	28:59:9	w	أُمِّهَا	ﳅ	امها	their mother (town)	ummihā
+14	28:59:10	w	رَسُولٗا	ﳆ	رسولا	a Messenger	rasūlan
+14	28:59:11	w	يَتۡلُواْ	ﳇ	يتلو	reciting	yatlū
+14	28:59:12	w	عَلَيۡهِمۡ	ﳈ	عليهم	to them	ʿalayhim
+15	28:59:13	w	ءَايَٰتِنَاۚ	ﳉﳊ	اياتنا	Our Verses	āyātinā
+15	28:59:14	w	وَمَا	ﳋ	وما	And not	wamā
+15	28:59:15	w	كُنَّا	ﳌ	كنا	We would be	kunnā
+15	28:59:16	w	مُهۡلِكِي	ﳍ	مهلكي	(the) one to destroy	muh'likī
+15	28:59:17	w	ٱلۡقُرَىٰٓ	ﳎ	القرى	the towns	l-qurā
+15	28:59:18	w	إِلَّا	ﳏ	الا	except	illā
+15	28:59:19	w	وَأَهۡلُهَا	ﳐ	واهلها	while their people	wa-ahluhā
+15	28:59:20	w	ظَٰلِمُونَ	ﳑ	ظالمون	(were) wrongdoers	ẓālimūna
+15	28:59:21	e	٥٩	ﳒ			

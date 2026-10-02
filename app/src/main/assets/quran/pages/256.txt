@@ -1,0 +1,125 @@
+1	14:6:1	w	وَإِذۡ	ﱁ	واذ	And when	wa-idh
+1	14:6:2	w	قَالَ	ﱂ	قال	said	qāla
+1	14:6:3	w	مُوسَىٰ	ﱃ	موسى	Musa	mūsā
+1	14:6:4	w	لِقَوۡمِهِ	ﱄ	لقومه	to his people	liqawmihi
+1	14:6:5	w	ٱذۡكُرُواْ	ﱅ	اذكروا	Remember	udh'kurū
+1	14:6:6	w	نِعۡمَةَ	ﱆ	نعمة	(the) Favor of Allah	niʿ'mata
+1	14:6:7	w	ٱللَّهِ	ﱇ	الله	(the) Favor of Allah	l-lahi
+1	14:6:8	w	عَلَيۡكُمۡ	ﱈ	عليكم	upon you	ʿalaykum
+2	14:6:9	w	إِذۡ	ﱉ	اذ	when	idh
+2	14:6:10	w	أَنجَىٰكُم	ﱊ	انجاكم	He saved you	anjākum
+2	14:6:11	w	مِّنۡ	ﱋ	من	from	min
+2	14:6:12	w	ءَالِ	ﱌ	ال	(the) people	āli
+2	14:6:13	w	فِرۡعَوۡنَ	ﱍ	فرعون	(of) Firaun	fir'ʿawna
+2	14:6:14	w	يَسُومُونَكُمۡ	ﱎ	يسومونكم	they were afflicting you	yasūmūnakum
+2	14:6:15	w	سُوٓءَ	ﱏ	سوء	(with) evil	sūa
+2	14:6:16	w	ٱلۡعَذَابِ	ﱐ	العذاب	torment	l-ʿadhābi
+3	14:6:17	w	وَيُذَبِّحُونَ	ﱑ	ويذبحون	and were slaughtering	wayudhabbiḥūna
+3	14:6:18	w	أَبۡنَآءَكُمۡ	ﱒ	ابناءكم	your sons	abnāakum
+3	14:6:19	w	وَيَسۡتَحۡيُونَ	ﱓ	ويستحيون	and letting live	wayastaḥyūna
+3	14:6:20	w	نِسَآءَكُمۡۚ	ﱔﱕ	نساءكم	your women	nisāakum
+3	14:6:21	w	وَفِي	ﱖ	وفي	And in	wafī
+4	14:6:22	w	ذَٰلِكُم	ﱗ	ذالكم	that	dhālikum
+4	14:6:23	w	بَلَآءٞ	ﱘ	بلاء	(was) a trial	balāon
+4	14:6:24	w	مِّن	ﱙ	من	from	min
+4	14:6:25	w	رَّبِّكُمۡ	ﱚ	ربكم	your Lord	rabbikum
+4	14:6:26	w	عَظِيمٞ	ﱛ	عظيم	great	ʿaẓīmun
+4	14:6:27	e	٦	ﱜ			
+4	14:7:1	w	وَإِذۡ	ﱝ	واذ	And when	wa-idh
+4	14:7:2	w	تَأَذَّنَ	ﱞ	تاذن	proclaimed	ta-adhana
+4	14:7:3	w	رَبُّكُمۡ	ﱟ	ربكم	your Lord	rabbukum
+5	14:7:4	w	لَئِن	ﱠ	لين	If	la-in
+5	14:7:5	w	شَكَرۡتُمۡ	ﱡ	شكرتم	you are thankful	shakartum
+5	14:7:6	w	لَأَزِيدَنَّكُمۡۖ	ﱢﱣ	لازيدنكم	surely I will increase you	la-azīdannakum
+5	14:7:7	w	وَلَئِن	ﱤ	ولين	but if	wala-in
+5	14:7:8	w	كَفَرۡتُمۡ	ﱥ	كفرتم	you are ungrateful	kafartum
+5	14:7:9	w	إِنَّ	ﱦ	ان	indeed	inna
+5	14:7:10	w	عَذَابِي	ﱧ	عذابي	My punishment	ʿadhābī
+6	14:7:11	w	لَشَدِيدٞ	ﱨ	لشديد	(is) surely severe	lashadīdun
+6	14:7:12	e	٧	ﱩ			
+6	14:8:1	w	وَقَالَ	ﱪ	وقال	And said	waqāla
+6	14:8:2	w	مُوسَىٰٓ	ﱫ	موسى	Musa	mūsā
+6	14:8:3	w	إِن	ﱬ	ان	If	in
+6	14:8:4	w	تَكۡفُرُوٓاْ	ﱭ	تكفروا	you disbelieve	takfurū
+6	14:8:5	w	أَنتُمۡ	ﱮ	انتم	you	antum
+6	14:8:6	w	وَمَن	ﱯ	ومن	and whoever	waman
+6	14:8:7	w	فِي	ﱰ	في	(is) in	fī
+7	14:8:8	w	ٱلۡأَرۡضِ	ﱱ	الارض	the earth	l-arḍi
+7	14:8:9	w	جَمِيعٗا	ﱲ	جميعا	all	jamīʿan
+7	14:8:10	w	فَإِنَّ	ﱳ	فان	then indeed	fa-inna
+7	14:8:11	w	ٱللَّهَ	ﱴ	الله	Allah	l-laha
+7	14:8:12	w	لَغَنِيٌّ	ﱵ	لغني	certainly (is) Free of need	laghaniyyun
+7	14:8:13	w	حَمِيدٌ	ﱶ	حميد	Praiseworthy	ḥamīdun
+7	14:8:14	e	٨	ﱷ			
+7	14:9:1	w	أَلَمۡ	ﱸ	الم	Has not	alam
+7	14:9:2	w	يَأۡتِكُمۡ	ﱹ	ياتكم	come to you	yatikum
+7	14:9:3	w	نَبَؤُاْ	ﱺ	نبا	(the) news	naba-u
+8	14:9:4	w	ٱلَّذِينَ	ﱻ	الذين	(of) those who	alladhīna
+8	14:9:5	w	مِن	ﱼ	من	(were) before you	min
+8	14:9:6	w	قَبۡلِكُمۡ	ﱽ	قبلكم	(were) before you	qablikum
+8	14:9:7	w	قَوۡمِ	ﱾ	قوم	the people	qawmi
+8	14:9:8	w	نُوحٖ	ﱿ	نوح	of Nuh	nūḥin
+8	14:9:9	w	وَعَادٖ	ﲀ	وعاد	and Aad	waʿādin
+8	14:9:10	w	وَثَمُودَ	ﲁ	وثمود	and Thamud	wathamūda
+8	14:9:11	w	وَٱلَّذِينَ	ﲂ	والذين	and those who	wa-alladhīna
+9	14:9:12	w	مِنۢ	ﲃ	من	(were) after them	min
+9	14:9:13	w	بَعۡدِهِمۡ	ﲄ	بعدهم	(were) after them	baʿdihim
+9	14:9:14	w	لَا	ﲅ	لا	None	lā
+9	14:9:15	w	يَعۡلَمُهُمۡ	ﲆ	يعلمهم	knows them	yaʿlamuhum
+9	14:9:16	w	إِلَّا	ﲇ	الا	except	illā
+9	14:9:17	w	ٱللَّهُۚ	ﲈﲉ	الله	Allah	l-lahu
+9	14:9:18	w	جَآءَتۡهُمۡ	ﲊ	جاءتهم	Came to them	jāathum
+9	14:9:19	w	رُسُلُهُم	ﲋ	رسلهم	their Messengers	rusuluhum
+10	14:9:20	w	بِٱلۡبَيِّنَٰتِ	ﲌ	بالبينات	with clear proofs	bil-bayināti
+10	14:9:21	w	فَرَدُّوٓاْ	ﲍ	فردوا	but they returned	faraddū
+10	14:9:22	w	أَيۡدِيَهُمۡ	ﲎ	ايديهم	their hands	aydiyahum
+10	14:9:23	w	فِيٓ	ﲏ	في	in	fī
+10	14:9:24	w	أَفۡوَٰهِهِمۡ	ﲐ	افواههم	their mouths	afwāhihim
+10	14:9:25	w	وَقَالُوٓاْ	ﲑ	وقالوا	and they said	waqālū
+10	14:9:26	w	إِنَّا	ﲒ	انا	Indeed we	innā
+10	14:9:27	w	كَفَرۡنَا	ﲓ	كفرنا	[we] disbelieve	kafarnā
+11	14:9:28	w	بِمَآ	ﲔ	بما	in what	bimā
+11	14:9:29	w	أُرۡسِلۡتُم	ﲕ	ارسلتم	you have been sent	ur'sil'tum
+11	14:9:30	w	بِهِۦ	ﲖ	به	with [it]	bihi
+11	14:9:31	w	وَإِنَّا	ﲗ	وانا	and indeed, we	wa-innā
+11	14:9:32	w	لَفِي	ﲘ	لفي	(are) surely in	lafī
+11	14:9:33	w	شَكّٖ	ﲙ	شك	doubt	shakkin
+11	14:9:34	w	مِّمَّا	ﲚ	مما	about what	mimmā
+11	14:9:35	w	تَدۡعُونَنَآ	ﲛ	تدعوننا	you invite us	tadʿūnanā
+11	14:9:36	w	إِلَيۡهِ	ﲜ	اليه	to it	ilayhi
+11	14:9:37	w	مُرِيبٖ	ﲝ	مريب	suspicious	murībin
+11	14:9:38	e	٩	ﲞ			
+12	14:10:1	w	۞ قَالَتۡ	ﲟ ﲠ	۞ قالت	Said	qālat
+12	14:10:2	w	رُسُلُهُمۡ	ﲡ	رسلهم	their Messengers	rusuluhum
+12	14:10:3	w	أَفِي	ﲢ	افي	Can (there) be about	afī
+12	14:10:4	w	ٱللَّهِ	ﲣ	الله	Allah	l-lahi
+12	14:10:5	w	شَكّٞ	ﲤ	شك	any doubt	shakkun
+12	14:10:6	w	فَاطِرِ	ﲥ	فاطر	(the) Creator	fāṭiri
+12	14:10:7	w	ٱلسَّمَٰوَٰتِ	ﲦ	السماوات	(of) the heavens	l-samāwāti
+12	14:10:8	w	وَٱلۡأَرۡضِۖ	ﲧﲨ	والارض	and the earth	wal-arḍi
+13	14:10:9	w	يَدۡعُوكُمۡ	ﲩ	يدعوكم	He invites you	yadʿūkum
+13	14:10:10	w	لِيَغۡفِرَ	ﲪ	ليغفر	so that He may forgive	liyaghfira
+13	14:10:11	w	لَكُم	ﲫ	لكم	for you	lakum
+13	14:10:12	w	مِّن	ﲬ	من	[of]	min
+13	14:10:13	w	ذُنُوبِكُمۡ	ﲭ	ذنوبكم	your sins	dhunūbikum
+13	14:10:14	w	وَيُؤَخِّرَكُمۡ	ﲮ	ويوخركم	and give you respite	wayu-akhirakum
+13	14:10:15	w	إِلَىٰٓ	ﲯ	الى	for	ilā
+13	14:10:16	w	أَجَلٖ	ﲰ	اجل	a term	ajalin
+14	14:10:17	w	مُّسَمّٗىۚ	ﲱﲲ	مسمى	appointed	musamman
+14	14:10:18	w	قَالُوٓاْ	ﲳ	قالوا	They said	qālū
+14	14:10:19	w	إِنۡ	ﲴ	ان	Not	in
+14	14:10:20	w	أَنتُمۡ	ﲵ	انتم	you	antum
+14	14:10:21	w	إِلَّا	ﲶ	الا	(are) but	illā
+14	14:10:22	w	بَشَرٞ	ﲷ	بشر	a human	basharun
+14	14:10:23	w	مِّثۡلُنَا	ﲸ	مثلنا	like us	mith'lunā
+14	14:10:24	w	تُرِيدُونَ	ﲹ	تريدون	you wish	turīdūna
+14	14:10:25	w	أَن	ﲺ	ان	to	an
+14	14:10:26	w	تَصُدُّونَا	ﲻ	تصدونا	hinder us	taṣuddūnā
+15	14:10:27	w	عَمَّا	ﲼ	عما	from what	ʿammā
+15	14:10:28	w	كَانَ	ﲽ	كان	used to	kāna
+15	14:10:29	w	يَعۡبُدُ	ﲾ	يعبد	worship	yaʿbudu
+15	14:10:30	w	ءَابَآؤُنَا	ﲿ	اباونا	our forefathers	ābāunā
+15	14:10:31	w	فَأۡتُونَا	ﳀ	فاتونا	So bring us	fatūnā
+15	14:10:32	w	بِسُلۡطَٰنٖ	ﳁ	بسلطان	an authority	bisul'ṭānin
+15	14:10:33	w	مُّبِينٖ	ﳂ	مبين	clear	mubīnin
+15	14:10:34	e	١٠	ﳃ			

@@ -1,0 +1,136 @@
+1	4:66:1	w	وَلَوۡ	ﱁ	ولو	And if	walaw
+1	4:66:2	w	أَنَّا	ﱂ	انا	[that] We	annā
+1	4:66:3	w	كَتَبۡنَا	ﱃ	كتبنا	(had) decreed	katabnā
+1	4:66:4	w	عَلَيۡهِمۡ	ﱄ	عليهم	on them	ʿalayhim
+1	4:66:5	w	أَنِ	ﱅ	ان	that	ani
+1	4:66:6	w	ٱقۡتُلُوٓاْ	ﱆ	اقتلوا	Kill	uq'tulū
+1	4:66:7	w	أَنفُسَكُمۡ	ﱇ	انفسكم	yourselves	anfusakum
+1	4:66:8	w	أَوِ	ﱈ	او	or	awi
+1	4:66:9	w	ٱخۡرُجُواْ	ﱉ	اخرجوا	Go forth	ukh'rujū
+1	4:66:10	w	مِن	ﱊ	من	from	min
+2	4:66:11	w	دِيَٰرِكُم	ﱋ	دياركم	your homes	diyārikum
+2	4:66:12	w	مَّا	ﱌ	ما	not	mā
+2	4:66:13	w	فَعَلُوهُ	ﱍ	فعلوه	they would have done it	faʿalūhu
+2	4:66:14	w	إِلَّا	ﱎ	الا	except	illā
+2	4:66:15	w	قَلِيلٞ	ﱏ	قليل	a few	qalīlun
+2	4:66:16	w	مِّنۡهُمۡۖ	ﱐﱑ	منهم	of them	min'hum
+2	4:66:17	w	وَلَوۡ	ﱒ	ولو	But if	walaw
+2	4:66:18	w	أَنَّهُمۡ	ﱓ	انهم	[that] they	annahum
+2	4:66:19	w	فَعَلُواْ	ﱔ	فعلوا	had done	faʿalū
+2	4:66:20	w	مَا	ﱕ	ما	what	mā
+2	4:66:21	w	يُوعَظُونَ	ﱖ	يوعظون	they were advised	yūʿaẓūna
+3	4:66:22	w	بِهِۦ	ﱗ	به	with [it]	bihi
+3	4:66:23	w	لَكَانَ	ﱘ	لكان	surely (it) would have been	lakāna
+3	4:66:24	w	خَيۡرٗا	ﱙ	خيرا	better	khayran
+3	4:66:25	w	لَّهُمۡ	ﱚ	لهم	for them	lahum
+3	4:66:26	w	وَأَشَدَّ	ﱛ	واشد	and stronger	wa-ashadda
+3	4:66:27	w	تَثۡبِيتٗا	ﱜ	تثبيتا	strengthen(ing)	tathbītan
+3	4:66:28	e	٦٦	ﱝ			
+3	4:67:1	w	وَإِذٗا	ﱞ	واذا	And then	wa-idhan
+3	4:67:2	w	لَّأٓتَيۡنَٰهُم	ﱟ	لاتيناهم	We would (have) given them	laātaynāhum
+4	4:67:3	w	مِّن	ﱠ	من	from	min
+4	4:67:4	w	لَّدُنَّآ	ﱡ	لدنا	Ourselves	ladunnā
+4	4:67:5	w	أَجۡرًا	ﱢ	اجرا	a reward	ajran
+4	4:67:6	w	عَظِيمٗا	ﱣ	عظيما	great	ʿaẓīman
+4	4:67:7	e	٦٧	ﱤ			
+4	4:68:1	w	وَلَهَدَيۡنَٰهُمۡ	ﱥ	ولهديناهم	And We would have guided them	walahadaynāhum
+4	4:68:2	w	صِرَٰطٗا	ﱦ	صراطا	(to the) way	ṣirāṭan
+4	4:68:3	w	مُّسۡتَقِيمٗا	ﱧ	مستقيما	(the) straight	mus'taqīman
+5	4:68:4	e	٦٨	ﱨ			
+5	4:69:1	w	وَمَن	ﱩ	ومن	And whoever	waman
+5	4:69:2	w	يُطِعِ	ﱪ	يطع	obeys	yuṭiʿi
+5	4:69:3	w	ٱللَّهَ	ﱫ	الله	Allah	l-laha
+5	4:69:4	w	وَٱلرَّسُولَ	ﱬ	والرسول	and the Messenger	wal-rasūla
+5	4:69:5	w	فَأُوْلَٰٓئِكَ	ﱭ	فاولايك	then those	fa-ulāika
+5	4:69:6	w	مَعَ	ﱮ	مع	(will be) with	maʿa
+5	4:69:7	w	ٱلَّذِينَ	ﱯ	الذين	those whom	alladhīna
+5	4:69:8	w	أَنۡعَمَ	ﱰ	انعم	has bestowed (His) Favor	anʿama
+5	4:69:9	w	ٱللَّهُ	ﱱ	الله	Allah	l-lahu
+6	4:69:10	w	عَلَيۡهِم	ﱲ	عليهم	upon them	ʿalayhim
+6	4:69:11	w	مِّنَ	ﱳ	من	of	mina
+6	4:69:12	w	ٱلنَّبِيِّـۧنَ	ﱴ	النبيين	the Prophets	l-nabiyīna
+6	4:69:13	w	وَٱلصِّدِّيقِينَ	ﱵ	والصديقين	and the truthful	wal-ṣidīqīna
+6	4:69:14	w	وَٱلشُّهَدَآءِ	ﱶ	والشهداء	and the martyrs	wal-shuhadāi
+6	4:69:15	w	وَٱلصَّٰلِحِينَۚ	ﱷﱸ	والصالحين	and the righteous	wal-ṣāliḥīna
+7	4:69:16	w	وَحَسُنَ	ﱹ	وحسن	And excellent	waḥasuna
+7	4:69:17	w	أُوْلَٰٓئِكَ	ﱺ	اولايك	(are) those	ulāika
+7	4:69:18	w	رَفِيقٗا	ﱻ	رفيقا	companion(s)	rafīqan
+7	4:69:19	e	٦٩	ﱼ			
+7	4:70:1	w	ذَٰلِكَ	ﱽ	ذالك	That	dhālika
+7	4:70:2	w	ٱلۡفَضۡلُ	ﱾ	الفضل	(is) the Bounty	l-faḍlu
+7	4:70:3	w	مِنَ	ﱿ	من	of	mina
+7	4:70:4	w	ٱللَّهِۚ	ﲀﲁ	الله	Allah	l-lahi
+7	4:70:5	w	وَكَفَىٰ	ﲂ	وكفى	and sufficient	wakafā
+8	4:70:6	w	بِٱللَّهِ	ﲃ	بالله	Allah	bil-lahi
+8	4:70:7	w	عَلِيمٗا	ﲄ	عليما	(as) All-Knower	ʿalīman
+8	4:70:8	e	٧٠	ﲅ			
+8	4:71:1	w	يَٰٓأَيُّهَا	ﲆ	يا ايها	O you	yāayyuhā
+8	4:71:2	w	ٱلَّذِينَ	ﲇ	الذين	who	alladhīna
+8	4:71:3	w	ءَامَنُواْ	ﲈ	امنوا	believe[d]	āmanū
+8	4:71:4	w	خُذُواْ	ﲉ	خذوا	Take	khudhū
+8	4:71:5	w	حِذۡرَكُمۡ	ﲊ	حذركم	your precautions	ḥidh'rakum
+9	4:71:6	w	فَٱنفِرُواْ	ﲋ	فانفروا	and advance	fa-infirū
+9	4:71:7	w	ثُبَاتٍ	ﲌ	ثبات	(in) groups	thubātin
+9	4:71:8	w	أَوِ	ﲍ	او	or	awi
+9	4:71:9	w	ٱنفِرُواْ	ﲎ	انفروا	advance	infirū
+9	4:71:10	w	جَمِيعٗا	ﲏ	جميعا	all together	jamīʿan
+9	4:71:11	e	٧١	ﲐ			
+9	4:72:1	w	وَإِنَّ	ﲑ	وان	And indeed	wa-inna
+9	4:72:2	w	مِنكُمۡ	ﲒ	منكم	among you	minkum
+9	4:72:3	w	لَمَن	ﲓ	لمن	(is he) who	laman
+9	4:72:4	w	لَّيُبَطِّئَنَّ	ﲔ	ليبطين	lags behind	layubaṭṭi-anna
+10	4:72:5	w	فَإِنۡ	ﲕ	فان	then if	fa-in
+10	4:72:6	w	أَصَٰبَتۡكُم	ﲖ	اصابتكم	befalls you	aṣābatkum
+10	4:72:7	w	مُّصِيبَةٞ	ﲗ	مصيبة	a disaster	muṣībatun
+10	4:72:8	w	قَالَ	ﲘ	قال	he said	qāla
+10	4:72:9	w	قَدۡ	ﲙ	قد	Verily	qad
+10	4:72:10	w	أَنۡعَمَ	ﲚ	انعم	(has) favored	anʿama
+10	4:72:11	w	ٱللَّهُ	ﲛ	الله	Allah	l-lahu
+10	4:72:12	w	عَلَيَّ	ﲜ	علي	[on] me	ʿalayya
+10	4:72:13	w	إِذۡ	ﲝ	اذ	[when]	idh
+10	4:72:14	w	لَمۡ	ﲞ	لم	(that) not	lam
+10	4:72:15	w	أَكُن	ﲟ	اكن	I was	akun
+11	4:72:16	w	مَّعَهُمۡ	ﲠ	معهم	with them	maʿahum
+11	4:72:17	w	شَهِيدٗا	ﲡ	شهيدا	present	shahīdan
+11	4:72:18	e	٧٢	ﲢ			
+11	4:73:1	w	وَلَئِنۡ	ﲣ	ولين	And if	wala-in
+11	4:73:2	w	أَصَٰبَكُمۡ	ﲤ	اصابكم	befalls you	aṣābakum
+11	4:73:3	w	فَضۡلٞ	ﲥ	فضل	bounty	faḍlun
+11	4:73:4	w	مِّنَ	ﲦ	من	from	mina
+11	4:73:5	w	ٱللَّهِ	ﲧ	الله	Allah	l-lahi
+11	4:73:6	w	لَيَقُولَنَّ	ﲨ	ليقولن	he would surely say	layaqūlanna
+11	4:73:7	w	كَأَن	ﲩ	كان	as if	ka-an
+12	4:73:8	w	لَّمۡ	ﲪ	لم	(had) not	lam
+12	4:73:9	w	تَكُنۢ	ﲫ	تكن	there been	takun
+12	4:73:10	w	بَيۡنَكُمۡ	ﲬ	بينكم	between you	baynakum
+12	4:73:11	w	وَبَيۡنَهُۥ	ﲭ	وبينه	and between him	wabaynahu
+12	4:73:12	w	مَوَدَّةٞ	ﲮ	مودة	any affection	mawaddatun
+12	4:73:13	w	يَٰلَيۡتَنِي	ﲯ	يا ليتني	Oh! I wish	yālaytanī
+12	4:73:14	w	كُنتُ	ﲰ	كنت	I had been	kuntu
+12	4:73:15	w	مَعَهُمۡ	ﲱ	معهم	with them	maʿahum
+13	4:73:16	w	فَأَفُوزَ	ﲲ	فافوز	then I would have attained	fa-afūza
+13	4:73:17	w	فَوۡزًا	ﲳ	فوزا	a success	fawzan
+13	4:73:18	w	عَظِيمٗا	ﲴ	عظيما	great	ʿaẓīman
+13	4:73:19	e	٧٣	ﲵ			
+13	4:74:1	w	۞ فَلۡيُقَٰتِلۡ	ﲶ ﲷ	۞ فليقاتل	So let fight	falyuqātil
+13	4:74:2	w	فِي	ﲸ	في	in	fī
+13	4:74:3	w	سَبِيلِ	ﲹ	سبيل	(the) way	sabīli
+13	4:74:4	w	ٱللَّهِ	ﲺ	الله	(of) Allah	l-lahi
+13	4:74:5	w	ٱلَّذِينَ	ﲻ	الذين	those who	alladhīna
+14	4:74:6	w	يَشۡرُونَ	ﲼ	يشرون	sell	yashrūna
+14	4:74:7	w	ٱلۡحَيَوٰةَ	ﲽ	الحياة	the life	l-ḥayata
+14	4:74:8	w	ٱلدُّنۡيَا	ﲾ	الدنيا	(of) the world	l-dun'yā
+14	4:74:9	w	بِٱلۡأٓخِرَةِۚ	ﲿﳀ	بالاخرة	for the Hereafter	bil-ākhirati
+14	4:74:10	w	وَمَن	ﳁ	ومن	And whoever	waman
+14	4:74:11	w	يُقَٰتِلۡ	ﳂ	يقاتل	fights	yuqātil
+14	4:74:12	w	فِي	ﳃ	في	in	fī
+14	4:74:13	w	سَبِيلِ	ﳄ	سبيل	(the) way	sabīli
+15	4:74:14	w	ٱللَّهِ	ﳅ	الله	(of) Allah	l-lahi
+15	4:74:15	w	فَيُقۡتَلۡ	ﳆ	فيقتل	then he is killed	fayuq'tal
+15	4:74:16	w	أَوۡ	ﳇ	او	or	aw
+15	4:74:17	w	يَغۡلِبۡ	ﳈ	يغلب	achieves victory	yaghlib
+15	4:74:18	w	فَسَوۡفَ	ﳉ	فسوف	then soon	fasawfa
+15	4:74:19	w	نُؤۡتِيهِ	ﳊ	نوتيه	We will grant him	nu'tīhi
+15	4:74:20	w	أَجۡرًا	ﳋ	اجرا	a reward	ajran
+15	4:74:21	w	عَظِيمٗا	ﳌ	عظيما	a great	ʿaẓīman
+15	4:74:22	e	٧٤	ﳍ			

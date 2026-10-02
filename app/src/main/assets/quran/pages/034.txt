@@ -1,0 +1,128 @@
+1	2:216:1	w	كُتِبَ	ﱁ	كتب	Is prescribed	kutiba
+1	2:216:2	w	عَلَيۡكُمُ	ﱂ	عليكم	upon you	ʿalaykumu
+1	2:216:3	w	ٱلۡقِتَالُ	ﱃ	القتال	[the] fighting	l-qitālu
+1	2:216:4	w	وَهُوَ	ﱄ	وهو	while it	wahuwa
+1	2:216:5	w	كُرۡهٞ	ﱅ	كره	(is) hateful	kur'hun
+1	2:216:6	w	لَّكُمۡۖ	ﱆﱇ	لكم	to you	lakum
+1	2:216:7	w	وَعَسَىٰٓ	ﱈ	وعسى	But perhaps	waʿasā
+1	2:216:8	w	أَن	ﱉ	ان	[that]	an
+1	2:216:9	w	تَكۡرَهُواْ	ﱊ	تكرهوا	you dislike	takrahū
+2	2:216:10	w	شَيۡـٔٗا	ﱋ	شييا	a thing	shayan
+2	2:216:11	w	وَهُوَ	ﱌ	وهو	and it	wahuwa
+2	2:216:12	w	خَيۡرٞ	ﱍ	خير	(is) good	khayrun
+2	2:216:13	w	لَّكُمۡۖ	ﱎﱏ	لكم	for you	lakum
+2	2:216:14	w	وَعَسَىٰٓ	ﱐ	وعسى	and perhaps	waʿasā
+2	2:216:15	w	أَن	ﱑ	ان	[that]	an
+2	2:216:16	w	تُحِبُّواْ	ﱒ	تحبوا	you love	tuḥibbū
+2	2:216:17	w	شَيۡـٔٗا	ﱓ	شييا	a thing	shayan
+2	2:216:18	w	وَهُوَ	ﱔ	وهو	and it	wahuwa
+2	2:216:19	w	شَرّٞ	ﱕ	شر	(is) bad	sharrun
+3	2:216:20	w	لَّكُمۡۚ	ﱖﱗ	لكم	for you	lakum
+3	2:216:21	w	وَٱللَّهُ	ﱘ	والله	And Allah	wal-lahu
+3	2:216:22	w	يَعۡلَمُ	ﱙ	يعلم	knows	yaʿlamu
+3	2:216:23	w	وَأَنتُمۡ	ﱚ	وانتم	while you	wa-antum
+3	2:216:24	w	لَا	ﱛ	لا	(do) not	lā
+3	2:216:25	w	تَعۡلَمُونَ	ﱜ	تعلمون	know	taʿlamūna
+3	2:216:26	e	٢١٦	ﱝ			
+3	2:217:1	w	يَسۡـَٔلُونَكَ	ﱞ	يسالونك	They ask you	yasalūnaka
+3	2:217:2	w	عَنِ	ﱟ	عن	about	ʿani
+3	2:217:3	w	ٱلشَّهۡرِ	ﱠ	الشهر	the month	l-shahri
+4	2:217:4	w	ٱلۡحَرَامِ	ﱡ	الحرام	[the] sacred	l-ḥarāmi
+4	2:217:5	w	قِتَالٖ	ﱢ	قتال	(concerning) fighting	qitālin
+4	2:217:6	w	فِيهِۖ	ﱣﱤ	فيه	in it	fīhi
+4	2:217:7	w	قُلۡ	ﱥ	قل	Say	qul
+4	2:217:8	w	قِتَالٞ	ﱦ	قتال	Fighting	qitālun
+4	2:217:9	w	فِيهِ	ﱧ	فيه	therein	fīhi
+4	2:217:10	w	كَبِيرٞۚ	ﱨﱩ	كبير	(is) a great (sin)	kabīrun
+4	2:217:11	w	وَصَدٌّ	ﱪ	وصد	but hindering (people)	waṣaddun
+4	2:217:12	w	عَن	ﱫ	عن	from	ʿan
+4	2:217:13	w	سَبِيلِ	ﱬ	سبيل	(the) way	sabīli
+5	2:217:14	w	ٱللَّهِ	ﱭ	الله	(of) Allah	l-lahi
+5	2:217:15	w	وَكُفۡرُۢ	ﱮ	وكفر	and disbelief	wakuf'run
+5	2:217:16	w	بِهِۦ	ﱯ	به	in Him	bihi
+5	2:217:17	w	وَٱلۡمَسۡجِدِ	ﱰ	والمسجد	and (preventing access to) Al-Masjid	wal-masjidi
+5	2:217:18	w	ٱلۡحَرَامِ	ﱱ	الحرام	Al-Haraam	l-ḥarāmi
+5	2:217:19	w	وَإِخۡرَاجُ	ﱲ	واخراج	and driving out	wa-ikh'rāju
+5	2:217:20	w	أَهۡلِهِۦ	ﱳ	اهله	its people	ahlihi
+5	2:217:21	w	مِنۡهُ	ﱴ	منه	from it	min'hu
+6	2:217:22	w	أَكۡبَرُ	ﱵ	اكبر	(is) greater (sin)	akbaru
+6	2:217:23	w	عِندَ	ﱶ	عند	near	ʿinda
+6	2:217:24	w	ٱللَّهِۚ	ﱷﱸ	الله	Allah	l-lahi
+6	2:217:25	w	وَٱلۡفِتۡنَةُ	ﱹ	والفتنة	And [the] oppression	wal-fit'natu
+6	2:217:26	w	أَكۡبَرُ	ﱺ	اكبر	(is) greater	akbaru
+6	2:217:27	w	مِنَ	ﱻ	من	than	mina
+6	2:217:28	w	ٱلۡقَتۡلِۗ	ﱼﱽ	القتل	[the] killing	l-qatli
+6	2:217:29	w	وَلَا	ﱾ	ولا	And not	walā
+6	2:217:30	w	يَزَالُونَ	ﱿ	يزالون	they will cease	yazālūna
+7	2:217:31	w	يُقَٰتِلُونَكُمۡ	ﲀ	يقاتلونكم	(to) fight with you	yuqātilūnakum
+7	2:217:32	w	حَتَّىٰ	ﲁ	حتى	until	ḥattā
+7	2:217:33	w	يَرُدُّوكُمۡ	ﲂ	يردوكم	they turn you away	yaruddūkum
+7	2:217:34	w	عَن	ﲃ	عن	from	ʿan
+7	2:217:35	w	دِينِكُمۡ	ﲄ	دينكم	your religion	dīnikum
+7	2:217:36	w	إِنِ	ﲅ	ان	if	ini
+7	2:217:37	w	ٱسۡتَطَٰعُواْۚ	ﲆﲇ	استطاعوا	they are able	is'taṭāʿū
+7	2:217:38	w	وَمَن	ﲈ	ومن	And whoever	waman
+8	2:217:39	w	يَرۡتَدِدۡ	ﲉ	يرتدد	turns away	yartadid
+8	2:217:40	w	مِنكُمۡ	ﲊ	منكم	among you	minkum
+8	2:217:41	w	عَن	ﲋ	عن	from	ʿan
+8	2:217:42	w	دِينِهِۦ	ﲌ	دينه	his religion	dīnihi
+8	2:217:43	w	فَيَمُتۡ	ﲍ	فيمت	then dies	fayamut
+8	2:217:44	w	وَهُوَ	ﲎ	وهو	while he	wahuwa
+8	2:217:45	w	كَافِرٞ	ﲏ	كافر	(is) a disbeliever	kāfirun
+8	2:217:46	w	فَأُوْلَٰٓئِكَ	ﲐ	فاولايك	for those	fa-ulāika
+9	2:217:47	w	حَبِطَتۡ	ﲑ	حبطت	became worthless	ḥabiṭat
+9	2:217:48	w	أَعۡمَٰلُهُمۡ	ﲒ	اعمالهم	their deeds	aʿmāluhum
+9	2:217:49	w	فِي	ﲓ	في	in	fī
+9	2:217:50	w	ٱلدُّنۡيَا	ﲔ	الدنيا	the world	l-dun'yā
+9	2:217:51	w	وَٱلۡأٓخِرَةِۖ	ﲕﲖ	والاخرة	and the Hereafter	wal-ākhirati
+9	2:217:52	w	وَأُوْلَٰٓئِكَ	ﲗ	واولايك	And those	wa-ulāika
+9	2:217:53	w	أَصۡحَٰبُ	ﲘ	اصحاب	(are) companions	aṣḥābu
+10	2:217:54	w	ٱلنَّارِۖ	ﲙﲚ	النار	(of) the Fire	l-nāri
+10	2:217:55	w	هُمۡ	ﲛ	هم	they	hum
+10	2:217:56	w	فِيهَا	ﲜ	فيها	in it	fīhā
+10	2:217:57	w	خَٰلِدُونَ	ﲝ	خالدون	(will) abide forever	khālidūna
+10	2:217:58	e	٢١٧	ﲞ			
+10	2:218:1	w	إِنَّ	ﲟ	ان	Indeed	inna
+10	2:218:2	w	ٱلَّذِينَ	ﲠ	الذين	those who	alladhīna
+10	2:218:3	w	ءَامَنُواْ	ﲡ	امنوا	believed	āmanū
+10	2:218:4	w	وَٱلَّذِينَ	ﲢ	والذين	and those who	wa-alladhīna
+11	2:218:5	w	هَاجَرُواْ	ﲣ	هاجروا	emigrated	hājarū
+11	2:218:6	w	وَجَٰهَدُواْ	ﲤ	وجاهدوا	and strove	wajāhadū
+11	2:218:7	w	فِي	ﲥ	في	in	fī
+11	2:218:8	w	سَبِيلِ	ﲦ	سبيل	(the) way	sabīli
+11	2:218:9	w	ٱللَّهِ	ﲧ	الله	(of) Allah	l-lahi
+11	2:218:10	w	أُوْلَٰٓئِكَ	ﲨ	اولايك	those	ulāika
+11	2:218:11	w	يَرۡجُونَ	ﲩ	يرجون	they hope	yarjūna
+11	2:218:12	w	رَحۡمَتَ	ﲪ	رحمت	(for) Mercy	raḥmata
+12	2:218:13	w	ٱللَّهِۚ	ﲫﲬ	الله	(of) Allah	l-lahi
+12	2:218:14	w	وَٱللَّهُ	ﲭ	والله	And Allah	wal-lahu
+12	2:218:15	w	غَفُورٞ	ﲮ	غفور	(is) Oft-Forgiving	ghafūrun
+12	2:218:16	w	رَّحِيمٞ	ﲯ	رحيم	Most Merciful	raḥīmun
+12	2:218:17	e	٢١٨	ﲰ			
+12	2:219:1	w	۞ يَسۡـَٔلُونَكَ	ﲱ ﲲ	۞ يسالونك	They ask you	yasalūnaka
+12	2:219:2	w	عَنِ	ﲳ	عن	about	ʿani
+12	2:219:3	w	ٱلۡخَمۡرِ	ﲴ	الخمر	[the] intoxicants	l-khamri
+12	2:219:4	w	وَٱلۡمَيۡسِرِۖ	ﲵﲶ	والميسر	and [the] games of chance	wal-maysiri
+13	2:219:5	w	قُلۡ	ﲷ	قل	Say	qul
+13	2:219:6	w	فِيهِمَآ	ﲸ	فيهما	In both of them	fīhimā
+13	2:219:7	w	إِثۡمٞ	ﲹ	اثم	(is) a sin	ith'mun
+13	2:219:8	w	كَبِيرٞ	ﲺ	كبير	great	kabīrun
+13	2:219:9	w	وَمَنَٰفِعُ	ﲻ	ومنافع	and (some) benefits	wamanāfiʿu
+13	2:219:10	w	لِلنَّاسِ	ﲼ	للناس	for [the] people	lilnnāsi
+13	2:219:11	w	وَإِثۡمُهُمَآ	ﲽ	واثمهما	But sin of both of them	wa-ith'muhumā
+13	2:219:12	w	أَكۡبَرُ	ﲾ	اكبر	(is) greater	akbaru
+14	2:219:13	w	مِن	ﲿ	من	than	min
+14	2:219:14	w	نَّفۡعِهِمَاۗ	ﳀﳁ	نفعهما	(the) benefit of (the) two	nafʿihimā
+14	2:219:15	w	وَيَسۡـَٔلُونَكَ	ﳂ	ويسالونك	And they ask you	wayasalūnaka
+14	2:219:16	w	مَاذَا	ﳃ	ماذا	what	mādhā
+14	2:219:17	w	يُنفِقُونَۖ	ﳄﳅ	ينفقون	they (should) spend	yunfiqūna
+14	2:219:18	w	قُلِ	ﳆ	قل	Say	quli
+14	2:219:19	w	ٱلۡعَفۡوَۗ	ﳇﳈ	العفو	The surplus	l-ʿafwa
+14	2:219:20	w	كَذَٰلِكَ	ﳉ	كذالك	Thus	kadhālika
+15	2:219:21	w	يُبَيِّنُ	ﳊ	يبين	makes clear	yubayyinu
+15	2:219:22	w	ٱللَّهُ	ﳋ	الله	Allah	l-lahu
+15	2:219:23	w	لَكُمُ	ﳌ	لكم	to you	lakumu
+15	2:219:24	w	ٱلۡأٓيَٰتِ	ﳍ	الايات	[the] Verses	l-āyāti
+15	2:219:25	w	لَعَلَّكُمۡ	ﳎ	لعلكم	so that you may	laʿallakum
+15	2:219:26	w	تَتَفَكَّرُونَ	ﳏ	تتفكرون	ponder	tatafakkarūna
+15	2:219:27	e	٢١٩	ﳐ			

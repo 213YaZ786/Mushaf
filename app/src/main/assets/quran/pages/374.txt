@@ -1,0 +1,161 @@
+1	26:160:1	w	كَذَّبَتۡ	ﱁ	كذبت	Denied	kadhabat
+1	26:160:2	w	قَوۡمُ	ﱂ	قوم	(the) people	qawmu
+1	26:160:3	w	لُوطٍ	ﱃ	لوط	(of) Lut	lūṭin
+1	26:160:4	w	ٱلۡمُرۡسَلِينَ	ﱄ	المرسلين	the Messengers	l-mur'salīna
+1	26:160:5	e	١٦٠	ﱅ			
+1	26:161:1	w	إِذۡ	ﱆ	اذ	When	idh
+1	26:161:2	w	قَالَ	ﱇ	قال	said	qāla
+1	26:161:3	w	لَهُمۡ	ﱈ	لهم	to them	lahum
+1	26:161:4	w	أَخُوهُمۡ	ﱉ	اخوهم	their brother	akhūhum
+1	26:161:5	w	لُوطٌ	ﱊ	لوط	Lut	lūṭun
+1	26:161:6	w	أَلَا	ﱋ	الا	Will not	alā
+1	26:161:7	w	تَتَّقُونَ	ﱌ	تتقون	you fear (Allah)	tattaqūna
+2	26:161:8	e	١٦١	ﱍ			
+2	26:162:1	w	إِنِّي	ﱎ	اني	Indeed, I am	innī
+2	26:162:2	w	لَكُمۡ	ﱏ	لكم	to you	lakum
+2	26:162:3	w	رَسُولٌ	ﱐ	رسول	a Messenger	rasūlun
+2	26:162:4	w	أَمِينٞ	ﱑ	امين	trustworthy	amīnun
+2	26:162:5	e	١٦٢	ﱒ			
+2	26:163:1	w	فَٱتَّقُواْ	ﱓ	فاتقوا	So fear	fa-ittaqū
+2	26:163:2	w	ٱللَّهَ	ﱔ	الله	Allah	l-laha
+2	26:163:3	w	وَأَطِيعُونِ	ﱕ	واطيعون	and obey me	wa-aṭīʿūni
+2	26:163:4	e	١٦٣	ﱖ			
+2	26:164:1	w	وَمَآ	ﱗ	وما	And not	wamā
+3	26:164:2	w	أَسۡـَٔلُكُمۡ	ﱘ	اسالكم	I ask you	asalukum
+3	26:164:3	w	عَلَيۡهِ	ﱙ	عليه	for it	ʿalayhi
+3	26:164:4	w	مِنۡ	ﱚ	من	any	min
+3	26:164:5	w	أَجۡرٍۖ	ﱛﱜ	اجر	payment	ajrin
+3	26:164:6	w	إِنۡ	ﱝ	ان	Not	in
+3	26:164:7	w	أَجۡرِيَ	ﱞ	اجري	(is) my payment	ajriya
+3	26:164:8	w	إِلَّا	ﱟ	الا	except	illā
+3	26:164:9	w	عَلَىٰ	ﱠ	على	from	ʿalā
+3	26:164:10	w	رَبِّ	ﱡ	رب	(the) Lord	rabbi
+3	26:164:11	w	ٱلۡعَٰلَمِينَ	ﱢ	العالمين	(of) the worlds	l-ʿālamīna
+3	26:164:12	e	١٦٤	ﱣ			
+4	26:165:1	w	أَتَأۡتُونَ	ﱤ	اتاتون	Do you approach	atatūna
+4	26:165:2	w	ٱلذُّكۡرَانَ	ﱥ	الذكران	the males	l-dhuk'rāna
+4	26:165:3	w	مِنَ	ﱦ	من	among	mina
+4	26:165:4	w	ٱلۡعَٰلَمِينَ	ﱧ	العالمين	the worlds	l-ʿālamīna
+4	26:165:5	e	١٦٥	ﱨ			
+4	26:166:1	w	وَتَذَرُونَ	ﱩ	وتذرون	And you leave	watadharūna
+4	26:166:2	w	مَا	ﱪ	ما	what	mā
+4	26:166:3	w	خَلَقَ	ﱫ	خلق	created	khalaqa
+4	26:166:4	w	لَكُمۡ	ﱬ	لكم	for you	lakum
+4	26:166:5	w	رَبُّكُم	ﱭ	ربكم	your Lord	rabbukum
+5	26:166:6	w	مِّنۡ	ﱮ	من	of	min
+5	26:166:7	w	أَزۡوَٰجِكُمۚ	ﱯﱰ	ازواجكم	your mates	azwājikum
+5	26:166:8	w	بَلۡ	ﱱ	بل	Nay	bal
+5	26:166:9	w	أَنتُمۡ	ﱲ	انتم	you	antum
+5	26:166:10	w	قَوۡمٌ	ﱳ	قوم	(are) a people	qawmun
+5	26:166:11	w	عَادُونَ	ﱴ	عادون	transgressing	ʿādūna
+5	26:166:12	e	١٦٦	ﱵ			
+5	26:167:1	w	قَالُواْ	ﱶ	قالوا	They said	qālū
+5	26:167:2	w	لَئِن	ﱷ	لين	If	la-in
+5	26:167:3	w	لَّمۡ	ﱸ	لم	not	lam
+5	26:167:4	w	تَنتَهِ	ﱹ	تنته	you desist	tantahi
+5	26:167:5	w	يَٰلُوطُ	ﱺ	يا لوط	O Lut	yālūṭu
+6	26:167:6	w	لَتَكُونَنَّ	ﱻ	لتكونن	Surely, you will be	latakūnanna
+6	26:167:7	w	مِنَ	ﱼ	من	of	mina
+6	26:167:8	w	ٱلۡمُخۡرَجِينَ	ﱽ	المخرجين	the ones driven out	l-mukh'rajīna
+6	26:167:9	e	١٦٧	ﱾ			
+6	26:168:1	w	قَالَ	ﱿ	قال	He said	qāla
+6	26:168:2	w	إِنِّي	ﲀ	اني	Indeed, I am	innī
+6	26:168:3	w	لِعَمَلِكُم	ﲁ	لعملكم	(of) your deed	liʿamalikum
+6	26:168:4	w	مِّنَ	ﲂ	من	of	mina
+6	26:168:5	w	ٱلۡقَالِينَ	ﲃ	القالين	those who detest	l-qālīna
+6	26:168:6	e	١٦٨	ﲄ			
+7	26:169:1	w	رَبِّ	ﲅ	رب	My Lord	rabbi
+7	26:169:2	w	نَجِّنِي	ﲆ	نجني	Save me	najjinī
+7	26:169:3	w	وَأَهۡلِي	ﲇ	واهلي	and my family	wa-ahlī
+7	26:169:4	w	مِمَّا	ﲈ	مما	from what	mimmā
+7	26:169:5	w	يَعۡمَلُونَ	ﲉ	يعملون	they do	yaʿmalūna
+7	26:169:6	e	١٦٩	ﲊ			
+7	26:170:1	w	فَنَجَّيۡنَٰهُ	ﲋ	فنجيناه	So We saved him	fanajjaynāhu
+7	26:170:2	w	وَأَهۡلَهُۥٓ	ﲌ	واهله	and his family	wa-ahlahu
+7	26:170:3	w	أَجۡمَعِينَ	ﲍ	اجمعين	all	ajmaʿīna
+7	26:170:4	e	١٧٠	ﲎ			
+8	26:171:1	w	إِلَّا	ﲏ	الا	Except	illā
+8	26:171:2	w	عَجُوزٗا	ﲐ	عجوزا	an old woman	ʿajūzan
+8	26:171:3	w	فِي	ﲑ	في	(was) among	fī
+8	26:171:4	w	ٱلۡغَٰبِرِينَ	ﲒ	الغابرين	those who remained behind	l-ghābirīna
+8	26:171:5	e	١٧١	ﲓ			
+8	26:172:1	w	ثُمَّ	ﲔ	ثم	Then	thumma
+8	26:172:2	w	دَمَّرۡنَا	ﲕ	دمرنا	We destroyed	dammarnā
+8	26:172:3	w	ٱلۡأٓخَرِينَ	ﲖ	الاخرين	the others	l-ākharīna
+8	26:172:4	e	١٧٢	ﲗ			
+8	26:173:1	w	وَأَمۡطَرۡنَا	ﲘ	وامطرنا	And We rained	wa-amṭarnā
+8	26:173:2	w	عَلَيۡهِم	ﲙ	عليهم	upon them	ʿalayhim
+9	26:173:3	w	مَّطَرٗاۖ	ﲚﲛ	مطرا	a rain	maṭaran
+9	26:173:4	w	فَسَآءَ	ﲜ	فساء	and evil was	fasāa
+9	26:173:5	w	مَطَرُ	ﲝ	مطر	(was) the rain	maṭaru
+9	26:173:6	w	ٱلۡمُنذَرِينَ	ﲞ	المنذرين	(on) those who were warned	l-mundharīna
+9	26:173:7	e	١٧٣	ﲟ			
+9	26:174:1	w	إِنَّ	ﲠ	ان	Indeed	inna
+9	26:174:2	w	فِي	ﲡ	في	in	fī
+9	26:174:3	w	ذَٰلِكَ	ﲢ	ذالك	that	dhālika
+9	26:174:4	w	لَأٓيَةٗۖ	ﲣﲤ	لاية	surely is a sign	laāyatan
+9	26:174:5	w	وَمَا	ﲥ	وما	but not	wamā
+9	26:174:6	w	كَانَ	ﲦ	كان	are	kāna
+9	26:174:7	w	أَكۡثَرُهُم	ﲧ	اكثرهم	most of them	aktharuhum
+10	26:174:8	w	مُّؤۡمِنِينَ	ﲨ	مومنين	believers	mu'minīna
+10	26:174:9	e	١٧٤	ﲩ			
+10	26:175:1	w	وَإِنَّ	ﲪ	وان	And indeed	wa-inna
+10	26:175:2	w	رَبَّكَ	ﲫ	ربك	your Lord	rabbaka
+10	26:175:3	w	لَهُوَ	ﲬ	لهو	surely, He	lahuwa
+10	26:175:4	w	ٱلۡعَزِيزُ	ﲭ	العزيز	(is) the All-Mighty	l-ʿazīzu
+10	26:175:5	w	ٱلرَّحِيمُ	ﲮ	الرحيم	the Most Merciful	l-raḥīmu
+10	26:175:6	e	١٧٥	ﲯ			
+10	26:176:1	w	كَذَّبَ	ﲰ	كذب	Denied	kadhaba
+10	26:176:2	w	أَصۡحَٰبُ	ﲱ	اصحاب	(the) companions	aṣḥābu
+11	26:176:3	w	لۡـَٔيۡكَةِ	ﲲ	الايكة	(of the) Wood	al'aykati
+11	26:176:4	w	ٱلۡمُرۡسَلِينَ	ﲳ	المرسلين	the Messengers	l-mur'salīna
+11	26:176:5	e	١٧٦	ﲴ			
+11	26:177:1	w	إِذۡ	ﲵ	اذ	When	idh
+11	26:177:2	w	قَالَ	ﲶ	قال	said	qāla
+11	26:177:3	w	لَهُمۡ	ﲷ	لهم	to them	lahum
+11	26:177:4	w	شُعَيۡبٌ	ﲸ	شعيب	Shuaib	shuʿaybun
+11	26:177:5	w	أَلَا	ﲹ	الا	Will not	alā
+11	26:177:6	w	تَتَّقُونَ	ﲺ	تتقون	you fear (Allah)	tattaqūna
+11	26:177:7	e	١٧٧	ﲻ			
+11	26:178:1	w	إِنِّي	ﲼ	اني	Indeed, I am	innī
+11	26:178:2	w	لَكُمۡ	ﲽ	لكم	to you	lakum
+12	26:178:3	w	رَسُولٌ	ﲾ	رسول	a Messenger	rasūlun
+12	26:178:4	w	أَمِينٞ	ﲿ	امين	trustworthy	amīnun
+12	26:178:5	e	١٧٨	ﳀ			
+12	26:179:1	w	فَٱتَّقُواْ	ﳁ	فاتقوا	So fear	fa-ittaqū
+12	26:179:2	w	ٱللَّهَ	ﳂ	الله	Allah	l-laha
+12	26:179:3	w	وَأَطِيعُونِ	ﳃ	واطيعون	and obey me	wa-aṭīʿūni
+12	26:179:4	e	١٧٩	ﳄ			
+12	26:180:1	w	وَمَآ	ﳅ	وما	And not	wamā
+12	26:180:2	w	أَسۡـَٔلُكُمۡ	ﳆ	اسالكم	I ask (of) you	asalukum
+12	26:180:3	w	عَلَيۡهِ	ﳇ	عليه	for it	ʿalayhi
+13	26:180:4	w	مِنۡ	ﳈ	من	any	min
+13	26:180:5	w	أَجۡرٍۖ	ﳉﳊ	اجر	payment	ajrin
+13	26:180:6	w	إِنۡ	ﳋ	ان	Not	in
+13	26:180:7	w	أَجۡرِيَ	ﳌ	اجري	(is) my payment	ajriya
+13	26:180:8	w	إِلَّا	ﳍ	الا	except	illā
+13	26:180:9	w	عَلَىٰ	ﳎ	على	from	ʿalā
+13	26:180:10	w	رَبِّ	ﳏ	رب	(the) Lord	rabbi
+13	26:180:11	w	ٱلۡعَٰلَمِينَ	ﳐ	العالمين	(of) the worlds	l-ʿālamīna
+13	26:180:12	e	١٨٠	ﳑ			
+13	26:181:1	w	۞ أَوۡفُواْ	ﳒ ﳓ	۞ اوفوا	Give full	awfū
+13	26:181:2	w	ٱلۡكَيۡلَ	ﳔ	الكيل	measure	l-kayla
+13	26:181:3	w	وَلَا	ﳕ	ولا	and (do) not	walā
+14	26:181:4	w	تَكُونُواْ	ﳖ	تكونوا	be	takūnū
+14	26:181:5	w	مِنَ	ﳗ	من	of	mina
+14	26:181:6	w	ٱلۡمُخۡسِرِينَ	ﳘ	المخسرين	those who cause loss	l-mukh'sirīna
+14	26:181:7	e	١٨١	ﳙ			
+14	26:182:1	w	وَزِنُواْ	ﳚ	وزنوا	And weigh	wazinū
+14	26:182:2	w	بِٱلۡقِسۡطَاسِ	ﳛ	بالقسطاس	with a balance	bil-qis'ṭāsi
+14	26:182:3	w	ٱلۡمُسۡتَقِيمِ	ﳜ	المستقيم	[the] even	l-mus'taqīmi
+14	26:182:4	e	١٨٢	ﳝ			
+15	26:183:1	w	وَلَا	ﳞ	ولا	And (do) not	walā
+15	26:183:2	w	تَبۡخَسُواْ	ﳟ	تبخسوا	deprive	tabkhasū
+15	26:183:3	w	ٱلنَّاسَ	ﳠ	الناس	people	l-nāsa
+15	26:183:4	w	أَشۡيَآءَهُمۡ	ﳡ	اشياءهم	(of) their things	ashyāahum
+15	26:183:5	w	وَلَا	ﳢ	ولا	and (do) not	walā
+15	26:183:6	w	تَعۡثَوۡاْ	ﳣ	تعثوا	commit evil	taʿthaw
+15	26:183:7	w	فِي	ﳤ	في	in	fī
+15	26:183:8	w	ٱلۡأَرۡضِ	ﳥ	الارض	the earth	l-arḍi
+15	26:183:9	w	مُفۡسِدِينَ	ﳦ	مفسدين	spreading corruption	muf'sidīna
+15	26:183:10	e	١٨٣	ﳧ			

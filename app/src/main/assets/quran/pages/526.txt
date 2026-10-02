@@ -1,0 +1,164 @@
+2	53:1:1	w	وَٱلنَّجۡمِ	ﱁ	والنجم	By the star	wal-najmi
+2	53:1:2	w	إِذَا	ﱂ	اذا	when	idhā
+2	53:1:3	w	هَوَىٰ	ﱃ	هوى	it goes down	hawā
+2	53:1:4	e	١	ﱄ			
+2	53:2:1	w	مَا	ﱅ	ما	Not	mā
+2	53:2:2	w	ضَلَّ	ﱆ	ضل	has strayed	ḍalla
+2	53:2:3	w	صَاحِبُكُمۡ	ﱇ	صاحبكم	your companion	ṣāḥibukum
+2	53:2:4	w	وَمَا	ﱈ	وما	and not	wamā
+2	53:2:5	w	غَوَىٰ	ﱉ	غوى	has he erred	ghawā
+2	53:2:6	e	٢	ﱊ			
+2	53:3:1	w	وَمَا	ﱋ	وما	And not	wamā
+2	53:3:2	w	يَنطِقُ	ﱌ	ينطق	he speaks	yanṭiqu
+2	53:3:3	w	عَنِ	ﱍ	عن	from	ʿani
+3	53:3:4	w	ٱلۡهَوَىٰٓ	ﱎ	الهوى	the desire	l-hawā
+3	53:3:5	e	٣	ﱏ			
+3	53:4:1	w	إِنۡ	ﱐ	ان	Not	in
+3	53:4:2	w	هُوَ	ﱑ	هو	it	huwa
+3	53:4:3	w	إِلَّا	ﱒ	الا	(is) except	illā
+3	53:4:4	w	وَحۡيٞ	ﱓ	وحي	a revelation	waḥyun
+3	53:4:5	w	يُوحَىٰ	ﱔ	يوحى	revealed	yūḥā
+3	53:4:6	e	٤	ﱕ			
+3	53:5:1	w	عَلَّمَهُۥ	ﱖ	علمه	Has taught him	ʿallamahu
+3	53:5:2	w	شَدِيدُ	ﱗ	شديد	the (one) mighty	shadīdu
+3	53:5:3	w	ٱلۡقُوَىٰ	ﱘ	القوى	(in) power	l-quwā
+3	53:5:4	e	٥	ﱙ			
+4	53:6:1	w	ذُو	ﱚ	ذو	Possessor of soundness	dhū
+4	53:6:2	w	مِرَّةٖ	ﱛ	مرة	Possessor of soundness	mirratin
+4	53:6:3	w	فَٱسۡتَوَىٰ	ﱜ	فاستوى	And he rose	fa-is'tawā
+4	53:6:4	e	٦	ﱝ			
+4	53:7:1	w	وَهُوَ	ﱞ	وهو	While he	wahuwa
+4	53:7:2	w	بِٱلۡأُفُقِ	ﱟ	بالافق	(was) in the horizon	bil-ufuqi
+4	53:7:3	w	ٱلۡأَعۡلَىٰ	ﱠ	الاعلى	the highest	l-aʿlā
+4	53:7:4	e	٧	ﱡ			
+4	53:8:1	w	ثُمَّ	ﱢ	ثم	Then	thumma
+4	53:8:2	w	دَنَا	ﱣ	دنا	he approached	danā
+4	53:8:3	w	فَتَدَلَّىٰ	ﱤ	فتدلى	and came down	fatadallā
+4	53:8:4	e	٨	ﱥ			
+5	53:9:1	w	فَكَانَ	ﱦ	فكان	And was	fakāna
+5	53:9:2	w	قَابَ	ﱧ	قاب	(at) a distance	qāba
+5	53:9:3	w	قَوۡسَيۡنِ	ﱨ	قوسين	(of) two bow-(lengths)	qawsayni
+5	53:9:4	w	أَوۡ	ﱩ	او	or	aw
+5	53:9:5	w	أَدۡنَىٰ	ﱪ	ادنى	nearer	adnā
+5	53:9:6	e	٩	ﱫ			
+5	53:10:1	w	فَأَوۡحَىٰٓ	ﱬ	فاوحى	So he revealed	fa-awḥā
+5	53:10:2	w	إِلَىٰ	ﱭ	الى	to	ilā
+5	53:10:3	w	عَبۡدِهِۦ	ﱮ	عبده	His slave	ʿabdihi
+5	53:10:4	w	مَآ	ﱯ	ما	what	mā
+5	53:10:5	w	أَوۡحَىٰ	ﱰ	اوحى	he revealed	awḥā
+5	53:10:6	e	١٠	ﱱ			
+6	53:11:1	w	مَا	ﱲ	ما	Not	mā
+6	53:11:2	w	كَذَبَ	ﱳ	كذب	lied	kadhaba
+6	53:11:3	w	ٱلۡفُؤَادُ	ﱴ	الفواد	the heart	l-fuādu
+6	53:11:4	w	مَا	ﱵ	ما	what	mā
+6	53:11:5	w	رَأَىٰٓ	ﱶ	راى	it saw	raā
+6	53:11:6	e	١١	ﱷ			
+6	53:12:1	w	أَفَتُمَٰرُونَهُۥ	ﱸ	افتمارونه	Then will you dispute with him	afatumārūnahu
+6	53:12:2	w	عَلَىٰ	ﱹ	على	about	ʿalā
+6	53:12:3	w	مَا	ﱺ	ما	what	mā
+6	53:12:4	w	يَرَىٰ	ﱻ	يرى	he saw	yarā
+6	53:12:5	e	١٢	ﱼ			
+6	53:13:1	w	وَلَقَدۡ	ﱽ	ولقد	And certainly	walaqad
+6	53:13:2	w	رَءَاهُ	ﱾ	راه	he saw him	raāhu
+7	53:13:3	w	نَزۡلَةً	ﱿ	نزلة	(in) descent	nazlatan
+7	53:13:4	w	أُخۡرَىٰ	ﲀ	اخرى	another	ukh'rā
+7	53:13:5	e	١٣	ﲁ			
+7	53:14:1	w	عِندَ	ﲂ	عند	Near	ʿinda
+7	53:14:2	w	سِدۡرَةِ	ﲃ	سدرة	(the) Lote Tree	sid'rati
+7	53:14:3	w	ٱلۡمُنتَهَىٰ	ﲄ	المنتهى	(of) the utmost boundary	l-muntahā
+7	53:14:4	e	١٤	ﲅ			
+7	53:15:1	w	عِندَهَا	ﲆ	عندها	Near it	ʿindahā
+7	53:15:2	w	جَنَّةُ	ﲇ	جنة	(is the) Garden	jannatu
+7	53:15:3	w	ٱلۡمَأۡوَىٰٓ	ﲈ	الماوى	(of) Abode	l-mawā
+7	53:15:4	e	١٥	ﲉ			
+8	53:16:1	w	إِذۡ	ﲊ	اذ	When	idh
+8	53:16:2	w	يَغۡشَى	ﲋ	يغشى	covered	yaghshā
+8	53:16:3	w	ٱلسِّدۡرَةَ	ﲌ	السدرة	the Lote Tree	l-sid'rata
+8	53:16:4	w	مَا	ﲍ	ما	what	mā
+8	53:16:5	w	يَغۡشَىٰ	ﲎ	يغشى	covers	yaghshā
+8	53:16:6	e	١٦	ﲏ			
+8	53:17:1	w	مَا	ﲐ	ما	Not	mā
+8	53:17:2	w	زَاغَ	ﲑ	زاغ	swerved	zāgha
+8	53:17:3	w	ٱلۡبَصَرُ	ﲒ	البصر	the sight	l-baṣaru
+8	53:17:4	w	وَمَا	ﲓ	وما	and not	wamā
+8	53:17:5	w	طَغَىٰ	ﲔ	طغى	it transgressed	ṭaghā
+8	53:17:6	e	١٧	ﲕ			
+8	53:18:1	w	لَقَدۡ	ﲖ	لقد	Certainly	laqad
+8	53:18:2	w	رَأَىٰ	ﲗ	راى	he saw	raā
+9	53:18:3	w	مِنۡ	ﲘ	من	of	min
+9	53:18:4	w	ءَايَٰتِ	ﲙ	ايات	(the) Signs	āyāti
+9	53:18:5	w	رَبِّهِ	ﲚ	ربه	(of) his Lord	rabbihi
+9	53:18:6	w	ٱلۡكُبۡرَىٰٓ	ﲛ	الكبرى	the Greatest	l-kub'rā
+9	53:18:7	e	١٨	ﲜ			
+9	53:19:1	w	أَفَرَءَيۡتُمُ	ﲝ	افرايتم	So have you seen	afara-aytumu
+9	53:19:2	w	ٱللَّٰتَ	ﲞ	اللات	the Lat	l-lāta
+9	53:19:3	w	وَٱلۡعُزَّىٰ	ﲟ	والعزى	and the Uzza	wal-ʿuzā
+9	53:19:4	e	١٩	ﲠ			
+9	53:20:1	w	وَمَنَوٰةَ	ﲡ	ومناة	And Manat	wamanata
+10	53:20:2	w	ٱلثَّالِثَةَ	ﲢ	الثالثة	the third	l-thālithata
+10	53:20:3	w	ٱلۡأُخۡرَىٰٓ	ﲣ	الاخرى	the other	l-ukh'rā
+10	53:20:4	e	٢٠	ﲤ			
+10	53:21:1	w	أَلَكُمُ	ﲥ	الكم	Is for you	alakumu
+10	53:21:2	w	ٱلذَّكَرُ	ﲦ	الذكر	the male	l-dhakaru
+10	53:21:3	w	وَلَهُ	ﲧ	وله	and for Him	walahu
+10	53:21:4	w	ٱلۡأُنثَىٰ	ﲨ	الانثى	the female	l-unthā
+10	53:21:5	e	٢١	ﲩ			
+10	53:22:1	w	تِلۡكَ	ﲪ	تلك	This	til'ka
+10	53:22:2	w	إِذٗا	ﲫ	اذا	then	idhan
+10	53:22:3	w	قِسۡمَةٞ	ﲬ	قسمة	(is) a division	qis'matun
+11	53:22:4	w	ضِيزَىٰٓ	ﲭ	ضيزى	unfair	ḍīzā
+11	53:22:5	e	٢٢	ﲮ			
+11	53:23:1	w	إِنۡ	ﲯ	ان	Not	in
+11	53:23:2	w	هِيَ	ﲰ	هي	they	hiya
+11	53:23:3	w	إِلَّآ	ﲱ	الا	(are) except	illā
+11	53:23:4	w	أَسۡمَآءٞ	ﲲ	اسماء	names	asmāon
+11	53:23:5	w	سَمَّيۡتُمُوهَآ	ﲳ	سميتموها	you have named them	sammaytumūhā
+11	53:23:6	w	أَنتُمۡ	ﲴ	انتم	you	antum
+11	53:23:7	w	وَءَابَآؤُكُم	ﲵ	واباوكم	and your forefathers	waābāukum
+11	53:23:8	w	مَّآ	ﲶ	ما	not	mā
+11	53:23:9	w	أَنزَلَ	ﲷ	انزل	has Allah sent down	anzala
+12	53:23:10	w	ٱللَّهُ	ﲸ	الله	has Allah sent down	l-lahu
+12	53:23:11	w	بِهَا	ﲹ	بها	for it	bihā
+12	53:23:12	w	مِن	ﲺ	من	any	min
+12	53:23:13	w	سُلۡطَٰنٍۚ	ﲻﲼ	سلطان	authority	sul'ṭānin
+12	53:23:14	w	إِن	ﲽ	ان	Not	in
+12	53:23:15	w	يَتَّبِعُونَ	ﲾ	يتبعون	they follow	yattabiʿūna
+12	53:23:16	w	إِلَّا	ﲿ	الا	except	illā
+12	53:23:17	w	ٱلظَّنَّ	ﳀ	الظن	assumption	l-ẓana
+12	53:23:18	w	وَمَا	ﳁ	وما	and what	wamā
+12	53:23:19	w	تَهۡوَى	ﳂ	تهوى	desire	tahwā
+12	53:23:20	w	ٱلۡأَنفُسُۖ	ﳃﳄ	الانفس	the(ir) souls	l-anfusu
+13	53:23:21	w	وَلَقَدۡ	ﳅ	ولقد	And certainly	walaqad
+13	53:23:22	w	جَآءَهُم	ﳆ	جاءهم	has come to them	jāahum
+13	53:23:23	w	مِّن	ﳇ	من	from	min
+13	53:23:24	w	رَّبِّهِمُ	ﳈ	ربهم	their Lord	rabbihimu
+13	53:23:25	w	ٱلۡهُدَىٰٓ	ﳉ	الهدى	the guidance	l-hudā
+13	53:23:26	e	٢٣	ﳊ			
+13	53:24:1	w	أَمۡ	ﳋ	ام	Or	am
+13	53:24:2	w	لِلۡإِنسَٰنِ	ﳌ	للانسان	(is) for man	lil'insāni
+13	53:24:3	w	مَا	ﳍ	ما	what	mā
+13	53:24:4	w	تَمَنَّىٰ	ﳎ	تمنى	he wishes	tamannā
+13	53:24:5	e	٢٤	ﳏ			
+13	53:25:1	w	فَلِلَّهِ	ﳐ	فلله	But for Allah	falillahi
+14	53:25:2	w	ٱلۡأٓخِرَةُ	ﳑ	الاخرة	(is) the last	l-ākhiratu
+14	53:25:3	w	وَٱلۡأُولَىٰ	ﳒ	والاولى	and the first	wal-ūlā
+14	53:25:4	e	٢٥	ﳓ			
+14	53:26:1	w	۞ وَكَم	ﳔﳕ	۞ وكم	And how many	wakam
+14	53:26:2	w	مِّن	ﳖ	من	of	min
+14	53:26:3	w	مَّلَكٖ	ﳗ	ملك	(the) Angels	malakin
+14	53:26:4	w	فِي	ﳘ	في	in	fī
+14	53:26:5	w	ٱلسَّمَٰوَٰتِ	ﳙ	السماوات	the heavens	l-samāwāti
+14	53:26:6	w	لَا	ﳚ	لا	not	lā
+14	53:26:7	w	تُغۡنِي	ﳛ	تغني	will avail	tugh'nī
+15	53:26:8	w	شَفَٰعَتُهُمۡ	ﳜ	شفاعتهم	their intercession	shafāʿatuhum
+15	53:26:9	w	شَيۡـًٔا	ﳝ	شييا	anything	shayan
+15	53:26:10	w	إِلَّا	ﳞ	الا	except	illā
+15	53:26:11	w	مِنۢ	ﳟ	من	after	min
+15	53:26:12	w	بَعۡدِ	ﳠ	بعد	after	baʿdi
+15	53:26:13	w	أَن	ﳡ	ان	[that]	an
+15	53:26:14	w	يَأۡذَنَ	ﳢ	ياذن	Allah has given permission	yadhana
+15	53:26:15	w	ٱللَّهُ	ﳣ	الله	Allah has given permission	l-lahu
+15	53:26:16	w	لِمَن	ﳤ	لمن	for whom	liman
+15	53:26:17	w	يَشَآءُ	ﳥ	يشاء	He wills	yashāu
+15	53:26:18	w	وَيَرۡضَىٰٓ	ﳦ	ويرضى	and approves	wayarḍā
+15	53:26:19	e	٢٦	ﳧ			

@@ -1,0 +1,130 @@
+1	25:12:1	w	إِذَا	ﱁ	اذا	When	idhā
+1	25:12:2	w	رَأَتۡهُم	ﱂ	راتهم	it sees them	ra-athum
+1	25:12:3	w	مِّن	ﱃ	من	from	min
+1	25:12:4	w	مَّكَانِۭ	ﱄ	مكان	a place	makānin
+1	25:12:5	w	بَعِيدٖ	ﱅ	بعيد	far	baʿīdin
+1	25:12:6	w	سَمِعُواْ	ﱆ	سمعوا	they will hear	samiʿū
+1	25:12:7	w	لَهَا	ﱇ	لها	its	lahā
+1	25:12:8	w	تَغَيُّظٗا	ﱈ	تغيظا	raging	taghayyuẓan
+1	25:12:9	w	وَزَفِيرٗا	ﱉ	وزفيرا	and roaring	wazafīran
+1	25:12:10	e	١٢	ﱊ			
+2	25:13:1	w	وَإِذَآ	ﱋ	واذا	And when	wa-idhā
+2	25:13:2	w	أُلۡقُواْ	ﱌ	القوا	they are thrown	ul'qū
+2	25:13:3	w	مِنۡهَا	ﱍ	منها	thereof	min'hā
+2	25:13:4	w	مَكَانٗا	ﱎ	مكانا	(in) a place	makānan
+2	25:13:5	w	ضَيِّقٗا	ﱏ	ضيقا	narrow	ḍayyiqan
+2	25:13:6	w	مُّقَرَّنِينَ	ﱐ	مقرنين	bound in chains	muqarranīna
+2	25:13:7	w	دَعَوۡاْ	ﱑ	دعوا	they will call	daʿaw
+2	25:13:8	w	هُنَالِكَ	ﱒ	هنالك	there	hunālika
+2	25:13:9	w	ثُبُورٗا	ﱓ	ثبورا	(for) destruction	thubūran
+3	25:13:10	e	١٣	ﱔ			
+3	25:14:1	w	لَّا	ﱕ	لا	(Do) not	lā
+3	25:14:2	w	تَدۡعُواْ	ﱖ	تدعوا	call	tadʿū
+3	25:14:3	w	ٱلۡيَوۡمَ	ﱗ	اليوم	this day	l-yawma
+3	25:14:4	w	ثُبُورٗا	ﱘ	ثبورا	(for) destruction	thubūran
+3	25:14:5	w	وَٰحِدٗا	ﱙ	واحدا	one	wāḥidan
+3	25:14:6	w	وَٱدۡعُواْ	ﱚ	وادعوا	but call	wa-id'ʿū
+3	25:14:7	w	ثُبُورٗا	ﱛ	ثبورا	(for) destructions	thubūran
+3	25:14:8	w	كَثِيرٗا	ﱜ	كثيرا	many	kathīran
+3	25:14:9	e	١٤	ﱝ			
+4	25:15:1	w	قُلۡ	ﱞ	قل	Say	qul
+4	25:15:2	w	أَذَٰلِكَ	ﱟ	اذالك	Is that	adhālika
+4	25:15:3	w	خَيۡرٌ	ﱠ	خير	better	khayrun
+4	25:15:4	w	أَمۡ	ﱡ	ام	or	am
+4	25:15:5	w	جَنَّةُ	ﱢ	جنة	Garden	jannatu
+4	25:15:6	w	ٱلۡخُلۡدِ	ﱣ	الخلد	(of) Eternity	l-khul'di
+4	25:15:7	w	ٱلَّتِي	ﱤ	التي	which	allatī
+4	25:15:8	w	وُعِدَ	ﱥ	وعد	is promised	wuʿida
+4	25:15:9	w	ٱلۡمُتَّقُونَۚ	ﱦﱧ	المتقون	(to) the righteous	l-mutaqūna
+4	25:15:10	w	كَانَتۡ	ﱨ	كانت	It will be	kānat
+5	25:15:11	w	لَهُمۡ	ﱩ	لهم	for them	lahum
+5	25:15:12	w	جَزَآءٗ	ﱪ	جزاء	a reward	jazāan
+5	25:15:13	w	وَمَصِيرٗا	ﱫ	ومصيرا	and destination	wamaṣīran
+5	25:15:14	e	١٥	ﱬ			
+5	25:16:1	w	لَّهُمۡ	ﱭ	لهم	For them	lahum
+5	25:16:2	w	فِيهَا	ﱮ	فيها	therein	fīhā
+5	25:16:3	w	مَا	ﱯ	ما	(is) whatever	mā
+5	25:16:4	w	يَشَآءُونَ	ﱰ	يشاءون	they wish	yashāūna
+5	25:16:5	w	خَٰلِدِينَۚ	ﱱﱲ	خالدين	they will abide forever	khālidīna
+6	25:16:6	w	كَانَ	ﱳ	كان	It is	kāna
+6	25:16:7	w	عَلَىٰ	ﱴ	على	on	ʿalā
+6	25:16:8	w	رَبِّكَ	ﱵ	ربك	your Lord	rabbika
+6	25:16:9	w	وَعۡدٗا	ﱶ	وعدا	a promise	waʿdan
+6	25:16:10	w	مَّسۡـُٔولٗا	ﱷ	مسيولا	requested	masūlan
+6	25:16:11	e	١٦	ﱸ			
+6	25:17:1	w	وَيَوۡمَ	ﱹ	ويوم	And (the) Day	wayawma
+6	25:17:2	w	يَحۡشُرُهُمۡ	ﱺ	يحشرهم	He will gather them	yaḥshuruhum
+6	25:17:3	w	وَمَا	ﱻ	وما	and what	wamā
+7	25:17:4	w	يَعۡبُدُونَ	ﱼ	يعبدون	they worship	yaʿbudūna
+7	25:17:5	w	مِن	ﱽ	من	besides Allah	min
+7	25:17:6	w	دُونِ	ﱾ	دون	besides Allah	dūni
+7	25:17:7	w	ٱللَّهِ	ﱿ	الله	besides Allah	l-lahi
+7	25:17:8	w	فَيَقُولُ	ﲀ	فيقول	and He will say	fayaqūlu
+7	25:17:9	w	ءَأَنتُمۡ	ﲁ	اانتم	Did you	a-antum
+7	25:17:10	w	أَضۡلَلۡتُمۡ	ﲂ	اضللتم	[you] mislead	aḍlaltum
+7	25:17:11	w	عِبَادِي	ﲃ	عبادي	My slaves	ʿibādī
+8	25:17:12	w	هَٰٓؤُلَآءِ	ﲄ	هاولاء	these	hāulāi
+8	25:17:13	w	أَمۡ	ﲅ	ام	or	am
+8	25:17:14	w	هُمۡ	ﲆ	هم	they	hum
+8	25:17:15	w	ضَلُّواْ	ﲇ	ضلوا	went astray	ḍallū
+8	25:17:16	w	ٱلسَّبِيلَ	ﲈ	السبيل	(from) the way	l-sabīla
+8	25:17:17	e	١٧	ﲉ			
+8	25:18:1	w	قَالُواْ	ﲊ	قالوا	They say	qālū
+8	25:18:2	w	سُبۡحَٰنَكَ	ﲋ	سبحانك	Glory be to You	sub'ḥānaka
+8	25:18:3	w	مَا	ﲌ	ما	Not	mā
+8	25:18:4	w	كَانَ	ﲍ	كان	it was proper	kāna
+9	25:18:5	w	يَنۢبَغِي	ﲎ	ينبغي	it was proper	yanbaghī
+9	25:18:6	w	لَنَآ	ﲏ	لنا	for us	lanā
+9	25:18:7	w	أَن	ﲐ	ان	that	an
+9	25:18:8	w	نَّتَّخِذَ	ﲑ	نتخذ	we take	nattakhidha
+9	25:18:9	w	مِن	ﲒ	من	besides You	min
+9	25:18:10	w	دُونِكَ	ﲓ	دونك	besides You	dūnika
+9	25:18:11	w	مِنۡ	ﲔ	من	any	min
+9	25:18:12	w	أَوۡلِيَآءَ	ﲕ	اولياء	protectors	awliyāa
+9	25:18:13	w	وَلَٰكِن	ﲖ	ولاكن	But	walākin
+9	25:18:14	w	مَّتَّعۡتَهُمۡ	ﲗ	متعتهم	You gave them comforts	mattaʿtahum
+10	25:18:15	w	وَءَابَآءَهُمۡ	ﲘ	واباءهم	and their forefathers	waābāahum
+10	25:18:16	w	حَتَّىٰ	ﲙ	حتى	until	ḥattā
+10	25:18:17	w	نَسُواْ	ﲚ	نسوا	they forgot	nasū
+10	25:18:18	w	ٱلذِّكۡرَ	ﲛ	الذكر	the Message	l-dhik'ra
+10	25:18:19	w	وَكَانُواْ	ﲜ	وكانوا	and became	wakānū
+10	25:18:20	w	قَوۡمَۢا	ﲝ	قوما	a people	qawman
+10	25:18:21	w	بُورٗا	ﲞ	بورا	ruined	būran
+10	25:18:22	e	١٨	ﲟ			
+11	25:19:1	w	فَقَدۡ	ﲠ	فقد	So verily	faqad
+11	25:19:2	w	كَذَّبُوكُم	ﲡ	كذبوكم	they deny you	kadhabūkum
+11	25:19:3	w	بِمَا	ﲢ	بما	in what	bimā
+11	25:19:4	w	تَقُولُونَ	ﲣ	تقولون	you say	taqūlūna
+11	25:19:5	w	فَمَا	ﲤ	فما	so not	famā
+11	25:19:6	w	تَسۡتَطِيعُونَ	ﲥ	تستطيعون	you are able	tastaṭīʿūna
+11	25:19:7	w	صَرۡفٗا	ﲦ	صرفا	(to) avert	ṣarfan
+12	25:19:8	w	وَلَا	ﲧ	ولا	and not	walā
+12	25:19:9	w	نَصۡرٗاۚ	ﲨﲩ	نصرا	(to) help	naṣran
+12	25:19:10	w	وَمَن	ﲪ	ومن	And whoever	waman
+12	25:19:11	w	يَظۡلِم	ﲫ	يظلم	does wrong	yaẓlim
+12	25:19:12	w	مِّنكُمۡ	ﲬ	منكم	among you	minkum
+12	25:19:13	w	نُذِقۡهُ	ﲭ	نذقه	We will make him taste	nudhiq'hu
+12	25:19:14	w	عَذَابٗا	ﲮ	عذابا	a punishment	ʿadhāban
+12	25:19:15	w	كَبِيرٗا	ﲯ	كبيرا	great	kabīran
+12	25:19:16	e	١٩	ﲰ			
+13	25:20:1	w	وَمَآ	ﲱ	وما	And not	wamā
+13	25:20:2	w	أَرۡسَلۡنَا	ﲲ	ارسلنا	We sent	arsalnā
+13	25:20:3	w	قَبۡلَكَ	ﲳ	قبلك	before you	qablaka
+13	25:20:4	w	مِنَ	ﲴ	من	any	mina
+13	25:20:5	w	ٱلۡمُرۡسَلِينَ	ﲵ	المرسلين	Messengers	l-mur'salīna
+13	25:20:6	w	إِلَّآ	ﲶ	الا	but	illā
+13	25:20:7	w	إِنَّهُمۡ	ﲷ	انهم	indeed, they	innahum
+13	25:20:8	w	لَيَأۡكُلُونَ	ﲸ	لياكلون	[surely] ate	layakulūna
+14	25:20:9	w	ٱلطَّعَامَ	ﲹ	الطعام	food	l-ṭaʿāma
+14	25:20:10	w	وَيَمۡشُونَ	ﲺ	ويمشون	and walked	wayamshūna
+14	25:20:11	w	فِي	ﲻ	في	in	fī
+14	25:20:12	w	ٱلۡأَسۡوَاقِۗ	ﲼﲽ	الاسواق	the markets	l-aswāqi
+14	25:20:13	w	وَجَعَلۡنَا	ﲾ	وجعلنا	And We have made	wajaʿalnā
+14	25:20:14	w	بَعۡضَكُمۡ	ﲿ	بعضكم	some of you	baʿḍakum
+15	25:20:15	w	لِبَعۡضٖ	ﳀ	لبعض	for others	libaʿḍin
+15	25:20:16	w	فِتۡنَةً	ﳁ	فتنة	a trial	fit'natan
+15	25:20:17	w	أَتَصۡبِرُونَۗ	ﳂﳃ	اتصبرون	will you have patience	ataṣbirūna
+15	25:20:18	w	وَكَانَ	ﳄ	وكان	And is	wakāna
+15	25:20:19	w	رَبُّكَ	ﳅ	ربك	your Lord	rabbuka
+15	25:20:20	w	بَصِيرٗا	ﳆ	بصيرا	All-Seer	baṣīran
+15	25:20:21	e	٢٠	ﳇ			

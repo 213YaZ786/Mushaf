@@ -1,0 +1,154 @@
+1	42:23:1	w	ذَٰلِكَ	ﱁ	ذالك	That	dhālika
+1	42:23:2	w	ٱلَّذِي	ﱂ	الذي	(is of) which	alladhī
+1	42:23:3	w	يُبَشِّرُ	ﱃ	يبشر	Allah gives glad tidings	yubashiru
+1	42:23:4	w	ٱللَّهُ	ﱄ	الله	Allah gives glad tidings	l-lahu
+1	42:23:5	w	عِبَادَهُ	ﱅ	عباده	(to) His slaves	ʿibādahu
+1	42:23:6	w	ٱلَّذِينَ	ﱆ	الذين	those who	alladhīna
+1	42:23:7	w	ءَامَنُواْ	ﱇ	امنوا	believe	āmanū
+1	42:23:8	w	وَعَمِلُواْ	ﱈ	وعملوا	and do	waʿamilū
+1	42:23:9	w	ٱلصَّٰلِحَٰتِۗ	ﱉﱊ	الصالحات	righteous deeds	l-ṣāliḥāti
+2	42:23:10	w	قُل	ﱋ	قل	Say	qul
+2	42:23:11	w	لَّآ	ﱌ	لا	Not	lā
+2	42:23:12	w	أَسۡـَٔلُكُمۡ	ﱍ	اسالكم	I ask you	asalukum
+2	42:23:13	w	عَلَيۡهِ	ﱎ	عليه	for it	ʿalayhi
+2	42:23:14	w	أَجۡرًا	ﱏ	اجرا	any payment	ajran
+2	42:23:15	w	إِلَّا	ﱐ	الا	except	illā
+2	42:23:16	w	ٱلۡمَوَدَّةَ	ﱑ	المودة	the love	l-mawadata
+2	42:23:17	w	فِي	ﱒ	في	among	fī
+2	42:23:18	w	ٱلۡقُرۡبَىٰۗ	ﱓﱔ	القربى	the relatives	l-qur'bā
+2	42:23:19	w	وَمَن	ﱕ	ومن	And whoever	waman
+2	42:23:20	w	يَقۡتَرِفۡ	ﱖ	يقترف	earns	yaqtarif
+3	42:23:21	w	حَسَنَةٗ	ﱗ	حسنة	any good	ḥasanatan
+3	42:23:22	w	نَّزِدۡ	ﱘ	نزد	We increase	nazid
+3	42:23:23	w	لَهُۥ	ﱙ	له	for him	lahu
+3	42:23:24	w	فِيهَا	ﱚ	فيها	therein	fīhā
+3	42:23:25	w	حُسۡنًاۚ	ﱛﱜ	حسنا	good	ḥus'nan
+3	42:23:26	w	إِنَّ	ﱝ	ان	Indeed	inna
+3	42:23:27	w	ٱللَّهَ	ﱞ	الله	Allah	l-laha
+3	42:23:28	w	غَفُورٞ	ﱟ	غفور	(is) Oft-Forgiving	ghafūrun
+3	42:23:29	w	شَكُورٌ	ﱠ	شكور	All-Appreciative	shakūrun
+3	42:23:30	e	٢٣	ﱡ			
+3	42:24:1	w	أَمۡ	ﱢ	ام	Or	am
+3	42:24:2	w	يَقُولُونَ	ﱣ	يقولون	(do) they say	yaqūlūna
+4	42:24:3	w	ٱفۡتَرَىٰ	ﱤ	افترى	He has invented	if'tarā
+4	42:24:4	w	عَلَى	ﱥ	على	about	ʿalā
+4	42:24:5	w	ٱللَّهِ	ﱦ	الله	Allah	l-lahi
+4	42:24:6	w	كَذِبٗاۖ	ﱧﱨ	كذبا	a lie	kadhiban
+4	42:24:7	w	فَإِن	ﱩ	فان	But if	fa-in
+4	42:24:8	w	يَشَإِ	ﱪ	يشا	Allah willed	yasha-i
+4	42:24:9	w	ٱللَّهُ	ﱫ	الله	Allah willed	l-lahu
+4	42:24:10	w	يَخۡتِمۡ	ﱬ	يختم	He would seal	yakhtim
+4	42:24:11	w	عَلَىٰ	ﱭ	على	[over]	ʿalā
+4	42:24:12	w	قَلۡبِكَۗ	ﱮﱯ	قلبك	your heart	qalbika
+4	42:24:13	w	وَيَمۡحُ	ﱰ	ويمح	And Allah eliminates	wayamḥu
+4	42:24:14	w	ٱللَّهُ	ﱱ	الله	And Allah eliminates	l-lahu
+5	42:24:15	w	ٱلۡبَٰطِلَ	ﱲ	الباطل	the falsehood	l-bāṭila
+5	42:24:16	w	وَيُحِقُّ	ﱳ	ويحق	and establishes	wayuḥiqqu
+5	42:24:17	w	ٱلۡحَقَّ	ﱴ	الحق	the truth	l-ḥaqa
+5	42:24:18	w	بِكَلِمَٰتِهِۦٓۚ	ﱵﱶ	بكلماته	by His Words	bikalimātihi
+5	42:24:19	w	إِنَّهُۥ	ﱷ	انه	Indeed, He	innahu
+5	42:24:20	w	عَلِيمُۢ	ﱸ	عليم	(is) All-Knowing	ʿalīmun
+5	42:24:21	w	بِذَاتِ	ﱹ	بذات	of what	bidhāti
+5	42:24:22	w	ٱلصُّدُورِ	ﱺ	الصدور	(is in) the breasts	l-ṣudūri
+5	42:24:23	e	٢٤	ﱻ			
+6	42:25:1	w	وَهُوَ	ﱼ	وهو	And He	wahuwa
+6	42:25:2	w	ٱلَّذِي	ﱽ	الذي	(is) the One Who	alladhī
+6	42:25:3	w	يَقۡبَلُ	ﱾ	يقبل	accepts	yaqbalu
+6	42:25:4	w	ٱلتَّوۡبَةَ	ﱿ	التوبة	the repentance	l-tawbata
+6	42:25:5	w	عَنۡ	ﲀ	عن	of	ʿan
+6	42:25:6	w	عِبَادِهِۦ	ﲁ	عباده	His slaves	ʿibādihi
+6	42:25:7	w	وَيَعۡفُواْ	ﲂ	ويعفو	and pardons	wayaʿfū
+6	42:25:8	w	عَنِ	ﲃ	عن	[of]	ʿani
+6	42:25:9	w	ٱلسَّيِّـَٔاتِ	ﲄ	السييات	the evil	l-sayiāti
+7	42:25:10	w	وَيَعۡلَمُ	ﲅ	ويعلم	and He knows	wayaʿlamu
+7	42:25:11	w	مَا	ﲆ	ما	what	mā
+7	42:25:12	w	تَفۡعَلُونَ	ﲇ	تفعلون	you do	tafʿalūna
+7	42:25:13	e	٢٥	ﲈ			
+7	42:26:1	w	وَيَسۡتَجِيبُ	ﲉ	ويستجيب	And He answers	wayastajību
+7	42:26:2	w	ٱلَّذِينَ	ﲊ	الذين	those who	alladhīna
+7	42:26:3	w	ءَامَنُواْ	ﲋ	امنوا	believe	āmanū
+7	42:26:4	w	وَعَمِلُواْ	ﲌ	وعملوا	and do	waʿamilū
+8	42:26:5	w	ٱلصَّٰلِحَٰتِ	ﲍ	الصالحات	righteous deeds	l-ṣāliḥāti
+8	42:26:6	w	وَيَزِيدُهُم	ﲎ	ويزيدهم	and increases (for) them	wayazīduhum
+8	42:26:7	w	مِّن	ﲏ	من	from	min
+8	42:26:8	w	فَضۡلِهِۦۚ	ﲐﲑ	فضله	His Bounty	faḍlihi
+8	42:26:9	w	وَٱلۡكَٰفِرُونَ	ﲒ	والكافرون	And the disbelievers	wal-kāfirūna
+8	42:26:10	w	لَهُمۡ	ﲓ	لهم	for them	lahum
+8	42:26:11	w	عَذَابٞ	ﲔ	عذاب	(will be) a punishment	ʿadhābun
+9	42:26:12	w	شَدِيدٞ	ﲕ	شديد	severe	shadīdun
+9	42:26:13	e	٢٦	ﲖ			
+9	42:27:1	w	۞ وَلَوۡ	ﲗ ﲘ	۞ ولو	And if	walaw
+9	42:27:2	w	بَسَطَ	ﲙ	بسط	Allah extends	basaṭa
+9	42:27:3	w	ٱللَّهُ	ﲚ	الله	Allah extends	l-lahu
+9	42:27:4	w	ٱلرِّزۡقَ	ﲛ	الرزق	the provision	l-riz'qa
+9	42:27:5	w	لِعِبَادِهِۦ	ﲜ	لعباده	for His slaves	liʿibādihi
+9	42:27:6	w	لَبَغَوۡاْ	ﲝ	لبغوا	surely they would rebel	labaghaw
+9	42:27:7	w	فِي	ﲞ	في	in	fī
+9	42:27:8	w	ٱلۡأَرۡضِ	ﲟ	الارض	the earth	l-arḍi
+10	42:27:9	w	وَلَٰكِن	ﲠ	ولاكن	but	walākin
+10	42:27:10	w	يُنَزِّلُ	ﲡ	ينزل	He sends down	yunazzilu
+10	42:27:11	w	بِقَدَرٖ	ﲢ	بقدر	in (due) measure	biqadarin
+10	42:27:12	w	مَّا	ﲣ	ما	what	mā
+10	42:27:13	w	يَشَآءُۚ	ﲤﲥ	يشاء	He wills	yashāu
+10	42:27:14	w	إِنَّهُۥ	ﲦ	انه	Indeed, He	innahu
+10	42:27:15	w	بِعِبَادِهِۦ	ﲧ	بعباده	of His slaves	biʿibādihi
+10	42:27:16	w	خَبِيرُۢ	ﲨ	خبير	(is) All-Aware	khabīrun
+10	42:27:17	w	بَصِيرٞ	ﲩ	بصير	All-Seer	baṣīrun
+10	42:27:18	e	٢٧	ﲪ			
+10	42:28:1	w	وَهُوَ	ﲫ	وهو	And He	wahuwa
+11	42:28:2	w	ٱلَّذِي	ﲬ	الذي	(is) the One Who	alladhī
+11	42:28:3	w	يُنَزِّلُ	ﲭ	ينزل	sends down	yunazzilu
+11	42:28:4	w	ٱلۡغَيۡثَ	ﲮ	الغيث	the rain	l-ghaytha
+11	42:28:5	w	مِنۢ	ﲯ	من	after	min
+11	42:28:6	w	بَعۡدِ	ﲰ	بعد	after	baʿdi
+11	42:28:7	w	مَا	ﲱ	ما	[what]	mā
+11	42:28:8	w	قَنَطُواْ	ﲲ	قنطوا	they have despaired	qanaṭū
+11	42:28:9	w	وَيَنشُرُ	ﲳ	وينشر	and spreads	wayanshuru
+11	42:28:10	w	رَحۡمَتَهُۥۚ	ﲴﲵ	رحمته	His mercy	raḥmatahu
+11	42:28:11	w	وَهُوَ	ﲶ	وهو	And He	wahuwa
+11	42:28:12	w	ٱلۡوَلِيُّ	ﲷ	الولي	(is) the Protector	l-waliyu
+11	42:28:13	w	ٱلۡحَمِيدُ	ﲸ	الحميد	the Praiseworthy	l-ḥamīdu
+12	42:28:14	e	٢٨	ﲹ			
+12	42:29:1	w	وَمِنۡ	ﲺ	ومن	And among	wamin
+12	42:29:2	w	ءَايَٰتِهِۦ	ﲻ	اياته	His Signs	āyātihi
+12	42:29:3	w	خَلۡقُ	ﲼ	خلق	(is the) creation	khalqu
+12	42:29:4	w	ٱلسَّمَٰوَٰتِ	ﲽ	السماوات	(of) the heavens	l-samāwāti
+12	42:29:5	w	وَٱلۡأَرۡضِ	ﲾ	والارض	and the earth	wal-arḍi
+12	42:29:6	w	وَمَا	ﲿ	وما	and whatever	wamā
+12	42:29:7	w	بَثَّ	ﳀ	بث	He has dispersed	batha
+12	42:29:8	w	فِيهِمَا	ﳁ	فيهما	in both of them	fīhimā
+12	42:29:9	w	مِن	ﳂ	من	of	min
+12	42:29:10	w	دَآبَّةٖۚ	ﳃﳄ	دابة	(the) creatures	dābbatin
+13	42:29:11	w	وَهُوَ	ﳅ	وهو	And He	wahuwa
+13	42:29:12	w	عَلَىٰ	ﳆ	على	(is) over	ʿalā
+13	42:29:13	w	جَمۡعِهِمۡ	ﳇ	جمعهم	their gathering	jamʿihim
+13	42:29:14	w	إِذَا	ﳈ	اذا	when	idhā
+13	42:29:15	w	يَشَآءُ	ﳉ	يشاء	He wills	yashāu
+13	42:29:16	w	قَدِيرٞ	ﳊ	قدير	All-Powerful	qadīrun
+13	42:29:17	e	٢٩	ﳋ			
+13	42:30:1	w	وَمَآ	ﳌ	وما	And whatever	wamā
+13	42:30:2	w	أَصَٰبَكُم	ﳍ	اصابكم	befalls you	aṣābakum
+13	42:30:3	w	مِّن	ﳎ	من	of	min
+13	42:30:4	w	مُّصِيبَةٖ	ﳏ	مصيبة	(the) misfortune	muṣībatin
+13	42:30:5	w	فَبِمَا	ﳐ	فبما	(is because) of what	fabimā
+14	42:30:6	w	كَسَبَتۡ	ﳑ	كسبت	have earned	kasabat
+14	42:30:7	w	أَيۡدِيكُمۡ	ﳒ	ايديكم	your hands	aydīkum
+14	42:30:8	w	وَيَعۡفُواْ	ﳓ	ويعفو	But He pardons	wayaʿfū
+14	42:30:9	w	عَن	ﳔ	عن	[from]	ʿan
+14	42:30:10	w	كَثِيرٖ	ﳕ	كثير	much	kathīrin
+14	42:30:11	e	٣٠	ﳖ			
+14	42:31:1	w	وَمَآ	ﳗ	وما	And not	wamā
+14	42:31:2	w	أَنتُم	ﳘ	انتم	you	antum
+14	42:31:3	w	بِمُعۡجِزِينَ	ﳙ	بمعجزين	(can) escape	bimuʿ'jizīna
+15	42:31:4	w	فِي	ﳚ	في	in	fī
+15	42:31:5	w	ٱلۡأَرۡضِۖ	ﳛﳜ	الارض	the earth	l-arḍi
+15	42:31:6	w	وَمَا	ﳝ	وما	and not	wamā
+15	42:31:7	w	لَكُم	ﳞ	لكم	for you	lakum
+15	42:31:8	w	مِّن	ﳟ	من	besides	min
+15	42:31:9	w	دُونِ	ﳠ	دون	besides	dūni
+15	42:31:10	w	ٱللَّهِ	ﳡ	الله	Allah	l-lahi
+15	42:31:11	w	مِن	ﳢ	من	any	min
+15	42:31:12	w	وَلِيّٖ	ﳣ	ولي	protector	waliyyin
+15	42:31:13	w	وَلَا	ﳤ	ولا	and not	walā
+15	42:31:14	w	نَصِيرٖ	ﳥ	نصير	any helper	naṣīrin
+15	42:31:15	e	٣١	ﳦ			

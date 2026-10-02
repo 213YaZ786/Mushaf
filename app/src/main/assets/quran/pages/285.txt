@@ -1,0 +1,155 @@
+1	17:28:1	w	وَإِمَّا	ﱁ	واما	And if	wa-immā
+1	17:28:2	w	تُعۡرِضَنَّ	ﱂ	تعرضن	you turn away	tuʿ'riḍanna
+1	17:28:3	w	عَنۡهُمُ	ﱃ	عنهم	from them	ʿanhumu
+1	17:28:4	w	ٱبۡتِغَآءَ	ﱄ	ابتغاء	seeking	ib'tighāa
+1	17:28:5	w	رَحۡمَةٖ	ﱅ	رحمة	mercy	raḥmatin
+1	17:28:6	w	مِّن	ﱆ	من	from	min
+1	17:28:7	w	رَّبِّكَ	ﱇ	ربك	your Lord	rabbika
+1	17:28:8	w	تَرۡجُوهَا	ﱈ	ترجوها	which you expect	tarjūhā
+1	17:28:9	w	فَقُل	ﱉ	فقل	then say	faqul
+1	17:28:10	w	لَّهُمۡ	ﱊ	لهم	to them	lahum
+1	17:28:11	w	قَوۡلٗا	ﱋ	قولا	a word	qawlan
+2	17:28:12	w	مَّيۡسُورٗا	ﱌ	ميسورا	gentle	maysūran
+2	17:28:13	e	٢٨	ﱍ			
+2	17:29:1	w	وَلَا	ﱎ	ولا	And (do) not	walā
+2	17:29:2	w	تَجۡعَلۡ	ﱏ	تجعل	make	tajʿal
+2	17:29:3	w	يَدَكَ	ﱐ	يدك	your hand	yadaka
+2	17:29:4	w	مَغۡلُولَةً	ﱑ	مغلولة	chained	maghlūlatan
+2	17:29:5	w	إِلَىٰ	ﱒ	الى	to	ilā
+2	17:29:6	w	عُنُقِكَ	ﱓ	عنقك	your neck	ʿunuqika
+2	17:29:7	w	وَلَا	ﱔ	ولا	and not	walā
+2	17:29:8	w	تَبۡسُطۡهَا	ﱕ	تبسطها	extend it	tabsuṭ'hā
+3	17:29:9	w	كُلَّ	ﱖ	كل	(to its) utmost	kulla
+3	17:29:10	w	ٱلۡبَسۡطِ	ﱗ	البسط	reach	l-basṭi
+3	17:29:11	w	فَتَقۡعُدَ	ﱘ	فتقعد	so that you sit	fataqʿuda
+3	17:29:12	w	مَلُومٗا	ﱙ	ملوما	blameworthy	malūman
+3	17:29:13	w	مَّحۡسُورًا	ﱚ	محسورا	insolvent	maḥsūran
+3	17:29:14	e	٢٩	ﱛ			
+3	17:30:1	w	إِنَّ	ﱜ	ان	Indeed	inna
+3	17:30:2	w	رَبَّكَ	ﱝ	ربك	your Lord	rabbaka
+3	17:30:3	w	يَبۡسُطُ	ﱞ	يبسط	extends	yabsuṭu
+3	17:30:4	w	ٱلرِّزۡقَ	ﱟ	الرزق	the provision	l-riz'qa
+4	17:30:5	w	لِمَن	ﱠ	لمن	for whom	liman
+4	17:30:6	w	يَشَآءُ	ﱡ	يشاء	He wills	yashāu
+4	17:30:7	w	وَيَقۡدِرُۚ	ﱢﱣ	ويقدر	and straitens	wayaqdiru
+4	17:30:8	w	إِنَّهُۥ	ﱤ	انه	Indeed, He	innahu
+4	17:30:9	w	كَانَ	ﱥ	كان	is	kāna
+4	17:30:10	w	بِعِبَادِهِۦ	ﱦ	بعباده	of His slaves	biʿibādihi
+4	17:30:11	w	خَبِيرَۢا	ﱧ	خبيرا	All-Aware	khabīran
+4	17:30:12	w	بَصِيرٗا	ﱨ	بصيرا	All-Seer	baṣīran
+4	17:30:13	e	٣٠	ﱩ			
+4	17:31:1	w	وَلَا	ﱪ	ولا	And (do) not	walā
+4	17:31:2	w	تَقۡتُلُوٓاْ	ﱫ	تقتلوا	kill	taqtulū
+5	17:31:3	w	أَوۡلَٰدَكُمۡ	ﱬ	اولادكم	your children	awlādakum
+5	17:31:4	w	خَشۡيَةَ	ﱭ	خشية	(for) fear	khashyata
+5	17:31:5	w	إِمۡلَٰقٖۖ	ﱮﱯ	املاق	(of) poverty	im'lāqin
+5	17:31:6	w	نَّحۡنُ	ﱰ	نحن	We	naḥnu
+5	17:31:7	w	نَرۡزُقُهُمۡ	ﱱ	نرزقهم	(We) provide for them	narzuquhum
+5	17:31:8	w	وَإِيَّاكُمۡۚ	ﱲﱳ	واياكم	and for you	wa-iyyākum
+5	17:31:9	w	إِنَّ	ﱴ	ان	Indeed	inna
+5	17:31:10	w	قَتۡلَهُمۡ	ﱵ	قتلهم	their killing	qatlahum
+5	17:31:11	w	كَانَ	ﱶ	كان	is	kāna
+6	17:31:12	w	خِطۡـٔٗا	ﱷ	خطيا	a sin	khiṭ'an
+6	17:31:13	w	كَبِيرٗا	ﱸ	كبيرا	great	kabīran
+6	17:31:14	e	٣١	ﱹ			
+6	17:32:1	w	وَلَا	ﱺ	ولا	And (do) not	walā
+6	17:32:2	w	تَقۡرَبُواْ	ﱻ	تقربوا	go near	taqrabū
+6	17:32:3	w	ٱلزِّنَىٰٓۖ	ﱼﱽ	الزنا	adultery	l-zinā
+6	17:32:4	w	إِنَّهُۥ	ﱾ	انه	Indeed, it	innahu
+6	17:32:5	w	كَانَ	ﱿ	كان	is	kāna
+6	17:32:6	w	فَٰحِشَةٗ	ﲀ	فاحشة	an immorality	fāḥishatan
+6	17:32:7	w	وَسَآءَ	ﲁ	وساء	and (an) evil	wasāa
+7	17:32:8	w	سَبِيلٗا	ﲂ	سبيلا	way	sabīlan
+7	17:32:9	e	٣٢	ﲃ			
+7	17:33:1	w	وَلَا	ﲄ	ولا	And (do) not	walā
+7	17:33:2	w	تَقۡتُلُواْ	ﲅ	تقتلوا	kill	taqtulū
+7	17:33:3	w	ٱلنَّفۡسَ	ﲆ	النفس	the soul	l-nafsa
+7	17:33:4	w	ٱلَّتِي	ﲇ	التي	which	allatī
+7	17:33:5	w	حَرَّمَ	ﲈ	حرم	Allah has forbidden	ḥarrama
+7	17:33:6	w	ٱللَّهُ	ﲉ	الله	Allah has forbidden	l-lahu
+7	17:33:7	w	إِلَّا	ﲊ	الا	except	illā
+7	17:33:8	w	بِٱلۡحَقِّۗ	ﲋﲌ	بالحق	by right	bil-ḥaqi
+8	17:33:9	w	وَمَن	ﲍ	ومن	And whoever	waman
+8	17:33:10	w	قُتِلَ	ﲎ	قتل	(is) killed	qutila
+8	17:33:11	w	مَظۡلُومٗا	ﲏ	مظلوما	wrongfully	maẓlūman
+8	17:33:12	w	فَقَدۡ	ﲐ	فقد	verily	faqad
+8	17:33:13	w	جَعَلۡنَا	ﲑ	جعلنا	We have made	jaʿalnā
+8	17:33:14	w	لِوَلِيِّهِۦ	ﲒ	لوليه	for his heir	liwaliyyihi
+8	17:33:15	w	سُلۡطَٰنٗا	ﲓ	سلطانا	an authority	sul'ṭānan
+8	17:33:16	w	فَلَا	ﲔ	فلا	but not	falā
+8	17:33:17	w	يُسۡرِف	ﲕ	يسرف	he should exceed	yus'rif
+8	17:33:18	w	فِّي	ﲖ	في	in	fī
+9	17:33:19	w	ٱلۡقَتۡلِۖ	ﲗﲘ	القتل	the killing	l-qatli
+9	17:33:20	w	إِنَّهُۥ	ﲙ	انه	Indeed, he	innahu
+9	17:33:21	w	كَانَ	ﲚ	كان	is	kāna
+9	17:33:22	w	مَنصُورٗا	ﲛ	منصورا	helped	manṣūran
+9	17:33:23	e	٣٣	ﲜ			
+9	17:34:1	w	وَلَا	ﲝ	ولا	And (do) not	walā
+9	17:34:2	w	تَقۡرَبُواْ	ﲞ	تقربوا	come near	taqrabū
+9	17:34:3	w	مَالَ	ﲟ	مال	(the) wealth	māla
+9	17:34:4	w	ٱلۡيَتِيمِ	ﲠ	اليتيم	(of) the orphan	l-yatīmi
+9	17:34:5	w	إِلَّا	ﲡ	الا	except	illā
+9	17:34:6	w	بِٱلَّتِي	ﲢ	بالتي	with what	bi-allatī
+10	17:34:7	w	هِيَ	ﲣ	هي	[it] is	hiya
+10	17:34:8	w	أَحۡسَنُ	ﲤ	احسن	best	aḥsanu
+10	17:34:9	w	حَتَّىٰ	ﲥ	حتى	until	ḥattā
+10	17:34:10	w	يَبۡلُغَ	ﲦ	يبلغ	he reaches	yablugha
+10	17:34:11	w	أَشُدَّهُۥۚ	ﲧﲨ	اشده	his maturity	ashuddahu
+10	17:34:12	w	وَأَوۡفُواْ	ﲩ	واوفوا	And fulfil	wa-awfū
+10	17:34:13	w	بِٱلۡعَهۡدِۖ	ﲪﲫ	بالعهد	the covenant	bil-ʿahdi
+10	17:34:14	w	إِنَّ	ﲬ	ان	Indeed	inna
+10	17:34:15	w	ٱلۡعَهۡدَ	ﲭ	العهد	the covenant	l-ʿahda
+10	17:34:16	w	كَانَ	ﲮ	كان	will be	kāna
+11	17:34:17	w	مَسۡـُٔولٗا	ﲯ	مسيولا	questioned	masūlan
+11	17:34:18	e	٣٤	ﲰ			
+11	17:35:1	w	وَأَوۡفُواْ	ﲱ	واوفوا	And give full	wa-awfū
+11	17:35:2	w	ٱلۡكَيۡلَ	ﲲ	الكيل	[the] measure	l-kayla
+11	17:35:3	w	إِذَا	ﲳ	اذا	when	idhā
+11	17:35:4	w	كِلۡتُمۡ	ﲴ	كلتم	you measure	kil'tum
+11	17:35:5	w	وَزِنُواْ	ﲵ	وزنوا	and weigh	wazinū
+11	17:35:6	w	بِٱلۡقِسۡطَاسِ	ﲶ	بالقسطاس	with the balance	bil-qis'ṭāsi
+11	17:35:7	w	ٱلۡمُسۡتَقِيمِۚ	ﲷﲸ	المستقيم	the straight	l-mus'taqīmi
+12	17:35:8	w	ذَٰلِكَ	ﲹ	ذالك	That	dhālika
+12	17:35:9	w	خَيۡرٞ	ﲺ	خير	(is) good	khayrun
+12	17:35:10	w	وَأَحۡسَنُ	ﲻ	واحسن	and best	wa-aḥsanu
+12	17:35:11	w	تَأۡوِيلٗا	ﲼ	تاويلا	(in) result	tawīlan
+12	17:35:12	e	٣٥	ﲽ			
+12	17:36:1	w	وَلَا	ﲾ	ولا	And (do) not	walā
+12	17:36:2	w	تَقۡفُ	ﲿ	تقف	pursue	taqfu
+12	17:36:3	w	مَا	ﳀ	ما	what	mā
+12	17:36:4	w	لَيۡسَ	ﳁ	ليس	not	laysa
+12	17:36:5	w	لَكَ	ﳂ	لك	you have	laka
+12	17:36:6	w	بِهِۦ	ﳃ	به	of it	bihi
+12	17:36:7	w	عِلۡمٌۚ	ﳄﳅ	علم	any knowledge	ʿil'mun
+12	17:36:8	w	إِنَّ	ﳆ	ان	Indeed	inna
+13	17:36:9	w	ٱلسَّمۡعَ	ﳇ	السمع	the hearing	l-samʿa
+13	17:36:10	w	وَٱلۡبَصَرَ	ﳈ	والبصر	and the sight	wal-baṣara
+13	17:36:11	w	وَٱلۡفُؤَادَ	ﳉ	والفواد	and the heart	wal-fuāda
+13	17:36:12	w	كُلُّ	ﳊ	كل	all	kullu
+13	17:36:13	w	أُوْلَٰٓئِكَ	ﳋ	اولايك	those	ulāika
+13	17:36:14	w	كَانَ	ﳌ	كان	will be	kāna
+13	17:36:15	w	عَنۡهُ	ﳍ	عنه	[about it]	ʿanhu
+13	17:36:16	w	مَسۡـُٔولٗا	ﳎ	مسيولا	questioned	masūlan
+13	17:36:17	e	٣٦	ﳏ			
+14	17:37:1	w	وَلَا	ﳐ	ولا	And (do) not	walā
+14	17:37:2	w	تَمۡشِ	ﳑ	تمش	walk	tamshi
+14	17:37:3	w	فِي	ﳒ	في	in	fī
+14	17:37:4	w	ٱلۡأَرۡضِ	ﳓ	الارض	the earth	l-arḍi
+14	17:37:5	w	مَرَحًاۖ	ﳔﳕ	مرحا	(with) insolence	maraḥan
+14	17:37:6	w	إِنَّكَ	ﳖ	انك	Indeed, you	innaka
+14	17:37:7	w	لَن	ﳗ	لن	will never	lan
+14	17:37:8	w	تَخۡرِقَ	ﳘ	تخرق	tear	takhriqa
+14	17:37:9	w	ٱلۡأَرۡضَ	ﳙ	الارض	the earth	l-arḍa
+14	17:37:10	w	وَلَن	ﳚ	ولن	and will never	walan
+14	17:37:11	w	تَبۡلُغَ	ﳛ	تبلغ	reach	tablugha
+15	17:37:12	w	ٱلۡجِبَالَ	ﳜ	الجبال	the mountains	l-jibāla
+15	17:37:13	w	طُولٗا	ﳝ	طولا	(in) height	ṭūlan
+15	17:37:14	e	٣٧	ﳞ			
+15	17:38:1	w	كُلُّ	ﳟ	كل	All	kullu
+15	17:38:2	w	ذَٰلِكَ	ﳠ	ذالك	that	dhālika
+15	17:38:3	w	كَانَ	ﳡ	كان	is	kāna
+15	17:38:4	w	سَيِّئُهُۥ	ﳢ	سييه	[its] evil	sayyi-uhu
+15	17:38:5	w	عِندَ	ﳣ	عند	near	ʿinda
+15	17:38:6	w	رَبِّكَ	ﳤ	ربك	your Lord	rabbika
+15	17:38:7	w	مَكۡرُوهٗا	ﳥ	مكروها	hateful	makrūhan
+15	17:38:8	e	٣٨	ﳦ			

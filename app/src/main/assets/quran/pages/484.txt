@@ -1,0 +1,139 @@
+1	42:11:1	w	فَاطِرُ	ﱁ	فاطر	(The) Creator	fāṭiru
+1	42:11:2	w	ٱلسَّمَٰوَٰتِ	ﱂ	السماوات	(of) the heavens	l-samāwāti
+1	42:11:3	w	وَٱلۡأَرۡضِۚ	ﱃﱄ	والارض	and the earth	wal-arḍi
+1	42:11:4	w	جَعَلَ	ﱅ	جعل	He made	jaʿala
+1	42:11:5	w	لَكُم	ﱆ	لكم	for you	lakum
+1	42:11:6	w	مِّنۡ	ﱇ	من	from	min
+1	42:11:7	w	أَنفُسِكُمۡ	ﱈ	انفسكم	yourselves	anfusikum
+1	42:11:8	w	أَزۡوَٰجٗا	ﱉ	ازواجا	mates	azwājan
+2	42:11:9	w	وَمِنَ	ﱊ	ومن	and among	wamina
+2	42:11:10	w	ٱلۡأَنۡعَٰمِ	ﱋ	الانعام	the cattle	l-anʿāmi
+2	42:11:11	w	أَزۡوَٰجٗا	ﱌ	ازواجا	mates	azwājan
+2	42:11:12	w	يَذۡرَؤُكُمۡ	ﱍ	يذروكم	He multiplies you	yadhra-ukum
+2	42:11:13	w	فِيهِۚ	ﱎﱏ	فيه	thereby	fīhi
+2	42:11:14	w	لَيۡسَ	ﱐ	ليس	(There) is not	laysa
+2	42:11:15	w	كَمِثۡلِهِۦ	ﱑ	كمثله	like Him	kamith'lihi
+2	42:11:16	w	شَيۡءٞۖ	ﱒﱓ	شيء	anything	shayon
+2	42:11:17	w	وَهُوَ	ﱔ	وهو	and He	wahuwa
+3	42:11:18	w	ٱلسَّمِيعُ	ﱕ	السميع	(is) the All-Hearer	l-samīʿu
+3	42:11:19	w	ٱلۡبَصِيرُ	ﱖ	البصير	the All-Seer	l-baṣīru
+3	42:11:20	e	١١	ﱗ			
+3	42:12:1	w	لَهُۥ	ﱘ	له	To Him (belongs)	lahu
+3	42:12:2	w	مَقَالِيدُ	ﱙ	مقاليد	(the) keys	maqālīdu
+3	42:12:3	w	ٱلسَّمَٰوَٰتِ	ﱚ	السماوات	(of) the heavens	l-samāwāti
+3	42:12:4	w	وَٱلۡأَرۡضِۖ	ﱛﱜ	والارض	and the earth	wal-arḍi
+3	42:12:5	w	يَبۡسُطُ	ﱝ	يبسط	He extends	yabsuṭu
+4	42:12:6	w	ٱلرِّزۡقَ	ﱞ	الرزق	the provision	l-riz'qa
+4	42:12:7	w	لِمَن	ﱟ	لمن	for whom	liman
+4	42:12:8	w	يَشَآءُ	ﱠ	يشاء	He wills	yashāu
+4	42:12:9	w	وَيَقۡدِرُۚ	ﱡﱢ	ويقدر	and restricts	wayaqdiru
+4	42:12:10	w	إِنَّهُۥ	ﱣ	انه	Indeed, He	innahu
+4	42:12:11	w	بِكُلِّ	ﱤ	بكل	of every	bikulli
+4	42:12:12	w	شَيۡءٍ	ﱥ	شيء	thing	shayin
+4	42:12:13	w	عَلِيمٞ	ﱦ	عليم	(is) All-Knower	ʿalīmun
+4	42:12:14	e	١٢	ﱧ			
+4	42:13:1	w	۞ شَرَعَ	ﱨ ﱩ	۞ شرع	He has ordained	sharaʿa
+5	42:13:2	w	لَكُم	ﱪ	لكم	for you	lakum
+5	42:13:3	w	مِّنَ	ﱫ	من	of	mina
+5	42:13:4	w	ٱلدِّينِ	ﱬ	الدين	the religion	l-dīni
+5	42:13:5	w	مَا	ﱭ	ما	what	mā
+5	42:13:6	w	وَصَّىٰ	ﱮ	وصى	He enjoined	waṣṣā
+5	42:13:7	w	بِهِۦ	ﱯ	به	upon	bihi
+5	42:13:8	w	نُوحٗا	ﱰ	نوحا	Nuh	nūḥan
+5	42:13:9	w	وَٱلَّذِيٓ	ﱱ	والذي	and that which	wa-alladhī
+5	42:13:10	w	أَوۡحَيۡنَآ	ﱲ	اوحينا	We have revealed	awḥaynā
+5	42:13:11	w	إِلَيۡكَ	ﱳ	اليك	to you	ilayka
+5	42:13:12	w	وَمَا	ﱴ	وما	and what	wamā
+6	42:13:13	w	وَصَّيۡنَا	ﱵ	وصينا	We enjoined	waṣṣaynā
+6	42:13:14	w	بِهِۦٓ	ﱶ	به	upon	bihi
+6	42:13:15	w	إِبۡرَٰهِيمَ	ﱷ	ابراهيم	Ibrahim	ib'rāhīma
+6	42:13:16	w	وَمُوسَىٰ	ﱸ	وموسى	and Musa	wamūsā
+6	42:13:17	w	وَعِيسَىٰٓۖ	ﱹﱺ	وعيسى	and Isa	waʿīsā
+6	42:13:18	w	أَنۡ	ﱻ	ان	To	an
+6	42:13:19	w	أَقِيمُواْ	ﱼ	اقيموا	establish	aqīmū
+6	42:13:20	w	ٱلدِّينَ	ﱽ	الدين	the religion	l-dīna
+7	42:13:21	w	وَلَا	ﱾ	ولا	and not	walā
+7	42:13:22	w	تَتَفَرَّقُواْ	ﱿ	تتفرقوا	be divided	tatafarraqū
+7	42:13:23	w	فِيهِۚ	ﲀﲁ	فيه	therein	fīhi
+7	42:13:24	w	كَبُرَ	ﲂ	كبر	Is difficult	kabura
+7	42:13:25	w	عَلَى	ﲃ	على	on	ʿalā
+7	42:13:26	w	ٱلۡمُشۡرِكِينَ	ﲄ	المشركين	the polytheists	l-mush'rikīna
+7	42:13:27	w	مَا	ﲅ	ما	what	mā
+7	42:13:28	w	تَدۡعُوهُمۡ	ﲆ	تدعوهم	you call them	tadʿūhum
+7	42:13:29	w	إِلَيۡهِۚ	ﲇﲈ	اليه	to it	ilayhi
+7	42:13:30	w	ٱللَّهُ	ﲉ	الله	Allah	l-lahu
+8	42:13:31	w	يَجۡتَبِيٓ	ﲊ	يجتبي	chooses	yajtabī
+8	42:13:32	w	إِلَيۡهِ	ﲋ	اليه	for Himself	ilayhi
+8	42:13:33	w	مَن	ﲌ	من	whom	man
+8	42:13:34	w	يَشَآءُ	ﲍ	يشاء	He wills	yashāu
+8	42:13:35	w	وَيَهۡدِيٓ	ﲎ	ويهدي	and guides	wayahdī
+8	42:13:36	w	إِلَيۡهِ	ﲏ	اليه	to Himself	ilayhi
+8	42:13:37	w	مَن	ﲐ	من	whoever	man
+8	42:13:38	w	يُنِيبُ	ﲑ	ينيب	turns	yunību
+8	42:13:39	e	١٣	ﲒ			
+8	42:14:1	w	وَمَا	ﲓ	وما	And not	wamā
+8	42:14:2	w	تَفَرَّقُوٓاْ	ﲔ	تفرقوا	they became divided	tafarraqū
+9	42:14:3	w	إِلَّا	ﲕ	الا	until	illā
+9	42:14:4	w	مِنۢ	ﲖ	من	after	min
+9	42:14:5	w	بَعۡدِ	ﲗ	بعد	after	baʿdi
+9	42:14:6	w	مَا	ﲘ	ما	[what]	mā
+9	42:14:7	w	جَآءَهُمُ	ﲙ	جاءهم	came to them	jāahumu
+9	42:14:8	w	ٱلۡعِلۡمُ	ﲚ	العلم	the knowledge	l-ʿil'mu
+9	42:14:9	w	بَغۡيَۢا	ﲛ	بغيا	(out of) rivalry	baghyan
+9	42:14:10	w	بَيۡنَهُمۡۚ	ﲜﲝ	بينهم	among them	baynahum
+9	42:14:11	w	وَلَوۡلَا	ﲞ	ولولا	And if not	walawlā
+9	42:14:12	w	كَلِمَةٞ	ﲟ	كلمة	(for) a word	kalimatun
+9	42:14:13	w	سَبَقَتۡ	ﲠ	سبقت	(that) preceded	sabaqat
+10	42:14:14	w	مِن	ﲡ	من	from	min
+10	42:14:15	w	رَّبِّكَ	ﲢ	ربك	your Lord	rabbika
+10	42:14:16	w	إِلَىٰٓ	ﲣ	الى	for	ilā
+10	42:14:17	w	أَجَلٖ	ﲤ	اجل	a term	ajalin
+10	42:14:18	w	مُّسَمّٗى	ﲥ	مسمى	specified	musamman
+10	42:14:19	w	لَّقُضِيَ	ﲦ	لقضي	surely, it (would have) been settled	laquḍiya
+10	42:14:20	w	بَيۡنَهُمۡۚ	ﲧﲨ	بينهم	between them	baynahum
+10	42:14:21	w	وَإِنَّ	ﲩ	وان	And indeed	wa-inna
+10	42:14:22	w	ٱلَّذِينَ	ﲪ	الذين	those who	alladhīna
+10	42:14:23	w	أُورِثُواْ	ﲫ	اورثوا	were made to inherit	ūrithū
+11	42:14:24	w	ٱلۡكِتَٰبَ	ﲬ	الكتاب	the Book	l-kitāba
+11	42:14:25	w	مِنۢ	ﲭ	من	after them	min
+11	42:14:26	w	بَعۡدِهِمۡ	ﲮ	بعدهم	after them	baʿdihim
+11	42:14:27	w	لَفِي	ﲯ	لفي	(are) surely in	lafī
+11	42:14:28	w	شَكّٖ	ﲰ	شك	doubt	shakkin
+11	42:14:29	w	مِّنۡهُ	ﲱ	منه	concerning it	min'hu
+11	42:14:30	w	مُرِيبٖ	ﲲ	مريب	disquieting	murībin
+11	42:14:31	e	١٤	ﲳ			
+11	42:15:1	w	فَلِذَٰلِكَ	ﲴ	فلذالك	So to that	falidhālika
+12	42:15:2	w	فَٱدۡعُۖ	ﲵﲶ	فادع	then invite	fa-ud'ʿu
+12	42:15:3	w	وَٱسۡتَقِمۡ	ﲷ	واستقم	and stand firm	wa-is'taqim
+12	42:15:4	w	كَمَآ	ﲸ	كما	as	kamā
+12	42:15:5	w	أُمِرۡتَۖ	ﲹﲺ	امرت	you are commanded	umir'ta
+12	42:15:6	w	وَلَا	ﲻ	ولا	and (do) not	walā
+12	42:15:7	w	تَتَّبِعۡ	ﲼ	تتبع	follow	tattabiʿ
+12	42:15:8	w	أَهۡوَآءَهُمۡۖ	ﲽﲾ	اهواءهم	their desires	ahwāahum
+12	42:15:9	w	وَقُلۡ	ﲿ	وقل	but say	waqul
+13	42:15:10	w	ءَامَنتُ	ﳀ	امنت	I believe	āmantu
+13	42:15:11	w	بِمَآ	ﳁ	بما	in what	bimā
+13	42:15:12	w	أَنزَلَ	ﳂ	انزل	Allah has sent down	anzala
+13	42:15:13	w	ٱللَّهُ	ﳃ	الله	Allah has sent down	l-lahu
+13	42:15:14	w	مِن	ﳄ	من	of	min
+13	42:15:15	w	كِتَٰبٖۖ	ﳅﳆ	كتاب	(the) Book	kitābin
+13	42:15:16	w	وَأُمِرۡتُ	ﳇ	وامرت	and I am commanded	wa-umir'tu
+13	42:15:17	w	لِأَعۡدِلَ	ﳈ	لاعدل	that I do justice	li-aʿdila
+13	42:15:18	w	بَيۡنَكُمُۖ	ﳉﳊ	بينكم	between you	baynakumu
+14	42:15:19	w	ٱللَّهُ	ﳋ	الله	Allah	l-lahu
+14	42:15:20	w	رَبُّنَا	ﳌ	ربنا	(is) our Lord	rabbunā
+14	42:15:21	w	وَرَبُّكُمۡۖ	ﳍﳎ	وربكم	and your Lord	warabbukum
+14	42:15:22	w	لَنَآ	ﳏ	لنا	For us	lanā
+14	42:15:23	w	أَعۡمَٰلُنَا	ﳐ	اعمالنا	our deeds	aʿmālunā
+14	42:15:24	w	وَلَكُمۡ	ﳑ	ولكم	and for you	walakum
+14	42:15:25	w	أَعۡمَٰلُكُمۡۖ	ﳒﳓ	اعمالكم	your deeds	aʿmālukum
+14	42:15:26	w	لَا	ﳔ	لا	(There is) no	lā
+14	42:15:27	w	حُجَّةَ	ﳕ	حجة	argument	ḥujjata
+15	42:15:28	w	بَيۡنَنَا	ﳖ	بيننا	between us	baynanā
+15	42:15:29	w	وَبَيۡنَكُمُۖ	ﳗﳘ	وبينكم	and between you	wabaynakumu
+15	42:15:30	w	ٱللَّهُ	ﳙ	الله	Allah	l-lahu
+15	42:15:31	w	يَجۡمَعُ	ﳚ	يجمع	will assemble	yajmaʿu
+15	42:15:32	w	بَيۡنَنَاۖ	ﳛﳜ	بيننا	[between] us	baynanā
+15	42:15:33	w	وَإِلَيۡهِ	ﳝ	واليه	and to Him	wa-ilayhi
+15	42:15:34	w	ٱلۡمَصِيرُ	ﳞ	المصير	(is) the final return	l-maṣīru
+15	42:15:35	e	١٥	ﳟ			

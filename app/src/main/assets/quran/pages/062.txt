@@ -1,0 +1,150 @@
+1	3:92:1	w	لَن	ﱁ	لن	Never	lan
+1	3:92:2	w	تَنَالُواْ	ﱂ	تنالوا	will you attain	tanālū
+1	3:92:3	w	ٱلۡبِرَّ	ﱃ	البر	[the] righteousness	l-bira
+1	3:92:4	w	حَتَّىٰ	ﱄ	حتى	until	ḥattā
+1	3:92:5	w	تُنفِقُواْ	ﱅ	تنفقوا	you spend	tunfiqū
+1	3:92:6	w	مِمَّا	ﱆ	مما	from what	mimmā
+1	3:92:7	w	تُحِبُّونَۚ	ﱇﱈ	تحبون	you love	tuḥibbūna
+1	3:92:8	w	وَمَا	ﱉ	وما	And whatever	wamā
+1	3:92:9	w	تُنفِقُواْ	ﱊ	تنفقوا	you spend	tunfiqū
+1	3:92:10	w	مِن	ﱋ	من	of	min
+1	3:92:11	w	شَيۡءٖ	ﱌ	شيء	a thing	shayin
+2	3:92:12	w	فَإِنَّ	ﱍ	فان	then indeed	fa-inna
+2	3:92:13	w	ٱللَّهَ	ﱎ	الله	Allah	l-laha
+2	3:92:14	w	بِهِۦ	ﱏ	به	of it	bihi
+2	3:92:15	w	عَلِيمٞ	ﱐ	عليم	(is) All-Knowing	ʿalīmun
+2	3:92:16	e	٩٢	ﱑ			
+2	3:93:1	w	۞ كُلُّ	ﱒ ﱓ	۞ كل	All	kullu
+2	3:93:2	w	ٱلطَّعَامِ	ﱔ	الطعام	[the] food	l-ṭaʿāmi
+2	3:93:3	w	كَانَ	ﱕ	كان	was	kāna
+2	3:93:4	w	حِلّٗا	ﱖ	حلا	lawful	ḥillan
+2	3:93:5	w	لِّبَنِيٓ	ﱗ	لبني	for (the) Children	libanī
+3	3:93:6	w	إِسۡرَٰٓءِيلَ	ﱘ	اسراييل	(of) Israel	is'rāīla
+3	3:93:7	w	إِلَّا	ﱙ	الا	except	illā
+3	3:93:8	w	مَا	ﱚ	ما	what	mā
+3	3:93:9	w	حَرَّمَ	ﱛ	حرم	made unlawful	ḥarrama
+3	3:93:10	w	إِسۡرَٰٓءِيلُ	ﱜ	اسراييل	Israel	is'rāīlu
+3	3:93:11	w	عَلَىٰ	ﱝ	على	upon	ʿalā
+3	3:93:12	w	نَفۡسِهِۦ	ﱞ	نفسه	himself	nafsihi
+3	3:93:13	w	مِن	ﱟ	من	from	min
+3	3:93:14	w	قَبۡلِ	ﱠ	قبل	before	qabli
+3	3:93:15	w	أَن	ﱡ	ان	[that]	an
+3	3:93:16	w	تُنَزَّلَ	ﱢ	تنزل	(was) revealed	tunazzala
+4	3:93:17	w	ٱلتَّوۡرَىٰةُۚ	ﱣﱤ	التوراة	the Taurat	l-tawrātu
+4	3:93:18	w	قُلۡ	ﱥ	قل	Say	qul
+4	3:93:19	w	فَأۡتُواْ	ﱦ	فاتوا	So bring	fatū
+4	3:93:20	w	بِٱلتَّوۡرَىٰةِ	ﱧ	بالتوراة	the Taurat	bil-tawrāti
+4	3:93:21	w	فَٱتۡلُوهَآ	ﱨ	فاتلوها	and recite it	fa-it'lūhā
+4	3:93:22	w	إِن	ﱩ	ان	if	in
+4	3:93:23	w	كُنتُمۡ	ﱪ	كنتم	you are	kuntum
+4	3:93:24	w	صَٰدِقِينَ	ﱫ	صادقين	truthful	ṣādiqīna
+5	3:93:25	e	٩٣	ﱬ			
+5	3:94:1	w	فَمَنِ	ﱭ	فمن	Then whoever	famani
+5	3:94:2	w	ٱفۡتَرَىٰ	ﱮ	افترى	fabricates	if'tarā
+5	3:94:3	w	عَلَى	ﱯ	على	about	ʿalā
+5	3:94:4	w	ٱللَّهِ	ﱰ	الله	Allah	l-lahi
+5	3:94:5	w	ٱلۡكَذِبَ	ﱱ	الكذب	[the] lie	l-kadhiba
+5	3:94:6	w	مِنۢ	ﱲ	من	from	min
+5	3:94:7	w	بَعۡدِ	ﱳ	بعد	after	baʿdi
+5	3:94:8	w	ذَٰلِكَ	ﱴ	ذالك	that	dhālika
+5	3:94:9	w	فَأُوْلَٰٓئِكَ	ﱵ	فاولايك	then those	fa-ulāika
+6	3:94:10	w	هُمُ	ﱶ	هم	they	humu
+6	3:94:11	w	ٱلظَّٰلِمُونَ	ﱷ	الظالمون	(are) the wrongdoers	l-ẓālimūna
+6	3:94:12	e	٩٤	ﱸ			
+6	3:95:1	w	قُلۡ	ﱹ	قل	Say	qul
+6	3:95:2	w	صَدَقَ	ﱺ	صدق	(has) spoken the truth	ṣadaqa
+6	3:95:3	w	ٱللَّهُۗ	ﱻﱼ	الله	Allah	l-lahu
+6	3:95:4	w	فَٱتَّبِعُواْ	ﱽ	فاتبعوا	then follow	fa-ittabiʿū
+6	3:95:5	w	مِلَّةَ	ﱾ	ملة	(the) religion	millata
+6	3:95:6	w	إِبۡرَٰهِيمَ	ﱿ	ابراهيم	(of) Ibrahim	ib'rāhīma
+6	3:95:7	w	حَنِيفٗاۖ	ﲀﲁ	حنيفا	(the) upright	ḥanīfan
+7	3:95:8	w	وَمَا	ﲂ	وما	and not	wamā
+7	3:95:9	w	كَانَ	ﲃ	كان	he was	kāna
+7	3:95:10	w	مِنَ	ﲄ	من	of	mina
+7	3:95:11	w	ٱلۡمُشۡرِكِينَ	ﲅ	المشركين	the polytheists	l-mush'rikīna
+7	3:95:12	e	٩٥	ﲆ			
+7	3:96:1	w	إِنَّ	ﲇ	ان	Indeed	inna
+7	3:96:2	w	أَوَّلَ	ﲈ	اول	(the) First	awwala
+7	3:96:3	w	بَيۡتٖ	ﲉ	بيت	House	baytin
+7	3:96:4	w	وُضِعَ	ﲊ	وضع	set up	wuḍiʿa
+7	3:96:5	w	لِلنَّاسِ	ﲋ	للناس	for the mankind	lilnnāsi
+7	3:96:6	w	لَلَّذِي	ﲌ	للذي	(is) the one which	lalladhī
+8	3:96:7	w	بِبَكَّةَ	ﲍ	ببكة	(is) at Bakkah	bibakkata
+8	3:96:8	w	مُبَارَكٗا	ﲎ	مباركا	blessed	mubārakan
+8	3:96:9	w	وَهُدٗى	ﲏ	وهدى	and a guidance	wahudan
+8	3:96:10	w	لِّلۡعَٰلَمِينَ	ﲐ	للعالمين	for the worlds	lil'ʿālamīna
+8	3:96:11	e	٩٦	ﲑ			
+8	3:97:1	w	فِيهِ	ﲒ	فيه	In it	fīhi
+8	3:97:2	w	ءَايَٰتُۢ	ﲓ	ايات	(are) signs	āyātun
+8	3:97:3	w	بَيِّنَٰتٞ	ﲔ	بينات	clear	bayyinātun
+8	3:97:4	w	مَّقَامُ	ﲕ	مقام	standing place	maqāmu
+9	3:97:5	w	إِبۡرَٰهِيمَۖ	ﲖﲗ	ابراهيم	(of) Ibrahim	ib'rāhīma
+9	3:97:6	w	وَمَن	ﲘ	ومن	and whoever	waman
+9	3:97:7	w	دَخَلَهُۥ	ﲙ	دخله	enters it	dakhalahu
+9	3:97:8	w	كَانَ	ﲚ	كان	is	kāna
+9	3:97:9	w	ءَامِنٗاۗ	ﲛﲜ	امنا	safe	āminan
+9	3:97:10	w	وَلِلَّهِ	ﲝ	ولله	And (due) to Allah	walillahi
+9	3:97:11	w	عَلَى	ﲞ	على	upon	ʿalā
+9	3:97:12	w	ٱلنَّاسِ	ﲟ	الناس	the mankind	l-nāsi
+9	3:97:13	w	حِجُّ	ﲠ	حج	(is) pilgrimage	ḥijju
+9	3:97:14	w	ٱلۡبَيۡتِ	ﲡ	البيت	(of) the House	l-bayti
+10	3:97:15	w	مَنِ	ﲢ	من	(for one) who	mani
+10	3:97:16	w	ٱسۡتَطَاعَ	ﲣ	استطاع	is able	is'taṭāʿa
+10	3:97:17	w	إِلَيۡهِ	ﲤ	اليه	to [it]	ilayhi
+10	3:97:18	w	سَبِيلٗاۚ	ﲥﲦ	سبيلا	(find) a way	sabīlan
+10	3:97:19	w	وَمَن	ﲧ	ومن	And whoever	waman
+10	3:97:20	w	كَفَرَ	ﲨ	كفر	disbelieved	kafara
+10	3:97:21	w	فَإِنَّ	ﲩ	فان	then indeed	fa-inna
+10	3:97:22	w	ٱللَّهَ	ﲪ	الله	Allah	l-laha
+10	3:97:23	w	غَنِيٌّ	ﲫ	غني	(is) free from need	ghaniyyun
+10	3:97:24	w	عَنِ	ﲬ	عن	of	ʿani
+10	3:97:25	w	ٱلۡعَٰلَمِينَ	ﲭ	العالمين	the universe	l-ʿālamīna
+11	3:97:26	e	٩٧	ﲮ			
+11	3:98:1	w	قُلۡ	ﲯ	قل	Say	qul
+11	3:98:2	w	يَٰٓأَهۡلَ	ﲰ	يا اهل	O People	yāahla
+11	3:98:3	w	ٱلۡكِتَٰبِ	ﲱ	الكتاب	(of) the Book	l-kitābi
+11	3:98:4	w	لِمَ	ﲲ	لم	Why	lima
+11	3:98:5	w	تَكۡفُرُونَ	ﲳ	تكفرون	(do) you disbelieve	takfurūna
+11	3:98:6	w	بِـَٔايَٰتِ	ﲴ	بايات	in (the) Verses	biāyāti
+11	3:98:7	w	ٱللَّهِ	ﲵ	الله	(of) Allah	l-lahi
+11	3:98:8	w	وَٱللَّهُ	ﲶ	والله	while Allah	wal-lahu
+11	3:98:9	w	شَهِيدٌ	ﲷ	شهيد	(is) a Witness	shahīdun
+12	3:98:10	w	عَلَىٰ	ﲸ	على	over	ʿalā
+12	3:98:11	w	مَا	ﲹ	ما	what	mā
+12	3:98:12	w	تَعۡمَلُونَ	ﲺ	تعملون	you do	taʿmalūna
+12	3:98:13	e	٩٨	ﲻ			
+12	3:99:1	w	قُلۡ	ﲼ	قل	Say	qul
+12	3:99:2	w	يَٰٓأَهۡلَ	ﲽ	يا اهل	O People	yāahla
+12	3:99:3	w	ٱلۡكِتَٰبِ	ﲾ	الكتاب	(of) the Book	l-kitābi
+12	3:99:4	w	لِمَ	ﲿ	لم	Why	lima
+12	3:99:5	w	تَصُدُّونَ	ﳀ	تصدون	(do) you hinder	taṣuddūna
+12	3:99:6	w	عَن	ﳁ	عن	from	ʿan
+13	3:99:7	w	سَبِيلِ	ﳂ	سبيل	(the) way	sabīli
+13	3:99:8	w	ٱللَّهِ	ﳃ	الله	(of) Allah	l-lahi
+13	3:99:9	w	مَنۡ	ﳄ	من	(those) who	man
+13	3:99:10	w	ءَامَنَ	ﳅ	امن	believe[d]	āmana
+13	3:99:11	w	تَبۡغُونَهَا	ﳆ	تبغونها	seeking (to make) it	tabghūnahā
+13	3:99:12	w	عِوَجٗا	ﳇ	عوجا	(seem) crooked	ʿiwajan
+13	3:99:13	w	وَأَنتُمۡ	ﳈ	وانتم	while you	wa-antum
+13	3:99:14	w	شُهَدَآءُۗ	ﳉﳊ	شهداء	(are) witnesses	shuhadāu
+13	3:99:15	w	وَمَا	ﳋ	وما	And not	wamā
+13	3:99:16	w	ٱللَّهُ	ﳌ	الله	Allah	l-lahu
+14	3:99:17	w	بِغَٰفِلٍ	ﳍ	بغافل	(is) unaware	bighāfilin
+14	3:99:18	w	عَمَّا	ﳎ	عما	of what	ʿammā
+14	3:99:19	w	تَعۡمَلُونَ	ﳏ	تعملون	you do	taʿmalūna
+14	3:99:20	e	٩٩	ﳐ			
+14	3:100:1	w	يَٰٓأَيُّهَا	ﳑ	يا ايها	O you	yāayyuhā
+14	3:100:2	w	ٱلَّذِينَ	ﳒ	الذين	who	alladhīna
+14	3:100:3	w	ءَامَنُوٓاْ	ﳓ	امنوا	believe[d]	āmanū
+14	3:100:4	w	إِن	ﳔ	ان	If	in
+14	3:100:5	w	تُطِيعُواْ	ﳕ	تطيعوا	you obey	tuṭīʿū
+14	3:100:6	w	فَرِيقٗا	ﳖ	فريقا	a group	farīqan
+15	3:100:7	w	مِّنَ	ﳗ	من	from	mina
+15	3:100:8	w	ٱلَّذِينَ	ﳘ	الذين	those who	alladhīna
+15	3:100:9	w	أُوتُواْ	ﳙ	اوتوا	were given	ūtū
+15	3:100:10	w	ٱلۡكِتَٰبَ	ﳚ	الكتاب	the Book	l-kitāba
+15	3:100:11	w	يَرُدُّوكُم	ﳛ	يردوكم	they will turn you back	yaruddūkum
+15	3:100:12	w	بَعۡدَ	ﳜ	بعد	after	baʿda
+15	3:100:13	w	إِيمَٰنِكُمۡ	ﳝ	ايمانكم	your belief	īmānikum
+15	3:100:14	w	كَٰفِرِينَ	ﳞ	كافرين	(as) disbelievers	kāfirīna
+15	3:100:15	e	١٠٠	ﳟ			

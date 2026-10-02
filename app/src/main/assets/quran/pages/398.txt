@@ -1,0 +1,138 @@
+1	29:15:1	w	فَأَنجَيۡنَٰهُ	ﱁ	فانجيناه	But We saved him	fa-anjaynāhu
+1	29:15:2	w	وَأَصۡحَٰبَ	ﱂ	واصحاب	and (the) people	wa-aṣḥāba
+1	29:15:3	w	ٱلسَّفِينَةِ	ﱃ	السفينة	(of) the ship	l-safīnati
+1	29:15:4	w	وَجَعَلۡنَٰهَآ	ﱄ	وجعلناها	and We made it	wajaʿalnāhā
+1	29:15:5	w	ءَايَةٗ	ﱅ	اية	a Sign	āyatan
+1	29:15:6	w	لِّلۡعَٰلَمِينَ	ﱆ	للعالمين	for the worlds	lil'ʿālamīna
+2	29:15:7	e	١٥	ﱇ			
+2	29:16:1	w	وَإِبۡرَٰهِيمَ	ﱈ	وابراهيم	And Ibrahim	wa-ib'rāhīma
+2	29:16:2	w	إِذۡ	ﱉ	اذ	when	idh
+2	29:16:3	w	قَالَ	ﱊ	قال	he said	qāla
+2	29:16:4	w	لِقَوۡمِهِ	ﱋ	لقومه	to his people	liqawmihi
+2	29:16:5	w	ٱعۡبُدُواْ	ﱌ	اعبدوا	Worship	uʿ'budū
+2	29:16:6	w	ٱللَّهَ	ﱍ	الله	Allah	l-laha
+2	29:16:7	w	وَٱتَّقُوهُۖ	ﱎﱏ	واتقوه	and fear Him	wa-ittaqūhu
+2	29:16:8	w	ذَٰلِكُمۡ	ﱐ	ذالكم	That	dhālikum
+3	29:16:9	w	خَيۡرٞ	ﱑ	خير	(is) better	khayrun
+3	29:16:10	w	لَّكُمۡ	ﱒ	لكم	for you	lakum
+3	29:16:11	w	إِن	ﱓ	ان	if	in
+3	29:16:12	w	كُنتُمۡ	ﱔ	كنتم	you	kuntum
+3	29:16:13	w	تَعۡلَمُونَ	ﱕ	تعلمون	know	taʿlamūna
+3	29:16:14	e	١٦	ﱖ			
+3	29:17:1	w	إِنَّمَا	ﱗ	انما	Only	innamā
+3	29:17:2	w	تَعۡبُدُونَ	ﱘ	تعبدون	you worship	taʿbudūna
+3	29:17:3	w	مِن	ﱙ	من	besides	min
+4	29:17:4	w	دُونِ	ﱚ	دون	besides	dūni
+4	29:17:5	w	ٱللَّهِ	ﱛ	الله	Allah	l-lahi
+4	29:17:6	w	أَوۡثَٰنٗا	ﱜ	اوثانا	idols	awthānan
+4	29:17:7	w	وَتَخۡلُقُونَ	ﱝ	وتخلقون	and you create	watakhluqūna
+4	29:17:8	w	إِفۡكًاۚ	ﱞﱟ	افكا	falsehood	if'kan
+4	29:17:9	w	إِنَّ	ﱠ	ان	Indeed	inna
+4	29:17:10	w	ٱلَّذِينَ	ﱡ	الذين	those whom	alladhīna
+4	29:17:11	w	تَعۡبُدُونَ	ﱢ	تعبدون	you worship	taʿbudūna
+4	29:17:12	w	مِن	ﱣ	من	besides	min
+5	29:17:13	w	دُونِ	ﱤ	دون	besides	dūni
+5	29:17:14	w	ٱللَّهِ	ﱥ	الله	Allah	l-lahi
+5	29:17:15	w	لَا	ﱦ	لا	(do) not	lā
+5	29:17:16	w	يَمۡلِكُونَ	ﱧ	يملكون	possess	yamlikūna
+5	29:17:17	w	لَكُمۡ	ﱨ	لكم	for you	lakum
+5	29:17:18	w	رِزۡقٗا	ﱩ	رزقا	any provision	riz'qan
+5	29:17:19	w	فَٱبۡتَغُواْ	ﱪ	فابتغوا	So seek	fa-ib'taghū
+5	29:17:20	w	عِندَ	ﱫ	عند	from	ʿinda
+5	29:17:21	w	ٱللَّهِ	ﱬ	الله	Allah	l-lahi
+5	29:17:22	w	ٱلرِّزۡقَ	ﱭ	الرزق	the provision	l-riz'qa
+6	29:17:23	w	وَٱعۡبُدُوهُ	ﱮ	واعبدوه	and worship Him	wa-uʿ'budūhu
+6	29:17:24	w	وَٱشۡكُرُواْ	ﱯ	واشكروا	and be grateful	wa-ush'kurū
+6	29:17:25	w	لَهُۥٓۖ	ﱰﱱ	له	to Him	lahu
+6	29:17:26	w	إِلَيۡهِ	ﱲ	اليه	To Him	ilayhi
+6	29:17:27	w	تُرۡجَعُونَ	ﱳ	ترجعون	you will be returned	tur'jaʿūna
+6	29:17:28	e	١٧	ﱴ			
+6	29:18:1	w	وَإِن	ﱵ	وان	And if	wa-in
+6	29:18:2	w	تُكَذِّبُواْ	ﱶ	تكذبوا	you deny	tukadhibū
+7	29:18:3	w	فَقَدۡ	ﱷ	فقد	then verily	faqad
+7	29:18:4	w	كَذَّبَ	ﱸ	كذب	denied	kadhaba
+7	29:18:5	w	أُمَمٞ	ﱹ	امم	(the) nations	umamun
+7	29:18:6	w	مِّن	ﱺ	من	before you	min
+7	29:18:7	w	قَبۡلِكُمۡۖ	ﱻﱼ	قبلكم	before you	qablikum
+7	29:18:8	w	وَمَا	ﱽ	وما	And not	wamā
+7	29:18:9	w	عَلَى	ﱾ	على	(is) on	ʿalā
+7	29:18:10	w	ٱلرَّسُولِ	ﱿ	الرسول	the Messenger	l-rasūli
+7	29:18:11	w	إِلَّا	ﲀ	الا	except	illā
+7	29:18:12	w	ٱلۡبَلَٰغُ	ﲁ	البلاغ	the conveyance	l-balāghu
+8	29:18:13	w	ٱلۡمُبِينُ	ﲂ	المبين	clear	l-mubīnu
+8	29:18:14	e	١٨	ﲃ			
+8	29:19:1	w	أَوَلَمۡ	ﲄ	اولم	Do not	awalam
+8	29:19:2	w	يَرَوۡاْ	ﲅ	يروا	they see	yaraw
+8	29:19:3	w	كَيۡفَ	ﲆ	كيف	how	kayfa
+8	29:19:4	w	يُبۡدِئُ	ﲇ	يبدي	Allah originates	yub'di-u
+8	29:19:5	w	ٱللَّهُ	ﲈ	الله	Allah originates	l-lahu
+8	29:19:6	w	ٱلۡخَلۡقَ	ﲉ	الخلق	the creation	l-khalqa
+8	29:19:7	w	ثُمَّ	ﲊ	ثم	then	thumma
+9	29:19:8	w	يُعِيدُهُۥٓۚ	ﲋﲌ	يعيده	repeats it	yuʿīduhu
+9	29:19:9	w	إِنَّ	ﲍ	ان	Indeed	inna
+9	29:19:10	w	ذَٰلِكَ	ﲎ	ذالك	that	dhālika
+9	29:19:11	w	عَلَى	ﲏ	على	for	ʿalā
+9	29:19:12	w	ٱللَّهِ	ﲐ	الله	Allah	l-lahi
+9	29:19:13	w	يَسِيرٞ	ﲑ	يسير	(is) easy	yasīrun
+9	29:19:14	e	١٩	ﲒ			
+9	29:20:1	w	قُلۡ	ﲓ	قل	Say	qul
+9	29:20:2	w	سِيرُواْ	ﲔ	سيروا	Travel	sīrū
+9	29:20:3	w	فِي	ﲕ	في	in	fī
+9	29:20:4	w	ٱلۡأَرۡضِ	ﲖ	الارض	the earth	l-arḍi
+10	29:20:5	w	فَٱنظُرُواْ	ﲗ	فانظروا	and see	fa-unẓurū
+10	29:20:6	w	كَيۡفَ	ﲘ	كيف	how	kayfa
+10	29:20:7	w	بَدَأَ	ﲙ	بدا	He originated	bada-a
+10	29:20:8	w	ٱلۡخَلۡقَۚ	ﲚﲛ	الخلق	the creation	l-khalqa
+10	29:20:9	w	ثُمَّ	ﲜ	ثم	Then	thumma
+10	29:20:10	w	ٱللَّهُ	ﲝ	الله	Allah	l-lahu
+10	29:20:11	w	يُنشِئُ	ﲞ	ينشي	will produce	yunshi-u
+10	29:20:12	w	ٱلنَّشۡأَةَ	ﲟ	النشاة	the creation	l-nashata
+10	29:20:13	w	ٱلۡأٓخِرَةَۚ	ﲠﲡ	الاخرة	the last	l-ākhirata
+11	29:20:14	w	إِنَّ	ﲢ	ان	Indeed	inna
+11	29:20:15	w	ٱللَّهَ	ﲣ	الله	Allah	l-laha
+11	29:20:16	w	عَلَىٰ	ﲤ	على	on	ʿalā
+11	29:20:17	w	كُلِّ	ﲥ	كل	every	kulli
+11	29:20:18	w	شَيۡءٖ	ﲦ	شيء	thing	shayin
+11	29:20:19	w	قَدِيرٞ	ﲧ	قدير	(is) All-Powerful	qadīrun
+11	29:20:20	e	٢٠	ﲨ			
+11	29:21:1	w	يُعَذِّبُ	ﲩ	يعذب	He punishes	yuʿadhibu
+11	29:21:2	w	مَن	ﲪ	من	whom	man
+11	29:21:3	w	يَشَآءُ	ﲫ	يشاء	He wills	yashāu
+11	29:21:4	w	وَيَرۡحَمُ	ﲬ	ويرحم	and has mercy	wayarḥamu
+12	29:21:5	w	مَن	ﲭ	من	(on) whom	man
+12	29:21:6	w	يَشَآءُۖ	ﲮﲯ	يشاء	He wills	yashāu
+12	29:21:7	w	وَإِلَيۡهِ	ﲰ	واليه	and to Him	wa-ilayhi
+12	29:21:8	w	تُقۡلَبُونَ	ﲱ	تقلبون	you will be returned	tuq'labūna
+12	29:21:9	e	٢١	ﲲ			
+12	29:22:1	w	وَمَآ	ﲳ	وما	And not	wamā
+12	29:22:2	w	أَنتُم	ﲴ	انتم	you	antum
+12	29:22:3	w	بِمُعۡجِزِينَ	ﲵ	بمعجزين	can escape	bimuʿ'jizīna
+12	29:22:4	w	فِي	ﲶ	في	in	fī
+13	29:22:5	w	ٱلۡأَرۡضِ	ﲷ	الارض	the earth	l-arḍi
+13	29:22:6	w	وَلَا	ﲸ	ولا	and not	walā
+13	29:22:7	w	فِي	ﲹ	في	in	fī
+13	29:22:8	w	ٱلسَّمَآءِۖ	ﲺﲻ	السماء	the heaven	l-samāi
+13	29:22:9	w	وَمَا	ﲼ	وما	And not	wamā
+13	29:22:10	w	لَكُم	ﲽ	لكم	for you	lakum
+13	29:22:11	w	مِّن	ﲾ	من	besides	min
+13	29:22:12	w	دُونِ	ﲿ	دون	besides	dūni
+13	29:22:13	w	ٱللَّهِ	ﳀ	الله	Allah	l-lahi
+13	29:22:14	w	مِن	ﳁ	من	any	min
+14	29:22:15	w	وَلِيّٖ	ﳂ	ولي	protector	waliyyin
+14	29:22:16	w	وَلَا	ﳃ	ولا	and not	walā
+14	29:22:17	w	نَصِيرٖ	ﳄ	نصير	a helper	naṣīrin
+14	29:22:18	e	٢٢	ﳅ			
+14	29:23:1	w	وَٱلَّذِينَ	ﳆ	والذين	And those who	wa-alladhīna
+14	29:23:2	w	كَفَرُواْ	ﳇ	كفروا	disbelieve	kafarū
+14	29:23:3	w	بِـَٔايَٰتِ	ﳈ	بايات	in (the) Signs	biāyāti
+14	29:23:4	w	ٱللَّهِ	ﳉ	الله	(of) Allah	l-lahi
+14	29:23:5	w	وَلِقَآئِهِۦٓ	ﳊ	ولقايه	and (the) meeting (with) Him	waliqāihi
+15	29:23:6	w	أُوْلَٰٓئِكَ	ﳋ	اولايك	those	ulāika
+15	29:23:7	w	يَئِسُواْ	ﳌ	ييسوا	(have) despaired	ya-isū
+15	29:23:8	w	مِن	ﳍ	من	of	min
+15	29:23:9	w	رَّحۡمَتِي	ﳎ	رحمتي	My Mercy	raḥmatī
+15	29:23:10	w	وَأُوْلَٰٓئِكَ	ﳏ	واولايك	And those	wa-ulāika
+15	29:23:11	w	لَهُمۡ	ﳐ	لهم	for them	lahum
+15	29:23:12	w	عَذَابٌ	ﳑ	عذاب	(is) a punishment	ʿadhābun
+15	29:23:13	w	أَلِيمٞ	ﳒ	اليم	painful	alīmun
+15	29:23:14	e	٢٣	ﳓ			

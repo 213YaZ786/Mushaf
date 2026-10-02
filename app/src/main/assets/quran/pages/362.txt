@@ -1,0 +1,136 @@
+1	25:21:1	w	۞ وَقَالَ	ﱁ ﱂ	۞ وقال	And said	waqāla
+1	25:21:2	w	ٱلَّذِينَ	ﱃ	الذين	those who	alladhīna
+1	25:21:3	w	لَا	ﱄ	لا	(do) not	lā
+1	25:21:4	w	يَرۡجُونَ	ﱅ	يرجون	expect	yarjūna
+1	25:21:5	w	لِقَآءَنَا	ﱆ	لقاءنا	(the) meeting with Us	liqāanā
+1	25:21:6	w	لَوۡلَآ	ﱇ	لولا	Why not	lawlā
+1	25:21:7	w	أُنزِلَ	ﱈ	انزل	are sent down	unzila
+1	25:21:8	w	عَلَيۡنَا	ﱉ	علينا	to us	ʿalaynā
+1	25:21:9	w	ٱلۡمَلَٰٓئِكَةُ	ﱊ	الملايكة	the Angels	l-malāikatu
+2	25:21:10	w	أَوۡ	ﱋ	او	or	aw
+2	25:21:11	w	نَرَىٰ	ﱌ	نرى	we see	narā
+2	25:21:12	w	رَبَّنَاۗ	ﱍﱎ	ربنا	our Lord	rabbanā
+2	25:21:13	w	لَقَدِ	ﱏ	لقد	Indeed	laqadi
+2	25:21:14	w	ٱسۡتَكۡبَرُواْ	ﱐ	استكبروا	they have become arrogant	is'takbarū
+2	25:21:15	w	فِيٓ	ﱑ	في	within	fī
+2	25:21:16	w	أَنفُسِهِمۡ	ﱒ	انفسهم	themselves	anfusihim
+2	25:21:17	w	وَعَتَوۡ	ﱓ	وعتوا	and (become) insolent	waʿataw
+2	25:21:18	w	عُتُوّٗا	ﱔ	عتوا	(with) insolence	ʿutuwwan
+2	25:21:19	w	كَبِيرٗا	ﱕ	كبيرا	great	kabīran
+3	25:21:20	e	٢١	ﱖ			
+3	25:22:1	w	يَوۡمَ	ﱗ	يوم	(The) Day	yawma
+3	25:22:2	w	يَرَوۡنَ	ﱘ	يرون	they see	yarawna
+3	25:22:3	w	ٱلۡمَلَٰٓئِكَةَ	ﱙ	الملايكة	the Angels	l-malāikata
+3	25:22:4	w	لَا	ﱚ	لا	no	lā
+3	25:22:5	w	بُشۡرَىٰ	ﱛ	بشرى	glad tidings	bush'rā
+3	25:22:6	w	يَوۡمَئِذٖ	ﱜ	يوميذ	(will be) that Day	yawma-idhin
+3	25:22:7	w	لِّلۡمُجۡرِمِينَ	ﱝ	للمجرمين	for the criminals	lil'muj'rimīna
+3	25:22:8	w	وَيَقُولُونَ	ﱞ	ويقولون	and they will say	wayaqūlūna
+4	25:22:9	w	حِجۡرٗا	ﱟ	حجرا	A partition	ḥij'ran
+4	25:22:10	w	مَّحۡجُورٗا	ﱠ	محجورا	forbidden	maḥjūran
+4	25:22:11	e	٢٢	ﱡ			
+4	25:23:1	w	وَقَدِمۡنَآ	ﱢ	وقدمنا	And We will proceed	waqadim'nā
+4	25:23:2	w	إِلَىٰ	ﱣ	الى	to	ilā
+4	25:23:3	w	مَا	ﱤ	ما	whatever	mā
+4	25:23:4	w	عَمِلُواْ	ﱥ	عملوا	they did	ʿamilū
+4	25:23:5	w	مِنۡ	ﱦ	من	of	min
+4	25:23:6	w	عَمَلٖ	ﱧ	عمل	(the) deed(s)	ʿamalin
+4	25:23:7	w	فَجَعَلۡنَٰهُ	ﱨ	فجعلناه	and We will make them	fajaʿalnāhu
+5	25:23:8	w	هَبَآءٗ	ﱩ	هباء	(as) dust	habāan
+5	25:23:9	w	مَّنثُورًا	ﱪ	منثورا	dispersed	manthūran
+5	25:23:10	e	٢٣	ﱫ			
+5	25:24:1	w	أَصۡحَٰبُ	ﱬ	اصحاب	(The) companions	aṣḥābu
+5	25:24:2	w	ٱلۡجَنَّةِ	ﱭ	الجنة	(of) Paradise	l-janati
+5	25:24:3	w	يَوۡمَئِذٍ	ﱮ	يوميذ	that Day	yawma-idhin
+5	25:24:4	w	خَيۡرٞ	ﱯ	خير	(will be in) a better	khayrun
+5	25:24:5	w	مُّسۡتَقَرّٗا	ﱰ	مستقرا	abode	mus'taqarran
+6	25:24:6	w	وَأَحۡسَنُ	ﱱ	واحسن	and a better	wa-aḥsanu
+6	25:24:7	w	مَقِيلٗا	ﱲ	مقيلا	resting-place	maqīlan
+6	25:24:8	e	٢٤	ﱳ			
+6	25:25:1	w	وَيَوۡمَ	ﱴ	ويوم	And (the) Day	wayawma
+6	25:25:2	w	تَشَقَّقُ	ﱵ	تشقق	will split open	tashaqqaqu
+6	25:25:3	w	ٱلسَّمَآءُ	ﱶ	السماء	the heavens	l-samāu
+6	25:25:4	w	بِٱلۡغَمَٰمِ	ﱷ	بالغمام	with the clouds	bil-ghamāmi
+6	25:25:5	w	وَنُزِّلَ	ﱸ	ونزل	and (will be) sent down	wanuzzila
+6	25:25:6	w	ٱلۡمَلَٰٓئِكَةُ	ﱹ	الملايكة	the Angels	l-malāikatu
+7	25:25:7	w	تَنزِيلًا	ﱺ	تنزيلا	descending	tanzīlan
+7	25:25:8	e	٢٥	ﱻ			
+7	25:26:1	w	ٱلۡمُلۡكُ	ﱼ	الملك	The Sovereignty	al-mul'ku
+7	25:26:2	w	يَوۡمَئِذٍ	ﱽ	يوميذ	that Day	yawma-idhin
+7	25:26:3	w	ٱلۡحَقُّ	ﱾ	الحق	(will be) truly	l-ḥaqu
+7	25:26:4	w	لِلرَّحۡمَٰنِۚ	ﱿﲀ	للرحمان	for the Most Gracious	lilrraḥmāni
+7	25:26:5	w	وَكَانَ	ﲁ	وكان	And (it will) be	wakāna
+7	25:26:6	w	يَوۡمًا	ﲂ	يوما	a Day	yawman
+7	25:26:7	w	عَلَى	ﲃ	على	for	ʿalā
+8	25:26:8	w	ٱلۡكَٰفِرِينَ	ﲄ	الكافرين	the disbelievers	l-kāfirīna
+8	25:26:9	w	عَسِيرٗا	ﲅ	عسيرا	difficult	ʿasīran
+8	25:26:10	e	٢٦	ﲆ			
+8	25:27:1	w	وَيَوۡمَ	ﲇ	ويوم	And (the) Day	wayawma
+8	25:27:2	w	يَعَضُّ	ﲈ	يعض	will bite	yaʿaḍḍu
+8	25:27:3	w	ٱلظَّالِمُ	ﲉ	الظالم	the wrongdoer	l-ẓālimu
+8	25:27:4	w	عَلَىٰ	ﲊ	على	[on]	ʿalā
+8	25:27:5	w	يَدَيۡهِ	ﲋ	يديه	his hands	yadayhi
+8	25:27:6	w	يَقُولُ	ﲌ	يقول	he will say	yaqūlu
+9	25:27:7	w	يَٰلَيۡتَنِي	ﲍ	يا ليتني	O I wish	yālaytanī
+9	25:27:8	w	ٱتَّخَذۡتُ	ﲎ	اتخذت	I had taken	ittakhadhtu
+9	25:27:9	w	مَعَ	ﲏ	مع	with	maʿa
+9	25:27:10	w	ٱلرَّسُولِ	ﲐ	الرسول	the Messenger	l-rasūli
+9	25:27:11	w	سَبِيلٗا	ﲑ	سبيلا	a way	sabīlan
+9	25:27:12	e	٢٧	ﲒ			
+9	25:28:1	w	يَٰوَيۡلَتَىٰ	ﲓ	يا ويلتى	O woe to me	yāwaylatā
+9	25:28:2	w	لَيۡتَنِي	ﲔ	ليتني	I wish	laytanī
+9	25:28:3	w	لَمۡ	ﲕ	لم	not	lam
+10	25:28:4	w	أَتَّخِذۡ	ﲖ	اتخذ	I had taken	attakhidh
+10	25:28:5	w	فُلَانًا	ﲗ	فلانا	that one	fulānan
+10	25:28:6	w	خَلِيلٗا	ﲘ	خليلا	(as) a friend	khalīlan
+10	25:28:7	e	٢٨	ﲙ			
+10	25:29:1	w	لَّقَدۡ	ﲚ	لقد	Verily	laqad
+10	25:29:2	w	أَضَلَّنِي	ﲛ	اضلني	he led me astray	aḍallanī
+10	25:29:3	w	عَنِ	ﲜ	عن	from	ʿani
+10	25:29:4	w	ٱلذِّكۡرِ	ﲝ	الذكر	the Reminder	l-dhik'ri
+10	25:29:5	w	بَعۡدَ	ﲞ	بعد	after	baʿda
+10	25:29:6	w	إِذۡ	ﲟ	اذ	[when]	idh
+10	25:29:7	w	جَآءَنِيۗ	ﲠﲡ	جاءني	it (had) come to me	jāanī
+11	25:29:8	w	وَكَانَ	ﲢ	وكان	And is	wakāna
+11	25:29:9	w	ٱلشَّيۡطَٰنُ	ﲣ	الشيطان	the Shaitaan	l-shayṭānu
+11	25:29:10	w	لِلۡإِنسَٰنِ	ﲤ	للانسان	to the man	lil'insāni
+11	25:29:11	w	خَذُولٗا	ﲥ	خذولا	a deserter	khadhūlan
+11	25:29:12	e	٢٩	ﲦ			
+11	25:30:1	w	وَقَالَ	ﲧ	وقال	And said	waqāla
+11	25:30:2	w	ٱلرَّسُولُ	ﲨ	الرسول	the Messenger	l-rasūlu
+11	25:30:3	w	يَٰرَبِّ	ﲩ	يا رب	O my Lord	yārabbi
+12	25:30:4	w	إِنَّ	ﲪ	ان	Indeed	inna
+12	25:30:5	w	قَوۡمِي	ﲫ	قومي	my people	qawmī
+12	25:30:6	w	ٱتَّخَذُواْ	ﲬ	اتخذوا	took	ittakhadhū
+12	25:30:7	w	هَٰذَا	ﲭ	هاذا	this	hādhā
+12	25:30:8	w	ٱلۡقُرۡءَانَ	ﲮ	القران	the Quran	l-qur'āna
+12	25:30:9	w	مَهۡجُورٗا	ﲯ	مهجورا	(as) a forsaken thing	mahjūran
+12	25:30:10	e	٣٠	ﲰ			
+12	25:31:1	w	وَكَذَٰلِكَ	ﲱ	وكذالك	And thus	wakadhālika
+13	25:31:2	w	جَعَلۡنَا	ﲲ	جعلنا	We have made	jaʿalnā
+13	25:31:3	w	لِكُلِّ	ﲳ	لكل	for every	likulli
+13	25:31:4	w	نَبِيٍّ	ﲴ	نبي	Prophet	nabiyyin
+13	25:31:5	w	عَدُوّٗا	ﲵ	عدوا	an enemy	ʿaduwwan
+13	25:31:6	w	مِّنَ	ﲶ	من	among	mina
+13	25:31:7	w	ٱلۡمُجۡرِمِينَۗ	ﲷﲸ	المجرمين	the criminals	l-muj'rimīna
+13	25:31:8	w	وَكَفَىٰ	ﲹ	وكفى	But sufficient is	wakafā
+13	25:31:9	w	بِرَبِّكَ	ﲺ	بربك	your Lord	birabbika
+13	25:31:10	w	هَادِيٗا	ﲻ	هاديا	(as) a Guide	hādiyan
+14	25:31:11	w	وَنَصِيرٗا	ﲼ	ونصيرا	and a Helper	wanaṣīran
+14	25:31:12	e	٣١	ﲽ			
+14	25:32:1	w	وَقَالَ	ﲾ	وقال	And said	waqāla
+14	25:32:2	w	ٱلَّذِينَ	ﲿ	الذين	those who	alladhīna
+14	25:32:3	w	كَفَرُواْ	ﳀ	كفروا	disbelieve	kafarū
+14	25:32:4	w	لَوۡلَا	ﳁ	لولا	Why not	lawlā
+14	25:32:5	w	نُزِّلَ	ﳂ	نزل	was revealed	nuzzila
+14	25:32:6	w	عَلَيۡهِ	ﳃ	عليه	to him	ʿalayhi
+14	25:32:7	w	ٱلۡقُرۡءَانُ	ﳄ	القران	the Quran	l-qur'ānu
+14	25:32:8	w	جُمۡلَةٗ	ﳅ	جملة	all at once	jum'latan
+15	25:32:9	w	وَٰحِدَةٗۚ	ﳆﳇ	واحدة	all at once	wāḥidatan
+15	25:32:10	w	كَذَٰلِكَ	ﳈ	كذالك	Thus	kadhālika
+15	25:32:11	w	لِنُثَبِّتَ	ﳉ	لنثبت	that We may strengthen	linuthabbita
+15	25:32:12	w	بِهِۦ	ﳊ	به	thereby	bihi
+15	25:32:13	w	فُؤَادَكَۖ	ﳋﳌ	فوادك	your heart	fuādaka
+15	25:32:14	w	وَرَتَّلۡنَٰهُ	ﳍ	ورتلناه	and We have recited it	warattalnāhu
+15	25:32:15	w	تَرۡتِيلٗا	ﳎ	ترتيلا	(with distinct) recitation	tartīlan
+15	25:32:16	e	٣٢	ﳏ			

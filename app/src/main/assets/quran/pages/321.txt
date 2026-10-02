@@ -1,0 +1,149 @@
+1	20:126:1	w	قَالَ	ﱁ	قال	He will say	qāla
+1	20:126:2	w	كَذَٰلِكَ	ﱂ	كذالك	Thus	kadhālika
+1	20:126:3	w	أَتَتۡكَ	ﱃ	اتتك	came to you	atatka
+1	20:126:4	w	ءَايَٰتُنَا	ﱄ	اياتنا	Our Signs	āyātunā
+1	20:126:5	w	فَنَسِيتَهَاۖ	ﱅﱆ	فنسيتها	but you forgot them	fanasītahā
+1	20:126:6	w	وَكَذَٰلِكَ	ﱇ	وكذالك	and thus	wakadhālika
+1	20:126:7	w	ٱلۡيَوۡمَ	ﱈ	اليوم	today	l-yawma
+1	20:126:8	w	تُنسَىٰ	ﱉ	تنسى	you will be forgotten	tunsā
+1	20:126:9	e	١٢٦	ﱊ			
+2	20:127:1	w	وَكَذَٰلِكَ	ﱋ	وكذالك	And thus	wakadhālika
+2	20:127:2	w	نَجۡزِي	ﱌ	نجزي	We recompense	najzī
+2	20:127:3	w	مَنۡ	ﱍ	من	(he) who	man
+2	20:127:4	w	أَسۡرَفَ	ﱎ	اسرف	transgresses	asrafa
+2	20:127:5	w	وَلَمۡ	ﱏ	ولم	and not	walam
+2	20:127:6	w	يُؤۡمِنۢ	ﱐ	يومن	believes	yu'min
+2	20:127:7	w	بِـَٔايَٰتِ	ﱑ	بايات	in (the) Signs	biāyāti
+2	20:127:8	w	رَبِّهِۦۚ	ﱒﱓ	ربه	(of) his Lord	rabbihi
+2	20:127:9	w	وَلَعَذَابُ	ﱔ	ولعذاب	And surely (the) punishment	walaʿadhābu
+2	20:127:10	w	ٱلۡأٓخِرَةِ	ﱕ	الاخرة	(of) the Hereafter	l-ākhirati
+3	20:127:11	w	أَشَدُّ	ﱖ	اشد	(is) more severe	ashaddu
+3	20:127:12	w	وَأَبۡقَىٰٓ	ﱗ	وابقى	and more lasting	wa-abqā
+3	20:127:13	e	١٢٧	ﱘ			
+3	20:128:1	w	أَفَلَمۡ	ﱙ	افلم	Then has not	afalam
+3	20:128:2	w	يَهۡدِ	ﱚ	يهد	it guided	yahdi
+3	20:128:3	w	لَهُمۡ	ﱛ	لهم	[for] them	lahum
+3	20:128:4	w	كَمۡ	ﱜ	كم	how many	kam
+3	20:128:5	w	أَهۡلَكۡنَا	ﱝ	اهلكنا	We (have) destroyed	ahlaknā
+3	20:128:6	w	قَبۡلَهُم	ﱞ	قبلهم	before them	qablahum
+3	20:128:7	w	مِّنَ	ﱟ	من	of	mina
+3	20:128:8	w	ٱلۡقُرُونِ	ﱠ	القرون	the generations	l-qurūni
+4	20:128:9	w	يَمۡشُونَ	ﱡ	يمشون	(as) they walk	yamshūna
+4	20:128:10	w	فِي	ﱢ	في	in	fī
+4	20:128:11	w	مَسَٰكِنِهِمۡۚ	ﱣﱤ	مساكنهم	their dwellings	masākinihim
+4	20:128:12	w	إِنَّ	ﱥ	ان	Indeed	inna
+4	20:128:13	w	فِي	ﱦ	في	in	fī
+4	20:128:14	w	ذَٰلِكَ	ﱧ	ذالك	that	dhālika
+4	20:128:15	w	لَأٓيَٰتٖ	ﱨ	لايات	surely (are) Signs	laāyātin
+4	20:128:16	w	لِّأُوْلِي	ﱩ	لاولي	for possessors	li-ulī
+4	20:128:17	w	ٱلنُّهَىٰ	ﱪ	النهى	(of) intelligence	l-nuhā
+4	20:128:18	e	١٢٨	ﱫ			
+5	20:129:1	w	وَلَوۡلَا	ﱬ	ولولا	And if not	walawlā
+5	20:129:2	w	كَلِمَةٞ	ﱭ	كلمة	(for) a Word	kalimatun
+5	20:129:3	w	سَبَقَتۡ	ﱮ	سبقت	(that) preceded	sabaqat
+5	20:129:4	w	مِن	ﱯ	من	from	min
+5	20:129:5	w	رَّبِّكَ	ﱰ	ربك	your Lord	rabbika
+5	20:129:6	w	لَكَانَ	ﱱ	لكان	surely (would) have been	lakāna
+5	20:129:7	w	لِزَامٗا	ﱲ	لزاما	an obligation	lizāman
+5	20:129:8	w	وَأَجَلٞ	ﱳ	واجل	and a term	wa-ajalun
+5	20:129:9	w	مُّسَمّٗى	ﱴ	مسمى	determined	musamman
+5	20:129:10	e	١٢٩	ﱵ			
+6	20:130:1	w	فَٱصۡبِرۡ	ﱶ	فاصبر	So be patient	fa-iṣ'bir
+6	20:130:2	w	عَلَىٰ	ﱷ	على	over	ʿalā
+6	20:130:3	w	مَا	ﱸ	ما	what	mā
+6	20:130:4	w	يَقُولُونَ	ﱹ	يقولون	they say	yaqūlūna
+6	20:130:5	w	وَسَبِّحۡ	ﱺ	وسبح	and glorify	wasabbiḥ
+6	20:130:6	w	بِحَمۡدِ	ﱻ	بحمد	with praise	biḥamdi
+6	20:130:7	w	رَبِّكَ	ﱼ	ربك	(of) your Lord	rabbika
+6	20:130:8	w	قَبۡلَ	ﱽ	قبل	before	qabla
+6	20:130:9	w	طُلُوعِ	ﱾ	طلوع	(the) rising	ṭulūʿi
+6	20:130:10	w	ٱلشَّمۡسِ	ﱿ	الشمس	(of) the sun	l-shamsi
+7	20:130:11	w	وَقَبۡلَ	ﲀ	وقبل	and before	waqabla
+7	20:130:12	w	غُرُوبِهَاۖ	ﲁﲂ	غروبها	its setting	ghurūbihā
+7	20:130:13	w	وَمِنۡ	ﲃ	ومن	and from	wamin
+7	20:130:14	w	ءَانَآيِٕ	ﲄ	اناء	(the) hours	ānāi
+7	20:130:15	w	ٱلَّيۡلِ	ﲅ	الليل	(of) the night	al-layli
+7	20:130:16	w	فَسَبِّحۡ	ﲆ	فسبح	and glorify	fasabbiḥ
+7	20:130:17	w	وَأَطۡرَافَ	ﲇ	واطراف	(at the) ends	wa-aṭrāfa
+7	20:130:18	w	ٱلنَّهَارِ	ﲈ	النهار	(of) the day	l-nahāri
+7	20:130:19	w	لَعَلَّكَ	ﲉ	لعلك	so that you may	laʿallaka
+8	20:130:20	w	تَرۡضَىٰ	ﲊ	ترضى	be satisfied	tarḍā
+8	20:130:21	e	١٣٠	ﲋ			
+8	20:131:1	w	وَلَا	ﲌ	ولا	And (do) not	walā
+8	20:131:2	w	تَمُدَّنَّ	ﲍ	تمدن	extend	tamuddanna
+8	20:131:3	w	عَيۡنَيۡكَ	ﲎ	عينيك	your eyes	ʿaynayka
+8	20:131:4	w	إِلَىٰ	ﲏ	الى	towards	ilā
+8	20:131:5	w	مَا	ﲐ	ما	what	mā
+8	20:131:6	w	مَتَّعۡنَا	ﲑ	متعنا	We have given for enjoyment	mattaʿnā
+8	20:131:7	w	بِهِۦٓ	ﲒ	به	[with it]	bihi
+8	20:131:8	w	أَزۡوَٰجٗا	ﲓ	ازواجا	pairs	azwājan
+8	20:131:9	w	مِّنۡهُمۡ	ﲔ	منهم	of them	min'hum
+8	20:131:10	w	زَهۡرَةَ	ﲕ	زهرة	(the) splendor	zahrata
+9	20:131:11	w	ٱلۡحَيَوٰةِ	ﲖ	الحياة	(of) the life	l-ḥayati
+9	20:131:12	w	ٱلدُّنۡيَا	ﲗ	الدنيا	(of) the world	l-dun'yā
+9	20:131:13	w	لِنَفۡتِنَهُمۡ	ﲘ	لنفتنهم	that We may test them	linaftinahum
+9	20:131:14	w	فِيهِۚ	ﲙﲚ	فيه	in it	fīhi
+9	20:131:15	w	وَرِزۡقُ	ﲛ	ورزق	And (the) provision	wariz'qu
+9	20:131:16	w	رَبِّكَ	ﲜ	ربك	(of) your Lord	rabbika
+9	20:131:17	w	خَيۡرٞ	ﲝ	خير	(is) better	khayrun
+9	20:131:18	w	وَأَبۡقَىٰ	ﲞ	وابقى	and more lasting	wa-abqā
+9	20:131:19	e	١٣١	ﲟ			
+9	20:132:1	w	وَأۡمُرۡ	ﲠ	وامر	And enjoin	wamur
+9	20:132:2	w	أَهۡلَكَ	ﲡ	اهلك	(on) your family	ahlaka
+10	20:132:3	w	بِٱلصَّلَوٰةِ	ﲢ	بالصلاة	the prayer	bil-ṣalati
+10	20:132:4	w	وَٱصۡطَبِرۡ	ﲣ	واصطبر	and be steadfast	wa-iṣ'ṭabir
+10	20:132:5	w	عَلَيۡهَاۖ	ﲤﲥ	عليها	therein	ʿalayhā
+10	20:132:6	w	لَا	ﲦ	لا	Not	lā
+10	20:132:7	w	نَسۡـَٔلُكَ	ﲧ	نسالك	We ask you	nasaluka
+10	20:132:8	w	رِزۡقٗاۖ	ﲨﲩ	رزقا	(for) provision	riz'qan
+10	20:132:9	w	نَّحۡنُ	ﲪ	نحن	We	naḥnu
+10	20:132:10	w	نَرۡزُقُكَۗ	ﲫﲬ	نرزقك	provide (for) you	narzuquka
+10	20:132:11	w	وَٱلۡعَٰقِبَةُ	ﲭ	والعاقبة	and the outcome	wal-ʿāqibatu
+11	20:132:12	w	لِلتَّقۡوَىٰ	ﲮ	للتقوى	(is) for the righteous[ness]	lilttaqwā
+11	20:132:13	e	١٣٢	ﲯ			
+11	20:133:1	w	وَقَالُواْ	ﲰ	وقالوا	And they say	waqālū
+11	20:133:2	w	لَوۡلَا	ﲱ	لولا	Why not	lawlā
+11	20:133:3	w	يَأۡتِينَا	ﲲ	ياتينا	he brings us	yatīnā
+11	20:133:4	w	بِـَٔايَةٖ	ﲳ	باية	a sign	biāyatin
+11	20:133:5	w	مِّن	ﲴ	من	from	min
+11	20:133:6	w	رَّبِّهِۦٓۚ	ﲵﲶ	ربه	his Lord	rabbihi
+11	20:133:7	w	أَوَلَمۡ	ﲷ	اولم	Has not	awalam
+11	20:133:8	w	تَأۡتِهِم	ﲸ	تاتهم	come to them	tatihim
+12	20:133:9	w	بَيِّنَةُ	ﲹ	بينة	evidence	bayyinatu
+12	20:133:10	w	مَا	ﲺ	ما	(of) what	mā
+12	20:133:11	w	فِي	ﲻ	في	(was) in	fī
+12	20:133:12	w	ٱلصُّحُفِ	ﲼ	الصحف	the Scriptures	l-ṣuḥufi
+12	20:133:13	w	ٱلۡأُولَىٰ	ﲽ	الاولى	the former	l-ūlā
+12	20:133:14	e	١٣٣	ﲾ			
+12	20:134:1	w	وَلَوۡ	ﲿ	ولو	And if	walaw
+12	20:134:2	w	أَنَّآ	ﳀ	انا	We	annā
+12	20:134:3	w	أَهۡلَكۡنَٰهُم	ﳁ	اهلكناهم	(had) destroyed them	ahlaknāhum
+12	20:134:4	w	بِعَذَابٖ	ﳂ	بعذاب	with a punishment	biʿadhābin
+13	20:134:5	w	مِّن	ﳃ	من	before him	min
+13	20:134:6	w	قَبۡلِهِۦ	ﳄ	قبله	before him	qablihi
+13	20:134:7	w	لَقَالُواْ	ﳅ	لقالوا	surely they (would) have said	laqālū
+13	20:134:8	w	رَبَّنَا	ﳆ	ربنا	Our Lord	rabbanā
+13	20:134:9	w	لَوۡلَآ	ﳇ	لولا	why not	lawlā
+13	20:134:10	w	أَرۡسَلۡتَ	ﳈ	ارسلت	You sent	arsalta
+13	20:134:11	w	إِلَيۡنَا	ﳉ	الينا	to us	ilaynā
+13	20:134:12	w	رَسُولٗا	ﳊ	رسولا	a Messenger	rasūlan
+13	20:134:13	w	فَنَتَّبِعَ	ﳋ	فنتبع	so we (could) have followed	fanattabiʿa
+14	20:134:14	w	ءَايَٰتِكَ	ﳌ	اياتك	Your signs	āyātika
+14	20:134:15	w	مِن	ﳍ	من	before	min
+14	20:134:16	w	قَبۡلِ	ﳎ	قبل	before	qabli
+14	20:134:17	w	أَن	ﳏ	ان	[that]	an
+14	20:134:18	w	نَّذِلَّ	ﳐ	نذل	we were humiliated	nadhilla
+14	20:134:19	w	وَنَخۡزَىٰ	ﳑ	ونخزى	and disgraced	wanakhzā
+14	20:134:20	e	١٣٤	ﳒ			
+14	20:135:1	w	قُلۡ	ﳓ	قل	Say	qul
+14	20:135:2	w	كُلّٞ	ﳔ	كل	Each	kullun
+14	20:135:3	w	مُّتَرَبِّصٞ	ﳕ	متربص	(is) waiting	mutarabbiṣun
+14	20:135:4	w	فَتَرَبَّصُواْۖ	ﳖﳗ	فتربصوا	so await	fatarabbaṣū
+15	20:135:5	w	فَسَتَعۡلَمُونَ	ﳘ	فستعلمون	Then you will know	fasataʿlamūna
+15	20:135:6	w	مَنۡ	ﳙ	من	who	man
+15	20:135:7	w	أَصۡحَٰبُ	ﳚ	اصحاب	(are the) companions	aṣḥābu
+15	20:135:8	w	ٱلصِّرَٰطِ	ﳛ	الصراط	(of) the way	l-ṣirāṭi
+15	20:135:9	w	ٱلسَّوِيِّ	ﳜ	السوي	[the] even	l-sawiyi
+15	20:135:10	w	وَمَنِ	ﳝ	ومن	and who	wamani
+15	20:135:11	w	ٱهۡتَدَىٰ	ﳞ	اهتدى	is guided	ih'tadā
+15	20:135:12	e	١٣٥	ﳟ			

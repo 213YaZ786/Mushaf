@@ -1,0 +1,125 @@
+1	16:80:1	w	وَٱللَّهُ	ﱁ	والله	And Allah	wal-lahu
+1	16:80:2	w	جَعَلَ	ﱂ	جعل	(has) made	jaʿala
+1	16:80:3	w	لَكُم	ﱃ	لكم	for you	lakum
+1	16:80:4	w	مِّنۢ	ﱄ	من	[from]	min
+1	16:80:5	w	بُيُوتِكُمۡ	ﱅ	بيوتكم	your homes	buyūtikum
+1	16:80:6	w	سَكَنٗا	ﱆ	سكنا	a resting place	sakanan
+1	16:80:7	w	وَجَعَلَ	ﱇ	وجعل	and made	wajaʿala
+1	16:80:8	w	لَكُم	ﱈ	لكم	for you	lakum
+1	16:80:9	w	مِّن	ﱉ	من	from	min
+1	16:80:10	w	جُلُودِ	ﱊ	جلود	the hides	julūdi
+2	16:80:11	w	ٱلۡأَنۡعَٰمِ	ﱋ	الانعام	(of) the cattle	l-anʿāmi
+2	16:80:12	w	بُيُوتٗا	ﱌ	بيوتا	tents	buyūtan
+2	16:80:13	w	تَسۡتَخِفُّونَهَا	ﱍ	تستخفونها	which you find light	tastakhiffūnahā
+2	16:80:14	w	يَوۡمَ	ﱎ	يوم	(on) the day	yawma
+2	16:80:15	w	ظَعۡنِكُمۡ	ﱏ	ظعنكم	(of) your travel	ẓaʿnikum
+2	16:80:16	w	وَيَوۡمَ	ﱐ	ويوم	and the day	wayawma
+2	16:80:17	w	إِقَامَتِكُمۡ	ﱑ	اقامتكم	(of) your encampment	iqāmatikum
+3	16:80:18	w	وَمِنۡ	ﱒ	ومن	and from	wamin
+3	16:80:19	w	أَصۡوَافِهَا	ﱓ	اصوافها	their wool	aṣwāfihā
+3	16:80:20	w	وَأَوۡبَارِهَا	ﱔ	واوبارها	and their fur	wa-awbārihā
+3	16:80:21	w	وَأَشۡعَارِهَآ	ﱕ	واشعارها	and their hair	wa-ashʿārihā
+3	16:80:22	w	أَثَٰثٗا	ﱖ	اثاثا	(is) furnishing	athāthan
+3	16:80:23	w	وَمَتَٰعًا	ﱗ	ومتاعا	and a provision	wamatāʿan
+3	16:80:24	w	إِلَىٰ	ﱘ	الى	for	ilā
+3	16:80:25	w	حِينٖ	ﱙ	حين	a time	ḥīnin
+4	16:80:26	e	٨٠	ﱚ			
+4	16:81:1	w	وَٱللَّهُ	ﱛ	والله	And Allah	wal-lahu
+4	16:81:2	w	جَعَلَ	ﱜ	جعل	(has) made	jaʿala
+4	16:81:3	w	لَكُم	ﱝ	لكم	for you	lakum
+4	16:81:4	w	مِّمَّا	ﱞ	مما	from what	mimmā
+4	16:81:5	w	خَلَقَ	ﱟ	خلق	He created	khalaqa
+4	16:81:6	w	ظِلَٰلٗا	ﱠ	ظلالا	shades	ẓilālan
+4	16:81:7	w	وَجَعَلَ	ﱡ	وجعل	and (has) made	wajaʿala
+4	16:81:8	w	لَكُم	ﱢ	لكم	for you	lakum
+4	16:81:9	w	مِّنَ	ﱣ	من	from	mina
+5	16:81:10	w	ٱلۡجِبَالِ	ﱤ	الجبال	the mountains	l-jibāli
+5	16:81:11	w	أَكۡنَٰنٗا	ﱥ	اكنانا	shelters	aknānan
+5	16:81:12	w	وَجَعَلَ	ﱦ	وجعل	and (has) made	wajaʿala
+5	16:81:13	w	لَكُمۡ	ﱧ	لكم	for you	lakum
+5	16:81:14	w	سَرَٰبِيلَ	ﱨ	سرابيل	garments	sarābīla
+5	16:81:15	w	تَقِيكُمُ	ﱩ	تقيكم	to protect you	taqīkumu
+6	16:81:16	w	ٱلۡحَرَّ	ﱪ	الحر	(from) the heat	l-ḥara
+6	16:81:17	w	وَسَرَٰبِيلَ	ﱫ	وسرابيل	and garments	wasarābīla
+6	16:81:18	w	تَقِيكُم	ﱬ	تقيكم	to protect you	taqīkum
+6	16:81:19	w	بَأۡسَكُمۡۚ	ﱭﱮ	باسكم	from your (mutual) violence	basakum
+6	16:81:20	w	كَذَٰلِكَ	ﱯ	كذالك	Thus	kadhālika
+6	16:81:21	w	يُتِمُّ	ﱰ	يتم	He completes	yutimmu
+6	16:81:22	w	نِعۡمَتَهُۥ	ﱱ	نعمته	His Favor	niʿ'matahu
+7	16:81:23	w	عَلَيۡكُمۡ	ﱲ	عليكم	upon you	ʿalaykum
+7	16:81:24	w	لَعَلَّكُمۡ	ﱳ	لعلكم	so that you may	laʿallakum
+7	16:81:25	w	تُسۡلِمُونَ	ﱴ	تسلمون	submit	tus'limūna
+7	16:81:26	e	٨١	ﱵ			
+7	16:82:1	w	فَإِن	ﱶ	فان	Then, if	fa-in
+7	16:82:2	w	تَوَلَّوۡاْ	ﱷ	تولوا	they turn away	tawallaw
+7	16:82:3	w	فَإِنَّمَا	ﱸ	فانما	then only	fa-innamā
+7	16:82:4	w	عَلَيۡكَ	ﱹ	عليك	upon you	ʿalayka
+8	16:82:5	w	ٱلۡبَلَٰغُ	ﱺ	البلاغ	(is) the conveyance	l-balāghu
+8	16:82:6	w	ٱلۡمُبِينُ	ﱻ	المبين	the clear	l-mubīnu
+8	16:82:7	e	٨٢	ﱼ			
+8	16:83:1	w	يَعۡرِفُونَ	ﱽ	يعرفون	They recognize	yaʿrifūna
+8	16:83:2	w	نِعۡمَتَ	ﱾ	نعمت	(the) Favor	niʿ'mata
+8	16:83:3	w	ٱللَّهِ	ﱿ	الله	(of) Allah	l-lahi
+8	16:83:4	w	ثُمَّ	ﲀ	ثم	then	thumma
+8	16:83:5	w	يُنكِرُونَهَا	ﲁ	ينكرونها	they deny it	yunkirūnahā
+9	16:83:6	w	وَأَكۡثَرُهُمُ	ﲂ	واكثرهم	And most of them	wa-aktharuhumu
+9	16:83:7	w	ٱلۡكَٰفِرُونَ	ﲃ	الكافرون	(are) the disbelievers	l-kāfirūna
+9	16:83:8	e	٨٣	ﲄ			
+9	16:84:1	w	وَيَوۡمَ	ﲅ	ويوم	And the Day	wayawma
+9	16:84:2	w	نَبۡعَثُ	ﲆ	نبعث	We will resurrect	nabʿathu
+9	16:84:3	w	مِن	ﲇ	من	from	min
+9	16:84:4	w	كُلِّ	ﲈ	كل	every	kulli
+9	16:84:5	w	أُمَّةٖ	ﲉ	امة	nation	ummatin
+10	16:84:6	w	شَهِيدٗا	ﲊ	شهيدا	a witness	shahīdan
+10	16:84:7	w	ثُمَّ	ﲋ	ثم	then	thumma
+10	16:84:8	w	لَا	ﲌ	لا	not	lā
+10	16:84:9	w	يُؤۡذَنُ	ﲍ	يوذن	will be permitted	yu'dhanu
+10	16:84:10	w	لِلَّذِينَ	ﲎ	للذين	to those who	lilladhīna
+10	16:84:11	w	كَفَرُواْ	ﲏ	كفروا	disbelieved	kafarū
+10	16:84:12	w	وَلَا	ﲐ	ولا	and not	walā
+10	16:84:13	w	هُمۡ	ﲑ	هم	they	hum
+10	16:84:14	w	يُسۡتَعۡتَبُونَ	ﲒ	يستعتبون	will be asked to make amends	yus'taʿtabūna
+11	16:84:15	e	٨٤	ﲓ			
+11	16:85:1	w	وَإِذَا	ﲔ	واذا	And when	wa-idhā
+11	16:85:2	w	رَءَا	ﲕ	راى	(will) see	raā
+11	16:85:3	w	ٱلَّذِينَ	ﲖ	الذين	those who	alladhīna
+11	16:85:4	w	ظَلَمُواْ	ﲗ	ظلموا	wronged	ẓalamū
+11	16:85:5	w	ٱلۡعَذَابَ	ﲘ	العذاب	the punishment	l-ʿadhāba
+11	16:85:6	w	فَلَا	ﲙ	فلا	then not	falā
+11	16:85:7	w	يُخَفَّفُ	ﲚ	يخفف	it will be lightened	yukhaffafu
+11	16:85:8	w	عَنۡهُمۡ	ﲛ	عنهم	for them	ʿanhum
+11	16:85:9	w	وَلَا	ﲜ	ولا	and not	walā
+11	16:85:10	w	هُمۡ	ﲝ	هم	they	hum
+12	16:85:11	w	يُنظَرُونَ	ﲞ	ينظرون	will be given respite	yunẓarūna
+12	16:85:12	e	٨٥	ﲟ			
+12	16:86:1	w	وَإِذَا	ﲠ	واذا	And when	wa-idhā
+12	16:86:2	w	رَءَا	ﲡ	راى	(will) see	raā
+12	16:86:3	w	ٱلَّذِينَ	ﲢ	الذين	those who	alladhīna
+12	16:86:4	w	أَشۡرَكُواْ	ﲣ	اشركوا	associated partners with Allah	ashrakū
+12	16:86:5	w	شُرَكَآءَهُمۡ	ﲤ	شركاءهم	their partners	shurakāahum
+12	16:86:6	w	قَالُواْ	ﲥ	قالوا	They will say	qālū
+13	16:86:7	w	رَبَّنَا	ﲦ	ربنا	Our Lord	rabbanā
+13	16:86:8	w	هَٰٓؤُلَآءِ	ﲧ	هاولاء	these	hāulāi
+13	16:86:9	w	شُرَكَآؤُنَا	ﲨ	شركاونا	(are) our partners	shurakāunā
+13	16:86:10	w	ٱلَّذِينَ	ﲩ	الذين	those whom	alladhīna
+13	16:86:11	w	كُنَّا	ﲪ	كنا	we used to	kunnā
+13	16:86:12	w	نَدۡعُواْ	ﲫ	ندعو	invoke	nadʿū
+13	16:86:13	w	مِن	ﲬ	من	besides You	min
+13	16:86:14	w	دُونِكَۖ	ﲭﲮ	دونك	besides You	dūnika
+14	16:86:15	w	فَأَلۡقَوۡاْ	ﲯ	فالقوا	But they (will) throw back	fa-alqaw
+14	16:86:16	w	إِلَيۡهِمُ	ﲰ	اليهم	at them	ilayhimu
+14	16:86:17	w	ٱلۡقَوۡلَ	ﲱ	القول	(their) word	l-qawla
+14	16:86:18	w	إِنَّكُمۡ	ﲲ	انكم	Indeed, you	innakum
+14	16:86:19	w	لَكَٰذِبُونَ	ﲳ	لكاذبون	(are) surely liars	lakādhibūna
+14	16:86:20	e	٨٦	ﲴ			
+14	16:87:1	w	وَأَلۡقَوۡاْ	ﲵ	والقوا	And they (will) offer	wa-alqaw
+14	16:87:2	w	إِلَى	ﲶ	الى	to	ilā
+15	16:87:3	w	ٱللَّهِ	ﲷ	الله	Allah	l-lahi
+15	16:87:4	w	يَوۡمَئِذٍ	ﲸ	يوميذ	(on) that Day	yawma-idhin
+15	16:87:5	w	ٱلسَّلَمَۖ	ﲹﲺ	السلم	the submission	l-salama
+15	16:87:6	w	وَضَلَّ	ﲻ	وضل	and (is) lost	waḍalla
+15	16:87:7	w	عَنۡهُم	ﲼ	عنهم	from them	ʿanhum
+15	16:87:8	w	مَّا	ﲽ	ما	what	mā
+15	16:87:9	w	كَانُواْ	ﲾ	كانوا	they used (to)	kānū
+15	16:87:10	w	يَفۡتَرُونَ	ﲿ	يفترون	invent	yaftarūna
+15	16:87:11	e	٨٧	ﳀ			

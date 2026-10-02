@@ -1,0 +1,146 @@
+1	39:48:1	w	وَبَدَا	ﱁ	وبدا	And will become apparent	wabadā
+1	39:48:2	w	لَهُمۡ	ﱂ	لهم	to them	lahum
+1	39:48:3	w	سَيِّـَٔاتُ	ﱃ	سييات	(the) evils	sayyiātu
+1	39:48:4	w	مَا	ﱄ	ما	(of) what	mā
+1	39:48:5	w	كَسَبُواْ	ﱅ	كسبوا	they earned	kasabū
+1	39:48:6	w	وَحَاقَ	ﱆ	وحاق	and will surround	waḥāqa
+1	39:48:7	w	بِهِم	ﱇ	بهم	them	bihim
+1	39:48:8	w	مَّا	ﱈ	ما	what	mā
+1	39:48:9	w	كَانُواْ	ﱉ	كانوا	they used to	kānū
+1	39:48:10	w	بِهِۦ	ﱊ	به	[in it]	bihi
+2	39:48:11	w	يَسۡتَهۡزِءُونَ	ﱋ	يستهزيون	mock	yastahziūna
+2	39:48:12	e	٤٨	ﱌ			
+2	39:49:1	w	فَإِذَا	ﱍ	فاذا	So when	fa-idhā
+2	39:49:2	w	مَسَّ	ﱎ	مس	touches	massa
+2	39:49:3	w	ٱلۡإِنسَٰنَ	ﱏ	الانسان	[the] man	l-insāna
+2	39:49:4	w	ضُرّٞ	ﱐ	ضر	adversity	ḍurrun
+2	39:49:5	w	دَعَانَا	ﱑ	دعانا	he calls upon Us	daʿānā
+2	39:49:6	w	ثُمَّ	ﱒ	ثم	then	thumma
+2	39:49:7	w	إِذَا	ﱓ	اذا	when	idhā
+2	39:49:8	w	خَوَّلۡنَٰهُ	ﱔ	خولناه	We bestow (on) him	khawwalnāhu
+3	39:49:9	w	نِعۡمَةٗ	ﱕ	نعمة	a favor	niʿ'matan
+3	39:49:10	w	مِّنَّا	ﱖ	منا	from Us	minnā
+3	39:49:11	w	قَالَ	ﱗ	قال	he says	qāla
+3	39:49:12	w	إِنَّمَآ	ﱘ	انما	Only	innamā
+3	39:49:13	w	أُوتِيتُهُۥ	ﱙ	اوتيته	I have been given it	ūtītuhu
+3	39:49:14	w	عَلَىٰ	ﱚ	على	for	ʿalā
+3	39:49:15	w	عِلۡمِۭۚ	ﱛﱜ	علم	knowledge	ʿil'min
+3	39:49:16	w	بَلۡ	ﱝ	بل	Nay	bal
+3	39:49:17	w	هِيَ	ﱞ	هي	it	hiya
+3	39:49:18	w	فِتۡنَةٞ	ﱟ	فتنة	(is) a trial	fit'natun
+3	39:49:19	w	وَلَٰكِنَّ	ﱠ	ولاكن	but	walākinna
+4	39:49:20	w	أَكۡثَرَهُمۡ	ﱡ	اكثرهم	most of them	aktharahum
+4	39:49:21	w	لَا	ﱢ	لا	(do) not	lā
+4	39:49:22	w	يَعۡلَمُونَ	ﱣ	يعلمون	know	yaʿlamūna
+4	39:49:23	e	٤٩	ﱤ			
+4	39:50:1	w	قَدۡ	ﱥ	قد	Indeed	qad
+4	39:50:2	w	قَالَهَا	ﱦ	قالها	said it	qālahā
+4	39:50:3	w	ٱلَّذِينَ	ﱧ	الذين	those	alladhīna
+4	39:50:4	w	مِن	ﱨ	من	before them	min
+4	39:50:5	w	قَبۡلِهِمۡ	ﱩ	قبلهم	before them	qablihim
+4	39:50:6	w	فَمَآ	ﱪ	فما	but (did) not	famā
+5	39:50:7	w	أَغۡنَىٰ	ﱫ	اغنى	avail	aghnā
+5	39:50:8	w	عَنۡهُم	ﱬ	عنهم	them	ʿanhum
+5	39:50:9	w	مَّا	ﱭ	ما	what	mā
+5	39:50:10	w	كَانُواْ	ﱮ	كانوا	they used to	kānū
+5	39:50:11	w	يَكۡسِبُونَ	ﱯ	يكسبون	earn	yaksibūna
+5	39:50:12	e	٥٠	ﱰ			
+5	39:51:1	w	فَأَصَابَهُمۡ	ﱱ	فاصابهم	Then struck them	fa-aṣābahum
+5	39:51:2	w	سَيِّـَٔاتُ	ﱲ	سييات	(the) evils	sayyiātu
+6	39:51:3	w	مَا	ﱳ	ما	(of) what	mā
+6	39:51:4	w	كَسَبُواْۚ	ﱴﱵ	كسبوا	they earned	kasabū
+6	39:51:5	w	وَٱلَّذِينَ	ﱶ	والذين	And those who	wa-alladhīna
+6	39:51:6	w	ظَلَمُواْ	ﱷ	ظلموا	have wronged	ẓalamū
+6	39:51:7	w	مِنۡ	ﱸ	من	of	min
+6	39:51:8	w	هَٰٓؤُلَآءِ	ﱹ	هاولاء	these	hāulāi
+6	39:51:9	w	سَيُصِيبُهُمۡ	ﱺ	سيصيبهم	will strike them	sayuṣībuhum
+6	39:51:10	w	سَيِّـَٔاتُ	ﱻ	سييات	(the) evils	sayyiātu
+7	39:51:11	w	مَا	ﱼ	ما	(of) what	mā
+7	39:51:12	w	كَسَبُواْ	ﱽ	كسبوا	they earned	kasabū
+7	39:51:13	w	وَمَا	ﱾ	وما	and not	wamā
+7	39:51:14	w	هُم	ﱿ	هم	they	hum
+7	39:51:15	w	بِمُعۡجِزِينَ	ﲀ	بمعجزين	will be able to escape	bimuʿ'jizīna
+7	39:51:16	e	٥١	ﲁ			
+7	39:52:1	w	أَوَلَمۡ	ﲂ	اولم	Do not	awalam
+7	39:52:2	w	يَعۡلَمُوٓاْ	ﲃ	يعلموا	they know	yaʿlamū
+7	39:52:3	w	أَنَّ	ﲄ	ان	that	anna
+7	39:52:4	w	ٱللَّهَ	ﲅ	الله	Allah	l-laha
+7	39:52:5	w	يَبۡسُطُ	ﲆ	يبسط	extends	yabsuṭu
+8	39:52:6	w	ٱلرِّزۡقَ	ﲇ	الرزق	the provision	l-riz'qa
+8	39:52:7	w	لِمَن	ﲈ	لمن	for whom	liman
+8	39:52:8	w	يَشَآءُ	ﲉ	يشاء	He wills	yashāu
+8	39:52:9	w	وَيَقۡدِرُۚ	ﲊﲋ	ويقدر	and restricts	wayaqdiru
+8	39:52:10	w	إِنَّ	ﲌ	ان	Indeed	inna
+8	39:52:11	w	فِي	ﲍ	في	in	fī
+8	39:52:12	w	ذَٰلِكَ	ﲎ	ذالك	that	dhālika
+8	39:52:13	w	لَأٓيَٰتٖ	ﲏ	لايات	surely (are) signs	laāyātin
+8	39:52:14	w	لِّقَوۡمٖ	ﲐ	لقوم	for a people	liqawmin
+8	39:52:15	w	يُؤۡمِنُونَ	ﲑ	يومنون	who believe	yu'minūna
+9	39:52:16	e	٥٢	ﲒ			
+9	39:53:1	w	۞ قُلۡ	ﲓ ﲔ	۞ قل	Say	qul
+9	39:53:2	w	يَٰعِبَادِيَ	ﲕ	يا عبادي	O My slaves	yāʿibādiya
+9	39:53:3	w	ٱلَّذِينَ	ﲖ	الذين	Those who	alladhīna
+9	39:53:4	w	أَسۡرَفُواْ	ﲗ	اسرفوا	have transgressed	asrafū
+9	39:53:5	w	عَلَىٰٓ	ﲘ	على	against	ʿalā
+9	39:53:6	w	أَنفُسِهِمۡ	ﲙ	انفسهم	themselves	anfusihim
+9	39:53:7	w	لَا	ﲚ	لا	(do) not	lā
+9	39:53:8	w	تَقۡنَطُواْ	ﲛ	تقنطوا	despair	taqnaṭū
+10	39:53:9	w	مِن	ﲜ	من	of	min
+10	39:53:10	w	رَّحۡمَةِ	ﲝ	رحمة	(the) Mercy	raḥmati
+10	39:53:11	w	ٱللَّهِۚ	ﲞﲟ	الله	(of) Allah	l-lahi
+10	39:53:12	w	إِنَّ	ﲠ	ان	Indeed	inna
+10	39:53:13	w	ٱللَّهَ	ﲡ	الله	Allah	l-laha
+10	39:53:14	w	يَغۡفِرُ	ﲢ	يغفر	forgives	yaghfiru
+10	39:53:15	w	ٱلذُّنُوبَ	ﲣ	الذنوب	the sins	l-dhunūba
+10	39:53:16	w	جَمِيعًاۚ	ﲤﲥ	جميعا	all	jamīʿan
+10	39:53:17	w	إِنَّهُۥ	ﲦ	انه	Indeed He	innahu
+10	39:53:18	w	هُوَ	ﲧ	هو	He	huwa
+11	39:53:19	w	ٱلۡغَفُورُ	ﲨ	الغفور	(is) the Oft-Forgiving	l-ghafūru
+11	39:53:20	w	ٱلرَّحِيمُ	ﲩ	الرحيم	the Most Merciful	l-raḥīmu
+11	39:53:21	e	٥٣	ﲪ			
+11	39:54:1	w	وَأَنِيبُوٓاْ	ﲫ	وانيبوا	And turn	wa-anībū
+11	39:54:2	w	إِلَىٰ	ﲬ	الى	to	ilā
+11	39:54:3	w	رَبِّكُمۡ	ﲭ	ربكم	your Lord	rabbikum
+11	39:54:4	w	وَأَسۡلِمُواْ	ﲮ	واسلموا	and submit	wa-aslimū
+11	39:54:5	w	لَهُۥ	ﲯ	له	to Him	lahu
+11	39:54:6	w	مِن	ﲰ	من	before	min
+12	39:54:7	w	قَبۡلِ	ﲱ	قبل	before	qabli
+12	39:54:8	w	أَن	ﲲ	ان	[that]	an
+12	39:54:9	w	يَأۡتِيَكُمُ	ﲳ	ياتيكم	comes to you	yatiyakumu
+12	39:54:10	w	ٱلۡعَذَابُ	ﲴ	العذاب	the punishment	l-ʿadhābu
+12	39:54:11	w	ثُمَّ	ﲵ	ثم	then	thumma
+12	39:54:12	w	لَا	ﲶ	لا	not	lā
+12	39:54:13	w	تُنصَرُونَ	ﲷ	تنصرون	you will be helped	tunṣarūna
+12	39:54:14	e	٥٤	ﲸ			
+12	39:55:1	w	وَٱتَّبِعُوٓاْ	ﲹ	واتبعوا	And follow	wa-ittabiʿū
+12	39:55:2	w	أَحۡسَنَ	ﲺ	احسن	(the) best	aḥsana
+13	39:55:3	w	مَآ	ﲻ	ما	(of) what	mā
+13	39:55:4	w	أُنزِلَ	ﲼ	انزل	is revealed	unzila
+13	39:55:5	w	إِلَيۡكُم	ﲽ	اليكم	to you	ilaykum
+13	39:55:6	w	مِّن	ﲾ	من	from	min
+13	39:55:7	w	رَّبِّكُم	ﲿ	ربكم	your Lord	rabbikum
+13	39:55:8	w	مِّن	ﳀ	من	before	min
+13	39:55:9	w	قَبۡلِ	ﳁ	قبل	before	qabli
+13	39:55:10	w	أَن	ﳂ	ان	[that]	an
+13	39:55:11	w	يَأۡتِيَكُمُ	ﳃ	ياتيكم	comes to you	yatiyakumu
+13	39:55:12	w	ٱلۡعَذَابُ	ﳄ	العذاب	the punishment	l-ʿadhābu
+14	39:55:13	w	بَغۡتَةٗ	ﳅ	بغتة	suddenly	baghtatan
+14	39:55:14	w	وَأَنتُمۡ	ﳆ	وانتم	while you	wa-antum
+14	39:55:15	w	لَا	ﳇ	لا	(do) not	lā
+14	39:55:16	w	تَشۡعُرُونَ	ﳈ	تشعرون	perceive	tashʿurūna
+14	39:55:17	e	٥٥	ﳉ			
+14	39:56:1	w	أَن	ﳊ	ان	Lest	an
+14	39:56:2	w	تَقُولَ	ﳋ	تقول	should say	taqūla
+14	39:56:3	w	نَفۡسٞ	ﳌ	نفس	a soul	nafsun
+14	39:56:4	w	يَٰحَسۡرَتَىٰ	ﳍ	يا حسرتا	Oh! My regret	yāḥasratā
+15	39:56:5	w	عَلَىٰ	ﳎ	على	over	ʿalā
+15	39:56:6	w	مَا	ﳏ	ما	what	mā
+15	39:56:7	w	فَرَّطتُ	ﳐ	فرطت	I neglected	farraṭtu
+15	39:56:8	w	فِي	ﳑ	في	in	fī
+15	39:56:9	w	جَنۢبِ	ﳒ	جنب	regard (to)	janbi
+15	39:56:10	w	ٱللَّهِ	ﳓ	الله	Allah	l-lahi
+15	39:56:11	w	وَإِن	ﳔ	وان	and that	wa-in
+15	39:56:12	w	كُنتُ	ﳕ	كنت	I was	kuntu
+15	39:56:13	w	لَمِنَ	ﳖ	لمن	surely, among	lamina
+15	39:56:14	w	ٱلسَّٰخِرِينَ	ﳗ	الساخرين	the mockers	l-sākhirīna
+15	39:56:15	e	٥٦	ﳘ			

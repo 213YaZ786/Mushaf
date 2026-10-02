@@ -1,0 +1,138 @@
+1	5:24:1	w	قَالُواْ	ﱁ	قالوا	They said	qālū
+1	5:24:2	w	يَٰمُوسَىٰٓ	ﱂ	يا موسى	O Musa	yāmūsā
+1	5:24:3	w	إِنَّا	ﱃ	انا	Indeed, we	innā
+1	5:24:4	w	لَن	ﱄ	لن	never	lan
+1	5:24:5	w	نَّدۡخُلَهَآ	ﱅ	ندخلها	will enter it	nadkhulahā
+1	5:24:6	w	أَبَدٗا	ﱆ	ابدا	ever	abadan
+1	5:24:7	w	مَّا	ﱇ	ما	for	mā
+1	5:24:8	w	دَامُواْ	ﱈ	داموا	as long as they are	dāmū
+1	5:24:9	w	فِيهَا	ﱉ	فيها	in it	fīhā
+1	5:24:10	w	فَٱذۡهَبۡ	ﱊ	فاذهب	So go	fa-idh'hab
+2	5:24:11	w	أَنتَ	ﱋ	انت	you	anta
+2	5:24:12	w	وَرَبُّكَ	ﱌ	وربك	and your Lord	warabbuka
+2	5:24:13	w	فَقَٰتِلَآ	ﱍ	فقاتلا	and you both fight	faqātilā
+2	5:24:14	w	إِنَّا	ﱎ	انا	Indeed, we	innā
+2	5:24:15	w	هَٰهُنَا	ﱏ	هاهنا	are [here]	hāhunā
+2	5:24:16	w	قَٰعِدُونَ	ﱐ	قاعدون	sitting	qāʿidūna
+2	5:24:17	e	٢٤	ﱑ			
+2	5:25:1	w	قَالَ	ﱒ	قال	He said	qāla
+2	5:25:2	w	رَبِّ	ﱓ	رب	O my Lord	rabbi
+2	5:25:3	w	إِنِّي	ﱔ	اني	Indeed, I	innī
+3	5:25:4	w	لَآ	ﱕ	لا	(do) not	lā
+3	5:25:5	w	أَمۡلِكُ	ﱖ	املك	(have) power	amliku
+3	5:25:6	w	إِلَّا	ﱗ	الا	except	illā
+3	5:25:7	w	نَفۡسِي	ﱘ	نفسي	(over) myself	nafsī
+3	5:25:8	w	وَأَخِيۖ	ﱙﱚ	واخي	and my brother	wa-akhī
+3	5:25:9	w	فَٱفۡرُقۡ	ﱛ	فافرق	so (make a) separation	fa-uf'ruq
+3	5:25:10	w	بَيۡنَنَا	ﱜ	بيننا	between us	baynanā
+3	5:25:11	w	وَبَيۡنَ	ﱝ	وبين	and between	wabayna
+3	5:25:12	w	ٱلۡقَوۡمِ	ﱞ	القوم	the people	l-qawmi
+4	5:25:13	w	ٱلۡفَٰسِقِينَ	ﱟ	الفاسقين	(the) defiantly disobedient	l-fāsiqīna
+4	5:25:14	e	٢٥	ﱠ			
+4	5:26:1	w	قَالَ	ﱡ	قال	(Allah) said	qāla
+4	5:26:2	w	فَإِنَّهَا	ﱢ	فانها	Then indeed it	fa-innahā
+4	5:26:3	w	مُحَرَّمَةٌ	ﱣ	محرمة	(will be) forbidden	muḥarramatun
+4	5:26:4	w	عَلَيۡهِمۡۛ	ﱤﱥ	عليهم	to them	ʿalayhim
+4	5:26:5	w	أَرۡبَعِينَ	ﱦ	اربعين	(for) forty	arbaʿīna
+4	5:26:6	w	سَنَةٗۛ	ﱧﱨ	سنة	years	sanatan
+5	5:26:7	w	يَتِيهُونَ	ﱩ	يتيهون	they will wander	yatīhūna
+5	5:26:8	w	فِي	ﱪ	في	in	fī
+5	5:26:9	w	ٱلۡأَرۡضِۚ	ﱫﱬ	الارض	the earth	l-arḍi
+5	5:26:10	w	فَلَا	ﱭ	فلا	So (do) not	falā
+5	5:26:11	w	تَأۡسَ	ﱮ	تاس	grieve	tasa
+5	5:26:12	w	عَلَى	ﱯ	على	over	ʿalā
+5	5:26:13	w	ٱلۡقَوۡمِ	ﱰ	القوم	the people	l-qawmi
+5	5:26:14	w	ٱلۡفَٰسِقِينَ	ﱱ	الفاسقين	the defiantly disobedient	l-fāsiqīna
+6	5:26:15	e	٢٦	ﱲ			
+6	5:27:1	w	۞ وَٱتۡلُ	ﱳ ﱴ	۞ واتل	And recite	wa-ut'lu
+6	5:27:2	w	عَلَيۡهِمۡ	ﱵ	عليهم	to them	ʿalayhim
+6	5:27:3	w	نَبَأَ	ﱶ	نبا	the story	naba-a
+6	5:27:4	w	ٱبۡنَيۡ	ﱷ	ابني	(of) two sons	ib'nay
+6	5:27:5	w	ءَادَمَ	ﱸ	ادم	(of) Adam	ādama
+6	5:27:6	w	بِٱلۡحَقِّ	ﱹ	بالحق	in truth	bil-ḥaqi
+6	5:27:7	w	إِذۡ	ﱺ	اذ	when	idh
+6	5:27:8	w	قَرَّبَا	ﱻ	قربا	both offered	qarrabā
+6	5:27:9	w	قُرۡبَانٗا	ﱼ	قربانا	a sacrifice	qur'bānan
+6	5:27:10	w	فَتُقُبِّلَ	ﱽ	فتقبل	and it was accepted	fatuqubbila
+7	5:27:11	w	مِنۡ	ﱾ	من	from	min
+7	5:27:12	w	أَحَدِهِمَا	ﱿ	احدهما	one of them	aḥadihimā
+7	5:27:13	w	وَلَمۡ	ﲀ	ولم	and not	walam
+7	5:27:14	w	يُتَقَبَّلۡ	ﲁ	يتقبل	was accepted	yutaqabbal
+7	5:27:15	w	مِنَ	ﲂ	من	from	mina
+7	5:27:16	w	ٱلۡأٓخَرِ	ﲃ	الاخر	the other	l-ākhari
+7	5:27:17	w	قَالَ	ﲄ	قال	Said (the latter)	qāla
+7	5:27:18	w	لَأَقۡتُلَنَّكَۖ	ﲅﲆ	لاقتلنك	Surely I will kill you	la-aqtulannaka
+8	5:27:19	w	قَالَ	ﲇ	قال	Said (the former)	qāla
+8	5:27:20	w	إِنَّمَا	ﲈ	انما	Only	innamā
+8	5:27:21	w	يَتَقَبَّلُ	ﲉ	يتقبل	accepts	yataqabbalu
+8	5:27:22	w	ٱللَّهُ	ﲊ	الله	(does) Allah	l-lahu
+8	5:27:23	w	مِنَ	ﲋ	من	from	mina
+8	5:27:24	w	ٱلۡمُتَّقِينَ	ﲌ	المتقين	the God fearing	l-mutaqīna
+8	5:27:25	e	٢٧	ﲍ			
+8	5:28:1	w	لَئِنۢ	ﲎ	لين	If	la-in
+8	5:28:2	w	بَسَطتَ	ﲏ	بسطت	you stretch	basaṭta
+8	5:28:3	w	إِلَيَّ	ﲐ	الي	towards me	ilayya
+8	5:28:4	w	يَدَكَ	ﲑ	يدك	your hand	yadaka
+9	5:28:5	w	لِتَقۡتُلَنِي	ﲒ	لتقتلني	to kill me	litaqtulanī
+9	5:28:6	w	مَآ	ﲓ	ما	not	mā
+9	5:28:7	w	أَنَا۠	ﲔ	انا	will I	anā
+9	5:28:8	w	بِبَاسِطٖ	ﲕ	بباسط	stretch	bibāsiṭin
+9	5:28:9	w	يَدِيَ	ﲖ	يدي	my hand	yadiya
+9	5:28:10	w	إِلَيۡكَ	ﲗ	اليك	towards you	ilayka
+9	5:28:11	w	لِأَقۡتُلَكَۖ	ﲘﲙ	لاقتلك	to kill you	li-aqtulaka
+9	5:28:12	w	إِنِّيٓ	ﲚ	اني	indeed I	innī
+9	5:28:13	w	أَخَافُ	ﲛ	اخاف	fear	akhāfu
+9	5:28:14	w	ٱللَّهَ	ﲜ	الله	Allah	l-laha
+10	5:28:15	w	رَبَّ	ﲝ	رب	(the) Lord	rabba
+10	5:28:16	w	ٱلۡعَٰلَمِينَ	ﲞ	العالمين	(of) the worlds	l-ʿālamīna
+10	5:28:17	e	٢٨	ﲟ			
+10	5:29:1	w	إِنِّيٓ	ﲠ	اني	Indeed, I	innī
+10	5:29:2	w	أُرِيدُ	ﲡ	اريد	wish	urīdu
+10	5:29:3	w	أَن	ﲢ	ان	that	an
+10	5:29:4	w	تَبُوٓأَ	ﲣ	تبوء	you be laden	tabūa
+10	5:29:5	w	بِإِثۡمِي	ﲤ	باثمي	with my sin	bi-ith'mī
+10	5:29:6	w	وَإِثۡمِكَ	ﲥ	واثمك	and your sin	wa-ith'mika
+10	5:29:7	w	فَتَكُونَ	ﲦ	فتكون	so you will be	fatakūna
+11	5:29:8	w	مِنۡ	ﲧ	من	among	min
+11	5:29:9	w	أَصۡحَٰبِ	ﲨ	اصحاب	(the) companions	aṣḥābi
+11	5:29:10	w	ٱلنَّارِۚ	ﲩﲪ	النار	(of) the Fire	l-nāri
+11	5:29:11	w	وَذَٰلِكَ	ﲫ	وذالك	and that	wadhālika
+11	5:29:12	w	جَزَٰٓؤُاْ	ﲬ	جزاء	(is the) recompense	jazāu
+11	5:29:13	w	ٱلظَّٰلِمِينَ	ﲭ	الظالمين	(of) the wrong-doers	l-ẓālimīna
+11	5:29:14	e	٢٩	ﲮ			
+11	5:30:1	w	فَطَوَّعَتۡ	ﲯ	فطوعت	Then prompted	faṭawwaʿat
+12	5:30:2	w	لَهُۥ	ﲰ	له	to him	lahu
+12	5:30:3	w	نَفۡسُهُۥ	ﲱ	نفسه	his soul	nafsuhu
+12	5:30:4	w	قَتۡلَ	ﲲ	قتل	(to) kill	qatla
+12	5:30:5	w	أَخِيهِ	ﲳ	اخيه	his brother	akhīhi
+12	5:30:6	w	فَقَتَلَهُۥ	ﲴ	فقتله	so he killed him	faqatalahu
+12	5:30:7	w	فَأَصۡبَحَ	ﲵ	فاصبح	and became	fa-aṣbaḥa
+12	5:30:8	w	مِنَ	ﲶ	من	of	mina
+12	5:30:9	w	ٱلۡخَٰسِرِينَ	ﲷ	الخاسرين	the losers	l-khāsirīna
+12	5:30:10	e	٣٠	ﲸ			
+13	5:31:1	w	فَبَعَثَ	ﲹ	فبعث	Then (was) sent	fabaʿatha
+13	5:31:2	w	ٱللَّهُ	ﲺ	الله	(by) Allah	l-lahu
+13	5:31:3	w	غُرَابٗا	ﲻ	غرابا	a crow	ghurāban
+13	5:31:4	w	يَبۡحَثُ	ﲼ	يبحث	it (was) scratching	yabḥathu
+13	5:31:5	w	فِي	ﲽ	في	in	fī
+13	5:31:6	w	ٱلۡأَرۡضِ	ﲾ	الارض	the earth	l-arḍi
+13	5:31:7	w	لِيُرِيَهُۥ	ﲿ	ليريه	to show him	liyuriyahu
+13	5:31:8	w	كَيۡفَ	ﳀ	كيف	how	kayfa
+13	5:31:9	w	يُوَٰرِي	ﳁ	يواري	to hide	yuwārī
+14	5:31:10	w	سَوۡءَةَ	ﳂ	سوءة	(the) dead body	sawata
+14	5:31:11	w	أَخِيهِۚ	ﳃﳄ	اخيه	(of) his brother	akhīhi
+14	5:31:12	w	قَالَ	ﳅ	قال	He said	qāla
+14	5:31:13	w	يَٰوَيۡلَتَىٰٓ	ﳆ	يا ويلتا	Woe to me	yāwaylatā
+14	5:31:14	w	أَعَجَزۡتُ	ﳇ	اعجزت	Am I unable	aʿajaztu
+14	5:31:15	w	أَنۡ	ﳈ	ان	that	an
+14	5:31:16	w	أَكُونَ	ﳉ	اكون	I can be	akūna
+14	5:31:17	w	مِثۡلَ	ﳊ	مثل	like	mith'la
+14	5:31:18	w	هَٰذَا	ﳋ	هاذا	this	hādhā
+15	5:31:19	w	ٱلۡغُرَابِ	ﳌ	الغراب	[the] crow	l-ghurābi
+15	5:31:20	w	فَأُوَٰرِيَ	ﳍ	فاواري	and hide	fa-uwāriya
+15	5:31:21	w	سَوۡءَةَ	ﳎ	سوءة	(the) dead body	sawata
+15	5:31:22	w	أَخِيۖ	ﳏﳐ	اخي	(of) my brother	akhī
+15	5:31:23	w	فَأَصۡبَحَ	ﳑ	فاصبح	Then he became	fa-aṣbaḥa
+15	5:31:24	w	مِنَ	ﳒ	من	of	mina
+15	5:31:25	w	ٱلنَّٰدِمِينَ	ﳓ	النادمين	the regretful	l-nādimīna
+15	5:31:26	e	٣١	ﳔ			

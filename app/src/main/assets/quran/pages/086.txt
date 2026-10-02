@@ -1,0 +1,146 @@
+1	4:45:1	w	وَٱللَّهُ	ﱁ	والله	And Allah	wal-lahu
+1	4:45:2	w	أَعۡلَمُ	ﱂ	اعلم	knows better	aʿlamu
+1	4:45:3	w	بِأَعۡدَآئِكُمۡۚ	ﱃﱄ	باعدايكم	about your enemies	bi-aʿdāikum
+1	4:45:4	w	وَكَفَىٰ	ﱅ	وكفى	and (is) sufficient	wakafā
+1	4:45:5	w	بِٱللَّهِ	ﱆ	بالله	Allah	bil-lahi
+1	4:45:6	w	وَلِيّٗا	ﱇ	وليا	(as) a Protector	waliyyan
+1	4:45:7	w	وَكَفَىٰ	ﱈ	وكفى	and sufficient	wakafā
+1	4:45:8	w	بِٱللَّهِ	ﱉ	بالله	(is) Allah	bil-lahi
+1	4:45:9	w	نَصِيرٗا	ﱊ	نصيرا	(as) a Helper	naṣīran
+1	4:45:10	e	٤٥	ﱋ			
+2	4:46:1	w	مِّنَ	ﱌ	من	Of	mina
+2	4:46:2	w	ٱلَّذِينَ	ﱍ	الذين	those who	alladhīna
+2	4:46:3	w	هَادُواْ	ﱎ	هادوا	are Jews	hādū
+2	4:46:4	w	يُحَرِّفُونَ	ﱏ	يحرفون	they distort	yuḥarrifūna
+2	4:46:5	w	ٱلۡكَلِمَ	ﱐ	الكلم	the words	l-kalima
+2	4:46:6	w	عَن	ﱑ	عن	from	ʿan
+2	4:46:7	w	مَّوَاضِعِهِۦ	ﱒ	مواضعه	their places	mawāḍiʿihi
+2	4:46:8	w	وَيَقُولُونَ	ﱓ	ويقولون	and they say	wayaqūlūna
+3	4:46:9	w	سَمِعۡنَا	ﱔ	سمعنا	We hear[d]	samiʿ'nā
+3	4:46:10	w	وَعَصَيۡنَا	ﱕ	وعصينا	and we disobey[ed]	waʿaṣaynā
+3	4:46:11	w	وَٱسۡمَعۡ	ﱖ	واسمع	and "Hear	wa-is'maʿ
+3	4:46:12	w	غَيۡرَ	ﱗ	غير	not	ghayra
+3	4:46:13	w	مُسۡمَعٖ	ﱘ	مسمع	to be heard	mus'maʿin
+3	4:46:14	w	وَرَٰعِنَا	ﱙ	وراعنا	and "Raina	warāʿinā
+3	4:46:15	w	لَيَّۢا	ﱚ	ليا	twisting	layyan
+3	4:46:16	w	بِأَلۡسِنَتِهِمۡ	ﱛ	بالسنتهم	[with] their tongues	bi-alsinatihim
+4	4:46:17	w	وَطَعۡنٗا	ﱜ	وطعنا	and defaming	waṭaʿnan
+4	4:46:18	w	فِي	ﱝ	في	[in]	fī
+4	4:46:19	w	ٱلدِّينِۚ	ﱞﱟ	الدين	the religion	l-dīni
+4	4:46:20	w	وَلَوۡ	ﱠ	ولو	And if	walaw
+4	4:46:21	w	أَنَّهُمۡ	ﱡ	انهم	[that] they	annahum
+4	4:46:22	w	قَالُواْ	ﱢ	قالوا	(had) said	qālū
+4	4:46:23	w	سَمِعۡنَا	ﱣ	سمعنا	We hear[d]	samiʿ'nā
+4	4:46:24	w	وَأَطَعۡنَا	ﱤ	واطعنا	and we obey[ed]	wa-aṭaʿnā
+4	4:46:25	w	وَٱسۡمَعۡ	ﱥ	واسمع	and "Hear	wa-is'maʿ
+4	4:46:26	w	وَٱنظُرۡنَا	ﱦ	وانظرنا	and look (at) us	wa-unẓur'nā
+5	4:46:27	w	لَكَانَ	ﱧ	لكان	surely it (would) have been	lakāna
+5	4:46:28	w	خَيۡرٗا	ﱨ	خيرا	better	khayran
+5	4:46:29	w	لَّهُمۡ	ﱩ	لهم	for them	lahum
+5	4:46:30	w	وَأَقۡوَمَ	ﱪ	واقوم	and more suitable	wa-aqwama
+5	4:46:31	w	وَلَٰكِن	ﱫ	ولاكن	[And] but	walākin
+5	4:46:32	w	لَّعَنَهُمُ	ﱬ	لعنهم	cursed them	laʿanahumu
+5	4:46:33	w	ٱللَّهُ	ﱭ	الله	Allah	l-lahu
+5	4:46:34	w	بِكُفۡرِهِمۡ	ﱮ	بكفرهم	for their disbelief	bikuf'rihim
+5	4:46:35	w	فَلَا	ﱯ	فلا	so not	falā
+5	4:46:36	w	يُؤۡمِنُونَ	ﱰ	يومنون	they believe	yu'minūna
+6	4:46:37	w	إِلَّا	ﱱ	الا	except	illā
+6	4:46:38	w	قَلِيلٗا	ﱲ	قليلا	a few	qalīlan
+6	4:46:39	e	٤٦	ﱳ			
+6	4:47:1	w	يَٰٓأَيُّهَا	ﱴ	يا ايها	O you	yāayyuhā
+6	4:47:2	w	ٱلَّذِينَ	ﱵ	الذين	who	alladhīna
+6	4:47:3	w	أُوتُواْ	ﱶ	اوتوا	(have) been given	ūtū
+6	4:47:4	w	ٱلۡكِتَٰبَ	ﱷ	الكتاب	the Book	l-kitāba
+6	4:47:5	w	ءَامِنُواْ	ﱸ	امنوا	believe	āminū
+6	4:47:6	w	بِمَا	ﱹ	بما	in what	bimā
+6	4:47:7	w	نَزَّلۡنَا	ﱺ	نزلنا	We (have) revealed	nazzalnā
+7	4:47:8	w	مُصَدِّقٗا	ﱻ	مصدقا	confirming	muṣaddiqan
+7	4:47:9	w	لِّمَا	ﱼ	لما	what is	limā
+7	4:47:10	w	مَعَكُم	ﱽ	معكم	with you	maʿakum
+7	4:47:11	w	مِّن	ﱾ	من	from	min
+7	4:47:12	w	قَبۡلِ	ﱿ	قبل	before	qabli
+7	4:47:13	w	أَن	ﲀ	ان	[that]	an
+7	4:47:14	w	نَّطۡمِسَ	ﲁ	نطمس	We efface	naṭmisa
+7	4:47:15	w	وُجُوهٗا	ﲂ	وجوها	faces	wujūhan
+7	4:47:16	w	فَنَرُدَّهَا	ﲃ	فنردها	and turn them	fanaruddahā
+8	4:47:17	w	عَلَىٰٓ	ﲄ	على	on	ʿalā
+8	4:47:18	w	أَدۡبَارِهَآ	ﲅ	ادبارها	their backs	adbārihā
+8	4:47:19	w	أَوۡ	ﲆ	او	or	aw
+8	4:47:20	w	نَلۡعَنَهُمۡ	ﲇ	نلعنهم	We curse them	nalʿanahum
+8	4:47:21	w	كَمَا	ﲈ	كما	as	kamā
+8	4:47:22	w	لَعَنَّآ	ﲉ	لعنا	We cursed	laʿannā
+8	4:47:23	w	أَصۡحَٰبَ	ﲊ	اصحاب	companions	aṣḥāba
+8	4:47:24	w	ٱلسَّبۡتِۚ	ﲋﲌ	السبت	(of) the Sabbath	l-sabti
+8	4:47:25	w	وَكَانَ	ﲍ	وكان	And is	wakāna
+8	4:47:26	w	أَمۡرُ	ﲎ	امر	(the) command	amru
+9	4:47:27	w	ٱللَّهِ	ﲏ	الله	(of) Allah	l-lahi
+9	4:47:28	w	مَفۡعُولًا	ﲐ	مفعولا	(always) executed	mafʿūlan
+9	4:47:29	e	٤٧	ﲑ			
+9	4:48:1	w	إِنَّ	ﲒ	ان	Indeed	inna
+9	4:48:2	w	ٱللَّهَ	ﲓ	الله	Allah	l-laha
+9	4:48:3	w	لَا	ﲔ	لا	(does) not	lā
+9	4:48:4	w	يَغۡفِرُ	ﲕ	يغفر	forgive	yaghfiru
+9	4:48:5	w	أَن	ﲖ	ان	that	an
+9	4:48:6	w	يُشۡرَكَ	ﲗ	يشرك	partners be associated	yush'raka
+9	4:48:7	w	بِهِۦ	ﲘ	به	with Him	bihi
+9	4:48:8	w	وَيَغۡفِرُ	ﲙ	ويغفر	but He forgives	wayaghfiru
+9	4:48:9	w	مَا	ﲚ	ما	from	mā
+9	4:48:10	w	دُونَ	ﲛ	دون	other than	dūna
+10	4:48:11	w	ذَٰلِكَ	ﲜ	ذالك	that	dhālika
+10	4:48:12	w	لِمَن	ﲝ	لمن	for whom	liman
+10	4:48:13	w	يَشَآءُۚ	ﲞﲟ	يشاء	He wills	yashāu
+10	4:48:14	w	وَمَن	ﲠ	ومن	And whoever	waman
+10	4:48:15	w	يُشۡرِكۡ	ﲡ	يشرك	associates partners	yush'rik
+10	4:48:16	w	بِٱللَّهِ	ﲢ	بالله	with Allah	bil-lahi
+10	4:48:17	w	فَقَدِ	ﲣ	فقد	then surely	faqadi
+10	4:48:18	w	ٱفۡتَرَىٰٓ	ﲤ	افترى	he has fabricated	if'tarā
+10	4:48:19	w	إِثۡمًا	ﲥ	اثما	a sin	ith'man
+10	4:48:20	w	عَظِيمًا	ﲦ	عظيما	tremendous	ʿaẓīman
+11	4:48:21	e	٤٨	ﲧ			
+11	4:49:1	w	أَلَمۡ	ﲨ	الم	Do not	alam
+11	4:49:2	w	تَرَ	ﲩ	تر	you see	tara
+11	4:49:3	w	إِلَى	ﲪ	الى	[towards]	ilā
+11	4:49:4	w	ٱلَّذِينَ	ﲫ	الذين	those who	alladhīna
+11	4:49:5	w	يُزَكُّونَ	ﲬ	يزكون	claim purity	yuzakkūna
+11	4:49:6	w	أَنفُسَهُمۚ	ﲭﲮ	انفسهم	(for) themselves	anfusahum
+11	4:49:7	w	بَلِ	ﲯ	بل	Nay	bali
+11	4:49:8	w	ٱللَّهُ	ﲰ	الله	(it is) Allah	l-lahu
+11	4:49:9	w	يُزَكِّي	ﲱ	يزكي	He purifies	yuzakkī
+11	4:49:10	w	مَن	ﲲ	من	whom	man
+11	4:49:11	w	يَشَآءُ	ﲳ	يشاء	He wills	yashāu
+12	4:49:12	w	وَلَا	ﲴ	ولا	and not	walā
+12	4:49:13	w	يُظۡلَمُونَ	ﲵ	يظلمون	they will be wronged	yuẓ'lamūna
+12	4:49:14	w	فَتِيلًا	ﲶ	فتيلا	(even as much as) a hair on a date-seed	fatīlan
+12	4:49:15	e	٤٩	ﲷ			
+12	4:50:1	w	ٱنظُرۡ	ﲸ	انظر	See	unẓur
+12	4:50:2	w	كَيۡفَ	ﲹ	كيف	how	kayfa
+12	4:50:3	w	يَفۡتَرُونَ	ﲺ	يفترون	they invent	yaftarūna
+12	4:50:4	w	عَلَى	ﲻ	على	about	ʿalā
+12	4:50:5	w	ٱللَّهِ	ﲼ	الله	Allah	l-lahi
+12	4:50:6	w	ٱلۡكَذِبَۖ	ﲽﲾ	الكذب	[the] lie	l-kadhiba
+13	4:50:7	w	وَكَفَىٰ	ﲿ	وكفى	and sufficient	wakafā
+13	4:50:8	w	بِهِۦٓ	ﳀ	به	is it	bihi
+13	4:50:9	w	إِثۡمٗا	ﳁ	اثما	(as) a sin	ith'man
+13	4:50:10	w	مُّبِينًا	ﳂ	مبينا	manifest	mubīnan
+13	4:50:11	e	٥٠	ﳃ			
+13	4:51:1	w	أَلَمۡ	ﳄ	الم	Do not	alam
+13	4:51:2	w	تَرَ	ﳅ	تر	you see	tara
+13	4:51:3	w	إِلَى	ﳆ	الى	[towards]	ilā
+13	4:51:4	w	ٱلَّذِينَ	ﳇ	الذين	those who	alladhīna
+13	4:51:5	w	أُوتُواْ	ﳈ	اوتوا	were given	ūtū
+13	4:51:6	w	نَصِيبٗا	ﳉ	نصيبا	a portion	naṣīban
+14	4:51:7	w	مِّنَ	ﳊ	من	of	mina
+14	4:51:8	w	ٱلۡكِتَٰبِ	ﳋ	الكتاب	the Book	l-kitābi
+14	4:51:9	w	يُؤۡمِنُونَ	ﳌ	يومنون	They believe	yu'minūna
+14	4:51:10	w	بِٱلۡجِبۡتِ	ﳍ	بالجبت	in the superstition	bil-jib'ti
+14	4:51:11	w	وَٱلطَّٰغُوتِ	ﳎ	والطاغوت	and the false deities	wal-ṭāghūti
+14	4:51:12	w	وَيَقُولُونَ	ﳏ	ويقولون	and they say	wayaqūlūna
+15	4:51:13	w	لِلَّذِينَ	ﳐ	للذين	for those who	lilladhīna
+15	4:51:14	w	كَفَرُواْ	ﳑ	كفروا	disbelieve[d]	kafarū
+15	4:51:15	w	هَٰٓؤُلَآءِ	ﳒ	هاولاء	These	hāulāi
+15	4:51:16	w	أَهۡدَىٰ	ﳓ	اهدى	(are) better guided	ahdā
+15	4:51:17	w	مِنَ	ﳔ	من	than	mina
+15	4:51:18	w	ٱلَّذِينَ	ﳕ	الذين	those who	alladhīna
+15	4:51:19	w	ءَامَنُواْ	ﳖ	امنوا	believe[d]	āmanū
+15	4:51:20	w	سَبِيلًا	ﳗ	سبيلا	(as to the) way	sabīlan
+15	4:51:21	e	٥١	ﳘ			

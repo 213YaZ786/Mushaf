@@ -1,0 +1,132 @@
+1	6:147:1	w	فَإِن	ﱁ	فان	But if	fa-in
+1	6:147:2	w	كَذَّبُوكَ	ﱂ	كذبوك	they deny you	kadhabūka
+1	6:147:3	w	فَقُل	ﱃ	فقل	then say	faqul
+1	6:147:4	w	رَّبُّكُمۡ	ﱄ	ربكم	Your Lord	rabbukum
+1	6:147:5	w	ذُو	ﱅ	ذو	(is the) Possessor	dhū
+1	6:147:6	w	رَحۡمَةٖ	ﱆ	رحمة	(of) Mercy	raḥmatin
+1	6:147:7	w	وَٰسِعَةٖ	ﱇ	واسعة	Vast	wāsiʿatin
+1	6:147:8	w	وَلَا	ﱈ	ولا	but not	walā
+1	6:147:9	w	يُرَدُّ	ﱉ	يرد	will be turned back	yuraddu
+2	6:147:10	w	بَأۡسُهُۥ	ﱊ	باسه	His wrath	basuhu
+2	6:147:11	w	عَنِ	ﱋ	عن	from	ʿani
+2	6:147:12	w	ٱلۡقَوۡمِ	ﱌ	القوم	the people	l-qawmi
+2	6:147:13	w	ٱلۡمُجۡرِمِينَ	ﱍ	المجرمين	(who are) criminals	l-muj'rimīna
+2	6:147:14	e	١٤٧	ﱎ			
+2	6:148:1	w	سَيَقُولُ	ﱏ	سيقول	Will say	sayaqūlu
+2	6:148:2	w	ٱلَّذِينَ	ﱐ	الذين	those who	alladhīna
+2	6:148:3	w	أَشۡرَكُواْ	ﱑ	اشركوا	associate partners (with Allah)	ashrakū
+3	6:148:4	w	لَوۡ	ﱒ	لو	If	law
+3	6:148:5	w	شَآءَ	ﱓ	شاء	Had willed	shāa
+3	6:148:6	w	ٱللَّهُ	ﱔ	الله	Allah	l-lahu
+3	6:148:7	w	مَآ	ﱕ	ما	not	mā
+3	6:148:8	w	أَشۡرَكۡنَا	ﱖ	اشركنا	we (would) have associated partners (with Allah)	ashraknā
+3	6:148:9	w	وَلَآ	ﱗ	ولا	and not	walā
+3	6:148:10	w	ءَابَآؤُنَا	ﱘ	اباونا	our forefathers	ābāunā
+3	6:148:11	w	وَلَا	ﱙ	ولا	and not	walā
+3	6:148:12	w	حَرَّمۡنَا	ﱚ	حرمنا	we (would) have forbidden	ḥarramnā
+3	6:148:13	w	مِن	ﱛ	من	[of]	min
+3	6:148:14	w	شَيۡءٖۚ	ﱜﱝ	شيء	anything	shayin
+4	6:148:15	w	كَذَٰلِكَ	ﱞ	كذالك	Likewise	kadhālika
+4	6:148:16	w	كَذَّبَ	ﱟ	كذب	denied	kadhaba
+4	6:148:17	w	ٱلَّذِينَ	ﱠ	الذين	those who	alladhīna
+4	6:148:18	w	مِن	ﱡ	من	(were from)	min
+4	6:148:19	w	قَبۡلِهِمۡ	ﱢ	قبلهم	before them	qablihim
+4	6:148:20	w	حَتَّىٰ	ﱣ	حتى	until	ḥattā
+4	6:148:21	w	ذَاقُواْ	ﱤ	ذاقوا	they tasted	dhāqū
+4	6:148:22	w	بَأۡسَنَاۗ	ﱥﱦ	باسنا	Our wrath	basanā
+5	6:148:23	w	قُلۡ	ﱧ	قل	Say	qul
+5	6:148:24	w	هَلۡ	ﱨ	هل	Is	hal
+5	6:148:25	w	عِندَكُم	ﱩ	عندكم	with you	ʿindakum
+5	6:148:26	w	مِّنۡ	ﱪ	من	[of]	min
+5	6:148:27	w	عِلۡمٖ	ﱫ	علم	any knowledge	ʿil'min
+5	6:148:28	w	فَتُخۡرِجُوهُ	ﱬ	فتخرجوه	then produce it	fatukh'rijūhu
+5	6:148:29	w	لَنَآۖ	ﱭﱮ	لنا	for us	lanā
+5	6:148:30	w	إِن	ﱯ	ان	Not	in
+5	6:148:31	w	تَتَّبِعُونَ	ﱰ	تتبعون	you follow	tattabiʿūna
+5	6:148:32	w	إِلَّا	ﱱ	الا	except	illā
+6	6:148:33	w	ٱلظَّنَّ	ﱲ	الظن	the assumption	l-ẓana
+6	6:148:34	w	وَإِنۡ	ﱳ	وان	and not	wa-in
+6	6:148:35	w	أَنتُمۡ	ﱴ	انتم	you (do)	antum
+6	6:148:36	w	إِلَّا	ﱵ	الا	but	illā
+6	6:148:37	w	تَخۡرُصُونَ	ﱶ	تخرصون	guess	takhruṣūna
+6	6:148:38	e	١٤٨	ﱷ			
+6	6:149:1	w	قُلۡ	ﱸ	قل	Say	qul
+6	6:149:2	w	فَلِلَّهِ	ﱹ	فلله	With Allah	falillahi
+6	6:149:3	w	ٱلۡحُجَّةُ	ﱺ	الحجة	(is) the argument	l-ḥujatu
+6	6:149:4	w	ٱلۡبَٰلِغَةُۖ	ﱻﱼ	البالغة	the conclusive	l-bālighatu
+7	6:149:5	w	فَلَوۡ	ﱽ	فلو	And if	falaw
+7	6:149:6	w	شَآءَ	ﱾ	شاء	He (had) willed	shāa
+7	6:149:7	w	لَهَدَىٰكُمۡ	ﱿ	لهداكم	surely He (would) have guided you	lahadākum
+7	6:149:8	w	أَجۡمَعِينَ	ﲀ	اجمعين	all	ajmaʿīna
+7	6:149:9	e	١٤٩	ﲁ			
+7	6:150:1	w	قُلۡ	ﲂ	قل	Say	qul
+7	6:150:2	w	هَلُمَّ	ﲃ	هلم	Bring forward	halumma
+7	6:150:3	w	شُهَدَآءَكُمُ	ﲄ	شهداءكم	your witnesses	shuhadāakumu
+8	6:150:4	w	ٱلَّذِينَ	ﲅ	الذين	those who	alladhīna
+8	6:150:5	w	يَشۡهَدُونَ	ﲆ	يشهدون	testify	yashhadūna
+8	6:150:6	w	أَنَّ	ﲇ	ان	that	anna
+8	6:150:7	w	ٱللَّهَ	ﲈ	الله	Allah	l-laha
+8	6:150:8	w	حَرَّمَ	ﲉ	حرم	prohibited	ḥarrama
+8	6:150:9	w	هَٰذَاۖ	ﲊﲋ	هاذا	this	hādhā
+8	6:150:10	w	فَإِن	ﲌ	فان	Then if	fa-in
+8	6:150:11	w	شَهِدُواْ	ﲍ	شهدوا	they testify	shahidū
+8	6:150:12	w	فَلَا	ﲎ	فلا	then (do) not	falā
+8	6:150:13	w	تَشۡهَدۡ	ﲏ	تشهد	testify	tashhad
+9	6:150:14	w	مَعَهُمۡۚ	ﲐﲑ	معهم	with them	maʿahum
+9	6:150:15	w	وَلَا	ﲒ	ولا	And (do) not	walā
+9	6:150:16	w	تَتَّبِعۡ	ﲓ	تتبع	follow	tattabiʿ
+9	6:150:17	w	أَهۡوَآءَ	ﲔ	اهواء	(the) desires	ahwāa
+9	6:150:18	w	ٱلَّذِينَ	ﲕ	الذين	(of) those who	alladhīna
+9	6:150:19	w	كَذَّبُواْ	ﲖ	كذبوا	denied	kadhabū
+9	6:150:20	w	بِـَٔايَٰتِنَا	ﲗ	باياتنا	Our Signs	biāyātinā
+9	6:150:21	w	وَٱلَّذِينَ	ﲘ	والذين	and those who	wa-alladhīna
+10	6:150:22	w	لَا	ﲙ	لا	(do) not	lā
+10	6:150:23	w	يُؤۡمِنُونَ	ﲚ	يومنون	believe	yu'minūna
+10	6:150:24	w	بِٱلۡأٓخِرَةِ	ﲛ	بالاخرة	in the Hereafter	bil-ākhirati
+10	6:150:25	w	وَهُم	ﲜ	وهم	while they	wahum
+10	6:150:26	w	بِرَبِّهِمۡ	ﲝ	بربهم	with their Lord	birabbihim
+10	6:150:27	w	يَعۡدِلُونَ	ﲞ	يعدلون	set up equals	yaʿdilūna
+10	6:150:28	e	١٥٠	ﲟ			
+10	6:151:1	w	۞ قُلۡ	ﲠ ﲡ	۞ قل	Say	qul
+11	6:151:2	w	تَعَالَوۡاْ	ﲢ	تعالوا	Come	taʿālaw
+11	6:151:3	w	أَتۡلُ	ﲣ	اتل	I will recite	atlu
+11	6:151:4	w	مَا	ﲤ	ما	what	mā
+11	6:151:5	w	حَرَّمَ	ﲥ	حرم	has prohibited	ḥarrama
+11	6:151:6	w	رَبُّكُمۡ	ﲦ	ربكم	your Lord	rabbukum
+11	6:151:7	w	عَلَيۡكُمۡۖ	ﲧﲨ	عليكم	to you	ʿalaykum
+11	6:151:8	w	أَلَّا	ﲩ	الا	That (do) not	allā
+11	6:151:9	w	تُشۡرِكُواْ	ﲪ	تشركوا	associate	tush'rikū
+12	6:151:10	w	بِهِۦ	ﲫ	به	with Him	bihi
+12	6:151:11	w	شَيۡـٔٗاۖ	ﲬﲭ	شييا	anything	shayan
+12	6:151:12	w	وَبِٱلۡوَٰلِدَيۡنِ	ﲮ	وبالوالدين	and with the parents	wabil-wālidayni
+12	6:151:13	w	إِحۡسَٰنٗاۖ	ﲯﲰ	احسانا	(be) good	iḥ'sānan
+12	6:151:14	w	وَلَا	ﲱ	ولا	and (do) not	walā
+12	6:151:15	w	تَقۡتُلُوٓاْ	ﲲ	تقتلوا	kill	taqtulū
+12	6:151:16	w	أَوۡلَٰدَكُم	ﲳ	اولادكم	your children	awlādakum
+13	6:151:17	w	مِّنۡ	ﲴ	من	(out) of	min
+13	6:151:18	w	إِمۡلَٰقٖ	ﲵ	املاق	poverty	im'lāqin
+13	6:151:19	w	نَّحۡنُ	ﲶ	نحن	We	naḥnu
+13	6:151:20	w	نَرۡزُقُكُمۡ	ﲷ	نرزقكم	provide for you	narzuqukum
+13	6:151:21	w	وَإِيَّاهُمۡۖ	ﲸﲹ	واياهم	and for them	wa-iyyāhum
+13	6:151:22	w	وَلَا	ﲺ	ولا	And (do) not	walā
+13	6:151:23	w	تَقۡرَبُواْ	ﲻ	تقربوا	go near	taqrabū
+13	6:151:24	w	ٱلۡفَوَٰحِشَ	ﲼ	الفواحش	[the] immoralities	l-fawāḥisha
+14	6:151:25	w	مَا	ﲽ	ما	what	mā
+14	6:151:26	w	ظَهَرَ	ﲾ	ظهر	(is) apparent	ẓahara
+14	6:151:27	w	مِنۡهَا	ﲿ	منها	of them	min'hā
+14	6:151:28	w	وَمَا	ﳀ	وما	and what	wamā
+14	6:151:29	w	بَطَنَۖ	ﳁﳂ	بطن	(is) concealed	baṭana
+14	6:151:30	w	وَلَا	ﳃ	ولا	And (do) not	walā
+14	6:151:31	w	تَقۡتُلُواْ	ﳄ	تقتلوا	kill	taqtulū
+14	6:151:32	w	ٱلنَّفۡسَ	ﳅ	النفس	the soul	l-nafsa
+14	6:151:33	w	ٱلَّتِي	ﳆ	التي	which	allatī
+14	6:151:34	w	حَرَّمَ	ﳇ	حرم	has (been) forbidden	ḥarrama
+14	6:151:35	w	ٱللَّهُ	ﳈ	الله	(by) Allah	l-lahu
+15	6:151:36	w	إِلَّا	ﳉ	الا	except	illā
+15	6:151:37	w	بِٱلۡحَقِّۚ	ﳊﳋ	بالحق	by (legal) right	bil-ḥaqi
+15	6:151:38	w	ذَٰلِكُمۡ	ﳌ	ذالكم	That	dhālikum
+15	6:151:39	w	وَصَّىٰكُم	ﳍ	وصاكم	(He) has enjoined on you	waṣṣākum
+15	6:151:40	w	بِهِۦ	ﳎ	به	with it	bihi
+15	6:151:41	w	لَعَلَّكُمۡ	ﳏ	لعلكم	so that you may	laʿallakum
+15	6:151:42	w	تَعۡقِلُونَ	ﳐ	تعقلون	use reason	taʿqilūna
+15	6:151:43	e	١٥١	ﳑ			

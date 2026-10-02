@@ -1,0 +1,143 @@
+1	7:58:1	w	وَٱلۡبَلَدُ	ﱁ	والبلد	And the land	wal-baladu
+1	7:58:2	w	ٱلطَّيِّبُ	ﱂ	الطيب	[the] pure	l-ṭayibu
+1	7:58:3	w	يَخۡرُجُ	ﱃ	يخرج	comes forth	yakhruju
+1	7:58:4	w	نَبَاتُهُۥ	ﱄ	نباته	its vegetation	nabātuhu
+1	7:58:5	w	بِإِذۡنِ	ﱅ	باذن	by (the) permission	bi-idh'ni
+1	7:58:6	w	رَبِّهِۦۖ	ﱆﱇ	ربه	(of) its Lord	rabbihi
+1	7:58:7	w	وَٱلَّذِي	ﱈ	والذي	but which	wa-alladhī
+1	7:58:8	w	خَبُثَ	ﱉ	خبث	is bad	khabutha
+1	7:58:9	w	لَا	ﱊ	لا	(does) not	lā
+1	7:58:10	w	يَخۡرُجُ	ﱋ	يخرج	come forth	yakhruju
+2	7:58:11	w	إِلَّا	ﱌ	الا	except	illā
+2	7:58:12	w	نَكِدٗاۚ	ﱍﱎ	نكدا	(with) difficulty	nakidan
+2	7:58:13	w	كَذَٰلِكَ	ﱏ	كذالك	Thus	kadhālika
+2	7:58:14	w	نُصَرِّفُ	ﱐ	نصرف	We explain	nuṣarrifu
+2	7:58:15	w	ٱلۡأٓيَٰتِ	ﱑ	الايات	the Signs	l-āyāti
+2	7:58:16	w	لِقَوۡمٖ	ﱒ	لقوم	for a people	liqawmin
+2	7:58:17	w	يَشۡكُرُونَ	ﱓ	يشكرون	who are grateful	yashkurūna
+2	7:58:18	e	٥٨	ﱔ			
+3	7:59:1	w	لَقَدۡ	ﱕ	لقد	Certainly	laqad
+3	7:59:2	w	أَرۡسَلۡنَا	ﱖ	ارسلنا	We sent	arsalnā
+3	7:59:3	w	نُوحًا	ﱗ	نوحا	Nuh	nūḥan
+3	7:59:4	w	إِلَىٰ	ﱘ	الى	to	ilā
+3	7:59:5	w	قَوۡمِهِۦ	ﱙ	قومه	his people	qawmihi
+3	7:59:6	w	فَقَالَ	ﱚ	فقال	and he said	faqāla
+3	7:59:7	w	يَٰقَوۡمِ	ﱛ	يا قوم	O my people	yāqawmi
+3	7:59:8	w	ٱعۡبُدُواْ	ﱜ	اعبدوا	Worship	uʿ'budū
+3	7:59:9	w	ٱللَّهَ	ﱝ	الله	Allah	l-laha
+3	7:59:10	w	مَا	ﱞ	ما	not	mā
+3	7:59:11	w	لَكُم	ﱟ	لكم	for you	lakum
+4	7:59:12	w	مِّنۡ	ﱠ	من	any	min
+4	7:59:13	w	إِلَٰهٍ	ﱡ	الاه	god	ilāhin
+4	7:59:14	w	غَيۡرُهُۥٓ	ﱢ	غيره	other than Him	ghayruhu
+4	7:59:15	w	إِنِّيٓ	ﱣ	اني	Indeed, I	innī
+4	7:59:16	w	أَخَافُ	ﱤ	اخاف	[I] fear	akhāfu
+4	7:59:17	w	عَلَيۡكُمۡ	ﱥ	عليكم	for you	ʿalaykum
+4	7:59:18	w	عَذَابَ	ﱦ	عذاب	punishment	ʿadhāba
+4	7:59:19	w	يَوۡمٍ	ﱧ	يوم	(of the) Day	yawmin
+4	7:59:20	w	عَظِيمٖ	ﱨ	عظيم	Great	ʿaẓīmin
+4	7:59:21	e	٥٩	ﱩ			
+5	7:60:1	w	قَالَ	ﱪ	قال	Said	qāla
+5	7:60:2	w	ٱلۡمَلَأُ	ﱫ	الملا	the chiefs	l-mala-u
+5	7:60:3	w	مِن	ﱬ	من	of	min
+5	7:60:4	w	قَوۡمِهِۦٓ	ﱭ	قومه	his people	qawmihi
+5	7:60:5	w	إِنَّا	ﱮ	انا	Indeed, we	innā
+5	7:60:6	w	لَنَرَىٰكَ	ﱯ	لنراك	surely see you	lanarāka
+5	7:60:7	w	فِي	ﱰ	في	in	fī
+5	7:60:8	w	ضَلَٰلٖ	ﱱ	ضلال	error	ḍalālin
+5	7:60:9	w	مُّبِينٖ	ﱲ	مبين	clear	mubīnin
+5	7:60:10	e	٦٠	ﱳ			
+5	7:61:1	w	قَالَ	ﱴ	قال	He said	qāla
+5	7:61:2	w	يَٰقَوۡمِ	ﱵ	يا قوم	O my people	yāqawmi
+6	7:61:3	w	لَيۡسَ	ﱶ	ليس	There is not	laysa
+6	7:61:4	w	بِي	ﱷ	بي	in me	bī
+6	7:61:5	w	ضَلَٰلَةٞ	ﱸ	ضلالة	error	ḍalālatun
+6	7:61:6	w	وَلَٰكِنِّي	ﱹ	ولاكني	but I am	walākinnī
+6	7:61:7	w	رَسُولٞ	ﱺ	رسول	a Messenger	rasūlun
+6	7:61:8	w	مِّن	ﱻ	من	from	min
+6	7:61:9	w	رَّبِّ	ﱼ	رب	(the) Lord	rabbi
+6	7:61:10	w	ٱلۡعَٰلَمِينَ	ﱽ	العالمين	(of) the worlds	l-ʿālamīna
+6	7:61:11	e	٦١	ﱾ			
+7	7:62:1	w	أُبَلِّغُكُمۡ	ﱿ	ابلغكم	I convey to you	uballighukum
+7	7:62:2	w	رِسَٰلَٰتِ	ﲀ	رسالات	the Messages	risālāti
+7	7:62:3	w	رَبِّي	ﲁ	ربي	(of) my Lord	rabbī
+7	7:62:4	w	وَأَنصَحُ	ﲂ	وانصح	and [I] advise	wa-anṣaḥu
+7	7:62:5	w	لَكُمۡ	ﲃ	لكم	[to] you	lakum
+7	7:62:6	w	وَأَعۡلَمُ	ﲄ	واعلم	and I know	wa-aʿlamu
+7	7:62:7	w	مِنَ	ﲅ	من	from	mina
+7	7:62:8	w	ٱللَّهِ	ﲆ	الله	Allah	l-lahi
+8	7:62:9	w	مَا	ﲇ	ما	what	mā
+8	7:62:10	w	لَا	ﲈ	لا	not	lā
+8	7:62:11	w	تَعۡلَمُونَ	ﲉ	تعلمون	you know	taʿlamūna
+8	7:62:12	e	٦٢	ﲊ			
+8	7:63:1	w	أَوَعَجِبۡتُمۡ	ﲋ	اوعجبتم	Do you wonder	awaʿajib'tum
+8	7:63:2	w	أَن	ﲌ	ان	that	an
+8	7:63:3	w	جَآءَكُمۡ	ﲍ	جاءكم	has come to you	jāakum
+8	7:63:4	w	ذِكۡرٞ	ﲎ	ذكر	a reminder	dhik'run
+8	7:63:5	w	مِّن	ﲏ	من	from	min
+8	7:63:6	w	رَّبِّكُمۡ	ﲐ	ربكم	your Lord	rabbikum
+9	7:63:7	w	عَلَىٰ	ﲑ	على	on	ʿalā
+9	7:63:8	w	رَجُلٖ	ﲒ	رجل	a man	rajulin
+9	7:63:9	w	مِّنكُمۡ	ﲓ	منكم	among you	minkum
+9	7:63:10	w	لِيُنذِرَكُمۡ	ﲔ	لينذركم	that he may warn you	liyundhirakum
+9	7:63:11	w	وَلِتَتَّقُواْ	ﲕ	ولتتقوا	and that you may fear	walitattaqū
+9	7:63:12	w	وَلَعَلَّكُمۡ	ﲖ	ولعلكم	and so that you may	walaʿallakum
+9	7:63:13	w	تُرۡحَمُونَ	ﲗ	ترحمون	receive mercy	tur'ḥamūna
+10	7:63:14	e	٦٣	ﲘ			
+10	7:64:1	w	فَكَذَّبُوهُ	ﲙ	فكذبوه	But they denied him	fakadhabūhu
+10	7:64:2	w	فَأَنجَيۡنَٰهُ	ﲚ	فانجيناه	so We saved him	fa-anjaynāhu
+10	7:64:3	w	وَٱلَّذِينَ	ﲛ	والذين	and those who	wa-alladhīna
+10	7:64:4	w	مَعَهُۥ	ﲜ	معه	(were) with him	maʿahu
+10	7:64:5	w	فِي	ﲝ	في	in	fī
+10	7:64:6	w	ٱلۡفُلۡكِ	ﲞ	الفلك	the ship	l-ful'ki
+10	7:64:7	w	وَأَغۡرَقۡنَا	ﲟ	واغرقنا	And We drowned	wa-aghraqnā
+10	7:64:8	w	ٱلَّذِينَ	ﲠ	الذين	those who	alladhīna
+11	7:64:9	w	كَذَّبُواْ	ﲡ	كذبوا	denied	kadhabū
+11	7:64:10	w	بِـَٔايَٰتِنَآۚ	ﲢﲣ	باياتنا	Our Verses	biāyātinā
+11	7:64:11	w	إِنَّهُمۡ	ﲤ	انهم	Indeed, they	innahum
+11	7:64:12	w	كَانُواْ	ﲥ	كانوا	were	kānū
+11	7:64:13	w	قَوۡمًا	ﲦ	قوما	a people	qawman
+11	7:64:14	w	عَمِينَ	ﲧ	عمين	blind	ʿamīna
+11	7:64:15	e	٦٤	ﲨ			
+11	7:65:1	w	۞ وَإِلَىٰ	ﲩ ﲪ	۞ والى	And to	wa-ilā
+12	7:65:2	w	عَادٍ	ﲫ	عاد	Aad	ʿādin
+12	7:65:3	w	أَخَاهُمۡ	ﲬ	اخاهم	(We sent) their brother	akhāhum
+12	7:65:4	w	هُودٗاۚ	ﲭﲮ	هودا	Hud	hūdan
+12	7:65:5	w	قَالَ	ﲯ	قال	He said	qāla
+12	7:65:6	w	يَٰقَوۡمِ	ﲰ	يا قوم	O my people	yāqawmi
+12	7:65:7	w	ٱعۡبُدُواْ	ﲱ	اعبدوا	Worship	uʿ'budū
+12	7:65:8	w	ٱللَّهَ	ﲲ	الله	Allah	l-laha
+12	7:65:9	w	مَا	ﲳ	ما	not	mā
+12	7:65:10	w	لَكُم	ﲴ	لكم	for you	lakum
+12	7:65:11	w	مِّنۡ	ﲵ	من	any	min
+12	7:65:12	w	إِلَٰهٍ	ﲶ	الاه	god	ilāhin
+13	7:65:13	w	غَيۡرُهُۥٓۚ	ﲷﲸ	غيره	other than Him	ghayruhu
+13	7:65:14	w	أَفَلَا	ﲹ	افلا	Then will not	afalā
+13	7:65:15	w	تَتَّقُونَ	ﲺ	تتقون	you fear (Allah)	tattaqūna
+13	7:65:16	e	٦٥	ﲻ			
+13	7:66:1	w	قَالَ	ﲼ	قال	Said	qāla
+13	7:66:2	w	ٱلۡمَلَأُ	ﲽ	الملا	the chiefs	l-mala-u
+13	7:66:3	w	ٱلَّذِينَ	ﲾ	الذين	(of) those who	alladhīna
+13	7:66:4	w	كَفَرُواْ	ﲿ	كفروا	disbelieved	kafarū
+13	7:66:5	w	مِن	ﳀ	من	from	min
+13	7:66:6	w	قَوۡمِهِۦٓ	ﳁ	قومه	his people	qawmihi
+14	7:66:7	w	إِنَّا	ﳂ	انا	Indeed, we	innā
+14	7:66:8	w	لَنَرَىٰكَ	ﳃ	لنراك	surely, see you	lanarāka
+14	7:66:9	w	فِي	ﳄ	في	in	fī
+14	7:66:10	w	سَفَاهَةٖ	ﳅ	سفاهة	foolishness	safāhatin
+14	7:66:11	w	وَإِنَّا	ﳆ	وانا	and indeed, we	wa-innā
+14	7:66:12	w	لَنَظُنُّكَ	ﳇ	لنظنك	[we] think you	lanaẓunnuka
+14	7:66:13	w	مِنَ	ﳈ	من	(are) of	mina
+14	7:66:14	w	ٱلۡكَٰذِبِينَ	ﳉ	الكاذبين	the liars	l-kādhibīna
+14	7:66:15	e	٦٦	ﳊ			
+15	7:67:1	w	قَالَ	ﳋ	قال	He said	qāla
+15	7:67:2	w	يَٰقَوۡمِ	ﳌ	يا قوم	O my people	yāqawmi
+15	7:67:3	w	لَيۡسَ	ﳍ	ليس	There is not	laysa
+15	7:67:4	w	بِي	ﳎ	بي	in me	bī
+15	7:67:5	w	سَفَاهَةٞ	ﳏ	سفاهة	foolishness	safāhatun
+15	7:67:6	w	وَلَٰكِنِّي	ﳐ	ولاكني	but I am	walākinnī
+15	7:67:7	w	رَسُولٞ	ﳑ	رسول	a Messenger	rasūlun
+15	7:67:8	w	مِّن	ﳒ	من	from	min
+15	7:67:9	w	رَّبِّ	ﳓ	رب	(the) Lord	rabbi
+15	7:67:10	w	ٱلۡعَٰلَمِينَ	ﳔ	العالمين	(of) the worlds	l-ʿālamīna
+15	7:67:11	e	٦٧	ﳕ			

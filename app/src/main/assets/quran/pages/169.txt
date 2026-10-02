@@ -1,0 +1,141 @@
+1	7:150:1	w	وَلَمَّا	ﱁ	ولما	And when	walammā
+1	7:150:2	w	رَجَعَ	ﱂ	رجع	returned	rajaʿa
+1	7:150:3	w	مُوسَىٰٓ	ﱃ	موسى	Musa	mūsā
+1	7:150:4	w	إِلَىٰ	ﱄ	الى	to	ilā
+1	7:150:5	w	قَوۡمِهِۦ	ﱅ	قومه	his people	qawmihi
+1	7:150:6	w	غَضۡبَٰنَ	ﱆ	غضبان	angry	ghaḍbāna
+1	7:150:7	w	أَسِفٗا	ﱇ	اسفا	and grieved	asifan
+1	7:150:8	w	قَالَ	ﱈ	قال	he said	qāla
+1	7:150:9	w	بِئۡسَمَا	ﱉ	بيسما	Evil is what	bi'samā
+1	7:150:10	w	خَلَفۡتُمُونِي	ﱊ	خلفتموني	you have done in my place	khalaftumūnī
+2	7:150:11	w	مِنۢ	ﱋ	من	from	min
+2	7:150:12	w	بَعۡدِيٓۖ	ﱌﱍ	بعدي	after me	baʿdī
+2	7:150:13	w	أَعَجِلۡتُمۡ	ﱎ	اعجلتم	Were you impatient	aʿajil'tum
+2	7:150:14	w	أَمۡرَ	ﱏ	امر	(over the) matter	amra
+2	7:150:15	w	رَبِّكُمۡۖ	ﱐﱑ	ربكم	(of) your Lord	rabbikum
+2	7:150:16	w	وَأَلۡقَى	ﱒ	والقى	And he cast down	wa-alqā
+2	7:150:17	w	ٱلۡأَلۡوَاحَ	ﱓ	الالواح	the tablets	l-alwāḥa
+2	7:150:18	w	وَأَخَذَ	ﱔ	واخذ	and seized	wa-akhadha
+2	7:150:19	w	بِرَأۡسِ	ﱕ	براس	by head	birasi
+3	7:150:20	w	أَخِيهِ	ﱖ	اخيه	his brother	akhīhi
+3	7:150:21	w	يَجُرُّهُۥٓ	ﱗ	يجره	dragging him	yajurruhu
+3	7:150:22	w	إِلَيۡهِۚ	ﱘﱙ	اليه	to himself	ilayhi
+3	7:150:23	w	قَالَ	ﱚ	قال	He said	qāla
+3	7:150:24	w	ٱبۡنَ	ﱛ	ابن	O son	ib'na
+3	7:150:25	w	أُمَّ	ﱜ	ام	(of) my mother	umma
+3	7:150:26	w	إِنَّ	ﱝ	ان	Indeed	inna
+3	7:150:27	w	ٱلۡقَوۡمَ	ﱞ	القوم	the people	l-qawma
+3	7:150:28	w	ٱسۡتَضۡعَفُونِي	ﱟ	استضعفوني	considered me weak	is'taḍʿafūnī
+3	7:150:29	w	وَكَادُواْ	ﱠ	وكادوا	and were about to	wakādū
+4	7:150:30	w	يَقۡتُلُونَنِي	ﱡ	يقتلونني	kill me	yaqtulūnanī
+4	7:150:31	w	فَلَا	ﱢ	فلا	So (let) not	falā
+4	7:150:32	w	تُشۡمِتۡ	ﱣ	تشمت	rejoice	tush'mit
+4	7:150:33	w	بِيَ	ﱤ	بي	over me	biya
+4	7:150:34	w	ٱلۡأَعۡدَآءَ	ﱥ	الاعداء	the enemies	l-aʿdāa
+4	7:150:35	w	وَلَا	ﱦ	ولا	and (do) not	walā
+4	7:150:36	w	تَجۡعَلۡنِي	ﱧ	تجعلني	place me	tajʿalnī
+4	7:150:37	w	مَعَ	ﱨ	مع	with	maʿa
+4	7:150:38	w	ٱلۡقَوۡمِ	ﱩ	القوم	the people	l-qawmi
+5	7:150:39	w	ٱلظَّٰلِمِينَ	ﱪ	الظالمين	(who are) wrongdoing	l-ẓālimīna
+5	7:150:40	e	١٥٠	ﱫ			
+5	7:151:1	w	قَالَ	ﱬ	قال	He said	qāla
+5	7:151:2	w	رَبِّ	ﱭ	رب	O my Lord	rabbi
+5	7:151:3	w	ٱغۡفِرۡ	ﱮ	اغفر	Forgive	igh'fir
+5	7:151:4	w	لِي	ﱯ	لي	me	lī
+5	7:151:5	w	وَلِأَخِي	ﱰ	ولاخي	and my brother	wali-akhī
+5	7:151:6	w	وَأَدۡخِلۡنَا	ﱱ	وادخلنا	and admit us	wa-adkhil'nā
+5	7:151:7	w	فِي	ﱲ	في	into	fī
+5	7:151:8	w	رَحۡمَتِكَۖ	ﱳﱴ	رحمتك	Your Mercy	raḥmatika
+6	7:151:9	w	وَأَنتَ	ﱵ	وانت	for You	wa-anta
+6	7:151:10	w	أَرۡحَمُ	ﱶ	ارحم	(are) the Most Merciful	arḥamu
+6	7:151:11	w	ٱلرَّٰحِمِينَ	ﱷ	الراحمين	(of) the merciful	l-rāḥimīna
+6	7:151:12	e	١٥١	ﱸ			
+6	7:152:1	w	إِنَّ	ﱹ	ان	Indeed	inna
+6	7:152:2	w	ٱلَّذِينَ	ﱺ	الذين	those who	alladhīna
+6	7:152:3	w	ٱتَّخَذُواْ	ﱻ	اتخذوا	took	ittakhadhū
+6	7:152:4	w	ٱلۡعِجۡلَ	ﱼ	العجل	the calf	l-ʿij'la
+6	7:152:5	w	سَيَنَالُهُمۡ	ﱽ	سينالهم	will reach them	sayanāluhum
+7	7:152:6	w	غَضَبٞ	ﱾ	غضب	wrath	ghaḍabun
+7	7:152:7	w	مِّن	ﱿ	من	from	min
+7	7:152:8	w	رَّبِّهِمۡ	ﲀ	ربهم	their Lord	rabbihim
+7	7:152:9	w	وَذِلَّةٞ	ﲁ	وذلة	and humiliation	wadhillatun
+7	7:152:10	w	فِي	ﲂ	في	in	fī
+7	7:152:11	w	ٱلۡحَيَوٰةِ	ﲃ	الحياة	the life	l-ḥayati
+7	7:152:12	w	ٱلدُّنۡيَاۚ	ﲄﲅ	الدنيا	(of) the world	l-dun'yā
+7	7:152:13	w	وَكَذَٰلِكَ	ﲆ	وكذالك	And thus	wakadhālika
+7	7:152:14	w	نَجۡزِي	ﲇ	نجزي	We recompense	najzī
+8	7:152:15	w	ٱلۡمُفۡتَرِينَ	ﲈ	المفترين	the ones who invent (falsehood)	l-muf'tarīna
+8	7:152:16	e	١٥٢	ﲉ			
+8	7:153:1	w	وَٱلَّذِينَ	ﲊ	والذين	And those who	wa-alladhīna
+8	7:153:2	w	عَمِلُواْ	ﲋ	عملوا	do	ʿamilū
+8	7:153:3	w	ٱلسَّيِّـَٔاتِ	ﲌ	السييات	the evil deeds	l-sayiāti
+8	7:153:4	w	ثُمَّ	ﲍ	ثم	then	thumma
+8	7:153:5	w	تَابُواْ	ﲎ	تابوا	repented	tābū
+8	7:153:6	w	مِنۢ	ﲏ	من	from	min
+9	7:153:7	w	بَعۡدِهَا	ﲐ	بعدها	after that	baʿdihā
+9	7:153:8	w	وَءَامَنُوٓاْ	ﲑ	وامنوا	and believed	waāmanū
+9	7:153:9	w	إِنَّ	ﲒ	ان	indeed	inna
+9	7:153:10	w	رَبَّكَ	ﲓ	ربك	your Lord	rabbaka
+9	7:153:11	w	مِنۢ	ﲔ	من	from	min
+9	7:153:12	w	بَعۡدِهَا	ﲕ	بعدها	after that	baʿdihā
+9	7:153:13	w	لَغَفُورٞ	ﲖ	لغفور	(is) surely Oft-Forgiving	laghafūrun
+9	7:153:14	w	رَّحِيمٞ	ﲗ	رحيم	Most Merciful	raḥīmun
+9	7:153:15	e	١٥٣	ﲘ			
+10	7:154:1	w	وَلَمَّا	ﲙ	ولما	And when	walammā
+10	7:154:2	w	سَكَتَ	ﲚ	سكت	was calmed	sakata
+10	7:154:3	w	عَن	ﲛ	عن	from	ʿan
+10	7:154:4	w	مُّوسَى	ﲜ	موسى	Musa	mūsā
+10	7:154:5	w	ٱلۡغَضَبُ	ﲝ	الغضب	the anger	l-ghaḍabu
+10	7:154:6	w	أَخَذَ	ﲞ	اخذ	he took (up)	akhadha
+10	7:154:7	w	ٱلۡأَلۡوَاحَۖ	ﲟﲠ	الالواح	the tablets	l-alwāḥa
+10	7:154:8	w	وَفِي	ﲡ	وفي	and in	wafī
+10	7:154:9	w	نُسۡخَتِهَا	ﲢ	نسختها	their inscription	nus'khatihā
+11	7:154:10	w	هُدٗى	ﲣ	هدى	(was) guidance	hudan
+11	7:154:11	w	وَرَحۡمَةٞ	ﲤ	ورحمة	and mercy	waraḥmatun
+11	7:154:12	w	لِّلَّذِينَ	ﲥ	للذين	for those who	lilladhīna
+11	7:154:13	w	هُمۡ	ﲦ	هم	[they]	hum
+11	7:154:14	w	لِرَبِّهِمۡ	ﲧ	لربهم	of their Lord	lirabbihim
+11	7:154:15	w	يَرۡهَبُونَ	ﲨ	يرهبون	(are) fearful	yarhabūna
+11	7:154:16	e	١٥٤	ﲩ			
+11	7:155:1	w	وَٱخۡتَارَ	ﲪ	واختار	And chose	wa-ikh'tāra
+11	7:155:2	w	مُوسَىٰ	ﲫ	موسى	Musa	mūsā
+12	7:155:3	w	قَوۡمَهُۥ	ﲬ	قومه	(from) his people	qawmahu
+12	7:155:4	w	سَبۡعِينَ	ﲭ	سبعين	seventy	sabʿīna
+12	7:155:5	w	رَجُلٗا	ﲮ	رجلا	men	rajulan
+12	7:155:6	w	لِّمِيقَٰتِنَاۖ	ﲯﲰ	لميقاتنا	for Our appointment	limīqātinā
+12	7:155:7	w	فَلَمَّآ	ﲱ	فلما	Then when	falammā
+12	7:155:8	w	أَخَذَتۡهُمُ	ﲲ	اخذتهم	seized them	akhadhathumu
+12	7:155:9	w	ٱلرَّجۡفَةُ	ﲳ	الرجفة	the earthquake	l-rajfatu
+12	7:155:10	w	قَالَ	ﲴ	قال	he said	qāla
+13	7:155:11	w	رَبِّ	ﲵ	رب	O my Lord	rabbi
+13	7:155:12	w	لَوۡ	ﲶ	لو	If	law
+13	7:155:13	w	شِئۡتَ	ﲷ	شيت	you (had) willed	shi'ta
+13	7:155:14	w	أَهۡلَكۡتَهُم	ﲸ	اهلكتهم	You (could) have destroyed them	ahlaktahum
+13	7:155:15	w	مِّن	ﲹ	من	from	min
+13	7:155:16	w	قَبۡلُ	ﲺ	قبل	before	qablu
+13	7:155:17	w	وَإِيَّٰيَۖ	ﲻﲼ	واياي	and me	wa-iyyāya
+13	7:155:18	w	أَتُهۡلِكُنَا	ﲽ	اتهلكنا	Would You destroy us	atuh'likunā
+13	7:155:19	w	بِمَا	ﲾ	بما	for what	bimā
+13	7:155:20	w	فَعَلَ	ﲿ	فعل	did	faʿala
+14	7:155:21	w	ٱلسُّفَهَآءُ	ﳀ	السفهاء	the foolish	l-sufahāu
+14	7:155:22	w	مِنَّآۖ	ﳁﳂ	منا	among us	minnā
+14	7:155:23	w	إِنۡ	ﳃ	ان	Not	in
+14	7:155:24	w	هِيَ	ﳄ	هي	it (was)	hiya
+14	7:155:25	w	إِلَّا	ﳅ	الا	but	illā
+14	7:155:26	w	فِتۡنَتُكَ	ﳆ	فتنتك	Your trial	fit'natuka
+14	7:155:27	w	تُضِلُّ	ﳇ	تضل	You let go astray	tuḍillu
+14	7:155:28	w	بِهَا	ﳈ	بها	by it	bihā
+14	7:155:29	w	مَن	ﳉ	من	whom	man
+14	7:155:30	w	تَشَآءُ	ﳊ	تشاء	You will	tashāu
+14	7:155:31	w	وَتَهۡدِي	ﳋ	وتهدي	and You guide	watahdī
+15	7:155:32	w	مَن	ﳌ	من	whom	man
+15	7:155:33	w	تَشَآءُۖ	ﳍﳎ	تشاء	You will	tashāu
+15	7:155:34	w	أَنتَ	ﳏ	انت	You	anta
+15	7:155:35	w	وَلِيُّنَا	ﳐ	ولينا	(are) our Protector	waliyyunā
+15	7:155:36	w	فَٱغۡفِرۡ	ﳑ	فاغفر	so forgive	fa-igh'fir
+15	7:155:37	w	لَنَا	ﳒ	لنا	us	lanā
+15	7:155:38	w	وَٱرۡحَمۡنَاۖ	ﳓﳔ	وارحمنا	and have mercy upon us	wa-ir'ḥamnā
+15	7:155:39	w	وَأَنتَ	ﳕ	وانت	and You	wa-anta
+15	7:155:40	w	خَيۡرُ	ﳖ	خير	(are) Best	khayru
+15	7:155:41	w	ٱلۡغَٰفِرِينَ	ﳗ	الغافرين	(of) Forgivers	l-ghāfirīna
+15	7:155:42	e	١٥٥	ﳘ			

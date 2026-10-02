@@ -1,0 +1,123 @@
+1	3:16:1	w	ٱلَّذِينَ	ﱁ	الذين	Those who	alladhīna
+1	3:16:2	w	يَقُولُونَ	ﱂ	يقولون	say	yaqūlūna
+1	3:16:3	w	رَبَّنَآ	ﱃ	ربنا	Our Lord	rabbanā
+1	3:16:4	w	إِنَّنَآ	ﱄ	اننا	Indeed, we	innanā
+1	3:16:5	w	ءَامَنَّا	ﱅ	امنا	(have) believed	āmannā
+1	3:16:6	w	فَٱغۡفِرۡ	ﱆ	فاغفر	so forgive	fa-igh'fir
+1	3:16:7	w	لَنَا	ﱇ	لنا	for us	lanā
+1	3:16:8	w	ذُنُوبَنَا	ﱈ	ذنوبنا	our sins	dhunūbanā
+2	3:16:9	w	وَقِنَا	ﱉ	وقنا	and save us	waqinā
+2	3:16:10	w	عَذَابَ	ﱊ	عذاب	(from) punishment	ʿadhāba
+2	3:16:11	w	ٱلنَّارِ	ﱋ	النار	(of) the Fire	l-nāri
+2	3:16:12	e	١٦	ﱌ			
+2	3:17:1	w	ٱلصَّٰبِرِينَ	ﱍ	الصابرين	The patient	al-ṣābirīna
+2	3:17:2	w	وَٱلصَّٰدِقِينَ	ﱎ	والصادقين	and the truthful	wal-ṣādiqīna
+2	3:17:3	w	وَٱلۡقَٰنِتِينَ	ﱏ	والقانتين	and the obedient	wal-qānitīna
+3	3:17:4	w	وَٱلۡمُنفِقِينَ	ﱐ	والمنفقين	and those who spend	wal-munfiqīna
+3	3:17:5	w	وَٱلۡمُسۡتَغۡفِرِينَ	ﱑ	والمستغفرين	and those who seek forgiveness	wal-mus'taghfirīna
+3	3:17:6	w	بِٱلۡأَسۡحَارِ	ﱒ	بالاسحار	[in the] before dawn	bil-asḥāri
+3	3:17:7	e	١٧	ﱓ			
+3	3:18:1	w	شَهِدَ	ﱔ	شهد	Bears witness	shahida
+3	3:18:2	w	ٱللَّهُ	ﱕ	الله	Allah	l-lahu
+4	3:18:3	w	أَنَّهُۥ	ﱖ	انه	that [He]	annahu
+4	3:18:4	w	لَآ	ﱗ	لا	(there is) no	lā
+4	3:18:5	w	إِلَٰهَ	ﱘ	الاه	god	ilāha
+4	3:18:6	w	إِلَّا	ﱙ	الا	except	illā
+4	3:18:7	w	هُوَ	ﱚ	هو	Him	huwa
+4	3:18:8	w	وَٱلۡمَلَٰٓئِكَةُ	ﱛ	والملايكة	and (so do) the Angels	wal-malāikatu
+4	3:18:9	w	وَأُوْلُواْ	ﱜ	واولو	and owners	wa-ulū
+4	3:18:10	w	ٱلۡعِلۡمِ	ﱝ	العلم	(of) [the] knowledge	l-ʿil'mi
+4	3:18:11	w	قَآئِمَۢا	ﱞ	قايما	standing	qāiman
+5	3:18:12	w	بِٱلۡقِسۡطِۚ	ﱟﱠ	بالقسط	in justice	bil-qis'ṭi
+5	3:18:13	w	لَآ	ﱡ	لا	(There is) no	lā
+5	3:18:14	w	إِلَٰهَ	ﱢ	الاه	god	ilāha
+5	3:18:15	w	إِلَّا	ﱣ	الا	except	illā
+5	3:18:16	w	هُوَ	ﱤ	هو	Him	huwa
+5	3:18:17	w	ٱلۡعَزِيزُ	ﱥ	العزيز	the All-Mighty	l-ʿazīzu
+5	3:18:18	w	ٱلۡحَكِيمُ	ﱦ	الحكيم	the All-Wise	l-ḥakīmu
+5	3:18:19	e	١٨	ﱧ			
+5	3:19:1	w	إِنَّ	ﱨ	ان	Indeed	inna
+5	3:19:2	w	ٱلدِّينَ	ﱩ	الدين	the religion	l-dīna
+6	3:19:3	w	عِندَ	ﱪ	عند	near	ʿinda
+6	3:19:4	w	ٱللَّهِ	ﱫ	الله	Allah	l-lahi
+6	3:19:5	w	ٱلۡإِسۡلَٰمُۗ	ﱬﱭ	الاسلام	(is) Islam	l-is'lāmu
+6	3:19:6	w	وَمَا	ﱮ	وما	And not	wamā
+6	3:19:7	w	ٱخۡتَلَفَ	ﱯ	اختلف	differed	ikh'talafa
+6	3:19:8	w	ٱلَّذِينَ	ﱰ	الذين	those who	alladhīna
+6	3:19:9	w	أُوتُواْ	ﱱ	اوتوا	were given	ūtū
+6	3:19:10	w	ٱلۡكِتَٰبَ	ﱲ	الكتاب	the Book	l-kitāba
+7	3:19:11	w	إِلَّا	ﱳ	الا	except	illā
+7	3:19:12	w	مِنۢ	ﱴ	من	from	min
+7	3:19:13	w	بَعۡدِ	ﱵ	بعد	after	baʿdi
+7	3:19:14	w	مَا	ﱶ	ما	[what]	mā
+7	3:19:15	w	جَآءَهُمُ	ﱷ	جاءهم	came to them	jāahumu
+7	3:19:16	w	ٱلۡعِلۡمُ	ﱸ	العلم	[the] knowledge	l-ʿil'mu
+7	3:19:17	w	بَغۡيَۢا	ﱹ	بغيا	out of envy	baghyan
+7	3:19:18	w	بَيۡنَهُمۡۗ	ﱺﱻ	بينهم	among them	baynahum
+7	3:19:19	w	وَمَن	ﱼ	ومن	And whoever	waman
+7	3:19:20	w	يَكۡفُرۡ	ﱽ	يكفر	disbelieves	yakfur
+8	3:19:21	w	بِـَٔايَٰتِ	ﱾ	بايات	in (the) Verses	biāyāti
+8	3:19:22	w	ٱللَّهِ	ﱿ	الله	(of) Allah	l-lahi
+8	3:19:23	w	فَإِنَّ	ﲀ	فان	then indeed	fa-inna
+8	3:19:24	w	ٱللَّهَ	ﲁ	الله	Allah	l-laha
+8	3:19:25	w	سَرِيعُ	ﲂ	سريع	(is) swift	sarīʿu
+8	3:19:26	w	ٱلۡحِسَابِ	ﲃ	الحساب	(in taking) account	l-ḥisābi
+8	3:19:27	e	١٩	ﲄ			
+8	3:20:1	w	فَإِنۡ	ﲅ	فان	Then if	fa-in
+8	3:20:2	w	حَآجُّوكَ	ﲆ	حاجوك	they argue with you	ḥājjūka
+9	3:20:3	w	فَقُلۡ	ﲇ	فقل	then say	faqul
+9	3:20:4	w	أَسۡلَمۡتُ	ﲈ	اسلمت	I have submitted	aslamtu
+9	3:20:5	w	وَجۡهِيَ	ﲉ	وجهي	myself	wajhiya
+9	3:20:6	w	لِلَّهِ	ﲊ	لله	to Allah	lillahi
+9	3:20:7	w	وَمَنِ	ﲋ	ومن	and (those) who	wamani
+9	3:20:8	w	ٱتَّبَعَنِۗ	ﲌﲍ	اتبعن	follow me	ittabaʿani
+9	3:20:9	w	وَقُل	ﲎ	وقل	And say	waqul
+9	3:20:10	w	لِّلَّذِينَ	ﲏ	للذين	to those who	lilladhīna
+9	3:20:11	w	أُوتُواْ	ﲐ	اوتوا	were given	ūtū
+10	3:20:12	w	ٱلۡكِتَٰبَ	ﲑ	الكتاب	the Book	l-kitāba
+10	3:20:13	w	وَٱلۡأُمِّيِّـۧنَ	ﲒ	والاميين	and the unlettered people	wal-umiyīna
+10	3:20:14	w	ءَأَسۡلَمۡتُمۡۚ	ﲓﲔ	ااسلمتم	Have you submitted yourselves	a-aslamtum
+10	3:20:15	w	فَإِنۡ	ﲕ	فان	Then if	fa-in
+10	3:20:16	w	أَسۡلَمُواْ	ﲖ	اسلموا	they submit	aslamū
+10	3:20:17	w	فَقَدِ	ﲗ	فقد	then surely	faqadi
+10	3:20:18	w	ٱهۡتَدَواْۖ	ﲘﲙ	اهتدوا	they are guided	ih'tadaw
+11	3:20:19	w	وَّإِن	ﲚ	وان	But if	wa-in
+11	3:20:20	w	تَوَلَّوۡاْ	ﲛ	تولوا	they turn back	tawallaw
+11	3:20:21	w	فَإِنَّمَا	ﲜ	فانما	then only	fa-innamā
+11	3:20:22	w	عَلَيۡكَ	ﲝ	عليك	on you	ʿalayka
+11	3:20:23	w	ٱلۡبَلَٰغُۗ	ﲞﲟ	البلاغ	(is) to [the] convey	l-balāghu
+11	3:20:24	w	وَٱللَّهُ	ﲠ	والله	And Allah	wal-lahu
+11	3:20:25	w	بَصِيرُۢ	ﲡ	بصير	(is) All-Seer	baṣīrun
+11	3:20:26	w	بِٱلۡعِبَادِ	ﲢ	بالعباد	of [His] slaves	bil-ʿibādi
+11	3:20:27	e	٢٠	ﲣ			
+12	3:21:1	w	إِنَّ	ﲤ	ان	Indeed	inna
+12	3:21:2	w	ٱلَّذِينَ	ﲥ	الذين	those who	alladhīna
+12	3:21:3	w	يَكۡفُرُونَ	ﲦ	يكفرون	disbelieve	yakfurūna
+12	3:21:4	w	بِـَٔايَٰتِ	ﲧ	بايات	in (the) Signs (of)	biāyāti
+12	3:21:5	w	ٱللَّهِ	ﲨ	الله	Allah	l-lahi
+12	3:21:6	w	وَيَقۡتُلُونَ	ﲩ	ويقتلون	and they kill	wayaqtulūna
+12	3:21:7	w	ٱلنَّبِيِّـۧنَ	ﲪ	النبيين	the Prophets	l-nabiyīna
+13	3:21:8	w	بِغَيۡرِ	ﲫ	بغير	without	bighayri
+13	3:21:9	w	حَقّٖ	ﲬ	حق	right	ḥaqqin
+13	3:21:10	w	وَيَقۡتُلُونَ	ﲭ	ويقتلون	and they kill	wayaqtulūna
+13	3:21:11	w	ٱلَّذِينَ	ﲮ	الذين	those who	alladhīna
+13	3:21:12	w	يَأۡمُرُونَ	ﲯ	يامرون	order	yamurūna
+13	3:21:13	w	بِٱلۡقِسۡطِ	ﲰ	بالقسط	[with] justice	bil-qis'ṭi
+13	3:21:14	w	مِنَ	ﲱ	من	among	mina
+14	3:21:15	w	ٱلنَّاسِ	ﲲ	الناس	the people	l-nāsi
+14	3:21:16	w	فَبَشِّرۡهُم	ﲳ	فبشرهم	then give them tidings	fabashir'hum
+14	3:21:17	w	بِعَذَابٍ	ﲴ	بعذاب	of a punishment	biʿadhābin
+14	3:21:18	w	أَلِيمٍ	ﲵ	اليم	painful	alīmin
+14	3:21:19	e	٢١	ﲶ			
+14	3:22:1	w	أُوْلَٰٓئِكَ	ﲷ	اولايك	Those	ulāika
+14	3:22:2	w	ٱلَّذِينَ	ﲸ	الذين	(are) the ones who	alladhīna
+14	3:22:3	w	حَبِطَتۡ	ﲹ	حبطت	became worthless	ḥabiṭat
+15	3:22:4	w	أَعۡمَٰلُهُمۡ	ﲺ	اعمالهم	their deeds	aʿmāluhum
+15	3:22:5	w	فِي	ﲻ	في	in	fī
+15	3:22:6	w	ٱلدُّنۡيَا	ﲼ	الدنيا	the world	l-dun'yā
+15	3:22:7	w	وَٱلۡأٓخِرَةِ	ﲽ	والاخرة	and (in) the Hereafter	wal-ākhirati
+15	3:22:8	w	وَمَا	ﲾ	وما	And not	wamā
+15	3:22:9	w	لَهُم	ﲿ	لهم	(will be) for them	lahum
+15	3:22:10	w	مِّن	ﳀ	من	any	min
+15	3:22:11	w	نَّٰصِرِينَ	ﳁ	ناصرين	helpers	nāṣirīna
+15	3:22:12	e	٢٢	ﳂ			

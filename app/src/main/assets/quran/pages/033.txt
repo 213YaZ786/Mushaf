@@ -1,0 +1,146 @@
+1	2:211:1	w	سَلۡ	ﱁ	سل	Ask	sal
+1	2:211:2	w	بَنِيٓ	ﱂ	بني	(the) Children	banī
+1	2:211:3	w	إِسۡرَٰٓءِيلَ	ﱃ	اسراييل	(of) Israel	is'rāīla
+1	2:211:4	w	كَمۡ	ﱄ	كم	how many	kam
+1	2:211:5	w	ءَاتَيۡنَٰهُم	ﱅ	اتيناهم	We gave them	ātaynāhum
+1	2:211:6	w	مِّنۡ	ﱆ	من	of	min
+1	2:211:7	w	ءَايَةِۭ	ﱇ	اية	(the) Sign(s)	āyatin
+1	2:211:8	w	بَيِّنَةٖۗ	ﱈﱉ	بينة	clear	bayyinatin
+1	2:211:9	w	وَمَن	ﱊ	ومن	And whoever	waman
+1	2:211:10	w	يُبَدِّلۡ	ﱋ	يبدل	changes	yubaddil
+1	2:211:11	w	نِعۡمَةَ	ﱌ	نعمة	Favor	niʿ'mata
+2	2:211:12	w	ٱللَّهِ	ﱍ	الله	(of) Allah	l-lahi
+2	2:211:13	w	مِنۢ	ﱎ	من	from	min
+2	2:211:14	w	بَعۡدِ	ﱏ	بعد	after	baʿdi
+2	2:211:15	w	مَا	ﱐ	ما	[what]	mā
+2	2:211:16	w	جَآءَتۡهُ	ﱑ	جاءته	it (has) come to him	jāathu
+2	2:211:17	w	فَإِنَّ	ﱒ	فان	then indeed	fa-inna
+2	2:211:18	w	ٱللَّهَ	ﱓ	الله	Allah	l-laha
+2	2:211:19	w	شَدِيدُ	ﱔ	شديد	(is) severe	shadīdu
+2	2:211:20	w	ٱلۡعِقَابِ	ﱕ	العقاب	in [the] chastising	l-ʿiqābi
+2	2:211:21	e	٢١١	ﱖ			
+2	2:212:1	w	زُيِّنَ	ﱗ	زين	Beautified	zuyyina
+3	2:212:2	w	لِلَّذِينَ	ﱘ	للذين	for those who	lilladhīna
+3	2:212:3	w	كَفَرُواْ	ﱙ	كفروا	disbelieve[d]	kafarū
+3	2:212:4	w	ٱلۡحَيَوٰةُ	ﱚ	الحياة	(is) the life	l-ḥayatu
+3	2:212:5	w	ٱلدُّنۡيَا	ﱛ	الدنيا	(of) the world	l-dun'yā
+3	2:212:6	w	وَيَسۡخَرُونَ	ﱜ	ويسخرون	and they ridicule	wayaskharūna
+3	2:212:7	w	مِنَ	ﱝ	من	[of]	mina
+3	2:212:8	w	ٱلَّذِينَ	ﱞ	الذين	those who	alladhīna
+3	2:212:9	w	ءَامَنُواْۘ	ﱟﱠ	امنوا	believe[d]	āmanū
+3	2:212:10	w	وَٱلَّذِينَ	ﱡ	والذين	And those who	wa-alladhīna
+4	2:212:11	w	ٱتَّقَوۡاْ	ﱢ	اتقوا	fear (Allah)	ittaqaw
+4	2:212:12	w	فَوۡقَهُمۡ	ﱣ	فوقهم	(they will be) above them	fawqahum
+4	2:212:13	w	يَوۡمَ	ﱤ	يوم	(on the) Day	yawma
+4	2:212:14	w	ٱلۡقِيَٰمَةِۗ	ﱥﱦ	القيامة	(of) Resurrection	l-qiyāmati
+4	2:212:15	w	وَٱللَّهُ	ﱧ	والله	And Allah	wal-lahu
+4	2:212:16	w	يَرۡزُقُ	ﱨ	يرزق	provides	yarzuqu
+4	2:212:17	w	مَن	ﱩ	من	whom	man
+4	2:212:18	w	يَشَآءُ	ﱪ	يشاء	He wills	yashāu
+4	2:212:19	w	بِغَيۡرِ	ﱫ	بغير	without	bighayri
+4	2:212:20	w	حِسَابٖ	ﱬ	حساب	measure	ḥisābin
+5	2:212:21	e	٢١٢	ﱭ			
+5	2:213:1	w	كَانَ	ﱮ	كان	Was	kāna
+5	2:213:2	w	ٱلنَّاسُ	ﱯ	الناس	mankind	l-nāsu
+5	2:213:3	w	أُمَّةٗ	ﱰ	امة	a community	ummatan
+5	2:213:4	w	وَٰحِدَةٗ	ﱱ	واحدة	single	wāḥidatan
+5	2:213:5	w	فَبَعَثَ	ﱲ	فبعث	then raised up	fabaʿatha
+5	2:213:6	w	ٱللَّهُ	ﱳ	الله	Allah	l-lahu
+5	2:213:7	w	ٱلنَّبِيِّـۧنَ	ﱴ	النبيين	[the] Prophets	l-nabiyīna
+5	2:213:8	w	مُبَشِّرِينَ	ﱵ	مبشرين	(as) bearers of glad tidings	mubashirīna
+6	2:213:9	w	وَمُنذِرِينَ	ﱶ	ومنذرين	and (as) warners	wamundhirīna
+6	2:213:10	w	وَأَنزَلَ	ﱷ	وانزل	and sent down	wa-anzala
+6	2:213:11	w	مَعَهُمُ	ﱸ	معهم	with them	maʿahumu
+6	2:213:12	w	ٱلۡكِتَٰبَ	ﱹ	الكتاب	the Book	l-kitāba
+6	2:213:13	w	بِٱلۡحَقِّ	ﱺ	بالحق	in [the] truth	bil-ḥaqi
+6	2:213:14	w	لِيَحۡكُمَ	ﱻ	ليحكم	to judge	liyaḥkuma
+6	2:213:15	w	بَيۡنَ	ﱼ	بين	between	bayna
+6	2:213:16	w	ٱلنَّاسِ	ﱽ	الناس	[the] people	l-nāsi
+7	2:213:17	w	فِيمَا	ﱾ	فيما	in what	fīmā
+7	2:213:18	w	ٱخۡتَلَفُواْ	ﱿ	اختلفوا	they differed	ikh'talafū
+7	2:213:19	w	فِيهِۚ	ﲀﲁ	فيه	[in it]	fīhi
+7	2:213:20	w	وَمَا	ﲂ	وما	And (did) not	wamā
+7	2:213:21	w	ٱخۡتَلَفَ	ﲃ	اختلف	differ[ed]	ikh'talafa
+7	2:213:22	w	فِيهِ	ﲄ	فيه	in it	fīhi
+7	2:213:23	w	إِلَّا	ﲅ	الا	except	illā
+7	2:213:24	w	ٱلَّذِينَ	ﲆ	الذين	those who	alladhīna
+7	2:213:25	w	أُوتُوهُ	ﲇ	اوتوه	were given it	ūtūhu
+7	2:213:26	w	مِنۢ	ﲈ	من	from	min
+7	2:213:27	w	بَعۡدِ	ﲉ	بعد	after	baʿdi
+8	2:213:28	w	مَا	ﲊ	ما	[what]	mā
+8	2:213:29	w	جَآءَتۡهُمُ	ﲋ	جاءتهم	came to them	jāathumu
+8	2:213:30	w	ٱلۡبَيِّنَٰتُ	ﲌ	البينات	the clear proofs	l-bayinātu
+8	2:213:31	w	بَغۡيَۢا	ﲍ	بغيا	(out of) jealousy	baghyan
+8	2:213:32	w	بَيۡنَهُمۡۖ	ﲎﲏ	بينهم	among themselves	baynahum
+8	2:213:33	w	فَهَدَى	ﲐ	فهدى	And guided	fahadā
+8	2:213:34	w	ٱللَّهُ	ﲑ	الله	Allah	l-lahu
+8	2:213:35	w	ٱلَّذِينَ	ﲒ	الذين	those who	alladhīna
+8	2:213:36	w	ءَامَنُواْ	ﲓ	امنوا	believe[d]	āmanū
+9	2:213:37	w	لِمَا	ﲔ	لما	regarding what	limā
+9	2:213:38	w	ٱخۡتَلَفُواْ	ﲕ	اختلفوا	they differed	ikh'talafū
+9	2:213:39	w	فِيهِ	ﲖ	فيه	[in it]	fīhi
+9	2:213:40	w	مِنَ	ﲗ	من	of	mina
+9	2:213:41	w	ٱلۡحَقِّ	ﲘ	الحق	the Truth	l-ḥaqi
+9	2:213:42	w	بِإِذۡنِهِۦۗ	ﲙﲚ	باذنه	with His permission	bi-idh'nihi
+9	2:213:43	w	وَٱللَّهُ	ﲛ	والله	And Allah	wal-lahu
+9	2:213:44	w	يَهۡدِي	ﲜ	يهدي	guides	yahdī
+9	2:213:45	w	مَن	ﲝ	من	whom	man
+9	2:213:46	w	يَشَآءُ	ﲞ	يشاء	He wills	yashāu
+10	2:213:47	w	إِلَىٰ	ﲟ	الى	to	ilā
+10	2:213:48	w	صِرَٰطٖ	ﲠ	صراط	a path	ṣirāṭin
+10	2:213:49	w	مُّسۡتَقِيمٍ	ﲡ	مستقيم	straight	mus'taqīmin
+10	2:213:50	e	٢١٣	ﲢ			
+10	2:214:1	w	أَمۡ	ﲣ	ام	Or	am
+10	2:214:2	w	حَسِبۡتُمۡ	ﲤ	حسبتم	(do) you think	ḥasib'tum
+10	2:214:3	w	أَن	ﲥ	ان	that	an
+10	2:214:4	w	تَدۡخُلُواْ	ﲦ	تدخلوا	you will enter	tadkhulū
+10	2:214:5	w	ٱلۡجَنَّةَ	ﲧ	الجنة	Paradise	l-janata
+10	2:214:6	w	وَلَمَّا	ﲨ	ولما	while not	walammā
+11	2:214:7	w	يَأۡتِكُم	ﲩ	ياتكم	(has) come to you	yatikum
+11	2:214:8	w	مَّثَلُ	ﲪ	مثل	like (came to)	mathalu
+11	2:214:9	w	ٱلَّذِينَ	ﲫ	الذين	those who	alladhīna
+11	2:214:10	w	خَلَوۡاْ	ﲬ	خلوا	passed away	khalaw
+11	2:214:11	w	مِن	ﲭ	من	from	min
+11	2:214:12	w	قَبۡلِكُمۖ	ﲮﲯ	قبلكم	before you	qablikum
+11	2:214:13	w	مَّسَّتۡهُمُ	ﲰ	مستهم	Touched them	massathumu
+11	2:214:14	w	ٱلۡبَأۡسَآءُ	ﲱ	الباساء	[the] adversity	l-basāu
+11	2:214:15	w	وَٱلضَّرَّآءُ	ﲲ	والضراء	and [the] hardship	wal-ḍarāu
+12	2:214:16	w	وَزُلۡزِلُواْ	ﲳ	وزلزلوا	and they were shaken	wazul'zilū
+12	2:214:17	w	حَتَّىٰ	ﲴ	حتى	until	ḥattā
+12	2:214:18	w	يَقُولَ	ﲵ	يقول	said	yaqūla
+12	2:214:19	w	ٱلرَّسُولُ	ﲶ	الرسول	the Messenger	l-rasūlu
+12	2:214:20	w	وَٱلَّذِينَ	ﲷ	والذين	and those who	wa-alladhīna
+12	2:214:21	w	ءَامَنُواْ	ﲸ	امنوا	believed	āmanū
+12	2:214:22	w	مَعَهُۥ	ﲹ	معه	with him	maʿahu
+12	2:214:23	w	مَتَىٰ	ﲺ	متى	When	matā
+12	2:214:24	w	نَصۡرُ	ﲻ	نصر	[will] (the) help	naṣru
+13	2:214:25	w	ٱللَّهِۗ	ﲼﲽ	الله	(of) Allah (come)	l-lahi
+13	2:214:26	w	أَلَآ	ﲾ	الا	Unquestionably	alā
+13	2:214:27	w	إِنَّ	ﲿ	ان	[Indeed]	inna
+13	2:214:28	w	نَصۡرَ	ﳀ	نصر	help	naṣra
+13	2:214:29	w	ٱللَّهِ	ﳁ	الله	(of) Allah	l-lahi
+13	2:214:30	w	قَرِيبٞ	ﳂ	قريب	(is) near	qarībun
+13	2:214:31	e	٢١٤	ﳃ			
+13	2:215:1	w	يَسۡـَٔلُونَكَ	ﳄ	يسالونك	They ask you	yasalūnaka
+13	2:215:2	w	مَاذَا	ﳅ	ماذا	what	mādhā
+13	2:215:3	w	يُنفِقُونَۖ	ﳆﳇ	ينفقون	they (should) spend	yunfiqūna
+13	2:215:4	w	قُلۡ	ﳈ	قل	Say	qul
+14	2:215:5	w	مَآ	ﳉ	ما	Whatever	mā
+14	2:215:6	w	أَنفَقۡتُم	ﳊ	انفقتم	you spend	anfaqtum
+14	2:215:7	w	مِّنۡ	ﳋ	من	of	min
+14	2:215:8	w	خَيۡرٖ	ﳌ	خير	good	khayrin
+14	2:215:9	w	فَلِلۡوَٰلِدَيۡنِ	ﳍ	فللوالدين	(is) for parents	falil'wālidayni
+14	2:215:10	w	وَٱلۡأَقۡرَبِينَ	ﳎ	والاقربين	and the relatives	wal-aqrabīna
+14	2:215:11	w	وَٱلۡيَتَٰمَىٰ	ﳏ	واليتامى	and the orphans	wal-yatāmā
+14	2:215:12	w	وَٱلۡمَسَٰكِينِ	ﳐ	والمساكين	and the needy	wal-masākīni
+15	2:215:13	w	وَٱبۡنِ	ﳑ	وابن	and (of)	wa-ib'ni
+15	2:215:14	w	ٱلسَّبِيلِۗ	ﳒﳓ	السبيل	the wayfarer	l-sabīli
+15	2:215:15	w	وَمَا	ﳔ	وما	And whatever	wamā
+15	2:215:16	w	تَفۡعَلُواْ	ﳕ	تفعلوا	you do	tafʿalū
+15	2:215:17	w	مِنۡ	ﳖ	من	of	min
+15	2:215:18	w	خَيۡرٖ	ﳗ	خير	good	khayrin
+15	2:215:19	w	فَإِنَّ	ﳘ	فان	So indeed	fa-inna
+15	2:215:20	w	ٱللَّهَ	ﳙ	الله	Allah	l-laha
+15	2:215:21	w	بِهِۦ	ﳚ	به	of it	bihi
+15	2:215:22	w	عَلِيمٞ	ﳛ	عليم	(is) All-Aware	ʿalīmun
+15	2:215:23	e	٢١٥	ﳜ			

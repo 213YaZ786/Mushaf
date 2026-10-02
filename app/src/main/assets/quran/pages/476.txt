@@ -1,0 +1,136 @@
+1	40:78:1	w	وَلَقَدۡ	ﱁ	ولقد	And certainly	walaqad
+1	40:78:2	w	أَرۡسَلۡنَا	ﱂ	ارسلنا	We have sent	arsalnā
+1	40:78:3	w	رُسُلٗا	ﱃ	رسلا	Messengers	rusulan
+1	40:78:4	w	مِّن	ﱄ	من	before you	min
+1	40:78:5	w	قَبۡلِكَ	ﱅ	قبلك	before you	qablika
+1	40:78:6	w	مِنۡهُم	ﱆ	منهم	Among them	min'hum
+1	40:78:7	w	مَّن	ﱇ	من	(are) who	man
+1	40:78:8	w	قَصَصۡنَا	ﱈ	قصصنا	We have related	qaṣaṣnā
+1	40:78:9	w	عَلَيۡكَ	ﱉ	عليك	to you	ʿalayka
+2	40:78:10	w	وَمِنۡهُم	ﱊ	ومنهم	and among them	wamin'hum
+2	40:78:11	w	مَّن	ﱋ	من	(are) who	man
+2	40:78:12	w	لَّمۡ	ﱌ	لم	not	lam
+2	40:78:13	w	نَقۡصُصۡ	ﱍ	نقصص	We have related	naqṣuṣ
+2	40:78:14	w	عَلَيۡكَۗ	ﱎﱏ	عليك	to you	ʿalayka
+2	40:78:15	w	وَمَا	ﱐ	وما	And not	wamā
+2	40:78:16	w	كَانَ	ﱑ	كان	is	kāna
+2	40:78:17	w	لِرَسُولٍ	ﱒ	لرسول	for any Messenger	lirasūlin
+2	40:78:18	w	أَن	ﱓ	ان	that	an
+2	40:78:19	w	يَأۡتِيَ	ﱔ	ياتي	he brings	yatiya
+3	40:78:20	w	بِـَٔايَةٍ	ﱕ	باية	a Sign	biāyatin
+3	40:78:21	w	إِلَّا	ﱖ	الا	except	illā
+3	40:78:22	w	بِإِذۡنِ	ﱗ	باذن	by (the) permission	bi-idh'ni
+3	40:78:23	w	ٱللَّهِۚ	ﱘﱙ	الله	(of) Allah	l-lahi
+3	40:78:24	w	فَإِذَا	ﱚ	فاذا	So when	fa-idhā
+3	40:78:25	w	جَآءَ	ﱛ	جاء	comes	jāa
+3	40:78:26	w	أَمۡرُ	ﱜ	امر	(the) Command	amru
+3	40:78:27	w	ٱللَّهِ	ﱝ	الله	(of) Allah	l-lahi
+3	40:78:28	w	قُضِيَ	ﱞ	قضي	it will be decided	quḍiya
+3	40:78:29	w	بِٱلۡحَقِّ	ﱟ	بالحق	in truth	bil-ḥaqi
+3	40:78:30	w	وَخَسِرَ	ﱠ	وخسر	and will lose	wakhasira
+4	40:78:31	w	هُنَالِكَ	ﱡ	هنالك	there	hunālika
+4	40:78:32	w	ٱلۡمُبۡطِلُونَ	ﱢ	المبطلون	the falsifiers	l-mub'ṭilūna
+4	40:78:33	e	٧٨	ﱣ			
+4	40:79:1	w	ٱللَّهُ	ﱤ	الله	Allah	al-lahu
+4	40:79:2	w	ٱلَّذِي	ﱥ	الذي	(is) the One Who	alladhī
+4	40:79:3	w	جَعَلَ	ﱦ	جعل	made	jaʿala
+4	40:79:4	w	لَكُمُ	ﱧ	لكم	for you	lakumu
+4	40:79:5	w	ٱلۡأَنۡعَٰمَ	ﱨ	الانعام	the cattle	l-anʿāma
+5	40:79:6	w	لِتَرۡكَبُواْ	ﱩ	لتركبوا	that you may ride	litarkabū
+5	40:79:7	w	مِنۡهَا	ﱪ	منها	some of them	min'hā
+5	40:79:8	w	وَمِنۡهَا	ﱫ	ومنها	and some of them	wamin'hā
+5	40:79:9	w	تَأۡكُلُونَ	ﱬ	تاكلون	you eat	takulūna
+5	40:79:10	e	٧٩	ﱭ			
+5	40:80:1	w	وَلَكُمۡ	ﱮ	ولكم	And for you	walakum
+5	40:80:2	w	فِيهَا	ﱯ	فيها	in them	fīhā
+5	40:80:3	w	مَنَٰفِعُ	ﱰ	منافع	(are) benefits	manāfiʿu
+6	40:80:4	w	وَلِتَبۡلُغُواْ	ﱱ	ولتبلغوا	and that you may reach	walitablughū
+6	40:80:5	w	عَلَيۡهَا	ﱲ	عليها	through them	ʿalayhā
+6	40:80:6	w	حَاجَةٗ	ﱳ	حاجة	a need	ḥājatan
+6	40:80:7	w	فِي	ﱴ	في	(that is) in	fī
+6	40:80:8	w	صُدُورِكُمۡ	ﱵ	صدوركم	your breasts	ṣudūrikum
+6	40:80:9	w	وَعَلَيۡهَا	ﱶ	وعليها	and upon them	waʿalayhā
+6	40:80:10	w	وَعَلَى	ﱷ	وعلى	and upon	waʿalā
+7	40:80:11	w	ٱلۡفُلۡكِ	ﱸ	الفلك	the ships	l-ful'ki
+7	40:80:12	w	تُحۡمَلُونَ	ﱹ	تحملون	you are carried	tuḥ'malūna
+7	40:80:13	e	٨٠	ﱺ			
+7	40:81:1	w	وَيُرِيكُمۡ	ﱻ	ويريكم	And He shows you	wayurīkum
+7	40:81:2	w	ءَايَٰتِهِۦ	ﱼ	اياته	His Signs	āyātihi
+7	40:81:3	w	فَأَيَّ	ﱽ	فاي	Then which	fa-ayya
+7	40:81:4	w	ءَايَٰتِ	ﱾ	ايات	(of the) Signs	āyāti
+7	40:81:5	w	ٱللَّهِ	ﱿ	الله	(of) Allah	l-lahi
+8	40:81:6	w	تُنكِرُونَ	ﲀ	تنكرون	will you deny	tunkirūna
+8	40:81:7	e	٨١	ﲁ			
+8	40:82:1	w	أَفَلَمۡ	ﲂ	افلم	Do they not	afalam
+8	40:82:2	w	يَسِيرُواْ	ﲃ	يسيروا	travel	yasīrū
+8	40:82:3	w	فِي	ﲄ	في	through	fī
+8	40:82:4	w	ٱلۡأَرۡضِ	ﲅ	الارض	the land	l-arḍi
+8	40:82:5	w	فَيَنظُرُواْ	ﲆ	فينظروا	and see	fayanẓurū
+8	40:82:6	w	كَيۡفَ	ﲇ	كيف	how	kayfa
+9	40:82:7	w	كَانَ	ﲈ	كان	was	kāna
+9	40:82:8	w	عَٰقِبَةُ	ﲉ	عاقبة	(the) end	ʿāqibatu
+9	40:82:9	w	ٱلَّذِينَ	ﲊ	الذين	(of) those who	alladhīna
+9	40:82:10	w	مِن	ﲋ	من	(were) before them	min
+9	40:82:11	w	قَبۡلِهِمۡۚ	ﲌﲍ	قبلهم	(were) before them	qablihim
+9	40:82:12	w	كَانُوٓاْ	ﲎ	كانوا	They were	kānū
+9	40:82:13	w	أَكۡثَرَ	ﲏ	اكثر	more numerous	akthara
+9	40:82:14	w	مِنۡهُمۡ	ﲐ	منهم	than them	min'hum
+9	40:82:15	w	وَأَشَدَّ	ﲑ	واشد	and mightier	wa-ashadda
+10	40:82:16	w	قُوَّةٗ	ﲒ	قوة	(in) strength	quwwatan
+10	40:82:17	w	وَءَاثَارٗا	ﲓ	واثارا	and impressions	waāthāran
+10	40:82:18	w	فِي	ﲔ	في	in	fī
+10	40:82:19	w	ٱلۡأَرۡضِ	ﲕ	الارض	the land	l-arḍi
+10	40:82:20	w	فَمَآ	ﲖ	فما	but not	famā
+10	40:82:21	w	أَغۡنَىٰ	ﲗ	اغنى	availed	aghnā
+10	40:82:22	w	عَنۡهُم	ﲘ	عنهم	them	ʿanhum
+10	40:82:23	w	مَّا	ﲙ	ما	what	mā
+10	40:82:24	w	كَانُواْ	ﲚ	كانوا	they used to	kānū
+10	40:82:25	w	يَكۡسِبُونَ	ﲛ	يكسبون	earn	yaksibūna
+11	40:82:26	e	٨٢	ﲜ			
+11	40:83:1	w	فَلَمَّا	ﲝ	فلما	Then when	falammā
+11	40:83:2	w	جَآءَتۡهُمۡ	ﲞ	جاءتهم	came to them	jāathum
+11	40:83:3	w	رُسُلُهُم	ﲟ	رسلهم	their Messengers	rusuluhum
+11	40:83:4	w	بِٱلۡبَيِّنَٰتِ	ﲠ	بالبينات	with clear proofs	bil-bayināti
+11	40:83:5	w	فَرِحُواْ	ﲡ	فرحوا	they rejoiced	fariḥū
+11	40:83:6	w	بِمَا	ﲢ	بما	in what	bimā
+11	40:83:7	w	عِندَهُم	ﲣ	عندهم	they had	ʿindahum
+11	40:83:8	w	مِّنَ	ﲤ	من	of	mina
+12	40:83:9	w	ٱلۡعِلۡمِ	ﲥ	العلم	the knowledge	l-ʿil'mi
+12	40:83:10	w	وَحَاقَ	ﲦ	وحاق	and enveloped	waḥāqa
+12	40:83:11	w	بِهِم	ﲧ	بهم	them	bihim
+12	40:83:12	w	مَّا	ﲨ	ما	what	mā
+12	40:83:13	w	كَانُواْ	ﲩ	كانوا	they used to	kānū
+12	40:83:14	w	بِهِۦ	ﲪ	به	[at it]	bihi
+12	40:83:15	w	يَسۡتَهۡزِءُونَ	ﲫ	يستهزيون	mock	yastahziūna
+12	40:83:16	e	٨٣	ﲬ			
+12	40:84:1	w	فَلَمَّا	ﲭ	فلما	So when	falammā
+12	40:84:2	w	رَأَوۡاْ	ﲮ	راوا	they saw	ra-aw
+13	40:84:3	w	بَأۡسَنَا	ﲯ	باسنا	Our punishment	basanā
+13	40:84:4	w	قَالُوٓاْ	ﲰ	قالوا	they said	qālū
+13	40:84:5	w	ءَامَنَّا	ﲱ	امنا	We believe	āmannā
+13	40:84:6	w	بِٱللَّهِ	ﲲ	بالله	in Allah	bil-lahi
+13	40:84:7	w	وَحۡدَهُۥ	ﲳ	وحده	Alone	waḥdahu
+13	40:84:8	w	وَكَفَرۡنَا	ﲴ	وكفرنا	and we disbelieve	wakafarnā
+13	40:84:9	w	بِمَا	ﲵ	بما	in what	bimā
+13	40:84:10	w	كُنَّا	ﲶ	كنا	we used to	kunnā
+13	40:84:11	w	بِهِۦ	ﲷ	به	with Him	bihi
+14	40:84:12	w	مُشۡرِكِينَ	ﲸ	مشركين	associate	mush'rikīna
+14	40:84:13	e	٨٤	ﲹ			
+14	40:85:1	w	فَلَمۡ	ﲺ	فلم	But did not	falam
+14	40:85:2	w	يَكُ	ﲻ	يك	But did not	yaku
+14	40:85:3	w	يَنفَعُهُمۡ	ﲼ	ينفعهم	benefit them	yanfaʿuhum
+14	40:85:4	w	إِيمَٰنُهُمۡ	ﲽ	ايمانهم	their faith	īmānuhum
+14	40:85:5	w	لَمَّا	ﲾ	لما	when	lammā
+14	40:85:6	w	رَأَوۡاْ	ﲿ	راوا	they saw	ra-aw
+14	40:85:7	w	بَأۡسَنَاۖ	ﳀﳁ	باسنا	Our punishment	basanā
+14	40:85:8	w	سُنَّتَ	ﳂ	سنت	(Such is the) Way	sunnata
+15	40:85:9	w	ٱللَّهِ	ﳃ	الله	(of) Allah	l-lahi
+15	40:85:10	w	ٱلَّتِي	ﳄ	التي	which	allatī
+15	40:85:11	w	قَدۡ	ﳅ	قد	(has) indeed	qad
+15	40:85:12	w	خَلَتۡ	ﳆ	خلت	preceded	khalat
+15	40:85:13	w	فِي	ﳇ	في	among	fī
+15	40:85:14	w	عِبَادِهِۦۖ	ﳈﳉ	عباده	His slaves	ʿibādihi
+15	40:85:15	w	وَخَسِرَ	ﳊ	وخسر	And are lost	wakhasira
+15	40:85:16	w	هُنَالِكَ	ﳋ	هنالك	there	hunālika
+15	40:85:17	w	ٱلۡكَٰفِرُونَ	ﳌ	الكافرون	the disbelievers	l-kāfirūna
+15	40:85:18	e	٨٥	ﳍ			

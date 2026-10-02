@@ -1,0 +1,121 @@
+3	19:1:1	w	كٓهيعٓصٓ	ﱁ	كهيعص	Kaaf Ha Ya Ain Sad	kaf-ha-ya-ain-sad
+3	19:1:2	e	١	ﱂ			
+3	19:2:1	w	ذِكۡرُ	ﱃ	ذكر	(A) mention	dhik'ru
+3	19:2:2	w	رَحۡمَتِ	ﱄ	رحمت	(of the) Mercy	raḥmati
+3	19:2:3	w	رَبِّكَ	ﱅ	ربك	(of) your Lord	rabbika
+3	19:2:4	w	عَبۡدَهُۥ	ﱆ	عبده	(to) His servant	ʿabdahu
+3	19:2:5	w	زَكَرِيَّآ	ﱇ	زكريا	Zakariya	zakariyyā
+3	19:2:6	e	٢	ﱈ			
+3	19:3:1	w	إِذۡ	ﱉ	اذ	When	idh
+4	19:3:2	w	نَادَىٰ	ﱊ	نادى	he called	nādā
+4	19:3:3	w	رَبَّهُۥ	ﱋ	ربه	(to) his Lord	rabbahu
+4	19:3:4	w	نِدَآءً	ﱌ	نداء	a call	nidāan
+4	19:3:5	w	خَفِيّٗا	ﱍ	خفيا	secret	khafiyyan
+4	19:3:6	e	٣	ﱎ			
+4	19:4:1	w	قَالَ	ﱏ	قال	He said	qāla
+4	19:4:2	w	رَبِّ	ﱐ	رب	My Lord	rabbi
+4	19:4:3	w	إِنِّي	ﱑ	اني	Indeed, [I]	innī
+4	19:4:4	w	وَهَنَ	ﱒ	وهن	(have) weakened	wahana
+4	19:4:5	w	ٱلۡعَظۡمُ	ﱓ	العظم	my bones	l-ʿaẓmu
+4	19:4:6	w	مِنِّي	ﱔ	مني	my bones	minnī
+5	19:4:7	w	وَٱشۡتَعَلَ	ﱕ	واشتعل	and flared	wa-ish'taʿala
+5	19:4:8	w	ٱلرَّأۡسُ	ﱖ	الراس	(my) head	l-rasu
+5	19:4:9	w	شَيۡبٗا	ﱗ	شيبا	(with) white	shayban
+5	19:4:10	w	وَلَمۡ	ﱘ	ولم	and not	walam
+5	19:4:11	w	أَكُنۢ	ﱙ	اكن	I have been	akun
+5	19:4:12	w	بِدُعَآئِكَ	ﱚ	بدعايك	in (my) supplication (to) You	biduʿāika
+5	19:4:13	w	رَبِّ	ﱛ	رب	my Lord	rabbi
+5	19:4:14	w	شَقِيّٗا	ﱜ	شقيا	unblessed	shaqiyyan
+6	19:4:15	e	٤	ﱝ			
+6	19:5:1	w	وَإِنِّي	ﱞ	واني	And indeed, I	wa-innī
+6	19:5:2	w	خِفۡتُ	ﱟ	خفت	[I] fear	khif'tu
+6	19:5:3	w	ٱلۡمَوَٰلِيَ	ﱠ	الموالي	the successors	l-mawāliya
+6	19:5:4	w	مِن	ﱡ	من	after me	min
+6	19:5:5	w	وَرَآءِي	ﱢ	ورايي	after me	warāī
+6	19:5:6	w	وَكَانَتِ	ﱣ	وكانت	and is	wakānati
+6	19:5:7	w	ٱمۡرَأَتِي	ﱤ	امراتي	my wife	im'ra-atī
+7	19:5:8	w	عَاقِرٗا	ﱥ	عاقرا	barren	ʿāqiran
+7	19:5:9	w	فَهَبۡ	ﱦ	فهب	So give	fahab
+7	19:5:10	w	لِي	ﱧ	لي	[to] me	lī
+7	19:5:11	w	مِن	ﱨ	من	from	min
+7	19:5:12	w	لَّدُنكَ	ﱩ	لدنك	Yourself	ladunka
+7	19:5:13	w	وَلِيّٗا	ﱪ	وليا	an heir	waliyyan
+7	19:5:14	e	٥	ﱫ			
+7	19:6:1	w	يَرِثُنِي	ﱬ	يرثني	Who will inherit me	yarithunī
+7	19:6:2	w	وَيَرِثُ	ﱭ	ويرث	and inherit	wayarithu
+7	19:6:3	w	مِنۡ	ﱮ	من	from	min
+8	19:6:4	w	ءَالِ	ﱯ	ال	(the) family	āli
+8	19:6:5	w	يَعۡقُوبَۖ	ﱰﱱ	يعقوب	(of) Yaqub	yaʿqūba
+8	19:6:6	w	وَٱجۡعَلۡهُ	ﱲ	واجعله	And make him	wa-ij'ʿalhu
+8	19:6:7	w	رَبِّ	ﱳ	رب	my Lord	rabbi
+8	19:6:8	w	رَضِيّٗا	ﱴ	رضيا	pleasing	raḍiyyan
+8	19:6:9	e	٦	ﱵ			
+8	19:7:1	w	يَٰزَكَرِيَّآ	ﱶ	يا زكريا	O Zakariya	yāzakariyyā
+8	19:7:2	w	إِنَّا	ﱷ	انا	Indeed, We	innā
+9	19:7:3	w	نُبَشِّرُكَ	ﱸ	نبشرك	[We] give you glad tidings	nubashiruka
+9	19:7:4	w	بِغُلَٰمٍ	ﱹ	بغلام	of a boy	bighulāmin
+9	19:7:5	w	ٱسۡمُهُۥ	ﱺ	اسمه	his name	us'muhu
+9	19:7:6	w	يَحۡيَىٰ	ﱻ	يحيى	(will be) Yahya	yaḥyā
+9	19:7:7	w	لَمۡ	ﱼ	لم	not	lam
+9	19:7:8	w	نَجۡعَل	ﱽ	نجعل	We (have) assigned	najʿal
+9	19:7:9	w	لَّهُۥ	ﱾ	له	[for] it	lahu
+9	19:7:10	w	مِن	ﱿ	من	before	min
+9	19:7:11	w	قَبۡلُ	ﲀ	قبل	before	qablu
+9	19:7:12	w	سَمِيّٗا	ﲁ	سميا	(this) name	samiyyan
+10	19:7:13	e	٧	ﲂ			
+10	19:8:1	w	قَالَ	ﲃ	قال	He said	qāla
+10	19:8:2	w	رَبِّ	ﲄ	رب	My Lord	rabbi
+10	19:8:3	w	أَنَّىٰ	ﲅ	انى	How	annā
+10	19:8:4	w	يَكُونُ	ﲆ	يكون	can	yakūnu
+10	19:8:5	w	لِي	ﲇ	لي	I have	lī
+10	19:8:6	w	غُلَٰمٞ	ﲈ	غلام	a boy	ghulāmun
+10	19:8:7	w	وَكَانَتِ	ﲉ	وكانت	while is	wakānati
+10	19:8:8	w	ٱمۡرَأَتِي	ﲊ	امراتي	my wife	im'ra-atī
+10	19:8:9	w	عَاقِرٗا	ﲋ	عاقرا	barren	ʿāqiran
+11	19:8:10	w	وَقَدۡ	ﲌ	وقد	and indeed	waqad
+11	19:8:11	w	بَلَغۡتُ	ﲍ	بلغت	I have reached	balaghtu
+11	19:8:12	w	مِنَ	ﲎ	من	of	mina
+11	19:8:13	w	ٱلۡكِبَرِ	ﲏ	الكبر	the old age	l-kibari
+11	19:8:14	w	عِتِيّٗا	ﲐ	عتيا	extreme	ʿitiyyan
+11	19:8:15	e	٨	ﲑ			
+11	19:9:1	w	قَالَ	ﲒ	قال	He said	qāla
+11	19:9:2	w	كَذَٰلِكَ	ﲓ	كذالك	Thus	kadhālika
+11	19:9:3	w	قَالَ	ﲔ	قال	said	qāla
+12	19:9:4	w	رَبُّكَ	ﲕ	ربك	your Lord	rabbuka
+12	19:9:5	w	هُوَ	ﲖ	هو	'It	huwa
+12	19:9:6	w	عَلَيَّ	ﲗ	علي	(is) easy for Me	ʿalayya
+12	19:9:7	w	هَيِّنٞ	ﲘ	هين	(is) easy for Me	hayyinun
+12	19:9:8	w	وَقَدۡ	ﲙ	وقد	and certainly	waqad
+12	19:9:9	w	خَلَقۡتُكَ	ﲚ	خلقتك	I (have) created you	khalaqtuka
+12	19:9:10	w	مِن	ﲛ	من	before	min
+12	19:9:11	w	قَبۡلُ	ﲜ	قبل	before	qablu
+12	19:9:12	w	وَلَمۡ	ﲝ	ولم	while not	walam
+12	19:9:13	w	تَكُ	ﲞ	تك	you were	taku
+13	19:9:14	w	شَيۡـٔٗا	ﲟ	شييا	anything.'	shayan
+13	19:9:15	e	٩	ﲠ			
+13	19:10:1	w	قَالَ	ﲡ	قال	He said	qāla
+13	19:10:2	w	رَبِّ	ﲢ	رب	My Lord	rabbi
+13	19:10:3	w	ٱجۡعَل	ﲣ	اجعل	Make	ij'ʿal
+13	19:10:4	w	لِّيٓ	ﲤ	لي	for me	lī
+13	19:10:5	w	ءَايَةٗۖ	ﲥﲦ	اية	a sign	āyatan
+13	19:10:6	w	قَالَ	ﲧ	قال	He said	qāla
+13	19:10:7	w	ءَايَتُكَ	ﲨ	ايتك	Your sign	āyatuka
+13	19:10:8	w	أَلَّا	ﲩ	الا	(is) that not	allā
+14	19:10:9	w	تُكَلِّمَ	ﲪ	تكلم	you will speak	tukallima
+14	19:10:10	w	ٱلنَّاسَ	ﲫ	الناس	(to) the people	l-nāsa
+14	19:10:11	w	ثَلَٰثَ	ﲬ	ثلاث	(for) three	thalātha
+14	19:10:12	w	لَيَالٖ	ﲭ	ليال	nights	layālin
+14	19:10:13	w	سَوِيّٗا	ﲮ	سويا	sound	sawiyyan
+14	19:10:14	e	١٠	ﲯ			
+14	19:11:1	w	فَخَرَجَ	ﲰ	فخرج	Then he came out	fakharaja
+14	19:11:2	w	عَلَىٰ	ﲱ	على	to	ʿalā
+14	19:11:3	w	قَوۡمِهِۦ	ﲲ	قومه	his people	qawmihi
+14	19:11:4	w	مِنَ	ﲳ	من	from	mina
+15	19:11:5	w	ٱلۡمِحۡرَابِ	ﲴ	المحراب	the prayer chamber	l-miḥ'rābi
+15	19:11:6	w	فَأَوۡحَىٰٓ	ﲵ	فاوحى	and he signaled	fa-awḥā
+15	19:11:7	w	إِلَيۡهِمۡ	ﲶ	اليهم	to them	ilayhim
+15	19:11:8	w	أَن	ﲷ	ان	to	an
+15	19:11:9	w	سَبِّحُواْ	ﲸ	سبحوا	glorify (Allah)	sabbiḥū
+15	19:11:10	w	بُكۡرَةٗ	ﲹ	بكرة	(in) the morning	buk'ratan
+15	19:11:11	w	وَعَشِيّٗا	ﲺ	وعشيا	and (in) the evening	waʿashiyyan
+15	19:11:12	e	١١	ﲻ			

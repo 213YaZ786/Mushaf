@@ -1,0 +1,146 @@
+1	30:51:1	w	وَلَئِنۡ	ﱁ	ولين	But if	wala-in
+1	30:51:2	w	أَرۡسَلۡنَا	ﱂ	ارسلنا	We sent	arsalnā
+1	30:51:3	w	رِيحٗا	ﱃ	ريحا	a wind	rīḥan
+1	30:51:4	w	فَرَأَوۡهُ	ﱄ	فراوه	and they see it	fara-awhu
+1	30:51:5	w	مُصۡفَرّٗا	ﱅ	مصفرا	turn yellow	muṣ'farran
+1	30:51:6	w	لَّظَلُّواْ	ﱆ	لظلوا	certainly they continue	laẓallū
+1	30:51:7	w	مِنۢ	ﱇ	من	after it	min
+1	30:51:8	w	بَعۡدِهِۦ	ﱈ	بعده	after it	baʿdihi
+1	30:51:9	w	يَكۡفُرُونَ	ﱉ	يكفرون	(in) disbelief	yakfurūna
+2	30:51:10	e	٥١	ﱊ			
+2	30:52:1	w	فَإِنَّكَ	ﱋ	فانك	So indeed, you	fa-innaka
+2	30:52:2	w	لَا	ﱌ	لا	(can) not	lā
+2	30:52:3	w	تُسۡمِعُ	ﱍ	تسمع	make the dead hear	tus'miʿu
+2	30:52:4	w	ٱلۡمَوۡتَىٰ	ﱎ	الموتى	make the dead hear	l-mawtā
+2	30:52:5	w	وَلَا	ﱏ	ولا	and not	walā
+2	30:52:6	w	تُسۡمِعُ	ﱐ	تسمع	make the deaf hear	tus'miʿu
+2	30:52:7	w	ٱلصُّمَّ	ﱑ	الصم	make the deaf hear	l-ṣuma
+2	30:52:8	w	ٱلدُّعَآءَ	ﱒ	الدعاء	the call	l-duʿāa
+2	30:52:9	w	إِذَا	ﱓ	اذا	when	idhā
+2	30:52:10	w	وَلَّوۡاْ	ﱔ	ولوا	they turn	wallaw
+3	30:52:11	w	مُدۡبِرِينَ	ﱕ	مدبرين	retreating	mud'birīna
+3	30:52:12	e	٥٢	ﱖ			
+3	30:53:1	w	وَمَآ	ﱗ	وما	And not	wamā
+3	30:53:2	w	أَنتَ	ﱘ	انت	you	anta
+3	30:53:3	w	بِهَٰدِ	ﱙ	بهاد	can guide	bihādi
+3	30:53:4	w	ٱلۡعُمۡيِ	ﱚ	العمي	the blind	l-ʿum'yi
+3	30:53:5	w	عَن	ﱛ	عن	from	ʿan
+3	30:53:6	w	ضَلَٰلَتِهِمۡۖ	ﱜﱝ	ضلالتهم	their error	ḍalālatihim
+3	30:53:7	w	إِن	ﱞ	ان	Not	in
+3	30:53:8	w	تُسۡمِعُ	ﱟ	تسمع	you can make hear	tus'miʿu
+3	30:53:9	w	إِلَّا	ﱠ	الا	except	illā
+4	30:53:10	w	مَن	ﱡ	من	(those) who	man
+4	30:53:11	w	يُؤۡمِنُ	ﱢ	يومن	believe	yu'minu
+4	30:53:12	w	بِـَٔايَٰتِنَا	ﱣ	باياتنا	in Our Verses	biāyātinā
+4	30:53:13	w	فَهُم	ﱤ	فهم	so they	fahum
+4	30:53:14	w	مُّسۡلِمُونَ	ﱥ	مسلمون	surrender	mus'limūna
+4	30:53:15	e	٥٣	ﱦ			
+4	30:54:1	w	۞ ٱللَّهُ	ﱧ ﱨ	۞ الله	Allah	al-lahu
+4	30:54:2	w	ٱلَّذِي	ﱩ	الذي	(is) the One Who	alladhī
+4	30:54:3	w	خَلَقَكُم	ﱪ	خلقكم	created you	khalaqakum
+5	30:54:4	w	مِّن	ﱫ	من	from	min
+5	30:54:5	w	ضَعۡفٖ	ﱬ	ضعف	weakness	ḍaʿfin
+5	30:54:6	w	ثُمَّ	ﱭ	ثم	then	thumma
+5	30:54:7	w	جَعَلَ	ﱮ	جعل	made	jaʿala
+5	30:54:8	w	مِنۢ	ﱯ	من	after	min
+5	30:54:9	w	بَعۡدِ	ﱰ	بعد	after	baʿdi
+5	30:54:10	w	ضَعۡفٖ	ﱱ	ضعف	weakness	ḍaʿfin
+5	30:54:11	w	قُوَّةٗ	ﱲ	قوة	strength	quwwatan
+5	30:54:12	w	ثُمَّ	ﱳ	ثم	then	thumma
+5	30:54:13	w	جَعَلَ	ﱴ	جعل	made	jaʿala
+5	30:54:14	w	مِنۢ	ﱵ	من	after	min
+5	30:54:15	w	بَعۡدِ	ﱶ	بعد	after	baʿdi
+6	30:54:16	w	قُوَّةٖ	ﱷ	قوة	strength	quwwatin
+6	30:54:17	w	ضَعۡفٗا	ﱸ	ضعفا	weakness	ḍaʿfan
+6	30:54:18	w	وَشَيۡبَةٗۚ	ﱹﱺ	وشيبة	and gray hair	washaybatan
+6	30:54:19	w	يَخۡلُقُ	ﱻ	يخلق	He creates	yakhluqu
+6	30:54:20	w	مَا	ﱼ	ما	what	mā
+6	30:54:21	w	يَشَآءُۚ	ﱽﱾ	يشاء	He wills	yashāu
+6	30:54:22	w	وَهُوَ	ﱿ	وهو	and He	wahuwa
+6	30:54:23	w	ٱلۡعَلِيمُ	ﲀ	العليم	(is) the All-Knower	l-ʿalīmu
+6	30:54:24	w	ٱلۡقَدِيرُ	ﲁ	القدير	the All-Powerful	l-qadīru
+7	30:54:25	e	٥٤	ﲂ			
+7	30:55:1	w	وَيَوۡمَ	ﲃ	ويوم	And (the) Day	wayawma
+7	30:55:2	w	تَقُومُ	ﲄ	تقوم	will (be) established	taqūmu
+7	30:55:3	w	ٱلسَّاعَةُ	ﲅ	الساعة	the Hour	l-sāʿatu
+7	30:55:4	w	يُقۡسِمُ	ﲆ	يقسم	will swear	yuq'simu
+7	30:55:5	w	ٱلۡمُجۡرِمُونَ	ﲇ	المجرمون	the criminals	l-muj'rimūna
+7	30:55:6	w	مَا	ﲈ	ما	not	mā
+7	30:55:7	w	لَبِثُواْ	ﲉ	لبثوا	they remained	labithū
+7	30:55:8	w	غَيۡرَ	ﲊ	غير	but	ghayra
+8	30:55:9	w	سَاعَةٖۚ	ﲋﲌ	ساعة	an hour	sāʿatin
+8	30:55:10	w	كَذَٰلِكَ	ﲍ	كذالك	Thus	kadhālika
+8	30:55:11	w	كَانُواْ	ﲎ	كانوا	they were	kānū
+8	30:55:12	w	يُؤۡفَكُونَ	ﲏ	يوفكون	deluded	yu'fakūna
+8	30:55:13	e	٥٥	ﲐ			
+8	30:56:1	w	وَقَالَ	ﲑ	وقال	But will say	waqāla
+8	30:56:2	w	ٱلَّذِينَ	ﲒ	الذين	those who	alladhīna
+8	30:56:3	w	أُوتُواْ	ﲓ	اوتوا	were given	ūtū
+9	30:56:4	w	ٱلۡعِلۡمَ	ﲔ	العلم	the knowledge	l-ʿil'ma
+9	30:56:5	w	وَٱلۡإِيمَٰنَ	ﲕ	والايمان	and the faith	wal-īmāna
+9	30:56:6	w	لَقَدۡ	ﲖ	لقد	Verily	laqad
+9	30:56:7	w	لَبِثۡتُمۡ	ﲗ	لبثتم	you remained	labith'tum
+9	30:56:8	w	فِي	ﲘ	في	by	fī
+9	30:56:9	w	كِتَٰبِ	ﲙ	كتاب	(the) Decree	kitābi
+9	30:56:10	w	ٱللَّهِ	ﲚ	الله	(of) Allah	l-lahi
+9	30:56:11	w	إِلَىٰ	ﲛ	الى	until	ilā
+9	30:56:12	w	يَوۡمِ	ﲜ	يوم	(the) Day	yawmi
+9	30:56:13	w	ٱلۡبَعۡثِۖ	ﲝﲞ	البعث	(of) Resurrection	l-baʿthi
+10	30:56:14	w	فَهَٰذَا	ﲟ	فهاذا	And this	fahādhā
+10	30:56:15	w	يَوۡمُ	ﲠ	يوم	(is the) Day	yawmu
+10	30:56:16	w	ٱلۡبَعۡثِ	ﲡ	البعث	(of) the Resurrection	l-baʿthi
+10	30:56:17	w	وَلَٰكِنَّكُمۡ	ﲢ	ولاكنكم	but you	walākinnakum
+10	30:56:18	w	كُنتُمۡ	ﲣ	كنتم	were	kuntum
+10	30:56:19	w	لَا	ﲤ	لا	not	lā
+10	30:56:20	w	تَعۡلَمُونَ	ﲥ	تعلمون	knowing	taʿlamūna
+10	30:56:21	e	٥٦	ﲦ			
+10	30:57:1	w	فَيَوۡمَئِذٖ	ﲧ	فيوميذ	So that Day	fayawma-idhin
+11	30:57:2	w	لَّا	ﲨ	لا	not	lā
+11	30:57:3	w	يَنفَعُ	ﲩ	ينفع	will profit	yanfaʿu
+11	30:57:4	w	ٱلَّذِينَ	ﲪ	الذين	those who	alladhīna
+11	30:57:5	w	ظَلَمُواْ	ﲫ	ظلموا	wronged	ẓalamū
+11	30:57:6	w	مَعۡذِرَتُهُمۡ	ﲬ	معذرتهم	their excuses	maʿdhiratuhum
+11	30:57:7	w	وَلَا	ﲭ	ولا	and not	walā
+11	30:57:8	w	هُمۡ	ﲮ	هم	they	hum
+11	30:57:9	w	يُسۡتَعۡتَبُونَ	ﲯ	يستعتبون	will be allowed to make amends	yus'taʿtabūna
+12	30:57:10	e	٥٧	ﲰ			
+12	30:58:1	w	وَلَقَدۡ	ﲱ	ولقد	And verily	walaqad
+12	30:58:2	w	ضَرَبۡنَا	ﲲ	ضربنا	We (have) set forth	ḍarabnā
+12	30:58:3	w	لِلنَّاسِ	ﲳ	للناس	for mankind	lilnnāsi
+12	30:58:4	w	فِي	ﲴ	في	in	fī
+12	30:58:5	w	هَٰذَا	ﲵ	هاذا	this	hādhā
+12	30:58:6	w	ٱلۡقُرۡءَانِ	ﲶ	القران	[the] Quran	l-qur'āni
+12	30:58:7	w	مِن	ﲷ	من	of	min
+12	30:58:8	w	كُلِّ	ﲸ	كل	every	kulli
+12	30:58:9	w	مَثَلٖۚ	ﲹﲺ	مثل	example	mathalin
+13	30:58:10	w	وَلَئِن	ﲻ	ولين	But if	wala-in
+13	30:58:11	w	جِئۡتَهُم	ﲼ	جيتهم	you bring them	ji'tahum
+13	30:58:12	w	بِـَٔايَةٖ	ﲽ	باية	a sign	biāyatin
+13	30:58:13	w	لَّيَقُولَنَّ	ﲾ	ليقولن	surely will say	layaqūlanna
+13	30:58:14	w	ٱلَّذِينَ	ﲿ	الذين	those who	alladhīna
+13	30:58:15	w	كَفَرُوٓاْ	ﳀ	كفروا	disbelieve	kafarū
+13	30:58:16	w	إِنۡ	ﳁ	ان	Not	in
+13	30:58:17	w	أَنتُمۡ	ﳂ	انتم	you	antum
+13	30:58:18	w	إِلَّا	ﳃ	الا	(are) except	illā
+14	30:58:19	w	مُبۡطِلُونَ	ﳄ	مبطلون	falsifiers	mub'ṭilūna
+14	30:58:20	e	٥٨	ﳅ			
+14	30:59:1	w	كَذَٰلِكَ	ﳆ	كذالك	Thus	kadhālika
+14	30:59:2	w	يَطۡبَعُ	ﳇ	يطبع	Allah seals	yaṭbaʿu
+14	30:59:3	w	ٱللَّهُ	ﳈ	الله	Allah seals	l-lahu
+14	30:59:4	w	عَلَىٰ	ﳉ	على	[on]	ʿalā
+14	30:59:5	w	قُلُوبِ	ﳊ	قلوب	(the) hearts	qulūbi
+14	30:59:6	w	ٱلَّذِينَ	ﳋ	الذين	(of) those who	alladhīna
+14	30:59:7	w	لَا	ﳌ	لا	(do) not	lā
+14	30:59:8	w	يَعۡلَمُونَ	ﳍ	يعلمون	know	yaʿlamūna
+15	30:59:9	e	٥٩	ﳎ			
+15	30:60:1	w	فَٱصۡبِرۡ	ﳏ	فاصبر	So be patient	fa-iṣ'bir
+15	30:60:2	w	إِنَّ	ﳐ	ان	Indeed	inna
+15	30:60:3	w	وَعۡدَ	ﳑ	وعد	(the) Promise	waʿda
+15	30:60:4	w	ٱللَّهِ	ﳒ	الله	(of) Allah	l-lahi
+15	30:60:5	w	حَقّٞۖ	ﳓﳔ	حق	(is) true	ḥaqqun
+15	30:60:6	w	وَلَا	ﳕ	ولا	And (let) not	walā
+15	30:60:7	w	يَسۡتَخِفَّنَّكَ	ﳖ	يستخفنك	take you in light estimation	yastakhiffannaka
+15	30:60:8	w	ٱلَّذِينَ	ﳗ	الذين	those who	alladhīna
+15	30:60:9	w	لَا	ﳘ	لا	(are) not	lā
+15	30:60:10	w	يُوقِنُونَ	ﳙ	يوقنون	certain in faith	yūqinūna
+15	30:60:11	e	٦٠	ﳚ			

@@ -1,0 +1,148 @@
+2	24:1:1	w	سُورَةٌ	ﱁ	سورة	A Surah	sūratun
+2	24:1:2	w	أَنزَلۡنَٰهَا	ﱂ	انزلناها	We (have) sent it down	anzalnāhā
+2	24:1:3	w	وَفَرَضۡنَٰهَا	ﱃ	وفرضناها	and We (have) made it obligatory	wafaraḍnāhā
+2	24:1:4	w	وَأَنزَلۡنَا	ﱄ	وانزلنا	and We (have) revealed	wa-anzalnā
+2	24:1:5	w	فِيهَآ	ﱅ	فيها	therein	fīhā
+2	24:1:6	w	ءَايَٰتِۭ	ﱆ	ايات	Verses	āyātin
+2	24:1:7	w	بَيِّنَٰتٖ	ﱇ	بينات	clear	bayyinātin
+2	24:1:8	w	لَّعَلَّكُمۡ	ﱈ	لعلكم	so that you may	laʿallakum
+2	24:1:9	w	تَذَكَّرُونَ	ﱉ	تذكرون	take heed	tadhakkarūna
+3	24:1:10	e	١	ﱊ			
+3	24:2:1	w	ٱلزَّانِيَةُ	ﱋ	الزانية	The fornicatress	al-zāniyatu
+3	24:2:2	w	وَٱلزَّانِي	ﱌ	والزاني	and the fornicator	wal-zānī
+3	24:2:3	w	فَٱجۡلِدُواْ	ﱍ	فاجلدوا	[then] flog	fa-ij'lidū
+3	24:2:4	w	كُلَّ	ﱎ	كل	each	kulla
+3	24:2:5	w	وَٰحِدٖ	ﱏ	واحد	one	wāḥidin
+3	24:2:6	w	مِّنۡهُمَا	ﱐ	منهما	of them	min'humā
+3	24:2:7	w	مِاْئَةَ	ﱑ	ماية	(with) hundred	mi-ata
+3	24:2:8	w	جَلۡدَةٖۖ	ﱒﱓ	جلدة	lash(es)	jaldatin
+3	24:2:9	w	وَلَا	ﱔ	ولا	And (let) not	walā
+3	24:2:10	w	تَأۡخُذۡكُم	ﱕ	تاخذكم	withhold you	takhudh'kum
+4	24:2:11	w	بِهِمَا	ﱖ	بهما	pity for them	bihimā
+4	24:2:12	w	رَأۡفَةٞ	ﱗ	رافة	pity for them	rafatun
+4	24:2:13	w	فِي	ﱘ	في	concerning	fī
+4	24:2:14	w	دِينِ	ﱙ	دين	(the) religion of Allah	dīni
+4	24:2:15	w	ٱللَّهِ	ﱚ	الله	(the) religion of Allah	l-lahi
+4	24:2:16	w	إِن	ﱛ	ان	if	in
+4	24:2:17	w	كُنتُمۡ	ﱜ	كنتم	you	kuntum
+4	24:2:18	w	تُؤۡمِنُونَ	ﱝ	تومنون	believe	tu'minūna
+4	24:2:19	w	بِٱللَّهِ	ﱞ	بالله	in Allah	bil-lahi
+4	24:2:20	w	وَٱلۡيَوۡمِ	ﱟ	واليوم	and the Day	wal-yawmi
+4	24:2:21	w	ٱلۡأٓخِرِۖ	ﱠﱡ	الاخر	the Last	l-ākhiri
+4	24:2:22	w	وَلۡيَشۡهَدۡ	ﱢ	وليشهد	And let witness	walyashhad
+5	24:2:23	w	عَذَابَهُمَا	ﱣ	عذابهما	their punishment	ʿadhābahumā
+5	24:2:24	w	طَآئِفَةٞ	ﱤ	طايفة	a group	ṭāifatun
+5	24:2:25	w	مِّنَ	ﱥ	من	of	mina
+5	24:2:26	w	ٱلۡمُؤۡمِنِينَ	ﱦ	المومنين	the believers	l-mu'minīna
+5	24:2:27	e	٢	ﱧ			
+5	24:3:1	w	ٱلزَّانِي	ﱨ	الزاني	The fornicator	al-zānī
+5	24:3:2	w	لَا	ﱩ	لا	(will) not	lā
+5	24:3:3	w	يَنكِحُ	ﱪ	ينكح	marry	yankiḥu
+5	24:3:4	w	إِلَّا	ﱫ	الا	except	illā
+5	24:3:5	w	زَانِيَةً	ﱬ	زانية	a fornicatress	zāniyatan
+5	24:3:6	w	أَوۡ	ﱭ	او	or	aw
+5	24:3:7	w	مُشۡرِكَةٗ	ﱮ	مشركة	a polytheist woman	mush'rikatan
+6	24:3:8	w	وَٱلزَّانِيَةُ	ﱯ	والزانية	and the fornicatress	wal-zāniyatu
+6	24:3:9	w	لَا	ﱰ	لا	(will) not	lā
+6	24:3:10	w	يَنكِحُهَآ	ﱱ	ينكحها	marry her	yankiḥuhā
+6	24:3:11	w	إِلَّا	ﱲ	الا	except	illā
+6	24:3:12	w	زَانٍ	ﱳ	زان	a fornicator	zānin
+6	24:3:13	w	أَوۡ	ﱴ	او	or	aw
+6	24:3:14	w	مُشۡرِكٞۚ	ﱵﱶ	مشرك	a polytheist man	mush'rikun
+6	24:3:15	w	وَحُرِّمَ	ﱷ	وحرم	And is forbidden	waḥurrima
+6	24:3:16	w	ذَٰلِكَ	ﱸ	ذالك	that	dhālika
+6	24:3:17	w	عَلَى	ﱹ	على	to	ʿalā
+6	24:3:18	w	ٱلۡمُؤۡمِنِينَ	ﱺ	المومنين	the believers	l-mu'minīna
+7	24:3:19	e	٣	ﱻ			
+7	24:4:1	w	وَٱلَّذِينَ	ﱼ	والذين	And those who	wa-alladhīna
+7	24:4:2	w	يَرۡمُونَ	ﱽ	يرمون	accuse	yarmūna
+7	24:4:3	w	ٱلۡمُحۡصَنَٰتِ	ﱾ	المحصنات	the chaste women	l-muḥ'ṣanāti
+7	24:4:4	w	ثُمَّ	ﱿ	ثم	then	thumma
+7	24:4:5	w	لَمۡ	ﲀ	لم	not	lam
+7	24:4:6	w	يَأۡتُواْ	ﲁ	ياتوا	they bring	yatū
+7	24:4:7	w	بِأَرۡبَعَةِ	ﲂ	باربعة	four	bi-arbaʿati
+7	24:4:8	w	شُهَدَآءَ	ﲃ	شهداء	witnesses	shuhadāa
+8	24:4:9	w	فَٱجۡلِدُوهُمۡ	ﲄ	فاجلدوهم	then flog them	fa-ij'lidūhum
+8	24:4:10	w	ثَمَٰنِينَ	ﲅ	ثمانين	(with) eighty	thamānīna
+8	24:4:11	w	جَلۡدَةٗ	ﲆ	جلدة	lashe(s)	jaldatan
+8	24:4:12	w	وَلَا	ﲇ	ولا	and (do) not	walā
+8	24:4:13	w	تَقۡبَلُواْ	ﲈ	تقبلوا	accept	taqbalū
+8	24:4:14	w	لَهُمۡ	ﲉ	لهم	their	lahum
+8	24:4:15	w	شَهَٰدَةً	ﲊ	شهادة	testimony	shahādatan
+8	24:4:16	w	أَبَدٗاۚ	ﲋﲌ	ابدا	ever	abadan
+8	24:4:17	w	وَأُوْلَٰٓئِكَ	ﲍ	واولايك	And those	wa-ulāika
+9	24:4:18	w	هُمُ	ﲎ	هم	they	humu
+9	24:4:19	w	ٱلۡفَٰسِقُونَ	ﲏ	الفاسقون	(are) the defiantly disobedient	l-fāsiqūna
+9	24:4:20	e	٤	ﲐ			
+9	24:5:1	w	إِلَّا	ﲑ	الا	Except	illā
+9	24:5:2	w	ٱلَّذِينَ	ﲒ	الذين	those who	alladhīna
+9	24:5:3	w	تَابُواْ	ﲓ	تابوا	repent	tābū
+9	24:5:4	w	مِنۢ	ﲔ	من	after	min
+9	24:5:5	w	بَعۡدِ	ﲕ	بعد	after	baʿdi
+9	24:5:6	w	ذَٰلِكَ	ﲖ	ذالك	that	dhālika
+9	24:5:7	w	وَأَصۡلَحُواْ	ﲗ	واصلحوا	and reform	wa-aṣlaḥū
+9	24:5:8	w	فَإِنَّ	ﲘ	فان	Then indeed	fa-inna
+10	24:5:9	w	ٱللَّهَ	ﲙ	الله	Allah	l-laha
+10	24:5:10	w	غَفُورٞ	ﲚ	غفور	(is) Oft-Forgiving	ghafūrun
+10	24:5:11	w	رَّحِيمٞ	ﲛ	رحيم	Most Merciful	raḥīmun
+10	24:5:12	e	٥	ﲜ			
+10	24:6:1	w	وَٱلَّذِينَ	ﲝ	والذين	And those who	wa-alladhīna
+10	24:6:2	w	يَرۡمُونَ	ﲞ	يرمون	accuse	yarmūna
+10	24:6:3	w	أَزۡوَٰجَهُمۡ	ﲟ	ازواجهم	their spouses	azwājahum
+10	24:6:4	w	وَلَمۡ	ﲠ	ولم	and not	walam
+10	24:6:5	w	يَكُن	ﲡ	يكن	have	yakun
+10	24:6:6	w	لَّهُمۡ	ﲢ	لهم	for them	lahum
+11	24:6:7	w	شُهَدَآءُ	ﲣ	شهداء	witnesses	shuhadāu
+11	24:6:8	w	إِلَّآ	ﲤ	الا	except	illā
+11	24:6:9	w	أَنفُسُهُمۡ	ﲥ	انفسهم	themselves	anfusuhum
+11	24:6:10	w	فَشَهَٰدَةُ	ﲦ	فشهادة	then (the) testimony	fashahādatu
+11	24:6:11	w	أَحَدِهِمۡ	ﲧ	احدهم	(of) one of them	aḥadihim
+11	24:6:12	w	أَرۡبَعُ	ﲨ	اربع	(is) four	arbaʿu
+11	24:6:13	w	شَهَٰدَٰتِۭ	ﲩ	شهادات	testimonies	shahādātin
+11	24:6:14	w	بِٱللَّهِ	ﲪ	بالله	by Allah	bil-lahi
+11	24:6:15	w	إِنَّهُۥ	ﲫ	انه	that he	innahu
+11	24:6:16	w	لَمِنَ	ﲬ	لمن	(is) surely of	lamina
+12	24:6:17	w	ٱلصَّٰدِقِينَ	ﲭ	الصادقين	the truthful	l-ṣādiqīna
+12	24:6:18	e	٦	ﲮ			
+12	24:7:1	w	وَٱلۡخَٰمِسَةُ	ﲯ	والخامسة	And the fifth	wal-khāmisatu
+12	24:7:2	w	أَنَّ	ﲰ	ان	that	anna
+12	24:7:3	w	لَعۡنَتَ	ﲱ	لعنت	(the) curse of Allah	laʿnata
+12	24:7:4	w	ٱللَّهِ	ﲲ	الله	(the) curse of Allah	l-lahi
+12	24:7:5	w	عَلَيۡهِ	ﲳ	عليه	(be) upon him	ʿalayhi
+12	24:7:6	w	إِن	ﲴ	ان	if	in
+12	24:7:7	w	كَانَ	ﲵ	كان	he is	kāna
+12	24:7:8	w	مِنَ	ﲶ	من	of	mina
+12	24:7:9	w	ٱلۡكَٰذِبِينَ	ﲷ	الكاذبين	the liars	l-kādhibīna
+13	24:7:10	e	٧	ﲸ			
+13	24:8:1	w	وَيَدۡرَؤُاْ	ﲹ	ويدرا	But it would prevent	wayadra-u
+13	24:8:2	w	عَنۡهَا	ﲺ	عنها	from her	ʿanhā
+13	24:8:3	w	ٱلۡعَذَابَ	ﲻ	العذاب	the punishment	l-ʿadhāba
+13	24:8:4	w	أَن	ﲼ	ان	that	an
+13	24:8:5	w	تَشۡهَدَ	ﲽ	تشهد	she bears witness	tashhada
+13	24:8:6	w	أَرۡبَعَ	ﲾ	اربع	four	arbaʿa
+13	24:8:7	w	شَهَٰدَٰتِۭ	ﲿ	شهادات	testimonies	shahādātin
+13	24:8:8	w	بِٱللَّهِ	ﳀ	بالله	by Allah	bil-lahi
+13	24:8:9	w	إِنَّهُۥ	ﳁ	انه	that he	innahu
+13	24:8:10	w	لَمِنَ	ﳂ	لمن	(is) surely of	lamina
+14	24:8:11	w	ٱلۡكَٰذِبِينَ	ﳃ	الكاذبين	the liars	l-kādhibīna
+14	24:8:12	e	٨	ﳄ			
+14	24:9:1	w	وَٱلۡخَٰمِسَةَ	ﳅ	والخامسة	And the fifth	wal-khāmisata
+14	24:9:2	w	أَنَّ	ﳆ	ان	that	anna
+14	24:9:3	w	غَضَبَ	ﳇ	غضب	the wrath of Allah	ghaḍaba
+14	24:9:4	w	ٱللَّهِ	ﳈ	الله	the wrath of Allah	l-lahi
+14	24:9:5	w	عَلَيۡهَآ	ﳉ	عليها	(be) upon her	ʿalayhā
+14	24:9:6	w	إِن	ﳊ	ان	if	in
+14	24:9:7	w	كَانَ	ﳋ	كان	he is	kāna
+14	24:9:8	w	مِنَ	ﳌ	من	of	mina
+14	24:9:9	w	ٱلصَّٰدِقِينَ	ﳍ	الصادقين	the truthful	l-ṣādiqīna
+15	24:9:10	e	٩	ﳎ			
+15	24:10:1	w	وَلَوۡلَا	ﳏ	ولولا	And if not	walawlā
+15	24:10:2	w	فَضۡلُ	ﳐ	فضل	(for) the Grace of Allah	faḍlu
+15	24:10:3	w	ٱللَّهِ	ﳑ	الله	(for) the Grace of Allah	l-lahi
+15	24:10:4	w	عَلَيۡكُمۡ	ﳒ	عليكم	upon you	ʿalaykum
+15	24:10:5	w	وَرَحۡمَتُهُۥ	ﳓ	ورحمته	and His Mercy	waraḥmatuhu
+15	24:10:6	w	وَأَنَّ	ﳔ	وان	and that	wa-anna
+15	24:10:7	w	ٱللَّهَ	ﳕ	الله	Allah	l-laha
+15	24:10:8	w	تَوَّابٌ	ﳖ	تواب	(is) Oft-Returning (to Mercy)	tawwābun
+15	24:10:9	w	حَكِيمٌ	ﳗ	حكيم	All-Wise	ḥakīmun
+15	24:10:10	e	١٠	ﳘ			

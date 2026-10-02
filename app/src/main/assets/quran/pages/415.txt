@@ -1,0 +1,142 @@
+2	32:1:1	w	الٓمٓ	ﱁ	الم	Alif Lam Meem	alif-lam-meem
+2	32:1:2	e	١	ﱂ			
+2	32:2:1	w	تَنزِيلُ	ﱃ	تنزيل	(The) revelation	tanzīlu
+2	32:2:2	w	ٱلۡكِتَٰبِ	ﱄ	الكتاب	(of) the Book	l-kitābi
+2	32:2:3	w	لَا	ﱅ	لا	(there is) no	lā
+2	32:2:4	w	رَيۡبَ	ﱆ	ريب	doubt	rayba
+2	32:2:5	w	فِيهِ	ﱇ	فيه	about it	fīhi
+2	32:2:6	w	مِن	ﱈ	من	from	min
+2	32:2:7	w	رَّبِّ	ﱉ	رب	(the) Lord	rabbi
+2	32:2:8	w	ٱلۡعَٰلَمِينَ	ﱊ	العالمين	(of) the worlds	l-ʿālamīna
+3	32:2:9	e	٢	ﱋ			
+3	32:3:1	w	أَمۡ	ﱌ	ام	Or	am
+3	32:3:2	w	يَقُولُونَ	ﱍ	يقولون	(do) they say	yaqūlūna
+3	32:3:3	w	ٱفۡتَرَىٰهُۚ	ﱎﱏ	افتراه	He invented it	if'tarāhu
+3	32:3:4	w	بَلۡ	ﱐ	بل	Nay	bal
+3	32:3:5	w	هُوَ	ﱑ	هو	it	huwa
+3	32:3:6	w	ٱلۡحَقُّ	ﱒ	الحق	(is) the truth	l-ḥaqu
+3	32:3:7	w	مِن	ﱓ	من	from	min
+3	32:3:8	w	رَّبِّكَ	ﱔ	ربك	your Lord	rabbika
+3	32:3:9	w	لِتُنذِرَ	ﱕ	لتنذر	that you may warn	litundhira
+3	32:3:10	w	قَوۡمٗا	ﱖ	قوما	a people	qawman
+4	32:3:11	w	مَّآ	ﱗ	ما	not	mā
+4	32:3:12	w	أَتَىٰهُم	ﱘ	اتاهم	has come to them	atāhum
+4	32:3:13	w	مِّن	ﱙ	من	any	min
+4	32:3:14	w	نَّذِيرٖ	ﱚ	نذير	warner	nadhīrin
+4	32:3:15	w	مِّن	ﱛ	من	before you	min
+4	32:3:16	w	قَبۡلِكَ	ﱜ	قبلك	before you	qablika
+4	32:3:17	w	لَعَلَّهُمۡ	ﱝ	لعلهم	so that they may	laʿallahum
+4	32:3:18	w	يَهۡتَدُونَ	ﱞ	يهتدون	be guided	yahtadūna
+4	32:3:19	e	٣	ﱟ			
+4	32:4:1	w	ٱللَّهُ	ﱠ	الله	Allah	al-lahu
+5	32:4:2	w	ٱلَّذِي	ﱡ	الذي	(is) the One Who	alladhī
+5	32:4:3	w	خَلَقَ	ﱢ	خلق	created	khalaqa
+5	32:4:4	w	ٱلسَّمَٰوَٰتِ	ﱣ	السماوات	the heavens	l-samāwāti
+5	32:4:5	w	وَٱلۡأَرۡضَ	ﱤ	والارض	and the earth	wal-arḍa
+5	32:4:6	w	وَمَا	ﱥ	وما	and whatever	wamā
+5	32:4:7	w	بَيۡنَهُمَا	ﱦ	بينهما	(is) between them	baynahumā
+5	32:4:8	w	فِي	ﱧ	في	in	fī
+5	32:4:9	w	سِتَّةِ	ﱨ	ستة	six	sittati
+5	32:4:10	w	أَيَّامٖ	ﱩ	ايام	periods	ayyāmin
+6	32:4:11	w	ثُمَّ	ﱪ	ثم	Then	thumma
+6	32:4:12	w	ٱسۡتَوَىٰ	ﱫ	استوى	established Himself	is'tawā
+6	32:4:13	w	عَلَى	ﱬ	على	on	ʿalā
+6	32:4:14	w	ٱلۡعَرۡشِۖ	ﱭﱮ	العرش	the Throne	l-ʿarshi
+6	32:4:15	w	مَا	ﱯ	ما	Not	mā
+6	32:4:16	w	لَكُم	ﱰ	لكم	for you	lakum
+6	32:4:17	w	مِّن	ﱱ	من	besides Him	min
+6	32:4:18	w	دُونِهِۦ	ﱲ	دونه	besides Him	dūnihi
+6	32:4:19	w	مِن	ﱳ	من	any	min
+6	32:4:20	w	وَلِيّٖ	ﱴ	ولي	protector	waliyyin
+6	32:4:21	w	وَلَا	ﱵ	ولا	and not	walā
+6	32:4:22	w	شَفِيعٍۚ	ﱶﱷ	شفيع	any intercessor	shafīʿin
+7	32:4:23	w	أَفَلَا	ﱸ	افلا	Then will not	afalā
+7	32:4:24	w	تَتَذَكَّرُونَ	ﱹ	تتذكرون	you take heed	tatadhakkarūna
+7	32:4:25	e	٤	ﱺ			
+7	32:5:1	w	يُدَبِّرُ	ﱻ	يدبر	He regulates	yudabbiru
+7	32:5:2	w	ٱلۡأَمۡرَ	ﱼ	الامر	the affair	l-amra
+7	32:5:3	w	مِنَ	ﱽ	من	of	mina
+7	32:5:4	w	ٱلسَّمَآءِ	ﱾ	السماء	the heaven	l-samāi
+7	32:5:5	w	إِلَى	ﱿ	الى	to	ilā
+7	32:5:6	w	ٱلۡأَرۡضِ	ﲀ	الارض	the earth	l-arḍi
+7	32:5:7	w	ثُمَّ	ﲁ	ثم	then	thumma
+7	32:5:8	w	يَعۡرُجُ	ﲂ	يعرج	it will ascend	yaʿruju
+8	32:5:9	w	إِلَيۡهِ	ﲃ	اليه	to Him	ilayhi
+8	32:5:10	w	فِي	ﲄ	في	in	fī
+8	32:5:11	w	يَوۡمٖ	ﲅ	يوم	a Day	yawmin
+8	32:5:12	w	كَانَ	ﲆ	كان	(the) measure of which is	kāna
+8	32:5:13	w	مِقۡدَارُهُۥٓ	ﲇ	مقداره	(the) measure of which is	miq'dāruhu
+8	32:5:14	w	أَلۡفَ	ﲈ	الف	a thousand	alfa
+8	32:5:15	w	سَنَةٖ	ﲉ	سنة	years	sanatin
+8	32:5:16	w	مِّمَّا	ﲊ	مما	of what	mimmā
+8	32:5:17	w	تَعُدُّونَ	ﲋ	تعدون	you count	taʿuddūna
+8	32:5:18	e	٥	ﲌ			
+8	32:6:1	w	ذَٰلِكَ	ﲍ	ذالك	That	dhālika
+9	32:6:2	w	عَٰلِمُ	ﲎ	عالم	(is the) Knower	ʿālimu
+9	32:6:3	w	ٱلۡغَيۡبِ	ﲏ	الغيب	(of) the hidden	l-ghaybi
+9	32:6:4	w	وَٱلشَّهَٰدَةِ	ﲐ	والشهادة	and the witnessed	wal-shahādati
+9	32:6:5	w	ٱلۡعَزِيزُ	ﲑ	العزيز	the All-Mighty	l-ʿazīzu
+9	32:6:6	w	ٱلرَّحِيمُ	ﲒ	الرحيم	the Most Merciful	l-raḥīmu
+9	32:6:7	e	٦	ﲓ			
+9	32:7:1	w	ٱلَّذِيٓ	ﲔ	الذي	The One Who	alladhī
+9	32:7:2	w	أَحۡسَنَ	ﲕ	احسن	made good	aḥsana
+10	32:7:3	w	كُلَّ	ﲖ	كل	every	kulla
+10	32:7:4	w	شَيۡءٍ	ﲗ	شيء	thing	shayin
+10	32:7:5	w	خَلَقَهُۥۖ	ﲘﲙ	خلقه	He created	khalaqahu
+10	32:7:6	w	وَبَدَأَ	ﲚ	وبدا	and He began	wabada-a
+10	32:7:7	w	خَلۡقَ	ﲛ	خلق	(the) creation	khalqa
+10	32:7:8	w	ٱلۡإِنسَٰنِ	ﲜ	الانسان	(of) man	l-insāni
+10	32:7:9	w	مِن	ﲝ	من	from	min
+10	32:7:10	w	طِينٖ	ﲞ	طين	clay	ṭīnin
+10	32:7:11	e	٧	ﲟ			
+10	32:8:1	w	ثُمَّ	ﲠ	ثم	Then	thumma
+10	32:8:2	w	جَعَلَ	ﲡ	جعل	He made	jaʿala
+11	32:8:3	w	نَسۡلَهُۥ	ﲢ	نسله	his progeny	naslahu
+11	32:8:4	w	مِن	ﲣ	من	from	min
+11	32:8:5	w	سُلَٰلَةٖ	ﲤ	سلالة	an extract	sulālatin
+11	32:8:6	w	مِّن	ﲥ	من	of	min
+11	32:8:7	w	مَّآءٖ	ﲦ	ماء	water	māin
+11	32:8:8	w	مَّهِينٖ	ﲧ	مهين	despised	mahīnin
+11	32:8:9	e	٨	ﲨ			
+11	32:9:1	w	ثُمَّ	ﲩ	ثم	Then	thumma
+11	32:9:2	w	سَوَّىٰهُ	ﲪ	سواه	He fashioned him	sawwāhu
+11	32:9:3	w	وَنَفَخَ	ﲫ	ونفخ	and breathed	wanafakha
+11	32:9:4	w	فِيهِ	ﲬ	فيه	into him	fīhi
+11	32:9:5	w	مِن	ﲭ	من	from	min
+12	32:9:6	w	رُّوحِهِۦۖ	ﲮﲯ	روحه	His spirit	rūḥihi
+12	32:9:7	w	وَجَعَلَ	ﲰ	وجعل	and made	wajaʿala
+12	32:9:8	w	لَكُمُ	ﲱ	لكم	for you	lakumu
+12	32:9:9	w	ٱلسَّمۡعَ	ﲲ	السمع	the hearing	l-samʿa
+12	32:9:10	w	وَٱلۡأَبۡصَٰرَ	ﲳ	والابصار	and the sight	wal-abṣāra
+12	32:9:11	w	وَٱلۡأَفۡـِٔدَةَۚ	ﲴﲵ	والافيدة	and feelings	wal-afidata
+12	32:9:12	w	قَلِيلٗا	ﲶ	قليلا	little	qalīlan
+13	32:9:13	w	مَّا	ﲷ	ما	[what]	mā
+13	32:9:14	w	تَشۡكُرُونَ	ﲸ	تشكرون	thanks you give	tashkurūna
+13	32:9:15	e	٩	ﲹ			
+13	32:10:1	w	وَقَالُوٓاْ	ﲺ	وقالوا	And they say	waqālū
+13	32:10:2	w	أَءِذَا	ﲻ	ااذا	Is (it) when	a-idhā
+13	32:10:3	w	ضَلَلۡنَا	ﲼ	ضللنا	we are lost	ḍalalnā
+13	32:10:4	w	فِي	ﲽ	في	in	fī
+13	32:10:5	w	ٱلۡأَرۡضِ	ﲾ	الارض	the earth	l-arḍi
+13	32:10:6	w	أَءِنَّا	ﲿ	اانا	will we	a-innā
+13	32:10:7	w	لَفِي	ﳀ	لفي	certainly be in	lafī
+14	32:10:8	w	خَلۡقٖ	ﳁ	خلق	a creation	khalqin
+14	32:10:9	w	جَدِيدِۭۚ	ﳂﳃ	جديد	new	jadīdin
+14	32:10:10	w	بَلۡ	ﳄ	بل	Nay	bal
+14	32:10:11	w	هُم	ﳅ	هم	they	hum
+14	32:10:12	w	بِلِقَآءِ	ﳆ	بلقاء	in (the) meeting	biliqāi
+14	32:10:13	w	رَبِّهِمۡ	ﳇ	ربهم	(of) their Lord	rabbihim
+14	32:10:14	w	كَٰفِرُونَ	ﳈ	كافرون	(are) disbelievers	kāfirūna
+14	32:10:15	e	١٠	ﳉ			
+14	32:11:1	w	۞ قُلۡ	ﳊ ﳋ	۞ قل	Say	qul
+14	32:11:2	w	يَتَوَفَّىٰكُم	ﳌ	يتوفاكم	Will take your soul	yatawaffākum
+15	32:11:3	w	مَّلَكُ	ﳍ	ملك	(the) Angel	malaku
+15	32:11:4	w	ٱلۡمَوۡتِ	ﳎ	الموت	(of) the death	l-mawti
+15	32:11:5	w	ٱلَّذِي	ﳏ	الذي	the one who	alladhī
+15	32:11:6	w	وُكِّلَ	ﳐ	وكل	has been put in charge	wukkila
+15	32:11:7	w	بِكُمۡ	ﳑ	بكم	of you	bikum
+15	32:11:8	w	ثُمَّ	ﳒ	ثم	Then	thumma
+15	32:11:9	w	إِلَىٰ	ﳓ	الى	to	ilā
+15	32:11:10	w	رَبِّكُمۡ	ﳔ	ربكم	your Lord	rabbikum
+15	32:11:11	w	تُرۡجَعُونَ	ﳕ	ترجعون	you will be returned	tur'jaʿūna
+15	32:11:12	e	١١	ﳖ			

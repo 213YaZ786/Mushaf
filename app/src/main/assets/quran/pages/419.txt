@@ -1,0 +1,142 @@
+1	33:7:1	w	وَإِذۡ	ﱁ	واذ	And when	wa-idh
+1	33:7:2	w	أَخَذۡنَا	ﱂ	اخذنا	We took	akhadhnā
+1	33:7:3	w	مِنَ	ﱃ	من	from	mina
+1	33:7:4	w	ٱلنَّبِيِّـۧنَ	ﱄ	النبيين	the Prophets	l-nabiyīna
+1	33:7:5	w	مِيثَٰقَهُمۡ	ﱅ	ميثاقهم	their Covenant	mīthāqahum
+1	33:7:6	w	وَمِنكَ	ﱆ	ومنك	and from you	waminka
+1	33:7:7	w	وَمِن	ﱇ	ومن	and from	wamin
+1	33:7:8	w	نُّوحٖ	ﱈ	نوح	Nuh	nūḥin
+1	33:7:9	w	وَإِبۡرَٰهِيمَ	ﱉ	وابراهيم	and Ibrahim	wa-ib'rāhīma
+2	33:7:10	w	وَمُوسَىٰ	ﱊ	وموسى	and Musa	wamūsā
+2	33:7:11	w	وَعِيسَى	ﱋ	وعيسى	and Isa	waʿīsā
+2	33:7:12	w	ٱبۡنِ	ﱌ	ابن	son	ib'ni
+2	33:7:13	w	مَرۡيَمَۖ	ﱍﱎ	مريم	(of) Maryam	maryama
+2	33:7:14	w	وَأَخَذۡنَا	ﱏ	واخذنا	And We took	wa-akhadhnā
+2	33:7:15	w	مِنۡهُم	ﱐ	منهم	from them	min'hum
+2	33:7:16	w	مِّيثَٰقًا	ﱑ	ميثاقا	a covenant	mīthāqan
+2	33:7:17	w	غَلِيظٗا	ﱒ	غليظا	strong	ghalīẓan
+2	33:7:18	e	٧	ﱓ			
+3	33:8:1	w	لِّيَسۡـَٔلَ	ﱔ	ليسال	That He may ask	liyasala
+3	33:8:2	w	ٱلصَّٰدِقِينَ	ﱕ	الصادقين	the truthful	l-ṣādiqīna
+3	33:8:3	w	عَن	ﱖ	عن	about	ʿan
+3	33:8:4	w	صِدۡقِهِمۡۚ	ﱗﱘ	صدقهم	their truth	ṣid'qihim
+3	33:8:5	w	وَأَعَدَّ	ﱙ	واعد	And He has prepared	wa-aʿadda
+3	33:8:6	w	لِلۡكَٰفِرِينَ	ﱚ	للكافرين	for the disbelievers	lil'kāfirīna
+3	33:8:7	w	عَذَابًا	ﱛ	عذابا	a punishment	ʿadhāban
+3	33:8:8	w	أَلِيمٗا	ﱜ	اليما	painful	alīman
+4	33:8:9	e	٨	ﱝ			
+4	33:9:1	w	يَٰٓأَيُّهَا	ﱞ	يا ايها	O you	yāayyuhā
+4	33:9:2	w	ٱلَّذِينَ	ﱟ	الذين	who	alladhīna
+4	33:9:3	w	ءَامَنُواْ	ﱠ	امنوا	believe	āmanū
+4	33:9:4	w	ٱذۡكُرُواْ	ﱡ	اذكروا	Remember	udh'kurū
+4	33:9:5	w	نِعۡمَةَ	ﱢ	نعمة	(the) Favor	niʿ'mata
+4	33:9:6	w	ٱللَّهِ	ﱣ	الله	(of) Allah	l-lahi
+4	33:9:7	w	عَلَيۡكُمۡ	ﱤ	عليكم	upon you	ʿalaykum
+4	33:9:8	w	إِذۡ	ﱥ	اذ	when	idh
+4	33:9:9	w	جَآءَتۡكُمۡ	ﱦ	جاءتكم	came to you	jāatkum
+5	33:9:10	w	جُنُودٞ	ﱧ	جنود	(the) hosts	junūdun
+5	33:9:11	w	فَأَرۡسَلۡنَا	ﱨ	فارسلنا	and We sent	fa-arsalnā
+5	33:9:12	w	عَلَيۡهِمۡ	ﱩ	عليهم	upon them	ʿalayhim
+5	33:9:13	w	رِيحٗا	ﱪ	ريحا	a wind	rīḥan
+5	33:9:14	w	وَجُنُودٗا	ﱫ	وجنودا	and hosts	wajunūdan
+5	33:9:15	w	لَّمۡ	ﱬ	لم	not	lam
+5	33:9:16	w	تَرَوۡهَاۚ	ﱭﱮ	تروها	you (could) see them	tarawhā
+5	33:9:17	w	وَكَانَ	ﱯ	وكان	And Allah is	wakāna
+5	33:9:18	w	ٱللَّهُ	ﱰ	الله	And Allah is	l-lahu
+6	33:9:19	w	بِمَا	ﱱ	بما	of what	bimā
+6	33:9:20	w	تَعۡمَلُونَ	ﱲ	تعملون	you do	taʿmalūna
+6	33:9:21	w	بَصِيرًا	ﱳ	بصيرا	All-Seer	baṣīran
+6	33:9:22	e	٩	ﱴ			
+6	33:10:1	w	إِذۡ	ﱵ	اذ	When	idh
+6	33:10:2	w	جَآءُوكُم	ﱶ	جاءوكم	they came upon you	jāūkum
+6	33:10:3	w	مِّن	ﱷ	من	from	min
+6	33:10:4	w	فَوۡقِكُمۡ	ﱸ	فوقكم	above you	fawqikum
+6	33:10:5	w	وَمِنۡ	ﱹ	ومن	and from	wamin
+6	33:10:6	w	أَسۡفَلَ	ﱺ	اسفل	below	asfala
+7	33:10:7	w	مِنكُمۡ	ﱻ	منكم	you	minkum
+7	33:10:8	w	وَإِذۡ	ﱼ	واذ	and when	wa-idh
+7	33:10:9	w	زَاغَتِ	ﱽ	زاغت	grew wild	zāghati
+7	33:10:10	w	ٱلۡأَبۡصَٰرُ	ﱾ	الابصار	the eyes	l-abṣāru
+7	33:10:11	w	وَبَلَغَتِ	ﱿ	وبلغت	and reached	wabalaghati
+7	33:10:12	w	ٱلۡقُلُوبُ	ﲀ	القلوب	the hearts	l-qulūbu
+7	33:10:13	w	ٱلۡحَنَاجِرَ	ﲁ	الحناجر	the throats	l-ḥanājira
+8	33:10:14	w	وَتَظُنُّونَ	ﲂ	وتظنون	and you assumed	wataẓunnūna
+8	33:10:15	w	بِٱللَّهِ	ﲃ	بالله	about Allah	bil-lahi
+8	33:10:16	w	ٱلظُّنُونَا۠	ﲄ	الظنونا	the assumptions	l-ẓunūnā
+8	33:10:17	e	١٠	ﲅ			
+8	33:11:1	w	هُنَالِكَ	ﲆ	هنالك	There	hunālika
+8	33:11:2	w	ٱبۡتُلِيَ	ﲇ	ابتلي	were tried	ub'tuliya
+8	33:11:3	w	ٱلۡمُؤۡمِنُونَ	ﲈ	المومنون	the believers	l-mu'minūna
+8	33:11:4	w	وَزُلۡزِلُواْ	ﲉ	وزلزلوا	and shaken	wazul'zilū
+9	33:11:5	w	زِلۡزَالٗا	ﲊ	زلزالا	(with a) shake	zil'zālan
+9	33:11:6	w	شَدِيدٗا	ﲋ	شديدا	severe	shadīdan
+9	33:11:7	e	١١	ﲌ			
+9	33:12:1	w	وَإِذۡ	ﲍ	واذ	And when	wa-idh
+9	33:12:2	w	يَقُولُ	ﲎ	يقول	said	yaqūlu
+9	33:12:3	w	ٱلۡمُنَٰفِقُونَ	ﲏ	المنافقون	the hypocrites	l-munāfiqūna
+9	33:12:4	w	وَٱلَّذِينَ	ﲐ	والذين	and those	wa-alladhīna
+9	33:12:5	w	فِي	ﲑ	في	in	fī
+9	33:12:6	w	قُلُوبِهِم	ﲒ	قلوبهم	their hearts	qulūbihim
+10	33:12:7	w	مَّرَضٞ	ﲓ	مرض	(was) a disease	maraḍun
+10	33:12:8	w	مَّا	ﲔ	ما	Not	mā
+10	33:12:9	w	وَعَدَنَا	ﲕ	وعدنا	Allah promised us	waʿadanā
+10	33:12:10	w	ٱللَّهُ	ﲖ	الله	Allah promised us	l-lahu
+10	33:12:11	w	وَرَسُولُهُۥٓ	ﲗ	ورسوله	and His messenger	warasūluhu
+10	33:12:12	w	إِلَّا	ﲘ	الا	except	illā
+10	33:12:13	w	غُرُورٗا	ﲙ	غرورا	delusion	ghurūran
+10	33:12:14	e	١٢	ﲚ			
+10	33:13:1	w	وَإِذۡ	ﲛ	واذ	And when	wa-idh
+10	33:13:2	w	قَالَت	ﲜ	قالت	said	qālat
+10	33:13:3	w	طَّآئِفَةٞ	ﲝ	طايفة	a party	ṭāifatun
+11	33:13:4	w	مِّنۡهُمۡ	ﲞ	منهم	of them	min'hum
+11	33:13:5	w	يَٰٓأَهۡلَ	ﲟ	يا اهل	O People	yāahla
+11	33:13:6	w	يَثۡرِبَ	ﲠ	يثرب	(of) Yathrib	yathriba
+11	33:13:7	w	لَا	ﲡ	لا	No	lā
+11	33:13:8	w	مُقَامَ	ﲢ	مقام	stand	muqāma
+11	33:13:9	w	لَكُمۡ	ﲣ	لكم	for you	lakum
+11	33:13:10	w	فَٱرۡجِعُواْۚ	ﲤﲥ	فارجعوا	so return	fa-ir'jiʿū
+11	33:13:11	w	وَيَسۡتَـٔۡذِنُ	ﲦ	ويستاذن	And asked permission	wayastadhinu
+11	33:13:12	w	فَرِيقٞ	ﲧ	فريق	a group	farīqun
+12	33:13:13	w	مِّنۡهُمُ	ﲨ	منهم	of them	min'humu
+12	33:13:14	w	ٱلنَّبِيَّ	ﲩ	النبي	(from) the Prophet	l-nabiya
+12	33:13:15	w	يَقُولُونَ	ﲪ	يقولون	saying	yaqūlūna
+12	33:13:16	w	إِنَّ	ﲫ	ان	Indeed	inna
+12	33:13:17	w	بُيُوتَنَا	ﲬ	بيوتنا	our houses	buyūtanā
+12	33:13:18	w	عَوۡرَةٞ	ﲭ	عورة	(are) exposed	ʿawratun
+12	33:13:19	w	وَمَا	ﲮ	وما	and not	wamā
+12	33:13:20	w	هِيَ	ﲯ	هي	they	hiya
+12	33:13:21	w	بِعَوۡرَةٍۖ	ﲰﲱ	بعورة	(were) exposed	biʿawratin
+12	33:13:22	w	إِن	ﲲ	ان	Not	in
+12	33:13:23	w	يُرِيدُونَ	ﲳ	يريدون	they wished	yurīdūna
+13	33:13:24	w	إِلَّا	ﲴ	الا	but	illā
+13	33:13:25	w	فِرَارٗا	ﲵ	فرارا	to flee	firāran
+13	33:13:26	e	١٣	ﲶ			
+13	33:14:1	w	وَلَوۡ	ﲷ	ولو	And if	walaw
+13	33:14:2	w	دُخِلَتۡ	ﲸ	دخلت	had been entered	dukhilat
+13	33:14:3	w	عَلَيۡهِم	ﲹ	عليهم	upon them	ʿalayhim
+13	33:14:4	w	مِّنۡ	ﲺ	من	from	min
+13	33:14:5	w	أَقۡطَارِهَا	ﲻ	اقطارها	all its sides	aqṭārihā
+13	33:14:6	w	ثُمَّ	ﲼ	ثم	then	thumma
+13	33:14:7	w	سُئِلُواْ	ﲽ	سيلوا	they had been asked	su-ilū
+13	33:14:8	w	ٱلۡفِتۡنَةَ	ﲾ	الفتنة	the treachery	l-fit'nata
+14	33:14:9	w	لَأٓتَوۡهَا	ﲿ	لاتوها	they (would) have certainly done it	laātawhā
+14	33:14:10	w	وَمَا	ﳀ	وما	and not	wamā
+14	33:14:11	w	تَلَبَّثُواْ	ﳁ	تلبثوا	they (would) have hesitated	talabbathū
+14	33:14:12	w	بِهَآ	ﳂ	بها	over it	bihā
+14	33:14:13	w	إِلَّا	ﳃ	الا	except	illā
+14	33:14:14	w	يَسِيرٗا	ﳄ	يسيرا	a little	yasīran
+14	33:14:15	e	١٤	ﳅ			
+14	33:15:1	w	وَلَقَدۡ	ﳆ	ولقد	And certainly	walaqad
+14	33:15:2	w	كَانُواْ	ﳇ	كانوا	they had	kānū
+14	33:15:3	w	عَٰهَدُواْ	ﳈ	عاهدوا	promised	ʿāhadū
+15	33:15:4	w	ٱللَّهَ	ﳉ	الله	Allah	l-laha
+15	33:15:5	w	مِن	ﳊ	من	before	min
+15	33:15:6	w	قَبۡلُ	ﳋ	قبل	before	qablu
+15	33:15:7	w	لَا	ﳌ	لا	not	lā
+15	33:15:8	w	يُوَلُّونَ	ﳍ	يولون	they would turn	yuwallūna
+15	33:15:9	w	ٱلۡأَدۡبَٰرَۚ	ﳎﳏ	الادبار	their backs	l-adbāra
+15	33:15:10	w	وَكَانَ	ﳐ	وكان	And is	wakāna
+15	33:15:11	w	عَهۡدُ	ﳑ	عهد	(the) promise	ʿahdu
+15	33:15:12	w	ٱللَّهِ	ﳒ	الله	(to) Allah	l-lahi
+15	33:15:13	w	مَسۡـُٔولٗا	ﳓ	مسيولا	to be questioned	masūlan
+15	33:15:14	e	١٥	ﳔ			

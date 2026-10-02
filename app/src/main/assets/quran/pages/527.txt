@@ -1,0 +1,169 @@
+1	53:27:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	53:27:2	w	ٱلَّذِينَ	ﱂ	الذين	those who	alladhīna
+1	53:27:3	w	لَا	ﱃ	لا	(do) not	lā
+1	53:27:4	w	يُؤۡمِنُونَ	ﱄ	يومنون	believe	yu'minūna
+1	53:27:5	w	بِٱلۡأٓخِرَةِ	ﱅ	بالاخرة	in the Hereafter	bil-ākhirati
+1	53:27:6	w	لَيُسَمُّونَ	ﱆ	ليسمون	surely they name	layusammūna
+1	53:27:7	w	ٱلۡمَلَٰٓئِكَةَ	ﱇ	الملايكة	the Angels	l-malāikata
+1	53:27:8	w	تَسۡمِيَةَ	ﱈ	تسمية	name(s)	tasmiyata
+1	53:27:9	w	ٱلۡأُنثَىٰ	ﱉ	الانثى	(of) female	l-unthā
+1	53:27:10	e	٢٧	ﱊ			
+2	53:28:1	w	وَمَا	ﱋ	وما	And not	wamā
+2	53:28:2	w	لَهُم	ﱌ	لهم	for them	lahum
+2	53:28:3	w	بِهِۦ	ﱍ	به	about it	bihi
+2	53:28:4	w	مِنۡ	ﱎ	من	any	min
+2	53:28:5	w	عِلۡمٍۖ	ﱏﱐ	علم	knowledge	ʿil'min
+2	53:28:6	w	إِن	ﱑ	ان	Not	in
+2	53:28:7	w	يَتَّبِعُونَ	ﱒ	يتبعون	they follow	yattabiʿūna
+2	53:28:8	w	إِلَّا	ﱓ	الا	but	illā
+2	53:28:9	w	ٱلظَّنَّۖ	ﱔﱕ	الظن	assumption	l-ẓana
+2	53:28:10	w	وَإِنَّ	ﱖ	وان	And indeed	wa-inna
+2	53:28:11	w	ٱلظَّنَّ	ﱗ	الظن	the assumption	l-ẓana
+2	53:28:12	w	لَا	ﱘ	لا	(does) not	lā
+2	53:28:13	w	يُغۡنِي	ﱙ	يغني	avail	yugh'nī
+2	53:28:14	w	مِنَ	ﱚ	من	against	mina
+3	53:28:15	w	ٱلۡحَقِّ	ﱛ	الحق	the truth	l-ḥaqi
+3	53:28:16	w	شَيۡـٔٗا	ﱜ	شييا	anything	shayan
+3	53:28:17	e	٢٨	ﱝ			
+3	53:29:1	w	فَأَعۡرِضۡ	ﱞ	فاعرض	So turn away	fa-aʿriḍ
+3	53:29:2	w	عَن	ﱟ	عن	from	ʿan
+3	53:29:3	w	مَّن	ﱠ	من	(him) who	man
+3	53:29:4	w	تَوَلَّىٰ	ﱡ	تولى	turns away	tawallā
+3	53:29:5	w	عَن	ﱢ	عن	from	ʿan
+3	53:29:6	w	ذِكۡرِنَا	ﱣ	ذكرنا	Our Reminder	dhik'rinā
+3	53:29:7	w	وَلَمۡ	ﱤ	ولم	and not	walam
+3	53:29:8	w	يُرِدۡ	ﱥ	يرد	he desires	yurid
+3	53:29:9	w	إِلَّا	ﱦ	الا	except	illā
+3	53:29:10	w	ٱلۡحَيَوٰةَ	ﱧ	الحياة	the life	l-ḥayata
+4	53:29:11	w	ٱلدُّنۡيَا	ﱨ	الدنيا	(of) the world	l-dun'yā
+4	53:29:12	e	٢٩	ﱩ			
+4	53:30:1	w	ذَٰلِكَ	ﱪ	ذالك	That	dhālika
+4	53:30:2	w	مَبۡلَغُهُم	ﱫ	مبلغهم	(is) their sum	mablaghuhum
+4	53:30:3	w	مِّنَ	ﱬ	من	of	mina
+4	53:30:4	w	ٱلۡعِلۡمِۚ	ﱭﱮ	العلم	knowledge	l-ʿil'mi
+4	53:30:5	w	إِنَّ	ﱯ	ان	Indeed	inna
+4	53:30:6	w	رَبَّكَ	ﱰ	ربك	your Lord	rabbaka
+4	53:30:7	w	هُوَ	ﱱ	هو	(is) He (Who)	huwa
+4	53:30:8	w	أَعۡلَمُ	ﱲ	اعلم	knows best	aʿlamu
+4	53:30:9	w	بِمَن	ﱳ	بمن	(he) who	biman
+4	53:30:10	w	ضَلَّ	ﱴ	ضل	strays	ḍalla
+4	53:30:11	w	عَن	ﱵ	عن	from	ʿan
+5	53:30:12	w	سَبِيلِهِۦ	ﱶ	سبيله	His Path	sabīlihi
+5	53:30:13	w	وَهُوَ	ﱷ	وهو	and He	wahuwa
+5	53:30:14	w	أَعۡلَمُ	ﱸ	اعلم	knows best	aʿlamu
+5	53:30:15	w	بِمَنِ	ﱹ	بمن	(he) who	bimani
+5	53:30:16	w	ٱهۡتَدَىٰ	ﱺ	اهتدى	is guided	ih'tadā
+5	53:30:17	e	٣٠	ﱻ			
+5	53:31:1	w	وَلِلَّهِ	ﱼ	ولله	And for Allah	walillahi
+5	53:31:2	w	مَا	ﱽ	ما	(is) whatever	mā
+5	53:31:3	w	فِي	ﱾ	في	(is) in	fī
+5	53:31:4	w	ٱلسَّمَٰوَٰتِ	ﱿ	السماوات	the heavens	l-samāwāti
+5	53:31:5	w	وَمَا	ﲀ	وما	and whatever	wamā
+5	53:31:6	w	فِي	ﲁ	في	(is) in	fī
+6	53:31:7	w	ٱلۡأَرۡضِ	ﲂ	الارض	the earth	l-arḍi
+6	53:31:8	w	لِيَجۡزِيَ	ﲃ	ليجزي	that He may recompense	liyajziya
+6	53:31:9	w	ٱلَّذِينَ	ﲄ	الذين	those who	alladhīna
+6	53:31:10	w	أَسَٰٓـُٔواْ	ﲅ	اساءوا	do evil	asāū
+6	53:31:11	w	بِمَا	ﲆ	بما	with what	bimā
+6	53:31:12	w	عَمِلُواْ	ﲇ	عملوا	they have done	ʿamilū
+6	53:31:13	w	وَيَجۡزِيَ	ﲈ	ويجزي	and recompense	wayajziya
+6	53:31:14	w	ٱلَّذِينَ	ﲉ	الذين	those who	alladhīna
+6	53:31:15	w	أَحۡسَنُواْ	ﲊ	احسنوا	do good	aḥsanū
+7	53:31:16	w	بِٱلۡحُسۡنَى	ﲋ	بالحسنى	with the best	bil-ḥus'nā
+7	53:31:17	e	٣١	ﲌ			
+7	53:32:1	w	ٱلَّذِينَ	ﲍ	الذين	Those who	alladhīna
+7	53:32:2	w	يَجۡتَنِبُونَ	ﲎ	يجتنبون	avoid	yajtanibūna
+7	53:32:3	w	كَبَٰٓئِرَ	ﲏ	كباير	great	kabāira
+7	53:32:4	w	ٱلۡإِثۡمِ	ﲐ	الاثم	sins	l-ith'mi
+7	53:32:5	w	وَٱلۡفَوَٰحِشَ	ﲑ	والفواحش	and the immoralities	wal-fawāḥisha
+7	53:32:6	w	إِلَّا	ﲒ	الا	except	illā
+7	53:32:7	w	ٱللَّمَمَۚ	ﲓﲔ	اللمم	the small faults	l-lamama
+8	53:32:8	w	إِنَّ	ﲕ	ان	indeed	inna
+8	53:32:9	w	رَبَّكَ	ﲖ	ربك	your Lord	rabbaka
+8	53:32:10	w	وَٰسِعُ	ﲗ	واسع	(is) vast	wāsiʿu
+8	53:32:11	w	ٱلۡمَغۡفِرَةِۚ	ﲘﲙ	المغفرة	(in) forgiveness	l-maghfirati
+8	53:32:12	w	هُوَ	ﲚ	هو	He	huwa
+8	53:32:13	w	أَعۡلَمُ	ﲛ	اعلم	(is) most knowing about you	aʿlamu
+8	53:32:14	w	بِكُمۡ	ﲜ	بكم	(is) most knowing about you	bikum
+8	53:32:15	w	إِذۡ	ﲝ	اذ	when	idh
+8	53:32:16	w	أَنشَأَكُم	ﲞ	انشاكم	He produced you	ansha-akum
+8	53:32:17	w	مِّنَ	ﲟ	من	from	mina
+8	53:32:18	w	ٱلۡأَرۡضِ	ﲠ	الارض	the earth	l-arḍi
+9	53:32:19	w	وَإِذۡ	ﲡ	واذ	and when	wa-idh
+9	53:32:20	w	أَنتُمۡ	ﲢ	انتم	you (were)	antum
+9	53:32:21	w	أَجِنَّةٞ	ﲣ	اجنة	fetuses	ajinnatun
+9	53:32:22	w	فِي	ﲤ	في	in	fī
+9	53:32:23	w	بُطُونِ	ﲥ	بطون	(the) wombs	buṭūni
+9	53:32:24	w	أُمَّهَٰتِكُمۡۖ	ﲦﲧ	امهاتكم	(of) your mothers	ummahātikum
+9	53:32:25	w	فَلَا	ﲨ	فلا	So (do) not	falā
+9	53:32:26	w	تُزَكُّوٓاْ	ﲩ	تزكوا	ascribe purity	tuzakkū
+9	53:32:27	w	أَنفُسَكُمۡۖ	ﲪﲫ	انفسكم	(to) yourselves	anfusakum
+9	53:32:28	w	هُوَ	ﲬ	هو	He	huwa
+9	53:32:29	w	أَعۡلَمُ	ﲭ	اعلم	knows best	aʿlamu
+10	53:32:30	w	بِمَنِ	ﲮ	بمن	(he) who	bimani
+10	53:32:31	w	ٱتَّقَىٰٓ	ﲯ	اتقى	fears	ittaqā
+10	53:32:32	e	٣٢	ﲰ			
+10	53:33:1	w	أَفَرَءَيۡتَ	ﲱ	افرايت	Did you see	afara-ayta
+10	53:33:2	w	ٱلَّذِي	ﲲ	الذي	the one who	alladhī
+10	53:33:3	w	تَوَلَّىٰ	ﲳ	تولى	turned away	tawallā
+10	53:33:4	e	٣٣	ﲴ			
+10	53:34:1	w	وَأَعۡطَىٰ	ﲵ	واعطى	And gave	wa-aʿṭā
+10	53:34:2	w	قَلِيلٗا	ﲶ	قليلا	a little	qalīlan
+10	53:34:3	w	وَأَكۡدَىٰٓ	ﲷ	واكدى	and withheld	wa-akdā
+11	53:34:4	e	٣٤	ﲸ			
+11	53:35:1	w	أَعِندَهُۥ	ﲹ	اعنده	Is with him	aʿindahu
+11	53:35:2	w	عِلۡمُ	ﲺ	علم	(the) knowledge	ʿil'mu
+11	53:35:3	w	ٱلۡغَيۡبِ	ﲻ	الغيب	(of) the unseen	l-ghaybi
+11	53:35:4	w	فَهُوَ	ﲼ	فهو	so he	fahuwa
+11	53:35:5	w	يَرَىٰٓ	ﲽ	يرى	sees	yarā
+11	53:35:6	e	٣٥	ﲾ			
+11	53:36:1	w	أَمۡ	ﲿ	ام	Or	am
+11	53:36:2	w	لَمۡ	ﳀ	لم	not	lam
+11	53:36:3	w	يُنَبَّأۡ	ﳁ	ينبا	he was informed	yunabba
+11	53:36:4	w	بِمَا	ﳂ	بما	with what	bimā
+11	53:36:5	w	فِي	ﳃ	في	(was) in	fī
+11	53:36:6	w	صُحُفِ	ﳄ	صحف	(the) Scriptures	ṣuḥufi
+12	53:36:7	w	مُوسَىٰ	ﳅ	موسى	(of) Musa	mūsā
+12	53:36:8	e	٣٦	ﳆ			
+12	53:37:1	w	وَإِبۡرَٰهِيمَ	ﳇ	وابراهيم	And Ibrahim	wa-ib'rāhīma
+12	53:37:2	w	ٱلَّذِي	ﳈ	الذي	who	alladhī
+12	53:37:3	w	وَفَّىٰٓ	ﳉ	وفى	fulfilled	waffā
+12	53:37:4	e	٣٧	ﳊ			
+12	53:38:1	w	أَلَّا	ﳋ	الا	That not	allā
+12	53:38:2	w	تَزِرُ	ﳌ	تزر	will bear	taziru
+12	53:38:3	w	وَازِرَةٞ	ﳍ	وازرة	a bearer of burdens	wāziratun
+12	53:38:4	w	وِزۡرَ	ﳎ	وزر	(the) burden	wiz'ra
+12	53:38:5	w	أُخۡرَىٰ	ﳏ	اخرى	(of) another	ukh'rā
+13	53:38:6	e	٣٨	ﳐ			
+13	53:39:1	w	وَأَن	ﳑ	وان	And that	wa-an
+13	53:39:2	w	لَّيۡسَ	ﳒ	ليس	is not	laysa
+13	53:39:3	w	لِلۡإِنسَٰنِ	ﳓ	للانسان	for man	lil'insāni
+13	53:39:4	w	إِلَّا	ﳔ	الا	except	illā
+13	53:39:5	w	مَا	ﳕ	ما	what	mā
+13	53:39:6	w	سَعَىٰ	ﳖ	سعى	he strives (for)	saʿā
+13	53:39:7	e	٣٩	ﳗ			
+13	53:40:1	w	وَأَنَّ	ﳘ	وان	And that	wa-anna
+13	53:40:2	w	سَعۡيَهُۥ	ﳙ	سعيه	his striving	saʿyahu
+13	53:40:3	w	سَوۡفَ	ﳚ	سوف	will soon	sawfa
+13	53:40:4	w	يُرَىٰ	ﳛ	يرى	be seen	yurā
+14	53:40:5	e	٤٠	ﳜ			
+14	53:41:1	w	ثُمَّ	ﳝ	ثم	Then	thumma
+14	53:41:2	w	يُجۡزَىٰهُ	ﳞ	يجزاه	he will be recompensed for it	yuj'zāhu
+14	53:41:3	w	ٱلۡجَزَآءَ	ﳟ	الجزاء	the recompense	l-jazāa
+14	53:41:4	w	ٱلۡأَوۡفَىٰ	ﳠ	الاوفى	the fullest	l-awfā
+14	53:41:5	e	٤١	ﳡ			
+14	53:42:1	w	وَأَنَّ	ﳢ	وان	And that	wa-anna
+14	53:42:2	w	إِلَىٰ	ﳣ	الى	to	ilā
+14	53:42:3	w	رَبِّكَ	ﳤ	ربك	your Lord	rabbika
+14	53:42:4	w	ٱلۡمُنتَهَىٰ	ﳥ	المنتهى	(is) the final goal	l-muntahā
+14	53:42:5	e	٤٢	ﳦ			
+15	53:43:1	w	وَأَنَّهُۥ	ﳧ	وانه	And that He	wa-annahu
+15	53:43:2	w	هُوَ	ﳨ	هو	[He]	huwa
+15	53:43:3	w	أَضۡحَكَ	ﳩ	اضحك	makes (one) laugh	aḍḥaka
+15	53:43:4	w	وَأَبۡكَىٰ	ﳪ	وابكى	and makes (one) weep	wa-abkā
+15	53:43:5	e	٤٣	ﳫ			
+15	53:44:1	w	وَأَنَّهُۥ	ﳬ	وانه	And that He	wa-annahu
+15	53:44:2	w	هُوَ	ﳭ	هو	[He]	huwa
+15	53:44:3	w	أَمَاتَ	ﳮ	امات	causes death	amāta
+15	53:44:4	w	وَأَحۡيَا	ﳯ	واحيا	and gives life	wa-aḥyā
+15	53:44:5	e	٤٤	ﳰ			

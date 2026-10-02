@@ -1,0 +1,151 @@
+2	27:1:1	w	طسٓۚ	ﱁﱂ	طس	Ta Seen	tta-seen
+2	27:1:2	w	تِلۡكَ	ﱃ	تلك	These	til'ka
+2	27:1:3	w	ءَايَٰتُ	ﱄ	ايات	(are the) Verses	āyātu
+2	27:1:4	w	ٱلۡقُرۡءَانِ	ﱅ	القران	(of) the Quran	l-qur'āni
+2	27:1:5	w	وَكِتَابٖ	ﱆ	وكتاب	and a Book	wakitābin
+2	27:1:6	w	مُّبِينٍ	ﱇ	مبين	clear	mubīnin
+2	27:1:7	e	١	ﱈ			
+2	27:2:1	w	هُدٗى	ﱉ	هدى	A guidance	hudan
+2	27:2:2	w	وَبُشۡرَىٰ	ﱊ	وبشرى	and glad tidings	wabush'rā
+3	27:2:3	w	لِلۡمُؤۡمِنِينَ	ﱋ	للمومنين	for the believers	lil'mu'minīna
+3	27:2:4	e	٢	ﱌ			
+3	27:3:1	w	ٱلَّذِينَ	ﱍ	الذين	Those who	alladhīna
+3	27:3:2	w	يُقِيمُونَ	ﱎ	يقيمون	establish	yuqīmūna
+3	27:3:3	w	ٱلصَّلَوٰةَ	ﱏ	الصلاة	the prayer	l-ṣalata
+3	27:3:4	w	وَيُؤۡتُونَ	ﱐ	ويوتون	and give	wayu'tūna
+3	27:3:5	w	ٱلزَّكَوٰةَ	ﱑ	الزكاة	zakah	l-zakata
+3	27:3:6	w	وَهُم	ﱒ	وهم	and they	wahum
+4	27:3:7	w	بِٱلۡأٓخِرَةِ	ﱓ	بالاخرة	in the Hereafter	bil-ākhirati
+4	27:3:8	w	هُمۡ	ﱔ	هم	[they]	hum
+4	27:3:9	w	يُوقِنُونَ	ﱕ	يوقنون	believe with certainty	yūqinūna
+4	27:3:10	e	٣	ﱖ			
+4	27:4:1	w	إِنَّ	ﱗ	ان	Indeed	inna
+4	27:4:2	w	ٱلَّذِينَ	ﱘ	الذين	those who	alladhīna
+4	27:4:3	w	لَا	ﱙ	لا	(do) not	lā
+4	27:4:4	w	يُؤۡمِنُونَ	ﱚ	يومنون	believe	yu'minūna
+4	27:4:5	w	بِٱلۡأٓخِرَةِ	ﱛ	بالاخرة	in the Hereafter	bil-ākhirati
+4	27:4:6	w	زَيَّنَّا	ﱜ	زينا	We have made fair-seeming	zayyannā
+4	27:4:7	w	لَهُمۡ	ﱝ	لهم	to them	lahum
+5	27:4:8	w	أَعۡمَٰلَهُمۡ	ﱞ	اعمالهم	their deeds	aʿmālahum
+5	27:4:9	w	فَهُمۡ	ﱟ	فهم	so they	fahum
+5	27:4:10	w	يَعۡمَهُونَ	ﱠ	يعمهون	wander blindly	yaʿmahūna
+5	27:4:11	e	٤	ﱡ			
+5	27:5:1	w	أُوْلَٰٓئِكَ	ﱢ	اولايك	Those	ulāika
+5	27:5:2	w	ٱلَّذِينَ	ﱣ	الذين	(are) the ones	alladhīna
+5	27:5:3	w	لَهُمۡ	ﱤ	لهم	for them	lahum
+5	27:5:4	w	سُوٓءُ	ﱥ	سوء	(is) an evil	sūu
+5	27:5:5	w	ٱلۡعَذَابِ	ﱦ	العذاب	[the] punishment	l-ʿadhābi
+6	27:5:6	w	وَهُمۡ	ﱧ	وهم	and they	wahum
+6	27:5:7	w	فِي	ﱨ	في	in	fī
+6	27:5:8	w	ٱلۡأٓخِرَةِ	ﱩ	الاخرة	the Hereafter	l-ākhirati
+6	27:5:9	w	هُمُ	ﱪ	هم	[they]	humu
+6	27:5:10	w	ٱلۡأَخۡسَرُونَ	ﱫ	الاخسرون	(will be) the greatest losers	l-akhsarūna
+6	27:5:11	e	٥	ﱬ			
+6	27:6:1	w	وَإِنَّكَ	ﱭ	وانك	And indeed, you	wa-innaka
+6	27:6:2	w	لَتُلَقَّى	ﱮ	لتلقى	surely, receive	latulaqqā
+6	27:6:3	w	ٱلۡقُرۡءَانَ	ﱯ	القران	the Quran	l-qur'āna
+6	27:6:4	w	مِن	ﱰ	من	from [near]	min
+7	27:6:5	w	لَّدُنۡ	ﱱ	لدن	from [near]	ladun
+7	27:6:6	w	حَكِيمٍ	ﱲ	حكيم	the All-Wise	ḥakīmin
+7	27:6:7	w	عَلِيمٍ	ﱳ	عليم	the All-Knower	ʿalīmin
+7	27:6:8	e	٦	ﱴ			
+7	27:7:1	w	إِذۡ	ﱵ	اذ	When	idh
+7	27:7:2	w	قَالَ	ﱶ	قال	said	qāla
+7	27:7:3	w	مُوسَىٰ	ﱷ	موسى	Musa	mūsā
+7	27:7:4	w	لِأَهۡلِهِۦٓ	ﱸ	لاهله	to his family	li-ahlihi
+7	27:7:5	w	إِنِّيٓ	ﱹ	اني	Indeed, I	innī
+7	27:7:6	w	ءَانَسۡتُ	ﱺ	انست	perceive	ānastu
+7	27:7:7	w	نَارٗا	ﱻ	نارا	a fire	nāran
+7	27:7:8	w	سَـَٔاتِيكُم	ﱼ	ساتيكم	I will bring you	saātīkum
+8	27:7:9	w	مِّنۡهَا	ﱽ	منها	from it	min'hā
+8	27:7:10	w	بِخَبَرٍ	ﱾ	بخبر	some information	bikhabarin
+8	27:7:11	w	أَوۡ	ﱿ	او	or	aw
+8	27:7:12	w	ءَاتِيكُم	ﲀ	اتيكم	I will bring you	ātīkum
+8	27:7:13	w	بِشِهَابٖ	ﲁ	بشهاب	a torch	bishihābin
+8	27:7:14	w	قَبَسٖ	ﲂ	قبس	burning	qabasin
+8	27:7:15	w	لَّعَلَّكُمۡ	ﲃ	لعلكم	so that you may	laʿallakum
+8	27:7:16	w	تَصۡطَلُونَ	ﲄ	تصطلون	warm yourselves	taṣṭalūna
+8	27:7:17	e	٧	ﲅ			
+8	27:8:1	w	فَلَمَّا	ﲆ	فلما	But when	falammā
+8	27:8:2	w	جَآءَهَا	ﲇ	جاءها	he came to it	jāahā
+9	27:8:3	w	نُودِيَ	ﲈ	نودي	he was called	nūdiya
+9	27:8:4	w	أَنۢ	ﲉ	ان	[that]	an
+9	27:8:5	w	بُورِكَ	ﲊ	بورك	Blessed is	būrika
+9	27:8:6	w	مَن	ﲋ	من	who	man
+9	27:8:7	w	فِي	ﲌ	في	(is) at	fī
+9	27:8:8	w	ٱلنَّارِ	ﲍ	النار	the fire	l-nāri
+9	27:8:9	w	وَمَنۡ	ﲎ	ومن	and whoever	waman
+9	27:8:10	w	حَوۡلَهَا	ﲏ	حولها	(is) around it	ḥawlahā
+9	27:8:11	w	وَسُبۡحَٰنَ	ﲐ	وسبحان	And glory be	wasub'ḥāna
+9	27:8:12	w	ٱللَّهِ	ﲑ	الله	(to) Allah	l-lahi
+9	27:8:13	w	رَبِّ	ﲒ	رب	(the) Lord	rabbi
+10	27:8:14	w	ٱلۡعَٰلَمِينَ	ﲓ	العالمين	(of) the worlds	l-ʿālamīna
+10	27:8:15	e	٨	ﲔ			
+10	27:9:1	w	يَٰمُوسَىٰٓ	ﲕ	يا موسى	O Musa	yāmūsā
+10	27:9:2	w	إِنَّهُۥٓ	ﲖ	انه	Indeed	innahu
+10	27:9:3	w	أَنَا	ﲗ	انا	I Am	anā
+10	27:9:4	w	ٱللَّهُ	ﲘ	الله	Allah	l-lahu
+10	27:9:5	w	ٱلۡعَزِيزُ	ﲙ	العزيز	the All-Mighty	l-ʿazīzu
+10	27:9:6	w	ٱلۡحَكِيمُ	ﲚ	الحكيم	the All-Wise	l-ḥakīmu
+10	27:9:7	e	٩	ﲛ			
+10	27:10:1	w	وَأَلۡقِ	ﲜ	والق	And, "Throw	wa-alqi
+10	27:10:2	w	عَصَاكَۚ	ﲝﲞ	عصاك	your staff	ʿaṣāka
+11	27:10:3	w	فَلَمَّا	ﲟ	فلما	But when	falammā
+11	27:10:4	w	رَءَاهَا	ﲠ	راها	he saw it	raāhā
+11	27:10:5	w	تَهۡتَزُّ	ﲡ	تهتز	moving	tahtazzu
+11	27:10:6	w	كَأَنَّهَا	ﲢ	كانها	as if it	ka-annahā
+11	27:10:7	w	جَآنّٞ	ﲣ	جان	(were) a snake	jānnun
+11	27:10:8	w	وَلَّىٰ	ﲤ	ولى	he turned back	wallā
+11	27:10:9	w	مُدۡبِرٗا	ﲥ	مدبرا	(in) flight	mud'biran
+11	27:10:10	w	وَلَمۡ	ﲦ	ولم	and (did) not	walam
+11	27:10:11	w	يُعَقِّبۡۚ	ﲧﲨ	يعقب	look back	yuʿaqqib
+11	27:10:12	w	يَٰمُوسَىٰ	ﲩ	يا موسى	O Musa	yāmūsā
+11	27:10:13	w	لَا	ﲪ	لا	(Do) not	lā
+11	27:10:14	w	تَخَفۡ	ﲫ	تخف	fear	takhaf
+12	27:10:15	w	إِنِّي	ﲬ	اني	Indeed, [I]	innī
+12	27:10:16	w	لَا	ﲭ	لا	(do) not	lā
+12	27:10:17	w	يَخَافُ	ﲮ	يخاف	fear	yakhāfu
+12	27:10:18	w	لَدَيَّ	ﲯ	لدي	(in) My presence	ladayya
+12	27:10:19	w	ٱلۡمُرۡسَلُونَ	ﲰ	المرسلون	the Messengers	l-mur'salūna
+12	27:10:20	e	١٠	ﲱ			
+12	27:11:1	w	إِلَّا	ﲲ	الا	Except	illā
+12	27:11:2	w	مَن	ﲳ	من	who	man
+12	27:11:3	w	ظَلَمَ	ﲴ	ظلم	wrongs	ẓalama
+12	27:11:4	w	ثُمَّ	ﲵ	ثم	then	thumma
+12	27:11:5	w	بَدَّلَ	ﲶ	بدل	substitutes	baddala
+12	27:11:6	w	حُسۡنَۢا	ﲷ	حسنا	good	ḥus'nan
+12	27:11:7	w	بَعۡدَ	ﲸ	بعد	after	baʿda
+13	27:11:8	w	سُوٓءٖ	ﲹ	سوء	evil	sūin
+13	27:11:9	w	فَإِنِّي	ﲺ	فاني	then indeed, I Am	fa-innī
+13	27:11:10	w	غَفُورٞ	ﲻ	غفور	Oft-Forgiving	ghafūrun
+13	27:11:11	w	رَّحِيمٞ	ﲼ	رحيم	Most Merciful	raḥīmun
+13	27:11:12	e	١١	ﲽ			
+13	27:12:1	w	وَأَدۡخِلۡ	ﲾ	وادخل	And enter	wa-adkhil
+13	27:12:2	w	يَدَكَ	ﲿ	يدك	your hand	yadaka
+13	27:12:3	w	فِي	ﳀ	في	into	fī
+13	27:12:4	w	جَيۡبِكَ	ﳁ	جيبك	your bosom	jaybika
+13	27:12:5	w	تَخۡرُجۡ	ﳂ	تخرج	it will come forth	takhruj
+13	27:12:6	w	بَيۡضَآءَ	ﳃ	بيضاء	white	bayḍāa
+13	27:12:7	w	مِنۡ	ﳄ	من	without	min
+14	27:12:8	w	غَيۡرِ	ﳅ	غير	without	ghayri
+14	27:12:9	w	سُوٓءٖۖ	ﳆﳇ	سوء	harm	sūin
+14	27:12:10	w	فِي	ﳈ	في	(These are) among	fī
+14	27:12:11	w	تِسۡعِ	ﳉ	تسع	nine	tis'ʿi
+14	27:12:12	w	ءَايَٰتٍ	ﳊ	ايات	signs	āyātin
+14	27:12:13	w	إِلَىٰ	ﳋ	الى	to	ilā
+14	27:12:14	w	فِرۡعَوۡنَ	ﳌ	فرعون	Firaun	fir'ʿawna
+14	27:12:15	w	وَقَوۡمِهِۦٓۚ	ﳍﳎ	وقومه	and his people	waqawmihi
+14	27:12:16	w	إِنَّهُمۡ	ﳏ	انهم	Indeed, they	innahum
+14	27:12:17	w	كَانُواْ	ﳐ	كانوا	are	kānū
+14	27:12:18	w	قَوۡمٗا	ﳑ	قوما	a people	qawman
+14	27:12:19	w	فَٰسِقِينَ	ﳒ	فاسقين	defiantly disobedient	fāsiqīna
+15	27:12:20	e	١٢	ﳓ			
+15	27:13:1	w	فَلَمَّا	ﳔ	فلما	But when	falammā
+15	27:13:2	w	جَآءَتۡهُمۡ	ﳕ	جاءتهم	came to them	jāathum
+15	27:13:3	w	ءَايَٰتُنَا	ﳖ	اياتنا	Our Signs	āyātunā
+15	27:13:4	w	مُبۡصِرَةٗ	ﳗ	مبصرة	visible	mub'ṣiratan
+15	27:13:5	w	قَالُواْ	ﳘ	قالوا	they said	qālū
+15	27:13:6	w	هَٰذَا	ﳙ	هاذا	This	hādhā
+15	27:13:7	w	سِحۡرٞ	ﳚ	سحر	(is) a magic	siḥ'run
+15	27:13:8	w	مُّبِينٞ	ﳛ	مبين	manifest	mubīnun
+15	27:13:9	e	١٣	ﳜ			

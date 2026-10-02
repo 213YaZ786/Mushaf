@@ -1,0 +1,145 @@
+1	17:8:1	w	عَسَىٰ	ﱁ	عسى	(It) may be	ʿasā
+1	17:8:2	w	رَبُّكُمۡ	ﱂ	ربكم	that your Lord	rabbukum
+1	17:8:3	w	أَن	ﱃ	ان	that your Lord	an
+1	17:8:4	w	يَرۡحَمَكُمۡۚ	ﱄﱅ	يرحمكم	(may) have mercy upon you	yarḥamakum
+1	17:8:5	w	وَإِنۡ	ﱆ	وان	But if	wa-in
+1	17:8:6	w	عُدتُّمۡ	ﱇ	عدتم	you return	ʿudttum
+1	17:8:7	w	عُدۡنَاۚ	ﱈﱉ	عدنا	We will return	ʿud'nā
+1	17:8:8	w	وَجَعَلۡنَا	ﱊ	وجعلنا	And We have made	wajaʿalnā
+1	17:8:9	w	جَهَنَّمَ	ﱋ	جهنم	Hell	jahannama
+1	17:8:10	w	لِلۡكَٰفِرِينَ	ﱌ	للكافرين	for the disbelievers	lil'kāfirīna
+2	17:8:11	w	حَصِيرًا	ﱍ	حصيرا	a prison-bed	ḥaṣīran
+2	17:8:12	e	٨	ﱎ			
+2	17:9:1	w	إِنَّ	ﱏ	ان	Indeed	inna
+2	17:9:2	w	هَٰذَا	ﱐ	هاذا	this	hādhā
+2	17:9:3	w	ٱلۡقُرۡءَانَ	ﱑ	القران	the Quran	l-qur'āna
+2	17:9:4	w	يَهۡدِي	ﱒ	يهدي	guides	yahdī
+2	17:9:5	w	لِلَّتِي	ﱓ	للتي	to that	lillatī
+2	17:9:6	w	هِيَ	ﱔ	هي	which	hiya
+2	17:9:7	w	أَقۡوَمُ	ﱕ	اقوم	(is) most straight	aqwamu
+2	17:9:8	w	وَيُبَشِّرُ	ﱖ	ويبشر	and gives glad tidings	wayubashiru
+3	17:9:9	w	ٱلۡمُؤۡمِنِينَ	ﱗ	المومنين	to the believers	l-mu'minīna
+3	17:9:10	w	ٱلَّذِينَ	ﱘ	الذين	those who	alladhīna
+3	17:9:11	w	يَعۡمَلُونَ	ﱙ	يعملون	do	yaʿmalūna
+3	17:9:12	w	ٱلصَّٰلِحَٰتِ	ﱚ	الصالحات	the righteous deeds	l-ṣāliḥāti
+3	17:9:13	w	أَنَّ	ﱛ	ان	that	anna
+3	17:9:14	w	لَهُمۡ	ﱜ	لهم	for them	lahum
+3	17:9:15	w	أَجۡرٗا	ﱝ	اجرا	(is) a reward	ajran
+3	17:9:16	w	كَبِيرٗا	ﱞ	كبيرا	great	kabīran
+3	17:9:17	e	٩	ﱟ			
+4	17:10:1	w	وَأَنَّ	ﱠ	وان	And that	wa-anna
+4	17:10:2	w	ٱلَّذِينَ	ﱡ	الذين	those who	alladhīna
+4	17:10:3	w	لَا	ﱢ	لا	(do) not	lā
+4	17:10:4	w	يُؤۡمِنُونَ	ﱣ	يومنون	believe	yu'minūna
+4	17:10:5	w	بِٱلۡأٓخِرَةِ	ﱤ	بالاخرة	in the Hereafter	bil-ākhirati
+4	17:10:6	w	أَعۡتَدۡنَا	ﱥ	اعتدنا	We have prepared	aʿtadnā
+4	17:10:7	w	لَهُمۡ	ﱦ	لهم	for them	lahum
+4	17:10:8	w	عَذَابًا	ﱧ	عذابا	a punishment	ʿadhāban
+4	17:10:9	w	أَلِيمٗا	ﱨ	اليما	painful	alīman
+4	17:10:10	e	١٠	ﱩ			
+5	17:11:1	w	وَيَدۡعُ	ﱪ	ويدع	And prays	wayadʿu
+5	17:11:2	w	ٱلۡإِنسَٰنُ	ﱫ	الانسان	the man	l-insānu
+5	17:11:3	w	بِٱلشَّرِّ	ﱬ	بالشر	for evil	bil-shari
+5	17:11:4	w	دُعَآءَهُۥ	ﱭ	دعاءه	(as) he prays	duʿāahu
+5	17:11:5	w	بِٱلۡخَيۡرِۖ	ﱮﱯ	بالخير	for the good	bil-khayri
+5	17:11:6	w	وَكَانَ	ﱰ	وكان	And is	wakāna
+5	17:11:7	w	ٱلۡإِنسَٰنُ	ﱱ	الانسان	the man	l-insānu
+5	17:11:8	w	عَجُولٗا	ﱲ	عجولا	ever hasty	ʿajūlan
+5	17:11:9	e	١١	ﱳ			
+6	17:12:1	w	وَجَعَلۡنَا	ﱴ	وجعلنا	And We have made	wajaʿalnā
+6	17:12:2	w	ٱلَّيۡلَ	ﱵ	الليل	the night	al-layla
+6	17:12:3	w	وَٱلنَّهَارَ	ﱶ	والنهار	and the day	wal-nahāra
+6	17:12:4	w	ءَايَتَيۡنِۖ	ﱷﱸ	ايتين	(as) two signs	āyatayni
+6	17:12:5	w	فَمَحَوۡنَآ	ﱹ	فمحونا	Then We erased	famaḥawnā
+6	17:12:6	w	ءَايَةَ	ﱺ	اية	(the) sign	āyata
+6	17:12:7	w	ٱلَّيۡلِ	ﱻ	الليل	(of) the night	al-layli
+6	17:12:8	w	وَجَعَلۡنَآ	ﱼ	وجعلنا	and We made	wajaʿalnā
+6	17:12:9	w	ءَايَةَ	ﱽ	اية	(the) sign	āyata
+7	17:12:10	w	ٱلنَّهَارِ	ﱾ	النهار	(of) the day	l-nahāri
+7	17:12:11	w	مُبۡصِرَةٗ	ﱿ	مبصرة	visible	mub'ṣiratan
+7	17:12:12	w	لِّتَبۡتَغُواْ	ﲀ	لتبتغوا	that you may seek	litabtaghū
+7	17:12:13	w	فَضۡلٗا	ﲁ	فضلا	bounty	faḍlan
+7	17:12:14	w	مِّن	ﲂ	من	from	min
+7	17:12:15	w	رَّبِّكُمۡ	ﲃ	ربكم	your Lord	rabbikum
+7	17:12:16	w	وَلِتَعۡلَمُواْ	ﲄ	ولتعلموا	and that you may know	walitaʿlamū
+7	17:12:17	w	عَدَدَ	ﲅ	عدد	(the) number	ʿadada
+8	17:12:18	w	ٱلسِّنِينَ	ﲆ	السنين	(of) the years	l-sinīna
+8	17:12:19	w	وَٱلۡحِسَابَۚ	ﲇﲈ	والحساب	and the account	wal-ḥisāba
+8	17:12:20	w	وَكُلَّ	ﲉ	وكل	And every	wakulla
+8	17:12:21	w	شَيۡءٖ	ﲊ	شيء	thing	shayin
+8	17:12:22	w	فَصَّلۡنَٰهُ	ﲋ	فصلناه	We have explained it	faṣṣalnāhu
+8	17:12:23	w	تَفۡصِيلٗا	ﲌ	تفصيلا	(in) detail	tafṣīlan
+8	17:12:24	e	١٢	ﲍ			
+8	17:13:1	w	وَكُلَّ	ﲎ	وكل	And (for) every	wakulla
+9	17:13:2	w	إِنسَٰنٍ	ﲏ	انسان	man	insānin
+9	17:13:3	w	أَلۡزَمۡنَٰهُ	ﲐ	الزمناه	We have fastened to him	alzamnāhu
+9	17:13:4	w	طَٰٓئِرَهُۥ	ﲑ	طايره	his fate	ṭāirahu
+9	17:13:5	w	فِي	ﲒ	في	in	fī
+9	17:13:6	w	عُنُقِهِۦۖ	ﲓﲔ	عنقه	his neck	ʿunuqihi
+9	17:13:7	w	وَنُخۡرِجُ	ﲕ	ونخرج	and We will bring forth	wanukh'riju
+9	17:13:8	w	لَهُۥ	ﲖ	له	for him	lahu
+9	17:13:9	w	يَوۡمَ	ﲗ	يوم	(on the) Day	yawma
+9	17:13:10	w	ٱلۡقِيَٰمَةِ	ﲘ	القيامة	(of) the Resurrection	l-qiyāmati
+9	17:13:11	w	كِتَٰبٗا	ﲙ	كتابا	a record	kitāban
+10	17:13:12	w	يَلۡقَىٰهُ	ﲚ	يلقاه	which he will find	yalqāhu
+10	17:13:13	w	مَنشُورًا	ﲛ	منشورا	wide open	manshūran
+10	17:13:14	e	١٣	ﲜ			
+10	17:14:1	w	ٱقۡرَأۡ	ﲝ	اقرا	Read	iq'ra
+10	17:14:2	w	كِتَٰبَكَ	ﲞ	كتابك	your record	kitābaka
+10	17:14:3	w	كَفَىٰ	ﲟ	كفى	Sufficient	kafā
+10	17:14:4	w	بِنَفۡسِكَ	ﲠ	بنفسك	(is) yourself	binafsika
+10	17:14:5	w	ٱلۡيَوۡمَ	ﲡ	اليوم	today	l-yawma
+10	17:14:6	w	عَلَيۡكَ	ﲢ	عليك	against you	ʿalayka
+10	17:14:7	w	حَسِيبٗا	ﲣ	حسيبا	(as) accountant	ḥasīban
+11	17:14:8	e	١٤	ﲤ			
+11	17:15:1	w	مَّنِ	ﲥ	من	Whoever	mani
+11	17:15:2	w	ٱهۡتَدَىٰ	ﲦ	اهتدى	(is) guided	ih'tadā
+11	17:15:3	w	فَإِنَّمَا	ﲧ	فانما	then only	fa-innamā
+11	17:15:4	w	يَهۡتَدِي	ﲨ	يهتدي	he is guided	yahtadī
+11	17:15:5	w	لِنَفۡسِهِۦۖ	ﲩﲪ	لنفسه	for his soul	linafsihi
+11	17:15:6	w	وَمَن	ﲫ	ومن	And whoever	waman
+11	17:15:7	w	ضَلَّ	ﲬ	ضل	goes astray	ḍalla
+11	17:15:8	w	فَإِنَّمَا	ﲭ	فانما	then only	fa-innamā
+11	17:15:9	w	يَضِلُّ	ﲮ	يضل	he goes astray	yaḍillu
+12	17:15:10	w	عَلَيۡهَاۚ	ﲯﲰ	عليها	against it	ʿalayhā
+12	17:15:11	w	وَلَا	ﲱ	ولا	And not	walā
+12	17:15:12	w	تَزِرُ	ﲲ	تزر	will bear	taziru
+12	17:15:13	w	وَازِرَةٞ	ﲳ	وازرة	a bearer of burden	wāziratun
+12	17:15:14	w	وِزۡرَ	ﲴ	وزر	burden	wiz'ra
+12	17:15:15	w	أُخۡرَىٰۗ	ﲵﲶ	اخرى	(of) another	ukh'rā
+12	17:15:16	w	وَمَا	ﲷ	وما	And not	wamā
+12	17:15:17	w	كُنَّا	ﲸ	كنا	We	kunnā
+12	17:15:18	w	مُعَذِّبِينَ	ﲹ	معذبين	are to punish	muʿadhibīna
+12	17:15:19	w	حَتَّىٰ	ﲺ	حتى	until	ḥattā
+12	17:15:20	w	نَبۡعَثَ	ﲻ	نبعث	We have sent	nabʿatha
+13	17:15:21	w	رَسُولٗا	ﲼ	رسولا	a Messenger	rasūlan
+13	17:15:22	e	١٥	ﲽ			
+13	17:16:1	w	وَإِذَآ	ﲾ	واذا	And when	wa-idhā
+13	17:16:2	w	أَرَدۡنَآ	ﲿ	اردنا	We intend	aradnā
+13	17:16:3	w	أَن	ﳀ	ان	that	an
+13	17:16:4	w	نُّهۡلِكَ	ﳁ	نهلك	We destroy	nuh'lika
+13	17:16:5	w	قَرۡيَةً	ﳂ	قرية	a town	qaryatan
+13	17:16:6	w	أَمَرۡنَا	ﳃ	امرنا	We order	amarnā
+13	17:16:7	w	مُتۡرَفِيهَا	ﳄ	مترفيها	its wealthy people	mut'rafīhā
+13	17:16:8	w	فَفَسَقُواْ	ﳅ	ففسقوا	but they defiantly disobey	fafasaqū
+13	17:16:9	w	فِيهَا	ﳆ	فيها	therein	fīhā
+14	17:16:10	w	فَحَقَّ	ﳇ	فحق	so (is) proved true	faḥaqqa
+14	17:16:11	w	عَلَيۡهَا	ﳈ	عليها	against it	ʿalayhā
+14	17:16:12	w	ٱلۡقَوۡلُ	ﳉ	القول	the word	l-qawlu
+14	17:16:13	w	فَدَمَّرۡنَٰهَا	ﳊ	فدمرناها	and We destroy it	fadammarnāhā
+14	17:16:14	w	تَدۡمِيرٗا	ﳋ	تدميرا	(with) destruction	tadmīran
+14	17:16:15	e	١٦	ﳌ			
+14	17:17:1	w	وَكَمۡ	ﳍ	وكم	And how many	wakam
+14	17:17:2	w	أَهۡلَكۡنَا	ﳎ	اهلكنا	We destroyed	ahlaknā
+14	17:17:3	w	مِنَ	ﳏ	من	from	mina
+14	17:17:4	w	ٱلۡقُرُونِ	ﳐ	القرون	the generations	l-qurūni
+15	17:17:5	w	مِنۢ	ﳑ	من	after	min
+15	17:17:6	w	بَعۡدِ	ﳒ	بعد	after	baʿdi
+15	17:17:7	w	نُوحٖۗ	ﳓﳔ	نوح	Nuh	nūḥin
+15	17:17:8	w	وَكَفَىٰ	ﳕ	وكفى	And sufficient	wakafā
+15	17:17:9	w	بِرَبِّكَ	ﳖ	بربك	(is) your Lord	birabbika
+15	17:17:10	w	بِذُنُوبِ	ﳗ	بذنوب	concerning the sins	bidhunūbi
+15	17:17:11	w	عِبَادِهِۦ	ﳘ	عباده	(of) His servants	ʿibādihi
+15	17:17:12	w	خَبِيرَۢا	ﳙ	خبيرا	All-Aware	khabīran
+15	17:17:13	w	بَصِيرٗا	ﳚ	بصيرا	All-Seer	baṣīran
+15	17:17:14	e	١٧	ﳛ			

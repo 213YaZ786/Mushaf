@@ -1,0 +1,153 @@
+1	16:43:1	w	وَمَآ	ﱁ	وما	And not	wamā
+1	16:43:2	w	أَرۡسَلۡنَا	ﱂ	ارسلنا	We sent	arsalnā
+1	16:43:3	w	مِن	ﱃ	من	before you	min
+1	16:43:4	w	قَبۡلِكَ	ﱄ	قبلك	before you	qablika
+1	16:43:5	w	إِلَّا	ﱅ	الا	except	illā
+1	16:43:6	w	رِجَالٗا	ﱆ	رجالا	men	rijālan
+1	16:43:7	w	نُّوحِيٓ	ﱇ	نوحي	We revealed	nūḥī
+1	16:43:8	w	إِلَيۡهِمۡۖ	ﱈﱉ	اليهم	to them	ilayhim
+1	16:43:9	w	فَسۡـَٔلُوٓاْ	ﱊ	فاسالوا	so ask	fasalū
+1	16:43:10	w	أَهۡلَ	ﱋ	اهل	(the) people	ahla
+2	16:43:11	w	ٱلذِّكۡرِ	ﱌ	الذكر	(of) the Reminder	l-dhik'ri
+2	16:43:12	w	إِن	ﱍ	ان	if	in
+2	16:43:13	w	كُنتُمۡ	ﱎ	كنتم	you	kuntum
+2	16:43:14	w	لَا	ﱏ	لا	(do) not	lā
+2	16:43:15	w	تَعۡلَمُونَ	ﱐ	تعلمون	know	taʿlamūna
+2	16:43:16	e	٤٣	ﱑ			
+2	16:44:1	w	بِٱلۡبَيِّنَٰتِ	ﱒ	بالبينات	With the clear proofs	bil-bayināti
+2	16:44:2	w	وَٱلزُّبُرِۗ	ﱓﱔ	والزبر	and the Books	wal-zuburi
+2	16:44:3	w	وَأَنزَلۡنَآ	ﱕ	وانزلنا	And We sent down	wa-anzalnā
+2	16:44:4	w	إِلَيۡكَ	ﱖ	اليك	to you	ilayka
+3	16:44:5	w	ٱلذِّكۡرَ	ﱗ	الذكر	the Remembrance	l-dhik'ra
+3	16:44:6	w	لِتُبَيِّنَ	ﱘ	لتبين	that you may make clear	litubayyina
+3	16:44:7	w	لِلنَّاسِ	ﱙ	للناس	to the mankind	lilnnāsi
+3	16:44:8	w	مَا	ﱚ	ما	what	mā
+3	16:44:9	w	نُزِّلَ	ﱛ	نزل	has been sent down	nuzzila
+3	16:44:10	w	إِلَيۡهِمۡ	ﱜ	اليهم	to them	ilayhim
+3	16:44:11	w	وَلَعَلَّهُمۡ	ﱝ	ولعلهم	and that they may	walaʿallahum
+3	16:44:12	w	يَتَفَكَّرُونَ	ﱞ	يتفكرون	reflect	yatafakkarūna
+3	16:44:13	e	٤٤	ﱟ			
+4	16:45:1	w	أَفَأَمِنَ	ﱠ	افامن	Do then feel secure	afa-amina
+4	16:45:2	w	ٱلَّذِينَ	ﱡ	الذين	those who	alladhīna
+4	16:45:3	w	مَكَرُواْ	ﱢ	مكروا	plotted	makarū
+4	16:45:4	w	ٱلسَّيِّـَٔاتِ	ﱣ	السييات	the evil deeds	l-sayiāti
+4	16:45:5	w	أَن	ﱤ	ان	that	an
+4	16:45:6	w	يَخۡسِفَ	ﱥ	يخسف	Allah will cave	yakhsifa
+4	16:45:7	w	ٱللَّهُ	ﱦ	الله	Allah will cave	l-lahu
+4	16:45:8	w	بِهِمُ	ﱧ	بهم	with them	bihimu
+4	16:45:9	w	ٱلۡأَرۡضَ	ﱨ	الارض	the earth	l-arḍa
+5	16:45:10	w	أَوۡ	ﱩ	او	or	aw
+5	16:45:11	w	يَأۡتِيَهُمُ	ﱪ	ياتيهم	will come to them	yatiyahumu
+5	16:45:12	w	ٱلۡعَذَابُ	ﱫ	العذاب	the punishment	l-ʿadhābu
+5	16:45:13	w	مِنۡ	ﱬ	من	from	min
+5	16:45:14	w	حَيۡثُ	ﱭ	حيث	where	ḥaythu
+5	16:45:15	w	لَا	ﱮ	لا	not	lā
+5	16:45:16	w	يَشۡعُرُونَ	ﱯ	يشعرون	they perceive	yashʿurūna
+5	16:45:17	e	٤٥	ﱰ			
+5	16:46:1	w	أَوۡ	ﱱ	او	Or	aw
+5	16:46:2	w	يَأۡخُذَهُمۡ	ﱲ	ياخذهم	that He may seize them	yakhudhahum
+6	16:46:3	w	فِي	ﱳ	في	in	fī
+6	16:46:4	w	تَقَلُّبِهِمۡ	ﱴ	تقلبهم	their going to and fro	taqallubihim
+6	16:46:5	w	فَمَا	ﱵ	فما	then not	famā
+6	16:46:6	w	هُم	ﱶ	هم	they	hum
+6	16:46:7	w	بِمُعۡجِزِينَ	ﱷ	بمعجزين	will be able to escape	bimuʿ'jizīna
+6	16:46:8	e	٤٦	ﱸ			
+6	16:47:1	w	أَوۡ	ﱹ	او	Or	aw
+6	16:47:2	w	يَأۡخُذَهُمۡ	ﱺ	ياخذهم	that He may seize them	yakhudhahum
+6	16:47:3	w	عَلَىٰ	ﱻ	على	with	ʿalā
+6	16:47:4	w	تَخَوُّفٖ	ﱼ	تخوف	a gradual wasting	takhawwufin
+6	16:47:5	w	فَإِنَّ	ﱽ	فان	But indeed	fa-inna
+7	16:47:6	w	رَبَّكُمۡ	ﱾ	ربكم	your Lord	rabbakum
+7	16:47:7	w	لَرَءُوفٞ	ﱿ	لرءوف	(is) surely Full of Kindness	laraūfun
+7	16:47:8	w	رَّحِيمٌ	ﲀ	رحيم	Most Merciful	raḥīmun
+7	16:47:9	e	٤٧	ﲁ			
+7	16:48:1	w	أَوَلَمۡ	ﲂ	اولم	Have not	awalam
+7	16:48:2	w	يَرَوۡاْ	ﲃ	يروا	they seen	yaraw
+7	16:48:3	w	إِلَىٰ	ﲄ	الى	[towards]	ilā
+7	16:48:4	w	مَا	ﲅ	ما	what	mā
+7	16:48:5	w	خَلَقَ	ﲆ	خلق	Allah has created	khalaqa
+7	16:48:6	w	ٱللَّهُ	ﲇ	الله	Allah has created	l-lahu
+7	16:48:7	w	مِن	ﲈ	من	from	min
+7	16:48:8	w	شَيۡءٖ	ﲉ	شيء	a thing	shayin
+8	16:48:9	w	يَتَفَيَّؤُاْ	ﲊ	يتفيا	Incline	yatafayya-u
+8	16:48:10	w	ظِلَٰلُهُۥ	ﲋ	ظلاله	their shadows	ẓilāluhu
+8	16:48:11	w	عَنِ	ﲌ	عن	to	ʿani
+8	16:48:12	w	ٱلۡيَمِينِ	ﲍ	اليمين	the right	l-yamīni
+8	16:48:13	w	وَٱلشَّمَآئِلِ	ﲎ	والشمايل	and to the left	wal-shamāili
+8	16:48:14	w	سُجَّدٗا	ﲏ	سجدا	prostrating	sujjadan
+8	16:48:15	w	لِّلَّهِ	ﲐ	لله	to Allah	lillahi
+8	16:48:16	w	وَهُمۡ	ﲑ	وهم	while they	wahum
+8	16:48:17	w	دَٰخِرُونَ	ﲒ	داخرون	(are) humble	dākhirūna
+9	16:48:18	e	٤٨	ﲓ			
+9	16:49:1	w	وَلِلَّهِۤ	ﲔﲕ	ولله	And to Allah	walillahi
+9	16:49:2	w	يَسۡجُدُۤ	ﲖﲗ	يسجد	prostrate	yasjudu
+9	16:49:3	w	مَا	ﲘ	ما	whatever	mā
+9	16:49:4	w	فِي	ﲙ	في	(is) in	fī
+9	16:49:5	w	ٱلسَّمَٰوَٰتِ	ﲚ	السماوات	the heavens	l-samāwāti
+9	16:49:6	w	وَمَا	ﲛ	وما	and whatever	wamā
+9	16:49:7	w	فِي	ﲜ	في	(is) in	fī
+9	16:49:8	w	ٱلۡأَرۡضِ	ﲝ	الارض	the earth	l-arḍi
+9	16:49:9	w	مِن	ﲞ	من	of	min
+9	16:49:10	w	دَآبَّةٖ	ﲟ	دابة	moving creatures	dābbatin
+10	16:49:11	w	وَٱلۡمَلَٰٓئِكَةُ	ﲠ	والملايكة	and the Angels	wal-malāikatu
+10	16:49:12	w	وَهُمۡ	ﲡ	وهم	and they	wahum
+10	16:49:13	w	لَا	ﲢ	لا	(are) not	lā
+10	16:49:14	w	يَسۡتَكۡبِرُونَ	ﲣ	يستكبرون	arrogant	yastakbirūna
+10	16:49:15	e	٤٩	ﲤ			
+10	16:50:1	w	يَخَافُونَ	ﲥ	يخافون	They fear	yakhāfūna
+10	16:50:2	w	رَبَّهُم	ﲦ	ربهم	their Lord	rabbahum
+10	16:50:3	w	مِّن	ﲧ	من	above them	min
+10	16:50:4	w	فَوۡقِهِمۡ	ﲨ	فوقهم	above them	fawqihim
+11	16:50:5	w	وَيَفۡعَلُونَ	ﲩ	ويفعلون	and they do	wayafʿalūna
+11	16:50:6	w	مَا	ﲪ	ما	what	mā
+11	16:50:7	w	يُؤۡمَرُونَ۩	ﲫﲬ	يومرون ۩	they are commanded	yu'marūna
+11	16:50:8	e	٥٠	ﲭ			
+11	16:51:1	w	۞ وَقَالَ	ﲮ ﲯ	۞ وقال	And Allah has said	waqāla
+11	16:51:2	w	ٱللَّهُ	ﲰ	الله	And Allah has said	l-lahu
+11	16:51:3	w	لَا	ﲱ	لا	(Do) not	lā
+11	16:51:4	w	تَتَّخِذُوٓاْ	ﲲ	تتخذوا	take	tattakhidhū
+11	16:51:5	w	إِلَٰهَيۡنِ	ﲳ	الاهين	[two] gods	ilāhayni
+12	16:51:6	w	ٱثۡنَيۡنِۖ	ﲴﲵ	اثنين	two	ith'nayni
+12	16:51:7	w	إِنَّمَا	ﲶ	انما	only	innamā
+12	16:51:8	w	هُوَ	ﲷ	هو	He	huwa
+12	16:51:9	w	إِلَٰهٞ	ﲸ	الاه	(is) God	ilāhun
+12	16:51:10	w	وَٰحِدٞ	ﲹ	واحد	One	wāḥidun
+12	16:51:11	w	فَإِيَّٰيَ	ﲺ	فاياي	so Me Alone	fa-iyyāya
+12	16:51:12	w	فَٱرۡهَبُونِ	ﲻ	فارهبون	you fear [Me]	fa-ir'habūni
+12	16:51:13	e	٥١	ﲼ			
+12	16:52:1	w	وَلَهُۥ	ﲽ	وله	And to Him (belongs)	walahu
+12	16:52:2	w	مَا	ﲾ	ما	whatever	mā
+12	16:52:3	w	فِي	ﲿ	في	(is) in	fī
+12	16:52:4	w	ٱلسَّمَٰوَٰتِ	ﳀ	السماوات	the heavens	l-samāwāti
+13	16:52:5	w	وَٱلۡأَرۡضِ	ﳁ	والارض	and the earth	wal-arḍi
+13	16:52:6	w	وَلَهُ	ﳂ	وله	and to Him	walahu
+13	16:52:7	w	ٱلدِّينُ	ﳃ	الدين	(is due) the worship	l-dīnu
+13	16:52:8	w	وَاصِبًاۚ	ﳄﳅ	واصبا	constantly	wāṣiban
+13	16:52:9	w	أَفَغَيۡرَ	ﳆ	افغير	Then is it other (than)	afaghayra
+13	16:52:10	w	ٱللَّهِ	ﳇ	الله	Allah	l-lahi
+13	16:52:11	w	تَتَّقُونَ	ﳈ	تتقون	you fear	tattaqūna
+13	16:52:12	e	٥٢	ﳉ			
+13	16:53:1	w	وَمَا	ﳊ	وما	And whatever	wamā
+13	16:53:2	w	بِكُم	ﳋ	بكم	you have	bikum
+13	16:53:3	w	مِّن	ﳌ	من	of	min
+14	16:53:4	w	نِّعۡمَةٖ	ﳍ	نعمة	favor	niʿ'matin
+14	16:53:5	w	فَمِنَ	ﳎ	فمن	(is) from	famina
+14	16:53:6	w	ٱللَّهِۖ	ﳏﳐ	الله	Allah	l-lahi
+14	16:53:7	w	ثُمَّ	ﳑ	ثم	Then	thumma
+14	16:53:8	w	إِذَا	ﳒ	اذا	when	idhā
+14	16:53:9	w	مَسَّكُمُ	ﳓ	مسكم	touches you	massakumu
+14	16:53:10	w	ٱلضُّرُّ	ﳔ	الضر	the adversity	l-ḍuru
+14	16:53:11	w	فَإِلَيۡهِ	ﳕ	فاليه	then to Him	fa-ilayhi
+14	16:53:12	w	تَجۡـَٔرُونَ	ﳖ	تجارون	you cry for help	tajarūna
+14	16:53:13	e	٥٣	ﳗ			
+14	16:54:1	w	ثُمَّ	ﳘ	ثم	Then	thumma
+14	16:54:2	w	إِذَا	ﳙ	اذا	when	idhā
+15	16:54:3	w	كَشَفَ	ﳚ	كشف	He removes	kashafa
+15	16:54:4	w	ٱلضُّرَّ	ﳛ	الضر	the adversity	l-ḍura
+15	16:54:5	w	عَنكُمۡ	ﳜ	عنكم	from you	ʿankum
+15	16:54:6	w	إِذَا	ﳝ	اذا	behold	idhā
+15	16:54:7	w	فَرِيقٞ	ﳞ	فريق	A group	farīqun
+15	16:54:8	w	مِّنكُم	ﳟ	منكم	of you	minkum
+15	16:54:9	w	بِرَبِّهِمۡ	ﳠ	بربهم	with their Lord	birabbihim
+15	16:54:10	w	يُشۡرِكُونَ	ﳡ	يشركون	associate others	yush'rikūna
+15	16:54:11	e	٥٤	ﳢ			

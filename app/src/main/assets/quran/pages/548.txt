@@ -1,0 +1,122 @@
+1	59:17:1	w	فَكَانَ	ﱁ	فكان	So will be	fakāna
+1	59:17:2	w	عَٰقِبَتَهُمَآ	ﱂ	عاقبتهما	(the) end of both of them	ʿāqibatahumā
+1	59:17:3	w	أَنَّهُمَا	ﱃ	انهما	that they	annahumā
+1	59:17:4	w	فِي	ﱄ	في	(will be) in	fī
+1	59:17:5	w	ٱلنَّارِ	ﱅ	النار	the Fire	l-nāri
+1	59:17:6	w	خَٰلِدَيۡنِ	ﱆ	خالدين	abiding forever	khālidayni
+1	59:17:7	w	فِيهَاۚ	ﱇﱈ	فيها	therein	fīhā
+1	59:17:8	w	وَذَٰلِكَ	ﱉ	وذالك	And that	wadhālika
+1	59:17:9	w	جَزَٰٓؤُاْ	ﱊ	جزاء	(is the) recompense	jazāu
+2	59:17:10	w	ٱلظَّٰلِمِينَ	ﱋ	الظالمين	(of) the wrongdoers	l-ẓālimīna
+2	59:17:11	e	١٧	ﱌ			
+2	59:18:1	w	يَٰٓأَيُّهَا	ﱍ	يا ايها	O	yāayyuhā
+2	59:18:2	w	ٱلَّذِينَ	ﱎ	الذين	you (who)	alladhīna
+2	59:18:3	w	ءَامَنُواْ	ﱏ	امنوا	believe	āmanū
+2	59:18:4	w	ٱتَّقُواْ	ﱐ	اتقوا	Fear	ittaqū
+2	59:18:5	w	ٱللَّهَ	ﱑ	الله	Allah	l-laha
+2	59:18:6	w	وَلۡتَنظُرۡ	ﱒ	ولتنظر	and let look	waltanẓur
+2	59:18:7	w	نَفۡسٞ	ﱓ	نفس	every soul	nafsun
+3	59:18:8	w	مَّا	ﱔ	ما	what	mā
+3	59:18:9	w	قَدَّمَتۡ	ﱕ	قدمت	it has sent forth	qaddamat
+3	59:18:10	w	لِغَدٖۖ	ﱖﱗ	لغد	for tomorrow	lighadin
+3	59:18:11	w	وَٱتَّقُواْ	ﱘ	واتقوا	and fear	wa-ittaqū
+3	59:18:12	w	ٱللَّهَۚ	ﱙﱚ	الله	Allah	l-laha
+3	59:18:13	w	إِنَّ	ﱛ	ان	Indeed	inna
+3	59:18:14	w	ٱللَّهَ	ﱜ	الله	Allah	l-laha
+3	59:18:15	w	خَبِيرُۢ	ﱝ	خبير	(is) All-Aware	khabīrun
+3	59:18:16	w	بِمَا	ﱞ	بما	of what	bimā
+3	59:18:17	w	تَعۡمَلُونَ	ﱟ	تعملون	you do	taʿmalūna
+3	59:18:18	e	١٨	ﱠ			
+4	59:19:1	w	وَلَا	ﱡ	ولا	And (do) not	walā
+4	59:19:2	w	تَكُونُواْ	ﱢ	تكونوا	be	takūnū
+4	59:19:3	w	كَٱلَّذِينَ	ﱣ	كالذين	like those who	ka-alladhīna
+4	59:19:4	w	نَسُواْ	ﱤ	نسوا	forgot	nasū
+4	59:19:5	w	ٱللَّهَ	ﱥ	الله	Allah	l-laha
+4	59:19:6	w	فَأَنسَىٰهُمۡ	ﱦ	فانساهم	so He made them forget	fa-ansāhum
+4	59:19:7	w	أَنفُسَهُمۡۚ	ﱧﱨ	انفسهم	themselves	anfusahum
+4	59:19:8	w	أُوْلَٰٓئِكَ	ﱩ	اولايك	Those	ulāika
+5	59:19:9	w	هُمُ	ﱪ	هم	[they]	humu
+5	59:19:10	w	ٱلۡفَٰسِقُونَ	ﱫ	الفاسقون	(are) the defiantly disobedient	l-fāsiqūna
+5	59:19:11	e	١٩	ﱬ			
+5	59:20:1	w	لَا	ﱭ	لا	Not	lā
+5	59:20:2	w	يَسۡتَوِيٓ	ﱮ	يستوي	equal	yastawī
+5	59:20:3	w	أَصۡحَٰبُ	ﱯ	اصحاب	(are the) companions	aṣḥābu
+5	59:20:4	w	ٱلنَّارِ	ﱰ	النار	(of) the Fire	l-nāri
+5	59:20:5	w	وَأَصۡحَٰبُ	ﱱ	واصحاب	and (the) companions	wa-aṣḥābu
+6	59:20:6	w	ٱلۡجَنَّةِۚ	ﱲﱳ	الجنة	(of) Paradise	l-janati
+6	59:20:7	w	أَصۡحَٰبُ	ﱴ	اصحاب	(The) companions	aṣḥābu
+6	59:20:8	w	ٱلۡجَنَّةِ	ﱵ	الجنة	(of) Paradise	l-janati
+6	59:20:9	w	هُمُ	ﱶ	هم	they	humu
+6	59:20:10	w	ٱلۡفَآئِزُونَ	ﱷ	الفايزون	(are) the achievers	l-fāizūna
+6	59:20:11	e	٢٠	ﱸ			
+6	59:21:1	w	لَوۡ	ﱹ	لو	If	law
+6	59:21:2	w	أَنزَلۡنَا	ﱺ	انزلنا	We (had) sent down	anzalnā
+6	59:21:3	w	هَٰذَا	ﱻ	هاذا	this	hādhā
+7	59:21:4	w	ٱلۡقُرۡءَانَ	ﱼ	القران	Quran	l-qur'āna
+7	59:21:5	w	عَلَىٰ	ﱽ	على	on	ʿalā
+7	59:21:6	w	جَبَلٖ	ﱾ	جبل	a mountain	jabalin
+7	59:21:7	w	لَّرَأَيۡتَهُۥ	ﱿ	لرايته	surely you (would) have seen it	lara-aytahu
+7	59:21:8	w	خَٰشِعٗا	ﲀ	خاشعا	humbled	khāshiʿan
+7	59:21:9	w	مُّتَصَدِّعٗا	ﲁ	متصدعا	breaking asunder	mutaṣaddiʿan
+7	59:21:10	w	مِّنۡ	ﲂ	من	from	min
+7	59:21:11	w	خَشۡيَةِ	ﲃ	خشية	(the) fear	khashyati
+8	59:21:12	w	ٱللَّهِۚ	ﲄﲅ	الله	(of) Allah	l-lahi
+8	59:21:13	w	وَتِلۡكَ	ﲆ	وتلك	And these	watil'ka
+8	59:21:14	w	ٱلۡأَمۡثَٰلُ	ﲇ	الامثال	examples	l-amthālu
+8	59:21:15	w	نَضۡرِبُهَا	ﲈ	نضربها	We present them	naḍribuhā
+8	59:21:16	w	لِلنَّاسِ	ﲉ	للناس	to the people	lilnnāsi
+8	59:21:17	w	لَعَلَّهُمۡ	ﲊ	لعلهم	so that they may	laʿallahum
+8	59:21:18	w	يَتَفَكَّرُونَ	ﲋ	يتفكرون	give thought	yatafakkarūna
+9	59:21:19	e	٢١	ﲌ			
+9	59:22:1	w	هُوَ	ﲍ	هو	He	huwa
+9	59:22:2	w	ٱللَّهُ	ﲎ	الله	(is) Allah	l-lahu
+9	59:22:3	w	ٱلَّذِي	ﲏ	الذي	the One Who	alladhī
+9	59:22:4	w	لَآ	ﲐ	لا	(there is) no	lā
+9	59:22:5	w	إِلَٰهَ	ﲑ	الاه	god	ilāha
+9	59:22:6	w	إِلَّا	ﲒ	الا	but	illā
+9	59:22:7	w	هُوَۖ	ﲓﲔ	هو	He	huwa
+9	59:22:8	w	عَٰلِمُ	ﲕ	عالم	(the) All-Knower	ʿālimu
+9	59:22:9	w	ٱلۡغَيۡبِ	ﲖ	الغيب	(of) the unseen	l-ghaybi
+9	59:22:10	w	وَٱلشَّهَٰدَةِۖ	ﲗﲘ	والشهادة	and the witnessed	wal-shahādati
+10	59:22:11	w	هُوَ	ﲙ	هو	He	huwa
+10	59:22:12	w	ٱلرَّحۡمَٰنُ	ﲚ	الرحمان	(is) the Most Gracious	l-raḥmānu
+10	59:22:13	w	ٱلرَّحِيمُ	ﲛ	الرحيم	the Most Merciful	l-raḥīmu
+10	59:22:14	e	٢٢	ﲜ			
+10	59:23:1	w	هُوَ	ﲝ	هو	He	huwa
+10	59:23:2	w	ٱللَّهُ	ﲞ	الله	(is) Allah	l-lahu
+10	59:23:3	w	ٱلَّذِي	ﲟ	الذي	the One Who	alladhī
+10	59:23:4	w	لَآ	ﲠ	لا	(there is) no	lā
+10	59:23:5	w	إِلَٰهَ	ﲡ	الاه	god	ilāha
+10	59:23:6	w	إِلَّا	ﲢ	الا	but	illā
+10	59:23:7	w	هُوَ	ﲣ	هو	He	huwa
+10	59:23:8	w	ٱلۡمَلِكُ	ﲤ	الملك	the Sovereign	l-maliku
+11	59:23:9	w	ٱلۡقُدُّوسُ	ﲥ	القدوس	the Holy One	l-qudūsu
+11	59:23:10	w	ٱلسَّلَٰمُ	ﲦ	السلام	the Giver of Peace	l-salāmu
+11	59:23:11	w	ٱلۡمُؤۡمِنُ	ﲧ	المومن	the Giver of Security	l-mu'minu
+11	59:23:12	w	ٱلۡمُهَيۡمِنُ	ﲨ	المهيمن	the Guardian	l-muhayminu
+11	59:23:13	w	ٱلۡعَزِيزُ	ﲩ	العزيز	the All-Mighty	l-ʿazīzu
+11	59:23:14	w	ٱلۡجَبَّارُ	ﲪ	الجبار	the Irresistible	l-jabāru
+12	59:23:15	w	ٱلۡمُتَكَبِّرُۚ	ﲫﲬ	المتكبر	the Supreme	l-mutakabiru
+12	59:23:16	w	سُبۡحَٰنَ	ﲭ	سبحان	Glory (be to)	sub'ḥāna
+12	59:23:17	w	ٱللَّهِ	ﲮ	الله	Allah	l-lahi
+12	59:23:18	w	عَمَّا	ﲯ	عما	from what	ʿammā
+12	59:23:19	w	يُشۡرِكُونَ	ﲰ	يشركون	they associate (with Him)	yush'rikūna
+12	59:23:20	e	٢٣	ﲱ			
+12	59:24:1	w	هُوَ	ﲲ	هو	He	huwa
+12	59:24:2	w	ٱللَّهُ	ﲳ	الله	(is) Allah	l-lahu
+13	59:24:3	w	ٱلۡخَٰلِقُ	ﲴ	الخالق	the Creator	l-khāliqu
+13	59:24:4	w	ٱلۡبَارِئُ	ﲵ	الباري	the Inventor	l-bāri-u
+13	59:24:5	w	ٱلۡمُصَوِّرُۖ	ﲶﲷ	المصور	the Fashioner	l-muṣawiru
+13	59:24:6	w	لَهُ	ﲸ	له	For Him	lahu
+13	59:24:7	w	ٱلۡأَسۡمَآءُ	ﲹ	الاسماء	(are) the names	l-asmāu
+13	59:24:8	w	ٱلۡحُسۡنَىٰۚ	ﲺﲻ	الحسنى	the beautiful	l-ḥus'nā
+13	59:24:9	w	يُسَبِّحُ	ﲼ	يسبح	Glorifies	yusabbiḥu
+14	59:24:10	w	لَهُۥ	ﲽ	له	Him	lahu
+14	59:24:11	w	مَا	ﲾ	ما	whatever	mā
+14	59:24:12	w	فِي	ﲿ	في	(is) in	fī
+14	59:24:13	w	ٱلسَّمَٰوَٰتِ	ﳀ	السماوات	the heavens	l-samāwāti
+14	59:24:14	w	وَٱلۡأَرۡضِۖ	ﳁﳂ	والارض	and the earth	wal-arḍi
+14	59:24:15	w	وَهُوَ	ﳃ	وهو	And He	wahuwa
+14	59:24:16	w	ٱلۡعَزِيزُ	ﳄ	العزيز	(is) the All-Mighty	l-ʿazīzu
+14	59:24:17	w	ٱلۡحَكِيمُ	ﳅ	الحكيم	the All-Wise	l-ḥakīmu
+14	59:24:18	e	٢٤	ﳆ			

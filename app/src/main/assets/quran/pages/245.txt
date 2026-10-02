@@ -1,0 +1,141 @@
+1	12:79:1	w	قَالَ	ﱁ	قال	He said	qāla
+1	12:79:2	w	مَعَاذَ	ﱂ	معاذ	Allah forbid	maʿādha
+1	12:79:3	w	ٱللَّهِ	ﱃ	الله	Allah forbid	l-lahi
+1	12:79:4	w	أَن	ﱄ	ان	that	an
+1	12:79:5	w	نَّأۡخُذَ	ﱅ	ناخذ	we take	nakhudha
+1	12:79:6	w	إِلَّا	ﱆ	الا	except	illā
+1	12:79:7	w	مَن	ﱇ	من	(one) who	man
+1	12:79:8	w	وَجَدۡنَا	ﱈ	وجدنا	we found	wajadnā
+1	12:79:9	w	مَتَٰعَنَا	ﱉ	متاعنا	our possession	matāʿanā
+1	12:79:10	w	عِندَهُۥٓ	ﱊ	عنده	with him	ʿindahu
+1	12:79:11	w	إِنَّآ	ﱋ	انا	Indeed, we	innā
+2	12:79:12	w	إِذٗا	ﱌ	اذا	then	idhan
+2	12:79:13	w	لَّظَٰلِمُونَ	ﱍ	لظالمون	surely (would be) wrongdoers	laẓālimūna
+2	12:79:14	e	٧٩	ﱎ			
+2	12:80:1	w	فَلَمَّا	ﱏ	فلما	So when	falammā
+2	12:80:2	w	ٱسۡتَيۡـَٔسُواْ	ﱐ	استياسوا	they despaired	is'tayasū
+2	12:80:3	w	مِنۡهُ	ﱑ	منه	of him	min'hu
+2	12:80:4	w	خَلَصُواْ	ﱒ	خلصوا	they secluded themselves	khalaṣū
+2	12:80:5	w	نَجِيّٗاۖ	ﱓﱔ	نجيا	(in) private consultation	najiyyan
+3	12:80:6	w	قَالَ	ﱕ	قال	Said	qāla
+3	12:80:7	w	كَبِيرُهُمۡ	ﱖ	كبيرهم	the eldest among them	kabīruhum
+3	12:80:8	w	أَلَمۡ	ﱗ	الم	Do not	alam
+3	12:80:9	w	تَعۡلَمُوٓاْ	ﱘ	تعلموا	you know	taʿlamū
+3	12:80:10	w	أَنَّ	ﱙ	ان	that	anna
+3	12:80:11	w	أَبَاكُمۡ	ﱚ	اباكم	your father	abākum
+3	12:80:12	w	قَدۡ	ﱛ	قد	has taken	qad
+3	12:80:13	w	أَخَذَ	ﱜ	اخذ	has taken	akhadha
+3	12:80:14	w	عَلَيۡكُم	ﱝ	عليكم	upon you	ʿalaykum
+4	12:80:15	w	مَّوۡثِقٗا	ﱞ	موثقا	a promise	mawthiqan
+4	12:80:16	w	مِّنَ	ﱟ	من	by	mina
+4	12:80:17	w	ٱللَّهِ	ﱠ	الله	Allah	l-lahi
+4	12:80:18	w	وَمِن	ﱡ	ومن	and before	wamin
+4	12:80:19	w	قَبۡلُ	ﱢ	قبل	and before	qablu
+4	12:80:20	w	مَا	ﱣ	ما	that	mā
+4	12:80:21	w	فَرَّطتُمۡ	ﱤ	فرطتم	you failed	farraṭtum
+4	12:80:22	w	فِي	ﱥ	في	concerning	fī
+4	12:80:23	w	يُوسُفَۖ	ﱦﱧ	يوسف	Yusuf	yūsufa
+4	12:80:24	w	فَلَنۡ	ﱨ	فلن	So never	falan
+4	12:80:25	w	أَبۡرَحَ	ﱩ	ابرح	will I leave	abraḥa
+5	12:80:26	w	ٱلۡأَرۡضَ	ﱪ	الارض	the land	l-arḍa
+5	12:80:27	w	حَتَّىٰ	ﱫ	حتى	until	ḥattā
+5	12:80:28	w	يَأۡذَنَ	ﱬ	ياذن	permits	yadhana
+5	12:80:29	w	لِيٓ	ﱭ	لي	me	lī
+5	12:80:30	w	أَبِيٓ	ﱮ	ابي	my father	abī
+5	12:80:31	w	أَوۡ	ﱯ	او	or	aw
+5	12:80:32	w	يَحۡكُمَ	ﱰ	يحكم	Allah decides	yaḥkuma
+5	12:80:33	w	ٱللَّهُ	ﱱ	الله	Allah decides	l-lahu
+5	12:80:34	w	لِيۖ	ﱲﱳ	لي	for me	lī
+5	12:80:35	w	وَهُوَ	ﱴ	وهو	and He	wahuwa
+5	12:80:36	w	خَيۡرُ	ﱵ	خير	(is) the Best	khayru
+5	12:80:37	w	ٱلۡحَٰكِمِينَ	ﱶ	الحاكمين	(of) the judges	l-ḥākimīna
+6	12:80:38	e	٨٠	ﱷ			
+6	12:81:1	w	ٱرۡجِعُوٓاْ	ﱸ	ارجعوا	Return	ir'jiʿū
+6	12:81:2	w	إِلَىٰٓ	ﱹ	الى	to	ilā
+6	12:81:3	w	أَبِيكُمۡ	ﱺ	ابيكم	your father	abīkum
+6	12:81:4	w	فَقُولُواْ	ﱻ	فقولوا	and say	faqūlū
+6	12:81:5	w	يَٰٓأَبَانَآ	ﱼ	يا ابانا	'O our father	yāabānā
+6	12:81:6	w	إِنَّ	ﱽ	ان	Indeed	inna
+6	12:81:7	w	ٱبۡنَكَ	ﱾ	ابنك	your son	ib'naka
+6	12:81:8	w	سَرَقَ	ﱿ	سرق	has stolen	saraqa
+7	12:81:9	w	وَمَا	ﲀ	وما	and not	wamā
+7	12:81:10	w	شَهِدۡنَآ	ﲁ	شهدنا	we testify	shahid'nā
+7	12:81:11	w	إِلَّا	ﲂ	الا	except	illā
+7	12:81:12	w	بِمَا	ﲃ	بما	of what	bimā
+7	12:81:13	w	عَلِمۡنَا	ﲄ	علمنا	we knew	ʿalim'nā
+7	12:81:14	w	وَمَا	ﲅ	وما	And not	wamā
+7	12:81:15	w	كُنَّا	ﲆ	كنا	we were	kunnā
+7	12:81:16	w	لِلۡغَيۡبِ	ﲇ	للغيب	of the unseen	lil'ghaybi
+7	12:81:17	w	حَٰفِظِينَ	ﲈ	حافظين	guardians	ḥāfiẓīna
+8	12:81:18	e	٨١	ﲉ			
+8	12:82:1	w	وَسۡـَٔلِ	ﲊ	واسال	And ask	wasali
+8	12:82:2	w	ٱلۡقَرۡيَةَ	ﲋ	القرية	the town	l-qaryata
+8	12:82:3	w	ٱلَّتِي	ﲌ	التي	where	allatī
+8	12:82:4	w	كُنَّا	ﲍ	كنا	we were	kunnā
+8	12:82:5	w	فِيهَا	ﲎ	فيها	[in it]	fīhā
+8	12:82:6	w	وَٱلۡعِيرَ	ﲏ	والعير	and the caravan	wal-ʿīra
+8	12:82:7	w	ٱلَّتِيٓ	ﲐ	التي	which	allatī
+8	12:82:8	w	أَقۡبَلۡنَا	ﲑ	اقبلنا	we returned	aqbalnā
+8	12:82:9	w	فِيهَاۖ	ﲒﲓ	فيها	[in it]	fīhā
+9	12:82:10	w	وَإِنَّا	ﲔ	وانا	And indeed, we	wa-innā
+9	12:82:11	w	لَصَٰدِقُونَ	ﲕ	لصادقون	surely (are) truthful.'	laṣādiqūna
+9	12:82:12	e	٨٢	ﲖ			
+9	12:83:1	w	قَالَ	ﲗ	قال	He said	qāla
+9	12:83:2	w	بَلۡ	ﲘ	بل	Nay	bal
+9	12:83:3	w	سَوَّلَتۡ	ﲙ	سولت	have enticed	sawwalat
+9	12:83:4	w	لَكُمۡ	ﲚ	لكم	you	lakum
+9	12:83:5	w	أَنفُسُكُمۡ	ﲛ	انفسكم	your souls	anfusukum
+9	12:83:6	w	أَمۡرٗاۖ	ﲜﲝ	امرا	something	amran
+10	12:83:7	w	فَصَبۡرٞ	ﲞ	فصبر	so patience	faṣabrun
+10	12:83:8	w	جَمِيلٌۖ	ﲟﲠ	جميل	(is) beautiful	jamīlun
+10	12:83:9	w	عَسَى	ﲡ	عسى	Perhaps	ʿasā
+10	12:83:10	w	ٱللَّهُ	ﲢ	الله	Allah	l-lahu
+10	12:83:11	w	أَن	ﲣ	ان	will bring them to me	an
+10	12:83:12	w	يَأۡتِيَنِي	ﲤ	ياتيني	will bring them to me	yatiyanī
+10	12:83:13	w	بِهِمۡ	ﲥ	بهم	will bring them to me	bihim
+10	12:83:14	w	جَمِيعًاۚ	ﲦﲧ	جميعا	all	jamīʿan
+10	12:83:15	w	إِنَّهُۥ	ﲨ	انه	Indeed, He	innahu
+10	12:83:16	w	هُوَ	ﲩ	هو	He	huwa
+11	12:83:17	w	ٱلۡعَلِيمُ	ﲪ	العليم	(is) the All-Knower	l-ʿalīmu
+11	12:83:18	w	ٱلۡحَكِيمُ	ﲫ	الحكيم	All-Wise	l-ḥakīmu
+11	12:83:19	e	٨٣	ﲬ			
+11	12:84:1	w	وَتَوَلَّىٰ	ﲭ	وتولى	And he turned away	watawallā
+11	12:84:2	w	عَنۡهُمۡ	ﲮ	عنهم	from them	ʿanhum
+11	12:84:3	w	وَقَالَ	ﲯ	وقال	and said	waqāla
+11	12:84:4	w	يَٰٓأَسَفَىٰ	ﲰ	يا اسفى	Alas, my grief	yāasafā
+11	12:84:5	w	عَلَىٰ	ﲱ	على	over	ʿalā
+12	12:84:6	w	يُوسُفَ	ﲲ	يوسف	Yusuf	yūsufa
+12	12:84:7	w	وَٱبۡيَضَّتۡ	ﲳ	وابيضت	And became white	wa-ib'yaḍḍat
+12	12:84:8	w	عَيۡنَاهُ	ﲴ	عيناه	his eyes	ʿaynāhu
+12	12:84:9	w	مِنَ	ﲵ	من	from	mina
+12	12:84:10	w	ٱلۡحُزۡنِ	ﲶ	الحزن	the grief	l-ḥuz'ni
+12	12:84:11	w	فَهُوَ	ﲷ	فهو	and he (was)	fahuwa
+12	12:84:12	w	كَظِيمٞ	ﲸ	كظيم	a suppressor	kaẓīmun
+13	12:84:13	e	٨٤	ﲹ			
+13	12:85:1	w	قَالُواْ	ﲺ	قالوا	They said	qālū
+13	12:85:2	w	تَٱللَّهِ	ﲻ	تالله	By Allah	tal-lahi
+13	12:85:3	w	تَفۡتَؤُاْ	ﲼ	تفتا	you will not cease	tafta-u
+13	12:85:4	w	تَذۡكُرُ	ﲽ	تذكر	remembering	tadhkuru
+13	12:85:5	w	يُوسُفَ	ﲾ	يوسف	Yusuf	yūsufa
+13	12:85:6	w	حَتَّىٰ	ﲿ	حتى	until	ḥattā
+13	12:85:7	w	تَكُونَ	ﳀ	تكون	you become	takūna
+13	12:85:8	w	حَرَضًا	ﳁ	حرضا	fatally ill	ḥaraḍan
+14	12:85:9	w	أَوۡ	ﳂ	او	or	aw
+14	12:85:10	w	تَكُونَ	ﳃ	تكون	become	takūna
+14	12:85:11	w	مِنَ	ﳄ	من	of	mina
+14	12:85:12	w	ٱلۡهَٰلِكِينَ	ﳅ	الهالكين	those who perish	l-hālikīna
+14	12:85:13	e	٨٥	ﳆ			
+14	12:86:1	w	قَالَ	ﳇ	قال	He said	qāla
+14	12:86:2	w	إِنَّمَآ	ﳈ	انما	Only	innamā
+14	12:86:3	w	أَشۡكُواْ	ﳉ	اشكو	I complain	ashkū
+14	12:86:4	w	بَثِّي	ﳊ	بثي	(of) my suffering	bathī
+15	12:86:5	w	وَحُزۡنِيٓ	ﳋ	وحزني	and my grief	waḥuz'nī
+15	12:86:6	w	إِلَى	ﳌ	الى	to	ilā
+15	12:86:7	w	ٱللَّهِ	ﳍ	الله	Allah	l-lahi
+15	12:86:8	w	وَأَعۡلَمُ	ﳎ	واعلم	and I know	wa-aʿlamu
+15	12:86:9	w	مِنَ	ﳏ	من	from	mina
+15	12:86:10	w	ٱللَّهِ	ﳐ	الله	Allah	l-lahi
+15	12:86:11	w	مَا	ﳑ	ما	what	mā
+15	12:86:12	w	لَا	ﳒ	لا	not	lā
+15	12:86:13	w	تَعۡلَمُونَ	ﳓ	تعلمون	you know	taʿlamūna
+15	12:86:14	e	٨٦	ﳔ			

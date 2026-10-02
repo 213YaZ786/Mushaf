@@ -1,0 +1,138 @@
+1	5:3:1	w	حُرِّمَتۡ	ﱁ	حرمت	Are made unlawful	ḥurrimat
+1	5:3:2	w	عَلَيۡكُمُ	ﱂ	عليكم	on you	ʿalaykumu
+1	5:3:3	w	ٱلۡمَيۡتَةُ	ﱃ	الميتة	the dead animals	l-maytatu
+1	5:3:4	w	وَٱلدَّمُ	ﱄ	والدم	and the blood	wal-damu
+1	5:3:5	w	وَلَحۡمُ	ﱅ	ولحم	and flesh	walaḥmu
+1	5:3:6	w	ٱلۡخِنزِيرِ	ﱆ	الخنزير	(of) the swine	l-khinzīri
+1	5:3:7	w	وَمَآ	ﱇ	وما	and what	wamā
+1	5:3:8	w	أُهِلَّ	ﱈ	اهل	has been dedicated	uhilla
+1	5:3:9	w	لِغَيۡرِ	ﱉ	لغير	to other than	lighayri
+1	5:3:10	w	ٱللَّهِ	ﱊ	الله	Allah	l-lahi
+1	5:3:11	w	بِهِۦ	ﱋ	به	[on it]	bihi
+2	5:3:12	w	وَٱلۡمُنۡخَنِقَةُ	ﱌ	والمنخنقة	and that which is strangled (to death)	wal-mun'khaniqatu
+2	5:3:13	w	وَٱلۡمَوۡقُوذَةُ	ﱍ	والموقوذة	and that which is hit fatally	wal-mawqūdhatu
+2	5:3:14	w	وَٱلۡمُتَرَدِّيَةُ	ﱎ	والمتردية	and that which has a fatal fall	wal-mutaradiyatu
+2	5:3:15	w	وَٱلنَّطِيحَةُ	ﱏ	والنطيحة	and that which is gored by horns	wal-naṭīḥatu
+2	5:3:16	w	وَمَآ	ﱐ	وما	and that which	wamā
+2	5:3:17	w	أَكَلَ	ﱑ	اكل	ate (it)	akala
+3	5:3:18	w	ٱلسَّبُعُ	ﱒ	السبع	the wild animal	l-sabuʿu
+3	5:3:19	w	إِلَّا	ﱓ	الا	except	illā
+3	5:3:20	w	مَا	ﱔ	ما	what	mā
+3	5:3:21	w	ذَكَّيۡتُمۡ	ﱕ	ذكيتم	you slaughtered	dhakkaytum
+3	5:3:22	w	وَمَا	ﱖ	وما	and what	wamā
+3	5:3:23	w	ذُبِحَ	ﱗ	ذبح	is sacrificed	dhubiḥa
+3	5:3:24	w	عَلَى	ﱘ	على	on	ʿalā
+3	5:3:25	w	ٱلنُّصُبِ	ﱙ	النصب	the stone altars	l-nuṣubi
+3	5:3:26	w	وَأَن	ﱚ	وان	and that	wa-an
+3	5:3:27	w	تَسۡتَقۡسِمُواْ	ﱛ	تستقسموا	you seek division	tastaqsimū
+4	5:3:28	w	بِٱلۡأَزۡلَٰمِۚ	ﱜﱝ	بالازلام	by divining arrows	bil-azlāmi
+4	5:3:29	w	ذَٰلِكُمۡ	ﱞ	ذالكم	that	dhālikum
+4	5:3:30	w	فِسۡقٌۗ	ﱟﱠ	فسق	(is) grave disobedience	fis'qun
+4	5:3:31	w	ٱلۡيَوۡمَ	ﱡ	اليوم	This day	l-yawma
+4	5:3:32	w	يَئِسَ	ﱢ	ييس	(have) despaired	ya-isa
+4	5:3:33	w	ٱلَّذِينَ	ﱣ	الذين	those who	alladhīna
+4	5:3:34	w	كَفَرُواْ	ﱤ	كفروا	disbelieved	kafarū
+4	5:3:35	w	مِن	ﱥ	من	of	min
+4	5:3:36	w	دِينِكُمۡ	ﱦ	دينكم	your religion	dīnikum
+4	5:3:37	w	فَلَا	ﱧ	فلا	so (do) not	falā
+5	5:3:38	w	تَخۡشَوۡهُمۡ	ﱨ	تخشوهم	fear them	takhshawhum
+5	5:3:39	w	وَٱخۡشَوۡنِۚ	ﱩﱪ	واخشون	but fear Me	wa-ikh'shawni
+5	5:3:40	w	ٱلۡيَوۡمَ	ﱫ	اليوم	This day	l-yawma
+5	5:3:41	w	أَكۡمَلۡتُ	ﱬ	اكملت	I have perfected	akmaltu
+5	5:3:42	w	لَكُمۡ	ﱭ	لكم	for you	lakum
+5	5:3:43	w	دِينَكُمۡ	ﱮ	دينكم	your religion	dīnakum
+5	5:3:44	w	وَأَتۡمَمۡتُ	ﱯ	واتممت	and I have completed	wa-atmamtu
+5	5:3:45	w	عَلَيۡكُمۡ	ﱰ	عليكم	upon you	ʿalaykum
+6	5:3:46	w	نِعۡمَتِي	ﱱ	نعمتي	My Favor	niʿ'matī
+6	5:3:47	w	وَرَضِيتُ	ﱲ	ورضيت	and I have approved	waraḍītu
+6	5:3:48	w	لَكُمُ	ﱳ	لكم	for you	lakumu
+6	5:3:49	w	ٱلۡإِسۡلَٰمَ	ﱴ	الاسلام	[the] Islam	l-is'lāma
+6	5:3:50	w	دِينٗاۚ	ﱵﱶ	دينا	(as) a religion	dīnan
+6	5:3:51	w	فَمَنِ	ﱷ	فمن	But whoever	famani
+6	5:3:52	w	ٱضۡطُرَّ	ﱸ	اضطر	(is) forced	uḍ'ṭurra
+6	5:3:53	w	فِي	ﱹ	في	by	fī
+6	5:3:54	w	مَخۡمَصَةٍ	ﱺ	مخمصة	hunger	makhmaṣatin
+7	5:3:55	w	غَيۡرَ	ﱻ	غير	(and) not	ghayra
+7	5:3:56	w	مُتَجَانِفٖ	ﱼ	متجانف	inclining	mutajānifin
+7	5:3:57	w	لِّإِثۡمٖ	ﱽ	لاثم	to sin	li-ith'min
+7	5:3:58	w	فَإِنَّ	ﱾ	فان	then indeed	fa-inna
+7	5:3:59	w	ٱللَّهَ	ﱿ	الله	Allah	l-laha
+7	5:3:60	w	غَفُورٞ	ﲀ	غفور	(is) Oft-Forgiving	ghafūrun
+7	5:3:61	w	رَّحِيمٞ	ﲁ	رحيم	Most Merciful	raḥīmun
+7	5:3:62	e	٣	ﲂ			
+7	5:4:1	w	يَسۡـَٔلُونَكَ	ﲃ	يسالونك	They ask you	yasalūnaka
+7	5:4:2	w	مَاذَآ	ﲄ	ماذا	what	mādhā
+8	5:4:3	w	أُحِلَّ	ﲅ	احل	(is) made lawful	uḥilla
+8	5:4:4	w	لَهُمۡۖ	ﲆﲇ	لهم	for them	lahum
+8	5:4:5	w	قُلۡ	ﲈ	قل	Say	qul
+8	5:4:6	w	أُحِلَّ	ﲉ	احل	Are made lawful	uḥilla
+8	5:4:7	w	لَكُمُ	ﲊ	لكم	for you	lakumu
+8	5:4:8	w	ٱلطَّيِّبَٰتُ	ﲋ	الطيبات	the good things	l-ṭayibātu
+8	5:4:9	w	وَمَا	ﲌ	وما	and what	wamā
+8	5:4:10	w	عَلَّمۡتُم	ﲍ	علمتم	you have taught	ʿallamtum
+8	5:4:11	w	مِّنَ	ﲎ	من	of	mina
+8	5:4:12	w	ٱلۡجَوَارِحِ	ﲏ	الجوارح	(your) hunting animals	l-jawāriḥi
+9	5:4:13	w	مُكَلِّبِينَ	ﲐ	مكلبين	ones who train animals to hunt	mukallibīna
+9	5:4:14	w	تُعَلِّمُونَهُنَّ	ﲑ	تعلمونهن	you teach them	tuʿallimūnahunna
+9	5:4:15	w	مِمَّا	ﲒ	مما	of what	mimmā
+9	5:4:16	w	عَلَّمَكُمُ	ﲓ	علمكم	has taught you	ʿallamakumu
+9	5:4:17	w	ٱللَّهُۖ	ﲔﲕ	الله	Allah	l-lahu
+9	5:4:18	w	فَكُلُواْ	ﲖ	فكلوا	So eat	fakulū
+9	5:4:19	w	مِمَّآ	ﲗ	مما	of what	mimmā
+9	5:4:20	w	أَمۡسَكۡنَ	ﲘ	امسكن	they catch	amsakna
+9	5:4:21	w	عَلَيۡكُمۡ	ﲙ	عليكم	for you	ʿalaykum
+10	5:4:22	w	وَٱذۡكُرُواْ	ﲚ	واذكروا	but mention	wa-udh'kurū
+10	5:4:23	w	ٱسۡمَ	ﲛ	اسم	(the) name	is'ma
+10	5:4:24	w	ٱللَّهِ	ﲜ	الله	(of) Allah	l-lahi
+10	5:4:25	w	عَلَيۡهِۖ	ﲝﲞ	عليه	on it	ʿalayhi
+10	5:4:26	w	وَٱتَّقُواْ	ﲟ	واتقوا	and fear	wa-ittaqū
+10	5:4:27	w	ٱللَّهَۚ	ﲠﲡ	الله	Allah	l-laha
+10	5:4:28	w	إِنَّ	ﲢ	ان	Indeed	inna
+10	5:4:29	w	ٱللَّهَ	ﲣ	الله	Allah	l-laha
+10	5:4:30	w	سَرِيعُ	ﲤ	سريع	is swift	sarīʿu
+10	5:4:31	w	ٱلۡحِسَابِ	ﲥ	الحساب	(in taking) account	l-ḥisābi
+10	5:4:32	e	٤	ﲦ			
+11	5:5:1	w	ٱلۡيَوۡمَ	ﲧ	اليوم	This day	al-yawma
+11	5:5:2	w	أُحِلَّ	ﲨ	احل	are made lawful	uḥilla
+11	5:5:3	w	لَكُمُ	ﲩ	لكم	for you	lakumu
+11	5:5:4	w	ٱلطَّيِّبَٰتُۖ	ﲪﲫ	الطيبات	the good things	l-ṭayibātu
+11	5:5:5	w	وَطَعَامُ	ﲬ	وطعام	and (the) food	waṭaʿāmu
+11	5:5:6	w	ٱلَّذِينَ	ﲭ	الذين	(of) those who	alladhīna
+11	5:5:7	w	أُوتُواْ	ﲮ	اوتوا	were given	ūtū
+11	5:5:8	w	ٱلۡكِتَٰبَ	ﲯ	الكتاب	the Book	l-kitāba
+11	5:5:9	w	حِلّٞ	ﲰ	حل	(is) lawful	ḥillun
+11	5:5:10	w	لَّكُمۡ	ﲱ	لكم	for you	lakum
+12	5:5:11	w	وَطَعَامُكُمۡ	ﲲ	وطعامكم	and your food	waṭaʿāmukum
+12	5:5:12	w	حِلّٞ	ﲳ	حل	(is) lawful	ḥillun
+12	5:5:13	w	لَّهُمۡۖ	ﲴﲵ	لهم	for them	lahum
+12	5:5:14	w	وَٱلۡمُحۡصَنَٰتُ	ﲶ	والمحصنات	And the chaste women	wal-muḥ'ṣanātu
+12	5:5:15	w	مِنَ	ﲷ	من	from	mina
+12	5:5:16	w	ٱلۡمُؤۡمِنَٰتِ	ﲸ	المومنات	the believers	l-mu'mināti
+12	5:5:17	w	وَٱلۡمُحۡصَنَٰتُ	ﲹ	والمحصنات	and the chaste women	wal-muḥ'ṣanātu
+13	5:5:18	w	مِنَ	ﲺ	من	from	mina
+13	5:5:19	w	ٱلَّذِينَ	ﲻ	الذين	those who	alladhīna
+13	5:5:20	w	أُوتُواْ	ﲼ	اوتوا	were given	ūtū
+13	5:5:21	w	ٱلۡكِتَٰبَ	ﲽ	الكتاب	the Book	l-kitāba
+13	5:5:22	w	مِن	ﲾ	من	from	min
+13	5:5:23	w	قَبۡلِكُمۡ	ﲿ	قبلكم	before you	qablikum
+13	5:5:24	w	إِذَآ	ﳀ	اذا	when	idhā
+13	5:5:25	w	ءَاتَيۡتُمُوهُنَّ	ﳁ	اتيتموهن	you have given them	ātaytumūhunna
+13	5:5:26	w	أُجُورَهُنَّ	ﳂ	اجورهن	their bridal due	ujūrahunna
+14	5:5:27	w	مُحۡصِنِينَ	ﳃ	محصنين	being chaste	muḥ'ṣinīna
+14	5:5:28	w	غَيۡرَ	ﳄ	غير	not	ghayra
+14	5:5:29	w	مُسَٰفِحِينَ	ﳅ	مسافحين	being lewd	musāfiḥīna
+14	5:5:30	w	وَلَا	ﳆ	ولا	and not	walā
+14	5:5:31	w	مُتَّخِذِيٓ	ﳇ	متخذي	ones (who are) taking	muttakhidhī
+14	5:5:32	w	أَخۡدَانٖۗ	ﳈﳉ	اخدان	secret lovers	akhdānin
+14	5:5:33	w	وَمَن	ﳊ	ومن	And whoever	waman
+14	5:5:34	w	يَكۡفُرۡ	ﳋ	يكفر	denies	yakfur
+15	5:5:35	w	بِٱلۡإِيمَٰنِ	ﳌ	بالايمان	the faith	bil-īmāni
+15	5:5:36	w	فَقَدۡ	ﳍ	فقد	then surely	faqad
+15	5:5:37	w	حَبِطَ	ﳎ	حبط	(are) wasted	ḥabiṭa
+15	5:5:38	w	عَمَلُهُۥ	ﳏ	عمله	his deeds	ʿamaluhu
+15	5:5:39	w	وَهُوَ	ﳐ	وهو	and he	wahuwa
+15	5:5:40	w	فِي	ﳑ	في	in	fī
+15	5:5:41	w	ٱلۡأٓخِرَةِ	ﳒ	الاخرة	the Hereafter	l-ākhirati
+15	5:5:42	w	مِنَ	ﳓ	من	(will be) among	mina
+15	5:5:43	w	ٱلۡخَٰسِرِينَ	ﳔ	الخاسرين	the losers	l-khāsirīna
+15	5:5:44	e	٥	ﳕ			

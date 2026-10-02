@@ -1,0 +1,154 @@
+2	38:1:1	w	صٓۚ	ﱁﱂ	ص	Saad	sad
+2	38:1:2	w	وَٱلۡقُرۡءَانِ	ﱃ	والقران	By the Quran	wal-qur'āni
+2	38:1:3	w	ذِي	ﱄ	ذي	full (of) reminder	dhī
+2	38:1:4	w	ٱلذِّكۡرِ	ﱅ	الذكر	full (of) reminder	l-dhik'ri
+2	38:1:5	e	١	ﱆ			
+2	38:2:1	w	بَلِ	ﱇ	بل	Nay	bali
+2	38:2:2	w	ٱلَّذِينَ	ﱈ	الذين	those who	alladhīna
+2	38:2:3	w	كَفَرُواْ	ﱉ	كفروا	disbelieve	kafarū
+2	38:2:4	w	فِي	ﱊ	في	(are) in	fī
+2	38:2:5	w	عِزَّةٖ	ﱋ	عزة	self-glory	ʿizzatin
+2	38:2:6	w	وَشِقَاقٖ	ﱌ	وشقاق	and opposition	washiqāqin
+2	38:2:7	e	٢	ﱍ			
+3	38:3:1	w	كَمۡ	ﱎ	كم	How many	kam
+3	38:3:2	w	أَهۡلَكۡنَا	ﱏ	اهلكنا	We destroyed	ahlaknā
+3	38:3:3	w	مِن	ﱐ	من	before them	min
+3	38:3:4	w	قَبۡلِهِم	ﱑ	قبلهم	before them	qablihim
+3	38:3:5	w	مِّن	ﱒ	من	of	min
+3	38:3:6	w	قَرۡنٖ	ﱓ	قرن	a generation	qarnin
+3	38:3:7	w	فَنَادَواْ	ﱔ	فنادوا	then they called out	fanādaw
+3	38:3:8	w	وَّلَاتَ	ﱕ	ولات	when there (was) no longer	walāta
+3	38:3:9	w	حِينَ	ﱖ	حين	time	ḥīna
+3	38:3:10	w	مَنَاصٖ	ﱗ	مناص	(for) escape	manāṣin
+3	38:3:11	e	٣	ﱘ			
+3	38:4:1	w	وَعَجِبُوٓاْ	ﱙ	وعجبوا	And they wonder	waʿajibū
+4	38:4:2	w	أَن	ﱚ	ان	that	an
+4	38:4:3	w	جَآءَهُم	ﱛ	جاءهم	has come to them	jāahum
+4	38:4:4	w	مُّنذِرٞ	ﱜ	منذر	a warner	mundhirun
+4	38:4:5	w	مِّنۡهُمۡۖ	ﱝﱞ	منهم	from themselves	min'hum
+4	38:4:6	w	وَقَالَ	ﱟ	وقال	And said	waqāla
+4	38:4:7	w	ٱلۡكَٰفِرُونَ	ﱠ	الكافرون	the disbelievers	l-kāfirūna
+4	38:4:8	w	هَٰذَا	ﱡ	هاذا	This	hādhā
+4	38:4:9	w	سَٰحِرٞ	ﱢ	ساحر	(is) a magician	sāḥirun
+4	38:4:10	w	كَذَّابٌ	ﱣ	كذاب	a liar	kadhābun
+4	38:4:11	e	٤	ﱤ			
+5	38:5:1	w	أَجَعَلَ	ﱥ	اجعل	Has he made	ajaʿala
+5	38:5:2	w	ٱلۡأٓلِهَةَ	ﱦ	الالهة	the gods	l-ālihata
+5	38:5:3	w	إِلَٰهٗا	ﱧ	الاها	(into) one god	ilāhan
+5	38:5:4	w	وَٰحِدًاۖ	ﱨﱩ	واحدا	(into) one god	wāḥidan
+5	38:5:5	w	إِنَّ	ﱪ	ان	Indeed	inna
+5	38:5:6	w	هَٰذَا	ﱫ	هاذا	this	hādhā
+5	38:5:7	w	لَشَيۡءٌ	ﱬ	لشيء	(is) certainly a thing	lashayon
+5	38:5:8	w	عُجَابٞ	ﱭ	عجاب	curious	ʿujābun
+5	38:5:9	e	٥	ﱮ			
+5	38:6:1	w	وَٱنطَلَقَ	ﱯ	وانطلق	And went forth	wa-inṭalaqa
+5	38:6:2	w	ٱلۡمَلَأُ	ﱰ	الملا	the chiefs	l-mala-u
+6	38:6:3	w	مِنۡهُمۡ	ﱱ	منهم	among them	min'hum
+6	38:6:4	w	أَنِ	ﱲ	ان	that	ani
+6	38:6:5	w	ٱمۡشُواْ	ﱳ	امشوا	Continue	im'shū
+6	38:6:6	w	وَٱصۡبِرُواْ	ﱴ	واصبروا	and be patient	wa-iṣ'birū
+6	38:6:7	w	عَلَىٰٓ	ﱵ	على	over	ʿalā
+6	38:6:8	w	ءَالِهَتِكُمۡۖ	ﱶﱷ	الهتكم	your gods	ālihatikum
+6	38:6:9	w	إِنَّ	ﱸ	ان	Indeed	inna
+6	38:6:10	w	هَٰذَا	ﱹ	هاذا	this	hādhā
+6	38:6:11	w	لَشَيۡءٞ	ﱺ	لشيء	(is) certainly a thing	lashayon
+6	38:6:12	w	يُرَادُ	ﱻ	يراد	intended	yurādu
+6	38:6:13	e	٦	ﱼ			
+7	38:7:1	w	مَا	ﱽ	ما	Not	mā
+7	38:7:2	w	سَمِعۡنَا	ﱾ	سمعنا	we heard	samiʿ'nā
+7	38:7:3	w	بِهَٰذَا	ﱿ	بهاذا	of this	bihādhā
+7	38:7:4	w	فِي	ﲀ	في	in	fī
+7	38:7:5	w	ٱلۡمِلَّةِ	ﲁ	الملة	the religion	l-milati
+7	38:7:6	w	ٱلۡأٓخِرَةِ	ﲂ	الاخرة	the last	l-ākhirati
+7	38:7:7	w	إِنۡ	ﲃ	ان	Not	in
+7	38:7:8	w	هَٰذَآ	ﲄ	هاذا	(is) this	hādhā
+7	38:7:9	w	إِلَّا	ﲅ	الا	but	illā
+7	38:7:10	w	ٱخۡتِلَٰقٌ	ﲆ	اختلاق	a fabrication	ikh'tilāqun
+7	38:7:11	e	٧	ﲇ			
+7	38:8:1	w	أَءُنزِلَ	ﲈ	اانزل	Has been revealed	a-unzila
+8	38:8:2	w	عَلَيۡهِ	ﲉ	عليه	to him	ʿalayhi
+8	38:8:3	w	ٱلذِّكۡرُ	ﲊ	الذكر	the Message	l-dhik'ru
+8	38:8:4	w	مِنۢ	ﲋ	من	from	min
+8	38:8:5	w	بَيۡنِنَاۚ	ﲌﲍ	بيننا	among us	bayninā
+8	38:8:6	w	بَلۡ	ﲎ	بل	Nay	bal
+8	38:8:7	w	هُمۡ	ﲏ	هم	They	hum
+8	38:8:8	w	فِي	ﲐ	في	(are) in	fī
+8	38:8:9	w	شَكّٖ	ﲑ	شك	doubt	shakkin
+8	38:8:10	w	مِّن	ﲒ	من	about	min
+8	38:8:11	w	ذِكۡرِيۚ	ﲓﲔ	ذكري	My Message	dhik'rī
+8	38:8:12	w	بَل	ﲕ	بل	Nay	bal
+8	38:8:13	w	لَّمَّا	ﲖ	لما	not yet	lammā
+8	38:8:14	w	يَذُوقُواْ	ﲗ	يذوقوا	they have tasted	yadhūqū
+8	38:8:15	w	عَذَابِ	ﲘ	عذاب	My punishment	ʿadhābi
+9	38:8:16	e	٨	ﲙ			
+9	38:9:1	w	أَمۡ	ﲚ	ام	Or	am
+9	38:9:2	w	عِندَهُمۡ	ﲛ	عندهم	have they	ʿindahum
+9	38:9:3	w	خَزَآئِنُ	ﲜ	خزاين	(the) treasures	khazāinu
+9	38:9:4	w	رَحۡمَةِ	ﲝ	رحمة	(of the) Mercy	raḥmati
+9	38:9:5	w	رَبِّكَ	ﲞ	ربك	(of) your Lord	rabbika
+9	38:9:6	w	ٱلۡعَزِيزِ	ﲟ	العزيز	the All-Mighty	l-ʿazīzi
+9	38:9:7	w	ٱلۡوَهَّابِ	ﲠ	الوهاب	the Bestower	l-wahābi
+9	38:9:8	e	٩	ﲡ			
+9	38:10:1	w	أَمۡ	ﲢ	ام	Or	am
+9	38:10:2	w	لَهُم	ﲣ	لهم	for them	lahum
+9	38:10:3	w	مُّلۡكُ	ﲤ	ملك	(is the) dominion	mul'ku
+10	38:10:4	w	ٱلسَّمَٰوَٰتِ	ﲥ	السماوات	(of) the heavens	l-samāwāti
+10	38:10:5	w	وَٱلۡأَرۡضِ	ﲦ	والارض	and the earth	wal-arḍi
+10	38:10:6	w	وَمَا	ﲧ	وما	and whatever	wamā
+10	38:10:7	w	بَيۡنَهُمَاۖ	ﲨﲩ	بينهما	(is) between them	baynahumā
+10	38:10:8	w	فَلۡيَرۡتَقُواْ	ﲪ	فليرتقوا	Then let them ascend	falyartaqū
+10	38:10:9	w	فِي	ﲫ	في	by	fī
+10	38:10:10	w	ٱلۡأَسۡبَٰبِ	ﲬ	الاسباب	the means	l-asbābi
+10	38:10:11	e	١٠	ﲭ			
+10	38:11:1	w	جُندٞ	ﲮ	جند	Soldiers	jundun
+11	38:11:2	w	مَّا	ﲯ	ما	there	mā
+11	38:11:3	w	هُنَالِكَ	ﲰ	هنالك	there	hunālika
+11	38:11:4	w	مَهۡزُومٞ	ﲱ	مهزوم	(they will be) defeated	mahzūmun
+11	38:11:5	w	مِّنَ	ﲲ	من	among	mina
+11	38:11:6	w	ٱلۡأَحۡزَابِ	ﲳ	الاحزاب	the companies	l-aḥzābi
+11	38:11:7	e	١١	ﲴ			
+11	38:12:1	w	كَذَّبَتۡ	ﲵ	كذبت	Denied	kadhabat
+11	38:12:2	w	قَبۡلَهُمۡ	ﲶ	قبلهم	before them	qablahum
+11	38:12:3	w	قَوۡمُ	ﲷ	قوم	(the) people	qawmu
+11	38:12:4	w	نُوحٖ	ﲸ	نوح	(of) Nuh	nūḥin
+12	38:12:5	w	وَعَادٞ	ﲹ	وعاد	and Aad	waʿādun
+12	38:12:6	w	وَفِرۡعَوۡنُ	ﲺ	وفرعون	and Firaun	wafir'ʿawnu
+12	38:12:7	w	ذُو	ﲻ	ذو	(the) owner	dhū
+12	38:12:8	w	ٱلۡأَوۡتَادِ	ﲼ	الاوتاد	(of) the stakes	l-awtādi
+12	38:12:9	e	١٢	ﲽ			
+12	38:13:1	w	وَثَمُودُ	ﲾ	وثمود	And Thamud	wathamūdu
+12	38:13:2	w	وَقَوۡمُ	ﲿ	وقوم	and (the) people	waqawmu
+12	38:13:3	w	لُوطٖ	ﳀ	لوط	(of) Lut	lūṭin
+12	38:13:4	w	وَأَصۡحَٰبُ	ﳁ	واصحاب	and (the) companions	wa-aṣḥābu
+13	38:13:5	w	لۡـَٔيۡكَةِۚ	ﳂﳃ	الايكة	(of) the wood	al'aykati
+13	38:13:6	w	أُوْلَٰٓئِكَ	ﳄ	اولايك	Those	ulāika
+13	38:13:7	w	ٱلۡأَحۡزَابُ	ﳅ	الاحزاب	(were) the companies	l-aḥzābu
+13	38:13:8	e	١٣	ﳆ			
+13	38:14:1	w	إِن	ﳇ	ان	Not	in
+13	38:14:2	w	كُلٌّ	ﳈ	كل	all (of them)	kullun
+13	38:14:3	w	إِلَّا	ﳉ	الا	but	illā
+13	38:14:4	w	كَذَّبَ	ﳊ	كذب	denied	kadhaba
+13	38:14:5	w	ٱلرُّسُلَ	ﳋ	الرسل	the Messengers	l-rusula
+14	38:14:6	w	فَحَقَّ	ﳌ	فحق	so (was) just	faḥaqqa
+14	38:14:7	w	عِقَابِ	ﳍ	عقاب	My penalty	ʿiqābi
+14	38:14:8	e	١٤	ﳎ			
+14	38:15:1	w	وَمَا	ﳏ	وما	And not	wamā
+14	38:15:2	w	يَنظُرُ	ﳐ	ينظر	await	yanẓuru
+14	38:15:3	w	هَٰٓؤُلَآءِ	ﳑ	هاولاء	these	hāulāi
+14	38:15:4	w	إِلَّا	ﳒ	الا	but	illā
+14	38:15:5	w	صَيۡحَةٗ	ﳓ	صيحة	a shout	ṣayḥatan
+14	38:15:6	w	وَٰحِدَةٗ	ﳔ	واحدة	one	wāḥidatan
+14	38:15:7	w	مَّا	ﳕ	ما	not	mā
+14	38:15:8	w	لَهَا	ﳖ	لها	for it	lahā
+15	38:15:9	w	مِن	ﳗ	من	any	min
+15	38:15:10	w	فَوَاقٖ	ﳘ	فواق	delay	fawāqin
+15	38:15:11	e	١٥	ﳙ			
+15	38:16:1	w	وَقَالُواْ	ﳚ	وقالوا	And they say	waqālū
+15	38:16:2	w	رَبَّنَا	ﳛ	ربنا	Our Lord	rabbanā
+15	38:16:3	w	عَجِّل	ﳜ	عجل	Hasten	ʿajjil
+15	38:16:4	w	لَّنَا	ﳝ	لنا	for us	lanā
+15	38:16:5	w	قِطَّنَا	ﳞ	قطنا	our share	qiṭṭanā
+15	38:16:6	w	قَبۡلَ	ﳟ	قبل	before	qabla
+15	38:16:7	w	يَوۡمِ	ﳠ	يوم	(the) Day	yawmi
+15	38:16:8	w	ٱلۡحِسَابِ	ﳡ	الحساب	(of) the Account	l-ḥisābi
+15	38:16:9	e	١٦	ﳢ			

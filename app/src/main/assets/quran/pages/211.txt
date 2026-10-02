@@ -1,0 +1,147 @@
+1	10:21:1	w	وَإِذَآ	ﱁ	واذا	And when	wa-idhā
+1	10:21:2	w	أَذَقۡنَا	ﱂ	اذقنا	We let [the] mankind taste	adhaqnā
+1	10:21:3	w	ٱلنَّاسَ	ﱃ	الناس	We let [the] mankind taste	l-nāsa
+1	10:21:4	w	رَحۡمَةٗ	ﱄ	رحمة	mercy	raḥmatan
+1	10:21:5	w	مِّنۢ	ﱅ	من	after	min
+1	10:21:6	w	بَعۡدِ	ﱆ	بعد	after	baʿdi
+1	10:21:7	w	ضَرَّآءَ	ﱇ	ضراء	adversity	ḍarrāa
+1	10:21:8	w	مَسَّتۡهُمۡ	ﱈ	مستهم	has touched them	massathum
+1	10:21:9	w	إِذَا	ﱉ	اذا	behold	idhā
+1	10:21:10	w	لَهُم	ﱊ	لهم	They have	lahum
+1	10:21:11	w	مَّكۡرٞ	ﱋ	مكر	a plot	makrun
+2	10:21:12	w	فِيٓ	ﱌ	في	against	fī
+2	10:21:13	w	ءَايَاتِنَاۚ	ﱍﱎ	اياتنا	Our Verses	āyātinā
+2	10:21:14	w	قُلِ	ﱏ	قل	Say	quli
+2	10:21:15	w	ٱللَّهُ	ﱐ	الله	Allah	l-lahu
+2	10:21:16	w	أَسۡرَعُ	ﱑ	اسرع	(is) more swift	asraʿu
+2	10:21:17	w	مَكۡرًاۚ	ﱒﱓ	مكرا	(in) planning	makran
+2	10:21:18	w	إِنَّ	ﱔ	ان	Indeed	inna
+2	10:21:19	w	رُسُلَنَا	ﱕ	رسلنا	Our Messengers	rusulanā
+2	10:21:20	w	يَكۡتُبُونَ	ﱖ	يكتبون	write down	yaktubūna
+2	10:21:21	w	مَا	ﱗ	ما	what	mā
+2	10:21:22	w	تَمۡكُرُونَ	ﱘ	تمكرون	you plot	tamkurūna
+3	10:21:23	e	٢١	ﱙ			
+3	10:22:1	w	هُوَ	ﱚ	هو	He	huwa
+3	10:22:2	w	ٱلَّذِي	ﱛ	الذي	(is) the One Who	alladhī
+3	10:22:3	w	يُسَيِّرُكُمۡ	ﱜ	يسيركم	enables you to travel	yusayyirukum
+3	10:22:4	w	فِي	ﱝ	في	in	fī
+3	10:22:5	w	ٱلۡبَرِّ	ﱞ	البر	the land	l-bari
+3	10:22:6	w	وَٱلۡبَحۡرِۖ	ﱟﱠ	والبحر	and the sea	wal-baḥri
+3	10:22:7	w	حَتَّىٰٓ	ﱡ	حتى	until	ḥattā
+3	10:22:8	w	إِذَا	ﱢ	اذا	when	idhā
+3	10:22:9	w	كُنتُمۡ	ﱣ	كنتم	you are	kuntum
+3	10:22:10	w	فِي	ﱤ	في	in	fī
+3	10:22:11	w	ٱلۡفُلۡكِ	ﱥ	الفلك	the ships	l-ful'ki
+4	10:22:12	w	وَجَرَيۡنَ	ﱦ	وجرين	and they sail	wajarayna
+4	10:22:13	w	بِهِم	ﱧ	بهم	with them	bihim
+4	10:22:14	w	بِرِيحٖ	ﱨ	بريح	with a wind	birīḥin
+4	10:22:15	w	طَيِّبَةٖ	ﱩ	طيبة	good	ṭayyibatin
+4	10:22:16	w	وَفَرِحُواْ	ﱪ	وفرحوا	and they rejoice	wafariḥū
+4	10:22:17	w	بِهَا	ﱫ	بها	therein	bihā
+4	10:22:18	w	جَآءَتۡهَا	ﱬ	جاءتها	comes to it	jāathā
+4	10:22:19	w	رِيحٌ	ﱭ	ريح	a wind	rīḥun
+4	10:22:20	w	عَاصِفٞ	ﱮ	عاصف	stormy	ʿāṣifun
+5	10:22:21	w	وَجَآءَهُمُ	ﱯ	وجاءهم	and comes to them	wajāahumu
+5	10:22:22	w	ٱلۡمَوۡجُ	ﱰ	الموج	the waves	l-mawju
+5	10:22:23	w	مِن	ﱱ	من	from	min
+5	10:22:24	w	كُلِّ	ﱲ	كل	every	kulli
+5	10:22:25	w	مَكَانٖ	ﱳ	مكان	place	makānin
+5	10:22:26	w	وَظَنُّوٓاْ	ﱴ	وظنوا	and they assume	waẓannū
+5	10:22:27	w	أَنَّهُمۡ	ﱵ	انهم	that they	annahum
+5	10:22:28	w	أُحِيطَ	ﱶ	احيط	are surrounded	uḥīṭa
+5	10:22:29	w	بِهِمۡ	ﱷ	بهم	with them	bihim
+6	10:22:30	w	دَعَوُاْ	ﱸ	دعوا	They call	daʿawū
+6	10:22:31	w	ٱللَّهَ	ﱹ	الله	Allah	l-laha
+6	10:22:32	w	مُخۡلِصِينَ	ﱺ	مخلصين	sincerely	mukh'liṣīna
+6	10:22:33	w	لَهُ	ﱻ	له	to Him	lahu
+6	10:22:34	w	ٱلدِّينَ	ﱼ	الدين	(in) the religion	l-dīna
+6	10:22:35	w	لَئِنۡ	ﱽ	لين	(saying), "If	la-in
+6	10:22:36	w	أَنجَيۡتَنَا	ﱾ	انجيتنا	You save us	anjaytanā
+6	10:22:37	w	مِنۡ	ﱿ	من	from	min
+6	10:22:38	w	هَٰذِهِۦ	ﲀ	هاذه	this	hādhihi
+6	10:22:39	w	لَنَكُونَنَّ	ﲁ	لنكونن	surely we will be	lanakūnanna
+7	10:22:40	w	مِنَ	ﲂ	من	among	mina
+7	10:22:41	w	ٱلشَّٰكِرِينَ	ﲃ	الشاكرين	the thankful	l-shākirīna
+7	10:22:42	e	٢٢	ﲄ			
+7	10:23:1	w	فَلَمَّآ	ﲅ	فلما	But when	falammā
+7	10:23:2	w	أَنجَىٰهُمۡ	ﲆ	انجاهم	He saved them	anjāhum
+7	10:23:3	w	إِذَا	ﲇ	اذا	behold	idhā
+7	10:23:4	w	هُمۡ	ﲈ	هم	They	hum
+7	10:23:5	w	يَبۡغُونَ	ﲉ	يبغون	rebel	yabghūna
+7	10:23:6	w	فِي	ﲊ	في	in	fī
+7	10:23:7	w	ٱلۡأَرۡضِ	ﲋ	الارض	the earth	l-arḍi
+7	10:23:8	w	بِغَيۡرِ	ﲌ	بغير	without	bighayri
+8	10:23:9	w	ٱلۡحَقِّۗ	ﲍﲎ	الحق	[the] right	l-ḥaqi
+8	10:23:10	w	يَٰٓأَيُّهَا	ﲏ	يا ايها	O mankind	yāayyuhā
+8	10:23:11	w	ٱلنَّاسُ	ﲐ	الناس	O mankind	l-nāsu
+8	10:23:12	w	إِنَّمَا	ﲑ	انما	Only	innamā
+8	10:23:13	w	بَغۡيُكُمۡ	ﲒ	بغيكم	your rebellion	baghyukum
+8	10:23:14	w	عَلَىٰٓ	ﲓ	على	(is) against	ʿalā
+8	10:23:15	w	أَنفُسِكُمۖ	ﲔﲕ	انفسكم	yourselves	anfusikum
+8	10:23:16	w	مَّتَٰعَ	ﲖ	متاع	(the) enjoyment	matāʿa
+8	10:23:17	w	ٱلۡحَيَوٰةِ	ﲗ	الحياة	(of) the life	l-ḥayati
+9	10:23:18	w	ٱلدُّنۡيَاۖ	ﲘﲙ	الدنيا	(of) the world	l-dun'yā
+9	10:23:19	w	ثُمَّ	ﲚ	ثم	Then	thumma
+9	10:23:20	w	إِلَيۡنَا	ﲛ	الينا	to Us	ilaynā
+9	10:23:21	w	مَرۡجِعُكُمۡ	ﲜ	مرجعكم	(is) your return	marjiʿukum
+9	10:23:22	w	فَنُنَبِّئُكُم	ﲝ	فننبيكم	and We will inform you	fanunabbi-ukum
+9	10:23:23	w	بِمَا	ﲞ	بما	of what	bimā
+9	10:23:24	w	كُنتُمۡ	ﲟ	كنتم	you used (to)	kuntum
+9	10:23:25	w	تَعۡمَلُونَ	ﲠ	تعملون	do	taʿmalūna
+9	10:23:26	e	٢٣	ﲡ			
+10	10:24:1	w	إِنَّمَا	ﲢ	انما	Only	innamā
+10	10:24:2	w	مَثَلُ	ﲣ	مثل	(the) example	mathalu
+10	10:24:3	w	ٱلۡحَيَوٰةِ	ﲤ	الحياة	(of) the life	l-ḥayati
+10	10:24:4	w	ٱلدُّنۡيَا	ﲥ	الدنيا	(of) the world	l-dun'yā
+10	10:24:5	w	كَمَآءٍ	ﲦ	كماء	(is) like (the) water	kamāin
+10	10:24:6	w	أَنزَلۡنَٰهُ	ﲧ	انزلناه	which We sent down	anzalnāhu
+10	10:24:7	w	مِنَ	ﲨ	من	from	mina
+10	10:24:8	w	ٱلسَّمَآءِ	ﲩ	السماء	the sky	l-samāi
+10	10:24:9	w	فَٱخۡتَلَطَ	ﲪ	فاختلط	so absorbs	fa-ikh'talaṭa
+11	10:24:10	w	بِهِۦ	ﲫ	به	[with] it	bihi
+11	10:24:11	w	نَبَاتُ	ﲬ	نبات	(the) plants	nabātu
+11	10:24:12	w	ٱلۡأَرۡضِ	ﲭ	الارض	(of) the earth	l-arḍi
+11	10:24:13	w	مِمَّا	ﲮ	مما	from which	mimmā
+11	10:24:14	w	يَأۡكُلُ	ﲯ	ياكل	eat	yakulu
+11	10:24:15	w	ٱلنَّاسُ	ﲰ	الناس	the men	l-nāsu
+11	10:24:16	w	وَٱلۡأَنۡعَٰمُ	ﲱ	والانعام	and the cattle	wal-anʿāmu
+11	10:24:17	w	حَتَّىٰٓ	ﲲ	حتى	until	ḥattā
+11	10:24:18	w	إِذَآ	ﲳ	اذا	when	idhā
+12	10:24:19	w	أَخَذَتِ	ﲴ	اخذت	takes	akhadhati
+12	10:24:20	w	ٱلۡأَرۡضُ	ﲵ	الارض	the earth	l-arḍu
+12	10:24:21	w	زُخۡرُفَهَا	ﲶ	زخرفها	its adornment	zukh'rufahā
+12	10:24:22	w	وَٱزَّيَّنَتۡ	ﲷ	وازينت	and is beautified	wa-izzayyanat
+12	10:24:23	w	وَظَنَّ	ﲸ	وظن	and think	waẓanna
+12	10:24:24	w	أَهۡلُهَآ	ﲹ	اهلها	its people	ahluhā
+12	10:24:25	w	أَنَّهُمۡ	ﲺ	انهم	that they	annahum
+12	10:24:26	w	قَٰدِرُونَ	ﲻ	قادرون	have the power	qādirūna
+13	10:24:27	w	عَلَيۡهَآ	ﲼ	عليها	over it	ʿalayhā
+13	10:24:28	w	أَتَىٰهَآ	ﲽ	اتاها	comes (to) it	atāhā
+13	10:24:29	w	أَمۡرُنَا	ﲾ	امرنا	Our command	amrunā
+13	10:24:30	w	لَيۡلًا	ﲿ	ليلا	(by) night	laylan
+13	10:24:31	w	أَوۡ	ﳀ	او	or	aw
+13	10:24:32	w	نَهَارٗا	ﳁ	نهارا	(by) day	nahāran
+13	10:24:33	w	فَجَعَلۡنَٰهَا	ﳂ	فجعلناها	and We make it	fajaʿalnāhā
+13	10:24:34	w	حَصِيدٗا	ﳃ	حصيدا	a harvest clean-mown	ḥaṣīdan
+13	10:24:35	w	كَأَن	ﳄ	كان	as if	ka-an
+13	10:24:36	w	لَّمۡ	ﳅ	لم	not	lam
+13	10:24:37	w	تَغۡنَ	ﳆ	تغن	it had flourished	taghna
+14	10:24:38	w	بِٱلۡأَمۡسِۚ	ﳇﳈ	بالامس	yesterday	bil-amsi
+14	10:24:39	w	كَذَٰلِكَ	ﳉ	كذالك	Thus	kadhālika
+14	10:24:40	w	نُفَصِّلُ	ﳊ	نفصل	We explain	nufaṣṣilu
+14	10:24:41	w	ٱلۡأٓيَٰتِ	ﳋ	الايات	the Signs	l-āyāti
+14	10:24:42	w	لِقَوۡمٖ	ﳌ	لقوم	for a people	liqawmin
+14	10:24:43	w	يَتَفَكَّرُونَ	ﳍ	يتفكرون	who reflect	yatafakkarūna
+14	10:24:44	e	٢٤	ﳎ			
+14	10:25:1	w	وَٱللَّهُ	ﳏ	والله	And Allah	wal-lahu
+14	10:25:2	w	يَدۡعُوٓاْ	ﳐ	يدعو	calls	yadʿū
+15	10:25:3	w	إِلَىٰ	ﳑ	الى	to	ilā
+15	10:25:4	w	دَارِ	ﳒ	دار	(the) Home	dāri
+15	10:25:5	w	ٱلسَّلَٰمِ	ﳓ	السلام	(of) the Peace	l-salāmi
+15	10:25:6	w	وَيَهۡدِي	ﳔ	ويهدي	and guides	wayahdī
+15	10:25:7	w	مَن	ﳕ	من	whom	man
+15	10:25:8	w	يَشَآءُ	ﳖ	يشاء	He wills	yashāu
+15	10:25:9	w	إِلَىٰ	ﳗ	الى	to	ilā
+15	10:25:10	w	صِرَٰطٖ	ﳘ	صراط	(the) straight path	ṣirāṭin
+15	10:25:11	w	مُّسۡتَقِيمٖ	ﳙ	مستقيم	(the) straight path	mus'taqīmin
+15	10:25:12	e	٢٥	ﳚ			

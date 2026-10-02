@@ -1,0 +1,146 @@
+1	2:106:1	w	۞ مَا	ﱁ ﱂ	۞ ما	What	mā
+1	2:106:2	w	نَنسَخۡ	ﱃ	ننسخ	We abrogate	nansakh
+1	2:106:3	w	مِنۡ	ﱄ	من	(of)	min
+1	2:106:4	w	ءَايَةٍ	ﱅ	اية	a sign	āyatin
+1	2:106:5	w	أَوۡ	ﱆ	او	or	aw
+1	2:106:6	w	نُنسِهَا	ﱇ	ننسها	[We] cause it to be forgotten	nunsihā
+1	2:106:7	w	نَأۡتِ	ﱈ	نات	We bring	nati
+1	2:106:8	w	بِخَيۡرٖ	ﱉ	بخير	better	bikhayrin
+1	2:106:9	w	مِّنۡهَآ	ﱊ	منها	than it	min'hā
+1	2:106:10	w	أَوۡ	ﱋ	او	or	aw
+1	2:106:11	w	مِثۡلِهَآۗ	ﱌﱍ	مثلها	similar (to) it	mith'lihā
+2	2:106:12	w	أَلَمۡ	ﱎ	الم	Do not	alam
+2	2:106:13	w	تَعۡلَمۡ	ﱏ	تعلم	you know	taʿlam
+2	2:106:14	w	أَنَّ	ﱐ	ان	that	anna
+2	2:106:15	w	ٱللَّهَ	ﱑ	الله	Allah	l-laha
+2	2:106:16	w	عَلَىٰ	ﱒ	على	over	ʿalā
+2	2:106:17	w	كُلِّ	ﱓ	كل	every	kulli
+2	2:106:18	w	شَيۡءٖ	ﱔ	شيء	thing	shayin
+2	2:106:19	w	قَدِيرٌ	ﱕ	قدير	(is) All-Powerful	qadīrun
+2	2:106:20	e	١٠٦	ﱖ			
+2	2:107:1	w	أَلَمۡ	ﱗ	الم	Do not	alam
+2	2:107:2	w	تَعۡلَمۡ	ﱘ	تعلم	you know	taʿlam
+2	2:107:3	w	أَنَّ	ﱙ	ان	that	anna
+3	2:107:4	w	ٱللَّهَ	ﱚ	الله	Allah	l-laha
+3	2:107:5	w	لَهُۥ	ﱛ	له	for Him	lahu
+3	2:107:6	w	مُلۡكُ	ﱜ	ملك	(is the) Kingdom	mul'ku
+3	2:107:7	w	ٱلسَّمَٰوَٰتِ	ﱝ	السماوات	(of) the heavens	l-samāwāti
+3	2:107:8	w	وَٱلۡأَرۡضِۗ	ﱞﱟ	والارض	and the earth	wal-arḍi
+3	2:107:9	w	وَمَا	ﱠ	وما	And not	wamā
+3	2:107:10	w	لَكُم	ﱡ	لكم	(is) for you	lakum
+3	2:107:11	w	مِّن	ﱢ	من	from	min
+3	2:107:12	w	دُونِ	ﱣ	دون	besides	dūni
+4	2:107:13	w	ٱللَّهِ	ﱤ	الله	Allah	l-lahi
+4	2:107:14	w	مِن	ﱥ	من	any	min
+4	2:107:15	w	وَلِيّٖ	ﱦ	ولي	protector	waliyyin
+4	2:107:16	w	وَلَا	ﱧ	ولا	and not	walā
+4	2:107:17	w	نَصِيرٍ	ﱨ	نصير	any helper	naṣīrin
+4	2:107:18	e	١٠٧	ﱩ			
+4	2:108:1	w	أَمۡ	ﱪ	ام	Or	am
+4	2:108:2	w	تُرِيدُونَ	ﱫ	تريدون	(do) you wish	turīdūna
+4	2:108:3	w	أَن	ﱬ	ان	that	an
+4	2:108:4	w	تَسۡـَٔلُواْ	ﱭ	تسالوا	you ask	tasalū
+4	2:108:5	w	رَسُولَكُمۡ	ﱮ	رسولكم	your Messenger	rasūlakum
+5	2:108:6	w	كَمَا	ﱯ	كما	as	kamā
+5	2:108:7	w	سُئِلَ	ﱰ	سيل	was asked	su-ila
+5	2:108:8	w	مُوسَىٰ	ﱱ	موسى	Musa	mūsā
+5	2:108:9	w	مِن	ﱲ	من	from	min
+5	2:108:10	w	قَبۡلُۗ	ﱳﱴ	قبل	before	qablu
+5	2:108:11	w	وَمَن	ﱵ	ومن	And whoever	waman
+5	2:108:12	w	يَتَبَدَّلِ	ﱶ	يتبدل	exchanges	yatabaddali
+5	2:108:13	w	ٱلۡكُفۡرَ	ﱷ	الكفر	[the] disbelief	l-kuf'ra
+5	2:108:14	w	بِٱلۡإِيمَٰنِ	ﱸ	بالايمان	with [the] faith	bil-īmāni
+6	2:108:15	w	فَقَدۡ	ﱹ	فقد	so certainly	faqad
+6	2:108:16	w	ضَلَّ	ﱺ	ضل	he went astray (from)	ḍalla
+6	2:108:17	w	سَوَآءَ	ﱻ	سواء	(the) evenness	sawāa
+6	2:108:18	w	ٱلسَّبِيلِ	ﱼ	السبيل	(of) the way	l-sabīli
+6	2:108:19	e	١٠٨	ﱽ			
+6	2:109:1	w	وَدَّ	ﱾ	ود	Wish[ed]	wadda
+6	2:109:2	w	كَثِيرٞ	ﱿ	كثير	many	kathīrun
+6	2:109:3	w	مِّنۡ	ﲀ	من	from	min
+6	2:109:4	w	أَهۡلِ	ﲁ	اهل	(the) People	ahli
+6	2:109:5	w	ٱلۡكِتَٰبِ	ﲂ	الكتاب	(of) the Book	l-kitābi
+7	2:109:6	w	لَوۡ	ﲃ	لو	if	law
+7	2:109:7	w	يَرُدُّونَكُم	ﲄ	يردونكم	they could turn you back	yaruddūnakum
+7	2:109:8	w	مِّنۢ	ﲅ	من	from	min
+7	2:109:9	w	بَعۡدِ	ﲆ	بعد	after	baʿdi
+7	2:109:10	w	إِيمَٰنِكُمۡ	ﲇ	ايمانكم	your (having) faith	īmānikum
+7	2:109:11	w	كُفَّارًا	ﲈ	كفارا	(to) disbelievers	kuffāran
+7	2:109:12	w	حَسَدٗا	ﲉ	حسدا	(out of) jealousy	ḥasadan
+8	2:109:13	w	مِّنۡ	ﲊ	من	from	min
+8	2:109:14	w	عِندِ	ﲋ	عند	(of)	ʿindi
+8	2:109:15	w	أَنفُسِهِم	ﲌ	انفسهم	themselves	anfusihim
+8	2:109:16	w	مِّنۢ	ﲍ	من	(even) from	min
+8	2:109:17	w	بَعۡدِ	ﲎ	بعد	after	baʿdi
+8	2:109:18	w	مَا	ﲏ	ما	[what]	mā
+8	2:109:19	w	تَبَيَّنَ	ﲐ	تبين	became clear	tabayyana
+8	2:109:20	w	لَهُمُ	ﲑ	لهم	to them	lahumu
+8	2:109:21	w	ٱلۡحَقُّۖ	ﲒﲓ	الحق	the truth	l-ḥaqu
+8	2:109:22	w	فَٱعۡفُواْ	ﲔ	فاعفوا	So forgive	fa-iʿ'fū
+9	2:109:23	w	وَٱصۡفَحُواْ	ﲕ	واصفحوا	and overlook	wa-iṣ'faḥū
+9	2:109:24	w	حَتَّىٰ	ﲖ	حتى	until	ḥattā
+9	2:109:25	w	يَأۡتِيَ	ﲗ	ياتي	brings	yatiya
+9	2:109:26	w	ٱللَّهُ	ﲘ	الله	Allah	l-lahu
+9	2:109:27	w	بِأَمۡرِهِۦٓۗ	ﲙﲚ	بامره	His Command	bi-amrihi
+9	2:109:28	w	إِنَّ	ﲛ	ان	Indeed	inna
+9	2:109:29	w	ٱللَّهَ	ﲜ	الله	Allah	l-laha
+9	2:109:30	w	عَلَىٰ	ﲝ	على	on	ʿalā
+9	2:109:31	w	كُلِّ	ﲞ	كل	every	kulli
+9	2:109:32	w	شَيۡءٖ	ﲟ	شيء	thing	shayin
+10	2:109:33	w	قَدِيرٞ	ﲠ	قدير	(is) All-Powerful	qadīrun
+10	2:109:34	e	١٠٩	ﲡ			
+10	2:110:1	w	وَأَقِيمُواْ	ﲢ	واقيموا	And establish	wa-aqīmū
+10	2:110:2	w	ٱلصَّلَوٰةَ	ﲣ	الصلاة	the prayer	l-ṣalata
+10	2:110:3	w	وَءَاتُواْ	ﲤ	واتوا	and give	waātū
+10	2:110:4	w	ٱلزَّكَوٰةَۚ	ﲥﲦ	الزكاة	[the] zakah	l-zakata
+10	2:110:5	w	وَمَا	ﲧ	وما	And whatever	wamā
+10	2:110:6	w	تُقَدِّمُواْ	ﲨ	تقدموا	you send forth	tuqaddimū
+11	2:110:7	w	لِأَنفُسِكُم	ﲩ	لانفسكم	for yourselves	li-anfusikum
+11	2:110:8	w	مِّنۡ	ﲪ	من	of	min
+11	2:110:9	w	خَيۡرٖ	ﲫ	خير	good (deeds)	khayrin
+11	2:110:10	w	تَجِدُوهُ	ﲬ	تجدوه	you will find it	tajidūhu
+11	2:110:11	w	عِندَ	ﲭ	عند	with	ʿinda
+11	2:110:12	w	ٱللَّهِۗ	ﲮﲯ	الله	Allah	l-lahi
+11	2:110:13	w	إِنَّ	ﲰ	ان	Indeed	inna
+11	2:110:14	w	ٱللَّهَ	ﲱ	الله	Allah	l-laha
+11	2:110:15	w	بِمَا	ﲲ	بما	of what	bimā
+11	2:110:16	w	تَعۡمَلُونَ	ﲳ	تعملون	you do	taʿmalūna
+12	2:110:17	w	بَصِيرٞ	ﲴ	بصير	(is) All-Seer	baṣīrun
+12	2:110:18	e	١١٠	ﲵ			
+12	2:111:1	w	وَقَالُواْ	ﲶ	وقالوا	And they said	waqālū
+12	2:111:2	w	لَن	ﲷ	لن	Never	lan
+12	2:111:3	w	يَدۡخُلَ	ﲸ	يدخل	will enter	yadkhula
+12	2:111:4	w	ٱلۡجَنَّةَ	ﲹ	الجنة	the Paradise	l-janata
+12	2:111:5	w	إِلَّا	ﲺ	الا	except	illā
+12	2:111:6	w	مَن	ﲻ	من	who	man
+12	2:111:7	w	كَانَ	ﲼ	كان	is	kāna
+12	2:111:8	w	هُودًا	ﲽ	هودا	(a) Jew[s]	hūdan
+13	2:111:9	w	أَوۡ	ﲾ	او	or	aw
+13	2:111:10	w	نَصَٰرَىٰۗ	ﲿﳀ	نصارى	(a) Christian[s]	naṣārā
+13	2:111:11	w	تِلۡكَ	ﳁ	تلك	That	til'ka
+13	2:111:12	w	أَمَانِيُّهُمۡۗ	ﳂﳃ	امانيهم	(is) their wishful thinking	amāniyyuhum
+13	2:111:13	w	قُلۡ	ﳄ	قل	Say	qul
+13	2:111:14	w	هَاتُواْ	ﳅ	هاتوا	Bring	hātū
+13	2:111:15	w	بُرۡهَٰنَكُمۡ	ﳆ	برهانكم	your proof	bur'hānakum
+13	2:111:16	w	إِن	ﳇ	ان	if	in
+13	2:111:17	w	كُنتُمۡ	ﳈ	كنتم	you are	kuntum
+14	2:111:18	w	صَٰدِقِينَ	ﳉ	صادقين	[those who are] truthful	ṣādiqīna
+14	2:111:19	e	١١١	ﳊ			
+14	2:112:1	w	بَلَىٰۚ	ﳋﳌ	بلى	Yes	balā
+14	2:112:2	w	مَنۡ	ﳍ	من	whoever	man
+14	2:112:3	w	أَسۡلَمَ	ﳎ	اسلم	submits	aslama
+14	2:112:4	w	وَجۡهَهُۥ	ﳏ	وجهه	his face	wajhahu
+14	2:112:5	w	لِلَّهِ	ﳐ	لله	to Allah	lillahi
+14	2:112:6	w	وَهُوَ	ﳑ	وهو	and he	wahuwa
+14	2:112:7	w	مُحۡسِنٞ	ﳒ	محسن	(is) a good-doer	muḥ'sinun
+14	2:112:8	w	فَلَهُۥٓ	ﳓ	فله	so for him	falahu
+15	2:112:9	w	أَجۡرُهُۥ	ﳔ	اجره	(is) his reward	ajruhu
+15	2:112:10	w	عِندَ	ﳕ	عند	with	ʿinda
+15	2:112:11	w	رَبِّهِۦ	ﳖ	ربه	his Lord	rabbihi
+15	2:112:12	w	وَلَا	ﳗ	ولا	And no	walā
+15	2:112:13	w	خَوۡفٌ	ﳘ	خوف	fear	khawfun
+15	2:112:14	w	عَلَيۡهِمۡ	ﳙ	عليهم	(will be) on them	ʿalayhim
+15	2:112:15	w	وَلَا	ﳚ	ولا	and not	walā
+15	2:112:16	w	هُمۡ	ﳛ	هم	they	hum
+15	2:112:17	w	يَحۡزَنُونَ	ﳜ	يحزنون	(will) grieve	yaḥzanūna
+15	2:112:18	e	١١٢	ﳝ			

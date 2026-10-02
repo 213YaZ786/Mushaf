@@ -1,0 +1,130 @@
+1	7:96:1	w	وَلَوۡ	ﱁ	ولو	And if	walaw
+1	7:96:2	w	أَنَّ	ﱂ	ان	[that]	anna
+1	7:96:3	w	أَهۡلَ	ﱃ	اهل	people	ahla
+1	7:96:4	w	ٱلۡقُرَىٰٓ	ﱄ	القرى	(of) the cities	l-qurā
+1	7:96:5	w	ءَامَنُواْ	ﱅ	امنوا	(had) believed	āmanū
+1	7:96:6	w	وَٱتَّقَوۡاْ	ﱆ	واتقوا	and feared Allah	wa-ittaqaw
+1	7:96:7	w	لَفَتَحۡنَا	ﱇ	لفتحنا	surely We (would have) opened	lafataḥnā
+1	7:96:8	w	عَلَيۡهِم	ﱈ	عليهم	upon them	ʿalayhim
+1	7:96:9	w	بَرَكَٰتٖ	ﱉ	بركات	blessings	barakātin
+2	7:96:10	w	مِّنَ	ﱊ	من	from	mina
+2	7:96:11	w	ٱلسَّمَآءِ	ﱋ	السماء	the heaven	l-samāi
+2	7:96:12	w	وَٱلۡأَرۡضِ	ﱌ	والارض	and the earth	wal-arḍi
+2	7:96:13	w	وَلَٰكِن	ﱍ	ولاكن	but	walākin
+2	7:96:14	w	كَذَّبُواْ	ﱎ	كذبوا	they denied	kadhabū
+2	7:96:15	w	فَأَخَذۡنَٰهُم	ﱏ	فاخذناهم	So We seized them	fa-akhadhnāhum
+2	7:96:16	w	بِمَا	ﱐ	بما	for what	bimā
+2	7:96:17	w	كَانُواْ	ﱑ	كانوا	they used to	kānū
+3	7:96:18	w	يَكۡسِبُونَ	ﱒ	يكسبون	earn	yaksibūna
+3	7:96:19	e	٩٦	ﱓ			
+3	7:97:1	w	أَفَأَمِنَ	ﱔ	افامن	Then did feel secure	afa-amina
+3	7:97:2	w	أَهۡلُ	ﱕ	اهل	(the) people	ahlu
+3	7:97:3	w	ٱلۡقُرَىٰٓ	ﱖ	القرى	(of) the cities	l-qurā
+3	7:97:4	w	أَن	ﱗ	ان	that	an
+3	7:97:5	w	يَأۡتِيَهُم	ﱘ	ياتيهم	comes to them	yatiyahum
+3	7:97:6	w	بَأۡسُنَا	ﱙ	باسنا	Our punishment	basunā
+4	7:97:7	w	بَيَٰتٗا	ﱚ	بياتا	(at) night	bayātan
+4	7:97:8	w	وَهُمۡ	ﱛ	وهم	while they	wahum
+4	7:97:9	w	نَآئِمُونَ	ﱜ	نايمون	(were) asleep	nāimūna
+4	7:97:10	e	٩٧	ﱝ			
+4	7:98:1	w	أَوَأَمِنَ	ﱞ	اوامن	Or felt secure	awa-amina
+4	7:98:2	w	أَهۡلُ	ﱟ	اهل	(the) people	ahlu
+4	7:98:3	w	ٱلۡقُرَىٰٓ	ﱠ	القرى	(of) the cities	l-qurā
+4	7:98:4	w	أَن	ﱡ	ان	that	an
+4	7:98:5	w	يَأۡتِيَهُم	ﱢ	ياتيهم	comes to them	yatiyahum
+5	7:98:6	w	بَأۡسُنَا	ﱣ	باسنا	Our punishment	basunā
+5	7:98:7	w	ضُحٗى	ﱤ	ضحى	(in) daylight	ḍuḥan
+5	7:98:8	w	وَهُمۡ	ﱥ	وهم	while they	wahum
+5	7:98:9	w	يَلۡعَبُونَ	ﱦ	يلعبون	(were) playing	yalʿabūna
+5	7:98:10	e	٩٨	ﱧ			
+5	7:99:1	w	أَفَأَمِنُواْ	ﱨ	افامنوا	Then did they feel secure	afa-aminū
+5	7:99:2	w	مَكۡرَ	ﱩ	مكر	(from the) plan	makra
+5	7:99:3	w	ٱللَّهِۚ	ﱪﱫ	الله	(of) Allah	l-lahi
+6	7:99:4	w	فَلَا	ﱬ	فلا	But not	falā
+6	7:99:5	w	يَأۡمَنُ	ﱭ	يامن	feel secure	yamanu
+6	7:99:6	w	مَكۡرَ	ﱮ	مكر	(from the) plan	makra
+6	7:99:7	w	ٱللَّهِ	ﱯ	الله	(of) Allah	l-lahi
+6	7:99:8	w	إِلَّا	ﱰ	الا	except	illā
+6	7:99:9	w	ٱلۡقَوۡمُ	ﱱ	القوم	the people	l-qawmu
+6	7:99:10	w	ٱلۡخَٰسِرُونَ	ﱲ	الخاسرون	(who are) the losers	l-khāsirūna
+6	7:99:11	e	٩٩	ﱳ			
+6	7:100:1	w	أَوَلَمۡ	ﱴ	اولم	Would it not	awalam
+6	7:100:2	w	يَهۡدِ	ﱵ	يهد	guide	yahdi
+7	7:100:3	w	لِلَّذِينَ	ﱶ	للذين	[for] those who	lilladhīna
+7	7:100:4	w	يَرِثُونَ	ﱷ	يرثون	inherit	yarithūna
+7	7:100:5	w	ٱلۡأَرۡضَ	ﱸ	الارض	the land	l-arḍa
+7	7:100:6	w	مِنۢ	ﱹ	من	from	min
+7	7:100:7	w	بَعۡدِ	ﱺ	بعد	after	baʿdi
+7	7:100:8	w	أَهۡلِهَآ	ﱻ	اهلها	its people	ahlihā
+7	7:100:9	w	أَن	ﱼ	ان	that	an
+7	7:100:10	w	لَّوۡ	ﱽ	لو	if	law
+7	7:100:11	w	نَشَآءُ	ﱾ	نشاء	We willed	nashāu
+8	7:100:12	w	أَصَبۡنَٰهُم	ﱿ	اصبناهم	We (could) afflict them	aṣabnāhum
+8	7:100:13	w	بِذُنُوبِهِمۡۚ	ﲀﲁ	بذنوبهم	for their sins	bidhunūbihim
+8	7:100:14	w	وَنَطۡبَعُ	ﲂ	ونطبع	and We put a seal	wanaṭbaʿu
+8	7:100:15	w	عَلَىٰ	ﲃ	على	over	ʿalā
+8	7:100:16	w	قُلُوبِهِمۡ	ﲄ	قلوبهم	their hearts	qulūbihim
+8	7:100:17	w	فَهُمۡ	ﲅ	فهم	so they	fahum
+8	7:100:18	w	لَا	ﲆ	لا	(do) not	lā
+8	7:100:19	w	يَسۡمَعُونَ	ﲇ	يسمعون	hear	yasmaʿūna
+9	7:100:20	e	١٠٠	ﲈ			
+9	7:101:1	w	تِلۡكَ	ﲉ	تلك	These	til'ka
+9	7:101:2	w	ٱلۡقُرَىٰ	ﲊ	القرى	(were) the cities	l-qurā
+9	7:101:3	w	نَقُصُّ	ﲋ	نقص	We relate	naquṣṣu
+9	7:101:4	w	عَلَيۡكَ	ﲌ	عليك	to you	ʿalayka
+9	7:101:5	w	مِنۡ	ﲍ	من	of	min
+9	7:101:6	w	أَنۢبَآئِهَاۚ	ﲎﲏ	انبايها	their news	anbāihā
+9	7:101:7	w	وَلَقَدۡ	ﲐ	ولقد	And certainly	walaqad
+9	7:101:8	w	جَآءَتۡهُمۡ	ﲑ	جاءتهم	came to them	jāathum
+10	7:101:9	w	رُسُلُهُم	ﲒ	رسلهم	their Messengers	rusuluhum
+10	7:101:10	w	بِٱلۡبَيِّنَٰتِ	ﲓ	بالبينات	with clear proofs	bil-bayināti
+10	7:101:11	w	فَمَا	ﲔ	فما	but not	famā
+10	7:101:12	w	كَانُواْ	ﲕ	كانوا	they were	kānū
+10	7:101:13	w	لِيُؤۡمِنُواْ	ﲖ	ليومنوا	to believe	liyu'minū
+10	7:101:14	w	بِمَا	ﲗ	بما	in what	bimā
+10	7:101:15	w	كَذَّبُواْ	ﲘ	كذبوا	they (had) denied	kadhabū
+10	7:101:16	w	مِن	ﲙ	من	from	min
+11	7:101:17	w	قَبۡلُۚ	ﲚﲛ	قبل	before	qablu
+11	7:101:18	w	كَذَٰلِكَ	ﲜ	كذالك	Thus	kadhālika
+11	7:101:19	w	يَطۡبَعُ	ﲝ	يطبع	(has been) put a seal	yaṭbaʿu
+11	7:101:20	w	ٱللَّهُ	ﲞ	الله	(by) Allah	l-lahu
+11	7:101:21	w	عَلَىٰ	ﲟ	على	on	ʿalā
+11	7:101:22	w	قُلُوبِ	ﲠ	قلوب	(the) hearts	qulūbi
+11	7:101:23	w	ٱلۡكَٰفِرِينَ	ﲡ	الكافرين	(of) the disbelievers	l-kāfirīna
+11	7:101:24	e	١٠١	ﲢ			
+11	7:102:1	w	وَمَا	ﲣ	وما	And not	wamā
+11	7:102:2	w	وَجَدۡنَا	ﲤ	وجدنا	We found	wajadnā
+12	7:102:3	w	لِأَكۡثَرِهِم	ﲥ	لاكثرهم	for most of them	li-aktharihim
+12	7:102:4	w	مِّنۡ	ﲦ	من	any	min
+12	7:102:5	w	عَهۡدٖۖ	ﲧﲨ	عهد	covenant	ʿahdin
+12	7:102:6	w	وَإِن	ﲩ	وان	But	wa-in
+12	7:102:7	w	وَجَدۡنَآ	ﲪ	وجدنا	We found	wajadnā
+12	7:102:8	w	أَكۡثَرَهُمۡ	ﲫ	اكثرهم	most of them	aktharahum
+12	7:102:9	w	لَفَٰسِقِينَ	ﲬ	لفاسقين	certainly, defiantly disobedient	lafāsiqīna
+12	7:102:10	e	١٠٢	ﲭ			
+13	7:103:1	w	ثُمَّ	ﲮ	ثم	Then	thumma
+13	7:103:2	w	بَعَثۡنَا	ﲯ	بعثنا	We sent	baʿathnā
+13	7:103:3	w	مِنۢ	ﲰ	من	from	min
+13	7:103:4	w	بَعۡدِهِم	ﲱ	بعدهم	after them	baʿdihim
+13	7:103:5	w	مُّوسَىٰ	ﲲ	موسى	Musa	mūsā
+13	7:103:6	w	بِـَٔايَٰتِنَآ	ﲳ	باياتنا	with Our Signs	biāyātinā
+13	7:103:7	w	إِلَىٰ	ﲴ	الى	to	ilā
+13	7:103:8	w	فِرۡعَوۡنَ	ﲵ	فرعون	Firaun	fir'ʿawna
+13	7:103:9	w	وَمَلَإِيْهِۦ	ﲶ	ومليه	and his chiefs	wamala-ihi
+14	7:103:10	w	فَظَلَمُواْ	ﲷ	فظلموا	But they were unjust	faẓalamū
+14	7:103:11	w	بِهَاۖ	ﲸﲹ	بها	to them	bihā
+14	7:103:12	w	فَٱنظُرۡ	ﲺ	فانظر	So see	fa-unẓur
+14	7:103:13	w	كَيۡفَ	ﲻ	كيف	how	kayfa
+14	7:103:14	w	كَانَ	ﲼ	كان	was	kāna
+14	7:103:15	w	عَٰقِبَةُ	ﲽ	عاقبة	(the) end	ʿāqibatu
+14	7:103:16	w	ٱلۡمُفۡسِدِينَ	ﲾ	المفسدين	(of) the corrupters	l-muf'sidīna
+14	7:103:17	e	١٠٣	ﲿ			
+15	7:104:1	w	وَقَالَ	ﳀ	وقال	And said	waqāla
+15	7:104:2	w	مُوسَىٰ	ﳁ	موسى	Musa	mūsā
+15	7:104:3	w	يَٰفِرۡعَوۡنُ	ﳂ	يا فرعون	O Firaun	yāfir'ʿawnu
+15	7:104:4	w	إِنِّي	ﳃ	اني	Indeed, I am	innī
+15	7:104:5	w	رَسُولٞ	ﳄ	رسول	a Messenger	rasūlun
+15	7:104:6	w	مِّن	ﳅ	من	from	min
+15	7:104:7	w	رَّبِّ	ﳆ	رب	(the) Lord	rabbi
+15	7:104:8	w	ٱلۡعَٰلَمِينَ	ﳇ	العالمين	(of) the worlds	l-ʿālamīna
+15	7:104:9	e	١٠٤	ﳈ			

@@ -1,0 +1,155 @@
+1	5:58:1	w	وَإِذَا	ﱁ	واذا	And when	wa-idhā
+1	5:58:2	w	نَادَيۡتُمۡ	ﱂ	ناديتم	you make a call	nādaytum
+1	5:58:3	w	إِلَى	ﱃ	الى	for	ilā
+1	5:58:4	w	ٱلصَّلَوٰةِ	ﱄ	الصلاة	the prayer	l-ṣalati
+1	5:58:5	w	ٱتَّخَذُوهَا	ﱅ	اتخذوها	they take it	ittakhadhūhā
+1	5:58:6	w	هُزُوٗا	ﱆ	هزوا	(in) ridicule	huzuwan
+1	5:58:7	w	وَلَعِبٗاۚ	ﱇﱈ	ولعبا	and fun	walaʿiban
+1	5:58:8	w	ذَٰلِكَ	ﱉ	ذالك	That	dhālika
+1	5:58:9	w	بِأَنَّهُمۡ	ﱊ	بانهم	(is) because they	bi-annahum
+1	5:58:10	w	قَوۡمٞ	ﱋ	قوم	(are) a people	qawmun
+2	5:58:11	w	لَّا	ﱌ	لا	(who do) not	lā
+2	5:58:12	w	يَعۡقِلُونَ	ﱍ	يعقلون	understand	yaʿqilūna
+2	5:58:13	e	٥٨	ﱎ			
+2	5:59:1	w	قُلۡ	ﱏ	قل	Say	qul
+2	5:59:2	w	يَٰٓأَهۡلَ	ﱐ	يا اهل	O People	yāahla
+2	5:59:3	w	ٱلۡكِتَٰبِ	ﱑ	الكتاب	(of) the Book	l-kitābi
+2	5:59:4	w	هَلۡ	ﱒ	هل	Do	hal
+2	5:59:5	w	تَنقِمُونَ	ﱓ	تنقمون	you resent	tanqimūna
+2	5:59:6	w	مِنَّآ	ﱔ	منا	[of] us	minnā
+2	5:59:7	w	إِلَّآ	ﱕ	الا	except	illā
+2	5:59:8	w	أَنۡ	ﱖ	ان	that	an
+2	5:59:9	w	ءَامَنَّا	ﱗ	امنا	we believe	āmannā
+3	5:59:10	w	بِٱللَّهِ	ﱘ	بالله	in Allah	bil-lahi
+3	5:59:11	w	وَمَآ	ﱙ	وما	and what	wamā
+3	5:59:12	w	أُنزِلَ	ﱚ	انزل	has been revealed	unzila
+3	5:59:13	w	إِلَيۡنَا	ﱛ	الينا	to us	ilaynā
+3	5:59:14	w	وَمَآ	ﱜ	وما	and what	wamā
+3	5:59:15	w	أُنزِلَ	ﱝ	انزل	was revealed	unzila
+3	5:59:16	w	مِن	ﱞ	من	from	min
+3	5:59:17	w	قَبۡلُ	ﱟ	قبل	before	qablu
+3	5:59:18	w	وَأَنَّ	ﱠ	وان	and that	wa-anna
+3	5:59:19	w	أَكۡثَرَكُمۡ	ﱡ	اكثركم	most of you	aktharakum
+3	5:59:20	w	فَٰسِقُونَ	ﱢ	فاسقون	(are) defiantly disobedient	fāsiqūna
+3	5:59:21	e	٥٩	ﱣ			
+4	5:60:1	w	قُلۡ	ﱤ	قل	Say	qul
+4	5:60:2	w	هَلۡ	ﱥ	هل	Shall	hal
+4	5:60:3	w	أُنَبِّئُكُم	ﱦ	انبيكم	I inform you	unabbi-ukum
+4	5:60:4	w	بِشَرّٖ	ﱧ	بشر	(of) worse	bisharrin
+4	5:60:5	w	مِّن	ﱨ	من	than	min
+4	5:60:6	w	ذَٰلِكَ	ﱩ	ذالك	that	dhālika
+4	5:60:7	w	مَثُوبَةً	ﱪ	مثوبة	(as) recompense	mathūbatan
+4	5:60:8	w	عِندَ	ﱫ	عند	from	ʿinda
+4	5:60:9	w	ٱللَّهِۚ	ﱬﱭ	الله	Allah	l-lahi
+4	5:60:10	w	مَن	ﱮ	من	Whom	man
+4	5:60:11	w	لَّعَنَهُ	ﱯ	لعنه	has (been) cursed	laʿanahu
+4	5:60:12	w	ٱللَّهُ	ﱰ	الله	(by) Allah	l-lahu
+4	5:60:13	w	وَغَضِبَ	ﱱ	وغضب	and He became angry	waghaḍiba
+5	5:60:14	w	عَلَيۡهِ	ﱲ	عليه	with him	ʿalayhi
+5	5:60:15	w	وَجَعَلَ	ﱳ	وجعل	and made	wajaʿala
+5	5:60:16	w	مِنۡهُمُ	ﱴ	منهم	of them	min'humu
+5	5:60:17	w	ٱلۡقِرَدَةَ	ﱵ	القردة	[the] apes	l-qiradata
+5	5:60:18	w	وَٱلۡخَنَازِيرَ	ﱶ	والخنازير	and [the] swines	wal-khanāzīra
+5	5:60:19	w	وَعَبَدَ	ﱷ	وعبد	and (who) worshipped	waʿabada
+5	5:60:20	w	ٱلطَّٰغُوتَۚ	ﱸﱹ	الطاغوت	the false deities	l-ṭāghūta
+5	5:60:21	w	أُوْلَٰٓئِكَ	ﱺ	اولايك	Those	ulāika
+5	5:60:22	w	شَرّٞ	ﱻ	شر	(are) worse	sharrun
+6	5:60:23	w	مَّكَانٗا	ﱼ	مكانا	(in) position	makānan
+6	5:60:24	w	وَأَضَلُّ	ﱽ	واضل	and farthest astray	wa-aḍallu
+6	5:60:25	w	عَن	ﱾ	عن	from	ʿan
+6	5:60:26	w	سَوَآءِ	ﱿ	سواء	(the) even	sawāi
+6	5:60:27	w	ٱلسَّبِيلِ	ﲀ	السبيل	way	l-sabīli
+6	5:60:28	e	٦٠	ﲁ			
+6	5:61:1	w	وَإِذَا	ﲂ	واذا	And when	wa-idhā
+6	5:61:2	w	جَآءُوكُمۡ	ﲃ	جاءوكم	they come to you	jāūkum
+6	5:61:3	w	قَالُوٓاْ	ﲄ	قالوا	they say	qālū
+6	5:61:4	w	ءَامَنَّا	ﲅ	امنا	We believe	āmannā
+6	5:61:5	w	وَقَد	ﲆ	وقد	But certainly	waqad
+7	5:61:6	w	دَّخَلُواْ	ﲇ	دخلوا	they entered	dakhalū
+7	5:61:7	w	بِٱلۡكُفۡرِ	ﲈ	بالكفر	with disbelief	bil-kuf'ri
+7	5:61:8	w	وَهُمۡ	ﲉ	وهم	and they	wahum
+7	5:61:9	w	قَدۡ	ﲊ	قد	certainly	qad
+7	5:61:10	w	خَرَجُواْ	ﲋ	خرجوا	went out	kharajū
+7	5:61:11	w	بِهِۦۚ	ﲌﲍ	به	with it	bihi
+7	5:61:12	w	وَٱللَّهُ	ﲎ	والله	And Allah	wal-lahu
+7	5:61:13	w	أَعۡلَمُ	ﲏ	اعلم	knows best	aʿlamu
+7	5:61:14	w	بِمَا	ﲐ	بما	[of] what	bimā
+7	5:61:15	w	كَانُواْ	ﲑ	كانوا	they were	kānū
+7	5:61:16	w	يَكۡتُمُونَ	ﲒ	يكتمون	hiding	yaktumūna
+8	5:61:17	e	٦١	ﲓ			
+8	5:62:1	w	وَتَرَىٰ	ﲔ	وترى	And you see	watarā
+8	5:62:2	w	كَثِيرٗا	ﲕ	كثيرا	many	kathīran
+8	5:62:3	w	مِّنۡهُمۡ	ﲖ	منهم	of them	min'hum
+8	5:62:4	w	يُسَٰرِعُونَ	ﲗ	يسارعون	hastening	yusāriʿūna
+8	5:62:5	w	فِي	ﲘ	في	into	fī
+8	5:62:6	w	ٱلۡإِثۡمِ	ﲙ	الاثم	[the] sin	l-ith'mi
+8	5:62:7	w	وَٱلۡعُدۡوَٰنِ	ﲚ	والعدوان	and [the] transgression	wal-ʿud'wāni
+8	5:62:8	w	وَأَكۡلِهِمُ	ﲛ	واكلهم	and eating	wa-aklihimu
+9	5:62:9	w	ٱلسُّحۡتَۚ	ﲜﲝ	السحت	the forbidden	l-suḥ'ta
+9	5:62:10	w	لَبِئۡسَ	ﲞ	لبيس	Surely evil	labi'sa
+9	5:62:11	w	مَا	ﲟ	ما	(is) what	mā
+9	5:62:12	w	كَانُواْ	ﲠ	كانوا	they were	kānū
+9	5:62:13	w	يَعۡمَلُونَ	ﲡ	يعملون	doing	yaʿmalūna
+9	5:62:14	e	٦٢	ﲢ			
+9	5:63:1	w	لَوۡلَا	ﲣ	لولا	Why (do) not	lawlā
+9	5:63:2	w	يَنۡهَىٰهُمُ	ﲤ	ينهاهم	forbid them	yanhāhumu
+9	5:63:3	w	ٱلرَّبَّٰنِيُّونَ	ﲥ	الربانيون	the Rabbis	l-rabāniyūna
+10	5:63:4	w	وَٱلۡأَحۡبَارُ	ﲦ	والاحبار	and the religious scholars	wal-aḥbāru
+10	5:63:5	w	عَن	ﲧ	عن	from	ʿan
+10	5:63:6	w	قَوۡلِهِمُ	ﲨ	قولهم	their saying	qawlihimu
+10	5:63:7	w	ٱلۡإِثۡمَ	ﲩ	الاثم	the sinful	l-ith'ma
+10	5:63:8	w	وَأَكۡلِهِمُ	ﲪ	واكلهم	and their eating	wa-aklihimu
+10	5:63:9	w	ٱلسُّحۡتَۚ	ﲫﲬ	السحت	(of) the forbidden	l-suḥ'ta
+10	5:63:10	w	لَبِئۡسَ	ﲭ	لبيس	Surely, evil	labi'sa
+10	5:63:11	w	مَا	ﲮ	ما	(is) what	mā
+10	5:63:12	w	كَانُواْ	ﲯ	كانوا	they used to	kānū
+11	5:63:13	w	يَصۡنَعُونَ	ﲰ	يصنعون	do	yaṣnaʿūna
+11	5:63:14	e	٦٣	ﲱ			
+11	5:64:1	w	وَقَالَتِ	ﲲ	وقالت	And said	waqālati
+11	5:64:2	w	ٱلۡيَهُودُ	ﲳ	اليهود	the Jews	l-yahūdu
+11	5:64:3	w	يَدُ	ﲴ	يد	The Hand	yadu
+11	5:64:4	w	ٱللَّهِ	ﲵ	الله	(of) Allah	l-lahi
+11	5:64:5	w	مَغۡلُولَةٌۚ	ﲶﲷ	مغلولة	(is) chained	maghlūlatun
+11	5:64:6	w	غُلَّتۡ	ﲸ	غلت	Are chained	ghullat
+11	5:64:7	w	أَيۡدِيهِمۡ	ﲹ	ايديهم	their hands	aydīhim
+11	5:64:8	w	وَلُعِنُواْ	ﲺ	ولعنوا	and they have been cursed	waluʿinū
+12	5:64:9	w	بِمَا	ﲻ	بما	for what	bimā
+12	5:64:10	w	قَالُواْۘ	ﲼﲽ	قالوا	they said	qālū
+12	5:64:11	w	بَلۡ	ﲾ	بل	Nay	bal
+12	5:64:12	w	يَدَاهُ	ﲿ	يداه	His Hands	yadāhu
+12	5:64:13	w	مَبۡسُوطَتَانِ	ﳀ	مبسوطتان	(are) stretched out	mabsūṭatāni
+12	5:64:14	w	يُنفِقُ	ﳁ	ينفق	He spends	yunfiqu
+12	5:64:15	w	كَيۡفَ	ﳂ	كيف	how	kayfa
+12	5:64:16	w	يَشَآءُۚ	ﳃﳄ	يشاء	He wills	yashāu
+12	5:64:17	w	وَلَيَزِيدَنَّ	ﳅ	وليزيدن	And surely increase	walayazīdanna
+12	5:64:18	w	كَثِيرٗا	ﳆ	كثيرا	many	kathīran
+13	5:64:19	w	مِّنۡهُم	ﳇ	منهم	of them	min'hum
+13	5:64:20	w	مَّآ	ﳈ	ما	what	mā
+13	5:64:21	w	أُنزِلَ	ﳉ	انزل	has been revealed	unzila
+13	5:64:22	w	إِلَيۡكَ	ﳊ	اليك	to you	ilayka
+13	5:64:23	w	مِن	ﳋ	من	from	min
+13	5:64:24	w	رَّبِّكَ	ﳌ	ربك	your Lord	rabbika
+13	5:64:25	w	طُغۡيَٰنٗا	ﳍ	طغيانا	(in) rebellion	ṭugh'yānan
+13	5:64:26	w	وَكُفۡرٗاۚ	ﳎﳏ	وكفرا	and disbelief	wakuf'ran
+13	5:64:27	w	وَأَلۡقَيۡنَا	ﳐ	والقينا	And We have cast	wa-alqaynā
+13	5:64:28	w	بَيۡنَهُمُ	ﳑ	بينهم	among them	baynahumu
+13	5:64:29	w	ٱلۡعَدَٰوَةَ	ﳒ	العداوة	[the] enmity	l-ʿadāwata
+14	5:64:30	w	وَٱلۡبَغۡضَآءَ	ﳓ	والبغضاء	and [the] hatred	wal-baghḍāa
+14	5:64:31	w	إِلَىٰ	ﳔ	الى	till	ilā
+14	5:64:32	w	يَوۡمِ	ﳕ	يوم	(the) Day	yawmi
+14	5:64:33	w	ٱلۡقِيَٰمَةِۚ	ﳖﳗ	القيامة	(of) the Resurrection	l-qiyāmati
+14	5:64:34	w	كُلَّمَآ	ﳘ	كلما	Every time	kullamā
+14	5:64:35	w	أَوۡقَدُواْ	ﳙ	اوقدوا	they kindled	awqadū
+14	5:64:36	w	نَارٗا	ﳚ	نارا	(the) fire	nāran
+14	5:64:37	w	لِّلۡحَرۡبِ	ﳛ	للحرب	of [the] war	lil'ḥarbi
+14	5:64:38	w	أَطۡفَأَهَا	ﳜ	اطفاها	it (was) extinguished	aṭfa-ahā
+15	5:64:39	w	ٱللَّهُۚ	ﳝﳞ	الله	(by) Allah	l-lahu
+15	5:64:40	w	وَيَسۡعَوۡنَ	ﳟ	ويسعون	And they strive	wayasʿawna
+15	5:64:41	w	فِي	ﳠ	في	in	fī
+15	5:64:42	w	ٱلۡأَرۡضِ	ﳡ	الارض	the earth	l-arḍi
+15	5:64:43	w	فَسَادٗاۚ	ﳢﳣ	فسادا	spreading corruption	fasādan
+15	5:64:44	w	وَٱللَّهُ	ﳤ	والله	And Allah	wal-lahu
+15	5:64:45	w	لَا	ﳥ	لا	(does) not	lā
+15	5:64:46	w	يُحِبُّ	ﳦ	يحب	love	yuḥibbu
+15	5:64:47	w	ٱلۡمُفۡسِدِينَ	ﳧ	المفسدين	the corrupters	l-muf'sidīna
+15	5:64:48	e	٦٤	ﳨ			

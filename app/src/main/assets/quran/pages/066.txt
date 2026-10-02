@@ -1,0 +1,137 @@
+1	3:122:1	w	إِذۡ	ﱁ	اذ	When	idh
+1	3:122:2	w	هَمَّت	ﱂ	همت	inclined	hammat
+1	3:122:3	w	طَّآئِفَتَانِ	ﱃ	طايفتان	two parties	ṭāifatāni
+1	3:122:4	w	مِنكُمۡ	ﱄ	منكم	among you	minkum
+1	3:122:5	w	أَن	ﱅ	ان	that	an
+1	3:122:6	w	تَفۡشَلَا	ﱆ	تفشلا	they lost heart	tafshalā
+1	3:122:7	w	وَٱللَّهُ	ﱇ	والله	but Allah	wal-lahu
+1	3:122:8	w	وَلِيُّهُمَاۗ	ﱈﱉ	وليهما	(was) their protector	waliyyuhumā
+1	3:122:9	w	وَعَلَى	ﱊ	وعلى	And on	waʿalā
+1	3:122:10	w	ٱللَّهِ	ﱋ	الله	Allah	l-lahi
+2	3:122:11	w	فَلۡيَتَوَكَّلِ	ﱌ	فليتوكل	let put (their) trust	falyatawakkali
+2	3:122:12	w	ٱلۡمُؤۡمِنُونَ	ﱍ	المومنون	the believers	l-mu'minūna
+2	3:122:13	e	١٢٢	ﱎ			
+2	3:123:1	w	وَلَقَدۡ	ﱏ	ولقد	And certainly	walaqad
+2	3:123:2	w	نَصَرَكُمُ	ﱐ	نصركم	helped you	naṣarakumu
+2	3:123:3	w	ٱللَّهُ	ﱑ	الله	Allah	l-lahu
+2	3:123:4	w	بِبَدۡرٖ	ﱒ	ببدر	in Badr	bibadrin
+2	3:123:5	w	وَأَنتُمۡ	ﱓ	وانتم	while you (were)	wa-antum
+2	3:123:6	w	أَذِلَّةٞۖ	ﱔﱕ	اذلة	weak	adhillatun
+3	3:123:7	w	فَٱتَّقُواْ	ﱖ	فاتقوا	So fear	fa-ittaqū
+3	3:123:8	w	ٱللَّهَ	ﱗ	الله	Allah	l-laha
+3	3:123:9	w	لَعَلَّكُمۡ	ﱘ	لعلكم	so that you may	laʿallakum
+3	3:123:10	w	تَشۡكُرُونَ	ﱙ	تشكرون	(be) grateful	tashkurūna
+3	3:123:11	e	١٢٣	ﱚ			
+3	3:124:1	w	إِذۡ	ﱛ	اذ	When	idh
+3	3:124:2	w	تَقُولُ	ﱜ	تقول	you said	taqūlu
+3	3:124:3	w	لِلۡمُؤۡمِنِينَ	ﱝ	للمومنين	to the believers	lil'mu'minīna
+4	3:124:4	w	أَلَن	ﱞ	الن	Is it not	alan
+4	3:124:5	w	يَكۡفِيَكُمۡ	ﱟ	يكفيكم	enough for you	yakfiyakum
+4	3:124:6	w	أَن	ﱠ	ان	that	an
+4	3:124:7	w	يُمِدَّكُمۡ	ﱡ	يمدكم	reinforces you	yumiddakum
+4	3:124:8	w	رَبُّكُم	ﱢ	ربكم	your Lord	rabbukum
+4	3:124:9	w	بِثَلَٰثَةِ	ﱣ	بثلاثة	with three	bithalāthati
+4	3:124:10	w	ءَالَٰفٖ	ﱤ	الاف	thousand[s]	ālāfin
+4	3:124:11	w	مِّنَ	ﱥ	من	[of]	mina
+4	3:124:12	w	ٱلۡمَلَٰٓئِكَةِ	ﱦ	الملايكة	[the] Angels	l-malāikati
+5	3:124:13	w	مُنزَلِينَ	ﱧ	منزلين	[the ones] sent down	munzalīna
+5	3:124:14	e	١٢٤	ﱨ			
+5	3:125:1	w	بَلَىٰٓۚ	ﱩﱪ	بلى	Yes	balā
+5	3:125:2	w	إِن	ﱫ	ان	if	in
+5	3:125:3	w	تَصۡبِرُواْ	ﱬ	تصبروا	you are patient	taṣbirū
+5	3:125:4	w	وَتَتَّقُواْ	ﱭ	وتتقوا	and fear (Allah)	watattaqū
+5	3:125:5	w	وَيَأۡتُوكُم	ﱮ	وياتوكم	and they come upon you	wayatūkum
+5	3:125:6	w	مِّن	ﱯ	من	[of]	min
+5	3:125:7	w	فَوۡرِهِمۡ	ﱰ	فورهم	suddenly	fawrihim
+6	3:125:8	w	هَٰذَا	ﱱ	هاذا	[this]	hādhā
+6	3:125:9	w	يُمۡدِدۡكُمۡ	ﱲ	يمددكم	will reinforce you	yum'did'kum
+6	3:125:10	w	رَبُّكُم	ﱳ	ربكم	your Lord	rabbukum
+6	3:125:11	w	بِخَمۡسَةِ	ﱴ	بخمسة	with five	bikhamsati
+6	3:125:12	w	ءَالَٰفٖ	ﱵ	الاف	thousand[s]	ālāfin
+6	3:125:13	w	مِّنَ	ﱶ	من	[of]	mina
+6	3:125:14	w	ٱلۡمَلَٰٓئِكَةِ	ﱷ	الملايكة	[the] Angels	l-malāikati
+6	3:125:15	w	مُسَوِّمِينَ	ﱸ	مسومين	[the ones] having marks	musawwimīna
+7	3:125:16	e	١٢٥	ﱹ			
+7	3:126:1	w	وَمَا	ﱺ	وما	And not	wamā
+7	3:126:2	w	جَعَلَهُ	ﱻ	جعله	made it	jaʿalahu
+7	3:126:3	w	ٱللَّهُ	ﱼ	الله	Allah	l-lahu
+7	3:126:4	w	إِلَّا	ﱽ	الا	except	illā
+7	3:126:5	w	بُشۡرَىٰ	ﱾ	بشرى	(as) good news	bush'rā
+7	3:126:6	w	لَكُمۡ	ﱿ	لكم	for you	lakum
+7	3:126:7	w	وَلِتَطۡمَئِنَّ	ﲀ	ولتطمين	and to reassure	walitaṭma-inna
+7	3:126:8	w	قُلُوبُكُم	ﲁ	قلوبكم	your hearts	qulūbukum
+7	3:126:9	w	بِهِۦۗ	ﲂﲃ	به	with it	bihi
+8	3:126:10	w	وَمَا	ﲄ	وما	And (there is) no	wamā
+8	3:126:11	w	ٱلنَّصۡرُ	ﲅ	النصر	[the] victory	l-naṣru
+8	3:126:12	w	إِلَّا	ﲆ	الا	except	illā
+8	3:126:13	w	مِنۡ	ﲇ	من	from	min
+8	3:126:14	w	عِندِ	ﲈ	عند	[near]	ʿindi
+8	3:126:15	w	ٱللَّهِ	ﲉ	الله	Allah	l-lahi
+8	3:126:16	w	ٱلۡعَزِيزِ	ﲊ	العزيز	the All-Mighty	l-ʿazīzi
+8	3:126:17	w	ٱلۡحَكِيمِ	ﲋ	الحكيم	the All-Wise	l-ḥakīmi
+8	3:126:18	e	١٢٦	ﲌ			
+8	3:127:1	w	لِيَقۡطَعَ	ﲍ	ليقطع	That He may cut off	liyaqṭaʿa
+8	3:127:2	w	طَرَفٗا	ﲎ	طرفا	a part	ṭarafan
+9	3:127:3	w	مِّنَ	ﲏ	من	of	mina
+9	3:127:4	w	ٱلَّذِينَ	ﲐ	الذين	those who	alladhīna
+9	3:127:5	w	كَفَرُوٓاْ	ﲑ	كفروا	disbelieved	kafarū
+9	3:127:6	w	أَوۡ	ﲒ	او	or	aw
+9	3:127:7	w	يَكۡبِتَهُمۡ	ﲓ	يكبتهم	suppress them	yakbitahum
+9	3:127:8	w	فَيَنقَلِبُواْ	ﲔ	فينقلبوا	so (that) they turn back	fayanqalibū
+9	3:127:9	w	خَآئِبِينَ	ﲕ	خايبين	disappointed	khāibīna
+9	3:127:10	e	١٢٧	ﲖ			
+10	3:128:1	w	لَيۡسَ	ﲗ	ليس	Not	laysa
+10	3:128:2	w	لَكَ	ﲘ	لك	for you	laka
+10	3:128:3	w	مِنَ	ﲙ	من	of	mina
+10	3:128:4	w	ٱلۡأَمۡرِ	ﲚ	الامر	the decision	l-amri
+10	3:128:5	w	شَيۡءٌ	ﲛ	شيء	(of) anything	shayon
+10	3:128:6	w	أَوۡ	ﲜ	او	whether	aw
+10	3:128:7	w	يَتُوبَ	ﲝ	يتوب	He turns	yatūba
+10	3:128:8	w	عَلَيۡهِمۡ	ﲞ	عليهم	to them	ʿalayhim
+10	3:128:9	w	أَوۡ	ﲟ	او	or	aw
+10	3:128:10	w	يُعَذِّبَهُمۡ	ﲠ	يعذبهم	punishes them	yuʿadhibahum
+10	3:128:11	w	فَإِنَّهُمۡ	ﲡ	فانهم	for indeed, they	fa-innahum
+11	3:128:12	w	ظَٰلِمُونَ	ﲢ	ظالمون	(are) wrongdoers	ẓālimūna
+11	3:128:13	e	١٢٨	ﲣ			
+11	3:129:1	w	وَلِلَّهِ	ﲤ	ولله	And to Allah (belongs)	walillahi
+11	3:129:2	w	مَا	ﲥ	ما	what	mā
+11	3:129:3	w	فِي	ﲦ	في	(is) in	fī
+11	3:129:4	w	ٱلسَّمَٰوَٰتِ	ﲧ	السماوات	the heavens	l-samāwāti
+11	3:129:5	w	وَمَا	ﲨ	وما	and what	wamā
+11	3:129:6	w	فِي	ﲩ	في	(is) in	fī
+11	3:129:7	w	ٱلۡأَرۡضِۚ	ﲪﲫ	الارض	the earth	l-arḍi
+11	3:129:8	w	يَغۡفِرُ	ﲬ	يغفر	He forgives	yaghfiru
+11	3:129:9	w	لِمَن	ﲭ	لمن	[for] whom	liman
+12	3:129:10	w	يَشَآءُ	ﲮ	يشاء	He wills	yashāu
+12	3:129:11	w	وَيُعَذِّبُ	ﲯ	ويعذب	and punishes	wayuʿadhibu
+12	3:129:12	w	مَن	ﲰ	من	whom	man
+12	3:129:13	w	يَشَآءُۚ	ﲱﲲ	يشاء	He wills	yashāu
+12	3:129:14	w	وَٱللَّهُ	ﲳ	والله	And Allah	wal-lahu
+12	3:129:15	w	غَفُورٞ	ﲴ	غفور	(is) Oft-Forgiving	ghafūrun
+12	3:129:16	w	رَّحِيمٞ	ﲵ	رحيم	Most Merciful	raḥīmun
+12	3:129:17	e	١٢٩	ﲶ			
+12	3:130:1	w	يَٰٓأَيُّهَا	ﲷ	يا ايها	O you	yāayyuhā
+13	3:130:2	w	ٱلَّذِينَ	ﲸ	الذين	who	alladhīna
+13	3:130:3	w	ءَامَنُواْ	ﲹ	امنوا	believe	āmanū
+13	3:130:4	w	لَا	ﲺ	لا	(Do) not	lā
+13	3:130:5	w	تَأۡكُلُواْ	ﲻ	تاكلوا	eat	takulū
+13	3:130:6	w	ٱلرِّبَوٰٓاْ	ﲼ	الربا	the usury	l-riba
+13	3:130:7	w	أَضۡعَٰفٗا	ﲽ	اضعافا	doubled	aḍʿāfan
+13	3:130:8	w	مُّضَٰعَفَةٗۖ	ﲾﲿ	مضاعفة	multiplied	muḍāʿafatan
+14	3:130:9	w	وَٱتَّقُواْ	ﳀ	واتقوا	And fear	wa-ittaqū
+14	3:130:10	w	ٱللَّهَ	ﳁ	الله	Allah	l-laha
+14	3:130:11	w	لَعَلَّكُمۡ	ﳂ	لعلكم	so that you may	laʿallakum
+14	3:130:12	w	تُفۡلِحُونَ	ﳃ	تفلحون	(be) successful	tuf'liḥūna
+14	3:130:13	e	١٣٠	ﳄ			
+14	3:131:1	w	وَٱتَّقُواْ	ﳅ	واتقوا	And fear	wa-ittaqū
+14	3:131:2	w	ٱلنَّارَ	ﳆ	النار	the Fire	l-nāra
+14	3:131:3	w	ٱلَّتِيٓ	ﳇ	التي	which	allatī
+14	3:131:4	w	أُعِدَّتۡ	ﳈ	اعدت	is prepared	uʿiddat
+15	3:131:5	w	لِلۡكَٰفِرِينَ	ﳉ	للكافرين	for the disbelievers	lil'kāfirīna
+15	3:131:6	e	١٣١	ﳊ			
+15	3:132:1	w	وَأَطِيعُواْ	ﳋ	واطيعوا	And obey	wa-aṭīʿū
+15	3:132:2	w	ٱللَّهَ	ﳌ	الله	Allah	l-laha
+15	3:132:3	w	وَٱلرَّسُولَ	ﳍ	والرسول	and the Messenger	wal-rasūla
+15	3:132:4	w	لَعَلَّكُمۡ	ﳎ	لعلكم	so that you may	laʿallakum
+15	3:132:5	w	تُرۡحَمُونَ	ﳏ	ترحمون	receive mercy	tur'ḥamūna
+15	3:132:6	e	١٣٢	ﳐ			

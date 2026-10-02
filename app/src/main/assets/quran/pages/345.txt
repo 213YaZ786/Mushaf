@@ -1,0 +1,150 @@
+1	23:43:1	w	مَا	ﱁ	ما	Not	mā
+1	23:43:2	w	تَسۡبِقُ	ﱂ	تسبق	can precede	tasbiqu
+1	23:43:3	w	مِنۡ	ﱃ	من	any	min
+1	23:43:4	w	أُمَّةٍ	ﱄ	امة	nation	ummatin
+1	23:43:5	w	أَجَلَهَا	ﱅ	اجلها	its term	ajalahā
+1	23:43:6	w	وَمَا	ﱆ	وما	and not	wamā
+1	23:43:7	w	يَسۡتَـٔۡخِرُونَ	ﱇ	يستاخرون	they (can) delay (it)	yastakhirūna
+1	23:43:8	e	٤٣	ﱈ			
+1	23:44:1	w	ثُمَّ	ﱉ	ثم	Then	thumma
+1	23:44:2	w	أَرۡسَلۡنَا	ﱊ	ارسلنا	We sent	arsalnā
+1	23:44:3	w	رُسُلَنَا	ﱋ	رسلنا	Our Messengers	rusulanā
+2	23:44:4	w	تَتۡرَاۖ	ﱌﱍ	تترى	(in) succession	tatrā
+2	23:44:5	w	كُلَّ	ﱎ	كل	Every time	kulla
+2	23:44:6	w	مَا	ﱏ	ما	Every time	mā
+2	23:44:7	w	جَآءَ	ﱐ	جاء	came	jāa
+2	23:44:8	w	أُمَّةٗ	ﱑ	امة	(to) a nation	ummatan
+2	23:44:9	w	رَّسُولُهَا	ﱒ	رسولها	its Messenger	rasūluhā
+2	23:44:10	w	كَذَّبُوهُۖ	ﱓﱔ	كذبوه	they denied him	kadhabūhu
+2	23:44:11	w	فَأَتۡبَعۡنَا	ﱕ	فاتبعنا	so We made (them) follow	fa-atbaʿnā
+2	23:44:12	w	بَعۡضَهُم	ﱖ	بعضهم	some of them	baʿḍahum
+2	23:44:13	w	بَعۡضٗا	ﱗ	بعضا	others	baʿḍan
+3	23:44:14	w	وَجَعَلۡنَٰهُمۡ	ﱘ	وجعلناهم	and We made them	wajaʿalnāhum
+3	23:44:15	w	أَحَادِيثَۚ	ﱙﱚ	احاديث	narrations	aḥādītha
+3	23:44:16	w	فَبُعۡدٗا	ﱛ	فبعدا	So away	fabuʿ'dan
+3	23:44:17	w	لِّقَوۡمٖ	ﱜ	لقوم	with a people	liqawmin
+3	23:44:18	w	لَّا	ﱝ	لا	not	lā
+3	23:44:19	w	يُؤۡمِنُونَ	ﱞ	يومنون	they believe	yu'minūna
+3	23:44:20	e	٤٤	ﱟ			
+3	23:45:1	w	ثُمَّ	ﱠ	ثم	Then	thumma
+3	23:45:2	w	أَرۡسَلۡنَا	ﱡ	ارسلنا	We sent	arsalnā
+3	23:45:3	w	مُوسَىٰ	ﱢ	موسى	Musa	mūsā
+4	23:45:4	w	وَأَخَاهُ	ﱣ	واخاه	and his brother	wa-akhāhu
+4	23:45:5	w	هَٰرُونَ	ﱤ	هارون	Harun	hārūna
+4	23:45:6	w	بِـَٔايَٰتِنَا	ﱥ	باياتنا	with Our Signs	biāyātinā
+4	23:45:7	w	وَسُلۡطَٰنٖ	ﱦ	وسلطان	and an authority	wasul'ṭānin
+4	23:45:8	w	مُّبِينٍ	ﱧ	مبين	clear	mubīnin
+4	23:45:9	e	٤٥	ﱨ			
+4	23:46:1	w	إِلَىٰ	ﱩ	الى	To	ilā
+4	23:46:2	w	فِرۡعَوۡنَ	ﱪ	فرعون	Firaun	fir'ʿawna
+4	23:46:3	w	وَمَلَإِيْهِۦ	ﱫ	ومليه	and his chiefs	wamala-ihi
+5	23:46:4	w	فَٱسۡتَكۡبَرُواْ	ﱬ	فاستكبروا	but they behaved arrogantly	fa-is'takbarū
+5	23:46:5	w	وَكَانُواْ	ﱭ	وكانوا	and they were	wakānū
+5	23:46:6	w	قَوۡمًا	ﱮ	قوما	a people	qawman
+5	23:46:7	w	عَالِينَ	ﱯ	عالين	haughty	ʿālīna
+5	23:46:8	e	٤٦	ﱰ			
+5	23:47:1	w	فَقَالُوٓاْ	ﱱ	فقالوا	Then they said	faqālū
+5	23:47:2	w	أَنُؤۡمِنُ	ﱲ	انومن	Shall we believe	anu'minu
+5	23:47:3	w	لِبَشَرَيۡنِ	ﱳ	لبشرين	(in) two men	libasharayni
+5	23:47:4	w	مِثۡلِنَا	ﱴ	مثلنا	like ourselves	mith'linā
+6	23:47:5	w	وَقَوۡمُهُمَا	ﱵ	وقومهما	while their people	waqawmuhumā
+6	23:47:6	w	لَنَا	ﱶ	لنا	for us	lanā
+6	23:47:7	w	عَٰبِدُونَ	ﱷ	عابدون	(are) slaves	ʿābidūna
+6	23:47:8	e	٤٧	ﱸ			
+6	23:48:1	w	فَكَذَّبُوهُمَا	ﱹ	فكذبوهما	So they denied them	fakadhabūhumā
+6	23:48:2	w	فَكَانُواْ	ﱺ	فكانوا	and they became	fakānū
+6	23:48:3	w	مِنَ	ﱻ	من	of	mina
+6	23:48:4	w	ٱلۡمُهۡلَكِينَ	ﱼ	المهلكين	those who were destroyed	l-muh'lakīna
+7	23:48:5	e	٤٨	ﱽ			
+7	23:49:1	w	وَلَقَدۡ	ﱾ	ولقد	And verily	walaqad
+7	23:49:2	w	ءَاتَيۡنَا	ﱿ	اتينا	We gave	ātaynā
+7	23:49:3	w	مُوسَى	ﲀ	موسى	Musa	mūsā
+7	23:49:4	w	ٱلۡكِتَٰبَ	ﲁ	الكتاب	the Scripture	l-kitāba
+7	23:49:5	w	لَعَلَّهُمۡ	ﲂ	لعلهم	so that they may	laʿallahum
+7	23:49:6	w	يَهۡتَدُونَ	ﲃ	يهتدون	be guided	yahtadūna
+7	23:49:7	e	٤٩	ﲄ			
+7	23:50:1	w	وَجَعَلۡنَا	ﲅ	وجعلنا	And We made	wajaʿalnā
+8	23:50:2	w	ٱبۡنَ	ﲆ	ابن	(the) son	ib'na
+8	23:50:3	w	مَرۡيَمَ	ﲇ	مريم	(of) Maryam	maryama
+8	23:50:4	w	وَأُمَّهُۥٓ	ﲈ	وامه	and his mother	wa-ummahu
+8	23:50:5	w	ءَايَةٗ	ﲉ	اية	a Sign	āyatan
+8	23:50:6	w	وَءَاوَيۡنَٰهُمَآ	ﲊ	واويناهما	and We sheltered them	waāwaynāhumā
+8	23:50:7	w	إِلَىٰ	ﲋ	الى	to	ilā
+8	23:50:8	w	رَبۡوَةٖ	ﲌ	ربوة	a high ground	rabwatin
+8	23:50:9	w	ذَاتِ	ﲍ	ذات	of tranquility	dhāti
+8	23:50:10	w	قَرَارٖ	ﲎ	قرار	of tranquility	qarārin
+8	23:50:11	w	وَمَعِينٖ	ﲏ	ومعين	and water springs	wamaʿīnin
+9	23:50:12	e	٥٠	ﲐ			
+9	23:51:1	w	يَٰٓأَيُّهَا	ﲑ	يا ايها	O Messengers	yāayyuhā
+9	23:51:2	w	ٱلرُّسُلُ	ﲒ	الرسل	O Messengers	l-rusulu
+9	23:51:3	w	كُلُواْ	ﲓ	كلوا	Eat	kulū
+9	23:51:4	w	مِنَ	ﲔ	من	of	mina
+9	23:51:5	w	ٱلطَّيِّبَٰتِ	ﲕ	الطيبات	the good things	l-ṭayibāti
+9	23:51:6	w	وَٱعۡمَلُواْ	ﲖ	واعملوا	and do	wa-iʿ'malū
+9	23:51:7	w	صَٰلِحًاۖ	ﲗﲘ	صالحا	righteous (deeds)	ṣāliḥan
+9	23:51:8	w	إِنِّي	ﲙ	اني	Indeed, I Am	innī
+9	23:51:9	w	بِمَا	ﲚ	بما	of what	bimā
+10	23:51:10	w	تَعۡمَلُونَ	ﲛ	تعملون	you do	taʿmalūna
+10	23:51:11	w	عَلِيمٞ	ﲜ	عليم	All-Knower	ʿalīmun
+10	23:51:12	e	٥١	ﲝ			
+10	23:52:1	w	وَإِنَّ	ﲞ	وان	And indeed	wa-inna
+10	23:52:2	w	هَٰذِهِۦٓ	ﲟ	هاذه	this	hādhihi
+10	23:52:3	w	أُمَّتُكُمۡ	ﲠ	امتكم	your religion	ummatukum
+10	23:52:4	w	أُمَّةٗ	ﲡ	امة	(is) religion	ummatan
+10	23:52:5	w	وَٰحِدَةٗ	ﲢ	واحدة	one	wāḥidatan
+10	23:52:6	w	وَأَنَا۠	ﲣ	وانا	And I Am	wa-anā
+10	23:52:7	w	رَبُّكُمۡ	ﲤ	ربكم	your Lord	rabbukum
+11	23:52:8	w	فَٱتَّقُونِ	ﲥ	فاتقون	so fear Me	fa-ittaqūni
+11	23:52:9	e	٥٢	ﲦ			
+11	23:53:1	w	فَتَقَطَّعُوٓاْ	ﲧ	فتقطعوا	But they cut off	fataqaṭṭaʿū
+11	23:53:2	w	أَمۡرَهُم	ﲨ	امرهم	their affair (of unity)	amrahum
+11	23:53:3	w	بَيۡنَهُمۡ	ﲩ	بينهم	between them	baynahum
+11	23:53:4	w	زُبُرٗاۖ	ﲪﲫ	زبرا	(into) sects	zuburan
+11	23:53:5	w	كُلُّ	ﲬ	كل	each	kullu
+11	23:53:6	w	حِزۡبِۭ	ﲭ	حزب	faction	ḥiz'bin
+11	23:53:7	w	بِمَا	ﲮ	بما	in what	bimā
+11	23:53:8	w	لَدَيۡهِمۡ	ﲯ	لديهم	they have	ladayhim
+12	23:53:9	w	فَرِحُونَ	ﲰ	فرحون	rejoicing	fariḥūna
+12	23:53:10	e	٥٣	ﲱ			
+12	23:54:1	w	فَذَرۡهُمۡ	ﲲ	فذرهم	So leave them	fadharhum
+12	23:54:2	w	فِي	ﲳ	في	in	fī
+12	23:54:3	w	غَمۡرَتِهِمۡ	ﲴ	غمرتهم	their confusion	ghamratihim
+12	23:54:4	w	حَتَّىٰ	ﲵ	حتى	until	ḥattā
+12	23:54:5	w	حِينٍ	ﲶ	حين	a time	ḥīnin
+12	23:54:6	e	٥٤	ﲷ			
+12	23:55:1	w	أَيَحۡسَبُونَ	ﲸ	ايحسبون	Do they think	ayaḥsabūna
+12	23:55:2	w	أَنَّمَا	ﲹ	انما	that what	annamā
+12	23:55:3	w	نُمِدُّهُم	ﲺ	نمدهم	We extend to them	numidduhum
+13	23:55:4	w	بِهِۦ	ﲻ	به	[with it]	bihi
+13	23:55:5	w	مِن	ﲼ	من	of	min
+13	23:55:6	w	مَّالٖ	ﲽ	مال	wealth	mālin
+13	23:55:7	w	وَبَنِينَ	ﲾ	وبنين	and children	wabanīna
+13	23:55:8	e	٥٥	ﲿ			
+13	23:56:1	w	نُسَارِعُ	ﳀ	نسارع	We hasten	nusāriʿu
+13	23:56:2	w	لَهُمۡ	ﳁ	لهم	to them	lahum
+13	23:56:3	w	فِي	ﳂ	في	in	fī
+13	23:56:4	w	ٱلۡخَيۡرَٰتِۚ	ﳃﳄ	الخيرات	the good	l-khayrāti
+13	23:56:5	w	بَل	ﳅ	بل	Nay	bal
+13	23:56:6	w	لَّا	ﳆ	لا	not	lā
+13	23:56:7	w	يَشۡعُرُونَ	ﳇ	يشعرون	they perceive	yashʿurūna
+14	23:56:8	e	٥٦	ﳈ			
+14	23:57:1	w	إِنَّ	ﳉ	ان	Indeed	inna
+14	23:57:2	w	ٱلَّذِينَ	ﳊ	الذين	those who	alladhīna
+14	23:57:3	w	هُم	ﳋ	هم	[they]	hum
+14	23:57:4	w	مِّنۡ	ﳌ	من	from	min
+14	23:57:5	w	خَشۡيَةِ	ﳍ	خشية	(the) fear	khashyati
+14	23:57:6	w	رَبِّهِم	ﳎ	ربهم	(of) their Lord	rabbihim
+14	23:57:7	w	مُّشۡفِقُونَ	ﳏ	مشفقون	(are) cautious	mush'fiqūna
+14	23:57:8	e	٥٧	ﳐ			
+14	23:58:1	w	وَٱلَّذِينَ	ﳑ	والذين	And those	wa-alladhīna
+14	23:58:2	w	هُم	ﳒ	هم	[they]	hum
+15	23:58:3	w	بِـَٔايَٰتِ	ﳓ	بايات	in (the) Signs	biāyāti
+15	23:58:4	w	رَبِّهِمۡ	ﳔ	ربهم	(of) their Lord	rabbihim
+15	23:58:5	w	يُؤۡمِنُونَ	ﳕ	يومنون	believe	yu'minūna
+15	23:58:6	e	٥٨	ﳖ			
+15	23:59:1	w	وَٱلَّذِينَ	ﳗ	والذين	And those	wa-alladhīna
+15	23:59:2	w	هُم	ﳘ	هم	[they]	hum
+15	23:59:3	w	بِرَبِّهِمۡ	ﳙ	بربهم	with their Lord	birabbihim
+15	23:59:4	w	لَا	ﳚ	لا	(do) not	lā
+15	23:59:5	w	يُشۡرِكُونَ	ﳛ	يشركون	associate partners	yush'rikūna
+15	23:59:6	e	٥٩	ﳜ			

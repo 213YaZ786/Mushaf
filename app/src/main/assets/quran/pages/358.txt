@@ -1,0 +1,121 @@
+1	24:59:1	w	وَإِذَا	ﱁ	واذا	And when	wa-idhā
+1	24:59:2	w	بَلَغَ	ﱂ	بلغ	reach	balagha
+1	24:59:3	w	ٱلۡأَطۡفَٰلُ	ﱃ	الاطفال	the children	l-aṭfālu
+1	24:59:4	w	مِنكُمُ	ﱄ	منكم	among you	minkumu
+1	24:59:5	w	ٱلۡحُلُمَ	ﱅ	الحلم	the puberty	l-ḥuluma
+1	24:59:6	w	فَلۡيَسۡتَـٔۡذِنُواْ	ﱆ	فليستاذنوا	then let them ask permission	falyastadhinū
+1	24:59:7	w	كَمَا	ﱇ	كما	as	kamā
+2	24:59:8	w	ٱسۡتَـٔۡذَنَ	ﱈ	استاذن	asked permission	is'tadhana
+2	24:59:9	w	ٱلَّذِينَ	ﱉ	الذين	those who	alladhīna
+2	24:59:10	w	مِن	ﱊ	من	(were) before them	min
+2	24:59:11	w	قَبۡلِهِمۡۚ	ﱋﱌ	قبلهم	(were) before them	qablihim
+2	24:59:12	w	كَذَٰلِكَ	ﱍ	كذالك	Thus	kadhālika
+2	24:59:13	w	يُبَيِّنُ	ﱎ	يبين	Allah makes clear	yubayyinu
+2	24:59:14	w	ٱللَّهُ	ﱏ	الله	Allah makes clear	l-lahu
+2	24:59:15	w	لَكُمۡ	ﱐ	لكم	for you	lakum
+3	24:59:16	w	ءَايَٰتِهِۦۗ	ﱑﱒ	اياته	His Verses	āyātihi
+3	24:59:17	w	وَٱللَّهُ	ﱓ	والله	And Allah	wal-lahu
+3	24:59:18	w	عَلِيمٌ	ﱔ	عليم	(is) All-Knower	ʿalīmun
+3	24:59:19	w	حَكِيمٞ	ﱕ	حكيم	All-Wise	ḥakīmun
+3	24:59:20	e	٥٩	ﱖ			
+3	24:60:1	w	وَٱلۡقَوَٰعِدُ	ﱗ	والقواعد	And postmenopausal	wal-qawāʿidu
+3	24:60:2	w	مِنَ	ﱘ	من	among	mina
+3	24:60:3	w	ٱلنِّسَآءِ	ﱙ	النساء	the women	l-nisāi
+4	24:60:4	w	ٱلَّٰتِي	ﱚ	اللاتي	who	allātī
+4	24:60:5	w	لَا	ﱛ	لا	(do) not	lā
+4	24:60:6	w	يَرۡجُونَ	ﱜ	يرجون	have desire	yarjūna
+4	24:60:7	w	نِكَاحٗا	ﱝ	نكاحا	(for) marriage	nikāḥan
+4	24:60:8	w	فَلَيۡسَ	ﱞ	فليس	then not is	falaysa
+4	24:60:9	w	عَلَيۡهِنَّ	ﱟ	عليهن	on them	ʿalayhinna
+4	24:60:10	w	جُنَاحٌ	ﱠ	جناح	any blame	junāḥun
+4	24:60:11	w	أَن	ﱡ	ان	that	an
+4	24:60:12	w	يَضَعۡنَ	ﱢ	يضعن	they put aside	yaḍaʿna
+5	24:60:13	w	ثِيَابَهُنَّ	ﱣ	ثيابهن	their (outer) garments	thiyābahunna
+5	24:60:14	w	غَيۡرَ	ﱤ	غير	not	ghayra
+5	24:60:15	w	مُتَبَرِّجَٰتِۭ	ﱥ	متبرجات	displaying	mutabarrijātin
+5	24:60:16	w	بِزِينَةٖۖ	ﱦﱧ	بزينة	their adornment	bizīnatin
+5	24:60:17	w	وَأَن	ﱨ	وان	And that	wa-an
+5	24:60:18	w	يَسۡتَعۡفِفۡنَ	ﱩ	يستعففن	they modestly refrain	yastaʿfif'na
+5	24:60:19	w	خَيۡرٞ	ﱪ	خير	(is) better	khayrun
+6	24:60:20	w	لَّهُنَّۗ	ﱫﱬ	لهن	for them	lahunna
+6	24:60:21	w	وَٱللَّهُ	ﱭ	والله	And Allah	wal-lahu
+6	24:60:22	w	سَمِيعٌ	ﱮ	سميع	(is) All-Hearer	samīʿun
+6	24:60:23	w	عَلِيمٞ	ﱯ	عليم	All-Knower	ʿalīmun
+6	24:60:24	e	٦٠	ﱰ			
+6	24:61:1	w	لَّيۡسَ	ﱱ	ليس	Not is	laysa
+6	24:61:2	w	عَلَى	ﱲ	على	on	ʿalā
+6	24:61:3	w	ٱلۡأَعۡمَىٰ	ﱳ	الاعمى	the blind	l-aʿmā
+6	24:61:4	w	حَرَجٞ	ﱴ	حرج	any blame	ḥarajun
+6	24:61:5	w	وَلَا	ﱵ	ولا	and not	walā
+7	24:61:6	w	عَلَى	ﱶ	على	on	ʿalā
+7	24:61:7	w	ٱلۡأَعۡرَجِ	ﱷ	الاعرج	the lame	l-aʿraji
+7	24:61:8	w	حَرَجٞ	ﱸ	حرج	any blame	ḥarajun
+7	24:61:9	w	وَلَا	ﱹ	ولا	and not	walā
+7	24:61:10	w	عَلَى	ﱺ	على	on	ʿalā
+7	24:61:11	w	ٱلۡمَرِيضِ	ﱻ	المريض	the sick	l-marīḍi
+7	24:61:12	w	حَرَجٞ	ﱼ	حرج	any blame	ḥarajun
+7	24:61:13	w	وَلَا	ﱽ	ولا	and not	walā
+7	24:61:14	w	عَلَىٰٓ	ﱾ	على	on	ʿalā
+7	24:61:15	w	أَنفُسِكُمۡ	ﱿ	انفسكم	yourselves	anfusikum
+8	24:61:16	w	أَن	ﲀ	ان	that	an
+8	24:61:17	w	تَأۡكُلُواْ	ﲁ	تاكلوا	you eat	takulū
+8	24:61:18	w	مِنۢ	ﲂ	من	from	min
+8	24:61:19	w	بُيُوتِكُمۡ	ﲃ	بيوتكم	your houses	buyūtikum
+8	24:61:20	w	أَوۡ	ﲄ	او	or	aw
+8	24:61:21	w	بُيُوتِ	ﲅ	بيوت	houses	buyūti
+8	24:61:22	w	ءَابَآئِكُمۡ	ﲆ	ابايكم	(of) your fathers	ābāikum
+8	24:61:23	w	أَوۡ	ﲇ	او	or	aw
+8	24:61:24	w	بُيُوتِ	ﲈ	بيوت	houses	buyūti
+9	24:61:25	w	أُمَّهَٰتِكُمۡ	ﲉ	امهاتكم	(of) your mothers	ummahātikum
+9	24:61:26	w	أَوۡ	ﲊ	او	or	aw
+9	24:61:27	w	بُيُوتِ	ﲋ	بيوت	houses	buyūti
+9	24:61:28	w	إِخۡوَٰنِكُمۡ	ﲌ	اخوانكم	(of) your brothers	ikh'wānikum
+9	24:61:29	w	أَوۡ	ﲍ	او	or	aw
+9	24:61:30	w	بُيُوتِ	ﲎ	بيوت	houses	buyūti
+9	24:61:31	w	أَخَوَٰتِكُمۡ	ﲏ	اخواتكم	(of) your sisters	akhawātikum
+10	24:61:32	w	أَوۡ	ﲐ	او	or	aw
+10	24:61:33	w	بُيُوتِ	ﲑ	بيوت	houses	buyūti
+10	24:61:34	w	أَعۡمَٰمِكُمۡ	ﲒ	اعمامكم	(of) your paternal uncles	aʿmāmikum
+10	24:61:35	w	أَوۡ	ﲓ	او	or	aw
+10	24:61:36	w	بُيُوتِ	ﲔ	بيوت	houses	buyūti
+10	24:61:37	w	عَمَّٰتِكُمۡ	ﲕ	عماتكم	(of) your paternal aunts	ʿammātikum
+10	24:61:38	w	أَوۡ	ﲖ	او	or	aw
+10	24:61:39	w	بُيُوتِ	ﲗ	بيوت	houses	buyūti
+11	24:61:40	w	أَخۡوَٰلِكُمۡ	ﲘ	اخوالكم	(of) your maternal uncles	akhwālikum
+11	24:61:41	w	أَوۡ	ﲙ	او	or	aw
+11	24:61:42	w	بُيُوتِ	ﲚ	بيوت	houses	buyūti
+11	24:61:43	w	خَٰلَٰتِكُمۡ	ﲛ	خالاتكم	(of) your maternal aunts	khālātikum
+11	24:61:44	w	أَوۡ	ﲜ	او	or	aw
+11	24:61:45	w	مَا	ﲝ	ما	what	mā
+11	24:61:46	w	مَلَكۡتُم	ﲞ	ملكتم	you possess	malaktum
+12	24:61:47	w	مَّفَاتِحَهُۥٓ	ﲟ	مفاتحه	its keys	mafātiḥahu
+12	24:61:48	w	أَوۡ	ﲠ	او	or	aw
+12	24:61:49	w	صَدِيقِكُمۡۚ	ﲡﲢ	صديقكم	your friend	ṣadīqikum
+12	24:61:50	w	لَيۡسَ	ﲣ	ليس	Not is	laysa
+12	24:61:51	w	عَلَيۡكُمۡ	ﲤ	عليكم	on you	ʿalaykum
+12	24:61:52	w	جُنَاحٌ	ﲥ	جناح	any blame	junāḥun
+12	24:61:53	w	أَن	ﲦ	ان	that	an
+13	24:61:54	w	تَأۡكُلُواْ	ﲧ	تاكلوا	you eat	takulū
+13	24:61:55	w	جَمِيعًا	ﲨ	جميعا	together	jamīʿan
+13	24:61:56	w	أَوۡ	ﲩ	او	or	aw
+13	24:61:57	w	أَشۡتَاتٗاۚ	ﲪﲫ	اشتاتا	separately	ashtātan
+13	24:61:58	w	فَإِذَا	ﲬ	فاذا	But when	fa-idhā
+13	24:61:59	w	دَخَلۡتُم	ﲭ	دخلتم	you enter	dakhaltum
+13	24:61:60	w	بُيُوتٗا	ﲮ	بيوتا	houses	buyūtan
+13	24:61:61	w	فَسَلِّمُواْ	ﲯ	فسلموا	then greet	fasallimū
+14	24:61:62	w	عَلَىٰٓ	ﲰ	على	[on]	ʿalā
+14	24:61:63	w	أَنفُسِكُمۡ	ﲱ	انفسكم	yourselves	anfusikum
+14	24:61:64	w	تَحِيَّةٗ	ﲲ	تحية	a greeting	taḥiyyatan
+14	24:61:65	w	مِّنۡ	ﲳ	من	from	min
+14	24:61:66	w	عِندِ	ﲴ	عند	from	ʿindi
+14	24:61:67	w	ٱللَّهِ	ﲵ	الله	Allah	l-lahi
+14	24:61:68	w	مُبَٰرَكَةٗ	ﲶ	مباركة	blessed	mubārakatan
+14	24:61:69	w	طَيِّبَةٗۚ	ﲷﲸ	طيبة	(and) good	ṭayyibatan
+14	24:61:70	w	كَذَٰلِكَ	ﲹ	كذالك	Thus	kadhālika
+15	24:61:71	w	يُبَيِّنُ	ﲺ	يبين	Allah makes clear	yubayyinu
+15	24:61:72	w	ٱللَّهُ	ﲻ	الله	Allah makes clear	l-lahu
+15	24:61:73	w	لَكُمُ	ﲼ	لكم	for you	lakumu
+15	24:61:74	w	ٱلۡأٓيَٰتِ	ﲽ	الايات	the Verses	l-āyāti
+15	24:61:75	w	لَعَلَّكُمۡ	ﲾ	لعلكم	so that you may	laʿallakum
+15	24:61:76	w	تَعۡقِلُونَ	ﲿ	تعقلون	understand	taʿqilūna
+15	24:61:77	e	٦١	ﳀ			

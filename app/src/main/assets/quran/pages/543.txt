@@ -1,0 +1,156 @@
+1	58:7:1	w	أَلَمۡ	ﱁ	الم	Do not	alam
+1	58:7:2	w	تَرَ	ﱂ	تر	you see	tara
+1	58:7:3	w	أَنَّ	ﱃ	ان	that	anna
+1	58:7:4	w	ٱللَّهَ	ﱄ	الله	Allah	l-laha
+1	58:7:5	w	يَعۡلَمُ	ﱅ	يعلم	knows	yaʿlamu
+1	58:7:6	w	مَا	ﱆ	ما	whatever	mā
+1	58:7:7	w	فِي	ﱇ	في	(is) in	fī
+1	58:7:8	w	ٱلسَّمَٰوَٰتِ	ﱈ	السماوات	the heavens	l-samāwāti
+1	58:7:9	w	وَمَا	ﱉ	وما	and whatever	wamā
+1	58:7:10	w	فِي	ﱊ	في	(is) in	fī
+1	58:7:11	w	ٱلۡأَرۡضِۖ	ﱋﱌ	الارض	the earth	l-arḍi
+1	58:7:12	w	مَا	ﱍ	ما	Not	mā
+1	58:7:13	w	يَكُونُ	ﱎ	يكون	there is	yakūnu
+1	58:7:14	w	مِن	ﱏ	من	any	min
+2	58:7:15	w	نَّجۡوَىٰ	ﱐ	نجوى	secret counsel	najwā
+2	58:7:16	w	ثَلَٰثَةٍ	ﱑ	ثلاثة	(of) three	thalāthatin
+2	58:7:17	w	إِلَّا	ﱒ	الا	but	illā
+2	58:7:18	w	هُوَ	ﱓ	هو	He (is)	huwa
+2	58:7:19	w	رَابِعُهُمۡ	ﱔ	رابعهم	(the) fourth of them	rābiʿuhum
+2	58:7:20	w	وَلَا	ﱕ	ولا	and not	walā
+2	58:7:21	w	خَمۡسَةٍ	ﱖ	خمسة	five	khamsatin
+2	58:7:22	w	إِلَّا	ﱗ	الا	but	illā
+2	58:7:23	w	هُوَ	ﱘ	هو	He (is)	huwa
+2	58:7:24	w	سَادِسُهُمۡ	ﱙ	سادسهم	(the) sixth of them	sādisuhum
+2	58:7:25	w	وَلَآ	ﱚ	ولا	and not	walā
+2	58:7:26	w	أَدۡنَىٰ	ﱛ	ادنى	less	adnā
+3	58:7:27	w	مِن	ﱜ	من	than	min
+3	58:7:28	w	ذَٰلِكَ	ﱝ	ذالك	that	dhālika
+3	58:7:29	w	وَلَآ	ﱞ	ولا	and not	walā
+3	58:7:30	w	أَكۡثَرَ	ﱟ	اكثر	more	akthara
+3	58:7:31	w	إِلَّا	ﱠ	الا	but	illā
+3	58:7:32	w	هُوَ	ﱡ	هو	He	huwa
+3	58:7:33	w	مَعَهُمۡ	ﱢ	معهم	(is) with them	maʿahum
+3	58:7:34	w	أَيۡنَ	ﱣ	اين	wherever	ayna
+3	58:7:35	w	مَا	ﱤ	ما	wherever	mā
+3	58:7:36	w	كَانُواْۖ	ﱥﱦ	كانوا	they are	kānū
+3	58:7:37	w	ثُمَّ	ﱧ	ثم	Then	thumma
+3	58:7:38	w	يُنَبِّئُهُم	ﱨ	ينبيهم	He will inform them	yunabbi-uhum
+3	58:7:39	w	بِمَا	ﱩ	بما	of what	bimā
+4	58:7:40	w	عَمِلُواْ	ﱪ	عملوا	they did	ʿamilū
+4	58:7:41	w	يَوۡمَ	ﱫ	يوم	(on the) Day	yawma
+4	58:7:42	w	ٱلۡقِيَٰمَةِۚ	ﱬﱭ	القيامة	(of) the Resurrection	l-qiyāmati
+4	58:7:43	w	إِنَّ	ﱮ	ان	Indeed	inna
+4	58:7:44	w	ٱللَّهَ	ﱯ	الله	Allah	l-laha
+4	58:7:45	w	بِكُلِّ	ﱰ	بكل	of every	bikulli
+4	58:7:46	w	شَيۡءٍ	ﱱ	شيء	thing	shayin
+4	58:7:47	w	عَلِيمٌ	ﱲ	عليم	(is) All-Knower	ʿalīmun
+4	58:7:48	e	٧	ﱳ			
+4	58:8:1	w	أَلَمۡ	ﱴ	الم	Do not	alam
+4	58:8:2	w	تَرَ	ﱵ	تر	you see	tara
+4	58:8:3	w	إِلَى	ﱶ	الى	[to]	ilā
+4	58:8:4	w	ٱلَّذِينَ	ﱷ	الذين	those who	alladhīna
+5	58:8:5	w	نُهُواْ	ﱸ	نهوا	were forbidden	nuhū
+5	58:8:6	w	عَنِ	ﱹ	عن	from	ʿani
+5	58:8:7	w	ٱلنَّجۡوَىٰ	ﱺ	النجوى	secret counsels	l-najwā
+5	58:8:8	w	ثُمَّ	ﱻ	ثم	then	thumma
+5	58:8:9	w	يَعُودُونَ	ﱼ	يعودون	they return	yaʿūdūna
+5	58:8:10	w	لِمَا	ﱽ	لما	to what	limā
+5	58:8:11	w	نُهُواْ	ﱾ	نهوا	they were forbidden	nuhū
+5	58:8:12	w	عَنۡهُ	ﱿ	عنه	from [it]	ʿanhu
+5	58:8:13	w	وَيَتَنَٰجَوۡنَ	ﲀ	ويتناجون	and they hold secret counsels	wayatanājawna
+5	58:8:14	w	بِٱلۡإِثۡمِ	ﲁ	بالاثم	for sin	bil-ith'mi
+6	58:8:15	w	وَٱلۡعُدۡوَٰنِ	ﲂ	والعدوان	and aggression	wal-ʿud'wāni
+6	58:8:16	w	وَمَعۡصِيَتِ	ﲃ	ومعصيت	and disobedience	wamaʿṣiyati
+6	58:8:17	w	ٱلرَّسُولِۖ	ﲄﲅ	الرسول	(to) the Messenger	l-rasūli
+6	58:8:18	w	وَإِذَا	ﲆ	واذا	And when	wa-idhā
+6	58:8:19	w	جَآءُوكَ	ﲇ	جاءوك	they come to you	jāūka
+6	58:8:20	w	حَيَّوۡكَ	ﲈ	حيوك	they greet you	ḥayyawka
+6	58:8:21	w	بِمَا	ﲉ	بما	with what	bimā
+6	58:8:22	w	لَمۡ	ﲊ	لم	not	lam
+6	58:8:23	w	يُحَيِّكَ	ﲋ	يحيك	greets you	yuḥayyika
+7	58:8:24	w	بِهِ	ﲌ	به	therewith	bihi
+7	58:8:25	w	ٱللَّهُ	ﲍ	الله	Allah	l-lahu
+7	58:8:26	w	وَيَقُولُونَ	ﲎ	ويقولون	and they say	wayaqūlūna
+7	58:8:27	w	فِيٓ	ﲏ	في	among	fī
+7	58:8:28	w	أَنفُسِهِمۡ	ﲐ	انفسهم	themselves	anfusihim
+7	58:8:29	w	لَوۡلَا	ﲑ	لولا	Why (does) not	lawlā
+7	58:8:30	w	يُعَذِّبُنَا	ﲒ	يعذبنا	Allah punish us	yuʿadhibunā
+7	58:8:31	w	ٱللَّهُ	ﲓ	الله	Allah punish us	l-lahu
+7	58:8:32	w	بِمَا	ﲔ	بما	for what	bimā
+7	58:8:33	w	نَقُولُۚ	ﲕﲖ	نقول	we say	naqūlu
+7	58:8:34	w	حَسۡبُهُمۡ	ﲗ	حسبهم	Sufficient (for) them	ḥasbuhum
+8	58:8:35	w	جَهَنَّمُ	ﲘ	جهنم	(is) Hell	jahannamu
+8	58:8:36	w	يَصۡلَوۡنَهَاۖ	ﲙﲚ	يصلونها	they will burn in it	yaṣlawnahā
+8	58:8:37	w	فَبِئۡسَ	ﲛ	فبيس	and worst is	fabi'sa
+8	58:8:38	w	ٱلۡمَصِيرُ	ﲜ	المصير	the destination	l-maṣīru
+8	58:8:39	e	٨	ﲝ			
+8	58:9:1	w	يَٰٓأَيُّهَا	ﲞ	يا ايها	O you who believe	yāayyuhā
+8	58:9:2	w	ٱلَّذِينَ	ﲟ	الذين	O you who believe	alladhīna
+8	58:9:3	w	ءَامَنُوٓاْ	ﲠ	امنوا	O you who believe	āmanū
+8	58:9:4	w	إِذَا	ﲡ	اذا	When	idhā
+9	58:9:5	w	تَنَٰجَيۡتُمۡ	ﲢ	تناجيتم	you hold secret counsel	tanājaytum
+9	58:9:6	w	فَلَا	ﲣ	فلا	then (do) not	falā
+9	58:9:7	w	تَتَنَٰجَوۡاْ	ﲤ	تتناجوا	hold secret counsel	tatanājaw
+9	58:9:8	w	بِٱلۡإِثۡمِ	ﲥ	بالاثم	for sin	bil-ith'mi
+9	58:9:9	w	وَٱلۡعُدۡوَٰنِ	ﲦ	والعدوان	and aggression	wal-ʿud'wāni
+9	58:9:10	w	وَمَعۡصِيَتِ	ﲧ	ومعصيت	and disobedience	wamaʿṣiyati
+9	58:9:11	w	ٱلرَّسُولِ	ﲨ	الرسول	(to) the Messenger	l-rasūli
+10	58:9:12	w	وَتَنَٰجَوۡاْ	ﲩ	وتناجوا	but hold secret counsel	watanājaw
+10	58:9:13	w	بِٱلۡبِرِّ	ﲪ	بالبر	for righteousness	bil-biri
+10	58:9:14	w	وَٱلتَّقۡوَىٰۖ	ﲫﲬ	والتقوى	and piety	wal-taqwā
+10	58:9:15	w	وَٱتَّقُواْ	ﲭ	واتقوا	And fear	wa-ittaqū
+10	58:9:16	w	ٱللَّهَ	ﲮ	الله	Allah	l-laha
+10	58:9:17	w	ٱلَّذِيٓ	ﲯ	الذي	the One Who	alladhī
+10	58:9:18	w	إِلَيۡهِ	ﲰ	اليه	to Him	ilayhi
+10	58:9:19	w	تُحۡشَرُونَ	ﲱ	تحشرون	you will be gathered	tuḥ'sharūna
+10	58:9:20	e	٩	ﲲ			
+10	58:10:1	w	إِنَّمَا	ﲳ	انما	Only	innamā
+11	58:10:2	w	ٱلنَّجۡوَىٰ	ﲴ	النجوى	the secret counsels	l-najwā
+11	58:10:3	w	مِنَ	ﲵ	من	(are) from	mina
+11	58:10:4	w	ٱلشَّيۡطَٰنِ	ﲶ	الشيطان	the Shaitaan	l-shayṭāni
+11	58:10:5	w	لِيَحۡزُنَ	ﲷ	ليحزن	that he may grieve	liyaḥzuna
+11	58:10:6	w	ٱلَّذِينَ	ﲸ	الذين	those who	alladhīna
+11	58:10:7	w	ءَامَنُواْ	ﲹ	امنوا	believe	āmanū
+11	58:10:8	w	وَلَيۡسَ	ﲺ	وليس	but not	walaysa
+11	58:10:9	w	بِضَآرِّهِمۡ	ﲻ	بضارهم	he (can) harm them	biḍārrihim
+12	58:10:10	w	شَيۡـًٔا	ﲼ	شييا	(in) anything	shayan
+12	58:10:11	w	إِلَّا	ﲽ	الا	except	illā
+12	58:10:12	w	بِإِذۡنِ	ﲾ	باذن	by Allah's permission	bi-idh'ni
+12	58:10:13	w	ٱللَّهِۚ	ﲿﳀ	الله	by Allah's permission	l-lahi
+12	58:10:14	w	وَعَلَى	ﳁ	وعلى	And upon	waʿalā
+12	58:10:15	w	ٱللَّهِ	ﳂ	الله	Allah	l-lahi
+12	58:10:16	w	فَلۡيَتَوَكَّلِ	ﳃ	فليتوكل	let put (their) trust	falyatawakkali
+12	58:10:17	w	ٱلۡمُؤۡمِنُونَ	ﳄ	المومنون	the believers	l-mu'minūna
+12	58:10:18	e	١٠	ﳅ			
+12	58:11:1	w	يَٰٓأَيُّهَا	ﳆ	يا ايها	O you who believe	yāayyuhā
+13	58:11:2	w	ٱلَّذِينَ	ﳇ	الذين	O you who believe	alladhīna
+13	58:11:3	w	ءَامَنُوٓاْ	ﳈ	امنوا	O you who believe	āmanū
+13	58:11:4	w	إِذَا	ﳉ	اذا	When	idhā
+13	58:11:5	w	قِيلَ	ﳊ	قيل	it is said	qīla
+13	58:11:6	w	لَكُمۡ	ﳋ	لكم	to you	lakum
+13	58:11:7	w	تَفَسَّحُواْ	ﳌ	تفسحوا	Make room	tafassaḥū
+13	58:11:8	w	فِي	ﳍ	في	in	fī
+13	58:11:9	w	ٱلۡمَجَٰلِسِ	ﳎ	المجالس	the assemblies	l-majālisi
+13	58:11:10	w	فَٱفۡسَحُواْ	ﳏ	فافسحوا	then make room	fa-if'saḥū
+13	58:11:11	w	يَفۡسَحِ	ﳐ	يفسح	Allah will make room	yafsaḥi
+14	58:11:12	w	ٱللَّهُ	ﳑ	الله	Allah will make room	l-lahu
+14	58:11:13	w	لَكُمۡۖ	ﳒﳓ	لكم	for you	lakum
+14	58:11:14	w	وَإِذَا	ﳔ	واذا	And when	wa-idhā
+14	58:11:15	w	قِيلَ	ﳕ	قيل	it is said	qīla
+14	58:11:16	w	ٱنشُزُواْ	ﳖ	انشزوا	Rise up	unshuzū
+14	58:11:17	w	فَٱنشُزُواْ	ﳗ	فانشزوا	then rise up	fa-unshuzū
+14	58:11:18	w	يَرۡفَعِ	ﳘ	يرفع	Allah will raise	yarfaʿi
+14	58:11:19	w	ٱللَّهُ	ﳙ	الله	Allah will raise	l-lahu
+14	58:11:20	w	ٱلَّذِينَ	ﳚ	الذين	those who	alladhīna
+14	58:11:21	w	ءَامَنُواْ	ﳛ	امنوا	believe	āmanū
+14	58:11:22	w	مِنكُمۡ	ﳜ	منكم	among you	minkum
+15	58:11:23	w	وَٱلَّذِينَ	ﳝ	والذين	and those who	wa-alladhīna
+15	58:11:24	w	أُوتُواْ	ﳞ	اوتوا	were given	ūtū
+15	58:11:25	w	ٱلۡعِلۡمَ	ﳟ	العلم	the knowledge	l-ʿil'ma
+15	58:11:26	w	دَرَجَٰتٖۚ	ﳠﳡ	درجات	(in) degrees	darajātin
+15	58:11:27	w	وَٱللَّهُ	ﳢ	والله	And Allah	wal-lahu
+15	58:11:28	w	بِمَا	ﳣ	بما	of what	bimā
+15	58:11:29	w	تَعۡمَلُونَ	ﳤ	تعملون	you do	taʿmalūna
+15	58:11:30	w	خَبِيرٞ	ﳥ	خبير	(is) All-Aware	khabīrun
+15	58:11:31	e	١١	ﳦ			

@@ -1,0 +1,143 @@
+1	22:65:1	w	أَلَمۡ	ﱁ	الم	Do not	alam
+1	22:65:2	w	تَرَ	ﱂ	تر	you see	tara
+1	22:65:3	w	أَنَّ	ﱃ	ان	that	anna
+1	22:65:4	w	ٱللَّهَ	ﱄ	الله	Allah	l-laha
+1	22:65:5	w	سَخَّرَ	ﱅ	سخر	(has) subjected	sakhara
+1	22:65:6	w	لَكُم	ﱆ	لكم	to you	lakum
+1	22:65:7	w	مَّا	ﱇ	ما	what	mā
+1	22:65:8	w	فِي	ﱈ	في	(is) in	fī
+1	22:65:9	w	ٱلۡأَرۡضِ	ﱉ	الارض	the earth	l-arḍi
+1	22:65:10	w	وَٱلۡفُلۡكَ	ﱊ	والفلك	and the ships	wal-ful'ka
+1	22:65:11	w	تَجۡرِي	ﱋ	تجري	that sail	tajrī
+2	22:65:12	w	فِي	ﱌ	في	through	fī
+2	22:65:13	w	ٱلۡبَحۡرِ	ﱍ	البحر	the sea	l-baḥri
+2	22:65:14	w	بِأَمۡرِهِۦ	ﱎ	بامره	by His Command	bi-amrihi
+2	22:65:15	w	وَيُمۡسِكُ	ﱏ	ويمسك	And He withholds	wayum'siku
+2	22:65:16	w	ٱلسَّمَآءَ	ﱐ	السماء	the sky	l-samāa
+2	22:65:17	w	أَن	ﱑ	ان	lest	an
+2	22:65:18	w	تَقَعَ	ﱒ	تقع	it falls	taqaʿa
+2	22:65:19	w	عَلَى	ﱓ	على	on	ʿalā
+2	22:65:20	w	ٱلۡأَرۡضِ	ﱔ	الارض	the earth	l-arḍi
+2	22:65:21	w	إِلَّا	ﱕ	الا	except	illā
+3	22:65:22	w	بِإِذۡنِهِۦٓۚ	ﱖﱗ	باذنه	by His permission	bi-idh'nihi
+3	22:65:23	w	إِنَّ	ﱘ	ان	Indeed	inna
+3	22:65:24	w	ٱللَّهَ	ﱙ	الله	Allah	l-laha
+3	22:65:25	w	بِٱلنَّاسِ	ﱚ	بالناس	to mankind	bil-nāsi
+3	22:65:26	w	لَرَءُوفٞ	ﱛ	لرءوف	(is) Full of Kindness	laraūfun
+3	22:65:27	w	رَّحِيمٞ	ﱜ	رحيم	Most Merciful	raḥīmun
+3	22:65:28	e	٦٥	ﱝ			
+3	22:66:1	w	وَهُوَ	ﱞ	وهو	And He	wahuwa
+3	22:66:2	w	ٱلَّذِيٓ	ﱟ	الذي	(is) the One Who	alladhī
+4	22:66:3	w	أَحۡيَاكُمۡ	ﱠ	احياكم	gave you life	aḥyākum
+4	22:66:4	w	ثُمَّ	ﱡ	ثم	then	thumma
+4	22:66:5	w	يُمِيتُكُمۡ	ﱢ	يميتكم	He will cause you to die	yumītukum
+4	22:66:6	w	ثُمَّ	ﱣ	ثم	then	thumma
+4	22:66:7	w	يُحۡيِيكُمۡۗ	ﱤﱥ	يحييكم	He will give you life (again)	yuḥ'yīkum
+4	22:66:8	w	إِنَّ	ﱦ	ان	Indeed	inna
+4	22:66:9	w	ٱلۡإِنسَٰنَ	ﱧ	الانسان	man	l-insāna
+4	22:66:10	w	لَكَفُورٞ	ﱨ	لكفور	(is) surely ungrateful	lakafūrun
+4	22:66:11	e	٦٦	ﱩ			
+5	22:67:1	w	لِّكُلِّ	ﱪ	لكل	For every	likulli
+5	22:67:2	w	أُمَّةٖ	ﱫ	امة	nation	ummatin
+5	22:67:3	w	جَعَلۡنَا	ﱬ	جعلنا	We have made	jaʿalnā
+5	22:67:4	w	مَنسَكًا	ﱭ	منسكا	rite(s)	mansakan
+5	22:67:5	w	هُمۡ	ﱮ	هم	they	hum
+5	22:67:6	w	نَاسِكُوهُۖ	ﱯﱰ	ناسكوه	perform it	nāsikūhu
+5	22:67:7	w	فَلَا	ﱱ	فلا	So let them not dispute with you	falā
+5	22:67:8	w	يُنَٰزِعُنَّكَ	ﱲ	ينازعنك	So let them not dispute with you	yunāziʿunnaka
+6	22:67:9	w	فِي	ﱳ	في	in	fī
+6	22:67:10	w	ٱلۡأَمۡرِۚ	ﱴﱵ	الامر	the matter	l-amri
+6	22:67:11	w	وَٱدۡعُ	ﱶ	وادع	but invite (them)	wa-ud'ʿu
+6	22:67:12	w	إِلَىٰ	ﱷ	الى	to	ilā
+6	22:67:13	w	رَبِّكَۖ	ﱸﱹ	ربك	your Lord	rabbika
+6	22:67:14	w	إِنَّكَ	ﱺ	انك	Indeed, you	innaka
+6	22:67:15	w	لَعَلَىٰ	ﱻ	لعلى	(are) surely on	laʿalā
+6	22:67:16	w	هُدٗى	ﱼ	هدى	guidance	hudan
+6	22:67:17	w	مُّسۡتَقِيمٖ	ﱽ	مستقيم	straight	mus'taqīmin
+6	22:67:18	e	٦٧	ﱾ			
+7	22:68:1	w	وَإِن	ﱿ	وان	And if	wa-in
+7	22:68:2	w	جَٰدَلُوكَ	ﲀ	جادلوك	they argue (with) you	jādalūka
+7	22:68:3	w	فَقُلِ	ﲁ	فقل	then say	faquli
+7	22:68:4	w	ٱللَّهُ	ﲂ	الله	Allah	l-lahu
+7	22:68:5	w	أَعۡلَمُ	ﲃ	اعلم	(is) most knowing	aʿlamu
+7	22:68:6	w	بِمَا	ﲄ	بما	of what	bimā
+7	22:68:7	w	تَعۡمَلُونَ	ﲅ	تعملون	you do	taʿmalūna
+7	22:68:8	e	٦٨	ﲆ			
+7	22:69:1	w	ٱللَّهُ	ﲇ	الله	Allah	al-lahu
+7	22:69:2	w	يَحۡكُمُ	ﲈ	يحكم	will judge	yaḥkumu
+8	22:69:3	w	بَيۡنَكُمۡ	ﲉ	بينكم	between you	baynakum
+8	22:69:4	w	يَوۡمَ	ﲊ	يوم	(on the) Day	yawma
+8	22:69:5	w	ٱلۡقِيَٰمَةِ	ﲋ	القيامة	(of) the Resurrection	l-qiyāmati
+8	22:69:6	w	فِيمَا	ﲌ	فيما	concerning what	fīmā
+8	22:69:7	w	كُنتُمۡ	ﲍ	كنتم	you used (to)	kuntum
+8	22:69:8	w	فِيهِ	ﲎ	فيه	in it	fīhi
+8	22:69:9	w	تَخۡتَلِفُونَ	ﲏ	تختلفون	differ	takhtalifūna
+8	22:69:10	e	٦٩	ﲐ			
+9	22:70:1	w	أَلَمۡ	ﲑ	الم	Do not	alam
+9	22:70:2	w	تَعۡلَمۡ	ﲒ	تعلم	you know	taʿlam
+9	22:70:3	w	أَنَّ	ﲓ	ان	that	anna
+9	22:70:4	w	ٱللَّهَ	ﲔ	الله	Allah	l-laha
+9	22:70:5	w	يَعۡلَمُ	ﲕ	يعلم	knows	yaʿlamu
+9	22:70:6	w	مَا	ﲖ	ما	what	mā
+9	22:70:7	w	فِي	ﲗ	في	(is) in	fī
+9	22:70:8	w	ٱلسَّمَآءِ	ﲘ	السماء	the heaven	l-samāi
+9	22:70:9	w	وَٱلۡأَرۡضِۚ	ﲙﲚ	والارض	and the earth	wal-arḍi
+9	22:70:10	w	إِنَّ	ﲛ	ان	Indeed	inna
+10	22:70:11	w	ذَٰلِكَ	ﲜ	ذالك	that	dhālika
+10	22:70:12	w	فِي	ﲝ	في	(is) in	fī
+10	22:70:13	w	كِتَٰبٍۚ	ﲞﲟ	كتاب	a Record	kitābin
+10	22:70:14	w	إِنَّ	ﲠ	ان	indeed	inna
+10	22:70:15	w	ذَٰلِكَ	ﲡ	ذالك	that	dhālika
+10	22:70:16	w	عَلَى	ﲢ	على	(is) for	ʿalā
+10	22:70:17	w	ٱللَّهِ	ﲣ	الله	Allah	l-lahi
+10	22:70:18	w	يَسِيرٞ	ﲤ	يسير	easy	yasīrun
+10	22:70:19	e	٧٠	ﲥ			
+10	22:71:1	w	وَيَعۡبُدُونَ	ﲦ	ويعبدون	And they worship	wayaʿbudūna
+11	22:71:2	w	مِن	ﲧ	من	besides Allah	min
+11	22:71:3	w	دُونِ	ﲨ	دون	besides Allah	dūni
+11	22:71:4	w	ٱللَّهِ	ﲩ	الله	besides Allah	l-lahi
+11	22:71:5	w	مَا	ﲪ	ما	what	mā
+11	22:71:6	w	لَمۡ	ﲫ	لم	not	lam
+11	22:71:7	w	يُنَزِّلۡ	ﲬ	ينزل	He (has) sent down	yunazzil
+11	22:71:8	w	بِهِۦ	ﲭ	به	for it	bihi
+11	22:71:9	w	سُلۡطَٰنٗا	ﲮ	سلطانا	any authority	sul'ṭānan
+11	22:71:10	w	وَمَا	ﲯ	وما	and what	wamā
+11	22:71:11	w	لَيۡسَ	ﲰ	ليس	not	laysa
+11	22:71:12	w	لَهُم	ﲱ	لهم	they have	lahum
+11	22:71:13	w	بِهِۦ	ﲲ	به	of it	bihi
+12	22:71:14	w	عِلۡمٞۗ	ﲳﲴ	علم	any knowledge	ʿil'mun
+12	22:71:15	w	وَمَا	ﲵ	وما	And not	wamā
+12	22:71:16	w	لِلظَّٰلِمِينَ	ﲶ	للظالمين	(will be) for the wrongdoers	lilẓẓālimīna
+12	22:71:17	w	مِن	ﲷ	من	any	min
+12	22:71:18	w	نَّصِيرٖ	ﲸ	نصير	helper	naṣīrin
+12	22:71:19	e	٧١	ﲹ			
+12	22:72:1	w	وَإِذَا	ﲺ	واذا	And when	wa-idhā
+12	22:72:2	w	تُتۡلَىٰ	ﲻ	تتلى	are recited	tut'lā
+12	22:72:3	w	عَلَيۡهِمۡ	ﲼ	عليهم	to them	ʿalayhim
+12	22:72:4	w	ءَايَٰتُنَا	ﲽ	اياتنا	Our Verses	āyātunā
+13	22:72:5	w	بَيِّنَٰتٖ	ﲾ	بينات	clear	bayyinātin
+13	22:72:6	w	تَعۡرِفُ	ﲿ	تعرف	you will recognize	taʿrifu
+13	22:72:7	w	فِي	ﳀ	في	on	fī
+13	22:72:8	w	وُجُوهِ	ﳁ	وجوه	(the) faces	wujūhi
+13	22:72:9	w	ٱلَّذِينَ	ﳂ	الذين	(of) those who	alladhīna
+13	22:72:10	w	كَفَرُواْ	ﳃ	كفروا	disbelieve	kafarū
+13	22:72:11	w	ٱلۡمُنكَرَۖ	ﳄﳅ	المنكر	the denial	l-munkara
+13	22:72:12	w	يَكَادُونَ	ﳆ	يكادون	They almost	yakādūna
+14	22:72:13	w	يَسۡطُونَ	ﳇ	يسطون	attack	yasṭūna
+14	22:72:14	w	بِٱلَّذِينَ	ﳈ	بالذين	those who	bi-alladhīna
+14	22:72:15	w	يَتۡلُونَ	ﳉ	يتلون	recite	yatlūna
+14	22:72:16	w	عَلَيۡهِمۡ	ﳊ	عليهم	to them	ʿalayhim
+14	22:72:17	w	ءَايَٰتِنَاۗ	ﳋﳌ	اياتنا	Our Verses	āyātinā
+14	22:72:18	w	قُلۡ	ﳍ	قل	Say	qul
+14	22:72:19	w	أَفَأُنَبِّئُكُم	ﳎ	افانبيكم	Then shall I inform you	afa-unabbi-ukum
+14	22:72:20	w	بِشَرّٖ	ﳏ	بشر	of worse	bisharrin
+14	22:72:21	w	مِّن	ﳐ	من	than	min
+15	22:72:22	w	ذَٰلِكُمُۚ	ﳑﳒ	ذالكم	that	dhālikumu
+15	22:72:23	w	ٱلنَّارُ	ﳓ	النار	The Fire	l-nāru
+15	22:72:24	w	وَعَدَهَا	ﳔ	وعدها	Allah (has) promised it	waʿadahā
+15	22:72:25	w	ٱللَّهُ	ﳕ	الله	Allah (has) promised it	l-lahu
+15	22:72:26	w	ٱلَّذِينَ	ﳖ	الذين	(for) those who	alladhīna
+15	22:72:27	w	كَفَرُواْۖ	ﳗﳘ	كفروا	disbelieve	kafarū
+15	22:72:28	w	وَبِئۡسَ	ﳙ	وبيس	and wretched	wabi'sa
+15	22:72:29	w	ٱلۡمَصِيرُ	ﳚ	المصير	(is) the destination	l-maṣīru
+15	22:72:30	e	٧٢	ﳛ			

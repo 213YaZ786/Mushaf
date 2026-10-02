@@ -1,0 +1,129 @@
+1	66:8:1	w	يَٰٓأَيُّهَا	ﱁ	يا ايها	O	yāayyuhā
+1	66:8:2	w	ٱلَّذِينَ	ﱂ	الذين	(you) who believe	alladhīna
+1	66:8:3	w	ءَامَنُواْ	ﱃ	امنوا	believe	āmanū
+1	66:8:4	w	تُوبُوٓاْ	ﱄ	توبوا	Turn	tūbū
+1	66:8:5	w	إِلَى	ﱅ	الى	to	ilā
+1	66:8:6	w	ٱللَّهِ	ﱆ	الله	Allah	l-lahi
+1	66:8:7	w	تَوۡبَةٗ	ﱇ	توبة	(in) repentance	tawbatan
+1	66:8:8	w	نَّصُوحًا	ﱈ	نصوحا	sincere	naṣūḥan
+1	66:8:9	w	عَسَىٰ	ﱉ	عسى	Perhaps	ʿasā
+1	66:8:10	w	رَبُّكُمۡ	ﱊ	ربكم	your Lord	rabbukum
+2	66:8:11	w	أَن	ﱋ	ان	will	an
+2	66:8:12	w	يُكَفِّرَ	ﱌ	يكفر	remove	yukaffira
+2	66:8:13	w	عَنكُمۡ	ﱍ	عنكم	from you	ʿankum
+2	66:8:14	w	سَيِّـَٔاتِكُمۡ	ﱎ	سيياتكم	your evil deeds	sayyiātikum
+2	66:8:15	w	وَيُدۡخِلَكُمۡ	ﱏ	ويدخلكم	and admit you	wayud'khilakum
+2	66:8:16	w	جَنَّٰتٖ	ﱐ	جنات	(into) Gardens	jannātin
+2	66:8:17	w	تَجۡرِي	ﱑ	تجري	flow	tajrī
+3	66:8:18	w	مِن	ﱒ	من	from	min
+3	66:8:19	w	تَحۡتِهَا	ﱓ	تحتها	underneath it	taḥtihā
+3	66:8:20	w	ٱلۡأَنۡهَٰرُ	ﱔ	الانهار	the rivers	l-anhāru
+3	66:8:21	w	يَوۡمَ	ﱕ	يوم	(on the) Day	yawma
+3	66:8:22	w	لَا	ﱖ	لا	not	lā
+3	66:8:23	w	يُخۡزِي	ﱗ	يخزي	will be disgraced	yukh'zī
+3	66:8:24	w	ٱللَّهُ	ﱘ	الله	(by) Allah	l-lahu
+3	66:8:25	w	ٱلنَّبِيَّ	ﱙ	النبي	the Prophet	l-nabiya
+3	66:8:26	w	وَٱلَّذِينَ	ﱚ	والذين	and those who	wa-alladhīna
+3	66:8:27	w	ءَامَنُواْ	ﱛ	امنوا	believed	āmanū
+4	66:8:28	w	مَعَهُۥۖ	ﱜﱝ	معه	with him	maʿahu
+4	66:8:29	w	نُورُهُمۡ	ﱞ	نورهم	Their light	nūruhum
+4	66:8:30	w	يَسۡعَىٰ	ﱟ	يسعى	will run	yasʿā
+4	66:8:31	w	بَيۡنَ	ﱠ	بين	before	bayna
+4	66:8:32	w	أَيۡدِيهِمۡ	ﱡ	ايديهم	their hands	aydīhim
+4	66:8:33	w	وَبِأَيۡمَٰنِهِمۡ	ﱢ	وبايمانهم	and on their right	wabi-aymānihim
+4	66:8:34	w	يَقُولُونَ	ﱣ	يقولون	they will say	yaqūlūna
+4	66:8:35	w	رَبَّنَآ	ﱤ	ربنا	Our Lord	rabbanā
+5	66:8:36	w	أَتۡمِمۡ	ﱥ	اتمم	Perfect	atmim
+5	66:8:37	w	لَنَا	ﱦ	لنا	for us	lanā
+5	66:8:38	w	نُورَنَا	ﱧ	نورنا	our light	nūranā
+5	66:8:39	w	وَٱغۡفِرۡ	ﱨ	واغفر	and grant forgiveness	wa-igh'fir
+5	66:8:40	w	لَنَآۖ	ﱩﱪ	لنا	to us	lanā
+5	66:8:41	w	إِنَّكَ	ﱫ	انك	Indeed, You	innaka
+5	66:8:42	w	عَلَىٰ	ﱬ	على	(are) over	ʿalā
+5	66:8:43	w	كُلِّ	ﱭ	كل	every	kulli
+5	66:8:44	w	شَيۡءٖ	ﱮ	شيء	thing	shayin
+5	66:8:45	w	قَدِيرٞ	ﱯ	قدير	All-Powerful	qadīrun
+5	66:8:46	e	٨	ﱰ			
+6	66:9:1	w	يَٰٓأَيُّهَا	ﱱ	يا ايها	O	yāayyuhā
+6	66:9:2	w	ٱلنَّبِيُّ	ﱲ	النبي	Prophet	l-nabiyu
+6	66:9:3	w	جَٰهِدِ	ﱳ	جاهد	Strive	jāhidi
+6	66:9:4	w	ٱلۡكُفَّارَ	ﱴ	الكفار	(against) the disbelievers	l-kufāra
+6	66:9:5	w	وَٱلۡمُنَٰفِقِينَ	ﱵ	والمنافقين	and the hypocrites	wal-munāfiqīna
+6	66:9:6	w	وَٱغۡلُظۡ	ﱶ	واغلظ	and be stern	wa-ugh'luẓ
+6	66:9:7	w	عَلَيۡهِمۡۚ	ﱷﱸ	عليهم	with them	ʿalayhim
+7	66:9:8	w	وَمَأۡوَىٰهُمۡ	ﱹ	وماواهم	And their abode	wamawāhum
+7	66:9:9	w	جَهَنَّمُۖ	ﱺﱻ	جهنم	(is) Hell	jahannamu
+7	66:9:10	w	وَبِئۡسَ	ﱼ	وبيس	and wretched is	wabi'sa
+7	66:9:11	w	ٱلۡمَصِيرُ	ﱽ	المصير	the destination	l-maṣīru
+7	66:9:12	e	٩	ﱾ			
+7	66:10:1	w	ضَرَبَ	ﱿ	ضرب	Presents	ḍaraba
+7	66:10:2	w	ٱللَّهُ	ﲀ	الله	Allah	l-lahu
+7	66:10:3	w	مَثَلٗا	ﲁ	مثلا	an example	mathalan
+8	66:10:4	w	لِّلَّذِينَ	ﲂ	للذين	for those who	lilladhīna
+8	66:10:5	w	كَفَرُواْ	ﲃ	كفروا	disbelieved	kafarū
+8	66:10:6	w	ٱمۡرَأَتَ	ﲄ	امرات	(the) wife	im'ra-ata
+8	66:10:7	w	نُوحٖ	ﲅ	نوح	(of) Nuh	nūḥin
+8	66:10:8	w	وَٱمۡرَأَتَ	ﲆ	وامرات	(and the) wife	wa-im'ra-ata
+8	66:10:9	w	لُوطٖۖ	ﲇﲈ	لوط	(of) Lut	lūṭin
+8	66:10:10	w	كَانَتَا	ﲉ	كانتا	They were	kānatā
+8	66:10:11	w	تَحۡتَ	ﲊ	تحت	under	taḥta
+9	66:10:12	w	عَبۡدَيۡنِ	ﲋ	عبدين	two [slaves]	ʿabdayni
+9	66:10:13	w	مِنۡ	ﲌ	من	of	min
+9	66:10:14	w	عِبَادِنَا	ﲍ	عبادنا	Our slaves	ʿibādinā
+9	66:10:15	w	صَٰلِحَيۡنِ	ﲎ	صالحين	righteous	ṣāliḥayni
+9	66:10:16	w	فَخَانَتَاهُمَا	ﲏ	فخانتاهما	but they both betrayed them	fakhānatāhumā
+9	66:10:17	w	فَلَمۡ	ﲐ	فلم	so not	falam
+9	66:10:18	w	يُغۡنِيَا	ﲑ	يغنيا	they availed	yugh'niyā
+9	66:10:19	w	عَنۡهُمَا	ﲒ	عنهما	both of them	ʿanhumā
+10	66:10:20	w	مِنَ	ﲓ	من	from	mina
+10	66:10:21	w	ٱللَّهِ	ﲔ	الله	Allah	l-lahi
+10	66:10:22	w	شَيۡـٔٗا	ﲕ	شييا	(in) anything	shayan
+10	66:10:23	w	وَقِيلَ	ﲖ	وقيل	and it was said	waqīla
+10	66:10:24	w	ٱدۡخُلَا	ﲗ	ادخلا	Enter	ud'khulā
+10	66:10:25	w	ٱلنَّارَ	ﲘ	النار	the Fire	l-nāra
+10	66:10:26	w	مَعَ	ﲙ	مع	with	maʿa
+10	66:10:27	w	ٱلدَّٰخِلِينَ	ﲚ	الداخلين	those who enter	l-dākhilīna
+10	66:10:28	e	١٠	ﲛ			
+11	66:11:1	w	وَضَرَبَ	ﲜ	وضرب	And presents	waḍaraba
+11	66:11:2	w	ٱللَّهُ	ﲝ	الله	Allah	l-lahu
+11	66:11:3	w	مَثَلٗا	ﲞ	مثلا	an example	mathalan
+11	66:11:4	w	لِّلَّذِينَ	ﲟ	للذين	for those who	lilladhīna
+11	66:11:5	w	ءَامَنُواْ	ﲠ	امنوا	believed	āmanū
+11	66:11:6	w	ٱمۡرَأَتَ	ﲡ	امرات	(the) wife	im'ra-ata
+11	66:11:7	w	فِرۡعَوۡنَ	ﲢ	فرعون	(of) Firaun	fir'ʿawna
+11	66:11:8	w	إِذۡ	ﲣ	اذ	when	idh
+12	66:11:9	w	قَالَتۡ	ﲤ	قالت	she said	qālat
+12	66:11:10	w	رَبِّ	ﲥ	رب	My Lord	rabbi
+12	66:11:11	w	ٱبۡنِ	ﲦ	ابن	Build	ib'ni
+12	66:11:12	w	لِي	ﲧ	لي	for me	lī
+12	66:11:13	w	عِندَكَ	ﲨ	عندك	near You	ʿindaka
+12	66:11:14	w	بَيۡتٗا	ﲩ	بيتا	a house	baytan
+12	66:11:15	w	فِي	ﲪ	في	in	fī
+12	66:11:16	w	ٱلۡجَنَّةِ	ﲫ	الجنة	Paradise	l-janati
+12	66:11:17	w	وَنَجِّنِي	ﲬ	ونجني	and save me	wanajjinī
+12	66:11:18	w	مِن	ﲭ	من	from	min
+12	66:11:19	w	فِرۡعَوۡنَ	ﲮ	فرعون	Firaun	fir'ʿawna
+13	66:11:20	w	وَعَمَلِهِۦ	ﲯ	وعمله	and his deeds	waʿamalihi
+13	66:11:21	w	وَنَجِّنِي	ﲰ	ونجني	and save me	wanajjinī
+13	66:11:22	w	مِنَ	ﲱ	من	from	mina
+13	66:11:23	w	ٱلۡقَوۡمِ	ﲲ	القوم	the people	l-qawmi
+13	66:11:24	w	ٱلظَّٰلِمِينَ	ﲳ	الظالمين	the wrongdoers	l-ẓālimīna
+13	66:11:25	e	١١	ﲴ			
+13	66:12:1	w	وَمَرۡيَمَ	ﲵ	ومريم	And Maryam	wamaryama
+13	66:12:2	w	ٱبۡنَتَ	ﲶ	ابنت	(the) daughter	ib'nata
+14	66:12:3	w	عِمۡرَٰنَ	ﲷ	عمران	(of) Imran	ʿim'rāna
+14	66:12:4	w	ٱلَّتِيٓ	ﲸ	التي	who	allatī
+14	66:12:5	w	أَحۡصَنَتۡ	ﲹ	احصنت	guarded	aḥṣanat
+14	66:12:6	w	فَرۡجَهَا	ﲺ	فرجها	her chastity	farjahā
+14	66:12:7	w	فَنَفَخۡنَا	ﲻ	فنفخنا	so We breathed	fanafakhnā
+14	66:12:8	w	فِيهِ	ﲼ	فيه	into it	fīhi
+14	66:12:9	w	مِن	ﲽ	من	of	min
+14	66:12:10	w	رُّوحِنَا	ﲾ	روحنا	Our Spirit	rūḥinā
+15	66:12:11	w	وَصَدَّقَتۡ	ﲿ	وصدقت	And she believed	waṣaddaqat
+15	66:12:12	w	بِكَلِمَٰتِ	ﳀ	بكلمات	(in the) Words	bikalimāti
+15	66:12:13	w	رَبِّهَا	ﳁ	ربها	(of) her Lord	rabbihā
+15	66:12:14	w	وَكُتُبِهِۦ	ﳂ	وكتبه	and His Books	wakutubihi
+15	66:12:15	w	وَكَانَتۡ	ﳃ	وكانت	and she was	wakānat
+15	66:12:16	w	مِنَ	ﳄ	من	of	mina
+15	66:12:17	w	ٱلۡقَٰنِتِينَ	ﳅ	القانتين	the devoutly obedient	l-qānitīna
+15	66:12:18	e	١٢	ﳆ			

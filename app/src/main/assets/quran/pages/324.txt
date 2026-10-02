@@ -1,0 +1,138 @@
+1	21:25:1	w	وَمَآ	ﱁ	وما	And not	wamā
+1	21:25:2	w	أَرۡسَلۡنَا	ﱂ	ارسلنا	We sent	arsalnā
+1	21:25:3	w	مِن	ﱃ	من	before you	min
+1	21:25:4	w	قَبۡلِكَ	ﱄ	قبلك	before you	qablika
+1	21:25:5	w	مِن	ﱅ	من	any	min
+1	21:25:6	w	رَّسُولٍ	ﱆ	رسول	Messenger	rasūlin
+1	21:25:7	w	إِلَّا	ﱇ	الا	but	illā
+1	21:25:8	w	نُوحِيٓ	ﱈ	نوحي	We reveal(ed)	nūḥī
+1	21:25:9	w	إِلَيۡهِ	ﱉ	اليه	to him	ilayhi
+1	21:25:10	w	أَنَّهُۥ	ﱊ	انه	that [He]	annahu
+1	21:25:11	w	لَآ	ﱋ	لا	(There is) no	lā
+1	21:25:12	w	إِلَٰهَ	ﱌ	الاه	god	ilāha
+2	21:25:13	w	إِلَّآ	ﱍ	الا	except	illā
+2	21:25:14	w	أَنَا۠	ﱎ	انا	Me	anā
+2	21:25:15	w	فَٱعۡبُدُونِ	ﱏ	فاعبدون	so worship Me	fa-uʿ'budūni
+2	21:25:16	e	٢٥	ﱐ			
+2	21:26:1	w	وَقَالُواْ	ﱑ	وقالوا	And they say	waqālū
+2	21:26:2	w	ٱتَّخَذَ	ﱒ	اتخذ	Has taken	ittakhadha
+2	21:26:3	w	ٱلرَّحۡمَٰنُ	ﱓ	الرحمان	the Most Gracious	l-raḥmānu
+2	21:26:4	w	وَلَدٗاۗ	ﱔﱕ	ولدا	a son	waladan
+2	21:26:5	w	سُبۡحَٰنَهُۥۚ	ﱖﱗ	سبحانه	Glorified is He	sub'ḥānahu
+3	21:26:6	w	بَلۡ	ﱘ	بل	Nay	bal
+3	21:26:7	w	عِبَادٞ	ﱙ	عباد	(they are) slaves	ʿibādun
+3	21:26:8	w	مُّكۡرَمُونَ	ﱚ	مكرمون	honored	muk'ramūna
+3	21:26:9	e	٢٦	ﱛ			
+3	21:27:1	w	لَا	ﱜ	لا	Not	lā
+3	21:27:2	w	يَسۡبِقُونَهُۥ	ﱝ	يسبقونه	they (can) precede Him	yasbiqūnahu
+3	21:27:3	w	بِٱلۡقَوۡلِ	ﱞ	بالقول	in word	bil-qawli
+3	21:27:4	w	وَهُم	ﱟ	وهم	and they	wahum
+4	21:27:5	w	بِأَمۡرِهِۦ	ﱠ	بامره	by His command	bi-amrihi
+4	21:27:6	w	يَعۡمَلُونَ	ﱡ	يعملون	act	yaʿmalūna
+4	21:27:7	e	٢٧	ﱢ			
+4	21:28:1	w	يَعۡلَمُ	ﱣ	يعلم	He knows	yaʿlamu
+4	21:28:2	w	مَا	ﱤ	ما	what	mā
+4	21:28:3	w	بَيۡنَ	ﱥ	بين	(is) before them	bayna
+4	21:28:4	w	أَيۡدِيهِمۡ	ﱦ	ايديهم	(is) before them	aydīhim
+4	21:28:5	w	وَمَا	ﱧ	وما	and what	wamā
+4	21:28:6	w	خَلۡفَهُمۡ	ﱨ	خلفهم	(is) behind them	khalfahum
+5	21:28:7	w	وَلَا	ﱩ	ولا	and not	walā
+5	21:28:8	w	يَشۡفَعُونَ	ﱪ	يشفعون	they (can) intercede	yashfaʿūna
+5	21:28:9	w	إِلَّا	ﱫ	الا	except	illā
+5	21:28:10	w	لِمَنِ	ﱬ	لمن	for whom	limani
+5	21:28:11	w	ٱرۡتَضَىٰ	ﱭ	ارتضى	He approves	ir'taḍā
+5	21:28:12	w	وَهُم	ﱮ	وهم	And they	wahum
+5	21:28:13	w	مِّنۡ	ﱯ	من	from	min
+5	21:28:14	w	خَشۡيَتِهِۦ	ﱰ	خشيته	fear of Him	khashyatihi
+5	21:28:15	w	مُشۡفِقُونَ	ﱱ	مشفقون	stand in awe	mush'fiqūna
+6	21:28:16	e	٢٨	ﱲ			
+6	21:29:1	w	۞ وَمَن	ﱳ ﱴ	۞ ومن	And whoever	waman
+6	21:29:2	w	يَقُلۡ	ﱵ	يقل	says	yaqul
+6	21:29:3	w	مِنۡهُمۡ	ﱶ	منهم	of them	min'hum
+6	21:29:4	w	إِنِّيٓ	ﱷ	اني	Indeed, I am	innī
+6	21:29:5	w	إِلَٰهٞ	ﱸ	الاه	a god	ilāhun
+6	21:29:6	w	مِّن	ﱹ	من	besides Him	min
+6	21:29:7	w	دُونِهِۦ	ﱺ	دونه	besides Him	dūnihi
+6	21:29:8	w	فَذَٰلِكَ	ﱻ	فذالك	Then that	fadhālika
+6	21:29:9	w	نَجۡزِيهِ	ﱼ	نجزيه	We will recompense	najzīhi
+7	21:29:10	w	جَهَنَّمَۚ	ﱽﱾ	جهنم	(with) Hell	jahannama
+7	21:29:11	w	كَذَٰلِكَ	ﱿ	كذالك	Thus	kadhālika
+7	21:29:12	w	نَجۡزِي	ﲀ	نجزي	We recompense	najzī
+7	21:29:13	w	ٱلظَّٰلِمِينَ	ﲁ	الظالمين	the wrongdoers	l-ẓālimīna
+7	21:29:14	e	٢٩	ﲂ			
+7	21:30:1	w	أَوَلَمۡ	ﲃ	اولم	Do not	awalam
+7	21:30:2	w	يَرَ	ﲄ	ير	see	yara
+7	21:30:3	w	ٱلَّذِينَ	ﲅ	الذين	those who	alladhīna
+7	21:30:4	w	كَفَرُوٓاْ	ﲆ	كفروا	disbelieved	kafarū
+8	21:30:5	w	أَنَّ	ﲇ	ان	that	anna
+8	21:30:6	w	ٱلسَّمَٰوَٰتِ	ﲈ	السماوات	the heavens	l-samāwāti
+8	21:30:7	w	وَٱلۡأَرۡضَ	ﲉ	والارض	and the earth	wal-arḍa
+8	21:30:8	w	كَانَتَا	ﲊ	كانتا	were	kānatā
+8	21:30:9	w	رَتۡقٗا	ﲋ	رتقا	a joined entity	ratqan
+8	21:30:10	w	فَفَتَقۡنَٰهُمَاۖ	ﲌﲍ	ففتقناهما	then We parted them	fafataqnāhumā
+8	21:30:11	w	وَجَعَلۡنَا	ﲎ	وجعلنا	and We made	wajaʿalnā
+9	21:30:12	w	مِنَ	ﲏ	من	from	mina
+9	21:30:13	w	ٱلۡمَآءِ	ﲐ	الماء	[the] water	l-māi
+9	21:30:14	w	كُلَّ	ﲑ	كل	every	kulla
+9	21:30:15	w	شَيۡءٍ	ﲒ	شيء	living thing	shayin
+9	21:30:16	w	حَيٍّۚ	ﲓﲔ	حي	living thing	ḥayyin
+9	21:30:17	w	أَفَلَا	ﲕ	افلا	Then will not	afalā
+9	21:30:18	w	يُؤۡمِنُونَ	ﲖ	يومنون	they believe	yu'minūna
+9	21:30:19	e	٣٠	ﲗ			
+9	21:31:1	w	وَجَعَلۡنَا	ﲘ	وجعلنا	And We (have) placed	wajaʿalnā
+9	21:31:2	w	فِي	ﲙ	في	in	fī
+9	21:31:3	w	ٱلۡأَرۡضِ	ﲚ	الارض	the earth	l-arḍi
+10	21:31:4	w	رَوَٰسِيَ	ﲛ	رواسي	firmly set mountains	rawāsiya
+10	21:31:5	w	أَن	ﲜ	ان	lest	an
+10	21:31:6	w	تَمِيدَ	ﲝ	تميد	it (should) shake	tamīda
+10	21:31:7	w	بِهِمۡ	ﲞ	بهم	with them	bihim
+10	21:31:8	w	وَجَعَلۡنَا	ﲟ	وجعلنا	and We made	wajaʿalnā
+10	21:31:9	w	فِيهَا	ﲠ	فيها	therein	fīhā
+10	21:31:10	w	فِجَاجٗا	ﲡ	فجاجا	broad passes	fijājan
+10	21:31:11	w	سُبُلٗا	ﲢ	سبلا	(as) ways	subulan
+10	21:31:12	w	لَّعَلَّهُمۡ	ﲣ	لعلهم	so that they may	laʿallahum
+11	21:31:13	w	يَهۡتَدُونَ	ﲤ	يهتدون	(be) guided	yahtadūna
+11	21:31:14	e	٣١	ﲥ			
+11	21:32:1	w	وَجَعَلۡنَا	ﲦ	وجعلنا	And We made	wajaʿalnā
+11	21:32:2	w	ٱلسَّمَآءَ	ﲧ	السماء	the sky	l-samāa
+11	21:32:3	w	سَقۡفٗا	ﲨ	سقفا	a roof	saqfan
+11	21:32:4	w	مَّحۡفُوظٗاۖ	ﲩﲪ	محفوظا	protected	maḥfūẓan
+11	21:32:5	w	وَهُمۡ	ﲫ	وهم	But they	wahum
+11	21:32:6	w	عَنۡ	ﲬ	عن	from	ʿan
+12	21:32:7	w	ءَايَٰتِهَا	ﲭ	اياتها	its Signs	āyātihā
+12	21:32:8	w	مُعۡرِضُونَ	ﲮ	معرضون	turn away	muʿ'riḍūna
+12	21:32:9	e	٣٢	ﲯ			
+12	21:33:1	w	وَهُوَ	ﲰ	وهو	And He	wahuwa
+12	21:33:2	w	ٱلَّذِي	ﲱ	الذي	(is) the One Who	alladhī
+12	21:33:3	w	خَلَقَ	ﲲ	خلق	created	khalaqa
+12	21:33:4	w	ٱلَّيۡلَ	ﲳ	الليل	the night	al-layla
+12	21:33:5	w	وَٱلنَّهَارَ	ﲴ	والنهار	and the day	wal-nahāra
+12	21:33:6	w	وَٱلشَّمۡسَ	ﲵ	والشمس	and the sun	wal-shamsa
+13	21:33:7	w	وَٱلۡقَمَرَۖ	ﲶﲷ	والقمر	and the moon	wal-qamara
+13	21:33:8	w	كُلّٞ	ﲸ	كل	each	kullun
+13	21:33:9	w	فِي	ﲹ	في	in	fī
+13	21:33:10	w	فَلَكٖ	ﲺ	فلك	an orbit	falakin
+13	21:33:11	w	يَسۡبَحُونَ	ﲻ	يسبحون	floating	yasbaḥūna
+13	21:33:12	e	٣٣	ﲼ			
+13	21:34:1	w	وَمَا	ﲽ	وما	And not	wamā
+13	21:34:2	w	جَعَلۡنَا	ﲾ	جعلنا	We made	jaʿalnā
+13	21:34:3	w	لِبَشَرٖ	ﲿ	لبشر	for any man	libasharin
+13	21:34:4	w	مِّن	ﳀ	من	before you	min
+13	21:34:5	w	قَبۡلِكَ	ﳁ	قبلك	before you	qablika
+14	21:34:6	w	ٱلۡخُلۡدَۖ	ﳂﳃ	الخلد	[the] immortality	l-khul'da
+14	21:34:7	w	أَفَإِيْن	ﳄ	افان	so if	afa-in
+14	21:34:8	w	مِّتَّ	ﳅ	مت	you die	mitta
+14	21:34:9	w	فَهُمُ	ﳆ	فهم	then (would) they	fahumu
+14	21:34:10	w	ٱلۡخَٰلِدُونَ	ﳇ	الخالدون	live forever	l-khālidūna
+14	21:34:11	e	٣٤	ﳈ			
+14	21:35:1	w	كُلُّ	ﳉ	كل	Every	kullu
+14	21:35:2	w	نَفۡسٖ	ﳊ	نفس	soul	nafsin
+14	21:35:3	w	ذَآئِقَةُ	ﳋ	ذايقة	(will) taste	dhāiqatu
+15	21:35:4	w	ٱلۡمَوۡتِۗ	ﳌﳍ	الموت	[the] death	l-mawti
+15	21:35:5	w	وَنَبۡلُوكُم	ﳎ	ونبلوكم	And We test you	wanablūkum
+15	21:35:6	w	بِٱلشَّرِّ	ﳏ	بالشر	with [the] bad	bil-shari
+15	21:35:7	w	وَٱلۡخَيۡرِ	ﳐ	والخير	and [the] good	wal-khayri
+15	21:35:8	w	فِتۡنَةٗۖ	ﳑﳒ	فتنة	(as) a trial	fit'natan
+15	21:35:9	w	وَإِلَيۡنَا	ﳓ	والينا	and to Us	wa-ilaynā
+15	21:35:10	w	تُرۡجَعُونَ	ﳔ	ترجعون	you will be returned	tur'jaʿūna
+15	21:35:11	e	٣٥	ﳕ			

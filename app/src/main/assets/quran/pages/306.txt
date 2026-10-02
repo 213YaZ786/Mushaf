@@ -1,0 +1,142 @@
+1	19:12:1	w	يَٰيَحۡيَىٰ	ﱁ	يا يحيى	O Yahya	yāyaḥyā
+1	19:12:2	w	خُذِ	ﱂ	خذ	Hold	khudhi
+1	19:12:3	w	ٱلۡكِتَٰبَ	ﱃ	الكتاب	the Scripture	l-kitāba
+1	19:12:4	w	بِقُوَّةٖۖ	ﱄﱅ	بقوة	with strength	biquwwatin
+1	19:12:5	w	وَءَاتَيۡنَٰهُ	ﱆ	واتيناه	And We gave him	waātaynāhu
+1	19:12:6	w	ٱلۡحُكۡمَ	ﱇ	الحكم	[the] wisdom	l-ḥuk'ma
+1	19:12:7	w	صَبِيّٗا	ﱈ	صبيا	(when he was) a child	ṣabiyyan
+1	19:12:8	e	١٢	ﱉ			
+2	19:13:1	w	وَحَنَانٗا	ﱊ	وحنانا	And affection	waḥanānan
+2	19:13:2	w	مِّن	ﱋ	من	from	min
+2	19:13:3	w	لَّدُنَّا	ﱌ	لدنا	Us	ladunnā
+2	19:13:4	w	وَزَكَوٰةٗۖ	ﱍﱎ	وزكاة	and purity	wazakatan
+2	19:13:5	w	وَكَانَ	ﱏ	وكان	and he was	wakāna
+2	19:13:6	w	تَقِيّٗا	ﱐ	تقيا	righteous	taqiyyan
+2	19:13:7	e	١٣	ﱑ			
+2	19:14:1	w	وَبَرَّۢا	ﱒ	وبرا	And dutiful	wabarran
+2	19:14:2	w	بِوَٰلِدَيۡهِ	ﱓ	بوالديه	to his parents	biwālidayhi
+2	19:14:3	w	وَلَمۡ	ﱔ	ولم	and not	walam
+3	19:14:4	w	يَكُن	ﱕ	يكن	he was	yakun
+3	19:14:5	w	جَبَّارًا	ﱖ	جبارا	a tyrant	jabbāran
+3	19:14:6	w	عَصِيّٗا	ﱗ	عصيا	disobedient	ʿaṣiyyan
+3	19:14:7	e	١٤	ﱘ			
+3	19:15:1	w	وَسَلَٰمٌ	ﱙ	وسلام	And peace be	wasalāmun
+3	19:15:2	w	عَلَيۡهِ	ﱚ	عليه	upon him	ʿalayhi
+3	19:15:3	w	يَوۡمَ	ﱛ	يوم	(the) day	yawma
+3	19:15:4	w	وُلِدَ	ﱜ	ولد	he was born	wulida
+3	19:15:5	w	وَيَوۡمَ	ﱝ	ويوم	and (the) day	wayawma
+3	19:15:6	w	يَمُوتُ	ﱞ	يموت	he dies	yamūtu
+4	19:15:7	w	وَيَوۡمَ	ﱟ	ويوم	and (the) day	wayawma
+4	19:15:8	w	يُبۡعَثُ	ﱠ	يبعث	he will be raised	yub'ʿathu
+4	19:15:9	w	حَيّٗا	ﱡ	حيا	alive	ḥayyan
+4	19:15:10	e	١٥	ﱢ			
+4	19:16:1	w	وَٱذۡكُرۡ	ﱣ	واذكر	And mention	wa-udh'kur
+4	19:16:2	w	فِي	ﱤ	في	in	fī
+4	19:16:3	w	ٱلۡكِتَٰبِ	ﱥ	الكتاب	the Book	l-kitābi
+4	19:16:4	w	مَرۡيَمَ	ﱦ	مريم	Maryam	maryama
+4	19:16:5	w	إِذِ	ﱧ	اذ	when	idhi
+4	19:16:6	w	ٱنتَبَذَتۡ	ﱨ	انتبذت	she withdrew	intabadhat
+5	19:16:7	w	مِنۡ	ﱩ	من	from	min
+5	19:16:8	w	أَهۡلِهَا	ﱪ	اهلها	her family	ahlihā
+5	19:16:9	w	مَكَانٗا	ﱫ	مكانا	(to) a place	makānan
+5	19:16:10	w	شَرۡقِيّٗا	ﱬ	شرقيا	eastern	sharqiyyan
+5	19:16:11	e	١٦	ﱭ			
+5	19:17:1	w	فَٱتَّخَذَتۡ	ﱮ	فاتخذت	Then she took	fa-ittakhadhat
+5	19:17:2	w	مِن	ﱯ	من	from them	min
+5	19:17:3	w	دُونِهِمۡ	ﱰ	دونهم	from them	dūnihim
+5	19:17:4	w	حِجَابٗا	ﱱ	حجابا	a screen	ḥijāban
+6	19:17:5	w	فَأَرۡسَلۡنَآ	ﱲ	فارسلنا	Then We sent	fa-arsalnā
+6	19:17:6	w	إِلَيۡهَا	ﱳ	اليها	to her	ilayhā
+6	19:17:7	w	رُوحَنَا	ﱴ	روحنا	Our Spirit	rūḥanā
+6	19:17:8	w	فَتَمَثَّلَ	ﱵ	فتمثل	then he assumed for her the likeness	fatamathala
+6	19:17:9	w	لَهَا	ﱶ	لها	then he assumed for her the likeness	lahā
+6	19:17:10	w	بَشَرٗا	ﱷ	بشرا	(of) a man	basharan
+6	19:17:11	w	سَوِيّٗا	ﱸ	سويا	well-proportioned	sawiyyan
+6	19:17:12	e	١٧	ﱹ			
+6	19:18:1	w	قَالَتۡ	ﱺ	قالت	She said	qālat
+6	19:18:2	w	إِنِّيٓ	ﱻ	اني	Indeed, I	innī
+7	19:18:3	w	أَعُوذُ	ﱼ	اعوذ	[I] seek refuge	aʿūdhu
+7	19:18:4	w	بِٱلرَّحۡمَٰنِ	ﱽ	بالرحمان	with the Most Gracious	bil-raḥmāni
+7	19:18:5	w	مِنكَ	ﱾ	منك	from you	minka
+7	19:18:6	w	إِن	ﱿ	ان	if	in
+7	19:18:7	w	كُنتَ	ﲀ	كنت	you are	kunta
+7	19:18:8	w	تَقِيّٗا	ﲁ	تقيا	God fearing	taqiyyan
+7	19:18:9	e	١٨	ﲂ			
+7	19:19:1	w	قَالَ	ﲃ	قال	He said	qāla
+7	19:19:2	w	إِنَّمَآ	ﲄ	انما	Only	innamā
+7	19:19:3	w	أَنَا۠	ﲅ	انا	I am	anā
+7	19:19:4	w	رَسُولُ	ﲆ	رسول	a Messenger	rasūlu
+8	19:19:5	w	رَبِّكِ	ﲇ	ربك	(from) your Lord	rabbiki
+8	19:19:6	w	لِأَهَبَ	ﲈ	لاهب	that I (may) bestow	li-ahaba
+8	19:19:7	w	لَكِ	ﲉ	لك	on you	laki
+8	19:19:8	w	غُلَٰمٗا	ﲊ	غلاما	a son	ghulāman
+8	19:19:9	w	زَكِيّٗا	ﲋ	زكيا	pure	zakiyyan
+8	19:19:10	e	١٩	ﲌ			
+8	19:20:1	w	قَالَتۡ	ﲍ	قالت	She said	qālat
+8	19:20:2	w	أَنَّىٰ	ﲎ	انى	How	annā
+8	19:20:3	w	يَكُونُ	ﲏ	يكون	can be	yakūnu
+8	19:20:4	w	لِي	ﲐ	لي	for me	lī
+9	19:20:5	w	غُلَٰمٞ	ﲑ	غلام	a son	ghulāmun
+9	19:20:6	w	وَلَمۡ	ﲒ	ولم	when not	walam
+9	19:20:7	w	يَمۡسَسۡنِي	ﲓ	يمسسني	has touched me	yamsasnī
+9	19:20:8	w	بَشَرٞ	ﲔ	بشر	a man	basharun
+9	19:20:9	w	وَلَمۡ	ﲕ	ولم	and not	walam
+9	19:20:10	w	أَكُ	ﲖ	اك	I am	aku
+9	19:20:11	w	بَغِيّٗا	ﲗ	بغيا	unchaste	baghiyyan
+9	19:20:12	e	٢٠	ﲘ			
+9	19:21:1	w	قَالَ	ﲙ	قال	He said	qāla
+9	19:21:2	w	كَذَٰلِكِ	ﲚ	كذالك	Thus	kadhāliki
+10	19:21:3	w	قَالَ	ﲛ	قال	said	qāla
+10	19:21:4	w	رَبُّكِ	ﲜ	ربك	your Lord	rabbuki
+10	19:21:5	w	هُوَ	ﲝ	هو	'It	huwa
+10	19:21:6	w	عَلَيَّ	ﲞ	علي	(is) for Me	ʿalayya
+10	19:21:7	w	هَيِّنٞۖ	ﲟﲠ	هين	easy	hayyinun
+10	19:21:8	w	وَلِنَجۡعَلَهُۥٓ	ﲡ	ولنجعله	and so that We will make him	walinajʿalahu
+10	19:21:9	w	ءَايَةٗ	ﲢ	اية	a sign	āyatan
+10	19:21:10	w	لِّلنَّاسِ	ﲣ	للناس	for the mankind	lilnnāsi
+10	19:21:11	w	وَرَحۡمَةٗ	ﲤ	ورحمة	and a Mercy	waraḥmatan
+11	19:21:12	w	مِّنَّاۚ	ﲥﲦ	منا	from Us	minnā
+11	19:21:13	w	وَكَانَ	ﲧ	وكان	And (it) is	wakāna
+11	19:21:14	w	أَمۡرٗا	ﲨ	امرا	a matter	amran
+11	19:21:15	w	مَّقۡضِيّٗا	ﲩ	مقضيا	decreed.'	maqḍiyyan
+11	19:21:16	e	٢١	ﲪ			
+11	19:22:1	w	۞ فَحَمَلَتۡهُ	ﲫ ﲬ	۞ فحملته	So she conceived him	faḥamalathu
+11	19:22:2	w	فَٱنتَبَذَتۡ	ﲭ	فانتبذت	and she withdrew	fa-intabadhat
+11	19:22:3	w	بِهِۦ	ﲮ	به	with him	bihi
+12	19:22:4	w	مَكَانٗا	ﲯ	مكانا	(to) a place	makānan
+12	19:22:5	w	قَصِيّٗا	ﲰ	قصيا	remote	qaṣiyyan
+12	19:22:6	e	٢٢	ﲱ			
+12	19:23:1	w	فَأَجَآءَهَا	ﲲ	فاجاءها	Then drove her	fa-ajāahā
+12	19:23:2	w	ٱلۡمَخَاضُ	ﲳ	المخاض	the pains of childbirth	l-makhāḍu
+12	19:23:3	w	إِلَىٰ	ﲴ	الى	to	ilā
+12	19:23:4	w	جِذۡعِ	ﲵ	جذع	(the) trunk	jidh'ʿi
+12	19:23:5	w	ٱلنَّخۡلَةِ	ﲶ	النخلة	(of) the date-palm	l-nakhlati
+13	19:23:6	w	قَالَتۡ	ﲷ	قالت	She said	qālat
+13	19:23:7	w	يَٰلَيۡتَنِي	ﲸ	يا ليتني	O! I wish	yālaytanī
+13	19:23:8	w	مِتُّ	ﲹ	مت	I (had) died	mittu
+13	19:23:9	w	قَبۡلَ	ﲺ	قبل	before	qabla
+13	19:23:10	w	هَٰذَا	ﲻ	هاذا	this	hādhā
+13	19:23:11	w	وَكُنتُ	ﲼ	وكنت	and I was	wakuntu
+13	19:23:12	w	نَسۡيٗا	ﲽ	نسيا	(in) oblivion	nasyan
+13	19:23:13	w	مَّنسِيّٗا	ﲾ	منسيا	forgotten	mansiyyan
+13	19:23:14	e	٢٣	ﲿ			
+14	19:24:1	w	فَنَادَىٰهَا	ﳀ	فناداها	So cried to her	fanādāhā
+14	19:24:2	w	مِن	ﳁ	من	from	min
+14	19:24:3	w	تَحۡتِهَآ	ﳂ	تحتها	beneath her	taḥtihā
+14	19:24:4	w	أَلَّا	ﳃ	الا	That (do) not	allā
+14	19:24:5	w	تَحۡزَنِي	ﳄ	تحزني	grieve	taḥzanī
+14	19:24:6	w	قَدۡ	ﳅ	قد	verily	qad
+14	19:24:7	w	جَعَلَ	ﳆ	جعل	(has) placed	jaʿala
+14	19:24:8	w	رَبُّكِ	ﳇ	ربك	your Lord	rabbuki
+14	19:24:9	w	تَحۡتَكِ	ﳈ	تحتك	beneath you	taḥtaki
+14	19:24:10	w	سَرِيّٗا	ﳉ	سريا	a stream	sariyyan
+14	19:24:11	e	٢٤	ﳊ			
+15	19:25:1	w	وَهُزِّيٓ	ﳋ	وهزي	And shake	wahuzzī
+15	19:25:2	w	إِلَيۡكِ	ﳌ	اليك	towards you	ilayki
+15	19:25:3	w	بِجِذۡعِ	ﳍ	بجذع	(the) trunk	bijidh'ʿi
+15	19:25:4	w	ٱلنَّخۡلَةِ	ﳎ	النخلة	(of) the date-palm	l-nakhlati
+15	19:25:5	w	تُسَٰقِطۡ	ﳏ	تساقط	it will drop	tusāqiṭ
+15	19:25:6	w	عَلَيۡكِ	ﳐ	عليك	upon you	ʿalayki
+15	19:25:7	w	رُطَبٗا	ﳑ	رطبا	fresh dates	ruṭaban
+15	19:25:8	w	جَنِيّٗا	ﳒ	جنيا	ripe	janiyyan
+15	19:25:9	e	٢٥	ﳓ			

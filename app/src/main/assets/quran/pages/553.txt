@@ -1,0 +1,126 @@
+3	62:1:1	w	يُسَبِّحُ	ﱁ	يسبح	Glorifies	yusabbiḥu
+3	62:1:2	w	لِلَّهِ	ﱂ	لله	Allah	lillahi
+3	62:1:3	w	مَا	ﱃ	ما	whatever	mā
+3	62:1:4	w	فِي	ﱄ	في	(is) in	fī
+3	62:1:5	w	ٱلسَّمَٰوَٰتِ	ﱅ	السماوات	the heavens	l-samāwāti
+3	62:1:6	w	وَمَا	ﱆ	وما	and whatever	wamā
+3	62:1:7	w	فِي	ﱇ	في	(is) in	fī
+3	62:1:8	w	ٱلۡأَرۡضِ	ﱈ	الارض	the earth	l-arḍi
+3	62:1:9	w	ٱلۡمَلِكِ	ﱉ	الملك	the Sovereign	l-maliki
+3	62:1:10	w	ٱلۡقُدُّوسِ	ﱊ	القدوس	the Holy	l-qudūsi
+3	62:1:11	w	ٱلۡعَزِيزِ	ﱋ	العزيز	the All-Mighty	l-ʿazīzi
+4	62:1:12	w	ٱلۡحَكِيمِ	ﱌ	الحكيم	the All-Wise	l-ḥakīmi
+4	62:1:13	e	١	ﱍ			
+4	62:2:1	w	هُوَ	ﱎ	هو	He	huwa
+4	62:2:2	w	ٱلَّذِي	ﱏ	الذي	(is) the One Who	alladhī
+4	62:2:3	w	بَعَثَ	ﱐ	بعث	sent	baʿatha
+4	62:2:4	w	فِي	ﱑ	في	among	fī
+4	62:2:5	w	ٱلۡأُمِّيِّـۧنَ	ﱒ	الاميين	the unlettered	l-umiyīna
+4	62:2:6	w	رَسُولٗا	ﱓ	رسولا	a Messenger	rasūlan
+4	62:2:7	w	مِّنۡهُمۡ	ﱔ	منهم	from themselves	min'hum
+4	62:2:8	w	يَتۡلُواْ	ﱕ	يتلو	reciting	yatlū
+4	62:2:9	w	عَلَيۡهِمۡ	ﱖ	عليهم	to them	ʿalayhim
+5	62:2:10	w	ءَايَٰتِهِۦ	ﱗ	اياته	His Verses	āyātihi
+5	62:2:11	w	وَيُزَكِّيهِمۡ	ﱘ	ويزكيهم	and purifying them	wayuzakkīhim
+5	62:2:12	w	وَيُعَلِّمُهُمُ	ﱙ	ويعلمهم	and teaching them	wayuʿallimuhumu
+5	62:2:13	w	ٱلۡكِتَٰبَ	ﱚ	الكتاب	the Book	l-kitāba
+5	62:2:14	w	وَٱلۡحِكۡمَةَ	ﱛ	والحكمة	and the wisdom	wal-ḥik'mata
+5	62:2:15	w	وَإِن	ﱜ	وان	although	wa-in
+5	62:2:16	w	كَانُواْ	ﱝ	كانوا	they were	kānū
+6	62:2:17	w	مِن	ﱞ	من	from	min
+6	62:2:18	w	قَبۡلُ	ﱟ	قبل	before	qablu
+6	62:2:19	w	لَفِي	ﱠ	لفي	surely in	lafī
+6	62:2:20	w	ضَلَٰلٖ	ﱡ	ضلال	an error	ḍalālin
+6	62:2:21	w	مُّبِينٖ	ﱢ	مبين	clear	mubīnin
+6	62:2:22	e	٢	ﱣ			
+6	62:3:1	w	وَءَاخَرِينَ	ﱤ	واخرين	And others	waākharīna
+6	62:3:2	w	مِنۡهُمۡ	ﱥ	منهم	among them	min'hum
+6	62:3:3	w	لَمَّا	ﱦ	لما	who have not yet	lammā
+6	62:3:4	w	يَلۡحَقُواْ	ﱧ	يلحقوا	joined	yalḥaqū
+6	62:3:5	w	بِهِمۡۚ	ﱨﱩ	بهم	them	bihim
+7	62:3:6	w	وَهُوَ	ﱪ	وهو	and He	wahuwa
+7	62:3:7	w	ٱلۡعَزِيزُ	ﱫ	العزيز	(is) the All-Mighty	l-ʿazīzu
+7	62:3:8	w	ٱلۡحَكِيمُ	ﱬ	الحكيم	the All-Wise	l-ḥakīmu
+7	62:3:9	e	٣	ﱭ			
+7	62:4:1	w	ذَٰلِكَ	ﱮ	ذالك	That	dhālika
+7	62:4:2	w	فَضۡلُ	ﱯ	فضل	(is the) Bounty	faḍlu
+7	62:4:3	w	ٱللَّهِ	ﱰ	الله	(of) Allah	l-lahi
+7	62:4:4	w	يُؤۡتِيهِ	ﱱ	يوتيه	He gives it	yu'tīhi
+7	62:4:5	w	مَن	ﱲ	من	(to) whom	man
+7	62:4:6	w	يَشَآءُۚ	ﱳﱴ	يشاء	He wills	yashāu
+7	62:4:7	w	وَٱللَّهُ	ﱵ	والله	And Allah	wal-lahu
+8	62:4:8	w	ذُو	ﱶ	ذو	(is the) Possessor	dhū
+8	62:4:9	w	ٱلۡفَضۡلِ	ﱷ	الفضل	(of) Bounty	l-faḍli
+8	62:4:10	w	ٱلۡعَظِيمِ	ﱸ	العظيم	the Great	l-ʿaẓīmi
+8	62:4:11	e	٤	ﱹ			
+8	62:5:1	w	مَثَلُ	ﱺ	مثل	(The) likeness	mathalu
+8	62:5:2	w	ٱلَّذِينَ	ﱻ	الذين	(of) those who	alladhīna
+8	62:5:3	w	حُمِّلُواْ	ﱼ	حملوا	were entrusted	ḥummilū
+8	62:5:4	w	ٱلتَّوۡرَىٰةَ	ﱽ	التوراة	(with) the Taurat	l-tawrāta
+8	62:5:5	w	ثُمَّ	ﱾ	ثم	then	thumma
+8	62:5:6	w	لَمۡ	ﱿ	لم	not	lam
+9	62:5:7	w	يَحۡمِلُوهَا	ﲀ	يحملوها	they bore it	yaḥmilūhā
+9	62:5:8	w	كَمَثَلِ	ﲁ	كمثل	(is) like	kamathali
+9	62:5:9	w	ٱلۡحِمَارِ	ﲂ	الحمار	the donkey	l-ḥimāri
+9	62:5:10	w	يَحۡمِلُ	ﲃ	يحمل	who carries	yaḥmilu
+9	62:5:11	w	أَسۡفَارَۢاۚ	ﲄﲅ	اسفارا	books	asfāran
+9	62:5:12	w	بِئۡسَ	ﲆ	بيس	Wretched is	bi'sa
+9	62:5:13	w	مَثَلُ	ﲇ	مثل	(the) example	mathalu
+9	62:5:14	w	ٱلۡقَوۡمِ	ﲈ	القوم	(of) the people	l-qawmi
+10	62:5:15	w	ٱلَّذِينَ	ﲉ	الذين	who	alladhīna
+10	62:5:16	w	كَذَّبُواْ	ﲊ	كذبوا	deny	kadhabū
+10	62:5:17	w	بِـَٔايَٰتِ	ﲋ	بايات	(the) Signs	biāyāti
+10	62:5:18	w	ٱللَّهِۚ	ﲌﲍ	الله	(of) Allah	l-lahi
+10	62:5:19	w	وَٱللَّهُ	ﲎ	والله	And Allah	wal-lahu
+10	62:5:20	w	لَا	ﲏ	لا	(does) not	lā
+10	62:5:21	w	يَهۡدِي	ﲐ	يهدي	guide	yahdī
+10	62:5:22	w	ٱلۡقَوۡمَ	ﲑ	القوم	the people	l-qawma
+10	62:5:23	w	ٱلظَّٰلِمِينَ	ﲒ	الظالمين	the wrongdoers	l-ẓālimīna
+11	62:5:24	e	٥	ﲓ			
+11	62:6:1	w	قُلۡ	ﲔ	قل	Say	qul
+11	62:6:2	w	يَٰٓأَيُّهَا	ﲕ	يا ايها	O	yāayyuhā
+11	62:6:3	w	ٱلَّذِينَ	ﲖ	الذين	you (who)	alladhīna
+11	62:6:4	w	هَادُوٓاْ	ﲗ	هادوا	(are) Jews	hādū
+11	62:6:5	w	إِن	ﲘ	ان	If	in
+11	62:6:6	w	زَعَمۡتُمۡ	ﲙ	زعمتم	you claim	zaʿamtum
+11	62:6:7	w	أَنَّكُمۡ	ﲚ	انكم	that you	annakum
+11	62:6:8	w	أَوۡلِيَآءُ	ﲛ	اولياء	(are) allies	awliyāu
+11	62:6:9	w	لِلَّهِ	ﲜ	لله	of Allah	lillahi
+11	62:6:10	w	مِن	ﲝ	من	from	min
+12	62:6:11	w	دُونِ	ﲞ	دون	excluding	dūni
+12	62:6:12	w	ٱلنَّاسِ	ﲟ	الناس	the people	l-nāsi
+12	62:6:13	w	فَتَمَنَّوُاْ	ﲠ	فتمنوا	then wish	fatamannawū
+12	62:6:14	w	ٱلۡمَوۡتَ	ﲡ	الموت	(for) the death	l-mawta
+12	62:6:15	w	إِن	ﲢ	ان	if	in
+12	62:6:16	w	كُنتُمۡ	ﲣ	كنتم	you are	kuntum
+12	62:6:17	w	صَٰدِقِينَ	ﲤ	صادقين	truthful	ṣādiqīna
+12	62:6:18	e	٦	ﲥ			
+12	62:7:1	w	وَلَا	ﲦ	ولا	But not	walā
+12	62:7:2	w	يَتَمَنَّوۡنَهُۥٓ	ﲧ	يتمنونه	they will wish for it	yatamannawnahu
+13	62:7:3	w	أَبَدَۢا	ﲨ	ابدا	ever	abadan
+13	62:7:4	w	بِمَا	ﲩ	بما	for what	bimā
+13	62:7:5	w	قَدَّمَتۡ	ﲪ	قدمت	(have) sent forth	qaddamat
+13	62:7:6	w	أَيۡدِيهِمۡۚ	ﲫﲬ	ايديهم	their hands	aydīhim
+13	62:7:7	w	وَٱللَّهُ	ﲭ	والله	And Allah	wal-lahu
+13	62:7:8	w	عَلِيمُۢ	ﲮ	عليم	(is) All-Knowing	ʿalīmun
+13	62:7:9	w	بِٱلظَّٰلِمِينَ	ﲯ	بالظالمين	of the wrongdoers	bil-ẓālimīna
+13	62:7:10	e	٧	ﲰ			
+13	62:8:1	w	قُلۡ	ﲱ	قل	Say	qul
+14	62:8:2	w	إِنَّ	ﲲ	ان	Indeed	inna
+14	62:8:3	w	ٱلۡمَوۡتَ	ﲳ	الموت	the death	l-mawta
+14	62:8:4	w	ٱلَّذِي	ﲴ	الذي	which	alladhī
+14	62:8:5	w	تَفِرُّونَ	ﲵ	تفرون	you flee	tafirrūna
+14	62:8:6	w	مِنۡهُ	ﲶ	منه	from it	min'hu
+14	62:8:7	w	فَإِنَّهُۥ	ﲷ	فانه	then surely it	fa-innahu
+14	62:8:8	w	مُلَٰقِيكُمۡۖ	ﲸﲹ	ملاقيكم	(will) meet you	mulāqīkum
+14	62:8:9	w	ثُمَّ	ﲺ	ثم	Then	thumma
+14	62:8:10	w	تُرَدُّونَ	ﲻ	تردون	you will be sent back	turaddūna
+15	62:8:11	w	إِلَىٰ	ﲼ	الى	to	ilā
+15	62:8:12	w	عَٰلِمِ	ﲽ	عالم	(the) All-Knower	ʿālimi
+15	62:8:13	w	ٱلۡغَيۡبِ	ﲾ	الغيب	(of) the unseen	l-ghaybi
+15	62:8:14	w	وَٱلشَّهَٰدَةِ	ﲿ	والشهادة	and the witnessed	wal-shahādati
+15	62:8:15	w	فَيُنَبِّئُكُم	ﳀ	فينبيكم	and He will inform you	fayunabbi-ukum
+15	62:8:16	w	بِمَا	ﳁ	بما	[of] what	bimā
+15	62:8:17	w	كُنتُمۡ	ﳂ	كنتم	you used to	kuntum
+15	62:8:18	w	تَعۡمَلُونَ	ﳃ	تعملون	do	taʿmalūna
+15	62:8:19	e	٨	ﳄ			

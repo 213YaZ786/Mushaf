@@ -1,0 +1,133 @@
+1	12:87:1	w	يَٰبَنِيَّ	ﱁ	يا بني	O my sons	yābaniyya
+1	12:87:2	w	ٱذۡهَبُواْ	ﱂ	اذهبوا	Go	idh'habū
+1	12:87:3	w	فَتَحَسَّسُواْ	ﱃ	فتحسسوا	and inquire	fataḥassasū
+1	12:87:4	w	مِن	ﱄ	من	about	min
+1	12:87:5	w	يُوسُفَ	ﱅ	يوسف	Yusuf	yūsufa
+1	12:87:6	w	وَأَخِيهِ	ﱆ	واخيه	and his brother	wa-akhīhi
+1	12:87:7	w	وَلَا	ﱇ	ولا	and not	walā
+1	12:87:8	w	تَاْيۡـَٔسُواْ	ﱈ	تياسوا	despair	tāy'asū
+2	12:87:9	w	مِن	ﱉ	من	of	min
+2	12:87:10	w	رَّوۡحِ	ﱊ	روح	(the) Mercy of Allah	rawḥi
+2	12:87:11	w	ٱللَّهِۖ	ﱋﱌ	الله	(the) Mercy of Allah	l-lahi
+2	12:87:12	w	إِنَّهُۥ	ﱍ	انه	Indeed	innahu
+2	12:87:13	w	لَا	ﱎ	لا	none	lā
+2	12:87:14	w	يَاْيۡـَٔسُ	ﱏ	يياس	despairs	yāy'asu
+2	12:87:15	w	مِن	ﱐ	من	of	min
+2	12:87:16	w	رَّوۡحِ	ﱑ	روح	(the) Mercy of Allah	rawḥi
+2	12:87:17	w	ٱللَّهِ	ﱒ	الله	(the) Mercy of Allah	l-lahi
+2	12:87:18	w	إِلَّا	ﱓ	الا	except	illā
+2	12:87:19	w	ٱلۡقَوۡمُ	ﱔ	القوم	the people	l-qawmu
+3	12:87:20	w	ٱلۡكَٰفِرُونَ	ﱕ	الكافرون	the disbelievers	l-kāfirūna
+3	12:87:21	e	٨٧	ﱖ			
+3	12:88:1	w	فَلَمَّا	ﱗ	فلما	So when	falammā
+3	12:88:2	w	دَخَلُواْ	ﱘ	دخلوا	they entered	dakhalū
+3	12:88:3	w	عَلَيۡهِ	ﱙ	عليه	upon him	ʿalayhi
+3	12:88:4	w	قَالُواْ	ﱚ	قالوا	they said	qālū
+3	12:88:5	w	يَٰٓأَيُّهَا	ﱛ	يا ايها	O Aziz	yāayyuhā
+3	12:88:6	w	ٱلۡعَزِيزُ	ﱜ	العزيز	O Aziz	l-ʿazīzu
+4	12:88:7	w	مَسَّنَا	ﱝ	مسنا	Has touched us	massanā
+4	12:88:8	w	وَأَهۡلَنَا	ﱞ	واهلنا	and our family	wa-ahlanā
+4	12:88:9	w	ٱلضُّرُّ	ﱟ	الضر	the adversity	l-ḍuru
+4	12:88:10	w	وَجِئۡنَا	ﱠ	وجينا	and we have come	waji'nā
+4	12:88:11	w	بِبِضَٰعَةٖ	ﱡ	ببضاعة	with goods	bibiḍāʿatin
+4	12:88:12	w	مُّزۡجَىٰةٖ	ﱢ	مزجاة	(of) little value	muz'jātin
+4	12:88:13	w	فَأَوۡفِ	ﱣ	فاوف	but pay (in) full	fa-awfi
+4	12:88:14	w	لَنَا	ﱤ	لنا	to us	lanā
+5	12:88:15	w	ٱلۡكَيۡلَ	ﱥ	الكيل	the measure	l-kayla
+5	12:88:16	w	وَتَصَدَّقۡ	ﱦ	وتصدق	and be charitable	wataṣaddaq
+5	12:88:17	w	عَلَيۡنَآۖ	ﱧﱨ	علينا	to us	ʿalaynā
+5	12:88:18	w	إِنَّ	ﱩ	ان	Indeed	inna
+5	12:88:19	w	ٱللَّهَ	ﱪ	الله	Allah	l-laha
+5	12:88:20	w	يَجۡزِي	ﱫ	يجزي	rewards	yajzī
+5	12:88:21	w	ٱلۡمُتَصَدِّقِينَ	ﱬ	المتصدقين	the charitable	l-mutaṣadiqīna
+6	12:88:22	e	٨٨	ﱭ			
+6	12:89:1	w	قَالَ	ﱮ	قال	He said	qāla
+6	12:89:2	w	هَلۡ	ﱯ	هل	Do	hal
+6	12:89:3	w	عَلِمۡتُم	ﱰ	علمتم	you know	ʿalim'tum
+6	12:89:4	w	مَّا	ﱱ	ما	what	mā
+6	12:89:5	w	فَعَلۡتُم	ﱲ	فعلتم	you did	faʿaltum
+6	12:89:6	w	بِيُوسُفَ	ﱳ	بيوسف	with Yusuf	biyūsufa
+6	12:89:7	w	وَأَخِيهِ	ﱴ	واخيه	and his brother	wa-akhīhi
+6	12:89:8	w	إِذۡ	ﱵ	اذ	when	idh
+6	12:89:9	w	أَنتُمۡ	ﱶ	انتم	you were	antum
+7	12:89:10	w	جَٰهِلُونَ	ﱷ	جاهلون	ignorant	jāhilūna
+7	12:89:11	e	٨٩	ﱸ			
+7	12:90:1	w	قَالُوٓاْ	ﱹ	قالوا	They said	qālū
+7	12:90:2	w	أَءِنَّكَ	ﱺ	اانك	Are you indeed	a-innaka
+7	12:90:3	w	لَأَنتَ	ﱻ	لانت	surely you	la-anta
+7	12:90:4	w	يُوسُفُۖ	ﱼﱽ	يوسف	Yusuf	yūsufu
+7	12:90:5	w	قَالَ	ﱾ	قال	He said	qāla
+7	12:90:6	w	أَنَا۠	ﱿ	انا	I am	anā
+7	12:90:7	w	يُوسُفُ	ﲀ	يوسف	Yusuf	yūsufu
+8	12:90:8	w	وَهَٰذَآ	ﲁ	وهاذا	and this	wahādhā
+8	12:90:9	w	أَخِيۖ	ﲂﲃ	اخي	(is) my brother	akhī
+8	12:90:10	w	قَدۡ	ﲄ	قد	Indeed	qad
+8	12:90:11	w	مَنَّ	ﲅ	من	Allah has been gracious	manna
+8	12:90:12	w	ٱللَّهُ	ﲆ	الله	Allah has been gracious	l-lahu
+8	12:90:13	w	عَلَيۡنَآۖ	ﲇﲈ	علينا	to us	ʿalaynā
+8	12:90:14	w	إِنَّهُۥ	ﲉ	انه	Indeed, he	innahu
+8	12:90:15	w	مَن	ﲊ	من	who	man
+8	12:90:16	w	يَتَّقِ	ﲋ	يتق	fears Allah	yattaqi
+8	12:90:17	w	وَيَصۡبِرۡ	ﲌ	ويصبر	and (is) patient	wayaṣbir
+8	12:90:18	w	فَإِنَّ	ﲍ	فان	then indeed	fa-inna
+9	12:90:19	w	ٱللَّهَ	ﲎ	الله	Allah	l-laha
+9	12:90:20	w	لَا	ﲏ	لا	(does) not	lā
+9	12:90:21	w	يُضِيعُ	ﲐ	يضيع	let go waste	yuḍīʿu
+9	12:90:22	w	أَجۡرَ	ﲑ	اجر	(the) reward	ajra
+9	12:90:23	w	ٱلۡمُحۡسِنِينَ	ﲒ	المحسنين	(of) the good-doers	l-muḥ'sinīna
+9	12:90:24	e	٩٠	ﲓ			
+9	12:91:1	w	قَالُواْ	ﲔ	قالوا	They said	qālū
+9	12:91:2	w	تَٱللَّهِ	ﲕ	تالله	By Allah	tal-lahi
+9	12:91:3	w	لَقَدۡ	ﲖ	لقد	certainly	laqad
+10	12:91:4	w	ءَاثَرَكَ	ﲗ	اثرك	Allah has preferred you	ātharaka
+10	12:91:5	w	ٱللَّهُ	ﲘ	الله	Allah has preferred you	l-lahu
+10	12:91:6	w	عَلَيۡنَا	ﲙ	علينا	over us	ʿalaynā
+10	12:91:7	w	وَإِن	ﲚ	وان	and indeed	wa-in
+10	12:91:8	w	كُنَّا	ﲛ	كنا	we have been	kunnā
+10	12:91:9	w	لَخَٰطِـِٔينَ	ﲜ	لخاطيين	sinners	lakhāṭiīna
+10	12:91:10	e	٩١	ﲝ			
+10	12:92:1	w	قَالَ	ﲞ	قال	He said	qāla
+10	12:92:2	w	لَا	ﲟ	لا	No	lā
+10	12:92:3	w	تَثۡرِيبَ	ﲠ	تثريب	blame	tathrība
+11	12:92:4	w	عَلَيۡكُمُ	ﲡ	عليكم	upon you	ʿalaykumu
+11	12:92:5	w	ٱلۡيَوۡمَۖ	ﲢﲣ	اليوم	today	l-yawma
+11	12:92:6	w	يَغۡفِرُ	ﲤ	يغفر	Allah will forgive	yaghfiru
+11	12:92:7	w	ٱللَّهُ	ﲥ	الله	Allah will forgive	l-lahu
+11	12:92:8	w	لَكُمۡۖ	ﲦﲧ	لكم	you	lakum
+11	12:92:9	w	وَهُوَ	ﲨ	وهو	and He	wahuwa
+11	12:92:10	w	أَرۡحَمُ	ﲩ	ارحم	(is) the Most Merciful	arḥamu
+11	12:92:11	w	ٱلرَّٰحِمِينَ	ﲪ	الراحمين	(of) those who show mercy	l-rāḥimīna
+12	12:92:12	e	٩٢	ﲫ			
+12	12:93:1	w	ٱذۡهَبُواْ	ﲬ	اذهبوا	Go	idh'habū
+12	12:93:2	w	بِقَمِيصِي	ﲭ	بقميصي	with this shirt of mine	biqamīṣī
+12	12:93:3	w	هَٰذَا	ﲮ	هاذا	with this shirt of mine	hādhā
+12	12:93:4	w	فَأَلۡقُوهُ	ﲯ	فالقوه	and cast it	fa-alqūhu
+12	12:93:5	w	عَلَىٰ	ﲰ	على	over	ʿalā
+12	12:93:6	w	وَجۡهِ	ﲱ	وجه	(the) face	wajhi
+12	12:93:7	w	أَبِي	ﲲ	ابي	(of) my father	abī
+12	12:93:8	w	يَأۡتِ	ﲳ	يات	he will regain sight	yati
+13	12:93:9	w	بَصِيرٗا	ﲴ	بصيرا	he will regain sight	baṣīran
+13	12:93:10	w	وَأۡتُونِي	ﲵ	واتوني	And bring to me	watūnī
+13	12:93:11	w	بِأَهۡلِكُمۡ	ﲶ	باهلكم	your family	bi-ahlikum
+13	12:93:12	w	أَجۡمَعِينَ	ﲷ	اجمعين	all together	ajmaʿīna
+13	12:93:13	e	٩٣	ﲸ			
+13	12:94:1	w	وَلَمَّا	ﲹ	ولما	And when	walammā
+13	12:94:2	w	فَصَلَتِ	ﲺ	فصلت	departed	faṣalati
+14	12:94:3	w	ٱلۡعِيرُ	ﲻ	العير	the caravan	l-ʿīru
+14	12:94:4	w	قَالَ	ﲼ	قال	their father said	qāla
+14	12:94:5	w	أَبُوهُمۡ	ﲽ	ابوهم	their father said	abūhum
+14	12:94:6	w	إِنِّي	ﲾ	اني	Indeed, I	innī
+14	12:94:7	w	لَأَجِدُ	ﲿ	لاجد	[I] find	la-ajidu
+14	12:94:8	w	رِيحَ	ﳀ	ريح	(the) smell	rīḥa
+14	12:94:9	w	يُوسُفَۖ	ﳁﳂ	يوسف	(of) Yusuf	yūsufa
+14	12:94:10	w	لَوۡلَآ	ﳃ	لولا	if not	lawlā
+14	12:94:11	w	أَن	ﳄ	ان	that	an
+15	12:94:12	w	تُفَنِّدُونِ	ﳅ	تفندون	you think me weakened in mind	tufannidūni
+15	12:94:13	e	٩٤	ﳆ			
+15	12:95:1	w	قَالُواْ	ﳇ	قالوا	They said	qālū
+15	12:95:2	w	تَٱللَّهِ	ﳈ	تالله	By Allah	tal-lahi
+15	12:95:3	w	إِنَّكَ	ﳉ	انك	indeed, you	innaka
+15	12:95:4	w	لَفِي	ﳊ	لفي	surely (are) in	lafī
+15	12:95:5	w	ضَلَٰلِكَ	ﳋ	ضلالك	your error	ḍalālika
+15	12:95:6	w	ٱلۡقَدِيمِ	ﳌ	القديم	old	l-qadīmi
+15	12:95:7	e	٩٥	ﳍ			

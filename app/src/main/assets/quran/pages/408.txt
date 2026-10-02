@@ -1,0 +1,148 @@
+1	30:33:1	w	وَإِذَا	ﱁ	واذا	And when	wa-idhā
+1	30:33:2	w	مَسَّ	ﱂ	مس	touches	massa
+1	30:33:3	w	ٱلنَّاسَ	ﱃ	الناس	people	l-nāsa
+1	30:33:4	w	ضُرّٞ	ﱄ	ضر	hardship	ḍurrun
+1	30:33:5	w	دَعَوۡاْ	ﱅ	دعوا	they call	daʿaw
+1	30:33:6	w	رَبَّهُم	ﱆ	ربهم	their Lord	rabbahum
+1	30:33:7	w	مُّنِيبِينَ	ﱇ	منيبين	turning	munībīna
+1	30:33:8	w	إِلَيۡهِ	ﱈ	اليه	to Him	ilayhi
+1	30:33:9	w	ثُمَّ	ﱉ	ثم	Then	thumma
+1	30:33:10	w	إِذَآ	ﱊ	اذا	when	idhā
+1	30:33:11	w	أَذَاقَهُم	ﱋ	اذاقهم	He causes them to taste	adhāqahum
+2	30:33:12	w	مِّنۡهُ	ﱌ	منه	from Him	min'hu
+2	30:33:13	w	رَحۡمَةً	ﱍ	رحمة	Mercy	raḥmatan
+2	30:33:14	w	إِذَا	ﱎ	اذا	behold	idhā
+2	30:33:15	w	فَرِيقٞ	ﱏ	فريق	A party	farīqun
+2	30:33:16	w	مِّنۡهُم	ﱐ	منهم	of them	min'hum
+2	30:33:17	w	بِرَبِّهِمۡ	ﱑ	بربهم	with their Lord	birabbihim
+2	30:33:18	w	يُشۡرِكُونَ	ﱒ	يشركون	associate partners	yush'rikūna
+2	30:33:19	e	٣٣	ﱓ			
+2	30:34:1	w	لِيَكۡفُرُواْ	ﱔ	ليكفروا	So as to deny	liyakfurū
+2	30:34:2	w	بِمَآ	ﱕ	بما	[in] what	bimā
+3	30:34:3	w	ءَاتَيۡنَٰهُمۡۚ	ﱖﱗ	اتيناهم	We have granted them	ātaynāhum
+3	30:34:4	w	فَتَمَتَّعُواْ	ﱘ	فتمتعوا	Then enjoy	fatamattaʿū
+3	30:34:5	w	فَسَوۡفَ	ﱙ	فسوف	but soon	fasawfa
+3	30:34:6	w	تَعۡلَمُونَ	ﱚ	تعلمون	you will know	taʿlamūna
+3	30:34:7	e	٣٤	ﱛ			
+3	30:35:1	w	أَمۡ	ﱜ	ام	Or	am
+3	30:35:2	w	أَنزَلۡنَا	ﱝ	انزلنا	have We sent	anzalnā
+3	30:35:3	w	عَلَيۡهِمۡ	ﱞ	عليهم	to them	ʿalayhim
+4	30:35:4	w	سُلۡطَٰنٗا	ﱟ	سلطانا	an authority	sul'ṭānan
+4	30:35:5	w	فَهُوَ	ﱠ	فهو	and it	fahuwa
+4	30:35:6	w	يَتَكَلَّمُ	ﱡ	يتكلم	speaks	yatakallamu
+4	30:35:7	w	بِمَا	ﱢ	بما	of what	bimā
+4	30:35:8	w	كَانُواْ	ﱣ	كانوا	they were	kānū
+4	30:35:9	w	بِهِۦ	ﱤ	به	with Him	bihi
+4	30:35:10	w	يُشۡرِكُونَ	ﱥ	يشركون	associating	yush'rikūna
+4	30:35:11	e	٣٥	ﱦ			
+4	30:36:1	w	وَإِذَآ	ﱧ	واذا	And when	wa-idhā
+4	30:36:2	w	أَذَقۡنَا	ﱨ	اذقنا	We cause people to taste	adhaqnā
+5	30:36:3	w	ٱلنَّاسَ	ﱩ	الناس	We cause people to taste	l-nāsa
+5	30:36:4	w	رَحۡمَةٗ	ﱪ	رحمة	mercy	raḥmatan
+5	30:36:5	w	فَرِحُواْ	ﱫ	فرحوا	they rejoice	fariḥū
+5	30:36:6	w	بِهَاۖ	ﱬﱭ	بها	therein	bihā
+5	30:36:7	w	وَإِن	ﱮ	وان	But if	wa-in
+5	30:36:8	w	تُصِبۡهُمۡ	ﱯ	تصبهم	afflicts them	tuṣib'hum
+5	30:36:9	w	سَيِّئَةُۢ	ﱰ	سيية	an evil	sayyi-atun
+5	30:36:10	w	بِمَا	ﱱ	بما	for what	bimā
+5	30:36:11	w	قَدَّمَتۡ	ﱲ	قدمت	have sent forth	qaddamat
+5	30:36:12	w	أَيۡدِيهِمۡ	ﱳ	ايديهم	their hands	aydīhim
+6	30:36:13	w	إِذَا	ﱴ	اذا	behold	idhā
+6	30:36:14	w	هُمۡ	ﱵ	هم	They	hum
+6	30:36:15	w	يَقۡنَطُونَ	ﱶ	يقنطون	despair	yaqnaṭūna
+6	30:36:16	e	٣٦	ﱷ			
+6	30:37:1	w	أَوَلَمۡ	ﱸ	اولم	Do not	awalam
+6	30:37:2	w	يَرَوۡاْ	ﱹ	يروا	they see	yaraw
+6	30:37:3	w	أَنَّ	ﱺ	ان	that	anna
+6	30:37:4	w	ٱللَّهَ	ﱻ	الله	Allah	l-laha
+6	30:37:5	w	يَبۡسُطُ	ﱼ	يبسط	extends	yabsuṭu
+6	30:37:6	w	ٱلرِّزۡقَ	ﱽ	الرزق	the provision	l-riz'qa
+6	30:37:7	w	لِمَن	ﱾ	لمن	for whom	liman
+6	30:37:8	w	يَشَآءُ	ﱿ	يشاء	He wills	yashāu
+7	30:37:9	w	وَيَقۡدِرُۚ	ﲀﲁ	ويقدر	and straitens (it)	wayaqdiru
+7	30:37:10	w	إِنَّ	ﲂ	ان	Indeed	inna
+7	30:37:11	w	فِي	ﲃ	في	in	fī
+7	30:37:12	w	ذَٰلِكَ	ﲄ	ذالك	that	dhālika
+7	30:37:13	w	لَأٓيَٰتٖ	ﲅ	لايات	surely (are) Signs	laāyātin
+7	30:37:14	w	لِّقَوۡمٖ	ﲆ	لقوم	for a people	liqawmin
+7	30:37:15	w	يُؤۡمِنُونَ	ﲇ	يومنون	who believe	yu'minūna
+7	30:37:16	e	٣٧	ﲈ			
+7	30:38:1	w	فَـَٔاتِ	ﲉ	فات	So give	faāti
+7	30:38:2	w	ذَا	ﲊ	ذا	the relative	dhā
+7	30:38:3	w	ٱلۡقُرۡبَىٰ	ﲋ	القربى	the relative	l-qur'bā
+8	30:38:4	w	حَقَّهُۥ	ﲌ	حقه	his right	ḥaqqahu
+8	30:38:5	w	وَٱلۡمِسۡكِينَ	ﲍ	والمسكين	and the poor	wal-mis'kīna
+8	30:38:6	w	وَٱبۡنَ	ﲎ	وابن	and the wayfarer	wa-ib'na
+8	30:38:7	w	ٱلسَّبِيلِۚ	ﲏﲐ	السبيل	and the wayfarer	l-sabīli
+8	30:38:8	w	ذَٰلِكَ	ﲑ	ذالك	That	dhālika
+8	30:38:9	w	خَيۡرٞ	ﲒ	خير	(is) best	khayrun
+8	30:38:10	w	لِّلَّذِينَ	ﲓ	للذين	for those who	lilladhīna
+8	30:38:11	w	يُرِيدُونَ	ﲔ	يريدون	desire	yurīdūna
+9	30:38:12	w	وَجۡهَ	ﲕ	وجه	(the) Countenance	wajha
+9	30:38:13	w	ٱللَّهِۖ	ﲖﲗ	الله	(of) Allah	l-lahi
+9	30:38:14	w	وَأُوْلَٰٓئِكَ	ﲘ	واولايك	And those	wa-ulāika
+9	30:38:15	w	هُمُ	ﲙ	هم	they	humu
+9	30:38:16	w	ٱلۡمُفۡلِحُونَ	ﲚ	المفلحون	(are) the successful ones	l-muf'liḥūna
+9	30:38:17	e	٣٨	ﲛ			
+9	30:39:1	w	وَمَآ	ﲜ	وما	And what	wamā
+9	30:39:2	w	ءَاتَيۡتُم	ﲝ	اتيتم	you give	ātaytum
+9	30:39:3	w	مِّن	ﲞ	من	for	min
+9	30:39:4	w	رِّبٗا	ﲟ	ربا	usury	riban
+10	30:39:5	w	لِّيَرۡبُوَاْ	ﲠ	ليربو	to increase	liyarbuwā
+10	30:39:6	w	فِيٓ	ﲡ	في	in	fī
+10	30:39:7	w	أَمۡوَٰلِ	ﲢ	اموال	(the) wealth	amwāli
+10	30:39:8	w	ٱلنَّاسِ	ﲣ	الناس	(of) people	l-nāsi
+10	30:39:9	w	فَلَا	ﲤ	فلا	not	falā
+10	30:39:10	w	يَرۡبُواْ	ﲥ	يربو	(will) increase	yarbū
+10	30:39:11	w	عِندَ	ﲦ	عند	with	ʿinda
+10	30:39:12	w	ٱللَّهِۖ	ﲧﲨ	الله	Allah	l-lahi
+10	30:39:13	w	وَمَآ	ﲩ	وما	But what	wamā
+10	30:39:14	w	ءَاتَيۡتُم	ﲪ	اتيتم	you give	ātaytum
+10	30:39:15	w	مِّن	ﲫ	من	of	min
+11	30:39:16	w	زَكَوٰةٖ	ﲬ	زكاة	zakah	zakatin
+11	30:39:17	w	تُرِيدُونَ	ﲭ	تريدون	desiring	turīdūna
+11	30:39:18	w	وَجۡهَ	ﲮ	وجه	(the) Countenance	wajha
+11	30:39:19	w	ٱللَّهِ	ﲯ	الله	(of) Allah	l-lahi
+11	30:39:20	w	فَأُوْلَٰٓئِكَ	ﲰ	فاولايك	then those	fa-ulāika
+11	30:39:21	w	هُمُ	ﲱ	هم	[they]	humu
+11	30:39:22	w	ٱلۡمُضۡعِفُونَ	ﲲ	المضعفون	(will) get manifold	l-muḍ'ʿifūna
+11	30:39:23	e	٣٩	ﲳ			
+12	30:40:1	w	ٱللَّهُ	ﲴ	الله	Allah	al-lahu
+12	30:40:2	w	ٱلَّذِي	ﲵ	الذي	(is) the One Who	alladhī
+12	30:40:3	w	خَلَقَكُمۡ	ﲶ	خلقكم	created you	khalaqakum
+12	30:40:4	w	ثُمَّ	ﲷ	ثم	then	thumma
+12	30:40:5	w	رَزَقَكُمۡ	ﲸ	رزقكم	He provided (for) you	razaqakum
+12	30:40:6	w	ثُمَّ	ﲹ	ثم	then	thumma
+12	30:40:7	w	يُمِيتُكُمۡ	ﲺ	يميتكم	He will cause you to die	yumītukum
+12	30:40:8	w	ثُمَّ	ﲻ	ثم	then	thumma
+12	30:40:9	w	يُحۡيِيكُمۡۖ	ﲼﲽ	يحييكم	He will give you life	yuḥ'yīkum
+12	30:40:10	w	هَلۡ	ﲾ	هل	Is (there)	hal
+12	30:40:11	w	مِن	ﲿ	من	any	min
+13	30:40:12	w	شُرَكَآئِكُم	ﳀ	شركايكم	(of) your partners	shurakāikum
+13	30:40:13	w	مَّن	ﳁ	من	who	man
+13	30:40:14	w	يَفۡعَلُ	ﳂ	يفعل	does	yafʿalu
+13	30:40:15	w	مِن	ﳃ	من	of	min
+13	30:40:16	w	ذَٰلِكُم	ﳄ	ذالكم	that	dhālikum
+13	30:40:17	w	مِّن	ﳅ	من	any	min
+13	30:40:18	w	شَيۡءٖۚ	ﳆﳇ	شيء	thing	shayin
+13	30:40:19	w	سُبۡحَٰنَهُۥ	ﳈ	سبحانه	Glory be to Him	sub'ḥānahu
+13	30:40:20	w	وَتَعَٰلَىٰ	ﳉ	وتعالى	and exalted is He	wataʿālā
+14	30:40:21	w	عَمَّا	ﳊ	عما	above what	ʿammā
+14	30:40:22	w	يُشۡرِكُونَ	ﳋ	يشركون	they associate	yush'rikūna
+14	30:40:23	e	٤٠	ﳌ			
+14	30:41:1	w	ظَهَرَ	ﳍ	ظهر	Has appeared	ẓahara
+14	30:41:2	w	ٱلۡفَسَادُ	ﳎ	الفساد	the corruption	l-fasādu
+14	30:41:3	w	فِي	ﳏ	في	in	fī
+14	30:41:4	w	ٱلۡبَرِّ	ﳐ	البر	the land	l-bari
+14	30:41:5	w	وَٱلۡبَحۡرِ	ﳑ	والبحر	and the sea	wal-baḥri
+14	30:41:6	w	بِمَا	ﳒ	بما	for what	bimā
+14	30:41:7	w	كَسَبَتۡ	ﳓ	كسبت	have earned	kasabat
+15	30:41:8	w	أَيۡدِي	ﳔ	ايدي	(the) hands	aydī
+15	30:41:9	w	ٱلنَّاسِ	ﳕ	الناس	(of) people	l-nāsi
+15	30:41:10	w	لِيُذِيقَهُم	ﳖ	ليذيقهم	so that He may let them taste	liyudhīqahum
+15	30:41:11	w	بَعۡضَ	ﳗ	بعض	a part	baʿḍa
+15	30:41:12	w	ٱلَّذِي	ﳘ	الذي	(of) that which	alladhī
+15	30:41:13	w	عَمِلُواْ	ﳙ	عملوا	they have done	ʿamilū
+15	30:41:14	w	لَعَلَّهُمۡ	ﳚ	لعلهم	so that they may	laʿallahum
+15	30:41:15	w	يَرۡجِعُونَ	ﳛ	يرجعون	return	yarjiʿūna
+15	30:41:16	e	٤١	ﳜ			

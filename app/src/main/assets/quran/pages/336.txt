@@ -1,0 +1,144 @@
+1	22:31:1	w	حُنَفَآءَ	ﱁ	حنفاء	Being upright	ḥunafāa
+1	22:31:2	w	لِلَّهِ	ﱂ	لله	to Allah	lillahi
+1	22:31:3	w	غَيۡرَ	ﱃ	غير	not	ghayra
+1	22:31:4	w	مُشۡرِكِينَ	ﱄ	مشركين	associating partners	mush'rikīna
+1	22:31:5	w	بِهِۦۚ	ﱅﱆ	به	with Him	bihi
+1	22:31:6	w	وَمَن	ﱇ	ومن	And whoever	waman
+1	22:31:7	w	يُشۡرِكۡ	ﱈ	يشرك	associates partners	yush'rik
+1	22:31:8	w	بِٱللَّهِ	ﱉ	بالله	with Allah	bil-lahi
+1	22:31:9	w	فَكَأَنَّمَا	ﱊ	فكانما	then (it is) as though	faka-annamā
+1	22:31:10	w	خَرَّ	ﱋ	خر	he had fallen	kharra
+1	22:31:11	w	مِنَ	ﱌ	من	from	mina
+2	22:31:12	w	ٱلسَّمَآءِ	ﱍ	السماء	the sky	l-samāi
+2	22:31:13	w	فَتَخۡطَفُهُ	ﱎ	فتخطفه	and (had) snatched him	fatakhṭafuhu
+2	22:31:14	w	ٱلطَّيۡرُ	ﱏ	الطير	the birds	l-ṭayru
+2	22:31:15	w	أَوۡ	ﱐ	او	or	aw
+2	22:31:16	w	تَهۡوِي	ﱑ	تهوي	had blown	tahwī
+2	22:31:17	w	بِهِ	ﱒ	به	him	bihi
+2	22:31:18	w	ٱلرِّيحُ	ﱓ	الريح	the wind	l-rīḥu
+2	22:31:19	w	فِي	ﱔ	في	to	fī
+2	22:31:20	w	مَكَانٖ	ﱕ	مكان	a place	makānin
+2	22:31:21	w	سَحِيقٖ	ﱖ	سحيق	far off	saḥīqin
+3	22:31:22	e	٣١	ﱗ			
+3	22:32:1	w	ذَٰلِكَۖ	ﱘﱙ	ذالك	That	dhālika
+3	22:32:2	w	وَمَن	ﱚ	ومن	and whoever	waman
+3	22:32:3	w	يُعَظِّمۡ	ﱛ	يعظم	honors	yuʿaẓẓim
+3	22:32:4	w	شَعَٰٓئِرَ	ﱜ	شعاير	(the) Symbols	shaʿāira
+3	22:32:5	w	ٱللَّهِ	ﱝ	الله	(of) Allah	l-lahi
+3	22:32:6	w	فَإِنَّهَا	ﱞ	فانها	then indeed, it	fa-innahā
+3	22:32:7	w	مِن	ﱟ	من	(is) from	min
+3	22:32:8	w	تَقۡوَى	ﱠ	تقوى	(the) piety	taqwā
+3	22:32:9	w	ٱلۡقُلُوبِ	ﱡ	القلوب	(of) the hearts	l-qulūbi
+3	22:32:10	e	٣٢	ﱢ			
+4	22:33:1	w	لَكُمۡ	ﱣ	لكم	For you	lakum
+4	22:33:2	w	فِيهَا	ﱤ	فيها	therein	fīhā
+4	22:33:3	w	مَنَٰفِعُ	ﱥ	منافع	(are) benefits	manāfiʿu
+4	22:33:4	w	إِلَىٰٓ	ﱦ	الى	for	ilā
+4	22:33:5	w	أَجَلٖ	ﱧ	اجل	a term	ajalin
+4	22:33:6	w	مُّسَمّٗى	ﱨ	مسمى	appointed	musamman
+4	22:33:7	w	ثُمَّ	ﱩ	ثم	then	thumma
+4	22:33:8	w	مَحِلُّهَآ	ﱪ	محلها	their place of sacrifice	maḥilluhā
+4	22:33:9	w	إِلَى	ﱫ	الى	(is) at	ilā
+4	22:33:10	w	ٱلۡبَيۡتِ	ﱬ	البيت	the House	l-bayti
+4	22:33:11	w	ٱلۡعَتِيقِ	ﱭ	العتيق	the Ancient	l-ʿatīqi
+5	22:33:12	e	٣٣	ﱮ			
+5	22:34:1	w	وَلِكُلِّ	ﱯ	ولكل	And for every	walikulli
+5	22:34:2	w	أُمَّةٖ	ﱰ	امة	nation	ummatin
+5	22:34:3	w	جَعَلۡنَا	ﱱ	جعلنا	We have appointed	jaʿalnā
+5	22:34:4	w	مَنسَكٗا	ﱲ	منسكا	a rite	mansakan
+5	22:34:5	w	لِّيَذۡكُرُواْ	ﱳ	ليذكروا	that they may mention	liyadhkurū
+5	22:34:6	w	ٱسۡمَ	ﱴ	اسم	(the) name	is'ma
+5	22:34:7	w	ٱللَّهِ	ﱵ	الله	(of) Allah	l-lahi
+5	22:34:8	w	عَلَىٰ	ﱶ	على	over	ʿalā
+6	22:34:9	w	مَا	ﱷ	ما	what	mā
+6	22:34:10	w	رَزَقَهُم	ﱸ	رزقهم	He (has) provided them	razaqahum
+6	22:34:11	w	مِّنۢ	ﱹ	من	of	min
+6	22:34:12	w	بَهِيمَةِ	ﱺ	بهيمة	(the) beast	bahīmati
+6	22:34:13	w	ٱلۡأَنۡعَٰمِۗ	ﱻﱼ	الانعام	(of) cattle	l-anʿāmi
+6	22:34:14	w	فَإِلَٰهُكُمۡ	ﱽ	فالاهكم	And your God	fa-ilāhukum
+6	22:34:15	w	إِلَٰهٞ	ﱾ	الاه	(is) God	ilāhun
+6	22:34:16	w	وَٰحِدٞ	ﱿ	واحد	One	wāḥidun
+6	22:34:17	w	فَلَهُۥٓ	ﲀ	فله	so to Him	falahu
+7	22:34:18	w	أَسۡلِمُواْۗ	ﲁﲂ	اسلموا	submit	aslimū
+7	22:34:19	w	وَبَشِّرِ	ﲃ	وبشر	And give glad tidings	wabashiri
+7	22:34:20	w	ٱلۡمُخۡبِتِينَ	ﲄ	المخبتين	(to) the humble ones	l-mukh'bitīna
+7	22:34:21	e	٣٤	ﲅ			
+7	22:35:1	w	ٱلَّذِينَ	ﲆ	الذين	Those	alladhīna
+7	22:35:2	w	إِذَا	ﲇ	اذا	when	idhā
+7	22:35:3	w	ذُكِرَ	ﲈ	ذكر	is mentioned	dhukira
+7	22:35:4	w	ٱللَّهُ	ﲉ	الله	Allah	l-lahu
+7	22:35:5	w	وَجِلَتۡ	ﲊ	وجلت	fear	wajilat
+8	22:35:6	w	قُلُوبُهُمۡ	ﲋ	قلوبهم	their hearts	qulūbuhum
+8	22:35:7	w	وَٱلصَّٰبِرِينَ	ﲌ	والصابرين	and those who are patient	wal-ṣābirīna
+8	22:35:8	w	عَلَىٰ	ﲍ	على	over	ʿalā
+8	22:35:9	w	مَآ	ﲎ	ما	whatever	mā
+8	22:35:10	w	أَصَابَهُمۡ	ﲏ	اصابهم	has afflicted them	aṣābahum
+8	22:35:11	w	وَٱلۡمُقِيمِي	ﲐ	والمقيمي	and those who establish	wal-muqīmī
+8	22:35:12	w	ٱلصَّلَوٰةِ	ﲑ	الصلاة	the prayer	l-ṣalati
+9	22:35:13	w	وَمِمَّا	ﲒ	ومما	and out of what	wamimmā
+9	22:35:14	w	رَزَقۡنَٰهُمۡ	ﲓ	رزقناهم	We have provided them	razaqnāhum
+9	22:35:15	w	يُنفِقُونَ	ﲔ	ينفقون	they spend	yunfiqūna
+9	22:35:16	e	٣٥	ﲕ			
+9	22:36:1	w	وَٱلۡبُدۡنَ	ﲖ	والبدن	And the camels and cattle	wal-bud'na
+9	22:36:2	w	جَعَلۡنَٰهَا	ﲗ	جعلناها	We have made them	jaʿalnāhā
+9	22:36:3	w	لَكُم	ﲘ	لكم	for you	lakum
+9	22:36:4	w	مِّن	ﲙ	من	among	min
+9	22:36:5	w	شَعَٰٓئِرِ	ﲚ	شعاير	(the) Symbols	shaʿāiri
+10	22:36:6	w	ٱللَّهِ	ﲛ	الله	(of) Allah	l-lahi
+10	22:36:7	w	لَكُمۡ	ﲜ	لكم	for you	lakum
+10	22:36:8	w	فِيهَا	ﲝ	فيها	therein	fīhā
+10	22:36:9	w	خَيۡرٞۖ	ﲞﲟ	خير	(is) good	khayrun
+10	22:36:10	w	فَٱذۡكُرُواْ	ﲠ	فاذكروا	So mention	fa-udh'kurū
+10	22:36:11	w	ٱسۡمَ	ﲡ	اسم	(the) name	is'ma
+10	22:36:12	w	ٱللَّهِ	ﲢ	الله	(of) Allah	l-lahi
+10	22:36:13	w	عَلَيۡهَا	ﲣ	عليها	over them	ʿalayhā
+10	22:36:14	w	صَوَآفَّۖ	ﲤﲥ	صواف	(when) lined up	ṣawāffa
+10	22:36:15	w	فَإِذَا	ﲦ	فاذا	and when	fa-idhā
+10	22:36:16	w	وَجَبَتۡ	ﲧ	وجبت	are down	wajabat
+11	22:36:17	w	جُنُوبُهَا	ﲨ	جنوبها	their sides	junūbuhā
+11	22:36:18	w	فَكُلُواْ	ﲩ	فكلوا	then eat	fakulū
+11	22:36:19	w	مِنۡهَا	ﲪ	منها	from them	min'hā
+11	22:36:20	w	وَأَطۡعِمُواْ	ﲫ	واطعموا	and feed	wa-aṭʿimū
+11	22:36:21	w	ٱلۡقَانِعَ	ﲬ	القانع	the needy who do not ask	l-qāniʿa
+11	22:36:22	w	وَٱلۡمُعۡتَرَّۚ	ﲭﲮ	والمعتر	and the needy who ask	wal-muʿ'tara
+11	22:36:23	w	كَذَٰلِكَ	ﲯ	كذالك	Thus	kadhālika
+11	22:36:24	w	سَخَّرۡنَٰهَا	ﲰ	سخرناها	We have subjected them	sakharnāhā
+12	22:36:25	w	لَكُمۡ	ﲱ	لكم	to you	lakum
+12	22:36:26	w	لَعَلَّكُمۡ	ﲲ	لعلكم	so that you may	laʿallakum
+12	22:36:27	w	تَشۡكُرُونَ	ﲳ	تشكرون	be grateful	tashkurūna
+12	22:36:28	e	٣٦	ﲴ			
+12	22:37:1	w	لَن	ﲵ	لن	Will not	lan
+12	22:37:2	w	يَنَالَ	ﲶ	ينال	reach	yanāla
+12	22:37:3	w	ٱللَّهَ	ﲷ	الله	Allah	l-laha
+12	22:37:4	w	لُحُومُهَا	ﲸ	لحومها	their meat	luḥūmuhā
+12	22:37:5	w	وَلَا	ﲹ	ولا	and not	walā
+12	22:37:6	w	دِمَآؤُهَا	ﲺ	دماوها	their blood	dimāuhā
+13	22:37:7	w	وَلَٰكِن	ﲻ	ولاكن	but	walākin
+13	22:37:8	w	يَنَالُهُ	ﲼ	يناله	reaches Him	yanāluhu
+13	22:37:9	w	ٱلتَّقۡوَىٰ	ﲽ	التقوى	the piety	l-taqwā
+13	22:37:10	w	مِنكُمۡۚ	ﲾﲿ	منكم	from you	minkum
+13	22:37:11	w	كَذَٰلِكَ	ﳀ	كذالك	Thus	kadhālika
+13	22:37:12	w	سَخَّرَهَا	ﳁ	سخرها	He subjected them	sakharahā
+13	22:37:13	w	لَكُمۡ	ﳂ	لكم	to you	lakum
+13	22:37:14	w	لِتُكَبِّرُواْ	ﳃ	لتكبروا	so that you may magnify	litukabbirū
+14	22:37:15	w	ٱللَّهَ	ﳄ	الله	Allah	l-laha
+14	22:37:16	w	عَلَىٰ	ﳅ	على	for	ʿalā
+14	22:37:17	w	مَا	ﳆ	ما	what	mā
+14	22:37:18	w	هَدَىٰكُمۡۗ	ﳇﳈ	هداكم	He has guided you	hadākum
+14	22:37:19	w	وَبَشِّرِ	ﳉ	وبشر	And give glad tidings	wabashiri
+14	22:37:20	w	ٱلۡمُحۡسِنِينَ	ﳊ	المحسنين	(to) the good-doers	l-muḥ'sinīna
+14	22:37:21	e	٣٧	ﳋ			
+14	22:38:1	w	۞ إِنَّ	ﳌﳍ	۞ ان	Indeed	inna
+14	22:38:2	w	ٱللَّهَ	ﳎ	الله	Allah	l-laha
+14	22:38:3	w	يُدَٰفِعُ	ﳏ	يدافع	defends	yudāfiʿu
+15	22:38:4	w	عَنِ	ﳐ	عن	defends	ʿani
+15	22:38:5	w	ٱلَّذِينَ	ﳑ	الذين	those who	alladhīna
+15	22:38:6	w	ءَامَنُوٓاْۗ	ﳒﳓ	امنوا	believe	āmanū
+15	22:38:7	w	إِنَّ	ﳔ	ان	Indeed	inna
+15	22:38:8	w	ٱللَّهَ	ﳕ	الله	Allah	l-laha
+15	22:38:9	w	لَا	ﳖ	لا	(does) not	lā
+15	22:38:10	w	يُحِبُّ	ﳗ	يحب	like	yuḥibbu
+15	22:38:11	w	كُلَّ	ﳘ	كل	every	kulla
+15	22:38:12	w	خَوَّانٖ	ﳙ	خوان	treacherous	khawwānin
+15	22:38:13	w	كَفُورٍ	ﳚ	كفور	ungrateful	kafūrin
+15	22:38:14	e	٣٨	ﳛ			

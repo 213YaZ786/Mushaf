@@ -1,0 +1,152 @@
+1	3:23:1	w	أَلَمۡ	ﱁ	الم	Have not	alam
+1	3:23:2	w	تَرَ	ﱂ	تر	you seen	tara
+1	3:23:3	w	إِلَى	ﱃ	الى	[to]	ilā
+1	3:23:4	w	ٱلَّذِينَ	ﱄ	الذين	those who	alladhīna
+1	3:23:5	w	أُوتُواْ	ﱅ	اوتوا	were given	ūtū
+1	3:23:6	w	نَصِيبٗا	ﱆ	نصيبا	a portion	naṣīban
+1	3:23:7	w	مِّنَ	ﱇ	من	of	mina
+1	3:23:8	w	ٱلۡكِتَٰبِ	ﱈ	الكتاب	the Scripture	l-kitābi
+1	3:23:9	w	يُدۡعَوۡنَ	ﱉ	يدعون	They are invited	yud'ʿawna
+1	3:23:10	w	إِلَىٰ	ﱊ	الى	to	ilā
+1	3:23:11	w	كِتَٰبِ	ﱋ	كتاب	(the) Book	kitābi
+2	3:23:12	w	ٱللَّهِ	ﱌ	الله	(of) Allah	l-lahi
+2	3:23:13	w	لِيَحۡكُمَ	ﱍ	ليحكم	that (it should) arbitrate	liyaḥkuma
+2	3:23:14	w	بَيۡنَهُمۡ	ﱎ	بينهم	between them	baynahum
+2	3:23:15	w	ثُمَّ	ﱏ	ثم	then	thumma
+2	3:23:16	w	يَتَوَلَّىٰ	ﱐ	يتولى	turns away	yatawallā
+2	3:23:17	w	فَرِيقٞ	ﱑ	فريق	a party	farīqun
+2	3:23:18	w	مِّنۡهُمۡ	ﱒ	منهم	of them	min'hum
+2	3:23:19	w	وَهُم	ﱓ	وهم	and they (are)	wahum
+2	3:23:20	w	مُّعۡرِضُونَ	ﱔ	معرضون	those who are averse	muʿ'riḍūna
+2	3:23:21	e	٢٣	ﱕ			
+3	3:24:1	w	ذَٰلِكَ	ﱖ	ذالك	That	dhālika
+3	3:24:2	w	بِأَنَّهُمۡ	ﱗ	بانهم	(is) because they	bi-annahum
+3	3:24:3	w	قَالُواْ	ﱘ	قالوا	say	qālū
+3	3:24:4	w	لَن	ﱙ	لن	Never	lan
+3	3:24:5	w	تَمَسَّنَا	ﱚ	تمسنا	will touch us	tamassanā
+3	3:24:6	w	ٱلنَّارُ	ﱛ	النار	the Fire	l-nāru
+3	3:24:7	w	إِلَّآ	ﱜ	الا	except	illā
+3	3:24:8	w	أَيَّامٗا	ﱝ	اياما	(for) days	ayyāman
+3	3:24:9	w	مَّعۡدُودَٰتٖۖ	ﱞﱟ	معدودات	numbered	maʿdūdātin
+4	3:24:10	w	وَغَرَّهُمۡ	ﱠ	وغرهم	And deceived them	wagharrahum
+4	3:24:11	w	فِي	ﱡ	في	in	fī
+4	3:24:12	w	دِينِهِم	ﱢ	دينهم	their religion	dīnihim
+4	3:24:13	w	مَّا	ﱣ	ما	what	mā
+4	3:24:14	w	كَانُواْ	ﱤ	كانوا	they were	kānū
+4	3:24:15	w	يَفۡتَرُونَ	ﱥ	يفترون	inventing	yaftarūna
+4	3:24:16	e	٢٤	ﱦ			
+4	3:25:1	w	فَكَيۡفَ	ﱧ	فكيف	Then how (will it be)	fakayfa
+4	3:25:2	w	إِذَا	ﱨ	اذا	when	idhā
+4	3:25:3	w	جَمَعۡنَٰهُمۡ	ﱩ	جمعناهم	We will gather them	jamaʿnāhum
+5	3:25:4	w	لِيَوۡمٖ	ﱪ	ليوم	on a Day	liyawmin
+5	3:25:5	w	لَّا	ﱫ	لا	no	lā
+5	3:25:6	w	رَيۡبَ	ﱬ	ريب	doubt	rayba
+5	3:25:7	w	فِيهِ	ﱭ	فيه	in it	fīhi
+5	3:25:8	w	وَوُفِّيَتۡ	ﱮ	ووفيت	And will be paid in full	wawuffiyat
+5	3:25:9	w	كُلُّ	ﱯ	كل	every	kullu
+5	3:25:10	w	نَفۡسٖ	ﱰ	نفس	soul	nafsin
+5	3:25:11	w	مَّا	ﱱ	ما	what	mā
+5	3:25:12	w	كَسَبَتۡ	ﱲ	كسبت	it earned	kasabat
+5	3:25:13	w	وَهُمۡ	ﱳ	وهم	and they	wahum
+6	3:25:14	w	لَا	ﱴ	لا	(will) not	lā
+6	3:25:15	w	يُظۡلَمُونَ	ﱵ	يظلمون	be wronged	yuẓ'lamūna
+6	3:25:16	e	٢٥	ﱶ			
+6	3:26:1	w	قُلِ	ﱷ	قل	Say	quli
+6	3:26:2	w	ٱللَّهُمَّ	ﱸ	اللهم	O Allah	l-lahuma
+6	3:26:3	w	مَٰلِكَ	ﱹ	مالك	Owner	mālika
+6	3:26:4	w	ٱلۡمُلۡكِ	ﱺ	الملك	(of) the Dominion	l-mul'ki
+6	3:26:5	w	تُؤۡتِي	ﱻ	توتي	You give	tu'tī
+6	3:26:6	w	ٱلۡمُلۡكَ	ﱼ	الملك	the dominion	l-mul'ka
+6	3:26:7	w	مَن	ﱽ	من	(to) whom	man
+7	3:26:8	w	تَشَآءُ	ﱾ	تشاء	You will	tashāu
+7	3:26:9	w	وَتَنزِعُ	ﱿ	وتنزع	and You take away	watanziʿu
+7	3:26:10	w	ٱلۡمُلۡكَ	ﲀ	الملك	the dominion	l-mul'ka
+7	3:26:11	w	مِمَّن	ﲁ	ممن	from whom	mimman
+7	3:26:12	w	تَشَآءُ	ﲂ	تشاء	You will	tashāu
+7	3:26:13	w	وَتُعِزُّ	ﲃ	وتعز	and You honor	watuʿizzu
+7	3:26:14	w	مَن	ﲄ	من	whom	man
+7	3:26:15	w	تَشَآءُ	ﲅ	تشاء	You will	tashāu
+7	3:26:16	w	وَتُذِلُّ	ﲆ	وتذل	and You humiliate	watudhillu
+7	3:26:17	w	مَن	ﲇ	من	whom	man
+8	3:26:18	w	تَشَآءُۖ	ﲈﲉ	تشاء	You will	tashāu
+8	3:26:19	w	بِيَدِكَ	ﲊ	بيدك	In Your hand	biyadika
+8	3:26:20	w	ٱلۡخَيۡرُۖ	ﲋﲌ	الخير	(is all) the good	l-khayru
+8	3:26:21	w	إِنَّكَ	ﲍ	انك	Indeed, You	innaka
+8	3:26:22	w	عَلَىٰ	ﲎ	على	(are) on	ʿalā
+8	3:26:23	w	كُلِّ	ﲏ	كل	every	kulli
+8	3:26:24	w	شَيۡءٖ	ﲐ	شيء	thing	shayin
+8	3:26:25	w	قَدِيرٞ	ﲑ	قدير	All-Powerful	qadīrun
+8	3:26:26	e	٢٦	ﲒ			
+8	3:27:1	w	تُولِجُ	ﲓ	تولج	You cause to enter	tūliju
+8	3:27:2	w	ٱلَّيۡلَ	ﲔ	الليل	the night	al-layla
+9	3:27:3	w	فِي	ﲕ	في	in	fī
+9	3:27:4	w	ٱلنَّهَارِ	ﲖ	النهار	the day	l-nahāri
+9	3:27:5	w	وَتُولِجُ	ﲗ	وتولج	and You cause to enter	watūliju
+9	3:27:6	w	ٱلنَّهَارَ	ﲘ	النهار	the day	l-nahāra
+9	3:27:7	w	فِي	ﲙ	في	in	fī
+9	3:27:8	w	ٱلَّيۡلِۖ	ﲚﲛ	الليل	the night	al-layli
+9	3:27:9	w	وَتُخۡرِجُ	ﲜ	وتخرج	and You bring forth	watukh'riju
+9	3:27:10	w	ٱلۡحَيَّ	ﲝ	الحي	the living	l-ḥaya
+9	3:27:11	w	مِنَ	ﲞ	من	from	mina
+9	3:27:12	w	ٱلۡمَيِّتِ	ﲟ	الميت	the dead	l-mayiti
+10	3:27:13	w	وَتُخۡرِجُ	ﲠ	وتخرج	and You bring forth	watukh'riju
+10	3:27:14	w	ٱلۡمَيِّتَ	ﲡ	الميت	the dead	l-mayita
+10	3:27:15	w	مِنَ	ﲢ	من	from	mina
+10	3:27:16	w	ٱلۡحَيِّۖ	ﲣﲤ	الحي	the living	l-ḥayi
+10	3:27:17	w	وَتَرۡزُقُ	ﲥ	وترزق	and You give provision	watarzuqu
+10	3:27:18	w	مَن	ﲦ	من	(to) whom	man
+10	3:27:19	w	تَشَآءُ	ﲧ	تشاء	You will	tashāu
+10	3:27:20	w	بِغَيۡرِ	ﲨ	بغير	without	bighayri
+10	3:27:21	w	حِسَابٖ	ﲩ	حساب	measure	ḥisābin
+10	3:27:22	e	٢٧	ﲪ			
+11	3:28:1	w	لَّا	ﲫ	لا	(Let) not	lā
+11	3:28:2	w	يَتَّخِذِ	ﲬ	يتخذ	take	yattakhidhi
+11	3:28:3	w	ٱلۡمُؤۡمِنُونَ	ﲭ	المومنون	the believers	l-mu'minūna
+11	3:28:4	w	ٱلۡكَٰفِرِينَ	ﲮ	الكافرين	the disbelievers	l-kāfirīna
+11	3:28:5	w	أَوۡلِيَآءَ	ﲯ	اولياء	(as) allies	awliyāa
+11	3:28:6	w	مِن	ﲰ	من	from	min
+11	3:28:7	w	دُونِ	ﲱ	دون	instead of	dūni
+11	3:28:8	w	ٱلۡمُؤۡمِنِينَۖ	ﲲﲳ	المومنين	the believers	l-mu'minīna
+12	3:28:9	w	وَمَن	ﲴ	ومن	And whoever	waman
+12	3:28:10	w	يَفۡعَلۡ	ﲵ	يفعل	does	yafʿal
+12	3:28:11	w	ذَٰلِكَ	ﲶ	ذالك	that	dhālika
+12	3:28:12	w	فَلَيۡسَ	ﲷ	فليس	then not he (has)	falaysa
+12	3:28:13	w	مِنَ	ﲸ	من	from	mina
+12	3:28:14	w	ٱللَّهِ	ﲹ	الله	Allah	l-lahi
+12	3:28:15	w	فِي	ﲺ	في	in	fī
+12	3:28:16	w	شَيۡءٍ	ﲻ	شيء	anything	shayin
+12	3:28:17	w	إِلَّآ	ﲼ	الا	except	illā
+12	3:28:18	w	أَن	ﲽ	ان	that	an
+12	3:28:19	w	تَتَّقُواْ	ﲾ	تتقوا	you fear	tattaqū
+12	3:28:20	w	مِنۡهُمۡ	ﲿ	منهم	from them	min'hum
+13	3:28:21	w	تُقَىٰةٗۗ	ﳀﳁ	تقاة	(as) a precaution	tuqātan
+13	3:28:22	w	وَيُحَذِّرُكُمُ	ﳂ	ويحذركم	And warns you	wayuḥadhirukumu
+13	3:28:23	w	ٱللَّهُ	ﳃ	الله	Allah	l-lahu
+13	3:28:24	w	نَفۡسَهُۥۗ	ﳄﳅ	نفسه	(of) Himself	nafsahu
+13	3:28:25	w	وَإِلَى	ﳆ	والى	and to	wa-ilā
+13	3:28:26	w	ٱللَّهِ	ﳇ	الله	Allah	l-lahi
+13	3:28:27	w	ٱلۡمَصِيرُ	ﳈ	المصير	(is) the final return	l-maṣīru
+13	3:28:28	e	٢٨	ﳉ			
+13	3:29:1	w	قُلۡ	ﳊ	قل	Say	qul
+14	3:29:2	w	إِن	ﳋ	ان	Whether	in
+14	3:29:3	w	تُخۡفُواْ	ﳌ	تخفوا	you conceal	tukh'fū
+14	3:29:4	w	مَا	ﳍ	ما	what	mā
+14	3:29:5	w	فِي	ﳎ	في	(is) in	fī
+14	3:29:6	w	صُدُورِكُمۡ	ﳏ	صدوركم	your breasts	ṣudūrikum
+14	3:29:7	w	أَوۡ	ﳐ	او	or	aw
+14	3:29:8	w	تُبۡدُوهُ	ﳑ	تبدوه	you disclose it	tub'dūhu
+14	3:29:9	w	يَعۡلَمۡهُ	ﳒ	يعلمه	knows it	yaʿlamhu
+14	3:29:10	w	ٱللَّهُۗ	ﳓﳔ	الله	Allah	l-lahu
+14	3:29:11	w	وَيَعۡلَمُ	ﳕ	ويعلم	And He knows	wayaʿlamu
+15	3:29:12	w	مَا	ﳖ	ما	what	mā
+15	3:29:13	w	فِي	ﳗ	في	(is) in	fī
+15	3:29:14	w	ٱلسَّمَٰوَٰتِ	ﳘ	السماوات	the heavens	l-samāwāti
+15	3:29:15	w	وَمَا	ﳙ	وما	and what	wamā
+15	3:29:16	w	فِي	ﳚ	في	(is) in	fī
+15	3:29:17	w	ٱلۡأَرۡضِۗ	ﳛﳜ	الارض	the earth	l-arḍi
+15	3:29:18	w	وَٱللَّهُ	ﳝ	والله	And Allah	wal-lahu
+15	3:29:19	w	عَلَىٰ	ﳞ	على	(is) on	ʿalā
+15	3:29:20	w	كُلِّ	ﳟ	كل	every	kulli
+15	3:29:21	w	شَيۡءٖ	ﳠ	شيء	thing	shayin
+15	3:29:22	w	قَدِيرٞ	ﳡ	قدير	All-Powerful	qadīrun
+15	3:29:23	e	٢٩	ﳢ			

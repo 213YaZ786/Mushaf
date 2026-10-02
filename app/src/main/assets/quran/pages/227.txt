@@ -1,0 +1,149 @@
+1	11:46:1	w	قَالَ	ﱁ	قال	He said	qāla
+1	11:46:2	w	يَٰنُوحُ	ﱂ	يا نوح	O Nuh	yānūḥu
+1	11:46:3	w	إِنَّهُۥ	ﱃ	انه	Indeed, he	innahu
+1	11:46:4	w	لَيۡسَ	ﱄ	ليس	(is) not	laysa
+1	11:46:5	w	مِنۡ	ﱅ	من	of	min
+1	11:46:6	w	أَهۡلِكَۖ	ﱆﱇ	اهلك	your family	ahlika
+1	11:46:7	w	إِنَّهُۥ	ﱈ	انه	indeed, [he]	innahu
+1	11:46:8	w	عَمَلٌ	ﱉ	عمل	(his) deed	ʿamalun
+1	11:46:9	w	غَيۡرُ	ﱊ	غير	(is) other than	ghayru
+1	11:46:10	w	صَٰلِحٖۖ	ﱋﱌ	صالح	righteous	ṣāliḥin
+1	11:46:11	w	فَلَا	ﱍ	فلا	so (do) not	falā
+1	11:46:12	w	تَسۡـَٔلۡنِ	ﱎ	تسالن	ask Me	tasalni
+2	11:46:13	w	مَا	ﱏ	ما	(about) what	mā
+2	11:46:14	w	لَيۡسَ	ﱐ	ليس	not	laysa
+2	11:46:15	w	لَكَ	ﱑ	لك	you have	laka
+2	11:46:16	w	بِهِۦ	ﱒ	به	of it	bihi
+2	11:46:17	w	عِلۡمٌۖ	ﱓﱔ	علم	any knowledge	ʿil'mun
+2	11:46:18	w	إِنِّيٓ	ﱕ	اني	Indeed, I	innī
+2	11:46:19	w	أَعِظُكَ	ﱖ	اعظك	admonish you	aʿiẓuka
+2	11:46:20	w	أَن	ﱗ	ان	lest	an
+2	11:46:21	w	تَكُونَ	ﱘ	تكون	you be	takūna
+2	11:46:22	w	مِنَ	ﱙ	من	among	mina
+2	11:46:23	w	ٱلۡجَٰهِلِينَ	ﱚ	الجاهلين	the ignorant	l-jāhilīna
+3	11:46:24	e	٤٦	ﱛ			
+3	11:47:1	w	قَالَ	ﱜ	قال	He said	qāla
+3	11:47:2	w	رَبِّ	ﱝ	رب	O my Lord	rabbi
+3	11:47:3	w	إِنِّيٓ	ﱞ	اني	Indeed, I	innī
+3	11:47:4	w	أَعُوذُ	ﱟ	اعوذ	seek refuge	aʿūdhu
+3	11:47:5	w	بِكَ	ﱠ	بك	in You	bika
+3	11:47:6	w	أَنۡ	ﱡ	ان	that	an
+3	11:47:7	w	أَسۡـَٔلَكَ	ﱢ	اسالك	I (should) ask You	asalaka
+3	11:47:8	w	مَا	ﱣ	ما	what	mā
+3	11:47:9	w	لَيۡسَ	ﱤ	ليس	not	laysa
+3	11:47:10	w	لِي	ﱥ	لي	I have	lī
+3	11:47:11	w	بِهِۦ	ﱦ	به	of it	bihi
+3	11:47:12	w	عِلۡمٞۖ	ﱧﱨ	علم	knowledge	ʿil'mun
+3	11:47:13	w	وَإِلَّا	ﱩ	والا	And unless	wa-illā
+4	11:47:14	w	تَغۡفِرۡ	ﱪ	تغفر	You forgive	taghfir
+4	11:47:15	w	لِي	ﱫ	لي	me	lī
+4	11:47:16	w	وَتَرۡحَمۡنِيٓ	ﱬ	وترحمني	and You have mercy on me	watarḥamnī
+4	11:47:17	w	أَكُن	ﱭ	اكن	I will be	akun
+4	11:47:18	w	مِّنَ	ﱮ	من	among	mina
+4	11:47:19	w	ٱلۡخَٰسِرِينَ	ﱯ	الخاسرين	the losers	l-khāsirīna
+4	11:47:20	e	٤٧	ﱰ			
+4	11:48:1	w	قِيلَ	ﱱ	قيل	It was said	qīla
+4	11:48:2	w	يَٰنُوحُ	ﱲ	يا نوح	O Nuh	yānūḥu
+5	11:48:3	w	ٱهۡبِطۡ	ﱳ	اهبط	Go down	ih'biṭ
+5	11:48:4	w	بِسَلَٰمٖ	ﱴ	بسلام	with peace	bisalāmin
+5	11:48:5	w	مِّنَّا	ﱵ	منا	from Us	minnā
+5	11:48:6	w	وَبَرَكَٰتٍ	ﱶ	وبركات	and blessings	wabarakātin
+5	11:48:7	w	عَلَيۡكَ	ﱷ	عليك	on you	ʿalayka
+5	11:48:8	w	وَعَلَىٰٓ	ﱸ	وعلى	and on	waʿalā
+5	11:48:9	w	أُمَمٖ	ﱹ	امم	the nations	umamin
+5	11:48:10	w	مِّمَّن	ﱺ	ممن	from those	mimman
+5	11:48:11	w	مَّعَكَۚ	ﱻﱼ	معك	with you	maʿaka
+6	11:48:12	w	وَأُمَمٞ	ﱽ	وامم	But (to other) nations	wa-umamun
+6	11:48:13	w	سَنُمَتِّعُهُمۡ	ﱾ	سنمتعهم	We will grant enjoyment	sanumattiʿuhum
+6	11:48:14	w	ثُمَّ	ﱿ	ثم	then	thumma
+6	11:48:15	w	يَمَسُّهُم	ﲀ	يمسهم	will touch them	yamassuhum
+6	11:48:16	w	مِّنَّا	ﲁ	منا	from Us	minnā
+6	11:48:17	w	عَذَابٌ	ﲂ	عذاب	a punishment	ʿadhābun
+6	11:48:18	w	أَلِيمٞ	ﲃ	اليم	painful	alīmun
+6	11:48:19	e	٤٨	ﲄ			
+6	11:49:1	w	تِلۡكَ	ﲅ	تلك	This	til'ka
+7	11:49:2	w	مِنۡ	ﲆ	من	(is) from	min
+7	11:49:3	w	أَنۢبَآءِ	ﲇ	انباء	the news	anbāi
+7	11:49:4	w	ٱلۡغَيۡبِ	ﲈ	الغيب	(of) the unseen	l-ghaybi
+7	11:49:5	w	نُوحِيهَآ	ﲉ	نوحيها	(which) We reveal	nūḥīhā
+7	11:49:6	w	إِلَيۡكَۖ	ﲊﲋ	اليك	to you	ilayka
+7	11:49:7	w	مَا	ﲌ	ما	Not	mā
+7	11:49:8	w	كُنتَ	ﲍ	كنت	you were	kunta
+7	11:49:9	w	تَعۡلَمُهَآ	ﲎ	تعلمها	knowing it	taʿlamuhā
+7	11:49:10	w	أَنتَ	ﲏ	انت	you	anta
+8	11:49:11	w	وَلَا	ﲐ	ولا	and not	walā
+8	11:49:12	w	قَوۡمُكَ	ﲑ	قومك	your people	qawmuka
+8	11:49:13	w	مِن	ﲒ	من	from	min
+8	11:49:14	w	قَبۡلِ	ﲓ	قبل	before	qabli
+8	11:49:15	w	هَٰذَاۖ	ﲔﲕ	هاذا	this	hādhā
+8	11:49:16	w	فَٱصۡبِرۡۖ	ﲖﲗ	فاصبر	So be patient	fa-iṣ'bir
+8	11:49:17	w	إِنَّ	ﲘ	ان	indeed	inna
+8	11:49:18	w	ٱلۡعَٰقِبَةَ	ﲙ	العاقبة	the end	l-ʿāqibata
+8	11:49:19	w	لِلۡمُتَّقِينَ	ﲚ	للمتقين	(is) for the God fearing	lil'muttaqīna
+8	11:49:20	e	٤٩	ﲛ			
+9	11:50:1	w	وَإِلَىٰ	ﲜ	والى	And to	wa-ilā
+9	11:50:2	w	عَادٍ	ﲝ	عاد	Aad	ʿādin
+9	11:50:3	w	أَخَاهُمۡ	ﲞ	اخاهم	(We sent) their brother	akhāhum
+9	11:50:4	w	هُودٗاۚ	ﲟﲠ	هودا	Hud	hūdan
+9	11:50:5	w	قَالَ	ﲡ	قال	He said	qāla
+9	11:50:6	w	يَٰقَوۡمِ	ﲢ	يا قوم	O my people	yāqawmi
+9	11:50:7	w	ٱعۡبُدُواْ	ﲣ	اعبدوا	Worship	uʿ'budū
+9	11:50:8	w	ٱللَّهَ	ﲤ	الله	Allah	l-laha
+9	11:50:9	w	مَا	ﲥ	ما	not	mā
+9	11:50:10	w	لَكُم	ﲦ	لكم	(is) for you	lakum
+9	11:50:11	w	مِّنۡ	ﲧ	من	any	min
+10	11:50:12	w	إِلَٰهٍ	ﲨ	الاه	god	ilāhin
+10	11:50:13	w	غَيۡرُهُۥٓۖ	ﲩﲪ	غيره	other than Him	ghayruhu
+10	11:50:14	w	إِنۡ	ﲫ	ان	Not	in
+10	11:50:15	w	أَنتُمۡ	ﲬ	انتم	you	antum
+10	11:50:16	w	إِلَّا	ﲭ	الا	(are) but	illā
+10	11:50:17	w	مُفۡتَرُونَ	ﲮ	مفترون	inventors	muf'tarūna
+10	11:50:18	e	٥٠	ﲯ			
+10	11:51:1	w	يَٰقَوۡمِ	ﲰ	يا قوم	O my people	yāqawmi
+10	11:51:2	w	لَآ	ﲱ	لا	Not	lā
+10	11:51:3	w	أَسۡـَٔلُكُمۡ	ﲲ	اسالكم	I ask you	asalukum
+10	11:51:4	w	عَلَيۡهِ	ﲳ	عليه	for it	ʿalayhi
+11	11:51:5	w	أَجۡرًاۖ	ﲴﲵ	اجرا	any reward	ajran
+11	11:51:6	w	إِنۡ	ﲶ	ان	Not	in
+11	11:51:7	w	أَجۡرِيَ	ﲷ	اجري	(is) my reward	ajriya
+11	11:51:8	w	إِلَّا	ﲸ	الا	except	illā
+11	11:51:9	w	عَلَى	ﲹ	على	from	ʿalā
+11	11:51:10	w	ٱلَّذِي	ﲺ	الذي	the One Who	alladhī
+11	11:51:11	w	فَطَرَنِيٓۚ	ﲻﲼ	فطرني	created me	faṭaranī
+11	11:51:12	w	أَفَلَا	ﲽ	افلا	Then will not	afalā
+11	11:51:13	w	تَعۡقِلُونَ	ﲾ	تعقلون	you use reason	taʿqilūna
+11	11:51:14	e	٥١	ﲿ			
+12	11:52:1	w	وَيَٰقَوۡمِ	ﳀ	ويا قوم	And O my people	wayāqawmi
+12	11:52:2	w	ٱسۡتَغۡفِرُواْ	ﳁ	استغفروا	Ask forgiveness	is'taghfirū
+12	11:52:3	w	رَبَّكُمۡ	ﳂ	ربكم	(of) your Lord	rabbakum
+12	11:52:4	w	ثُمَّ	ﳃ	ثم	then	thumma
+12	11:52:5	w	تُوبُوٓاْ	ﳄ	توبوا	turn in repentance	tūbū
+12	11:52:6	w	إِلَيۡهِ	ﳅ	اليه	to Him	ilayhi
+12	11:52:7	w	يُرۡسِلِ	ﳆ	يرسل	He will send	yur'sili
+12	11:52:8	w	ٱلسَّمَآءَ	ﳇ	السماء	(from) the sky (rain)	l-samāa
+13	11:52:9	w	عَلَيۡكُم	ﳈ	عليكم	upon you	ʿalaykum
+13	11:52:10	w	مِّدۡرَارٗا	ﳉ	مدرارا	(in) abundance	mid'rāran
+13	11:52:11	w	وَيَزِدۡكُمۡ	ﳊ	ويزدكم	and increase you	wayazid'kum
+13	11:52:12	w	قُوَّةً	ﳋ	قوة	(in) strength	quwwatan
+13	11:52:13	w	إِلَىٰ	ﳌ	الى	(added) to	ilā
+13	11:52:14	w	قُوَّتِكُمۡ	ﳍ	قوتكم	your strength	quwwatikum
+13	11:52:15	w	وَلَا	ﳎ	ولا	And (do) not	walā
+13	11:52:16	w	تَتَوَلَّوۡاْ	ﳏ	تتولوا	turn away	tatawallaw
+14	11:52:17	w	مُجۡرِمِينَ	ﳐ	مجرمين	(as) criminals	muj'rimīna
+14	11:52:18	e	٥٢	ﳑ			
+14	11:53:1	w	قَالُواْ	ﳒ	قالوا	They said	qālū
+14	11:53:2	w	يَٰهُودُ	ﳓ	يا هود	O Hud	yāhūdu
+14	11:53:3	w	مَا	ﳔ	ما	You have not brought us	mā
+14	11:53:4	w	جِئۡتَنَا	ﳕ	جيتنا	You have not brought us	ji'tanā
+14	11:53:5	w	بِبَيِّنَةٖ	ﳖ	ببينة	clear proofs	bibayyinatin
+14	11:53:6	w	وَمَا	ﳗ	وما	and not	wamā
+14	11:53:7	w	نَحۡنُ	ﳘ	نحن	we	naḥnu
+15	11:53:8	w	بِتَارِكِيٓ	ﳙ	بتاركي	(will) leave	bitārikī
+15	11:53:9	w	ءَالِهَتِنَا	ﳚ	الهتنا	our gods	ālihatinā
+15	11:53:10	w	عَن	ﳛ	عن	on	ʿan
+15	11:53:11	w	قَوۡلِكَ	ﳜ	قولك	your saying	qawlika
+15	11:53:12	w	وَمَا	ﳝ	وما	and not	wamā
+15	11:53:13	w	نَحۡنُ	ﳞ	نحن	we (are)	naḥnu
+15	11:53:14	w	لَكَ	ﳟ	لك	in you	laka
+15	11:53:15	w	بِمُؤۡمِنِينَ	ﳠ	بمومنين	believers	bimu'minīna
+15	11:53:16	e	٥٣	ﳡ			

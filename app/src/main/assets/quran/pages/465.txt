@@ -1,0 +1,131 @@
+1	39:57:1	w	أَوۡ	ﱁ	او	Or	aw
+1	39:57:2	w	تَقُولَ	ﱂ	تقول	it should say	taqūla
+1	39:57:3	w	لَوۡ	ﱃ	لو	If that	law
+1	39:57:4	w	أَنَّ	ﱄ	ان	If that	anna
+1	39:57:5	w	ٱللَّهَ	ﱅ	الله	Allah	l-laha
+1	39:57:6	w	هَدَىٰنِي	ﱆ	هداني	(had) guided me	hadānī
+1	39:57:7	w	لَكُنتُ	ﱇ	لكنت	surely, I (would) have been	lakuntu
+1	39:57:8	w	مِنَ	ﱈ	من	among	mina
+1	39:57:9	w	ٱلۡمُتَّقِينَ	ﱉ	المتقين	the righteous	l-mutaqīna
+1	39:57:10	e	٥٧	ﱊ			
+1	39:58:1	w	أَوۡ	ﱋ	او	Or	aw
+1	39:58:2	w	تَقُولَ	ﱌ	تقول	it should say	taqūla
+2	39:58:3	w	حِينَ	ﱍ	حين	when	ḥīna
+2	39:58:4	w	تَرَى	ﱎ	ترى	it sees	tarā
+2	39:58:5	w	ٱلۡعَذَابَ	ﱏ	العذاب	the punishment	l-ʿadhāba
+2	39:58:6	w	لَوۡ	ﱐ	لو	If	law
+2	39:58:7	w	أَنَّ	ﱑ	ان	only	anna
+2	39:58:8	w	لِي	ﱒ	لي	for me	lī
+2	39:58:9	w	كَرَّةٗ	ﱓ	كرة	another chance	karratan
+2	39:58:10	w	فَأَكُونَ	ﱔ	فاكون	then I could be	fa-akūna
+2	39:58:11	w	مِنَ	ﱕ	من	among	mina
+2	39:58:12	w	ٱلۡمُحۡسِنِينَ	ﱖ	المحسنين	the good-doers	l-muḥ'sinīna
+3	39:58:13	e	٥٨	ﱗ			
+3	39:59:1	w	بَلَىٰ	ﱘ	بلى	Yes	balā
+3	39:59:2	w	قَدۡ	ﱙ	قد	verily	qad
+3	39:59:3	w	جَآءَتۡكَ	ﱚ	جاءتك	came to you	jāatka
+3	39:59:4	w	ءَايَٰتِي	ﱛ	اياتي	My Verses	āyātī
+3	39:59:5	w	فَكَذَّبۡتَ	ﱜ	فكذبت	but you denied	fakadhabta
+3	39:59:6	w	بِهَا	ﱝ	بها	them	bihā
+3	39:59:7	w	وَٱسۡتَكۡبَرۡتَ	ﱞ	واستكبرت	and were arrogant	wa-is'takbarta
+3	39:59:8	w	وَكُنتَ	ﱟ	وكنت	and you were	wakunta
+4	39:59:9	w	مِنَ	ﱠ	من	among	mina
+4	39:59:10	w	ٱلۡكَٰفِرِينَ	ﱡ	الكافرين	the disbelievers	l-kāfirīna
+4	39:59:11	e	٥٩	ﱢ			
+4	39:60:1	w	وَيَوۡمَ	ﱣ	ويوم	And (on the) Day	wayawma
+4	39:60:2	w	ٱلۡقِيَٰمَةِ	ﱤ	القيامة	(of) the Resurrection	l-qiyāmati
+4	39:60:3	w	تَرَى	ﱥ	ترى	you will see	tarā
+4	39:60:4	w	ٱلَّذِينَ	ﱦ	الذين	those who	alladhīna
+4	39:60:5	w	كَذَبُواْ	ﱧ	كذبوا	lied	kadhabū
+4	39:60:6	w	عَلَى	ﱨ	على	about	ʿalā
+5	39:60:7	w	ٱللَّهِ	ﱩ	الله	Allah	l-lahi
+5	39:60:8	w	وُجُوهُهُم	ﱪ	وجوههم	their faces	wujūhuhum
+5	39:60:9	w	مُّسۡوَدَّةٌۚ	ﱫﱬ	مسودة	(will be) blackened	mus'waddatun
+5	39:60:10	w	أَلَيۡسَ	ﱭ	اليس	Is (there) not	alaysa
+5	39:60:11	w	فِي	ﱮ	في	in	fī
+5	39:60:12	w	جَهَنَّمَ	ﱯ	جهنم	Hell	jahannama
+5	39:60:13	w	مَثۡوٗى	ﱰ	مثوى	an abode	mathwan
+5	39:60:14	w	لِّلۡمُتَكَبِّرِينَ	ﱱ	للمتكبرين	for the arrogant	lil'mutakabbirīna
+6	39:60:15	e	٦٠	ﱲ			
+6	39:61:1	w	وَيُنَجِّي	ﱳ	وينجي	And Allah will deliver	wayunajjī
+6	39:61:2	w	ٱللَّهُ	ﱴ	الله	And Allah will deliver	l-lahu
+6	39:61:3	w	ٱلَّذِينَ	ﱵ	الذين	those who	alladhīna
+6	39:61:4	w	ٱتَّقَوۡاْ	ﱶ	اتقوا	feared (Him)	ittaqaw
+6	39:61:5	w	بِمَفَازَتِهِمۡ	ﱷ	بمفازتهم	to their place of salvation	bimafāzatihim
+6	39:61:6	w	لَا	ﱸ	لا	not	lā
+6	39:61:7	w	يَمَسُّهُمُ	ﱹ	يمسهم	will touch them	yamassuhumu
+6	39:61:8	w	ٱلسُّوٓءُ	ﱺ	السوء	the evil	l-sūu
+7	39:61:9	w	وَلَا	ﱻ	ولا	and not	walā
+7	39:61:10	w	هُمۡ	ﱼ	هم	they	hum
+7	39:61:11	w	يَحۡزَنُونَ	ﱽ	يحزنون	will grieve	yaḥzanūna
+7	39:61:12	e	٦١	ﱾ			
+7	39:62:1	w	ٱللَّهُ	ﱿ	الله	Allah	al-lahu
+7	39:62:2	w	خَٰلِقُ	ﲀ	خالق	(is the) Creator	khāliqu
+7	39:62:3	w	كُلِّ	ﲁ	كل	(of) all	kulli
+7	39:62:4	w	شَيۡءٖۖ	ﲂﲃ	شيء	things	shayin
+7	39:62:5	w	وَهُوَ	ﲄ	وهو	and He	wahuwa
+7	39:62:6	w	عَلَىٰ	ﲅ	على	(is) over	ʿalā
+7	39:62:7	w	كُلِّ	ﲆ	كل	all	kulli
+8	39:62:8	w	شَيۡءٖ	ﲇ	شيء	things	shayin
+8	39:62:9	w	وَكِيلٞ	ﲈ	وكيل	a Guardian	wakīlun
+8	39:62:10	e	٦٢	ﲉ			
+8	39:63:1	w	لَّهُۥ	ﲊ	له	For Him	lahu
+8	39:63:2	w	مَقَالِيدُ	ﲋ	مقاليد	(are the) keys	maqālīdu
+8	39:63:3	w	ٱلسَّمَٰوَٰتِ	ﲌ	السماوات	(of) the heavens	l-samāwāti
+8	39:63:4	w	وَٱلۡأَرۡضِۗ	ﲍﲎ	والارض	and the earth	wal-arḍi
+8	39:63:5	w	وَٱلَّذِينَ	ﲏ	والذين	And those who	wa-alladhīna
+9	39:63:6	w	كَفَرُواْ	ﲐ	كفروا	disbelieve	kafarū
+9	39:63:7	w	بِـَٔايَٰتِ	ﲑ	بايات	in (the) Verses	biāyāti
+9	39:63:8	w	ٱللَّهِ	ﲒ	الله	(of) Allah	l-lahi
+9	39:63:9	w	أُوْلَٰٓئِكَ	ﲓ	اولايك	those	ulāika
+9	39:63:10	w	هُمُ	ﲔ	هم	they	humu
+9	39:63:11	w	ٱلۡخَٰسِرُونَ	ﲕ	الخاسرون	(are) the losers	l-khāsirūna
+9	39:63:12	e	٦٣	ﲖ			
+9	39:64:1	w	قُلۡ	ﲗ	قل	Say	qul
+10	39:64:2	w	أَفَغَيۡرَ	ﲘ	افغير	Is (it) other than	afaghayra
+10	39:64:3	w	ٱللَّهِ	ﲙ	الله	Allah	l-lahi
+10	39:64:4	w	تَأۡمُرُوٓنِّيٓ	ﲚ	تامروني	you order me	tamurūnnī
+10	39:64:5	w	أَعۡبُدُ	ﲛ	اعبد	(to) worship	aʿbudu
+10	39:64:6	w	أَيُّهَا	ﲜ	ايها	O	ayyuhā
+10	39:64:7	w	ٱلۡجَٰهِلُونَ	ﲝ	الجاهلون	ignorant ones	l-jāhilūna
+10	39:64:8	e	٦٤	ﲞ			
+10	39:65:1	w	وَلَقَدۡ	ﲟ	ولقد	And verily	walaqad
+11	39:65:2	w	أُوحِيَ	ﲠ	اوحي	it has been revealed	ūḥiya
+11	39:65:3	w	إِلَيۡكَ	ﲡ	اليك	to you	ilayka
+11	39:65:4	w	وَإِلَى	ﲢ	والى	and to	wa-ilā
+11	39:65:5	w	ٱلَّذِينَ	ﲣ	الذين	those who	alladhīna
+11	39:65:6	w	مِن	ﲤ	من	(were) before you	min
+11	39:65:7	w	قَبۡلِكَ	ﲥ	قبلك	(were) before you	qablika
+11	39:65:8	w	لَئِنۡ	ﲦ	لين	if	la-in
+11	39:65:9	w	أَشۡرَكۡتَ	ﲧ	اشركت	you associate (with Allah)	ashrakta
+12	39:65:10	w	لَيَحۡبَطَنَّ	ﲨ	ليحبطن	surely, will become worthless	layaḥbaṭanna
+12	39:65:11	w	عَمَلُكَ	ﲩ	عملك	your deeds	ʿamaluka
+12	39:65:12	w	وَلَتَكُونَنَّ	ﲪ	ولتكونن	and you will surely be	walatakūnanna
+12	39:65:13	w	مِنَ	ﲫ	من	among	mina
+12	39:65:14	w	ٱلۡخَٰسِرِينَ	ﲬ	الخاسرين	the losers	l-khāsirīna
+12	39:65:15	e	٦٥	ﲭ			
+12	39:66:1	w	بَلِ	ﲮ	بل	Nay	bali
+13	39:66:2	w	ٱللَّهَ	ﲯ	الله	But worship Allah	l-laha
+13	39:66:3	w	فَٱعۡبُدۡ	ﲰ	فاعبد	But worship Allah	fa-uʿ'bud
+13	39:66:4	w	وَكُن	ﲱ	وكن	and be	wakun
+13	39:66:5	w	مِّنَ	ﲲ	من	among	mina
+13	39:66:6	w	ٱلشَّٰكِرِينَ	ﲳ	الشاكرين	the thankful ones	l-shākirīna
+13	39:66:7	e	٦٦	ﲴ			
+13	39:67:1	w	وَمَا	ﲵ	وما	And not	wamā
+13	39:67:2	w	قَدَرُواْ	ﲶ	قدروا	they appraised	qadarū
+13	39:67:3	w	ٱللَّهَ	ﲷ	الله	Allah	l-laha
+13	39:67:4	w	حَقَّ	ﲸ	حق	(with) true	ḥaqqa
+14	39:67:5	w	قَدۡرِهِۦ	ﲹ	قدره	appraisal	qadrihi
+14	39:67:6	w	وَٱلۡأَرۡضُ	ﲺ	والارض	while the earth	wal-arḍu
+14	39:67:7	w	جَمِيعٗا	ﲻ	جميعا	entirely	jamīʿan
+14	39:67:8	w	قَبۡضَتُهُۥ	ﲼ	قبضته	(will be) in His Grip	qabḍatuhu
+14	39:67:9	w	يَوۡمَ	ﲽ	يوم	(on the) Day	yawma
+14	39:67:10	w	ٱلۡقِيَٰمَةِ	ﲾ	القيامة	(of) the Resurrection	l-qiyāmati
+14	39:67:11	w	وَٱلسَّمَٰوَٰتُ	ﲿ	والسماوات	and the heavens	wal-samāwātu
+15	39:67:12	w	مَطۡوِيَّٰتُۢ	ﳀ	مطويات	(will be) folded	maṭwiyyātun
+15	39:67:13	w	بِيَمِينِهِۦۚ	ﳁﳂ	بيمينه	in His Right Hand	biyamīnihi
+15	39:67:14	w	سُبۡحَٰنَهُۥ	ﳃ	سبحانه	Glory be to Him	sub'ḥānahu
+15	39:67:15	w	وَتَعَٰلَىٰ	ﳄ	وتعالى	And High is He	wataʿālā
+15	39:67:16	w	عَمَّا	ﳅ	عما	above what	ʿammā
+15	39:67:17	w	يُشۡرِكُونَ	ﳆ	يشركون	they associate (with Him)	yush'rikūna
+15	39:67:18	e	٦٧	ﳇ			

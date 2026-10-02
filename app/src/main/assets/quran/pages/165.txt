@@ -1,0 +1,134 @@
+1	7:121:1	w	قَالُوٓاْ	ﱁ	قالوا	They said	qālū
+1	7:121:2	w	ءَامَنَّا	ﱂ	امنا	We believe	āmannā
+1	7:121:3	w	بِرَبِّ	ﱃ	برب	in (the) Lord	birabbi
+1	7:121:4	w	ٱلۡعَٰلَمِينَ	ﱄ	العالمين	(of) the worlds	l-ʿālamīna
+1	7:121:5	e	١٢١	ﱅ			
+1	7:122:1	w	رَبِّ	ﱆ	رب	Lord	rabbi
+1	7:122:2	w	مُوسَىٰ	ﱇ	موسى	(of) Musa	mūsā
+1	7:122:3	w	وَهَٰرُونَ	ﱈ	وهارون	and Harun	wahārūna
+1	7:122:4	e	١٢٢	ﱉ			
+1	7:123:1	w	قَالَ	ﱊ	قال	Said	qāla
+2	7:123:2	w	فِرۡعَوۡنُ	ﱋ	فرعون	Firaun	fir'ʿawnu
+2	7:123:3	w	ءَامَنتُم	ﱌ	امنتم	You believed	āmantum
+2	7:123:4	w	بِهِۦ	ﱍ	به	in him	bihi
+2	7:123:5	w	قَبۡلَ	ﱎ	قبل	before	qabla
+2	7:123:6	w	أَنۡ	ﱏ	ان	[that]	an
+2	7:123:7	w	ءَاذَنَ	ﱐ	اذن	I give permission	ādhana
+2	7:123:8	w	لَكُمۡۖ	ﱑﱒ	لكم	to you	lakum
+2	7:123:9	w	إِنَّ	ﱓ	ان	Indeed	inna
+2	7:123:10	w	هَٰذَا	ﱔ	هاذا	this	hādhā
+2	7:123:11	w	لَمَكۡرٞ	ﱕ	لمكر	(is) surely a plot	lamakrun
+3	7:123:12	w	مَّكَرۡتُمُوهُ	ﱖ	مكرتموه	you have plotted it	makartumūhu
+3	7:123:13	w	فِي	ﱗ	في	in	fī
+3	7:123:14	w	ٱلۡمَدِينَةِ	ﱘ	المدينة	the city	l-madīnati
+3	7:123:15	w	لِتُخۡرِجُواْ	ﱙ	لتخرجوا	so that you may drive out	litukh'rijū
+3	7:123:16	w	مِنۡهَآ	ﱚ	منها	from it	min'hā
+3	7:123:17	w	أَهۡلَهَاۖ	ﱛﱜ	اهلها	its people	ahlahā
+3	7:123:18	w	فَسَوۡفَ	ﱝ	فسوف	But soon	fasawfa
+3	7:123:19	w	تَعۡلَمُونَ	ﱞ	تعلمون	you will know	taʿlamūna
+4	7:123:20	e	١٢٣	ﱟ			
+4	7:124:1	w	لَأُقَطِّعَنَّ	ﱠ	لاقطعن	I will surely cut off	la-uqaṭṭiʿanna
+4	7:124:2	w	أَيۡدِيَكُمۡ	ﱡ	ايديكم	your hands	aydiyakum
+4	7:124:3	w	وَأَرۡجُلَكُم	ﱢ	وارجلكم	and your feet	wa-arjulakum
+4	7:124:4	w	مِّنۡ	ﱣ	من	of	min
+4	7:124:5	w	خِلَٰفٖ	ﱤ	خلاف	opposite (sides)	khilāfin
+4	7:124:6	w	ثُمَّ	ﱥ	ثم	Then	thumma
+4	7:124:7	w	لَأُصَلِّبَنَّكُمۡ	ﱦ	لاصلبنكم	I will surely crucify you	la-uṣallibannakum
+5	7:124:8	w	أَجۡمَعِينَ	ﱧ	اجمعين	all	ajmaʿīna
+5	7:124:9	e	١٢٤	ﱨ			
+5	7:125:1	w	قَالُوٓاْ	ﱩ	قالوا	They said	qālū
+5	7:125:2	w	إِنَّآ	ﱪ	انا	Indeed, we	innā
+5	7:125:3	w	إِلَىٰ	ﱫ	الى	to	ilā
+5	7:125:4	w	رَبِّنَا	ﱬ	ربنا	our Lord	rabbinā
+5	7:125:5	w	مُنقَلِبُونَ	ﱭ	منقلبون	(will) return	munqalibūna
+5	7:125:6	e	١٢٥	ﱮ			
+5	7:126:1	w	وَمَا	ﱯ	وما	And not	wamā
+5	7:126:2	w	تَنقِمُ	ﱰ	تنقم	you take revenge	tanqimu
+5	7:126:3	w	مِنَّآ	ﱱ	منا	from us	minnā
+6	7:126:4	w	إِلَّآ	ﱲ	الا	except	illā
+6	7:126:5	w	أَنۡ	ﱳ	ان	that	an
+6	7:126:6	w	ءَامَنَّا	ﱴ	امنا	we believed	āmannā
+6	7:126:7	w	بِـَٔايَٰتِ	ﱵ	بايات	in (the) Signs	biāyāti
+6	7:126:8	w	رَبِّنَا	ﱶ	ربنا	(of) our Lord	rabbinā
+6	7:126:9	w	لَمَّا	ﱷ	لما	when	lammā
+6	7:126:10	w	جَآءَتۡنَاۚ	ﱸﱹ	جاءتنا	they came to us	jāatnā
+6	7:126:11	w	رَبَّنَآ	ﱺ	ربنا	Our Lord	rabbanā
+6	7:126:12	w	أَفۡرِغۡ	ﱻ	افرغ	Pour	afrigh
+6	7:126:13	w	عَلَيۡنَا	ﱼ	علينا	upon us	ʿalaynā
+6	7:126:14	w	صَبۡرٗا	ﱽ	صبرا	patience	ṣabran
+7	7:126:15	w	وَتَوَفَّنَا	ﱾ	وتوفنا	and cause us to die	watawaffanā
+7	7:126:16	w	مُسۡلِمِينَ	ﱿ	مسلمين	(as) Muslims	mus'limīna
+7	7:126:17	e	١٢٦	ﲀ			
+7	7:127:1	w	وَقَالَ	ﲁ	وقال	And said	waqāla
+7	7:127:2	w	ٱلۡمَلَأُ	ﲂ	الملا	the chiefs	l-mala-u
+7	7:127:3	w	مِن	ﲃ	من	of	min
+7	7:127:4	w	قَوۡمِ	ﲄ	قوم	(the) people	qawmi
+7	7:127:5	w	فِرۡعَوۡنَ	ﲅ	فرعون	(of) Firaun	fir'ʿawna
+7	7:127:6	w	أَتَذَرُ	ﲆ	اتذر	Will you leave	atadharu
+7	7:127:7	w	مُوسَىٰ	ﲇ	موسى	Musa	mūsā
+8	7:127:8	w	وَقَوۡمَهُۥ	ﲈ	وقومه	and his people	waqawmahu
+8	7:127:9	w	لِيُفۡسِدُواْ	ﲉ	ليفسدوا	so that they cause corruption	liyuf'sidū
+8	7:127:10	w	فِي	ﲊ	في	in	fī
+8	7:127:11	w	ٱلۡأَرۡضِ	ﲋ	الارض	the earth	l-arḍi
+8	7:127:12	w	وَيَذَرَكَ	ﲌ	ويذرك	and forsake you	wayadharaka
+8	7:127:13	w	وَءَالِهَتَكَۚ	ﲍﲎ	والهتك	and your gods	waālihataka
+8	7:127:14	w	قَالَ	ﲏ	قال	He said	qāla
+8	7:127:15	w	سَنُقَتِّلُ	ﲐ	سنقتل	We will kill	sanuqattilu
+9	7:127:16	w	أَبۡنَآءَهُمۡ	ﲑ	ابناءهم	their sons	abnāahum
+9	7:127:17	w	وَنَسۡتَحۡيِۦ	ﲒ	ونستحيي	and we will let live	wanastaḥyī
+9	7:127:18	w	نِسَآءَهُمۡ	ﲓ	نساءهم	their women	nisāahum
+9	7:127:19	w	وَإِنَّا	ﲔ	وانا	and indeed, we	wa-innā
+9	7:127:20	w	فَوۡقَهُمۡ	ﲕ	فوقهم	over them	fawqahum
+9	7:127:21	w	قَٰهِرُونَ	ﲖ	قاهرون	(are) subjugators	qāhirūna
+9	7:127:22	e	١٢٧	ﲗ			
+10	7:128:1	w	قَالَ	ﲘ	قال	Said	qāla
+10	7:128:2	w	مُوسَىٰ	ﲙ	موسى	Musa	mūsā
+10	7:128:3	w	لِقَوۡمِهِ	ﲚ	لقومه	to his people	liqawmihi
+10	7:128:4	w	ٱسۡتَعِينُواْ	ﲛ	استعينوا	Seek help	is'taʿīnū
+10	7:128:5	w	بِٱللَّهِ	ﲜ	بالله	from Allah	bil-lahi
+10	7:128:6	w	وَٱصۡبِرُوٓاْۖ	ﲝﲞ	واصبروا	and be patient	wa-iṣ'birū
+10	7:128:7	w	إِنَّ	ﲟ	ان	Indeed	inna
+10	7:128:8	w	ٱلۡأَرۡضَ	ﲠ	الارض	the earth	l-arḍa
+11	7:128:9	w	لِلَّهِ	ﲡ	لله	(belongs) to Allah	lillahi
+11	7:128:10	w	يُورِثُهَا	ﲢ	يورثها	He causes to inherit it	yūrithuhā
+11	7:128:11	w	مَن	ﲣ	من	whom	man
+11	7:128:12	w	يَشَآءُ	ﲤ	يشاء	He wills	yashāu
+11	7:128:13	w	مِنۡ	ﲥ	من	of	min
+11	7:128:14	w	عِبَادِهِۦۖ	ﲦﲧ	عباده	His servants	ʿibādihi
+11	7:128:15	w	وَٱلۡعَٰقِبَةُ	ﲨ	والعاقبة	And the end	wal-ʿāqibatu
+11	7:128:16	w	لِلۡمُتَّقِينَ	ﲩ	للمتقين	(is) for the righteous	lil'muttaqīna
+11	7:128:17	e	١٢٨	ﲪ			
+12	7:129:1	w	قَالُوٓاْ	ﲫ	قالوا	They said	qālū
+12	7:129:2	w	أُوذِينَا	ﲬ	اوذينا	We have been harmed	ūdhīnā
+12	7:129:3	w	مِن	ﲭ	من	from	min
+12	7:129:4	w	قَبۡلِ	ﲮ	قبل	before	qabli
+12	7:129:5	w	أَن	ﲯ	ان	[that]	an
+12	7:129:6	w	تَأۡتِيَنَا	ﲰ	تاتينا	you came to us	tatiyanā
+12	7:129:7	w	وَمِنۢ	ﲱ	ومن	from	wamin
+12	7:129:8	w	بَعۡدِ	ﲲ	بعد	and after	baʿdi
+12	7:129:9	w	مَا	ﲳ	ما	[what]	mā
+12	7:129:10	w	جِئۡتَنَاۚ	ﲴﲵ	جيتنا	you have come to us	ji'tanā
+12	7:129:11	w	قَالَ	ﲶ	قال	He said	qāla
+13	7:129:12	w	عَسَىٰ	ﲷ	عسى	Perhaps	ʿasā
+13	7:129:13	w	رَبُّكُمۡ	ﲸ	ربكم	your Lord	rabbukum
+13	7:129:14	w	أَن	ﲹ	ان	[that]	an
+13	7:129:15	w	يُهۡلِكَ	ﲺ	يهلك	will destroy	yuh'lika
+13	7:129:16	w	عَدُوَّكُمۡ	ﲻ	عدوكم	your enemy	ʿaduwwakum
+13	7:129:17	w	وَيَسۡتَخۡلِفَكُمۡ	ﲼ	ويستخلفكم	and make you successors	wayastakhlifakum
+13	7:129:18	w	فِي	ﲽ	في	in	fī
+13	7:129:19	w	ٱلۡأَرۡضِ	ﲾ	الارض	the earth	l-arḍi
+14	7:129:20	w	فَيَنظُرَ	ﲿ	فينظر	then see	fayanẓura
+14	7:129:21	w	كَيۡفَ	ﳀ	كيف	how	kayfa
+14	7:129:22	w	تَعۡمَلُونَ	ﳁ	تعملون	you will do	taʿmalūna
+14	7:129:23	e	١٢٩	ﳂ			
+14	7:130:1	w	وَلَقَدۡ	ﳃ	ولقد	And certainly	walaqad
+14	7:130:2	w	أَخَذۡنَآ	ﳄ	اخذنا	We seized	akhadhnā
+14	7:130:3	w	ءَالَ	ﳅ	ال	(the) people	āla
+14	7:130:4	w	فِرۡعَوۡنَ	ﳆ	فرعون	(of) Firaun	fir'ʿawna
+15	7:130:5	w	بِٱلسِّنِينَ	ﳇ	بالسنين	with years (of famine)	bil-sinīna
+15	7:130:6	w	وَنَقۡصٖ	ﳈ	ونقص	and a deficit	wanaqṣin
+15	7:130:7	w	مِّنَ	ﳉ	من	of	mina
+15	7:130:8	w	ٱلثَّمَرَٰتِ	ﳊ	الثمرات	[the] fruits	l-thamarāti
+15	7:130:9	w	لَعَلَّهُمۡ	ﳋ	لعلهم	so that they may	laʿallahum
+15	7:130:10	w	يَذَّكَّرُونَ	ﳌ	يذكرون	receive admonition	yadhakkarūna
+15	7:130:11	e	١٣٠	ﳍ			

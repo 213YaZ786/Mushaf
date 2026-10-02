@@ -1,0 +1,138 @@
+1	5:18:1	w	وَقَالَتِ	ﱁ	وقالت	And said	waqālati
+1	5:18:2	w	ٱلۡيَهُودُ	ﱂ	اليهود	the Jews	l-yahūdu
+1	5:18:3	w	وَٱلنَّصَٰرَىٰ	ﱃ	والنصارى	and the Christians	wal-naṣārā
+1	5:18:4	w	نَحۡنُ	ﱄ	نحن	We (are)	naḥnu
+1	5:18:5	w	أَبۡنَٰٓؤُاْ	ﱅ	ابناء	(the) children	abnāu
+1	5:18:6	w	ٱللَّهِ	ﱆ	الله	(of) Allah	l-lahi
+1	5:18:7	w	وَأَحِبَّٰٓؤُهُۥۚ	ﱇﱈ	واحباوه	and His beloved	wa-aḥibbāuhu
+1	5:18:8	w	قُلۡ	ﱉ	قل	Say	qul
+2	5:18:9	w	فَلِمَ	ﱊ	فلم	Then why	falima
+2	5:18:10	w	يُعَذِّبُكُم	ﱋ	يعذبكم	(does He) punish you	yuʿadhibukum
+2	5:18:11	w	بِذُنُوبِكُمۖ	ﱌﱍ	بذنوبكم	for your sins	bidhunūbikum
+2	5:18:12	w	بَلۡ	ﱎ	بل	Nay	bal
+2	5:18:13	w	أَنتُم	ﱏ	انتم	you (are)	antum
+2	5:18:14	w	بَشَرٞ	ﱐ	بشر	human beings	basharun
+2	5:18:15	w	مِّمَّنۡ	ﱑ	ممن	from among (those)	mimman
+2	5:18:16	w	خَلَقَۚ	ﱒﱓ	خلق	He created	khalaqa
+2	5:18:17	w	يَغۡفِرُ	ﱔ	يغفر	He forgives	yaghfiru
+2	5:18:18	w	لِمَن	ﱕ	لمن	[for] whom	liman
+3	5:18:19	w	يَشَآءُ	ﱖ	يشاء	He wills	yashāu
+3	5:18:20	w	وَيُعَذِّبُ	ﱗ	ويعذب	and punishes	wayuʿadhibu
+3	5:18:21	w	مَن	ﱘ	من	whom	man
+3	5:18:22	w	يَشَآءُۚ	ﱙﱚ	يشاء	He wills	yashāu
+3	5:18:23	w	وَلِلَّهِ	ﱛ	ولله	And for Allah	walillahi
+3	5:18:24	w	مُلۡكُ	ﱜ	ملك	(is the) dominion	mul'ku
+3	5:18:25	w	ٱلسَّمَٰوَٰتِ	ﱝ	السماوات	(of) the heavens	l-samāwāti
+3	5:18:26	w	وَٱلۡأَرۡضِ	ﱞ	والارض	and the earth	wal-arḍi
+4	5:18:27	w	وَمَا	ﱟ	وما	and whatever	wamā
+4	5:18:28	w	بَيۡنَهُمَاۖ	ﱠﱡ	بينهما	(is) between them	baynahumā
+4	5:18:29	w	وَإِلَيۡهِ	ﱢ	واليه	and to Him	wa-ilayhi
+4	5:18:30	w	ٱلۡمَصِيرُ	ﱣ	المصير	(is) the final return	l-maṣīru
+4	5:18:31	e	١٨	ﱤ			
+4	5:19:1	w	يَٰٓأَهۡلَ	ﱥ	يا اهل	O People	yāahla
+4	5:19:2	w	ٱلۡكِتَٰبِ	ﱦ	الكتاب	(of) the Book	l-kitābi
+4	5:19:3	w	قَدۡ	ﱧ	قد	Surely	qad
+4	5:19:4	w	جَآءَكُمۡ	ﱨ	جاءكم	has come to you	jāakum
+5	5:19:5	w	رَسُولُنَا	ﱩ	رسولنا	Our Messenger	rasūlunā
+5	5:19:6	w	يُبَيِّنُ	ﱪ	يبين	he makes clear	yubayyinu
+5	5:19:7	w	لَكُمۡ	ﱫ	لكم	to you	lakum
+5	5:19:8	w	عَلَىٰ	ﱬ	على	[on]	ʿalā
+5	5:19:9	w	فَتۡرَةٖ	ﱭ	فترة	(after) an interval (of cessation)	fatratin
+5	5:19:10	w	مِّنَ	ﱮ	من	of	mina
+5	5:19:11	w	ٱلرُّسُلِ	ﱯ	الرسل	the Messengers	l-rusuli
+5	5:19:12	w	أَن	ﱰ	ان	lest	an
+5	5:19:13	w	تَقُولُواْ	ﱱ	تقولوا	you say	taqūlū
+5	5:19:14	w	مَا	ﱲ	ما	Not	mā
+5	5:19:15	w	جَآءَنَا	ﱳ	جاءنا	(has) come to us	jāanā
+6	5:19:16	w	مِنۢ	ﱴ	من	any	min
+6	5:19:17	w	بَشِيرٖ	ﱵ	بشير	bearer of glad tidings	bashīrin
+6	5:19:18	w	وَلَا	ﱶ	ولا	and not	walā
+6	5:19:19	w	نَذِيرٖۖ	ﱷﱸ	نذير	a warner	nadhīrin
+6	5:19:20	w	فَقَدۡ	ﱹ	فقد	But surely	faqad
+6	5:19:21	w	جَآءَكُم	ﱺ	جاءكم	has come to you	jāakum
+6	5:19:22	w	بَشِيرٞ	ﱻ	بشير	a bearer of glad tidings	bashīrun
+6	5:19:23	w	وَنَذِيرٞۗ	ﱼﱽ	ونذير	and a warner	wanadhīrun
+6	5:19:24	w	وَٱللَّهُ	ﱾ	والله	And Allah	wal-lahu
+6	5:19:25	w	عَلَىٰ	ﱿ	على	(is) on	ʿalā
+6	5:19:26	w	كُلِّ	ﲀ	كل	every	kulli
+7	5:19:27	w	شَيۡءٖ	ﲁ	شيء	thing	shayin
+7	5:19:28	w	قَدِيرٞ	ﲂ	قدير	All-Powerful	qadīrun
+7	5:19:29	e	١٩	ﲃ			
+7	5:20:1	w	وَإِذۡ	ﲄ	واذ	And when	wa-idh
+7	5:20:2	w	قَالَ	ﲅ	قال	said	qāla
+7	5:20:3	w	مُوسَىٰ	ﲆ	موسى	Musa	mūsā
+7	5:20:4	w	لِقَوۡمِهِۦ	ﲇ	لقومه	to his people	liqawmihi
+7	5:20:5	w	يَٰقَوۡمِ	ﲈ	يا قوم	O my people	yāqawmi
+7	5:20:6	w	ٱذۡكُرُواْ	ﲉ	اذكروا	remember	udh'kurū
+8	5:20:7	w	نِعۡمَةَ	ﲊ	نعمة	(the) Favor	niʿ'mata
+8	5:20:8	w	ٱللَّهِ	ﲋ	الله	(of) Allah	l-lahi
+8	5:20:9	w	عَلَيۡكُمۡ	ﲌ	عليكم	upon you	ʿalaykum
+8	5:20:10	w	إِذۡ	ﲍ	اذ	when	idh
+8	5:20:11	w	جَعَلَ	ﲎ	جعل	He placed	jaʿala
+8	5:20:12	w	فِيكُمۡ	ﲏ	فيكم	among you	fīkum
+8	5:20:13	w	أَنۢبِيَآءَ	ﲐ	انبياء	Prophets	anbiyāa
+8	5:20:14	w	وَجَعَلَكُم	ﲑ	وجعلكم	and made you	wajaʿalakum
+8	5:20:15	w	مُّلُوكٗا	ﲒ	ملوكا	kings	mulūkan
+9	5:20:16	w	وَءَاتَىٰكُم	ﲓ	واتاكم	and He gave you	waātākum
+9	5:20:17	w	مَّا	ﲔ	ما	what	mā
+9	5:20:18	w	لَمۡ	ﲕ	لم	not	lam
+9	5:20:19	w	يُؤۡتِ	ﲖ	يوت	He (had) given	yu'ti
+9	5:20:20	w	أَحَدٗا	ﲗ	احدا	(to) anyone	aḥadan
+9	5:20:21	w	مِّنَ	ﲘ	من	from	mina
+9	5:20:22	w	ٱلۡعَٰلَمِينَ	ﲙ	العالمين	the worlds	l-ʿālamīna
+9	5:20:23	e	٢٠	ﲚ			
+9	5:21:1	w	يَٰقَوۡمِ	ﲛ	يا قوم	O my people	yāqawmi
+9	5:21:2	w	ٱدۡخُلُواْ	ﲜ	ادخلوا	Enter	ud'khulū
+10	5:21:3	w	ٱلۡأَرۡضَ	ﲝ	الارض	the land	l-arḍa
+10	5:21:4	w	ٱلۡمُقَدَّسَةَ	ﲞ	المقدسة	the Holy	l-muqadasata
+10	5:21:5	w	ٱلَّتِي	ﲟ	التي	which	allatī
+10	5:21:6	w	كَتَبَ	ﲠ	كتب	(has been) ordained	kataba
+10	5:21:7	w	ٱللَّهُ	ﲡ	الله	(by) Allah	l-lahu
+10	5:21:8	w	لَكُمۡ	ﲢ	لكم	for you	lakum
+10	5:21:9	w	وَلَا	ﲣ	ولا	and (do) not	walā
+10	5:21:10	w	تَرۡتَدُّواْ	ﲤ	ترتدوا	turn	tartaddū
+11	5:21:11	w	عَلَىٰٓ	ﲥ	على	on	ʿalā
+11	5:21:12	w	أَدۡبَارِكُمۡ	ﲦ	ادباركم	your backs	adbārikum
+11	5:21:13	w	فَتَنقَلِبُواْ	ﲧ	فتنقلبوا	then you will turn back	fatanqalibū
+11	5:21:14	w	خَٰسِرِينَ	ﲨ	خاسرين	(as) losers	khāsirīna
+11	5:21:15	e	٢١	ﲩ			
+11	5:22:1	w	قَالُواْ	ﲪ	قالوا	They said	qālū
+11	5:22:2	w	يَٰمُوسَىٰٓ	ﲫ	يا موسى	O Musa	yāmūsā
+11	5:22:3	w	إِنَّ	ﲬ	ان	Indeed	inna
+12	5:22:4	w	فِيهَا	ﲭ	فيها	in it	fīhā
+12	5:22:5	w	قَوۡمٗا	ﲮ	قوما	(are) people	qawman
+12	5:22:6	w	جَبَّارِينَ	ﲯ	جبارين	(of) tyrannical strength	jabbārīna
+12	5:22:7	w	وَإِنَّا	ﲰ	وانا	and indeed, we	wa-innā
+12	5:22:8	w	لَن	ﲱ	لن	never	lan
+12	5:22:9	w	نَّدۡخُلَهَا	ﲲ	ندخلها	will enter it	nadkhulahā
+12	5:22:10	w	حَتَّىٰ	ﲳ	حتى	until	ḥattā
+12	5:22:11	w	يَخۡرُجُواْ	ﲴ	يخرجوا	they leave	yakhrujū
+12	5:22:12	w	مِنۡهَا	ﲵ	منها	from it	min'hā
+12	5:22:13	w	فَإِن	ﲶ	فان	and if	fa-in
+13	5:22:14	w	يَخۡرُجُواْ	ﲷ	يخرجوا	they leave	yakhrujū
+13	5:22:15	w	مِنۡهَا	ﲸ	منها	[from] it	min'hā
+13	5:22:16	w	فَإِنَّا	ﲹ	فانا	then certainly we (will)	fa-innā
+13	5:22:17	w	دَٰخِلُونَ	ﲺ	داخلون	enter (it)	dākhilūna
+13	5:22:18	e	٢٢	ﲻ			
+13	5:23:1	w	قَالَ	ﲼ	قال	Said	qāla
+13	5:23:2	w	رَجُلَانِ	ﲽ	رجلان	two men	rajulāni
+13	5:23:3	w	مِنَ	ﲾ	من	from	mina
+13	5:23:4	w	ٱلَّذِينَ	ﲿ	الذين	those who	alladhīna
+13	5:23:5	w	يَخَافُونَ	ﳀ	يخافون	feared (Allah)	yakhāfūna
+14	5:23:6	w	أَنۡعَمَ	ﳁ	انعم	(had) favored	anʿama
+14	5:23:7	w	ٱللَّهُ	ﳂ	الله	Allah	l-lahu
+14	5:23:8	w	عَلَيۡهِمَا	ﳃ	عليهما	[on] both of them	ʿalayhimā
+14	5:23:9	w	ٱدۡخُلُواْ	ﳄ	ادخلوا	Enter	ud'khulū
+14	5:23:10	w	عَلَيۡهِمُ	ﳅ	عليهم	upon them	ʿalayhimu
+14	5:23:11	w	ٱلۡبَابَ	ﳆ	الباب	(through) the gate	l-bāba
+14	5:23:12	w	فَإِذَا	ﳇ	فاذا	then when	fa-idhā
+14	5:23:13	w	دَخَلۡتُمُوهُ	ﳈ	دخلتموه	you have entered it	dakhaltumūhu
+14	5:23:14	w	فَإِنَّكُمۡ	ﳉ	فانكم	then indeed, you (will be)	fa-innakum
+15	5:23:15	w	غَٰلِبُونَۚ	ﳊﳋ	غالبون	victorious	ghālibūna
+15	5:23:16	w	وَعَلَى	ﳌ	وعلى	And upon	waʿalā
+15	5:23:17	w	ٱللَّهِ	ﳍ	الله	Allah	l-lahi
+15	5:23:18	w	فَتَوَكَّلُوٓاْ	ﳎ	فتوكلوا	then put your trust	fatawakkalū
+15	5:23:19	w	إِن	ﳏ	ان	if	in
+15	5:23:20	w	كُنتُم	ﳐ	كنتم	you are	kuntum
+15	5:23:21	w	مُّؤۡمِنِينَ	ﳑ	مومنين	believers	mu'minīna
+15	5:23:22	e	٢٣	ﳒ			

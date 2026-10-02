@@ -1,0 +1,138 @@
+1	28:44:1	w	وَمَا	ﱁ	وما	And not	wamā
+1	28:44:2	w	كُنتَ	ﱂ	كنت	you were	kunta
+1	28:44:3	w	بِجَانِبِ	ﱃ	بجانب	on (the) side	bijānibi
+1	28:44:4	w	ٱلۡغَرۡبِيِّ	ﱄ	الغربي	western	l-gharbiyi
+1	28:44:5	w	إِذۡ	ﱅ	اذ	when	idh
+1	28:44:6	w	قَضَيۡنَآ	ﱆ	قضينا	We decreed	qaḍaynā
+1	28:44:7	w	إِلَىٰ	ﱇ	الى	to	ilā
+1	28:44:8	w	مُوسَى	ﱈ	موسى	Musa	mūsā
+1	28:44:9	w	ٱلۡأَمۡرَ	ﱉ	الامر	the Commandment	l-amra
+1	28:44:10	w	وَمَا	ﱊ	وما	and not	wamā
+1	28:44:11	w	كُنتَ	ﱋ	كنت	you were	kunta
+2	28:44:12	w	مِنَ	ﱌ	من	among	mina
+2	28:44:13	w	ٱلشَّٰهِدِينَ	ﱍ	الشاهدين	the witnesses	l-shāhidīna
+2	28:44:14	e	٤٤	ﱎ			
+2	28:45:1	w	وَلَٰكِنَّآ	ﱏ	ولاكنا	But We	walākinnā
+2	28:45:2	w	أَنشَأۡنَا	ﱐ	انشانا	[We] produced	anshanā
+2	28:45:3	w	قُرُونٗا	ﱑ	قرونا	generations	qurūnan
+2	28:45:4	w	فَتَطَاوَلَ	ﱒ	فتطاول	and prolonged	fataṭāwala
+2	28:45:5	w	عَلَيۡهِمُ	ﱓ	عليهم	for them	ʿalayhimu
+3	28:45:6	w	ٱلۡعُمُرُۚ	ﱔﱕ	العمر	the life	l-ʿumuru
+3	28:45:7	w	وَمَا	ﱖ	وما	And not	wamā
+3	28:45:8	w	كُنتَ	ﱗ	كنت	you were	kunta
+3	28:45:9	w	ثَاوِيٗا	ﱘ	ثاويا	a dweller	thāwiyan
+3	28:45:10	w	فِيٓ	ﱙ	في	among	fī
+3	28:45:11	w	أَهۡلِ	ﱚ	اهل	(the) people	ahli
+3	28:45:12	w	مَدۡيَنَ	ﱛ	مدين	(of) Madyan	madyana
+3	28:45:13	w	تَتۡلُواْ	ﱜ	تتلو	reciting	tatlū
+3	28:45:14	w	عَلَيۡهِمۡ	ﱝ	عليهم	to them	ʿalayhim
+4	28:45:15	w	ءَايَٰتِنَا	ﱞ	اياتنا	Our Verses	āyātinā
+4	28:45:16	w	وَلَٰكِنَّا	ﱟ	ولاكنا	but We	walākinnā
+4	28:45:17	w	كُنَّا	ﱠ	كنا	[We] were	kunnā
+4	28:45:18	w	مُرۡسِلِينَ	ﱡ	مرسلين	the Senders	mur'silīna
+4	28:45:19	e	٤٥	ﱢ			
+4	28:46:1	w	وَمَا	ﱣ	وما	And not	wamā
+4	28:46:2	w	كُنتَ	ﱤ	كنت	you were	kunta
+4	28:46:3	w	بِجَانِبِ	ﱥ	بجانب	at (the) side	bijānibi
+5	28:46:4	w	ٱلطُّورِ	ﱦ	الطور	(of) the Tur	l-ṭūri
+5	28:46:5	w	إِذۡ	ﱧ	اذ	when	idh
+5	28:46:6	w	نَادَيۡنَا	ﱨ	نادينا	We called	nādaynā
+5	28:46:7	w	وَلَٰكِن	ﱩ	ولاكن	But	walākin
+5	28:46:8	w	رَّحۡمَةٗ	ﱪ	رحمة	(as) a mercy	raḥmatan
+5	28:46:9	w	مِّن	ﱫ	من	from	min
+5	28:46:10	w	رَّبِّكَ	ﱬ	ربك	your Lord	rabbika
+5	28:46:11	w	لِتُنذِرَ	ﱭ	لتنذر	so that you warn	litundhira
+5	28:46:12	w	قَوۡمٗا	ﱮ	قوما	a people	qawman
+6	28:46:13	w	مَّآ	ﱯ	ما	not	mā
+6	28:46:14	w	أَتَىٰهُم	ﱰ	اتاهم	(had) come to them	atāhum
+6	28:46:15	w	مِّن	ﱱ	من	any	min
+6	28:46:16	w	نَّذِيرٖ	ﱲ	نذير	warner	nadhīrin
+6	28:46:17	w	مِّن	ﱳ	من	before you	min
+6	28:46:18	w	قَبۡلِكَ	ﱴ	قبلك	before you	qablika
+6	28:46:19	w	لَعَلَّهُمۡ	ﱵ	لعلهم	so that they may	laʿallahum
+6	28:46:20	w	يَتَذَكَّرُونَ	ﱶ	يتذكرون	remember	yatadhakkarūna
+6	28:46:21	e	٤٦	ﱷ			
+7	28:47:1	w	وَلَوۡلَآ	ﱸ	ولولا	And if not	walawlā
+7	28:47:2	w	أَن	ﱹ	ان	[that]	an
+7	28:47:3	w	تُصِيبَهُم	ﱺ	تصيبهم	struck them	tuṣībahum
+7	28:47:4	w	مُّصِيبَةُۢ	ﱻ	مصيبة	a disaster	muṣībatun
+7	28:47:5	w	بِمَا	ﱼ	بما	for what	bimā
+7	28:47:6	w	قَدَّمَتۡ	ﱽ	قدمت	had sent forth	qaddamat
+7	28:47:7	w	أَيۡدِيهِمۡ	ﱾ	ايديهم	their hands	aydīhim
+7	28:47:8	w	فَيَقُولُواْ	ﱿ	فيقولوا	and they would say	fayaqūlū
+8	28:47:9	w	رَبَّنَا	ﲀ	ربنا	Our Lord	rabbanā
+8	28:47:10	w	لَوۡلَآ	ﲁ	لولا	Why not	lawlā
+8	28:47:11	w	أَرۡسَلۡتَ	ﲂ	ارسلت	You sent	arsalta
+8	28:47:12	w	إِلَيۡنَا	ﲃ	الينا	to us	ilaynā
+8	28:47:13	w	رَسُولٗا	ﲄ	رسولا	a Messenger	rasūlan
+8	28:47:14	w	فَنَتَّبِعَ	ﲅ	فنتبع	so we (could have) followed	fanattabiʿa
+8	28:47:15	w	ءَايَٰتِكَ	ﲆ	اياتك	Your Verses	āyātika
+8	28:47:16	w	وَنَكُونَ	ﲇ	ونكون	and we (would) have been	wanakūna
+9	28:47:17	w	مِنَ	ﲈ	من	of	mina
+9	28:47:18	w	ٱلۡمُؤۡمِنِينَ	ﲉ	المومنين	the believers	l-mu'minīna
+9	28:47:19	e	٤٧	ﲊ			
+9	28:48:1	w	فَلَمَّا	ﲋ	فلما	But when	falammā
+9	28:48:2	w	جَآءَهُمُ	ﲌ	جاءهم	came to them	jāahumu
+9	28:48:3	w	ٱلۡحَقُّ	ﲍ	الحق	the truth	l-ḥaqu
+9	28:48:4	w	مِنۡ	ﲎ	من	from Us	min
+9	28:48:5	w	عِندِنَا	ﲏ	عندنا	from Us	ʿindinā
+9	28:48:6	w	قَالُواْ	ﲐ	قالوا	they said	qālū
+10	28:48:7	w	لَوۡلَآ	ﲑ	لولا	Why not	lawlā
+10	28:48:8	w	أُوتِيَ	ﲒ	اوتي	he was given	ūtiya
+10	28:48:9	w	مِثۡلَ	ﲓ	مثل	(the) like	mith'la
+10	28:48:10	w	مَآ	ﲔ	ما	(of) what	mā
+10	28:48:11	w	أُوتِيَ	ﲕ	اوتي	was given	ūtiya
+10	28:48:12	w	مُوسَىٰٓۚ	ﲖﲗ	موسى	(to) Musa	mūsā
+10	28:48:13	w	أَوَلَمۡ	ﲘ	اولم	Did not	awalam
+10	28:48:14	w	يَكۡفُرُواْ	ﲙ	يكفروا	they disbelieve	yakfurū
+10	28:48:15	w	بِمَآ	ﲚ	بما	in what	bimā
+10	28:48:16	w	أُوتِيَ	ﲛ	اوتي	was given	ūtiya
+11	28:48:17	w	مُوسَىٰ	ﲜ	موسى	(to) Musa	mūsā
+11	28:48:18	w	مِن	ﲝ	من	before	min
+11	28:48:19	w	قَبۡلُۖ	ﲞﲟ	قبل	before	qablu
+11	28:48:20	w	قَالُواْ	ﲠ	قالوا	They said	qālū
+11	28:48:21	w	سِحۡرَانِ	ﲡ	سحران	Two magic (works)	siḥ'rāni
+11	28:48:22	w	تَظَٰهَرَا	ﲢ	تظاهرا	supporting each other	taẓāharā
+11	28:48:23	w	وَقَالُوٓاْ	ﲣ	وقالوا	And they said	waqālū
+11	28:48:24	w	إِنَّا	ﲤ	انا	Indeed, we	innā
+11	28:48:25	w	بِكُلّٖ	ﲥ	بكل	in all	bikullin
+11	28:48:26	w	كَٰفِرُونَ	ﲦ	كافرون	(are) disbelievers	kāfirūna
+12	28:48:27	e	٤٨	ﲧ			
+12	28:49:1	w	قُلۡ	ﲨ	قل	Say	qul
+12	28:49:2	w	فَأۡتُواْ	ﲩ	فاتوا	Then bring	fatū
+12	28:49:3	w	بِكِتَٰبٖ	ﲪ	بكتاب	a Book	bikitābin
+12	28:49:4	w	مِّنۡ	ﲫ	من	from Allah	min
+12	28:49:5	w	عِندِ	ﲬ	عند	from Allah	ʿindi
+12	28:49:6	w	ٱللَّهِ	ﲭ	الله	from Allah	l-lahi
+12	28:49:7	w	هُوَ	ﲮ	هو	which	huwa
+12	28:49:8	w	أَهۡدَىٰ	ﲯ	اهدى	(is) a better guide	ahdā
+12	28:49:9	w	مِنۡهُمَآ	ﲰ	منهما	than both of them	min'humā
+12	28:49:10	w	أَتَّبِعۡهُ	ﲱ	اتبعه	that I may follow it	attabiʿ'hu
+13	28:49:11	w	إِن	ﲲ	ان	if	in
+13	28:49:12	w	كُنتُمۡ	ﲳ	كنتم	you are	kuntum
+13	28:49:13	w	صَٰدِقِينَ	ﲴ	صادقين	truthful	ṣādiqīna
+13	28:49:14	e	٤٩	ﲵ			
+13	28:50:1	w	فَإِن	ﲶ	فان	But if	fa-in
+13	28:50:2	w	لَّمۡ	ﲷ	لم	not	lam
+13	28:50:3	w	يَسۡتَجِيبُواْ	ﲸ	يستجيبوا	they respond	yastajībū
+13	28:50:4	w	لَكَ	ﲹ	لك	to you	laka
+13	28:50:5	w	فَٱعۡلَمۡ	ﲺ	فاعلم	then know	fa-iʿ'lam
+14	28:50:6	w	أَنَّمَا	ﲻ	انما	that only	annamā
+14	28:50:7	w	يَتَّبِعُونَ	ﲼ	يتبعون	they follow	yattabiʿūna
+14	28:50:8	w	أَهۡوَآءَهُمۡۚ	ﲽﲾ	اهواءهم	their desires	ahwāahum
+14	28:50:9	w	وَمَنۡ	ﲿ	ومن	And who	waman
+14	28:50:10	w	أَضَلُّ	ﳀ	اضل	(is) more astray	aḍallu
+14	28:50:11	w	مِمَّنِ	ﳁ	ممن	than (one) who	mimmani
+14	28:50:12	w	ٱتَّبَعَ	ﳂ	اتبع	follows	ittabaʿa
+14	28:50:13	w	هَوَىٰهُ	ﳃ	هواه	his own desire	hawāhu
+14	28:50:14	w	بِغَيۡرِ	ﳄ	بغير	without	bighayri
+15	28:50:15	w	هُدٗى	ﳅ	هدى	guidance	hudan
+15	28:50:16	w	مِّنَ	ﳆ	من	from	mina
+15	28:50:17	w	ٱللَّهِۚ	ﳇﳈ	الله	Allah	l-lahi
+15	28:50:18	w	إِنَّ	ﳉ	ان	Indeed	inna
+15	28:50:19	w	ٱللَّهَ	ﳊ	الله	Allah	l-laha
+15	28:50:20	w	لَا	ﳋ	لا	(does) not	lā
+15	28:50:21	w	يَهۡدِي	ﳌ	يهدي	guide	yahdī
+15	28:50:22	w	ٱلۡقَوۡمَ	ﳍ	القوم	the people	l-qawma
+15	28:50:23	w	ٱلظَّٰلِمِينَ	ﳎ	الظالمين	the wrongdoers	l-ẓālimīna
+15	28:50:24	e	٥٠	ﳏ			

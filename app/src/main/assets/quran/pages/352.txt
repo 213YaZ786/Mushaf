@@ -1,0 +1,134 @@
+1	24:21:1	w	۞ يَٰٓأَيُّهَا	ﱁ ﱂ	۞ يا ايها	O you who believe	yāayyuhā
+1	24:21:2	w	ٱلَّذِينَ	ﱃ	الذين	O you who believe	alladhīna
+1	24:21:3	w	ءَامَنُواْ	ﱄ	امنوا	O you who believe	āmanū
+1	24:21:4	w	لَا	ﱅ	لا	(Do) not	lā
+1	24:21:5	w	تَتَّبِعُواْ	ﱆ	تتبعوا	follow	tattabiʿū
+1	24:21:6	w	خُطُوَٰتِ	ﱇ	خطوات	(the) footsteps	khuṭuwāti
+1	24:21:7	w	ٱلشَّيۡطَٰنِۚ	ﱈﱉ	الشيطان	(of) the Shaitaan	l-shayṭāni
+1	24:21:8	w	وَمَن	ﱊ	ومن	and whoever	waman
+1	24:21:9	w	يَتَّبِعۡ	ﱋ	يتبع	follows	yattabiʿ
+2	24:21:10	w	خُطُوَٰتِ	ﱌ	خطوات	(the) footsteps	khuṭuwāti
+2	24:21:11	w	ٱلشَّيۡطَٰنِ	ﱍ	الشيطان	(of) the Shaitaan	l-shayṭāni
+2	24:21:12	w	فَإِنَّهُۥ	ﱎ	فانه	then indeed, he	fa-innahu
+2	24:21:13	w	يَأۡمُرُ	ﱏ	يامر	commands	yamuru
+2	24:21:14	w	بِٱلۡفَحۡشَآءِ	ﱐ	بالفحشاء	the immorality	bil-faḥshāi
+2	24:21:15	w	وَٱلۡمُنكَرِۚ	ﱑﱒ	والمنكر	and the evil	wal-munkari
+2	24:21:16	w	وَلَوۡلَا	ﱓ	ولولا	And if not	walawlā
+3	24:21:17	w	فَضۡلُ	ﱔ	فضل	(for the) Grace of Allah	faḍlu
+3	24:21:18	w	ٱللَّهِ	ﱕ	الله	(for the) Grace of Allah	l-lahi
+3	24:21:19	w	عَلَيۡكُمۡ	ﱖ	عليكم	upon you	ʿalaykum
+3	24:21:20	w	وَرَحۡمَتُهُۥ	ﱗ	ورحمته	and His Mercy	waraḥmatuhu
+3	24:21:21	w	مَا	ﱘ	ما	not	mā
+3	24:21:22	w	زَكَىٰ	ﱙ	زكى	(would) have been pure	zakā
+3	24:21:23	w	مِنكُم	ﱚ	منكم	among you	minkum
+3	24:21:24	w	مِّنۡ	ﱛ	من	anyone	min
+3	24:21:25	w	أَحَدٍ	ﱜ	احد	anyone	aḥadin
+3	24:21:26	w	أَبَدٗا	ﱝ	ابدا	ever	abadan
+3	24:21:27	w	وَلَٰكِنَّ	ﱞ	ولاكن	but	walākinna
+4	24:21:28	w	ٱللَّهَ	ﱟ	الله	Allah	l-laha
+4	24:21:29	w	يُزَكِّي	ﱠ	يزكي	purifies	yuzakkī
+4	24:21:30	w	مَن	ﱡ	من	whom	man
+4	24:21:31	w	يَشَآءُۗ	ﱢﱣ	يشاء	He wills	yashāu
+4	24:21:32	w	وَٱللَّهُ	ﱤ	والله	And Allah	wal-lahu
+4	24:21:33	w	سَمِيعٌ	ﱥ	سميع	(is) All-Hearer	samīʿun
+4	24:21:34	w	عَلِيمٞ	ﱦ	عليم	All-Knower	ʿalīmun
+4	24:21:35	e	٢١	ﱧ			
+4	24:22:1	w	وَلَا	ﱨ	ولا	And not	walā
+4	24:22:2	w	يَأۡتَلِ	ﱩ	ياتل	let swear	yatali
+4	24:22:3	w	أُوْلُواْ	ﱪ	اولو	those of virtue	ulū
+4	24:22:4	w	ٱلۡفَضۡلِ	ﱫ	الفضل	those of virtue	l-faḍli
+5	24:22:5	w	مِنكُمۡ	ﱬ	منكم	among you	minkum
+5	24:22:6	w	وَٱلسَّعَةِ	ﱭ	والسعة	and the amplitude of means	wal-saʿati
+5	24:22:7	w	أَن	ﱮ	ان	that	an
+5	24:22:8	w	يُؤۡتُوٓاْ	ﱯ	يوتوا	they give	yu'tū
+5	24:22:9	w	أُوْلِي	ﱰ	اولي	(to) the near of kin	ulī
+5	24:22:10	w	ٱلۡقُرۡبَىٰ	ﱱ	القربى	(to) the near of kin	l-qur'bā
+5	24:22:11	w	وَٱلۡمَسَٰكِينَ	ﱲ	والمساكين	and the needy	wal-masākīna
+5	24:22:12	w	وَٱلۡمُهَٰجِرِينَ	ﱳ	والمهاجرين	and the emigrants	wal-muhājirīna
+6	24:22:13	w	فِي	ﱴ	في	in	fī
+6	24:22:14	w	سَبِيلِ	ﱵ	سبيل	(the) way	sabīli
+6	24:22:15	w	ٱللَّهِۖ	ﱶﱷ	الله	(of) Allah	l-lahi
+6	24:22:16	w	وَلۡيَعۡفُواْ	ﱸ	وليعفوا	And let them pardon	walyaʿfū
+6	24:22:17	w	وَلۡيَصۡفَحُوٓاْۗ	ﱹﱺ	وليصفحوا	and let them overlook	walyaṣfaḥū
+6	24:22:18	w	أَلَا	ﱻ	الا	(Do) not	alā
+6	24:22:19	w	تُحِبُّونَ	ﱼ	تحبون	you like	tuḥibbūna
+6	24:22:20	w	أَن	ﱽ	ان	that	an
+6	24:22:21	w	يَغۡفِرَ	ﱾ	يغفر	Allah should forgive	yaghfira
+6	24:22:22	w	ٱللَّهُ	ﱿ	الله	Allah should forgive	l-lahu
+7	24:22:23	w	لَكُمۡۚ	ﲀﲁ	لكم	you	lakum
+7	24:22:24	w	وَٱللَّهُ	ﲂ	والله	And Allah	wal-lahu
+7	24:22:25	w	غَفُورٞ	ﲃ	غفور	(is) Oft-Forgiving	ghafūrun
+7	24:22:26	w	رَّحِيمٌ	ﲄ	رحيم	Most Merciful	raḥīmun
+7	24:22:27	e	٢٢	ﲅ			
+7	24:23:1	w	إِنَّ	ﲆ	ان	Indeed	inna
+7	24:23:2	w	ٱلَّذِينَ	ﲇ	الذين	those who	alladhīna
+7	24:23:3	w	يَرۡمُونَ	ﲈ	يرمون	accuse	yarmūna
+7	24:23:4	w	ٱلۡمُحۡصَنَٰتِ	ﲉ	المحصنات	the chaste women	l-muḥ'ṣanāti
+8	24:23:5	w	ٱلۡغَٰفِلَٰتِ	ﲊ	الغافلات	the unaware women	l-ghāfilāti
+8	24:23:6	w	ٱلۡمُؤۡمِنَٰتِ	ﲋ	المومنات	(and) the believing women	l-mu'mināti
+8	24:23:7	w	لُعِنُواْ	ﲌ	لعنوا	are cursed	luʿinū
+8	24:23:8	w	فِي	ﲍ	في	in	fī
+8	24:23:9	w	ٱلدُّنۡيَا	ﲎ	الدنيا	the world	l-dun'yā
+8	24:23:10	w	وَٱلۡأٓخِرَةِ	ﲏ	والاخرة	and the Hereafter	wal-ākhirati
+8	24:23:11	w	وَلَهُمۡ	ﲐ	ولهم	And for them	walahum
+8	24:23:12	w	عَذَابٌ	ﲑ	عذاب	(is) a punishment	ʿadhābun
+9	24:23:13	w	عَظِيمٞ	ﲒ	عظيم	great	ʿaẓīmun
+9	24:23:14	e	٢٣	ﲓ			
+9	24:24:1	w	يَوۡمَ	ﲔ	يوم	(On a) Day	yawma
+9	24:24:2	w	تَشۡهَدُ	ﲕ	تشهد	will bear witness	tashhadu
+9	24:24:3	w	عَلَيۡهِمۡ	ﲖ	عليهم	against them	ʿalayhim
+9	24:24:4	w	أَلۡسِنَتُهُمۡ	ﲗ	السنتهم	their tongues	alsinatuhum
+9	24:24:5	w	وَأَيۡدِيهِمۡ	ﲘ	وايديهم	and their hands	wa-aydīhim
+9	24:24:6	w	وَأَرۡجُلُهُم	ﲙ	وارجلهم	and their feet	wa-arjuluhum
+9	24:24:7	w	بِمَا	ﲚ	بما	for what	bimā
+10	24:24:8	w	كَانُواْ	ﲛ	كانوا	they used	kānū
+10	24:24:9	w	يَعۡمَلُونَ	ﲜ	يعملون	(to) do	yaʿmalūna
+10	24:24:10	e	٢٤	ﲝ			
+10	24:25:1	w	يَوۡمَئِذٖ	ﲞ	يوميذ	That Day	yawma-idhin
+10	24:25:2	w	يُوَفِّيهِمُ	ﲟ	يوفيهم	Allah will pay them in full	yuwaffīhimu
+10	24:25:3	w	ٱللَّهُ	ﲠ	الله	Allah will pay them in full	l-lahu
+10	24:25:4	w	دِينَهُمُ	ﲡ	دينهم	their recompense	dīnahumu
+10	24:25:5	w	ٱلۡحَقَّ	ﲢ	الحق	the due	l-ḥaqa
+10	24:25:6	w	وَيَعۡلَمُونَ	ﲣ	ويعلمون	and they will know	wayaʿlamūna
+10	24:25:7	w	أَنَّ	ﲤ	ان	that	anna
+11	24:25:8	w	ٱللَّهَ	ﲥ	الله	Allah	l-laha
+11	24:25:9	w	هُوَ	ﲦ	هو	He	huwa
+11	24:25:10	w	ٱلۡحَقُّ	ﲧ	الحق	(is) the Truth	l-ḥaqu
+11	24:25:11	w	ٱلۡمُبِينُ	ﲨ	المبين	the Manifest	l-mubīnu
+11	24:25:12	e	٢٥	ﲩ			
+11	24:26:1	w	ٱلۡخَبِيثَٰتُ	ﲪ	الخبيثات	Evil women	al-khabīthātu
+11	24:26:2	w	لِلۡخَبِيثِينَ	ﲫ	للخبيثين	(are) for evil men	lil'khabīthīna
+11	24:26:3	w	وَٱلۡخَبِيثُونَ	ﲬ	والخبيثون	and evil men	wal-khabīthūna
+12	24:26:4	w	لِلۡخَبِيثَٰتِۖ	ﲭﲮ	للخبيثات	(are) for evil women	lil'khabīthāti
+12	24:26:5	w	وَٱلطَّيِّبَٰتُ	ﲯ	والطيبات	And good women	wal-ṭayibātu
+12	24:26:6	w	لِلطَّيِّبِينَ	ﲰ	للطيبين	(are) for good men	lilṭṭayyibīna
+12	24:26:7	w	وَٱلطَّيِّبُونَ	ﲱ	والطيبون	and good men	wal-ṭayibūna
+12	24:26:8	w	لِلطَّيِّبَٰتِۚ	ﲲﲳ	للطيبات	(are) for good women	lilṭṭayyibāti
+13	24:26:9	w	أُوْلَٰٓئِكَ	ﲴ	اولايك	Those	ulāika
+13	24:26:10	w	مُبَرَّءُونَ	ﲵ	مبرءون	(are) innocent	mubarraūna
+13	24:26:11	w	مِمَّا	ﲶ	مما	of what	mimmā
+13	24:26:12	w	يَقُولُونَۖ	ﲷﲸ	يقولون	they say	yaqūlūna
+13	24:26:13	w	لَهُم	ﲹ	لهم	For them	lahum
+13	24:26:14	w	مَّغۡفِرَةٞ	ﲺ	مغفرة	(is) forgiveness	maghfiratun
+13	24:26:15	w	وَرِزۡقٞ	ﲻ	ورزق	and a provision	wariz'qun
+13	24:26:16	w	كَرِيمٞ	ﲼ	كريم	noble	karīmun
+13	24:26:17	e	٢٦	ﲽ			
+13	24:27:1	w	يَٰٓأَيُّهَا	ﲾ	يا ايها	O you	yāayyuhā
+14	24:27:2	w	ٱلَّذِينَ	ﲿ	الذين	who	alladhīna
+14	24:27:3	w	ءَامَنُواْ	ﳀ	امنوا	believe	āmanū
+14	24:27:4	w	لَا	ﳁ	لا	(Do) not	lā
+14	24:27:5	w	تَدۡخُلُواْ	ﳂ	تدخلوا	enter	tadkhulū
+14	24:27:6	w	بُيُوتًا	ﳃ	بيوتا	houses	buyūtan
+14	24:27:7	w	غَيۡرَ	ﳄ	غير	other (than)	ghayra
+14	24:27:8	w	بُيُوتِكُمۡ	ﳅ	بيوتكم	your houses	buyūtikum
+14	24:27:9	w	حَتَّىٰ	ﳆ	حتى	until	ḥattā
+14	24:27:10	w	تَسۡتَأۡنِسُواْ	ﳇ	تستانسوا	you have asked permission	tastanisū
+15	24:27:11	w	وَتُسَلِّمُواْ	ﳈ	وتسلموا	and you have greeted	watusallimū
+15	24:27:12	w	عَلَىٰٓ	ﳉ	على	[on]	ʿalā
+15	24:27:13	w	أَهۡلِهَاۚ	ﳊﳋ	اهلها	its inhabitants	ahlihā
+15	24:27:14	w	ذَٰلِكُمۡ	ﳌ	ذالكم	That	dhālikum
+15	24:27:15	w	خَيۡرٞ	ﳍ	خير	(is) best	khayrun
+15	24:27:16	w	لَّكُمۡ	ﳎ	لكم	for you	lakum
+15	24:27:17	w	لَعَلَّكُمۡ	ﳏ	لعلكم	so that you may	laʿallakum
+15	24:27:18	w	تَذَكَّرُونَ	ﳐ	تذكرون	pay heed	tadhakkarūna
+15	24:27:19	e	٢٧	ﳑ			

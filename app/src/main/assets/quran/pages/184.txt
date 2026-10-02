@@ -1,0 +1,143 @@
+1	8:53:1	w	ذَٰلِكَ	ﱁ	ذالك	That	dhālika
+1	8:53:2	w	بِأَنَّ	ﱂ	بان	(is) because	bi-anna
+1	8:53:3	w	ٱللَّهَ	ﱃ	الله	Allah	l-laha
+1	8:53:4	w	لَمۡ	ﱄ	لم	not	lam
+1	8:53:5	w	يَكُ	ﱅ	يك	is	yaku
+1	8:53:6	w	مُغَيِّرٗا	ﱆ	مغيرا	One Who changes	mughayyiran
+1	8:53:7	w	نِّعۡمَةً	ﱇ	نعمة	a favor	niʿ'matan
+1	8:53:8	w	أَنۡعَمَهَا	ﱈ	انعمها	which He had bestowed	anʿamahā
+1	8:53:9	w	عَلَىٰ	ﱉ	على	on	ʿalā
+1	8:53:10	w	قَوۡمٍ	ﱊ	قوم	a people	qawmin
+1	8:53:11	w	حَتَّىٰ	ﱋ	حتى	until	ḥattā
+2	8:53:12	w	يُغَيِّرُواْ	ﱌ	يغيروا	they change	yughayyirū
+2	8:53:13	w	مَا	ﱍ	ما	what	mā
+2	8:53:14	w	بِأَنفُسِهِمۡ	ﱎ	بانفسهم	(is) in themselves	bi-anfusihim
+2	8:53:15	w	وَأَنَّ	ﱏ	وان	And indeed	wa-anna
+2	8:53:16	w	ٱللَّهَ	ﱐ	الله	Allah	l-laha
+2	8:53:17	w	سَمِيعٌ	ﱑ	سميع	(is) All-Hearing	samīʿun
+2	8:53:18	w	عَلِيمٞ	ﱒ	عليم	All-Knowing	ʿalīmun
+2	8:53:19	e	٥٣	ﱓ			
+2	8:54:1	w	كَدَأۡبِ	ﱔ	كداب	Like (the) way	kadabi
+2	8:54:2	w	ءَالِ	ﱕ	ال	(of) people	āli
+3	8:54:3	w	فِرۡعَوۡنَ	ﱖ	فرعون	(of) Firaun	fir'ʿawna
+3	8:54:4	w	وَٱلَّذِينَ	ﱗ	والذين	and those who	wa-alladhīna
+3	8:54:5	w	مِن	ﱘ	من	(were) from	min
+3	8:54:6	w	قَبۡلِهِمۡۚ	ﱙﱚ	قبلهم	before them	qablihim
+3	8:54:7	w	كَذَّبُواْ	ﱛ	كذبوا	They denied	kadhabū
+3	8:54:8	w	بِـَٔايَٰتِ	ﱜ	بايات	(the) Signs	biāyāti
+3	8:54:9	w	رَبِّهِمۡ	ﱝ	ربهم	(of) their Lord	rabbihim
+3	8:54:10	w	فَأَهۡلَكۡنَٰهُم	ﱞ	فاهلكناهم	so We destroyed them	fa-ahlaknāhum
+4	8:54:11	w	بِذُنُوبِهِمۡ	ﱟ	بذنوبهم	for their sins	bidhunūbihim
+4	8:54:12	w	وَأَغۡرَقۡنَآ	ﱠ	واغرقنا	and We drowned	wa-aghraqnā
+4	8:54:13	w	ءَالَ	ﱡ	ال	(the) people	āla
+4	8:54:14	w	فِرۡعَوۡنَۚ	ﱢﱣ	فرعون	(of) Firaun	fir'ʿawna
+4	8:54:15	w	وَكُلّٞ	ﱤ	وكل	and (they) all	wakullun
+4	8:54:16	w	كَانُواْ	ﱥ	كانوا	were	kānū
+4	8:54:17	w	ظَٰلِمِينَ	ﱦ	ظالمين	wrongdoers	ẓālimīna
+4	8:54:18	e	٥٤	ﱧ			
+5	8:55:1	w	إِنَّ	ﱨ	ان	Indeed	inna
+5	8:55:2	w	شَرَّ	ﱩ	شر	(the) worst	sharra
+5	8:55:3	w	ٱلدَّوَآبِّ	ﱪ	الدواب	(of) the living creatures	l-dawābi
+5	8:55:4	w	عِندَ	ﱫ	عند	near	ʿinda
+5	8:55:5	w	ٱللَّهِ	ﱬ	الله	Allah	l-lahi
+5	8:55:6	w	ٱلَّذِينَ	ﱭ	الذين	(are) those who	alladhīna
+5	8:55:7	w	كَفَرُواْ	ﱮ	كفروا	disbelieve	kafarū
+5	8:55:8	w	فَهُمۡ	ﱯ	فهم	and they	fahum
+5	8:55:9	w	لَا	ﱰ	لا	(will) not	lā
+5	8:55:10	w	يُؤۡمِنُونَ	ﱱ	يومنون	believe	yu'minūna
+6	8:55:11	e	٥٥	ﱲ			
+6	8:56:1	w	ٱلَّذِينَ	ﱳ	الذين	Those who	alladhīna
+6	8:56:2	w	عَٰهَدتَّ	ﱴ	عاهدت	you made a covenant	ʿāhadtta
+6	8:56:3	w	مِنۡهُمۡ	ﱵ	منهم	with them	min'hum
+6	8:56:4	w	ثُمَّ	ﱶ	ثم	then	thumma
+6	8:56:5	w	يَنقُضُونَ	ﱷ	ينقضون	they break	yanquḍūna
+6	8:56:6	w	عَهۡدَهُمۡ	ﱸ	عهدهم	their covenant	ʿahdahum
+6	8:56:7	w	فِي	ﱹ	في	[in]	fī
+6	8:56:8	w	كُلِّ	ﱺ	كل	every	kulli
+7	8:56:9	w	مَرَّةٖ	ﱻ	مرة	time	marratin
+7	8:56:10	w	وَهُمۡ	ﱼ	وهم	and they	wahum
+7	8:56:11	w	لَا	ﱽ	لا	(do) not	lā
+7	8:56:12	w	يَتَّقُونَ	ﱾ	يتقون	fear (Allah)	yattaqūna
+7	8:56:13	e	٥٦	ﱿ			
+7	8:57:1	w	فَإِمَّا	ﲀ	فاما	So if	fa-immā
+7	8:57:2	w	تَثۡقَفَنَّهُمۡ	ﲁ	تثقفنهم	you gain dominance over them	tathqafannahum
+7	8:57:3	w	فِي	ﲂ	في	in	fī
+7	8:57:4	w	ٱلۡحَرۡبِ	ﲃ	الحرب	the war	l-ḥarbi
+7	8:57:5	w	فَشَرِّدۡ	ﲄ	فشرد	disperse	fasharrid
+7	8:57:6	w	بِهِم	ﲅ	بهم	by them	bihim
+8	8:57:7	w	مَّنۡ	ﲆ	من	(those) who	man
+8	8:57:8	w	خَلۡفَهُمۡ	ﲇ	خلفهم	(are) behind them	khalfahum
+8	8:57:9	w	لَعَلَّهُمۡ	ﲈ	لعلهم	so that they may	laʿallahum
+8	8:57:10	w	يَذَّكَّرُونَ	ﲉ	يذكرون	take heed	yadhakkarūna
+8	8:57:11	e	٥٧	ﲊ			
+8	8:58:1	w	وَإِمَّا	ﲋ	واما	And if	wa-immā
+8	8:58:2	w	تَخَافَنَّ	ﲌ	تخافن	you fear	takhāfanna
+8	8:58:3	w	مِن	ﲍ	من	from	min
+8	8:58:4	w	قَوۡمٍ	ﲎ	قوم	a people	qawmin
+9	8:58:5	w	خِيَانَةٗ	ﲏ	خيانة	betrayal	khiyānatan
+9	8:58:6	w	فَٱنۢبِذۡ	ﲐ	فانبذ	throw back	fa-inbidh
+9	8:58:7	w	إِلَيۡهِمۡ	ﲑ	اليهم	to them	ilayhim
+9	8:58:8	w	عَلَىٰ	ﲒ	على	on	ʿalā
+9	8:58:9	w	سَوَآءٍۚ	ﲓﲔ	سواء	equal (terms)	sawāin
+9	8:58:10	w	إِنَّ	ﲕ	ان	Indeed	inna
+9	8:58:11	w	ٱللَّهَ	ﲖ	الله	Allah	l-laha
+9	8:58:12	w	لَا	ﲗ	لا	(does) not	lā
+9	8:58:13	w	يُحِبُّ	ﲘ	يحب	love	yuḥibbu
+9	8:58:14	w	ٱلۡخَآئِنِينَ	ﲙ	الخاينين	the traitors	l-khāinīna
+10	8:58:15	e	٥٨	ﲚ			
+10	8:59:1	w	وَلَا	ﲛ	ولا	And (let) not	walā
+10	8:59:2	w	يَحۡسَبَنَّ	ﲜ	يحسبن	think	yaḥsabanna
+10	8:59:3	w	ٱلَّذِينَ	ﲝ	الذين	those who	alladhīna
+10	8:59:4	w	كَفَرُواْ	ﲞ	كفروا	disbelieve	kafarū
+10	8:59:5	w	سَبَقُوٓاْۚ	ﲟﲠ	سبقوا	they can outstrip	sabaqū
+10	8:59:6	w	إِنَّهُمۡ	ﲡ	انهم	Indeed, they	innahum
+10	8:59:7	w	لَا	ﲢ	لا	(can) not	lā
+10	8:59:8	w	يُعۡجِزُونَ	ﲣ	يعجزون	escape	yuʿ'jizūna
+11	8:59:9	e	٥٩	ﲤ			
+11	8:60:1	w	وَأَعِدُّواْ	ﲥ	واعدوا	And prepare	wa-aʿiddū
+11	8:60:2	w	لَهُم	ﲦ	لهم	for them	lahum
+11	8:60:3	w	مَّا	ﲧ	ما	whatever	mā
+11	8:60:4	w	ٱسۡتَطَعۡتُم	ﲨ	استطعتم	you able (to)	is'taṭaʿtum
+11	8:60:5	w	مِّن	ﲩ	من	of	min
+11	8:60:6	w	قُوَّةٖ	ﲪ	قوة	force	quwwatin
+11	8:60:7	w	وَمِن	ﲫ	ومن	and of	wamin
+11	8:60:8	w	رِّبَاطِ	ﲬ	رباط	tethered	ribāṭi
+11	8:60:9	w	ٱلۡخَيۡلِ	ﲭ	الخيل	horses	l-khayli
+12	8:60:10	w	تُرۡهِبُونَ	ﲮ	ترهبون	(to) terrify	tur'hibūna
+12	8:60:11	w	بِهِۦ	ﲯ	به	therewith	bihi
+12	8:60:12	w	عَدُوَّ	ﲰ	عدو	(the) enemy	ʿaduwwa
+12	8:60:13	w	ٱللَّهِ	ﲱ	الله	(of) Allah	l-lahi
+12	8:60:14	w	وَعَدُوَّكُمۡ	ﲲ	وعدوكم	and your enemy	waʿaduwwakum
+12	8:60:15	w	وَءَاخَرِينَ	ﲳ	واخرين	and others	waākharīna
+12	8:60:16	w	مِن	ﲴ	من	from	min
+12	8:60:17	w	دُونِهِمۡ	ﲵ	دونهم	besides them	dūnihim
+13	8:60:18	w	لَا	ﲶ	لا	not	lā
+13	8:60:19	w	تَعۡلَمُونَهُمُ	ﲷ	تعلمونهم	(do) you know them	taʿlamūnahumu
+13	8:60:20	w	ٱللَّهُ	ﲸ	الله	(but) Allah	l-lahu
+13	8:60:21	w	يَعۡلَمُهُمۡۚ	ﲹﲺ	يعلمهم	knows them	yaʿlamuhum
+13	8:60:22	w	وَمَا	ﲻ	وما	And whatever	wamā
+13	8:60:23	w	تُنفِقُواْ	ﲼ	تنفقوا	you spend	tunfiqū
+13	8:60:24	w	مِن	ﲽ	من	from	min
+13	8:60:25	w	شَيۡءٖ	ﲾ	شيء	(any) thing	shayin
+13	8:60:26	w	فِي	ﲿ	في	in	fī
+13	8:60:27	w	سَبِيلِ	ﳀ	سبيل	(the) way	sabīli
+14	8:60:28	w	ٱللَّهِ	ﳁ	الله	(of) Allah	l-lahi
+14	8:60:29	w	يُوَفَّ	ﳂ	يوف	it will be fully repaid	yuwaffa
+14	8:60:30	w	إِلَيۡكُمۡ	ﳃ	اليكم	to you	ilaykum
+14	8:60:31	w	وَأَنتُمۡ	ﳄ	وانتم	and you	wa-antum
+14	8:60:32	w	لَا	ﳅ	لا	(will) not	lā
+14	8:60:33	w	تُظۡلَمُونَ	ﳆ	تظلمون	be wronged	tuẓ'lamūna
+14	8:60:34	e	٦٠	ﳇ			
+14	8:61:1	w	۞ وَإِن	ﳈ ﳉ	۞ وان	And if	wa-in
+14	8:61:2	w	جَنَحُواْ	ﳊ	جنحوا	they incline	janaḥū
+14	8:61:3	w	لِلسَّلۡمِ	ﳋ	للسلم	to peace	lilssalmi
+15	8:61:4	w	فَٱجۡنَحۡ	ﳌ	فاجنح	then you (also) incline	fa-ij'naḥ
+15	8:61:5	w	لَهَا	ﳍ	لها	to it	lahā
+15	8:61:6	w	وَتَوَكَّلۡ	ﳎ	وتوكل	and put (your) trust	watawakkal
+15	8:61:7	w	عَلَى	ﳏ	على	in	ʿalā
+15	8:61:8	w	ٱللَّهِۚ	ﳐﳑ	الله	Allah	l-lahi
+15	8:61:9	w	إِنَّهُۥ	ﳒ	انه	Indeed	innahu
+15	8:61:10	w	هُوَ	ﳓ	هو	He	huwa
+15	8:61:11	w	ٱلسَّمِيعُ	ﳔ	السميع	(is) All-Hearer	l-samīʿu
+15	8:61:12	w	ٱلۡعَلِيمُ	ﳕ	العليم	All-Knower	l-ʿalīmu
+15	8:61:13	e	٦١	ﳖ			

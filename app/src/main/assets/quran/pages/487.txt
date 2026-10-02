@@ -1,0 +1,160 @@
+1	42:32:1	w	وَمِنۡ	ﱁ	ومن	And among	wamin
+1	42:32:2	w	ءَايَٰتِهِ	ﱂ	اياته	His Signs	āyātihi
+1	42:32:3	w	ٱلۡجَوَارِ	ﱃ	الجوار	(are) the ships	l-jawāri
+1	42:32:4	w	فِي	ﱄ	في	in	fī
+1	42:32:5	w	ٱلۡبَحۡرِ	ﱅ	البحر	the sea	l-baḥri
+1	42:32:6	w	كَٱلۡأَعۡلَٰمِ	ﱆ	كالاعلام	like [the] mountains	kal-aʿlāmi
+1	42:32:7	e	٣٢	ﱇ			
+1	42:33:1	w	إِن	ﱈ	ان	If	in
+1	42:33:2	w	يَشَأۡ	ﱉ	يشا	He wills	yasha
+1	42:33:3	w	يُسۡكِنِ	ﱊ	يسكن	He can cause the wind to become still	yus'kini
+1	42:33:4	w	ٱلرِّيحَ	ﱋ	الريح	He can cause the wind to become still	l-rīḥa
+2	42:33:5	w	فَيَظۡلَلۡنَ	ﱌ	فيظللن	then they would remain	fayaẓlalna
+2	42:33:6	w	رَوَاكِدَ	ﱍ	رواكد	motionless	rawākida
+2	42:33:7	w	عَلَىٰ	ﱎ	على	on	ʿalā
+2	42:33:8	w	ظَهۡرِهِۦٓۚ	ﱏﱐ	ظهره	its back	ẓahrihi
+2	42:33:9	w	إِنَّ	ﱑ	ان	Indeed	inna
+2	42:33:10	w	فِي	ﱒ	في	in	fī
+2	42:33:11	w	ذَٰلِكَ	ﱓ	ذالك	that	dhālika
+2	42:33:12	w	لَأٓيَٰتٖ	ﱔ	لايات	surely (are) Signs	laāyātin
+2	42:33:13	w	لِّكُلِّ	ﱕ	لكل	for everyone	likulli
+2	42:33:14	w	صَبَّارٖ	ﱖ	صبار	patient	ṣabbārin
+2	42:33:15	w	شَكُورٍ	ﱗ	شكور	(and) grateful	shakūrin
+3	42:33:16	e	٣٣	ﱘ			
+3	42:34:1	w	أَوۡ	ﱙ	او	Or	aw
+3	42:34:2	w	يُوبِقۡهُنَّ	ﱚ	يوبقهن	He could destroy them	yūbiq'hunna
+3	42:34:3	w	بِمَا	ﱛ	بما	for what	bimā
+3	42:34:4	w	كَسَبُواْ	ﱜ	كسبوا	they have earned	kasabū
+3	42:34:5	w	وَيَعۡفُ	ﱝ	ويعف	but He pardons	wayaʿfu
+3	42:34:6	w	عَن	ﱞ	عن	[from]	ʿan
+3	42:34:7	w	كَثِيرٖ	ﱟ	كثير	much	kathīrin
+3	42:34:8	e	٣٤	ﱠ			
+3	42:35:1	w	وَيَعۡلَمَ	ﱡ	ويعلم	And may know	wayaʿlama
+3	42:35:2	w	ٱلَّذِينَ	ﱢ	الذين	those who	alladhīna
+4	42:35:3	w	يُجَٰدِلُونَ	ﱣ	يجادلون	dispute	yujādilūna
+4	42:35:4	w	فِيٓ	ﱤ	في	concerning	fī
+4	42:35:5	w	ءَايَٰتِنَا	ﱥ	اياتنا	Our Signs	āyātinā
+4	42:35:6	w	مَا	ﱦ	ما	(that) not	mā
+4	42:35:7	w	لَهُم	ﱧ	لهم	for them	lahum
+4	42:35:8	w	مِّن	ﱨ	من	any	min
+4	42:35:9	w	مَّحِيصٖ	ﱩ	محيص	place of refuge	maḥīṣin
+4	42:35:10	e	٣٥	ﱪ			
+4	42:36:1	w	فَمَآ	ﱫ	فما	So whatever	famā
+4	42:36:2	w	أُوتِيتُم	ﱬ	اوتيتم	you are given	ūtītum
+4	42:36:3	w	مِّن	ﱭ	من	of	min
+4	42:36:4	w	شَيۡءٖ	ﱮ	شيء	a thing	shayin
+4	42:36:5	w	فَمَتَٰعُ	ﱯ	فمتاع	(is) but a passing enjoyment	famatāʿu
+5	42:36:6	w	ٱلۡحَيَوٰةِ	ﱰ	الحياة	(for) the life	l-ḥayati
+5	42:36:7	w	ٱلدُّنۡيَاۚ	ﱱﱲ	الدنيا	(of) the world	l-dun'yā
+5	42:36:8	w	وَمَا	ﱳ	وما	But what	wamā
+5	42:36:9	w	عِندَ	ﱴ	عند	(is) with	ʿinda
+5	42:36:10	w	ٱللَّهِ	ﱵ	الله	Allah	l-lahi
+5	42:36:11	w	خَيۡرٞ	ﱶ	خير	(is) better	khayrun
+5	42:36:12	w	وَأَبۡقَىٰ	ﱷ	وابقى	and more lasting	wa-abqā
+5	42:36:13	w	لِلَّذِينَ	ﱸ	للذين	for those who	lilladhīna
+5	42:36:14	w	ءَامَنُواْ	ﱹ	امنوا	believe	āmanū
+5	42:36:15	w	وَعَلَىٰ	ﱺ	وعلى	and upon	waʿalā
+5	42:36:16	w	رَبِّهِمۡ	ﱻ	ربهم	their Lord	rabbihim
+6	42:36:17	w	يَتَوَكَّلُونَ	ﱼ	يتوكلون	put (their) trust	yatawakkalūna
+6	42:36:18	e	٣٦	ﱽ			
+6	42:37:1	w	وَٱلَّذِينَ	ﱾ	والذين	And those who	wa-alladhīna
+6	42:37:2	w	يَجۡتَنِبُونَ	ﱿ	يجتنبون	avoid	yajtanibūna
+6	42:37:3	w	كَبَٰٓئِرَ	ﲀ	كباير	(the) greater	kabāira
+6	42:37:4	w	ٱلۡإِثۡمِ	ﲁ	الاثم	sins	l-ith'mi
+6	42:37:5	w	وَٱلۡفَوَٰحِشَ	ﲂ	والفواحش	and the immoralities	wal-fawāḥisha
+6	42:37:6	w	وَإِذَا	ﲃ	واذا	and when	wa-idhā
+6	42:37:7	w	مَا	ﲄ	ما	and when	mā
+7	42:37:8	w	غَضِبُواْ	ﲅ	غضبوا	they are angry	ghaḍibū
+7	42:37:9	w	هُمۡ	ﲆ	هم	they	hum
+7	42:37:10	w	يَغۡفِرُونَ	ﲇ	يغفرون	forgive	yaghfirūna
+7	42:37:11	e	٣٧	ﲈ			
+7	42:38:1	w	وَٱلَّذِينَ	ﲉ	والذين	And those who	wa-alladhīna
+7	42:38:2	w	ٱسۡتَجَابُواْ	ﲊ	استجابوا	respond	is'tajābū
+7	42:38:3	w	لِرَبِّهِمۡ	ﲋ	لربهم	to their Lord	lirabbihim
+7	42:38:4	w	وَأَقَامُواْ	ﲌ	واقاموا	and establish	wa-aqāmū
+7	42:38:5	w	ٱلصَّلَوٰةَ	ﲍ	الصلاة	prayer	l-ṣalata
+8	42:38:6	w	وَأَمۡرُهُمۡ	ﲎ	وامرهم	and their affairs	wa-amruhum
+8	42:38:7	w	شُورَىٰ	ﲏ	شورى	(are conducted by) consultation	shūrā
+8	42:38:8	w	بَيۡنَهُمۡ	ﲐ	بينهم	among them	baynahum
+8	42:38:9	w	وَمِمَّا	ﲑ	ومما	and from what	wamimmā
+8	42:38:10	w	رَزَقۡنَٰهُمۡ	ﲒ	رزقناهم	We have provided them	razaqnāhum
+8	42:38:11	w	يُنفِقُونَ	ﲓ	ينفقون	they spend	yunfiqūna
+8	42:38:12	e	٣٨	ﲔ			
+8	42:39:1	w	وَٱلَّذِينَ	ﲕ	والذين	And those who	wa-alladhīna
+8	42:39:2	w	إِذَآ	ﲖ	اذا	when	idhā
+8	42:39:3	w	أَصَابَهُمُ	ﲗ	اصابهم	strikes them	aṣābahumu
+9	42:39:4	w	ٱلۡبَغۡيُ	ﲘ	البغي	tyranny	l-baghyu
+9	42:39:5	w	هُمۡ	ﲙ	هم	they	hum
+9	42:39:6	w	يَنتَصِرُونَ	ﲚ	ينتصرون	defend themselves	yantaṣirūna
+9	42:39:7	e	٣٩	ﲛ			
+9	42:40:1	w	وَجَزَٰٓؤُاْ	ﲜ	وجزاء	(The) recompense	wajazāu
+9	42:40:2	w	سَيِّئَةٖ	ﲝ	سيية	(of) an evil	sayyi-atin
+9	42:40:3	w	سَيِّئَةٞ	ﲞ	سيية	(is) an evil	sayyi-atun
+9	42:40:4	w	مِّثۡلُهَاۖ	ﲟﲠ	مثلها	like it	mith'luhā
+9	42:40:5	w	فَمَنۡ	ﲡ	فمن	But whoever	faman
+9	42:40:6	w	عَفَا	ﲢ	عفا	pardons	ʿafā
+10	42:40:7	w	وَأَصۡلَحَ	ﲣ	واصلح	and makes reconciliation	wa-aṣlaḥa
+10	42:40:8	w	فَأَجۡرُهُۥ	ﲤ	فاجره	then his reward	fa-ajruhu
+10	42:40:9	w	عَلَى	ﲥ	على	(is) on	ʿalā
+10	42:40:10	w	ٱللَّهِۚ	ﲦﲧ	الله	Allah	l-lahi
+10	42:40:11	w	إِنَّهُۥ	ﲨ	انه	Indeed, He	innahu
+10	42:40:12	w	لَا	ﲩ	لا	(does) not	lā
+10	42:40:13	w	يُحِبُّ	ﲪ	يحب	like	yuḥibbu
+10	42:40:14	w	ٱلظَّٰلِمِينَ	ﲫ	الظالمين	the wrongdoers	l-ẓālimīna
+10	42:40:15	e	٤٠	ﲬ			
+10	42:41:1	w	وَلَمَنِ	ﲭ	ولمن	And surely whosoever	walamani
+10	42:41:2	w	ٱنتَصَرَ	ﲮ	انتصر	defends himself	intaṣara
+11	42:41:3	w	بَعۡدَ	ﲯ	بعد	after	baʿda
+11	42:41:4	w	ظُلۡمِهِۦ	ﲰ	ظلمه	he has been wronged	ẓul'mihi
+11	42:41:5	w	فَأُوْلَٰٓئِكَ	ﲱ	فاولايك	then those	fa-ulāika
+11	42:41:6	w	مَا	ﲲ	ما	not	mā
+11	42:41:7	w	عَلَيۡهِم	ﲳ	عليهم	(is) against them	ʿalayhim
+11	42:41:8	w	مِّن	ﲴ	من	any	min
+11	42:41:9	w	سَبِيلٍ	ﲵ	سبيل	way	sabīlin
+11	42:41:10	e	٤١	ﲶ			
+11	42:42:1	w	إِنَّمَا	ﲷ	انما	Only	innamā
+11	42:42:2	w	ٱلسَّبِيلُ	ﲸ	السبيل	the way	l-sabīlu
+11	42:42:3	w	عَلَى	ﲹ	على	against	ʿalā
+12	42:42:4	w	ٱلَّذِينَ	ﲺ	الذين	those who	alladhīna
+12	42:42:5	w	يَظۡلِمُونَ	ﲻ	يظلمون	oppress	yaẓlimūna
+12	42:42:6	w	ٱلنَّاسَ	ﲼ	الناس	the people	l-nāsa
+12	42:42:7	w	وَيَبۡغُونَ	ﲽ	ويبغون	and rebel	wayabghūna
+12	42:42:8	w	فِي	ﲾ	في	in	fī
+12	42:42:9	w	ٱلۡأَرۡضِ	ﲿ	الارض	the earth	l-arḍi
+12	42:42:10	w	بِغَيۡرِ	ﳀ	بغير	without	bighayri
+12	42:42:11	w	ٱلۡحَقِّۚ	ﳁﳂ	الحق	right	l-ḥaqi
+12	42:42:12	w	أُوْلَٰٓئِكَ	ﳃ	اولايك	Those	ulāika
+13	42:42:13	w	لَهُمۡ	ﳄ	لهم	for them	lahum
+13	42:42:14	w	عَذَابٌ	ﳅ	عذاب	(is) a punishment	ʿadhābun
+13	42:42:15	w	أَلِيمٞ	ﳆ	اليم	painful	alīmun
+13	42:42:16	e	٤٢	ﳇ			
+13	42:43:1	w	وَلَمَن	ﳈ	ولمن	And whoever	walaman
+13	42:43:2	w	صَبَرَ	ﳉ	صبر	(is) patient	ṣabara
+13	42:43:3	w	وَغَفَرَ	ﳊ	وغفر	and forgives	waghafara
+13	42:43:4	w	إِنَّ	ﳋ	ان	indeed	inna
+13	42:43:5	w	ذَٰلِكَ	ﳌ	ذالك	that	dhālika
+13	42:43:6	w	لَمِنۡ	ﳍ	لمن	(is) surely of	lamin
+13	42:43:7	w	عَزۡمِ	ﳎ	عزم	matters of determination	ʿazmi
+14	42:43:8	w	ٱلۡأُمُورِ	ﳏ	الامور	matters of determination	l-umūri
+14	42:43:9	e	٤٣	ﳐ			
+14	42:44:1	w	وَمَن	ﳑ	ومن	And whoever	waman
+14	42:44:2	w	يُضۡلِلِ	ﳒ	يضلل	Allah lets go astray	yuḍ'lili
+14	42:44:3	w	ٱللَّهُ	ﳓ	الله	Allah lets go astray	l-lahu
+14	42:44:4	w	فَمَا	ﳔ	فما	then not	famā
+14	42:44:5	w	لَهُۥ	ﳕ	له	for him	lahu
+14	42:44:6	w	مِن	ﳖ	من	any	min
+14	42:44:7	w	وَلِيّٖ	ﳗ	ولي	protector	waliyyin
+14	42:44:8	w	مِّنۢ	ﳘ	من	after Him	min
+14	42:44:9	w	بَعۡدِهِۦۗ	ﳙﳚ	بعده	after Him	baʿdihi
+14	42:44:10	w	وَتَرَى	ﳛ	وترى	And you will see	watarā
+15	42:44:11	w	ٱلظَّٰلِمِينَ	ﳜ	الظالمين	the wrongdoers	l-ẓālimīna
+15	42:44:12	w	لَمَّا	ﳝ	لما	when	lammā
+15	42:44:13	w	رَأَوُاْ	ﳞ	راوا	they see	ra-awū
+15	42:44:14	w	ٱلۡعَذَابَ	ﳟ	العذاب	the punishment	l-ʿadhāba
+15	42:44:15	w	يَقُولُونَ	ﳠ	يقولون	saying	yaqūlūna
+15	42:44:16	w	هَلۡ	ﳡ	هل	Is	hal
+15	42:44:17	w	إِلَىٰ	ﳢ	الى	(there) for	ilā
+15	42:44:18	w	مَرَدّٖ	ﳣ	مرد	return	maraddin
+15	42:44:19	w	مِّن	ﳤ	من	any	min
+15	42:44:20	w	سَبِيلٖ	ﳥ	سبيل	way	sabīlin
+15	42:44:21	e	٤٤	ﳦ			

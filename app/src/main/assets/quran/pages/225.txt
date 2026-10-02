@@ -1,0 +1,152 @@
+1	11:29:1	w	وَيَٰقَوۡمِ	ﱁ	ويا قوم	And O my people	wayāqawmi
+1	11:29:2	w	لَآ	ﱂ	لا	not	lā
+1	11:29:3	w	أَسۡـَٔلُكُمۡ	ﱃ	اسالكم	I ask (of) you	asalukum
+1	11:29:4	w	عَلَيۡهِ	ﱄ	عليه	for it	ʿalayhi
+1	11:29:5	w	مَالًاۖ	ﱅﱆ	مالا	any wealth	mālan
+1	11:29:6	w	إِنۡ	ﱇ	ان	Not	in
+1	11:29:7	w	أَجۡرِيَ	ﱈ	اجري	(is) my reward	ajriya
+1	11:29:8	w	إِلَّا	ﱉ	الا	except	illā
+1	11:29:9	w	عَلَى	ﱊ	على	from	ʿalā
+1	11:29:10	w	ٱللَّهِۚ	ﱋﱌ	الله	Allah	l-lahi
+1	11:29:11	w	وَمَآ	ﱍ	وما	And not	wamā
+1	11:29:12	w	أَنَا۠	ﱎ	انا	I am	anā
+2	11:29:13	w	بِطَارِدِ	ﱏ	بطارد	going to drive away	biṭāridi
+2	11:29:14	w	ٱلَّذِينَ	ﱐ	الذين	those who	alladhīna
+2	11:29:15	w	ءَامَنُوٓاْۚ	ﱑﱒ	امنوا	believed	āmanū
+2	11:29:16	w	إِنَّهُم	ﱓ	انهم	Indeed, they	innahum
+2	11:29:17	w	مُّلَٰقُواْ	ﱔ	ملاقو	(will) be meeting	mulāqū
+2	11:29:18	w	رَبِّهِمۡ	ﱕ	ربهم	their Lord	rabbihim
+2	11:29:19	w	وَلَٰكِنِّيٓ	ﱖ	ولاكني	but I	walākinnī
+2	11:29:20	w	أَرَىٰكُمۡ	ﱗ	اراكم	see you	arākum
+2	11:29:21	w	قَوۡمٗا	ﱘ	قوما	(are) a people	qawman
+3	11:29:22	w	تَجۡهَلُونَ	ﱙ	تجهلون	ignorant	tajhalūna
+3	11:29:23	e	٢٩	ﱚ			
+3	11:30:1	w	وَيَٰقَوۡمِ	ﱛ	ويا قوم	And O my people	wayāqawmi
+3	11:30:2	w	مَن	ﱜ	من	Who	man
+3	11:30:3	w	يَنصُرُنِي	ﱝ	ينصرني	would help me	yanṣurunī
+3	11:30:4	w	مِنَ	ﱞ	من	against	mina
+3	11:30:5	w	ٱللَّهِ	ﱟ	الله	Allah	l-lahi
+3	11:30:6	w	إِن	ﱠ	ان	if	in
+3	11:30:7	w	طَرَدتُّهُمۡۚ	ﱡﱢ	طردتهم	I drove them away	ṭaradttuhum
+3	11:30:8	w	أَفَلَا	ﱣ	افلا	Then, will not	afalā
+4	11:30:9	w	تَذَكَّرُونَ	ﱤ	تذكرون	you take heed	tadhakkarūna
+4	11:30:10	e	٣٠	ﱥ			
+4	11:31:1	w	وَلَآ	ﱦ	ولا	And not	walā
+4	11:31:2	w	أَقُولُ	ﱧ	اقول	I say	aqūlu
+4	11:31:3	w	لَكُمۡ	ﱨ	لكم	to you	lakum
+4	11:31:4	w	عِندِي	ﱩ	عندي	(that) with me	ʿindī
+4	11:31:5	w	خَزَآئِنُ	ﱪ	خزاين	(are the) treasures	khazāinu
+4	11:31:6	w	ٱللَّهِ	ﱫ	الله	(of) Allah	l-lahi
+4	11:31:7	w	وَلَآ	ﱬ	ولا	and not	walā
+5	11:31:8	w	أَعۡلَمُ	ﱭ	اعلم	I know	aʿlamu
+5	11:31:9	w	ٱلۡغَيۡبَ	ﱮ	الغيب	the unseen	l-ghayba
+5	11:31:10	w	وَلَآ	ﱯ	ولا	and not	walā
+5	11:31:11	w	أَقُولُ	ﱰ	اقول	I say	aqūlu
+5	11:31:12	w	إِنِّي	ﱱ	اني	that I am	innī
+5	11:31:13	w	مَلَكٞ	ﱲ	ملك	an Angel	malakun
+5	11:31:14	w	وَلَآ	ﱳ	ولا	and not	walā
+5	11:31:15	w	أَقُولُ	ﱴ	اقول	I say	aqūlu
+5	11:31:16	w	لِلَّذِينَ	ﱵ	للذين	for those whom	lilladhīna
+5	11:31:17	w	تَزۡدَرِيٓ	ﱶ	تزدري	look down upon	tazdarī
+6	11:31:18	w	أَعۡيُنُكُمۡ	ﱷ	اعينكم	your eyes	aʿyunukum
+6	11:31:19	w	لَن	ﱸ	لن	never	lan
+6	11:31:20	w	يُؤۡتِيَهُمُ	ﱹ	يوتيهم	will Allah give them	yu'tiyahumu
+6	11:31:21	w	ٱللَّهُ	ﱺ	الله	will Allah give them	l-lahu
+6	11:31:22	w	خَيۡرًاۖ	ﱻﱼ	خيرا	any good	khayran
+6	11:31:23	w	ٱللَّهُ	ﱽ	الله	Allah	l-lahu
+6	11:31:24	w	أَعۡلَمُ	ﱾ	اعلم	knows best	aʿlamu
+6	11:31:25	w	بِمَا	ﱿ	بما	what	bimā
+6	11:31:26	w	فِيٓ	ﲀ	في	(is) in	fī
+6	11:31:27	w	أَنفُسِهِمۡ	ﲁ	انفسهم	their souls	anfusihim
+6	11:31:28	w	إِنِّيٓ	ﲂ	اني	Indeed, I	innī
+7	11:31:29	w	إِذٗا	ﲃ	اذا	then	idhan
+7	11:31:30	w	لَّمِنَ	ﲄ	لمن	(will be) surely of	lamina
+7	11:31:31	w	ٱلظَّٰلِمِينَ	ﲅ	الظالمين	the wrongdoers	l-ẓālimīna
+7	11:31:32	e	٣١	ﲆ			
+7	11:32:1	w	قَالُواْ	ﲇ	قالوا	They said	qālū
+7	11:32:2	w	يَٰنُوحُ	ﲈ	يا نوح	O Nuh	yānūḥu
+7	11:32:3	w	قَدۡ	ﲉ	قد	Indeed	qad
+7	11:32:4	w	جَٰدَلۡتَنَا	ﲊ	جادلتنا	you disputed with us	jādaltanā
+7	11:32:5	w	فَأَكۡثَرۡتَ	ﲋ	فاكثرت	and you (have been) frequent	fa-aktharta
+7	11:32:6	w	جِدَٰلَنَا	ﲌ	جدالنا	(in) dispute with us	jidālanā
+8	11:32:7	w	فَأۡتِنَا	ﲍ	فاتنا	So bring us	fatinā
+8	11:32:8	w	بِمَا	ﲎ	بما	what	bimā
+8	11:32:9	w	تَعِدُنَآ	ﲏ	تعدنا	you threaten us (with)	taʿidunā
+8	11:32:10	w	إِن	ﲐ	ان	if	in
+8	11:32:11	w	كُنتَ	ﲑ	كنت	you are	kunta
+8	11:32:12	w	مِنَ	ﲒ	من	of	mina
+8	11:32:13	w	ٱلصَّٰدِقِينَ	ﲓ	الصادقين	the truthful	l-ṣādiqīna
+8	11:32:14	e	٣٢	ﲔ			
+8	11:33:1	w	قَالَ	ﲕ	قال	He said	qāla
+8	11:33:2	w	إِنَّمَا	ﲖ	انما	Only	innamā
+9	11:33:3	w	يَأۡتِيكُم	ﲗ	ياتيكم	will bring it (on) you	yatīkum
+9	11:33:4	w	بِهِ	ﲘ	به	will bring it (on) you	bihi
+9	11:33:5	w	ٱللَّهُ	ﲙ	الله	Allah	l-lahu
+9	11:33:6	w	إِن	ﲚ	ان	if	in
+9	11:33:7	w	شَآءَ	ﲛ	شاء	He wills	shāa
+9	11:33:8	w	وَمَآ	ﲜ	وما	and not	wamā
+9	11:33:9	w	أَنتُم	ﲝ	انتم	you (are)	antum
+9	11:33:10	w	بِمُعۡجِزِينَ	ﲞ	بمعجزين	one who (can) escape (it)	bimuʿ'jizīna
+9	11:33:11	e	٣٣	ﲟ			
+9	11:34:1	w	وَلَا	ﲠ	ولا	And (will) not	walā
+9	11:34:2	w	يَنفَعُكُمۡ	ﲡ	ينفعكم	benefit you	yanfaʿukum
+10	11:34:3	w	نُصۡحِيٓ	ﲢ	نصحي	my advice	nuṣ'ḥī
+10	11:34:4	w	إِنۡ	ﲣ	ان	(even) if	in
+10	11:34:5	w	أَرَدتُّ	ﲤ	اردت	I wish	aradttu
+10	11:34:6	w	أَنۡ	ﲥ	ان	to	an
+10	11:34:7	w	أَنصَحَ	ﲦ	انصح	[I] advise	anṣaḥa
+10	11:34:8	w	لَكُمۡ	ﲧ	لكم	[to] you	lakum
+10	11:34:9	w	إِن	ﲨ	ان	if	in
+10	11:34:10	w	كَانَ	ﲩ	كان	it was Allah's	kāna
+10	11:34:11	w	ٱللَّهُ	ﲪ	الله	it was Allah's	l-lahu
+10	11:34:12	w	يُرِيدُ	ﲫ	يريد	will	yurīdu
+10	11:34:13	w	أَن	ﲬ	ان	to	an
+11	11:34:14	w	يُغۡوِيَكُمۡۚ	ﲭﲮ	يغويكم	let you go astray	yugh'wiyakum
+11	11:34:15	w	هُوَ	ﲯ	هو	He (is)	huwa
+11	11:34:16	w	رَبُّكُمۡ	ﲰ	ربكم	your Lord	rabbukum
+11	11:34:17	w	وَإِلَيۡهِ	ﲱ	واليه	and to Him	wa-ilayhi
+11	11:34:18	w	تُرۡجَعُونَ	ﲲ	ترجعون	you will be returned	tur'jaʿūna
+11	11:34:19	e	٣٤	ﲳ			
+11	11:35:1	w	أَمۡ	ﲴ	ام	Or	am
+11	11:35:2	w	يَقُولُونَ	ﲵ	يقولون	(do) they say	yaqūlūna
+11	11:35:3	w	ٱفۡتَرَىٰهُۖ	ﲶﲷ	افتراه	He has invented it	if'tarāhu
+12	11:35:4	w	قُلۡ	ﲸ	قل	Say	qul
+12	11:35:5	w	إِنِ	ﲹ	ان	If	ini
+12	11:35:6	w	ٱفۡتَرَيۡتُهُۥ	ﲺ	افتريته	I have invented it	if'taraytuhu
+12	11:35:7	w	فَعَلَيَّ	ﲻ	فعلي	then on me	faʿalayya
+12	11:35:8	w	إِجۡرَامِي	ﲼ	اجرامي	(is) my crime	ij'rāmī
+12	11:35:9	w	وَأَنَا۠	ﲽ	وانا	but I am	wa-anā
+12	11:35:10	w	بَرِيٓءٞ	ﲾ	بريء	innocent	barīon
+12	11:35:11	w	مِّمَّا	ﲿ	مما	of what	mimmā
+12	11:35:12	w	تُجۡرِمُونَ	ﳀ	تجرمون	crimes you commit	tuj'rimūna
+13	11:35:13	e	٣٥	ﳁ			
+13	11:36:1	w	وَأُوحِيَ	ﳂ	واوحي	And it was revealed	waūḥiya
+13	11:36:2	w	إِلَىٰ	ﳃ	الى	to	ilā
+13	11:36:3	w	نُوحٍ	ﳄ	نوح	Nuh	nūḥin
+13	11:36:4	w	أَنَّهُۥ	ﳅ	انه	That	annahu
+13	11:36:5	w	لَن	ﳆ	لن	will never	lan
+13	11:36:6	w	يُؤۡمِنَ	ﳇ	يومن	believe	yu'mina
+13	11:36:7	w	مِن	ﳈ	من	from	min
+13	11:36:8	w	قَوۡمِكَ	ﳉ	قومك	your people	qawmika
+13	11:36:9	w	إِلَّا	ﳊ	الا	except	illā
+13	11:36:10	w	مَن	ﳋ	من	(those) who	man
+13	11:36:11	w	قَدۡ	ﳌ	قد	have already	qad
+13	11:36:12	w	ءَامَنَ	ﳍ	امن	believed	āmana
+14	11:36:13	w	فَلَا	ﳎ	فلا	So (do) not	falā
+14	11:36:14	w	تَبۡتَئِسۡ	ﳏ	تبتيس	(be) distressed	tabta-is
+14	11:36:15	w	بِمَا	ﳐ	بما	by what	bimā
+14	11:36:16	w	كَانُواْ	ﳑ	كانوا	they have been	kānū
+14	11:36:17	w	يَفۡعَلُونَ	ﳒ	يفعلون	doing	yafʿalūna
+14	11:36:18	e	٣٦	ﳓ			
+14	11:37:1	w	وَٱصۡنَعِ	ﳔ	واصنع	And construct	wa-iṣ'naʿi
+14	11:37:2	w	ٱلۡفُلۡكَ	ﳕ	الفلك	the ship	l-ful'ka
+14	11:37:3	w	بِأَعۡيُنِنَا	ﳖ	باعيننا	under Our Eyes	bi-aʿyuninā
+15	11:37:4	w	وَوَحۡيِنَا	ﳗ	ووحينا	and Our inspiration	wawaḥyinā
+15	11:37:5	w	وَلَا	ﳘ	ولا	and (do) not	walā
+15	11:37:6	w	تُخَٰطِبۡنِي	ﳙ	تخاطبني	address Me	tukhāṭib'nī
+15	11:37:7	w	فِي	ﳚ	في	concerning	fī
+15	11:37:8	w	ٱلَّذِينَ	ﳛ	الذين	those who	alladhīna
+15	11:37:9	w	ظَلَمُوٓاْ	ﳜ	ظلموا	wronged	ẓalamū
+15	11:37:10	w	إِنَّهُم	ﳝ	انهم	indeed, they (are)	innahum
+15	11:37:11	w	مُّغۡرَقُونَ	ﳞ	مغرقون	the ones (to be) drowned	mugh'raqūna
+15	11:37:12	e	٣٧	ﳟ			

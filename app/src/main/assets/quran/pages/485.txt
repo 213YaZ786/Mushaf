@@ -1,0 +1,135 @@
+1	42:16:1	w	وَٱلَّذِينَ	ﱁ	والذين	And those who	wa-alladhīna
+1	42:16:2	w	يُحَآجُّونَ	ﱂ	يحاجون	argue	yuḥājjūna
+1	42:16:3	w	فِي	ﱃ	في	concerning	fī
+1	42:16:4	w	ٱللَّهِ	ﱄ	الله	Allah	l-lahi
+1	42:16:5	w	مِنۢ	ﱅ	من	after	min
+1	42:16:6	w	بَعۡدِ	ﱆ	بعد	after	baʿdi
+1	42:16:7	w	مَا	ﱇ	ما	[what]	mā
+1	42:16:8	w	ٱسۡتُجِيبَ	ﱈ	استجيب	response has been made to Him	us'tujība
+1	42:16:9	w	لَهُۥ	ﱉ	له	response has been made to Him	lahu
+1	42:16:10	w	حُجَّتُهُمۡ	ﱊ	حجتهم	their argument	ḥujjatuhum
+2	42:16:11	w	دَاحِضَةٌ	ﱋ	داحضة	(is) invalid	dāḥiḍatun
+2	42:16:12	w	عِندَ	ﱌ	عند	with	ʿinda
+2	42:16:13	w	رَبِّهِمۡ	ﱍ	ربهم	their Lord	rabbihim
+2	42:16:14	w	وَعَلَيۡهِمۡ	ﱎ	وعليهم	and upon them	waʿalayhim
+2	42:16:15	w	غَضَبٞ	ﱏ	غضب	(is) wrath	ghaḍabun
+2	42:16:16	w	وَلَهُمۡ	ﱐ	ولهم	and for them	walahum
+2	42:16:17	w	عَذَابٞ	ﱑ	عذاب	(is) a punishment	ʿadhābun
+2	42:16:18	w	شَدِيدٌ	ﱒ	شديد	severe	shadīdun
+3	42:16:19	e	١٦	ﱓ			
+3	42:17:1	w	ٱللَّهُ	ﱔ	الله	Allah	al-lahu
+3	42:17:2	w	ٱلَّذِيٓ	ﱕ	الذي	(is) the One Who	alladhī
+3	42:17:3	w	أَنزَلَ	ﱖ	انزل	(has) sent down	anzala
+3	42:17:4	w	ٱلۡكِتَٰبَ	ﱗ	الكتاب	the Book	l-kitāba
+3	42:17:5	w	بِٱلۡحَقِّ	ﱘ	بالحق	in truth	bil-ḥaqi
+3	42:17:6	w	وَٱلۡمِيزَانَۗ	ﱙﱚ	والميزان	and the Balance	wal-mīzāna
+3	42:17:7	w	وَمَا	ﱛ	وما	And what	wamā
+3	42:17:8	w	يُدۡرِيكَ	ﱜ	يدريك	will make you know	yud'rīka
+4	42:17:9	w	لَعَلَّ	ﱝ	لعل	Perhaps	laʿalla
+4	42:17:10	w	ٱلسَّاعَةَ	ﱞ	الساعة	the Hour	l-sāʿata
+4	42:17:11	w	قَرِيبٞ	ﱟ	قريب	(is) near	qarībun
+4	42:17:12	e	١٧	ﱠ			
+4	42:18:1	w	يَسۡتَعۡجِلُ	ﱡ	يستعجل	Seek to hasten	yastaʿjilu
+4	42:18:2	w	بِهَا	ﱢ	بها	[of] it	bihā
+4	42:18:3	w	ٱلَّذِينَ	ﱣ	الذين	those who	alladhīna
+4	42:18:4	w	لَا	ﱤ	لا	(do) not	lā
+4	42:18:5	w	يُؤۡمِنُونَ	ﱥ	يومنون	believe	yu'minūna
+5	42:18:6	w	بِهَاۖ	ﱦﱧ	بها	in it	bihā
+5	42:18:7	w	وَٱلَّذِينَ	ﱨ	والذين	and those who	wa-alladhīna
+5	42:18:8	w	ءَامَنُواْ	ﱩ	امنوا	believe	āmanū
+5	42:18:9	w	مُشۡفِقُونَ	ﱪ	مشفقون	(are) fearful	mush'fiqūna
+5	42:18:10	w	مِنۡهَا	ﱫ	منها	of it	min'hā
+5	42:18:11	w	وَيَعۡلَمُونَ	ﱬ	ويعلمون	and know	wayaʿlamūna
+5	42:18:12	w	أَنَّهَا	ﱭ	انها	that it	annahā
+5	42:18:13	w	ٱلۡحَقُّۗ	ﱮﱯ	الحق	(is) the truth	l-ḥaqu
+6	42:18:14	w	أَلَآ	ﱰ	الا	Unquestionably	alā
+6	42:18:15	w	إِنَّ	ﱱ	ان	indeed	inna
+6	42:18:16	w	ٱلَّذِينَ	ﱲ	الذين	those who	alladhīna
+6	42:18:17	w	يُمَارُونَ	ﱳ	يمارون	dispute	yumārūna
+6	42:18:18	w	فِي	ﱴ	في	concerning	fī
+6	42:18:19	w	ٱلسَّاعَةِ	ﱵ	الساعة	the Hour	l-sāʿati
+6	42:18:20	w	لَفِي	ﱶ	لفي	(are) certainly in	lafī
+6	42:18:21	w	ضَلَٰلِۭ	ﱷ	ضلال	error	ḍalālin
+6	42:18:22	w	بَعِيدٍ	ﱸ	بعيد	far	baʿīdin
+6	42:18:23	e	١٨	ﱹ			
+7	42:19:1	w	ٱللَّهُ	ﱺ	الله	Allah	al-lahu
+7	42:19:2	w	لَطِيفُۢ	ﱻ	لطيف	(is) Subtle	laṭīfun
+7	42:19:3	w	بِعِبَادِهِۦ	ﱼ	بعباده	with His slaves	biʿibādihi
+7	42:19:4	w	يَرۡزُقُ	ﱽ	يرزق	He gives provision	yarzuqu
+7	42:19:5	w	مَن	ﱾ	من	(to) whom	man
+7	42:19:6	w	يَشَآءُۖ	ﱿﲀ	يشاء	He wills	yashāu
+7	42:19:7	w	وَهُوَ	ﲁ	وهو	And He	wahuwa
+7	42:19:8	w	ٱلۡقَوِيُّ	ﲂ	القوي	(is) the All-Strong	l-qawiyu
+7	42:19:9	w	ٱلۡعَزِيزُ	ﲃ	العزيز	the All-Mighty	l-ʿazīzu
+8	42:19:10	e	١٩	ﲄ			
+8	42:20:1	w	مَن	ﲅ	من	Whoever	man
+8	42:20:2	w	كَانَ	ﲆ	كان	is	kāna
+8	42:20:3	w	يُرِيدُ	ﲇ	يريد	desiring	yurīdu
+8	42:20:4	w	حَرۡثَ	ﲈ	حرث	(the) harvest	ḥartha
+8	42:20:5	w	ٱلۡأٓخِرَةِ	ﲉ	الاخرة	(of) the Hereafter	l-ākhirati
+8	42:20:6	w	نَزِدۡ	ﲊ	نزد	We increase	nazid
+8	42:20:7	w	لَهُۥ	ﲋ	له	for him	lahu
+8	42:20:8	w	فِي	ﲌ	في	in	fī
+8	42:20:9	w	حَرۡثِهِۦۖ	ﲍﲎ	حرثه	his harvest	ḥarthihi
+8	42:20:10	w	وَمَن	ﲏ	ومن	And whoever	waman
+9	42:20:11	w	كَانَ	ﲐ	كان	is	kāna
+9	42:20:12	w	يُرِيدُ	ﲑ	يريد	desiring	yurīdu
+9	42:20:13	w	حَرۡثَ	ﲒ	حرث	(the) harvest	ḥartha
+9	42:20:14	w	ٱلدُّنۡيَا	ﲓ	الدنيا	(of) the world	l-dun'yā
+9	42:20:15	w	نُؤۡتِهِۦ	ﲔ	نوته	We give him	nu'tihi
+9	42:20:16	w	مِنۡهَا	ﲕ	منها	of it	min'hā
+9	42:20:17	w	وَمَا	ﲖ	وما	but not	wamā
+9	42:20:18	w	لَهُۥ	ﲗ	له	for him	lahu
+9	42:20:19	w	فِي	ﲘ	في	in	fī
+9	42:20:20	w	ٱلۡأٓخِرَةِ	ﲙ	الاخرة	the Hereafter	l-ākhirati
+10	42:20:21	w	مِن	ﲚ	من	any	min
+10	42:20:22	w	نَّصِيبٍ	ﲛ	نصيب	share	naṣībin
+10	42:20:23	e	٢٠	ﲜ			
+10	42:21:1	w	أَمۡ	ﲝ	ام	Or	am
+10	42:21:2	w	لَهُمۡ	ﲞ	لهم	for them	lahum
+10	42:21:3	w	شُرَكَٰٓؤُاْ	ﲟ	شركاء	(are) partners	shurakāu
+10	42:21:4	w	شَرَعُواْ	ﲠ	شرعوا	who have ordained	sharaʿū
+10	42:21:5	w	لَهُم	ﲡ	لهم	for them	lahum
+10	42:21:6	w	مِّنَ	ﲢ	من	of	mina
+10	42:21:7	w	ٱلدِّينِ	ﲣ	الدين	the religion	l-dīni
+11	42:21:8	w	مَا	ﲤ	ما	what	mā
+11	42:21:9	w	لَمۡ	ﲥ	لم	not	lam
+11	42:21:10	w	يَأۡذَنۢ	ﲦ	ياذن	Allah has given permission of it	yadhan
+11	42:21:11	w	بِهِ	ﲧ	به	Allah has given permission of it	bihi
+11	42:21:12	w	ٱللَّهُۚ	ﲨﲩ	الله	Allah has given permission of it	l-lahu
+11	42:21:13	w	وَلَوۡلَا	ﲪ	ولولا	And if not	walawlā
+11	42:21:14	w	كَلِمَةُ	ﲫ	كلمة	(for) a word	kalimatu
+11	42:21:15	w	ٱلۡفَصۡلِ	ﲬ	الفصل	decisive	l-faṣli
+11	42:21:16	w	لَقُضِيَ	ﲭ	لقضي	surely, it (would have) been judged	laquḍiya
+11	42:21:17	w	بَيۡنَهُمۡۗ	ﲮﲯ	بينهم	between them	baynahum
+12	42:21:18	w	وَإِنَّ	ﲰ	وان	And indeed	wa-inna
+12	42:21:19	w	ٱلظَّٰلِمِينَ	ﲱ	الظالمين	the wrongdoers	l-ẓālimīna
+12	42:21:20	w	لَهُمۡ	ﲲ	لهم	for them	lahum
+12	42:21:21	w	عَذَابٌ	ﲳ	عذاب	(is a) punishment	ʿadhābun
+12	42:21:22	w	أَلِيمٞ	ﲴ	اليم	painful	alīmun
+12	42:21:23	e	٢١	ﲵ			
+12	42:22:1	w	تَرَى	ﲶ	ترى	You will see	tarā
+12	42:22:2	w	ٱلظَّٰلِمِينَ	ﲷ	الظالمين	the wrongdoers	l-ẓālimīna
+13	42:22:3	w	مُشۡفِقِينَ	ﲸ	مشفقين	fearful	mush'fiqīna
+13	42:22:4	w	مِمَّا	ﲹ	مما	of what	mimmā
+13	42:22:5	w	كَسَبُواْ	ﲺ	كسبوا	they earned	kasabū
+13	42:22:6	w	وَهُوَ	ﲻ	وهو	and it	wahuwa
+13	42:22:7	w	وَاقِعُۢ	ﲼ	واقع	(will) befall	wāqiʿun
+13	42:22:8	w	بِهِمۡۗ	ﲽﲾ	بهم	[on] them	bihim
+13	42:22:9	w	وَٱلَّذِينَ	ﲿ	والذين	And those who	wa-alladhīna
+14	42:22:10	w	ءَامَنُواْ	ﳀ	امنوا	believe	āmanū
+14	42:22:11	w	وَعَمِلُواْ	ﳁ	وعملوا	and do	waʿamilū
+14	42:22:12	w	ٱلصَّٰلِحَٰتِ	ﳂ	الصالحات	righteous deeds	l-ṣāliḥāti
+14	42:22:13	w	فِي	ﳃ	في	(will be) in	fī
+14	42:22:14	w	رَوۡضَاتِ	ﳄ	روضات	flowering meadows	rawḍāti
+14	42:22:15	w	ٱلۡجَنَّاتِۖ	ﳅﳆ	الجنات	(of) the Gardens	l-janāti
+14	42:22:16	w	لَهُم	ﳇ	لهم	for them	lahum
+15	42:22:17	w	مَّا	ﳈ	ما	(is) whatever	mā
+15	42:22:18	w	يَشَآءُونَ	ﳉ	يشاءون	they wish	yashāūna
+15	42:22:19	w	عِندَ	ﳊ	عند	with	ʿinda
+15	42:22:20	w	رَبِّهِمۡۚ	ﳋﳌ	ربهم	their Lord	rabbihim
+15	42:22:21	w	ذَٰلِكَ	ﳍ	ذالك	That	dhālika
+15	42:22:22	w	هُوَ	ﳎ	هو	it	huwa
+15	42:22:23	w	ٱلۡفَضۡلُ	ﳏ	الفضل	(is) the Bounty	l-faḍlu
+15	42:22:24	w	ٱلۡكَبِيرُ	ﳐ	الكبير	the Great	l-kabīru
+15	42:22:25	e	٢٢	ﳑ			

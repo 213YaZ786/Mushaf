@@ -1,0 +1,5 @@
+<resources>
+    <!-- Placeholder icon until the user chooses the real one. -->
+    <color name="ic_launcher_background">@android:color/system_accent1_50</color>
+    <color name="ic_launcher_mark">@android:color/system_accent1_600</color>
+</resources>

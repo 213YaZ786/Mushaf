@@ -1,0 +1,147 @@
+1	11:98:1	w	يَقۡدُمُ	ﱁ	يقدم	He will precede	yaqdumu
+1	11:98:2	w	قَوۡمَهُۥ	ﱂ	قومه	his people	qawmahu
+1	11:98:3	w	يَوۡمَ	ﱃ	يوم	(on the) Day	yawma
+1	11:98:4	w	ٱلۡقِيَٰمَةِ	ﱄ	القيامة	(of) the Resurrection	l-qiyāmati
+1	11:98:5	w	فَأَوۡرَدَهُمُ	ﱅ	فاوردهم	and lead them	fa-awradahumu
+1	11:98:6	w	ٱلنَّارَۖ	ﱆﱇ	النار	(into) the Fire	l-nāra
+1	11:98:7	w	وَبِئۡسَ	ﱈ	وبيس	And wretched	wabi'sa
+1	11:98:8	w	ٱلۡوِرۡدُ	ﱉ	الورد	(is) the place	l-wir'du
+2	11:98:9	w	ٱلۡمَوۡرُودُ	ﱊ	المورود	to which (they are) led	l-mawrūdu
+2	11:98:10	e	٩٨	ﱋ			
+2	11:99:1	w	وَأُتۡبِعُواْ	ﱌ	واتبعوا	And they were followed	wa-ut'biʿū
+2	11:99:2	w	فِي	ﱍ	في	in	fī
+2	11:99:3	w	هَٰذِهِۦ	ﱎ	هاذه	this	hādhihi
+2	11:99:4	w	لَعۡنَةٗ	ﱏ	لعنة	(by) a curse	laʿnatan
+2	11:99:5	w	وَيَوۡمَ	ﱐ	ويوم	and (on the) Day	wayawma
+2	11:99:6	w	ٱلۡقِيَٰمَةِۚ	ﱑﱒ	القيامة	(of) the Resurrection	l-qiyāmati
+2	11:99:7	w	بِئۡسَ	ﱓ	بيس	Wretched	bi'sa
+3	11:99:8	w	ٱلرِّفۡدُ	ﱔ	الرفد	(is) the gift	l-rif'du
+3	11:99:9	w	ٱلۡمَرۡفُودُ	ﱕ	المرفود	which (will) be given	l-marfūdu
+3	11:99:10	e	٩٩	ﱖ			
+3	11:100:1	w	ذَٰلِكَ	ﱗ	ذالك	That	dhālika
+3	11:100:2	w	مِنۡ	ﱘ	من	(is) from	min
+3	11:100:3	w	أَنۢبَآءِ	ﱙ	انباء	(the) news	anbāi
+3	11:100:4	w	ٱلۡقُرَىٰ	ﱚ	القرى	(of) the cities	l-qurā
+3	11:100:5	w	نَقُصُّهُۥ	ﱛ	نقصه	(which) We relate	naquṣṣuhu
+3	11:100:6	w	عَلَيۡكَۖ	ﱜﱝ	عليك	to you	ʿalayka
+4	11:100:7	w	مِنۡهَا	ﱞ	منها	of them	min'hā
+4	11:100:8	w	قَآئِمٞ	ﱟ	قايم	some are standing	qāimun
+4	11:100:9	w	وَحَصِيدٞ	ﱠ	وحصيد	and (some) mown	waḥaṣīdun
+4	11:100:10	e	١٠٠	ﱡ			
+4	11:101:1	w	وَمَا	ﱢ	وما	And not	wamā
+4	11:101:2	w	ظَلَمۡنَٰهُمۡ	ﱣ	ظلمناهم	We wronged them	ẓalamnāhum
+4	11:101:3	w	وَلَٰكِن	ﱤ	ولاكن	but	walākin
+4	11:101:4	w	ظَلَمُوٓاْ	ﱥ	ظلموا	they wronged	ẓalamū
+5	11:101:5	w	أَنفُسَهُمۡۖ	ﱦﱧ	انفسهم	themselves	anfusahum
+5	11:101:6	w	فَمَآ	ﱨ	فما	So not	famā
+5	11:101:7	w	أَغۡنَتۡ	ﱩ	اغنت	availed	aghnat
+5	11:101:8	w	عَنۡهُمۡ	ﱪ	عنهم	them	ʿanhum
+5	11:101:9	w	ءَالِهَتُهُمُ	ﱫ	الهتهم	their gods	ālihatuhumu
+5	11:101:10	w	ٱلَّتِي	ﱬ	التي	which	allatī
+5	11:101:11	w	يَدۡعُونَ	ﱭ	يدعون	they invoked	yadʿūna
+5	11:101:12	w	مِن	ﱮ	من	other than Allah	min
+5	11:101:13	w	دُونِ	ﱯ	دون	other than Allah	dūni
+6	11:101:14	w	ٱللَّهِ	ﱰ	الله	other than Allah	l-lahi
+6	11:101:15	w	مِن	ﱱ	من	any	min
+6	11:101:16	w	شَيۡءٖ	ﱲ	شيء	thing	shayin
+6	11:101:17	w	لَّمَّا	ﱳ	لما	when	lammā
+6	11:101:18	w	جَآءَ	ﱴ	جاء	came	jāa
+6	11:101:19	w	أَمۡرُ	ﱵ	امر	(the) command (of) your Lord	amru
+6	11:101:20	w	رَبِّكَۖ	ﱶﱷ	ربك	(the) command (of) your Lord	rabbika
+6	11:101:21	w	وَمَا	ﱸ	وما	And not	wamā
+6	11:101:22	w	زَادُوهُمۡ	ﱹ	زادوهم	they increased them	zādūhum
+6	11:101:23	w	غَيۡرَ	ﱺ	غير	other than	ghayra
+6	11:101:24	w	تَتۡبِيبٖ	ﱻ	تتبيب	ruin	tatbībin
+6	11:101:25	e	١٠١	ﱼ			
+7	11:102:1	w	وَكَذَٰلِكَ	ﱽ	وكذالك	And thus	wakadhālika
+7	11:102:2	w	أَخۡذُ	ﱾ	اخذ	(is) the seizure (of) your Lord	akhdhu
+7	11:102:3	w	رَبِّكَ	ﱿ	ربك	(is) the seizure (of) your Lord	rabbika
+7	11:102:4	w	إِذَآ	ﲀ	اذا	when	idhā
+7	11:102:5	w	أَخَذَ	ﲁ	اخذ	He seizes	akhadha
+7	11:102:6	w	ٱلۡقُرَىٰ	ﲂ	القرى	the cities	l-qurā
+7	11:102:7	w	وَهِيَ	ﲃ	وهي	while they	wahiya
+7	11:102:8	w	ظَٰلِمَةٌۚ	ﲄﲅ	ظالمة	(are) doing wrong	ẓālimatun
+7	11:102:9	w	إِنَّ	ﲆ	ان	Indeed	inna
+7	11:102:10	w	أَخۡذَهُۥٓ	ﲇ	اخذه	His seizure	akhdhahu
+8	11:102:11	w	أَلِيمٞ	ﲈ	اليم	(is) painful	alīmun
+8	11:102:12	w	شَدِيدٌ	ﲉ	شديد	(and) severe	shadīdun
+8	11:102:13	e	١٠٢	ﲊ			
+8	11:103:1	w	إِنَّ	ﲋ	ان	Indeed	inna
+8	11:103:2	w	فِي	ﲌ	في	in	fī
+8	11:103:3	w	ذَٰلِكَ	ﲍ	ذالك	that	dhālika
+8	11:103:4	w	لَأٓيَةٗ	ﲎ	لاية	(is) surely a Sign	laāyatan
+8	11:103:5	w	لِّمَنۡ	ﲏ	لمن	for (those) who	liman
+8	11:103:6	w	خَافَ	ﲐ	خاف	fear	khāfa
+8	11:103:7	w	عَذَابَ	ﲑ	عذاب	(the) punishment	ʿadhāba
+8	11:103:8	w	ٱلۡأٓخِرَةِۚ	ﲒﲓ	الاخرة	(of) the Hereafter	l-ākhirati
+9	11:103:9	w	ذَٰلِكَ	ﲔ	ذالك	That	dhālika
+9	11:103:10	w	يَوۡمٞ	ﲕ	يوم	(is) a Day	yawmun
+9	11:103:11	w	مَّجۡمُوعٞ	ﲖ	مجموع	(will) be gathered	majmūʿun
+9	11:103:12	w	لَّهُ	ﲗ	له	on it	lahu
+9	11:103:13	w	ٱلنَّاسُ	ﲘ	الناس	the mankind	l-nāsu
+9	11:103:14	w	وَذَٰلِكَ	ﲙ	وذالك	and that	wadhālika
+9	11:103:15	w	يَوۡمٞ	ﲚ	يوم	(is) a Day	yawmun
+9	11:103:16	w	مَّشۡهُودٞ	ﲛ	مشهود	witnessed	mashhūdun
+9	11:103:17	e	١٠٣	ﲜ			
+10	11:104:1	w	وَمَا	ﲝ	وما	And not	wamā
+10	11:104:2	w	نُؤَخِّرُهُۥٓ	ﲞ	نوخره	We delay it	nu-akhiruhu
+10	11:104:3	w	إِلَّا	ﲟ	الا	except	illā
+10	11:104:4	w	لِأَجَلٖ	ﲠ	لاجل	for a term	li-ajalin
+10	11:104:5	w	مَّعۡدُودٖ	ﲡ	معدود	limited	maʿdūdin
+10	11:104:6	e	١٠٤	ﲢ			
+10	11:105:1	w	يَوۡمَ	ﲣ	يوم	(The) Day	yawma
+10	11:105:2	w	يَأۡتِ	ﲤ	يات	(it) comes	yati
+10	11:105:3	w	لَا	ﲥ	لا	not	lā
+10	11:105:4	w	تَكَلَّمُ	ﲦ	تكلم	will speak	takallamu
+10	11:105:5	w	نَفۡسٌ	ﲧ	نفس	a soul	nafsun
+11	11:105:6	w	إِلَّا	ﲨ	الا	except	illā
+11	11:105:7	w	بِإِذۡنِهِۦۚ	ﲩﲪ	باذنه	by His leave	bi-idh'nihi
+11	11:105:8	w	فَمِنۡهُمۡ	ﲫ	فمنهم	Then among them	famin'hum
+11	11:105:9	w	شَقِيّٞ	ﲬ	شقي	(will be the) wretched	shaqiyyun
+11	11:105:10	w	وَسَعِيدٞ	ﲭ	وسعيد	and (the) glad	wasaʿīdun
+11	11:105:11	e	١٠٥	ﲮ			
+11	11:106:1	w	فَأَمَّا	ﲯ	فاما	As for	fa-ammā
+11	11:106:2	w	ٱلَّذِينَ	ﲰ	الذين	those who	alladhīna
+11	11:106:3	w	شَقُواْ	ﲱ	شقوا	were wretched	shaqū
+11	11:106:4	w	فَفِي	ﲲ	ففي	then (they will be) in	fafī
+12	11:106:5	w	ٱلنَّارِ	ﲳ	النار	the Fire	l-nāri
+12	11:106:6	w	لَهُمۡ	ﲴ	لهم	For them	lahum
+12	11:106:7	w	فِيهَا	ﲵ	فيها	therein	fīhā
+12	11:106:8	w	زَفِيرٞ	ﲶ	زفير	(is) sighing	zafīrun
+12	11:106:9	w	وَشَهِيقٌ	ﲷ	وشهيق	and wailing	washahīqun
+12	11:106:10	e	١٠٦	ﲸ			
+12	11:107:1	w	خَٰلِدِينَ	ﲹ	خالدين	(Will be) abiding	khālidīna
+12	11:107:2	w	فِيهَا	ﲺ	فيها	therein	fīhā
+12	11:107:3	w	مَا	ﲻ	ما	as long as remain	mā
+12	11:107:4	w	دَامَتِ	ﲼ	دامت	as long as remain	dāmati
+12	11:107:5	w	ٱلسَّمَٰوَٰتُ	ﲽ	السماوات	the heavens	l-samāwātu
+13	11:107:6	w	وَٱلۡأَرۡضُ	ﲾ	والارض	and the earth	wal-arḍu
+13	11:107:7	w	إِلَّا	ﲿ	الا	except	illā
+13	11:107:8	w	مَا	ﳀ	ما	what your Lord wills	mā
+13	11:107:9	w	شَآءَ	ﳁ	شاء	what your Lord wills	shāa
+13	11:107:10	w	رَبُّكَۚ	ﳂﳃ	ربك	what your Lord wills	rabbuka
+13	11:107:11	w	إِنَّ	ﳄ	ان	Indeed	inna
+13	11:107:12	w	رَبَّكَ	ﳅ	ربك	your Lord	rabbaka
+13	11:107:13	w	فَعَّالٞ	ﳆ	فعال	(is) All-Accomplisher	faʿʿālun
+13	11:107:14	w	لِّمَا	ﳇ	لما	of what	limā
+13	11:107:15	w	يُرِيدُ	ﳈ	يريد	He intends	yurīdu
+13	11:107:16	e	١٠٧	ﳉ			
+14	11:108:1	w	۞ وَأَمَّا	ﳊ ﳋ	۞ واما	And as for	wa-ammā
+14	11:108:2	w	ٱلَّذِينَ	ﳌ	الذين	those who	alladhīna
+14	11:108:3	w	سُعِدُواْ	ﳍ	سعدوا	were glad	suʿidū
+14	11:108:4	w	فَفِي	ﳎ	ففي	then (they will be) in	fafī
+14	11:108:5	w	ٱلۡجَنَّةِ	ﳏ	الجنة	Paradise	l-janati
+14	11:108:6	w	خَٰلِدِينَ	ﳐ	خالدين	(will be) abiding	khālidīna
+14	11:108:7	w	فِيهَا	ﳑ	فيها	therein	fīhā
+14	11:108:8	w	مَا	ﳒ	ما	as long as remains	mā
+14	11:108:9	w	دَامَتِ	ﳓ	دامت	as long as remains	dāmati
+15	11:108:10	w	ٱلسَّمَٰوَٰتُ	ﳔ	السماوات	the heavens	l-samāwātu
+15	11:108:11	w	وَٱلۡأَرۡضُ	ﳕ	والارض	and the earth	wal-arḍu
+15	11:108:12	w	إِلَّا	ﳖ	الا	except	illā
+15	11:108:13	w	مَا	ﳗ	ما	what your Lord wills	mā
+15	11:108:14	w	شَآءَ	ﳘ	شاء	what your Lord wills	shāa
+15	11:108:15	w	رَبُّكَۖ	ﳙﳚ	ربك	what your Lord wills	rabbuka
+15	11:108:16	w	عَطَآءً	ﳛ	عطاء	a bestowal	ʿaṭāan
+15	11:108:17	w	غَيۡرَ	ﳜ	غير	not	ghayra
+15	11:108:18	w	مَجۡذُوذٖ	ﳝ	مجذوذ	interrupted	majdhūdhin
+15	11:108:19	e	١٠٨	ﳞ			

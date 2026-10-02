@@ -1,0 +1,143 @@
+1	46:29:1	w	وَإِذۡ	ﱁ	واذ	And when	wa-idh
+1	46:29:2	w	صَرَفۡنَآ	ﱂ	صرفنا	We directed	ṣarafnā
+1	46:29:3	w	إِلَيۡكَ	ﱃ	اليك	to you	ilayka
+1	46:29:4	w	نَفَرٗا	ﱄ	نفرا	a party	nafaran
+1	46:29:5	w	مِّنَ	ﱅ	من	of	mina
+1	46:29:6	w	ٱلۡجِنِّ	ﱆ	الجن	the jinn	l-jini
+1	46:29:7	w	يَسۡتَمِعُونَ	ﱇ	يستمعون	listening	yastamiʿūna
+1	46:29:8	w	ٱلۡقُرۡءَانَ	ﱈ	القران	(to) the Quran	l-qur'āna
+1	46:29:9	w	فَلَمَّا	ﱉ	فلما	And when	falammā
+2	46:29:10	w	حَضَرُوهُ	ﱊ	حضروه	they attended it	ḥaḍarūhu
+2	46:29:11	w	قَالُوٓاْ	ﱋ	قالوا	they said	qālū
+2	46:29:12	w	أَنصِتُواْۖ	ﱌﱍ	انصتوا	Listen quietly	anṣitū
+2	46:29:13	w	فَلَمَّا	ﱎ	فلما	And when	falammā
+2	46:29:14	w	قُضِيَ	ﱏ	قضي	it was concluded	quḍiya
+2	46:29:15	w	وَلَّوۡاْ	ﱐ	ولوا	they turned back	wallaw
+2	46:29:16	w	إِلَىٰ	ﱑ	الى	to	ilā
+2	46:29:17	w	قَوۡمِهِم	ﱒ	قومهم	their people	qawmihim
+2	46:29:18	w	مُّنذِرِينَ	ﱓ	منذرين	(as) warners	mundhirīna
+3	46:29:19	e	٢٩	ﱔ			
+3	46:30:1	w	قَالُواْ	ﱕ	قالوا	They said	qālū
+3	46:30:2	w	يَٰقَوۡمَنَآ	ﱖ	يا قومنا	O our people	yāqawmanā
+3	46:30:3	w	إِنَّا	ﱗ	انا	Indeed, we	innā
+3	46:30:4	w	سَمِعۡنَا	ﱘ	سمعنا	[we] have heard	samiʿ'nā
+3	46:30:5	w	كِتَٰبًا	ﱙ	كتابا	a Book	kitāban
+3	46:30:6	w	أُنزِلَ	ﱚ	انزل	revealed	unzila
+3	46:30:7	w	مِنۢ	ﱛ	من	after	min
+3	46:30:8	w	بَعۡدِ	ﱜ	بعد	after	baʿdi
+3	46:30:9	w	مُوسَىٰ	ﱝ	موسى	Musa	mūsā
+4	46:30:10	w	مُصَدِّقٗا	ﱞ	مصدقا	confirming	muṣaddiqan
+4	46:30:11	w	لِّمَا	ﱟ	لما	what	limā
+4	46:30:12	w	بَيۡنَ	ﱠ	بين	(was) before it	bayna
+4	46:30:13	w	يَدَيۡهِ	ﱡ	يديه	(was) before it	yadayhi
+4	46:30:14	w	يَهۡدِيٓ	ﱢ	يهدي	guiding	yahdī
+4	46:30:15	w	إِلَى	ﱣ	الى	to	ilā
+4	46:30:16	w	ٱلۡحَقِّ	ﱤ	الحق	the truth	l-ḥaqi
+4	46:30:17	w	وَإِلَىٰ	ﱥ	والى	and to	wa-ilā
+4	46:30:18	w	طَرِيقٖ	ﱦ	طريق	a Path	ṭarīqin
+4	46:30:19	w	مُّسۡتَقِيمٖ	ﱧ	مستقيم	Straight	mus'taqīmin
+5	46:30:20	e	٣٠	ﱨ			
+5	46:31:1	w	يَٰقَوۡمَنَآ	ﱩ	يا قومنا	O our people	yāqawmanā
+5	46:31:2	w	أَجِيبُواْ	ﱪ	اجيبوا	Respond	ajībū
+5	46:31:3	w	دَاعِيَ	ﱫ	داعي	(to the) caller	dāʿiya
+5	46:31:4	w	ٱللَّهِ	ﱬ	الله	(of) Allah	l-lahi
+5	46:31:5	w	وَءَامِنُواْ	ﱭ	وامنوا	and believe	waāminū
+5	46:31:6	w	بِهِۦ	ﱮ	به	in him	bihi
+5	46:31:7	w	يَغۡفِرۡ	ﱯ	يغفر	He will forgive	yaghfir
+5	46:31:8	w	لَكُم	ﱰ	لكم	for you	lakum
+5	46:31:9	w	مِّن	ﱱ	من	of	min
+6	46:31:10	w	ذُنُوبِكُمۡ	ﱲ	ذنوبكم	your sins	dhunūbikum
+6	46:31:11	w	وَيُجِرۡكُم	ﱳ	ويجركم	and will protect you	wayujir'kum
+6	46:31:12	w	مِّنۡ	ﱴ	من	from	min
+6	46:31:13	w	عَذَابٍ	ﱵ	عذاب	a punishment	ʿadhābin
+6	46:31:14	w	أَلِيمٖ	ﱶ	اليم	painful	alīmin
+6	46:31:15	e	٣١	ﱷ			
+6	46:32:1	w	وَمَن	ﱸ	ومن	And whoever	waman
+6	46:32:2	w	لَّا	ﱹ	لا	(does) not	lā
+6	46:32:3	w	يُجِبۡ	ﱺ	يجب	respond	yujib
+6	46:32:4	w	دَاعِيَ	ﱻ	داعي	(to the) caller	dāʿiya
+6	46:32:5	w	ٱللَّهِ	ﱼ	الله	(of) Allah	l-lahi
+7	46:32:6	w	فَلَيۡسَ	ﱽ	فليس	then not	falaysa
+7	46:32:7	w	بِمُعۡجِزٖ	ﱾ	بمعجز	he can escape	bimuʿ'jizin
+7	46:32:8	w	فِي	ﱿ	في	in	fī
+7	46:32:9	w	ٱلۡأَرۡضِ	ﲀ	الارض	the earth	l-arḍi
+7	46:32:10	w	وَلَيۡسَ	ﲁ	وليس	and not	walaysa
+7	46:32:11	w	لَهُۥ	ﲂ	له	for him	lahu
+7	46:32:12	w	مِن	ﲃ	من	besides Him	min
+7	46:32:13	w	دُونِهِۦٓ	ﲄ	دونه	besides Him	dūnihi
+7	46:32:14	w	أَوۡلِيَآءُۚ	ﲅﲆ	اولياء	protectors	awliyāu
+7	46:32:15	w	أُوْلَٰٓئِكَ	ﲇ	اولايك	Those	ulāika
+8	46:32:16	w	فِي	ﲈ	في	(are) in	fī
+8	46:32:17	w	ضَلَٰلٖ	ﲉ	ضلال	error	ḍalālin
+8	46:32:18	w	مُّبِينٍ	ﲊ	مبين	clear	mubīnin
+8	46:32:19	e	٣٢	ﲋ			
+8	46:33:1	w	أَوَلَمۡ	ﲌ	اولم	Do not	awalam
+8	46:33:2	w	يَرَوۡاْ	ﲍ	يروا	they see	yaraw
+8	46:33:3	w	أَنَّ	ﲎ	ان	that	anna
+8	46:33:4	w	ٱللَّهَ	ﲏ	الله	Allah	l-laha
+8	46:33:5	w	ٱلَّذِي	ﲐ	الذي	(is) the One Who	alladhī
+8	46:33:6	w	خَلَقَ	ﲑ	خلق	created	khalaqa
+8	46:33:7	w	ٱلسَّمَٰوَٰتِ	ﲒ	السماوات	the heavens	l-samāwāti
+9	46:33:8	w	وَٱلۡأَرۡضَ	ﲓ	والارض	and the earth	wal-arḍa
+9	46:33:9	w	وَلَمۡ	ﲔ	ولم	and (was) not	walam
+9	46:33:10	w	يَعۡيَ	ﲕ	يعي	tired	yaʿya
+9	46:33:11	w	بِخَلۡقِهِنَّ	ﲖ	بخلقهن	by their creation	bikhalqihinna
+9	46:33:12	w	بِقَٰدِرٍ	ﲗ	بقادر	(is) able	biqādirin
+9	46:33:13	w	عَلَىٰٓ	ﲘ	على	to give life	ʿalā
+9	46:33:14	w	أَن	ﲙ	ان	to give life	an
+9	46:33:15	w	يُحۡـِۧيَ	ﲚ	يحيي	to give life	yuḥ'yiya
+9	46:33:16	w	ٱلۡمَوۡتَىٰۚ	ﲛﲜ	الموتى	(to) the dead	l-mawtā
+9	46:33:17	w	بَلَىٰٓۚ	ﲝﲞ	بلى	Yes	balā
+10	46:33:18	w	إِنَّهُۥ	ﲟ	انه	indeed He	innahu
+10	46:33:19	w	عَلَىٰ	ﲠ	على	(is) on	ʿalā
+10	46:33:20	w	كُلِّ	ﲡ	كل	every	kulli
+10	46:33:21	w	شَيۡءٖ	ﲢ	شيء	thing	shayin
+10	46:33:22	w	قَدِيرٞ	ﲣ	قدير	All-Powerful	qadīrun
+10	46:33:23	e	٣٣	ﲤ			
+10	46:34:1	w	وَيَوۡمَ	ﲥ	ويوم	And (the) Day	wayawma
+10	46:34:2	w	يُعۡرَضُ	ﲦ	يعرض	are exposed	yuʿ'raḍu
+10	46:34:3	w	ٱلَّذِينَ	ﲧ	الذين	those who	alladhīna
+10	46:34:4	w	كَفَرُواْ	ﲨ	كفروا	disbelieved	kafarū
+10	46:34:5	w	عَلَى	ﲩ	على	to	ʿalā
+10	46:34:6	w	ٱلنَّارِ	ﲪ	النار	the Fire	l-nāri
+11	46:34:7	w	أَلَيۡسَ	ﲫ	اليس	Is not	alaysa
+11	46:34:8	w	هَٰذَا	ﲬ	هاذا	this	hādhā
+11	46:34:9	w	بِٱلۡحَقِّۖ	ﲭﲮ	بالحق	the truth	bil-ḥaqi
+11	46:34:10	w	قَالُواْ	ﲯ	قالوا	They will say	qālū
+11	46:34:11	w	بَلَىٰ	ﲰ	بلى	Yes	balā
+11	46:34:12	w	وَرَبِّنَاۚ	ﲱﲲ	وربنا	by our Lord	warabbinā
+11	46:34:13	w	قَالَ	ﲳ	قال	He will say	qāla
+11	46:34:14	w	فَذُوقُواْ	ﲴ	فذوقوا	Then taste	fadhūqū
+11	46:34:15	w	ٱلۡعَذَابَ	ﲵ	العذاب	the punishment	l-ʿadhāba
+11	46:34:16	w	بِمَا	ﲶ	بما	because	bimā
+12	46:34:17	w	كُنتُمۡ	ﲷ	كنتم	you used to	kuntum
+12	46:34:18	w	تَكۡفُرُونَ	ﲸ	تكفرون	disbelieve	takfurūna
+12	46:34:19	e	٣٤	ﲹ			
+12	46:35:1	w	فَٱصۡبِرۡ	ﲺ	فاصبر	So be patient	fa-iṣ'bir
+12	46:35:2	w	كَمَا	ﲻ	كما	as	kamā
+12	46:35:3	w	صَبَرَ	ﲼ	صبر	had patience	ṣabara
+12	46:35:4	w	أُوْلُواْ	ﲽ	اولو	those of determination	ulū
+12	46:35:5	w	ٱلۡعَزۡمِ	ﲾ	العزم	those of determination	l-ʿazmi
+12	46:35:6	w	مِنَ	ﲿ	من	of	mina
+12	46:35:7	w	ٱلرُّسُلِ	ﳀ	الرسل	the Messengers	l-rusuli
+13	46:35:8	w	وَلَا	ﳁ	ولا	and (do) not	walā
+13	46:35:9	w	تَسۡتَعۡجِل	ﳂ	تستعجل	seek to hasten	tastaʿjil
+13	46:35:10	w	لَّهُمۡۚ	ﳃﳄ	لهم	for them	lahum
+13	46:35:11	w	كَأَنَّهُمۡ	ﳅ	كانهم	As if they had	ka-annahum
+13	46:35:12	w	يَوۡمَ	ﳆ	يوم	(the) Day	yawma
+13	46:35:13	w	يَرَوۡنَ	ﳇ	يرون	they see	yarawna
+13	46:35:14	w	مَا	ﳈ	ما	what	mā
+13	46:35:15	w	يُوعَدُونَ	ﳉ	يوعدون	they were promised	yūʿadūna
+13	46:35:16	w	لَمۡ	ﳊ	لم	not	lam
+13	46:35:17	w	يَلۡبَثُوٓاْ	ﳋ	يلبثوا	remained	yalbathū
+13	46:35:18	w	إِلَّا	ﳌ	الا	except	illā
+14	46:35:19	w	سَاعَةٗ	ﳍ	ساعة	an hour	sāʿatan
+14	46:35:20	w	مِّن	ﳎ	من	of	min
+14	46:35:21	w	نَّهَارِۭۚ	ﳏﳐ	نهار	a day	nahārin
+14	46:35:22	w	بَلَٰغٞۚ	ﳑﳒ	بلاغ	A notification	balāghun
+14	46:35:23	w	فَهَلۡ	ﳓ	فهل	But will	fahal
+14	46:35:24	w	يُهۡلَكُ	ﳔ	يهلك	(any) be destroyed	yuh'laku
+14	46:35:25	w	إِلَّا	ﳕ	الا	except	illā
+14	46:35:26	w	ٱلۡقَوۡمُ	ﳖ	القوم	the people	l-qawmu
+14	46:35:27	w	ٱلۡفَٰسِقُونَ	ﳗ	الفاسقون	the defiantly disobedient	l-fāsiqūna
+14	46:35:28	e	٣٥	ﳘ			

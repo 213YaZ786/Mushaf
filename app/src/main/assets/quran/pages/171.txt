@@ -1,0 +1,111 @@
+1	7:160:1	w	وَقَطَّعۡنَٰهُمُ	ﱁ	وقطعناهم	And We divided them	waqaṭṭaʿnāhumu
+1	7:160:2	w	ٱثۡنَتَيۡ	ﱂ	اثنتي	(into) two	ith'natay
+1	7:160:3	w	عَشۡرَةَ	ﱃ	عشرة	(and) ten [i.e. twelve]	ʿashrata
+1	7:160:4	w	أَسۡبَاطًا	ﱄ	اسباطا	tribes	asbāṭan
+1	7:160:5	w	أُمَمٗاۚ	ﱅﱆ	امما	(as) communities	umaman
+1	7:160:6	w	وَأَوۡحَيۡنَآ	ﱇ	واوحينا	And We inspired	wa-awḥaynā
+1	7:160:7	w	إِلَىٰ	ﱈ	الى	to	ilā
+2	7:160:8	w	مُوسَىٰٓ	ﱉ	موسى	Musa	mūsā
+2	7:160:9	w	إِذِ	ﱊ	اذ	when	idhi
+2	7:160:10	w	ٱسۡتَسۡقَىٰهُ	ﱋ	استسقاه	asked him for water	is'tasqāhu
+2	7:160:11	w	قَوۡمُهُۥٓ	ﱌ	قومه	his people	qawmuhu
+2	7:160:12	w	أَنِ	ﱍ	ان	[that]	ani
+2	7:160:13	w	ٱضۡرِب	ﱎ	اضرب	Strike	iḍ'rib
+2	7:160:14	w	بِّعَصَاكَ	ﱏ	بعصاك	with your staff	biʿaṣāka
+2	7:160:15	w	ٱلۡحَجَرَۖ	ﱐﱑ	الحجر	the stone	l-ḥajara
+3	7:160:16	w	فَٱنۢبَجَسَتۡ	ﱒ	فانبجست	Then gushed forth	fa-inbajasat
+3	7:160:17	w	مِنۡهُ	ﱓ	منه	from it	min'hu
+3	7:160:18	w	ٱثۡنَتَا	ﱔ	اثنتا	two	ith'natā
+3	7:160:19	w	عَشۡرَةَ	ﱕ	عشرة	(and) ten [i.e. twelve]	ʿashrata
+3	7:160:20	w	عَيۡنٗاۖ	ﱖﱗ	عينا	springs	ʿaynan
+3	7:160:21	w	قَدۡ	ﱘ	قد	Certainly	qad
+3	7:160:22	w	عَلِمَ	ﱙ	علم	knew	ʿalima
+3	7:160:23	w	كُلُّ	ﱚ	كل	each	kullu
+3	7:160:24	w	أُنَاسٖ	ﱛ	اناس	people	unāsin
+4	7:160:25	w	مَّشۡرَبَهُمۡۚ	ﱜﱝ	مشربهم	their drinking place	mashrabahum
+4	7:160:26	w	وَظَلَّلۡنَا	ﱞ	وظللنا	And We shaded	waẓallalnā
+4	7:160:27	w	عَلَيۡهِمُ	ﱟ	عليهم	[on] them	ʿalayhimu
+4	7:160:28	w	ٱلۡغَمَٰمَ	ﱠ	الغمام	(with) the clouds	l-ghamāma
+4	7:160:29	w	وَأَنزَلۡنَا	ﱡ	وانزلنا	and We sent down	wa-anzalnā
+4	7:160:30	w	عَلَيۡهِمُ	ﱢ	عليهم	upon them	ʿalayhimu
+5	7:160:31	w	ٱلۡمَنَّ	ﱣ	المن	the manna	l-mana
+5	7:160:32	w	وَٱلسَّلۡوَىٰۖ	ﱤﱥ	والسلوى	and the quails	wal-salwā
+5	7:160:33	w	كُلُواْ	ﱦ	كلوا	Eat	kulū
+5	7:160:34	w	مِن	ﱧ	من	from	min
+5	7:160:35	w	طَيِّبَٰتِ	ﱨ	طيبات	(the) good things	ṭayyibāti
+5	7:160:36	w	مَا	ﱩ	ما	which	mā
+5	7:160:37	w	رَزَقۡنَٰكُمۡۚ	ﱪﱫ	رزقناكم	We have provided you	razaqnākum
+5	7:160:38	w	وَمَا	ﱬ	وما	And not	wamā
+6	7:160:39	w	ظَلَمُونَا	ﱭ	ظلمونا	they wronged Us	ẓalamūnā
+6	7:160:40	w	وَلَٰكِن	ﱮ	ولاكن	but	walākin
+6	7:160:41	w	كَانُوٓاْ	ﱯ	كانوا	they were	kānū
+6	7:160:42	w	أَنفُسَهُمۡ	ﱰ	انفسهم	(to) themselves	anfusahum
+6	7:160:43	w	يَظۡلِمُونَ	ﱱ	يظلمون	doing wrong	yaẓlimūna
+6	7:160:44	e	١٦٠	ﱲ			
+7	7:161:1	w	وَإِذۡ	ﱳ	واذ	And when	wa-idh
+7	7:161:2	w	قِيلَ	ﱴ	قيل	it was said	qīla
+7	7:161:3	w	لَهُمُ	ﱵ	لهم	to them	lahumu
+7	7:161:4	w	ٱسۡكُنُواْ	ﱶ	اسكنوا	Live	us'kunū
+7	7:161:5	w	هَٰذِهِ	ﱷ	هاذه	(in) this	hādhihi
+7	7:161:6	w	ٱلۡقَرۡيَةَ	ﱸ	القرية	city	l-qaryata
+7	7:161:7	w	وَكُلُواْ	ﱹ	وكلوا	and eat	wakulū
+7	7:161:8	w	مِنۡهَا	ﱺ	منها	from it	min'hā
+8	7:161:9	w	حَيۡثُ	ﱻ	حيث	wherever	ḥaythu
+8	7:161:10	w	شِئۡتُمۡ	ﱼ	شيتم	you wish	shi'tum
+8	7:161:11	w	وَقُولُواْ	ﱽ	وقولوا	and say	waqūlū
+8	7:161:12	w	حِطَّةٞ	ﱾ	حطة	Repentance	ḥiṭṭatun
+8	7:161:13	w	وَٱدۡخُلُواْ	ﱿ	وادخلوا	and enter	wa-ud'khulū
+8	7:161:14	w	ٱلۡبَابَ	ﲀ	الباب	the gate	l-bāba
+8	7:161:15	w	سُجَّدٗا	ﲁ	سجدا	prostrating	sujjadan
+9	7:161:16	w	نَّغۡفِرۡ	ﲂ	نغفر	We will forgive	naghfir
+9	7:161:17	w	لَكُمۡ	ﲃ	لكم	for you	lakum
+9	7:161:18	w	خَطِيٓـَٰٔتِكُمۡۚ	ﲄﲅ	خطيياتكم	your sins	khaṭīātikum
+9	7:161:19	w	سَنَزِيدُ	ﲆ	سنزيد	We will increase (reward)	sanazīdu
+9	7:161:20	w	ٱلۡمُحۡسِنِينَ	ﲇ	المحسنين	(of) the good-doers	l-muḥ'sinīna
+10	7:161:21	e	١٦١	ﲈ			
+10	7:162:1	w	فَبَدَّلَ	ﲉ	فبدل	But changed	fabaddala
+10	7:162:2	w	ٱلَّذِينَ	ﲊ	الذين	those who	alladhīna
+10	7:162:3	w	ظَلَمُواْ	ﲋ	ظلموا	wronged	ẓalamū
+10	7:162:4	w	مِنۡهُمۡ	ﲌ	منهم	among them	min'hum
+10	7:162:5	w	قَوۡلًا	ﲍ	قولا	word	qawlan
+10	7:162:6	w	غَيۡرَ	ﲎ	غير	other than	ghayra
+10	7:162:7	w	ٱلَّذِي	ﲏ	الذي	(that) which	alladhī
+10	7:162:8	w	قِيلَ	ﲐ	قيل	was said	qīla
+11	7:162:9	w	لَهُمۡ	ﲑ	لهم	to them	lahum
+11	7:162:10	w	فَأَرۡسَلۡنَا	ﲒ	فارسلنا	So We sent	fa-arsalnā
+11	7:162:11	w	عَلَيۡهِمۡ	ﲓ	عليهم	upon them	ʿalayhim
+11	7:162:12	w	رِجۡزٗا	ﲔ	رجزا	torment	rij'zan
+11	7:162:13	w	مِّنَ	ﲕ	من	from	mina
+11	7:162:14	w	ٱلسَّمَآءِ	ﲖ	السماء	the sky	l-samāi
+11	7:162:15	w	بِمَا	ﲗ	بما	because	bimā
+11	7:162:16	w	كَانُواْ	ﲘ	كانوا	they were	kānū
+12	7:162:17	w	يَظۡلِمُونَ	ﲙ	يظلمون	doing wrong	yaẓlimūna
+12	7:162:18	e	١٦٢	ﲚ			
+12	7:163:1	w	وَسۡـَٔلۡهُمۡ	ﲛ	واسالهم	And ask them	wasalhum
+12	7:163:2	w	عَنِ	ﲜ	عن	about	ʿani
+12	7:163:3	w	ٱلۡقَرۡيَةِ	ﲝ	القرية	the town	l-qaryati
+12	7:163:4	w	ٱلَّتِي	ﲞ	التي	which	allatī
+12	7:163:5	w	كَانَتۡ	ﲟ	كانت	was	kānat
+13	7:163:6	w	حَاضِرَةَ	ﲠ	حاضرة	situated	ḥāḍirata
+13	7:163:7	w	ٱلۡبَحۡرِ	ﲡ	البحر	(by) the sea	l-baḥri
+13	7:163:8	w	إِذۡ	ﲢ	اذ	when	idh
+13	7:163:9	w	يَعۡدُونَ	ﲣ	يعدون	they transgressed	yaʿdūna
+13	7:163:10	w	فِي	ﲤ	في	in	fī
+13	7:163:11	w	ٱلسَّبۡتِ	ﲥ	السبت	the (matter of) Sabbath	l-sabti
+13	7:163:12	w	إِذۡ	ﲦ	اذ	when	idh
+13	7:163:13	w	تَأۡتِيهِمۡ	ﲧ	تاتيهم	came to them	tatīhim
+14	7:163:14	w	حِيتَانُهُمۡ	ﲨ	حيتانهم	their fish	ḥītānuhum
+14	7:163:15	w	يَوۡمَ	ﲩ	يوم	(on the) day	yawma
+14	7:163:16	w	سَبۡتِهِمۡ	ﲪ	سبتهم	(of) their Sabbath	sabtihim
+14	7:163:17	w	شُرَّعٗا	ﲫ	شرعا	visibly	shurraʿan
+14	7:163:18	w	وَيَوۡمَ	ﲬ	ويوم	and (on the) day	wayawma
+14	7:163:19	w	لَا	ﲭ	لا	not	lā
+14	7:163:20	w	يَسۡبِتُونَ	ﲮ	يسبتون	they had Sabbath	yasbitūna
+14	7:163:21	w	لَا	ﲯ	لا	(they did) not	lā
+14	7:163:22	w	تَأۡتِيهِمۡۚ	ﲰﲱ	تاتيهم	come to them	tatīhim
+15	7:163:23	w	كَذَٰلِكَ	ﲲ	كذالك	Thus	kadhālika
+15	7:163:24	w	نَبۡلُوهُم	ﲳ	نبلوهم	We test them	nablūhum
+15	7:163:25	w	بِمَا	ﲴ	بما	because	bimā
+15	7:163:26	w	كَانُواْ	ﲵ	كانوا	they were	kānū
+15	7:163:27	w	يَفۡسُقُونَ	ﲶ	يفسقون	defiantly disobeying	yafsuqūna
+15	7:163:28	e	١٦٣	ﲷ			

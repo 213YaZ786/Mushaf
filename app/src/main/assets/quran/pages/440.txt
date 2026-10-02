@@ -1,0 +1,121 @@
+1	35:45:1	w	وَلَوۡ	ﱁ	ولو	And if	walaw
+1	35:45:2	w	يُؤَاخِذُ	ﱂ	يواخذ	Allah (were to) punish	yuākhidhu
+1	35:45:3	w	ٱللَّهُ	ﱃ	الله	Allah (were to) punish	l-lahu
+1	35:45:4	w	ٱلنَّاسَ	ﱄ	الناس	the people	l-nāsa
+1	35:45:5	w	بِمَا	ﱅ	بما	for what	bimā
+1	35:45:6	w	كَسَبُواْ	ﱆ	كسبوا	they have earned	kasabū
+1	35:45:7	w	مَا	ﱇ	ما	not	mā
+1	35:45:8	w	تَرَكَ	ﱈ	ترك	He would leave	taraka
+1	35:45:9	w	عَلَىٰ	ﱉ	على	on	ʿalā
+1	35:45:10	w	ظَهۡرِهَا	ﱊ	ظهرها	its back	ẓahrihā
+2	35:45:11	w	مِن	ﱋ	من	any	min
+2	35:45:12	w	دَآبَّةٖ	ﱌ	دابة	creature	dābbatin
+2	35:45:13	w	وَلَٰكِن	ﱍ	ولاكن	But	walākin
+2	35:45:14	w	يُؤَخِّرُهُمۡ	ﱎ	يوخرهم	He gives them respite	yu-akhiruhum
+2	35:45:15	w	إِلَىٰٓ	ﱏ	الى	till	ilā
+2	35:45:16	w	أَجَلٖ	ﱐ	اجل	a term	ajalin
+2	35:45:17	w	مُّسَمّٗىۖ	ﱑﱒ	مسمى	appointed	musamman
+2	35:45:18	w	فَإِذَا	ﱓ	فاذا	And when	fa-idhā
+3	35:45:19	w	جَآءَ	ﱔ	جاء	comes	jāa
+3	35:45:20	w	أَجَلُهُمۡ	ﱕ	اجلهم	their term	ajaluhum
+3	35:45:21	w	فَإِنَّ	ﱖ	فان	then indeed	fa-inna
+3	35:45:22	w	ٱللَّهَ	ﱗ	الله	Allah	l-laha
+3	35:45:23	w	كَانَ	ﱘ	كان	is	kāna
+3	35:45:24	w	بِعِبَادِهِۦ	ﱙ	بعباده	of His slaves	biʿibādihi
+3	35:45:25	w	بَصِيرَۢا	ﱚ	بصيرا	All-Seer	baṣīran
+3	35:45:26	e	٤٥	ﱛ			
+6	36:1:1	w	يسٓ	ﱜ	يس	Ya Seen	ya-seen
+6	36:1:2	e	١	ﱝ			
+6	36:2:1	w	وَٱلۡقُرۡءَانِ	ﱞ	والقران	By the Quran	wal-qur'āni
+6	36:2:2	w	ٱلۡحَكِيمِ	ﱟ	الحكيم	the Wise	l-ḥakīmi
+6	36:2:3	e	٢	ﱠ			
+6	36:3:1	w	إِنَّكَ	ﱡ	انك	Indeed, you	innaka
+6	36:3:2	w	لَمِنَ	ﱢ	لمن	(are) among	lamina
+6	36:3:3	w	ٱلۡمُرۡسَلِينَ	ﱣ	المرسلين	the Messengers	l-mur'salīna
+6	36:3:4	e	٣	ﱤ			
+6	36:4:1	w	عَلَىٰ	ﱥ	على	On	ʿalā
+7	36:4:2	w	صِرَٰطٖ	ﱦ	صراط	a Path	ṣirāṭin
+7	36:4:3	w	مُّسۡتَقِيمٖ	ﱧ	مستقيم	Straight	mus'taqīmin
+7	36:4:4	e	٤	ﱨ			
+7	36:5:1	w	تَنزِيلَ	ﱩ	تنزيل	A revelation	tanzīla
+7	36:5:2	w	ٱلۡعَزِيزِ	ﱪ	العزيز	(of) the All-Mighty	l-ʿazīzi
+7	36:5:3	w	ٱلرَّحِيمِ	ﱫ	الرحيم	the Most Merciful	l-raḥīmi
+7	36:5:4	e	٥	ﱬ			
+7	36:6:1	w	لِتُنذِرَ	ﱭ	لتنذر	That you may warn	litundhira
+7	36:6:2	w	قَوۡمٗا	ﱮ	قوما	a people	qawman
+8	36:6:3	w	مَّآ	ﱯ	ما	not	mā
+8	36:6:4	w	أُنذِرَ	ﱰ	انذر	were warned	undhira
+8	36:6:5	w	ءَابَآؤُهُمۡ	ﱱ	اباوهم	their forefathers	ābāuhum
+8	36:6:6	w	فَهُمۡ	ﱲ	فهم	so they	fahum
+8	36:6:7	w	غَٰفِلُونَ	ﱳ	غافلون	(are) heedless	ghāfilūna
+8	36:6:8	e	٦	ﱴ			
+8	36:7:1	w	لَقَدۡ	ﱵ	لقد	Certainly	laqad
+8	36:7:2	w	حَقَّ	ﱶ	حق	(has) proved true	ḥaqqa
+8	36:7:3	w	ٱلۡقَوۡلُ	ﱷ	القول	the word	l-qawlu
+8	36:7:4	w	عَلَىٰٓ	ﱸ	على	upon	ʿalā
+8	36:7:5	w	أَكۡثَرِهِمۡ	ﱹ	اكثرهم	most of them	aktharihim
+9	36:7:6	w	فَهُمۡ	ﱺ	فهم	so they	fahum
+9	36:7:7	w	لَا	ﱻ	لا	(do) not	lā
+9	36:7:8	w	يُؤۡمِنُونَ	ﱼ	يومنون	believe	yu'minūna
+9	36:7:9	e	٧	ﱽ			
+9	36:8:1	w	إِنَّا	ﱾ	انا	Indeed, We	innā
+9	36:8:2	w	جَعَلۡنَا	ﱿ	جعلنا	[We] have placed	jaʿalnā
+9	36:8:3	w	فِيٓ	ﲀ	في	on	fī
+9	36:8:4	w	أَعۡنَٰقِهِمۡ	ﲁ	اعناقهم	their necks	aʿnāqihim
+9	36:8:5	w	أَغۡلَٰلٗا	ﲂ	اغلالا	iron collars	aghlālan
+9	36:8:6	w	فَهِيَ	ﲃ	فهي	and they	fahiya
+9	36:8:7	w	إِلَى	ﲄ	الى	(are up) to	ilā
+10	36:8:8	w	ٱلۡأَذۡقَانِ	ﲅ	الاذقان	the chins	l-adhqāni
+10	36:8:9	w	فَهُم	ﲆ	فهم	so they	fahum
+10	36:8:10	w	مُّقۡمَحُونَ	ﲇ	مقمحون	(are with) heads raised up	muq'maḥūna
+10	36:8:11	e	٨	ﲈ			
+10	36:9:1	w	وَجَعَلۡنَا	ﲉ	وجعلنا	And We have made	wajaʿalnā
+10	36:9:2	w	مِنۢ	ﲊ	من	from	min
+10	36:9:3	w	بَيۡنِ	ﲋ	بين	before/between	bayni
+10	36:9:4	w	أَيۡدِيهِمۡ	ﲌ	ايديهم	their hands/their front	aydīhim
+10	36:9:5	w	سَدّٗا	ﲍ	سدا	a barrier	saddan
+11	36:9:6	w	وَمِنۡ	ﲎ	ومن	and from	wamin
+11	36:9:7	w	خَلۡفِهِمۡ	ﲏ	خلفهم	behind them	khalfihim
+11	36:9:8	w	سَدّٗا	ﲐ	سدا	a barrier	saddan
+11	36:9:9	w	فَأَغۡشَيۡنَٰهُمۡ	ﲑ	فاغشيناهم	and We covered them	fa-aghshaynāhum
+11	36:9:10	w	فَهُمۡ	ﲒ	فهم	so they	fahum
+11	36:9:11	w	لَا	ﲓ	لا	(do) not	lā
+11	36:9:12	w	يُبۡصِرُونَ	ﲔ	يبصرون	see	yub'ṣirūna
+11	36:9:13	e	٩	ﲕ			
+11	36:10:1	w	وَسَوَآءٌ	ﲖ	وسواء	And it (is) same	wasawāon
+12	36:10:2	w	عَلَيۡهِمۡ	ﲗ	عليهم	to them	ʿalayhim
+12	36:10:3	w	ءَأَنذَرۡتَهُمۡ	ﲘ	اانذرتهم	whether you warn them	a-andhartahum
+12	36:10:4	w	أَمۡ	ﲙ	ام	or	am
+12	36:10:5	w	لَمۡ	ﲚ	لم	(do) not	lam
+12	36:10:6	w	تُنذِرۡهُمۡ	ﲛ	تنذرهم	warn them	tundhir'hum
+12	36:10:7	w	لَا	ﲜ	لا	not	lā
+12	36:10:8	w	يُؤۡمِنُونَ	ﲝ	يومنون	they will believe	yu'minūna
+12	36:10:9	e	١٠	ﲞ			
+12	36:11:1	w	إِنَّمَا	ﲟ	انما	Only	innamā
+12	36:11:2	w	تُنذِرُ	ﲠ	تنذر	you (can) warn	tundhiru
+13	36:11:3	w	مَنِ	ﲡ	من	(him) who	mani
+13	36:11:4	w	ٱتَّبَعَ	ﲢ	اتبع	follows	ittabaʿa
+13	36:11:5	w	ٱلذِّكۡرَ	ﲣ	الذكر	the Reminder	l-dhik'ra
+13	36:11:6	w	وَخَشِيَ	ﲤ	وخشي	and fears	wakhashiya
+13	36:11:7	w	ٱلرَّحۡمَٰنَ	ﲥ	الرحمان	the Most Gracious	l-raḥmāna
+13	36:11:8	w	بِٱلۡغَيۡبِۖ	ﲦﲧ	بالغيب	in the unseen	bil-ghaybi
+13	36:11:9	w	فَبَشِّرۡهُ	ﲨ	فبشره	So give him glad tidings	fabashir'hu
+13	36:11:10	w	بِمَغۡفِرَةٖ	ﲩ	بمغفرة	of forgiveness	bimaghfiratin
+14	36:11:11	w	وَأَجۡرٖ	ﲪ	واجر	and a reward	wa-ajrin
+14	36:11:12	w	كَرِيمٍ	ﲫ	كريم	noble	karīmin
+14	36:11:13	e	١١	ﲬ			
+14	36:12:1	w	إِنَّا	ﲭ	انا	Indeed, We	innā
+14	36:12:2	w	نَحۡنُ	ﲮ	نحن	[We]	naḥnu
+14	36:12:3	w	نُحۡيِ	ﲯ	نحيي	[We] give life	nuḥ'yī
+14	36:12:4	w	ٱلۡمَوۡتَىٰ	ﲰ	الموتى	(to) the dead	l-mawtā
+14	36:12:5	w	وَنَكۡتُبُ	ﲱ	ونكتب	and We record	wanaktubu
+14	36:12:6	w	مَا	ﲲ	ما	what	mā
+14	36:12:7	w	قَدَّمُواْ	ﲳ	قدموا	they have sent before	qaddamū
+15	36:12:8	w	وَءَاثَٰرَهُمۡۚ	ﲴﲵ	واثارهم	and their footprints	waāthārahum
+15	36:12:9	w	وَكُلَّ	ﲶ	وكل	and every	wakulla
+15	36:12:10	w	شَيۡءٍ	ﲷ	شيء	thing	shayin
+15	36:12:11	w	أَحۡصَيۡنَٰهُ	ﲸ	احصيناه	We have enumerated it	aḥṣaynāhu
+15	36:12:12	w	فِيٓ	ﲹ	في	in	fī
+15	36:12:13	w	إِمَامٖ	ﲺ	امام	a Register	imāmin
+15	36:12:14	w	مُّبِينٖ	ﲻ	مبين	clear	mubīnin
+15	36:12:15	e	١٢	ﲼ			

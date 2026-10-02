@@ -1,0 +1,154 @@
+1	74:48:1	w	فَمَا	ﱁ	فما	Then not	famā
+1	74:48:2	w	تَنفَعُهُمۡ	ﱂ	تنفعهم	will benefit them	tanfaʿuhum
+1	74:48:3	w	شَفَٰعَةُ	ﱃ	شفاعة	intercession	shafāʿatu
+1	74:48:4	w	ٱلشَّٰفِعِينَ	ﱄ	الشافعين	(of) the intercessors	l-shāfiʿīna
+1	74:48:5	e	٤٨	ﱅ			
+1	74:49:1	w	فَمَا	ﱆ	فما	Then what	famā
+1	74:49:2	w	لَهُمۡ	ﱇ	لهم	(is) for them	lahum
+1	74:49:3	w	عَنِ	ﱈ	عن	(that) from	ʿani
+1	74:49:4	w	ٱلتَّذۡكِرَةِ	ﱉ	التذكرة	the Reminder	l-tadhkirati
+1	74:49:5	w	مُعۡرِضِينَ	ﱊ	معرضين	they (are) turning away	muʿ'riḍīna
+2	74:49:6	e	٤٩	ﱋ			
+2	74:50:1	w	كَأَنَّهُمۡ	ﱌ	كانهم	As if they (were)	ka-annahum
+2	74:50:2	w	حُمُرٞ	ﱍ	حمر	donkeys	ḥumurun
+2	74:50:3	w	مُّسۡتَنفِرَةٞ	ﱎ	مستنفرة	frightened	mus'tanfiratun
+2	74:50:4	e	٥٠	ﱏ			
+2	74:51:1	w	فَرَّتۡ	ﱐ	فرت	Fleeing	farrat
+2	74:51:2	w	مِن	ﱑ	من	from	min
+2	74:51:3	w	قَسۡوَرَةِۭ	ﱒ	قسورة	a lion	qaswaratin
+2	74:51:4	e	٥١	ﱓ			
+2	74:52:1	w	بَلۡ	ﱔ	بل	Nay	bal
+2	74:52:2	w	يُرِيدُ	ﱕ	يريد	Desires	yurīdu
+3	74:52:3	w	كُلُّ	ﱖ	كل	every	kullu
+3	74:52:4	w	ٱمۡرِيٕٖ	ﱗ	امري	person	im'ri-in
+3	74:52:5	w	مِّنۡهُمۡ	ﱘ	منهم	of them	min'hum
+3	74:52:6	w	أَن	ﱙ	ان	that	an
+3	74:52:7	w	يُؤۡتَىٰ	ﱚ	يوتى	he may be given	yu'tā
+3	74:52:8	w	صُحُفٗا	ﱛ	صحفا	pages	ṣuḥufan
+3	74:52:9	w	مُّنَشَّرَةٗ	ﱜ	منشرة	spread out	munasharatan
+3	74:52:10	e	٥٢	ﱝ			
+3	74:53:1	w	كـَلَّاۖ	ﱞﱟ	كلا	Nay	kallā
+3	74:53:2	w	بَل	ﱠ	بل	But	bal
+3	74:53:3	w	لَّا	ﱡ	لا	not	lā
+3	74:53:4	w	يَخَافُونَ	ﱢ	يخافون	they fear	yakhāfūna
+4	74:53:5	w	ٱلۡأٓخِرَةَ	ﱣ	الاخرة	the Hereafter	l-ākhirata
+4	74:53:6	e	٥٣	ﱤ			
+4	74:54:1	w	كـَلَّآ	ﱥ	كلا	Nay	kallā
+4	74:54:2	w	إِنَّهُۥ	ﱦ	انه	Indeed, it	innahu
+4	74:54:3	w	تَذۡكِرَةٞ	ﱧ	تذكرة	(is) a Reminder	tadhkiratun
+4	74:54:4	e	٥٤	ﱨ			
+4	74:55:1	w	فَمَن	ﱩ	فمن	So whoever	faman
+4	74:55:2	w	شَآءَ	ﱪ	شاء	wills	shāa
+4	74:55:3	w	ذَكَرَهُۥ	ﱫ	ذكره	(may) pay heed to it	dhakarahu
+4	74:55:4	e	٥٥	ﱬ			
+4	74:56:1	w	وَمَا	ﱭ	وما	And not	wamā
+4	74:56:2	w	يَذۡكُرُونَ	ﱮ	يذكرون	will pay heed	yadhkurūna
+5	74:56:3	w	إِلَّآ	ﱯ	الا	except	illā
+5	74:56:4	w	أَن	ﱰ	ان	that	an
+5	74:56:5	w	يَشَآءَ	ﱱ	يشاء	wills	yashāa
+5	74:56:6	w	ٱللَّهُۚ	ﱲﱳ	الله	Allah	l-lahu
+5	74:56:7	w	هُوَ	ﱴ	هو	He	huwa
+5	74:56:8	w	أَهۡلُ	ﱵ	اهل	(is) worthy	ahlu
+5	74:56:9	w	ٱلتَّقۡوَىٰ	ﱶ	التقوى	to be feared	l-taqwā
+5	74:56:10	w	وَأَهۡلُ	ﱷ	واهل	and worthy	wa-ahlu
+5	74:56:11	w	ٱلۡمَغۡفِرَةِ	ﱸ	المغفرة	to forgive	l-maghfirati
+5	74:56:12	e	٥٦	ﱹ			
+8	75:1:1	w	لَآ	ﱺ	لا	Nay	lā
+8	75:1:2	w	أُقۡسِمُ	ﱻ	اقسم	I swear	uq'simu
+8	75:1:3	w	بِيَوۡمِ	ﱼ	بيوم	by (the) Day	biyawmi
+8	75:1:4	w	ٱلۡقِيَٰمَةِ	ﱽ	القيامة	(of) the Resurrection	l-qiyāmati
+8	75:1:5	e	١	ﱾ			
+8	75:2:1	w	وَلَآ	ﱿ	ولا	And nay	walā
+8	75:2:2	w	أُقۡسِمُ	ﲀ	اقسم	I swear	uq'simu
+8	75:2:3	w	بِٱلنَّفۡسِ	ﲁ	بالنفس	by the soul	bil-nafsi
+8	75:2:4	w	ٱللَّوَّامَةِ	ﲂ	اللوامة	self-accusing	l-lawāmati
+8	75:2:5	e	٢	ﲃ			
+8	75:3:1	w	أَيَحۡسَبُ	ﲄ	ايحسب	Does think	ayaḥsabu
+9	75:3:2	w	ٱلۡإِنسَٰنُ	ﲅ	الانسان	[the] man	l-insānu
+9	75:3:3	w	أَلَّن	ﲆ	الن	that not	allan
+9	75:3:4	w	نَّجۡمَعَ	ﲇ	نجمع	We will assemble	najmaʿa
+9	75:3:5	w	عِظَامَهُۥ	ﲈ	عظامه	his bones	ʿiẓāmahu
+9	75:3:6	e	٣	ﲉ			
+9	75:4:1	w	بَلَىٰ	ﲊ	بلى	Nay	balā
+9	75:4:2	w	قَٰدِرِينَ	ﲋ	قادرين	(We are) Able	qādirīna
+9	75:4:3	w	عَلَىٰٓ	ﲌ	على	on	ʿalā
+9	75:4:4	w	أَن	ﲍ	ان	that	an
+9	75:4:5	w	نُّسَوِّيَ	ﲎ	نسوي	We can restore	nusawwiya
+9	75:4:6	w	بَنَانَهُۥ	ﲏ	بنانه	his fingertips	banānahu
+9	75:4:7	e	٤	ﲐ			
+9	75:5:1	w	بَلۡ	ﲑ	بل	Nay	bal
+10	75:5:2	w	يُرِيدُ	ﲒ	يريد	Desires	yurīdu
+10	75:5:3	w	ٱلۡإِنسَٰنُ	ﲓ	الانسان	[the] man	l-insānu
+10	75:5:4	w	لِيَفۡجُرَ	ﲔ	ليفجر	to give (the) lie	liyafjura
+10	75:5:5	w	أَمَامَهُۥ	ﲕ	امامه	(to) what is before him	amāmahu
+10	75:5:6	e	٥	ﲖ			
+10	75:6:1	w	يَسۡـَٔلُ	ﲗ	يسال	He asks	yasalu
+10	75:6:2	w	أَيَّانَ	ﲘ	ايان	When	ayyāna
+10	75:6:3	w	يَوۡمُ	ﲙ	يوم	(is the) Day	yawmu
+10	75:6:4	w	ٱلۡقِيَٰمَةِ	ﲚ	القيامة	(of) the Resurrection	l-qiyāmati
+10	75:6:5	e	٦	ﲛ			
+10	75:7:1	w	فَإِذَا	ﲜ	فاذا	So when	fa-idhā
+10	75:7:2	w	بَرِقَ	ﲝ	برق	is dazzled	bariqa
+11	75:7:3	w	ٱلۡبَصَرُ	ﲞ	البصر	the vision	l-baṣaru
+11	75:7:4	e	٧	ﲟ			
+11	75:8:1	w	وَخَسَفَ	ﲠ	وخسف	And becomes dark	wakhasafa
+11	75:8:2	w	ٱلۡقَمَرُ	ﲡ	القمر	the moon	l-qamaru
+11	75:8:3	e	٨	ﲢ			
+11	75:9:1	w	وَجُمِعَ	ﲣ	وجمع	And are joined	wajumiʿa
+11	75:9:2	w	ٱلشَّمۡسُ	ﲤ	الشمس	the sun	l-shamsu
+11	75:9:3	w	وَٱلۡقَمَرُ	ﲥ	والقمر	and the moon	wal-qamaru
+11	75:9:4	e	٩	ﲦ			
+11	75:10:1	w	يَقُولُ	ﲧ	يقول	Will say	yaqūlu
+11	75:10:2	w	ٱلۡإِنسَٰنُ	ﲨ	الانسان	[the] man	l-insānu
+12	75:10:3	w	يَوۡمَئِذٍ	ﲩ	يوميذ	that Day	yawma-idhin
+12	75:10:4	w	أَيۡنَ	ﲪ	اين	Where	ayna
+12	75:10:5	w	ٱلۡمَفَرُّ	ﲫ	المفر	(is) the escape	l-mafaru
+12	75:10:6	e	١٠	ﲬ			
+12	75:11:1	w	كـَلَّا	ﲭ	كلا	By no means	kallā
+12	75:11:2	w	لَا	ﲮ	لا	(There is) no	lā
+12	75:11:3	w	وَزَرَ	ﲯ	وزر	refuge	wazara
+12	75:11:4	e	١١	ﲰ			
+12	75:12:1	w	إِلَىٰ	ﲱ	الى	To	ilā
+12	75:12:2	w	رَبِّكَ	ﲲ	ربك	your Lord	rabbika
+12	75:12:3	w	يَوۡمَئِذٍ	ﲳ	يوميذ	that Day	yawma-idhin
+12	75:12:4	w	ٱلۡمُسۡتَقَرُّ	ﲴ	المستقر	(is) the place of rest	l-mus'taqaru
+12	75:12:5	e	١٢	ﲵ			
+12	75:13:1	w	يُنَبَّؤُاْ	ﲶ	ينبا	Will be informed	yunabba-u
+13	75:13:2	w	ٱلۡإِنسَٰنُ	ﲷ	الانسان	[the] man	l-insānu
+13	75:13:3	w	يَوۡمَئِذِۭ	ﲸ	يوميذ	that Day	yawma-idhin
+13	75:13:4	w	بِمَا	ﲹ	بما	of what	bimā
+13	75:13:5	w	قَدَّمَ	ﲺ	قدم	he sent forth	qaddama
+13	75:13:6	w	وَأَخَّرَ	ﲻ	واخر	and kept back	wa-akhara
+13	75:13:7	e	١٣	ﲼ			
+13	75:14:1	w	بَلِ	ﲽ	بل	Nay	bali
+13	75:14:2	w	ٱلۡإِنسَٰنُ	ﲾ	الانسان	[The] man	l-insānu
+13	75:14:3	w	عَلَىٰ	ﲿ	على	against	ʿalā
+13	75:14:4	w	نَفۡسِهِۦ	ﳀ	نفسه	himself	nafsihi
+13	75:14:5	w	بَصِيرَةٞ	ﳁ	بصيرة	(will be) a witness	baṣīratun
+13	75:14:6	e	١٤	ﳂ			
+14	75:15:1	w	وَلَوۡ	ﳃ	ولو	Even if	walaw
+14	75:15:2	w	أَلۡقَىٰ	ﳄ	القى	he presents	alqā
+14	75:15:3	w	مَعَاذِيرَهُۥ	ﳅ	معاذيره	his excuses	maʿādhīrahu
+14	75:15:4	e	١٥	ﳆ			
+14	75:16:1	w	لَا	ﳇ	لا	Not	lā
+14	75:16:2	w	تُحَرِّكۡ	ﳈ	تحرك	move	tuḥarrik
+14	75:16:3	w	بِهِۦ	ﳉ	به	with it	bihi
+14	75:16:4	w	لِسَانَكَ	ﳊ	لسانك	your tongue	lisānaka
+14	75:16:5	w	لِتَعۡجَلَ	ﳋ	لتعجل	to hasten	litaʿjala
+14	75:16:6	w	بِهِۦٓ	ﳌ	به	with it	bihi
+14	75:16:7	e	١٦	ﳍ			
+14	75:17:1	w	إِنَّ	ﳎ	ان	Indeed	inna
+14	75:17:2	w	عَلَيۡنَا	ﳏ	علينا	upon Us	ʿalaynā
+15	75:17:3	w	جَمۡعَهُۥ	ﳐ	جمعه	(is) its collection	jamʿahu
+15	75:17:4	w	وَقُرۡءَانَهُۥ	ﳑ	وقرانه	and its recitation	waqur'ānahu
+15	75:17:5	e	١٧	ﳒ			
+15	75:18:1	w	فَإِذَا	ﳓ	فاذا	And when	fa-idhā
+15	75:18:2	w	قَرَأۡنَٰهُ	ﳔ	قراناه	We have recited it	qaranāhu
+15	75:18:3	w	فَٱتَّبِعۡ	ﳕ	فاتبع	then follow	fa-ittabiʿ
+15	75:18:4	w	قُرۡءَانَهُۥ	ﳖ	قرانه	its recitation	qur'ānahu
+15	75:18:5	e	١٨	ﳗ			
+15	75:19:1	w	ثُمَّ	ﳘ	ثم	Then	thumma
+15	75:19:2	w	إِنَّ	ﳙ	ان	indeed	inna
+15	75:19:3	w	عَلَيۡنَا	ﳚ	علينا	upon Us	ʿalaynā
+15	75:19:4	w	بَيَانَهُۥ	ﳛ	بيانه	(is) its explanation	bayānahu
+15	75:19:5	e	١٩	ﳜ			

@@ -1,0 +1,133 @@
+1	40:17:1	w	ٱلۡيَوۡمَ	ﱁ	اليوم	This Day	al-yawma
+1	40:17:2	w	تُجۡزَىٰ	ﱂ	تجزى	will be recompensed	tuj'zā
+1	40:17:3	w	كُلُّ	ﱃ	كل	every	kullu
+1	40:17:4	w	نَفۡسِۭ	ﱄ	نفس	soul	nafsin
+1	40:17:5	w	بِمَا	ﱅ	بما	for what	bimā
+1	40:17:6	w	كَسَبَتۡۚ	ﱆﱇ	كسبت	it earned	kasabat
+1	40:17:7	w	لَا	ﱈ	لا	No	lā
+1	40:17:8	w	ظُلۡمَ	ﱉ	ظلم	injustice	ẓul'ma
+1	40:17:9	w	ٱلۡيَوۡمَۚ	ﱊﱋ	اليوم	today	l-yawma
+1	40:17:10	w	إِنَّ	ﱌ	ان	Indeed	inna
+2	40:17:11	w	ٱللَّهَ	ﱍ	الله	Allah	l-laha
+2	40:17:12	w	سَرِيعُ	ﱎ	سريع	(is) Swift	sarīʿu
+2	40:17:13	w	ٱلۡحِسَابِ	ﱏ	الحساب	(in) Account	l-ḥisābi
+2	40:17:14	e	١٧	ﱐ			
+2	40:18:1	w	وَأَنذِرۡهُمۡ	ﱑ	وانذرهم	And warn them	wa-andhir'hum
+2	40:18:2	w	يَوۡمَ	ﱒ	يوم	(of the) Day	yawma
+2	40:18:3	w	ٱلۡأٓزِفَةِ	ﱓ	الازفة	the Approaching	l-āzifati
+2	40:18:4	w	إِذِ	ﱔ	اذ	when	idhi
+2	40:18:5	w	ٱلۡقُلُوبُ	ﱕ	القلوب	the hearts	l-qulūbu
+3	40:18:6	w	لَدَى	ﱖ	لدى	(are) at	ladā
+3	40:18:7	w	ٱلۡحَنَاجِرِ	ﱗ	الحناجر	the throats	l-ḥanājiri
+3	40:18:8	w	كَٰظِمِينَۚ	ﱘﱙ	كاظمين	choked	kāẓimīna
+3	40:18:9	w	مَا	ﱚ	ما	Not	mā
+3	40:18:10	w	لِلظَّٰلِمِينَ	ﱛ	للظالمين	for the wrongdoers	lilẓẓālimīna
+3	40:18:11	w	مِنۡ	ﱜ	من	any	min
+3	40:18:12	w	حَمِيمٖ	ﱝ	حميم	intimate friend	ḥamīmin
+3	40:18:13	w	وَلَا	ﱞ	ولا	and no	walā
+3	40:18:14	w	شَفِيعٖ	ﱟ	شفيع	intercessor	shafīʿin
+4	40:18:15	w	يُطَاعُ	ﱠ	يطاع	(who) is obeyed	yuṭāʿu
+4	40:18:16	e	١٨	ﱡ			
+4	40:19:1	w	يَعۡلَمُ	ﱢ	يعلم	He knows	yaʿlamu
+4	40:19:2	w	خَآئِنَةَ	ﱣ	خاينة	(the) stealthy glance	khāinata
+4	40:19:3	w	ٱلۡأَعۡيُنِ	ﱤ	الاعين	(the) stealthy glance	l-aʿyuni
+4	40:19:4	w	وَمَا	ﱥ	وما	and what	wamā
+4	40:19:5	w	تُخۡفِي	ﱦ	تخفي	conceal	tukh'fī
+4	40:19:6	w	ٱلصُّدُورُ	ﱧ	الصدور	the breasts	l-ṣudūru
+4	40:19:7	e	١٩	ﱨ			
+4	40:20:1	w	وَٱللَّهُ	ﱩ	والله	And Allah	wal-lahu
+5	40:20:2	w	يَقۡضِي	ﱪ	يقضي	judges	yaqḍī
+5	40:20:3	w	بِٱلۡحَقِّۖ	ﱫﱬ	بالحق	in truth	bil-ḥaqi
+5	40:20:4	w	وَٱلَّذِينَ	ﱭ	والذين	while those (whom)	wa-alladhīna
+5	40:20:5	w	يَدۡعُونَ	ﱮ	يدعون	they invoke	yadʿūna
+5	40:20:6	w	مِن	ﱯ	من	besides Him	min
+5	40:20:7	w	دُونِهِۦ	ﱰ	دونه	besides Him	dūnihi
+5	40:20:8	w	لَا	ﱱ	لا	not	lā
+5	40:20:9	w	يَقۡضُونَ	ﱲ	يقضون	they judge	yaqḍūna
+6	40:20:10	w	بِشَيۡءٍۗ	ﱳﱴ	بشيء	with anything	bishayin
+6	40:20:11	w	إِنَّ	ﱵ	ان	Indeed	inna
+6	40:20:12	w	ٱللَّهَ	ﱶ	الله	Allah	l-laha
+6	40:20:13	w	هُوَ	ﱷ	هو	He	huwa
+6	40:20:14	w	ٱلسَّمِيعُ	ﱸ	السميع	(is) the All-Hearer	l-samīʿu
+6	40:20:15	w	ٱلۡبَصِيرُ	ﱹ	البصير	the All-Seer	l-baṣīru
+6	40:20:16	e	٢٠	ﱺ			
+6	40:21:1	w	۞ أَوَلَمۡ	ﱻ ﱼ	۞ اولم	Do not	awalam
+6	40:21:2	w	يَسِيرُواْ	ﱽ	يسيروا	they travel	yasīrū
+6	40:21:3	w	فِي	ﱾ	في	in	fī
+7	40:21:4	w	ٱلۡأَرۡضِ	ﱿ	الارض	the earth	l-arḍi
+7	40:21:5	w	فَيَنظُرُواْ	ﲀ	فينظروا	and see	fayanẓurū
+7	40:21:6	w	كَيۡفَ	ﲁ	كيف	how	kayfa
+7	40:21:7	w	كَانَ	ﲂ	كان	was	kāna
+7	40:21:8	w	عَٰقِبَةُ	ﲃ	عاقبة	(the) end	ʿāqibatu
+7	40:21:9	w	ٱلَّذِينَ	ﲄ	الذين	(of) those who	alladhīna
+7	40:21:10	w	كَانُواْ	ﲅ	كانوا	were	kānū
+7	40:21:11	w	مِن	ﲆ	من	before them	min
+7	40:21:12	w	قَبۡلِهِمۡۚ	ﲇﲈ	قبلهم	before them	qablihim
+8	40:21:13	w	كَانُواْ	ﲉ	كانوا	They were	kānū
+8	40:21:14	w	هُمۡ	ﲊ	هم	[they]	hum
+8	40:21:15	w	أَشَدَّ	ﲋ	اشد	superior	ashadda
+8	40:21:16	w	مِنۡهُمۡ	ﲌ	منهم	to them	min'hum
+8	40:21:17	w	قُوَّةٗ	ﲍ	قوة	(in) strength	quwwatan
+8	40:21:18	w	وَءَاثَارٗا	ﲎ	واثارا	and (in) impressions	waāthāran
+8	40:21:19	w	فِي	ﲏ	في	in	fī
+8	40:21:20	w	ٱلۡأَرۡضِ	ﲐ	الارض	the land	l-arḍi
+8	40:21:21	w	فَأَخَذَهُمُ	ﲑ	فاخذهم	but Allah seized them	fa-akhadhahumu
+8	40:21:22	w	ٱللَّهُ	ﲒ	الله	but Allah seized them	l-lahu
+9	40:21:23	w	بِذُنُوبِهِمۡ	ﲓ	بذنوبهم	for their sins	bidhunūbihim
+9	40:21:24	w	وَمَا	ﲔ	وما	and not	wamā
+9	40:21:25	w	كَانَ	ﲕ	كان	was	kāna
+9	40:21:26	w	لَهُم	ﲖ	لهم	for them	lahum
+9	40:21:27	w	مِّنَ	ﲗ	من	against	mina
+9	40:21:28	w	ٱللَّهِ	ﲘ	الله	Allah	l-lahi
+9	40:21:29	w	مِن	ﲙ	من	any	min
+9	40:21:30	w	وَاقٖ	ﲚ	واق	protector	wāqin
+9	40:21:31	e	٢١	ﲛ			
+9	40:22:1	w	ذَٰلِكَ	ﲜ	ذالك	That	dhālika
+9	40:22:2	w	بِأَنَّهُمۡ	ﲝ	بانهم	(was) because [they]	bi-annahum
+10	40:22:3	w	كَانَت	ﲞ	كانت	used to come to them	kānat
+10	40:22:4	w	تَّأۡتِيهِمۡ	ﲟ	تاتيهم	used to come to them	tatīhim
+10	40:22:5	w	رُسُلُهُم	ﲠ	رسلهم	their Messengers	rusuluhum
+10	40:22:6	w	بِٱلۡبَيِّنَٰتِ	ﲡ	بالبينات	with clear proofs	bil-bayināti
+10	40:22:7	w	فَكَفَرُواْ	ﲢ	فكفروا	but they disbelieved	fakafarū
+10	40:22:8	w	فَأَخَذَهُمُ	ﲣ	فاخذهم	So Allah seized them	fa-akhadhahumu
+10	40:22:9	w	ٱللَّهُۚ	ﲤﲥ	الله	So Allah seized them	l-lahu
+11	40:22:10	w	إِنَّهُۥ	ﲦ	انه	Indeed, He	innahu
+11	40:22:11	w	قَوِيّٞ	ﲧ	قوي	(is) All-Strong	qawiyyun
+11	40:22:12	w	شَدِيدُ	ﲨ	شديد	severe	shadīdu
+11	40:22:13	w	ٱلۡعِقَابِ	ﲩ	العقاب	(in) punishment	l-ʿiqābi
+11	40:22:14	e	٢٢	ﲪ			
+11	40:23:1	w	وَلَقَدۡ	ﲫ	ولقد	And certainly	walaqad
+11	40:23:2	w	أَرۡسَلۡنَا	ﲬ	ارسلنا	We sent	arsalnā
+11	40:23:3	w	مُوسَىٰ	ﲭ	موسى	Musa	mūsā
+11	40:23:4	w	بِـَٔايَٰتِنَا	ﲮ	باياتنا	with Our Signs	biāyātinā
+12	40:23:5	w	وَسُلۡطَٰنٖ	ﲯ	وسلطان	and an authority	wasul'ṭānin
+12	40:23:6	w	مُّبِينٍ	ﲰ	مبين	clear	mubīnin
+12	40:23:7	e	٢٣	ﲱ			
+12	40:24:1	w	إِلَىٰ	ﲲ	الى	To	ilā
+12	40:24:2	w	فِرۡعَوۡنَ	ﲳ	فرعون	Firaun	fir'ʿawna
+12	40:24:3	w	وَهَٰمَٰنَ	ﲴ	وهامان	Haman	wahāmāna
+12	40:24:4	w	وَقَٰرُونَ	ﲵ	وقارون	and Qarun	waqārūna
+13	40:24:5	w	فَقَالُواْ	ﲶ	فقالوا	but they said	faqālū
+13	40:24:6	w	سَٰحِرٞ	ﲷ	ساحر	A magician	sāḥirun
+13	40:24:7	w	كَذَّابٞ	ﲸ	كذاب	a liar	kadhābun
+13	40:24:8	e	٢٤	ﲹ			
+13	40:25:1	w	فَلَمَّا	ﲺ	فلما	Then when	falammā
+13	40:25:2	w	جَآءَهُم	ﲻ	جاءهم	he brought to them	jāahum
+13	40:25:3	w	بِٱلۡحَقِّ	ﲼ	بالحق	the truth	bil-ḥaqi
+13	40:25:4	w	مِنۡ	ﲽ	من	from	min
+14	40:25:5	w	عِندِنَا	ﲾ	عندنا	Us	ʿindinā
+14	40:25:6	w	قَالُواْ	ﲿ	قالوا	they said	qālū
+14	40:25:7	w	ٱقۡتُلُوٓاْ	ﳀ	اقتلوا	Kill	uq'tulū
+14	40:25:8	w	أَبۡنَآءَ	ﳁ	ابناء	(the) sons	abnāa
+14	40:25:9	w	ٱلَّذِينَ	ﳂ	الذين	(of) those who	alladhīna
+14	40:25:10	w	ءَامَنُواْ	ﳃ	امنوا	believe	āmanū
+14	40:25:11	w	مَعَهُۥ	ﳄ	معه	with him	maʿahu
+14	40:25:12	w	وَٱسۡتَحۡيُواْ	ﳅ	واستحيوا	and let live	wa-is'taḥyū
+15	40:25:13	w	نِسَآءَهُمۡۚ	ﳆﳇ	نساءهم	their women	nisāahum
+15	40:25:14	w	وَمَا	ﳈ	وما	And not	wamā
+15	40:25:15	w	كَيۡدُ	ﳉ	كيد	(is the) plot	kaydu
+15	40:25:16	w	ٱلۡكَٰفِرِينَ	ﳊ	الكافرين	(of) the disbelievers	l-kāfirīna
+15	40:25:17	w	إِلَّا	ﳋ	الا	but	illā
+15	40:25:18	w	فِي	ﳌ	في	in	fī
+15	40:25:19	w	ضَلَٰلٖ	ﳍ	ضلال	error	ḍalālin
+15	40:25:20	e	٢٥	ﳎ			

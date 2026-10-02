@@ -1,0 +1,123 @@
+1	6:125:1	w	فَمَن	ﱁ	فمن	So whoever	faman
+1	6:125:2	w	يُرِدِ	ﱂ	يرد	wants	yuridi
+1	6:125:3	w	ٱللَّهُ	ﱃ	الله	Allah	l-lahu
+1	6:125:4	w	أَن	ﱄ	ان	that	an
+1	6:125:5	w	يَهۡدِيَهُۥ	ﱅ	يهديه	He guides him	yahdiyahu
+1	6:125:6	w	يَشۡرَحۡ	ﱆ	يشرح	He expands	yashraḥ
+1	6:125:7	w	صَدۡرَهُۥ	ﱇ	صدره	his breast	ṣadrahu
+1	6:125:8	w	لِلۡإِسۡلَٰمِۖ	ﱈﱉ	للاسلام	to Islam	lil'is'lāmi
+1	6:125:9	w	وَمَن	ﱊ	ومن	and whoever	waman
+2	6:125:10	w	يُرِدۡ	ﱋ	يرد	He wants	yurid
+2	6:125:11	w	أَن	ﱌ	ان	that	an
+2	6:125:12	w	يُضِلَّهُۥ	ﱍ	يضله	He lets him go astray	yuḍillahu
+2	6:125:13	w	يَجۡعَلۡ	ﱎ	يجعل	He makes	yajʿal
+2	6:125:14	w	صَدۡرَهُۥ	ﱏ	صدره	his breast	ṣadrahu
+2	6:125:15	w	ضَيِّقًا	ﱐ	ضيقا	tight	ḍayyiqan
+2	6:125:16	w	حَرَجٗا	ﱑ	حرجا	and constricted	ḥarajan
+2	6:125:17	w	كَأَنَّمَا	ﱒ	كانما	as though	ka-annamā
+3	6:125:18	w	يَصَّعَّدُ	ﱓ	يصعد	he (were) climbing	yaṣṣaʿʿadu
+3	6:125:19	w	فِي	ﱔ	في	into	fī
+3	6:125:20	w	ٱلسَّمَآءِۚ	ﱕﱖ	السماء	the sky	l-samāi
+3	6:125:21	w	كَذَٰلِكَ	ﱗ	كذالك	Thus	kadhālika
+3	6:125:22	w	يَجۡعَلُ	ﱘ	يجعل	places	yajʿalu
+3	6:125:23	w	ٱللَّهُ	ﱙ	الله	Allah	l-lahu
+3	6:125:24	w	ٱلرِّجۡسَ	ﱚ	الرجس	the filth	l-rij'sa
+3	6:125:25	w	عَلَى	ﱛ	على	on	ʿalā
+3	6:125:26	w	ٱلَّذِينَ	ﱜ	الذين	those who	alladhīna
+4	6:125:27	w	لَا	ﱝ	لا	(do) not	lā
+4	6:125:28	w	يُؤۡمِنُونَ	ﱞ	يومنون	believe	yu'minūna
+4	6:125:29	e	١٢٥	ﱟ			
+4	6:126:1	w	وَهَٰذَا	ﱠ	وهاذا	And this	wahādhā
+4	6:126:2	w	صِرَٰطُ	ﱡ	صراط	(is the) way	ṣirāṭu
+4	6:126:3	w	رَبِّكَ	ﱢ	ربك	(of) your Lord	rabbika
+4	6:126:4	w	مُسۡتَقِيمٗاۗ	ﱣﱤ	مستقيما	straight	mus'taqīman
+4	6:126:5	w	قَدۡ	ﱥ	قد	Certainly	qad
+4	6:126:6	w	فَصَّلۡنَا	ﱦ	فصلنا	We have detailed	faṣṣalnā
+5	6:126:7	w	ٱلۡأٓيَٰتِ	ﱧ	الايات	the Verses	l-āyāti
+5	6:126:8	w	لِقَوۡمٖ	ﱨ	لقوم	for a people	liqawmin
+5	6:126:9	w	يَذَّكَّرُونَ	ﱩ	يذكرون	who take heed	yadhakkarūna
+5	6:126:10	e	١٢٦	ﱪ			
+5	6:127:1	w	۞ لَهُمۡ	ﱫ ﱬ	۞ لهم	For them	lahum
+5	6:127:2	w	دَارُ	ﱭ	دار	(will be) home	dāru
+5	6:127:3	w	ٱلسَّلَٰمِ	ﱮ	السلام	(of) [the] peace	l-salāmi
+5	6:127:4	w	عِندَ	ﱯ	عند	with	ʿinda
+6	6:127:5	w	رَبِّهِمۡۖ	ﱰﱱ	ربهم	their Lord	rabbihim
+6	6:127:6	w	وَهُوَ	ﱲ	وهو	And He	wahuwa
+6	6:127:7	w	وَلِيُّهُم	ﱳ	وليهم	(will be) their protecting friend	waliyyuhum
+6	6:127:8	w	بِمَا	ﱴ	بما	because	bimā
+6	6:127:9	w	كَانُواْ	ﱵ	كانوا	(of what) they used to	kānū
+6	6:127:10	w	يَعۡمَلُونَ	ﱶ	يعملون	do	yaʿmalūna
+6	6:127:11	e	١٢٧	ﱷ			
+6	6:128:1	w	وَيَوۡمَ	ﱸ	ويوم	And (the) Day	wayawma
+6	6:128:2	w	يَحۡشُرُهُمۡ	ﱹ	يحشرهم	He will gather them	yaḥshuruhum
+7	6:128:3	w	جَمِيعٗا	ﱺ	جميعا	all	jamīʿan
+7	6:128:4	w	يَٰمَعۡشَرَ	ﱻ	يا معشر	(and will say), "O assembly	yāmaʿshara
+7	6:128:5	w	ٱلۡجِنِّ	ﱼ	الجن	(of) [the] jinn	l-jini
+7	6:128:6	w	قَدِ	ﱽ	قد	Certainly	qadi
+7	6:128:7	w	ٱسۡتَكۡثَرۡتُم	ﱾ	استكثرتم	you have (misled) many	is'takthartum
+7	6:128:8	w	مِّنَ	ﱿ	من	of	mina
+7	6:128:9	w	ٱلۡإِنسِۖ	ﲀﲁ	الانس	the mankind	l-insi
+7	6:128:10	w	وَقَالَ	ﲂ	وقال	And will say	waqāla
+8	6:128:11	w	أَوۡلِيَآؤُهُم	ﲃ	اولياوهم	their friends	awliyāuhum
+8	6:128:12	w	مِّنَ	ﲄ	من	among	mina
+8	6:128:13	w	ٱلۡإِنسِ	ﲅ	الانس	the men	l-insi
+8	6:128:14	w	رَبَّنَا	ﲆ	ربنا	Our Lord	rabbanā
+8	6:128:15	w	ٱسۡتَمۡتَعَ	ﲇ	استمتع	profited	is'tamtaʿa
+8	6:128:16	w	بَعۡضُنَا	ﲈ	بعضنا	some of us	baʿḍunā
+8	6:128:17	w	بِبَعۡضٖ	ﲉ	ببعض	by others	bibaʿḍin
+8	6:128:18	w	وَبَلَغۡنَآ	ﲊ	وبلغنا	and we have reached	wabalaghnā
+9	6:128:19	w	أَجَلَنَا	ﲋ	اجلنا	our term	ajalanā
+9	6:128:20	w	ٱلَّذِيٓ	ﲌ	الذي	which	alladhī
+9	6:128:21	w	أَجَّلۡتَ	ﲍ	اجلت	You appointed	ajjalta
+9	6:128:22	w	لَنَاۚ	ﲎﲏ	لنا	for us	lanā
+9	6:128:23	w	قَالَ	ﲐ	قال	He will say	qāla
+9	6:128:24	w	ٱلنَّارُ	ﲑ	النار	The Fire	l-nāru
+9	6:128:25	w	مَثۡوَىٰكُمۡ	ﲒ	مثواكم	(is) your abode	mathwākum
+9	6:128:26	w	خَٰلِدِينَ	ﲓ	خالدين	will abide forever	khālidīna
+9	6:128:27	w	فِيهَآ	ﲔ	فيها	in it	fīhā
+10	6:128:28	w	إِلَّا	ﲕ	الا	except	illā
+10	6:128:29	w	مَا	ﲖ	ما	(for) what	mā
+10	6:128:30	w	شَآءَ	ﲗ	شاء	wills	shāa
+10	6:128:31	w	ٱللَّهُۚ	ﲘﲙ	الله	Allah	l-lahu
+10	6:128:32	w	إِنَّ	ﲚ	ان	Indeed	inna
+10	6:128:33	w	رَبَّكَ	ﲛ	ربك	your Lord	rabbaka
+10	6:128:34	w	حَكِيمٌ	ﲜ	حكيم	(is) All-Wise	ḥakīmun
+10	6:128:35	w	عَلِيمٞ	ﲝ	عليم	All-Knowing	ʿalīmun
+10	6:128:36	e	١٢٨	ﲞ			
+10	6:129:1	w	وَكَذَٰلِكَ	ﲟ	وكذالك	And thus	wakadhālika
+10	6:129:2	w	نُوَلِّي	ﲠ	نولي	We make friends	nuwallī
+11	6:129:3	w	بَعۡضَ	ﲡ	بعض	some (of)	baʿḍa
+11	6:129:4	w	ٱلظَّٰلِمِينَ	ﲢ	الظالمين	the wrongdoers	l-ẓālimīna
+11	6:129:5	w	بَعۡضَۢا	ﲣ	بعضا	(to) others	baʿḍan
+11	6:129:6	w	بِمَا	ﲤ	بما	for what	bimā
+11	6:129:7	w	كَانُواْ	ﲥ	كانوا	they used to	kānū
+11	6:129:8	w	يَكۡسِبُونَ	ﲦ	يكسبون	earn	yaksibūna
+11	6:129:9	e	١٢٩	ﲧ			
+12	6:130:1	w	يَٰمَعۡشَرَ	ﲨ	يا معشر	O assembly	yāmaʿshara
+12	6:130:2	w	ٱلۡجِنِّ	ﲩ	الجن	(of) [the] jinn	l-jini
+12	6:130:3	w	وَٱلۡإِنسِ	ﲪ	والانس	and [the] men	wal-insi
+12	6:130:4	w	أَلَمۡ	ﲫ	الم	Did (there) not	alam
+12	6:130:5	w	يَأۡتِكُمۡ	ﲬ	ياتكم	come to you	yatikum
+12	6:130:6	w	رُسُلٞ	ﲭ	رسل	Messengers	rusulun
+12	6:130:7	w	مِّنكُمۡ	ﲮ	منكم	from (among) you	minkum
+13	6:130:8	w	يَقُصُّونَ	ﲯ	يقصون	relating	yaquṣṣūna
+13	6:130:9	w	عَلَيۡكُمۡ	ﲰ	عليكم	to you	ʿalaykum
+13	6:130:10	w	ءَايَٰتِي	ﲱ	اياتي	My Verses	āyātī
+13	6:130:11	w	وَيُنذِرُونَكُمۡ	ﲲ	وينذرونكم	and warning you	wayundhirūnakum
+13	6:130:12	w	لِقَآءَ	ﲳ	لقاء	(of the) meeting	liqāa
+13	6:130:13	w	يَوۡمِكُمۡ	ﲴ	يومكم	(of) your day	yawmikum
+14	6:130:14	w	هَٰذَاۚ	ﲵﲶ	هاذا	this	hādhā
+14	6:130:15	w	قَالُواْ	ﲷ	قالوا	They will say	qālū
+14	6:130:16	w	شَهِدۡنَا	ﲸ	شهدنا	We bear witness	shahid'nā
+14	6:130:17	w	عَلَىٰٓ	ﲹ	على	against	ʿalā
+14	6:130:18	w	أَنفُسِنَاۖ	ﲺﲻ	انفسنا	ourselves	anfusinā
+14	6:130:19	w	وَغَرَّتۡهُمُ	ﲼ	وغرتهم	And deluded them	wagharrathumu
+14	6:130:20	w	ٱلۡحَيَوٰةُ	ﲽ	الحياة	the life	l-ḥayatu
+14	6:130:21	w	ٱلدُّنۡيَا	ﲾ	الدنيا	(of) the world	l-dun'yā
+15	6:130:22	w	وَشَهِدُواْ	ﲿ	وشهدوا	and they will bear witness	washahidū
+15	6:130:23	w	عَلَىٰٓ	ﳀ	على	against	ʿalā
+15	6:130:24	w	أَنفُسِهِمۡ	ﳁ	انفسهم	themselves	anfusihim
+15	6:130:25	w	أَنَّهُمۡ	ﳂ	انهم	that they	annahum
+15	6:130:26	w	كَانُواْ	ﳃ	كانوا	were	kānū
+15	6:130:27	w	كَٰفِرِينَ	ﳄ	كافرين	disbelievers	kāfirīna
+15	6:130:28	e	١٣٠	ﳅ			

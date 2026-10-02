@@ -1,0 +1,161 @@
+1	39:11:1	w	قُلۡ	ﱁ	قل	Say	qul
+1	39:11:2	w	إِنِّيٓ	ﱂ	اني	Indeed, I	innī
+1	39:11:3	w	أُمِرۡتُ	ﱃ	امرت	[I] am commanded	umir'tu
+1	39:11:4	w	أَنۡ	ﱄ	ان	that	an
+1	39:11:5	w	أَعۡبُدَ	ﱅ	اعبد	I worship	aʿbuda
+1	39:11:6	w	ٱللَّهَ	ﱆ	الله	Allah	l-laha
+1	39:11:7	w	مُخۡلِصٗا	ﱇ	مخلصا	(being) sincere	mukh'liṣan
+1	39:11:8	w	لَّهُ	ﱈ	له	to Him	lahu
+1	39:11:9	w	ٱلدِّينَ	ﱉ	الدين	(in) the religion	l-dīna
+1	39:11:10	e	١١	ﱊ			
+1	39:12:1	w	وَأُمِرۡتُ	ﱋ	وامرت	And I am commanded	wa-umir'tu
+1	39:12:2	w	لِأَنۡ	ﱌ	لان	that	li-an
+1	39:12:3	w	أَكُونَ	ﱍ	اكون	I be	akūna
+2	39:12:4	w	أَوَّلَ	ﱎ	اول	(the) first	awwala
+2	39:12:5	w	ٱلۡمُسۡلِمِينَ	ﱏ	المسلمين	(of) those who submit	l-mus'limīna
+2	39:12:6	e	١٢	ﱐ			
+2	39:13:1	w	قُلۡ	ﱑ	قل	Say	qul
+2	39:13:2	w	إِنِّيٓ	ﱒ	اني	Indeed, I	innī
+2	39:13:3	w	أَخَافُ	ﱓ	اخاف	[I] fear	akhāfu
+2	39:13:4	w	إِنۡ	ﱔ	ان	if	in
+2	39:13:5	w	عَصَيۡتُ	ﱕ	عصيت	I disobey	ʿaṣaytu
+2	39:13:6	w	رَبِّي	ﱖ	ربي	my Lord	rabbī
+2	39:13:7	w	عَذَابَ	ﱗ	عذاب	(the) punishment	ʿadhāba
+2	39:13:8	w	يَوۡمٍ	ﱘ	يوم	(of) a Day	yawmin
+2	39:13:9	w	عَظِيمٖ	ﱙ	عظيم	great	ʿaẓīmin
+3	39:13:10	e	١٣	ﱚ			
+3	39:14:1	w	قُلِ	ﱛ	قل	Say	quli
+3	39:14:2	w	ٱللَّهَ	ﱜ	الله	I worship Allah	l-laha
+3	39:14:3	w	أَعۡبُدُ	ﱝ	اعبد	I worship Allah	aʿbudu
+3	39:14:4	w	مُخۡلِصٗا	ﱞ	مخلصا	(being) sincere	mukh'liṣan
+3	39:14:5	w	لَّهُۥ	ﱟ	له	to Him	lahu
+3	39:14:6	w	دِينِي	ﱠ	ديني	(in) my religion	dīnī
+3	39:14:7	e	١٤	ﱡ			
+3	39:15:1	w	فَٱعۡبُدُواْ	ﱢ	فاعبدوا	So worship	fa-uʿ'budū
+3	39:15:2	w	مَا	ﱣ	ما	what	mā
+3	39:15:3	w	شِئۡتُم	ﱤ	شيتم	you will	shi'tum
+3	39:15:4	w	مِّن	ﱥ	من	besides Him	min
+3	39:15:5	w	دُونِهِۦۗ	ﱦﱧ	دونه	besides Him	dūnihi
+4	39:15:6	w	قُلۡ	ﱨ	قل	Say	qul
+4	39:15:7	w	إِنَّ	ﱩ	ان	Indeed	inna
+4	39:15:8	w	ٱلۡخَٰسِرِينَ	ﱪ	الخاسرين	the losers	l-khāsirīna
+4	39:15:9	w	ٱلَّذِينَ	ﱫ	الذين	(are) those who	alladhīna
+4	39:15:10	w	خَسِرُوٓاْ	ﱬ	خسروا	(will) lose	khasirū
+4	39:15:11	w	أَنفُسَهُمۡ	ﱭ	انفسهم	themselves	anfusahum
+4	39:15:12	w	وَأَهۡلِيهِمۡ	ﱮ	واهليهم	and their families	wa-ahlīhim
+4	39:15:13	w	يَوۡمَ	ﱯ	يوم	(on the) Day	yawma
+4	39:15:14	w	ٱلۡقِيَٰمَةِۗ	ﱰﱱ	القيامة	(of) the Resurrection	l-qiyāmati
+5	39:15:15	w	أَلَا	ﱲ	الا	Unquestionably	alā
+5	39:15:16	w	ذَٰلِكَ	ﱳ	ذالك	that	dhālika
+5	39:15:17	w	هُوَ	ﱴ	هو	it	huwa
+5	39:15:18	w	ٱلۡخُسۡرَانُ	ﱵ	الخسران	(is) the loss	l-khus'rānu
+5	39:15:19	w	ٱلۡمُبِينُ	ﱶ	المبين	the clear	l-mubīnu
+5	39:15:20	e	١٥	ﱷ			
+5	39:16:1	w	لَهُم	ﱸ	لهم	For them	lahum
+5	39:16:2	w	مِّن	ﱹ	من	from	min
+5	39:16:3	w	فَوۡقِهِمۡ	ﱺ	فوقهم	above them	fawqihim
+5	39:16:4	w	ظُلَلٞ	ﱻ	ظلل	coverings	ẓulalun
+5	39:16:5	w	مِّنَ	ﱼ	من	of	mina
+5	39:16:6	w	ٱلنَّارِ	ﱽ	النار	the Fire	l-nāri
+6	39:16:7	w	وَمِن	ﱾ	ومن	and from	wamin
+6	39:16:8	w	تَحۡتِهِمۡ	ﱿ	تحتهم	below them	taḥtihim
+6	39:16:9	w	ظُلَلٞۚ	ﲀﲁ	ظلل	coverings	ẓulalun
+6	39:16:10	w	ذَٰلِكَ	ﲂ	ذالك	(With) that	dhālika
+6	39:16:11	w	يُخَوِّفُ	ﲃ	يخوف	threatens	yukhawwifu
+6	39:16:12	w	ٱللَّهُ	ﲄ	الله	Allah	l-lahu
+6	39:16:13	w	بِهِۦ	ﲅ	به	[with it]	bihi
+6	39:16:14	w	عِبَادَهُۥۚ	ﲆﲇ	عباده	His slaves	ʿibādahu
+6	39:16:15	w	يَٰعِبَادِ	ﲈ	يا عباد	O My slaves	yāʿibādi
+6	39:16:16	w	فَٱتَّقُونِ	ﲉ	فاتقون	So fear Me	fa-ittaqūni
+6	39:16:17	e	١٦	ﲊ			
+7	39:17:1	w	وَٱلَّذِينَ	ﲋ	والذين	And those who	wa-alladhīna
+7	39:17:2	w	ٱجۡتَنَبُواْ	ﲌ	اجتنبوا	avoid	ij'tanabū
+7	39:17:3	w	ٱلطَّٰغُوتَ	ﲍ	الطاغوت	the false gods	l-ṭāghūta
+7	39:17:4	w	أَن	ﲎ	ان	lest	an
+7	39:17:5	w	يَعۡبُدُوهَا	ﲏ	يعبدوها	they worship them	yaʿbudūhā
+7	39:17:6	w	وَأَنَابُوٓاْ	ﲐ	وانابوا	and turn	wa-anābū
+7	39:17:7	w	إِلَى	ﲑ	الى	to	ilā
+7	39:17:8	w	ٱللَّهِ	ﲒ	الله	Allah	l-lahi
+7	39:17:9	w	لَهُمُ	ﲓ	لهم	for them	lahumu
+7	39:17:10	w	ٱلۡبُشۡرَىٰۚ	ﲔﲕ	البشرى	(are) glad tidings	l-bush'rā
+8	39:17:11	w	فَبَشِّرۡ	ﲖ	فبشر	So give glad tidings	fabashir
+8	39:17:12	w	عِبَادِ	ﲗ	عباد	(to) My slaves	ʿibādi
+8	39:17:13	e	١٧	ﲘ			
+8	39:18:1	w	ٱلَّذِينَ	ﲙ	الذين	Those who	alladhīna
+8	39:18:2	w	يَسۡتَمِعُونَ	ﲚ	يستمعون	they listen (to)	yastamiʿūna
+8	39:18:3	w	ٱلۡقَوۡلَ	ﲛ	القول	the Word	l-qawla
+8	39:18:4	w	فَيَتَّبِعُونَ	ﲜ	فيتبعون	then follow	fayattabiʿūna
+8	39:18:5	w	أَحۡسَنَهُۥٓۚ	ﲝﲞ	احسنه	the best thereof	aḥsanahu
+9	39:18:6	w	أُوْلَٰٓئِكَ	ﲟ	اولايك	those	ulāika
+9	39:18:7	w	ٱلَّذِينَ	ﲠ	الذين	(are) they whom	alladhīna
+9	39:18:8	w	هَدَىٰهُمُ	ﲡ	هداهم	Allah has guided them	hadāhumu
+9	39:18:9	w	ٱللَّهُۖ	ﲢﲣ	الله	Allah has guided them	l-lahu
+9	39:18:10	w	وَأُوْلَٰٓئِكَ	ﲤ	واولايك	and those	wa-ulāika
+9	39:18:11	w	هُمۡ	ﲥ	هم	are [they]	hum
+9	39:18:12	w	أُوْلُواْ	ﲦ	اولو	the men of understanding	ulū
+9	39:18:13	w	ٱلۡأَلۡبَٰبِ	ﲧ	الالباب	the men of understanding	l-albābi
+9	39:18:14	e	١٨	ﲨ			
+10	39:19:1	w	أَفَمَنۡ	ﲩ	افمن	Then, is (one) who	afaman
+10	39:19:2	w	حَقَّ	ﲪ	حق	became due	ḥaqqa
+10	39:19:3	w	عَلَيۡهِ	ﲫ	عليه	on him	ʿalayhi
+10	39:19:4	w	كَلِمَةُ	ﲬ	كلمة	the word	kalimatu
+10	39:19:5	w	ٱلۡعَذَابِ	ﲭ	العذاب	(of) the punishment	l-ʿadhābi
+10	39:19:6	w	أَفَأَنتَ	ﲮ	افانت	Then can you	afa-anta
+10	39:19:7	w	تُنقِذُ	ﲯ	تنقذ	save	tunqidhu
+10	39:19:8	w	مَن	ﲰ	من	(one) who	man
+10	39:19:9	w	فِي	ﲱ	في	(is) in	fī
+10	39:19:10	w	ٱلنَّارِ	ﲲ	النار	the Fire	l-nāri
+10	39:19:11	e	١٩	ﲳ			
+11	39:20:1	w	لَٰكِنِ	ﲴ	لاكن	But	lākini
+11	39:20:2	w	ٱلَّذِينَ	ﲵ	الذين	those who	alladhīna
+11	39:20:3	w	ٱتَّقَوۡاْ	ﲶ	اتقوا	fear	ittaqaw
+11	39:20:4	w	رَبَّهُمۡ	ﲷ	ربهم	their Lord	rabbahum
+11	39:20:5	w	لَهُمۡ	ﲸ	لهم	for them	lahum
+11	39:20:6	w	غُرَفٞ	ﲹ	غرف	(are) lofty mansions	ghurafun
+11	39:20:7	w	مِّن	ﲺ	من	above them	min
+11	39:20:8	w	فَوۡقِهَا	ﲻ	فوقها	above them	fawqihā
+11	39:20:9	w	غُرَفٞ	ﲼ	غرف	lofty mansions	ghurafun
+11	39:20:10	w	مَّبۡنِيَّةٞ	ﲽ	مبنية	built high	mabniyyatun
+11	39:20:11	w	تَجۡرِي	ﲾ	تجري	flow	tajrī
+12	39:20:12	w	مِن	ﲿ	من	from	min
+12	39:20:13	w	تَحۡتِهَا	ﳀ	تحتها	beneath it	taḥtihā
+12	39:20:14	w	ٱلۡأَنۡهَٰرُۖ	ﳁﳂ	الانهار	the rivers	l-anhāru
+12	39:20:15	w	وَعۡدَ	ﳃ	وعد	(The) Promise	waʿda
+12	39:20:16	w	ٱللَّهِ	ﳄ	الله	(of) Allah	l-lahi
+12	39:20:17	w	لَا	ﳅ	لا	Not	lā
+12	39:20:18	w	يُخۡلِفُ	ﳆ	يخلف	Allah fails	yukh'lifu
+12	39:20:19	w	ٱللَّهُ	ﳇ	الله	Allah fails	l-lahu
+12	39:20:20	w	ٱلۡمِيعَادَ	ﳈ	الميعاد	(in His) promise	l-mīʿāda
+12	39:20:21	e	٢٠	ﳉ			
+12	39:21:1	w	أَلَمۡ	ﳊ	الم	Do not	alam
+12	39:21:2	w	تَرَ	ﳋ	تر	you see	tara
+13	39:21:3	w	أَنَّ	ﳌ	ان	that	anna
+13	39:21:4	w	ٱللَّهَ	ﳍ	الله	Allah	l-laha
+13	39:21:5	w	أَنزَلَ	ﳎ	انزل	sends down	anzala
+13	39:21:6	w	مِنَ	ﳏ	من	from	mina
+13	39:21:7	w	ٱلسَّمَآءِ	ﳐ	السماء	the sky	l-samāi
+13	39:21:8	w	مَآءٗ	ﳑ	ماء	water	māan
+13	39:21:9	w	فَسَلَكَهُۥ	ﳒ	فسلكه	and He makes it flow	fasalakahu
+13	39:21:10	w	يَنَٰبِيعَ	ﳓ	ينابيع	(as) springs	yanābīʿa
+13	39:21:11	w	فِي	ﳔ	في	in	fī
+13	39:21:12	w	ٱلۡأَرۡضِ	ﳕ	الارض	the earth	l-arḍi
+13	39:21:13	w	ثُمَّ	ﳖ	ثم	then	thumma
+14	39:21:14	w	يُخۡرِجُ	ﳗ	يخرج	He produces	yukh'riju
+14	39:21:15	w	بِهِۦ	ﳘ	به	with it	bihi
+14	39:21:16	w	زَرۡعٗا	ﳙ	زرعا	crops	zarʿan
+14	39:21:17	w	مُّخۡتَلِفًا	ﳚ	مختلفا	(of) different	mukh'talifan
+14	39:21:18	w	أَلۡوَٰنُهُۥ	ﳛ	الوانه	colors	alwānuhu
+14	39:21:19	w	ثُمَّ	ﳜ	ثم	then	thumma
+14	39:21:20	w	يَهِيجُ	ﳝ	يهيج	they wither	yahīju
+14	39:21:21	w	فَتَرَىٰهُ	ﳞ	فتراه	and you see it	fatarāhu
+14	39:21:22	w	مُصۡفَرّٗا	ﳟ	مصفرا	turn yellow	muṣ'farran
+14	39:21:23	w	ثُمَّ	ﳠ	ثم	then	thumma
+15	39:21:24	w	يَجۡعَلُهُۥ	ﳡ	يجعله	He makes them	yajʿaluhu
+15	39:21:25	w	حُطَٰمًاۚ	ﳢﳣ	حطاما	debris	ḥuṭāman
+15	39:21:26	w	إِنَّ	ﳤ	ان	Indeed	inna
+15	39:21:27	w	فِي	ﳥ	في	in	fī
+15	39:21:28	w	ذَٰلِكَ	ﳦ	ذالك	that	dhālika
+15	39:21:29	w	لَذِكۡرَىٰ	ﳧ	لذكرى	surely, (is) a reminder	ladhik'rā
+15	39:21:30	w	لِأُوْلِي	ﳨ	لاولي	for those of understanding	li-ulī
+15	39:21:31	w	ٱلۡأَلۡبَٰبِ	ﳩ	الالباب	for those of understanding	l-albābi
+15	39:21:32	e	٢١	ﳪ			

@@ -1,0 +1,138 @@
+1	67:27:1	w	فَلَمَّا	ﱁ	فلما	But when	falammā
+1	67:27:2	w	رَأَوۡهُ	ﱂ	راوه	they (will) see it	ra-awhu
+1	67:27:3	w	زُلۡفَةٗ	ﱃ	زلفة	approaching	zul'fatan
+1	67:27:4	w	سِيٓـَٔتۡ	ﱄ	سييت	(will be) distressed	sīat
+1	67:27:5	w	وُجُوهُ	ﱅ	وجوه	(the) faces	wujūhu
+1	67:27:6	w	ٱلَّذِينَ	ﱆ	الذين	(of) those who	alladhīna
+1	67:27:7	w	كَفَرُواْ	ﱇ	كفروا	disbelieved	kafarū
+1	67:27:8	w	وَقِيلَ	ﱈ	وقيل	and it will be said	waqīla
+1	67:27:9	w	هَٰذَا	ﱉ	هاذا	This	hādhā
+1	67:27:10	w	ٱلَّذِي	ﱊ	الذي	(is) that which	alladhī
+1	67:27:11	w	كُنتُم	ﱋ	كنتم	you used to	kuntum
+2	67:27:12	w	بِهِۦ	ﱌ	به	for it	bihi
+2	67:27:13	w	تَدَّعُونَ	ﱍ	تدعون	call	taddaʿūna
+2	67:27:14	e	٢٧	ﱎ			
+2	67:28:1	w	قُلۡ	ﱏ	قل	Say	qul
+2	67:28:2	w	أَرَءَيۡتُمۡ	ﱐ	ارايتم	Have you seen	ara-aytum
+2	67:28:3	w	إِنۡ	ﱑ	ان	if	in
+2	67:28:4	w	أَهۡلَكَنِيَ	ﱒ	اهلكني	destroys me	ahlakaniya
+2	67:28:5	w	ٱللَّهُ	ﱓ	الله	Allah	l-lahu
+2	67:28:6	w	وَمَن	ﱔ	ومن	and whoever	waman
+2	67:28:7	w	مَّعِيَ	ﱕ	معي	(is) with me	maʿiya
+2	67:28:8	w	أَوۡ	ﱖ	او	or	aw
+2	67:28:9	w	رَحِمَنَا	ﱗ	رحمنا	has mercy upon us	raḥimanā
+3	67:28:10	w	فَمَن	ﱘ	فمن	then who	faman
+3	67:28:11	w	يُجِيرُ	ﱙ	يجير	(can) protect	yujīru
+3	67:28:12	w	ٱلۡكَٰفِرِينَ	ﱚ	الكافرين	the disbelievers	l-kāfirīna
+3	67:28:13	w	مِنۡ	ﱛ	من	from	min
+3	67:28:14	w	عَذَابٍ	ﱜ	عذاب	a punishment	ʿadhābin
+3	67:28:15	w	أَلِيمٖ	ﱝ	اليم	painful	alīmin
+3	67:28:16	e	٢٨	ﱞ			
+3	67:29:1	w	قُلۡ	ﱟ	قل	Say	qul
+3	67:29:2	w	هُوَ	ﱠ	هو	He	huwa
+3	67:29:3	w	ٱلرَّحۡمَٰنُ	ﱡ	الرحمان	(is) the Most Gracious	l-raḥmānu
+4	67:29:4	w	ءَامَنَّا	ﱢ	امنا	we believe	āmannā
+4	67:29:5	w	بِهِۦ	ﱣ	به	in Him	bihi
+4	67:29:6	w	وَعَلَيۡهِ	ﱤ	وعليه	and upon Him	waʿalayhi
+4	67:29:7	w	تَوَكَّلۡنَاۖ	ﱥﱦ	توكلنا	we put (our) trust	tawakkalnā
+4	67:29:8	w	فَسَتَعۡلَمُونَ	ﱧ	فستعلمون	So you will know	fasataʿlamūna
+4	67:29:9	w	مَنۡ	ﱨ	من	who	man
+4	67:29:10	w	هُوَ	ﱩ	هو	(is) it	huwa
+4	67:29:11	w	فِي	ﱪ	في	(that is) in	fī
+4	67:29:12	w	ضَلَٰلٖ	ﱫ	ضلال	error	ḍalālin
+4	67:29:13	w	مُّبِينٖ	ﱬ	مبين	clear	mubīnin
+5	67:29:14	e	٢٩	ﱭ			
+5	67:30:1	w	قُلۡ	ﱮ	قل	Say	qul
+5	67:30:2	w	أَرَءَيۡتُمۡ	ﱯ	ارايتم	Have you seen	ara-aytum
+5	67:30:3	w	إِنۡ	ﱰ	ان	if	in
+5	67:30:4	w	أَصۡبَحَ	ﱱ	اصبح	becomes	aṣbaḥa
+5	67:30:5	w	مَآؤُكُمۡ	ﱲ	ماوكم	your water	māukum
+5	67:30:6	w	غَوۡرٗا	ﱳ	غورا	sunken	ghawran
+5	67:30:7	w	فَمَن	ﱴ	فمن	then who	faman
+5	67:30:8	w	يَأۡتِيكُم	ﱵ	ياتيكم	could bring you	yatīkum
+5	67:30:9	w	بِمَآءٖ	ﱶ	بماء	water	bimāin
+5	67:30:10	w	مَّعِينِۭ	ﱷ	معين	flowing	maʿīnin
+5	67:30:11	e	٣٠	ﱸ			
+8	68:1:1	w	نٓۚ	ﱹﱺ	ن	Nun	noon
+8	68:1:2	w	وَٱلۡقَلَمِ	ﱻ	والقلم	By the pen	wal-qalami
+8	68:1:3	w	وَمَا	ﱼ	وما	and what	wamā
+8	68:1:4	w	يَسۡطُرُونَ	ﱽ	يسطرون	they write	yasṭurūna
+8	68:1:5	e	١	ﱾ			
+8	68:2:1	w	مَآ	ﱿ	ما	Not	mā
+8	68:2:2	w	أَنتَ	ﲀ	انت	you (are)	anta
+8	68:2:3	w	بِنِعۡمَةِ	ﲁ	بنعمة	by (the) Grace	biniʿ'mati
+8	68:2:4	w	رَبِّكَ	ﲂ	ربك	(of) your Lord	rabbika
+8	68:2:5	w	بِمَجۡنُونٖ	ﲃ	بمجنون	a madman	bimajnūnin
+8	68:2:6	e	٢	ﲄ			
+8	68:3:1	w	وَإِنَّ	ﲅ	وان	And indeed	wa-inna
+9	68:3:2	w	لَكَ	ﲆ	لك	for you	laka
+9	68:3:3	w	لَأَجۡرًا	ﲇ	لاجرا	surely (is) a reward	la-ajran
+9	68:3:4	w	غَيۡرَ	ﲈ	غير	without	ghayra
+9	68:3:5	w	مَمۡنُونٖ	ﲉ	ممنون	end	mamnūnin
+9	68:3:6	e	٣	ﲊ			
+9	68:4:1	w	وَإِنَّكَ	ﲋ	وانك	And indeed, you	wa-innaka
+9	68:4:2	w	لَعَلَىٰ	ﲌ	لعلى	surely (are)	laʿalā
+9	68:4:3	w	خُلُقٍ	ﲍ	خلق	(of) a moral character	khuluqin
+9	68:4:4	w	عَظِيمٖ	ﲎ	عظيم	great	ʿaẓīmin
+9	68:4:5	e	٤	ﲏ			
+9	68:5:1	w	فَسَتُبۡصِرُ	ﲐ	فستبصر	So you will see	fasatub'ṣiru
+10	68:5:2	w	وَيُبۡصِرُونَ	ﲑ	ويبصرون	and they will see	wayub'ṣirūna
+10	68:5:3	e	٥	ﲒ			
+10	68:6:1	w	بِأَييِّكُمُ	ﲓ	باييكم	Which of you	bi-ayyikumu
+10	68:6:2	w	ٱلۡمَفۡتُونُ	ﲔ	المفتون	(is) the afflicted one	l-maftūnu
+10	68:6:3	e	٦	ﲕ			
+10	68:7:1	w	إِنَّ	ﲖ	ان	Indeed	inna
+10	68:7:2	w	رَبَّكَ	ﲗ	ربك	your Lord	rabbaka
+10	68:7:3	w	هُوَ	ﲘ	هو	He	huwa
+10	68:7:4	w	أَعۡلَمُ	ﲙ	اعلم	(is) most knowing	aʿlamu
+10	68:7:5	w	بِمَن	ﲚ	بمن	of (he) who	biman
+10	68:7:6	w	ضَلَّ	ﲛ	ضل	has strayed	ḍalla
+11	68:7:7	w	عَن	ﲜ	عن	from	ʿan
+11	68:7:8	w	سَبِيلِهِۦ	ﲝ	سبيله	His way	sabīlihi
+11	68:7:9	w	وَهُوَ	ﲞ	وهو	and He	wahuwa
+11	68:7:10	w	أَعۡلَمُ	ﲟ	اعلم	(is) most knowing	aʿlamu
+11	68:7:11	w	بِٱلۡمُهۡتَدِينَ	ﲠ	بالمهتدين	of the guided ones	bil-muh'tadīna
+11	68:7:12	e	٧	ﲡ			
+11	68:8:1	w	فَلَا	ﲢ	فلا	So (do) not	falā
+11	68:8:2	w	تُطِعِ	ﲣ	تطع	obey	tuṭiʿi
+11	68:8:3	w	ٱلۡمُكَذِّبِينَ	ﲤ	المكذبين	the deniers	l-mukadhibīna
+12	68:8:4	e	٨	ﲥ			
+12	68:9:1	w	وَدُّواْ	ﲦ	ودوا	They wish	waddū
+12	68:9:2	w	لَوۡ	ﲧ	لو	that	law
+12	68:9:3	w	تُدۡهِنُ	ﲨ	تدهن	you should compromise	tud'hinu
+12	68:9:4	w	فَيُدۡهِنُونَ	ﲩ	فيدهنون	so they would compromise	fayud'hinūna
+12	68:9:5	e	٩	ﲪ			
+12	68:10:1	w	وَلَا	ﲫ	ولا	And (do) not	walā
+12	68:10:2	w	تُطِعۡ	ﲬ	تطع	obey	tuṭiʿ
+12	68:10:3	w	كُلَّ	ﲭ	كل	every	kulla
+12	68:10:4	w	حَلَّافٖ	ﲮ	حلاف	habitual swearer	ḥallāfin
+12	68:10:5	w	مَّهِينٍ	ﲯ	مهين	worthless	mahīnin
+13	68:10:6	e	١٠	ﲰ			
+13	68:11:1	w	هَمَّازٖ	ﲱ	هماز	Defamer	hammāzin
+13	68:11:2	w	مَّشَّآءِۭ	ﲲ	مشاء	going about	mashāin
+13	68:11:3	w	بِنَمِيمٖ	ﲳ	بنميم	with malicious gossip	binamīmin
+13	68:11:4	e	١١	ﲴ			
+13	68:12:1	w	مَّنَّاعٖ	ﲵ	مناع	A preventer	mannāʿin
+13	68:12:2	w	لِّلۡخَيۡرِ	ﲶ	للخير	of (the) good	lil'khayri
+13	68:12:3	w	مُعۡتَدٍ	ﲷ	معتد	transgressor	muʿ'tadin
+13	68:12:4	w	أَثِيمٍ	ﲸ	اثيم	sinful	athīmin
+13	68:12:5	e	١٢	ﲹ			
+14	68:13:1	w	عُتُلِّۭ	ﲺ	عتل	Cruel	ʿutullin
+14	68:13:2	w	بَعۡدَ	ﲻ	بعد	after	baʿda
+14	68:13:3	w	ذَٰلِكَ	ﲼ	ذالك	(all) that	dhālika
+14	68:13:4	w	زَنِيمٍ	ﲽ	زنيم	utterly useless	zanīmin
+14	68:13:5	e	١٣	ﲾ			
+14	68:14:1	w	أَن	ﲿ	ان	Because	an
+14	68:14:2	w	كَانَ	ﳀ	كان	(he) is	kāna
+14	68:14:3	w	ذَا	ﳁ	ذا	a possessor	dhā
+14	68:14:4	w	مَالٖ	ﳂ	مال	(of) wealth	mālin
+14	68:14:5	w	وَبَنِينَ	ﳃ	وبنين	and children	wabanīna
+14	68:14:6	e	١٤	ﳄ			
+14	68:15:1	w	إِذَا	ﳅ	اذا	When	idhā
+14	68:15:2	w	تُتۡلَىٰ	ﳆ	تتلى	are recited	tut'lā
+14	68:15:3	w	عَلَيۡهِ	ﳇ	عليه	to him	ʿalayhi
+15	68:15:4	w	ءَايَٰتُنَا	ﳈ	اياتنا	Our Verses	āyātunā
+15	68:15:5	w	قَالَ	ﳉ	قال	he says	qāla
+15	68:15:6	w	أَسَٰطِيرُ	ﳊ	اساطير	Stories	asāṭīru
+15	68:15:7	w	ٱلۡأَوَّلِينَ	ﳋ	الاولين	(of) the former (people)	l-awalīna
+15	68:15:8	e	١٥	ﳌ			

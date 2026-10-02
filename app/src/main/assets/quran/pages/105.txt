@@ -1,0 +1,128 @@
+1	4:171:1	w	يَٰٓأَهۡلَ	ﱁ	يا اهل	O People	yāahla
+1	4:171:2	w	ٱلۡكِتَٰبِ	ﱂ	الكتاب	(of) the Book	l-kitābi
+1	4:171:3	w	لَا	ﱃ	لا	(Do) not	lā
+1	4:171:4	w	تَغۡلُواْ	ﱄ	تغلوا	commit excess	taghlū
+1	4:171:5	w	فِي	ﱅ	في	in	fī
+1	4:171:6	w	دِينِكُمۡ	ﱆ	دينكم	your religion	dīnikum
+1	4:171:7	w	وَلَا	ﱇ	ولا	and (do) not	walā
+1	4:171:8	w	تَقُولُواْ	ﱈ	تقولوا	say	taqūlū
+1	4:171:9	w	عَلَى	ﱉ	على	about	ʿalā
+2	4:171:10	w	ٱللَّهِ	ﱊ	الله	Allah	l-lahi
+2	4:171:11	w	إِلَّا	ﱋ	الا	except	illā
+2	4:171:12	w	ٱلۡحَقَّۚ	ﱌﱍ	الحق	the truth	l-ḥaqa
+2	4:171:13	w	إِنَّمَا	ﱎ	انما	Only	innamā
+2	4:171:14	w	ٱلۡمَسِيحُ	ﱏ	المسيح	the Messiah	l-masīḥu
+2	4:171:15	w	عِيسَى	ﱐ	عيسى	Isa	ʿīsā
+2	4:171:16	w	ٱبۡنُ	ﱑ	ابن	son	ub'nu
+2	4:171:17	w	مَرۡيَمَ	ﱒ	مريم	(of) Maryam	maryama
+2	4:171:18	w	رَسُولُ	ﱓ	رسول	(was) a Messenger	rasūlu
+2	4:171:19	w	ٱللَّهِ	ﱔ	الله	(of) Allah	l-lahi
+3	4:171:20	w	وَكَلِمَتُهُۥٓ	ﱕ	وكلمته	and His word	wakalimatuhu
+3	4:171:21	w	أَلۡقَىٰهَآ	ﱖ	القاها	which He conveyed	alqāhā
+3	4:171:22	w	إِلَىٰ	ﱗ	الى	to	ilā
+3	4:171:23	w	مَرۡيَمَ	ﱘ	مريم	Maryam	maryama
+3	4:171:24	w	وَرُوحٞ	ﱙ	وروح	and a spirit	warūḥun
+3	4:171:25	w	مِّنۡهُۖ	ﱚﱛ	منه	from Him	min'hu
+3	4:171:26	w	فَـَٔامِنُواْ	ﱜ	فامنوا	So believe	faāminū
+3	4:171:27	w	بِٱللَّهِ	ﱝ	بالله	in Allah	bil-lahi
+4	4:171:28	w	وَرُسُلِهِۦۖ	ﱞﱟ	ورسله	and His Messengers	warusulihi
+4	4:171:29	w	وَلَا	ﱠ	ولا	And (do) not	walā
+4	4:171:30	w	تَقُولُواْ	ﱡ	تقولوا	say	taqūlū
+4	4:171:31	w	ثَلَٰثَةٌۚ	ﱢﱣ	ثلاثة	Three	thalāthatun
+4	4:171:32	w	ٱنتَهُواْ	ﱤ	انتهوا	desist	intahū
+4	4:171:33	w	خَيۡرٗا	ﱥ	خيرا	(it is) better	khayran
+4	4:171:34	w	لَّكُمۡۚ	ﱦﱧ	لكم	for you	lakum
+4	4:171:35	w	إِنَّمَا	ﱨ	انما	Only	innamā
+4	4:171:36	w	ٱللَّهُ	ﱩ	الله	Allah	l-lahu
+5	4:171:37	w	إِلَٰهٞ	ﱪ	الاه	(is) God	ilāhun
+5	4:171:38	w	وَٰحِدٞۖ	ﱫﱬ	واحد	One	wāḥidun
+5	4:171:39	w	سُبۡحَٰنَهُۥٓ	ﱭ	سبحانه	Glory be to Him	sub'ḥānahu
+5	4:171:40	w	أَن	ﱮ	ان	That	an
+5	4:171:41	w	يَكُونَ	ﱯ	يكون	He (should) have	yakūna
+5	4:171:42	w	لَهُۥ	ﱰ	له	for Him	lahu
+5	4:171:43	w	وَلَدٞۘ	ﱱﱲ	ولد	a son	waladun
+5	4:171:44	w	لَّهُۥ	ﱳ	له	To Him (belongs)	lahu
+5	4:171:45	w	مَا	ﱴ	ما	whatever	mā
+5	4:171:46	w	فِي	ﱵ	في	(is) in	fī
+5	4:171:47	w	ٱلسَّمَٰوَٰتِ	ﱶ	السماوات	the heavens	l-samāwāti
+6	4:171:48	w	وَمَا	ﱷ	وما	and whatever	wamā
+6	4:171:49	w	فِي	ﱸ	في	(is) in	fī
+6	4:171:50	w	ٱلۡأَرۡضِۗ	ﱹﱺ	الارض	the earth	l-arḍi
+6	4:171:51	w	وَكَفَىٰ	ﱻ	وكفى	And is sufficient	wakafā
+6	4:171:52	w	بِٱللَّهِ	ﱼ	بالله	Allah	bil-lahi
+6	4:171:53	w	وَكِيلٗا	ﱽ	وكيلا	(as) a Disposer of affairs	wakīlan
+6	4:171:54	e	١٧١	ﱾ			
+6	4:172:1	w	لَّن	ﱿ	لن	Never	lan
+6	4:172:2	w	يَسۡتَنكِفَ	ﲀ	يستنكف	will disdain	yastankifa
+7	4:172:3	w	ٱلۡمَسِيحُ	ﲁ	المسيح	the Messiah	l-masīḥu
+7	4:172:4	w	أَن	ﲂ	ان	to	an
+7	4:172:5	w	يَكُونَ	ﲃ	يكون	be	yakūna
+7	4:172:6	w	عَبۡدٗا	ﲄ	عبدا	a slave	ʿabdan
+7	4:172:7	w	لِّلَّهِ	ﲅ	لله	of Allah	lillahi
+7	4:172:8	w	وَلَا	ﲆ	ولا	and not	walā
+7	4:172:9	w	ٱلۡمَلَٰٓئِكَةُ	ﲇ	الملايكة	the Angels	l-malāikatu
+7	4:172:10	w	ٱلۡمُقَرَّبُونَۚ	ﲈﲉ	المقربون	the ones who are near (to Allah)	l-muqarabūna
+8	4:172:11	w	وَمَن	ﲊ	ومن	And whoever	waman
+8	4:172:12	w	يَسۡتَنكِفۡ	ﲋ	يستنكف	disdains	yastankif
+8	4:172:13	w	عَنۡ	ﲌ	عن	from	ʿan
+8	4:172:14	w	عِبَادَتِهِۦ	ﲍ	عبادته	His worship	ʿibādatihi
+8	4:172:15	w	وَيَسۡتَكۡبِرۡ	ﲎ	ويستكبر	and is arrogant	wayastakbir
+8	4:172:16	w	فَسَيَحۡشُرُهُمۡ	ﲏ	فسيحشرهم	then He will gather them	fasayaḥshuruhum
+9	4:172:17	w	إِلَيۡهِ	ﲐ	اليه	towards Him	ilayhi
+9	4:172:18	w	جَمِيعٗا	ﲑ	جميعا	all together	jamīʿan
+9	4:172:19	e	١٧٢	ﲒ			
+9	4:173:1	w	فَأَمَّا	ﲓ	فاما	Then as for	fa-ammā
+9	4:173:2	w	ٱلَّذِينَ	ﲔ	الذين	those who	alladhīna
+9	4:173:3	w	ءَامَنُواْ	ﲕ	امنوا	believed	āmanū
+9	4:173:4	w	وَعَمِلُواْ	ﲖ	وعملوا	and did	waʿamilū
+9	4:173:5	w	ٱلصَّٰلِحَٰتِ	ﲗ	الصالحات	the righteous deeds	l-ṣāliḥāti
+10	4:173:6	w	فَيُوَفِّيهِمۡ	ﲘ	فيوفيهم	then He will give them in full	fayuwaffīhim
+10	4:173:7	w	أُجُورَهُمۡ	ﲙ	اجورهم	their reward	ujūrahum
+10	4:173:8	w	وَيَزِيدُهُم	ﲚ	ويزيدهم	and give them more	wayazīduhum
+10	4:173:9	w	مِّن	ﲛ	من	from	min
+10	4:173:10	w	فَضۡلِهِۦۖ	ﲜﲝ	فضله	His Bounty	faḍlihi
+10	4:173:11	w	وَأَمَّا	ﲞ	واما	And as for	wa-ammā
+10	4:173:12	w	ٱلَّذِينَ	ﲟ	الذين	those who	alladhīna
+11	4:173:13	w	ٱسۡتَنكَفُواْ	ﲠ	استنكفوا	disdained	is'tankafū
+11	4:173:14	w	وَٱسۡتَكۡبَرُواْ	ﲡ	واستكبروا	and were arrogant	wa-is'takbarū
+11	4:173:15	w	فَيُعَذِّبُهُمۡ	ﲢ	فيعذبهم	then He will punish them	fayuʿadhibuhum
+11	4:173:16	w	عَذَابًا	ﲣ	عذابا	(with) a punishment	ʿadhāban
+11	4:173:17	w	أَلِيمٗا	ﲤ	اليما	painful	alīman
+11	4:173:18	w	وَلَا	ﲥ	ولا	and not	walā
+12	4:173:19	w	يَجِدُونَ	ﲦ	يجدون	will they find	yajidūna
+12	4:173:20	w	لَهُم	ﲧ	لهم	for themselves	lahum
+12	4:173:21	w	مِّن	ﲨ	من	from	min
+12	4:173:22	w	دُونِ	ﲩ	دون	besides	dūni
+12	4:173:23	w	ٱللَّهِ	ﲪ	الله	Allah	l-lahi
+12	4:173:24	w	وَلِيّٗا	ﲫ	وليا	any protector	waliyyan
+12	4:173:25	w	وَلَا	ﲬ	ولا	and not	walā
+12	4:173:26	w	نَصِيرٗا	ﲭ	نصيرا	any helper	naṣīran
+12	4:173:27	e	١٧٣	ﲮ			
+12	4:174:1	w	يَٰٓأَيُّهَا	ﲯ	يا ايها	O	yāayyuhā
+12	4:174:2	w	ٱلنَّاسُ	ﲰ	الناس	mankind	l-nāsu
+13	4:174:3	w	قَدۡ	ﲱ	قد	Surely	qad
+13	4:174:4	w	جَآءَكُم	ﲲ	جاءكم	has come to you	jāakum
+13	4:174:5	w	بُرۡهَٰنٞ	ﲳ	برهان	a convincing proof	bur'hānun
+13	4:174:6	w	مِّن	ﲴ	من	from	min
+13	4:174:7	w	رَّبِّكُمۡ	ﲵ	ربكم	your Lord	rabbikum
+13	4:174:8	w	وَأَنزَلۡنَآ	ﲶ	وانزلنا	and We (have) sent down	wa-anzalnā
+13	4:174:9	w	إِلَيۡكُمۡ	ﲷ	اليكم	to you	ilaykum
+13	4:174:10	w	نُورٗا	ﲸ	نورا	a light	nūran
+13	4:174:11	w	مُّبِينٗا	ﲹ	مبينا	clear	mubīnan
+14	4:174:12	e	١٧٤	ﲺ			
+14	4:175:1	w	فَأَمَّا	ﲻ	فاما	So as for	fa-ammā
+14	4:175:2	w	ٱلَّذِينَ	ﲼ	الذين	those who	alladhīna
+14	4:175:3	w	ءَامَنُواْ	ﲽ	امنوا	believed	āmanū
+14	4:175:4	w	بِٱللَّهِ	ﲾ	بالله	in Allah	bil-lahi
+14	4:175:5	w	وَٱعۡتَصَمُواْ	ﲿ	واعتصموا	and held fast	wa-iʿ'taṣamū
+14	4:175:6	w	بِهِۦ	ﳀ	به	to Him	bihi
+14	4:175:7	w	فَسَيُدۡخِلُهُمۡ	ﳁ	فسيدخلهم	then He will admit them	fasayud'khiluhum
+14	4:175:8	w	فِي	ﳂ	في	in	fī
+15	4:175:9	w	رَحۡمَةٖ	ﳃ	رحمة	Mercy	raḥmatin
+15	4:175:10	w	مِّنۡهُ	ﳄ	منه	from Himself	min'hu
+15	4:175:11	w	وَفَضۡلٖ	ﳅ	وفضل	and Bounty	wafaḍlin
+15	4:175:12	w	وَيَهۡدِيهِمۡ	ﳆ	ويهديهم	and will guide them	wayahdīhim
+15	4:175:13	w	إِلَيۡهِ	ﳇ	اليه	to Himself	ilayhi
+15	4:175:14	w	صِرَٰطٗا	ﳈ	صراطا	(on) a way	ṣirāṭan
+15	4:175:15	w	مُّسۡتَقِيمٗا	ﳉ	مستقيما	straight	mus'taqīman
+15	4:175:16	e	١٧٥	ﳊ			

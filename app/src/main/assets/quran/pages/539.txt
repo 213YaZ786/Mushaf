@@ -1,0 +1,144 @@
+1	57:12:1	w	يَوۡمَ	ﱁ	يوم	(On the) Day	yawma
+1	57:12:2	w	تَرَى	ﱂ	ترى	you will see	tarā
+1	57:12:3	w	ٱلۡمُؤۡمِنِينَ	ﱃ	المومنين	the believing men	l-mu'minīna
+1	57:12:4	w	وَٱلۡمُؤۡمِنَٰتِ	ﱄ	والمومنات	and the believing women	wal-mu'mināti
+1	57:12:5	w	يَسۡعَىٰ	ﱅ	يسعى	running	yasʿā
+1	57:12:6	w	نُورُهُم	ﱆ	نورهم	their light	nūruhum
+1	57:12:7	w	بَيۡنَ	ﱇ	بين	before them	bayna
+1	57:12:8	w	أَيۡدِيهِمۡ	ﱈ	ايديهم	before them	aydīhim
+2	57:12:9	w	وَبِأَيۡمَٰنِهِمۖ	ﱉﱊ	وبايمانهم	and on their right	wabi-aymānihim
+2	57:12:10	w	بُشۡرَىٰكُمُ	ﱋ	بشراكم	Glad tidings for you	bush'rākumu
+2	57:12:11	w	ٱلۡيَوۡمَ	ﱌ	اليوم	this Day	l-yawma
+2	57:12:12	w	جَنَّٰتٞ	ﱍ	جنات	gardens	jannātun
+2	57:12:13	w	تَجۡرِي	ﱎ	تجري	flowing	tajrī
+2	57:12:14	w	مِن	ﱏ	من	from	min
+2	57:12:15	w	تَحۡتِهَا	ﱐ	تحتها	underneath it	taḥtihā
+2	57:12:16	w	ٱلۡأَنۡهَٰرُ	ﱑ	الانهار	the rivers	l-anhāru
+2	57:12:17	w	خَٰلِدِينَ	ﱒ	خالدين	abiding forever	khālidīna
+3	57:12:18	w	فِيهَاۚ	ﱓﱔ	فيها	therein	fīhā
+3	57:12:19	w	ذَٰلِكَ	ﱕ	ذالك	That	dhālika
+3	57:12:20	w	هُوَ	ﱖ	هو	[it] (is)	huwa
+3	57:12:21	w	ٱلۡفَوۡزُ	ﱗ	الفوز	the success	l-fawzu
+3	57:12:22	w	ٱلۡعَظِيمُ	ﱘ	العظيم	the great	l-ʿaẓīmu
+3	57:12:23	e	١٢	ﱙ			
+3	57:13:1	w	يَوۡمَ	ﱚ	يوم	(On the) Day	yawma
+3	57:13:2	w	يَقُولُ	ﱛ	يقول	will say	yaqūlu
+3	57:13:3	w	ٱلۡمُنَٰفِقُونَ	ﱜ	المنافقون	the hypocrite men	l-munāfiqūna
+3	57:13:4	w	وَٱلۡمُنَٰفِقَٰتُ	ﱝ	والمنافقات	and the hypocrite women	wal-munāfiqātu
+4	57:13:5	w	لِلَّذِينَ	ﱞ	للذين	to those who	lilladhīna
+4	57:13:6	w	ءَامَنُواْ	ﱟ	امنوا	believed	āmanū
+4	57:13:7	w	ٱنظُرُونَا	ﱠ	انظرونا	Wait for us	unẓurūnā
+4	57:13:8	w	نَقۡتَبِسۡ	ﱡ	نقتبس	we may acquire	naqtabis
+4	57:13:9	w	مِن	ﱢ	من	of	min
+4	57:13:10	w	نُّورِكُمۡ	ﱣ	نوركم	your light	nūrikum
+4	57:13:11	w	قِيلَ	ﱤ	قيل	It will be said	qīla
+4	57:13:12	w	ٱرۡجِعُواْ	ﱥ	ارجعوا	Go back	ir'jiʿū
+4	57:13:13	w	وَرَآءَكُمۡ	ﱦ	وراءكم	behind you	warāakum
+5	57:13:14	w	فَٱلۡتَمِسُواْ	ﱧ	فالتمسوا	and seek	fal-tamisū
+5	57:13:15	w	نُورٗاۖ	ﱨﱩ	نورا	light	nūran
+5	57:13:16	w	فَضُرِبَ	ﱪ	فضرب	Then will be put up	faḍuriba
+5	57:13:17	w	بَيۡنَهُم	ﱫ	بينهم	between them	baynahum
+5	57:13:18	w	بِسُورٖ	ﱬ	بسور	a wall	bisūrin
+5	57:13:19	w	لَّهُۥ	ﱭ	له	for it	lahu
+5	57:13:20	w	بَابُۢ	ﱮ	باب	a gate	bābun
+5	57:13:21	w	بَاطِنُهُۥ	ﱯ	باطنه	its interior	bāṭinuhu
+5	57:13:22	w	فِيهِ	ﱰ	فيه	in it	fīhi
+5	57:13:23	w	ٱلرَّحۡمَةُ	ﱱ	الرحمة	(is) mercy	l-raḥmatu
+6	57:13:24	w	وَظَٰهِرُهُۥ	ﱲ	وظاهره	but its exterior	waẓāhiruhu
+6	57:13:25	w	مِن	ﱳ	من	facing towards [it]	min
+6	57:13:26	w	قِبَلِهِ	ﱴ	قبله	facing towards [it]	qibalihi
+6	57:13:27	w	ٱلۡعَذَابُ	ﱵ	العذاب	the punishment	l-ʿadhābu
+6	57:13:28	e	١٣	ﱶ			
+6	57:14:1	w	يُنَادُونَهُمۡ	ﱷ	ينادونهم	They will call them	yunādūnahum
+6	57:14:2	w	أَلَمۡ	ﱸ	الم	Were not	alam
+6	57:14:3	w	نَكُن	ﱹ	نكن	we	nakun
+6	57:14:4	w	مَّعَكُمۡۖ	ﱺﱻ	معكم	with you	maʿakum
+6	57:14:5	w	قَالُواْ	ﱼ	قالوا	They will say	qālū
+6	57:14:6	w	بَلَىٰ	ﱽ	بلى	Yes	balā
+7	57:14:7	w	وَلَٰكِنَّكُمۡ	ﱾ	ولاكنكم	but you	walākinnakum
+7	57:14:8	w	فَتَنتُمۡ	ﱿ	فتنتم	led to temptation	fatantum
+7	57:14:9	w	أَنفُسَكُمۡ	ﲀ	انفسكم	yourselves	anfusakum
+7	57:14:10	w	وَتَرَبَّصۡتُمۡ	ﲁ	وتربصتم	and you awaited	watarabbaṣtum
+7	57:14:11	w	وَٱرۡتَبۡتُمۡ	ﲂ	وارتبتم	and you doubted	wa-ir'tabtum
+7	57:14:12	w	وَغَرَّتۡكُمُ	ﲃ	وغرتكم	and deceived you	wagharratkumu
+7	57:14:13	w	ٱلۡأَمَانِيُّ	ﲄ	الاماني	the wishful thinking	l-amāniyu
+8	57:14:14	w	حَتَّىٰ	ﲅ	حتى	until	ḥattā
+8	57:14:15	w	جَآءَ	ﲆ	جاء	came	jāa
+8	57:14:16	w	أَمۡرُ	ﲇ	امر	(the) Command	amru
+8	57:14:17	w	ٱللَّهِ	ﲈ	الله	(of) Allah	l-lahi
+8	57:14:18	w	وَغَرَّكُم	ﲉ	وغركم	And deceived you	wagharrakum
+8	57:14:19	w	بِٱللَّهِ	ﲊ	بالله	about Allah	bil-lahi
+8	57:14:20	w	ٱلۡغَرُورُ	ﲋ	الغرور	the deceiver	l-gharūru
+8	57:14:21	e	١٤	ﲌ			
+8	57:15:1	w	فَٱلۡيَوۡمَ	ﲍ	فاليوم	So today	fal-yawma
+8	57:15:2	w	لَا	ﲎ	لا	not	lā
+8	57:15:3	w	يُؤۡخَذُ	ﲏ	يوخذ	will be accepted	yu'khadhu
+8	57:15:4	w	مِنكُمۡ	ﲐ	منكم	from you	minkum
+9	57:15:5	w	فِدۡيَةٞ	ﲑ	فدية	any ransom	fid'yatun
+9	57:15:6	w	وَلَا	ﲒ	ولا	and not	walā
+9	57:15:7	w	مِنَ	ﲓ	من	from	mina
+9	57:15:8	w	ٱلَّذِينَ	ﲔ	الذين	those who	alladhīna
+9	57:15:9	w	كَفَرُواْۚ	ﲕﲖ	كفروا	disbelieved	kafarū
+9	57:15:10	w	مَأۡوَىٰكُمُ	ﲗ	ماواكم	Your abode	mawākumu
+9	57:15:11	w	ٱلنَّارُۖ	ﲘﲙ	النار	(is) the Fire	l-nāru
+9	57:15:12	w	هِيَ	ﲚ	هي	it (is)	hiya
+9	57:15:13	w	مَوۡلَىٰكُمۡۖ	ﲛﲜ	مولاكم	your protector	mawlākum
+10	57:15:14	w	وَبِئۡسَ	ﲝ	وبيس	and wretched is	wabi'sa
+10	57:15:15	w	ٱلۡمَصِيرُ	ﲞ	المصير	the destination	l-maṣīru
+10	57:15:16	e	١٥	ﲟ			
+10	57:16:1	w	۞ أَلَمۡ	ﲠ ﲡ	۞ الم	Has not	alam
+10	57:16:2	w	يَأۡنِ	ﲢ	يان	come (the) time	yani
+10	57:16:3	w	لِلَّذِينَ	ﲣ	للذين	for those who	lilladhīna
+10	57:16:4	w	ءَامَنُوٓاْ	ﲤ	امنوا	believed	āmanū
+10	57:16:5	w	أَن	ﲥ	ان	that	an
+10	57:16:6	w	تَخۡشَعَ	ﲦ	تخشع	become humble	takhshaʿa
+11	57:16:7	w	قُلُوبُهُمۡ	ﲧ	قلوبهم	their hearts	qulūbuhum
+11	57:16:8	w	لِذِكۡرِ	ﲨ	لذكر	at (the) remembrance (of) Allah	lidhik'ri
+11	57:16:9	w	ٱللَّهِ	ﲩ	الله	at (the) remembrance (of) Allah	l-lahi
+11	57:16:10	w	وَمَا	ﲪ	وما	and what	wamā
+11	57:16:11	w	نَزَلَ	ﲫ	نزل	has come down	nazala
+11	57:16:12	w	مِنَ	ﲬ	من	of	mina
+11	57:16:13	w	ٱلۡحَقِّ	ﲭ	الحق	the truth	l-ḥaqi
+11	57:16:14	w	وَلَا	ﲮ	ولا	And not	walā
+11	57:16:15	w	يَكُونُواْ	ﲯ	يكونوا	they become	yakūnū
+11	57:16:16	w	كَٱلَّذِينَ	ﲰ	كالذين	like those who	ka-alladhīna
+12	57:16:17	w	أُوتُواْ	ﲱ	اوتوا	were given	ūtū
+12	57:16:18	w	ٱلۡكِتَٰبَ	ﲲ	الكتاب	the Book	l-kitāba
+12	57:16:19	w	مِن	ﲳ	من	before	min
+12	57:16:20	w	قَبۡلُ	ﲴ	قبل	before	qablu
+12	57:16:21	w	فَطَالَ	ﲵ	فطال	(and) was prolonged	faṭāla
+12	57:16:22	w	عَلَيۡهِمُ	ﲶ	عليهم	for them	ʿalayhimu
+12	57:16:23	w	ٱلۡأَمَدُ	ﲷ	الامد	the term	l-amadu
+12	57:16:24	w	فَقَسَتۡ	ﲸ	فقست	so hardened	faqasat
+12	57:16:25	w	قُلُوبُهُمۡۖ	ﲹﲺ	قلوبهم	their hearts	qulūbuhum
+12	57:16:26	w	وَكَثِيرٞ	ﲻ	وكثير	and many	wakathīrun
+13	57:16:27	w	مِّنۡهُمۡ	ﲼ	منهم	of them	min'hum
+13	57:16:28	w	فَٰسِقُونَ	ﲽ	فاسقون	(are) defiantly disobedient	fāsiqūna
+13	57:16:29	e	١٦	ﲾ			
+13	57:17:1	w	ٱعۡلَمُوٓاْ	ﲿ	اعلموا	Know	iʿ'lamū
+13	57:17:2	w	أَنَّ	ﳀ	ان	that	anna
+13	57:17:3	w	ٱللَّهَ	ﳁ	الله	Allah	l-laha
+13	57:17:4	w	يُحۡيِ	ﳂ	يحيي	gives life	yuḥ'yī
+13	57:17:5	w	ٱلۡأَرۡضَ	ﳃ	الارض	(to) the earth	l-arḍa
+13	57:17:6	w	بَعۡدَ	ﳄ	بعد	after	baʿda
+13	57:17:7	w	مَوۡتِهَاۚ	ﳅﳆ	موتها	its death	mawtihā
+13	57:17:8	w	قَدۡ	ﳇ	قد	Indeed	qad
+13	57:17:9	w	بَيَّنَّا	ﳈ	بينا	We have made clear	bayyannā
+14	57:17:10	w	لَكُمُ	ﳉ	لكم	to you	lakumu
+14	57:17:11	w	ٱلۡأٓيَٰتِ	ﳊ	الايات	the Signs	l-āyāti
+14	57:17:12	w	لَعَلَّكُمۡ	ﳋ	لعلكم	so that you may	laʿallakum
+14	57:17:13	w	تَعۡقِلُونَ	ﳌ	تعقلون	understand	taʿqilūna
+14	57:17:14	e	١٧	ﳍ			
+14	57:18:1	w	إِنَّ	ﳎ	ان	Indeed	inna
+14	57:18:2	w	ٱلۡمُصَّدِّقِينَ	ﳏ	المصدقين	the men who give charity	l-muṣadiqīna
+14	57:18:3	w	وَٱلۡمُصَّدِّقَٰتِ	ﳐ	والمصدقات	and the women who give charity	wal-muṣadiqāti
+15	57:18:4	w	وَأَقۡرَضُواْ	ﳑ	واقرضوا	and who lend	wa-aqraḍū
+15	57:18:5	w	ٱللَّهَ	ﳒ	الله	(to) Allah	l-laha
+15	57:18:6	w	قَرۡضًا	ﳓ	قرضا	a loan	qarḍan
+15	57:18:7	w	حَسَنٗا	ﳔ	حسنا	goodly	ḥasanan
+15	57:18:8	w	يُضَٰعَفُ	ﳕ	يضاعف	it will be multiplied	yuḍāʿafu
+15	57:18:9	w	لَهُمۡ	ﳖ	لهم	for them	lahum
+15	57:18:10	w	وَلَهُمۡ	ﳗ	ولهم	and for them	walahum
+15	57:18:11	w	أَجۡرٞ	ﳘ	اجر	(is) a reward	ajrun
+15	57:18:12	w	كَرِيمٞ	ﳙ	كريم	noble	karīmun
+15	57:18:13	e	١٨	ﳚ			

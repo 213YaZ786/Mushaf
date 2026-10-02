@@ -1,0 +1,117 @@
+1	5:84:1	w	وَمَا	ﱁ	وما	And what	wamā
+1	5:84:2	w	لَنَا	ﱂ	لنا	for us (that)	lanā
+1	5:84:3	w	لَا	ﱃ	لا	not	lā
+1	5:84:4	w	نُؤۡمِنُ	ﱄ	نومن	we believe	nu'minu
+1	5:84:5	w	بِٱللَّهِ	ﱅ	بالله	in Allah	bil-lahi
+1	5:84:6	w	وَمَا	ﱆ	وما	and what	wamā
+1	5:84:7	w	جَآءَنَا	ﱇ	جاءنا	came (to) us	jāanā
+1	5:84:8	w	مِنَ	ﱈ	من	from	mina
+1	5:84:9	w	ٱلۡحَقِّ	ﱉ	الحق	the truth	l-ḥaqi
+1	5:84:10	w	وَنَطۡمَعُ	ﱊ	ونطمع	And we hope	wanaṭmaʿu
+1	5:84:11	w	أَن	ﱋ	ان	that	an
+1	5:84:12	w	يُدۡخِلَنَا	ﱌ	يدخلنا	will admit us	yud'khilanā
+2	5:84:13	w	رَبُّنَا	ﱍ	ربنا	our Lord	rabbunā
+2	5:84:14	w	مَعَ	ﱎ	مع	with	maʿa
+2	5:84:15	w	ٱلۡقَوۡمِ	ﱏ	القوم	the people	l-qawmi
+2	5:84:16	w	ٱلصَّٰلِحِينَ	ﱐ	الصالحين	the righteous	l-ṣāliḥīna
+2	5:84:17	e	٨٤	ﱑ			
+2	5:85:1	w	فَأَثَٰبَهُمُ	ﱒ	فاثابهم	So rewarded them	fa-athābahumu
+2	5:85:2	w	ٱللَّهُ	ﱓ	الله	Allah	l-lahu
+2	5:85:3	w	بِمَا	ﱔ	بما	for what	bimā
+2	5:85:4	w	قَالُواْ	ﱕ	قالوا	they said	qālū
+2	5:85:5	w	جَنَّٰتٖ	ﱖ	جنات	(with) Gardens	jannātin
+3	5:85:6	w	تَجۡرِي	ﱗ	تجري	flows	tajrī
+3	5:85:7	w	مِن	ﱘ	من	from	min
+3	5:85:8	w	تَحۡتِهَا	ﱙ	تحتها	underneath them	taḥtihā
+3	5:85:9	w	ٱلۡأَنۡهَٰرُ	ﱚ	الانهار	the rivers	l-anhāru
+3	5:85:10	w	خَٰلِدِينَ	ﱛ	خالدين	will abide forever	khālidīna
+3	5:85:11	w	فِيهَاۚ	ﱜﱝ	فيها	in it	fīhā
+3	5:85:12	w	وَذَٰلِكَ	ﱞ	وذالك	And that	wadhālika
+3	5:85:13	w	جَزَآءُ	ﱟ	جزاء	(is the) reward	jazāu
+4	5:85:14	w	ٱلۡمُحۡسِنِينَ	ﱠ	المحسنين	(of) the good-doers	l-muḥ'sinīna
+4	5:85:15	e	٨٥	ﱡ			
+4	5:86:1	w	وَٱلَّذِينَ	ﱢ	والذين	And those who	wa-alladhīna
+4	5:86:2	w	كَفَرُواْ	ﱣ	كفروا	disbelieved	kafarū
+4	5:86:3	w	وَكَذَّبُواْ	ﱤ	وكذبوا	and denied	wakadhabū
+4	5:86:4	w	بِـَٔايَٰتِنَآ	ﱥ	باياتنا	Our Signs	biāyātinā
+4	5:86:5	w	أُوْلَٰٓئِكَ	ﱦ	اولايك	those	ulāika
+5	5:86:6	w	أَصۡحَٰبُ	ﱧ	اصحاب	(are the) companions	aṣḥābu
+5	5:86:7	w	ٱلۡجَحِيمِ	ﱨ	الجحيم	(of) the Hellfire	l-jaḥīmi
+5	5:86:8	e	٨٦	ﱩ			
+5	5:87:1	w	يَٰٓأَيُّهَا	ﱪ	يا ايها	O you	yāayyuhā
+5	5:87:2	w	ٱلَّذِينَ	ﱫ	الذين	who	alladhīna
+5	5:87:3	w	ءَامَنُواْ	ﱬ	امنوا	believe	āmanū
+5	5:87:4	w	لَا	ﱭ	لا	(Do) not	lā
+5	5:87:5	w	تُحَرِّمُواْ	ﱮ	تحرموا	make unlawful	tuḥarrimū
+6	5:87:6	w	طَيِّبَٰتِ	ﱯ	طيبات	(the) good things	ṭayyibāti
+6	5:87:7	w	مَآ	ﱰ	ما	(of) what	mā
+6	5:87:8	w	أَحَلَّ	ﱱ	احل	has (been) made lawful	aḥalla
+6	5:87:9	w	ٱللَّهُ	ﱲ	الله	(by) Allah	l-lahu
+6	5:87:10	w	لَكُمۡ	ﱳ	لكم	for you	lakum
+6	5:87:11	w	وَلَا	ﱴ	ولا	and (do) not	walā
+6	5:87:12	w	تَعۡتَدُوٓاْۚ	ﱵﱶ	تعتدوا	transgress	taʿtadū
+6	5:87:13	w	إِنَّ	ﱷ	ان	Indeed	inna
+6	5:87:14	w	ٱللَّهَ	ﱸ	الله	Allah	l-laha
+6	5:87:15	w	لَا	ﱹ	لا	(does) not	lā
+6	5:87:16	w	يُحِبُّ	ﱺ	يحب	love	yuḥibbu
+7	5:87:17	w	ٱلۡمُعۡتَدِينَ	ﱻ	المعتدين	the transgressors	l-muʿ'tadīna
+7	5:87:18	e	٨٧	ﱼ			
+7	5:88:1	w	وَكُلُواْ	ﱽ	وكلوا	And eat	wakulū
+7	5:88:2	w	مِمَّا	ﱾ	مما	of what	mimmā
+7	5:88:3	w	رَزَقَكُمُ	ﱿ	رزقكم	has provided you	razaqakumu
+7	5:88:4	w	ٱللَّهُ	ﲀ	الله	Allah	l-lahu
+7	5:88:5	w	حَلَٰلٗا	ﲁ	حلالا	lawful	ḥalālan
+7	5:88:6	w	طَيِّبٗاۚ	ﲂﲃ	طيبا	good	ṭayyiban
+8	5:88:7	w	وَٱتَّقُواْ	ﲄ	واتقوا	And fear	wa-ittaqū
+8	5:88:8	w	ٱللَّهَ	ﲅ	الله	Allah	l-laha
+8	5:88:9	w	ٱلَّذِيٓ	ﲆ	الذي	the One	alladhī
+8	5:88:10	w	أَنتُم	ﲇ	انتم	you (are)	antum
+8	5:88:11	w	بِهِۦ	ﲈ	به	in Him	bihi
+8	5:88:12	w	مُؤۡمِنُونَ	ﲉ	مومنون	believers	mu'minūna
+8	5:88:13	e	٨٨	ﲊ			
+8	5:89:1	w	لَا	ﲋ	لا	Not	lā
+8	5:89:2	w	يُؤَاخِذُكُمُ	ﲌ	يواخذكم	will call you to account	yuākhidhukumu
+8	5:89:3	w	ٱللَّهُ	ﲍ	الله	Allah	l-lahu
+9	5:89:4	w	بِٱللَّغۡوِ	ﲎ	باللغو	for the thoughtless utterances	bil-laghwi
+9	5:89:5	w	فِيٓ	ﲏ	في	in	fī
+9	5:89:6	w	أَيۡمَٰنِكُمۡ	ﲐ	ايمانكم	your oaths	aymānikum
+9	5:89:7	w	وَلَٰكِن	ﲑ	ولاكن	but	walākin
+9	5:89:8	w	يُؤَاخِذُكُم	ﲒ	يواخذكم	He will call you to account	yuākhidhukum
+9	5:89:9	w	بِمَا	ﲓ	بما	for what	bimā
+9	5:89:10	w	عَقَّدتُّمُ	ﲔ	عقدتم	you contracted	ʿaqqadttumu
+9	5:89:11	w	ٱلۡأَيۡمَٰنَۖ	ﲕﲖ	الايمان	(of) the oath	l-aymāna
+10	5:89:12	w	فَكَفَّٰرَتُهُۥٓ	ﲗ	فكفارته	So its expiation	fakaffāratuhu
+10	5:89:13	w	إِطۡعَامُ	ﲘ	اطعام	(is) feeding	iṭ'ʿāmu
+10	5:89:14	w	عَشَرَةِ	ﲙ	عشرة	(of) ten	ʿasharati
+10	5:89:15	w	مَسَٰكِينَ	ﲚ	مساكين	needy people	masākīna
+10	5:89:16	w	مِنۡ	ﲛ	من	of	min
+10	5:89:17	w	أَوۡسَطِ	ﲜ	اوسط	average	awsaṭi
+10	5:89:18	w	مَا	ﲝ	ما	(of) what	mā
+10	5:89:19	w	تُطۡعِمُونَ	ﲞ	تطعمون	you feed	tuṭ'ʿimūna
+11	5:89:20	w	أَهۡلِيكُمۡ	ﲟ	اهليكم	your families	ahlīkum
+11	5:89:21	w	أَوۡ	ﲠ	او	or	aw
+11	5:89:22	w	كِسۡوَتُهُمۡ	ﲡ	كسوتهم	clothing them	kis'watuhum
+11	5:89:23	w	أَوۡ	ﲢ	او	or	aw
+11	5:89:24	w	تَحۡرِيرُ	ﲣ	تحرير	freeing	taḥrīru
+11	5:89:25	w	رَقَبَةٖۖ	ﲤﲥ	رقبة	a slave	raqabatin
+11	5:89:26	w	فَمَن	ﲦ	فمن	But whoever	faman
+11	5:89:27	w	لَّمۡ	ﲧ	لم	(does) not	lam
+11	5:89:28	w	يَجِدۡ	ﲨ	يجد	find	yajid
+11	5:89:29	w	فَصِيَامُ	ﲩ	فصيام	(that), then fasting	faṣiyāmu
+12	5:89:30	w	ثَلَٰثَةِ	ﲪ	ثلاثة	(for) three	thalāthati
+12	5:89:31	w	أَيَّامٖۚ	ﲫﲬ	ايام	days	ayyāmin
+12	5:89:32	w	ذَٰلِكَ	ﲭ	ذالك	That	dhālika
+12	5:89:33	w	كَفَّٰرَةُ	ﲮ	كفارة	(is the) expiation	kaffāratu
+12	5:89:34	w	أَيۡمَٰنِكُمۡ	ﲯ	ايمانكم	(of) your oaths	aymānikum
+12	5:89:35	w	إِذَا	ﲰ	اذا	when	idhā
+12	5:89:36	w	حَلَفۡتُمۡۚ	ﲱﲲ	حلفتم	you have sworn	ḥalaftum
+12	5:89:37	w	وَٱحۡفَظُوٓاْ	ﲳ	واحفظوا	And guard	wa-iḥ'faẓū
+13	5:89:38	w	أَيۡمَٰنَكُمۡۚ	ﲴﲵ	ايمانكم	your oaths	aymānakum
+13	5:89:39	w	كَذَٰلِكَ	ﲶ	كذالك	Thus	kadhālika
+13	5:89:40	w	يُبَيِّنُ	ﲷ	يبين	makes clear	yubayyinu
+13	5:89:41	w	ٱللَّهُ	ﲸ	الله	Allah	l-lahu
+13	5:89:42	w	لَكُمۡ	ﲹ	لكم	to you	lakum
+13	5:89:43	w	ءَايَٰتِهِۦ	ﲺ	اياته	His Verses	āyātihi
+13	5:89:44	w	لَعَلَّكُمۡ	ﲻ	لعلكم	so that you may	laʿallakum
+13	5:89:45	w	تَشۡكُرُونَ	ﲼ	تشكرون	(be) grateful	tashkurūna
+13	5:89:46	e	٨٩	ﲽ			

@@ -1,0 +1,112 @@
+1	5:14:1	w	وَمِنَ	ﱁ	ومن	And from	wamina
+1	5:14:2	w	ٱلَّذِينَ	ﱂ	الذين	those who	alladhīna
+1	5:14:3	w	قَالُوٓاْ	ﱃ	قالوا	said	qālū
+1	5:14:4	w	إِنَّا	ﱄ	انا	Indeed we	innā
+1	5:14:5	w	نَصَٰرَىٰٓ	ﱅ	نصارى	(are) Christians	naṣārā
+1	5:14:6	w	أَخَذۡنَا	ﱆ	اخذنا	We took	akhadhnā
+1	5:14:7	w	مِيثَٰقَهُمۡ	ﱇ	ميثاقهم	their covenant	mīthāqahum
+1	5:14:8	w	فَنَسُواْ	ﱈ	فنسوا	but they forgot	fanasū
+2	5:14:9	w	حَظّٗا	ﱉ	حظا	a part	ḥaẓẓan
+2	5:14:10	w	مِّمَّا	ﱊ	مما	of what	mimmā
+2	5:14:11	w	ذُكِّرُواْ	ﱋ	ذكروا	they were reminded	dhukkirū
+2	5:14:12	w	بِهِۦ	ﱌ	به	of [it]	bihi
+2	5:14:13	w	فَأَغۡرَيۡنَا	ﱍ	فاغرينا	So We aroused	fa-aghraynā
+2	5:14:14	w	بَيۡنَهُمُ	ﱎ	بينهم	between them	baynahumu
+2	5:14:15	w	ٱلۡعَدَاوَةَ	ﱏ	العداوة	[the] enmity	l-ʿadāwata
+3	5:14:16	w	وَٱلۡبَغۡضَآءَ	ﱐ	والبغضاء	and [the] hatred	wal-baghḍāa
+3	5:14:17	w	إِلَىٰ	ﱑ	الى	till	ilā
+3	5:14:18	w	يَوۡمِ	ﱒ	يوم	(the) Day	yawmi
+3	5:14:19	w	ٱلۡقِيَٰمَةِۚ	ﱓﱔ	القيامة	(of) the Resurrection	l-qiyāmati
+3	5:14:20	w	وَسَوۡفَ	ﱕ	وسوف	And soon	wasawfa
+3	5:14:21	w	يُنَبِّئُهُمُ	ﱖ	ينبيهم	will inform them	yunabbi-uhumu
+3	5:14:22	w	ٱللَّهُ	ﱗ	الله	Allah	l-lahu
+4	5:14:23	w	بِمَا	ﱘ	بما	of what	bimā
+4	5:14:24	w	كَانُواْ	ﱙ	كانوا	they used to	kānū
+4	5:14:25	w	يَصۡنَعُونَ	ﱚ	يصنعون	do	yaṣnaʿūna
+4	5:14:26	e	١٤	ﱛ			
+4	5:15:1	w	يَٰٓأَهۡلَ	ﱜ	يا اهل	O People	yāahla
+4	5:15:2	w	ٱلۡكِتَٰبِ	ﱝ	الكتاب	(of) the Book	l-kitābi
+4	5:15:3	w	قَدۡ	ﱞ	قد	Surely	qad
+5	5:15:4	w	جَآءَكُمۡ	ﱟ	جاءكم	has come to you	jāakum
+5	5:15:5	w	رَسُولُنَا	ﱠ	رسولنا	Our Messenger	rasūlunā
+5	5:15:6	w	يُبَيِّنُ	ﱡ	يبين	making clear	yubayyinu
+5	5:15:7	w	لَكُمۡ	ﱢ	لكم	to you	lakum
+5	5:15:8	w	كَثِيرٗا	ﱣ	كثيرا	much	kathīran
+5	5:15:9	w	مِّمَّا	ﱤ	مما	of what	mimmā
+6	5:15:10	w	كُنتُمۡ	ﱥ	كنتم	you used to	kuntum
+6	5:15:11	w	تُخۡفُونَ	ﱦ	تخفون	conceal	tukh'fūna
+6	5:15:12	w	مِنَ	ﱧ	من	of	mina
+6	5:15:13	w	ٱلۡكِتَٰبِ	ﱨ	الكتاب	the Scripture	l-kitābi
+6	5:15:14	w	وَيَعۡفُواْ	ﱩ	ويعفو	and overlooking	wayaʿfū
+6	5:15:15	w	عَن	ﱪ	عن	of	ʿan
+6	5:15:16	w	كَثِيرٖۚ	ﱫﱬ	كثير	much	kathīrin
+7	5:15:17	w	قَدۡ	ﱭ	قد	Surely	qad
+7	5:15:18	w	جَآءَكُم	ﱮ	جاءكم	has come to you	jāakum
+7	5:15:19	w	مِّنَ	ﱯ	من	from	mina
+7	5:15:20	w	ٱللَّهِ	ﱰ	الله	Allah	l-lahi
+7	5:15:21	w	نُورٞ	ﱱ	نور	a light	nūrun
+7	5:15:22	w	وَكِتَٰبٞ	ﱲ	وكتاب	and a Book	wakitābun
+7	5:15:23	w	مُّبِينٞ	ﱳ	مبين	clear	mubīnun
+7	5:15:24	e	١٥	ﱴ			
+8	5:16:1	w	يَهۡدِي	ﱵ	يهدي	Guides	yahdī
+8	5:16:2	w	بِهِ	ﱶ	به	with it	bihi
+8	5:16:3	w	ٱللَّهُ	ﱷ	الله	Allah	l-lahu
+8	5:16:4	w	مَنِ	ﱸ	من	(those) who	mani
+8	5:16:5	w	ٱتَّبَعَ	ﱹ	اتبع	seek	ittabaʿa
+8	5:16:6	w	رِضۡوَٰنَهُۥ	ﱺ	رضوانه	His pleasure	riḍ'wānahu
+8	5:16:7	w	سُبُلَ	ﱻ	سبل	(to the) ways	subula
+8	5:16:8	w	ٱلسَّلَٰمِ	ﱼ	السلام	(of) the peace	l-salāmi
+9	5:16:9	w	وَيُخۡرِجُهُم	ﱽ	ويخرجهم	and brings them out	wayukh'rijuhum
+9	5:16:10	w	مِّنَ	ﱾ	من	from	mina
+9	5:16:11	w	ٱلظُّلُمَٰتِ	ﱿ	الظلمات	the darknessess	l-ẓulumāti
+9	5:16:12	w	إِلَى	ﲀ	الى	to	ilā
+9	5:16:13	w	ٱلنُّورِ	ﲁ	النور	the light	l-nūri
+9	5:16:14	w	بِإِذۡنِهِۦ	ﲂ	باذنه	by His permission	bi-idh'nihi
+10	5:16:15	w	وَيَهۡدِيهِمۡ	ﲃ	ويهديهم	and guides them	wayahdīhim
+10	5:16:16	w	إِلَىٰ	ﲄ	الى	to	ilā
+10	5:16:17	w	صِرَٰطٖ	ﲅ	صراط	(the) way	ṣirāṭin
+10	5:16:18	w	مُّسۡتَقِيمٖ	ﲆ	مستقيم	(the) straight	mus'taqīmin
+10	5:16:19	e	١٦	ﲇ			
+10	5:17:1	w	لَّقَدۡ	ﲈ	لقد	Certainly	laqad
+10	5:17:2	w	كَفَرَ	ﲉ	كفر	disbelieved	kafara
+11	5:17:3	w	ٱلَّذِينَ	ﲊ	الذين	those who	alladhīna
+11	5:17:4	w	قَالُوٓاْ	ﲋ	قالوا	said	qālū
+11	5:17:5	w	إِنَّ	ﲌ	ان	Indeed	inna
+11	5:17:6	w	ٱللَّهَ	ﲍ	الله	Allah	l-laha
+11	5:17:7	w	هُوَ	ﲎ	هو	He	huwa
+11	5:17:8	w	ٱلۡمَسِيحُ	ﲏ	المسيح	(is) the Messiah	l-masīḥu
+11	5:17:9	w	ٱبۡنُ	ﲐ	ابن	son	ub'nu
+11	5:17:10	w	مَرۡيَمَۚ	ﲑﲒ	مريم	(of) Maryam	maryama
+12	5:17:11	w	قُلۡ	ﲓ	قل	Say	qul
+12	5:17:12	w	فَمَن	ﲔ	فمن	Then who	faman
+12	5:17:13	w	يَمۡلِكُ	ﲕ	يملك	has power	yamliku
+12	5:17:14	w	مِنَ	ﲖ	من	against	mina
+12	5:17:15	w	ٱللَّهِ	ﲗ	الله	Allah	l-lahi
+12	5:17:16	w	شَيۡـًٔا	ﲘ	شييا	(in) anything	shayan
+12	5:17:17	w	إِنۡ	ﲙ	ان	if	in
+12	5:17:18	w	أَرَادَ	ﲚ	اراد	He intends	arāda
+12	5:17:19	w	أَن	ﲛ	ان	to	an
+12	5:17:20	w	يُهۡلِكَ	ﲜ	يهلك	destroy	yuh'lika
+13	5:17:21	w	ٱلۡمَسِيحَ	ﲝ	المسيح	the Messiah	l-masīḥa
+13	5:17:22	w	ٱبۡنَ	ﲞ	ابن	son	ib'na
+13	5:17:23	w	مَرۡيَمَ	ﲟ	مريم	(of) Maryam	maryama
+13	5:17:24	w	وَأُمَّهُۥ	ﲠ	وامه	and his mother	wa-ummahu
+13	5:17:25	w	وَمَن	ﲡ	ومن	and whoever	waman
+13	5:17:26	w	فِي	ﲢ	في	(is) in	fī
+13	5:17:27	w	ٱلۡأَرۡضِ	ﲣ	الارض	the earth	l-arḍi
+14	5:17:28	w	جَمِيعٗاۗ	ﲤﲥ	جميعا	all	jamīʿan
+14	5:17:29	w	وَلِلَّهِ	ﲦ	ولله	And for Allah	walillahi
+14	5:17:30	w	مُلۡكُ	ﲧ	ملك	(is the) dominion	mul'ku
+14	5:17:31	w	ٱلسَّمَٰوَٰتِ	ﲨ	السماوات	(of) the heavens	l-samāwāti
+14	5:17:32	w	وَٱلۡأَرۡضِ	ﲩ	والارض	and the earth	wal-arḍi
+14	5:17:33	w	وَمَا	ﲪ	وما	and what	wamā
+14	5:17:34	w	بَيۡنَهُمَاۚ	ﲫﲬ	بينهما	(is) between both of them	baynahumā
+15	5:17:35	w	يَخۡلُقُ	ﲭ	يخلق	He creates	yakhluqu
+15	5:17:36	w	مَا	ﲮ	ما	what	mā
+15	5:17:37	w	يَشَآءُۚ	ﲯﲰ	يشاء	He wills	yashāu
+15	5:17:38	w	وَٱللَّهُ	ﲱ	والله	and Allah	wal-lahu
+15	5:17:39	w	عَلَىٰ	ﲲ	على	(is) on	ʿalā
+15	5:17:40	w	كُلِّ	ﲳ	كل	every	kulli
+15	5:17:41	w	شَيۡءٖ	ﲴ	شيء	thing	shayin
+15	5:17:42	w	قَدِيرٞ	ﲵ	قدير	All-Powerful	qadīrun
+15	5:17:43	e	١٧	ﲶ			

@@ -1,0 +1,152 @@
+1	44:19:1	w	وَأَن	ﱁ	وان	And that	wa-an
+1	44:19:2	w	لَّا	ﱂ	لا	(do) not	lā
+1	44:19:3	w	تَعۡلُواْ	ﱃ	تعلوا	exalt yourselves	taʿlū
+1	44:19:4	w	عَلَى	ﱄ	على	against	ʿalā
+1	44:19:5	w	ٱللَّهِۖ	ﱅﱆ	الله	Allah	l-lahi
+1	44:19:6	w	إِنِّيٓ	ﱇ	اني	Indeed, I	innī
+1	44:19:7	w	ءَاتِيكُم	ﱈ	اتيكم	[I] have come to you	ātīkum
+1	44:19:8	w	بِسُلۡطَٰنٖ	ﱉ	بسلطان	with an authority	bisul'ṭānin
+1	44:19:9	w	مُّبِينٖ	ﱊ	مبين	clear	mubīnin
+1	44:19:10	e	١٩	ﱋ			
+1	44:20:1	w	وَإِنِّي	ﱌ	واني	And indeed, I	wa-innī
+1	44:20:2	w	عُذۡتُ	ﱍ	عذت	[I] seek refuge	ʿudh'tu
+2	44:20:3	w	بِرَبِّي	ﱎ	بربي	with my Lord	birabbī
+2	44:20:4	w	وَرَبِّكُمۡ	ﱏ	وربكم	and your Lord	warabbikum
+2	44:20:5	w	أَن	ﱐ	ان	lest	an
+2	44:20:6	w	تَرۡجُمُونِ	ﱑ	ترجمون	you stone me	tarjumūni
+2	44:20:7	e	٢٠	ﱒ			
+2	44:21:1	w	وَإِن	ﱓ	وان	And if	wa-in
+2	44:21:2	w	لَّمۡ	ﱔ	لم	not	lam
+2	44:21:3	w	تُؤۡمِنُواْ	ﱕ	تومنوا	you believe	tu'minū
+2	44:21:4	w	لِي	ﱖ	لي	me	lī
+2	44:21:5	w	فَٱعۡتَزِلُونِ	ﱗ	فاعتزلون	then leave me alone	fa-iʿ'tazilūni
+2	44:21:6	e	٢١	ﱘ			
+3	44:22:1	w	فَدَعَا	ﱙ	فدعا	So he called	fadaʿā
+3	44:22:2	w	رَبَّهُۥٓ	ﱚ	ربه	his Lord	rabbahu
+3	44:22:3	w	أَنَّ	ﱛ	ان	That	anna
+3	44:22:4	w	هَٰٓؤُلَآءِ	ﱜ	هاولاء	these	hāulāi
+3	44:22:5	w	قَوۡمٞ	ﱝ	قوم	(are) a people	qawmun
+3	44:22:6	w	مُّجۡرِمُونَ	ﱞ	مجرمون	criminals	muj'rimūna
+3	44:22:7	e	٢٢	ﱟ			
+3	44:23:1	w	فَأَسۡرِ	ﱠ	فاسر	Then "Set out	fa-asri
+3	44:23:2	w	بِعِبَادِي	ﱡ	بعبادي	with My slaves	biʿibādī
+3	44:23:3	w	لَيۡلًا	ﱢ	ليلا	(by) night	laylan
+3	44:23:4	w	إِنَّكُم	ﱣ	انكم	Indeed, you	innakum
+4	44:23:5	w	مُّتَّبَعُونَ	ﱤ	متبعون	(will be) followed	muttabaʿūna
+4	44:23:6	e	٢٣	ﱥ			
+4	44:24:1	w	وَٱتۡرُكِ	ﱦ	واترك	And leave	wa-ut'ruki
+4	44:24:2	w	ٱلۡبَحۡرَ	ﱧ	البحر	the sea	l-baḥra
+4	44:24:3	w	رَهۡوًاۖ	ﱨﱩ	رهوا	at rest	rahwan
+4	44:24:4	w	إِنَّهُمۡ	ﱪ	انهم	Indeed, they	innahum
+4	44:24:5	w	جُندٞ	ﱫ	جند	(are) an army	jundun
+4	44:24:6	w	مُّغۡرَقُونَ	ﱬ	مغرقون	(to be) drowned	mugh'raqūna
+4	44:24:7	e	٢٤	ﱭ			
+4	44:25:1	w	كَمۡ	ﱮ	كم	How many	kam
+5	44:25:2	w	تَرَكُواْ	ﱯ	تركوا	(did) they leave	tarakū
+5	44:25:3	w	مِن	ﱰ	من	of	min
+5	44:25:4	w	جَنَّٰتٖ	ﱱ	جنات	gardens	jannātin
+5	44:25:5	w	وَعُيُونٖ	ﱲ	وعيون	and springs	waʿuyūnin
+5	44:25:6	e	٢٥	ﱳ			
+5	44:26:1	w	وَزُرُوعٖ	ﱴ	وزروع	And cornfields	wazurūʿin
+5	44:26:2	w	وَمَقَامٖ	ﱵ	ومقام	and places	wamaqāmin
+5	44:26:3	w	كَرِيمٖ	ﱶ	كريم	noble	karīmin
+5	44:26:4	e	٢٦	ﱷ			
+5	44:27:1	w	وَنَعۡمَةٖ	ﱸ	ونعمة	And pleasant things	wanaʿmatin
+6	44:27:2	w	كَانُواْ	ﱹ	كانوا	they used to	kānū
+6	44:27:3	w	فِيهَا	ﱺ	فيها	therein	fīhā
+6	44:27:4	w	فَٰكِهِينَ	ﱻ	فاكهين	take delight	fākihīna
+6	44:27:5	e	٢٧	ﱼ			
+6	44:28:1	w	كَذَٰلِكَۖ	ﱽﱾ	كذالك	Thus	kadhālika
+6	44:28:2	w	وَأَوۡرَثۡنَٰهَا	ﱿ	واورثناها	And We made it (an) inherit(ance)	wa-awrathnāhā
+6	44:28:3	w	قَوۡمًا	ﲀ	قوما	(for) a people	qawman
+6	44:28:4	w	ءَاخَرِينَ	ﲁ	اخرين	another	ākharīna
+6	44:28:5	e	٢٨	ﲂ			
+6	44:29:1	w	فَمَا	ﲃ	فما	And not	famā
+7	44:29:2	w	بَكَتۡ	ﲄ	بكت	wept	bakat
+7	44:29:3	w	عَلَيۡهِمُ	ﲅ	عليهم	for them	ʿalayhimu
+7	44:29:4	w	ٱلسَّمَآءُ	ﲆ	السماء	the heaven	l-samāu
+7	44:29:5	w	وَٱلۡأَرۡضُ	ﲇ	والارض	and the earth	wal-arḍu
+7	44:29:6	w	وَمَا	ﲈ	وما	and not	wamā
+7	44:29:7	w	كَانُواْ	ﲉ	كانوا	they were	kānū
+7	44:29:8	w	مُنظَرِينَ	ﲊ	منظرين	given respite	munẓarīna
+7	44:29:9	e	٢٩	ﲋ			
+7	44:30:1	w	وَلَقَدۡ	ﲌ	ولقد	And certainly	walaqad
+8	44:30:2	w	نَجَّيۡنَا	ﲍ	نجينا	We saved	najjaynā
+8	44:30:3	w	بَنِيٓ	ﲎ	بني	(the) Children of Israel	banī
+8	44:30:4	w	إِسۡرَٰٓءِيلَ	ﲏ	اسراييل	(the) Children of Israel	is'rāīla
+8	44:30:5	w	مِنَ	ﲐ	من	from	mina
+8	44:30:6	w	ٱلۡعَذَابِ	ﲑ	العذاب	the punishment	l-ʿadhābi
+8	44:30:7	w	ٱلۡمُهِينِ	ﲒ	المهين	the humiliating	l-muhīni
+8	44:30:8	e	٣٠	ﲓ			
+8	44:31:1	w	مِن	ﲔ	من	From	min
+8	44:31:2	w	فِرۡعَوۡنَۚ	ﲕﲖ	فرعون	Firaun	fir'ʿawna
+8	44:31:3	w	إِنَّهُۥ	ﲗ	انه	Indeed, he	innahu
+9	44:31:4	w	كَانَ	ﲘ	كان	was	kāna
+9	44:31:5	w	عَالِيٗا	ﲙ	عاليا	arrogant	ʿāliyan
+9	44:31:6	w	مِّنَ	ﲚ	من	among	mina
+9	44:31:7	w	ٱلۡمُسۡرِفِينَ	ﲛ	المسرفين	the transgressors	l-mus'rifīna
+9	44:31:8	e	٣١	ﲜ			
+9	44:32:1	w	وَلَقَدِ	ﲝ	ولقد	And certainly	walaqadi
+9	44:32:2	w	ٱخۡتَرۡنَٰهُمۡ	ﲞ	اخترناهم	We chose them	ikh'tarnāhum
+9	44:32:3	w	عَلَىٰ	ﲟ	على	by	ʿalā
+9	44:32:4	w	عِلۡمٍ	ﲠ	علم	knowledge	ʿil'min
+9	44:32:5	w	عَلَى	ﲡ	على	over	ʿalā
+10	44:32:6	w	ٱلۡعَٰلَمِينَ	ﲢ	العالمين	the worlds	l-ʿālamīna
+10	44:32:7	e	٣٢	ﲣ			
+10	44:33:1	w	وَءَاتَيۡنَٰهُم	ﲤ	واتيناهم	And We gave them	waātaynāhum
+10	44:33:2	w	مِّنَ	ﲥ	من	of	mina
+10	44:33:3	w	ٱلۡأٓيَٰتِ	ﲦ	الايات	the Signs	l-āyāti
+10	44:33:4	w	مَا	ﲧ	ما	that	mā
+10	44:33:5	w	فِيهِ	ﲨ	فيه	in it	fīhi
+10	44:33:6	w	بَلَٰٓؤٞاْ	ﲩ	بلاء	(was) a trial	balāon
+10	44:33:7	w	مُّبِينٌ	ﲪ	مبين	clear	mubīnun
+10	44:33:8	e	٣٣	ﲫ			
+11	44:34:1	w	إِنَّ	ﲬ	ان	Indeed	inna
+11	44:34:2	w	هَٰٓؤُلَآءِ	ﲭ	هاولاء	these	hāulāi
+11	44:34:3	w	لَيَقُولُونَ	ﲮ	ليقولون	surely, they say	layaqūlūna
+11	44:34:4	e	٣٤	ﲯ			
+11	44:35:1	w	إِنۡ	ﲰ	ان	Not	in
+11	44:35:2	w	هِيَ	ﲱ	هي	it	hiya
+11	44:35:3	w	إِلَّا	ﲲ	الا	(is) but	illā
+11	44:35:4	w	مَوۡتَتُنَا	ﲳ	موتتنا	our death	mawtatunā
+11	44:35:5	w	ٱلۡأُولَىٰ	ﲴ	الاولى	the first	l-ūlā
+11	44:35:6	w	وَمَا	ﲵ	وما	and not	wamā
+11	44:35:7	w	نَحۡنُ	ﲶ	نحن	we	naḥnu
+12	44:35:8	w	بِمُنشَرِينَ	ﲷ	بمنشرين	(will be) raised again	bimunsharīna
+12	44:35:9	e	٣٥	ﲸ			
+12	44:36:1	w	فَأۡتُواْ	ﲹ	فاتوا	Then bring	fatū
+12	44:36:2	w	بِـَٔابَآئِنَآ	ﲺ	باباينا	our forefathers	biābāinā
+12	44:36:3	w	إِن	ﲻ	ان	if	in
+12	44:36:4	w	كُنتُمۡ	ﲼ	كنتم	you are	kuntum
+12	44:36:5	w	صَٰدِقِينَ	ﲽ	صادقين	truthful	ṣādiqīna
+12	44:36:6	e	٣٦	ﲾ			
+12	44:37:1	w	أَهُمۡ	ﲿ	اهم	Are they	ahum
+13	44:37:2	w	خَيۡرٌ	ﳀ	خير	better	khayrun
+13	44:37:3	w	أَمۡ	ﳁ	ام	or	am
+13	44:37:4	w	قَوۡمُ	ﳂ	قوم	(the) people	qawmu
+13	44:37:5	w	تُبَّعٖ	ﳃ	تبع	(of) Tubba	tubbaʿin
+13	44:37:6	w	وَٱلَّذِينَ	ﳄ	والذين	and those	wa-alladhīna
+13	44:37:7	w	مِن	ﳅ	من	before them	min
+13	44:37:8	w	قَبۡلِهِمۡ	ﳆ	قبلهم	before them	qablihim
+13	44:37:9	w	أَهۡلَكۡنَٰهُمۡۚ	ﳇﳈ	اهلكناهم	We destroyed them	ahlaknāhum
+13	44:37:10	w	إِنَّهُمۡ	ﳉ	انهم	indeed, they	innahum
+13	44:37:11	w	كَانُواْ	ﳊ	كانوا	were	kānū
+14	44:37:12	w	مُجۡرِمِينَ	ﳋ	مجرمين	criminals	muj'rimīna
+14	44:37:13	e	٣٧	ﳌ			
+14	44:38:1	w	وَمَا	ﳍ	وما	And not	wamā
+14	44:38:2	w	خَلَقۡنَا	ﳎ	خلقنا	We created	khalaqnā
+14	44:38:3	w	ٱلسَّمَٰوَٰتِ	ﳏ	السماوات	the heavens	l-samāwāti
+14	44:38:4	w	وَٱلۡأَرۡضَ	ﳐ	والارض	and the earth	wal-arḍa
+14	44:38:5	w	وَمَا	ﳑ	وما	and whatever	wamā
+14	44:38:6	w	بَيۡنَهُمَا	ﳒ	بينهما	(is) between them	baynahumā
+14	44:38:7	w	لَٰعِبِينَ	ﳓ	لاعبين	(in) play	lāʿibīna
+15	44:38:8	e	٣٨	ﳔ			
+15	44:39:1	w	مَا	ﳕ	ما	Not	mā
+15	44:39:2	w	خَلَقۡنَٰهُمَآ	ﳖ	خلقناهما	We created both of them	khalaqnāhumā
+15	44:39:3	w	إِلَّا	ﳗ	الا	but	illā
+15	44:39:4	w	بِٱلۡحَقِّ	ﳘ	بالحق	in [the] truth	bil-ḥaqi
+15	44:39:5	w	وَلَٰكِنَّ	ﳙ	ولاكن	but	walākinna
+15	44:39:6	w	أَكۡثَرَهُمۡ	ﳚ	اكثرهم	most of them	aktharahum
+15	44:39:7	w	لَا	ﳛ	لا	(do) not	lā
+15	44:39:8	w	يَعۡلَمُونَ	ﳜ	يعلمون	know	yaʿlamūna
+15	44:39:9	e	٣٩	ﳝ			

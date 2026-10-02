@@ -1,0 +1,167 @@
+2	80:1:1	w	عَبَسَ	ﱁ	عبس	He frowned	ʿabasa
+2	80:1:2	w	وَتَوَلَّىٰٓ	ﱂ	وتولى	and turned away	watawallā
+2	80:1:3	e	١	ﱃ			
+2	80:2:1	w	أَن	ﱄ	ان	Because	an
+2	80:2:2	w	جَآءَهُ	ﱅ	جاءه	came to him	jāahu
+2	80:2:3	w	ٱلۡأَعۡمَىٰ	ﱆ	الاعمى	the blind man	l-aʿmā
+2	80:2:4	e	٢	ﱇ			
+2	80:3:1	w	وَمَا	ﱈ	وما	But what	wamā
+2	80:3:2	w	يُدۡرِيكَ	ﱉ	يدريك	would make you know	yud'rīka
+2	80:3:3	w	لَعَلَّهُۥ	ﱊ	لعله	that he might	laʿallahu
+2	80:3:4	w	يَزَّكَّىٰٓ	ﱋ	يزكى	purify himself	yazzakkā
+2	80:3:5	e	٣	ﱌ			
+3	80:4:1	w	أَوۡ	ﱍ	او	Or	aw
+3	80:4:2	w	يَذَّكَّرُ	ﱎ	يذكر	be reminded	yadhakkaru
+3	80:4:3	w	فَتَنفَعَهُ	ﱏ	فتنفعه	so would benefit him	fatanfaʿahu
+3	80:4:4	w	ٱلذِّكۡرَىٰٓ	ﱐ	الذكرى	the reminder	l-dhik'rā
+3	80:4:5	e	٤	ﱑ			
+3	80:5:1	w	أَمَّا	ﱒ	اما	As for	ammā
+3	80:5:2	w	مَنِ	ﱓ	من	(him) who	mani
+3	80:5:3	w	ٱسۡتَغۡنَىٰ	ﱔ	استغنى	considers himself free from need	is'taghnā
+3	80:5:4	e	٥	ﱕ			
+3	80:6:1	w	فَأَنتَ	ﱖ	فانت	So you	fa-anta
+3	80:6:2	w	لَهُۥ	ﱗ	له	to him	lahu
+3	80:6:3	w	تَصَدَّىٰ	ﱘ	تصدى	give attention	taṣaddā
+4	80:6:4	e	٦	ﱙ			
+4	80:7:1	w	وَمَا	ﱚ	وما	And not	wamā
+4	80:7:2	w	عَلَيۡكَ	ﱛ	عليك	upon you	ʿalayka
+4	80:7:3	w	أَلَّا	ﱜ	الا	that not	allā
+4	80:7:4	w	يَزَّكَّىٰ	ﱝ	يزكى	he purifies himself	yazzakkā
+4	80:7:5	e	٧	ﱞ			
+4	80:8:1	w	وَأَمَّا	ﱟ	واما	But as for	wa-ammā
+4	80:8:2	w	مَن	ﱠ	من	(he) who	man
+4	80:8:3	w	جَآءَكَ	ﱡ	جاءك	came to you	jāaka
+4	80:8:4	w	يَسۡعَىٰ	ﱢ	يسعى	striving	yasʿā
+4	80:8:5	e	٨	ﱣ			
+4	80:9:1	w	وَهُوَ	ﱤ	وهو	While he	wahuwa
+4	80:9:2	w	يَخۡشَىٰ	ﱥ	يخشى	fears	yakhshā
+4	80:9:3	e	٩	ﱦ			
+5	80:10:1	w	فَأَنتَ	ﱧ	فانت	But you	fa-anta
+5	80:10:2	w	عَنۡهُ	ﱨ	عنه	from him	ʿanhu
+5	80:10:3	w	تَلَهَّىٰ	ﱩ	تلهى	(are) distracted	talahhā
+5	80:10:4	e	١٠	ﱪ			
+5	80:11:1	w	كـَلَّآ	ﱫ	كلا	Nay	kallā
+5	80:11:2	w	إِنَّهَا	ﱬ	انها	Indeed, it	innahā
+5	80:11:3	w	تَذۡكِرَةٞ	ﱭ	تذكرة	(is) a reminder	tadhkiratun
+5	80:11:4	e	١١	ﱮ			
+5	80:12:1	w	فَمَن	ﱯ	فمن	So whosoever	faman
+5	80:12:2	w	شَآءَ	ﱰ	شاء	wills	shāa
+5	80:12:3	w	ذَكَرَهُۥ	ﱱ	ذكره	may remember it	dhakarahu
+5	80:12:4	e	١٢	ﱲ			
+5	80:13:1	w	فِي	ﱳ	في	In	fī
+5	80:13:2	w	صُحُفٖ	ﱴ	صحف	sheets	ṣuḥufin
+6	80:13:3	w	مُّكَرَّمَةٖ	ﱵ	مكرمة	honored	mukarramatin
+6	80:13:4	e	١٣	ﱶ			
+6	80:14:1	w	مَّرۡفُوعَةٖ	ﱷ	مرفوعة	Exalted	marfūʿatin
+6	80:14:2	w	مُّطَهَّرَةِۭ	ﱸ	مطهرة	purified	muṭahharatin
+6	80:14:3	e	١٤	ﱹ			
+6	80:15:1	w	بِأَيۡدِي	ﱺ	بايدي	In (the) hands	bi-aydī
+6	80:15:2	w	سَفَرَةٖ	ﱻ	سفرة	(of) scribes	safaratin
+6	80:15:3	e	١٥	ﱼ			
+6	80:16:1	w	كِرَامِۭ	ﱽ	كرام	Noble	kirāmin
+6	80:16:2	w	بَرَرَةٖ	ﱾ	بررة	dutiful	bararatin
+6	80:16:3	e	١٦	ﱿ			
+7	80:17:1	w	قُتِلَ	ﲀ	قتل	Is destroyed	qutila
+7	80:17:2	w	ٱلۡإِنسَٰنُ	ﲁ	الانسان	[the] man	l-insānu
+7	80:17:3	w	مَآ	ﲂ	ما	how	mā
+7	80:17:4	w	أَكۡفَرَهُۥ	ﲃ	اكفره	ungrateful is he	akfarahu
+7	80:17:5	e	١٧	ﲄ			
+7	80:18:1	w	مِنۡ	ﲅ	من	From	min
+7	80:18:2	w	أَيِّ	ﲆ	اي	what	ayyi
+7	80:18:3	w	شَيۡءٍ	ﲇ	شيء	thing	shayin
+7	80:18:4	w	خَلَقَهُۥ	ﲈ	خلقه	He created him	khalaqahu
+7	80:18:5	e	١٨	ﲉ			
+7	80:19:1	w	مِن	ﲊ	من	From	min
+7	80:19:2	w	نُّطۡفَةٍ	ﲋ	نطفة	a semen-drop	nuṭ'fatin
+8	80:19:3	w	خَلَقَهُۥ	ﲌ	خلقه	He created him	khalaqahu
+8	80:19:4	w	فَقَدَّرَهُۥ	ﲍ	فقدره	then He proportioned him	faqaddarahu
+8	80:19:5	e	١٩	ﲎ			
+8	80:20:1	w	ثُمَّ	ﲏ	ثم	Then	thumma
+8	80:20:2	w	ٱلسَّبِيلَ	ﲐ	السبيل	the way	l-sabīla
+8	80:20:3	w	يَسَّرَهُۥ	ﲑ	يسره	He made easy for him	yassarahu
+8	80:20:4	e	٢٠	ﲒ			
+8	80:21:1	w	ثُمَّ	ﲓ	ثم	Then	thumma
+8	80:21:2	w	أَمَاتَهُۥ	ﲔ	اماته	He causes him to die	amātahu
+8	80:21:3	w	فَأَقۡبَرَهُۥ	ﲕ	فاقبره	and provides a grave for him	fa-aqbarahu
+8	80:21:4	e	٢١	ﲖ			
+8	80:22:1	w	ثُمَّ	ﲗ	ثم	Then	thumma
+8	80:22:2	w	إِذَا	ﲘ	اذا	when	idhā
+9	80:22:3	w	شَآءَ	ﲙ	شاء	He wills	shāa
+9	80:22:4	w	أَنشَرَهُۥ	ﲚ	انشره	He will resurrect him	ansharahu
+9	80:22:5	e	٢٢	ﲛ			
+9	80:23:1	w	كـَلَّا	ﲜ	كلا	Nay	kallā
+9	80:23:2	w	لَمَّا	ﲝ	لما	Not	lammā
+9	80:23:3	w	يَقۡضِ	ﲞ	يقض	he has accomplished	yaqḍi
+9	80:23:4	w	مَآ	ﲟ	ما	what	mā
+9	80:23:5	w	أَمَرَهُۥ	ﲠ	امره	He commanded him	amarahu
+9	80:23:6	e	٢٣	ﲡ			
+9	80:24:1	w	فَلۡيَنظُرِ	ﲢ	فلينظر	Then let look	falyanẓuri
+9	80:24:2	w	ٱلۡإِنسَٰنُ	ﲣ	الانسان	the man	l-insānu
+9	80:24:3	w	إِلَىٰ	ﲤ	الى	at	ilā
+9	80:24:4	w	طَعَامِهِۦٓ	ﲥ	طعامه	his food	ṭaʿāmihi
+10	80:24:5	e	٢٤	ﲦ			
+10	80:25:1	w	أَنَّا	ﲧ	انا	That [We]	annā
+10	80:25:2	w	صَبَبۡنَا	ﲨ	صببنا	[We] poured	ṣababnā
+10	80:25:3	w	ٱلۡمَآءَ	ﲩ	الماء	the water	l-māa
+10	80:25:4	w	صَبّٗا	ﲪ	صبا	(in) abundance	ṣabban
+10	80:25:5	e	٢٥	ﲫ			
+10	80:26:1	w	ثُمَّ	ﲬ	ثم	Then	thumma
+10	80:26:2	w	شَقَقۡنَا	ﲭ	شققنا	We cleaved	shaqaqnā
+10	80:26:3	w	ٱلۡأَرۡضَ	ﲮ	الارض	the earth	l-arḍa
+10	80:26:4	w	شَقّٗا	ﲯ	شقا	splitting	shaqqan
+10	80:26:5	e	٢٦	ﲰ			
+10	80:27:1	w	فَأَنۢبَتۡنَا	ﲱ	فانبتنا	Then We caused to grow	fa-anbatnā
+10	80:27:2	w	فِيهَا	ﲲ	فيها	therein	fīhā
+11	80:27:3	w	حَبّٗا	ﲳ	حبا	grain	ḥabban
+11	80:27:4	e	٢٧	ﲴ			
+11	80:28:1	w	وَعِنَبٗا	ﲵ	وعنبا	And grapes	waʿinaban
+11	80:28:2	w	وَقَضۡبٗا	ﲶ	وقضبا	and green fodder	waqaḍban
+11	80:28:3	e	٢٨	ﲷ			
+11	80:29:1	w	وَزَيۡتُونٗا	ﲸ	وزيتونا	And olive	wazaytūnan
+11	80:29:2	w	وَنَخۡلٗا	ﲹ	ونخلا	and date-palms	wanakhlan
+11	80:29:3	e	٢٩	ﲺ			
+11	80:30:1	w	وَحَدَآئِقَ	ﲻ	وحدايق	And gardens	waḥadāiqa
+11	80:30:2	w	غُلۡبٗا	ﲼ	غلبا	(of) thick foliage	ghul'ban
+11	80:30:3	e	٣٠	ﲽ			
+11	80:31:1	w	وَفَٰكِهَةٗ	ﲾ	وفاكهة	And fruits	wafākihatan
+12	80:31:2	w	وَأَبّٗا	ﲿ	وابا	and grass	wa-abban
+12	80:31:3	e	٣١	ﳀ			
+12	80:32:1	w	مَّتَٰعٗا	ﳁ	متاعا	(As) a provision	matāʿan
+12	80:32:2	w	لَّكُمۡ	ﳂ	لكم	for you	lakum
+12	80:32:3	w	وَلِأَنۡعَٰمِكُمۡ	ﳃ	ولانعامكم	and for your cattle	wali-anʿāmikum
+12	80:32:4	e	٣٢	ﳄ			
+12	80:33:1	w	فَإِذَا	ﳅ	فاذا	But when	fa-idhā
+12	80:33:2	w	جَآءَتِ	ﳆ	جاءت	comes	jāati
+12	80:33:3	w	ٱلصَّآخَّةُ	ﳇ	الصاخة	the Deafening Blast	l-ṣākhatu
+12	80:33:4	e	٣٣	ﳈ			
+12	80:34:1	w	يَوۡمَ	ﳉ	يوم	(The) Day	yawma
+12	80:34:2	w	يَفِرُّ	ﳊ	يفر	will flee	yafirru
+13	80:34:3	w	ٱلۡمَرۡءُ	ﳋ	المرء	a man	l-maru
+13	80:34:4	w	مِنۡ	ﳌ	من	from	min
+13	80:34:5	w	أَخِيهِ	ﳍ	اخيه	his brother	akhīhi
+13	80:34:6	e	٣٤	ﳎ			
+13	80:35:1	w	وَأُمِّهِۦ	ﳏ	وامه	And his mother	wa-ummihi
+13	80:35:2	w	وَأَبِيهِ	ﳐ	وابيه	and his father	wa-abīhi
+13	80:35:3	e	٣٥	ﳑ			
+13	80:36:1	w	وَصَٰحِبَتِهِۦ	ﳒ	وصاحبته	And his wife	waṣāḥibatihi
+13	80:36:2	w	وَبَنِيهِ	ﳓ	وبنيه	and his children	wabanīhi
+13	80:36:3	e	٣٦	ﳔ			
+13	80:37:1	w	لِكُلِّ	ﳕ	لكل	For every	likulli
+14	80:37:2	w	ٱمۡرِيٕٖ	ﳖ	امري	man	im'ri-in
+14	80:37:3	w	مِّنۡهُمۡ	ﳗ	منهم	among them	min'hum
+14	80:37:4	w	يَوۡمَئِذٖ	ﳘ	يوميذ	that Day	yawma-idhin
+14	80:37:5	w	شَأۡنٞ	ﳙ	شان	(will be) a matter	shanun
+14	80:37:6	w	يُغۡنِيهِ	ﳚ	يغنيه	occupying him	yugh'nīhi
+14	80:37:7	e	٣٧	ﳛ			
+14	80:38:1	w	وُجُوهٞ	ﳜ	وجوه	Faces	wujūhun
+14	80:38:2	w	يَوۡمَئِذٖ	ﳝ	يوميذ	that Day	yawma-idhin
+14	80:38:3	w	مُّسۡفِرَةٞ	ﳞ	مسفرة	(will be) bright	mus'firatun
+15	80:38:4	e	٣٨	ﳟ			
+15	80:39:1	w	ضَاحِكَةٞ	ﳠ	ضاحكة	Laughing	ḍāḥikatun
+15	80:39:2	w	مُّسۡتَبۡشِرَةٞ	ﳡ	مستبشرة	rejoicing at good news	mus'tabshiratun
+15	80:39:3	e	٣٩	ﳢ			
+15	80:40:1	w	وَوُجُوهٞ	ﳣ	ووجوه	And faces	wawujūhun
+15	80:40:2	w	يَوۡمَئِذٍ	ﳤ	يوميذ	that Day	yawma-idhin
+15	80:40:3	w	عَلَيۡهَا	ﳥ	عليها	upon them	ʿalayhā
+15	80:40:4	w	غَبَرَةٞ	ﳦ	غبرة	(will be) dust	ghabaratun
+15	80:40:5	e	٤٠	ﳧ			

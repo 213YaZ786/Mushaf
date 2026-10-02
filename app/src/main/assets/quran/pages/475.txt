@@ -1,0 +1,141 @@
+1	40:67:1	w	هُوَ	ﱁ	هو	He	huwa
+1	40:67:2	w	ٱلَّذِي	ﱂ	الذي	(is) the One Who	alladhī
+1	40:67:3	w	خَلَقَكُم	ﱃ	خلقكم	created you	khalaqakum
+1	40:67:4	w	مِّن	ﱄ	من	from	min
+1	40:67:5	w	تُرَابٖ	ﱅ	تراب	dust	turābin
+1	40:67:6	w	ثُمَّ	ﱆ	ثم	then	thumma
+1	40:67:7	w	مِن	ﱇ	من	from	min
+1	40:67:8	w	نُّطۡفَةٖ	ﱈ	نطفة	a semen-drop	nuṭ'fatin
+1	40:67:9	w	ثُمَّ	ﱉ	ثم	then	thumma
+1	40:67:10	w	مِنۡ	ﱊ	من	from	min
+1	40:67:11	w	عَلَقَةٖ	ﱋ	علقة	a clinging substance	ʿalaqatin
+1	40:67:12	w	ثُمَّ	ﱌ	ثم	then	thumma
+2	40:67:13	w	يُخۡرِجُكُمۡ	ﱍ	يخرجكم	He brings you out	yukh'rijukum
+2	40:67:14	w	طِفۡلٗا	ﱎ	طفلا	(as) a child	ṭif'lan
+2	40:67:15	w	ثُمَّ	ﱏ	ثم	then	thumma
+2	40:67:16	w	لِتَبۡلُغُوٓاْ	ﱐ	لتبلغوا	lets you reach	litablughū
+2	40:67:17	w	أَشُدَّكُمۡ	ﱑ	اشدكم	your maturity	ashuddakum
+2	40:67:18	w	ثُمَّ	ﱒ	ثم	then	thumma
+2	40:67:19	w	لِتَكُونُواْ	ﱓ	لتكونوا	lets you become	litakūnū
+2	40:67:20	w	شُيُوخٗاۚ	ﱔﱕ	شيوخا	old	shuyūkhan
+3	40:67:21	w	وَمِنكُم	ﱖ	ومنكم	and among you	waminkum
+3	40:67:22	w	مَّن	ﱗ	من	(is he) who	man
+3	40:67:23	w	يُتَوَفَّىٰ	ﱘ	يتوفى	dies	yutawaffā
+3	40:67:24	w	مِن	ﱙ	من	before	min
+3	40:67:25	w	قَبۡلُۖ	ﱚﱛ	قبل	before	qablu
+3	40:67:26	w	وَلِتَبۡلُغُوٓاْ	ﱜ	ولتبلغوا	and lets you reach	walitablughū
+3	40:67:27	w	أَجَلٗا	ﱝ	اجلا	a term	ajalan
+3	40:67:28	w	مُّسَمّٗى	ﱞ	مسمى	specified	musamman
+3	40:67:29	w	وَلَعَلَّكُمۡ	ﱟ	ولعلكم	and that you may	walaʿallakum
+4	40:67:30	w	تَعۡقِلُونَ	ﱠ	تعقلون	use reason	taʿqilūna
+4	40:67:31	e	٦٧	ﱡ			
+4	40:68:1	w	هُوَ	ﱢ	هو	He	huwa
+4	40:68:2	w	ٱلَّذِي	ﱣ	الذي	(is) the One Who	alladhī
+4	40:68:3	w	يُحۡيِۦ	ﱤ	يحيي	gives life	yuḥ'yī
+4	40:68:4	w	وَيُمِيتُۖ	ﱥﱦ	ويميت	and causes death	wayumītu
+4	40:68:5	w	فَإِذَا	ﱧ	فاذا	And when	fa-idhā
+4	40:68:6	w	قَضَىٰٓ	ﱨ	قضى	He decrees	qaḍā
+4	40:68:7	w	أَمۡرٗا	ﱩ	امرا	a matter	amran
+4	40:68:8	w	فَإِنَّمَا	ﱪ	فانما	then only	fa-innamā
+5	40:68:9	w	يَقُولُ	ﱫ	يقول	He says	yaqūlu
+5	40:68:10	w	لَهُۥ	ﱬ	له	to it	lahu
+5	40:68:11	w	كُن	ﱭ	كن	Be	kun
+5	40:68:12	w	فَيَكُونُ	ﱮ	فيكون	and it is	fayakūnu
+5	40:68:13	e	٦٨	ﱯ			
+5	40:69:1	w	أَلَمۡ	ﱰ	الم	Do not	alam
+5	40:69:2	w	تَرَ	ﱱ	تر	you see	tara
+5	40:69:3	w	إِلَى	ﱲ	الى	[to]	ilā
+5	40:69:4	w	ٱلَّذِينَ	ﱳ	الذين	those who	alladhīna
+5	40:69:5	w	يُجَٰدِلُونَ	ﱴ	يجادلون	dispute	yujādilūna
+6	40:69:6	w	فِيٓ	ﱵ	في	concerning	fī
+6	40:69:7	w	ءَايَٰتِ	ﱶ	ايات	(the) Signs	āyāti
+6	40:69:8	w	ٱللَّهِ	ﱷ	الله	(of) Allah	l-lahi
+6	40:69:9	w	أَنَّىٰ	ﱸ	انى	How	annā
+6	40:69:10	w	يُصۡرَفُونَ	ﱹ	يصرفون	they are turned away	yuṣ'rafūna
+6	40:69:11	e	٦٩	ﱺ			
+6	40:70:1	w	ٱلَّذِينَ	ﱻ	الذين	Those who	alladhīna
+6	40:70:2	w	كَذَّبُواْ	ﱼ	كذبوا	deny	kadhabū
+6	40:70:3	w	بِٱلۡكِتَٰبِ	ﱽ	بالكتاب	the Book	bil-kitābi
+7	40:70:4	w	وَبِمَآ	ﱾ	وبما	and with what	wabimā
+7	40:70:5	w	أَرۡسَلۡنَا	ﱿ	ارسلنا	We sent	arsalnā
+7	40:70:6	w	بِهِۦ	ﲀ	به	with it	bihi
+7	40:70:7	w	رُسُلَنَاۖ	ﲁﲂ	رسلنا	Our Messengers	rusulanā
+7	40:70:8	w	فَسَوۡفَ	ﲃ	فسوف	but soon	fasawfa
+7	40:70:9	w	يَعۡلَمُونَ	ﲄ	يعلمون	they will know	yaʿlamūna
+7	40:70:10	e	٧٠	ﲅ			
+7	40:71:1	w	إِذِ	ﲆ	اذ	When	idhi
+7	40:71:2	w	ٱلۡأَغۡلَٰلُ	ﲇ	الاغلال	the iron collars	l-aghlālu
+8	40:71:3	w	فِيٓ	ﲈ	في	(will be) around	fī
+8	40:71:4	w	أَعۡنَٰقِهِمۡ	ﲉ	اعناقهم	their necks	aʿnāqihim
+8	40:71:5	w	وَٱلسَّلَٰسِلُ	ﲊ	والسلاسل	and the chains	wal-salāsilu
+8	40:71:6	w	يُسۡحَبُونَ	ﲋ	يسحبون	they will be dragged	yus'ḥabūna
+8	40:71:7	e	٧١	ﲌ			
+8	40:72:1	w	فِي	ﲍ	في	In	fī
+8	40:72:2	w	ٱلۡحَمِيمِ	ﲎ	الحميم	the boiling water	l-ḥamīmi
+9	40:72:3	w	ثُمَّ	ﲏ	ثم	then	thumma
+9	40:72:4	w	فِي	ﲐ	في	in	fī
+9	40:72:5	w	ٱلنَّارِ	ﲑ	النار	the Fire	l-nāri
+9	40:72:6	w	يُسۡجَرُونَ	ﲒ	يسجرون	they will be burned	yus'jarūna
+9	40:72:7	e	٧٢	ﲓ			
+9	40:73:1	w	ثُمَّ	ﲔ	ثم	Then	thumma
+9	40:73:2	w	قِيلَ	ﲕ	قيل	it will be said	qīla
+9	40:73:3	w	لَهُمۡ	ﲖ	لهم	to them	lahum
+9	40:73:4	w	أَيۡنَ	ﲗ	اين	Where	ayna
+9	40:73:5	w	مَا	ﲘ	ما	(is) that which	mā
+9	40:73:6	w	كُنتُمۡ	ﲙ	كنتم	you used to	kuntum
+10	40:73:7	w	تُشۡرِكُونَ	ﲚ	تشركون	associate	tush'rikūna
+10	40:73:8	e	٧٣	ﲛ			
+10	40:74:1	w	مِن	ﲜ	من	Other than	min
+10	40:74:2	w	دُونِ	ﲝ	دون	Other than	dūni
+10	40:74:3	w	ٱللَّهِۖ	ﲞﲟ	الله	Allah	l-lahi
+10	40:74:4	w	قَالُواْ	ﲠ	قالوا	They will say	qālū
+10	40:74:5	w	ضَلُّواْ	ﲡ	ضلوا	They have departed	ḍallū
+10	40:74:6	w	عَنَّا	ﲢ	عنا	from us	ʿannā
+10	40:74:7	w	بَل	ﲣ	بل	Nay	bal
+10	40:74:8	w	لَّمۡ	ﲤ	لم	Not	lam
+10	40:74:9	w	نَكُن	ﲥ	نكن	we used to	nakun
+11	40:74:10	w	نَّدۡعُواْ	ﲦ	ندعو	[we] call	nadʿū
+11	40:74:11	w	مِن	ﲧ	من	before	min
+11	40:74:12	w	قَبۡلُ	ﲨ	قبل	before	qablu
+11	40:74:13	w	شَيۡـٔٗاۚ	ﲩﲪ	شييا	anything	shayan
+11	40:74:14	w	كَذَٰلِكَ	ﲫ	كذالك	Thus	kadhālika
+11	40:74:15	w	يُضِلُّ	ﲬ	يضل	Allah lets go astray	yuḍillu
+11	40:74:16	w	ٱللَّهُ	ﲭ	الله	Allah lets go astray	l-lahu
+11	40:74:17	w	ٱلۡكَٰفِرِينَ	ﲮ	الكافرين	the disbelievers	l-kāfirīna
+11	40:74:18	e	٧٤	ﲯ			
+12	40:75:1	w	ذَٰلِكُم	ﲰ	ذالكم	That was	dhālikum
+12	40:75:2	w	بِمَا	ﲱ	بما	because	bimā
+12	40:75:3	w	كُنتُمۡ	ﲲ	كنتم	you used to	kuntum
+12	40:75:4	w	تَفۡرَحُونَ	ﲳ	تفرحون	rejoice	tafraḥūna
+12	40:75:5	w	فِي	ﲴ	في	in	fī
+12	40:75:6	w	ٱلۡأَرۡضِ	ﲵ	الارض	the earth	l-arḍi
+12	40:75:7	w	بِغَيۡرِ	ﲶ	بغير	without	bighayri
+12	40:75:8	w	ٱلۡحَقِّ	ﲷ	الحق	right	l-ḥaqi
+12	40:75:9	w	وَبِمَا	ﲸ	وبما	and because	wabimā
+12	40:75:10	w	كُنتُمۡ	ﲹ	كنتم	you used to	kuntum
+13	40:75:11	w	تَمۡرَحُونَ	ﲺ	تمرحون	be insolent	tamraḥūna
+13	40:75:12	e	٧٥	ﲻ			
+13	40:76:1	w	ٱدۡخُلُوٓاْ	ﲼ	ادخلوا	Enter	ud'khulū
+13	40:76:2	w	أَبۡوَٰبَ	ﲽ	ابواب	(the) gates	abwāba
+13	40:76:3	w	جَهَنَّمَ	ﲾ	جهنم	(of) Hell	jahannama
+13	40:76:4	w	خَٰلِدِينَ	ﲿ	خالدين	(to) abide forever	khālidīna
+13	40:76:5	w	فِيهَاۖ	ﳀﳁ	فيها	in it	fīhā
+13	40:76:6	w	فَبِئۡسَ	ﳂ	فبيس	and wretched is	fabi'sa
+13	40:76:7	w	مَثۡوَى	ﳃ	مثوى	(the) abode	mathwā
+14	40:76:8	w	ٱلۡمُتَكَبِّرِينَ	ﳄ	المتكبرين	(of) the arrogant	l-mutakabirīna
+14	40:76:9	e	٧٦	ﳅ			
+14	40:77:1	w	فَٱصۡبِرۡ	ﳆ	فاصبر	So be patient	fa-iṣ'bir
+14	40:77:2	w	إِنَّ	ﳇ	ان	indeed	inna
+14	40:77:3	w	وَعۡدَ	ﳈ	وعد	(the) Promise	waʿda
+14	40:77:4	w	ٱللَّهِ	ﳉﳊ	الله	(of) Allah	l-lahi
+14	40:77:5	w	حَقّٞۚ	ﳋ	حق	(is) true	ḥaqqun
+14	40:77:6	w	فَإِمَّا	ﳌ	فاما	And whether	fa-immā
+14	40:77:7	w	نُرِيَنَّكَ	ﳍ	نرينك	We show you	nuriyannaka
+15	40:77:8	w	بَعۡضَ	ﳎ	بعض	some	baʿḍa
+15	40:77:9	w	ٱلَّذِي	ﳏ	الذي	(of) what	alladhī
+15	40:77:10	w	نَعِدُهُمۡ	ﳐ	نعدهم	We have promised them	naʿiduhum
+15	40:77:11	w	أَوۡ	ﳑ	او	or	aw
+15	40:77:12	w	نَتَوَفَّيَنَّكَ	ﳒ	نتوفينك	We cause you to die	natawaffayannaka
+15	40:77:13	w	فَإِلَيۡنَا	ﳓ	فالينا	then to Us	fa-ilaynā
+15	40:77:14	w	يُرۡجَعُونَ	ﳔ	يرجعون	they will be returned	yur'jaʿūna
+15	40:77:15	e	٧٧	ﳕ			

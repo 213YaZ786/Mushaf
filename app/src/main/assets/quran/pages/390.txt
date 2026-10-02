@@ -1,0 +1,127 @@
+1	28:36:1	w	فَلَمَّا	ﱁ	فلما	But when	falammā
+1	28:36:2	w	جَآءَهُم	ﱂ	جاءهم	came to them	jāahum
+1	28:36:3	w	مُّوسَىٰ	ﱃ	موسى	Musa	mūsā
+1	28:36:4	w	بِـَٔايَٰتِنَا	ﱄ	باياتنا	with Our Signs	biāyātinā
+1	28:36:5	w	بَيِّنَٰتٖ	ﱅ	بينات	clear	bayyinātin
+1	28:36:6	w	قَالُواْ	ﱆ	قالوا	they said	qālū
+1	28:36:7	w	مَا	ﱇ	ما	Not	mā
+1	28:36:8	w	هَٰذَآ	ﱈ	هاذا	(is) this	hādhā
+1	28:36:9	w	إِلَّا	ﱉ	الا	except	illā
+1	28:36:10	w	سِحۡرٞ	ﱊ	سحر	a magic	siḥ'run
+2	28:36:11	w	مُّفۡتَرٗى	ﱋ	مفترى	invented	muf'taran
+2	28:36:12	w	وَمَا	ﱌ	وما	and not	wamā
+2	28:36:13	w	سَمِعۡنَا	ﱍ	سمعنا	we heard	samiʿ'nā
+2	28:36:14	w	بِهَٰذَا	ﱎ	بهاذا	of this	bihādhā
+2	28:36:15	w	فِيٓ	ﱏ	في	among	fī
+2	28:36:16	w	ءَابَآئِنَا	ﱐ	اباينا	our forefathers	ābāinā
+2	28:36:17	w	ٱلۡأَوَّلِينَ	ﱑ	الاولين	our forefathers	l-awalīna
+2	28:36:18	e	٣٦	ﱒ			
+3	28:37:1	w	وَقَالَ	ﱓ	وقال	And Musa said	waqāla
+3	28:37:2	w	مُوسَىٰ	ﱔ	موسى	And Musa said	mūsā
+3	28:37:3	w	رَبِّيٓ	ﱕ	ربي	My Lord	rabbī
+3	28:37:4	w	أَعۡلَمُ	ﱖ	اعلم	knows best	aʿlamu
+3	28:37:5	w	بِمَن	ﱗ	بمن	of who	biman
+3	28:37:6	w	جَآءَ	ﱘ	جاء	has come	jāa
+3	28:37:7	w	بِٱلۡهُدَىٰ	ﱙ	بالهدى	with [the] guidance	bil-hudā
+3	28:37:8	w	مِنۡ	ﱚ	من	from Him	min
+3	28:37:9	w	عِندِهِۦ	ﱛ	عنده	from Him	ʿindihi
+3	28:37:10	w	وَمَن	ﱜ	ومن	and who	waman
+4	28:37:11	w	تَكُونُ	ﱝ	تكون	will be	takūnu
+4	28:37:12	w	لَهُۥ	ﱞ	له	for him	lahu
+4	28:37:13	w	عَٰقِبَةُ	ﱟ	عاقبة	the good end in the Hereafter	ʿāqibatu
+4	28:37:14	w	ٱلدَّارِۚ	ﱠﱡ	الدار	the good end in the Hereafter	l-dāri
+4	28:37:15	w	إِنَّهُۥ	ﱢ	انه	Indeed	innahu
+4	28:37:16	w	لَا	ﱣ	لا	not	lā
+4	28:37:17	w	يُفۡلِحُ	ﱤ	يفلح	will be successful	yuf'liḥu
+4	28:37:18	w	ٱلظَّٰلِمُونَ	ﱥ	الظالمون	the wrongdoers	l-ẓālimūna
+4	28:37:19	e	٣٧	ﱦ			
+5	28:38:1	w	وَقَالَ	ﱧ	وقال	And Firaun said	waqāla
+5	28:38:2	w	فِرۡعَوۡنُ	ﱨ	فرعون	And Firaun said	fir'ʿawnu
+5	28:38:3	w	يَٰٓأَيُّهَا	ﱩ	يا ايها	O chiefs	yāayyuhā
+5	28:38:4	w	ٱلۡمَلَأُ	ﱪ	الملا	O chiefs	l-mala-u
+5	28:38:5	w	مَا	ﱫ	ما	Not	mā
+5	28:38:6	w	عَلِمۡتُ	ﱬ	علمت	I know	ʿalim'tu
+5	28:38:7	w	لَكُم	ﱭ	لكم	for you	lakum
+5	28:38:8	w	مِّنۡ	ﱮ	من	any	min
+5	28:38:9	w	إِلَٰهٍ	ﱯ	الاه	god	ilāhin
+6	28:38:10	w	غَيۡرِي	ﱰ	غيري	other than me	ghayrī
+6	28:38:11	w	فَأَوۡقِدۡ	ﱱ	فاوقد	So kindle	fa-awqid
+6	28:38:12	w	لِي	ﱲ	لي	for me	lī
+6	28:38:13	w	يَٰهَٰمَٰنُ	ﱳ	يا هامان	O Haman	yāhāmānu
+6	28:38:14	w	عَلَى	ﱴ	على	Upon	ʿalā
+6	28:38:15	w	ٱلطِّينِ	ﱵ	الطين	the clay	l-ṭīni
+6	28:38:16	w	فَٱجۡعَل	ﱶ	فاجعل	and make	fa-ij'ʿal
+6	28:38:17	w	لِّي	ﱷ	لي	for me	lī
+6	28:38:18	w	صَرۡحٗا	ﱸ	صرحا	a lofty tower	ṣarḥan
+6	28:38:19	w	لَّعَلِّيٓ	ﱹ	لعلي	so that [I]	laʿallī
+7	28:38:20	w	أَطَّلِعُ	ﱺ	اطلع	I may look	aṭṭaliʿu
+7	28:38:21	w	إِلَىٰٓ	ﱻ	الى	at	ilā
+7	28:38:22	w	إِلَٰهِ	ﱼ	الاه	(the) God	ilāhi
+7	28:38:23	w	مُوسَىٰ	ﱽ	موسى	(of) Musa	mūsā
+7	28:38:24	w	وَإِنِّي	ﱾ	واني	And indeed, I	wa-innī
+7	28:38:25	w	لَأَظُنُّهُۥ	ﱿ	لاظنه	[I] think that he	la-aẓunnuhu
+7	28:38:26	w	مِنَ	ﲀ	من	(is) of	mina
+7	28:38:27	w	ٱلۡكَٰذِبِينَ	ﲁ	الكاذبين	the liars	l-kādhibīna
+7	28:38:28	e	٣٨	ﲂ			
+8	28:39:1	w	وَٱسۡتَكۡبَرَ	ﲃ	واستكبر	And he was arrogant	wa-is'takbara
+8	28:39:2	w	هُوَ	ﲄ	هو	And he was arrogant	huwa
+8	28:39:3	w	وَجُنُودُهُۥ	ﲅ	وجنوده	and his hosts	wajunūduhu
+8	28:39:4	w	فِي	ﲆ	في	in	fī
+8	28:39:5	w	ٱلۡأَرۡضِ	ﲇ	الارض	the land	l-arḍi
+8	28:39:6	w	بِغَيۡرِ	ﲈ	بغير	without	bighayri
+8	28:39:7	w	ٱلۡحَقِّ	ﲉ	الحق	right	l-ḥaqi
+8	28:39:8	w	وَظَنُّوٓاْ	ﲊ	وظنوا	and they thought	waẓannū
+9	28:39:9	w	أَنَّهُمۡ	ﲋ	انهم	that they	annahum
+9	28:39:10	w	إِلَيۡنَا	ﲌ	الينا	to Us	ilaynā
+9	28:39:11	w	لَا	ﲍ	لا	not	lā
+9	28:39:12	w	يُرۡجَعُونَ	ﲎ	يرجعون	will be returned	yur'jaʿūna
+9	28:39:13	e	٣٩	ﲏ			
+9	28:40:1	w	فَأَخَذۡنَٰهُ	ﲐ	فاخذناه	So We seized him	fa-akhadhnāhu
+9	28:40:2	w	وَجُنُودَهُۥ	ﲑ	وجنوده	and his hosts	wajunūdahu
+9	28:40:3	w	فَنَبَذۡنَٰهُمۡ	ﲒ	فنبذناهم	and We threw them	fanabadhnāhum
+10	28:40:4	w	فِي	ﲓ	في	in	fī
+10	28:40:5	w	ٱلۡيَمِّۖ	ﲔﲕ	اليم	the sea	l-yami
+10	28:40:6	w	فَٱنظُرۡ	ﲖ	فانظر	So see	fa-unẓur
+10	28:40:7	w	كَيۡفَ	ﲗ	كيف	how	kayfa
+10	28:40:8	w	كَانَ	ﲘ	كان	was	kāna
+10	28:40:9	w	عَٰقِبَةُ	ﲙ	عاقبة	(the) end	ʿāqibatu
+10	28:40:10	w	ٱلظَّٰلِمِينَ	ﲚ	الظالمين	(of) the wrongdoers	l-ẓālimīna
+10	28:40:11	e	٤٠	ﲛ			
+11	28:41:1	w	وَجَعَلۡنَٰهُمۡ	ﲜ	وجعلناهم	And We made them	wajaʿalnāhum
+11	28:41:2	w	أَئِمَّةٗ	ﲝ	ايمة	leaders	a-immatan
+11	28:41:3	w	يَدۡعُونَ	ﲞ	يدعون	inviting	yadʿūna
+11	28:41:4	w	إِلَى	ﲟ	الى	to	ilā
+11	28:41:5	w	ٱلنَّارِۖ	ﲠﲡ	النار	the Fire	l-nāri
+11	28:41:6	w	وَيَوۡمَ	ﲢ	ويوم	and (on the) Day	wayawma
+11	28:41:7	w	ٱلۡقِيَٰمَةِ	ﲣ	القيامة	(of) the Resurrection	l-qiyāmati
+12	28:41:8	w	لَا	ﲤ	لا	not	lā
+12	28:41:9	w	يُنصَرُونَ	ﲥ	ينصرون	they will be helped	yunṣarūna
+12	28:41:10	e	٤١	ﲦ			
+12	28:42:1	w	وَأَتۡبَعۡنَٰهُمۡ	ﲧ	واتبعناهم	And We caused to follow them	wa-atbaʿnāhum
+12	28:42:2	w	فِي	ﲨ	في	in	fī
+12	28:42:3	w	هَٰذِهِ	ﲩ	هاذه	this	hādhihi
+12	28:42:4	w	ٱلدُّنۡيَا	ﲪ	الدنيا	world	l-dun'yā
+12	28:42:5	w	لَعۡنَةٗۖ	ﲫﲬ	لعنة	a curse	laʿnatan
+13	28:42:6	w	وَيَوۡمَ	ﲭ	ويوم	and (on the) Day	wayawma
+13	28:42:7	w	ٱلۡقِيَٰمَةِ	ﲮ	القيامة	(of) the Resurrection	l-qiyāmati
+13	28:42:8	w	هُم	ﲯ	هم	they	hum
+13	28:42:9	w	مِّنَ	ﲰ	من	(will be) of	mina
+13	28:42:10	w	ٱلۡمَقۡبُوحِينَ	ﲱ	المقبوحين	the despised	l-maqbūḥīna
+13	28:42:11	e	٤٢	ﲲ			
+13	28:43:1	w	وَلَقَدۡ	ﲳ	ولقد	And verily	walaqad
+13	28:43:2	w	ءَاتَيۡنَا	ﲴ	اتينا	We gave	ātaynā
+14	28:43:3	w	مُوسَى	ﲵ	موسى	Musa	mūsā
+14	28:43:4	w	ٱلۡكِتَٰبَ	ﲶ	الكتاب	the Scripture	l-kitāba
+14	28:43:5	w	مِنۢ	ﲷ	من	after [what]	min
+14	28:43:6	w	بَعۡدِ	ﲸ	بعد	after [what]	baʿdi
+14	28:43:7	w	مَآ	ﲹ	ما	after [what]	mā
+14	28:43:8	w	أَهۡلَكۡنَا	ﲺ	اهلكنا	We had destroyed	ahlaknā
+14	28:43:9	w	ٱلۡقُرُونَ	ﲻ	القرون	the generations	l-qurūna
+14	28:43:10	w	ٱلۡأُولَىٰ	ﲼ	الاولى	former	l-ūlā
+15	28:43:11	w	بَصَآئِرَ	ﲽ	بصاير	(as) an enlightenment	baṣāira
+15	28:43:12	w	لِلنَّاسِ	ﲾ	للناس	for the mankind	lilnnāsi
+15	28:43:13	w	وَهُدٗى	ﲿ	وهدى	and a guidance	wahudan
+15	28:43:14	w	وَرَحۡمَةٗ	ﳀ	ورحمة	and mercy	waraḥmatan
+15	28:43:15	w	لَّعَلَّهُمۡ	ﳁ	لعلهم	that they may	laʿallahum
+15	28:43:16	w	يَتَذَكَّرُونَ	ﳂ	يتذكرون	remember	yatadhakkarūna
+15	28:43:17	e	٤٣	ﳃ			

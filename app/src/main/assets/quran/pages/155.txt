@@ -1,0 +1,144 @@
+1	7:38:1	w	قَالَ	ﱁ	قال	He (will) say	qāla
+1	7:38:2	w	ٱدۡخُلُواْ	ﱂ	ادخلوا	Enter	ud'khulū
+1	7:38:3	w	فِيٓ	ﱃ	في	among	fī
+1	7:38:4	w	أُمَمٖ	ﱄ	امم	(the) nations	umamin
+1	7:38:5	w	قَدۡ	ﱅ	قد	(who)	qad
+1	7:38:6	w	خَلَتۡ	ﱆ	خلت	passed away	khalat
+1	7:38:7	w	مِن	ﱇ	من	from	min
+1	7:38:8	w	قَبۡلِكُم	ﱈ	قبلكم	before you	qablikum
+1	7:38:9	w	مِّنَ	ﱉ	من	of	mina
+1	7:38:10	w	ٱلۡجِنِّ	ﱊ	الجن	the jinn	l-jini
+1	7:38:11	w	وَٱلۡإِنسِ	ﱋ	والانس	and the men	wal-insi
+2	7:38:12	w	فِي	ﱌ	في	in	fī
+2	7:38:13	w	ٱلنَّارِۖ	ﱍﱎ	النار	the Fire	l-nāri
+2	7:38:14	w	كُلَّمَا	ﱏ	كلما	Every time	kullamā
+2	7:38:15	w	دَخَلَتۡ	ﱐ	دخلت	entered	dakhalat
+2	7:38:16	w	أُمَّةٞ	ﱑ	امة	a nation	ummatun
+2	7:38:17	w	لَّعَنَتۡ	ﱒ	لعنت	it cursed	laʿanat
+2	7:38:18	w	أُخۡتَهَاۖ	ﱓﱔ	اختها	its sister (nation)	ukh'tahā
+2	7:38:19	w	حَتَّىٰٓ	ﱕ	حتى	until	ḥattā
+2	7:38:20	w	إِذَا	ﱖ	اذا	when	idhā
+2	7:38:21	w	ٱدَّارَكُواْ	ﱗ	اداركوا	they had overtaken one another	iddārakū
+3	7:38:22	w	فِيهَا	ﱘ	فيها	in it	fīhā
+3	7:38:23	w	جَمِيعٗا	ﱙ	جميعا	all	jamīʿan
+3	7:38:24	w	قَالَتۡ	ﱚ	قالت	(will) say	qālat
+3	7:38:25	w	أُخۡرَىٰهُمۡ	ﱛ	اخراهم	(the) last of them	ukh'rāhum
+3	7:38:26	w	لِأُولَىٰهُمۡ	ﱜ	لاولاهم	about the first of them	liūlāhum
+3	7:38:27	w	رَبَّنَا	ﱝ	ربنا	Our Lord	rabbanā
+3	7:38:28	w	هَٰٓؤُلَآءِ	ﱞ	هاولاء	these	hāulāi
+3	7:38:29	w	أَضَلُّونَا	ﱟ	اضلونا	misled us	aḍallūnā
+3	7:38:30	w	فَـَٔاتِهِمۡ	ﱠ	فاتهم	so give them	faātihim
+4	7:38:31	w	عَذَابٗا	ﱡ	عذابا	punishment	ʿadhāban
+4	7:38:32	w	ضِعۡفٗا	ﱢ	ضعفا	double	ḍiʿ'fan
+4	7:38:33	w	مِّنَ	ﱣ	من	of	mina
+4	7:38:34	w	ٱلنَّارِۖ	ﱤﱥ	النار	the Fire	l-nāri
+4	7:38:35	w	قَالَ	ﱦ	قال	He (will) say	qāla
+4	7:38:36	w	لِكُلّٖ	ﱧ	لكل	For each	likullin
+4	7:38:37	w	ضِعۡفٞ	ﱨ	ضعف	(is) a double	ḍiʿ'fun
+4	7:38:38	w	وَلَٰكِن	ﱩ	ولاكن	[and] but	walākin
+4	7:38:39	w	لَّا	ﱪ	لا	not	lā
+4	7:38:40	w	تَعۡلَمُونَ	ﱫ	تعلمون	you know	taʿlamūna
+5	7:38:41	e	٣٨	ﱬ			
+5	7:39:1	w	وَقَالَتۡ	ﱭ	وقالت	And (will) say	waqālat
+5	7:39:2	w	أُولَىٰهُمۡ	ﱮ	اولاهم	(the) first of them	ūlāhum
+5	7:39:3	w	لِأُخۡرَىٰهُمۡ	ﱯ	لاخراهم	to (the) last of them	li-ukh'rāhum
+5	7:39:4	w	فَمَا	ﱰ	فما	Then not	famā
+5	7:39:5	w	كَانَ	ﱱ	كان	is	kāna
+5	7:39:6	w	لَكُمۡ	ﱲ	لكم	for you	lakum
+5	7:39:7	w	عَلَيۡنَا	ﱳ	علينا	upon us	ʿalaynā
+5	7:39:8	w	مِن	ﱴ	من	any	min
+5	7:39:9	w	فَضۡلٖ	ﱵ	فضل	superiority	faḍlin
+6	7:39:10	w	فَذُوقُواْ	ﱶ	فذوقوا	so taste	fadhūqū
+6	7:39:11	w	ٱلۡعَذَابَ	ﱷ	العذاب	the punishment	l-ʿadhāba
+6	7:39:12	w	بِمَا	ﱸ	بما	for what	bimā
+6	7:39:13	w	كُنتُمۡ	ﱹ	كنتم	you used to	kuntum
+6	7:39:14	w	تَكۡسِبُونَ	ﱺ	تكسبون	earn	taksibūna
+6	7:39:15	e	٣٩	ﱻ			
+6	7:40:1	w	إِنَّ	ﱼ	ان	Indeed	inna
+6	7:40:2	w	ٱلَّذِينَ	ﱽ	الذين	those who	alladhīna
+7	7:40:3	w	كَذَّبُواْ	ﱾ	كذبوا	denied	kadhabū
+7	7:40:4	w	بِـَٔايَٰتِنَا	ﱿ	باياتنا	Our Verses	biāyātinā
+7	7:40:5	w	وَٱسۡتَكۡبَرُواْ	ﲀ	واستكبروا	and (were) arrogant	wa-is'takbarū
+7	7:40:6	w	عَنۡهَا	ﲁ	عنها	towards them	ʿanhā
+7	7:40:7	w	لَا	ﲂ	لا	(will) not	lā
+7	7:40:8	w	تُفَتَّحُ	ﲃ	تفتح	be opened	tufattaḥu
+7	7:40:9	w	لَهُمۡ	ﲄ	لهم	for them	lahum
+7	7:40:10	w	أَبۡوَٰبُ	ﲅ	ابواب	(the) doors	abwābu
+7	7:40:11	w	ٱلسَّمَآءِ	ﲆ	السماء	(of) the heaven	l-samāi
+8	7:40:12	w	وَلَا	ﲇ	ولا	and not	walā
+8	7:40:13	w	يَدۡخُلُونَ	ﲈ	يدخلون	they will enter	yadkhulūna
+8	7:40:14	w	ٱلۡجَنَّةَ	ﲉ	الجنة	Paradise	l-janata
+8	7:40:15	w	حَتَّىٰ	ﲊ	حتى	until	ḥattā
+8	7:40:16	w	يَلِجَ	ﲋ	يلج	passes	yalija
+8	7:40:17	w	ٱلۡجَمَلُ	ﲌ	الجمل	the camel	l-jamalu
+8	7:40:18	w	فِي	ﲍ	في	through	fī
+8	7:40:19	w	سَمِّ	ﲎ	سم	(the) eye	sammi
+8	7:40:20	w	ٱلۡخِيَاطِۚ	ﲏﲐ	الخياط	(of) the needle	l-khiyāṭi
+8	7:40:21	w	وَكَذَٰلِكَ	ﲑ	وكذالك	And thus	wakadhālika
+9	7:40:22	w	نَجۡزِي	ﲒ	نجزي	We recompense	najzī
+9	7:40:23	w	ٱلۡمُجۡرِمِينَ	ﲓ	المجرمين	the criminals	l-muj'rimīna
+9	7:40:24	e	٤٠	ﲔ			
+9	7:41:1	w	لَهُم	ﲕ	لهم	For them	lahum
+9	7:41:2	w	مِّن	ﲖ	من	of	min
+9	7:41:3	w	جَهَنَّمَ	ﲗ	جهنم	(the) Hell	jahannama
+9	7:41:4	w	مِهَادٞ	ﲘ	مهاد	(is) a bed	mihādun
+9	7:41:5	w	وَمِن	ﲙ	ومن	and from	wamin
+9	7:41:6	w	فَوۡقِهِمۡ	ﲚ	فوقهم	over them	fawqihim
+9	7:41:7	w	غَوَاشٖۚ	ﲛﲜ	غواش	coverings	ghawāshin
+10	7:41:8	w	وَكَذَٰلِكَ	ﲝ	وكذالك	And thus	wakadhālika
+10	7:41:9	w	نَجۡزِي	ﲞ	نجزي	We recompense	najzī
+10	7:41:10	w	ٱلظَّٰلِمِينَ	ﲟ	الظالمين	the wrongdoers	l-ẓālimīna
+10	7:41:11	e	٤١	ﲠ			
+10	7:42:1	w	وَٱلَّذِينَ	ﲡ	والذين	But those who	wa-alladhīna
+10	7:42:2	w	ءَامَنُواْ	ﲢ	امنوا	believe	āmanū
+10	7:42:3	w	وَعَمِلُواْ	ﲣ	وعملوا	and do	waʿamilū
+10	7:42:4	w	ٱلصَّٰلِحَٰتِ	ﲤ	الصالحات	[the] righteous deeds	l-ṣāliḥāti
+11	7:42:5	w	لَا	ﲥ	لا	not	lā
+11	7:42:6	w	نُكَلِّفُ	ﲦ	نكلف	We burden	nukallifu
+11	7:42:7	w	نَفۡسًا	ﲧ	نفسا	any soul	nafsan
+11	7:42:8	w	إِلَّا	ﲨ	الا	except	illā
+11	7:42:9	w	وُسۡعَهَآ	ﲩ	وسعها	(to) its capacity	wus'ʿahā
+11	7:42:10	w	أُوْلَٰٓئِكَ	ﲪ	اولايك	Those	ulāika
+11	7:42:11	w	أَصۡحَٰبُ	ﲫ	اصحاب	(are the) companions	aṣḥābu
+11	7:42:12	w	ٱلۡجَنَّةِۖ	ﲬﲭ	الجنة	(of) Paradise	l-janati
+11	7:42:13	w	هُمۡ	ﲮ	هم	they	hum
+12	7:42:14	w	فِيهَا	ﲯ	فيها	in it	fīhā
+12	7:42:15	w	خَٰلِدُونَ	ﲰ	خالدون	(will) abide forever	khālidūna
+12	7:42:16	e	٤٢	ﲱ			
+12	7:43:1	w	وَنَزَعۡنَا	ﲲ	ونزعنا	And We will remove	wanazaʿnā
+12	7:43:2	w	مَا	ﲳ	ما	whatever	mā
+12	7:43:3	w	فِي	ﲴ	في	(is) in	fī
+12	7:43:4	w	صُدُورِهِم	ﲵ	صدورهم	their breasts	ṣudūrihim
+12	7:43:5	w	مِّنۡ	ﲶ	من	of	min
+12	7:43:6	w	غِلّٖ	ﲷ	غل	malice	ghillin
+12	7:43:7	w	تَجۡرِي	ﲸ	تجري	Flows	tajrī
+13	7:43:8	w	مِن	ﲹ	من	from	min
+13	7:43:9	w	تَحۡتِهِمُ	ﲺ	تحتهم	underneath them	taḥtihimu
+13	7:43:10	w	ٱلۡأَنۡهَٰرُۖ	ﲻﲼ	الانهار	the rivers	l-anhāru
+13	7:43:11	w	وَقَالُواْ	ﲽ	وقالوا	And they will say	waqālū
+13	7:43:12	w	ٱلۡحَمۡدُ	ﲾ	الحمد	All the praise	l-ḥamdu
+13	7:43:13	w	لِلَّهِ	ﲿ	لله	(is) for Allah	lillahi
+13	7:43:14	w	ٱلَّذِي	ﳀ	الذي	the One Who	alladhī
+13	7:43:15	w	هَدَىٰنَا	ﳁ	هدانا	guided us	hadānā
+13	7:43:16	w	لِهَٰذَا	ﳂ	لهاذا	to this	lihādhā
+13	7:43:17	w	وَمَا	ﳃ	وما	and not	wamā
+13	7:43:18	w	كُنَّا	ﳄ	كنا	we were	kunnā
+14	7:43:19	w	لِنَهۡتَدِيَ	ﳅ	لنهتدي	to receive guidance	linahtadiya
+14	7:43:20	w	لَوۡلَآ	ﳆ	لولا	if not	lawlā
+14	7:43:21	w	أَنۡ	ﳇ	ان	[that]	an
+14	7:43:22	w	هَدَىٰنَا	ﳈ	هدانا	(had) guided us	hadānā
+14	7:43:23	w	ٱللَّهُۖ	ﳉﳊ	الله	Allah	l-lahu
+14	7:43:24	w	لَقَدۡ	ﳋ	لقد	Certainly	laqad
+14	7:43:25	w	جَآءَتۡ	ﳌ	جاءت	came	jāat
+14	7:43:26	w	رُسُلُ	ﳍ	رسل	Messengers	rusulu
+14	7:43:27	w	رَبِّنَا	ﳎ	ربنا	(of) our Lord	rabbinā
+14	7:43:28	w	بِٱلۡحَقِّۖ	ﳏﳐ	بالحق	with the truth	bil-ḥaqi
+15	7:43:29	w	وَنُودُوٓاْ	ﳑ	ونودوا	And they will be addressed	wanūdū
+15	7:43:30	w	أَن	ﳒ	ان	[that]	an
+15	7:43:31	w	تِلۡكُمُ	ﳓ	تلكم	This	til'kumu
+15	7:43:32	w	ٱلۡجَنَّةُ	ﳔ	الجنة	(is) Paradise	l-janatu
+15	7:43:33	w	أُورِثۡتُمُوهَا	ﳕ	اورثتموها	you have been made to inherit it	ūrith'tumūhā
+15	7:43:34	w	بِمَا	ﳖ	بما	for what	bimā
+15	7:43:35	w	كُنتُمۡ	ﳗ	كنتم	you used to	kuntum
+15	7:43:36	w	تَعۡمَلُونَ	ﳘ	تعملون	do	taʿmalūna
+15	7:43:37	e	٤٣	ﳙ			

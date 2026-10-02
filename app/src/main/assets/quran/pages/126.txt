@@ -1,0 +1,132 @@
+1	5:109:1	w	۞ يَوۡمَ	ﱁ ﱂ	۞ يوم	(The) day	yawma
+1	5:109:2	w	يَجۡمَعُ	ﱃ	يجمع	will (be) gathered	yajmaʿu
+1	5:109:3	w	ٱللَّهُ	ﱄ	الله	(by) Allah	l-lahu
+1	5:109:4	w	ٱلرُّسُلَ	ﱅ	الرسل	the Messengers	l-rusula
+1	5:109:5	w	فَيَقُولُ	ﱆ	فيقول	and He will say	fayaqūlu
+1	5:109:6	w	مَاذَآ	ﱇ	ماذا	What	mādhā
+1	5:109:7	w	أُجِبۡتُمۡۖ	ﱈﱉ	اجبتم	was (the) response you received	ujib'tum
+1	5:109:8	w	قَالُواْ	ﱊ	قالوا	They said	qālū
+1	5:109:9	w	لَا	ﱋ	لا	(There is) no	lā
+1	5:109:10	w	عِلۡمَ	ﱌ	علم	knowledge	ʿil'ma
+1	5:109:11	w	لَنَآۖ	ﱍﱎ	لنا	for us	lanā
+2	5:109:12	w	إِنَّكَ	ﱏ	انك	Indeed You	innaka
+2	5:109:13	w	أَنتَ	ﱐ	انت	You	anta
+2	5:109:14	w	عَلَّٰمُ	ﱑ	علام	(are the) Knower	ʿallāmu
+2	5:109:15	w	ٱلۡغُيُوبِ	ﱒ	الغيوب	(of) the unseen	l-ghuyūbi
+2	5:109:16	e	١٠٩	ﱓ			
+2	5:110:1	w	إِذۡ	ﱔ	اذ	When	idh
+2	5:110:2	w	قَالَ	ﱕ	قال	said	qāla
+2	5:110:3	w	ٱللَّهُ	ﱖ	الله	Allah	l-lahu
+2	5:110:4	w	يَٰعِيسَى	ﱗ	يا عيسى	O Isa	yāʿīsā
+2	5:110:5	w	ٱبۡنَ	ﱘ	ابن	son	ib'na
+2	5:110:6	w	مَرۡيَمَ	ﱙ	مريم	(of) Maryam	maryama
+3	5:110:7	w	ٱذۡكُرۡ	ﱚ	اذكر	Remember	udh'kur
+3	5:110:8	w	نِعۡمَتِي	ﱛ	نعمتي	My Favor	niʿ'matī
+3	5:110:9	w	عَلَيۡكَ	ﱜ	عليك	upon you	ʿalayka
+3	5:110:10	w	وَعَلَىٰ	ﱝ	وعلى	and upon	waʿalā
+3	5:110:11	w	وَٰلِدَتِكَ	ﱞ	والدتك	your mother	wālidatika
+3	5:110:12	w	إِذۡ	ﱟ	اذ	when	idh
+3	5:110:13	w	أَيَّدتُّكَ	ﱠ	ايدتك	I strengthened you	ayyadttuka
+3	5:110:14	w	بِرُوحِ	ﱡ	بروح	with (the) Spirit	birūḥi
+4	5:110:15	w	ٱلۡقُدُسِ	ﱢ	القدس	the Holy	l-qudusi
+4	5:110:16	w	تُكَلِّمُ	ﱣ	تكلم	you spoke	tukallimu
+4	5:110:17	w	ٱلنَّاسَ	ﱤ	الناس	(to) the people	l-nāsa
+4	5:110:18	w	فِي	ﱥ	في	in	fī
+4	5:110:19	w	ٱلۡمَهۡدِ	ﱦ	المهد	the cradle	l-mahdi
+4	5:110:20	w	وَكَهۡلٗاۖ	ﱧﱨ	وكهلا	and (in) maturity	wakahlan
+4	5:110:21	w	وَإِذۡ	ﱩ	واذ	And when	wa-idh
+4	5:110:22	w	عَلَّمۡتُكَ	ﱪ	علمتك	I taught you	ʿallamtuka
+5	5:110:23	w	ٱلۡكِتَٰبَ	ﱫ	الكتاب	the Book	l-kitāba
+5	5:110:24	w	وَٱلۡحِكۡمَةَ	ﱬ	والحكمة	and the wisdom	wal-ḥik'mata
+5	5:110:25	w	وَٱلتَّوۡرَىٰةَ	ﱭ	والتوراة	and the Taurat	wal-tawrāta
+5	5:110:26	w	وَٱلۡإِنجِيلَۖ	ﱮﱯ	والانجيل	and the Injeel	wal-injīla
+5	5:110:27	w	وَإِذۡ	ﱰ	واذ	and when	wa-idh
+5	5:110:28	w	تَخۡلُقُ	ﱱ	تخلق	you make	takhluqu
+6	5:110:29	w	مِنَ	ﱲ	من	from	mina
+6	5:110:30	w	ٱلطِّينِ	ﱳ	الطين	the clay	l-ṭīni
+6	5:110:31	w	كَهَيۡـَٔةِ	ﱴ	كهيية	like the shape	kahayati
+6	5:110:32	w	ٱلطَّيۡرِ	ﱵ	الطير	(of) the bird	l-ṭayri
+6	5:110:33	w	بِإِذۡنِي	ﱶ	باذني	by My permission	bi-idh'nī
+6	5:110:34	w	فَتَنفُخُ	ﱷ	فتنفخ	then you breath	fatanfukhu
+6	5:110:35	w	فِيهَا	ﱸ	فيها	into it	fīhā
+6	5:110:36	w	فَتَكُونُ	ﱹ	فتكون	and it becomes	fatakūnu
+7	5:110:37	w	طَيۡرَۢا	ﱺ	طيرا	a bird	ṭayran
+7	5:110:38	w	بِإِذۡنِيۖ	ﱻﱼ	باذني	by My permission	bi-idh'nī
+7	5:110:39	w	وَتُبۡرِئُ	ﱽ	وتبري	and you heal	watub'ri-u
+7	5:110:40	w	ٱلۡأَكۡمَهَ	ﱾ	الاكمه	the born blind	l-akmaha
+7	5:110:41	w	وَٱلۡأَبۡرَصَ	ﱿ	والابرص	and the leper	wal-abraṣa
+7	5:110:42	w	بِإِذۡنِيۖ	ﲀﲁ	باذني	by My permission	bi-idh'nī
+7	5:110:43	w	وَإِذۡ	ﲂ	واذ	and when	wa-idh
+7	5:110:44	w	تُخۡرِجُ	ﲃ	تخرج	you bring forth	tukh'riju
+8	5:110:45	w	ٱلۡمَوۡتَىٰ	ﲄ	الموتى	the dead	l-mawtā
+8	5:110:46	w	بِإِذۡنِيۖ	ﲅﲆ	باذني	by My permission	bi-idh'nī
+8	5:110:47	w	وَإِذۡ	ﲇ	واذ	And when	wa-idh
+8	5:110:48	w	كَفَفۡتُ	ﲈ	كففت	I restrained	kafaftu
+8	5:110:49	w	بَنِيٓ	ﲉ	بني	(the) Children	banī
+8	5:110:50	w	إِسۡرَٰٓءِيلَ	ﲊ	اسراييل	(of) Israel	is'rāīla
+8	5:110:51	w	عَنكَ	ﲋ	عنك	from you	ʿanka
+8	5:110:52	w	إِذۡ	ﲌ	اذ	when	idh
+9	5:110:53	w	جِئۡتَهُم	ﲍ	جيتهم	you came to them	ji'tahum
+9	5:110:54	w	بِٱلۡبَيِّنَٰتِ	ﲎ	بالبينات	with the clear proofs	bil-bayināti
+9	5:110:55	w	فَقَالَ	ﲏ	فقال	then said	faqāla
+9	5:110:56	w	ٱلَّذِينَ	ﲐ	الذين	those who	alladhīna
+9	5:110:57	w	كَفَرُواْ	ﲑ	كفروا	disbelieved	kafarū
+9	5:110:58	w	مِنۡهُمۡ	ﲒ	منهم	among them	min'hum
+9	5:110:59	w	إِنۡ	ﲓ	ان	Not	in
+9	5:110:60	w	هَٰذَآ	ﲔ	هاذا	(is) this	hādhā
+10	5:110:61	w	إِلَّا	ﲕ	الا	but	illā
+10	5:110:62	w	سِحۡرٞ	ﲖ	سحر	magic	siḥ'run
+10	5:110:63	w	مُّبِينٞ	ﲗ	مبين	clear	mubīnun
+10	5:110:64	e	١١٠	ﲘ			
+10	5:111:1	w	وَإِذۡ	ﲙ	واذ	And when	wa-idh
+10	5:111:2	w	أَوۡحَيۡتُ	ﲚ	اوحيت	I inspired	awḥaytu
+10	5:111:3	w	إِلَى	ﲛ	الى	to	ilā
+10	5:111:4	w	ٱلۡحَوَارِيِّـۧنَ	ﲜ	الحواريين	the disciples	l-ḥawāriyīna
+10	5:111:5	w	أَنۡ	ﲝ	ان	to	an
+10	5:111:6	w	ءَامِنُواْ	ﲞ	امنوا	believe	āminū
+11	5:111:7	w	بِي	ﲟ	بي	in Me	bī
+11	5:111:8	w	وَبِرَسُولِي	ﲠ	وبرسولي	and in My Messenger	wabirasūlī
+11	5:111:9	w	قَالُوٓاْ	ﲡ	قالوا	they said	qālū
+11	5:111:10	w	ءَامَنَّا	ﲢ	امنا	We believe	āmannā
+11	5:111:11	w	وَٱشۡهَدۡ	ﲣ	واشهد	and bear witness	wa-ish'had
+11	5:111:12	w	بِأَنَّنَا	ﲤ	باننا	that indeed we	bi-annanā
+11	5:111:13	w	مُسۡلِمُونَ	ﲥ	مسلمون	(are) Muslims	mus'limūna
+11	5:111:14	e	١١١	ﲦ			
+12	5:112:1	w	إِذۡ	ﲧ	اذ	When	idh
+12	5:112:2	w	قَالَ	ﲨ	قال	said	qāla
+12	5:112:3	w	ٱلۡحَوَارِيُّونَ	ﲩ	الحواريون	the disciples	l-ḥawāriyūna
+12	5:112:4	w	يَٰعِيسَى	ﲪ	يا عيسى	O Isa	yāʿīsā
+12	5:112:5	w	ٱبۡنَ	ﲫ	ابن	son	ib'na
+12	5:112:6	w	مَرۡيَمَ	ﲬ	مريم	(of) Maryam	maryama
+12	5:112:7	w	هَلۡ	ﲭ	هل	Is	hal
+12	5:112:8	w	يَسۡتَطِيعُ	ﲮ	يستطيع	able	yastaṭīʿu
+12	5:112:9	w	رَبُّكَ	ﲯ	ربك	your Lord	rabbuka
+13	5:112:10	w	أَن	ﲰ	ان	to	an
+13	5:112:11	w	يُنَزِّلَ	ﲱ	ينزل	send down	yunazzila
+13	5:112:12	w	عَلَيۡنَا	ﲲ	علينا	to us	ʿalaynā
+13	5:112:13	w	مَآئِدَةٗ	ﲳ	مايدة	a table spread	māidatan
+13	5:112:14	w	مِّنَ	ﲴ	من	from	mina
+13	5:112:15	w	ٱلسَّمَآءِۖ	ﲵﲶ	السماء	the heaven	l-samāi
+13	5:112:16	w	قَالَ	ﲷ	قال	He said	qāla
+13	5:112:17	w	ٱتَّقُواْ	ﲸ	اتقوا	Fear	ittaqū
+13	5:112:18	w	ٱللَّهَ	ﲹ	الله	Allah	l-laha
+13	5:112:19	w	إِن	ﲺ	ان	if	in
+13	5:112:20	w	كُنتُم	ﲻ	كنتم	you are	kuntum
+14	5:112:21	w	مُّؤۡمِنِينَ	ﲼ	مومنين	believers	mu'minīna
+14	5:112:22	e	١١٢	ﲽ			
+14	5:113:1	w	قَالُواْ	ﲾ	قالوا	They said	qālū
+14	5:113:2	w	نُرِيدُ	ﲿ	نريد	We wish	nurīdu
+14	5:113:3	w	أَن	ﳀ	ان	that	an
+14	5:113:4	w	نَّأۡكُلَ	ﳁ	ناكل	we eat	nakula
+14	5:113:5	w	مِنۡهَا	ﳂ	منها	from it	min'hā
+14	5:113:6	w	وَتَطۡمَئِنَّ	ﳃ	وتطمين	and satisfy	wataṭma-inna
+14	5:113:7	w	قُلُوبُنَا	ﳄ	قلوبنا	our hearts	qulūbunā
+15	5:113:8	w	وَنَعۡلَمَ	ﳅ	ونعلم	and we know	wanaʿlama
+15	5:113:9	w	أَن	ﳆ	ان	that	an
+15	5:113:10	w	قَدۡ	ﳇ	قد	certainly	qad
+15	5:113:11	w	صَدَقۡتَنَا	ﳈ	صدقتنا	you have spoken the truth to us	ṣadaqtanā
+15	5:113:12	w	وَنَكُونَ	ﳉ	ونكون	and we be	wanakūna
+15	5:113:13	w	عَلَيۡهَا	ﳊ	عليها	over it	ʿalayhā
+15	5:113:14	w	مِنَ	ﳋ	من	among	mina
+15	5:113:15	w	ٱلشَّٰهِدِينَ	ﳌ	الشاهدين	the witnesses	l-shāhidīna
+15	5:113:16	e	١١٣	ﳍ			

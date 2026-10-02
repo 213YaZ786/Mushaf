@@ -1,0 +1,140 @@
+1	2:170:1	w	وَإِذَا	ﱁ	واذا	And when	wa-idhā
+1	2:170:2	w	قِيلَ	ﱂ	قيل	it is said	qīla
+1	2:170:3	w	لَهُمُ	ﱃ	لهم	to them	lahumu
+1	2:170:4	w	ٱتَّبِعُواْ	ﱄ	اتبعوا	Follow	ittabiʿū
+1	2:170:5	w	مَآ	ﱅ	ما	what	mā
+1	2:170:6	w	أَنزَلَ	ﱆ	انزل	has revealed	anzala
+1	2:170:7	w	ٱللَّهُ	ﱇ	الله	Allah	l-lahu
+1	2:170:8	w	قَالُواْ	ﱈ	قالوا	they said	qālū
+1	2:170:9	w	بَلۡ	ﱉ	بل	Nay	bal
+1	2:170:10	w	نَتَّبِعُ	ﱊ	نتبع	we follow	nattabiʿu
+1	2:170:11	w	مَآ	ﱋ	ما	what	mā
+1	2:170:12	w	أَلۡفَيۡنَا	ﱌ	الفينا	we found	alfaynā
+2	2:170:13	w	عَلَيۡهِ	ﱍ	عليه	[on it]	ʿalayhi
+2	2:170:14	w	ءَابَآءَنَآۚ	ﱎﱏ	اباءنا	our forefathers (following)	ābāanā
+2	2:170:15	w	أَوَلَوۡ	ﱐ	اولو	Even though	awalaw
+2	2:170:16	w	كَانَ	ﱑ	كان	[were]	kāna
+2	2:170:17	w	ءَابَآؤُهُمۡ	ﱒ	اباوهم	their forefathers	ābāuhum
+2	2:170:18	w	لَا	ﱓ	لا	(did) not	lā
+2	2:170:19	w	يَعۡقِلُونَ	ﱔ	يعقلون	understand	yaʿqilūna
+2	2:170:20	w	شَيۡـٔٗا	ﱕ	شييا	anything	shayan
+2	2:170:21	w	وَلَا	ﱖ	ولا	and not	walā
+3	2:170:22	w	يَهۡتَدُونَ	ﱗ	يهتدون	were they guided	yahtadūna
+3	2:170:23	e	١٧٠	ﱘ			
+3	2:171:1	w	وَمَثَلُ	ﱙ	ومثل	And (the) example	wamathalu
+3	2:171:2	w	ٱلَّذِينَ	ﱚ	الذين	(of) those who	alladhīna
+3	2:171:3	w	كَفَرُواْ	ﱛ	كفروا	disbelieve[d]	kafarū
+3	2:171:4	w	كَمَثَلِ	ﱜ	كمثل	(is) like (the) example	kamathali
+3	2:171:5	w	ٱلَّذِي	ﱝ	الذي	(of) the one who	alladhī
+3	2:171:6	w	يَنۡعِقُ	ﱞ	ينعق	shouts	yanʿiqu
+4	2:171:7	w	بِمَا	ﱟ	بما	at what	bimā
+4	2:171:8	w	لَا	ﱠ	لا	not	lā
+4	2:171:9	w	يَسۡمَعُ	ﱡ	يسمع	(does) hear	yasmaʿu
+4	2:171:10	w	إِلَّا	ﱢ	الا	except	illā
+4	2:171:11	w	دُعَآءٗ	ﱣ	دعاء	calls	duʿāan
+4	2:171:12	w	وَنِدَآءٗۚ	ﱤﱥ	ونداء	and cries	wanidāan
+4	2:171:13	w	صُمُّۢ	ﱦ	صم	deaf	ṣummun
+4	2:171:14	w	بُكۡمٌ	ﱧ	بكم	dumb	buk'mun
+4	2:171:15	w	عُمۡيٞ	ﱨ	عمي	(and) blind	ʿum'yun
+4	2:171:16	w	فَهُمۡ	ﱩ	فهم	[so] they	fahum
+4	2:171:17	w	لَا	ﱪ	لا	(do) not	lā
+4	2:171:18	w	يَعۡقِلُونَ	ﱫ	يعقلون	understand	yaʿqilūna
+5	2:171:19	e	١٧١	ﱬ			
+5	2:172:1	w	يَٰٓأَيُّهَا	ﱭ	يا ايها	O you	yāayyuhā
+5	2:172:2	w	ٱلَّذِينَ	ﱮ	الذين	who	alladhīna
+5	2:172:3	w	ءَامَنُواْ	ﱯ	امنوا	believe[d]	āmanū
+5	2:172:4	w	كُلُواْ	ﱰ	كلوا	Eat	kulū
+5	2:172:5	w	مِن	ﱱ	من	from	min
+5	2:172:6	w	طَيِّبَٰتِ	ﱲ	طيبات	(the) good	ṭayyibāti
+5	2:172:7	w	مَا	ﱳ	ما	(of) what	mā
+5	2:172:8	w	رَزَقۡنَٰكُمۡ	ﱴ	رزقناكم	We have provided you	razaqnākum
+6	2:172:9	w	وَٱشۡكُرُواْ	ﱵ	واشكروا	and be grateful	wa-ush'kurū
+6	2:172:10	w	لِلَّهِ	ﱶ	لله	to Allah	lillahi
+6	2:172:11	w	إِن	ﱷ	ان	if	in
+6	2:172:12	w	كُنتُمۡ	ﱸ	كنتم	you	kuntum
+6	2:172:13	w	إِيَّاهُ	ﱹ	اياه	alone	iyyāhu
+6	2:172:14	w	تَعۡبُدُونَ	ﱺ	تعبدون	worship Him	taʿbudūna
+6	2:172:15	e	١٧٢	ﱻ			
+6	2:173:1	w	إِنَّمَا	ﱼ	انما	Only	innamā
+6	2:173:2	w	حَرَّمَ	ﱽ	حرم	He has forbidden	ḥarrama
+7	2:173:3	w	عَلَيۡكُمُ	ﱾ	عليكم	to you	ʿalaykumu
+7	2:173:4	w	ٱلۡمَيۡتَةَ	ﱿ	الميتة	the dead animals	l-maytata
+7	2:173:5	w	وَٱلدَّمَ	ﲀ	والدم	and [the] blood	wal-dama
+7	2:173:6	w	وَلَحۡمَ	ﲁ	ولحم	and flesh	walaḥma
+7	2:173:7	w	ٱلۡخِنزِيرِ	ﲂ	الخنزير	(of) swine	l-khinzīri
+7	2:173:8	w	وَمَآ	ﲃ	وما	and what	wamā
+7	2:173:9	w	أُهِلَّ	ﲄ	اهل	has been dedicated	uhilla
+7	2:173:10	w	بِهِۦ	ﲅ	به	[with it]	bihi
+7	2:173:11	w	لِغَيۡرِ	ﲆ	لغير	to other than	lighayri
+8	2:173:12	w	ٱللَّهِۖ	ﲇﲈ	الله	Allah	l-lahi
+8	2:173:13	w	فَمَنِ	ﲉ	فمن	So whoever	famani
+8	2:173:14	w	ٱضۡطُرَّ	ﲊ	اضطر	(is) forced by necessity	uḍ'ṭurra
+8	2:173:15	w	غَيۡرَ	ﲋ	غير	without	ghayra
+8	2:173:16	w	بَاغٖ	ﲌ	باغ	(being) disobedient	bāghin
+8	2:173:17	w	وَلَا	ﲍ	ولا	and not	walā
+8	2:173:18	w	عَادٖ	ﲎ	عاد	transgressor	ʿādin
+8	2:173:19	w	فَلَآ	ﲏ	فلا	then no	falā
+8	2:173:20	w	إِثۡمَ	ﲐ	اثم	sin	ith'ma
+8	2:173:21	w	عَلَيۡهِۚ	ﲑﲒ	عليه	on him	ʿalayhi
+8	2:173:22	w	إِنَّ	ﲓ	ان	Indeed	inna
+8	2:173:23	w	ٱللَّهَ	ﲔ	الله	Allah	l-laha
+9	2:173:24	w	غَفُورٞ	ﲕ	غفور	(is) Oft-Forgiving	ghafūrun
+9	2:173:25	w	رَّحِيمٌ	ﲖ	رحيم	Most Merciful	raḥīmun
+9	2:173:26	e	١٧٣	ﲗ			
+9	2:174:1	w	إِنَّ	ﲘ	ان	Indeed	inna
+9	2:174:2	w	ٱلَّذِينَ	ﲙ	الذين	those who	alladhīna
+9	2:174:3	w	يَكۡتُمُونَ	ﲚ	يكتمون	conceal	yaktumūna
+9	2:174:4	w	مَآ	ﲛ	ما	what	mā
+9	2:174:5	w	أَنزَلَ	ﲜ	انزل	(has) revealed	anzala
+9	2:174:6	w	ٱللَّهُ	ﲝ	الله	Allah (has)	l-lahu
+9	2:174:7	w	مِنَ	ﲞ	من	of	mina
+10	2:174:8	w	ٱلۡكِتَٰبِ	ﲟ	الكتاب	the Book	l-kitābi
+10	2:174:9	w	وَيَشۡتَرُونَ	ﲠ	ويشترون	and they purchase	wayashtarūna
+10	2:174:10	w	بِهِۦ	ﲡ	به	there with	bihi
+10	2:174:11	w	ثَمَنٗا	ﲢ	ثمنا	a gain	thamanan
+10	2:174:12	w	قَلِيلًا	ﲣ	قليلا	little	qalīlan
+10	2:174:13	w	أُوْلَٰٓئِكَ	ﲤ	اولايك	Those	ulāika
+10	2:174:14	w	مَا	ﲥ	ما	not	mā
+10	2:174:15	w	يَأۡكُلُونَ	ﲦ	ياكلون	they eat	yakulūna
+11	2:174:16	w	فِي	ﲧ	في	in	fī
+11	2:174:17	w	بُطُونِهِمۡ	ﲨ	بطونهم	their bellies	buṭūnihim
+11	2:174:18	w	إِلَّا	ﲩ	الا	except	illā
+11	2:174:19	w	ٱلنَّارَ	ﲪ	النار	the Fire	l-nāra
+11	2:174:20	w	وَلَا	ﲫ	ولا	And not	walā
+11	2:174:21	w	يُكَلِّمُهُمُ	ﲬ	يكلمهم	will speak to them	yukallimuhumu
+11	2:174:22	w	ٱللَّهُ	ﲭ	الله	Allah	l-lahu
+11	2:174:23	w	يَوۡمَ	ﲮ	يوم	(on the) Day	yawma
+11	2:174:24	w	ٱلۡقِيَٰمَةِ	ﲯ	القيامة	(of) [the] Judgment	l-qiyāmati
+12	2:174:25	w	وَلَا	ﲰ	ولا	and not	walā
+12	2:174:26	w	يُزَكِّيهِمۡ	ﲱ	يزكيهم	will He purify them	yuzakkīhim
+12	2:174:27	w	وَلَهُمۡ	ﲲ	ولهم	and for them	walahum
+12	2:174:28	w	عَذَابٌ	ﲳ	عذاب	(is) a punishment	ʿadhābun
+12	2:174:29	w	أَلِيمٌ	ﲴ	اليم	painful	alīmun
+12	2:174:30	e	١٧٤	ﲵ			
+12	2:175:1	w	أُوْلَٰٓئِكَ	ﲶ	اولايك	Those	ulāika
+12	2:175:2	w	ٱلَّذِينَ	ﲷ	الذين	(are) they who	alladhīna
+13	2:175:3	w	ٱشۡتَرَوُاْ	ﲸ	اشتروا	purchase[d]	ish'tarawū
+13	2:175:4	w	ٱلضَّلَٰلَةَ	ﲹ	الضلالة	[the] astraying	l-ḍalālata
+13	2:175:5	w	بِٱلۡهُدَىٰ	ﲺ	بالهدى	for [the] Guidance	bil-hudā
+13	2:175:6	w	وَٱلۡعَذَابَ	ﲻ	والعذاب	and [the] punishment	wal-ʿadhāba
+13	2:175:7	w	بِٱلۡمَغۡفِرَةِۚ	ﲼﲽ	بالمغفرة	for [the] forgiveness	bil-maghfirati
+13	2:175:8	w	فَمَآ	ﲾ	فما	So what (is)	famā
+14	2:175:9	w	أَصۡبَرَهُمۡ	ﲿ	اصبرهم	their endurance	aṣbarahum
+14	2:175:10	w	عَلَى	ﳀ	على	on	ʿalā
+14	2:175:11	w	ٱلنَّارِ	ﳁ	النار	the Fire	l-nāri
+14	2:175:12	e	١٧٥	ﳂ			
+14	2:176:1	w	ذَٰلِكَ	ﳃ	ذالك	That	dhālika
+14	2:176:2	w	بِأَنَّ	ﳄ	بان	(is) because	bi-anna
+14	2:176:3	w	ٱللَّهَ	ﳅ	الله	Allah	l-laha
+14	2:176:4	w	نَزَّلَ	ﳆ	نزل	revealed	nazzala
+14	2:176:5	w	ٱلۡكِتَٰبَ	ﳇ	الكتاب	the Book	l-kitāba
+14	2:176:6	w	بِٱلۡحَقِّۗ	ﳈﳉ	بالحق	with [the] Truth	bil-ḥaqi
+15	2:176:7	w	وَإِنَّ	ﳊ	وان	And indeed	wa-inna
+15	2:176:8	w	ٱلَّذِينَ	ﳋ	الذين	those	alladhīna
+15	2:176:9	w	ٱخۡتَلَفُواْ	ﳌ	اختلفوا	who differed	ikh'talafū
+15	2:176:10	w	فِي	ﳍ	في	in	fī
+15	2:176:11	w	ٱلۡكِتَٰبِ	ﳎ	الكتاب	the Book	l-kitābi
+15	2:176:12	w	لَفِي	ﳏ	لفي	(are) surely in	lafī
+15	2:176:13	w	شِقَاقِۭ	ﳐ	شقاق	schism	shiqāqin
+15	2:176:14	w	بَعِيدٖ	ﳑ	بعيد	far	baʿīdin
+15	2:176:15	e	١٧٦	ﳒ			

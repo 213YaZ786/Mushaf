@@ -1,0 +1,127 @@
+3	31:1:1	w	الٓمٓ	ﱁ	الم	Alif Lam Meem	alif-lam-meem
+3	31:1:2	e	١	ﱂ			
+3	31:2:1	w	تِلۡكَ	ﱃ	تلك	These	til'ka
+3	31:2:2	w	ءَايَٰتُ	ﱄ	ايات	(are) Verses	āyātu
+3	31:2:3	w	ٱلۡكِتَٰبِ	ﱅ	الكتاب	(of) the Book	l-kitābi
+3	31:2:4	w	ٱلۡحَكِيمِ	ﱆ	الحكيم	the Wise	l-ḥakīmi
+3	31:2:5	e	٢	ﱇ			
+3	31:3:1	w	هُدٗى	ﱈ	هدى	A guidance	hudan
+3	31:3:2	w	وَرَحۡمَةٗ	ﱉ	ورحمة	and a mercy	waraḥmatan
+4	31:3:3	w	لِّلۡمُحۡسِنِينَ	ﱊ	للمحسنين	for the good-doers	lil'muḥ'sinīna
+4	31:3:4	e	٣	ﱋ			
+4	31:4:1	w	ٱلَّذِينَ	ﱌ	الذين	Those who	alladhīna
+4	31:4:2	w	يُقِيمُونَ	ﱍ	يقيمون	establish	yuqīmūna
+4	31:4:3	w	ٱلصَّلَوٰةَ	ﱎ	الصلاة	the prayer	l-ṣalata
+4	31:4:4	w	وَيُؤۡتُونَ	ﱏ	ويوتون	and give	wayu'tūna
+4	31:4:5	w	ٱلزَّكَوٰةَ	ﱐ	الزكاة	zakah	l-zakata
+4	31:4:6	w	وَهُم	ﱑ	وهم	and they	wahum
+5	31:4:7	w	بِٱلۡأٓخِرَةِ	ﱒ	بالاخرة	in the Hereafter	bil-ākhirati
+5	31:4:8	w	هُمۡ	ﱓ	هم	[they]	hum
+5	31:4:9	w	يُوقِنُونَ	ﱔ	يوقنون	believe firmly	yūqinūna
+5	31:4:10	e	٤	ﱕ			
+5	31:5:1	w	أُوْلَٰٓئِكَ	ﱖ	اولايك	Those	ulāika
+5	31:5:2	w	عَلَىٰ	ﱗ	على	(are) on	ʿalā
+5	31:5:3	w	هُدٗى	ﱘ	هدى	guidance	hudan
+5	31:5:4	w	مِّن	ﱙ	من	from	min
+5	31:5:5	w	رَّبِّهِمۡۖ	ﱚﱛ	ربهم	their Lord	rabbihim
+5	31:5:6	w	وَأُوْلَٰٓئِكَ	ﱜ	واولايك	and those	wa-ulāika
+6	31:5:7	w	هُمُ	ﱝ	هم	[they]	humu
+6	31:5:8	w	ٱلۡمُفۡلِحُونَ	ﱞ	المفلحون	(are) the successful	l-muf'liḥūna
+6	31:5:9	e	٥	ﱟ			
+6	31:6:1	w	وَمِنَ	ﱠ	ومن	And of	wamina
+6	31:6:2	w	ٱلنَّاسِ	ﱡ	الناس	the mankind	l-nāsi
+6	31:6:3	w	مَن	ﱢ	من	(is he) who	man
+6	31:6:4	w	يَشۡتَرِي	ﱣ	يشتري	purchases	yashtarī
+6	31:6:5	w	لَهۡوَ	ﱤ	لهو	idle tales	lahwa
+6	31:6:6	w	ٱلۡحَدِيثِ	ﱥ	الحديث	idle tales	l-ḥadīthi
+7	31:6:7	w	لِيُضِلَّ	ﱦ	ليضل	to mislead	liyuḍilla
+7	31:6:8	w	عَن	ﱧ	عن	from	ʿan
+7	31:6:9	w	سَبِيلِ	ﱨ	سبيل	(the) path	sabīli
+7	31:6:10	w	ٱللَّهِ	ﱩ	الله	(of) Allah	l-lahi
+7	31:6:11	w	بِغَيۡرِ	ﱪ	بغير	without	bighayri
+7	31:6:12	w	عِلۡمٖ	ﱫ	علم	knowledge	ʿil'min
+7	31:6:13	w	وَيَتَّخِذَهَا	ﱬ	ويتخذها	and takes it	wayattakhidhahā
+7	31:6:14	w	هُزُوًاۚ	ﱭﱮ	هزوا	(in) ridicule	huzuwan
+7	31:6:15	w	أُوْلَٰٓئِكَ	ﱯ	اولايك	Those	ulāika
+7	31:6:16	w	لَهُمۡ	ﱰ	لهم	for them	lahum
+8	31:6:17	w	عَذَابٞ	ﱱ	عذاب	(is) a punishment	ʿadhābun
+8	31:6:18	w	مُّهِينٞ	ﱲ	مهين	humiliating	muhīnun
+8	31:6:19	e	٦	ﱳ			
+8	31:7:1	w	وَإِذَا	ﱴ	واذا	And when	wa-idhā
+8	31:7:2	w	تُتۡلَىٰ	ﱵ	تتلى	are recited	tut'lā
+8	31:7:3	w	عَلَيۡهِ	ﱶ	عليه	to him	ʿalayhi
+8	31:7:4	w	ءَايَٰتُنَا	ﱷ	اياتنا	Our Verses	āyātunā
+8	31:7:5	w	وَلَّىٰ	ﱸ	ولى	he turns away	wallā
+8	31:7:6	w	مُسۡتَكۡبِرٗا	ﱹ	مستكبرا	arrogantly	mus'takbiran
+9	31:7:7	w	كَأَن	ﱺ	كان	as if	ka-an
+9	31:7:8	w	لَّمۡ	ﱻ	لم	not	lam
+9	31:7:9	w	يَسۡمَعۡهَا	ﱼ	يسمعها	he (had) heard them	yasmaʿhā
+9	31:7:10	w	كَأَنَّ	ﱽ	كان	as if	ka-anna
+9	31:7:11	w	فِيٓ	ﱾ	في	in	fī
+9	31:7:12	w	أُذُنَيۡهِ	ﱿ	اذنيه	his ears	udhunayhi
+9	31:7:13	w	وَقۡرٗاۖ	ﲀﲁ	وقرا	(is) deafness	waqran
+9	31:7:14	w	فَبَشِّرۡهُ	ﲂ	فبشره	So give him tidings	fabashir'hu
+9	31:7:15	w	بِعَذَابٍ	ﲃ	بعذاب	of a punishment	biʿadhābin
+9	31:7:16	w	أَلِيمٍ	ﲄ	اليم	painful	alīmin
+9	31:7:17	e	٧	ﲅ			
+10	31:8:1	w	إِنَّ	ﲆ	ان	Indeed	inna
+10	31:8:2	w	ٱلَّذِينَ	ﲇ	الذين	those who	alladhīna
+10	31:8:3	w	ءَامَنُواْ	ﲈ	امنوا	believe	āmanū
+10	31:8:4	w	وَعَمِلُواْ	ﲉ	وعملوا	and do	waʿamilū
+10	31:8:5	w	ٱلصَّٰلِحَٰتِ	ﲊ	الصالحات	righteous deeds	l-ṣāliḥāti
+10	31:8:6	w	لَهُمۡ	ﲋ	لهم	for them	lahum
+10	31:8:7	w	جَنَّٰتُ	ﲌ	جنات	(are) Gardens	jannātu
+10	31:8:8	w	ٱلنَّعِيمِ	ﲍ	النعيم	(of) Delight	l-naʿīmi
+10	31:8:9	e	٨	ﲎ			
+11	31:9:1	w	خَٰلِدِينَ	ﲏ	خالدين	(To) abide forever	khālidīna
+11	31:9:2	w	فِيهَاۖ	ﲐﲑ	فيها	in it	fīhā
+11	31:9:3	w	وَعۡدَ	ﲒ	وعد	(The) Promise of Allah	waʿda
+11	31:9:4	w	ٱللَّهِ	ﲓ	الله	(The) Promise of Allah	l-lahi
+11	31:9:5	w	حَقّٗاۚ	ﲔﲕ	حقا	(is) true	ḥaqqan
+11	31:9:6	w	وَهُوَ	ﲖ	وهو	And He	wahuwa
+11	31:9:7	w	ٱلۡعَزِيزُ	ﲗ	العزيز	(is) the All-Mighty	l-ʿazīzu
+11	31:9:8	w	ٱلۡحَكِيمُ	ﲘ	الحكيم	the All-Wise	l-ḥakīmu
+11	31:9:9	e	٩	ﲙ			
+11	31:10:1	w	خَلَقَ	ﲚ	خلق	He created	khalaqa
+12	31:10:2	w	ٱلسَّمَٰوَٰتِ	ﲛ	السماوات	the heavens	l-samāwāti
+12	31:10:3	w	بِغَيۡرِ	ﲜ	بغير	without	bighayri
+12	31:10:4	w	عَمَدٖ	ﲝ	عمد	pillars	ʿamadin
+12	31:10:5	w	تَرَوۡنَهَاۖ	ﲞﲟ	ترونها	that you see	tarawnahā
+12	31:10:6	w	وَأَلۡقَىٰ	ﲠ	والقى	and has cast	wa-alqā
+12	31:10:7	w	فِي	ﲡ	في	in	fī
+12	31:10:8	w	ٱلۡأَرۡضِ	ﲢ	الارض	the earth	l-arḍi
+12	31:10:9	w	رَوَٰسِيَ	ﲣ	رواسي	firm mountains	rawāsiya
+12	31:10:10	w	أَن	ﲤ	ان	lest	an
+12	31:10:11	w	تَمِيدَ	ﲥ	تميد	it (might) shake	tamīda
+13	31:10:12	w	بِكُمۡ	ﲦ	بكم	with you	bikum
+13	31:10:13	w	وَبَثَّ	ﲧ	وبث	and He dispersed	wabatha
+13	31:10:14	w	فِيهَا	ﲨ	فيها	in it	fīhā
+13	31:10:15	w	مِن	ﲩ	من	from	min
+13	31:10:16	w	كُلِّ	ﲪ	كل	every	kulli
+13	31:10:17	w	دَآبَّةٖۚ	ﲫﲬ	دابة	creature	dābbatin
+13	31:10:18	w	وَأَنزَلۡنَا	ﲭ	وانزلنا	And We sent down	wa-anzalnā
+13	31:10:19	w	مِنَ	ﲮ	من	from	mina
+13	31:10:20	w	ٱلسَّمَآءِ	ﲯ	السماء	the sky	l-samāi
+13	31:10:21	w	مَآءٗ	ﲰ	ماء	water	māan
+13	31:10:22	w	فَأَنۢبَتۡنَا	ﲱ	فانبتنا	then We caused to grow	fa-anbatnā
+14	31:10:23	w	فِيهَا	ﲲ	فيها	therein	fīhā
+14	31:10:24	w	مِن	ﲳ	من	of	min
+14	31:10:25	w	كُلِّ	ﲴ	كل	every	kulli
+14	31:10:26	w	زَوۡجٖ	ﲵ	زوج	kind	zawjin
+14	31:10:27	w	كَرِيمٍ	ﲶ	كريم	noble	karīmin
+14	31:10:28	e	١٠	ﲷ			
+14	31:11:1	w	هَٰذَا	ﲸ	هاذا	This	hādhā
+14	31:11:2	w	خَلۡقُ	ﲹ	خلق	(is the) creation	khalqu
+14	31:11:3	w	ٱللَّهِ	ﲺ	الله	(of) Allah	l-lahi
+14	31:11:4	w	فَأَرُونِي	ﲻ	فاروني	So show Me	fa-arūnī
+14	31:11:5	w	مَاذَا	ﲼ	ماذا	what	mādhā
+15	31:11:6	w	خَلَقَ	ﲽ	خلق	have created	khalaqa
+15	31:11:7	w	ٱلَّذِينَ	ﲾ	الذين	those	alladhīna
+15	31:11:8	w	مِن	ﲿ	من	besides Him	min
+15	31:11:9	w	دُونِهِۦۚ	ﳀﳁ	دونه	besides Him	dūnihi
+15	31:11:10	w	بَلِ	ﳂ	بل	Nay	bali
+15	31:11:11	w	ٱلظَّٰلِمُونَ	ﳃ	الظالمون	the wrongdoers	l-ẓālimūna
+15	31:11:12	w	فِي	ﳄ	في	(are) in	fī
+15	31:11:13	w	ضَلَٰلٖ	ﳅ	ضلال	error	ḍalālin
+15	31:11:14	w	مُّبِينٖ	ﳆ	مبين	clear	mubīnin
+15	31:11:15	e	١١	ﳇ			

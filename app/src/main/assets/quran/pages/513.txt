@@ -1,0 +1,145 @@
+1	48:16:1	w	قُل	ﱁ	قل	Say	qul
+1	48:16:2	w	لِّلۡمُخَلَّفِينَ	ﱂ	للمخلفين	to those who remained behind	lil'mukhallafīna
+1	48:16:3	w	مِنَ	ﱃ	من	of	mina
+1	48:16:4	w	ٱلۡأَعۡرَابِ	ﱄ	الاعراب	the Bedouins	l-aʿrābi
+1	48:16:5	w	سَتُدۡعَوۡنَ	ﱅ	ستدعون	You will be called	satud'ʿawna
+1	48:16:6	w	إِلَىٰ	ﱆ	الى	to	ilā
+1	48:16:7	w	قَوۡمٍ	ﱇ	قوم	a people	qawmin
+1	48:16:8	w	أُوْلِي	ﱈ	اولي	possessors of military might	ulī
+1	48:16:9	w	بَأۡسٖ	ﱉ	باس	possessors of military might	basin
+1	48:16:10	w	شَدِيدٖ	ﱊ	شديد	great	shadīdin
+2	48:16:11	w	تُقَٰتِلُونَهُمۡ	ﱋ	تقاتلونهم	you will fight them	tuqātilūnahum
+2	48:16:12	w	أَوۡ	ﱌ	او	or	aw
+2	48:16:13	w	يُسۡلِمُونَۖ	ﱍﱎ	يسلمون	they will submit	yus'limūna
+2	48:16:14	w	فَإِن	ﱏ	فان	Then if	fa-in
+2	48:16:15	w	تُطِيعُواْ	ﱐ	تطيعوا	you obey	tuṭīʿū
+2	48:16:16	w	يُؤۡتِكُمُ	ﱑ	يوتكم	Allah will give you	yu'tikumu
+2	48:16:17	w	ٱللَّهُ	ﱒ	الله	Allah will give you	l-lahu
+2	48:16:18	w	أَجۡرًا	ﱓ	اجرا	a reward	ajran
+2	48:16:19	w	حَسَنٗاۖ	ﱔﱕ	حسنا	good	ḥasanan
+3	48:16:20	w	وَإِن	ﱖ	وان	but if	wa-in
+3	48:16:21	w	تَتَوَلَّوۡاْ	ﱗ	تتولوا	you turn away	tatawallaw
+3	48:16:22	w	كَمَا	ﱘ	كما	as	kamā
+3	48:16:23	w	تَوَلَّيۡتُم	ﱙ	توليتم	you turned away	tawallaytum
+3	48:16:24	w	مِّن	ﱚ	من	before	min
+3	48:16:25	w	قَبۡلُ	ﱛ	قبل	before	qablu
+3	48:16:26	w	يُعَذِّبۡكُمۡ	ﱜ	يعذبكم	He will punish you	yuʿadhib'kum
+3	48:16:27	w	عَذَابًا	ﱝ	عذابا	(with) a punishment	ʿadhāban
+3	48:16:28	w	أَلِيمٗا	ﱞ	اليما	painful	alīman
+3	48:16:29	e	١٦	ﱟ			
+3	48:17:1	w	لَّيۡسَ	ﱠ	ليس	Not is	laysa
+4	48:17:2	w	عَلَى	ﱡ	على	upon	ʿalā
+4	48:17:3	w	ٱلۡأَعۡمَىٰ	ﱢ	الاعمى	the blind	l-aʿmā
+4	48:17:4	w	حَرَجٞ	ﱣ	حرج	any blame	ḥarajun
+4	48:17:5	w	وَلَا	ﱤ	ولا	and not	walā
+4	48:17:6	w	عَلَى	ﱥ	على	on	ʿalā
+4	48:17:7	w	ٱلۡأَعۡرَجِ	ﱦ	الاعرج	the lame	l-aʿraji
+4	48:17:8	w	حَرَجٞ	ﱧ	حرج	any blame	ḥarajun
+4	48:17:9	w	وَلَا	ﱨ	ولا	and not	walā
+4	48:17:10	w	عَلَى	ﱩ	على	on	ʿalā
+4	48:17:11	w	ٱلۡمَرِيضِ	ﱪ	المريض	the sick	l-marīḍi
+4	48:17:12	w	حَرَجٞۗ	ﱫﱬ	حرج	any blame	ḥarajun
+5	48:17:13	w	وَمَن	ﱭ	ومن	And whoever	waman
+5	48:17:14	w	يُطِعِ	ﱮ	يطع	obeys	yuṭiʿi
+5	48:17:15	w	ٱللَّهَ	ﱯ	الله	Allah	l-laha
+5	48:17:16	w	وَرَسُولَهُۥ	ﱰ	ورسوله	and His Messenger	warasūlahu
+5	48:17:17	w	يُدۡخِلۡهُ	ﱱ	يدخله	He will admit him	yud'khil'hu
+5	48:17:18	w	جَنَّٰتٖ	ﱲ	جنات	(to) Gardens	jannātin
+5	48:17:19	w	تَجۡرِي	ﱳ	تجري	flow	tajrī
+5	48:17:20	w	مِن	ﱴ	من	from	min
+5	48:17:21	w	تَحۡتِهَا	ﱵ	تحتها	underneath them	taḥtihā
+6	48:17:22	w	ٱلۡأَنۡهَٰرُۖ	ﱶﱷ	الانهار	the rivers	l-anhāru
+6	48:17:23	w	وَمَن	ﱸ	ومن	but whoever	waman
+6	48:17:24	w	يَتَوَلَّ	ﱹ	يتول	turns away	yatawalla
+6	48:17:25	w	يُعَذِّبۡهُ	ﱺ	يعذبه	He will punish him	yuʿadhib'hu
+6	48:17:26	w	عَذَابًا	ﱻ	عذابا	(with) a punishment	ʿadhāban
+6	48:17:27	w	أَلِيمٗا	ﱼ	اليما	painful	alīman
+6	48:17:28	e	١٧	ﱽ			
+6	48:18:1	w	۞ لَّقَدۡ	ﱾ ﱿ	۞ لقد	Certainly	laqad
+6	48:18:2	w	رَضِيَ	ﲀ	رضي	Allah was pleased	raḍiya
+6	48:18:3	w	ٱللَّهُ	ﲁ	الله	Allah was pleased	l-lahu
+7	48:18:4	w	عَنِ	ﲂ	عن	with	ʿani
+7	48:18:5	w	ٱلۡمُؤۡمِنِينَ	ﲃ	المومنين	the believers	l-mu'minīna
+7	48:18:6	w	إِذۡ	ﲄ	اذ	when	idh
+7	48:18:7	w	يُبَايِعُونَكَ	ﲅ	يبايعونك	they pledged allegiance to you	yubāyiʿūnaka
+7	48:18:8	w	تَحۡتَ	ﲆ	تحت	under	taḥta
+7	48:18:9	w	ٱلشَّجَرَةِ	ﲇ	الشجرة	the tree	l-shajarati
+7	48:18:10	w	فَعَلِمَ	ﲈ	فعلم	and He knew	faʿalima
+7	48:18:11	w	مَا	ﲉ	ما	what	mā
+7	48:18:12	w	فِي	ﲊ	في	(was) in	fī
+8	48:18:13	w	قُلُوبِهِمۡ	ﲋ	قلوبهم	their hearts	qulūbihim
+8	48:18:14	w	فَأَنزَلَ	ﲌ	فانزل	so He sent down	fa-anzala
+8	48:18:15	w	ٱلسَّكِينَةَ	ﲍ	السكينة	the tranquility	l-sakīnata
+8	48:18:16	w	عَلَيۡهِمۡ	ﲎ	عليهم	upon them	ʿalayhim
+8	48:18:17	w	وَأَثَٰبَهُمۡ	ﲏ	واثابهم	and rewarded them	wa-athābahum
+8	48:18:18	w	فَتۡحٗا	ﲐ	فتحا	(with) a victory	fatḥan
+8	48:18:19	w	قَرِيبٗا	ﲑ	قريبا	near	qarīban
+8	48:18:20	e	١٨	ﲒ			
+8	48:19:1	w	وَمَغَانِمَ	ﲓ	ومغانم	And spoils of war	wamaghānima
+9	48:19:2	w	كَثِيرَةٗ	ﲔ	كثيرة	much	kathīratan
+9	48:19:3	w	يَأۡخُذُونَهَاۗ	ﲕﲖ	ياخذونها	that they will take	yakhudhūnahā
+9	48:19:4	w	وَكَانَ	ﲗ	وكان	and is	wakāna
+9	48:19:5	w	ٱللَّهُ	ﲘ	الله	Allah	l-lahu
+9	48:19:6	w	عَزِيزًا	ﲙ	عزيزا	All-Mighty	ʿazīzan
+9	48:19:7	w	حَكِيمٗا	ﲚ	حكيما	All-Wise	ḥakīman
+9	48:19:8	e	١٩	ﲛ			
+9	48:20:1	w	وَعَدَكُمُ	ﲜ	وعدكم	Allah has promised you	waʿadakumu
+9	48:20:2	w	ٱللَّهُ	ﲝ	الله	Allah has promised you	l-lahu
+10	48:20:3	w	مَغَانِمَ	ﲞ	مغانم	spoils of war	maghānima
+10	48:20:4	w	كَثِيرَةٗ	ﲟ	كثيرة	much	kathīratan
+10	48:20:5	w	تَأۡخُذُونَهَا	ﲠ	تاخذونها	that you will take it	takhudhūnahā
+10	48:20:6	w	فَعَجَّلَ	ﲡ	فعجل	and He has hastened	faʿajjala
+10	48:20:7	w	لَكُمۡ	ﲢ	لكم	for you	lakum
+10	48:20:8	w	هَٰذِهِۦ	ﲣ	هاذه	this	hādhihi
+10	48:20:9	w	وَكَفَّ	ﲤ	وكف	and has withheld	wakaffa
+10	48:20:10	w	أَيۡدِيَ	ﲥ	ايدي	(the) hands	aydiya
+11	48:20:11	w	ٱلنَّاسِ	ﲦ	الناس	(of) the people	l-nāsi
+11	48:20:12	w	عَنكُمۡ	ﲧ	عنكم	from you	ʿankum
+11	48:20:13	w	وَلِتَكُونَ	ﲨ	ولتكون	that it may be	walitakūna
+11	48:20:14	w	ءَايَةٗ	ﲩ	اية	a sign	āyatan
+11	48:20:15	w	لِّلۡمُؤۡمِنِينَ	ﲪ	للمومنين	for the believers	lil'mu'minīna
+11	48:20:16	w	وَيَهۡدِيَكُمۡ	ﲫ	ويهديكم	and He may guide you	wayahdiyakum
+11	48:20:17	w	صِرَٰطٗا	ﲬ	صراطا	(to the) Path	ṣirāṭan
+12	48:20:18	w	مُّسۡتَقِيمٗا	ﲭ	مستقيما	Straight	mus'taqīman
+12	48:20:19	e	٢٠	ﲮ			
+12	48:21:1	w	وَأُخۡرَىٰ	ﲯ	واخرى	And others	wa-ukh'rā
+12	48:21:2	w	لَمۡ	ﲰ	لم	not	lam
+12	48:21:3	w	تَقۡدِرُواْ	ﲱ	تقدروا	you had power	taqdirū
+12	48:21:4	w	عَلَيۡهَا	ﲲ	عليها	over them	ʿalayhā
+12	48:21:5	w	قَدۡ	ﲳ	قد	surely	qad
+12	48:21:6	w	أَحَاطَ	ﲴ	احاط	Allah encompassed	aḥāṭa
+12	48:21:7	w	ٱللَّهُ	ﲵ	الله	Allah encompassed	l-lahu
+12	48:21:8	w	بِهَاۚ	ﲶﲷ	بها	them	bihā
+13	48:21:9	w	وَكَانَ	ﲸ	وكان	and is	wakāna
+13	48:21:10	w	ٱللَّهُ	ﲹ	الله	Allah	l-lahu
+13	48:21:11	w	عَلَىٰ	ﲺ	على	over	ʿalā
+13	48:21:12	w	كُلِّ	ﲻ	كل	all	kulli
+13	48:21:13	w	شَيۡءٖ	ﲼ	شيء	things	shayin
+13	48:21:14	w	قَدِيرٗا	ﲽ	قديرا	All-Powerful	qadīran
+13	48:21:15	e	٢١	ﲾ			
+13	48:22:1	w	وَلَوۡ	ﲿ	ولو	And if	walaw
+13	48:22:2	w	قَٰتَلَكُمُ	ﳀ	قاتلكم	fight you	qātalakumu
+13	48:22:3	w	ٱلَّذِينَ	ﳁ	الذين	those who	alladhīna
+14	48:22:4	w	كَفَرُواْ	ﳂ	كفروا	disbelieve	kafarū
+14	48:22:5	w	لَوَلَّوُاْ	ﳃ	لولوا	surely they would turn	lawallawū
+14	48:22:6	w	ٱلۡأَدۡبَٰرَ	ﳄ	الادبار	the backs	l-adbāra
+14	48:22:7	w	ثُمَّ	ﳅ	ثم	Then	thumma
+14	48:22:8	w	لَا	ﳆ	لا	not	lā
+14	48:22:9	w	يَجِدُونَ	ﳇ	يجدون	they would find	yajidūna
+14	48:22:10	w	وَلِيّٗا	ﳈ	وليا	any protector	waliyyan
+14	48:22:11	w	وَلَا	ﳉ	ولا	and not	walā
+14	48:22:12	w	نَصِيرٗا	ﳊ	نصيرا	any helper	naṣīran
+14	48:22:13	e	٢٢	ﳋ			
+14	48:23:1	w	سُنَّةَ	ﳌ	سنة	(The established) way	sunnata
+15	48:23:2	w	ٱللَّهِ	ﳍ	الله	(of) Allah	l-lahi
+15	48:23:3	w	ٱلَّتِي	ﳎ	التي	which	allatī
+15	48:23:4	w	قَدۡ	ﳏ	قد	passed away	qad
+15	48:23:5	w	خَلَتۡ	ﳐ	خلت	passed away	khalat
+15	48:23:6	w	مِن	ﳑ	من	before	min
+15	48:23:7	w	قَبۡلُۖ	ﳒﳓ	قبل	before	qablu
+15	48:23:8	w	وَلَن	ﳔ	ولن	and never	walan
+15	48:23:9	w	تَجِدَ	ﳕ	تجد	you will find	tajida
+15	48:23:10	w	لِسُنَّةِ	ﳖ	لسنة	in (the) way of Allah	lisunnati
+15	48:23:11	w	ٱللَّهِ	ﳗ	الله	in (the) way of Allah	l-lahi
+15	48:23:12	w	تَبۡدِيلٗا	ﳘ	تبديلا	any change	tabdīlan
+15	48:23:13	e	٢٣	ﳙ			

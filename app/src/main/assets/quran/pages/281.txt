@@ -1,0 +1,141 @@
+1	16:119:1	w	ثُمَّ	ﱁ	ثم	Then	thumma
+1	16:119:2	w	إِنَّ	ﱂ	ان	indeed	inna
+1	16:119:3	w	رَبَّكَ	ﱃ	ربك	your Lord	rabbaka
+1	16:119:4	w	لِلَّذِينَ	ﱄ	للذين	to those who	lilladhīna
+1	16:119:5	w	عَمِلُواْ	ﱅ	عملوا	did	ʿamilū
+1	16:119:6	w	ٱلسُّوٓءَ	ﱆ	السوء	evil	l-sūa
+1	16:119:7	w	بِجَهَٰلَةٖ	ﱇ	بجهالة	in ignorance	bijahālatin
+1	16:119:8	w	ثُمَّ	ﱈ	ثم	then	thumma
+1	16:119:9	w	تَابُواْ	ﱉ	تابوا	repented	tābū
+1	16:119:10	w	مِنۢ	ﱊ	من	after	min
+1	16:119:11	w	بَعۡدِ	ﱋ	بعد	after	baʿdi
+2	16:119:12	w	ذَٰلِكَ	ﱌ	ذالك	that	dhālika
+2	16:119:13	w	وَأَصۡلَحُوٓاْ	ﱍ	واصلحوا	and corrected themselves	wa-aṣlaḥū
+2	16:119:14	w	إِنَّ	ﱎ	ان	indeed	inna
+2	16:119:15	w	رَبَّكَ	ﱏ	ربك	your Lord	rabbaka
+2	16:119:16	w	مِنۢ	ﱐ	من	after that	min
+2	16:119:17	w	بَعۡدِهَا	ﱑ	بعدها	after that	baʿdihā
+2	16:119:18	w	لَغَفُورٞ	ﱒ	لغفور	(is) surely Oft-Forgiving	laghafūrun
+2	16:119:19	w	رَّحِيمٌ	ﱓ	رحيم	Most Merciful	raḥīmun
+2	16:119:20	e	١١٩	ﱔ			
+2	16:120:1	w	إِنَّ	ﱕ	ان	Indeed	inna
+3	16:120:2	w	إِبۡرَٰهِيمَ	ﱖ	ابراهيم	Ibrahim	ib'rāhīma
+3	16:120:3	w	كَانَ	ﱗ	كان	was	kāna
+3	16:120:4	w	أُمَّةٗ	ﱘ	امة	a nation	ummatan
+3	16:120:5	w	قَانِتٗا	ﱙ	قانتا	obedient	qānitan
+3	16:120:6	w	لِّلَّهِ	ﱚ	لله	to Allah	lillahi
+3	16:120:7	w	حَنِيفٗا	ﱛ	حنيفا	upright	ḥanīfan
+3	16:120:8	w	وَلَمۡ	ﱜ	ولم	and not	walam
+3	16:120:9	w	يَكُ	ﱝ	يك	he was	yaku
+3	16:120:10	w	مِنَ	ﱞ	من	of	mina
+3	16:120:11	w	ٱلۡمُشۡرِكِينَ	ﱟ	المشركين	the polytheists	l-mush'rikīna
+4	16:120:12	e	١٢٠	ﱠ			
+4	16:121:1	w	شَاكِرٗا	ﱡ	شاكرا	Thankful	shākiran
+4	16:121:2	w	لِّأَنۡعُمِهِۚ	ﱢﱣ	لانعمه	for His favors	li-anʿumihi
+4	16:121:3	w	ٱجۡتَبَىٰهُ	ﱤ	اجتباه	He chose him	ij'tabāhu
+4	16:121:4	w	وَهَدَىٰهُ	ﱥ	وهداه	and guided him	wahadāhu
+4	16:121:5	w	إِلَىٰ	ﱦ	الى	to	ilā
+4	16:121:6	w	صِرَٰطٖ	ﱧ	صراط	the way	ṣirāṭin
+4	16:121:7	w	مُّسۡتَقِيمٖ	ﱨ	مستقيم	straight	mus'taqīmin
+5	16:121:8	e	١٢١	ﱩ			
+5	16:122:1	w	وَءَاتَيۡنَٰهُ	ﱪ	واتيناه	And We gave him	waātaynāhu
+5	16:122:2	w	فِي	ﱫ	في	in	fī
+5	16:122:3	w	ٱلدُّنۡيَا	ﱬ	الدنيا	the world	l-dun'yā
+5	16:122:4	w	حَسَنَةٗۖ	ﱭﱮ	حسنة	good	ḥasanatan
+5	16:122:5	w	وَإِنَّهُۥ	ﱯ	وانه	and indeed, he	wa-innahu
+5	16:122:6	w	فِي	ﱰ	في	in	fī
+5	16:122:7	w	ٱلۡأٓخِرَةِ	ﱱ	الاخرة	the Hereafter	l-ākhirati
+5	16:122:8	w	لَمِنَ	ﱲ	لمن	(he) will surely (be) among	lamina
+5	16:122:9	w	ٱلصَّٰلِحِينَ	ﱳ	الصالحين	the righteous	l-ṣāliḥīna
+6	16:122:10	e	١٢٢	ﱴ			
+6	16:123:1	w	ثُمَّ	ﱵ	ثم	Then	thumma
+6	16:123:2	w	أَوۡحَيۡنَآ	ﱶ	اوحينا	We revealed	awḥaynā
+6	16:123:3	w	إِلَيۡكَ	ﱷ	اليك	to you	ilayka
+6	16:123:4	w	أَنِ	ﱸ	ان	that	ani
+6	16:123:5	w	ٱتَّبِعۡ	ﱹ	اتبع	You follow	ittabiʿ
+6	16:123:6	w	مِلَّةَ	ﱺ	ملة	(the) religion	millata
+6	16:123:7	w	إِبۡرَٰهِيمَ	ﱻ	ابراهيم	(of) Ibrahim	ib'rāhīma
+6	16:123:8	w	حَنِيفٗاۖ	ﱼﱽ	حنيفا	upright	ḥanīfan
+6	16:123:9	w	وَمَا	ﱾ	وما	and not	wamā
+6	16:123:10	w	كَانَ	ﱿ	كان	he was	kāna
+7	16:123:11	w	مِنَ	ﲀ	من	of	mina
+7	16:123:12	w	ٱلۡمُشۡرِكِينَ	ﲁ	المشركين	the polytheists	l-mush'rikīna
+7	16:123:13	e	١٢٣	ﲂ			
+7	16:124:1	w	إِنَّمَا	ﲃ	انما	Only	innamā
+7	16:124:2	w	جُعِلَ	ﲄ	جعل	was appointed	juʿila
+7	16:124:3	w	ٱلسَّبۡتُ	ﲅ	السبت	the Sabbath	l-sabtu
+7	16:124:4	w	عَلَى	ﲆ	على	for	ʿalā
+7	16:124:5	w	ٱلَّذِينَ	ﲇ	الذين	those who	alladhīna
+7	16:124:6	w	ٱخۡتَلَفُواْ	ﲈ	اختلفوا	differed	ikh'talafū
+8	16:124:7	w	فِيهِۚ	ﲉﲊ	فيه	in it	fīhi
+8	16:124:8	w	وَإِنَّ	ﲋ	وان	And indeed	wa-inna
+8	16:124:9	w	رَبَّكَ	ﲌ	ربك	your Lord	rabbaka
+8	16:124:10	w	لَيَحۡكُمُ	ﲍ	ليحكم	will surely judge	layaḥkumu
+8	16:124:11	w	بَيۡنَهُمۡ	ﲎ	بينهم	between them	baynahum
+8	16:124:12	w	يَوۡمَ	ﲏ	يوم	(on) the Day	yawma
+8	16:124:13	w	ٱلۡقِيَٰمَةِ	ﲐ	القيامة	(of) the Resurrection	l-qiyāmati
+8	16:124:14	w	فِيمَا	ﲑ	فيما	in what	fīmā
+9	16:124:15	w	كَانُواْ	ﲒ	كانوا	they used (to)	kānū
+9	16:124:16	w	فِيهِ	ﲓ	فيه	[in it]	fīhi
+9	16:124:17	w	يَخۡتَلِفُونَ	ﲔ	يختلفون	differ	yakhtalifūna
+9	16:124:18	e	١٢٤	ﲕ			
+9	16:125:1	w	ٱدۡعُ	ﲖ	ادع	Call	ud'ʿu
+9	16:125:2	w	إِلَىٰ	ﲗ	الى	to	ilā
+9	16:125:3	w	سَبِيلِ	ﲘ	سبيل	(the) way	sabīli
+9	16:125:4	w	رَبِّكَ	ﲙ	ربك	(of) your Lord	rabbika
+9	16:125:5	w	بِٱلۡحِكۡمَةِ	ﲚ	بالحكمة	with the wisdom	bil-ḥik'mati
+10	16:125:6	w	وَٱلۡمَوۡعِظَةِ	ﲛ	والموعظة	and the instruction	wal-mawʿiẓati
+10	16:125:7	w	ٱلۡحَسَنَةِۖ	ﲜﲝ	الحسنة	the good	l-ḥasanati
+10	16:125:8	w	وَجَٰدِلۡهُم	ﲞ	وجادلهم	and discuss with them	wajādil'hum
+10	16:125:9	w	بِٱلَّتِي	ﲟ	بالتي	in that	bi-allatī
+10	16:125:10	w	هِيَ	ﲠ	هي	which	hiya
+10	16:125:11	w	أَحۡسَنُۚ	ﲡﲢ	احسن	(is) best	aḥsanu
+10	16:125:12	w	إِنَّ	ﲣ	ان	Indeed	inna
+11	16:125:13	w	رَبَّكَ	ﲤ	ربك	your Lord	rabbaka
+11	16:125:14	w	هُوَ	ﲥ	هو	He	huwa
+11	16:125:15	w	أَعۡلَمُ	ﲦ	اعلم	(is) most knowing	aʿlamu
+11	16:125:16	w	بِمَن	ﲧ	بمن	of who	biman
+11	16:125:17	w	ضَلَّ	ﲨ	ضل	has strayed	ḍalla
+11	16:125:18	w	عَن	ﲩ	عن	from	ʿan
+11	16:125:19	w	سَبِيلِهِۦ	ﲪ	سبيله	His way	sabīlihi
+11	16:125:20	w	وَهُوَ	ﲫ	وهو	And He	wahuwa
+11	16:125:21	w	أَعۡلَمُ	ﲬ	اعلم	(is) most knowing	aʿlamu
+11	16:125:22	w	بِٱلۡمُهۡتَدِينَ	ﲭ	بالمهتدين	of the guided ones	bil-muh'tadīna
+12	16:125:23	e	١٢٥	ﲮ			
+12	16:126:1	w	وَإِنۡ	ﲯ	وان	And if	wa-in
+12	16:126:2	w	عَاقَبۡتُمۡ	ﲰ	عاقبتم	you retaliate	ʿāqabtum
+12	16:126:3	w	فَعَاقِبُواْ	ﲱ	فعاقبوا	then retaliate	faʿāqibū
+12	16:126:4	w	بِمِثۡلِ	ﲲ	بمثل	with the like	bimith'li
+12	16:126:5	w	مَا	ﲳ	ما	of what	mā
+12	16:126:6	w	عُوقِبۡتُم	ﲴ	عوقبتم	you were afflicted	ʿūqib'tum
+12	16:126:7	w	بِهِۦۖ	ﲵﲶ	به	with [it]	bihi
+12	16:126:8	w	وَلَئِن	ﲷ	ولين	But if	wala-in
+13	16:126:9	w	صَبَرۡتُمۡ	ﲸ	صبرتم	you are patient	ṣabartum
+13	16:126:10	w	لَهُوَ	ﲹ	لهو	surely (it) is	lahuwa
+13	16:126:11	w	خَيۡرٞ	ﲺ	خير	better	khayrun
+13	16:126:12	w	لِّلصَّٰبِرِينَ	ﲻ	للصابرين	for those who are patient	lilṣṣābirīna
+13	16:126:13	e	١٢٦	ﲼ			
+13	16:127:1	w	وَٱصۡبِرۡ	ﲽ	واصبر	And be patient	wa-iṣ'bir
+13	16:127:2	w	وَمَا	ﲾ	وما	and not	wamā
+13	16:127:3	w	صَبۡرُكَ	ﲿ	صبرك	(is) your patience	ṣabruka
+14	16:127:4	w	إِلَّا	ﳀ	الا	but	illā
+14	16:127:5	w	بِٱللَّهِۚ	ﳁﳂ	بالله	from Allah	bil-lahi
+14	16:127:6	w	وَلَا	ﳃ	ولا	And (do) not	walā
+14	16:127:7	w	تَحۡزَنۡ	ﳄ	تحزن	grieve	taḥzan
+14	16:127:8	w	عَلَيۡهِمۡ	ﳅ	عليهم	over them	ʿalayhim
+14	16:127:9	w	وَلَا	ﳆ	ولا	and (do) not	walā
+14	16:127:10	w	تَكُ	ﳇ	تك	be	taku
+14	16:127:11	w	فِي	ﳈ	في	in	fī
+14	16:127:12	w	ضَيۡقٖ	ﳉ	ضيق	distress	ḍayqin
+14	16:127:13	w	مِّمَّا	ﳊ	مما	for what	mimmā
+14	16:127:14	w	يَمۡكُرُونَ	ﳋ	يمكرون	they plot	yamkurūna
+15	16:127:15	e	١٢٧	ﳌ			
+15	16:128:1	w	إِنَّ	ﳍ	ان	Indeed	inna
+15	16:128:2	w	ٱللَّهَ	ﳎ	الله	Allah	l-laha
+15	16:128:3	w	مَعَ	ﳏ	مع	(is) with	maʿa
+15	16:128:4	w	ٱلَّذِينَ	ﳐ	الذين	those who	alladhīna
+15	16:128:5	w	ٱتَّقَواْ	ﳑ	اتقوا	fear (Him)	ittaqaw
+15	16:128:6	w	وَّٱلَّذِينَ	ﳒ	والذين	and those who	wa-alladhīna
+15	16:128:7	w	هُم	ﳓ	هم	[they]	hum
+15	16:128:8	w	مُّحۡسِنُونَ	ﳔ	محسنون	(are) good-doers	muḥ'sinūna
+15	16:128:9	e	١٢٨	ﳕ			

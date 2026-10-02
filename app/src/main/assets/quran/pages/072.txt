@@ -1,0 +1,141 @@
+1	3:166:1	w	وَمَآ	ﱁ	وما	And what	wamā
+1	3:166:2	w	أَصَٰبَكُمۡ	ﱂ	اصابكم	struck you	aṣābakum
+1	3:166:3	w	يَوۡمَ	ﱃ	يوم	(on the) day	yawma
+1	3:166:4	w	ٱلۡتَقَى	ﱄ	التقى	(when) met	l-taqā
+1	3:166:5	w	ٱلۡجَمۡعَانِ	ﱅ	الجمعان	the two hosts	l-jamʿāni
+1	3:166:6	w	فَبِإِذۡنِ	ﱆ	فباذن	(was) by (the) permission	fabi-idh'ni
+1	3:166:7	w	ٱللَّهِ	ﱇ	الله	(of) Allah	l-lahi
+1	3:166:8	w	وَلِيَعۡلَمَ	ﱈ	وليعلم	and that He (might) make evident	waliyaʿlama
+1	3:166:9	w	ٱلۡمُؤۡمِنِينَ	ﱉ	المومنين	the believers	l-mu'minīna
+2	3:166:10	e	١٦٦	ﱊ			
+2	3:167:1	w	وَلِيَعۡلَمَ	ﱋ	وليعلم	And that He (might) make evident	waliyaʿlama
+2	3:167:2	w	ٱلَّذِينَ	ﱌ	الذين	those who	alladhīna
+2	3:167:3	w	نَافَقُواْۚ	ﱍﱎ	نافقوا	(are) hypocrites	nāfaqū
+2	3:167:4	w	وَقِيلَ	ﱏ	وقيل	And it was said	waqīla
+2	3:167:5	w	لَهُمۡ	ﱐ	لهم	to them	lahum
+2	3:167:6	w	تَعَالَوۡاْ	ﱑ	تعالوا	Come	taʿālaw
+2	3:167:7	w	قَٰتِلُواْ	ﱒ	قاتلوا	fight	qātilū
+2	3:167:8	w	فِي	ﱓ	في	in	fī
+2	3:167:9	w	سَبِيلِ	ﱔ	سبيل	(the) way	sabīli
+2	3:167:10	w	ٱللَّهِ	ﱕ	الله	(of) Allah	l-lahi
+3	3:167:11	w	أَوِ	ﱖ	او	or	awi
+3	3:167:12	w	ٱدۡفَعُواْۖ	ﱗﱘ	ادفعوا	defend	id'faʿū
+3	3:167:13	w	قَالُواْ	ﱙ	قالوا	They said	qālū
+3	3:167:14	w	لَوۡ	ﱚ	لو	If	law
+3	3:167:15	w	نَعۡلَمُ	ﱛ	نعلم	we knew	naʿlamu
+3	3:167:16	w	قِتَالٗا	ﱜ	قتالا	fighting	qitālan
+3	3:167:17	w	لَّٱتَّبَعۡنَٰكُمۡۗ	ﱝﱞ	لاتبعناكم	certainly we (would have) followed you	la-ittabaʿnākum
+3	3:167:18	w	هُمۡ	ﱟ	هم	They	hum
+3	3:167:19	w	لِلۡكُفۡرِ	ﱠ	للكفر	to disbelief	lil'kuf'ri
+3	3:167:20	w	يَوۡمَئِذٍ	ﱡ	يوميذ	that day	yawma-idhin
+4	3:167:21	w	أَقۡرَبُ	ﱢ	اقرب	(were) nearer	aqrabu
+4	3:167:22	w	مِنۡهُمۡ	ﱣ	منهم	than [them]	min'hum
+4	3:167:23	w	لِلۡإِيمَٰنِۚ	ﱤﱥ	للايمان	to the faith	lil'īmāni
+4	3:167:24	w	يَقُولُونَ	ﱦ	يقولون	saying	yaqūlūna
+4	3:167:25	w	بِأَفۡوَٰهِهِم	ﱧ	بافواههم	with their mouths	bi-afwāhihim
+4	3:167:26	w	مَّا	ﱨ	ما	what	mā
+4	3:167:27	w	لَيۡسَ	ﱩ	ليس	was not	laysa
+4	3:167:28	w	فِي	ﱪ	في	in	fī
+4	3:167:29	w	قُلُوبِهِمۡۚ	ﱫﱬ	قلوبهم	their hearts	qulūbihim
+5	3:167:30	w	وَٱللَّهُ	ﱭ	والله	And Allah	wal-lahu
+5	3:167:31	w	أَعۡلَمُ	ﱮ	اعلم	(is) Most Knowing	aʿlamu
+5	3:167:32	w	بِمَا	ﱯ	بما	of what	bimā
+5	3:167:33	w	يَكۡتُمُونَ	ﱰ	يكتمون	they conceal	yaktumūna
+5	3:167:34	e	١٦٧	ﱱ			
+5	3:168:1	w	ٱلَّذِينَ	ﱲ	الذين	Those who	alladhīna
+5	3:168:2	w	قَالُواْ	ﱳ	قالوا	said	qālū
+5	3:168:3	w	لِإِخۡوَٰنِهِمۡ	ﱴ	لاخوانهم	about their brothers	li-ikh'wānihim
+5	3:168:4	w	وَقَعَدُواْ	ﱵ	وقعدوا	while they sat	waqaʿadū
+6	3:168:5	w	لَوۡ	ﱶ	لو	If	law
+6	3:168:6	w	أَطَاعُونَا	ﱷ	اطاعونا	they (had) obeyed us	aṭāʿūnā
+6	3:168:7	w	مَا	ﱸ	ما	not	mā
+6	3:168:8	w	قُتِلُواْۗ	ﱹﱺ	قتلوا	they would have been killed	qutilū
+6	3:168:9	w	قُلۡ	ﱻ	قل	Say	qul
+6	3:168:10	w	فَٱدۡرَءُواْ	ﱼ	فادرءوا	Then avert	fa-id'raū
+6	3:168:11	w	عَنۡ	ﱽ	عن	from	ʿan
+6	3:168:12	w	أَنفُسِكُمُ	ﱾ	انفسكم	yourselves	anfusikumu
+6	3:168:13	w	ٱلۡمَوۡتَ	ﱿ	الموت	[the] death	l-mawta
+6	3:168:14	w	إِن	ﲀ	ان	if	in
+7	3:168:15	w	كُنتُمۡ	ﲁ	كنتم	you are	kuntum
+7	3:168:16	w	صَٰدِقِينَ	ﲂ	صادقين	truthful	ṣādiqīna
+7	3:168:17	e	١٦٨	ﲃ			
+7	3:169:1	w	وَلَا	ﲄ	ولا	And (do) not	walā
+7	3:169:2	w	تَحۡسَبَنَّ	ﲅ	تحسبن	think	taḥsabanna
+7	3:169:3	w	ٱلَّذِينَ	ﲆ	الذين	(of) those who	alladhīna
+7	3:169:4	w	قُتِلُواْ	ﲇ	قتلوا	are killed	qutilū
+7	3:169:5	w	فِي	ﲈ	في	in	fī
+7	3:169:6	w	سَبِيلِ	ﲉ	سبيل	(the) way	sabīli
+7	3:169:7	w	ٱللَّهِ	ﲊ	الله	(of) Allah	l-lahi
+8	3:169:8	w	أَمۡوَٰتَۢاۚ	ﲋﲌ	امواتا	(as) dead	amwātan
+8	3:169:9	w	بَلۡ	ﲍ	بل	Nay	bal
+8	3:169:10	w	أَحۡيَآءٌ	ﲎ	احياء	They are alive	aḥyāon
+8	3:169:11	w	عِندَ	ﲏ	عند	near	ʿinda
+8	3:169:12	w	رَبِّهِمۡ	ﲐ	ربهم	their Lord	rabbihim
+8	3:169:13	w	يُرۡزَقُونَ	ﲑ	يرزقون	they are given provision	yur'zaqūna
+8	3:169:14	e	١٦٩	ﲒ			
+8	3:170:1	w	فَرِحِينَ	ﲓ	فرحين	Rejoicing	fariḥīna
+8	3:170:2	w	بِمَآ	ﲔ	بما	in what	bimā
+8	3:170:3	w	ءَاتَىٰهُمُ	ﲕ	اتاهم	bestowed them	ātāhumu
+9	3:170:4	w	ٱللَّهُ	ﲖ	الله	Allah	l-lahu
+9	3:170:5	w	مِن	ﲗ	من	of	min
+9	3:170:6	w	فَضۡلِهِۦ	ﲘ	فضله	His Bounty	faḍlihi
+9	3:170:7	w	وَيَسۡتَبۡشِرُونَ	ﲙ	ويستبشرون	and they receive good tidings	wayastabshirūna
+9	3:170:8	w	بِٱلَّذِينَ	ﲚ	بالذين	about those who	bi-alladhīna
+9	3:170:9	w	لَمۡ	ﲛ	لم	(have) not	lam
+9	3:170:10	w	يَلۡحَقُواْ	ﲜ	يلحقوا	yet joined	yalḥaqū
+9	3:170:11	w	بِهِم	ﲝ	بهم	[with] them	bihim
+10	3:170:12	w	مِّنۡ	ﲞ	من	[from]	min
+10	3:170:13	w	خَلۡفِهِمۡ	ﲟ	خلفهم	(but are) left behind	khalfihim
+10	3:170:14	w	أَلَّا	ﲠ	الا	that (there will be) no	allā
+10	3:170:15	w	خَوۡفٌ	ﲡ	خوف	fear	khawfun
+10	3:170:16	w	عَلَيۡهِمۡ	ﲢ	عليهم	on them	ʿalayhim
+10	3:170:17	w	وَلَا	ﲣ	ولا	and not	walā
+10	3:170:18	w	هُمۡ	ﲤ	هم	they	hum
+10	3:170:19	w	يَحۡزَنُونَ	ﲥ	يحزنون	will grieve	yaḥzanūna
+10	3:170:20	e	١٧٠	ﲦ			
+10	3:171:1	w	۞ يَسۡتَبۡشِرُونَ	ﲧ ﲨ	۞ يستبشرون	They receive good tidings	yastabshirūna
+11	3:171:2	w	بِنِعۡمَةٖ	ﲩ	بنعمة	of Favor	biniʿ'matin
+11	3:171:3	w	مِّنَ	ﲪ	من	from	mina
+11	3:171:4	w	ٱللَّهِ	ﲫ	الله	Allah	l-lahi
+11	3:171:5	w	وَفَضۡلٖ	ﲬ	وفضل	and Bounty	wafaḍlin
+11	3:171:6	w	وَأَنَّ	ﲭ	وان	and that	wa-anna
+11	3:171:7	w	ٱللَّهَ	ﲮ	الله	Allah	l-laha
+11	3:171:8	w	لَا	ﲯ	لا	(does) not	lā
+11	3:171:9	w	يُضِيعُ	ﲰ	يضيع	let go waste	yuḍīʿu
+11	3:171:10	w	أَجۡرَ	ﲱ	اجر	(the) reward	ajra
+12	3:171:11	w	ٱلۡمُؤۡمِنِينَ	ﲲ	المومنين	(of) the believers	l-mu'minīna
+12	3:171:12	e	١٧١	ﲳ			
+12	3:172:1	w	ٱلَّذِينَ	ﲴ	الذين	Those who	alladhīna
+12	3:172:2	w	ٱسۡتَجَابُواْ	ﲵ	استجابوا	responded	is'tajābū
+12	3:172:3	w	لِلَّهِ	ﲶ	لله	to Allah	lillahi
+12	3:172:4	w	وَٱلرَّسُولِ	ﲷ	والرسول	and the Messenger	wal-rasūli
+12	3:172:5	w	مِنۢ	ﲸ	من	from	min
+12	3:172:6	w	بَعۡدِ	ﲹ	بعد	after	baʿdi
+12	3:172:7	w	مَآ	ﲺ	ما	what	mā
+12	3:172:8	w	أَصَابَهُمُ	ﲻ	اصابهم	befell them	aṣābahumu
+13	3:172:9	w	ٱلۡقَرۡحُۚ	ﲼﲽ	القرح	the injury	l-qarḥu
+13	3:172:10	w	لِلَّذِينَ	ﲾ	للذين	for those who	lilladhīna
+13	3:172:11	w	أَحۡسَنُواْ	ﲿ	احسنوا	did good	aḥsanū
+13	3:172:12	w	مِنۡهُمۡ	ﳀ	منهم	among them	min'hum
+13	3:172:13	w	وَٱتَّقَوۡاْ	ﳁ	واتقوا	and feared Allah	wa-ittaqaw
+13	3:172:14	w	أَجۡرٌ	ﳂ	اجر	(is) a reward	ajrun
+13	3:172:15	w	عَظِيمٌ	ﳃ	عظيم	great	ʿaẓīmun
+13	3:172:16	e	١٧٢	ﳄ			
+14	3:173:1	w	ٱلَّذِينَ	ﳅ	الذين	Those who	alladhīna
+14	3:173:2	w	قَالَ	ﳆ	قال	said	qāla
+14	3:173:3	w	لَهُمُ	ﳇ	لهم	to them	lahumu
+14	3:173:4	w	ٱلنَّاسُ	ﳈ	الناس	[the people]	l-nāsu
+14	3:173:5	w	إِنَّ	ﳉ	ان	Indeed	inna
+14	3:173:6	w	ٱلنَّاسَ	ﳊ	الناس	the people	l-nāsa
+14	3:173:7	w	قَدۡ	ﳋ	قد	(have) certainly	qad
+14	3:173:8	w	جَمَعُواْ	ﳌ	جمعوا	gathered	jamaʿū
+14	3:173:9	w	لَكُمۡ	ﳍ	لكم	against you	lakum
+14	3:173:10	w	فَٱخۡشَوۡهُمۡ	ﳎ	فاخشوهم	so fear them	fa-ikh'shawhum
+15	3:173:11	w	فَزَادَهُمۡ	ﳏ	فزادهم	But it increased them	fazādahum
+15	3:173:12	w	إِيمَٰنٗا	ﳐ	ايمانا	(in) faith	īmānan
+15	3:173:13	w	وَقَالُواْ	ﳑ	وقالوا	and they said	waqālū
+15	3:173:14	w	حَسۡبُنَا	ﳒ	حسبنا	Sufficient for us	ḥasbunā
+15	3:173:15	w	ٱللَّهُ	ﳓ	الله	(is) Allah	l-lahu
+15	3:173:16	w	وَنِعۡمَ	ﳔ	ونعم	and (He is the) best	waniʿ'ma
+15	3:173:17	w	ٱلۡوَكِيلُ	ﳕ	الوكيل	[the] Disposer of affairs	l-wakīlu
+15	3:173:18	e	١٧٣	ﳖ			

@@ -1,0 +1,130 @@
+1	9:87:1	w	رَضُواْ	ﱁ	رضوا	They (were) satisfied	raḍū
+1	9:87:2	w	بِأَن	ﱂ	بان	to	bi-an
+1	9:87:3	w	يَكُونُواْ	ﱃ	يكونوا	be	yakūnū
+1	9:87:4	w	مَعَ	ﱄ	مع	with	maʿa
+1	9:87:5	w	ٱلۡخَوَالِفِ	ﱅ	الخوالف	those who stay behind	l-khawālifi
+1	9:87:6	w	وَطُبِعَ	ﱆ	وطبع	and were sealed	waṭubiʿa
+1	9:87:7	w	عَلَىٰ	ﱇ	على	[on]	ʿalā
+1	9:87:8	w	قُلُوبِهِمۡ	ﱈ	قلوبهم	their hearts	qulūbihim
+1	9:87:9	w	فَهُمۡ	ﱉ	فهم	so they	fahum
+2	9:87:10	w	لَا	ﱊ	لا	(do) not	lā
+2	9:87:11	w	يَفۡقَهُونَ	ﱋ	يفقهون	understand	yafqahūna
+2	9:87:12	e	٨٧	ﱌ			
+2	9:88:1	w	لَٰكِنِ	ﱍ	لاكن	But	lākini
+2	9:88:2	w	ٱلرَّسُولُ	ﱎ	الرسول	the Messenger	l-rasūlu
+2	9:88:3	w	وَٱلَّذِينَ	ﱏ	والذين	and those who	wa-alladhīna
+2	9:88:4	w	ءَامَنُواْ	ﱐ	امنوا	believed	āmanū
+2	9:88:5	w	مَعَهُۥ	ﱑ	معه	with him	maʿahu
+3	9:88:6	w	جَٰهَدُواْ	ﱒ	جاهدوا	strove	jāhadū
+3	9:88:7	w	بِأَمۡوَٰلِهِمۡ	ﱓ	باموالهم	with their wealth	bi-amwālihim
+3	9:88:8	w	وَأَنفُسِهِمۡۚ	ﱔﱕ	وانفسهم	and their lives	wa-anfusihim
+3	9:88:9	w	وَأُوْلَٰٓئِكَ	ﱖ	واولايك	And those	wa-ulāika
+3	9:88:10	w	لَهُمُ	ﱗ	لهم	for them	lahumu
+3	9:88:11	w	ٱلۡخَيۡرَٰتُۖ	ﱘﱙ	الخيرات	(are) the good things	l-khayrātu
+4	9:88:12	w	وَأُوْلَٰٓئِكَ	ﱚ	واولايك	and those	wa-ulāika
+4	9:88:13	w	هُمُ	ﱛ	هم	they	humu
+4	9:88:14	w	ٱلۡمُفۡلِحُونَ	ﱜ	المفلحون	(are) the successful ones	l-muf'liḥūna
+4	9:88:15	e	٨٨	ﱝ			
+4	9:89:1	w	أَعَدَّ	ﱞ	اعد	Allah has prepared	aʿadda
+4	9:89:2	w	ٱللَّهُ	ﱟ	الله	Allah has prepared	l-lahu
+4	9:89:3	w	لَهُمۡ	ﱠ	لهم	for them	lahum
+4	9:89:4	w	جَنَّٰتٖ	ﱡ	جنات	Gardens	jannātin
+4	9:89:5	w	تَجۡرِي	ﱢ	تجري	flows	tajrī
+5	9:89:6	w	مِن	ﱣ	من	from	min
+5	9:89:7	w	تَحۡتِهَا	ﱤ	تحتها	underneath it	taḥtihā
+5	9:89:8	w	ٱلۡأَنۡهَٰرُ	ﱥ	الانهار	the rivers	l-anhāru
+5	9:89:9	w	خَٰلِدِينَ	ﱦ	خالدين	(will) abide forever	khālidīna
+5	9:89:10	w	فِيهَاۚ	ﱧﱨ	فيها	in it	fīhā
+5	9:89:11	w	ذَٰلِكَ	ﱩ	ذالك	That	dhālika
+5	9:89:12	w	ٱلۡفَوۡزُ	ﱪ	الفوز	(is) the success	l-fawzu
+5	9:89:13	w	ٱلۡعَظِيمُ	ﱫ	العظيم	the great	l-ʿaẓīmu
+5	9:89:14	e	٨٩	ﱬ			
+6	9:90:1	w	وَجَآءَ	ﱭ	وجاء	And came	wajāa
+6	9:90:2	w	ٱلۡمُعَذِّرُونَ	ﱮ	المعذرون	the ones who make excuses	l-muʿadhirūna
+6	9:90:3	w	مِنَ	ﱯ	من	of	mina
+6	9:90:4	w	ٱلۡأَعۡرَابِ	ﱰ	الاعراب	the bedouins	l-aʿrābi
+6	9:90:5	w	لِيُؤۡذَنَ	ﱱ	ليوذن	that permission be granted	liyu'dhana
+6	9:90:6	w	لَهُمۡ	ﱲ	لهم	to them	lahum
+6	9:90:7	w	وَقَعَدَ	ﱳ	وقعد	and sat	waqaʿada
+6	9:90:8	w	ٱلَّذِينَ	ﱴ	الذين	those who	alladhīna
+7	9:90:9	w	كَذَبُواْ	ﱵ	كذبوا	lied	kadhabū
+7	9:90:10	w	ٱللَّهَ	ﱶ	الله	(to) Allah	l-laha
+7	9:90:11	w	وَرَسُولَهُۥۚ	ﱷﱸ	ورسوله	and His Messenger	warasūlahu
+7	9:90:12	w	سَيُصِيبُ	ﱹ	سيصيب	Will strike	sayuṣību
+7	9:90:13	w	ٱلَّذِينَ	ﱺ	الذين	those who	alladhīna
+7	9:90:14	w	كَفَرُواْ	ﱻ	كفروا	disbelieved	kafarū
+7	9:90:15	w	مِنۡهُمۡ	ﱼ	منهم	among them	min'hum
+7	9:90:16	w	عَذَابٌ	ﱽ	عذاب	a punishment	ʿadhābun
+8	9:90:17	w	أَلِيمٞ	ﱾ	اليم	painful	alīmun
+8	9:90:18	e	٩٠	ﱿ			
+8	9:91:1	w	لَّيۡسَ	ﲀ	ليس	Not	laysa
+8	9:91:2	w	عَلَى	ﲁ	على	on	ʿalā
+8	9:91:3	w	ٱلضُّعَفَآءِ	ﲂ	الضعفاء	the weak	l-ḍuʿafāi
+8	9:91:4	w	وَلَا	ﲃ	ولا	and not	walā
+8	9:91:5	w	عَلَى	ﲄ	على	on	ʿalā
+8	9:91:6	w	ٱلۡمَرۡضَىٰ	ﲅ	المرضى	the sick	l-marḍā
+8	9:91:7	w	وَلَا	ﲆ	ولا	and not	walā
+8	9:91:8	w	عَلَى	ﲇ	على	on	ʿalā
+8	9:91:9	w	ٱلَّذِينَ	ﲈ	الذين	those who	alladhīna
+9	9:91:10	w	لَا	ﲉ	لا	not	lā
+9	9:91:11	w	يَجِدُونَ	ﲊ	يجدون	they find	yajidūna
+9	9:91:12	w	مَا	ﲋ	ما	what	mā
+9	9:91:13	w	يُنفِقُونَ	ﲌ	ينفقون	they (can) spend	yunfiqūna
+9	9:91:14	w	حَرَجٌ	ﲍ	حرج	any blame	ḥarajun
+9	9:91:15	w	إِذَا	ﲎ	اذا	if	idhā
+9	9:91:16	w	نَصَحُواْ	ﲏ	نصحوا	they (are) sincere	naṣaḥū
+9	9:91:17	w	لِلَّهِ	ﲐ	لله	to Allah	lillahi
+9	9:91:18	w	وَرَسُولِهِۦۚ	ﲑﲒ	ورسوله	and His Messenger	warasūlihi
+10	9:91:19	w	مَا	ﲓ	ما	Not	mā
+10	9:91:20	w	عَلَى	ﲔ	على	(is) on	ʿalā
+10	9:91:21	w	ٱلۡمُحۡسِنِينَ	ﲕ	المحسنين	the good-doers	l-muḥ'sinīna
+10	9:91:22	w	مِن	ﲖ	من	any	min
+10	9:91:23	w	سَبِيلٖۚ	ﲗﲘ	سبيل	way (for blame)	sabīlin
+10	9:91:24	w	وَٱللَّهُ	ﲙ	والله	And Allah	wal-lahu
+10	9:91:25	w	غَفُورٞ	ﲚ	غفور	(is) Oft-Forgiving	ghafūrun
+10	9:91:26	w	رَّحِيمٞ	ﲛ	رحيم	Most Merciful	raḥīmun
+10	9:91:27	e	٩١	ﲜ			
+11	9:92:1	w	وَلَا	ﲝ	ولا	And not	walā
+11	9:92:2	w	عَلَى	ﲞ	على	on	ʿalā
+11	9:92:3	w	ٱلَّذِينَ	ﲟ	الذين	those who	alladhīna
+11	9:92:4	w	إِذَا	ﲠ	اذا	when	idhā
+11	9:92:5	w	مَآ	ﲡ	ما	when	mā
+11	9:92:6	w	أَتَوۡكَ	ﲢ	اتوك	they came to you	atawka
+11	9:92:7	w	لِتَحۡمِلَهُمۡ	ﲣ	لتحملهم	that you provide them with mounts	litaḥmilahum
+11	9:92:8	w	قُلۡتَ	ﲤ	قلت	you said	qul'ta
+11	9:92:9	w	لَآ	ﲥ	لا	Not	lā
+11	9:92:10	w	أَجِدُ	ﲦ	اجد	I find	ajidu
+12	9:92:11	w	مَآ	ﲧ	ما	what	mā
+12	9:92:12	w	أَحۡمِلُكُمۡ	ﲨ	احملكم	to mount you	aḥmilukum
+12	9:92:13	w	عَلَيۡهِ	ﲩ	عليه	on [it]	ʿalayhi
+12	9:92:14	w	تَوَلَّواْ	ﲪ	تولوا	They turned back	tawallaw
+12	9:92:15	w	وَّأَعۡيُنُهُمۡ	ﲫ	واعينهم	with their eyes	wa-aʿyunuhum
+12	9:92:16	w	تَفِيضُ	ﲬ	تفيض	flowing	tafīḍu
+12	9:92:17	w	مِنَ	ﲭ	من	[of]	mina
+12	9:92:18	w	ٱلدَّمۡعِ	ﲮ	الدمع	(with) the tears	l-damʿi
+13	9:92:19	w	حَزَنًا	ﲯ	حزنا	(of) sorrow	ḥazanan
+13	9:92:20	w	أَلَّا	ﲰ	الا	that not	allā
+13	9:92:21	w	يَجِدُواْ	ﲱ	يجدوا	they find	yajidū
+13	9:92:22	w	مَا	ﲲ	ما	what	mā
+13	9:92:23	w	يُنفِقُونَ	ﲳ	ينفقون	they (could) spend	yunfiqūna
+13	9:92:24	e	٩٢	ﲴ			
+13	9:93:1	w	۞ إِنَّمَا	ﲵ ﲶ	۞ انما	Only	innamā
+13	9:93:2	w	ٱلسَّبِيلُ	ﲷ	السبيل	the way (blame)	l-sabīlu
+13	9:93:3	w	عَلَى	ﲸ	على	(is) on	ʿalā
+14	9:93:4	w	ٱلَّذِينَ	ﲹ	الذين	those who	alladhīna
+14	9:93:5	w	يَسۡتَـٔۡذِنُونَكَ	ﲺ	يستاذنونك	ask your permission	yastadhinūnaka
+14	9:93:6	w	وَهُمۡ	ﲻ	وهم	while they	wahum
+14	9:93:7	w	أَغۡنِيَآءُۚ	ﲼﲽ	اغنياء	(are) rich	aghniyāu
+14	9:93:8	w	رَضُواْ	ﲾ	رضوا	They (are) satisfied	raḍū
+14	9:93:9	w	بِأَن	ﲿ	بان	to	bi-an
+14	9:93:10	w	يَكُونُواْ	ﳀ	يكونوا	be	yakūnū
+15	9:93:11	w	مَعَ	ﳁ	مع	with	maʿa
+15	9:93:12	w	ٱلۡخَوَالِفِ	ﳂ	الخوالف	those who stay behind	l-khawālifi
+15	9:93:13	w	وَطَبَعَ	ﳃ	وطبع	and Allah sealed	waṭabaʿa
+15	9:93:14	w	ٱللَّهُ	ﳄ	الله	and Allah sealed	l-lahu
+15	9:93:15	w	عَلَىٰ	ﳅ	على	[on]	ʿalā
+15	9:93:16	w	قُلُوبِهِمۡ	ﳆ	قلوبهم	their hearts	qulūbihim
+15	9:93:17	w	فَهُمۡ	ﳇ	فهم	so they	fahum
+15	9:93:18	w	لَا	ﳈ	لا	(do) not	lā
+15	9:93:19	w	يَعۡلَمُونَ	ﳉ	يعلمون	know	yaʿlamūna
+15	9:93:20	e	٩٣	ﳊ			

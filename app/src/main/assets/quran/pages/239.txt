@@ -1,0 +1,149 @@
+1	12:31:1	w	فَلَمَّا	ﱁ	فلما	So when	falammā
+1	12:31:2	w	سَمِعَتۡ	ﱂ	سمعت	she heard	samiʿat
+1	12:31:3	w	بِمَكۡرِهِنَّ	ﱃ	بمكرهن	of their scheming	bimakrihinna
+1	12:31:4	w	أَرۡسَلَتۡ	ﱄ	ارسلت	she sent	arsalat
+1	12:31:5	w	إِلَيۡهِنَّ	ﱅ	اليهن	for them	ilayhinna
+1	12:31:6	w	وَأَعۡتَدَتۡ	ﱆ	واعتدت	and she prepared	wa-aʿtadat
+1	12:31:7	w	لَهُنَّ	ﱇ	لهن	for them	lahunna
+1	12:31:8	w	مُتَّكَـٔٗا	ﱈ	متكا	a banquet	muttaka-an
+2	12:31:9	w	وَءَاتَتۡ	ﱉ	واتت	and she gave	waātat
+2	12:31:10	w	كُلَّ	ﱊ	كل	each	kulla
+2	12:31:11	w	وَٰحِدَةٖ	ﱋ	واحدة	one	wāḥidatin
+2	12:31:12	w	مِّنۡهُنَّ	ﱌ	منهن	of them	min'hunna
+2	12:31:13	w	سِكِّينٗا	ﱍ	سكينا	a knife	sikkīnan
+2	12:31:14	w	وَقَالَتِ	ﱎ	وقالت	and she said	waqālati
+2	12:31:15	w	ٱخۡرُجۡ	ﱏ	اخرج	Come out	ukh'ruj
+2	12:31:16	w	عَلَيۡهِنَّۖ	ﱐﱑ	عليهن	before them	ʿalayhinna
+2	12:31:17	w	فَلَمَّا	ﱒ	فلما	Then when	falammā
+2	12:31:18	w	رَأَيۡنَهُۥٓ	ﱓ	راينه	they saw him	ra-aynahu
+3	12:31:19	w	أَكۡبَرۡنَهُۥ	ﱔ	اكبرنه	they greatly admired him	akbarnahu
+3	12:31:20	w	وَقَطَّعۡنَ	ﱕ	وقطعن	and cut	waqaṭṭaʿna
+3	12:31:21	w	أَيۡدِيَهُنَّ	ﱖ	ايديهن	their hands	aydiyahunna
+3	12:31:22	w	وَقُلۡنَ	ﱗ	وقلن	they said	waqul'na
+3	12:31:23	w	حَٰشَ	ﱘ	حاش	Forbid	ḥāsha
+3	12:31:24	w	لِلَّهِ	ﱙ	لله	Allah	lillahi
+3	12:31:25	w	مَا	ﱚ	ما	not	mā
+3	12:31:26	w	هَٰذَا	ﱛ	هاذا	(is) this	hādhā
+3	12:31:27	w	بَشَرًا	ﱜ	بشرا	a man	basharan
+3	12:31:28	w	إِنۡ	ﱝ	ان	not	in
+3	12:31:29	w	هَٰذَآ	ﱞ	هاذا	(is) this	hādhā
+4	12:31:30	w	إِلَّا	ﱟ	الا	but	illā
+4	12:31:31	w	مَلَكٞ	ﱠ	ملك	an angel	malakun
+4	12:31:32	w	كَرِيمٞ	ﱡ	كريم	noble	karīmun
+4	12:31:33	e	٣١	ﱢ			
+4	12:32:1	w	قَالَتۡ	ﱣ	قالت	She said	qālat
+4	12:32:2	w	فَذَٰلِكُنَّ	ﱤ	فذالكن	That	fadhālikunna
+4	12:32:3	w	ٱلَّذِي	ﱥ	الذي	(is) the one	alladhī
+4	12:32:4	w	لُمۡتُنَّنِي	ﱦ	لمتنني	you blamed me	lum'tunnanī
+4	12:32:5	w	فِيهِۖ	ﱧﱨ	فيه	about him	fīhi
+4	12:32:6	w	وَلَقَدۡ	ﱩ	ولقد	And certainly	walaqad
+4	12:32:7	w	رَٰوَدتُّهُۥ	ﱪ	راودته	I sought to seduce him	rāwadttuhu
+5	12:32:8	w	عَن	ﱫ	عن	[from]	ʿan
+5	12:32:9	w	نَّفۡسِهِۦ	ﱬ	نفسه	[himself]	nafsihi
+5	12:32:10	w	فَٱسۡتَعۡصَمَۖ	ﱭﱮ	فاستعصم	but he saved himself	fa-is'taʿṣama
+5	12:32:11	w	وَلَئِن	ﱯ	ولين	and if	wala-in
+5	12:32:12	w	لَّمۡ	ﱰ	لم	not	lam
+5	12:32:13	w	يَفۡعَلۡ	ﱱ	يفعل	he does	yafʿal
+5	12:32:14	w	مَآ	ﱲ	ما	what	mā
+5	12:32:15	w	ءَامُرُهُۥ	ﱳ	امره	I order him	āmuruhu
+5	12:32:16	w	لَيُسۡجَنَنَّ	ﱴ	ليسجنن	surely, he will be imprisoned	layus'jananna
+6	12:32:17	w	وَلَيَكُونٗا	ﱵ	وليكونا	and certainly will be	walayakūnan
+6	12:32:18	w	مِّنَ	ﱶ	من	of	mina
+6	12:32:19	w	ٱلصَّٰغِرِينَ	ﱷ	الصاغرين	those who are disgraced	l-ṣāghirīna
+6	12:32:20	e	٣٢	ﱸ			
+6	12:33:1	w	قَالَ	ﱹ	قال	He said	qāla
+6	12:33:2	w	رَبِّ	ﱺ	رب	My Lord	rabbi
+6	12:33:3	w	ٱلسِّجۡنُ	ﱻ	السجن	the prison	l-sij'nu
+6	12:33:4	w	أَحَبُّ	ﱼ	احب	(is) dearer	aḥabbu
+6	12:33:5	w	إِلَيَّ	ﱽ	الي	to me	ilayya
+6	12:33:6	w	مِمَّا	ﱾ	مما	than what	mimmā
+6	12:33:7	w	يَدۡعُونَنِيٓ	ﱿ	يدعونني	they invite me	yadʿūnanī
+7	12:33:8	w	إِلَيۡهِۖ	ﲀﲁ	اليه	to it	ilayhi
+7	12:33:9	w	وَإِلَّا	ﲂ	والا	And unless	wa-illā
+7	12:33:10	w	تَصۡرِفۡ	ﲃ	تصرف	You turn away	taṣrif
+7	12:33:11	w	عَنِّي	ﲄ	عني	from me	ʿannī
+7	12:33:12	w	كَيۡدَهُنَّ	ﲅ	كيدهن	their plot	kaydahunna
+7	12:33:13	w	أَصۡبُ	ﲆ	اصب	I might incline	aṣbu
+7	12:33:14	w	إِلَيۡهِنَّ	ﲇ	اليهن	towards them	ilayhinna
+7	12:33:15	w	وَأَكُن	ﲈ	واكن	and [I] be	wa-akun
+7	12:33:16	w	مِّنَ	ﲉ	من	of	mina
+7	12:33:17	w	ٱلۡجَٰهِلِينَ	ﲊ	الجاهلين	the ignorant	l-jāhilīna
+8	12:33:18	e	٣٣	ﲋ			
+8	12:34:1	w	فَٱسۡتَجَابَ	ﲌ	فاستجاب	So responded	fa-is'tajāba
+8	12:34:2	w	لَهُۥ	ﲍ	له	to him	lahu
+8	12:34:3	w	رَبُّهُۥ	ﲎ	ربه	his Lord	rabbuhu
+8	12:34:4	w	فَصَرَفَ	ﲏ	فصرف	and turned away	faṣarafa
+8	12:34:5	w	عَنۡهُ	ﲐ	عنه	from him	ʿanhu
+8	12:34:6	w	كَيۡدَهُنَّۚ	ﲑﲒ	كيدهن	their plot	kaydahunna
+8	12:34:7	w	إِنَّهُۥ	ﲓ	انه	Indeed, [He]	innahu
+8	12:34:8	w	هُوَ	ﲔ	هو	He	huwa
+8	12:34:9	w	ٱلسَّمِيعُ	ﲕ	السميع	(is) All-Hearer	l-samīʿu
+9	12:34:10	w	ٱلۡعَلِيمُ	ﲖ	العليم	All-Knower	l-ʿalīmu
+9	12:34:11	e	٣٤	ﲗ			
+9	12:35:1	w	ثُمَّ	ﲘ	ثم	Then	thumma
+9	12:35:2	w	بَدَا	ﲙ	بدا	(it) appeared	badā
+9	12:35:3	w	لَهُم	ﲚ	لهم	to them	lahum
+9	12:35:4	w	مِّنۢ	ﲛ	من	after	min
+9	12:35:5	w	بَعۡدِ	ﲜ	بعد	after	baʿdi
+9	12:35:6	w	مَا	ﲝ	ما	[what]	mā
+9	12:35:7	w	رَأَوُاْ	ﲞ	راوا	they had seen	ra-awū
+9	12:35:8	w	ٱلۡأٓيَٰتِ	ﲟ	الايات	the signs	l-āyāti
+9	12:35:9	w	لَيَسۡجُنُنَّهُۥ	ﲠ	ليسجننه	surely they should imprison him	layasjununnahu
+10	12:35:10	w	حَتَّىٰ	ﲡ	حتى	until	ḥattā
+10	12:35:11	w	حِينٖ	ﲢ	حين	a time	ḥīnin
+10	12:35:12	e	٣٥	ﲣ			
+10	12:36:1	w	وَدَخَلَ	ﲤ	ودخل	And entered	wadakhala
+10	12:36:2	w	مَعَهُ	ﲥ	معه	with him	maʿahu
+10	12:36:3	w	ٱلسِّجۡنَ	ﲦ	السجن	(in) the prison	l-sij'na
+10	12:36:4	w	فَتَيَانِۖ	ﲧﲨ	فتيان	two young men	fatayāni
+10	12:36:5	w	قَالَ	ﲩ	قال	Said	qāla
+10	12:36:6	w	أَحَدُهُمَآ	ﲪ	احدهما	one of them	aḥaduhumā
+10	12:36:7	w	إِنِّيٓ	ﲫ	اني	Indeed, I	innī
+11	12:36:8	w	أَرَىٰنِيٓ	ﲬ	اراني	[I] see myself	arānī
+11	12:36:9	w	أَعۡصِرُ	ﲭ	اعصر	pressing	aʿṣiru
+11	12:36:10	w	خَمۡرٗاۖ	ﲮﲯ	خمرا	wine	khamran
+11	12:36:11	w	وَقَالَ	ﲰ	وقال	And said	waqāla
+11	12:36:12	w	ٱلۡأٓخَرُ	ﲱ	الاخر	the other	l-ākharu
+11	12:36:13	w	إِنِّيٓ	ﲲ	اني	Indeed, I	innī
+11	12:36:14	w	أَرَىٰنِيٓ	ﲳ	اراني	[I] see myself	arānī
+11	12:36:15	w	أَحۡمِلُ	ﲴ	احمل	[I am] carrying	aḥmilu
+11	12:36:16	w	فَوۡقَ	ﲵ	فوق	over	fawqa
+11	12:36:17	w	رَأۡسِي	ﲶ	راسي	my head	rasī
+12	12:36:18	w	خُبۡزٗا	ﲷ	خبزا	bread	khub'zan
+12	12:36:19	w	تَأۡكُلُ	ﲸ	تاكل	(were) eating	takulu
+12	12:36:20	w	ٱلطَّيۡرُ	ﲹ	الطير	the birds	l-ṭayru
+12	12:36:21	w	مِنۡهُۖ	ﲺﲻ	منه	from it	min'hu
+12	12:36:22	w	نَبِّئۡنَا	ﲼ	نبينا	Inform us	nabbi'nā
+12	12:36:23	w	بِتَأۡوِيلِهِۦٓۖ	ﲽﲾ	بتاويله	of its interpretation	bitawīlihi
+12	12:36:24	w	إِنَّا	ﲿ	انا	indeed, we	innā
+12	12:36:25	w	نَرَىٰكَ	ﳀ	نراك	[we] see you	narāka
+12	12:36:26	w	مِنَ	ﳁ	من	of	mina
+13	12:36:27	w	ٱلۡمُحۡسِنِينَ	ﳂ	المحسنين	the good-doers	l-muḥ'sinīna
+13	12:36:28	e	٣٦	ﳃ			
+13	12:37:1	w	قَالَ	ﳄ	قال	He said	qāla
+13	12:37:2	w	لَا	ﳅ	لا	Not	lā
+13	12:37:3	w	يَأۡتِيكُمَا	ﳆ	ياتيكما	(will) come to both of you	yatīkumā
+13	12:37:4	w	طَعَامٞ	ﳇ	طعام	food	ṭaʿāmun
+13	12:37:5	w	تُرۡزَقَانِهِۦٓ	ﳈ	ترزقانه	you are provided with	tur'zaqānihi
+13	12:37:6	w	إِلَّا	ﳉ	الا	but	illā
+13	12:37:7	w	نَبَّأۡتُكُمَا	ﳊ	نباتكما	I will inform both of you	nabbatukumā
+14	12:37:8	w	بِتَأۡوِيلِهِۦ	ﳋ	بتاويله	of its interpretation	bitawīlihi
+14	12:37:9	w	قَبۡلَ	ﳌ	قبل	before	qabla
+14	12:37:10	w	أَن	ﳍ	ان	[that]	an
+14	12:37:11	w	يَأۡتِيَكُمَاۚ	ﳎﳏ	ياتيكما	[it] comes to both of you	yatiyakumā
+14	12:37:12	w	ذَٰلِكُمَا	ﳐ	ذالكما	That	dhālikumā
+14	12:37:13	w	مِمَّا	ﳑ	مما	(is) of what	mimmā
+14	12:37:14	w	عَلَّمَنِي	ﳒ	علمني	has taught me	ʿallamanī
+14	12:37:15	w	رَبِّيٓۚ	ﳓﳔ	ربي	my Lord	rabbī
+14	12:37:16	w	إِنِّي	ﳕ	اني	Indeed, I	innī
+14	12:37:17	w	تَرَكۡتُ	ﳖ	تركت	[I] abandon	taraktu
+15	12:37:18	w	مِلَّةَ	ﳗ	ملة	(the) religion	millata
+15	12:37:19	w	قَوۡمٖ	ﳘ	قوم	(of) a people	qawmin
+15	12:37:20	w	لَّا	ﳙ	لا	not	lā
+15	12:37:21	w	يُؤۡمِنُونَ	ﳚ	يومنون	they believe	yu'minūna
+15	12:37:22	w	بِٱللَّهِ	ﳛ	بالله	in Allah	bil-lahi
+15	12:37:23	w	وَهُم	ﳜ	وهم	and they	wahum
+15	12:37:24	w	بِٱلۡأٓخِرَةِ	ﳝ	بالاخرة	in the Hereafter	bil-ākhirati
+15	12:37:25	w	هُمۡ	ﳞ	هم	[they]	hum
+15	12:37:26	w	كَٰفِرُونَ	ﳟ	كافرون	(are) disbelievers	kāfirūna
+15	12:37:27	e	٣٧	ﳠ			

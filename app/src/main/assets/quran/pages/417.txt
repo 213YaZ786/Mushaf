@@ -1,0 +1,125 @@
+1	32:21:1	w	وَلَنُذِيقَنَّهُم	ﱁ	ولنذيقنهم	And surely, We will let them taste	walanudhīqannahum
+1	32:21:2	w	مِّنَ	ﱂ	من	of	mina
+1	32:21:3	w	ٱلۡعَذَابِ	ﱃ	العذاب	the punishment	l-ʿadhābi
+1	32:21:4	w	ٱلۡأَدۡنَىٰ	ﱄ	الادنى	the nearer	l-adnā
+1	32:21:5	w	دُونَ	ﱅ	دون	before	dūna
+1	32:21:6	w	ٱلۡعَذَابِ	ﱆ	العذاب	the punishment	l-ʿadhābi
+1	32:21:7	w	ٱلۡأَكۡبَرِ	ﱇ	الاكبر	the greater	l-akbari
+2	32:21:8	w	لَعَلَّهُمۡ	ﱈ	لعلهم	so that they may	laʿallahum
+2	32:21:9	w	يَرۡجِعُونَ	ﱉ	يرجعون	return	yarjiʿūna
+2	32:21:10	e	٢١	ﱊ			
+2	32:22:1	w	وَمَنۡ	ﱋ	ومن	And who	waman
+2	32:22:2	w	أَظۡلَمُ	ﱌ	اظلم	(is) more unjust	aẓlamu
+2	32:22:3	w	مِمَّن	ﱍ	ممن	than (he) who	mimman
+2	32:22:4	w	ذُكِّرَ	ﱎ	ذكر	is reminded	dhukkira
+2	32:22:5	w	بِـَٔايَٰتِ	ﱏ	بايات	of (the) Verses	biāyāti
+2	32:22:6	w	رَبِّهِۦ	ﱐ	ربه	(of) his Lord	rabbihi
+2	32:22:7	w	ثُمَّ	ﱑ	ثم	then	thumma
+3	32:22:8	w	أَعۡرَضَ	ﱒ	اعرض	he turns away	aʿraḍa
+3	32:22:9	w	عَنۡهَآۚ	ﱓﱔ	عنها	from them	ʿanhā
+3	32:22:10	w	إِنَّا	ﱕ	انا	Indeed, We	innā
+3	32:22:11	w	مِنَ	ﱖ	من	from	mina
+3	32:22:12	w	ٱلۡمُجۡرِمِينَ	ﱗ	المجرمين	the criminals	l-muj'rimīna
+3	32:22:13	w	مُنتَقِمُونَ	ﱘ	منتقمون	(will) take retribution	muntaqimūna
+3	32:22:14	e	٢٢	ﱙ			
+3	32:23:1	w	وَلَقَدۡ	ﱚ	ولقد	And certainly	walaqad
+3	32:23:2	w	ءَاتَيۡنَا	ﱛ	اتينا	We gave	ātaynā
+4	32:23:3	w	مُوسَى	ﱜ	موسى	Musa	mūsā
+4	32:23:4	w	ٱلۡكِتَٰبَ	ﱝ	الكتاب	the Scripture	l-kitāba
+4	32:23:5	w	فَلَا	ﱞ	فلا	so (do) not	falā
+4	32:23:6	w	تَكُن	ﱟ	تكن	be	takun
+4	32:23:7	w	فِي	ﱠ	في	in	fī
+4	32:23:8	w	مِرۡيَةٖ	ﱡ	مرية	doubt	mir'yatin
+4	32:23:9	w	مِّن	ﱢ	من	about	min
+4	32:23:10	w	لِّقَآئِهِۦۖ	ﱣﱤ	لقايه	receiving it	liqāihi
+4	32:23:11	w	وَجَعَلۡنَٰهُ	ﱥ	وجعلناه	And We made it	wajaʿalnāhu
+5	32:23:12	w	هُدٗى	ﱦ	هدى	a guide	hudan
+5	32:23:13	w	لِّبَنِيٓ	ﱧ	لبني	for the Children of Israel	libanī
+5	32:23:14	w	إِسۡرَٰٓءِيلَ	ﱨ	اسراييل	for the Children of Israel	is'rāīla
+5	32:23:15	e	٢٣	ﱩ			
+5	32:24:1	w	وَجَعَلۡنَا	ﱪ	وجعلنا	And We made	wajaʿalnā
+5	32:24:2	w	مِنۡهُمۡ	ﱫ	منهم	from them	min'hum
+5	32:24:3	w	أَئِمَّةٗ	ﱬ	ايمة	leaders	a-immatan
+5	32:24:4	w	يَهۡدُونَ	ﱭ	يهدون	guiding	yahdūna
+5	32:24:5	w	بِأَمۡرِنَا	ﱮ	بامرنا	by Our Command	bi-amrinā
+6	32:24:6	w	لَمَّا	ﱯ	لما	when	lammā
+6	32:24:7	w	صَبَرُواْۖ	ﱰﱱ	صبروا	they were patient	ṣabarū
+6	32:24:8	w	وَكَانُواْ	ﱲ	وكانوا	and they were	wakānū
+6	32:24:9	w	بِـَٔايَٰتِنَا	ﱳ	باياتنا	of Our Verses	biāyātinā
+6	32:24:10	w	يُوقِنُونَ	ﱴ	يوقنون	certain	yūqinūna
+6	32:24:11	e	٢٤	ﱵ			
+6	32:25:1	w	إِنَّ	ﱶ	ان	Indeed	inna
+6	32:25:2	w	رَبَّكَ	ﱷ	ربك	your Lord	rabbaka
+6	32:25:3	w	هُوَ	ﱸ	هو	[He]	huwa
+7	32:25:4	w	يَفۡصِلُ	ﱹ	يفصل	will judge	yafṣilu
+7	32:25:5	w	بَيۡنَهُمۡ	ﱺ	بينهم	between them	baynahum
+7	32:25:6	w	يَوۡمَ	ﱻ	يوم	(on the) Day	yawma
+7	32:25:7	w	ٱلۡقِيَٰمَةِ	ﱼ	القيامة	(of) Resurrection	l-qiyāmati
+7	32:25:8	w	فِيمَا	ﱽ	فيما	in what	fīmā
+7	32:25:9	w	كَانُواْ	ﱾ	كانوا	they used (to)	kānū
+7	32:25:10	w	فِيهِ	ﱿ	فيه	[in it]	fīhi
+7	32:25:11	w	يَخۡتَلِفُونَ	ﲀ	يختلفون	differ	yakhtalifūna
+8	32:25:12	e	٢٥	ﲁ			
+8	32:26:1	w	أَوَلَمۡ	ﲂ	اولم	Does it not	awalam
+8	32:26:2	w	يَهۡدِ	ﲃ	يهد	guide	yahdi
+8	32:26:3	w	لَهُمۡ	ﲄ	لهم	[for] them	lahum
+8	32:26:4	w	كَمۡ	ﲅ	كم	(that) how many	kam
+8	32:26:5	w	أَهۡلَكۡنَا	ﲆ	اهلكنا	We have destroyed	ahlaknā
+8	32:26:6	w	مِن	ﲇ	من	before them	min
+8	32:26:7	w	قَبۡلِهِم	ﲈ	قبلهم	before them	qablihim
+8	32:26:8	w	مِّنَ	ﲉ	من	of	mina
+8	32:26:9	w	ٱلۡقُرُونِ	ﲊ	القرون	the generations	l-qurūni
+9	32:26:10	w	يَمۡشُونَ	ﲋ	يمشون	they walk about	yamshūna
+9	32:26:11	w	فِي	ﲌ	في	in	fī
+9	32:26:12	w	مَسَٰكِنِهِمۡۚ	ﲍﲎ	مساكنهم	their dwellings	masākinihim
+9	32:26:13	w	إِنَّ	ﲏ	ان	Indeed	inna
+9	32:26:14	w	فِي	ﲐ	في	in	fī
+9	32:26:15	w	ذَٰلِكَ	ﲑ	ذالك	that	dhālika
+9	32:26:16	w	لَأٓيَٰتٍۚ	ﲒﲓ	لايات	surely, are Signs	laāyātin
+9	32:26:17	w	أَفَلَا	ﲔ	افلا	Then do not	afalā
+9	32:26:18	w	يَسۡمَعُونَ	ﲕ	يسمعون	they hear	yasmaʿūna
+10	32:26:19	e	٢٦	ﲖ			
+10	32:27:1	w	أَوَلَمۡ	ﲗ	اولم	Do not	awalam
+10	32:27:2	w	يَرَوۡاْ	ﲘ	يروا	they see	yaraw
+10	32:27:3	w	أَنَّا	ﲙ	انا	that We	annā
+10	32:27:4	w	نَسُوقُ	ﲚ	نسوق	drive	nasūqu
+10	32:27:5	w	ٱلۡمَآءَ	ﲛ	الماء	water	l-māa
+10	32:27:6	w	إِلَى	ﲜ	الى	to	ilā
+10	32:27:7	w	ٱلۡأَرۡضِ	ﲝ	الارض	the land	l-arḍi
+10	32:27:8	w	ٱلۡجُرُزِ	ﲞ	الجرز	[the] barren	l-juruzi
+10	32:27:9	w	فَنُخۡرِجُ	ﲟ	فنخرج	then We bring forth	fanukh'riju
+11	32:27:10	w	بِهِۦ	ﲠ	به	thereby	bihi
+11	32:27:11	w	زَرۡعٗا	ﲡ	زرعا	crops	zarʿan
+11	32:27:12	w	تَأۡكُلُ	ﲢ	تاكل	eat	takulu
+11	32:27:13	w	مِنۡهُ	ﲣ	منه	from it	min'hu
+11	32:27:14	w	أَنۡعَٰمُهُمۡ	ﲤ	انعامهم	their cattle	anʿāmuhum
+11	32:27:15	w	وَأَنفُسُهُمۡۚ	ﲥﲦ	وانفسهم	and they themselves	wa-anfusuhum
+11	32:27:16	w	أَفَلَا	ﲧ	افلا	Then do not	afalā
+11	32:27:17	w	يُبۡصِرُونَ	ﲨ	يبصرون	they see	yub'ṣirūna
+12	32:27:18	e	٢٧	ﲩ			
+12	32:28:1	w	وَيَقُولُونَ	ﲪ	ويقولون	And they say	wayaqūlūna
+12	32:28:2	w	مَتَىٰ	ﲫ	متى	When (will be)	matā
+12	32:28:3	w	هَٰذَا	ﲬ	هاذا	this	hādhā
+12	32:28:4	w	ٱلۡفَتۡحُ	ﲭ	الفتح	decision	l-fatḥu
+12	32:28:5	w	إِن	ﲮ	ان	if	in
+12	32:28:6	w	كُنتُمۡ	ﲯ	كنتم	you are	kuntum
+12	32:28:7	w	صَٰدِقِينَ	ﲰ	صادقين	truthful	ṣādiqīna
+12	32:28:8	e	٢٨	ﲱ			
+13	32:29:1	w	قُلۡ	ﲲ	قل	Say	qul
+13	32:29:2	w	يَوۡمَ	ﲳ	يوم	(On the) Day	yawma
+13	32:29:3	w	ٱلۡفَتۡحِ	ﲴ	الفتح	(of) the Decision	l-fatḥi
+13	32:29:4	w	لَا	ﲵ	لا	not	lā
+13	32:29:5	w	يَنفَعُ	ﲶ	ينفع	will benefit	yanfaʿu
+13	32:29:6	w	ٱلَّذِينَ	ﲷ	الذين	those who	alladhīna
+13	32:29:7	w	كَفَرُوٓاْ	ﲸ	كفروا	disbelieve	kafarū
+13	32:29:8	w	إِيمَٰنُهُمۡ	ﲹ	ايمانهم	their belief	īmānuhum
+13	32:29:9	w	وَلَا	ﲺ	ولا	and not	walā
+13	32:29:10	w	هُمۡ	ﲻ	هم	they	hum
+14	32:29:11	w	يُنظَرُونَ	ﲼ	ينظرون	will be granted respite	yunẓarūna
+14	32:29:12	e	٢٩	ﲽ			
+14	32:30:1	w	فَأَعۡرِضۡ	ﲾ	فاعرض	So turn away	fa-aʿriḍ
+14	32:30:2	w	عَنۡهُمۡ	ﲿ	عنهم	from them	ʿanhum
+14	32:30:3	w	وَٱنتَظِرۡ	ﳀ	وانتظر	and wait	wa-intaẓir
+14	32:30:4	w	إِنَّهُم	ﳁ	انهم	Indeed, they	innahum
+14	32:30:5	w	مُّنتَظِرُونَ	ﳂ	منتظرون	(are) waiting	muntaẓirūna
+14	32:30:6	e	٣٠	ﳃ			

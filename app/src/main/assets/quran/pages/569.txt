@@ -1,0 +1,163 @@
+1	70:11:1	w	يُبَصَّرُونَهُمۡۚ	ﱁﱂ	يبصرونهم	They will be made to see each other	yubaṣṣarūnahum
+1	70:11:2	w	يَوَدُّ	ﱃ	يود	Would wish	yawaddu
+1	70:11:3	w	ٱلۡمُجۡرِمُ	ﱄ	المجرم	the criminal	l-muj'rimu
+1	70:11:4	w	لَوۡ	ﱅ	لو	if	law
+1	70:11:5	w	يَفۡتَدِي	ﱆ	يفتدي	he (could be) ransomed	yaftadī
+1	70:11:6	w	مِنۡ	ﱇ	من	from	min
+1	70:11:7	w	عَذَابِ	ﱈ	عذاب	(the) punishment	ʿadhābi
+1	70:11:8	w	يَوۡمِئِذِۭ	ﱉ	يوميذ	(of) that Day	yawmi-idhin
+1	70:11:9	w	بِبَنِيهِ	ﱊ	ببنيه	by his children	bibanīhi
+1	70:11:10	e	١١	ﱋ			
+2	70:12:1	w	وَصَٰحِبَتِهِۦ	ﱌ	وصاحبته	And his spouse	waṣāḥibatihi
+2	70:12:2	w	وَأَخِيهِ	ﱍ	واخيه	and his brother	wa-akhīhi
+2	70:12:3	e	١٢	ﱎ			
+2	70:13:1	w	وَفَصِيلَتِهِ	ﱏ	وفصيلته	And his nearest kindred	wafaṣīlatihi
+2	70:13:2	w	ٱلَّتِي	ﱐ	التي	who	allatī
+2	70:13:3	w	تُـٔۡوِيهِ	ﱑ	توويه	sheltered him	tu'wīhi
+2	70:13:4	e	١٣	ﱒ			
+2	70:14:1	w	وَمَن	ﱓ	ومن	And whoever	waman
+2	70:14:2	w	فِي	ﱔ	في	(is) on	fī
+2	70:14:3	w	ٱلۡأَرۡضِ	ﱕ	الارض	the earth	l-arḍi
+2	70:14:4	w	جَمِيعٗا	ﱖ	جميعا	all	jamīʿan
+3	70:14:5	w	ثُمَّ	ﱗ	ثم	then	thumma
+3	70:14:6	w	يُنجِيهِ	ﱘ	ينجيه	it (could) save him	yunjīhi
+3	70:14:7	e	١٤	ﱙ			
+3	70:15:1	w	كـَلَّآۖ	ﱚﱛ	كلا	By no means	kallā
+3	70:15:2	w	إِنَّهَا	ﱜ	انها	Indeed, it (is)	innahā
+3	70:15:3	w	لَظَىٰ	ﱝ	لظى	surely a Flame of Hell	laẓā
+3	70:15:4	e	١٥	ﱞ			
+3	70:16:1	w	نَزَّاعَةٗ	ﱟ	نزاعة	A remover	nazzāʿatan
+3	70:16:2	w	لِّلشَّوَىٰ	ﱠ	للشوى	of the skin of the head	lilshawā
+3	70:16:3	e	١٦	ﱡ			
+3	70:17:1	w	تَدۡعُواْ	ﱢ	تدعو	Inviting	tadʿū
+3	70:17:2	w	مَنۡ	ﱣ	من	(him) who	man
+3	70:17:3	w	أَدۡبَرَ	ﱤ	ادبر	turned his back	adbara
+4	70:17:4	w	وَتَوَلَّىٰ	ﱥ	وتولى	and went away	watawallā
+4	70:17:5	e	١٧	ﱦ			
+4	70:18:1	w	وَجَمَعَ	ﱧ	وجمع	And collected	wajamaʿa
+4	70:18:2	w	فَأَوۡعَىٰٓ	ﱨ	فاوعى	and hoarded	fa-awʿā
+4	70:18:3	e	١٨	ﱩ			
+4	70:19:1	w	۞ إِنَّ	ﱪ ﱫ	۞ ان	Indeed	inna
+4	70:19:2	w	ٱلۡإِنسَٰنَ	ﱬ	الانسان	the man	l-insāna
+4	70:19:3	w	خُلِقَ	ﱭ	خلق	was created	khuliqa
+4	70:19:4	w	هَلُوعًا	ﱮ	هلوعا	anxious	halūʿan
+4	70:19:5	e	١٩	ﱯ			
+4	70:20:1	w	إِذَا	ﱰ	اذا	When	idhā
+4	70:20:2	w	مَسَّهُ	ﱱ	مسه	touches him	massahu
+4	70:20:3	w	ٱلشَّرُّ	ﱲ	الشر	the evil	l-sharu
+5	70:20:4	w	جَزُوعٗا	ﱳ	جزوعا	distressed	jazūʿan
+5	70:20:5	e	٢٠	ﱴ			
+5	70:21:1	w	وَإِذَا	ﱵ	واذا	And when	wa-idhā
+5	70:21:2	w	مَسَّهُ	ﱶ	مسه	touches him	massahu
+5	70:21:3	w	ٱلۡخَيۡرُ	ﱷ	الخير	the good	l-khayru
+5	70:21:4	w	مَنُوعًا	ﱸ	منوعا	withholding	manūʿan
+5	70:21:5	e	٢١	ﱹ			
+5	70:22:1	w	إِلَّا	ﱺ	الا	Except	illā
+5	70:22:2	w	ٱلۡمُصَلِّينَ	ﱻ	المصلين	those who pray	l-muṣalīna
+5	70:22:3	e	٢٢	ﱼ			
+5	70:23:1	w	ٱلَّذِينَ	ﱽ	الذين	Those who	alladhīna
+5	70:23:2	w	هُمۡ	ﱾ	هم	[they]	hum
+6	70:23:3	w	عَلَىٰ	ﱿ	على	at	ʿalā
+6	70:23:4	w	صَلَاتِهِمۡ	ﲀ	صلاتهم	their prayer	ṣalātihim
+6	70:23:5	w	دَآئِمُونَ	ﲁ	دايمون	(are) constant	dāimūna
+6	70:23:6	e	٢٣	ﲂ			
+6	70:24:1	w	وَٱلَّذِينَ	ﲃ	والذين	And those who	wa-alladhīna
+6	70:24:2	w	فِيٓ	ﲄ	في	in	fī
+6	70:24:3	w	أَمۡوَٰلِهِمۡ	ﲅ	اموالهم	their wealth	amwālihim
+6	70:24:4	w	حَقّٞ	ﲆ	حق	(is) a right	ḥaqqun
+6	70:24:5	w	مَّعۡلُومٞ	ﲇ	معلوم	known	maʿlūmun
+6	70:24:6	e	٢٤	ﲈ			
+6	70:25:1	w	لِّلسَّآئِلِ	ﲉ	للسايل	For the one who asks	lilssāili
+7	70:25:2	w	وَٱلۡمَحۡرُومِ	ﲊ	والمحروم	and the deprived	wal-maḥrūmi
+7	70:25:3	e	٢٥	ﲋ			
+7	70:26:1	w	وَٱلَّذِينَ	ﲌ	والذين	And those who	wa-alladhīna
+7	70:26:2	w	يُصَدِّقُونَ	ﲍ	يصدقون	accept (the) truth	yuṣaddiqūna
+7	70:26:3	w	بِيَوۡمِ	ﲎ	بيوم	(of the) Day	biyawmi
+7	70:26:4	w	ٱلدِّينِ	ﲏ	الدين	(of) the Judgment	l-dīni
+7	70:26:5	e	٢٦	ﲐ			
+7	70:27:1	w	وَٱلَّذِينَ	ﲑ	والذين	And those who	wa-alladhīna
+7	70:27:2	w	هُم	ﲒ	هم	[they]	hum
+7	70:27:3	w	مِّنۡ	ﲓ	من	of	min
+7	70:27:4	w	عَذَابِ	ﲔ	عذاب	(the) punishment	ʿadhābi
+8	70:27:5	w	رَبِّهِم	ﲕ	ربهم	(of) their Lord	rabbihim
+8	70:27:6	w	مُّشۡفِقُونَ	ﲖ	مشفقون	(are) fearful	mush'fiqūna
+8	70:27:7	e	٢٧	ﲗ			
+8	70:28:1	w	إِنَّ	ﲘ	ان	Indeed	inna
+8	70:28:2	w	عَذَابَ	ﲙ	عذاب	(the) punishment	ʿadhāba
+8	70:28:3	w	رَبِّهِمۡ	ﲚ	ربهم	(of) your Lord	rabbihim
+8	70:28:4	w	غَيۡرُ	ﲛ	غير	(is) not	ghayru
+8	70:28:5	w	مَأۡمُونٖ	ﲜ	مامون	to be felt secure (of)	mamūnin
+8	70:28:6	e	٢٨	ﲝ			
+8	70:29:1	w	وَٱلَّذِينَ	ﲞ	والذين	And those who	wa-alladhīna
+8	70:29:2	w	هُمۡ	ﲟ	هم	[they]	hum
+9	70:29:3	w	لِفُرُوجِهِمۡ	ﲠ	لفروجهم	their modesty	lifurūjihim
+9	70:29:4	w	حَٰفِظُونَ	ﲡ	حافظون	(are) guardians	ḥāfiẓūna
+9	70:29:5	e	٢٩	ﲢ			
+9	70:30:1	w	إِلَّا	ﲣ	الا	Except	illā
+9	70:30:2	w	عَلَىٰٓ	ﲤ	على	from	ʿalā
+9	70:30:3	w	أَزۡوَٰجِهِمۡ	ﲥ	ازواجهم	their spouses	azwājihim
+9	70:30:4	w	أَوۡ	ﲦ	او	or	aw
+9	70:30:5	w	مَا	ﲧ	ما	what	mā
+9	70:30:6	w	مَلَكَتۡ	ﲨ	ملكت	they possess	malakat
+9	70:30:7	w	أَيۡمَٰنُهُمۡ	ﲩ	ايمانهم	rightfully	aymānuhum
+10	70:30:8	w	فَإِنَّهُمۡ	ﲪ	فانهم	then indeed, they	fa-innahum
+10	70:30:9	w	غَيۡرُ	ﲫ	غير	(are) not	ghayru
+10	70:30:10	w	مَلُومِينَ	ﲬ	ملومين	blameworthy	malūmīna
+10	70:30:11	e	٣٠	ﲭ			
+10	70:31:1	w	فَمَنِ	ﲮ	فمن	But whoever	famani
+10	70:31:2	w	ٱبۡتَغَىٰ	ﲯ	ابتغى	seeks	ib'taghā
+10	70:31:3	w	وَرَآءَ	ﲰ	وراء	beyond	warāa
+10	70:31:4	w	ذَٰلِكَ	ﲱ	ذالك	that	dhālika
+10	70:31:5	w	فَأُوْلَٰٓئِكَ	ﲲ	فاولايك	then those	fa-ulāika
+10	70:31:6	w	هُمُ	ﲳ	هم	[they]	humu
+10	70:31:7	w	ٱلۡعَادُونَ	ﲴ	العادون	(are) the transgressors	l-ʿādūna
+10	70:31:8	e	٣١	ﲵ			
+11	70:32:1	w	وَٱلَّذِينَ	ﲶ	والذين	And those who	wa-alladhīna
+11	70:32:2	w	هُمۡ	ﲷ	هم	[they]	hum
+11	70:32:3	w	لِأَمَٰنَٰتِهِمۡ	ﲸ	لاماناتهم	of their trusts	li-amānātihim
+11	70:32:4	w	وَعَهۡدِهِمۡ	ﲹ	وعهدهم	and their promise	waʿahdihim
+11	70:32:5	w	رَٰعُونَ	ﲺ	راعون	(are) observers	rāʿūna
+11	70:32:6	e	٣٢	ﲻ			
+11	70:33:1	w	وَٱلَّذِينَ	ﲼ	والذين	And those who	wa-alladhīna
+11	70:33:2	w	هُم	ﲽ	هم	[they]	hum
+11	70:33:3	w	بِشَهَٰدَٰتِهِمۡ	ﲾ	بشهاداتهم	in their testimonies	bishahādātihim
+11	70:33:4	w	قَآئِمُونَ	ﲿ	قايمون	stand firm	qāimūna
+12	70:33:5	e	٣٣	ﳀ			
+12	70:34:1	w	وَٱلَّذِينَ	ﳁ	والذين	And those who	wa-alladhīna
+12	70:34:2	w	هُمۡ	ﳂ	هم	[they]	hum
+12	70:34:3	w	عَلَىٰ	ﳃ	على	on	ʿalā
+12	70:34:4	w	صَلَاتِهِمۡ	ﳄ	صلاتهم	their prayer	ṣalātihim
+12	70:34:5	w	يُحَافِظُونَ	ﳅ	يحافظون	keep a guard	yuḥāfiẓūna
+12	70:34:6	e	٣٤	ﳆ			
+12	70:35:1	w	أُوْلَٰٓئِكَ	ﳇ	اولايك	Those	ulāika
+12	70:35:2	w	فِي	ﳈ	في	(will be) in	fī
+12	70:35:3	w	جَنَّٰتٖ	ﳉ	جنات	Gardens	jannātin
+12	70:35:4	w	مُّكۡرَمُونَ	ﳊ	مكرمون	honored	muk'ramūna
+12	70:35:5	e	٣٥	ﳋ			
+13	70:36:1	w	فَمَالِ	ﳌ	فمال	So what is with	famāli
+13	70:36:2	w	ٱلَّذِينَ	ﳍ	الذين	those who	alladhīna
+13	70:36:3	w	كَفَرُواْ	ﳎ	كفروا	disbelieve	kafarū
+13	70:36:4	w	قِبَلَكَ	ﳏ	قبلك	before you	qibalaka
+13	70:36:5	w	مُهۡطِعِينَ	ﳐ	مهطعين	(they) hasten	muh'ṭiʿīna
+13	70:36:6	e	٣٦	ﳑ			
+13	70:37:1	w	عَنِ	ﳒ	عن	On	ʿani
+13	70:37:2	w	ٱلۡيَمِينِ	ﳓ	اليمين	the right	l-yamīni
+13	70:37:3	w	وَعَنِ	ﳔ	وعن	and on	waʿani
+13	70:37:4	w	ٱلشِّمَالِ	ﳕ	الشمال	the left	l-shimāli
+14	70:37:5	w	عِزِينَ	ﳖ	عزين	(in) separate groups	ʿizīna
+14	70:37:6	e	٣٧	ﳗ			
+14	70:38:1	w	أَيَطۡمَعُ	ﳘ	ايطمع	Does long	ayaṭmaʿu
+14	70:38:2	w	كُلُّ	ﳙ	كل	every	kullu
+14	70:38:3	w	ٱمۡرِيٕٖ	ﳚ	امري	person	im'ri-in
+14	70:38:4	w	مِّنۡهُمۡ	ﳛ	منهم	among them	min'hum
+14	70:38:5	w	أَن	ﳜ	ان	that	an
+14	70:38:6	w	يُدۡخَلَ	ﳝ	يدخل	he enters	yud'khala
+14	70:38:7	w	جَنَّةَ	ﳞ	جنة	a Garden	jannata
+14	70:38:8	w	نَعِيمٖ	ﳟ	نعيم	(of) Delight	naʿīmin
+14	70:38:9	e	٣٨	ﳠ			
+14	70:39:1	w	كـَلَّآۖ	ﳡﳢ	كلا	By no means	kallā
+14	70:39:2	w	إِنَّا	ﳣ	انا	Indeed, We	innā
+14	70:39:3	w	خَلَقۡنَٰهُم	ﳤ	خلقناهم	[We] have created them	khalaqnāhum
+15	70:39:4	w	مِّمَّا	ﳥ	مما	from what	mimmā
+15	70:39:5	w	يَعۡلَمُونَ	ﳦ	يعلمون	they know	yaʿlamūna
+15	70:39:6	e	٣٩	ﳧ			

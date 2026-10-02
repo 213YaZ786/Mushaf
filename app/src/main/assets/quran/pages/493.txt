@@ -1,0 +1,141 @@
+1	43:48:1	w	وَمَا	ﱁ	وما	And not	wamā
+1	43:48:2	w	نُرِيهِم	ﱂ	نريهم	We showed them	nurīhim
+1	43:48:3	w	مِّنۡ	ﱃ	من	of	min
+1	43:48:4	w	ءَايَةٍ	ﱄ	اية	a Sign	āyatin
+1	43:48:5	w	إِلَّا	ﱅ	الا	but	illā
+1	43:48:6	w	هِيَ	ﱆ	هي	it	hiya
+1	43:48:7	w	أَكۡبَرُ	ﱇ	اكبر	(was) greater	akbaru
+1	43:48:8	w	مِنۡ	ﱈ	من	than	min
+1	43:48:9	w	أُخۡتِهَاۖ	ﱉﱊ	اختها	its sister	ukh'tihā
+1	43:48:10	w	وَأَخَذۡنَٰهُم	ﱋ	واخذناهم	and We seized them	wa-akhadhnāhum
+2	43:48:11	w	بِٱلۡعَذَابِ	ﱌ	بالعذاب	with the punishment	bil-ʿadhābi
+2	43:48:12	w	لَعَلَّهُمۡ	ﱍ	لعلهم	so that they may	laʿallahum
+2	43:48:13	w	يَرۡجِعُونَ	ﱎ	يرجعون	return	yarjiʿūna
+2	43:48:14	e	٤٨	ﱏ			
+2	43:49:1	w	وَقَالُواْ	ﱐ	وقالوا	And they said	waqālū
+2	43:49:2	w	يَٰٓأَيُّهَ	ﱑ	يا ايه	O	yāayyuha
+2	43:49:3	w	ٱلسَّاحِرُ	ﱒ	الساحر	[the] magician	l-sāḥiru
+2	43:49:4	w	ٱدۡعُ	ﱓ	ادع	Invoke	ud'ʿu
+2	43:49:5	w	لَنَا	ﱔ	لنا	for us	lanā
+3	43:49:6	w	رَبَّكَ	ﱕ	ربك	your Lord	rabbaka
+3	43:49:7	w	بِمَا	ﱖ	بما	by what	bimā
+3	43:49:8	w	عَهِدَ	ﱗ	عهد	He has made covenant	ʿahida
+3	43:49:9	w	عِندَكَ	ﱘ	عندك	with you	ʿindaka
+3	43:49:10	w	إِنَّنَا	ﱙ	اننا	Indeed, we	innanā
+3	43:49:11	w	لَمُهۡتَدُونَ	ﱚ	لمهتدون	(will) surely be guided	lamuh'tadūna
+3	43:49:12	e	٤٩	ﱛ			
+3	43:50:1	w	فَلَمَّا	ﱜ	فلما	But when	falammā
+3	43:50:2	w	كَشَفۡنَا	ﱝ	كشفنا	We removed	kashafnā
+4	43:50:3	w	عَنۡهُمُ	ﱞ	عنهم	from them	ʿanhumu
+4	43:50:4	w	ٱلۡعَذَابَ	ﱟ	العذاب	the punishment	l-ʿadhāba
+4	43:50:5	w	إِذَا	ﱠ	اذا	behold	idhā
+4	43:50:6	w	هُمۡ	ﱡ	هم	They	hum
+4	43:50:7	w	يَنكُثُونَ	ﱢ	ينكثون	broke (their word)	yankuthūna
+4	43:50:8	e	٥٠	ﱣ			
+4	43:51:1	w	وَنَادَىٰ	ﱤ	ونادى	And called out	wanādā
+4	43:51:2	w	فِرۡعَوۡنُ	ﱥ	فرعون	Firaun	fir'ʿawnu
+4	43:51:3	w	فِي	ﱦ	في	among	fī
+4	43:51:4	w	قَوۡمِهِۦ	ﱧ	قومه	his people	qawmihi
+5	43:51:5	w	قَالَ	ﱨ	قال	he said	qāla
+5	43:51:6	w	يَٰقَوۡمِ	ﱩ	يا قوم	O my people	yāqawmi
+5	43:51:7	w	أَلَيۡسَ	ﱪ	اليس	Is not	alaysa
+5	43:51:8	w	لِي	ﱫ	لي	for me	lī
+5	43:51:9	w	مُلۡكُ	ﱬ	ملك	(the) kingdom	mul'ku
+5	43:51:10	w	مِصۡرَ	ﱭ	مصر	(of) Egypt	miṣ'ra
+5	43:51:11	w	وَهَٰذِهِ	ﱮ	وهاذه	and these	wahādhihi
+5	43:51:12	w	ٱلۡأَنۡهَٰرُ	ﱯ	الانهار	[the] rivers	l-anhāru
+5	43:51:13	w	تَجۡرِي	ﱰ	تجري	flowing	tajrī
+5	43:51:14	w	مِن	ﱱ	من	underneath me	min
+6	43:51:15	w	تَحۡتِيٓۚ	ﱲﱳ	تحتي	underneath me	taḥtī
+6	43:51:16	w	أَفَلَا	ﱴ	افلا	Then do not	afalā
+6	43:51:17	w	تُبۡصِرُونَ	ﱵ	تبصرون	you see	tub'ṣirūna
+6	43:51:18	e	٥١	ﱶ			
+6	43:52:1	w	أَمۡ	ﱷ	ام	Or	am
+6	43:52:2	w	أَنَا۠	ﱸ	انا	am I	anā
+6	43:52:3	w	خَيۡرٞ	ﱹ	خير	better	khayrun
+6	43:52:4	w	مِّنۡ	ﱺ	من	than	min
+6	43:52:5	w	هَٰذَا	ﱻ	هاذا	this	hādhā
+6	43:52:6	w	ٱلَّذِي	ﱼ	الذي	one who	alladhī
+6	43:52:7	w	هُوَ	ﱽ	هو	he	huwa
+6	43:52:8	w	مَهِينٞ	ﱾ	مهين	(is) insignificant	mahīnun
+7	43:52:9	w	وَلَا	ﱿ	ولا	and hardly	walā
+7	43:52:10	w	يَكَادُ	ﲀ	يكاد	and hardly	yakādu
+7	43:52:11	w	يُبِينُ	ﲁ	يبين	clear	yubīnu
+7	43:52:12	e	٥٢	ﲂ			
+7	43:53:1	w	فَلَوۡلَآ	ﲃ	فلولا	Then why not	falawlā
+7	43:53:2	w	أُلۡقِيَ	ﲄ	القي	are placed	ul'qiya
+7	43:53:3	w	عَلَيۡهِ	ﲅ	عليه	on him	ʿalayhi
+7	43:53:4	w	أَسۡوِرَةٞ	ﲆ	اسورة	bracelets	aswiratun
+7	43:53:5	w	مِّن	ﲇ	من	of	min
+7	43:53:6	w	ذَهَبٍ	ﲈ	ذهب	gold	dhahabin
+7	43:53:7	w	أَوۡ	ﲉ	او	or	aw
+7	43:53:8	w	جَآءَ	ﲊ	جاء	come	jāa
+8	43:53:9	w	مَعَهُ	ﲋ	معه	with him	maʿahu
+8	43:53:10	w	ٱلۡمَلَٰٓئِكَةُ	ﲌ	الملايكة	the Angels	l-malāikatu
+8	43:53:11	w	مُقۡتَرِنِينَ	ﲍ	مقترنين	accompanying (him)	muq'tarinīna
+8	43:53:12	e	٥٣	ﲎ			
+8	43:54:1	w	فَٱسۡتَخَفَّ	ﲏ	فاستخف	So he bluffed	fa-is'takhaffa
+8	43:54:2	w	قَوۡمَهُۥ	ﲐ	قومه	his people	qawmahu
+9	43:54:3	w	فَأَطَاعُوهُۚ	ﲑﲒ	فاطاعوه	and they obeyed him	fa-aṭāʿūhu
+9	43:54:4	w	إِنَّهُمۡ	ﲓ	انهم	Indeed, they	innahum
+9	43:54:5	w	كَانُواْ	ﲔ	كانوا	were	kānū
+9	43:54:6	w	قَوۡمٗا	ﲕ	قوما	a people	qawman
+9	43:54:7	w	فَٰسِقِينَ	ﲖ	فاسقين	defiantly disobedient	fāsiqīna
+9	43:54:8	e	٥٤	ﲗ			
+9	43:55:1	w	فَلَمَّآ	ﲘ	فلما	So when	falammā
+9	43:55:2	w	ءَاسَفُونَا	ﲙ	اسفونا	they angered Us	āsafūnā
+10	43:55:3	w	ٱنتَقَمۡنَا	ﲚ	انتقمنا	We took retribution	intaqamnā
+10	43:55:4	w	مِنۡهُمۡ	ﲛ	منهم	from them	min'hum
+10	43:55:5	w	فَأَغۡرَقۡنَٰهُمۡ	ﲜ	فاغرقناهم	and We drowned them	fa-aghraqnāhum
+10	43:55:6	w	أَجۡمَعِينَ	ﲝ	اجمعين	all	ajmaʿīna
+10	43:55:7	e	٥٥	ﲞ			
+10	43:56:1	w	فَجَعَلۡنَٰهُمۡ	ﲟ	فجعلناهم	And We made them	fajaʿalnāhum
+11	43:56:2	w	سَلَفٗا	ﲠ	سلفا	a precedent	salafan
+11	43:56:3	w	وَمَثَلٗا	ﲡ	ومثلا	and an example	wamathalan
+11	43:56:4	w	لِّلۡأٓخِرِينَ	ﲢ	للاخرين	for the later (generations)	lil'ākhirīna
+11	43:56:5	e	٥٦	ﲣ			
+11	43:57:1	w	۞ وَلَمَّا	ﲤ ﲥ	۞ ولما	And when	walammā
+11	43:57:2	w	ضُرِبَ	ﲦ	ضرب	is presented	ḍuriba
+11	43:57:3	w	ٱبۡنُ	ﲧ	ابن	(the) son	ub'nu
+11	43:57:4	w	مَرۡيَمَ	ﲨ	مريم	(of) Maryam	maryama
+11	43:57:5	w	مَثَلًا	ﲩ	مثلا	(as) an example	mathalan
+12	43:57:6	w	إِذَا	ﲪ	اذا	behold	idhā
+12	43:57:7	w	قَوۡمُكَ	ﲫ	قومك	Your people	qawmuka
+12	43:57:8	w	مِنۡهُ	ﲬ	منه	about it	min'hu
+12	43:57:9	w	يَصِدُّونَ	ﲭ	يصدون	laughed aloud	yaṣiddūna
+12	43:57:10	e	٥٧	ﲮ			
+12	43:58:1	w	وَقَالُوٓاْ	ﲯ	وقالوا	And they said	waqālū
+12	43:58:2	w	ءَأَٰلِهَتُنَا	ﲰ	االهتنا	Are our gods	aālihatunā
+12	43:58:3	w	خَيۡرٌ	ﲱ	خير	better	khayrun
+12	43:58:4	w	أَمۡ	ﲲ	ام	or	am
+13	43:58:5	w	هُوَۚ	ﲳﲴ	هو	he	huwa
+13	43:58:6	w	مَا	ﲵ	ما	Not	mā
+13	43:58:7	w	ضَرَبُوهُ	ﲶ	ضربوه	they present it	ḍarabūhu
+13	43:58:8	w	لَكَ	ﲷ	لك	to you	laka
+13	43:58:9	w	إِلَّا	ﲸ	الا	except	illā
+13	43:58:10	w	جَدَلَۢاۚ	ﲹﲺ	جدلا	(for) argument	jadalan
+13	43:58:11	w	بَلۡ	ﲻ	بل	Nay	bal
+13	43:58:12	w	هُمۡ	ﲼ	هم	they	hum
+13	43:58:13	w	قَوۡمٌ	ﲽ	قوم	(are) a people	qawmun
+13	43:58:14	w	خَصِمُونَ	ﲾ	خصمون	argumentative	khaṣimūna
+13	43:58:15	e	٥٨	ﲿ			
+13	43:59:1	w	إِنۡ	ﳀ	ان	Not	in
+13	43:59:2	w	هُوَ	ﳁ	هو	he	huwa
+14	43:59:3	w	إِلَّا	ﳂ	الا	(was) except	illā
+14	43:59:4	w	عَبۡدٌ	ﳃ	عبد	a slave	ʿabdun
+14	43:59:5	w	أَنۡعَمۡنَا	ﳄ	انعمنا	We bestowed Our favor	anʿamnā
+14	43:59:6	w	عَلَيۡهِ	ﳅ	عليه	on him	ʿalayhi
+14	43:59:7	w	وَجَعَلۡنَٰهُ	ﳆ	وجعلناه	and We made him	wajaʿalnāhu
+14	43:59:8	w	مَثَلٗا	ﳇ	مثلا	an example	mathalan
+14	43:59:9	w	لِّبَنِيٓ	ﳈ	لبني	for (the) Children of Israel	libanī
+14	43:59:10	w	إِسۡرَٰٓءِيلَ	ﳉ	اسراييل	for (the) Children of Israel	is'rāīla
+14	43:59:11	e	٥٩	ﳊ			
+15	43:60:1	w	وَلَوۡ	ﳋ	ولو	And if	walaw
+15	43:60:2	w	نَشَآءُ	ﳌ	نشاء	We willed	nashāu
+15	43:60:3	w	لَجَعَلۡنَا	ﳍ	لجعلنا	surely We (could have) made	lajaʿalnā
+15	43:60:4	w	مِنكُم	ﳎ	منكم	among you	minkum
+15	43:60:5	w	مَّلَٰٓئِكَةٗ	ﳏ	ملايكة	Angels	malāikatan
+15	43:60:6	w	فِي	ﳐ	في	in	fī
+15	43:60:7	w	ٱلۡأَرۡضِ	ﳑ	الارض	the earth	l-arḍi
+15	43:60:8	w	يَخۡلُفُونَ	ﳒ	يخلفون	succeeding	yakhlufūna
+15	43:60:9	e	٦٠	ﳓ			

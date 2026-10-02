@@ -1,0 +1,149 @@
+3	72:1:1	w	قُلۡ	ﱁ	قل	Say	qul
+3	72:1:2	w	أُوحِيَ	ﱂ	اوحي	It has been revealed	ūḥiya
+3	72:1:3	w	إِلَيَّ	ﱃ	الي	to me	ilayya
+3	72:1:4	w	أَنَّهُ	ﱄ	انه	that	annahu
+3	72:1:5	w	ٱسۡتَمَعَ	ﱅ	استمع	listened	is'tamaʿa
+3	72:1:6	w	نَفَرٞ	ﱆ	نفر	a group	nafarun
+3	72:1:7	w	مِّنَ	ﱇ	من	of	mina
+3	72:1:8	w	ٱلۡجِنِّ	ﱈ	الجن	the jinn	l-jini
+3	72:1:9	w	فَقَالُوٓاْ	ﱉ	فقالوا	and they said	faqālū
+3	72:1:10	w	إِنَّا	ﱊ	انا	Indeed, we	innā
+3	72:1:11	w	سَمِعۡنَا	ﱋ	سمعنا	heard	samiʿ'nā
+3	72:1:12	w	قُرۡءَانًا	ﱌ	قرانا	a Quran	qur'ānan
+4	72:1:13	w	عَجَبٗا	ﱍ	عجبا	amazing	ʿajaban
+4	72:1:14	e	١	ﱎ			
+4	72:2:1	w	يَهۡدِيٓ	ﱏ	يهدي	It guides	yahdī
+4	72:2:2	w	إِلَى	ﱐ	الى	to	ilā
+4	72:2:3	w	ٱلرُّشۡدِ	ﱑ	الرشد	the right way	l-rush'di
+4	72:2:4	w	فَـَٔامَنَّا	ﱒ	فامنا	so we believe	faāmannā
+4	72:2:5	w	بِهِۦۖ	ﱓﱔ	به	in it	bihi
+4	72:2:6	w	وَلَن	ﱕ	ولن	and never	walan
+4	72:2:7	w	نُّشۡرِكَ	ﱖ	نشرك	we will associate	nush'rika
+4	72:2:8	w	بِرَبِّنَآ	ﱗ	بربنا	with our Lord	birabbinā
+4	72:2:9	w	أَحَدٗا	ﱘ	احدا	anyone	aḥadan
+4	72:2:10	e	٢	ﱙ			
+5	72:3:1	w	وَأَنَّهُۥ	ﱚ	وانه	And that He	wa-annahu
+5	72:3:2	w	تَعَٰلَىٰ	ﱛ	تعالى	Exalted is	taʿālā
+5	72:3:3	w	جَدُّ	ﱜ	جد	(the) Majesty	jaddu
+5	72:3:4	w	رَبِّنَا	ﱝ	ربنا	(of) our Lord	rabbinā
+5	72:3:5	w	مَا	ﱞ	ما	not	mā
+5	72:3:6	w	ٱتَّخَذَ	ﱟ	اتخذ	He has taken	ittakhadha
+5	72:3:7	w	صَٰحِبَةٗ	ﱠ	صاحبة	a wife	ṣāḥibatan
+5	72:3:8	w	وَلَا	ﱡ	ولا	and not	walā
+5	72:3:9	w	وَلَدٗا	ﱢ	ولدا	a son	waladan
+5	72:3:10	e	٣	ﱣ			
+5	72:4:1	w	وَأَنَّهُۥ	ﱤ	وانه	And that he	wa-annahu
+5	72:4:2	w	كَانَ	ﱥ	كان	used to	kāna
+6	72:4:3	w	يَقُولُ	ﱦ	يقول	speak	yaqūlu
+6	72:4:4	w	سَفِيهُنَا	ﱧ	سفيهنا	the foolish among us	safīhunā
+6	72:4:5	w	عَلَى	ﱨ	على	against	ʿalā
+6	72:4:6	w	ٱللَّهِ	ﱩ	الله	Allah	l-lahi
+6	72:4:7	w	شَطَطٗا	ﱪ	شططا	an excessive transgression	shaṭaṭan
+6	72:4:8	e	٤	ﱫ			
+6	72:5:1	w	وَأَنَّا	ﱬ	وانا	And that we	wa-annā
+6	72:5:2	w	ظَنَنَّآ	ﱭ	ظننا	thought	ẓanannā
+6	72:5:3	w	أَن	ﱮ	ان	that	an
+6	72:5:4	w	لَّن	ﱯ	لن	never	lan
+6	72:5:5	w	تَقُولَ	ﱰ	تقول	will say	taqūla
+6	72:5:6	w	ٱلۡإِنسُ	ﱱ	الانس	the men	l-insu
+7	72:5:7	w	وَٱلۡجِنُّ	ﱲ	والجن	and the jinn	wal-jinu
+7	72:5:8	w	عَلَى	ﱳ	على	against	ʿalā
+7	72:5:9	w	ٱللَّهِ	ﱴ	الله	Allah	l-lahi
+7	72:5:10	w	كَذِبٗا	ﱵ	كذبا	any lie	kadhiban
+7	72:5:11	e	٥	ﱶ			
+7	72:6:1	w	وَأَنَّهُۥ	ﱷ	وانه	And that	wa-annahu
+7	72:6:2	w	كَانَ	ﱸ	كان	(there) were	kāna
+7	72:6:3	w	رِجَالٞ	ﱹ	رجال	men	rijālun
+7	72:6:4	w	مِّنَ	ﱺ	من	among	mina
+7	72:6:5	w	ٱلۡإِنسِ	ﱻ	الانس	mankind	l-insi
+7	72:6:6	w	يَعُوذُونَ	ﱼ	يعوذون	who sought refuge	yaʿūdhūna
+7	72:6:7	w	بِرِجَالٖ	ﱽ	برجال	in (the) men	birijālin
+8	72:6:8	w	مِّنَ	ﱾ	من	from	mina
+8	72:6:9	w	ٱلۡجِنِّ	ﱿ	الجن	the jinn	l-jini
+8	72:6:10	w	فَزَادُوهُمۡ	ﲀ	فزادوهم	so they increased them	fazādūhum
+8	72:6:11	w	رَهَقٗا	ﲁ	رهقا	(in) burden	rahaqan
+8	72:6:12	e	٦	ﲂ			
+8	72:7:1	w	وَأَنَّهُمۡ	ﲃ	وانهم	And that they	wa-annahum
+8	72:7:2	w	ظَنُّواْ	ﲄ	ظنوا	thought	ẓannū
+8	72:7:3	w	كَمَا	ﲅ	كما	as	kamā
+8	72:7:4	w	ظَنَنتُمۡ	ﲆ	ظننتم	you thought	ẓanantum
+8	72:7:5	w	أَن	ﲇ	ان	that	an
+8	72:7:6	w	لَّن	ﲈ	لن	never	lan
+8	72:7:7	w	يَبۡعَثَ	ﲉ	يبعث	will raise	yabʿatha
+9	72:7:8	w	ٱللَّهُ	ﲊ	الله	Allah	l-lahu
+9	72:7:9	w	أَحَدٗا	ﲋ	احدا	anyone	aḥadan
+9	72:7:10	e	٧	ﲌ			
+9	72:8:1	w	وَأَنَّا	ﲍ	وانا	And that we	wa-annā
+9	72:8:2	w	لَمَسۡنَا	ﲎ	لمسنا	sought to touch	lamasnā
+9	72:8:3	w	ٱلسَّمَآءَ	ﲏ	السماء	the heaven	l-samāa
+9	72:8:4	w	فَوَجَدۡنَٰهَا	ﲐ	فوجدناها	but we found it	fawajadnāhā
+9	72:8:5	w	مُلِئَتۡ	ﲑ	مليت	filled (with)	muli-at
+9	72:8:6	w	حَرَسٗا	ﲒ	حرسا	guards	ḥarasan
+10	72:8:7	w	شَدِيدٗا	ﲓ	شديدا	severe	shadīdan
+10	72:8:8	w	وَشُهُبٗا	ﲔ	وشهبا	and flaming fires	washuhuban
+10	72:8:9	e	٨	ﲕ			
+10	72:9:1	w	وَأَنَّا	ﲖ	وانا	And that we	wa-annā
+10	72:9:2	w	كُنَّا	ﲗ	كنا	used to	kunnā
+10	72:9:3	w	نَقۡعُدُ	ﲘ	نقعد	sit	naqʿudu
+10	72:9:4	w	مِنۡهَا	ﲙ	منها	there in	min'hā
+10	72:9:5	w	مَقَٰعِدَ	ﲚ	مقاعد	positions	maqāʿida
+10	72:9:6	w	لِلسَّمۡعِۖ	ﲛﲜ	للسمع	for hearing	lilssamʿi
+10	72:9:7	w	فَمَن	ﲝ	فمن	but (he) who	faman
+11	72:9:8	w	يَسۡتَمِعِ	ﲞ	يستمع	listens	yastamiʿi
+11	72:9:9	w	ٱلۡأٓنَ	ﲟ	الان	now	l-āna
+11	72:9:10	w	يَجِدۡ	ﲠ	يجد	will find	yajid
+11	72:9:11	w	لَهُۥ	ﲡ	له	for him	lahu
+11	72:9:12	w	شِهَابٗا	ﲢ	شهابا	a flaming fire	shihāban
+11	72:9:13	w	رَّصَدٗا	ﲣ	رصدا	waiting	raṣadan
+11	72:9:14	e	٩	ﲤ			
+11	72:10:1	w	وَأَنَّا	ﲥ	وانا	And that we	wa-annā
+11	72:10:2	w	لَا	ﲦ	لا	not	lā
+11	72:10:3	w	نَدۡرِيٓ	ﲧ	ندري	we know	nadrī
+11	72:10:4	w	أَشَرٌّ	ﲨ	اشر	whether evil	asharrun
+11	72:10:5	w	أُرِيدَ	ﲩ	اريد	is intended	urīda
+12	72:10:6	w	بِمَن	ﲪ	بمن	for (those) who	biman
+12	72:10:7	w	فِي	ﲫ	في	(are) in	fī
+12	72:10:8	w	ٱلۡأَرۡضِ	ﲬ	الارض	the earth	l-arḍi
+12	72:10:9	w	أَمۡ	ﲭ	ام	or	am
+12	72:10:10	w	أَرَادَ	ﲮ	اراد	intends	arāda
+12	72:10:11	w	بِهِمۡ	ﲯ	بهم	for them	bihim
+12	72:10:12	w	رَبُّهُمۡ	ﲰ	ربهم	their Lord	rabbuhum
+12	72:10:13	w	رَشَدٗا	ﲱ	رشدا	a right path	rashadan
+12	72:10:14	e	١٠	ﲲ			
+12	72:11:1	w	وَأَنَّا	ﲳ	وانا	And that [we]	wa-annā
+12	72:11:2	w	مِنَّا	ﲴ	منا	among us	minnā
+12	72:11:3	w	ٱلصَّٰلِحُونَ	ﲵ	الصالحون	(are) the righteous	l-ṣāliḥūna
+13	72:11:4	w	وَمِنَّا	ﲶ	ومنا	and among us	waminnā
+13	72:11:5	w	دُونَ	ﲷ	دون	(are) other than	dūna
+13	72:11:6	w	ذَٰلِكَۖ	ﲸﲹ	ذالك	that	dhālika
+13	72:11:7	w	كُنَّا	ﲺ	كنا	We	kunnā
+13	72:11:8	w	طَرَآئِقَ	ﲻ	طرايق	(are on) ways	ṭarāiqa
+13	72:11:9	w	قِدَدٗا	ﲼ	قددا	different	qidadan
+13	72:11:10	e	١١	ﲽ			
+13	72:12:1	w	وَأَنَّا	ﲾ	وانا	And that we	wa-annā
+13	72:12:2	w	ظَنَنَّآ	ﲿ	ظننا	[we] have become certain	ẓanannā
+13	72:12:3	w	أَن	ﳀ	ان	that	an
+13	72:12:4	w	لَّن	ﳁ	لن	never	lan
+13	72:12:5	w	نُّعۡجِزَ	ﳂ	نعجز	we will cause failure	nuʿ'jiza
+14	72:12:6	w	ٱللَّهَ	ﳃ	الله	(to) Allah	l-laha
+14	72:12:7	w	فِي	ﳄ	في	in	fī
+14	72:12:8	w	ٱلۡأَرۡضِ	ﳅ	الارض	the earth	l-arḍi
+14	72:12:9	w	وَلَن	ﳆ	ولن	and never	walan
+14	72:12:10	w	نُّعۡجِزَهُۥ	ﳇ	نعجزه	we can escape Him	nuʿ'jizahu
+14	72:12:11	w	هَرَبٗا	ﳈ	هربا	(by) flight	haraban
+14	72:12:12	e	١٢	ﳉ			
+14	72:13:1	w	وَأَنَّا	ﳊ	وانا	And that [we]	wa-annā
+14	72:13:2	w	لَمَّا	ﳋ	لما	when	lammā
+14	72:13:3	w	سَمِعۡنَا	ﳌ	سمعنا	we heard	samiʿ'nā
+14	72:13:4	w	ٱلۡهُدَىٰٓ	ﳍ	الهدى	the Guidance	l-hudā
+15	72:13:5	w	ءَامَنَّا	ﳎ	امنا	we believed	āmannā
+15	72:13:6	w	بِهِۦۖ	ﳏﳐ	به	in it	bihi
+15	72:13:7	w	فَمَن	ﳑ	فمن	And whoever	faman
+15	72:13:8	w	يُؤۡمِنۢ	ﳒ	يومن	believes	yu'min
+15	72:13:9	w	بِرَبِّهِۦ	ﳓ	بربه	in his Lord	birabbihi
+15	72:13:10	w	فَلَا	ﳔ	فلا	then not	falā
+15	72:13:11	w	يَخَافُ	ﳕ	يخاف	he will fear	yakhāfu
+15	72:13:12	w	بَخۡسٗا	ﳖ	بخسا	any loss	bakhsan
+15	72:13:13	w	وَلَا	ﳗ	ولا	and not	walā
+15	72:13:14	w	رَهَقٗا	ﳘ	رهقا	any burden	rahaqan
+15	72:13:15	e	١٣	ﳙ			

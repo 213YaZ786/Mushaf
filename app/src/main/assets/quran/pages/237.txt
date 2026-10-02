@@ -1,0 +1,131 @@
+1	12:15:1	w	فَلَمَّا	ﱁ	فلما	So when	falammā
+1	12:15:2	w	ذَهَبُواْ	ﱂ	ذهبوا	they took him	dhahabū
+1	12:15:3	w	بِهِۦ	ﱃ	به	they took him	bihi
+1	12:15:4	w	وَأَجۡمَعُوٓاْ	ﱄ	واجمعوا	and agreed	wa-ajmaʿū
+1	12:15:5	w	أَن	ﱅ	ان	that	an
+1	12:15:6	w	يَجۡعَلُوهُ	ﱆ	يجعلوه	they put him	yajʿalūhu
+1	12:15:7	w	فِي	ﱇ	في	in	fī
+1	12:15:8	w	غَيَٰبَتِ	ﱈ	غيابت	(the) bottom	ghayābati
+1	12:15:9	w	ٱلۡجُبِّۚ	ﱉﱊ	الجب	(of) the well	l-jubi
+1	12:15:10	w	وَأَوۡحَيۡنَآ	ﱋ	واوحينا	But We inspired	wa-awḥaynā
+2	12:15:11	w	إِلَيۡهِ	ﱌ	اليه	to him	ilayhi
+2	12:15:12	w	لَتُنَبِّئَنَّهُم	ﱍ	لتنبينهم	Surely, you will inform them	latunabbi-annahum
+2	12:15:13	w	بِأَمۡرِهِمۡ	ﱎ	بامرهم	about this affair	bi-amrihim
+2	12:15:14	w	هَٰذَا	ﱏ	هاذا	about this affair	hādhā
+2	12:15:15	w	وَهُمۡ	ﱐ	وهم	while they	wahum
+2	12:15:16	w	لَا	ﱑ	لا	(do) not	lā
+2	12:15:17	w	يَشۡعُرُونَ	ﱒ	يشعرون	perceive	yashʿurūna
+2	12:15:18	e	١٥	ﱓ			
+2	12:16:1	w	وَجَآءُوٓ	ﱔ	وجاءوا	And they came	wajāū
+3	12:16:2	w	أَبَاهُمۡ	ﱕ	اباهم	(to) their father	abāhum
+3	12:16:3	w	عِشَآءٗ	ﱖ	عشاء	early at night	ʿishāan
+3	12:16:4	w	يَبۡكُونَ	ﱗ	يبكون	weeping	yabkūna
+3	12:16:5	e	١٦	ﱘ			
+3	12:17:1	w	قَالُواْ	ﱙ	قالوا	They said	qālū
+3	12:17:2	w	يَٰٓأَبَانَآ	ﱚ	يا ابانا	O our father	yāabānā
+3	12:17:3	w	إِنَّا	ﱛ	انا	Indeed, we	innā
+3	12:17:4	w	ذَهَبۡنَا	ﱜ	ذهبنا	[we] went	dhahabnā
+3	12:17:5	w	نَسۡتَبِقُ	ﱝ	نستبق	racing each other	nastabiqu
+4	12:17:6	w	وَتَرَكۡنَا	ﱞ	وتركنا	and we left	wataraknā
+4	12:17:7	w	يُوسُفَ	ﱟ	يوسف	Yusuf	yūsufa
+4	12:17:8	w	عِندَ	ﱠ	عند	with	ʿinda
+4	12:17:9	w	مَتَٰعِنَا	ﱡ	متاعنا	our possessions	matāʿinā
+4	12:17:10	w	فَأَكَلَهُ	ﱢ	فاكله	and ate him	fa-akalahu
+4	12:17:11	w	ٱلذِّئۡبُۖ	ﱣﱤ	الذيب	the wolf	l-dhi'bu
+4	12:17:12	w	وَمَآ	ﱥ	وما	But not	wamā
+4	12:17:13	w	أَنتَ	ﱦ	انت	you	anta
+5	12:17:14	w	بِمُؤۡمِنٖ	ﱧ	بمومن	(will) believe	bimu'minin
+5	12:17:15	w	لَّنَا	ﱨ	لنا	us	lanā
+5	12:17:16	w	وَلَوۡ	ﱩ	ولو	even if	walaw
+5	12:17:17	w	كُنَّا	ﱪ	كنا	we are	kunnā
+5	12:17:18	w	صَٰدِقِينَ	ﱫ	صادقين	truthful	ṣādiqīna
+5	12:17:19	e	١٧	ﱬ			
+5	12:18:1	w	وَجَآءُو	ﱭ	وجاءوا	And they brought	wajāū
+5	12:18:2	w	عَلَىٰ	ﱮ	على	upon	ʿalā
+5	12:18:3	w	قَمِيصِهِۦ	ﱯ	قميصه	his shirt	qamīṣihi
+6	12:18:4	w	بِدَمٖ	ﱰ	بدم	with false blood	bidamin
+6	12:18:5	w	كَذِبٖۚ	ﱱﱲ	كذب	with false blood	kadhibin
+6	12:18:6	w	قَالَ	ﱳ	قال	He said	qāla
+6	12:18:7	w	بَلۡ	ﱴ	بل	Nay	bal
+6	12:18:8	w	سَوَّلَتۡ	ﱵ	سولت	has enticed you	sawwalat
+6	12:18:9	w	لَكُمۡ	ﱶ	لكم	has enticed you	lakum
+6	12:18:10	w	أَنفُسُكُمۡ	ﱷ	انفسكم	your souls	anfusukum
+6	12:18:11	w	أَمۡرٗاۖ	ﱸﱹ	امرا	(to) a matter	amran
+6	12:18:12	w	فَصَبۡرٞ	ﱺ	فصبر	so patience	faṣabrun
+6	12:18:13	w	جَمِيلٞۖ	ﱻﱼ	جميل	(is) beautiful	jamīlun
+7	12:18:14	w	وَٱللَّهُ	ﱽ	والله	And Allah	wal-lahu
+7	12:18:15	w	ٱلۡمُسۡتَعَانُ	ﱾ	المستعان	(is) the One sought for help	l-mus'taʿānu
+7	12:18:16	w	عَلَىٰ	ﱿ	على	against	ʿalā
+7	12:18:17	w	مَا	ﲀ	ما	what	mā
+7	12:18:18	w	تَصِفُونَ	ﲁ	تصفون	you describe	taṣifūna
+7	12:18:19	e	١٨	ﲂ			
+7	12:19:1	w	وَجَآءَتۡ	ﲃ	وجاءت	And there came	wajāat
+7	12:19:2	w	سَيَّارَةٞ	ﲄ	سيارة	a caravan	sayyāratun
+8	12:19:3	w	فَأَرۡسَلُواْ	ﲅ	فارسلوا	and they sent	fa-arsalū
+8	12:19:4	w	وَارِدَهُمۡ	ﲆ	واردهم	their water drawer	wāridahum
+8	12:19:5	w	فَأَدۡلَىٰ	ﲇ	فادلى	then he let down	fa-adlā
+8	12:19:6	w	دَلۡوَهُۥۖ	ﲈﲉ	دلوه	his bucket	dalwahu
+8	12:19:7	w	قَالَ	ﲊ	قال	He said	qāla
+8	12:19:8	w	يَٰبُشۡرَىٰ	ﲋ	يا بشرى	O good news	yābush'rā
+8	12:19:9	w	هَٰذَا	ﲌ	هاذا	This	hādhā
+8	12:19:10	w	غُلَٰمٞۚ	ﲍﲎ	غلام	(is) a boy	ghulāmun
+8	12:19:11	w	وَأَسَرُّوهُ	ﲏ	واسروه	And they hid him	wa-asarrūhu
+9	12:19:12	w	بِضَٰعَةٗۚ	ﲐﲑ	بضاعة	(as) a merchandise	biḍāʿatan
+9	12:19:13	w	وَٱللَّهُ	ﲒ	والله	And Allah	wal-lahu
+9	12:19:14	w	عَلِيمُۢ	ﲓ	عليم	(is) All-Knower	ʿalīmun
+9	12:19:15	w	بِمَا	ﲔ	بما	of what	bimā
+9	12:19:16	w	يَعۡمَلُونَ	ﲕ	يعملون	they do	yaʿmalūna
+9	12:19:17	e	١٩	ﲖ			
+9	12:20:1	w	وَشَرَوۡهُ	ﲗ	وشروه	And they sold him	washarawhu
+9	12:20:2	w	بِثَمَنِۭ	ﲘ	بثمن	for a price	bithamanin
+9	12:20:3	w	بَخۡسٖ	ﲙ	بخس	very low	bakhsin
+10	12:20:4	w	دَرَٰهِمَ	ﲚ	دراهم	dirhams	darāhima
+10	12:20:5	w	مَعۡدُودَةٖ	ﲛ	معدودة	few	maʿdūdatin
+10	12:20:6	w	وَكَانُواْ	ﲜ	وكانوا	and they were	wakānū
+10	12:20:7	w	فِيهِ	ﲝ	فيه	about him	fīhi
+10	12:20:8	w	مِنَ	ﲞ	من	of	mina
+10	12:20:9	w	ٱلزَّٰهِدِينَ	ﲟ	الزاهدين	those keen to give up	l-zāhidīna
+10	12:20:10	e	٢٠	ﲠ			
+10	12:21:1	w	وَقَالَ	ﲡ	وقال	And said	waqāla
+11	12:21:2	w	ٱلَّذِي	ﲢ	الذي	the one who	alladhī
+11	12:21:3	w	ٱشۡتَرَىٰهُ	ﲣ	اشتراه	bought him	ish'tarāhu
+11	12:21:4	w	مِن	ﲤ	من	of	min
+11	12:21:5	w	مِّصۡرَ	ﲥ	مصر	Egypt	miṣ'ra
+11	12:21:6	w	لِٱمۡرَأَتِهِۦٓ	ﲦ	لامراته	to his wife	li-im'ra-atihi
+11	12:21:7	w	أَكۡرِمِي	ﲧ	اكرمي	Make comfortable	akrimī
+11	12:21:8	w	مَثۡوَىٰهُ	ﲨ	مثواه	his stay	mathwāhu
+11	12:21:9	w	عَسَىٰٓ	ﲩ	عسى	Perhaps	ʿasā
+12	12:21:10	w	أَن	ﲪ	ان	that	an
+12	12:21:11	w	يَنفَعَنَآ	ﲫ	ينفعنا	(he) will benefit us	yanfaʿanā
+12	12:21:12	w	أَوۡ	ﲬ	او	or	aw
+12	12:21:13	w	نَتَّخِذَهُۥ	ﲭ	نتخذه	we will take him	nattakhidhahu
+12	12:21:14	w	وَلَدٗاۚ	ﲮﲯ	ولدا	(as) a son	waladan
+12	12:21:15	w	وَكَذَٰلِكَ	ﲰ	وكذالك	And thus	wakadhālika
+12	12:21:16	w	مَكَّنَّا	ﲱ	مكنا	We established	makkannā
+12	12:21:17	w	لِيُوسُفَ	ﲲ	ليوسف	Yusuf	liyūsufa
+12	12:21:18	w	فِي	ﲳ	في	in	fī
+13	12:21:19	w	ٱلۡأَرۡضِ	ﲴ	الارض	the land	l-arḍi
+13	12:21:20	w	وَلِنُعَلِّمَهُۥ	ﲵ	ولنعلمه	that We might teach him	walinuʿallimahu
+13	12:21:21	w	مِن	ﲶ	من	(the) interpretation of	min
+13	12:21:22	w	تَأۡوِيلِ	ﲷ	تاويل	(the) interpretation of	tawīli
+13	12:21:23	w	ٱلۡأَحَادِيثِۚ	ﲸﲹ	الاحاديث	the events	l-aḥādīthi
+13	12:21:24	w	وَٱللَّهُ	ﲺ	والله	And Allah	wal-lahu
+13	12:21:25	w	غَالِبٌ	ﲻ	غالب	(is) Predominant	ghālibun
+13	12:21:26	w	عَلَىٰٓ	ﲼ	على	over	ʿalā
+14	12:21:27	w	أَمۡرِهِۦ	ﲽ	امره	His affairs	amrihi
+14	12:21:28	w	وَلَٰكِنَّ	ﲾ	ولاكن	but	walākinna
+14	12:21:29	w	أَكۡثَرَ	ﲿ	اكثر	most	akthara
+14	12:21:30	w	ٱلنَّاسِ	ﳀ	الناس	(of) the people	l-nāsi
+14	12:21:31	w	لَا	ﳁ	لا	(do) not	lā
+14	12:21:32	w	يَعۡلَمُونَ	ﳂ	يعلمون	know	yaʿlamūna
+14	12:21:33	e	٢١	ﳃ			
+14	12:22:1	w	وَلَمَّا	ﳄ	ولما	And when	walammā
+14	12:22:2	w	بَلَغَ	ﳅ	بلغ	he reached	balagha
+14	12:22:3	w	أَشُدَّهُۥٓ	ﳆ	اشده	his maturity	ashuddahu
+15	12:22:4	w	ءَاتَيۡنَٰهُ	ﳇ	اتيناه	We gave him	ātaynāhu
+15	12:22:5	w	حُكۡمٗا	ﳈ	حكما	wisdom	ḥuk'man
+15	12:22:6	w	وَعِلۡمٗاۚ	ﳉﳊ	وعلما	and knowledge	waʿil'man
+15	12:22:7	w	وَكَذَٰلِكَ	ﳋ	وكذالك	And thus	wakadhālika
+15	12:22:8	w	نَجۡزِي	ﳌ	نجزي	We reward	najzī
+15	12:22:9	w	ٱلۡمُحۡسِنِينَ	ﳍ	المحسنين	the good-doers	l-muḥ'sinīna
+15	12:22:10	e	٢٢	ﳎ			

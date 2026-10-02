@@ -1,0 +1,127 @@
+1	9:94:1	w	يَعۡتَذِرُونَ	ﱁ	يعتذرون	They will make excuses	yaʿtadhirūna
+1	9:94:2	w	إِلَيۡكُمۡ	ﱂ	اليكم	to you	ilaykum
+1	9:94:3	w	إِذَا	ﱃ	اذا	when	idhā
+1	9:94:4	w	رَجَعۡتُمۡ	ﱄ	رجعتم	you (have) returned	rajaʿtum
+1	9:94:5	w	إِلَيۡهِمۡۚ	ﱅﱆ	اليهم	to them	ilayhim
+1	9:94:6	w	قُل	ﱇ	قل	Say	qul
+1	9:94:7	w	لَّا	ﱈ	لا	(Do) not	lā
+1	9:94:8	w	تَعۡتَذِرُواْ	ﱉ	تعتذروا	make excuse	taʿtadhirū
+2	9:94:9	w	لَن	ﱊ	لن	never	lan
+2	9:94:10	w	نُّؤۡمِنَ	ﱋ	نومن	we will believe	nu'mina
+2	9:94:11	w	لَكُمۡ	ﱌ	لكم	you	lakum
+2	9:94:12	w	قَدۡ	ﱍ	قد	Verily	qad
+2	9:94:13	w	نَبَّأَنَا	ﱎ	نبانا	Allah (has) informed us	nabba-anā
+2	9:94:14	w	ٱللَّهُ	ﱏ	الله	Allah (has) informed us	l-lahu
+2	9:94:15	w	مِنۡ	ﱐ	من	of	min
+2	9:94:16	w	أَخۡبَارِكُمۡۚ	ﱑﱒ	اخباركم	your news	akhbārikum
+2	9:94:17	w	وَسَيَرَى	ﱓ	وسيرى	and Allah will see	wasayarā
+3	9:94:18	w	ٱللَّهُ	ﱔ	الله	and Allah will see	l-lahu
+3	9:94:19	w	عَمَلَكُمۡ	ﱕ	عملكم	your deeds	ʿamalakum
+3	9:94:20	w	وَرَسُولُهُۥ	ﱖ	ورسوله	and His Messenger	warasūluhu
+3	9:94:21	w	ثُمَّ	ﱗ	ثم	Then	thumma
+3	9:94:22	w	تُرَدُّونَ	ﱘ	تردون	you will be brought back	turaddūna
+3	9:94:23	w	إِلَىٰ	ﱙ	الى	to	ilā
+3	9:94:24	w	عَٰلِمِ	ﱚ	عالم	(the) Knower	ʿālimi
+3	9:94:25	w	ٱلۡغَيۡبِ	ﱛ	الغيب	(of) the unseen	l-ghaybi
+3	9:94:26	w	وَٱلشَّهَٰدَةِ	ﱜ	والشهادة	and the seen	wal-shahādati
+4	9:94:27	w	فَيُنَبِّئُكُم	ﱝ	فينبيكم	then He will inform you	fayunabbi-ukum
+4	9:94:28	w	بِمَا	ﱞ	بما	of what	bimā
+4	9:94:29	w	كُنتُمۡ	ﱟ	كنتم	you used (to)	kuntum
+4	9:94:30	w	تَعۡمَلُونَ	ﱠ	تعملون	do	taʿmalūna
+4	9:94:31	e	٩٤	ﱡ			
+4	9:95:1	w	سَيَحۡلِفُونَ	ﱢ	سيحلفون	They will swear	sayaḥlifūna
+4	9:95:2	w	بِٱللَّهِ	ﱣ	بالله	by Allah	bil-lahi
+5	9:95:3	w	لَكُمۡ	ﱤ	لكم	to you	lakum
+5	9:95:4	w	إِذَا	ﱥ	اذا	when	idhā
+5	9:95:5	w	ٱنقَلَبۡتُمۡ	ﱦ	انقلبتم	you returned	inqalabtum
+5	9:95:6	w	إِلَيۡهِمۡ	ﱧ	اليهم	to them	ilayhim
+5	9:95:7	w	لِتُعۡرِضُواْ	ﱨ	لتعرضوا	that you may turn away	lituʿ'riḍū
+5	9:95:8	w	عَنۡهُمۡۖ	ﱩﱪ	عنهم	from them	ʿanhum
+5	9:95:9	w	فَأَعۡرِضُواْ	ﱫ	فاعرضوا	So turn away	fa-aʿriḍū
+6	9:95:10	w	عَنۡهُمۡۖ	ﱬﱭ	عنهم	from them	ʿanhum
+6	9:95:11	w	إِنَّهُمۡ	ﱮ	انهم	indeed, they	innahum
+6	9:95:12	w	رِجۡسٞۖ	ﱯﱰ	رجس	(are) impure	rij'sun
+6	9:95:13	w	وَمَأۡوَىٰهُمۡ	ﱱ	وماواهم	and their abode	wamawāhum
+6	9:95:14	w	جَهَنَّمُ	ﱲ	جهنم	(is) Hell	jahannamu
+6	9:95:15	w	جَزَآءَۢ	ﱳ	جزاء	a recompense	jazāan
+6	9:95:16	w	بِمَا	ﱴ	بما	for what	bimā
+6	9:95:17	w	كَانُواْ	ﱵ	كانوا	they used (to)	kānū
+7	9:95:18	w	يَكۡسِبُونَ	ﱶ	يكسبون	earn	yaksibūna
+7	9:95:19	e	٩٥	ﱷ			
+7	9:96:1	w	يَحۡلِفُونَ	ﱸ	يحلفون	They swear	yaḥlifūna
+7	9:96:2	w	لَكُمۡ	ﱹ	لكم	to you	lakum
+7	9:96:3	w	لِتَرۡضَوۡاْ	ﱺ	لترضوا	that you may be pleased	litarḍaw
+7	9:96:4	w	عَنۡهُمۡۖ	ﱻﱼ	عنهم	with them	ʿanhum
+7	9:96:5	w	فَإِن	ﱽ	فان	But if	fa-in
+8	9:96:6	w	تَرۡضَوۡاْ	ﱾ	ترضوا	you are pleased	tarḍaw
+8	9:96:7	w	عَنۡهُمۡ	ﱿ	عنهم	with them	ʿanhum
+8	9:96:8	w	فَإِنَّ	ﲀ	فان	then indeed	fa-inna
+8	9:96:9	w	ٱللَّهَ	ﲁ	الله	Allah	l-laha
+8	9:96:10	w	لَا	ﲂ	لا	(is) not pleased	lā
+8	9:96:11	w	يَرۡضَىٰ	ﲃ	يرضى	(is) not pleased	yarḍā
+8	9:96:12	w	عَنِ	ﲄ	عن	with	ʿani
+8	9:96:13	w	ٱلۡقَوۡمِ	ﲅ	القوم	the people	l-qawmi
+8	9:96:14	w	ٱلۡفَٰسِقِينَ	ﲆ	الفاسقين	(who are) defiantly disobedient	l-fāsiqīna
+9	9:96:15	e	٩٦	ﲇ			
+9	9:97:1	w	ٱلۡأَعۡرَابُ	ﲈ	الاعراب	The bedouins	al-aʿrābu
+9	9:97:2	w	أَشَدُّ	ﲉ	اشد	(are) stronger	ashaddu
+9	9:97:3	w	كُفۡرٗا	ﲊ	كفرا	(in) disbelief	kuf'ran
+9	9:97:4	w	وَنِفَاقٗا	ﲋ	ونفاقا	and hypocrisy	wanifāqan
+9	9:97:5	w	وَأَجۡدَرُ	ﲌ	واجدر	and more likely	wa-ajdaru
+9	9:97:6	w	أَلَّا	ﲍ	الا	that not	allā
+9	9:97:7	w	يَعۡلَمُواْ	ﲎ	يعلموا	they know	yaʿlamū
+9	9:97:8	w	حُدُودَ	ﲏ	حدود	(the) limits	ḥudūda
+10	9:97:9	w	مَآ	ﲐ	ما	(of) what	mā
+10	9:97:10	w	أَنزَلَ	ﲑ	انزل	Allah (has) revealed	anzala
+10	9:97:11	w	ٱللَّهُ	ﲒ	الله	Allah (has) revealed	l-lahu
+10	9:97:12	w	عَلَىٰ	ﲓ	على	to	ʿalā
+10	9:97:13	w	رَسُولِهِۦۗ	ﲔﲕ	رسوله	His Messenger	rasūlihi
+10	9:97:14	w	وَٱللَّهُ	ﲖ	والله	And Allah	wal-lahu
+10	9:97:15	w	عَلِيمٌ	ﲗ	عليم	(is) All-Knower	ʿalīmun
+10	9:97:16	w	حَكِيمٞ	ﲘ	حكيم	All-Wise	ḥakīmun
+10	9:97:17	e	٩٧	ﲙ			
+10	9:98:1	w	وَمِنَ	ﲚ	ومن	And among	wamina
+11	9:98:2	w	ٱلۡأَعۡرَابِ	ﲛ	الاعراب	the bedouins	l-aʿrābi
+11	9:98:3	w	مَن	ﲜ	من	(is he) who	man
+11	9:98:4	w	يَتَّخِذُ	ﲝ	يتخذ	takes	yattakhidhu
+11	9:98:5	w	مَا	ﲞ	ما	what	mā
+11	9:98:6	w	يُنفِقُ	ﲟ	ينفق	he spends	yunfiqu
+11	9:98:7	w	مَغۡرَمٗا	ﲠ	مغرما	(as) a loss	maghraman
+11	9:98:8	w	وَيَتَرَبَّصُ	ﲡ	ويتربص	and he awaits	wayatarabbaṣu
+11	9:98:9	w	بِكُمُ	ﲢ	بكم	for you	bikumu
+12	9:98:10	w	ٱلدَّوَآئِرَۚ	ﲣﲤ	الدواير	the turns (of misfortune)	l-dawāira
+12	9:98:11	w	عَلَيۡهِمۡ	ﲥ	عليهم	Upon them	ʿalayhim
+12	9:98:12	w	دَآئِرَةُ	ﲦ	دايرة	(will be) the turn	dāiratu
+12	9:98:13	w	ٱلسَّوۡءِۗ	ﲧﲨ	السوء	(of) the evil	l-sawi
+12	9:98:14	w	وَٱللَّهُ	ﲩ	والله	And Allah	wal-lahu
+12	9:98:15	w	سَمِيعٌ	ﲪ	سميع	(is) All-Hearer	samīʿun
+12	9:98:16	w	عَلِيمٞ	ﲫ	عليم	All-Knower	ʿalīmun
+12	9:98:17	e	٩٨	ﲬ			
+12	9:99:1	w	وَمِنَ	ﲭ	ومن	But among	wamina
+13	9:99:2	w	ٱلۡأَعۡرَابِ	ﲮ	الاعراب	the bedouins	l-aʿrābi
+13	9:99:3	w	مَن	ﲯ	من	(is he) who	man
+13	9:99:4	w	يُؤۡمِنُ	ﲰ	يومن	believes	yu'minu
+13	9:99:5	w	بِٱللَّهِ	ﲱ	بالله	in Allah	bil-lahi
+13	9:99:6	w	وَٱلۡيَوۡمِ	ﲲ	واليوم	and the Day	wal-yawmi
+13	9:99:7	w	ٱلۡأٓخِرِ	ﲳ	الاخر	the Last	l-ākhiri
+13	9:99:8	w	وَيَتَّخِذُ	ﲴ	ويتخذ	and takes	wayattakhidhu
+13	9:99:9	w	مَا	ﲵ	ما	what	mā
+13	9:99:10	w	يُنفِقُ	ﲶ	ينفق	he spends	yunfiqu
+14	9:99:11	w	قُرُبَٰتٍ	ﲷ	قربات	(as) means of nearness	qurubātin
+14	9:99:12	w	عِندَ	ﲸ	عند	with	ʿinda
+14	9:99:13	w	ٱللَّهِ	ﲹ	الله	Allah	l-lahi
+14	9:99:14	w	وَصَلَوَٰتِ	ﲺ	وصلوات	and blessings	waṣalawāti
+14	9:99:15	w	ٱلرَّسُولِۚ	ﲻﲼ	الرسول	(of) the Messenger	l-rasūli
+14	9:99:16	w	أَلَآ	ﲽ	الا	Behold	alā
+14	9:99:17	w	إِنَّهَا	ﲾ	انها	Indeed, it	innahā
+14	9:99:18	w	قُرۡبَةٞ	ﲿ	قربة	(is) a means of nearness	qur'batun
+14	9:99:19	w	لَّهُمۡۚ	ﳀﳁ	لهم	for them	lahum
+15	9:99:20	w	سَيُدۡخِلُهُمُ	ﳂ	سيدخلهم	Allah will admit them	sayud'khiluhumu
+15	9:99:21	w	ٱللَّهُ	ﳃ	الله	Allah will admit them	l-lahu
+15	9:99:22	w	فِي	ﳄ	في	to	fī
+15	9:99:23	w	رَحۡمَتِهِۦٓۚ	ﳅﳆ	رحمته	His Mercy	raḥmatihi
+15	9:99:24	w	إِنَّ	ﳇ	ان	Indeed	inna
+15	9:99:25	w	ٱللَّهَ	ﳈ	الله	Allah	l-laha
+15	9:99:26	w	غَفُورٞ	ﳉ	غفور	(is) Oft-Forgiving	ghafūrun
+15	9:99:27	w	رَّحِيمٞ	ﳊ	رحيم	Most Merciful	raḥīmun
+15	9:99:28	e	٩٩	ﳋ			

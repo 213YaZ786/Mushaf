@@ -1,0 +1,161 @@
+1	2:191:1	w	وَٱقۡتُلُوهُمۡ	ﱁ	واقتلوهم	And kill them	wa-uq'tulūhum
+1	2:191:2	w	حَيۡثُ	ﱂ	حيث	wherever	ḥaythu
+1	2:191:3	w	ثَقِفۡتُمُوهُمۡ	ﱃ	ثقفتموهم	you find them	thaqif'tumūhum
+1	2:191:4	w	وَأَخۡرِجُوهُم	ﱄ	واخرجوهم	and drive them out	wa-akhrijūhum
+1	2:191:5	w	مِّنۡ	ﱅ	من	from	min
+1	2:191:6	w	حَيۡثُ	ﱆ	حيث	wherever	ḥaythu
+1	2:191:7	w	أَخۡرَجُوكُمۡۚ	ﱇﱈ	اخرجوكم	they drove you out	akhrajūkum
+1	2:191:8	w	وَٱلۡفِتۡنَةُ	ﱉ	والفتنة	and [the] oppression	wal-fit'natu
+2	2:191:9	w	أَشَدُّ	ﱊ	اشد	(is) worse	ashaddu
+2	2:191:10	w	مِنَ	ﱋ	من	than	mina
+2	2:191:11	w	ٱلۡقَتۡلِۚ	ﱌﱍ	القتل	[the] killing	l-qatli
+2	2:191:12	w	وَلَا	ﱎ	ولا	And (do) not	walā
+2	2:191:13	w	تُقَٰتِلُوهُمۡ	ﱏ	تقاتلوهم	fight them	tuqātilūhum
+2	2:191:14	w	عِندَ	ﱐ	عند	near	ʿinda
+2	2:191:15	w	ٱلۡمَسۡجِدِ	ﱑ	المسجد	Al-Masjid	l-masjidi
+2	2:191:16	w	ٱلۡحَرَامِ	ﱒ	الحرام	Al-Haraam	l-ḥarāmi
+2	2:191:17	w	حَتَّىٰ	ﱓ	حتى	until	ḥattā
+2	2:191:18	w	يُقَٰتِلُوكُمۡ	ﱔ	يقاتلوكم	they fight you	yuqātilūkum
+3	2:191:19	w	فِيهِۖ	ﱕﱖ	فيه	in it	fīhi
+3	2:191:20	w	فَإِن	ﱗ	فان	Then if	fa-in
+3	2:191:21	w	قَٰتَلُوكُمۡ	ﱘ	قاتلوكم	they fight you	qātalūkum
+3	2:191:22	w	فَٱقۡتُلُوهُمۡۗ	ﱙﱚ	فاقتلوهم	then kill them	fa-uq'tulūhum
+3	2:191:23	w	كَذَٰلِكَ	ﱛ	كذالك	Such	kadhālika
+3	2:191:24	w	جَزَآءُ	ﱜ	جزاء	(is the) reward	jazāu
+3	2:191:25	w	ٱلۡكَٰفِرِينَ	ﱝ	الكافرين	(of) the disbelievers	l-kāfirīna
+3	2:191:26	e	١٩١	ﱞ			
+3	2:192:1	w	فَإِنِ	ﱟ	فان	Then if	fa-ini
+3	2:192:2	w	ٱنتَهَوۡاْ	ﱠ	انتهوا	they cease	intahaw
+4	2:192:3	w	فَإِنَّ	ﱡ	فان	then indeed	fa-inna
+4	2:192:4	w	ٱللَّهَ	ﱢ	الله	Allah	l-laha
+4	2:192:5	w	غَفُورٞ	ﱣ	غفور	(is) Oft-Forgiving	ghafūrun
+4	2:192:6	w	رَّحِيمٞ	ﱤ	رحيم	Most Merciful	raḥīmun
+4	2:192:7	e	١٩٢	ﱥ			
+4	2:193:1	w	وَقَٰتِلُوهُمۡ	ﱦ	وقاتلوهم	And fight (against) them	waqātilūhum
+4	2:193:2	w	حَتَّىٰ	ﱧ	حتى	until	ḥattā
+4	2:193:3	w	لَا	ﱨ	لا	not	lā
+4	2:193:4	w	تَكُونَ	ﱩ	تكون	(there) is	takūna
+4	2:193:5	w	فِتۡنَةٞ	ﱪ	فتنة	oppression	fit'natun
+4	2:193:6	w	وَيَكُونَ	ﱫ	ويكون	and becomes	wayakūna
+5	2:193:7	w	ٱلدِّينُ	ﱬ	الدين	the religion	l-dīnu
+5	2:193:8	w	لِلَّهِۖ	ﱭﱮ	لله	for Allah	lillahi
+5	2:193:9	w	فَإِنِ	ﱯ	فان	Then if	fa-ini
+5	2:193:10	w	ٱنتَهَوۡاْ	ﱰ	انتهوا	they cease	intahaw
+5	2:193:11	w	فَلَا	ﱱ	فلا	then (let there be) no	falā
+5	2:193:12	w	عُدۡوَٰنَ	ﱲ	عدوان	hostility	ʿud'wāna
+5	2:193:13	w	إِلَّا	ﱳ	الا	except	illā
+5	2:193:14	w	عَلَى	ﱴ	على	against	ʿalā
+5	2:193:15	w	ٱلظَّٰلِمِينَ	ﱵ	الظالمين	the oppressors	l-ẓālimīna
+5	2:193:16	e	١٩٣	ﱶ			
+5	2:194:1	w	ٱلشَّهۡرُ	ﱷ	الشهر	The month	al-shahru
+5	2:194:2	w	ٱلۡحَرَامُ	ﱸ	الحرام	[the] sacred	l-ḥarāmu
+6	2:194:3	w	بِٱلشَّهۡرِ	ﱹ	بالشهر	(is) for the month	bil-shahri
+6	2:194:4	w	ٱلۡحَرَامِ	ﱺ	الحرام	[the] sacred	l-ḥarāmi
+6	2:194:5	w	وَٱلۡحُرُمَٰتُ	ﱻ	والحرمات	and for all the violations	wal-ḥurumātu
+6	2:194:6	w	قِصَاصٞۚ	ﱼﱽ	قصاص	(is) legal retribution	qiṣāṣun
+6	2:194:7	w	فَمَنِ	ﱾ	فمن	Then whoever	famani
+6	2:194:8	w	ٱعۡتَدَىٰ	ﱿ	اعتدى	transgressed	iʿ'tadā
+6	2:194:9	w	عَلَيۡكُمۡ	ﲀ	عليكم	upon you	ʿalaykum
+6	2:194:10	w	فَٱعۡتَدُواْ	ﲁ	فاعتدوا	then you transgress	fa-iʿ'tadū
+7	2:194:11	w	عَلَيۡهِ	ﲂ	عليه	on him	ʿalayhi
+7	2:194:12	w	بِمِثۡلِ	ﲃ	بمثل	in (the) same manner	bimith'li
+7	2:194:13	w	مَا	ﲄ	ما	(as)	mā
+7	2:194:14	w	ٱعۡتَدَىٰ	ﲅ	اعتدى	he transgressed	iʿ'tadā
+7	2:194:15	w	عَلَيۡكُمۡۚ	ﲆﲇ	عليكم	upon you	ʿalaykum
+7	2:194:16	w	وَٱتَّقُواْ	ﲈ	واتقوا	And fear	wa-ittaqū
+7	2:194:17	w	ٱللَّهَ	ﲉ	الله	Allah	l-laha
+7	2:194:18	w	وَٱعۡلَمُوٓاْ	ﲊ	واعلموا	and know	wa-iʿ'lamū
+7	2:194:19	w	أَنَّ	ﲋ	ان	that	anna
+7	2:194:20	w	ٱللَّهَ	ﲌ	الله	Allah	l-laha
+7	2:194:21	w	مَعَ	ﲍ	مع	(is) with	maʿa
+8	2:194:22	w	ٱلۡمُتَّقِينَ	ﲎ	المتقين	those who fear (Him)	l-mutaqīna
+8	2:194:23	e	١٩٤	ﲏ			
+8	2:195:1	w	وَأَنفِقُواْ	ﲐ	وانفقوا	And spend	wa-anfiqū
+8	2:195:2	w	فِي	ﲑ	في	in	fī
+8	2:195:3	w	سَبِيلِ	ﲒ	سبيل	(the) way	sabīli
+8	2:195:4	w	ٱللَّهِ	ﲓ	الله	(of) Allah	l-lahi
+8	2:195:5	w	وَلَا	ﲔ	ولا	and (do) not	walā
+8	2:195:6	w	تُلۡقُواْ	ﲕ	تلقوا	throw (yourselves)	tul'qū
+8	2:195:7	w	بِأَيۡدِيكُمۡ	ﲖ	بايديكم	[with your hands]	bi-aydīkum
+8	2:195:8	w	إِلَى	ﲗ	الى	into	ilā
+8	2:195:9	w	ٱلتَّهۡلُكَةِ	ﲘ	التهلكة	[the] destruction	l-tahlukati
+9	2:195:10	w	وَأَحۡسِنُوٓاْۚ	ﲙﲚ	واحسنوا	And do good	wa-aḥsinū
+9	2:195:11	w	إِنَّ	ﲛ	ان	indeed	inna
+9	2:195:12	w	ٱللَّهَ	ﲜ	الله	Allah	l-laha
+9	2:195:13	w	يُحِبُّ	ﲝ	يحب	loves	yuḥibbu
+9	2:195:14	w	ٱلۡمُحۡسِنِينَ	ﲞ	المحسنين	the good-doers	l-muḥ'sinīna
+9	2:195:15	e	١٩٥	ﲟ			
+9	2:196:1	w	وَأَتِمُّواْ	ﲠ	واتموا	And complete	wa-atimmū
+9	2:196:2	w	ٱلۡحَجَّ	ﲡ	الحج	the Hajj	l-ḥaja
+9	2:196:3	w	وَٱلۡعُمۡرَةَ	ﲢ	والعمرة	and the Umrah	wal-ʿum'rata
+9	2:196:4	w	لِلَّهِۚ	ﲣﲤ	لله	for Allah	lillahi
+10	2:196:5	w	فَإِنۡ	ﲥ	فان	And if	fa-in
+10	2:196:6	w	أُحۡصِرۡتُمۡ	ﲦ	احصرتم	you are held back	uḥ'ṣir'tum
+10	2:196:7	w	فَمَا	ﲧ	فما	then (offer) whatever	famā
+10	2:196:8	w	ٱسۡتَيۡسَرَ	ﲨ	استيسر	(can be) obtained with ease	is'taysara
+10	2:196:9	w	مِنَ	ﲩ	من	of	mina
+10	2:196:10	w	ٱلۡهَدۡيِۖ	ﲪﲫ	الهدي	the sacrificial animal	l-hadyi
+10	2:196:11	w	وَلَا	ﲬ	ولا	And (do) not	walā
+10	2:196:12	w	تَحۡلِقُواْ	ﲭ	تحلقوا	shave	taḥliqū
+10	2:196:13	w	رُءُوسَكُمۡ	ﲮ	رءوسكم	your heads	ruūsakum
+10	2:196:14	w	حَتَّىٰ	ﲯ	حتى	until	ḥattā
+10	2:196:15	w	يَبۡلُغَ	ﲰ	يبلغ	reaches	yablugha
+11	2:196:16	w	ٱلۡهَدۡيُ	ﲱ	الهدي	the sacrificial animal	l-hadyu
+11	2:196:17	w	مَحِلَّهُۥۚ	ﲲﲳ	محله	(to) its destination	maḥillahu
+11	2:196:18	w	فَمَن	ﲴ	فمن	Then whoever	faman
+11	2:196:19	w	كَانَ	ﲵ	كان	is	kāna
+11	2:196:20	w	مِنكُم	ﲶ	منكم	among you	minkum
+11	2:196:21	w	مَّرِيضًا	ﲷ	مريضا	ill	marīḍan
+11	2:196:22	w	أَوۡ	ﲸ	او	or	aw
+11	2:196:23	w	بِهِۦٓ	ﲹ	به	he (has)	bihi
+11	2:196:24	w	أَذٗى	ﲺ	اذى	an ailment	adhan
+11	2:196:25	w	مِّن	ﲻ	من	of	min
+11	2:196:26	w	رَّأۡسِهِۦ	ﲼ	راسه	his head	rasihi
+11	2:196:27	w	فَفِدۡيَةٞ	ﲽ	ففدية	then a ransom	fafid'yatun
+12	2:196:28	w	مِّن	ﲾ	من	of	min
+12	2:196:29	w	صِيَامٍ	ﲿ	صيام	fasting	ṣiyāmin
+12	2:196:30	w	أَوۡ	ﳀ	او	or	aw
+12	2:196:31	w	صَدَقَةٍ	ﳁ	صدقة	charity	ṣadaqatin
+12	2:196:32	w	أَوۡ	ﳂ	او	or	aw
+12	2:196:33	w	نُسُكٖۚ	ﳃﳄ	نسك	sacrifice	nusukin
+12	2:196:34	w	فَإِذَآ	ﳅ	فاذا	Then when	fa-idhā
+12	2:196:35	w	أَمِنتُمۡ	ﳆ	امنتم	you are secure	amintum
+12	2:196:36	w	فَمَن	ﳇ	فمن	then whoever	faman
+12	2:196:37	w	تَمَتَّعَ	ﳈ	تمتع	took advantage	tamattaʿa
+12	2:196:38	w	بِٱلۡعُمۡرَةِ	ﳉ	بالعمرة	of the Umrah	bil-ʿum'rati
+12	2:196:39	w	إِلَى	ﳊ	الى	followed	ilā
+12	2:196:40	w	ٱلۡحَجِّ	ﳋ	الحج	(by) the Hajj	l-ḥaji
+13	2:196:41	w	فَمَا	ﳌ	فما	then (offer) whatever	famā
+13	2:196:42	w	ٱسۡتَيۡسَرَ	ﳍ	استيسر	(can be) obtained with ease	is'taysara
+13	2:196:43	w	مِنَ	ﳎ	من	of	mina
+13	2:196:44	w	ٱلۡهَدۡيِۚ	ﳏﳐ	الهدي	the sacrificial animal	l-hadyi
+13	2:196:45	w	فَمَن	ﳑ	فمن	But whoever	faman
+13	2:196:46	w	لَّمۡ	ﳒ	لم	(can) not	lam
+13	2:196:47	w	يَجِدۡ	ﳓ	يجد	find	yajid
+13	2:196:48	w	فَصِيَامُ	ﳔ	فصيام	then a fast	faṣiyāmu
+13	2:196:49	w	ثَلَٰثَةِ	ﳕ	ثلاثة	(of) three	thalāthati
+13	2:196:50	w	أَيَّامٖ	ﳖ	ايام	days	ayyāmin
+13	2:196:51	w	فِي	ﳗ	في	during	fī
+13	2:196:52	w	ٱلۡحَجِّ	ﳘ	الحج	the Hajj	l-ḥaji
+14	2:196:53	w	وَسَبۡعَةٍ	ﳙ	وسبعة	and seven (days)	wasabʿatin
+14	2:196:54	w	إِذَا	ﳚ	اذا	when	idhā
+14	2:196:55	w	رَجَعۡتُمۡۗ	ﳛﳜ	رجعتم	you return	rajaʿtum
+14	2:196:56	w	تِلۡكَ	ﳝ	تلك	This	til'ka
+14	2:196:57	w	عَشَرَةٞ	ﳞ	عشرة	(is) ten (days)	ʿasharatun
+14	2:196:58	w	كَامِلَةٞۗ	ﳟﳠ	كاملة	in all	kāmilatun
+14	2:196:59	w	ذَٰلِكَ	ﳡ	ذالك	That	dhālika
+14	2:196:60	w	لِمَن	ﳢ	لمن	(is) for (the one) whose	liman
+14	2:196:61	w	لَّمۡ	ﳣ	لم	not	lam
+14	2:196:62	w	يَكُنۡ	ﳤ	يكن	is	yakun
+14	2:196:63	w	أَهۡلُهُۥ	ﳥ	اهله	his family	ahluhu
+14	2:196:64	w	حَاضِرِي	ﳦ	حاضري	present	ḥāḍirī
+15	2:196:65	w	ٱلۡمَسۡجِدِ	ﳧ	المسجد	(near) Al-Masjid	l-masjidi
+15	2:196:66	w	ٱلۡحَرَامِۚ	ﳨﳩ	الحرام	Al-Haraam	l-ḥarāmi
+15	2:196:67	w	وَٱتَّقُواْ	ﳪ	واتقوا	And fear	wa-ittaqū
+15	2:196:68	w	ٱللَّهَ	ﳫ	الله	Allah	l-laha
+15	2:196:69	w	وَٱعۡلَمُوٓاْ	ﳬ	واعلموا	and know	wa-iʿ'lamū
+15	2:196:70	w	أَنَّ	ﳭ	ان	that	anna
+15	2:196:71	w	ٱللَّهَ	ﳮ	الله	Allah	l-laha
+15	2:196:72	w	شَدِيدُ	ﳯ	شديد	(is) severe	shadīdu
+15	2:196:73	w	ٱلۡعِقَابِ	ﳰ	العقاب	(in) retribution	l-ʿiqābi
+15	2:196:74	e	١٩٦	ﳱ			

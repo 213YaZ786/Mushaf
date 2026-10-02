@@ -1,0 +1,144 @@
+1	34:32:1	w	قَالَ	ﱁ	قال	Will say	qāla
+1	34:32:2	w	ٱلَّذِينَ	ﱂ	الذين	those who	alladhīna
+1	34:32:3	w	ٱسۡتَكۡبَرُواْ	ﱃ	استكبروا	were arrogant	is'takbarū
+1	34:32:4	w	لِلَّذِينَ	ﱄ	للذين	to those	lilladhīna
+1	34:32:5	w	ٱسۡتُضۡعِفُوٓاْ	ﱅ	استضعفوا	who were oppressed	us'tuḍ'ʿifū
+1	34:32:6	w	أَنَحۡنُ	ﱆ	انحن	Did we	anaḥnu
+1	34:32:7	w	صَدَدۡنَٰكُمۡ	ﱇ	صددناكم	avert you	ṣadadnākum
+2	34:32:8	w	عَنِ	ﱈ	عن	from	ʿani
+2	34:32:9	w	ٱلۡهُدَىٰ	ﱉ	الهدى	the guidance	l-hudā
+2	34:32:10	w	بَعۡدَ	ﱊ	بعد	after	baʿda
+2	34:32:11	w	إِذۡ	ﱋ	اذ	when	idh
+2	34:32:12	w	جَآءَكُمۖ	ﱌﱍ	جاءكم	it had come to you	jāakum
+2	34:32:13	w	بَلۡ	ﱎ	بل	Nay	bal
+2	34:32:14	w	كُنتُم	ﱏ	كنتم	you were	kuntum
+2	34:32:15	w	مُّجۡرِمِينَ	ﱐ	مجرمين	criminals	muj'rimīna
+2	34:32:16	e	٣٢	ﱑ			
+2	34:33:1	w	وَقَالَ	ﱒ	وقال	And will say	waqāla
+2	34:33:2	w	ٱلَّذِينَ	ﱓ	الذين	those who	alladhīna
+3	34:33:3	w	ٱسۡتُضۡعِفُواْ	ﱔ	استضعفوا	were oppressed	us'tuḍ'ʿifū
+3	34:33:4	w	لِلَّذِينَ	ﱕ	للذين	to those who	lilladhīna
+3	34:33:5	w	ٱسۡتَكۡبَرُواْ	ﱖ	استكبروا	were arrogant	is'takbarū
+3	34:33:6	w	بَلۡ	ﱗ	بل	Nay	bal
+3	34:33:7	w	مَكۡرُ	ﱘ	مكر	(it was) a plot	makru
+3	34:33:8	w	ٱلَّيۡلِ	ﱙ	الليل	(by) night	al-layli
+3	34:33:9	w	وَٱلنَّهَارِ	ﱚ	والنهار	and (by) day	wal-nahāri
+3	34:33:10	w	إِذۡ	ﱛ	اذ	when	idh
+4	34:33:11	w	تَأۡمُرُونَنَآ	ﱜ	تامروننا	you were ordering us	tamurūnanā
+4	34:33:12	w	أَن	ﱝ	ان	that	an
+4	34:33:13	w	نَّكۡفُرَ	ﱞ	نكفر	we disbelieve	nakfura
+4	34:33:14	w	بِٱللَّهِ	ﱟ	بالله	in Allah	bil-lahi
+4	34:33:15	w	وَنَجۡعَلَ	ﱠ	ونجعل	and we set up	wanajʿala
+4	34:33:16	w	لَهُۥٓ	ﱡ	له	for Him	lahu
+4	34:33:17	w	أَندَادٗاۚ	ﱢﱣ	اندادا	equals	andādan
+4	34:33:18	w	وَأَسَرُّواْ	ﱤ	واسروا	But they will conceal	wa-asarrū
+4	34:33:19	w	ٱلنَّدَامَةَ	ﱥ	الندامة	the regret	l-nadāmata
+5	34:33:20	w	لَمَّا	ﱦ	لما	when	lammā
+5	34:33:21	w	رَأَوُاْ	ﱧ	راوا	they see	ra-awū
+5	34:33:22	w	ٱلۡعَذَابَۚ	ﱨﱩ	العذاب	the punishment	l-ʿadhāba
+5	34:33:23	w	وَجَعَلۡنَا	ﱪ	وجعلنا	And We will put	wajaʿalnā
+5	34:33:24	w	ٱلۡأَغۡلَٰلَ	ﱫ	الاغلال	shackles	l-aghlāla
+5	34:33:25	w	فِيٓ	ﱬ	في	on	fī
+5	34:33:26	w	أَعۡنَاقِ	ﱭ	اعناق	(the) necks	aʿnāqi
+5	34:33:27	w	ٱلَّذِينَ	ﱮ	الذين	(of) those who	alladhīna
+5	34:33:28	w	كَفَرُواْۖ	ﱯﱰ	كفروا	disbelieved	kafarū
+6	34:33:29	w	هَلۡ	ﱱ	هل	Will	hal
+6	34:33:30	w	يُجۡزَوۡنَ	ﱲ	يجزون	they be recompensed	yuj'zawna
+6	34:33:31	w	إِلَّا	ﱳ	الا	except	illā
+6	34:33:32	w	مَا	ﱴ	ما	(for) what	mā
+6	34:33:33	w	كَانُواْ	ﱵ	كانوا	they used to	kānū
+6	34:33:34	w	يَعۡمَلُونَ	ﱶ	يعملون	do	yaʿmalūna
+6	34:33:35	e	٣٣	ﱷ			
+6	34:34:1	w	وَمَآ	ﱸ	وما	And not	wamā
+6	34:34:2	w	أَرۡسَلۡنَا	ﱹ	ارسلنا	We sent	arsalnā
+6	34:34:3	w	فِي	ﱺ	في	to	fī
+6	34:34:4	w	قَرۡيَةٖ	ﱻ	قرية	a town	qaryatin
+7	34:34:5	w	مِّن	ﱼ	من	any	min
+7	34:34:6	w	نَّذِيرٍ	ﱽ	نذير	warner	nadhīrin
+7	34:34:7	w	إِلَّا	ﱾ	الا	but	illā
+7	34:34:8	w	قَالَ	ﱿ	قال	said	qāla
+7	34:34:9	w	مُتۡرَفُوهَآ	ﲀ	مترفوها	its wealthy ones	mut'rafūhā
+7	34:34:10	w	إِنَّا	ﲁ	انا	Indeed we	innā
+7	34:34:11	w	بِمَآ	ﲂ	بما	in what	bimā
+7	34:34:12	w	أُرۡسِلۡتُم	ﲃ	ارسلتم	you have been sent	ur'sil'tum
+7	34:34:13	w	بِهِۦ	ﲄ	به	with	bihi
+7	34:34:14	w	كَٰفِرُونَ	ﲅ	كافرون	(are) disbelievers	kāfirūna
+7	34:34:15	e	٣٤	ﲆ			
+8	34:35:1	w	وَقَالُواْ	ﲇ	وقالوا	And they say	waqālū
+8	34:35:2	w	نَحۡنُ	ﲈ	نحن	We	naḥnu
+8	34:35:3	w	أَكۡثَرُ	ﲉ	اكثر	(have) more	aktharu
+8	34:35:4	w	أَمۡوَٰلٗا	ﲊ	اموالا	wealth	amwālan
+8	34:35:5	w	وَأَوۡلَٰدٗا	ﲋ	واولادا	and children	wa-awlādan
+8	34:35:6	w	وَمَا	ﲌ	وما	and not	wamā
+8	34:35:7	w	نَحۡنُ	ﲍ	نحن	we	naḥnu
+8	34:35:8	w	بِمُعَذَّبِينَ	ﲎ	بمعذبين	will be punished	bimuʿadhabīna
+8	34:35:9	e	٣٥	ﲏ			
+9	34:36:1	w	قُلۡ	ﲐ	قل	Say	qul
+9	34:36:2	w	إِنَّ	ﲑ	ان	Indeed	inna
+9	34:36:3	w	رَبِّي	ﲒ	ربي	my Lord	rabbī
+9	34:36:4	w	يَبۡسُطُ	ﲓ	يبسط	extends	yabsuṭu
+9	34:36:5	w	ٱلرِّزۡقَ	ﲔ	الرزق	the provision	l-riz'qa
+9	34:36:6	w	لِمَن	ﲕ	لمن	for whom	liman
+9	34:36:7	w	يَشَآءُ	ﲖ	يشاء	He wills	yashāu
+9	34:36:8	w	وَيَقۡدِرُ	ﲗ	ويقدر	and restricts	wayaqdiru
+9	34:36:9	w	وَلَٰكِنَّ	ﲘ	ولاكن	but	walākinna
+9	34:36:10	w	أَكۡثَرَ	ﲙ	اكثر	most	akthara
+10	34:36:11	w	ٱلنَّاسِ	ﲚ	الناس	[the] people	l-nāsi
+10	34:36:12	w	لَا	ﲛ	لا	(do) not	lā
+10	34:36:13	w	يَعۡلَمُونَ	ﲜ	يعلمون	know	yaʿlamūna
+10	34:36:14	e	٣٦	ﲝ			
+10	34:37:1	w	وَمَآ	ﲞ	وما	And not	wamā
+10	34:37:2	w	أَمۡوَٰلُكُمۡ	ﲟ	اموالكم	your wealth	amwālukum
+10	34:37:3	w	وَلَآ	ﲠ	ولا	and not	walā
+10	34:37:4	w	أَوۡلَٰدُكُم	ﲡ	اولادكم	your children	awlādukum
+10	34:37:5	w	بِٱلَّتِي	ﲢ	بالتي	[that]	bi-allatī
+10	34:37:6	w	تُقَرِّبُكُمۡ	ﲣ	تقربكم	will bring you close	tuqarribukum
+11	34:37:7	w	عِندَنَا	ﲤ	عندنا	to Us	ʿindanā
+11	34:37:8	w	زُلۡفَىٰٓ	ﲥ	زلفى	(in) position	zul'fā
+11	34:37:9	w	إِلَّا	ﲦ	الا	but	illā
+11	34:37:10	w	مَنۡ	ﲧ	من	whoever	man
+11	34:37:11	w	ءَامَنَ	ﲨ	امن	believes	āmana
+11	34:37:12	w	وَعَمِلَ	ﲩ	وعمل	and does	waʿamila
+11	34:37:13	w	صَٰلِحٗا	ﲪ	صالحا	righteousness	ṣāliḥan
+11	34:37:14	w	فَأُوْلَٰٓئِكَ	ﲫ	فاولايك	then those	fa-ulāika
+11	34:37:15	w	لَهُمۡ	ﲬ	لهم	for them	lahum
+11	34:37:16	w	جَزَآءُ	ﲭ	جزاء	(will be) reward	jazāu
+12	34:37:17	w	ٱلضِّعۡفِ	ﲮ	الضعف	two-fold	l-ḍiʿ'fi
+12	34:37:18	w	بِمَا	ﲯ	بما	for what	bimā
+12	34:37:19	w	عَمِلُواْ	ﲰ	عملوا	they did	ʿamilū
+12	34:37:20	w	وَهُمۡ	ﲱ	وهم	and they	wahum
+12	34:37:21	w	فِي	ﲲ	في	(will be) in	fī
+12	34:37:22	w	ٱلۡغُرُفَٰتِ	ﲳ	الغرفات	the high dwellings	l-ghurufāti
+12	34:37:23	w	ءَامِنُونَ	ﲴ	امنون	secure	āminūna
+12	34:37:24	e	٣٧	ﲵ			
+12	34:38:1	w	وَٱلَّذِينَ	ﲶ	والذين	And those who	wa-alladhīna
+13	34:38:2	w	يَسۡعَوۡنَ	ﲷ	يسعون	strive	yasʿawna
+13	34:38:3	w	فِيٓ	ﲸ	في	against	fī
+13	34:38:4	w	ءَايَٰتِنَا	ﲹ	اياتنا	Our Verses	āyātinā
+13	34:38:5	w	مُعَٰجِزِينَ	ﲺ	معاجزين	(to) cause failure	muʿājizīna
+13	34:38:6	w	أُوْلَٰٓئِكَ	ﲻ	اولايك	those	ulāika
+13	34:38:7	w	فِي	ﲼ	في	into	fī
+13	34:38:8	w	ٱلۡعَذَابِ	ﲽ	العذاب	the punishment	l-ʿadhābi
+13	34:38:9	w	مُحۡضَرُونَ	ﲾ	محضرون	(will be) brought	muḥ'ḍarūna
+13	34:38:10	e	٣٨	ﲿ			
+14	34:39:1	w	قُلۡ	ﳀ	قل	Say	qul
+14	34:39:2	w	إِنَّ	ﳁ	ان	Indeed	inna
+14	34:39:3	w	رَبِّي	ﳂ	ربي	my Lord	rabbī
+14	34:39:4	w	يَبۡسُطُ	ﳃ	يبسط	extends	yabsuṭu
+14	34:39:5	w	ٱلرِّزۡقَ	ﳄ	الرزق	the provision	l-riz'qa
+14	34:39:6	w	لِمَن	ﳅ	لمن	for whom	liman
+14	34:39:7	w	يَشَآءُ	ﳆ	يشاء	He wills	yashāu
+14	34:39:8	w	مِنۡ	ﳇ	من	of	min
+14	34:39:9	w	عِبَادِهِۦ	ﳈ	عباده	His slaves	ʿibādihi
+14	34:39:10	w	وَيَقۡدِرُ	ﳉ	ويقدر	and restricts	wayaqdiru
+14	34:39:11	w	لَهُۥۚ	ﳊﳋ	له	for him	lahu
+15	34:39:12	w	وَمَآ	ﳌ	وما	But what	wamā
+15	34:39:13	w	أَنفَقۡتُم	ﳍ	انفقتم	you spend	anfaqtum
+15	34:39:14	w	مِّن	ﳎ	من	of	min
+15	34:39:15	w	شَيۡءٖ	ﳏ	شيء	anything	shayin
+15	34:39:16	w	فَهُوَ	ﳐ	فهو	then He	fahuwa
+15	34:39:17	w	يُخۡلِفُهُۥۖ	ﳑﳒ	يخلفه	will compensate it	yukh'lifuhu
+15	34:39:18	w	وَهُوَ	ﳓ	وهو	and He	wahuwa
+15	34:39:19	w	خَيۡرُ	ﳔ	خير	(is the) Best	khayru
+15	34:39:20	w	ٱلرَّٰزِقِينَ	ﳕ	الرازقين	(of) the Providers	l-rāziqīna
+15	34:39:21	e	٣٩	ﳖ			

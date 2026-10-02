@@ -1,0 +1,82 @@
+3	109:1:1	w	قُلۡ	ﱁ	قل	Say	qul
+3	109:1:2	w	يَٰٓأَيُّهَا	ﱂ	يا ايها	O	yāayyuhā
+3	109:1:3	w	ٱلۡكَٰفِرُونَ	ﱃ	الكافرون	disbelievers	l-kāfirūna
+3	109:1:4	e	١	ﱄ			
+3	109:2:1	w	لَآ	ﱅ	لا	Not	lā
+3	109:2:2	w	أَعۡبُدُ	ﱆ	اعبد	I worship	aʿbudu
+3	109:2:3	w	مَا	ﱇ	ما	what	mā
+3	109:2:4	w	تَعۡبُدُونَ	ﱈ	تعبدون	you worship	taʿbudūna
+3	109:2:5	e	٢	ﱉ			
+4	109:3:1	w	وَلَآ	ﱊ	ولا	And not	walā
+4	109:3:2	w	أَنتُمۡ	ﱋ	انتم	you	antum
+4	109:3:3	w	عَٰبِدُونَ	ﱌ	عابدون	(are) worshippers	ʿābidūna
+4	109:3:4	w	مَآ	ﱍ	ما	(of) what	mā
+4	109:3:5	w	أَعۡبُدُ	ﱎ	اعبد	I worship	aʿbudu
+4	109:3:6	e	٣	ﱏ			
+4	109:4:1	w	وَلَآ	ﱐ	ولا	And not	walā
+4	109:4:2	w	أَنَا۠	ﱑ	انا	I am	anā
+4	109:4:3	w	عَابِدٞ	ﱒ	عابد	a worshipper	ʿābidun
+4	109:4:4	w	مَّا	ﱓ	ما	(of) what	mā
+4	109:4:5	w	عَبَدتُّمۡ	ﱔ	عبدتم	you worship	ʿabadttum
+4	109:4:6	e	٤	ﱕ			
+5	109:5:1	w	وَلَآ	ﱖ	ولا	And not	walā
+5	109:5:2	w	أَنتُمۡ	ﱗ	انتم	you	antum
+5	109:5:3	w	عَٰبِدُونَ	ﱘ	عابدون	(are) worshippers	ʿābidūna
+5	109:5:4	w	مَآ	ﱙ	ما	(of) what	mā
+5	109:5:5	w	أَعۡبُدُ	ﱚ	اعبد	I worship	aʿbudu
+5	109:5:6	e	٥	ﱛ			
+5	109:6:1	w	لَكُمۡ	ﱜ	لكم	For you	lakum
+5	109:6:2	w	دِينُكُمۡ	ﱝ	دينكم	(is) your religion	dīnukum
+5	109:6:3	w	وَلِيَ	ﱞ	ولي	and for me	waliya
+5	109:6:4	w	دِينِ	ﱟ	دين	(is) my religion	dīni
+5	109:6:5	e	٦	ﱠ			
+8	110:1:1	w	إِذَا	ﱡ	اذا	When	idhā
+8	110:1:2	w	جَآءَ	ﱢ	جاء	comes	jāa
+8	110:1:3	w	نَصۡرُ	ﱣ	نصر	(the) Help	naṣru
+8	110:1:4	w	ٱللَّهِ	ﱤ	الله	(of) Allah	l-lahi
+8	110:1:5	w	وَٱلۡفَتۡحُ	ﱥ	والفتح	and the Victory	wal-fatḥu
+8	110:1:6	e	١	ﱦ			
+8	110:2:1	w	وَرَأَيۡتَ	ﱧ	ورايت	And you see	wara-ayta
+8	110:2:2	w	ٱلنَّاسَ	ﱨ	الناس	the people	l-nāsa
+9	110:2:3	w	يَدۡخُلُونَ	ﱩ	يدخلون	entering	yadkhulūna
+9	110:2:4	w	فِي	ﱪ	في	into	fī
+9	110:2:5	w	دِينِ	ﱫ	دين	(the) religion	dīni
+9	110:2:6	w	ٱللَّهِ	ﱬ	الله	(of) Allah	l-lahi
+9	110:2:7	w	أَفۡوَاجٗا	ﱭ	افواجا	(in) multitudes	afwājan
+9	110:2:8	e	٢	ﱮ			
+9	110:3:1	w	فَسَبِّحۡ	ﱯ	فسبح	Then glorify	fasabbiḥ
+9	110:3:2	w	بِحَمۡدِ	ﱰ	بحمد	with (the) praises	biḥamdi
+9	110:3:3	w	رَبِّكَ	ﱱ	ربك	(of) your Lord	rabbika
+10	110:3:4	w	وَٱسۡتَغۡفِرۡهُۚ	ﱲﱳ	واستغفره	and ask His forgiveness	wa-is'taghfir'hu
+10	110:3:5	w	إِنَّهُۥ	ﱴ	انه	Indeed, He	innahu
+10	110:3:6	w	كَانَ	ﱵ	كان	is	kāna
+10	110:3:7	w	تَوَّابَۢا	ﱶ	توابا	Oft-Returning	tawwāban
+10	110:3:8	e	٣	ﱷ			
+13	111:1:1	w	تَبَّتۡ	ﱸ	تبت	Perish	tabbat
+13	111:1:2	w	يَدَآ	ﱹ	يدا	(the) hands	yadā
+13	111:1:3	w	أَبِي	ﱺ	ابي	(of) Abu	abī
+13	111:1:4	w	لَهَبٖ	ﱻ	لهب	Lahab	lahabin
+13	111:1:5	w	وَتَبَّ	ﱼ	وتب	and perish he	watabba
+13	111:1:6	e	١	ﱽ			
+13	111:2:1	w	مَآ	ﱾ	ما	Not	mā
+13	111:2:2	w	أَغۡنَىٰ	ﱿ	اغنى	(will) avail	aghnā
+13	111:2:3	w	عَنۡهُ	ﲀ	عنه	him	ʿanhu
+13	111:2:4	w	مَالُهُۥ	ﲁ	ماله	his wealth	māluhu
+13	111:2:5	w	وَمَا	ﲂ	وما	and what	wamā
+13	111:2:6	w	كَسَبَ	ﲃ	كسب	he earned	kasaba
+13	111:2:7	e	٢	ﲄ			
+14	111:3:1	w	سَيَصۡلَىٰ	ﲅ	سيصلى	He will be burnt	sayaṣlā
+14	111:3:2	w	نَارٗا	ﲆ	نارا	(in) a Fire	nāran
+14	111:3:3	w	ذَاتَ	ﲇ	ذات	of	dhāta
+14	111:3:4	w	لَهَبٖ	ﲈ	لهب	Blazing Flames	lahabin
+14	111:3:5	e	٣	ﲉ			
+14	111:4:1	w	وَٱمۡرَأَتُهُۥ	ﲊ	وامراته	And his wife	wa-im'ra-atuhu
+14	111:4:2	w	حَمَّالَةَ	ﲋ	حمالة	(the) carrier	ḥammālata
+14	111:4:3	w	ٱلۡحَطَبِ	ﲌ	الحطب	(of) firewood	l-ḥaṭabi
+14	111:4:4	e	٤	ﲍ			
+15	111:5:1	w	فِي	ﲎ	في	In	fī
+15	111:5:2	w	جِيدِهَا	ﲏ	جيدها	her neck	jīdihā
+15	111:5:3	w	حَبۡلٞ	ﲐ	حبل	(will be) a rope	ḥablun
+15	111:5:4	w	مِّن	ﲑ	من	of	min
+15	111:5:5	w	مَّسَدِۭ	ﲒ	مسد	palm-fiber	masadin
+15	111:5:6	e	٥	ﲓ			

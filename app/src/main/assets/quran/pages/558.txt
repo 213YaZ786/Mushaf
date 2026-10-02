@@ -1,0 +1,139 @@
+2	65:1:1	w	يَٰٓأَيُّهَا	ﱁ	يا ايها	O	yāayyuhā
+2	65:1:2	w	ٱلنَّبِيُّ	ﱂ	النبي	Prophet	l-nabiyu
+2	65:1:3	w	إِذَا	ﱃ	اذا	When	idhā
+2	65:1:4	w	طَلَّقۡتُمُ	ﱄ	طلقتم	you divorce	ṭallaqtumu
+2	65:1:5	w	ٱلنِّسَآءَ	ﱅ	النساء	[the] women	l-nisāa
+2	65:1:6	w	فَطَلِّقُوهُنَّ	ﱆ	فطلقوهن	then divorce them	faṭalliqūhunna
+2	65:1:7	w	لِعِدَّتِهِنَّ	ﱇ	لعدتهن	for their waiting period	liʿiddatihinna
+2	65:1:8	w	وَأَحۡصُواْ	ﱈ	واحصوا	and keep count	wa-aḥṣū
+2	65:1:9	w	ٱلۡعِدَّةَۖ	ﱉﱊ	العدة	(of) the waiting period	l-ʿidata
+3	65:1:10	w	وَٱتَّقُواْ	ﱋ	واتقوا	and fear	wa-ittaqū
+3	65:1:11	w	ٱللَّهَ	ﱌ	الله	Allah	l-laha
+3	65:1:12	w	رَبَّكُمۡۖ	ﱍﱎ	ربكم	your Lord	rabbakum
+3	65:1:13	w	لَا	ﱏ	لا	(Do) not	lā
+3	65:1:14	w	تُخۡرِجُوهُنَّ	ﱐ	تخرجوهن	expel them	tukh'rijūhunna
+3	65:1:15	w	مِنۢ	ﱑ	من	from	min
+3	65:1:16	w	بُيُوتِهِنَّ	ﱒ	بيوتهن	their houses	buyūtihinna
+3	65:1:17	w	وَلَا	ﱓ	ولا	and not	walā
+3	65:1:18	w	يَخۡرُجۡنَ	ﱔ	يخرجن	they should leave	yakhruj'na
+3	65:1:19	w	إِلَّآ	ﱕ	الا	except	illā
+3	65:1:20	w	أَن	ﱖ	ان	that	an
+4	65:1:21	w	يَأۡتِينَ	ﱗ	ياتين	they commit	yatīna
+4	65:1:22	w	بِفَٰحِشَةٖ	ﱘ	بفاحشة	an immorality	bifāḥishatin
+4	65:1:23	w	مُّبَيِّنَةٖۚ	ﱙﱚ	مبينة	clear	mubayyinatin
+4	65:1:24	w	وَتِلۡكَ	ﱛ	وتلك	And these	watil'ka
+4	65:1:25	w	حُدُودُ	ﱜ	حدود	(are the) limits	ḥudūdu
+4	65:1:26	w	ٱللَّهِۚ	ﱝﱞ	الله	(of) Allah	l-lahi
+4	65:1:27	w	وَمَن	ﱟ	ومن	And whoever	waman
+4	65:1:28	w	يَتَعَدَّ	ﱠ	يتعد	transgresses	yataʿadda
+4	65:1:29	w	حُدُودَ	ﱡ	حدود	(the) limits	ḥudūda
+4	65:1:30	w	ٱللَّهِ	ﱢ	الله	(of) Allah	l-lahi
+5	65:1:31	w	فَقَدۡ	ﱣ	فقد	then certainly	faqad
+5	65:1:32	w	ظَلَمَ	ﱤ	ظلم	he has wronged	ẓalama
+5	65:1:33	w	نَفۡسَهُۥۚ	ﱥﱦ	نفسه	himself	nafsahu
+5	65:1:34	w	لَا	ﱧ	لا	Not	lā
+5	65:1:35	w	تَدۡرِي	ﱨ	تدري	you know	tadrī
+5	65:1:36	w	لَعَلَّ	ﱩ	لعل	Perhaps	laʿalla
+5	65:1:37	w	ٱللَّهَ	ﱪ	الله	Allah	l-laha
+5	65:1:38	w	يُحۡدِثُ	ﱫ	يحدث	will bring about	yuḥ'dithu
+5	65:1:39	w	بَعۡدَ	ﱬ	بعد	after	baʿda
+5	65:1:40	w	ذَٰلِكَ	ﱭ	ذالك	that	dhālika
+5	65:1:41	w	أَمۡرٗا	ﱮ	امرا	a matter	amran
+5	65:1:42	e	١	ﱯ			
+6	65:2:1	w	فَإِذَا	ﱰ	فاذا	Then when	fa-idhā
+6	65:2:2	w	بَلَغۡنَ	ﱱ	بلغن	they have reached	balaghna
+6	65:2:3	w	أَجَلَهُنَّ	ﱲ	اجلهن	their term	ajalahunna
+6	65:2:4	w	فَأَمۡسِكُوهُنَّ	ﱳ	فامسكوهن	then retain them	fa-amsikūhunna
+6	65:2:5	w	بِمَعۡرُوفٍ	ﱴ	بمعروف	with kindness	bimaʿrūfin
+6	65:2:6	w	أَوۡ	ﱵ	او	or	aw
+6	65:2:7	w	فَارِقُوهُنَّ	ﱶ	فارقوهن	part with them	fāriqūhunna
+6	65:2:8	w	بِمَعۡرُوفٖ	ﱷ	بمعروف	with kindness	bimaʿrūfin
+7	65:2:9	w	وَأَشۡهِدُواْ	ﱸ	واشهدوا	And take witness	wa-ashhidū
+7	65:2:10	w	ذَوَيۡ	ﱹ	ذوي	two men	dhaway
+7	65:2:11	w	عَدۡلٖ	ﱺ	عدل	just	ʿadlin
+7	65:2:12	w	مِّنكُمۡ	ﱻ	منكم	among you	minkum
+7	65:2:13	w	وَأَقِيمُواْ	ﱼ	واقيموا	and establish	wa-aqīmū
+7	65:2:14	w	ٱلشَّهَٰدَةَ	ﱽ	الشهادة	the testimony	l-shahādata
+7	65:2:15	w	لِلَّهِۚ	ﱾﱿ	لله	for Allah	lillahi
+7	65:2:16	w	ذَٰلِكُمۡ	ﲀ	ذالكم	That	dhālikum
+7	65:2:17	w	يُوعَظُ	ﲁ	يوعظ	is instructed	yūʿaẓu
+8	65:2:18	w	بِهِۦ	ﲂ	به	with it	bihi
+8	65:2:19	w	مَن	ﲃ	من	whoever	man
+8	65:2:20	w	كَانَ	ﲄ	كان	[is]	kāna
+8	65:2:21	w	يُؤۡمِنُ	ﲅ	يومن	believes	yu'minu
+8	65:2:22	w	بِٱللَّهِ	ﲆ	بالله	in Allah	bil-lahi
+8	65:2:23	w	وَٱلۡيَوۡمِ	ﲇ	واليوم	and the Day	wal-yawmi
+8	65:2:24	w	ٱلۡأٓخِرِۚ	ﲈﲉ	الاخر	the Last	l-ākhiri
+8	65:2:25	w	وَمَن	ﲊ	ومن	And whoever	waman
+8	65:2:26	w	يَتَّقِ	ﲋ	يتق	fears	yattaqi
+8	65:2:27	w	ٱللَّهَ	ﲌ	الله	Allah	l-laha
+8	65:2:28	w	يَجۡعَل	ﲍ	يجعل	He will make	yajʿal
+8	65:2:29	w	لَّهُۥ	ﲎ	له	for him	lahu
+9	65:2:30	w	مَخۡرَجٗا	ﲏ	مخرجا	a way out	makhrajan
+9	65:2:31	e	٢	ﲐ			
+9	65:3:1	w	وَيَرۡزُقۡهُ	ﲑ	ويرزقه	And He will provide for him	wayarzuq'hu
+9	65:3:2	w	مِنۡ	ﲒ	من	from	min
+9	65:3:3	w	حَيۡثُ	ﲓ	حيث	where	ḥaythu
+9	65:3:4	w	لَا	ﲔ	لا	not	lā
+9	65:3:5	w	يَحۡتَسِبُۚ	ﲕﲖ	يحتسب	he thinks	yaḥtasibu
+9	65:3:6	w	وَمَن	ﲗ	ومن	And whoever	waman
+9	65:3:7	w	يَتَوَكَّلۡ	ﲘ	يتوكل	puts his trust	yatawakkal
+9	65:3:8	w	عَلَى	ﲙ	على	upon	ʿalā
+9	65:3:9	w	ٱللَّهِ	ﲚ	الله	Allah	l-lahi
+10	65:3:10	w	فَهُوَ	ﲛ	فهو	then He	fahuwa
+10	65:3:11	w	حَسۡبُهُۥٓۚ	ﲜﲝ	حسبه	(is) sufficient for him	ḥasbuhu
+10	65:3:12	w	إِنَّ	ﲞ	ان	Indeed	inna
+10	65:3:13	w	ٱللَّهَ	ﲟ	الله	Allah	l-laha
+10	65:3:14	w	بَٰلِغُ	ﲠ	بالغ	(will) accomplish	bālighu
+10	65:3:15	w	أَمۡرِهِۦۚ	ﲡﲢ	امره	His purpose	amrihi
+10	65:3:16	w	قَدۡ	ﲣ	قد	Indeed	qad
+10	65:3:17	w	جَعَلَ	ﲤ	جعل	has set	jaʿala
+10	65:3:18	w	ٱللَّهُ	ﲥ	الله	Allah	l-lahu
+10	65:3:19	w	لِكُلِّ	ﲦ	لكل	for every	likulli
+10	65:3:20	w	شَيۡءٖ	ﲧ	شيء	thing	shayin
+11	65:3:21	w	قَدۡرٗا	ﲨ	قدرا	a measure	qadran
+11	65:3:22	e	٣	ﲩ			
+11	65:4:1	w	وَٱلَّٰٓـِٔي	ﲪ	واللايي	And those who	wa-allāī
+11	65:4:2	w	يَئِسۡنَ	ﲫ	ييسن	have despaired	ya-is'na
+11	65:4:3	w	مِنَ	ﲬ	من	of	mina
+11	65:4:4	w	ٱلۡمَحِيضِ	ﲭ	المحيض	the menstruation	l-maḥīḍi
+11	65:4:5	w	مِن	ﲮ	من	among	min
+11	65:4:6	w	نِّسَآئِكُمۡ	ﲯ	نسايكم	your women	nisāikum
+11	65:4:7	w	إِنِ	ﲰ	ان	if	ini
+12	65:4:8	w	ٱرۡتَبۡتُمۡ	ﲱ	ارتبتم	you doubt	ir'tabtum
+12	65:4:9	w	فَعِدَّتُهُنَّ	ﲲ	فعدتهن	then their waiting period	faʿiddatuhunna
+12	65:4:10	w	ثَلَٰثَةُ	ﲳ	ثلاثة	(is) three	thalāthatu
+12	65:4:11	w	أَشۡهُرٖ	ﲴ	اشهر	months	ashhurin
+12	65:4:12	w	وَٱلَّٰٓـِٔي	ﲵ	واللايي	and the ones who	wa-allāī
+12	65:4:13	w	لَمۡ	ﲶ	لم	not	lam
+12	65:4:14	w	يَحِضۡنَۚ	ﲷﲸ	يحضن	[they] menstruated	yaḥiḍ'na
+12	65:4:15	w	وَأُوْلَٰتُ	ﲹ	واولات	And those who (are)	wa-ulātu
+13	65:4:16	w	ٱلۡأَحۡمَالِ	ﲺ	الاحمال	pregnant	l-aḥmāli
+13	65:4:17	w	أَجَلُهُنَّ	ﲻ	اجلهن	their term	ajaluhunna
+13	65:4:18	w	أَن	ﲼ	ان	until	an
+13	65:4:19	w	يَضَعۡنَ	ﲽ	يضعن	they deliver	yaḍaʿna
+13	65:4:20	w	حَمۡلَهُنَّۚ	ﲾﲿ	حملهن	their burdens	ḥamlahunna
+13	65:4:21	w	وَمَن	ﳀ	ومن	And whoever	waman
+13	65:4:22	w	يَتَّقِ	ﳁ	يتق	fears	yattaqi
+13	65:4:23	w	ٱللَّهَ	ﳂ	الله	Allah	l-laha
+14	65:4:24	w	يَجۡعَل	ﳃ	يجعل	He will make	yajʿal
+14	65:4:25	w	لَّهُۥ	ﳄ	له	for him	lahu
+14	65:4:26	w	مِنۡ	ﳅ	من	of	min
+14	65:4:27	w	أَمۡرِهِۦ	ﳆ	امره	his affair	amrihi
+14	65:4:28	w	يُسۡرٗا	ﳇ	يسرا	ease	yus'ran
+14	65:4:29	e	٤	ﳈ			
+14	65:5:1	w	ذَٰلِكَ	ﳉ	ذالك	That	dhālika
+14	65:5:2	w	أَمۡرُ	ﳊ	امر	(is the) Command	amru
+14	65:5:3	w	ٱللَّهِ	ﳋ	الله	(of) Allah	l-lahi
+14	65:5:4	w	أَنزَلَهُۥٓ	ﳌ	انزله	which He has sent down	anzalahu
+14	65:5:5	w	إِلَيۡكُمۡۚ	ﳍﳎ	اليكم	to you	ilaykum
+15	65:5:6	w	وَمَن	ﳏ	ومن	and whoever	waman
+15	65:5:7	w	يَتَّقِ	ﳐ	يتق	fears	yattaqi
+15	65:5:8	w	ٱللَّهَ	ﳑ	الله	Allah	l-laha
+15	65:5:9	w	يُكَفِّرۡ	ﳒ	يكفر	He will remove	yukaffir
+15	65:5:10	w	عَنۡهُ	ﳓ	عنه	from him	ʿanhu
+15	65:5:11	w	سَيِّـَٔاتِهِۦ	ﳔ	سيياته	his evil deeds	sayyiātihi
+15	65:5:12	w	وَيُعۡظِمۡ	ﳕ	ويعظم	and make great	wayuʿ'ẓim
+15	65:5:13	w	لَهُۥٓ	ﳖ	له	for him	lahu
+15	65:5:14	w	أَجۡرًا	ﳗ	اجرا	(his) reward	ajran
+15	65:5:15	e	٥	ﳘ			

@@ -1,0 +1,122 @@
+1	3:133:1	w	۞ وَسَارِعُوٓاْ	ﱁ ﱂ	۞ وسارعوا	And hasten	wasāriʿū
+1	3:133:2	w	إِلَىٰ	ﱃ	الى	to	ilā
+1	3:133:3	w	مَغۡفِرَةٖ	ﱄ	مغفرة	forgiveness	maghfiratin
+1	3:133:4	w	مِّن	ﱅ	من	from	min
+1	3:133:5	w	رَّبِّكُمۡ	ﱆ	ربكم	your Lord	rabbikum
+1	3:133:6	w	وَجَنَّةٍ	ﱇ	وجنة	and a Garden	wajannatin
+1	3:133:7	w	عَرۡضُهَا	ﱈ	عرضها	its width	ʿarḍuhā
+2	3:133:8	w	ٱلسَّمَٰوَٰتُ	ﱉ	السماوات	(is like that of) the heavens	l-samāwātu
+2	3:133:9	w	وَٱلۡأَرۡضُ	ﱊ	والارض	and the earth	wal-arḍu
+2	3:133:10	w	أُعِدَّتۡ	ﱋ	اعدت	prepared	uʿiddat
+2	3:133:11	w	لِلۡمُتَّقِينَ	ﱌ	للمتقين	for the pious	lil'muttaqīna
+2	3:133:12	e	١٣٣	ﱍ			
+2	3:134:1	w	ٱلَّذِينَ	ﱎ	الذين	Those who	alladhīna
+2	3:134:2	w	يُنفِقُونَ	ﱏ	ينفقون	spend	yunfiqūna
+3	3:134:3	w	فِي	ﱐ	في	in	fī
+3	3:134:4	w	ٱلسَّرَّآءِ	ﱑ	السراء	[the] ease	l-sarāi
+3	3:134:5	w	وَٱلضَّرَّآءِ	ﱒ	والضراء	and (in) the hardship	wal-ḍarāi
+3	3:134:6	w	وَٱلۡكَٰظِمِينَ	ﱓ	والكاظمين	and those who restrain	wal-kāẓimīna
+3	3:134:7	w	ٱلۡغَيۡظَ	ﱔ	الغيظ	the anger	l-ghayẓa
+3	3:134:8	w	وَٱلۡعَافِينَ	ﱕ	والعافين	and those who pardon	wal-ʿāfīna
+4	3:134:9	w	عَنِ	ﱖ	عن	[from]	ʿani
+4	3:134:10	w	ٱلنَّاسِۗ	ﱗﱘ	الناس	the people	l-nāsi
+4	3:134:11	w	وَٱللَّهُ	ﱙ	والله	and Allah	wal-lahu
+4	3:134:12	w	يُحِبُّ	ﱚ	يحب	loves	yuḥibbu
+4	3:134:13	w	ٱلۡمُحۡسِنِينَ	ﱛ	المحسنين	the good-doers	l-muḥ'sinīna
+4	3:134:14	e	١٣٤	ﱜ			
+4	3:135:1	w	وَٱلَّذِينَ	ﱝ	والذين	And those	wa-alladhīna
+4	3:135:2	w	إِذَا	ﱞ	اذا	when	idhā
+4	3:135:3	w	فَعَلُواْ	ﱟ	فعلوا	they did	faʿalū
+5	3:135:4	w	فَٰحِشَةً	ﱠ	فاحشة	immorality	fāḥishatan
+5	3:135:5	w	أَوۡ	ﱡ	او	or	aw
+5	3:135:6	w	ظَلَمُوٓاْ	ﱢ	ظلموا	wronged	ẓalamū
+5	3:135:7	w	أَنفُسَهُمۡ	ﱣ	انفسهم	themselves	anfusahum
+5	3:135:8	w	ذَكَرُواْ	ﱤ	ذكروا	they remember	dhakarū
+5	3:135:9	w	ٱللَّهَ	ﱥ	الله	Allah	l-laha
+5	3:135:10	w	فَٱسۡتَغۡفَرُواْ	ﱦ	فاستغفروا	then ask forgiveness	fa-is'taghfarū
+6	3:135:11	w	لِذُنُوبِهِمۡ	ﱧ	لذنوبهم	for their sins	lidhunūbihim
+6	3:135:12	w	وَمَن	ﱨ	ومن	and who	waman
+6	3:135:13	w	يَغۡفِرُ	ﱩ	يغفر	(can) forgive	yaghfiru
+6	3:135:14	w	ٱلذُّنُوبَ	ﱪ	الذنوب	the sins	l-dhunūba
+6	3:135:15	w	إِلَّا	ﱫ	الا	except	illā
+6	3:135:16	w	ٱللَّهُ	ﱬ	الله	Allah	l-lahu
+6	3:135:17	w	وَلَمۡ	ﱭ	ولم	And not	walam
+6	3:135:18	w	يُصِرُّواْ	ﱮ	يصروا	they persist	yuṣirrū
+6	3:135:19	w	عَلَىٰ	ﱯ	على	on	ʿalā
+6	3:135:20	w	مَا	ﱰ	ما	what	mā
+7	3:135:21	w	فَعَلُواْ	ﱱ	فعلوا	they did	faʿalū
+7	3:135:22	w	وَهُمۡ	ﱲ	وهم	while they	wahum
+7	3:135:23	w	يَعۡلَمُونَ	ﱳ	يعلمون	know	yaʿlamūna
+7	3:135:24	e	١٣٥	ﱴ			
+7	3:136:1	w	أُوْلَٰٓئِكَ	ﱵ	اولايك	Those	ulāika
+7	3:136:2	w	جَزَآؤُهُم	ﱶ	جزاوهم	their reward	jazāuhum
+7	3:136:3	w	مَّغۡفِرَةٞ	ﱷ	مغفرة	(is) forgiveness	maghfiratun
+7	3:136:4	w	مِّن	ﱸ	من	from	min
+8	3:136:5	w	رَّبِّهِمۡ	ﱹ	ربهم	their Lord	rabbihim
+8	3:136:6	w	وَجَنَّٰتٞ	ﱺ	وجنات	and Gardens	wajannātun
+8	3:136:7	w	تَجۡرِي	ﱻ	تجري	flows	tajrī
+8	3:136:8	w	مِن	ﱼ	من	from	min
+8	3:136:9	w	تَحۡتِهَا	ﱽ	تحتها	underneath it	taḥtihā
+8	3:136:10	w	ٱلۡأَنۡهَٰرُ	ﱾ	الانهار	the rivers	l-anhāru
+8	3:136:11	w	خَٰلِدِينَ	ﱿ	خالدين	abiding forever	khālidīna
+8	3:136:12	w	فِيهَاۚ	ﲀﲁ	فيها	in it	fīhā
+8	3:136:13	w	وَنِعۡمَ	ﲂ	ونعم	And an excellent	waniʿ'ma
+9	3:136:14	w	أَجۡرُ	ﲃ	اجر	reward	ajru
+9	3:136:15	w	ٱلۡعَٰمِلِينَ	ﲄ	العاملين	(for) the (righteous) workers	l-ʿāmilīna
+9	3:136:16	e	١٣٦	ﲅ			
+9	3:137:1	w	قَدۡ	ﲆ	قد	Verily	qad
+9	3:137:2	w	خَلَتۡ	ﲇ	خلت	passed	khalat
+9	3:137:3	w	مِن	ﲈ	من	from	min
+9	3:137:4	w	قَبۡلِكُمۡ	ﲉ	قبلكم	before you	qablikum
+9	3:137:5	w	سُنَنٞ	ﲊ	سنن	situations	sunanun
+9	3:137:6	w	فَسِيرُواْ	ﲋ	فسيروا	then travel	fasīrū
+10	3:137:7	w	فِي	ﲌ	في	in	fī
+10	3:137:8	w	ٱلۡأَرۡضِ	ﲍ	الارض	the earth	l-arḍi
+10	3:137:9	w	فَٱنظُرُواْ	ﲎ	فانظروا	and see	fa-unẓurū
+10	3:137:10	w	كَيۡفَ	ﲏ	كيف	how	kayfa
+10	3:137:11	w	كَانَ	ﲐ	كان	was	kāna
+10	3:137:12	w	عَٰقِبَةُ	ﲑ	عاقبة	(the) end	ʿāqibatu
+10	3:137:13	w	ٱلۡمُكَذِّبِينَ	ﲒ	المكذبين	(of) the deniers	l-mukadhibīna
+11	3:137:14	e	١٣٧	ﲓ			
+11	3:138:1	w	هَٰذَا	ﲔ	هاذا	This	hādhā
+11	3:138:2	w	بَيَانٞ	ﲕ	بيان	(is) a declaration	bayānun
+11	3:138:3	w	لِّلنَّاسِ	ﲖ	للناس	for the people	lilnnāsi
+11	3:138:4	w	وَهُدٗى	ﲗ	وهدى	and guidance	wahudan
+11	3:138:5	w	وَمَوۡعِظَةٞ	ﲘ	وموعظة	and admonition	wamawʿiẓatun
+11	3:138:6	w	لِّلۡمُتَّقِينَ	ﲙ	للمتقين	for the God-fearing	lil'muttaqīna
+11	3:138:7	e	١٣٨	ﲚ			
+12	3:139:1	w	وَلَا	ﲛ	ولا	And (do) not	walā
+12	3:139:2	w	تَهِنُواْ	ﲜ	تهنوا	weaken	tahinū
+12	3:139:3	w	وَلَا	ﲝ	ولا	and (do) not	walā
+12	3:139:4	w	تَحۡزَنُواْ	ﲞ	تحزنوا	grieve	taḥzanū
+12	3:139:5	w	وَأَنتُمُ	ﲟ	وانتم	and you (will be)	wa-antumu
+12	3:139:6	w	ٱلۡأَعۡلَوۡنَ	ﲠ	الاعلون	[the] superior	l-aʿlawna
+12	3:139:7	w	إِن	ﲡ	ان	if	in
+12	3:139:8	w	كُنتُم	ﲢ	كنتم	you are	kuntum
+12	3:139:9	w	مُّؤۡمِنِينَ	ﲣ	مومنين	believers	mu'minīna
+13	3:139:10	e	١٣٩	ﲤ			
+13	3:140:1	w	إِن	ﲥ	ان	If	in
+13	3:140:2	w	يَمۡسَسۡكُمۡ	ﲦ	يمسسكم	touched you	yamsaskum
+13	3:140:3	w	قَرۡحٞ	ﲧ	قرح	a wound	qarḥun
+13	3:140:4	w	فَقَدۡ	ﲨ	فقد	so certainly	faqad
+13	3:140:5	w	مَسَّ	ﲩ	مس	(has) touched	massa
+13	3:140:6	w	ٱلۡقَوۡمَ	ﲪ	القوم	the people	l-qawma
+13	3:140:7	w	قَرۡحٞ	ﲫ	قرح	wound	qarḥun
+13	3:140:8	w	مِّثۡلُهُۥۚ	ﲬﲭ	مثله	like it	mith'luhu
+13	3:140:9	w	وَتِلۡكَ	ﲮ	وتلك	And this	watil'ka
+14	3:140:10	w	ٱلۡأَيَّامُ	ﲯ	الايام	[the] days	l-ayāmu
+14	3:140:11	w	نُدَاوِلُهَا	ﲰ	نداولها	We alternate them	nudāwiluhā
+14	3:140:12	w	بَيۡنَ	ﲱ	بين	among	bayna
+14	3:140:13	w	ٱلنَّاسِ	ﲲ	الناس	the people	l-nāsi
+14	3:140:14	w	وَلِيَعۡلَمَ	ﲳ	وليعلم	[and] so that makes evident	waliyaʿlama
+14	3:140:15	w	ٱللَّهُ	ﲴ	الله	Allah	l-lahu
+14	3:140:16	w	ٱلَّذِينَ	ﲵ	الذين	those who	alladhīna
+14	3:140:17	w	ءَامَنُواْ	ﲶ	امنوا	believe[d]	āmanū
+15	3:140:18	w	وَيَتَّخِذَ	ﲷ	ويتخذ	and take	wayattakhidha
+15	3:140:19	w	مِنكُمۡ	ﲸ	منكم	from you	minkum
+15	3:140:20	w	شُهَدَآءَۗ	ﲹﲺ	شهداء	martyrs	shuhadāa
+15	3:140:21	w	وَٱللَّهُ	ﲻ	والله	And Allah	wal-lahu
+15	3:140:22	w	لَا	ﲼ	لا	(does) not	lā
+15	3:140:23	w	يُحِبُّ	ﲽ	يحب	love	yuḥibbu
+15	3:140:24	w	ٱلظَّٰلِمِينَ	ﲾ	الظالمين	the wrongdoers	l-ẓālimīna
+15	3:140:25	e	١٤٠	ﲿ			

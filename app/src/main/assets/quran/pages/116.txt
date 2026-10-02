@@ -1,0 +1,141 @@
+1	5:46:1	w	وَقَفَّيۡنَا	ﱁ	وقفينا	And We sent	waqaffaynā
+1	5:46:2	w	عَلَىٰٓ	ﱂ	على	on	ʿalā
+1	5:46:3	w	ءَاثَٰرِهِم	ﱃ	اثارهم	their footsteps	āthārihim
+1	5:46:4	w	بِعِيسَى	ﱄ	بعيسى	Isa	biʿīsā
+1	5:46:5	w	ٱبۡنِ	ﱅ	ابن	son	ib'ni
+1	5:46:6	w	مَرۡيَمَ	ﱆ	مريم	(of) Maryam	maryama
+1	5:46:7	w	مُصَدِّقٗا	ﱇ	مصدقا	confirming	muṣaddiqan
+1	5:46:8	w	لِّمَا	ﱈ	لما	what	limā
+1	5:46:9	w	بَيۡنَ	ﱉ	بين	(was) between	bayna
+1	5:46:10	w	يَدَيۡهِ	ﱊ	يديه	his hands	yadayhi
+2	5:46:11	w	مِنَ	ﱋ	من	of	mina
+2	5:46:12	w	ٱلتَّوۡرَىٰةِۖ	ﱌﱍ	التوراة	the Taurat	l-tawrāti
+2	5:46:13	w	وَءَاتَيۡنَٰهُ	ﱎ	واتيناه	and We gave him	waātaynāhu
+2	5:46:14	w	ٱلۡإِنجِيلَ	ﱏ	الانجيل	the Injeel	l-injīla
+2	5:46:15	w	فِيهِ	ﱐ	فيه	in it	fīhi
+2	5:46:16	w	هُدٗى	ﱑ	هدى	(was) Guidance	hudan
+2	5:46:17	w	وَنُورٞ	ﱒ	ونور	and light	wanūrun
+2	5:46:18	w	وَمُصَدِّقٗا	ﱓ	ومصدقا	and confirming	wamuṣaddiqan
+3	5:46:19	w	لِّمَا	ﱔ	لما	what	limā
+3	5:46:20	w	بَيۡنَ	ﱕ	بين	(was) between	bayna
+3	5:46:21	w	يَدَيۡهِ	ﱖ	يديه	his hands	yadayhi
+3	5:46:22	w	مِنَ	ﱗ	من	of	mina
+3	5:46:23	w	ٱلتَّوۡرَىٰةِ	ﱘ	التوراة	the Taurat	l-tawrāti
+3	5:46:24	w	وَهُدٗى	ﱙ	وهدى	and a Guidance	wahudan
+3	5:46:25	w	وَمَوۡعِظَةٗ	ﱚ	وموعظة	and an admonition	wamawʿiẓatan
+3	5:46:26	w	لِّلۡمُتَّقِينَ	ﱛ	للمتقين	for the God conscious	lil'muttaqīna
+3	5:46:27	e	٤٦	ﱜ			
+4	5:47:1	w	وَلۡيَحۡكُمۡ	ﱝ	وليحكم	And let judge	walyaḥkum
+4	5:47:2	w	أَهۡلُ	ﱞ	اهل	(the) People	ahlu
+4	5:47:3	w	ٱلۡإِنجِيلِ	ﱟ	الانجيل	(of) the Injeel	l-injīli
+4	5:47:4	w	بِمَآ	ﱠ	بما	by what	bimā
+4	5:47:5	w	أَنزَلَ	ﱡ	انزل	has revealed	anzala
+4	5:47:6	w	ٱللَّهُ	ﱢ	الله	Allah	l-lahu
+4	5:47:7	w	فِيهِۚ	ﱣﱤ	فيه	in it	fīhi
+4	5:47:8	w	وَمَن	ﱥ	ومن	And whoever	waman
+4	5:47:9	w	لَّمۡ	ﱦ	لم	(does) not	lam
+4	5:47:10	w	يَحۡكُم	ﱧ	يحكم	judge	yaḥkum
+5	5:47:11	w	بِمَآ	ﱨ	بما	by what	bimā
+5	5:47:12	w	أَنزَلَ	ﱩ	انزل	has revealed	anzala
+5	5:47:13	w	ٱللَّهُ	ﱪ	الله	Allah	l-lahu
+5	5:47:14	w	فَأُوْلَٰٓئِكَ	ﱫ	فاولايك	then those	fa-ulāika
+5	5:47:15	w	هُمُ	ﱬ	هم	[they] (are)	humu
+5	5:47:16	w	ٱلۡفَٰسِقُونَ	ﱭ	الفاسقون	the defiantly disobedient	l-fāsiqūna
+5	5:47:17	e	٤٧	ﱮ			
+5	5:48:1	w	وَأَنزَلۡنَآ	ﱯ	وانزلنا	And We revealed	wa-anzalnā
+5	5:48:2	w	إِلَيۡكَ	ﱰ	اليك	to you	ilayka
+6	5:48:3	w	ٱلۡكِتَٰبَ	ﱱ	الكتاب	the Book	l-kitāba
+6	5:48:4	w	بِٱلۡحَقِّ	ﱲ	بالحق	in [the] truth	bil-ḥaqi
+6	5:48:5	w	مُصَدِّقٗا	ﱳ	مصدقا	confirming	muṣaddiqan
+6	5:48:6	w	لِّمَا	ﱴ	لما	what	limā
+6	5:48:7	w	بَيۡنَ	ﱵ	بين	(was) before	bayna
+6	5:48:8	w	يَدَيۡهِ	ﱶ	يديه	his hands	yadayhi
+6	5:48:9	w	مِنَ	ﱷ	من	of	mina
+6	5:48:10	w	ٱلۡكِتَٰبِ	ﱸ	الكتاب	the Book	l-kitābi
+7	5:48:11	w	وَمُهَيۡمِنًا	ﱹ	ومهيمنا	and a guardian	wamuhayminan
+7	5:48:12	w	عَلَيۡهِۖ	ﱺﱻ	عليه	over it	ʿalayhi
+7	5:48:13	w	فَٱحۡكُم	ﱼ	فاحكم	So judge	fa-uḥ'kum
+7	5:48:14	w	بَيۡنَهُم	ﱽ	بينهم	between them	baynahum
+7	5:48:15	w	بِمَآ	ﱾ	بما	by what	bimā
+7	5:48:16	w	أَنزَلَ	ﱿ	انزل	has revealed	anzala
+7	5:48:17	w	ٱللَّهُۖ	ﲀﲁ	الله	Allah	l-lahu
+7	5:48:18	w	وَلَا	ﲂ	ولا	and (do) not	walā
+7	5:48:19	w	تَتَّبِعۡ	ﲃ	تتبع	follow	tattabiʿ
+7	5:48:20	w	أَهۡوَآءَهُمۡ	ﲄ	اهواءهم	their vain desires	ahwāahum
+8	5:48:21	w	عَمَّا	ﲅ	عما	when	ʿammā
+8	5:48:22	w	جَآءَكَ	ﲆ	جاءك	has come to you	jāaka
+8	5:48:23	w	مِنَ	ﲇ	من	of	mina
+8	5:48:24	w	ٱلۡحَقِّۚ	ﲈﲉ	الحق	the truth	l-ḥaqi
+8	5:48:25	w	لِكُلّٖ	ﲊ	لكل	For each	likullin
+8	5:48:26	w	جَعَلۡنَا	ﲋ	جعلنا	We have made	jaʿalnā
+8	5:48:27	w	مِنكُمۡ	ﲌ	منكم	for you	minkum
+8	5:48:28	w	شِرۡعَةٗ	ﲍ	شرعة	a law	shir'ʿatan
+8	5:48:29	w	وَمِنۡهَاجٗاۚ	ﲎﲏ	ومنهاجا	and a clear way	wamin'hājan
+9	5:48:30	w	وَلَوۡ	ﲐ	ولو	And if	walaw
+9	5:48:31	w	شَآءَ	ﲑ	شاء	(had) willed	shāa
+9	5:48:32	w	ٱللَّهُ	ﲒ	الله	Allah	l-lahu
+9	5:48:33	w	لَجَعَلَكُمۡ	ﲓ	لجعلكم	He (would have) made you	lajaʿalakum
+9	5:48:34	w	أُمَّةٗ	ﲔ	امة	a community	ummatan
+9	5:48:35	w	وَٰحِدَةٗ	ﲕ	واحدة	one	wāḥidatan
+9	5:48:36	w	وَلَٰكِن	ﲖ	ولاكن	[and] but	walākin
+9	5:48:37	w	لِّيَبۡلُوَكُمۡ	ﲗ	ليبلوكم	to test you	liyabluwakum
+10	5:48:38	w	فِي	ﲘ	في	in	fī
+10	5:48:39	w	مَآ	ﲙ	ما	what	mā
+10	5:48:40	w	ءَاتَىٰكُمۡۖ	ﲚﲛ	اتاكم	He (has) given you	ātākum
+10	5:48:41	w	فَٱسۡتَبِقُواْ	ﲜ	فاستبقوا	so race	fa-is'tabiqū
+10	5:48:42	w	ٱلۡخَيۡرَٰتِۚ	ﲝﲞ	الخيرات	(to) the good	l-khayrāti
+10	5:48:43	w	إِلَى	ﲟ	الى	To	ilā
+10	5:48:44	w	ٱللَّهِ	ﲠ	الله	Allah	l-lahi
+10	5:48:45	w	مَرۡجِعُكُمۡ	ﲡ	مرجعكم	you will return	marjiʿukum
+10	5:48:46	w	جَمِيعٗا	ﲢ	جميعا	all	jamīʿan
+11	5:48:47	w	فَيُنَبِّئُكُم	ﲣ	فينبيكم	then He will inform you	fayunabbi-ukum
+11	5:48:48	w	بِمَا	ﲤ	بما	of what	bimā
+11	5:48:49	w	كُنتُمۡ	ﲥ	كنتم	you were	kuntum
+11	5:48:50	w	فِيهِ	ﲦ	فيه	concerning it	fīhi
+11	5:48:51	w	تَخۡتَلِفُونَ	ﲧ	تختلفون	differing	takhtalifūna
+11	5:48:52	e	٤٨	ﲨ			
+11	5:49:1	w	وَأَنِ	ﲩ	وان	And that	wa-ani
+11	5:49:2	w	ٱحۡكُم	ﲪ	احكم	you judge	uḥ'kum
+11	5:49:3	w	بَيۡنَهُم	ﲫ	بينهم	between them	baynahum
+12	5:49:4	w	بِمَآ	ﲬ	بما	by what	bimā
+12	5:49:5	w	أَنزَلَ	ﲭ	انزل	(has) revealed	anzala
+12	5:49:6	w	ٱللَّهُ	ﲮ	الله	Allah	l-lahu
+12	5:49:7	w	وَلَا	ﲯ	ولا	and (do) not	walā
+12	5:49:8	w	تَتَّبِعۡ	ﲰ	تتبع	follow	tattabiʿ
+12	5:49:9	w	أَهۡوَآءَهُمۡ	ﲱ	اهواءهم	their vain desires	ahwāahum
+12	5:49:10	w	وَٱحۡذَرۡهُمۡ	ﲲ	واحذرهم	and beware of them	wa-iḥ'dharhum
+12	5:49:11	w	أَن	ﲳ	ان	lest	an
+12	5:49:12	w	يَفۡتِنُوكَ	ﲴ	يفتنوك	they tempt you away	yaftinūka
+12	5:49:13	w	عَنۢ	ﲵ	عن	from	ʿan
+13	5:49:14	w	بَعۡضِ	ﲶ	بعض	some	baʿḍi
+13	5:49:15	w	مَآ	ﲷ	ما	(of) what	mā
+13	5:49:16	w	أَنزَلَ	ﲸ	انزل	has revealed	anzala
+13	5:49:17	w	ٱللَّهُ	ﲹ	الله	Allah	l-lahu
+13	5:49:18	w	إِلَيۡكَۖ	ﲺﲻ	اليك	to you	ilayka
+13	5:49:19	w	فَإِن	ﲼ	فان	And if	fa-in
+13	5:49:20	w	تَوَلَّوۡاْ	ﲽ	تولوا	they turn away	tawallaw
+13	5:49:21	w	فَٱعۡلَمۡ	ﲾ	فاعلم	then know that	fa-iʿ'lam
+13	5:49:22	w	أَنَّمَا	ﲿ	انما	only	annamā
+13	5:49:23	w	يُرِيدُ	ﳀ	يريد	intends	yurīdu
+13	5:49:24	w	ٱللَّهُ	ﳁ	الله	Allah	l-lahu
+13	5:49:25	w	أَن	ﳂ	ان	to	an
+13	5:49:26	w	يُصِيبَهُم	ﳃ	يصيبهم	afflict them	yuṣībahum
+14	5:49:27	w	بِبَعۡضِ	ﳄ	ببعض	for some	bibaʿḍi
+14	5:49:28	w	ذُنُوبِهِمۡۗ	ﳅﳆ	ذنوبهم	(of) their sins	dhunūbihim
+14	5:49:29	w	وَإِنَّ	ﳇ	وان	And indeed	wa-inna
+14	5:49:30	w	كَثِيرٗا	ﳈ	كثيرا	many	kathīran
+14	5:49:31	w	مِّنَ	ﳉ	من	of	mina
+14	5:49:32	w	ٱلنَّاسِ	ﳊ	الناس	the people	l-nāsi
+14	5:49:33	w	لَفَٰسِقُونَ	ﳋ	لفاسقون	(are) defiantly disobedient	lafāsiqūna
+14	5:49:34	e	٤٩	ﳌ			
+14	5:50:1	w	أَفَحُكۡمَ	ﳍ	افحكم	Is it then the judgment	afaḥuk'ma
+15	5:50:2	w	ٱلۡجَٰهِلِيَّةِ	ﳎ	الجاهلية	(of the time of) ignorance	l-jāhiliyati
+15	5:50:3	w	يَبۡغُونَۚ	ﳏﳐ	يبغون	they seek	yabghūna
+15	5:50:4	w	وَمَنۡ	ﳑ	ومن	And who (is)	waman
+15	5:50:5	w	أَحۡسَنُ	ﳒ	احسن	better	aḥsanu
+15	5:50:6	w	مِنَ	ﳓ	من	than	mina
+15	5:50:7	w	ٱللَّهِ	ﳔ	الله	Allah	l-lahi
+15	5:50:8	w	حُكۡمٗا	ﳕ	حكما	(in) judgment	ḥuk'man
+15	5:50:9	w	لِّقَوۡمٖ	ﳖ	لقوم	for a people	liqawmin
+15	5:50:10	w	يُوقِنُونَ	ﳗ	يوقنون	(who) firmly believe	yūqinūna
+15	5:50:11	e	٥٠	ﳘ			

@@ -1,0 +1,141 @@
+1	25:56:1	w	وَمَآ	ﱁ	وما	And not	wamā
+1	25:56:2	w	أَرۡسَلۡنَٰكَ	ﱂ	ارسلناك	We sent you	arsalnāka
+1	25:56:3	w	إِلَّا	ﱃ	الا	except	illā
+1	25:56:4	w	مُبَشِّرٗا	ﱄ	مبشرا	(as) a bearer of glad tidings	mubashiran
+1	25:56:5	w	وَنَذِيرٗا	ﱅ	ونذيرا	and a warner	wanadhīran
+1	25:56:6	e	٥٦	ﱆ			
+1	25:57:1	w	قُلۡ	ﱇ	قل	Say	qul
+1	25:57:2	w	مَآ	ﱈ	ما	Not	mā
+1	25:57:3	w	أَسۡـَٔلُكُمۡ	ﱉ	اسالكم	I ask (of) you	asalukum
+1	25:57:4	w	عَلَيۡهِ	ﱊ	عليه	for it	ʿalayhi
+2	25:57:5	w	مِنۡ	ﱋ	من	any	min
+2	25:57:6	w	أَجۡرٍ	ﱌ	اجر	payment	ajrin
+2	25:57:7	w	إِلَّا	ﱍ	الا	except	illā
+2	25:57:8	w	مَن	ﱎ	من	(that) whoever wills	man
+2	25:57:9	w	شَآءَ	ﱏ	شاء	(that) whoever wills	shāa
+2	25:57:10	w	أَن	ﱐ	ان	to	an
+2	25:57:11	w	يَتَّخِذَ	ﱑ	يتخذ	take	yattakhidha
+2	25:57:12	w	إِلَىٰ	ﱒ	الى	to	ilā
+2	25:57:13	w	رَبِّهِۦ	ﱓ	ربه	his Lord	rabbihi
+2	25:57:14	w	سَبِيلٗا	ﱔ	سبيلا	a way	sabīlan
+2	25:57:15	e	٥٧	ﱕ			
+2	25:58:1	w	وَتَوَكَّلۡ	ﱖ	وتوكل	And put your trust	watawakkal
+3	25:58:2	w	عَلَى	ﱗ	على	in	ʿalā
+3	25:58:3	w	ٱلۡحَيِّ	ﱘ	الحي	the Ever-Living	l-ḥayi
+3	25:58:4	w	ٱلَّذِي	ﱙ	الذي	the One Who	alladhī
+3	25:58:5	w	لَا	ﱚ	لا	does not die	lā
+3	25:58:6	w	يَمُوتُ	ﱛ	يموت	does not die	yamūtu
+3	25:58:7	w	وَسَبِّحۡ	ﱜ	وسبح	and glorify	wasabbiḥ
+3	25:58:8	w	بِحَمۡدِهِۦۚ	ﱝﱞ	بحمده	with His Praise	biḥamdihi
+3	25:58:9	w	وَكَفَىٰ	ﱟ	وكفى	And sufficient is	wakafā
+3	25:58:10	w	بِهِۦ	ﱠ	به	He	bihi
+4	25:58:11	w	بِذُنُوبِ	ﱡ	بذنوب	regarding the sins	bidhunūbi
+4	25:58:12	w	عِبَادِهِۦ	ﱢ	عباده	(of) His slaves	ʿibādihi
+4	25:58:13	w	خَبِيرًا	ﱣ	خبيرا	All-Aware	khabīran
+4	25:58:14	e	٥٨	ﱤ			
+4	25:59:1	w	ٱلَّذِي	ﱥ	الذي	The One Who	alladhī
+4	25:59:2	w	خَلَقَ	ﱦ	خلق	created	khalaqa
+4	25:59:3	w	ٱلسَّمَٰوَٰتِ	ﱧ	السماوات	the heavens	l-samāwāti
+4	25:59:4	w	وَٱلۡأَرۡضَ	ﱨ	والارض	and the earth	wal-arḍa
+5	25:59:5	w	وَمَا	ﱩ	وما	and whatever	wamā
+5	25:59:6	w	بَيۡنَهُمَا	ﱪ	بينهما	(is) between them	baynahumā
+5	25:59:7	w	فِي	ﱫ	في	in	fī
+5	25:59:8	w	سِتَّةِ	ﱬ	ستة	six	sittati
+5	25:59:9	w	أَيَّامٖ	ﱭ	ايام	periods	ayyāmin
+5	25:59:10	w	ثُمَّ	ﱮ	ثم	then	thumma
+5	25:59:11	w	ٱسۡتَوَىٰ	ﱯ	استوى	He established Himself	is'tawā
+5	25:59:12	w	عَلَى	ﱰ	على	over	ʿalā
+5	25:59:13	w	ٱلۡعَرۡشِۖ	ﱱﱲ	العرش	the Throne	l-ʿarshi
+5	25:59:14	w	ٱلرَّحۡمَٰنُ	ﱳ	الرحمان	the Most Gracious	l-raḥmānu
+6	25:59:15	w	فَسۡـَٔلۡ	ﱴ	فاسال	so ask	fasal
+6	25:59:16	w	بِهِۦ	ﱵ	به	Him	bihi
+6	25:59:17	w	خَبِيرٗا	ﱶ	خبيرا	(as He is) All-Aware	khabīran
+6	25:59:18	e	٥٩	ﱷ			
+6	25:60:1	w	وَإِذَا	ﱸ	واذا	And when	wa-idhā
+6	25:60:2	w	قِيلَ	ﱹ	قيل	it is said	qīla
+6	25:60:3	w	لَهُمُ	ﱺ	لهم	to them	lahumu
+6	25:60:4	w	ٱسۡجُدُواْۤ	ﱻﱼ	اسجدوا	Prostrate	us'judū
+6	25:60:5	w	لِلرَّحۡمَٰنِ	ﱽ	للرحمان	to the Most Gracious	lilrraḥmāni
+6	25:60:6	w	قَالُواْ	ﱾ	قالوا	They say	qālū
+7	25:60:7	w	وَمَا	ﱿ	وما	And what	wamā
+7	25:60:8	w	ٱلرَّحۡمَٰنُ	ﲀ	الرحمان	(is) the Most Gracious	l-raḥmānu
+7	25:60:9	w	أَنَسۡجُدُ	ﲁ	انسجد	Should we prostrate	anasjudu
+7	25:60:10	w	لِمَا	ﲂ	لما	to what	limā
+7	25:60:11	w	تَأۡمُرُنَا	ﲃ	تامرنا	you order us	tamurunā
+7	25:60:12	w	وَزَادَهُمۡ	ﲄ	وزادهم	And it increases them	wazādahum
+7	25:60:13	w	نُفُورٗا ۩	ﲅﲆ	نفورا ۩	(in) aversion	nufūran
+7	25:60:14	e	٦٠	ﲇ			
+7	25:61:1	w	تَبَارَكَ	ﲈ	تبارك	Blessed is He	tabāraka
+8	25:61:2	w	ٱلَّذِي	ﲉ	الذي	Who	alladhī
+8	25:61:3	w	جَعَلَ	ﲊ	جعل	has placed	jaʿala
+8	25:61:4	w	فِي	ﲋ	في	in	fī
+8	25:61:5	w	ٱلسَّمَآءِ	ﲌ	السماء	the skies	l-samāi
+8	25:61:6	w	بُرُوجٗا	ﲍ	بروجا	constellations	burūjan
+8	25:61:7	w	وَجَعَلَ	ﲎ	وجعل	and has placed	wajaʿala
+8	25:61:8	w	فِيهَا	ﲏ	فيها	therein	fīhā
+8	25:61:9	w	سِرَٰجٗا	ﲐ	سراجا	a lamp	sirājan
+8	25:61:10	w	وَقَمَرٗا	ﲑ	وقمرا	and a moon	waqamaran
+9	25:61:11	w	مُّنِيرٗا	ﲒ	منيرا	shining	munīran
+9	25:61:12	e	٦١	ﲓ			
+9	25:62:1	w	وَهُوَ	ﲔ	وهو	And He	wahuwa
+9	25:62:2	w	ٱلَّذِي	ﲕ	الذي	(is) the One Who	alladhī
+9	25:62:3	w	جَعَلَ	ﲖ	جعل	made	jaʿala
+9	25:62:4	w	ٱلَّيۡلَ	ﲗ	الليل	the night	al-layla
+9	25:62:5	w	وَٱلنَّهَارَ	ﲘ	والنهار	and the day	wal-nahāra
+9	25:62:6	w	خِلۡفَةٗ	ﲙ	خلفة	(in) succession	khil'fatan
+9	25:62:7	w	لِّمَنۡ	ﲚ	لمن	for whoever	liman
+9	25:62:8	w	أَرَادَ	ﲛ	اراد	desires	arāda
+10	25:62:9	w	أَن	ﲜ	ان	to	an
+10	25:62:10	w	يَذَّكَّرَ	ﲝ	يذكر	remember	yadhakkara
+10	25:62:11	w	أَوۡ	ﲞ	او	or	aw
+10	25:62:12	w	أَرَادَ	ﲟ	اراد	desires	arāda
+10	25:62:13	w	شُكُورٗا	ﲠ	شكورا	to be thankful	shukūran
+10	25:62:14	e	٦٢	ﲡ			
+10	25:63:1	w	وَعِبَادُ	ﲢ	وعباد	And (the) slaves	waʿibādu
+10	25:63:2	w	ٱلرَّحۡمَٰنِ	ﲣ	الرحمان	(of) the Most Gracious	l-raḥmāni
+10	25:63:3	w	ٱلَّذِينَ	ﲤ	الذين	(are) those who	alladhīna
+10	25:63:4	w	يَمۡشُونَ	ﲥ	يمشون	walk	yamshūna
+11	25:63:5	w	عَلَى	ﲦ	على	on	ʿalā
+11	25:63:6	w	ٱلۡأَرۡضِ	ﲧ	الارض	the earth	l-arḍi
+11	25:63:7	w	هَوۡنٗا	ﲨ	هونا	(in) humbleness	hawnan
+11	25:63:8	w	وَإِذَا	ﲩ	واذا	and when	wa-idhā
+11	25:63:9	w	خَاطَبَهُمُ	ﲪ	خاطبهم	address them	khāṭabahumu
+11	25:63:10	w	ٱلۡجَٰهِلُونَ	ﲫ	الجاهلون	the ignorant ones	l-jāhilūna
+11	25:63:11	w	قَالُواْ	ﲬ	قالوا	they say	qālū
+11	25:63:12	w	سَلَٰمٗا	ﲭ	سلاما	Peace	salāman
+12	25:63:13	e	٦٣	ﲮ			
+12	25:64:1	w	وَٱلَّذِينَ	ﲯ	والذين	And those who	wa-alladhīna
+12	25:64:2	w	يَبِيتُونَ	ﲰ	يبيتون	spend (the) night	yabītūna
+12	25:64:3	w	لِرَبِّهِمۡ	ﲱ	لربهم	before their Lord	lirabbihim
+12	25:64:4	w	سُجَّدٗا	ﲲ	سجدا	prostrating	sujjadan
+12	25:64:5	w	وَقِيَٰمٗا	ﲳ	وقياما	and standing	waqiyāman
+12	25:64:6	e	٦٤	ﲴ			
+12	25:65:1	w	وَٱلَّذِينَ	ﲵ	والذين	And those who	wa-alladhīna
+13	25:65:2	w	يَقُولُونَ	ﲶ	يقولون	say	yaqūlūna
+13	25:65:3	w	رَبَّنَا	ﲷ	ربنا	Our Lord	rabbanā
+13	25:65:4	w	ٱصۡرِفۡ	ﲸ	اصرف	Avert	iṣ'rif
+13	25:65:5	w	عَنَّا	ﲹ	عنا	from us	ʿannā
+13	25:65:6	w	عَذَابَ	ﲺ	عذاب	the punishment	ʿadhāba
+13	25:65:7	w	جَهَنَّمَۖ	ﲻﲼ	جهنم	(of) Hell	jahannama
+13	25:65:8	w	إِنَّ	ﲽ	ان	Indeed	inna
+13	25:65:9	w	عَذَابَهَا	ﲾ	عذابها	its punishment	ʿadhābahā
+13	25:65:10	w	كَانَ	ﲿ	كان	is	kāna
+14	25:65:11	w	غَرَامًا	ﳀ	غراما	inseparable	gharāman
+14	25:65:12	e	٦٥	ﳁ			
+14	25:66:1	w	إِنَّهَا	ﳂ	انها	Indeed, it	innahā
+14	25:66:2	w	سَآءَتۡ	ﳃ	ساءت	(is) an evil	sāat
+14	25:66:3	w	مُسۡتَقَرّٗا	ﳄ	مستقرا	abode	mus'taqarran
+14	25:66:4	w	وَمُقَامٗا	ﳅ	ومقاما	and resting place	wamuqāman
+14	25:66:5	e	٦٦	ﳆ			
+14	25:67:1	w	وَٱلَّذِينَ	ﳇ	والذين	And those who	wa-alladhīna
+14	25:67:2	w	إِذَآ	ﳈ	اذا	when	idhā
+15	25:67:3	w	أَنفَقُواْ	ﳉ	انفقوا	they spend	anfaqū
+15	25:67:4	w	لَمۡ	ﳊ	لم	(are) not extravagant	lam
+15	25:67:5	w	يُسۡرِفُواْ	ﳋ	يسرفوا	(are) not extravagant	yus'rifū
+15	25:67:6	w	وَلَمۡ	ﳌ	ولم	and are not stingy	walam
+15	25:67:7	w	يَقۡتُرُواْ	ﳍ	يقتروا	and are not stingy	yaqturū
+15	25:67:8	w	وَكَانَ	ﳎ	وكان	but are	wakāna
+15	25:67:9	w	بَيۡنَ	ﳏ	بين	between	bayna
+15	25:67:10	w	ذَٰلِكَ	ﳐ	ذالك	that	dhālika
+15	25:67:11	w	قَوَامٗا	ﳑ	قواما	moderate	qawāman
+15	25:67:12	e	٦٧	ﳒ			

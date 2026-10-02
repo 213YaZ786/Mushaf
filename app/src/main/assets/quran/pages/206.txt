@@ -1,0 +1,136 @@
+1	9:118:1	w	وَعَلَى	ﱁ	وعلى	And on	waʿalā
+1	9:118:2	w	ٱلثَّلَٰثَةِ	ﱂ	الثلاثة	the three	l-thalāthati
+1	9:118:3	w	ٱلَّذِينَ	ﱃ	الذين	(of) those who	alladhīna
+1	9:118:4	w	خُلِّفُواْ	ﱄ	خلفوا	were left behind	khullifū
+1	9:118:5	w	حَتَّىٰٓ	ﱅ	حتى	until	ḥattā
+1	9:118:6	w	إِذَا	ﱆ	اذا	when	idhā
+1	9:118:7	w	ضَاقَتۡ	ﱇ	ضاقت	(was) straitened	ḍāqat
+1	9:118:8	w	عَلَيۡهِمُ	ﱈ	عليهم	for them	ʿalayhimu
+1	9:118:9	w	ٱلۡأَرۡضُ	ﱉ	الارض	the earth	l-arḍu
+2	9:118:10	w	بِمَا	ﱊ	بما	though	bimā
+2	9:118:11	w	رَحُبَتۡ	ﱋ	رحبت	it was vast	raḥubat
+2	9:118:12	w	وَضَاقَتۡ	ﱌ	وضاقت	And (was) straitened	waḍāqat
+2	9:118:13	w	عَلَيۡهِمۡ	ﱍ	عليهم	for them	ʿalayhim
+2	9:118:14	w	أَنفُسُهُمۡ	ﱎ	انفسهم	their own souls	anfusuhum
+2	9:118:15	w	وَظَنُّوٓاْ	ﱏ	وظنوا	and they were certain	waẓannū
+2	9:118:16	w	أَن	ﱐ	ان	that	an
+2	9:118:17	w	لَّا	ﱑ	لا	(there is) no	lā
+2	9:118:18	w	مَلۡجَأَ	ﱒ	ملجا	refuge	malja-a
+3	9:118:19	w	مِنَ	ﱓ	من	from	mina
+3	9:118:20	w	ٱللَّهِ	ﱔ	الله	Allah	l-lahi
+3	9:118:21	w	إِلَّآ	ﱕ	الا	except	illā
+3	9:118:22	w	إِلَيۡهِ	ﱖ	اليه	to Him	ilayhi
+3	9:118:23	w	ثُمَّ	ﱗ	ثم	Then	thumma
+3	9:118:24	w	تَابَ	ﱘ	تاب	He turned (in mercy)	tāba
+3	9:118:25	w	عَلَيۡهِمۡ	ﱙ	عليهم	to them	ʿalayhim
+3	9:118:26	w	لِيَتُوبُوٓاْۚ	ﱚﱛ	ليتوبوا	that they may repent	liyatūbū
+3	9:118:27	w	إِنَّ	ﱜ	ان	Indeed	inna
+3	9:118:28	w	ٱللَّهَ	ﱝ	الله	Allah	l-laha
+3	9:118:29	w	هُوَ	ﱞ	هو	He	huwa
+3	9:118:30	w	ٱلتَّوَّابُ	ﱟ	التواب	(is) the Acceptor of repentance	l-tawābu
+4	9:118:31	w	ٱلرَّحِيمُ	ﱠ	الرحيم	the Most Merciful	l-raḥīmu
+4	9:118:32	e	١١٨	ﱡ			
+4	9:119:1	w	يَٰٓأَيُّهَا	ﱢ	يا ايها	O you who believe	yāayyuhā
+4	9:119:2	w	ٱلَّذِينَ	ﱣ	الذين	O you who believe	alladhīna
+4	9:119:3	w	ءَامَنُواْ	ﱤ	امنوا	O you who believe	āmanū
+4	9:119:4	w	ٱتَّقُواْ	ﱥ	اتقوا	Fear	ittaqū
+4	9:119:5	w	ٱللَّهَ	ﱦ	الله	Allah	l-laha
+4	9:119:6	w	وَكُونُواْ	ﱧ	وكونوا	and be	wakūnū
+4	9:119:7	w	مَعَ	ﱨ	مع	with	maʿa
+5	9:119:8	w	ٱلصَّٰدِقِينَ	ﱩ	الصادقين	those who are truthful	l-ṣādiqīna
+5	9:119:9	e	١١٩	ﱪ			
+5	9:120:1	w	مَا	ﱫ	ما	Not	mā
+5	9:120:2	w	كَانَ	ﱬ	كان	it was	kāna
+5	9:120:3	w	لِأَهۡلِ	ﱭ	لاهل	(for) the people	li-ahli
+5	9:120:4	w	ٱلۡمَدِينَةِ	ﱮ	المدينة	of the Madinah	l-madīnati
+5	9:120:5	w	وَمَنۡ	ﱯ	ومن	and who	waman
+5	9:120:6	w	حَوۡلَهُم	ﱰ	حولهم	were around them	ḥawlahum
+6	9:120:7	w	مِّنَ	ﱱ	من	of	mina
+6	9:120:8	w	ٱلۡأَعۡرَابِ	ﱲ	الاعراب	the bedouins	l-aʿrābi
+6	9:120:9	w	أَن	ﱳ	ان	that	an
+6	9:120:10	w	يَتَخَلَّفُواْ	ﱴ	يتخلفوا	they remain behind	yatakhallafū
+6	9:120:11	w	عَن	ﱵ	عن	after	ʿan
+6	9:120:12	w	رَّسُولِ	ﱶ	رسول	the Messenger	rasūli
+6	9:120:13	w	ٱللَّهِ	ﱷ	الله	of Allah	l-lahi
+6	9:120:14	w	وَلَا	ﱸ	ولا	and not	walā
+6	9:120:15	w	يَرۡغَبُواْ	ﱹ	يرغبوا	they prefer	yarghabū
+7	9:120:16	w	بِأَنفُسِهِمۡ	ﱺ	بانفسهم	their lives	bi-anfusihim
+7	9:120:17	w	عَن	ﱻ	عن	to	ʿan
+7	9:120:18	w	نَّفۡسِهِۦۚ	ﱼﱽ	نفسه	his life	nafsihi
+7	9:120:19	w	ذَٰلِكَ	ﱾ	ذالك	That is	dhālika
+7	9:120:20	w	بِأَنَّهُمۡ	ﱿ	بانهم	because [they]	bi-annahum
+7	9:120:21	w	لَا	ﲀ	لا	(does) not	lā
+7	9:120:22	w	يُصِيبُهُمۡ	ﲁ	يصيبهم	afflict them	yuṣībuhum
+7	9:120:23	w	ظَمَأٞ	ﲂ	ظما	thirst	ẓama-on
+8	9:120:24	w	وَلَا	ﲃ	ولا	and not	walā
+8	9:120:25	w	نَصَبٞ	ﲄ	نصب	fatigue	naṣabun
+8	9:120:26	w	وَلَا	ﲅ	ولا	and not	walā
+8	9:120:27	w	مَخۡمَصَةٞ	ﲆ	مخمصة	hunger	makhmaṣatun
+8	9:120:28	w	فِي	ﲇ	في	in	fī
+8	9:120:29	w	سَبِيلِ	ﲈ	سبيل	(the) way	sabīli
+8	9:120:30	w	ٱللَّهِ	ﲉ	الله	(of) Allah	l-lahi
+8	9:120:31	w	وَلَا	ﲊ	ولا	and not	walā
+8	9:120:32	w	يَطَـُٔونَ	ﲋ	يطيون	they step	yaṭaūna
+8	9:120:33	w	مَوۡطِئٗا	ﲌ	موطيا	any step	mawṭi-an
+9	9:120:34	w	يَغِيظُ	ﲍ	يغيظ	that angers	yaghīẓu
+9	9:120:35	w	ٱلۡكُفَّارَ	ﲎ	الكفار	the disbelievers	l-kufāra
+9	9:120:36	w	وَلَا	ﲏ	ولا	and not	walā
+9	9:120:37	w	يَنَالُونَ	ﲐ	ينالون	they inflict	yanālūna
+9	9:120:38	w	مِنۡ	ﲑ	من	on	min
+9	9:120:39	w	عَدُوّٖ	ﲒ	عدو	an enemy	ʿaduwwin
+9	9:120:40	w	نَّيۡلًا	ﲓ	نيلا	an infliction	naylan
+9	9:120:41	w	إِلَّا	ﲔ	الا	except	illā
+9	9:120:42	w	كُتِبَ	ﲕ	كتب	is recorded	kutiba
+10	9:120:43	w	لَهُم	ﲖ	لهم	for them	lahum
+10	9:120:44	w	بِهِۦ	ﲗ	به	in it	bihi
+10	9:120:45	w	عَمَلٞ	ﲘ	عمل	(as) a deed	ʿamalun
+10	9:120:46	w	صَٰلِحٌۚ	ﲙﲚ	صالح	righteous	ṣāliḥun
+10	9:120:47	w	إِنَّ	ﲛ	ان	Indeed	inna
+10	9:120:48	w	ٱللَّهَ	ﲜ	الله	Allah	l-laha
+10	9:120:49	w	لَا	ﲝ	لا	(does) not	lā
+10	9:120:50	w	يُضِيعُ	ﲞ	يضيع	allow to be lost	yuḍīʿu
+10	9:120:51	w	أَجۡرَ	ﲟ	اجر	the reward	ajra
+10	9:120:52	w	ٱلۡمُحۡسِنِينَ	ﲠ	المحسنين	(of) the good-doers	l-muḥ'sinīna
+11	9:120:53	e	١٢٠	ﲡ			
+11	9:121:1	w	وَلَا	ﲢ	ولا	And not	walā
+11	9:121:2	w	يُنفِقُونَ	ﲣ	ينفقون	they spend	yunfiqūna
+11	9:121:3	w	نَفَقَةٗ	ﲤ	نفقة	any spending	nafaqatan
+11	9:121:4	w	صَغِيرَةٗ	ﲥ	صغيرة	small	ṣaghīratan
+11	9:121:5	w	وَلَا	ﲦ	ولا	and not	walā
+11	9:121:6	w	كَبِيرَةٗ	ﲧ	كبيرة	big	kabīratan
+11	9:121:7	w	وَلَا	ﲨ	ولا	and not	walā
+11	9:121:8	w	يَقۡطَعُونَ	ﲩ	يقطعون	they cross	yaqṭaʿūna
+12	9:121:9	w	وَادِيًا	ﲪ	واديا	a valley	wādiyan
+12	9:121:10	w	إِلَّا	ﲫ	الا	but	illā
+12	9:121:11	w	كُتِبَ	ﲬ	كتب	is recorded	kutiba
+12	9:121:12	w	لَهُمۡ	ﲭ	لهم	for them	lahum
+12	9:121:13	w	لِيَجۡزِيَهُمُ	ﲮ	ليجزيهم	that Allah may reward them	liyajziyahumu
+12	9:121:14	w	ٱللَّهُ	ﲯ	الله	that Allah may reward them	l-lahu
+12	9:121:15	w	أَحۡسَنَ	ﲰ	احسن	the best	aḥsana
+12	9:121:16	w	مَا	ﲱ	ما	(of) what	mā
+12	9:121:17	w	كَانُواْ	ﲲ	كانوا	they used (to)	kānū
+13	9:121:18	w	يَعۡمَلُونَ	ﲳ	يعملون	do	yaʿmalūna
+13	9:121:19	e	١٢١	ﲴ			
+13	9:122:1	w	۞ وَمَا	ﲵ ﲶ	۞ وما	And not	wamā
+13	9:122:2	w	كَانَ	ﲷ	كان	is	kāna
+13	9:122:3	w	ٱلۡمُؤۡمِنُونَ	ﲸ	المومنون	(for) the believers	l-mu'minūna
+13	9:122:4	w	لِيَنفِرُواْ	ﲹ	لينفروا	that they go forth	liyanfirū
+13	9:122:5	w	كَآفَّةٗۚ	ﲺﲻ	كافة	all together	kāffatan
+14	9:122:6	w	فَلَوۡلَا	ﲼ	فلولا	So if not	falawlā
+14	9:122:7	w	نَفَرَ	ﲽ	نفر	go forth	nafara
+14	9:122:8	w	مِن	ﲾ	من	from	min
+14	9:122:9	w	كُلِّ	ﲿ	كل	every	kulli
+14	9:122:10	w	فِرۡقَةٖ	ﳀ	فرقة	group	fir'qatin
+14	9:122:11	w	مِّنۡهُمۡ	ﳁ	منهم	among them	min'hum
+14	9:122:12	w	طَآئِفَةٞ	ﳂ	طايفة	a party	ṭāifatun
+14	9:122:13	w	لِّيَتَفَقَّهُواْ	ﳃ	ليتفقهوا	that they may obtain understanding	liyatafaqqahū
+14	9:122:14	w	فِي	ﳄ	في	in	fī
+14	9:122:15	w	ٱلدِّينِ	ﳅ	الدين	the religion	l-dīni
+15	9:122:16	w	وَلِيُنذِرُواْ	ﳆ	ولينذروا	and that they may warn	waliyundhirū
+15	9:122:17	w	قَوۡمَهُمۡ	ﳇ	قومهم	their people	qawmahum
+15	9:122:18	w	إِذَا	ﳈ	اذا	when	idhā
+15	9:122:19	w	رَجَعُوٓاْ	ﳉ	رجعوا	they return	rajaʿū
+15	9:122:20	w	إِلَيۡهِمۡ	ﳊ	اليهم	to them	ilayhim
+15	9:122:21	w	لَعَلَّهُمۡ	ﳋ	لعلهم	so that they may	laʿallahum
+15	9:122:22	w	يَحۡذَرُونَ	ﳌ	يحذرون	beware	yaḥdharūna
+15	9:122:23	e	١٢٢	ﳍ			

@@ -1,0 +1,155 @@
+1	26:40:1	w	لَعَلَّنَا	ﱁ	لعلنا	That we may	laʿallanā
+1	26:40:2	w	نَتَّبِعُ	ﱂ	نتبع	follow	nattabiʿu
+1	26:40:3	w	ٱلسَّحَرَةَ	ﱃ	السحرة	the magicians	l-saḥarata
+1	26:40:4	w	إِن	ﱄ	ان	if	in
+1	26:40:5	w	كَانُواْ	ﱅ	كانوا	they are	kānū
+1	26:40:6	w	هُمُ	ﱆ	هم	they are	humu
+1	26:40:7	w	ٱلۡغَٰلِبِينَ	ﱇ	الغالبين	the victorious	l-ghālibīna
+1	26:40:8	e	٤٠	ﱈ			
+1	26:41:1	w	فَلَمَّا	ﱉ	فلما	So when	falammā
+1	26:41:2	w	جَآءَ	ﱊ	جاء	came	jāa
+1	26:41:3	w	ٱلسَّحَرَةُ	ﱋ	السحرة	the magicians	l-saḥaratu
+2	26:41:4	w	قَالُواْ	ﱌ	قالوا	they said	qālū
+2	26:41:5	w	لِفِرۡعَوۡنَ	ﱍ	لفرعون	to Firaun	lifir'ʿawna
+2	26:41:6	w	أَئِنَّ	ﱎ	اين	Is there	a-inna
+2	26:41:7	w	لَنَا	ﱏ	لنا	for us	lanā
+2	26:41:8	w	لَأَجۡرًا	ﱐ	لاجرا	a reward	la-ajran
+2	26:41:9	w	إِن	ﱑ	ان	if	in
+2	26:41:10	w	كُنَّا	ﱒ	كنا	we are	kunnā
+2	26:41:11	w	نَحۡنُ	ﱓ	نحن	we are	naḥnu
+2	26:41:12	w	ٱلۡغَٰلِبِينَ	ﱔ	الغالبين	the victorious	l-ghālibīna
+2	26:41:13	e	٤١	ﱕ			
+2	26:42:1	w	قَالَ	ﱖ	قال	He said	qāla
+2	26:42:2	w	نَعَمۡ	ﱗ	نعم	Yes	naʿam
+3	26:42:3	w	وَإِنَّكُمۡ	ﱘ	وانكم	and indeed you	wa-innakum
+3	26:42:4	w	إِذٗا	ﱙ	اذا	then	idhan
+3	26:42:5	w	لَّمِنَ	ﱚ	لمن	surely (will be) of	lamina
+3	26:42:6	w	ٱلۡمُقَرَّبِينَ	ﱛ	المقربين	the ones who are brought near	l-muqarabīna
+3	26:42:7	e	٤٢	ﱜ			
+3	26:43:1	w	قَالَ	ﱝ	قال	Said	qāla
+3	26:43:2	w	لَهُم	ﱞ	لهم	to them	lahum
+3	26:43:3	w	مُّوسَىٰٓ	ﱟ	موسى	Musa	mūsā
+3	26:43:4	w	أَلۡقُواْ	ﱠ	القوا	Throw	alqū
+3	26:43:5	w	مَآ	ﱡ	ما	what	mā
+3	26:43:6	w	أَنتُم	ﱢ	انتم	you	antum
+3	26:43:7	w	مُّلۡقُونَ	ﱣ	ملقون	(are) going to throw	mul'qūna
+4	26:43:8	e	٤٣	ﱤ			
+4	26:44:1	w	فَأَلۡقَوۡاْ	ﱥ	فالقوا	So they threw	fa-alqaw
+4	26:44:2	w	حِبَالَهُمۡ	ﱦ	حبالهم	their ropes	ḥibālahum
+4	26:44:3	w	وَعِصِيَّهُمۡ	ﱧ	وعصيهم	and their staffs	waʿiṣiyyahum
+4	26:44:4	w	وَقَالُواْ	ﱨ	وقالوا	and said	waqālū
+4	26:44:5	w	بِعِزَّةِ	ﱩ	بعزة	By the might	biʿizzati
+4	26:44:6	w	فِرۡعَوۡنَ	ﱪ	فرعون	(of) Firaun	fir'ʿawna
+4	26:44:7	w	إِنَّا	ﱫ	انا	indeed, we	innā
+4	26:44:8	w	لَنَحۡنُ	ﱬ	لنحن	surely, we	lanaḥnu
+5	26:44:9	w	ٱلۡغَٰلِبُونَ	ﱭ	الغالبون	(are) the victorious	l-ghālibūna
+5	26:44:10	e	٤٤	ﱮ			
+5	26:45:1	w	فَأَلۡقَىٰ	ﱯ	فالقى	Then threw	fa-alqā
+5	26:45:2	w	مُوسَىٰ	ﱰ	موسى	Musa	mūsā
+5	26:45:3	w	عَصَاهُ	ﱱ	عصاه	his staff	ʿaṣāhu
+5	26:45:4	w	فَإِذَا	ﱲ	فاذا	and behold	fa-idhā
+5	26:45:5	w	هِيَ	ﱳ	هي	It	hiya
+5	26:45:6	w	تَلۡقَفُ	ﱴ	تلقف	swallowed	talqafu
+5	26:45:7	w	مَا	ﱵ	ما	what	mā
+5	26:45:8	w	يَأۡفِكُونَ	ﱶ	يافكون	they falsified	yafikūna
+6	26:45:9	e	٤٥	ﱷ			
+6	26:46:1	w	فَأُلۡقِيَ	ﱸ	فالقي	Then fell down	fa-ul'qiya
+6	26:46:2	w	ٱلسَّحَرَةُ	ﱹ	السحرة	the magicians	l-saḥaratu
+6	26:46:3	w	سَٰجِدِينَ	ﱺ	ساجدين	prostrate	sājidīna
+6	26:46:4	e	٤٦	ﱻ			
+6	26:47:1	w	قَالُوٓاْ	ﱼ	قالوا	They said	qālū
+6	26:47:2	w	ءَامَنَّا	ﱽ	امنا	We believe	āmannā
+6	26:47:3	w	بِرَبِّ	ﱾ	برب	in (the) Lord	birabbi
+6	26:47:4	w	ٱلۡعَٰلَمِينَ	ﱿ	العالمين	(of) the worlds	l-ʿālamīna
+6	26:47:5	e	٤٧	ﲀ			
+7	26:48:1	w	رَبِّ	ﲁ	رب	Lord	rabbi
+7	26:48:2	w	مُوسَىٰ	ﲂ	موسى	(of) Musa	mūsā
+7	26:48:3	w	وَهَٰرُونَ	ﲃ	وهارون	and Harun	wahārūna
+7	26:48:4	e	٤٨	ﲄ			
+7	26:49:1	w	قَالَ	ﲅ	قال	He said	qāla
+7	26:49:2	w	ءَامَنتُمۡ	ﲆ	امنتم	You believed	āmantum
+7	26:49:3	w	لَهُۥ	ﲇ	له	in him	lahu
+7	26:49:4	w	قَبۡلَ	ﲈ	قبل	before	qabla
+7	26:49:5	w	أَنۡ	ﲉ	ان	[that]	an
+7	26:49:6	w	ءَاذَنَ	ﲊ	اذن	I gave permission	ādhana
+7	26:49:7	w	لَكُمۡۖ	ﲋﲌ	لكم	to you	lakum
+7	26:49:8	w	إِنَّهُۥ	ﲍ	انه	Indeed, he	innahu
+8	26:49:9	w	لَكَبِيرُكُمُ	ﲎ	لكبيركم	(is) surely your chief	lakabīrukumu
+8	26:49:10	w	ٱلَّذِي	ﲏ	الذي	who	alladhī
+8	26:49:11	w	عَلَّمَكُمُ	ﲐ	علمكم	has taught you	ʿallamakumu
+8	26:49:12	w	ٱلسِّحۡرَ	ﲑ	السحر	the magic	l-siḥ'ra
+8	26:49:13	w	فَلَسَوۡفَ	ﲒ	فلسوف	so surely soon	falasawfa
+8	26:49:14	w	تَعۡلَمُونَۚ	ﲓﲔ	تعلمون	you will know	taʿlamūna
+8	26:49:15	w	لَأُقَطِّعَنَّ	ﲕ	لاقطعن	I will surely cut off	la-uqaṭṭiʿanna
+8	26:49:16	w	أَيۡدِيَكُمۡ	ﲖ	ايديكم	your hands	aydiyakum
+9	26:49:17	w	وَأَرۡجُلَكُم	ﲗ	وارجلكم	and your feet	wa-arjulakum
+9	26:49:18	w	مِّنۡ	ﲘ	من	of	min
+9	26:49:19	w	خِلَٰفٖ	ﲙ	خلاف	opposite sides	khilāfin
+9	26:49:20	w	وَلَأُصَلِّبَنَّكُمۡ	ﲚ	ولاصلبنكم	and I will surely crucify you	wala-uṣallibannakum
+9	26:49:21	w	أَجۡمَعِينَ	ﲛ	اجمعين	all	ajmaʿīna
+9	26:49:22	e	٤٩	ﲜ			
+9	26:50:1	w	قَالُواْ	ﲝ	قالوا	They said	qālū
+9	26:50:2	w	لَا	ﲞ	لا	No	lā
+9	26:50:3	w	ضَيۡرَۖ	ﲟﲠ	ضير	harm	ḍayra
+9	26:50:4	w	إِنَّآ	ﲡ	انا	Indeed, we	innā
+10	26:50:5	w	إِلَىٰ	ﲢ	الى	to	ilā
+10	26:50:6	w	رَبِّنَا	ﲣ	ربنا	our Lord	rabbinā
+10	26:50:7	w	مُنقَلِبُونَ	ﲤ	منقلبون	(will) return	munqalibūna
+10	26:50:8	e	٥٠	ﲥ			
+10	26:51:1	w	إِنَّا	ﲦ	انا	Indeed, we	innā
+10	26:51:2	w	نَطۡمَعُ	ﲧ	نطمع	hope	naṭmaʿu
+10	26:51:3	w	أَن	ﲨ	ان	that	an
+10	26:51:4	w	يَغۡفِرَ	ﲩ	يغفر	will forgive	yaghfira
+10	26:51:5	w	لَنَا	ﲪ	لنا	us	lanā
+10	26:51:6	w	رَبُّنَا	ﲫ	ربنا	our Lord	rabbunā
+10	26:51:7	w	خَطَٰيَٰنَآ	ﲬ	خطايانا	our sins	khaṭāyānā
+10	26:51:8	w	أَن	ﲭ	ان	because	an
+10	26:51:9	w	كُنَّآ	ﲮ	كنا	we are	kunnā
+11	26:51:10	w	أَوَّلَ	ﲯ	اول	(the) first	awwala
+11	26:51:11	w	ٱلۡمُؤۡمِنِينَ	ﲰ	المومنين	(of) the believers	l-mu'minīna
+11	26:51:12	e	٥١	ﲱ			
+11	26:52:1	w	۞ وَأَوۡحَيۡنَآ	ﲲ ﲳ	۞ واوحينا	And We inspired	wa-awḥaynā
+11	26:52:2	w	إِلَىٰ	ﲴ	الى	to	ilā
+11	26:52:3	w	مُوسَىٰٓ	ﲵ	موسى	Musa	mūsā
+11	26:52:4	w	أَنۡ	ﲶ	ان	[that]	an
+11	26:52:5	w	أَسۡرِ	ﲷ	اسر	Travel by night	asri
+11	26:52:6	w	بِعِبَادِيٓ	ﲸ	بعبادي	with My slaves	biʿibādī
+11	26:52:7	w	إِنَّكُم	ﲹ	انكم	indeed, you	innakum
+12	26:52:8	w	مُّتَّبَعُونَ	ﲺ	متبعون	(will be) followed	muttabaʿūna
+12	26:52:9	e	٥٢	ﲻ			
+12	26:53:1	w	فَأَرۡسَلَ	ﲼ	فارسل	Then sent	fa-arsala
+12	26:53:2	w	فِرۡعَوۡنُ	ﲽ	فرعون	Firaun	fir'ʿawnu
+12	26:53:3	w	فِي	ﲾ	في	in	fī
+12	26:53:4	w	ٱلۡمَدَآئِنِ	ﲿ	المداين	the cities	l-madāini
+12	26:53:5	w	حَٰشِرِينَ	ﳀ	حاشرين	gatherers	ḥāshirīna
+12	26:53:6	e	٥٣	ﳁ			
+12	26:54:1	w	إِنَّ	ﳂ	ان	Indeed	inna
+12	26:54:2	w	هَٰٓؤُلَآءِ	ﳃ	هاولاء	these	hāulāi
+13	26:54:3	w	لَشِرۡذِمَةٞ	ﳄ	لشرذمة	(are) certainly a band	lashir'dhimatun
+13	26:54:4	w	قَلِيلُونَ	ﳅ	قليلون	small	qalīlūna
+13	26:54:5	e	٥٤	ﳆ			
+13	26:55:1	w	وَإِنَّهُمۡ	ﳇ	وانهم	And indeed, they	wa-innahum
+13	26:55:2	w	لَنَا	ﳈ	لنا	[to] us	lanā
+13	26:55:3	w	لَغَآئِظُونَ	ﳉ	لغايظون	(are) surely enraging	laghāiẓūna
+13	26:55:4	e	٥٥	ﳊ			
+13	26:56:1	w	وَإِنَّا	ﳋ	وانا	And indeed, we	wa-innā
+13	26:56:2	w	لَجَمِيعٌ	ﳌ	لجميع	(are) surely a multitude	lajamīʿun
+13	26:56:3	w	حَٰذِرُونَ	ﳍ	حاذرون	forewarned	ḥādhirūna
+14	26:56:4	e	٥٦	ﳎ			
+14	26:57:1	w	فَأَخۡرَجۡنَٰهُم	ﳏ	فاخرجناهم	So We expelled them	fa-akhrajnāhum
+14	26:57:2	w	مِّن	ﳐ	من	from	min
+14	26:57:3	w	جَنَّٰتٖ	ﳑ	جنات	gardens	jannātin
+14	26:57:4	w	وَعُيُونٖ	ﳒ	وعيون	and springs	waʿuyūnin
+14	26:57:5	e	٥٧	ﳓ			
+14	26:58:1	w	وَكُنُوزٖ	ﳔ	وكنوز	And treasures	wakunūzin
+14	26:58:2	w	وَمَقَامٖ	ﳕ	ومقام	and a place	wamaqāmin
+14	26:58:3	w	كَرِيمٖ	ﳖ	كريم	honorable	karīmin
+14	26:58:4	e	٥٨	ﳗ			
+15	26:59:1	w	كَذَٰلِكَۖ	ﳘﳙ	كذالك	Thus	kadhālika
+15	26:59:2	w	وَأَوۡرَثۡنَٰهَا	ﳚ	واورثناها	And We caused to inherit them	wa-awrathnāhā
+15	26:59:3	w	بَنِيٓ	ﳛ	بني	(the) Children of Israel	banī
+15	26:59:4	w	إِسۡرَٰٓءِيلَ	ﳜ	اسراييل	(the) Children of Israel	is'rāīla
+15	26:59:5	e	٥٩	ﳝ			
+15	26:60:1	w	فَأَتۡبَعُوهُم	ﳞ	فاتبعوهم	So they followed them	fa-atbaʿūhum
+15	26:60:2	w	مُّشۡرِقِينَ	ﳟ	مشرقين	(at) sunrise	mush'riqīna
+15	26:60:3	e	٦٠	ﳠ			

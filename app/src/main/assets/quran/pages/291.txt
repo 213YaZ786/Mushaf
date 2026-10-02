@@ -1,0 +1,151 @@
+1	17:87:1	w	إِلَّا	ﱁ	الا	Except	illā
+1	17:87:2	w	رَحۡمَةٗ	ﱂ	رحمة	a mercy	raḥmatan
+1	17:87:3	w	مِّن	ﱃ	من	from	min
+1	17:87:4	w	رَّبِّكَۚ	ﱄﱅ	ربك	your Lord	rabbika
+1	17:87:5	w	إِنَّ	ﱆ	ان	Indeed	inna
+1	17:87:6	w	فَضۡلَهُۥ	ﱇ	فضله	His Bounty	faḍlahu
+1	17:87:7	w	كَانَ	ﱈ	كان	is	kāna
+1	17:87:8	w	عَلَيۡكَ	ﱉ	عليك	upon you	ʿalayka
+1	17:87:9	w	كَبِيرٗا	ﱊ	كبيرا	great	kabīran
+1	17:87:10	e	٨٧	ﱋ			
+1	17:88:1	w	قُل	ﱌ	قل	Say	qul
+2	17:88:2	w	لَّئِنِ	ﱍ	لين	If	la-ini
+2	17:88:3	w	ٱجۡتَمَعَتِ	ﱎ	اجتمعت	gathered	ij'tamaʿati
+2	17:88:4	w	ٱلۡإِنسُ	ﱏ	الانس	the mankind	l-insu
+2	17:88:5	w	وَٱلۡجِنُّ	ﱐ	والجن	and the jinn	wal-jinu
+2	17:88:6	w	عَلَىٰٓ	ﱑ	على	to	ʿalā
+2	17:88:7	w	أَن	ﱒ	ان	[that]	an
+2	17:88:8	w	يَأۡتُواْ	ﱓ	ياتوا	bring	yatū
+2	17:88:9	w	بِمِثۡلِ	ﱔ	بمثل	the like	bimith'li
+2	17:88:10	w	هَٰذَا	ﱕ	هاذا	(of) this	hādhā
+2	17:88:11	w	ٱلۡقُرۡءَانِ	ﱖ	القران	Quran	l-qur'āni
+3	17:88:12	w	لَا	ﱗ	لا	not	lā
+3	17:88:13	w	يَأۡتُونَ	ﱘ	ياتون	they (could) bring	yatūna
+3	17:88:14	w	بِمِثۡلِهِۦ	ﱙ	بمثله	the like of it	bimith'lihi
+3	17:88:15	w	وَلَوۡ	ﱚ	ولو	even if	walaw
+3	17:88:16	w	كَانَ	ﱛ	كان	were	kāna
+3	17:88:17	w	بَعۡضُهُمۡ	ﱜ	بعضهم	some of them	baʿḍuhum
+3	17:88:18	w	لِبَعۡضٖ	ﱝ	لبعض	to some others	libaʿḍin
+3	17:88:19	w	ظَهِيرٗا	ﱞ	ظهيرا	assistants	ẓahīran
+3	17:88:20	e	٨٨	ﱟ			
+4	17:89:1	w	وَلَقَدۡ	ﱠ	ولقد	And verily	walaqad
+4	17:89:2	w	صَرَّفۡنَا	ﱡ	صرفنا	We have explained	ṣarrafnā
+4	17:89:3	w	لِلنَّاسِ	ﱢ	للناس	to mankind	lilnnāsi
+4	17:89:4	w	فِي	ﱣ	في	in	fī
+4	17:89:5	w	هَٰذَا	ﱤ	هاذا	this	hādhā
+4	17:89:6	w	ٱلۡقُرۡءَانِ	ﱥ	القران	Quran	l-qur'āni
+4	17:89:7	w	مِن	ﱦ	من	from	min
+4	17:89:8	w	كُلِّ	ﱧ	كل	every	kulli
+4	17:89:9	w	مَثَلٖ	ﱨ	مثل	example	mathalin
+4	17:89:10	w	فَأَبَىٰٓ	ﱩ	فابى	but refused	fa-abā
+4	17:89:11	w	أَكۡثَرُ	ﱪ	اكثر	most	aktharu
+5	17:89:12	w	ٱلنَّاسِ	ﱫ	الناس	(of) the mankind	l-nāsi
+5	17:89:13	w	إِلَّا	ﱬ	الا	except	illā
+5	17:89:14	w	كُفُورٗا	ﱭ	كفورا	disbelief	kufūran
+5	17:89:15	e	٨٩	ﱮ			
+5	17:90:1	w	وَقَالُواْ	ﱯ	وقالوا	And they say	waqālū
+5	17:90:2	w	لَن	ﱰ	لن	Never	lan
+5	17:90:3	w	نُّؤۡمِنَ	ﱱ	نومن	we will believe	nu'mina
+5	17:90:4	w	لَكَ	ﱲ	لك	in you	laka
+5	17:90:5	w	حَتَّىٰ	ﱳ	حتى	until	ḥattā
+5	17:90:6	w	تَفۡجُرَ	ﱴ	تفجر	you cause to gush forth	tafjura
+6	17:90:7	w	لَنَا	ﱵ	لنا	for us	lanā
+6	17:90:8	w	مِنَ	ﱶ	من	from	mina
+6	17:90:9	w	ٱلۡأَرۡضِ	ﱷ	الارض	the earth	l-arḍi
+6	17:90:10	w	يَنۢبُوعًا	ﱸ	ينبوعا	a spring	yanbūʿan
+6	17:90:11	e	٩٠	ﱹ			
+6	17:91:1	w	أَوۡ	ﱺ	او	Or	aw
+6	17:91:2	w	تَكُونَ	ﱻ	تكون	you have	takūna
+6	17:91:3	w	لَكَ	ﱼ	لك	for you	laka
+6	17:91:4	w	جَنَّةٞ	ﱽ	جنة	a garden	jannatun
+6	17:91:5	w	مِّن	ﱾ	من	of	min
+6	17:91:6	w	نَّخِيلٖ	ﱿ	نخيل	date-palms	nakhīlin
+7	17:91:7	w	وَعِنَبٖ	ﲀ	وعنب	and grapes	waʿinabin
+7	17:91:8	w	فَتُفَجِّرَ	ﲁ	فتفجر	and cause to gush forth	fatufajjira
+7	17:91:9	w	ٱلۡأَنۡهَٰرَ	ﲂ	الانهار	the rivers	l-anhāra
+7	17:91:10	w	خِلَٰلَهَا	ﲃ	خلالها	within them	khilālahā
+7	17:91:11	w	تَفۡجِيرًا	ﲄ	تفجيرا	abundantly	tafjīran
+7	17:91:12	e	٩١	ﲅ			
+7	17:92:1	w	أَوۡ	ﲆ	او	Or	aw
+7	17:92:2	w	تُسۡقِطَ	ﲇ	تسقط	you cause to fall	tus'qiṭa
+7	17:92:3	w	ٱلسَّمَآءَ	ﲈ	السماء	the sky	l-samāa
+8	17:92:4	w	كَمَا	ﲉ	كما	as	kamā
+8	17:92:5	w	زَعَمۡتَ	ﲊ	زعمت	you have claimed	zaʿamta
+8	17:92:6	w	عَلَيۡنَا	ﲋ	علينا	upon us	ʿalaynā
+8	17:92:7	w	كِسَفًا	ﲌ	كسفا	(in) pieces	kisafan
+8	17:92:8	w	أَوۡ	ﲍ	او	or	aw
+8	17:92:9	w	تَأۡتِيَ	ﲎ	تاتي	you bring	tatiya
+8	17:92:10	w	بِٱللَّهِ	ﲏ	بالله	Allah	bil-lahi
+8	17:92:11	w	وَٱلۡمَلَٰٓئِكَةِ	ﲐ	والملايكة	and the Angels	wal-malāikati
+9	17:92:12	w	قَبِيلًا	ﲑ	قبيلا	before (us)	qabīlan
+9	17:92:13	e	٩٢	ﲒ			
+9	17:93:1	w	أَوۡ	ﲓ	او	Or	aw
+9	17:93:2	w	يَكُونَ	ﲔ	يكون	is	yakūna
+9	17:93:3	w	لَكَ	ﲕ	لك	for you	laka
+9	17:93:4	w	بَيۡتٞ	ﲖ	بيت	a house	baytun
+9	17:93:5	w	مِّن	ﲗ	من	of	min
+9	17:93:6	w	زُخۡرُفٍ	ﲘ	زخرف	ornament	zukh'rufin
+9	17:93:7	w	أَوۡ	ﲙ	او	or	aw
+9	17:93:8	w	تَرۡقَىٰ	ﲚ	ترقى	you ascend	tarqā
+9	17:93:9	w	فِي	ﲛ	في	into	fī
+9	17:93:10	w	ٱلسَّمَآءِ	ﲜ	السماء	the sky	l-samāi
+10	17:93:11	w	وَلَن	ﲝ	ولن	And never	walan
+10	17:93:12	w	نُّؤۡمِنَ	ﲞ	نومن	we will believe	nu'mina
+10	17:93:13	w	لِرُقِيِّكَ	ﲟ	لرقيك	in your ascension	liruqiyyika
+10	17:93:14	w	حَتَّىٰ	ﲠ	حتى	until	ḥattā
+10	17:93:15	w	تُنَزِّلَ	ﲡ	تنزل	you bring down	tunazzila
+10	17:93:16	w	عَلَيۡنَا	ﲢ	علينا	to us	ʿalaynā
+10	17:93:17	w	كِتَٰبٗا	ﲣ	كتابا	a book	kitāban
+10	17:93:18	w	نَّقۡرَؤُهُۥۗ	ﲤﲥ	نقروه	we could read it	naqra-uhu
+10	17:93:19	w	قُلۡ	ﲦ	قل	Say	qul
+11	17:93:20	w	سُبۡحَانَ	ﲧ	سبحان	Glorified (is)	sub'ḥāna
+11	17:93:21	w	رَبِّي	ﲨ	ربي	my Lord	rabbī
+11	17:93:22	w	هَلۡ	ﲩ	هل	What	hal
+11	17:93:23	w	كُنتُ	ﲪ	كنت	am I	kuntu
+11	17:93:24	w	إِلَّا	ﲫ	الا	but	illā
+11	17:93:25	w	بَشَرٗا	ﲬ	بشرا	a human	basharan
+11	17:93:26	w	رَّسُولٗا	ﲭ	رسولا	a Messenger	rasūlan
+11	17:93:27	e	٩٣	ﲮ			
+11	17:94:1	w	وَمَا	ﲯ	وما	And what	wamā
+11	17:94:2	w	مَنَعَ	ﲰ	منع	prevented	manaʿa
+11	17:94:3	w	ٱلنَّاسَ	ﲱ	الناس	the people	l-nāsa
+12	17:94:4	w	أَن	ﲲ	ان	that	an
+12	17:94:5	w	يُؤۡمِنُوٓاْ	ﲳ	يومنوا	they believe	yu'minū
+12	17:94:6	w	إِذۡ	ﲴ	اذ	when	idh
+12	17:94:7	w	جَآءَهُمُ	ﲵ	جاءهم	came to them	jāahumu
+12	17:94:8	w	ٱلۡهُدَىٰٓ	ﲶ	الهدى	the guidance	l-hudā
+12	17:94:9	w	إِلَّآ	ﲷ	الا	except	illā
+12	17:94:10	w	أَن	ﲸ	ان	that	an
+12	17:94:11	w	قَالُوٓاْ	ﲹ	قالوا	they said	qālū
+12	17:94:12	w	أَبَعَثَ	ﲺ	ابعث	Has Allah sent	abaʿatha
+12	17:94:13	w	ٱللَّهُ	ﲻ	الله	Has Allah sent	l-lahu
+12	17:94:14	w	بَشَرٗا	ﲼ	بشرا	a human	basharan
+13	17:94:15	w	رَّسُولٗا	ﲽ	رسولا	Messenger	rasūlan
+13	17:94:16	e	٩٤	ﲾ			
+13	17:95:1	w	قُل	ﲿ	قل	Say	qul
+13	17:95:2	w	لَّوۡ	ﳀ	لو	If	law
+13	17:95:3	w	كَانَ	ﳁ	كان	(there) were	kāna
+13	17:95:4	w	فِي	ﳂ	في	in	fī
+13	17:95:5	w	ٱلۡأَرۡضِ	ﳃ	الارض	the earth	l-arḍi
+13	17:95:6	w	مَلَٰٓئِكَةٞ	ﳄ	ملايكة	Angels	malāikatun
+13	17:95:7	w	يَمۡشُونَ	ﳅ	يمشون	walking	yamshūna
+13	17:95:8	w	مُطۡمَئِنِّينَ	ﳆ	مطمينين	securely	muṭ'ma-innīna
+14	17:95:9	w	لَنَزَّلۡنَا	ﳇ	لنزلنا	surely We (would) have sent down	lanazzalnā
+14	17:95:10	w	عَلَيۡهِم	ﳈ	عليهم	to them	ʿalayhim
+14	17:95:11	w	مِّنَ	ﳉ	من	from	mina
+14	17:95:12	w	ٱلسَّمَآءِ	ﳊ	السماء	the heaven	l-samāi
+14	17:95:13	w	مَلَكٗا	ﳋ	ملكا	an Angel	malakan
+14	17:95:14	w	رَّسُولٗا	ﳌ	رسولا	(as) a Messenger	rasūlan
+14	17:95:15	e	٩٥	ﳍ			
+14	17:96:1	w	قُلۡ	ﳎ	قل	Say	qul
+14	17:96:2	w	كَفَىٰ	ﳏ	كفى	Sufficient is	kafā
+14	17:96:3	w	بِٱللَّهِ	ﳐ	بالله	Allah	bil-lahi
+15	17:96:4	w	شَهِيدَۢا	ﳑ	شهيدا	(as) a witness	shahīdan
+15	17:96:5	w	بَيۡنِي	ﳒ	بيني	between me	baynī
+15	17:96:6	w	وَبَيۡنَكُمۡۚ	ﳓﳔ	وبينكم	and between you	wabaynakum
+15	17:96:7	w	إِنَّهُۥ	ﳕ	انه	Indeed, He	innahu
+15	17:96:8	w	كَانَ	ﳖ	كان	is	kāna
+15	17:96:9	w	بِعِبَادِهِۦ	ﳗ	بعباده	of His slaves	biʿibādihi
+15	17:96:10	w	خَبِيرَۢا	ﳘ	خبيرا	All-Aware	khabīran
+15	17:96:11	w	بَصِيرٗا	ﳙ	بصيرا	All-Seer	baṣīran
+15	17:96:12	e	٩٦	ﳚ			

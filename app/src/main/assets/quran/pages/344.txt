@@ -1,0 +1,156 @@
+1	23:28:1	w	فَإِذَا	ﱁ	فاذا	And when	fa-idhā
+1	23:28:2	w	ٱسۡتَوَيۡتَ	ﱂ	استويت	you (have) boarded	is'tawayta
+1	23:28:3	w	أَنتَ	ﱃ	انت	you	anta
+1	23:28:4	w	وَمَن	ﱄ	ومن	and whoever	waman
+1	23:28:5	w	مَّعَكَ	ﱅ	معك	(is) with you	maʿaka
+1	23:28:6	w	عَلَى	ﱆ	على	[on]	ʿalā
+1	23:28:7	w	ٱلۡفُلۡكِ	ﱇ	الفلك	the ship	l-ful'ki
+1	23:28:8	w	فَقُلِ	ﱈ	فقل	then say	faquli
+1	23:28:9	w	ٱلۡحَمۡدُ	ﱉ	الحمد	Praise	l-ḥamdu
+1	23:28:10	w	لِلَّهِ	ﱊ	لله	(be) to Allah	lillahi
+1	23:28:11	w	ٱلَّذِي	ﱋ	الذي	Who	alladhī
+2	23:28:12	w	نَجَّىٰنَا	ﱌ	نجانا	(has) saved us	najjānā
+2	23:28:13	w	مِنَ	ﱍ	من	from	mina
+2	23:28:14	w	ٱلۡقَوۡمِ	ﱎ	القوم	the people	l-qawmi
+2	23:28:15	w	ٱلظَّٰلِمِينَ	ﱏ	الظالمين	the wrongdoers	l-ẓālimīna
+2	23:28:16	e	٢٨	ﱐ			
+2	23:29:1	w	وَقُل	ﱑ	وقل	And say	waqul
+2	23:29:2	w	رَّبِّ	ﱒ	رب	My Lord	rabbi
+2	23:29:3	w	أَنزِلۡنِي	ﱓ	انزلني	cause me to land	anzil'nī
+2	23:29:4	w	مُنزَلٗا	ﱔ	منزلا	(at) a landing place	munzalan
+2	23:29:5	w	مُّبَارَكٗا	ﱕ	مباركا	blessed	mubārakan
+2	23:29:6	w	وَأَنتَ	ﱖ	وانت	and You	wa-anta
+3	23:29:7	w	خَيۡرُ	ﱗ	خير	(are) the Best	khayru
+3	23:29:8	w	ٱلۡمُنزِلِينَ	ﱘ	المنزلين	(of) those who cause to land.'	l-munzilīna
+3	23:29:9	e	٢٩	ﱙ			
+3	23:30:1	w	إِنَّ	ﱚ	ان	Indeed	inna
+3	23:30:2	w	فِي	ﱛ	في	in	fī
+3	23:30:3	w	ذَٰلِكَ	ﱜ	ذالك	that	dhālika
+3	23:30:4	w	لَأٓيَٰتٖ	ﱝ	لايات	surely (are) Signs	laāyātin
+3	23:30:5	w	وَإِن	ﱞ	وان	and indeed	wa-in
+3	23:30:6	w	كُنَّا	ﱟ	كنا	We are	kunnā
+3	23:30:7	w	لَمُبۡتَلِينَ	ﱠ	لمبتلين	surely testing	lamub'talīna
+3	23:30:8	e	٣٠	ﱡ			
+3	23:31:1	w	ثُمَّ	ﱢ	ثم	Then	thumma
+3	23:31:2	w	أَنشَأۡنَا	ﱣ	انشانا	We produced	anshanā
+4	23:31:3	w	مِنۢ	ﱤ	من	after them	min
+4	23:31:4	w	بَعۡدِهِمۡ	ﱥ	بعدهم	after them	baʿdihim
+4	23:31:5	w	قَرۡنًا	ﱦ	قرنا	a generation	qarnan
+4	23:31:6	w	ءَاخَرِينَ	ﱧ	اخرين	another	ākharīna
+4	23:31:7	e	٣١	ﱨ			
+4	23:32:1	w	فَأَرۡسَلۡنَا	ﱩ	فارسلنا	And We sent	fa-arsalnā
+4	23:32:2	w	فِيهِمۡ	ﱪ	فيهم	among them	fīhim
+4	23:32:3	w	رَسُولٗا	ﱫ	رسولا	a Messenger	rasūlan
+4	23:32:4	w	مِّنۡهُمۡ	ﱬ	منهم	from themselves	min'hum
+4	23:32:5	w	أَنِ	ﱭ	ان	[that]	ani
+4	23:32:6	w	ٱعۡبُدُواْ	ﱮ	اعبدوا	Worship	uʿ'budū
+5	23:32:7	w	ٱللَّهَ	ﱯ	الله	Allah	l-laha
+5	23:32:8	w	مَا	ﱰ	ما	not	mā
+5	23:32:9	w	لَكُم	ﱱ	لكم	for you	lakum
+5	23:32:10	w	مِّنۡ	ﱲ	من	(is) any	min
+5	23:32:11	w	إِلَٰهٍ	ﱳ	الاه	god	ilāhin
+5	23:32:12	w	غَيۡرُهُۥٓۚ	ﱴﱵ	غيره	other than Him	ghayruhu
+5	23:32:13	w	أَفَلَا	ﱶ	افلا	Then will not	afalā
+5	23:32:14	w	تَتَّقُونَ	ﱷ	تتقون	you fear	tattaqūna
+5	23:32:15	e	٣٢	ﱸ			
+5	23:33:1	w	وَقَالَ	ﱹ	وقال	And said	waqāla
+5	23:33:2	w	ٱلۡمَلَأُ	ﱺ	الملا	the chiefs	l-mala-u
+5	23:33:3	w	مِن	ﱻ	من	of	min
+5	23:33:4	w	قَوۡمِهِ	ﱼ	قومه	his people	qawmihi
+6	23:33:5	w	ٱلَّذِينَ	ﱽ	الذين	who	alladhīna
+6	23:33:6	w	كَفَرُواْ	ﱾ	كفروا	disbelieved	kafarū
+6	23:33:7	w	وَكَذَّبُواْ	ﱿ	وكذبوا	and denied	wakadhabū
+6	23:33:8	w	بِلِقَآءِ	ﲀ	بلقاء	(the) meeting	biliqāi
+6	23:33:9	w	ٱلۡأٓخِرَةِ	ﲁ	الاخرة	(of) the Hereafter	l-ākhirati
+6	23:33:10	w	وَأَتۡرَفۡنَٰهُمۡ	ﲂ	واترفناهم	while We had given them luxury	wa-atrafnāhum
+6	23:33:11	w	فِي	ﲃ	في	in	fī
+6	23:33:12	w	ٱلۡحَيَوٰةِ	ﲄ	الحياة	the life	l-ḥayati
+6	23:33:13	w	ٱلدُّنۡيَا	ﲅ	الدنيا	(of) the world	l-dun'yā
+7	23:33:14	w	مَا	ﲆ	ما	Not	mā
+7	23:33:15	w	هَٰذَآ	ﲇ	هاذا	(is) this	hādhā
+7	23:33:16	w	إِلَّا	ﲈ	الا	but	illā
+7	23:33:17	w	بَشَرٞ	ﲉ	بشر	a man	basharun
+7	23:33:18	w	مِّثۡلُكُمۡ	ﲊ	مثلكم	like you	mith'lukum
+7	23:33:19	w	يَأۡكُلُ	ﲋ	ياكل	He eats	yakulu
+7	23:33:20	w	مِمَّا	ﲌ	مما	of what	mimmā
+7	23:33:21	w	تَأۡكُلُونَ	ﲍ	تاكلون	you eat	takulūna
+7	23:33:22	w	مِنۡهُ	ﲎ	منه	[from it]	min'hu
+7	23:33:23	w	وَيَشۡرَبُ	ﲏ	ويشرب	and he drinks	wayashrabu
+8	23:33:24	w	مِمَّا	ﲐ	مما	of what	mimmā
+8	23:33:25	w	تَشۡرَبُونَ	ﲑ	تشربون	you drink	tashrabūna
+8	23:33:26	e	٣٣	ﲒ			
+8	23:34:1	w	وَلَئِنۡ	ﲓ	ولين	And surely if	wala-in
+8	23:34:2	w	أَطَعۡتُم	ﲔ	اطعتم	you obey	aṭaʿtum
+8	23:34:3	w	بَشَرٗا	ﲕ	بشرا	a man	basharan
+8	23:34:4	w	مِّثۡلَكُمۡ	ﲖ	مثلكم	like you	mith'lakum
+8	23:34:5	w	إِنَّكُمۡ	ﲗ	انكم	indeed, you	innakum
+8	23:34:6	w	إِذٗا	ﲘ	اذا	then	idhan
+8	23:34:7	w	لَّخَٰسِرُونَ	ﲙ	لخاسرون	surely (will be) losers	lakhāsirūna
+9	23:34:8	e	٣٤	ﲚ			
+9	23:35:1	w	أَيَعِدُكُمۡ	ﲛ	ايعدكم	Does he promise you	ayaʿidukum
+9	23:35:2	w	أَنَّكُمۡ	ﲜ	انكم	that you	annakum
+9	23:35:3	w	إِذَا	ﲝ	اذا	when	idhā
+9	23:35:4	w	مِتُّمۡ	ﲞ	متم	you are dead	mittum
+9	23:35:5	w	وَكُنتُمۡ	ﲟ	وكنتم	and you become	wakuntum
+9	23:35:6	w	تُرَابٗا	ﲠ	ترابا	dust	turāban
+9	23:35:7	w	وَعِظَٰمًا	ﲡ	وعظاما	and bones	waʿiẓāman
+9	23:35:8	w	أَنَّكُم	ﲢ	انكم	that you	annakum
+9	23:35:9	w	مُّخۡرَجُونَ	ﲣ	مخرجون	(will be) brought forth	mukh'rajūna
+10	23:35:10	e	٣٥	ﲤ			
+10	23:36:1	w	۞ هَيۡهَاتَ	ﲥ ﲦ	۞ هيهات	Far-(fetched)	hayhāta
+10	23:36:2	w	هَيۡهَاتَ	ﲧ	هيهات	far-(fetched)	hayhāta
+10	23:36:3	w	لِمَا	ﲨ	لما	is what	limā
+10	23:36:4	w	تُوعَدُونَ	ﲩ	توعدون	you are promised	tūʿadūna
+10	23:36:5	e	٣٦	ﲪ			
+10	23:37:1	w	إِنۡ	ﲫ	ان	Not	in
+10	23:37:2	w	هِيَ	ﲬ	هي	it	hiya
+10	23:37:3	w	إِلَّا	ﲭ	الا	(is) but	illā
+10	23:37:4	w	حَيَاتُنَا	ﲮ	حياتنا	our life	ḥayātunā
+11	23:37:5	w	ٱلدُّنۡيَا	ﲯ	الدنيا	(of) the world	l-dun'yā
+11	23:37:6	w	نَمُوتُ	ﲰ	نموت	we die	namūtu
+11	23:37:7	w	وَنَحۡيَا	ﲱ	ونحيا	and we live	wanaḥyā
+11	23:37:8	w	وَمَا	ﲲ	وما	and not	wamā
+11	23:37:9	w	نَحۡنُ	ﲳ	نحن	we	naḥnu
+11	23:37:10	w	بِمَبۡعُوثِينَ	ﲴ	بمبعوثين	(will be) resurrected	bimabʿūthīna
+11	23:37:11	e	٣٧	ﲵ			
+11	23:38:1	w	إِنۡ	ﲶ	ان	Not	in
+11	23:38:2	w	هُوَ	ﲷ	هو	(is) he	huwa
+11	23:38:3	w	إِلَّا	ﲸ	الا	but	illā
+12	23:38:4	w	رَجُلٌ	ﲹ	رجل	a man	rajulun
+12	23:38:5	w	ٱفۡتَرَىٰ	ﲺ	افترى	who (has) invented	if'tarā
+12	23:38:6	w	عَلَى	ﲻ	على	about	ʿalā
+12	23:38:7	w	ٱللَّهِ	ﲼ	الله	Allah	l-lahi
+12	23:38:8	w	كَذِبٗا	ﲽ	كذبا	a lie	kadhiban
+12	23:38:9	w	وَمَا	ﲾ	وما	and not	wamā
+12	23:38:10	w	نَحۡنُ	ﲿ	نحن	we	naḥnu
+12	23:38:11	w	لَهُۥ	ﳀ	له	(in) him	lahu
+12	23:38:12	w	بِمُؤۡمِنِينَ	ﳁ	بمومنين	(are) believers	bimu'minīna
+12	23:38:13	e	٣٨	ﳂ			
+12	23:39:1	w	قَالَ	ﳃ	قال	He said	qāla
+12	23:39:2	w	رَبِّ	ﳄ	رب	My Lord	rabbi
+13	23:39:3	w	ٱنصُرۡنِي	ﳅ	انصرني	Help me	unṣur'nī
+13	23:39:4	w	بِمَا	ﳆ	بما	because	bimā
+13	23:39:5	w	كَذَّبُونِ	ﳇ	كذبون	they deny me	kadhabūni
+13	23:39:6	e	٣٩	ﳈ			
+13	23:40:1	w	قَالَ	ﳉ	قال	He said	qāla
+13	23:40:2	w	عَمَّا	ﳊ	عما	After a little while	ʿammā
+13	23:40:3	w	قَلِيلٖ	ﳋ	قليل	After a little while	qalīlin
+13	23:40:4	w	لَّيُصۡبِحُنَّ	ﳌ	ليصبحن	surely they will become	layuṣ'biḥunna
+13	23:40:5	w	نَٰدِمِينَ	ﳍ	نادمين	regretful	nādimīna
+13	23:40:6	e	٤٠	ﳎ			
+14	23:41:1	w	فَأَخَذَتۡهُمُ	ﳏ	فاخذتهم	So seized them	fa-akhadhathumu
+14	23:41:2	w	ٱلصَّيۡحَةُ	ﳐ	الصيحة	the awful cry	l-ṣayḥatu
+14	23:41:3	w	بِٱلۡحَقِّ	ﳑ	بالحق	in truth	bil-ḥaqi
+14	23:41:4	w	فَجَعَلۡنَٰهُمۡ	ﳒ	فجعلناهم	and We made them	fajaʿalnāhum
+14	23:41:5	w	غُثَآءٗۚ	ﳓﳔ	غثاء	(as) rubbish of dead leaves	ghuthāan
+14	23:41:6	w	فَبُعۡدٗا	ﳕ	فبعدا	So away	fabuʿ'dan
+14	23:41:7	w	لِّلۡقَوۡمِ	ﳖ	للقوم	with the people	lil'qawmi
+15	23:41:8	w	ٱلظَّٰلِمِينَ	ﳗ	الظالمين	the wrongdoers	l-ẓālimīna
+15	23:41:9	e	٤١	ﳘ			
+15	23:42:1	w	ثُمَّ	ﳙ	ثم	Then	thumma
+15	23:42:2	w	أَنشَأۡنَا	ﳚ	انشانا	We produced	anshanā
+15	23:42:3	w	مِنۢ	ﳛ	من	after them	min
+15	23:42:4	w	بَعۡدِهِمۡ	ﳜ	بعدهم	after them	baʿdihim
+15	23:42:5	w	قُرُونًا	ﳝ	قرونا	a generation	qurūnan
+15	23:42:6	w	ءَاخَرِينَ	ﳞ	اخرين	another	ākharīna
+15	23:42:7	e	٤٢	ﳟ			

@@ -1,0 +1,142 @@
+1	6:95:1	w	۞ إِنَّ	ﱁ ﱂ	۞ ان	Indeed	inna
+1	6:95:2	w	ٱللَّهَ	ﱃ	الله	Allah	l-laha
+1	6:95:3	w	فَالِقُ	ﱄ	فالق	(is the) Cleaver	fāliqu
+1	6:95:4	w	ٱلۡحَبِّ	ﱅ	الحب	(of) the grain	l-ḥabi
+1	6:95:5	w	وَٱلنَّوَىٰۖ	ﱆﱇ	والنوى	and the date-seed	wal-nawā
+1	6:95:6	w	يُخۡرِجُ	ﱈ	يخرج	He brings forth	yukh'riju
+1	6:95:7	w	ٱلۡحَيَّ	ﱉ	الحي	the living	l-ḥaya
+1	6:95:8	w	مِنَ	ﱊ	من	from	mina
+1	6:95:9	w	ٱلۡمَيِّتِ	ﱋ	الميت	the dead	l-mayiti
+1	6:95:10	w	وَمُخۡرِجُ	ﱌ	ومخرج	and brings forth	wamukh'riju
+2	6:95:11	w	ٱلۡمَيِّتِ	ﱍ	الميت	the dead	l-mayiti
+2	6:95:12	w	مِنَ	ﱎ	من	from	mina
+2	6:95:13	w	ٱلۡحَيِّۚ	ﱏﱐ	الحي	the living	l-ḥayi
+2	6:95:14	w	ذَٰلِكُمُ	ﱑ	ذالكم	That	dhālikumu
+2	6:95:15	w	ٱللَّهُۖ	ﱒﱓ	الله	(is) Allah	l-lahu
+2	6:95:16	w	فَأَنَّىٰ	ﱔ	فانى	so how	fa-annā
+2	6:95:17	w	تُؤۡفَكُونَ	ﱕ	توفكون	are you deluded	tu'fakūna
+2	6:95:18	e	٩٥	ﱖ			
+2	6:96:1	w	فَالِقُ	ﱗ	فالق	(He is the) Cleaver	fāliqu
+2	6:96:2	w	ٱلۡإِصۡبَاحِ	ﱘ	الاصباح	(of) the daybreak	l-iṣ'bāḥi
+3	6:96:3	w	وَجَعَلَ	ﱙ	وجعل	and He has made	wajaʿala
+3	6:96:4	w	ٱلَّيۡلَ	ﱚ	الليل	the night	al-layla
+3	6:96:5	w	سَكَنٗا	ﱛ	سكنا	(for) rest	sakanan
+3	6:96:6	w	وَٱلشَّمۡسَ	ﱜ	والشمس	and the sun	wal-shamsa
+3	6:96:7	w	وَٱلۡقَمَرَ	ﱝ	والقمر	and the moon	wal-qamara
+3	6:96:8	w	حُسۡبَانٗاۚ	ﱞﱟ	حسبانا	(for) reckoning	ḥus'bānan
+3	6:96:9	w	ذَٰلِكَ	ﱠ	ذالك	That	dhālika
+3	6:96:10	w	تَقۡدِيرُ	ﱡ	تقدير	(is the) ordaining	taqdīru
+4	6:96:11	w	ٱلۡعَزِيزِ	ﱢ	العزيز	(of) the All-Mighty	l-ʿazīzi
+4	6:96:12	w	ٱلۡعَلِيمِ	ﱣ	العليم	the All-Knowing	l-ʿalīmi
+4	6:96:13	e	٩٦	ﱤ			
+4	6:97:1	w	وَهُوَ	ﱥ	وهو	And He	wahuwa
+4	6:97:2	w	ٱلَّذِي	ﱦ	الذي	(is) the One Who	alladhī
+4	6:97:3	w	جَعَلَ	ﱧ	جعل	made	jaʿala
+4	6:97:4	w	لَكُمُ	ﱨ	لكم	for you	lakumu
+4	6:97:5	w	ٱلنُّجُومَ	ﱩ	النجوم	the stars	l-nujūma
+4	6:97:6	w	لِتَهۡتَدُواْ	ﱪ	لتهتدوا	that you may guide yourselves	litahtadū
+5	6:97:7	w	بِهَا	ﱫ	بها	with them	bihā
+5	6:97:8	w	فِي	ﱬ	في	in	fī
+5	6:97:9	w	ظُلُمَٰتِ	ﱭ	ظلمات	the darkness[es]	ẓulumāti
+5	6:97:10	w	ٱلۡبَرِّ	ﱮ	البر	(of) the land	l-bari
+5	6:97:11	w	وَٱلۡبَحۡرِۗ	ﱯﱰ	والبحر	and the sea	wal-baḥri
+5	6:97:12	w	قَدۡ	ﱱ	قد	Certainly	qad
+5	6:97:13	w	فَصَّلۡنَا	ﱲ	فصلنا	We have made clear	faṣṣalnā
+5	6:97:14	w	ٱلۡأٓيَٰتِ	ﱳ	الايات	the Signs	l-āyāti
+5	6:97:15	w	لِقَوۡمٖ	ﱴ	لقوم	for a people	liqawmin
+5	6:97:16	w	يَعۡلَمُونَ	ﱵ	يعلمون	(who) know	yaʿlamūna
+6	6:97:17	e	٩٧	ﱶ			
+6	6:98:1	w	وَهُوَ	ﱷ	وهو	And He	wahuwa
+6	6:98:2	w	ٱلَّذِيٓ	ﱸ	الذي	(is) the One Who	alladhī
+6	6:98:3	w	أَنشَأَكُم	ﱹ	انشاكم	(has) produced you	ansha-akum
+6	6:98:4	w	مِّن	ﱺ	من	from	min
+6	6:98:5	w	نَّفۡسٖ	ﱻ	نفس	a soul	nafsin
+6	6:98:6	w	وَٰحِدَةٖ	ﱼ	واحدة	single	wāḥidatin
+6	6:98:7	w	فَمُسۡتَقَرّٞ	ﱽ	فمستقر	so (there is) a place of dwelling	famus'taqarrun
+6	6:98:8	w	وَمُسۡتَوۡدَعٞۗ	ﱾﱿ	ومستودع	and a resting place	wamus'tawdaʿun
+7	6:98:9	w	قَدۡ	ﲀ	قد	Certainly	qad
+7	6:98:10	w	فَصَّلۡنَا	ﲁ	فصلنا	We have made clear	faṣṣalnā
+7	6:98:11	w	ٱلۡأٓيَٰتِ	ﲂ	الايات	the Signs	l-āyāti
+7	6:98:12	w	لِقَوۡمٖ	ﲃ	لقوم	for a people	liqawmin
+7	6:98:13	w	يَفۡقَهُونَ	ﲄ	يفقهون	(who) understand	yafqahūna
+7	6:98:14	e	٩٨	ﲅ			
+7	6:99:1	w	وَهُوَ	ﲆ	وهو	And He	wahuwa
+7	6:99:2	w	ٱلَّذِيٓ	ﲇ	الذي	(is) the One Who	alladhī
+7	6:99:3	w	أَنزَلَ	ﲈ	انزل	sends down	anzala
+7	6:99:4	w	مِنَ	ﲉ	من	from	mina
+8	6:99:5	w	ٱلسَّمَآءِ	ﲊ	السماء	the sky	l-samāi
+8	6:99:6	w	مَآءٗ	ﲋ	ماء	water	māan
+8	6:99:7	w	فَأَخۡرَجۡنَا	ﲌ	فاخرجنا	then We bring forth	fa-akhrajnā
+8	6:99:8	w	بِهِۦ	ﲍ	به	with it	bihi
+8	6:99:9	w	نَبَاتَ	ﲎ	نبات	vegetation	nabāta
+8	6:99:10	w	كُلِّ	ﲏ	كل	(of) every	kulli
+8	6:99:11	w	شَيۡءٖ	ﲐ	شيء	thing	shayin
+8	6:99:12	w	فَأَخۡرَجۡنَا	ﲑ	فاخرجنا	Then We bring forth	fa-akhrajnā
+8	6:99:13	w	مِنۡهُ	ﲒ	منه	from it	min'hu
+9	6:99:14	w	خَضِرٗا	ﲓ	خضرا	green plant	khaḍiran
+9	6:99:15	w	نُّخۡرِجُ	ﲔ	نخرج	We bring forth	nukh'riju
+9	6:99:16	w	مِنۡهُ	ﲕ	منه	from it	min'hu
+9	6:99:17	w	حَبّٗا	ﲖ	حبا	grain	ḥabban
+9	6:99:18	w	مُّتَرَاكِبٗا	ﲗ	متراكبا	thick clustered	mutarākiban
+9	6:99:19	w	وَمِنَ	ﲘ	ومن	And from	wamina
+9	6:99:20	w	ٱلنَّخۡلِ	ﲙ	النخل	the date-palm	l-nakhli
+9	6:99:21	w	مِن	ﲚ	من	from	min
+9	6:99:22	w	طَلۡعِهَا	ﲛ	طلعها	its spathe	ṭalʿihā
+9	6:99:23	w	قِنۡوَانٞ	ﲜ	قنوان	clusters of dates	qin'wānun
+10	6:99:24	w	دَانِيَةٞ	ﲝ	دانية	hanging low	dāniyatun
+10	6:99:25	w	وَجَنَّٰتٖ	ﲞ	وجنات	And gardens	wajannātin
+10	6:99:26	w	مِّنۡ	ﲟ	من	of	min
+10	6:99:27	w	أَعۡنَابٖ	ﲠ	اعناب	grapes	aʿnābin
+10	6:99:28	w	وَٱلزَّيۡتُونَ	ﲡ	والزيتون	and the olives	wal-zaytūna
+10	6:99:29	w	وَٱلرُّمَّانَ	ﲢ	والرمان	and the pomegranates	wal-rumāna
+10	6:99:30	w	مُشۡتَبِهٗا	ﲣ	مشتبها	resembling	mush'tabihan
+10	6:99:31	w	وَغَيۡرَ	ﲤ	وغير	and not	waghayra
+11	6:99:32	w	مُتَشَٰبِهٍۗ	ﲥﲦ	متشابه	resembling	mutashābihin
+11	6:99:33	w	ٱنظُرُوٓاْ	ﲧ	انظروا	Look	unẓurū
+11	6:99:34	w	إِلَىٰ	ﲨ	الى	at	ilā
+11	6:99:35	w	ثَمَرِهِۦٓ	ﲩ	ثمره	its fruit	thamarihi
+11	6:99:36	w	إِذَآ	ﲪ	اذا	when	idhā
+11	6:99:37	w	أَثۡمَرَ	ﲫ	اثمر	it bears fruit	athmara
+11	6:99:38	w	وَيَنۡعِهِۦٓۚ	ﲬﲭ	وينعه	and its ripening	wayanʿihi
+11	6:99:39	w	إِنَّ	ﲮ	ان	Indeed	inna
+11	6:99:40	w	فِي	ﲯ	في	in	fī
+11	6:99:41	w	ذَٰلِكُمۡ	ﲰ	ذالكم	that	dhālikum
+12	6:99:42	w	لَأٓيَٰتٖ	ﲱ	لايات	(are) signs	laāyātin
+12	6:99:43	w	لِّقَوۡمٖ	ﲲ	لقوم	for a people	liqawmin
+12	6:99:44	w	يُؤۡمِنُونَ	ﲳ	يومنون	(who) believe	yu'minūna
+12	6:99:45	e	٩٩	ﲴ			
+12	6:100:1	w	وَجَعَلُواْ	ﲵ	وجعلوا	And they make	wajaʿalū
+12	6:100:2	w	لِلَّهِ	ﲶ	لله	with Allah	lillahi
+12	6:100:3	w	شُرَكَآءَ	ﲷ	شركاء	partners	shurakāa
+12	6:100:4	w	ٱلۡجِنَّ	ﲸ	الجن	jinn	l-jina
+12	6:100:5	w	وَخَلَقَهُمۡۖ	ﲹﲺ	وخلقهم	though He has created them	wakhalaqahum
+13	6:100:6	w	وَخَرَقُواْ	ﲻ	وخرقوا	and they falsely attribute	wakharaqū
+13	6:100:7	w	لَهُۥ	ﲼ	له	to Him	lahu
+13	6:100:8	w	بَنِينَ	ﲽ	بنين	sons	banīna
+13	6:100:9	w	وَبَنَٰتِۭ	ﲾ	وبنات	and daughters	wabanātin
+13	6:100:10	w	بِغَيۡرِ	ﲿ	بغير	without	bighayri
+13	6:100:11	w	عِلۡمٖۚ	ﳀﳁ	علم	knowledge	ʿil'min
+13	6:100:12	w	سُبۡحَٰنَهُۥ	ﳂ	سبحانه	Glorified is He	sub'ḥānahu
+13	6:100:13	w	وَتَعَٰلَىٰ	ﳃ	وتعالى	and Exalted	wataʿālā
+13	6:100:14	w	عَمَّا	ﳄ	عما	above what	ʿammā
+13	6:100:15	w	يَصِفُونَ	ﳅ	يصفون	they attribute	yaṣifūna
+14	6:100:16	e	١٠٠	ﳆ			
+14	6:101:1	w	بَدِيعُ	ﳇ	بديع	Originator	badīʿu
+14	6:101:2	w	ٱلسَّمَٰوَٰتِ	ﳈ	السماوات	(of) the heavens	l-samāwāti
+14	6:101:3	w	وَٱلۡأَرۡضِۖ	ﳉﳊ	والارض	and the earth	wal-arḍi
+14	6:101:4	w	أَنَّىٰ	ﳋ	انى	How	annā
+14	6:101:5	w	يَكُونُ	ﳌ	يكون	can be	yakūnu
+14	6:101:6	w	لَهُۥ	ﳍ	له	for Him	lahu
+14	6:101:7	w	وَلَدٞ	ﳎ	ولد	a son	waladun
+14	6:101:8	w	وَلَمۡ	ﳏ	ولم	while not	walam
+14	6:101:9	w	تَكُن	ﳐ	تكن	(there) is	takun
+14	6:101:10	w	لَّهُۥ	ﳑ	له	for Him	lahu
+15	6:101:11	w	صَٰحِبَةٞۖ	ﳒﳓ	صاحبة	a companion	ṣāḥibatun
+15	6:101:12	w	وَخَلَقَ	ﳔ	وخلق	and He created	wakhalaqa
+15	6:101:13	w	كُلَّ	ﳕ	كل	every	kulla
+15	6:101:14	w	شَيۡءٖۖ	ﳖﳗ	شيء	thing	shayin
+15	6:101:15	w	وَهُوَ	ﳘ	وهو	And He	wahuwa
+15	6:101:16	w	بِكُلِّ	ﳙ	بكل	(is) of every	bikulli
+15	6:101:17	w	شَيۡءٍ	ﳚ	شيء	thing	shayin
+15	6:101:18	w	عَلِيمٞ	ﳛ	عليم	All-Knower	ʿalīmun
+15	6:101:19	e	١٠١	ﳜ			

@@ -1,0 +1,135 @@
+1	4:141:1	w	ٱلَّذِينَ	ﱁ	الذين	Those who	alladhīna
+1	4:141:2	w	يَتَرَبَّصُونَ	ﱂ	يتربصون	are waiting	yatarabbaṣūna
+1	4:141:3	w	بِكُمۡ	ﱃ	بكم	for you	bikum
+1	4:141:4	w	فَإِن	ﱄ	فان	Then if	fa-in
+1	4:141:5	w	كَانَ	ﱅ	كان	was	kāna
+1	4:141:6	w	لَكُمۡ	ﱆ	لكم	for you	lakum
+1	4:141:7	w	فَتۡحٞ	ﱇ	فتح	a victory	fatḥun
+1	4:141:8	w	مِّنَ	ﱈ	من	from	mina
+1	4:141:9	w	ٱللَّهِ	ﱉ	الله	Allah	l-lahi
+1	4:141:10	w	قَالُوٓاْ	ﱊ	قالوا	they say	qālū
+2	4:141:11	w	أَلَمۡ	ﱋ	الم	Were not	alam
+2	4:141:12	w	نَكُن	ﱌ	نكن	we	nakun
+2	4:141:13	w	مَّعَكُمۡ	ﱍ	معكم	with you	maʿakum
+2	4:141:14	w	وَإِن	ﱎ	وان	But if	wa-in
+2	4:141:15	w	كَانَ	ﱏ	كان	(there) was	kāna
+2	4:141:16	w	لِلۡكَٰفِرِينَ	ﱐ	للكافرين	for the disbelievers	lil'kāfirīna
+2	4:141:17	w	نَصِيبٞ	ﱑ	نصيب	a chance	naṣībun
+2	4:141:18	w	قَالُوٓاْ	ﱒ	قالوا	they said	qālū
+3	4:141:19	w	أَلَمۡ	ﱓ	الم	Did not	alam
+3	4:141:20	w	نَسۡتَحۡوِذۡ	ﱔ	نستحوذ	we have advantage	nastaḥwidh
+3	4:141:21	w	عَلَيۡكُمۡ	ﱕ	عليكم	over you	ʿalaykum
+3	4:141:22	w	وَنَمۡنَعۡكُم	ﱖ	ونمنعكم	and we protected you	wanamnaʿkum
+3	4:141:23	w	مِّنَ	ﱗ	من	from	mina
+3	4:141:24	w	ٱلۡمُؤۡمِنِينَۚ	ﱘﱙ	المومنين	the believers	l-mu'minīna
+3	4:141:25	w	فَٱللَّهُ	ﱚ	فالله	And Allah	fal-lahu
+3	4:141:26	w	يَحۡكُمُ	ﱛ	يحكم	will judge	yaḥkumu
+4	4:141:27	w	بَيۡنَكُمۡ	ﱜ	بينكم	between you	baynakum
+4	4:141:28	w	يَوۡمَ	ﱝ	يوم	(on the) Day	yawma
+4	4:141:29	w	ٱلۡقِيَٰمَةِۚ	ﱞﱟ	القيامة	(of) the Resurrection	l-qiyāmati
+4	4:141:30	w	وَلَن	ﱠ	ولن	and never	walan
+4	4:141:31	w	يَجۡعَلَ	ﱡ	يجعل	will make	yajʿala
+4	4:141:32	w	ٱللَّهُ	ﱢ	الله	Allah	l-lahu
+4	4:141:33	w	لِلۡكَٰفِرِينَ	ﱣ	للكافرين	for the disbelievers	lil'kāfirīna
+4	4:141:34	w	عَلَى	ﱤ	على	over	ʿalā
+4	4:141:35	w	ٱلۡمُؤۡمِنِينَ	ﱥ	المومنين	the believers	l-mu'minīna
+5	4:141:36	w	سَبِيلًا	ﱦ	سبيلا	a way	sabīlan
+5	4:141:37	e	١٤١	ﱧ			
+5	4:142:1	w	إِنَّ	ﱨ	ان	Indeed	inna
+5	4:142:2	w	ٱلۡمُنَٰفِقِينَ	ﱩ	المنافقين	the hypocrites	l-munāfiqīna
+5	4:142:3	w	يُخَٰدِعُونَ	ﱪ	يخادعون	(seek to) deceive	yukhādiʿūna
+5	4:142:4	w	ٱللَّهَ	ﱫ	الله	Allah	l-laha
+5	4:142:5	w	وَهُوَ	ﱬ	وهو	and (it is) He	wahuwa
+5	4:142:6	w	خَٰدِعُهُمۡ	ﱭ	خادعهم	who deceives them	khādiʿuhum
+5	4:142:7	w	وَإِذَا	ﱮ	واذا	And when	wa-idhā
+6	4:142:8	w	قَامُوٓاْ	ﱯ	قاموا	they stand	qāmū
+6	4:142:9	w	إِلَى	ﱰ	الى	for	ilā
+6	4:142:10	w	ٱلصَّلَوٰةِ	ﱱ	الصلاة	the prayer	l-ṣalati
+6	4:142:11	w	قَامُواْ	ﱲ	قاموا	they stand	qāmū
+6	4:142:12	w	كُسَالَىٰ	ﱳ	كسالى	lazily	kusālā
+6	4:142:13	w	يُرَآءُونَ	ﱴ	يراءون	showing off	yurāūna
+6	4:142:14	w	ٱلنَّاسَ	ﱵ	الناس	(to) the people	l-nāsa
+6	4:142:15	w	وَلَا	ﱶ	ولا	and not	walā
+6	4:142:16	w	يَذۡكُرُونَ	ﱷ	يذكرون	they remember	yadhkurūna
+7	4:142:17	w	ٱللَّهَ	ﱸ	الله	Allah	l-laha
+7	4:142:18	w	إِلَّا	ﱹ	الا	except	illā
+7	4:142:19	w	قَلِيلٗا	ﱺ	قليلا	a little	qalīlan
+7	4:142:20	e	١٤٢	ﱻ			
+7	4:143:1	w	مُّذَبۡذَبِينَ	ﱼ	مذبذبين	Wavering	mudhabdhabīna
+7	4:143:2	w	بَيۡنَ	ﱽ	بين	between	bayna
+7	4:143:3	w	ذَٰلِكَ	ﱾ	ذالك	that	dhālika
+7	4:143:4	w	لَآ	ﱿ	لا	not	lā
+7	4:143:5	w	إِلَىٰ	ﲀ	الى	to	ilā
+7	4:143:6	w	هَٰٓؤُلَآءِ	ﲁ	هاولاء	these	hāulāi
+7	4:143:7	w	وَلَآ	ﲂ	ولا	and not	walā
+7	4:143:8	w	إِلَىٰ	ﲃ	الى	to	ilā
+8	4:143:9	w	هَٰٓؤُلَآءِۚ	ﲄﲅ	هاولاء	those	hāulāi
+8	4:143:10	w	وَمَن	ﲆ	ومن	And whoever	waman
+8	4:143:11	w	يُضۡلِلِ	ﲇ	يضلل	has been lead astray	yuḍ'lili
+8	4:143:12	w	ٱللَّهُ	ﲈ	الله	(by) Allah	l-lahu
+8	4:143:13	w	فَلَن	ﲉ	فلن	then never	falan
+8	4:143:14	w	تَجِدَ	ﲊ	تجد	you will find	tajida
+8	4:143:15	w	لَهُۥ	ﲋ	له	for him	lahu
+8	4:143:16	w	سَبِيلٗا	ﲌ	سبيلا	a way	sabīlan
+8	4:143:17	e	١٤٣	ﲍ			
+8	4:144:1	w	يَٰٓأَيُّهَا	ﲎ	يا ايها	O you	yāayyuhā
+8	4:144:2	w	ٱلَّذِينَ	ﲏ	الذين	who	alladhīna
+9	4:144:3	w	ءَامَنُواْ	ﲐ	امنوا	believe[d]	āmanū
+9	4:144:4	w	لَا	ﲑ	لا	(Do) not	lā
+9	4:144:5	w	تَتَّخِذُواْ	ﲒ	تتخذوا	take	tattakhidhū
+9	4:144:6	w	ٱلۡكَٰفِرِينَ	ﲓ	الكافرين	the disbelievers	l-kāfirīna
+9	4:144:7	w	أَوۡلِيَآءَ	ﲔ	اولياء	(as) allies	awliyāa
+9	4:144:8	w	مِن	ﲕ	من	from	min
+9	4:144:9	w	دُونِ	ﲖ	دون	instead of	dūni
+9	4:144:10	w	ٱلۡمُؤۡمِنِينَۚ	ﲗﲘ	المومنين	the believers	l-mu'minīna
+10	4:144:11	w	أَتُرِيدُونَ	ﲙ	اتريدون	Do you wish	aturīdūna
+10	4:144:12	w	أَن	ﲚ	ان	that	an
+10	4:144:13	w	تَجۡعَلُواْ	ﲛ	تجعلوا	you make	tajʿalū
+10	4:144:14	w	لِلَّهِ	ﲜ	لله	for Allah	lillahi
+10	4:144:15	w	عَلَيۡكُمۡ	ﲝ	عليكم	against you	ʿalaykum
+10	4:144:16	w	سُلۡطَٰنٗا	ﲞ	سلطانا	an evidence	sul'ṭānan
+10	4:144:17	w	مُّبِينًا	ﲟ	مبينا	clear	mubīnan
+10	4:144:18	e	١٤٤	ﲠ			
+10	4:145:1	w	إِنَّ	ﲡ	ان	Indeed	inna
+11	4:145:2	w	ٱلۡمُنَٰفِقِينَ	ﲢ	المنافقين	the hypocrites	l-munāfiqīna
+11	4:145:3	w	فِي	ﲣ	في	(will be) in	fī
+11	4:145:4	w	ٱلدَّرۡكِ	ﲤ	الدرك	the depths	l-darki
+11	4:145:5	w	ٱلۡأَسۡفَلِ	ﲥ	الاسفل	the lowest	l-asfali
+11	4:145:6	w	مِنَ	ﲦ	من	of	mina
+11	4:145:7	w	ٱلنَّارِ	ﲧ	النار	the Fire	l-nāri
+11	4:145:8	w	وَلَن	ﲨ	ولن	and never	walan
+11	4:145:9	w	تَجِدَ	ﲩ	تجد	you will find	tajida
+11	4:145:10	w	لَهُمۡ	ﲪ	لهم	for them	lahum
+11	4:145:11	w	نَصِيرًا	ﲫ	نصيرا	any helper	naṣīran
+12	4:145:12	e	١٤٥	ﲬ			
+12	4:146:1	w	إِلَّا	ﲭ	الا	Except	illā
+12	4:146:2	w	ٱلَّذِينَ	ﲮ	الذين	those who	alladhīna
+12	4:146:3	w	تَابُواْ	ﲯ	تابوا	repent	tābū
+12	4:146:4	w	وَأَصۡلَحُواْ	ﲰ	واصلحوا	and correct (themselves)	wa-aṣlaḥū
+12	4:146:5	w	وَٱعۡتَصَمُواْ	ﲱ	واعتصموا	and hold fast	wa-iʿ'taṣamū
+12	4:146:6	w	بِٱللَّهِ	ﲲ	بالله	to Allah	bil-lahi
+12	4:146:7	w	وَأَخۡلَصُواْ	ﲳ	واخلصوا	and are sincere	wa-akhlaṣū
+13	4:146:8	w	دِينَهُمۡ	ﲴ	دينهم	(in) their religion	dīnahum
+13	4:146:9	w	لِلَّهِ	ﲵ	لله	for Allah	lillahi
+13	4:146:10	w	فَأُوْلَٰٓئِكَ	ﲶ	فاولايك	then those (will be)	fa-ulāika
+13	4:146:11	w	مَعَ	ﲷ	مع	with	maʿa
+13	4:146:12	w	ٱلۡمُؤۡمِنِينَۖ	ﲸﲹ	المومنين	the believers	l-mu'minīna
+13	4:146:13	w	وَسَوۡفَ	ﲺ	وسوف	And soon	wasawfa
+13	4:146:14	w	يُؤۡتِ	ﲻ	يوت	will be given	yu'ti
+13	4:146:15	w	ٱللَّهُ	ﲼ	الله	(by) Allah	l-lahu
+14	4:146:16	w	ٱلۡمُؤۡمِنِينَ	ﲽ	المومنين	the believers	l-mu'minīna
+14	4:146:17	w	أَجۡرًا	ﲾ	اجرا	a reward	ajran
+14	4:146:18	w	عَظِيمٗا	ﲿ	عظيما	great	ʿaẓīman
+14	4:146:19	e	١٤٦	ﳀ			
+14	4:147:1	w	مَّا	ﳁ	ما	What	mā
+14	4:147:2	w	يَفۡعَلُ	ﳂ	يفعل	would do	yafʿalu
+14	4:147:3	w	ٱللَّهُ	ﳃ	الله	Allah	l-lahu
+14	4:147:4	w	بِعَذَابِكُمۡ	ﳄ	بعذابكم	by punishing you	biʿadhābikum
+15	4:147:5	w	إِن	ﳅ	ان	if	in
+15	4:147:6	w	شَكَرۡتُمۡ	ﳆ	شكرتم	you are grateful	shakartum
+15	4:147:7	w	وَءَامَنتُمۡۚ	ﳇﳈ	وامنتم	and you believe	waāmantum
+15	4:147:8	w	وَكَانَ	ﳉ	وكان	And is	wakāna
+15	4:147:9	w	ٱللَّهُ	ﳊ	الله	Allah	l-lahu
+15	4:147:10	w	شَاكِرًا	ﳋ	شاكرا	All-Appreciative	shākiran
+15	4:147:11	w	عَلِيمٗا	ﳌ	عليما	All-Knowing	ʿalīman
+15	4:147:12	e	١٤٧	ﳍ			

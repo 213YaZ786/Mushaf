@@ -1,0 +1,124 @@
+2	89:24:1	w	يَقُولُ	ﱌ	يقول	He will say	yaqūlu
+2	89:24:2	w	يَٰلَيۡتَنِي	ﱍ	يا ليتني	O I wish	yālaytanī
+2	89:24:3	w	قَدَّمۡتُ	ﱎ	قدمت	I had sent forth	qaddamtu
+2	89:24:4	w	لِحَيَاتِي	ﱏ	لحياتي	for my life	liḥayātī
+2	89:24:5	e	٢٤	ﱐ			
+2	89:25:1	w	فَيَوۡمَئِذٖ	ﱑ	فيوميذ	So that Day	fayawma-idhin
+3	89:25:2	w	لَّا	ﱒ	لا	not	lā
+3	89:25:3	w	يُعَذِّبُ	ﱓ	يعذب	will punish	yuʿadhibu
+3	89:25:4	w	عَذَابَهُۥٓ	ﱔ	عذابه	(as) His punishment	ʿadhābahu
+3	89:25:5	w	أَحَدٞ	ﱕ	احد	anyone	aḥadun
+3	89:25:6	e	٢٥	ﱖ			
+3	89:26:1	w	وَلَا	ﱗ	ولا	And not	walā
+3	89:26:2	w	يُوثِقُ	ﱘ	يوثق	will bind	yūthiqu
+3	89:26:3	w	وَثَاقَهُۥٓ	ﱙ	وثاقه	(as) His binding	wathāqahu
+3	89:26:4	w	أَحَدٞ	ﱚ	احد	anyone	aḥadun
+3	89:26:5	e	٢٦	ﱛ			
+3	89:27:1	w	يَٰٓأَيَّتُهَا	ﱜ	يا ايتها	O	yāayyatuhā
+4	89:27:2	w	ٱلنَّفۡسُ	ﱝ	النفس	soul	l-nafsu
+4	89:27:3	w	ٱلۡمُطۡمَئِنَّةُ	ﱞ	المطمينة	who is satisfied	l-muṭ'ma-inatu
+4	89:27:4	e	٢٧	ﱟ			
+4	89:28:1	w	ٱرۡجِعِيٓ	ﱠ	ارجعي	Return	ir'jiʿī
+4	89:28:2	w	إِلَىٰ	ﱡ	الى	to	ilā
+4	89:28:3	w	رَبِّكِ	ﱢ	ربك	your Lord	rabbiki
+4	89:28:4	w	رَاضِيَةٗ	ﱣ	راضية	well pleased	rāḍiyatan
+4	89:28:5	w	مَّرۡضِيَّةٗ	ﱤ	مرضية	and pleasing	marḍiyyatan
+4	89:28:6	e	٢٨	ﱥ			
+5	89:29:1	w	فَٱدۡخُلِي	ﱦ	فادخلي	So enter	fa-ud'khulī
+5	89:29:2	w	فِي	ﱧ	في	among	fī
+5	89:29:3	w	عِبَٰدِي	ﱨ	عبادي	My slaves	ʿibādī
+5	89:29:4	e	٢٩	ﱩ			
+5	89:30:1	w	وَٱدۡخُلِي	ﱪ	وادخلي	And enter	wa-ud'khulī
+5	89:30:2	w	جَنَّتِي	ﱫ	جنتي	My Paradise	jannatī
+5	89:30:3	e	٣٠	ﱬ			
+8	90:1:1	w	لَآ	ﱭ	لا	Nay	lā
+8	90:1:2	w	أُقۡسِمُ	ﱮ	اقسم	I swear	uq'simu
+8	90:1:3	w	بِهَٰذَا	ﱯ	بهاذا	by this	bihādhā
+8	90:1:4	w	ٱلۡبَلَدِ	ﱰ	البلد	city	l-baladi
+8	90:1:5	e	١	ﱱ			
+8	90:2:1	w	وَأَنتَ	ﱲ	وانت	And you	wa-anta
+8	90:2:2	w	حِلُّۢ	ﱳ	حل	(are) free (to dwell)	ḥillun
+8	90:2:3	w	بِهَٰذَا	ﱴ	بهاذا	in this	bihādhā
+8	90:2:4	w	ٱلۡبَلَدِ	ﱵ	البلد	city	l-baladi
+8	90:2:5	e	٢	ﱶ			
+8	90:3:1	w	وَوَالِدٖ	ﱷ	ووالد	And the begetter	wawālidin
+8	90:3:2	w	وَمَا	ﱸ	وما	and what	wamā
+8	90:3:3	w	وَلَدَ	ﱹ	ولد	he begot	walada
+9	90:3:4	e	٣	ﱺ			
+9	90:4:1	w	لَقَدۡ	ﱻ	لقد	Certainly	laqad
+9	90:4:2	w	خَلَقۡنَا	ﱼ	خلقنا	We have created	khalaqnā
+9	90:4:3	w	ٱلۡإِنسَٰنَ	ﱽ	الانسان	man	l-insāna
+9	90:4:4	w	فِي	ﱾ	في	(to be) in	fī
+9	90:4:5	w	كَبَدٍ	ﱿ	كبد	hardship	kabadin
+9	90:4:6	e	٤	ﲀ			
+9	90:5:1	w	أَيَحۡسَبُ	ﲁ	ايحسب	Does he think	ayaḥsabu
+9	90:5:2	w	أَن	ﲂ	ان	that	an
+9	90:5:3	w	لَّن	ﲃ	لن	not	lan
+9	90:5:4	w	يَقۡدِرَ	ﲄ	يقدر	has power	yaqdira
+9	90:5:5	w	عَلَيۡهِ	ﲅ	عليه	over him	ʿalayhi
+10	90:5:6	w	أَحَدٞ	ﲆ	احد	anyone	aḥadun
+10	90:5:7	e	٥	ﲇ			
+10	90:6:1	w	يَقُولُ	ﲈ	يقول	He will say	yaqūlu
+10	90:6:2	w	أَهۡلَكۡتُ	ﲉ	اهلكت	I have squandered	ahlaktu
+10	90:6:3	w	مَالٗا	ﲊ	مالا	wealth	mālan
+10	90:6:4	w	لُّبَدًا	ﲋ	لبدا	abundant	lubadan
+10	90:6:5	e	٦	ﲌ			
+10	90:7:1	w	أَيَحۡسَبُ	ﲍ	ايحسب	Does he think	ayaḥsabu
+10	90:7:2	w	أَن	ﲎ	ان	that	an
+10	90:7:3	w	لَّمۡ	ﲏ	لم	not	lam
+10	90:7:4	w	يَرَهُۥٓ	ﲐ	يره	sees him	yarahu
+10	90:7:5	w	أَحَدٌ	ﲑ	احد	anyone	aḥadun
+11	90:7:6	e	٧	ﲒ			
+11	90:8:1	w	أَلَمۡ	ﲓ	الم	Have not	alam
+11	90:8:2	w	نَجۡعَل	ﲔ	نجعل	We made	najʿal
+11	90:8:3	w	لَّهُۥ	ﲕ	له	for him	lahu
+11	90:8:4	w	عَيۡنَيۡنِ	ﲖ	عينين	two eyes	ʿaynayni
+11	90:8:5	e	٨	ﲗ			
+11	90:9:1	w	وَلِسَانٗا	ﲘ	ولسانا	And a tongue	walisānan
+11	90:9:2	w	وَشَفَتَيۡنِ	ﲙ	وشفتين	and two lips	washafatayni
+11	90:9:3	e	٩	ﲚ			
+11	90:10:1	w	وَهَدَيۡنَٰهُ	ﲛ	وهديناه	And shown him	wahadaynāhu
+12	90:10:2	w	ٱلنَّجۡدَيۡنِ	ﲜ	النجدين	the two ways	l-najdayni
+12	90:10:3	e	١٠	ﲝ			
+12	90:11:1	w	فَلَا	ﲞ	فلا	But not	falā
+12	90:11:2	w	ٱقۡتَحَمَ	ﲟ	اقتحم	he has attempted	iq'taḥama
+12	90:11:3	w	ٱلۡعَقَبَةَ	ﲠ	العقبة	the steep path	l-ʿaqabata
+12	90:11:4	e	١١	ﲡ			
+12	90:12:1	w	وَمَآ	ﲢ	وما	And what	wamā
+12	90:12:2	w	أَدۡرَىٰكَ	ﲣ	ادراك	can make you know	adrāka
+12	90:12:3	w	مَا	ﲤ	ما	what	mā
+12	90:12:4	w	ٱلۡعَقَبَةُ	ﲥ	العقبة	the steep path (is)	l-ʿaqabatu
+12	90:12:5	e	١٢	ﲦ			
+13	90:13:1	w	فَكُّ	ﲧ	فك	(It is) freeing	fakku
+13	90:13:2	w	رَقَبَةٍ	ﲨ	رقبة	a neck	raqabatin
+13	90:13:3	e	١٣	ﲩ			
+13	90:14:1	w	أَوۡ	ﲪ	او	Or	aw
+13	90:14:2	w	إِطۡعَٰمٞ	ﲫ	اطعام	feeding	iṭ'ʿāmun
+13	90:14:3	w	فِي	ﲬ	في	in	fī
+13	90:14:4	w	يَوۡمٖ	ﲭ	يوم	a day	yawmin
+13	90:14:5	w	ذِي	ﲮ	ذي	of	dhī
+13	90:14:6	w	مَسۡغَبَةٖ	ﲯ	مسغبة	severe hunger	masghabatin
+13	90:14:7	e	١٤	ﲰ			
+13	90:15:1	w	يَتِيمٗا	ﲱ	يتيما	An orphan	yatīman
+13	90:15:2	w	ذَا	ﲲ	ذا	of	dhā
+13	90:15:3	w	مَقۡرَبَةٍ	ﲳ	مقربة	near relationship	maqrabatin
+14	90:15:4	e	١٥	ﲴ			
+14	90:16:1	w	أَوۡ	ﲵ	او	Or	aw
+14	90:16:2	w	مِسۡكِينٗا	ﲶ	مسكينا	a needy person	mis'kīnan
+14	90:16:3	w	ذَا	ﲷ	ذا	in	dhā
+14	90:16:4	w	مَتۡرَبَةٖ	ﲸ	متربة	misery	matrabatin
+14	90:16:5	e	١٦	ﲹ			
+14	90:17:1	w	ثُمَّ	ﲺ	ثم	Then	thumma
+14	90:17:2	w	كَانَ	ﲻ	كان	he is	kāna
+14	90:17:3	w	مِنَ	ﲼ	من	of	mina
+14	90:17:4	w	ٱلَّذِينَ	ﲽ	الذين	those who	alladhīna
+14	90:17:5	w	ءَامَنُواْ	ﲾ	امنوا	believe	āmanū
+14	90:17:6	w	وَتَوَاصَوۡاْ	ﲿ	وتواصوا	and enjoin (each other)	watawāṣaw
+15	90:17:7	w	بِٱلصَّبۡرِ	ﳀ	بالصبر	to patience	bil-ṣabri
+15	90:17:8	w	وَتَوَاصَوۡاْ	ﳁ	وتواصوا	and enjoin (each other)	watawāṣaw
+15	90:17:9	w	بِٱلۡمَرۡحَمَةِ	ﳂ	بالمرحمة	to compassion	bil-marḥamati
+15	90:17:10	e	١٧	ﳃ			
+15	90:18:1	w	أُوْلَٰٓئِكَ	ﳄ	اولايك	Those	ulāika
+15	90:18:2	w	أَصۡحَٰبُ	ﳅ	اصحاب	(are the) companions	aṣḥābu
+15	90:18:3	w	ٱلۡمَيۡمَنَةِ	ﳆ	الميمنة	(of) the right (hand)	l-maymanati
+15	90:18:4	e	١٨	ﳇ			

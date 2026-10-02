@@ -1,0 +1,143 @@
+1	69:36:1	w	وَلَا	ﱁ	ولا	And not	walā
+1	69:36:2	w	طَعَامٌ	ﱂ	طعام	any food	ṭaʿāmun
+1	69:36:3	w	إِلَّا	ﱃ	الا	except	illā
+1	69:36:4	w	مِنۡ	ﱄ	من	from	min
+1	69:36:5	w	غِسۡلِينٖ	ﱅ	غسلين	(the) discharge of wounds	ghis'līnin
+1	69:36:6	e	٣٦	ﱆ			
+1	69:37:1	w	لَّا	ﱇ	لا	Not	lā
+1	69:37:2	w	يَأۡكُلُهُۥٓ	ﱈ	ياكله	will eat it	yakuluhu
+1	69:37:3	w	إِلَّا	ﱉ	الا	except	illā
+1	69:37:4	w	ٱلۡخَٰطِـُٔونَ	ﱊ	الخاطيون	the sinners	l-khāṭiūna
+1	69:37:5	e	٣٧	ﱋ			
+1	69:38:1	w	فَلَآ	ﱌ	فلا	But nay	falā
+1	69:38:2	w	أُقۡسِمُ	ﱍ	اقسم	I swear	uq'simu
+2	69:38:3	w	بِمَا	ﱎ	بما	by what	bimā
+2	69:38:4	w	تُبۡصِرُونَ	ﱏ	تبصرون	you see	tub'ṣirūna
+2	69:38:5	e	٣٨	ﱐ			
+2	69:39:1	w	وَمَا	ﱑ	وما	And what	wamā
+2	69:39:2	w	لَا	ﱒ	لا	not	lā
+2	69:39:3	w	تُبۡصِرُونَ	ﱓ	تبصرون	you see	tub'ṣirūna
+2	69:39:4	e	٣٩	ﱔ			
+2	69:40:1	w	إِنَّهُۥ	ﱕ	انه	Indeed, it (is)	innahu
+2	69:40:2	w	لَقَوۡلُ	ﱖ	لقول	surely (the) Word	laqawlu
+2	69:40:3	w	رَسُولٖ	ﱗ	رسول	(of) a Messenger	rasūlin
+2	69:40:4	w	كَرِيمٖ	ﱘ	كريم	noble	karīmin
+2	69:40:5	e	٤٠	ﱙ			
+2	69:41:1	w	وَمَا	ﱚ	وما	And not	wamā
+2	69:41:2	w	هُوَ	ﱛ	هو	it	huwa
+3	69:41:3	w	بِقَوۡلِ	ﱜ	بقول	(is the) word	biqawli
+3	69:41:4	w	شَاعِرٖۚ	ﱝﱞ	شاعر	(of) a poet	shāʿirin
+3	69:41:5	w	قَلِيلٗا	ﱟ	قليلا	little	qalīlan
+3	69:41:6	w	مَّا	ﱠ	ما	(is) what	mā
+3	69:41:7	w	تُؤۡمِنُونَ	ﱡ	تومنون	you believe	tu'minūna
+3	69:41:8	e	٤١	ﱢ			
+3	69:42:1	w	وَلَا	ﱣ	ولا	And not	walā
+3	69:42:2	w	بِقَوۡلِ	ﱤ	بقول	(it is the) word	biqawli
+3	69:42:3	w	كَاهِنٖۚ	ﱥﱦ	كاهن	(of) a soothsayer	kāhinin
+3	69:42:4	w	قَلِيلٗا	ﱧ	قليلا	little	qalīlan
+3	69:42:5	w	مَّا	ﱨ	ما	(is) what	mā
+3	69:42:6	w	تَذَكَّرُونَ	ﱩ	تذكرون	you take heed	tadhakkarūna
+4	69:42:7	e	٤٢	ﱪ			
+4	69:43:1	w	تَنزِيلٞ	ﱫ	تنزيل	(It is) a revelation	tanzīlun
+4	69:43:2	w	مِّن	ﱬ	من	from	min
+4	69:43:3	w	رَّبِّ	ﱭ	رب	(the) Lord	rabbi
+4	69:43:4	w	ٱلۡعَٰلَمِينَ	ﱮ	العالمين	(of) the worlds	l-ʿālamīna
+4	69:43:5	e	٤٣	ﱯ			
+4	69:44:1	w	وَلَوۡ	ﱰ	ولو	And if	walaw
+4	69:44:2	w	تَقَوَّلَ	ﱱ	تقول	he (had) fabricated	taqawwala
+4	69:44:3	w	عَلَيۡنَا	ﱲ	علينا	against Us	ʿalaynā
+4	69:44:4	w	بَعۡضَ	ﱳ	بعض	some	baʿḍa
+4	69:44:5	w	ٱلۡأَقَاوِيلِ	ﱴ	الاقاويل	sayings	l-aqāwīli
+4	69:44:6	e	٤٤	ﱵ			
+5	69:45:1	w	لَأَخَذۡنَا	ﱶ	لاخذنا	Certainly We (would) have seized	la-akhadhnā
+5	69:45:2	w	مِنۡهُ	ﱷ	منه	him	min'hu
+5	69:45:3	w	بِٱلۡيَمِينِ	ﱸ	باليمين	by the right hand	bil-yamīni
+5	69:45:4	e	٤٥	ﱹ			
+5	69:46:1	w	ثُمَّ	ﱺ	ثم	Then	thumma
+5	69:46:2	w	لَقَطَعۡنَا	ﱻ	لقطعنا	certainly We (would) have cut off	laqaṭaʿnā
+5	69:46:3	w	مِنۡهُ	ﱼ	منه	from him	min'hu
+5	69:46:4	w	ٱلۡوَتِينَ	ﱽ	الوتين	the aorta	l-watīna
+5	69:46:5	e	٤٦	ﱾ			
+5	69:47:1	w	فَمَا	ﱿ	فما	And not	famā
+5	69:47:2	w	مِنكُم	ﲀ	منكم	from you	minkum
+6	69:47:3	w	مِّنۡ	ﲁ	من	any	min
+6	69:47:4	w	أَحَدٍ	ﲂ	احد	one	aḥadin
+6	69:47:5	w	عَنۡهُ	ﲃ	عنه	[from him]	ʿanhu
+6	69:47:6	w	حَٰجِزِينَ	ﲄ	حاجزين	(who could) prevent (it)	ḥājizīna
+6	69:47:7	e	٤٧	ﲅ			
+6	69:48:1	w	وَإِنَّهُۥ	ﲆ	وانه	And indeed, it	wa-innahu
+6	69:48:2	w	لَتَذۡكِرَةٞ	ﲇ	لتذكرة	(is) surely a reminder	latadhkiratun
+6	69:48:3	w	لِّلۡمُتَّقِينَ	ﲈ	للمتقين	for the Allah-fearing	lil'muttaqīna
+6	69:48:4	e	٤٨	ﲉ			
+6	69:49:1	w	وَإِنَّا	ﲊ	وانا	And indeed, We	wa-innā
+7	69:49:2	w	لَنَعۡلَمُ	ﲋ	لنعلم	surely know	lanaʿlamu
+7	69:49:3	w	أَنَّ	ﲌ	ان	that	anna
+7	69:49:4	w	مِنكُم	ﲍ	منكم	among you	minkum
+7	69:49:5	w	مُّكَذِّبِينَ	ﲎ	مكذبين	(are) deniers	mukadhibīna
+7	69:49:6	e	٤٩	ﲏ			
+7	69:50:1	w	وَإِنَّهُۥ	ﲐ	وانه	And indeed, it	wa-innahu
+7	69:50:2	w	لَحَسۡرَةٌ	ﲑ	لحسرة	(is) surely a regret	laḥasratun
+7	69:50:3	w	عَلَى	ﲒ	على	upon	ʿalā
+7	69:50:4	w	ٱلۡكَٰفِرِينَ	ﲓ	الكافرين	the disbelievers	l-kāfirīna
+8	69:50:5	e	٥٠	ﲔ			
+8	69:51:1	w	وَإِنَّهُۥ	ﲕ	وانه	And indeed, it (is)	wa-innahu
+8	69:51:2	w	لَحَقُّ	ﲖ	لحق	surely (the) truth	laḥaqqu
+8	69:51:3	w	ٱلۡيَقِينِ	ﲗ	اليقين	(of) certainty	l-yaqīni
+8	69:51:4	e	٥١	ﲘ			
+8	69:52:1	w	فَسَبِّحۡ	ﲙ	فسبح	So glorify	fasabbiḥ
+8	69:52:2	w	بِٱسۡمِ	ﲚ	باسم	(the) name	bi-is'mi
+8	69:52:3	w	رَبِّكَ	ﲛ	ربك	(of) your Lord	rabbika
+8	69:52:4	w	ٱلۡعَظِيمِ	ﲜ	العظيم	the Most Great	l-ʿaẓīmi
+8	69:52:5	e	٥٢	ﲝ			
+11	70:1:1	w	سَأَلَ	ﲞ	سال	Asked	sa-ala
+11	70:1:2	w	سَآئِلُۢ	ﲟ	سايل	a questioner	sāilun
+11	70:1:3	w	بِعَذَابٖ	ﲠ	بعذاب	about a punishment	biʿadhābin
+11	70:1:4	w	وَاقِعٖ	ﲡ	واقع	bound to happen	wāqiʿin
+11	70:1:5	e	١	ﲢ			
+11	70:2:1	w	لِّلۡكَٰفِرِينَ	ﲣ	للكافرين	To the disbelievers	lil'kāfirīna
+11	70:2:2	w	لَيۡسَ	ﲤ	ليس	not	laysa
+11	70:2:3	w	لَهُۥ	ﲥ	له	of it	lahu
+11	70:2:4	w	دَافِعٞ	ﲦ	دافع	any preventer	dāfiʿun
+11	70:2:5	e	٢	ﲧ			
+12	70:3:1	w	مِّنَ	ﲨ	من	From	mina
+12	70:3:2	w	ٱللَّهِ	ﲩ	الله	Allah	l-lahi
+12	70:3:3	w	ذِي	ﲪ	ذي	Owner	dhī
+12	70:3:4	w	ٱلۡمَعَارِجِ	ﲫ	المعارج	(of) the ways of ascent	l-maʿāriji
+12	70:3:5	e	٣	ﲬ			
+12	70:4:1	w	تَعۡرُجُ	ﲭ	تعرج	Ascend	taʿruju
+12	70:4:2	w	ٱلۡمَلَٰٓئِكَةُ	ﲮ	الملايكة	the Angels	l-malāikatu
+12	70:4:3	w	وَٱلرُّوحُ	ﲯ	والروح	and the Spirit	wal-rūḥu
+12	70:4:4	w	إِلَيۡهِ	ﲰ	اليه	to Him	ilayhi
+13	70:4:5	w	فِي	ﲱ	في	in	fī
+13	70:4:6	w	يَوۡمٖ	ﲲ	يوم	a Day	yawmin
+13	70:4:7	w	كَانَ	ﲳ	كان	[is]	kāna
+13	70:4:8	w	مِقۡدَارُهُۥ	ﲴ	مقداره	its measure	miq'dāruhu
+13	70:4:9	w	خَمۡسِينَ	ﲵ	خمسين	(is) fifty	khamsīna
+13	70:4:10	w	أَلۡفَ	ﲶ	الف	thousand	alfa
+13	70:4:11	w	سَنَةٖ	ﲷ	سنة	year(s)	sanatin
+13	70:4:12	e	٤	ﲸ			
+13	70:5:1	w	فَٱصۡبِرۡ	ﲹ	فاصبر	So be patient	fa-iṣ'bir
+13	70:5:2	w	صَبۡرٗا	ﲺ	صبرا	a patience	ṣabran
+13	70:5:3	w	جَمِيلًا	ﲻ	جميلا	good	jamīlan
+14	70:5:4	e	٥	ﲼ			
+14	70:6:1	w	إِنَّهُمۡ	ﲽ	انهم	Indeed, they	innahum
+14	70:6:2	w	يَرَوۡنَهُۥ	ﲾ	يرونه	see it	yarawnahu
+14	70:6:3	w	بَعِيدٗا	ﲿ	بعيدا	(as) far off	baʿīdan
+14	70:6:4	e	٦	ﳀ			
+14	70:7:1	w	وَنَرَىٰهُ	ﳁ	ونراه	But We see it	wanarāhu
+14	70:7:2	w	قَرِيبٗا	ﳂ	قريبا	near	qarīban
+14	70:7:3	e	٧	ﳃ			
+14	70:8:1	w	يَوۡمَ	ﳄ	يوم	(The) Day	yawma
+14	70:8:2	w	تَكُونُ	ﳅ	تكون	will be	takūnu
+14	70:8:3	w	ٱلسَّمَآءُ	ﳆ	السماء	the sky	l-samāu
+15	70:8:4	w	كَٱلۡمُهۡلِ	ﳇ	كالمهل	like molten copper	kal-muh'li
+15	70:8:5	e	٨	ﳈ			
+15	70:9:1	w	وَتَكُونُ	ﳉ	وتكون	And will be	watakūnu
+15	70:9:2	w	ٱلۡجِبَالُ	ﳊ	الجبال	the mountains	l-jibālu
+15	70:9:3	w	كَٱلۡعِهۡنِ	ﳋ	كالعهن	like wool	kal-ʿih'ni
+15	70:9:4	e	٩	ﳌ			
+15	70:10:1	w	وَلَا	ﳍ	ولا	And not	walā
+15	70:10:2	w	يَسۡـَٔلُ	ﳎ	يسال	will ask	yasalu
+15	70:10:3	w	حَمِيمٌ	ﳏ	حميم	a friend	ḥamīmun
+15	70:10:4	w	حَمِيمٗا	ﳐ	حميما	(about) a friend	ḥamīman
+15	70:10:5	e	١٠	ﳑ			

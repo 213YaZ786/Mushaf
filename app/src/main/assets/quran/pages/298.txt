@@ -1,0 +1,163 @@
+1	18:35:1	w	وَدَخَلَ	ﱁ	ودخل	And he entered	wadakhala
+1	18:35:2	w	جَنَّتَهُۥ	ﱂ	جنته	his garden	jannatahu
+1	18:35:3	w	وَهُوَ	ﱃ	وهو	while he	wahuwa
+1	18:35:4	w	ظَالِمٞ	ﱄ	ظالم	(was) unjust	ẓālimun
+1	18:35:5	w	لِّنَفۡسِهِۦ	ﱅ	لنفسه	to himself	linafsihi
+1	18:35:6	w	قَالَ	ﱆ	قال	He said	qāla
+1	18:35:7	w	مَآ	ﱇ	ما	Not	mā
+1	18:35:8	w	أَظُنُّ	ﱈ	اظن	I think	aẓunnu
+1	18:35:9	w	أَن	ﱉ	ان	that	an
+1	18:35:10	w	تَبِيدَ	ﱊ	تبيد	will perish	tabīda
+1	18:35:11	w	هَٰذِهِۦٓ	ﱋ	هاذه	this	hādhihi
+2	18:35:12	w	أَبَدٗا	ﱌ	ابدا	ever	abadan
+2	18:35:13	e	٣٥	ﱍ			
+2	18:36:1	w	وَمَآ	ﱎ	وما	And not	wamā
+2	18:36:2	w	أَظُنُّ	ﱏ	اظن	I think	aẓunnu
+2	18:36:3	w	ٱلسَّاعَةَ	ﱐ	الساعة	the Hour	l-sāʿata
+2	18:36:4	w	قَآئِمَةٗ	ﱑ	قايمة	will occur	qāimatan
+2	18:36:5	w	وَلَئِن	ﱒ	ولين	And if	wala-in
+2	18:36:6	w	رُّدِدتُّ	ﱓ	رددت	I am brought back	rudidttu
+2	18:36:7	w	إِلَىٰ	ﱔ	الى	to	ilā
+2	18:36:8	w	رَبِّي	ﱕ	ربي	my Lord	rabbī
+2	18:36:9	w	لَأَجِدَنَّ	ﱖ	لاجدن	I will surely find	la-ajidanna
+3	18:36:10	w	خَيۡرٗا	ﱗ	خيرا	better	khayran
+3	18:36:11	w	مِّنۡهَا	ﱘ	منها	than this	min'hā
+3	18:36:12	w	مُنقَلَبٗا	ﱙ	منقلبا	(as) a return	munqalaban
+3	18:36:13	e	٣٦	ﱚ			
+3	18:37:1	w	قَالَ	ﱛ	قال	Said	qāla
+3	18:37:2	w	لَهُۥ	ﱜ	له	to him	lahu
+3	18:37:3	w	صَاحِبُهُۥ	ﱝ	صاحبه	his companion	ṣāḥibuhu
+3	18:37:4	w	وَهُوَ	ﱞ	وهو	while he	wahuwa
+3	18:37:5	w	يُحَاوِرُهُۥٓ	ﱟ	يحاوره	was talking to him	yuḥāwiruhu
+3	18:37:6	w	أَكَفَرۡتَ	ﱠ	اكفرت	Do you disbelieve	akafarta
+4	18:37:7	w	بِٱلَّذِي	ﱡ	بالذي	in One Who	bi-alladhī
+4	18:37:8	w	خَلَقَكَ	ﱢ	خلقك	created you	khalaqaka
+4	18:37:9	w	مِن	ﱣ	من	from	min
+4	18:37:10	w	تُرَابٖ	ﱤ	تراب	dust	turābin
+4	18:37:11	w	ثُمَّ	ﱥ	ثم	then	thumma
+4	18:37:12	w	مِن	ﱦ	من	from	min
+4	18:37:13	w	نُّطۡفَةٖ	ﱧ	نطفة	a minute quantity of semen	nuṭ'fatin
+4	18:37:14	w	ثُمَّ	ﱨ	ثم	then	thumma
+4	18:37:15	w	سَوَّىٰكَ	ﱩ	سواك	fashioned you	sawwāka
+4	18:37:16	w	رَجُلٗا	ﱪ	رجلا	(into) a man	rajulan
+4	18:37:17	e	٣٧	ﱫ			
+5	18:38:1	w	لَّٰكِنَّا۠	ﱬ	لاكنا	But as for me	lākinnā
+5	18:38:2	w	هُوَ	ﱭ	هو	He	huwa
+5	18:38:3	w	ٱللَّهُ	ﱮ	الله	(is) Allah	l-lahu
+5	18:38:4	w	رَبِّي	ﱯ	ربي	my Lord	rabbī
+5	18:38:5	w	وَلَآ	ﱰ	ولا	and not	walā
+5	18:38:6	w	أُشۡرِكُ	ﱱ	اشرك	I associate	ush'riku
+5	18:38:7	w	بِرَبِّيٓ	ﱲ	بربي	with my Lord	birabbī
+5	18:38:8	w	أَحَدٗا	ﱳ	احدا	anyone	aḥadan
+5	18:38:9	e	٣٨	ﱴ			
+5	18:39:1	w	وَلَوۡلَآ	ﱵ	ولولا	And why (did you) not	walawlā
+5	18:39:2	w	إِذۡ	ﱶ	اذ	when	idh
+5	18:39:3	w	دَخَلۡتَ	ﱷ	دخلت	you entered	dakhalta
+6	18:39:4	w	جَنَّتَكَ	ﱸ	جنتك	your garden	jannataka
+6	18:39:5	w	قُلۡتَ	ﱹ	قلت	say	qul'ta
+6	18:39:6	w	مَا	ﱺ	ما	What	mā
+6	18:39:7	w	شَآءَ	ﱻ	شاء	wills	shāa
+6	18:39:8	w	ٱللَّهُ	ﱼ	الله	Allah	l-lahu
+6	18:39:9	w	لَا	ﱽ	لا	(there is) no	lā
+6	18:39:10	w	قُوَّةَ	ﱾ	قوة	power	quwwata
+6	18:39:11	w	إِلَّا	ﱿ	الا	except	illā
+6	18:39:12	w	بِٱللَّهِۚ	ﲀﲁ	بالله	with Allah	bil-lahi
+6	18:39:13	w	إِن	ﲂ	ان	If	in
+6	18:39:14	w	تَرَنِ	ﲃ	ترن	you see me	tarani
+6	18:39:15	w	أَنَا۠	ﲄ	انا	(me)	anā
+6	18:39:16	w	أَقَلَّ	ﲅ	اقل	lesser	aqalla
+6	18:39:17	w	مِنكَ	ﲆ	منك	than you	minka
+7	18:39:18	w	مَالٗا	ﲇ	مالا	(in) wealth	mālan
+7	18:39:19	w	وَوَلَدٗا	ﲈ	وولدا	and children	wawaladan
+7	18:39:20	e	٣٩	ﲉ			
+7	18:40:1	w	فَعَسَىٰ	ﲊ	فعسى	It may be	faʿasā
+7	18:40:2	w	رَبِّيٓ	ﲋ	ربي	that my Lord	rabbī
+7	18:40:3	w	أَن	ﲌ	ان	that my Lord	an
+7	18:40:4	w	يُؤۡتِيَنِ	ﲍ	يوتين	will give me	yu'tiyani
+7	18:40:5	w	خَيۡرٗا	ﲎ	خيرا	better	khayran
+7	18:40:6	w	مِّن	ﲏ	من	than	min
+7	18:40:7	w	جَنَّتِكَ	ﲐ	جنتك	your garden	jannatika
+7	18:40:8	w	وَيُرۡسِلَ	ﲑ	ويرسل	and will send	wayur'sila
+8	18:40:9	w	عَلَيۡهَا	ﲒ	عليها	upon it	ʿalayhā
+8	18:40:10	w	حُسۡبَانٗا	ﲓ	حسبانا	a calamity	ḥus'bānan
+8	18:40:11	w	مِّنَ	ﲔ	من	from	mina
+8	18:40:12	w	ٱلسَّمَآءِ	ﲕ	السماء	the sky	l-samāi
+8	18:40:13	w	فَتُصۡبِحَ	ﲖ	فتصبح	then it will become	fatuṣ'biḥa
+8	18:40:14	w	صَعِيدٗا	ﲗ	صعيدا	ground	ṣaʿīdan
+8	18:40:15	w	زَلَقًا	ﲘ	زلقا	slippery	zalaqan
+8	18:40:16	e	٤٠	ﲙ			
+8	18:41:1	w	أَوۡ	ﲚ	او	Or	aw
+8	18:41:2	w	يُصۡبِحَ	ﲛ	يصبح	will become	yuṣ'biḥa
+9	18:41:3	w	مَآؤُهَا	ﲜ	ماوها	its water	māuhā
+9	18:41:4	w	غَوۡرٗا	ﲝ	غورا	sunken	ghawran
+9	18:41:5	w	فَلَن	ﲞ	فلن	so never	falan
+9	18:41:6	w	تَسۡتَطِيعَ	ﲟ	تستطيع	you will be able	tastaṭīʿa
+9	18:41:7	w	لَهُۥ	ﲠ	له	to find it	lahu
+9	18:41:8	w	طَلَبٗا	ﲡ	طلبا	to find it	ṭalaban
+9	18:41:9	e	٤١	ﲢ			
+9	18:42:1	w	وَأُحِيطَ	ﲣ	واحيط	And were surrounded	wa-uḥīṭa
+9	18:42:2	w	بِثَمَرِهِۦ	ﲤ	بثمره	his fruits	bithamarihi
+10	18:42:3	w	فَأَصۡبَحَ	ﲥ	فاصبح	so he began	fa-aṣbaḥa
+10	18:42:4	w	يُقَلِّبُ	ﲦ	يقلب	twisting	yuqallibu
+10	18:42:5	w	كَفَّيۡهِ	ﲧ	كفيه	his hands	kaffayhi
+10	18:42:6	w	عَلَىٰ	ﲨ	على	over	ʿalā
+10	18:42:7	w	مَآ	ﲩ	ما	what	mā
+10	18:42:8	w	أَنفَقَ	ﲪ	انفق	he (had) spent	anfaqa
+10	18:42:9	w	فِيهَا	ﲫ	فيها	on it	fīhā
+10	18:42:10	w	وَهِيَ	ﲬ	وهي	while it (had)	wahiya
+10	18:42:11	w	خَاوِيَةٌ	ﲭ	خاوية	collapsed	khāwiyatun
+10	18:42:12	w	عَلَىٰ	ﲮ	على	on	ʿalā
+11	18:42:13	w	عُرُوشِهَا	ﲯ	عروشها	its trellises	ʿurūshihā
+11	18:42:14	w	وَيَقُولُ	ﲰ	ويقول	and he said	wayaqūlu
+11	18:42:15	w	يَٰلَيۡتَنِي	ﲱ	يا ليتني	Oh! I wish	yālaytanī
+11	18:42:16	w	لَمۡ	ﲲ	لم	I had not associated	lam
+11	18:42:17	w	أُشۡرِكۡ	ﲳ	اشرك	I had not associated	ush'rik
+11	18:42:18	w	بِرَبِّيٓ	ﲴ	بربي	with my Lord	birabbī
+11	18:42:19	w	أَحَدٗا	ﲵ	احدا	anyone	aḥadan
+11	18:42:20	e	٤٢	ﲶ			
+11	18:43:1	w	وَلَمۡ	ﲷ	ولم	And not	walam
+11	18:43:2	w	تَكُن	ﲸ	تكن	was	takun
+11	18:43:3	w	لَّهُۥ	ﲹ	له	for him	lahu
+12	18:43:4	w	فِئَةٞ	ﲺ	فية	a group	fi-atun
+12	18:43:5	w	يَنصُرُونَهُۥ	ﲻ	ينصرونه	(to) help him	yanṣurūnahu
+12	18:43:6	w	مِن	ﲼ	من	other than	min
+12	18:43:7	w	دُونِ	ﲽ	دون	other than	dūni
+12	18:43:8	w	ٱللَّهِ	ﲾ	الله	Allah	l-lahi
+12	18:43:9	w	وَمَا	ﲿ	وما	and not	wamā
+12	18:43:10	w	كَانَ	ﳀ	كان	was	kāna
+12	18:43:11	w	مُنتَصِرًا	ﳁ	منتصرا	(he) supported	muntaṣiran
+12	18:43:12	e	٤٣	ﳂ			
+12	18:44:1	w	هُنَالِكَ	ﳃ	هنالك	There	hunālika
+12	18:44:2	w	ٱلۡوَلَٰيَةُ	ﳄ	الولاية	the protection	l-walāyatu
+13	18:44:3	w	لِلَّهِ	ﳅ	لله	(is) from Allah	lillahi
+13	18:44:4	w	ٱلۡحَقِّۚ	ﳆﳇ	الحق	the True	l-ḥaqi
+13	18:44:5	w	هُوَ	ﳈ	هو	He	huwa
+13	18:44:6	w	خَيۡرٞ	ﳉ	خير	(is the) best	khayrun
+13	18:44:7	w	ثَوَابٗا	ﳊ	ثوابا	(to) reward	thawāban
+13	18:44:8	w	وَخَيۡرٌ	ﳋ	وخير	and (the) best	wakhayrun
+13	18:44:9	w	عُقۡبٗا	ﳌ	عقبا	(for) the final end	ʿuq'ban
+13	18:44:10	e	٤٤	ﳍ			
+13	18:45:1	w	وَٱضۡرِبۡ	ﳎ	واضرب	And present	wa-iḍ'rib
+13	18:45:2	w	لَهُم	ﳏ	لهم	to them	lahum
+13	18:45:3	w	مَّثَلَ	ﳐ	مثل	the example	mathala
+13	18:45:4	w	ٱلۡحَيَوٰةِ	ﳑ	الحياة	(of) the life	l-ḥayati
+14	18:45:5	w	ٱلدُّنۡيَا	ﳒ	الدنيا	(of) the world	l-dun'yā
+14	18:45:6	w	كَمَآءٍ	ﳓ	كماء	like water	kamāin
+14	18:45:7	w	أَنزَلۡنَٰهُ	ﳔ	انزلناه	which We send down	anzalnāhu
+14	18:45:8	w	مِنَ	ﳕ	من	from	mina
+14	18:45:9	w	ٱلسَّمَآءِ	ﳖ	السماء	the sky	l-samāi
+14	18:45:10	w	فَٱخۡتَلَطَ	ﳗ	فاختلط	then mingles	fa-ikh'talaṭa
+14	18:45:11	w	بِهِۦ	ﳘ	به	with it	bihi
+14	18:45:12	w	نَبَاتُ	ﳙ	نبات	(the) vegetation	nabātu
+14	18:45:13	w	ٱلۡأَرۡضِ	ﳚ	الارض	(of) the earth	l-arḍi
+15	18:45:14	w	فَأَصۡبَحَ	ﳛ	فاصبح	then becomes	fa-aṣbaḥa
+15	18:45:15	w	هَشِيمٗا	ﳜ	هشيما	dry stalks	hashīman
+15	18:45:16	w	تَذۡرُوهُ	ﳝ	تذروه	it (is) scattered	tadhrūhu
+15	18:45:17	w	ٱلرِّيَٰحُۗ	ﳞﳟ	الرياح	(by) the winds	l-riyāḥu
+15	18:45:18	w	وَكَانَ	ﳠ	وكان	And Allah	wakāna
+15	18:45:19	w	ٱللَّهُ	ﳡ	الله	And Allah	l-lahu
+15	18:45:20	w	عَلَىٰ	ﳢ	على	over	ʿalā
+15	18:45:21	w	كُلِّ	ﳣ	كل	every	kulli
+15	18:45:22	w	شَيۡءٖ	ﳤ	شيء	thing	shayin
+15	18:45:23	w	مُّقۡتَدِرًا	ﳥ	مقتدرا	(is) All Able	muq'tadiran
+15	18:45:24	e	٤٥	ﳦ			

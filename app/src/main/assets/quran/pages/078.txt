@@ -1,0 +1,136 @@
+1	4:7:1	w	لِّلرِّجَالِ	ﱁ	للرجال	For the men	lilrrijāli
+1	4:7:2	w	نَصِيبٞ	ﱂ	نصيب	a portion	naṣībun
+1	4:7:3	w	مِّمَّا	ﱃ	مما	of what	mimmā
+1	4:7:4	w	تَرَكَ	ﱄ	ترك	(is) left	taraka
+1	4:7:5	w	ٱلۡوَٰلِدَانِ	ﱅ	الوالدان	(by) the parents	l-wālidāni
+1	4:7:6	w	وَٱلۡأَقۡرَبُونَ	ﱆ	والاقربون	and the near relatives	wal-aqrabūna
+1	4:7:7	w	وَلِلنِّسَآءِ	ﱇ	وللنساء	and for the women	walilnnisāi
+1	4:7:8	w	نَصِيبٞ	ﱈ	نصيب	a portion	naṣībun
+2	4:7:9	w	مِّمَّا	ﱉ	مما	of what	mimmā
+2	4:7:10	w	تَرَكَ	ﱊ	ترك	(is) left	taraka
+2	4:7:11	w	ٱلۡوَٰلِدَانِ	ﱋ	الوالدان	(by) parents	l-wālidāni
+2	4:7:12	w	وَٱلۡأَقۡرَبُونَ	ﱌ	والاقربون	and the near relatives	wal-aqrabūna
+2	4:7:13	w	مِمَّا	ﱍ	مما	of what	mimmā
+2	4:7:14	w	قَلَّ	ﱎ	قل	(is) little	qalla
+2	4:7:15	w	مِنۡهُ	ﱏ	منه	of it	min'hu
+2	4:7:16	w	أَوۡ	ﱐ	او	or	aw
+2	4:7:17	w	كَثُرَۚ	ﱑﱒ	كثر	much	kathura
+2	4:7:18	w	نَصِيبٗا	ﱓ	نصيبا	a portion	naṣīban
+3	4:7:19	w	مَّفۡرُوضٗا	ﱔ	مفروضا	obligatory	mafrūḍan
+3	4:7:20	e	٧	ﱕ			
+3	4:8:1	w	وَإِذَا	ﱖ	واذا	And when	wa-idhā
+3	4:8:2	w	حَضَرَ	ﱗ	حضر	present	ḥaḍara
+3	4:8:3	w	ٱلۡقِسۡمَةَ	ﱘ	القسمة	(at) the (time of) division	l-qis'mata
+3	4:8:4	w	أُوْلُواْ	ﱙ	اولو	(of)	ulū
+3	4:8:5	w	ٱلۡقُرۡبَىٰ	ﱚ	القربى	the relatives	l-qur'bā
+3	4:8:6	w	وَٱلۡيَتَٰمَىٰ	ﱛ	واليتامى	and the orphans	wal-yatāmā
+4	4:8:7	w	وَٱلۡمَسَٰكِينُ	ﱜ	والمساكين	and the poor	wal-masākīnu
+4	4:8:8	w	فَٱرۡزُقُوهُم	ﱝ	فارزقوهم	then provide them	fa-ur'zuqūhum
+4	4:8:9	w	مِّنۡهُ	ﱞ	منه	from it	min'hu
+4	4:8:10	w	وَقُولُواْ	ﱟ	وقولوا	and speak	waqūlū
+4	4:8:11	w	لَهُمۡ	ﱠ	لهم	to them	lahum
+4	4:8:12	w	قَوۡلٗا	ﱡ	قولا	words	qawlan
+4	4:8:13	w	مَّعۡرُوفٗا	ﱢ	معروفا	(of) kindness	maʿrūfan
+5	4:8:14	e	٨	ﱣ			
+5	4:9:1	w	وَلۡيَخۡشَ	ﱤ	وليخش	And let fear	walyakhsha
+5	4:9:2	w	ٱلَّذِينَ	ﱥ	الذين	those who	alladhīna
+5	4:9:3	w	لَوۡ	ﱦ	لو	if	law
+5	4:9:4	w	تَرَكُواْ	ﱧ	تركوا	they left	tarakū
+5	4:9:5	w	مِنۡ	ﱨ	من	from	min
+5	4:9:6	w	خَلۡفِهِمۡ	ﱩ	خلفهم	behind	khalfihim
+5	4:9:7	w	ذُرِّيَّةٗ	ﱪ	ذرية	offspring	dhurriyyatan
+5	4:9:8	w	ضِعَٰفًا	ﱫ	ضعافا	weak	ḍiʿāfan
+6	4:9:9	w	خَافُواْ	ﱬ	خافوا	(and) they would have feared	khāfū
+6	4:9:10	w	عَلَيۡهِمۡ	ﱭ	عليهم	about them	ʿalayhim
+6	4:9:11	w	فَلۡيَتَّقُواْ	ﱮ	فليتقوا	So let them fear	falyattaqū
+6	4:9:12	w	ٱللَّهَ	ﱯ	الله	Allah	l-laha
+6	4:9:13	w	وَلۡيَقُولُواْ	ﱰ	وليقولوا	and let them speak	walyaqūlū
+6	4:9:14	w	قَوۡلٗا	ﱱ	قولا	words	qawlan
+6	4:9:15	w	سَدِيدًا	ﱲ	سديدا	appropriate	sadīdan
+6	4:9:16	e	٩	ﱳ			
+6	4:10:1	w	إِنَّ	ﱴ	ان	Indeed	inna
+7	4:10:2	w	ٱلَّذِينَ	ﱵ	الذين	those who	alladhīna
+7	4:10:3	w	يَأۡكُلُونَ	ﱶ	ياكلون	consume	yakulūna
+7	4:10:4	w	أَمۡوَٰلَ	ﱷ	اموال	wealth	amwāla
+7	4:10:5	w	ٱلۡيَتَٰمَىٰ	ﱸ	اليتامى	(of) the orphans	l-yatāmā
+7	4:10:6	w	ظُلۡمًا	ﱹ	ظلما	wrongfully	ẓul'man
+7	4:10:7	w	إِنَّمَا	ﱺ	انما	only	innamā
+7	4:10:8	w	يَأۡكُلُونَ	ﱻ	ياكلون	they consume	yakulūna
+7	4:10:9	w	فِي	ﱼ	في	in	fī
+8	4:10:10	w	بُطُونِهِمۡ	ﱽ	بطونهم	their bellies	buṭūnihim
+8	4:10:11	w	نَارٗاۖ	ﱾﱿ	نارا	fire	nāran
+8	4:10:12	w	وَسَيَصۡلَوۡنَ	ﲀ	وسيصلون	and they will be burned	wasayaṣlawna
+8	4:10:13	w	سَعِيرٗا	ﲁ	سعيرا	(in) a Blazing Fire	saʿīran
+8	4:10:14	e	١٠	ﲂ			
+8	4:11:1	w	يُوصِيكُمُ	ﲃ	يوصيكم	Instructs you	yūṣīkumu
+8	4:11:2	w	ٱللَّهُ	ﲄ	الله	Allah	l-lahu
+8	4:11:3	w	فِيٓ	ﲅ	في	concerning	fī
+9	4:11:4	w	أَوۡلَٰدِكُمۡۖ	ﲆﲇ	اولادكم	your children	awlādikum
+9	4:11:5	w	لِلذَّكَرِ	ﲈ	للذكر	for the male	lildhakari
+9	4:11:6	w	مِثۡلُ	ﲉ	مثل	like	mith'lu
+9	4:11:7	w	حَظِّ	ﲊ	حظ	(the) portion	ḥaẓẓi
+9	4:11:8	w	ٱلۡأُنثَيَيۡنِۚ	ﲋﲌ	الانثيين	(of) two females	l-unthayayni
+9	4:11:9	w	فَإِن	ﲍ	فان	But if	fa-in
+9	4:11:10	w	كُنَّ	ﲎ	كن	there are	kunna
+9	4:11:11	w	نِسَآءٗ	ﲏ	نساء	(only) women	nisāan
+10	4:11:12	w	فَوۡقَ	ﲐ	فوق	more (than)	fawqa
+10	4:11:13	w	ٱثۡنَتَيۡنِ	ﲑ	اثنتين	two	ith'natayni
+10	4:11:14	w	فَلَهُنَّ	ﲒ	فلهن	then for them	falahunna
+10	4:11:15	w	ثُلُثَا	ﲓ	ثلثا	two thirds	thuluthā
+10	4:11:16	w	مَا	ﲔ	ما	(of) what	mā
+10	4:11:17	w	تَرَكَۖ	ﲕﲖ	ترك	he left	taraka
+10	4:11:18	w	وَإِن	ﲗ	وان	And if	wa-in
+10	4:11:19	w	كَانَتۡ	ﲘ	كانت	(there) is	kānat
+10	4:11:20	w	وَٰحِدَةٗ	ﲙ	واحدة	(only) one	wāḥidatan
+10	4:11:21	w	فَلَهَا	ﲚ	فلها	then for her	falahā
+11	4:11:22	w	ٱلنِّصۡفُۚ	ﲛﲜ	النصف	(is) half	l-niṣ'fu
+11	4:11:23	w	وَلِأَبَوَيۡهِ	ﲝ	ولابويه	And for his parents	wali-abawayhi
+11	4:11:24	w	لِكُلِّ	ﲞ	لكل	for each	likulli
+11	4:11:25	w	وَٰحِدٖ	ﲟ	واحد	one	wāḥidin
+11	4:11:26	w	مِّنۡهُمَا	ﲠ	منهما	of them	min'humā
+11	4:11:27	w	ٱلسُّدُسُ	ﲡ	السدس	a sixth	l-sudusu
+11	4:11:28	w	مِمَّا	ﲢ	مما	of what	mimmā
+11	4:11:29	w	تَرَكَ	ﲣ	ترك	(is) left	taraka
+11	4:11:30	w	إِن	ﲤ	ان	if	in
+12	4:11:31	w	كَانَ	ﲥ	كان	is	kāna
+12	4:11:32	w	لَهُۥ	ﲦ	له	for him	lahu
+12	4:11:33	w	وَلَدٞۚ	ﲧﲨ	ولد	a child	waladun
+12	4:11:34	w	فَإِن	ﲩ	فان	But if	fa-in
+12	4:11:35	w	لَّمۡ	ﲪ	لم	not	lam
+12	4:11:36	w	يَكُن	ﲫ	يكن	is	yakun
+12	4:11:37	w	لَّهُۥ	ﲬ	له	for him	lahu
+12	4:11:38	w	وَلَدٞ	ﲭ	ولد	any child	waladun
+12	4:11:39	w	وَوَرِثَهُۥٓ	ﲮ	وورثه	and inherit[ed] him	wawarithahu
+12	4:11:40	w	أَبَوَاهُ	ﲯ	ابواه	his parents	abawāhu
+12	4:11:41	w	فَلِأُمِّهِ	ﲰ	فلامه	then for his mother	fali-ummihi
+12	4:11:42	w	ٱلثُّلُثُۚ	ﲱﲲ	الثلث	(is) one third	l-thuluthu
+12	4:11:43	w	فَإِن	ﲳ	فان	And if	fa-in
+13	4:11:44	w	كَانَ	ﲴ	كان	are	kāna
+13	4:11:45	w	لَهُۥٓ	ﲵ	له	for him	lahu
+13	4:11:46	w	إِخۡوَةٞ	ﲶ	اخوة	brothers and sisters	ikh'watun
+13	4:11:47	w	فَلِأُمِّهِ	ﲷ	فلامه	then for his mother	fali-ummihi
+13	4:11:48	w	ٱلسُّدُسُۚ	ﲸﲹ	السدس	(is) the sixth	l-sudusu
+13	4:11:49	w	مِنۢ	ﲺ	من	from	min
+13	4:11:50	w	بَعۡدِ	ﲻ	بعد	after	baʿdi
+13	4:11:51	w	وَصِيَّةٖ	ﲼ	وصية	any will	waṣiyyatin
+13	4:11:52	w	يُوصِي	ﲽ	يوصي	he has made	yūṣī
+13	4:11:53	w	بِهَآ	ﲾ	بها	[of which]	bihā
+14	4:11:54	w	أَوۡ	ﲿ	او	or	aw
+14	4:11:55	w	دَيۡنٍۗ	ﳀﳁ	دين	any debt	daynin
+14	4:11:56	w	ءَابَآؤُكُمۡ	ﳂ	اباوكم	Your parents	ābāukum
+14	4:11:57	w	وَأَبۡنَآؤُكُمۡ	ﳃ	وابناوكم	and your children	wa-abnāukum
+14	4:11:58	w	لَا	ﳄ	لا	not	lā
+14	4:11:59	w	تَدۡرُونَ	ﳅ	تدرون	you know	tadrūna
+14	4:11:60	w	أَيُّهُمۡ	ﳆ	ايهم	which of them	ayyuhum
+14	4:11:61	w	أَقۡرَبُ	ﳇ	اقرب	(is) nearer	aqrabu
+14	4:11:62	w	لَكُمۡ	ﳈ	لكم	to you	lakum
+15	4:11:63	w	نَفۡعٗاۚ	ﳉﳊ	نفعا	(in) benefit	nafʿan
+15	4:11:64	w	فَرِيضَةٗ	ﳋ	فريضة	An obligation	farīḍatan
+15	4:11:65	w	مِّنَ	ﳌ	من	from	mina
+15	4:11:66	w	ٱللَّهِۗ	ﳍﳎ	الله	Allah	l-lahi
+15	4:11:67	w	إِنَّ	ﳏ	ان	Indeed	inna
+15	4:11:68	w	ٱللَّهَ	ﳐ	الله	Allah	l-laha
+15	4:11:69	w	كَانَ	ﳑ	كان	is	kāna
+15	4:11:70	w	عَلِيمًا	ﳒ	عليما	All-Knowing	ʿalīman
+15	4:11:71	w	حَكِيمٗا	ﳓ	حكيما	All-Wise	ḥakīman
+15	4:11:72	e	١١	ﳔ			

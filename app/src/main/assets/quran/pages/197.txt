@@ -1,0 +1,116 @@
+1	9:62:1	w	يَحۡلِفُونَ	ﱁ	يحلفون	They swear	yaḥlifūna
+1	9:62:2	w	بِٱللَّهِ	ﱂ	بالله	by Allah	bil-lahi
+1	9:62:3	w	لَكُمۡ	ﱃ	لكم	to you	lakum
+1	9:62:4	w	لِيُرۡضُوكُمۡ	ﱄ	ليرضوكم	to please you	liyur'ḍūkum
+1	9:62:5	w	وَٱللَّهُ	ﱅ	والله	And Allah	wal-lahu
+1	9:62:6	w	وَرَسُولُهُۥٓ	ﱆ	ورسوله	and His Messenger	warasūluhu
+1	9:62:7	w	أَحَقُّ	ﱇ	احق	(have) more right	aḥaqqu
+2	9:62:8	w	أَن	ﱈ	ان	that	an
+2	9:62:9	w	يُرۡضُوهُ	ﱉ	يرضوه	they should please Him	yur'ḍūhu
+2	9:62:10	w	إِن	ﱊ	ان	if	in
+2	9:62:11	w	كَانُواْ	ﱋ	كانوا	they are	kānū
+2	9:62:12	w	مُؤۡمِنِينَ	ﱌ	مومنين	believers	mu'minīna
+2	9:62:13	e	٦٢	ﱍ			
+2	9:63:1	w	أَلَمۡ	ﱎ	الم	Do not	alam
+2	9:63:2	w	يَعۡلَمُوٓاْ	ﱏ	يعلموا	they know	yaʿlamū
+2	9:63:3	w	أَنَّهُۥ	ﱐ	انه	that he	annahu
+2	9:63:4	w	مَن	ﱑ	من	who	man
+3	9:63:5	w	يُحَادِدِ	ﱒ	يحادد	opposes	yuḥādidi
+3	9:63:6	w	ٱللَّهَ	ﱓ	الله	Allah	l-laha
+3	9:63:7	w	وَرَسُولَهُۥ	ﱔ	ورسوله	and His Messenger	warasūlahu
+3	9:63:8	w	فَأَنَّ	ﱕ	فان	[then] that	fa-anna
+3	9:63:9	w	لَهُۥ	ﱖ	له	for him	lahu
+3	9:63:10	w	نَارَ	ﱗ	نار	(is the) Fire	nāra
+3	9:63:11	w	جَهَنَّمَ	ﱘ	جهنم	(of) Hell	jahannama
+3	9:63:12	w	خَٰلِدٗا	ﱙ	خالدا	(will) abide forever	khālidan
+3	9:63:13	w	فِيهَاۚ	ﱚﱛ	فيها	in it	fīhā
+4	9:63:14	w	ذَٰلِكَ	ﱜ	ذالك	That	dhālika
+4	9:63:15	w	ٱلۡخِزۡيُ	ﱝ	الخزي	(is) the disgrace	l-khiz'yu
+4	9:63:16	w	ٱلۡعَظِيمُ	ﱞ	العظيم	the great	l-ʿaẓīmu
+4	9:63:17	e	٦٣	ﱟ			
+4	9:64:1	w	يَحۡذَرُ	ﱠ	يحذر	Fear	yaḥdharu
+4	9:64:2	w	ٱلۡمُنَٰفِقُونَ	ﱡ	المنافقون	the hypocrites	l-munāfiqūna
+4	9:64:3	w	أَن	ﱢ	ان	lest	an
+5	9:64:4	w	تُنَزَّلَ	ﱣ	تنزل	be revealed	tunazzala
+5	9:64:5	w	عَلَيۡهِمۡ	ﱤ	عليهم	about them	ʿalayhim
+5	9:64:6	w	سُورَةٞ	ﱥ	سورة	a Surah	sūratun
+5	9:64:7	w	تُنَبِّئُهُم	ﱦ	تنبيهم	informing them	tunabbi-uhum
+5	9:64:8	w	بِمَا	ﱧ	بما	of what	bimā
+5	9:64:9	w	فِي	ﱨ	في	(is) in	fī
+5	9:64:10	w	قُلُوبِهِمۡۚ	ﱩﱪ	قلوبهم	their hearts	qulūbihim
+5	9:64:11	w	قُلِ	ﱫ	قل	Say	quli
+5	9:64:12	w	ٱسۡتَهۡزِءُوٓاْ	ﱬ	استهزيوا	Mock	is'tahziū
+6	9:64:13	w	إِنَّ	ﱭ	ان	indeed	inna
+6	9:64:14	w	ٱللَّهَ	ﱮ	الله	Allah	l-laha
+6	9:64:15	w	مُخۡرِجٞ	ﱯ	مخرج	(will) bring forth	mukh'rijun
+6	9:64:16	w	مَّا	ﱰ	ما	what	mā
+6	9:64:17	w	تَحۡذَرُونَ	ﱱ	تحذرون	you fear	taḥdharūna
+6	9:64:18	e	٦٤	ﱲ			
+6	9:65:1	w	وَلَئِن	ﱳ	ولين	And if	wala-in
+6	9:65:2	w	سَأَلۡتَهُمۡ	ﱴ	سالتهم	you ask them	sa-altahum
+7	9:65:3	w	لَيَقُولُنَّ	ﱵ	ليقولن	surely they will say	layaqūlunna
+7	9:65:4	w	إِنَّمَا	ﱶ	انما	Only	innamā
+7	9:65:5	w	كُنَّا	ﱷ	كنا	we were	kunnā
+7	9:65:6	w	نَخُوضُ	ﱸ	نخوض	conversing	nakhūḍu
+7	9:65:7	w	وَنَلۡعَبُۚ	ﱹﱺ	ونلعب	and playing	wanalʿabu
+7	9:65:8	w	قُلۡ	ﱻ	قل	Say	qul
+7	9:65:9	w	أَبِٱللَّهِ	ﱼ	ابالله	Is it Allah	abil-lahi
+7	9:65:10	w	وَءَايَٰتِهِۦ	ﱽ	واياته	and His Verses	waāyātihi
+8	9:65:11	w	وَرَسُولِهِۦ	ﱾ	ورسوله	and His Messenger	warasūlihi
+8	9:65:12	w	كُنتُمۡ	ﱿ	كنتم	(that) you were	kuntum
+8	9:65:13	w	تَسۡتَهۡزِءُونَ	ﲀ	تستهزيون	mocking	tastahziūna
+8	9:65:14	e	٦٥	ﲁ			
+8	9:66:1	w	لَا	ﲂ	لا	(Do) not	lā
+8	9:66:2	w	تَعۡتَذِرُواْ	ﲃ	تعتذروا	make excuse	taʿtadhirū
+8	9:66:3	w	قَدۡ	ﲄ	قد	verily	qad
+8	9:66:4	w	كَفَرۡتُم	ﲅ	كفرتم	you have disbelieved	kafartum
+9	9:66:5	w	بَعۡدَ	ﲆ	بعد	after	baʿda
+9	9:66:6	w	إِيمَٰنِكُمۡۚ	ﲇﲈ	ايمانكم	your belief	īmānikum
+9	9:66:7	w	إِن	ﲉ	ان	If	in
+9	9:66:8	w	نَّعۡفُ	ﲊ	نعف	We pardon	naʿfu
+9	9:66:9	w	عَن	ﲋ	عن	[on]	ʿan
+9	9:66:10	w	طَآئِفَةٖ	ﲌ	طايفة	a party	ṭāifatin
+9	9:66:11	w	مِّنكُمۡ	ﲍ	منكم	of you	minkum
+9	9:66:12	w	نُعَذِّبۡ	ﲎ	نعذب	We will punish	nuʿadhib
+9	9:66:13	w	طَآئِفَةَۢ	ﲏ	طايفة	a party	ṭāifatan
+10	9:66:14	w	بِأَنَّهُمۡ	ﲐ	بانهم	because they	bi-annahum
+10	9:66:15	w	كَانُواْ	ﲑ	كانوا	were	kānū
+10	9:66:16	w	مُجۡرِمِينَ	ﲒ	مجرمين	criminals	muj'rimīna
+10	9:66:17	e	٦٦	ﲓ			
+10	9:67:1	w	ٱلۡمُنَٰفِقُونَ	ﲔ	المنافقون	The hypocrite men	al-munāfiqūna
+10	9:67:2	w	وَٱلۡمُنَٰفِقَٰتُ	ﲕ	والمنافقات	and the hypocrite women	wal-munāfiqātu
+11	9:67:3	w	بَعۡضُهُم	ﲖ	بعضهم	some of them	baʿḍuhum
+11	9:67:4	w	مِّنۢ	ﲗ	من	(are) of	min
+11	9:67:5	w	بَعۡضٖۚ	ﲘﲙ	بعض	others	baʿḍin
+11	9:67:6	w	يَأۡمُرُونَ	ﲚ	يامرون	They enjoin	yamurūna
+11	9:67:7	w	بِٱلۡمُنكَرِ	ﲛ	بالمنكر	the wrong	bil-munkari
+11	9:67:8	w	وَيَنۡهَوۡنَ	ﲜ	وينهون	and forbid	wayanhawna
+12	9:67:9	w	عَنِ	ﲝ	عن	what	ʿani
+12	9:67:10	w	ٱلۡمَعۡرُوفِ	ﲞ	المعروف	(is) the right	l-maʿrūfi
+12	9:67:11	w	وَيَقۡبِضُونَ	ﲟ	ويقبضون	and they close	wayaqbiḍūna
+12	9:67:12	w	أَيۡدِيَهُمۡۚ	ﲠﲡ	ايديهم	their hands	aydiyahum
+12	9:67:13	w	نَسُواْ	ﲢ	نسوا	They forget	nasū
+12	9:67:14	w	ٱللَّهَ	ﲣ	الله	Allah	l-laha
+12	9:67:15	w	فَنَسِيَهُمۡۚ	ﲤﲥ	فنسيهم	so He has forgotten them	fanasiyahum
+13	9:67:16	w	إِنَّ	ﲦ	ان	Indeed	inna
+13	9:67:17	w	ٱلۡمُنَٰفِقِينَ	ﲧ	المنافقين	the hypocrites	l-munāfiqīna
+13	9:67:18	w	هُمُ	ﲨ	هم	they (are)	humu
+13	9:67:19	w	ٱلۡفَٰسِقُونَ	ﲩ	الفاسقون	the defiantly disobedient	l-fāsiqūna
+13	9:67:20	e	٦٧	ﲪ			
+13	9:68:1	w	وَعَدَ	ﲫ	وعد	Allah has promised	waʿada
+13	9:68:2	w	ٱللَّهُ	ﲬ	الله	Allah has promised	l-lahu
+13	9:68:3	w	ٱلۡمُنَٰفِقِينَ	ﲭ	المنافقين	the hypocrite men	l-munāfiqīna
+14	9:68:4	w	وَٱلۡمُنَٰفِقَٰتِ	ﲮ	والمنافقات	and the hypocrite women	wal-munāfiqāti
+14	9:68:5	w	وَٱلۡكُفَّارَ	ﲯ	والكفار	and the disbelievers	wal-kufāra
+14	9:68:6	w	نَارَ	ﲰ	نار	Fire	nāra
+14	9:68:7	w	جَهَنَّمَ	ﲱ	جهنم	(of) Hell	jahannama
+14	9:68:8	w	خَٰلِدِينَ	ﲲ	خالدين	they (will) abide forever	khālidīna
+14	9:68:9	w	فِيهَاۚ	ﲳﲴ	فيها	in it	fīhā
+14	9:68:10	w	هِيَ	ﲵ	هي	It (is)	hiya
+15	9:68:11	w	حَسۡبُهُمۡۚ	ﲶﲷ	حسبهم	sufficient for them	ḥasbuhum
+15	9:68:12	w	وَلَعَنَهُمُ	ﲸ	ولعنهم	And Allah has cursed them	walaʿanahumu
+15	9:68:13	w	ٱللَّهُۖ	ﲹﲺ	الله	And Allah has cursed them	l-lahu
+15	9:68:14	w	وَلَهُمۡ	ﲻ	ولهم	and for them	walahum
+15	9:68:15	w	عَذَابٞ	ﲼ	عذاب	(is) a punishment	ʿadhābun
+15	9:68:16	w	مُّقِيمٞ	ﲽ	مقيم	enduring	muqīmun
+15	9:68:17	e	٦٨	ﲾ			

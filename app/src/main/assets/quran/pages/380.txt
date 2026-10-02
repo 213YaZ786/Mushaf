@@ -1,0 +1,168 @@
+1	27:36:1	w	فَلَمَّا	ﱁ	فلما	So when	falammā
+1	27:36:2	w	جَآءَ	ﱂ	جاء	came	jāa
+1	27:36:3	w	سُلَيۡمَٰنَ	ﱃ	سليمان	(to) Sulaiman	sulaymāna
+1	27:36:4	w	قَالَ	ﱄ	قال	he said	qāla
+1	27:36:5	w	أَتُمِدُّونَنِ	ﱅ	اتمدونن	Will you provide me	atumiddūnani
+1	27:36:6	w	بِمَالٖ	ﱆ	بمال	with wealth	bimālin
+1	27:36:7	w	فَمَآ	ﱇ	فما	But what	famā
+1	27:36:8	w	ءَاتَىٰنِۦَ	ﱈ	اتاني	Allah has given me	ātāniya
+1	27:36:9	w	ٱللَّهُ	ﱉ	الله	Allah has given me	l-lahu
+1	27:36:10	w	خَيۡرٞ	ﱊ	خير	(is) better	khayrun
+1	27:36:11	w	مِّمَّآ	ﱋ	مما	than what	mimmā
+2	27:36:12	w	ءَاتَىٰكُمۚ	ﱌﱍ	اتاكم	He has given you	ātākum
+2	27:36:13	w	بَلۡ	ﱎ	بل	Nay	bal
+2	27:36:14	w	أَنتُم	ﱏ	انتم	you	antum
+2	27:36:15	w	بِهَدِيَّتِكُمۡ	ﱐ	بهديتكم	in your gift	bihadiyyatikum
+2	27:36:16	w	تَفۡرَحُونَ	ﱑ	تفرحون	rejoice	tafraḥūna
+2	27:36:17	e	٣٦	ﱒ			
+2	27:37:1	w	ٱرۡجِعۡ	ﱓ	ارجع	Return	ir'jiʿ
+2	27:37:2	w	إِلَيۡهِمۡ	ﱔ	اليهم	to them	ilayhim
+2	27:37:3	w	فَلَنَأۡتِيَنَّهُم	ﱕ	فلناتينهم	surely, we will come to them	falanatiyannahum
+3	27:37:4	w	بِجُنُودٖ	ﱖ	بجنود	with hosts	bijunūdin
+3	27:37:5	w	لَّا	ﱗ	لا	not	lā
+3	27:37:6	w	قِبَلَ	ﱘ	قبل	(is) resistance	qibala
+3	27:37:7	w	لَهُم	ﱙ	لهم	for them	lahum
+3	27:37:8	w	بِهَا	ﱚ	بها	of it	bihā
+3	27:37:9	w	وَلَنُخۡرِجَنَّهُم	ﱛ	ولنخرجنهم	and surely, we will drive them out	walanukh'rijannahum
+3	27:37:10	w	مِّنۡهَآ	ﱜ	منها	from there	min'hā
+3	27:37:11	w	أَذِلَّةٗ	ﱝ	اذلة	(in) humiliation	adhillatan
+3	27:37:12	w	وَهُمۡ	ﱞ	وهم	and they	wahum
+3	27:37:13	w	صَٰغِرُونَ	ﱟ	صاغرون	(will be) abased	ṣāghirūna
+3	27:37:14	e	٣٧	ﱠ			
+4	27:38:1	w	قَالَ	ﱡ	قال	He said	qāla
+4	27:38:2	w	يَٰٓأَيُّهَا	ﱢ	يا ايها	O	yāayyuhā
+4	27:38:3	w	ٱلۡمَلَؤُاْ	ﱣ	الملا	chiefs	l-mala-u
+4	27:38:4	w	أَيُّكُمۡ	ﱤ	ايكم	Which of you	ayyukum
+4	27:38:5	w	يَأۡتِينِي	ﱥ	ياتيني	will bring me	yatīnī
+4	27:38:6	w	بِعَرۡشِهَا	ﱦ	بعرشها	her throne	biʿarshihā
+4	27:38:7	w	قَبۡلَ	ﱧ	قبل	before	qabla
+4	27:38:8	w	أَن	ﱨ	ان	that	an
+4	27:38:9	w	يَأۡتُونِي	ﱩ	ياتوني	they come to me	yatūnī
+4	27:38:10	w	مُسۡلِمِينَ	ﱪ	مسلمين	(in) submission	mus'limīna
+5	27:38:11	e	٣٨	ﱫ			
+5	27:39:1	w	قَالَ	ﱬ	قال	Said	qāla
+5	27:39:2	w	عِفۡرِيتٞ	ﱭ	عفريت	a strong one	ʿif'rītun
+5	27:39:3	w	مِّنَ	ﱮ	من	of	mina
+5	27:39:4	w	ٱلۡجِنِّ	ﱯ	الجن	the jinn	l-jini
+5	27:39:5	w	أَنَا۠	ﱰ	انا	I	anā
+5	27:39:6	w	ءَاتِيكَ	ﱱ	اتيك	will bring it to you	ātīka
+5	27:39:7	w	بِهِۦ	ﱲ	به	will bring it to you	bihi
+5	27:39:8	w	قَبۡلَ	ﱳ	قبل	before	qabla
+5	27:39:9	w	أَن	ﱴ	ان	[that]	an
+5	27:39:10	w	تَقُومَ	ﱵ	تقوم	you rise	taqūma
+5	27:39:11	w	مِن	ﱶ	من	from	min
+5	27:39:12	w	مَّقَامِكَۖ	ﱷﱸ	مقامك	your place	maqāmika
+6	27:39:13	w	وَإِنِّي	ﱹ	واني	And indeed, I am	wa-innī
+6	27:39:14	w	عَلَيۡهِ	ﱺ	عليه	for it	ʿalayhi
+6	27:39:15	w	لَقَوِيٌّ	ﱻ	لقوي	surely, strong	laqawiyyun
+6	27:39:16	w	أَمِينٞ	ﱼ	امين	trustworthy	amīnun
+6	27:39:17	e	٣٩	ﱽ			
+6	27:40:1	w	قَالَ	ﱾ	قال	Said	qāla
+6	27:40:2	w	ٱلَّذِي	ﱿ	الذي	one who	alladhī
+6	27:40:3	w	عِندَهُۥ	ﲀ	عنده	with him	ʿindahu
+6	27:40:4	w	عِلۡمٞ	ﲁ	علم	(was) knowledge	ʿil'mun
+6	27:40:5	w	مِّنَ	ﲂ	من	of	mina
+6	27:40:6	w	ٱلۡكِتَٰبِ	ﲃ	الكتاب	the Scripture	l-kitābi
+6	27:40:7	w	أَنَا۠	ﲄ	انا	I	anā
+7	27:40:8	w	ءَاتِيكَ	ﲅ	اتيك	will bring it to you	ātīka
+7	27:40:9	w	بِهِۦ	ﲆ	به	will bring it to you	bihi
+7	27:40:10	w	قَبۡلَ	ﲇ	قبل	before	qabla
+7	27:40:11	w	أَن	ﲈ	ان	[that]	an
+7	27:40:12	w	يَرۡتَدَّ	ﲉ	يرتد	returns	yartadda
+7	27:40:13	w	إِلَيۡكَ	ﲊ	اليك	to you	ilayka
+7	27:40:14	w	طَرۡفُكَۚ	ﲋﲌ	طرفك	your glance	ṭarfuka
+7	27:40:15	w	فَلَمَّا	ﲍ	فلما	Then when	falammā
+7	27:40:16	w	رَءَاهُ	ﲎ	راه	he saw it	raāhu
+7	27:40:17	w	مُسۡتَقِرًّا	ﲏ	مستقرا	placed	mus'taqirran
+7	27:40:18	w	عِندَهُۥ	ﲐ	عنده	before him	ʿindahu
+8	27:40:19	w	قَالَ	ﲑ	قال	he said	qāla
+8	27:40:20	w	هَٰذَا	ﲒ	هاذا	This	hādhā
+8	27:40:21	w	مِن	ﲓ	من	(is) from	min
+8	27:40:22	w	فَضۡلِ	ﲔ	فضل	(the) Favor	faḍli
+8	27:40:23	w	رَبِّي	ﲕ	ربي	(of) my Lord	rabbī
+8	27:40:24	w	لِيَبۡلُوَنِيٓ	ﲖ	ليبلوني	to test me	liyabluwanī
+8	27:40:25	w	ءَأَشۡكُرُ	ﲗ	ااشكر	whether I am grateful	a-ashkuru
+8	27:40:26	w	أَمۡ	ﲘ	ام	or	am
+8	27:40:27	w	أَكۡفُرُۖ	ﲙﲚ	اكفر	I am ungrateful	akfuru
+8	27:40:28	w	وَمَن	ﲛ	ومن	And whoever	waman
+8	27:40:29	w	شَكَرَ	ﲜ	شكر	(is) grateful	shakara
+8	27:40:30	w	فَإِنَّمَا	ﲝ	فانما	then only	fa-innamā
+9	27:40:31	w	يَشۡكُرُ	ﲞ	يشكر	he is grateful	yashkuru
+9	27:40:32	w	لِنَفۡسِهِۦۖ	ﲟﲠ	لنفسه	for his own soul	linafsihi
+9	27:40:33	w	وَمَن	ﲡ	ومن	And whoever	waman
+9	27:40:34	w	كَفَرَ	ﲢ	كفر	(is) ungrateful	kafara
+9	27:40:35	w	فَإِنَّ	ﲣ	فان	then indeed	fa-inna
+9	27:40:36	w	رَبِّي	ﲤ	ربي	my Lord	rabbī
+9	27:40:37	w	غَنِيّٞ	ﲥ	غني	(is) Self-sufficient	ghaniyyun
+9	27:40:38	w	كَرِيمٞ	ﲦ	كريم	Noble	karīmun
+9	27:40:39	e	٤٠	ﲧ			
+9	27:41:1	w	قَالَ	ﲨ	قال	He said	qāla
+9	27:41:2	w	نَكِّرُواْ	ﲩ	نكروا	Disguise	nakkirū
+9	27:41:3	w	لَهَا	ﲪ	لها	for her	lahā
+10	27:41:4	w	عَرۡشَهَا	ﲫ	عرشها	her throne	ʿarshahā
+10	27:41:5	w	نَنظُرۡ	ﲬ	ننظر	we will see	nanẓur
+10	27:41:6	w	أَتَهۡتَدِيٓ	ﲭ	اتهتدي	whether she will be guided	atahtadī
+10	27:41:7	w	أَمۡ	ﲮ	ام	or	am
+10	27:41:8	w	تَكُونُ	ﲯ	تكون	will be	takūnu
+10	27:41:9	w	مِنَ	ﲰ	من	of	mina
+10	27:41:10	w	ٱلَّذِينَ	ﲱ	الذين	those who	alladhīna
+10	27:41:11	w	لَا	ﲲ	لا	are not guided	lā
+10	27:41:12	w	يَهۡتَدُونَ	ﲳ	يهتدون	are not guided	yahtadūna
+10	27:41:13	e	٤١	ﲴ			
+10	27:42:1	w	فَلَمَّا	ﲵ	فلما	So when	falammā
+11	27:42:2	w	جَآءَتۡ	ﲶ	جاءت	she came	jāat
+11	27:42:3	w	قِيلَ	ﲷ	قيل	it was said	qīla
+11	27:42:4	w	أَهَٰكَذَا	ﲸ	اهاكذا	Is like this	ahākadhā
+11	27:42:5	w	عَرۡشُكِۖ	ﲹﲺ	عرشك	your throne	ʿarshuki
+11	27:42:6	w	قَالَتۡ	ﲻ	قالت	She said	qālat
+11	27:42:7	w	كَأَنَّهُۥ	ﲼ	كانه	It is like	ka-annahu
+11	27:42:8	w	هُوَۚ	ﲽﲾ	هو	it	huwa
+11	27:42:9	w	وَأُوتِينَا	ﲿ	واوتينا	And we were given	waūtīnā
+11	27:42:10	w	ٱلۡعِلۡمَ	ﳀ	العلم	the knowledge	l-ʿil'ma
+11	27:42:11	w	مِن	ﳁ	من	before her	min
+11	27:42:12	w	قَبۡلِهَا	ﳂ	قبلها	before her	qablihā
+12	27:42:13	w	وَكُنَّا	ﳃ	وكنا	and we have been	wakunnā
+12	27:42:14	w	مُسۡلِمِينَ	ﳄ	مسلمين	Muslims	mus'limīna
+12	27:42:15	e	٤٢	ﳅ			
+12	27:43:1	w	وَصَدَّهَا	ﳆ	وصدها	And has averted her	waṣaddahā
+12	27:43:2	w	مَا	ﳇ	ما	what	mā
+12	27:43:3	w	كَانَت	ﳈ	كانت	she used (to)	kānat
+12	27:43:4	w	تَّعۡبُدُ	ﳉ	تعبد	worship	taʿbudu
+12	27:43:5	w	مِن	ﳊ	من	besides	min
+12	27:43:6	w	دُونِ	ﳋ	دون	besides	dūni
+12	27:43:7	w	ٱللَّهِۖ	ﳌﳍ	الله	Allah	l-lahi
+12	27:43:8	w	إِنَّهَا	ﳎ	انها	Indeed, she	innahā
+12	27:43:9	w	كَانَتۡ	ﳏ	كانت	was	kānat
+12	27:43:10	w	مِن	ﳐ	من	from	min
+13	27:43:11	w	قَوۡمٖ	ﳑ	قوم	a people	qawmin
+13	27:43:12	w	كَٰفِرِينَ	ﳒ	كافرين	who disbelieve	kāfirīna
+13	27:43:13	e	٤٣	ﳓ			
+13	27:44:1	w	قِيلَ	ﳔ	قيل	It was said	qīla
+13	27:44:2	w	لَهَا	ﳕ	لها	to her	lahā
+13	27:44:3	w	ٱدۡخُلِي	ﳖ	ادخلي	Enter	ud'khulī
+13	27:44:4	w	ٱلصَّرۡحَۖ	ﳗﳘ	الصرح	the palace	l-ṣarḥa
+13	27:44:5	w	فَلَمَّا	ﳙ	فلما	Then when	falammā
+13	27:44:6	w	رَأَتۡهُ	ﳚ	راته	she saw it	ra-athu
+13	27:44:7	w	حَسِبَتۡهُ	ﳛ	حسبته	she thought it	ḥasibathu
+13	27:44:8	w	لُجَّةٗ	ﳜ	لجة	(was) a pool	lujjatan
+14	27:44:9	w	وَكَشَفَتۡ	ﳝ	وكشفت	and she uncovered	wakashafat
+14	27:44:10	w	عَن	ﳞ	عن	[on]	ʿan
+14	27:44:11	w	سَاقَيۡهَاۚ	ﳟﳠ	ساقيها	her shins	sāqayhā
+14	27:44:12	w	قَالَ	ﳡ	قال	He said	qāla
+14	27:44:13	w	إِنَّهُۥ	ﳢ	انه	Indeed, it	innahu
+14	27:44:14	w	صَرۡحٞ	ﳣ	صرح	(is) a palace	ṣarḥun
+14	27:44:15	w	مُّمَرَّدٞ	ﳤ	ممرد	made smooth	mumarradun
+14	27:44:16	w	مِّن	ﳥ	من	of	min
+14	27:44:17	w	قَوَارِيرَۗ	ﳦﳧ	قوارير	glass	qawārīra
+14	27:44:18	w	قَالَتۡ	ﳨ	قالت	She said	qālat
+14	27:44:19	w	رَبِّ	ﳩ	رب	My Lord	rabbi
+15	27:44:20	w	إِنِّي	ﳪ	اني	indeed, I	innī
+15	27:44:21	w	ظَلَمۡتُ	ﳫ	ظلمت	[I] have wronged	ẓalamtu
+15	27:44:22	w	نَفۡسِي	ﳬ	نفسي	myself	nafsī
+15	27:44:23	w	وَأَسۡلَمۡتُ	ﳭ	واسلمت	and I submit	wa-aslamtu
+15	27:44:24	w	مَعَ	ﳮ	مع	with	maʿa
+15	27:44:25	w	سُلَيۡمَٰنَ	ﳯ	سليمان	Sulaiman	sulaymāna
+15	27:44:26	w	لِلَّهِ	ﳰ	لله	to Allah	lillahi
+15	27:44:27	w	رَبِّ	ﳱ	رب	(the) Lord	rabbi
+15	27:44:28	w	ٱلۡعَٰلَمِينَ	ﳲ	العالمين	(of) the worlds	l-ʿālamīna
+15	27:44:29	e	٤٤	ﳳ			

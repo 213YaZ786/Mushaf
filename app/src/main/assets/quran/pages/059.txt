@@ -1,0 +1,146 @@
+1	3:71:1	w	يَٰٓأَهۡلَ	ﱁ	يا اهل	O People	yāahla
+1	3:71:2	w	ٱلۡكِتَٰبِ	ﱂ	الكتاب	(of) the Book	l-kitābi
+1	3:71:3	w	لِمَ	ﱃ	لم	Why	lima
+1	3:71:4	w	تَلۡبِسُونَ	ﱄ	تلبسون	do you mix	talbisūna
+1	3:71:5	w	ٱلۡحَقَّ	ﱅ	الحق	the truth	l-ḥaqa
+1	3:71:6	w	بِٱلۡبَٰطِلِ	ﱆ	بالباطل	with the falsehood	bil-bāṭili
+1	3:71:7	w	وَتَكۡتُمُونَ	ﱇ	وتكتمون	and conceal	wataktumūna
+1	3:71:8	w	ٱلۡحَقَّ	ﱈ	الحق	the truth	l-ḥaqa
+2	3:71:9	w	وَأَنتُمۡ	ﱉ	وانتم	while you	wa-antum
+2	3:71:10	w	تَعۡلَمُونَ	ﱊ	تعلمون	know	taʿlamūna
+2	3:71:11	e	٧١	ﱋ			
+2	3:72:1	w	وَقَالَت	ﱌ	وقالت	And said	waqālat
+2	3:72:2	w	طَّآئِفَةٞ	ﱍ	طايفة	a group	ṭāifatun
+2	3:72:3	w	مِّنۡ	ﱎ	من	of	min
+2	3:72:4	w	أَهۡلِ	ﱏ	اهل	(the) People	ahli
+2	3:72:5	w	ٱلۡكِتَٰبِ	ﱐ	الكتاب	(of) the Book	l-kitābi
+2	3:72:6	w	ءَامِنُواْ	ﱑ	امنوا	Believe	āminū
+3	3:72:7	w	بِٱلَّذِيٓ	ﱒ	بالذي	in what	bi-alladhī
+3	3:72:8	w	أُنزِلَ	ﱓ	انزل	was revealed	unzila
+3	3:72:9	w	عَلَى	ﱔ	على	on	ʿalā
+3	3:72:10	w	ٱلَّذِينَ	ﱕ	الذين	those who	alladhīna
+3	3:72:11	w	ءَامَنُواْ	ﱖ	امنوا	believe[d]	āmanū
+3	3:72:12	w	وَجۡهَ	ﱗ	وجه	(at the) beginning	wajha
+3	3:72:13	w	ٱلنَّهَارِ	ﱘ	النهار	(of) the day	l-nahāri
+3	3:72:14	w	وَٱكۡفُرُوٓاْ	ﱙ	واكفروا	and reject	wa-uk'furū
+3	3:72:15	w	ءَاخِرَهُۥ	ﱚ	اخره	(at) its end	ākhirahu
+4	3:72:16	w	لَعَلَّهُمۡ	ﱛ	لعلهم	perhaps they may	laʿallahum
+4	3:72:17	w	يَرۡجِعُونَ	ﱜ	يرجعون	return	yarjiʿūna
+4	3:72:18	e	٧٢	ﱝ			
+4	3:73:1	w	وَلَا	ﱞ	ولا	And (do) not	walā
+4	3:73:2	w	تُؤۡمِنُوٓاْ	ﱟ	تومنوا	believe	tu'minū
+4	3:73:3	w	إِلَّا	ﱠ	الا	except	illā
+4	3:73:4	w	لِمَن	ﱡ	لمن	(the one) who	liman
+4	3:73:5	w	تَبِعَ	ﱢ	تبع	follows	tabiʿa
+4	3:73:6	w	دِينَكُمۡ	ﱣ	دينكم	your religion	dīnakum
+4	3:73:7	w	قُلۡ	ﱤ	قل	Say	qul
+4	3:73:8	w	إِنَّ	ﱥ	ان	Indeed	inna
+5	3:73:9	w	ٱلۡهُدَىٰ	ﱦ	الهدى	the (true) guidance	l-hudā
+5	3:73:10	w	هُدَى	ﱧ	هدى	(is the) Guidance	hudā
+5	3:73:11	w	ٱللَّهِ	ﱨ	الله	(of) Allah	l-lahi
+5	3:73:12	w	أَن	ﱩ	ان	lest	an
+5	3:73:13	w	يُؤۡتَىٰٓ	ﱪ	يوتى	is given	yu'tā
+5	3:73:14	w	أَحَدٞ	ﱫ	احد	(to) one	aḥadun
+5	3:73:15	w	مِّثۡلَ	ﱬ	مثل	(the) like	mith'la
+5	3:73:16	w	مَآ	ﱭ	ما	(of) what	mā
+5	3:73:17	w	أُوتِيتُمۡ	ﱮ	اوتيتم	was given to you	ūtītum
+5	3:73:18	w	أَوۡ	ﱯ	او	or	aw
+5	3:73:19	w	يُحَآجُّوكُمۡ	ﱰ	يحاجوكم	they may argue with you	yuḥājjūkum
+6	3:73:20	w	عِندَ	ﱱ	عند	near	ʿinda
+6	3:73:21	w	رَبِّكُمۡۗ	ﱲﱳ	ربكم	your Lord	rabbikum
+6	3:73:22	w	قُلۡ	ﱴ	قل	Say	qul
+6	3:73:23	w	إِنَّ	ﱵ	ان	Indeed	inna
+6	3:73:24	w	ٱلۡفَضۡلَ	ﱶ	الفضل	the Bounty	l-faḍla
+6	3:73:25	w	بِيَدِ	ﱷ	بيد	(is) in the Hand	biyadi
+6	3:73:26	w	ٱللَّهِ	ﱸ	الله	(of) Allah	l-lahi
+6	3:73:27	w	يُؤۡتِيهِ	ﱹ	يوتيه	He gives it	yu'tīhi
+6	3:73:28	w	مَن	ﱺ	من	(to) whom	man
+6	3:73:29	w	يَشَآءُۗ	ﱻﱼ	يشاء	He wills	yashāu
+6	3:73:30	w	وَٱللَّهُ	ﱽ	والله	and Allah	wal-lahu
+7	3:73:31	w	وَٰسِعٌ	ﱾ	واسع	(is) All-Encompassing	wāsiʿun
+7	3:73:32	w	عَلِيمٞ	ﱿ	عليم	All-Knowing	ʿalīmun
+7	3:73:33	e	٧٣	ﲀ			
+7	3:74:1	w	يَخۡتَصُّ	ﲁ	يختص	He chooses	yakhtaṣṣu
+7	3:74:2	w	بِرَحۡمَتِهِۦ	ﲂ	برحمته	for His Mercy	biraḥmatihi
+7	3:74:3	w	مَن	ﲃ	من	whom	man
+7	3:74:4	w	يَشَآءُۗ	ﲄﲅ	يشاء	He wills	yashāu
+7	3:74:5	w	وَٱللَّهُ	ﲆ	والله	And Allah	wal-lahu
+7	3:74:6	w	ذُو	ﲇ	ذو	(is) the Possessor	dhū
+7	3:74:7	w	ٱلۡفَضۡلِ	ﲈ	الفضل	(of) Bounty	l-faḍli
+8	3:74:8	w	ٱلۡعَظِيمِ	ﲉ	العظيم	[the] great	l-ʿaẓīmi
+8	3:74:9	e	٧٤	ﲊ			
+8	3:75:1	w	۞ وَمِنۡ	ﲋ ﲌ	۞ ومن	And from	wamin
+8	3:75:2	w	أَهۡلِ	ﲍ	اهل	(the) People	ahli
+8	3:75:3	w	ٱلۡكِتَٰبِ	ﲎ	الكتاب	(of) the Book	l-kitābi
+8	3:75:4	w	مَنۡ	ﲏ	من	(is he) who	man
+8	3:75:5	w	إِن	ﲐ	ان	if	in
+8	3:75:6	w	تَأۡمَنۡهُ	ﲑ	تامنه	you entrust him	tamanhu
+8	3:75:7	w	بِقِنطَارٖ	ﲒ	بقنطار	with a great amount of wealth	biqinṭārin
+9	3:75:8	w	يُؤَدِّهِۦٓ	ﲓ	يوده	he will return it	yu-addihi
+9	3:75:9	w	إِلَيۡكَ	ﲔ	اليك	to you	ilayka
+9	3:75:10	w	وَمِنۡهُم	ﲕ	ومنهم	And from them	wamin'hum
+9	3:75:11	w	مَّنۡ	ﲖ	من	(is he) who	man
+9	3:75:12	w	إِن	ﲗ	ان	if	in
+9	3:75:13	w	تَأۡمَنۡهُ	ﲘ	تامنه	you entrust him	tamanhu
+9	3:75:14	w	بِدِينَارٖ	ﲙ	بدينار	with a single coin	bidīnārin
+9	3:75:15	w	لَّا	ﲚ	لا	not	lā
+9	3:75:16	w	يُؤَدِّهِۦٓ	ﲛ	يوده	he will return it	yu-addihi
+9	3:75:17	w	إِلَيۡكَ	ﲜ	اليك	to you	ilayka
+10	3:75:18	w	إِلَّا	ﲝ	الا	except	illā
+10	3:75:19	w	مَا	ﲞ	ما	that	mā
+10	3:75:20	w	دُمۡتَ	ﲟ	دمت	you keep constantly	dum'ta
+10	3:75:21	w	عَلَيۡهِ	ﲠ	عليه	over him	ʿalayhi
+10	3:75:22	w	قَآئِمٗاۗ	ﲡﲢ	قايما	standing	qāiman
+10	3:75:23	w	ذَٰلِكَ	ﲣ	ذالك	That	dhālika
+10	3:75:24	w	بِأَنَّهُمۡ	ﲤ	بانهم	(is) because they	bi-annahum
+10	3:75:25	w	قَالُواْ	ﲥ	قالوا	said	qālū
+10	3:75:26	w	لَيۡسَ	ﲦ	ليس	Not	laysa
+10	3:75:27	w	عَلَيۡنَا	ﲧ	علينا	on us	ʿalaynā
+10	3:75:28	w	فِي	ﲨ	في	concerning	fī
+11	3:75:29	w	ٱلۡأُمِّيِّـۧنَ	ﲩ	الاميين	the unlettered people	l-umiyīna
+11	3:75:30	w	سَبِيلٞ	ﲪ	سبيل	any [way] (accountability)	sabīlun
+11	3:75:31	w	وَيَقُولُونَ	ﲫ	ويقولون	And they say	wayaqūlūna
+11	3:75:32	w	عَلَى	ﲬ	على	about	ʿalā
+11	3:75:33	w	ٱللَّهِ	ﲭ	الله	Allah	l-lahi
+11	3:75:34	w	ٱلۡكَذِبَ	ﲮ	الكذب	the lie	l-kadhiba
+11	3:75:35	w	وَهُمۡ	ﲯ	وهم	while they	wahum
+11	3:75:36	w	يَعۡلَمُونَ	ﲰ	يعلمون	know	yaʿlamūna
+12	3:75:37	e	٧٥	ﲱ			
+12	3:76:1	w	بَلَىٰۚ	ﲲﲳ	بلى	Nay	balā
+12	3:76:2	w	مَنۡ	ﲴ	من	whoever	man
+12	3:76:3	w	أَوۡفَىٰ	ﲵ	اوفى	fulfills	awfā
+12	3:76:4	w	بِعَهۡدِهِۦ	ﲶ	بعهده	his covenant	biʿahdihi
+12	3:76:5	w	وَٱتَّقَىٰ	ﲷ	واتقى	and fears (Allah)	wa-ittaqā
+12	3:76:6	w	فَإِنَّ	ﲸ	فان	then indeed	fa-inna
+12	3:76:7	w	ٱللَّهَ	ﲹ	الله	Allah	l-laha
+12	3:76:8	w	يُحِبُّ	ﲺ	يحب	loves	yuḥibbu
+12	3:76:9	w	ٱلۡمُتَّقِينَ	ﲻ	المتقين	those who fear (Him)	l-mutaqīna
+13	3:76:10	e	٧٦	ﲼ			
+13	3:77:1	w	إِنَّ	ﲽ	ان	Indeed	inna
+13	3:77:2	w	ٱلَّذِينَ	ﲾ	الذين	those who	alladhīna
+13	3:77:3	w	يَشۡتَرُونَ	ﲿ	يشترون	exchange	yashtarūna
+13	3:77:4	w	بِعَهۡدِ	ﳀ	بعهد	(the) Covenant	biʿahdi
+13	3:77:5	w	ٱللَّهِ	ﳁ	الله	(of) Allah	l-lahi
+13	3:77:6	w	وَأَيۡمَٰنِهِمۡ	ﳂ	وايمانهم	and their oaths	wa-aymānihim
+13	3:77:7	w	ثَمَنٗا	ﳃ	ثمنا	(for) a price	thamanan
+13	3:77:8	w	قَلِيلًا	ﳄ	قليلا	little	qalīlan
+14	3:77:9	w	أُوْلَٰٓئِكَ	ﳅ	اولايك	those	ulāika
+14	3:77:10	w	لَا	ﳆ	لا	no	lā
+14	3:77:11	w	خَلَٰقَ	ﳇ	خلاق	share	khalāqa
+14	3:77:12	w	لَهُمۡ	ﳈ	لهم	for them	lahum
+14	3:77:13	w	فِي	ﳉ	في	in	fī
+14	3:77:14	w	ٱلۡأٓخِرَةِ	ﳊ	الاخرة	the Hereafter	l-ākhirati
+14	3:77:15	w	وَلَا	ﳋ	ولا	and not	walā
+14	3:77:16	w	يُكَلِّمُهُمُ	ﳌ	يكلمهم	will speak to them	yukallimuhumu
+14	3:77:17	w	ٱللَّهُ	ﳍ	الله	Allah	l-lahu
+14	3:77:18	w	وَلَا	ﳎ	ولا	and not	walā
+14	3:77:19	w	يَنظُرُ	ﳏ	ينظر	look	yanẓuru
+15	3:77:20	w	إِلَيۡهِمۡ	ﳐ	اليهم	at them	ilayhim
+15	3:77:21	w	يَوۡمَ	ﳑ	يوم	(on the) Day	yawma
+15	3:77:22	w	ٱلۡقِيَٰمَةِ	ﳒ	القيامة	(of) the Resurrection	l-qiyāmati
+15	3:77:23	w	وَلَا	ﳓ	ولا	and not	walā
+15	3:77:24	w	يُزَكِّيهِمۡ	ﳔ	يزكيهم	purify them	yuzakkīhim
+15	3:77:25	w	وَلَهُمۡ	ﳕ	ولهم	and for them	walahum
+15	3:77:26	w	عَذَابٌ	ﳖ	عذاب	(is) a punishment	ʿadhābun
+15	3:77:27	w	أَلِيمٞ	ﳗ	اليم	painful	alīmun
+15	3:77:28	e	٧٧	ﳘ			

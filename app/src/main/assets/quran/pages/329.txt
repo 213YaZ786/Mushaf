@@ -1,0 +1,121 @@
+1	21:82:1	w	وَمِنَ	ﱁ	ومن	And of	wamina
+1	21:82:2	w	ٱلشَّيَٰطِينِ	ﱂ	الشياطين	the devils	l-shayāṭīni
+1	21:82:3	w	مَن	ﱃ	من	(were some) who	man
+1	21:82:4	w	يَغُوصُونَ	ﱄ	يغوصون	would dive	yaghūṣūna
+1	21:82:5	w	لَهُۥ	ﱅ	له	for him	lahu
+1	21:82:6	w	وَيَعۡمَلُونَ	ﱆ	ويعملون	and would do	wayaʿmalūna
+1	21:82:7	w	عَمَلٗا	ﱇ	عملا	work	ʿamalan
+1	21:82:8	w	دُونَ	ﱈ	دون	other than	dūna
+2	21:82:9	w	ذَٰلِكَۖ	ﱉﱊ	ذالك	that	dhālika
+2	21:82:10	w	وَكُنَّا	ﱋ	وكنا	And We were	wakunnā
+2	21:82:11	w	لَهُمۡ	ﱌ	لهم	of them	lahum
+2	21:82:12	w	حَٰفِظِينَ	ﱍ	حافظين	Guardians	ḥāfiẓīna
+2	21:82:13	e	٨٢	ﱎ			
+2	21:83:1	w	۞ وَأَيُّوبَ	ﱏ ﱐ	۞ وايوب	And Ayub	wa-ayyūba
+2	21:83:2	w	إِذۡ	ﱑ	اذ	when	idh
+2	21:83:3	w	نَادَىٰ	ﱒ	نادى	he called	nādā
+3	21:83:4	w	رَبَّهُۥٓ	ﱓ	ربه	(to) his Lord	rabbahu
+3	21:83:5	w	أَنِّي	ﱔ	اني	Indeed, [I]	annī
+3	21:83:6	w	مَسَّنِيَ	ﱕ	مسني	has touched me	massaniya
+3	21:83:7	w	ٱلضُّرُّ	ﱖ	الضر	the adversity	l-ḍuru
+3	21:83:8	w	وَأَنتَ	ﱗ	وانت	and You	wa-anta
+3	21:83:9	w	أَرۡحَمُ	ﱘ	ارحم	(are) Most Merciful	arḥamu
+3	21:83:10	w	ٱلرَّٰحِمِينَ	ﱙ	الراحمين	(of) the Merciful	l-rāḥimīna
+3	21:83:11	e	٨٣	ﱚ			
+4	21:84:1	w	فَٱسۡتَجَبۡنَا	ﱛ	فاستجبنا	So We responded	fa-is'tajabnā
+4	21:84:2	w	لَهُۥ	ﱜ	له	to him	lahu
+4	21:84:3	w	فَكَشَفۡنَا	ﱝ	فكشفنا	and We removed	fakashafnā
+4	21:84:4	w	مَا	ﱞ	ما	what	mā
+4	21:84:5	w	بِهِۦ	ﱟ	به	(was) on him	bihi
+4	21:84:6	w	مِن	ﱠ	من	of	min
+4	21:84:7	w	ضُرّٖۖ	ﱡﱢ	ضر	(the) adversity	ḍurrin
+4	21:84:8	w	وَءَاتَيۡنَٰهُ	ﱣ	واتيناه	And We gave him	waātaynāhu
+4	21:84:9	w	أَهۡلَهُۥ	ﱤ	اهله	his family	ahlahu
+5	21:84:10	w	وَمِثۡلَهُم	ﱥ	ومثلهم	and (the) like thereof	wamith'lahum
+5	21:84:11	w	مَّعَهُمۡ	ﱦ	معهم	with them	maʿahum
+5	21:84:12	w	رَحۡمَةٗ	ﱧ	رحمة	(as) Mercy	raḥmatan
+5	21:84:13	w	مِّنۡ	ﱨ	من	from Ourselves	min
+5	21:84:14	w	عِندِنَا	ﱩ	عندنا	from Ourselves	ʿindinā
+5	21:84:15	w	وَذِكۡرَىٰ	ﱪ	وذكرى	and a reminder	wadhik'rā
+5	21:84:16	w	لِلۡعَٰبِدِينَ	ﱫ	للعابدين	for the worshippers	lil'ʿābidīna
+6	21:84:17	e	٨٤	ﱬ			
+6	21:85:1	w	وَإِسۡمَٰعِيلَ	ﱭ	واسماعيل	And Ishmael	wa-is'māʿīla
+6	21:85:2	w	وَإِدۡرِيسَ	ﱮ	وادريس	and Idris	wa-id'rīsa
+6	21:85:3	w	وَذَا	ﱯ	وذا	and Dhul-Kifl	wadhā
+6	21:85:4	w	ٱلۡكِفۡلِۖ	ﱰﱱ	الكفل	and Dhul-Kifl	l-kif'li
+6	21:85:5	w	كُلّٞ	ﱲ	كل	all	kullun
+6	21:85:6	w	مِّنَ	ﱳ	من	(were) of	mina
+6	21:85:7	w	ٱلصَّٰبِرِينَ	ﱴ	الصابرين	the patient ones	l-ṣābirīna
+7	21:85:8	e	٨٥	ﱵ			
+7	21:86:1	w	وَأَدۡخَلۡنَٰهُمۡ	ﱶ	وادخلناهم	And We admitted them	wa-adkhalnāhum
+7	21:86:2	w	فِي	ﱷ	في	in	fī
+7	21:86:3	w	رَحۡمَتِنَآۖ	ﱸﱹ	رحمتنا	Our Mercy	raḥmatinā
+7	21:86:4	w	إِنَّهُم	ﱺ	انهم	Indeed, they	innahum
+7	21:86:5	w	مِّنَ	ﱻ	من	(were) of	mina
+7	21:86:6	w	ٱلصَّٰلِحِينَ	ﱼ	الصالحين	the righteous	l-ṣāliḥīna
+7	21:86:7	e	٨٦	ﱽ			
+8	21:87:1	w	وَذَا	ﱾ	وذا	And Dhun-Nun	wadhā
+8	21:87:2	w	ٱلنُّونِ	ﱿ	النون	And Dhun-Nun	l-nūni
+8	21:87:3	w	إِذ	ﲀ	اذ	when	idh
+8	21:87:4	w	ذَّهَبَ	ﲁ	ذهب	he went	dhahaba
+8	21:87:5	w	مُغَٰضِبٗا	ﲂ	مغاضبا	(while) angry	mughāḍiban
+8	21:87:6	w	فَظَنَّ	ﲃ	فظن	and thought	faẓanna
+8	21:87:7	w	أَن	ﲄ	ان	that	an
+8	21:87:8	w	لَّن	ﲅ	لن	never	lan
+8	21:87:9	w	نَّقۡدِرَ	ﲆ	نقدر	We would decree	naqdira
+8	21:87:10	w	عَلَيۡهِ	ﲇ	عليه	upon him	ʿalayhi
+9	21:87:11	w	فَنَادَىٰ	ﲈ	فنادى	Then he called	fanādā
+9	21:87:12	w	فِي	ﲉ	في	in	fī
+9	21:87:13	w	ٱلظُّلُمَٰتِ	ﲊ	الظلمات	the darkness(es)	l-ẓulumāti
+9	21:87:14	w	أَن	ﲋ	ان	that	an
+9	21:87:15	w	لَّآ	ﲌ	لا	(There is) no	lā
+9	21:87:16	w	إِلَٰهَ	ﲍ	الاه	god	ilāha
+9	21:87:17	w	إِلَّآ	ﲎ	الا	except	illā
+9	21:87:18	w	أَنتَ	ﲏ	انت	You	anta
+9	21:87:19	w	سُبۡحَٰنَكَ	ﲐ	سبحانك	Glory be to You	sub'ḥānaka
+9	21:87:20	w	إِنِّي	ﲑ	اني	Indeed, [I]	innī
+10	21:87:21	w	كُنتُ	ﲒ	كنت	I am	kuntu
+10	21:87:22	w	مِنَ	ﲓ	من	of	mina
+10	21:87:23	w	ٱلظَّٰلِمِينَ	ﲔ	الظالمين	the wrongdoers	l-ẓālimīna
+10	21:87:24	e	٨٧	ﲕ			
+10	21:88:1	w	فَٱسۡتَجَبۡنَا	ﲖ	فاستجبنا	So We responded	fa-is'tajabnā
+10	21:88:2	w	لَهُۥ	ﲗ	له	to him	lahu
+10	21:88:3	w	وَنَجَّيۡنَٰهُ	ﲘ	ونجيناه	and We saved him	wanajjaynāhu
+11	21:88:4	w	مِنَ	ﲙ	من	from	mina
+11	21:88:5	w	ٱلۡغَمِّۚ	ﲚﲛ	الغم	the distress	l-ghami
+11	21:88:6	w	وَكَذَٰلِكَ	ﲜ	وكذالك	And thus	wakadhālika
+11	21:88:7	w	نُـۨجِي	ﲝ	ننجي	We save	nunjī
+11	21:88:8	w	ٱلۡمُؤۡمِنِينَ	ﲞ	المومنين	the believers	l-mu'minīna
+11	21:88:9	e	٨٨	ﲟ			
+11	21:89:1	w	وَزَكَرِيَّآ	ﲠ	وزكريا	And Zakariya	wazakariyyā
+12	21:89:2	w	إِذۡ	ﲡ	اذ	when	idh
+12	21:89:3	w	نَادَىٰ	ﲢ	نادى	he called	nādā
+12	21:89:4	w	رَبَّهُۥ	ﲣ	ربه	(to) his Lord	rabbahu
+12	21:89:5	w	رَبِّ	ﲤ	رب	My Lord	rabbi
+12	21:89:6	w	لَا	ﲥ	لا	(Do) not	lā
+12	21:89:7	w	تَذَرۡنِي	ﲦ	تذرني	leave me	tadharnī
+12	21:89:8	w	فَرۡدٗا	ﲧ	فردا	alone	fardan
+12	21:89:9	w	وَأَنتَ	ﲨ	وانت	while You	wa-anta
+12	21:89:10	w	خَيۡرُ	ﲩ	خير	(are) [the] Best	khayru
+12	21:89:11	w	ٱلۡوَٰرِثِينَ	ﲪ	الوارثين	(of) the inheritors	l-wārithīna
+13	21:89:12	e	٨٩	ﲫ			
+13	21:90:1	w	فَٱسۡتَجَبۡنَا	ﲬ	فاستجبنا	So We responded	fa-is'tajabnā
+13	21:90:2	w	لَهُۥ	ﲭ	له	to him	lahu
+13	21:90:3	w	وَوَهَبۡنَا	ﲮ	ووهبنا	and We bestowed	wawahabnā
+13	21:90:4	w	لَهُۥ	ﲯ	له	on him	lahu
+13	21:90:5	w	يَحۡيَىٰ	ﲰ	يحيى	Yahya	yaḥyā
+13	21:90:6	w	وَأَصۡلَحۡنَا	ﲱ	واصلحنا	and We cured	wa-aṣlaḥnā
+14	21:90:7	w	لَهُۥ	ﲲ	له	for him	lahu
+14	21:90:8	w	زَوۡجَهُۥٓۚ	ﲳﲴ	زوجه	his wife	zawjahu
+14	21:90:9	w	إِنَّهُمۡ	ﲵ	انهم	Indeed, they	innahum
+14	21:90:10	w	كَانُواْ	ﲶ	كانوا	used (to)	kānū
+14	21:90:11	w	يُسَٰرِعُونَ	ﲷ	يسارعون	hasten	yusāriʿūna
+14	21:90:12	w	فِي	ﲸ	في	in	fī
+14	21:90:13	w	ٱلۡخَيۡرَٰتِ	ﲹ	الخيرات	good deeds	l-khayrāti
+15	21:90:14	w	وَيَدۡعُونَنَا	ﲺ	ويدعوننا	and they supplicate to Us	wayadʿūnanā
+15	21:90:15	w	رَغَبٗا	ﲻ	رغبا	(in) hope	raghaban
+15	21:90:16	w	وَرَهَبٗاۖ	ﲼﲽ	ورهبا	and fear	warahaban
+15	21:90:17	w	وَكَانُواْ	ﲾ	وكانوا	and they were	wakānū
+15	21:90:18	w	لَنَا	ﲿ	لنا	to Us	lanā
+15	21:90:19	w	خَٰشِعِينَ	ﳀ	خاشعين	humbly submissive	khāshiʿīna
+15	21:90:20	e	٩٠	ﳁ			

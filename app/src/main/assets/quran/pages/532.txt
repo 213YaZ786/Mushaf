@@ -1,0 +1,141 @@
+1	55:19:1	w	مَرَجَ	ﱁ	مرج	He released	maraja
+1	55:19:2	w	ٱلۡبَحۡرَيۡنِ	ﱂ	البحرين	the two seas	l-baḥrayni
+1	55:19:3	w	يَلۡتَقِيَانِ	ﱃ	يلتقيان	meeting	yaltaqiyāni
+1	55:19:4	e	١٩	ﱄ			
+1	55:20:1	w	بَيۡنَهُمَا	ﱅ	بينهما	Between both of them	baynahumā
+1	55:20:2	w	بَرۡزَخٞ	ﱆ	برزخ	(is) a barrier	barzakhun
+1	55:20:3	w	لَّا	ﱇ	لا	not	lā
+1	55:20:4	w	يَبۡغِيَانِ	ﱈ	يبغيان	they transgress	yabghiyāni
+1	55:20:5	e	٢٠	ﱉ			
+1	55:21:1	w	فَبِأَيِّ	ﱊ	فباي	So which	fabi-ayyi
+1	55:21:2	w	ءَالَآءِ	ﱋ	الاء	(of the) favors	ālāi
+2	55:21:3	w	رَبِّكُمَا	ﱌ	ربكما	(of) your Lord	rabbikumā
+2	55:21:4	w	تُكَذِّبَانِ	ﱍ	تكذبان	will you both deny	tukadhibāni
+2	55:21:5	e	٢١	ﱎ			
+2	55:22:1	w	يَخۡرُجُ	ﱏ	يخرج	Come forth	yakhruju
+2	55:22:2	w	مِنۡهُمَا	ﱐ	منهما	from both of them	min'humā
+2	55:22:3	w	ٱللُّؤۡلُؤُ	ﱑ	اللولو	the pearl	l-lu'lu-u
+2	55:22:4	w	وَٱلۡمَرۡجَانُ	ﱒ	والمرجان	and the coral	wal-marjānu
+2	55:22:5	e	٢٢	ﱓ			
+2	55:23:1	w	فَبِأَيِّ	ﱔ	فباي	So which	fabi-ayyi
+2	55:23:2	w	ءَالَآءِ	ﱕ	الاء	(of the) favors	ālāi
+3	55:23:3	w	رَبِّكُمَا	ﱖ	ربكما	(of) your Lord	rabbikumā
+3	55:23:4	w	تُكَذِّبَانِ	ﱗ	تكذبان	will you both deny	tukadhibāni
+3	55:23:5	e	٢٣	ﱘ			
+3	55:24:1	w	وَلَهُ	ﱙ	وله	And for Him	walahu
+3	55:24:2	w	ٱلۡجَوَارِ	ﱚ	الجوار	(are) the ships	l-jawāri
+3	55:24:3	w	ٱلۡمُنشَـَٔاتُ	ﱛ	المنشات	elevated	l-munshaātu
+3	55:24:4	w	فِي	ﱜ	في	in	fī
+3	55:24:5	w	ٱلۡبَحۡرِ	ﱝ	البحر	the sea	l-baḥri
+3	55:24:6	w	كَٱلۡأَعۡلَٰمِ	ﱞ	كالاعلام	like mountains	kal-aʿlāmi
+3	55:24:7	e	٢٤	ﱟ			
+4	55:25:1	w	فَبِأَيِّ	ﱠ	فباي	So which	fabi-ayyi
+4	55:25:2	w	ءَالَآءِ	ﱡ	الاء	(of the) favors	ālāi
+4	55:25:3	w	رَبِّكُمَا	ﱢ	ربكما	(of) your Lord	rabbikumā
+4	55:25:4	w	تُكَذِّبَانِ	ﱣ	تكذبان	will you both deny	tukadhibāni
+4	55:25:5	e	٢٥	ﱤ			
+4	55:26:1	w	كُلُّ	ﱥ	كل	Everyone	kullu
+4	55:26:2	w	مَنۡ	ﱦ	من	who	man
+4	55:26:3	w	عَلَيۡهَا	ﱧ	عليها	(is) on it	ʿalayhā
+4	55:26:4	w	فَانٖ	ﱨ	فان	(will) perish	fānin
+4	55:26:5	e	٢٦	ﱩ			
+4	55:27:1	w	وَيَبۡقَىٰ	ﱪ	ويبقى	But will remain	wayabqā
+4	55:27:2	w	وَجۡهُ	ﱫ	وجه	(the) Face	wajhu
+5	55:27:3	w	رَبِّكَ	ﱬ	ربك	(of) your Lord	rabbika
+5	55:27:4	w	ذُو	ﱭ	ذو	(the) Owner	dhū
+5	55:27:5	w	ٱلۡجَلَٰلِ	ﱮ	الجلال	(of) Majesty	l-jalāli
+5	55:27:6	w	وَٱلۡإِكۡرَامِ	ﱯ	والاكرام	and Honor	wal-ik'rāmi
+5	55:27:7	e	٢٧	ﱰ			
+5	55:28:1	w	فَبِأَيِّ	ﱱ	فباي	So which	fabi-ayyi
+5	55:28:2	w	ءَالَآءِ	ﱲ	الاء	(of the) favors	ālāi
+5	55:28:3	w	رَبِّكُمَا	ﱳ	ربكما	(of) your Lord	rabbikumā
+5	55:28:4	w	تُكَذِّبَانِ	ﱴ	تكذبان	will you both deny	tukadhibāni
+5	55:28:5	e	٢٨	ﱵ			
+6	55:29:1	w	يَسۡـَٔلُهُۥ	ﱶ	يساله	Asks Him	yasaluhu
+6	55:29:2	w	مَن	ﱷ	من	whoever	man
+6	55:29:3	w	فِي	ﱸ	في	(is) in	fī
+6	55:29:4	w	ٱلسَّمَٰوَٰتِ	ﱹ	السماوات	the heavens	l-samāwāti
+6	55:29:5	w	وَٱلۡأَرۡضِۚ	ﱺﱻ	والارض	and the earth	wal-arḍi
+6	55:29:6	w	كُلَّ	ﱼ	كل	Every	kulla
+6	55:29:7	w	يَوۡمٍ	ﱽ	يوم	day	yawmin
+6	55:29:8	w	هُوَ	ﱾ	هو	He	huwa
+6	55:29:9	w	فِي	ﱿ	في	(is) in	fī
+6	55:29:10	w	شَأۡنٖ	ﲀ	شان	a matter	shanin
+6	55:29:11	e	٢٩	ﲁ			
+6	55:30:1	w	فَبِأَيِّ	ﲂ	فباي	So which	fabi-ayyi
+7	55:30:2	w	ءَالَآءِ	ﲃ	الاء	(of the) favors	ālāi
+7	55:30:3	w	رَبِّكُمَا	ﲄ	ربكما	(of) your Lord	rabbikumā
+7	55:30:4	w	تُكَذِّبَانِ	ﲅ	تكذبان	will you both deny	tukadhibāni
+7	55:30:5	e	٣٠	ﲆ			
+7	55:31:1	w	سَنَفۡرُغُ	ﲇ	سنفرغ	Soon We will attend	sanafrughu
+7	55:31:2	w	لَكُمۡ	ﲈ	لكم	to you	lakum
+7	55:31:3	w	أَيُّهَ	ﲉ	ايه	O you	ayyuha
+7	55:31:4	w	ٱلثَّقَلَانِ	ﲊ	الثقلان	two classes	l-thaqalāni
+7	55:31:5	e	٣١	ﲋ			
+7	55:32:1	w	فَبِأَيِّ	ﲌ	فباي	So which	fabi-ayyi
+8	55:32:2	w	ءَالَآءِ	ﲍ	الاء	(of the) favors	ālāi
+8	55:32:3	w	رَبِّكُمَا	ﲎ	ربكما	(of) your Lord	rabbikumā
+8	55:32:4	w	تُكَذِّبَانِ	ﲏ	تكذبان	will you both deny	tukadhibāni
+8	55:32:5	e	٣٢	ﲐ			
+8	55:33:1	w	يَٰمَعۡشَرَ	ﲑ	يا معشر	O assembly	yāmaʿshara
+8	55:33:2	w	ٱلۡجِنِّ	ﲒ	الجن	(of) the jinn	l-jini
+8	55:33:3	w	وَٱلۡإِنسِ	ﲓ	والانس	and the men	wal-insi
+8	55:33:4	w	إِنِ	ﲔ	ان	If	ini
+8	55:33:5	w	ٱسۡتَطَعۡتُمۡ	ﲕ	استطعتم	you are able	is'taṭaʿtum
+9	55:33:6	w	أَن	ﲖ	ان	to	an
+9	55:33:7	w	تَنفُذُواْ	ﲗ	تنفذوا	pass beyond	tanfudhū
+9	55:33:8	w	مِنۡ	ﲘ	من	[of]	min
+9	55:33:9	w	أَقۡطَارِ	ﲙ	اقطار	(the) regions	aqṭāri
+9	55:33:10	w	ٱلسَّمَٰوَٰتِ	ﲚ	السماوات	(of) the heavens	l-samāwāti
+9	55:33:11	w	وَٱلۡأَرۡضِ	ﲛ	والارض	and the earth	wal-arḍi
+9	55:33:12	w	فَٱنفُذُواْۚ	ﲜﲝ	فانفذوا	then pass	fa-unfudhū
+9	55:33:13	w	لَا	ﲞ	لا	Not	lā
+9	55:33:14	w	تَنفُذُونَ	ﲟ	تنفذون	you (can) pass	tanfudhūna
+10	55:33:15	w	إِلَّا	ﲠ	الا	except	illā
+10	55:33:16	w	بِسُلۡطَٰنٖ	ﲡ	بسلطان	by authority	bisul'ṭānin
+10	55:33:17	e	٣٣	ﲢ			
+10	55:34:1	w	فَبِأَيِّ	ﲣ	فباي	So which	fabi-ayyi
+10	55:34:2	w	ءَالَآءِ	ﲤ	الاء	(of the) favors	ālāi
+10	55:34:3	w	رَبِّكُمَا	ﲥ	ربكما	(of) your Lord	rabbikumā
+10	55:34:4	w	تُكَذِّبَانِ	ﲦ	تكذبان	will you both deny	tukadhibāni
+10	55:34:5	e	٣٤	ﲧ			
+10	55:35:1	w	يُرۡسَلُ	ﲨ	يرسل	Will be sent	yur'salu
+10	55:35:2	w	عَلَيۡكُمَا	ﲩ	عليكما	against both of you	ʿalaykumā
+11	55:35:3	w	شُوَاظٞ	ﲪ	شواظ	a flame	shuwāẓun
+11	55:35:4	w	مِّن	ﲫ	من	of	min
+11	55:35:5	w	نَّارٖ	ﲬ	نار	fire	nārin
+11	55:35:6	w	وَنُحَاسٞ	ﲭ	ونحاس	and smoke	wanuḥāsun
+11	55:35:7	w	فَلَا	ﲮ	فلا	and not	falā
+11	55:35:8	w	تَنتَصِرَانِ	ﲯ	تنتصران	you will (be able to) defend yourselves	tantaṣirāni
+11	55:35:9	e	٣٥	ﲰ			
+11	55:36:1	w	فَبِأَيِّ	ﲱ	فباي	So which	fabi-ayyi
+11	55:36:2	w	ءَالَآءِ	ﲲ	الاء	(of the) favors	ālāi
+11	55:36:3	w	رَبِّكُمَا	ﲳ	ربكما	(of) your Lord	rabbikumā
+12	55:36:4	w	تُكَذِّبَانِ	ﲴ	تكذبان	will you both deny	tukadhibāni
+12	55:36:5	e	٣٦	ﲵ			
+12	55:37:1	w	فَإِذَا	ﲶ	فاذا	Then when	fa-idhā
+12	55:37:2	w	ٱنشَقَّتِ	ﲷ	انشقت	is split	inshaqqati
+12	55:37:3	w	ٱلسَّمَآءُ	ﲸ	السماء	the heaven	l-samāu
+12	55:37:4	w	فَكَانَتۡ	ﲹ	فكانت	and it becomes	fakānat
+12	55:37:5	w	وَرۡدَةٗ	ﲺ	وردة	rose-colored	wardatan
+12	55:37:6	w	كَٱلدِّهَانِ	ﲻ	كالدهان	like murky oil	kal-dihāni
+13	55:37:7	e	٣٧	ﲼ			
+13	55:38:1	w	فَبِأَيِّ	ﲽ	فباي	So which	fabi-ayyi
+13	55:38:2	w	ءَالَآءِ	ﲾ	الاء	(of the) favors	ālāi
+13	55:38:3	w	رَبِّكُمَا	ﲿ	ربكما	(of) your Lord	rabbikumā
+13	55:38:4	w	تُكَذِّبَانِ	ﳀ	تكذبان	will you both deny	tukadhibāni
+13	55:38:5	e	٣٨	ﳁ			
+13	55:39:1	w	فَيَوۡمَئِذٖ	ﳂ	فيوميذ	Then (on) that Day	fayawma-idhin
+13	55:39:2	w	لَّا	ﳃ	لا	not	lā
+13	55:39:3	w	يُسۡـَٔلُ	ﳄ	يسال	will be asked	yus'alu
+13	55:39:4	w	عَن	ﳅ	عن	about	ʿan
+14	55:39:5	w	ذَنۢبِهِۦٓ	ﳆ	ذنبه	his sin	dhanbihi
+14	55:39:6	w	إِنسٞ	ﳇ	انس	any man	insun
+14	55:39:7	w	وَلَا	ﳈ	ولا	and not	walā
+14	55:39:8	w	جَآنّٞ	ﳉ	جان	any jinn	jānnun
+14	55:39:9	e	٣٩	ﳊ			
+14	55:40:1	w	فَبِأَيِّ	ﳋ	فباي	So which	fabi-ayyi
+14	55:40:2	w	ءَالَآءِ	ﳌ	الاء	(of the) favors	ālāi
+14	55:40:3	w	رَبِّكُمَا	ﳍ	ربكما	(of) your Lord	rabbikumā
+14	55:40:4	w	تُكَذِّبَانِ	ﳎ	تكذبان	will you both deny	tukadhibāni
+14	55:40:5	e	٤٠	ﳏ			

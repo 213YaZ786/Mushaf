@@ -1,0 +1,141 @@
+1	2:260:1	w	وَإِذۡ	ﱁ	واذ	And when	wa-idh
+1	2:260:2	w	قَالَ	ﱂ	قال	said	qāla
+1	2:260:3	w	إِبۡرَٰهِـۧمُ	ﱃ	ابراهيم	Ibrahim	ib'rāhīmu
+1	2:260:4	w	رَبِّ	ﱄ	رب	My Lord	rabbi
+1	2:260:5	w	أَرِنِي	ﱅ	ارني	show me	arinī
+1	2:260:6	w	كَيۡفَ	ﱆ	كيف	how	kayfa
+1	2:260:7	w	تُحۡيِ	ﱇ	تحيي	You give life	tuḥ'yī
+1	2:260:8	w	ٱلۡمَوۡتَىٰۖ	ﱈﱉ	الموتى	(to) the dead	l-mawtā
+1	2:260:9	w	قَالَ	ﱊ	قال	He said	qāla
+1	2:260:10	w	أَوَلَمۡ	ﱋ	اولم	Have not	awalam
+2	2:260:11	w	تُؤۡمِنۖ	ﱌﱍ	تومن	you believed	tu'min
+2	2:260:12	w	قَالَ	ﱎ	قال	He said	qāla
+2	2:260:13	w	بَلَىٰ	ﱏ	بلى	Yes	balā
+2	2:260:14	w	وَلَٰكِن	ﱐ	ولاكن	[and] but	walākin
+2	2:260:15	w	لِّيَطۡمَئِنَّ	ﱑ	ليطمين	to satisfy	liyaṭma-inna
+2	2:260:16	w	قَلۡبِيۖ	ﱒﱓ	قلبي	my heart	qalbī
+2	2:260:17	w	قَالَ	ﱔ	قال	He said	qāla
+2	2:260:18	w	فَخُذۡ	ﱕ	فخذ	Then take	fakhudh
+2	2:260:19	w	أَرۡبَعَةٗ	ﱖ	اربعة	four	arbaʿatan
+2	2:260:20	w	مِّنَ	ﱗ	من	of	mina
+3	2:260:21	w	ٱلطَّيۡرِ	ﱘ	الطير	the birds	l-ṭayri
+3	2:260:22	w	فَصُرۡهُنَّ	ﱙ	فصرهن	and incline them	faṣur'hunna
+3	2:260:23	w	إِلَيۡكَ	ﱚ	اليك	towards you	ilayka
+3	2:260:24	w	ثُمَّ	ﱛ	ثم	then	thumma
+3	2:260:25	w	ٱجۡعَلۡ	ﱜ	اجعل	put	ij'ʿal
+3	2:260:26	w	عَلَىٰ	ﱝ	على	on	ʿalā
+3	2:260:27	w	كُلِّ	ﱞ	كل	each	kulli
+3	2:260:28	w	جَبَلٖ	ﱟ	جبل	hill	jabalin
+3	2:260:29	w	مِّنۡهُنَّ	ﱠ	منهن	of them	min'hunna
+3	2:260:30	w	جُزۡءٗا	ﱡ	جزءا	a portion	juz'an
+4	2:260:31	w	ثُمَّ	ﱢ	ثم	then	thumma
+4	2:260:32	w	ٱدۡعُهُنَّ	ﱣ	ادعهن	call them	ud'ʿuhunna
+4	2:260:33	w	يَأۡتِينَكَ	ﱤ	ياتينك	they will come to you	yatīnaka
+4	2:260:34	w	سَعۡيٗاۚ	ﱥﱦ	سعيا	(in) haste	saʿyan
+4	2:260:35	w	وَٱعۡلَمۡ	ﱧ	واعلم	And know	wa-iʿ'lam
+4	2:260:36	w	أَنَّ	ﱨ	ان	that	anna
+4	2:260:37	w	ٱللَّهَ	ﱩ	الله	Allah	l-laha
+4	2:260:38	w	عَزِيزٌ	ﱪ	عزيز	(is) All-Mighty	ʿazīzun
+4	2:260:39	w	حَكِيمٞ	ﱫ	حكيم	All-Wise	ḥakīmun
+5	2:260:40	e	٢٦٠	ﱬ			
+5	2:261:1	w	مَّثَلُ	ﱭ	مثل	Example	mathalu
+5	2:261:2	w	ٱلَّذِينَ	ﱮ	الذين	(of) those who	alladhīna
+5	2:261:3	w	يُنفِقُونَ	ﱯ	ينفقون	spend	yunfiqūna
+5	2:261:4	w	أَمۡوَٰلَهُمۡ	ﱰ	اموالهم	their wealth	amwālahum
+5	2:261:5	w	فِي	ﱱ	في	in	fī
+5	2:261:6	w	سَبِيلِ	ﱲ	سبيل	(the) way	sabīli
+5	2:261:7	w	ٱللَّهِ	ﱳ	الله	(of) Allah	l-lahi
+5	2:261:8	w	كَمَثَلِ	ﱴ	كمثل	(is) like	kamathali
+5	2:261:9	w	حَبَّةٍ	ﱵ	حبة	a grain	ḥabbatin
+6	2:261:10	w	أَنۢبَتَتۡ	ﱶ	انبتت	which grows	anbatat
+6	2:261:11	w	سَبۡعَ	ﱷ	سبع	seven	sabʿa
+6	2:261:12	w	سَنَابِلَ	ﱸ	سنابل	ears	sanābila
+6	2:261:13	w	فِي	ﱹ	في	in	fī
+6	2:261:14	w	كُلِّ	ﱺ	كل	each	kulli
+6	2:261:15	w	سُنۢبُلَةٖ	ﱻ	سنبلة	ear	sunbulatin
+6	2:261:16	w	مِّاْئَةُ	ﱼ	ماية	hundred	mi-atu
+6	2:261:17	w	حَبَّةٖۗ	ﱽﱾ	حبة	grain(s)	ḥabbatin
+6	2:261:18	w	وَٱللَّهُ	ﱿ	والله	And Allah	wal-lahu
+7	2:261:19	w	يُضَٰعِفُ	ﲀ	يضاعف	gives manifold	yuḍāʿifu
+7	2:261:20	w	لِمَن	ﲁ	لمن	to whom	liman
+7	2:261:21	w	يَشَآءُۚ	ﲂﲃ	يشاء	He wills	yashāu
+7	2:261:22	w	وَٱللَّهُ	ﲄ	والله	And Allah	wal-lahu
+7	2:261:23	w	وَٰسِعٌ	ﲅ	واسع	(is) All-Encompassing	wāsiʿun
+7	2:261:24	w	عَلِيمٌ	ﲆ	عليم	All-Knowing	ʿalīmun
+7	2:261:25	e	٢٦١	ﲇ			
+7	2:262:1	w	ٱلَّذِينَ	ﲈ	الذين	Those who	alladhīna
+7	2:262:2	w	يُنفِقُونَ	ﲉ	ينفقون	spend	yunfiqūna
+8	2:262:3	w	أَمۡوَٰلَهُمۡ	ﲊ	اموالهم	their wealth	amwālahum
+8	2:262:4	w	فِي	ﲋ	في	in	fī
+8	2:262:5	w	سَبِيلِ	ﲌ	سبيل	(the) way	sabīli
+8	2:262:6	w	ٱللَّهِ	ﲍ	الله	(of) Allah	l-lahi
+8	2:262:7	w	ثُمَّ	ﲎ	ثم	then	thumma
+8	2:262:8	w	لَا	ﲏ	لا	not	lā
+8	2:262:9	w	يُتۡبِعُونَ	ﲐ	يتبعون	they follow	yut'biʿūna
+8	2:262:10	w	مَآ	ﲑ	ما	what	mā
+8	2:262:11	w	أَنفَقُواْ	ﲒ	انفقوا	they spend	anfaqū
+8	2:262:12	w	مَنّٗا	ﲓ	منا	(with) reminders of generosity	mannan
+8	2:262:13	w	وَلَآ	ﲔ	ولا	and not	walā
+9	2:262:14	w	أَذٗى	ﲕ	اذى	hurt	adhan
+9	2:262:15	w	لَّهُمۡ	ﲖ	لهم	for them	lahum
+9	2:262:16	w	أَجۡرُهُمۡ	ﲗ	اجرهم	their reward	ajruhum
+9	2:262:17	w	عِندَ	ﲘ	عند	(is) with	ʿinda
+9	2:262:18	w	رَبِّهِمۡ	ﲙ	ربهم	their Lord	rabbihim
+9	2:262:19	w	وَلَا	ﲚ	ولا	and (there will be) no	walā
+9	2:262:20	w	خَوۡفٌ	ﲛ	خوف	fear	khawfun
+9	2:262:21	w	عَلَيۡهِمۡ	ﲜ	عليهم	on them	ʿalayhim
+9	2:262:22	w	وَلَا	ﲝ	ولا	and not	walā
+9	2:262:23	w	هُمۡ	ﲞ	هم	they	hum
+10	2:262:24	w	يَحۡزَنُونَ	ﲟ	يحزنون	will grieve	yaḥzanūna
+10	2:262:25	e	٢٦٢	ﲠ			
+10	2:263:1	w	۞ قَوۡلٞ	ﲡ ﲢ	۞ قول	A word	qawlun
+10	2:263:2	w	مَّعۡرُوفٞ	ﲣ	معروف	kind	maʿrūfun
+10	2:263:3	w	وَمَغۡفِرَةٌ	ﲤ	ومغفرة	and (seeking) forgiveness	wamaghfiratun
+10	2:263:4	w	خَيۡرٞ	ﲥ	خير	(are) better	khayrun
+10	2:263:5	w	مِّن	ﲦ	من	than	min
+10	2:263:6	w	صَدَقَةٖ	ﲧ	صدقة	a charity	ṣadaqatin
+11	2:263:7	w	يَتۡبَعُهَآ	ﲨ	يتبعها	followed [it]	yatbaʿuhā
+11	2:263:8	w	أَذٗىۗ	ﲩﲪ	اذى	(by) hurt	adhan
+11	2:263:9	w	وَٱللَّهُ	ﲫ	والله	And Allah	wal-lahu
+11	2:263:10	w	غَنِيٌّ	ﲬ	غني	(is) All-Sufficient	ghaniyyun
+11	2:263:11	w	حَلِيمٞ	ﲭ	حليم	All-Forbearing	ḥalīmun
+11	2:263:12	e	٢٦٣	ﲮ			
+11	2:264:1	w	يَٰٓأَيُّهَا	ﲯ	يا ايها	O you	yāayyuhā
+11	2:264:2	w	ٱلَّذِينَ	ﲰ	الذين	who	alladhīna
+11	2:264:3	w	ءَامَنُواْ	ﲱ	امنوا	believe[d]	āmanū
+12	2:264:4	w	لَا	ﲲ	لا	(Do) not	lā
+12	2:264:5	w	تُبۡطِلُواْ	ﲳ	تبطلوا	render in vain	tub'ṭilū
+12	2:264:6	w	صَدَقَٰتِكُم	ﲴ	صدقاتكم	your charities	ṣadaqātikum
+12	2:264:7	w	بِٱلۡمَنِّ	ﲵ	بالمن	with reminders (of it)	bil-mani
+12	2:264:8	w	وَٱلۡأَذَىٰ	ﲶ	والاذى	or [the] hurt	wal-adhā
+12	2:264:9	w	كَٱلَّذِي	ﲷ	كالذي	like the one who	ka-alladhī
+12	2:264:10	w	يُنفِقُ	ﲸ	ينفق	spends	yunfiqu
+12	2:264:11	w	مَالَهُۥ	ﲹ	ماله	his wealth	mālahu
+13	2:264:12	w	رِئَآءَ	ﲺ	رياء	(to) be seen	riāa
+13	2:264:13	w	ٱلنَّاسِ	ﲻ	الناس	(by) the people	l-nāsi
+13	2:264:14	w	وَلَا	ﲼ	ولا	and (does) not	walā
+13	2:264:15	w	يُؤۡمِنُ	ﲽ	يومن	believe	yu'minu
+13	2:264:16	w	بِٱللَّهِ	ﲾ	بالله	in Allah	bil-lahi
+13	2:264:17	w	وَٱلۡيَوۡمِ	ﲿ	واليوم	and the Day	wal-yawmi
+13	2:264:18	w	ٱلۡأٓخِرِۖ	ﳀﳁ	الاخر	[the] Last	l-ākhiri
+13	2:264:19	w	فَمَثَلُهُۥ	ﳂ	فمثله	Then his example	famathaluhu
+13	2:264:20	w	كَمَثَلِ	ﳃ	كمثل	(is) like	kamathali
+14	2:264:21	w	صَفۡوَانٍ	ﳄ	صفوان	(that of a) smooth rock	ṣafwānin
+14	2:264:22	w	عَلَيۡهِ	ﳅ	عليه	upon it	ʿalayhi
+14	2:264:23	w	تُرَابٞ	ﳆ	تراب	(is) dust	turābun
+14	2:264:24	w	فَأَصَابَهُۥ	ﳇ	فاصابه	then fell on it	fa-aṣābahu
+14	2:264:25	w	وَابِلٞ	ﳈ	وابل	heavy rain	wābilun
+14	2:264:26	w	فَتَرَكَهُۥ	ﳉ	فتركه	then left it	fatarakahu
+14	2:264:27	w	صَلۡدٗاۖ	ﳊﳋ	صلدا	bare	ṣaldan
+14	2:264:28	w	لَّا	ﳌ	لا	Not	lā
+14	2:264:29	w	يَقۡدِرُونَ	ﳍ	يقدرون	they have control	yaqdirūna
+15	2:264:30	w	عَلَىٰ	ﳎ	على	on	ʿalā
+15	2:264:31	w	شَيۡءٖ	ﳏ	شيء	anything	shayin
+15	2:264:32	w	مِّمَّا	ﳐ	مما	of what	mimmā
+15	2:264:33	w	كَسَبُواْۗ	ﳑﳒ	كسبوا	they (have) earned	kasabū
+15	2:264:34	w	وَٱللَّهُ	ﳓ	والله	And Allah	wal-lahu
+15	2:264:35	w	لَا	ﳔ	لا	(does) not	lā
+15	2:264:36	w	يَهۡدِي	ﳕ	يهدي	guide	yahdī
+15	2:264:37	w	ٱلۡقَوۡمَ	ﳖ	القوم	the people	l-qawma
+15	2:264:38	w	ٱلۡكَٰفِرِينَ	ﳗ	الكافرين	[the] disbelieving	l-kāfirīna
+15	2:264:39	e	٢٦٤	ﳘ			

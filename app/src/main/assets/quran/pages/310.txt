@@ -1,0 +1,148 @@
+1	19:65:1	w	رَّبُّ	ﱁ	رب	Lord	rabbu
+1	19:65:2	w	ٱلسَّمَٰوَٰتِ	ﱂ	السماوات	(of) the heavens	l-samāwāti
+1	19:65:3	w	وَٱلۡأَرۡضِ	ﱃ	والارض	and the earth	wal-arḍi
+1	19:65:4	w	وَمَا	ﱄ	وما	and whatever	wamā
+1	19:65:5	w	بَيۡنَهُمَا	ﱅ	بينهما	(is) between both of them	baynahumā
+1	19:65:6	w	فَٱعۡبُدۡهُ	ﱆ	فاعبده	so worship Him	fa-uʿ'bud'hu
+1	19:65:7	w	وَٱصۡطَبِرۡ	ﱇ	واصطبر	and be constant	wa-iṣ'ṭabir
+1	19:65:8	w	لِعِبَٰدَتِهِۦۚ	ﱈﱉ	لعبادته	in His worship	liʿibādatihi
+2	19:65:9	w	هَلۡ	ﱊ	هل	Do	hal
+2	19:65:10	w	تَعۡلَمُ	ﱋ	تعلم	you know	taʿlamu
+2	19:65:11	w	لَهُۥ	ﱌ	له	for Him	lahu
+2	19:65:12	w	سَمِيّٗا	ﱍ	سميا	any similarity	samiyyan
+2	19:65:13	e	٦٥	ﱎ			
+2	19:66:1	w	وَيَقُولُ	ﱏ	ويقول	And says	wayaqūlu
+2	19:66:2	w	ٱلۡإِنسَٰنُ	ﱐ	الانسان	[the] man	l-insānu
+2	19:66:3	w	أَءِذَا	ﱑ	ااذا	What! When	a-idhā
+2	19:66:4	w	مَا	ﱒ	ما	What! When	mā
+2	19:66:5	w	مِتُّ	ﱓ	مت	I am dead	mittu
+2	19:66:6	w	لَسَوۡفَ	ﱔ	لسوف	surely will	lasawfa
+3	19:66:7	w	أُخۡرَجُ	ﱕ	اخرج	I be brought forth	ukh'raju
+3	19:66:8	w	حَيًّا	ﱖ	حيا	alive	ḥayyan
+3	19:66:9	e	٦٦	ﱗ			
+3	19:67:1	w	أَوَلَا	ﱘ	اولا	Does not	awalā
+3	19:67:2	w	يَذۡكُرُ	ﱙ	يذكر	remember	yadhkuru
+3	19:67:3	w	ٱلۡإِنسَٰنُ	ﱚ	الانسان	[the] man	l-insānu
+3	19:67:4	w	أَنَّا	ﱛ	انا	that We	annā
+3	19:67:5	w	خَلَقۡنَٰهُ	ﱜ	خلقناه	We created him	khalaqnāhu
+3	19:67:6	w	مِن	ﱝ	من	before	min
+3	19:67:7	w	قَبۡلُ	ﱞ	قبل	before	qablu
+4	19:67:8	w	وَلَمۡ	ﱟ	ولم	while not	walam
+4	19:67:9	w	يَكُ	ﱠ	يك	he was	yaku
+4	19:67:10	w	شَيۡـٔٗا	ﱡ	شييا	anything	shayan
+4	19:67:11	e	٦٧	ﱢ			
+4	19:68:1	w	فَوَرَبِّكَ	ﱣ	فوربك	So by your Lord	fawarabbika
+4	19:68:2	w	لَنَحۡشُرَنَّهُمۡ	ﱤ	لنحشرنهم	surely, We will gather them	lanaḥshurannahum
+4	19:68:3	w	وَٱلشَّيَٰطِينَ	ﱥ	والشياطين	and the devils	wal-shayāṭīna
+4	19:68:4	w	ثُمَّ	ﱦ	ثم	then	thumma
+5	19:68:5	w	لَنُحۡضِرَنَّهُمۡ	ﱧ	لنحضرنهم	surely, We will bring them	lanuḥ'ḍirannahum
+5	19:68:6	w	حَوۡلَ	ﱨ	حول	around	ḥawla
+5	19:68:7	w	جَهَنَّمَ	ﱩ	جهنم	Hell	jahannama
+5	19:68:8	w	جِثِيّٗا	ﱪ	جثيا	bent (on) knees	jithiyyan
+5	19:68:9	e	٦٨	ﱫ			
+5	19:69:1	w	ثُمَّ	ﱬ	ثم	Then	thumma
+5	19:69:2	w	لَنَنزِعَنَّ	ﱭ	لننزعن	surely, We will drag out	lananziʿanna
+5	19:69:3	w	مِن	ﱮ	من	from	min
+5	19:69:4	w	كُلِّ	ﱯ	كل	every	kulli
+6	19:69:5	w	شِيعَةٍ	ﱰ	شيعة	sect	shīʿatin
+6	19:69:6	w	أَيُّهُمۡ	ﱱ	ايهم	those of them	ayyuhum
+6	19:69:7	w	أَشَدُّ	ﱲ	اشد	(who were) worst	ashaddu
+6	19:69:8	w	عَلَى	ﱳ	على	against	ʿalā
+6	19:69:9	w	ٱلرَّحۡمَٰنِ	ﱴ	الرحمان	the Most Gracious	l-raḥmāni
+6	19:69:10	w	عِتِيّٗا	ﱵ	عتيا	(in) rebellion	ʿitiyyan
+6	19:69:11	e	٦٩	ﱶ			
+6	19:70:1	w	ثُمَّ	ﱷ	ثم	Then	thumma
+6	19:70:2	w	لَنَحۡنُ	ﱸ	لنحن	surely, We	lanaḥnu
+6	19:70:3	w	أَعۡلَمُ	ﱹ	اعلم	know best	aʿlamu
+6	19:70:4	w	بِٱلَّذِينَ	ﱺ	بالذين	[of] those who	bi-alladhīna
+7	19:70:5	w	هُمۡ	ﱻ	هم	[they]	hum
+7	19:70:6	w	أَوۡلَىٰ	ﱼ	اولى	(are) most worthy	awlā
+7	19:70:7	w	بِهَا	ﱽ	بها	therein	bihā
+7	19:70:8	w	صِلِيّٗا	ﱾ	صليا	(of) being burnt	ṣiliyyan
+7	19:70:9	e	٧٠	ﱿ			
+7	19:71:1	w	وَإِن	ﲀ	وان	And (there is) not	wa-in
+7	19:71:2	w	مِّنكُمۡ	ﲁ	منكم	(any) of you	minkum
+7	19:71:3	w	إِلَّا	ﲂ	الا	but	illā
+7	19:71:4	w	وَارِدُهَاۚ	ﲃﲄ	واردها	(will be) passing over it	wāriduhā
+7	19:71:5	w	كَانَ	ﲅ	كان	(This) is	kāna
+7	19:71:6	w	عَلَىٰ	ﲆ	على	upon	ʿalā
+7	19:71:7	w	رَبِّكَ	ﲇ	ربك	your Lord	rabbika
+8	19:71:8	w	حَتۡمٗا	ﲈ	حتما	an inevitability	ḥatman
+8	19:71:9	w	مَّقۡضِيّٗا	ﲉ	مقضيا	decreed	maqḍiyyan
+8	19:71:10	e	٧١	ﲊ			
+8	19:72:1	w	ثُمَّ	ﲋ	ثم	Then	thumma
+8	19:72:2	w	نُنَجِّي	ﲌ	ننجي	We will deliver	nunajjī
+8	19:72:3	w	ٱلَّذِينَ	ﲍ	الذين	those who	alladhīna
+8	19:72:4	w	ٱتَّقَواْ	ﲎ	اتقوا	feared (Allah)	ittaqaw
+8	19:72:5	w	وَّنَذَرُ	ﲏ	ونذر	and We will leave	wanadharu
+8	19:72:6	w	ٱلظَّٰلِمِينَ	ﲐ	الظالمين	the wrongdoers	l-ẓālimīna
+9	19:72:7	w	فِيهَا	ﲑ	فيها	therein	fīhā
+9	19:72:8	w	جِثِيّٗا	ﲒ	جثيا	bent (on) knees	jithiyyan
+9	19:72:9	e	٧٢	ﲓ			
+9	19:73:1	w	وَإِذَا	ﲔ	واذا	And when	wa-idhā
+9	19:73:2	w	تُتۡلَىٰ	ﲕ	تتلى	are recited	tut'lā
+9	19:73:3	w	عَلَيۡهِمۡ	ﲖ	عليهم	to them	ʿalayhim
+9	19:73:4	w	ءَايَٰتُنَا	ﲗ	اياتنا	Our Verses	āyātunā
+9	19:73:5	w	بَيِّنَٰتٖ	ﲘ	بينات	clear	bayyinātin
+9	19:73:6	w	قَالَ	ﲙ	قال	say	qāla
+9	19:73:7	w	ٱلَّذِينَ	ﲚ	الذين	those who	alladhīna
+9	19:73:8	w	كَفَرُواْ	ﲛ	كفروا	disbelieved	kafarū
+10	19:73:9	w	لِلَّذِينَ	ﲜ	للذين	to those who	lilladhīna
+10	19:73:10	w	ءَامَنُوٓاْ	ﲝ	امنوا	believed	āmanū
+10	19:73:11	w	أَيُّ	ﲞ	اي	Which	ayyu
+10	19:73:12	w	ٱلۡفَرِيقَيۡنِ	ﲟ	الفريقين	(of) the two groups	l-farīqayni
+10	19:73:13	w	خَيۡرٞ	ﲠ	خير	(is) better	khayrun
+10	19:73:14	w	مَّقَامٗا	ﲡ	مقاما	(in) position	maqāman
+10	19:73:15	w	وَأَحۡسَنُ	ﲢ	واحسن	and best	wa-aḥsanu
+10	19:73:16	w	نَدِيّٗا	ﲣ	نديا	(in) assembly	nadiyyan
+10	19:73:17	e	٧٣	ﲤ			
+11	19:74:1	w	وَكَمۡ	ﲥ	وكم	And how many	wakam
+11	19:74:2	w	أَهۡلَكۡنَا	ﲦ	اهلكنا	We destroyed	ahlaknā
+11	19:74:3	w	قَبۡلَهُم	ﲧ	قبلهم	before them	qablahum
+11	19:74:4	w	مِّن	ﲨ	من	of	min
+11	19:74:5	w	قَرۡنٍ	ﲩ	قرن	a generation	qarnin
+11	19:74:6	w	هُمۡ	ﲪ	هم	they	hum
+11	19:74:7	w	أَحۡسَنُ	ﲫ	احسن	(were) better	aḥsanu
+11	19:74:8	w	أَثَٰثٗا	ﲬ	اثاثا	(in) possessions	athāthan
+11	19:74:9	w	وَرِءۡيٗا	ﲭ	ورييا	and appearance	wari'yan
+11	19:74:10	e	٧٤	ﲮ			
+12	19:75:1	w	قُلۡ	ﲯ	قل	Say	qul
+12	19:75:2	w	مَن	ﲰ	من	Whoever	man
+12	19:75:3	w	كَانَ	ﲱ	كان	is	kāna
+12	19:75:4	w	فِي	ﲲ	في	in	fī
+12	19:75:5	w	ٱلضَّلَٰلَةِ	ﲳ	الضلالة	[the] error	l-ḍalālati
+12	19:75:6	w	فَلۡيَمۡدُدۡ	ﲴ	فليمدد	then surely will extend	falyamdud
+12	19:75:7	w	لَهُ	ﲵ	له	for him	lahu
+12	19:75:8	w	ٱلرَّحۡمَٰنُ	ﲶ	الرحمان	the Most Gracious	l-raḥmānu
+12	19:75:9	w	مَدًّاۚ	ﲷﲸ	مدا	an extension	maddan
+12	19:75:10	w	حَتَّىٰٓ	ﲹ	حتى	until	ḥattā
+12	19:75:11	w	إِذَا	ﲺ	اذا	when	idhā
+12	19:75:12	w	رَأَوۡاْ	ﲻ	راوا	they see	ra-aw
+13	19:75:13	w	مَا	ﲼ	ما	what	mā
+13	19:75:14	w	يُوعَدُونَ	ﲽ	يوعدون	they were promised	yūʿadūna
+13	19:75:15	w	إِمَّا	ﲾ	اما	either	immā
+13	19:75:16	w	ٱلۡعَذَابَ	ﲿ	العذاب	the punishment	l-ʿadhāba
+13	19:75:17	w	وَإِمَّا	ﳀ	واما	or	wa-immā
+13	19:75:18	w	ٱلسَّاعَةَ	ﳁ	الساعة	the Hour	l-sāʿata
+13	19:75:19	w	فَسَيَعۡلَمُونَ	ﳂ	فسيعلمون	then they will know	fasayaʿlamūna
+13	19:75:20	w	مَنۡ	ﳃ	من	who	man
+13	19:75:21	w	هُوَ	ﳄ	هو	[he]	huwa
+13	19:75:22	w	شَرّٞ	ﳅ	شر	(is) worst	sharrun
+14	19:75:23	w	مَّكَانٗا	ﳆ	مكانا	(in) position	makānan
+14	19:75:24	w	وَأَضۡعَفُ	ﳇ	واضعف	and weaker	wa-aḍʿafu
+14	19:75:25	w	جُندٗا	ﳈ	جندا	(in) forces	jundan
+14	19:75:26	e	٧٥	ﳉ			
+14	19:76:1	w	وَيَزِيدُ	ﳊ	ويزيد	And Allah increases	wayazīdu
+14	19:76:2	w	ٱللَّهُ	ﳋ	الله	And Allah increases	l-lahu
+14	19:76:3	w	ٱلَّذِينَ	ﳌ	الذين	those who	alladhīna
+14	19:76:4	w	ٱهۡتَدَوۡاْ	ﳍ	اهتدوا	accept guidance	ih'tadaw
+14	19:76:5	w	هُدٗىۗ	ﳎﳏ	هدى	(in) guidance	hudan
+15	19:76:6	w	وَٱلۡبَٰقِيَٰتُ	ﳐ	والباقيات	And the everlasting	wal-bāqiyātu
+15	19:76:7	w	ٱلصَّٰلِحَٰتُ	ﳑ	الصالحات	good deeds	l-ṣāliḥātu
+15	19:76:8	w	خَيۡرٌ	ﳒ	خير	(are) better	khayrun
+15	19:76:9	w	عِندَ	ﳓ	عند	near	ʿinda
+15	19:76:10	w	رَبِّكَ	ﳔ	ربك	your Lord	rabbika
+15	19:76:11	w	ثَوَابٗا	ﳕ	ثوابا	(for) reward	thawāban
+15	19:76:12	w	وَخَيۡرٞ	ﳖ	وخير	and better	wakhayrun
+15	19:76:13	w	مَّرَدًّا	ﳗ	مردا	(for) return	maraddan
+15	19:76:14	e	٧٦	ﳘ			

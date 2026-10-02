@@ -1,0 +1,151 @@
+1	2:253:1	w	۞ تِلۡكَ	ﱁ ﱂ	۞ تلك	These	til'ka
+1	2:253:2	w	ٱلرُّسُلُ	ﱃ	الرسل	(are) the Messengers	l-rusulu
+1	2:253:3	w	فَضَّلۡنَا	ﱄ	فضلنا	We (have) preferred	faḍḍalnā
+1	2:253:4	w	بَعۡضَهُمۡ	ﱅ	بعضهم	some of them	baʿḍahum
+1	2:253:5	w	عَلَىٰ	ﱆ	على	over	ʿalā
+1	2:253:6	w	بَعۡضٖۘ	ﱇﱈ	بعض	others	baʿḍin
+1	2:253:7	w	مِّنۡهُم	ﱉ	منهم	Among them	min'hum
+1	2:253:8	w	مَّن	ﱊ	من	(were those with) whom	man
+1	2:253:9	w	كَلَّمَ	ﱋ	كلم	spoke	kallama
+1	2:253:10	w	ٱللَّهُۖ	ﱌﱍ	الله	Allah	l-lahu
+2	2:253:11	w	وَرَفَعَ	ﱎ	ورفع	and He raised	warafaʿa
+2	2:253:12	w	بَعۡضَهُمۡ	ﱏ	بعضهم	some of them	baʿḍahum
+2	2:253:13	w	دَرَجَٰتٖۚ	ﱐﱑ	درجات	(in) degrees	darajātin
+2	2:253:14	w	وَءَاتَيۡنَا	ﱒ	واتينا	And We gave	waātaynā
+2	2:253:15	w	عِيسَى	ﱓ	عيسى	Isa	ʿīsā
+2	2:253:16	w	ٱبۡنَ	ﱔ	ابن	son	ib'na
+2	2:253:17	w	مَرۡيَمَ	ﱕ	مريم	(of) Maryam	maryama
+2	2:253:18	w	ٱلۡبَيِّنَٰتِ	ﱖ	البينات	the clear proofs	l-bayināti
+3	2:253:19	w	وَأَيَّدۡنَٰهُ	ﱗ	وايدناه	and We supported him	wa-ayyadnāhu
+3	2:253:20	w	بِرُوحِ	ﱘ	بروح	with Spirit	birūḥi
+3	2:253:21	w	ٱلۡقُدُسِۗ	ﱙﱚ	القدس	[the] Holy	l-qudusi
+3	2:253:22	w	وَلَوۡ	ﱛ	ولو	And if	walaw
+3	2:253:23	w	شَآءَ	ﱜ	شاء	(had) willed	shāa
+3	2:253:24	w	ٱللَّهُ	ﱝ	الله	Allah	l-lahu
+3	2:253:25	w	مَا	ﱞ	ما	not	mā
+3	2:253:26	w	ٱقۡتَتَلَ	ﱟ	اقتتل	(would have) fought each other	iq'tatala
+3	2:253:27	w	ٱلَّذِينَ	ﱠ	الذين	those who	alladhīna
+3	2:253:28	w	مِنۢ	ﱡ	من	(came) from	min
+4	2:253:29	w	بَعۡدِهِم	ﱢ	بعدهم	after them	baʿdihim
+4	2:253:30	w	مِّنۢ	ﱣ	من	from	min
+4	2:253:31	w	بَعۡدِ	ﱤ	بعد	after	baʿdi
+4	2:253:32	w	مَا	ﱥ	ما	[what]	mā
+4	2:253:33	w	جَآءَتۡهُمُ	ﱦ	جاءتهم	came to them	jāathumu
+4	2:253:34	w	ٱلۡبَيِّنَٰتُ	ﱧ	البينات	the clear proofs	l-bayinātu
+4	2:253:35	w	وَلَٰكِنِ	ﱨ	ولاكن	[And] but	walākini
+4	2:253:36	w	ٱخۡتَلَفُواْ	ﱩ	اختلفوا	they differed	ikh'talafū
+5	2:253:37	w	فَمِنۡهُم	ﱪ	فمنهم	[so] of them	famin'hum
+5	2:253:38	w	مَّنۡ	ﱫ	من	(are some) who	man
+5	2:253:39	w	ءَامَنَ	ﱬ	امن	believed	āmana
+5	2:253:40	w	وَمِنۡهُم	ﱭ	ومنهم	and of them	wamin'hum
+5	2:253:41	w	مَّن	ﱮ	من	(are some) who	man
+5	2:253:42	w	كَفَرَۚ	ﱯﱰ	كفر	denied	kafara
+5	2:253:43	w	وَلَوۡ	ﱱ	ولو	And if	walaw
+5	2:253:44	w	شَآءَ	ﱲ	شاء	(had) willed	shāa
+5	2:253:45	w	ٱللَّهُ	ﱳ	الله	Allah	l-lahu
+5	2:253:46	w	مَا	ﱴ	ما	not	mā
+5	2:253:47	w	ٱقۡتَتَلُواْ	ﱵ	اقتتلوا	they (would have) fought each other	iq'tatalū
+6	2:253:48	w	وَلَٰكِنَّ	ﱶ	ولاكن	[and] but	walākinna
+6	2:253:49	w	ٱللَّهَ	ﱷ	الله	Allah	l-laha
+6	2:253:50	w	يَفۡعَلُ	ﱸ	يفعل	does	yafʿalu
+6	2:253:51	w	مَا	ﱹ	ما	what	mā
+6	2:253:52	w	يُرِيدُ	ﱺ	يريد	He intends	yurīdu
+6	2:253:53	e	٢٥٣	ﱻ			
+6	2:254:1	w	يَٰٓأَيُّهَا	ﱼ	يا ايها	O you	yāayyuhā
+6	2:254:2	w	ٱلَّذِينَ	ﱽ	الذين	who	alladhīna
+6	2:254:3	w	ءَامَنُوٓاْ	ﱾ	امنوا	believe[d]	āmanū
+6	2:254:4	w	أَنفِقُواْ	ﱿ	انفقوا	Spend	anfiqū
+7	2:254:5	w	مِمَّا	ﲀ	مما	of what	mimmā
+7	2:254:6	w	رَزَقۡنَٰكُم	ﲁ	رزقناكم	We (have) provided you	razaqnākum
+7	2:254:7	w	مِّن	ﲂ	من	from	min
+7	2:254:8	w	قَبۡلِ	ﲃ	قبل	before	qabli
+7	2:254:9	w	أَن	ﲄ	ان	that	an
+7	2:254:10	w	يَأۡتِيَ	ﲅ	ياتي	comes	yatiya
+7	2:254:11	w	يَوۡمٞ	ﲆ	يوم	a Day	yawmun
+7	2:254:12	w	لَّا	ﲇ	لا	no	lā
+7	2:254:13	w	بَيۡعٞ	ﲈ	بيع	bargaining	bayʿun
+7	2:254:14	w	فِيهِ	ﲉ	فيه	in it	fīhi
+7	2:254:15	w	وَلَا	ﲊ	ولا	and no	walā
+7	2:254:16	w	خُلَّةٞ	ﲋ	خلة	friendship	khullatun
+7	2:254:17	w	وَلَا	ﲌ	ولا	and no	walā
+8	2:254:18	w	شَفَٰعَةٞۗ	ﲍﲎ	شفاعة	intercession	shafāʿatun
+8	2:254:19	w	وَٱلۡكَٰفِرُونَ	ﲏ	والكافرون	And the deniers	wal-kāfirūna
+8	2:254:20	w	هُمُ	ﲐ	هم	they	humu
+8	2:254:21	w	ٱلظَّٰلِمُونَ	ﲑ	الظالمون	(are) the wrongdoers	l-ẓālimūna
+8	2:254:22	e	٢٥٤	ﲒ			
+8	2:255:1	w	ٱللَّهُ	ﲓ	الله	Allah	al-lahu
+8	2:255:2	w	لَآ	ﲔ	لا	(there is) no	lā
+8	2:255:3	w	إِلَٰهَ	ﲕ	الاه	God	ilāha
+8	2:255:4	w	إِلَّا	ﲖ	الا	except	illā
+8	2:255:5	w	هُوَ	ﲗ	هو	Him	huwa
+9	2:255:6	w	ٱلۡحَيُّ	ﲘ	الحي	the Ever-Living	l-ḥayu
+9	2:255:7	w	ٱلۡقَيُّومُۚ	ﲙﲚ	القيوم	the Sustainer of all that exists	l-qayūmu
+9	2:255:8	w	لَا	ﲛ	لا	Not	lā
+9	2:255:9	w	تَأۡخُذُهُۥ	ﲜ	تاخذه	overtakes Him	takhudhuhu
+9	2:255:10	w	سِنَةٞ	ﲝ	سنة	slumber	sinatun
+9	2:255:11	w	وَلَا	ﲞ	ولا	[and] not	walā
+9	2:255:12	w	نَوۡمٞۚ	ﲟﲠ	نوم	sleep	nawmun
+9	2:255:13	w	لَّهُۥ	ﲡ	له	To Him (belongs)	lahu
+9	2:255:14	w	مَا	ﲢ	ما	what(ever)	mā
+9	2:255:15	w	فِي	ﲣ	في	(is) in	fī
+9	2:255:16	w	ٱلسَّمَٰوَٰتِ	ﲤ	السماوات	the heavens	l-samāwāti
+10	2:255:17	w	وَمَا	ﲥ	وما	and what(ever)	wamā
+10	2:255:18	w	فِي	ﲦ	في	(is) in	fī
+10	2:255:19	w	ٱلۡأَرۡضِۗ	ﲧﲨ	الارض	the earth	l-arḍi
+10	2:255:20	w	مَن	ﲩ	من	Who	man
+10	2:255:21	w	ذَا	ﲪ	ذا	(is) the one	dhā
+10	2:255:22	w	ٱلَّذِي	ﲫ	الذي	who	alladhī
+10	2:255:23	w	يَشۡفَعُ	ﲬ	يشفع	can intercede	yashfaʿu
+10	2:255:24	w	عِندَهُۥٓ	ﲭ	عنده	with Him	ʿindahu
+10	2:255:25	w	إِلَّا	ﲮ	الا	except	illā
+10	2:255:26	w	بِإِذۡنِهِۦۚ	ﲯﲰ	باذنه	by His permission	bi-idh'nihi
+10	2:255:27	w	يَعۡلَمُ	ﲱ	يعلم	He knows	yaʿlamu
+11	2:255:28	w	مَا	ﲲ	ما	what	mā
+11	2:255:29	w	بَيۡنَ	ﲳ	بين	(is)	bayna
+11	2:255:30	w	أَيۡدِيهِمۡ	ﲴ	ايديهم	before them	aydīhim
+11	2:255:31	w	وَمَا	ﲵ	وما	and what	wamā
+11	2:255:32	w	خَلۡفَهُمۡۖ	ﲶﲷ	خلفهم	(is) behind them	khalfahum
+11	2:255:33	w	وَلَا	ﲸ	ولا	And not	walā
+11	2:255:34	w	يُحِيطُونَ	ﲹ	يحيطون	they encompass	yuḥīṭūna
+11	2:255:35	w	بِشَيۡءٖ	ﲺ	بشيء	anything	bishayin
+11	2:255:36	w	مِّنۡ	ﲻ	من	of	min
+11	2:255:37	w	عِلۡمِهِۦٓ	ﲼ	علمه	His Knowledge	ʿil'mihi
+11	2:255:38	w	إِلَّا	ﲽ	الا	except	illā
+12	2:255:39	w	بِمَا	ﲾ	بما	[of] what	bimā
+12	2:255:40	w	شَآءَۚ	ﲿﳀ	شاء	He willed	shāa
+12	2:255:41	w	وَسِعَ	ﳁ	وسع	Extends	wasiʿa
+12	2:255:42	w	كُرۡسِيُّهُ	ﳂ	كرسيه	His Seat	kur'siyyuhu
+12	2:255:43	w	ٱلسَّمَٰوَٰتِ	ﳃ	السماوات	(to) the heavens	l-samāwāti
+12	2:255:44	w	وَٱلۡأَرۡضَۖ	ﳄﳅ	والارض	and the earth	wal-arḍa
+12	2:255:45	w	وَلَا	ﳆ	ولا	And not	walā
+12	2:255:46	w	يَـُٔودُهُۥ	ﳇ	ييوده	tires Him	yaūduhu
+12	2:255:47	w	حِفۡظُهُمَاۚ	ﳈﳉ	حفظهما	(the) guarding of both of them	ḥif'ẓuhumā
+13	2:255:48	w	وَهُوَ	ﳊ	وهو	And He	wahuwa
+13	2:255:49	w	ٱلۡعَلِيُّ	ﳋ	العلي	(is) the Most High	l-ʿaliyu
+13	2:255:50	w	ٱلۡعَظِيمُ	ﳌ	العظيم	the Most Great	l-ʿaẓīmu
+13	2:255:51	e	٢٥٥	ﳍ			
+13	2:256:1	w	لَآ	ﳎ	لا	(There is) no	lā
+13	2:256:2	w	إِكۡرَاهَ	ﳏ	اكراه	compulsion	ik'rāha
+13	2:256:3	w	فِي	ﳐ	في	in	fī
+13	2:256:4	w	ٱلدِّينِۖ	ﳑﳒ	الدين	the religion	l-dīni
+13	2:256:5	w	قَد	ﳓ	قد	Surely	qad
+13	2:256:6	w	تَّبَيَّنَ	ﳔ	تبين	has become distinct	tabayyana
+13	2:256:7	w	ٱلرُّشۡدُ	ﳕ	الرشد	the right (path)	l-rush'du
+13	2:256:8	w	مِنَ	ﳖ	من	from	mina
+14	2:256:9	w	ٱلۡغَيِّۚ	ﳗﳘ	الغي	the wrong	l-ghayi
+14	2:256:10	w	فَمَن	ﳙ	فمن	Then whoever	faman
+14	2:256:11	w	يَكۡفُرۡ	ﳚ	يكفر	disbelieves	yakfur
+14	2:256:12	w	بِٱلطَّٰغُوتِ	ﳛ	بالطاغوت	in false deities	bil-ṭāghūti
+14	2:256:13	w	وَيُؤۡمِنۢ	ﳜ	ويومن	and believes	wayu'min
+14	2:256:14	w	بِٱللَّهِ	ﳝ	بالله	in Allah	bil-lahi
+14	2:256:15	w	فَقَدِ	ﳞ	فقد	then surely	faqadi
+14	2:256:16	w	ٱسۡتَمۡسَكَ	ﳟ	استمسك	he grasped	is'tamsaka
+15	2:256:17	w	بِٱلۡعُرۡوَةِ	ﳠ	بالعروة	the handhold	bil-ʿur'wati
+15	2:256:18	w	ٱلۡوُثۡقَىٰ	ﳡ	الوثقى	[the] firm	l-wuth'qā
+15	2:256:19	w	لَا	ﳢ	لا	(which) not	lā
+15	2:256:20	w	ٱنفِصَامَ	ﳣ	انفصام	(will) break	infiṣāma
+15	2:256:21	w	لَهَاۗ	ﳤﳥ	لها	[for it]	lahā
+15	2:256:22	w	وَٱللَّهُ	ﳦ	والله	And Allah	wal-lahu
+15	2:256:23	w	سَمِيعٌ	ﳧ	سميع	(is) All-Hearing	samīʿun
+15	2:256:24	w	عَلِيمٌ	ﳨ	عليم	All-Knowing	ʿalīmun
+15	2:256:25	e	٢٥٦	ﳩ			

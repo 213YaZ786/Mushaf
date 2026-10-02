@@ -1,0 +1,151 @@
+1	19:26:1	w	فَكُلِي	ﱁ	فكلي	So eat	fakulī
+1	19:26:2	w	وَٱشۡرَبِي	ﱂ	واشربي	and drink	wa-ish'rabī
+1	19:26:3	w	وَقَرِّي	ﱃ	وقري	and cool	waqarrī
+1	19:26:4	w	عَيۡنٗاۖ	ﱄﱅ	عينا	(your) eyes	ʿaynan
+1	19:26:5	w	فَإِمَّا	ﱆ	فاما	And if	fa-immā
+1	19:26:6	w	تَرَيِنَّ	ﱇ	ترين	you see	tarayinna
+1	19:26:7	w	مِنَ	ﱈ	من	from	mina
+1	19:26:8	w	ٱلۡبَشَرِ	ﱉ	البشر	human being	l-bashari
+1	19:26:9	w	أَحَدٗا	ﱊ	احدا	anyone	aḥadan
+1	19:26:10	w	فَقُولِيٓ	ﱋ	فقولي	then say	faqūlī
+2	19:26:11	w	إِنِّي	ﱌ	اني	Indeed, I	innī
+2	19:26:12	w	نَذَرۡتُ	ﱍ	نذرت	[I] have vowed	nadhartu
+2	19:26:13	w	لِلرَّحۡمَٰنِ	ﱎ	للرحمان	to the Most Gracious	lilrraḥmāni
+2	19:26:14	w	صَوۡمٗا	ﱏ	صوما	a fast	ṣawman
+2	19:26:15	w	فَلَنۡ	ﱐ	فلن	so not	falan
+2	19:26:16	w	أُكَلِّمَ	ﱑ	اكلم	I will speak	ukallima
+2	19:26:17	w	ٱلۡيَوۡمَ	ﱒ	اليوم	today	l-yawma
+2	19:26:18	w	إِنسِيّٗا	ﱓ	انسيا	(to any) human being	insiyyan
+2	19:26:19	e	٢٦	ﱔ			
+2	19:27:1	w	فَأَتَتۡ	ﱕ	فاتت	Then she came	fa-atat
+3	19:27:2	w	بِهِۦ	ﱖ	به	with him	bihi
+3	19:27:3	w	قَوۡمَهَا	ﱗ	قومها	(to) her people	qawmahā
+3	19:27:4	w	تَحۡمِلُهُۥۖ	ﱘﱙ	تحمله	carrying him	taḥmiluhu
+3	19:27:5	w	قَالُواْ	ﱚ	قالوا	They said	qālū
+3	19:27:6	w	يَٰمَرۡيَمُ	ﱛ	يا مريم	O Maryam	yāmaryamu
+3	19:27:7	w	لَقَدۡ	ﱜ	لقد	Certainly	laqad
+3	19:27:8	w	جِئۡتِ	ﱝ	جيت	you (have) brought	ji'ti
+3	19:27:9	w	شَيۡـٔٗا	ﱞ	شييا	an amazing thing	shayan
+3	19:27:10	w	فَرِيّٗا	ﱟ	فريا	an amazing thing	fariyyan
+3	19:27:11	e	٢٧	ﱠ			
+4	19:28:1	w	يَٰٓأُخۡتَ	ﱡ	يا اخت	O sister	yāukh'ta
+4	19:28:2	w	هَٰرُونَ	ﱢ	هارون	(of) Harun	hārūna
+4	19:28:3	w	مَا	ﱣ	ما	Not	mā
+4	19:28:4	w	كَانَ	ﱤ	كان	was	kāna
+4	19:28:5	w	أَبُوكِ	ﱥ	ابوك	your father	abūki
+4	19:28:6	w	ٱمۡرَأَ	ﱦ	امرا	an evil man	im'ra-a
+4	19:28:7	w	سَوۡءٖ	ﱧ	سوء	an evil man	sawin
+4	19:28:8	w	وَمَا	ﱨ	وما	and not	wamā
+4	19:28:9	w	كَانَتۡ	ﱩ	كانت	was	kānat
+5	19:28:10	w	أُمُّكِ	ﱪ	امك	your mother	ummuki
+5	19:28:11	w	بَغِيّٗا	ﱫ	بغيا	unchaste	baghiyyan
+5	19:28:12	e	٢٨	ﱬ			
+5	19:29:1	w	فَأَشَارَتۡ	ﱭ	فاشارت	Then she pointed	fa-ashārat
+5	19:29:2	w	إِلَيۡهِۖ	ﱮﱯ	اليه	to him	ilayhi
+5	19:29:3	w	قَالُواْ	ﱰ	قالوا	They said	qālū
+5	19:29:4	w	كَيۡفَ	ﱱ	كيف	How	kayfa
+5	19:29:5	w	نُكَلِّمُ	ﱲ	نكلم	(can) we speak	nukallimu
+5	19:29:6	w	مَن	ﱳ	من	(to one) who	man
+5	19:29:7	w	كَانَ	ﱴ	كان	is	kāna
+5	19:29:8	w	فِي	ﱵ	في	in	fī
+6	19:29:9	w	ٱلۡمَهۡدِ	ﱶ	المهد	the cradle	l-mahdi
+6	19:29:10	w	صَبِيّٗا	ﱷ	صبيا	a child	ṣabiyyan
+6	19:29:11	e	٢٩	ﱸ			
+6	19:30:1	w	قَالَ	ﱹ	قال	He said	qāla
+6	19:30:2	w	إِنِّي	ﱺ	اني	Indeed, I am	innī
+6	19:30:3	w	عَبۡدُ	ﱻ	عبد	a slave	ʿabdu
+6	19:30:4	w	ٱللَّهِ	ﱼ	الله	(of) Allah	l-lahi
+6	19:30:5	w	ءَاتَىٰنِيَ	ﱽ	اتاني	He gave me	ātāniya
+6	19:30:6	w	ٱلۡكِتَٰبَ	ﱾ	الكتاب	the Scripture	l-kitāba
+6	19:30:7	w	وَجَعَلَنِي	ﱿ	وجعلني	and made me	wajaʿalanī
+7	19:30:8	w	نَبِيّٗا	ﲀ	نبيا	a Prophet	nabiyyan
+7	19:30:9	e	٣٠	ﲁ			
+7	19:31:1	w	وَجَعَلَنِي	ﲂ	وجعلني	And He (has) made me	wajaʿalanī
+7	19:31:2	w	مُبَارَكًا	ﲃ	مباركا	blessed	mubārakan
+7	19:31:3	w	أَيۡنَ	ﲄ	اين	wherever	ayna
+7	19:31:4	w	مَا	ﲅ	ما	wherever	mā
+7	19:31:5	w	كُنتُ	ﲆ	كنت	I am	kuntu
+7	19:31:6	w	وَأَوۡصَٰنِي	ﲇ	واوصاني	and has enjoined (on) me	wa-awṣānī
+7	19:31:7	w	بِٱلصَّلَوٰةِ	ﲈ	بالصلاة	[of] the prayer	bil-ṣalati
+8	19:31:8	w	وَٱلزَّكَوٰةِ	ﲉ	والزكاة	and zakah	wal-zakati
+8	19:31:9	w	مَا	ﲊ	ما	as long as I am	mā
+8	19:31:10	w	دُمۡتُ	ﲋ	دمت	as long as I am	dum'tu
+8	19:31:11	w	حَيّٗا	ﲌ	حيا	alive	ḥayyan
+8	19:31:12	e	٣١	ﲍ			
+8	19:32:1	w	وَبَرَّۢا	ﲎ	وبرا	And dutiful	wabarran
+8	19:32:2	w	بِوَٰلِدَتِي	ﲏ	بوالدتي	to my mother	biwālidatī
+8	19:32:3	w	وَلَمۡ	ﲐ	ولم	and not	walam
+8	19:32:4	w	يَجۡعَلۡنِي	ﲑ	يجعلني	He (has) made me	yajʿalnī
+9	19:32:5	w	جَبَّارٗا	ﲒ	جبارا	insolent	jabbāran
+9	19:32:6	w	شَقِيّٗا	ﲓ	شقيا	unblessed	shaqiyyan
+9	19:32:7	e	٣٢	ﲔ			
+9	19:33:1	w	وَٱلسَّلَٰمُ	ﲕ	والسلام	And peace (be)	wal-salāmu
+9	19:33:2	w	عَلَيَّ	ﲖ	علي	on me	ʿalayya
+9	19:33:3	w	يَوۡمَ	ﲗ	يوم	(the) day	yawma
+9	19:33:4	w	وُلِدتُّ	ﲘ	ولدت	I was born	wulidttu
+9	19:33:5	w	وَيَوۡمَ	ﲙ	ويوم	and (the) day	wayawma
+9	19:33:6	w	أَمُوتُ	ﲚ	اموت	I will die	amūtu
+10	19:33:7	w	وَيَوۡمَ	ﲛ	ويوم	and (the) Day	wayawma
+10	19:33:8	w	أُبۡعَثُ	ﲜ	ابعث	I will be raised	ub'ʿathu
+10	19:33:9	w	حَيّٗا	ﲝ	حيا	alive	ḥayyan
+10	19:33:10	e	٣٣	ﲞ			
+10	19:34:1	w	ذَٰلِكَ	ﲟ	ذالك	That	dhālika
+10	19:34:2	w	عِيسَى	ﲠ	عيسى	(was) Isa	ʿīsā
+10	19:34:3	w	ٱبۡنُ	ﲡ	ابن	(the) son	ub'nu
+10	19:34:4	w	مَرۡيَمَۖ	ﲢﲣ	مريم	(of) Maryam	maryama
+10	19:34:5	w	قَوۡلَ	ﲤ	قول	a statement	qawla
+10	19:34:6	w	ٱلۡحَقِّ	ﲥ	الحق	(of) truth	l-ḥaqi
+11	19:34:7	w	ٱلَّذِي	ﲦ	الذي	that which	alladhī
+11	19:34:8	w	فِيهِ	ﲧ	فيه	about it	fīhi
+11	19:34:9	w	يَمۡتَرُونَ	ﲨ	يمترون	they dispute	yamtarūna
+11	19:34:10	e	٣٤	ﲩ			
+11	19:35:1	w	مَا	ﲪ	ما	Not	mā
+11	19:35:2	w	كَانَ	ﲫ	كان	(it) is	kāna
+11	19:35:3	w	لِلَّهِ	ﲬ	لله	for Allah	lillahi
+11	19:35:4	w	أَن	ﲭ	ان	that	an
+11	19:35:5	w	يَتَّخِذَ	ﲮ	يتخذ	He should take	yattakhidha
+11	19:35:6	w	مِن	ﲯ	من	any son	min
+11	19:35:7	w	وَلَدٖۖ	ﲰﲱ	ولد	any son	waladin
+11	19:35:8	w	سُبۡحَٰنَهُۥٓۚ	ﲲﲳ	سبحانه	Glory be to Him	sub'ḥānahu
+12	19:35:9	w	إِذَا	ﲴ	اذا	When	idhā
+12	19:35:10	w	قَضَىٰٓ	ﲵ	قضى	He decrees	qaḍā
+12	19:35:11	w	أَمۡرٗا	ﲶ	امرا	a matter	amran
+12	19:35:12	w	فَإِنَّمَا	ﲷ	فانما	then only	fa-innamā
+12	19:35:13	w	يَقُولُ	ﲸ	يقول	He says	yaqūlu
+12	19:35:14	w	لَهُۥ	ﲹ	له	to it	lahu
+12	19:35:15	w	كُن	ﲺ	كن	Be	kun
+12	19:35:16	w	فَيَكُونُ	ﲻ	فيكون	and it is	fayakūnu
+12	19:35:17	e	٣٥	ﲼ			
+12	19:36:1	w	وَإِنَّ	ﲽ	وان	And indeed	wa-inna
+12	19:36:2	w	ٱللَّهَ	ﲾ	الله	Allah	l-laha
+12	19:36:3	w	رَبِّي	ﲿ	ربي	(is) my Lord	rabbī
+12	19:36:4	w	وَرَبُّكُمۡ	ﳀ	وربكم	and your Lord	warabbukum
+13	19:36:5	w	فَٱعۡبُدُوهُۚ	ﳁﳂ	فاعبدوه	so worship Him	fa-uʿ'budūhu
+13	19:36:6	w	هَٰذَا	ﳃ	هاذا	This	hādhā
+13	19:36:7	w	صِرَٰطٞ	ﳄ	صراط	(is) a path	ṣirāṭun
+13	19:36:8	w	مُّسۡتَقِيمٞ	ﳅ	مستقيم	straight	mus'taqīmun
+13	19:36:9	e	٣٦	ﳆ			
+13	19:37:1	w	فَٱخۡتَلَفَ	ﳇ	فاختلف	But differed	fa-ikh'talafa
+13	19:37:2	w	ٱلۡأَحۡزَابُ	ﳈ	الاحزاب	the sects	l-aḥzābu
+13	19:37:3	w	مِنۢ	ﳉ	من	from among them	min
+14	19:37:4	w	بَيۡنِهِمۡۖ	ﳊﳋ	بينهم	from among them	baynihim
+14	19:37:5	w	فَوَيۡلٞ	ﳌ	فويل	so woe	fawaylun
+14	19:37:6	w	لِّلَّذِينَ	ﳍ	للذين	to those who	lilladhīna
+14	19:37:7	w	كَفَرُواْ	ﳎ	كفروا	disbelieve	kafarū
+14	19:37:8	w	مِن	ﳏ	من	from	min
+14	19:37:9	w	مَّشۡهَدِ	ﳐ	مشهد	(the) witnessing	mashhadi
+14	19:37:10	w	يَوۡمٍ	ﳑ	يوم	(of) a Day	yawmin
+14	19:37:11	w	عَظِيمٍ	ﳒ	عظيم	great	ʿaẓīmin
+14	19:37:12	e	٣٧	ﳓ			
+14	19:38:1	w	أَسۡمِعۡ	ﳔ	اسمع	How they will hear	asmiʿ
+14	19:38:2	w	بِهِمۡ	ﳕ	بهم	How they will hear	bihim
+15	19:38:3	w	وَأَبۡصِرۡ	ﳖ	وابصر	and how (they will) see	wa-abṣir
+15	19:38:4	w	يَوۡمَ	ﳗ	يوم	(the) Day	yawma
+15	19:38:5	w	يَأۡتُونَنَا	ﳘﳙ	ياتوننا	they will come to Us	yatūnanā
+15	19:38:6	w	لَٰكِنِ	ﳚ	لاكن	but	lākini
+15	19:38:7	w	ٱلظَّٰلِمُونَ	ﳛ	الظالمون	the wrongdoers	l-ẓālimūna
+15	19:38:8	w	ٱلۡيَوۡمَ	ﳜ	اليوم	today	l-yawma
+15	19:38:9	w	فِي	ﳝ	في	(are) in	fī
+15	19:38:10	w	ضَلَٰلٖ	ﳞ	ضلال	error	ḍalālin
+15	19:38:11	w	مُّبِينٖ	ﳟ	مبين	clear	mubīnin
+15	19:38:12	e	٣٨	ﳠ			

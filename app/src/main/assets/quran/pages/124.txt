@@ -1,0 +1,145 @@
+1	5:96:1	w	أُحِلَّ	ﱁ	احل	Is made lawful	uḥilla
+1	5:96:2	w	لَكُمۡ	ﱂ	لكم	for you	lakum
+1	5:96:3	w	صَيۡدُ	ﱃ	صيد	game	ṣaydu
+1	5:96:4	w	ٱلۡبَحۡرِ	ﱄ	البحر	(of) the sea	l-baḥri
+1	5:96:5	w	وَطَعَامُهُۥ	ﱅ	وطعامه	and its food	waṭaʿāmuhu
+1	5:96:6	w	مَتَٰعٗا	ﱆ	متاعا	(as) provision	matāʿan
+1	5:96:7	w	لَّكُمۡ	ﱇ	لكم	for you	lakum
+1	5:96:8	w	وَلِلسَّيَّارَةِۖ	ﱈﱉ	وللسيارة	and for the travelers	walilssayyārati
+2	5:96:9	w	وَحُرِّمَ	ﱊ	وحرم	and is made unlawful	waḥurrima
+2	5:96:10	w	عَلَيۡكُمۡ	ﱋ	عليكم	on you	ʿalaykum
+2	5:96:11	w	صَيۡدُ	ﱌ	صيد	game	ṣaydu
+2	5:96:12	w	ٱلۡبَرِّ	ﱍ	البر	(of) the land	l-bari
+2	5:96:13	w	مَا	ﱎ	ما	as	mā
+2	5:96:14	w	دُمۡتُمۡ	ﱏ	دمتم	long as you	dum'tum
+2	5:96:15	w	حُرُمٗاۗ	ﱐﱑ	حرما	(are in) Ihram	ḥuruman
+2	5:96:16	w	وَٱتَّقُواْ	ﱒ	واتقوا	And be conscious	wa-ittaqū
+2	5:96:17	w	ٱللَّهَ	ﱓ	الله	(of) Allah	l-laha
+2	5:96:18	w	ٱلَّذِيٓ	ﱔ	الذي	the One	alladhī
+3	5:96:19	w	إِلَيۡهِ	ﱕ	اليه	to Him	ilayhi
+3	5:96:20	w	تُحۡشَرُونَ	ﱖ	تحشرون	you will be gathered	tuḥ'sharūna
+3	5:96:21	e	٩٦	ﱗ			
+3	5:97:1	w	۞ جَعَلَ	ﱘ ﱙ	۞ جعل	Has (been) made	jaʿala
+3	5:97:2	w	ٱللَّهُ	ﱚ	الله	(by) Allah	l-lahu
+3	5:97:3	w	ٱلۡكَعۡبَةَ	ﱛ	الكعبة	the Kabah	l-kaʿbata
+3	5:97:4	w	ٱلۡبَيۡتَ	ﱜ	البيت	the House	l-bayta
+3	5:97:5	w	ٱلۡحَرَامَ	ﱝ	الحرام	the Sacred	l-ḥarāma
+4	5:97:6	w	قِيَٰمٗا	ﱞ	قياما	an establishment	qiyāman
+4	5:97:7	w	لِّلنَّاسِ	ﱟ	للناس	for mankind	lilnnāsi
+4	5:97:8	w	وَٱلشَّهۡرَ	ﱠ	والشهر	and the month(s)	wal-shahra
+4	5:97:9	w	ٱلۡحَرَامَ	ﱡ	الحرام	[the] sacred	l-ḥarāma
+4	5:97:10	w	وَٱلۡهَدۡيَ	ﱢ	والهدي	and the (animals) for offering	wal-hadya
+4	5:97:11	w	وَٱلۡقَلَٰٓئِدَۚ	ﱣﱤ	والقلايد	and the garlands	wal-qalāida
+4	5:97:12	w	ذَٰلِكَ	ﱥ	ذالك	That (is)	dhālika
+4	5:97:13	w	لِتَعۡلَمُوٓاْ	ﱦ	لتعلموا	so that you may know	litaʿlamū
+5	5:97:14	w	أَنَّ	ﱧ	ان	that	anna
+5	5:97:15	w	ٱللَّهَ	ﱨ	الله	Allah	l-laha
+5	5:97:16	w	يَعۡلَمُ	ﱩ	يعلم	knows	yaʿlamu
+5	5:97:17	w	مَا	ﱪ	ما	what	mā
+5	5:97:18	w	فِي	ﱫ	في	(is) in	fī
+5	5:97:19	w	ٱلسَّمَٰوَٰتِ	ﱬ	السماوات	the heavens	l-samāwāti
+5	5:97:20	w	وَمَا	ﱭ	وما	and what	wamā
+5	5:97:21	w	فِي	ﱮ	في	(is) in	fī
+5	5:97:22	w	ٱلۡأَرۡضِ	ﱯ	الارض	the earth	l-arḍi
+5	5:97:23	w	وَأَنَّ	ﱰ	وان	and that	wa-anna
+5	5:97:24	w	ٱللَّهَ	ﱱ	الله	Allah	l-laha
+5	5:97:25	w	بِكُلِّ	ﱲ	بكل	of every	bikulli
+6	5:97:26	w	شَيۡءٍ	ﱳ	شيء	thing	shayin
+6	5:97:27	w	عَلِيمٌ	ﱴ	عليم	(is) All-Knowing	ʿalīmun
+6	5:97:28	e	٩٧	ﱵ			
+6	5:98:1	w	ٱعۡلَمُوٓاْ	ﱶ	اعلموا	Know	iʿ'lamū
+6	5:98:2	w	أَنَّ	ﱷ	ان	that	anna
+6	5:98:3	w	ٱللَّهَ	ﱸ	الله	Allah	l-laha
+6	5:98:4	w	شَدِيدُ	ﱹ	شديد	(is) severe	shadīdu
+6	5:98:5	w	ٱلۡعِقَابِ	ﱺ	العقاب	(in) punishment	l-ʿiqābi
+6	5:98:6	w	وَأَنَّ	ﱻ	وان	and that	wa-anna
+6	5:98:7	w	ٱللَّهَ	ﱼ	الله	Allah	l-laha
+7	5:98:8	w	غَفُورٞ	ﱽ	غفور	(is) Oft-Forgiving	ghafūrun
+7	5:98:9	w	رَّحِيمٞ	ﱾ	رحيم	Most Merciful	raḥīmun
+7	5:98:10	e	٩٨	ﱿ			
+7	5:99:1	w	مَّا	ﲀ	ما	Not	mā
+7	5:99:2	w	عَلَى	ﲁ	على	on	ʿalā
+7	5:99:3	w	ٱلرَّسُولِ	ﲂ	الرسول	the Messenger	l-rasūli
+7	5:99:4	w	إِلَّا	ﲃ	الا	except	illā
+7	5:99:5	w	ٱلۡبَلَٰغُۗ	ﲄﲅ	البلاغ	the conveyance	l-balāghu
+7	5:99:6	w	وَٱللَّهُ	ﲆ	والله	And Allah	wal-lahu
+7	5:99:7	w	يَعۡلَمُ	ﲇ	يعلم	knows	yaʿlamu
+7	5:99:8	w	مَا	ﲈ	ما	what	mā
+8	5:99:9	w	تُبۡدُونَ	ﲉ	تبدون	you reveal	tub'dūna
+8	5:99:10	w	وَمَا	ﲊ	وما	and what	wamā
+8	5:99:11	w	تَكۡتُمُونَ	ﲋ	تكتمون	you conceal	taktumūna
+8	5:99:12	e	٩٩	ﲌ			
+8	5:100:1	w	قُل	ﲍ	قل	Say	qul
+8	5:100:2	w	لَّا	ﲎ	لا	Not	lā
+8	5:100:3	w	يَسۡتَوِي	ﲏ	يستوي	(are) equal	yastawī
+8	5:100:4	w	ٱلۡخَبِيثُ	ﲐ	الخبيث	the evil	l-khabīthu
+8	5:100:5	w	وَٱلطَّيِّبُ	ﲑ	والطيب	and the good	wal-ṭayibu
+9	5:100:6	w	وَلَوۡ	ﲒ	ولو	even if	walaw
+9	5:100:7	w	أَعۡجَبَكَ	ﲓ	اعجبك	impresses you	aʿjabaka
+9	5:100:8	w	كَثۡرَةُ	ﲔ	كثرة	abundance	kathratu
+9	5:100:9	w	ٱلۡخَبِيثِۚ	ﲕﲖ	الخبيث	(of) the evil	l-khabīthi
+9	5:100:10	w	فَٱتَّقُواْ	ﲗ	فاتقوا	So fear	fa-ittaqū
+9	5:100:11	w	ٱللَّهَ	ﲘ	الله	Allah	l-laha
+9	5:100:12	w	يَٰٓأُوْلِي	ﲙ	يا اولي	O men	yāulī
+9	5:100:13	w	ٱلۡأَلۡبَٰبِ	ﲚ	الالباب	(of) understanding	l-albābi
+10	5:100:14	w	لَعَلَّكُمۡ	ﲛ	لعلكم	so that you may	laʿallakum
+10	5:100:15	w	تُفۡلِحُونَ	ﲜ	تفلحون	(be) successful	tuf'liḥūna
+10	5:100:16	e	١٠٠	ﲝ			
+10	5:101:1	w	يَٰٓأَيُّهَا	ﲞ	يا ايها	O you	yāayyuhā
+10	5:101:2	w	ٱلَّذِينَ	ﲟ	الذين	who	alladhīna
+10	5:101:3	w	ءَامَنُواْ	ﲠ	امنوا	believe	āmanū
+10	5:101:4	w	لَا	ﲡ	لا	(Do) not	lā
+10	5:101:5	w	تَسۡـَٔلُواْ	ﲢ	تسالوا	ask	tasalū
+10	5:101:6	w	عَنۡ	ﲣ	عن	about	ʿan
+11	5:101:7	w	أَشۡيَآءَ	ﲤ	اشياء	things	ashyāa
+11	5:101:8	w	إِن	ﲥ	ان	if	in
+11	5:101:9	w	تُبۡدَ	ﲦ	تبد	made clear	tub'da
+11	5:101:10	w	لَكُمۡ	ﲧ	لكم	to you	lakum
+11	5:101:11	w	تَسُؤۡكُمۡ	ﲨ	تسوكم	it may distress you	tasu'kum
+11	5:101:12	w	وَإِن	ﲩ	وان	and if	wa-in
+11	5:101:13	w	تَسۡـَٔلُواْ	ﲪ	تسالوا	you ask	tasalū
+11	5:101:14	w	عَنۡهَا	ﲫ	عنها	about it	ʿanhā
+11	5:101:15	w	حِينَ	ﲬ	حين	when	ḥīna
+11	5:101:16	w	يُنَزَّلُ	ﲭ	ينزل	is being revealed	yunazzalu
+12	5:101:17	w	ٱلۡقُرۡءَانُ	ﲮ	القران	the Quran	l-qur'ānu
+12	5:101:18	w	تُبۡدَ	ﲯ	تبد	it would be made clear	tub'da
+12	5:101:19	w	لَكُمۡ	ﲰ	لكم	to you	lakum
+12	5:101:20	w	عَفَا	ﲱ	عفا	has (been) pardoned	ʿafā
+12	5:101:21	w	ٱللَّهُ	ﲲ	الله	(by) Allah	l-lahu
+12	5:101:22	w	عَنۡهَاۗ	ﲳﲴ	عنها	[about] it	ʿanhā
+12	5:101:23	w	وَٱللَّهُ	ﲵ	والله	and Allah	wal-lahu
+12	5:101:24	w	غَفُورٌ	ﲶ	غفور	(is) Oft-Forgiving	ghafūrun
+12	5:101:25	w	حَلِيمٞ	ﲷ	حليم	All-Forbearing	ḥalīmun
+12	5:101:26	e	١٠١	ﲸ			
+13	5:102:1	w	قَدۡ	ﲹ	قد	Indeed	qad
+13	5:102:2	w	سَأَلَهَا	ﲺ	سالها	asked them	sa-alahā
+13	5:102:3	w	قَوۡمٞ	ﲻ	قوم	a people	qawmun
+13	5:102:4	w	مِّن	ﲼ	من	from	min
+13	5:102:5	w	قَبۡلِكُمۡ	ﲽ	قبلكم	before you	qablikum
+13	5:102:6	w	ثُمَّ	ﲾ	ثم	then	thumma
+13	5:102:7	w	أَصۡبَحُواْ	ﲿ	اصبحوا	they became	aṣbaḥū
+13	5:102:8	w	بِهَا	ﳀ	بها	thereby	bihā
+13	5:102:9	w	كَٰفِرِينَ	ﳁ	كافرين	disbelievers	kāfirīna
+13	5:102:10	e	١٠٢	ﳂ			
+13	5:103:1	w	مَا	ﳃ	ما	Not	mā
+13	5:103:2	w	جَعَلَ	ﳄ	جعل	has (been) made	jaʿala
+14	5:103:3	w	ٱللَّهُ	ﳅ	الله	(by) Allah	l-lahu
+14	5:103:4	w	مِنۢ	ﳆ	من	of	min
+14	5:103:5	w	بَحِيرَةٖ	ﳇ	بحيرة	a Bahirah	baḥīratin
+14	5:103:6	w	وَلَا	ﳈ	ولا	and not	walā
+14	5:103:7	w	سَآئِبَةٖ	ﳉ	سايبة	a Saibah	sāibatin
+14	5:103:8	w	وَلَا	ﳊ	ولا	and not	walā
+14	5:103:9	w	وَصِيلَةٖ	ﳋ	وصيلة	a Wasilah	waṣīlatin
+14	5:103:10	w	وَلَا	ﳌ	ولا	and not	walā
+14	5:103:11	w	حَامٖ	ﳍ	حام	a Hami	ḥāmin
+14	5:103:12	w	وَلَٰكِنَّ	ﳎ	ولاكن	[And] but	walākinna
+14	5:103:13	w	ٱلَّذِينَ	ﳏ	الذين	those who	alladhīna
+15	5:103:14	w	كَفَرُواْ	ﳐ	كفروا	disbelieved	kafarū
+15	5:103:15	w	يَفۡتَرُونَ	ﳑ	يفترون	they invent	yaftarūna
+15	5:103:16	w	عَلَى	ﳒ	على	against	ʿalā
+15	5:103:17	w	ٱللَّهِ	ﳓ	الله	Allah	l-lahi
+15	5:103:18	w	ٱلۡكَذِبَۖ	ﳔﳕ	الكذب	the lie	l-kadhiba
+15	5:103:19	w	وَأَكۡثَرُهُمۡ	ﳖ	واكثرهم	and most of them	wa-aktharuhum
+15	5:103:20	w	لَا	ﳗ	لا	(do) not	lā
+15	5:103:21	w	يَعۡقِلُونَ	ﳘ	يعقلون	use reason	yaʿqilūna
+15	5:103:22	e	١٠٣	ﳙ			

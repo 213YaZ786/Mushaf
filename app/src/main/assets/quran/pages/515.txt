@@ -1,0 +1,122 @@
+1	48:29:1	w	مُّحَمَّدٞ	ﱁ	محمد	Muhammad	muḥammadun
+1	48:29:2	w	رَّسُولُ	ﱂ	رسول	(is the) Messenger	rasūlu
+1	48:29:3	w	ٱللَّهِۚ	ﱃﱄ	الله	of Allah	l-lahi
+1	48:29:4	w	وَٱلَّذِينَ	ﱅ	والذين	and those who	wa-alladhīna
+1	48:29:5	w	مَعَهُۥٓ	ﱆ	معه	(are) with him	maʿahu
+1	48:29:6	w	أَشِدَّآءُ	ﱇ	اشداء	(are) firm	ashiddāu
+1	48:29:7	w	عَلَى	ﱈ	على	against	ʿalā
+1	48:29:8	w	ٱلۡكُفَّارِ	ﱉ	الكفار	the disbelievers	l-kufāri
+1	48:29:9	w	رُحَمَآءُ	ﱊ	رحماء	and merciful	ruḥamāu
+1	48:29:10	w	بَيۡنَهُمۡۖ	ﱋﱌ	بينهم	among themselves	baynahum
+2	48:29:11	w	تَرَىٰهُمۡ	ﱍ	تراهم	You see them	tarāhum
+2	48:29:12	w	رُكَّعٗا	ﱎ	ركعا	bowing	rukkaʿan
+2	48:29:13	w	سُجَّدٗا	ﱏ	سجدا	and prostrating	sujjadan
+2	48:29:14	w	يَبۡتَغُونَ	ﱐ	يبتغون	seeking	yabtaghūna
+2	48:29:15	w	فَضۡلٗا	ﱑ	فضلا	Bounty	faḍlan
+2	48:29:16	w	مِّنَ	ﱒ	من	from Allah	mina
+2	48:29:17	w	ٱللَّهِ	ﱓ	الله	from Allah	l-lahi
+2	48:29:18	w	وَرِضۡوَٰنٗاۖ	ﱔﱕ	ورضوانا	and pleasure	wariḍ'wānan
+2	48:29:19	w	سِيمَاهُمۡ	ﱖ	سيماهم	Their mark	sīmāhum
+3	48:29:20	w	فِي	ﱗ	في	(is) on	fī
+3	48:29:21	w	وُجُوهِهِم	ﱘ	وجوههم	their faces	wujūhihim
+3	48:29:22	w	مِّنۡ	ﱙ	من	from	min
+3	48:29:23	w	أَثَرِ	ﱚ	اثر	(the) trace	athari
+3	48:29:24	w	ٱلسُّجُودِۚ	ﱛﱜ	السجود	(of) the prostration	l-sujūdi
+3	48:29:25	w	ذَٰلِكَ	ﱝ	ذالك	That	dhālika
+3	48:29:26	w	مَثَلُهُمۡ	ﱞ	مثلهم	(is) their similitude	mathaluhum
+3	48:29:27	w	فِي	ﱟ	في	in	fī
+3	48:29:28	w	ٱلتَّوۡرَىٰةِۚ	ﱠﱡ	التوراة	the Taurah	l-tawrāti
+3	48:29:29	w	وَمَثَلُهُمۡ	ﱢ	ومثلهم	And their similitude	wamathaluhum
+3	48:29:30	w	فِي	ﱣ	في	in	fī
+4	48:29:31	w	ٱلۡإِنجِيلِ	ﱤ	الانجيل	the Injeel	l-injīli
+4	48:29:32	w	كَزَرۡعٍ	ﱥ	كزرع	(is) like a seed	kazarʿin
+4	48:29:33	w	أَخۡرَجَ	ﱦ	اخرج	(which) sends forth	akhraja
+4	48:29:34	w	شَطۡـَٔهُۥ	ﱧ	شطاه	its shoot	shaṭahu
+4	48:29:35	w	فَـَٔازَرَهُۥ	ﱨ	فازره	then strengthens it	faāzarahu
+4	48:29:36	w	فَٱسۡتَغۡلَظَ	ﱩ	فاستغلظ	then it becomes thick	fa-is'taghlaẓa
+4	48:29:37	w	فَٱسۡتَوَىٰ	ﱪ	فاستوى	and it stands	fa-is'tawā
+5	48:29:38	w	عَلَىٰ	ﱫ	على	upon	ʿalā
+5	48:29:39	w	سُوقِهِۦ	ﱬ	سوقه	its stem	sūqihi
+5	48:29:40	w	يُعۡجِبُ	ﱭ	يعجب	delighting	yuʿ'jibu
+5	48:29:41	w	ٱلزُّرَّاعَ	ﱮ	الزراع	the sowers	l-zurāʿa
+5	48:29:42	w	لِيَغِيظَ	ﱯ	ليغيظ	that He (may) enrage	liyaghīẓa
+5	48:29:43	w	بِهِمُ	ﱰ	بهم	by them	bihimu
+5	48:29:44	w	ٱلۡكُفَّارَۗ	ﱱﱲ	الكفار	the disbelievers	l-kufāra
+5	48:29:45	w	وَعَدَ	ﱳ	وعد	Allah has promised	waʿada
+5	48:29:46	w	ٱللَّهُ	ﱴ	الله	Allah has promised	l-lahu
+5	48:29:47	w	ٱلَّذِينَ	ﱵ	الذين	those who	alladhīna
+6	48:29:48	w	ءَامَنُواْ	ﱶ	امنوا	believe	āmanū
+6	48:29:49	w	وَعَمِلُواْ	ﱷ	وعملوا	and do	waʿamilū
+6	48:29:50	w	ٱلصَّٰلِحَٰتِ	ﱸ	الصالحات	righteous deeds	l-ṣāliḥāti
+6	48:29:51	w	مِنۡهُم	ﱹ	منهم	among them	min'hum
+6	48:29:52	w	مَّغۡفِرَةٗ	ﱺ	مغفرة	forgiveness	maghfiratan
+6	48:29:53	w	وَأَجۡرًا	ﱻ	واجرا	and a reward	wa-ajran
+6	48:29:54	w	عَظِيمَۢا	ﱼ	عظيما	great	ʿaẓīman
+6	48:29:55	e	٢٩	ﱽ			
+9	49:1:1	w	يَٰٓأَيُّهَا	ﱾ	يا ايها	O you who believe	yāayyuhā
+9	49:1:2	w	ٱلَّذِينَ	ﱿ	الذين	O you who believe	alladhīna
+9	49:1:3	w	ءَامَنُواْ	ﲀ	امنوا	O you who believe	āmanū
+9	49:1:4	w	لَا	ﲁ	لا	(Do) not	lā
+9	49:1:5	w	تُقَدِّمُواْ	ﲂ	تقدموا	put (yourselves) forward	tuqaddimū
+9	49:1:6	w	بَيۡنَ	ﲃ	بين	before Allah	bayna
+9	49:1:7	w	يَدَيِ	ﲄ	يدي	before Allah	yadayi
+9	49:1:8	w	ٱللَّهِ	ﲅ	الله	before Allah	l-lahi
+9	49:1:9	w	وَرَسُولِهِۦۖ	ﲆﲇ	ورسوله	and His Messenger	warasūlihi
+9	49:1:10	w	وَٱتَّقُواْ	ﲈ	واتقوا	and fear Allah	wa-ittaqū
+10	49:1:11	w	ٱللَّهَۚ	ﲉﲊ	الله	and fear Allah	l-laha
+10	49:1:12	w	إِنَّ	ﲋ	ان	Indeed	inna
+10	49:1:13	w	ٱللَّهَ	ﲌ	الله	Allah	l-laha
+10	49:1:14	w	سَمِيعٌ	ﲍ	سميع	(is) All-Hearer	samīʿun
+10	49:1:15	w	عَلِيمٞ	ﲎ	عليم	All-Knower	ʿalīmun
+10	49:1:16	e	١	ﲏ			
+10	49:2:1	w	يَٰٓأَيُّهَا	ﲐ	يا ايها	O you who believe	yāayyuhā
+10	49:2:2	w	ٱلَّذِينَ	ﲑ	الذين	O you who believe	alladhīna
+10	49:2:3	w	ءَامَنُواْ	ﲒ	امنوا	O you who believe	āmanū
+10	49:2:4	w	لَا	ﲓ	لا	(Do) not	lā
+10	49:2:5	w	تَرۡفَعُوٓاْ	ﲔ	ترفعوا	raise	tarfaʿū
+11	49:2:6	w	أَصۡوَٰتَكُمۡ	ﲕ	اصواتكم	your voices	aṣwātakum
+11	49:2:7	w	فَوۡقَ	ﲖ	فوق	above	fawqa
+11	49:2:8	w	صَوۡتِ	ﲗ	صوت	(the) voice	ṣawti
+11	49:2:9	w	ٱلنَّبِيِّ	ﲘ	النبي	(of) the Prophet	l-nabiyi
+11	49:2:10	w	وَلَا	ﲙ	ولا	and (do) not	walā
+11	49:2:11	w	تَجۡهَرُواْ	ﲚ	تجهروا	be loud	tajharū
+11	49:2:12	w	لَهُۥ	ﲛ	له	to him	lahu
+11	49:2:13	w	بِٱلۡقَوۡلِ	ﲜ	بالقول	in speech	bil-qawli
+11	49:2:14	w	كَجَهۡرِ	ﲝ	كجهر	like (the) loudness	kajahri
+11	49:2:15	w	بَعۡضِكُمۡ	ﲞ	بعضكم	(of) some of you	baʿḍikum
+12	49:2:16	w	لِبَعۡضٍ	ﲟ	لبعض	to others	libaʿḍin
+12	49:2:17	w	أَن	ﲠ	ان	lest	an
+12	49:2:18	w	تَحۡبَطَ	ﲡ	تحبط	become worthless	taḥbaṭa
+12	49:2:19	w	أَعۡمَٰلُكُمۡ	ﲢ	اعمالكم	your deeds	aʿmālukum
+12	49:2:20	w	وَأَنتُمۡ	ﲣ	وانتم	while you	wa-antum
+12	49:2:21	w	لَا	ﲤ	لا	(do) not	lā
+12	49:2:22	w	تَشۡعُرُونَ	ﲥ	تشعرون	perceive	tashʿurūna
+12	49:2:23	e	٢	ﲦ			
+12	49:3:1	w	إِنَّ	ﲧ	ان	Indeed	inna
+12	49:3:2	w	ٱلَّذِينَ	ﲨ	الذين	those who	alladhīna
+13	49:3:3	w	يَغُضُّونَ	ﲩ	يغضون	lower	yaghuḍḍūna
+13	49:3:4	w	أَصۡوَٰتَهُمۡ	ﲪ	اصواتهم	their voices	aṣwātahum
+13	49:3:5	w	عِندَ	ﲫ	عند	(in) presence	ʿinda
+13	49:3:6	w	رَسُولِ	ﲬ	رسول	(of the) Messenger of Allah	rasūli
+13	49:3:7	w	ٱللَّهِ	ﲭ	الله	(of the) Messenger of Allah	l-lahi
+13	49:3:8	w	أُوْلَٰٓئِكَ	ﲮ	اولايك	those	ulāika
+13	49:3:9	w	ٱلَّذِينَ	ﲯ	الذين	(are) the ones	alladhīna
+13	49:3:10	w	ٱمۡتَحَنَ	ﲰ	امتحن	Allah has tested	im'taḥana
+14	49:3:11	w	ٱللَّهُ	ﲱ	الله	Allah has tested	l-lahu
+14	49:3:12	w	قُلُوبَهُمۡ	ﲲ	قلوبهم	their hearts	qulūbahum
+14	49:3:13	w	لِلتَّقۡوَىٰۚ	ﲳﲴ	للتقوى	for righteousness	lilttaqwā
+14	49:3:14	w	لَهُم	ﲵ	لهم	For them	lahum
+14	49:3:15	w	مَّغۡفِرَةٞ	ﲶ	مغفرة	(is) forgiveness	maghfiratun
+14	49:3:16	w	وَأَجۡرٌ	ﲷ	واجر	and a reward	wa-ajrun
+14	49:3:17	w	عَظِيمٌ	ﲸ	عظيم	great	ʿaẓīmun
+14	49:3:18	e	٣	ﲹ			
+14	49:4:1	w	إِنَّ	ﲺ	ان	Indeed	inna
+14	49:4:2	w	ٱلَّذِينَ	ﲻ	الذين	those who	alladhīna
+15	49:4:3	w	يُنَادُونَكَ	ﲼ	ينادونك	call you	yunādūnaka
+15	49:4:4	w	مِن	ﲽ	من	from	min
+15	49:4:5	w	وَرَآءِ	ﲾ	وراء	behind	warāi
+15	49:4:6	w	ٱلۡحُجُرَٰتِ	ﲿ	الحجرات	the private chambers	l-ḥujurāti
+15	49:4:7	w	أَكۡثَرُهُمۡ	ﳀ	اكثرهم	most of them	aktharuhum
+15	49:4:8	w	لَا	ﳁ	لا	(do) not	lā
+15	49:4:9	w	يَعۡقِلُونَ	ﳂ	يعقلون	understand	yaʿqilūna
+15	49:4:10	e	٤	ﳃ			

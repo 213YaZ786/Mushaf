@@ -1,0 +1,139 @@
+1	14:34:1	w	وَءَاتَىٰكُم	ﱁ	واتاكم	And He gave you	waātākum
+1	14:34:2	w	مِّن	ﱂ	من	of	min
+1	14:34:3	w	كُلِّ	ﱃ	كل	all	kulli
+1	14:34:4	w	مَا	ﱄ	ما	what	mā
+1	14:34:5	w	سَأَلۡتُمُوهُۚ	ﱅﱆ	سالتموه	you asked of Him	sa-altumūhu
+1	14:34:6	w	وَإِن	ﱇ	وان	And if	wa-in
+1	14:34:7	w	تَعُدُّواْ	ﱈ	تعدوا	you count	taʿuddū
+1	14:34:8	w	نِعۡمَتَ	ﱉ	نعمت	(the) Favor of Allah	niʿ'mata
+1	14:34:9	w	ٱللَّهِ	ﱊ	الله	(the) Favor of Allah	l-lahi
+2	14:34:10	w	لَا	ﱋ	لا	not	lā
+2	14:34:11	w	تُحۡصُوهَآۗ	ﱌﱍ	تحصوها	you will (be able to) count them	tuḥ'ṣūhā
+2	14:34:12	w	إِنَّ	ﱎ	ان	Indeed	inna
+2	14:34:13	w	ٱلۡإِنسَٰنَ	ﱏ	الانسان	the mankind	l-insāna
+2	14:34:14	w	لَظَلُومٞ	ﱐ	لظلوم	(is) surely unjust	laẓalūmun
+2	14:34:15	w	كَفَّارٞ	ﱑ	كفار	(and) ungrateful	kaffārun
+2	14:34:16	e	٣٤	ﱒ			
+2	14:35:1	w	وَإِذۡ	ﱓ	واذ	And when	wa-idh
+2	14:35:2	w	قَالَ	ﱔ	قال	said	qāla
+2	14:35:3	w	إِبۡرَٰهِيمُ	ﱕ	ابراهيم	Ibrahim	ib'rāhīmu
+3	14:35:4	w	رَبِّ	ﱖ	رب	My Lord	rabbi
+3	14:35:5	w	ٱجۡعَلۡ	ﱗ	اجعل	Make	ij'ʿal
+3	14:35:6	w	هَٰذَا	ﱘ	هاذا	this	hādhā
+3	14:35:7	w	ٱلۡبَلَدَ	ﱙ	البلد	city	l-balada
+3	14:35:8	w	ءَامِنٗا	ﱚ	امنا	safe	āminan
+3	14:35:9	w	وَٱجۡنُبۡنِي	ﱛ	واجنبني	and keep me away	wa-uj'nub'nī
+3	14:35:10	w	وَبَنِيَّ	ﱜ	وبني	and my sons	wabaniyya
+3	14:35:11	w	أَن	ﱝ	ان	that	an
+3	14:35:12	w	نَّعۡبُدَ	ﱞ	نعبد	we worship	naʿbuda
+4	14:35:13	w	ٱلۡأَصۡنَامَ	ﱟ	الاصنام	the idols	l-aṣnāma
+4	14:35:14	e	٣٥	ﱠ			
+4	14:36:1	w	رَبِّ	ﱡ	رب	My Lord	rabbi
+4	14:36:2	w	إِنَّهُنَّ	ﱢ	انهن	Indeed, they	innahunna
+4	14:36:3	w	أَضۡلَلۡنَ	ﱣ	اضللن	have led astray	aḍlalna
+4	14:36:4	w	كَثِيرٗا	ﱤ	كثيرا	many	kathīran
+4	14:36:5	w	مِّنَ	ﱥ	من	among	mina
+4	14:36:6	w	ٱلنَّاسِۖ	ﱦﱧ	الناس	the mankind	l-nāsi
+4	14:36:7	w	فَمَن	ﱨ	فمن	So whoever	faman
+5	14:36:8	w	تَبِعَنِي	ﱩ	تبعني	follows me	tabiʿanī
+5	14:36:9	w	فَإِنَّهُۥ	ﱪ	فانه	then indeed, he	fa-innahu
+5	14:36:10	w	مِنِّيۖ	ﱫﱬ	مني	(is) of me	minnī
+5	14:36:11	w	وَمَنۡ	ﱭ	ومن	and whoever	waman
+5	14:36:12	w	عَصَانِي	ﱮ	عصاني	disobeys me	ʿaṣānī
+5	14:36:13	w	فَإِنَّكَ	ﱯ	فانك	then indeed, You	fa-innaka
+5	14:36:14	w	غَفُورٞ	ﱰ	غفور	(are) Oft-Forgiving	ghafūrun
+5	14:36:15	w	رَّحِيمٞ	ﱱ	رحيم	Most Merciful	raḥīmun
+5	14:36:16	e	٣٦	ﱲ			
+5	14:37:1	w	رَّبَّنَآ	ﱳ	ربنا	Our Lord	rabbanā
+6	14:37:2	w	إِنِّيٓ	ﱴ	اني	Indeed, I	innī
+6	14:37:3	w	أَسۡكَنتُ	ﱵ	اسكنت	[I] have settled	askantu
+6	14:37:4	w	مِن	ﱶ	من	(some) of	min
+6	14:37:5	w	ذُرِّيَّتِي	ﱷ	ذريتي	my offsprings	dhurriyyatī
+6	14:37:6	w	بِوَادٍ	ﱸ	بواد	in a valley	biwādin
+6	14:37:7	w	غَيۡرِ	ﱹ	غير	not	ghayri
+6	14:37:8	w	ذِي	ﱺ	ذي	with	dhī
+6	14:37:9	w	زَرۡعٍ	ﱻ	زرع	cultivation	zarʿin
+6	14:37:10	w	عِندَ	ﱼ	عند	near	ʿinda
+6	14:37:11	w	بَيۡتِكَ	ﱽ	بيتك	Your Sacred House	baytika
+7	14:37:12	w	ٱلۡمُحَرَّمِ	ﱾ	المحرم	Your Sacred House	l-muḥarami
+7	14:37:13	w	رَبَّنَا	ﱿ	ربنا	our Lord	rabbanā
+7	14:37:14	w	لِيُقِيمُواْ	ﲀ	ليقيموا	That they may establish	liyuqīmū
+7	14:37:15	w	ٱلصَّلَوٰةَ	ﲁ	الصلاة	the prayers	l-ṣalata
+7	14:37:16	w	فَٱجۡعَلۡ	ﲂ	فاجعل	So make	fa-ij'ʿal
+7	14:37:17	w	أَفۡـِٔدَةٗ	ﲃ	افيدة	hearts	afidatan
+7	14:37:18	w	مِّنَ	ﲄ	من	of	mina
+7	14:37:19	w	ٱلنَّاسِ	ﲅ	الناس	the men	l-nāsi
+8	14:37:20	w	تَهۡوِيٓ	ﲆ	تهوي	incline	tahwī
+8	14:37:21	w	إِلَيۡهِمۡ	ﲇ	اليهم	towards them	ilayhim
+8	14:37:22	w	وَٱرۡزُقۡهُم	ﲈ	وارزقهم	and provide them	wa-ur'zuq'hum
+8	14:37:23	w	مِّنَ	ﲉ	من	with	mina
+8	14:37:24	w	ٱلثَّمَرَٰتِ	ﲊ	الثمرات	the fruits	l-thamarāti
+8	14:37:25	w	لَعَلَّهُمۡ	ﲋ	لعلهم	so that they may	laʿallahum
+8	14:37:26	w	يَشۡكُرُونَ	ﲌ	يشكرون	be grateful	yashkurūna
+9	14:37:27	e	٣٧	ﲍ			
+9	14:38:1	w	رَبَّنَآ	ﲎ	ربنا	Our Lord	rabbanā
+9	14:38:2	w	إِنَّكَ	ﲏ	انك	Indeed, You	innaka
+9	14:38:3	w	تَعۡلَمُ	ﲐ	تعلم	You know	taʿlamu
+9	14:38:4	w	مَا	ﲑ	ما	what	mā
+9	14:38:5	w	نُخۡفِي	ﲒ	نخفي	we conceal	nukh'fī
+9	14:38:6	w	وَمَا	ﲓ	وما	and what	wamā
+9	14:38:7	w	نُعۡلِنُۗ	ﲔﲕ	نعلن	we proclaim	nuʿ'linu
+9	14:38:8	w	وَمَا	ﲖ	وما	And not	wamā
+9	14:38:9	w	يَخۡفَىٰ	ﲗ	يخفى	(is) hidden	yakhfā
+9	14:38:10	w	عَلَى	ﲘ	على	from	ʿalā
+9	14:38:11	w	ٱللَّهِ	ﲙ	الله	Allah	l-lahi
+10	14:38:12	w	مِن	ﲚ	من	any	min
+10	14:38:13	w	شَيۡءٖ	ﲛ	شيء	thing	shayin
+10	14:38:14	w	فِي	ﲜ	في	in	fī
+10	14:38:15	w	ٱلۡأَرۡضِ	ﲝ	الارض	the earth	l-arḍi
+10	14:38:16	w	وَلَا	ﲞ	ولا	and not	walā
+10	14:38:17	w	فِي	ﲟ	في	in	fī
+10	14:38:18	w	ٱلسَّمَآءِ	ﲠ	السماء	the heaven	l-samāi
+10	14:38:19	e	٣٨	ﲡ			
+10	14:39:1	w	ٱلۡحَمۡدُ	ﲢ	الحمد	All the Praise	al-ḥamdu
+10	14:39:2	w	لِلَّهِ	ﲣ	لله	(is) for Allah	lillahi
+10	14:39:3	w	ٱلَّذِي	ﲤ	الذي	the One Who	alladhī
+11	14:39:4	w	وَهَبَ	ﲥ	وهب	has granted	wahaba
+11	14:39:5	w	لِي	ﲦ	لي	me	lī
+11	14:39:6	w	عَلَى	ﲧ	على	in	ʿalā
+11	14:39:7	w	ٱلۡكِبَرِ	ﲨ	الكبر	the old age	l-kibari
+11	14:39:8	w	إِسۡمَٰعِيلَ	ﲩ	اسماعيل	Ishmael	is'māʿīla
+11	14:39:9	w	وَإِسۡحَٰقَۚ	ﲪﲫ	واسحاق	and Isaac	wa-is'ḥāqa
+11	14:39:10	w	إِنَّ	ﲬ	ان	Indeed	inna
+11	14:39:11	w	رَبِّي	ﲭ	ربي	my Lord	rabbī
+11	14:39:12	w	لَسَمِيعُ	ﲮ	لسميع	(is) All-Hearer	lasamīʿu
+12	14:39:13	w	ٱلدُّعَآءِ	ﲯ	الدعاء	(of) the prayer	l-duʿāi
+12	14:39:14	e	٣٩	ﲰ			
+12	14:40:1	w	رَبِّ	ﲱ	رب	My Lord	rabbi
+12	14:40:2	w	ٱجۡعَلۡنِي	ﲲ	اجعلني	Make me	ij'ʿalnī
+12	14:40:3	w	مُقِيمَ	ﲳ	مقيم	an establisher	muqīma
+12	14:40:4	w	ٱلصَّلَوٰةِ	ﲴ	الصلاة	(of) the prayer	l-ṣalati
+12	14:40:5	w	وَمِن	ﲵ	ومن	and from	wamin
+12	14:40:6	w	ذُرِّيَّتِيۚ	ﲶﲷ	ذريتي	my offsprings	dhurriyyatī
+12	14:40:7	w	رَبَّنَا	ﲸ	ربنا	Our Lord	rabbanā
+13	14:40:8	w	وَتَقَبَّلۡ	ﲹ	وتقبل	and accept	wataqabbal
+13	14:40:9	w	دُعَآءِ	ﲺ	دعاء	my prayer	duʿāi
+13	14:40:10	e	٤٠	ﲻ			
+13	14:41:1	w	رَبَّنَا	ﲼ	ربنا	Our Lord	rabbanā
+13	14:41:2	w	ٱغۡفِرۡ	ﲽ	اغفر	Forgive	igh'fir
+13	14:41:3	w	لِي	ﲾ	لي	me	lī
+13	14:41:4	w	وَلِوَٰلِدَيَّ	ﲿ	ولوالدي	and my parents	waliwālidayya
+13	14:41:5	w	وَلِلۡمُؤۡمِنِينَ	ﳀ	وللمومنين	and the believers	walil'mu'minīna
+14	14:41:6	w	يَوۡمَ	ﳁ	يوم	(on) the Day	yawma
+14	14:41:7	w	يَقُومُ	ﳂ	يقوم	will (be) established	yaqūmu
+14	14:41:8	w	ٱلۡحِسَابُ	ﳃ	الحساب	the account	l-ḥisābu
+14	14:41:9	e	٤١	ﳄ			
+14	14:42:1	w	وَلَا	ﳅ	ولا	And (do) not	walā
+14	14:42:2	w	تَحۡسَبَنَّ	ﳆ	تحسبن	think	taḥsabanna
+14	14:42:3	w	ٱللَّهَ	ﳇ	الله	(that) Allah	l-laha
+14	14:42:4	w	غَٰفِلًا	ﳈ	غافلا	(is) unaware	ghāfilan
+14	14:42:5	w	عَمَّا	ﳉ	عما	of what	ʿammā
+14	14:42:6	w	يَعۡمَلُ	ﳊ	يعمل	do	yaʿmalu
+15	14:42:7	w	ٱلظَّٰلِمُونَۚ	ﳋﳌ	الظالمون	the wrongdoers	l-ẓālimūna
+15	14:42:8	w	إِنَّمَا	ﳍ	انما	Only	innamā
+15	14:42:9	w	يُؤَخِّرُهُمۡ	ﳎ	يوخرهم	He gives them respite	yu-akhiruhum
+15	14:42:10	w	لِيَوۡمٖ	ﳏ	ليوم	to a Day	liyawmin
+15	14:42:11	w	تَشۡخَصُ	ﳐ	تشخص	will stare	tashkhaṣu
+15	14:42:12	w	فِيهِ	ﳑ	فيه	in it	fīhi
+15	14:42:13	w	ٱلۡأَبۡصَٰرُ	ﳒ	الابصار	the eyes	l-abṣāru
+15	14:42:14	e	٤٢	ﳓ			

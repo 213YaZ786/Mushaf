@@ -1,0 +1,160 @@
+1	51:7:1	w	وَٱلسَّمَآءِ	ﱁ	والسماء	By the heaven	wal-samāi
+1	51:7:2	w	ذَاتِ	ﱂ	ذات	full of	dhāti
+1	51:7:3	w	ٱلۡحُبُكِ	ﱃ	الحبك	pathways	l-ḥubuki
+1	51:7:4	e	٧	ﱄ			
+1	51:8:1	w	إِنَّكُمۡ	ﱅ	انكم	Indeed, you	innakum
+1	51:8:2	w	لَفِي	ﱆ	لفي	(are) surely in	lafī
+1	51:8:3	w	قَوۡلٖ	ﱇ	قول	a speech	qawlin
+1	51:8:4	w	مُّخۡتَلِفٖ	ﱈ	مختلف	differing	mukh'talifin
+1	51:8:5	e	٨	ﱉ			
+1	51:9:1	w	يُؤۡفَكُ	ﱊ	يوفك	Deluded away	yu'faku
+1	51:9:2	w	عَنۡهُ	ﱋ	عنه	from it	ʿanhu
+1	51:9:3	w	مَنۡ	ﱌ	من	(is he) who	man
+2	51:9:4	w	أُفِكَ	ﱍ	افك	is deluded	ufika
+2	51:9:5	e	٩	ﱎ			
+2	51:10:1	w	قُتِلَ	ﱏ	قتل	Cursed be	qutila
+2	51:10:2	w	ٱلۡخَرَّٰصُونَ	ﱐ	الخراصون	the liars	l-kharāṣūna
+2	51:10:3	e	١٠	ﱑ			
+2	51:11:1	w	ٱلَّذِينَ	ﱒ	الذين	Those who	alladhīna
+2	51:11:2	w	هُمۡ	ﱓ	هم	[they]	hum
+2	51:11:3	w	فِي	ﱔ	في	(are) in	fī
+2	51:11:4	w	غَمۡرَةٖ	ﱕ	غمرة	flood	ghamratin
+2	51:11:5	w	سَاهُونَ	ﱖ	ساهون	(of) heedlessness	sāhūna
+2	51:11:6	e	١١	ﱗ			
+2	51:12:1	w	يَسۡـَٔلُونَ	ﱘ	يسالون	They ask	yasalūna
+3	51:12:2	w	أَيَّانَ	ﱙ	ايان	When	ayyāna
+3	51:12:3	w	يَوۡمُ	ﱚ	يوم	(is the) Day	yawmu
+3	51:12:4	w	ٱلدِّينِ	ﱛ	الدين	(of) Judgment	l-dīni
+3	51:12:5	e	١٢	ﱜ			
+3	51:13:1	w	يَوۡمَ	ﱝ	يوم	A Day	yawma
+3	51:13:2	w	هُمۡ	ﱞ	هم	they	hum
+3	51:13:3	w	عَلَى	ﱟ	على	over	ʿalā
+3	51:13:4	w	ٱلنَّارِ	ﱠ	النار	the Fire	l-nāri
+3	51:13:5	w	يُفۡتَنُونَ	ﱡ	يفتنون	will be tried	yuf'tanūna
+3	51:13:6	e	١٣	ﱢ			
+3	51:14:1	w	ذُوقُواْ	ﱣ	ذوقوا	Taste	dhūqū
+3	51:14:2	w	فِتۡنَتَكُمۡ	ﱤ	فتنتكم	your trial	fit'natakum
+4	51:14:3	w	هَٰذَا	ﱥ	هاذا	This	hādhā
+4	51:14:4	w	ٱلَّذِي	ﱦ	الذي	(is) what	alladhī
+4	51:14:5	w	كُنتُم	ﱧ	كنتم	you were	kuntum
+4	51:14:6	w	بِهِۦ	ﱨ	به	for it	bihi
+4	51:14:7	w	تَسۡتَعۡجِلُونَ	ﱩ	تستعجلون	seeking to hasten	tastaʿjilūna
+4	51:14:8	e	١٤	ﱪ			
+4	51:15:1	w	إِنَّ	ﱫ	ان	Indeed	inna
+4	51:15:2	w	ٱلۡمُتَّقِينَ	ﱬ	المتقين	the righteous	l-mutaqīna
+4	51:15:3	w	فِي	ﱭ	في	(will be) in	fī
+4	51:15:4	w	جَنَّٰتٖ	ﱮ	جنات	Gardens	jannātin
+4	51:15:5	w	وَعُيُونٍ	ﱯ	وعيون	and springs	waʿuyūnin
+5	51:15:6	e	١٥	ﱰ			
+5	51:16:1	w	ءَاخِذِينَ	ﱱ	اخذين	Taking	ākhidhīna
+5	51:16:2	w	مَآ	ﱲ	ما	what	mā
+5	51:16:3	w	ءَاتَىٰهُمۡ	ﱳ	اتاهم	their Lord has given them	ātāhum
+5	51:16:4	w	رَبُّهُمۡۚ	ﱴﱵ	ربهم	their Lord has given them	rabbuhum
+5	51:16:5	w	إِنَّهُمۡ	ﱶ	انهم	Indeed, they	innahum
+5	51:16:6	w	كَانُواْ	ﱷ	كانوا	were	kānū
+5	51:16:7	w	قَبۡلَ	ﱸ	قبل	before	qabla
+5	51:16:8	w	ذَٰلِكَ	ﱹ	ذالك	that	dhālika
+5	51:16:9	w	مُحۡسِنِينَ	ﱺ	محسنين	good-doers	muḥ'sinīna
+5	51:16:10	e	١٦	ﱻ			
+6	51:17:1	w	كَانُواْ	ﱼ	كانوا	They used to	kānū
+6	51:17:2	w	قَلِيلٗا	ﱽ	قليلا	little	qalīlan
+6	51:17:3	w	مِّنَ	ﱾ	من	of	mina
+6	51:17:4	w	ٱلَّيۡلِ	ﱿ	الليل	the night	al-layli
+6	51:17:5	w	مَا	ﲀ	ما	[what]	mā
+6	51:17:6	w	يَهۡجَعُونَ	ﲁ	يهجعون	sleep	yahjaʿūna
+6	51:17:7	e	١٧	ﲂ			
+6	51:18:1	w	وَبِٱلۡأَسۡحَارِ	ﲃ	وبالاسحار	And in the hours before dawn	wabil-asḥāri
+6	51:18:2	w	هُمۡ	ﲄ	هم	they	hum
+6	51:18:3	w	يَسۡتَغۡفِرُونَ	ﲅ	يستغفرون	would ask forgiveness	yastaghfirūna
+6	51:18:4	e	١٨	ﲆ			
+7	51:19:1	w	وَفِيٓ	ﲇ	وفي	And in	wafī
+7	51:19:2	w	أَمۡوَٰلِهِمۡ	ﲈ	اموالهم	their wealth	amwālihim
+7	51:19:3	w	حَقّٞ	ﲉ	حق	(was the) right	ḥaqqun
+7	51:19:4	w	لِّلسَّآئِلِ	ﲊ	للسايل	(of) those who asked	lilssāili
+7	51:19:5	w	وَٱلۡمَحۡرُومِ	ﲋ	والمحروم	and the deprived	wal-maḥrūmi
+7	51:19:6	e	١٩	ﲌ			
+7	51:20:1	w	وَفِي	ﲍ	وفي	And in	wafī
+7	51:20:2	w	ٱلۡأَرۡضِ	ﲎ	الارض	the earth	l-arḍi
+7	51:20:3	w	ءَايَٰتٞ	ﲏ	ايات	(are) signs	āyātun
+8	51:20:4	w	لِّلۡمُوقِنِينَ	ﲐ	للموقنين	for those who are certain	lil'mūqinīna
+8	51:20:5	e	٢٠	ﲑ			
+8	51:21:1	w	وَفِيٓ	ﲒ	وفي	And in	wafī
+8	51:21:2	w	أَنفُسِكُمۡۚ	ﲓﲔ	انفسكم	yourselves	anfusikum
+8	51:21:3	w	أَفَلَا	ﲕ	افلا	Then will not	afalā
+8	51:21:4	w	تُبۡصِرُونَ	ﲖ	تبصرون	you see	tub'ṣirūna
+8	51:21:5	e	٢١	ﲗ			
+8	51:22:1	w	وَفِي	ﲘ	وفي	And in	wafī
+8	51:22:2	w	ٱلسَّمَآءِ	ﲙ	السماء	the heaven	l-samāi
+8	51:22:3	w	رِزۡقُكُمۡ	ﲚ	رزقكم	(is) your provision	riz'qukum
+9	51:22:4	w	وَمَا	ﲛ	وما	and what	wamā
+9	51:22:5	w	تُوعَدُونَ	ﲜ	توعدون	you are promised	tūʿadūna
+9	51:22:6	e	٢٢	ﲝ			
+9	51:23:1	w	فَوَرَبِّ	ﲞ	فورب	Then by (the) Lord	fawarabbi
+9	51:23:2	w	ٱلسَّمَآءِ	ﲟ	السماء	(of) the heaven	l-samāi
+9	51:23:3	w	وَٱلۡأَرۡضِ	ﲠ	والارض	and the earth	wal-arḍi
+9	51:23:4	w	إِنَّهُۥ	ﲡ	انه	indeed, it	innahu
+9	51:23:5	w	لَحَقّٞ	ﲢ	لحق	(is) surely (the) truth	laḥaqqun
+9	51:23:6	w	مِّثۡلَ	ﲣ	مثل	(just) as	mith'la
+9	51:23:7	w	مَآ	ﲤ	ما	[what]	mā
+9	51:23:8	w	أَنَّكُمۡ	ﲥ	انكم	you	annakum
+10	51:23:9	w	تَنطِقُونَ	ﲦ	تنطقون	speak	tanṭiqūna
+10	51:23:10	e	٢٣	ﲧ			
+10	51:24:1	w	هَلۡ	ﲨ	هل	Has	hal
+10	51:24:2	w	أَتَىٰكَ	ﲩ	اتاك	reached you	atāka
+10	51:24:3	w	حَدِيثُ	ﲪ	حديث	(the) narration	ḥadīthu
+10	51:24:4	w	ضَيۡفِ	ﲫ	ضيف	(of the) guests	ḍayfi
+10	51:24:5	w	إِبۡرَٰهِيمَ	ﲬ	ابراهيم	(of) Ibrahim	ib'rāhīma
+10	51:24:6	w	ٱلۡمُكۡرَمِينَ	ﲭ	المكرمين	the honored	l-muk'ramīna
+10	51:24:7	e	٢٤	ﲮ			
+10	51:25:1	w	إِذۡ	ﲯ	اذ	When	idh
+11	51:25:2	w	دَخَلُواْ	ﲰ	دخلوا	they entered	dakhalū
+11	51:25:3	w	عَلَيۡهِ	ﲱ	عليه	upon him	ʿalayhi
+11	51:25:4	w	فَقَالُواْ	ﲲ	فقالوا	and said	faqālū
+11	51:25:5	w	سَلَٰمٗاۖ	ﲳﲴ	سلاما	Peace	salāman
+11	51:25:6	w	قَالَ	ﲵ	قال	He said	qāla
+11	51:25:7	w	سَلَٰمٞ	ﲶ	سلام	Peace	salāmun
+11	51:25:8	w	قَوۡمٞ	ﲷ	قوم	a people	qawmun
+11	51:25:9	w	مُّنكَرُونَ	ﲸ	منكرون	unknown	munkarūna
+11	51:25:10	e	٢٥	ﲹ			
+11	51:26:1	w	فَرَاغَ	ﲺ	فراغ	Then he went	farāgha
+11	51:26:2	w	إِلَىٰٓ	ﲻ	الى	to	ilā
+12	51:26:3	w	أَهۡلِهِۦ	ﲼ	اهله	his household	ahlihi
+12	51:26:4	w	فَجَآءَ	ﲽ	فجاء	and came	fajāa
+12	51:26:5	w	بِعِجۡلٖ	ﲾ	بعجل	with a calf	biʿij'lin
+12	51:26:6	w	سَمِينٖ	ﲿ	سمين	fat	samīnin
+12	51:26:7	e	٢٦	ﳀ			
+12	51:27:1	w	فَقَرَّبَهُۥٓ	ﳁ	فقربه	And he placed it near	faqarrabahu
+12	51:27:2	w	إِلَيۡهِمۡ	ﳂ	اليهم	[to] them	ilayhim
+12	51:27:3	w	قَالَ	ﳃ	قال	he said	qāla
+12	51:27:4	w	أَلَا	ﳄ	الا	Will not	alā
+12	51:27:5	w	تَأۡكُلُونَ	ﳅ	تاكلون	you eat	takulūna
+13	51:27:6	e	٢٧	ﳆ			
+13	51:28:1	w	فَأَوۡجَسَ	ﳇ	فاوجس	Then he felt	fa-awjasa
+13	51:28:2	w	مِنۡهُمۡ	ﳈ	منهم	from them	min'hum
+13	51:28:3	w	خِيفَةٗۖ	ﳉﳊ	خيفة	a fear	khīfatan
+13	51:28:4	w	قَالُواْ	ﳋ	قالوا	They said	qālū
+13	51:28:5	w	لَا	ﳌ	لا	(Do) not	lā
+13	51:28:6	w	تَخَفۡۖ	ﳍﳎ	تخف	fear	takhaf
+13	51:28:7	w	وَبَشَّرُوهُ	ﳏ	وبشروه	and they gave him glad tidings	wabasharūhu
+13	51:28:8	w	بِغُلَٰمٍ	ﳐ	بغلام	of a son	bighulāmin
+13	51:28:9	w	عَلِيمٖ	ﳑ	عليم	learned	ʿalīmin
+13	51:28:10	e	٢٨	ﳒ			
+14	51:29:1	w	فَأَقۡبَلَتِ	ﳓ	فاقبلت	Then came forward	fa-aqbalati
+14	51:29:2	w	ٱمۡرَأَتُهُۥ	ﳔ	امراته	his wife	im'ra-atuhu
+14	51:29:3	w	فِي	ﳕ	في	with	fī
+14	51:29:4	w	صَرَّةٖ	ﳖ	صرة	a loud voice	ṣarratin
+14	51:29:5	w	فَصَكَّتۡ	ﳗ	فصكت	and struck	faṣakkat
+14	51:29:6	w	وَجۡهَهَا	ﳘ	وجهها	her face	wajhahā
+14	51:29:7	w	وَقَالَتۡ	ﳙ	وقالت	and she said	waqālat
+14	51:29:8	w	عَجُوزٌ	ﳚ	عجوز	An old woman	ʿajūzun
+14	51:29:9	w	عَقِيمٞ	ﳛ	عقيم	barren	ʿaqīmun
+15	51:29:10	e	٢٩	ﳜ			
+15	51:30:1	w	قَالُواْ	ﳝ	قالوا	They said	qālū
+15	51:30:2	w	كَذَٰلِكِ	ﳞ	كذالك	Thus	kadhāliki
+15	51:30:3	w	قَالَ	ﳟ	قال	said	qāla
+15	51:30:4	w	رَبُّكِۖ	ﳠﳡ	ربك	your Lord	rabbuki
+15	51:30:5	w	إِنَّهُۥ	ﳢ	انه	Indeed, He	innahu
+15	51:30:6	w	هُوَ	ﳣ	هو	[He]	huwa
+15	51:30:7	w	ٱلۡحَكِيمُ	ﳤ	الحكيم	(is) the All-Wise	l-ḥakīmu
+15	51:30:8	w	ٱلۡعَلِيمُ	ﳥ	العليم	the All-Knower	l-ʿalīmu
+15	51:30:9	e	٣٠	ﳦ			

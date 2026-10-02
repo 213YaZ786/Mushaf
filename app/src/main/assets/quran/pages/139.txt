@@ -1,0 +1,148 @@
+1	6:91:1	w	وَمَا	ﱁ	وما	And not	wamā
+1	6:91:2	w	قَدَرُواْ	ﱂ	قدروا	they appraised	qadarū
+1	6:91:3	w	ٱللَّهَ	ﱃ	الله	Allah	l-laha
+1	6:91:4	w	حَقَّ	ﱄ	حق	(with) true	ḥaqqa
+1	6:91:5	w	قَدۡرِهِۦٓ	ﱅ	قدره	[of his] appraisal	qadrihi
+1	6:91:6	w	إِذۡ	ﱆ	اذ	when	idh
+1	6:91:7	w	قَالُواْ	ﱇ	قالوا	they said	qālū
+1	6:91:8	w	مَآ	ﱈ	ما	Not	mā
+1	6:91:9	w	أَنزَلَ	ﱉ	انزل	revealed	anzala
+1	6:91:10	w	ٱللَّهُ	ﱊ	الله	(by) Allah	l-lahu
+1	6:91:11	w	عَلَىٰ	ﱋ	على	on	ʿalā
+1	6:91:12	w	بَشَرٖ	ﱌ	بشر	a human being	basharin
+1	6:91:13	w	مِّن	ﱍ	من	[of]	min
+1	6:91:14	w	شَيۡءٖۗ	ﱎﱏ	شيء	anything	shayin
+2	6:91:15	w	قُلۡ	ﱐ	قل	Say	qul
+2	6:91:16	w	مَنۡ	ﱑ	من	Who	man
+2	6:91:17	w	أَنزَلَ	ﱒ	انزل	revealed	anzala
+2	6:91:18	w	ٱلۡكِتَٰبَ	ﱓ	الكتاب	the Book	l-kitāba
+2	6:91:19	w	ٱلَّذِي	ﱔ	الذي	which	alladhī
+2	6:91:20	w	جَآءَ	ﱕ	جاء	brought	jāa
+2	6:91:21	w	بِهِۦ	ﱖ	به	[it]	bihi
+2	6:91:22	w	مُوسَىٰ	ﱗ	موسى	Musa	mūsā
+2	6:91:23	w	نُورٗا	ﱘ	نورا	(as) a light	nūran
+2	6:91:24	w	وَهُدٗى	ﱙ	وهدى	and guidance	wahudan
+3	6:91:25	w	لِّلنَّاسِۖ	ﱚﱛ	للناس	for the people	lilnnāsi
+3	6:91:26	w	تَجۡعَلُونَهُۥ	ﱜ	تجعلونه	You make it	tajʿalūnahu
+3	6:91:27	w	قَرَاطِيسَ	ﱝ	قراطيس	(into) parchments	qarāṭīsa
+3	6:91:28	w	تُبۡدُونَهَا	ﱞ	تبدونها	you disclose (some of) it	tub'dūnahā
+3	6:91:29	w	وَتُخۡفُونَ	ﱟ	وتخفون	and you conceal	watukh'fūna
+3	6:91:30	w	كَثِيرٗاۖ	ﱠﱡ	كثيرا	much (of it)	kathīran
+3	6:91:31	w	وَعُلِّمۡتُم	ﱢ	وعلمتم	And you were taught	waʿullim'tum
+4	6:91:32	w	مَّا	ﱣ	ما	what	mā
+4	6:91:33	w	لَمۡ	ﱤ	لم	not	lam
+4	6:91:34	w	تَعۡلَمُوٓاْ	ﱥ	تعلموا	knew	taʿlamū
+4	6:91:35	w	أَنتُمۡ	ﱦ	انتم	you	antum
+4	6:91:36	w	وَلَآ	ﱧ	ولا	and not	walā
+4	6:91:37	w	ءَابَآؤُكُمۡۖ	ﱨﱩ	اباوكم	your forefathers	ābāukum
+4	6:91:38	w	قُلِ	ﱪ	قل	Say	quli
+4	6:91:39	w	ٱللَّهُۖ	ﱫﱬ	الله	Allah (revealed it)	l-lahu
+4	6:91:40	w	ثُمَّ	ﱭ	ثم	Then	thumma
+4	6:91:41	w	ذَرۡهُمۡ	ﱮ	ذرهم	leave them	dharhum
+4	6:91:42	w	فِي	ﱯ	في	in	fī
+4	6:91:43	w	خَوۡضِهِمۡ	ﱰ	خوضهم	their discourse	khawḍihim
+5	6:91:44	w	يَلۡعَبُونَ	ﱱ	يلعبون	playing	yalʿabūna
+5	6:91:45	e	٩١	ﱲ			
+5	6:92:1	w	وَهَٰذَا	ﱳ	وهاذا	And this	wahādhā
+5	6:92:2	w	كِتَٰبٌ	ﱴ	كتاب	(is) a Book	kitābun
+5	6:92:3	w	أَنزَلۡنَٰهُ	ﱵ	انزلناه	We have revealed it	anzalnāhu
+5	6:92:4	w	مُبَارَكٞ	ﱶ	مبارك	blessed	mubārakun
+5	6:92:5	w	مُّصَدِّقُ	ﱷ	مصدق	confirming	muṣaddiqu
+5	6:92:6	w	ٱلَّذِي	ﱸ	الذي	which	alladhī
+5	6:92:7	w	بَيۡنَ	ﱹ	بين	(came) before	bayna
+6	6:92:8	w	يَدَيۡهِ	ﱺ	يديه	its hands	yadayhi
+6	6:92:9	w	وَلِتُنذِرَ	ﱻ	ولتنذر	so that you may warn	walitundhira
+6	6:92:10	w	أُمَّ	ﱼ	ام	(the) mother	umma
+6	6:92:11	w	ٱلۡقُرَىٰ	ﱽ	القرى	(of) the cities	l-qurā
+6	6:92:12	w	وَمَنۡ	ﱾ	ومن	and who	waman
+6	6:92:13	w	حَوۡلَهَاۚ	ﱿﲀ	حولها	(are) around it	ḥawlahā
+6	6:92:14	w	وَٱلَّذِينَ	ﲁ	والذين	And those who	wa-alladhīna
+6	6:92:15	w	يُؤۡمِنُونَ	ﲂ	يومنون	believe	yu'minūna
+6	6:92:16	w	بِٱلۡأٓخِرَةِ	ﲃ	بالاخرة	in the Hereafter	bil-ākhirati
+7	6:92:17	w	يُؤۡمِنُونَ	ﲄ	يومنون	they believe	yu'minūna
+7	6:92:18	w	بِهِۦۖ	ﲅﲆ	به	in it	bihi
+7	6:92:19	w	وَهُمۡ	ﲇ	وهم	and they	wahum
+7	6:92:20	w	عَلَىٰ	ﲈ	على	over	ʿalā
+7	6:92:21	w	صَلَاتِهِمۡ	ﲉ	صلاتهم	their prayers	ṣalātihim
+7	6:92:22	w	يُحَافِظُونَ	ﲊ	يحافظون	(are) guarding	yuḥāfiẓūna
+7	6:92:23	e	٩٢	ﲋ			
+7	6:93:1	w	وَمَنۡ	ﲌ	ومن	And who	waman
+7	6:93:2	w	أَظۡلَمُ	ﲍ	اظلم	(is) more unjust	aẓlamu
+7	6:93:3	w	مِمَّنِ	ﲎ	ممن	than (one) who	mimmani
+8	6:93:4	w	ٱفۡتَرَىٰ	ﲏ	افترى	invents	if'tarā
+8	6:93:5	w	عَلَى	ﲐ	على	about	ʿalā
+8	6:93:6	w	ٱللَّهِ	ﲑ	الله	Allah	l-lahi
+8	6:93:7	w	كَذِبًا	ﲒ	كذبا	a lie	kadhiban
+8	6:93:8	w	أَوۡ	ﲓ	او	or	aw
+8	6:93:9	w	قَالَ	ﲔ	قال	said	qāla
+8	6:93:10	w	أُوحِيَ	ﲕ	اوحي	It has been inspired	ūḥiya
+8	6:93:11	w	إِلَيَّ	ﲖ	الي	to me	ilayya
+8	6:93:12	w	وَلَمۡ	ﲗ	ولم	while not	walam
+8	6:93:13	w	يُوحَ	ﲘ	يوح	it was inspired	yūḥa
+8	6:93:14	w	إِلَيۡهِ	ﲙ	اليه	to him	ilayhi
+8	6:93:15	w	شَيۡءٞ	ﲚ	شيء	anything	shayon
+9	6:93:16	w	وَمَن	ﲛ	ومن	and (one) who	waman
+9	6:93:17	w	قَالَ	ﲜ	قال	said	qāla
+9	6:93:18	w	سَأُنزِلُ	ﲝ	سانزل	I will reveal	sa-unzilu
+9	6:93:19	w	مِثۡلَ	ﲞ	مثل	like	mith'la
+9	6:93:20	w	مَآ	ﲟ	ما	what	mā
+9	6:93:21	w	أَنزَلَ	ﲠ	انزل	(has been) revealed	anzala
+9	6:93:22	w	ٱللَّهُۗ	ﲡﲢ	الله	(by) Allah	l-lahu
+9	6:93:23	w	وَلَوۡ	ﲣ	ولو	And if	walaw
+9	6:93:24	w	تَرَىٰٓ	ﲤ	ترى	you (could) see	tarā
+9	6:93:25	w	إِذِ	ﲥ	اذ	when	idhi
+9	6:93:26	w	ٱلظَّٰلِمُونَ	ﲦ	الظالمون	the wrongdoers	l-ẓālimūna
+9	6:93:27	w	فِي	ﲧ	في	(are) in	fī
+10	6:93:28	w	غَمَرَٰتِ	ﲨ	غمرات	agonies	ghamarāti
+10	6:93:29	w	ٱلۡمَوۡتِ	ﲩ	الموت	(of) [the] death	l-mawti
+10	6:93:30	w	وَٱلۡمَلَٰٓئِكَةُ	ﲪ	والملايكة	while the Angels	wal-malāikatu
+10	6:93:31	w	بَاسِطُوٓاْ	ﲫ	باسطو	(are) stretching out	bāsiṭū
+10	6:93:32	w	أَيۡدِيهِمۡ	ﲬ	ايديهم	their hands (saying)	aydīhim
+10	6:93:33	w	أَخۡرِجُوٓاْ	ﲭ	اخرجوا	Discharge	akhrijū
+10	6:93:34	w	أَنفُسَكُمُۖ	ﲮﲯ	انفسكم	your souls	anfusakumu
+11	6:93:35	w	ٱلۡيَوۡمَ	ﲰ	اليوم	Today	l-yawma
+11	6:93:36	w	تُجۡزَوۡنَ	ﲱ	تجزون	you will be recompensed	tuj'zawna
+11	6:93:37	w	عَذَابَ	ﲲ	عذاب	(with) punishment	ʿadhāba
+11	6:93:38	w	ٱلۡهُونِ	ﲳ	الهون	humiliating	l-hūni
+11	6:93:39	w	بِمَا	ﲴ	بما	because	bimā
+11	6:93:40	w	كُنتُمۡ	ﲵ	كنتم	you used to	kuntum
+11	6:93:41	w	تَقُولُونَ	ﲶ	تقولون	say	taqūlūna
+11	6:93:42	w	عَلَى	ﲷ	على	against	ʿalā
+11	6:93:43	w	ٱللَّهِ	ﲸ	الله	Allah	l-lahi
+11	6:93:44	w	غَيۡرَ	ﲹ	غير	other than	ghayra
+12	6:93:45	w	ٱلۡحَقِّ	ﲺ	الحق	the truth	l-ḥaqi
+12	6:93:46	w	وَكُنتُمۡ	ﲻ	وكنتم	and you were	wakuntum
+12	6:93:47	w	عَنۡ	ﲼ	عن	towards	ʿan
+12	6:93:48	w	ءَايَٰتِهِۦ	ﲽ	اياته	His Verses	āyātihi
+12	6:93:49	w	تَسۡتَكۡبِرُونَ	ﲾ	تستكبرون	being arrogant	tastakbirūna
+12	6:93:50	e	٩٣	ﲿ			
+12	6:94:1	w	وَلَقَدۡ	ﳀ	ولقد	And certainly	walaqad
+12	6:94:2	w	جِئۡتُمُونَا	ﳁ	جيتمونا	you have come to Us	ji'tumūnā
+13	6:94:3	w	فُرَٰدَىٰ	ﳂ	فرادى	alone	furādā
+13	6:94:4	w	كَمَا	ﳃ	كما	as	kamā
+13	6:94:5	w	خَلَقۡنَٰكُمۡ	ﳄ	خلقناكم	We created you	khalaqnākum
+13	6:94:6	w	أَوَّلَ	ﳅ	اول	(the) first	awwala
+13	6:94:7	w	مَرَّةٖ	ﳆ	مرة	time	marratin
+13	6:94:8	w	وَتَرَكۡتُم	ﳇ	وتركتم	and you have left	wataraktum
+13	6:94:9	w	مَّا	ﳈ	ما	whatever	mā
+13	6:94:10	w	خَوَّلۡنَٰكُمۡ	ﳉ	خولناكم	We bestowed (on) you	khawwalnākum
+13	6:94:11	w	وَرَآءَ	ﳊ	وراء	behind	warāa
+14	6:94:12	w	ظُهُورِكُمۡۖ	ﳋﳌ	ظهوركم	your backs	ẓuhūrikum
+14	6:94:13	w	وَمَا	ﳍ	وما	And not	wamā
+14	6:94:14	w	نَرَىٰ	ﳎ	نرى	We see	narā
+14	6:94:15	w	مَعَكُمۡ	ﳏ	معكم	with you	maʿakum
+14	6:94:16	w	شُفَعَآءَكُمُ	ﳐ	شفعاءكم	your intercessors	shufaʿāakumu
+14	6:94:17	w	ٱلَّذِينَ	ﳑ	الذين	those whom	alladhīna
+14	6:94:18	w	زَعَمۡتُمۡ	ﳒ	زعمتم	you claimed	zaʿamtum
+14	6:94:19	w	أَنَّهُمۡ	ﳓ	انهم	that they (were)	annahum
+14	6:94:20	w	فِيكُمۡ	ﳔ	فيكم	in your (matters)	fīkum
+15	6:94:21	w	شُرَكَٰٓؤُاْۚ	ﳕﳖ	شركاء	partners (with Allah)	shurakāu
+15	6:94:22	w	لَقَد	ﳗ	لقد	Indeed	laqad
+15	6:94:23	w	تَّقَطَّعَ	ﳘ	تقطع	have been severed (bonds)	taqaṭṭaʿa
+15	6:94:24	w	بَيۡنَكُمۡ	ﳙ	بينكم	between you	baynakum
+15	6:94:25	w	وَضَلَّ	ﳚ	وضل	and is lost	waḍalla
+15	6:94:26	w	عَنكُم	ﳛ	عنكم	from you	ʿankum
+15	6:94:27	w	مَّا	ﳜ	ما	what	mā
+15	6:94:28	w	كُنتُمۡ	ﳝ	كنتم	you used to	kuntum
+15	6:94:29	w	تَزۡعُمُونَ	ﳞ	تزعمون	claim	tazʿumūna
+15	6:94:30	e	٩٤	ﳟ			

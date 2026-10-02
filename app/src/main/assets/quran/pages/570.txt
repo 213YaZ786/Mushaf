@@ -1,0 +1,134 @@
+1	70:41:1	w	عَلَىٰٓ	ﱁ	على	[On]	ʿalā
+1	70:41:2	w	أَن	ﱂ	ان	to	an
+1	70:41:3	w	نُّبَدِّلَ	ﱃ	نبدل	[We] replace	nubaddila
+1	70:41:4	w	خَيۡرٗا	ﱄ	خيرا	(with) better	khayran
+1	70:41:5	w	مِّنۡهُمۡ	ﱅ	منهم	than them	min'hum
+1	70:41:6	w	وَمَا	ﱆ	وما	and not	wamā
+1	70:41:7	w	نَحۡنُ	ﱇ	نحن	We	naḥnu
+1	70:41:8	w	بِمَسۡبُوقِينَ	ﱈ	بمسبوقين	(are) to be outrun	bimasbūqīna
+1	70:41:9	e	٤١	ﱉ			
+1	70:42:1	w	فَذَرۡهُمۡ	ﱊ	فذرهم	So leave them	fadharhum
+2	70:42:2	w	يَخُوضُواْ	ﱋ	يخوضوا	(to) converse vainly	yakhūḍū
+2	70:42:3	w	وَيَلۡعَبُواْ	ﱌ	ويلعبوا	and amuse themselves	wayalʿabū
+2	70:42:4	w	حَتَّىٰ	ﱍ	حتى	until	ḥattā
+2	70:42:5	w	يُلَٰقُواْ	ﱎ	يلاقوا	they meet	yulāqū
+2	70:42:6	w	يَوۡمَهُمُ	ﱏ	يومهم	their Day	yawmahumu
+2	70:42:7	w	ٱلَّذِي	ﱐ	الذي	which	alladhī
+2	70:42:8	w	يُوعَدُونَ	ﱑ	يوعدون	they are promised	yūʿadūna
+2	70:42:9	e	٤٢	ﱒ			
+2	70:43:1	w	يَوۡمَ	ﱓ	يوم	(The) Day	yawma
+3	70:43:2	w	يَخۡرُجُونَ	ﱔ	يخرجون	they will come out	yakhrujūna
+3	70:43:3	w	مِنَ	ﱕ	من	from	mina
+3	70:43:4	w	ٱلۡأَجۡدَاثِ	ﱖ	الاجداث	the graves	l-ajdāthi
+3	70:43:5	w	سِرَاعٗا	ﱗ	سراعا	rapidly	sirāʿan
+3	70:43:6	w	كَأَنَّهُمۡ	ﱘ	كانهم	as if they (were)	ka-annahum
+3	70:43:7	w	إِلَىٰ	ﱙ	الى	to	ilā
+3	70:43:8	w	نُصُبٖ	ﱚ	نصب	a goal	nuṣubin
+3	70:43:9	w	يُوفِضُونَ	ﱛ	يوفضون	hastening	yūfiḍūna
+3	70:43:10	e	٤٣	ﱜ			
+4	70:44:1	w	خَٰشِعَةً	ﱝ	خاشعة	Humbled	khāshiʿatan
+4	70:44:2	w	أَبۡصَٰرُهُمۡ	ﱞ	ابصارهم	their eyesights	abṣāruhum
+4	70:44:3	w	تَرۡهَقُهُمۡ	ﱟ	ترهقهم	will cover them	tarhaquhum
+4	70:44:4	w	ذِلَّةٞۚ	ﱠﱡ	ذلة	humiliation	dhillatun
+4	70:44:5	w	ذَٰلِكَ	ﱢ	ذالك	That	dhālika
+4	70:44:6	w	ٱلۡيَوۡمُ	ﱣ	اليوم	(is) the Day	l-yawmu
+4	70:44:7	w	ٱلَّذِي	ﱤ	الذي	which	alladhī
+4	70:44:8	w	كَانُواْ	ﱥ	كانوا	they were	kānū
+4	70:44:9	w	يُوعَدُونَ	ﱦ	يوعدون	promised	yūʿadūna
+4	70:44:10	e	٤٤	ﱧ			
+7	71:1:1	w	إِنَّآ	ﱨ	انا	Indeed, We	innā
+7	71:1:2	w	أَرۡسَلۡنَا	ﱩ	ارسلنا	[We] sent	arsalnā
+7	71:1:3	w	نُوحًا	ﱪ	نوحا	Nuh	nūḥan
+7	71:1:4	w	إِلَىٰ	ﱫ	الى	to	ilā
+7	71:1:5	w	قَوۡمِهِۦٓ	ﱬ	قومه	his people	qawmihi
+7	71:1:6	w	أَنۡ	ﱭ	ان	that	an
+7	71:1:7	w	أَنذِرۡ	ﱮ	انذر	Warn	andhir
+7	71:1:8	w	قَوۡمَكَ	ﱯ	قومك	your people	qawmaka
+7	71:1:9	w	مِن	ﱰ	من	from	min
+7	71:1:10	w	قَبۡلِ	ﱱ	قبل	before	qabli
+7	71:1:11	w	أَن	ﱲ	ان	[that]	an
+7	71:1:12	w	يَأۡتِيَهُمۡ	ﱳ	ياتيهم	comes to them	yatiyahum
+8	71:1:13	w	عَذَابٌ	ﱴ	عذاب	a punishment	ʿadhābun
+8	71:1:14	w	أَلِيمٞ	ﱵ	اليم	painful	alīmun
+8	71:1:15	e	١	ﱶ			
+8	71:2:1	w	قَالَ	ﱷ	قال	He said	qāla
+8	71:2:2	w	يَٰقَوۡمِ	ﱸ	يا قوم	O my people	yāqawmi
+8	71:2:3	w	إِنِّي	ﱹ	اني	Indeed, I am	innī
+8	71:2:4	w	لَكُمۡ	ﱺ	لكم	to you	lakum
+8	71:2:5	w	نَذِيرٞ	ﱻ	نذير	a warner	nadhīrun
+8	71:2:6	w	مُّبِينٌ	ﱼ	مبين	clear	mubīnun
+8	71:2:7	e	٢	ﱽ			
+8	71:3:1	w	أَنِ	ﱾ	ان	That	ani
+8	71:3:2	w	ٱعۡبُدُواْ	ﱿ	اعبدوا	Worship	uʿ'budū
+9	71:3:3	w	ٱللَّهَ	ﲀ	الله	Allah	l-laha
+9	71:3:4	w	وَٱتَّقُوهُ	ﲁ	واتقوه	and fear Him	wa-ittaqūhu
+9	71:3:5	w	وَأَطِيعُونِ	ﲂ	واطيعون	and obey me	wa-aṭīʿūni
+9	71:3:6	e	٣	ﲃ			
+9	71:4:1	w	يَغۡفِرۡ	ﲄ	يغفر	He will forgive	yaghfir
+9	71:4:2	w	لَكُم	ﲅ	لكم	for you	lakum
+9	71:4:3	w	مِّن	ﲆ	من	[of]	min
+9	71:4:4	w	ذُنُوبِكُمۡ	ﲇ	ذنوبكم	your sins	dhunūbikum
+9	71:4:5	w	وَيُؤَخِّرۡكُمۡ	ﲈ	ويوخركم	and give you respite	wayu-akhir'kum
+10	71:4:6	w	إِلَىٰٓ	ﲉ	الى	for	ilā
+10	71:4:7	w	أَجَلٖ	ﲊ	اجل	a term	ajalin
+10	71:4:8	w	مُّسَمًّىۚ	ﲋﲌ	مسمى	specified	musamman
+10	71:4:9	w	إِنَّ	ﲍ	ان	Indeed	inna
+10	71:4:10	w	أَجَلَ	ﲎ	اجل	(the) term	ajala
+10	71:4:11	w	ٱللَّهِ	ﲏ	الله	(of) Allah	l-lahi
+10	71:4:12	w	إِذَا	ﲐ	اذا	when	idhā
+10	71:4:13	w	جَآءَ	ﲑ	جاء	it comes	jāa
+10	71:4:14	w	لَا	ﲒ	لا	not	lā
+10	71:4:15	w	يُؤَخَّرُۚ	ﲓﲔ	يوخر	is delayed	yu-akharu
+10	71:4:16	w	لَوۡ	ﲕ	لو	if	law
+10	71:4:17	w	كُنتُمۡ	ﲖ	كنتم	you	kuntum
+10	71:4:18	w	تَعۡلَمُونَ	ﲗ	تعلمون	know	taʿlamūna
+10	71:4:19	e	٤	ﲘ			
+11	71:5:1	w	قَالَ	ﲙ	قال	He said	qāla
+11	71:5:2	w	رَبِّ	ﲚ	رب	My Lord	rabbi
+11	71:5:3	w	إِنِّي	ﲛ	اني	Indeed, I	innī
+11	71:5:4	w	دَعَوۡتُ	ﲜ	دعوت	invited	daʿawtu
+11	71:5:5	w	قَوۡمِي	ﲝ	قومي	my people	qawmī
+11	71:5:6	w	لَيۡلٗا	ﲞ	ليلا	night	laylan
+11	71:5:7	w	وَنَهَارٗا	ﲟ	ونهارا	and day	wanahāran
+11	71:5:8	e	٥	ﲠ			
+11	71:6:1	w	فَلَمۡ	ﲡ	فلم	But not	falam
+11	71:6:2	w	يَزِدۡهُمۡ	ﲢ	يزدهم	increased them	yazid'hum
+11	71:6:3	w	دُعَآءِيٓ	ﲣ	دعايي	my invitation	duʿāī
+11	71:6:4	w	إِلَّا	ﲤ	الا	except	illā
+12	71:6:5	w	فِرَارٗا	ﲥ	فرارا	(in) flight	firāran
+12	71:6:6	e	٦	ﲦ			
+12	71:7:1	w	وَإِنِّي	ﲧ	واني	And indeed, I	wa-innī
+12	71:7:2	w	كُلَّمَا	ﲨ	كلما	every time	kullamā
+12	71:7:3	w	دَعَوۡتُهُمۡ	ﲩ	دعوتهم	I invited them	daʿawtuhum
+12	71:7:4	w	لِتَغۡفِرَ	ﲪ	لتغفر	that You may forgive	litaghfira
+12	71:7:5	w	لَهُمۡ	ﲫ	لهم	them	lahum
+12	71:7:6	w	جَعَلُوٓاْ	ﲬ	جعلوا	they put	jaʿalū
+12	71:7:7	w	أَصَٰبِعَهُمۡ	ﲭ	اصابعهم	their fingers	aṣābiʿahum
+12	71:7:8	w	فِيٓ	ﲮ	في	in	fī
+13	71:7:9	w	ءَاذَانِهِمۡ	ﲯ	اذانهم	their ears	ādhānihim
+13	71:7:10	w	وَٱسۡتَغۡشَوۡاْ	ﲰ	واستغشوا	and covered themselves	wa-is'taghshaw
+13	71:7:11	w	ثِيَابَهُمۡ	ﲱ	ثيابهم	(with) their garments	thiyābahum
+13	71:7:12	w	وَأَصَرُّواْ	ﲲ	واصروا	and persisted	wa-aṣarrū
+13	71:7:13	w	وَٱسۡتَكۡبَرُواْ	ﲳ	واستكبروا	and were arrogant	wa-is'takbarū
+13	71:7:14	w	ٱسۡتِكۡبَارٗا	ﲴ	استكبارا	(with) pride	is'tik'bāran
+14	71:7:15	e	٧	ﲵ			
+14	71:8:1	w	ثُمَّ	ﲶ	ثم	Then	thumma
+14	71:8:2	w	إِنِّي	ﲷ	اني	indeed, I	innī
+14	71:8:3	w	دَعَوۡتُهُمۡ	ﲸ	دعوتهم	invited them	daʿawtuhum
+14	71:8:4	w	جِهَارٗا	ﲹ	جهارا	publicly	jihāran
+14	71:8:5	e	٨	ﲺ			
+14	71:9:1	w	ثُمَّ	ﲻ	ثم	Then	thumma
+14	71:9:2	w	إِنِّيٓ	ﲼ	اني	indeed, I	innī
+14	71:9:3	w	أَعۡلَنتُ	ﲽ	اعلنت	announced	aʿlantu
+14	71:9:4	w	لَهُمۡ	ﲾ	لهم	to them	lahum
+14	71:9:5	w	وَأَسۡرَرۡتُ	ﲿ	واسررت	and I confided	wa-asrartu
+15	71:9:6	w	لَهُمۡ	ﳀ	لهم	to them	lahum
+15	71:9:7	w	إِسۡرَارٗا	ﳁ	اسرارا	secretly	is'rāran
+15	71:9:8	e	٩	ﳂ			
+15	71:10:1	w	فَقُلۡتُ	ﳃ	فقلت	Then I said	faqul'tu
+15	71:10:2	w	ٱسۡتَغۡفِرُواْ	ﳄ	استغفروا	Ask forgiveness	is'taghfirū
+15	71:10:3	w	رَبَّكُمۡ	ﳅ	ربكم	(from) your Lord	rabbakum
+15	71:10:4	w	إِنَّهُۥ	ﳆ	انه	Indeed, He	innahu
+15	71:10:5	w	كَانَ	ﳇ	كان	is	kāna
+15	71:10:6	w	غَفَّارٗا	ﳈ	غفارا	Oft-Forgiving	ghaffāran
+15	71:10:7	e	١٠	ﳉ			

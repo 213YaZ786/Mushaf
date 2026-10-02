@@ -1,0 +1,148 @@
+1	11:38:1	w	وَيَصۡنَعُ	ﱁ	ويصنع	And he was constructing	wayaṣnaʿu
+1	11:38:2	w	ٱلۡفُلۡكَ	ﱂ	الفلك	the ship	l-ful'ka
+1	11:38:3	w	وَكُلَّمَا	ﱃ	وكلما	and every time	wakullamā
+1	11:38:4	w	مَرَّ	ﱄ	مر	passed	marra
+1	11:38:5	w	عَلَيۡهِ	ﱅ	عليه	by him	ʿalayhi
+1	11:38:6	w	مَلَأٞ	ﱆ	ملا	(the) chiefs	mala-on
+1	11:38:7	w	مِّن	ﱇ	من	of	min
+1	11:38:8	w	قَوۡمِهِۦ	ﱈ	قومه	his people	qawmihi
+1	11:38:9	w	سَخِرُواْ	ﱉ	سخروا	they ridiculed	sakhirū
+1	11:38:10	w	مِنۡهُۚ	ﱊﱋ	منه	[of] him	min'hu
+2	11:38:11	w	قَالَ	ﱌ	قال	He said	qāla
+2	11:38:12	w	إِن	ﱍ	ان	If	in
+2	11:38:13	w	تَسۡخَرُواْ	ﱎ	تسخروا	you ridicule	taskharū
+2	11:38:14	w	مِنَّا	ﱏ	منا	us	minnā
+2	11:38:15	w	فَإِنَّا	ﱐ	فانا	then we	fa-innā
+2	11:38:16	w	نَسۡخَرُ	ﱑ	نسخر	can ridicule	naskharu
+2	11:38:17	w	مِنكُمۡ	ﱒ	منكم	you	minkum
+2	11:38:18	w	كَمَا	ﱓ	كما	as	kamā
+2	11:38:19	w	تَسۡخَرُونَ	ﱔ	تسخرون	you ridicule	taskharūna
+3	11:38:20	e	٣٨	ﱕ			
+3	11:39:1	w	فَسَوۡفَ	ﱖ	فسوف	And soon	fasawfa
+3	11:39:2	w	تَعۡلَمُونَ	ﱗ	تعلمون	you will know	taʿlamūna
+3	11:39:3	w	مَن	ﱘ	من	(on) whom	man
+3	11:39:4	w	يَأۡتِيهِ	ﱙ	ياتيه	will come	yatīhi
+3	11:39:5	w	عَذَابٞ	ﱚ	عذاب	a punishment	ʿadhābun
+3	11:39:6	w	يُخۡزِيهِ	ﱛ	يخزيه	(that) will disgrace him	yukh'zīhi
+3	11:39:7	w	وَيَحِلُّ	ﱜ	ويحل	and will descend	wayaḥillu
+3	11:39:8	w	عَلَيۡهِ	ﱝ	عليه	on him	ʿalayhi
+3	11:39:9	w	عَذَابٞ	ﱞ	عذاب	a punishment	ʿadhābun
+4	11:39:10	w	مُّقِيمٌ	ﱟ	مقيم	lasting	muqīmun
+4	11:39:11	e	٣٩	ﱠ			
+4	11:40:1	w	حَتَّىٰٓ	ﱡ	حتى	Till	ḥattā
+4	11:40:2	w	إِذَا	ﱢ	اذا	when	idhā
+4	11:40:3	w	جَآءَ	ﱣ	جاء	came	jāa
+4	11:40:4	w	أَمۡرُنَا	ﱤ	امرنا	Our command	amrunā
+4	11:40:5	w	وَفَارَ	ﱥ	وفار	and overflowed	wafāra
+4	11:40:6	w	ٱلتَّنُّورُ	ﱦ	التنور	the oven	l-tanūru
+4	11:40:7	w	قُلۡنَا	ﱧ	قلنا	We said	qul'nā
+4	11:40:8	w	ٱحۡمِلۡ	ﱨ	احمل	Load	iḥ'mil
+4	11:40:9	w	فِيهَا	ﱩ	فيها	in it	fīhā
+5	11:40:10	w	مِن	ﱪ	من	of	min
+5	11:40:11	w	كُلّٖ	ﱫ	كل	every kind	kullin
+5	11:40:12	w	زَوۡجَيۡنِ	ﱬ	زوجين	a pair	zawjayni
+5	11:40:13	w	ٱثۡنَيۡنِ	ﱭ	اثنين	two	ith'nayni
+5	11:40:14	w	وَأَهۡلَكَ	ﱮ	واهلك	and your family	wa-ahlaka
+5	11:40:15	w	إِلَّا	ﱯ	الا	except	illā
+5	11:40:16	w	مَن	ﱰ	من	who	man
+5	11:40:17	w	سَبَقَ	ﱱ	سبق	has preceded	sabaqa
+5	11:40:18	w	عَلَيۡهِ	ﱲ	عليه	against him	ʿalayhi
+5	11:40:19	w	ٱلۡقَوۡلُ	ﱳ	القول	the word	l-qawlu
+6	11:40:20	w	وَمَنۡ	ﱴ	ومن	and whoever	waman
+6	11:40:21	w	ءَامَنَۚ	ﱵﱶ	امن	believed	āmana
+6	11:40:22	w	وَمَآ	ﱷ	وما	And not	wamā
+6	11:40:23	w	ءَامَنَ	ﱸ	امن	believed	āmana
+6	11:40:24	w	مَعَهُۥٓ	ﱹ	معه	with him	maʿahu
+6	11:40:25	w	إِلَّا	ﱺ	الا	except	illā
+6	11:40:26	w	قَلِيلٞ	ﱻ	قليل	a few	qalīlun
+6	11:40:27	e	٤٠	ﱼ			
+6	11:41:1	w	۞ وَقَالَ	ﱽ ﱾ	۞ وقال	And he said	waqāla
+6	11:41:2	w	ٱرۡكَبُواْ	ﱿ	اركبوا	Embark	ir'kabū
+7	11:41:3	w	فِيهَا	ﲀ	فيها	in it	fīhā
+7	11:41:4	w	بِسۡمِ	ﲁ	بسم	in the name	bis'mi
+7	11:41:5	w	ٱللَّهِ	ﲂ	الله	of Allah	l-lahi
+7	11:41:6	w	مَجۡر۪ىٰهَا	ﲃ	مجراها	(is) its course	majrahā
+7	11:41:7	w	وَمُرۡسَىٰهَآۚ	ﲄﲅ	ومرساها	and its anchorage	wamur'sāhā
+7	11:41:8	w	إِنَّ	ﲆ	ان	Indeed	inna
+7	11:41:9	w	رَبِّي	ﲇ	ربي	my Lord	rabbī
+7	11:41:10	w	لَغَفُورٞ	ﲈ	لغفور	(is) certainly Oft-Forgiving	laghafūrun
+7	11:41:11	w	رَّحِيمٞ	ﲉ	رحيم	Most Merciful	raḥīmun
+8	11:41:12	e	٤١	ﲊ			
+8	11:42:1	w	وَهِيَ	ﲋ	وهي	And it	wahiya
+8	11:42:2	w	تَجۡرِي	ﲌ	تجري	sailed	tajrī
+8	11:42:3	w	بِهِمۡ	ﲍ	بهم	with them	bihim
+8	11:42:4	w	فِي	ﲎ	في	on	fī
+8	11:42:5	w	مَوۡجٖ	ﲏ	موج	the waves	mawjin
+8	11:42:6	w	كَٱلۡجِبَالِ	ﲐ	كالجبال	like mountains	kal-jibāli
+8	11:42:7	w	وَنَادَىٰ	ﲑ	ونادى	and Nuh called out	wanādā
+8	11:42:8	w	نُوحٌ	ﲒ	نوح	and Nuh called out	nūḥun
+8	11:42:9	w	ٱبۡنَهُۥ	ﲓ	ابنه	(to) his son	ib'nahu
+9	11:42:10	w	وَكَانَ	ﲔ	وكان	and he was	wakāna
+9	11:42:11	w	فِي	ﲕ	في	[in]	fī
+9	11:42:12	w	مَعۡزِلٖ	ﲖ	معزل	apart	maʿzilin
+9	11:42:13	w	يَٰبُنَيَّ	ﲗ	يا بني	O my son	yābunayya
+9	11:42:14	w	ٱرۡكَب	ﲘ	اركب	Embark	ir'kab
+9	11:42:15	w	مَّعَنَا	ﲙ	معنا	with us	maʿanā
+9	11:42:16	w	وَلَا	ﲚ	ولا	and (do) not	walā
+9	11:42:17	w	تَكُن	ﲛ	تكن	be	takun
+9	11:42:18	w	مَّعَ	ﲜ	مع	with	maʿa
+9	11:42:19	w	ٱلۡكَٰفِرِينَ	ﲝ	الكافرين	the disbelievers	l-kāfirīna
+9	11:42:20	e	٤٢	ﲞ			
+10	11:43:1	w	قَالَ	ﲟ	قال	He said	qāla
+10	11:43:2	w	سَـَٔاوِيٓ	ﲠ	ساوي	I will betake myself	saāwī
+10	11:43:3	w	إِلَىٰ	ﲡ	الى	to	ilā
+10	11:43:4	w	جَبَلٖ	ﲢ	جبل	a mountain	jabalin
+10	11:43:5	w	يَعۡصِمُنِي	ﲣ	يعصمني	(that) will save me	yaʿṣimunī
+10	11:43:6	w	مِنَ	ﲤ	من	from	mina
+10	11:43:7	w	ٱلۡمَآءِۚ	ﲥﲦ	الماء	the water	l-māi
+10	11:43:8	w	قَالَ	ﲧ	قال	He said	qāla
+10	11:43:9	w	لَا	ﲨ	لا	(There is) no	lā
+10	11:43:10	w	عَاصِمَ	ﲩ	عاصم	protector	ʿāṣima
+10	11:43:11	w	ٱلۡيَوۡمَ	ﲪ	اليوم	today	l-yawma
+11	11:43:12	w	مِنۡ	ﲫ	من	from	min
+11	11:43:13	w	أَمۡرِ	ﲬ	امر	the Command of Allah	amri
+11	11:43:14	w	ٱللَّهِ	ﲭ	الله	the Command of Allah	l-lahi
+11	11:43:15	w	إِلَّا	ﲮ	الا	except	illā
+11	11:43:16	w	مَن	ﲯ	من	(on) whom	man
+11	11:43:17	w	رَّحِمَۚ	ﲰﲱ	رحم	He has mercy	raḥima
+11	11:43:18	w	وَحَالَ	ﲲ	وحال	And came	waḥāla
+11	11:43:19	w	بَيۡنَهُمَا	ﲳ	بينهما	(in) between them	baynahumā
+11	11:43:20	w	ٱلۡمَوۡجُ	ﲴ	الموج	the waves	l-mawju
+11	11:43:21	w	فَكَانَ	ﲵ	فكان	so he was	fakāna
+11	11:43:22	w	مِنَ	ﲶ	من	among	mina
+12	11:43:23	w	ٱلۡمُغۡرَقِينَ	ﲷ	المغرقين	the drowned	l-mugh'raqīna
+12	11:43:24	e	٤٣	ﲸ			
+12	11:44:1	w	وَقِيلَ	ﲹ	وقيل	And it was said	waqīla
+12	11:44:2	w	يَٰٓأَرۡضُ	ﲺ	يا ارض	O earth	yāarḍu
+12	11:44:3	w	ٱبۡلَعِي	ﲻ	ابلعي	Swallow	ib'laʿī
+12	11:44:4	w	مَآءَكِ	ﲼ	ماءك	your water	māaki
+12	11:44:5	w	وَيَٰسَمَآءُ	ﲽ	ويا سماء	and O sky	wayāsamāu
+12	11:44:6	w	أَقۡلِعِي	ﲾ	اقلعي	Withhold	aqliʿī
+13	11:44:7	w	وَغِيضَ	ﲿ	وغيض	And subsided	waghīḍa
+13	11:44:8	w	ٱلۡمَآءُ	ﳀ	الماء	the water	l-māu
+13	11:44:9	w	وَقُضِيَ	ﳁ	وقضي	and was fulfilled	waquḍiya
+13	11:44:10	w	ٱلۡأَمۡرُ	ﳂ	الامر	the Command	l-amru
+13	11:44:11	w	وَٱسۡتَوَتۡ	ﳃ	واستوت	And it rested	wa-is'tawat
+13	11:44:12	w	عَلَى	ﳄ	على	on	ʿalā
+13	11:44:13	w	ٱلۡجُودِيِّۖ	ﳅﳆ	الجودي	the Judi	l-jūdiyi
+13	11:44:14	w	وَقِيلَ	ﳇ	وقيل	And it was said	waqīla
+14	11:44:15	w	بُعۡدٗا	ﳈ	بعدا	Away	buʿ'dan
+14	11:44:16	w	لِّلۡقَوۡمِ	ﳉ	للقوم	with the people	lil'qawmi
+14	11:44:17	w	ٱلظَّٰلِمِينَ	ﳊ	الظالمين	the wrongdoers	l-ẓālimīna
+14	11:44:18	e	٤٤	ﳋ			
+14	11:45:1	w	وَنَادَىٰ	ﳌ	ونادى	And Nuh called	wanādā
+14	11:45:2	w	نُوحٞ	ﳍ	نوح	And Nuh called	nūḥun
+14	11:45:3	w	رَّبَّهُۥ	ﳎ	ربه	(to) his Lord	rabbahu
+14	11:45:4	w	فَقَالَ	ﳏ	فقال	and said	faqāla
+14	11:45:5	w	رَبِّ	ﳐ	رب	O my Lord	rabbi
+14	11:45:6	w	إِنَّ	ﳑ	ان	Indeed	inna
+14	11:45:7	w	ٱبۡنِي	ﳒ	ابني	my son	ib'nī
+15	11:45:8	w	مِنۡ	ﳓ	من	(is) of	min
+15	11:45:9	w	أَهۡلِي	ﳔ	اهلي	my family	ahlī
+15	11:45:10	w	وَإِنَّ	ﳕ	وان	and indeed	wa-inna
+15	11:45:11	w	وَعۡدَكَ	ﳖ	وعدك	Your promise	waʿdaka
+15	11:45:12	w	ٱلۡحَقُّ	ﳗ	الحق	(is) true	l-ḥaqu
+15	11:45:13	w	وَأَنتَ	ﳘ	وانت	and You	wa-anta
+15	11:45:14	w	أَحۡكَمُ	ﳙ	احكم	(are) the Most Just	aḥkamu
+15	11:45:15	w	ٱلۡحَٰكِمِينَ	ﳚ	الحاكمين	(of) the judges	l-ḥākimīna
+15	11:45:16	e	٤٥	ﳛ			

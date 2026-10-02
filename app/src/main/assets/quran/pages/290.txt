@@ -1,0 +1,147 @@
+1	17:76:1	w	وَإِن	ﱁ	وان	And indeed	wa-in
+1	17:76:2	w	كَادُواْ	ﱂ	كادوا	they were about	kādū
+1	17:76:3	w	لَيَسۡتَفِزُّونَكَ	ﱃ	ليستفزونك	(to) scare you	layastafizzūnaka
+1	17:76:4	w	مِنَ	ﱄ	من	from	mina
+1	17:76:5	w	ٱلۡأَرۡضِ	ﱅ	الارض	the land	l-arḍi
+1	17:76:6	w	لِيُخۡرِجُوكَ	ﱆ	ليخرجوك	that they evict you	liyukh'rijūka
+1	17:76:7	w	مِنۡهَاۖ	ﱇﱈ	منها	from it	min'hā
+2	17:76:8	w	وَإِذٗا	ﱉ	واذا	But then	wa-idhan
+2	17:76:9	w	لَّا	ﱊ	لا	not	lā
+2	17:76:10	w	يَلۡبَثُونَ	ﱋ	يلبثون	they (would) have stayed	yalbathūna
+2	17:76:11	w	خِلَٰفَكَ	ﱌ	خلافك	after you	khilāfaka
+2	17:76:12	w	إِلَّا	ﱍ	الا	except	illā
+2	17:76:13	w	قَلِيلٗا	ﱎ	قليلا	a little	qalīlan
+2	17:76:14	e	٧٦	ﱏ			
+2	17:77:1	w	سُنَّةَ	ﱐ	سنة	(Such is Our) Way	sunnata
+2	17:77:2	w	مَن	ﱑ	من	(for) whom	man
+2	17:77:3	w	قَدۡ	ﱒ	قد	[verily]	qad
+2	17:77:4	w	أَرۡسَلۡنَا	ﱓ	ارسلنا	We sent	arsalnā
+3	17:77:5	w	قَبۡلَكَ	ﱔ	قبلك	before you	qablaka
+3	17:77:6	w	مِن	ﱕ	من	of	min
+3	17:77:7	w	رُّسُلِنَاۖ	ﱖﱗ	رسلنا	Our Messengers	rusulinā
+3	17:77:8	w	وَلَا	ﱘ	ولا	And not	walā
+3	17:77:9	w	تَجِدُ	ﱙ	تجد	you will find	tajidu
+3	17:77:10	w	لِسُنَّتِنَا	ﱚ	لسنتنا	(in) Our way	lisunnatinā
+3	17:77:11	w	تَحۡوِيلًا	ﱛ	تحويلا	any alteration	taḥwīlan
+3	17:77:12	e	٧٧	ﱜ			
+3	17:78:1	w	أَقِمِ	ﱝ	اقم	Establish	aqimi
+4	17:78:2	w	ٱلصَّلَوٰةَ	ﱞ	الصلاة	the prayer	l-ṣalata
+4	17:78:3	w	لِدُلُوكِ	ﱟ	لدلوك	at the decline	lidulūki
+4	17:78:4	w	ٱلشَّمۡسِ	ﱠ	الشمس	(of) the sun	l-shamsi
+4	17:78:5	w	إِلَىٰ	ﱡ	الى	till	ilā
+4	17:78:6	w	غَسَقِ	ﱢ	غسق	(the) darkness	ghasaqi
+4	17:78:7	w	ٱلَّيۡلِ	ﱣ	الليل	(of) the night	al-layli
+4	17:78:8	w	وَقُرۡءَانَ	ﱤ	وقران	and Quran	waqur'āna
+4	17:78:9	w	ٱلۡفَجۡرِۖ	ﱥﱦ	الفجر	at dawn	l-fajri
+5	17:78:10	w	إِنَّ	ﱧ	ان	indeed	inna
+5	17:78:11	w	قُرۡءَانَ	ﱨ	قران	the Quran	qur'āna
+5	17:78:12	w	ٱلۡفَجۡرِ	ﱩ	الفجر	(at) the dawn	l-fajri
+5	17:78:13	w	كَانَ	ﱪ	كان	is	kāna
+5	17:78:14	w	مَشۡهُودٗا	ﱫ	مشهودا	ever witnessed	mashhūdan
+5	17:78:15	e	٧٨	ﱬ			
+5	17:79:1	w	وَمِنَ	ﱭ	ومن	And from	wamina
+5	17:79:2	w	ٱلَّيۡلِ	ﱮ	الليل	the night	al-layli
+5	17:79:3	w	فَتَهَجَّدۡ	ﱯ	فتهجد	arise from sleep for prayer	fatahajjad
+6	17:79:4	w	بِهِۦ	ﱰ	به	with it	bihi
+6	17:79:5	w	نَافِلَةٗ	ﱱ	نافلة	(as) additional	nāfilatan
+6	17:79:6	w	لَّكَ	ﱲ	لك	for you	laka
+6	17:79:7	w	عَسَىٰٓ	ﱳ	عسى	it may be	ʿasā
+6	17:79:8	w	أَن	ﱴ	ان	that	an
+6	17:79:9	w	يَبۡعَثَكَ	ﱵ	يبعثك	will raise you	yabʿathaka
+6	17:79:10	w	رَبُّكَ	ﱶ	ربك	your Lord	rabbuka
+6	17:79:11	w	مَقَامٗا	ﱷ	مقاما	(to) a station	maqāman
+6	17:79:12	w	مَّحۡمُودٗا	ﱸ	محمودا	praiseworthy	maḥmūdan
+6	17:79:13	e	٧٩	ﱹ			
+7	17:80:1	w	وَقُل	ﱺ	وقل	And say	waqul
+7	17:80:2	w	رَّبِّ	ﱻ	رب	My Lord	rabbi
+7	17:80:3	w	أَدۡخِلۡنِي	ﱼ	ادخلني	Cause me to enter	adkhil'nī
+7	17:80:4	w	مُدۡخَلَ	ﱽ	مدخل	an entrance	mud'khala
+7	17:80:5	w	صِدۡقٖ	ﱾ	صدق	sound	ṣid'qin
+7	17:80:6	w	وَأَخۡرِجۡنِي	ﱿ	واخرجني	and cause me to exit	wa-akhrij'nī
+7	17:80:7	w	مُخۡرَجَ	ﲀ	مخرج	an exit	mukh'raja
+7	17:80:8	w	صِدۡقٖ	ﲁ	صدق	sound	ṣid'qin
+8	17:80:9	w	وَٱجۡعَل	ﲂ	واجعل	and make	wa-ij'ʿal
+8	17:80:10	w	لِّي	ﲃ	لي	for me	lī
+8	17:80:11	w	مِن	ﲄ	من	from	min
+8	17:80:12	w	لَّدُنكَ	ﲅ	لدنك	near You	ladunka
+8	17:80:13	w	سُلۡطَٰنٗا	ﲆ	سلطانا	an authority	sul'ṭānan
+8	17:80:14	w	نَّصِيرٗا	ﲇ	نصيرا	helping	naṣīran
+8	17:80:15	e	٨٠	ﲈ			
+8	17:81:1	w	وَقُلۡ	ﲉ	وقل	And say	waqul
+8	17:81:2	w	جَآءَ	ﲊ	جاء	Has come	jāa
+8	17:81:3	w	ٱلۡحَقُّ	ﲋ	الحق	the truth	l-ḥaqu
+8	17:81:4	w	وَزَهَقَ	ﲌ	وزهق	and perished	wazahaqa
+9	17:81:5	w	ٱلۡبَٰطِلُۚ	ﲍﲎ	الباطل	the falsehood	l-bāṭilu
+9	17:81:6	w	إِنَّ	ﲏ	ان	Indeed	inna
+9	17:81:7	w	ٱلۡبَٰطِلَ	ﲐ	الباطل	the falsehood	l-bāṭila
+9	17:81:8	w	كَانَ	ﲑ	كان	is	kāna
+9	17:81:9	w	زَهُوقٗا	ﲒ	زهوقا	(bound) to perish	zahūqan
+9	17:81:10	e	٨١	ﲓ			
+9	17:82:1	w	وَنُنَزِّلُ	ﲔ	وننزل	And We reveal	wanunazzilu
+9	17:82:2	w	مِنَ	ﲕ	من	from	mina
+9	17:82:3	w	ٱلۡقُرۡءَانِ	ﲖ	القران	the Quran	l-qur'āni
+9	17:82:4	w	مَا	ﲗ	ما	that	mā
+9	17:82:5	w	هُوَ	ﲘ	هو	it	huwa
+10	17:82:6	w	شِفَآءٞ	ﲙ	شفاء	(is) a healing	shifāon
+10	17:82:7	w	وَرَحۡمَةٞ	ﲚ	ورحمة	and a mercy	waraḥmatun
+10	17:82:8	w	لِّلۡمُؤۡمِنِينَ	ﲛ	للمومنين	for the believers	lil'mu'minīna
+10	17:82:9	w	وَلَا	ﲜ	ولا	but not	walā
+10	17:82:10	w	يَزِيدُ	ﲝ	يزيد	it increases	yazīdu
+10	17:82:11	w	ٱلظَّٰلِمِينَ	ﲞ	الظالمين	the wrongdoers	l-ẓālimīna
+10	17:82:12	w	إِلَّا	ﲟ	الا	except	illā
+10	17:82:13	w	خَسَارٗا	ﲠ	خسارا	(in) loss	khasāran
+10	17:82:14	e	٨٢	ﲡ			
+11	17:83:1	w	وَإِذَآ	ﲢ	واذا	And when	wa-idhā
+11	17:83:2	w	أَنۡعَمۡنَا	ﲣ	انعمنا	We bestow favor	anʿamnā
+11	17:83:3	w	عَلَى	ﲤ	على	on	ʿalā
+11	17:83:4	w	ٱلۡإِنسَٰنِ	ﲥ	الانسان	man	l-insāni
+11	17:83:5	w	أَعۡرَضَ	ﲦ	اعرض	he turns away	aʿraḍa
+11	17:83:6	w	وَنَـَٔا	ﲧ	وناى	and becomes remote	wanaā
+11	17:83:7	w	بِجَانِبِهِۦ	ﲨ	بجانبه	on his side	bijānibihi
+11	17:83:8	w	وَإِذَا	ﲩ	واذا	And when	wa-idhā
+11	17:83:9	w	مَسَّهُ	ﲪ	مسه	touches him	massahu
+12	17:83:10	w	ٱلشَّرُّ	ﲫ	الشر	the evil	l-sharu
+12	17:83:11	w	كَانَ	ﲬ	كان	he is	kāna
+12	17:83:12	w	يَـُٔوسٗا	ﲭ	ييوسا	(in) despair	yaūsan
+12	17:83:13	e	٨٣	ﲮ			
+12	17:84:1	w	قُلۡ	ﲯ	قل	Say	qul
+12	17:84:2	w	كُلّٞ	ﲰ	كل	Each	kullun
+12	17:84:3	w	يَعۡمَلُ	ﲱ	يعمل	works	yaʿmalu
+12	17:84:4	w	عَلَىٰ	ﲲ	على	on	ʿalā
+12	17:84:5	w	شَاكِلَتِهِۦ	ﲳ	شاكلته	his manner	shākilatihi
+12	17:84:6	w	فَرَبُّكُمۡ	ﲴ	فربكم	but your Lord	farabbukum
+12	17:84:7	w	أَعۡلَمُ	ﲵ	اعلم	(is) most knowing	aʿlamu
+13	17:84:8	w	بِمَنۡ	ﲶ	بمن	of who	biman
+13	17:84:9	w	هُوَ	ﲷ	هو	[he]	huwa
+13	17:84:10	w	أَهۡدَىٰ	ﲸ	اهدى	(is) best guided	ahdā
+13	17:84:11	w	سَبِيلٗا	ﲹ	سبيلا	(in) way	sabīlan
+13	17:84:12	e	٨٤	ﲺ			
+13	17:85:1	w	وَيَسۡـَٔلُونَكَ	ﲻ	ويسالونك	And they ask you	wayasalūnaka
+13	17:85:2	w	عَنِ	ﲼ	عن	concerning	ʿani
+13	17:85:3	w	ٱلرُّوحِۖ	ﲽﲾ	الروح	the soul	l-rūḥi
+13	17:85:4	w	قُلِ	ﲿ	قل	Say	quli
+13	17:85:5	w	ٱلرُّوحُ	ﳀ	الروح	The soul	l-rūḥu
+13	17:85:6	w	مِنۡ	ﳁ	من	(is) of	min
+14	17:85:7	w	أَمۡرِ	ﳂ	امر	(the) affair	amri
+14	17:85:8	w	رَبِّي	ﳃ	ربي	(of) my Lord	rabbī
+14	17:85:9	w	وَمَآ	ﳄ	وما	And not	wamā
+14	17:85:10	w	أُوتِيتُم	ﳅ	اوتيتم	you have been given	ūtītum
+14	17:85:11	w	مِّنَ	ﳆ	من	of	mina
+14	17:85:12	w	ٱلۡعِلۡمِ	ﳇ	العلم	the knowledge	l-ʿil'mi
+14	17:85:13	w	إِلَّا	ﳈ	الا	except	illā
+14	17:85:14	w	قَلِيلٗا	ﳉ	قليلا	a little	qalīlan
+14	17:85:15	e	٨٥	ﳊ			
+14	17:86:1	w	وَلَئِن	ﳋ	ولين	And if	wala-in
+14	17:86:2	w	شِئۡنَا	ﳌ	شينا	We willed	shi'nā
+14	17:86:3	w	لَنَذۡهَبَنَّ	ﳍ	لنذهبن	We (would) have surely taken away	lanadhhabanna
+15	17:86:4	w	بِٱلَّذِيٓ	ﳎ	بالذي	that which	bi-alladhī
+15	17:86:5	w	أَوۡحَيۡنَآ	ﳏ	اوحينا	We have revealed	awḥaynā
+15	17:86:6	w	إِلَيۡكَ	ﳐ	اليك	to you	ilayka
+15	17:86:7	w	ثُمَّ	ﳑ	ثم	Then	thumma
+15	17:86:8	w	لَا	ﳒ	لا	not	lā
+15	17:86:9	w	تَجِدُ	ﳓ	تجد	you would find	tajidu
+15	17:86:10	w	لَكَ	ﳔ	لك	for you	laka
+15	17:86:11	w	بِهِۦ	ﳕ	به	concerning it	bihi
+15	17:86:12	w	عَلَيۡنَا	ﳖ	علينا	against Us	ʿalaynā
+15	17:86:13	w	وَكِيلًا	ﳗ	وكيلا	any advocate	wakīlan
+15	17:86:14	e	٨٦	ﳘ			

@@ -1,0 +1,135 @@
+3	42:1:1	w	حمٓ	ﱁ	حم	Ha Meem	hha-meem
+3	42:1:2	e	١	ﱂ			
+3	42:2:1	w	عٓسٓقٓ	ﱃ	عسق	Ayn Seen Qaaf	ain-seen-qaf
+3	42:2:2	e	٢	ﱄ			
+3	42:3:1	w	كَذَٰلِكَ	ﱅ	كذالك	Thus	kadhālika
+3	42:3:2	w	يُوحِيٓ	ﱆ	يوحي	reveals	yūḥī
+3	42:3:3	w	إِلَيۡكَ	ﱇ	اليك	to you	ilayka
+3	42:3:4	w	وَإِلَى	ﱈ	والى	and to	wa-ilā
+3	42:3:5	w	ٱلَّذِينَ	ﱉ	الذين	those	alladhīna
+3	42:3:6	w	مِن	ﱊ	من	before you	min
+3	42:3:7	w	قَبۡلِكَ	ﱋ	قبلك	before you	qablika
+4	42:3:8	w	ٱللَّهُ	ﱌ	الله	Allah	l-lahu
+4	42:3:9	w	ٱلۡعَزِيزُ	ﱍ	العزيز	the All-Mighty	l-ʿazīzu
+4	42:3:10	w	ٱلۡحَكِيمُ	ﱎ	الحكيم	the All-Wise	l-ḥakīmu
+4	42:3:11	e	٣	ﱏ			
+4	42:4:1	w	لَهُۥ	ﱐ	له	To Him	lahu
+4	42:4:2	w	مَا	ﱑ	ما	(belong) whatever	mā
+4	42:4:3	w	فِي	ﱒ	في	(is) in	fī
+4	42:4:4	w	ٱلسَّمَٰوَٰتِ	ﱓ	السماوات	the heavens	l-samāwāti
+4	42:4:5	w	وَمَا	ﱔ	وما	and whatever	wamā
+4	42:4:6	w	فِي	ﱕ	في	(is) in	fī
+4	42:4:7	w	ٱلۡأَرۡضِۖ	ﱖﱗ	الارض	the earth	l-arḍi
+5	42:4:8	w	وَهُوَ	ﱘ	وهو	and He	wahuwa
+5	42:4:9	w	ٱلۡعَلِيُّ	ﱙ	العلي	(is) the Most High	l-ʿaliyu
+5	42:4:10	w	ٱلۡعَظِيمُ	ﱚ	العظيم	the Most Great	l-ʿaẓīmu
+5	42:4:11	e	٤	ﱛ			
+5	42:5:1	w	تَكَادُ	ﱜ	تكاد	Almost	takādu
+5	42:5:2	w	ٱلسَّمَٰوَٰتُ	ﱝ	السماوات	the heavens	l-samāwātu
+5	42:5:3	w	يَتَفَطَّرۡنَ	ﱞ	يتفطرن	break up	yatafaṭṭarna
+5	42:5:4	w	مِن	ﱟ	من	from	min
+5	42:5:5	w	فَوۡقِهِنَّۚ	ﱠﱡ	فوقهن	above them	fawqihinna
+6	42:5:6	w	وَٱلۡمَلَٰٓئِكَةُ	ﱢ	والملايكة	and the Angels	wal-malāikatu
+6	42:5:7	w	يُسَبِّحُونَ	ﱣ	يسبحون	glorify	yusabbiḥūna
+6	42:5:8	w	بِحَمۡدِ	ﱤ	بحمد	(the) praise	biḥamdi
+6	42:5:9	w	رَبِّهِمۡ	ﱥ	ربهم	(of) their Lord	rabbihim
+6	42:5:10	w	وَيَسۡتَغۡفِرُونَ	ﱦ	ويستغفرون	and ask for forgiveness	wayastaghfirūna
+6	42:5:11	w	لِمَن	ﱧ	لمن	for those	liman
+6	42:5:12	w	فِي	ﱨ	في	on	fī
+7	42:5:13	w	ٱلۡأَرۡضِۗ	ﱩﱪ	الارض	the earth	l-arḍi
+7	42:5:14	w	أَلَآ	ﱫ	الا	Unquestionably	alā
+7	42:5:15	w	إِنَّ	ﱬ	ان	indeed	inna
+7	42:5:16	w	ٱللَّهَ	ﱭ	الله	Allah	l-laha
+7	42:5:17	w	هُوَ	ﱮ	هو	He	huwa
+7	42:5:18	w	ٱلۡغَفُورُ	ﱯ	الغفور	(is) the Oft-Forgiving	l-ghafūru
+7	42:5:19	w	ٱلرَّحِيمُ	ﱰ	الرحيم	the Most Merciful	l-raḥīmu
+7	42:5:20	e	٥	ﱱ			
+7	42:6:1	w	وَٱلَّذِينَ	ﱲ	والذين	And those who	wa-alladhīna
+7	42:6:2	w	ٱتَّخَذُواْ	ﱳ	اتخذوا	take	ittakhadhū
+8	42:6:3	w	مِن	ﱴ	من	besides	min
+8	42:6:4	w	دُونِهِۦٓ	ﱵ	دونه	besides	dūnihi
+8	42:6:5	w	أَوۡلِيَآءَ	ﱶ	اولياء	protectors	awliyāa
+8	42:6:6	w	ٱللَّهُ	ﱷ	الله	Allah	l-lahu
+8	42:6:7	w	حَفِيظٌ	ﱸ	حفيظ	(is) a Guardian	ḥafīẓun
+8	42:6:8	w	عَلَيۡهِمۡ	ﱹ	عليهم	over them	ʿalayhim
+8	42:6:9	w	وَمَآ	ﱺ	وما	and not	wamā
+8	42:6:10	w	أَنتَ	ﱻ	انت	you	anta
+8	42:6:11	w	عَلَيۡهِم	ﱼ	عليهم	(are) over them	ʿalayhim
+8	42:6:12	w	بِوَكِيلٖ	ﱽ	بوكيل	a manager	biwakīlin
+9	42:6:13	e	٦	ﱾ			
+9	42:7:1	w	وَكَذَٰلِكَ	ﱿ	وكذالك	And thus	wakadhālika
+9	42:7:2	w	أَوۡحَيۡنَآ	ﲀ	اوحينا	We have revealed	awḥaynā
+9	42:7:3	w	إِلَيۡكَ	ﲁ	اليك	to you	ilayka
+9	42:7:4	w	قُرۡءَانًا	ﲂ	قرانا	a Quran	qur'ānan
+9	42:7:5	w	عَرَبِيّٗا	ﲃ	عربيا	(in) Arabic	ʿarabiyyan
+9	42:7:6	w	لِّتُنذِرَ	ﲄ	لتنذر	that you may warn	litundhira
+9	42:7:7	w	أُمَّ	ﲅ	ام	(the) mother	umma
+9	42:7:8	w	ٱلۡقُرَىٰ	ﲆ	القرى	(of) the towns	l-qurā
+9	42:7:9	w	وَمَنۡ	ﲇ	ومن	and whoever	waman
+10	42:7:10	w	حَوۡلَهَا	ﲈ	حولها	(is) around it	ḥawlahā
+10	42:7:11	w	وَتُنذِرَ	ﲉ	وتنذر	and warn	watundhira
+10	42:7:12	w	يَوۡمَ	ﲊ	يوم	(of the) Day	yawma
+10	42:7:13	w	ٱلۡجَمۡعِ	ﲋ	الجمع	(of) Assembly	l-jamʿi
+10	42:7:14	w	لَا	ﲌ	لا	(there is) no	lā
+10	42:7:15	w	رَيۡبَ	ﲍ	ريب	doubt	rayba
+10	42:7:16	w	فِيهِۚ	ﲎﲏ	فيه	in it	fīhi
+10	42:7:17	w	فَرِيقٞ	ﲐ	فريق	A party	farīqun
+10	42:7:18	w	فِي	ﲑ	في	(will be) in	fī
+10	42:7:19	w	ٱلۡجَنَّةِ	ﲒ	الجنة	Paradise	l-janati
+10	42:7:20	w	وَفَرِيقٞ	ﲓ	وفريق	and a party	wafarīqun
+10	42:7:21	w	فِي	ﲔ	في	in	fī
+11	42:7:22	w	ٱلسَّعِيرِ	ﲕ	السعير	the Blazing Fire	l-saʿīri
+11	42:7:23	e	٧	ﲖ			
+11	42:8:1	w	وَلَوۡ	ﲗ	ولو	And if	walaw
+11	42:8:2	w	شَآءَ	ﲘ	شاء	Allah willed	shāa
+11	42:8:3	w	ٱللَّهُ	ﲙ	الله	Allah willed	l-lahu
+11	42:8:4	w	لَجَعَلَهُمۡ	ﲚ	لجعلهم	He could have made them	lajaʿalahum
+11	42:8:5	w	أُمَّةٗ	ﲛ	امة	a community	ummatan
+11	42:8:6	w	وَٰحِدَةٗ	ﲜ	واحدة	one	wāḥidatan
+11	42:8:7	w	وَلَٰكِن	ﲝ	ولاكن	but	walākin
+11	42:8:8	w	يُدۡخِلُ	ﲞ	يدخل	He admits	yud'khilu
+11	42:8:9	w	مَن	ﲟ	من	whom	man
+12	42:8:10	w	يَشَآءُ	ﲠ	يشاء	He wills	yashāu
+12	42:8:11	w	فِي	ﲡ	في	in (to)	fī
+12	42:8:12	w	رَحۡمَتِهِۦۚ	ﲢﲣ	رحمته	His Mercy	raḥmatihi
+12	42:8:13	w	وَٱلظَّٰلِمُونَ	ﲤ	والظالمون	And the wrongdoers	wal-ẓālimūna
+12	42:8:14	w	مَا	ﲥ	ما	not	mā
+12	42:8:15	w	لَهُم	ﲦ	لهم	for them	lahum
+12	42:8:16	w	مِّن	ﲧ	من	any	min
+12	42:8:17	w	وَلِيّٖ	ﲨ	ولي	protector	waliyyin
+12	42:8:18	w	وَلَا	ﲩ	ولا	and not	walā
+12	42:8:19	w	نَصِيرٍ	ﲪ	نصير	any helper	naṣīrin
+12	42:8:20	e	٨	ﲫ			
+12	42:9:1	w	أَمِ	ﲬ	ام	Or	ami
+13	42:9:2	w	ٱتَّخَذُواْ	ﲭ	اتخذوا	have they taken	ittakhadhū
+13	42:9:3	w	مِن	ﲮ	من	besides Him	min
+13	42:9:4	w	دُونِهِۦٓ	ﲯ	دونه	besides Him	dūnihi
+13	42:9:5	w	أَوۡلِيَآءَۖ	ﲰﲱ	اولياء	protectors	awliyāa
+13	42:9:6	w	فَٱللَّهُ	ﲲ	فالله	But Allah	fal-lahu
+13	42:9:7	w	هُوَ	ﲳ	هو	He	huwa
+13	42:9:8	w	ٱلۡوَلِيُّ	ﲴ	الولي	(is) the Protector	l-waliyu
+13	42:9:9	w	وَهُوَ	ﲵ	وهو	and He	wahuwa
+13	42:9:10	w	يُحۡيِ	ﲶ	يحيي	gives life	yuḥ'yī
+13	42:9:11	w	ٱلۡمَوۡتَىٰ	ﲷ	الموتى	(to) the dead	l-mawtā
+13	42:9:12	w	وَهُوَ	ﲸ	وهو	And He	wahuwa
+14	42:9:13	w	عَلَىٰ	ﲹ	على	(is) on	ʿalā
+14	42:9:14	w	كُلِّ	ﲺ	كل	every	kulli
+14	42:9:15	w	شَيۡءٖ	ﲻ	شيء	thing	shayin
+14	42:9:16	w	قَدِيرٞ	ﲼ	قدير	All-Powerful	qadīrun
+14	42:9:17	e	٩	ﲽ			
+14	42:10:1	w	وَمَا	ﲾ	وما	And whatever	wamā
+14	42:10:2	w	ٱخۡتَلَفۡتُمۡ	ﲿ	اختلفتم	you differ	ikh'talaftum
+14	42:10:3	w	فِيهِ	ﳀ	فيه	in it	fīhi
+14	42:10:4	w	مِن	ﳁ	من	of	min
+14	42:10:5	w	شَيۡءٖ	ﳂ	شيء	a thing	shayin
+14	42:10:6	w	فَحُكۡمُهُۥٓ	ﳃ	فحكمه	then its ruling	faḥuk'muhu
+15	42:10:7	w	إِلَى	ﳄ	الى	(is) to	ilā
+15	42:10:8	w	ٱللَّهِۚ	ﳅﳆ	الله	Allah	l-lahi
+15	42:10:9	w	ذَٰلِكُمُ	ﳇ	ذالكم	That	dhālikumu
+15	42:10:10	w	ٱللَّهُ	ﳈ	الله	(is) Allah	l-lahu
+15	42:10:11	w	رَبِّي	ﳉ	ربي	my Lord	rabbī
+15	42:10:12	w	عَلَيۡهِ	ﳊ	عليه	upon Him	ʿalayhi
+15	42:10:13	w	تَوَكَّلۡتُ	ﳋ	توكلت	I put my trust	tawakkaltu
+15	42:10:14	w	وَإِلَيۡهِ	ﳌ	واليه	and to Him	wa-ilayhi
+15	42:10:15	w	أُنِيبُ	ﳍ	انيب	I turn	unību
+15	42:10:16	e	١٠	ﳎ			

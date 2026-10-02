@@ -1,0 +1,156 @@
+1	5:51:1	w	۞ يَٰٓأَيُّهَا	ﱁ ﱂ	۞ يا ايها	O you	yāayyuhā
+1	5:51:2	w	ٱلَّذِينَ	ﱃ	الذين	who	alladhīna
+1	5:51:3	w	ءَامَنُواْ	ﱄ	امنوا	believe	āmanū
+1	5:51:4	w	لَا	ﱅ	لا	(Do) not	lā
+1	5:51:5	w	تَتَّخِذُواْ	ﱆ	تتخذوا	take	tattakhidhū
+1	5:51:6	w	ٱلۡيَهُودَ	ﱇ	اليهود	the Jews	l-yahūda
+1	5:51:7	w	وَٱلنَّصَٰرَىٰٓ	ﱈ	والنصارى	and the Christians	wal-naṣārā
+1	5:51:8	w	أَوۡلِيَآءَۘ	ﱉﱊ	اولياء	(as) allies	awliyāa
+1	5:51:9	w	بَعۡضُهُمۡ	ﱋ	بعضهم	Some of them	baʿḍuhum
+2	5:51:10	w	أَوۡلِيَآءُ	ﱌ	اولياء	(are) allies	awliyāu
+2	5:51:11	w	بَعۡضٖۚ	ﱍﱎ	بعض	(to) others	baʿḍin
+2	5:51:12	w	وَمَن	ﱏ	ومن	And whoever	waman
+2	5:51:13	w	يَتَوَلَّهُم	ﱐ	يتولهم	takes them as allies	yatawallahum
+2	5:51:14	w	مِّنكُمۡ	ﱑ	منكم	among you	minkum
+2	5:51:15	w	فَإِنَّهُۥ	ﱒ	فانه	then indeed, he	fa-innahu
+2	5:51:16	w	مِنۡهُمۡۗ	ﱓﱔ	منهم	(is) of them	min'hum
+2	5:51:17	w	إِنَّ	ﱕ	ان	Indeed	inna
+2	5:51:18	w	ٱللَّهَ	ﱖ	الله	Allah	l-laha
+2	5:51:19	w	لَا	ﱗ	لا	(does) not	lā
+2	5:51:20	w	يَهۡدِي	ﱘ	يهدي	guide	yahdī
+2	5:51:21	w	ٱلۡقَوۡمَ	ﱙ	القوم	the people	l-qawma
+3	5:51:22	w	ٱلظَّٰلِمِينَ	ﱚ	الظالمين	the wrongdoing	l-ẓālimīna
+3	5:51:23	e	٥١	ﱛ			
+3	5:52:1	w	فَتَرَى	ﱜ	فترى	And you see	fatarā
+3	5:52:2	w	ٱلَّذِينَ	ﱝ	الذين	those	alladhīna
+3	5:52:3	w	فِي	ﱞ	في	in	fī
+3	5:52:4	w	قُلُوبِهِم	ﱟ	قلوبهم	their hearts	qulūbihim
+3	5:52:5	w	مَّرَضٞ	ﱠ	مرض	(is) a disease	maraḍun
+3	5:52:6	w	يُسَٰرِعُونَ	ﱡ	يسارعون	they hasten	yusāriʿūna
+3	5:52:7	w	فِيهِمۡ	ﱢ	فيهم	to them	fīhim
+3	5:52:8	w	يَقُولُونَ	ﱣ	يقولون	saying	yaqūlūna
+4	5:52:9	w	نَخۡشَىٰٓ	ﱤ	نخشى	We fear	nakhshā
+4	5:52:10	w	أَن	ﱥ	ان	that	an
+4	5:52:11	w	تُصِيبَنَا	ﱦ	تصيبنا	(may) strike us	tuṣībanā
+4	5:52:12	w	دَآئِرَةٞۚ	ﱧﱨ	دايرة	a misfortune	dāiratun
+4	5:52:13	w	فَعَسَى	ﱩ	فعسى	But perhaps	faʿasā
+4	5:52:14	w	ٱللَّهُ	ﱪ	الله	Allah	l-lahu
+4	5:52:15	w	أَن	ﱫ	ان	[that]	an
+4	5:52:16	w	يَأۡتِيَ	ﱬ	ياتي	will bring	yatiya
+4	5:52:17	w	بِٱلۡفَتۡحِ	ﱭ	بالفتح	the victory	bil-fatḥi
+4	5:52:18	w	أَوۡ	ﱮ	او	or	aw
+4	5:52:19	w	أَمۡرٖ	ﱯ	امر	a decision	amrin
+4	5:52:20	w	مِّنۡ	ﱰ	من	from	min
+4	5:52:21	w	عِندِهِۦ	ﱱ	عنده	(of) Him	ʿindihi
+5	5:52:22	w	فَيُصۡبِحُواْ	ﱲ	فيصبحوا	Then they will become	fayuṣ'biḥū
+5	5:52:23	w	عَلَىٰ	ﱳ	على	for	ʿalā
+5	5:52:24	w	مَآ	ﱴ	ما	what	mā
+5	5:52:25	w	أَسَرُّواْ	ﱵ	اسروا	they had concealed	asarrū
+5	5:52:26	w	فِيٓ	ﱶ	في	within	fī
+5	5:52:27	w	أَنفُسِهِمۡ	ﱷ	انفسهم	themselves	anfusihim
+5	5:52:28	w	نَٰدِمِينَ	ﱸ	نادمين	regretful	nādimīna
+5	5:52:29	e	٥٢	ﱹ			
+5	5:53:1	w	وَيَقُولُ	ﱺ	ويقول	And will say	wayaqūlu
+5	5:53:2	w	ٱلَّذِينَ	ﱻ	الذين	those who	alladhīna
+5	5:53:3	w	ءَامَنُوٓاْ	ﱼ	امنوا	believe	āmanū
+6	5:53:4	w	أَهَٰٓؤُلَآءِ	ﱽ	اهاولاء	Are these	ahāulāi
+6	5:53:5	w	ٱلَّذِينَ	ﱾ	الذين	those who	alladhīna
+6	5:53:6	w	أَقۡسَمُواْ	ﱿ	اقسموا	swore	aqsamū
+6	5:53:7	w	بِٱللَّهِ	ﲀ	بالله	by Allah	bil-lahi
+6	5:53:8	w	جَهۡدَ	ﲁ	جهد	strongest	jahda
+6	5:53:9	w	أَيۡمَٰنِهِمۡ	ﲂ	ايمانهم	(of) their oaths	aymānihim
+6	5:53:10	w	إِنَّهُمۡ	ﲃ	انهم	indeed, they	innahum
+6	5:53:11	w	لَمَعَكُمۡۚ	ﲄﲅ	لمعكم	(were) with you	lamaʿakum
+6	5:53:12	w	حَبِطَتۡ	ﲆ	حبطت	Became worthless	ḥabiṭat
+7	5:53:13	w	أَعۡمَٰلُهُمۡ	ﲇ	اعمالهم	their deeds	aʿmāluhum
+7	5:53:14	w	فَأَصۡبَحُواْ	ﲈ	فاصبحوا	and they became	fa-aṣbaḥū
+7	5:53:15	w	خَٰسِرِينَ	ﲉ	خاسرين	(the) losers	khāsirīna
+7	5:53:16	e	٥٣	ﲊ			
+7	5:54:1	w	يَٰٓأَيُّهَا	ﲋ	يا ايها	O you	yāayyuhā
+7	5:54:2	w	ٱلَّذِينَ	ﲌ	الذين	who	alladhīna
+7	5:54:3	w	ءَامَنُواْ	ﲍ	امنوا	believe	āmanū
+7	5:54:4	w	مَن	ﲎ	من	Whoever	man
+7	5:54:5	w	يَرۡتَدَّ	ﲏ	يرتد	turns back	yartadda
+8	5:54:6	w	مِنكُمۡ	ﲐ	منكم	among you	minkum
+8	5:54:7	w	عَن	ﲑ	عن	from	ʿan
+8	5:54:8	w	دِينِهِۦ	ﲒ	دينه	his religion	dīnihi
+8	5:54:9	w	فَسَوۡفَ	ﲓ	فسوف	then soon	fasawfa
+8	5:54:10	w	يَأۡتِي	ﲔ	ياتي	(will be) brought	yatī
+8	5:54:11	w	ٱللَّهُ	ﲕ	الله	(by) Allah	l-lahu
+8	5:54:12	w	بِقَوۡمٖ	ﲖ	بقوم	a people	biqawmin
+8	5:54:13	w	يُحِبُّهُمۡ	ﲗ	يحبهم	whom He loves	yuḥibbuhum
+8	5:54:14	w	وَيُحِبُّونَهُۥٓ	ﲘ	ويحبونه	and they love Him	wayuḥibbūnahu
+8	5:54:15	w	أَذِلَّةٍ	ﲙ	اذلة	humble	adhillatin
+9	5:54:16	w	عَلَى	ﲚ	على	towards	ʿalā
+9	5:54:17	w	ٱلۡمُؤۡمِنِينَ	ﲛ	المومنين	the believers	l-mu'minīna
+9	5:54:18	w	أَعِزَّةٍ	ﲜ	اعزة	(and) stern	aʿizzatin
+9	5:54:19	w	عَلَى	ﲝ	على	towards	ʿalā
+9	5:54:20	w	ٱلۡكَٰفِرِينَ	ﲞ	الكافرين	the disbelievers	l-kāfirīna
+9	5:54:21	w	يُجَٰهِدُونَ	ﲟ	يجاهدون	striving	yujāhidūna
+9	5:54:22	w	فِي	ﲠ	في	in	fī
+9	5:54:23	w	سَبِيلِ	ﲡ	سبيل	(the) way	sabīli
+9	5:54:24	w	ٱللَّهِ	ﲢ	الله	(of) Allah	l-lahi
+9	5:54:25	w	وَلَا	ﲣ	ولا	and not	walā
+10	5:54:26	w	يَخَافُونَ	ﲤ	يخافون	fearing	yakhāfūna
+10	5:54:27	w	لَوۡمَةَ	ﲥ	لومة	the blame	lawmata
+10	5:54:28	w	لَآئِمٖۚ	ﲦﲧ	لايم	(of) a critic	lāimin
+10	5:54:29	w	ذَٰلِكَ	ﲨ	ذالك	That	dhālika
+10	5:54:30	w	فَضۡلُ	ﲩ	فضل	(is the) Grace	faḍlu
+10	5:54:31	w	ٱللَّهِ	ﲪ	الله	(of) Allah	l-lahi
+10	5:54:32	w	يُؤۡتِيهِ	ﲫ	يوتيه	He grants	yu'tīhi
+10	5:54:33	w	مَن	ﲬ	من	whom	man
+10	5:54:34	w	يَشَآءُۚ	ﲭﲮ	يشاء	He wills	yashāu
+10	5:54:35	w	وَٱللَّهُ	ﲯ	والله	And Allah	wal-lahu
+10	5:54:36	w	وَٰسِعٌ	ﲰ	واسع	(is) All-Encompassing	wāsiʿun
+11	5:54:37	w	عَلِيمٌ	ﲱ	عليم	All-Knowing	ʿalīmun
+11	5:54:38	e	٥٤	ﲲ			
+11	5:55:1	w	إِنَّمَا	ﲳ	انما	Only	innamā
+11	5:55:2	w	وَلِيُّكُمُ	ﲴ	وليكم	your ally	waliyyukumu
+11	5:55:3	w	ٱللَّهُ	ﲵ	الله	(is) Allah	l-lahu
+11	5:55:4	w	وَرَسُولُهُۥ	ﲶ	ورسوله	and His Messenger	warasūluhu
+11	5:55:5	w	وَٱلَّذِينَ	ﲷ	والذين	and those who	wa-alladhīna
+11	5:55:6	w	ءَامَنُواْ	ﲸ	امنوا	believe	āmanū
+11	5:55:7	w	ٱلَّذِينَ	ﲹ	الذين	and those who	alladhīna
+11	5:55:8	w	يُقِيمُونَ	ﲺ	يقيمون	establish	yuqīmūna
+12	5:55:9	w	ٱلصَّلَوٰةَ	ﲻ	الصلاة	the prayer	l-ṣalata
+12	5:55:10	w	وَيُؤۡتُونَ	ﲼ	ويوتون	and give	wayu'tūna
+12	5:55:11	w	ٱلزَّكَوٰةَ	ﲽ	الزكاة	zakah	l-zakata
+12	5:55:12	w	وَهُمۡ	ﲾ	وهم	and they	wahum
+12	5:55:13	w	رَٰكِعُونَ	ﲿ	راكعون	(are) those who bow down	rākiʿūna
+12	5:55:14	e	٥٥	ﳀ			
+12	5:56:1	w	وَمَن	ﳁ	ومن	And whoever	waman
+12	5:56:2	w	يَتَوَلَّ	ﳂ	يتول	takes as an ally	yatawalla
+12	5:56:3	w	ٱللَّهَ	ﳃ	الله	Allah	l-laha
+12	5:56:4	w	وَرَسُولَهُۥ	ﳄ	ورسوله	and His Messenger	warasūlahu
+13	5:56:5	w	وَٱلَّذِينَ	ﳅ	والذين	and those who	wa-alladhīna
+13	5:56:6	w	ءَامَنُواْ	ﳆ	امنوا	believe	āmanū
+13	5:56:7	w	فَإِنَّ	ﳇ	فان	then indeed	fa-inna
+13	5:56:8	w	حِزۡبَ	ﳈ	حزب	(the) party	ḥiz'ba
+13	5:56:9	w	ٱللَّهِ	ﳉ	الله	(of) Allah	l-lahi
+13	5:56:10	w	هُمُ	ﳊ	هم	they	humu
+13	5:56:11	w	ٱلۡغَٰلِبُونَ	ﳋ	الغالبون	(are) the victorious	l-ghālibūna
+13	5:56:12	e	٥٦	ﳌ			
+13	5:57:1	w	يَٰٓأَيُّهَا	ﳍ	يا ايها	O you	yāayyuhā
+13	5:57:2	w	ٱلَّذِينَ	ﳎ	الذين	who	alladhīna
+13	5:57:3	w	ءَامَنُواْ	ﳏ	امنوا	believe	āmanū
+14	5:57:4	w	لَا	ﳐ	لا	(Do) not	lā
+14	5:57:5	w	تَتَّخِذُواْ	ﳑ	تتخذوا	take	tattakhidhū
+14	5:57:6	w	ٱلَّذِينَ	ﳒ	الذين	those who	alladhīna
+14	5:57:7	w	ٱتَّخَذُواْ	ﳓ	اتخذوا	take	ittakhadhū
+14	5:57:8	w	دِينَكُمۡ	ﳔ	دينكم	your religion	dīnakum
+14	5:57:9	w	هُزُوٗا	ﳕ	هزوا	(in) ridicule	huzuwan
+14	5:57:10	w	وَلَعِبٗا	ﳖ	ولعبا	and fun	walaʿiban
+14	5:57:11	w	مِّنَ	ﳗ	من	from	mina
+14	5:57:12	w	ٱلَّذِينَ	ﳘ	الذين	those who	alladhīna
+14	5:57:13	w	أُوتُواْ	ﳙ	اوتوا	are given	ūtū
+15	5:57:14	w	ٱلۡكِتَٰبَ	ﳚ	الكتاب	the Book	l-kitāba
+15	5:57:15	w	مِن	ﳛ	من	from	min
+15	5:57:16	w	قَبۡلِكُمۡ	ﳜ	قبلكم	before you	qablikum
+15	5:57:17	w	وَٱلۡكُفَّارَ	ﳝ	والكفار	and the disbelievers	wal-kufāra
+15	5:57:18	w	أَوۡلِيَآءَۚ	ﳞﳟ	اولياء	(as) allies	awliyāa
+15	5:57:19	w	وَٱتَّقُواْ	ﳠ	واتقوا	And fear	wa-ittaqū
+15	5:57:20	w	ٱللَّهَ	ﳡ	الله	Allah	l-laha
+15	5:57:21	w	إِن	ﳢ	ان	if	in
+15	5:57:22	w	كُنتُم	ﳣ	كنتم	you are	kuntum
+15	5:57:23	w	مُّؤۡمِنِينَ	ﳤ	مومنين	believers	mu'minīna
+15	5:57:24	e	٥٧	ﳥ			

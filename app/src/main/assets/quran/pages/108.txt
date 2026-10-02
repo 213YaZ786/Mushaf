@@ -1,0 +1,120 @@
+1	5:6:1	w	يَٰٓأَيُّهَا	ﱁ	يا ايها	O you	yāayyuhā
+1	5:6:2	w	ٱلَّذِينَ	ﱂ	الذين	who	alladhīna
+1	5:6:3	w	ءَامَنُوٓاْ	ﱃ	امنوا	believe	āmanū
+1	5:6:4	w	إِذَا	ﱄ	اذا	When	idhā
+1	5:6:5	w	قُمۡتُمۡ	ﱅ	قمتم	you stand up	qum'tum
+1	5:6:6	w	إِلَى	ﱆ	الى	for	ilā
+1	5:6:7	w	ٱلصَّلَوٰةِ	ﱇ	الصلاة	the prayer	l-ṣalati
+1	5:6:8	w	فَٱغۡسِلُواْ	ﱈ	فاغسلوا	then wash	fa-igh'silū
+2	5:6:9	w	وُجُوهَكُمۡ	ﱉ	وجوهكم	your faces	wujūhakum
+2	5:6:10	w	وَأَيۡدِيَكُمۡ	ﱊ	وايديكم	and your hands	wa-aydiyakum
+2	5:6:11	w	إِلَى	ﱋ	الى	till	ilā
+2	5:6:12	w	ٱلۡمَرَافِقِ	ﱌ	المرافق	the elbows	l-marāfiqi
+2	5:6:13	w	وَٱمۡسَحُواْ	ﱍ	وامسحوا	and wipe	wa-im'saḥū
+2	5:6:14	w	بِرُءُوسِكُمۡ	ﱎ	برءوسكم	your heads	biruūsikum
+3	5:6:15	w	وَأَرۡجُلَكُمۡ	ﱏ	وارجلكم	and your feet	wa-arjulakum
+3	5:6:16	w	إِلَى	ﱐ	الى	till	ilā
+3	5:6:17	w	ٱلۡكَعۡبَيۡنِۚ	ﱑﱒ	الكعبين	the ankles	l-kaʿbayni
+3	5:6:18	w	وَإِن	ﱓ	وان	But if	wa-in
+3	5:6:19	w	كُنتُمۡ	ﱔ	كنتم	you are	kuntum
+3	5:6:20	w	جُنُبٗا	ﱕ	جنبا	(in) a state of ceremonial impurity	junuban
+3	5:6:21	w	فَٱطَّهَّرُواْۚ	ﱖﱗ	فاطهروا	then purify yourselves	fa-iṭṭahharū
+4	5:6:22	w	وَإِن	ﱘ	وان	But if	wa-in
+4	5:6:23	w	كُنتُم	ﱙ	كنتم	you are	kuntum
+4	5:6:24	w	مَّرۡضَىٰٓ	ﱚ	مرضى	ill	marḍā
+4	5:6:25	w	أَوۡ	ﱛ	او	or	aw
+4	5:6:26	w	عَلَىٰ	ﱜ	على	on	ʿalā
+4	5:6:27	w	سَفَرٍ	ﱝ	سفر	a journey	safarin
+4	5:6:28	w	أَوۡ	ﱞ	او	or	aw
+4	5:6:29	w	جَآءَ	ﱟ	جاء	has come	jāa
+4	5:6:30	w	أَحَدٞ	ﱠ	احد	anyone	aḥadun
+4	5:6:31	w	مِّنكُم	ﱡ	منكم	of you	minkum
+4	5:6:32	w	مِّنَ	ﱢ	من	from	mina
+5	5:6:33	w	ٱلۡغَآئِطِ	ﱣ	الغايط	the toilet	l-ghāiṭi
+5	5:6:34	w	أَوۡ	ﱤ	او	or	aw
+5	5:6:35	w	لَٰمَسۡتُمُ	ﱥ	لامستم	has (had) contact	lāmastumu
+5	5:6:36	w	ٱلنِّسَآءَ	ﱦ	النساء	(with) the women	l-nisāa
+5	5:6:37	w	فَلَمۡ	ﱧ	فلم	and not	falam
+5	5:6:38	w	تَجِدُواْ	ﱨ	تجدوا	you find	tajidū
+5	5:6:39	w	مَآءٗ	ﱩ	ماء	water	māan
+5	5:6:40	w	فَتَيَمَّمُواْ	ﱪ	فتيمموا	then do tayyammum	fatayammamū
+5	5:6:41	w	صَعِيدٗا	ﱫ	صعيدا	(with) earth	ṣaʿīdan
+6	5:6:42	w	طَيِّبٗا	ﱬ	طيبا	clean	ṭayyiban
+6	5:6:43	w	فَٱمۡسَحُواْ	ﱭ	فامسحوا	then wipe	fa-im'saḥū
+6	5:6:44	w	بِوُجُوهِكُمۡ	ﱮ	بوجوهكم	your faces	biwujūhikum
+6	5:6:45	w	وَأَيۡدِيكُم	ﱯ	وايديكم	and your hands	wa-aydīkum
+6	5:6:46	w	مِّنۡهُۚ	ﱰﱱ	منه	with it	min'hu
+6	5:6:47	w	مَا	ﱲ	ما	Does not	mā
+6	5:6:48	w	يُرِيدُ	ﱳ	يريد	intend	yurīdu
+6	5:6:49	w	ٱللَّهُ	ﱴ	الله	Allah	l-lahu
+7	5:6:50	w	لِيَجۡعَلَ	ﱵ	ليجعل	to make	liyajʿala
+7	5:6:51	w	عَلَيۡكُم	ﱶ	عليكم	for you	ʿalaykum
+7	5:6:52	w	مِّنۡ	ﱷ	من	any	min
+7	5:6:53	w	حَرَجٖ	ﱸ	حرج	difficulty	ḥarajin
+7	5:6:54	w	وَلَٰكِن	ﱹ	ولاكن	but	walākin
+7	5:6:55	w	يُرِيدُ	ﱺ	يريد	He intends	yurīdu
+7	5:6:56	w	لِيُطَهِّرَكُمۡ	ﱻ	ليطهركم	to purify you	liyuṭahhirakum
+8	5:6:57	w	وَلِيُتِمَّ	ﱼ	وليتم	and to complete	waliyutimma
+8	5:6:58	w	نِعۡمَتَهُۥ	ﱽ	نعمته	His Favor	niʿ'matahu
+8	5:6:59	w	عَلَيۡكُمۡ	ﱾ	عليكم	upon you	ʿalaykum
+8	5:6:60	w	لَعَلَّكُمۡ	ﱿ	لعلكم	so that you may	laʿallakum
+8	5:6:61	w	تَشۡكُرُونَ	ﲀ	تشكرون	(be) grateful	tashkurūna
+8	5:6:62	e	٦	ﲁ			
+9	5:7:1	w	وَٱذۡكُرُواْ	ﲂ	واذكروا	And remember	wa-udh'kurū
+9	5:7:2	w	نِعۡمَةَ	ﲃ	نعمة	(the) Favor	niʿ'mata
+9	5:7:3	w	ٱللَّهِ	ﲄ	الله	(of) Allah	l-lahi
+9	5:7:4	w	عَلَيۡكُمۡ	ﲅ	عليكم	upon you	ʿalaykum
+9	5:7:5	w	وَمِيثَٰقَهُ	ﲆ	وميثاقه	and His covenant	wamīthāqahu
+9	5:7:6	w	ٱلَّذِي	ﲇ	الذي	which	alladhī
+9	5:7:7	w	وَاثَقَكُم	ﲈ	واثقكم	He bound you	wāthaqakum
+10	5:7:8	w	بِهِۦٓ	ﲉ	به	with [it]	bihi
+10	5:7:9	w	إِذۡ	ﲊ	اذ	when	idh
+10	5:7:10	w	قُلۡتُمۡ	ﲋ	قلتم	you said	qul'tum
+10	5:7:11	w	سَمِعۡنَا	ﲌ	سمعنا	We heard	samiʿ'nā
+10	5:7:12	w	وَأَطَعۡنَاۖ	ﲍﲎ	واطعنا	and we obeyed	wa-aṭaʿnā
+10	5:7:13	w	وَٱتَّقُواْ	ﲏ	واتقوا	and fear	wa-ittaqū
+10	5:7:14	w	ٱللَّهَۚ	ﲐﲑ	الله	Allah	l-laha
+10	5:7:15	w	إِنَّ	ﲒ	ان	Indeed	inna
+10	5:7:16	w	ٱللَّهَ	ﲓ	الله	Allah	l-laha
+10	5:7:17	w	عَلِيمُۢ	ﲔ	عليم	(is) All-Knower	ʿalīmun
+11	5:7:18	w	بِذَاتِ	ﲕ	بذات	of what	bidhāti
+11	5:7:19	w	ٱلصُّدُورِ	ﲖ	الصدور	(is in) the breasts	l-ṣudūri
+11	5:7:20	e	٧	ﲗ			
+11	5:8:1	w	يَٰٓأَيُّهَا	ﲘ	يا ايها	O you	yāayyuhā
+11	5:8:2	w	ٱلَّذِينَ	ﲙ	الذين	who	alladhīna
+11	5:8:3	w	ءَامَنُواْ	ﲚ	امنوا	believe	āmanū
+11	5:8:4	w	كُونُواْ	ﲛ	كونوا	Be	kūnū
+11	5:8:5	w	قَوَّٰمِينَ	ﲜ	قوامين	steadfast	qawwāmīna
+12	5:8:6	w	لِلَّهِ	ﲝ	لله	for Allah	lillahi
+12	5:8:7	w	شُهَدَآءَ	ﲞ	شهداء	(as) witnesses	shuhadāa
+12	5:8:8	w	بِٱلۡقِسۡطِۖ	ﲟﲠ	بالقسط	in justice	bil-qis'ṭi
+12	5:8:9	w	وَلَا	ﲡ	ولا	and let not	walā
+12	5:8:10	w	يَجۡرِمَنَّكُمۡ	ﲢ	يجرمنكم	prevent you	yajrimannakum
+12	5:8:11	w	شَنَـَٔانُ	ﲣ	شنان	hatred	shanaānu
+12	5:8:12	w	قَوۡمٍ	ﲤ	قوم	(of) a people	qawmin
+12	5:8:13	w	عَلَىٰٓ	ﲥ	على	[upon]	ʿalā
+13	5:8:14	w	أَلَّا	ﲦ	الا	that not	allā
+13	5:8:15	w	تَعۡدِلُواْۚ	ﲧﲨ	تعدلوا	you do justice	taʿdilū
+13	5:8:16	w	ٱعۡدِلُواْ	ﲩ	اعدلوا	Be just	iʿ'dilū
+13	5:8:17	w	هُوَ	ﲪ	هو	it	huwa
+13	5:8:18	w	أَقۡرَبُ	ﲫ	اقرب	(is) nearer	aqrabu
+13	5:8:19	w	لِلتَّقۡوَىٰۖ	ﲬﲭ	للتقوى	to [the] piety	lilttaqwā
+13	5:8:20	w	وَٱتَّقُواْ	ﲮ	واتقوا	And fear	wa-ittaqū
+13	5:8:21	w	ٱللَّهَۚ	ﲯﲰ	الله	Allah	l-laha
+13	5:8:22	w	إِنَّ	ﲱ	ان	indeed	inna
+14	5:8:23	w	ٱللَّهَ	ﲲ	الله	Allah	l-laha
+14	5:8:24	w	خَبِيرُۢ	ﲳ	خبير	(is) All-Aware	khabīrun
+14	5:8:25	w	بِمَا	ﲴ	بما	of what	bimā
+14	5:8:26	w	تَعۡمَلُونَ	ﲵ	تعملون	you do	taʿmalūna
+14	5:8:27	e	٨	ﲶ			
+14	5:9:1	w	وَعَدَ	ﲷ	وعد	Has promised	waʿada
+14	5:9:2	w	ٱللَّهُ	ﲸ	الله	Allah	l-lahu
+14	5:9:3	w	ٱلَّذِينَ	ﲹ	الذين	those who	alladhīna
+14	5:9:4	w	ءَامَنُواْ	ﲺ	امنوا	believe	āmanū
+15	5:9:5	w	وَعَمِلُواْ	ﲻ	وعملوا	and do	waʿamilū
+15	5:9:6	w	ٱلصَّٰلِحَٰتِ	ﲼ	الصالحات	the righteous deeds	l-ṣāliḥāti
+15	5:9:7	w	لَهُم	ﲽ	لهم	for them	lahum
+15	5:9:8	w	مَّغۡفِرَةٞ	ﲾ	مغفرة	(is) forgiveness	maghfiratun
+15	5:9:9	w	وَأَجۡرٌ	ﲿ	واجر	and a reward	wa-ajrun
+15	5:9:10	w	عَظِيمٞ	ﳀ	عظيم	great	ʿaẓīmun
+15	5:9:11	e	٩	ﳁ			

@@ -1,0 +1,135 @@
+1	7:171:1	w	۞ وَإِذۡ	ﱁ ﱂ	۞ واذ	And when	wa-idh
+1	7:171:2	w	نَتَقۡنَا	ﱃ	نتقنا	We raised	nataqnā
+1	7:171:3	w	ٱلۡجَبَلَ	ﱄ	الجبل	the mountain	l-jabala
+1	7:171:4	w	فَوۡقَهُمۡ	ﱅ	فوقهم	above them	fawqahum
+1	7:171:5	w	كَأَنَّهُۥ	ﱆ	كانه	as if it was	ka-annahu
+1	7:171:6	w	ظُلَّةٞ	ﱇ	ظلة	a canopy	ẓullatun
+1	7:171:7	w	وَظَنُّوٓاْ	ﱈ	وظنوا	and they thought	waẓannū
+1	7:171:8	w	أَنَّهُۥ	ﱉ	انه	that it	annahu
+1	7:171:9	w	وَاقِعُۢ	ﱊ	واقع	(would) fall	wāqiʿun
+1	7:171:10	w	بِهِمۡ	ﱋ	بهم	upon them	bihim
+2	7:171:11	w	خُذُواْ	ﱌ	خذوا	(We said), "Take	khudhū
+2	7:171:12	w	مَآ	ﱍ	ما	what	mā
+2	7:171:13	w	ءَاتَيۡنَٰكُم	ﱎ	اتيناكم	We have given you	ātaynākum
+2	7:171:14	w	بِقُوَّةٖ	ﱏ	بقوة	with strength	biquwwatin
+2	7:171:15	w	وَٱذۡكُرُواْ	ﱐ	واذكروا	and remember	wa-udh'kurū
+2	7:171:16	w	مَا	ﱑ	ما	what	mā
+2	7:171:17	w	فِيهِ	ﱒ	فيه	(is) in it	fīhi
+2	7:171:18	w	لَعَلَّكُمۡ	ﱓ	لعلكم	so that you may	laʿallakum
+2	7:171:19	w	تَتَّقُونَ	ﱔ	تتقون	fear Allah	tattaqūna
+2	7:171:20	e	١٧١	ﱕ			
+3	7:172:1	w	وَإِذۡ	ﱖ	واذ	And when	wa-idh
+3	7:172:2	w	أَخَذَ	ﱗ	اخذ	(was) taken	akhadha
+3	7:172:3	w	رَبُّكَ	ﱘ	ربك	(by) your Lord	rabbuka
+3	7:172:4	w	مِنۢ	ﱙ	من	from	min
+3	7:172:5	w	بَنِيٓ	ﱚ	بني	(the) Children	banī
+3	7:172:6	w	ءَادَمَ	ﱛ	ادم	(of) Adam	ādama
+3	7:172:7	w	مِن	ﱜ	من	from	min
+3	7:172:8	w	ظُهُورِهِمۡ	ﱝ	ظهورهم	their loins	ẓuhūrihim
+3	7:172:9	w	ذُرِّيَّتَهُمۡ	ﱞ	ذريتهم	their descendants	dhurriyyatahum
+3	7:172:10	w	وَأَشۡهَدَهُمۡ	ﱟ	واشهدهم	and made them testify	wa-ashhadahum
+4	7:172:11	w	عَلَىٰٓ	ﱠ	على	over	ʿalā
+4	7:172:12	w	أَنفُسِهِمۡ	ﱡ	انفسهم	themselves	anfusihim
+4	7:172:13	w	أَلَسۡتُ	ﱢ	الست	Am I not	alastu
+4	7:172:14	w	بِرَبِّكُمۡۖ	ﱣﱤ	بربكم	your Lord	birabbikum
+4	7:172:15	w	قَالُواْ	ﱥ	قالوا	They said	qālū
+4	7:172:16	w	بَلَىٰ	ﱦ	بلى	Yes	balā
+4	7:172:17	w	شَهِدۡنَآۚ	ﱧﱨ	شهدنا	we have testified	shahid'nā
+4	7:172:18	w	أَن	ﱩ	ان	Lest	an
+4	7:172:19	w	تَقُولُواْ	ﱪ	تقولوا	you say	taqūlū
+4	7:172:20	w	يَوۡمَ	ﱫ	يوم	(on the) Day	yawma
+5	7:172:21	w	ٱلۡقِيَٰمَةِ	ﱬ	القيامة	(of) the Resurrection	l-qiyāmati
+5	7:172:22	w	إِنَّا	ﱭ	انا	Indeed	innā
+5	7:172:23	w	كُنَّا	ﱮ	كنا	we were	kunnā
+5	7:172:24	w	عَنۡ	ﱯ	عن	about	ʿan
+5	7:172:25	w	هَٰذَا	ﱰ	هاذا	this	hādhā
+5	7:172:26	w	غَٰفِلِينَ	ﱱ	غافلين	unaware	ghāfilīna
+5	7:172:27	e	١٧٢	ﱲ			
+5	7:173:1	w	أَوۡ	ﱳ	او	Or	aw
+5	7:173:2	w	تَقُولُوٓاْ	ﱴ	تقولوا	you say	taqūlū
+5	7:173:3	w	إِنَّمَآ	ﱵ	انما	Only	innamā
+5	7:173:4	w	أَشۡرَكَ	ﱶ	اشرك	partners (were) associated (with Allah)	ashraka
+6	7:173:5	w	ءَابَآؤُنَا	ﱷ	اباونا	(by) our forefathers	ābāunā
+6	7:173:6	w	مِن	ﱸ	من	from	min
+6	7:173:7	w	قَبۡلُ	ﱹ	قبل	before (us)	qablu
+6	7:173:8	w	وَكُنَّا	ﱺ	وكنا	and we are	wakunnā
+6	7:173:9	w	ذُرِّيَّةٗ	ﱻ	ذرية	descendants	dhurriyyatan
+6	7:173:10	w	مِّنۢ	ﱼ	من	from	min
+6	7:173:11	w	بَعۡدِهِمۡۖ	ﱽﱾ	بعدهم	after them	baʿdihim
+6	7:173:12	w	أَفَتُهۡلِكُنَا	ﱿ	افتهلكنا	So will You destroy us	afatuh'likunā
+7	7:173:13	w	بِمَا	ﲀ	بما	for what	bimā
+7	7:173:14	w	فَعَلَ	ﲁ	فعل	did	faʿala
+7	7:173:15	w	ٱلۡمُبۡطِلُونَ	ﲂ	المبطلون	the falsifiers	l-mub'ṭilūna
+7	7:173:16	e	١٧٣	ﲃ			
+7	7:174:1	w	وَكَذَٰلِكَ	ﲄ	وكذالك	And thus	wakadhālika
+7	7:174:2	w	نُفَصِّلُ	ﲅ	نفصل	We explain	nufaṣṣilu
+7	7:174:3	w	ٱلۡأٓيَٰتِ	ﲆ	الايات	the Verses	l-āyāti
+7	7:174:4	w	وَلَعَلَّهُمۡ	ﲇ	ولعلهم	so that they may	walaʿallahum
+8	7:174:5	w	يَرۡجِعُونَ	ﲈ	يرجعون	return	yarjiʿūna
+8	7:174:6	e	١٧٤	ﲉ			
+8	7:175:1	w	وَٱتۡلُ	ﲊ	واتل	And recite	wa-ut'lu
+8	7:175:2	w	عَلَيۡهِمۡ	ﲋ	عليهم	to them	ʿalayhim
+8	7:175:3	w	نَبَأَ	ﲌ	نبا	(the) story	naba-a
+8	7:175:4	w	ٱلَّذِيٓ	ﲍ	الذي	(of the) one whom	alladhī
+8	7:175:5	w	ءَاتَيۡنَٰهُ	ﲎ	اتيناه	We gave [him]	ātaynāhu
+8	7:175:6	w	ءَايَٰتِنَا	ﲏ	اياتنا	Our Verses	āyātinā
+8	7:175:7	w	فَٱنسَلَخَ	ﲐ	فانسلخ	but he detached	fa-insalakha
+9	7:175:8	w	مِنۡهَا	ﲑ	منها	[from] them	min'hā
+9	7:175:9	w	فَأَتۡبَعَهُ	ﲒ	فاتبعه	so followed him	fa-atbaʿahu
+9	7:175:10	w	ٱلشَّيۡطَٰنُ	ﲓ	الشيطان	the Shaitaan	l-shayṭānu
+9	7:175:11	w	فَكَانَ	ﲔ	فكان	and he became	fakāna
+9	7:175:12	w	مِنَ	ﲕ	من	of	mina
+9	7:175:13	w	ٱلۡغَاوِينَ	ﲖ	الغاوين	those gone astray	l-ghāwīna
+9	7:175:14	e	١٧٥	ﲗ			
+9	7:176:1	w	وَلَوۡ	ﲘ	ولو	And if	walaw
+9	7:176:2	w	شِئۡنَا	ﲙ	شينا	We willed	shi'nā
+10	7:176:3	w	لَرَفَعۡنَٰهُ	ﲚ	لرفعناه	surely, We (could) have raised him	larafaʿnāhu
+10	7:176:4	w	بِهَا	ﲛ	بها	with these	bihā
+10	7:176:5	w	وَلَٰكِنَّهُۥٓ	ﲜ	ولاكنه	[and] but he	walākinnahu
+10	7:176:6	w	أَخۡلَدَ	ﲝ	اخلد	adhered	akhlada
+10	7:176:7	w	إِلَى	ﲞ	الى	to	ilā
+10	7:176:8	w	ٱلۡأَرۡضِ	ﲟ	الارض	the earth	l-arḍi
+10	7:176:9	w	وَٱتَّبَعَ	ﲠ	واتبع	and followed	wa-ittabaʿa
+10	7:176:10	w	هَوَىٰهُۚ	ﲡﲢ	هواه	his (vain) desires	hawāhu
+10	7:176:11	w	فَمَثَلُهُۥ	ﲣ	فمثله	So his example	famathaluhu
+11	7:176:12	w	كَمَثَلِ	ﲤ	كمثل	(is) like (the) example	kamathali
+11	7:176:13	w	ٱلۡكَلۡبِ	ﲥ	الكلب	(of) the dog	l-kalbi
+11	7:176:14	w	إِن	ﲦ	ان	if	in
+11	7:176:15	w	تَحۡمِلۡ	ﲧ	تحمل	you attack	taḥmil
+11	7:176:16	w	عَلَيۡهِ	ﲨ	عليه	[on] him	ʿalayhi
+11	7:176:17	w	يَلۡهَثۡ	ﲩ	يلهث	he lolls out his tongue	yalhath
+11	7:176:18	w	أَوۡ	ﲪ	او	or	aw
+11	7:176:19	w	تَتۡرُكۡهُ	ﲫ	تتركه	if you leave him	tatruk'hu
+12	7:176:20	w	يَلۡهَثۚ	ﲬﲭ	يلهث	he lolls out his tongue	yalhath
+12	7:176:21	w	ذَّٰلِكَ	ﲮ	ذالك	That	dhālika
+12	7:176:22	w	مَثَلُ	ﲯ	مثل	(is the) example	mathalu
+12	7:176:23	w	ٱلۡقَوۡمِ	ﲰ	القوم	(of) the people	l-qawmi
+12	7:176:24	w	ٱلَّذِينَ	ﲱ	الذين	who	alladhīna
+12	7:176:25	w	كَذَّبُواْ	ﲲ	كذبوا	denied	kadhabū
+12	7:176:26	w	بِـَٔايَٰتِنَاۚ	ﲳﲴ	باياتنا	[in] Our Signs	biāyātinā
+12	7:176:27	w	فَٱقۡصُصِ	ﲵ	فاقصص	So relate	fa-uq'ṣuṣi
+13	7:176:28	w	ٱلۡقَصَصَ	ﲶ	القصص	the story	l-qaṣaṣa
+13	7:176:29	w	لَعَلَّهُمۡ	ﲷ	لعلهم	so that they may	laʿallahum
+13	7:176:30	w	يَتَفَكَّرُونَ	ﲸ	يتفكرون	reflect	yatafakkarūna
+13	7:176:31	e	١٧٦	ﲹ			
+13	7:177:1	w	سَآءَ	ﲺ	ساء	Evil	sāa
+13	7:177:2	w	مَثَلًا	ﲻ	مثلا	(as) an example	mathalan
+13	7:177:3	w	ٱلۡقَوۡمُ	ﲼ	القوم	(are) the people	l-qawmu
+13	7:177:4	w	ٱلَّذِينَ	ﲽ	الذين	those who	alladhīna
+14	7:177:5	w	كَذَّبُواْ	ﲾ	كذبوا	denied	kadhabū
+14	7:177:6	w	بِـَٔايَٰتِنَا	ﲿ	باياتنا	Our Signs	biāyātinā
+14	7:177:7	w	وَأَنفُسَهُمۡ	ﳀ	وانفسهم	and themselves	wa-anfusahum
+14	7:177:8	w	كَانُواْ	ﳁ	كانوا	they used to	kānū
+14	7:177:9	w	يَظۡلِمُونَ	ﳂ	يظلمون	wrong	yaẓlimūna
+14	7:177:10	e	١٧٧	ﳃ			
+14	7:178:1	w	مَن	ﳄ	من	Whoever	man
+14	7:178:2	w	يَهۡدِ	ﳅ	يهد	(is) guided	yahdi
+14	7:178:3	w	ٱللَّهُ	ﳆ	الله	(by) Allah	l-lahu
+15	7:178:4	w	فَهُوَ	ﳇ	فهو	then he	fahuwa
+15	7:178:5	w	ٱلۡمُهۡتَدِيۖ	ﳈﳉ	المهتدي	(is) the guided one	l-muh'tadī
+15	7:178:6	w	وَمَن	ﳊ	ومن	while whoever	waman
+15	7:178:7	w	يُضۡلِلۡ	ﳋ	يضلل	He lets go astray	yuḍ'lil
+15	7:178:8	w	فَأُوْلَٰٓئِكَ	ﳌ	فاولايك	then those	fa-ulāika
+15	7:178:9	w	هُمُ	ﳍ	هم	[they]	humu
+15	7:178:10	w	ٱلۡخَٰسِرُونَ	ﳎ	الخاسرون	(are) the losers	l-khāsirūna
+15	7:178:11	e	١٧٨	ﳏ			

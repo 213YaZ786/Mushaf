@@ -1,0 +1,143 @@
+1	4:38:1	w	وَٱلَّذِينَ	ﱁ	والذين	And those who	wa-alladhīna
+1	4:38:2	w	يُنفِقُونَ	ﱂ	ينفقون	spend	yunfiqūna
+1	4:38:3	w	أَمۡوَٰلَهُمۡ	ﱃ	اموالهم	their wealth	amwālahum
+1	4:38:4	w	رِئَآءَ	ﱄ	رياء	to be seen	riāa
+1	4:38:5	w	ٱلنَّاسِ	ﱅ	الناس	(by) the people	l-nāsi
+1	4:38:6	w	وَلَا	ﱆ	ولا	and not	walā
+1	4:38:7	w	يُؤۡمِنُونَ	ﱇ	يومنون	they believe	yu'minūna
+1	4:38:8	w	بِٱللَّهِ	ﱈ	بالله	in Allah	bil-lahi
+2	4:38:9	w	وَلَا	ﱉ	ولا	and not	walā
+2	4:38:10	w	بِٱلۡيَوۡمِ	ﱊ	باليوم	in the Day	bil-yawmi
+2	4:38:11	w	ٱلۡأٓخِرِۗ	ﱋﱌ	الاخر	the Last	l-ākhiri
+2	4:38:12	w	وَمَن	ﱍ	ومن	and whoever	waman
+2	4:38:13	w	يَكُنِ	ﱎ	يكن	has	yakuni
+2	4:38:14	w	ٱلشَّيۡطَٰنُ	ﱏ	الشيطان	the Shaitaan	l-shayṭānu
+2	4:38:15	w	لَهُۥ	ﱐ	له	for him	lahu
+2	4:38:16	w	قَرِينٗا	ﱑ	قرينا	(as) companion	qarīnan
+2	4:38:17	w	فَسَآءَ	ﱒ	فساء	then evil	fasāa
+3	4:38:18	w	قَرِينٗا	ﱓ	قرينا	(is he as) a companion	qarīnan
+3	4:38:19	e	٣٨	ﱔ			
+3	4:39:1	w	وَمَاذَا	ﱕ	وماذا	And what	wamādhā
+3	4:39:2	w	عَلَيۡهِمۡ	ﱖ	عليهم	(is) against them	ʿalayhim
+3	4:39:3	w	لَوۡ	ﱗ	لو	if	law
+3	4:39:4	w	ءَامَنُواْ	ﱘ	امنوا	they believed	āmanū
+3	4:39:5	w	بِٱللَّهِ	ﱙ	بالله	in Allah	bil-lahi
+3	4:39:6	w	وَٱلۡيَوۡمِ	ﱚ	واليوم	and the Day	wal-yawmi
+3	4:39:7	w	ٱلۡأٓخِرِ	ﱛ	الاخر	the Last	l-ākhiri
+3	4:39:8	w	وَأَنفَقُواْ	ﱜ	وانفقوا	and spent	wa-anfaqū
+4	4:39:9	w	مِمَّا	ﱝ	مما	from what	mimmā
+4	4:39:10	w	رَزَقَهُمُ	ﱞ	رزقهم	(has) provided them	razaqahumu
+4	4:39:11	w	ٱللَّهُۚ	ﱟﱠ	الله	Allah	l-lahu
+4	4:39:12	w	وَكَانَ	ﱡ	وكان	And is	wakāna
+4	4:39:13	w	ٱللَّهُ	ﱢ	الله	Allah	l-lahu
+4	4:39:14	w	بِهِمۡ	ﱣ	بهم	about them	bihim
+4	4:39:15	w	عَلِيمًا	ﱤ	عليما	All-Knower	ʿalīman
+4	4:39:16	e	٣٩	ﱥ			
+4	4:40:1	w	إِنَّ	ﱦ	ان	Indeed	inna
+4	4:40:2	w	ٱللَّهَ	ﱧ	الله	Allah	l-laha
+4	4:40:3	w	لَا	ﱨ	لا	(does) not	lā
+4	4:40:4	w	يَظۡلِمُ	ﱩ	يظلم	wrong	yaẓlimu
+5	4:40:5	w	مِثۡقَالَ	ﱪ	مثقال	(as much as) weight	mith'qāla
+5	4:40:6	w	ذَرَّةٖۖ	ﱫﱬ	ذرة	(of) an atom	dharratin
+5	4:40:7	w	وَإِن	ﱭ	وان	And if	wa-in
+5	4:40:8	w	تَكُ	ﱮ	تك	there is	taku
+5	4:40:9	w	حَسَنَةٗ	ﱯ	حسنة	a good	ḥasanatan
+5	4:40:10	w	يُضَٰعِفۡهَا	ﱰ	يضاعفها	He doubles it	yuḍāʿif'hā
+5	4:40:11	w	وَيُؤۡتِ	ﱱ	ويوت	and gives	wayu'ti
+5	4:40:12	w	مِن	ﱲ	من	from	min
+5	4:40:13	w	لَّدُنۡهُ	ﱳ	لدنه	near Him	ladun'hu
+6	4:40:14	w	أَجۡرًا	ﱴ	اجرا	a reward	ajran
+6	4:40:15	w	عَظِيمٗا	ﱵ	عظيما	great	ʿaẓīman
+6	4:40:16	e	٤٠	ﱶ			
+6	4:41:1	w	فَكَيۡفَ	ﱷ	فكيف	So how (will it be)	fakayfa
+6	4:41:2	w	إِذَا	ﱸ	اذا	when	idhā
+6	4:41:3	w	جِئۡنَا	ﱹ	جينا	We bring	ji'nā
+6	4:41:4	w	مِن	ﱺ	من	from	min
+6	4:41:5	w	كُلِّ	ﱻ	كل	every	kulli
+6	4:41:6	w	أُمَّةِۭ	ﱼ	امة	nation	ummatin
+6	4:41:7	w	بِشَهِيدٖ	ﱽ	بشهيد	a witness	bishahīdin
+7	4:41:8	w	وَجِئۡنَا	ﱾ	وجينا	and We bring	waji'nā
+7	4:41:9	w	بِكَ	ﱿ	بك	you	bika
+7	4:41:10	w	عَلَىٰ	ﲀ	على	against	ʿalā
+7	4:41:11	w	هَٰٓؤُلَآءِ	ﲁ	هاولاء	these (people)	hāulāi
+7	4:41:12	w	شَهِيدٗا	ﲂ	شهيدا	(as) a witness	shahīdan
+7	4:41:13	e	٤١	ﲃ			
+7	4:42:1	w	يَوۡمَئِذٖ	ﲄ	يوميذ	(On) that Day	yawma-idhin
+7	4:42:2	w	يَوَدُّ	ﲅ	يود	will wish	yawaddu
+7	4:42:3	w	ٱلَّذِينَ	ﲆ	الذين	those who	alladhīna
+8	4:42:4	w	كَفَرُواْ	ﲇ	كفروا	disbelieved	kafarū
+8	4:42:5	w	وَعَصَوُاْ	ﲈ	وعصوا	and disobeyed	waʿaṣawū
+8	4:42:6	w	ٱلرَّسُولَ	ﲉ	الرسول	the Messenger	l-rasūla
+8	4:42:7	w	لَوۡ	ﲊ	لو	if	law
+8	4:42:8	w	تُسَوَّىٰ	ﲋ	تسوى	was leveled	tusawwā
+8	4:42:9	w	بِهِمُ	ﲌ	بهم	with them	bihimu
+8	4:42:10	w	ٱلۡأَرۡضُ	ﲍ	الارض	the earth	l-arḍu
+8	4:42:11	w	وَلَا	ﲎ	ولا	and not	walā
+8	4:42:12	w	يَكۡتُمُونَ	ﲏ	يكتمون	they will (be able to) hide	yaktumūna
+9	4:42:13	w	ٱللَّهَ	ﲐ	الله	(from) Allah	l-laha
+9	4:42:14	w	حَدِيثٗا	ﲑ	حديثا	(any) statement	ḥadīthan
+9	4:42:15	e	٤٢	ﲒ			
+9	4:43:1	w	يَٰٓأَيُّهَا	ﲓ	يا ايها	O you	yāayyuhā
+9	4:43:2	w	ٱلَّذِينَ	ﲔ	الذين	who	alladhīna
+9	4:43:3	w	ءَامَنُواْ	ﲕ	امنوا	believe[d]	āmanū
+9	4:43:4	w	لَا	ﲖ	لا	(Do) not	lā
+9	4:43:5	w	تَقۡرَبُواْ	ﲗ	تقربوا	go near	taqrabū
+9	4:43:6	w	ٱلصَّلَوٰةَ	ﲘ	الصلاة	the prayer	l-ṣalata
+9	4:43:7	w	وَأَنتُمۡ	ﲙ	وانتم	while you	wa-antum
+10	4:43:8	w	سُكَٰرَىٰ	ﲚ	سكارى	(are) intoxicated	sukārā
+10	4:43:9	w	حَتَّىٰ	ﲛ	حتى	until	ḥattā
+10	4:43:10	w	تَعۡلَمُواْ	ﲜ	تعلموا	you know	taʿlamū
+10	4:43:11	w	مَا	ﲝ	ما	what	mā
+10	4:43:12	w	تَقُولُونَ	ﲞ	تقولون	you are saying	taqūlūna
+10	4:43:13	w	وَلَا	ﲟ	ولا	and not	walā
+10	4:43:14	w	جُنُبًا	ﲠ	جنبا	(when you are) impure	junuban
+10	4:43:15	w	إِلَّا	ﲡ	الا	except	illā
+10	4:43:16	w	عَابِرِي	ﲢ	عابري	(when) passing	ʿābirī
+11	4:43:17	w	سَبِيلٍ	ﲣ	سبيل	(through) a way	sabīlin
+11	4:43:18	w	حَتَّىٰ	ﲤ	حتى	until	ḥattā
+11	4:43:19	w	تَغۡتَسِلُواْۚ	ﲥﲦ	تغتسلوا	you have bathed	taghtasilū
+11	4:43:20	w	وَإِن	ﲧ	وان	And if	wa-in
+11	4:43:21	w	كُنتُم	ﲨ	كنتم	you are	kuntum
+11	4:43:22	w	مَّرۡضَىٰٓ	ﲩ	مرضى	ill	marḍā
+11	4:43:23	w	أَوۡ	ﲪ	او	or	aw
+11	4:43:24	w	عَلَىٰ	ﲫ	على	on	ʿalā
+11	4:43:25	w	سَفَرٍ	ﲬ	سفر	a journey	safarin
+11	4:43:26	w	أَوۡ	ﲭ	او	or	aw
+11	4:43:27	w	جَآءَ	ﲮ	جاء	came	jāa
+12	4:43:28	w	أَحَدٞ	ﲯ	احد	one	aḥadun
+12	4:43:29	w	مِّنكُم	ﲰ	منكم	of you	minkum
+12	4:43:30	w	مِّنَ	ﲱ	من	from	mina
+12	4:43:31	w	ٱلۡغَآئِطِ	ﲲ	الغايط	the toilet	l-ghāiṭi
+12	4:43:32	w	أَوۡ	ﲳ	او	or	aw
+12	4:43:33	w	لَٰمَسۡتُمُ	ﲴ	لامستم	you have touched	lāmastumu
+12	4:43:34	w	ٱلنِّسَآءَ	ﲵ	النساء	the women	l-nisāa
+12	4:43:35	w	فَلَمۡ	ﲶ	فلم	and not	falam
+12	4:43:36	w	تَجِدُواْ	ﲷ	تجدوا	you find	tajidū
+12	4:43:37	w	مَآءٗ	ﲸ	ماء	water	māan
+13	4:43:38	w	فَتَيَمَّمُواْ	ﲹ	فتيمموا	then do tayammum	fatayammamū
+13	4:43:39	w	صَعِيدٗا	ﲺ	صعيدا	(with) earth	ṣaʿīdan
+13	4:43:40	w	طَيِّبٗا	ﲻ	طيبا	clean	ṭayyiban
+13	4:43:41	w	فَٱمۡسَحُواْ	ﲼ	فامسحوا	and wipe (with it)	fa-im'saḥū
+13	4:43:42	w	بِوُجُوهِكُمۡ	ﲽ	بوجوهكم	your faces	biwujūhikum
+13	4:43:43	w	وَأَيۡدِيكُمۡۗ	ﲾﲿ	وايديكم	and your hands	wa-aydīkum
+14	4:43:44	w	إِنَّ	ﳀ	ان	Indeed	inna
+14	4:43:45	w	ٱللَّهَ	ﳁ	الله	Allah	l-laha
+14	4:43:46	w	كَانَ	ﳂ	كان	is	kāna
+14	4:43:47	w	عَفُوًّا	ﳃ	عفوا	Oft-Pardoning	ʿafuwwan
+14	4:43:48	w	غَفُورًا	ﳄ	غفورا	Oft-Forgiving	ghafūran
+14	4:43:49	e	٤٣	ﳅ			
+14	4:44:1	w	أَلَمۡ	ﳆ	الم	Did not	alam
+14	4:44:2	w	تَرَ	ﳇ	تر	you see	tara
+14	4:44:3	w	إِلَى	ﳈ	الى	[towards]	ilā
+14	4:44:4	w	ٱلَّذِينَ	ﳉ	الذين	those who	alladhīna
+14	4:44:5	w	أُوتُواْ	ﳊ	اوتوا	were given	ūtū
+14	4:44:6	w	نَصِيبٗا	ﳋ	نصيبا	a portion	naṣīban
+14	4:44:7	w	مِّنَ	ﳌ	من	of	mina
+15	4:44:8	w	ٱلۡكِتَٰبِ	ﳍ	الكتاب	the Book	l-kitābi
+15	4:44:9	w	يَشۡتَرُونَ	ﳎ	يشترون	purchasing	yashtarūna
+15	4:44:10	w	ٱلضَّلَٰلَةَ	ﳏ	الضلالة	[the] error	l-ḍalālata
+15	4:44:11	w	وَيُرِيدُونَ	ﳐ	ويريدون	and wishing	wayurīdūna
+15	4:44:12	w	أَن	ﳑ	ان	that	an
+15	4:44:13	w	تَضِلُّواْ	ﳒ	تضلوا	you stray	taḍillū
+15	4:44:14	w	ٱلسَّبِيلَ	ﳓ	السبيل	(from) the way	l-sabīla
+15	4:44:15	e	٤٤	ﳔ			

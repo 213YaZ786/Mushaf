@@ -1,0 +1,138 @@
+1	36:55:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	36:55:2	w	أَصۡحَٰبَ	ﱂ	اصحاب	(the) companions	aṣḥāba
+1	36:55:3	w	ٱلۡجَنَّةِ	ﱃ	الجنة	(of) Paradise	l-janati
+1	36:55:4	w	ٱلۡيَوۡمَ	ﱄ	اليوم	this Day	l-yawma
+1	36:55:5	w	فِي	ﱅ	في	[in]	fī
+1	36:55:6	w	شُغُلٖ	ﱆ	شغل	will be occupied	shughulin
+1	36:55:7	w	فَٰكِهُونَ	ﱇ	فاكهون	(in) amusement	fākihūna
+1	36:55:8	e	٥٥	ﱈ			
+1	36:56:1	w	هُمۡ	ﱉ	هم	They	hum
+1	36:56:2	w	وَأَزۡوَٰجُهُمۡ	ﱊ	وازواجهم	and their spouses	wa-azwājuhum
+2	36:56:3	w	فِي	ﱋ	في	in	fī
+2	36:56:4	w	ظِلَٰلٍ	ﱌ	ظلال	shades	ẓilālin
+2	36:56:5	w	عَلَى	ﱍ	على	on	ʿalā
+2	36:56:6	w	ٱلۡأَرَآئِكِ	ﱎ	الارايك	[the] couches	l-arāiki
+2	36:56:7	w	مُتَّكِـُٔونَ	ﱏ	متكيون	reclining	muttakiūna
+2	36:56:8	e	٥٦	ﱐ			
+2	36:57:1	w	لَهُمۡ	ﱑ	لهم	For them	lahum
+2	36:57:2	w	فِيهَا	ﱒ	فيها	therein	fīhā
+2	36:57:3	w	فَٰكِهَةٞ	ﱓ	فاكهة	(are) fruits	fākihatun
+3	36:57:4	w	وَلَهُم	ﱔ	ولهم	and for them	walahum
+3	36:57:5	w	مَّا	ﱕ	ما	(is) whatever	mā
+3	36:57:6	w	يَدَّعُونَ	ﱖ	يدعون	they call for	yaddaʿūna
+3	36:57:7	e	٥٧	ﱗ			
+3	36:58:1	w	سَلَٰمٞ	ﱘ	سلام	Peace	salāmun
+3	36:58:2	w	قَوۡلٗا	ﱙ	قولا	A word	qawlan
+3	36:58:3	w	مِّن	ﱚ	من	from	min
+3	36:58:4	w	رَّبّٖ	ﱛ	رب	a Lord	rabbin
+3	36:58:5	w	رَّحِيمٖ	ﱜ	رحيم	Most Merciful	raḥīmin
+3	36:58:6	e	٥٨	ﱝ			
+3	36:59:1	w	وَٱمۡتَٰزُواْ	ﱞ	وامتازوا	But stand apart	wa-im'tāzū
+4	36:59:2	w	ٱلۡيَوۡمَ	ﱟ	اليوم	today	l-yawma
+4	36:59:3	w	أَيُّهَا	ﱠ	ايها	O criminals	ayyuhā
+4	36:59:4	w	ٱلۡمُجۡرِمُونَ	ﱡ	المجرمون	O criminals	l-muj'rimūna
+4	36:59:5	e	٥٩	ﱢ			
+4	36:60:1	w	۞ أَلَمۡ	ﱣ ﱤ	۞ الم	Did not	alam
+4	36:60:2	w	أَعۡهَدۡ	ﱥ	اعهد	I enjoin	aʿhad
+4	36:60:3	w	إِلَيۡكُمۡ	ﱦ	اليكم	upon you	ilaykum
+4	36:60:4	w	يَٰبَنِيٓ	ﱧ	يا بني	O Children of Adam	yābanī
+4	36:60:5	w	ءَادَمَ	ﱨ	ادم	O Children of Adam	ādama
+5	36:60:6	w	أَن	ﱩ	ان	That	an
+5	36:60:7	w	لَّا	ﱪ	لا	(do) not	lā
+5	36:60:8	w	تَعۡبُدُواْ	ﱫ	تعبدوا	worship	taʿbudū
+5	36:60:9	w	ٱلشَّيۡطَٰنَۖ	ﱬﱭ	الشيطان	the Shaitaan	l-shayṭāna
+5	36:60:10	w	إِنَّهُۥ	ﱮ	انه	indeed, he	innahu
+5	36:60:11	w	لَكُمۡ	ﱯ	لكم	(is) for you	lakum
+5	36:60:12	w	عَدُوّٞ	ﱰ	عدو	an enemy	ʿaduwwun
+5	36:60:13	w	مُّبِينٞ	ﱱ	مبين	clear	mubīnun
+5	36:60:14	e	٦٠	ﱲ			
+5	36:61:1	w	وَأَنِ	ﱳ	وان	And that	wa-ani
+6	36:61:2	w	ٱعۡبُدُونِيۚ	ﱴﱵ	اعبدوني	you worship Me	uʿ'budūnī
+6	36:61:3	w	هَٰذَا	ﱶ	هاذا	This	hādhā
+6	36:61:4	w	صِرَٰطٞ	ﱷ	صراط	(is) a Path	ṣirāṭun
+6	36:61:5	w	مُّسۡتَقِيمٞ	ﱸ	مستقيم	Straight	mus'taqīmun
+6	36:61:6	e	٦١	ﱹ			
+6	36:62:1	w	وَلَقَدۡ	ﱺ	ولقد	And indeed	walaqad
+6	36:62:2	w	أَضَلَّ	ﱻ	اضل	he led astray	aḍalla
+6	36:62:3	w	مِنكُمۡ	ﱼ	منكم	from you	minkum
+7	36:62:4	w	جِبِلّٗا	ﱽ	جبلا	a multitude	jibillan
+7	36:62:5	w	كَثِيرًاۖ	ﱾﱿ	كثيرا	great	kathīran
+7	36:62:6	w	أَفَلَمۡ	ﲀ	افلم	Then did not	afalam
+7	36:62:7	w	تَكُونُواْ	ﲁ	تكونوا	you	takūnū
+7	36:62:8	w	تَعۡقِلُونَ	ﲂ	تعقلون	use reason	taʿqilūna
+7	36:62:9	e	٦٢	ﲃ			
+7	36:63:1	w	هَٰذِهِۦ	ﲄ	هاذه	This (is)	hādhihi
+7	36:63:2	w	جَهَنَّمُ	ﲅ	جهنم	(the) Hell	jahannamu
+7	36:63:3	w	ٱلَّتِي	ﲆ	التي	which	allatī
+8	36:63:4	w	كُنتُمۡ	ﲇ	كنتم	you were	kuntum
+8	36:63:5	w	تُوعَدُونَ	ﲈ	توعدون	promised	tūʿadūna
+8	36:63:6	e	٦٣	ﲉ			
+8	36:64:1	w	ٱصۡلَوۡهَا	ﲊ	اصلوها	Burn therein	iṣ'lawhā
+8	36:64:2	w	ٱلۡيَوۡمَ	ﲋ	اليوم	today	l-yawma
+8	36:64:3	w	بِمَا	ﲌ	بما	because	bimā
+8	36:64:4	w	كُنتُمۡ	ﲍ	كنتم	you used to	kuntum
+8	36:64:5	w	تَكۡفُرُونَ	ﲎ	تكفرون	disbelieve	takfurūna
+8	36:64:6	e	٦٤	ﲏ			
+9	36:65:1	w	ٱلۡيَوۡمَ	ﲐ	اليوم	This Day	al-yawma
+9	36:65:2	w	نَخۡتِمُ	ﲑ	نختم	We will seal	nakhtimu
+9	36:65:3	w	عَلَىٰٓ	ﲒ	على	[on]	ʿalā
+9	36:65:4	w	أَفۡوَٰهِهِمۡ	ﲓ	افواههم	their mouths	afwāhihim
+9	36:65:5	w	وَتُكَلِّمُنَآ	ﲔ	وتكلمنا	and will speak to Us	watukallimunā
+9	36:65:6	w	أَيۡدِيهِمۡ	ﲕ	ايديهم	their hands	aydīhim
+9	36:65:7	w	وَتَشۡهَدُ	ﲖ	وتشهد	and will bear witness	watashhadu
+9	36:65:8	w	أَرۡجُلُهُم	ﲗ	ارجلهم	their feet	arjuluhum
+10	36:65:9	w	بِمَا	ﲘ	بما	about what	bimā
+10	36:65:10	w	كَانُواْ	ﲙ	كانوا	they used to	kānū
+10	36:65:11	w	يَكۡسِبُونَ	ﲚ	يكسبون	earn	yaksibūna
+10	36:65:12	e	٦٥	ﲛ			
+10	36:66:1	w	وَلَوۡ	ﲜ	ولو	And if	walaw
+10	36:66:2	w	نَشَآءُ	ﲝ	نشاء	We willed	nashāu
+10	36:66:3	w	لَطَمَسۡنَا	ﲞ	لطمسنا	We (would have) surely obliterated	laṭamasnā
+10	36:66:4	w	عَلَىٰٓ	ﲟ	على	[over]	ʿalā
+10	36:66:5	w	أَعۡيُنِهِمۡ	ﲠ	اعينهم	their eyes	aʿyunihim
+11	36:66:6	w	فَٱسۡتَبَقُواْ	ﲡ	فاستبقوا	then they (would) race	fa-is'tabaqū
+11	36:66:7	w	ٱلصِّرَٰطَ	ﲢ	الصراط	(to find) the path	l-ṣirāṭa
+11	36:66:8	w	فَأَنَّىٰ	ﲣ	فانى	then how	fa-annā
+11	36:66:9	w	يُبۡصِرُونَ	ﲤ	يبصرون	(could) they see	yub'ṣirūna
+11	36:66:10	e	٦٦	ﲥ			
+11	36:67:1	w	وَلَوۡ	ﲦ	ولو	And if	walaw
+11	36:67:2	w	نَشَآءُ	ﲧ	نشاء	We willed	nashāu
+11	36:67:3	w	لَمَسَخۡنَٰهُمۡ	ﲨ	لمسخناهم	surely, We (would have) transformed them	lamasakhnāhum
+12	36:67:4	w	عَلَىٰ	ﲩ	على	in	ʿalā
+12	36:67:5	w	مَكَانَتِهِمۡ	ﲪ	مكانتهم	their places	makānatihim
+12	36:67:6	w	فَمَا	ﲫ	فما	then not	famā
+12	36:67:7	w	ٱسۡتَطَٰعُواْ	ﲬ	استطاعوا	they would have been able	is'taṭāʿū
+12	36:67:8	w	مُضِيّٗا	ﲭ	مضيا	to proceed	muḍiyyan
+12	36:67:9	w	وَلَا	ﲮ	ولا	and not	walā
+12	36:67:10	w	يَرۡجِعُونَ	ﲯ	يرجعون	return	yarjiʿūna
+13	36:67:11	e	٦٧	ﲰ			
+13	36:68:1	w	وَمَن	ﲱ	ومن	And (he) whom	waman
+13	36:68:2	w	نُّعَمِّرۡهُ	ﲲ	نعمره	We grant him long life	nuʿammir'hu
+13	36:68:3	w	نُنَكِّسۡهُ	ﲳ	ننكسه	We reverse him	nunakkis'hu
+13	36:68:4	w	فِي	ﲴ	في	in	fī
+13	36:68:5	w	ٱلۡخَلۡقِۚ	ﲵﲶ	الخلق	the creation	l-khalqi
+13	36:68:6	w	أَفَلَا	ﲷ	افلا	Then will not	afalā
+13	36:68:7	w	يَعۡقِلُونَ	ﲸ	يعقلون	they use intellect	yaʿqilūna
+13	36:68:8	e	٦٨	ﲹ			
+14	36:69:1	w	وَمَا	ﲺ	وما	And not	wamā
+14	36:69:2	w	عَلَّمۡنَٰهُ	ﲻ	علمناه	We taught him	ʿallamnāhu
+14	36:69:3	w	ٱلشِّعۡرَ	ﲼ	الشعر	[the] poetry	l-shiʿ'ra
+14	36:69:4	w	وَمَا	ﲽ	وما	and not	wamā
+14	36:69:5	w	يَنۢبَغِي	ﲾ	ينبغي	it is befitting	yanbaghī
+14	36:69:6	w	لَهُۥٓۚ	ﲿﳀ	له	for him	lahu
+14	36:69:7	w	إِنۡ	ﳁ	ان	Not	in
+14	36:69:8	w	هُوَ	ﳂ	هو	it	huwa
+14	36:69:9	w	إِلَّا	ﳃ	الا	(is) except	illā
+14	36:69:10	w	ذِكۡرٞ	ﳄ	ذكر	a Reminder	dhik'run
+14	36:69:11	w	وَقُرۡءَانٞ	ﳅ	وقران	and a Quran	waqur'ānun
+14	36:69:12	w	مُّبِينٞ	ﳆ	مبين	clear	mubīnun
+15	36:69:13	e	٦٩	ﳇ			
+15	36:70:1	w	لِّيُنذِرَ	ﳈ	لينذر	To warn	liyundhira
+15	36:70:2	w	مَن	ﳉ	من	(him) who	man
+15	36:70:3	w	كَانَ	ﳊ	كان	is	kāna
+15	36:70:4	w	حَيّٗا	ﳋ	حيا	alive	ḥayyan
+15	36:70:5	w	وَيَحِقَّ	ﳌ	ويحق	and may be proved true	wayaḥiqqa
+15	36:70:6	w	ٱلۡقَوۡلُ	ﳍ	القول	the Word	l-qawlu
+15	36:70:7	w	عَلَى	ﳎ	على	against	ʿalā
+15	36:70:8	w	ٱلۡكَٰفِرِينَ	ﳏ	الكافرين	the disbelievers	l-kāfirīna
+15	36:70:9	e	٧٠	ﳐ			

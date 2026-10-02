@@ -1,0 +1,138 @@
+1	6:111:1	w	۞ وَلَوۡ	ﱁ ﱂ	۞ ولو	And (even) if	walaw
+1	6:111:2	w	أَنَّنَا	ﱃ	اننا	[that] We (had)	annanā
+1	6:111:3	w	نَزَّلۡنَآ	ﱄ	نزلنا	[We] sent down	nazzalnā
+1	6:111:4	w	إِلَيۡهِمُ	ﱅ	اليهم	to them	ilayhimu
+1	6:111:5	w	ٱلۡمَلَٰٓئِكَةَ	ﱆ	الملايكة	the Angels	l-malāikata
+1	6:111:6	w	وَكَلَّمَهُمُ	ﱇ	وكلمهم	and spoken to them	wakallamahumu
+1	6:111:7	w	ٱلۡمَوۡتَىٰ	ﱈ	الموتى	the dead	l-mawtā
+1	6:111:8	w	وَحَشَرۡنَا	ﱉ	وحشرنا	and We gathered	waḥasharnā
+2	6:111:9	w	عَلَيۡهِمۡ	ﱊ	عليهم	before them	ʿalayhim
+2	6:111:10	w	كُلَّ	ﱋ	كل	every	kulla
+2	6:111:11	w	شَيۡءٖ	ﱌ	شيء	thing	shayin
+2	6:111:12	w	قُبُلٗا	ﱍ	قبلا	face to face	qubulan
+2	6:111:13	w	مَّا	ﱎ	ما	not	mā
+2	6:111:14	w	كَانُواْ	ﱏ	كانوا	they were	kānū
+2	6:111:15	w	لِيُؤۡمِنُوٓاْ	ﱐ	ليومنوا	to believe	liyu'minū
+2	6:111:16	w	إِلَّآ	ﱑ	الا	unless	illā
+2	6:111:17	w	أَن	ﱒ	ان	[that]	an
+2	6:111:18	w	يَشَآءَ	ﱓ	يشاء	wills	yashāa
+2	6:111:19	w	ٱللَّهُ	ﱔ	الله	Allah	l-lahu
+3	6:111:20	w	وَلَٰكِنَّ	ﱕ	ولاكن	But	walākinna
+3	6:111:21	w	أَكۡثَرَهُمۡ	ﱖ	اكثرهم	most of them	aktharahum
+3	6:111:22	w	يَجۡهَلُونَ	ﱗ	يجهلون	(are) ignorant	yajhalūna
+3	6:111:23	e	١١١	ﱘ			
+3	6:112:1	w	وَكَذَٰلِكَ	ﱙ	وكذالك	And thus	wakadhālika
+3	6:112:2	w	جَعَلۡنَا	ﱚ	جعلنا	We made	jaʿalnā
+3	6:112:3	w	لِكُلِّ	ﱛ	لكل	for every	likulli
+3	6:112:4	w	نَبِيٍّ	ﱜ	نبي	Prophet	nabiyyin
+4	6:112:5	w	عَدُوّٗا	ﱝ	عدوا	an enemy	ʿaduwwan
+4	6:112:6	w	شَيَٰطِينَ	ﱞ	شياطين	devils	shayāṭīna
+4	6:112:7	w	ٱلۡإِنسِ	ﱟ	الانس	(from) the mankind	l-insi
+4	6:112:8	w	وَٱلۡجِنِّ	ﱠ	والجن	and the jinn	wal-jini
+4	6:112:9	w	يُوحِي	ﱡ	يوحي	inspiring	yūḥī
+4	6:112:10	w	بَعۡضُهُمۡ	ﱢ	بعضهم	some of them	baʿḍuhum
+4	6:112:11	w	إِلَىٰ	ﱣ	الى	to	ilā
+4	6:112:12	w	بَعۡضٖ	ﱤ	بعض	others	baʿḍin
+5	6:112:13	w	زُخۡرُفَ	ﱥ	زخرف	(with) decorative	zukh'rufa
+5	6:112:14	w	ٱلۡقَوۡلِ	ﱦ	القول	[the] speech	l-qawli
+5	6:112:15	w	غُرُورٗاۚ	ﱧﱨ	غرورا	(in) deception	ghurūran
+5	6:112:16	w	وَلَوۡ	ﱩ	ولو	But if	walaw
+5	6:112:17	w	شَآءَ	ﱪ	شاء	(had) willed	shāa
+5	6:112:18	w	رَبُّكَ	ﱫ	ربك	your Lord	rabbuka
+5	6:112:19	w	مَا	ﱬ	ما	not	mā
+5	6:112:20	w	فَعَلُوهُۖ	ﱭﱮ	فعلوه	they (would) have done it	faʿalūhu
+5	6:112:21	w	فَذَرۡهُمۡ	ﱯ	فذرهم	so leave them	fadharhum
+5	6:112:22	w	وَمَا	ﱰ	وما	and what	wamā
+6	6:112:23	w	يَفۡتَرُونَ	ﱱ	يفترون	they invent	yaftarūna
+6	6:112:24	e	١١٢	ﱲ			
+6	6:113:1	w	وَلِتَصۡغَىٰٓ	ﱳ	ولتصغى	And so that incline	walitaṣghā
+6	6:113:2	w	إِلَيۡهِ	ﱴ	اليه	to it	ilayhi
+6	6:113:3	w	أَفۡـِٔدَةُ	ﱵ	افيدة	hearts	afidatu
+6	6:113:4	w	ٱلَّذِينَ	ﱶ	الذين	(of) those who	alladhīna
+6	6:113:5	w	لَا	ﱷ	لا	(do) not	lā
+6	6:113:6	w	يُؤۡمِنُونَ	ﱸ	يومنون	believe	yu'minūna
+6	6:113:7	w	بِٱلۡأٓخِرَةِ	ﱹ	بالاخرة	in the Hereafter	bil-ākhirati
+7	6:113:8	w	وَلِيَرۡضَوۡهُ	ﱺ	وليرضوه	and so that they may be pleased with it	waliyarḍawhu
+7	6:113:9	w	وَلِيَقۡتَرِفُواْ	ﱻ	وليقترفوا	and so that they may commit	waliyaqtarifū
+7	6:113:10	w	مَا	ﱼ	ما	what	mā
+7	6:113:11	w	هُم	ﱽ	هم	they	hum
+7	6:113:12	w	مُّقۡتَرِفُونَ	ﱾ	مقترفون	(are) committing	muq'tarifūna
+7	6:113:13	e	١١٣	ﱿ			
+7	6:114:1	w	أَفَغَيۡرَ	ﲀ	افغير	Then is (it) other than	afaghayra
+7	6:114:2	w	ٱللَّهِ	ﲁ	الله	Allah	l-lahi
+7	6:114:3	w	أَبۡتَغِي	ﲂ	ابتغي	I seek	abtaghī
+8	6:114:4	w	حَكَمٗا	ﲃ	حكما	(as) judge	ḥakaman
+8	6:114:5	w	وَهُوَ	ﲄ	وهو	while He	wahuwa
+8	6:114:6	w	ٱلَّذِيٓ	ﲅ	الذي	(is) the One Who	alladhī
+8	6:114:7	w	أَنزَلَ	ﲆ	انزل	has revealed	anzala
+8	6:114:8	w	إِلَيۡكُمُ	ﲇ	اليكم	to you	ilaykumu
+8	6:114:9	w	ٱلۡكِتَٰبَ	ﲈ	الكتاب	the Book	l-kitāba
+8	6:114:10	w	مُفَصَّلٗاۚ	ﲉﲊ	مفصلا	explained in detail	mufaṣṣalan
+9	6:114:11	w	وَٱلَّذِينَ	ﲋ	والذين	And those (to) whom	wa-alladhīna
+9	6:114:12	w	ءَاتَيۡنَٰهُمُ	ﲌ	اتيناهم	We gave them	ātaynāhumu
+9	6:114:13	w	ٱلۡكِتَٰبَ	ﲍ	الكتاب	the Book	l-kitāba
+9	6:114:14	w	يَعۡلَمُونَ	ﲎ	يعلمون	they know	yaʿlamūna
+9	6:114:15	w	أَنَّهُۥ	ﲏ	انه	that it	annahu
+9	6:114:16	w	مُنَزَّلٞ	ﲐ	منزل	(is) sent down	munazzalun
+9	6:114:17	w	مِّن	ﲑ	من	from	min
+9	6:114:18	w	رَّبِّكَ	ﲒ	ربك	your Lord	rabbika
+10	6:114:19	w	بِٱلۡحَقِّۖ	ﲓﲔ	بالحق	in truth	bil-ḥaqi
+10	6:114:20	w	فَلَا	ﲕ	فلا	so (do) not	falā
+10	6:114:21	w	تَكُونَنَّ	ﲖ	تكونن	be	takūnanna
+10	6:114:22	w	مِنَ	ﲗ	من	among	mina
+10	6:114:23	w	ٱلۡمُمۡتَرِينَ	ﲘ	الممترين	the ones who doubt	l-mum'tarīna
+10	6:114:24	e	١١٤	ﲙ			
+10	6:115:1	w	وَتَمَّتۡ	ﲚ	وتمت	And (has been) fulfilled	watammat
+10	6:115:2	w	كَلِمَتُ	ﲛ	كلمت	(the) word	kalimatu
+10	6:115:3	w	رَبِّكَ	ﲜ	ربك	(of) your Lord	rabbika
+11	6:115:4	w	صِدۡقٗا	ﲝ	صدقا	(in) truth	ṣid'qan
+11	6:115:5	w	وَعَدۡلٗاۚ	ﲞﲟ	وعدلا	and justice	waʿadlan
+11	6:115:6	w	لَّا	ﲠ	لا	No	lā
+11	6:115:7	w	مُبَدِّلَ	ﲡ	مبدل	one can change	mubaddila
+11	6:115:8	w	لِكَلِمَٰتِهِۦۚ	ﲢﲣ	لكلماته	His words	likalimātihi
+11	6:115:9	w	وَهُوَ	ﲤ	وهو	and He	wahuwa
+11	6:115:10	w	ٱلسَّمِيعُ	ﲥ	السميع	(is) the All-Hearer	l-samīʿu
+11	6:115:11	w	ٱلۡعَلِيمُ	ﲦ	العليم	the All-Knower	l-ʿalīmu
+12	6:115:12	e	١١٥	ﲧ			
+12	6:116:1	w	وَإِن	ﲨ	وان	And if	wa-in
+12	6:116:2	w	تُطِعۡ	ﲩ	تطع	you obey	tuṭiʿ
+12	6:116:3	w	أَكۡثَرَ	ﲪ	اكثر	most	akthara
+12	6:116:4	w	مَن	ﲫ	من	of	man
+12	6:116:5	w	فِي	ﲬ	في	(those) in	fī
+12	6:116:6	w	ٱلۡأَرۡضِ	ﲭ	الارض	the earth	l-arḍi
+12	6:116:7	w	يُضِلُّوكَ	ﲮ	يضلوك	they will mislead you	yuḍillūka
+12	6:116:8	w	عَن	ﲯ	عن	from	ʿan
+12	6:116:9	w	سَبِيلِ	ﲰ	سبيل	(the) way	sabīli
+12	6:116:10	w	ٱللَّهِۚ	ﲱﲲ	الله	(of) Allah	l-lahi
+12	6:116:11	w	إِن	ﲳ	ان	Not	in
+13	6:116:12	w	يَتَّبِعُونَ	ﲴ	يتبعون	they follow	yattabiʿūna
+13	6:116:13	w	إِلَّا	ﲵ	الا	except	illā
+13	6:116:14	w	ٱلظَّنَّ	ﲶ	الظن	[the] assumption	l-ẓana
+13	6:116:15	w	وَإِنۡ	ﲷ	وان	and not	wa-in
+13	6:116:16	w	هُمۡ	ﲸ	هم	they (do)	hum
+13	6:116:17	w	إِلَّا	ﲹ	الا	except	illā
+13	6:116:18	w	يَخۡرُصُونَ	ﲺ	يخرصون	guess	yakhruṣūna
+13	6:116:19	e	١١٦	ﲻ			
+13	6:117:1	w	إِنَّ	ﲼ	ان	Indeed	inna
+13	6:117:2	w	رَبَّكَ	ﲽ	ربك	your Lord	rabbaka
+13	6:117:3	w	هُوَ	ﲾ	هو	He	huwa
+14	6:117:4	w	أَعۡلَمُ	ﲿ	اعلم	knows best	aʿlamu
+14	6:117:5	w	مَن	ﳀ	من	who	man
+14	6:117:6	w	يَضِلُّ	ﳁ	يضل	strays	yaḍillu
+14	6:117:7	w	عَن	ﳂ	عن	from	ʿan
+14	6:117:8	w	سَبِيلِهِۦۖ	ﳃﳄ	سبيله	His way	sabīlihi
+14	6:117:9	w	وَهُوَ	ﳅ	وهو	and He	wahuwa
+14	6:117:10	w	أَعۡلَمُ	ﳆ	اعلم	(is) most knowing	aʿlamu
+14	6:117:11	w	بِٱلۡمُهۡتَدِينَ	ﳇ	بالمهتدين	of the guided-ones	bil-muh'tadīna
+14	6:117:12	e	١١٧	ﳈ			
+14	6:118:1	w	فَكُلُواْ	ﳉ	فكلوا	So eat	fakulū
+15	6:118:2	w	مِمَّا	ﳊ	مما	of what	mimmā
+15	6:118:3	w	ذُكِرَ	ﳋ	ذكر	(is) mentioned	dhukira
+15	6:118:4	w	ٱسۡمُ	ﳌ	اسم	(the) name	us'mu
+15	6:118:5	w	ٱللَّهِ	ﳍ	الله	(of) Allah	l-lahi
+15	6:118:6	w	عَلَيۡهِ	ﳎ	عليه	on it	ʿalayhi
+15	6:118:7	w	إِن	ﳏ	ان	if	in
+15	6:118:8	w	كُنتُم	ﳐ	كنتم	you are	kuntum
+15	6:118:9	w	بِـَٔايَٰتِهِۦ	ﳑ	باياته	in His Verses	biāyātihi
+15	6:118:10	w	مُؤۡمِنِينَ	ﳒ	مومنين	believers	mu'minīna
+15	6:118:11	e	١١٨	ﳓ			

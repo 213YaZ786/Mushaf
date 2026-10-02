@@ -1,0 +1,162 @@
+1	37:25:1	w	مَا	ﱁ	ما	What	mā
+1	37:25:2	w	لَكُمۡ	ﱂ	لكم	(is) for you	lakum
+1	37:25:3	w	لَا	ﱃ	لا	(Why) not	lā
+1	37:25:4	w	تَنَاصَرُونَ	ﱄ	تناصرون	you help one another	tanāṣarūna
+1	37:25:5	e	٢٥	ﱅ			
+1	37:26:1	w	بَلۡ	ﱆ	بل	Nay	bal
+1	37:26:2	w	هُمُ	ﱇ	هم	they	humu
+1	37:26:3	w	ٱلۡيَوۡمَ	ﱈ	اليوم	(on) that Day	l-yawma
+1	37:26:4	w	مُسۡتَسۡلِمُونَ	ﱉ	مستسلمون	(will) surrender	mus'taslimūna
+1	37:26:5	e	٢٦	ﱊ			
+1	37:27:1	w	وَأَقۡبَلَ	ﱋ	واقبل	And will approach	wa-aqbala
+1	37:27:2	w	بَعۡضُهُمۡ	ﱌ	بعضهم	some of them	baʿḍuhum
+2	37:27:3	w	عَلَىٰ	ﱍ	على	to	ʿalā
+2	37:27:4	w	بَعۡضٖ	ﱎ	بعض	others	baʿḍin
+2	37:27:5	w	يَتَسَآءَلُونَ	ﱏ	يتساءلون	questioning one another	yatasāalūna
+2	37:27:6	e	٢٧	ﱐ			
+2	37:28:1	w	قَالُوٓاْ	ﱑ	قالوا	They will say	qālū
+2	37:28:2	w	إِنَّكُمۡ	ﱒ	انكم	Indeed, you	innakum
+2	37:28:3	w	كُنتُمۡ	ﱓ	كنتم	[you] used (to)	kuntum
+2	37:28:4	w	تَأۡتُونَنَا	ﱔ	تاتوننا	come (to) us	tatūnanā
+2	37:28:5	w	عَنِ	ﱕ	عن	from	ʿani
+2	37:28:6	w	ٱلۡيَمِينِ	ﱖ	اليمين	the right	l-yamīni
+2	37:28:7	e	٢٨	ﱗ			
+3	37:29:1	w	قَالُواْ	ﱘ	قالوا	They will say	qālū
+3	37:29:2	w	بَل	ﱙ	بل	Nay	bal
+3	37:29:3	w	لَّمۡ	ﱚ	لم	not	lam
+3	37:29:4	w	تَكُونُواْ	ﱛ	تكونوا	you were	takūnū
+3	37:29:5	w	مُؤۡمِنِينَ	ﱜ	مومنين	believers	mu'minīna
+3	37:29:6	e	٢٩	ﱝ			
+3	37:30:1	w	وَمَا	ﱞ	وما	And not	wamā
+3	37:30:2	w	كَانَ	ﱟ	كان	was	kāna
+3	37:30:3	w	لَنَا	ﱠ	لنا	for us	lanā
+3	37:30:4	w	عَلَيۡكُم	ﱡ	عليكم	over you	ʿalaykum
+3	37:30:5	w	مِّن	ﱢ	من	any	min
+3	37:30:6	w	سُلۡطَٰنِۭۖ	ﱣﱤ	سلطان	authority	sul'ṭānin
+4	37:30:7	w	بَلۡ	ﱥ	بل	Nay	bal
+4	37:30:8	w	كُنتُمۡ	ﱦ	كنتم	you were	kuntum
+4	37:30:9	w	قَوۡمٗا	ﱧ	قوما	a people	qawman
+4	37:30:10	w	طَٰغِينَ	ﱨ	طاغين	transgressing	ṭāghīna
+4	37:30:11	e	٣٠	ﱩ			
+4	37:31:1	w	فَحَقَّ	ﱪ	فحق	So has been proved true	faḥaqqa
+4	37:31:2	w	عَلَيۡنَا	ﱫ	علينا	against us	ʿalaynā
+4	37:31:3	w	قَوۡلُ	ﱬ	قول	(the) Word	qawlu
+4	37:31:4	w	رَبِّنَآۖ	ﱭﱮ	ربنا	(of) our Lord	rabbinā
+4	37:31:5	w	إِنَّا	ﱯ	انا	indeed, we	innā
+4	37:31:6	w	لَذَآئِقُونَ	ﱰ	لذايقون	(will) certainly taste	ladhāiqūna
+4	37:31:7	e	٣١	ﱱ			
+5	37:32:1	w	فَأَغۡوَيۡنَٰكُمۡ	ﱲ	فاغويناكم	So we led you astray	fa-aghwaynākum
+5	37:32:2	w	إِنَّا	ﱳ	انا	indeed, we	innā
+5	37:32:3	w	كُنَّا	ﱴ	كنا	were	kunnā
+5	37:32:4	w	غَٰوِينَ	ﱵ	غاوين	astray	ghāwīna
+5	37:32:5	e	٣٢	ﱶ			
+5	37:33:1	w	فَإِنَّهُمۡ	ﱷ	فانهم	Then indeed, they	fa-innahum
+5	37:33:2	w	يَوۡمَئِذٖ	ﱸ	يوميذ	that Day	yawma-idhin
+5	37:33:3	w	فِي	ﱹ	في	in	fī
+5	37:33:4	w	ٱلۡعَذَابِ	ﱺ	العذاب	the punishment	l-ʿadhābi
+5	37:33:5	w	مُشۡتَرِكُونَ	ﱻ	مشتركون	(will be) sharers	mush'tarikūna
+6	37:33:6	e	٣٣	ﱼ			
+6	37:34:1	w	إِنَّا	ﱽ	انا	Indeed, We	innā
+6	37:34:2	w	كَذَٰلِكَ	ﱾ	كذالك	thus	kadhālika
+6	37:34:3	w	نَفۡعَلُ	ﱿ	نفعل	We deal	nafʿalu
+6	37:34:4	w	بِٱلۡمُجۡرِمِينَ	ﲀ	بالمجرمين	with the criminals	bil-muj'rimīna
+6	37:34:5	e	٣٤	ﲁ			
+6	37:35:1	w	إِنَّهُمۡ	ﲂ	انهم	Indeed, they	innahum
+6	37:35:2	w	كَانُوٓاْ	ﲃ	كانوا	were	kānū
+6	37:35:3	w	إِذَا	ﲄ	اذا	when	idhā
+6	37:35:4	w	قِيلَ	ﲅ	قيل	it was said	qīla
+6	37:35:5	w	لَهُمۡ	ﲆ	لهم	to them	lahum
+7	37:35:6	w	لَآ	ﲇ	لا	(There is) no	lā
+7	37:35:7	w	إِلَٰهَ	ﲈ	الاه	god	ilāha
+7	37:35:8	w	إِلَّا	ﲉ	الا	except	illā
+7	37:35:9	w	ٱللَّهُ	ﲊ	الله	Allah	l-lahu
+7	37:35:10	w	يَسۡتَكۡبِرُونَ	ﲋ	يستكبرون	were arrogant	yastakbirūna
+7	37:35:11	e	٣٥	ﲌ			
+7	37:36:1	w	وَيَقُولُونَ	ﲍ	ويقولون	And they say	wayaqūlūna
+7	37:36:2	w	أَئِنَّا	ﲎ	اينا	Are we	a-innā
+7	37:36:3	w	لَتَارِكُوٓاْ	ﲏ	لتاركو	to leave	latārikū
+7	37:36:4	w	ءَالِهَتِنَا	ﲐ	الهتنا	our gods	ālihatinā
+8	37:36:5	w	لِشَاعِرٖ	ﲑ	لشاعر	for a poet	lishāʿirin
+8	37:36:6	w	مَّجۡنُونِۭ	ﲒ	مجنون	mad	majnūnin
+8	37:36:7	e	٣٦	ﲓ			
+8	37:37:1	w	بَلۡ	ﲔ	بل	Nay	bal
+8	37:37:2	w	جَآءَ	ﲕ	جاء	he has brought	jāa
+8	37:37:3	w	بِٱلۡحَقِّ	ﲖ	بالحق	the truth	bil-ḥaqi
+8	37:37:4	w	وَصَدَّقَ	ﲗ	وصدق	and confirmed	waṣaddaqa
+8	37:37:5	w	ٱلۡمُرۡسَلِينَ	ﲘ	المرسلين	the Messengers	l-mur'salīna
+8	37:37:6	e	٣٧	ﲙ			
+8	37:38:1	w	إِنَّكُمۡ	ﲚ	انكم	Indeed, you	innakum
+9	37:38:2	w	لَذَآئِقُواْ	ﲛ	لذايقو	(will) surely taste	ladhāiqū
+9	37:38:3	w	ٱلۡعَذَابِ	ﲜ	العذاب	the punishment	l-ʿadhābi
+9	37:38:4	w	ٱلۡأَلِيمِ	ﲝ	الاليم	painful	l-alīmi
+9	37:38:5	e	٣٨	ﲞ			
+9	37:39:1	w	وَمَا	ﲟ	وما	And not	wamā
+9	37:39:2	w	تُجۡزَوۡنَ	ﲠ	تجزون	you will be recompensed	tuj'zawna
+9	37:39:3	w	إِلَّا	ﲡ	الا	except	illā
+9	37:39:4	w	مَا	ﲢ	ما	what	mā
+9	37:39:5	w	كُنتُمۡ	ﲣ	كنتم	you used to	kuntum
+9	37:39:6	w	تَعۡمَلُونَ	ﲤ	تعملون	do	taʿmalūna
+10	37:39:7	e	٣٩	ﲥ			
+10	37:40:1	w	إِلَّا	ﲦ	الا	Except	illā
+10	37:40:2	w	عِبَادَ	ﲧ	عباد	(the) slaves	ʿibāda
+10	37:40:3	w	ٱللَّهِ	ﲨ	الله	(of) Allah	l-lahi
+10	37:40:4	w	ٱلۡمُخۡلَصِينَ	ﲩ	المخلصين	the chosen ones	l-mukh'laṣīna
+10	37:40:5	e	٤٠	ﲪ			
+10	37:41:1	w	أُوْلَٰٓئِكَ	ﲫ	اولايك	Those	ulāika
+10	37:41:2	w	لَهُمۡ	ﲬ	لهم	for them	lahum
+10	37:41:3	w	رِزۡقٞ	ﲭ	رزق	(will be) a provision	riz'qun
+10	37:41:4	w	مَّعۡلُومٞ	ﲮ	معلوم	determined	maʿlūmun
+10	37:41:5	e	٤١	ﲯ			
+11	37:42:1	w	فَوَٰكِهُ	ﲰ	فواكه	Fruits	fawākihu
+11	37:42:2	w	وَهُم	ﲱ	وهم	and they	wahum
+11	37:42:3	w	مُّكۡرَمُونَ	ﲲ	مكرمون	(will) be honored	muk'ramūna
+11	37:42:4	e	٤٢	ﲳ			
+11	37:43:1	w	فِي	ﲴ	في	In	fī
+11	37:43:2	w	جَنَّٰتِ	ﲵ	جنات	Gardens	jannāti
+11	37:43:3	w	ٱلنَّعِيمِ	ﲶ	النعيم	(of) Delight	l-naʿīmi
+11	37:43:4	e	٤٣	ﲷ			
+11	37:44:1	w	عَلَىٰ	ﲸ	على	On	ʿalā
+11	37:44:2	w	سُرُرٖ	ﲹ	سرر	thrones	sururin
+11	37:44:3	w	مُّتَقَٰبِلِينَ	ﲺ	متقابلين	facing each other	mutaqābilīna
+12	37:44:4	e	٤٤	ﲻ			
+12	37:45:1	w	يُطَافُ	ﲼ	يطاف	Will be circulated	yuṭāfu
+12	37:45:2	w	عَلَيۡهِم	ﲽ	عليهم	among them	ʿalayhim
+12	37:45:3	w	بِكَأۡسٖ	ﲾ	بكاس	a cup	bikasin
+12	37:45:4	w	مِّن	ﲿ	من	from	min
+12	37:45:5	w	مَّعِينِۭ	ﳀ	معين	a flowing spring	maʿīnin
+12	37:45:6	e	٤٥	ﳁ			
+12	37:46:1	w	بَيۡضَآءَ	ﳂ	بيضاء	White	bayḍāa
+12	37:46:2	w	لَذَّةٖ	ﳃ	لذة	delicious	ladhatin
+12	37:46:3	w	لِّلشَّٰرِبِينَ	ﳄ	للشاربين	for the drinkers	lilshāribīna
+13	37:46:4	e	٤٦	ﳅ			
+13	37:47:1	w	لَا	ﳆ	لا	Not	lā
+13	37:47:2	w	فِيهَا	ﳇ	فيها	in it	fīhā
+13	37:47:3	w	غَوۡلٞ	ﳈ	غول	(is) bad effect	ghawlun
+13	37:47:4	w	وَلَا	ﳉ	ولا	and not	walā
+13	37:47:5	w	هُمۡ	ﳊ	هم	they	hum
+13	37:47:6	w	عَنۡهَا	ﳋ	عنها	from it	ʿanhā
+13	37:47:7	w	يُنزَفُونَ	ﳌ	ينزفون	will be intoxicated	yunzafūna
+13	37:47:8	e	٤٧	ﳍ			
+13	37:48:1	w	وَعِندَهُمۡ	ﳎ	وعندهم	And with them	waʿindahum
+13	37:48:2	w	قَٰصِرَٰتُ	ﳏ	قاصرات	(will be) companions of modest gaze	qāṣirātu
+14	37:48:3	w	ٱلطَّرۡفِ	ﳐ	الطرف	(will be) companions of modest gaze	l-ṭarfi
+14	37:48:4	w	عِينٞ	ﳑ	عين	(having) beautiful eyes	ʿīnun
+14	37:48:5	e	٤٨	ﳒ			
+14	37:49:1	w	كَأَنَّهُنَّ	ﳓ	كانهن	As if they were	ka-annahunna
+14	37:49:2	w	بَيۡضٞ	ﳔ	بيض	eggs	bayḍun
+14	37:49:3	w	مَّكۡنُونٞ	ﳕ	مكنون	well protected	maknūnun
+14	37:49:4	e	٤٩	ﳖ			
+14	37:50:1	w	فَأَقۡبَلَ	ﳗ	فاقبل	And (will) approach	fa-aqbala
+14	37:50:2	w	بَعۡضُهُمۡ	ﳘ	بعضهم	some of them	baʿḍuhum
+14	37:50:3	w	عَلَىٰ	ﳙ	على	to	ʿalā
+15	37:50:4	w	بَعۡضٖ	ﳚ	بعض	others	baʿḍin
+15	37:50:5	w	يَتَسَآءَلُونَ	ﳛ	يتساءلون	questioning one another	yatasāalūna
+15	37:50:6	e	٥٠	ﳜ			
+15	37:51:1	w	قَالَ	ﳝ	قال	Will say	qāla
+15	37:51:2	w	قَآئِلٞ	ﳞ	قايل	a speaker	qāilun
+15	37:51:3	w	مِّنۡهُمۡ	ﳟ	منهم	among them	min'hum
+15	37:51:4	w	إِنِّي	ﳠ	اني	Indeed, I	innī
+15	37:51:5	w	كَانَ	ﳡ	كان	had	kāna
+15	37:51:6	w	لِي	ﳢ	لي	for me	lī
+15	37:51:7	w	قَرِينٞ	ﳣ	قرين	a companion	qarīnun
+15	37:51:8	e	٥١	ﳤ			

@@ -1,0 +1,136 @@
+1	45:33:1	w	وَبَدَا	ﱁ	وبدا	And (will) appear	wabadā
+1	45:33:2	w	لَهُمۡ	ﱂ	لهم	to them	lahum
+1	45:33:3	w	سَيِّـَٔاتُ	ﱃ	سييات	(the) evil	sayyiātu
+1	45:33:4	w	مَا	ﱄ	ما	(of) what	mā
+1	45:33:5	w	عَمِلُواْ	ﱅ	عملوا	they did	ʿamilū
+1	45:33:6	w	وَحَاقَ	ﱆ	وحاق	and (will) envelop	waḥāqa
+1	45:33:7	w	بِهِم	ﱇ	بهم	them	bihim
+1	45:33:8	w	مَّا	ﱈ	ما	what	mā
+1	45:33:9	w	كَانُواْ	ﱉ	كانوا	they used	kānū
+1	45:33:10	w	بِهِۦ	ﱊ	به	[at it]	bihi
+1	45:33:11	w	يَسۡتَهۡزِءُونَ	ﱋ	يستهزيون	(to) mock	yastahziūna
+2	45:33:12	e	٣٣	ﱌ			
+2	45:34:1	w	وَقِيلَ	ﱍ	وقيل	And it will be said	waqīla
+2	45:34:2	w	ٱلۡيَوۡمَ	ﱎ	اليوم	Today	l-yawma
+2	45:34:3	w	نَنسَىٰكُمۡ	ﱏ	ننساكم	We forget you	nansākum
+2	45:34:4	w	كَمَا	ﱐ	كما	as	kamā
+2	45:34:5	w	نَسِيتُمۡ	ﱑ	نسيتم	you forgot	nasītum
+2	45:34:6	w	لِقَآءَ	ﱒ	لقاء	(the) meeting	liqāa
+2	45:34:7	w	يَوۡمِكُمۡ	ﱓ	يومكم	(of) this Day of yours	yawmikum
+2	45:34:8	w	هَٰذَا	ﱔ	هاذا	(of) this Day of yours	hādhā
+2	45:34:9	w	وَمَأۡوَىٰكُمُ	ﱕ	وماواكم	and your abode	wamawākumu
+2	45:34:10	w	ٱلنَّارُ	ﱖ	النار	(is) the Fire	l-nāru
+3	45:34:11	w	وَمَا	ﱗ	وما	and not	wamā
+3	45:34:12	w	لَكُم	ﱘ	لكم	for you	lakum
+3	45:34:13	w	مِّن	ﱙ	من	any	min
+3	45:34:14	w	نَّٰصِرِينَ	ﱚ	ناصرين	helpers	nāṣirīna
+3	45:34:15	e	٣٤	ﱛ			
+3	45:35:1	w	ذَٰلِكُم	ﱜ	ذالكم	That	dhālikum
+3	45:35:2	w	بِأَنَّكُمُ	ﱝ	بانكم	(is) because you	bi-annakumu
+3	45:35:3	w	ٱتَّخَذۡتُمۡ	ﱞ	اتخذتم	took	ittakhadhtum
+3	45:35:4	w	ءَايَٰتِ	ﱟ	ايات	(the) Verses	āyāti
+3	45:35:5	w	ٱللَّهِ	ﱠ	الله	(of) Allah	l-lahi
+3	45:35:6	w	هُزُوٗا	ﱡ	هزوا	(in) ridicule	huzuwan
+4	45:35:7	w	وَغَرَّتۡكُمُ	ﱢ	وغرتكم	and deceived you	wagharratkumu
+4	45:35:8	w	ٱلۡحَيَوٰةُ	ﱣ	الحياة	the life	l-ḥayatu
+4	45:35:9	w	ٱلدُّنۡيَاۚ	ﱤﱥ	الدنيا	(of) the world	l-dun'yā
+4	45:35:10	w	فَٱلۡيَوۡمَ	ﱦ	فاليوم	So this Day	fal-yawma
+4	45:35:11	w	لَا	ﱧ	لا	not	lā
+4	45:35:12	w	يُخۡرَجُونَ	ﱨ	يخرجون	they will be brought forth	yukh'rajūna
+4	45:35:13	w	مِنۡهَا	ﱩ	منها	from it	min'hā
+4	45:35:14	w	وَلَا	ﱪ	ولا	and not	walā
+4	45:35:15	w	هُمۡ	ﱫ	هم	they	hum
+4	45:35:16	w	يُسۡتَعۡتَبُونَ	ﱬ	يستعتبون	will be asked to appease	yus'taʿtabūna
+5	45:35:17	e	٣٥	ﱭ			
+5	45:36:1	w	فَلِلَّهِ	ﱮ	فلله	Then for Allah	falillahi
+5	45:36:2	w	ٱلۡحَمۡدُ	ﱯ	الحمد	(is) all the praise	l-ḥamdu
+5	45:36:3	w	رَبِّ	ﱰ	رب	(the) Lord	rabbi
+5	45:36:4	w	ٱلسَّمَٰوَٰتِ	ﱱ	السماوات	(of) the heavens	l-samāwāti
+5	45:36:5	w	وَرَبِّ	ﱲ	ورب	and (the) Lord	warabbi
+5	45:36:6	w	ٱلۡأَرۡضِ	ﱳ	الارض	(of) the earth	l-arḍi
+5	45:36:7	w	رَبِّ	ﱴ	رب	(the) lord	rabbi
+5	45:36:8	w	ٱلۡعَٰلَمِينَ	ﱵ	العالمين	(of) the worlds	l-ʿālamīna
+5	45:36:9	e	٣٦	ﱶ			
+6	45:37:1	w	وَلَهُ	ﱷ	وله	And for Him	walahu
+6	45:37:2	w	ٱلۡكِبۡرِيَآءُ	ﱸ	الكبرياء	(is) the greatness	l-kib'riyāu
+6	45:37:3	w	فِي	ﱹ	في	in	fī
+6	45:37:4	w	ٱلسَّمَٰوَٰتِ	ﱺ	السماوات	the heavens	l-samāwāti
+6	45:37:5	w	وَٱلۡأَرۡضِۖ	ﱻﱼ	والارض	and the earth	wal-arḍi
+6	45:37:6	w	وَهُوَ	ﱽ	وهو	and He	wahuwa
+6	45:37:7	w	ٱلۡعَزِيزُ	ﱾ	العزيز	(is) the All-Mighty	l-ʿazīzu
+6	45:37:8	w	ٱلۡحَكِيمُ	ﱿ	الحكيم	the All-Wise	l-ḥakīmu
+6	45:37:9	e	٣٧	ﲀ			
+9	46:1:1	w	حمٓ	ﲁ	حم	Ha Meem	hha-meem
+9	46:1:2	e	١	ﲂ			
+9	46:2:1	w	تَنزِيلُ	ﲃ	تنزيل	(The) revelation	tanzīlu
+9	46:2:2	w	ٱلۡكِتَٰبِ	ﲄ	الكتاب	(of) the Book	l-kitābi
+9	46:2:3	w	مِنَ	ﲅ	من	(is) from	mina
+9	46:2:4	w	ٱللَّهِ	ﲆ	الله	Allah	l-lahi
+9	46:2:5	w	ٱلۡعَزِيزِ	ﲇ	العزيز	the All-Mighty	l-ʿazīzi
+9	46:2:6	w	ٱلۡحَكِيمِ	ﲈ	الحكيم	the All-Wise	l-ḥakīmi
+9	46:2:7	e	٢	ﲉ			
+9	46:3:1	w	مَا	ﲊ	ما	Not	mā
+9	46:3:2	w	خَلَقۡنَا	ﲋ	خلقنا	We created	khalaqnā
+10	46:3:3	w	ٱلسَّمَٰوَٰتِ	ﲌ	السماوات	the heavens	l-samāwāti
+10	46:3:4	w	وَٱلۡأَرۡضَ	ﲍ	والارض	and the earth	wal-arḍa
+10	46:3:5	w	وَمَا	ﲎ	وما	and what	wamā
+10	46:3:6	w	بَيۡنَهُمَآ	ﲏ	بينهما	(is) between both of them	baynahumā
+10	46:3:7	w	إِلَّا	ﲐ	الا	except	illā
+10	46:3:8	w	بِٱلۡحَقِّ	ﲑ	بالحق	in truth	bil-ḥaqi
+10	46:3:9	w	وَأَجَلٖ	ﲒ	واجل	and (for) a term	wa-ajalin
+10	46:3:10	w	مُّسَمّٗىۚ	ﲓﲔ	مسمى	appointed	musamman
+10	46:3:11	w	وَٱلَّذِينَ	ﲕ	والذين	But those who	wa-alladhīna
+11	46:3:12	w	كَفَرُواْ	ﲖ	كفروا	disbelieve	kafarū
+11	46:3:13	w	عَمَّآ	ﲗ	عما	from what	ʿammā
+11	46:3:14	w	أُنذِرُواْ	ﲘ	انذروا	they are warned	undhirū
+11	46:3:15	w	مُعۡرِضُونَ	ﲙ	معرضون	(are) turning away	muʿ'riḍūna
+11	46:3:16	e	٣	ﲚ			
+11	46:4:1	w	قُلۡ	ﲛ	قل	Say	qul
+11	46:4:2	w	أَرَءَيۡتُم	ﲜ	ارايتم	Do you see	ara-aytum
+11	46:4:3	w	مَّا	ﲝ	ما	what	mā
+11	46:4:4	w	تَدۡعُونَ	ﲞ	تدعون	you call	tadʿūna
+11	46:4:5	w	مِن	ﲟ	من	besides	min
+12	46:4:6	w	دُونِ	ﲠ	دون	besides	dūni
+12	46:4:7	w	ٱللَّهِ	ﲡ	الله	Allah	l-lahi
+12	46:4:8	w	أَرُونِي	ﲢ	اروني	Show me	arūnī
+12	46:4:9	w	مَاذَا	ﲣ	ماذا	what	mādhā
+12	46:4:10	w	خَلَقُواْ	ﲤ	خلقوا	they have created	khalaqū
+12	46:4:11	w	مِنَ	ﲥ	من	of	mina
+12	46:4:12	w	ٱلۡأَرۡضِ	ﲦ	الارض	the earth	l-arḍi
+12	46:4:13	w	أَمۡ	ﲧ	ام	or	am
+12	46:4:14	w	لَهُمۡ	ﲨ	لهم	for them	lahum
+12	46:4:15	w	شِرۡكٞ	ﲩ	شرك	(is) any share	shir'kun
+12	46:4:16	w	فِي	ﲪ	في	in	fī
+13	46:4:17	w	ٱلسَّمَٰوَٰتِۖ	ﲫﲬ	السماوات	the heavens	l-samāwāti
+13	46:4:18	w	ٱئۡتُونِي	ﲭ	ايتوني	Bring me	i'tūnī
+13	46:4:19	w	بِكِتَٰبٖ	ﲮ	بكتاب	a book	bikitābin
+13	46:4:20	w	مِّن	ﲯ	من	from	min
+13	46:4:21	w	قَبۡلِ	ﲰ	قبل	before	qabli
+13	46:4:22	w	هَٰذَآ	ﲱ	هاذا	this	hādhā
+13	46:4:23	w	أَوۡ	ﲲ	او	or	aw
+13	46:4:24	w	أَثَٰرَةٖ	ﲳ	اثارة	a trace	athāratin
+13	46:4:25	w	مِّنۡ	ﲴ	من	of	min
+13	46:4:26	w	عِلۡمٍ	ﲵ	علم	knowledge	ʿil'min
+13	46:4:27	w	إِن	ﲶ	ان	if	in
+13	46:4:28	w	كُنتُمۡ	ﲷ	كنتم	you are	kuntum
+14	46:4:29	w	صَٰدِقِينَ	ﲸ	صادقين	truthful	ṣādiqīna
+14	46:4:30	e	٤	ﲹ			
+14	46:5:1	w	وَمَنۡ	ﲺ	ومن	And who	waman
+14	46:5:2	w	أَضَلُّ	ﲻ	اضل	(is) more astray	aḍallu
+14	46:5:3	w	مِمَّن	ﲼ	ممن	than (he) who	mimman
+14	46:5:4	w	يَدۡعُواْ	ﲽ	يدعو	calls	yadʿū
+14	46:5:5	w	مِن	ﲾ	من	besides	min
+14	46:5:6	w	دُونِ	ﲿ	دون	besides	dūni
+14	46:5:7	w	ٱللَّهِ	ﳀ	الله	Allah	l-lahi
+14	46:5:8	w	مَن	ﳁ	من	who	man
+15	46:5:9	w	لَّا	ﳂ	لا	will not respond	lā
+15	46:5:10	w	يَسۡتَجِيبُ	ﳃ	يستجيب	will not respond	yastajību
+15	46:5:11	w	لَهُۥٓ	ﳄ	له	to him	lahu
+15	46:5:12	w	إِلَىٰ	ﳅ	الى	until	ilā
+15	46:5:13	w	يَوۡمِ	ﳆ	يوم	(the) Day	yawmi
+15	46:5:14	w	ٱلۡقِيَٰمَةِ	ﳇ	القيامة	(of) Resurrection	l-qiyāmati
+15	46:5:15	w	وَهُمۡ	ﳈ	وهم	and they	wahum
+15	46:5:16	w	عَن	ﳉ	عن	of	ʿan
+15	46:5:17	w	دُعَآئِهِمۡ	ﳊ	دعايهم	their calls	duʿāihim
+15	46:5:18	w	غَٰفِلُونَ	ﳋ	غافلون	(are) unaware	ghāfilūna
+15	46:5:19	e	٥	ﳌ			

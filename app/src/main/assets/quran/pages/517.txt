@@ -1,0 +1,148 @@
+1	49:12:1	w	يَٰٓأَيُّهَا	ﱁ	يا ايها	O you who believe	yāayyuhā
+1	49:12:2	w	ٱلَّذِينَ	ﱂ	الذين	O you who believe	alladhīna
+1	49:12:3	w	ءَامَنُواْ	ﱃ	امنوا	O you who believe	āmanū
+1	49:12:4	w	ٱجۡتَنِبُواْ	ﱄ	اجتنبوا	Avoid	ij'tanibū
+1	49:12:5	w	كَثِيرٗا	ﱅ	كثيرا	much	kathīran
+1	49:12:6	w	مِّنَ	ﱆ	من	of	mina
+1	49:12:7	w	ٱلظَّنِّ	ﱇ	الظن	the assumption	l-ẓani
+1	49:12:8	w	إِنَّ	ﱈ	ان	Indeed	inna
+1	49:12:9	w	بَعۡضَ	ﱉ	بعض	some	baʿḍa
+1	49:12:10	w	ٱلظَّنِّ	ﱊ	الظن	assumption	l-ẓani
+2	49:12:11	w	إِثۡمٞۖ	ﱋﱌ	اثم	(is) sin	ith'mun
+2	49:12:12	w	وَلَا	ﱍ	ولا	And (do) not	walā
+2	49:12:13	w	تَجَسَّسُواْ	ﱎ	تجسسوا	spy	tajassasū
+2	49:12:14	w	وَلَا	ﱏ	ولا	and (do) not	walā
+2	49:12:15	w	يَغۡتَب	ﱐ	يغتب	backbite	yaghtab
+2	49:12:16	w	بَّعۡضُكُم	ﱑ	بعضكم	some of you	baʿḍukum
+2	49:12:17	w	بَعۡضًاۚ	ﱒﱓ	بعضا	(to) others	baʿḍan
+2	49:12:18	w	أَيُحِبُّ	ﱔ	ايحب	Would like	ayuḥibbu
+2	49:12:19	w	أَحَدُكُمۡ	ﱕ	احدكم	one of you	aḥadukum
+2	49:12:20	w	أَن	ﱖ	ان	to	an
+3	49:12:21	w	يَأۡكُلَ	ﱗ	ياكل	eat	yakula
+3	49:12:22	w	لَحۡمَ	ﱘ	لحم	(the) flesh	laḥma
+3	49:12:23	w	أَخِيهِ	ﱙ	اخيه	(of) his brother	akhīhi
+3	49:12:24	w	مَيۡتٗا	ﱚ	ميتا	dead	maytan
+3	49:12:25	w	فَكَرِهۡتُمُوهُۚ	ﱛﱜ	فكرهتموه	Nay, you would hate it	fakarih'tumūhu
+3	49:12:26	w	وَٱتَّقُواْ	ﱝ	واتقوا	And fear Allah	wa-ittaqū
+3	49:12:27	w	ٱللَّهَۚ	ﱞﱟ	الله	And fear Allah	l-laha
+3	49:12:28	w	إِنَّ	ﱠ	ان	indeed	inna
+3	49:12:29	w	ٱللَّهَ	ﱡ	الله	Allah	l-laha
+4	49:12:30	w	تَوَّابٞ	ﱢ	تواب	(is) Oft-Returning	tawwābun
+4	49:12:31	w	رَّحِيمٞ	ﱣ	رحيم	Most Merciful	raḥīmun
+4	49:12:32	e	١٢	ﱤ			
+4	49:13:1	w	يَٰٓأَيُّهَا	ﱥ	يا ايها	O mankind	yāayyuhā
+4	49:13:2	w	ٱلنَّاسُ	ﱦ	الناس	O mankind	l-nāsu
+4	49:13:3	w	إِنَّا	ﱧ	انا	Indeed, We	innā
+4	49:13:4	w	خَلَقۡنَٰكُم	ﱨ	خلقناكم	created you	khalaqnākum
+4	49:13:5	w	مِّن	ﱩ	من	from	min
+4	49:13:6	w	ذَكَرٖ	ﱪ	ذكر	a male	dhakarin
+4	49:13:7	w	وَأُنثَىٰ	ﱫ	وانثى	and a female	wa-unthā
+4	49:13:8	w	وَجَعَلۡنَٰكُمۡ	ﱬ	وجعلناكم	and We made you	wajaʿalnākum
+5	49:13:9	w	شُعُوبٗا	ﱭ	شعوبا	nations	shuʿūban
+5	49:13:10	w	وَقَبَآئِلَ	ﱮ	وقبايل	and tribes	waqabāila
+5	49:13:11	w	لِتَعَارَفُوٓاْۚ	ﱯﱰ	لتعارفوا	that you may know one another	litaʿārafū
+5	49:13:12	w	إِنَّ	ﱱ	ان	Indeed	inna
+5	49:13:13	w	أَكۡرَمَكُمۡ	ﱲ	اكرمكم	(the) most noble of you	akramakum
+5	49:13:14	w	عِندَ	ﱳ	عند	near	ʿinda
+5	49:13:15	w	ٱللَّهِ	ﱴ	الله	Allah	l-lahi
+5	49:13:16	w	أَتۡقَىٰكُمۡۚ	ﱵﱶ	اتقاكم	(is the) most righteous of you	atqākum
+5	49:13:17	w	إِنَّ	ﱷ	ان	Indeed	inna
+5	49:13:18	w	ٱللَّهَ	ﱸ	الله	Allah	l-laha
+6	49:13:19	w	عَلِيمٌ	ﱹ	عليم	(is) All-Knower	ʿalīmun
+6	49:13:20	w	خَبِيرٞ	ﱺ	خبير	All-Aware	khabīrun
+6	49:13:21	e	١٣	ﱻ			
+6	49:14:1	w	۞ قَالَتِ	ﱼ ﱽ	۞ قالت	Say	qālati
+6	49:14:2	w	ٱلۡأَعۡرَابُ	ﱾ	الاعراب	the Bedouins	l-aʿrābu
+6	49:14:3	w	ءَامَنَّاۖ	ﱿﲀ	امنا	We believe	āmannā
+6	49:14:4	w	قُل	ﲁ	قل	Say	qul
+6	49:14:5	w	لَّمۡ	ﲂ	لم	Not	lam
+6	49:14:6	w	تُؤۡمِنُواْ	ﲃ	تومنوا	you believe	tu'minū
+6	49:14:7	w	وَلَٰكِن	ﲄ	ولاكن	but	walākin
+7	49:14:8	w	قُولُوٓاْ	ﲅ	قولوا	say	qūlū
+7	49:14:9	w	أَسۡلَمۡنَا	ﲆ	اسلمنا	We have submitted	aslamnā
+7	49:14:10	w	وَلَمَّا	ﲇ	ولما	and has not yet	walammā
+7	49:14:11	w	يَدۡخُلِ	ﲈ	يدخل	entered	yadkhuli
+7	49:14:12	w	ٱلۡإِيمَٰنُ	ﲉ	الايمان	the faith	l-īmānu
+7	49:14:13	w	فِي	ﲊ	في	in	fī
+7	49:14:14	w	قُلُوبِكُمۡۖ	ﲋﲌ	قلوبكم	your hearts	qulūbikum
+7	49:14:15	w	وَإِن	ﲍ	وان	But if	wa-in
+7	49:14:16	w	تُطِيعُواْ	ﲎ	تطيعوا	you obey	tuṭīʿū
+7	49:14:17	w	ٱللَّهَ	ﲏ	الله	Allah	l-laha
+8	49:14:18	w	وَرَسُولَهُۥ	ﲐ	ورسوله	and His Messenger	warasūlahu
+8	49:14:19	w	لَا	ﲑ	لا	not	lā
+8	49:14:20	w	يَلِتۡكُم	ﲒ	يلتكم	He will deprive you	yalit'kum
+8	49:14:21	w	مِّنۡ	ﲓ	من	of	min
+8	49:14:22	w	أَعۡمَٰلِكُمۡ	ﲔ	اعمالكم	your deeds	aʿmālikum
+8	49:14:23	w	شَيۡـًٔاۚ	ﲕﲖ	شييا	anything	shayan
+8	49:14:24	w	إِنَّ	ﲗ	ان	Indeed	inna
+8	49:14:25	w	ٱللَّهَ	ﲘ	الله	Allah	l-laha
+8	49:14:26	w	غَفُورٞ	ﲙ	غفور	(is) Oft-Forgiving	ghafūrun
+8	49:14:27	w	رَّحِيمٌ	ﲚ	رحيم	Most Merciful	raḥīmun
+8	49:14:28	e	١٤	ﲛ			
+9	49:15:1	w	إِنَّمَا	ﲜ	انما	Only	innamā
+9	49:15:2	w	ٱلۡمُؤۡمِنُونَ	ﲝ	المومنون	the believers	l-mu'minūna
+9	49:15:3	w	ٱلَّذِينَ	ﲞ	الذين	(are) those who	alladhīna
+9	49:15:4	w	ءَامَنُواْ	ﲟ	امنوا	believe	āmanū
+9	49:15:5	w	بِٱللَّهِ	ﲠ	بالله	in Allah	bil-lahi
+9	49:15:6	w	وَرَسُولِهِۦ	ﲡ	ورسوله	and His Messenger	warasūlihi
+9	49:15:7	w	ثُمَّ	ﲢ	ثم	then	thumma
+9	49:15:8	w	لَمۡ	ﲣ	لم	(do) not	lam
+9	49:15:9	w	يَرۡتَابُواْ	ﲤ	يرتابوا	doubt	yartābū
+10	49:15:10	w	وَجَٰهَدُواْ	ﲥ	وجاهدوا	but strive	wajāhadū
+10	49:15:11	w	بِأَمۡوَٰلِهِمۡ	ﲦ	باموالهم	with their wealth	bi-amwālihim
+10	49:15:12	w	وَأَنفُسِهِمۡ	ﲧ	وانفسهم	and their lives	wa-anfusihim
+10	49:15:13	w	فِي	ﲨ	في	in	fī
+10	49:15:14	w	سَبِيلِ	ﲩ	سبيل	(the) way	sabīli
+10	49:15:15	w	ٱللَّهِۚ	ﲪﲫ	الله	(of) Allah	l-lahi
+10	49:15:16	w	أُوْلَٰٓئِكَ	ﲬ	اولايك	Those	ulāika
+10	49:15:17	w	هُمُ	ﲭ	هم	[they]	humu
+11	49:15:18	w	ٱلصَّٰدِقُونَ	ﲮ	الصادقون	(are) the truthful	l-ṣādiqūna
+11	49:15:19	e	١٥	ﲯ			
+11	49:16:1	w	قُلۡ	ﲰ	قل	Say	qul
+11	49:16:2	w	أَتُعَلِّمُونَ	ﲱ	اتعلمون	Will you acquaint	atuʿallimūna
+11	49:16:3	w	ٱللَّهَ	ﲲ	الله	Allah	l-laha
+11	49:16:4	w	بِدِينِكُمۡ	ﲳ	بدينكم	with your religion	bidīnikum
+11	49:16:5	w	وَٱللَّهُ	ﲴ	والله	while Allah	wal-lahu
+11	49:16:6	w	يَعۡلَمُ	ﲵ	يعلم	knows	yaʿlamu
+11	49:16:7	w	مَا	ﲶ	ما	what	mā
+11	49:16:8	w	فِي	ﲷ	في	(is) in	fī
+12	49:16:9	w	ٱلسَّمَٰوَٰتِ	ﲸ	السماوات	the heavens	l-samāwāti
+12	49:16:10	w	وَمَا	ﲹ	وما	and what	wamā
+12	49:16:11	w	فِي	ﲺ	في	(is) in	fī
+12	49:16:12	w	ٱلۡأَرۡضِۚ	ﲻﲼ	الارض	the earth	l-arḍi
+12	49:16:13	w	وَٱللَّهُ	ﲽ	والله	And Allah	wal-lahu
+12	49:16:14	w	بِكُلِّ	ﲾ	بكل	of every	bikulli
+12	49:16:15	w	شَيۡءٍ	ﲿ	شيء	thing	shayin
+12	49:16:16	w	عَلِيمٞ	ﳀ	عليم	(is) All-Knower	ʿalīmun
+12	49:16:17	e	١٦	ﳁ			
+12	49:17:1	w	يَمُنُّونَ	ﳂ	يمنون	They consider (it) a favor	yamunnūna
+13	49:17:2	w	عَلَيۡكَ	ﳃ	عليك	to you	ʿalayka
+13	49:17:3	w	أَنۡ	ﳄ	ان	that	an
+13	49:17:4	w	أَسۡلَمُواْۖ	ﳅﳆ	اسلموا	they have accepted Islam	aslamū
+13	49:17:5	w	قُل	ﳇ	قل	Say	qul
+13	49:17:6	w	لَّا	ﳈ	لا	(Do) not	lā
+13	49:17:7	w	تَمُنُّواْ	ﳉ	تمنوا	consider a favor	tamunnū
+13	49:17:8	w	عَلَيَّ	ﳊ	علي	on me	ʿalayya
+13	49:17:9	w	إِسۡلَٰمَكُمۖ	ﳋﳌ	اسلامكم	your Islam	is'lāmakum
+13	49:17:10	w	بَلِ	ﳍ	بل	Nay	bali
+13	49:17:11	w	ٱللَّهُ	ﳎ	الله	Allah	l-lahu
+13	49:17:12	w	يَمُنُّ	ﳏ	يمن	has conferred a favor	yamunnu
+14	49:17:13	w	عَلَيۡكُمۡ	ﳐ	عليكم	upon you	ʿalaykum
+14	49:17:14	w	أَنۡ	ﳑ	ان	that	an
+14	49:17:15	w	هَدَىٰكُمۡ	ﳒ	هداكم	He has guided you	hadākum
+14	49:17:16	w	لِلۡإِيمَٰنِ	ﳓ	للايمان	to the faith	lil'īmāni
+14	49:17:17	w	إِن	ﳔ	ان	if	in
+14	49:17:18	w	كُنتُمۡ	ﳕ	كنتم	you are	kuntum
+14	49:17:19	w	صَٰدِقِينَ	ﳖ	صادقين	truthful	ṣādiqīna
+14	49:17:20	e	١٧	ﳗ			
+14	49:18:1	w	إِنَّ	ﳘ	ان	Indeed	inna
+14	49:18:2	w	ٱللَّهَ	ﳙ	الله	Allah	l-laha
+14	49:18:3	w	يَعۡلَمُ	ﳚ	يعلم	knows	yaʿlamu
+15	49:18:4	w	غَيۡبَ	ﳛ	غيب	(the) unseen	ghayba
+15	49:18:5	w	ٱلسَّمَٰوَٰتِ	ﳜ	السماوات	(of) the heavens	l-samāwāti
+15	49:18:6	w	وَٱلۡأَرۡضِۚ	ﳝﳞ	والارض	and the earth	wal-arḍi
+15	49:18:7	w	وَٱللَّهُ	ﳟ	والله	And Allah	wal-lahu
+15	49:18:8	w	بَصِيرُۢ	ﳠ	بصير	(is) All-Seer	baṣīrun
+15	49:18:9	w	بِمَا	ﳡ	بما	of what	bimā
+15	49:18:10	w	تَعۡمَلُونَ	ﳢ	تعملون	you do	taʿmalūna
+15	49:18:11	e	١٨	ﳣ			

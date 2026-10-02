@@ -1,0 +1,157 @@
+1	54:28:1	w	وَنَبِّئۡهُمۡ	ﱁ	ونبيهم	And inform them	wanabbi'hum
+1	54:28:2	w	أَنَّ	ﱂ	ان	that	anna
+1	54:28:3	w	ٱلۡمَآءَ	ﱃ	الماء	the water	l-māa
+1	54:28:4	w	قِسۡمَةُۢ	ﱄ	قسمة	(is) to be shared	qis'matun
+1	54:28:5	w	بَيۡنَهُمۡۖ	ﱅﱆ	بينهم	between them	baynahum
+1	54:28:6	w	كُلُّ	ﱇ	كل	each	kullu
+1	54:28:7	w	شِرۡبٖ	ﱈ	شرب	drink	shir'bin
+1	54:28:8	w	مُّحۡتَضَرٞ	ﱉ	محتضر	attended	muḥ'taḍarun
+1	54:28:9	e	٢٨	ﱊ			
+1	54:29:1	w	فَنَادَوۡاْ	ﱋ	فنادوا	But they called	fanādaw
+1	54:29:2	w	صَاحِبَهُمۡ	ﱌ	صاحبهم	their companion	ṣāḥibahum
+2	54:29:3	w	فَتَعَاطَىٰ	ﱍ	فتعاطى	and he took	fataʿāṭā
+2	54:29:4	w	فَعَقَرَ	ﱎ	فعقر	and hamstrung	faʿaqara
+2	54:29:5	e	٢٩	ﱏ			
+2	54:30:1	w	فَكَيۡفَ	ﱐ	فكيف	So how	fakayfa
+2	54:30:2	w	كَانَ	ﱑ	كان	was	kāna
+2	54:30:3	w	عَذَابِي	ﱒ	عذابي	My punishment	ʿadhābī
+2	54:30:4	w	وَنُذُرِ	ﱓ	ونذر	and My warnings	wanudhuri
+2	54:30:5	e	٣٠	ﱔ			
+2	54:31:1	w	إِنَّآ	ﱕ	انا	Indeed, We	innā
+2	54:31:2	w	أَرۡسَلۡنَا	ﱖ	ارسلنا	[We] sent	arsalnā
+2	54:31:3	w	عَلَيۡهِمۡ	ﱗ	عليهم	upon them	ʿalayhim
+3	54:31:4	w	صَيۡحَةٗ	ﱘ	صيحة	thunderous blast	ṣayḥatan
+3	54:31:5	w	وَٰحِدَةٗ	ﱙ	واحدة	single	wāḥidatan
+3	54:31:6	w	فَكَانُواْ	ﱚ	فكانوا	and they became	fakānū
+3	54:31:7	w	كَهَشِيمِ	ﱛ	كهشيم	like dry twig fragments	kahashīmi
+3	54:31:8	w	ٱلۡمُحۡتَظِرِ	ﱜ	المحتظر	(used by) a fence builder	l-muḥ'taẓiri
+3	54:31:9	e	٣١	ﱝ			
+3	54:32:1	w	وَلَقَدۡ	ﱞ	ولقد	And certainly	walaqad
+3	54:32:2	w	يَسَّرۡنَا	ﱟ	يسرنا	We have made easy	yassarnā
+3	54:32:3	w	ٱلۡقُرۡءَانَ	ﱠ	القران	the Quran	l-qur'āna
+4	54:32:4	w	لِلذِّكۡرِ	ﱡ	للذكر	for remembrance	lildhik'ri
+4	54:32:5	w	فَهَلۡ	ﱢ	فهل	so is (there)	fahal
+4	54:32:6	w	مِن	ﱣ	من	any	min
+4	54:32:7	w	مُّدَّكِرٖ	ﱤ	مدكر	who will receive admonition	muddakirin
+4	54:32:8	e	٣٢	ﱥ			
+4	54:33:1	w	كَذَّبَتۡ	ﱦ	كذبت	Denied	kadhabat
+4	54:33:2	w	قَوۡمُ	ﱧ	قوم	(the) people	qawmu
+4	54:33:3	w	لُوطِۭ	ﱨ	لوط	(of) Lut	lūṭin
+4	54:33:4	w	بِٱلنُّذُرِ	ﱩ	بالنذر	the warnings	bil-nudhuri
+4	54:33:5	e	٣٣	ﱪ			
+4	54:34:1	w	إِنَّآ	ﱫ	انا	Indeed, We	innā
+4	54:34:2	w	أَرۡسَلۡنَا	ﱬ	ارسلنا	[We] sent	arsalnā
+5	54:34:3	w	عَلَيۡهِمۡ	ﱭ	عليهم	upon them	ʿalayhim
+5	54:34:4	w	حَاصِبًا	ﱮ	حاصبا	a storm of stones	ḥāṣiban
+5	54:34:5	w	إِلَّآ	ﱯ	الا	except	illā
+5	54:34:6	w	ءَالَ	ﱰ	ال	(the) family	āla
+5	54:34:7	w	لُوطٖۖ	ﱱﱲ	لوط	(of) Lut	lūṭin
+5	54:34:8	w	نَّجَّيۡنَٰهُم	ﱳ	نجيناهم	We saved them	najjaynāhum
+5	54:34:9	w	بِسَحَرٖ	ﱴ	بسحر	by dawn	bisaḥarin
+5	54:34:10	e	٣٤	ﱵ			
+5	54:35:1	w	نِّعۡمَةٗ	ﱶ	نعمة	(As) a favor	niʿ'matan
+5	54:35:2	w	مِّنۡ	ﱷ	من	from	min
+5	54:35:3	w	عِندِنَاۚ	ﱸﱹ	عندنا	Us	ʿindinā
+6	54:35:4	w	كَذَٰلِكَ	ﱺ	كذالك	Thus	kadhālika
+6	54:35:5	w	نَجۡزِي	ﱻ	نجزي	We reward	najzī
+6	54:35:6	w	مَن	ﱼ	من	(one) who	man
+6	54:35:7	w	شَكَرَ	ﱽ	شكر	(is) grateful	shakara
+6	54:35:8	e	٣٥	ﱾ			
+6	54:36:1	w	وَلَقَدۡ	ﱿ	ولقد	And certainly	walaqad
+6	54:36:2	w	أَنذَرَهُم	ﲀ	انذرهم	he warned them	andharahum
+6	54:36:3	w	بَطۡشَتَنَا	ﲁ	بطشتنا	(of) Our seizure	baṭshatanā
+6	54:36:4	w	فَتَمَارَوۡاْ	ﲂ	فتماروا	but they disputed	fatamāraw
+6	54:36:5	w	بِٱلنُّذُرِ	ﲃ	بالنذر	the warnings	bil-nudhuri
+7	54:36:6	e	٣٦	ﲄ			
+7	54:37:1	w	وَلَقَدۡ	ﲅ	ولقد	And certainly	walaqad
+7	54:37:2	w	رَٰوَدُوهُ	ﲆ	راودوه	they demanded from him	rāwadūhu
+7	54:37:3	w	عَن	ﲇ	عن	they demanded from him	ʿan
+7	54:37:4	w	ضَيۡفِهِۦ	ﲈ	ضيفه	his guests	ḍayfihi
+7	54:37:5	w	فَطَمَسۡنَآ	ﲉ	فطمسنا	so We blinded	faṭamasnā
+7	54:37:6	w	أَعۡيُنَهُمۡ	ﲊ	اعينهم	their eyes	aʿyunahum
+7	54:37:7	w	فَذُوقُواْ	ﲋ	فذوقوا	So taste	fadhūqū
+7	54:37:8	w	عَذَابِي	ﲌ	عذابي	My punishment	ʿadhābī
+8	54:37:9	w	وَنُذُرِ	ﲍ	ونذر	and My warnings	wanudhuri
+8	54:37:10	e	٣٧	ﲎ			
+8	54:38:1	w	وَلَقَدۡ	ﲏ	ولقد	And certainly	walaqad
+8	54:38:2	w	صَبَّحَهُم	ﲐ	صبحهم	seized them in the morning	ṣabbaḥahum
+8	54:38:3	w	بُكۡرَةً	ﲑ	بكرة	early	buk'ratan
+8	54:38:4	w	عَذَابٞ	ﲒ	عذاب	a punishment	ʿadhābun
+8	54:38:5	w	مُّسۡتَقِرّٞ	ﲓ	مستقر	abiding	mus'taqirrun
+8	54:38:6	e	٣٨	ﲔ			
+8	54:39:1	w	فَذُوقُواْ	ﲕ	فذوقوا	So taste	fadhūqū
+9	54:39:2	w	عَذَابِي	ﲖ	عذابي	My punishment	ʿadhābī
+9	54:39:3	w	وَنُذُرِ	ﲗ	ونذر	and My warnings	wanudhuri
+9	54:39:4	e	٣٩	ﲘ			
+9	54:40:1	w	وَلَقَدۡ	ﲙ	ولقد	And certainly	walaqad
+9	54:40:2	w	يَسَّرۡنَا	ﲚ	يسرنا	We have made easy	yassarnā
+9	54:40:3	w	ٱلۡقُرۡءَانَ	ﲛ	القران	the Quran	l-qur'āna
+9	54:40:4	w	لِلذِّكۡرِ	ﲜ	للذكر	for remembrance	lildhik'ri
+9	54:40:5	w	فَهَلۡ	ﲝ	فهل	so is (there)	fahal
+9	54:40:6	w	مِن	ﲞ	من	any	min
+9	54:40:7	w	مُّدَّكِرٖ	ﲟ	مدكر	who will receive admonition	muddakirin
+9	54:40:8	e	٤٠	ﲠ			
+10	54:41:1	w	وَلَقَدۡ	ﲡ	ولقد	And certainly	walaqad
+10	54:41:2	w	جَآءَ	ﲢ	جاء	came	jāa
+10	54:41:3	w	ءَالَ	ﲣ	ال	(to the) people	āla
+10	54:41:4	w	فِرۡعَوۡنَ	ﲤ	فرعون	(of) Firaun	fir'ʿawna
+10	54:41:5	w	ٱلنُّذُرُ	ﲥ	النذر	warnings	l-nudhuru
+10	54:41:6	e	٤١	ﲦ			
+10	54:42:1	w	كَذَّبُواْ	ﲧ	كذبوا	They denied	kadhabū
+10	54:42:2	w	بِـَٔايَٰتِنَا	ﲨ	باياتنا	Our Signs	biāyātinā
+10	54:42:3	w	كُلِّهَا	ﲩ	كلها	all of them	kullihā
+10	54:42:4	w	فَأَخَذۡنَٰهُمۡ	ﲪ	فاخذناهم	so We seized them	fa-akhadhnāhum
+11	54:42:5	w	أَخۡذَ	ﲫ	اخذ	(with) a seizure	akhdha
+11	54:42:6	w	عَزِيزٖ	ﲬ	عزيز	(of) All-Mighty	ʿazīzin
+11	54:42:7	w	مُّقۡتَدِرٍ	ﲭ	مقتدر	(the) Powerful One	muq'tadirin
+11	54:42:8	e	٤٢	ﲮ			
+11	54:43:1	w	أَكُفَّارُكُمۡ	ﲯ	اكفاركم	Are your disbelievers	akuffārukum
+11	54:43:2	w	خَيۡرٞ	ﲰ	خير	better	khayrun
+11	54:43:3	w	مِّنۡ	ﲱ	من	than	min
+11	54:43:4	w	أُوْلَٰٓئِكُمۡ	ﲲ	اولايكم	those	ulāikum
+11	54:43:5	w	أَمۡ	ﲳ	ام	or	am
+11	54:43:6	w	لَكُم	ﲴ	لكم	for you	lakum
+11	54:43:7	w	بَرَآءَةٞ	ﲵ	براءة	(is) an exemption	barāatun
+12	54:43:8	w	فِي	ﲶ	في	in	fī
+12	54:43:9	w	ٱلزُّبُرِ	ﲷ	الزبر	the Scriptures	l-zuburi
+12	54:43:10	e	٤٣	ﲸ			
+12	54:44:1	w	أَمۡ	ﲹ	ام	Or	am
+12	54:44:2	w	يَقُولُونَ	ﲺ	يقولون	(do) they say	yaqūlūna
+12	54:44:3	w	نَحۡنُ	ﲻ	نحن	We	naḥnu
+12	54:44:4	w	جَمِيعٞ	ﲼ	جميع	(are) an assembly	jamīʿun
+12	54:44:5	w	مُّنتَصِرٞ	ﲽ	منتصر	helping (each other)	muntaṣirun
+12	54:44:6	e	٤٤	ﲾ			
+12	54:45:1	w	سَيُهۡزَمُ	ﲿ	سيهزم	Soon will be defeated	sayuh'zamu
+12	54:45:2	w	ٱلۡجَمۡعُ	ﳀ	الجمع	(their) assembly	l-jamʿu
+13	54:45:3	w	وَيُوَلُّونَ	ﳁ	ويولون	and they will turn	wayuwallūna
+13	54:45:4	w	ٱلدُّبُرَ	ﳂ	الدبر	(their) backs	l-dubura
+13	54:45:5	e	٤٥	ﳃ			
+13	54:46:1	w	بَلِ	ﳄ	بل	Nay	bali
+13	54:46:2	w	ٱلسَّاعَةُ	ﳅ	الساعة	the Hour	l-sāʿatu
+13	54:46:3	w	مَوۡعِدُهُمۡ	ﳆ	موعدهم	(is) their promised time	mawʿiduhum
+13	54:46:4	w	وَٱلسَّاعَةُ	ﳇ	والساعة	and the Hour	wal-sāʿatu
+13	54:46:5	w	أَدۡهَىٰ	ﳈ	ادهى	(will be) more grievous	adhā
+13	54:46:6	w	وَأَمَرُّ	ﳉ	وامر	and more bitter	wa-amarru
+13	54:46:7	e	٤٦	ﳊ			
+14	54:47:1	w	إِنَّ	ﳋ	ان	Indeed	inna
+14	54:47:2	w	ٱلۡمُجۡرِمِينَ	ﳌ	المجرمين	the criminals	l-muj'rimīna
+14	54:47:3	w	فِي	ﳍ	في	(are) in	fī
+14	54:47:4	w	ضَلَٰلٖ	ﳎ	ضلال	an error	ḍalālin
+14	54:47:5	w	وَسُعُرٖ	ﳏ	وسعر	and madness	wasuʿurin
+14	54:47:6	e	٤٧	ﳐ			
+14	54:48:1	w	يَوۡمَ	ﳑ	يوم	(The) Day	yawma
+14	54:48:2	w	يُسۡحَبُونَ	ﳒ	يسحبون	they will be dragged	yus'ḥabūna
+14	54:48:3	w	فِي	ﳓ	في	into	fī
+14	54:48:4	w	ٱلنَّارِ	ﳔ	النار	the Fire	l-nāri
+14	54:48:5	w	عَلَىٰ	ﳕ	على	on	ʿalā
+15	54:48:6	w	وُجُوهِهِمۡ	ﳖ	وجوههم	their faces	wujūhihim
+15	54:48:7	w	ذُوقُواْ	ﳗ	ذوقوا	Taste	dhūqū
+15	54:48:8	w	مَسَّ	ﳘ	مس	(the) touch	massa
+15	54:48:9	w	سَقَرَ	ﳙ	سقر	(of) Hell	saqara
+15	54:48:10	e	٤٨	ﳚ			
+15	54:49:1	w	إِنَّا	ﳛ	انا	Indeed, [We]	innā
+15	54:49:2	w	كُلَّ	ﳜ	كل	every	kulla
+15	54:49:3	w	شَيۡءٍ	ﳝ	شيء	thing	shayin
+15	54:49:4	w	خَلَقۡنَٰهُ	ﳞ	خلقناه	We created it	khalaqnāhu
+15	54:49:5	w	بِقَدَرٖ	ﳟ	بقدر	by a measure	biqadarin
+15	54:49:6	e	٤٩	ﳠ			

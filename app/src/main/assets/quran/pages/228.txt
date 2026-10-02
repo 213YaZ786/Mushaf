@@ -1,0 +1,162 @@
+1	11:54:1	w	إِن	ﱁ	ان	Not	in
+1	11:54:2	w	نَّقُولُ	ﱂ	نقول	we say	naqūlu
+1	11:54:3	w	إِلَّا	ﱃ	الا	except (that)	illā
+1	11:54:4	w	ٱعۡتَرَىٰكَ	ﱄ	اعتراك	have seized you	iʿ'tarāka
+1	11:54:5	w	بَعۡضُ	ﱅ	بعض	some	baʿḍu
+1	11:54:6	w	ءَالِهَتِنَا	ﱆ	الهتنا	(of) our gods	ālihatinā
+1	11:54:7	w	بِسُوٓءٖۗ	ﱇﱈ	بسوء	with evil	bisūin
+1	11:54:8	w	قَالَ	ﱉ	قال	He said	qāla
+1	11:54:9	w	إِنِّيٓ	ﱊ	اني	Indeed, I	innī
+1	11:54:10	w	أُشۡهِدُ	ﱋ	اشهد	[I] call Allah to witness	ush'hidu
+1	11:54:11	w	ٱللَّهَ	ﱌ	الله	[I] call Allah to witness	l-laha
+2	11:54:12	w	وَٱشۡهَدُوٓاْ	ﱍ	واشهدوا	and (you) bear witness	wa-ish'hadū
+2	11:54:13	w	أَنِّي	ﱎ	اني	that I am	annī
+2	11:54:14	w	بَرِيٓءٞ	ﱏ	بريء	innocent	barīon
+2	11:54:15	w	مِّمَّا	ﱐ	مما	of what	mimmā
+2	11:54:16	w	تُشۡرِكُونَ	ﱑ	تشركون	you associate	tush'rikūna
+2	11:54:17	e	٥٤	ﱒ			
+2	11:55:1	w	مِن	ﱓ	من	Other than Him	min
+2	11:55:2	w	دُونِهِۦۖ	ﱔﱕ	دونه	Other than Him	dūnihi
+2	11:55:3	w	فَكِيدُونِي	ﱖ	فكيدوني	So plot against me	fakīdūnī
+3	11:55:4	w	جَمِيعٗا	ﱗ	جميعا	all together	jamīʿan
+3	11:55:5	w	ثُمَّ	ﱘ	ثم	then	thumma
+3	11:55:6	w	لَا	ﱙ	لا	(do) not	lā
+3	11:55:7	w	تُنظِرُونِ	ﱚ	تنظرون	give me respite	tunẓirūni
+3	11:55:8	e	٥٥	ﱛ			
+3	11:56:1	w	إِنِّي	ﱜ	اني	Indeed, I	innī
+3	11:56:2	w	تَوَكَّلۡتُ	ﱝ	توكلت	[I] put my trust	tawakkaltu
+3	11:56:3	w	عَلَى	ﱞ	على	upon	ʿalā
+3	11:56:4	w	ٱللَّهِ	ﱟ	الله	Allah	l-lahi
+3	11:56:5	w	رَبِّي	ﱠ	ربي	my Lord	rabbī
+3	11:56:6	w	وَرَبِّكُمۚ	ﱡﱢ	وربكم	and your Lord	warabbikum
+4	11:56:7	w	مَّا	ﱣ	ما	(There is) not	mā
+4	11:56:8	w	مِن	ﱤ	من	of a moving creature	min
+4	11:56:9	w	دَآبَّةٍ	ﱥ	دابة	of a moving creature	dābbatin
+4	11:56:10	w	إِلَّا	ﱦ	الا	but	illā
+4	11:56:11	w	هُوَ	ﱧ	هو	He	huwa
+4	11:56:12	w	ءَاخِذُۢ	ﱨ	اخذ	has grasp	ākhidhun
+4	11:56:13	w	بِنَاصِيَتِهَآۚ	ﱩﱪ	بناصيتها	of its forelock	bināṣiyatihā
+4	11:56:14	w	إِنَّ	ﱫ	ان	Indeed	inna
+4	11:56:15	w	رَبِّي	ﱬ	ربي	my Lord	rabbī
+4	11:56:16	w	عَلَىٰ	ﱭ	على	(is) on	ʿalā
+4	11:56:17	w	صِرَٰطٖ	ﱮ	صراط	a path	ṣirāṭin
+4	11:56:18	w	مُّسۡتَقِيمٖ	ﱯ	مستقيم	straight	mus'taqīmin
+5	11:56:19	e	٥٦	ﱰ			
+5	11:57:1	w	فَإِن	ﱱ	فان	So if	fa-in
+5	11:57:2	w	تَوَلَّوۡاْ	ﱲ	تولوا	you turn away	tawallaw
+5	11:57:3	w	فَقَدۡ	ﱳ	فقد	then verily	faqad
+5	11:57:4	w	أَبۡلَغۡتُكُم	ﱴ	ابلغتكم	I have conveyed to you	ablaghtukum
+5	11:57:5	w	مَّآ	ﱵ	ما	what	mā
+5	11:57:6	w	أُرۡسِلۡتُ	ﱶ	ارسلت	I was sent	ur'sil'tu
+5	11:57:7	w	بِهِۦٓ	ﱷ	به	with [it]	bihi
+5	11:57:8	w	إِلَيۡكُمۡۚ	ﱸﱹ	اليكم	to you	ilaykum
+5	11:57:9	w	وَيَسۡتَخۡلِفُ	ﱺ	ويستخلف	And my Lord will give succession	wayastakhlifu
+6	11:57:10	w	رَبِّي	ﱻ	ربي	And my Lord will give succession	rabbī
+6	11:57:11	w	قَوۡمًا	ﱼ	قوما	(to) a people	qawman
+6	11:57:12	w	غَيۡرَكُمۡ	ﱽ	غيركم	other than you	ghayrakum
+6	11:57:13	w	وَلَا	ﱾ	ولا	and not	walā
+6	11:57:14	w	تَضُرُّونَهُۥ	ﱿ	تضرونه	you will harm Him	taḍurrūnahu
+6	11:57:15	w	شَيۡـًٔاۚ	ﲀﲁ	شييا	(in) anything	shayan
+6	11:57:16	w	إِنَّ	ﲂ	ان	Indeed	inna
+6	11:57:17	w	رَبِّي	ﲃ	ربي	my Lord	rabbī
+6	11:57:18	w	عَلَىٰ	ﲄ	على	(is) on	ʿalā
+6	11:57:19	w	كُلِّ	ﲅ	كل	all	kulli
+6	11:57:20	w	شَيۡءٍ	ﲆ	شيء	things	shayin
+6	11:57:21	w	حَفِيظٞ	ﲇ	حفيظ	a Guardian	ḥafīẓun
+7	11:57:22	e	٥٧	ﲈ			
+7	11:58:1	w	وَلَمَّا	ﲉ	ولما	And when	walammā
+7	11:58:2	w	جَآءَ	ﲊ	جاء	came	jāa
+7	11:58:3	w	أَمۡرُنَا	ﲋ	امرنا	Our command	amrunā
+7	11:58:4	w	نَجَّيۡنَا	ﲌ	نجينا	We saved	najjaynā
+7	11:58:5	w	هُودٗا	ﲍ	هودا	Hud	hūdan
+7	11:58:6	w	وَٱلَّذِينَ	ﲎ	والذين	and those who	wa-alladhīna
+7	11:58:7	w	ءَامَنُواْ	ﲏ	امنوا	believed	āmanū
+7	11:58:8	w	مَعَهُۥ	ﲐ	معه	with him	maʿahu
+7	11:58:9	w	بِرَحۡمَةٖ	ﲑ	برحمة	by a Mercy	biraḥmatin
+7	11:58:10	w	مِّنَّا	ﲒ	منا	from Us	minnā
+8	11:58:11	w	وَنَجَّيۡنَٰهُم	ﲓ	ونجيناهم	and We saved them	wanajjaynāhum
+8	11:58:12	w	مِّنۡ	ﲔ	من	from	min
+8	11:58:13	w	عَذَابٍ	ﲕ	عذاب	a punishment	ʿadhābin
+8	11:58:14	w	غَلِيظٖ	ﲖ	غليظ	severe	ghalīẓin
+8	11:58:15	e	٥٨	ﲗ			
+8	11:59:1	w	وَتِلۡكَ	ﲘ	وتلك	And this	watil'ka
+8	11:59:2	w	عَادٞۖ	ﲙﲚ	عاد	(was) Aad	ʿādun
+8	11:59:3	w	جَحَدُواْ	ﲛ	جحدوا	they rejected	jaḥadū
+8	11:59:4	w	بِـَٔايَٰتِ	ﲜ	بايات	(the) Signs	biāyāti
+9	11:59:5	w	رَبِّهِمۡ	ﲝ	ربهم	(of) their Lord	rabbihim
+9	11:59:6	w	وَعَصَوۡاْ	ﲞ	وعصوا	and disobeyed	waʿaṣaw
+9	11:59:7	w	رُسُلَهُۥ	ﲟ	رسله	His Messengers	rusulahu
+9	11:59:8	w	وَٱتَّبَعُوٓاْ	ﲠ	واتبعوا	and followed	wa-ittabaʿū
+9	11:59:9	w	أَمۡرَ	ﲡ	امر	(the) command	amra
+9	11:59:10	w	كُلِّ	ﲢ	كل	(of) every	kulli
+9	11:59:11	w	جَبَّارٍ	ﲣ	جبار	tyrant	jabbārin
+9	11:59:12	w	عَنِيدٖ	ﲤ	عنيد	obstinate	ʿanīdin
+9	11:59:13	e	٥٩	ﲥ			
+9	11:60:1	w	وَأُتۡبِعُواْ	ﲦ	واتبعوا	And they were followed	wa-ut'biʿū
+9	11:60:2	w	فِي	ﲧ	في	in	fī
+10	11:60:3	w	هَٰذِهِ	ﲨ	هاذه	this	hādhihi
+10	11:60:4	w	ٱلدُّنۡيَا	ﲩ	الدنيا	world	l-dun'yā
+10	11:60:5	w	لَعۡنَةٗ	ﲪ	لعنة	(with) a curse	laʿnatan
+10	11:60:6	w	وَيَوۡمَ	ﲫ	ويوم	and (on the) Day	wayawma
+10	11:60:7	w	ٱلۡقِيَٰمَةِۗ	ﲬﲭ	القيامة	(of) the Resurrection	l-qiyāmati
+10	11:60:8	w	أَلَآ	ﲮ	الا	No doubt	alā
+10	11:60:9	w	إِنَّ	ﲯ	ان	Indeed	inna
+10	11:60:10	w	عَادٗا	ﲰ	عادا	Aad	ʿādan
+10	11:60:11	w	كَفَرُواْ	ﲱ	كفروا	disbelieved	kafarū
+10	11:60:12	w	رَبَّهُمۡۗ	ﲲﲳ	ربهم	their Lord	rabbahum
+10	11:60:13	w	أَلَا	ﲴ	الا	So	alā
+11	11:60:14	w	بُعۡدٗا	ﲵ	بعدا	away	buʿ'dan
+11	11:60:15	w	لِّعَادٖ	ﲶ	لعاد	with Aad	liʿādin
+11	11:60:16	w	قَوۡمِ	ﲷ	قوم	(the) people	qawmi
+11	11:60:17	w	هُودٖ	ﲸ	هود	(of) Hud	hūdin
+11	11:60:18	e	٦٠	ﲹ			
+11	11:61:1	w	۞ وَإِلَىٰ	ﲺ ﲻ	۞ والى	And to	wa-ilā
+11	11:61:2	w	ثَمُودَ	ﲼ	ثمود	Thamud	thamūda
+11	11:61:3	w	أَخَاهُمۡ	ﲽ	اخاهم	(We sent) their brother	akhāhum
+11	11:61:4	w	صَٰلِحٗاۚ	ﲾﲿ	صالحا	Salih	ṣāliḥan
+11	11:61:5	w	قَالَ	ﳀ	قال	He said	qāla
+11	11:61:6	w	يَٰقَوۡمِ	ﳁ	يا قوم	O my people	yāqawmi
+12	11:61:7	w	ٱعۡبُدُواْ	ﳂ	اعبدوا	Worship	uʿ'budū
+12	11:61:8	w	ٱللَّهَ	ﳃ	الله	Allah	l-laha
+12	11:61:9	w	مَا	ﳄ	ما	not	mā
+12	11:61:10	w	لَكُم	ﳅ	لكم	you have	lakum
+12	11:61:11	w	مِّنۡ	ﳆ	من	any	min
+12	11:61:12	w	إِلَٰهٍ	ﳇ	الاه	god	ilāhin
+12	11:61:13	w	غَيۡرُهُۥۖ	ﳈﳉ	غيره	other than Him	ghayruhu
+12	11:61:14	w	هُوَ	ﳊ	هو	He	huwa
+12	11:61:15	w	أَنشَأَكُم	ﳋ	انشاكم	produced you	ansha-akum
+12	11:61:16	w	مِّنَ	ﳌ	من	from	mina
+12	11:61:17	w	ٱلۡأَرۡضِ	ﳍ	الارض	the earth	l-arḍi
+13	11:61:18	w	وَٱسۡتَعۡمَرَكُمۡ	ﳎ	واستعمركم	and settled you	wa-is'taʿmarakum
+13	11:61:19	w	فِيهَا	ﳏ	فيها	in it	fīhā
+13	11:61:20	w	فَٱسۡتَغۡفِرُوهُ	ﳐ	فاستغفروه	So ask forgiveness of Him	fa-is'taghfirūhu
+13	11:61:21	w	ثُمَّ	ﳑ	ثم	then	thumma
+13	11:61:22	w	تُوبُوٓاْ	ﳒ	توبوا	turn in repentance	tūbū
+13	11:61:23	w	إِلَيۡهِۚ	ﳓﳔ	اليه	to Him	ilayhi
+13	11:61:24	w	إِنَّ	ﳕ	ان	Indeed	inna
+13	11:61:25	w	رَبِّي	ﳖ	ربي	my Lord	rabbī
+13	11:61:26	w	قَرِيبٞ	ﳗ	قريب	(is) near	qarībun
+13	11:61:27	w	مُّجِيبٞ	ﳘ	مجيب	All-Responsive	mujībun
+14	11:61:28	e	٦١	ﳙ			
+14	11:62:1	w	قَالُواْ	ﳚ	قالوا	They said	qālū
+14	11:62:2	w	يَٰصَٰلِحُ	ﳛ	يا صالح	O Salih	yāṣāliḥu
+14	11:62:3	w	قَدۡ	ﳜ	قد	Verily	qad
+14	11:62:4	w	كُنتَ	ﳝ	كنت	you were	kunta
+14	11:62:5	w	فِينَا	ﳞ	فينا	among us	fīnā
+14	11:62:6	w	مَرۡجُوّٗا	ﳟ	مرجوا	the one in whom hope was placed	marjuwwan
+14	11:62:7	w	قَبۡلَ	ﳠ	قبل	before	qabla
+14	11:62:8	w	هَٰذَآۖ	ﳡﳢ	هاذا	this	hādhā
+14	11:62:9	w	أَتَنۡهَىٰنَآ	ﳣ	اتنهانا	Do you forbid us	atanhānā
+14	11:62:10	w	أَن	ﳤ	ان	that	an
+14	11:62:11	w	نَّعۡبُدَ	ﳥ	نعبد	we worship	naʿbuda
+15	11:62:12	w	مَا	ﳦ	ما	what	mā
+15	11:62:13	w	يَعۡبُدُ	ﳧ	يعبد	our forefathers worshipped	yaʿbudu
+15	11:62:14	w	ءَابَآؤُنَا	ﳨ	اباونا	our forefathers worshipped	ābāunā
+15	11:62:15	w	وَإِنَّنَا	ﳩ	واننا	And indeed we	wa-innanā
+15	11:62:16	w	لَفِي	ﳪ	لفي	surely (are) in	lafī
+15	11:62:17	w	شَكّٖ	ﳫ	شك	doubt	shakkin
+15	11:62:18	w	مِّمَّا	ﳬ	مما	about what	mimmā
+15	11:62:19	w	تَدۡعُونَآ	ﳭ	تدعونا	you call us	tadʿūnā
+15	11:62:20	w	إِلَيۡهِ	ﳮ	اليه	to it	ilayhi
+15	11:62:21	w	مُرِيبٖ	ﳯ	مريب	suspicious	murībin
+15	11:62:22	e	٦٢	ﳰ			

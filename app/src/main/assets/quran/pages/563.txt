@@ -1,0 +1,165 @@
+1	67:13:1	w	وَأَسِرُّواْ	ﱁ	واسروا	And conceal	wa-asirrū
+1	67:13:2	w	قَوۡلَكُمۡ	ﱂ	قولكم	your speech	qawlakum
+1	67:13:3	w	أَوِ	ﱃ	او	or	awi
+1	67:13:4	w	ٱجۡهَرُواْ	ﱄ	اجهروا	proclaim	ij'harū
+1	67:13:5	w	بِهِۦٓۖ	ﱅﱆ	به	it	bihi
+1	67:13:6	w	إِنَّهُۥ	ﱇ	انه	Indeed, He	innahu
+1	67:13:7	w	عَلِيمُۢ	ﱈ	عليم	(is the) All-Knower	ʿalīmun
+1	67:13:8	w	بِذَاتِ	ﱉ	بذات	of what (is in)	bidhāti
+1	67:13:9	w	ٱلصُّدُورِ	ﱊ	الصدور	the breasts	l-ṣudūri
+1	67:13:10	e	١٣	ﱋ			
+1	67:14:1	w	أَلَا	ﱌ	الا	Does not	alā
+2	67:14:2	w	يَعۡلَمُ	ﱍ	يعلم	know	yaʿlamu
+2	67:14:3	w	مَنۡ	ﱎ	من	(the One) Who	man
+2	67:14:4	w	خَلَقَ	ﱏ	خلق	created	khalaqa
+2	67:14:5	w	وَهُوَ	ﱐ	وهو	And He	wahuwa
+2	67:14:6	w	ٱللَّطِيفُ	ﱑ	اللطيف	(is) the Subtle	l-laṭīfu
+2	67:14:7	w	ٱلۡخَبِيرُ	ﱒ	الخبير	the All-Aware	l-khabīru
+2	67:14:8	e	١٤	ﱓ			
+2	67:15:1	w	هُوَ	ﱔ	هو	He	huwa
+2	67:15:2	w	ٱلَّذِي	ﱕ	الذي	(is) the One Who	alladhī
+2	67:15:3	w	جَعَلَ	ﱖ	جعل	made	jaʿala
+2	67:15:4	w	لَكُمُ	ﱗ	لكم	for you	lakumu
+2	67:15:5	w	ٱلۡأَرۡضَ	ﱘ	الارض	the earth	l-arḍa
+3	67:15:6	w	ذَلُولٗا	ﱙ	ذلولا	subservient	dhalūlan
+3	67:15:7	w	فَٱمۡشُواْ	ﱚ	فامشوا	so walk	fa-im'shū
+3	67:15:8	w	فِي	ﱛ	في	in	fī
+3	67:15:9	w	مَنَاكِبِهَا	ﱜ	مناكبها	(the) paths thereof	manākibihā
+3	67:15:10	w	وَكُلُواْ	ﱝ	وكلوا	and eat	wakulū
+3	67:15:11	w	مِن	ﱞ	من	of	min
+3	67:15:12	w	رِّزۡقِهِۦۖ	ﱟﱠ	رزقه	His provision	riz'qihi
+3	67:15:13	w	وَإِلَيۡهِ	ﱡ	واليه	and to Him	wa-ilayhi
+3	67:15:14	w	ٱلنُّشُورُ	ﱢ	النشور	(is) the Resurrection	l-nushūru
+3	67:15:15	e	١٥	ﱣ			
+4	67:16:1	w	ءَأَمِنتُم	ﱤ	اامنتم	Do you feel secure	a-amintum
+4	67:16:2	w	مَّن	ﱥ	من	(from Him) Who	man
+4	67:16:3	w	فِي	ﱦ	في	(is) in	fī
+4	67:16:4	w	ٱلسَّمَآءِ	ﱧ	السماء	the heaven	l-samāi
+4	67:16:5	w	أَن	ﱨ	ان	not	an
+4	67:16:6	w	يَخۡسِفَ	ﱩ	يخسف	He will cause to swallow	yakhsifa
+4	67:16:7	w	بِكُمُ	ﱪ	بكم	you	bikumu
+4	67:16:8	w	ٱلۡأَرۡضَ	ﱫ	الارض	the earth	l-arḍa
+4	67:16:9	w	فَإِذَا	ﱬ	فاذا	when	fa-idhā
+4	67:16:10	w	هِيَ	ﱭ	هي	it	hiya
+4	67:16:11	w	تَمُورُ	ﱮ	تمور	sways	tamūru
+4	67:16:12	e	١٦	ﱯ			
+5	67:17:1	w	أَمۡ	ﱰ	ام	Or	am
+5	67:17:2	w	أَمِنتُم	ﱱ	امنتم	do you feel secure	amintum
+5	67:17:3	w	مَّن	ﱲ	من	(from Him) Who	man
+5	67:17:4	w	فِي	ﱳ	في	(is) in	fī
+5	67:17:5	w	ٱلسَّمَآءِ	ﱴ	السماء	the heaven	l-samāi
+5	67:17:6	w	أَن	ﱵ	ان	that	an
+5	67:17:7	w	يُرۡسِلَ	ﱶ	يرسل	He will send	yur'sila
+5	67:17:8	w	عَلَيۡكُمۡ	ﱷ	عليكم	against you	ʿalaykum
+5	67:17:9	w	حَاصِبٗاۖ	ﱸﱹ	حاصبا	a storm of stones	ḥāṣiban
+5	67:17:10	w	فَسَتَعۡلَمُونَ	ﱺ	فستعلمون	Then you would know	fasataʿlamūna
+6	67:17:11	w	كَيۡفَ	ﱻ	كيف	how	kayfa
+6	67:17:12	w	نَذِيرِ	ﱼ	نذير	(was) My warning	nadhīri
+6	67:17:13	e	١٧	ﱽ			
+6	67:18:1	w	وَلَقَدۡ	ﱾ	ولقد	And indeed	walaqad
+6	67:18:2	w	كَذَّبَ	ﱿ	كذب	denied	kadhaba
+6	67:18:3	w	ٱلَّذِينَ	ﲀ	الذين	those	alladhīna
+6	67:18:4	w	مِن	ﲁ	من	from	min
+6	67:18:5	w	قَبۡلِهِمۡ	ﲂ	قبلهم	before them	qablihim
+6	67:18:6	w	فَكَيۡفَ	ﲃ	فكيف	and how	fakayfa
+6	67:18:7	w	كَانَ	ﲄ	كان	was	kāna
+6	67:18:8	w	نَكِيرِ	ﲅ	نكير	My rejection	nakīri
+6	67:18:9	e	١٨	ﲆ			
+7	67:19:1	w	أَوَلَمۡ	ﲇ	اولم	Do not	awalam
+7	67:19:2	w	يَرَوۡاْ	ﲈ	يروا	they see	yaraw
+7	67:19:3	w	إِلَى	ﲉ	الى	[to]	ilā
+7	67:19:4	w	ٱلطَّيۡرِ	ﲊ	الطير	the birds	l-ṭayri
+7	67:19:5	w	فَوۡقَهُمۡ	ﲋ	فوقهم	above them	fawqahum
+7	67:19:6	w	صَٰٓفَّٰتٖ	ﲌ	صافات	spreading (their wings)	ṣāffātin
+7	67:19:7	w	وَيَقۡبِضۡنَۚ	ﲍﲎ	ويقبضن	and folding	wayaqbiḍ'na
+7	67:19:8	w	مَا	ﲏ	ما	Not	mā
+7	67:19:9	w	يُمۡسِكُهُنَّ	ﲐ	يمسكهن	holds them	yum'sikuhunna
+7	67:19:10	w	إِلَّا	ﲑ	الا	except	illā
+8	67:19:11	w	ٱلرَّحۡمَٰنُۚ	ﲒﲓ	الرحمان	the Most Gracious	l-raḥmānu
+8	67:19:12	w	إِنَّهُۥ	ﲔ	انه	Indeed, He	innahu
+8	67:19:13	w	بِكُلِّ	ﲕ	بكل	(is) of every	bikulli
+8	67:19:14	w	شَيۡءِۭ	ﲖ	شيء	thing	shayin
+8	67:19:15	w	بَصِيرٌ	ﲗ	بصير	All-Seer	baṣīrun
+8	67:19:16	e	١٩	ﲘ			
+8	67:20:1	w	أَمَّنۡ	ﲙ	امن	Who is	amman
+8	67:20:2	w	هَٰذَا	ﲚ	هاذا	this	hādhā
+8	67:20:3	w	ٱلَّذِي	ﲛ	الذي	the one	alladhī
+8	67:20:4	w	هُوَ	ﲜ	هو	he	huwa
+8	67:20:5	w	جُندٞ	ﲝ	جند	(is) an army	jundun
+8	67:20:6	w	لَّكُمۡ	ﲞ	لكم	for you	lakum
+9	67:20:7	w	يَنصُرُكُم	ﲟ	ينصركم	to help you	yanṣurukum
+9	67:20:8	w	مِّن	ﲠ	من	from	min
+9	67:20:9	w	دُونِ	ﲡ	دون	besides	dūni
+9	67:20:10	w	ٱلرَّحۡمَٰنِۚ	ﲢﲣ	الرحمان	the Most Gracious	l-raḥmāni
+9	67:20:11	w	إِنِ	ﲤ	ان	Not	ini
+9	67:20:12	w	ٱلۡكَٰفِرُونَ	ﲥ	الكافرون	(are) the disbelievers	l-kāfirūna
+9	67:20:13	w	إِلَّا	ﲦ	الا	but	illā
+9	67:20:14	w	فِي	ﲧ	في	in	fī
+9	67:20:15	w	غُرُورٍ	ﲨ	غرور	delusion	ghurūrin
+9	67:20:16	e	٢٠	ﲩ			
+9	67:21:1	w	أَمَّنۡ	ﲪ	امن	Who is	amman
+9	67:21:2	w	هَٰذَا	ﲫ	هاذا	this	hādhā
+10	67:21:3	w	ٱلَّذِي	ﲬ	الذي	the one	alladhī
+10	67:21:4	w	يَرۡزُقُكُمۡ	ﲭ	يرزقكم	to provide you	yarzuqukum
+10	67:21:5	w	إِنۡ	ﲮ	ان	if	in
+10	67:21:6	w	أَمۡسَكَ	ﲯ	امسك	He withheld	amsaka
+10	67:21:7	w	رِزۡقَهُۥۚ	ﲰﲱ	رزقه	His provision	riz'qahu
+10	67:21:8	w	بَل	ﲲ	بل	Nay	bal
+10	67:21:9	w	لَّجُّواْ	ﲳ	لجوا	they persist	lajjū
+10	67:21:10	w	فِي	ﲴ	في	in	fī
+10	67:21:11	w	عُتُوّٖ	ﲵ	عتو	pride	ʿutuwwin
+10	67:21:12	w	وَنُفُورٍ	ﲶ	ونفور	and aversion	wanufūrin
+10	67:21:13	e	٢١	ﲷ			
+10	67:22:1	w	أَفَمَن	ﲸ	افمن	Then is he who	afaman
+11	67:22:2	w	يَمۡشِي	ﲹ	يمشي	walks	yamshī
+11	67:22:3	w	مُكِبًّا	ﲺ	مكبا	fallen	mukibban
+11	67:22:4	w	عَلَىٰ	ﲻ	على	on	ʿalā
+11	67:22:5	w	وَجۡهِهِۦٓ	ﲼ	وجهه	his face	wajhihi
+11	67:22:6	w	أَهۡدَىٰٓ	ﲽ	اهدى	better guided	ahdā
+11	67:22:7	w	أَمَّن	ﲾ	امن	or (he) who	amman
+11	67:22:8	w	يَمۡشِي	ﲿ	يمشي	walks	yamshī
+11	67:22:9	w	سَوِيًّا	ﳀ	سويا	upright	sawiyyan
+11	67:22:10	w	عَلَىٰ	ﳁ	على	on	ʿalā
+11	67:22:11	w	صِرَٰطٖ	ﳂ	صراط	(the) Path	ṣirāṭin
+12	67:22:12	w	مُّسۡتَقِيمٖ	ﳃ	مستقيم	Straight	mus'taqīmin
+12	67:22:13	e	٢٢	ﳄ			
+12	67:23:1	w	قُلۡ	ﳅ	قل	Say	qul
+12	67:23:2	w	هُوَ	ﳆ	هو	He	huwa
+12	67:23:3	w	ٱلَّذِيٓ	ﳇ	الذي	(is) the One Who	alladhī
+12	67:23:4	w	أَنشَأَكُمۡ	ﳈ	انشاكم	produced you	ansha-akum
+12	67:23:5	w	وَجَعَلَ	ﳉ	وجعل	and made	wajaʿala
+12	67:23:6	w	لَكُمُ	ﳊ	لكم	for you	lakumu
+12	67:23:7	w	ٱلسَّمۡعَ	ﳋ	السمع	the hearing	l-samʿa
+12	67:23:8	w	وَٱلۡأَبۡصَٰرَ	ﳌ	والابصار	and the vision	wal-abṣāra
+13	67:23:9	w	وَٱلۡأَفۡـِٔدَةَۚ	ﳍﳎ	والافيدة	and the feelings	wal-afidata
+13	67:23:10	w	قَلِيلٗا	ﳏ	قليلا	Little	qalīlan
+13	67:23:11	w	مَّا	ﳐ	ما	(is) what	mā
+13	67:23:12	w	تَشۡكُرُونَ	ﳑ	تشكرون	you give thanks	tashkurūna
+13	67:23:13	e	٢٣	ﳒ			
+13	67:24:1	w	قُلۡ	ﳓ	قل	Say	qul
+13	67:24:2	w	هُوَ	ﳔ	هو	He	huwa
+13	67:24:3	w	ٱلَّذِي	ﳕ	الذي	(is) the One Who	alladhī
+13	67:24:4	w	ذَرَأَكُمۡ	ﳖ	ذراكم	multiplied you	dhara-akum
+13	67:24:5	w	فِي	ﳗ	في	in	fī
+14	67:24:6	w	ٱلۡأَرۡضِ	ﳘ	الارض	the earth	l-arḍi
+14	67:24:7	w	وَإِلَيۡهِ	ﳙ	واليه	and to Him	wa-ilayhi
+14	67:24:8	w	تُحۡشَرُونَ	ﳚ	تحشرون	you will be gathered	tuḥ'sharūna
+14	67:24:9	e	٢٤	ﳛ			
+14	67:25:1	w	وَيَقُولُونَ	ﳜ	ويقولون	And they say	wayaqūlūna
+14	67:25:2	w	مَتَىٰ	ﳝ	متى	When	matā
+14	67:25:3	w	هَٰذَا	ﳞ	هاذا	(is) this	hādhā
+14	67:25:4	w	ٱلۡوَعۡدُ	ﳟ	الوعد	promise	l-waʿdu
+14	67:25:5	w	إِن	ﳠ	ان	if	in
+14	67:25:6	w	كُنتُمۡ	ﳡ	كنتم	you are	kuntum
+15	67:25:7	w	صَٰدِقِينَ	ﳢ	صادقين	truthful	ṣādiqīna
+15	67:25:8	e	٢٥	ﳣ			
+15	67:26:1	w	قُلۡ	ﳤ	قل	Say	qul
+15	67:26:2	w	إِنَّمَا	ﳥ	انما	Only	innamā
+15	67:26:3	w	ٱلۡعِلۡمُ	ﳦ	العلم	the knowledge	l-ʿil'mu
+15	67:26:4	w	عِندَ	ﳧ	عند	(is) with	ʿinda
+15	67:26:5	w	ٱللَّهِ	ﳨ	الله	Allah	l-lahi
+15	67:26:6	w	وَإِنَّمَآ	ﳩ	وانما	and only	wa-innamā
+15	67:26:7	w	أَنَا۠	ﳪ	انا	I am	anā
+15	67:26:8	w	نَذِيرٞ	ﳫ	نذير	a warner	nadhīrun
+15	67:26:9	w	مُّبِينٞ	ﳬ	مبين	clear	mubīnun
+15	67:26:10	e	٢٦	ﳭ			

@@ -1,0 +1,147 @@
+1	39:22:1	w	أَفَمَن	ﱁ	افمن	So is (one for) whom	afaman
+1	39:22:2	w	شَرَحَ	ﱂ	شرح	Allah has expanded	sharaḥa
+1	39:22:3	w	ٱللَّهُ	ﱃ	الله	Allah has expanded	l-lahu
+1	39:22:4	w	صَدۡرَهُۥ	ﱄ	صدره	his breast	ṣadrahu
+1	39:22:5	w	لِلۡإِسۡلَٰمِ	ﱅ	للاسلام	for Islam	lil'is'lāmi
+1	39:22:6	w	فَهُوَ	ﱆ	فهو	so he	fahuwa
+1	39:22:7	w	عَلَىٰ	ﱇ	على	(is) upon	ʿalā
+1	39:22:8	w	نُورٖ	ﱈ	نور	a light	nūrin
+1	39:22:9	w	مِّن	ﱉ	من	from	min
+1	39:22:10	w	رَّبِّهِۦۚ	ﱊﱋ	ربه	his Lord	rabbihi
+1	39:22:11	w	فَوَيۡلٞ	ﱌ	فويل	So woe	fawaylun
+2	39:22:12	w	لِّلۡقَٰسِيَةِ	ﱍ	للقاسية	to (those are) hardened	lil'qāsiyati
+2	39:22:13	w	قُلُوبُهُم	ﱎ	قلوبهم	their hearts	qulūbuhum
+2	39:22:14	w	مِّن	ﱏ	من	from	min
+2	39:22:15	w	ذِكۡرِ	ﱐ	ذكر	(the) remembrance of Allah	dhik'ri
+2	39:22:16	w	ٱللَّهِۚ	ﱑﱒ	الله	(the) remembrance of Allah	l-lahi
+2	39:22:17	w	أُوْلَٰٓئِكَ	ﱓ	اولايك	Those	ulāika
+2	39:22:18	w	فِي	ﱔ	في	(are) in	fī
+2	39:22:19	w	ضَلَٰلٖ	ﱕ	ضلال	error	ḍalālin
+2	39:22:20	w	مُّبِينٍ	ﱖ	مبين	clear	mubīnin
+2	39:22:21	e	٢٢	ﱗ			
+3	39:23:1	w	ٱللَّهُ	ﱘ	الله	Allah	al-lahu
+3	39:23:2	w	نَزَّلَ	ﱙ	نزل	has revealed	nazzala
+3	39:23:3	w	أَحۡسَنَ	ﱚ	احسن	(the) best	aḥsana
+3	39:23:4	w	ٱلۡحَدِيثِ	ﱛ	الحديث	(of) [the] statement	l-ḥadīthi
+3	39:23:5	w	كِتَٰبٗا	ﱜ	كتابا	a Book	kitāban
+3	39:23:6	w	مُّتَشَٰبِهٗا	ﱝ	متشابها	(its parts) resembling each other	mutashābihan
+3	39:23:7	w	مَّثَانِيَ	ﱞ	مثاني	oft-repeated	mathāniya
+3	39:23:8	w	تَقۡشَعِرُّ	ﱟ	تقشعر	Shiver	taqshaʿirru
+3	39:23:9	w	مِنۡهُ	ﱠ	منه	from it	min'hu
+4	39:23:10	w	جُلُودُ	ﱡ	جلود	(the) skins	julūdu
+4	39:23:11	w	ٱلَّذِينَ	ﱢ	الذين	(of) those who	alladhīna
+4	39:23:12	w	يَخۡشَوۡنَ	ﱣ	يخشون	fear	yakhshawna
+4	39:23:13	w	رَبَّهُمۡ	ﱤ	ربهم	their Lord	rabbahum
+4	39:23:14	w	ثُمَّ	ﱥ	ثم	then	thumma
+4	39:23:15	w	تَلِينُ	ﱦ	تلين	relax	talīnu
+4	39:23:16	w	جُلُودُهُمۡ	ﱧ	جلودهم	their skins	julūduhum
+4	39:23:17	w	وَقُلُوبُهُمۡ	ﱨ	وقلوبهم	and their hearts	waqulūbuhum
+5	39:23:18	w	إِلَىٰ	ﱩ	الى	at	ilā
+5	39:23:19	w	ذِكۡرِ	ﱪ	ذكر	(the) remembrance	dhik'ri
+5	39:23:20	w	ٱللَّهِۚ	ﱫﱬ	الله	(of) Allah	l-lahi
+5	39:23:21	w	ذَٰلِكَ	ﱭ	ذالك	That	dhālika
+5	39:23:22	w	هُدَى	ﱮ	هدى	(is the) guidance	hudā
+5	39:23:23	w	ٱللَّهِ	ﱯ	الله	(of) Allah	l-lahi
+5	39:23:24	w	يَهۡدِي	ﱰ	يهدي	He guides	yahdī
+5	39:23:25	w	بِهِۦ	ﱱ	به	with it	bihi
+5	39:23:26	w	مَن	ﱲ	من	whom	man
+5	39:23:27	w	يَشَآءُۚ	ﱳﱴ	يشاء	He wills	yashāu
+5	39:23:28	w	وَمَن	ﱵ	ومن	And whoever	waman
+6	39:23:29	w	يُضۡلِلِ	ﱶ	يضلل	Allah lets go astray	yuḍ'lili
+6	39:23:30	w	ٱللَّهُ	ﱷ	الله	Allah lets go astray	l-lahu
+6	39:23:31	w	فَمَا	ﱸ	فما	then not	famā
+6	39:23:32	w	لَهُۥ	ﱹ	له	for him	lahu
+6	39:23:33	w	مِنۡ	ﱺ	من	any	min
+6	39:23:34	w	هَادٍ	ﱻ	هاد	guide	hādin
+6	39:23:35	e	٢٣	ﱼ			
+6	39:24:1	w	أَفَمَن	ﱽ	افمن	Then (is) he who	afaman
+6	39:24:2	w	يَتَّقِي	ﱾ	يتقي	will shield	yattaqī
+6	39:24:3	w	بِوَجۡهِهِۦ	ﱿ	بوجهه	with his face	biwajhihi
+6	39:24:4	w	سُوٓءَ	ﲀ	سوء	(the) worst	sūa
+7	39:24:5	w	ٱلۡعَذَابِ	ﲁ	العذاب	punishment	l-ʿadhābi
+7	39:24:6	w	يَوۡمَ	ﲂ	يوم	(on the) Day	yawma
+7	39:24:7	w	ٱلۡقِيَٰمَةِۚ	ﲃﲄ	القيامة	(of) the Resurrection	l-qiyāmati
+7	39:24:8	w	وَقِيلَ	ﲅ	وقيل	And it will be said	waqīla
+7	39:24:9	w	لِلظَّٰلِمِينَ	ﲆ	للظالمين	to the wrongdoers	lilẓẓālimīna
+7	39:24:10	w	ذُوقُواْ	ﲇ	ذوقوا	Taste	dhūqū
+7	39:24:11	w	مَا	ﲈ	ما	what	mā
+7	39:24:12	w	كُنتُمۡ	ﲉ	كنتم	you used to	kuntum
+7	39:24:13	w	تَكۡسِبُونَ	ﲊ	تكسبون	earn	taksibūna
+8	39:24:14	e	٢٤	ﲋ			
+8	39:25:1	w	كَذَّبَ	ﲌ	كذب	Denied	kadhaba
+8	39:25:2	w	ٱلَّذِينَ	ﲍ	الذين	those who	alladhīna
+8	39:25:3	w	مِن	ﲎ	من	(were) before them	min
+8	39:25:4	w	قَبۡلِهِمۡ	ﲏ	قبلهم	(were) before them	qablihim
+8	39:25:5	w	فَأَتَىٰهُمُ	ﲐ	فاتاهم	so came upon them	fa-atāhumu
+8	39:25:6	w	ٱلۡعَذَابُ	ﲑ	العذاب	the punishment	l-ʿadhābu
+8	39:25:7	w	مِنۡ	ﲒ	من	from	min
+8	39:25:8	w	حَيۡثُ	ﲓ	حيث	where	ḥaythu
+9	39:25:9	w	لَا	ﲔ	لا	not	lā
+9	39:25:10	w	يَشۡعُرُونَ	ﲕ	يشعرون	they perceive	yashʿurūna
+9	39:25:11	e	٢٥	ﲖ			
+9	39:26:1	w	فَأَذَاقَهُمُ	ﲗ	فاذاقهم	So Allah made them	fa-adhāqahumu
+9	39:26:2	w	ٱللَّهُ	ﲘ	الله	So Allah made them	l-lahu
+9	39:26:3	w	ٱلۡخِزۡيَ	ﲙ	الخزي	the disgrace	l-khiz'ya
+9	39:26:4	w	فِي	ﲚ	في	in	fī
+9	39:26:5	w	ٱلۡحَيَوٰةِ	ﲛ	الحياة	the life	l-ḥayati
+9	39:26:6	w	ٱلدُّنۡيَاۖ	ﲜﲝ	الدنيا	(of) the world	l-dun'yā
+9	39:26:7	w	وَلَعَذَابُ	ﲞ	ولعذاب	and certainly (the) punishment	walaʿadhābu
+10	39:26:8	w	ٱلۡأٓخِرَةِ	ﲟ	الاخرة	(of) the Hereafter	l-ākhirati
+10	39:26:9	w	أَكۡبَرُۚ	ﲠﲡ	اكبر	(is) greater	akbaru
+10	39:26:10	w	لَوۡ	ﲢ	لو	if	law
+10	39:26:11	w	كَانُواْ	ﲣ	كانوا	they	kānū
+10	39:26:12	w	يَعۡلَمُونَ	ﲤ	يعلمون	knew	yaʿlamūna
+10	39:26:13	e	٢٦	ﲥ			
+10	39:27:1	w	وَلَقَدۡ	ﲦ	ولقد	And indeed	walaqad
+10	39:27:2	w	ضَرَبۡنَا	ﲧ	ضربنا	We have set forth	ḍarabnā
+10	39:27:3	w	لِلنَّاسِ	ﲨ	للناس	for people	lilnnāsi
+10	39:27:4	w	فِي	ﲩ	في	in	fī
+11	39:27:5	w	هَٰذَا	ﲪ	هاذا	this	hādhā
+11	39:27:6	w	ٱلۡقُرۡءَانِ	ﲫ	القران	Quran	l-qur'āni
+11	39:27:7	w	مِن	ﲬ	من	of	min
+11	39:27:8	w	كُلِّ	ﲭ	كل	every	kulli
+11	39:27:9	w	مَثَلٖ	ﲮ	مثل	example	mathalin
+11	39:27:10	w	لَّعَلَّهُمۡ	ﲯ	لعلهم	so that they may	laʿallahum
+11	39:27:11	w	يَتَذَكَّرُونَ	ﲰ	يتذكرون	take heed	yatadhakkarūna
+11	39:27:12	e	٢٧	ﲱ			
+11	39:28:1	w	قُرۡءَانًا	ﲲ	قرانا	A Quran	qur'ānan
+11	39:28:2	w	عَرَبِيًّا	ﲳ	عربيا	(in) Arabic	ʿarabiyyan
+12	39:28:3	w	غَيۡرَ	ﲴ	غير	without	ghayra
+12	39:28:4	w	ذِي	ﲵ	ذي	any	dhī
+12	39:28:5	w	عِوَجٖ	ﲶ	عوج	crookedness	ʿiwajin
+12	39:28:6	w	لَّعَلَّهُمۡ	ﲷ	لعلهم	so that they may	laʿallahum
+12	39:28:7	w	يَتَّقُونَ	ﲸ	يتقون	(become) righteous	yattaqūna
+12	39:28:8	e	٢٨	ﲹ			
+12	39:29:1	w	ضَرَبَ	ﲺ	ضرب	Allah sets forth	ḍaraba
+12	39:29:2	w	ٱللَّهُ	ﲻ	الله	Allah sets forth	l-lahu
+12	39:29:3	w	مَثَلٗا	ﲼ	مثلا	an example	mathalan
+12	39:29:4	w	رَّجُلٗا	ﲽ	رجلا	a man	rajulan
+12	39:29:5	w	فِيهِ	ﲾ	فيه	about him	fīhi
+13	39:29:6	w	شُرَكَآءُ	ﲿ	شركاء	partners	shurakāu
+13	39:29:7	w	مُتَشَٰكِسُونَ	ﳀ	متشاكسون	quarreling	mutashākisūna
+13	39:29:8	w	وَرَجُلٗا	ﳁ	ورجلا	and a man	warajulan
+13	39:29:9	w	سَلَمٗا	ﳂ	سلما	(belonging) exclusively	salaman
+13	39:29:10	w	لِّرَجُلٍ	ﳃ	لرجل	to one man	lirajulin
+13	39:29:11	w	هَلۡ	ﳄ	هل	are	hal
+13	39:29:12	w	يَسۡتَوِيَانِ	ﳅ	يستويان	they both equal	yastawiyāni
+13	39:29:13	w	مَثَلًاۚ	ﳆﳇ	مثلا	(in) comparison	mathalan
+14	39:29:14	w	ٱلۡحَمۡدُ	ﳈ	الحمد	All praise	l-ḥamdu
+14	39:29:15	w	لِلَّهِۚ	ﳉﳊ	لله	(be) to Allah	lillahi
+14	39:29:16	w	بَلۡ	ﳋ	بل	Nay	bal
+14	39:29:17	w	أَكۡثَرُهُمۡ	ﳌ	اكثرهم	most of them	aktharuhum
+14	39:29:18	w	لَا	ﳍ	لا	(do) not	lā
+14	39:29:19	w	يَعۡلَمُونَ	ﳎ	يعلمون	know	yaʿlamūna
+14	39:29:20	e	٢٩	ﳏ			
+14	39:30:1	w	إِنَّكَ	ﳐ	انك	Indeed, you	innaka
+14	39:30:2	w	مَيِّتٞ	ﳑ	ميت	will die	mayyitun
+14	39:30:3	w	وَإِنَّهُم	ﳒ	وانهم	and indeed, they	wa-innahum
+15	39:30:4	w	مَّيِّتُونَ	ﳓ	ميتون	(will also) die	mayyitūna
+15	39:30:5	e	٣٠	ﳔ			
+15	39:31:1	w	ثُمَّ	ﳕ	ثم	Then	thumma
+15	39:31:2	w	إِنَّكُمۡ	ﳖ	انكم	indeed you	innakum
+15	39:31:3	w	يَوۡمَ	ﳗ	يوم	(on the) Day	yawma
+15	39:31:4	w	ٱلۡقِيَٰمَةِ	ﳘ	القيامة	(of) the Resurrection	l-qiyāmati
+15	39:31:5	w	عِندَ	ﳙ	عند	before	ʿinda
+15	39:31:6	w	رَبِّكُمۡ	ﳚ	ربكم	your Lord	rabbikum
+15	39:31:7	w	تَخۡتَصِمُونَ	ﳛ	تختصمون	will dispute	takhtaṣimūna
+15	39:31:8	e	٣١	ﳜ			

@@ -1,0 +1,151 @@
+1	6:60:1	w	وَهُوَ	ﱁ	وهو	And He	wahuwa
+1	6:60:2	w	ٱلَّذِي	ﱂ	الذي	(is) the One Who	alladhī
+1	6:60:3	w	يَتَوَفَّىٰكُم	ﱃ	يتوفاكم	takes your (soul)	yatawaffākum
+1	6:60:4	w	بِٱلَّيۡلِ	ﱄ	بالليل	by the night	bi-al-layli
+1	6:60:5	w	وَيَعۡلَمُ	ﱅ	ويعلم	and He knows	wayaʿlamu
+1	6:60:6	w	مَا	ﱆ	ما	what	mā
+1	6:60:7	w	جَرَحۡتُم	ﱇ	جرحتم	you committed	jaraḥtum
+1	6:60:8	w	بِٱلنَّهَارِ	ﱈ	بالنهار	by the day	bil-nahāri
+1	6:60:9	w	ثُمَّ	ﱉ	ثم	Then	thumma
+2	6:60:10	w	يَبۡعَثُكُمۡ	ﱊ	يبعثكم	He raises you up	yabʿathukum
+2	6:60:11	w	فِيهِ	ﱋ	فيه	therein	fīhi
+2	6:60:12	w	لِيُقۡضَىٰٓ	ﱌ	ليقضى	so that is fulfilled	liyuq'ḍā
+2	6:60:13	w	أَجَلٞ	ﱍ	اجل	(the) term	ajalun
+2	6:60:14	w	مُّسَمّٗىۖ	ﱎﱏ	مسمى	specified	musamman
+2	6:60:15	w	ثُمَّ	ﱐ	ثم	Then	thumma
+2	6:60:16	w	إِلَيۡهِ	ﱑ	اليه	to Him	ilayhi
+2	6:60:17	w	مَرۡجِعُكُمۡ	ﱒ	مرجعكم	will be your return	marjiʿukum
+2	6:60:18	w	ثُمَّ	ﱓ	ثم	then	thumma
+3	6:60:19	w	يُنَبِّئُكُم	ﱔ	ينبيكم	He will inform you	yunabbi-ukum
+3	6:60:20	w	بِمَا	ﱕ	بما	about what	bimā
+3	6:60:21	w	كُنتُمۡ	ﱖ	كنتم	you used to	kuntum
+3	6:60:22	w	تَعۡمَلُونَ	ﱗ	تعملون	do	taʿmalūna
+3	6:60:23	e	٦٠	ﱘ			
+3	6:61:1	w	وَهُوَ	ﱙ	وهو	And He	wahuwa
+3	6:61:2	w	ٱلۡقَاهِرُ	ﱚ	القاهر	(is) the Subjugator	l-qāhiru
+3	6:61:3	w	فَوۡقَ	ﱛ	فوق	over	fawqa
+3	6:61:4	w	عِبَادِهِۦۖ	ﱜﱝ	عباده	His slaves	ʿibādihi
+4	6:61:5	w	وَيُرۡسِلُ	ﱞ	ويرسل	and He sends	wayur'silu
+4	6:61:6	w	عَلَيۡكُمۡ	ﱟ	عليكم	over you	ʿalaykum
+4	6:61:7	w	حَفَظَةً	ﱠ	حفظة	guardians	ḥafaẓatan
+4	6:61:8	w	حَتَّىٰٓ	ﱡ	حتى	until	ḥattā
+4	6:61:9	w	إِذَا	ﱢ	اذا	when	idhā
+4	6:61:10	w	جَآءَ	ﱣ	جاء	comes	jāa
+4	6:61:11	w	أَحَدَكُمُ	ﱤ	احدكم	(to) anyone of you	aḥadakumu
+4	6:61:12	w	ٱلۡمَوۡتُ	ﱥ	الموت	the death	l-mawtu
+4	6:61:13	w	تَوَفَّتۡهُ	ﱦ	توفته	take him	tawaffathu
+5	6:61:14	w	رُسُلُنَا	ﱧ	رسلنا	Our messengers	rusulunā
+5	6:61:15	w	وَهُمۡ	ﱨ	وهم	and they	wahum
+5	6:61:16	w	لَا	ﱩ	لا	(do) not	lā
+5	6:61:17	w	يُفَرِّطُونَ	ﱪ	يفرطون	fail	yufarriṭūna
+5	6:61:18	e	٦١	ﱫ			
+5	6:62:1	w	ثُمَّ	ﱬ	ثم	Then	thumma
+5	6:62:2	w	رُدُّوٓاْ	ﱭ	ردوا	they are returned	ruddū
+5	6:62:3	w	إِلَى	ﱮ	الى	to	ilā
+5	6:62:4	w	ٱللَّهِ	ﱯ	الله	Allah	l-lahi
+5	6:62:5	w	مَوۡلَىٰهُمُ	ﱰ	مولاهم	their Protector	mawlāhumu
+5	6:62:6	w	ٱلۡحَقِّۚ	ﱱﱲ	الحق	[the] True	l-ḥaqi
+6	6:62:7	w	أَلَا	ﱳ	الا	Unquestionably	alā
+6	6:62:8	w	لَهُ	ﱴ	له	for Him	lahu
+6	6:62:9	w	ٱلۡحُكۡمُ	ﱵ	الحكم	(is) the judgment	l-ḥuk'mu
+6	6:62:10	w	وَهُوَ	ﱶ	وهو	And He	wahuwa
+6	6:62:11	w	أَسۡرَعُ	ﱷ	اسرع	(is) swiftest	asraʿu
+6	6:62:12	w	ٱلۡحَٰسِبِينَ	ﱸ	الحاسبين	(of) the Reckoners	l-ḥāsibīna
+6	6:62:13	e	٦٢	ﱹ			
+6	6:63:1	w	قُلۡ	ﱺ	قل	Say	qul
+6	6:63:2	w	مَن	ﱻ	من	Who	man
+6	6:63:3	w	يُنَجِّيكُم	ﱼ	ينجيكم	saves you	yunajjīkum
+6	6:63:4	w	مِّن	ﱽ	من	from	min
+7	6:63:5	w	ظُلُمَٰتِ	ﱾ	ظلمات	darkness[es]	ẓulumāti
+7	6:63:6	w	ٱلۡبَرِّ	ﱿ	البر	(of) the land	l-bari
+7	6:63:7	w	وَٱلۡبَحۡرِ	ﲀ	والبحر	and the sea	wal-baḥri
+7	6:63:8	w	تَدۡعُونَهُۥ	ﲁ	تدعونه	you call Him	tadʿūnahu
+7	6:63:9	w	تَضَرُّعٗا	ﲂ	تضرعا	humbly	taḍarruʿan
+7	6:63:10	w	وَخُفۡيَةٗ	ﲃ	وخفية	and secretly	wakhuf'yatan
+7	6:63:11	w	لَّئِنۡ	ﲄ	لين	If	la-in
+7	6:63:12	w	أَنجَىٰنَا	ﲅ	انجانا	He saves us	anjānā
+7	6:63:13	w	مِنۡ	ﲆ	من	from	min
+8	6:63:14	w	هَٰذِهِۦ	ﲇ	هاذه	this	hādhihi
+8	6:63:15	w	لَنَكُونَنَّ	ﲈ	لنكونن	surely we will be	lanakūnanna
+8	6:63:16	w	مِنَ	ﲉ	من	from	mina
+8	6:63:17	w	ٱلشَّٰكِرِينَ	ﲊ	الشاكرين	the grateful ones	l-shākirīna
+8	6:63:18	e	٦٣	ﲋ			
+8	6:64:1	w	قُلِ	ﲌ	قل	Say	quli
+8	6:64:2	w	ٱللَّهُ	ﲍ	الله	Allah	l-lahu
+8	6:64:3	w	يُنَجِّيكُم	ﲎ	ينجيكم	saves you	yunajjīkum
+8	6:64:4	w	مِّنۡهَا	ﲏ	منها	from it	min'hā
+8	6:64:5	w	وَمِن	ﲐ	ومن	and from	wamin
+8	6:64:6	w	كُلِّ	ﲑ	كل	every	kulli
+8	6:64:7	w	كَرۡبٖ	ﲒ	كرب	distress	karbin
+9	6:64:8	w	ثُمَّ	ﲓ	ثم	yet	thumma
+9	6:64:9	w	أَنتُمۡ	ﲔ	انتم	you	antum
+9	6:64:10	w	تُشۡرِكُونَ	ﲕ	تشركون	associate partners (with Allah)	tush'rikūna
+9	6:64:11	e	٦٤	ﲖ			
+9	6:65:1	w	قُلۡ	ﲗ	قل	Say	qul
+9	6:65:2	w	هُوَ	ﲘ	هو	He	huwa
+9	6:65:3	w	ٱلۡقَادِرُ	ﲙ	القادر	(is) All-Capable	l-qādiru
+9	6:65:4	w	عَلَىٰٓ	ﲚ	على	[on]	ʿalā
+9	6:65:5	w	أَن	ﲛ	ان	to	an
+9	6:65:6	w	يَبۡعَثَ	ﲜ	يبعث	send	yabʿatha
+9	6:65:7	w	عَلَيۡكُمۡ	ﲝ	عليكم	upon you	ʿalaykum
+9	6:65:8	w	عَذَابٗا	ﲞ	عذابا	punishment	ʿadhāban
+9	6:65:9	w	مِّن	ﲟ	من	from	min
+10	6:65:10	w	فَوۡقِكُمۡ	ﲠ	فوقكم	above you	fawqikum
+10	6:65:11	w	أَوۡ	ﲡ	او	or	aw
+10	6:65:12	w	مِن	ﲢ	من	from	min
+10	6:65:13	w	تَحۡتِ	ﲣ	تحت	beneath	taḥti
+10	6:65:14	w	أَرۡجُلِكُمۡ	ﲤ	ارجلكم	your feet	arjulikum
+10	6:65:15	w	أَوۡ	ﲥ	او	or	aw
+10	6:65:16	w	يَلۡبِسَكُمۡ	ﲦ	يلبسكم	(to) confuse you	yalbisakum
+10	6:65:17	w	شِيَعٗا	ﲧ	شيعا	(into) sects	shiyaʿan
+10	6:65:18	w	وَيُذِيقَ	ﲨ	ويذيق	and make (you) taste	wayudhīqa
+10	6:65:19	w	بَعۡضَكُم	ﲩ	بعضكم	some of you	baʿḍakum
+11	6:65:20	w	بَأۡسَ	ﲪ	باس	violence	basa
+11	6:65:21	w	بَعۡضٍۗ	ﲫﲬ	بعض	(of) others	baʿḍin
+11	6:65:22	w	ٱنظُرۡ	ﲭ	انظر	See	unẓur
+11	6:65:23	w	كَيۡفَ	ﲮ	كيف	how	kayfa
+11	6:65:24	w	نُصَرِّفُ	ﲯ	نصرف	We explain	nuṣarrifu
+11	6:65:25	w	ٱلۡأٓيَٰتِ	ﲰ	الايات	the Signs	l-āyāti
+11	6:65:26	w	لَعَلَّهُمۡ	ﲱ	لعلهم	so that they may	laʿallahum
+11	6:65:27	w	يَفۡقَهُونَ	ﲲ	يفقهون	understand	yafqahūna
+11	6:65:28	e	٦٥	ﲳ			
+11	6:66:1	w	وَكَذَّبَ	ﲴ	وكذب	But denied	wakadhaba
+12	6:66:2	w	بِهِۦ	ﲵ	به	it	bihi
+12	6:66:3	w	قَوۡمُكَ	ﲶ	قومك	your people	qawmuka
+12	6:66:4	w	وَهُوَ	ﲷ	وهو	while it	wahuwa
+12	6:66:5	w	ٱلۡحَقُّۚ	ﲸﲹ	الحق	(is) the truth	l-ḥaqu
+12	6:66:6	w	قُل	ﲺ	قل	Say	qul
+12	6:66:7	w	لَّسۡتُ	ﲻ	لست	I am not	lastu
+12	6:66:8	w	عَلَيۡكُم	ﲼ	عليكم	over you	ʿalaykum
+12	6:66:9	w	بِوَكِيلٖ	ﲽ	بوكيل	a manager	biwakīlin
+12	6:66:10	e	٦٦	ﲾ			
+12	6:67:1	w	لِّكُلِّ	ﲿ	لكل	For every	likulli
+12	6:67:2	w	نَبَإٖ	ﳀ	نبا	news	naba-in
+13	6:67:3	w	مُّسۡتَقَرّٞۚ	ﳁﳂ	مستقر	(is) a fixed time	mus'taqarrun
+13	6:67:4	w	وَسَوۡفَ	ﳃ	وسوف	and soon	wasawfa
+13	6:67:5	w	تَعۡلَمُونَ	ﳄ	تعلمون	you will know	taʿlamūna
+13	6:67:6	e	٦٧	ﳅ			
+13	6:68:1	w	وَإِذَا	ﳆ	واذا	And when	wa-idhā
+13	6:68:2	w	رَأَيۡتَ	ﳇ	رايت	you see	ra-ayta
+13	6:68:3	w	ٱلَّذِينَ	ﳈ	الذين	those who	alladhīna
+13	6:68:4	w	يَخُوضُونَ	ﳉ	يخوضون	engage (in vain talks)	yakhūḍūna
+13	6:68:5	w	فِيٓ	ﳊ	في	about	fī
+13	6:68:6	w	ءَايَٰتِنَا	ﳋ	اياتنا	Our Verses	āyātinā
+14	6:68:7	w	فَأَعۡرِضۡ	ﳌ	فاعرض	then turn away	fa-aʿriḍ
+14	6:68:8	w	عَنۡهُمۡ	ﳍ	عنهم	from them	ʿanhum
+14	6:68:9	w	حَتَّىٰ	ﳎ	حتى	until	ḥattā
+14	6:68:10	w	يَخُوضُواْ	ﳏ	يخوضوا	they engage	yakhūḍū
+14	6:68:11	w	فِي	ﳐ	في	in	fī
+14	6:68:12	w	حَدِيثٍ	ﳑ	حديث	a talk	ḥadīthin
+14	6:68:13	w	غَيۡرِهِۦۚ	ﳒﳓ	غيره	other than it	ghayrihi
+14	6:68:14	w	وَإِمَّا	ﳔ	واما	And if	wa-immā
+14	6:68:15	w	يُنسِيَنَّكَ	ﳕ	ينسينك	causes you to forget	yunsiyannaka
+15	6:68:16	w	ٱلشَّيۡطَٰنُ	ﳖ	الشيطان	the Shaitaan	l-shayṭānu
+15	6:68:17	w	فَلَا	ﳗ	فلا	then (do) not	falā
+15	6:68:18	w	تَقۡعُدۡ	ﳘ	تقعد	sit	taqʿud
+15	6:68:19	w	بَعۡدَ	ﳙ	بعد	after	baʿda
+15	6:68:20	w	ٱلذِّكۡرَىٰ	ﳚ	الذكرى	the reminder	l-dhik'rā
+15	6:68:21	w	مَعَ	ﳛ	مع	with	maʿa
+15	6:68:22	w	ٱلۡقَوۡمِ	ﳜ	القوم	the people	l-qawmi
+15	6:68:23	w	ٱلظَّٰلِمِينَ	ﳝ	الظالمين	the wrongdoers	l-ẓālimīna
+15	6:68:24	e	٦٨	ﳞ			

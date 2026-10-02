@@ -1,0 +1,127 @@
+1	2:220:1	w	فِي	ﱁ	في	Concerning	fī
+1	2:220:2	w	ٱلدُّنۡيَا	ﱂ	الدنيا	the world	l-dun'yā
+1	2:220:3	w	وَٱلۡأٓخِرَةِۗ	ﱃﱄ	والاخرة	and the Hereafter	wal-ākhirati
+1	2:220:4	w	وَيَسۡـَٔلُونَكَ	ﱅ	ويسالونك	They ask you	wayasalūnaka
+1	2:220:5	w	عَنِ	ﱆ	عن	about	ʿani
+1	2:220:6	w	ٱلۡيَتَٰمَىٰۖ	ﱇﱈ	اليتامى	the orphans	l-yatāmā
+1	2:220:7	w	قُلۡ	ﱉ	قل	Say	qul
+1	2:220:8	w	إِصۡلَاحٞ	ﱊ	اصلاح	Setting right (their affairs)	iṣ'lāḥun
+1	2:220:9	w	لَّهُمۡ	ﱋ	لهم	for them	lahum
+2	2:220:10	w	خَيۡرٞۖ	ﱌﱍ	خير	(is) best	khayrun
+2	2:220:11	w	وَإِن	ﱎ	وان	And if	wa-in
+2	2:220:12	w	تُخَالِطُوهُمۡ	ﱏ	تخالطوهم	you associate with them	tukhāliṭūhum
+2	2:220:13	w	فَإِخۡوَٰنُكُمۡۚ	ﱐﱑ	فاخوانكم	then they (are) your brothers	fa-ikh'wānukum
+2	2:220:14	w	وَٱللَّهُ	ﱒ	والله	And Allah	wal-lahu
+2	2:220:15	w	يَعۡلَمُ	ﱓ	يعلم	knows	yaʿlamu
+2	2:220:16	w	ٱلۡمُفۡسِدَ	ﱔ	المفسد	the corrupter	l-muf'sida
+2	2:220:17	w	مِنَ	ﱕ	من	from	mina
+3	2:220:18	w	ٱلۡمُصۡلِحِۚ	ﱖﱗ	المصلح	the amender	l-muṣ'liḥi
+3	2:220:19	w	وَلَوۡ	ﱘ	ولو	And if	walaw
+3	2:220:20	w	شَآءَ	ﱙ	شاء	(had) willed	shāa
+3	2:220:21	w	ٱللَّهُ	ﱚ	الله	Allah	l-lahu
+3	2:220:22	w	لَأَعۡنَتَكُمۡۚ	ﱛﱜ	لاعنتكم	surely He (could have) put you in difficulties	la-aʿnatakum
+3	2:220:23	w	إِنَّ	ﱝ	ان	Indeed	inna
+3	2:220:24	w	ٱللَّهَ	ﱞ	الله	Allah	l-laha
+3	2:220:25	w	عَزِيزٌ	ﱟ	عزيز	(is) All-Mighty	ʿazīzun
+3	2:220:26	w	حَكِيمٞ	ﱠ	حكيم	All-Wise	ḥakīmun
+4	2:220:27	e	٢٢٠	ﱡ			
+4	2:221:1	w	وَلَا	ﱢ	ولا	And (do) not	walā
+4	2:221:2	w	تَنكِحُواْ	ﱣ	تنكحوا	[you] marry	tankiḥū
+4	2:221:3	w	ٱلۡمُشۡرِكَٰتِ	ﱤ	المشركات	[the] polytheistic women	l-mush'rikāti
+4	2:221:4	w	حَتَّىٰ	ﱥ	حتى	until	ḥattā
+4	2:221:5	w	يُؤۡمِنَّۚ	ﱦﱧ	يومن	they believe	yu'minna
+4	2:221:6	w	وَلَأَمَةٞ	ﱨ	ولامة	And a bondwoman	wala-amatun
+4	2:221:7	w	مُّؤۡمِنَةٌ	ﱩ	مومنة	(who is) believing	mu'minatun
+5	2:221:8	w	خَيۡرٞ	ﱪ	خير	(is) better	khayrun
+5	2:221:9	w	مِّن	ﱫ	من	than	min
+5	2:221:10	w	مُّشۡرِكَةٖ	ﱬ	مشركة	a polytheistic woman	mush'rikatin
+5	2:221:11	w	وَلَوۡ	ﱭ	ولو	[and] even if	walaw
+5	2:221:12	w	أَعۡجَبَتۡكُمۡۗ	ﱮﱯ	اعجبتكم	she pleases you	aʿjabatkum
+5	2:221:13	w	وَلَا	ﱰ	ولا	And (do) not	walā
+5	2:221:14	w	تُنكِحُواْ	ﱱ	تنكحوا	give in marriage (your women)	tunkiḥū
+5	2:221:15	w	ٱلۡمُشۡرِكِينَ	ﱲ	المشركين	(to) [the] polytheistic men	l-mush'rikīna
+6	2:221:16	w	حَتَّىٰ	ﱳ	حتى	until	ḥattā
+6	2:221:17	w	يُؤۡمِنُواْۚ	ﱴﱵ	يومنوا	they believe	yu'minū
+6	2:221:18	w	وَلَعَبۡدٞ	ﱶ	ولعبد	and a bondman	walaʿabdun
+6	2:221:19	w	مُّؤۡمِنٌ	ﱷ	مومن	(who is) believing	mu'minun
+6	2:221:20	w	خَيۡرٞ	ﱸ	خير	(is) better	khayrun
+6	2:221:21	w	مِّن	ﱹ	من	than	min
+6	2:221:22	w	مُّشۡرِكٖ	ﱺ	مشرك	a polytheistic man	mush'rikin
+6	2:221:23	w	وَلَوۡ	ﱻ	ولو	[and] even if	walaw
+6	2:221:24	w	أَعۡجَبَكُمۡۗ	ﱼﱽ	اعجبكم	he pleases you	aʿjabakum
+7	2:221:25	w	أُوْلَٰٓئِكَ	ﱾ	اولايك	[Those]	ulāika
+7	2:221:26	w	يَدۡعُونَ	ﱿ	يدعون	they invite	yadʿūna
+7	2:221:27	w	إِلَى	ﲀ	الى	to	ilā
+7	2:221:28	w	ٱلنَّارِۖ	ﲁﲂ	النار	the Fire	l-nāri
+7	2:221:29	w	وَٱللَّهُ	ﲃ	والله	and Allah	wal-lahu
+7	2:221:30	w	يَدۡعُوٓاْ	ﲄ	يدعو	invites	yadʿū
+7	2:221:31	w	إِلَى	ﲅ	الى	to	ilā
+7	2:221:32	w	ٱلۡجَنَّةِ	ﲆ	الجنة	Paradise	l-janati
+7	2:221:33	w	وَٱلۡمَغۡفِرَةِ	ﲇ	والمغفرة	and [the] forgiveness	wal-maghfirati
+8	2:221:34	w	بِإِذۡنِهِۦۖ	ﲈﲉ	باذنه	by His permission	bi-idh'nihi
+8	2:221:35	w	وَيُبَيِّنُ	ﲊ	ويبين	And He makes clear	wayubayyinu
+8	2:221:36	w	ءَايَٰتِهِۦ	ﲋ	اياته	His Verses	āyātihi
+8	2:221:37	w	لِلنَّاسِ	ﲌ	للناس	for the people	lilnnāsi
+8	2:221:38	w	لَعَلَّهُمۡ	ﲍ	لعلهم	so that they may	laʿallahum
+8	2:221:39	w	يَتَذَكَّرُونَ	ﲎ	يتذكرون	take heed	yatadhakkarūna
+8	2:221:40	e	٢٢١	ﲏ			
+9	2:222:1	w	وَيَسۡـَٔلُونَكَ	ﲐ	ويسالونك	And they ask you	wayasalūnaka
+9	2:222:2	w	عَنِ	ﲑ	عن	about	ʿani
+9	2:222:3	w	ٱلۡمَحِيضِۖ	ﲒﲓ	المحيض	[the] menstruation	l-maḥīḍi
+9	2:222:4	w	قُلۡ	ﲔ	قل	Say	qul
+9	2:222:5	w	هُوَ	ﲕ	هو	It	huwa
+9	2:222:6	w	أَذٗى	ﲖ	اذى	(is) a hurt	adhan
+9	2:222:7	w	فَٱعۡتَزِلُواْ	ﲗ	فاعتزلوا	so keep away (from)	fa-iʿ'tazilū
+9	2:222:8	w	ٱلنِّسَآءَ	ﲘ	النساء	[the] women	l-nisāa
+9	2:222:9	w	فِي	ﲙ	في	during	fī
+10	2:222:10	w	ٱلۡمَحِيضِ	ﲚ	المحيض	(their) [the] menstruation	l-maḥīḍi
+10	2:222:11	w	وَلَا	ﲛ	ولا	And (do) not	walā
+10	2:222:12	w	تَقۡرَبُوهُنَّ	ﲜ	تقربوهن	approach them	taqrabūhunna
+10	2:222:13	w	حَتَّىٰ	ﲝ	حتى	until	ḥattā
+10	2:222:14	w	يَطۡهُرۡنَۖ	ﲞﲟ	يطهرن	they are cleansed	yaṭhur'na
+10	2:222:15	w	فَإِذَا	ﲠ	فاذا	Then when	fa-idhā
+10	2:222:16	w	تَطَهَّرۡنَ	ﲡ	تطهرن	they are purified	taṭahharna
+10	2:222:17	w	فَأۡتُوهُنَّ	ﲢ	فاتوهن	then come to them	fatūhunna
+11	2:222:18	w	مِنۡ	ﲣ	من	from	min
+11	2:222:19	w	حَيۡثُ	ﲤ	حيث	where	ḥaythu
+11	2:222:20	w	أَمَرَكُمُ	ﲥ	امركم	has ordered you	amarakumu
+11	2:222:21	w	ٱللَّهُۚ	ﲦﲧ	الله	Allah	l-lahu
+11	2:222:22	w	إِنَّ	ﲨ	ان	Indeed	inna
+11	2:222:23	w	ٱللَّهَ	ﲩ	الله	Allah	l-laha
+11	2:222:24	w	يُحِبُّ	ﲪ	يحب	loves	yuḥibbu
+11	2:222:25	w	ٱلتَّوَّٰبِينَ	ﲫ	التوابين	those who turn in repentance	l-tawābīna
+11	2:222:26	w	وَيُحِبُّ	ﲬ	ويحب	and loves	wayuḥibbu
+11	2:222:27	w	ٱلۡمُتَطَهِّرِينَ	ﲭ	المتطهرين	those who purify themselves	l-mutaṭahirīna
+12	2:222:28	e	٢٢٢	ﲮ			
+12	2:223:1	w	نِسَآؤُكُمۡ	ﲯ	نساوكم	Your wives	nisāukum
+12	2:223:2	w	حَرۡثٞ	ﲰ	حرث	(are) a tilth	ḥarthun
+12	2:223:3	w	لَّكُمۡ	ﲱ	لكم	for you	lakum
+12	2:223:4	w	فَأۡتُواْ	ﲲ	فاتوا	so come	fatū
+12	2:223:5	w	حَرۡثَكُمۡ	ﲳ	حرثكم	(to) your tilth	ḥarthakum
+12	2:223:6	w	أَنَّىٰ	ﲴ	انى	when	annā
+12	2:223:7	w	شِئۡتُمۡۖ	ﲵﲶ	شيتم	you wish	shi'tum
+12	2:223:8	w	وَقَدِّمُواْ	ﲷ	وقدموا	and send forth (good deeds)	waqaddimū
+13	2:223:9	w	لِأَنفُسِكُمۡۚ	ﲸﲹ	لانفسكم	for yourselves	li-anfusikum
+13	2:223:10	w	وَٱتَّقُواْ	ﲺ	واتقوا	And be conscious	wa-ittaqū
+13	2:223:11	w	ٱللَّهَ	ﲻ	الله	(of) Allah	l-laha
+13	2:223:12	w	وَٱعۡلَمُوٓاْ	ﲼ	واعلموا	and know	wa-iʿ'lamū
+13	2:223:13	w	أَنَّكُم	ﲽ	انكم	that you	annakum
+13	2:223:14	w	مُّلَٰقُوهُۗ	ﲾﲿ	ملاقوه	(will) meet Him	mulāqūhu
+13	2:223:15	w	وَبَشِّرِ	ﳀ	وبشر	And give glad tidings	wabashiri
+14	2:223:16	w	ٱلۡمُؤۡمِنِينَ	ﳁ	المومنين	(to) the believers	l-mu'minīna
+14	2:223:17	e	٢٢٣	ﳂ			
+14	2:224:1	w	وَلَا	ﳃ	ولا	And (do) not	walā
+14	2:224:2	w	تَجۡعَلُواْ	ﳄ	تجعلوا	make	tajʿalū
+14	2:224:3	w	ٱللَّهَ	ﳅ	الله	Allah's (name)	l-laha
+14	2:224:4	w	عُرۡضَةٗ	ﳆ	عرضة	an excuse	ʿur'ḍatan
+14	2:224:5	w	لِّأَيۡمَٰنِكُمۡ	ﳇ	لايمانكم	in your oaths	li-aymānikum
+14	2:224:6	w	أَن	ﳈ	ان	that	an
+14	2:224:7	w	تَبَرُّواْ	ﳉ	تبروا	you do good	tabarrū
+15	2:224:8	w	وَتَتَّقُواْ	ﳊ	وتتقوا	and be righteous	watattaqū
+15	2:224:9	w	وَتُصۡلِحُواْ	ﳋ	وتصلحوا	and make peace	watuṣ'liḥū
+15	2:224:10	w	بَيۡنَ	ﳌ	بين	between	bayna
+15	2:224:11	w	ٱلنَّاسِۚ	ﳍﳎ	الناس	[the] people	l-nāsi
+15	2:224:12	w	وَٱللَّهُ	ﳏ	والله	And Allah	wal-lahu
+15	2:224:13	w	سَمِيعٌ	ﳐ	سميع	(is) All-Hearing	samīʿun
+15	2:224:14	w	عَلِيمٞ	ﳑ	عليم	All-Knowing	ʿalīmun
+15	2:224:15	e	٢٢٤	ﳒ			

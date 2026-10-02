@@ -1,0 +1,149 @@
+1	34:8:1	w	أَفۡتَرَىٰ	ﱁ	افترى	Has he invented	aftarā
+1	34:8:2	w	عَلَى	ﱂ	على	about	ʿalā
+1	34:8:3	w	ٱللَّهِ	ﱃ	الله	Allah	l-lahi
+1	34:8:4	w	كَذِبًا	ﱄ	كذبا	a lie	kadhiban
+1	34:8:5	w	أَم	ﱅ	ام	or	am
+1	34:8:6	w	بِهِۦ	ﱆ	به	in him	bihi
+1	34:8:7	w	جِنَّةُۢۗ	ﱇﱈ	جنة	(is) madness	jinnatun
+1	34:8:8	w	بَلِ	ﱉ	بل	Nay	bali
+1	34:8:9	w	ٱلَّذِينَ	ﱊ	الذين	those who	alladhīna
+1	34:8:10	w	لَا	ﱋ	لا	(do) not	lā
+1	34:8:11	w	يُؤۡمِنُونَ	ﱌ	يومنون	believe	yu'minūna
+1	34:8:12	w	بِٱلۡأٓخِرَةِ	ﱍ	بالاخرة	in the Hereafter	bil-ākhirati
+2	34:8:13	w	فِي	ﱎ	في	(will be) in	fī
+2	34:8:14	w	ٱلۡعَذَابِ	ﱏ	العذاب	the punishment	l-ʿadhābi
+2	34:8:15	w	وَٱلضَّلَٰلِ	ﱐ	والضلال	and error	wal-ḍalāli
+2	34:8:16	w	ٱلۡبَعِيدِ	ﱑ	البعيد	far	l-baʿīdi
+2	34:8:17	e	٨	ﱒ			
+2	34:9:1	w	أَفَلَمۡ	ﱓ	افلم	Then, do not	afalam
+2	34:9:2	w	يَرَوۡاْ	ﱔ	يروا	they see	yaraw
+2	34:9:3	w	إِلَىٰ	ﱕ	الى	towards	ilā
+2	34:9:4	w	مَا	ﱖ	ما	what	mā
+2	34:9:5	w	بَيۡنَ	ﱗ	بين	(is) before them	bayna
+2	34:9:6	w	أَيۡدِيهِمۡ	ﱘ	ايديهم	(is) before them	aydīhim
+3	34:9:7	w	وَمَا	ﱙ	وما	and what	wamā
+3	34:9:8	w	خَلۡفَهُم	ﱚ	خلفهم	(is) behind them	khalfahum
+3	34:9:9	w	مِّنَ	ﱛ	من	of	mina
+3	34:9:10	w	ٱلسَّمَآءِ	ﱜ	السماء	the heaven	l-samāi
+3	34:9:11	w	وَٱلۡأَرۡضِۚ	ﱝﱞ	والارض	and the earth	wal-arḍi
+3	34:9:12	w	إِن	ﱟ	ان	If	in
+3	34:9:13	w	نَّشَأۡ	ﱠ	نشا	We will	nasha
+3	34:9:14	w	نَخۡسِفۡ	ﱡ	نخسف	We (could) cause to swallow them	nakhsif
+3	34:9:15	w	بِهِمُ	ﱢ	بهم	We (could) cause to swallow them	bihimu
+3	34:9:16	w	ٱلۡأَرۡضَ	ﱣ	الارض	the earth	l-arḍa
+4	34:9:17	w	أَوۡ	ﱤ	او	or	aw
+4	34:9:18	w	نُسۡقِطۡ	ﱥ	نسقط	cause to fall	nus'qiṭ
+4	34:9:19	w	عَلَيۡهِمۡ	ﱦ	عليهم	upon them	ʿalayhim
+4	34:9:20	w	كِسَفٗا	ﱧ	كسفا	fragments	kisafan
+4	34:9:21	w	مِّنَ	ﱨ	من	from	mina
+4	34:9:22	w	ٱلسَّمَآءِۚ	ﱩﱪ	السماء	the sky	l-samāi
+4	34:9:23	w	إِنَّ	ﱫ	ان	Indeed	inna
+4	34:9:24	w	فِي	ﱬ	في	in	fī
+4	34:9:25	w	ذَٰلِكَ	ﱭ	ذالك	that	dhālika
+4	34:9:26	w	لَأٓيَةٗ	ﱮ	لاية	surely, is a Sign	laāyatan
+5	34:9:27	w	لِّكُلِّ	ﱯ	لكل	for every	likulli
+5	34:9:28	w	عَبۡدٖ	ﱰ	عبد	slave	ʿabdin
+5	34:9:29	w	مُّنِيبٖ	ﱱ	منيب	who turns (to Allah)	munībin
+5	34:9:30	e	٩	ﱲ			
+5	34:10:1	w	۞ وَلَقَدۡ	ﱳ ﱴ	۞ ولقد	And certainly	walaqad
+5	34:10:2	w	ءَاتَيۡنَا	ﱵ	اتينا	We gave	ātaynā
+5	34:10:3	w	دَاوُۥدَ	ﱶ	داوود	Dawood	dāwūda
+5	34:10:4	w	مِنَّا	ﱷ	منا	from Us	minnā
+5	34:10:5	w	فَضۡلٗاۖ	ﱸﱹ	فضلا	Bounty	faḍlan
+6	34:10:6	w	يَٰجِبَالُ	ﱺ	يا جبال	O mountains	yājibālu
+6	34:10:7	w	أَوِّبِي	ﱻ	اوبي	Repeat praises	awwibī
+6	34:10:8	w	مَعَهُۥ	ﱼ	معه	with him	maʿahu
+6	34:10:9	w	وَٱلطَّيۡرَۖ	ﱽﱾ	والطير	and the birds	wal-ṭayra
+6	34:10:10	w	وَأَلَنَّا	ﱿ	والنا	And We made pliable	wa-alannā
+6	34:10:11	w	لَهُ	ﲀ	له	for him	lahu
+6	34:10:12	w	ٱلۡحَدِيدَ	ﲁ	الحديد	[the] iron	l-ḥadīda
+6	34:10:13	e	١٠	ﲂ			
+6	34:11:1	w	أَنِ	ﲃ	ان	That	ani
+6	34:11:2	w	ٱعۡمَلۡ	ﲄ	اعمل	make	iʿ'mal
+7	34:11:3	w	سَٰبِغَٰتٖ	ﲅ	سابغات	full coats of mail	sābighātin
+7	34:11:4	w	وَقَدِّرۡ	ﲆ	وقدر	and measure precisely	waqaddir
+7	34:11:5	w	فِي	ﲇ	في	[of]	fī
+7	34:11:6	w	ٱلسَّرۡدِۖ	ﲈﲉ	السرد	the links (of armor)	l-sardi
+7	34:11:7	w	وَٱعۡمَلُواْ	ﲊ	واعملوا	and work	wa-iʿ'malū
+7	34:11:8	w	صَٰلِحًاۖ	ﲋﲌ	صالحا	righteousness	ṣāliḥan
+7	34:11:9	w	إِنِّي	ﲍ	اني	Indeed, I Am	innī
+7	34:11:10	w	بِمَا	ﲎ	بما	of what	bimā
+7	34:11:11	w	تَعۡمَلُونَ	ﲏ	تعملون	you do	taʿmalūna
+8	34:11:12	w	بَصِيرٞ	ﲐ	بصير	All-Seer	baṣīrun
+8	34:11:13	e	١١	ﲑ			
+8	34:12:1	w	وَلِسُلَيۡمَٰنَ	ﲒ	ولسليمان	And to Sulaiman	walisulaymāna
+8	34:12:2	w	ٱلرِّيحَ	ﲓ	الريح	the wind	l-rīḥa
+8	34:12:3	w	غُدُوُّهَا	ﲔ	غدوها	its morning course	ghuduwwuhā
+8	34:12:4	w	شَهۡرٞ	ﲕ	شهر	(was) a month	shahrun
+8	34:12:5	w	وَرَوَاحُهَا	ﲖ	ورواحها	and its afternoon course	warawāḥuhā
+8	34:12:6	w	شَهۡرٞۖ	ﲗﲘ	شهر	(was) a month	shahrun
+9	34:12:7	w	وَأَسَلۡنَا	ﲙ	واسلنا	and We caused to flow	wa-asalnā
+9	34:12:8	w	لَهُۥ	ﲚ	له	for him	lahu
+9	34:12:9	w	عَيۡنَ	ﲛ	عين	a spring	ʿayna
+9	34:12:10	w	ٱلۡقِطۡرِۖ	ﲜﲝ	القطر	(of) molten copper	l-qiṭ'ri
+9	34:12:11	w	وَمِنَ	ﲞ	ومن	And [of]	wamina
+9	34:12:12	w	ٱلۡجِنِّ	ﲟ	الجن	the jinn	l-jini
+9	34:12:13	w	مَن	ﲠ	من	who	man
+9	34:12:14	w	يَعۡمَلُ	ﲡ	يعمل	worked	yaʿmalu
+9	34:12:15	w	بَيۡنَ	ﲢ	بين	before him	bayna
+9	34:12:16	w	يَدَيۡهِ	ﲣ	يديه	before him	yadayhi
+9	34:12:17	w	بِإِذۡنِ	ﲤ	باذن	by the permission	bi-idh'ni
+10	34:12:18	w	رَبِّهِۦۖ	ﲥﲦ	ربه	(of) his Lord	rabbihi
+10	34:12:19	w	وَمَن	ﲧ	ومن	And whoever	waman
+10	34:12:20	w	يَزِغۡ	ﲨ	يزغ	deviated	yazigh
+10	34:12:21	w	مِنۡهُمۡ	ﲩ	منهم	among them	min'hum
+10	34:12:22	w	عَنۡ	ﲪ	عن	from	ʿan
+10	34:12:23	w	أَمۡرِنَا	ﲫ	امرنا	Our Command	amrinā
+10	34:12:24	w	نُذِقۡهُ	ﲬ	نذقه	We will make him taste	nudhiq'hu
+10	34:12:25	w	مِنۡ	ﲭ	من	of	min
+10	34:12:26	w	عَذَابِ	ﲮ	عذاب	(the) punishment	ʿadhābi
+10	34:12:27	w	ٱلسَّعِيرِ	ﲯ	السعير	(of) the Blaze	l-saʿīri
+10	34:12:28	e	١٢	ﲰ			
+11	34:13:1	w	يَعۡمَلُونَ	ﲱ	يعملون	They worked	yaʿmalūna
+11	34:13:2	w	لَهُۥ	ﲲ	له	for him	lahu
+11	34:13:3	w	مَا	ﲳ	ما	what	mā
+11	34:13:4	w	يَشَآءُ	ﲴ	يشاء	he willed	yashāu
+11	34:13:5	w	مِن	ﲵ	من	of	min
+11	34:13:6	w	مَّحَٰرِيبَ	ﲶ	محاريب	elevated chambers	maḥārība
+11	34:13:7	w	وَتَمَٰثِيلَ	ﲷ	وتماثيل	and statues	watamāthīla
+11	34:13:8	w	وَجِفَانٖ	ﲸ	وجفان	and bowls	wajifānin
+11	34:13:9	w	كَٱلۡجَوَابِ	ﲹ	كالجواب	like reservoirs	kal-jawābi
+12	34:13:10	w	وَقُدُورٖ	ﲺ	وقدور	and cooking-pots	waqudūrin
+12	34:13:11	w	رَّاسِيَٰتٍۚ	ﲻﲼ	راسيات	fixed	rāsiyātin
+12	34:13:12	w	ٱعۡمَلُوٓاْ	ﲽ	اعملوا	Work	iʿ'malū
+12	34:13:13	w	ءَالَ	ﲾ	ال	O family	āla
+12	34:13:14	w	دَاوُۥدَ	ﲿ	داوود	(of) Dawood	dāwūda
+12	34:13:15	w	شُكۡرٗاۚ	ﳀﳁ	شكرا	(in) gratitude	shuk'ran
+12	34:13:16	w	وَقَلِيلٞ	ﳂ	وقليل	But few	waqalīlun
+12	34:13:17	w	مِّنۡ	ﳃ	من	of	min
+12	34:13:18	w	عِبَادِيَ	ﳄ	عبادي	My slaves	ʿibādiya
+13	34:13:19	w	ٱلشَّكُورُ	ﳅ	الشكور	(are) grateful	l-shakūru
+13	34:13:20	e	١٣	ﳆ			
+13	34:14:1	w	فَلَمَّا	ﳇ	فلما	Then when	falammā
+13	34:14:2	w	قَضَيۡنَا	ﳈ	قضينا	We decreed	qaḍaynā
+13	34:14:3	w	عَلَيۡهِ	ﳉ	عليه	for him	ʿalayhi
+13	34:14:4	w	ٱلۡمَوۡتَ	ﳊ	الموت	the death	l-mawta
+13	34:14:5	w	مَا	ﳋ	ما	not	mā
+13	34:14:6	w	دَلَّهُمۡ	ﳌ	دلهم	indicated to them	dallahum
+13	34:14:7	w	عَلَىٰ	ﳍ	على	[on]	ʿalā
+13	34:14:8	w	مَوۡتِهِۦٓ	ﳎ	موته	his death	mawtihi
+14	34:14:9	w	إِلَّا	ﳏ	الا	except	illā
+14	34:14:10	w	دَآبَّةُ	ﳐ	دابة	a creature	dābbatu
+14	34:14:11	w	ٱلۡأَرۡضِ	ﳑ	الارض	(of) the earth	l-arḍi
+14	34:14:12	w	تَأۡكُلُ	ﳒ	تاكل	eating	takulu
+14	34:14:13	w	مِنسَأَتَهُۥۖ	ﳓﳔ	منساته	his staff	minsa-atahu
+14	34:14:14	w	فَلَمَّا	ﳕ	فلما	But when	falammā
+14	34:14:15	w	خَرَّ	ﳖ	خر	he fell down	kharra
+14	34:14:16	w	تَبَيَّنَتِ	ﳗ	تبينت	became clear	tabayyanati
+14	34:14:17	w	ٱلۡجِنُّ	ﳘ	الجن	(to) the jinn	l-jinu
+15	34:14:18	w	أَن	ﳙ	ان	that	an
+15	34:14:19	w	لَّوۡ	ﳚ	لو	if	law
+15	34:14:20	w	كَانُواْ	ﳛ	كانوا	they had	kānū
+15	34:14:21	w	يَعۡلَمُونَ	ﳜ	يعلمون	known	yaʿlamūna
+15	34:14:22	w	ٱلۡغَيۡبَ	ﳝ	الغيب	the unseen	l-ghayba
+15	34:14:23	w	مَا	ﳞ	ما	not	mā
+15	34:14:24	w	لَبِثُواْ	ﳟ	لبثوا	they (would have) remained	labithū
+15	34:14:25	w	فِي	ﳠ	في	in	fī
+15	34:14:26	w	ٱلۡعَذَابِ	ﳡ	العذاب	the punishment	l-ʿadhābi
+15	34:14:27	w	ٱلۡمُهِينِ	ﳢ	المهين	humiliating	l-muhīni
+15	34:14:28	e	١٤	ﳣ			

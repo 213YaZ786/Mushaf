@@ -1,0 +1,158 @@
+1	17:39:1	w	ذَٰلِكَ	ﱁ	ذالك	That	dhālika
+1	17:39:2	w	مِمَّآ	ﱂ	مما	(is) from what	mimmā
+1	17:39:3	w	أَوۡحَىٰٓ	ﱃ	اوحى	(was) revealed	awḥā
+1	17:39:4	w	إِلَيۡكَ	ﱄ	اليك	to you	ilayka
+1	17:39:5	w	رَبُّكَ	ﱅ	ربك	(from) your Lord	rabbuka
+1	17:39:6	w	مِنَ	ﱆ	من	of	mina
+1	17:39:7	w	ٱلۡحِكۡمَةِۗ	ﱇﱈ	الحكمة	the wisdom	l-ḥik'mati
+1	17:39:8	w	وَلَا	ﱉ	ولا	And (do) not	walā
+1	17:39:9	w	تَجۡعَلۡ	ﱊ	تجعل	make	tajʿal
+1	17:39:10	w	مَعَ	ﱋ	مع	with	maʿa
+1	17:39:11	w	ٱللَّهِ	ﱌ	الله	Allah	l-lahi
+1	17:39:12	w	إِلَٰهًا	ﱍ	الاها	god	ilāhan
+2	17:39:13	w	ءَاخَرَ	ﱎ	اخر	other	ākhara
+2	17:39:14	w	فَتُلۡقَىٰ	ﱏ	فتلقى	lest you should be thrown	fatul'qā
+2	17:39:15	w	فِي	ﱐ	في	in	fī
+2	17:39:16	w	جَهَنَّمَ	ﱑ	جهنم	Hell	jahannama
+2	17:39:17	w	مَلُومٗا	ﱒ	ملوما	blameworthy	malūman
+2	17:39:18	w	مَّدۡحُورًا	ﱓ	مدحورا	abandoned	madḥūran
+2	17:39:19	e	٣٩	ﱔ			
+2	17:40:1	w	أَفَأَصۡفَىٰكُمۡ	ﱕ	افاصفاكم	Then has your Lord chosen (for) you	afa-aṣfākum
+2	17:40:2	w	رَبُّكُم	ﱖ	ربكم	Then has your Lord chosen (for) you	rabbukum
+3	17:40:3	w	بِٱلۡبَنِينَ	ﱗ	بالبنين	sons	bil-banīna
+3	17:40:4	w	وَٱتَّخَذَ	ﱘ	واتخذ	and He has taken	wa-ittakhadha
+3	17:40:5	w	مِنَ	ﱙ	من	from	mina
+3	17:40:6	w	ٱلۡمَلَٰٓئِكَةِ	ﱚ	الملايكة	the Angels	l-malāikati
+3	17:40:7	w	إِنَٰثًاۚ	ﱛﱜ	اناثا	daughters	ināthan
+3	17:40:8	w	إِنَّكُمۡ	ﱝ	انكم	Indeed, you	innakum
+3	17:40:9	w	لَتَقُولُونَ	ﱞ	لتقولون	surely say	lataqūlūna
+3	17:40:10	w	قَوۡلًا	ﱟ	قولا	a word	qawlan
+3	17:40:11	w	عَظِيمٗا	ﱠ	عظيما	grave	ʿaẓīman
+3	17:40:12	e	٤٠	ﱡ			
+4	17:41:1	w	وَلَقَدۡ	ﱢ	ولقد	And verily	walaqad
+4	17:41:2	w	صَرَّفۡنَا	ﱣ	صرفنا	We have explained	ṣarrafnā
+4	17:41:3	w	فِي	ﱤ	في	in	fī
+4	17:41:4	w	هَٰذَا	ﱥ	هاذا	this	hādhā
+4	17:41:5	w	ٱلۡقُرۡءَانِ	ﱦ	القران	the Quran	l-qur'āni
+4	17:41:6	w	لِيَذَّكَّرُواْ	ﱧ	ليذكروا	that they may take heed	liyadhakkarū
+4	17:41:7	w	وَمَا	ﱨ	وما	but not	wamā
+4	17:41:8	w	يَزِيدُهُمۡ	ﱩ	يزيدهم	it increases them	yazīduhum
+4	17:41:9	w	إِلَّا	ﱪ	الا	except	illā
+4	17:41:10	w	نُفُورٗا	ﱫ	نفورا	(in) aversion	nufūran
+4	17:41:11	e	٤١	ﱬ			
+5	17:42:1	w	قُل	ﱭ	قل	Say	qul
+5	17:42:2	w	لَّوۡ	ﱮ	لو	If	law
+5	17:42:3	w	كَانَ	ﱯ	كان	(there) were	kāna
+5	17:42:4	w	مَعَهُۥٓ	ﱰ	معه	with Him	maʿahu
+5	17:42:5	w	ءَالِهَةٞ	ﱱ	الهة	gods	ālihatun
+5	17:42:6	w	كَمَا	ﱲ	كما	as	kamā
+5	17:42:7	w	يَقُولُونَ	ﱳ	يقولون	they say	yaqūlūna
+5	17:42:8	w	إِذٗا	ﱴ	اذا	then	idhan
+5	17:42:9	w	لَّٱبۡتَغَوۡاْ	ﱵ	لابتغوا	surely they (would) have sought	la-ib'taghaw
+5	17:42:10	w	إِلَىٰ	ﱶ	الى	to	ilā
+5	17:42:11	w	ذِي	ﱷ	ذي	(the) Owner	dhī
+5	17:42:12	w	ٱلۡعَرۡشِ	ﱸ	العرش	(of) the Throne	l-ʿarshi
+5	17:42:13	w	سَبِيلٗا	ﱹ	سبيلا	a way	sabīlan
+6	17:42:14	e	٤٢	ﱺ			
+6	17:43:1	w	سُبۡحَٰنَهُۥ	ﱻ	سبحانه	Glorified is He	sub'ḥānahu
+6	17:43:2	w	وَتَعَٰلَىٰ	ﱼ	وتعالى	and Exalted is He	wataʿālā
+6	17:43:3	w	عَمَّا	ﱽ	عما	above what	ʿammā
+6	17:43:4	w	يَقُولُونَ	ﱾ	يقولون	they say	yaqūlūna
+6	17:43:5	w	عُلُوّٗا	ﱿ	علوا	(by) height	ʿuluwwan
+6	17:43:6	w	كَبِيرٗا	ﲀ	كبيرا	great	kabīran
+6	17:43:7	e	٤٣	ﲁ			
+6	17:44:1	w	تُسَبِّحُ	ﲂ	تسبح	Glorify	tusabbiḥu
+6	17:44:2	w	لَهُ	ﲃ	له	[to] Him	lahu
+6	17:44:3	w	ٱلسَّمَٰوَٰتُ	ﲄ	السماوات	the seven heavens	l-samāwātu
+7	17:44:4	w	ٱلسَّبۡعُ	ﲅ	السبع	the seven heavens	l-sabʿu
+7	17:44:5	w	وَٱلۡأَرۡضُ	ﲆ	والارض	and the earth	wal-arḍu
+7	17:44:6	w	وَمَن	ﲇ	ومن	and whatever	waman
+7	17:44:7	w	فِيهِنَّۚ	ﲈﲉ	فيهن	(is) in them	fīhinna
+7	17:44:8	w	وَإِن	ﲊ	وان	And (there is) not	wa-in
+7	17:44:9	w	مِّن	ﲋ	من	any	min
+7	17:44:10	w	شَيۡءٍ	ﲌ	شيء	thing	shayin
+7	17:44:11	w	إِلَّا	ﲍ	الا	except	illā
+7	17:44:12	w	يُسَبِّحُ	ﲎ	يسبح	glorifies	yusabbiḥu
+7	17:44:13	w	بِحَمۡدِهِۦ	ﲏ	بحمده	His Praise	biḥamdihi
+7	17:44:14	w	وَلَٰكِن	ﲐ	ولاكن	but	walākin
+8	17:44:15	w	لَّا	ﲑ	لا	not	lā
+8	17:44:16	w	تَفۡقَهُونَ	ﲒ	تفقهون	you understand	tafqahūna
+8	17:44:17	w	تَسۡبِيحَهُمۡۚ	ﲓﲔ	تسبيحهم	their glorification	tasbīḥahum
+8	17:44:18	w	إِنَّهُۥ	ﲕ	انه	Indeed, He	innahu
+8	17:44:19	w	كَانَ	ﲖ	كان	is	kāna
+8	17:44:20	w	حَلِيمًا	ﲗ	حليما	Ever-Forbearing	ḥalīman
+8	17:44:21	w	غَفُورٗا	ﲘ	غفورا	Oft-Forgiving	ghafūran
+8	17:44:22	e	٤٤	ﲙ			
+8	17:45:1	w	وَإِذَا	ﲚ	واذا	And when	wa-idhā
+8	17:45:2	w	قَرَأۡتَ	ﲛ	قرات	you recite	qarata
+9	17:45:3	w	ٱلۡقُرۡءَانَ	ﲜ	القران	the Quran	l-qur'āna
+9	17:45:4	w	جَعَلۡنَا	ﲝ	جعلنا	We place	jaʿalnā
+9	17:45:5	w	بَيۡنَكَ	ﲞ	بينك	between you	baynaka
+9	17:45:6	w	وَبَيۡنَ	ﲟ	وبين	and between	wabayna
+9	17:45:7	w	ٱلَّذِينَ	ﲠ	الذين	those who	alladhīna
+9	17:45:8	w	لَا	ﲡ	لا	(do) not	lā
+9	17:45:9	w	يُؤۡمِنُونَ	ﲢ	يومنون	believe	yu'minūna
+9	17:45:10	w	بِٱلۡأٓخِرَةِ	ﲣ	بالاخرة	in the Hereafter	bil-ākhirati
+9	17:45:11	w	حِجَابٗا	ﲤ	حجابا	a barrier	ḥijāban
+10	17:45:12	w	مَّسۡتُورٗا	ﲥ	مستورا	hidden	mastūran
+10	17:45:13	e	٤٥	ﲦ			
+10	17:46:1	w	وَجَعَلۡنَا	ﲧ	وجعلنا	And We have placed	wajaʿalnā
+10	17:46:2	w	عَلَىٰ	ﲨ	على	over	ʿalā
+10	17:46:3	w	قُلُوبِهِمۡ	ﲩ	قلوبهم	their hearts	qulūbihim
+10	17:46:4	w	أَكِنَّةً	ﲪ	اكنة	coverings	akinnatan
+10	17:46:5	w	أَن	ﲫ	ان	lest	an
+10	17:46:6	w	يَفۡقَهُوهُ	ﲬ	يفقهوه	they understand it	yafqahūhu
+10	17:46:7	w	وَفِيٓ	ﲭ	وفي	and in	wafī
+10	17:46:8	w	ءَاذَانِهِمۡ	ﲮ	اذانهم	their ears	ādhānihim
+11	17:46:9	w	وَقۡرٗاۚ	ﲯﲰ	وقرا	deafness	waqran
+11	17:46:10	w	وَإِذَا	ﲱ	واذا	And when	wa-idhā
+11	17:46:11	w	ذَكَرۡتَ	ﲲ	ذكرت	you mention	dhakarta
+11	17:46:12	w	رَبَّكَ	ﲳ	ربك	your Lord	rabbaka
+11	17:46:13	w	فِي	ﲴ	في	in	fī
+11	17:46:14	w	ٱلۡقُرۡءَانِ	ﲵ	القران	the Quran	l-qur'āni
+11	17:46:15	w	وَحۡدَهُۥ	ﲶ	وحده	Alone	waḥdahu
+11	17:46:16	w	وَلَّوۡاْ	ﲷ	ولوا	they turn	wallaw
+11	17:46:17	w	عَلَىٰٓ	ﲸ	على	on	ʿalā
+11	17:46:18	w	أَدۡبَٰرِهِمۡ	ﲹ	ادبارهم	their backs	adbārihim
+11	17:46:19	w	نُفُورٗا	ﲺ	نفورا	(in) aversion	nufūran
+11	17:46:20	e	٤٦	ﲻ			
+12	17:47:1	w	نَّحۡنُ	ﲼ	نحن	We	naḥnu
+12	17:47:2	w	أَعۡلَمُ	ﲽ	اعلم	know best	aʿlamu
+12	17:47:3	w	بِمَا	ﲾ	بما	[of] what	bimā
+12	17:47:4	w	يَسۡتَمِعُونَ	ﲿ	يستمعون	they listen	yastamiʿūna
+12	17:47:5	w	بِهِۦٓ	ﳀ	به	to [it]	bihi
+12	17:47:6	w	إِذۡ	ﳁ	اذ	when	idh
+12	17:47:7	w	يَسۡتَمِعُونَ	ﳂ	يستمعون	they listen	yastamiʿūna
+12	17:47:8	w	إِلَيۡكَ	ﳃ	اليك	to you	ilayka
+12	17:47:9	w	وَإِذۡ	ﳄ	واذ	and when	wa-idh
+12	17:47:10	w	هُمۡ	ﳅ	هم	they	hum
+12	17:47:11	w	نَجۡوَىٰٓ	ﳆ	نجوى	(are) in private conversation	najwā
+13	17:47:12	w	إِذۡ	ﳇ	اذ	when	idh
+13	17:47:13	w	يَقُولُ	ﳈ	يقول	say	yaqūlu
+13	17:47:14	w	ٱلظَّٰلِمُونَ	ﳉ	الظالمون	the wrongdoers	l-ẓālimūna
+13	17:47:15	w	إِن	ﳊ	ان	Not	in
+13	17:47:16	w	تَتَّبِعُونَ	ﳋ	تتبعون	you follow	tattabiʿūna
+13	17:47:17	w	إِلَّا	ﳌ	الا	but	illā
+13	17:47:18	w	رَجُلٗا	ﳍ	رجلا	a man	rajulan
+13	17:47:19	w	مَّسۡحُورًا	ﳎ	مسحورا	bewitched	masḥūran
+13	17:47:20	e	٤٧	ﳏ			
+13	17:48:1	w	ٱنظُرۡ	ﳐ	انظر	See	unẓur
+14	17:48:2	w	كَيۡفَ	ﳑ	كيف	how	kayfa
+14	17:48:3	w	ضَرَبُواْ	ﳒ	ضربوا	they put forth	ḍarabū
+14	17:48:4	w	لَكَ	ﳓ	لك	for you	laka
+14	17:48:5	w	ٱلۡأَمۡثَالَ	ﳔ	الامثال	the examples	l-amthāla
+14	17:48:6	w	فَضَلُّواْ	ﳕ	فضلوا	but they have gone astray	faḍallū
+14	17:48:7	w	فَلَا	ﳖ	فلا	so not	falā
+14	17:48:8	w	يَسۡتَطِيعُونَ	ﳗ	يستطيعون	they can	yastaṭīʿūna
+14	17:48:9	w	سَبِيلٗا	ﳘ	سبيلا	(find) a way	sabīlan
+14	17:48:10	e	٤٨	ﳙ			
+15	17:49:1	w	وَقَالُوٓاْ	ﳚ	وقالوا	And they say	waqālū
+15	17:49:2	w	أَءِذَا	ﳛ	ااذا	Is it when	a-idhā
+15	17:49:3	w	كُنَّا	ﳜ	كنا	we are	kunnā
+15	17:49:4	w	عِظَٰمٗا	ﳝ	عظاما	bones	ʿiẓāman
+15	17:49:5	w	وَرُفَٰتًا	ﳞ	ورفاتا	and crumbled particles	warufātan
+15	17:49:6	w	أَءِنَّا	ﳟ	اانا	will we	a-innā
+15	17:49:7	w	لَمَبۡعُوثُونَ	ﳠ	لمبعوثون	surely (be) resurrected	lamabʿūthūna
+15	17:49:8	w	خَلۡقٗا	ﳡ	خلقا	(as) a creation	khalqan
+15	17:49:9	w	جَدِيدٗا	ﳢ	جديدا	new	jadīdan
+15	17:49:10	e	٤٩	ﳣ			

@@ -1,0 +1,130 @@
+1	2:177:1	w	۞ لَّيۡسَ	ﱁ ﱂ	۞ ليس	It is not	laysa
+1	2:177:2	w	ٱلۡبِرَّ	ﱃ	البر	[the] righteousness	l-bira
+1	2:177:3	w	أَن	ﱄ	ان	that	an
+1	2:177:4	w	تُوَلُّواْ	ﱅ	تولوا	you turn	tuwallū
+1	2:177:5	w	وُجُوهَكُمۡ	ﱆ	وجوهكم	your faces	wujūhakum
+1	2:177:6	w	قِبَلَ	ﱇ	قبل	towards	qibala
+1	2:177:7	w	ٱلۡمَشۡرِقِ	ﱈ	المشرق	the east	l-mashriqi
+1	2:177:8	w	وَٱلۡمَغۡرِبِ	ﱉ	والمغرب	and the west	wal-maghribi
+2	2:177:9	w	وَلَٰكِنَّ	ﱊ	ولاكن	[and] but	walākinna
+2	2:177:10	w	ٱلۡبِرَّ	ﱋ	البر	the righteous[ness]	l-bira
+2	2:177:11	w	مَنۡ	ﱌ	من	(is he) who	man
+2	2:177:12	w	ءَامَنَ	ﱍ	امن	believes	āmana
+2	2:177:13	w	بِٱللَّهِ	ﱎ	بالله	in Allah	bil-lahi
+2	2:177:14	w	وَٱلۡيَوۡمِ	ﱏ	واليوم	and the Day	wal-yawmi
+2	2:177:15	w	ٱلۡأٓخِرِ	ﱐ	الاخر	[the] Last	l-ākhiri
+2	2:177:16	w	وَٱلۡمَلَٰٓئِكَةِ	ﱑ	والملايكة	and the Angels	wal-malāikati
+3	2:177:17	w	وَٱلۡكِتَٰبِ	ﱒ	والكتاب	and the Book	wal-kitābi
+3	2:177:18	w	وَٱلنَّبِيِّـۧنَ	ﱓ	والنبيين	and the Prophets	wal-nabiyīna
+3	2:177:19	w	وَءَاتَى	ﱔ	واتى	and gives	waātā
+3	2:177:20	w	ٱلۡمَالَ	ﱕ	المال	the wealth	l-māla
+3	2:177:21	w	عَلَىٰ	ﱖ	على	in	ʿalā
+3	2:177:22	w	حُبِّهِۦ	ﱗ	حبه	spite of his love (for it)	ḥubbihi
+3	2:177:23	w	ذَوِي	ﱘ	ذوي	(to) those	dhawī
+3	2:177:24	w	ٱلۡقُرۡبَىٰ	ﱙ	القربى	(of) the near relatives	l-qur'bā
+3	2:177:25	w	وَٱلۡيَتَٰمَىٰ	ﱚ	واليتامى	and the orphans	wal-yatāmā
+4	2:177:26	w	وَٱلۡمَسَٰكِينَ	ﱛ	والمساكين	and the needy	wal-masākīna
+4	2:177:27	w	وَٱبۡنَ	ﱜ	وابن	and (of)	wa-ib'na
+4	2:177:28	w	ٱلسَّبِيلِ	ﱝ	السبيل	the wayfarer	l-sabīli
+4	2:177:29	w	وَٱلسَّآئِلِينَ	ﱞ	والسايلين	and those who ask	wal-sāilīna
+4	2:177:30	w	وَفِي	ﱟ	وفي	and in	wafī
+4	2:177:31	w	ٱلرِّقَابِ	ﱠ	الرقاب	freeing the necks (slaves)	l-riqābi
+4	2:177:32	w	وَأَقَامَ	ﱡ	واقام	and (who) establish	wa-aqāma
+5	2:177:33	w	ٱلصَّلَوٰةَ	ﱢ	الصلاة	the prayer	l-ṣalata
+5	2:177:34	w	وَءَاتَى	ﱣ	واتى	and give	waātā
+5	2:177:35	w	ٱلزَّكَوٰةَ	ﱤ	الزكاة	the zakah	l-zakata
+5	2:177:36	w	وَٱلۡمُوفُونَ	ﱥ	والموفون	and those who fulfill	wal-mūfūna
+5	2:177:37	w	بِعَهۡدِهِمۡ	ﱦ	بعهدهم	their covenant	biʿahdihim
+5	2:177:38	w	إِذَا	ﱧ	اذا	when	idhā
+5	2:177:39	w	عَٰهَدُواْۖ	ﱨﱩ	عاهدوا	they make it	ʿāhadū
+6	2:177:40	w	وَٱلصَّٰبِرِينَ	ﱪ	والصابرين	and those who are patient	wal-ṣābirīna
+6	2:177:41	w	فِي	ﱫ	في	in	fī
+6	2:177:42	w	ٱلۡبَأۡسَآءِ	ﱬ	الباساء	[the] suffering	l-basāi
+6	2:177:43	w	وَٱلضَّرَّآءِ	ﱭ	والضراء	and [the] hardship	wal-ḍarāi
+6	2:177:44	w	وَحِينَ	ﱮ	وحين	and (the) time	waḥīna
+6	2:177:45	w	ٱلۡبَأۡسِۗ	ﱯﱰ	الباس	(of) [the] stress	l-basi
+6	2:177:46	w	أُوْلَٰٓئِكَ	ﱱ	اولايك	Those	ulāika
+6	2:177:47	w	ٱلَّذِينَ	ﱲ	الذين	(are) the ones who	alladhīna
+7	2:177:48	w	صَدَقُواْۖ	ﱳﱴ	صدقوا	are true	ṣadaqū
+7	2:177:49	w	وَأُوْلَٰٓئِكَ	ﱵ	واولايك	and those	wa-ulāika
+7	2:177:50	w	هُمُ	ﱶ	هم	[they]	humu
+7	2:177:51	w	ٱلۡمُتَّقُونَ	ﱷ	المتقون	(are) the righteous	l-mutaqūna
+7	2:177:52	e	١٧٧	ﱸ			
+7	2:178:1	w	يَٰٓأَيُّهَا	ﱹ	يا ايها	O you	yāayyuhā
+7	2:178:2	w	ٱلَّذِينَ	ﱺ	الذين	who	alladhīna
+7	2:178:3	w	ءَامَنُواْ	ﱻ	امنوا	believe[d]	āmanū
+7	2:178:4	w	كُتِبَ	ﱼ	كتب	Prescribed	kutiba
+8	2:178:5	w	عَلَيۡكُمُ	ﱽ	عليكم	for you	ʿalaykumu
+8	2:178:6	w	ٱلۡقِصَاصُ	ﱾ	القصاص	(is) the legal retribution	l-qiṣāṣu
+8	2:178:7	w	فِي	ﱿ	في	in	fī
+8	2:178:8	w	ٱلۡقَتۡلَىۖ	ﲀﲁ	القتلى	(the matter of) the murdered	l-qatlā
+8	2:178:9	w	ٱلۡحُرُّ	ﲂ	الحر	the freeman	l-ḥuru
+8	2:178:10	w	بِٱلۡحُرِّ	ﲃ	بالحر	for the freeman	bil-ḥuri
+8	2:178:11	w	وَٱلۡعَبۡدُ	ﲄ	والعبد	and the slave	wal-ʿabdu
+8	2:178:12	w	بِٱلۡعَبۡدِ	ﲅ	بالعبد	for the slave	bil-ʿabdi
+8	2:178:13	w	وَٱلۡأُنثَىٰ	ﲆ	والانثى	and the female	wal-unthā
+9	2:178:14	w	بِٱلۡأُنثَىٰۚ	ﲇﲈ	بالانثى	for the female	bil-unthā
+9	2:178:15	w	فَمَنۡ	ﲉ	فمن	But whoever	faman
+9	2:178:16	w	عُفِيَ	ﲊ	عفي	is pardoned	ʿufiya
+9	2:178:17	w	لَهُۥ	ﲋ	له	[for it]	lahu
+9	2:178:18	w	مِنۡ	ﲌ	من	from	min
+9	2:178:19	w	أَخِيهِ	ﲍ	اخيه	his brother	akhīhi
+9	2:178:20	w	شَيۡءٞ	ﲎ	شيء	anything	shayon
+9	2:178:21	w	فَٱتِّبَاعُۢ	ﲏ	فاتباع	then follows up	fa-ittibāʿun
+9	2:178:22	w	بِٱلۡمَعۡرُوفِ	ﲐ	بالمعروف	with suitable	bil-maʿrūfi
+9	2:178:23	w	وَأَدَآءٌ	ﲑ	واداء	[and] payment	wa-adāon
+10	2:178:24	w	إِلَيۡهِ	ﲒ	اليه	to him	ilayhi
+10	2:178:25	w	بِإِحۡسَٰنٖۗ	ﲓﲔ	باحسان	with kindness	bi-iḥ'sānin
+10	2:178:26	w	ذَٰلِكَ	ﲕ	ذالك	That (is)	dhālika
+10	2:178:27	w	تَخۡفِيفٞ	ﲖ	تخفيف	a concession	takhfīfun
+10	2:178:28	w	مِّن	ﲗ	من	from	min
+10	2:178:29	w	رَّبِّكُمۡ	ﲘ	ربكم	your Lord	rabbikum
+10	2:178:30	w	وَرَحۡمَةٞۗ	ﲙﲚ	ورحمة	and mercy	waraḥmatun
+10	2:178:31	w	فَمَنِ	ﲛ	فمن	Then whoever	famani
+10	2:178:32	w	ٱعۡتَدَىٰ	ﲜ	اعتدى	transgresses	iʿ'tadā
+11	2:178:33	w	بَعۡدَ	ﲝ	بعد	after	baʿda
+11	2:178:34	w	ذَٰلِكَ	ﲞ	ذالك	that	dhālika
+11	2:178:35	w	فَلَهُۥ	ﲟ	فله	then for him	falahu
+11	2:178:36	w	عَذَابٌ	ﲠ	عذاب	(is) a punishment	ʿadhābun
+11	2:178:37	w	أَلِيمٞ	ﲡ	اليم	painful	alīmun
+11	2:178:38	e	١٧٨	ﲢ			
+11	2:179:1	w	وَلَكُمۡ	ﲣ	ولكم	And for you	walakum
+11	2:179:2	w	فِي	ﲤ	في	in	fī
+11	2:179:3	w	ٱلۡقِصَاصِ	ﲥ	القصاص	the legal retribution	l-qiṣāṣi
+11	2:179:4	w	حَيَوٰةٞ	ﲦ	حياة	(is) life	ḥayatun
+11	2:179:5	w	يَٰٓأُوْلِي	ﲧ	يا اولي	O men	yāulī
+12	2:179:6	w	ٱلۡأَلۡبَٰبِ	ﲨ	الالباب	(of) understanding	l-albābi
+12	2:179:7	w	لَعَلَّكُمۡ	ﲩ	لعلكم	So that you may	laʿallakum
+12	2:179:8	w	تَتَّقُونَ	ﲪ	تتقون	(become) righteous	tattaqūna
+12	2:179:9	e	١٧٩	ﲫ			
+12	2:180:1	w	كُتِبَ	ﲬ	كتب	Prescribed	kutiba
+12	2:180:2	w	عَلَيۡكُمۡ	ﲭ	عليكم	for you	ʿalaykum
+12	2:180:3	w	إِذَا	ﲮ	اذا	when	idhā
+12	2:180:4	w	حَضَرَ	ﲯ	حضر	approaches	ḥaḍara
+13	2:180:5	w	أَحَدَكُمُ	ﲰ	احدكم	any of you	aḥadakumu
+13	2:180:6	w	ٱلۡمَوۡتُ	ﲱ	الموت	[the] death	l-mawtu
+13	2:180:7	w	إِن	ﲲ	ان	if	in
+13	2:180:8	w	تَرَكَ	ﲳ	ترك	he leaves	taraka
+13	2:180:9	w	خَيۡرًا	ﲴ	خيرا	good	khayran
+13	2:180:10	w	ٱلۡوَصِيَّةُ	ﲵ	الوصية	(making) the will	l-waṣiyatu
+13	2:180:11	w	لِلۡوَٰلِدَيۡنِ	ﲶ	للوالدين	for the parents	lil'wālidayni
+13	2:180:12	w	وَٱلۡأَقۡرَبِينَ	ﲷ	والاقربين	and the near relatives	wal-aqrabīna
+14	2:180:13	w	بِٱلۡمَعۡرُوفِۖ	ﲸﲹ	بالمعروف	with due fairness	bil-maʿrūfi
+14	2:180:14	w	حَقًّا	ﲺ	حقا	a duty	ḥaqqan
+14	2:180:15	w	عَلَى	ﲻ	على	on	ʿalā
+14	2:180:16	w	ٱلۡمُتَّقِينَ	ﲼ	المتقين	the righteous ones	l-mutaqīna
+14	2:180:17	e	١٨٠	ﲽ			
+14	2:181:1	w	فَمَنۢ	ﲾ	فمن	Then whoever	faman
+14	2:181:2	w	بَدَّلَهُۥ	ﲿ	بدله	changes it	baddalahu
+14	2:181:3	w	بَعۡدَ مَا	ﳀﳁ	بعدما	after what	baʿdamā
+14	2:181:4	w	سَمِعَهُۥ	ﳂ	سمعه	he (has) heard [it]	samiʿahu
+14	2:181:5	w	فَإِنَّمَآ	ﳃ	فانما	so only	fa-innamā
+15	2:181:6	w	إِثۡمُهُۥ	ﳄ	اثمه	its sin	ith'muhu
+15	2:181:7	w	عَلَى	ﳅ	على	(would be) on	ʿalā
+15	2:181:8	w	ٱلَّذِينَ	ﳆ	الذين	those who	alladhīna
+15	2:181:9	w	يُبَدِّلُونَهُۥٓۚ	ﳇﳈ	يبدلونه	alter it	yubaddilūnahu
+15	2:181:10	w	إِنَّ	ﳉ	ان	Indeed	inna
+15	2:181:11	w	ٱللَّهَ	ﳊ	الله	Allah	al-laha
+15	2:181:12	w	سَمِيعٌ	ﳋ	سميع	(is) All-Hearing	sami'un
+15	2:181:13	w	عَلِيمٞ	ﳌ	عليم	All-Knowing	alimun
+15	2:181:14	e	١٨١	ﳍ			

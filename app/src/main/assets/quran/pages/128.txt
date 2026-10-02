@@ -1,0 +1,131 @@
+3	6:1:1	w	ٱلۡحَمۡدُ	ﱁ	الحمد	(All) the praises and thanks	al-ḥamdu
+3	6:1:2	w	لِلَّهِ	ﱂ	لله	(be) to Allah	lillahi
+3	6:1:3	w	ٱلَّذِي	ﱃ	الذي	the One Who	alladhī
+3	6:1:4	w	خَلَقَ	ﱄ	خلق	created	khalaqa
+3	6:1:5	w	ٱلسَّمَٰوَٰتِ	ﱅ	السماوات	the heavens	l-samāwāti
+3	6:1:6	w	وَٱلۡأَرۡضَ	ﱆ	والارض	and the earth	wal-arḍa
+3	6:1:7	w	وَجَعَلَ	ﱇ	وجعل	and made	wajaʿala
+3	6:1:8	w	ٱلظُّلُمَٰتِ	ﱈ	الظلمات	the darkness[es]	l-ẓulumāti
+4	6:1:9	w	وَٱلنُّورَۖ	ﱉﱊ	والنور	and the light	wal-nūra
+4	6:1:10	w	ثُمَّ	ﱋ	ثم	Then	thumma
+4	6:1:11	w	ٱلَّذِينَ	ﱌ	الذين	those who	alladhīna
+4	6:1:12	w	كَفَرُواْ	ﱍ	كفروا	disbelieved	kafarū
+4	6:1:13	w	بِرَبِّهِمۡ	ﱎ	بربهم	in their Lord	birabbihim
+4	6:1:14	w	يَعۡدِلُونَ	ﱏ	يعدلون	equate others with Him	yaʿdilūna
+4	6:1:15	e	١	ﱐ			
+4	6:2:1	w	هُوَ	ﱑ	هو	He	huwa
+4	6:2:2	w	ٱلَّذِي	ﱒ	الذي	(is) the One Who	alladhī
+5	6:2:3	w	خَلَقَكُم	ﱓ	خلقكم	created you	khalaqakum
+5	6:2:4	w	مِّن	ﱔ	من	from	min
+5	6:2:5	w	طِينٖ	ﱕ	طين	clay	ṭīnin
+5	6:2:6	w	ثُمَّ	ﱖ	ثم	then	thumma
+5	6:2:7	w	قَضَىٰٓ	ﱗ	قضى	He decreed	qaḍā
+5	6:2:8	w	أَجَلٗاۖ	ﱘﱙ	اجلا	a term	ajalan
+5	6:2:9	w	وَأَجَلٞ	ﱚ	واجل	and a term	wa-ajalun
+5	6:2:10	w	مُّسَمًّى	ﱛ	مسمى	specified	musamman
+5	6:2:11	w	عِندَهُۥۖ	ﱜﱝ	عنده	with Him	ʿindahu
+5	6:2:12	w	ثُمَّ	ﱞ	ثم	yet	thumma
+5	6:2:13	w	أَنتُمۡ	ﱟ	انتم	you	antum
+6	6:2:14	w	تَمۡتَرُونَ	ﱠ	تمترون	doubt	tamtarūna
+6	6:2:15	e	٢	ﱡ			
+6	6:3:1	w	وَهُوَ	ﱢ	وهو	And He	wahuwa
+6	6:3:2	w	ٱللَّهُ	ﱣ	الله	(is) Allah	l-lahu
+6	6:3:3	w	فِي	ﱤ	في	in	fī
+6	6:3:4	w	ٱلسَّمَٰوَٰتِ	ﱥ	السماوات	the heavens	l-samāwāti
+6	6:3:5	w	وَفِي	ﱦ	وفي	and in	wafī
+6	6:3:6	w	ٱلۡأَرۡضِ	ﱧ	الارض	the earth	l-arḍi
+6	6:3:7	w	يَعۡلَمُ	ﱨ	يعلم	He knows	yaʿlamu
+6	6:3:8	w	سِرَّكُمۡ	ﱩ	سركم	your secret	sirrakum
+7	6:3:9	w	وَجَهۡرَكُمۡ	ﱪ	وجهركم	and what you make public	wajahrakum
+7	6:3:10	w	وَيَعۡلَمُ	ﱫ	ويعلم	and He knows	wayaʿlamu
+7	6:3:11	w	مَا	ﱬ	ما	what	mā
+7	6:3:12	w	تَكۡسِبُونَ	ﱭ	تكسبون	you earn	taksibūna
+7	6:3:13	e	٣	ﱮ			
+7	6:4:1	w	وَمَا	ﱯ	وما	And not	wamā
+7	6:4:2	w	تَأۡتِيهِم	ﱰ	تاتيهم	comes to them	tatīhim
+7	6:4:3	w	مِّنۡ	ﱱ	من	[of]	min
+7	6:4:4	w	ءَايَةٖ	ﱲ	اية	any sign	āyatin
+7	6:4:5	w	مِّنۡ	ﱳ	من	from	min
+8	6:4:6	w	ءَايَٰتِ	ﱴ	ايات	(the) Signs	āyāti
+8	6:4:7	w	رَبِّهِمۡ	ﱵ	ربهم	(of) their Lord	rabbihim
+8	6:4:8	w	إِلَّا	ﱶ	الا	but	illā
+8	6:4:9	w	كَانُواْ	ﱷ	كانوا	they are	kānū
+8	6:4:10	w	عَنۡهَا	ﱸ	عنها	from it	ʿanhā
+8	6:4:11	w	مُعۡرِضِينَ	ﱹ	معرضين	turning away	muʿ'riḍīna
+8	6:4:12	e	٤	ﱺ			
+8	6:5:1	w	فَقَدۡ	ﱻ	فقد	Then indeed	faqad
+8	6:5:2	w	كَذَّبُواْ	ﱼ	كذبوا	they denied	kadhabū
+8	6:5:3	w	بِٱلۡحَقِّ	ﱽ	بالحق	the truth	bil-ḥaqi
+9	6:5:4	w	لَمَّا	ﱾ	لما	when	lammā
+9	6:5:5	w	جَآءَهُمۡ	ﱿ	جاءهم	it came to them	jāahum
+9	6:5:6	w	فَسَوۡفَ	ﲀ	فسوف	but soon	fasawfa
+9	6:5:7	w	يَأۡتِيهِمۡ	ﲁ	ياتيهم	will come to them	yatīhim
+9	6:5:8	w	أَنۢبَٰٓؤُاْ	ﲂ	انباء	news	anbāu
+9	6:5:9	w	مَا	ﲃ	ما	(of) what	mā
+9	6:5:10	w	كَانُواْ	ﲄ	كانوا	they used to	kānū
+9	6:5:11	w	بِهِۦ	ﲅ	به	[at it]	bihi
+9	6:5:12	w	يَسۡتَهۡزِءُونَ	ﲆ	يستهزيون	mock	yastahziūna
+9	6:5:13	e	٥	ﲇ			
+10	6:6:1	w	أَلَمۡ	ﲈ	الم	Did not	alam
+10	6:6:2	w	يَرَوۡاْ	ﲉ	يروا	they see	yaraw
+10	6:6:3	w	كَمۡ	ﲊ	كم	how many	kam
+10	6:6:4	w	أَهۡلَكۡنَا	ﲋ	اهلكنا	We destroyed	ahlaknā
+10	6:6:5	w	مِن	ﲌ	من	from	min
+10	6:6:6	w	قَبۡلِهِم	ﲍ	قبلهم	before them	qablihim
+10	6:6:7	w	مِّن	ﲎ	من	of	min
+10	6:6:8	w	قَرۡنٖ	ﲏ	قرن	generations	qarnin
+10	6:6:9	w	مَّكَّنَّٰهُمۡ	ﲐ	مكناهم	We had established them	makkannāhum
+10	6:6:10	w	فِي	ﲑ	في	in	fī
+10	6:6:11	w	ٱلۡأَرۡضِ	ﲒ	الارض	the earth	l-arḍi
+11	6:6:12	w	مَا	ﲓ	ما	what	mā
+11	6:6:13	w	لَمۡ	ﲔ	لم	not	lam
+11	6:6:14	w	نُمَكِّن	ﲕ	نمكن	We (have) established	numakkin
+11	6:6:15	w	لَّكُمۡ	ﲖ	لكم	for you	lakum
+11	6:6:16	w	وَأَرۡسَلۡنَا	ﲗ	وارسلنا	And We sent	wa-arsalnā
+11	6:6:17	w	ٱلسَّمَآءَ	ﲘ	السماء	(rain from) the sky	l-samāa
+11	6:6:18	w	عَلَيۡهِم	ﲙ	عليهم	upon them	ʿalayhim
+11	6:6:19	w	مِّدۡرَارٗا	ﲚ	مدرارا	showering abundantly	mid'rāran
+11	6:6:20	w	وَجَعَلۡنَا	ﲛ	وجعلنا	and We made	wajaʿalnā
+11	6:6:21	w	ٱلۡأَنۡهَٰرَ	ﲜ	الانهار	the rivers	l-anhāra
+12	6:6:22	w	تَجۡرِي	ﲝ	تجري	flow	tajrī
+12	6:6:23	w	مِن	ﲞ	من	from	min
+12	6:6:24	w	تَحۡتِهِمۡ	ﲟ	تحتهم	underneath them	taḥtihim
+12	6:6:25	w	فَأَهۡلَكۡنَٰهُم	ﲠ	فاهلكناهم	Then We destroyed them	fa-ahlaknāhum
+12	6:6:26	w	بِذُنُوبِهِمۡ	ﲡ	بذنوبهم	for their sins	bidhunūbihim
+12	6:6:27	w	وَأَنشَأۡنَا	ﲢ	وانشانا	and We raised	wa-anshanā
+12	6:6:28	w	مِنۢ	ﲣ	من	from	min
+12	6:6:29	w	بَعۡدِهِمۡ	ﲤ	بعدهم	after them	baʿdihim
+12	6:6:30	w	قَرۡنًا	ﲥ	قرنا	generations	qarnan
+13	6:6:31	w	ءَاخَرِينَ	ﲦ	اخرين	other	ākharīna
+13	6:6:32	e	٦	ﲧ			
+13	6:7:1	w	وَلَوۡ	ﲨ	ولو	And (even) if	walaw
+13	6:7:2	w	نَزَّلۡنَا	ﲩ	نزلنا	We (had) sent down	nazzalnā
+13	6:7:3	w	عَلَيۡكَ	ﲪ	عليك	to you	ʿalayka
+13	6:7:4	w	كِتَٰبٗا	ﲫ	كتابا	a written Scripture	kitāban
+13	6:7:5	w	فِي	ﲬ	في	in	fī
+13	6:7:6	w	قِرۡطَاسٖ	ﲭ	قرطاس	a parchment	qir'ṭāsin
+13	6:7:7	w	فَلَمَسُوهُ	ﲮ	فلمسوه	and they touched it	falamasūhu
+13	6:7:8	w	بِأَيۡدِيهِمۡ	ﲯ	بايديهم	with their hands	bi-aydīhim
+14	6:7:9	w	لَقَالَ	ﲰ	لقال	surely (would) have said	laqāla
+14	6:7:10	w	ٱلَّذِينَ	ﲱ	الذين	those who	alladhīna
+14	6:7:11	w	كَفَرُوٓاْ	ﲲ	كفروا	disbelieved	kafarū
+14	6:7:12	w	إِنۡ	ﲳ	ان	Not	in
+14	6:7:13	w	هَٰذَآ	ﲴ	هاذا	(is) this	hādhā
+14	6:7:14	w	إِلَّا	ﲵ	الا	but	illā
+14	6:7:15	w	سِحۡرٞ	ﲶ	سحر	magic	siḥ'run
+14	6:7:16	w	مُّبِينٞ	ﲷ	مبين	clear	mubīnun
+14	6:7:17	e	٧	ﲸ			
+14	6:8:1	w	وَقَالُواْ	ﲹ	وقالوا	And they said	waqālū
+14	6:8:2	w	لَوۡلَآ	ﲺ	لولا	Why has not been	lawlā
+14	6:8:3	w	أُنزِلَ	ﲻ	انزل	sent down	unzila
+15	6:8:4	w	عَلَيۡهِ	ﲼ	عليه	to him	ʿalayhi
+15	6:8:5	w	مَلَكٞۖ	ﲽﲾ	ملك	an Angel	malakun
+15	6:8:6	w	وَلَوۡ	ﲿ	ولو	And if	walaw
+15	6:8:7	w	أَنزَلۡنَا	ﳀ	انزلنا	We (had) sent down	anzalnā
+15	6:8:8	w	مَلَكٗا	ﳁ	ملكا	an Angel	malakan
+15	6:8:9	w	لَّقُضِيَ	ﳂ	لقضي	surely (would) have been decided	laquḍiya
+15	6:8:10	w	ٱلۡأَمۡرُ	ﳃ	الامر	the matter	l-amru
+15	6:8:11	w	ثُمَّ	ﳄ	ثم	then	thumma
+15	6:8:12	w	لَا	ﳅ	لا	no	lā
+15	6:8:13	w	يُنظَرُونَ	ﳆ	ينظرون	respite would have been granted to them	yunẓarūna
+15	6:8:14	e	٨	ﳇ			

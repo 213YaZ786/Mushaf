@@ -1,0 +1,142 @@
+1	59:4:1	w	ذَٰلِكَ	ﱁ	ذالك	That	dhālika
+1	59:4:2	w	بِأَنَّهُمۡ	ﱂ	بانهم	(is) because [they]	bi-annahum
+1	59:4:3	w	شَآقُّواْ	ﱃ	شاقوا	they opposed	shāqqū
+1	59:4:4	w	ٱللَّهَ	ﱄ	الله	Allah	l-laha
+1	59:4:5	w	وَرَسُولَهُۥۖ	ﱅﱆ	ورسوله	and His Messenger	warasūlahu
+1	59:4:6	w	وَمَن	ﱇ	ومن	And whoever	waman
+1	59:4:7	w	يُشَآقِّ	ﱈ	يشاق	opposes	yushāqqi
+1	59:4:8	w	ٱللَّهَ	ﱉ	الله	Allah	l-laha
+1	59:4:9	w	فَإِنَّ	ﱊ	فان	then indeed	fa-inna
+1	59:4:10	w	ٱللَّهَ	ﱋ	الله	Allah	l-laha
+1	59:4:11	w	شَدِيدُ	ﱌ	شديد	(is) severe	shadīdu
+2	59:4:12	w	ٱلۡعِقَابِ	ﱍ	العقاب	(in) penalty	l-ʿiqābi
+2	59:4:13	e	٤	ﱎ			
+2	59:5:1	w	مَا	ﱏ	ما	Whatever	mā
+2	59:5:2	w	قَطَعۡتُم	ﱐ	قطعتم	you cut down	qaṭaʿtum
+2	59:5:3	w	مِّن	ﱑ	من	of	min
+2	59:5:4	w	لِّينَةٍ	ﱒ	لينة	(the) palm-trees	līnatin
+2	59:5:5	w	أَوۡ	ﱓ	او	or	aw
+2	59:5:6	w	تَرَكۡتُمُوهَا	ﱔ	تركتموها	you left them	taraktumūhā
+2	59:5:7	w	قَآئِمَةً	ﱕ	قايمة	standing	qāimatan
+2	59:5:8	w	عَلَىٰٓ	ﱖ	على	on	ʿalā
+3	59:5:9	w	أُصُولِهَا	ﱗ	اصولها	their roots	uṣūlihā
+3	59:5:10	w	فَبِإِذۡنِ	ﱘ	فباذن	it (was) by the permission	fabi-idh'ni
+3	59:5:11	w	ٱللَّهِ	ﱙ	الله	(of) Allah	l-lahi
+3	59:5:12	w	وَلِيُخۡزِيَ	ﱚ	وليخزي	and that He may disgrace	waliyukh'ziya
+3	59:5:13	w	ٱلۡفَٰسِقِينَ	ﱛ	الفاسقين	the defiantly disobedient	l-fāsiqīna
+3	59:5:14	e	٥	ﱜ			
+3	59:6:1	w	وَمَآ	ﱝ	وما	And what	wamā
+3	59:6:2	w	أَفَآءَ	ﱞ	افاء	(was) restored	afāa
+3	59:6:3	w	ٱللَّهُ	ﱟ	الله	(by) Allah	l-lahu
+4	59:6:4	w	عَلَىٰ	ﱠ	على	to	ʿalā
+4	59:6:5	w	رَسُولِهِۦ	ﱡ	رسوله	His Messenger	rasūlihi
+4	59:6:6	w	مِنۡهُمۡ	ﱢ	منهم	from them	min'hum
+4	59:6:7	w	فَمَآ	ﱣ	فما	then not	famā
+4	59:6:8	w	أَوۡجَفۡتُمۡ	ﱤ	اوجفتم	you made expedition	awjaftum
+4	59:6:9	w	عَلَيۡهِ	ﱥ	عليه	for it	ʿalayhi
+4	59:6:10	w	مِنۡ	ﱦ	من	of	min
+4	59:6:11	w	خَيۡلٖ	ﱧ	خيل	horses	khaylin
+4	59:6:12	w	وَلَا	ﱨ	ولا	and not	walā
+4	59:6:13	w	رِكَابٖ	ﱩ	ركاب	camels	rikābin
+5	59:6:14	w	وَلَٰكِنَّ	ﱪ	ولاكن	but	walākinna
+5	59:6:15	w	ٱللَّهَ	ﱫ	الله	Allah	l-laha
+5	59:6:16	w	يُسَلِّطُ	ﱬ	يسلط	gives power	yusalliṭu
+5	59:6:17	w	رُسُلَهُۥ	ﱭ	رسله	(to) His Messengers	rusulahu
+5	59:6:18	w	عَلَىٰ	ﱮ	على	over	ʿalā
+5	59:6:19	w	مَن	ﱯ	من	whom	man
+5	59:6:20	w	يَشَآءُۚ	ﱰﱱ	يشاء	He wills	yashāu
+5	59:6:21	w	وَٱللَّهُ	ﱲ	والله	And Allah	wal-lahu
+5	59:6:22	w	عَلَىٰ	ﱳ	على	(is) on	ʿalā
+5	59:6:23	w	كُلِّ	ﱴ	كل	every	kulli
+5	59:6:24	w	شَيۡءٖ	ﱵ	شيء	thing	shayin
+6	59:6:25	w	قَدِيرٞ	ﱶ	قدير	All-Powerful	qadīrun
+6	59:6:26	e	٦	ﱷ			
+6	59:7:1	w	مَّآ	ﱸ	ما	What	mā
+6	59:7:2	w	أَفَآءَ	ﱹ	افاء	(was) restored	afāa
+6	59:7:3	w	ٱللَّهُ	ﱺ	الله	(by) Allah	l-lahu
+6	59:7:4	w	عَلَىٰ	ﱻ	على	to	ʿalā
+6	59:7:5	w	رَسُولِهِۦ	ﱼ	رسوله	His Messenger	rasūlihi
+6	59:7:6	w	مِنۡ	ﱽ	من	from	min
+6	59:7:7	w	أَهۡلِ	ﱾ	اهل	(the) people	ahli
+6	59:7:8	w	ٱلۡقُرَىٰ	ﱿ	القرى	(of) the towns	l-qurā
+6	59:7:9	w	فَلِلَّهِ	ﲀ	فلله	(it is) for Allah	falillahi
+6	59:7:10	w	وَلِلرَّسُولِ	ﲁ	وللرسول	and His Messenger	walilrrasūli
+7	59:7:11	w	وَلِذِي	ﲂ	ولذي	and for those	walidhī
+7	59:7:12	w	ٱلۡقُرۡبَىٰ	ﲃ	القربى	(of) the kindred	l-qur'bā
+7	59:7:13	w	وَٱلۡيَتَٰمَىٰ	ﲄ	واليتامى	and the orphans	wal-yatāmā
+7	59:7:14	w	وَٱلۡمَسَٰكِينِ	ﲅ	والمساكين	and the needy	wal-masākīni
+7	59:7:15	w	وَٱبۡنِ	ﲆ	وابن	and	wa-ib'ni
+7	59:7:16	w	ٱلسَّبِيلِ	ﲇ	السبيل	the wayfarer	l-sabīli
+7	59:7:17	w	كَيۡ	ﲈ	كي	that	kay
+7	59:7:18	w	لَا	ﲉ	لا	not	lā
+7	59:7:19	w	يَكُونَ	ﲊ	يكون	it becomes	yakūna
+8	59:7:20	w	دُولَةَۢ	ﲋ	دولة	a (perpetual) circulation	dūlatan
+8	59:7:21	w	بَيۡنَ	ﲌ	بين	between	bayna
+8	59:7:22	w	ٱلۡأَغۡنِيَآءِ	ﲍ	الاغنياء	the rich	l-aghniyāi
+8	59:7:23	w	مِنكُمۡۚ	ﲎﲏ	منكم	among you	minkum
+8	59:7:24	w	وَمَآ	ﲐ	وما	And whatever	wamā
+8	59:7:25	w	ءَاتَىٰكُمُ	ﲑ	اتاكم	gives you	ātākumu
+8	59:7:26	w	ٱلرَّسُولُ	ﲒ	الرسول	the Messenger	l-rasūlu
+8	59:7:27	w	فَخُذُوهُ	ﲓ	فخذوه	take it	fakhudhūhu
+9	59:7:28	w	وَمَا	ﲔ	وما	and whatever	wamā
+9	59:7:29	w	نَهَىٰكُمۡ	ﲕ	نهاكم	he forbids you	nahākum
+9	59:7:30	w	عَنۡهُ	ﲖ	عنه	from it	ʿanhu
+9	59:7:31	w	فَٱنتَهُواْۚ	ﲗﲘ	فانتهوا	refrain	fa-intahū
+9	59:7:32	w	وَٱتَّقُواْ	ﲙ	واتقوا	And fear	wa-ittaqū
+9	59:7:33	w	ٱللَّهَۖ	ﲚﲛ	الله	Allah	l-laha
+9	59:7:34	w	إِنَّ	ﲜ	ان	Indeed	inna
+9	59:7:35	w	ٱللَّهَ	ﲝ	الله	Allah	l-laha
+9	59:7:36	w	شَدِيدُ	ﲞ	شديد	(is) severe	shadīdu
+9	59:7:37	w	ٱلۡعِقَابِ	ﲟ	العقاب	(in) penalty	l-ʿiqābi
+10	59:7:38	e	٧	ﲠ			
+10	59:8:1	w	لِلۡفُقَرَآءِ	ﲡ	للفقراء	For the poor	lil'fuqarāi
+10	59:8:2	w	ٱلۡمُهَٰجِرِينَ	ﲢ	المهاجرين	emigrants	l-muhājirīna
+10	59:8:3	w	ٱلَّذِينَ	ﲣ	الذين	those who	alladhīna
+10	59:8:4	w	أُخۡرِجُواْ	ﲤ	اخرجوا	were expelled	ukh'rijū
+10	59:8:5	w	مِن	ﲥ	من	from	min
+10	59:8:6	w	دِيَٰرِهِمۡ	ﲦ	ديارهم	their homes	diyārihim
+10	59:8:7	w	وَأَمۡوَٰلِهِمۡ	ﲧ	واموالهم	and their properties	wa-amwālihim
+11	59:8:8	w	يَبۡتَغُونَ	ﲨ	يبتغون	seeking	yabtaghūna
+11	59:8:9	w	فَضۡلٗا	ﲩ	فضلا	bounty	faḍlan
+11	59:8:10	w	مِّنَ	ﲪ	من	from	mina
+11	59:8:11	w	ٱللَّهِ	ﲫ	الله	Allah	l-lahi
+11	59:8:12	w	وَرِضۡوَٰنٗا	ﲬ	ورضوانا	and pleasure	wariḍ'wānan
+11	59:8:13	w	وَيَنصُرُونَ	ﲭ	وينصرون	and helping	wayanṣurūna
+11	59:8:14	w	ٱللَّهَ	ﲮ	الله	Allah	l-laha
+11	59:8:15	w	وَرَسُولَهُۥٓۚ	ﲯﲰ	ورسوله	and His Messenger	warasūlahu
+12	59:8:16	w	أُوْلَٰٓئِكَ	ﲱ	اولايك	Those	ulāika
+12	59:8:17	w	هُمُ	ﲲ	هم	they	humu
+12	59:8:18	w	ٱلصَّٰدِقُونَ	ﲳ	الصادقون	(are) the truthful	l-ṣādiqūna
+12	59:8:19	e	٨	ﲴ			
+12	59:9:1	w	وَٱلَّذِينَ	ﲵ	والذين	And those who	wa-alladhīna
+12	59:9:2	w	تَبَوَّءُو	ﲶ	تبوءوا	settled	tabawwaū
+12	59:9:3	w	ٱلدَّارَ	ﲷ	الدار	(in) the home	l-dāra
+12	59:9:4	w	وَٱلۡإِيمَٰنَ	ﲸ	والايمان	and (accepted) faith	wal-īmāna
+12	59:9:5	w	مِن	ﲹ	من	from	min
+13	59:9:6	w	قَبۡلِهِمۡ	ﲺ	قبلهم	before them	qablihim
+13	59:9:7	w	يُحِبُّونَ	ﲻ	يحبون	love	yuḥibbūna
+13	59:9:8	w	مَنۡ	ﲼ	من	(those) who	man
+13	59:9:9	w	هَاجَرَ	ﲽ	هاجر	emigrated	hājara
+13	59:9:10	w	إِلَيۡهِمۡ	ﲾ	اليهم	to them	ilayhim
+13	59:9:11	w	وَلَا	ﲿ	ولا	and not	walā
+13	59:9:12	w	يَجِدُونَ	ﳀ	يجدون	they find	yajidūna
+13	59:9:13	w	فِي	ﳁ	في	in	fī
+13	59:9:14	w	صُدُورِهِمۡ	ﳂ	صدورهم	their breasts	ṣudūrihim
+14	59:9:15	w	حَاجَةٗ	ﳃ	حاجة	any want	ḥājatan
+14	59:9:16	w	مِّمَّآ	ﳄ	مما	of what	mimmā
+14	59:9:17	w	أُوتُواْ	ﳅ	اوتوا	they were given	ūtū
+14	59:9:18	w	وَيُؤۡثِرُونَ	ﳆ	ويوثرون	but prefer	wayu'thirūna
+14	59:9:19	w	عَلَىٰٓ	ﳇ	على	over	ʿalā
+14	59:9:20	w	أَنفُسِهِمۡ	ﳈ	انفسهم	themselves	anfusihim
+14	59:9:21	w	وَلَوۡ	ﳉ	ولو	even though	walaw
+14	59:9:22	w	كَانَ	ﳊ	كان	was	kāna
+14	59:9:23	w	بِهِمۡ	ﳋ	بهم	with them	bihim
+14	59:9:24	w	خَصَاصَةٞۚ	ﳌﳍ	خصاصة	poverty	khaṣāṣatun
+15	59:9:25	w	وَمَن	ﳎ	ومن	And whoever	waman
+15	59:9:26	w	يُوقَ	ﳏ	يوق	is saved	yūqa
+15	59:9:27	w	شُحَّ	ﳐ	شح	(from) stinginess	shuḥḥa
+15	59:9:28	w	نَفۡسِهِۦ	ﳑ	نفسه	(of) his soul	nafsihi
+15	59:9:29	w	فَأُوْلَٰٓئِكَ	ﳒ	فاولايك	then those	fa-ulāika
+15	59:9:30	w	هُمُ	ﳓ	هم	[they]	humu
+15	59:9:31	w	ٱلۡمُفۡلِحُونَ	ﳔ	المفلحون	(are) the successful ones	l-muf'liḥūna
+15	59:9:32	e	٩	ﳕ			

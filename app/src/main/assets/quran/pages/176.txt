@@ -1,0 +1,136 @@
+1	7:196:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	7:196:2	w	وَلِـِّۧيَ	ﱂ	وليي	my protector	waliyyiya
+1	7:196:3	w	ٱللَّهُ	ﱃ	الله	(is) Allah	l-lahu
+1	7:196:4	w	ٱلَّذِي	ﱄ	الذي	the One Who	alladhī
+1	7:196:5	w	نَزَّلَ	ﱅ	نزل	revealed	nazzala
+1	7:196:6	w	ٱلۡكِتَٰبَۖ	ﱆﱇ	الكتاب	the Book	l-kitāba
+1	7:196:7	w	وَهُوَ	ﱈ	وهو	And He	wahuwa
+1	7:196:8	w	يَتَوَلَّى	ﱉ	يتولى	protects	yatawallā
+1	7:196:9	w	ٱلصَّٰلِحِينَ	ﱊ	الصالحين	the righteous	l-ṣāliḥīna
+2	7:196:10	e	١٩٦	ﱋ			
+2	7:197:1	w	وَٱلَّذِينَ	ﱌ	والذين	And those whom	wa-alladhīna
+2	7:197:2	w	تَدۡعُونَ	ﱍ	تدعون	you invoke	tadʿūna
+2	7:197:3	w	مِن	ﱎ	من	from	min
+2	7:197:4	w	دُونِهِۦ	ﱏ	دونه	besides Him	dūnihi
+2	7:197:5	w	لَا	ﱐ	لا	not	lā
+2	7:197:6	w	يَسۡتَطِيعُونَ	ﱑ	يستطيعون	they are able	yastaṭīʿūna
+2	7:197:7	w	نَصۡرَكُمۡ	ﱒ	نصركم	(to) help you	naṣrakum
+3	7:197:8	w	وَلَآ	ﱓ	ولا	and not	walā
+3	7:197:9	w	أَنفُسَهُمۡ	ﱔ	انفسهم	themselves	anfusahum
+3	7:197:10	w	يَنصُرُونَ	ﱕ	ينصرون	can they help	yanṣurūna
+3	7:197:11	e	١٩٧	ﱖ			
+3	7:198:1	w	وَإِن	ﱗ	وان	And if	wa-in
+3	7:198:2	w	تَدۡعُوهُمۡ	ﱘ	تدعوهم	you call them	tadʿūhum
+3	7:198:3	w	إِلَى	ﱙ	الى	to	ilā
+3	7:198:4	w	ٱلۡهُدَىٰ	ﱚ	الهدى	the guidance	l-hudā
+3	7:198:5	w	لَا	ﱛ	لا	not	lā
+3	7:198:6	w	يَسۡمَعُواْۖ	ﱜﱝ	يسمعوا	do they not	yasmaʿū
+4	7:198:7	w	وَتَرَىٰهُمۡ	ﱞ	وتراهم	And you see them	watarāhum
+4	7:198:8	w	يَنظُرُونَ	ﱟ	ينظرون	looking	yanẓurūna
+4	7:198:9	w	إِلَيۡكَ	ﱠ	اليك	at you	ilayka
+4	7:198:10	w	وَهُمۡ	ﱡ	وهم	but they	wahum
+4	7:198:11	w	لَا	ﱢ	لا	not	lā
+4	7:198:12	w	يُبۡصِرُونَ	ﱣ	يبصرون	(do) they see	yub'ṣirūna
+4	7:198:13	e	١٩٨	ﱤ			
+4	7:199:1	w	خُذِ	ﱥ	خذ	Hold	khudhi
+4	7:199:2	w	ٱلۡعَفۡوَ	ﱦ	العفو	(to) forgiveness	l-ʿafwa
+5	7:199:3	w	وَأۡمُرۡ	ﱧ	وامر	and enjoin	wamur
+5	7:199:4	w	بِٱلۡعُرۡفِ	ﱨ	بالعرف	the good	bil-ʿur'fi
+5	7:199:5	w	وَأَعۡرِضۡ	ﱩ	واعرض	and turn away	wa-aʿriḍ
+5	7:199:6	w	عَنِ	ﱪ	عن	from	ʿani
+5	7:199:7	w	ٱلۡجَٰهِلِينَ	ﱫ	الجاهلين	the ignorant	l-jāhilīna
+5	7:199:8	e	١٩٩	ﱬ			
+5	7:200:1	w	وَإِمَّا	ﱭ	واما	And if	wa-immā
+5	7:200:2	w	يَنزَغَنَّكَ	ﱮ	ينزغنك	an evil suggestion comes to you	yanzaghannaka
+6	7:200:3	w	مِنَ	ﱯ	من	from	mina
+6	7:200:4	w	ٱلشَّيۡطَٰنِ	ﱰ	الشيطان	[the] Shaitaan	l-shayṭāni
+6	7:200:5	w	نَزۡغٞ	ﱱ	نزغ	[an evil suggestion]	nazghun
+6	7:200:6	w	فَٱسۡتَعِذۡ	ﱲ	فاستعذ	then seek refuge	fa-is'taʿidh
+6	7:200:7	w	بِٱللَّهِۚ	ﱳﱴ	بالله	in Allah	bil-lahi
+6	7:200:8	w	إِنَّهُۥ	ﱵ	انه	Indeed, He	innahu
+6	7:200:9	w	سَمِيعٌ	ﱶ	سميع	(is) All-Hearing	samīʿun
+6	7:200:10	w	عَلِيمٌ	ﱷ	عليم	All-Knowing	ʿalīmun
+6	7:200:11	e	٢٠٠	ﱸ			
+6	7:201:1	w	إِنَّ	ﱹ	ان	Indeed	inna
+7	7:201:2	w	ٱلَّذِينَ	ﱺ	الذين	those who	alladhīna
+7	7:201:3	w	ٱتَّقَوۡاْ	ﱻ	اتقوا	fear (Allah)	ittaqaw
+7	7:201:4	w	إِذَا	ﱼ	اذا	when	idhā
+7	7:201:5	w	مَسَّهُمۡ	ﱽ	مسهم	touches them	massahum
+7	7:201:6	w	طَٰٓئِفٞ	ﱾ	طايف	an evil thought	ṭāifun
+7	7:201:7	w	مِّنَ	ﱿ	من	from	mina
+7	7:201:8	w	ٱلشَّيۡطَٰنِ	ﲀ	الشيطان	the Shaitaan	l-shayṭāni
+7	7:201:9	w	تَذَكَّرُواْ	ﲁ	تذكروا	they remember (Allah)	tadhakkarū
+8	7:201:10	w	فَإِذَا	ﲂ	فاذا	and then	fa-idhā
+8	7:201:11	w	هُم	ﲃ	هم	they	hum
+8	7:201:12	w	مُّبۡصِرُونَ	ﲄ	مبصرون	(are) those who see (aright)	mub'ṣirūna
+8	7:201:13	e	٢٠١	ﲅ			
+8	7:202:1	w	وَإِخۡوَٰنُهُمۡ	ﲆ	واخوانهم	But their brothers	wa-ikh'wānuhum
+8	7:202:2	w	يَمُدُّونَهُمۡ	ﲇ	يمدونهم	they plunge them	yamuddūnahum
+8	7:202:3	w	فِي	ﲈ	في	in	fī
+8	7:202:4	w	ٱلۡغَيِّ	ﲉ	الغي	the error	l-ghayi
+8	7:202:5	w	ثُمَّ	ﲊ	ثم	then	thumma
+9	7:202:6	w	لَا	ﲋ	لا	not	lā
+9	7:202:7	w	يُقۡصِرُونَ	ﲌ	يقصرون	they cease	yuq'ṣirūna
+9	7:202:8	e	٢٠٢	ﲍ			
+9	7:203:1	w	وَإِذَا	ﲎ	واذا	And when	wa-idhā
+9	7:203:2	w	لَمۡ	ﲏ	لم	not	lam
+9	7:203:3	w	تَأۡتِهِم	ﲐ	تاتهم	you bring them	tatihim
+9	7:203:4	w	بِـَٔايَةٖ	ﲑ	باية	a Sign	biāyatin
+9	7:203:5	w	قَالُواْ	ﲒ	قالوا	they say	qālū
+9	7:203:6	w	لَوۡلَا	ﲓ	لولا	Why (have) not	lawlā
+9	7:203:7	w	ٱجۡتَبَيۡتَهَاۚ	ﲔﲕ	اجتبيتها	you devised it	ij'tabaytahā
+10	7:203:8	w	قُلۡ	ﲖ	قل	Say	qul
+10	7:203:9	w	إِنَّمَآ	ﲗ	انما	Only	innamā
+10	7:203:10	w	أَتَّبِعُ	ﲘ	اتبع	I follow	attabiʿu
+10	7:203:11	w	مَا	ﲙ	ما	what	mā
+10	7:203:12	w	يُوحَىٰٓ	ﲚ	يوحى	is revealed	yūḥā
+10	7:203:13	w	إِلَيَّ	ﲛ	الي	to me	ilayya
+10	7:203:14	w	مِن	ﲜ	من	from	min
+10	7:203:15	w	رَّبِّيۚ	ﲝﲞ	ربي	my Lord	rabbī
+10	7:203:16	w	هَٰذَا	ﲟ	هاذا	This (is)	hādhā
+10	7:203:17	w	بَصَآئِرُ	ﲠ	بصاير	enlightenment	baṣāiru
+10	7:203:18	w	مِن	ﲡ	من	from	min
+10	7:203:19	w	رَّبِّكُمۡ	ﲢ	ربكم	your Lord	rabbikum
+11	7:203:20	w	وَهُدٗى	ﲣ	وهدى	and guidance	wahudan
+11	7:203:21	w	وَرَحۡمَةٞ	ﲤ	ورحمة	and mercy	waraḥmatun
+11	7:203:22	w	لِّقَوۡمٖ	ﲥ	لقوم	for a people	liqawmin
+11	7:203:23	w	يُؤۡمِنُونَ	ﲦ	يومنون	who believe	yu'minūna
+11	7:203:24	e	٢٠٣	ﲧ			
+11	7:204:1	w	وَإِذَا	ﲨ	واذا	And when	wa-idhā
+11	7:204:2	w	قُرِئَ	ﲩ	قري	is recited	quri-a
+11	7:204:3	w	ٱلۡقُرۡءَانُ	ﲪ	القران	the Quran	l-qur'ānu
+12	7:204:4	w	فَٱسۡتَمِعُواْ	ﲫ	فاستمعوا	then listen	fa-is'tamiʿū
+12	7:204:5	w	لَهُۥ	ﲬ	له	to it	lahu
+12	7:204:6	w	وَأَنصِتُواْ	ﲭ	وانصتوا	and pay attention	wa-anṣitū
+12	7:204:7	w	لَعَلَّكُمۡ	ﲮ	لعلكم	so that you may	laʿallakum
+12	7:204:8	w	تُرۡحَمُونَ	ﲯ	ترحمون	receive mercy	tur'ḥamūna
+12	7:204:9	e	٢٠٤	ﲰ			
+12	7:205:1	w	وَٱذۡكُر	ﲱ	واذكر	And remember	wa-udh'kur
+12	7:205:2	w	رَّبَّكَ	ﲲ	ربك	your Lord	rabbaka
+13	7:205:3	w	فِي	ﲳ	في	in	fī
+13	7:205:4	w	نَفۡسِكَ	ﲴ	نفسك	yourself	nafsika
+13	7:205:5	w	تَضَرُّعٗا	ﲵ	تضرعا	humbly	taḍarruʿan
+13	7:205:6	w	وَخِيفَةٗ	ﲶ	وخيفة	and (in) fear	wakhīfatan
+13	7:205:7	w	وَدُونَ	ﲷ	ودون	and without	wadūna
+13	7:205:8	w	ٱلۡجَهۡرِ	ﲸ	الجهر	the loudness	l-jahri
+13	7:205:9	w	مِنَ	ﲹ	من	of	mina
+13	7:205:10	w	ٱلۡقَوۡلِ	ﲺ	القول	[the] words	l-qawli
+13	7:205:11	w	بِٱلۡغُدُوِّ	ﲻ	بالغدو	in the mornings	bil-ghuduwi
+14	7:205:12	w	وَٱلۡأٓصَالِ	ﲼ	والاصال	and (in) the evenings	wal-āṣāli
+14	7:205:13	w	وَلَا	ﲽ	ولا	And (do) not	walā
+14	7:205:14	w	تَكُن	ﲾ	تكن	be	takun
+14	7:205:15	w	مِّنَ	ﲿ	من	among	mina
+14	7:205:16	w	ٱلۡغَٰفِلِينَ	ﳀ	الغافلين	the heedless	l-ghāfilīna
+14	7:205:17	e	٢٠٥	ﳁ			
+14	7:206:1	w	إِنَّ	ﳂ	ان	Indeed	inna
+14	7:206:2	w	ٱلَّذِينَ	ﳃ	الذين	those who	alladhīna
+14	7:206:3	w	عِندَ	ﳄ	عند	(are) near	ʿinda
+14	7:206:4	w	رَبِّكَ	ﳅ	ربك	your Lord	rabbika
+15	7:206:5	w	لَا	ﳆ	لا	not	lā
+15	7:206:6	w	يَسۡتَكۡبِرُونَ	ﳇ	يستكبرون	(do) they turn away in pride	yastakbirūna
+15	7:206:7	w	عَنۡ	ﳈ	عن	from	ʿan
+15	7:206:8	w	عِبَادَتِهِۦ	ﳉ	عبادته	His worship	ʿibādatihi
+15	7:206:9	w	وَيُسَبِّحُونَهُۥ	ﳊ	ويسبحونه	And they glorify Him	wayusabbiḥūnahu
+15	7:206:10	w	وَلَهُۥ	ﳋ	وله	and to Him	walahu
+15	7:206:11	w	يَسۡجُدُونَۤ۩	ﳌﳍﳎ	يسجدون ۩	they prostrate	yasjudūna
+15	7:206:12	e	٢٠٦	ﳏ			

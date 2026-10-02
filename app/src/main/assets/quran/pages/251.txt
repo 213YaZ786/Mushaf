@@ -1,0 +1,157 @@
+1	13:14:1	w	لَهُۥ	ﱁ	له	To Him	lahu
+1	13:14:2	w	دَعۡوَةُ	ﱂ	دعوة	(is) supplication	daʿwatu
+1	13:14:3	w	ٱلۡحَقِّۚ	ﱃﱄ	الحق	(of) the truth	l-ḥaqi
+1	13:14:4	w	وَٱلَّذِينَ	ﱅ	والذين	And those whom	wa-alladhīna
+1	13:14:5	w	يَدۡعُونَ	ﱆ	يدعون	they invoke	yadʿūna
+1	13:14:6	w	مِن	ﱇ	من	besides Him	min
+1	13:14:7	w	دُونِهِۦ	ﱈ	دونه	besides Him	dūnihi
+1	13:14:8	w	لَا	ﱉ	لا	not	lā
+1	13:14:9	w	يَسۡتَجِيبُونَ	ﱊ	يستجيبون	they respond	yastajībūna
+1	13:14:10	w	لَهُم	ﱋ	لهم	to them	lahum
+1	13:14:11	w	بِشَيۡءٍ	ﱌ	بشيء	with a thing	bishayin
+1	13:14:12	w	إِلَّا	ﱍ	الا	except	illā
+2	13:14:13	w	كَبَٰسِطِ	ﱎ	كباسط	like one who stretches	kabāsiṭi
+2	13:14:14	w	كَفَّيۡهِ	ﱏ	كفيه	his hands	kaffayhi
+2	13:14:15	w	إِلَى	ﱐ	الى	towards	ilā
+2	13:14:16	w	ٱلۡمَآءِ	ﱑ	الماء	water	l-māi
+2	13:14:17	w	لِيَبۡلُغَ	ﱒ	ليبلغ	to reach	liyablugha
+2	13:14:18	w	فَاهُ	ﱓ	فاه	his mouth	fāhu
+2	13:14:19	w	وَمَا	ﱔ	وما	but not	wamā
+2	13:14:20	w	هُوَ	ﱕ	هو	it	huwa
+2	13:14:21	w	بِبَٰلِغِهِۦۚ	ﱖﱗ	ببالغه	reaches it	bibālighihi
+2	13:14:22	w	وَمَا	ﱘ	وما	And not	wamā
+2	13:14:23	w	دُعَآءُ	ﱙ	دعاء	(is) the supplication	duʿāu
+2	13:14:24	w	ٱلۡكَٰفِرِينَ	ﱚ	الكافرين	(of) the disbelievers	l-kāfirīna
+3	13:14:25	w	إِلَّا	ﱛ	الا	but	illā
+3	13:14:26	w	فِي	ﱜ	في	in	fī
+3	13:14:27	w	ضَلَٰلٖ	ﱝ	ضلال	error	ḍalālin
+3	13:14:28	e	١٤	ﱞ			
+3	13:15:1	w	وَلِلَّهِۤ	ﱟﱠ	ولله	And to Allah	walillahi
+3	13:15:2	w	يَسۡجُدُۤ	ﱡﱢ	يسجد	prostrates	yasjudu
+3	13:15:3	w	مَن	ﱣ	من	whoever	man
+3	13:15:4	w	فِي	ﱤ	في	(is) in	fī
+3	13:15:5	w	ٱلسَّمَٰوَٰتِ	ﱥ	السماوات	the heavens	l-samāwāti
+3	13:15:6	w	وَٱلۡأَرۡضِ	ﱦ	والارض	and the earth	wal-arḍi
+3	13:15:7	w	طَوۡعٗا	ﱧ	طوعا	willingly	ṭawʿan
+4	13:15:8	w	وَكَرۡهٗا	ﱨ	وكرها	or unwillingly	wakarhan
+4	13:15:9	w	وَظِلَٰلُهُم	ﱩ	وظلالهم	and (so do) their shadows	waẓilāluhum
+4	13:15:10	w	بِٱلۡغُدُوِّ	ﱪ	بالغدو	in the mornings	bil-ghuduwi
+4	13:15:11	w	وَٱلۡأٓصَالِ۩	ﱫﱬ	والاصال ۩	and in the afternoons	wal-āṣāli
+4	13:15:12	e	١٥	ﱭ			
+4	13:16:1	w	قُلۡ	ﱮ	قل	Say	qul
+4	13:16:2	w	مَن	ﱯ	من	Who	man
+4	13:16:3	w	رَّبُّ	ﱰ	رب	(is) the Lord	rabbu
+4	13:16:4	w	ٱلسَّمَٰوَٰتِ	ﱱ	السماوات	(of) the heavens	l-samāwāti
+5	13:16:5	w	وَٱلۡأَرۡضِ	ﱲ	والارض	and the earth	wal-arḍi
+5	13:16:6	w	قُلِ	ﱳ	قل	Say	quli
+5	13:16:7	w	ٱللَّهُۚ	ﱴﱵ	الله	Allah	l-lahu
+5	13:16:8	w	قُلۡ	ﱶ	قل	Say	qul
+5	13:16:9	w	أَفَٱتَّخَذۡتُم	ﱷ	افاتخذتم	Have you then taken	afa-ittakhadhtum
+5	13:16:10	w	مِّن	ﱸ	من	from	min
+5	13:16:11	w	دُونِهِۦٓ	ﱹ	دونه	besides Him	dūnihi
+5	13:16:12	w	أَوۡلِيَآءَ	ﱺ	اولياء	protectors	awliyāa
+5	13:16:13	w	لَا	ﱻ	لا	not	lā
+5	13:16:14	w	يَمۡلِكُونَ	ﱼ	يملكون	they have power	yamlikūna
+6	13:16:15	w	لِأَنفُسِهِمۡ	ﱽ	لانفسهم	for themselves	li-anfusihim
+6	13:16:16	w	نَفۡعٗا	ﱾ	نفعا	(to) benefit	nafʿan
+6	13:16:17	w	وَلَا	ﱿ	ولا	and not	walā
+6	13:16:18	w	ضَرّٗاۚ	ﲀﲁ	ضرا	(to) harm	ḍarran
+6	13:16:19	w	قُلۡ	ﲂ	قل	Say	qul
+6	13:16:20	w	هَلۡ	ﲃ	هل	Is	hal
+6	13:16:21	w	يَسۡتَوِي	ﲄ	يستوي	equal	yastawī
+6	13:16:22	w	ٱلۡأَعۡمَىٰ	ﲅ	الاعمى	the blind	l-aʿmā
+6	13:16:23	w	وَٱلۡبَصِيرُ	ﲆ	والبصير	and the seeing	wal-baṣīru
+6	13:16:24	w	أَمۡ	ﲇ	ام	Or	am
+6	13:16:25	w	هَلۡ	ﲈ	هل	is	hal
+7	13:16:26	w	تَسۡتَوِي	ﲉ	تستوي	equal	tastawī
+7	13:16:27	w	ٱلظُّلُمَٰتُ	ﲊ	الظلمات	the darkness[es]	l-ẓulumātu
+7	13:16:28	w	وَٱلنُّورُۗ	ﲋﲌ	والنور	and the light	wal-nūru
+7	13:16:29	w	أَمۡ	ﲍ	ام	Or	am
+7	13:16:30	w	جَعَلُواْ	ﲎ	جعلوا	they attribute	jaʿalū
+7	13:16:31	w	لِلَّهِ	ﲏ	لله	to Allah	lillahi
+7	13:16:32	w	شُرَكَآءَ	ﲐ	شركاء	partners	shurakāa
+7	13:16:33	w	خَلَقُواْ	ﲑ	خلقوا	who created	khalaqū
+7	13:16:34	w	كَخَلۡقِهِۦ	ﲒ	كخلقه	like His creation	kakhalqihi
+7	13:16:35	w	فَتَشَٰبَهَ	ﲓ	فتشابه	so that seemed alike	fatashābaha
+8	13:16:36	w	ٱلۡخَلۡقُ	ﲔ	الخلق	the creation	l-khalqu
+8	13:16:37	w	عَلَيۡهِمۡۚ	ﲕﲖ	عليهم	to them	ʿalayhim
+8	13:16:38	w	قُلِ	ﲗ	قل	Say	quli
+8	13:16:39	w	ٱللَّهُ	ﲘ	الله	Allah	l-lahu
+8	13:16:40	w	خَٰلِقُ	ﲙ	خالق	(is) the Creator	khāliqu
+8	13:16:41	w	كُلِّ	ﲚ	كل	of all	kulli
+8	13:16:42	w	شَيۡءٖ	ﲛ	شيء	things	shayin
+8	13:16:43	w	وَهُوَ	ﲜ	وهو	and He	wahuwa
+8	13:16:44	w	ٱلۡوَٰحِدُ	ﲝ	الواحد	(is) the One	l-wāḥidu
+8	13:16:45	w	ٱلۡقَهَّٰرُ	ﲞ	القهار	the Irresistible	l-qahāru
+8	13:16:46	e	١٦	ﲟ			
+8	13:17:1	w	أَنزَلَ	ﲠ	انزل	He sends down	anzala
+9	13:17:2	w	مِنَ	ﲡ	من	from	mina
+9	13:17:3	w	ٱلسَّمَآءِ	ﲢ	السماء	the sky	l-samāi
+9	13:17:4	w	مَآءٗ	ﲣ	ماء	water	māan
+9	13:17:5	w	فَسَالَتۡ	ﲤ	فسالت	and flows	fasālat
+9	13:17:6	w	أَوۡدِيَةُۢ	ﲥ	اودية	the valleys	awdiyatun
+9	13:17:7	w	بِقَدَرِهَا	ﲦ	بقدرها	according to their measure	biqadarihā
+9	13:17:8	w	فَٱحۡتَمَلَ	ﲧ	فاحتمل	and carries	fa-iḥ'tamala
+9	13:17:9	w	ٱلسَّيۡلُ	ﲨ	السيل	the torrent	l-saylu
+9	13:17:10	w	زَبَدٗا	ﲩ	زبدا	a foam	zabadan
+9	13:17:11	w	رَّابِيٗاۖ	ﲪﲫ	رابيا	rising	rābiyan
+10	13:17:12	w	وَمِمَّا	ﲬ	ومما	And from what	wamimmā
+10	13:17:13	w	يُوقِدُونَ	ﲭ	يوقدون	they heat	yūqidūna
+10	13:17:14	w	عَلَيۡهِ	ﲮ	عليه	[on] it	ʿalayhi
+10	13:17:15	w	فِي	ﲯ	في	in	fī
+10	13:17:16	w	ٱلنَّارِ	ﲰ	النار	the fire	l-nāri
+10	13:17:17	w	ٱبۡتِغَآءَ	ﲱ	ابتغاء	in order to make	ib'tighāa
+10	13:17:18	w	حِلۡيَةٍ	ﲲ	حلية	ornaments	ḥil'yatin
+10	13:17:19	w	أَوۡ	ﲳ	او	or	aw
+10	13:17:20	w	مَتَٰعٖ	ﲴ	متاع	utensils	matāʿin
+10	13:17:21	w	زَبَدٞ	ﲵ	زبد	a foam	zabadun
+10	13:17:22	w	مِّثۡلُهُۥۚ	ﲶﲷ	مثله	like it	mith'luhu
+11	13:17:23	w	كَذَٰلِكَ	ﲸ	كذالك	Thus	kadhālika
+11	13:17:24	w	يَضۡرِبُ	ﲹ	يضرب	sets forth	yaḍribu
+11	13:17:25	w	ٱللَّهُ	ﲺ	الله	Allah	l-lahu
+11	13:17:26	w	ٱلۡحَقَّ	ﲻ	الحق	the truth	l-ḥaqa
+11	13:17:27	w	وَٱلۡبَٰطِلَۚ	ﲼﲽ	والباطل	and the falsehood	wal-bāṭila
+11	13:17:28	w	فَأَمَّا	ﲾ	فاما	Then as for	fa-ammā
+11	13:17:29	w	ٱلزَّبَدُ	ﲿ	الزبد	the foam	l-zabadu
+11	13:17:30	w	فَيَذۡهَبُ	ﳀ	فيذهب	it passes away	fayadhhabu
+11	13:17:31	w	جُفَآءٗۖ	ﳁﳂ	جفاء	(as) scum	jufāan
+12	13:17:32	w	وَأَمَّا	ﳃ	واما	and as for	wa-ammā
+12	13:17:33	w	مَا	ﳄ	ما	what	mā
+12	13:17:34	w	يَنفَعُ	ﳅ	ينفع	benefits	yanfaʿu
+12	13:17:35	w	ٱلنَّاسَ	ﳆ	الناس	the mankind	l-nāsa
+12	13:17:36	w	فَيَمۡكُثُ	ﳇ	فيمكث	remains	fayamkuthu
+12	13:17:37	w	فِي	ﳈ	في	in	fī
+12	13:17:38	w	ٱلۡأَرۡضِۚ	ﳉﳊ	الارض	the earth	l-arḍi
+12	13:17:39	w	كَذَٰلِكَ	ﳋ	كذالك	Thus	kadhālika
+12	13:17:40	w	يَضۡرِبُ	ﳌ	يضرب	Allah sets forth	yaḍribu
+12	13:17:41	w	ٱللَّهُ	ﳍ	الله	Allah sets forth	l-lahu
+13	13:17:42	w	ٱلۡأَمۡثَالَ	ﳎ	الامثال	the examples	l-amthāla
+13	13:17:43	e	١٧	ﳏ			
+13	13:18:1	w	لِلَّذِينَ	ﳐ	للذين	For those who	lilladhīna
+13	13:18:2	w	ٱسۡتَجَابُواْ	ﳑ	استجابوا	responded	is'tajābū
+13	13:18:3	w	لِرَبِّهِمُ	ﳒ	لربهم	to their Lord	lirabbihimu
+13	13:18:4	w	ٱلۡحُسۡنَىٰۚ	ﳓﳔ	الحسنى	(is) the bliss	l-ḥus'nā
+13	13:18:5	w	وَٱلَّذِينَ	ﳕ	والذين	And for those who	wa-alladhīna
+13	13:18:6	w	لَمۡ	ﳖ	لم	(did) not	lam
+13	13:18:7	w	يَسۡتَجِيبُواْ	ﳗ	يستجيبوا	respond	yastajībū
+14	13:18:8	w	لَهُۥ	ﳘ	له	to Him	lahu
+14	13:18:9	w	لَوۡ	ﳙ	لو	if	law
+14	13:18:10	w	أَنَّ	ﳚ	ان	that	anna
+14	13:18:11	w	لَهُم	ﳛ	لهم	they had	lahum
+14	13:18:12	w	مَّا	ﳜ	ما	whatever	mā
+14	13:18:13	w	فِي	ﳝ	في	(is) in	fī
+14	13:18:14	w	ٱلۡأَرۡضِ	ﳞ	الارض	the earth	l-arḍi
+14	13:18:15	w	جَمِيعٗا	ﳟ	جميعا	all	jamīʿan
+14	13:18:16	w	وَمِثۡلَهُۥ	ﳠ	ومثله	and like of it	wamith'lahu
+14	13:18:17	w	مَعَهُۥ	ﳡ	معه	with it	maʿahu
+14	13:18:18	w	لَٱفۡتَدَوۡاْ	ﳢ	لافتدوا	surely they would offer ransom	la-if'tadaw
+14	13:18:19	w	بِهِۦٓۚ	ﳣﳤ	به	with it	bihi
+15	13:18:20	w	أُوْلَٰٓئِكَ	ﳥ	اولايك	Those	ulāika
+15	13:18:21	w	لَهُمۡ	ﳦ	لهم	for them	lahum
+15	13:18:22	w	سُوٓءُ	ﳧ	سوء	(is) a terrible	sūu
+15	13:18:23	w	ٱلۡحِسَابِ	ﳨ	الحساب	reckoning	l-ḥisābi
+15	13:18:24	w	وَمَأۡوَىٰهُمۡ	ﳩ	وماواهم	and their abode	wamawāhum
+15	13:18:25	w	جَهَنَّمُۖ	ﳪﳫ	جهنم	(is) Hell	jahannamu
+15	13:18:26	w	وَبِئۡسَ	ﳬ	وبيس	and wretched	wabi'sa
+15	13:18:27	w	ٱلۡمِهَادُ	ﳭ	المهاد	(is) the resting place	l-mihādu
+15	13:18:28	e	١٨	ﳮ			

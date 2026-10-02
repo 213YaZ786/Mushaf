@@ -1,0 +1,140 @@
+1	68:43:1	w	خَٰشِعَةً	ﱁ	خاشعة	Humbled	khāshiʿatan
+1	68:43:2	w	أَبۡصَٰرُهُمۡ	ﱂ	ابصارهم	their eyes	abṣāruhum
+1	68:43:3	w	تَرۡهَقُهُمۡ	ﱃ	ترهقهم	will cover them	tarhaquhum
+1	68:43:4	w	ذِلَّةٞۖ	ﱄﱅ	ذلة	humiliation	dhillatun
+1	68:43:5	w	وَقَدۡ	ﱆ	وقد	And indeed	waqad
+1	68:43:6	w	كَانُواْ	ﱇ	كانوا	they were	kānū
+1	68:43:7	w	يُدۡعَوۡنَ	ﱈ	يدعون	called	yud'ʿawna
+1	68:43:8	w	إِلَى	ﱉ	الى	to	ilā
+1	68:43:9	w	ٱلسُّجُودِ	ﱊ	السجود	prostrate	l-sujūdi
+1	68:43:10	w	وَهُمۡ	ﱋ	وهم	while they	wahum
+2	68:43:11	w	سَٰلِمُونَ	ﱌ	سالمون	(were) sound	sālimūna
+2	68:43:12	e	٤٣	ﱍ			
+2	68:44:1	w	فَذَرۡنِي	ﱎ	فذرني	So leave Me	fadharnī
+2	68:44:2	w	وَمَن	ﱏ	ومن	and whoever	waman
+2	68:44:3	w	يُكَذِّبُ	ﱐ	يكذب	denies	yukadhibu
+2	68:44:4	w	بِهَٰذَا	ﱑ	بهاذا	this	bihādhā
+2	68:44:5	w	ٱلۡحَدِيثِۖ	ﱒﱓ	الحديث	Statement	l-ḥadīthi
+2	68:44:6	w	سَنَسۡتَدۡرِجُهُم	ﱔ	سنستدرجهم	We will progressively lead them	sanastadrijuhum
+3	68:44:7	w	مِّنۡ	ﱕ	من	from	min
+3	68:44:8	w	حَيۡثُ	ﱖ	حيث	where	ḥaythu
+3	68:44:9	w	لَا	ﱗ	لا	not	lā
+3	68:44:10	w	يَعۡلَمُونَ	ﱘ	يعلمون	they know	yaʿlamūna
+3	68:44:11	e	٤٤	ﱙ			
+3	68:45:1	w	وَأُمۡلِي	ﱚ	واملي	And I will give respite	wa-um'lī
+3	68:45:2	w	لَهُمۡۚ	ﱛﱜ	لهم	to them	lahum
+3	68:45:3	w	إِنَّ	ﱝ	ان	Indeed	inna
+3	68:45:4	w	كَيۡدِي	ﱞ	كيدي	My plan	kaydī
+3	68:45:5	w	مَتِينٌ	ﱟ	متين	(is) firm	matīnun
+3	68:45:6	e	٤٥	ﱠ			
+3	68:46:1	w	أَمۡ	ﱡ	ام	Or	am
+3	68:46:2	w	تَسۡـَٔلُهُمۡ	ﱢ	تسالهم	you ask them	tasaluhum
+4	68:46:3	w	أَجۡرٗا	ﱣ	اجرا	a payment	ajran
+4	68:46:4	w	فَهُم	ﱤ	فهم	so they	fahum
+4	68:46:5	w	مِّن	ﱥ	من	from	min
+4	68:46:6	w	مَّغۡرَمٖ	ﱦ	مغرم	(the) debt	maghramin
+4	68:46:7	w	مُّثۡقَلُونَ	ﱧ	مثقلون	(are) burdened	muth'qalūna
+4	68:46:8	e	٤٦	ﱨ			
+4	68:47:1	w	أَمۡ	ﱩ	ام	Or	am
+4	68:47:2	w	عِندَهُمُ	ﱪ	عندهم	(is) with them	ʿindahumu
+4	68:47:3	w	ٱلۡغَيۡبُ	ﱫ	الغيب	the unseen	l-ghaybu
+4	68:47:4	w	فَهُمۡ	ﱬ	فهم	so they	fahum
+4	68:47:5	w	يَكۡتُبُونَ	ﱭ	يكتبون	write it	yaktubūna
+5	68:47:6	e	٤٧	ﱮ			
+5	68:48:1	w	فَٱصۡبِرۡ	ﱯ	فاصبر	So be patient	fa-iṣ'bir
+5	68:48:2	w	لِحُكۡمِ	ﱰ	لحكم	for (the) decision	liḥuk'mi
+5	68:48:3	w	رَبِّكَ	ﱱ	ربك	(of) your Lord	rabbika
+5	68:48:4	w	وَلَا	ﱲ	ولا	and (do) not	walā
+5	68:48:5	w	تَكُن	ﱳ	تكن	be	takun
+5	68:48:6	w	كَصَاحِبِ	ﱴ	كصاحب	like (the) companion	kaṣāḥibi
+5	68:48:7	w	ٱلۡحُوتِ	ﱵ	الحوت	(of) the fish	l-ḥūti
+5	68:48:8	w	إِذۡ	ﱶ	اذ	when	idh
+5	68:48:9	w	نَادَىٰ	ﱷ	نادى	he called out	nādā
+6	68:48:10	w	وَهُوَ	ﱸ	وهو	while he	wahuwa
+6	68:48:11	w	مَكۡظُومٞ	ﱹ	مكظوم	(was) distressed	makẓūmun
+6	68:48:12	e	٤٨	ﱺ			
+6	68:49:1	w	لَّوۡلَآ	ﱻ	لولا	If not	lawlā
+6	68:49:2	w	أَن	ﱼ	ان	that	an
+6	68:49:3	w	تَدَٰرَكَهُۥ	ﱽ	تداركه	overtook him	tadārakahu
+6	68:49:4	w	نِعۡمَةٞ	ﱾ	نعمة	a Favor	niʿ'matun
+6	68:49:5	w	مِّن	ﱿ	من	from	min
+6	68:49:6	w	رَّبِّهِۦ	ﲀ	ربه	his Lord	rabbihi
+6	68:49:7	w	لَنُبِذَ	ﲁ	لنبذ	surely he would have been thrown	lanubidha
+6	68:49:8	w	بِٱلۡعَرَآءِ	ﲂ	بالعراء	onto (the) naked shore	bil-ʿarāi
+7	68:49:9	w	وَهُوَ	ﲃ	وهو	while he	wahuwa
+7	68:49:10	w	مَذۡمُومٞ	ﲄ	مذموم	(was) blamed	madhmūmun
+7	68:49:11	e	٤٩	ﲅ			
+7	68:50:1	w	فَٱجۡتَبَٰهُ	ﲆ	فاجتباه	But chose him	fa-ij'tabāhu
+7	68:50:2	w	رَبُّهُۥ	ﲇ	ربه	his Lord	rabbuhu
+7	68:50:3	w	فَجَعَلَهُۥ	ﲈ	فجعله	and made him	fajaʿalahu
+7	68:50:4	w	مِنَ	ﲉ	من	of	mina
+7	68:50:5	w	ٱلصَّٰلِحِينَ	ﲊ	الصالحين	the righteous	l-ṣāliḥīna
+8	68:50:6	e	٥٠	ﲋ			
+8	68:51:1	w	وَإِن	ﲌ	وان	And indeed	wa-in
+8	68:51:2	w	يَكَادُ	ﲍ	يكاد	would almost	yakādu
+8	68:51:3	w	ٱلَّذِينَ	ﲎ	الذين	those who	alladhīna
+8	68:51:4	w	كَفَرُواْ	ﲏ	كفروا	disbelieve	kafarū
+8	68:51:5	w	لَيُزۡلِقُونَكَ	ﲐ	ليزلقونك	surely make you slip	layuz'liqūnaka
+8	68:51:6	w	بِأَبۡصَٰرِهِمۡ	ﲑ	بابصارهم	with their look	bi-abṣārihim
+8	68:51:7	w	لَمَّا	ﲒ	لما	when	lammā
+8	68:51:8	w	سَمِعُواْ	ﲓ	سمعوا	they hear	samiʿū
+9	68:51:9	w	ٱلذِّكۡرَ	ﲔ	الذكر	the Message	l-dhik'ra
+9	68:51:10	w	وَيَقُولُونَ	ﲕ	ويقولون	and they say	wayaqūlūna
+9	68:51:11	w	إِنَّهُۥ	ﲖ	انه	Indeed, he	innahu
+9	68:51:12	w	لَمَجۡنُونٞ	ﲗ	لمجنون	(is) surely mad	lamajnūnun
+9	68:51:13	e	٥١	ﲘ			
+9	68:52:1	w	وَمَا	ﲙ	وما	And not	wamā
+9	68:52:2	w	هُوَ	ﲚ	هو	it (is)	huwa
+9	68:52:3	w	إِلَّا	ﲛ	الا	but	illā
+9	68:52:4	w	ذِكۡرٞ	ﲜ	ذكر	a Reminder	dhik'run
+9	68:52:5	w	لِّلۡعَٰلَمِينَ	ﲝ	للعالمين	to the worlds	lil'ʿālamīna
+9	68:52:6	e	٥٢	ﲞ			
+12	69:1:1	w	ٱلۡحَآقَّةُ	ﲟ	الحاقة	The Inevitable Reality	al-ḥāqatu
+12	69:1:2	e	١	ﲠ			
+12	69:2:1	w	مَا	ﲡ	ما	What	mā
+12	69:2:2	w	ٱلۡحَآقَّةُ	ﲢ	الحاقة	(is) the Inevitable Reality	l-ḥāqatu
+12	69:2:3	e	٢	ﲣ			
+12	69:3:1	w	وَمَآ	ﲤ	وما	And what	wamā
+12	69:3:2	w	أَدۡرَىٰكَ	ﲥ	ادراك	will make you know	adrāka
+12	69:3:3	w	مَا	ﲦ	ما	what	mā
+12	69:3:4	w	ٱلۡحَآقَّةُ	ﲧ	الحاقة	(is) the Inevitable Reality	l-ḥāqatu
+12	69:3:5	e	٣	ﲨ			
+12	69:4:1	w	كَذَّبَتۡ	ﲩ	كذبت	Denied	kadhabat
+12	69:4:2	w	ثَمُودُ	ﲪ	ثمود	Thamud	thamūdu
+12	69:4:3	w	وَعَادُۢ	ﲫ	وعاد	and Aad	waʿādun
+13	69:4:4	w	بِٱلۡقَارِعَةِ	ﲬ	بالقارعة	the Striking Calamity	bil-qāriʿati
+13	69:4:5	e	٤	ﲭ			
+13	69:5:1	w	فَأَمَّا	ﲮ	فاما	So as for	fa-ammā
+13	69:5:2	w	ثَمُودُ	ﲯ	ثمود	Thamud	thamūdu
+13	69:5:3	w	فَأُهۡلِكُواْ	ﲰ	فاهلكوا	they were destroyed	fa-uh'likū
+13	69:5:4	w	بِٱلطَّاغِيَةِ	ﲱ	بالطاغية	by the overpowering (blast)	bil-ṭāghiyati
+13	69:5:5	e	٥	ﲲ			
+13	69:6:1	w	وَأَمَّا	ﲳ	واما	And as for	wa-ammā
+13	69:6:2	w	عَادٞ	ﲴ	عاد	Aad	ʿādun
+13	69:6:3	w	فَأُهۡلِكُواْ	ﲵ	فاهلكوا	they were destroyed	fa-uh'likū
+13	69:6:4	w	بِرِيحٖ	ﲶ	بريح	by a wind	birīḥin
+14	69:6:5	w	صَرۡصَرٍ	ﲷ	صرصر	screaming	ṣarṣarin
+14	69:6:6	w	عَاتِيَةٖ	ﲸ	عاتية	violent	ʿātiyatin
+14	69:6:7	e	٦	ﲹ			
+14	69:7:1	w	سَخَّرَهَا	ﲺ	سخرها	Which He imposed	sakharahā
+14	69:7:2	w	عَلَيۡهِمۡ	ﲻ	عليهم	upon them	ʿalayhim
+14	69:7:3	w	سَبۡعَ	ﲼ	سبع	(for) seven	sabʿa
+14	69:7:4	w	لَيَالٖ	ﲽ	ليال	nights	layālin
+14	69:7:5	w	وَثَمَٰنِيَةَ	ﲾ	وثمانية	and eight	wathamāniyata
+14	69:7:6	w	أَيَّامٍ	ﲿ	ايام	days	ayyāmin
+14	69:7:7	w	حُسُومٗاۖ	ﳀﳁ	حسوما	(in) succession	ḥusūman
+14	69:7:8	w	فَتَرَى	ﳂ	فترى	so you would see	fatarā
+15	69:7:9	w	ٱلۡقَوۡمَ	ﳃ	القوم	the people	l-qawma
+15	69:7:10	w	فِيهَا	ﳄ	فيها	therein	fīhā
+15	69:7:11	w	صَرۡعَىٰ	ﳅ	صرعى	fallen	ṣarʿā
+15	69:7:12	w	كَأَنَّهُمۡ	ﳆ	كانهم	as if they were	ka-annahum
+15	69:7:13	w	أَعۡجَازُ	ﳇ	اعجاز	trunks	aʿjāzu
+15	69:7:14	w	نَخۡلٍ	ﳈ	نخل	(of) date-palms	nakhlin
+15	69:7:15	w	خَاوِيَةٖ	ﳉ	خاوية	hollow	khāwiyatin
+15	69:7:16	e	٧	ﳊ			
+15	69:8:1	w	فَهَلۡ	ﳋ	فهل	Then do	fahal
+15	69:8:2	w	تَرَىٰ	ﳌ	ترى	you see	tarā
+15	69:8:3	w	لَهُم	ﳍ	لهم	of them	lahum
+15	69:8:4	w	مِّنۢ	ﳎ	من	any	min
+15	69:8:5	w	بَاقِيَةٖ	ﳏ	باقية	remains	bāqiyatin
+15	69:8:6	e	٨	ﳐ			

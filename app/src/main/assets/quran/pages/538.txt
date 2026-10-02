@@ -1,0 +1,160 @@
+1	57:4:1	w	هُوَ	ﱁ	هو	He	huwa
+1	57:4:2	w	ٱلَّذِي	ﱂ	الذي	(is) the One Who	alladhī
+1	57:4:3	w	خَلَقَ	ﱃ	خلق	created	khalaqa
+1	57:4:4	w	ٱلسَّمَٰوَٰتِ	ﱄ	السماوات	the heavens	l-samāwāti
+1	57:4:5	w	وَٱلۡأَرۡضَ	ﱅ	والارض	and the earth	wal-arḍa
+1	57:4:6	w	فِي	ﱆ	في	in	fī
+1	57:4:7	w	سِتَّةِ	ﱇ	ستة	six	sittati
+1	57:4:8	w	أَيَّامٖ	ﱈ	ايام	periods	ayyāmin
+1	57:4:9	w	ثُمَّ	ﱉ	ثم	then	thumma
+1	57:4:10	w	ٱسۡتَوَىٰ	ﱊ	استوى	He rose	is'tawā
+2	57:4:11	w	عَلَى	ﱋ	على	over	ʿalā
+2	57:4:12	w	ٱلۡعَرۡشِۖ	ﱌﱍ	العرش	the Throne	l-ʿarshi
+2	57:4:13	w	يَعۡلَمُ	ﱎ	يعلم	He knows	yaʿlamu
+2	57:4:14	w	مَا	ﱏ	ما	what	mā
+2	57:4:15	w	يَلِجُ	ﱐ	يلج	penetrates	yaliju
+2	57:4:16	w	فِي	ﱑ	في	in(to)	fī
+2	57:4:17	w	ٱلۡأَرۡضِ	ﱒ	الارض	the earth	l-arḍi
+2	57:4:18	w	وَمَا	ﱓ	وما	and what	wamā
+2	57:4:19	w	يَخۡرُجُ	ﱔ	يخرج	comes forth	yakhruju
+2	57:4:20	w	مِنۡهَا	ﱕ	منها	from it	min'hā
+2	57:4:21	w	وَمَا	ﱖ	وما	and what	wamā
+2	57:4:22	w	يَنزِلُ	ﱗ	ينزل	descends	yanzilu
+2	57:4:23	w	مِنَ	ﱘ	من	from	mina
+3	57:4:24	w	ٱلسَّمَآءِ	ﱙ	السماء	the heaven	l-samāi
+3	57:4:25	w	وَمَا	ﱚ	وما	and what	wamā
+3	57:4:26	w	يَعۡرُجُ	ﱛ	يعرج	ascends	yaʿruju
+3	57:4:27	w	فِيهَاۖ	ﱜﱝ	فيها	therein	fīhā
+3	57:4:28	w	وَهُوَ	ﱞ	وهو	and He	wahuwa
+3	57:4:29	w	مَعَكُمۡ	ﱟ	معكم	(is) with you	maʿakum
+3	57:4:30	w	أَيۡنَ	ﱠ	اين	wherever	ayna
+3	57:4:31	w	مَا	ﱡ	ما	wherever	mā
+3	57:4:32	w	كُنتُمۡۚ	ﱢﱣ	كنتم	you are	kuntum
+3	57:4:33	w	وَٱللَّهُ	ﱤ	والله	And Allah	wal-lahu
+3	57:4:34	w	بِمَا	ﱥ	بما	of what	bimā
+3	57:4:35	w	تَعۡمَلُونَ	ﱦ	تعملون	you do	taʿmalūna
+4	57:4:36	w	بَصِيرٞ	ﱧ	بصير	(is) All-seer	baṣīrun
+4	57:4:37	e	٤	ﱨ			
+4	57:5:1	w	لَّهُۥ	ﱩ	له	For Him	lahu
+4	57:5:2	w	مُلۡكُ	ﱪ	ملك	(is the) dominion	mul'ku
+4	57:5:3	w	ٱلسَّمَٰوَٰتِ	ﱫ	السماوات	(of) the heavens	l-samāwāti
+4	57:5:4	w	وَٱلۡأَرۡضِۚ	ﱬﱭ	والارض	and the earth	wal-arḍi
+4	57:5:5	w	وَإِلَى	ﱮ	والى	and to	wa-ilā
+4	57:5:6	w	ٱللَّهِ	ﱯ	الله	Allah	l-lahi
+4	57:5:7	w	تُرۡجَعُ	ﱰ	ترجع	will be returned	tur'jaʿu
+4	57:5:8	w	ٱلۡأُمُورُ	ﱱ	الامور	the matters	l-umūru
+5	57:5:9	e	٥	ﱲ			
+5	57:6:1	w	يُولِجُ	ﱳ	يولج	He merges	yūliju
+5	57:6:2	w	ٱلَّيۡلَ	ﱴ	الليل	the night	al-layla
+5	57:6:3	w	فِي	ﱵ	في	into	fī
+5	57:6:4	w	ٱلنَّهَارِ	ﱶ	النهار	the day	l-nahāri
+5	57:6:5	w	وَيُولِجُ	ﱷ	ويولج	and He merges	wayūliju
+5	57:6:6	w	ٱلنَّهَارَ	ﱸ	النهار	the day	l-nahāra
+5	57:6:7	w	فِي	ﱹ	في	into	fī
+5	57:6:8	w	ٱلَّيۡلِۚ	ﱺﱻ	الليل	the night	al-layli
+5	57:6:9	w	وَهُوَ	ﱼ	وهو	and He	wahuwa
+5	57:6:10	w	عَلِيمُۢ	ﱽ	عليم	(is) All-Knower	ʿalīmun
+5	57:6:11	w	بِذَاتِ	ﱾ	بذات	of what is in the breasts	bidhāti
+6	57:6:12	w	ٱلصُّدُورِ	ﱿ	الصدور	of what is in the breasts	l-ṣudūri
+6	57:6:13	e	٦	ﲀ			
+6	57:7:1	w	ءَامِنُواْ	ﲁ	امنوا	Believe	āminū
+6	57:7:2	w	بِٱللَّهِ	ﲂ	بالله	in Allah	bil-lahi
+6	57:7:3	w	وَرَسُولِهِۦ	ﲃ	ورسوله	and His Messenger	warasūlihi
+6	57:7:4	w	وَأَنفِقُواْ	ﲄ	وانفقوا	and spend	wa-anfiqū
+6	57:7:5	w	مِمَّا	ﲅ	مما	of what	mimmā
+6	57:7:6	w	جَعَلَكُم	ﲆ	جعلكم	He has made you	jaʿalakum
+7	57:7:7	w	مُّسۡتَخۡلَفِينَ	ﲇ	مستخلفين	trustees	mus'takhlafīna
+7	57:7:8	w	فِيهِۖ	ﲈﲉ	فيه	therein	fīhi
+7	57:7:9	w	فَٱلَّذِينَ	ﲊ	فالذين	And those	fa-alladhīna
+7	57:7:10	w	ءَامَنُواْ	ﲋ	امنوا	who believe	āmanū
+7	57:7:11	w	مِنكُمۡ	ﲌ	منكم	among you	minkum
+7	57:7:12	w	وَأَنفَقُواْ	ﲍ	وانفقوا	and spend	wa-anfaqū
+7	57:7:13	w	لَهُمۡ	ﲎ	لهم	for them	lahum
+7	57:7:14	w	أَجۡرٞ	ﲏ	اجر	(is) a reward	ajrun
+7	57:7:15	w	كَبِيرٞ	ﲐ	كبير	great	kabīrun
+7	57:7:16	e	٧	ﲑ			
+8	57:8:1	w	وَمَا	ﲒ	وما	And what	wamā
+8	57:8:2	w	لَكُمۡ	ﲓ	لكم	(is) for you	lakum
+8	57:8:3	w	لَا	ﲔ	لا	(that) not	lā
+8	57:8:4	w	تُؤۡمِنُونَ	ﲕ	تومنون	you believe	tu'minūna
+8	57:8:5	w	بِٱللَّهِ	ﲖ	بالله	in Allah	bil-lahi
+8	57:8:6	w	وَٱلرَّسُولُ	ﲗ	والرسول	while the Messenger	wal-rasūlu
+8	57:8:7	w	يَدۡعُوكُمۡ	ﲘ	يدعوكم	calls you	yadʿūkum
+8	57:8:8	w	لِتُؤۡمِنُواْ	ﲙ	لتومنوا	that you believe	litu'minū
+8	57:8:9	w	بِرَبِّكُمۡ	ﲚ	بربكم	in your Lord	birabbikum
+8	57:8:10	w	وَقَدۡ	ﲛ	وقد	and indeed	waqad
+9	57:8:11	w	أَخَذَ	ﲜ	اخذ	He has taken	akhadha
+9	57:8:12	w	مِيثَٰقَكُمۡ	ﲝ	ميثاقكم	your covenant	mīthāqakum
+9	57:8:13	w	إِن	ﲞ	ان	if	in
+9	57:8:14	w	كُنتُم	ﲟ	كنتم	you are	kuntum
+9	57:8:15	w	مُّؤۡمِنِينَ	ﲠ	مومنين	believers	mu'minīna
+9	57:8:16	e	٨	ﲡ			
+9	57:9:1	w	هُوَ	ﲢ	هو	He	huwa
+9	57:9:2	w	ٱلَّذِي	ﲣ	الذي	(is) the One Who	alladhī
+9	57:9:3	w	يُنَزِّلُ	ﲤ	ينزل	sends down	yunazzilu
+9	57:9:4	w	عَلَىٰ	ﲥ	على	upon	ʿalā
+9	57:9:5	w	عَبۡدِهِۦٓ	ﲦ	عبده	His slave	ʿabdihi
+10	57:9:6	w	ءَايَٰتِۭ	ﲧ	ايات	Verses	āyātin
+10	57:9:7	w	بَيِّنَٰتٖ	ﲨ	بينات	clear	bayyinātin
+10	57:9:8	w	لِّيُخۡرِجَكُم	ﲩ	ليخرجكم	that He may bring you out	liyukh'rijakum
+10	57:9:9	w	مِّنَ	ﲪ	من	from	mina
+10	57:9:10	w	ٱلظُّلُمَٰتِ	ﲫ	الظلمات	the darkness[es]	l-ẓulumāti
+10	57:9:11	w	إِلَى	ﲬ	الى	into	ilā
+10	57:9:12	w	ٱلنُّورِۚ	ﲭﲮ	النور	the light	l-nūri
+10	57:9:13	w	وَإِنَّ	ﲯ	وان	And indeed	wa-inna
+10	57:9:14	w	ٱللَّهَ	ﲰ	الله	Allah	l-laha
+10	57:9:15	w	بِكُمۡ	ﲱ	بكم	to you	bikum
+11	57:9:16	w	لَرَءُوفٞ	ﲲ	لرءوف	(is the) Most Kind	laraūfun
+11	57:9:17	w	رَّحِيمٞ	ﲳ	رحيم	(the) Most Merciful	raḥīmun
+11	57:9:18	e	٩	ﲴ			
+11	57:10:1	w	وَمَا	ﲵ	وما	And what	wamā
+11	57:10:2	w	لَكُمۡ	ﲶ	لكم	(is) for you	lakum
+11	57:10:3	w	أَلَّا	ﲷ	الا	that not	allā
+11	57:10:4	w	تُنفِقُواْ	ﲸ	تنفقوا	you spend	tunfiqū
+11	57:10:5	w	فِي	ﲹ	في	in	fī
+11	57:10:6	w	سَبِيلِ	ﲺ	سبيل	(the) way	sabīli
+11	57:10:7	w	ٱللَّهِ	ﲻ	الله	(of) Allah	l-lahi
+11	57:10:8	w	وَلِلَّهِ	ﲼ	ولله	while for Allah	walillahi
+11	57:10:9	w	مِيرَٰثُ	ﲽ	ميراث	(is the) heritage	mīrāthu
+12	57:10:10	w	ٱلسَّمَٰوَٰتِ	ﲾ	السماوات	(of) the heavens	l-samāwāti
+12	57:10:11	w	وَٱلۡأَرۡضِۚ	ﲿﳀ	والارض	and the earth	wal-arḍi
+12	57:10:12	w	لَا	ﳁ	لا	Not	lā
+12	57:10:13	w	يَسۡتَوِي	ﳂ	يستوي	are equal	yastawī
+12	57:10:14	w	مِنكُم	ﳃ	منكم	among you	minkum
+12	57:10:15	w	مَّنۡ	ﳄ	من	(those) who	man
+12	57:10:16	w	أَنفَقَ	ﳅ	انفق	spent	anfaqa
+12	57:10:17	w	مِن	ﳆ	من	before	min
+12	57:10:18	w	قَبۡلِ	ﳇ	قبل	before	qabli
+12	57:10:19	w	ٱلۡفَتۡحِ	ﳈ	الفتح	the victory	l-fatḥi
+13	57:10:20	w	وَقَٰتَلَۚ	ﳉﳊ	وقاتل	and fought	waqātala
+13	57:10:21	w	أُوْلَٰٓئِكَ	ﳋ	اولايك	Those	ulāika
+13	57:10:22	w	أَعۡظَمُ	ﳌ	اعظم	(are) greater	aʿẓamu
+13	57:10:23	w	دَرَجَةٗ	ﳍ	درجة	(in) degree	darajatan
+13	57:10:24	w	مِّنَ	ﳎ	من	than	mina
+13	57:10:25	w	ٱلَّذِينَ	ﳏ	الذين	those who	alladhīna
+13	57:10:26	w	أَنفَقُواْ	ﳐ	انفقوا	spent	anfaqū
+13	57:10:27	w	مِنۢ	ﳑ	من	afterwards	min
+13	57:10:28	w	بَعۡدُ	ﳒ	بعد	afterwards	baʿdu
+13	57:10:29	w	وَقَٰتَلُواْۚ	ﳓﳔ	وقاتلوا	and fought	waqātalū
+14	57:10:30	w	وَكُلّٗا	ﳕ	وكلا	But to all	wakullan
+14	57:10:31	w	وَعَدَ	ﳖ	وعد	Allah has promised	waʿada
+14	57:10:32	w	ٱللَّهُ	ﳗ	الله	Allah has promised	l-lahu
+14	57:10:33	w	ٱلۡحُسۡنَىٰۚ	ﳘﳙ	الحسنى	the best	l-ḥus'nā
+14	57:10:34	w	وَٱللَّهُ	ﳚ	والله	And Allah	wal-lahu
+14	57:10:35	w	بِمَا	ﳛ	بما	of what	bimā
+14	57:10:36	w	تَعۡمَلُونَ	ﳜ	تعملون	you do	taʿmalūna
+14	57:10:37	w	خَبِيرٞ	ﳝ	خبير	(is) All-Aware	khabīrun
+14	57:10:38	e	١٠	ﳞ			
+14	57:11:1	w	مَّن	ﳟ	من	Who (is)	man
+14	57:11:2	w	ذَا	ﳠ	ذا	the one who	dhā
+15	57:11:3	w	ٱلَّذِي	ﳡ	الذي	the one who	alladhī
+15	57:11:4	w	يُقۡرِضُ	ﳢ	يقرض	will loan	yuq'riḍu
+15	57:11:5	w	ٱللَّهَ	ﳣ	الله	(to) Allah	l-laha
+15	57:11:6	w	قَرۡضًا	ﳤ	قرضا	a loan	qarḍan
+15	57:11:7	w	حَسَنٗا	ﳥ	حسنا	goodly	ḥasanan
+15	57:11:8	w	فَيُضَٰعِفَهُۥ	ﳦ	فيضاعفه	so He will multiply it	fayuḍāʿifahu
+15	57:11:9	w	لَهُۥ	ﳧ	له	for him	lahu
+15	57:11:10	w	وَلَهُۥٓ	ﳨ	وله	and for him	walahu
+15	57:11:11	w	أَجۡرٞ	ﳩ	اجر	(is) a reward	ajrun
+15	57:11:12	w	كَرِيمٞ	ﳪ	كريم	noble	karīmun
+15	57:11:13	e	١١	ﳫ			

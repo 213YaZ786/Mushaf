@@ -1,0 +1,158 @@
+1	7:12:1	w	قَالَ	ﱁ	قال	(Allah) said	qāla
+1	7:12:2	w	مَا	ﱂ	ما	What	mā
+1	7:12:3	w	مَنَعَكَ	ﱃ	منعك	prevented you	manaʿaka
+1	7:12:4	w	أَلَّا	ﱄ	الا	that not	allā
+1	7:12:5	w	تَسۡجُدَ	ﱅ	تسجد	you prostrate	tasjuda
+1	7:12:6	w	إِذۡ	ﱆ	اذ	when	idh
+1	7:12:7	w	أَمَرۡتُكَۖ	ﱇﱈ	امرتك	I commanded you	amartuka
+1	7:12:8	w	قَالَ	ﱉ	قال	(Shaitaan) said	qāla
+1	7:12:9	w	أَنَا۠	ﱊ	انا	I am	anā
+1	7:12:10	w	خَيۡرٞ	ﱋ	خير	better	khayrun
+1	7:12:11	w	مِّنۡهُ	ﱌ	منه	than him	min'hu
+1	7:12:12	w	خَلَقۡتَنِي	ﱍ	خلقتني	You created me	khalaqtanī
+1	7:12:13	w	مِن	ﱎ	من	from	min
+1	7:12:14	w	نَّارٖ	ﱏ	نار	fire	nārin
+2	7:12:15	w	وَخَلَقۡتَهُۥ	ﱐ	وخلقته	and You created him	wakhalaqtahu
+2	7:12:16	w	مِن	ﱑ	من	from	min
+2	7:12:17	w	طِينٖ	ﱒ	طين	clay	ṭīnin
+2	7:12:18	e	١٢	ﱓ			
+2	7:13:1	w	قَالَ	ﱔ	قال	(Allah) said	qāla
+2	7:13:2	w	فَٱهۡبِطۡ	ﱕ	فاهبط	Then go down	fa-ih'biṭ
+2	7:13:3	w	مِنۡهَا	ﱖ	منها	from it	min'hā
+2	7:13:4	w	فَمَا	ﱗ	فما	for not	famā
+2	7:13:5	w	يَكُونُ	ﱘ	يكون	it is	yakūnu
+2	7:13:6	w	لَكَ	ﱙ	لك	for you	laka
+2	7:13:7	w	أَن	ﱚ	ان	that	an
+2	7:13:8	w	تَتَكَبَّرَ	ﱛ	تتكبر	you be arrogant	tatakabbara
+3	7:13:9	w	فِيهَا	ﱜ	فيها	in it	fīhā
+3	7:13:10	w	فَٱخۡرُجۡ	ﱝ	فاخرج	So get out	fa-ukh'ruj
+3	7:13:11	w	إِنَّكَ	ﱞ	انك	indeed, you	innaka
+3	7:13:12	w	مِنَ	ﱟ	من	(are) of	mina
+3	7:13:13	w	ٱلصَّٰغِرِينَ	ﱠ	الصاغرين	the disgraced ones	l-ṣāghirīna
+3	7:13:14	e	١٣	ﱡ			
+3	7:14:1	w	قَالَ	ﱢ	قال	(Shaitaan) said	qāla
+3	7:14:2	w	أَنظِرۡنِيٓ	ﱣ	انظرني	Give me respite	anẓir'nī
+3	7:14:3	w	إِلَىٰ	ﱤ	الى	till	ilā
+3	7:14:4	w	يَوۡمِ	ﱥ	يوم	(the) Day	yawmi
+3	7:14:5	w	يُبۡعَثُونَ	ﱦ	يبعثون	they are raised up	yub'ʿathūna
+4	7:14:6	e	١٤	ﱧ			
+4	7:15:1	w	قَالَ	ﱨ	قال	(Allah) said	qāla
+4	7:15:2	w	إِنَّكَ	ﱩ	انك	Indeed, you	innaka
+4	7:15:3	w	مِنَ	ﱪ	من	(are) of	mina
+4	7:15:4	w	ٱلۡمُنظَرِينَ	ﱫ	المنظرين	the ones given respite	l-munẓarīna
+4	7:15:5	e	١٥	ﱬ			
+4	7:16:1	w	قَالَ	ﱭ	قال	(Shaitaan) said	qāla
+4	7:16:2	w	فَبِمَآ	ﱮ	فبما	Because	fabimā
+4	7:16:3	w	أَغۡوَيۡتَنِي	ﱯ	اغويتني	You have sent me astray	aghwaytanī
+4	7:16:4	w	لَأَقۡعُدَنَّ	ﱰ	لاقعدن	surely I will sit	la-aqʿudanna
+4	7:16:5	w	لَهُمۡ	ﱱ	لهم	for them	lahum
+5	7:16:6	w	صِرَٰطَكَ	ﱲ	صراطك	(on) Your path	ṣirāṭaka
+5	7:16:7	w	ٱلۡمُسۡتَقِيمَ	ﱳ	المستقيم	the straight	l-mus'taqīma
+5	7:16:8	e	١٦	ﱴ			
+5	7:17:1	w	ثُمَّ	ﱵ	ثم	Then	thumma
+5	7:17:2	w	لَأٓتِيَنَّهُم	ﱶ	لاتينهم	surely, I will come to them	laātiyannahum
+5	7:17:3	w	مِّنۢ	ﱷ	من	from	min
+5	7:17:4	w	بَيۡنِ	ﱸ	بين	before	bayni
+5	7:17:5	w	أَيۡدِيهِمۡ	ﱹ	ايديهم	them	aydīhim
+5	7:17:6	w	وَمِنۡ	ﱺ	ومن	and from	wamin
+5	7:17:7	w	خَلۡفِهِمۡ	ﱻ	خلفهم	behind them	khalfihim
+6	7:17:8	w	وَعَنۡ	ﱼ	وعن	and from	waʿan
+6	7:17:9	w	أَيۡمَٰنِهِمۡ	ﱽ	ايمانهم	their right	aymānihim
+6	7:17:10	w	وَعَن	ﱾ	وعن	and from	waʿan
+6	7:17:11	w	شَمَآئِلِهِمۡۖ	ﱿﲀ	شمايلهم	their left	shamāilihim
+6	7:17:12	w	وَلَا	ﲁ	ولا	and not	walā
+6	7:17:13	w	تَجِدُ	ﲂ	تجد	You (will) find	tajidu
+6	7:17:14	w	أَكۡثَرَهُمۡ	ﲃ	اكثرهم	most of them	aktharahum
+6	7:17:15	w	شَٰكِرِينَ	ﲄ	شاكرين	grateful	shākirīna
+6	7:17:16	e	١٧	ﲅ			
+6	7:18:1	w	قَالَ	ﲆ	قال	(Allah) said	qāla
+7	7:18:2	w	ٱخۡرُجۡ	ﲇ	اخرج	Get out	ukh'ruj
+7	7:18:3	w	مِنۡهَا	ﲈ	منها	of it	min'hā
+7	7:18:4	w	مَذۡءُومٗا	ﲉ	مذءوما	disgraced	madhūman
+7	7:18:5	w	مَّدۡحُورٗاۖ	ﲊﲋ	مدحورا	and expelled	madḥūran
+7	7:18:6	w	لَّمَن	ﲌ	لمن	Certainly, whoever	laman
+7	7:18:7	w	تَبِعَكَ	ﲍ	تبعك	follows you	tabiʿaka
+7	7:18:8	w	مِنۡهُمۡ	ﲎ	منهم	among them	min'hum
+7	7:18:9	w	لَأَمۡلَأَنَّ	ﲏ	لاملان	surely, I will fill	la-amla-anna
+7	7:18:10	w	جَهَنَّمَ	ﲐ	جهنم	Hell	jahannama
+7	7:18:11	w	مِنكُمۡ	ﲑ	منكم	with you	minkum
+8	7:18:12	w	أَجۡمَعِينَ	ﲒ	اجمعين	all	ajmaʿīna
+8	7:18:13	e	١٨	ﲓ			
+8	7:19:1	w	وَيَٰٓـَٔادَمُ	ﲔ	ويا ادم	And O Adam	wayāādamu
+8	7:19:2	w	ٱسۡكُنۡ	ﲕ	اسكن	Dwell	us'kun
+8	7:19:3	w	أَنتَ	ﲖ	انت	you	anta
+8	7:19:4	w	وَزَوۡجُكَ	ﲗ	وزوجك	and your wife	wazawjuka
+8	7:19:5	w	ٱلۡجَنَّةَ	ﲘ	الجنة	(in) the Garden	l-janata
+8	7:19:6	w	فَكُلَا	ﲙ	فكلا	and you both eat	fakulā
+8	7:19:7	w	مِنۡ	ﲚ	من	from	min
+8	7:19:8	w	حَيۡثُ	ﲛ	حيث	wherever	ḥaythu
+9	7:19:9	w	شِئۡتُمَا	ﲜ	شيتما	you both wish	shi'tumā
+9	7:19:10	w	وَلَا	ﲝ	ولا	but (do) not	walā
+9	7:19:11	w	تَقۡرَبَا	ﲞ	تقربا	approach [both of you]	taqrabā
+9	7:19:12	w	هَٰذِهِ	ﲟ	هاذه	this	hādhihi
+9	7:19:13	w	ٱلشَّجَرَةَ	ﲠ	الشجرة	[the] tree	l-shajarata
+9	7:19:14	w	فَتَكُونَا	ﲡ	فتكونا	lest you both be	fatakūnā
+9	7:19:15	w	مِنَ	ﲢ	من	among	mina
+9	7:19:16	w	ٱلظَّٰلِمِينَ	ﲣ	الظالمين	the wrongdoers	l-ẓālimīna
+9	7:19:17	e	١٩	ﲤ			
+9	7:20:1	w	فَوَسۡوَسَ	ﲥ	فوسوس	Then whispered	fawaswasa
+10	7:20:2	w	لَهُمَا	ﲦ	لهما	to both of them	lahumā
+10	7:20:3	w	ٱلشَّيۡطَٰنُ	ﲧ	الشيطان	the Shaitaan	l-shayṭānu
+10	7:20:4	w	لِيُبۡدِيَ	ﲨ	ليبدي	to make apparent	liyub'diya
+10	7:20:5	w	لَهُمَا	ﲩ	لهما	to both of them	lahumā
+10	7:20:6	w	مَا	ﲪ	ما	what	mā
+10	7:20:7	w	وُۥرِيَ	ﲫ	ووري	was concealed	wūriya
+10	7:20:8	w	عَنۡهُمَا	ﲬ	عنهما	from both of them	ʿanhumā
+10	7:20:9	w	مِن	ﲭ	من	of	min
+10	7:20:10	w	سَوۡءَٰتِهِمَا	ﲮ	سواتهما	their shame	sawātihimā
+10	7:20:11	w	وَقَالَ	ﲯ	وقال	And he said	waqāla
+11	7:20:12	w	مَا	ﲰ	ما	(Did) not	mā
+11	7:20:13	w	نَهَىٰكُمَا	ﲱ	نهاكما	forbid you both	nahākumā
+11	7:20:14	w	رَبُّكُمَا	ﲲ	ربكما	your Lord	rabbukumā
+11	7:20:15	w	عَنۡ	ﲳ	عن	from	ʿan
+11	7:20:16	w	هَٰذِهِ	ﲴ	هاذه	this	hādhihi
+11	7:20:17	w	ٱلشَّجَرَةِ	ﲵ	الشجرة	[the] tree	l-shajarati
+11	7:20:18	w	إِلَّآ	ﲶ	الا	except	illā
+11	7:20:19	w	أَن	ﲷ	ان	that	an
+11	7:20:20	w	تَكُونَا	ﲸ	تكونا	you two become	takūnā
+11	7:20:21	w	مَلَكَيۡنِ	ﲹ	ملكين	Angels	malakayni
+12	7:20:22	w	أَوۡ	ﲺ	او	or	aw
+12	7:20:23	w	تَكُونَا	ﲻ	تكونا	you two become	takūnā
+12	7:20:24	w	مِنَ	ﲼ	من	of	mina
+12	7:20:25	w	ٱلۡخَٰلِدِينَ	ﲽ	الخالدين	the immortals	l-khālidīna
+12	7:20:26	e	٢٠	ﲾ			
+12	7:21:1	w	وَقَاسَمَهُمَآ	ﲿ	وقاسمهما	And he swore (to) both of them	waqāsamahumā
+12	7:21:2	w	إِنِّي	ﳀ	اني	Indeed, I am	innī
+12	7:21:3	w	لَكُمَا	ﳁ	لكما	to both of you	lakumā
+12	7:21:4	w	لَمِنَ	ﳂ	لمن	among	lamina
+12	7:21:5	w	ٱلنَّٰصِحِينَ	ﳃ	الناصحين	the sincere advisors	l-nāṣiḥīna
+12	7:21:6	e	٢١	ﳄ			
+13	7:22:1	w	فَدَلَّىٰهُمَا	ﳅ	فدلاهما	So he made both of them fall	fadallāhumā
+13	7:22:2	w	بِغُرُورٖۚ	ﳆﳇ	بغرور	by deception	bighurūrin
+13	7:22:3	w	فَلَمَّا	ﳈ	فلما	Then when	falammā
+13	7:22:4	w	ذَاقَا	ﳉ	ذاقا	they both tasted	dhāqā
+13	7:22:5	w	ٱلشَّجَرَةَ	ﳊ	الشجرة	the tree	l-shajarata
+13	7:22:6	w	بَدَتۡ	ﳋ	بدت	became apparent	badat
+13	7:22:7	w	لَهُمَا	ﳌ	لهما	to both of them	lahumā
+13	7:22:8	w	سَوۡءَٰتُهُمَا	ﳍ	سواتهما	their shame	sawātuhumā
+13	7:22:9	w	وَطَفِقَا	ﳎ	وطفقا	and they began	waṭafiqā
+14	7:22:10	w	يَخۡصِفَانِ	ﳏ	يخصفان	(to) fasten	yakhṣifāni
+14	7:22:11	w	عَلَيۡهِمَا	ﳐ	عليهما	over themselves	ʿalayhimā
+14	7:22:12	w	مِن	ﳑ	من	from	min
+14	7:22:13	w	وَرَقِ	ﳒ	ورق	(the) leaves	waraqi
+14	7:22:14	w	ٱلۡجَنَّةِۖ	ﳓﳔ	الجنة	(of) the Garden	l-janati
+14	7:22:15	w	وَنَادَىٰهُمَا	ﳕ	وناداهما	And called them both	wanādāhumā
+14	7:22:16	w	رَبُّهُمَآ	ﳖ	ربهما	their Lord	rabbuhumā
+14	7:22:17	w	أَلَمۡ	ﳗ	الم	Did not	alam
+14	7:22:18	w	أَنۡهَكُمَا	ﳘ	انهكما	I forbid you both	anhakumā
+14	7:22:19	w	عَن	ﳙ	عن	from	ʿan
+15	7:22:20	w	تِلۡكُمَا	ﳚ	تلكما	this	til'kumā
+15	7:22:21	w	ٱلشَّجَرَةِ	ﳛ	الشجرة	[the] tree	l-shajarati
+15	7:22:22	w	وَأَقُل	ﳜ	واقل	and [I] say	wa-aqul
+15	7:22:23	w	لَّكُمَآ	ﳝ	لكما	to both of you	lakumā
+15	7:22:24	w	إِنَّ	ﳞ	ان	that	inna
+15	7:22:25	w	ٱلشَّيۡطَٰنَ	ﳟ	الشيطان	[the] Shaitaan	l-shayṭāna
+15	7:22:26	w	لَكُمَا	ﳠ	لكما	to both of you	lakumā
+15	7:22:27	w	عَدُوّٞ	ﳡ	عدو	(is) an enemy	ʿaduwwun
+15	7:22:28	w	مُّبِينٞ	ﳢ	مبين	open	mubīnun
+15	7:22:29	e	٢٢	ﳣ			

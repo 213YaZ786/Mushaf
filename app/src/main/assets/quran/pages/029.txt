@@ -1,0 +1,126 @@
+1	2:187:1	w	أُحِلَّ	ﱁ	احل	Permitted	uḥilla
+1	2:187:2	w	لَكُمۡ	ﱂ	لكم	for you	lakum
+1	2:187:3	w	لَيۡلَةَ	ﱃ	ليلة	(in the) nights	laylata
+1	2:187:4	w	ٱلصِّيَامِ	ﱄ	الصيام	(of) fasting	l-ṣiyāmi
+1	2:187:5	w	ٱلرَّفَثُ	ﱅ	الرفث	(is) the approach	l-rafathu
+1	2:187:6	w	إِلَىٰ	ﱆ	الى	to	ilā
+1	2:187:7	w	نِسَآئِكُمۡۚ	ﱇﱈ	نسايكم	your wives	nisāikum
+1	2:187:8	w	هُنَّ	ﱉ	هن	They	hunna
+2	2:187:9	w	لِبَاسٞ	ﱊ	لباس	(are) garments	libāsun
+2	2:187:10	w	لَّكُمۡ	ﱋ	لكم	for you	lakum
+2	2:187:11	w	وَأَنتُمۡ	ﱌ	وانتم	and you	wa-antum
+2	2:187:12	w	لِبَاسٞ	ﱍ	لباس	(are) garments	libāsun
+2	2:187:13	w	لَّهُنَّۗ	ﱎﱏ	لهن	for them	lahunna
+2	2:187:14	w	عَلِمَ	ﱐ	علم	Knows	ʿalima
+2	2:187:15	w	ٱللَّهُ	ﱑ	الله	Allah	l-lahu
+2	2:187:16	w	أَنَّكُمۡ	ﱒ	انكم	that you	annakum
+2	2:187:17	w	كُنتُمۡ	ﱓ	كنتم	used to	kuntum
+3	2:187:18	w	تَخۡتَانُونَ	ﱔ	تختانون	deceive	takhtānūna
+3	2:187:19	w	أَنفُسَكُمۡ	ﱕ	انفسكم	yourselves	anfusakum
+3	2:187:20	w	فَتَابَ	ﱖ	فتاب	so He turned	fatāba
+3	2:187:21	w	عَلَيۡكُمۡ	ﱗ	عليكم	towards you	ʿalaykum
+3	2:187:22	w	وَعَفَا	ﱘ	وعفا	and He forgave	waʿafā
+3	2:187:23	w	عَنكُمۡۖ	ﱙﱚ	عنكم	[on] you	ʿankum
+3	2:187:24	w	فَٱلۡـَٰٔنَ	ﱛ	فالان	So now	fal-āna
+4	2:187:25	w	بَٰشِرُوهُنَّ	ﱜ	باشروهن	have relations with them	bāshirūhunna
+4	2:187:26	w	وَٱبۡتَغُواْ	ﱝ	وابتغوا	and seek	wa-ib'taghū
+4	2:187:27	w	مَا	ﱞ	ما	what	mā
+4	2:187:28	w	كَتَبَ	ﱟ	كتب	has ordained	kataba
+4	2:187:29	w	ٱللَّهُ	ﱠ	الله	Allah	l-lahu
+4	2:187:30	w	لَكُمۡۚ	ﱡﱢ	لكم	for you	lakum
+4	2:187:31	w	وَكُلُواْ	ﱣ	وكلوا	And eat	wakulū
+4	2:187:32	w	وَٱشۡرَبُواْ	ﱤ	واشربوا	and drink	wa-ish'rabū
+5	2:187:33	w	حَتَّىٰ	ﱥ	حتى	until	ḥattā
+5	2:187:34	w	يَتَبَيَّنَ	ﱦ	يتبين	becomes distinct	yatabayyana
+5	2:187:35	w	لَكُمُ	ﱧ	لكم	to you	lakumu
+5	2:187:36	w	ٱلۡخَيۡطُ	ﱨ	الخيط	the thread	l-khayṭu
+5	2:187:37	w	ٱلۡأَبۡيَضُ	ﱩ	الابيض	[the] white	l-abyaḍu
+5	2:187:38	w	مِنَ	ﱪ	من	from	mina
+5	2:187:39	w	ٱلۡخَيۡطِ	ﱫ	الخيط	the thread	l-khayṭi
+5	2:187:40	w	ٱلۡأَسۡوَدِ	ﱬ	الاسود	[the] black	l-aswadi
+5	2:187:41	w	مِنَ	ﱭ	من	of	mina
+6	2:187:42	w	ٱلۡفَجۡرِۖ	ﱮﱯ	الفجر	[the] dawn	l-fajri
+6	2:187:43	w	ثُمَّ	ﱰ	ثم	Then	thumma
+6	2:187:44	w	أَتِمُّواْ	ﱱ	اتموا	complete	atimmū
+6	2:187:45	w	ٱلصِّيَامَ	ﱲ	الصيام	the fast	l-ṣiyāma
+6	2:187:46	w	إِلَى	ﱳ	الى	till	ilā
+6	2:187:47	w	ٱلَّيۡلِۚ	ﱴﱵ	الليل	the night	al-layli
+6	2:187:48	w	وَلَا	ﱶ	ولا	And (do) not	walā
+6	2:187:49	w	تُبَٰشِرُوهُنَّ	ﱷ	تباشروهن	have relations with them	tubāshirūhunna
+6	2:187:50	w	وَأَنتُمۡ	ﱸ	وانتم	while you	wa-antum
+7	2:187:51	w	عَٰكِفُونَ	ﱹ	عاكفون	(are) secluded	ʿākifūna
+7	2:187:52	w	فِي	ﱺ	في	in	fī
+7	2:187:53	w	ٱلۡمَسَٰجِدِۗ	ﱻﱼ	المساجد	the masajid	l-masājidi
+7	2:187:54	w	تِلۡكَ	ﱽ	تلك	These	til'ka
+7	2:187:55	w	حُدُودُ	ﱾ	حدود	(are the) limits	ḥudūdu
+7	2:187:56	w	ٱللَّهِ	ﱿ	الله	(set by) Allah	l-lahi
+7	2:187:57	w	فَلَا	ﲀ	فلا	so (do) not	falā
+7	2:187:58	w	تَقۡرَبُوهَاۗ	ﲁﲂ	تقربوها	approach them	taqrabūhā
+7	2:187:59	w	كَذَٰلِكَ	ﲃ	كذالك	Thus	kadhālika
+8	2:187:60	w	يُبَيِّنُ	ﲄ	يبين	makes clear	yubayyinu
+8	2:187:61	w	ٱللَّهُ	ﲅ	الله	Allah	l-lahu
+8	2:187:62	w	ءَايَٰتِهِۦ	ﲆ	اياته	His verses	āyātihi
+8	2:187:63	w	لِلنَّاسِ	ﲇ	للناس	for [the] people	lilnnāsi
+8	2:187:64	w	لَعَلَّهُمۡ	ﲈ	لعلهم	so that they may	laʿallahum
+8	2:187:65	w	يَتَّقُونَ	ﲉ	يتقون	(become) righteous	yattaqūna
+8	2:187:66	e	١٨٧	ﲊ			
+8	2:188:1	w	وَلَا	ﲋ	ولا	And (do) not	walā
+8	2:188:2	w	تَأۡكُلُوٓاْ	ﲌ	تاكلوا	eat	takulū
+9	2:188:3	w	أَمۡوَٰلَكُم	ﲍ	اموالكم	your properties	amwālakum
+9	2:188:4	w	بَيۡنَكُم	ﲎ	بينكم	among yourselves	baynakum
+9	2:188:5	w	بِٱلۡبَٰطِلِ	ﲏ	بالباطل	wrongfully	bil-bāṭili
+9	2:188:6	w	وَتُدۡلُواْ	ﲐ	وتدلوا	and present	watud'lū
+9	2:188:7	w	بِهَآ	ﲑ	بها	[with] it	bihā
+9	2:188:8	w	إِلَى	ﲒ	الى	to	ilā
+9	2:188:9	w	ٱلۡحُكَّامِ	ﲓ	الحكام	the authorities	l-ḥukāmi
+10	2:188:10	w	لِتَأۡكُلُواْ	ﲔ	لتاكلوا	so that you may eat	litakulū
+10	2:188:11	w	فَرِيقٗا	ﲕ	فريقا	a portion	farīqan
+10	2:188:12	w	مِّنۡ	ﲖ	من	from	min
+10	2:188:13	w	أَمۡوَٰلِ	ﲗ	اموال	(the) wealth	amwāli
+10	2:188:14	w	ٱلنَّاسِ	ﲘ	الناس	(of) the people	l-nāsi
+10	2:188:15	w	بِٱلۡإِثۡمِ	ﲙ	بالاثم	sinfully	bil-ith'mi
+10	2:188:16	w	وَأَنتُمۡ	ﲚ	وانتم	while you	wa-antum
+10	2:188:17	w	تَعۡلَمُونَ	ﲛ	تعلمون	know	taʿlamūna
+11	2:188:18	e	١٨٨	ﲜ			
+11	2:189:1	w	۞ يَسۡـَٔلُونَكَ	ﲝ ﲞ	۞ يسالونك	They ask you	yasalūnaka
+11	2:189:2	w	عَنِ	ﲟ	عن	about	ʿani
+11	2:189:3	w	ٱلۡأَهِلَّةِۖ	ﲠﲡ	الاهلة	the new moons	l-ahilati
+11	2:189:4	w	قُلۡ	ﲢ	قل	Say	qul
+11	2:189:5	w	هِيَ	ﲣ	هي	They	hiya
+11	2:189:6	w	مَوَٰقِيتُ	ﲤ	مواقيت	(are) indicators of periods	mawāqītu
+11	2:189:7	w	لِلنَّاسِ	ﲥ	للناس	for the people	lilnnāsi
+11	2:189:8	w	وَٱلۡحَجِّۗ	ﲦﲧ	والحج	and (for) the Hajj	wal-ḥaji
+12	2:189:9	w	وَلَيۡسَ	ﲨ	وليس	And it is not	walaysa
+12	2:189:10	w	ٱلۡبِرُّ	ﲩ	البر	[the] righteousness	l-biru
+12	2:189:11	w	بِأَن	ﲪ	بان	that	bi-an
+12	2:189:12	w	تَأۡتُواْ	ﲫ	تاتوا	you come	tatū
+12	2:189:13	w	ٱلۡبُيُوتَ	ﲬ	البيوت	(to) the houses	l-buyūta
+12	2:189:14	w	مِن	ﲭ	من	from	min
+12	2:189:15	w	ظُهُورِهَا	ﲮ	ظهورها	their backs	ẓuhūrihā
+12	2:189:16	w	وَلَٰكِنَّ	ﲯ	ولاكن	[and] but	walākinna
+12	2:189:17	w	ٱلۡبِرَّ	ﲰ	البر	[the] righteous	l-bira
+13	2:189:18	w	مَنِ	ﲱ	من	(is one) who	mani
+13	2:189:19	w	ٱتَّقَىٰۗ	ﲲﲳ	اتقى	fears (Allah)	ittaqā
+13	2:189:20	w	وَأۡتُواْ	ﲴ	واتوا	And come	watū
+13	2:189:21	w	ٱلۡبُيُوتَ	ﲵ	البيوت	(to) the houses	l-buyūta
+13	2:189:22	w	مِنۡ	ﲶ	من	from	min
+13	2:189:23	w	أَبۡوَٰبِهَاۚ	ﲷﲸ	ابوابها	their doors	abwābihā
+13	2:189:24	w	وَٱتَّقُواْ	ﲹ	واتقوا	And fear	wa-ittaqū
+13	2:189:25	w	ٱللَّهَ	ﲺ	الله	Allah	l-laha
+14	2:189:26	w	لَعَلَّكُمۡ	ﲻ	لعلكم	so that you may	laʿallakum
+14	2:189:27	w	تُفۡلِحُونَ	ﲼ	تفلحون	(be) successful	tuf'liḥūna
+14	2:189:28	e	١٨٩	ﲽ			
+14	2:190:1	w	وَقَٰتِلُواْ	ﲾ	وقاتلوا	And fight	waqātilū
+14	2:190:2	w	فِي	ﲿ	في	in	fī
+14	2:190:3	w	سَبِيلِ	ﳀ	سبيل	(the) way	sabīli
+14	2:190:4	w	ٱللَّهِ	ﳁ	الله	(of) Allah	l-lahi
+14	2:190:5	w	ٱلَّذِينَ	ﳂ	الذين	those who	alladhīna
+15	2:190:6	w	يُقَٰتِلُونَكُمۡ	ﳃ	يقاتلونكم	fight you	yuqātilūnakum
+15	2:190:7	w	وَلَا	ﳄ	ولا	and (do) not	walā
+15	2:190:8	w	تَعۡتَدُوٓاْۚ	ﳅﳆ	تعتدوا	transgress	taʿtadū
+15	2:190:9	w	إِنَّ	ﳇ	ان	Indeed	inna
+15	2:190:10	w	ٱللَّهَ	ﳈ	الله	Allah	l-laha
+15	2:190:11	w	لَا	ﳉ	لا	(does) not	lā
+15	2:190:12	w	يُحِبُّ	ﳊ	يحب	like	yuḥibbu
+15	2:190:13	w	ٱلۡمُعۡتَدِينَ	ﳋ	المعتدين	the transgressors	l-muʿ'tadīna
+15	2:190:14	e	١٩٠	ﳌ			

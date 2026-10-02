@@ -1,0 +1,140 @@
+3	73:1:1	w	يَٰٓأَيُّهَا	ﱁ	يا ايها	O you	yāayyuhā
+3	73:1:2	w	ٱلۡمُزَّمِّلُ	ﱂ	المزمل	who wraps himself	l-muzamilu
+3	73:1:3	e	١	ﱃ			
+3	73:2:1	w	قُمِ	ﱄ	قم	Stand	qumi
+3	73:2:2	w	ٱلَّيۡلَ	ﱅ	الليل	(in) the night	al-layla
+3	73:2:3	w	إِلَّا	ﱆ	الا	except	illā
+3	73:2:4	w	قَلِيلٗا	ﱇ	قليلا	a little	qalīlan
+3	73:2:5	e	٢	ﱈ			
+3	73:3:1	w	نِّصۡفَهُۥٓ	ﱉ	نصفه	Half of it	niṣ'fahu
+3	73:3:2	w	أَوِ	ﱊ	او	or	awi
+3	73:3:3	w	ٱنقُصۡ	ﱋ	انقص	lessen	unquṣ
+3	73:3:4	w	مِنۡهُ	ﱌ	منه	from it	min'hu
+3	73:3:5	w	قَلِيلًا	ﱍ	قليلا	a little	qalīlan
+4	73:3:6	e	٣	ﱎ			
+4	73:4:1	w	أَوۡ	ﱏ	او	Or	aw
+4	73:4:2	w	زِدۡ	ﱐ	زد	add	zid
+4	73:4:3	w	عَلَيۡهِ	ﱑ	عليه	to it	ʿalayhi
+4	73:4:4	w	وَرَتِّلِ	ﱒ	ورتل	and recite	warattili
+4	73:4:5	w	ٱلۡقُرۡءَانَ	ﱓ	القران	the Quran	l-qur'āna
+4	73:4:6	w	تَرۡتِيلًا	ﱔ	ترتيلا	(with) measured rhythmic recitation	tartīlan
+4	73:4:7	e	٤	ﱕ			
+4	73:5:1	w	إِنَّا	ﱖ	انا	Indeed, We	innā
+4	73:5:2	w	سَنُلۡقِي	ﱗ	سنلقي	will cast	sanul'qī
+4	73:5:3	w	عَلَيۡكَ	ﱘ	عليك	upon you	ʿalayka
+4	73:5:4	w	قَوۡلٗا	ﱙ	قولا	a Word	qawlan
+5	73:5:5	w	ثَقِيلًا	ﱚ	ثقيلا	heavy	thaqīlan
+5	73:5:6	e	٥	ﱛ			
+5	73:6:1	w	إِنَّ	ﱜ	ان	Indeed	inna
+5	73:6:2	w	نَاشِئَةَ	ﱝ	ناشية	(the) rising	nāshi-ata
+5	73:6:3	w	ٱلَّيۡلِ	ﱞ	الليل	(at) the night	al-layli
+5	73:6:4	w	هِيَ	ﱟ	هي	it	hiya
+5	73:6:5	w	أَشَدُّ	ﱠ	اشد	(is) very hard	ashaddu
+5	73:6:6	w	وَطۡـٔٗا	ﱡ	وطيا	and most potent	waṭan
+5	73:6:7	w	وَأَقۡوَمُ	ﱢ	واقوم	and more suitable	wa-aqwamu
+5	73:6:8	w	قِيلًا	ﱣ	قيلا	(for) Word	qīlan
+5	73:6:9	e	٦	ﱤ			
+5	73:7:1	w	إِنَّ	ﱥ	ان	Indeed	inna
+5	73:7:2	w	لَكَ	ﱦ	لك	for you	laka
+5	73:7:3	w	فِي	ﱧ	في	in	fī
+6	73:7:4	w	ٱلنَّهَارِ	ﱨ	النهار	the day	l-nahāri
+6	73:7:5	w	سَبۡحٗا	ﱩ	سبحا	(is) occupation	sabḥan
+6	73:7:6	w	طَوِيلٗا	ﱪ	طويلا	prolonged	ṭawīlan
+6	73:7:7	e	٧	ﱫ			
+6	73:8:1	w	وَٱذۡكُرِ	ﱬ	واذكر	And remember	wa-udh'kuri
+6	73:8:2	w	ٱسۡمَ	ﱭ	اسم	(the) name	is'ma
+6	73:8:3	w	رَبِّكَ	ﱮ	ربك	(of) your Lord	rabbika
+6	73:8:4	w	وَتَبَتَّلۡ	ﱯ	وتبتل	and devote yourself	watabattal
+6	73:8:5	w	إِلَيۡهِ	ﱰ	اليه	to Him	ilayhi
+6	73:8:6	w	تَبۡتِيلٗا	ﱱ	تبتيلا	(with) devotion	tabtīlan
+6	73:8:7	e	٨	ﱲ			
+7	73:9:1	w	رَّبُّ	ﱳ	رب	(The) Lord	rabbu
+7	73:9:2	w	ٱلۡمَشۡرِقِ	ﱴ	المشرق	(of) the east	l-mashriqi
+7	73:9:3	w	وَٱلۡمَغۡرِبِ	ﱵ	والمغرب	and the west	wal-maghribi
+7	73:9:4	w	لَآ	ﱶ	لا	(there is) no	lā
+7	73:9:5	w	إِلَٰهَ	ﱷ	الاه	god	ilāha
+7	73:9:6	w	إِلَّا	ﱸ	الا	except	illā
+7	73:9:7	w	هُوَ	ﱹ	هو	Him	huwa
+7	73:9:8	w	فَٱتَّخِذۡهُ	ﱺ	فاتخذه	so take Him	fa-ittakhidh'hu
+7	73:9:9	w	وَكِيلٗا	ﱻ	وكيلا	(as) Disposer of Affairs	wakīlan
+7	73:9:10	e	٩	ﱼ			
+7	73:10:1	w	وَٱصۡبِرۡ	ﱽ	واصبر	And be patient	wa-iṣ'bir
+8	73:10:2	w	عَلَىٰ	ﱾ	على	over	ʿalā
+8	73:10:3	w	مَا	ﱿ	ما	what	mā
+8	73:10:4	w	يَقُولُونَ	ﲀ	يقولون	they say	yaqūlūna
+8	73:10:5	w	وَٱهۡجُرۡهُمۡ	ﲁ	واهجرهم	and avoid them	wa-uh'jur'hum
+8	73:10:6	w	هَجۡرٗا	ﲂ	هجرا	an avoidance	hajran
+8	73:10:7	w	جَمِيلٗا	ﲃ	جميلا	gracious	jamīlan
+8	73:10:8	e	١٠	ﲄ			
+8	73:11:1	w	وَذَرۡنِي	ﲅ	وذرني	And leave Me	wadharnī
+8	73:11:2	w	وَٱلۡمُكَذِّبِينَ	ﲆ	والمكذبين	and the deniers	wal-mukadhibīna
+9	73:11:3	w	أُوْلِي	ﲇ	اولي	possessors	ulī
+9	73:11:4	w	ٱلنَّعۡمَةِ	ﲈ	النعمة	(of) the ease	l-naʿmati
+9	73:11:5	w	وَمَهِّلۡهُمۡ	ﲉ	ومهلهم	and allow them respite	wamahhil'hum
+9	73:11:6	w	قَلِيلًا	ﲊ	قليلا	a little	qalīlan
+9	73:11:7	e	١١	ﲋ			
+9	73:12:1	w	إِنَّ	ﲌ	ان	Indeed	inna
+9	73:12:2	w	لَدَيۡنَآ	ﲍ	لدينا	with Us	ladaynā
+9	73:12:3	w	أَنكَالٗا	ﲎ	انكالا	(are) shackles	ankālan
+9	73:12:4	w	وَجَحِيمٗا	ﲏ	وجحيما	and burning fire	wajaḥīman
+9	73:12:5	e	١٢	ﲐ			
+10	73:13:1	w	وَطَعَامٗا	ﲑ	وطعاما	And food	waṭaʿāman
+10	73:13:2	w	ذَا	ﲒ	ذا	that	dhā
+10	73:13:3	w	غُصَّةٖ	ﲓ	غصة	chokes	ghuṣṣatin
+10	73:13:4	w	وَعَذَابًا	ﲔ	وعذابا	and a punishment	waʿadhāban
+10	73:13:5	w	أَلِيمٗا	ﲕ	اليما	painful	alīman
+10	73:13:6	e	١٣	ﲖ			
+10	73:14:1	w	يَوۡمَ	ﲗ	يوم	(On the) Day	yawma
+10	73:14:2	w	تَرۡجُفُ	ﲘ	ترجف	will quake	tarjufu
+10	73:14:3	w	ٱلۡأَرۡضُ	ﲙ	الارض	the earth	l-arḍu
+10	73:14:4	w	وَٱلۡجِبَالُ	ﲚ	والجبال	and the mountains	wal-jibālu
+11	73:14:5	w	وَكَانَتِ	ﲛ	وكانت	and will become	wakānati
+11	73:14:6	w	ٱلۡجِبَالُ	ﲜ	الجبال	the mountains	l-jibālu
+11	73:14:7	w	كَثِيبٗا	ﲝ	كثيبا	a heap of sand	kathīban
+11	73:14:8	w	مَّهِيلًا	ﲞ	مهيلا	pouring down	mahīlan
+11	73:14:9	e	١٤	ﲟ			
+11	73:15:1	w	إِنَّآ	ﲠ	انا	Indeed, We	innā
+11	73:15:2	w	أَرۡسَلۡنَآ	ﲡ	ارسلنا	[We] have sent	arsalnā
+11	73:15:3	w	إِلَيۡكُمۡ	ﲢ	اليكم	to you	ilaykum
+11	73:15:4	w	رَسُولٗا	ﲣ	رسولا	a Messenger	rasūlan
+11	73:15:5	w	شَٰهِدًا	ﲤ	شاهدا	(as) a witness	shāhidan
+12	73:15:6	w	عَلَيۡكُمۡ	ﲥ	عليكم	upon you	ʿalaykum
+12	73:15:7	w	كَمَآ	ﲦ	كما	as	kamā
+12	73:15:8	w	أَرۡسَلۡنَآ	ﲧ	ارسلنا	We sent	arsalnā
+12	73:15:9	w	إِلَىٰ	ﲨ	الى	to	ilā
+12	73:15:10	w	فِرۡعَوۡنَ	ﲩ	فرعون	Firaun	fir'ʿawna
+12	73:15:11	w	رَسُولٗا	ﲪ	رسولا	a Messenger	rasūlan
+12	73:15:12	e	١٥	ﲫ			
+12	73:16:1	w	فَعَصَىٰ	ﲬ	فعصى	But disobeyed	faʿaṣā
+12	73:16:2	w	فِرۡعَوۡنُ	ﲭ	فرعون	Firaun	fir'ʿawnu
+12	73:16:3	w	ٱلرَّسُولَ	ﲮ	الرسول	the Messenger	l-rasūla
+13	73:16:4	w	فَأَخَذۡنَٰهُ	ﲯ	فاخذناه	so We seized him	fa-akhadhnāhu
+13	73:16:5	w	أَخۡذٗا	ﲰ	اخذا	(with) a seizure	akhdhan
+13	73:16:6	w	وَبِيلٗا	ﲱ	وبيلا	ruinous	wabīlan
+13	73:16:7	e	١٦	ﲲ			
+13	73:17:1	w	فَكَيۡفَ	ﲳ	فكيف	Then how	fakayfa
+13	73:17:2	w	تَتَّقُونَ	ﲴ	تتقون	will you guard yourselves	tattaqūna
+13	73:17:3	w	إِن	ﲵ	ان	if	in
+13	73:17:4	w	كَفَرۡتُمۡ	ﲶ	كفرتم	you disbelieve	kafartum
+13	73:17:5	w	يَوۡمٗا	ﲷ	يوما	a Day	yawman
+14	73:17:6	w	يَجۡعَلُ	ﲸ	يجعل	(that) will make	yajʿalu
+14	73:17:7	w	ٱلۡوِلۡدَٰنَ	ﲹ	الولدان	the children	l-wil'dāna
+14	73:17:8	w	شِيبًا	ﲺ	شيبا	gray-haired	shīban
+14	73:17:9	e	١٧	ﲻ			
+14	73:18:1	w	ٱلسَّمَآءُ	ﲼ	السماء	The heaven	al-samāu
+14	73:18:2	w	مُنفَطِرُۢ	ﲽ	منفطر	(will) break apart	munfaṭirun
+14	73:18:3	w	بِهِۦۚ	ﲾﲿ	به	therefrom	bihi
+14	73:18:4	w	كَانَ	ﳀ	كان	is	kāna
+14	73:18:5	w	وَعۡدُهُۥ	ﳁ	وعده	His Promise	waʿduhu
+14	73:18:6	w	مَفۡعُولًا	ﳂ	مفعولا	to be fulfilled	mafʿūlan
+15	73:18:7	e	١٨	ﳃ			
+15	73:19:1	w	إِنَّ	ﳄ	ان	Indeed	inna
+15	73:19:2	w	هَٰذِهِۦ	ﳅ	هاذه	this	hādhihi
+15	73:19:3	w	تَذۡكِرَةٞۖ	ﳆﳇ	تذكرة	(is) a Reminder	tadhkiratun
+15	73:19:4	w	فَمَن	ﳈ	فمن	then whoever	faman
+15	73:19:5	w	شَآءَ	ﳉ	شاء	wills	shāa
+15	73:19:6	w	ٱتَّخَذَ	ﳊ	اتخذ	(let him) take	ittakhadha
+15	73:19:7	w	إِلَىٰ	ﳋ	الى	to	ilā
+15	73:19:8	w	رَبِّهِۦ	ﳌ	ربه	his Lord	rabbihi
+15	73:19:9	w	سَبِيلًا	ﳍ	سبيلا	a way	sabīlan
+15	73:19:10	e	١٩	ﳎ			

@@ -1,0 +1,134 @@
+1	3:46:1	w	وَيُكَلِّمُ	ﱁ	ويكلم	And he will speak	wayukallimu
+1	3:46:2	w	ٱلنَّاسَ	ﱂ	الناس	(to) the people	l-nāsa
+1	3:46:3	w	فِي	ﱃ	في	in	fī
+1	3:46:4	w	ٱلۡمَهۡدِ	ﱄ	المهد	the cradle	l-mahdi
+1	3:46:5	w	وَكَهۡلٗا	ﱅ	وكهلا	and (in) maturity	wakahlan
+1	3:46:6	w	وَمِنَ	ﱆ	ومن	and (he will be) of	wamina
+1	3:46:7	w	ٱلصَّٰلِحِينَ	ﱇ	الصالحين	the righteous	l-ṣāliḥīna
+1	3:46:8	e	٤٦	ﱈ			
+2	3:47:1	w	قَالَتۡ	ﱉ	قالت	She said	qālat
+2	3:47:2	w	رَبِّ	ﱊ	رب	My Lord	rabbi
+2	3:47:3	w	أَنَّىٰ	ﱋ	انى	how	annā
+2	3:47:4	w	يَكُونُ	ﱌ	يكون	is [it]	yakūnu
+2	3:47:5	w	لِي	ﱍ	لي	for me	lī
+2	3:47:6	w	وَلَدٞ	ﱎ	ولد	a boy	waladun
+2	3:47:7	w	وَلَمۡ	ﱏ	ولم	and (has) not	walam
+2	3:47:8	w	يَمۡسَسۡنِي	ﱐ	يمسسني	touch(ed) me	yamsasnī
+2	3:47:9	w	بَشَرٞۖ	ﱑﱒ	بشر	any man	basharun
+2	3:47:10	w	قَالَ	ﱓ	قال	He said	qāla
+2	3:47:11	w	كَذَٰلِكِ	ﱔ	كذالك	Thus	kadhāliki
+3	3:47:12	w	ٱللَّهُ	ﱕ	الله	Allah	l-lahu
+3	3:47:13	w	يَخۡلُقُ	ﱖ	يخلق	creates	yakhluqu
+3	3:47:14	w	مَا	ﱗ	ما	what	mā
+3	3:47:15	w	يَشَآءُۚ	ﱘﱙ	يشاء	He wills	yashāu
+3	3:47:16	w	إِذَا	ﱚ	اذا	When	idhā
+3	3:47:17	w	قَضَىٰٓ	ﱛ	قضى	He decrees	qaḍā
+3	3:47:18	w	أَمۡرٗا	ﱜ	امرا	a matter	amran
+3	3:47:19	w	فَإِنَّمَا	ﱝ	فانما	then only	fa-innamā
+3	3:47:20	w	يَقُولُ	ﱞ	يقول	He says	yaqūlu
+3	3:47:21	w	لَهُۥ	ﱟ	له	to it	lahu
+3	3:47:22	w	كُن	ﱠ	كن	Be	kun
+3	3:47:23	w	فَيَكُونُ	ﱡ	فيكون	and it becomes	fayakūnu
+4	3:47:24	e	٤٧	ﱢ			
+4	3:48:1	w	وَيُعَلِّمُهُ	ﱣ	ويعلمه	And He will teach him	wayuʿallimuhu
+4	3:48:2	w	ٱلۡكِتَٰبَ	ﱤ	الكتاب	the Book	l-kitāba
+4	3:48:3	w	وَٱلۡحِكۡمَةَ	ﱥ	والحكمة	and [the] wisdom	wal-ḥik'mata
+4	3:48:4	w	وَٱلتَّوۡرَىٰةَ	ﱦ	والتوراة	and the Taurat	wal-tawrāta
+4	3:48:5	w	وَٱلۡإِنجِيلَ	ﱧ	والانجيل	and the Injeel	wal-injīla
+5	3:48:6	e	٤٨	ﱨ			
+5	3:49:1	w	وَرَسُولًا	ﱩ	ورسولا	And (make him) a Messenger	warasūlan
+5	3:49:2	w	إِلَىٰ	ﱪ	الى	to	ilā
+5	3:49:3	w	بَنِيٓ	ﱫ	بني	(the) Children	banī
+5	3:49:4	w	إِسۡرَٰٓءِيلَ	ﱬ	اسراييل	(of) Israel	is'rāīla
+5	3:49:5	w	أَنِّي	ﱭ	اني	Indeed, I	annī
+5	3:49:6	w	قَدۡ	ﱮ	قد	[surely]	qad
+5	3:49:7	w	جِئۡتُكُم	ﱯ	جيتكم	[I] (have) come (to) you	ji'tukum
+5	3:49:8	w	بِـَٔايَةٖ	ﱰ	باية	with a sign	biāyatin
+5	3:49:9	w	مِّن	ﱱ	من	from	min
+6	3:49:10	w	رَّبِّكُمۡ	ﱲ	ربكم	your Lord	rabbikum
+6	3:49:11	w	أَنِّيٓ	ﱳ	اني	that I	annī
+6	3:49:12	w	أَخۡلُقُ	ﱴ	اخلق	[I] design	akhluqu
+6	3:49:13	w	لَكُم	ﱵ	لكم	for you	lakum
+6	3:49:14	w	مِّنَ	ﱶ	من	from	mina
+6	3:49:15	w	ٱلطِّينِ	ﱷ	الطين	[the] clay	l-ṭīni
+6	3:49:16	w	كَهَيۡـَٔةِ	ﱸ	كهيية	like the form	kahayati
+6	3:49:17	w	ٱلطَّيۡرِ	ﱹ	الطير	(of) the bird	l-ṭayri
+6	3:49:18	w	فَأَنفُخُ	ﱺ	فانفخ	then I breath	fa-anfukhu
+7	3:49:19	w	فِيهِ	ﱻ	فيه	into it	fīhi
+7	3:49:20	w	فَيَكُونُ	ﱼ	فيكون	and it becomes	fayakūnu
+7	3:49:21	w	طَيۡرَۢا	ﱽ	طيرا	a bird	ṭayran
+7	3:49:22	w	بِإِذۡنِ	ﱾ	باذن	by (the) permission	bi-idh'ni
+7	3:49:23	w	ٱللَّهِۖ	ﱿﲀ	الله	(of) Allah	l-lahi
+7	3:49:24	w	وَأُبۡرِئُ	ﲁ	وابري	And I cure	wa-ub'ri-u
+7	3:49:25	w	ٱلۡأَكۡمَهَ	ﲂ	الاكمه	the blind	l-akmaha
+7	3:49:26	w	وَٱلۡأَبۡرَصَ	ﲃ	والابرص	and the leper	wal-abraṣa
+8	3:49:27	w	وَأُحۡيِ	ﲄ	واحيي	and I give life	wa-uḥ'yī
+8	3:49:28	w	ٱلۡمَوۡتَىٰ	ﲅ	الموتى	(to) the dead	l-mawtā
+8	3:49:29	w	بِإِذۡنِ	ﲆ	باذن	by (the) permission	bi-idh'ni
+8	3:49:30	w	ٱللَّهِۖ	ﲇﲈ	الله	(of) Allah	l-lahi
+8	3:49:31	w	وَأُنَبِّئُكُم	ﲉ	وانبيكم	And I inform you	wa-unabbi-ukum
+8	3:49:32	w	بِمَا	ﲊ	بما	of what	bimā
+8	3:49:33	w	تَأۡكُلُونَ	ﲋ	تاكلون	you eat	takulūna
+8	3:49:34	w	وَمَا	ﲌ	وما	and what	wamā
+8	3:49:35	w	تَدَّخِرُونَ	ﲍ	تدخرون	you store	taddakhirūna
+9	3:49:36	w	فِي	ﲎ	في	in	fī
+9	3:49:37	w	بُيُوتِكُمۡۚ	ﲏﲐ	بيوتكم	your houses	buyūtikum
+9	3:49:38	w	إِنَّ	ﲑ	ان	Indeed	inna
+9	3:49:39	w	فِي	ﲒ	في	in	fī
+9	3:49:40	w	ذَٰلِكَ	ﲓ	ذالك	that	dhālika
+9	3:49:41	w	لَأٓيَةٗ	ﲔ	لاية	(is) surely a sign	laāyatan
+9	3:49:42	w	لَّكُمۡ	ﲕ	لكم	for you	lakum
+9	3:49:43	w	إِن	ﲖ	ان	if	in
+9	3:49:44	w	كُنتُم	ﲗ	كنتم	you are	kuntum
+9	3:49:45	w	مُّؤۡمِنِينَ	ﲘ	مومنين	believers	mu'minīna
+9	3:49:46	e	٤٩	ﲙ			
+10	3:50:1	w	وَمُصَدِّقٗا	ﲚ	ومصدقا	And confirming	wamuṣaddiqan
+10	3:50:2	w	لِّمَا	ﲛ	لما	that which	limā
+10	3:50:3	w	بَيۡنَ	ﲜ	بين	(was)	bayna
+10	3:50:4	w	يَدَيَّ	ﲝ	يدي	before me	yadayya
+10	3:50:5	w	مِنَ	ﲞ	من	of	mina
+10	3:50:6	w	ٱلتَّوۡرَىٰةِ	ﲟ	التوراة	the Taurat	l-tawrāti
+10	3:50:7	w	وَلِأُحِلَّ	ﲠ	ولاحل	and so that I make lawful	wali-uḥilla
+10	3:50:8	w	لَكُم	ﲡ	لكم	for you	lakum
+11	3:50:9	w	بَعۡضَ	ﲢ	بعض	some	baʿḍa
+11	3:50:10	w	ٱلَّذِي	ﲣ	الذي	(of) that which	alladhī
+11	3:50:11	w	حُرِّمَ	ﲤ	حرم	was forbidden	ḥurrima
+11	3:50:12	w	عَلَيۡكُمۡۚ	ﲥﲦ	عليكم	to you	ʿalaykum
+11	3:50:13	w	وَجِئۡتُكُم	ﲧ	وجيتكم	And I (have) come to you	waji'tukum
+11	3:50:14	w	بِـَٔايَةٖ	ﲨ	باية	with a sign	biāyatin
+11	3:50:15	w	مِّن	ﲩ	من	from	min
+11	3:50:16	w	رَّبِّكُمۡ	ﲪ	ربكم	your Lord	rabbikum
+12	3:50:17	w	فَٱتَّقُواْ	ﲫ	فاتقوا	So fear	fa-ittaqū
+12	3:50:18	w	ٱللَّهَ	ﲬ	الله	Allah	l-laha
+12	3:50:19	w	وَأَطِيعُونِ	ﲭ	واطيعون	and obey me	wa-aṭīʿūni
+12	3:50:20	e	٥٠	ﲮ			
+12	3:51:1	w	إِنَّ	ﲯ	ان	Indeed	inna
+12	3:51:2	w	ٱللَّهَ	ﲰ	الله	Allah	l-laha
+12	3:51:3	w	رَبِّي	ﲱ	ربي	(is) my Lord	rabbī
+12	3:51:4	w	وَرَبُّكُمۡ	ﲲ	وربكم	and your Lord	warabbukum
+12	3:51:5	w	فَٱعۡبُدُوهُۚ	ﲳﲴ	فاعبدوه	so worship Him	fa-uʿ'budūhu
+13	3:51:6	w	هَٰذَا	ﲵ	هاذا	This	hādhā
+13	3:51:7	w	صِرَٰطٞ	ﲶ	صراط	(is) the path	ṣirāṭun
+13	3:51:8	w	مُّسۡتَقِيمٞ	ﲷ	مستقيم	straight	mus'taqīmun
+13	3:51:9	e	٥١	ﲸ			
+13	3:52:1	w	۞ فَلَمَّآ	ﲹ ﲺ	۞ فلما	Then when	falammā
+13	3:52:2	w	أَحَسَّ	ﲻ	احس	perceived	aḥassa
+13	3:52:3	w	عِيسَىٰ	ﲼ	عيسى	Isa	ʿīsā
+13	3:52:4	w	مِنۡهُمُ	ﲽ	منهم	from them	min'humu
+14	3:52:5	w	ٱلۡكُفۡرَ	ﲾ	الكفر	[the] disbelief	l-kuf'ra
+14	3:52:6	w	قَالَ	ﲿ	قال	he said	qāla
+14	3:52:7	w	مَنۡ	ﳀ	من	Who	man
+14	3:52:8	w	أَنصَارِيٓ	ﳁ	انصاري	(will be) my helpers	anṣārī
+14	3:52:9	w	إِلَى	ﳂ	الى	to	ilā
+14	3:52:10	w	ٱللَّهِۖ	ﳃﳄ	الله	Allah	l-lahi
+14	3:52:11	w	قَالَ	ﳅ	قال	Said	qāla
+14	3:52:12	w	ٱلۡحَوَارِيُّونَ	ﳆ	الحواريون	the disciples	l-ḥawāriyūna
+14	3:52:13	w	نَحۡنُ	ﳇ	نحن	We	naḥnu
+15	3:52:14	w	أَنصَارُ	ﳈ	انصار	(will be the) helpers	anṣāru
+15	3:52:15	w	ٱللَّهِ	ﳉ	الله	(of) Allah	l-lahi
+15	3:52:16	w	ءَامَنَّا	ﳊ	امنا	we believe[d]	āmannā
+15	3:52:17	w	بِٱللَّهِ	ﳋ	بالله	in Allah	bil-lahi
+15	3:52:18	w	وَٱشۡهَدۡ	ﳌ	واشهد	and bear witness	wa-ish'had
+15	3:52:19	w	بِأَنَّا	ﳍ	بانا	that we	bi-annā
+15	3:52:20	w	مُسۡلِمُونَ	ﳎ	مسلمون	(are) Muslims	mus'limūna
+15	3:52:21	e	٥٢	ﳏ			

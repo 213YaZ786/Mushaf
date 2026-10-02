@@ -1,0 +1,137 @@
+1	4:128:1	w	وَإِنِ	ﱁ	وان	And if	wa-ini
+1	4:128:2	w	ٱمۡرَأَةٌ	ﱂ	امراة	a woman	im'ra-atun
+1	4:128:3	w	خَافَتۡ	ﱃ	خافت	fears	khāfat
+1	4:128:4	w	مِنۢ	ﱄ	من	from	min
+1	4:128:5	w	بَعۡلِهَا	ﱅ	بعلها	her husband	baʿlihā
+1	4:128:6	w	نُشُوزًا	ﱆ	نشوزا	ill-conduct	nushūzan
+1	4:128:7	w	أَوۡ	ﱇ	او	or	aw
+1	4:128:8	w	إِعۡرَاضٗا	ﱈ	اعراضا	desertion	iʿ'rāḍan
+1	4:128:9	w	فَلَا	ﱉ	فلا	then (there is) no	falā
+1	4:128:10	w	جُنَاحَ	ﱊ	جناح	sin	junāḥa
+2	4:128:11	w	عَلَيۡهِمَآ	ﱋ	عليهما	on both of them	ʿalayhimā
+2	4:128:12	w	أَن	ﱌ	ان	that	an
+2	4:128:13	w	يُصۡلِحَا	ﱍ	يصلحا	they make terms of peace	yuṣ'liḥā
+2	4:128:14	w	بَيۡنَهُمَا	ﱎ	بينهما	between themselves	baynahumā
+2	4:128:15	w	صُلۡحٗاۚ	ﱏﱐ	صلحا	a reconciliation	ṣul'ḥan
+2	4:128:16	w	وَٱلصُّلۡحُ	ﱑ	والصلح	and [the] reconciliation	wal-ṣul'ḥu
+2	4:128:17	w	خَيۡرٞۗ	ﱒﱓ	خير	(is) best	khayrun
+3	4:128:18	w	وَأُحۡضِرَتِ	ﱔ	واحضرت	And are swayed	wa-uḥ'ḍirati
+3	4:128:19	w	ٱلۡأَنفُسُ	ﱕ	الانفس	the souls	l-anfusu
+3	4:128:20	w	ٱلشُّحَّۚ	ﱖﱗ	الشح	(by) greed	l-shuḥa
+3	4:128:21	w	وَإِن	ﱘ	وان	But if	wa-in
+3	4:128:22	w	تُحۡسِنُواْ	ﱙ	تحسنوا	you do good	tuḥ'sinū
+3	4:128:23	w	وَتَتَّقُواْ	ﱚ	وتتقوا	and fear (Allah)	watattaqū
+3	4:128:24	w	فَإِنَّ	ﱛ	فان	then indeed	fa-inna
+3	4:128:25	w	ٱللَّهَ	ﱜ	الله	Allah	l-laha
+4	4:128:26	w	كَانَ	ﱝ	كان	is	kāna
+4	4:128:27	w	بِمَا	ﱞ	بما	of what	bimā
+4	4:128:28	w	تَعۡمَلُونَ	ﱟ	تعملون	you do	taʿmalūna
+4	4:128:29	w	خَبِيرٗا	ﱠ	خبيرا	All-Aware	khabīran
+4	4:128:30	e	١٢٨	ﱡ			
+4	4:129:1	w	وَلَن	ﱢ	ولن	And never	walan
+4	4:129:2	w	تَسۡتَطِيعُوٓاْ	ﱣ	تستطيعوا	will you be able	tastaṭīʿū
+4	4:129:3	w	أَن	ﱤ	ان	to	an
+4	4:129:4	w	تَعۡدِلُواْ	ﱥ	تعدلوا	deal justly	taʿdilū
+5	4:129:5	w	بَيۡنَ	ﱦ	بين	between	bayna
+5	4:129:6	w	ٱلنِّسَآءِ	ﱧ	النساء	[the] women	l-nisāi
+5	4:129:7	w	وَلَوۡ	ﱨ	ولو	even if	walaw
+5	4:129:8	w	حَرَصۡتُمۡۖ	ﱩﱪ	حرصتم	you desired	ḥaraṣtum
+5	4:129:9	w	فَلَا	ﱫ	فلا	but (do) not	falā
+5	4:129:10	w	تَمِيلُواْ	ﱬ	تميلوا	incline	tamīlū
+5	4:129:11	w	كُلَّ	ﱭ	كل	(with) all	kulla
+5	4:129:12	w	ٱلۡمَيۡلِ	ﱮ	الميل	the inclination	l-mayli
+5	4:129:13	w	فَتَذَرُوهَا	ﱯ	فتذروها	and leave her (the other)	fatadharūhā
+6	4:129:14	w	كَٱلۡمُعَلَّقَةِۚ	ﱰﱱ	كالمعلقة	like the suspended one	kal-muʿalaqati
+6	4:129:15	w	وَإِن	ﱲ	وان	And if	wa-in
+6	4:129:16	w	تُصۡلِحُواْ	ﱳ	تصلحوا	you reconcile	tuṣ'liḥū
+6	4:129:17	w	وَتَتَّقُواْ	ﱴ	وتتقوا	and fear (Allah)	watattaqū
+6	4:129:18	w	فَإِنَّ	ﱵ	فان	then indeed	fa-inna
+6	4:129:19	w	ٱللَّهَ	ﱶ	الله	Allah	l-laha
+6	4:129:20	w	كَانَ	ﱷ	كان	is	kāna
+7	4:129:21	w	غَفُورٗا	ﱸ	غفورا	Oft-Forgiving	ghafūran
+7	4:129:22	w	رَّحِيمٗا	ﱹ	رحيما	Most Merciful	raḥīman
+7	4:129:23	e	١٢٩	ﱺ			
+7	4:130:1	w	وَإِن	ﱻ	وان	And if	wa-in
+7	4:130:2	w	يَتَفَرَّقَا	ﱼ	يتفرقا	they separate	yatafarraqā
+7	4:130:3	w	يُغۡنِ	ﱽ	يغن	will be enriched	yugh'ni
+7	4:130:4	w	ٱللَّهُ	ﱾ	الله	(by) Allah	l-lahu
+7	4:130:5	w	كُلّٗا	ﱿ	كلا	each (of them)	kullan
+7	4:130:6	w	مِّن	ﲀ	من	from	min
+7	4:130:7	w	سَعَتِهِۦۚ	ﲁﲂ	سعته	His abundance	saʿatihi
+8	4:130:8	w	وَكَانَ	ﲃ	وكان	and is	wakāna
+8	4:130:9	w	ٱللَّهُ	ﲄ	الله	Allah	l-lahu
+8	4:130:10	w	وَٰسِعًا	ﲅ	واسعا	All-Encompassing	wāsiʿan
+8	4:130:11	w	حَكِيمٗا	ﲆ	حكيما	All-Wise	ḥakīman
+8	4:130:12	e	١٣٠	ﲇ			
+8	4:131:1	w	وَلِلَّهِ	ﲈ	ولله	And for Allah	walillahi
+8	4:131:2	w	مَا	ﲉ	ما	(is) whatever	mā
+8	4:131:3	w	فِي	ﲊ	في	(is) in	fī
+8	4:131:4	w	ٱلسَّمَٰوَٰتِ	ﲋ	السماوات	the heavens	l-samāwāti
+9	4:131:5	w	وَمَا	ﲌ	وما	and whatever	wamā
+9	4:131:6	w	فِي	ﲍ	في	(is) in	fī
+9	4:131:7	w	ٱلۡأَرۡضِۗ	ﲎﲏ	الارض	the earth	l-arḍi
+9	4:131:8	w	وَلَقَدۡ	ﲐ	ولقد	And surely	walaqad
+9	4:131:9	w	وَصَّيۡنَا	ﲑ	وصينا	We have instructed	waṣṣaynā
+9	4:131:10	w	ٱلَّذِينَ	ﲒ	الذين	those who	alladhīna
+9	4:131:11	w	أُوتُواْ	ﲓ	اوتوا	were given	ūtū
+9	4:131:12	w	ٱلۡكِتَٰبَ	ﲔ	الكتاب	the Book	l-kitāba
+9	4:131:13	w	مِن	ﲕ	من	from	min
+10	4:131:14	w	قَبۡلِكُمۡ	ﲖ	قبلكم	before you	qablikum
+10	4:131:15	w	وَإِيَّاكُمۡ	ﲗ	واياكم	and yourselves	wa-iyyākum
+10	4:131:16	w	أَنِ	ﲘ	ان	that	ani
+10	4:131:17	w	ٱتَّقُواْ	ﲙ	اتقوا	you fear	ittaqū
+10	4:131:18	w	ٱللَّهَۚ	ﲚﲛ	الله	Allah	l-laha
+10	4:131:19	w	وَإِن	ﲜ	وان	But if	wa-in
+10	4:131:20	w	تَكۡفُرُواْ	ﲝ	تكفروا	you disbelieve	takfurū
+10	4:131:21	w	فَإِنَّ	ﲞ	فان	then indeed	fa-inna
+10	4:131:22	w	لِلَّهِ	ﲟ	لله	for Allah	lillahi
+11	4:131:23	w	مَا	ﲠ	ما	(is) whatever	mā
+11	4:131:24	w	فِي	ﲡ	في	(is) in	fī
+11	4:131:25	w	ٱلسَّمَٰوَٰتِ	ﲢ	السماوات	the heavens	l-samāwāti
+11	4:131:26	w	وَمَا	ﲣ	وما	and whatever	wamā
+11	4:131:27	w	فِي	ﲤ	في	(is) in	fī
+11	4:131:28	w	ٱلۡأَرۡضِۚ	ﲥﲦ	الارض	the earth	l-arḍi
+11	4:131:29	w	وَكَانَ	ﲧ	وكان	And is	wakāna
+11	4:131:30	w	ٱللَّهُ	ﲨ	الله	Allah	l-lahu
+11	4:131:31	w	غَنِيًّا	ﲩ	غنيا	Free of need	ghaniyyan
+11	4:131:32	w	حَمِيدٗا	ﲪ	حميدا	Praiseworthy	ḥamīdan
+12	4:131:33	e	١٣١	ﲫ			
+12	4:132:1	w	وَلِلَّهِ	ﲬ	ولله	And for Allah	walillahi
+12	4:132:2	w	مَا	ﲭ	ما	(is) whatever	mā
+12	4:132:3	w	فِي	ﲮ	في	(is) in	fī
+12	4:132:4	w	ٱلسَّمَٰوَٰتِ	ﲯ	السماوات	the heavens	l-samāwāti
+12	4:132:5	w	وَمَا	ﲰ	وما	and whatever	wamā
+12	4:132:6	w	فِي	ﲱ	في	(is) in	fī
+12	4:132:7	w	ٱلۡأَرۡضِۚ	ﲲﲳ	الارض	the earth	l-arḍi
+12	4:132:8	w	وَكَفَىٰ	ﲴ	وكفى	And is sufficient	wakafā
+12	4:132:9	w	بِٱللَّهِ	ﲵ	بالله	Allah	bil-lahi
+12	4:132:10	w	وَكِيلًا	ﲶ	وكيلا	(as) a Disposer of affairs	wakīlan
+13	4:132:11	e	١٣٢	ﲷ			
+13	4:133:1	w	إِن	ﲸ	ان	If	in
+13	4:133:2	w	يَشَأۡ	ﲹ	يشا	He wills	yasha
+13	4:133:3	w	يُذۡهِبۡكُمۡ	ﲺ	يذهبكم	He can take you away	yudh'hib'kum
+13	4:133:4	w	أَيُّهَا	ﲻ	ايها	O	ayyuhā
+13	4:133:5	w	ٱلنَّاسُ	ﲼ	الناس	people	l-nāsu
+13	4:133:6	w	وَيَأۡتِ	ﲽ	ويات	and bring	wayati
+13	4:133:7	w	بِـَٔاخَرِينَۚ	ﲾﲿ	باخرين	others	biākharīna
+13	4:133:8	w	وَكَانَ	ﳀ	وكان	And is	wakāna
+14	4:133:9	w	ٱللَّهُ	ﳁ	الله	Allah	l-lahu
+14	4:133:10	w	عَلَىٰ	ﳂ	على	over	ʿalā
+14	4:133:11	w	ذَٰلِكَ	ﳃ	ذالك	that	dhālika
+14	4:133:12	w	قَدِيرٗا	ﳄ	قديرا	All-Powerful	qadīran
+14	4:133:13	e	١٣٣	ﳅ			
+14	4:134:1	w	مَّن	ﳆ	من	Whoever	man
+14	4:134:2	w	كَانَ	ﳇ	كان	[is]	kāna
+14	4:134:3	w	يُرِيدُ	ﳈ	يريد	desires	yurīdu
+14	4:134:4	w	ثَوَابَ	ﳉ	ثواب	reward	thawāba
+14	4:134:5	w	ٱلدُّنۡيَا	ﳊ	الدنيا	(of) the world	l-dun'yā
+14	4:134:6	w	فَعِندَ	ﳋ	فعند	then with	faʿinda
+14	4:134:7	w	ٱللَّهِ	ﳌ	الله	Allah	l-lahi
+15	4:134:8	w	ثَوَابُ	ﳍ	ثواب	(is the) reward	thawābu
+15	4:134:9	w	ٱلدُّنۡيَا	ﳎ	الدنيا	(of) the world	l-dun'yā
+15	4:134:10	w	وَٱلۡأٓخِرَةِۚ	ﳏﳐ	والاخرة	and the Hereafter	wal-ākhirati
+15	4:134:11	w	وَكَانَ	ﳑ	وكان	And is	wakāna
+15	4:134:12	w	ٱللَّهُ	ﳒ	الله	Allah	l-lahu
+15	4:134:13	w	سَمِيعَۢا	ﳓ	سميعا	All-Hearing	samīʿan
+15	4:134:14	w	بَصِيرٗا	ﳔ	بصيرا	All-Seeing	baṣīran
+15	4:134:15	e	١٣٤	ﳕ			

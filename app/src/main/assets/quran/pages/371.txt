@@ -1,0 +1,169 @@
+1	26:84:1	w	وَٱجۡعَل	ﱁ	واجعل	And grant	wa-ij'ʿal
+1	26:84:2	w	لِّي	ﱂ	لي	[for] me	lī
+1	26:84:3	w	لِسَانَ	ﱃ	لسان	a mention	lisāna
+1	26:84:4	w	صِدۡقٖ	ﱄ	صدق	(of) honor	ṣid'qin
+1	26:84:5	w	فِي	ﱅ	في	among	fī
+1	26:84:6	w	ٱلۡأٓخِرِينَ	ﱆ	الاخرين	the later (generations)	l-ākhirīna
+1	26:84:7	e	٨٤	ﱇ			
+1	26:85:1	w	وَٱجۡعَلۡنِي	ﱈ	واجعلني	And make me	wa-ij'ʿalnī
+1	26:85:2	w	مِن	ﱉ	من	of	min
+1	26:85:3	w	وَرَثَةِ	ﱊ	ورثة	(the) inheritors	warathati
+1	26:85:4	w	جَنَّةِ	ﱋ	جنة	(of) Garden(s)	jannati
+2	26:85:5	w	ٱلنَّعِيمِ	ﱌ	النعيم	(of) Delight	l-naʿīmi
+2	26:85:6	e	٨٥	ﱍ			
+2	26:86:1	w	وَٱغۡفِرۡ	ﱎ	واغفر	And forgive	wa-igh'fir
+2	26:86:2	w	لِأَبِيٓ	ﱏ	لابي	my father	li-abī
+2	26:86:3	w	إِنَّهُۥ	ﱐ	انه	Indeed, he	innahu
+2	26:86:4	w	كَانَ	ﱑ	كان	is	kāna
+2	26:86:5	w	مِنَ	ﱒ	من	of	mina
+2	26:86:6	w	ٱلضَّآلِّينَ	ﱓ	الضالين	those astray	l-ḍālīna
+2	26:86:7	e	٨٦	ﱔ			
+2	26:87:1	w	وَلَا	ﱕ	ولا	And (do) not	walā
+2	26:87:2	w	تُخۡزِنِي	ﱖ	تخزني	disgrace me	tukh'zinī
+2	26:87:3	w	يَوۡمَ	ﱗ	يوم	(on the) Day	yawma
+3	26:87:4	w	يُبۡعَثُونَ	ﱘ	يبعثون	they are resurrected	yub'ʿathūna
+3	26:87:5	e	٨٧	ﱙ			
+3	26:88:1	w	يَوۡمَ	ﱚ	يوم	(The) Day	yawma
+3	26:88:2	w	لَا	ﱛ	لا	not	lā
+3	26:88:3	w	يَنفَعُ	ﱜ	ينفع	will benefit	yanfaʿu
+3	26:88:4	w	مَالٞ	ﱝ	مال	wealth	mālun
+3	26:88:5	w	وَلَا	ﱞ	ولا	and not	walā
+3	26:88:6	w	بَنُونَ	ﱟ	بنون	sons	banūna
+3	26:88:7	e	٨٨	ﱠ			
+3	26:89:1	w	إِلَّا	ﱡ	الا	Except	illā
+3	26:89:2	w	مَنۡ	ﱢ	من	(he) who	man
+3	26:89:3	w	أَتَى	ﱣ	اتى	comes	atā
+3	26:89:4	w	ٱللَّهَ	ﱤ	الله	(to) Allah	l-laha
+3	26:89:5	w	بِقَلۡبٖ	ﱥ	بقلب	with a heart	biqalbin
+4	26:89:6	w	سَلِيمٖ	ﱦ	سليم	sound	salīmin
+4	26:89:7	e	٨٩	ﱧ			
+4	26:90:1	w	وَأُزۡلِفَتِ	ﱨ	وازلفت	And (will be) brought near	wa-uz'lifati
+4	26:90:2	w	ٱلۡجَنَّةُ	ﱩ	الجنة	the Paradise	l-janatu
+4	26:90:3	w	لِلۡمُتَّقِينَ	ﱪ	للمتقين	for the righteous	lil'muttaqīna
+4	26:90:4	e	٩٠	ﱫ			
+4	26:91:1	w	وَبُرِّزَتِ	ﱬ	وبرزت	And (will be) made manifest	waburrizati
+4	26:91:2	w	ٱلۡجَحِيمُ	ﱭ	الجحيم	the Hellfire	l-jaḥīmu
+4	26:91:3	w	لِلۡغَاوِينَ	ﱮ	للغاوين	to the deviators	lil'ghāwīna
+5	26:91:4	e	٩١	ﱯ			
+5	26:92:1	w	وَقِيلَ	ﱰ	وقيل	And it will be said	waqīla
+5	26:92:2	w	لَهُمۡ	ﱱ	لهم	to them	lahum
+5	26:92:3	w	أَيۡنَ	ﱲ	اين	Where	ayna
+5	26:92:4	w	مَا	ﱳ	ما	(is) that	mā
+5	26:92:5	w	كُنتُمۡ	ﱴ	كنتم	you used	kuntum
+5	26:92:6	w	تَعۡبُدُونَ	ﱵ	تعبدون	(to) worship	taʿbudūna
+5	26:92:7	e	٩٢	ﱶ			
+5	26:93:1	w	مِن	ﱷ	من	Besides Allah	min
+5	26:93:2	w	دُونِ	ﱸ	دون	Besides Allah	dūni
+5	26:93:3	w	ٱللَّهِ	ﱹ	الله	Besides Allah	l-lahi
+5	26:93:4	w	هَلۡ	ﱺ	هل	Can	hal
+5	26:93:5	w	يَنصُرُونَكُمۡ	ﱻ	ينصرونكم	they help you	yanṣurūnakum
+6	26:93:6	w	أَوۡ	ﱼ	او	or	aw
+6	26:93:7	w	يَنتَصِرُونَ	ﱽ	ينتصرون	help themselves	yantaṣirūna
+6	26:93:8	e	٩٣	ﱾ			
+6	26:94:1	w	فَكُبۡكِبُواْ	ﱿ	فكبكبوا	Then they will be overturned	fakub'kibū
+6	26:94:2	w	فِيهَا	ﲀ	فيها	into it	fīhā
+6	26:94:3	w	هُمۡ	ﲁ	هم	they	hum
+6	26:94:4	w	وَٱلۡغَاوُۥنَ	ﲂ	والغاوون	and the deviators	wal-ghāwūna
+6	26:94:5	e	٩٤	ﲃ			
+6	26:95:1	w	وَجُنُودُ	ﲄ	وجنود	And (the) hosts	wajunūdu
+6	26:95:2	w	إِبۡلِيسَ	ﲅ	ابليس	(of) Iblis	ib'līsa
+7	26:95:3	w	أَجۡمَعُونَ	ﲆ	اجمعون	all together	ajmaʿūna
+7	26:95:4	e	٩٥	ﲇ			
+7	26:96:1	w	قَالُواْ	ﲈ	قالوا	They (will) say	qālū
+7	26:96:2	w	وَهُمۡ	ﲉ	وهم	while they	wahum
+7	26:96:3	w	فِيهَا	ﲊ	فيها	in it	fīhā
+7	26:96:4	w	يَخۡتَصِمُونَ	ﲋ	يختصمون	(are) disputing	yakhtaṣimūna
+7	26:96:5	e	٩٦	ﲌ			
+7	26:97:1	w	تَٱللَّهِ	ﲍ	تالله	By Allah	tal-lahi
+7	26:97:2	w	إِن	ﲎ	ان	indeed	in
+7	26:97:3	w	كُنَّا	ﲏ	كنا	we were	kunnā
+7	26:97:4	w	لَفِي	ﲐ	لفي	surely in	lafī
+8	26:97:5	w	ضَلَٰلٖ	ﲑ	ضلال	error	ḍalālin
+8	26:97:6	w	مُّبِينٍ	ﲒ	مبين	clear	mubīnin
+8	26:97:7	e	٩٧	ﲓ			
+8	26:98:1	w	إِذۡ	ﲔ	اذ	When	idh
+8	26:98:2	w	نُسَوِّيكُم	ﲕ	نسويكم	we equated you	nusawwīkum
+8	26:98:3	w	بِرَبِّ	ﲖ	برب	with (the) Lord	birabbi
+8	26:98:4	w	ٱلۡعَٰلَمِينَ	ﲗ	العالمين	(of) the worlds	l-ʿālamīna
+8	26:98:5	e	٩٨	ﲘ			
+8	26:99:1	w	وَمَآ	ﲙ	وما	And not	wamā
+8	26:99:2	w	أَضَلَّنَآ	ﲚ	اضلنا	misguided us	aḍallanā
+8	26:99:3	w	إِلَّا	ﲛ	الا	except	illā
+9	26:99:4	w	ٱلۡمُجۡرِمُونَ	ﲜ	المجرمون	the criminals	l-muj'rimūna
+9	26:99:5	e	٩٩	ﲝ			
+9	26:100:1	w	فَمَا	ﲞ	فما	So (now) not	famā
+9	26:100:2	w	لَنَا	ﲟ	لنا	we have	lanā
+9	26:100:3	w	مِن	ﲠ	من	any	min
+9	26:100:4	w	شَٰفِعِينَ	ﲡ	شافعين	intercessors	shāfiʿīna
+9	26:100:5	e	١٠٠	ﲢ			
+9	26:101:1	w	وَلَا	ﲣ	ولا	And not	walā
+9	26:101:2	w	صَدِيقٍ	ﲤ	صديق	a friend	ṣadīqin
+9	26:101:3	w	حَمِيمٖ	ﲥ	حميم	close	ḥamīmin
+9	26:101:4	e	١٠١	ﲦ			
+9	26:102:1	w	فَلَوۡ	ﲧ	فلو	Then if	falaw
+10	26:102:2	w	أَنَّ	ﲨ	ان	that	anna
+10	26:102:3	w	لَنَا	ﲩ	لنا	we had	lanā
+10	26:102:4	w	كَرَّةٗ	ﲪ	كرة	a return	karratan
+10	26:102:5	w	فَنَكُونَ	ﲫ	فنكون	then we could be	fanakūna
+10	26:102:6	w	مِنَ	ﲬ	من	of	mina
+10	26:102:7	w	ٱلۡمُؤۡمِنِينَ	ﲭ	المومنين	the believers	l-mu'minīna
+10	26:102:8	e	١٠٢	ﲮ			
+10	26:103:1	w	إِنَّ	ﲯ	ان	Indeed	inna
+10	26:103:2	w	فِي	ﲰ	في	in	fī
+10	26:103:3	w	ذَٰلِكَ	ﲱ	ذالك	that	dhālika
+10	26:103:4	w	لَأٓيَةٗۖ	ﲲﲳ	لاية	surely is a Sign	laāyatan
+10	26:103:5	w	وَمَا	ﲴ	وما	but not	wamā
+10	26:103:6	w	كَانَ	ﲵ	كان	are	kāna
+11	26:103:7	w	أَكۡثَرُهُم	ﲶ	اكثرهم	most of them	aktharuhum
+11	26:103:8	w	مُّؤۡمِنِينَ	ﲷ	مومنين	believers	mu'minīna
+11	26:103:9	e	١٠٣	ﲸ			
+11	26:104:1	w	وَإِنَّ	ﲹ	وان	And indeed	wa-inna
+11	26:104:2	w	رَبَّكَ	ﲺ	ربك	your Lord	rabbaka
+11	26:104:3	w	لَهُوَ	ﲻ	لهو	surely He	lahuwa
+11	26:104:4	w	ٱلۡعَزِيزُ	ﲼ	العزيز	(is) the All-Mighty	l-ʿazīzu
+11	26:104:5	w	ٱلرَّحِيمُ	ﲽ	الرحيم	the Most Merciful	l-raḥīmu
+11	26:104:6	e	١٠٤	ﲾ			
+11	26:105:1	w	كَذَّبَتۡ	ﲿ	كذبت	Denied	kadhabat
+12	26:105:2	w	قَوۡمُ	ﳀ	قوم	(the) people	qawmu
+12	26:105:3	w	نُوحٍ	ﳁ	نوح	(of) Nuh	nūḥin
+12	26:105:4	w	ٱلۡمُرۡسَلِينَ	ﳂ	المرسلين	the Messengers	l-mur'salīna
+12	26:105:5	e	١٠٥	ﳃ			
+12	26:106:1	w	إِذۡ	ﳄ	اذ	When	idh
+12	26:106:2	w	قَالَ	ﳅ	قال	said	qāla
+12	26:106:3	w	لَهُمۡ	ﳆ	لهم	to them	lahum
+12	26:106:4	w	أَخُوهُمۡ	ﳇ	اخوهم	their brother	akhūhum
+12	26:106:5	w	نُوحٌ	ﳈ	نوح	Nuh	nūḥun
+12	26:106:6	w	أَلَا	ﳉ	الا	Will not	alā
+12	26:106:7	w	تَتَّقُونَ	ﳊ	تتقون	you fear (Allah)	tattaqūna
+12	26:106:8	e	١٠٦	ﳋ			
+13	26:107:1	w	إِنِّي	ﳌ	اني	Indeed, I am	innī
+13	26:107:2	w	لَكُمۡ	ﳍ	لكم	to you	lakum
+13	26:107:3	w	رَسُولٌ	ﳎ	رسول	a Messenger	rasūlun
+13	26:107:4	w	أَمِينٞ	ﳏ	امين	trustworthy	amīnun
+13	26:107:5	e	١٠٧	ﳐ			
+13	26:108:1	w	فَٱتَّقُواْ	ﳑ	فاتقوا	So fear	fa-ittaqū
+13	26:108:2	w	ٱللَّهَ	ﳒ	الله	Allah	l-laha
+13	26:108:3	w	وَأَطِيعُونِ	ﳓ	واطيعون	and obey me	wa-aṭīʿūni
+13	26:108:4	e	١٠٨	ﳔ			
+13	26:109:1	w	وَمَآ	ﳕ	وما	And not	wamā
+13	26:109:2	w	أَسۡـَٔلُكُمۡ	ﳖ	اسالكم	I ask (of) you	asalukum
+14	26:109:3	w	عَلَيۡهِ	ﳗ	عليه	for it	ʿalayhi
+14	26:109:4	w	مِنۡ	ﳘ	من	any	min
+14	26:109:5	w	أَجۡرٍۖ	ﳙﳚ	اجر	payment	ajrin
+14	26:109:6	w	إِنۡ	ﳛ	ان	Not	in
+14	26:109:7	w	أَجۡرِيَ	ﳜ	اجري	(is) my payment	ajriya
+14	26:109:8	w	إِلَّا	ﳝ	الا	but	illā
+14	26:109:9	w	عَلَىٰ	ﳞ	على	from	ʿalā
+14	26:109:10	w	رَبِّ	ﳟ	رب	(the) Lord	rabbi
+14	26:109:11	w	ٱلۡعَٰلَمِينَ	ﳠ	العالمين	(of) the worlds	l-ʿālamīna
+14	26:109:12	e	١٠٩	ﳡ			
+14	26:110:1	w	فَٱتَّقُواْ	ﳢ	فاتقوا	So fear	fa-ittaqū
+14	26:110:2	w	ٱللَّهَ	ﳣ	الله	Allah	l-laha
+15	26:110:3	w	وَأَطِيعُونِ	ﳤ	واطيعون	and obey me	wa-aṭīʿūni
+15	26:110:4	e	١١٠	ﳥ			
+15	26:111:1	w	۞ قَالُوٓاْ	ﳦ ﳧ	۞ قالوا	They said	qālū
+15	26:111:2	w	أَنُؤۡمِنُ	ﳨ	انومن	Should we believe	anu'minu
+15	26:111:3	w	لَكَ	ﳩ	لك	in you	laka
+15	26:111:4	w	وَٱتَّبَعَكَ	ﳪ	واتبعك	while followed you	wa-ittabaʿaka
+15	26:111:5	w	ٱلۡأَرۡذَلُونَ	ﳫ	الارذلون	the lowest	l-ardhalūna
+15	26:111:6	e	١١١	ﳬ			

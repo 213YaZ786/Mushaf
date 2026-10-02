@@ -1,0 +1,136 @@
+1	3:116:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	3:116:2	w	ٱلَّذِينَ	ﱂ	الذين	those who	alladhīna
+1	3:116:3	w	كَفَرُواْ	ﱃ	كفروا	disbelieved	kafarū
+1	3:116:4	w	لَن	ﱄ	لن	never	lan
+1	3:116:5	w	تُغۡنِيَ	ﱅ	تغني	will avail	tugh'niya
+1	3:116:6	w	عَنۡهُمۡ	ﱆ	عنهم	[for] them	ʿanhum
+1	3:116:7	w	أَمۡوَٰلُهُمۡ	ﱇ	اموالهم	their wealth	amwāluhum
+1	3:116:8	w	وَلَآ	ﱈ	ولا	and not	walā
+1	3:116:9	w	أَوۡلَٰدُهُم	ﱉ	اولادهم	their children	awlāduhum
+1	3:116:10	w	مِّنَ	ﱊ	من	against	mina
+2	3:116:11	w	ٱللَّهِ	ﱋ	الله	Allah	l-lahi
+2	3:116:12	w	شَيۡـٔٗاۖ	ﱌﱍ	شييا	anything	shayan
+2	3:116:13	w	وَأُوْلَٰٓئِكَ	ﱎ	واولايك	and those	wa-ulāika
+2	3:116:14	w	أَصۡحَٰبُ	ﱏ	اصحاب	(are the) companions	aṣḥābu
+2	3:116:15	w	ٱلنَّارِۖ	ﱐﱑ	النار	(of) the Fire	l-nāri
+2	3:116:16	w	هُمۡ	ﱒ	هم	they	hum
+2	3:116:17	w	فِيهَا	ﱓ	فيها	in it	fīhā
+2	3:116:18	w	خَٰلِدُونَ	ﱔ	خالدون	(will) abide forever	khālidūna
+2	3:116:19	e	١١٦	ﱕ			
+3	3:117:1	w	مَثَلُ	ﱖ	مثل	Example	mathalu
+3	3:117:2	w	مَا	ﱗ	ما	(of) what	mā
+3	3:117:3	w	يُنفِقُونَ	ﱘ	ينفقون	they spend	yunfiqūna
+3	3:117:4	w	فِي	ﱙ	في	in	fī
+3	3:117:5	w	هَٰذِهِ	ﱚ	هاذه	this	hādhihi
+3	3:117:6	w	ٱلۡحَيَوٰةِ	ﱛ	الحياة	[the] life	l-ḥayati
+3	3:117:7	w	ٱلدُّنۡيَا	ﱜ	الدنيا	(of) the world	l-dun'yā
+3	3:117:8	w	كَمَثَلِ	ﱝ	كمثل	(is) like (the) example	kamathali
+3	3:117:9	w	رِيحٖ	ﱞ	ريح	(of) a wind	rīḥin
+3	3:117:10	w	فِيهَا	ﱟ	فيها	in it	fīhā
+4	3:117:11	w	صِرٌّ	ﱠ	صر	(is) frost	ṣirrun
+4	3:117:12	w	أَصَابَتۡ	ﱡ	اصابت	it struck	aṣābat
+4	3:117:13	w	حَرۡثَ	ﱢ	حرث	(the) harvest	ḥartha
+4	3:117:14	w	قَوۡمٖ	ﱣ	قوم	(of) a people	qawmin
+4	3:117:15	w	ظَلَمُوٓاْ	ﱤ	ظلموا	who wronged	ẓalamū
+4	3:117:16	w	أَنفُسَهُمۡ	ﱥ	انفسهم	themselves	anfusahum
+4	3:117:17	w	فَأَهۡلَكَتۡهُۚ	ﱦﱧ	فاهلكته	then destroyed it	fa-ahlakathu
+4	3:117:18	w	وَمَا	ﱨ	وما	And not	wamā
+5	3:117:19	w	ظَلَمَهُمُ	ﱩ	ظلمهم	(has) wronged them	ẓalamahumu
+5	3:117:20	w	ٱللَّهُ	ﱪ	الله	Allah	l-lahu
+5	3:117:21	w	وَلَٰكِنۡ	ﱫ	ولاكن	[and] but	walākin
+5	3:117:22	w	أَنفُسَهُمۡ	ﱬ	انفسهم	themselves	anfusahum
+5	3:117:23	w	يَظۡلِمُونَ	ﱭ	يظلمون	they wronged	yaẓlimūna
+5	3:117:24	e	١١٧	ﱮ			
+5	3:118:1	w	يَٰٓأَيُّهَا	ﱯ	يا ايها	O you	yāayyuhā
+5	3:118:2	w	ٱلَّذِينَ	ﱰ	الذين	who	alladhīna
+6	3:118:3	w	ءَامَنُواْ	ﱱ	امنوا	believe[d]	āmanū
+6	3:118:4	w	لَا	ﱲ	لا	(Do) not	lā
+6	3:118:5	w	تَتَّخِذُواْ	ﱳ	تتخذوا	take	tattakhidhū
+6	3:118:6	w	بِطَانَةٗ	ﱴ	بطانة	(as) intimates	biṭānatan
+6	3:118:7	w	مِّن	ﱵ	من	from	min
+6	3:118:8	w	دُونِكُمۡ	ﱶ	دونكم	other than yourselves	dūnikum
+6	3:118:9	w	لَا	ﱷ	لا	not	lā
+6	3:118:10	w	يَأۡلُونَكُمۡ	ﱸ	يالونكم	they will spare you	yalūnakum
+6	3:118:11	w	خَبَالٗا	ﱹ	خبالا	(any) ruin	khabālan
+7	3:118:12	w	وَدُّواْ	ﱺ	ودوا	They wish	waddū
+7	3:118:13	w	مَا	ﱻ	ما	what	mā
+7	3:118:14	w	عَنِتُّمۡ	ﱼ	عنتم	distresses you	ʿanittum
+7	3:118:15	w	قَدۡ	ﱽ	قد	Indeed	qad
+7	3:118:16	w	بَدَتِ	ﱾ	بدت	(has become) apparent	badati
+7	3:118:17	w	ٱلۡبَغۡضَآءُ	ﱿ	البغضاء	the hatred	l-baghḍāu
+7	3:118:18	w	مِنۡ	ﲀ	من	from	min
+7	3:118:19	w	أَفۡوَٰهِهِمۡ	ﲁ	افواههم	their mouths	afwāhihim
+7	3:118:20	w	وَمَا	ﲂ	وما	and what	wamā
+7	3:118:21	w	تُخۡفِي	ﲃ	تخفي	conceals	tukh'fī
+8	3:118:22	w	صُدُورُهُمۡ	ﲄ	صدورهم	their breasts	ṣudūruhum
+8	3:118:23	w	أَكۡبَرُۚ	ﲅﲆ	اكبر	(is) greater	akbaru
+8	3:118:24	w	قَدۡ	ﲇ	قد	Certainly	qad
+8	3:118:25	w	بَيَّنَّا	ﲈ	بينا	We made clear	bayyannā
+8	3:118:26	w	لَكُمُ	ﲉ	لكم	for you	lakumu
+8	3:118:27	w	ٱلۡأٓيَٰتِۖ	ﲊﲋ	الايات	the Verses	l-āyāti
+8	3:118:28	w	إِن	ﲌ	ان	if	in
+8	3:118:29	w	كُنتُمۡ	ﲍ	كنتم	you were	kuntum
+8	3:118:30	w	تَعۡقِلُونَ	ﲎ	تعقلون	(to use) reason	taʿqilūna
+9	3:118:31	e	١١٨	ﲏ			
+9	3:119:1	w	هَٰٓأَنتُمۡ	ﲐ	ها انتم	Lo! You are	hāantum
+9	3:119:2	w	أُوْلَآءِ	ﲑ	اولاء	those	ulāi
+9	3:119:3	w	تُحِبُّونَهُمۡ	ﲒ	تحبونهم	you love them	tuḥibbūnahum
+9	3:119:4	w	وَلَا	ﲓ	ولا	but not	walā
+9	3:119:5	w	يُحِبُّونَكُمۡ	ﲔ	يحبونكم	they love you	yuḥibbūnakum
+9	3:119:6	w	وَتُؤۡمِنُونَ	ﲕ	وتومنون	and you believe	watu'minūna
+9	3:119:7	w	بِٱلۡكِتَٰبِ	ﲖ	بالكتاب	in the Book	bil-kitābi
+10	3:119:8	w	كُلِّهِۦ	ﲗ	كله	all of it	kullihi
+10	3:119:9	w	وَإِذَا	ﲘ	واذا	And when	wa-idhā
+10	3:119:10	w	لَقُوكُمۡ	ﲙ	لقوكم	they meet you	laqūkum
+10	3:119:11	w	قَالُوٓاْ	ﲚ	قالوا	they say	qālū
+10	3:119:12	w	ءَامَنَّا	ﲛ	امنا	We believe	āmannā
+10	3:119:13	w	وَإِذَا	ﲜ	واذا	And when	wa-idhā
+10	3:119:14	w	خَلَوۡاْ	ﲝ	خلوا	they are alone	khalaw
+10	3:119:15	w	عَضُّواْ	ﲞ	عضوا	they bite	ʿaḍḍū
+10	3:119:16	w	عَلَيۡكُمُ	ﲟ	عليكم	at you	ʿalaykumu
+11	3:119:17	w	ٱلۡأَنَامِلَ	ﲠ	الانامل	the finger tips	l-anāmila
+11	3:119:18	w	مِنَ	ﲡ	من	(out) of	mina
+11	3:119:19	w	ٱلۡغَيۡظِۚ	ﲢﲣ	الغيظ	[the] rage	l-ghayẓi
+11	3:119:20	w	قُلۡ	ﲤ	قل	Say	qul
+11	3:119:21	w	مُوتُواْ	ﲥ	موتوا	Die	mūtū
+11	3:119:22	w	بِغَيۡظِكُمۡۗ	ﲦﲧ	بغيظكم	in your rage	bighayẓikum
+11	3:119:23	w	إِنَّ	ﲨ	ان	Indeed	inna
+11	3:119:24	w	ٱللَّهَ	ﲩ	الله	Allah	l-laha
+11	3:119:25	w	عَلِيمُۢ	ﲪ	عليم	(is) All-Knowing	ʿalīmun
+11	3:119:26	w	بِذَاتِ	ﲫ	بذات	of what	bidhāti
+12	3:119:27	w	ٱلصُّدُورِ	ﲬ	الصدور	(is in) the breasts	l-ṣudūri
+12	3:119:28	e	١١٩	ﲭ			
+12	3:120:1	w	إِن	ﲮ	ان	If	in
+12	3:120:2	w	تَمۡسَسۡكُمۡ	ﲯ	تمسسكم	touches you	tamsaskum
+12	3:120:3	w	حَسَنَةٞ	ﲰ	حسنة	a good	ḥasanatun
+12	3:120:4	w	تَسُؤۡهُمۡ	ﲱ	تسوهم	it grieves them	tasu'hum
+12	3:120:5	w	وَإِن	ﲲ	وان	and if	wa-in
+12	3:120:6	w	تُصِبۡكُمۡ	ﲳ	تصبكم	strikes you	tuṣib'kum
+13	3:120:7	w	سَيِّئَةٞ	ﲴ	سيية	misfortune	sayyi-atun
+13	3:120:8	w	يَفۡرَحُواْ	ﲵ	يفرحوا	they rejoice	yafraḥū
+13	3:120:9	w	بِهَاۖ	ﲶﲷ	بها	at it	bihā
+13	3:120:10	w	وَإِن	ﲸ	وان	And if	wa-in
+13	3:120:11	w	تَصۡبِرُواْ	ﲹ	تصبروا	you are patient	taṣbirū
+13	3:120:12	w	وَتَتَّقُواْ	ﲺ	وتتقوا	and fear (Allah)	watattaqū
+13	3:120:13	w	لَا	ﲻ	لا	not	lā
+13	3:120:14	w	يَضُرُّكُمۡ	ﲼ	يضركم	will harm you	yaḍurrukum
+13	3:120:15	w	كَيۡدُهُمۡ	ﲽ	كيدهم	their plot	kayduhum
+14	3:120:16	w	شَيۡـًٔاۗ	ﲾﲿ	شييا	(in) anything	shayan
+14	3:120:17	w	إِنَّ	ﳀ	ان	Indeed	inna
+14	3:120:18	w	ٱللَّهَ	ﳁ	الله	Allah	l-laha
+14	3:120:19	w	بِمَا	ﳂ	بما	of what	bimā
+14	3:120:20	w	يَعۡمَلُونَ	ﳃ	يعملون	they do	yaʿmalūna
+14	3:120:21	w	مُحِيطٞ	ﳄ	محيط	(is) All-Encompassing	muḥīṭun
+14	3:120:22	e	١٢٠	ﳅ			
+14	3:121:1	w	وَإِذۡ	ﳆ	واذ	And when	wa-idh
+14	3:121:2	w	غَدَوۡتَ	ﳇ	غدوت	you left early morning	ghadawta
+14	3:121:3	w	مِنۡ	ﳈ	من	from	min
+14	3:121:4	w	أَهۡلِكَ	ﳉ	اهلك	your household	ahlika
+15	3:121:5	w	تُبَوِّئُ	ﳊ	تبوي	to post	tubawwi-u
+15	3:121:6	w	ٱلۡمُؤۡمِنِينَ	ﳋ	المومنين	the believers	l-mu'minīna
+15	3:121:7	w	مَقَٰعِدَ	ﳌ	مقاعد	(to take) positions	maqāʿida
+15	3:121:8	w	لِلۡقِتَالِۗ	ﳍﳎ	للقتال	for the battle	lil'qitāli
+15	3:121:9	w	وَٱللَّهُ	ﳏ	والله	And Allah	wal-lahu
+15	3:121:10	w	سَمِيعٌ	ﳐ	سميع	(is) All-Hearing	samīʿun
+15	3:121:11	w	عَلِيمٌ	ﳑ	عليم	All-Knowing	ʿalīmun
+15	3:121:12	e	١٢١	ﳒ			

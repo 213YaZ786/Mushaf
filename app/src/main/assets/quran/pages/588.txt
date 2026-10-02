@@ -1,0 +1,156 @@
+1	83:7:1	w	كـَلَّآ	ﱊ	كلا	Nay	kallā
+1	83:7:2	w	إِنَّ	ﱋ	ان	Indeed	inna
+1	83:7:3	w	كِتَٰبَ	ﱌ	كتاب	(the) record	kitāba
+2	83:7:4	w	ٱلۡفُجَّارِ	ﱍ	الفجار	(of) the wicked	l-fujāri
+2	83:7:5	w	لَفِي	ﱎ	لفي	(is) surely in	lafī
+2	83:7:6	w	سِجِّينٖ	ﱏ	سجين	Sijjin	sijjīnin
+2	83:7:7	e	٧	ﱐ			
+2	83:8:1	w	وَمَآ	ﱑ	وما	And what	wamā
+2	83:8:2	w	أَدۡرَىٰكَ	ﱒ	ادراك	can make you know	adrāka
+2	83:8:3	w	مَا	ﱓ	ما	what	mā
+2	83:8:4	w	سِجِّينٞ	ﱔ	سجين	(is) Sijjin	sijjīnun
+2	83:8:5	e	٨	ﱕ			
+2	83:9:1	w	كِتَٰبٞ	ﱖ	كتاب	A book	kitābun
+2	83:9:2	w	مَّرۡقُومٞ	ﱗ	مرقوم	written	marqūmun
+2	83:9:3	e	٩	ﱘ			
+3	83:10:1	w	وَيۡلٞ	ﱙ	ويل	Woe	waylun
+3	83:10:2	w	يَوۡمَئِذٖ	ﱚ	يوميذ	that Day	yawma-idhin
+3	83:10:3	w	لِّلۡمُكَذِّبِينَ	ﱛ	للمكذبين	to the deniers	lil'mukadhibīna
+3	83:10:4	e	١٠	ﱜ			
+3	83:11:1	w	ٱلَّذِينَ	ﱝ	الذين	Those who	alladhīna
+3	83:11:2	w	يُكَذِّبُونَ	ﱞ	يكذبون	deny	yukadhibūna
+3	83:11:3	w	بِيَوۡمِ	ﱟ	بيوم	(the) Day	biyawmi
+3	83:11:4	w	ٱلدِّينِ	ﱠ	الدين	(of) the Judgment	l-dīni
+3	83:11:5	e	١١	ﱡ			
+3	83:12:1	w	وَمَا	ﱢ	وما	And not	wamā
+3	83:12:2	w	يُكَذِّبُ	ﱣ	يكذب	can deny	yukadhibu
+4	83:12:3	w	بِهِۦٓ	ﱤ	به	[of] it	bihi
+4	83:12:4	w	إِلَّا	ﱥ	الا	except	illā
+4	83:12:5	w	كُلُّ	ﱦ	كل	every	kullu
+4	83:12:6	w	مُعۡتَدٍ	ﱧ	معتد	transgressor	muʿ'tadin
+4	83:12:7	w	أَثِيمٍ	ﱨ	اثيم	sinful	athīmin
+4	83:12:8	e	١٢	ﱩ			
+4	83:13:1	w	إِذَا	ﱪ	اذا	When	idhā
+4	83:13:2	w	تُتۡلَىٰ	ﱫ	تتلى	are recited	tut'lā
+4	83:13:3	w	عَلَيۡهِ	ﱬ	عليه	to him	ʿalayhi
+4	83:13:4	w	ءَايَٰتُنَا	ﱭ	اياتنا	Our Verses	āyātunā
+4	83:13:5	w	قَالَ	ﱮ	قال	he says	qāla
+4	83:13:6	w	أَسَٰطِيرُ	ﱯ	اساطير	Stories	asāṭīru
+4	83:13:7	w	ٱلۡأَوَّلِينَ	ﱰ	الاولين	(of) the former (people)	l-awalīna
+5	83:13:8	e	١٣	ﱱ			
+5	83:14:1	w	كـَلَّاۖ	ﱲﱳ	كلا	Nay	kallā
+5	83:14:2	w	بَلۡۜ	ﱴﱵ	بل	But	bal
+5	83:14:3	w	رَانَ	ﱶ	ران	(the) stain has covered	rāna
+5	83:14:4	w	عَلَىٰ	ﱷ	على	[over]	ʿalā
+5	83:14:5	w	قُلُوبِهِم	ﱸ	قلوبهم	their hearts	qulūbihim
+5	83:14:6	w	مَّا	ﱹ	ما	(for) what	mā
+5	83:14:7	w	كَانُواْ	ﱺ	كانوا	they used to	kānū
+5	83:14:8	w	يَكۡسِبُونَ	ﱻ	يكسبون	earn	yaksibūna
+5	83:14:9	e	١٤	ﱼ			
+5	83:15:1	w	كـَلَّآ	ﱽ	كلا	Nay	kallā
+5	83:15:2	w	إِنَّهُمۡ	ﱾ	انهم	Indeed, they	innahum
+5	83:15:3	w	عَن	ﱿ	عن	from	ʿan
+5	83:15:4	w	رَّبِّهِمۡ	ﲀ	ربهم	their Lord	rabbihim
+6	83:15:5	w	يَوۡمَئِذٖ	ﲁ	يوميذ	that Day	yawma-idhin
+6	83:15:6	w	لَّمَحۡجُوبُونَ	ﲂ	لمحجوبون	surely will be partitioned	lamaḥjūbūna
+6	83:15:7	e	١٥	ﲃ			
+6	83:16:1	w	ثُمَّ	ﲄ	ثم	Then	thumma
+6	83:16:2	w	إِنَّهُمۡ	ﲅ	انهم	indeed, they	innahum
+6	83:16:3	w	لَصَالُواْ	ﲆ	لصالو	(surely) will burn	laṣālū
+6	83:16:4	w	ٱلۡجَحِيمِ	ﲇ	الجحيم	(in) the Hellfire	l-jaḥīmi
+6	83:16:5	e	١٦	ﲈ			
+6	83:17:1	w	ثُمَّ	ﲉ	ثم	Then	thumma
+6	83:17:2	w	يُقَالُ	ﲊ	يقال	it will be said	yuqālu
+6	83:17:3	w	هَٰذَا	ﲋ	هاذا	This	hādhā
+7	83:17:4	w	ٱلَّذِي	ﲌ	الذي	(is) what	alladhī
+7	83:17:5	w	كُنتُم	ﲍ	كنتم	you used to	kuntum
+7	83:17:6	w	بِهِۦ	ﲎ	به	[of it]	bihi
+7	83:17:7	w	تُكَذِّبُونَ	ﲏ	تكذبون	deny	tukadhibūna
+7	83:17:8	e	١٧	ﲐ			
+7	83:18:1	w	كـَلَّآ	ﲑ	كلا	Nay	kallā
+7	83:18:2	w	إِنَّ	ﲒ	ان	Indeed	inna
+7	83:18:3	w	كِتَٰبَ	ﲓ	كتاب	(the) record	kitāba
+7	83:18:4	w	ٱلۡأَبۡرَارِ	ﲔ	الابرار	(of) the righteous	l-abrāri
+7	83:18:5	w	لَفِي	ﲕ	لفي	(will be) surely in	lafī
+7	83:18:6	w	عِلِّيِّينَ	ﲖ	عليين	Illiyin	ʿilliyyīna
+7	83:18:7	e	١٨	ﲗ			
+8	83:19:1	w	وَمَآ	ﲘ	وما	And what	wamā
+8	83:19:2	w	أَدۡرَىٰكَ	ﲙ	ادراك	can make you know	adrāka
+8	83:19:3	w	مَا	ﲚ	ما	what	mā
+8	83:19:4	w	عِلِّيُّونَ	ﲛ	عليون	(is) Illiyun	ʿilliyyūna
+8	83:19:5	e	١٩	ﲜ			
+8	83:20:1	w	كِتَٰبٞ	ﲝ	كتاب	A book	kitābun
+8	83:20:2	w	مَّرۡقُومٞ	ﲞ	مرقوم	written	marqūmun
+8	83:20:3	e	٢٠	ﲟ			
+8	83:21:1	w	يَشۡهَدُهُ	ﲠ	يشهده	Witness it	yashhaduhu
+8	83:21:2	w	ٱلۡمُقَرَّبُونَ	ﲡ	المقربون	those brought near	l-muqarabūna
+8	83:21:3	e	٢١	ﲢ			
+9	83:22:1	w	إِنَّ	ﲣ	ان	Indeed	inna
+9	83:22:2	w	ٱلۡأَبۡرَارَ	ﲤ	الابرار	the righteous	l-abrāra
+9	83:22:3	w	لَفِي	ﲥ	لفي	(will be) surely in	lafī
+9	83:22:4	w	نَعِيمٍ	ﲦ	نعيم	bliss	naʿīmin
+9	83:22:5	e	٢٢	ﲧ			
+9	83:23:1	w	عَلَى	ﲨ	على	On	ʿalā
+9	83:23:2	w	ٱلۡأَرَآئِكِ	ﲩ	الارايك	thrones	l-arāiki
+9	83:23:3	w	يَنظُرُونَ	ﲪ	ينظرون	observing	yanẓurūna
+9	83:23:4	e	٢٣	ﲫ			
+9	83:24:1	w	تَعۡرِفُ	ﲬ	تعرف	You will recognize	taʿrifu
+9	83:24:2	w	فِي	ﲭ	في	in	fī
+10	83:24:3	w	وُجُوهِهِمۡ	ﲮ	وجوههم	their faces	wujūhihim
+10	83:24:4	w	نَضۡرَةَ	ﲯ	نضرة	(the) radiance	naḍrata
+10	83:24:5	w	ٱلنَّعِيمِ	ﲰ	النعيم	(of) bliss	l-naʿīmi
+10	83:24:6	e	٢٤	ﲱ			
+10	83:25:1	w	يُسۡقَوۡنَ	ﲲ	يسقون	They will be given to drink	yus'qawna
+10	83:25:2	w	مِن	ﲳ	من	of	min
+10	83:25:3	w	رَّحِيقٖ	ﲴ	رحيق	a pure wine	raḥīqin
+10	83:25:4	w	مَّخۡتُومٍ	ﲵ	مختوم	sealed	makhtūmin
+10	83:25:5	e	٢٥	ﲶ			
+10	83:26:1	w	خِتَٰمُهُۥ	ﲷ	ختامه	Its seal	khitāmuhu
+11	83:26:2	w	مِسۡكٞۚ	ﲸﲹ	مسك	(will be of) musk	mis'kun
+11	83:26:3	w	وَفِي	ﲺ	وفي	And for	wafī
+11	83:26:4	w	ذَٰلِكَ	ﲻ	ذالك	that	dhālika
+11	83:26:5	w	فَلۡيَتَنَافَسِ	ﲼ	فليتنافس	let aspire	falyatanāfasi
+11	83:26:6	w	ٱلۡمُتَنَٰفِسُونَ	ﲽ	المتنافسون	the aspirers	l-mutanāfisūna
+11	83:26:7	e	٢٦	ﲾ			
+11	83:27:1	w	وَمِزَاجُهُۥ	ﲿ	ومزاجه	And its mixture	wamizājuhu
+11	83:27:2	w	مِن	ﳀ	من	(is) of	min
+12	83:27:3	w	تَسۡنِيمٍ	ﳁ	تسنيم	Tasneem	tasnīmin
+12	83:27:4	e	٢٧	ﳂ			
+12	83:28:1	w	عَيۡنٗا	ﳃ	عينا	A spring	ʿaynan
+12	83:28:2	w	يَشۡرَبُ	ﳄ	يشرب	will drink	yashrabu
+12	83:28:3	w	بِهَا	ﳅ	بها	from it	bihā
+12	83:28:4	w	ٱلۡمُقَرَّبُونَ	ﳆ	المقربون	those brought near	l-muqarabūna
+12	83:28:5	e	٢٨	ﳇ			
+12	83:29:1	w	إِنَّ	ﳈ	ان	Indeed	inna
+12	83:29:2	w	ٱلَّذِينَ	ﳉ	الذين	those who	alladhīna
+12	83:29:3	w	أَجۡرَمُواْ	ﳊ	اجرموا	committed crimes	ajramū
+12	83:29:4	w	كَانُواْ	ﳋ	كانوا	used to	kānū
+13	83:29:5	w	مِنَ	ﳌ	من	at	mina
+13	83:29:6	w	ٱلَّذِينَ	ﳍ	الذين	those who	alladhīna
+13	83:29:7	w	ءَامَنُواْ	ﳎ	امنوا	believed	āmanū
+13	83:29:8	w	يَضۡحَكُونَ	ﳏ	يضحكون	laugh	yaḍḥakūna
+13	83:29:9	e	٢٩	ﳐ			
+13	83:30:1	w	وَإِذَا	ﳑ	واذا	And when	wa-idhā
+13	83:30:2	w	مَرُّواْ	ﳒ	مروا	they passed	marrū
+13	83:30:3	w	بِهِمۡ	ﳓ	بهم	by them	bihim
+13	83:30:4	w	يَتَغَامَزُونَ	ﳔ	يتغامزون	they winked at one another	yataghāmazūna
+13	83:30:5	e	٣٠	ﳕ			
+14	83:31:1	w	وَإِذَا	ﳖ	واذا	And when	wa-idhā
+14	83:31:2	w	ٱنقَلَبُوٓاْ	ﳗ	انقلبوا	they returned	inqalabū
+14	83:31:3	w	إِلَىٰٓ	ﳘ	الى	to	ilā
+14	83:31:4	w	أَهۡلِهِمُ	ﳙ	اهلهم	their people	ahlihimu
+14	83:31:5	w	ٱنقَلَبُواْ	ﳚ	انقلبوا	they would return	inqalabū
+14	83:31:6	w	فَكِهِينَ	ﳛ	فكهين	jesting	fakihīna
+14	83:31:7	e	٣١	ﳜ			
+14	83:32:1	w	وَإِذَا	ﳝ	واذا	And when	wa-idhā
+14	83:32:2	w	رَأَوۡهُمۡ	ﳞ	راوهم	they saw them	ra-awhum
+14	83:32:3	w	قَالُوٓاْ	ﳟ	قالوا	they said	qālū
+15	83:32:4	w	إِنَّ	ﳠ	ان	Indeed	inna
+15	83:32:5	w	هَٰٓؤُلَآءِ	ﳡ	هاولاء	these	hāulāi
+15	83:32:6	w	لَضَآلُّونَ	ﳢ	لضالون	surely have gone astray	laḍāllūna
+15	83:32:7	e	٣٢	ﳣ			
+15	83:33:1	w	وَمَآ	ﳤ	وما	But not	wamā
+15	83:33:2	w	أُرۡسِلُواْ	ﳥ	ارسلوا	they had been sent	ur'silū
+15	83:33:3	w	عَلَيۡهِمۡ	ﳦ	عليهم	over them	ʿalayhim
+15	83:33:4	w	حَٰفِظِينَ	ﳧ	حافظين	(as) guardians	ḥāfiẓīna
+15	83:33:5	e	٣٣	ﳨ			

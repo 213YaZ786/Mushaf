@@ -1,0 +1,153 @@
+1	33:16:1	w	قُل	ﱁ	قل	Say	qul
+1	33:16:2	w	لَّن	ﱂ	لن	Never	lan
+1	33:16:3	w	يَنفَعَكُمُ	ﱃ	ينفعكم	will benefit you	yanfaʿakumu
+1	33:16:4	w	ٱلۡفِرَارُ	ﱄ	الفرار	the fleeing	l-firāru
+1	33:16:5	w	إِن	ﱅ	ان	if	in
+1	33:16:6	w	فَرَرۡتُم	ﱆ	فررتم	you flee	farartum
+1	33:16:7	w	مِّنَ	ﱇ	من	from	mina
+1	33:16:8	w	ٱلۡمَوۡتِ	ﱈ	الموت	death	l-mawti
+1	33:16:9	w	أَوِ	ﱉ	او	or	awi
+1	33:16:10	w	ٱلۡقَتۡلِ	ﱊ	القتل	killing	l-qatli
+1	33:16:11	w	وَإِذٗا	ﱋ	واذا	and then	wa-idhan
+2	33:16:12	w	لَّا	ﱌ	لا	not	lā
+2	33:16:13	w	تُمَتَّعُونَ	ﱍ	تمتعون	you will be allowed to enjoy	tumattaʿūna
+2	33:16:14	w	إِلَّا	ﱎ	الا	except	illā
+2	33:16:15	w	قَلِيلٗا	ﱏ	قليلا	a little	qalīlan
+2	33:16:16	e	١٦	ﱐ			
+2	33:17:1	w	قُلۡ	ﱑ	قل	Say	qul
+2	33:17:2	w	مَن	ﱒ	من	Who	man
+2	33:17:3	w	ذَا	ﱓ	ذا	(is) it that	dhā
+2	33:17:4	w	ٱلَّذِي	ﱔ	الذي	(is) it that	alladhī
+2	33:17:5	w	يَعۡصِمُكُم	ﱕ	يعصمكم	(can) protect you	yaʿṣimukum
+2	33:17:6	w	مِّنَ	ﱖ	من	from	mina
+2	33:17:7	w	ٱللَّهِ	ﱗ	الله	Allah	l-lahi
+3	33:17:8	w	إِنۡ	ﱘ	ان	If	in
+3	33:17:9	w	أَرَادَ	ﱙ	اراد	He intends	arāda
+3	33:17:10	w	بِكُمۡ	ﱚ	بكم	for you	bikum
+3	33:17:11	w	سُوٓءًا	ﱛ	سوءا	any harm	sūan
+3	33:17:12	w	أَوۡ	ﱜ	او	or	aw
+3	33:17:13	w	أَرَادَ	ﱝ	اراد	He intends	arāda
+3	33:17:14	w	بِكُمۡ	ﱞ	بكم	for you	bikum
+3	33:17:15	w	رَحۡمَةٗۚ	ﱟﱠ	رحمة	a mercy	raḥmatan
+3	33:17:16	w	وَلَا	ﱡ	ولا	And not	walā
+3	33:17:17	w	يَجِدُونَ	ﱢ	يجدون	they will find	yajidūna
+3	33:17:18	w	لَهُم	ﱣ	لهم	for them	lahum
+3	33:17:19	w	مِّن	ﱤ	من	besides	min
+3	33:17:20	w	دُونِ	ﱥ	دون	besides	dūni
+4	33:17:21	w	ٱللَّهِ	ﱦ	الله	Allah	l-lahi
+4	33:17:22	w	وَلِيّٗا	ﱧ	وليا	any protector	waliyyan
+4	33:17:23	w	وَلَا	ﱨ	ولا	and not	walā
+4	33:17:24	w	نَصِيرٗا	ﱩ	نصيرا	any helper	naṣīran
+4	33:17:25	e	١٧	ﱪ			
+4	33:18:1	w	۞ قَدۡ	ﱫ ﱬ	۞ قد	Verily	qad
+4	33:18:2	w	يَعۡلَمُ	ﱭ	يعلم	Allah knows	yaʿlamu
+4	33:18:3	w	ٱللَّهُ	ﱮ	الله	Allah knows	l-lahu
+4	33:18:4	w	ٱلۡمُعَوِّقِينَ	ﱯ	المعوقين	those who hinder	l-muʿawiqīna
+4	33:18:5	w	مِنكُمۡ	ﱰ	منكم	among you	minkum
+4	33:18:6	w	وَٱلۡقَآئِلِينَ	ﱱ	والقايلين	and those who say	wal-qāilīna
+5	33:18:7	w	لِإِخۡوَٰنِهِمۡ	ﱲ	لاخوانهم	to their brothers	li-ikh'wānihim
+5	33:18:8	w	هَلُمَّ	ﱳ	هلم	Come	halumma
+5	33:18:9	w	إِلَيۡنَاۖ	ﱴﱵ	الينا	to us	ilaynā
+5	33:18:10	w	وَلَا	ﱶ	ولا	and not	walā
+5	33:18:11	w	يَأۡتُونَ	ﱷ	ياتون	they come	yatūna
+5	33:18:12	w	ٱلۡبَأۡسَ	ﱸ	الباس	(to) the battle	l-basa
+5	33:18:13	w	إِلَّا	ﱹ	الا	except	illā
+5	33:18:14	w	قَلِيلًا	ﱺ	قليلا	a few	qalīlan
+5	33:18:15	e	١٨	ﱻ			
+5	33:19:1	w	أَشِحَّةً	ﱼ	اشحة	Miserly	ashiḥḥatan
+6	33:19:2	w	عَلَيۡكُمۡۖ	ﱽﱾ	عليكم	towards you	ʿalaykum
+6	33:19:3	w	فَإِذَا	ﱿ	فاذا	But when	fa-idhā
+6	33:19:4	w	جَآءَ	ﲀ	جاء	comes	jāa
+6	33:19:5	w	ٱلۡخَوۡفُ	ﲁ	الخوف	the fear	l-khawfu
+6	33:19:6	w	رَأَيۡتَهُمۡ	ﲂ	رايتهم	you see them	ra-aytahum
+6	33:19:7	w	يَنظُرُونَ	ﲃ	ينظرون	looking	yanẓurūna
+6	33:19:8	w	إِلَيۡكَ	ﲄ	اليك	at you	ilayka
+6	33:19:9	w	تَدُورُ	ﲅ	تدور	revolving	tadūru
+6	33:19:10	w	أَعۡيُنُهُمۡ	ﲆ	اعينهم	their eyes	aʿyunuhum
+7	33:19:11	w	كَٱلَّذِي	ﲇ	كالذي	like one who	ka-alladhī
+7	33:19:12	w	يُغۡشَىٰ	ﲈ	يغشى	faints	yugh'shā
+7	33:19:13	w	عَلَيۡهِ	ﲉ	عليه	faints	ʿalayhi
+7	33:19:14	w	مِنَ	ﲊ	من	from	mina
+7	33:19:15	w	ٱلۡمَوۡتِۖ	ﲋﲌ	الموت	[the] death	l-mawti
+7	33:19:16	w	فَإِذَا	ﲍ	فاذا	But when	fa-idhā
+7	33:19:17	w	ذَهَبَ	ﲎ	ذهب	departs	dhahaba
+7	33:19:18	w	ٱلۡخَوۡفُ	ﲏ	الخوف	the fear	l-khawfu
+7	33:19:19	w	سَلَقُوكُم	ﲐ	سلقوكم	they smite you	salaqūkum
+8	33:19:20	w	بِأَلۡسِنَةٍ	ﲑ	بالسنة	with tongues	bi-alsinatin
+8	33:19:21	w	حِدَادٍ	ﲒ	حداد	sharp	ḥidādin
+8	33:19:22	w	أَشِحَّةً	ﲓ	اشحة	miserly	ashiḥḥatan
+8	33:19:23	w	عَلَى	ﲔ	على	towards	ʿalā
+8	33:19:24	w	ٱلۡخَيۡرِۚ	ﲕﲖ	الخير	the good	l-khayri
+8	33:19:25	w	أُوْلَٰٓئِكَ	ﲗ	اولايك	Those	ulāika
+8	33:19:26	w	لَمۡ	ﲘ	لم	not	lam
+8	33:19:27	w	يُؤۡمِنُواْ	ﲙ	يومنوا	they have believed	yu'minū
+8	33:19:28	w	فَأَحۡبَطَ	ﲚ	فاحبط	so Allah made worthless	fa-aḥbaṭa
+9	33:19:29	w	ٱللَّهُ	ﲛ	الله	so Allah made worthless	l-lahu
+9	33:19:30	w	أَعۡمَٰلَهُمۡۚ	ﲜﲝ	اعمالهم	their deeds	aʿmālahum
+9	33:19:31	w	وَكَانَ	ﲞ	وكان	And is	wakāna
+9	33:19:32	w	ذَٰلِكَ	ﲟ	ذالك	that	dhālika
+9	33:19:33	w	عَلَى	ﲠ	على	for	ʿalā
+9	33:19:34	w	ٱللَّهِ	ﲡ	الله	Allah	l-lahi
+9	33:19:35	w	يَسِيرٗا	ﲢ	يسيرا	easy	yasīran
+9	33:19:36	e	١٩	ﲣ			
+9	33:20:1	w	يَحۡسَبُونَ	ﲤ	يحسبون	They think	yaḥsabūna
+10	33:20:2	w	ٱلۡأَحۡزَابَ	ﲥ	الاحزاب	the confederates	l-aḥzāba
+10	33:20:3	w	لَمۡ	ﲦ	لم	(have) not	lam
+10	33:20:4	w	يَذۡهَبُواْۖ	ﲧﲨ	يذهبوا	withdrawn	yadhhabū
+10	33:20:5	w	وَإِن	ﲩ	وان	And if	wa-in
+10	33:20:6	w	يَأۡتِ	ﲪ	يات	(should) come	yati
+10	33:20:7	w	ٱلۡأَحۡزَابُ	ﲫ	الاحزاب	the confederates	l-aḥzābu
+10	33:20:8	w	يَوَدُّواْ	ﲬ	يودوا	they would wish	yawaddū
+10	33:20:9	w	لَوۡ	ﲭ	لو	if	law
+10	33:20:10	w	أَنَّهُم	ﲮ	انهم	that they (were)	annahum
+11	33:20:11	w	بَادُونَ	ﲯ	بادون	living in (the) desert	bādūna
+11	33:20:12	w	فِي	ﲰ	في	among	fī
+11	33:20:13	w	ٱلۡأَعۡرَابِ	ﲱ	الاعراب	the Bedouins	l-aʿrābi
+11	33:20:14	w	يَسۡـَٔلُونَ	ﲲ	يسالون	asking	yasalūna
+11	33:20:15	w	عَنۡ	ﲳ	عن	about	ʿan
+11	33:20:16	w	أَنۢبَآئِكُمۡۖ	ﲴﲵ	انبايكم	your news	anbāikum
+11	33:20:17	w	وَلَوۡ	ﲶ	ولو	And if	walaw
+11	33:20:18	w	كَانُواْ	ﲷ	كانوا	they were	kānū
+11	33:20:19	w	فِيكُم	ﲸ	فيكم	among you	fīkum
+12	33:20:20	w	مَّا	ﲹ	ما	not	mā
+12	33:20:21	w	قَٰتَلُوٓاْ	ﲺ	قاتلوا	they would fight	qātalū
+12	33:20:22	w	إِلَّا	ﲻ	الا	except	illā
+12	33:20:23	w	قَلِيلٗا	ﲼ	قليلا	a little	qalīlan
+12	33:20:24	e	٢٠	ﲽ			
+12	33:21:1	w	لَّقَدۡ	ﲾ	لقد	Certainly	laqad
+12	33:21:2	w	كَانَ	ﲿ	كان	is	kāna
+12	33:21:3	w	لَكُمۡ	ﳀ	لكم	for you	lakum
+12	33:21:4	w	فِي	ﳁ	في	in	fī
+12	33:21:5	w	رَسُولِ	ﳂ	رسول	(the) Messenger	rasūli
+12	33:21:6	w	ٱللَّهِ	ﳃ	الله	(of) Allah	l-lahi
+12	33:21:7	w	أُسۡوَةٌ	ﳄ	اسوة	an excellent example	us'watun
+12	33:21:8	w	حَسَنَةٞ	ﳅ	حسنة	an excellent example	ḥasanatun
+13	33:21:9	w	لِّمَن	ﳆ	لمن	for (one) who	liman
+13	33:21:10	w	كَانَ	ﳇ	كان	has	kāna
+13	33:21:11	w	يَرۡجُواْ	ﳈ	يرجو	hope	yarjū
+13	33:21:12	w	ٱللَّهَ	ﳉ	الله	(in) Allah	l-laha
+13	33:21:13	w	وَٱلۡيَوۡمَ	ﳊ	واليوم	and the Day	wal-yawma
+13	33:21:14	w	ٱلۡأٓخِرَ	ﳋ	الاخر	the Last	l-ākhira
+13	33:21:15	w	وَذَكَرَ	ﳌ	وذكر	and remembers	wadhakara
+13	33:21:16	w	ٱللَّهَ	ﳍ	الله	Allah	l-laha
+13	33:21:17	w	كَثِيرٗا	ﳎ	كثيرا	much	kathīran
+13	33:21:18	e	٢١	ﳏ			
+14	33:22:1	w	وَلَمَّا	ﳐ	ولما	And when	walammā
+14	33:22:2	w	رَءَا	ﳑ	راى	saw	raā
+14	33:22:3	w	ٱلۡمُؤۡمِنُونَ	ﳒ	المومنون	the believers	l-mu'minūna
+14	33:22:4	w	ٱلۡأَحۡزَابَ	ﳓ	الاحزاب	the confederates	l-aḥzāba
+14	33:22:5	w	قَالُواْ	ﳔ	قالوا	they said	qālū
+14	33:22:6	w	هَٰذَا	ﳕ	هاذا	This	hādhā
+14	33:22:7	w	مَا	ﳖ	ما	(is) what	mā
+14	33:22:8	w	وَعَدَنَا	ﳗ	وعدنا	Allah promised us	waʿadanā
+14	33:22:9	w	ٱللَّهُ	ﳘ	الله	Allah promised us	l-lahu
+14	33:22:10	w	وَرَسُولُهُۥ	ﳙ	ورسوله	and His Messenger	warasūluhu
+15	33:22:11	w	وَصَدَقَ	ﳚ	وصدق	and Allah spoke the truth	waṣadaqa
+15	33:22:12	w	ٱللَّهُ	ﳛ	الله	and Allah spoke the truth	l-lahu
+15	33:22:13	w	وَرَسُولُهُۥۚ	ﳜﳝ	ورسوله	and His Messenger	warasūluhu
+15	33:22:14	w	وَمَا	ﳞ	وما	And not	wamā
+15	33:22:15	w	زَادَهُمۡ	ﳟ	زادهم	it increased them	zādahum
+15	33:22:16	w	إِلَّآ	ﳠ	الا	except	illā
+15	33:22:17	w	إِيمَٰنٗا	ﳡ	ايمانا	(in) faith	īmānan
+15	33:22:18	w	وَتَسۡلِيمٗا	ﳢ	وتسليما	and submission	wataslīman
+15	33:22:19	e	٢٢	ﳣ			

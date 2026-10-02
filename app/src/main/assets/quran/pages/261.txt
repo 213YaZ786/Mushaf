@@ -1,0 +1,127 @@
+1	14:43:1	w	مُهۡطِعِينَ	ﱁ	مهطعين	Racing ahead	muh'ṭiʿīna
+1	14:43:2	w	مُقۡنِعِي	ﱂ	مقنعي	raised up	muq'niʿī
+1	14:43:3	w	رُءُوسِهِمۡ	ﱃ	رءوسهم	their heads	ruūsihim
+1	14:43:4	w	لَا	ﱄ	لا	not	lā
+1	14:43:5	w	يَرۡتَدُّ	ﱅ	يرتد	returning	yartaddu
+1	14:43:6	w	إِلَيۡهِمۡ	ﱆ	اليهم	towards them	ilayhim
+1	14:43:7	w	طَرۡفُهُمۡۖ	ﱇﱈ	طرفهم	their gaze	ṭarfuhum
+2	14:43:8	w	وَأَفۡـِٔدَتُهُمۡ	ﱉ	وافيدتهم	and their hearts	wa-afidatuhum
+2	14:43:9	w	هَوَآءٞ	ﱊ	هواء	(are) empty	hawāon
+2	14:43:10	e	٤٣	ﱋ			
+2	14:44:1	w	وَأَنذِرِ	ﱌ	وانذر	And warn	wa-andhiri
+2	14:44:2	w	ٱلنَّاسَ	ﱍ	الناس	the mankind	l-nāsa
+2	14:44:3	w	يَوۡمَ	ﱎ	يوم	(of) a Day	yawma
+2	14:44:4	w	يَأۡتِيهِمُ	ﱏ	ياتيهم	(when) will come to them	yatīhimu
+2	14:44:5	w	ٱلۡعَذَابُ	ﱐ	العذاب	the punishment	l-ʿadhābu
+3	14:44:6	w	فَيَقُولُ	ﱑ	فيقول	then will say	fayaqūlu
+3	14:44:7	w	ٱلَّذِينَ	ﱒ	الذين	those who	alladhīna
+3	14:44:8	w	ظَلَمُواْ	ﱓ	ظلموا	did wrong	ẓalamū
+3	14:44:9	w	رَبَّنَآ	ﱔ	ربنا	Our Lord	rabbanā
+3	14:44:10	w	أَخِّرۡنَآ	ﱕ	اخرنا	Respite us	akhir'nā
+3	14:44:11	w	إِلَىٰٓ	ﱖ	الى	for	ilā
+3	14:44:12	w	أَجَلٖ	ﱗ	اجل	a term	ajalin
+3	14:44:13	w	قَرِيبٖ	ﱘ	قريب	short	qarībin
+3	14:44:14	w	نُّجِبۡ	ﱙ	نجب	we will answer	nujib
+4	14:44:15	w	دَعۡوَتَكَ	ﱚ	دعوتك	Your call	daʿwataka
+4	14:44:16	w	وَنَتَّبِعِ	ﱛ	ونتبع	and we will follow	wanattabiʿi
+4	14:44:17	w	ٱلرُّسُلَۗ	ﱜﱝ	الرسل	the Messengers	l-rusula
+4	14:44:18	w	أَوَلَمۡ	ﱞ	اولم	Had not	awalam
+4	14:44:19	w	تَكُونُوٓاْ	ﱟ	تكونوا	you	takūnū
+4	14:44:20	w	أَقۡسَمۡتُم	ﱠ	اقسمتم	sworn	aqsamtum
+4	14:44:21	w	مِّن	ﱡ	من	before	min
+4	14:44:22	w	قَبۡلُ	ﱢ	قبل	before	qablu
+5	14:44:23	w	مَا	ﱣ	ما	not	mā
+5	14:44:24	w	لَكُم	ﱤ	لكم	for you	lakum
+5	14:44:25	w	مِّن	ﱥ	من	any	min
+5	14:44:26	w	زَوَالٖ	ﱦ	زوال	end	zawālin
+5	14:44:27	e	٤٤	ﱧ			
+5	14:45:1	w	وَسَكَنتُمۡ	ﱨ	وسكنتم	And you dwelt	wasakantum
+5	14:45:2	w	فِي	ﱩ	في	in	fī
+5	14:45:3	w	مَسَٰكِنِ	ﱪ	مساكن	the dwellings	masākini
+5	14:45:4	w	ٱلَّذِينَ	ﱫ	الذين	(of) those who	alladhīna
+5	14:45:5	w	ظَلَمُوٓاْ	ﱬ	ظلموا	wronged	ẓalamū
+6	14:45:6	w	أَنفُسَهُمۡ	ﱭ	انفسهم	themselves	anfusahum
+6	14:45:7	w	وَتَبَيَّنَ	ﱮ	وتبين	and it had become clear	watabayyana
+6	14:45:8	w	لَكُمۡ	ﱯ	لكم	to you	lakum
+6	14:45:9	w	كَيۡفَ	ﱰ	كيف	how	kayfa
+6	14:45:10	w	فَعَلۡنَا	ﱱ	فعلنا	We dealt	faʿalnā
+6	14:45:11	w	بِهِمۡ	ﱲ	بهم	with them	bihim
+6	14:45:12	w	وَضَرَبۡنَا	ﱳ	وضربنا	and We put forth	waḍarabnā
+6	14:45:13	w	لَكُمُ	ﱴ	لكم	for you	lakumu
+7	14:45:14	w	ٱلۡأَمۡثَالَ	ﱵ	الامثال	the examples	l-amthāla
+7	14:45:15	e	٤٥	ﱶ			
+7	14:46:1	w	وَقَدۡ	ﱷ	وقد	And indeed	waqad
+7	14:46:2	w	مَكَرُواْ	ﱸ	مكروا	they planned	makarū
+7	14:46:3	w	مَكۡرَهُمۡ	ﱹ	مكرهم	their plan	makrahum
+7	14:46:4	w	وَعِندَ	ﱺ	وعند	but with	waʿinda
+7	14:46:5	w	ٱللَّهِ	ﱻ	الله	Allah	l-lahi
+7	14:46:6	w	مَكۡرُهُمۡ	ﱼ	مكرهم	(was) their plan	makruhum
+8	14:46:7	w	وَإِن	ﱽ	وان	even if	wa-in
+8	14:46:8	w	كَانَ	ﱾ	كان	was	kāna
+8	14:46:9	w	مَكۡرُهُمۡ	ﱿ	مكرهم	their plan	makruhum
+8	14:46:10	w	لِتَزُولَ	ﲀ	لتزول	that should be moved	litazūla
+8	14:46:11	w	مِنۡهُ	ﲁ	منه	by it	min'hu
+8	14:46:12	w	ٱلۡجِبَالُ	ﲂ	الجبال	the mountains	l-jibālu
+8	14:46:13	e	٤٦	ﲃ			
+8	14:47:1	w	فَلَا	ﲄ	فلا	So (do) not	falā
+9	14:47:2	w	تَحۡسَبَنَّ	ﲅ	تحسبن	think	taḥsabanna
+9	14:47:3	w	ٱللَّهَ	ﲆ	الله	(that) Allah	l-laha
+9	14:47:4	w	مُخۡلِفَ	ﲇ	مخلف	will fail	mukh'lifa
+9	14:47:5	w	وَعۡدِهِۦ	ﲈ	وعده	(to) keep His Promise	waʿdihi
+9	14:47:6	w	رُسُلَهُۥٓۚ	ﲉﲊ	رسله	(to) His Messengers	rusulahu
+9	14:47:7	w	إِنَّ	ﲋ	ان	Indeed	inna
+9	14:47:8	w	ٱللَّهَ	ﲌ	الله	Allah	l-laha
+9	14:47:9	w	عَزِيزٞ	ﲍ	عزيز	(is) All-Mighty	ʿazīzun
+10	14:47:10	w	ذُو	ﲎ	ذو	Owner (of) Retribution	dhū
+10	14:47:11	w	ٱنتِقَامٖ	ﲏ	انتقام	Owner (of) Retribution	intiqāmin
+10	14:47:12	e	٤٧	ﲐ			
+10	14:48:1	w	يَوۡمَ	ﲑ	يوم	(On the) Day	yawma
+10	14:48:2	w	تُبَدَّلُ	ﲒ	تبدل	will be changed	tubaddalu
+10	14:48:3	w	ٱلۡأَرۡضُ	ﲓ	الارض	the earth	l-arḍu
+10	14:48:4	w	غَيۡرَ	ﲔ	غير	(to) other (than)	ghayra
+10	14:48:5	w	ٱلۡأَرۡضِ	ﲕ	الارض	the earth	l-arḍi
+10	14:48:6	w	وَٱلسَّمَٰوَٰتُۖ	ﲖﲗ	والسماوات	and the heavens	wal-samāwātu
+11	14:48:7	w	وَبَرَزُواْ	ﲘ	وبرزوا	and they will come forth	wabarazū
+11	14:48:8	w	لِلَّهِ	ﲙ	لله	before Allah	lillahi
+11	14:48:9	w	ٱلۡوَٰحِدِ	ﲚ	الواحد	the One	l-wāḥidi
+11	14:48:10	w	ٱلۡقَهَّارِ	ﲛ	القهار	the Irresistible	l-qahāri
+11	14:48:11	e	٤٨	ﲜ			
+11	14:49:1	w	وَتَرَى	ﲝ	وترى	And you will see	watarā
+11	14:49:2	w	ٱلۡمُجۡرِمِينَ	ﲞ	المجرمين	the criminals	l-muj'rimīna
+11	14:49:3	w	يَوۡمَئِذٖ	ﲟ	يوميذ	(on) that Day	yawma-idhin
+12	14:49:4	w	مُّقَرَّنِينَ	ﲠ	مقرنين	bound together	muqarranīna
+12	14:49:5	w	فِي	ﲡ	في	in	fī
+12	14:49:6	w	ٱلۡأَصۡفَادِ	ﲢ	الاصفاد	the chains	l-aṣfādi
+12	14:49:7	e	٤٩	ﲣ			
+12	14:50:1	w	سَرَابِيلُهُم	ﲤ	سرابيلهم	Their garments	sarābīluhum
+12	14:50:2	w	مِّن	ﲥ	من	of	min
+12	14:50:3	w	قَطِرَانٖ	ﲦ	قطران	tar	qaṭirānin
+12	14:50:4	w	وَتَغۡشَىٰ	ﲧ	وتغشى	and will cover	wataghshā
+13	14:50:5	w	وُجُوهَهُمُ	ﲨ	وجوههم	their faces	wujūhahumu
+13	14:50:6	w	ٱلنَّارُ	ﲩ	النار	the Fire	l-nāru
+13	14:50:7	e	٥٠	ﲪ			
+13	14:51:1	w	لِيَجۡزِيَ	ﲫ	ليجزي	So that Allah may recompense	liyajziya
+13	14:51:2	w	ٱللَّهُ	ﲬ	الله	So that Allah may recompense	l-lahu
+13	14:51:3	w	كُلَّ	ﲭ	كل	each	kulla
+13	14:51:4	w	نَفۡسٖ	ﲮ	نفس	soul	nafsin
+13	14:51:5	w	مَّا	ﲯ	ما	(for) what	mā
+13	14:51:6	w	كَسَبَتۡۚ	ﲰﲱ	كسبت	it earned	kasabat
+14	14:51:7	w	إِنَّ	ﲲ	ان	Indeed	inna
+14	14:51:8	w	ٱللَّهَ	ﲳ	الله	Allah	l-laha
+14	14:51:9	w	سَرِيعُ	ﲴ	سريع	(is) Swift	sarīʿu
+14	14:51:10	w	ٱلۡحِسَابِ	ﲵ	الحساب	(in) the reckoning	l-ḥisābi
+14	14:51:11	e	٥١	ﲶ			
+14	14:52:1	w	هَٰذَا	ﲷ	هاذا	This	hādhā
+14	14:52:2	w	بَلَٰغٞ	ﲸ	بلاغ	(is) a Message	balāghun
+14	14:52:3	w	لِّلنَّاسِ	ﲹ	للناس	for the mankind	lilnnāsi
+14	14:52:4	w	وَلِيُنذَرُواْ	ﲺ	ولينذروا	that they may be warned	waliyundharū
+14	14:52:5	w	بِهِۦ	ﲻ	به	with it	bihi
+15	14:52:6	w	وَلِيَعۡلَمُوٓاْ	ﲼ	وليعلموا	and that they may know	waliyaʿlamū
+15	14:52:7	w	أَنَّمَا	ﲽ	انما	that only	annamā
+15	14:52:8	w	هُوَ	ﲾ	هو	He	huwa
+15	14:52:9	w	إِلَٰهٞ	ﲿ	الاه	(is) One God	ilāhun
+15	14:52:10	w	وَٰحِدٞ	ﳀ	واحد	(is) One God	wāḥidun
+15	14:52:11	w	وَلِيَذَّكَّرَ	ﳁ	وليذكر	and that may take heed	waliyadhakkara
+15	14:52:12	w	أُوْلُواْ	ﳂ	اولو	men	ulū
+15	14:52:13	w	ٱلۡأَلۡبَٰبِ	ﳃ	الالباب	(of) understanding	l-albābi
+15	14:52:14	e	٥٢	ﳄ			

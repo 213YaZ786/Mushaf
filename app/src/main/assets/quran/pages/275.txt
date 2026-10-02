@@ -1,0 +1,140 @@
+1	16:73:1	w	وَيَعۡبُدُونَ	ﱁ	ويعبدون	And they worship	wayaʿbudūna
+1	16:73:2	w	مِن	ﱂ	من	other than	min
+1	16:73:3	w	دُونِ	ﱃ	دون	other than	dūni
+1	16:73:4	w	ٱللَّهِ	ﱄ	الله	Allah	l-lahi
+1	16:73:5	w	مَا	ﱅ	ما	which	mā
+1	16:73:6	w	لَا	ﱆ	لا	not	lā
+1	16:73:7	w	يَمۡلِكُ	ﱇ	يملك	possesses	yamliku
+1	16:73:8	w	لَهُمۡ	ﱈ	لهم	for them	lahum
+1	16:73:9	w	رِزۡقٗا	ﱉ	رزقا	any provision	riz'qan
+1	16:73:10	w	مِّنَ	ﱊ	من	from	mina
+1	16:73:11	w	ٱلسَّمَٰوَٰتِ	ﱋ	السماوات	the heavens	l-samāwāti
+2	16:73:12	w	وَٱلۡأَرۡضِ	ﱌ	والارض	and the earth	wal-arḍi
+2	16:73:13	w	شَيۡـٔٗا	ﱍ	شييا	[anything]	shayan
+2	16:73:14	w	وَلَا	ﱎ	ولا	and not	walā
+2	16:73:15	w	يَسۡتَطِيعُونَ	ﱏ	يستطيعون	they are able	yastaṭīʿūna
+2	16:73:16	e	٧٣	ﱐ			
+2	16:74:1	w	فَلَا	ﱑ	فلا	So (do) not	falā
+2	16:74:2	w	تَضۡرِبُواْ	ﱒ	تضربوا	put forth	taḍribū
+2	16:74:3	w	لِلَّهِ	ﱓ	لله	for Allah	lillahi
+2	16:74:4	w	ٱلۡأَمۡثَالَۚ	ﱔﱕ	الامثال	the similitude	l-amthāla
+3	16:74:5	w	إِنَّ	ﱖ	ان	Indeed	inna
+3	16:74:6	w	ٱللَّهَ	ﱗ	الله	Allah	l-laha
+3	16:74:7	w	يَعۡلَمُ	ﱘ	يعلم	knows	yaʿlamu
+3	16:74:8	w	وَأَنتُمۡ	ﱙ	وانتم	and you	wa-antum
+3	16:74:9	w	لَا	ﱚ	لا	(do) not	lā
+3	16:74:10	w	تَعۡلَمُونَ	ﱛ	تعلمون	know	taʿlamūna
+3	16:74:11	e	٧٤	ﱜ			
+3	16:75:1	w	۞ ضَرَبَ	ﱝ ﱞ	۞ ضرب	Allah sets forth	ḍaraba
+3	16:75:2	w	ٱللَّهُ	ﱟ	الله	Allah sets forth	l-lahu
+3	16:75:3	w	مَثَلًا	ﱠ	مثلا	the example	mathalan
+3	16:75:4	w	عَبۡدٗا	ﱡ	عبدا	(of) a slave	ʿabdan
+4	16:75:5	w	مَّمۡلُوكٗا	ﱢ	مملوكا	(who is) owned	mamlūkan
+4	16:75:6	w	لَّا	ﱣ	لا	not	lā
+4	16:75:7	w	يَقۡدِرُ	ﱤ	يقدر	he has power	yaqdiru
+4	16:75:8	w	عَلَىٰ	ﱥ	على	on	ʿalā
+4	16:75:9	w	شَيۡءٖ	ﱦ	شيء	anything	shayin
+4	16:75:10	w	وَمَن	ﱧ	ومن	and (one) whom	waman
+4	16:75:11	w	رَّزَقۡنَٰهُ	ﱨ	رزقناه	We provided him	razaqnāhu
+4	16:75:12	w	مِنَّا	ﱩ	منا	from Us	minnā
+4	16:75:13	w	رِزۡقًا	ﱪ	رزقا	a provision	riz'qan
+4	16:75:14	w	حَسَنٗا	ﱫ	حسنا	good	ḥasanan
+5	16:75:15	w	فَهُوَ	ﱬ	فهو	so he	fahuwa
+5	16:75:16	w	يُنفِقُ	ﱭ	ينفق	spends	yunfiqu
+5	16:75:17	w	مِنۡهُ	ﱮ	منه	from it	min'hu
+5	16:75:18	w	سِرّٗا	ﱯ	سرا	secretly	sirran
+5	16:75:19	w	وَجَهۡرًاۖ	ﱰﱱ	وجهرا	and publicly	wajahran
+5	16:75:20	w	هَلۡ	ﱲ	هل	Can	hal
+5	16:75:21	w	يَسۡتَوُۥنَۚ	ﱳﱴ	يستوون	they be equal	yastawūna
+5	16:75:22	w	ٱلۡحَمۡدُ	ﱵ	الحمد	All praise	l-ḥamdu
+5	16:75:23	w	لِلَّهِۚ	ﱶﱷ	لله	(is) for Allah	lillahi
+6	16:75:24	w	بَلۡ	ﱸ	بل	Nay	bal
+6	16:75:25	w	أَكۡثَرُهُمۡ	ﱹ	اكثرهم	but most of them	aktharuhum
+6	16:75:26	w	لَا	ﱺ	لا	(do) not	lā
+6	16:75:27	w	يَعۡلَمُونَ	ﱻ	يعلمون	know	yaʿlamūna
+6	16:75:28	e	٧٥	ﱼ			
+6	16:76:1	w	وَضَرَبَ	ﱽ	وضرب	And Allah sets forth	waḍaraba
+6	16:76:2	w	ٱللَّهُ	ﱾ	الله	And Allah sets forth	l-lahu
+6	16:76:3	w	مَثَلٗا	ﱿ	مثلا	an example	mathalan
+6	16:76:4	w	رَّجُلَيۡنِ	ﲀ	رجلين	(of) two men	rajulayni
+7	16:76:5	w	أَحَدُهُمَآ	ﲁ	احدهما	one of them	aḥaduhumā
+7	16:76:6	w	أَبۡكَمُ	ﲂ	ابكم	(is) dumb	abkamu
+7	16:76:7	w	لَا	ﲃ	لا	not	lā
+7	16:76:8	w	يَقۡدِرُ	ﲄ	يقدر	he has power	yaqdiru
+7	16:76:9	w	عَلَىٰ	ﲅ	على	on	ʿalā
+7	16:76:10	w	شَيۡءٖ	ﲆ	شيء	anything	shayin
+7	16:76:11	w	وَهُوَ	ﲇ	وهو	while he	wahuwa
+7	16:76:12	w	كَلٌّ	ﲈ	كل	(is) a burden	kallun
+7	16:76:13	w	عَلَىٰ	ﲉ	على	on	ʿalā
+7	16:76:14	w	مَوۡلَىٰهُ	ﲊ	مولاه	his master	mawlāhu
+8	16:76:15	w	أَيۡنَمَا	ﲋ	اينما	Wherever	aynamā
+8	16:76:16	w	يُوَجِّههُّ	ﲌ	يوجهه	he directs him	yuwajjihhu
+8	16:76:17	w	لَا	ﲍ	لا	not	lā
+8	16:76:18	w	يَأۡتِ	ﲎ	يات	he comes	yati
+8	16:76:19	w	بِخَيۡرٍ	ﲏ	بخير	with any good	bikhayrin
+8	16:76:20	w	هَلۡ	ﲐ	هل	Is	hal
+8	16:76:21	w	يَسۡتَوِي	ﲑ	يستوي	equal	yastawī
+8	16:76:22	w	هُوَ	ﲒ	هو	he	huwa
+8	16:76:23	w	وَمَن	ﲓ	ومن	and (the one) who	waman
+8	16:76:24	w	يَأۡمُرُ	ﲔ	يامر	commands	yamuru
+9	16:76:25	w	بِٱلۡعَدۡلِ	ﲕ	بالعدل	[of] justice	bil-ʿadli
+9	16:76:26	w	وَهُوَ	ﲖ	وهو	and he	wahuwa
+9	16:76:27	w	عَلَىٰ	ﲗ	على	(is) on	ʿalā
+9	16:76:28	w	صِرَٰطٖ	ﲘ	صراط	a path	ṣirāṭin
+9	16:76:29	w	مُّسۡتَقِيمٖ	ﲙ	مستقيم	straight	mus'taqīmin
+9	16:76:30	e	٧٦	ﲚ			
+9	16:77:1	w	وَلِلَّهِ	ﲛ	ولله	And to Allah (belongs)	walillahi
+9	16:77:2	w	غَيۡبُ	ﲜ	غيب	(the) unseen	ghaybu
+10	16:77:3	w	ٱلسَّمَٰوَٰتِ	ﲝ	السماوات	(of) the heavens	l-samāwāti
+10	16:77:4	w	وَٱلۡأَرۡضِۚ	ﲞﲟ	والارض	and the earth	wal-arḍi
+10	16:77:5	w	وَمَآ	ﲠ	وما	And not	wamā
+10	16:77:6	w	أَمۡرُ	ﲡ	امر	(is the) matter	amru
+10	16:77:7	w	ٱلسَّاعَةِ	ﲢ	الساعة	(of) the Hour	l-sāʿati
+10	16:77:8	w	إِلَّا	ﲣ	الا	but	illā
+10	16:77:9	w	كَلَمۡحِ	ﲤ	كلمح	as a twinkling	kalamḥi
+11	16:77:10	w	ٱلۡبَصَرِ	ﲥ	البصر	(of) the eye	l-baṣari
+11	16:77:11	w	أَوۡ	ﲦ	او	or	aw
+11	16:77:12	w	هُوَ	ﲧ	هو	it	huwa
+11	16:77:13	w	أَقۡرَبُۚ	ﲨﲩ	اقرب	(is) nearer	aqrabu
+11	16:77:14	w	إِنَّ	ﲪ	ان	Indeed	inna
+11	16:77:15	w	ٱللَّهَ	ﲫ	الله	Allah	l-laha
+11	16:77:16	w	عَلَىٰ	ﲬ	على	on	ʿalā
+11	16:77:17	w	كُلِّ	ﲭ	كل	every	kulli
+11	16:77:18	w	شَيۡءٖ	ﲮ	شيء	thing	shayin
+11	16:77:19	w	قَدِيرٞ	ﲯ	قدير	(is) All-Powerful	qadīrun
+11	16:77:20	e	٧٧	ﲰ			
+12	16:78:1	w	وَٱللَّهُ	ﲱ	والله	And Allah	wal-lahu
+12	16:78:2	w	أَخۡرَجَكُم	ﲲ	اخرجكم	brought you forth	akhrajakum
+12	16:78:3	w	مِّنۢ	ﲳ	من	from	min
+12	16:78:4	w	بُطُونِ	ﲴ	بطون	the wombs	buṭūni
+12	16:78:5	w	أُمَّهَٰتِكُمۡ	ﲵ	امهاتكم	(of) your mothers	ummahātikum
+12	16:78:6	w	لَا	ﲶ	لا	not	lā
+12	16:78:7	w	تَعۡلَمُونَ	ﲷ	تعلمون	knowing	taʿlamūna
+12	16:78:8	w	شَيۡـٔٗا	ﲸ	شييا	anything	shayan
+13	16:78:9	w	وَجَعَلَ	ﲹ	وجعل	and made	wajaʿala
+13	16:78:10	w	لَكُمُ	ﲺ	لكم	for you	lakumu
+13	16:78:11	w	ٱلسَّمۡعَ	ﲻ	السمع	the hearing	l-samʿa
+13	16:78:12	w	وَٱلۡأَبۡصَٰرَ	ﲼ	والابصار	and the sight	wal-abṣāra
+13	16:78:13	w	وَٱلۡأَفۡـِٔدَةَ	ﲽ	والافيدة	and the hearts	wal-afidata
+13	16:78:14	w	لَعَلَّكُمۡ	ﲾ	لعلكم	so that you may	laʿallakum
+14	16:78:15	w	تَشۡكُرُونَ	ﲿ	تشكرون	give thanks	tashkurūna
+14	16:78:16	e	٧٨	ﳀ			
+14	16:79:1	w	أَلَمۡ	ﳁ	الم	Do not	alam
+14	16:79:2	w	يَرَوۡاْ	ﳂ	يروا	they see	yaraw
+14	16:79:3	w	إِلَى	ﳃ	الى	towards	ilā
+14	16:79:4	w	ٱلطَّيۡرِ	ﳄ	الطير	the birds	l-ṭayri
+14	16:79:5	w	مُسَخَّرَٰتٖ	ﳅ	مسخرات	controlled	musakharātin
+14	16:79:6	w	فِي	ﳆ	في	in	fī
+14	16:79:7	w	جَوِّ	ﳇ	جو	the midst	jawwi
+14	16:79:8	w	ٱلسَّمَآءِ	ﳈ	السماء	(of) the sky	l-samāi
+15	16:79:9	w	مَا	ﳉ	ما	None	mā
+15	16:79:10	w	يُمۡسِكُهُنَّ	ﳊ	يمسكهن	holds them up	yum'sikuhunna
+15	16:79:11	w	إِلَّا	ﳋ	الا	except	illā
+15	16:79:12	w	ٱللَّهُۚ	ﳌﳍ	الله	Allah	l-lahu
+15	16:79:13	w	إِنَّ	ﳎ	ان	Indeed	inna
+15	16:79:14	w	فِي	ﳏ	في	in	fī
+15	16:79:15	w	ذَٰلِكَ	ﳐ	ذالك	that	dhālika
+15	16:79:16	w	لَأٓيَٰتٖ	ﳑ	لايات	(are) Signs	laāyātin
+15	16:79:17	w	لِّقَوۡمٖ	ﳒ	لقوم	for a people	liqawmin
+15	16:79:18	w	يُؤۡمِنُونَ	ﳓ	يومنون	who believe	yu'minūna
+15	16:79:19	e	٧٩	ﳔ			

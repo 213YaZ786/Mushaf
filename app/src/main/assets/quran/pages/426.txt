@@ -1,0 +1,135 @@
+1	33:55:1	w	لَّا	ﱁ	لا	(There is) no	lā
+1	33:55:2	w	جُنَاحَ	ﱂ	جناح	blame	junāḥa
+1	33:55:3	w	عَلَيۡهِنَّ	ﱃ	عليهن	upon them	ʿalayhinna
+1	33:55:4	w	فِيٓ	ﱄ	في	concerning	fī
+1	33:55:5	w	ءَابَآئِهِنَّ	ﱅ	ابايهن	their fathers	ābāihinna
+1	33:55:6	w	وَلَآ	ﱆ	ولا	and not	walā
+1	33:55:7	w	أَبۡنَآئِهِنَّ	ﱇ	ابنايهن	their sons	abnāihinna
+1	33:55:8	w	وَلَآ	ﱈ	ولا	and not	walā
+1	33:55:9	w	إِخۡوَٰنِهِنَّ	ﱉ	اخوانهن	their brothers	ikh'wānihinna
+1	33:55:10	w	وَلَآ	ﱊ	ولا	and not	walā
+2	33:55:11	w	أَبۡنَآءِ	ﱋ	ابناء	sons	abnāi
+2	33:55:12	w	إِخۡوَٰنِهِنَّ	ﱌ	اخوانهن	(of) their brothers	ikh'wānihinna
+2	33:55:13	w	وَلَآ	ﱍ	ولا	and not	walā
+2	33:55:14	w	أَبۡنَآءِ	ﱎ	ابناء	sons	abnāi
+2	33:55:15	w	أَخَوَٰتِهِنَّ	ﱏ	اخواتهن	(of) their sisters	akhawātihinna
+2	33:55:16	w	وَلَا	ﱐ	ولا	and not	walā
+2	33:55:17	w	نِسَآئِهِنَّ	ﱑ	نسايهن	their women	nisāihinna
+2	33:55:18	w	وَلَا	ﱒ	ولا	and not	walā
+2	33:55:19	w	مَا	ﱓ	ما	what	mā
+2	33:55:20	w	مَلَكَتۡ	ﱔ	ملكت	they rightfully possess	malakat
+3	33:55:21	w	أَيۡمَٰنُهُنَّۗ	ﱕﱖ	ايمانهن	they rightfully possess	aymānuhunna
+3	33:55:22	w	وَٱتَّقِينَ	ﱗ	واتقين	And fear	wa-ittaqīna
+3	33:55:23	w	ٱللَّهَۚ	ﱘﱙ	الله	Allah	l-laha
+3	33:55:24	w	إِنَّ	ﱚ	ان	Indeed	inna
+3	33:55:25	w	ٱللَّهَ	ﱛ	الله	Allah	l-laha
+3	33:55:26	w	كَانَ	ﱜ	كان	is	kāna
+3	33:55:27	w	عَلَىٰ	ﱝ	على	over	ʿalā
+3	33:55:28	w	كُلِّ	ﱞ	كل	all	kulli
+3	33:55:29	w	شَيۡءٖ	ﱟ	شيء	things	shayin
+3	33:55:30	w	شَهِيدًا	ﱠ	شهيدا	a Witness	shahīdan
+4	33:55:31	e	٥٥	ﱡ			
+4	33:56:1	w	إِنَّ	ﱢ	ان	Indeed	inna
+4	33:56:2	w	ٱللَّهَ	ﱣ	الله	Allah	l-laha
+4	33:56:3	w	وَمَلَٰٓئِكَتَهُۥ	ﱤ	وملايكته	and His Angels	wamalāikatahu
+4	33:56:4	w	يُصَلُّونَ	ﱥ	يصلون	send blessings	yuṣallūna
+4	33:56:5	w	عَلَى	ﱦ	على	upon	ʿalā
+4	33:56:6	w	ٱلنَّبِيِّۚ	ﱧﱨ	النبي	the Prophet	l-nabiyi
+4	33:56:7	w	يَٰٓأَيُّهَا	ﱩ	يا ايها	O you who believe	yāayyuhā
+4	33:56:8	w	ٱلَّذِينَ	ﱪ	الذين	O you who believe	alladhīna
+5	33:56:9	w	ءَامَنُواْ	ﱫ	امنوا	O you who believe	āmanū
+5	33:56:10	w	صَلُّواْ	ﱬ	صلوا	Send blessings	ṣallū
+5	33:56:11	w	عَلَيۡهِ	ﱭ	عليه	on him	ʿalayhi
+5	33:56:12	w	وَسَلِّمُواْ	ﱮ	وسلموا	and greet him	wasallimū
+5	33:56:13	w	تَسۡلِيمًا	ﱯ	تسليما	(with) greetings	taslīman
+5	33:56:14	e	٥٦	ﱰ			
+5	33:57:1	w	إِنَّ	ﱱ	ان	Indeed	inna
+5	33:57:2	w	ٱلَّذِينَ	ﱲ	الذين	those who	alladhīna
+5	33:57:3	w	يُؤۡذُونَ	ﱳ	يوذون	annoy	yu'dhūna
+6	33:57:4	w	ٱللَّهَ	ﱴ	الله	Allah	l-laha
+6	33:57:5	w	وَرَسُولَهُۥ	ﱵ	ورسوله	and His Messenger	warasūlahu
+6	33:57:6	w	لَعَنَهُمُ	ﱶ	لعنهم	Allah has cursed them	laʿanahumu
+6	33:57:7	w	ٱللَّهُ	ﱷ	الله	Allah has cursed them	l-lahu
+6	33:57:8	w	فِي	ﱸ	في	in	fī
+6	33:57:9	w	ٱلدُّنۡيَا	ﱹ	الدنيا	the world	l-dun'yā
+6	33:57:10	w	وَٱلۡأٓخِرَةِ	ﱺ	والاخرة	and the Hereafter	wal-ākhirati
+6	33:57:11	w	وَأَعَدَّ	ﱻ	واعد	and prepared	wa-aʿadda
+6	33:57:12	w	لَهُمۡ	ﱼ	لهم	for them	lahum
+6	33:57:13	w	عَذَابٗا	ﱽ	عذابا	a punishment	ʿadhāban
+7	33:57:14	w	مُّهِينٗا	ﱾ	مهينا	humiliating	muhīnan
+7	33:57:15	e	٥٧	ﱿ			
+7	33:58:1	w	وَٱلَّذِينَ	ﲀ	والذين	And those who	wa-alladhīna
+7	33:58:2	w	يُؤۡذُونَ	ﲁ	يوذون	harm	yu'dhūna
+7	33:58:3	w	ٱلۡمُؤۡمِنِينَ	ﲂ	المومنين	the believing men	l-mu'minīna
+7	33:58:4	w	وَٱلۡمُؤۡمِنَٰتِ	ﲃ	والمومنات	and the believing women	wal-mu'mināti
+7	33:58:5	w	بِغَيۡرِ	ﲄ	بغير	for other than	bighayri
+8	33:58:6	w	مَا	ﲅ	ما	what	mā
+8	33:58:7	w	ٱكۡتَسَبُواْ	ﲆ	اكتسبوا	they have earned	ik'tasabū
+8	33:58:8	w	فَقَدِ	ﲇ	فقد	then certainly	faqadi
+8	33:58:9	w	ٱحۡتَمَلُواْ	ﲈ	احتملوا	they bear	iḥ'tamalū
+8	33:58:10	w	بُهۡتَٰنٗا	ﲉ	بهتانا	false accusation	buh'tānan
+8	33:58:11	w	وَإِثۡمٗا	ﲊ	واثما	and sin	wa-ith'man
+8	33:58:12	w	مُّبِينٗا	ﲋ	مبينا	manifest	mubīnan
+8	33:58:13	e	٥٨	ﲌ			
+9	33:59:1	w	يَٰٓأَيُّهَا	ﲍ	يا ايها	O Prophet	yāayyuhā
+9	33:59:2	w	ٱلنَّبِيُّ	ﲎ	النبي	O Prophet	l-nabiyu
+9	33:59:3	w	قُل	ﲏ	قل	Say	qul
+9	33:59:4	w	لِّأَزۡوَٰجِكَ	ﲐ	لازواجك	to your wives	li-azwājika
+9	33:59:5	w	وَبَنَاتِكَ	ﲑ	وبناتك	and your daughters	wabanātika
+9	33:59:6	w	وَنِسَآءِ	ﲒ	ونساء	and (the) women	wanisāi
+9	33:59:7	w	ٱلۡمُؤۡمِنِينَ	ﲓ	المومنين	(of) the believers	l-mu'minīna
+10	33:59:8	w	يُدۡنِينَ	ﲔ	يدنين	to draw	yud'nīna
+10	33:59:9	w	عَلَيۡهِنَّ	ﲕ	عليهن	over themselves	ʿalayhinna
+10	33:59:10	w	مِن	ﲖ	من	[of]	min
+10	33:59:11	w	جَلَٰبِيبِهِنَّۚ	ﲗﲘ	جلابيبهن	their outer garments	jalābībihinna
+10	33:59:12	w	ذَٰلِكَ	ﲙ	ذالك	That	dhālika
+10	33:59:13	w	أَدۡنَىٰٓ	ﲚ	ادنى	(is) more suitable	adnā
+10	33:59:14	w	أَن	ﲛ	ان	that	an
+10	33:59:15	w	يُعۡرَفۡنَ	ﲜ	يعرفن	they should be known	yuʿ'rafna
+10	33:59:16	w	فَلَا	ﲝ	فلا	and not	falā
+11	33:59:17	w	يُؤۡذَيۡنَۗ	ﲞﲟ	يوذين	harmed	yu'dhayna
+11	33:59:18	w	وَكَانَ	ﲠ	وكان	And is	wakāna
+11	33:59:19	w	ٱللَّهُ	ﲡ	الله	Allah	l-lahu
+11	33:59:20	w	غَفُورٗا	ﲢ	غفورا	Oft-Forgiving	ghafūran
+11	33:59:21	w	رَّحِيمٗا	ﲣ	رحيما	Most Merciful	raḥīman
+11	33:59:22	e	٥٩	ﲤ			
+11	33:60:1	w	۞ لَّئِن	ﲥ ﲦ	۞ لين	If	la-in
+11	33:60:2	w	لَّمۡ	ﲧ	لم	(do) not	lam
+11	33:60:3	w	يَنتَهِ	ﲨ	ينته	cease	yantahi
+11	33:60:4	w	ٱلۡمُنَٰفِقُونَ	ﲩ	المنافقون	the hypocrites	l-munāfiqūna
+12	33:60:5	w	وَٱلَّذِينَ	ﲪ	والذين	and those who	wa-alladhīna
+12	33:60:6	w	فِي	ﲫ	في	in	fī
+12	33:60:7	w	قُلُوبِهِم	ﲬ	قلوبهم	their hearts	qulūbihim
+12	33:60:8	w	مَّرَضٞ	ﲭ	مرض	(is) a disease	maraḍun
+12	33:60:9	w	وَٱلۡمُرۡجِفُونَ	ﲮ	والمرجفون	and those who spread rumors	wal-mur'jifūna
+12	33:60:10	w	فِي	ﲯ	في	in	fī
+12	33:60:11	w	ٱلۡمَدِينَةِ	ﲰ	المدينة	the city	l-madīnati
+13	33:60:12	w	لَنُغۡرِيَنَّكَ	ﲱ	لنغرينك	We will let you overpower them	lanugh'riyannaka
+13	33:60:13	w	بِهِمۡ	ﲲ	بهم	We will let you overpower them	bihim
+13	33:60:14	w	ثُمَّ	ﲳ	ثم	then	thumma
+13	33:60:15	w	لَا	ﲴ	لا	not	lā
+13	33:60:16	w	يُجَاوِرُونَكَ	ﲵ	يجاورونك	they will remain your neighbors	yujāwirūnaka
+13	33:60:17	w	فِيهَآ	ﲶ	فيها	therein	fīhā
+13	33:60:18	w	إِلَّا	ﲷ	الا	except	illā
+13	33:60:19	w	قَلِيلٗا	ﲸ	قليلا	(for) a little	qalīlan
+13	33:60:20	e	٦٠	ﲹ			
+13	33:61:1	w	مَّلۡعُونِينَۖ	ﲺﲻ	ملعونين	Accursed	malʿūnīna
+14	33:61:2	w	أَيۡنَمَا	ﲼ	اينما	wherever	aynamā
+14	33:61:3	w	ثُقِفُوٓاْ	ﲽ	ثقفوا	they are found	thuqifū
+14	33:61:4	w	أُخِذُواْ	ﲾ	اخذوا	they are seized	ukhidhū
+14	33:61:5	w	وَقُتِّلُواْ	ﲿ	وقتلوا	and massacred completely	waquttilū
+14	33:61:6	w	تَقۡتِيلٗا	ﳀ	تقتيلا	and massacred completely	taqtīlan
+14	33:61:7	e	٦١	ﳁ			
+14	33:62:1	w	سُنَّةَ	ﳂ	سنة	(Such is the) Way	sunnata
+14	33:62:2	w	ٱللَّهِ	ﳃ	الله	(of) Allah	l-lahi
+14	33:62:3	w	فِي	ﳄ	في	with	fī
+15	33:62:4	w	ٱلَّذِينَ	ﳅ	الذين	those who	alladhīna
+15	33:62:5	w	خَلَوۡاْ	ﳆ	خلوا	passed away	khalaw
+15	33:62:6	w	مِن	ﳇ	من	before	min
+15	33:62:7	w	قَبۡلُۖ	ﳈﳉ	قبل	before	qablu
+15	33:62:8	w	وَلَن	ﳊ	ولن	and never	walan
+15	33:62:9	w	تَجِدَ	ﳋ	تجد	you will find	tajida
+15	33:62:10	w	لِسُنَّةِ	ﳌ	لسنة	in (the) Way	lisunnati
+15	33:62:11	w	ٱللَّهِ	ﳍ	الله	(of) Allah	l-lahi
+15	33:62:12	w	تَبۡدِيلٗا	ﳎ	تبديلا	any change	tabdīlan
+15	33:62:13	e	٦٢	ﳏ			

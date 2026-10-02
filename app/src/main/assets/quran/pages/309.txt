@@ -1,0 +1,159 @@
+1	19:52:1	w	وَنَٰدَيۡنَٰهُ	ﱁ	وناديناه	And We called him	wanādaynāhu
+1	19:52:2	w	مِن	ﱂ	من	from	min
+1	19:52:3	w	جَانِبِ	ﱃ	جانب	(the) side	jānibi
+1	19:52:4	w	ٱلطُّورِ	ﱄ	الطور	(of) the Mount	l-ṭūri
+1	19:52:5	w	ٱلۡأَيۡمَنِ	ﱅ	الايمن	the right	l-aymani
+1	19:52:6	w	وَقَرَّبۡنَٰهُ	ﱆ	وقربناه	and brought him near	waqarrabnāhu
+1	19:52:7	w	نَجِيّٗا	ﱇ	نجيا	(for) conversation	najiyyan
+1	19:52:8	e	٥٢	ﱈ			
+1	19:53:1	w	وَوَهَبۡنَا	ﱉ	ووهبنا	And We bestowed	wawahabnā
+1	19:53:2	w	لَهُۥ	ﱊ	له	[to] him	lahu
+1	19:53:3	w	مِن	ﱋ	من	from	min
+2	19:53:4	w	رَّحۡمَتِنَآ	ﱌ	رحمتنا	Our Mercy	raḥmatinā
+2	19:53:5	w	أَخَاهُ	ﱍ	اخاه	his brother	akhāhu
+2	19:53:6	w	هَٰرُونَ	ﱎ	هارون	Harun	hārūna
+2	19:53:7	w	نَبِيّٗا	ﱏ	نبيا	a Prophet	nabiyyan
+2	19:53:8	e	٥٣	ﱐ			
+2	19:54:1	w	وَٱذۡكُرۡ	ﱑ	واذكر	And mention	wa-udh'kur
+2	19:54:2	w	فِي	ﱒ	في	in	fī
+2	19:54:3	w	ٱلۡكِتَٰبِ	ﱓ	الكتاب	the Book	l-kitābi
+2	19:54:4	w	إِسۡمَٰعِيلَۚ	ﱔﱕ	اسماعيل	Ishmael	is'māʿīla
+2	19:54:5	w	إِنَّهُۥ	ﱖ	انه	Indeed, he	innahu
+2	19:54:6	w	كَانَ	ﱗ	كان	was	kāna
+3	19:54:7	w	صَادِقَ	ﱘ	صادق	true	ṣādiqa
+3	19:54:8	w	ٱلۡوَعۡدِ	ﱙ	الوعد	(to his) promise	l-waʿdi
+3	19:54:9	w	وَكَانَ	ﱚ	وكان	and was	wakāna
+3	19:54:10	w	رَسُولٗا	ﱛ	رسولا	a Messenger	rasūlan
+3	19:54:11	w	نَّبِيّٗا	ﱜ	نبيا	a Prophet	nabiyyan
+3	19:54:12	e	٥٤	ﱝ			
+3	19:55:1	w	وَكَانَ	ﱞ	وكان	And he used	wakāna
+3	19:55:2	w	يَأۡمُرُ	ﱟ	يامر	(to) enjoin	yamuru
+3	19:55:3	w	أَهۡلَهُۥ	ﱠ	اهله	(on) his people	ahlahu
+3	19:55:4	w	بِٱلصَّلَوٰةِ	ﱡ	بالصلاة	the prayer	bil-ṣalati
+4	19:55:5	w	وَٱلزَّكَوٰةِ	ﱢ	والزكاة	and zakah	wal-zakati
+4	19:55:6	w	وَكَانَ	ﱣ	وكان	and was	wakāna
+4	19:55:7	w	عِندَ	ﱤ	عند	near	ʿinda
+4	19:55:8	w	رَبِّهِۦ	ﱥ	ربه	his Lord	rabbihi
+4	19:55:9	w	مَرۡضِيّٗا	ﱦ	مرضيا	pleasing	marḍiyyan
+4	19:55:10	e	٥٥	ﱧ			
+4	19:56:1	w	وَٱذۡكُرۡ	ﱨ	واذكر	And mention	wa-udh'kur
+4	19:56:2	w	فِي	ﱩ	في	in	fī
+4	19:56:3	w	ٱلۡكِتَٰبِ	ﱪ	الكتاب	the Book	l-kitābi
+4	19:56:4	w	إِدۡرِيسَۚ	ﱫﱬ	ادريس	Idris	id'rīsa
+4	19:56:5	w	إِنَّهُۥ	ﱭ	انه	Indeed, he	innahu
+5	19:56:6	w	كَانَ	ﱮ	كان	was	kāna
+5	19:56:7	w	صِدِّيقٗا	ﱯ	صديقا	truthful	ṣiddīqan
+5	19:56:8	w	نَّبِيّٗا	ﱰ	نبيا	a Prophet	nabiyyan
+5	19:56:9	e	٥٦	ﱱ			
+5	19:57:1	w	وَرَفَعۡنَٰهُ	ﱲ	ورفعناه	And We raised him	warafaʿnāhu
+5	19:57:2	w	مَكَانًا	ﱳ	مكانا	(to) a position	makānan
+5	19:57:3	w	عَلِيًّا	ﱴ	عليا	high	ʿaliyyan
+5	19:57:4	e	٥٧	ﱵ			
+5	19:58:1	w	أُوْلَٰٓئِكَ	ﱶ	اولايك	Those	ulāika
+5	19:58:2	w	ٱلَّذِينَ	ﱷ	الذين	(were) the ones whom	alladhīna
+5	19:58:3	w	أَنۡعَمَ	ﱸ	انعم	Allah bestowed favor	anʿama
+6	19:58:4	w	ٱللَّهُ	ﱹ	الله	Allah bestowed favor	l-lahu
+6	19:58:5	w	عَلَيۡهِم	ﱺ	عليهم	upon them	ʿalayhim
+6	19:58:6	w	مِّنَ	ﱻ	من	from (among)	mina
+6	19:58:7	w	ٱلنَّبِيِّـۧنَ	ﱼ	النبيين	the Prophets	l-nabiyīna
+6	19:58:8	w	مِن	ﱽ	من	of	min
+6	19:58:9	w	ذُرِّيَّةِ	ﱾ	ذرية	(the) offspring	dhurriyyati
+6	19:58:10	w	ءَادَمَ	ﱿ	ادم	(of) Adam	ādama
+6	19:58:11	w	وَمِمَّنۡ	ﲀ	وممن	and of those	wamimman
+6	19:58:12	w	حَمَلۡنَا	ﲁ	حملنا	We carried	ḥamalnā
+6	19:58:13	w	مَعَ	ﲂ	مع	with	maʿa
+6	19:58:14	w	نُوحٖ	ﲃ	نوح	Nuh	nūḥin
+6	19:58:15	w	وَمِن	ﲄ	ومن	and of	wamin
+7	19:58:16	w	ذُرِّيَّةِ	ﲅ	ذرية	(the) offspring	dhurriyyati
+7	19:58:17	w	إِبۡرَٰهِيمَ	ﲆ	ابراهيم	(of) Ibrahim	ib'rāhīma
+7	19:58:18	w	وَإِسۡرَٰٓءِيلَ	ﲇ	واسراييل	and Israel	wa-is'rāīla
+7	19:58:19	w	وَمِمَّنۡ	ﲈ	وممن	and of (those) whom	wamimman
+7	19:58:20	w	هَدَيۡنَا	ﲉ	هدينا	We guided	hadaynā
+7	19:58:21	w	وَٱجۡتَبَيۡنَآۚ	ﲊﲋ	واجتبينا	and We chose	wa-ij'tabaynā
+7	19:58:22	w	إِذَا	ﲌ	اذا	When	idhā
+7	19:58:23	w	تُتۡلَىٰ	ﲍ	تتلى	were recited	tut'lā
+7	19:58:24	w	عَلَيۡهِمۡ	ﲎ	عليهم	to them	ʿalayhim
+8	19:58:25	w	ءَايَٰتُ	ﲏ	ايات	(the) Verses	āyātu
+8	19:58:26	w	ٱلرَّحۡمَٰنِ	ﲐ	الرحمان	(of) the Most Gracious	l-raḥmāni
+8	19:58:27	w	خَرُّواْۤ	ﲑﲒ	خروا	they fell	kharrū
+8	19:58:28	w	سُجَّدٗاۤ	ﲓﲔ	سجدا	prostrating	sujjadan
+8	19:58:29	w	وَبُكِيّٗا ۩	ﲕﲖ	وبكيا ۩	and weeping	wabukiyyan
+8	19:58:30	e	٥٨	ﲗ			
+8	19:59:1	w	۞ فَخَلَفَ	ﲘ ﲙ	۞ فخلف	Then succeeded	fakhalafa
+8	19:59:2	w	مِنۢ	ﲚ	من	after them	min
+8	19:59:3	w	بَعۡدِهِمۡ	ﲛ	بعدهم	after them	baʿdihim
+9	19:59:4	w	خَلۡفٌ	ﲜ	خلف	successors	khalfun
+9	19:59:5	w	أَضَاعُواْ	ﲝ	اضاعوا	who neglected	aḍāʿū
+9	19:59:6	w	ٱلصَّلَوٰةَ	ﲞ	الصلاة	the prayer	l-ṣalata
+9	19:59:7	w	وَٱتَّبَعُواْ	ﲟ	واتبعوا	and they followed	wa-ittabaʿū
+9	19:59:8	w	ٱلشَّهَوَٰتِۖ	ﲠﲡ	الشهوات	the lusts	l-shahawāti
+9	19:59:9	w	فَسَوۡفَ	ﲢ	فسوف	so soon	fasawfa
+9	19:59:10	w	يَلۡقَوۡنَ	ﲣ	يلقون	they will meet	yalqawna
+9	19:59:11	w	غَيًّا	ﲤ	غيا	evil	ghayyan
+10	19:59:12	e	٥٩	ﲥ			
+10	19:60:1	w	إِلَّا	ﲦ	الا	Except	illā
+10	19:60:2	w	مَن	ﲧ	من	(one) who	man
+10	19:60:3	w	تَابَ	ﲨ	تاب	repented	tāba
+10	19:60:4	w	وَءَامَنَ	ﲩ	وامن	and believed	waāmana
+10	19:60:5	w	وَعَمِلَ	ﲪ	وعمل	and did	waʿamila
+10	19:60:6	w	صَٰلِحٗا	ﲫ	صالحا	good (deeds)	ṣāliḥan
+10	19:60:7	w	فَأُوْلَٰٓئِكَ	ﲬ	فاولايك	Then those	fa-ulāika
+10	19:60:8	w	يَدۡخُلُونَ	ﲭ	يدخلون	will enter	yadkhulūna
+10	19:60:9	w	ٱلۡجَنَّةَ	ﲮ	الجنة	Paradise	l-janata
+11	19:60:10	w	وَلَا	ﲯ	ولا	and not	walā
+11	19:60:11	w	يُظۡلَمُونَ	ﲰ	يظلمون	they will be wronged	yuẓ'lamūna
+11	19:60:12	w	شَيۡـٔٗا	ﲱ	شييا	(in) anything	shayan
+11	19:60:13	e	٦٠	ﲲ			
+11	19:61:1	w	جَنَّٰتِ	ﲳ	جنات	Gardens	jannāti
+11	19:61:2	w	عَدۡنٍ	ﲴ	عدن	(of) Eden	ʿadnin
+11	19:61:3	w	ٱلَّتِي	ﲵ	التي	which	allatī
+11	19:61:4	w	وَعَدَ	ﲶ	وعد	promised	waʿada
+11	19:61:5	w	ٱلرَّحۡمَٰنُ	ﲷ	الرحمان	the Most Gracious	l-raḥmānu
+11	19:61:6	w	عِبَادَهُۥ	ﲸ	عباده	(to) His slaves	ʿibādahu
+12	19:61:7	w	بِٱلۡغَيۡبِۚ	ﲹﲺ	بالغيب	in the unseen	bil-ghaybi
+12	19:61:8	w	إِنَّهُۥ	ﲻ	انه	Indeed, [it]	innahu
+12	19:61:9	w	كَانَ	ﲼ	كان	is	kāna
+12	19:61:10	w	وَعۡدُهُۥ	ﲽ	وعده	His promise	waʿduhu
+12	19:61:11	w	مَأۡتِيّٗا	ﲾ	ماتيا	sure to come	matiyyan
+12	19:61:12	e	٦١	ﲿ			
+12	19:62:1	w	لَّا	ﳀ	لا	Not	lā
+12	19:62:2	w	يَسۡمَعُونَ	ﳁ	يسمعون	they will hear	yasmaʿūna
+12	19:62:3	w	فِيهَا	ﳂ	فيها	therein	fīhā
+12	19:62:4	w	لَغۡوًا	ﳃ	لغوا	vain talk	laghwan
+12	19:62:5	w	إِلَّا	ﳄ	الا	but	illā
+13	19:62:6	w	سَلَٰمٗاۖ	ﳅﳆ	سلاما	peace	salāman
+13	19:62:7	w	وَلَهُمۡ	ﳇ	ولهم	And for them	walahum
+13	19:62:8	w	رِزۡقُهُمۡ	ﳈ	رزقهم	(is) their provision	riz'quhum
+13	19:62:9	w	فِيهَا	ﳉ	فيها	therein	fīhā
+13	19:62:10	w	بُكۡرَةٗ	ﳊ	بكرة	morning	buk'ratan
+13	19:62:11	w	وَعَشِيّٗا	ﳋ	وعشيا	and evening	waʿashiyyan
+13	19:62:12	e	٦٢	ﳌ			
+13	19:63:1	w	تِلۡكَ	ﳍ	تلك	This	til'ka
+13	19:63:2	w	ٱلۡجَنَّةُ	ﳎ	الجنة	(is) Paradise	l-janatu
+13	19:63:3	w	ٱلَّتِي	ﳏ	التي	which	allatī
+14	19:63:4	w	نُورِثُ	ﳐ	نورث	We give (as) inheritance	nūrithu
+14	19:63:5	w	مِنۡ	ﳑ	من	[of] (to)	min
+14	19:63:6	w	عِبَادِنَا	ﳒ	عبادنا	Our slaves	ʿibādinā
+14	19:63:7	w	مَن	ﳓ	من	(the one) who	man
+14	19:63:8	w	كَانَ	ﳔ	كان	is	kāna
+14	19:63:9	w	تَقِيّٗا	ﳕ	تقيا	righteous	taqiyyan
+14	19:63:10	e	٦٣	ﳖ			
+14	19:64:1	w	وَمَا	ﳗ	وما	And not	wamā
+14	19:64:2	w	نَتَنَزَّلُ	ﳘ	نتنزل	we descend	natanazzalu
+14	19:64:3	w	إِلَّا	ﳙ	الا	except	illā
+14	19:64:4	w	بِأَمۡرِ	ﳚ	بامر	by (the) Command	bi-amri
+14	19:64:5	w	رَبِّكَۖ	ﳛﳜ	ربك	(of) your Lord	rabbika
+14	19:64:6	w	لَهُۥ	ﳝ	له	To Him (belongs)	lahu
+15	19:64:7	w	مَا	ﳞ	ما	what	mā
+15	19:64:8	w	بَيۡنَ	ﳟ	بين	(is) before us	bayna
+15	19:64:9	w	أَيۡدِينَا	ﳠ	ايدينا	(is) before us	aydīnā
+15	19:64:10	w	وَمَا	ﳡ	وما	and what	wamā
+15	19:64:11	w	خَلۡفَنَا	ﳢ	خلفنا	(is) behind us	khalfanā
+15	19:64:12	w	وَمَا	ﳣ	وما	and what	wamā
+15	19:64:13	w	بَيۡنَ	ﳤ	بين	(is) between	bayna
+15	19:64:14	w	ذَٰلِكَۚ	ﳥﳦ	ذالك	that	dhālika
+15	19:64:15	w	وَمَا	ﳧ	وما	And not	wamā
+15	19:64:16	w	كَانَ	ﳨ	كان	is	kāna
+15	19:64:17	w	رَبُّكَ	ﳩ	ربك	your Lord	rabbuka
+15	19:64:18	w	نَسِيّٗا	ﳪ	نسيا	forgetful	nasiyyan
+15	19:64:19	e	٦٤	ﳫ			

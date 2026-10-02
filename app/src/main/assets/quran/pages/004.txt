@@ -1,0 +1,142 @@
+1	2:17:1	w	مَثَلُهُمۡ	ﱁ	مثلهم	Their example	mathaluhum
+1	2:17:2	w	كَمَثَلِ	ﱂ	كمثل	(is) like (the) example	kamathali
+1	2:17:3	w	ٱلَّذِي	ﱃ	الذي	(of) the one who	alladhī
+1	2:17:4	w	ٱسۡتَوۡقَدَ	ﱄ	استوقد	kindled	is'tawqada
+1	2:17:5	w	نَارٗا	ﱅ	نارا	a fire	nāran
+1	2:17:6	w	فَلَمَّآ	ﱆ	فلما	then, when	falammā
+1	2:17:7	w	أَضَآءَتۡ	ﱇ	اضاءت	it illuminated	aḍāat
+1	2:17:8	w	مَا	ﱈ	ما	what	mā
+1	2:17:9	w	حَوۡلَهُۥ	ﱉ	حوله	(was) around him	ḥawlahu
+2	2:17:10	w	ذَهَبَ	ﱊ	ذهب	took away	dhahaba
+2	2:17:11	w	ٱللَّهُ	ﱋ	الله	Allah	l-lahu
+2	2:17:12	w	بِنُورِهِمۡ	ﱌ	بنورهم	their light	binūrihim
+2	2:17:13	w	وَتَرَكَهُمۡ	ﱍ	وتركهم	and left them	watarakahum
+2	2:17:14	w	فِي	ﱎ	في	in	fī
+2	2:17:15	w	ظُلُمَٰتٖ	ﱏ	ظلمات	darkness[es]	ẓulumātin
+2	2:17:16	w	لَّا	ﱐ	لا	(so) not	lā
+2	2:17:17	w	يُبۡصِرُونَ	ﱑ	يبصرون	(do) they see	yub'ṣirūna
+2	2:17:18	e	١٧	ﱒ			
+2	2:18:1	w	صُمُّۢ	ﱓ	صم	Deaf	ṣummun
+3	2:18:2	w	بُكۡمٌ	ﱔ	بكم	dumb	buk'mun
+3	2:18:3	w	عُمۡيٞ	ﱕ	عمي	blind	ʿum'yun
+3	2:18:4	w	فَهُمۡ	ﱖ	فهم	so they	fahum
+3	2:18:5	w	لَا	ﱗ	لا	not	lā
+3	2:18:6	w	يَرۡجِعُونَ	ﱘ	يرجعون	[they] will not return	yarjiʿūna
+3	2:18:7	e	١٨	ﱙ			
+3	2:19:1	w	أَوۡ	ﱚ	او	Or	aw
+3	2:19:2	w	كَصَيِّبٖ	ﱛ	كصيب	like a rainstorm	kaṣayyibin
+3	2:19:3	w	مِّنَ	ﱜ	من	from	mina
+3	2:19:4	w	ٱلسَّمَآءِ	ﱝ	السماء	the sky	l-samāi
+3	2:19:5	w	فِيهِ	ﱞ	فيه	in it (are)	fīhi
+4	2:19:6	w	ظُلُمَٰتٞ	ﱟ	ظلمات	darkness[es]	ẓulumātun
+4	2:19:7	w	وَرَعۡدٞ	ﱠ	ورعد	and thunder	waraʿdun
+4	2:19:8	w	وَبَرۡقٞ	ﱡ	وبرق	and lightning	wabarqun
+4	2:19:9	w	يَجۡعَلُونَ	ﱢ	يجعلون	They put	yajʿalūna
+4	2:19:10	w	أَصَٰبِعَهُمۡ	ﱣ	اصابعهم	their fingers	aṣābiʿahum
+4	2:19:11	w	فِيٓ	ﱤ	في	in	fī
+4	2:19:12	w	ءَاذَانِهِم	ﱥ	اذانهم	their ears	ādhānihim
+4	2:19:13	w	مِّنَ	ﱦ	من	from	mina
+5	2:19:14	w	ٱلصَّوَٰعِقِ	ﱧ	الصواعق	the thunderclaps	l-ṣawāʿiqi
+5	2:19:15	w	حَذَرَ	ﱨ	حذر	(in) fear (of)	ḥadhara
+5	2:19:16	w	ٱلۡمَوۡتِۚ	ﱩﱪ	الموت	[the] death	l-mawti
+5	2:19:17	w	وَٱللَّهُ	ﱫ	والله	And Allah	wal-lahu
+5	2:19:18	w	مُحِيطُۢ	ﱬ	محيط	(is) [the One Who] encompasses	muḥīṭun
+5	2:19:19	w	بِٱلۡكَٰفِرِينَ	ﱭ	بالكافرين	the disbelievers	bil-kāfirīna
+5	2:19:20	e	١٩	ﱮ			
+5	2:20:1	w	يَكَادُ	ﱯ	يكاد	Almost	yakādu
+5	2:20:2	w	ٱلۡبَرۡقُ	ﱰ	البرق	the lightning	l-barqu
+6	2:20:3	w	يَخۡطَفُ	ﱱ	يخطف	snatches away	yakhṭafu
+6	2:20:4	w	أَبۡصَٰرَهُمۡۖ	ﱲﱳ	ابصارهم	their sight	abṣārahum
+6	2:20:5	w	كُلَّمَآ	ﱴ	كلما	Whenever	kullamā
+6	2:20:6	w	أَضَآءَ	ﱵ	اضاء	it flashes	aḍāa
+6	2:20:7	w	لَهُم	ﱶ	لهم	for them	lahum
+6	2:20:8	w	مَّشَوۡاْ	ﱷ	مشوا	they walk	mashaw
+6	2:20:9	w	فِيهِ	ﱸ	فيه	in it	fīhi
+6	2:20:10	w	وَإِذَآ	ﱹ	واذا	and when	wa-idhā
+6	2:20:11	w	أَظۡلَمَ	ﱺ	اظلم	it darkens	aẓlama
+6	2:20:12	w	عَلَيۡهِمۡ	ﱻ	عليهم	on them	ʿalayhim
+7	2:20:13	w	قَامُواْۚ	ﱼﱽ	قاموا	they stand (still)	qāmū
+7	2:20:14	w	وَلَوۡ	ﱾ	ولو	And if	walaw
+7	2:20:15	w	شَآءَ	ﱿ	شاء	had willed	shāa
+7	2:20:16	w	ٱللَّهُ	ﲀ	الله	Allah	l-lahu
+7	2:20:17	w	لَذَهَبَ	ﲁ	لذهب	He would certainly have taken away	ladhahaba
+7	2:20:18	w	بِسَمۡعِهِمۡ	ﲂ	بسمعهم	their hearing	bisamʿihim
+7	2:20:19	w	وَأَبۡصَٰرِهِمۡۚ	ﲃﲄ	وابصارهم	and their sight	wa-abṣārihim
+7	2:20:20	w	إِنَّ	ﲅ	ان	Indeed	inna
+7	2:20:21	w	ٱللَّهَ	ﲆ	الله	Allah	l-laha
+7	2:20:22	w	عَلَىٰ	ﲇ	على	(is) on	ʿalā
+8	2:20:23	w	كُلِّ	ﲈ	كل	every	kulli
+8	2:20:24	w	شَيۡءٖ	ﲉ	شيء	thing	shayin
+8	2:20:25	w	قَدِيرٞ	ﲊ	قدير	All-Powerful	qadīrun
+8	2:20:26	e	٢٠	ﲋ			
+8	2:21:1	w	يَٰٓأَيُّهَا	ﲌ	يا ايها	O	yāayyuhā
+8	2:21:2	w	ٱلنَّاسُ	ﲍ	الناس	mankind	l-nāsu
+8	2:21:3	w	ٱعۡبُدُواْ	ﲎ	اعبدوا	worship	uʿ'budū
+8	2:21:4	w	رَبَّكُمُ	ﲏ	ربكم	your Lord	rabbakumu
+8	2:21:5	w	ٱلَّذِي	ﲐ	الذي	the One Who	alladhī
+9	2:21:6	w	خَلَقَكُمۡ	ﲑ	خلقكم	created you	khalaqakum
+9	2:21:7	w	وَٱلَّذِينَ	ﲒ	والذين	and those	wa-alladhīna
+9	2:21:8	w	مِن	ﲓ	من	from	min
+9	2:21:9	w	قَبۡلِكُمۡ	ﲔ	قبلكم	before you	qablikum
+9	2:21:10	w	لَعَلَّكُمۡ	ﲕ	لعلكم	so that you may	laʿallakum
+9	2:21:11	w	تَتَّقُونَ	ﲖ	تتقون	become righteous	tattaqūna
+9	2:21:12	e	٢١	ﲗ			
+9	2:22:1	w	ٱلَّذِي	ﲘ	الذي	The One Who	alladhī
+9	2:22:2	w	جَعَلَ	ﲙ	جعل	made	jaʿala
+9	2:22:3	w	لَكُمُ	ﲚ	لكم	for you	lakumu
+10	2:22:4	w	ٱلۡأَرۡضَ	ﲛ	الارض	the earth	l-arḍa
+10	2:22:5	w	فِرَٰشٗا	ﲜ	فراشا	a resting place	firāshan
+10	2:22:6	w	وَٱلسَّمَآءَ	ﲝ	والسماء	and the sky	wal-samāa
+10	2:22:7	w	بِنَآءٗ	ﲞ	بناء	a canopy	bināan
+10	2:22:8	w	وَأَنزَلَ	ﲟ	وانزل	and sent down	wa-anzala
+10	2:22:9	w	مِنَ	ﲠ	من	from	mina
+10	2:22:10	w	ٱلسَّمَآءِ	ﲡ	السماء	the sky	l-samāi
+10	2:22:11	w	مَآءٗ	ﲢ	ماء	water	māan
+10	2:22:12	w	فَأَخۡرَجَ	ﲣ	فاخرج	then brought forth	fa-akhraja
+11	2:22:13	w	بِهِۦ	ﲤ	به	therewith	bihi
+11	2:22:14	w	مِنَ	ﲥ	من	[of]	mina
+11	2:22:15	w	ٱلثَّمَرَٰتِ	ﲦ	الثمرات	the fruits	l-thamarāti
+11	2:22:16	w	رِزۡقٗا	ﲧ	رزقا	(as) provision	riz'qan
+11	2:22:17	w	لَّكُمۡۖ	ﲨﲩ	لكم	for you	lakum
+11	2:22:18	w	فَلَا	ﲪ	فلا	So (do) not	falā
+11	2:22:19	w	تَجۡعَلُواْ	ﲫ	تجعلوا	set up	tajʿalū
+11	2:22:20	w	لِلَّهِ	ﲬ	لله	to Allah	lillahi
+11	2:22:21	w	أَندَادٗا	ﲭ	اندادا	rivals	andādan
+11	2:22:22	w	وَأَنتُمۡ	ﲮ	وانتم	while you	wa-antum
+12	2:22:23	w	تَعۡلَمُونَ	ﲯ	تعلمون	[you] know	taʿlamūna
+12	2:22:24	e	٢٢	ﲰ			
+12	2:23:1	w	وَإِن	ﲱ	وان	And if	wa-in
+12	2:23:2	w	كُنتُمۡ	ﲲ	كنتم	you are	kuntum
+12	2:23:3	w	فِي	ﲳ	في	in	fī
+12	2:23:4	w	رَيۡبٖ	ﲴ	ريب	doubt	raybin
+12	2:23:5	w	مِّمَّا	ﲵ	مما	about what	mimmā
+12	2:23:6	w	نَزَّلۡنَا	ﲶ	نزلنا	We have revealed	nazzalnā
+12	2:23:7	w	عَلَىٰ	ﲷ	على	to	ʿalā
+12	2:23:8	w	عَبۡدِنَا	ﲸ	عبدنا	Our slave	ʿabdinā
+12	2:23:9	w	فَأۡتُواْ	ﲹ	فاتوا	then produce	fatū
+13	2:23:10	w	بِسُورَةٖ	ﲺ	بسورة	a chapter	bisūratin
+13	2:23:11	w	مِّن	ﲻ	من	[of]	min
+13	2:23:12	w	مِّثۡلِهِۦ	ﲼ	مثله	like it	mith'lihi
+13	2:23:13	w	وَٱدۡعُواْ	ﲽ	وادعوا	and call	wa-id'ʿū
+13	2:23:14	w	شُهَدَآءَكُم	ﲾ	شهداءكم	your witnesses	shuhadāakum
+13	2:23:15	w	مِّن	ﲿ	من	from	min
+13	2:23:16	w	دُونِ	ﳀ	دون	other than	dūni
+13	2:23:17	w	ٱللَّهِ	ﳁ	الله	Allah	l-lahi
+13	2:23:18	w	إِن	ﳂ	ان	if	in
+14	2:23:19	w	كُنتُمۡ	ﳃ	كنتم	you are	kuntum
+14	2:23:20	w	صَٰدِقِينَ	ﳄ	صادقين	truthful	ṣādiqīna
+14	2:23:21	e	٢٣	ﳅ			
+14	2:24:1	w	فَإِن	ﳆ	فان	But if	fa-in
+14	2:24:2	w	لَّمۡ	ﳇ	لم	not	lam
+14	2:24:3	w	تَفۡعَلُواْ	ﳈ	تفعلوا	you do	tafʿalū
+14	2:24:4	w	وَلَن	ﳉ	ولن	and never	walan
+14	2:24:5	w	تَفۡعَلُواْ	ﳊ	تفعلوا	will you do	tafʿalū
+14	2:24:6	w	فَٱتَّقُواْ	ﳋ	فاتقوا	then fear	fa-ittaqū
+14	2:24:7	w	ٱلنَّارَ	ﳌ	النار	the Fire	l-nāra
+15	2:24:8	w	ٱلَّتِي	ﳍ	التي	whose	allatī
+15	2:24:9	w	وَقُودُهَا	ﳎ	وقودها	[its] fuel	waqūduhā
+15	2:24:10	w	ٱلنَّاسُ	ﳏ	الناس	(is) [the] men	l-nāsu
+15	2:24:11	w	وَٱلۡحِجَارَةُۖ	ﳐﳑ	والحجارة	and [the] stones	wal-ḥijāratu
+15	2:24:12	w	أُعِدَّتۡ	ﳒ	اعدت	prepared	uʿiddat
+15	2:24:13	w	لِلۡكَٰفِرِينَ	ﳓ	للكافرين	for the disbelievers	lil'kāfirīna
+15	2:24:14	e	٢٤	ﳔ			

@@ -1,0 +1,132 @@
+1	4:122:1	w	وَٱلَّذِينَ	ﱁ	والذين	And those who	wa-alladhīna
+1	4:122:2	w	ءَامَنُواْ	ﱂ	امنوا	believe[d]	āmanū
+1	4:122:3	w	وَعَمِلُواْ	ﱃ	وعملوا	and do	waʿamilū
+1	4:122:4	w	ٱلصَّٰلِحَٰتِ	ﱄ	الصالحات	[the] righteous deeds	l-ṣāliḥāti
+1	4:122:5	w	سَنُدۡخِلُهُمۡ	ﱅ	سندخلهم	We will admit them	sanud'khiluhum
+1	4:122:6	w	جَنَّٰتٖ	ﱆ	جنات	(in) Gardens	jannātin
+2	4:122:7	w	تَجۡرِي	ﱇ	تجري	flow	tajrī
+2	4:122:8	w	مِن	ﱈ	من	from	min
+2	4:122:9	w	تَحۡتِهَا	ﱉ	تحتها	underneath it	taḥtihā
+2	4:122:10	w	ٱلۡأَنۡهَٰرُ	ﱊ	الانهار	the rivers	l-anhāru
+2	4:122:11	w	خَٰلِدِينَ	ﱋ	خالدين	will abide	khālidīna
+2	4:122:12	w	فِيهَآ	ﱌ	فيها	in it	fīhā
+2	4:122:13	w	أَبَدٗاۖ	ﱍﱎ	ابدا	forever	abadan
+2	4:122:14	w	وَعۡدَ	ﱏ	وعد	A Promise	waʿda
+2	4:122:15	w	ٱللَّهِ	ﱐ	الله	(of) Allah	l-lahi
+3	4:122:16	w	حَقّٗاۚ	ﱑﱒ	حقا	(in) truth	ḥaqqan
+3	4:122:17	w	وَمَنۡ	ﱓ	ومن	and who	waman
+3	4:122:18	w	أَصۡدَقُ	ﱔ	اصدق	(is) truer	aṣdaqu
+3	4:122:19	w	مِنَ	ﱕ	من	than	mina
+3	4:122:20	w	ٱللَّهِ	ﱖ	الله	Allah	l-lahi
+3	4:122:21	w	قِيلٗا	ﱗ	قيلا	(in) statement	qīlan
+3	4:122:22	e	١٢٢	ﱘ			
+3	4:123:1	w	لَّيۡسَ	ﱙ	ليس	Not	laysa
+3	4:123:2	w	بِأَمَانِيِّكُمۡ	ﱚ	بامانيكم	by your desire	bi-amāniyyikum
+4	4:123:3	w	وَلَآ	ﱛ	ولا	and not	walā
+4	4:123:4	w	أَمَانِيِّ	ﱜ	اماني	(by the) desire	amāniyyi
+4	4:123:5	w	أَهۡلِ	ﱝ	اهل	(of the) People	ahli
+4	4:123:6	w	ٱلۡكِتَٰبِۗ	ﱞﱟ	الكتاب	(of) the Book	l-kitābi
+4	4:123:7	w	مَن	ﱠ	من	Whoever	man
+4	4:123:8	w	يَعۡمَلۡ	ﱡ	يعمل	does	yaʿmal
+4	4:123:9	w	سُوٓءٗا	ﱢ	سوءا	evil	sūan
+4	4:123:10	w	يُجۡزَ	ﱣ	يجز	will be recompensed	yuj'za
+4	4:123:11	w	بِهِۦ	ﱤ	به	for it	bihi
+5	4:123:12	w	وَلَا	ﱥ	ولا	and not	walā
+5	4:123:13	w	يَجِدۡ	ﱦ	يجد	he will find	yajid
+5	4:123:14	w	لَهُۥ	ﱧ	له	for him	lahu
+5	4:123:15	w	مِن	ﱨ	من	from	min
+5	4:123:16	w	دُونِ	ﱩ	دون	besides	dūni
+5	4:123:17	w	ٱللَّهِ	ﱪ	الله	Allah	l-lahi
+5	4:123:18	w	وَلِيّٗا	ﱫ	وليا	any protector	waliyyan
+5	4:123:19	w	وَلَا	ﱬ	ولا	and not	walā
+5	4:123:20	w	نَصِيرٗا	ﱭ	نصيرا	any helper	naṣīran
+5	4:123:21	e	١٢٣	ﱮ			
+5	4:124:1	w	وَمَن	ﱯ	ومن	And whoever	waman
+6	4:124:2	w	يَعۡمَلۡ	ﱰ	يعمل	does	yaʿmal
+6	4:124:3	w	مِنَ	ﱱ	من	[of]	mina
+6	4:124:4	w	ٱلصَّٰلِحَٰتِ	ﱲ	الصالحات	[the] righteous deeds	l-ṣāliḥāti
+6	4:124:5	w	مِن	ﱳ	من	from	min
+6	4:124:6	w	ذَكَرٍ	ﱴ	ذكر	(the) male	dhakarin
+6	4:124:7	w	أَوۡ	ﱵ	او	or	aw
+6	4:124:8	w	أُنثَىٰ	ﱶ	انثى	female	unthā
+6	4:124:9	w	وَهُوَ	ﱷ	وهو	and he	wahuwa
+6	4:124:10	w	مُؤۡمِنٞ	ﱸ	مومن	(is) a believer	mu'minun
+7	4:124:11	w	فَأُوْلَٰٓئِكَ	ﱹ	فاولايك	then those	fa-ulāika
+7	4:124:12	w	يَدۡخُلُونَ	ﱺ	يدخلون	will enter	yadkhulūna
+7	4:124:13	w	ٱلۡجَنَّةَ	ﱻ	الجنة	Paradise	l-janata
+7	4:124:14	w	وَلَا	ﱼ	ولا	and not	walā
+7	4:124:15	w	يُظۡلَمُونَ	ﱽ	يظلمون	they will be wronged	yuẓ'lamūna
+7	4:124:16	w	نَقِيرٗا	ﱾ	نقيرا	(even as much as) the speck on a date-seed	naqīran
+7	4:124:17	e	١٢٤	ﱿ			
+7	4:125:1	w	وَمَنۡ	ﲀ	ومن	And who	waman
+8	4:125:2	w	أَحۡسَنُ	ﲁ	احسن	(is) better	aḥsanu
+8	4:125:3	w	دِينٗا	ﲂ	دينا	(in) religion	dīnan
+8	4:125:4	w	مِّمَّنۡ	ﲃ	ممن	than (one) who	mimman
+8	4:125:5	w	أَسۡلَمَ	ﲄ	اسلم	submits	aslama
+8	4:125:6	w	وَجۡهَهُۥ	ﲅ	وجهه	his face	wajhahu
+8	4:125:7	w	لِلَّهِ	ﲆ	لله	to Allah	lillahi
+8	4:125:8	w	وَهُوَ	ﲇ	وهو	and he	wahuwa
+8	4:125:9	w	مُحۡسِنٞ	ﲈ	محسن	(is) a good-doer	muḥ'sinun
+8	4:125:10	w	وَٱتَّبَعَ	ﲉ	واتبع	and follows	wa-ittabaʿa
+9	4:125:11	w	مِلَّةَ	ﲊ	ملة	(the) religion	millata
+9	4:125:12	w	إِبۡرَٰهِيمَ	ﲋ	ابراهيم	(of) Ibrahim	ib'rāhīma
+9	4:125:13	w	حَنِيفٗاۗ	ﲌﲍ	حنيفا	(the) upright	ḥanīfan
+9	4:125:14	w	وَٱتَّخَذَ	ﲎ	واتخذ	And was taken	wa-ittakhadha
+9	4:125:15	w	ٱللَّهُ	ﲏ	الله	(by) Allah	l-lahu
+9	4:125:16	w	إِبۡرَٰهِيمَ	ﲐ	ابراهيم	Ibrahim	ib'rāhīma
+9	4:125:17	w	خَلِيلٗا	ﲑ	خليلا	(as) a friend	khalīlan
+9	4:125:18	e	١٢٥	ﲒ			
+9	4:126:1	w	وَلِلَّهِ	ﲓ	ولله	And for Allah	walillahi
+10	4:126:2	w	مَا	ﲔ	ما	(is) what	mā
+10	4:126:3	w	فِي	ﲕ	في	(is) in	fī
+10	4:126:4	w	ٱلسَّمَٰوَٰتِ	ﲖ	السماوات	the heavens	l-samāwāti
+10	4:126:5	w	وَمَا	ﲗ	وما	and what	wamā
+10	4:126:6	w	فِي	ﲘ	في	(is) in	fī
+10	4:126:7	w	ٱلۡأَرۡضِۚ	ﲙﲚ	الارض	the earth	l-arḍi
+10	4:126:8	w	وَكَانَ	ﲛ	وكان	and is	wakāna
+10	4:126:9	w	ٱللَّهُ	ﲜ	الله	Allah	l-lahu
+10	4:126:10	w	بِكُلِّ	ﲝ	بكل	of every	bikulli
+10	4:126:11	w	شَيۡءٖ	ﲞ	شيء	thing	shayin
+11	4:126:12	w	مُّحِيطٗا	ﲟ	محيطا	All-Encompassing	muḥīṭan
+11	4:126:13	e	١٢٦	ﲠ			
+11	4:127:1	w	وَيَسۡتَفۡتُونَكَ	ﲡ	ويستفتونك	And they seek your ruling	wayastaftūnaka
+11	4:127:2	w	فِي	ﲢ	في	concerning	fī
+11	4:127:3	w	ٱلنِّسَآءِۖ	ﲣﲤ	النساء	the women	l-nisāi
+11	4:127:4	w	قُلِ	ﲥ	قل	Say	quli
+11	4:127:5	w	ٱللَّهُ	ﲦ	الله	Allah	l-lahu
+11	4:127:6	w	يُفۡتِيكُمۡ	ﲧ	يفتيكم	gives you the ruling	yuf'tīkum
+12	4:127:7	w	فِيهِنَّ	ﲨ	فيهن	about them	fīhinna
+12	4:127:8	w	وَمَا	ﲩ	وما	and what	wamā
+12	4:127:9	w	يُتۡلَىٰ	ﲪ	يتلى	is recited	yut'lā
+12	4:127:10	w	عَلَيۡكُمۡ	ﲫ	عليكم	to you	ʿalaykum
+12	4:127:11	w	فِي	ﲬ	في	in	fī
+12	4:127:12	w	ٱلۡكِتَٰبِ	ﲭ	الكتاب	the Book	l-kitābi
+12	4:127:13	w	فِي	ﲮ	في	concerning	fī
+12	4:127:14	w	يَتَٰمَى	ﲯ	يتامى	orphans	yatāmā
+12	4:127:15	w	ٱلنِّسَآءِ	ﲰ	النساء	(of) girls	l-nisāi
+13	4:127:16	w	ٱلَّٰتِي	ﲱ	اللاتي	(to) whom	allātī
+13	4:127:17	w	لَا	ﲲ	لا	not	lā
+13	4:127:18	w	تُؤۡتُونَهُنَّ	ﲳ	توتونهن	(do) you give them	tu'tūnahunna
+13	4:127:19	w	مَا	ﲴ	ما	what	mā
+13	4:127:20	w	كُتِبَ	ﲵ	كتب	is ordained	kutiba
+13	4:127:21	w	لَهُنَّ	ﲶ	لهن	for them	lahunna
+13	4:127:22	w	وَتَرۡغَبُونَ	ﲷ	وترغبون	and you desire	watarghabūna
+13	4:127:23	w	أَن	ﲸ	ان	to	an
+13	4:127:24	w	تَنكِحُوهُنَّ	ﲹ	تنكحوهن	marry them	tankiḥūhunna
+14	4:127:25	w	وَٱلۡمُسۡتَضۡعَفِينَ	ﲺ	والمستضعفين	and the ones who are weak	wal-mus'taḍʿafīna
+14	4:127:26	w	مِنَ	ﲻ	من	of	mina
+14	4:127:27	w	ٱلۡوِلۡدَٰنِ	ﲼ	الولدان	the children	l-wil'dāni
+14	4:127:28	w	وَأَن	ﲽ	وان	and to	wa-an
+14	4:127:29	w	تَقُومُواْ	ﲾ	تقوموا	stand	taqūmū
+14	4:127:30	w	لِلۡيَتَٰمَىٰ	ﲿ	لليتامى	for orphans	lil'yatāmā
+14	4:127:31	w	بِٱلۡقِسۡطِۚ	ﳀﳁ	بالقسط	with justice	bil-qis'ṭi
+15	4:127:32	w	وَمَا	ﳂ	وما	And whatever	wamā
+15	4:127:33	w	تَفۡعَلُواْ	ﳃ	تفعلوا	you do	tafʿalū
+15	4:127:34	w	مِنۡ	ﳄ	من	of	min
+15	4:127:35	w	خَيۡرٖ	ﳅ	خير	good	khayrin
+15	4:127:36	w	فَإِنَّ	ﳆ	فان	then indeed	fa-inna
+15	4:127:37	w	ٱللَّهَ	ﳇ	الله	Allah	l-laha
+15	4:127:38	w	كَانَ	ﳈ	كان	is	kāna
+15	4:127:39	w	بِهِۦ	ﳉ	به	about it	bihi
+15	4:127:40	w	عَلِيمٗا	ﳊ	عليما	All-Knowing	ʿalīman
+15	4:127:41	e	١٢٧	ﳋ			

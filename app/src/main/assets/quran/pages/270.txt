@@ -1,0 +1,135 @@
+1	16:27:1	w	ثُمَّ	ﱁ	ثم	Then	thumma
+1	16:27:2	w	يَوۡمَ	ﱂ	يوم	(on) the Day	yawma
+1	16:27:3	w	ٱلۡقِيَٰمَةِ	ﱃ	القيامة	(of) the Resurrection	l-qiyāmati
+1	16:27:4	w	يُخۡزِيهِمۡ	ﱄ	يخزيهم	He will disgrace them	yukh'zīhim
+1	16:27:5	w	وَيَقُولُ	ﱅ	ويقول	and say	wayaqūlu
+1	16:27:6	w	أَيۡنَ	ﱆ	اين	Where	ayna
+1	16:27:7	w	شُرَكَآءِيَ	ﱇ	شركايي	(are) My partners	shurakāiya
+1	16:27:8	w	ٱلَّذِينَ	ﱈ	الذين	those (for) whom	alladhīna
+2	16:27:9	w	كُنتُمۡ	ﱉ	كنتم	you used (to)	kuntum
+2	16:27:10	w	تُشَٰٓقُّونَ	ﱊ	تشاقون	oppose	tushāqqūna
+2	16:27:11	w	فِيهِمۡۚ	ﱋﱌ	فيهم	[in them]	fīhim
+2	16:27:12	w	قَالَ	ﱍ	قال	Will say	qāla
+2	16:27:13	w	ٱلَّذِينَ	ﱎ	الذين	those who	alladhīna
+2	16:27:14	w	أُوتُواْ	ﱏ	اوتوا	were given	ūtū
+2	16:27:15	w	ٱلۡعِلۡمَ	ﱐ	العلم	the knowledge	l-ʿil'ma
+2	16:27:16	w	إِنَّ	ﱑ	ان	Indeed	inna
+2	16:27:17	w	ٱلۡخِزۡيَ	ﱒ	الخزي	the disgrace	l-khiz'ya
+3	16:27:18	w	ٱلۡيَوۡمَ	ﱓ	اليوم	this Day	l-yawma
+3	16:27:19	w	وَٱلسُّوٓءَ	ﱔ	والسوء	and evil	wal-sūa
+3	16:27:20	w	عَلَى	ﱕ	على	(are) upon	ʿalā
+3	16:27:21	w	ٱلۡكَٰفِرِينَ	ﱖ	الكافرين	the disbelievers	l-kāfirīna
+3	16:27:22	e	٢٧	ﱗ			
+3	16:28:1	w	ٱلَّذِينَ	ﱘ	الذين	Those whom	alladhīna
+3	16:28:2	w	تَتَوَفَّىٰهُمُ	ﱙ	تتوفاهم	take them in death	tatawaffāhumu
+3	16:28:3	w	ٱلۡمَلَٰٓئِكَةُ	ﱚ	الملايكة	the Angels	l-malāikatu
+4	16:28:4	w	ظَالِمِيٓ	ﱛ	ظالمي	(while) wronging	ẓālimī
+4	16:28:5	w	أَنفُسِهِمۡۖ	ﱜﱝ	انفسهم	themselves	anfusihim
+4	16:28:6	w	فَأَلۡقَوُاْ	ﱞ	فالقوا	then they would offer	fa-alqawū
+4	16:28:7	w	ٱلسَّلَمَ	ﱟ	السلم	the submission	l-salama
+4	16:28:8	w	مَا	ﱠ	ما	Not	mā
+4	16:28:9	w	كُنَّا	ﱡ	كنا	we were	kunnā
+4	16:28:10	w	نَعۡمَلُ	ﱢ	نعمل	doing	naʿmalu
+4	16:28:11	w	مِن	ﱣ	من	any	min
+4	16:28:12	w	سُوٓءِۭۚ	ﱤﱥ	سوء	evil	sūin
+4	16:28:13	w	بَلَىٰٓۚ	ﱦﱧ	بلى	Nay	balā
+5	16:28:14	w	إِنَّ	ﱨ	ان	indeed	inna
+5	16:28:15	w	ٱللَّهَ	ﱩ	الله	Allah	l-laha
+5	16:28:16	w	عَلِيمُۢ	ﱪ	عليم	(is) All-Knower	ʿalīmun
+5	16:28:17	w	بِمَا	ﱫ	بما	of what	bimā
+5	16:28:18	w	كُنتُمۡ	ﱬ	كنتم	you used (to)	kuntum
+5	16:28:19	w	تَعۡمَلُونَ	ﱭ	تعملون	do	taʿmalūna
+5	16:28:20	e	٢٨	ﱮ			
+5	16:29:1	w	فَٱدۡخُلُوٓاْ	ﱯ	فادخلوا	So enter	fa-ud'khulū
+5	16:29:2	w	أَبۡوَٰبَ	ﱰ	ابواب	(the) gates	abwāba
+5	16:29:3	w	جَهَنَّمَ	ﱱ	جهنم	(of) Hell	jahannama
+6	16:29:4	w	خَٰلِدِينَ	ﱲ	خالدين	(to) abide forever	khālidīna
+6	16:29:5	w	فِيهَاۖ	ﱳﱴ	فيها	in it	fīhā
+6	16:29:6	w	فَلَبِئۡسَ	ﱵ	فلبيس	Surely, wretched	falabi'sa
+6	16:29:7	w	مَثۡوَى	ﱶ	مثوى	(is the) abode	mathwā
+6	16:29:8	w	ٱلۡمُتَكَبِّرِينَ	ﱷ	المتكبرين	(of) the arrogant	l-mutakabirīna
+6	16:29:9	e	٢٩	ﱸ			
+6	16:30:1	w	۞ وَقِيلَ	ﱹ ﱺ	۞ وقيل	And it will be said	waqīla
+7	16:30:2	w	لِلَّذِينَ	ﱻ	للذين	to those who	lilladhīna
+7	16:30:3	w	ٱتَّقَوۡاْ	ﱼ	اتقوا	fear Allah	ittaqaw
+7	16:30:4	w	مَاذَآ	ﱽ	ماذا	What	mādhā
+7	16:30:5	w	أَنزَلَ	ﱾ	انزل	has your Lord sent down	anzala
+7	16:30:6	w	رَبُّكُمۡۚ	ﱿﲀ	ربكم	has your Lord sent down	rabbukum
+7	16:30:7	w	قَالُواْ	ﲁ	قالوا	They will say	qālū
+7	16:30:8	w	خَيۡرٗاۗ	ﲂﲃ	خيرا	Good	khayran
+7	16:30:9	w	لِّلَّذِينَ	ﲄ	للذين	For those who	lilladhīna
+7	16:30:10	w	أَحۡسَنُواْ	ﲅ	احسنوا	do good	aḥsanū
+7	16:30:11	w	فِي	ﲆ	في	in	fī
+8	16:30:12	w	هَٰذِهِ	ﲇ	هاذه	this	hādhihi
+8	16:30:13	w	ٱلدُّنۡيَا	ﲈ	الدنيا	world	l-dun'yā
+8	16:30:14	w	حَسَنَةٞۚ	ﲉﲊ	حسنة	(is) a good	ḥasanatun
+8	16:30:15	w	وَلَدَارُ	ﲋ	ولدار	and the home	waladāru
+8	16:30:16	w	ٱلۡأٓخِرَةِ	ﲌ	الاخرة	of the Hereafter	l-ākhirati
+8	16:30:17	w	خَيۡرٞۚ	ﲍﲎ	خير	(is) better	khayrun
+8	16:30:18	w	وَلَنِعۡمَ	ﲏ	ولنعم	And surely excellent	walaniʿ'ma
+8	16:30:19	w	دَارُ	ﲐ	دار	(is) the home	dāru
+8	16:30:20	w	ٱلۡمُتَّقِينَ	ﲑ	المتقين	(of) the righteous	l-mutaqīna
+9	16:30:21	e	٣٠	ﲒ			
+9	16:31:1	w	جَنَّٰتُ	ﲓ	جنات	Gardens	jannātu
+9	16:31:2	w	عَدۡنٖ	ﲔ	عدن	(of) Eden	ʿadnin
+9	16:31:3	w	يَدۡخُلُونَهَا	ﲕ	يدخلونها	which they will enter	yadkhulūnahā
+9	16:31:4	w	تَجۡرِي	ﲖ	تجري	flows	tajrī
+9	16:31:5	w	مِن	ﲗ	من	from	min
+9	16:31:6	w	تَحۡتِهَا	ﲘ	تحتها	underneath them	taḥtihā
+9	16:31:7	w	ٱلۡأَنۡهَٰرُۖ	ﲙﲚ	الانهار	the rivers	l-anhāru
+10	16:31:8	w	لَهُمۡ	ﲛ	لهم	For them	lahum
+10	16:31:9	w	فِيهَا	ﲜ	فيها	therein	fīhā
+10	16:31:10	w	مَا	ﲝ	ما	(will be) whatever	mā
+10	16:31:11	w	يَشَآءُونَۚ	ﲞﲟ	يشاءون	they wish	yashāūna
+10	16:31:12	w	كَذَٰلِكَ	ﲠ	كذالك	Thus	kadhālika
+10	16:31:13	w	يَجۡزِي	ﲡ	يجزي	Allah rewards	yajzī
+10	16:31:14	w	ٱللَّهُ	ﲢ	الله	Allah rewards	l-lahu
+10	16:31:15	w	ٱلۡمُتَّقِينَ	ﲣ	المتقين	the righteous	l-mutaqīna
+10	16:31:16	e	٣١	ﲤ			
+11	16:32:1	w	ٱلَّذِينَ	ﲥ	الذين	Those whom	alladhīna
+11	16:32:2	w	تَتَوَفَّىٰهُمُ	ﲦ	تتوفاهم	take them in death	tatawaffāhumu
+11	16:32:3	w	ٱلۡمَلَٰٓئِكَةُ	ﲧ	الملايكة	the Angels	l-malāikatu
+11	16:32:4	w	طَيِّبِينَ	ﲨ	طيبين	(when they are) pure	ṭayyibīna
+11	16:32:5	w	يَقُولُونَ	ﲩ	يقولون	saying	yaqūlūna
+11	16:32:6	w	سَلَٰمٌ	ﲪ	سلام	Peace	salāmun
+11	16:32:7	w	عَلَيۡكُمُ	ﲫ	عليكم	(be) upon you	ʿalaykumu
+12	16:32:8	w	ٱدۡخُلُواْ	ﲬ	ادخلوا	Enter	ud'khulū
+12	16:32:9	w	ٱلۡجَنَّةَ	ﲭ	الجنة	Paradise	l-janata
+12	16:32:10	w	بِمَا	ﲮ	بما	for what	bimā
+12	16:32:11	w	كُنتُمۡ	ﲯ	كنتم	you used (to)	kuntum
+12	16:32:12	w	تَعۡمَلُونَ	ﲰ	تعملون	do	taʿmalūna
+12	16:32:13	e	٣٢	ﲱ			
+12	16:33:1	w	هَلۡ	ﲲ	هل	Do	hal
+12	16:33:2	w	يَنظُرُونَ	ﲳ	ينظرون	they wait	yanẓurūna
+12	16:33:3	w	إِلَّآ	ﲴ	الا	except	illā
+12	16:33:4	w	أَن	ﲵ	ان	that	an
+13	16:33:5	w	تَأۡتِيَهُمُ	ﲶ	تاتيهم	(should) come to them	tatiyahumu
+13	16:33:6	w	ٱلۡمَلَٰٓئِكَةُ	ﲷ	الملايكة	the Angels	l-malāikatu
+13	16:33:7	w	أَوۡ	ﲸ	او	or	aw
+13	16:33:8	w	يَأۡتِيَ	ﲹ	ياتي	(should) come	yatiya
+13	16:33:9	w	أَمۡرُ	ﲺ	امر	(the) Command	amru
+13	16:33:10	w	رَبِّكَۚ	ﲻﲼ	ربك	(of) your Lord	rabbika
+13	16:33:11	w	كَذَٰلِكَ	ﲽ	كذالك	Thus	kadhālika
+13	16:33:12	w	فَعَلَ	ﲾ	فعل	did	faʿala
+13	16:33:13	w	ٱلَّذِينَ	ﲿ	الذين	those who	alladhīna
+13	16:33:14	w	مِن	ﳀ	من	(were) before them	min
+14	16:33:15	w	قَبۡلِهِمۡۚ	ﳁﳂ	قبلهم	(were) before them	qablihim
+14	16:33:16	w	وَمَا	ﳃ	وما	And not	wamā
+14	16:33:17	w	ظَلَمَهُمُ	ﳄ	ظلمهم	wronged them	ẓalamahumu
+14	16:33:18	w	ٱللَّهُ	ﳅ	الله	Allah	l-lahu
+14	16:33:19	w	وَلَٰكِن	ﳆ	ولاكن	but	walākin
+14	16:33:20	w	كَانُوٓاْ	ﳇ	كانوا	they were	kānū
+14	16:33:21	w	أَنفُسَهُمۡ	ﳈ	انفسهم	themselves	anfusahum
+14	16:33:22	w	يَظۡلِمُونَ	ﳉ	يظلمون	wronging	yaẓlimūna
+14	16:33:23	e	٣٣	ﳊ			
+15	16:34:1	w	فَأَصَابَهُمۡ	ﳋ	فاصابهم	Then struck them	fa-aṣābahum
+15	16:34:2	w	سَيِّـَٔاتُ	ﳌ	سييات	(the) evil (results)	sayyiātu
+15	16:34:3	w	مَا	ﳍ	ما	(of) what	mā
+15	16:34:4	w	عَمِلُواْ	ﳎ	عملوا	they did	ʿamilū
+15	16:34:5	w	وَحَاقَ	ﳏ	وحاق	and surrounded	waḥāqa
+15	16:34:6	w	بِهِم	ﳐ	بهم	them	bihim
+15	16:34:7	w	مَّا	ﳑ	ما	what	mā
+15	16:34:8	w	كَانُواْ	ﳒ	كانوا	they used (to)	kānū
+15	16:34:9	w	بِهِۦ	ﳓ	به	[of it]	bihi
+15	16:34:10	w	يَسۡتَهۡزِءُونَ	ﳔ	يستهزيون	mock	yastahziūna
+15	16:34:11	e	٣٤	ﳕ			

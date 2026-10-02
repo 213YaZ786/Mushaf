@@ -1,0 +1,145 @@
+1	18:5:1	w	مَّا	ﱁ	ما	Not	mā
+1	18:5:2	w	لَهُم	ﱂ	لهم	they have	lahum
+1	18:5:3	w	بِهِۦ	ﱃ	به	about it	bihi
+1	18:5:4	w	مِنۡ	ﱄ	من	any	min
+1	18:5:5	w	عِلۡمٖ	ﱅ	علم	knowledge	ʿil'min
+1	18:5:6	w	وَلَا	ﱆ	ولا	and not	walā
+1	18:5:7	w	لِأٓبَآئِهِمۡۚ	ﱇﱈ	لابايهم	their forefathers	liābāihim
+1	18:5:8	w	كَبُرَتۡ	ﱉ	كبرت	Grave (is)	kaburat
+1	18:5:9	w	كَلِمَةٗ	ﱊ	كلمة	the word	kalimatan
+1	18:5:10	w	تَخۡرُجُ	ﱋ	تخرج	(that) comes out	takhruju
+1	18:5:11	w	مِنۡ	ﱌ	من	of	min
+2	18:5:12	w	أَفۡوَٰهِهِمۡۚ	ﱍﱎ	افواههم	their mouths	afwāhihim
+2	18:5:13	w	إِن	ﱏ	ان	Not	in
+2	18:5:14	w	يَقُولُونَ	ﱐ	يقولون	they say	yaqūlūna
+2	18:5:15	w	إِلَّا	ﱑ	الا	except	illā
+2	18:5:16	w	كَذِبٗا	ﱒ	كذبا	a lie	kadhiban
+2	18:5:17	e	٥	ﱓ			
+2	18:6:1	w	فَلَعَلَّكَ	ﱔ	فلعلك	Then perhaps you would (be)	falaʿallaka
+2	18:6:2	w	بَٰخِعٞ	ﱕ	باخع	the one who kills	bākhiʿun
+2	18:6:3	w	نَّفۡسَكَ	ﱖ	نفسك	yourself	nafsaka
+3	18:6:4	w	عَلَىٰٓ	ﱗ	على	over	ʿalā
+3	18:6:5	w	ءَاثَٰرِهِمۡ	ﱘ	اثارهم	their footsteps	āthārihim
+3	18:6:6	w	إِن	ﱙ	ان	if	in
+3	18:6:7	w	لَّمۡ	ﱚ	لم	not	lam
+3	18:6:8	w	يُؤۡمِنُواْ	ﱛ	يومنوا	they believe	yu'minū
+3	18:6:9	w	بِهَٰذَا	ﱜ	بهاذا	in this	bihādhā
+3	18:6:10	w	ٱلۡحَدِيثِ	ﱝ	الحديث	[the] narration	l-ḥadīthi
+3	18:6:11	w	أَسَفًا	ﱞ	اسفا	(in) grief	asafan
+3	18:6:12	e	٦	ﱟ			
+3	18:7:1	w	إِنَّا	ﱠ	انا	Indeed, We	innā
+4	18:7:2	w	جَعَلۡنَا	ﱡ	جعلنا	We have made	jaʿalnā
+4	18:7:3	w	مَا	ﱢ	ما	what	mā
+4	18:7:4	w	عَلَى	ﱣ	على	(is) on	ʿalā
+4	18:7:5	w	ٱلۡأَرۡضِ	ﱤ	الارض	the earth	l-arḍi
+4	18:7:6	w	زِينَةٗ	ﱥ	زينة	adornment	zīnatan
+4	18:7:7	w	لَّهَا	ﱦ	لها	for it	lahā
+4	18:7:8	w	لِنَبۡلُوَهُمۡ	ﱧ	لنبلوهم	that We may test [them]	linabluwahum
+4	18:7:9	w	أَيُّهُمۡ	ﱨ	ايهم	which of them	ayyuhum
+4	18:7:10	w	أَحۡسَنُ	ﱩ	احسن	(is) best	aḥsanu
+4	18:7:11	w	عَمَلٗا	ﱪ	عملا	(in) deed	ʿamalan
+5	18:7:12	e	٧	ﱫ			
+5	18:8:1	w	وَإِنَّا	ﱬ	وانا	And indeed, We	wa-innā
+5	18:8:2	w	لَجَٰعِلُونَ	ﱭ	لجاعلون	(will) surely make	lajāʿilūna
+5	18:8:3	w	مَا	ﱮ	ما	what	mā
+5	18:8:4	w	عَلَيۡهَا	ﱯ	عليها	(is) on it	ʿalayhā
+5	18:8:5	w	صَعِيدٗا	ﱰ	صعيدا	soil	ṣaʿīdan
+5	18:8:6	w	جُرُزًا	ﱱ	جرزا	barren	juruzan
+5	18:8:7	e	٨	ﱲ			
+5	18:9:1	w	أَمۡ	ﱳ	ام	Or	am
+5	18:9:2	w	حَسِبۡتَ	ﱴ	حسبت	have you thought	ḥasib'ta
+6	18:9:3	w	أَنَّ	ﱵ	ان	that	anna
+6	18:9:4	w	أَصۡحَٰبَ	ﱶ	اصحاب	(the) companions	aṣḥāba
+6	18:9:5	w	ٱلۡكَهۡفِ	ﱷ	الكهف	(of) the cave	l-kahfi
+6	18:9:6	w	وَٱلرَّقِيمِ	ﱸ	والرقيم	and the inscription	wal-raqīmi
+6	18:9:7	w	كَانُواْ	ﱹ	كانوا	were	kānū
+6	18:9:8	w	مِنۡ	ﱺ	من	among	min
+6	18:9:9	w	ءَايَٰتِنَا	ﱻ	اياتنا	Our Signs	āyātinā
+6	18:9:10	w	عَجَبًا	ﱼ	عجبا	a wonder	ʿajaban
+6	18:9:11	e	٩	ﱽ			
+7	18:10:1	w	إِذۡ	ﱾ	اذ	When	idh
+7	18:10:2	w	أَوَى	ﱿ	اوى	retreated	awā
+7	18:10:3	w	ٱلۡفِتۡيَةُ	ﲀ	الفتية	the youths	l-fit'yatu
+7	18:10:4	w	إِلَى	ﲁ	الى	to	ilā
+7	18:10:5	w	ٱلۡكَهۡفِ	ﲂ	الكهف	the cave	l-kahfi
+7	18:10:6	w	فَقَالُواْ	ﲃ	فقالوا	and they said	faqālū
+7	18:10:7	w	رَبَّنَآ	ﲄ	ربنا	Our Lord	rabbanā
+7	18:10:8	w	ءَاتِنَا	ﲅ	اتنا	Grant us	ātinā
+7	18:10:9	w	مِن	ﲆ	من	from	min
+7	18:10:10	w	لَّدُنكَ	ﲇ	لدنك	Yourself	ladunka
+8	18:10:11	w	رَحۡمَةٗ	ﲈ	رحمة	Mercy	raḥmatan
+8	18:10:12	w	وَهَيِّئۡ	ﲉ	وهيي	and facilitate	wahayyi
+8	18:10:13	w	لَنَا	ﲊ	لنا	for us	lanā
+8	18:10:14	w	مِنۡ	ﲋ	من	[from]	min
+8	18:10:15	w	أَمۡرِنَا	ﲌ	امرنا	our affair	amrinā
+8	18:10:16	w	رَشَدٗا	ﲍ	رشدا	(in the) right way	rashadan
+8	18:10:17	e	١٠	ﲎ			
+8	18:11:1	w	فَضَرَبۡنَا	ﲏ	فضربنا	So We cast	faḍarabnā
+8	18:11:2	w	عَلَىٰٓ	ﲐ	على	over	ʿalā
+8	18:11:3	w	ءَاذَانِهِمۡ	ﲑ	اذانهم	their ears	ādhānihim
+9	18:11:4	w	فِي	ﲒ	في	in	fī
+9	18:11:5	w	ٱلۡكَهۡفِ	ﲓ	الكهف	the cave	l-kahfi
+9	18:11:6	w	سِنِينَ	ﲔ	سنين	years	sinīna
+9	18:11:7	w	عَدَدٗا	ﲕ	عددا	a number	ʿadadan
+9	18:11:8	e	١١	ﲖ			
+9	18:12:1	w	ثُمَّ	ﲗ	ثم	Then	thumma
+9	18:12:2	w	بَعَثۡنَٰهُمۡ	ﲘ	بعثناهم	We raised them up	baʿathnāhum
+9	18:12:3	w	لِنَعۡلَمَ	ﲙ	لنعلم	that We make evident	linaʿlama
+9	18:12:4	w	أَيُّ	ﲚ	اي	which	ayyu
+10	18:12:5	w	ٱلۡحِزۡبَيۡنِ	ﲛ	الحزبين	(of) the two parties	l-ḥiz'bayni
+10	18:12:6	w	أَحۡصَىٰ	ﲜ	احصى	best calculated	aḥṣā
+10	18:12:7	w	لِمَا	ﲝ	لما	for what	limā
+10	18:12:8	w	لَبِثُوٓاْ	ﲞ	لبثوا	(they had) remained	labithū
+10	18:12:9	w	أَمَدٗا	ﲟ	امدا	(in) time	amadan
+10	18:12:10	e	١٢	ﲠ			
+10	18:13:1	w	نَّحۡنُ	ﲡ	نحن	We	naḥnu
+10	18:13:2	w	نَقُصُّ	ﲢ	نقص	narrate	naquṣṣu
+10	18:13:3	w	عَلَيۡكَ	ﲣ	عليك	to you	ʿalayka
+10	18:13:4	w	نَبَأَهُم	ﲤ	نباهم	their story	naba-ahum
+11	18:13:5	w	بِٱلۡحَقِّۚ	ﲥﲦ	بالحق	in truth	bil-ḥaqi
+11	18:13:6	w	إِنَّهُمۡ	ﲧ	انهم	Indeed, they (were)	innahum
+11	18:13:7	w	فِتۡيَةٌ	ﲨ	فتية	youths	fit'yatun
+11	18:13:8	w	ءَامَنُواْ	ﲩ	امنوا	who believed	āmanū
+11	18:13:9	w	بِرَبِّهِمۡ	ﲪ	بربهم	in their Lord	birabbihim
+11	18:13:10	w	وَزِدۡنَٰهُمۡ	ﲫ	وزدناهم	and We increased them	wazid'nāhum
+11	18:13:11	w	هُدٗى	ﲬ	هدى	(in) guidance	hudan
+11	18:13:12	e	١٣	ﲭ			
+12	18:14:1	w	وَرَبَطۡنَا	ﲮ	وربطنا	And We made firm	warabaṭnā
+12	18:14:2	w	عَلَىٰ	ﲯ	على	[on]	ʿalā
+12	18:14:3	w	قُلُوبِهِمۡ	ﲰ	قلوبهم	their hearts	qulūbihim
+12	18:14:4	w	إِذۡ	ﲱ	اذ	when	idh
+12	18:14:5	w	قَامُواْ	ﲲ	قاموا	they stood up	qāmū
+12	18:14:6	w	فَقَالُواْ	ﲳ	فقالوا	and said	faqālū
+12	18:14:7	w	رَبُّنَا	ﲴ	ربنا	Our Lord	rabbunā
+12	18:14:8	w	رَبُّ	ﲵ	رب	(is) the Lord	rabbu
+12	18:14:9	w	ٱلسَّمَٰوَٰتِ	ﲶ	السماوات	(of) the heavens	l-samāwāti
+13	18:14:10	w	وَٱلۡأَرۡضِ	ﲷ	والارض	and the earth	wal-arḍi
+13	18:14:11	w	لَن	ﲸ	لن	Never	lan
+13	18:14:12	w	نَّدۡعُوَاْ	ﲹ	ندعو	we will invoke	nadʿuwā
+13	18:14:13	w	مِن	ﲺ	من	besides Him	min
+13	18:14:14	w	دُونِهِۦٓ	ﲻ	دونه	besides Him	dūnihi
+13	18:14:15	w	إِلَٰهٗاۖ	ﲼﲽ	الاها	any god	ilāhan
+13	18:14:16	w	لَّقَدۡ	ﲾ	لقد	Certainly	laqad
+13	18:14:17	w	قُلۡنَآ	ﲿ	قلنا	we would have said	qul'nā
+13	18:14:18	w	إِذٗا	ﳀ	اذا	then	idhan
+13	18:14:19	w	شَطَطًا	ﳁ	شططا	an enormity	shaṭaṭan
+13	18:14:20	e	١٤	ﳂ			
+14	18:15:1	w	هَٰٓؤُلَآءِ	ﳃ	هاولاء	These	hāulāi
+14	18:15:2	w	قَوۡمُنَا	ﳄ	قومنا	our people	qawmunā
+14	18:15:3	w	ٱتَّخَذُواْ	ﳅ	اتخذوا	have taken	ittakhadhū
+14	18:15:4	w	مِن	ﳆ	من	besides Him	min
+14	18:15:5	w	دُونِهِۦٓ	ﳇ	دونه	besides Him	dūnihi
+14	18:15:6	w	ءَالِهَةٗۖ	ﳈﳉ	الهة	gods	ālihatan
+14	18:15:7	w	لَّوۡلَا	ﳊ	لولا	Why not	lawlā
+14	18:15:8	w	يَأۡتُونَ	ﳋ	ياتون	they come	yatūna
+14	18:15:9	w	عَلَيۡهِم	ﳌ	عليهم	to them	ʿalayhim
+15	18:15:10	w	بِسُلۡطَٰنِۭ	ﳍ	بسلطان	with an authority	bisul'ṭānin
+15	18:15:11	w	بَيِّنٖۖ	ﳎﳏ	بين	clear	bayyinin
+15	18:15:12	w	فَمَنۡ	ﳐ	فمن	And who	faman
+15	18:15:13	w	أَظۡلَمُ	ﳑ	اظلم	(is) more wrong	aẓlamu
+15	18:15:14	w	مِمَّنِ	ﳒ	ممن	than (one) who	mimmani
+15	18:15:15	w	ٱفۡتَرَىٰ	ﳓ	افترى	invents	if'tarā
+15	18:15:16	w	عَلَى	ﳔ	على	against	ʿalā
+15	18:15:17	w	ٱللَّهِ	ﳕ	الله	Allah	l-lahi
+15	18:15:18	w	كَذِبٗا	ﳖ	كذبا	a lie	kadhiban
+15	18:15:19	e	١٥	ﳗ			

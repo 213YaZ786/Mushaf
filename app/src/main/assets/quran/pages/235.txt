@@ -1,0 +1,122 @@
+1	11:118:1	w	وَلَوۡ	ﱁ	ولو	And if	walaw
+1	11:118:2	w	شَآءَ	ﱂ	شاء	your Lord (had) willed	shāa
+1	11:118:3	w	رَبُّكَ	ﱃ	ربك	your Lord (had) willed	rabbuka
+1	11:118:4	w	لَجَعَلَ	ﱄ	لجعل	surely He (could) have made	lajaʿala
+1	11:118:5	w	ٱلنَّاسَ	ﱅ	الناس	the mankind	l-nāsa
+1	11:118:6	w	أُمَّةٗ	ﱆ	امة	one community	ummatan
+1	11:118:7	w	وَٰحِدَةٗۖ	ﱇﱈ	واحدة	one community	wāḥidatan
+1	11:118:8	w	وَلَا	ﱉ	ولا	but not	walā
+1	11:118:9	w	يَزَالُونَ	ﱊ	يزالون	they will cease	yazālūna
+1	11:118:10	w	مُخۡتَلِفِينَ	ﱋ	مختلفين	to differ	mukh'talifīna
+2	11:118:11	e	١١٨	ﱌ			
+2	11:119:1	w	إِلَّا	ﱍ	الا	Except	illā
+2	11:119:2	w	مَن	ﱎ	من	(on) whom	man
+2	11:119:3	w	رَّحِمَ	ﱏ	رحم	your Lord has bestowed Mercy	raḥima
+2	11:119:4	w	رَبُّكَۚ	ﱐﱑ	ربك	your Lord has bestowed Mercy	rabbuka
+2	11:119:5	w	وَلِذَٰلِكَ	ﱒ	ولذالك	and for that	walidhālika
+2	11:119:6	w	خَلَقَهُمۡۗ	ﱓﱔ	خلقهم	He created them	khalaqahum
+2	11:119:7	w	وَتَمَّتۡ	ﱕ	وتمت	And will be fulfilled	watammat
+2	11:119:8	w	كَلِمَةُ	ﱖ	كلمة	(the) Word of your Lord	kalimatu
+2	11:119:9	w	رَبِّكَ	ﱗ	ربك	(the) Word of your Lord	rabbika
+3	11:119:10	w	لَأَمۡلَأَنَّ	ﱘ	لاملان	Surely I will fill	la-amla-anna
+3	11:119:11	w	جَهَنَّمَ	ﱙ	جهنم	Hell	jahannama
+3	11:119:12	w	مِنَ	ﱚ	من	with	mina
+3	11:119:13	w	ٱلۡجِنَّةِ	ﱛ	الجنة	the Jinn	l-jinati
+3	11:119:14	w	وَٱلنَّاسِ	ﱜ	والناس	and the men	wal-nāsi
+3	11:119:15	w	أَجۡمَعِينَ	ﱝ	اجمعين	all together	ajmaʿīna
+3	11:119:16	e	١١٩	ﱞ			
+3	11:120:1	w	وَكُلّٗا	ﱟ	وكلا	And each	wakullan
+3	11:120:2	w	نَّقُصُّ	ﱠ	نقص	We relate	naquṣṣu
+4	11:120:3	w	عَلَيۡكَ	ﱡ	عليك	to you	ʿalayka
+4	11:120:4	w	مِنۡ	ﱢ	من	of	min
+4	11:120:5	w	أَنۢبَآءِ	ﱣ	انباء	(the) news	anbāi
+4	11:120:6	w	ٱلرُّسُلِ	ﱤ	الرسل	(of) the Messengers	l-rusuli
+4	11:120:7	w	مَا	ﱥ	ما	(for) that	mā
+4	11:120:8	w	نُثَبِّتُ	ﱦ	نثبت	We may make firm	nuthabbitu
+4	11:120:9	w	بِهِۦ	ﱧ	به	with it	bihi
+4	11:120:10	w	فُؤَادَكَۚ	ﱨﱩ	فوادك	your heart	fuādaka
+4	11:120:11	w	وَجَآءَكَ	ﱪ	وجاءك	And has come to you	wajāaka
+4	11:120:12	w	فِي	ﱫ	في	in	fī
+4	11:120:13	w	هَٰذِهِ	ﱬ	هاذه	this	hādhihi
+5	11:120:14	w	ٱلۡحَقُّ	ﱭ	الحق	the truth	l-ḥaqu
+5	11:120:15	w	وَمَوۡعِظَةٞ	ﱮ	وموعظة	and an admonition	wamawʿiẓatun
+5	11:120:16	w	وَذِكۡرَىٰ	ﱯ	وذكرى	and a reminder	wadhik'rā
+5	11:120:17	w	لِلۡمُؤۡمِنِينَ	ﱰ	للمومنين	for the believers	lil'mu'minīna
+5	11:120:18	e	١٢٠	ﱱ			
+5	11:121:1	w	وَقُل	ﱲ	وقل	And say	waqul
+5	11:121:2	w	لِّلَّذِينَ	ﱳ	للذين	to those who	lilladhīna
+5	11:121:3	w	لَا	ﱴ	لا	(do) not	lā
+5	11:121:4	w	يُؤۡمِنُونَ	ﱵ	يومنون	believe	yu'minūna
+6	11:121:5	w	ٱعۡمَلُواْ	ﱶ	اعملوا	Work	iʿ'malū
+6	11:121:6	w	عَلَىٰ	ﱷ	على	(according) to	ʿalā
+6	11:121:7	w	مَكَانَتِكُمۡ	ﱸ	مكانتكم	your position	makānatikum
+6	11:121:8	w	إِنَّا	ﱹ	انا	indeed, we	innā
+6	11:121:9	w	عَٰمِلُونَ	ﱺ	عاملون	(are also) working	ʿāmilūna
+6	11:121:10	e	١٢١	ﱻ			
+6	11:122:1	w	وَٱنتَظِرُوٓاْ	ﱼ	وانتظروا	And wait	wa-intaẓirū
+6	11:122:2	w	إِنَّا	ﱽ	انا	indeed, we	innā
+6	11:122:3	w	مُنتَظِرُونَ	ﱾ	منتظرون	(are) ones who wait	muntaẓirūna
+7	11:122:4	e	١٢٢	ﱿ			
+7	11:123:1	w	وَلِلَّهِ	ﲀ	ولله	And for Allah	walillahi
+7	11:123:2	w	غَيۡبُ	ﲁ	غيب	(is the) unseen	ghaybu
+7	11:123:3	w	ٱلسَّمَٰوَٰتِ	ﲂ	السماوات	(of) the heavens	l-samāwāti
+7	11:123:4	w	وَٱلۡأَرۡضِ	ﲃ	والارض	and the earth	wal-arḍi
+7	11:123:5	w	وَإِلَيۡهِ	ﲄ	واليه	and to Him	wa-ilayhi
+7	11:123:6	w	يُرۡجَعُ	ﲅ	يرجع	will be returned	yur'jaʿu
+7	11:123:7	w	ٱلۡأَمۡرُ	ﲆ	الامر	the matter	l-amru
+7	11:123:8	w	كُلُّهُۥ	ﲇ	كله	all (of) it	kulluhu
+8	11:123:9	w	فَٱعۡبُدۡهُ	ﲈ	فاعبده	so worship Him	fa-uʿ'bud'hu
+8	11:123:10	w	وَتَوَكَّلۡ	ﲉ	وتوكل	and put your trust	watawakkal
+8	11:123:11	w	عَلَيۡهِۚ	ﲊﲋ	عليه	upon Him	ʿalayhi
+8	11:123:12	w	وَمَا	ﲌ	وما	And your Lord is not	wamā
+8	11:123:13	w	رَبُّكَ	ﲍ	ربك	And your Lord is not	rabbuka
+8	11:123:14	w	بِغَٰفِلٍ	ﲎ	بغافل	unaware	bighāfilin
+8	11:123:15	w	عَمَّا	ﲏ	عما	of what	ʿammā
+8	11:123:16	w	تَعۡمَلُونَ	ﲐ	تعملون	you do	taʿmalūna
+8	11:123:17	e	١٢٣	ﲑ			
+11	12:1:1	w	الٓرۚ	ﲒﲓ	الر	Alif Laam Ra	alif-lam-ra
+11	12:1:2	w	تِلۡكَ	ﲔ	تلك	These	til'ka
+11	12:1:3	w	ءَايَٰتُ	ﲕ	ايات	(are the) Verses	āyātu
+11	12:1:4	w	ٱلۡكِتَٰبِ	ﲖ	الكتاب	(of) the Book	l-kitābi
+11	12:1:5	w	ٱلۡمُبِينِ	ﲗ	المبين	[the] clear	l-mubīni
+11	12:1:6	e	١	ﲘ			
+11	12:2:1	w	إِنَّآ	ﲙ	انا	Indeed, We	innā
+11	12:2:2	w	أَنزَلۡنَٰهُ	ﲚ	انزلناه	We have sent it down	anzalnāhu
+11	12:2:3	w	قُرۡءَٰنًا	ﲛ	قرانا	(as) a Quran in Arabic	qur'ānan
+12	12:2:4	w	عَرَبِيّٗا	ﲜ	عربيا	(as) a Quran in Arabic	ʿarabiyyan
+12	12:2:5	w	لَّعَلَّكُمۡ	ﲝ	لعلكم	so that you may	laʿallakum
+12	12:2:6	w	تَعۡقِلُونَ	ﲞ	تعقلون	understand	taʿqilūna
+12	12:2:7	e	٢	ﲟ			
+12	12:3:1	w	نَحۡنُ	ﲠ	نحن	We	naḥnu
+12	12:3:2	w	نَقُصُّ	ﲡ	نقص	relate	naquṣṣu
+12	12:3:3	w	عَلَيۡكَ	ﲢ	عليك	to you	ʿalayka
+12	12:3:4	w	أَحۡسَنَ	ﲣ	احسن	the best	aḥsana
+13	12:3:5	w	ٱلۡقَصَصِ	ﲤ	القصص	of the narrations	l-qaṣaṣi
+13	12:3:6	w	بِمَآ	ﲥ	بما	in what	bimā
+13	12:3:7	w	أَوۡحَيۡنَآ	ﲦ	اوحينا	We have revealed	awḥaynā
+13	12:3:8	w	إِلَيۡكَ	ﲧ	اليك	to you	ilayka
+13	12:3:9	w	هَٰذَا	ﲨ	هاذا	(of) this	hādhā
+13	12:3:10	w	ٱلۡقُرۡءَانَ	ﲩ	القران	the Quran	l-qur'āna
+13	12:3:11	w	وَإِن	ﲪ	وان	although	wa-in
+13	12:3:12	w	كُنتَ	ﲫ	كنت	you were	kunta
+13	12:3:13	w	مِن	ﲬ	من	before it	min
+13	12:3:14	w	قَبۡلِهِۦ	ﲭ	قبله	before it	qablihi
+14	12:3:15	w	لَمِنَ	ﲮ	لمن	surely among	lamina
+14	12:3:16	w	ٱلۡغَٰفِلِينَ	ﲯ	الغافلين	the unaware	l-ghāfilīna
+14	12:3:17	e	٣	ﲰ			
+14	12:4:1	w	إِذۡ	ﲱ	اذ	When	idh
+14	12:4:2	w	قَالَ	ﲲ	قال	said	qāla
+14	12:4:3	w	يُوسُفُ	ﲳ	يوسف	Yusuf	yūsufu
+14	12:4:4	w	لِأَبِيهِ	ﲴ	لابيه	to his father	li-abīhi
+14	12:4:5	w	يَٰٓأَبَتِ	ﲵ	يا ابت	O my father	yāabati
+14	12:4:6	w	إِنِّي	ﲶ	اني	Indeed, I	innī
+14	12:4:7	w	رَأَيۡتُ	ﲷ	رايت	I saw	ra-aytu
+15	12:4:8	w	أَحَدَ	ﲸ	احد	eleven	aḥada
+15	12:4:9	w	عَشَرَ	ﲹ	عشر	eleven	ʿashara
+15	12:4:10	w	كَوۡكَبٗا	ﲺ	كوكبا	stars	kawkaban
+15	12:4:11	w	وَٱلشَّمۡسَ	ﲻ	والشمس	and the sun	wal-shamsa
+15	12:4:12	w	وَٱلۡقَمَرَ	ﲼ	والقمر	and the moon	wal-qamara
+15	12:4:13	w	رَأَيۡتُهُمۡ	ﲽ	رايتهم	I saw them	ra-aytuhum
+15	12:4:14	w	لِي	ﲾ	لي	to me	lī
+15	12:4:15	w	سَٰجِدِينَ	ﲿ	ساجدين	prostrating	sājidīna
+15	12:4:16	e	٤	ﳀ			

@@ -1,0 +1,137 @@
+1	11:6:1	w	۞ وَمَا	ﱁ ﱂ	۞ وما	And not	wamā
+1	11:6:2	w	مِن	ﱃ	من	any	min
+1	11:6:3	w	دَآبَّةٖ	ﱄ	دابة	moving creature	dābbatin
+1	11:6:4	w	فِي	ﱅ	في	in	fī
+1	11:6:5	w	ٱلۡأَرۡضِ	ﱆ	الارض	the earth	l-arḍi
+1	11:6:6	w	إِلَّا	ﱇ	الا	but	illā
+1	11:6:7	w	عَلَى	ﱈ	على	on	ʿalā
+1	11:6:8	w	ٱللَّهِ	ﱉ	الله	Allah	l-lahi
+1	11:6:9	w	رِزۡقُهَا	ﱊ	رزقها	(is) its provision	riz'quhā
+1	11:6:10	w	وَيَعۡلَمُ	ﱋ	ويعلم	And He knows	wayaʿlamu
+2	11:6:11	w	مُسۡتَقَرَّهَا	ﱌ	مستقرها	its dwelling place	mus'taqarrahā
+2	11:6:12	w	وَمُسۡتَوۡدَعَهَاۚ	ﱍﱎ	ومستودعها	and its place of storage	wamus'tawdaʿahā
+2	11:6:13	w	كُلّٞ	ﱏ	كل	All	kullun
+2	11:6:14	w	فِي	ﱐ	في	(is) in	fī
+2	11:6:15	w	كِتَٰبٖ	ﱑ	كتاب	a Record	kitābin
+2	11:6:16	w	مُّبِينٖ	ﱒ	مبين	clear	mubīnin
+2	11:6:17	e	٦	ﱓ			
+2	11:7:1	w	وَهُوَ	ﱔ	وهو	And He	wahuwa
+3	11:7:2	w	ٱلَّذِي	ﱕ	الذي	(is) the One Who	alladhī
+3	11:7:3	w	خَلَقَ	ﱖ	خلق	created	khalaqa
+3	11:7:4	w	ٱلسَّمَٰوَٰتِ	ﱗ	السماوات	the heavens	l-samāwāti
+3	11:7:5	w	وَٱلۡأَرۡضَ	ﱘ	والارض	and the earth	wal-arḍa
+3	11:7:6	w	فِي	ﱙ	في	in	fī
+3	11:7:7	w	سِتَّةِ	ﱚ	ستة	six	sittati
+3	11:7:8	w	أَيَّامٖ	ﱛ	ايام	epochs	ayyāmin
+3	11:7:9	w	وَكَانَ	ﱜ	وكان	and His throne was	wakāna
+4	11:7:10	w	عَرۡشُهُۥ	ﱝ	عرشه	and His throne was	ʿarshuhu
+4	11:7:11	w	عَلَى	ﱞ	على	on	ʿalā
+4	11:7:12	w	ٱلۡمَآءِ	ﱟ	الماء	the water	l-māi
+4	11:7:13	w	لِيَبۡلُوَكُمۡ	ﱠ	ليبلوكم	that He might test [you]	liyabluwakum
+4	11:7:14	w	أَيُّكُمۡ	ﱡ	ايكم	which of you	ayyukum
+4	11:7:15	w	أَحۡسَنُ	ﱢ	احسن	(is) best	aḥsanu
+4	11:7:16	w	عَمَلٗاۗ	ﱣﱤ	عملا	(in) deed	ʿamalan
+4	11:7:17	w	وَلَئِن	ﱥ	ولين	But if	wala-in
+5	11:7:18	w	قُلۡتَ	ﱦ	قلت	you say	qul'ta
+5	11:7:19	w	إِنَّكُم	ﱧ	انكم	Indeed, you	innakum
+5	11:7:20	w	مَّبۡعُوثُونَ	ﱨ	مبعوثون	(will be) resurrected	mabʿūthūna
+5	11:7:21	w	مِنۢ	ﱩ	من	after	min
+5	11:7:22	w	بَعۡدِ	ﱪ	بعد	after	baʿdi
+5	11:7:23	w	ٱلۡمَوۡتِ	ﱫ	الموت	[the] death	l-mawti
+5	11:7:24	w	لَيَقُولَنَّ	ﱬ	ليقولن	surely would say	layaqūlanna
+5	11:7:25	w	ٱلَّذِينَ	ﱭ	الذين	those who	alladhīna
+5	11:7:26	w	كَفَرُوٓاْ	ﱮ	كفروا	disbelieved	kafarū
+6	11:7:27	w	إِنۡ	ﱯ	ان	This is not	in
+6	11:7:28	w	هَٰذَآ	ﱰ	هاذا	This is not	hādhā
+6	11:7:29	w	إِلَّا	ﱱ	الا	but	illā
+6	11:7:30	w	سِحۡرٞ	ﱲ	سحر	a magic	siḥ'run
+6	11:7:31	w	مُّبِينٞ	ﱳ	مبين	clear	mubīnun
+6	11:7:32	e	٧	ﱴ			
+6	11:8:1	w	وَلَئِنۡ	ﱵ	ولين	And if	wala-in
+6	11:8:2	w	أَخَّرۡنَا	ﱶ	اخرنا	We delay	akharnā
+6	11:8:3	w	عَنۡهُمُ	ﱷ	عنهم	from them	ʿanhumu
+6	11:8:4	w	ٱلۡعَذَابَ	ﱸ	العذاب	the punishment	l-ʿadhāba
+6	11:8:5	w	إِلَىٰٓ	ﱹ	الى	for	ilā
+7	11:8:6	w	أُمَّةٖ	ﱺ	امة	a time	ummatin
+7	11:8:7	w	مَّعۡدُودَةٖ	ﱻ	معدودة	determined	maʿdūdatin
+7	11:8:8	w	لَّيَقُولُنَّ	ﱼ	ليقولن	they will surely say	layaqūlunna
+7	11:8:9	w	مَا	ﱽ	ما	What	mā
+7	11:8:10	w	يَحۡبِسُهُۥٓۗ	ﱾﱿ	يحبسه	detains it	yaḥbisuhu
+7	11:8:11	w	أَلَا	ﲀ	الا	No doubt	alā
+7	11:8:12	w	يَوۡمَ	ﲁ	يوم	(On) the Day	yawma
+7	11:8:13	w	يَأۡتِيهِمۡ	ﲂ	ياتيهم	it comes to them	yatīhim
+7	11:8:14	w	لَيۡسَ	ﲃ	ليس	not	laysa
+8	11:8:15	w	مَصۡرُوفًا	ﲄ	مصروفا	(will be) averted	maṣrūfan
+8	11:8:16	w	عَنۡهُمۡ	ﲅ	عنهم	from them	ʿanhum
+8	11:8:17	w	وَحَاقَ	ﲆ	وحاق	and will surround	waḥāqa
+8	11:8:18	w	بِهِم	ﲇ	بهم	them	bihim
+8	11:8:19	w	مَّا	ﲈ	ما	what	mā
+8	11:8:20	w	كَانُواْ	ﲉ	كانوا	they used (to)	kānū
+8	11:8:21	w	بِهِۦ	ﲊ	به	mock at [it]	bihi
+8	11:8:22	w	يَسۡتَهۡزِءُونَ	ﲋ	يستهزيون	mock at [it]	yastahziūna
+9	11:8:23	e	٨	ﲌ			
+9	11:9:1	w	وَلَئِنۡ	ﲍ	ولين	And if	wala-in
+9	11:9:2	w	أَذَقۡنَا	ﲎ	اذقنا	We give man a taste	adhaqnā
+9	11:9:3	w	ٱلۡإِنسَٰنَ	ﲏ	الانسان	We give man a taste	l-insāna
+9	11:9:4	w	مِنَّا	ﲐ	منا	(of) Mercy from Us	minnā
+9	11:9:5	w	رَحۡمَةٗ	ﲑ	رحمة	(of) Mercy from Us	raḥmatan
+9	11:9:6	w	ثُمَّ	ﲒ	ثم	then	thumma
+9	11:9:7	w	نَزَعۡنَٰهَا	ﲓ	نزعناها	We withdraw it	nazaʿnāhā
+9	11:9:8	w	مِنۡهُ	ﲔ	منه	from him	min'hu
+9	11:9:9	w	إِنَّهُۥ	ﲕ	انه	indeed, he	innahu
+10	11:9:10	w	لَيَـُٔوسٞ	ﲖ	لييوس	(is) despairing	layaūsun
+10	11:9:11	w	كَفُورٞ	ﲗ	كفور	(and) ungrateful	kafūrun
+10	11:9:12	e	٩	ﲘ			
+10	11:10:1	w	وَلَئِنۡ	ﲙ	ولين	But if	wala-in
+10	11:10:2	w	أَذَقۡنَٰهُ	ﲚ	اذقناه	We give him a taste	adhaqnāhu
+10	11:10:3	w	نَعۡمَآءَ	ﲛ	نعماء	(of) favor	naʿmāa
+10	11:10:4	w	بَعۡدَ	ﲜ	بعد	after	baʿda
+10	11:10:5	w	ضَرَّآءَ	ﲝ	ضراء	hardship	ḍarrāa
+11	11:10:6	w	مَسَّتۡهُ	ﲞ	مسته	(has) touched him	massathu
+11	11:10:7	w	لَيَقُولَنَّ	ﲟ	ليقولن	surely, he will say	layaqūlanna
+11	11:10:8	w	ذَهَبَ	ﲠ	ذهب	Have gone	dhahaba
+11	11:10:9	w	ٱلسَّيِّـَٔاتُ	ﲡ	السييات	the evils	l-sayiātu
+11	11:10:10	w	عَنِّيٓۚ	ﲢﲣ	عني	from me	ʿannī
+11	11:10:11	w	إِنَّهُۥ	ﲤ	انه	Indeed, he	innahu
+11	11:10:12	w	لَفَرِحٞ	ﲥ	لفرح	(is) exultant	lafariḥun
+11	11:10:13	w	فَخُورٌ	ﲦ	فخور	(and) boastful	fakhūrun
+12	11:10:14	e	١٠	ﲧ			
+12	11:11:1	w	إِلَّا	ﲨ	الا	Except	illā
+12	11:11:2	w	ٱلَّذِينَ	ﲩ	الذين	those who	alladhīna
+12	11:11:3	w	صَبَرُواْ	ﲪ	صبروا	(are) patient	ṣabarū
+12	11:11:4	w	وَعَمِلُواْ	ﲫ	وعملوا	and do	waʿamilū
+12	11:11:5	w	ٱلصَّٰلِحَٰتِ	ﲬ	الصالحات	the good deeds	l-ṣāliḥāti
+12	11:11:6	w	أُوْلَٰٓئِكَ	ﲭ	اولايك	those	ulāika
+12	11:11:7	w	لَهُم	ﲮ	لهم	for them	lahum
+13	11:11:8	w	مَّغۡفِرَةٞ	ﲯ	مغفرة	(will be) forgiveness	maghfiratun
+13	11:11:9	w	وَأَجۡرٞ	ﲰ	واجر	and a reward	wa-ajrun
+13	11:11:10	w	كَبِيرٞ	ﲱ	كبير	great	kabīrun
+13	11:11:11	e	١١	ﲲ			
+13	11:12:1	w	فَلَعَلَّكَ	ﲳ	فلعلك	Then possibly you	falaʿallaka
+13	11:12:2	w	تَارِكُۢ	ﲴ	تارك	(may) give up	tārikun
+13	11:12:3	w	بَعۡضَ	ﲵ	بعض	a part	baʿḍa
+13	11:12:4	w	مَا	ﲶ	ما	(of) what	mā
+13	11:12:5	w	يُوحَىٰٓ	ﲷ	يوحى	is revealed	yūḥā
+13	11:12:6	w	إِلَيۡكَ	ﲸ	اليك	to you	ilayka
+14	11:12:7	w	وَضَآئِقُۢ	ﲹ	وضايق	and straitened	waḍāiqun
+14	11:12:8	w	بِهِۦ	ﲺ	به	by it	bihi
+14	11:12:9	w	صَدۡرُكَ	ﲻ	صدرك	your breast	ṣadruka
+14	11:12:10	w	أَن	ﲼ	ان	because	an
+14	11:12:11	w	يَقُولُواْ	ﲽ	يقولوا	they say	yaqūlū
+14	11:12:12	w	لَوۡلَآ	ﲾ	لولا	Why not	lawlā
+14	11:12:13	w	أُنزِلَ	ﲿ	انزل	is sent down	unzila
+14	11:12:14	w	عَلَيۡهِ	ﳀ	عليه	for him	ʿalayhi
+14	11:12:15	w	كَنزٌ	ﳁ	كنز	a treasure	kanzun
+14	11:12:16	w	أَوۡ	ﳂ	او	or	aw
+14	11:12:17	w	جَآءَ	ﳃ	جاء	has come	jāa
+15	11:12:18	w	مَعَهُۥ	ﳄ	معه	with him	maʿahu
+15	11:12:19	w	مَلَكٌۚ	ﳅﳆ	ملك	an Angel	malakun
+15	11:12:20	w	إِنَّمَآ	ﳇ	انما	Only	innamā
+15	11:12:21	w	أَنتَ	ﳈ	انت	you	anta
+15	11:12:22	w	نَذِيرٞۚ	ﳉﳊ	نذير	(are) a warner	nadhīrun
+15	11:12:23	w	وَٱللَّهُ	ﳋ	والله	And Allah	wal-lahu
+15	11:12:24	w	عَلَىٰ	ﳌ	على	(is) on	ʿalā
+15	11:12:25	w	كُلِّ	ﳍ	كل	every	kulli
+15	11:12:26	w	شَيۡءٖ	ﳎ	شيء	thing	shayin
+15	11:12:27	w	وَكِيلٌ	ﳏ	وكيل	a Guardian	wakīlun
+15	11:12:28	e	١٢	ﳐ			

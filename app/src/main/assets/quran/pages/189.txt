@@ -1,0 +1,134 @@
+1	9:14:1	w	قَٰتِلُوهُمۡ	ﱁ	قاتلوهم	Fight them	qātilūhum
+1	9:14:2	w	يُعَذِّبۡهُمُ	ﱂ	يعذبهم	Allah will punish them	yuʿadhib'humu
+1	9:14:3	w	ٱللَّهُ	ﱃ	الله	Allah will punish them	l-lahu
+1	9:14:4	w	بِأَيۡدِيكُمۡ	ﱄ	بايديكم	by your hands	bi-aydīkum
+1	9:14:5	w	وَيُخۡزِهِمۡ	ﱅ	ويخزهم	and disgrace them	wayukh'zihim
+1	9:14:6	w	وَيَنصُرۡكُمۡ	ﱆ	وينصركم	and give you victory	wayanṣur'kum
+2	9:14:7	w	عَلَيۡهِمۡ	ﱇ	عليهم	over them	ʿalayhim
+2	9:14:8	w	وَيَشۡفِ	ﱈ	ويشف	and will heal	wayashfi
+2	9:14:9	w	صُدُورَ	ﱉ	صدور	(the) breasts	ṣudūra
+2	9:14:10	w	قَوۡمٖ	ﱊ	قوم	(of) a people	qawmin
+2	9:14:11	w	مُّؤۡمِنِينَ	ﱋ	مومنين	(who are) believers	mu'minīna
+2	9:14:12	e	١٤	ﱌ			
+2	9:15:1	w	وَيُذۡهِبۡ	ﱍ	ويذهب	And remove	wayudh'hib
+2	9:15:2	w	غَيۡظَ	ﱎ	غيظ	(the) anger	ghayẓa
+3	9:15:3	w	قُلُوبِهِمۡۗ	ﱏﱐ	قلوبهم	(of) their hearts	qulūbihim
+3	9:15:4	w	وَيَتُوبُ	ﱑ	ويتوب	And Allah accepts repentance	wayatūbu
+3	9:15:5	w	ٱللَّهُ	ﱒ	الله	And Allah accepts repentance	l-lahu
+3	9:15:6	w	عَلَىٰ	ﱓ	على	of	ʿalā
+3	9:15:7	w	مَن	ﱔ	من	whom	man
+3	9:15:8	w	يَشَآءُۗ	ﱕﱖ	يشاء	He wills	yashāu
+3	9:15:9	w	وَٱللَّهُ	ﱗ	والله	And Allah	wal-lahu
+3	9:15:10	w	عَلِيمٌ	ﱘ	عليم	(is) All-Knower	ʿalīmun
+3	9:15:11	w	حَكِيمٌ	ﱙ	حكيم	All-Wise	ḥakīmun
+3	9:15:12	e	١٥	ﱚ			
+4	9:16:1	w	أَمۡ	ﱛ	ام	Or	am
+4	9:16:2	w	حَسِبۡتُمۡ	ﱜ	حسبتم	(do) you think	ḥasib'tum
+4	9:16:3	w	أَن	ﱝ	ان	that	an
+4	9:16:4	w	تُتۡرَكُواْ	ﱞ	تتركوا	you would be left	tut'rakū
+4	9:16:5	w	وَلَمَّا	ﱟ	ولما	while not	walammā
+4	9:16:6	w	يَعۡلَمِ	ﱠ	يعلم	Allah made evident	yaʿlami
+4	9:16:7	w	ٱللَّهُ	ﱡ	الله	Allah made evident	l-lahu
+4	9:16:8	w	ٱلَّذِينَ	ﱢ	الذين	those who	alladhīna
+4	9:16:9	w	جَٰهَدُواْ	ﱣ	جاهدوا	strive	jāhadū
+4	9:16:10	w	مِنكُمۡ	ﱤ	منكم	among you	minkum
+5	9:16:11	w	وَلَمۡ	ﱥ	ولم	and not	walam
+5	9:16:12	w	يَتَّخِذُواْ	ﱦ	يتخذوا	take	yattakhidhū
+5	9:16:13	w	مِن	ﱧ	من	besides Allah	min
+5	9:16:14	w	دُونِ	ﱨ	دون	besides Allah	dūni
+5	9:16:15	w	ٱللَّهِ	ﱩ	الله	besides Allah	l-lahi
+5	9:16:16	w	وَلَا	ﱪ	ولا	and not	walā
+5	9:16:17	w	رَسُولِهِۦ	ﱫ	رسوله	His Messenger	rasūlihi
+5	9:16:18	w	وَلَا	ﱬ	ولا	and not	walā
+5	9:16:19	w	ٱلۡمُؤۡمِنِينَ	ﱭ	المومنين	the believers	l-mu'minīna
+5	9:16:20	w	وَلِيجَةٗۚ	ﱮﱯ	وليجة	(as) intimates	walījatan
+6	9:16:21	w	وَٱللَّهُ	ﱰ	والله	And Allah	wal-lahu
+6	9:16:22	w	خَبِيرُۢ	ﱱ	خبير	(is) All-Aware	khabīrun
+6	9:16:23	w	بِمَا	ﱲ	بما	of what	bimā
+6	9:16:24	w	تَعۡمَلُونَ	ﱳ	تعملون	you do	taʿmalūna
+6	9:16:25	e	١٦	ﱴ			
+6	9:17:1	w	مَا	ﱵ	ما	(It) is not	mā
+6	9:17:2	w	كَانَ	ﱶ	كان	(It) is not	kāna
+6	9:17:3	w	لِلۡمُشۡرِكِينَ	ﱷ	للمشركين	for the polytheists	lil'mush'rikīna
+6	9:17:4	w	أَن	ﱸ	ان	that	an
+6	9:17:5	w	يَعۡمُرُواْ	ﱹ	يعمروا	they maintain	yaʿmurū
+6	9:17:6	w	مَسَٰجِدَ	ﱺ	مساجد	(the) masajid of Allah	masājida
+7	9:17:7	w	ٱللَّهِ	ﱻ	الله	(the) masajid of Allah	l-lahi
+7	9:17:8	w	شَٰهِدِينَ	ﱼ	شاهدين	(while) witnessing	shāhidīna
+7	9:17:9	w	عَلَىٰٓ	ﱽ	على	against	ʿalā
+7	9:17:10	w	أَنفُسِهِم	ﱾ	انفسهم	themselves	anfusihim
+7	9:17:11	w	بِٱلۡكُفۡرِۚ	ﱿﲀ	بالكفر	[with] disbelief	bil-kuf'ri
+7	9:17:12	w	أُوْلَٰٓئِكَ	ﲁ	اولايك	(For) those	ulāika
+7	9:17:13	w	حَبِطَتۡ	ﲂ	حبطت	worthless	ḥabiṭat
+8	9:17:14	w	أَعۡمَٰلُهُمۡ	ﲃ	اعمالهم	(are) their deeds	aʿmāluhum
+8	9:17:15	w	وَفِي	ﲄ	وفي	and in	wafī
+8	9:17:16	w	ٱلنَّارِ	ﲅ	النار	the Fire	l-nāri
+8	9:17:17	w	هُمۡ	ﲆ	هم	they	hum
+8	9:17:18	w	خَٰلِدُونَ	ﲇ	خالدون	(will) abide forever	khālidūna
+8	9:17:19	e	١٧	ﲈ			
+8	9:18:1	w	إِنَّمَا	ﲉ	انما	Only	innamā
+8	9:18:2	w	يَعۡمُرُ	ﲊ	يعمر	will maintain	yaʿmuru
+8	9:18:3	w	مَسَٰجِدَ	ﲋ	مساجد	(the) masajid of Allah	masājida
+9	9:18:4	w	ٱللَّهِ	ﲌ	الله	(the) masajid of Allah	l-lahi
+9	9:18:5	w	مَنۡ	ﲍ	من	(the one) who	man
+9	9:18:6	w	ءَامَنَ	ﲎ	امن	believes	āmana
+9	9:18:7	w	بِٱللَّهِ	ﲏ	بالله	in Allah	bil-lahi
+9	9:18:8	w	وَٱلۡيَوۡمِ	ﲐ	واليوم	and the Day	wal-yawmi
+9	9:18:9	w	ٱلۡأٓخِرِ	ﲑ	الاخر	the Last	l-ākhiri
+9	9:18:10	w	وَأَقَامَ	ﲒ	واقام	and establishes	wa-aqāma
+9	9:18:11	w	ٱلصَّلَوٰةَ	ﲓ	الصلاة	the prayer	l-ṣalata
+9	9:18:12	w	وَءَاتَى	ﲔ	واتى	and gives	waātā
+10	9:18:13	w	ٱلزَّكَوٰةَ	ﲕ	الزكاة	the zakah	l-zakata
+10	9:18:14	w	وَلَمۡ	ﲖ	ولم	and not	walam
+10	9:18:15	w	يَخۡشَ	ﲗ	يخش	fear	yakhsha
+10	9:18:16	w	إِلَّا	ﲘ	الا	except	illā
+10	9:18:17	w	ٱللَّهَۖ	ﲙﲚ	الله	Allah	l-laha
+10	9:18:18	w	فَعَسَىٰٓ	ﲛ	فعسى	Then perhaps	faʿasā
+10	9:18:19	w	أُوْلَٰٓئِكَ	ﲜ	اولايك	those	ulāika
+10	9:18:20	w	أَن	ﲝ	ان	[that]	an
+10	9:18:21	w	يَكُونُواْ	ﲞ	يكونوا	they are	yakūnū
+10	9:18:22	w	مِنَ	ﲟ	من	of	mina
+11	9:18:23	w	ٱلۡمُهۡتَدِينَ	ﲠ	المهتدين	the guided ones	l-muh'tadīna
+11	9:18:24	e	١٨	ﲡ			
+11	9:19:1	w	۞ أَجَعَلۡتُمۡ	ﲢ ﲣ	۞ اجعلتم	Do you make	ajaʿaltum
+11	9:19:2	w	سِقَايَةَ	ﲤ	سقاية	the providing of water	siqāyata
+11	9:19:3	w	ٱلۡحَآجِّ	ﲥ	الحاج	(to) the pilgrims	l-ḥāji
+11	9:19:4	w	وَعِمَارَةَ	ﲦ	وعمارة	and (the) maintenance	waʿimārata
+11	9:19:5	w	ٱلۡمَسۡجِدِ	ﲧ	المسجد	(of) Al-Masjid Al-Haraam	l-masjidi
+12	9:19:6	w	ٱلۡحَرَامِ	ﲨ	الحرام	(of) Al-Masjid Al-Haraam	l-ḥarāmi
+12	9:19:7	w	كَمَنۡ	ﲩ	كمن	like (the one) who	kaman
+12	9:19:8	w	ءَامَنَ	ﲪ	امن	believes	āmana
+12	9:19:9	w	بِٱللَّهِ	ﲫ	بالله	in Allah	bil-lahi
+12	9:19:10	w	وَٱلۡيَوۡمِ	ﲬ	واليوم	and the Day	wal-yawmi
+12	9:19:11	w	ٱلۡأٓخِرِ	ﲭ	الاخر	the Last	l-ākhiri
+12	9:19:12	w	وَجَٰهَدَ	ﲮ	وجاهد	and strives	wajāhada
+12	9:19:13	w	فِي	ﲯ	في	in	fī
+12	9:19:14	w	سَبِيلِ	ﲰ	سبيل	(the) way	sabīli
+13	9:19:15	w	ٱللَّهِۚ	ﲱﲲ	الله	(of) Allah	l-lahi
+13	9:19:16	w	لَا	ﲳ	لا	They are not equal	lā
+13	9:19:17	w	يَسۡتَوُۥنَ	ﲴ	يستوون	They are not equal	yastawūna
+13	9:19:18	w	عِندَ	ﲵ	عند	near	ʿinda
+13	9:19:19	w	ٱللَّهِۗ	ﲶﲷ	الله	Allah	l-lahi
+13	9:19:20	w	وَٱللَّهُ	ﲸ	والله	And Allah	wal-lahu
+13	9:19:21	w	لَا	ﲹ	لا	(does) not	lā
+13	9:19:22	w	يَهۡدِي	ﲺ	يهدي	guide	yahdī
+13	9:19:23	w	ٱلۡقَوۡمَ	ﲻ	القوم	the people	l-qawma
+13	9:19:24	w	ٱلظَّٰلِمِينَ	ﲼ	الظالمين	the wrongdoers	l-ẓālimīna
+14	9:19:25	e	١٩	ﲽ			
+14	9:20:1	w	ٱلَّذِينَ	ﲾ	الذين	Those who	alladhīna
+14	9:20:2	w	ءَامَنُواْ	ﲿ	امنوا	believed	āmanū
+14	9:20:3	w	وَهَاجَرُواْ	ﳀ	وهاجروا	and emigrated	wahājarū
+14	9:20:4	w	وَجَٰهَدُواْ	ﳁ	وجاهدوا	and strove	wajāhadū
+14	9:20:5	w	فِي	ﳂ	في	in	fī
+14	9:20:6	w	سَبِيلِ	ﳃ	سبيل	(the) way	sabīli
+14	9:20:7	w	ٱللَّهِ	ﳄ	الله	(of) Allah	l-lahi
+14	9:20:8	w	بِأَمۡوَٰلِهِمۡ	ﳅ	باموالهم	with their wealth	bi-amwālihim
+15	9:20:9	w	وَأَنفُسِهِمۡ	ﳆ	وانفسهم	and their lives	wa-anfusihim
+15	9:20:10	w	أَعۡظَمُ	ﳇ	اعظم	(are) greater	aʿẓamu
+15	9:20:11	w	دَرَجَةً	ﳈ	درجة	(in) rank	darajatan
+15	9:20:12	w	عِندَ	ﳉ	عند	near	ʿinda
+15	9:20:13	w	ٱللَّهِۚ	ﳊﳋ	الله	Allah	l-lahi
+15	9:20:14	w	وَأُوْلَٰٓئِكَ	ﳌ	واولايك	And those	wa-ulāika
+15	9:20:15	w	هُمُ	ﳍ	هم	they	humu
+15	9:20:16	w	ٱلۡفَآئِزُونَ	ﳎ	الفايزون	(are) the successful	l-fāizūna
+15	9:20:17	e	٢٠	ﳏ			

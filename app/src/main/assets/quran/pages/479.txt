@@ -1,0 +1,143 @@
+1	41:21:1	w	وَقَالُواْ	ﱁ	وقالوا	And they will say	waqālū
+1	41:21:2	w	لِجُلُودِهِمۡ	ﱂ	لجلودهم	to their skins	lijulūdihim
+1	41:21:3	w	لِمَ	ﱃ	لم	Why do	lima
+1	41:21:4	w	شَهِدتُّمۡ	ﱄ	شهدتم	you testify	shahidttum
+1	41:21:5	w	عَلَيۡنَاۖ	ﱅﱆ	علينا	against us	ʿalaynā
+1	41:21:6	w	قَالُوٓاْ	ﱇ	قالوا	They will say	qālū
+1	41:21:7	w	أَنطَقَنَا	ﱈ	انطقنا	Allah made us speak	anṭaqanā
+1	41:21:8	w	ٱللَّهُ	ﱉ	الله	Allah made us speak	l-lahu
+1	41:21:9	w	ٱلَّذِيٓ	ﱊ	الذي	the One Who	alladhī
+2	41:21:10	w	أَنطَقَ	ﱋ	انطق	makes speak	anṭaqa
+2	41:21:11	w	كُلَّ	ﱌ	كل	every	kulla
+2	41:21:12	w	شَيۡءٖۚ	ﱍﱎ	شيء	thing	shayin
+2	41:21:13	w	وَهُوَ	ﱏ	وهو	and He	wahuwa
+2	41:21:14	w	خَلَقَكُمۡ	ﱐ	خلقكم	created you	khalaqakum
+2	41:21:15	w	أَوَّلَ	ﱑ	اول	(the) first	awwala
+2	41:21:16	w	مَرَّةٖ	ﱒ	مرة	time	marratin
+2	41:21:17	w	وَإِلَيۡهِ	ﱓ	واليه	and to Him	wa-ilayhi
+2	41:21:18	w	تُرۡجَعُونَ	ﱔ	ترجعون	you will be returned	tur'jaʿūna
+2	41:21:19	e	٢١	ﱕ			
+3	41:22:1	w	وَمَا	ﱖ	وما	And not	wamā
+3	41:22:2	w	كُنتُمۡ	ﱗ	كنتم	you were	kuntum
+3	41:22:3	w	تَسۡتَتِرُونَ	ﱘ	تستترون	covering yourselves	tastatirūna
+3	41:22:4	w	أَن	ﱙ	ان	lest	an
+3	41:22:5	w	يَشۡهَدَ	ﱚ	يشهد	testify	yashhada
+3	41:22:6	w	عَلَيۡكُمۡ	ﱛ	عليكم	against you	ʿalaykum
+3	41:22:7	w	سَمۡعُكُمۡ	ﱜ	سمعكم	your hearing	samʿukum
+3	41:22:8	w	وَلَآ	ﱝ	ولا	and not	walā
+3	41:22:9	w	أَبۡصَٰرُكُمۡ	ﱞ	ابصاركم	your sight	abṣārukum
+4	41:22:10	w	وَلَا	ﱟ	ولا	and not	walā
+4	41:22:11	w	جُلُودُكُمۡ	ﱠ	جلودكم	your skins	julūdukum
+4	41:22:12	w	وَلَٰكِن	ﱡ	ولاكن	but	walākin
+4	41:22:13	w	ظَنَنتُمۡ	ﱢ	ظننتم	you assumed	ẓanantum
+4	41:22:14	w	أَنَّ	ﱣ	ان	that	anna
+4	41:22:15	w	ٱللَّهَ	ﱤ	الله	Allah	l-laha
+4	41:22:16	w	لَا	ﱥ	لا	(does) not	lā
+4	41:22:17	w	يَعۡلَمُ	ﱦ	يعلم	know	yaʿlamu
+4	41:22:18	w	كَثِيرٗا	ﱧ	كثيرا	much	kathīran
+4	41:22:19	w	مِّمَّا	ﱨ	مما	of what	mimmā
+4	41:22:20	w	تَعۡمَلُونَ	ﱩ	تعملون	you do	taʿmalūna
+5	41:22:21	e	٢٢	ﱪ			
+5	41:23:1	w	وَذَٰلِكُمۡ	ﱫ	وذالكم	And that	wadhālikum
+5	41:23:2	w	ظَنُّكُمُ	ﱬ	ظنكم	(was) your assumption	ẓannukumu
+5	41:23:3	w	ٱلَّذِي	ﱭ	الذي	which	alladhī
+5	41:23:4	w	ظَنَنتُم	ﱮ	ظننتم	you assumed	ẓanantum
+5	41:23:5	w	بِرَبِّكُمۡ	ﱯ	بربكم	about your Lord	birabbikum
+5	41:23:6	w	أَرۡدَىٰكُمۡ	ﱰ	ارداكم	It has ruined you	ardākum
+5	41:23:7	w	فَأَصۡبَحۡتُم	ﱱ	فاصبحتم	and you have become	fa-aṣbaḥtum
+6	41:23:8	w	مِّنَ	ﱲ	من	of	mina
+6	41:23:9	w	ٱلۡخَٰسِرِينَ	ﱳ	الخاسرين	the losers	l-khāsirīna
+6	41:23:10	e	٢٣	ﱴ			
+6	41:24:1	w	فَإِن	ﱵ	فان	Then if	fa-in
+6	41:24:2	w	يَصۡبِرُواْ	ﱶ	يصبروا	they endure	yaṣbirū
+6	41:24:3	w	فَٱلنَّارُ	ﱷ	فالنار	the Fire	fal-nāru
+6	41:24:4	w	مَثۡوٗى	ﱸ	مثوى	(is) an abode	mathwan
+6	41:24:5	w	لَّهُمۡۖ	ﱹﱺ	لهم	for them	lahum
+6	41:24:6	w	وَإِن	ﱻ	وان	and if	wa-in
+6	41:24:7	w	يَسۡتَعۡتِبُواْ	ﱼ	يستعتبوا	they ask for favor	yastaʿtibū
+7	41:24:8	w	فَمَا	ﱽ	فما	then not	famā
+7	41:24:9	w	هُم	ﱾ	هم	they	hum
+7	41:24:10	w	مِّنَ	ﱿ	من	(will be) of	mina
+7	41:24:11	w	ٱلۡمُعۡتَبِينَ	ﲀ	المعتبين	those who receive favor	l-muʿ'tabīna
+7	41:24:12	e	٢٤	ﲁ			
+7	41:25:1	w	۞ وَقَيَّضۡنَا	ﲂ ﲃ	۞ وقيضنا	And We have destined	waqayyaḍnā
+7	41:25:2	w	لَهُمۡ	ﲄ	لهم	for them	lahum
+7	41:25:3	w	قُرَنَآءَ	ﲅ	قرناء	companions	quranāa
+7	41:25:4	w	فَزَيَّنُواْ	ﲆ	فزينوا	(who) made fair-seeming	fazayyanū
+7	41:25:5	w	لَهُم	ﲇ	لهم	to them	lahum
+8	41:25:6	w	مَّا	ﲈ	ما	what	mā
+8	41:25:7	w	بَيۡنَ	ﲉ	بين	(was) before them	bayna
+8	41:25:8	w	أَيۡدِيهِمۡ	ﲊ	ايديهم	(was) before them	aydīhim
+8	41:25:9	w	وَمَا	ﲋ	وما	and what	wamā
+8	41:25:10	w	خَلۡفَهُمۡ	ﲌ	خلفهم	(was) behind them	khalfahum
+8	41:25:11	w	وَحَقَّ	ﲍ	وحق	and (is) justified	waḥaqqa
+8	41:25:12	w	عَلَيۡهِمُ	ﲎ	عليهم	against them	ʿalayhimu
+8	41:25:13	w	ٱلۡقَوۡلُ	ﲏ	القول	the Word	l-qawlu
+8	41:25:14	w	فِيٓ	ﲐ	في	among	fī
+8	41:25:15	w	أُمَمٖ	ﲑ	امم	nations	umamin
+8	41:25:16	w	قَدۡ	ﲒ	قد	(that have) passed away	qad
+9	41:25:17	w	خَلَتۡ	ﲓ	خلت	(that have) passed away	khalat
+9	41:25:18	w	مِن	ﲔ	من	before them	min
+9	41:25:19	w	قَبۡلِهِم	ﲕ	قبلهم	before them	qablihim
+9	41:25:20	w	مِّنَ	ﲖ	من	of	mina
+9	41:25:21	w	ٱلۡجِنِّ	ﲗ	الجن	the jinn	l-jini
+9	41:25:22	w	وَٱلۡإِنسِۖ	ﲘﲙ	والانس	and the men	wal-insi
+9	41:25:23	w	إِنَّهُمۡ	ﲚ	انهم	Indeed, they	innahum
+9	41:25:24	w	كَانُواْ	ﲛ	كانوا	were	kānū
+9	41:25:25	w	خَٰسِرِينَ	ﲜ	خاسرين	losers	khāsirīna
+9	41:25:26	e	٢٥	ﲝ			
+10	41:26:1	w	وَقَالَ	ﲞ	وقال	And said	waqāla
+10	41:26:2	w	ٱلَّذِينَ	ﲟ	الذين	those who	alladhīna
+10	41:26:3	w	كَفَرُواْ	ﲠ	كفروا	disbelieve	kafarū
+10	41:26:4	w	لَا	ﲡ	لا	(Do) not	lā
+10	41:26:5	w	تَسۡمَعُواْ	ﲢ	تسمعوا	listen	tasmaʿū
+10	41:26:6	w	لِهَٰذَا	ﲣ	لهاذا	to this	lihādhā
+10	41:26:7	w	ٱلۡقُرۡءَانِ	ﲤ	القران	Quran	l-qur'āni
+10	41:26:8	w	وَٱلۡغَوۡاْ	ﲥ	والغوا	and make noise	wal-ghaw
+10	41:26:9	w	فِيهِ	ﲦ	فيه	therein	fīhi
+11	41:26:10	w	لَعَلَّكُمۡ	ﲧ	لعلكم	so that you may	laʿallakum
+11	41:26:11	w	تَغۡلِبُونَ	ﲨ	تغلبون	overcome	taghlibūna
+11	41:26:12	e	٢٦	ﲩ			
+11	41:27:1	w	فَلَنُذِيقَنَّ	ﲪ	فلنذيقن	But surely We will cause to taste	falanudhīqanna
+11	41:27:2	w	ٱلَّذِينَ	ﲫ	الذين	those who	alladhīna
+11	41:27:3	w	كَفَرُواْ	ﲬ	كفروا	disbelieve	kafarū
+11	41:27:4	w	عَذَابٗا	ﲭ	عذابا	a punishment	ʿadhāban
+11	41:27:5	w	شَدِيدٗا	ﲮ	شديدا	severe	shadīdan
+12	41:27:6	w	وَلَنَجۡزِيَنَّهُمۡ	ﲯ	ولنجزينهم	and surely We will recompense them	walanajziyannahum
+12	41:27:7	w	أَسۡوَأَ	ﲰ	اسوا	(the) worst	aswa-a
+12	41:27:8	w	ٱلَّذِي	ﲱ	الذي	(of) what	alladhī
+12	41:27:9	w	كَانُواْ	ﲲ	كانوا	they used to	kānū
+12	41:27:10	w	يَعۡمَلُونَ	ﲳ	يعملون	do	yaʿmalūna
+12	41:27:11	e	٢٧	ﲴ			
+12	41:28:1	w	ذَٰلِكَ	ﲵ	ذالك	That	dhālika
+12	41:28:2	w	جَزَآءُ	ﲶ	جزاء	(is the) recompense	jazāu
+12	41:28:3	w	أَعۡدَآءِ	ﲷ	اعداء	(of the) enemies	aʿdāi
+12	41:28:4	w	ٱللَّهِ	ﲸ	الله	(of) Allah	l-lahi
+13	41:28:5	w	ٱلنَّارُۖ	ﲹﲺ	النار	the Fire	l-nāru
+13	41:28:6	w	لَهُمۡ	ﲻ	لهم	for them	lahum
+13	41:28:7	w	فِيهَا	ﲼ	فيها	therein	fīhā
+13	41:28:8	w	دَارُ	ﲽ	دار	(is the) home	dāru
+13	41:28:9	w	ٱلۡخُلۡدِ	ﲾ	الخلد	(of) the eternity	l-khul'di
+13	41:28:10	w	جَزَآءَۢ	ﲿ	جزاء	(as) recompense	jazāan
+13	41:28:11	w	بِمَا	ﳀ	بما	for what	bimā
+13	41:28:12	w	كَانُواْ	ﳁ	كانوا	they used to	kānū
+13	41:28:13	w	بِـَٔايَٰتِنَا	ﳂ	باياتنا	of Our Verses	biāyātinā
+13	41:28:14	w	يَجۡحَدُونَ	ﳃ	يجحدون	reject	yajḥadūna
+14	41:28:15	e	٢٨	ﳄ			
+14	41:29:1	w	وَقَالَ	ﳅ	وقال	And (will) say	waqāla
+14	41:29:2	w	ٱلَّذِينَ	ﳆ	الذين	those who	alladhīna
+14	41:29:3	w	كَفَرُواْ	ﳇ	كفروا	disbelieve	kafarū
+14	41:29:4	w	رَبَّنَآ	ﳈ	ربنا	Our Lord	rabbanā
+14	41:29:5	w	أَرِنَا	ﳉ	ارنا	Show us	arinā
+14	41:29:6	w	ٱلَّذَيۡنِ	ﳊ	اللذين	those who	alladhayni
+14	41:29:7	w	أَضَلَّانَا	ﳋ	اضلانا	misled us	aḍallānā
+14	41:29:8	w	مِنَ	ﳌ	من	of	mina
+14	41:29:9	w	ٱلۡجِنِّ	ﳍ	الجن	the jinn	l-jini
+15	41:29:10	w	وَٱلۡإِنسِ	ﳎ	والانس	and the men	wal-insi
+15	41:29:11	w	نَجۡعَلۡهُمَا	ﳏ	نجعلهما	(so) we may put them	najʿalhumā
+15	41:29:12	w	تَحۡتَ	ﳐ	تحت	under	taḥta
+15	41:29:13	w	أَقۡدَامِنَا	ﳑ	اقدامنا	our feet	aqdāminā
+15	41:29:14	w	لِيَكُونَا	ﳒ	ليكونا	that they be	liyakūnā
+15	41:29:15	w	مِنَ	ﳓ	من	of	mina
+15	41:29:16	w	ٱلۡأَسۡفَلِينَ	ﳔ	الاسفلين	the lowest	l-asfalīna
+15	41:29:17	e	٢٩	ﳕ			

@@ -1,0 +1,137 @@
+1	3:101:1	w	وَكَيۡفَ	ﱁ	وكيف	And how (could)	wakayfa
+1	3:101:2	w	تَكۡفُرُونَ	ﱂ	تكفرون	you disbelieve	takfurūna
+1	3:101:3	w	وَأَنتُمۡ	ﱃ	وانتم	while [you]	wa-antum
+1	3:101:4	w	تُتۡلَىٰ	ﱄ	تتلى	is recited	tut'lā
+1	3:101:5	w	عَلَيۡكُمۡ	ﱅ	عليكم	upon you	ʿalaykum
+1	3:101:6	w	ءَايَٰتُ	ﱆ	ايات	(the) Verses	āyātu
+1	3:101:7	w	ٱللَّهِ	ﱇ	الله	(of) Allah	l-lahi
+1	3:101:8	w	وَفِيكُمۡ	ﱈ	وفيكم	and among you	wafīkum
+2	3:101:9	w	رَسُولُهُۥۗ	ﱉﱊ	رسوله	(is) His Messenger	rasūluhu
+2	3:101:10	w	وَمَن	ﱋ	ومن	And whoever	waman
+2	3:101:11	w	يَعۡتَصِم	ﱌ	يعتصم	holds firmly	yaʿtaṣim
+2	3:101:12	w	بِٱللَّهِ	ﱍ	بالله	to Allah	bil-lahi
+2	3:101:13	w	فَقَدۡ	ﱎ	فقد	then surely	faqad
+2	3:101:14	w	هُدِيَ	ﱏ	هدي	he is guided	hudiya
+2	3:101:15	w	إِلَىٰ	ﱐ	الى	to	ilā
+2	3:101:16	w	صِرَٰطٖ	ﱑ	صراط	a path	ṣirāṭin
+2	3:101:17	w	مُّسۡتَقِيمٖ	ﱒ	مستقيم	straight	mus'taqīmin
+2	3:101:18	e	١٠١	ﱓ			
+3	3:102:1	w	يَٰٓأَيُّهَا	ﱔ	يا ايها	O you	yāayyuhā
+3	3:102:2	w	ٱلَّذِينَ	ﱕ	الذين	who	alladhīna
+3	3:102:3	w	ءَامَنُواْ	ﱖ	امنوا	believe[d]	āmanū
+3	3:102:4	w	ٱتَّقُواْ	ﱗ	اتقوا	Fear	ittaqū
+3	3:102:5	w	ٱللَّهَ	ﱘ	الله	Allah	l-laha
+3	3:102:6	w	حَقَّ	ﱙ	حق	(as is His) right	ḥaqqa
+3	3:102:7	w	تُقَاتِهِۦ	ﱚ	تقاته	(that) He (should) be feared	tuqātihi
+3	3:102:8	w	وَلَا	ﱛ	ولا	and (do) not	walā
+3	3:102:9	w	تَمُوتُنَّ	ﱜ	تموتن	die	tamūtunna
+3	3:102:10	w	إِلَّا	ﱝ	الا	except	illā
+3	3:102:11	w	وَأَنتُم	ﱞ	وانتم	[while you]	wa-antum
+4	3:102:12	w	مُّسۡلِمُونَ	ﱟ	مسلمون	(as) Muslims	mus'limūna
+4	3:102:13	e	١٠٢	ﱠ			
+4	3:103:1	w	وَٱعۡتَصِمُواْ	ﱡ	واعتصموا	And hold firmly	wa-iʿ'taṣimū
+4	3:103:2	w	بِحَبۡلِ	ﱢ	بحبل	to (the) rope	biḥabli
+4	3:103:3	w	ٱللَّهِ	ﱣ	الله	(of) Allah	l-lahi
+4	3:103:4	w	جَمِيعٗا	ﱤ	جميعا	all together	jamīʿan
+4	3:103:5	w	وَلَا	ﱥ	ولا	and (do) not	walā
+4	3:103:6	w	تَفَرَّقُواْۚ	ﱦﱧ	تفرقوا	be divided	tafarraqū
+4	3:103:7	w	وَٱذۡكُرُواْ	ﱨ	واذكروا	And remember	wa-udh'kurū
+5	3:103:8	w	نِعۡمَتَ	ﱩ	نعمت	(the) Favor	niʿ'mata
+5	3:103:9	w	ٱللَّهِ	ﱪ	الله	(of) Allah	l-lahi
+5	3:103:10	w	عَلَيۡكُمۡ	ﱫ	عليكم	on you	ʿalaykum
+5	3:103:11	w	إِذۡ	ﱬ	اذ	when	idh
+5	3:103:12	w	كُنتُمۡ	ﱭ	كنتم	you were	kuntum
+5	3:103:13	w	أَعۡدَآءٗ	ﱮ	اعداء	enemies	aʿdāan
+5	3:103:14	w	فَأَلَّفَ	ﱯ	فالف	then He made friendship	fa-allafa
+5	3:103:15	w	بَيۡنَ	ﱰ	بين	between	bayna
+5	3:103:16	w	قُلُوبِكُمۡ	ﱱ	قلوبكم	your hearts	qulūbikum
+6	3:103:17	w	فَأَصۡبَحۡتُم	ﱲ	فاصبحتم	then you became	fa-aṣbaḥtum
+6	3:103:18	w	بِنِعۡمَتِهِۦٓ	ﱳ	بنعمته	by His Favor	biniʿ'matihi
+6	3:103:19	w	إِخۡوَٰنٗا	ﱴ	اخوانا	brothers	ikh'wānan
+6	3:103:20	w	وَكُنتُمۡ	ﱵ	وكنتم	And you were	wakuntum
+6	3:103:21	w	عَلَىٰ	ﱶ	على	on	ʿalā
+6	3:103:22	w	شَفَا	ﱷ	شفا	(the) brink	shafā
+6	3:103:23	w	حُفۡرَةٖ	ﱸ	حفرة	(of) pit	ḥuf'ratin
+6	3:103:24	w	مِّنَ	ﱹ	من	of	mina
+7	3:103:25	w	ٱلنَّارِ	ﱺ	النار	the Fire	l-nāri
+7	3:103:26	w	فَأَنقَذَكُم	ﱻ	فانقذكم	then He saved you	fa-anqadhakum
+7	3:103:27	w	مِّنۡهَاۗ	ﱼﱽ	منها	from it	min'hā
+7	3:103:28	w	كَذَٰلِكَ	ﱾ	كذالك	Thus	kadhālika
+7	3:103:29	w	يُبَيِّنُ	ﱿ	يبين	makes clear	yubayyinu
+7	3:103:30	w	ٱللَّهُ	ﲀ	الله	Allah	l-lahu
+7	3:103:31	w	لَكُمۡ	ﲁ	لكم	for you	lakum
+7	3:103:32	w	ءَايَٰتِهِۦ	ﲂ	اياته	His Verses	āyātihi
+7	3:103:33	w	لَعَلَّكُمۡ	ﲃ	لعلكم	so that you may	laʿallakum
+8	3:103:34	w	تَهۡتَدُونَ	ﲄ	تهتدون	(be) guided	tahtadūna
+8	3:103:35	e	١٠٣	ﲅ			
+8	3:104:1	w	وَلۡتَكُن	ﲆ	ولتكن	And let there be	waltakun
+8	3:104:2	w	مِّنكُمۡ	ﲇ	منكم	among you	minkum
+8	3:104:3	w	أُمَّةٞ	ﲈ	امة	[a] people	ummatun
+8	3:104:4	w	يَدۡعُونَ	ﲉ	يدعون	inviting	yadʿūna
+8	3:104:5	w	إِلَى	ﲊ	الى	to	ilā
+8	3:104:6	w	ٱلۡخَيۡرِ	ﲋ	الخير	the good	l-khayri
+8	3:104:7	w	وَيَأۡمُرُونَ	ﲌ	ويامرون	[and] enjoining	wayamurūna
+9	3:104:8	w	بِٱلۡمَعۡرُوفِ	ﲍ	بالمعروف	the right	bil-maʿrūfi
+9	3:104:9	w	وَيَنۡهَوۡنَ	ﲎ	وينهون	and forbidding	wayanhawna
+9	3:104:10	w	عَنِ	ﲏ	عن	from	ʿani
+9	3:104:11	w	ٱلۡمُنكَرِۚ	ﲐﲑ	المنكر	the wrong	l-munkari
+9	3:104:12	w	وَأُوْلَٰٓئِكَ	ﲒ	واولايك	and those	wa-ulāika
+9	3:104:13	w	هُمُ	ﲓ	هم	they	humu
+9	3:104:14	w	ٱلۡمُفۡلِحُونَ	ﲔ	المفلحون	(are) the successful ones	l-muf'liḥūna
+9	3:104:15	e	١٠٤	ﲕ			
+10	3:105:1	w	وَلَا	ﲖ	ولا	And (do) not	walā
+10	3:105:2	w	تَكُونُواْ	ﲗ	تكونوا	be	takūnū
+10	3:105:3	w	كَٱلَّذِينَ	ﲘ	كالذين	like those who	ka-alladhīna
+10	3:105:4	w	تَفَرَّقُواْ	ﲙ	تفرقوا	became divided	tafarraqū
+10	3:105:5	w	وَٱخۡتَلَفُواْ	ﲚ	واختلفوا	and differed	wa-ikh'talafū
+10	3:105:6	w	مِنۢ	ﲛ	من	from	min
+10	3:105:7	w	بَعۡدِ	ﲜ	بعد	after	baʿdi
+10	3:105:8	w	مَا	ﲝ	ما	what	mā
+10	3:105:9	w	جَآءَهُمُ	ﲞ	جاءهم	came to them	jāahumu
+10	3:105:10	w	ٱلۡبَيِّنَٰتُۚ	ﲟﲠ	البينات	the clear proofs	l-bayinātu
+11	3:105:11	w	وَأُوْلَٰٓئِكَ	ﲡ	واولايك	And those	wa-ulāika
+11	3:105:12	w	لَهُمۡ	ﲢ	لهم	for them	lahum
+11	3:105:13	w	عَذَابٌ	ﲣ	عذاب	(is) a punishment	ʿadhābun
+11	3:105:14	w	عَظِيمٞ	ﲤ	عظيم	great	ʿaẓīmun
+11	3:105:15	e	١٠٥	ﲥ			
+11	3:106:1	w	يَوۡمَ	ﲦ	يوم	(On the) Day	yawma
+11	3:106:2	w	تَبۡيَضُّ	ﲧ	تبيض	would become white	tabyaḍḍu
+11	3:106:3	w	وُجُوهٞ	ﲨ	وجوه	(some) faces	wujūhun
+11	3:106:4	w	وَتَسۡوَدُّ	ﲩ	وتسود	and would become black	wataswaddu
+12	3:106:5	w	وُجُوهٞۚ	ﲪﲫ	وجوه	(some) faces	wujūhun
+12	3:106:6	w	فَأَمَّا	ﲬ	فاما	As for	fa-ammā
+12	3:106:7	w	ٱلَّذِينَ	ﲭ	الذين	those whose	alladhīna
+12	3:106:8	w	ٱسۡوَدَّتۡ	ﲮ	اسودت	turn black	is'waddat
+12	3:106:9	w	وُجُوهُهُمۡ	ﲯ	وجوههم	[their] faces	wujūhuhum
+12	3:106:10	w	أَكَفَرۡتُم	ﲰ	اكفرتم	Did you disbelieve	akafartum
+12	3:106:11	w	بَعۡدَ	ﲱ	بعد	after	baʿda
+12	3:106:12	w	إِيمَٰنِكُمۡ	ﲲ	ايمانكم	your belief	īmānikum
+13	3:106:13	w	فَذُوقُواْ	ﲳ	فذوقوا	Then taste	fadhūqū
+13	3:106:14	w	ٱلۡعَذَابَ	ﲴ	العذاب	the punishment	l-ʿadhāba
+13	3:106:15	w	بِمَا	ﲵ	بما	for what	bimā
+13	3:106:16	w	كُنتُمۡ	ﲶ	كنتم	you used to	kuntum
+13	3:106:17	w	تَكۡفُرُونَ	ﲷ	تكفرون	disbelieve	takfurūna
+13	3:106:18	e	١٠٦	ﲸ			
+13	3:107:1	w	وَأَمَّا	ﲹ	واما	But as for	wa-ammā
+13	3:107:2	w	ٱلَّذِينَ	ﲺ	الذين	those whose	alladhīna
+13	3:107:3	w	ٱبۡيَضَّتۡ	ﲻ	ابيضت	turn white	ib'yaḍḍat
+14	3:107:4	w	وُجُوهُهُمۡ	ﲼ	وجوههم	[their] faces	wujūhuhum
+14	3:107:5	w	فَفِي	ﲽ	ففي	then (they will be) in	fafī
+14	3:107:6	w	رَحۡمَةِ	ﲾ	رحمة	(the) Mercy	raḥmati
+14	3:107:7	w	ٱللَّهِۖ	ﲿﳀ	الله	(of) Allah	l-lahi
+14	3:107:8	w	هُمۡ	ﳁ	هم	they	hum
+14	3:107:9	w	فِيهَا	ﳂ	فيها	in it	fīhā
+14	3:107:10	w	خَٰلِدُونَ	ﳃ	خالدون	(will) abide forever	khālidūna
+14	3:107:11	e	١٠٧	ﳄ			
+14	3:108:1	w	تِلۡكَ	ﳅ	تلك	These	til'ka
+14	3:108:2	w	ءَايَٰتُ	ﳆ	ايات	(are the) Verses	āyātu
+15	3:108:3	w	ٱللَّهِ	ﳇ	الله	(of) Allah	l-lahi
+15	3:108:4	w	نَتۡلُوهَا	ﳈ	نتلوها	We recite them	natlūhā
+15	3:108:5	w	عَلَيۡكَ	ﳉ	عليك	to you	ʿalayka
+15	3:108:6	w	بِٱلۡحَقِّۗ	ﳊﳋ	بالحق	in truth	bil-ḥaqi
+15	3:108:7	w	وَمَا	ﳌ	وما	And not	wamā
+15	3:108:8	w	ٱللَّهُ	ﳍ	الله	Allah	l-lahu
+15	3:108:9	w	يُرِيدُ	ﳎ	يريد	wants	yurīdu
+15	3:108:10	w	ظُلۡمٗا	ﳏ	ظلما	injustice	ẓul'man
+15	3:108:11	w	لِّلۡعَٰلَمِينَ	ﳐ	للعالمين	to the worlds	lil'ʿālamīna
+15	3:108:12	e	١٠٨	ﳑ			

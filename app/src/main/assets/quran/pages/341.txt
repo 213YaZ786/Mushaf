@@ -1,0 +1,119 @@
+1	22:73:1	w	يَٰٓأَيُّهَا	ﱁ	يا ايها	O mankind	yāayyuhā
+1	22:73:2	w	ٱلنَّاسُ	ﱂ	الناس	O mankind	l-nāsu
+1	22:73:3	w	ضُرِبَ	ﱃ	ضرب	Is set forth	ḍuriba
+1	22:73:4	w	مَثَلٞ	ﱄ	مثل	an example	mathalun
+1	22:73:5	w	فَٱسۡتَمِعُواْ	ﱅ	فاستمعوا	so listen	fa-is'tamiʿū
+1	22:73:6	w	لَهُۥٓۚ	ﱆﱇ	له	to it	lahu
+1	22:73:7	w	إِنَّ	ﱈ	ان	Indeed	inna
+1	22:73:8	w	ٱلَّذِينَ	ﱉ	الذين	those whom	alladhīna
+2	22:73:9	w	تَدۡعُونَ	ﱊ	تدعون	you invoke	tadʿūna
+2	22:73:10	w	مِن	ﱋ	من	besides Allah	min
+2	22:73:11	w	دُونِ	ﱌ	دون	besides Allah	dūni
+2	22:73:12	w	ٱللَّهِ	ﱍ	الله	besides Allah	l-lahi
+2	22:73:13	w	لَن	ﱎ	لن	will never	lan
+2	22:73:14	w	يَخۡلُقُواْ	ﱏ	يخلقوا	create	yakhluqū
+2	22:73:15	w	ذُبَابٗا	ﱐ	ذبابا	a fly	dhubāban
+2	22:73:16	w	وَلَوِ	ﱑ	ولو	even if	walawi
+2	22:73:17	w	ٱجۡتَمَعُواْ	ﱒ	اجتمعوا	they gathered together	ij'tamaʿū
+2	22:73:18	w	لَهُۥۖ	ﱓﱔ	له	for it	lahu
+3	22:73:19	w	وَإِن	ﱕ	وان	And if	wa-in
+3	22:73:20	w	يَسۡلُبۡهُمُ	ﱖ	يسلبهم	snatched away from them	yaslub'humu
+3	22:73:21	w	ٱلذُّبَابُ	ﱗ	الذباب	the fly	l-dhubābu
+3	22:73:22	w	شَيۡـٔٗا	ﱘ	شييا	a thing	shayan
+3	22:73:23	w	لَّا	ﱙ	لا	not	lā
+3	22:73:24	w	يَسۡتَنقِذُوهُ	ﱚ	يستنقذوه	they (could) take it back	yastanqidhūhu
+3	22:73:25	w	مِنۡهُۚ	ﱛﱜ	منه	from it	min'hu
+3	22:73:26	w	ضَعُفَ	ﱝ	ضعف	So weak	ḍaʿufa
+4	22:73:27	w	ٱلطَّالِبُ	ﱞ	الطالب	(are) the seeker	l-ṭālibu
+4	22:73:28	w	وَٱلۡمَطۡلُوبُ	ﱟ	والمطلوب	and the one who is sought	wal-maṭlūbu
+4	22:73:29	e	٧٣	ﱠ			
+4	22:74:1	w	مَا	ﱡ	ما	Not	mā
+4	22:74:2	w	قَدَرُواْ	ﱢ	قدروا	they (have) estimated	qadarū
+4	22:74:3	w	ٱللَّهَ	ﱣ	الله	Allah	l-laha
+4	22:74:4	w	حَقَّ	ﱤ	حق	(with) due	ḥaqqa
+4	22:74:5	w	قَدۡرِهِۦٓۚ	ﱥﱦ	قدره	[His] estimation	qadrihi
+4	22:74:6	w	إِنَّ	ﱧ	ان	Indeed	inna
+4	22:74:7	w	ٱللَّهَ	ﱨ	الله	Allah	l-laha
+5	22:74:8	w	لَقَوِيٌّ	ﱩ	لقوي	(is) surely All-Strong	laqawiyyun
+5	22:74:9	w	عَزِيزٌ	ﱪ	عزيز	All-Mighty	ʿazīzun
+5	22:74:10	e	٧٤	ﱫ			
+5	22:75:1	w	ٱللَّهُ	ﱬ	الله	Allah	al-lahu
+5	22:75:2	w	يَصۡطَفِي	ﱭ	يصطفي	chooses	yaṣṭafī
+5	22:75:3	w	مِنَ	ﱮ	من	from	mina
+5	22:75:4	w	ٱلۡمَلَٰٓئِكَةِ	ﱯ	الملايكة	the Angels	l-malāikati
+5	22:75:5	w	رُسُلٗا	ﱰ	رسلا	Messengers	rusulan
+6	22:75:6	w	وَمِنَ	ﱱ	ومن	and from	wamina
+6	22:75:7	w	ٱلنَّاسِۚ	ﱲﱳ	الناس	the mankind	l-nāsi
+6	22:75:8	w	إِنَّ	ﱴ	ان	Indeed	inna
+6	22:75:9	w	ٱللَّهَ	ﱵ	الله	Allah	l-laha
+6	22:75:10	w	سَمِيعُۢ	ﱶ	سميع	(is) All-Hearer	samīʿun
+6	22:75:11	w	بَصِيرٞ	ﱷ	بصير	All-Seer	baṣīrun
+6	22:75:12	e	٧٥	ﱸ			
+6	22:76:1	w	يَعۡلَمُ	ﱹ	يعلم	He knows	yaʿlamu
+6	22:76:2	w	مَا	ﱺ	ما	what	mā
+6	22:76:3	w	بَيۡنَ	ﱻ	بين	(is) before them	bayna
+7	22:76:4	w	أَيۡدِيهِمۡ	ﱼ	ايديهم	(is) before them	aydīhim
+7	22:76:5	w	وَمَا	ﱽ	وما	and what	wamā
+7	22:76:6	w	خَلۡفَهُمۡۚ	ﱾﱿ	خلفهم	(is) after them	khalfahum
+7	22:76:7	w	وَإِلَى	ﲀ	والى	And to	wa-ilā
+7	22:76:8	w	ٱللَّهِ	ﲁ	الله	Allah	l-lahi
+7	22:76:9	w	تُرۡجَعُ	ﲂ	ترجع	return	tur'jaʿu
+7	22:76:10	w	ٱلۡأُمُورُ	ﲃ	الامور	all the matters	l-umūru
+7	22:76:11	e	٧٦	ﲄ			
+7	22:77:1	w	يَٰٓأَيُّهَا	ﲅ	يا ايها	O you who believe	yāayyuhā
+8	22:77:2	w	ٱلَّذِينَ	ﲆ	الذين	O you who believe	alladhīna
+8	22:77:3	w	ءَامَنُواْ	ﲇ	امنوا	O you who believe	āmanū
+8	22:77:4	w	ٱرۡكَعُواْ	ﲈ	اركعوا	Bow	ir'kaʿū
+8	22:77:5	w	وَٱسۡجُدُواْۤ	ﲉﲊ	واسجدوا	and prostrate	wa-us'judū
+8	22:77:6	w	وَٱعۡبُدُواْ	ﲋ	واعبدوا	and worship	wa-uʿ'budū
+8	22:77:7	w	رَبَّكُمۡ	ﲌ	ربكم	your Lord	rabbakum
+9	22:77:8	w	وَٱفۡعَلُواْ	ﲍ	وافعلوا	and do	wa-if'ʿalū
+9	22:77:9	w	ٱلۡخَيۡرَ	ﲎ	الخير	[the] good	l-khayra
+9	22:77:10	w	لَعَلَّكُمۡ	ﲏ	لعلكم	so that you may	laʿallakum
+9	22:77:11	w	تُفۡلِحُونَ ۩	ﲐﲑ	تفلحون ۩	be successful	tuf'liḥūna
+9	22:77:12	e	٧٧	ﲒ			
+9	22:78:1	w	وَجَٰهِدُواْ	ﲓ	وجاهدوا	And strive	wajāhidū
+9	22:78:2	w	فِي	ﲔ	في	for	fī
+10	22:78:3	w	ٱللَّهِ	ﲕ	الله	Allah	l-lahi
+10	22:78:4	w	حَقَّ	ﲖ	حق	(with the) striving due (to) Him	ḥaqqa
+10	22:78:5	w	جِهَادِهِۦۚ	ﲗﲘ	جهاده	(with the) striving due (to) Him	jihādihi
+10	22:78:6	w	هُوَ	ﲙ	هو	He	huwa
+10	22:78:7	w	ٱجۡتَبَىٰكُمۡ	ﲚ	اجتباكم	(has) chosen you	ij'tabākum
+10	22:78:8	w	وَمَا	ﲛ	وما	and not	wamā
+10	22:78:9	w	جَعَلَ	ﲜ	جعل	placed	jaʿala
+10	22:78:10	w	عَلَيۡكُمۡ	ﲝ	عليكم	upon you	ʿalaykum
+11	22:78:11	w	فِي	ﲞ	في	in	fī
+11	22:78:12	w	ٱلدِّينِ	ﲟ	الدين	the religion	l-dīni
+11	22:78:13	w	مِنۡ	ﲠ	من	any	min
+11	22:78:14	w	حَرَجٖۚ	ﲡﲢ	حرج	difficulty	ḥarajin
+11	22:78:15	w	مِّلَّةَ	ﲣ	ملة	(The) religion	millata
+11	22:78:16	w	أَبِيكُمۡ	ﲤ	ابيكم	(of) your father	abīkum
+11	22:78:17	w	إِبۡرَٰهِيمَۚ	ﲥﲦ	ابراهيم	Ibrahim	ib'rāhīma
+11	22:78:18	w	هُوَ	ﲧ	هو	He	huwa
+11	22:78:19	w	سَمَّىٰكُمُ	ﲨ	سماكم	named you	sammākumu
+12	22:78:20	w	ٱلۡمُسۡلِمِينَ	ﲩ	المسلمين	Muslims	l-mus'limīna
+12	22:78:21	w	مِن	ﲪ	من	before	min
+12	22:78:22	w	قَبۡلُ	ﲫ	قبل	before	qablu
+12	22:78:23	w	وَفِي	ﲬ	وفي	and in	wafī
+12	22:78:24	w	هَٰذَا	ﲭ	هاذا	this	hādhā
+12	22:78:25	w	لِيَكُونَ	ﲮ	ليكون	that may be	liyakūna
+12	22:78:26	w	ٱلرَّسُولُ	ﲯ	الرسول	the Messenger	l-rasūlu
+12	22:78:27	w	شَهِيدًا	ﲰ	شهيدا	a witness	shahīdan
+12	22:78:28	w	عَلَيۡكُمۡ	ﲱ	عليكم	over you	ʿalaykum
+13	22:78:29	w	وَتَكُونُواْ	ﲲ	وتكونوا	and you may be	watakūnū
+13	22:78:30	w	شُهَدَآءَ	ﲳ	شهداء	witnesses	shuhadāa
+13	22:78:31	w	عَلَى	ﲴ	على	on	ʿalā
+13	22:78:32	w	ٱلنَّاسِۚ	ﲵﲶ	الناس	the mankind	l-nāsi
+13	22:78:33	w	فَأَقِيمُواْ	ﲷ	فاقيموا	So establish	fa-aqīmū
+13	22:78:34	w	ٱلصَّلَوٰةَ	ﲸ	الصلاة	the prayer	l-ṣalata
+13	22:78:35	w	وَءَاتُواْ	ﲹ	واتوا	and give	waātū
+13	22:78:36	w	ٱلزَّكَوٰةَ	ﲺ	الزكاة	zakah	l-zakata
+14	22:78:37	w	وَٱعۡتَصِمُواْ	ﲻ	واعتصموا	and hold fast	wa-iʿ'taṣimū
+14	22:78:38	w	بِٱللَّهِ	ﲼ	بالله	to Allah	bil-lahi
+14	22:78:39	w	هُوَ	ﲽ	هو	He	huwa
+14	22:78:40	w	مَوۡلَىٰكُمۡۖ	ﲾﲿ	مولاكم	(is) your Protector	mawlākum
+14	22:78:41	w	فَنِعۡمَ	ﳀ	فنعم	so an Excellent	faniʿ'ma
+14	22:78:42	w	ٱلۡمَوۡلَىٰ	ﳁ	المولى	[the] Protector	l-mawlā
+14	22:78:43	w	وَنِعۡمَ	ﳂ	ونعم	and an Excellent	waniʿ'ma
+14	22:78:44	w	ٱلنَّصِيرُ	ﳃ	النصير	[the] Helper	l-naṣīru
+14	22:78:45	e	٧٨	ﳄ			

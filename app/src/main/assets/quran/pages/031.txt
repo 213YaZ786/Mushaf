@@ -1,0 +1,119 @@
+1	2:197:1	w	ٱلۡحَجُّ	ﱁ	الحج	(For) the Hajj	al-ḥaju
+1	2:197:2	w	أَشۡهُرٞ	ﱂ	اشهر	(are) months	ashhurun
+1	2:197:3	w	مَّعۡلُومَٰتٞۚ	ﱃﱄ	معلومات	well known	maʿlūmātun
+1	2:197:4	w	فَمَن	ﱅ	فمن	then whoever	faman
+1	2:197:5	w	فَرَضَ	ﱆ	فرض	undertakes	faraḍa
+1	2:197:6	w	فِيهِنَّ	ﱇ	فيهن	therein	fīhinna
+1	2:197:7	w	ٱلۡحَجَّ	ﱈ	الحج	the Hajj	l-ḥaja
+1	2:197:8	w	فَلَا	ﱉ	فلا	then no	falā
+2	2:197:9	w	رَفَثَ	ﱊ	رفث	sexual relations	rafatha
+2	2:197:10	w	وَلَا	ﱋ	ولا	and no	walā
+2	2:197:11	w	فُسُوقَ	ﱌ	فسوق	wickedness	fusūqa
+2	2:197:12	w	وَلَا	ﱍ	ولا	and no	walā
+2	2:197:13	w	جِدَالَ	ﱎ	جدال	quarrelling	jidāla
+2	2:197:14	w	فِي	ﱏ	في	during	fī
+2	2:197:15	w	ٱلۡحَجِّۗ	ﱐﱑ	الحج	the Hajj	l-ḥaji
+2	2:197:16	w	وَمَا	ﱒ	وما	And whatever	wamā
+2	2:197:17	w	تَفۡعَلُواْ	ﱓ	تفعلوا	you do	tafʿalū
+2	2:197:18	w	مِنۡ	ﱔ	من	of	min
+3	2:197:19	w	خَيۡرٖ	ﱕ	خير	good	khayrin
+3	2:197:20	w	يَعۡلَمۡهُ	ﱖ	يعلمه	knows it	yaʿlamhu
+3	2:197:21	w	ٱللَّهُۗ	ﱗﱘ	الله	Allah	l-lahu
+3	2:197:22	w	وَتَزَوَّدُواْ	ﱙ	وتزودوا	And take provision	watazawwadū
+3	2:197:23	w	فَإِنَّ	ﱚ	فان	(but) indeed	fa-inna
+3	2:197:24	w	خَيۡرَ	ﱛ	خير	(the) best	khayra
+3	2:197:25	w	ٱلزَّادِ	ﱜ	الزاد	provision	l-zādi
+3	2:197:26	w	ٱلتَّقۡوَىٰۖ	ﱝﱞ	التقوى	(is) righteousness	l-taqwā
+4	2:197:27	w	وَٱتَّقُونِ	ﱟ	واتقون	And fear Me	wa-ittaqūni
+4	2:197:28	w	يَٰٓأُوْلِي	ﱠ	يا اولي	O men	yāulī
+4	2:197:29	w	ٱلۡأَلۡبَٰبِ	ﱡ	الالباب	(of) understanding	l-albābi
+4	2:197:30	e	١٩٧	ﱢ			
+4	2:198:1	w	لَيۡسَ	ﱣ	ليس	Not is	laysa
+4	2:198:2	w	عَلَيۡكُمۡ	ﱤ	عليكم	on you	ʿalaykum
+4	2:198:3	w	جُنَاحٌ	ﱥ	جناح	any sin	junāḥun
+5	2:198:4	w	أَن	ﱦ	ان	that	an
+5	2:198:5	w	تَبۡتَغُواْ	ﱧ	تبتغوا	you seek	tabtaghū
+5	2:198:6	w	فَضۡلٗا	ﱨ	فضلا	bounty	faḍlan
+5	2:198:7	w	مِّن	ﱩ	من	from	min
+5	2:198:8	w	رَّبِّكُمۡۚ	ﱪﱫ	ربكم	your Lord	rabbikum
+5	2:198:9	w	فَإِذَآ	ﱬ	فاذا	And when	fa-idhā
+5	2:198:10	w	أَفَضۡتُم	ﱭ	افضتم	you depart	afaḍtum
+5	2:198:11	w	مِّنۡ	ﱮ	من	from	min
+6	2:198:12	w	عَرَفَٰتٖ	ﱯ	عرفات	(Mount) Arafat	ʿarafātin
+6	2:198:13	w	فَٱذۡكُرُواْ	ﱰ	فاذكروا	then remember	fa-udh'kurū
+6	2:198:14	w	ٱللَّهَ	ﱱ	الله	Allah	l-laha
+6	2:198:15	w	عِندَ	ﱲ	عند	near	ʿinda
+6	2:198:16	w	ٱلۡمَشۡعَرِ	ﱳ	المشعر	the Monument	l-mashʿari
+6	2:198:17	w	ٱلۡحَرَامِۖ	ﱴﱵ	الحرام	[the] Sacred	l-ḥarāmi
+7	2:198:18	w	وَٱذۡكُرُوهُ	ﱶ	واذكروه	And remember Him	wa-udh'kurūhu
+7	2:198:19	w	كَمَا	ﱷ	كما	as	kamā
+7	2:198:20	w	هَدَىٰكُمۡ	ﱸ	هداكم	He (has) guided you	hadākum
+7	2:198:21	w	وَإِن	ﱹ	وان	[and] though	wa-in
+7	2:198:22	w	كُنتُم	ﱺ	كنتم	you were	kuntum
+7	2:198:23	w	مِّن	ﱻ	من	[from]	min
+7	2:198:24	w	قَبۡلِهِۦ	ﱼ	قبله	before [it]	qablihi
+8	2:198:25	w	لَمِنَ	ﱽ	لمن	surely among	lamina
+8	2:198:26	w	ٱلضَّآلِّينَ	ﱾ	الضالين	those who went astray	l-ḍālīna
+8	2:198:27	e	١٩٨	ﱿ			
+8	2:199:1	w	ثُمَّ	ﲀ	ثم	Then	thumma
+8	2:199:2	w	أَفِيضُواْ	ﲁ	افيضوا	depart	afīḍū
+8	2:199:3	w	مِنۡ	ﲂ	من	from	min
+8	2:199:4	w	حَيۡثُ	ﲃ	حيث	wherever	ḥaythu
+8	2:199:5	w	أَفَاضَ	ﲄ	افاض	depart	afāḍa
+9	2:199:6	w	ٱلنَّاسُ	ﲅ	الناس	the people	l-nāsu
+9	2:199:7	w	وَٱسۡتَغۡفِرُواْ	ﲆ	واستغفروا	and ask forgiveness	wa-is'taghfirū
+9	2:199:8	w	ٱللَّهَۚ	ﲇﲈ	الله	(of) Allah	l-laha
+9	2:199:9	w	إِنَّ	ﲉ	ان	Indeed	inna
+9	2:199:10	w	ٱللَّهَ	ﲊ	الله	Allah	l-laha
+9	2:199:11	w	غَفُورٞ	ﲋ	غفور	(is) Oft-Forgiving	ghafūrun
+9	2:199:12	w	رَّحِيمٞ	ﲌ	رحيم	Most Merciful	raḥīmun
+9	2:199:13	e	١٩٩	ﲍ			
+10	2:200:1	w	فَإِذَا	ﲎ	فاذا	Then when	fa-idhā
+10	2:200:2	w	قَضَيۡتُم	ﲏ	قضيتم	you complete[d]	qaḍaytum
+10	2:200:3	w	مَّنَٰسِكَكُمۡ	ﲐ	مناسككم	your acts of worship	manāsikakum
+10	2:200:4	w	فَٱذۡكُرُواْ	ﲑ	فاذكروا	then remember	fa-udh'kurū
+10	2:200:5	w	ٱللَّهَ	ﲒ	الله	Allah	l-laha
+10	2:200:6	w	كَذِكۡرِكُمۡ	ﲓ	كذكركم	as you remember	kadhik'rikum
+11	2:200:7	w	ءَابَآءَكُمۡ	ﲔ	اباءكم	your forefathers	ābāakum
+11	2:200:8	w	أَوۡ	ﲕ	او	or	aw
+11	2:200:9	w	أَشَدَّ	ﲖ	اشد	(with) greater	ashadda
+11	2:200:10	w	ذِكۡرٗاۗ	ﲗﲘ	ذكرا	remembrance	dhik'ran
+11	2:200:11	w	فَمِنَ	ﲙ	فمن	And from	famina
+11	2:200:12	w	ٱلنَّاسِ	ﲚ	الناس	the people	l-nāsi
+11	2:200:13	w	مَن	ﲛ	من	who	man
+11	2:200:14	w	يَقُولُ	ﲜ	يقول	say	yaqūlu
+12	2:200:15	w	رَبَّنَآ	ﲝ	ربنا	Our Lord	rabbanā
+12	2:200:16	w	ءَاتِنَا	ﲞ	اتنا	Grant us	ātinā
+12	2:200:17	w	فِي	ﲟ	في	in	fī
+12	2:200:18	w	ٱلدُّنۡيَا	ﲠ	الدنيا	the world	l-dun'yā
+12	2:200:19	w	وَمَا	ﲡ	وما	And not	wamā
+12	2:200:20	w	لَهُۥ	ﲢ	له	for him	lahu
+12	2:200:21	w	فِي	ﲣ	في	in	fī
+12	2:200:22	w	ٱلۡأٓخِرَةِ	ﲤ	الاخرة	the Hereafter	l-ākhirati
+12	2:200:23	w	مِنۡ	ﲥ	من	[of]	min
+12	2:200:24	w	خَلَٰقٖ	ﲦ	خلاق	any share	khalāqin
+13	2:200:25	e	٢٠٠	ﲧ			
+13	2:201:1	w	وَمِنۡهُم	ﲨ	ومنهم	And from those	wamin'hum
+13	2:201:2	w	مَّن	ﲩ	من	who	man
+13	2:201:3	w	يَقُولُ	ﲪ	يقول	say	yaqūlu
+13	2:201:4	w	رَبَّنَآ	ﲫ	ربنا	Our Lord	rabbanā
+13	2:201:5	w	ءَاتِنَا	ﲬ	اتنا	Grant us	ātinā
+13	2:201:6	w	فِي	ﲭ	في	in	fī
+13	2:201:7	w	ٱلدُّنۡيَا	ﲮ	الدنيا	the world	l-dun'yā
+13	2:201:8	w	حَسَنَةٗ	ﲯ	حسنة	good	ḥasanatan
+14	2:201:9	w	وَفِي	ﲰ	وفي	and in	wafī
+14	2:201:10	w	ٱلۡأٓخِرَةِ	ﲱ	الاخرة	the Hereafter	l-ākhirati
+14	2:201:11	w	حَسَنَةٗ	ﲲ	حسنة	good	ḥasanatan
+14	2:201:12	w	وَقِنَا	ﲳ	وقنا	and save us	waqinā
+14	2:201:13	w	عَذَابَ	ﲴ	عذاب	(from the) punishment	ʿadhāba
+14	2:201:14	w	ٱلنَّارِ	ﲵ	النار	(of) the Fire	l-nāri
+14	2:201:15	e	٢٠١	ﲶ			
+14	2:202:1	w	أُوْلَٰٓئِكَ	ﲷ	اولايك	Those	ulāika
+15	2:202:2	w	لَهُمۡ	ﲸ	لهم	for them	lahum
+15	2:202:3	w	نَصِيبٞ	ﲹ	نصيب	(is) a share	naṣībun
+15	2:202:4	w	مِّمَّا	ﲺ	مما	of what	mimmā
+15	2:202:5	w	كَسَبُواْۚ	ﲻﲼ	كسبوا	they earned	kasabū
+15	2:202:6	w	وَٱللَّهُ	ﲽ	والله	and Allah	wal-lahu
+15	2:202:7	w	سَرِيعُ	ﲾ	سريع	(is) swift	sarīʿu
+15	2:202:8	w	ٱلۡحِسَابِ	ﲿ	الحساب	(in taking) account	l-ḥisābi
+15	2:202:9	e	٢٠٢	ﳀ			

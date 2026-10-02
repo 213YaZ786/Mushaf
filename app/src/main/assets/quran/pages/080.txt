@@ -1,0 +1,119 @@
+1	4:15:1	w	وَٱلَّٰتِي	ﱁ	واللاتي	And those who	wa-allātī
+1	4:15:2	w	يَأۡتِينَ	ﱂ	ياتين	commit	yatīna
+1	4:15:3	w	ٱلۡفَٰحِشَةَ	ﱃ	الفاحشة	[the] immorality	l-fāḥishata
+1	4:15:4	w	مِن	ﱄ	من	from	min
+1	4:15:5	w	نِّسَآئِكُمۡ	ﱅ	نسايكم	your women	nisāikum
+1	4:15:6	w	فَٱسۡتَشۡهِدُواْ	ﱆ	فاستشهدوا	then call to witness	fa-is'tashhidū
+1	4:15:7	w	عَلَيۡهِنَّ	ﱇ	عليهن	against them	ʿalayhinna
+2	4:15:8	w	أَرۡبَعَةٗ	ﱈ	اربعة	four	arbaʿatan
+2	4:15:9	w	مِّنكُمۡۖ	ﱉﱊ	منكم	among you	minkum
+2	4:15:10	w	فَإِن	ﱋ	فان	And if	fa-in
+2	4:15:11	w	شَهِدُواْ	ﱌ	شهدوا	they testify	shahidū
+2	4:15:12	w	فَأَمۡسِكُوهُنَّ	ﱍ	فامسكوهن	then confine them	fa-amsikūhunna
+2	4:15:13	w	فِي	ﱎ	في	in	fī
+2	4:15:14	w	ٱلۡبُيُوتِ	ﱏ	البيوت	their houses	l-buyūti
+3	4:15:15	w	حَتَّىٰ	ﱐ	حتى	until	ḥattā
+3	4:15:16	w	يَتَوَفَّىٰهُنَّ	ﱑ	يتوفاهن	comes to them	yatawaffāhunna
+3	4:15:17	w	ٱلۡمَوۡتُ	ﱒ	الموت	[the] death	l-mawtu
+3	4:15:18	w	أَوۡ	ﱓ	او	or	aw
+3	4:15:19	w	يَجۡعَلَ	ﱔ	يجعل	makes	yajʿala
+3	4:15:20	w	ٱللَّهُ	ﱕ	الله	Allah	l-lahu
+3	4:15:21	w	لَهُنَّ	ﱖ	لهن	for them	lahunna
+3	4:15:22	w	سَبِيلٗا	ﱗ	سبيلا	a way	sabīlan
+3	4:15:23	e	١٥	ﱘ			
+4	4:16:1	w	وَٱلَّذَانِ	ﱙ	واللذان	And the two who	wa-alladhāni
+4	4:16:2	w	يَأۡتِيَٰنِهَا	ﱚ	ياتيانها	commit it	yatiyānihā
+4	4:16:3	w	مِنكُمۡ	ﱛ	منكم	among you	minkum
+4	4:16:4	w	فَـَٔاذُوهُمَاۖ	ﱜﱝ	فاذوهما	then punish both of them	faādhūhumā
+4	4:16:5	w	فَإِن	ﱞ	فان	But if	fa-in
+4	4:16:6	w	تَابَا	ﱟ	تابا	they repent	tābā
+4	4:16:7	w	وَأَصۡلَحَا	ﱠ	واصلحا	and correct themselves	wa-aṣlaḥā
+5	4:16:8	w	فَأَعۡرِضُواْ	ﱡ	فاعرضوا	then turn away	fa-aʿriḍū
+5	4:16:9	w	عَنۡهُمَآۗ	ﱢﱣ	عنهما	from both of them	ʿanhumā
+5	4:16:10	w	إِنَّ	ﱤ	ان	Indeed	inna
+5	4:16:11	w	ٱللَّهَ	ﱥ	الله	Allah	l-laha
+5	4:16:12	w	كَانَ	ﱦ	كان	is	kāna
+5	4:16:13	w	تَوَّابٗا	ﱧ	توابا	Oft-Forgiving	tawwāban
+5	4:16:14	w	رَّحِيمًا	ﱨ	رحيما	Most-Merciful	raḥīman
+5	4:16:15	e	١٦	ﱩ			
+6	4:17:1	w	إِنَّمَا	ﱪ	انما	Only	innamā
+6	4:17:2	w	ٱلتَّوۡبَةُ	ﱫ	التوبة	the acceptance of repentance	l-tawbatu
+6	4:17:3	w	عَلَى	ﱬ	على	by	ʿalā
+6	4:17:4	w	ٱللَّهِ	ﱭ	الله	Allah	l-lahi
+6	4:17:5	w	لِلَّذِينَ	ﱮ	للذين	(is) for those who	lilladhīna
+6	4:17:6	w	يَعۡمَلُونَ	ﱯ	يعملون	do	yaʿmalūna
+6	4:17:7	w	ٱلسُّوٓءَ	ﱰ	السوء	the evil	l-sūa
+6	4:17:8	w	بِجَهَٰلَةٖ	ﱱ	بجهالة	in ignorance	bijahālatin
+7	4:17:9	w	ثُمَّ	ﱲ	ثم	then	thumma
+7	4:17:10	w	يَتُوبُونَ	ﱳ	يتوبون	they repent	yatūbūna
+7	4:17:11	w	مِن	ﱴ	من	from	min
+7	4:17:12	w	قَرِيبٖ	ﱵ	قريب	soon after	qarībin
+7	4:17:13	w	فَأُوْلَٰٓئِكَ	ﱶ	فاولايك	Then those	fa-ulāika
+7	4:17:14	w	يَتُوبُ	ﱷ	يتوب	will have forgiveness	yatūbu
+7	4:17:15	w	ٱللَّهُ	ﱸ	الله	(from) Allah	l-lahu
+7	4:17:16	w	عَلَيۡهِمۡۗ	ﱹﱺ	عليهم	upon them	ʿalayhim
+8	4:17:17	w	وَكَانَ	ﱻ	وكان	and is	wakāna
+8	4:17:18	w	ٱللَّهُ	ﱼ	الله	Allah	l-lahu
+8	4:17:19	w	عَلِيمًا	ﱽ	عليما	All-Knowing	ʿalīman
+8	4:17:20	w	حَكِيمٗا	ﱾ	حكيما	All-Wise	ḥakīman
+8	4:17:21	e	١٧	ﱿ			
+8	4:18:1	w	وَلَيۡسَتِ	ﲀ	وليست	And not	walaysati
+8	4:18:2	w	ٱلتَّوۡبَةُ	ﲁ	التوبة	(is) the acceptance of repentance	l-tawbatu
+8	4:18:3	w	لِلَّذِينَ	ﲂ	للذين	for those who	lilladhīna
+9	4:18:4	w	يَعۡمَلُونَ	ﲃ	يعملون	do	yaʿmalūna
+9	4:18:5	w	ٱلسَّيِّـَٔاتِ	ﲄ	السييات	the evil deeds	l-sayiāti
+9	4:18:6	w	حَتَّىٰٓ	ﲅ	حتى	until	ḥattā
+9	4:18:7	w	إِذَا	ﲆ	اذا	when	idhā
+9	4:18:8	w	حَضَرَ	ﲇ	حضر	approaches	ḥaḍara
+9	4:18:9	w	أَحَدَهُمُ	ﲈ	احدهم	one of them	aḥadahumu
+9	4:18:10	w	ٱلۡمَوۡتُ	ﲉ	الموت	[the] death	l-mawtu
+10	4:18:11	w	قَالَ	ﲊ	قال	he says	qāla
+10	4:18:12	w	إِنِّي	ﲋ	اني	Indeed I	innī
+10	4:18:13	w	تُبۡتُ	ﲌ	تبت	repent	tub'tu
+10	4:18:14	w	ٱلۡـَٰٔنَ	ﲍ	الان	now	l-āna
+10	4:18:15	w	وَلَا	ﲎ	ولا	and not	walā
+10	4:18:16	w	ٱلَّذِينَ	ﲏ	الذين	those who	alladhīna
+10	4:18:17	w	يَمُوتُونَ	ﲐ	يموتون	die	yamūtūna
+10	4:18:18	w	وَهُمۡ	ﲑ	وهم	while they	wahum
+10	4:18:19	w	كُفَّارٌۚ	ﲒﲓ	كفار	(are) disbelievers	kuffārun
+11	4:18:20	w	أُوْلَٰٓئِكَ	ﲔ	اولايك	Those	ulāika
+11	4:18:21	w	أَعۡتَدۡنَا	ﲕ	اعتدنا	We have prepared	aʿtadnā
+11	4:18:22	w	لَهُمۡ	ﲖ	لهم	for them	lahum
+11	4:18:23	w	عَذَابًا	ﲗ	عذابا	a punishment	ʿadhāban
+11	4:18:24	w	أَلِيمٗا	ﲘ	اليما	painful	alīman
+11	4:18:25	e	١٨	ﲙ			
+11	4:19:1	w	يَٰٓأَيُّهَا	ﲚ	يا ايها	O you	yāayyuhā
+11	4:19:2	w	ٱلَّذِينَ	ﲛ	الذين	who	alladhīna
+12	4:19:3	w	ءَامَنُواْ	ﲜ	امنوا	believe[d]	āmanū
+12	4:19:4	w	لَا	ﲝ	لا	Not	lā
+12	4:19:5	w	يَحِلُّ	ﲞ	يحل	(is) lawful	yaḥillu
+12	4:19:6	w	لَكُمۡ	ﲟ	لكم	for you	lakum
+12	4:19:7	w	أَن	ﲠ	ان	that	an
+12	4:19:8	w	تَرِثُواْ	ﲡ	ترثوا	you inherit	tarithū
+12	4:19:9	w	ٱلنِّسَآءَ	ﲢ	النساء	the women	l-nisāa
+12	4:19:10	w	كَرۡهٗاۖ	ﲣﲤ	كرها	(by) force	karhan
+12	4:19:11	w	وَلَا	ﲥ	ولا	And not	walā
+12	4:19:12	w	تَعۡضُلُوهُنَّ	ﲦ	تعضلوهن	you constraint them	taʿḍulūhunna
+13	4:19:13	w	لِتَذۡهَبُواْ	ﲧ	لتذهبوا	so that you may take	litadhhabū
+13	4:19:14	w	بِبَعۡضِ	ﲨ	ببعض	a part	bibaʿḍi
+13	4:19:15	w	مَآ	ﲩ	ما	(of) what	mā
+13	4:19:16	w	ءَاتَيۡتُمُوهُنَّ	ﲪ	اتيتموهن	you have given them	ātaytumūhunna
+13	4:19:17	w	إِلَّآ	ﲫ	الا	except	illā
+13	4:19:18	w	أَن	ﲬ	ان	that	an
+13	4:19:19	w	يَأۡتِينَ	ﲭ	ياتين	they commit	yatīna
+13	4:19:20	w	بِفَٰحِشَةٖ	ﲮ	بفاحشة	immorality	bifāḥishatin
+14	4:19:21	w	مُّبَيِّنَةٖۚ	ﲯﲰ	مبينة	open	mubayyinatin
+14	4:19:22	w	وَعَاشِرُوهُنَّ	ﲱ	وعاشروهن	And live with them	waʿāshirūhunna
+14	4:19:23	w	بِٱلۡمَعۡرُوفِۚ	ﲲﲳ	بالمعروف	in kindness	bil-maʿrūfi
+14	4:19:24	w	فَإِن	ﲴ	فان	But if	fa-in
+14	4:19:25	w	كَرِهۡتُمُوهُنَّ	ﲵ	كرهتموهن	you dislike them	karih'tumūhunna
+14	4:19:26	w	فَعَسَىٰٓ	ﲶ	فعسى	then perhaps	faʿasā
+15	4:19:27	w	أَن	ﲷ	ان	that	an
+15	4:19:28	w	تَكۡرَهُواْ	ﲸ	تكرهوا	you dislike	takrahū
+15	4:19:29	w	شَيۡـٔٗا	ﲹ	شييا	a thing	shayan
+15	4:19:30	w	وَيَجۡعَلَ	ﲺ	ويجعل	and has placed	wayajʿala
+15	4:19:31	w	ٱللَّهُ	ﲻ	الله	Allah	l-lahu
+15	4:19:32	w	فِيهِ	ﲼ	فيه	in it	fīhi
+15	4:19:33	w	خَيۡرٗا	ﲽ	خيرا	good	khayran
+15	4:19:34	w	كَثِيرٗا	ﲾ	كثيرا	much	kathīran
+15	4:19:35	e	١٩	ﲿ			

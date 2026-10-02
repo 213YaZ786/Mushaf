@@ -1,0 +1,161 @@
+1	26:112:1	w	قَالَ	ﱁ	قال	He said	qāla
+1	26:112:2	w	وَمَا	ﱂ	وما	And what	wamā
+1	26:112:3	w	عِلۡمِي	ﱃ	علمي	(do) I know	ʿil'mī
+1	26:112:4	w	بِمَا	ﱄ	بما	of what	bimā
+1	26:112:5	w	كَانُواْ	ﱅ	كانوا	they used	kānū
+1	26:112:6	w	يَعۡمَلُونَ	ﱆ	يعملون	(to) do	yaʿmalūna
+1	26:112:7	e	١١٢	ﱇ			
+1	26:113:1	w	إِنۡ	ﱈ	ان	Verily	in
+1	26:113:2	w	حِسَابُهُمۡ	ﱉ	حسابهم	their account	ḥisābuhum
+1	26:113:3	w	إِلَّا	ﱊ	الا	(is) but	illā
+1	26:113:4	w	عَلَىٰ	ﱋ	على	upon	ʿalā
+1	26:113:5	w	رَبِّيۖ	ﱌﱍ	ربي	my Lord	rabbī
+2	26:113:6	w	لَوۡ	ﱎ	لو	if	law
+2	26:113:7	w	تَشۡعُرُونَ	ﱏ	تشعرون	you perceive	tashʿurūna
+2	26:113:8	e	١١٣	ﱐ			
+2	26:114:1	w	وَمَآ	ﱑ	وما	And not	wamā
+2	26:114:2	w	أَنَا۠	ﱒ	انا	I am	anā
+2	26:114:3	w	بِطَارِدِ	ﱓ	بطارد	the one to drive away	biṭāridi
+2	26:114:4	w	ٱلۡمُؤۡمِنِينَ	ﱔ	المومنين	the believers	l-mu'minīna
+2	26:114:5	e	١١٤	ﱕ			
+2	26:115:1	w	إِنۡ	ﱖ	ان	Not	in
+2	26:115:2	w	أَنَا۠	ﱗ	انا	I am	anā
+2	26:115:3	w	إِلَّا	ﱘ	الا	but	illā
+2	26:115:4	w	نَذِيرٞ	ﱙ	نذير	a warner	nadhīrun
+2	26:115:5	w	مُّبِينٞ	ﱚ	مبين	clear	mubīnun
+3	26:115:6	e	١١٥	ﱛ			
+3	26:116:1	w	قَالُواْ	ﱜ	قالوا	They said	qālū
+3	26:116:2	w	لَئِن	ﱝ	لين	If	la-in
+3	26:116:3	w	لَّمۡ	ﱞ	لم	not	lam
+3	26:116:4	w	تَنتَهِ	ﱟ	تنته	you desist	tantahi
+3	26:116:5	w	يَٰنُوحُ	ﱠ	يا نوح	O Nuh	yānūḥu
+3	26:116:6	w	لَتَكُونَنَّ	ﱡ	لتكونن	Surely you will be	latakūnanna
+3	26:116:7	w	مِنَ	ﱢ	من	of	mina
+3	26:116:8	w	ٱلۡمَرۡجُومِينَ	ﱣ	المرجومين	those who are stoned	l-marjūmīna
+3	26:116:9	e	١١٦	ﱤ			
+3	26:117:1	w	قَالَ	ﱥ	قال	He said	qāla
+4	26:117:2	w	رَبِّ	ﱦ	رب	My Lord	rabbi
+4	26:117:3	w	إِنَّ	ﱧ	ان	Indeed	inna
+4	26:117:4	w	قَوۡمِي	ﱨ	قومي	my people	qawmī
+4	26:117:5	w	كَذَّبُونِ	ﱩ	كذبون	have denied me	kadhabūni
+4	26:117:6	e	١١٧	ﱪ			
+4	26:118:1	w	فَٱفۡتَحۡ	ﱫ	فافتح	So judge	fa-if'taḥ
+4	26:118:2	w	بَيۡنِي	ﱬ	بيني	between me	baynī
+4	26:118:3	w	وَبَيۡنَهُمۡ	ﱭ	وبينهم	and between them	wabaynahum
+4	26:118:4	w	فَتۡحٗا	ﱮ	فتحا	(with decisive) judgment	fatḥan
+4	26:118:5	w	وَنَجِّنِي	ﱯ	ونجني	and save me	wanajjinī
+4	26:118:6	w	وَمَن	ﱰ	ومن	and who	waman
+5	26:118:7	w	مَّعِيَ	ﱱ	معي	(are) with me	maʿiya
+5	26:118:8	w	مِنَ	ﱲ	من	of	mina
+5	26:118:9	w	ٱلۡمُؤۡمِنِينَ	ﱳ	المومنين	the believers	l-mu'minīna
+5	26:118:10	e	١١٨	ﱴ			
+5	26:119:1	w	فَأَنجَيۡنَٰهُ	ﱵ	فانجيناه	So We saved him	fa-anjaynāhu
+5	26:119:2	w	وَمَن	ﱶ	ومن	and who	waman
+5	26:119:3	w	مَّعَهُۥ	ﱷ	معه	(were) with him	maʿahu
+5	26:119:4	w	فِي	ﱸ	في	in	fī
+5	26:119:5	w	ٱلۡفُلۡكِ	ﱹ	الفلك	the ship	l-ful'ki
+5	26:119:6	w	ٱلۡمَشۡحُونِ	ﱺ	المشحون	laden	l-mashḥūni
+6	26:119:7	e	١١٩	ﱻ			
+6	26:120:1	w	ثُمَّ	ﱼ	ثم	Then	thumma
+6	26:120:2	w	أَغۡرَقۡنَا	ﱽ	اغرقنا	We drowned	aghraqnā
+6	26:120:3	w	بَعۡدُ	ﱾ	بعد	thereafter	baʿdu
+6	26:120:4	w	ٱلۡبَاقِينَ	ﱿ	الباقين	the remaining ones	l-bāqīna
+6	26:120:5	e	١٢٠	ﲀ			
+6	26:121:1	w	إِنَّ	ﲁ	ان	Indeed	inna
+6	26:121:2	w	فِي	ﲂ	في	in	fī
+6	26:121:3	w	ذَٰلِكَ	ﲃ	ذالك	that	dhālika
+6	26:121:4	w	لَأٓيَةٗۖ	ﲄﲅ	لاية	surely, (is) a sign	laāyatan
+6	26:121:5	w	وَمَا	ﲆ	وما	but not	wamā
+6	26:121:6	w	كَانَ	ﲇ	كان	are	kāna
+7	26:121:7	w	أَكۡثَرُهُم	ﲈ	اكثرهم	most of them	aktharuhum
+7	26:121:8	w	مُّؤۡمِنِينَ	ﲉ	مومنين	believers	mu'minīna
+7	26:121:9	e	١٢١	ﲊ			
+7	26:122:1	w	وَإِنَّ	ﲋ	وان	And indeed	wa-inna
+7	26:122:2	w	رَبَّكَ	ﲌ	ربك	your Lord	rabbaka
+7	26:122:3	w	لَهُوَ	ﲍ	لهو	surely, He	lahuwa
+7	26:122:4	w	ٱلۡعَزِيزُ	ﲎ	العزيز	(is) the All-Mighty	l-ʿazīzu
+7	26:122:5	w	ٱلرَّحِيمُ	ﲏ	الرحيم	the Most Merciful	l-raḥīmu
+7	26:122:6	e	١٢٢	ﲐ			
+7	26:123:1	w	كَذَّبَتۡ	ﲑ	كذبت	Denied	kadhabat
+8	26:123:2	w	عَادٌ	ﲒ	عاد	(the people) of Aad	ʿādun
+8	26:123:3	w	ٱلۡمُرۡسَلِينَ	ﲓ	المرسلين	the Messengers	l-mur'salīna
+8	26:123:4	e	١٢٣	ﲔ			
+8	26:124:1	w	إِذۡ	ﲕ	اذ	When	idh
+8	26:124:2	w	قَالَ	ﲖ	قال	said	qāla
+8	26:124:3	w	لَهُمۡ	ﲗ	لهم	to them	lahum
+8	26:124:4	w	أَخُوهُمۡ	ﲘ	اخوهم	their brother	akhūhum
+8	26:124:5	w	هُودٌ	ﲙ	هود	Hud	hūdun
+8	26:124:6	w	أَلَا	ﲚ	الا	Will not	alā
+8	26:124:7	w	تَتَّقُونَ	ﲛ	تتقون	you fear (Allah)	tattaqūna
+8	26:124:8	e	١٢٤	ﲜ			
+8	26:125:1	w	إِنِّي	ﲝ	اني	Indeed, I am	innī
+8	26:125:2	w	لَكُمۡ	ﲞ	لكم	to you	lakum
+9	26:125:3	w	رَسُولٌ	ﲟ	رسول	a Messenger	rasūlun
+9	26:125:4	w	أَمِينٞ	ﲠ	امين	trustworthy	amīnun
+9	26:125:5	e	١٢٥	ﲡ			
+9	26:126:1	w	فَٱتَّقُواْ	ﲢ	فاتقوا	So fear	fa-ittaqū
+9	26:126:2	w	ٱللَّهَ	ﲣ	الله	Allah	l-laha
+9	26:126:3	w	وَأَطِيعُونِ	ﲤ	واطيعون	and obey me	wa-aṭīʿūni
+9	26:126:4	e	١٢٦	ﲥ			
+9	26:127:1	w	وَمَآ	ﲦ	وما	And not	wamā
+9	26:127:2	w	أَسۡـَٔلُكُمۡ	ﲧ	اسالكم	I ask you	asalukum
+9	26:127:3	w	عَلَيۡهِ	ﲨ	عليه	for it	ʿalayhi
+10	26:127:4	w	مِنۡ	ﲩ	من	any	min
+10	26:127:5	w	أَجۡرٍۖ	ﲪﲫ	اجر	payment	ajrin
+10	26:127:6	w	إِنۡ	ﲬ	ان	Not	in
+10	26:127:7	w	أَجۡرِيَ	ﲭ	اجري	(is) my payment	ajriya
+10	26:127:8	w	إِلَّا	ﲮ	الا	except	illā
+10	26:127:9	w	عَلَىٰ	ﲯ	على	from	ʿalā
+10	26:127:10	w	رَبِّ	ﲰ	رب	(the) Lord	rabbi
+10	26:127:11	w	ٱلۡعَٰلَمِينَ	ﲱ	العالمين	(of) the worlds	l-ʿālamīna
+10	26:127:12	e	١٢٧	ﲲ			
+10	26:128:1	w	أَتَبۡنُونَ	ﲳ	اتبنون	Do you construct	atabnūna
+10	26:128:2	w	بِكُلِّ	ﲴ	بكل	on every	bikulli
+10	26:128:3	w	رِيعٍ	ﲵ	ريع	elevation	rīʿin
+11	26:128:4	w	ءَايَةٗ	ﲶ	اية	a sign	āyatan
+11	26:128:5	w	تَعۡبَثُونَ	ﲷ	تعبثون	amusing yourselves	taʿbathūna
+11	26:128:6	e	١٢٨	ﲸ			
+11	26:129:1	w	وَتَتَّخِذُونَ	ﲹ	وتتخذون	And take for yourselves	watattakhidhūna
+11	26:129:2	w	مَصَانِعَ	ﲺ	مصانع	strongholds	maṣāniʿa
+11	26:129:3	w	لَعَلَّكُمۡ	ﲻ	لعلكم	that you may	laʿallakum
+11	26:129:4	w	تَخۡلُدُونَ	ﲼ	تخلدون	live forever	takhludūna
+11	26:129:5	e	١٢٩	ﲽ			
+12	26:130:1	w	وَإِذَا	ﲾ	واذا	And when	wa-idhā
+12	26:130:2	w	بَطَشۡتُم	ﲿ	بطشتم	you seize	baṭashtum
+12	26:130:3	w	بَطَشۡتُمۡ	ﳀ	بطشتم	you seize	baṭashtum
+12	26:130:4	w	جَبَّارِينَ	ﳁ	جبارين	(as) tyrants	jabbārīna
+12	26:130:5	e	١٣٠	ﳂ			
+12	26:131:1	w	فَٱتَّقُواْ	ﳃ	فاتقوا	So fear	fa-ittaqū
+12	26:131:2	w	ٱللَّهَ	ﳄ	الله	Allah	l-laha
+12	26:131:3	w	وَأَطِيعُونِ	ﳅ	واطيعون	and obey me	wa-aṭīʿūni
+12	26:131:4	e	١٣١	ﳆ			
+13	26:132:1	w	وَٱتَّقُواْ	ﳇ	واتقوا	And fear	wa-ittaqū
+13	26:132:2	w	ٱلَّذِيٓ	ﳈ	الذي	the One Who	alladhī
+13	26:132:3	w	أَمَدَّكُم	ﳉ	امدكم	has aided you	amaddakum
+13	26:132:4	w	بِمَا	ﳊ	بما	with what	bimā
+13	26:132:5	w	تَعۡلَمُونَ	ﳋ	تعلمون	you know	taʿlamūna
+13	26:132:6	e	١٣٢	ﳌ			
+13	26:133:1	w	أَمَدَّكُم	ﳍ	امدكم	He has aided you	amaddakum
+13	26:133:2	w	بِأَنۡعَٰمٖ	ﳎ	بانعام	with cattle	bi-anʿāmin
+13	26:133:3	w	وَبَنِينَ	ﳏ	وبنين	and children	wabanīna
+14	26:133:4	e	١٣٣	ﳐ			
+14	26:134:1	w	وَجَنَّٰتٖ	ﳑ	وجنات	And gardens	wajannātin
+14	26:134:2	w	وَعُيُونٍ	ﳒ	وعيون	and springs	waʿuyūnin
+14	26:134:3	e	١٣٤	ﳓ			
+14	26:135:1	w	إِنِّيٓ	ﳔ	اني	Indeed, I	innī
+14	26:135:2	w	أَخَافُ	ﳕ	اخاف	[I] fear	akhāfu
+14	26:135:3	w	عَلَيۡكُمۡ	ﳖ	عليكم	for you	ʿalaykum
+14	26:135:4	w	عَذَابَ	ﳗ	عذاب	(the) punishment	ʿadhāba
+14	26:135:5	w	يَوۡمٍ	ﳘ	يوم	(of) a Day	yawmin
+14	26:135:6	w	عَظِيمٖ	ﳙ	عظيم	Great	ʿaẓīmin
+15	26:135:7	e	١٣٥	ﳚ			
+15	26:136:1	w	قَالُواْ	ﳛ	قالوا	They said	qālū
+15	26:136:2	w	سَوَآءٌ	ﳜ	سواء	(It is) same	sawāon
+15	26:136:3	w	عَلَيۡنَآ	ﳝ	علينا	to us	ʿalaynā
+15	26:136:4	w	أَوَعَظۡتَ	ﳞ	اوعظت	whether you advise	awaʿaẓta
+15	26:136:5	w	أَمۡ	ﳟ	ام	or	am
+15	26:136:6	w	لَمۡ	ﳠ	لم	not	lam
+15	26:136:7	w	تَكُن	ﳡ	تكن	you are	takun
+15	26:136:8	w	مِّنَ	ﳢ	من	of	mina
+15	26:136:9	w	ٱلۡوَٰعِظِينَ	ﳣ	الواعظين	the advisors	l-wāʿiẓīna
+15	26:136:10	e	١٣٦	ﳤ			

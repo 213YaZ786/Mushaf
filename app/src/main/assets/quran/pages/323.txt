@@ -1,0 +1,151 @@
+1	21:11:1	w	وَكَمۡ	ﱁ	وكم	And how many	wakam
+1	21:11:2	w	قَصَمۡنَا	ﱂ	قصمنا	We (have) shattered	qaṣamnā
+1	21:11:3	w	مِن	ﱃ	من	of	min
+1	21:11:4	w	قَرۡيَةٖ	ﱄ	قرية	a town	qaryatin
+1	21:11:5	w	كَانَتۡ	ﱅ	كانت	(that) was	kānat
+1	21:11:6	w	ظَالِمَةٗ	ﱆ	ظالمة	unjust	ẓālimatan
+1	21:11:7	w	وَأَنشَأۡنَا	ﱇ	وانشانا	and We produced	wa-anshanā
+1	21:11:8	w	بَعۡدَهَا	ﱈ	بعدها	after them	baʿdahā
+1	21:11:9	w	قَوۡمًا	ﱉ	قوما	another people	qawman
+2	21:11:10	w	ءَاخَرِينَ	ﱊ	اخرين	another people	ākharīna
+2	21:11:11	e	١١	ﱋ			
+2	21:12:1	w	فَلَمَّآ	ﱌ	فلما	Then when	falammā
+2	21:12:2	w	أَحَسُّواْ	ﱍ	احسوا	they perceived	aḥassū
+2	21:12:3	w	بَأۡسَنَآ	ﱎ	باسنا	Our torment	basanā
+2	21:12:4	w	إِذَا	ﱏ	اذا	behold	idhā
+2	21:12:5	w	هُم	ﱐ	هم	they	hum
+2	21:12:6	w	مِّنۡهَا	ﱑ	منها	from it	min'hā
+2	21:12:7	w	يَرۡكُضُونَ	ﱒ	يركضون	were fleeing	yarkuḍūna
+2	21:12:8	e	١٢	ﱓ			
+3	21:13:1	w	لَا	ﱔ	لا	Flee not	lā
+3	21:13:2	w	تَرۡكُضُواْ	ﱕ	تركضوا	Flee not	tarkuḍū
+3	21:13:3	w	وَٱرۡجِعُوٓاْ	ﱖ	وارجعوا	but return	wa-ir'jiʿū
+3	21:13:4	w	إِلَىٰ	ﱗ	الى	to	ilā
+3	21:13:5	w	مَآ	ﱘ	ما	what	mā
+3	21:13:6	w	أُتۡرِفۡتُمۡ	ﱙ	اترفتم	you were given luxury	ut'rif'tum
+3	21:13:7	w	فِيهِ	ﱚ	فيه	in it	fīhi
+3	21:13:8	w	وَمَسَٰكِنِكُمۡ	ﱛ	ومساكنكم	and to your homes	wamasākinikum
+3	21:13:9	w	لَعَلَّكُمۡ	ﱜ	لعلكم	so that you may	laʿallakum
+4	21:13:10	w	تُسۡـَٔلُونَ	ﱝ	تسالون	be questioned	tus'alūna
+4	21:13:11	e	١٣	ﱞ			
+4	21:14:1	w	قَالُواْ	ﱟ	قالوا	They said	qālū
+4	21:14:2	w	يَٰوَيۡلَنَآ	ﱠ	يا ويلنا	O woe to us	yāwaylanā
+4	21:14:3	w	إِنَّا	ﱡ	انا	Indeed, [we]	innā
+4	21:14:4	w	كُنَّا	ﱢ	كنا	we were	kunnā
+4	21:14:5	w	ظَٰلِمِينَ	ﱣ	ظالمين	wrongdoers	ẓālimīna
+4	21:14:6	e	١٤	ﱤ			
+4	21:15:1	w	فَمَا	ﱥ	فما	Then not	famā
+4	21:15:2	w	زَالَت	ﱦ	زالت	ceased	zālat
+4	21:15:3	w	تِّلۡكَ	ﱧ	تلك	[this]	til'ka
+5	21:15:4	w	دَعۡوَىٰهُمۡ	ﱨ	دعواهم	their cry	daʿwāhum
+5	21:15:5	w	حَتَّىٰ	ﱩ	حتى	until	ḥattā
+5	21:15:6	w	جَعَلۡنَٰهُمۡ	ﱪ	جعلناهم	We made them	jaʿalnāhum
+5	21:15:7	w	حَصِيدًا	ﱫ	حصيدا	reaped	ḥaṣīdan
+5	21:15:8	w	خَٰمِدِينَ	ﱬ	خامدين	extinct	khāmidīna
+5	21:15:9	e	١٥	ﱭ			
+5	21:16:1	w	وَمَا	ﱮ	وما	And not	wamā
+5	21:16:2	w	خَلَقۡنَا	ﱯ	خلقنا	We created	khalaqnā
+6	21:16:3	w	ٱلسَّمَآءَ	ﱰ	السماء	the heavens	l-samāa
+6	21:16:4	w	وَٱلۡأَرۡضَ	ﱱ	والارض	and the earth	wal-arḍa
+6	21:16:5	w	وَمَا	ﱲ	وما	and what	wamā
+6	21:16:6	w	بَيۡنَهُمَا	ﱳ	بينهما	(is) between them	baynahumā
+6	21:16:7	w	لَٰعِبِينَ	ﱴ	لاعبين	(for) playing	lāʿibīna
+6	21:16:8	e	١٦	ﱵ			
+6	21:17:1	w	لَوۡ	ﱶ	لو	If	law
+6	21:17:2	w	أَرَدۡنَآ	ﱷ	اردنا	We intended	aradnā
+6	21:17:3	w	أَن	ﱸ	ان	that	an
+6	21:17:4	w	نَّتَّخِذَ	ﱹ	نتخذ	We take	nattakhidha
+7	21:17:5	w	لَهۡوٗا	ﱺ	لهوا	a pastime	lahwan
+7	21:17:6	w	لَّٱتَّخَذۡنَٰهُ	ﱻ	لاتخذناه	surely We (could have) taken it	la-ittakhadhnāhu
+7	21:17:7	w	مِن	ﱼ	من	from	min
+7	21:17:8	w	لَّدُنَّآ	ﱽ	لدنا	Us	ladunnā
+7	21:17:9	w	إِن	ﱾ	ان	if	in
+7	21:17:10	w	كُنَّا	ﱿ	كنا	We were	kunnā
+7	21:17:11	w	فَٰعِلِينَ	ﲀ	فاعلين	doers	fāʿilīna
+7	21:17:12	e	١٧	ﲁ			
+7	21:18:1	w	بَلۡ	ﲂ	بل	Nay	bal
+7	21:18:2	w	نَقۡذِفُ	ﲃ	نقذف	We hurl	naqdhifu
+7	21:18:3	w	بِٱلۡحَقِّ	ﲄ	بالحق	the truth	bil-ḥaqi
+8	21:18:4	w	عَلَى	ﲅ	على	against	ʿalā
+8	21:18:5	w	ٱلۡبَٰطِلِ	ﲆ	الباطل	[the] falsehood	l-bāṭili
+8	21:18:6	w	فَيَدۡمَغُهُۥ	ﲇ	فيدمغه	and it breaks its head	fayadmaghuhu
+8	21:18:7	w	فَإِذَا	ﲈ	فاذا	behold	fa-idhā
+8	21:18:8	w	هُوَ	ﲉ	هو	it (is)	huwa
+8	21:18:9	w	زَاهِقٞۚ	ﲊﲋ	زاهق	vanishing	zāhiqun
+8	21:18:10	w	وَلَكُمُ	ﲌ	ولكم	And for you	walakumu
+8	21:18:11	w	ٱلۡوَيۡلُ	ﲍ	الويل	(is) destruction	l-waylu
+8	21:18:12	w	مِمَّا	ﲎ	مما	for what	mimmā
+8	21:18:13	w	تَصِفُونَ	ﲏ	تصفون	you ascribe	taṣifūna
+9	21:18:14	e	١٨	ﲐ			
+9	21:19:1	w	وَلَهُۥ	ﲑ	وله	And to Him (belongs)	walahu
+9	21:19:2	w	مَن	ﲒ	من	whoever	man
+9	21:19:3	w	فِي	ﲓ	في	(is) in	fī
+9	21:19:4	w	ٱلسَّمَٰوَٰتِ	ﲔ	السماوات	the heavens	l-samāwāti
+9	21:19:5	w	وَٱلۡأَرۡضِۚ	ﲕﲖ	والارض	and the earth	wal-arḍi
+9	21:19:6	w	وَمَنۡ	ﲗ	ومن	And (those) who	waman
+9	21:19:7	w	عِندَهُۥ	ﲘ	عنده	(are) near Him	ʿindahu
+9	21:19:8	w	لَا	ﲙ	لا	not	lā
+9	21:19:9	w	يَسۡتَكۡبِرُونَ	ﲚ	يستكبرون	they are arrogant	yastakbirūna
+10	21:19:10	w	عَنۡ	ﲛ	عن	to	ʿan
+10	21:19:11	w	عِبَادَتِهِۦ	ﲜ	عبادته	worship Him	ʿibādatihi
+10	21:19:12	w	وَلَا	ﲝ	ولا	and not	walā
+10	21:19:13	w	يَسۡتَحۡسِرُونَ	ﲞ	يستحسرون	they tire	yastaḥsirūna
+10	21:19:14	e	١٩	ﲟ			
+10	21:20:1	w	يُسَبِّحُونَ	ﲠ	يسبحون	They glorify (Him)	yusabbiḥūna
+10	21:20:2	w	ٱلَّيۡلَ	ﲡ	الليل	[the] night	al-layla
+10	21:20:3	w	وَٱلنَّهَارَ	ﲢ	والنهار	and [the] day	wal-nahāra
+11	21:20:4	w	لَا	ﲣ	لا	not	lā
+11	21:20:5	w	يَفۡتُرُونَ	ﲤ	يفترون	they slacken	yafturūna
+11	21:20:6	e	٢٠	ﲥ			
+11	21:21:1	w	أَمِ	ﲦ	ام	Or	ami
+11	21:21:2	w	ٱتَّخَذُوٓاْ	ﲧ	اتخذوا	(have) they taken	ittakhadhū
+11	21:21:3	w	ءَالِهَةٗ	ﲨ	الهة	gods	ālihatan
+11	21:21:4	w	مِّنَ	ﲩ	من	from	mina
+11	21:21:5	w	ٱلۡأَرۡضِ	ﲪ	الارض	the earth	l-arḍi
+11	21:21:6	w	هُمۡ	ﲫ	هم	they	hum
+11	21:21:7	w	يُنشِرُونَ	ﲬ	ينشرون	raise (the dead)	yunshirūna
+11	21:21:8	e	٢١	ﲭ			
+12	21:22:1	w	لَوۡ	ﲮ	لو	If	law
+12	21:22:2	w	كَانَ	ﲯ	كان	(there) were	kāna
+12	21:22:3	w	فِيهِمَآ	ﲰ	فيهما	in both of them	fīhimā
+12	21:22:4	w	ءَالِهَةٌ	ﲱ	الهة	gods	ālihatun
+12	21:22:5	w	إِلَّا	ﲲ	الا	besides	illā
+12	21:22:6	w	ٱللَّهُ	ﲳ	الله	Allah	l-lahu
+12	21:22:7	w	لَفَسَدَتَاۚ	ﲴﲵ	لفسدتا	surely they (would) have been ruined	lafasadatā
+12	21:22:8	w	فَسُبۡحَٰنَ	ﲶ	فسبحان	So glorified	fasub'ḥāna
+12	21:22:9	w	ٱللَّهِ	ﲷ	الله	(is) Allah	l-lahi
+12	21:22:10	w	رَبِّ	ﲸ	رب	Lord	rabbi
+12	21:22:11	w	ٱلۡعَرۡشِ	ﲹ	العرش	(of) the Throne	l-ʿarshi
+13	21:22:12	w	عَمَّا	ﲺ	عما	(above) what	ʿammā
+13	21:22:13	w	يَصِفُونَ	ﲻ	يصفون	they attribute	yaṣifūna
+13	21:22:14	e	٢٢	ﲼ			
+13	21:23:1	w	لَا	ﲽ	لا	Not	lā
+13	21:23:2	w	يُسۡـَٔلُ	ﲾ	يسال	He (can) be questioned	yus'alu
+13	21:23:3	w	عَمَّا	ﲿ	عما	about what	ʿammā
+13	21:23:4	w	يَفۡعَلُ	ﳀ	يفعل	He does	yafʿalu
+13	21:23:5	w	وَهُمۡ	ﳁ	وهم	but they	wahum
+13	21:23:6	w	يُسۡـَٔلُونَ	ﳂ	يسالون	will be questioned	yus'alūna
+13	21:23:7	e	٢٣	ﳃ			
+13	21:24:1	w	أَمِ	ﳄ	ام	Or	ami
+13	21:24:2	w	ٱتَّخَذُواْ	ﳅ	اتخذوا	(have) they taken	ittakhadhū
+14	21:24:3	w	مِن	ﳆ	من	besides Him	min
+14	21:24:4	w	دُونِهِۦٓ	ﳇ	دونه	besides Him	dūnihi
+14	21:24:5	w	ءَالِهَةٗۖ	ﳈﳉ	الهة	gods	ālihatan
+14	21:24:6	w	قُلۡ	ﳊ	قل	Say	qul
+14	21:24:7	w	هَاتُواْ	ﳋ	هاتوا	Bring	hātū
+14	21:24:8	w	بُرۡهَٰنَكُمۡۖ	ﳌﳍ	برهانكم	your proof	bur'hānakum
+14	21:24:9	w	هَٰذَا	ﳎ	هاذا	This	hādhā
+14	21:24:10	w	ذِكۡرُ	ﳏ	ذكر	(is) a Reminder	dhik'ru
+14	21:24:11	w	مَن	ﳐ	من	(for those) who	man
+14	21:24:12	w	مَّعِيَ	ﳑ	معي	(are) with me	maʿiya
+14	21:24:13	w	وَذِكۡرُ	ﳒ	وذكر	and a Reminder	wadhik'ru
+15	21:24:14	w	مَن	ﳓ	من	(for those) who	man
+15	21:24:15	w	قَبۡلِيۚ	ﳔﳕ	قبلي	(were) before me	qablī
+15	21:24:16	w	بَلۡ	ﳖ	بل	But	bal
+15	21:24:17	w	أَكۡثَرُهُمۡ	ﳗ	اكثرهم	most of them	aktharuhum
+15	21:24:18	w	لَا	ﳘ	لا	(do) not	lā
+15	21:24:19	w	يَعۡلَمُونَ	ﳙ	يعلمون	know	yaʿlamūna
+15	21:24:20	w	ٱلۡحَقَّۖ	ﳚﳛ	الحق	the truth	l-ḥaqa
+15	21:24:21	w	فَهُم	ﳜ	فهم	so they	fahum
+15	21:24:22	w	مُّعۡرِضُونَ	ﳝ	معرضون	(are) averse	muʿ'riḍūna
+15	21:24:23	e	٢٤	ﳞ			

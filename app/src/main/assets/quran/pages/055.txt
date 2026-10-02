@@ -1,0 +1,139 @@
+1	3:38:1	w	هُنَالِكَ	ﱁ	هنالك	There only	hunālika
+1	3:38:2	w	دَعَا	ﱂ	دعا	invoked	daʿā
+1	3:38:3	w	زَكَرِيَّا	ﱃ	زكريا	Zakariya	zakariyyā
+1	3:38:4	w	رَبَّهُۥۖ	ﱄﱅ	ربه	his Lord	rabbahu
+1	3:38:5	w	قَالَ	ﱆ	قال	he said	qāla
+1	3:38:6	w	رَبِّ	ﱇ	رب	My Lord	rabbi
+1	3:38:7	w	هَبۡ	ﱈ	هب	grant	hab
+1	3:38:8	w	لِي	ﱉ	لي	[for] me	lī
+1	3:38:9	w	مِن	ﱊ	من	from	min
+1	3:38:10	w	لَّدُنكَ	ﱋ	لدنك	Yourself	ladunka
+1	3:38:11	w	ذُرِّيَّةٗ	ﱌ	ذرية	offspring	dhurriyyatan
+2	3:38:12	w	طَيِّبَةًۖ	ﱍﱎ	طيبة	pure	ṭayyibatan
+2	3:38:13	w	إِنَّكَ	ﱏ	انك	Indeed, You	innaka
+2	3:38:14	w	سَمِيعُ	ﱐ	سميع	(are) All-Hearer	samīʿu
+2	3:38:15	w	ٱلدُّعَآءِ	ﱑ	الدعاء	(of) the prayer	l-duʿāi
+2	3:38:16	e	٣٨	ﱒ			
+2	3:39:1	w	فَنَادَتۡهُ	ﱓ	فنادته	Then called him	fanādathu
+2	3:39:2	w	ٱلۡمَلَٰٓئِكَةُ	ﱔ	الملايكة	the Angels	l-malāikatu
+2	3:39:3	w	وَهُوَ	ﱕ	وهو	when he	wahuwa
+2	3:39:4	w	قَآئِمٞ	ﱖ	قايم	(was) standing	qāimun
+3	3:39:5	w	يُصَلِّي	ﱗ	يصلي	praying	yuṣallī
+3	3:39:6	w	فِي	ﱘ	في	in	fī
+3	3:39:7	w	ٱلۡمِحۡرَابِ	ﱙ	المحراب	the prayer chamber	l-miḥ'rābi
+3	3:39:8	w	أَنَّ	ﱚ	ان	Indeed	anna
+3	3:39:9	w	ٱللَّهَ	ﱛ	الله	Allah	l-laha
+3	3:39:10	w	يُبَشِّرُكَ	ﱜ	يبشرك	gives you glad tidings	yubashiruka
+3	3:39:11	w	بِيَحۡيَىٰ	ﱝ	بيحيى	of Yahya	biyaḥyā
+3	3:39:12	w	مُصَدِّقَۢا	ﱞ	مصدقا	confirming	muṣaddiqan
+3	3:39:13	w	بِكَلِمَةٖ	ﱟ	بكلمة	[of] a Word	bikalimatin
+4	3:39:14	w	مِّنَ	ﱠ	من	from	mina
+4	3:39:15	w	ٱللَّهِ	ﱡ	الله	Allah	l-lahi
+4	3:39:16	w	وَسَيِّدٗا	ﱢ	وسيدا	and a noble	wasayyidan
+4	3:39:17	w	وَحَصُورٗا	ﱣ	وحصورا	and chaste	waḥaṣūran
+4	3:39:18	w	وَنَبِيّٗا	ﱤ	ونبيا	and a Prophet	wanabiyyan
+4	3:39:19	w	مِّنَ	ﱥ	من	among	mina
+4	3:39:20	w	ٱلصَّٰلِحِينَ	ﱦ	الصالحين	the righteous	l-ṣāliḥīna
+4	3:39:21	e	٣٩	ﱧ			
+4	3:40:1	w	قَالَ	ﱨ	قال	He said	qāla
+4	3:40:2	w	رَبِّ	ﱩ	رب	My Lord	rabbi
+5	3:40:3	w	أَنَّىٰ	ﱪ	انى	how	annā
+5	3:40:4	w	يَكُونُ	ﱫ	يكون	can (there) be	yakūnu
+5	3:40:5	w	لِي	ﱬ	لي	for me	lī
+5	3:40:6	w	غُلَٰمٞ	ﱭ	غلام	a son	ghulāmun
+5	3:40:7	w	وَقَدۡ	ﱮ	وقد	and verily	waqad
+5	3:40:8	w	بَلَغَنِيَ	ﱯ	بلغني	has reached me	balaghaniya
+5	3:40:9	w	ٱلۡكِبَرُ	ﱰ	الكبر	[the] old age	l-kibaru
+5	3:40:10	w	وَٱمۡرَأَتِي	ﱱ	وامراتي	and my wife	wa-im'ra-atī
+5	3:40:11	w	عَاقِرٞۖ	ﱲﱳ	عاقر	(is) [a] barren	ʿāqirun
+5	3:40:12	w	قَالَ	ﱴ	قال	He said	qāla
+6	3:40:13	w	كَذَٰلِكَ	ﱵ	كذالك	Thus	kadhālika
+6	3:40:14	w	ٱللَّهُ	ﱶ	الله	Allah	l-lahu
+6	3:40:15	w	يَفۡعَلُ	ﱷ	يفعل	does	yafʿalu
+6	3:40:16	w	مَا	ﱸ	ما	what	mā
+6	3:40:17	w	يَشَآءُ	ﱹ	يشاء	He wills	yashāu
+6	3:40:18	e	٤٠	ﱺ			
+6	3:41:1	w	قَالَ	ﱻ	قال	He said	qāla
+6	3:41:2	w	رَبِّ	ﱼ	رب	My Lord	rabbi
+6	3:41:3	w	ٱجۡعَل	ﱽ	اجعل	make	ij'ʿal
+6	3:41:4	w	لِّيٓ	ﱾ	لي	for me	lī
+6	3:41:5	w	ءَايَةٗۖ	ﱿﲀ	اية	a sign	āyatan
+7	3:41:6	w	قَالَ	ﲁ	قال	He said	qāla
+7	3:41:7	w	ءَايَتُكَ	ﲂ	ايتك	your sign	āyatuka
+7	3:41:8	w	أَلَّا	ﲃ	الا	(is) that not	allā
+7	3:41:9	w	تُكَلِّمَ	ﲄ	تكلم	you will speak	tukallima
+7	3:41:10	w	ٱلنَّاسَ	ﲅ	الناس	(to) the people	l-nāsa
+7	3:41:11	w	ثَلَٰثَةَ	ﲆ	ثلاثة	(for) three	thalāthata
+7	3:41:12	w	أَيَّامٍ	ﲇ	ايام	days	ayyāmin
+7	3:41:13	w	إِلَّا	ﲈ	الا	except	illā
+7	3:41:14	w	رَمۡزٗاۗ	ﲉﲊ	رمزا	(with) gestures	ramzan
+7	3:41:15	w	وَٱذۡكُر	ﲋ	واذكر	And remember	wa-udh'kur
+8	3:41:16	w	رَّبَّكَ	ﲌ	ربك	your Lord	rabbaka
+8	3:41:17	w	كَثِيرٗا	ﲍ	كثيرا	much	kathīran
+8	3:41:18	w	وَسَبِّحۡ	ﲎ	وسبح	and glorify (Him)	wasabbiḥ
+8	3:41:19	w	بِٱلۡعَشِيِّ	ﲏ	بالعشي	in the evening	bil-ʿashiyi
+8	3:41:20	w	وَٱلۡإِبۡكَٰرِ	ﲐ	والابكار	and (in) the morning	wal-ib'kāri
+8	3:41:21	e	٤١	ﲑ			
+8	3:42:1	w	وَإِذۡ	ﲒ	واذ	And when	wa-idh
+8	3:42:2	w	قَالَتِ	ﲓ	قالت	said	qālati
+9	3:42:3	w	ٱلۡمَلَٰٓئِكَةُ	ﲔ	الملايكة	the Angels	l-malāikatu
+9	3:42:4	w	يَٰمَرۡيَمُ	ﲕ	يا مريم	O Maryam	yāmaryamu
+9	3:42:5	w	إِنَّ	ﲖ	ان	Indeed	inna
+9	3:42:6	w	ٱللَّهَ	ﲗ	الله	Allah	l-laha
+9	3:42:7	w	ٱصۡطَفَىٰكِ	ﲘ	اصطفاك	(has) chosen you	iṣ'ṭafāki
+9	3:42:8	w	وَطَهَّرَكِ	ﲙ	وطهرك	and purified you	waṭahharaki
+9	3:42:9	w	وَٱصۡطَفَىٰكِ	ﲚ	واصطفاك	and chosen you	wa-iṣ'ṭafāki
+10	3:42:10	w	عَلَىٰ	ﲛ	على	over	ʿalā
+10	3:42:11	w	نِسَآءِ	ﲜ	نساء	(the) women	nisāi
+10	3:42:12	w	ٱلۡعَٰلَمِينَ	ﲝ	العالمين	(of) the worlds	l-ʿālamīna
+10	3:42:13	e	٤٢	ﲞ			
+10	3:43:1	w	يَٰمَرۡيَمُ	ﲟ	يا مريم	O Maryam	yāmaryamu
+10	3:43:2	w	ٱقۡنُتِي	ﲠ	اقنتي	Be obedient	uq'nutī
+10	3:43:3	w	لِرَبِّكِ	ﲡ	لربك	to your Lord	lirabbiki
+10	3:43:4	w	وَٱسۡجُدِي	ﲢ	واسجدي	and prostrate	wa-us'judī
+11	3:43:5	w	وَٱرۡكَعِي	ﲣ	واركعي	and bow down	wa-ir'kaʿī
+11	3:43:6	w	مَعَ	ﲤ	مع	with	maʿa
+11	3:43:7	w	ٱلرَّٰكِعِينَ	ﲥ	الراكعين	those who bow down	l-rākiʿīna
+11	3:43:8	e	٤٣	ﲦ			
+11	3:44:1	w	ذَٰلِكَ	ﲧ	ذالك	That	dhālika
+11	3:44:2	w	مِنۡ	ﲨ	من	(is) from	min
+11	3:44:3	w	أَنۢبَآءِ	ﲩ	انباء	(the) news	anbāi
+11	3:44:4	w	ٱلۡغَيۡبِ	ﲪ	الغيب	(of) the unseen	l-ghaybi
+11	3:44:5	w	نُوحِيهِ	ﲫ	نوحيه	We reveal it	nūḥīhi
+11	3:44:6	w	إِلَيۡكَۚ	ﲬﲭ	اليك	to you	ilayka
+12	3:44:7	w	وَمَا	ﲮ	وما	And not	wamā
+12	3:44:8	w	كُنتَ	ﲯ	كنت	you were	kunta
+12	3:44:9	w	لَدَيۡهِمۡ	ﲰ	لديهم	with them	ladayhim
+12	3:44:10	w	إِذۡ	ﲱ	اذ	when	idh
+12	3:44:11	w	يُلۡقُونَ	ﲲ	يلقون	they cast	yul'qūna
+12	3:44:12	w	أَقۡلَٰمَهُمۡ	ﲳ	اقلامهم	their pens	aqlāmahum
+12	3:44:13	w	أَيُّهُمۡ	ﲴ	ايهم	(as to) which of them	ayyuhum
+12	3:44:14	w	يَكۡفُلُ	ﲵ	يكفل	takes charge (of)	yakfulu
+12	3:44:15	w	مَرۡيَمَ	ﲶ	مريم	Maryam	maryama
+13	3:44:16	w	وَمَا	ﲷ	وما	and not	wamā
+13	3:44:17	w	كُنتَ	ﲸ	كنت	you were	kunta
+13	3:44:18	w	لَدَيۡهِمۡ	ﲹ	لديهم	with them	ladayhim
+13	3:44:19	w	إِذۡ	ﲺ	اذ	when	idh
+13	3:44:20	w	يَخۡتَصِمُونَ	ﲻ	يختصمون	they (were) disputing	yakhtaṣimūna
+13	3:44:21	e	٤٤	ﲼ			
+13	3:45:1	w	إِذۡ	ﲽ	اذ	When	idh
+13	3:45:2	w	قَالَتِ	ﲾ	قالت	said	qālati
+13	3:45:3	w	ٱلۡمَلَٰٓئِكَةُ	ﲿ	الملايكة	the Angels	l-malāikatu
+14	3:45:4	w	يَٰمَرۡيَمُ	ﳀ	يا مريم	O Maryam	yāmaryamu
+14	3:45:5	w	إِنَّ	ﳁ	ان	Indeed	inna
+14	3:45:6	w	ٱللَّهَ	ﳂ	الله	Allah	l-laha
+14	3:45:7	w	يُبَشِّرُكِ	ﳃ	يبشرك	gives you glad tidings	yubashiruki
+14	3:45:8	w	بِكَلِمَةٖ	ﳄ	بكلمة	of a word	bikalimatin
+14	3:45:9	w	مِّنۡهُ	ﳅ	منه	from Him	min'hu
+14	3:45:10	w	ٱسۡمُهُ	ﳆ	اسمه	his name	us'muhu
+14	3:45:11	w	ٱلۡمَسِيحُ	ﳇ	المسيح	(is) the Messiah	l-masīḥu
+14	3:45:12	w	عِيسَى	ﳈ	عيسى	Isa	ʿīsā
+15	3:45:13	w	ٱبۡنُ	ﳉ	ابن	son	ub'nu
+15	3:45:14	w	مَرۡيَمَ	ﳊ	مريم	(of) Maryam	maryama
+15	3:45:15	w	وَجِيهٗا	ﳋ	وجيها	honored	wajīhan
+15	3:45:16	w	فِي	ﳌ	في	in	fī
+15	3:45:17	w	ٱلدُّنۡيَا	ﳍ	الدنيا	the world	l-dun'yā
+15	3:45:18	w	وَٱلۡأٓخِرَةِ	ﳎ	والاخرة	and (in) the Hereafter	wal-ākhirati
+15	3:45:19	w	وَمِنَ	ﳏ	ومن	and of	wamina
+15	3:45:20	w	ٱلۡمُقَرَّبِينَ	ﳐ	المقربين	those brought near (to Allah)	l-muqarabīna
+15	3:45:21	e	٤٥	ﳑ			

@@ -1,0 +1,166 @@
+1	6:19:1	w	قُلۡ	ﱁ	قل	Say	qul
+1	6:19:2	w	أَيُّ	ﱂ	اي	What	ayyu
+1	6:19:3	w	شَيۡءٍ	ﱃ	شيء	thing	shayin
+1	6:19:4	w	أَكۡبَرُ	ﱄ	اكبر	(is) greatest	akbaru
+1	6:19:5	w	شَهَٰدَةٗۖ	ﱅﱆ	شهادة	(as) a testimony	shahādatan
+1	6:19:6	w	قُلِ	ﱇ	قل	Say	quli
+1	6:19:7	w	ٱللَّهُۖ	ﱈﱉ	الله	Allah	l-lahu
+1	6:19:8	w	شَهِيدُۢ	ﱊ	شهيد	(is) Witness	shahīdun
+1	6:19:9	w	بَيۡنِي	ﱋ	بيني	between me	baynī
+1	6:19:10	w	وَبَيۡنَكُمۡۚ	ﱌﱍ	وبينكم	and between you	wabaynakum
+1	6:19:11	w	وَأُوحِيَ	ﱎ	واوحي	and has been revealed	waūḥiya
+1	6:19:12	w	إِلَيَّ	ﱏ	الي	to me	ilayya
+1	6:19:13	w	هَٰذَا	ﱐ	هاذا	this	hādhā
+2	6:19:14	w	ٱلۡقُرۡءَانُ	ﱑ	القران	[the] Quran	l-qur'ānu
+2	6:19:15	w	لِأُنذِرَكُم	ﱒ	لانذركم	that I may warn you	li-undhirakum
+2	6:19:16	w	بِهِۦ	ﱓ	به	with it	bihi
+2	6:19:17	w	وَمَنۢ	ﱔ	ومن	and whoever	waman
+2	6:19:18	w	بَلَغَۚ	ﱕﱖ	بلغ	it reaches	balagha
+2	6:19:19	w	أَئِنَّكُمۡ	ﱗ	اينكم	Do you truly	a-innakum
+2	6:19:20	w	لَتَشۡهَدُونَ	ﱘ	لتشهدون	testify	latashhadūna
+2	6:19:21	w	أَنَّ	ﱙ	ان	that	anna
+2	6:19:22	w	مَعَ	ﱚ	مع	with	maʿa
+2	6:19:23	w	ٱللَّهِ	ﱛ	الله	Allah	l-lahi
+2	6:19:24	w	ءَالِهَةً	ﱜ	الهة	(there are) gods	ālihatan
+3	6:19:25	w	أُخۡرَىٰۚ	ﱝﱞ	اخرى	other	ukh'rā
+3	6:19:26	w	قُل	ﱟ	قل	Say	qul
+3	6:19:27	w	لَّآ	ﱠ	لا	Not	lā
+3	6:19:28	w	أَشۡهَدُۚ	ﱡﱢ	اشهد	(do) I testify	ashhadu
+3	6:19:29	w	قُلۡ	ﱣ	قل	Say	qul
+3	6:19:30	w	إِنَّمَا	ﱤ	انما	Only	innamā
+3	6:19:31	w	هُوَ	ﱥ	هو	He	huwa
+3	6:19:32	w	إِلَٰهٞ	ﱦ	الاه	(is) God	ilāhun
+3	6:19:33	w	وَٰحِدٞ	ﱧ	واحد	One	wāḥidun
+3	6:19:34	w	وَإِنَّنِي	ﱨ	وانني	and indeed, I am	wa-innanī
+3	6:19:35	w	بَرِيٓءٞ	ﱩ	بريء	free	barīon
+3	6:19:36	w	مِّمَّا	ﱪ	مما	of what	mimmā
+3	6:19:37	w	تُشۡرِكُونَ	ﱫ	تشركون	you associate (with Him)	tush'rikūna
+4	6:19:38	e	١٩	ﱬ			
+4	6:20:1	w	ٱلَّذِينَ	ﱭ	الذين	Those (to) whom	alladhīna
+4	6:20:2	w	ءَاتَيۡنَٰهُمُ	ﱮ	اتيناهم	We have given them	ātaynāhumu
+4	6:20:3	w	ٱلۡكِتَٰبَ	ﱯ	الكتاب	the Book	l-kitāba
+4	6:20:4	w	يَعۡرِفُونَهُۥ	ﱰ	يعرفونه	they recognize him	yaʿrifūnahu
+4	6:20:5	w	كَمَا	ﱱ	كما	as	kamā
+4	6:20:6	w	يَعۡرِفُونَ	ﱲ	يعرفون	they recognize	yaʿrifūna
+4	6:20:7	w	أَبۡنَآءَهُمُۘ	ﱳﱴ	ابناءهم	their sons	abnāahumu
+4	6:20:8	w	ٱلَّذِينَ	ﱵ	الذين	Those who	alladhīna
+5	6:20:9	w	خَسِرُوٓاْ	ﱶ	خسروا	lost	khasirū
+5	6:20:10	w	أَنفُسَهُمۡ	ﱷ	انفسهم	themselves	anfusahum
+5	6:20:11	w	فَهُمۡ	ﱸ	فهم	then they	fahum
+5	6:20:12	w	لَا	ﱹ	لا	(do) not	lā
+5	6:20:13	w	يُؤۡمِنُونَ	ﱺ	يومنون	believe	yu'minūna
+5	6:20:14	e	٢٠	ﱻ			
+5	6:21:1	w	وَمَنۡ	ﱼ	ومن	And who	waman
+5	6:21:2	w	أَظۡلَمُ	ﱽ	اظلم	(is) more unjust	aẓlamu
+5	6:21:3	w	مِمَّنِ	ﱾ	ممن	than (he) who	mimmani
+5	6:21:4	w	ٱفۡتَرَىٰ	ﱿ	افترى	invents	if'tarā
+5	6:21:5	w	عَلَى	ﲀ	على	against	ʿalā
+6	6:21:6	w	ٱللَّهِ	ﲁ	الله	Allah	l-lahi
+6	6:21:7	w	كَذِبًا	ﲂ	كذبا	a lie	kadhiban
+6	6:21:8	w	أَوۡ	ﲃ	او	or	aw
+6	6:21:9	w	كَذَّبَ	ﲄ	كذب	rejects	kadhaba
+6	6:21:10	w	بِـَٔايَٰتِهِۦٓۚ	ﲅﲆ	باياته	His Signs	biāyātihi
+6	6:21:11	w	إِنَّهُۥ	ﲇ	انه	Indeed	innahu
+6	6:21:12	w	لَا	ﲈ	لا	not	lā
+6	6:21:13	w	يُفۡلِحُ	ﲉ	يفلح	will be successful	yuf'liḥu
+6	6:21:14	w	ٱلظَّٰلِمُونَ	ﲊ	الظالمون	the wrongdoers	l-ẓālimūna
+6	6:21:15	e	٢١	ﲋ			
+6	6:22:1	w	وَيَوۡمَ	ﲌ	ويوم	And (the) Day	wayawma
+6	6:22:2	w	نَحۡشُرُهُمۡ	ﲍ	نحشرهم	We will gather them	naḥshuruhum
+7	6:22:3	w	جَمِيعٗا	ﲎ	جميعا	all	jamīʿan
+7	6:22:4	w	ثُمَّ	ﲏ	ثم	then	thumma
+7	6:22:5	w	نَقُولُ	ﲐ	نقول	We will say	naqūlu
+7	6:22:6	w	لِلَّذِينَ	ﲑ	للذين	to those who	lilladhīna
+7	6:22:7	w	أَشۡرَكُوٓاْ	ﲒ	اشركوا	associated others with Allah	ashrakū
+7	6:22:8	w	أَيۡنَ	ﲓ	اين	Where (are)	ayna
+7	6:22:9	w	شُرَكَآؤُكُمُ	ﲔ	شركاوكم	your partners	shurakāukumu
+7	6:22:10	w	ٱلَّذِينَ	ﲕ	الذين	those whom	alladhīna
+7	6:22:11	w	كُنتُمۡ	ﲖ	كنتم	you used to	kuntum
+7	6:22:12	w	تَزۡعُمُونَ	ﲗ	تزعمون	claim	tazʿumūna
+7	6:22:13	e	٢٢	ﲘ			
+8	6:23:1	w	ثُمَّ	ﲙ	ثم	Then	thumma
+8	6:23:2	w	لَمۡ	ﲚ	لم	not	lam
+8	6:23:3	w	تَكُن	ﲛ	تكن	will be	takun
+8	6:23:4	w	فِتۡنَتُهُمۡ	ﲜ	فتنتهم	(for) them a plea	fit'natuhum
+8	6:23:5	w	إِلَّآ	ﲝ	الا	except	illā
+8	6:23:6	w	أَن	ﲞ	ان	that	an
+8	6:23:7	w	قَالُواْ	ﲟ	قالوا	they say	qālū
+8	6:23:8	w	وَٱللَّهِ	ﲠ	والله	By Allah	wal-lahi
+8	6:23:9	w	رَبِّنَا	ﲡ	ربنا	our Lord	rabbinā
+8	6:23:10	w	مَا	ﲢ	ما	not	mā
+8	6:23:11	w	كُنَّا	ﲣ	كنا	we were	kunnā
+8	6:23:12	w	مُشۡرِكِينَ	ﲤ	مشركين	those who associated others (with Allah)	mush'rikīna
+8	6:23:13	e	٢٣	ﲥ			
+9	6:24:1	w	ٱنظُرۡ	ﲦ	انظر	Look	unẓur
+9	6:24:2	w	كَيۡفَ	ﲧ	كيف	how	kayfa
+9	6:24:3	w	كَذَبُواْ	ﲨ	كذبوا	they lied	kadhabū
+9	6:24:4	w	عَلَىٰٓ	ﲩ	على	against	ʿalā
+9	6:24:5	w	أَنفُسِهِمۡۚ	ﲪﲫ	انفسهم	themselves	anfusihim
+9	6:24:6	w	وَضَلَّ	ﲬ	وضل	And lost	waḍalla
+9	6:24:7	w	عَنۡهُم	ﲭ	عنهم	from them	ʿanhum
+9	6:24:8	w	مَّا	ﲮ	ما	what	mā
+9	6:24:9	w	كَانُواْ	ﲯ	كانوا	they used to	kānū
+9	6:24:10	w	يَفۡتَرُونَ	ﲰ	يفترون	invent	yaftarūna
+9	6:24:11	e	٢٤	ﲱ			
+10	6:25:1	w	وَمِنۡهُم	ﲲ	ومنهم	And among them	wamin'hum
+10	6:25:2	w	مَّن	ﲳ	من	(are those) who	man
+10	6:25:3	w	يَسۡتَمِعُ	ﲴ	يستمع	listen	yastamiʿu
+10	6:25:4	w	إِلَيۡكَۖ	ﲵﲶ	اليك	to you	ilayka
+10	6:25:5	w	وَجَعَلۡنَا	ﲷ	وجعلنا	but We have placed	wajaʿalnā
+10	6:25:6	w	عَلَىٰ	ﲸ	على	over	ʿalā
+10	6:25:7	w	قُلُوبِهِمۡ	ﲹ	قلوبهم	their hearts	qulūbihim
+10	6:25:8	w	أَكِنَّةً	ﲺ	اكنة	coverings	akinnatan
+10	6:25:9	w	أَن	ﲻ	ان	lest	an
+10	6:25:10	w	يَفۡقَهُوهُ	ﲼ	يفقهوه	they understand it	yafqahūhu
+11	6:25:11	w	وَفِيٓ	ﲽ	وفي	and in	wafī
+11	6:25:12	w	ءَاذَانِهِمۡ	ﲾ	اذانهم	their ears	ādhānihim
+11	6:25:13	w	وَقۡرٗاۚ	ﲿﳀ	وقرا	deafness	waqran
+11	6:25:14	w	وَإِن	ﳁ	وان	And if	wa-in
+11	6:25:15	w	يَرَوۡاْ	ﳂ	يروا	they see	yaraw
+11	6:25:16	w	كُلَّ	ﳃ	كل	every	kulla
+11	6:25:17	w	ءَايَةٖ	ﳄ	اية	sign	āyatin
+11	6:25:18	w	لَّا	ﳅ	لا	not	lā
+11	6:25:19	w	يُؤۡمِنُواْ	ﳆ	يومنوا	will they believe	yu'minū
+11	6:25:20	w	بِهَاۖ	ﳇﳈ	بها	in it	bihā
+11	6:25:21	w	حَتَّىٰٓ	ﳉ	حتى	Until	ḥattā
+11	6:25:22	w	إِذَا	ﳊ	اذا	when	idhā
+12	6:25:23	w	جَآءُوكَ	ﳋ	جاءوك	they come to you	jāūka
+12	6:25:24	w	يُجَٰدِلُونَكَ	ﳌ	يجادلونك	and argue with you	yujādilūnaka
+12	6:25:25	w	يَقُولُ	ﳍ	يقول	say	yaqūlu
+12	6:25:26	w	ٱلَّذِينَ	ﳎ	الذين	those who	alladhīna
+12	6:25:27	w	كَفَرُوٓاْ	ﳏ	كفروا	disbelieved	kafarū
+12	6:25:28	w	إِنۡ	ﳐ	ان	Not	in
+12	6:25:29	w	هَٰذَآ	ﳑ	هاذا	(is) this	hādhā
+12	6:25:30	w	إِلَّآ	ﳒ	الا	but	illā
+12	6:25:31	w	أَسَٰطِيرُ	ﳓ	اساطير	(the) tales	asāṭīru
+13	6:25:32	w	ٱلۡأَوَّلِينَ	ﳔ	الاولين	(of) the former (people)	l-awalīna
+13	6:25:33	e	٢٥	ﳕ			
+13	6:26:1	w	وَهُمۡ	ﳖ	وهم	And they	wahum
+13	6:26:2	w	يَنۡهَوۡنَ	ﳗ	ينهون	forbid (others)	yanhawna
+13	6:26:3	w	عَنۡهُ	ﳘ	عنه	from it	ʿanhu
+13	6:26:4	w	وَيَنۡـَٔوۡنَ	ﳙ	ويناون	and they keep away	wayanawna
+13	6:26:5	w	عَنۡهُۖ	ﳚﳛ	عنه	from it	ʿanhu
+13	6:26:6	w	وَإِن	ﳜ	وان	And not	wa-in
+13	6:26:7	w	يُهۡلِكُونَ	ﳝ	يهلكون	they destroy	yuh'likūna
+13	6:26:8	w	إِلَّآ	ﳞ	الا	except	illā
+14	6:26:9	w	أَنفُسَهُمۡ	ﳟ	انفسهم	themselves	anfusahum
+14	6:26:10	w	وَمَا	ﳠ	وما	and not	wamā
+14	6:26:11	w	يَشۡعُرُونَ	ﳡ	يشعرون	they perceive	yashʿurūna
+14	6:26:12	e	٢٦	ﳢ			
+14	6:27:1	w	وَلَوۡ	ﳣ	ولو	And if	walaw
+14	6:27:2	w	تَرَىٰٓ	ﳤ	ترى	you (could) see	tarā
+14	6:27:3	w	إِذۡ	ﳥ	اذ	when	idh
+14	6:27:4	w	وُقِفُواْ	ﳦ	وقفوا	they are made to stand	wuqifū
+14	6:27:5	w	عَلَى	ﳧ	على	by	ʿalā
+14	6:27:6	w	ٱلنَّارِ	ﳨ	النار	the Fire	l-nāri
+14	6:27:7	w	فَقَالُواْ	ﳩ	فقالوا	then they (will) say	faqālū
+15	6:27:8	w	يَٰلَيۡتَنَا	ﳪ	يا ليتنا	Oh! Would that we	yālaytanā
+15	6:27:9	w	نُرَدُّ	ﳫ	نرد	were sent back	nuraddu
+15	6:27:10	w	وَلَا	ﳬ	ولا	and not	walā
+15	6:27:11	w	نُكَذِّبَ	ﳭ	نكذب	we would deny	nukadhiba
+15	6:27:12	w	بِـَٔايَٰتِ	ﳮ	بايات	(the) Signs	biāyāti
+15	6:27:13	w	رَبِّنَا	ﳯ	ربنا	(of) our Lord	rabbinā
+15	6:27:14	w	وَنَكُونَ	ﳰ	ونكون	and we would be	wanakūna
+15	6:27:15	w	مِنَ	ﳱ	من	among	mina
+15	6:27:16	w	ٱلۡمُؤۡمِنِينَ	ﳲ	المومنين	the believers	l-mu'minīna
+15	6:27:17	e	٢٧	ﳳ			

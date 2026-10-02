@@ -1,0 +1,126 @@
+1	62:9:1	w	يَٰٓأَيُّهَا	ﱁ	يا ايها	O	yāayyuhā
+1	62:9:2	w	ٱلَّذِينَ	ﱂ	الذين	(you) who	alladhīna
+1	62:9:3	w	ءَامَنُوٓاْ	ﱃ	امنوا	believe	āmanū
+1	62:9:4	w	إِذَا	ﱄ	اذا	When	idhā
+1	62:9:5	w	نُودِيَ	ﱅ	نودي	(the) call is made	nūdiya
+1	62:9:6	w	لِلصَّلَوٰةِ	ﱆ	للصلاة	for (the) prayer	lilṣṣalati
+1	62:9:7	w	مِن	ﱇ	من	on	min
+1	62:9:8	w	يَوۡمِ	ﱈ	يوم	(the) day	yawmi
+1	62:9:9	w	ٱلۡجُمُعَةِ	ﱉ	الجمعة	(of) Friday	l-jumuʿati
+1	62:9:10	w	فَٱسۡعَوۡاْ	ﱊ	فاسعوا	then hasten	fa-is'ʿaw
+2	62:9:11	w	إِلَىٰ	ﱋ	الى	to	ilā
+2	62:9:12	w	ذِكۡرِ	ﱌ	ذكر	(the) remembrance	dhik'ri
+2	62:9:13	w	ٱللَّهِ	ﱍ	الله	(of) Allah	l-lahi
+2	62:9:14	w	وَذَرُواْ	ﱎ	وذروا	and leave	wadharū
+2	62:9:15	w	ٱلۡبَيۡعَۚ	ﱏﱐ	البيع	the business	l-bayʿa
+2	62:9:16	w	ذَٰلِكُمۡ	ﱑ	ذالكم	That	dhālikum
+2	62:9:17	w	خَيۡرٞ	ﱒ	خير	(is) better	khayrun
+2	62:9:18	w	لَّكُمۡ	ﱓ	لكم	for you	lakum
+2	62:9:19	w	إِن	ﱔ	ان	if	in
+2	62:9:20	w	كُنتُمۡ	ﱕ	كنتم	you	kuntum
+2	62:9:21	w	تَعۡلَمُونَ	ﱖ	تعلمون	know	taʿlamūna
+3	62:9:22	e	٩	ﱗ			
+3	62:10:1	w	فَإِذَا	ﱘ	فاذا	Then when	fa-idhā
+3	62:10:2	w	قُضِيَتِ	ﱙ	قضيت	is concluded	quḍiyati
+3	62:10:3	w	ٱلصَّلَوٰةُ	ﱚ	الصلاة	the prayer	l-ṣalatu
+3	62:10:4	w	فَٱنتَشِرُواْ	ﱛ	فانتشروا	then disperse	fa-intashirū
+3	62:10:5	w	فِي	ﱜ	في	in	fī
+3	62:10:6	w	ٱلۡأَرۡضِ	ﱝ	الارض	the land	l-arḍi
+3	62:10:7	w	وَٱبۡتَغُواْ	ﱞ	وابتغوا	and seek	wa-ib'taghū
+4	62:10:8	w	مِن	ﱟ	من	from	min
+4	62:10:9	w	فَضۡلِ	ﱠ	فضل	(the) Bounty	faḍli
+4	62:10:10	w	ٱللَّهِ	ﱡ	الله	(of) Allah	l-lahi
+4	62:10:11	w	وَٱذۡكُرُواْ	ﱢ	واذكروا	and remember	wa-udh'kurū
+4	62:10:12	w	ٱللَّهَ	ﱣ	الله	Allah	l-laha
+4	62:10:13	w	كَثِيرٗا	ﱤ	كثيرا	much	kathīran
+4	62:10:14	w	لَّعَلَّكُمۡ	ﱥ	لعلكم	so that you may	laʿallakum
+4	62:10:15	w	تُفۡلِحُونَ	ﱦ	تفلحون	succeed	tuf'liḥūna
+4	62:10:16	e	١٠	ﱧ			
+5	62:11:1	w	وَإِذَا	ﱨ	واذا	And when	wa-idhā
+5	62:11:2	w	رَأَوۡاْ	ﱩ	راوا	they saw	ra-aw
+5	62:11:3	w	تِجَٰرَةً	ﱪ	تجارة	a transaction	tijāratan
+5	62:11:4	w	أَوۡ	ﱫ	او	or	aw
+5	62:11:5	w	لَهۡوًا	ﱬ	لهوا	a sport	lahwan
+5	62:11:6	w	ٱنفَضُّوٓاْ	ﱭ	انفضوا	they rushed	infaḍḍū
+5	62:11:7	w	إِلَيۡهَا	ﱮ	اليها	to it	ilayhā
+5	62:11:8	w	وَتَرَكُوكَ	ﱯ	وتركوك	and left you	watarakūka
+5	62:11:9	w	قَآئِمٗاۚ	ﱰﱱ	قايما	standing	qāiman
+5	62:11:10	w	قُلۡ	ﱲ	قل	Say	qul
+5	62:11:11	w	مَا	ﱳ	ما	What	mā
+5	62:11:12	w	عِندَ	ﱴ	عند	(is) with	ʿinda
+6	62:11:13	w	ٱللَّهِ	ﱵ	الله	Allah	l-lahi
+6	62:11:14	w	خَيۡرٞ	ﱶ	خير	(is) better	khayrun
+6	62:11:15	w	مِّنَ	ﱷ	من	than	mina
+6	62:11:16	w	ٱللَّهۡوِ	ﱸ	اللهو	the sport	l-lahwi
+6	62:11:17	w	وَمِنَ	ﱹ	ومن	and from	wamina
+6	62:11:18	w	ٱلتِّجَٰرَةِۚ	ﱺﱻ	التجارة	(any) transaction	l-tijārati
+6	62:11:19	w	وَٱللَّهُ	ﱼ	والله	And Allah	wal-lahu
+6	62:11:20	w	خَيۡرُ	ﱽ	خير	(is the) Best	khayru
+6	62:11:21	w	ٱلرَّٰزِقِينَ	ﱾ	الرازقين	(of) the Providers	l-rāziqīna
+6	62:11:22	e	١١	ﱿ			
+9	63:1:1	w	إِذَا	ﲀ	اذا	When	idhā
+9	63:1:2	w	جَآءَكَ	ﲁ	جاءك	come to you	jāaka
+9	63:1:3	w	ٱلۡمُنَٰفِقُونَ	ﲂ	المنافقون	the hypocrites	l-munāfiqūna
+9	63:1:4	w	قَالُواْ	ﲃ	قالوا	they say	qālū
+9	63:1:5	w	نَشۡهَدُ	ﲄ	نشهد	We testify	nashhadu
+9	63:1:6	w	إِنَّكَ	ﲅ	انك	that you	innaka
+9	63:1:7	w	لَرَسُولُ	ﲆ	لرسول	(are) surely (the) Messenger	larasūlu
+9	63:1:8	w	ٱللَّهِۗ	ﲇﲈ	الله	(of) Allah	l-lahi
+9	63:1:9	w	وَٱللَّهُ	ﲉ	والله	And Allah	wal-lahu
+9	63:1:10	w	يَعۡلَمُ	ﲊ	يعلم	knows	yaʿlamu
+9	63:1:11	w	إِنَّكَ	ﲋ	انك	that you	innaka
+10	63:1:12	w	لَرَسُولُهُۥ	ﲌ	لرسوله	(are) surely His Messenger	larasūluhu
+10	63:1:13	w	وَٱللَّهُ	ﲍ	والله	and Allah	wal-lahu
+10	63:1:14	w	يَشۡهَدُ	ﲎ	يشهد	testifies	yashhadu
+10	63:1:15	w	إِنَّ	ﲏ	ان	that	inna
+10	63:1:16	w	ٱلۡمُنَٰفِقِينَ	ﲐ	المنافقين	the hypocrites	l-munāfiqīna
+10	63:1:17	w	لَكَٰذِبُونَ	ﲑ	لكاذبون	(are) surely liars	lakādhibūna
+10	63:1:18	e	١	ﲒ			
+10	63:2:1	w	ٱتَّخَذُوٓاْ	ﲓ	اتخذوا	They take	ittakhadhū
+11	63:2:2	w	أَيۡمَٰنَهُمۡ	ﲔ	ايمانهم	their oaths	aymānahum
+11	63:2:3	w	جُنَّةٗ	ﲕ	جنة	(as) a cover	junnatan
+11	63:2:4	w	فَصَدُّواْ	ﲖ	فصدوا	so they turn away	faṣaddū
+11	63:2:5	w	عَن	ﲗ	عن	from	ʿan
+11	63:2:6	w	سَبِيلِ	ﲘ	سبيل	(the) Way	sabīli
+11	63:2:7	w	ٱللَّهِۚ	ﲙﲚ	الله	(of) Allah	l-lahi
+11	63:2:8	w	إِنَّهُمۡ	ﲛ	انهم	Indeed, [they]	innahum
+11	63:2:9	w	سَآءَ	ﲜ	ساء	evil is	sāa
+11	63:2:10	w	مَا	ﲝ	ما	what	mā
+11	63:2:11	w	كَانُواْ	ﲞ	كانوا	they used to	kānū
+12	63:2:12	w	يَعۡمَلُونَ	ﲟ	يعملون	do	yaʿmalūna
+12	63:2:13	e	٢	ﲠ			
+12	63:3:1	w	ذَٰلِكَ	ﲡ	ذالك	That	dhālika
+12	63:3:2	w	بِأَنَّهُمۡ	ﲢ	بانهم	(is) because	bi-annahum
+12	63:3:3	w	ءَامَنُواْ	ﲣ	امنوا	they believed	āmanū
+12	63:3:4	w	ثُمَّ	ﲤ	ثم	then	thumma
+12	63:3:5	w	كَفَرُواْ	ﲥ	كفروا	they disbelieved	kafarū
+12	63:3:6	w	فَطُبِعَ	ﲦ	فطبع	so were sealed	faṭubiʿa
+12	63:3:7	w	عَلَىٰ	ﲧ	على	[upon]	ʿalā
+12	63:3:8	w	قُلُوبِهِمۡ	ﲨ	قلوبهم	their hearts	qulūbihim
+12	63:3:9	w	فَهُمۡ	ﲩ	فهم	so they	fahum
+13	63:3:10	w	لَا	ﲪ	لا	(do) not	lā
+13	63:3:11	w	يَفۡقَهُونَ	ﲫ	يفقهون	understand	yafqahūna
+13	63:3:12	e	٣	ﲬ			
+13	63:4:1	w	۞ وَإِذَا	ﲭ ﲮ	۞ واذا	And when	wa-idhā
+13	63:4:2	w	رَأَيۡتَهُمۡ	ﲯ	رايتهم	you see them	ra-aytahum
+13	63:4:3	w	تُعۡجِبُكَ	ﲰ	تعجبك	pleases you	tuʿ'jibuka
+13	63:4:4	w	أَجۡسَامُهُمۡۖ	ﲱﲲ	اجسامهم	their bodies	ajsāmuhum
+13	63:4:5	w	وَإِن	ﲳ	وان	and if	wa-in
+13	63:4:6	w	يَقُولُواْ	ﲴ	يقولوا	they speak	yaqūlū
+14	63:4:7	w	تَسۡمَعۡ	ﲵ	تسمع	you listen	tasmaʿ
+14	63:4:8	w	لِقَوۡلِهِمۡۖ	ﲶﲷ	لقولهم	to their speech	liqawlihim
+14	63:4:9	w	كَأَنَّهُمۡ	ﲸ	كانهم	as if they (were)	ka-annahum
+14	63:4:10	w	خُشُبٞ	ﲹ	خشب	pieces of wood	khushubun
+14	63:4:11	w	مُّسَنَّدَةٞۖ	ﲺﲻ	مسندة	propped up	musannadatun
+14	63:4:12	w	يَحۡسَبُونَ	ﲼ	يحسبون	They think	yaḥsabūna
+14	63:4:13	w	كُلَّ	ﲽ	كل	every	kulla
+14	63:4:14	w	صَيۡحَةٍ	ﲾ	صيحة	shout	ṣayḥatin
+15	63:4:15	w	عَلَيۡهِمۡۚ	ﲿﳀ	عليهم	(is) against them	ʿalayhim
+15	63:4:16	w	هُمُ	ﳁ	هم	They	humu
+15	63:4:17	w	ٱلۡعَدُوُّ	ﳂ	العدو	(are) the enemy	l-ʿaduwu
+15	63:4:18	w	فَٱحۡذَرۡهُمۡۚ	ﳃﳄ	فاحذرهم	so beware of them	fa-iḥ'dharhum
+15	63:4:19	w	قَٰتَلَهُمُ	ﳅ	قاتلهم	May destroy them	qātalahumu
+15	63:4:20	w	ٱللَّهُۖ	ﳆﳇ	الله	Allah	l-lahu
+15	63:4:21	w	أَنَّىٰ	ﳈ	انى	How	annā
+15	63:4:22	w	يُؤۡفَكُونَ	ﳉ	يوفكون	are they deluded	yu'fakūna
+15	63:4:23	e	٤	ﳊ			

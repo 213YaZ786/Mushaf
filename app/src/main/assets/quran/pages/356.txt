@@ -1,0 +1,156 @@
+1	24:44:1	w	يُقَلِّبُ	ﱁ	يقلب	Allah alternates	yuqallibu
+1	24:44:2	w	ٱللَّهُ	ﱂ	الله	Allah alternates	l-lahu
+1	24:44:3	w	ٱلَّيۡلَ	ﱃ	الليل	the night	al-layla
+1	24:44:4	w	وَٱلنَّهَارَۚ	ﱄﱅ	والنهار	and the day	wal-nahāra
+1	24:44:5	w	إِنَّ	ﱆ	ان	Indeed	inna
+1	24:44:6	w	فِي	ﱇ	في	in	fī
+1	24:44:7	w	ذَٰلِكَ	ﱈ	ذالك	that	dhālika
+1	24:44:8	w	لَعِبۡرَةٗ	ﱉ	لعبرة	surely is a lesson	laʿib'ratan
+1	24:44:9	w	لِّأُوْلِي	ﱊ	لاولي	for those who have vision	li-ulī
+1	24:44:10	w	ٱلۡأَبۡصَٰرِ	ﱋ	الابصار	for those who have vision	l-abṣāri
+1	24:44:11	e	٤٤	ﱌ			
+2	24:45:1	w	وَٱللَّهُ	ﱍ	والله	And Allah	wal-lahu
+2	24:45:2	w	خَلَقَ	ﱎ	خلق	created	khalaqa
+2	24:45:3	w	كُلَّ	ﱏ	كل	every	kulla
+2	24:45:4	w	دَآبَّةٖ	ﱐ	دابة	moving creature	dābbatin
+2	24:45:5	w	مِّن	ﱑ	من	from	min
+2	24:45:6	w	مَّآءٖۖ	ﱒﱓ	ماء	water	māin
+2	24:45:7	w	فَمِنۡهُم	ﱔ	فمنهم	Of them	famin'hum
+2	24:45:8	w	مَّن	ﱕ	من	(is a kind) who	man
+2	24:45:9	w	يَمۡشِي	ﱖ	يمشي	walks	yamshī
+2	24:45:10	w	عَلَىٰ	ﱗ	على	on	ʿalā
+2	24:45:11	w	بَطۡنِهِۦ	ﱘ	بطنه	its belly	baṭnihi
+2	24:45:12	w	وَمِنۡهُم	ﱙ	ومنهم	and of them	wamin'hum
+2	24:45:13	w	مَّن	ﱚ	من	(is a kind) who	man
+3	24:45:14	w	يَمۡشِي	ﱛ	يمشي	walks	yamshī
+3	24:45:15	w	عَلَىٰ	ﱜ	على	on	ʿalā
+3	24:45:16	w	رِجۡلَيۡنِ	ﱝ	رجلين	two legs	rij'layni
+3	24:45:17	w	وَمِنۡهُم	ﱞ	ومنهم	and of them	wamin'hum
+3	24:45:18	w	مَّن	ﱟ	من	(is a kind) who	man
+3	24:45:19	w	يَمۡشِي	ﱠ	يمشي	walks	yamshī
+3	24:45:20	w	عَلَىٰٓ	ﱡ	على	on	ʿalā
+3	24:45:21	w	أَرۡبَعٖۚ	ﱢﱣ	اربع	four	arbaʿin
+3	24:45:22	w	يَخۡلُقُ	ﱤ	يخلق	Allah creates	yakhluqu
+3	24:45:23	w	ٱللَّهُ	ﱥ	الله	Allah creates	l-lahu
+3	24:45:24	w	مَا	ﱦ	ما	what	mā
+3	24:45:25	w	يَشَآءُۚ	ﱧﱨ	يشاء	He wills	yashāu
+4	24:45:26	w	إِنَّ	ﱩ	ان	Indeed	inna
+4	24:45:27	w	ٱللَّهَ	ﱪ	الله	Allah	l-laha
+4	24:45:28	w	عَلَىٰ	ﱫ	على	on	ʿalā
+4	24:45:29	w	كُلِّ	ﱬ	كل	every	kulli
+4	24:45:30	w	شَيۡءٖ	ﱭ	شيء	thing	shayin
+4	24:45:31	w	قَدِيرٞ	ﱮ	قدير	(is) All-Powerful	qadīrun
+4	24:45:32	e	٤٥	ﱯ			
+4	24:46:1	w	لَّقَدۡ	ﱰ	لقد	Verily	laqad
+4	24:46:2	w	أَنزَلۡنَآ	ﱱ	انزلنا	We have sent down	anzalnā
+4	24:46:3	w	ءَايَٰتٖ	ﱲ	ايات	Verses	āyātin
+4	24:46:4	w	مُّبَيِّنَٰتٖۚ	ﱳﱴ	مبينات	clear	mubayyinātin
+5	24:46:5	w	وَٱللَّهُ	ﱵ	والله	And Allah	wal-lahu
+5	24:46:6	w	يَهۡدِي	ﱶ	يهدي	guides	yahdī
+5	24:46:7	w	مَن	ﱷ	من	whom	man
+5	24:46:8	w	يَشَآءُ	ﱸ	يشاء	He wills	yashāu
+5	24:46:9	w	إِلَىٰ	ﱹ	الى	to	ilā
+5	24:46:10	w	صِرَٰطٖ	ﱺ	صراط	a path	ṣirāṭin
+5	24:46:11	w	مُّسۡتَقِيمٖ	ﱻ	مستقيم	straight	mus'taqīmin
+5	24:46:12	e	٤٦	ﱼ			
+5	24:47:1	w	وَيَقُولُونَ	ﱽ	ويقولون	And they say	wayaqūlūna
+6	24:47:2	w	ءَامَنَّا	ﱾ	امنا	We believe	āmannā
+6	24:47:3	w	بِٱللَّهِ	ﱿ	بالله	in Allah	bil-lahi
+6	24:47:4	w	وَبِٱلرَّسُولِ	ﲀ	وبالرسول	and in the Messenger	wabil-rasūli
+6	24:47:5	w	وَأَطَعۡنَا	ﲁ	واطعنا	and we obey	wa-aṭaʿnā
+6	24:47:6	w	ثُمَّ	ﲂ	ثم	Then	thumma
+6	24:47:7	w	يَتَوَلَّىٰ	ﲃ	يتولى	turns away	yatawallā
+6	24:47:8	w	فَرِيقٞ	ﲄ	فريق	a party	farīqun
+6	24:47:9	w	مِّنۡهُم	ﲅ	منهم	of them	min'hum
+6	24:47:10	w	مِّنۢ	ﲆ	من	after	min
+6	24:47:11	w	بَعۡدِ	ﲇ	بعد	after	baʿdi
+7	24:47:12	w	ذَٰلِكَۚ	ﲈﲉ	ذالك	that	dhālika
+7	24:47:13	w	وَمَآ	ﲊ	وما	And not	wamā
+7	24:47:14	w	أُوْلَٰٓئِكَ	ﲋ	اولايك	those	ulāika
+7	24:47:15	w	بِٱلۡمُؤۡمِنِينَ	ﲌ	بالمومنين	(are) believers	bil-mu'minīna
+7	24:47:16	e	٤٧	ﲍ			
+7	24:48:1	w	وَإِذَا	ﲎ	واذا	And when	wa-idhā
+7	24:48:2	w	دُعُوٓاْ	ﲏ	دعوا	they are called	duʿū
+7	24:48:3	w	إِلَى	ﲐ	الى	to	ilā
+7	24:48:4	w	ٱللَّهِ	ﲑ	الله	Allah	l-lahi
+7	24:48:5	w	وَرَسُولِهِۦ	ﲒ	ورسوله	and His Messenger	warasūlihi
+8	24:48:6	w	لِيَحۡكُمَ	ﲓ	ليحكم	to judge	liyaḥkuma
+8	24:48:7	w	بَيۡنَهُمۡ	ﲔ	بينهم	between them	baynahum
+8	24:48:8	w	إِذَا	ﲕ	اذا	behold	idhā
+8	24:48:9	w	فَرِيقٞ	ﲖ	فريق	a party	farīqun
+8	24:48:10	w	مِّنۡهُم	ﲗ	منهم	of them	min'hum
+8	24:48:11	w	مُّعۡرِضُونَ	ﲘ	معرضون	(is) averse	muʿ'riḍūna
+8	24:48:12	e	٤٨	ﲙ			
+8	24:49:1	w	وَإِن	ﲚ	وان	But if	wa-in
+8	24:49:2	w	يَكُن	ﲛ	يكن	is	yakun
+8	24:49:3	w	لَّهُمُ	ﲜ	لهم	with them	lahumu
+8	24:49:4	w	ٱلۡحَقُّ	ﲝ	الحق	the truth	l-ḥaqu
+9	24:49:5	w	يَأۡتُوٓاْ	ﲞ	ياتوا	they come	yatū
+9	24:49:6	w	إِلَيۡهِ	ﲟ	اليه	to him	ilayhi
+9	24:49:7	w	مُذۡعِنِينَ	ﲠ	مذعنين	(as) promptly obedient	mudh'ʿinīna
+9	24:49:8	e	٤٩	ﲡ			
+9	24:50:1	w	أَفِي	ﲢ	افي	Is (there) in	afī
+9	24:50:2	w	قُلُوبِهِم	ﲣ	قلوبهم	their hearts	qulūbihim
+9	24:50:3	w	مَّرَضٌ	ﲤ	مرض	a disease	maraḍun
+9	24:50:4	w	أَمِ	ﲥ	ام	or	ami
+9	24:50:5	w	ٱرۡتَابُوٓاْ	ﲦ	ارتابوا	do they doubt	ir'tābū
+9	24:50:6	w	أَمۡ	ﲧ	ام	or	am
+9	24:50:7	w	يَخَافُونَ	ﲨ	يخافون	they fear	yakhāfūna
+10	24:50:8	w	أَن	ﲩ	ان	that	an
+10	24:50:9	w	يَحِيفَ	ﲪ	يحيف	Allah will be unjust	yaḥīfa
+10	24:50:10	w	ٱللَّهُ	ﲫ	الله	Allah will be unjust	l-lahu
+10	24:50:11	w	عَلَيۡهِمۡ	ﲬ	عليهم	to them	ʿalayhim
+10	24:50:12	w	وَرَسُولُهُۥۚ	ﲭﲮ	ورسوله	and His Messenger	warasūluhu
+10	24:50:13	w	بَلۡ	ﲯ	بل	Nay	bal
+10	24:50:14	w	أُوْلَٰٓئِكَ	ﲰ	اولايك	those	ulāika
+10	24:50:15	w	هُمُ	ﲱ	هم	[they]	humu
+10	24:50:16	w	ٱلظَّٰلِمُونَ	ﲲ	الظالمون	(are) the wrongdoers	l-ẓālimūna
+10	24:50:17	e	٥٠	ﲳ			
+10	24:51:1	w	إِنَّمَا	ﲴ	انما	Only	innamā
+11	24:51:2	w	كَانَ	ﲵ	كان	is	kāna
+11	24:51:3	w	قَوۡلَ	ﲶ	قول	(the) statement	qawla
+11	24:51:4	w	ٱلۡمُؤۡمِنِينَ	ﲷ	المومنين	(of) the believers	l-mu'minīna
+11	24:51:5	w	إِذَا	ﲸ	اذا	when	idhā
+11	24:51:6	w	دُعُوٓاْ	ﲹ	دعوا	they are called	duʿū
+11	24:51:7	w	إِلَى	ﲺ	الى	to	ilā
+11	24:51:8	w	ٱللَّهِ	ﲻ	الله	Allah	l-lahi
+11	24:51:9	w	وَرَسُولِهِۦ	ﲼ	ورسوله	and His Messenger	warasūlihi
+11	24:51:10	w	لِيَحۡكُمَ	ﲽ	ليحكم	to judge	liyaḥkuma
+11	24:51:11	w	بَيۡنَهُمۡ	ﲾ	بينهم	between them	baynahum
+11	24:51:12	w	أَن	ﲿ	ان	(is) that	an
+12	24:51:13	w	يَقُولُواْ	ﳀ	يقولوا	they say	yaqūlū
+12	24:51:14	w	سَمِعۡنَا	ﳁ	سمعنا	We hear	samiʿ'nā
+12	24:51:15	w	وَأَطَعۡنَاۚ	ﳂﳃ	واطعنا	and we obey	wa-aṭaʿnā
+12	24:51:16	w	وَأُوْلَٰٓئِكَ	ﳄ	واولايك	And those	wa-ulāika
+12	24:51:17	w	هُمُ	ﳅ	هم	[they]	humu
+12	24:51:18	w	ٱلۡمُفۡلِحُونَ	ﳆ	المفلحون	(are) the successful	l-muf'liḥūna
+12	24:51:19	e	٥١	ﳇ			
+12	24:52:1	w	وَمَن	ﳈ	ومن	And whoever	waman
+13	24:52:2	w	يُطِعِ	ﳉ	يطع	obeys	yuṭiʿi
+13	24:52:3	w	ٱللَّهَ	ﳊ	الله	Allah	l-laha
+13	24:52:4	w	وَرَسُولَهُۥ	ﳋ	ورسوله	and His Messenger	warasūlahu
+13	24:52:5	w	وَيَخۡشَ	ﳌ	ويخش	and fears	wayakhsha
+13	24:52:6	w	ٱللَّهَ	ﳍ	الله	Allah	l-laha
+13	24:52:7	w	وَيَتَّقۡهِ	ﳎ	ويتقه	and (is) conscious of Him	wayattaqhi
+13	24:52:8	w	فَأُوْلَٰٓئِكَ	ﳏ	فاولايك	then those	fa-ulāika
+13	24:52:9	w	هُمُ	ﳐ	هم	[they]	humu
+13	24:52:10	w	ٱلۡفَآئِزُونَ	ﳑ	الفايزون	(are) the successful ones	l-fāizūna
+14	24:52:11	e	٥٢	ﳒ			
+14	24:53:1	w	۞ وَأَقۡسَمُواْ	ﳓ ﳔ	۞ واقسموا	And they swear	wa-aqsamū
+14	24:53:2	w	بِٱللَّهِ	ﳕ	بالله	by Allah	bil-lahi
+14	24:53:3	w	جَهۡدَ	ﳖ	جهد	strong	jahda
+14	24:53:4	w	أَيۡمَٰنِهِمۡ	ﳗ	ايمانهم	their oaths	aymānihim
+14	24:53:5	w	لَئِنۡ	ﳘ	لين	that if	la-in
+14	24:53:6	w	أَمَرۡتَهُمۡ	ﳙ	امرتهم	you ordered them	amartahum
+14	24:53:7	w	لَيَخۡرُجُنَّۖ	ﳚﳛ	ليخرجن	surely they (would) go forth	layakhrujunna
+14	24:53:8	w	قُل	ﳜ	قل	Say	qul
+15	24:53:9	w	لَّا	ﳝ	لا	(Do) not	lā
+15	24:53:10	w	تُقۡسِمُواْۖ	ﳞﳟ	تقسموا	swear	tuq'simū
+15	24:53:11	w	طَاعَةٞ	ﳠ	طاعة	Obedience	ṭāʿatun
+15	24:53:12	w	مَّعۡرُوفَةٌۚ	ﳡﳢ	معروفة	(is) known	maʿrūfatun
+15	24:53:13	w	إِنَّ	ﳣ	ان	Indeed	inna
+15	24:53:14	w	ٱللَّهَ	ﳤ	الله	Allah	l-laha
+15	24:53:15	w	خَبِيرُۢ	ﳥ	خبير	(is) All-Aware	khabīrun
+15	24:53:16	w	بِمَا	ﳦ	بما	of what	bimā
+15	24:53:17	w	تَعۡمَلُونَ	ﳧ	تعملون	you do	taʿmalūna
+15	24:53:18	e	٥٣	ﳨ			

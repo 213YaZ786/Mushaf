@@ -1,0 +1,135 @@
+1	10:62:1	w	أَلَآ	ﱁ	الا	No doubt	alā
+1	10:62:2	w	إِنَّ	ﱂ	ان	Indeed	inna
+1	10:62:3	w	أَوۡلِيَآءَ	ﱃ	اولياء	(the) friends	awliyāa
+1	10:62:4	w	ٱللَّهِ	ﱄ	الله	(of) Allah	l-lahi
+1	10:62:5	w	لَا	ﱅ	لا	(there will be) no	lā
+1	10:62:6	w	خَوۡفٌ	ﱆ	خوف	fear	khawfun
+1	10:62:7	w	عَلَيۡهِمۡ	ﱇ	عليهم	upon then	ʿalayhim
+1	10:62:8	w	وَلَا	ﱈ	ولا	and not	walā
+1	10:62:9	w	هُمۡ	ﱉ	هم	they	hum
+1	10:62:10	w	يَحۡزَنُونَ	ﱊ	يحزنون	will grieve	yaḥzanūna
+1	10:62:11	e	٦٢	ﱋ			
+2	10:63:1	w	ٱلَّذِينَ	ﱌ	الذين	Those who	alladhīna
+2	10:63:2	w	ءَامَنُواْ	ﱍ	امنوا	believe	āmanū
+2	10:63:3	w	وَكَانُواْ	ﱎ	وكانوا	and are	wakānū
+2	10:63:4	w	يَتَّقُونَ	ﱏ	يتقون	conscious (of Allah)	yattaqūna
+2	10:63:5	e	٦٣	ﱐ			
+2	10:64:1	w	لَهُمُ	ﱑ	لهم	For them	lahumu
+2	10:64:2	w	ٱلۡبُشۡرَىٰ	ﱒ	البشرى	(are) the glad tidings	l-bush'rā
+3	10:64:3	w	فِي	ﱓ	في	in	fī
+3	10:64:4	w	ٱلۡحَيَوٰةِ	ﱔ	الحياة	the life	l-ḥayati
+3	10:64:5	w	ٱلدُّنۡيَا	ﱕ	الدنيا	(of) the world	l-dun'yā
+3	10:64:6	w	وَفِي	ﱖ	وفي	and in	wafī
+3	10:64:7	w	ٱلۡأٓخِرَةِۚ	ﱗﱘ	الاخرة	the Hereafter	l-ākhirati
+3	10:64:8	w	لَا	ﱙ	لا	No	lā
+3	10:64:9	w	تَبۡدِيلَ	ﱚ	تبديل	change	tabdīla
+3	10:64:10	w	لِكَلِمَٰتِ	ﱛ	لكلمات	(is there) in the Words	likalimāti
+4	10:64:11	w	ٱللَّهِۚ	ﱜﱝ	الله	(of) Allah	l-lahi
+4	10:64:12	w	ذَٰلِكَ	ﱞ	ذالك	That	dhālika
+4	10:64:13	w	هُوَ	ﱟ	هو	is	huwa
+4	10:64:14	w	ٱلۡفَوۡزُ	ﱠ	الفوز	the success	l-fawzu
+4	10:64:15	w	ٱلۡعَظِيمُ	ﱡ	العظيم	the great	l-ʿaẓīmu
+4	10:64:16	e	٦٤	ﱢ			
+4	10:65:1	w	وَلَا	ﱣ	ولا	And (let) not	walā
+4	10:65:2	w	يَحۡزُنكَ	ﱤ	يحزنك	grieve you	yaḥzunka
+4	10:65:3	w	قَوۡلُهُمۡۘ	ﱥﱦ	قولهم	their speech	qawluhum
+4	10:65:4	w	إِنَّ	ﱧ	ان	Indeed	inna
+5	10:65:5	w	ٱلۡعِزَّةَ	ﱨ	العزة	the honor	l-ʿizata
+5	10:65:6	w	لِلَّهِ	ﱩ	لله	(belongs) to Allah	lillahi
+5	10:65:7	w	جَمِيعًاۚ	ﱪﱫ	جميعا	all	jamīʿan
+5	10:65:8	w	هُوَ	ﱬ	هو	He	huwa
+5	10:65:9	w	ٱلسَّمِيعُ	ﱭ	السميع	(is) the All-Hearer	l-samīʿu
+5	10:65:10	w	ٱلۡعَلِيمُ	ﱮ	العليم	the All-Knower	l-ʿalīmu
+5	10:65:11	e	٦٥	ﱯ			
+5	10:66:1	w	أَلَآ	ﱰ	الا	No doubt	alā
+5	10:66:2	w	إِنَّ	ﱱ	ان	Indeed	inna
+5	10:66:3	w	لِلَّهِ	ﱲ	لله	to Allah (belongs)	lillahi
+6	10:66:4	w	مَن	ﱳ	من	whoever	man
+6	10:66:5	w	فِي	ﱴ	في	(is) in	fī
+6	10:66:6	w	ٱلسَّمَٰوَٰتِ	ﱵ	السماوات	the heavens	l-samāwāti
+6	10:66:7	w	وَمَن	ﱶ	ومن	and whoever	waman
+6	10:66:8	w	فِي	ﱷ	في	(is) in	fī
+6	10:66:9	w	ٱلۡأَرۡضِۗ	ﱸﱹ	الارض	the earth	l-arḍi
+6	10:66:10	w	وَمَا	ﱺ	وما	And not	wamā
+6	10:66:11	w	يَتَّبِعُ	ﱻ	يتبع	follow	yattabiʿu
+6	10:66:12	w	ٱلَّذِينَ	ﱼ	الذين	those who	alladhīna
+7	10:66:13	w	يَدۡعُونَ	ﱽ	يدعون	invoke	yadʿūna
+7	10:66:14	w	مِن	ﱾ	من	other than Allah	min
+7	10:66:15	w	دُونِ	ﱿ	دون	other than Allah	dūni
+7	10:66:16	w	ٱللَّهِ	ﲀ	الله	other than Allah	l-lahi
+7	10:66:17	w	شُرَكَآءَۚ	ﲁﲂ	شركاء	partners	shurakāa
+7	10:66:18	w	إِن	ﲃ	ان	Not	in
+7	10:66:19	w	يَتَّبِعُونَ	ﲄ	يتبعون	they follow	yattabiʿūna
+7	10:66:20	w	إِلَّا	ﲅ	الا	but	illā
+7	10:66:21	w	ٱلظَّنَّ	ﲆ	الظن	the assumption	l-ẓana
+8	10:66:22	w	وَإِنۡ	ﲇ	وان	and not	wa-in
+8	10:66:23	w	هُمۡ	ﲈ	هم	they	hum
+8	10:66:24	w	إِلَّا	ﲉ	الا	but	illā
+8	10:66:25	w	يَخۡرُصُونَ	ﲊ	يخرصون	guess	yakhruṣūna
+8	10:66:26	e	٦٦	ﲋ			
+8	10:67:1	w	هُوَ	ﲌ	هو	He	huwa
+8	10:67:2	w	ٱلَّذِي	ﲍ	الذي	(is) the One Who	alladhī
+8	10:67:3	w	جَعَلَ	ﲎ	جعل	made	jaʿala
+8	10:67:4	w	لَكُمُ	ﲏ	لكم	for you	lakumu
+9	10:67:5	w	ٱلَّيۡلَ	ﲐ	الليل	the night	al-layla
+9	10:67:6	w	لِتَسۡكُنُواْ	ﲑ	لتسكنوا	that you may rest	litaskunū
+9	10:67:7	w	فِيهِ	ﲒ	فيه	in it	fīhi
+9	10:67:8	w	وَٱلنَّهَارَ	ﲓ	والنهار	and the day	wal-nahāra
+9	10:67:9	w	مُبۡصِرًاۚ	ﲔﲕ	مبصرا	giving visibility	mub'ṣiran
+9	10:67:10	w	إِنَّ	ﲖ	ان	Indeed	inna
+9	10:67:11	w	فِي	ﲗ	في	in	fī
+9	10:67:12	w	ذَٰلِكَ	ﲘ	ذالك	that	dhālika
+10	10:67:13	w	لَأٓيَٰتٖ	ﲙ	لايات	surely (are) Signs	laāyātin
+10	10:67:14	w	لِّقَوۡمٖ	ﲚ	لقوم	for a people	liqawmin
+10	10:67:15	w	يَسۡمَعُونَ	ﲛ	يسمعون	(who) listen	yasmaʿūna
+10	10:67:16	e	٦٧	ﲜ			
+10	10:68:1	w	قَالُواْ	ﲝ	قالوا	They say	qālū
+10	10:68:2	w	ٱتَّخَذَ	ﲞ	اتخذ	Allah has taken	ittakhadha
+10	10:68:3	w	ٱللَّهُ	ﲟ	الله	Allah has taken	l-lahu
+10	10:68:4	w	وَلَدٗاۗ	ﲠﲡ	ولدا	a son	waladan
+11	10:68:5	w	سُبۡحَٰنَهُۥۖ	ﲢﲣ	سبحانه	Glory be to Him	sub'ḥānahu
+11	10:68:6	w	هُوَ	ﲤ	هو	He	huwa
+11	10:68:7	w	ٱلۡغَنِيُّۖ	ﲥﲦ	الغني	(is) the Self-sufficient	l-ghaniyu
+11	10:68:8	w	لَهُۥ	ﲧ	له	To Him (belongs)	lahu
+11	10:68:9	w	مَا	ﲨ	ما	whatever	mā
+11	10:68:10	w	فِي	ﲩ	في	(is) in	fī
+11	10:68:11	w	ٱلسَّمَٰوَٰتِ	ﲪ	السماوات	the heavens	l-samāwāti
+11	10:68:12	w	وَمَا	ﲫ	وما	and whatever	wamā
+11	10:68:13	w	فِي	ﲬ	في	(is) in	fī
+11	10:68:14	w	ٱلۡأَرۡضِۚ	ﲭﲮ	الارض	the earth	l-arḍi
+12	10:68:15	w	إِنۡ	ﲯ	ان	Not	in
+12	10:68:16	w	عِندَكُم	ﲰ	عندكم	you have	ʿindakum
+12	10:68:17	w	مِّن	ﲱ	من	any	min
+12	10:68:18	w	سُلۡطَٰنِۭ	ﲲ	سلطان	authority	sul'ṭānin
+12	10:68:19	w	بِهَٰذَآۚ	ﲳﲴ	بهاذا	for this	bihādhā
+12	10:68:20	w	أَتَقُولُونَ	ﲵ	اتقولون	Do you say	ataqūlūna
+12	10:68:21	w	عَلَى	ﲶ	على	about	ʿalā
+12	10:68:22	w	ٱللَّهِ	ﲷ	الله	Allah	l-lahi
+13	10:68:23	w	مَا	ﲸ	ما	what	mā
+13	10:68:24	w	لَا	ﲹ	لا	not	lā
+13	10:68:25	w	تَعۡلَمُونَ	ﲺ	تعلمون	you know	taʿlamūna
+13	10:68:26	e	٦٨	ﲻ			
+13	10:69:1	w	قُلۡ	ﲼ	قل	Say	qul
+13	10:69:2	w	إِنَّ	ﲽ	ان	Indeed	inna
+13	10:69:3	w	ٱلَّذِينَ	ﲾ	الذين	those who	alladhīna
+13	10:69:4	w	يَفۡتَرُونَ	ﲿ	يفترون	invent	yaftarūna
+13	10:69:5	w	عَلَى	ﳀ	على	against	ʿalā
+13	10:69:6	w	ٱللَّهِ	ﳁ	الله	Allah	l-lahi
+13	10:69:7	w	ٱلۡكَذِبَ	ﳂ	الكذب	the lie	l-kadhiba
+14	10:69:8	w	لَا	ﳃ	لا	they will not succeed	lā
+14	10:69:9	w	يُفۡلِحُونَ	ﳄ	يفلحون	they will not succeed	yuf'liḥūna
+14	10:69:10	e	٦٩	ﳅ			
+14	10:70:1	w	مَتَٰعٞ	ﳆ	متاع	An enjoyment	matāʿun
+14	10:70:2	w	فِي	ﳇ	في	in	fī
+14	10:70:3	w	ٱلدُّنۡيَا	ﳈ	الدنيا	the world	l-dun'yā
+14	10:70:4	w	ثُمَّ	ﳉ	ثم	then	thumma
+14	10:70:5	w	إِلَيۡنَا	ﳊ	الينا	to Us	ilaynā
+14	10:70:6	w	مَرۡجِعُهُمۡ	ﳋ	مرجعهم	(is) their return	marjiʿuhum
+14	10:70:7	w	ثُمَّ	ﳌ	ثم	then	thumma
+15	10:70:8	w	نُذِيقُهُمُ	ﳍ	نذيقهم	We will make them taste	nudhīquhumu
+15	10:70:9	w	ٱلۡعَذَابَ	ﳎ	العذاب	the punishment	l-ʿadhāba
+15	10:70:10	w	ٱلشَّدِيدَ	ﳏ	الشديد	the severe	l-shadīda
+15	10:70:11	w	بِمَا	ﳐ	بما	because	bimā
+15	10:70:12	w	كَانُواْ	ﳑ	كانوا	they used to	kānū
+15	10:70:13	w	يَكۡفُرُونَ	ﳒ	يكفرون	disbelieve	yakfurūna
+15	10:70:14	e	٧٠	ﳓ			

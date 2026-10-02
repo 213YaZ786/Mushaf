@@ -1,0 +1,139 @@
+1	11:63:1	w	قَالَ	ﱁ	قال	He said	qāla
+1	11:63:2	w	يَٰقَوۡمِ	ﱂ	يا قوم	O my people	yāqawmi
+1	11:63:3	w	أَرَءَيۡتُمۡ	ﱃ	ارايتم	Do you see	ara-aytum
+1	11:63:4	w	إِن	ﱄ	ان	if	in
+1	11:63:5	w	كُنتُ	ﱅ	كنت	I am	kuntu
+1	11:63:6	w	عَلَىٰ	ﱆ	على	on	ʿalā
+1	11:63:7	w	بَيِّنَةٖ	ﱇ	بينة	a clear proof	bayyinatin
+1	11:63:8	w	مِّن	ﱈ	من	from	min
+1	11:63:9	w	رَّبِّي	ﱉ	ربي	my Lord	rabbī
+1	11:63:10	w	وَءَاتَىٰنِي	ﱊ	واتاني	and He has given me	waātānī
+2	11:63:11	w	مِنۡهُ	ﱋ	منه	from Him	min'hu
+2	11:63:12	w	رَحۡمَةٗ	ﱌ	رحمة	a Mercy	raḥmatan
+2	11:63:13	w	فَمَن	ﱍ	فمن	then who	faman
+2	11:63:14	w	يَنصُرُنِي	ﱎ	ينصرني	(can) help me	yanṣurunī
+2	11:63:15	w	مِنَ	ﱏ	من	against	mina
+2	11:63:16	w	ٱللَّهِ	ﱐ	الله	Allah	l-lahi
+2	11:63:17	w	إِنۡ	ﱑ	ان	if	in
+2	11:63:18	w	عَصَيۡتُهُۥۖ	ﱒﱓ	عصيته	I (were to) disobey Him	ʿaṣaytuhu
+2	11:63:19	w	فَمَا	ﱔ	فما	So not	famā
+2	11:63:20	w	تَزِيدُونَنِي	ﱕ	تزيدونني	you would increase me	tazīdūnanī
+3	11:63:21	w	غَيۡرَ	ﱖ	غير	but	ghayra
+3	11:63:22	w	تَخۡسِيرٖ	ﱗ	تخسير	(in) loss	takhsīrin
+3	11:63:23	e	٦٣	ﱘ			
+3	11:64:1	w	وَيَٰقَوۡمِ	ﱙ	ويا قوم	And O my people	wayāqawmi
+3	11:64:2	w	هَٰذِهِۦ	ﱚ	هاذه	This	hādhihi
+3	11:64:3	w	نَاقَةُ	ﱛ	ناقة	she-camel	nāqatu
+3	11:64:4	w	ٱللَّهِ	ﱜ	الله	(of) Allah	l-lahi
+3	11:64:5	w	لَكُمۡ	ﱝ	لكم	(is) for you	lakum
+3	11:64:6	w	ءَايَةٗۖ	ﱞﱟ	اية	a Sign	āyatan
+4	11:64:7	w	فَذَرُوهَا	ﱠ	فذروها	so leave her	fadharūhā
+4	11:64:8	w	تَأۡكُلۡ	ﱡ	تاكل	to eat	takul
+4	11:64:9	w	فِيٓ	ﱢ	في	in	fī
+4	11:64:10	w	أَرۡضِ	ﱣ	ارض	the earth	arḍi
+4	11:64:11	w	ٱللَّهِۖ	ﱤﱥ	الله	(of) Allah	l-lahi
+4	11:64:12	w	وَلَا	ﱦ	ولا	and (do) not	walā
+4	11:64:13	w	تَمَسُّوهَا	ﱧ	تمسوها	touch her	tamassūhā
+4	11:64:14	w	بِسُوٓءٖ	ﱨ	بسوء	with harm	bisūin
+4	11:64:15	w	فَيَأۡخُذَكُمۡ	ﱩ	فياخذكم	lest will seize you	fayakhudhakum
+5	11:64:16	w	عَذَابٞ	ﱪ	عذاب	a punishment	ʿadhābun
+5	11:64:17	w	قَرِيبٞ	ﱫ	قريب	impending	qarībun
+5	11:64:18	e	٦٤	ﱬ			
+5	11:65:1	w	فَعَقَرُوهَا	ﱭ	فعقروها	But they hamstrung her	faʿaqarūhā
+5	11:65:2	w	فَقَالَ	ﱮ	فقال	So he said	faqāla
+5	11:65:3	w	تَمَتَّعُواْ	ﱯ	تمتعوا	Enjoy (yourselves)	tamattaʿū
+5	11:65:4	w	فِي	ﱰ	في	in	fī
+5	11:65:5	w	دَارِكُمۡ	ﱱ	داركم	your home(s)	dārikum
+6	11:65:6	w	ثَلَٰثَةَ	ﱲ	ثلاثة	(for) three	thalāthata
+6	11:65:7	w	أَيَّامٖۖ	ﱳﱴ	ايام	days	ayyāmin
+6	11:65:8	w	ذَٰلِكَ	ﱵ	ذالك	That	dhālika
+6	11:65:9	w	وَعۡدٌ	ﱶ	وعد	(is) a promise	waʿdun
+6	11:65:10	w	غَيۡرُ	ﱷ	غير	not	ghayru
+6	11:65:11	w	مَكۡذُوبٖ	ﱸ	مكذوب	(to) be belied	makdhūbin
+6	11:65:12	e	٦٥	ﱹ			
+6	11:66:1	w	فَلَمَّا	ﱺ	فلما	So when	falammā
+6	11:66:2	w	جَآءَ	ﱻ	جاء	came	jāa
+6	11:66:3	w	أَمۡرُنَا	ﱼ	امرنا	Our command	amrunā
+7	11:66:4	w	نَجَّيۡنَا	ﱽ	نجينا	We saved	najjaynā
+7	11:66:5	w	صَٰلِحٗا	ﱾ	صالحا	Salih	ṣāliḥan
+7	11:66:6	w	وَٱلَّذِينَ	ﱿ	والذين	and those who	wa-alladhīna
+7	11:66:7	w	ءَامَنُواْ	ﲀ	امنوا	believed	āmanū
+7	11:66:8	w	مَعَهُۥ	ﲁ	معه	with him	maʿahu
+7	11:66:9	w	بِرَحۡمَةٖ	ﲂ	برحمة	by a Mercy	biraḥmatin
+7	11:66:10	w	مِّنَّا	ﲃ	منا	from Us	minnā
+7	11:66:11	w	وَمِنۡ	ﲄ	ومن	and from	wamin
+8	11:66:12	w	خِزۡيِ	ﲅ	خزي	(the) disgrace	khiz'yi
+8	11:66:13	w	يَوۡمِئِذٍۚ	ﲆﲇ	يوميذ	(of) that Day	yawmi-idhin
+8	11:66:14	w	إِنَّ	ﲈ	ان	Indeed	inna
+8	11:66:15	w	رَبَّكَ	ﲉ	ربك	your Lord	rabbaka
+8	11:66:16	w	هُوَ	ﲊ	هو	He	huwa
+8	11:66:17	w	ٱلۡقَوِيُّ	ﲋ	القوي	(is) All-Strong	l-qawiyu
+8	11:66:18	w	ٱلۡعَزِيزُ	ﲌ	العزيز	All-Mighty	l-ʿazīzu
+8	11:66:19	e	٦٦	ﲍ			
+8	11:67:1	w	وَأَخَذَ	ﲎ	واخذ	And seized	wa-akhadha
+8	11:67:2	w	ٱلَّذِينَ	ﲏ	الذين	those who	alladhīna
+9	11:67:3	w	ظَلَمُواْ	ﲐ	ظلموا	wronged	ẓalamū
+9	11:67:4	w	ٱلصَّيۡحَةُ	ﲑ	الصيحة	the thunderous blast	l-ṣayḥatu
+9	11:67:5	w	فَأَصۡبَحُواْ	ﲒ	فاصبحوا	then they became	fa-aṣbaḥū
+9	11:67:6	w	فِي	ﲓ	في	in	fī
+9	11:67:7	w	دِيَٰرِهِمۡ	ﲔ	ديارهم	their homes	diyārihim
+9	11:67:8	w	جَٰثِمِينَ	ﲕ	جاثمين	fallen prone	jāthimīna
+9	11:67:9	e	٦٧	ﲖ			
+10	11:68:1	w	كَأَن	ﲗ	كان	As if	ka-an
+10	11:68:2	w	لَّمۡ	ﲘ	لم	not	lam
+10	11:68:3	w	يَغۡنَوۡاْ	ﲙ	يغنوا	they (had) prospered	yaghnaw
+10	11:68:4	w	فِيهَآۗ	ﲚﲛ	فيها	therein	fīhā
+10	11:68:5	w	أَلَآ	ﲜ	الا	No doubt	alā
+10	11:68:6	w	إِنَّ	ﲝ	ان	indeed	inna
+10	11:68:7	w	ثَمُودَاْ	ﲞ	ثمود	Thamud	thamūdā
+10	11:68:8	w	كَفَرُواْ	ﲟ	كفروا	disbelieved	kafarū
+10	11:68:9	w	رَبَّهُمۡۗ	ﲠﲡ	ربهم	(in) their Lord	rabbahum
+10	11:68:10	w	أَلَا	ﲢ	الا	so	alā
+11	11:68:11	w	بُعۡدٗا	ﲣ	بعدا	away	buʿ'dan
+11	11:68:12	w	لِّثَمُودَ	ﲤ	لثمود	with Thamud	lithamūda
+11	11:68:13	e	٦٨	ﲥ			
+11	11:69:1	w	وَلَقَدۡ	ﲦ	ولقد	And certainly	walaqad
+11	11:69:2	w	جَآءَتۡ	ﲧ	جاءت	came	jāat
+11	11:69:3	w	رُسُلُنَآ	ﲨ	رسلنا	Our messengers	rusulunā
+11	11:69:4	w	إِبۡرَٰهِيمَ	ﲩ	ابراهيم	(to) Ibrahim	ib'rāhīma
+11	11:69:5	w	بِٱلۡبُشۡرَىٰ	ﲪ	بالبشرى	with glad tidings	bil-bush'rā
+11	11:69:6	w	قَالُواْ	ﲫ	قالوا	they said	qālū
+12	11:69:7	w	سَلَٰمٗاۖ	ﲬﲭ	سلاما	Peace	salāman
+12	11:69:8	w	قَالَ	ﲮ	قال	He said	qāla
+12	11:69:9	w	سَلَٰمٞۖ	ﲯﲰ	سلام	Peace	salāmun
+12	11:69:10	w	فَمَا	ﲱ	فما	and not he delayed	famā
+12	11:69:11	w	لَبِثَ	ﲲ	لبث	and not he delayed	labitha
+12	11:69:12	w	أَن	ﲳ	ان	to	an
+12	11:69:13	w	جَآءَ	ﲴ	جاء	bring	jāa
+12	11:69:14	w	بِعِجۡلٍ	ﲵ	بعجل	a calf	biʿij'lin
+12	11:69:15	w	حَنِيذٖ	ﲶ	حنيذ	roasted	ḥanīdhin
+12	11:69:16	e	٦٩	ﲷ			
+12	11:70:1	w	فَلَمَّا	ﲸ	فلما	But when	falammā
+12	11:70:2	w	رَءَآ	ﲹ	راى	he saw	raā
+13	11:70:3	w	أَيۡدِيَهُمۡ	ﲺ	ايديهم	their hands	aydiyahum
+13	11:70:4	w	لَا	ﲻ	لا	not	lā
+13	11:70:5	w	تَصِلُ	ﲼ	تصل	reaching	taṣilu
+13	11:70:6	w	إِلَيۡهِ	ﲽ	اليه	to it	ilayhi
+13	11:70:7	w	نَكِرَهُمۡ	ﲾ	نكرهم	he felt unfamiliar of them	nakirahum
+13	11:70:8	w	وَأَوۡجَسَ	ﲿ	واوجس	and felt apprehension	wa-awjasa
+13	11:70:9	w	مِنۡهُمۡ	ﳀ	منهم	from them	min'hum
+13	11:70:10	w	خِيفَةٗۚ	ﳁﳂ	خيفة	[a fear]	khīfatan
+14	11:70:11	w	قَالُواْ	ﳃ	قالوا	They said	qālū
+14	11:70:12	w	لَا	ﳄ	لا	(Do) not	lā
+14	11:70:13	w	تَخَفۡ	ﳅ	تخف	fear	takhaf
+14	11:70:14	w	إِنَّآ	ﳆ	انا	Indeed, we	innā
+14	11:70:15	w	أُرۡسِلۡنَآ	ﳇ	ارسلنا	[we] have been sent	ur'sil'nā
+14	11:70:16	w	إِلَىٰ	ﳈ	الى	to	ilā
+14	11:70:17	w	قَوۡمِ	ﳉ	قوم	(the) people	qawmi
+14	11:70:18	w	لُوطٖ	ﳊ	لوط	(of) Lut	lūṭin
+14	11:70:19	e	٧٠	ﳋ			
+14	11:71:1	w	وَٱمۡرَأَتُهُۥ	ﳌ	وامراته	And his wife	wa-im'ra-atuhu
+14	11:71:2	w	قَآئِمَةٞ	ﳍ	قايمة	(was) standing	qāimatun
+15	11:71:3	w	فَضَحِكَتۡ	ﳎ	فضحكت	and she laughed	faḍaḥikat
+15	11:71:4	w	فَبَشَّرۡنَٰهَا	ﳏ	فبشرناها	Then We gave her glad tidings	fabasharnāhā
+15	11:71:5	w	بِإِسۡحَٰقَ	ﳐ	باسحاق	of Isaac	bi-is'ḥāqa
+15	11:71:6	w	وَمِن	ﳑ	ومن	and after	wamin
+15	11:71:7	w	وَرَآءِ	ﳒ	وراء	and after	warāi
+15	11:71:8	w	إِسۡحَٰقَ	ﳓ	اسحاق	Isaac	is'ḥāqa
+15	11:71:9	w	يَعۡقُوبَ	ﳔ	يعقوب	(of) Yaqub	yaʿqūba
+15	11:71:10	e	٧١	ﳕ			

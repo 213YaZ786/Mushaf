@@ -1,0 +1,119 @@
+1	9:27:1	w	ثُمَّ	ﱁ	ثم	Then	thumma
+1	9:27:2	w	يَتُوبُ	ﱂ	يتوب	Allah accepts repentance	yatūbu
+1	9:27:3	w	ٱللَّهُ	ﱃ	الله	Allah accepts repentance	l-lahu
+1	9:27:4	w	مِنۢ	ﱄ	من	after	min
+1	9:27:5	w	بَعۡدِ	ﱅ	بعد	after	baʿdi
+1	9:27:6	w	ذَٰلِكَ	ﱆ	ذالك	that	dhālika
+1	9:27:7	w	عَلَىٰ	ﱇ	على	for	ʿalā
+1	9:27:8	w	مَن	ﱈ	من	whom	man
+1	9:27:9	w	يَشَآءُۗ	ﱉﱊ	يشاء	He wills	yashāu
+1	9:27:10	w	وَٱللَّهُ	ﱋ	والله	And Allah	wal-lahu
+2	9:27:11	w	غَفُورٞ	ﱌ	غفور	(is) Oft-Forgiving	ghafūrun
+2	9:27:12	w	رَّحِيمٞ	ﱍ	رحيم	Most Merciful	raḥīmun
+2	9:27:13	e	٢٧	ﱎ			
+2	9:28:1	w	يَٰٓأَيُّهَا	ﱏ	يا ايها	O you who believe	yāayyuhā
+2	9:28:2	w	ٱلَّذِينَ	ﱐ	الذين	O you who believe	alladhīna
+2	9:28:3	w	ءَامَنُوٓاْ	ﱑ	امنوا	O you who believe	āmanū
+2	9:28:4	w	إِنَّمَا	ﱒ	انما	Indeed	innamā
+2	9:28:5	w	ٱلۡمُشۡرِكُونَ	ﱓ	المشركون	the polytheists	l-mush'rikūna
+3	9:28:6	w	نَجَسٞ	ﱔ	نجس	(are) unclean	najasun
+3	9:28:7	w	فَلَا	ﱕ	فلا	so let them not come near	falā
+3	9:28:8	w	يَقۡرَبُواْ	ﱖ	يقربوا	so let them not come near	yaqrabū
+3	9:28:9	w	ٱلۡمَسۡجِدَ	ﱗ	المسجد	Al-Masjid Al-Haraam	l-masjida
+3	9:28:10	w	ٱلۡحَرَامَ	ﱘ	الحرام	Al-Masjid Al-Haraam	l-ḥarāma
+3	9:28:11	w	بَعۡدَ	ﱙ	بعد	after	baʿda
+3	9:28:12	w	عَامِهِمۡ	ﱚ	عامهم	this, their (final) year	ʿāmihim
+3	9:28:13	w	هَٰذَاۚ	ﱛﱜ	هاذا	this, their (final) year	hādhā
+4	9:28:14	w	وَإِنۡ	ﱝ	وان	And if	wa-in
+4	9:28:15	w	خِفۡتُمۡ	ﱞ	خفتم	you fear	khif'tum
+4	9:28:16	w	عَيۡلَةٗ	ﱟ	عيلة	poverty	ʿaylatan
+4	9:28:17	w	فَسَوۡفَ	ﱠ	فسوف	then soon	fasawfa
+4	9:28:18	w	يُغۡنِيكُمُ	ﱡ	يغنيكم	Allah will enrich you	yugh'nīkumu
+4	9:28:19	w	ٱللَّهُ	ﱢ	الله	Allah will enrich you	l-lahu
+4	9:28:20	w	مِن	ﱣ	من	from	min
+4	9:28:21	w	فَضۡلِهِۦٓ	ﱤ	فضله	His Bounty	faḍlihi
+5	9:28:22	w	إِن	ﱥ	ان	if	in
+5	9:28:23	w	شَآءَۚ	ﱦﱧ	شاء	He wills	shāa
+5	9:28:24	w	إِنَّ	ﱨ	ان	Indeed	inna
+5	9:28:25	w	ٱللَّهَ	ﱩ	الله	Allah	l-laha
+5	9:28:26	w	عَلِيمٌ	ﱪ	عليم	(is) All-Knower	ʿalīmun
+5	9:28:27	w	حَكِيمٞ	ﱫ	حكيم	All-Wise	ḥakīmun
+5	9:28:28	e	٢٨	ﱬ			
+5	9:29:1	w	قَٰتِلُواْ	ﱭ	قاتلوا	Fight	qātilū
+5	9:29:2	w	ٱلَّذِينَ	ﱮ	الذين	those who	alladhīna
+6	9:29:3	w	لَا	ﱯ	لا	(do) not	lā
+6	9:29:4	w	يُؤۡمِنُونَ	ﱰ	يومنون	believe	yu'minūna
+6	9:29:5	w	بِٱللَّهِ	ﱱ	بالله	in Allah	bil-lahi
+6	9:29:6	w	وَلَا	ﱲ	ولا	and not	walā
+6	9:29:7	w	بِٱلۡيَوۡمِ	ﱳ	باليوم	in the Day	bil-yawmi
+6	9:29:8	w	ٱلۡأٓخِرِ	ﱴ	الاخر	the Last	l-ākhiri
+6	9:29:9	w	وَلَا	ﱵ	ولا	and not	walā
+6	9:29:10	w	يُحَرِّمُونَ	ﱶ	يحرمون	they make unlawful	yuḥarrimūna
+7	9:29:11	w	مَا	ﱷ	ما	what	mā
+7	9:29:12	w	حَرَّمَ	ﱸ	حرم	Allah has made unlawful	ḥarrama
+7	9:29:13	w	ٱللَّهُ	ﱹ	الله	Allah has made unlawful	l-lahu
+7	9:29:14	w	وَرَسُولُهُۥ	ﱺ	ورسوله	and His Messenger	warasūluhu
+7	9:29:15	w	وَلَا	ﱻ	ولا	and not	walā
+7	9:29:16	w	يَدِينُونَ	ﱼ	يدينون	they acknowledge	yadīnūna
+7	9:29:17	w	دِينَ	ﱽ	دين	(the) religion	dīna
+7	9:29:18	w	ٱلۡحَقِّ	ﱾ	الحق	(of) the truth	l-ḥaqi
+7	9:29:19	w	مِنَ	ﱿ	من	from	mina
+8	9:29:20	w	ٱلَّذِينَ	ﲀ	الذين	those who	alladhīna
+8	9:29:21	w	أُوتُواْ	ﲁ	اوتوا	were given	ūtū
+8	9:29:22	w	ٱلۡكِتَٰبَ	ﲂ	الكتاب	the Scripture	l-kitāba
+8	9:29:23	w	حَتَّىٰ	ﲃ	حتى	until	ḥattā
+8	9:29:24	w	يُعۡطُواْ	ﲄ	يعطوا	they pay	yuʿ'ṭū
+8	9:29:25	w	ٱلۡجِزۡيَةَ	ﲅ	الجزية	the jizyah	l-jiz'yata
+8	9:29:26	w	عَن	ﲆ	عن	willingly	ʿan
+8	9:29:27	w	يَدٖ	ﲇ	يد	willingly	yadin
+9	9:29:28	w	وَهُمۡ	ﲈ	وهم	while they	wahum
+9	9:29:29	w	صَٰغِرُونَ	ﲉ	صاغرون	(are) subdued	ṣāghirūna
+9	9:29:30	e	٢٩	ﲊ			
+9	9:30:1	w	وَقَالَتِ	ﲋ	وقالت	And said	waqālati
+9	9:30:2	w	ٱلۡيَهُودُ	ﲌ	اليهود	the Jews	l-yahūdu
+9	9:30:3	w	عُزَيۡرٌ	ﲍ	عزير	Uzair	ʿuzayrun
+9	9:30:4	w	ٱبۡنُ	ﲎ	ابن	(is) son	ub'nu
+9	9:30:5	w	ٱللَّهِ	ﲏ	الله	(of) Allah	l-lahi
+10	9:30:6	w	وَقَالَتِ	ﲐ	وقالت	And said	waqālati
+10	9:30:7	w	ٱلنَّصَٰرَى	ﲑ	النصارى	the Christians	l-naṣārā
+10	9:30:8	w	ٱلۡمَسِيحُ	ﲒ	المسيح	Messiah	l-masīḥu
+10	9:30:9	w	ٱبۡنُ	ﲓ	ابن	(is) son	ub'nu
+10	9:30:10	w	ٱللَّهِۖ	ﲔﲕ	الله	(of) Allah	l-lahi
+10	9:30:11	w	ذَٰلِكَ	ﲖ	ذالك	That	dhālika
+10	9:30:12	w	قَوۡلُهُم	ﲗ	قولهم	(is) their saying	qawluhum
+11	9:30:13	w	بِأَفۡوَٰهِهِمۡۖ	ﲘﲙ	بافواههم	with their mouths	bi-afwāhihim
+11	9:30:14	w	يُضَٰهِـُٔونَ	ﲚ	يضاهيون	they imitate	yuḍāhiūna
+11	9:30:15	w	قَوۡلَ	ﲛ	قول	the saying	qawla
+11	9:30:16	w	ٱلَّذِينَ	ﲜ	الذين	(of) those who	alladhīna
+11	9:30:17	w	كَفَرُواْ	ﲝ	كفروا	disbelieved	kafarū
+11	9:30:18	w	مِن	ﲞ	من	before	min
+11	9:30:19	w	قَبۡلُۚ	ﲟﲠ	قبل	before	qablu
+12	9:30:20	w	قَٰتَلَهُمُ	ﲡ	قاتلهم	(May) Allah destroy them	qātalahumu
+12	9:30:21	w	ٱللَّهُۖ	ﲢﲣ	الله	(May) Allah destroy them	l-lahu
+12	9:30:22	w	أَنَّىٰ	ﲤ	انى	How	annā
+12	9:30:23	w	يُؤۡفَكُونَ	ﲥ	يوفكون	deluded are they	yu'fakūna
+12	9:30:24	e	٣٠	ﲦ			
+12	9:31:1	w	ٱتَّخَذُوٓاْ	ﲧ	اتخذوا	They have taken	ittakhadhū
+12	9:31:2	w	أَحۡبَارَهُمۡ	ﲨ	احبارهم	their rabbis	aḥbārahum
+13	9:31:3	w	وَرُهۡبَٰنَهُمۡ	ﲩ	ورهبانهم	and their monks	waruh'bānahum
+13	9:31:4	w	أَرۡبَابٗا	ﲪ	اربابا	(as) Lords	arbāban
+13	9:31:5	w	مِّن	ﲫ	من	besides	min
+13	9:31:6	w	دُونِ	ﲬ	دون	besides	dūni
+13	9:31:7	w	ٱللَّهِ	ﲭ	الله	Allah	l-lahi
+13	9:31:8	w	وَٱلۡمَسِيحَ	ﲮ	والمسيح	and the Messiah	wal-masīḥa
+13	9:31:9	w	ٱبۡنَ	ﲯ	ابن	son	ib'na
+14	9:31:10	w	مَرۡيَمَ	ﲰ	مريم	(of) Maryam	maryama
+14	9:31:11	w	وَمَآ	ﲱ	وما	And not	wamā
+14	9:31:12	w	أُمِرُوٓاْ	ﲲ	امروا	they were commanded	umirū
+14	9:31:13	w	إِلَّا	ﲳ	الا	except	illā
+14	9:31:14	w	لِيَعۡبُدُوٓاْ	ﲴ	ليعبدوا	that they worship	liyaʿbudū
+14	9:31:15	w	إِلَٰهٗا	ﲵ	الاها	One God	ilāhan
+14	9:31:16	w	وَٰحِدٗاۖ	ﲶﲷ	واحدا	One God	wāḥidan
+15	9:31:17	w	لَّآ	ﲸ	لا	(There) is no	lā
+15	9:31:18	w	إِلَٰهَ	ﲹ	الاه	god	ilāha
+15	9:31:19	w	إِلَّا	ﲺ	الا	except	illā
+15	9:31:20	w	هُوَۚ	ﲻﲼ	هو	Him	huwa
+15	9:31:21	w	سُبۡحَٰنَهُۥ	ﲽ	سبحانه	Glory be to Him	sub'ḥānahu
+15	9:31:22	w	عَمَّا	ﲾ	عما	from what	ʿammā
+15	9:31:23	w	يُشۡرِكُونَ	ﲿ	يشركون	they associate (with Him)	yush'rikūna
+15	9:31:24	e	٣١	ﳀ			

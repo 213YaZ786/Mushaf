@@ -1,0 +1,152 @@
+2	26:1:1	w	طسٓمٓ	ﱁ	طسم	Ta Seem Meem	tta-seen-meem
+2	26:1:2	e	١	ﱂ			
+2	26:2:1	w	تِلۡكَ	ﱃ	تلك	These	til'ka
+2	26:2:2	w	ءَايَٰتُ	ﱄ	ايات	(are the) Verses	āyātu
+2	26:2:3	w	ٱلۡكِتَٰبِ	ﱅ	الكتاب	(of) the Book	l-kitābi
+2	26:2:4	w	ٱلۡمُبِينِ	ﱆ	المبين	clear	l-mubīni
+2	26:2:5	e	٢	ﱇ			
+2	26:3:1	w	لَعَلَّكَ	ﱈ	لعلك	Perhaps you	laʿallaka
+2	26:3:2	w	بَٰخِعٞ	ﱉ	باخع	(would) kill	bākhiʿun
+2	26:3:3	w	نَّفۡسَكَ	ﱊ	نفسك	yourself	nafsaka
+2	26:3:4	w	أَلَّا	ﱋ	الا	that not	allā
+3	26:3:5	w	يَكُونُواْ	ﱌ	يكونوا	they become	yakūnū
+3	26:3:6	w	مُؤۡمِنِينَ	ﱍ	مومنين	believers	mu'minīna
+3	26:3:7	e	٣	ﱎ			
+3	26:4:1	w	إِن	ﱏ	ان	If	in
+3	26:4:2	w	نَّشَأۡ	ﱐ	نشا	We will	nasha
+3	26:4:3	w	نُنَزِّلۡ	ﱑ	ننزل	We can send down	nunazzil
+3	26:4:4	w	عَلَيۡهِم	ﱒ	عليهم	to them	ʿalayhim
+3	26:4:5	w	مِّنَ	ﱓ	من	from	mina
+3	26:4:6	w	ٱلسَّمَآءِ	ﱔ	السماء	the sky	l-samāi
+3	26:4:7	w	ءَايَةٗ	ﱕ	اية	a Sign	āyatan
+3	26:4:8	w	فَظَلَّتۡ	ﱖ	فظلت	so would bend	faẓallat
+4	26:4:9	w	أَعۡنَٰقُهُمۡ	ﱗ	اعناقهم	their necks	aʿnāquhum
+4	26:4:10	w	لَهَا	ﱘ	لها	to it	lahā
+4	26:4:11	w	خَٰضِعِينَ	ﱙ	خاضعين	(in) humility	khāḍiʿīna
+4	26:4:12	e	٤	ﱚ			
+4	26:5:1	w	وَمَا	ﱛ	وما	And (does) not	wamā
+4	26:5:2	w	يَأۡتِيهِم	ﱜ	ياتيهم	come to them	yatīhim
+4	26:5:3	w	مِّن	ﱝ	من	any	min
+4	26:5:4	w	ذِكۡرٖ	ﱞ	ذكر	reminder	dhik'rin
+4	26:5:5	w	مِّنَ	ﱟ	من	from	mina
+4	26:5:6	w	ٱلرَّحۡمَٰنِ	ﱠ	الرحمان	the Most Gracious	l-raḥmāni
+4	26:5:7	w	مُحۡدَثٍ	ﱡ	محدث	new	muḥ'dathin
+5	26:5:8	w	إِلَّا	ﱢ	الا	but	illā
+5	26:5:9	w	كَانُواْ	ﱣ	كانوا	they	kānū
+5	26:5:10	w	عَنۡهُ	ﱤ	عنه	from it	ʿanhu
+5	26:5:11	w	مُعۡرِضِينَ	ﱥ	معرضين	turn away	muʿ'riḍīna
+5	26:5:12	e	٥	ﱦ			
+5	26:6:1	w	فَقَدۡ	ﱧ	فقد	So verily	faqad
+5	26:6:2	w	كَذَّبُواْ	ﱨ	كذبوا	they have denied	kadhabū
+5	26:6:3	w	فَسَيَأۡتِيهِمۡ	ﱩ	فسياتيهم	then will come to them	fasayatīhim
+5	26:6:4	w	أَنۢبَٰٓؤُاْ	ﱪ	انباء	the news	anbāu
+5	26:6:5	w	مَا	ﱫ	ما	(of) what	mā
+5	26:6:6	w	كَانُواْ	ﱬ	كانوا	they used	kānū
+6	26:6:7	w	بِهِۦ	ﱭ	به	at it	bihi
+6	26:6:8	w	يَسۡتَهۡزِءُونَ	ﱮ	يستهزيون	(to) mock	yastahziūna
+6	26:6:9	e	٦	ﱯ			
+6	26:7:1	w	أَوَلَمۡ	ﱰ	اولم	Do not	awalam
+6	26:7:2	w	يَرَوۡاْ	ﱱ	يروا	they see	yaraw
+6	26:7:3	w	إِلَى	ﱲ	الى	at	ilā
+6	26:7:4	w	ٱلۡأَرۡضِ	ﱳ	الارض	the earth	l-arḍi
+6	26:7:5	w	كَمۡ	ﱴ	كم	how many	kam
+6	26:7:6	w	أَنۢبَتۡنَا	ﱵ	انبتنا	We produced	anbatnā
+6	26:7:7	w	فِيهَا	ﱶ	فيها	in it	fīhā
+6	26:7:8	w	مِن	ﱷ	من	of	min
+6	26:7:9	w	كُلِّ	ﱸ	كل	every	kulli
+6	26:7:10	w	زَوۡجٖ	ﱹ	زوج	kind	zawjin
+7	26:7:11	w	كَرِيمٍ	ﱺ	كريم	noble	karīmin
+7	26:7:12	e	٧	ﱻ			
+7	26:8:1	w	إِنَّ	ﱼ	ان	Indeed	inna
+7	26:8:2	w	فِي	ﱽ	في	in	fī
+7	26:8:3	w	ذَٰلِكَ	ﱾ	ذالك	that	dhālika
+7	26:8:4	w	لَأٓيَةٗۖ	ﱿﲀ	لاية	surely (is) a sign	laāyatan
+7	26:8:5	w	وَمَا	ﲁ	وما	but not	wamā
+7	26:8:6	w	كَانَ	ﲂ	كان	are	kāna
+7	26:8:7	w	أَكۡثَرُهُم	ﲃ	اكثرهم	most of them	aktharuhum
+7	26:8:8	w	مُّؤۡمِنِينَ	ﲄ	مومنين	believers	mu'minīna
+7	26:8:9	e	٨	ﲅ			
+7	26:9:1	w	وَإِنَّ	ﲆ	وان	And indeed	wa-inna
+8	26:9:2	w	رَبَّكَ	ﲇ	ربك	your Lord	rabbaka
+8	26:9:3	w	لَهُوَ	ﲈ	لهو	surely, He	lahuwa
+8	26:9:4	w	ٱلۡعَزِيزُ	ﲉ	العزيز	(is) the All-Mighty	l-ʿazīzu
+8	26:9:5	w	ٱلرَّحِيمُ	ﲊ	الرحيم	the Most Merciful	l-raḥīmu
+8	26:9:6	e	٩	ﲋ			
+8	26:10:1	w	وَإِذۡ	ﲌ	واذ	And when	wa-idh
+8	26:10:2	w	نَادَىٰ	ﲍ	نادى	your Lord called	nādā
+8	26:10:3	w	رَبُّكَ	ﲎ	ربك	your Lord called	rabbuka
+8	26:10:4	w	مُوسَىٰٓ	ﲏ	موسى	Musa	mūsā
+8	26:10:5	w	أَنِ	ﲐ	ان	[that]	ani
+8	26:10:6	w	ٱئۡتِ	ﲑ	ايت	Go	i'ti
+8	26:10:7	w	ٱلۡقَوۡمَ	ﲒ	القوم	(to) the people	l-qawma
+9	26:10:8	w	ٱلظَّٰلِمِينَ	ﲓ	الظالمين	(who are) wrongdoers	l-ẓālimīna
+9	26:10:9	e	١٠	ﲔ			
+9	26:11:1	w	قَوۡمَ	ﲕ	قوم	(The) people	qawma
+9	26:11:2	w	فِرۡعَوۡنَۚ	ﲖﲗ	فرعون	(of) Firaun	fir'ʿawna
+9	26:11:3	w	أَلَا	ﲘ	الا	Will not	alā
+9	26:11:4	w	يَتَّقُونَ	ﲙ	يتقون	they fear	yattaqūna
+9	26:11:5	e	١١	ﲚ			
+9	26:12:1	w	قَالَ	ﲛ	قال	He said	qāla
+9	26:12:2	w	رَبِّ	ﲜ	رب	My Lord	rabbi
+9	26:12:3	w	إِنِّيٓ	ﲝ	اني	Indeed, I	innī
+9	26:12:4	w	أَخَافُ	ﲞ	اخاف	[I] fear	akhāfu
+10	26:12:5	w	أَن	ﲟ	ان	that	an
+10	26:12:6	w	يُكَذِّبُونِ	ﲠ	يكذبون	they will deny me	yukadhibūni
+10	26:12:7	e	١٢	ﲡ			
+10	26:13:1	w	وَيَضِيقُ	ﲢ	ويضيق	And straitens	wayaḍīqu
+10	26:13:2	w	صَدۡرِي	ﲣ	صدري	my breast	ṣadrī
+10	26:13:3	w	وَلَا	ﲤ	ولا	and not	walā
+10	26:13:4	w	يَنطَلِقُ	ﲥ	ينطلق	expresses well	yanṭaliqu
+10	26:13:5	w	لِسَانِي	ﲦ	لساني	my tongue	lisānī
+10	26:13:6	w	فَأَرۡسِلۡ	ﲧ	فارسل	so send	fa-arsil
+11	26:13:7	w	إِلَىٰ	ﲨ	الى	for	ilā
+11	26:13:8	w	هَٰرُونَ	ﲩ	هارون	Harun	hārūna
+11	26:13:9	e	١٣	ﲪ			
+11	26:14:1	w	وَلَهُمۡ	ﲫ	ولهم	And they have	walahum
+11	26:14:2	w	عَلَيَّ	ﲬ	علي	against me	ʿalayya
+11	26:14:3	w	ذَنۢبٞ	ﲭ	ذنب	a crime	dhanbun
+11	26:14:4	w	فَأَخَافُ	ﲮ	فاخاف	so I fear	fa-akhāfu
+11	26:14:5	w	أَن	ﲯ	ان	that	an
+11	26:14:6	w	يَقۡتُلُونِ	ﲰ	يقتلون	they will kill me	yaqtulūni
+11	26:14:7	e	١٤	ﲱ			
+11	26:15:1	w	قَالَ	ﲲ	قال	He said	qāla
+12	26:15:2	w	كـَلَّاۖ	ﲳﲴ	كلا	Nay	kallā
+12	26:15:3	w	فَٱذۡهَبَا	ﲵ	فاذهبا	go both of you	fa-idh'habā
+12	26:15:4	w	بِـَٔايَٰتِنَآۖ	ﲶﲷ	باياتنا	with Our Signs	biāyātinā
+12	26:15:5	w	إِنَّا	ﲸ	انا	Indeed, We	innā
+12	26:15:6	w	مَعَكُم	ﲹ	معكم	(are) with you	maʿakum
+12	26:15:7	w	مُّسۡتَمِعُونَ	ﲺ	مستمعون	listening	mus'tamiʿūna
+12	26:15:8	e	١٥	ﲻ			
+12	26:16:1	w	فَأۡتِيَا	ﲼ	فاتيا	So go both of you	fatiyā
+12	26:16:2	w	فِرۡعَوۡنَ	ﲽ	فرعون	(to) Firaun	fir'ʿawna
+13	26:16:3	w	فَقُولَآ	ﲾ	فقولا	and say	faqūlā
+13	26:16:4	w	إِنَّا	ﲿ	انا	'Indeed, we	innā
+13	26:16:5	w	رَسُولُ	ﳀ	رسول	(are the) Messenger	rasūlu
+13	26:16:6	w	رَبِّ	ﳁ	رب	(of the) Lord	rabbi
+13	26:16:7	w	ٱلۡعَٰلَمِينَ	ﳂ	العالمين	(of) the worlds	l-ʿālamīna
+13	26:16:8	e	١٦	ﳃ			
+13	26:17:1	w	أَنۡ	ﳄ	ان	[That]	an
+13	26:17:2	w	أَرۡسِلۡ	ﳅ	ارسل	send	arsil
+13	26:17:3	w	مَعَنَا	ﳆ	معنا	with us	maʿanā
+13	26:17:4	w	بَنِيٓ	ﳇ	بني	(the) Children of Israel.'	banī
+13	26:17:5	w	إِسۡرَٰٓءِيلَ	ﳈ	اسراييل	(the) Children of Israel.'	is'rāīla
+14	26:17:6	e	١٧	ﳉ			
+14	26:18:1	w	قَالَ	ﳊ	قال	He said	qāla
+14	26:18:2	w	أَلَمۡ	ﳋ	الم	Did not	alam
+14	26:18:3	w	نُرَبِّكَ	ﳌ	نربك	we bring you up	nurabbika
+14	26:18:4	w	فِينَا	ﳍ	فينا	among us	fīnā
+14	26:18:5	w	وَلِيدٗا	ﳎ	وليدا	(as) a child	walīdan
+14	26:18:6	w	وَلَبِثۡتَ	ﳏ	ولبثت	and you remained	walabith'ta
+14	26:18:7	w	فِينَا	ﳐ	فينا	among us	fīnā
+14	26:18:8	w	مِنۡ	ﳑ	من	of	min
+14	26:18:9	w	عُمُرِكَ	ﳒ	عمرك	your life	ʿumurika
+14	26:18:10	w	سِنِينَ	ﳓ	سنين	years	sinīna
+15	26:18:11	e	١٨	ﳔ			
+15	26:19:1	w	وَفَعَلۡتَ	ﳕ	وفعلت	And you did	wafaʿalta
+15	26:19:2	w	فَعۡلَتَكَ	ﳖ	فعلتك	your deed	faʿlataka
+15	26:19:3	w	ٱلَّتِي	ﳗ	التي	which	allatī
+15	26:19:4	w	فَعَلۡتَ	ﳘ	فعلت	you did	faʿalta
+15	26:19:5	w	وَأَنتَ	ﳙ	وانت	and you	wa-anta
+15	26:19:6	w	مِنَ	ﳚ	من	(were) of	mina
+15	26:19:7	w	ٱلۡكَٰفِرِينَ	ﳛ	الكافرين	the ungrateful	l-kāfirīna
+15	26:19:8	e	١٩	ﳜ			

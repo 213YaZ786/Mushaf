@@ -1,0 +1,134 @@
+1	24:54:1	w	قُلۡ	ﱁ	قل	Say	qul
+1	24:54:2	w	أَطِيعُواْ	ﱂ	اطيعوا	Obey	aṭīʿū
+1	24:54:3	w	ٱللَّهَ	ﱃ	الله	Allah	l-laha
+1	24:54:4	w	وَأَطِيعُواْ	ﱄ	واطيعوا	and obey	wa-aṭīʿū
+1	24:54:5	w	ٱلرَّسُولَۖ	ﱅﱆ	الرسول	the Messenger	l-rasūla
+1	24:54:6	w	فَإِن	ﱇ	فان	but if	fa-in
+1	24:54:7	w	تَوَلَّوۡاْ	ﱈ	تولوا	you turn away	tawallaw
+1	24:54:8	w	فَإِنَّمَا	ﱉ	فانما	then only	fa-innamā
+1	24:54:9	w	عَلَيۡهِ	ﱊ	عليه	upon him	ʿalayhi
+1	24:54:10	w	مَا	ﱋ	ما	(is) what	mā
+1	24:54:11	w	حُمِّلَ	ﱌ	حمل	(is) placed on him	ḥummila
+2	24:54:12	w	وَعَلَيۡكُم	ﱍ	وعليكم	and on you	waʿalaykum
+2	24:54:13	w	مَّا	ﱎ	ما	(is) what	mā
+2	24:54:14	w	حُمِّلۡتُمۡۖ	ﱏﱐ	حملتم	(is) placed on you	ḥummil'tum
+2	24:54:15	w	وَإِن	ﱑ	وان	And if	wa-in
+2	24:54:16	w	تُطِيعُوهُ	ﱒ	تطيعوه	you obey him	tuṭīʿūhu
+2	24:54:17	w	تَهۡتَدُواْۚ	ﱓﱔ	تهتدوا	you will be guided	tahtadū
+2	24:54:18	w	وَمَا	ﱕ	وما	And not	wamā
+2	24:54:19	w	عَلَى	ﱖ	على	(is) on	ʿalā
+2	24:54:20	w	ٱلرَّسُولِ	ﱗ	الرسول	the Messenger	l-rasūli
+3	24:54:21	w	إِلَّا	ﱘ	الا	except	illā
+3	24:54:22	w	ٱلۡبَلَٰغُ	ﱙ	البلاغ	the conveyance	l-balāghu
+3	24:54:23	w	ٱلۡمُبِينُ	ﱚ	المبين	[the] clear	l-mubīnu
+3	24:54:24	e	٥٤	ﱛ			
+3	24:55:1	w	وَعَدَ	ﱜ	وعد	Allah (has) promised	waʿada
+3	24:55:2	w	ٱللَّهُ	ﱝ	الله	Allah (has) promised	l-lahu
+3	24:55:3	w	ٱلَّذِينَ	ﱞ	الذين	those who	alladhīna
+3	24:55:4	w	ءَامَنُواْ	ﱟ	امنوا	believe	āmanū
+3	24:55:5	w	مِنكُمۡ	ﱠ	منكم	among you	minkum
+3	24:55:6	w	وَعَمِلُواْ	ﱡ	وعملوا	and do	waʿamilū
+4	24:55:7	w	ٱلصَّٰلِحَٰتِ	ﱢ	الصالحات	righteous deeds	l-ṣāliḥāti
+4	24:55:8	w	لَيَسۡتَخۡلِفَنَّهُمۡ	ﱣ	ليستخلفنهم	surely He will grant them succession	layastakhlifannahum
+4	24:55:9	w	فِي	ﱤ	في	in	fī
+4	24:55:10	w	ٱلۡأَرۡضِ	ﱥ	الارض	the earth	l-arḍi
+4	24:55:11	w	كَمَا	ﱦ	كما	as	kamā
+4	24:55:12	w	ٱسۡتَخۡلَفَ	ﱧ	استخلف	He gave succession	is'takhlafa
+5	24:55:13	w	ٱلَّذِينَ	ﱨ	الذين	to those who	alladhīna
+5	24:55:14	w	مِن	ﱩ	من	(were) before them	min
+5	24:55:15	w	قَبۡلِهِمۡ	ﱪ	قبلهم	(were) before them	qablihim
+5	24:55:16	w	وَلَيُمَكِّنَنَّ	ﱫ	وليمكنن	and that He will surely establish	walayumakkinanna
+5	24:55:17	w	لَهُمۡ	ﱬ	لهم	for them	lahum
+5	24:55:18	w	دِينَهُمُ	ﱭ	دينهم	their religion	dīnahumu
+5	24:55:19	w	ٱلَّذِي	ﱮ	الذي	which	alladhī
+5	24:55:20	w	ٱرۡتَضَىٰ	ﱯ	ارتضى	He has approved	ir'taḍā
+6	24:55:21	w	لَهُمۡ	ﱰ	لهم	for them	lahum
+6	24:55:22	w	وَلَيُبَدِّلَنَّهُم	ﱱ	وليبدلنهم	and surely He will change for them	walayubaddilannahum
+6	24:55:23	w	مِّنۢ	ﱲ	من	after	min
+6	24:55:24	w	بَعۡدِ	ﱳ	بعد	after	baʿdi
+6	24:55:25	w	خَوۡفِهِمۡ	ﱴ	خوفهم	their fear	khawfihim
+6	24:55:26	w	أَمۡنٗاۚ	ﱵﱶ	امنا	security	amnan
+6	24:55:27	w	يَعۡبُدُونَنِي	ﱷ	يعبدونني	(for) they worship Me	yaʿbudūnanī
+6	24:55:28	w	لَا	ﱸ	لا	not	lā
+6	24:55:29	w	يُشۡرِكُونَ	ﱹ	يشركون	they associate	yush'rikūna
+7	24:55:30	w	بِي	ﱺ	بي	with Me	bī
+7	24:55:31	w	شَيۡـٔٗاۚ	ﱻﱼ	شييا	anything	shayan
+7	24:55:32	w	وَمَن	ﱽ	ومن	But whoever	waman
+7	24:55:33	w	كَفَرَ	ﱾ	كفر	disbelieved	kafara
+7	24:55:34	w	بَعۡدَ	ﱿ	بعد	after	baʿda
+7	24:55:35	w	ذَٰلِكَ	ﲀ	ذالك	that	dhālika
+7	24:55:36	w	فَأُوْلَٰٓئِكَ	ﲁ	فاولايك	then those	fa-ulāika
+7	24:55:37	w	هُمُ	ﲂ	هم	[they]	humu
+7	24:55:38	w	ٱلۡفَٰسِقُونَ	ﲃ	الفاسقون	(are) the defiantly disobedient	l-fāsiqūna
+7	24:55:39	e	٥٥	ﲄ			
+8	24:56:1	w	وَأَقِيمُواْ	ﲅ	واقيموا	And establish	wa-aqīmū
+8	24:56:2	w	ٱلصَّلَوٰةَ	ﲆ	الصلاة	the prayer	l-ṣalata
+8	24:56:3	w	وَءَاتُواْ	ﲇ	واتوا	and give	waātū
+8	24:56:4	w	ٱلزَّكَوٰةَ	ﲈ	الزكاة	zakah	l-zakata
+8	24:56:5	w	وَأَطِيعُواْ	ﲉ	واطيعوا	and obey	wa-aṭīʿū
+8	24:56:6	w	ٱلرَّسُولَ	ﲊ	الرسول	the Messenger	l-rasūla
+8	24:56:7	w	لَعَلَّكُمۡ	ﲋ	لعلكم	so that you may	laʿallakum
+9	24:56:8	w	تُرۡحَمُونَ	ﲌ	ترحمون	receive mercy	tur'ḥamūna
+9	24:56:9	e	٥٦	ﲍ			
+9	24:57:1	w	لَا	ﲎ	لا	(Do) not	lā
+9	24:57:2	w	تَحۡسَبَنَّ	ﲏ	تحسبن	think	taḥsabanna
+9	24:57:3	w	ٱلَّذِينَ	ﲐ	الذين	those who	alladhīna
+9	24:57:4	w	كَفَرُواْ	ﲑ	كفروا	disbelieve	kafarū
+9	24:57:5	w	مُعۡجِزِينَ	ﲒ	معجزين	(can) escape	muʿ'jizīna
+9	24:57:6	w	فِي	ﲓ	في	in	fī
+9	24:57:7	w	ٱلۡأَرۡضِۚ	ﲔﲕ	الارض	the earth	l-arḍi
+10	24:57:8	w	وَمَأۡوَىٰهُمُ	ﲖ	وماواهم	And their abode	wamawāhumu
+10	24:57:9	w	ٱلنَّارُۖ	ﲗﲘ	النار	(will be) the Fire	l-nāru
+10	24:57:10	w	وَلَبِئۡسَ	ﲙ	ولبيس	and wretched is	walabi'sa
+10	24:57:11	w	ٱلۡمَصِيرُ	ﲚ	المصير	the destination	l-maṣīru
+10	24:57:12	e	٥٧	ﲛ			
+10	24:58:1	w	يَٰٓأَيُّهَا	ﲜ	يا ايها	O you who believe	yāayyuhā
+10	24:58:2	w	ٱلَّذِينَ	ﲝ	الذين	O you who believe	alladhīna
+10	24:58:3	w	ءَامَنُواْ	ﲞ	امنوا	O you who believe	āmanū
+11	24:58:4	w	لِيَسۡتَـٔۡذِنكُمُ	ﲟ	ليستاذنكم	Let ask your permission	liyastadhinkumu
+11	24:58:5	w	ٱلَّذِينَ	ﲠ	الذين	those whom	alladhīna
+11	24:58:6	w	مَلَكَتۡ	ﲡ	ملكت	possess	malakat
+11	24:58:7	w	أَيۡمَٰنُكُمۡ	ﲢ	ايمانكم	your right hands	aymānukum
+11	24:58:8	w	وَٱلَّذِينَ	ﲣ	والذين	and those who	wa-alladhīna
+11	24:58:9	w	لَمۡ	ﲤ	لم	(have) not	lam
+11	24:58:10	w	يَبۡلُغُواْ	ﲥ	يبلغوا	reached	yablughū
+11	24:58:11	w	ٱلۡحُلُمَ	ﲦ	الحلم	puberty	l-ḥuluma
+11	24:58:12	w	مِنكُمۡ	ﲧ	منكم	among you	minkum
+12	24:58:13	w	ثَلَٰثَ	ﲨ	ثلاث	(at) three	thalātha
+12	24:58:14	w	مَرَّٰتٖۚ	ﲩﲪ	مرات	times	marrātin
+12	24:58:15	w	مِّن	ﲫ	من	before	min
+12	24:58:16	w	قَبۡلِ	ﲬ	قبل	before	qabli
+12	24:58:17	w	صَلَوٰةِ	ﲭ	صلاة	(the) prayer	ṣalati
+12	24:58:18	w	ٱلۡفَجۡرِ	ﲮ	الفجر	(of) dawn	l-fajri
+12	24:58:19	w	وَحِينَ	ﲯ	وحين	and when	waḥīna
+12	24:58:20	w	تَضَعُونَ	ﲰ	تضعون	you put aside	taḍaʿūna
+12	24:58:21	w	ثِيَابَكُم	ﲱ	ثيابكم	your garments	thiyābakum
+12	24:58:22	w	مِّنَ	ﲲ	من	at	mina
+13	24:58:23	w	ٱلظَّهِيرَةِ	ﲳ	الظهيرة	noon	l-ẓahīrati
+13	24:58:24	w	وَمِنۢ	ﲴ	ومن	and after	wamin
+13	24:58:25	w	بَعۡدِ	ﲵ	بعد	and after	baʿdi
+13	24:58:26	w	صَلَوٰةِ	ﲶ	صلاة	(the) prayer	ṣalati
+13	24:58:27	w	ٱلۡعِشَآءِۚ	ﲷﲸ	العشاء	(of) night	l-ʿishāi
+13	24:58:28	w	ثَلَٰثُ	ﲹ	ثلاث	(These) three	thalāthu
+13	24:58:29	w	عَوۡرَٰتٖ	ﲺ	عورات	(are) times of privacy	ʿawrātin
+13	24:58:30	w	لَّكُمۡۚ	ﲻﲼ	لكم	for you	lakum
+13	24:58:31	w	لَيۡسَ	ﲽ	ليس	Not	laysa
+13	24:58:32	w	عَلَيۡكُمۡ	ﲾ	عليكم	on you	ʿalaykum
+14	24:58:33	w	وَلَا	ﲿ	ولا	and not	walā
+14	24:58:34	w	عَلَيۡهِمۡ	ﳀ	عليهم	on them	ʿalayhim
+14	24:58:35	w	جُنَاحُۢ	ﳁ	جناح	any blame	junāḥun
+14	24:58:36	w	بَعۡدَهُنَّۚ	ﳂﳃ	بعدهن	after that	baʿdahunna
+14	24:58:37	w	طَوَّٰفُونَ	ﳄ	طوافون	(as) moving about	ṭawwāfūna
+14	24:58:38	w	عَلَيۡكُم	ﳅ	عليكم	among you	ʿalaykum
+14	24:58:39	w	بَعۡضُكُمۡ	ﳆ	بعضكم	some of you	baʿḍukum
+14	24:58:40	w	عَلَىٰ	ﳇ	على	among	ʿalā
+14	24:58:41	w	بَعۡضٖۚ	ﳈﳉ	بعض	others	baʿḍin
+15	24:58:42	w	كَذَٰلِكَ	ﳊ	كذالك	Thus	kadhālika
+15	24:58:43	w	يُبَيِّنُ	ﳋ	يبين	Allah makes clear	yubayyinu
+15	24:58:44	w	ٱللَّهُ	ﳌ	الله	Allah makes clear	l-lahu
+15	24:58:45	w	لَكُمُ	ﳍ	لكم	for you	lakumu
+15	24:58:46	w	ٱلۡأٓيَٰتِۗ	ﳎﳏ	الايات	the Verses	l-āyāti
+15	24:58:47	w	وَٱللَّهُ	ﳐ	والله	and Allah	wal-lahu
+15	24:58:48	w	عَلِيمٌ	ﳑ	عليم	(is) All-Knower	ʿalīmun
+15	24:58:49	w	حَكِيمٞ	ﳒ	حكيم	All-Wise	ḥakīmun
+15	24:58:50	e	٥٨	ﳓ			

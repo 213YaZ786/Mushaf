@@ -1,0 +1,146 @@
+1	12:96:1	w	فَلَمَّآ	ﱁ	فلما	Then when	falammā
+1	12:96:2	w	أَن	ﱂ	ان	[that]	an
+1	12:96:3	w	جَآءَ	ﱃ	جاء	arrived	jāa
+1	12:96:4	w	ٱلۡبَشِيرُ	ﱄ	البشير	the bearer of glad tidings	l-bashīru
+1	12:96:5	w	أَلۡقَىٰهُ	ﱅ	القاه	he cast it	alqāhu
+1	12:96:6	w	عَلَىٰ	ﱆ	على	over	ʿalā
+1	12:96:7	w	وَجۡهِهِۦ	ﱇ	وجهه	his face	wajhihi
+1	12:96:8	w	فَٱرۡتَدَّ	ﱈ	فارتد	then returned (his) sight	fa-ir'tadda
+1	12:96:9	w	بَصِيرٗاۖ	ﱉﱊ	بصيرا	then returned (his) sight	baṣīran
+1	12:96:10	w	قَالَ	ﱋ	قال	He said	qāla
+2	12:96:11	w	أَلَمۡ	ﱌ	الم	Did not	alam
+2	12:96:12	w	أَقُل	ﱍ	اقل	I say	aqul
+2	12:96:13	w	لَّكُمۡ	ﱎ	لكم	to you	lakum
+2	12:96:14	w	إِنِّيٓ	ﱏ	اني	indeed, I	innī
+2	12:96:15	w	أَعۡلَمُ	ﱐ	اعلم	[I] know	aʿlamu
+2	12:96:16	w	مِنَ	ﱑ	من	from	mina
+2	12:96:17	w	ٱللَّهِ	ﱒ	الله	Allah	l-lahi
+2	12:96:18	w	مَا	ﱓ	ما	what	mā
+2	12:96:19	w	لَا	ﱔ	لا	not	lā
+2	12:96:20	w	تَعۡلَمُونَ	ﱕ	تعلمون	you know	taʿlamūna
+2	12:96:21	e	٩٦	ﱖ			
+2	12:97:1	w	قَالُواْ	ﱗ	قالوا	They said	qālū
+3	12:97:2	w	يَٰٓأَبَانَا	ﱘ	يا ابانا	O our father	yāabānā
+3	12:97:3	w	ٱسۡتَغۡفِرۡ	ﱙ	استغفر	Ask forgiveness	is'taghfir
+3	12:97:4	w	لَنَا	ﱚ	لنا	for us	lanā
+3	12:97:5	w	ذُنُوبَنَآ	ﱛ	ذنوبنا	(of) our sins	dhunūbanā
+3	12:97:6	w	إِنَّا	ﱜ	انا	Indeed, we	innā
+3	12:97:7	w	كُنَّا	ﱝ	كنا	have been	kunnā
+3	12:97:8	w	خَٰطِـِٔينَ	ﱞ	خاطيين	sinners	khāṭiīna
+3	12:97:9	e	٩٧	ﱟ			
+3	12:98:1	w	قَالَ	ﱠ	قال	He said	qāla
+3	12:98:2	w	سَوۡفَ	ﱡ	سوف	Soon	sawfa
+4	12:98:3	w	أَسۡتَغۡفِرُ	ﱢ	استغفر	I will ask forgiveness	astaghfiru
+4	12:98:4	w	لَكُمۡ	ﱣ	لكم	for you	lakum
+4	12:98:5	w	رَبِّيٓۖ	ﱤﱥ	ربي	(from) my Lord	rabbī
+4	12:98:6	w	إِنَّهُۥ	ﱦ	انه	Indeed, He	innahu
+4	12:98:7	w	هُوَ	ﱧ	هو	He	huwa
+4	12:98:8	w	ٱلۡغَفُورُ	ﱨ	الغفور	(is) the Oft-Forgiving	l-ghafūru
+4	12:98:9	w	ٱلرَّحِيمُ	ﱩ	الرحيم	the Most Merciful	l-raḥīmu
+4	12:98:10	e	٩٨	ﱪ			
+4	12:99:1	w	فَلَمَّا	ﱫ	فلما	Then when	falammā
+5	12:99:2	w	دَخَلُواْ	ﱬ	دخلوا	they entered	dakhalū
+5	12:99:3	w	عَلَىٰ	ﱭ	على	upon	ʿalā
+5	12:99:4	w	يُوسُفَ	ﱮ	يوسف	Yusuf	yūsufa
+5	12:99:5	w	ءَاوَىٰٓ	ﱯ	اوى	he took	āwā
+5	12:99:6	w	إِلَيۡهِ	ﱰ	اليه	to himself	ilayhi
+5	12:99:7	w	أَبَوَيۡهِ	ﱱ	ابويه	his parents	abawayhi
+5	12:99:8	w	وَقَالَ	ﱲ	وقال	and said	waqāla
+5	12:99:9	w	ٱدۡخُلُواْ	ﱳ	ادخلوا	Enter	ud'khulū
+5	12:99:10	w	مِصۡرَ	ﱴ	مصر	Egypt	miṣ'ra
+6	12:99:11	w	إِن	ﱵ	ان	if	in
+6	12:99:12	w	شَآءَ	ﱶ	شاء	Allah wills	shāa
+6	12:99:13	w	ٱللَّهُ	ﱷ	الله	Allah wills	l-lahu
+6	12:99:14	w	ءَامِنِينَ	ﱸ	امنين	safe	āminīna
+6	12:99:15	e	٩٩	ﱹ			
+6	12:100:1	w	وَرَفَعَ	ﱺ	ورفع	And he raised	warafaʿa
+6	12:100:2	w	أَبَوَيۡهِ	ﱻ	ابويه	his parents	abawayhi
+6	12:100:3	w	عَلَى	ﱼ	على	upon	ʿalā
+6	12:100:4	w	ٱلۡعَرۡشِ	ﱽ	العرش	the throne	l-ʿarshi
+6	12:100:5	w	وَخَرُّواْ	ﱾ	وخروا	and they fell down	wakharrū
+7	12:100:6	w	لَهُۥ	ﱿ	له	to him	lahu
+7	12:100:7	w	سُجَّدٗاۖ	ﲀﲁ	سجدا	prostrate	sujjadan
+7	12:100:8	w	وَقَالَ	ﲂ	وقال	And he said	waqāla
+7	12:100:9	w	يَٰٓأَبَتِ	ﲃ	يا ابت	O my father	yāabati
+7	12:100:10	w	هَٰذَا	ﲄ	هاذا	This	hādhā
+7	12:100:11	w	تَأۡوِيلُ	ﲅ	تاويل	(is the) interpretation	tawīlu
+7	12:100:12	w	رُءۡيَٰيَ	ﲆ	روياي	(of) my dream	ru'yāya
+7	12:100:13	w	مِن	ﲇ	من	(of) before	min
+7	12:100:14	w	قَبۡلُ	ﲈ	قبل	(of) before	qablu
+7	12:100:15	w	قَدۡ	ﲉ	قد	Verily	qad
+7	12:100:16	w	جَعَلَهَا	ﲊ	جعلها	has made it	jaʿalahā
+8	12:100:17	w	رَبِّي	ﲋ	ربي	my Lord	rabbī
+8	12:100:18	w	حَقّٗاۖ	ﲌﲍ	حقا	true	ḥaqqan
+8	12:100:19	w	وَقَدۡ	ﲎ	وقد	And indeed	waqad
+8	12:100:20	w	أَحۡسَنَ	ﲏ	احسن	He was good	aḥsana
+8	12:100:21	w	بِيٓ	ﲐ	بي	to me	bī
+8	12:100:22	w	إِذۡ	ﲑ	اذ	when	idh
+8	12:100:23	w	أَخۡرَجَنِي	ﲒ	اخرجني	He took me out	akhrajanī
+8	12:100:24	w	مِنَ	ﲓ	من	of	mina
+8	12:100:25	w	ٱلسِّجۡنِ	ﲔ	السجن	the prison	l-sij'ni
+8	12:100:26	w	وَجَآءَ	ﲕ	وجاء	and brought	wajāa
+8	12:100:27	w	بِكُم	ﲖ	بكم	you	bikum
+9	12:100:28	w	مِّنَ	ﲗ	من	from	mina
+9	12:100:29	w	ٱلۡبَدۡوِ	ﲘ	البدو	the bedouin life	l-badwi
+9	12:100:30	w	مِنۢ	ﲙ	من	after	min
+9	12:100:31	w	بَعۡدِ	ﲚ	بعد	after	baʿdi
+9	12:100:32	w	أَن	ﲛ	ان	[that]	an
+9	12:100:33	w	نَّزَغَ	ﲜ	نزغ	had caused discord	nazagha
+9	12:100:34	w	ٱلشَّيۡطَٰنُ	ﲝ	الشيطان	the Shaitaan	l-shayṭānu
+9	12:100:35	w	بَيۡنِي	ﲞ	بيني	between me	baynī
+9	12:100:36	w	وَبَيۡنَ	ﲟ	وبين	and between	wabayna
+9	12:100:37	w	إِخۡوَتِيٓۚ	ﲠﲡ	اخوتي	my brothers	ikh'watī
+9	12:100:38	w	إِنَّ	ﲢ	ان	Indeed	inna
+10	12:100:39	w	رَبِّي	ﲣ	ربي	my Lord	rabbī
+10	12:100:40	w	لَطِيفٞ	ﲤ	لطيف	(is) Most Subtle	laṭīfun
+10	12:100:41	w	لِّمَا	ﲥ	لما	to what	limā
+10	12:100:42	w	يَشَآءُۚ	ﲦﲧ	يشاء	He wills	yashāu
+10	12:100:43	w	إِنَّهُۥ	ﲨ	انه	Indeed, He	innahu
+10	12:100:44	w	هُوَ	ﲩ	هو	He	huwa
+10	12:100:45	w	ٱلۡعَلِيمُ	ﲪ	العليم	(is) the All-Knower	l-ʿalīmu
+10	12:100:46	w	ٱلۡحَكِيمُ	ﲫ	الحكيم	the All-Wise	l-ḥakīmu
+10	12:100:47	e	١٠٠	ﲬ			
+10	12:101:1	w	۞ رَبِّ	ﲭ ﲮ	۞ رب	My Lord	rabbi
+11	12:101:2	w	قَدۡ	ﲯ	قد	indeed	qad
+11	12:101:3	w	ءَاتَيۡتَنِي	ﲰ	اتيتني	you have given me	ātaytanī
+11	12:101:4	w	مِنَ	ﲱ	من	of	mina
+11	12:101:5	w	ٱلۡمُلۡكِ	ﲲ	الملك	the sovereignty	l-mul'ki
+11	12:101:6	w	وَعَلَّمۡتَنِي	ﲳ	وعلمتني	and taught me	waʿallamtanī
+11	12:101:7	w	مِن	ﲴ	من	of	min
+11	12:101:8	w	تَأۡوِيلِ	ﲵ	تاويل	the interpretation	tawīli
+11	12:101:9	w	ٱلۡأَحَادِيثِۚ	ﲶﲷ	الاحاديث	of the events	l-aḥādīthi
+12	12:101:10	w	فَاطِرَ	ﲸ	فاطر	Creator	fāṭira
+12	12:101:11	w	ٱلسَّمَٰوَٰتِ	ﲹ	السماوات	(of) the heavens	l-samāwāti
+12	12:101:12	w	وَٱلۡأَرۡضِ	ﲺ	والارض	and the earth	wal-arḍi
+12	12:101:13	w	أَنتَ	ﲻ	انت	You	anta
+12	12:101:14	w	وَلِيِّۦ	ﲼ	وليي	(are) my Protector	waliyyī
+12	12:101:15	w	فِي	ﲽ	في	in	fī
+12	12:101:16	w	ٱلدُّنۡيَا	ﲾ	الدنيا	the world	l-dun'yā
+12	12:101:17	w	وَٱلۡأٓخِرَةِۖ	ﲿﳀ	والاخرة	and the Hereafter	wal-ākhirati
+13	12:101:18	w	تَوَفَّنِي	ﳁ	توفني	Cause me to die	tawaffanī
+13	12:101:19	w	مُسۡلِمٗا	ﳂ	مسلما	(as) a Muslim	mus'liman
+13	12:101:20	w	وَأَلۡحِقۡنِي	ﳃ	والحقني	and join me	wa-alḥiq'nī
+13	12:101:21	w	بِٱلصَّٰلِحِينَ	ﳄ	بالصالحين	with the righteous	bil-ṣāliḥīna
+13	12:101:22	e	١٠١	ﳅ			
+13	12:102:1	w	ذَٰلِكَ	ﳆ	ذالك	That	dhālika
+13	12:102:2	w	مِنۡ	ﳇ	من	(is) from	min
+13	12:102:3	w	أَنۢبَآءِ	ﳈ	انباء	the news	anbāi
+14	12:102:4	w	ٱلۡغَيۡبِ	ﳉ	الغيب	(of) the unseen	l-ghaybi
+14	12:102:5	w	نُوحِيهِ	ﳊ	نوحيه	which We reveal	nūḥīhi
+14	12:102:6	w	إِلَيۡكَۖ	ﳋﳌ	اليك	to you	ilayka
+14	12:102:7	w	وَمَا	ﳍ	وما	And not	wamā
+14	12:102:8	w	كُنتَ	ﳎ	كنت	you were	kunta
+14	12:102:9	w	لَدَيۡهِمۡ	ﳏ	لديهم	with them	ladayhim
+14	12:102:10	w	إِذۡ	ﳐ	اذ	when	idh
+14	12:102:11	w	أَجۡمَعُوٓاْ	ﳑ	اجمعوا	they put together	ajmaʿū
+14	12:102:12	w	أَمۡرَهُمۡ	ﳒ	امرهم	their plan	amrahum
+15	12:102:13	w	وَهُمۡ	ﳓ	وهم	while they	wahum
+15	12:102:14	w	يَمۡكُرُونَ	ﳔ	يمكرون	(were) plotting	yamkurūna
+15	12:102:15	e	١٠٢	ﳕ			
+15	12:103:1	w	وَمَآ	ﳖ	وما	And not	wamā
+15	12:103:2	w	أَكۡثَرُ	ﳗ	اكثر	most	aktharu
+15	12:103:3	w	ٱلنَّاسِ	ﳘ	الناس	(of) the mankind	l-nāsi
+15	12:103:4	w	وَلَوۡ	ﳙ	ولو	even though	walaw
+15	12:103:5	w	حَرَصۡتَ	ﳚ	حرصت	you desire	ḥaraṣta
+15	12:103:6	w	بِمُؤۡمِنِينَ	ﳛ	بمومنين	(will be) believers	bimu'minīna
+15	12:103:7	e	١٠٣	ﳜ			

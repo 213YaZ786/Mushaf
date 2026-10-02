@@ -1,0 +1,146 @@
+1	42:45:1	w	وَتَرَىٰهُمۡ	ﱁ	وتراهم	And you will see them	watarāhum
+1	42:45:2	w	يُعۡرَضُونَ	ﱂ	يعرضون	being exposed	yuʿ'raḍūna
+1	42:45:3	w	عَلَيۡهَا	ﱃ	عليها	to it	ʿalayhā
+1	42:45:4	w	خَٰشِعِينَ	ﱄ	خاشعين	humbled	khāshiʿīna
+1	42:45:5	w	مِنَ	ﱅ	من	by	mina
+1	42:45:6	w	ٱلذُّلِّ	ﱆ	الذل	disgrace	l-dhuli
+1	42:45:7	w	يَنظُرُونَ	ﱇ	ينظرون	looking	yanẓurūna
+2	42:45:8	w	مِن	ﱈ	من	with	min
+2	42:45:9	w	طَرۡفٍ	ﱉ	طرف	a glance	ṭarfin
+2	42:45:10	w	خَفِيّٖۗ	ﱊﱋ	خفي	stealthy	khafiyyin
+2	42:45:11	w	وَقَالَ	ﱌ	وقال	And will say	waqāla
+2	42:45:12	w	ٱلَّذِينَ	ﱍ	الذين	those who	alladhīna
+2	42:45:13	w	ءَامَنُوٓاْ	ﱎ	امنوا	believed	āmanū
+2	42:45:14	w	إِنَّ	ﱏ	ان	Indeed	inna
+2	42:45:15	w	ٱلۡخَٰسِرِينَ	ﱐ	الخاسرين	the losers	l-khāsirīna
+2	42:45:16	w	ٱلَّذِينَ	ﱑ	الذين	(are) those who	alladhīna
+3	42:45:17	w	خَسِرُوٓاْ	ﱒ	خسروا	lost	khasirū
+3	42:45:18	w	أَنفُسَهُمۡ	ﱓ	انفسهم	themselves	anfusahum
+3	42:45:19	w	وَأَهۡلِيهِمۡ	ﱔ	واهليهم	and their families	wa-ahlīhim
+3	42:45:20	w	يَوۡمَ	ﱕ	يوم	(on the) Day	yawma
+3	42:45:21	w	ٱلۡقِيَٰمَةِۗ	ﱖﱗ	القيامة	(of) the Resurrection	l-qiyāmati
+3	42:45:22	w	أَلَآ	ﱘ	الا	Unquestionably	alā
+3	42:45:23	w	إِنَّ	ﱙ	ان	Indeed	inna
+3	42:45:24	w	ٱلظَّٰلِمِينَ	ﱚ	الظالمين	the wrongdoers	l-ẓālimīna
+4	42:45:25	w	فِي	ﱛ	في	(are) in	fī
+4	42:45:26	w	عَذَابٖ	ﱜ	عذاب	a punishment	ʿadhābin
+4	42:45:27	w	مُّقِيمٖ	ﱝ	مقيم	lasting	muqīmin
+4	42:45:28	e	٤٥	ﱞ			
+4	42:46:1	w	وَمَا	ﱟ	وما	And not	wamā
+4	42:46:2	w	كَانَ	ﱠ	كان	will be	kāna
+4	42:46:3	w	لَهُم	ﱡ	لهم	for them	lahum
+4	42:46:4	w	مِّنۡ	ﱢ	من	any	min
+4	42:46:5	w	أَوۡلِيَآءَ	ﱣ	اولياء	protector	awliyāa
+4	42:46:6	w	يَنصُرُونَهُم	ﱤ	ينصرونهم	(who) will help them	yanṣurūnahum
+5	42:46:7	w	مِّن	ﱥ	من	besides	min
+5	42:46:8	w	دُونِ	ﱦ	دون	besides	dūni
+5	42:46:9	w	ٱللَّهِۗ	ﱧﱨ	الله	Allah	l-lahi
+5	42:46:10	w	وَمَن	ﱩ	ومن	And whom	waman
+5	42:46:11	w	يُضۡلِلِ	ﱪ	يضلل	Allah lets go astray	yuḍ'lili
+5	42:46:12	w	ٱللَّهُ	ﱫ	الله	Allah lets go astray	l-lahu
+5	42:46:13	w	فَمَا	ﱬ	فما	then not	famā
+5	42:46:14	w	لَهُۥ	ﱭ	له	for him	lahu
+5	42:46:15	w	مِن	ﱮ	من	any	min
+5	42:46:16	w	سَبِيلٍ	ﱯ	سبيل	way	sabīlin
+5	42:46:17	e	٤٦	ﱰ			
+5	42:47:1	w	ٱسۡتَجِيبُواْ	ﱱ	استجيبوا	Respond	is'tajībū
+6	42:47:2	w	لِرَبِّكُم	ﱲ	لربكم	to your Lord	lirabbikum
+6	42:47:3	w	مِّن	ﱳ	من	before	min
+6	42:47:4	w	قَبۡلِ	ﱴ	قبل	before	qabli
+6	42:47:5	w	أَن	ﱵ	ان	[that]	an
+6	42:47:6	w	يَأۡتِيَ	ﱶ	ياتي	comes	yatiya
+6	42:47:7	w	يَوۡمٞ	ﱷ	يوم	a Day	yawmun
+6	42:47:8	w	لَّا	ﱸ	لا	(there is) no	lā
+6	42:47:9	w	مَرَدَّ	ﱹ	مرد	averting	maradda
+6	42:47:10	w	لَهُۥ	ﱺ	له	for it	lahu
+6	42:47:11	w	مِنَ	ﱻ	من	from	mina
+6	42:47:12	w	ٱللَّهِۚ	ﱼﱽ	الله	Allah	l-lahi
+6	42:47:13	w	مَا	ﱾ	ما	Not	mā
+6	42:47:14	w	لَكُم	ﱿ	لكم	(is) for you	lakum
+7	42:47:15	w	مِّن	ﲀ	من	any	min
+7	42:47:16	w	مَّلۡجَإٖ	ﲁ	ملجا	refuge	malja-in
+7	42:47:17	w	يَوۡمَئِذٖ	ﲂ	يوميذ	(on) that Day	yawma-idhin
+7	42:47:18	w	وَمَا	ﲃ	وما	and not	wamā
+7	42:47:19	w	لَكُم	ﲄ	لكم	for you	lakum
+7	42:47:20	w	مِّن	ﲅ	من	any	min
+7	42:47:21	w	نَّكِيرٖ	ﲆ	نكير	denial	nakīrin
+7	42:47:22	e	٤٧	ﲇ			
+7	42:48:1	w	فَإِنۡ	ﲈ	فان	Then if	fa-in
+7	42:48:2	w	أَعۡرَضُواْ	ﲉ	اعرضوا	they turn away	aʿraḍū
+8	42:48:3	w	فَمَآ	ﲊ	فما	then not	famā
+8	42:48:4	w	أَرۡسَلۡنَٰكَ	ﲋ	ارسلناك	We have sent you	arsalnāka
+8	42:48:5	w	عَلَيۡهِمۡ	ﲌ	عليهم	over them	ʿalayhim
+8	42:48:6	w	حَفِيظًاۖ	ﲍﲎ	حفيظا	(as) a guardian	ḥafīẓan
+8	42:48:7	w	إِنۡ	ﲏ	ان	Not	in
+8	42:48:8	w	عَلَيۡكَ	ﲐ	عليك	(is) on you	ʿalayka
+8	42:48:9	w	إِلَّا	ﲑ	الا	except	illā
+8	42:48:10	w	ٱلۡبَلَٰغُۗ	ﲒﲓ	البلاغ	the conveyance	l-balāghu
+8	42:48:11	w	وَإِنَّآ	ﲔ	وانا	And indeed	wa-innā
+8	42:48:12	w	إِذَآ	ﲕ	اذا	when	idhā
+9	42:48:13	w	أَذَقۡنَا	ﲖ	اذقنا	We cause to taste	adhaqnā
+9	42:48:14	w	ٱلۡإِنسَٰنَ	ﲗ	الانسان	[the] man	l-insāna
+9	42:48:15	w	مِنَّا	ﲘ	منا	from Us	minnā
+9	42:48:16	w	رَحۡمَةٗ	ﲙ	رحمة	Mercy	raḥmatan
+9	42:48:17	w	فَرِحَ	ﲚ	فرح	he rejoices	fariḥa
+9	42:48:18	w	بِهَاۖ	ﲛﲜ	بها	in it	bihā
+9	42:48:19	w	وَإِن	ﲝ	وان	But if	wa-in
+9	42:48:20	w	تُصِبۡهُمۡ	ﲞ	تصبهم	befalls them	tuṣib'hum
+9	42:48:21	w	سَيِّئَةُۢ	ﲟ	سيية	evil	sayyi-atun
+10	42:48:22	w	بِمَا	ﲠ	بما	for what	bimā
+10	42:48:23	w	قَدَّمَتۡ	ﲡ	قدمت	have sent forth	qaddamat
+10	42:48:24	w	أَيۡدِيهِمۡ	ﲢ	ايديهم	their hands	aydīhim
+10	42:48:25	w	فَإِنَّ	ﲣ	فان	then indeed	fa-inna
+10	42:48:26	w	ٱلۡإِنسَٰنَ	ﲤ	الانسان	[the] man	l-insāna
+10	42:48:27	w	كَفُورٞ	ﲥ	كفور	(is) ungrateful	kafūrun
+10	42:48:28	e	٤٨	ﲦ			
+10	42:49:1	w	لِّلَّهِ	ﲧ	لله	To Allah	lillahi
+10	42:49:2	w	مُلۡكُ	ﲨ	ملك	(belongs the) dominion	mul'ku
+11	42:49:3	w	ٱلسَّمَٰوَٰتِ	ﲩ	السماوات	(of) the heavens	l-samāwāti
+11	42:49:4	w	وَٱلۡأَرۡضِۚ	ﲪﲫ	والارض	and the earth	wal-arḍi
+11	42:49:5	w	يَخۡلُقُ	ﲬ	يخلق	He creates	yakhluqu
+11	42:49:6	w	مَا	ﲭ	ما	what	mā
+11	42:49:7	w	يَشَآءُۚ	ﲮﲯ	يشاء	He wills	yashāu
+11	42:49:8	w	يَهَبُ	ﲰ	يهب	He grants	yahabu
+11	42:49:9	w	لِمَن	ﲱ	لمن	to whom	liman
+11	42:49:10	w	يَشَآءُ	ﲲ	يشاء	He wills	yashāu
+11	42:49:11	w	إِنَٰثٗا	ﲳ	اناثا	females	ināthan
+12	42:49:12	w	وَيَهَبُ	ﲴ	ويهب	and He grants	wayahabu
+12	42:49:13	w	لِمَن	ﲵ	لمن	to whom	liman
+12	42:49:14	w	يَشَآءُ	ﲶ	يشاء	He wills	yashāu
+12	42:49:15	w	ٱلذُّكُورَ	ﲷ	الذكور	[the] males	l-dhukūra
+12	42:49:16	e	٤٩	ﲸ			
+12	42:50:1	w	أَوۡ	ﲹ	او	Or	aw
+12	42:50:2	w	يُزَوِّجُهُمۡ	ﲺ	يزوجهم	He grants them	yuzawwijuhum
+12	42:50:3	w	ذُكۡرَانٗا	ﲻ	ذكرانا	males	dhuk'rānan
+12	42:50:4	w	وَإِنَٰثٗاۖ	ﲼﲽ	واناثا	and females	wa-ināthan
+13	42:50:5	w	وَيَجۡعَلُ	ﲾ	ويجعل	and He makes	wayajʿalu
+13	42:50:6	w	مَن	ﲿ	من	whom	man
+13	42:50:7	w	يَشَآءُ	ﳀ	يشاء	He wills	yashāu
+13	42:50:8	w	عَقِيمًاۚ	ﳁﳂ	عقيما	barren	ʿaqīman
+13	42:50:9	w	إِنَّهُۥ	ﳃ	انه	Indeed, He	innahu
+13	42:50:10	w	عَلِيمٞ	ﳄ	عليم	(is) All-Knower	ʿalīmun
+13	42:50:11	w	قَدِيرٞ	ﳅ	قدير	All-Powerful	qadīrun
+13	42:50:12	e	٥٠	ﳆ			
+13	42:51:1	w	۞ وَمَا	ﳇ ﳈ	۞ وما	And not	wamā
+13	42:51:2	w	كَانَ	ﳉ	كان	is	kāna
+14	42:51:3	w	لِبَشَرٍ	ﳊ	لبشر	for any human	libasharin
+14	42:51:4	w	أَن	ﳋ	ان	that	an
+14	42:51:5	w	يُكَلِّمَهُ	ﳌ	يكلمه	Allah should speak to him	yukallimahu
+14	42:51:6	w	ٱللَّهُ	ﳍ	الله	Allah should speak to him	l-lahu
+14	42:51:7	w	إِلَّا	ﳎ	الا	except	illā
+14	42:51:8	w	وَحۡيًا	ﳏ	وحيا	(by) revelation	waḥyan
+14	42:51:9	w	أَوۡ	ﳐ	او	or	aw
+14	42:51:10	w	مِن	ﳑ	من	from	min
+14	42:51:11	w	وَرَآيِٕ	ﳒ	وراء	behind	warāi
+14	42:51:12	w	حِجَابٍ	ﳓ	حجاب	a veil	ḥijābin
+14	42:51:13	w	أَوۡ	ﳔ	او	or	aw
+14	42:51:14	w	يُرۡسِلَ	ﳕ	يرسل	(by) sending	yur'sila
+15	42:51:15	w	رَسُولٗا	ﳖ	رسولا	a messenger	rasūlan
+15	42:51:16	w	فَيُوحِيَ	ﳗ	فيوحي	then he reveals	fayūḥiya
+15	42:51:17	w	بِإِذۡنِهِۦ	ﳘ	باذنه	by His permission	bi-idh'nihi
+15	42:51:18	w	مَا	ﳙ	ما	what	mā
+15	42:51:19	w	يَشَآءُۚ	ﳚﳛ	يشاء	He wills	yashāu
+15	42:51:20	w	إِنَّهُۥ	ﳜ	انه	Indeed, He	innahu
+15	42:51:21	w	عَلِيٌّ	ﳝ	علي	(is) Most High	ʿaliyyun
+15	42:51:22	w	حَكِيمٞ	ﳞ	حكيم	Most Wise	ḥakīmun
+15	42:51:23	e	٥١	ﳟ			

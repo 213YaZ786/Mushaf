@@ -1,0 +1,136 @@
+1	11:89:1	w	وَيَٰقَوۡمِ	ﱁ	ويا قوم	And O my people	wayāqawmi
+1	11:89:2	w	لَا	ﱂ	لا	(Let) not cause you to sin	lā
+1	11:89:3	w	يَجۡرِمَنَّكُمۡ	ﱃ	يجرمنكم	(Let) not cause you to sin	yajrimannakum
+1	11:89:4	w	شِقَاقِيٓ	ﱄ	شقاقي	my dissension	shiqāqī
+1	11:89:5	w	أَن	ﱅ	ان	lest	an
+1	11:89:6	w	يُصِيبَكُم	ﱆ	يصيبكم	befalls you	yuṣībakum
+1	11:89:7	w	مِّثۡلُ	ﱇ	مثل	similar	mith'lu
+1	11:89:8	w	مَآ	ﱈ	ما	(to) what	mā
+1	11:89:9	w	أَصَابَ	ﱉ	اصاب	befell	aṣāba
+2	11:89:10	w	قَوۡمَ	ﱊ	قوم	(the) people of Nuh	qawma
+2	11:89:11	w	نُوحٍ	ﱋ	نوح	(the) people of Nuh	nūḥin
+2	11:89:12	w	أَوۡ	ﱌ	او	or	aw
+2	11:89:13	w	قَوۡمَ	ﱍ	قوم	(the) people of Hud	qawma
+2	11:89:14	w	هُودٍ	ﱎ	هود	(the) people of Hud	hūdin
+2	11:89:15	w	أَوۡ	ﱏ	او	or	aw
+2	11:89:16	w	قَوۡمَ	ﱐ	قوم	people of Salih	qawma
+2	11:89:17	w	صَٰلِحٖۚ	ﱑﱒ	صالح	people of Salih	ṣāliḥin
+2	11:89:18	w	وَمَا	ﱓ	وما	And not	wamā
+2	11:89:19	w	قَوۡمُ	ﱔ	قوم	(are the) people of Lut	qawmu
+2	11:89:20	w	لُوطٖ	ﱕ	لوط	(are the) people of Lut	lūṭin
+2	11:89:21	w	مِّنكُم	ﱖ	منكم	from you	minkum
+3	11:89:22	w	بِبَعِيدٖ	ﱗ	ببعيد	far off	bibaʿīdin
+3	11:89:23	e	٨٩	ﱘ			
+3	11:90:1	w	وَٱسۡتَغۡفِرُواْ	ﱙ	واستغفروا	And ask forgiveness	wa-is'taghfirū
+3	11:90:2	w	رَبَّكُمۡ	ﱚ	ربكم	(of) your Lord	rabbakum
+3	11:90:3	w	ثُمَّ	ﱛ	ثم	then	thumma
+3	11:90:4	w	تُوبُوٓاْ	ﱜ	توبوا	turn in repentance	tūbū
+3	11:90:5	w	إِلَيۡهِۚ	ﱝﱞ	اليه	to Him	ilayhi
+3	11:90:6	w	إِنَّ	ﱟ	ان	Indeed	inna
+3	11:90:7	w	رَبِّي	ﱠ	ربي	my Lord	rabbī
+4	11:90:8	w	رَحِيمٞ	ﱡ	رحيم	(is) Most Merciful	raḥīmun
+4	11:90:9	w	وَدُودٞ	ﱢ	ودود	Most Loving	wadūdun
+4	11:90:10	e	٩٠	ﱣ			
+4	11:91:1	w	قَالُواْ	ﱤ	قالوا	They said	qālū
+4	11:91:2	w	يَٰشُعَيۡبُ	ﱥ	يا شعيب	O Shuaib	yāshuʿaybu
+4	11:91:3	w	مَا	ﱦ	ما	Not	mā
+4	11:91:4	w	نَفۡقَهُ	ﱧ	نفقه	we understand	nafqahu
+4	11:91:5	w	كَثِيرٗا	ﱨ	كثيرا	much	kathīran
+4	11:91:6	w	مِّمَّا	ﱩ	مما	of what	mimmā
+4	11:91:7	w	تَقُولُ	ﱪ	تقول	you say	taqūlu
+5	11:91:8	w	وَإِنَّا	ﱫ	وانا	and indeed, we	wa-innā
+5	11:91:9	w	لَنَرَىٰكَ	ﱬ	لنراك	surely [we] see you	lanarāka
+5	11:91:10	w	فِينَا	ﱭ	فينا	among us	fīnā
+5	11:91:11	w	ضَعِيفٗاۖ	ﱮﱯ	ضعيفا	weak	ḍaʿīfan
+5	11:91:12	w	وَلَوۡلَا	ﱰ	ولولا	And if not	walawlā
+5	11:91:13	w	رَهۡطُكَ	ﱱ	رهطك	for your family	rahṭuka
+5	11:91:14	w	لَرَجَمۡنَٰكَۖ	ﱲﱳ	لرجمناك	surely we would have stoned you	larajamnāka
+5	11:91:15	w	وَمَآ	ﱴ	وما	and you are not	wamā
+5	11:91:16	w	أَنتَ	ﱵ	انت	and you are not	anta
+6	11:91:17	w	عَلَيۡنَا	ﱶ	علينا	against us	ʿalaynā
+6	11:91:18	w	بِعَزِيزٖ	ﱷ	بعزيز	mighty	biʿazīzin
+6	11:91:19	e	٩١	ﱸ			
+6	11:92:1	w	قَالَ	ﱹ	قال	He said	qāla
+6	11:92:2	w	يَٰقَوۡمِ	ﱺ	يا قوم	O my people	yāqawmi
+6	11:92:3	w	أَرَهۡطِيٓ	ﱻ	ارهطي	Is my family	arahṭī
+6	11:92:4	w	أَعَزُّ	ﱼ	اعز	mightier	aʿazzu
+6	11:92:5	w	عَلَيۡكُم	ﱽ	عليكم	on you	ʿalaykum
+6	11:92:6	w	مِّنَ	ﱾ	من	than	mina
+6	11:92:7	w	ٱللَّهِ	ﱿ	الله	Allah	l-lahi
+7	11:92:8	w	وَٱتَّخَذۡتُمُوهُ	ﲀ	واتخذتموه	And you have taken Him	wa-ittakhadhtumūhu
+7	11:92:9	w	وَرَآءَكُمۡ	ﲁ	وراءكم	behind your	warāakum
+7	11:92:10	w	ظِهۡرِيًّاۖ	ﲂﲃ	ظهريا	backs	ẓih'riyyan
+7	11:92:11	w	إِنَّ	ﲄ	ان	Indeed	inna
+7	11:92:12	w	رَبِّي	ﲅ	ربي	my Lord	rabbī
+7	11:92:13	w	بِمَا	ﲆ	بما	of what	bimā
+7	11:92:14	w	تَعۡمَلُونَ	ﲇ	تعملون	you do	taʿmalūna
+8	11:92:15	w	مُحِيطٞ	ﲈ	محيط	(is) All-Encompassing	muḥīṭun
+8	11:92:16	e	٩٢	ﲉ			
+8	11:93:1	w	وَيَٰقَوۡمِ	ﲊ	ويا قوم	And O my people	wayāqawmi
+8	11:93:2	w	ٱعۡمَلُواْ	ﲋ	اعملوا	Work	iʿ'malū
+8	11:93:3	w	عَلَىٰ	ﲌ	على	(according) to	ʿalā
+8	11:93:4	w	مَكَانَتِكُمۡ	ﲍ	مكانتكم	your position	makānatikum
+8	11:93:5	w	إِنِّي	ﲎ	اني	indeed, I am	innī
+8	11:93:6	w	عَٰمِلٞۖ	ﲏﲐ	عامل	working	ʿāmilun
+9	11:93:7	w	سَوۡفَ	ﲑ	سوف	Soon	sawfa
+9	11:93:8	w	تَعۡلَمُونَ	ﲒ	تعلمون	you will know	taʿlamūna
+9	11:93:9	w	مَن	ﲓ	من	(on) whom	man
+9	11:93:10	w	يَأۡتِيهِ	ﲔ	ياتيه	will come	yatīhi
+9	11:93:11	w	عَذَابٞ	ﲕ	عذاب	a punishment	ʿadhābun
+9	11:93:12	w	يُخۡزِيهِ	ﲖ	يخزيه	(that will) disgrace him	yukh'zīhi
+9	11:93:13	w	وَمَنۡ	ﲗ	ومن	and who	waman
+9	11:93:14	w	هُوَ	ﲘ	هو	[he]	huwa
+9	11:93:15	w	كَٰذِبٞۖ	ﲙﲚ	كاذب	(is) a liar	kādhibun
+10	11:93:16	w	وَٱرۡتَقِبُوٓاْ	ﲛ	وارتقبوا	And watch	wa-ir'taqibū
+10	11:93:17	w	إِنِّي	ﲜ	اني	indeed, I am	innī
+10	11:93:18	w	مَعَكُمۡ	ﲝ	معكم	with you	maʿakum
+10	11:93:19	w	رَقِيبٞ	ﲞ	رقيب	a watcher	raqībun
+10	11:93:20	e	٩٣	ﲟ			
+10	11:94:1	w	وَلَمَّا	ﲠ	ولما	And when	walammā
+10	11:94:2	w	جَآءَ	ﲡ	جاء	came	jāa
+10	11:94:3	w	أَمۡرُنَا	ﲢ	امرنا	Our Command	amrunā
+10	11:94:4	w	نَجَّيۡنَا	ﲣ	نجينا	We saved	najjaynā
+11	11:94:5	w	شُعَيۡبٗا	ﲤ	شعيبا	Shuaib	shuʿayban
+11	11:94:6	w	وَٱلَّذِينَ	ﲥ	والذين	and those who	wa-alladhīna
+11	11:94:7	w	ءَامَنُواْ	ﲦ	امنوا	believed	āmanū
+11	11:94:8	w	مَعَهُۥ	ﲧ	معه	with him	maʿahu
+11	11:94:9	w	بِرَحۡمَةٖ	ﲨ	برحمة	by a Mercy	biraḥmatin
+11	11:94:10	w	مِّنَّا	ﲩ	منا	from Us	minnā
+11	11:94:11	w	وَأَخَذَتِ	ﲪ	واخذت	And seized	wa-akhadhati
+12	11:94:12	w	ٱلَّذِينَ	ﲫ	الذين	those who	alladhīna
+12	11:94:13	w	ظَلَمُواْ	ﲬ	ظلموا	wronged	ẓalamū
+12	11:94:14	w	ٱلصَّيۡحَةُ	ﲭ	الصيحة	the thunderous blast	l-ṣayḥatu
+12	11:94:15	w	فَأَصۡبَحُواْ	ﲮ	فاصبحوا	then they became	fa-aṣbaḥū
+12	11:94:16	w	فِي	ﲯ	في	in	fī
+12	11:94:17	w	دِيَٰرِهِمۡ	ﲰ	ديارهم	their homes	diyārihim
+12	11:94:18	w	جَٰثِمِينَ	ﲱ	جاثمين	fallen prone	jāthimīna
+12	11:94:19	e	٩٤	ﲲ			
+13	11:95:1	w	كَأَن	ﲳ	كان	As if	ka-an
+13	11:95:2	w	لَّمۡ	ﲴ	لم	not	lam
+13	11:95:3	w	يَغۡنَوۡاْ	ﲵ	يغنوا	they (had) prospered	yaghnaw
+13	11:95:4	w	فِيهَآۗ	ﲶﲷ	فيها	therein	fīhā
+13	11:95:5	w	أَلَا	ﲸ	الا	So	alā
+13	11:95:6	w	بُعۡدٗا	ﲹ	بعدا	away	buʿ'dan
+13	11:95:7	w	لِّمَدۡيَنَ	ﲺ	لمدين	with Madyan	limadyana
+13	11:95:8	w	كَمَا	ﲻ	كما	as	kamā
+13	11:95:9	w	بَعِدَتۡ	ﲼ	بعدت	was taken away	baʿidat
+13	11:95:10	w	ثَمُودُ	ﲽ	ثمود	the Thamud	thamūdu
+13	11:95:11	e	٩٥	ﲾ			
+14	11:96:1	w	وَلَقَدۡ	ﲿ	ولقد	And certainly	walaqad
+14	11:96:2	w	أَرۡسَلۡنَا	ﳀ	ارسلنا	We sent	arsalnā
+14	11:96:3	w	مُوسَىٰ	ﳁ	موسى	Musa	mūsā
+14	11:96:4	w	بِـَٔايَٰتِنَا	ﳂ	باياتنا	with Our Signs	biāyātinā
+14	11:96:5	w	وَسُلۡطَٰنٖ	ﳃ	وسلطان	and an authority	wasul'ṭānin
+14	11:96:6	w	مُّبِينٍ	ﳄ	مبين	clear	mubīnin
+14	11:96:7	e	٩٦	ﳅ			
+14	11:97:1	w	إِلَىٰ	ﳆ	الى	To	ilā
+14	11:97:2	w	فِرۡعَوۡنَ	ﳇ	فرعون	Firaun	fir'ʿawna
+15	11:97:3	w	وَمَلَإِيْهِۦ	ﳈ	ومليه	and his chiefs	wamala-ihi
+15	11:97:4	w	فَٱتَّبَعُوٓاْ	ﳉ	فاتبعوا	but they followed	fa-ittabaʿū
+15	11:97:5	w	أَمۡرَ	ﳊ	امر	(the) command of Firaun	amra
+15	11:97:6	w	فِرۡعَوۡنَۖ	ﳋﳌ	فرعون	(the) command of Firaun	fir'ʿawna
+15	11:97:7	w	وَمَآ	ﳍ	وما	and not	wamā
+15	11:97:8	w	أَمۡرُ	ﳎ	امر	(the) command of Firaun	amru
+15	11:97:9	w	فِرۡعَوۡنَ	ﳏ	فرعون	(the) command of Firaun	fir'ʿawna
+15	11:97:10	w	بِرَشِيدٖ	ﳐ	برشيد	was right	birashīdin
+15	11:97:11	e	٩٧	ﳑ			

@@ -1,0 +1,129 @@
+1	7:68:1	w	أُبَلِّغُكُمۡ	ﱁ	ابلغكم	I convey to you	uballighukum
+1	7:68:2	w	رِسَٰلَٰتِ	ﱂ	رسالات	Messages	risālāti
+1	7:68:3	w	رَبِّي	ﱃ	ربي	(of) my Lord	rabbī
+1	7:68:4	w	وَأَنَا۠	ﱄ	وانا	and I am	wa-anā
+1	7:68:5	w	لَكُمۡ	ﱅ	لكم	to you	lakum
+1	7:68:6	w	نَاصِحٌ	ﱆ	ناصح	an adviser	nāṣiḥun
+1	7:68:7	w	أَمِينٌ	ﱇ	امين	trustworthy	amīnun
+1	7:68:8	e	٦٨	ﱈ			
+1	7:69:1	w	أَوَعَجِبۡتُمۡ	ﱉ	اوعجبتم	Do you wonder	awaʿajib'tum
+1	7:69:2	w	أَن	ﱊ	ان	that	an
+2	7:69:3	w	جَآءَكُمۡ	ﱋ	جاءكم	has come to you	jāakum
+2	7:69:4	w	ذِكۡرٞ	ﱌ	ذكر	a reminder	dhik'run
+2	7:69:5	w	مِّن	ﱍ	من	from	min
+2	7:69:6	w	رَّبِّكُمۡ	ﱎ	ربكم	your Lord	rabbikum
+2	7:69:7	w	عَلَىٰ	ﱏ	على	on	ʿalā
+2	7:69:8	w	رَجُلٖ	ﱐ	رجل	a man	rajulin
+2	7:69:9	w	مِّنكُمۡ	ﱑ	منكم	among you	minkum
+2	7:69:10	w	لِيُنذِرَكُمۡۚ	ﱒﱓ	لينذركم	that he may warn you	liyundhirakum
+3	7:69:11	w	وَٱذۡكُرُوٓاْ	ﱔ	واذكروا	And remember	wa-udh'kurū
+3	7:69:12	w	إِذۡ	ﱕ	اذ	when	idh
+3	7:69:13	w	جَعَلَكُمۡ	ﱖ	جعلكم	He made you	jaʿalakum
+3	7:69:14	w	خُلَفَآءَ	ﱗ	خلفاء	successors	khulafāa
+3	7:69:15	w	مِنۢ	ﱘ	من	from	min
+3	7:69:16	w	بَعۡدِ	ﱙ	بعد	after	baʿdi
+3	7:69:17	w	قَوۡمِ	ﱚ	قوم	(the) people	qawmi
+3	7:69:18	w	نُوحٖ	ﱛ	نوح	(of) Nuh	nūḥin
+3	7:69:19	w	وَزَادَكُمۡ	ﱜ	وزادكم	and increased you	wazādakum
+4	7:69:20	w	فِي	ﱝ	في	in	fī
+4	7:69:21	w	ٱلۡخَلۡقِ	ﱞ	الخلق	the stature	l-khalqi
+4	7:69:22	w	بَصۜۡطَةٗۖ	ﱟﱠ	بسطة	extensively	baṣ'ṭatan
+4	7:69:23	w	فَٱذۡكُرُوٓاْ	ﱡ	فاذكروا	So remember	fa-udh'kurū
+4	7:69:24	w	ءَالَآءَ	ﱢ	الاء	(the) Bounties	ālāa
+4	7:69:25	w	ٱللَّهِ	ﱣ	الله	(of) Allah	l-lahi
+4	7:69:26	w	لَعَلَّكُمۡ	ﱤ	لعلكم	so that you may	laʿallakum
+4	7:69:27	w	تُفۡلِحُونَ	ﱥ	تفلحون	succeed	tuf'liḥūna
+5	7:69:28	e	٦٩	ﱦ			
+5	7:70:1	w	قَالُوٓاْ	ﱧ	قالوا	They said	qālū
+5	7:70:2	w	أَجِئۡتَنَا	ﱨ	اجيتنا	Have you come to us	aji'tanā
+5	7:70:3	w	لِنَعۡبُدَ	ﱩ	لنعبد	that we (should) worship	linaʿbuda
+5	7:70:4	w	ٱللَّهَ	ﱪ	الله	Allah	l-laha
+5	7:70:5	w	وَحۡدَهُۥ	ﱫ	وحده	Alone	waḥdahu
+5	7:70:6	w	وَنَذَرَ	ﱬ	ونذر	and we forsake	wanadhara
+5	7:70:7	w	مَا	ﱭ	ما	what	mā
+5	7:70:8	w	كَانَ	ﱮ	كان	used to	kāna
+5	7:70:9	w	يَعۡبُدُ	ﱯ	يعبد	worship	yaʿbudu
+6	7:70:10	w	ءَابَآؤُنَا	ﱰ	اباونا	our forefathers	ābāunā
+6	7:70:11	w	فَأۡتِنَا	ﱱ	فاتنا	Then bring us	fatinā
+6	7:70:12	w	بِمَا	ﱲ	بما	of what	bimā
+6	7:70:13	w	تَعِدُنَآ	ﱳ	تعدنا	you promise us	taʿidunā
+6	7:70:14	w	إِن	ﱴ	ان	if	in
+6	7:70:15	w	كُنتَ	ﱵ	كنت	you are	kunta
+6	7:70:16	w	مِنَ	ﱶ	من	of	mina
+6	7:70:17	w	ٱلصَّٰدِقِينَ	ﱷ	الصادقين	the truthful	l-ṣādiqīna
+6	7:70:18	e	٧٠	ﱸ			
+7	7:71:1	w	قَالَ	ﱹ	قال	He said	qāla
+7	7:71:2	w	قَدۡ	ﱺ	قد	Verily	qad
+7	7:71:3	w	وَقَعَ	ﱻ	وقع	has fallen	waqaʿa
+7	7:71:4	w	عَلَيۡكُم	ﱼ	عليكم	upon you	ʿalaykum
+7	7:71:5	w	مِّن	ﱽ	من	from	min
+7	7:71:6	w	رَّبِّكُمۡ	ﱾ	ربكم	your Lord	rabbikum
+7	7:71:7	w	رِجۡسٞ	ﱿ	رجس	punishment	rij'sun
+7	7:71:8	w	وَغَضَبٌۖ	ﲀﲁ	وغضب	and anger	waghaḍabun
+8	7:71:9	w	أَتُجَٰدِلُونَنِي	ﲂ	اتجادلونني	Do you dispute with me	atujādilūnanī
+8	7:71:10	w	فِيٓ	ﲃ	في	concerning	fī
+8	7:71:11	w	أَسۡمَآءٖ	ﲄ	اسماء	names	asmāin
+8	7:71:12	w	سَمَّيۡتُمُوهَآ	ﲅ	سميتموها	you have named them	sammaytumūhā
+8	7:71:13	w	أَنتُمۡ	ﲆ	انتم	you	antum
+8	7:71:14	w	وَءَابَآؤُكُم	ﲇ	واباوكم	and your forefathers	waābāukum
+9	7:71:15	w	مَّا	ﲈ	ما	Not	mā
+9	7:71:16	w	نَزَّلَ	ﲉ	نزل	(has been) sent down	nazzala
+9	7:71:17	w	ٱللَّهُ	ﲊ	الله	(by) Allah	l-lahu
+9	7:71:18	w	بِهَا	ﲋ	بها	for it	bihā
+9	7:71:19	w	مِن	ﲌ	من	any	min
+9	7:71:20	w	سُلۡطَٰنٖۚ	ﲍﲎ	سلطان	authority	sul'ṭānin
+9	7:71:21	w	فَٱنتَظِرُوٓاْ	ﲏ	فانتظروا	Then wait	fa-intaẓirū
+9	7:71:22	w	إِنِّي	ﲐ	اني	indeed, I am	innī
+9	7:71:23	w	مَعَكُم	ﲑ	معكم	with you	maʿakum
+9	7:71:24	w	مِّنَ	ﲒ	من	of	mina
+10	7:71:25	w	ٱلۡمُنتَظِرِينَ	ﲓ	المنتظرين	the ones who wait	l-muntaẓirīna
+10	7:71:26	e	٧١	ﲔ			
+10	7:72:1	w	فَأَنجَيۡنَٰهُ	ﲕ	فانجيناه	So We saved him	fa-anjaynāhu
+10	7:72:2	w	وَٱلَّذِينَ	ﲖ	والذين	and those	wa-alladhīna
+10	7:72:3	w	مَعَهُۥ	ﲗ	معه	with him	maʿahu
+10	7:72:4	w	بِرَحۡمَةٖ	ﲘ	برحمة	by Mercy	biraḥmatin
+10	7:72:5	w	مِّنَّا	ﲙ	منا	from Us	minnā
+11	7:72:6	w	وَقَطَعۡنَا	ﲚ	وقطعنا	And We cut off	waqaṭaʿnā
+11	7:72:7	w	دَابِرَ	ﲛ	دابر	the roots	dābira
+11	7:72:8	w	ٱلَّذِينَ	ﲜ	الذين	(of) those who	alladhīna
+11	7:72:9	w	كَذَّبُواْ	ﲝ	كذبوا	denied	kadhabū
+11	7:72:10	w	بِـَٔايَٰتِنَاۖ	ﲞﲟ	باياتنا	Our Signs	biāyātinā
+11	7:72:11	w	وَمَا	ﲠ	وما	and not	wamā
+11	7:72:12	w	كَانُواْ	ﲡ	كانوا	they were	kānū
+11	7:72:13	w	مُؤۡمِنِينَ	ﲢ	مومنين	believers	mu'minīna
+12	7:72:14	e	٧٢	ﲣ			
+12	7:73:1	w	وَإِلَىٰ	ﲤ	والى	And to	wa-ilā
+12	7:73:2	w	ثَمُودَ	ﲥ	ثمود	Thamud	thamūda
+12	7:73:3	w	أَخَاهُمۡ	ﲦ	اخاهم	(We sent) their brother	akhāhum
+12	7:73:4	w	صَٰلِحٗاۚ	ﲧﲨ	صالحا	Salih	ṣāliḥan
+12	7:73:5	w	قَالَ	ﲩ	قال	He said	qāla
+12	7:73:6	w	يَٰقَوۡمِ	ﲪ	يا قوم	O my people	yāqawmi
+12	7:73:7	w	ٱعۡبُدُواْ	ﲫ	اعبدوا	Worship	uʿ'budū
+12	7:73:8	w	ٱللَّهَ	ﲬ	الله	Allah	l-laha
+13	7:73:9	w	مَا	ﲭ	ما	not	mā
+13	7:73:10	w	لَكُم	ﲮ	لكم	for you	lakum
+13	7:73:11	w	مِّنۡ	ﲯ	من	any	min
+13	7:73:12	w	إِلَٰهٍ	ﲰ	الاه	god	ilāhin
+13	7:73:13	w	غَيۡرُهُۥۖ	ﲱﲲ	غيره	other than Him	ghayruhu
+13	7:73:14	w	قَدۡ	ﲳ	قد	Verily	qad
+13	7:73:15	w	جَآءَتۡكُم	ﲴ	جاءتكم	has come to you	jāatkum
+13	7:73:16	w	بَيِّنَةٞ	ﲵ	بينة	a clear proof	bayyinatun
+13	7:73:17	w	مِّن	ﲶ	من	from	min
+13	7:73:18	w	رَّبِّكُمۡۖ	ﲷﲸ	ربكم	your Lord	rabbikum
+14	7:73:19	w	هَٰذِهِۦ	ﲹ	هاذه	This	hādhihi
+14	7:73:20	w	نَاقَةُ	ﲺ	ناقة	(is) a she-camel	nāqatu
+14	7:73:21	w	ٱللَّهِ	ﲻ	الله	(of) Allah	l-lahi
+14	7:73:22	w	لَكُمۡ	ﲼ	لكم	(it is) for you	lakum
+14	7:73:23	w	ءَايَةٗۖ	ﲽﲾ	اية	a Sign	āyatan
+14	7:73:24	w	فَذَرُوهَا	ﲿ	فذروها	So you leave her	fadharūhā
+14	7:73:25	w	تَأۡكُلۡ	ﳀ	تاكل	(to) eat	takul
+14	7:73:26	w	فِيٓ	ﳁ	في	on	fī
+14	7:73:27	w	أَرۡضِ	ﳂ	ارض	(the) earth	arḍi
+15	7:73:28	w	ٱللَّهِۖ	ﳃﳄ	الله	(of) Allah	l-lahi
+15	7:73:29	w	وَلَا	ﳅ	ولا	and (do) not	walā
+15	7:73:30	w	تَمَسُّوهَا	ﳆ	تمسوها	touch her	tamassūhā
+15	7:73:31	w	بِسُوٓءٖ	ﳇ	بسوء	with harm	bisūin
+15	7:73:32	w	فَيَأۡخُذَكُمۡ	ﳈ	فياخذكم	lest seizes you	fayakhudhakum
+15	7:73:33	w	عَذَابٌ	ﳉ	عذاب	a punishment	ʿadhābun
+15	7:73:34	w	أَلِيمٞ	ﳊ	اليم	painful	alīmun
+15	7:73:35	e	٧٣	ﳋ			

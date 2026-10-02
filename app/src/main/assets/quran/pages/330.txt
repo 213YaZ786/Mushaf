@@ -1,0 +1,120 @@
+1	21:91:1	w	وَٱلَّتِيٓ	ﱁ	والتي	And she who	wa-allatī
+1	21:91:2	w	أَحۡصَنَتۡ	ﱂ	احصنت	guarded	aḥṣanat
+1	21:91:3	w	فَرۡجَهَا	ﱃ	فرجها	her chastity	farjahā
+1	21:91:4	w	فَنَفَخۡنَا	ﱄ	فنفخنا	so We breathed	fanafakhnā
+1	21:91:5	w	فِيهَا	ﱅ	فيها	into her	fīhā
+1	21:91:6	w	مِن	ﱆ	من	of	min
+1	21:91:7	w	رُّوحِنَا	ﱇ	روحنا	Our Spirit	rūḥinā
+2	21:91:8	w	وَجَعَلۡنَٰهَا	ﱈ	وجعلناها	and We made her	wajaʿalnāhā
+2	21:91:9	w	وَٱبۡنَهَآ	ﱉ	وابنها	and her son	wa-ib'nahā
+2	21:91:10	w	ءَايَةٗ	ﱊ	اية	a sign	āyatan
+2	21:91:11	w	لِّلۡعَٰلَمِينَ	ﱋ	للعالمين	for the worlds	lil'ʿālamīna
+2	21:91:12	e	٩١	ﱌ			
+2	21:92:1	w	إِنَّ	ﱍ	ان	Indeed	inna
+2	21:92:2	w	هَٰذِهِۦٓ	ﱎ	هاذه	this	hādhihi
+3	21:92:3	w	أُمَّتُكُمۡ	ﱏ	امتكم	(is) your religion	ummatukum
+3	21:92:4	w	أُمَّةٗ	ﱐ	امة	religion	ummatan
+3	21:92:5	w	وَٰحِدَةٗ	ﱑ	واحدة	one	wāḥidatan
+3	21:92:6	w	وَأَنَا۠	ﱒ	وانا	and I Am	wa-anā
+3	21:92:7	w	رَبُّكُمۡ	ﱓ	ربكم	your Lord	rabbukum
+3	21:92:8	w	فَٱعۡبُدُونِ	ﱔ	فاعبدون	so worship Me	fa-uʿ'budūni
+3	21:92:9	e	٩٢	ﱕ			
+4	21:93:1	w	وَتَقَطَّعُوٓاْ	ﱖ	وتقطعوا	But they cut off	wataqaṭṭaʿū
+4	21:93:2	w	أَمۡرَهُم	ﱗ	امرهم	their affair	amrahum
+4	21:93:3	w	بَيۡنَهُمۡۖ	ﱘﱙ	بينهم	among themselves	baynahum
+4	21:93:4	w	كُلٌّ	ﱚ	كل	all	kullun
+4	21:93:5	w	إِلَيۡنَا	ﱛ	الينا	to Us	ilaynā
+4	21:93:6	w	رَٰجِعُونَ	ﱜ	راجعون	(will) return	rājiʿūna
+4	21:93:7	e	٩٣	ﱝ			
+5	21:94:1	w	فَمَن	ﱞ	فمن	Then whoever	faman
+5	21:94:2	w	يَعۡمَلۡ	ﱟ	يعمل	does	yaʿmal
+5	21:94:3	w	مِنَ	ﱠ	من	[of]	mina
+5	21:94:4	w	ٱلصَّٰلِحَٰتِ	ﱡ	الصالحات	[the] righteous deeds	l-ṣāliḥāti
+5	21:94:5	w	وَهُوَ	ﱢ	وهو	while he	wahuwa
+5	21:94:6	w	مُؤۡمِنٞ	ﱣ	مومن	(is) a believer	mu'minun
+5	21:94:7	w	فَلَا	ﱤ	فلا	then not	falā
+5	21:94:8	w	كُفۡرَانَ	ﱥ	كفران	(will be) rejected	kuf'rāna
+6	21:94:9	w	لِسَعۡيِهِۦ	ﱦ	لسعيه	[of] his effort	lisaʿyihi
+6	21:94:10	w	وَإِنَّا	ﱧ	وانا	And indeed, We	wa-innā
+6	21:94:11	w	لَهُۥ	ﱨ	له	of it	lahu
+6	21:94:12	w	كَٰتِبُونَ	ﱩ	كاتبون	(are) Recorders	kātibūna
+6	21:94:13	e	٩٤	ﱪ			
+6	21:95:1	w	وَحَرَٰمٌ	ﱫ	وحرام	And (there is) prohibition	waḥarāmun
+6	21:95:2	w	عَلَىٰ	ﱬ	على	upon	ʿalā
+6	21:95:3	w	قَرۡيَةٍ	ﱭ	قرية	a city	qaryatin
+7	21:95:4	w	أَهۡلَكۡنَٰهَآ	ﱮ	اهلكناها	which We have destroyed	ahlaknāhā
+7	21:95:5	w	أَنَّهُمۡ	ﱯ	انهم	that they	annahum
+7	21:95:6	w	لَا	ﱰ	لا	not	lā
+7	21:95:7	w	يَرۡجِعُونَ	ﱱ	يرجعون	will return	yarjiʿūna
+7	21:95:8	e	٩٥	ﱲ			
+7	21:96:1	w	حَتَّىٰٓ	ﱳ	حتى	Until	ḥattā
+7	21:96:2	w	إِذَا	ﱴ	اذا	when	idhā
+7	21:96:3	w	فُتِحَتۡ	ﱵ	فتحت	has been opened	futiḥat
+8	21:96:4	w	يَأۡجُوجُ	ﱶ	ياجوج	(for) the Yajuj	yajūju
+8	21:96:5	w	وَمَأۡجُوجُ	ﱷ	وماجوج	and Majuj	wamajūju
+8	21:96:6	w	وَهُم	ﱸ	وهم	and they	wahum
+8	21:96:7	w	مِّن	ﱹ	من	from	min
+8	21:96:8	w	كُلِّ	ﱺ	كل	every	kulli
+8	21:96:9	w	حَدَبٖ	ﱻ	حدب	elevation	ḥadabin
+8	21:96:10	w	يَنسِلُونَ	ﱼ	ينسلون	descend	yansilūna
+8	21:96:11	e	٩٦	ﱽ			
+9	21:97:1	w	وَٱقۡتَرَبَ	ﱾ	واقترب	And has approached	wa-iq'taraba
+9	21:97:2	w	ٱلۡوَعۡدُ	ﱿ	الوعد	the promise	l-waʿdu
+9	21:97:3	w	ٱلۡحَقُّ	ﲀ	الحق	[the] true	l-ḥaqu
+9	21:97:4	w	فَإِذَا	ﲁ	فاذا	then behold	fa-idhā
+9	21:97:5	w	هِيَ	ﲂ	هي	[it]	hiya
+9	21:97:6	w	شَٰخِصَةٌ	ﲃ	شاخصة	(are) staring	shākhiṣatun
+9	21:97:7	w	أَبۡصَٰرُ	ﲄ	ابصار	(the) eyes	abṣāru
+9	21:97:8	w	ٱلَّذِينَ	ﲅ	الذين	(of) those who	alladhīna
+10	21:97:9	w	كَفَرُواْ	ﲆ	كفروا	disbelieved	kafarū
+10	21:97:10	w	يَٰوَيۡلَنَا	ﲇ	يا ويلنا	O woe to us	yāwaylanā
+10	21:97:11	w	قَدۡ	ﲈ	قد	Verily	qad
+10	21:97:12	w	كُنَّا	ﲉ	كنا	we had been	kunnā
+10	21:97:13	w	فِي	ﲊ	في	in	fī
+10	21:97:14	w	غَفۡلَةٖ	ﲋ	غفلة	heedlessness	ghaflatin
+10	21:97:15	w	مِّنۡ	ﲌ	من	of	min
+10	21:97:16	w	هَٰذَا	ﲍ	هاذا	this	hādhā
+10	21:97:17	w	بَلۡ	ﲎ	بل	nay	bal
+10	21:97:18	w	كُنَّا	ﲏ	كنا	we were	kunnā
+11	21:97:19	w	ظَٰلِمِينَ	ﲐ	ظالمين	wrongdoers	ẓālimīna
+11	21:97:20	e	٩٧	ﲑ			
+11	21:98:1	w	إِنَّكُمۡ	ﲒ	انكم	Indeed, you	innakum
+11	21:98:2	w	وَمَا	ﲓ	وما	and what	wamā
+11	21:98:3	w	تَعۡبُدُونَ	ﲔ	تعبدون	you worship	taʿbudūna
+11	21:98:4	w	مِن	ﲕ	من	besides Allah	min
+11	21:98:5	w	دُونِ	ﲖ	دون	besides Allah	dūni
+11	21:98:6	w	ٱللَّهِ	ﲗ	الله	besides Allah	l-lahi
+12	21:98:7	w	حَصَبُ	ﲘ	حصب	(are) firewood	ḥaṣabu
+12	21:98:8	w	جَهَنَّمَ	ﲙ	جهنم	(of) Hell	jahannama
+12	21:98:9	w	أَنتُمۡ	ﲚ	انتم	You	antum
+12	21:98:10	w	لَهَا	ﲛ	لها	to it	lahā
+12	21:98:11	w	وَٰرِدُونَ	ﲜ	واردون	will come	wāridūna
+12	21:98:12	e	٩٨	ﲝ			
+12	21:99:1	w	لَوۡ	ﲞ	لو	If	law
+12	21:99:2	w	كَانَ	ﲟ	كان	were	kāna
+13	21:99:3	w	هَٰٓؤُلَآءِ	ﲠ	هاولاء	these	hāulāi
+13	21:99:4	w	ءَالِهَةٗ	ﲡ	الهة	gods	ālihatan
+13	21:99:5	w	مَّا	ﲢ	ما	not	mā
+13	21:99:6	w	وَرَدُوهَاۖ	ﲣﲤ	وردوها	they (would) have come to it	waradūhā
+13	21:99:7	w	وَكُلّٞ	ﲥ	وكل	And all	wakullun
+13	21:99:8	w	فِيهَا	ﲦ	فيها	therein	fīhā
+13	21:99:9	w	خَٰلِدُونَ	ﲧ	خالدون	will abide forever	khālidūna
+13	21:99:10	e	٩٩	ﲨ			
+14	21:100:1	w	لَهُمۡ	ﲩ	لهم	For them	lahum
+14	21:100:2	w	فِيهَا	ﲪ	فيها	therein	fīhā
+14	21:100:3	w	زَفِيرٞ	ﲫ	زفير	(is) sighing	zafīrun
+14	21:100:4	w	وَهُمۡ	ﲬ	وهم	and they	wahum
+14	21:100:5	w	فِيهَا	ﲭ	فيها	therein	fīhā
+14	21:100:6	w	لَا	ﲮ	لا	not	lā
+14	21:100:7	w	يَسۡمَعُونَ	ﲯ	يسمعون	will hear	yasmaʿūna
+14	21:100:8	e	١٠٠	ﲰ			
+14	21:101:1	w	إِنَّ	ﲱ	ان	Indeed	inna
+14	21:101:2	w	ٱلَّذِينَ	ﲲ	الذين	those	alladhīna
+15	21:101:3	w	سَبَقَتۡ	ﲳ	سبقت	has gone forth	sabaqat
+15	21:101:4	w	لَهُم	ﲴ	لهم	for them	lahum
+15	21:101:5	w	مِّنَّا	ﲵ	منا	from Us	minnā
+15	21:101:6	w	ٱلۡحُسۡنَىٰٓ	ﲶ	الحسنى	the good	l-ḥus'nā
+15	21:101:7	w	أُوْلَٰٓئِكَ	ﲷ	اولايك	those	ulāika
+15	21:101:8	w	عَنۡهَا	ﲸ	عنها	from it	ʿanhā
+15	21:101:9	w	مُبۡعَدُونَ	ﲹ	مبعدون	(will be) removed far	mub'ʿadūna
+15	21:101:10	e	١٠١	ﲺ			

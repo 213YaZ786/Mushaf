@@ -1,0 +1,152 @@
+1	38:43:1	w	وَوَهَبۡنَا	ﱁ	ووهبنا	And We granted	wawahabnā
+1	38:43:2	w	لَهُۥٓ	ﱂ	له	[to] him	lahu
+1	38:43:3	w	أَهۡلَهُۥ	ﱃ	اهله	his family	ahlahu
+1	38:43:4	w	وَمِثۡلَهُم	ﱄ	ومثلهم	and a like of them	wamith'lahum
+1	38:43:5	w	مَّعَهُمۡ	ﱅ	معهم	with them	maʿahum
+1	38:43:6	w	رَحۡمَةٗ	ﱆ	رحمة	a Mercy	raḥmatan
+1	38:43:7	w	مِّنَّا	ﱇ	منا	from Us	minnā
+1	38:43:8	w	وَذِكۡرَىٰ	ﱈ	وذكرى	and a Reminder	wadhik'rā
+1	38:43:9	w	لِأُوْلِي	ﱉ	لاولي	for those of understanding	li-ulī
+1	38:43:10	w	ٱلۡأَلۡبَٰبِ	ﱊ	الالباب	for those of understanding	l-albābi
+2	38:43:11	e	٤٣	ﱋ			
+2	38:44:1	w	وَخُذۡ	ﱌ	وخذ	And take	wakhudh
+2	38:44:2	w	بِيَدِكَ	ﱍ	بيدك	in your hand	biyadika
+2	38:44:3	w	ضِغۡثٗا	ﱎ	ضغثا	a bunch	ḍigh'than
+2	38:44:4	w	فَٱضۡرِب	ﱏ	فاضرب	and strike	fa-iḍ'rib
+2	38:44:5	w	بِّهِۦ	ﱐ	به	with it	bihi
+2	38:44:6	w	وَلَا	ﱑ	ولا	and (do) not	walā
+2	38:44:7	w	تَحۡنَثۡۗ	ﱒﱓ	تحنث	break (your) oath	taḥnath
+2	38:44:8	w	إِنَّا	ﱔ	انا	Indeed, We	innā
+2	38:44:9	w	وَجَدۡنَٰهُ	ﱕ	وجدناه	[We] found him	wajadnāhu
+2	38:44:10	w	صَابِرٗاۚ	ﱖﱗ	صابرا	patient	ṣābiran
+2	38:44:11	w	نِّعۡمَ	ﱘ	نعم	an excellent	niʿ'ma
+3	38:44:12	w	ٱلۡعَبۡدُ	ﱙ	العبد	slave	l-ʿabdu
+3	38:44:13	w	إِنَّهُۥٓ	ﱚ	انه	Indeed, he	innahu
+3	38:44:14	w	أَوَّابٞ	ﱛ	اواب	repeatedly turned	awwābun
+3	38:44:15	e	٤٤	ﱜ			
+3	38:45:1	w	وَٱذۡكُرۡ	ﱝ	واذكر	And remember	wa-udh'kur
+3	38:45:2	w	عِبَٰدَنَآ	ﱞ	عبادنا	Our slaves	ʿibādanā
+3	38:45:3	w	إِبۡرَٰهِيمَ	ﱟ	ابراهيم	Ibrahim	ib'rāhīma
+3	38:45:4	w	وَإِسۡحَٰقَ	ﱠ	واسحاق	and Isaac	wa-is'ḥāqa
+3	38:45:5	w	وَيَعۡقُوبَ	ﱡ	ويعقوب	and Ayyub	wayaʿqūba
+3	38:45:6	w	أُوْلِي	ﱢ	اولي	possessors	ulī
+4	38:45:7	w	ٱلۡأَيۡدِي	ﱣ	الايدي	(of) strength	l-aydī
+4	38:45:8	w	وَٱلۡأَبۡصَٰرِ	ﱤ	والابصار	and vision	wal-abṣāri
+4	38:45:9	e	٤٥	ﱥ			
+4	38:46:1	w	إِنَّآ	ﱦ	انا	Indeed, We	innā
+4	38:46:2	w	أَخۡلَصۡنَٰهُم	ﱧ	اخلصناهم	[We] chose them	akhlaṣnāhum
+4	38:46:3	w	بِخَالِصَةٖ	ﱨ	بخالصة	for an exclusive (quality)	bikhāliṣatin
+4	38:46:4	w	ذِكۡرَى	ﱩ	ذكرى	remembrance	dhik'rā
+4	38:46:5	w	ٱلدَّارِ	ﱪ	الدار	(of) the Home	l-dāri
+4	38:46:6	e	٤٦	ﱫ			
+5	38:47:1	w	وَإِنَّهُمۡ	ﱬ	وانهم	And indeed, they	wa-innahum
+5	38:47:2	w	عِندَنَا	ﱭ	عندنا	to Us	ʿindanā
+5	38:47:3	w	لَمِنَ	ﱮ	لمن	(are) from	lamina
+5	38:47:4	w	ٱلۡمُصۡطَفَيۡنَ	ﱯ	المصطفين	the chosen ones	l-muṣ'ṭafayna
+5	38:47:5	w	ٱلۡأَخۡيَارِ	ﱰ	الاخيار	the best	l-akhyāri
+5	38:47:6	e	٤٧	ﱱ			
+5	38:48:1	w	وَٱذۡكُرۡ	ﱲ	واذكر	And remember	wa-udh'kur
+5	38:48:2	w	إِسۡمَٰعِيلَ	ﱳ	اسماعيل	Ishmael	is'māʿīla
+6	38:48:3	w	وَٱلۡيَسَعَ	ﱴ	واليسع	and Elisha	wal-yasaʿa
+6	38:48:4	w	وَذَا	ﱵ	وذا	and Dhul-kifl	wadhā
+6	38:48:5	w	ٱلۡكِفۡلِۖ	ﱶﱷ	الكفل	and Dhul-kifl	l-kif'li
+6	38:48:6	w	وَكُلّٞ	ﱸ	وكل	and all	wakullun
+6	38:48:7	w	مِّنَ	ﱹ	من	(are) from	mina
+6	38:48:8	w	ٱلۡأَخۡيَارِ	ﱺ	الاخيار	the best	l-akhyāri
+6	38:48:9	e	٤٨	ﱻ			
+6	38:49:1	w	هَٰذَا	ﱼ	هاذا	This	hādhā
+6	38:49:2	w	ذِكۡرٞۚ	ﱽﱾ	ذكر	(is) a Reminder	dhik'run
+6	38:49:3	w	وَإِنَّ	ﱿ	وان	And indeed	wa-inna
+6	38:49:4	w	لِلۡمُتَّقِينَ	ﲀ	للمتقين	for the righteous	lil'muttaqīna
+7	38:49:5	w	لَحُسۡنَ	ﲁ	لحسن	surely, is a good	laḥus'na
+7	38:49:6	w	مَـَٔابٖ	ﲂ	ماب	place of return	maābin
+7	38:49:7	e	٤٩	ﲃ			
+7	38:50:1	w	جَنَّٰتِ	ﲄ	جنات	Gardens	jannāti
+7	38:50:2	w	عَدۡنٖ	ﲅ	عدن	(of) Eternity	ʿadnin
+7	38:50:3	w	مُّفَتَّحَةٗ	ﲆ	مفتحة	(will be) opened	mufattaḥatan
+7	38:50:4	w	لَّهُمُ	ﲇ	لهم	for them	lahumu
+7	38:50:5	w	ٱلۡأَبۡوَٰبُ	ﲈ	الابواب	the gates	l-abwābu
+7	38:50:6	e	٥٠	ﲉ			
+7	38:51:1	w	مُتَّكِـِٔينَ	ﲊ	متكيين	Reclining	muttakiīna
+8	38:51:2	w	فِيهَا	ﲋ	فيها	therein	fīhā
+8	38:51:3	w	يَدۡعُونَ	ﲌ	يدعون	they will call	yadʿūna
+8	38:51:4	w	فِيهَا	ﲍ	فيها	therein	fīhā
+8	38:51:5	w	بِفَٰكِهَةٖ	ﲎ	بفاكهة	for fruit	bifākihatin
+8	38:51:6	w	كَثِيرَةٖ	ﲏ	كثيرة	many	kathīratin
+8	38:51:7	w	وَشَرَابٖ	ﲐ	وشراب	and drink	washarābin
+8	38:51:8	e	٥١	ﲑ			
+8	38:52:1	w	۞ وَعِندَهُمۡ	ﲒ ﲓ	۞ وعندهم	And with them	waʿindahum
+8	38:52:2	w	قَٰصِرَٰتُ	ﲔ	قاصرات	(will be) companions of modest gaze	qāṣirātu
+9	38:52:3	w	ٱلطَّرۡفِ	ﲕ	الطرف	(will be) companions of modest gaze	l-ṭarfi
+9	38:52:4	w	أَتۡرَابٌ	ﲖ	اتراب	well-matched	atrābun
+9	38:52:5	e	٥٢	ﲗ			
+9	38:53:1	w	هَٰذَا	ﲘ	هاذا	This	hādhā
+9	38:53:2	w	مَا	ﲙ	ما	(is) what	mā
+9	38:53:3	w	تُوعَدُونَ	ﲚ	توعدون	you are promised	tūʿadūna
+9	38:53:4	w	لِيَوۡمِ	ﲛ	ليوم	for (the) Day	liyawmi
+9	38:53:5	w	ٱلۡحِسَابِ	ﲜ	الحساب	(of) Account	l-ḥisābi
+9	38:53:6	e	٥٣	ﲝ			
+9	38:54:1	w	إِنَّ	ﲞ	ان	Indeed	inna
+9	38:54:2	w	هَٰذَا	ﲟ	هاذا	this	hādhā
+10	38:54:3	w	لَرِزۡقُنَا	ﲠ	لرزقنا	(is) surely Our provision	lariz'qunā
+10	38:54:4	w	مَا	ﲡ	ما	not	mā
+10	38:54:5	w	لَهُۥ	ﲢ	له	for it	lahu
+10	38:54:6	w	مِن	ﲣ	من	any	min
+10	38:54:7	w	نَّفَادٍ	ﲤ	نفاد	depletion	nafādin
+10	38:54:8	e	٥٤	ﲥ			
+10	38:55:1	w	هَٰذَاۚ	ﲦﲧ	هاذا	This (is so)	hādhā
+10	38:55:2	w	وَإِنَّ	ﲨ	وان	And indeed	wa-inna
+10	38:55:3	w	لِلطَّٰغِينَ	ﲩ	للطاغين	for the transgressors	lilṭṭāghīna
+10	38:55:4	w	لَشَرَّ	ﲪ	لشر	surely (is) an evil	lasharra
+10	38:55:5	w	مَـَٔابٖ	ﲫ	ماب	place of return	maābin
+11	38:55:6	e	٥٥	ﲬ			
+11	38:56:1	w	جَهَنَّمَ	ﲭ	جهنم	Hell	jahannama
+11	38:56:2	w	يَصۡلَوۡنَهَا	ﲮ	يصلونها	they will burn therein	yaṣlawnahā
+11	38:56:3	w	فَبِئۡسَ	ﲯ	فبيس	and wretched (is)	fabi'sa
+11	38:56:4	w	ٱلۡمِهَادُ	ﲰ	المهاد	the resting place	l-mihādu
+11	38:56:5	e	٥٦	ﲱ			
+11	38:57:1	w	هَٰذَا	ﲲ	هاذا	This (is so)	hādhā
+11	38:57:2	w	فَلۡيَذُوقُوهُ	ﲳ	فليذوقوه	Then let them taste it	falyadhūqūhu
+11	38:57:3	w	حَمِيمٞ	ﲴ	حميم	boiling fluid	ḥamīmun
+12	38:57:4	w	وَغَسَّاقٞ	ﲵ	وغساق	and purulence	waghassāqun
+12	38:57:5	e	٥٧	ﲶ			
+12	38:58:1	w	وَءَاخَرُ	ﲷ	واخر	And other	waākharu
+12	38:58:2	w	مِن	ﲸ	من	of	min
+12	38:58:3	w	شَكۡلِهِۦٓ	ﲹ	شكله	its type	shaklihi
+12	38:58:4	w	أَزۡوَٰجٌ	ﲺ	ازواج	(of various) kinds	azwājun
+12	38:58:5	e	٥٨	ﲻ			
+12	38:59:1	w	هَٰذَا	ﲼ	هاذا	This	hādhā
+12	38:59:2	w	فَوۡجٞ	ﲽ	فوج	(is) a company	fawjun
+13	38:59:3	w	مُّقۡتَحِمٞ	ﲾ	مقتحم	bursting	muq'taḥimun
+13	38:59:4	w	مَّعَكُمۡ	ﲿ	معكم	(in) with you	maʿakum
+13	38:59:5	w	لَا	ﳀ	لا	No	lā
+13	38:59:6	w	مَرۡحَبَۢا	ﳁ	مرحبا	welcome	marḥaban
+13	38:59:7	w	بِهِمۡۚ	ﳂﳃ	بهم	for them	bihim
+13	38:59:8	w	إِنَّهُمۡ	ﳄ	انهم	Indeed, they	innahum
+13	38:59:9	w	صَالُواْ	ﳅ	صالو	(will) burn	ṣālū
+13	38:59:10	w	ٱلنَّارِ	ﳆ	النار	(in) the Fire	l-nāri
+13	38:59:11	e	٥٩	ﳇ			
+13	38:60:1	w	قَالُواْ	ﳈ	قالوا	They say	qālū
+14	38:60:2	w	بَلۡ	ﳉ	بل	Nay	bal
+14	38:60:3	w	أَنتُمۡ	ﳊ	انتم	You	antum
+14	38:60:4	w	لَا	ﳋ	لا	no	lā
+14	38:60:5	w	مَرۡحَبَۢا	ﳌ	مرحبا	welcome	marḥaban
+14	38:60:6	w	بِكُمۡۖ	ﳍﳎ	بكم	for you	bikum
+14	38:60:7	w	أَنتُمۡ	ﳏ	انتم	You	antum
+14	38:60:8	w	قَدَّمۡتُمُوهُ	ﳐ	قدمتموه	brought this	qaddamtumūhu
+14	38:60:9	w	لَنَاۖ	ﳑﳒ	لنا	upon us	lanā
+14	38:60:10	w	فَبِئۡسَ	ﳓ	فبيس	So wretched (is)	fabi'sa
+14	38:60:11	w	ٱلۡقَرَارُ	ﳔ	القرار	the settlement	l-qarāru
+14	38:60:12	e	٦٠	ﳕ			
+15	38:61:1	w	قَالُواْ	ﳖ	قالوا	They will say	qālū
+15	38:61:2	w	رَبَّنَا	ﳗ	ربنا	Our Lord	rabbanā
+15	38:61:3	w	مَن	ﳘ	من	whoever	man
+15	38:61:4	w	قَدَّمَ	ﳙ	قدم	brought	qaddama
+15	38:61:5	w	لَنَا	ﳚ	لنا	upon us	lanā
+15	38:61:6	w	هَٰذَا	ﳛ	هاذا	this	hādhā
+15	38:61:7	w	فَزِدۡهُ	ﳜ	فزده	increase for him	fazid'hu
+15	38:61:8	w	عَذَابٗا	ﳝ	عذابا	a punishment	ʿadhāban
+15	38:61:9	w	ضِعۡفٗا	ﳞ	ضعفا	double	ḍiʿ'fan
+15	38:61:10	w	فِي	ﳟ	في	in	fī
+15	38:61:11	w	ٱلنَّارِ	ﳠ	النار	the Fire	l-nāri
+15	38:61:12	e	٦١	ﳡ			

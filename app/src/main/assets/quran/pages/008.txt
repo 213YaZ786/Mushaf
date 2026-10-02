@@ -1,0 +1,129 @@
+1	2:49:1	w	وَإِذۡ	ﱁ	واذ	And when	wa-idh
+1	2:49:2	w	نَجَّيۡنَٰكُم	ﱂ	نجيناكم	We saved you	najjaynākum
+1	2:49:3	w	مِّنۡ	ﱃ	من	from	min
+1	2:49:4	w	ءَالِ	ﱄ	ال	(the) people	āli
+1	2:49:5	w	فِرۡعَوۡنَ	ﱅ	فرعون	(of) Firaun	fir'ʿawna
+1	2:49:6	w	يَسُومُونَكُمۡ	ﱆ	يسومونكم	(who were) afflicting you (with)	yasūmūnakum
+1	2:49:7	w	سُوٓءَ	ﱇ	سوء	horrible	sūa
+1	2:49:8	w	ٱلۡعَذَابِ	ﱈ	العذاب	torment	l-ʿadhābi
+2	2:49:9	w	يُذَبِّحُونَ	ﱉ	يذبحون	slaughtering	yudhabbiḥūna
+2	2:49:10	w	أَبۡنَآءَكُمۡ	ﱊ	ابناءكم	your sons	abnāakum
+2	2:49:11	w	وَيَسۡتَحۡيُونَ	ﱋ	ويستحيون	and letting live	wayastaḥyūna
+2	2:49:12	w	نِسَآءَكُمۡۚ	ﱌﱍ	نساءكم	your women	nisāakum
+2	2:49:13	w	وَفِي	ﱎ	وفي	And in	wafī
+2	2:49:14	w	ذَٰلِكُم	ﱏ	ذالكم	that	dhālikum
+2	2:49:15	w	بَلَآءٞ	ﱐ	بلاء	(was) a trial	balāon
+3	2:49:16	w	مِّن	ﱑ	من	from	min
+3	2:49:17	w	رَّبِّكُمۡ	ﱒ	ربكم	your Lord	rabbikum
+3	2:49:18	w	عَظِيمٞ	ﱓ	عظيم	great	ʿaẓīmun
+3	2:49:19	e	٤٩	ﱔ			
+3	2:50:1	w	وَإِذۡ	ﱕ	واذ	And when	wa-idh
+3	2:50:2	w	فَرَقۡنَا	ﱖ	فرقنا	We parted	faraqnā
+3	2:50:3	w	بِكُمُ	ﱗ	بكم	for you	bikumu
+3	2:50:4	w	ٱلۡبَحۡرَ	ﱘ	البحر	the sea	l-baḥra
+3	2:50:5	w	فَأَنجَيۡنَٰكُمۡ	ﱙ	فانجيناكم	then We saved you	fa-anjaynākum
+4	2:50:6	w	وَأَغۡرَقۡنَآ	ﱚ	واغرقنا	and We drowned	wa-aghraqnā
+4	2:50:7	w	ءَالَ	ﱛ	ال	(the) people	āla
+4	2:50:8	w	فِرۡعَوۡنَ	ﱜ	فرعون	(of) Firaun	fir'ʿawna
+4	2:50:9	w	وَأَنتُمۡ	ﱝ	وانتم	while you	wa-antum
+4	2:50:10	w	تَنظُرُونَ	ﱞ	تنظرون	(were) looking	tanẓurūna
+4	2:50:11	e	٥٠	ﱟ			
+4	2:51:1	w	وَإِذۡ	ﱠ	واذ	And when	wa-idh
+4	2:51:2	w	وَٰعَدۡنَا	ﱡ	واعدنا	We appointed	wāʿadnā
+4	2:51:3	w	مُوسَىٰٓ	ﱢ	موسى	(for) Musa	mūsā
+5	2:51:4	w	أَرۡبَعِينَ	ﱣ	اربعين	forty	arbaʿīna
+5	2:51:5	w	لَيۡلَةٗ	ﱤ	ليلة	nights	laylatan
+5	2:51:6	w	ثُمَّ	ﱥ	ثم	Then	thumma
+5	2:51:7	w	ٱتَّخَذۡتُمُ	ﱦ	اتخذتم	you took	ittakhadhtumu
+5	2:51:8	w	ٱلۡعِجۡلَ	ﱧ	العجل	the calf	l-ʿij'la
+5	2:51:9	w	مِنۢ	ﱨ	من	from	min
+5	2:51:10	w	بَعۡدِهِۦ	ﱩ	بعده	after him	baʿdihi
+5	2:51:11	w	وَأَنتُمۡ	ﱪ	وانتم	and you	wa-antum
+5	2:51:12	w	ظَٰلِمُونَ	ﱫ	ظالمون	(were) wrongdoers	ẓālimūna
+6	2:51:13	e	٥١	ﱬ			
+6	2:52:1	w	ثُمَّ	ﱭ	ثم	Then	thumma
+6	2:52:2	w	عَفَوۡنَا	ﱮ	عفونا	We forgave	ʿafawnā
+6	2:52:3	w	عَنكُم	ﱯ	عنكم	you	ʿankum
+6	2:52:4	w	مِّنۢ	ﱰ	من	from	min
+6	2:52:5	w	بَعۡدِ	ﱱ	بعد	after	baʿdi
+6	2:52:6	w	ذَٰلِكَ	ﱲ	ذالك	that	dhālika
+6	2:52:7	w	لَعَلَّكُمۡ	ﱳ	لعلكم	so that you may	laʿallakum
+6	2:52:8	w	تَشۡكُرُونَ	ﱴ	تشكرون	(be) grateful	tashkurūna
+6	2:52:9	e	٥٢	ﱵ			
+7	2:53:1	w	وَإِذۡ	ﱶ	واذ	And when	wa-idh
+7	2:53:2	w	ءَاتَيۡنَا	ﱷ	اتينا	We gave	ātaynā
+7	2:53:3	w	مُوسَى	ﱸ	موسى	Musa	mūsā
+7	2:53:4	w	ٱلۡكِتَٰبَ	ﱹ	الكتاب	the Book	l-kitāba
+7	2:53:5	w	وَٱلۡفُرۡقَانَ	ﱺ	والفرقان	and the Criterion	wal-fur'qāna
+7	2:53:6	w	لَعَلَّكُمۡ	ﱻ	لعلكم	perhaps you	laʿallakum
+7	2:53:7	w	تَهۡتَدُونَ	ﱼ	تهتدون	(would be) guided	tahtadūna
+7	2:53:8	e	٥٣	ﱽ			
+8	2:54:1	w	وَإِذۡ	ﱾ	واذ	And when	wa-idh
+8	2:54:2	w	قَالَ	ﱿ	قال	said	qāla
+8	2:54:3	w	مُوسَىٰ	ﲀ	موسى	Musa	mūsā
+8	2:54:4	w	لِقَوۡمِهِۦ	ﲁ	لقومه	to his people	liqawmihi
+8	2:54:5	w	يَٰقَوۡمِ	ﲂ	يا قوم	O my people	yāqawmi
+8	2:54:6	w	إِنَّكُمۡ	ﲃ	انكم	Indeed, you	innakum
+8	2:54:7	w	ظَلَمۡتُمۡ	ﲄ	ظلمتم	[you] have wronged	ẓalamtum
+8	2:54:8	w	أَنفُسَكُم	ﲅ	انفسكم	yourselves	anfusakum
+8	2:54:9	w	بِٱتِّخَاذِكُمُ	ﲆ	باتخاذكم	by your taking	bi-ittikhādhikumu
+9	2:54:10	w	ٱلۡعِجۡلَ	ﲇ	العجل	the calf	l-ʿij'la
+9	2:54:11	w	فَتُوبُوٓاْ	ﲈ	فتوبوا	So turn in repentance	fatūbū
+9	2:54:12	w	إِلَىٰ	ﲉ	الى	to	ilā
+9	2:54:13	w	بَارِئِكُمۡ	ﲊ	باريكم	your Creator	bāri-ikum
+9	2:54:14	w	فَٱقۡتُلُوٓاْ	ﲋ	فاقتلوا	and kill	fa-uq'tulū
+9	2:54:15	w	أَنفُسَكُمۡ	ﲌ	انفسكم	yourselves	anfusakum
+9	2:54:16	w	ذَٰلِكُمۡ	ﲍ	ذالكم	That	dhālikum
+10	2:54:17	w	خَيۡرٞ	ﲎ	خير	(is) better	khayrun
+10	2:54:18	w	لَّكُمۡ	ﲏ	لكم	for you	lakum
+10	2:54:19	w	عِندَ	ﲐ	عند	with	ʿinda
+10	2:54:20	w	بَارِئِكُمۡ	ﲑ	باريكم	your Creator	bāri-ikum
+10	2:54:21	w	فَتَابَ	ﲒ	فتاب	Then He turned	fatāba
+10	2:54:22	w	عَلَيۡكُمۡۚ	ﲓﲔ	عليكم	towards you	ʿalaykum
+10	2:54:23	w	إِنَّهُۥ	ﲕ	انه	Indeed He	innahu
+10	2:54:24	w	هُوَ	ﲖ	هو	He	huwa
+10	2:54:25	w	ٱلتَّوَّابُ	ﲗ	التواب	(is) the-returning	l-tawābu
+11	2:54:26	w	ٱلرَّحِيمُ	ﲘ	الرحيم	the Most Merciful	l-raḥīmu
+11	2:54:27	e	٥٤	ﲙ			
+11	2:55:1	w	وَإِذۡ	ﲚ	واذ	And when	wa-idh
+11	2:55:2	w	قُلۡتُمۡ	ﲛ	قلتم	you said	qul'tum
+11	2:55:3	w	يَٰمُوسَىٰ	ﲜ	يا موسى	O Musa	yāmūsā
+11	2:55:4	w	لَن	ﲝ	لن	Never	lan
+11	2:55:5	w	نُّؤۡمِنَ	ﲞ	نومن	(will) we believe	nu'mina
+11	2:55:6	w	لَكَ	ﲟ	لك	in you	laka
+11	2:55:7	w	حَتَّىٰ	ﲠ	حتى	until	ḥattā
+11	2:55:8	w	نَرَى	ﲡ	نرى	we see	narā
+11	2:55:9	w	ٱللَّهَ	ﲢ	الله	Allah	l-laha
+12	2:55:10	w	جَهۡرَةٗ	ﲣ	جهرة	manifestly	jahratan
+12	2:55:11	w	فَأَخَذَتۡكُمُ	ﲤ	فاخذتكم	So seized you	fa-akhadhatkumu
+12	2:55:12	w	ٱلصَّٰعِقَةُ	ﲥ	الصاعقة	the thunderbolt	l-ṣāʿiqatu
+12	2:55:13	w	وَأَنتُمۡ	ﲦ	وانتم	while you	wa-antum
+12	2:55:14	w	تَنظُرُونَ	ﲧ	تنظرون	(were) looking	tanẓurūna
+12	2:55:15	e	٥٥	ﲨ			
+12	2:56:1	w	ثُمَّ	ﲩ	ثم	Then	thumma
+12	2:56:2	w	بَعَثۡنَٰكُم	ﲪ	بعثناكم	We revived you	baʿathnākum
+13	2:56:3	w	مِّنۢ	ﲫ	من	from	min
+13	2:56:4	w	بَعۡدِ	ﲬ	بعد	after	baʿdi
+13	2:56:5	w	مَوۡتِكُمۡ	ﲭ	موتكم	your death	mawtikum
+13	2:56:6	w	لَعَلَّكُمۡ	ﲮ	لعلكم	so that you may	laʿallakum
+13	2:56:7	w	تَشۡكُرُونَ	ﲯ	تشكرون	(be) grateful	tashkurūna
+13	2:56:8	e	٥٦	ﲰ			
+13	2:57:1	w	وَظَلَّلۡنَا	ﲱ	وظللنا	And We shaded	waẓallalnā
+13	2:57:2	w	عَلَيۡكُمُ	ﲲ	عليكم	[over] you	ʿalaykumu
+14	2:57:3	w	ٱلۡغَمَامَ	ﲳ	الغمام	(with) [the] clouds	l-ghamāma
+14	2:57:4	w	وَأَنزَلۡنَا	ﲴ	وانزلنا	and We sent down	wa-anzalnā
+14	2:57:5	w	عَلَيۡكُمُ	ﲵ	عليكم	to you	ʿalaykumu
+14	2:57:6	w	ٱلۡمَنَّ	ﲶ	المن	[the] manna	l-mana
+14	2:57:7	w	وَٱلسَّلۡوَىٰۖ	ﲷﲸ	والسلوى	and [the] quails	wal-salwā
+14	2:57:8	w	كُلُواْ	ﲹ	كلوا	Eat	kulū
+14	2:57:9	w	مِن	ﲺ	من	from	min
+14	2:57:10	w	طَيِّبَٰتِ	ﲻ	طيبات	(the) good things	ṭayyibāti
+15	2:57:11	w	مَا	ﲼ	ما	that	mā
+15	2:57:12	w	رَزَقۡنَٰكُمۡۚ	ﲽﲾ	رزقناكم	We have provided you	razaqnākum
+15	2:57:13	w	وَمَا	ﲿ	وما	And not	wamā
+15	2:57:14	w	ظَلَمُونَا	ﳀ	ظلمونا	they wronged Us	ẓalamūnā
+15	2:57:15	w	وَلَٰكِن	ﳁ	ولاكن	but	walākin
+15	2:57:16	w	كَانُوٓاْ	ﳂ	كانوا	they were	kānū
+15	2:57:17	w	أَنفُسَهُمۡ	ﳃ	انفسهم	(to) themselves	anfusahum
+15	2:57:18	w	يَظۡلِمُونَ	ﳄ	يظلمون	doing wrong	yaẓlimūna
+15	2:57:19	e	٥٧	ﳅ			

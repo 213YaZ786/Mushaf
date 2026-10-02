@@ -1,0 +1,134 @@
+1	30:6:1	w	وَعۡدَ	ﱁ	وعد	(It is the) Promise	waʿda
+1	30:6:2	w	ٱللَّهِۖ	ﱂﱃ	الله	(of) Allah	l-lahi
+1	30:6:3	w	لَا	ﱄ	لا	(Does) not	lā
+1	30:6:4	w	يُخۡلِفُ	ﱅ	يخلف	fail	yukh'lifu
+1	30:6:5	w	ٱللَّهُ	ﱆ	الله	Allah	l-lahu
+1	30:6:6	w	وَعۡدَهُۥ	ﱇ	وعده	(in) His promise	waʿdahu
+1	30:6:7	w	وَلَٰكِنَّ	ﱈ	ولاكن	but	walākinna
+1	30:6:8	w	أَكۡثَرَ	ﱉ	اكثر	most (of)	akthara
+1	30:6:9	w	ٱلنَّاسِ	ﱊ	الناس	[the] people	l-nāsi
+1	30:6:10	w	لَا	ﱋ	لا	(do) not	lā
+1	30:6:11	w	يَعۡلَمُونَ	ﱌ	يعلمون	know	yaʿlamūna
+2	30:6:12	e	٦	ﱍ			
+2	30:7:1	w	يَعۡلَمُونَ	ﱎ	يعلمون	They know	yaʿlamūna
+2	30:7:2	w	ظَٰهِرٗا	ﱏ	ظاهرا	(the) apparent	ẓāhiran
+2	30:7:3	w	مِّنَ	ﱐ	من	of	mina
+2	30:7:4	w	ٱلۡحَيَوٰةِ	ﱑ	الحياة	the life	l-ḥayati
+2	30:7:5	w	ٱلدُّنۡيَا	ﱒ	الدنيا	(of) the world	l-dun'yā
+2	30:7:6	w	وَهُمۡ	ﱓ	وهم	but they	wahum
+2	30:7:7	w	عَنِ	ﱔ	عن	about	ʿani
+2	30:7:8	w	ٱلۡأٓخِرَةِ	ﱕ	الاخرة	the Hereafter	l-ākhirati
+2	30:7:9	w	هُمۡ	ﱖ	هم	[they]	hum
+3	30:7:10	w	غَٰفِلُونَ	ﱗ	غافلون	(are) heedless	ghāfilūna
+3	30:7:11	e	٧	ﱘ			
+3	30:8:1	w	أَوَلَمۡ	ﱙ	اولم	Do not	awalam
+3	30:8:2	w	يَتَفَكَّرُواْ	ﱚ	يتفكروا	they ponder	yatafakkarū
+3	30:8:3	w	فِيٓ	ﱛ	في	within	fī
+3	30:8:4	w	أَنفُسِهِمۗ	ﱜﱝ	انفسهم	themselves	anfusihim
+3	30:8:5	w	مَّا	ﱞ	ما	Not	mā
+3	30:8:6	w	خَلَقَ	ﱟ	خلق	Allah (has) created	khalaqa
+3	30:8:7	w	ٱللَّهُ	ﱠ	الله	Allah (has) created	l-lahu
+3	30:8:8	w	ٱلسَّمَٰوَٰتِ	ﱡ	السماوات	the heavens	l-samāwāti
+4	30:8:9	w	وَٱلۡأَرۡضَ	ﱢ	والارض	and the earth	wal-arḍa
+4	30:8:10	w	وَمَا	ﱣ	وما	and what	wamā
+4	30:8:11	w	بَيۡنَهُمَآ	ﱤ	بينهما	(is) between them	baynahumā
+4	30:8:12	w	إِلَّا	ﱥ	الا	except	illā
+4	30:8:13	w	بِٱلۡحَقِّ	ﱦ	بالحق	in truth	bil-ḥaqi
+4	30:8:14	w	وَأَجَلٖ	ﱧ	واجل	and (for) a term	wa-ajalin
+4	30:8:15	w	مُّسَمّٗىۗ	ﱨﱩ	مسمى	appointed	musamman
+4	30:8:16	w	وَإِنَّ	ﱪ	وان	And indeed	wa-inna
+4	30:8:17	w	كَثِيرٗا	ﱫ	كثيرا	many	kathīran
+5	30:8:18	w	مِّنَ	ﱬ	من	of	mina
+5	30:8:19	w	ٱلنَّاسِ	ﱭ	الناس	the people	l-nāsi
+5	30:8:20	w	بِلِقَآيِٕ	ﱮ	بلقاء	in (the) meeting	biliqāi
+5	30:8:21	w	رَبِّهِمۡ	ﱯ	ربهم	(with) their Lord	rabbihim
+5	30:8:22	w	لَكَٰفِرُونَ	ﱰ	لكافرون	surely (are) disbelievers	lakāfirūna
+5	30:8:23	e	٨	ﱱ			
+5	30:9:1	w	أَوَلَمۡ	ﱲ	اولم	Have not	awalam
+5	30:9:2	w	يَسِيرُواْ	ﱳ	يسيروا	they traveled	yasīrū
+5	30:9:3	w	فِي	ﱴ	في	in	fī
+6	30:9:4	w	ٱلۡأَرۡضِ	ﱵ	الارض	the earth	l-arḍi
+6	30:9:5	w	فَيَنظُرُواْ	ﱶ	فينظروا	and observed	fayanẓurū
+6	30:9:6	w	كَيۡفَ	ﱷ	كيف	how	kayfa
+6	30:9:7	w	كَانَ	ﱸ	كان	was	kāna
+6	30:9:8	w	عَٰقِبَةُ	ﱹ	عاقبة	(the) end	ʿāqibatu
+6	30:9:9	w	ٱلَّذِينَ	ﱺ	الذين	(of) those	alladhīna
+6	30:9:10	w	مِن	ﱻ	من	before them	min
+6	30:9:11	w	قَبۡلِهِمۡۚ	ﱼﱽ	قبلهم	before them	qablihim
+6	30:9:12	w	كَانُوٓاْ	ﱾ	كانوا	They were	kānū
+7	30:9:13	w	أَشَدَّ	ﱿ	اشد	mightier	ashadda
+7	30:9:14	w	مِنۡهُمۡ	ﲀ	منهم	than them	min'hum
+7	30:9:15	w	قُوَّةٗ	ﲁ	قوة	(in) strength	quwwatan
+7	30:9:16	w	وَأَثَارُواْ	ﲂ	واثاروا	and they dug	wa-athārū
+7	30:9:17	w	ٱلۡأَرۡضَ	ﲃ	الارض	the earth	l-arḍa
+7	30:9:18	w	وَعَمَرُوهَآ	ﲄ	وعمروها	and built (on) it	waʿamarūhā
+7	30:9:19	w	أَكۡثَرَ	ﲅ	اكثر	more	akthara
+7	30:9:20	w	مِمَّا	ﲆ	مما	than what	mimmā
+8	30:9:21	w	عَمَرُوهَا	ﲇ	عمروها	they have built (on) it	ʿamarūhā
+8	30:9:22	w	وَجَآءَتۡهُمۡ	ﲈ	وجاءتهم	And came (to) them	wajāathum
+8	30:9:23	w	رُسُلُهُم	ﲉ	رسلهم	their Messengers	rusuluhum
+8	30:9:24	w	بِٱلۡبَيِّنَٰتِۖ	ﲊﲋ	بالبينات	with clear proofs	bil-bayināti
+8	30:9:25	w	فَمَا	ﲌ	فما	So not	famā
+8	30:9:26	w	كَانَ	ﲍ	كان	was	kāna
+8	30:9:27	w	ٱللَّهُ	ﲎ	الله	Allah	l-lahu
+9	30:9:28	w	لِيَظۡلِمَهُمۡ	ﲏ	ليظلمهم	to wrong them	liyaẓlimahum
+9	30:9:29	w	وَلَٰكِن	ﲐ	ولاكن	but	walākin
+9	30:9:30	w	كَانُوٓاْ	ﲑ	كانوا	they were	kānū
+9	30:9:31	w	أَنفُسَهُمۡ	ﲒ	انفسهم	themselves	anfusahum
+9	30:9:32	w	يَظۡلِمُونَ	ﲓ	يظلمون	(doing) wrong	yaẓlimūna
+9	30:9:33	e	٩	ﲔ			
+9	30:10:1	w	ثُمَّ	ﲕ	ثم	Then	thumma
+9	30:10:2	w	كَانَ	ﲖ	كان	was	kāna
+10	30:10:3	w	عَٰقِبَةَ	ﲗ	عاقبة	(the) end	ʿāqibata
+10	30:10:4	w	ٱلَّذِينَ	ﲘ	الذين	(of) those who	alladhīna
+10	30:10:5	w	أَسَٰٓـُٔواْ	ﲙ	اساءوا	did evil	asāū
+10	30:10:6	w	ٱلسُّوٓأَىٰٓ	ﲚ	السواى	the evil	l-sūā
+10	30:10:7	w	أَن	ﲛ	ان	because	an
+10	30:10:8	w	كَذَّبُواْ	ﲜ	كذبوا	they denied	kadhabū
+10	30:10:9	w	بِـَٔايَٰتِ	ﲝ	بايات	(the) Signs	biāyāti
+10	30:10:10	w	ٱللَّهِ	ﲞ	الله	(of) Allah	l-lahi
+10	30:10:11	w	وَكَانُواْ	ﲟ	وكانوا	and were	wakānū
+11	30:10:12	w	بِهَا	ﲠ	بها	of them	bihā
+11	30:10:13	w	يَسۡتَهۡزِءُونَ	ﲡ	يستهزيون	making mockery	yastahziūna
+11	30:10:14	e	١٠	ﲢ			
+11	30:11:1	w	ٱللَّهُ	ﲣ	الله	Allah	al-lahu
+11	30:11:2	w	يَبۡدَؤُاْ	ﲤ	يبدا	originates	yabda-u
+11	30:11:3	w	ٱلۡخَلۡقَ	ﲥ	الخلق	the creation	l-khalqa
+11	30:11:4	w	ثُمَّ	ﲦ	ثم	then	thumma
+11	30:11:5	w	يُعِيدُهُۥ	ﲧ	يعيده	He repeats it	yuʿīduhu
+11	30:11:6	w	ثُمَّ	ﲨ	ثم	then	thumma
+11	30:11:7	w	إِلَيۡهِ	ﲩ	اليه	to Him	ilayhi
+11	30:11:8	w	تُرۡجَعُونَ	ﲪ	ترجعون	you will be returned	tur'jaʿūna
+12	30:11:9	e	١١	ﲫ			
+12	30:12:1	w	وَيَوۡمَ	ﲬ	ويوم	And (the) Day	wayawma
+12	30:12:2	w	تَقُومُ	ﲭ	تقوم	will (be) established	taqūmu
+12	30:12:3	w	ٱلسَّاعَةُ	ﲮ	الساعة	the Hour	l-sāʿatu
+12	30:12:4	w	يُبۡلِسُ	ﲯ	يبلس	will (be in) despair	yub'lisu
+12	30:12:5	w	ٱلۡمُجۡرِمُونَ	ﲰ	المجرمون	the criminals	l-muj'rimūna
+12	30:12:6	e	١٢	ﲱ			
+12	30:13:1	w	وَلَمۡ	ﲲ	ولم	And not	walam
+12	30:13:2	w	يَكُن	ﲳ	يكن	will be	yakun
+12	30:13:3	w	لَّهُم	ﲴ	لهم	for them	lahum
+12	30:13:4	w	مِّن	ﲵ	من	among	min
+13	30:13:5	w	شُرَكَآئِهِمۡ	ﲶ	شركايهم	theirs partners	shurakāihim
+13	30:13:6	w	شُفَعَٰٓؤُاْ	ﲷ	شفعاء	any intercessors	shufaʿāu
+13	30:13:7	w	وَكَانُواْ	ﲸ	وكانوا	and they will be	wakānū
+13	30:13:8	w	بِشُرَكَآئِهِمۡ	ﲹ	بشركايهم	in their partners	bishurakāihim
+13	30:13:9	w	كَٰفِرِينَ	ﲺ	كافرين	disbelievers	kāfirīna
+14	30:13:10	e	١٣	ﲻ			
+14	30:14:1	w	وَيَوۡمَ	ﲼ	ويوم	And (the) Day	wayawma
+14	30:14:2	w	تَقُومُ	ﲽ	تقوم	will (be) established	taqūmu
+14	30:14:3	w	ٱلسَّاعَةُ	ﲾ	الساعة	the Hour	l-sāʿatu
+14	30:14:4	w	يَوۡمَئِذٖ	ﲿ	يوميذ	that Day	yawma-idhin
+14	30:14:5	w	يَتَفَرَّقُونَ	ﳀ	يتفرقون	they will become separated	yatafarraqūna
+14	30:14:6	e	١٤	ﳁ			
+14	30:15:1	w	فَأَمَّا	ﳂ	فاما	Then as for	fa-ammā
+14	30:15:2	w	ٱلَّذِينَ	ﳃ	الذين	those who	alladhīna
+15	30:15:3	w	ءَامَنُواْ	ﳄ	امنوا	believed	āmanū
+15	30:15:4	w	وَعَمِلُواْ	ﳅ	وعملوا	and did	waʿamilū
+15	30:15:5	w	ٱلصَّٰلِحَٰتِ	ﳆ	الصالحات	righteous deeds	l-ṣāliḥāti
+15	30:15:6	w	فَهُمۡ	ﳇ	فهم	so they	fahum
+15	30:15:7	w	فِي	ﳈ	في	in	fī
+15	30:15:8	w	رَوۡضَةٖ	ﳉ	روضة	a Garden	rawḍatin
+15	30:15:9	w	يُحۡبَرُونَ	ﳊ	يحبرون	will be delighted	yuḥ'barūna
+15	30:15:10	e	١٥	ﳋ			

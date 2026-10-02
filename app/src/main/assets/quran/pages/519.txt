@@ -1,0 +1,173 @@
+1	50:16:1	w	وَلَقَدۡ	ﱁ	ولقد	And certainly	walaqad
+1	50:16:2	w	خَلَقۡنَا	ﱂ	خلقنا	We created	khalaqnā
+1	50:16:3	w	ٱلۡإِنسَٰنَ	ﱃ	الانسان	man	l-insāna
+1	50:16:4	w	وَنَعۡلَمُ	ﱄ	ونعلم	and We know	wanaʿlamu
+1	50:16:5	w	مَا	ﱅ	ما	what	mā
+1	50:16:6	w	تُوَسۡوِسُ	ﱆ	توسوس	whispers	tuwaswisu
+1	50:16:7	w	بِهِۦ	ﱇ	به	to him	bihi
+1	50:16:8	w	نَفۡسُهُۥۖ	ﱈﱉ	نفسه	his soul	nafsuhu
+1	50:16:9	w	وَنَحۡنُ	ﱊ	ونحن	and We	wanaḥnu
+1	50:16:10	w	أَقۡرَبُ	ﱋ	اقرب	(are) nearer	aqrabu
+1	50:16:11	w	إِلَيۡهِ	ﱌ	اليه	to him	ilayhi
+2	50:16:12	w	مِنۡ	ﱍ	من	than	min
+2	50:16:13	w	حَبۡلِ	ﱎ	حبل	(his) jugular vein	ḥabli
+2	50:16:14	w	ٱلۡوَرِيدِ	ﱏ	الوريد	(his) jugular vein	l-warīdi
+2	50:16:15	e	١٦	ﱐ			
+2	50:17:1	w	إِذۡ	ﱑ	اذ	When	idh
+2	50:17:2	w	يَتَلَقَّى	ﱒ	يتلقى	receive	yatalaqqā
+2	50:17:3	w	ٱلۡمُتَلَقِّيَانِ	ﱓ	المتلقيان	the two receivers	l-mutalaqiyāni
+2	50:17:4	w	عَنِ	ﱔ	عن	on	ʿani
+2	50:17:5	w	ٱلۡيَمِينِ	ﱕ	اليمين	the right	l-yamīni
+2	50:17:6	w	وَعَنِ	ﱖ	وعن	and on	waʿani
+2	50:17:7	w	ٱلشِّمَالِ	ﱗ	الشمال	the left	l-shimāli
+3	50:17:8	w	قَعِيدٞ	ﱘ	قعيد	seated	qaʿīdun
+3	50:17:9	e	١٧	ﱙ			
+3	50:18:1	w	مَّا	ﱚ	ما	Not	mā
+3	50:18:2	w	يَلۡفِظُ	ﱛ	يلفظ	he utters	yalfiẓu
+3	50:18:3	w	مِن	ﱜ	من	any	min
+3	50:18:4	w	قَوۡلٍ	ﱝ	قول	word	qawlin
+3	50:18:5	w	إِلَّا	ﱞ	الا	but	illā
+3	50:18:6	w	لَدَيۡهِ	ﱟ	لديه	with him	ladayhi
+3	50:18:7	w	رَقِيبٌ	ﱠ	رقيب	(is) an observer	raqībun
+3	50:18:8	w	عَتِيدٞ	ﱡ	عتيد	ready	ʿatīdun
+3	50:18:9	e	١٨	ﱢ			
+3	50:19:1	w	وَجَآءَتۡ	ﱣ	وجاءت	And will come	wajāat
+3	50:19:2	w	سَكۡرَةُ	ﱤ	سكرة	(the) stupor	sakratu
+4	50:19:3	w	ٱلۡمَوۡتِ	ﱥ	الموت	(of) death	l-mawti
+4	50:19:4	w	بِٱلۡحَقِّۖ	ﱦﱧ	بالحق	in truth	bil-ḥaqi
+4	50:19:5	w	ذَٰلِكَ	ﱨ	ذالك	That	dhālika
+4	50:19:6	w	مَا	ﱩ	ما	(is) what	mā
+4	50:19:7	w	كُنتَ	ﱪ	كنت	you were	kunta
+4	50:19:8	w	مِنۡهُ	ﱫ	منه	[from it]	min'hu
+4	50:19:9	w	تَحِيدُ	ﱬ	تحيد	avoiding	taḥīdu
+4	50:19:10	e	١٩	ﱭ			
+4	50:20:1	w	وَنُفِخَ	ﱮ	ونفخ	And will be blown	wanufikha
+4	50:20:2	w	فِي	ﱯ	في	[in]	fī
+4	50:20:3	w	ٱلصُّورِۚ	ﱰﱱ	الصور	the trumpet	l-ṣūri
+4	50:20:4	w	ذَٰلِكَ	ﱲ	ذالك	That	dhālika
+5	50:20:5	w	يَوۡمُ	ﱳ	يوم	(is the) Day	yawmu
+5	50:20:6	w	ٱلۡوَعِيدِ	ﱴ	الوعيد	(of) the Warning	l-waʿīdi
+5	50:20:7	e	٢٠	ﱵ			
+5	50:21:1	w	وَجَآءَتۡ	ﱶ	وجاءت	And will come	wajāat
+5	50:21:2	w	كُلُّ	ﱷ	كل	every	kullu
+5	50:21:3	w	نَفۡسٖ	ﱸ	نفس	soul	nafsin
+5	50:21:4	w	مَّعَهَا	ﱹ	معها	with it	maʿahā
+5	50:21:5	w	سَآئِقٞ	ﱺ	سايق	a driver	sāiqun
+5	50:21:6	w	وَشَهِيدٞ	ﱻ	وشهيد	and a witness	washahīdun
+5	50:21:7	e	٢١	ﱼ			
+5	50:22:1	w	لَّقَدۡ	ﱽ	لقد	Certainly	laqad
+6	50:22:2	w	كُنتَ	ﱾ	كنت	you were	kunta
+6	50:22:3	w	فِي	ﱿ	في	in	fī
+6	50:22:4	w	غَفۡلَةٖ	ﲀ	غفلة	heedlessness	ghaflatin
+6	50:22:5	w	مِّنۡ	ﲁ	من	of	min
+6	50:22:6	w	هَٰذَا	ﲂ	هاذا	this	hādhā
+6	50:22:7	w	فَكَشَفۡنَا	ﲃ	فكشفنا	So We have removed	fakashafnā
+6	50:22:8	w	عَنكَ	ﲄ	عنك	from you	ʿanka
+6	50:22:9	w	غِطَآءَكَ	ﲅ	غطاءك	your cover	ghiṭāaka
+6	50:22:10	w	فَبَصَرُكَ	ﲆ	فبصرك	so your sight	fabaṣaruka
+6	50:22:11	w	ٱلۡيَوۡمَ	ﲇ	اليوم	today	l-yawma
+6	50:22:12	w	حَدِيدٞ	ﲈ	حديد	(is) sharp	ḥadīdun
+7	50:22:13	e	٢٢	ﲉ			
+7	50:23:1	w	وَقَالَ	ﲊ	وقال	And (will) say	waqāla
+7	50:23:2	w	قَرِينُهُۥ	ﲋ	قرينه	his companion	qarīnuhu
+7	50:23:3	w	هَٰذَا	ﲌ	هاذا	This	hādhā
+7	50:23:4	w	مَا	ﲍ	ما	(is) what	mā
+7	50:23:5	w	لَدَيَّ	ﲎ	لدي	(is) with me	ladayya
+7	50:23:6	w	عَتِيدٌ	ﲏ	عتيد	ready	ʿatīdun
+7	50:23:7	e	٢٣	ﲐ			
+7	50:24:1	w	أَلۡقِيَا	ﲑ	القيا	Throw	alqiyā
+7	50:24:2	w	فِي	ﲒ	في	in (to)	fī
+7	50:24:3	w	جَهَنَّمَ	ﲓ	جهنم	Hell	jahannama
+7	50:24:4	w	كُلَّ	ﲔ	كل	every	kulla
+7	50:24:5	w	كَفَّارٍ	ﲕ	كفار	disbeliever	kaffārin
+8	50:24:6	w	عَنِيدٖ	ﲖ	عنيد	stubborn	ʿanīdin
+8	50:24:7	e	٢٤	ﲗ			
+8	50:25:1	w	مَّنَّاعٖ	ﲘ	مناع	Forbidder	mannāʿin
+8	50:25:2	w	لِّلۡخَيۡرِ	ﲙ	للخير	of good	lil'khayri
+8	50:25:3	w	مُعۡتَدٖ	ﲚ	معتد	transgressor	muʿ'tadin
+8	50:25:4	w	مُّرِيبٍ	ﲛ	مريب	doubter	murībin
+8	50:25:5	e	٢٥	ﲜ			
+8	50:26:1	w	ٱلَّذِي	ﲝ	الذي	Who	alladhī
+8	50:26:2	w	جَعَلَ	ﲞ	جعل	made	jaʿala
+8	50:26:3	w	مَعَ	ﲟ	مع	with	maʿa
+8	50:26:4	w	ٱللَّهِ	ﲠ	الله	Allah	l-lahi
+8	50:26:5	w	إِلَٰهًا	ﲡ	الاها	a god	ilāhan
+9	50:26:6	w	ءَاخَرَ	ﲢ	اخر	another	ākhara
+9	50:26:7	w	فَأَلۡقِيَاهُ	ﲣ	فالقياه	so throw him	fa-alqiyāhu
+9	50:26:8	w	فِي	ﲤ	في	in(to)	fī
+9	50:26:9	w	ٱلۡعَذَابِ	ﲥ	العذاب	the punishment	l-ʿadhābi
+9	50:26:10	w	ٱلشَّدِيدِ	ﲦ	الشديد	the severe	l-shadīdi
+9	50:26:11	e	٢٦	ﲧ			
+9	50:27:1	w	۞ قَالَ	ﲨ ﲩ	۞ قال	Will say	qāla
+9	50:27:2	w	قَرِينُهُۥ	ﲪ	قرينه	his companion	qarīnuhu
+9	50:27:3	w	رَبَّنَا	ﲫ	ربنا	Our Lord	rabbanā
+9	50:27:4	w	مَآ	ﲬ	ما	not	mā
+9	50:27:5	w	أَطۡغَيۡتُهُۥ	ﲭ	اطغيته	I made him transgress	aṭghaytuhu
+10	50:27:6	w	وَلَٰكِن	ﲮ	ولاكن	but	walākin
+10	50:27:7	w	كَانَ	ﲯ	كان	he was	kāna
+10	50:27:8	w	فِي	ﲰ	في	in	fī
+10	50:27:9	w	ضَلَٰلِۭ	ﲱ	ضلال	error	ḍalālin
+10	50:27:10	w	بَعِيدٖ	ﲲ	بعيد	far	baʿīdin
+10	50:27:11	e	٢٧	ﲳ			
+10	50:28:1	w	قَالَ	ﲴ	قال	He will say	qāla
+10	50:28:2	w	لَا	ﲵ	لا	(Do) not	lā
+10	50:28:3	w	تَخۡتَصِمُواْ	ﲶ	تختصموا	dispute	takhtaṣimū
+10	50:28:4	w	لَدَيَّ	ﲷ	لدي	(in) My presence	ladayya
+10	50:28:5	w	وَقَدۡ	ﲸ	وقد	and indeed	waqad
+10	50:28:6	w	قَدَّمۡتُ	ﲹ	قدمت	I sent forth	qaddamtu
+11	50:28:7	w	إِلَيۡكُم	ﲺ	اليكم	to you	ilaykum
+11	50:28:8	w	بِٱلۡوَعِيدِ	ﲻ	بالوعيد	the Warning	bil-waʿīdi
+11	50:28:9	e	٢٨	ﲼ			
+11	50:29:1	w	مَا	ﲽ	ما	Not	mā
+11	50:29:2	w	يُبَدَّلُ	ﲾ	يبدل	will be changed	yubaddalu
+11	50:29:3	w	ٱلۡقَوۡلُ	ﲿ	القول	the word	l-qawlu
+11	50:29:4	w	لَدَيَّ	ﳀ	لدي	with Me	ladayya
+11	50:29:5	w	وَمَآ	ﳁ	وما	and not	wamā
+11	50:29:6	w	أَنَا۠	ﳂ	انا	I Am	anā
+11	50:29:7	w	بِظَلَّٰمٖ	ﳃ	بظلام	unjust	biẓallāmin
+11	50:29:8	w	لِّلۡعَبِيدِ	ﳄ	للعبيد	to My slaves	lil'ʿabīdi
+11	50:29:9	e	٢٩	ﳅ			
+12	50:30:1	w	يَوۡمَ	ﳆ	يوم	(The) Day	yawma
+12	50:30:2	w	نَقُولُ	ﳇ	نقول	We will say	naqūlu
+12	50:30:3	w	لِجَهَنَّمَ	ﳈ	لجهنم	to Hell	lijahannama
+12	50:30:4	w	هَلِ	ﳉ	هل	Are	hali
+12	50:30:5	w	ٱمۡتَلَأۡتِ	ﳊ	امتلات	you filled	im'talati
+12	50:30:6	w	وَتَقُولُ	ﳋ	وتقول	And it will say	wataqūlu
+12	50:30:7	w	هَلۡ	ﳌ	هل	Are	hal
+12	50:30:8	w	مِن	ﳍ	من	(there) any	min
+12	50:30:9	w	مَّزِيدٖ	ﳎ	مزيد	more	mazīdin
+12	50:30:10	e	٣٠	ﳏ			
+12	50:31:1	w	وَأُزۡلِفَتِ	ﳐ	وازلفت	And will be brought near	wa-uz'lifati
+13	50:31:2	w	ٱلۡجَنَّةُ	ﳑ	الجنة	the Paradise	l-janatu
+13	50:31:3	w	لِلۡمُتَّقِينَ	ﳒ	للمتقين	to the righteous	lil'muttaqīna
+13	50:31:4	w	غَيۡرَ	ﳓ	غير	not	ghayra
+13	50:31:5	w	بَعِيدٍ	ﳔ	بعيد	far	baʿīdin
+13	50:31:6	e	٣١	ﳕ			
+13	50:32:1	w	هَٰذَا	ﳖ	هاذا	This	hādhā
+13	50:32:2	w	مَا	ﳗ	ما	(is) what	mā
+13	50:32:3	w	تُوعَدُونَ	ﳘ	توعدون	you were promised	tūʿadūna
+13	50:32:4	w	لِكُلِّ	ﳙ	لكل	for everyone	likulli
+13	50:32:5	w	أَوَّابٍ	ﳚ	اواب	who turns	awwābin
+13	50:32:6	w	حَفِيظٖ	ﳛ	حفيظ	(and) who keeps	ḥafīẓin
+14	50:32:7	e	٣٢	ﳜ			
+14	50:33:1	w	مَّنۡ	ﳝ	من	Who	man
+14	50:33:2	w	خَشِيَ	ﳞ	خشي	feared	khashiya
+14	50:33:3	w	ٱلرَّحۡمَٰنَ	ﳟ	الرحمان	the Most Gracious	l-raḥmāna
+14	50:33:4	w	بِٱلۡغَيۡبِ	ﳠ	بالغيب	in the unseen	bil-ghaybi
+14	50:33:5	w	وَجَآءَ	ﳡ	وجاء	and came	wajāa
+14	50:33:6	w	بِقَلۡبٖ	ﳢ	بقلب	with a heart	biqalbin
+14	50:33:7	w	مُّنِيبٍ	ﳣ	منيب	returning	munībin
+14	50:33:8	e	٣٣	ﳤ			
+14	50:34:1	w	ٱدۡخُلُوهَا	ﳥ	ادخلوها	Enter it	ud'khulūhā
+15	50:34:2	w	بِسَلَٰمٖۖ	ﳦﳧ	بسلام	in peace	bisalāmin
+15	50:34:3	w	ذَٰلِكَ	ﳨ	ذالك	That	dhālika
+15	50:34:4	w	يَوۡمُ	ﳩ	يوم	(is) a Day	yawmu
+15	50:34:5	w	ٱلۡخُلُودِ	ﳪ	الخلود	(of) Eternity	l-khulūdi
+15	50:34:6	e	٣٤	ﳫ			
+15	50:35:1	w	لَهُم	ﳬ	لهم	For them	lahum
+15	50:35:2	w	مَّا	ﳭ	ما	whatever	mā
+15	50:35:3	w	يَشَآءُونَ	ﳮ	يشاءون	they wish	yashāūna
+15	50:35:4	w	فِيهَا	ﳯ	فيها	therein	fīhā
+15	50:35:5	w	وَلَدَيۡنَا	ﳰ	ولدينا	and with Us	waladaynā
+15	50:35:6	w	مَزِيدٞ	ﳱ	مزيد	(is) more	mazīdun
+15	50:35:7	e	٣٥	ﳲ			

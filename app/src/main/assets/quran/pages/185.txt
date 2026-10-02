@@ -1,0 +1,141 @@
+1	8:62:1	w	وَإِن	ﱁ	وان	But if	wa-in
+1	8:62:2	w	يُرِيدُوٓاْ	ﱂ	يريدوا	they intend	yurīdū
+1	8:62:3	w	أَن	ﱃ	ان	to	an
+1	8:62:4	w	يَخۡدَعُوكَ	ﱄ	يخدعوك	deceive you	yakhdaʿūka
+1	8:62:5	w	فَإِنَّ	ﱅ	فان	then indeed	fa-inna
+1	8:62:6	w	حَسۡبَكَ	ﱆ	حسبك	is sufficient for you	ḥasbaka
+1	8:62:7	w	ٱللَّهُۚ	ﱇﱈ	الله	Allah	l-lahu
+1	8:62:8	w	هُوَ	ﱉ	هو	He	huwa
+1	8:62:9	w	ٱلَّذِيٓ	ﱊ	الذي	(is) the One Who	alladhī
+1	8:62:10	w	أَيَّدَكَ	ﱋ	ايدك	supported you	ayyadaka
+2	8:62:11	w	بِنَصۡرِهِۦ	ﱌ	بنصره	with His help	binaṣrihi
+2	8:62:12	w	وَبِٱلۡمُؤۡمِنِينَ	ﱍ	وبالمومنين	and with the believers	wabil-mu'minīna
+2	8:62:13	e	٦٢	ﱎ			
+2	8:63:1	w	وَأَلَّفَ	ﱏ	والف	And He (has) put affection	wa-allafa
+2	8:63:2	w	بَيۡنَ	ﱐ	بين	between	bayna
+2	8:63:3	w	قُلُوبِهِمۡۚ	ﱑﱒ	قلوبهم	their hearts	qulūbihim
+2	8:63:4	w	لَوۡ	ﱓ	لو	If	law
+2	8:63:5	w	أَنفَقۡتَ	ﱔ	انفقت	you (had) spent	anfaqta
+3	8:63:6	w	مَا	ﱕ	ما	whatever	mā
+3	8:63:7	w	فِي	ﱖ	في	(is) in	fī
+3	8:63:8	w	ٱلۡأَرۡضِ	ﱗ	الارض	the earth	l-arḍi
+3	8:63:9	w	جَمِيعٗا	ﱘ	جميعا	all	jamīʿan
+3	8:63:10	w	مَّآ	ﱙ	ما	not	mā
+3	8:63:11	w	أَلَّفۡتَ	ﱚ	الفت	(could) you (have) put affection	allafta
+3	8:63:12	w	بَيۡنَ	ﱛ	بين	between	bayna
+3	8:63:13	w	قُلُوبِهِمۡ	ﱜ	قلوبهم	their hearts	qulūbihim
+3	8:63:14	w	وَلَٰكِنَّ	ﱝ	ولاكن	but	walākinna
+3	8:63:15	w	ٱللَّهَ	ﱞ	الله	Allah	l-laha
+4	8:63:16	w	أَلَّفَ	ﱟ	الف	(has) put affection	allafa
+4	8:63:17	w	بَيۡنَهُمۡۚ	ﱠﱡ	بينهم	between them	baynahum
+4	8:63:18	w	إِنَّهُۥ	ﱢ	انه	Indeed, He	innahu
+4	8:63:19	w	عَزِيزٌ	ﱣ	عزيز	(is) All-Mighty	ʿazīzun
+4	8:63:20	w	حَكِيمٞ	ﱤ	حكيم	All-Wise	ḥakīmun
+4	8:63:21	e	٦٣	ﱥ			
+4	8:64:1	w	يَٰٓأَيُّهَا	ﱦ	يا ايها	O	yāayyuhā
+4	8:64:2	w	ٱلنَّبِيُّ	ﱧ	النبي	Prophet	l-nabiyu
+4	8:64:3	w	حَسۡبُكَ	ﱨ	حسبك	Sufficient for you	ḥasbuka
+5	8:64:4	w	ٱللَّهُ	ﱩ	الله	(is) Allah	l-lahu
+5	8:64:5	w	وَمَنِ	ﱪ	ومن	and whoever	wamani
+5	8:64:6	w	ٱتَّبَعَكَ	ﱫ	اتبعك	follows you	ittabaʿaka
+5	8:64:7	w	مِنَ	ﱬ	من	of	mina
+5	8:64:8	w	ٱلۡمُؤۡمِنِينَ	ﱭ	المومنين	the believers	l-mu'minīna
+5	8:64:9	e	٦٤	ﱮ			
+5	8:65:1	w	يَٰٓأَيُّهَا	ﱯ	يا ايها	O	yāayyuhā
+5	8:65:2	w	ٱلنَّبِيُّ	ﱰ	النبي	Prophet	l-nabiyu
+5	8:65:3	w	حَرِّضِ	ﱱ	حرض	Urge	ḥarriḍi
+6	8:65:4	w	ٱلۡمُؤۡمِنِينَ	ﱲ	المومنين	the believers	l-mu'minīna
+6	8:65:5	w	عَلَى	ﱳ	على	to	ʿalā
+6	8:65:6	w	ٱلۡقِتَالِۚ	ﱴﱵ	القتال	[the] fight	l-qitāli
+6	8:65:7	w	إِن	ﱶ	ان	If	in
+6	8:65:8	w	يَكُن	ﱷ	يكن	(there) are	yakun
+6	8:65:9	w	مِّنكُمۡ	ﱸ	منكم	among you	minkum
+6	8:65:10	w	عِشۡرُونَ	ﱹ	عشرون	twenty	ʿish'rūna
+6	8:65:11	w	صَٰبِرُونَ	ﱺ	صابرون	steadfast	ṣābirūna
+7	8:65:12	w	يَغۡلِبُواْ	ﱻ	يغلبوا	they will overcome	yaghlibū
+7	8:65:13	w	مِاْئَتَيۡنِۚ	ﱼﱽ	مايتين	two hundred	mi-atayni
+7	8:65:14	w	وَإِن	ﱾ	وان	And if	wa-in
+7	8:65:15	w	يَكُن	ﱿ	يكن	(there) are	yakun
+7	8:65:16	w	مِّنكُم	ﲀ	منكم	among you	minkum
+7	8:65:17	w	مِّاْئَةٞ	ﲁ	ماية	a hundred	mi-atun
+7	8:65:18	w	يَغۡلِبُوٓاْ	ﲂ	يغلبوا	they will overcome	yaghlibū
+7	8:65:19	w	أَلۡفٗا	ﲃ	الفا	a thousand	alfan
+7	8:65:20	w	مِّنَ	ﲄ	من	of	mina
+8	8:65:21	w	ٱلَّذِينَ	ﲅ	الذين	those who	alladhīna
+8	8:65:22	w	كَفَرُواْ	ﲆ	كفروا	disbelieve	kafarū
+8	8:65:23	w	بِأَنَّهُمۡ	ﲇ	بانهم	because they	bi-annahum
+8	8:65:24	w	قَوۡمٞ	ﲈ	قوم	(are) a people	qawmun
+8	8:65:25	w	لَّا	ﲉ	لا	(who do) not	lā
+8	8:65:26	w	يَفۡقَهُونَ	ﲊ	يفقهون	understand	yafqahūna
+8	8:65:27	e	٦٥	ﲋ			
+8	8:66:1	w	ٱلۡـَٰٔنَ	ﲌ	الان	Now	al-āna
+8	8:66:2	w	خَفَّفَ	ﲍ	خفف	has (been) lightened	khaffafa
+9	8:66:3	w	ٱللَّهُ	ﲎ	الله	(by) Allah	l-lahu
+9	8:66:4	w	عَنكُمۡ	ﲏ	عنكم	for you	ʿankum
+9	8:66:5	w	وَعَلِمَ	ﲐ	وعلم	and He knows	waʿalima
+9	8:66:6	w	أَنَّ	ﲑ	ان	that	anna
+9	8:66:7	w	فِيكُمۡ	ﲒ	فيكم	in you	fīkum
+9	8:66:8	w	ضَعۡفٗاۚ	ﲓﲔ	ضعفا	(there) is weakness	ḍaʿfan
+9	8:66:9	w	فَإِن	ﲕ	فان	So if	fa-in
+9	8:66:10	w	يَكُن	ﲖ	يكن	(there) are	yakun
+9	8:66:11	w	مِّنكُم	ﲗ	منكم	among you	minkum
+9	8:66:12	w	مِّاْئَةٞ	ﲘ	ماية	a hundred	mi-atun
+10	8:66:13	w	صَابِرَةٞ	ﲙ	صابرة	steadfast	ṣābiratun
+10	8:66:14	w	يَغۡلِبُواْ	ﲚ	يغلبوا	they will overcome	yaghlibū
+10	8:66:15	w	مِاْئَتَيۡنِۚ	ﲛﲜ	مايتين	two hundred	mi-atayni
+10	8:66:16	w	وَإِن	ﲝ	وان	And if	wa-in
+10	8:66:17	w	يَكُن	ﲞ	يكن	(there) are	yakun
+10	8:66:18	w	مِّنكُمۡ	ﲟ	منكم	among you	minkum
+10	8:66:19	w	أَلۡفٞ	ﲠ	الف	a thousand	alfun
+10	8:66:20	w	يَغۡلِبُوٓاْ	ﲡ	يغلبوا	they will overcome	yaghlibū
+11	8:66:21	w	أَلۡفَيۡنِ	ﲢ	الفين	two thousand	alfayni
+11	8:66:22	w	بِإِذۡنِ	ﲣ	باذن	with (the) permission	bi-idh'ni
+11	8:66:23	w	ٱللَّهِۗ	ﲤﲥ	الله	(of) Allah	l-lahi
+11	8:66:24	w	وَٱللَّهُ	ﲦ	والله	And Allah	wal-lahu
+11	8:66:25	w	مَعَ	ﲧ	مع	(is) with	maʿa
+11	8:66:26	w	ٱلصَّٰبِرِينَ	ﲨ	الصابرين	the steadfast	l-ṣābirīna
+11	8:66:27	e	٦٦	ﲩ			
+11	8:67:1	w	مَا	ﲪ	ما	Not	mā
+11	8:67:2	w	كَانَ	ﲫ	كان	is	kāna
+11	8:67:3	w	لِنَبِيٍّ	ﲬ	لنبي	for a Prophet	linabiyyin
+12	8:67:4	w	أَن	ﲭ	ان	that	an
+12	8:67:5	w	يَكُونَ	ﲮ	يكون	(there) should be	yakūna
+12	8:67:6	w	لَهُۥٓ	ﲯ	له	for him	lahu
+12	8:67:7	w	أَسۡرَىٰ	ﲰ	اسرى	prisoners of war	asrā
+12	8:67:8	w	حَتَّىٰ	ﲱ	حتى	until	ḥattā
+12	8:67:9	w	يُثۡخِنَ	ﲲ	يثخن	he has battled strenuously	yuth'khina
+12	8:67:10	w	فِي	ﲳ	في	in	fī
+12	8:67:11	w	ٱلۡأَرۡضِۚ	ﲴﲵ	الارض	the land	l-arḍi
+12	8:67:12	w	تُرِيدُونَ	ﲶ	تريدون	You desire	turīdūna
+12	8:67:13	w	عَرَضَ	ﲷ	عرض	(the) commodities	ʿaraḍa
+13	8:67:14	w	ٱلدُّنۡيَا	ﲸ	الدنيا	(of) the world	l-dun'yā
+13	8:67:15	w	وَٱللَّهُ	ﲹ	والله	but Allah	wal-lahu
+13	8:67:16	w	يُرِيدُ	ﲺ	يريد	desires	yurīdu
+13	8:67:17	w	ٱلۡأٓخِرَةَۗ	ﲻﲼ	الاخرة	(for you) the Hereafter	l-ākhirata
+13	8:67:18	w	وَٱللَّهُ	ﲽ	والله	And Allah	wal-lahu
+13	8:67:19	w	عَزِيزٌ	ﲾ	عزيز	(is) All-Mighty	ʿazīzun
+13	8:67:20	w	حَكِيمٞ	ﲿ	حكيم	All-Wise	ḥakīmun
+13	8:67:21	e	٦٧	ﳀ			
+13	8:68:1	w	لَّوۡلَا	ﳁ	لولا	Had not	lawlā
+13	8:68:2	w	كِتَٰبٞ	ﳂ	كتاب	an ordainment	kitābun
+14	8:68:3	w	مِّنَ	ﳃ	من	from	mina
+14	8:68:4	w	ٱللَّهِ	ﳄ	الله	Allah	l-lahi
+14	8:68:5	w	سَبَقَ	ﳅ	سبق	preceded	sabaqa
+14	8:68:6	w	لَمَسَّكُمۡ	ﳆ	لمسكم	surely (would) have touched you	lamassakum
+14	8:68:7	w	فِيمَآ	ﳇ	فيما	for what	fīmā
+14	8:68:8	w	أَخَذۡتُمۡ	ﳈ	اخذتم	you took	akhadhtum
+14	8:68:9	w	عَذَابٌ	ﳉ	عذاب	a punishment	ʿadhābun
+14	8:68:10	w	عَظِيمٞ	ﳊ	عظيم	great	ʿaẓīmun
+14	8:68:11	e	٦٨	ﳋ			
+14	8:69:1	w	فَكُلُواْ	ﳌ	فكلوا	So eat	fakulū
+15	8:69:2	w	مِمَّا	ﳍ	مما	from what	mimmā
+15	8:69:3	w	غَنِمۡتُمۡ	ﳎ	غنمتم	you got as war booty	ghanim'tum
+15	8:69:4	w	حَلَٰلٗا	ﳏ	حلالا	lawful	ḥalālan
+15	8:69:5	w	طَيِّبٗاۚ	ﳐﳑ	طيبا	(and) good	ṭayyiban
+15	8:69:6	w	وَٱتَّقُواْ	ﳒ	واتقوا	and fear	wa-ittaqū
+15	8:69:7	w	ٱللَّهَۚ	ﳓﳔ	الله	Allah	l-laha
+15	8:69:8	w	إِنَّ	ﳕ	ان	Indeed	inna
+15	8:69:9	w	ٱللَّهَ	ﳖ	الله	Allah	l-laha
+15	8:69:10	w	غَفُورٞ	ﳗ	غفور	(is) Oft-Forgiving	ghafūrun
+15	8:69:11	w	رَّحِيمٞ	ﳘ	رحيم	Most Merciful	raḥīmun
+15	8:69:12	e	٦٩	ﳙ			

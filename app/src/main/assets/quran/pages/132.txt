@@ -1,0 +1,149 @@
+1	6:36:1	w	۞ إِنَّمَا	ﱁ ﱂ	۞ انما	Only	innamā
+1	6:36:2	w	يَسۡتَجِيبُ	ﱃ	يستجيب	respond	yastajību
+1	6:36:3	w	ٱلَّذِينَ	ﱄ	الذين	those who	alladhīna
+1	6:36:4	w	يَسۡمَعُونَۘ	ﱅﱆ	يسمعون	listen	yasmaʿūna
+1	6:36:5	w	وَٱلۡمَوۡتَىٰ	ﱇ	والموتى	But the dead	wal-mawtā
+1	6:36:6	w	يَبۡعَثُهُمُ	ﱈ	يبعثهم	will resurrect them	yabʿathuhumu
+1	6:36:7	w	ٱللَّهُ	ﱉ	الله	Allah	l-lahu
+1	6:36:8	w	ثُمَّ	ﱊ	ثم	then	thumma
+1	6:36:9	w	إِلَيۡهِ	ﱋ	اليه	to Him	ilayhi
+2	6:36:10	w	يُرۡجَعُونَ	ﱌ	يرجعون	they will be returned	yur'jaʿūna
+2	6:36:11	e	٣٦	ﱍ			
+2	6:37:1	w	وَقَالُواْ	ﱎ	وقالوا	And they said	waqālū
+2	6:37:2	w	لَوۡلَا	ﱏ	لولا	Why (is) not	lawlā
+2	6:37:3	w	نُزِّلَ	ﱐ	نزل	sent down	nuzzila
+2	6:37:4	w	عَلَيۡهِ	ﱑ	عليه	to him	ʿalayhi
+2	6:37:5	w	ءَايَةٞ	ﱒ	اية	a Sign	āyatun
+2	6:37:6	w	مِّن	ﱓ	من	from	min
+2	6:37:7	w	رَّبِّهِۦۚ	ﱔﱕ	ربه	his Lord	rabbihi
+2	6:37:8	w	قُلۡ	ﱖ	قل	Say	qul
+2	6:37:9	w	إِنَّ	ﱗ	ان	Indeed	inna
+2	6:37:10	w	ٱللَّهَ	ﱘ	الله	Allah	l-laha
+3	6:37:11	w	قَادِرٌ	ﱙ	قادر	(is) Able	qādirun
+3	6:37:12	w	عَلَىٰٓ	ﱚ	على	[on]	ʿalā
+3	6:37:13	w	أَن	ﱛ	ان	to	an
+3	6:37:14	w	يُنَزِّلَ	ﱜ	ينزل	send down	yunazzila
+3	6:37:15	w	ءَايَةٗ	ﱝ	اية	a Sign	āyatan
+3	6:37:16	w	وَلَٰكِنَّ	ﱞ	ولاكن	but	walākinna
+3	6:37:17	w	أَكۡثَرَهُمۡ	ﱟ	اكثرهم	most of them	aktharahum
+3	6:37:18	w	لَا	ﱠ	لا	(do) not	lā
+3	6:37:19	w	يَعۡلَمُونَ	ﱡ	يعلمون	know	yaʿlamūna
+3	6:37:20	e	٣٧	ﱢ			
+3	6:38:1	w	وَمَا	ﱣ	وما	And not	wamā
+4	6:38:2	w	مِن	ﱤ	من	[of]	min
+4	6:38:3	w	دَآبَّةٖ	ﱥ	دابة	any animal	dābbatin
+4	6:38:4	w	فِي	ﱦ	في	in	fī
+4	6:38:5	w	ٱلۡأَرۡضِ	ﱧ	الارض	the earth	l-arḍi
+4	6:38:6	w	وَلَا	ﱨ	ولا	and not	walā
+4	6:38:7	w	طَٰٓئِرٖ	ﱩ	طاير	a bird	ṭāirin
+4	6:38:8	w	يَطِيرُ	ﱪ	يطير	(that) flies	yaṭīru
+4	6:38:9	w	بِجَنَاحَيۡهِ	ﱫ	بجناحيه	with its wings	bijanāḥayhi
+4	6:38:10	w	إِلَّآ	ﱬ	الا	but	illā
+4	6:38:11	w	أُمَمٌ	ﱭ	امم	(are) communities	umamun
+4	6:38:12	w	أَمۡثَالُكُمۚ	ﱮﱯ	امثالكم	like you	amthālukum
+5	6:38:13	w	مَّا	ﱰ	ما	Not	mā
+5	6:38:14	w	فَرَّطۡنَا	ﱱ	فرطنا	We have neglected	farraṭnā
+5	6:38:15	w	فِي	ﱲ	في	in	fī
+5	6:38:16	w	ٱلۡكِتَٰبِ	ﱳ	الكتاب	the Book	l-kitābi
+5	6:38:17	w	مِن	ﱴ	من	[of]	min
+5	6:38:18	w	شَيۡءٖۚ	ﱵﱶ	شيء	anything	shayin
+5	6:38:19	w	ثُمَّ	ﱷ	ثم	then	thumma
+5	6:38:20	w	إِلَىٰ	ﱸ	الى	to	ilā
+5	6:38:21	w	رَبِّهِمۡ	ﱹ	ربهم	their Lord	rabbihim
+5	6:38:22	w	يُحۡشَرُونَ	ﱺ	يحشرون	they will be gathered	yuḥ'sharūna
+5	6:38:23	e	٣٨	ﱻ			
+6	6:39:1	w	وَٱلَّذِينَ	ﱼ	والذين	And those who	wa-alladhīna
+6	6:39:2	w	كَذَّبُواْ	ﱽ	كذبوا	rejected	kadhabū
+6	6:39:3	w	بِـَٔايَٰتِنَا	ﱾ	باياتنا	Our Verses	biāyātinā
+6	6:39:4	w	صُمّٞ	ﱿ	صم	(are) deaf	ṣummun
+6	6:39:5	w	وَبُكۡمٞ	ﲀ	وبكم	and dumb	wabuk'mun
+6	6:39:6	w	فِي	ﲁ	في	in	fī
+6	6:39:7	w	ٱلظُّلُمَٰتِۗ	ﲂﲃ	الظلمات	the darkness[es]	l-ẓulumāti
+6	6:39:8	w	مَن	ﲄ	من	Whoever	man
+6	6:39:9	w	يَشَإِ	ﲅ	يشا	wills	yasha-i
+7	6:39:10	w	ٱللَّهُ	ﲆ	الله	Allah	l-lahu
+7	6:39:11	w	يُضۡلِلۡهُ	ﲇ	يضلله	He lets him go astray	yuḍ'lil'hu
+7	6:39:12	w	وَمَن	ﲈ	ومن	and whoever	waman
+7	6:39:13	w	يَشَأۡ	ﲉ	يشا	He wills	yasha
+7	6:39:14	w	يَجۡعَلۡهُ	ﲊ	يجعله	He places him	yajʿalhu
+7	6:39:15	w	عَلَىٰ	ﲋ	على	on	ʿalā
+7	6:39:16	w	صِرَٰطٖ	ﲌ	صراط	(the) way	ṣirāṭin
+7	6:39:17	w	مُّسۡتَقِيمٖ	ﲍ	مستقيم	(the) straight	mus'taqīmin
+7	6:39:18	e	٣٩	ﲎ			
+7	6:40:1	w	قُلۡ	ﲏ	قل	Say	qul
+8	6:40:2	w	أَرَءَيۡتَكُمۡ	ﲐ	ارايتكم	Have you seen	ara-aytakum
+8	6:40:3	w	إِنۡ	ﲑ	ان	if	in
+8	6:40:4	w	أَتَىٰكُمۡ	ﲒ	اتاكم	(there) came to you	atākum
+8	6:40:5	w	عَذَابُ	ﲓ	عذاب	punishment	ʿadhābu
+8	6:40:6	w	ٱللَّهِ	ﲔ	الله	(of) Allah	l-lahi
+8	6:40:7	w	أَوۡ	ﲕ	او	or	aw
+8	6:40:8	w	أَتَتۡكُمُ	ﲖ	اتتكم	(there) came to you	atatkumu
+8	6:40:9	w	ٱلسَّاعَةُ	ﲗ	الساعة	the Hour	l-sāʿatu
+8	6:40:10	w	أَغَيۡرَ	ﲘ	اغير	is it other	aghayra
+8	6:40:11	w	ٱللَّهِ	ﲙ	الله	(than) Allah	l-lahi
+9	6:40:12	w	تَدۡعُونَ	ﲚ	تدعون	you call	tadʿūna
+9	6:40:13	w	إِن	ﲛ	ان	if	in
+9	6:40:14	w	كُنتُمۡ	ﲜ	كنتم	you are	kuntum
+9	6:40:15	w	صَٰدِقِينَ	ﲝ	صادقين	truthful	ṣādiqīna
+9	6:40:16	e	٤٠	ﲞ			
+9	6:41:1	w	بَلۡ	ﲟ	بل	Nay	bal
+9	6:41:2	w	إِيَّاهُ	ﲠ	اياه	Him Alone	iyyāhu
+9	6:41:3	w	تَدۡعُونَ	ﲡ	تدعون	you call	tadʿūna
+9	6:41:4	w	فَيَكۡشِفُ	ﲢ	فيكشف	and He would remove	fayakshifu
+10	6:41:5	w	مَا	ﲣ	ما	what	mā
+10	6:41:6	w	تَدۡعُونَ	ﲤ	تدعون	you call	tadʿūna
+10	6:41:7	w	إِلَيۡهِ	ﲥ	اليه	upon Him	ilayhi
+10	6:41:8	w	إِن	ﲦ	ان	if	in
+10	6:41:9	w	شَآءَ	ﲧ	شاء	He wills	shāa
+10	6:41:10	w	وَتَنسَوۡنَ	ﲨ	وتنسون	and you will forget	watansawna
+10	6:41:11	w	مَا	ﲩ	ما	what	mā
+10	6:41:12	w	تُشۡرِكُونَ	ﲪ	تشركون	you associate (with Him)	tush'rikūna
+10	6:41:13	e	٤١	ﲫ			
+10	6:42:1	w	وَلَقَدۡ	ﲬ	ولقد	And certainly	walaqad
+10	6:42:2	w	أَرۡسَلۡنَآ	ﲭ	ارسلنا	We sent (Messengers)	arsalnā
+11	6:42:3	w	إِلَىٰٓ	ﲮ	الى	to	ilā
+11	6:42:4	w	أُمَمٖ	ﲯ	امم	nations	umamin
+11	6:42:5	w	مِّن	ﲰ	من	from	min
+11	6:42:6	w	قَبۡلِكَ	ﲱ	قبلك	before you	qablika
+11	6:42:7	w	فَأَخَذۡنَٰهُم	ﲲ	فاخذناهم	then We seized them	fa-akhadhnāhum
+11	6:42:8	w	بِٱلۡبَأۡسَآءِ	ﲳ	بالباساء	with adversity	bil-basāi
+11	6:42:9	w	وَٱلضَّرَّآءِ	ﲴ	والضراء	and hardship	wal-ḍarāi
+11	6:42:10	w	لَعَلَّهُمۡ	ﲵ	لعلهم	so that they may	laʿallahum
+12	6:42:11	w	يَتَضَرَّعُونَ	ﲶ	يتضرعون	humble themselves	yataḍarraʿūna
+12	6:42:12	e	٤٢	ﲷ			
+12	6:43:1	w	فَلَوۡلَآ	ﲸ	فلولا	Then why not	falawlā
+12	6:43:2	w	إِذۡ	ﲹ	اذ	when	idh
+12	6:43:3	w	جَآءَهُم	ﲺ	جاءهم	came to them	jāahum
+12	6:43:4	w	بَأۡسُنَا	ﲻ	باسنا	Our punishment	basunā
+12	6:43:5	w	تَضَرَّعُواْ	ﲼ	تضرعوا	they humbled themselves	taḍarraʿū
+12	6:43:6	w	وَلَٰكِن	ﲽ	ولاكن	But	walākin
+12	6:43:7	w	قَسَتۡ	ﲾ	قست	became hardened	qasat
+13	6:43:8	w	قُلُوبُهُمۡ	ﲿ	قلوبهم	their hearts	qulūbuhum
+13	6:43:9	w	وَزَيَّنَ	ﳀ	وزين	and made fair-seeming	wazayyana
+13	6:43:10	w	لَهُمُ	ﳁ	لهم	to them	lahumu
+13	6:43:11	w	ٱلشَّيۡطَٰنُ	ﳂ	الشيطان	the Shaitaan	l-shayṭānu
+13	6:43:12	w	مَا	ﳃ	ما	what	mā
+13	6:43:13	w	كَانُواْ	ﳄ	كانوا	they used to	kānū
+13	6:43:14	w	يَعۡمَلُونَ	ﳅ	يعملون	do	yaʿmalūna
+13	6:43:15	e	٤٣	ﳆ			
+13	6:44:1	w	فَلَمَّا	ﳇ	فلما	So when	falammā
+14	6:44:2	w	نَسُواْ	ﳈ	نسوا	they forgot	nasū
+14	6:44:3	w	مَا	ﳉ	ما	what	mā
+14	6:44:4	w	ذُكِّرُواْ	ﳊ	ذكروا	they were reminded	dhukkirū
+14	6:44:5	w	بِهِۦ	ﳋ	به	of [it]	bihi
+14	6:44:6	w	فَتَحۡنَا	ﳌ	فتحنا	We opened	fataḥnā
+14	6:44:7	w	عَلَيۡهِمۡ	ﳍ	عليهم	on them	ʿalayhim
+14	6:44:8	w	أَبۡوَٰبَ	ﳎ	ابواب	gates	abwāba
+14	6:44:9	w	كُلِّ	ﳏ	كل	(of) every	kulli
+14	6:44:10	w	شَيۡءٍ	ﳐ	شيء	thing	shayin
+14	6:44:11	w	حَتَّىٰٓ	ﳑ	حتى	until	ḥattā
+15	6:44:12	w	إِذَا	ﳒ	اذا	when	idhā
+15	6:44:13	w	فَرِحُواْ	ﳓ	فرحوا	they rejoiced	fariḥū
+15	6:44:14	w	بِمَآ	ﳔ	بما	in what	bimā
+15	6:44:15	w	أُوتُوٓاْ	ﳕ	اوتوا	they were given	ūtū
+15	6:44:16	w	أَخَذۡنَٰهُم	ﳖ	اخذناهم	We seized them	akhadhnāhum
+15	6:44:17	w	بَغۡتَةٗ	ﳗ	بغتة	suddenly	baghtatan
+15	6:44:18	w	فَإِذَا	ﳘ	فاذا	and then	fa-idhā
+15	6:44:19	w	هُم	ﳙ	هم	they	hum
+15	6:44:20	w	مُّبۡلِسُونَ	ﳚ	مبلسون	(were) dumbfounded	mub'lisūna
+15	6:44:21	e	٤٤	ﳛ			

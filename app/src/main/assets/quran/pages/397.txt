@@ -1,0 +1,130 @@
+1	29:7:1	w	وَٱلَّذِينَ	ﱁ	والذين	And those who	wa-alladhīna
+1	29:7:2	w	ءَامَنُواْ	ﱂ	امنوا	believe	āmanū
+1	29:7:3	w	وَعَمِلُواْ	ﱃ	وعملوا	and do	waʿamilū
+1	29:7:4	w	ٱلصَّٰلِحَٰتِ	ﱄ	الصالحات	righteous (deeds)	l-ṣāliḥāti
+1	29:7:5	w	لَنُكَفِّرَنَّ	ﱅ	لنكفرن	surely, We will remove	lanukaffiranna
+1	29:7:6	w	عَنۡهُمۡ	ﱆ	عنهم	from them	ʿanhum
+1	29:7:7	w	سَيِّـَٔاتِهِمۡ	ﱇ	سيياتهم	their evil deeds	sayyiātihim
+2	29:7:8	w	وَلَنَجۡزِيَنَّهُمۡ	ﱈ	ولنجزينهم	and We will surely reward them	walanajziyannahum
+2	29:7:9	w	أَحۡسَنَ	ﱉ	احسن	(the) best	aḥsana
+2	29:7:10	w	ٱلَّذِي	ﱊ	الذي	(of) what	alladhī
+2	29:7:11	w	كَانُواْ	ﱋ	كانوا	they used	kānū
+2	29:7:12	w	يَعۡمَلُونَ	ﱌ	يعملون	(to) do	yaʿmalūna
+2	29:7:13	e	٧	ﱍ			
+2	29:8:1	w	وَوَصَّيۡنَا	ﱎ	ووصينا	And We have enjoined	wawaṣṣaynā
+2	29:8:2	w	ٱلۡإِنسَٰنَ	ﱏ	الانسان	(on) man	l-insāna
+3	29:8:3	w	بِوَٰلِدَيۡهِ	ﱐ	بوالديه	goodness to his parents	biwālidayhi
+3	29:8:4	w	حُسۡنٗاۖ	ﱑﱒ	حسنا	goodness to his parents	ḥus'nan
+3	29:8:5	w	وَإِن	ﱓ	وان	but if	wa-in
+3	29:8:6	w	جَٰهَدَاكَ	ﱔ	جاهداك	they both strive against you	jāhadāka
+3	29:8:7	w	لِتُشۡرِكَ	ﱕ	لتشرك	to make you associate	litush'rika
+3	29:8:8	w	بِي	ﱖ	بي	with Me	bī
+3	29:8:9	w	مَا	ﱗ	ما	what	mā
+3	29:8:10	w	لَيۡسَ	ﱘ	ليس	not	laysa
+3	29:8:11	w	لَكَ	ﱙ	لك	you have	laka
+3	29:8:12	w	بِهِۦ	ﱚ	به	of it	bihi
+3	29:8:13	w	عِلۡمٞ	ﱛ	علم	any knowledge	ʿil'mun
+4	29:8:14	w	فَلَا	ﱜ	فلا	then (do) not	falā
+4	29:8:15	w	تُطِعۡهُمَآۚ	ﱝﱞ	تطعهما	obey both of them	tuṭiʿ'humā
+4	29:8:16	w	إِلَيَّ	ﱟ	الي	To Me	ilayya
+4	29:8:17	w	مَرۡجِعُكُمۡ	ﱠ	مرجعكم	(is) your return	marjiʿukum
+4	29:8:18	w	فَأُنَبِّئُكُم	ﱡ	فانبيكم	and I will inform you	fa-unabbi-ukum
+4	29:8:19	w	بِمَا	ﱢ	بما	about what	bimā
+4	29:8:20	w	كُنتُمۡ	ﱣ	كنتم	you used	kuntum
+4	29:8:21	w	تَعۡمَلُونَ	ﱤ	تعملون	(to) do	taʿmalūna
+4	29:8:22	e	٨	ﱥ			
+5	29:9:1	w	وَٱلَّذِينَ	ﱦ	والذين	And those who	wa-alladhīna
+5	29:9:2	w	ءَامَنُواْ	ﱧ	امنوا	believe	āmanū
+5	29:9:3	w	وَعَمِلُواْ	ﱨ	وعملوا	and do	waʿamilū
+5	29:9:4	w	ٱلصَّٰلِحَٰتِ	ﱩ	الصالحات	righteous deeds	l-ṣāliḥāti
+5	29:9:5	w	لَنُدۡخِلَنَّهُمۡ	ﱪ	لندخلنهم	We will surely admit them	lanud'khilannahum
+5	29:9:6	w	فِي	ﱫ	في	among	fī
+5	29:9:7	w	ٱلصَّٰلِحِينَ	ﱬ	الصالحين	the righteous	l-ṣāliḥīna
+6	29:9:8	e	٩	ﱭ			
+6	29:10:1	w	وَمِنَ	ﱮ	ومن	And of	wamina
+6	29:10:2	w	ٱلنَّاسِ	ﱯ	الناس	the people	l-nāsi
+6	29:10:3	w	مَن	ﱰ	من	(is he) who	man
+6	29:10:4	w	يَقُولُ	ﱱ	يقول	says	yaqūlu
+6	29:10:5	w	ءَامَنَّا	ﱲ	امنا	We believe	āmannā
+6	29:10:6	w	بِٱللَّهِ	ﱳ	بالله	in Allah	bil-lahi
+6	29:10:7	w	فَإِذَآ	ﱴ	فاذا	But when	fa-idhā
+6	29:10:8	w	أُوذِيَ	ﱵ	اوذي	he is harmed	ūdhiya
+6	29:10:9	w	فِي	ﱶ	في	in	fī
+6	29:10:10	w	ٱللَّهِ	ﱷ	الله	(the Way of) Allah	l-lahi
+6	29:10:11	w	جَعَلَ	ﱸ	جعل	he considers	jaʿala
+7	29:10:12	w	فِتۡنَةَ	ﱹ	فتنة	(the) trial	fit'nata
+7	29:10:13	w	ٱلنَّاسِ	ﱺ	الناس	(of) the people	l-nāsi
+7	29:10:14	w	كَعَذَابِ	ﱻ	كعذاب	as (the) punishment	kaʿadhābi
+7	29:10:15	w	ٱللَّهِۖ	ﱼﱽ	الله	(of) Allah	l-lahi
+7	29:10:16	w	وَلَئِن	ﱾ	ولين	But if	wala-in
+7	29:10:17	w	جَآءَ	ﱿ	جاء	comes	jāa
+7	29:10:18	w	نَصۡرٞ	ﲀ	نصر	victory	naṣrun
+7	29:10:19	w	مِّن	ﲁ	من	from	min
+7	29:10:20	w	رَّبِّكَ	ﲂ	ربك	your Lord	rabbika
+7	29:10:21	w	لَيَقُولُنَّ	ﲃ	ليقولن	surely they say	layaqūlunna
+8	29:10:22	w	إِنَّا	ﲄ	انا	Indeed, we	innā
+8	29:10:23	w	كُنَّا	ﲅ	كنا	were	kunnā
+8	29:10:24	w	مَعَكُمۡۚ	ﲆﲇ	معكم	with you	maʿakum
+8	29:10:25	w	أَوَلَيۡسَ	ﲈ	اوليس	Is not	awalaysa
+8	29:10:26	w	ٱللَّهُ	ﲉ	الله	Allah	l-lahu
+8	29:10:27	w	بِأَعۡلَمَ	ﲊ	باعلم	most knowing	bi-aʿlama
+8	29:10:28	w	بِمَا	ﲋ	بما	of what	bimā
+8	29:10:29	w	فِي	ﲌ	في	(is) in	fī
+8	29:10:30	w	صُدُورِ	ﲍ	صدور	(the) breasts	ṣudūri
+8	29:10:31	w	ٱلۡعَٰلَمِينَ	ﲎ	العالمين	(of) the worlds	l-ʿālamīna
+9	29:10:32	e	١٠	ﲏ			
+9	29:11:1	w	وَلَيَعۡلَمَنَّ	ﲐ	وليعلمن	And Allah will surely make evident	walayaʿlamanna
+9	29:11:2	w	ٱللَّهُ	ﲑ	الله	And Allah will surely make evident	l-lahu
+9	29:11:3	w	ٱلَّذِينَ	ﲒ	الذين	those who	alladhīna
+9	29:11:4	w	ءَامَنُواْ	ﲓ	امنوا	believe	āmanū
+9	29:11:5	w	وَلَيَعۡلَمَنَّ	ﲔ	وليعلمن	And He will surely make evident	walayaʿlamanna
+9	29:11:6	w	ٱلۡمُنَٰفِقِينَ	ﲕ	المنافقين	the hypocrites	l-munāfiqīna
+10	29:11:7	e	١١	ﲖ			
+10	29:12:1	w	وَقَالَ	ﲗ	وقال	And said	waqāla
+10	29:12:2	w	ٱلَّذِينَ	ﲘ	الذين	those who	alladhīna
+10	29:12:3	w	كَفَرُواْ	ﲙ	كفروا	disbelieve	kafarū
+10	29:12:4	w	لِلَّذِينَ	ﲚ	للذين	to those who	lilladhīna
+10	29:12:5	w	ءَامَنُواْ	ﲛ	امنوا	believe	āmanū
+10	29:12:6	w	ٱتَّبِعُواْ	ﲜ	اتبعوا	Follow	ittabiʿū
+10	29:12:7	w	سَبِيلَنَا	ﲝ	سبيلنا	our way	sabīlanā
+11	29:12:8	w	وَلۡنَحۡمِلۡ	ﲞ	ولنحمل	and we will carry	walnaḥmil
+11	29:12:9	w	خَطَٰيَٰكُمۡ	ﲟ	خطاياكم	your sins	khaṭāyākum
+11	29:12:10	w	وَمَا	ﲠ	وما	But not	wamā
+11	29:12:11	w	هُم	ﲡ	هم	they	hum
+11	29:12:12	w	بِحَٰمِلِينَ	ﲢ	بحاملين	(are) going to carry	biḥāmilīna
+11	29:12:13	w	مِنۡ	ﲣ	من	of	min
+11	29:12:14	w	خَطَٰيَٰهُم	ﲤ	خطاياهم	their sins	khaṭāyāhum
+11	29:12:15	w	مِّن	ﲥ	من	any	min
+12	29:12:16	w	شَيۡءٍۖ	ﲦﲧ	شيء	thing	shayin
+12	29:12:17	w	إِنَّهُمۡ	ﲨ	انهم	Indeed, they	innahum
+12	29:12:18	w	لَكَٰذِبُونَ	ﲩ	لكاذبون	(are) surely liars	lakādhibūna
+12	29:12:19	e	١٢	ﲪ			
+12	29:13:1	w	وَلَيَحۡمِلُنَّ	ﲫ	وليحملن	But surely they will carry	walayaḥmilunna
+12	29:13:2	w	أَثۡقَالَهُمۡ	ﲬ	اثقالهم	their burdens	athqālahum
+12	29:13:3	w	وَأَثۡقَالٗا	ﲭ	واثقالا	and burdens	wa-athqālan
+12	29:13:4	w	مَّعَ	ﲮ	مع	with	maʿa
+13	29:13:5	w	أَثۡقَالِهِمۡۖ	ﲯﲰ	اثقالهم	their burdens	athqālihim
+13	29:13:6	w	وَلَيُسۡـَٔلُنَّ	ﲱ	وليسالن	and surely they will be questioned	walayus'alunna
+13	29:13:7	w	يَوۡمَ	ﲲ	يوم	(on the) Day	yawma
+13	29:13:8	w	ٱلۡقِيَٰمَةِ	ﲳ	القيامة	(of) the Resurrection	l-qiyāmati
+13	29:13:9	w	عَمَّا	ﲴ	عما	about what	ʿammā
+13	29:13:10	w	كَانُواْ	ﲵ	كانوا	they used	kānū
+13	29:13:11	w	يَفۡتَرُونَ	ﲶ	يفترون	(to) invent	yaftarūna
+14	29:13:12	e	١٣	ﲷ			
+14	29:14:1	w	وَلَقَدۡ	ﲸ	ولقد	And verily	walaqad
+14	29:14:2	w	أَرۡسَلۡنَا	ﲹ	ارسلنا	We sent	arsalnā
+14	29:14:3	w	نُوحًا	ﲺ	نوحا	Nuh	nūḥan
+14	29:14:4	w	إِلَىٰ	ﲻ	الى	to	ilā
+14	29:14:5	w	قَوۡمِهِۦ	ﲼ	قومه	his people	qawmihi
+14	29:14:6	w	فَلَبِثَ	ﲽ	فلبث	and he remained	falabitha
+14	29:14:7	w	فِيهِمۡ	ﲾ	فيهم	among them	fīhim
+14	29:14:8	w	أَلۡفَ	ﲿ	الف	a thousand	alfa
+14	29:14:9	w	سَنَةٍ	ﳀ	سنة	year(s)	sanatin
+15	29:14:10	w	إِلَّا	ﳁ	الا	save	illā
+15	29:14:11	w	خَمۡسِينَ	ﳂ	خمسين	fifty	khamsīna
+15	29:14:12	w	عَامٗا	ﳃ	عاما	year(s)	ʿāman
+15	29:14:13	w	فَأَخَذَهُمُ	ﳄ	فاخذهم	then seized them	fa-akhadhahumu
+15	29:14:14	w	ٱلطُّوفَانُ	ﳅ	الطوفان	the flood	l-ṭūfānu
+15	29:14:15	w	وَهُمۡ	ﳆ	وهم	while they	wahum
+15	29:14:16	w	ظَٰلِمُونَ	ﳇ	ظالمون	(were) wrongdoers	ẓālimūna
+15	29:14:17	e	١٤	ﳈ			

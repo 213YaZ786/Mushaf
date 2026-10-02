@@ -1,0 +1,161 @@
+1	37:77:1	w	وَجَعَلۡنَا	ﱁ	وجعلنا	And We made	wajaʿalnā
+1	37:77:2	w	ذُرِّيَّتَهُۥ	ﱂ	ذريته	his offspring	dhurriyyatahu
+1	37:77:3	w	هُمُ	ﱃ	هم	[they]	humu
+1	37:77:4	w	ٱلۡبَاقِينَ	ﱄ	الباقين	the survivors	l-bāqīna
+1	37:77:5	e	٧٧	ﱅ			
+1	37:78:1	w	وَتَرَكۡنَا	ﱆ	وتركنا	And We left	wataraknā
+1	37:78:2	w	عَلَيۡهِ	ﱇ	عليه	for him	ʿalayhi
+1	37:78:3	w	فِي	ﱈ	في	among	fī
+1	37:78:4	w	ٱلۡأٓخِرِينَ	ﱉ	الاخرين	the later generations	l-ākhirīna
+1	37:78:5	e	٧٨	ﱊ			
+1	37:79:1	w	سَلَٰمٌ	ﱋ	سلام	Peace be	salāmun
+2	37:79:2	w	عَلَىٰ	ﱌ	على	upon	ʿalā
+2	37:79:3	w	نُوحٖ	ﱍ	نوح	Nuh	nūḥin
+2	37:79:4	w	فِي	ﱎ	في	among	fī
+2	37:79:5	w	ٱلۡعَٰلَمِينَ	ﱏ	العالمين	the worlds	l-ʿālamīna
+2	37:79:6	e	٧٩	ﱐ			
+2	37:80:1	w	إِنَّا	ﱑ	انا	Indeed, We	innā
+2	37:80:2	w	كَذَٰلِكَ	ﱒ	كذالك	thus	kadhālika
+2	37:80:3	w	نَجۡزِي	ﱓ	نجزي	[We] reward	najzī
+2	37:80:4	w	ٱلۡمُحۡسِنِينَ	ﱔ	المحسنين	the good-doers	l-muḥ'sinīna
+2	37:80:5	e	٨٠	ﱕ			
+2	37:81:1	w	إِنَّهُۥ	ﱖ	انه	Indeed, he	innahu
+3	37:81:2	w	مِنۡ	ﱗ	من	(was) of	min
+3	37:81:3	w	عِبَادِنَا	ﱘ	عبادنا	Our slaves	ʿibādinā
+3	37:81:4	w	ٱلۡمُؤۡمِنِينَ	ﱙ	المومنين	believing	l-mu'minīna
+3	37:81:5	e	٨١	ﱚ			
+3	37:82:1	w	ثُمَّ	ﱛ	ثم	Then	thumma
+3	37:82:2	w	أَغۡرَقۡنَا	ﱜ	اغرقنا	We drowned	aghraqnā
+3	37:82:3	w	ٱلۡأٓخَرِينَ	ﱝ	الاخرين	the others	l-ākharīna
+3	37:82:4	e	٨٢	ﱞ			
+3	37:83:1	w	۞ وَإِنَّ	ﱟ ﱠ	۞ وان	And indeed	wa-inna
+3	37:83:2	w	مِن	ﱡ	من	among	min
+4	37:83:3	w	شِيعَتِهِۦ	ﱢ	شيعته	his kind	shīʿatihi
+4	37:83:4	w	لَإِبۡرَٰهِيمَ	ﱣ	لابراهيم	(was) surely Ibrahim	la-ib'rāhīma
+4	37:83:5	e	٨٣	ﱤ			
+4	37:84:1	w	إِذۡ	ﱥ	اذ	When	idh
+4	37:84:2	w	جَآءَ	ﱦ	جاء	he came	jāa
+4	37:84:3	w	رَبَّهُۥ	ﱧ	ربه	(to) his Lord	rabbahu
+4	37:84:4	w	بِقَلۡبٖ	ﱨ	بقلب	with a heart	biqalbin
+4	37:84:5	w	سَلِيمٍ	ﱩ	سليم	sound	salīmin
+4	37:84:6	e	٨٤	ﱪ			
+4	37:85:1	w	إِذۡ	ﱫ	اذ	When	idh
+4	37:85:2	w	قَالَ	ﱬ	قال	he said	qāla
+5	37:85:3	w	لِأَبِيهِ	ﱭ	لابيه	to his father	li-abīhi
+5	37:85:4	w	وَقَوۡمِهِۦ	ﱮ	وقومه	and his people	waqawmihi
+5	37:85:5	w	مَاذَا	ﱯ	ماذا	What is it	mādhā
+5	37:85:6	w	تَعۡبُدُونَ	ﱰ	تعبدون	you worship	taʿbudūna
+5	37:85:7	e	٨٥	ﱱ			
+5	37:86:1	w	أَئِفۡكًا	ﱲ	ايفكا	Is it falsehood	a-if'kan
+5	37:86:2	w	ءَالِهَةٗ	ﱳ	الهة	gods	ālihatan
+5	37:86:3	w	دُونَ	ﱴ	دون	other than	dūna
+5	37:86:4	w	ٱللَّهِ	ﱵ	الله	Allah	l-lahi
+5	37:86:5	w	تُرِيدُونَ	ﱶ	تريدون	(that) you desire	turīdūna
+6	37:86:6	e	٨٦	ﱷ			
+6	37:87:1	w	فَمَا	ﱸ	فما	Then what	famā
+6	37:87:2	w	ظَنُّكُم	ﱹ	ظنكم	(do) you think	ẓannukum
+6	37:87:3	w	بِرَبِّ	ﱺ	برب	about (the) Lord	birabbi
+6	37:87:4	w	ٱلۡعَٰلَمِينَ	ﱻ	العالمين	(of) the worlds	l-ʿālamīna
+6	37:87:5	e	٨٧	ﱼ			
+6	37:88:1	w	فَنَظَرَ	ﱽ	فنظر	Then he glanced	fanaẓara
+6	37:88:2	w	نَظۡرَةٗ	ﱾ	نظرة	a glance	naẓratan
+6	37:88:3	w	فِي	ﱿ	في	at	fī
+6	37:88:4	w	ٱلنُّجُومِ	ﲀ	النجوم	the stars	l-nujūmi
+6	37:88:5	e	٨٨	ﲁ			
+7	37:89:1	w	فَقَالَ	ﲂ	فقال	And he said	faqāla
+7	37:89:2	w	إِنِّي	ﲃ	اني	Indeed, I am	innī
+7	37:89:3	w	سَقِيمٞ	ﲄ	سقيم	sick	saqīmun
+7	37:89:4	e	٨٩	ﲅ			
+7	37:90:1	w	فَتَوَلَّوۡاْ	ﲆ	فتولوا	So they turned away	fatawallaw
+7	37:90:2	w	عَنۡهُ	ﲇ	عنه	from him	ʿanhu
+7	37:90:3	w	مُدۡبِرِينَ	ﲈ	مدبرين	departing	mud'birīna
+7	37:90:4	e	٩٠	ﲉ			
+7	37:91:1	w	فَرَاغَ	ﲊ	فراغ	Then he turned	farāgha
+7	37:91:2	w	إِلَىٰٓ	ﲋ	الى	to	ilā
+7	37:91:3	w	ءَالِهَتِهِمۡ	ﲌ	الهتهم	their gods	ālihatihim
+8	37:91:4	w	فَقَالَ	ﲍ	فقال	and said	faqāla
+8	37:91:5	w	أَلَا	ﲎ	الا	Do not	alā
+8	37:91:6	w	تَأۡكُلُونَ	ﲏ	تاكلون	you eat	takulūna
+8	37:91:7	e	٩١	ﲐ			
+8	37:92:1	w	مَا	ﲑ	ما	What (is)	mā
+8	37:92:2	w	لَكُمۡ	ﲒ	لكم	for you	lakum
+8	37:92:3	w	لَا	ﲓ	لا	not	lā
+8	37:92:4	w	تَنطِقُونَ	ﲔ	تنطقون	you speak	tanṭiqūna
+8	37:92:5	e	٩٢	ﲕ			
+8	37:93:1	w	فَرَاغَ	ﲖ	فراغ	Then he turned	farāgha
+8	37:93:2	w	عَلَيۡهِمۡ	ﲗ	عليهم	upon them	ʿalayhim
+8	37:93:3	w	ضَرۡبَۢا	ﲘ	ضربا	striking	ḍarban
+9	37:93:4	w	بِٱلۡيَمِينِ	ﲙ	باليمين	with the right hand	bil-yamīni
+9	37:93:5	e	٩٣	ﲚ			
+9	37:94:1	w	فَأَقۡبَلُوٓاْ	ﲛ	فاقبلوا	Then they advanced	fa-aqbalū
+9	37:94:2	w	إِلَيۡهِ	ﲜ	اليه	towards him	ilayhi
+9	37:94:3	w	يَزِفُّونَ	ﲝ	يزفون	hastening	yaziffūna
+9	37:94:4	e	٩٤	ﲞ			
+9	37:95:1	w	قَالَ	ﲟ	قال	He said	qāla
+9	37:95:2	w	أَتَعۡبُدُونَ	ﲠ	اتعبدون	Do you worship	ataʿbudūna
+9	37:95:3	w	مَا	ﲡ	ما	what	mā
+9	37:95:4	w	تَنۡحِتُونَ	ﲢ	تنحتون	you carve	tanḥitūna
+10	37:95:5	e	٩٥	ﲣ			
+10	37:96:1	w	وَٱللَّهُ	ﲤ	والله	While Allah	wal-lahu
+10	37:96:2	w	خَلَقَكُمۡ	ﲥ	خلقكم	created you	khalaqakum
+10	37:96:3	w	وَمَا	ﲦ	وما	and what	wamā
+10	37:96:4	w	تَعۡمَلُونَ	ﲧ	تعملون	you make	taʿmalūna
+10	37:96:5	e	٩٦	ﲨ			
+10	37:97:1	w	قَالُواْ	ﲩ	قالوا	They said	qālū
+10	37:97:2	w	ٱبۡنُواْ	ﲪ	ابنوا	Build	ib'nū
+10	37:97:3	w	لَهُۥ	ﲫ	له	for him	lahu
+10	37:97:4	w	بُنۡيَٰنٗا	ﲬ	بنيانا	a structure	bun'yānan
+10	37:97:5	w	فَأَلۡقُوهُ	ﲭ	فالقوه	and throw him	fa-alqūhu
+11	37:97:6	w	فِي	ﲮ	في	into	fī
+11	37:97:7	w	ٱلۡجَحِيمِ	ﲯ	الجحيم	the blazing Fire	l-jaḥīmi
+11	37:97:8	e	٩٧	ﲰ			
+11	37:98:1	w	فَأَرَادُواْ	ﲱ	فارادوا	And they intended	fa-arādū
+11	37:98:2	w	بِهِۦ	ﲲ	به	for him	bihi
+11	37:98:3	w	كَيۡدٗا	ﲳ	كيدا	a plot	kaydan
+11	37:98:4	w	فَجَعَلۡنَٰهُمُ	ﲴ	فجعلناهم	but We made them	fajaʿalnāhumu
+11	37:98:5	w	ٱلۡأَسۡفَلِينَ	ﲵ	الاسفلين	the lowest	l-asfalīna
+11	37:98:6	e	٩٨	ﲶ			
+12	37:99:1	w	وَقَالَ	ﲷ	وقال	And he said	waqāla
+12	37:99:2	w	إِنِّي	ﲸ	اني	Indeed, I am	innī
+12	37:99:3	w	ذَاهِبٌ	ﲹ	ذاهب	going	dhāhibun
+12	37:99:4	w	إِلَىٰ	ﲺ	الى	to	ilā
+12	37:99:5	w	رَبِّي	ﲻ	ربي	my Lord	rabbī
+12	37:99:6	w	سَيَهۡدِينِ	ﲼ	سيهدين	He will guide me	sayahdīni
+12	37:99:7	e	٩٩	ﲽ			
+12	37:100:1	w	رَبِّ	ﲾ	رب	My Lord	rabbi
+12	37:100:2	w	هَبۡ	ﲿ	هب	grant	hab
+12	37:100:3	w	لِي	ﳀ	لي	me	lī
+12	37:100:4	w	مِنَ	ﳁ	من	of	mina
+12	37:100:5	w	ٱلصَّٰلِحِينَ	ﳂ	الصالحين	the righteous	l-ṣāliḥīna
+13	37:100:6	e	١٠٠	ﳃ			
+13	37:101:1	w	فَبَشَّرۡنَٰهُ	ﳄ	فبشرناه	So We gave him the glad tidings	fabasharnāhu
+13	37:101:2	w	بِغُلَٰمٍ	ﳅ	بغلام	of a boy	bighulāmin
+13	37:101:3	w	حَلِيمٖ	ﳆ	حليم	forbearing	ḥalīmin
+13	37:101:4	e	١٠١	ﳇ			
+13	37:102:1	w	فَلَمَّا	ﳈ	فلما	Then when	falammā
+13	37:102:2	w	بَلَغَ	ﳉ	بلغ	he reached	balagha
+13	37:102:3	w	مَعَهُ	ﳊ	معه	the (age of) working with him	maʿahu
+13	37:102:4	w	ٱلسَّعۡيَ	ﳋ	السعي	the (age of) working with him	l-saʿya
+13	37:102:5	w	قَالَ	ﳌ	قال	he said	qāla
+13	37:102:6	w	يَٰبُنَيَّ	ﳍ	يا بني	O my son	yābunayya
+14	37:102:7	w	إِنِّيٓ	ﳎ	اني	Indeed, I	innī
+14	37:102:8	w	أَرَىٰ	ﳏ	ارى	have seen	arā
+14	37:102:9	w	فِي	ﳐ	في	in	fī
+14	37:102:10	w	ٱلۡمَنَامِ	ﳑ	المنام	the dream	l-manāmi
+14	37:102:11	w	أَنِّيٓ	ﳒ	اني	that I am	annī
+14	37:102:12	w	أَذۡبَحُكَ	ﳓ	اذبحك	sacrificing you	adhbaḥuka
+14	37:102:13	w	فَٱنظُرۡ	ﳔ	فانظر	so look	fa-unẓur
+14	37:102:14	w	مَاذَا	ﳕ	ماذا	what	mādhā
+14	37:102:15	w	تَرَىٰۚ	ﳖﳗ	ترى	you see	tarā
+14	37:102:16	w	قَالَ	ﳘ	قال	He said	qāla
+14	37:102:17	w	يَٰٓأَبَتِ	ﳙ	يا ابت	O my father	yāabati
+15	37:102:18	w	ٱفۡعَلۡ	ﳚ	افعل	Do	if'ʿal
+15	37:102:19	w	مَا	ﳛ	ما	what	mā
+15	37:102:20	w	تُؤۡمَرُۖ	ﳜﳝ	تومر	you are commanded	tu'maru
+15	37:102:21	w	سَتَجِدُنِيٓ	ﳞ	ستجدني	You will find me	satajidunī
+15	37:102:22	w	إِن	ﳟ	ان	if	in
+15	37:102:23	w	شَآءَ	ﳠ	شاء	Allah wills	shāa
+15	37:102:24	w	ٱللَّهُ	ﳡ	الله	Allah wills	l-lahu
+15	37:102:25	w	مِنَ	ﳢ	من	of	mina
+15	37:102:26	w	ٱلصَّٰبِرِينَ	ﳣ	الصابرين	the patient ones	l-ṣābirīna
+15	37:102:27	e	١٠٢	ﳤ			

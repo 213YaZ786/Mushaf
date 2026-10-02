@@ -1,0 +1,132 @@
+1	27:56:1	w	۞ فَمَا	ﱁ ﱂ	۞ فما	But not	famā
+1	27:56:2	w	كَانَ	ﱃ	كان	was	kāna
+1	27:56:3	w	جَوَابَ	ﱄ	جواب	(the) answer	jawāba
+1	27:56:4	w	قَوۡمِهِۦٓ	ﱅ	قومه	(of) his people	qawmihi
+1	27:56:5	w	إِلَّآ	ﱆ	الا	except	illā
+1	27:56:6	w	أَن	ﱇ	ان	that	an
+1	27:56:7	w	قَالُوٓاْ	ﱈ	قالوا	they said	qālū
+1	27:56:8	w	أَخۡرِجُوٓاْ	ﱉ	اخرجوا	Drive out	akhrijū
+1	27:56:9	w	ءَالَ	ﱊ	ال	(the) family	āla
+2	27:56:10	w	لُوطٖ	ﱋ	لوط	(of) Lut	lūṭin
+2	27:56:11	w	مِّن	ﱌ	من	from	min
+2	27:56:12	w	قَرۡيَتِكُمۡۖ	ﱍﱎ	قريتكم	your town	qaryatikum
+2	27:56:13	w	إِنَّهُمۡ	ﱏ	انهم	Indeed, they	innahum
+2	27:56:14	w	أُنَاسٞ	ﱐ	اناس	(are) people	unāsun
+2	27:56:15	w	يَتَطَهَّرُونَ	ﱑ	يتطهرون	who keep clean and pure	yataṭahharūna
+2	27:56:16	e	٥٦	ﱒ			
+2	27:57:1	w	فَأَنجَيۡنَٰهُ	ﱓ	فانجيناه	So We saved him	fa-anjaynāhu
+3	27:57:2	w	وَأَهۡلَهُۥٓ	ﱔ	واهله	and his family	wa-ahlahu
+3	27:57:3	w	إِلَّا	ﱕ	الا	except	illā
+3	27:57:4	w	ٱمۡرَأَتَهُۥ	ﱖ	امراته	his wife	im'ra-atahu
+3	27:57:5	w	قَدَّرۡنَٰهَا	ﱗ	قدرناها	We destined her	qaddarnāhā
+3	27:57:6	w	مِنَ	ﱘ	من	(to be) of	mina
+3	27:57:7	w	ٱلۡغَٰبِرِينَ	ﱙ	الغابرين	those who remained behind	l-ghābirīna
+3	27:57:8	e	٥٧	ﱚ			
+3	27:58:1	w	وَأَمۡطَرۡنَا	ﱛ	وامطرنا	And We rained	wa-amṭarnā
+4	27:58:2	w	عَلَيۡهِم	ﱜ	عليهم	upon them	ʿalayhim
+4	27:58:3	w	مَّطَرٗاۖ	ﱝﱞ	مطرا	a rain	maṭaran
+4	27:58:4	w	فَسَآءَ	ﱟ	فساء	and was evil	fasāa
+4	27:58:5	w	مَطَرُ	ﱠ	مطر	(the) rain	maṭaru
+4	27:58:6	w	ٱلۡمُنذَرِينَ	ﱡ	المنذرين	(on) those who were warned	l-mundharīna
+4	27:58:7	e	٥٨	ﱢ			
+4	27:59:1	w	قُلِ	ﱣ	قل	Say	quli
+4	27:59:2	w	ٱلۡحَمۡدُ	ﱤ	الحمد	All praise (be)	l-ḥamdu
+4	27:59:3	w	لِلَّهِ	ﱥ	لله	to Allah	lillahi
+5	27:59:4	w	وَسَلَٰمٌ	ﱦ	وسلام	and peace (be)	wasalāmun
+5	27:59:5	w	عَلَىٰ	ﱧ	على	upon	ʿalā
+5	27:59:6	w	عِبَادِهِ	ﱨ	عباده	His slaves	ʿibādihi
+5	27:59:7	w	ٱلَّذِينَ	ﱩ	الذين	those whom	alladhīna
+5	27:59:8	w	ٱصۡطَفَىٰٓۗ	ﱪﱫ	اصطفى	He has chosen	iṣ'ṭafā
+5	27:59:9	w	ءَآللَّهُ	ﱬ	الله	Is Allah	āllahu
+5	27:59:10	w	خَيۡرٌ	ﱭ	خير	better	khayrun
+5	27:59:11	w	أَمَّا	ﱮ	اما	or what	ammā
+5	27:59:12	w	يُشۡرِكُونَ	ﱯ	يشركون	they associate (with Him)	yush'rikūna
+6	27:59:13	e	٥٩	ﱰ			
+6	27:60:1	w	أَمَّنۡ	ﱱ	امن	Or Who	amman
+6	27:60:2	w	خَلَقَ	ﱲ	خلق	has created	khalaqa
+6	27:60:3	w	ٱلسَّمَٰوَٰتِ	ﱳ	السماوات	the heavens	l-samāwāti
+6	27:60:4	w	وَٱلۡأَرۡضَ	ﱴ	والارض	and the earth	wal-arḍa
+6	27:60:5	w	وَأَنزَلَ	ﱵ	وانزل	and sent down	wa-anzala
+6	27:60:6	w	لَكُم	ﱶ	لكم	for you	lakum
+6	27:60:7	w	مِّنَ	ﱷ	من	from	mina
+6	27:60:8	w	ٱلسَّمَآءِ	ﱸ	السماء	the sky	l-samāi
+7	27:60:9	w	مَآءٗ	ﱹ	ماء	water	māan
+7	27:60:10	w	فَأَنۢبَتۡنَا	ﱺ	فانبتنا	And We caused to grow	fa-anbatnā
+7	27:60:11	w	بِهِۦ	ﱻ	به	thereby	bihi
+7	27:60:12	w	حَدَآئِقَ	ﱼ	حدايق	gardens	ḥadāiqa
+7	27:60:13	w	ذَاتَ	ﱽ	ذات	of beauty (and delight)	dhāta
+7	27:60:14	w	بَهۡجَةٖ	ﱾ	بهجة	of beauty (and delight)	bahjatin
+7	27:60:15	w	مَّا	ﱿ	ما	not	mā
+7	27:60:16	w	كَانَ	ﲀ	كان	it is	kāna
+7	27:60:17	w	لَكُمۡ	ﲁ	لكم	for you	lakum
+7	27:60:18	w	أَن	ﲂ	ان	that	an
+8	27:60:19	w	تُنۢبِتُواْ	ﲃ	تنبتوا	you cause to grow	tunbitū
+8	27:60:20	w	شَجَرَهَآۗ	ﲄﲅ	شجرها	their trees	shajarahā
+8	27:60:21	w	أَءِلَٰهٞ	ﲆ	االاه	Is there any god	a-ilāhun
+8	27:60:22	w	مَّعَ	ﲇ	مع	with	maʿa
+8	27:60:23	w	ٱللَّهِۚ	ﲈﲉ	الله	Allah	l-lahi
+8	27:60:24	w	بَلۡ	ﲊ	بل	Nay	bal
+8	27:60:25	w	هُمۡ	ﲋ	هم	they	hum
+8	27:60:26	w	قَوۡمٞ	ﲌ	قوم	(are) a people	qawmun
+8	27:60:27	w	يَعۡدِلُونَ	ﲍ	يعدلون	who ascribe equals	yaʿdilūna
+8	27:60:28	e	٦٠	ﲎ			
+9	27:61:1	w	أَمَّن	ﲏ	امن	Or Who	amman
+9	27:61:2	w	جَعَلَ	ﲐ	جعل	made	jaʿala
+9	27:61:3	w	ٱلۡأَرۡضَ	ﲑ	الارض	the earth	l-arḍa
+9	27:61:4	w	قَرَارٗا	ﲒ	قرارا	a firm abode	qarāran
+9	27:61:5	w	وَجَعَلَ	ﲓ	وجعل	and made	wajaʿala
+9	27:61:6	w	خِلَٰلَهَآ	ﲔ	خلالها	(in) its midst	khilālahā
+9	27:61:7	w	أَنۡهَٰرٗا	ﲕ	انهارا	rivers	anhāran
+9	27:61:8	w	وَجَعَلَ	ﲖ	وجعل	and made	wajaʿala
+10	27:61:9	w	لَهَا	ﲗ	لها	for it	lahā
+10	27:61:10	w	رَوَٰسِيَ	ﲘ	رواسي	firm mountains	rawāsiya
+10	27:61:11	w	وَجَعَلَ	ﲙ	وجعل	and made	wajaʿala
+10	27:61:12	w	بَيۡنَ	ﲚ	بين	between	bayna
+10	27:61:13	w	ٱلۡبَحۡرَيۡنِ	ﲛ	البحرين	the two seas	l-baḥrayni
+10	27:61:14	w	حَاجِزًاۗ	ﲜﲝ	حاجزا	a barrier	ḥājizan
+10	27:61:15	w	أَءِلَٰهٞ	ﲞ	االاه	Is there any god	a-ilāhun
+10	27:61:16	w	مَّعَ	ﲟ	مع	with	maʿa
+10	27:61:17	w	ٱللَّهِۚ	ﲠﲡ	الله	Allah	l-lahi
+11	27:61:18	w	بَلۡ	ﲢ	بل	Nay	bal
+11	27:61:19	w	أَكۡثَرُهُمۡ	ﲣ	اكثرهم	most of them	aktharuhum
+11	27:61:20	w	لَا	ﲤ	لا	(do) not	lā
+11	27:61:21	w	يَعۡلَمُونَ	ﲥ	يعلمون	know	yaʿlamūna
+11	27:61:22	e	٦١	ﲦ			
+11	27:62:1	w	أَمَّن	ﲧ	امن	Or Who	amman
+11	27:62:2	w	يُجِيبُ	ﲨ	يجيب	responds	yujību
+11	27:62:3	w	ٱلۡمُضۡطَرَّ	ﲩ	المضطر	(to) the distressed one	l-muḍ'ṭara
+11	27:62:4	w	إِذَا	ﲪ	اذا	when	idhā
+12	27:62:5	w	دَعَاهُ	ﲫ	دعاه	he calls Him	daʿāhu
+12	27:62:6	w	وَيَكۡشِفُ	ﲬ	ويكشف	and He removes	wayakshifu
+12	27:62:7	w	ٱلسُّوٓءَ	ﲭ	السوء	the evil	l-sūa
+12	27:62:8	w	وَيَجۡعَلُكُمۡ	ﲮ	ويجعلكم	and makes you	wayajʿalukum
+12	27:62:9	w	خُلَفَآءَ	ﲯ	خلفاء	inheritors	khulafāa
+12	27:62:10	w	ٱلۡأَرۡضِۗ	ﲰﲱ	الارض	(of) the earth	l-arḍi
+13	27:62:11	w	أَءِلَٰهٞ	ﲲ	االاه	Is there any god	a-ilāhun
+13	27:62:12	w	مَّعَ	ﲳ	مع	with	maʿa
+13	27:62:13	w	ٱللَّهِۚ	ﲴﲵ	الله	Allah	l-lahi
+13	27:62:14	w	قَلِيلٗا	ﲶ	قليلا	Little	qalīlan
+13	27:62:15	w	مَّا	ﲷ	ما	(is) what	mā
+13	27:62:16	w	تَذَكَّرُونَ	ﲸ	تذكرون	you remember	tadhakkarūna
+13	27:62:17	e	٦٢	ﲹ			
+13	27:63:1	w	أَمَّن	ﲺ	امن	Or Who	amman
+13	27:63:2	w	يَهۡدِيكُمۡ	ﲻ	يهديكم	guides you	yahdīkum
+13	27:63:3	w	فِي	ﲼ	في	in	fī
+14	27:63:4	w	ظُلُمَٰتِ	ﲽ	ظلمات	(the) darkness[es]	ẓulumāti
+14	27:63:5	w	ٱلۡبَرِّ	ﲾ	البر	(of) the land	l-bari
+14	27:63:6	w	وَٱلۡبَحۡرِ	ﲿ	والبحر	and the sea	wal-baḥri
+14	27:63:7	w	وَمَن	ﳀ	ومن	and Who	waman
+14	27:63:8	w	يُرۡسِلُ	ﳁ	يرسل	sends	yur'silu
+14	27:63:9	w	ٱلرِّيَٰحَ	ﳂ	الرياح	the winds	l-riyāḥa
+14	27:63:10	w	بُشۡرَۢا	ﳃ	بشرا	(as) glad tidings	bush'ran
+14	27:63:11	w	بَيۡنَ	ﳄ	بين	before	bayna
+14	27:63:12	w	يَدَيۡ	ﳅ	يدي	before	yaday
+15	27:63:13	w	رَحۡمَتِهِۦٓۗ	ﳆﳇ	رحمته	His Mercy	raḥmatihi
+15	27:63:14	w	أَءِلَٰهٞ	ﳈ	االاه	Is there any god	a-ilāhun
+15	27:63:15	w	مَّعَ	ﳉ	مع	with	maʿa
+15	27:63:16	w	ٱللَّهِۚ	ﳊﳋ	الله	Allah	l-lahi
+15	27:63:17	w	تَعَٰلَى	ﳌ	تعالى	High is	taʿālā
+15	27:63:18	w	ٱللَّهُ	ﳍ	الله	Allah	l-lahu
+15	27:63:19	w	عَمَّا	ﳎ	عما	above what	ʿammā
+15	27:63:20	w	يُشۡرِكُونَ	ﳏ	يشركون	they associate (with Him)	yush'rikūna
+15	27:63:21	e	٦٣	ﳐ			

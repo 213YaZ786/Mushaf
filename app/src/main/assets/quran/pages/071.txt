@@ -1,0 +1,150 @@
+1	3:158:1	w	وَلَئِن	ﱁ	ولين	And if	wala-in
+1	3:158:2	w	مُّتُّمۡ	ﱂ	متم	you die	muttum
+1	3:158:3	w	أَوۡ	ﱃ	او	or	aw
+1	3:158:4	w	قُتِلۡتُمۡ	ﱄ	قتلتم	are killed	qutil'tum
+1	3:158:5	w	لَإِلَى	ﱅ	لالى	surely to	la-ilā
+1	3:158:6	w	ٱللَّهِ	ﱆ	الله	Allah	l-lahi
+1	3:158:7	w	تُحۡشَرُونَ	ﱇ	تحشرون	you will be gathered	tuḥ'sharūna
+1	3:158:8	e	١٥٨	ﱈ			
+1	3:159:1	w	فَبِمَا	ﱉ	فبما	So because	fabimā
+1	3:159:2	w	رَحۡمَةٖ	ﱊ	رحمة	(of) Mercy	raḥmatin
+1	3:159:3	w	مِّنَ	ﱋ	من	from	mina
+1	3:159:4	w	ٱللَّهِ	ﱌ	الله	Allah	l-lahi
+2	3:159:5	w	لِنتَ	ﱍ	لنت	you dealt gently	linta
+2	3:159:6	w	لَهُمۡۖ	ﱎﱏ	لهم	with them	lahum
+2	3:159:7	w	وَلَوۡ	ﱐ	ولو	And if	walaw
+2	3:159:8	w	كُنتَ	ﱑ	كنت	you had been	kunta
+2	3:159:9	w	فَظًّا	ﱒ	فظا	rude	faẓẓan
+2	3:159:10	w	غَلِيظَ	ﱓ	غليظ	(and) harsh	ghalīẓa
+2	3:159:11	w	ٱلۡقَلۡبِ	ﱔ	القلب	(at) [the] heart	l-qalbi
+2	3:159:12	w	لَٱنفَضُّواْ	ﱕ	لانفضوا	surely they (would have) dispersed	la-infaḍḍū
+2	3:159:13	w	مِنۡ	ﱖ	من	from	min
+2	3:159:14	w	حَوۡلِكَۖ	ﱗﱘ	حولك	around you	ḥawlika
+3	3:159:15	w	فَٱعۡفُ	ﱙ	فاعف	Then pardon	fa-uʿ'fu
+3	3:159:16	w	عَنۡهُمۡ	ﱚ	عنهم	[from] them	ʿanhum
+3	3:159:17	w	وَٱسۡتَغۡفِرۡ	ﱛ	واستغفر	and ask forgiveness	wa-is'taghfir
+3	3:159:18	w	لَهُمۡ	ﱜ	لهم	for them	lahum
+3	3:159:19	w	وَشَاوِرۡهُمۡ	ﱝ	وشاورهم	and consult them	washāwir'hum
+3	3:159:20	w	فِي	ﱞ	في	in	fī
+3	3:159:21	w	ٱلۡأَمۡرِۖ	ﱟﱠ	الامر	the matter	l-amri
+3	3:159:22	w	فَإِذَا	ﱡ	فاذا	Then when	fa-idhā
+3	3:159:23	w	عَزَمۡتَ	ﱢ	عزمت	you have decided	ʿazamta
+4	3:159:24	w	فَتَوَكَّلۡ	ﱣ	فتوكل	then put trust	fatawakkal
+4	3:159:25	w	عَلَى	ﱤ	على	on	ʿalā
+4	3:159:26	w	ٱللَّهِۚ	ﱥﱦ	الله	Allah	l-lahi
+4	3:159:27	w	إِنَّ	ﱧ	ان	Indeed	inna
+4	3:159:28	w	ٱللَّهَ	ﱨ	الله	Allah	l-laha
+4	3:159:29	w	يُحِبُّ	ﱩ	يحب	loves	yuḥibbu
+4	3:159:30	w	ٱلۡمُتَوَكِّلِينَ	ﱪ	المتوكلين	the ones who put trust (in Him)	l-mutawakilīna
+4	3:159:31	e	١٥٩	ﱫ			
+4	3:160:1	w	إِن	ﱬ	ان	If	in
+4	3:160:2	w	يَنصُرۡكُمُ	ﱭ	ينصركم	helps you	yanṣur'kumu
+4	3:160:3	w	ٱللَّهُ	ﱮ	الله	Allah	l-lahu
+5	3:160:4	w	فَلَا	ﱯ	فلا	then not	falā
+5	3:160:5	w	غَالِبَ	ﱰ	غالب	(can) overcome	ghāliba
+5	3:160:6	w	لَكُمۡۖ	ﱱﱲ	لكم	[for] you	lakum
+5	3:160:7	w	وَإِن	ﱳ	وان	and if	wa-in
+5	3:160:8	w	يَخۡذُلۡكُمۡ	ﱴ	يخذلكم	He forsakes you	yakhdhul'kum
+5	3:160:9	w	فَمَن	ﱵ	فمن	then who	faman
+5	3:160:10	w	ذَا	ﱶ	ذا	(is)	dhā
+5	3:160:11	w	ٱلَّذِي	ﱷ	الذي	the one who	alladhī
+5	3:160:12	w	يَنصُرُكُم	ﱸ	ينصركم	can help you	yanṣurukum
+5	3:160:13	w	مِّنۢ	ﱹ	من	from	min
+6	3:160:14	w	بَعۡدِهِۦۗ	ﱺﱻ	بعده	after Him	baʿdihi
+6	3:160:15	w	وَعَلَى	ﱼ	وعلى	And on	waʿalā
+6	3:160:16	w	ٱللَّهِ	ﱽ	الله	Allah	l-lahi
+6	3:160:17	w	فَلۡيَتَوَكَّلِ	ﱾ	فليتوكل	let put (their) trust	falyatawakkali
+6	3:160:18	w	ٱلۡمُؤۡمِنُونَ	ﱿ	المومنون	the believers	l-mu'minūna
+6	3:160:19	e	١٦٠	ﲀ			
+6	3:161:1	w	وَمَا	ﲁ	وما	And not	wamā
+6	3:161:2	w	كَانَ	ﲂ	كان	is	kāna
+6	3:161:3	w	لِنَبِيٍّ	ﲃ	لنبي	for a Prophet	linabiyyin
+6	3:161:4	w	أَن	ﲄ	ان	that	an
+7	3:161:5	w	يَغُلَّۚ	ﲅﲆ	يغل	he defrauds	yaghulla
+7	3:161:6	w	وَمَن	ﲇ	ومن	And whoever	waman
+7	3:161:7	w	يَغۡلُلۡ	ﲈ	يغلل	defrauds	yaghlul
+7	3:161:8	w	يَأۡتِ	ﲉ	يات	will bring	yati
+7	3:161:9	w	بِمَا	ﲊ	بما	what	bimā
+7	3:161:10	w	غَلَّ	ﲋ	غل	he had defrauded	ghalla
+7	3:161:11	w	يَوۡمَ	ﲌ	يوم	(on the) Day	yawma
+7	3:161:12	w	ٱلۡقِيَٰمَةِۚ	ﲍﲎ	القيامة	(of) Resurrection	l-qiyāmati
+7	3:161:13	w	ثُمَّ	ﲏ	ثم	Then	thumma
+7	3:161:14	w	تُوَفَّىٰ	ﲐ	توفى	is repaid in full	tuwaffā
+7	3:161:15	w	كُلُّ	ﲑ	كل	every	kullu
+8	3:161:16	w	نَفۡسٖ	ﲒ	نفس	soul	nafsin
+8	3:161:17	w	مَّا	ﲓ	ما	what	mā
+8	3:161:18	w	كَسَبَتۡ	ﲔ	كسبت	it earned	kasabat
+8	3:161:19	w	وَهُمۡ	ﲕ	وهم	and they	wahum
+8	3:161:20	w	لَا	ﲖ	لا	(will) not	lā
+8	3:161:21	w	يُظۡلَمُونَ	ﲗ	يظلمون	be wronged	yuẓ'lamūna
+8	3:161:22	e	١٦١	ﲘ			
+8	3:162:1	w	أَفَمَنِ	ﲙ	افمن	So is (the one) who	afamani
+8	3:162:2	w	ٱتَّبَعَ	ﲚ	اتبع	pursues	ittabaʿa
+8	3:162:3	w	رِضۡوَٰنَ	ﲛ	رضوان	(the) pleasure	riḍ'wāna
+9	3:162:4	w	ٱللَّهِ	ﲜ	الله	(of) Allah	l-lahi
+9	3:162:5	w	كَمَنۢ	ﲝ	كمن	like (the one) who	kaman
+9	3:162:6	w	بَآءَ	ﲞ	باء	draws	bāa
+9	3:162:7	w	بِسَخَطٖ	ﲟ	بسخط	on (himself) wrath	bisakhaṭin
+9	3:162:8	w	مِّنَ	ﲠ	من	of	mina
+9	3:162:9	w	ٱللَّهِ	ﲡ	الله	Allah	l-lahi
+9	3:162:10	w	وَمَأۡوَىٰهُ	ﲢ	وماواه	and his abode	wamawāhu
+9	3:162:11	w	جَهَنَّمُۖ	ﲣﲤ	جهنم	(is) hell	jahannamu
+9	3:162:12	w	وَبِئۡسَ	ﲥ	وبيس	and wretched	wabi'sa
+9	3:162:13	w	ٱلۡمَصِيرُ	ﲦ	المصير	(is) the destination	l-maṣīru
+10	3:162:14	e	١٦٢	ﲧ			
+10	3:163:1	w	هُمۡ	ﲨ	هم	They	hum
+10	3:163:2	w	دَرَجَٰتٌ	ﲩ	درجات	(are in varying) degrees	darajātun
+10	3:163:3	w	عِندَ	ﲪ	عند	near	ʿinda
+10	3:163:4	w	ٱللَّهِۗ	ﲫﲬ	الله	Allah	l-lahi
+10	3:163:5	w	وَٱللَّهُ	ﲭ	والله	and Allah	wal-lahu
+10	3:163:6	w	بَصِيرُۢ	ﲮ	بصير	(is) All-Seer	baṣīrun
+10	3:163:7	w	بِمَا	ﲯ	بما	of what	bimā
+10	3:163:8	w	يَعۡمَلُونَ	ﲰ	يعملون	they do	yaʿmalūna
+10	3:163:9	e	١٦٣	ﲱ			
+10	3:164:1	w	لَقَدۡ	ﲲ	لقد	Certainly	laqad
+11	3:164:2	w	مَنَّ	ﲳ	من	bestowed a Favor	manna
+11	3:164:3	w	ٱللَّهُ	ﲴ	الله	Allah	l-lahu
+11	3:164:4	w	عَلَى	ﲵ	على	upon	ʿalā
+11	3:164:5	w	ٱلۡمُؤۡمِنِينَ	ﲶ	المومنين	the believers	l-mu'minīna
+11	3:164:6	w	إِذۡ	ﲷ	اذ	as	idh
+11	3:164:7	w	بَعَثَ	ﲸ	بعث	He raised	baʿatha
+11	3:164:8	w	فِيهِمۡ	ﲹ	فيهم	among them	fīhim
+11	3:164:9	w	رَسُولٗا	ﲺ	رسولا	a Messenger	rasūlan
+11	3:164:10	w	مِّنۡ	ﲻ	من	from	min
+11	3:164:11	w	أَنفُسِهِمۡ	ﲼ	انفسهم	themselves	anfusihim
+12	3:164:12	w	يَتۡلُواْ	ﲽ	يتلو	reciting	yatlū
+12	3:164:13	w	عَلَيۡهِمۡ	ﲾ	عليهم	to them	ʿalayhim
+12	3:164:14	w	ءَايَٰتِهِۦ	ﲿ	اياته	His Verses	āyātihi
+12	3:164:15	w	وَيُزَكِّيهِمۡ	ﳀ	ويزكيهم	and purifying them	wayuzakkīhim
+12	3:164:16	w	وَيُعَلِّمُهُمُ	ﳁ	ويعلمهم	and teaching them	wayuʿallimuhumu
+12	3:164:17	w	ٱلۡكِتَٰبَ	ﳂ	الكتاب	the Book	l-kitāba
+13	3:164:18	w	وَٱلۡحِكۡمَةَ	ﳃ	والحكمة	and the wisdom	wal-ḥik'mata
+13	3:164:19	w	وَإِن	ﳄ	وان	although	wa-in
+13	3:164:20	w	كَانُواْ	ﳅ	كانوا	they were	kānū
+13	3:164:21	w	مِن	ﳆ	من	from	min
+13	3:164:22	w	قَبۡلُ	ﳇ	قبل	before (that)	qablu
+13	3:164:23	w	لَفِي	ﳈ	لفي	certainly in	lafī
+13	3:164:24	w	ضَلَٰلٖ	ﳉ	ضلال	(the) error	ḍalālin
+13	3:164:25	w	مُّبِينٍ	ﳊ	مبين	clear	mubīnin
+13	3:164:26	e	١٦٤	ﳋ			
+13	3:165:1	w	أَوَلَمَّآ	ﳌ	اولما	Or when	awalammā
+14	3:165:2	w	أَصَٰبَتۡكُم	ﳍ	اصابتكم	struck you	aṣābatkum
+14	3:165:3	w	مُّصِيبَةٞ	ﳎ	مصيبة	disaster	muṣībatun
+14	3:165:4	w	قَدۡ	ﳏ	قد	surely	qad
+14	3:165:5	w	أَصَبۡتُم	ﳐ	اصبتم	you (had) struck (them)	aṣabtum
+14	3:165:6	w	مِّثۡلَيۡهَا	ﳑ	مثليها	twice of it	mith'layhā
+14	3:165:7	w	قُلۡتُمۡ	ﳒ	قلتم	you said	qul'tum
+14	3:165:8	w	أَنَّىٰ	ﳓ	انى	From where	annā
+14	3:165:9	w	هَٰذَاۖ	ﳔﳕ	هاذا	(is) this	hādhā
+15	3:165:10	w	قُلۡ	ﳖ	قل	Say	qul
+15	3:165:11	w	هُوَ	ﳗ	هو	It	huwa
+15	3:165:12	w	مِنۡ	ﳘ	من	(is)	min
+15	3:165:13	w	عِندِ	ﳙ	عند	from	ʿindi
+15	3:165:14	w	أَنفُسِكُمۡۗ	ﳚﳛ	انفسكم	yourselves	anfusikum
+15	3:165:15	w	إِنَّ	ﳜ	ان	Indeed	inna
+15	3:165:16	w	ٱللَّهَ	ﳝ	الله	Allah	l-laha
+15	3:165:17	w	عَلَىٰ	ﳞ	على	(is) on	ʿalā
+15	3:165:18	w	كُلِّ	ﳟ	كل	every	kulli
+15	3:165:19	w	شَيۡءٖ	ﳠ	شيء	thing	shayin
+15	3:165:20	w	قَدِيرٞ	ﳡ	قدير	All-Powerful	qadīrun
+15	3:165:21	e	١٦٥	ﳢ			

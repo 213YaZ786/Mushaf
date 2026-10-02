@@ -1,0 +1,135 @@
+1	25:3:1	w	وَٱتَّخَذُواْ	ﱁ	واتخذوا	Yet they have taken	wa-ittakhadhū
+1	25:3:2	w	مِن	ﱂ	من	besides Him	min
+1	25:3:3	w	دُونِهِۦٓ	ﱃ	دونه	besides Him	dūnihi
+1	25:3:4	w	ءَالِهَةٗ	ﱄ	الهة	gods	ālihatan
+1	25:3:5	w	لَّا	ﱅ	لا	not	lā
+1	25:3:6	w	يَخۡلُقُونَ	ﱆ	يخلقون	they create	yakhluqūna
+1	25:3:7	w	شَيۡـٔٗا	ﱇ	شييا	anything	shayan
+1	25:3:8	w	وَهُمۡ	ﱈ	وهم	while they	wahum
+1	25:3:9	w	يُخۡلَقُونَ	ﱉ	يخلقون	are created	yukh'laqūna
+2	25:3:10	w	وَلَا	ﱊ	ولا	and not	walā
+2	25:3:11	w	يَمۡلِكُونَ	ﱋ	يملكون	they possess	yamlikūna
+2	25:3:12	w	لِأَنفُسِهِمۡ	ﱌ	لانفسهم	for themselves	li-anfusihim
+2	25:3:13	w	ضَرّٗا	ﱍ	ضرا	any harm	ḍarran
+2	25:3:14	w	وَلَا	ﱎ	ولا	and not	walā
+2	25:3:15	w	نَفۡعٗا	ﱏ	نفعا	any benefit	nafʿan
+2	25:3:16	w	وَلَا	ﱐ	ولا	and not	walā
+2	25:3:17	w	يَمۡلِكُونَ	ﱑ	يملكون	they control	yamlikūna
+2	25:3:18	w	مَوۡتٗا	ﱒ	موتا	death	mawtan
+3	25:3:19	w	وَلَا	ﱓ	ولا	and not	walā
+3	25:3:20	w	حَيَوٰةٗ	ﱔ	حياة	life	ḥayatan
+3	25:3:21	w	وَلَا	ﱕ	ولا	and not	walā
+3	25:3:22	w	نُشُورٗا	ﱖ	نشورا	resurrection	nushūran
+3	25:3:23	e	٣	ﱗ			
+3	25:4:1	w	وَقَالَ	ﱘ	وقال	And say	waqāla
+3	25:4:2	w	ٱلَّذِينَ	ﱙ	الذين	those who	alladhīna
+3	25:4:3	w	كَفَرُوٓاْ	ﱚ	كفروا	disbelieve	kafarū
+3	25:4:4	w	إِنۡ	ﱛ	ان	Not	in
+3	25:4:5	w	هَٰذَآ	ﱜ	هاذا	this	hādhā
+3	25:4:6	w	إِلَّآ	ﱝ	الا	(is) but	illā
+4	25:4:7	w	إِفۡكٌ	ﱞ	افك	a lie	if'kun
+4	25:4:8	w	ٱفۡتَرَىٰهُ	ﱟ	افتراه	he invented it	if'tarāhu
+4	25:4:9	w	وَأَعَانَهُۥ	ﱠ	واعانه	and helped him	wa-aʿānahu
+4	25:4:10	w	عَلَيۡهِ	ﱡ	عليه	at it	ʿalayhi
+4	25:4:11	w	قَوۡمٌ	ﱢ	قوم	people	qawmun
+4	25:4:12	w	ءَاخَرُونَۖ	ﱣﱤ	اخرون	other	ākharūna
+4	25:4:13	w	فَقَدۡ	ﱥ	فقد	But verily	faqad
+4	25:4:14	w	جَآءُو	ﱦ	جاءوا	they (have) produced	jāū
+4	25:4:15	w	ظُلۡمٗا	ﱧ	ظلما	an injustice	ẓul'man
+5	25:4:16	w	وَزُورٗا	ﱨ	وزورا	and a lie	wazūran
+5	25:4:17	e	٤	ﱩ			
+5	25:5:1	w	وَقَالُوٓاْ	ﱪ	وقالوا	And they say	waqālū
+5	25:5:2	w	أَسَٰطِيرُ	ﱫ	اساطير	Tales	asāṭīru
+5	25:5:3	w	ٱلۡأَوَّلِينَ	ﱬ	الاولين	(of) the former people	l-awalīna
+5	25:5:4	w	ٱكۡتَتَبَهَا	ﱭ	اكتتبها	which he has had written	ik'tatabahā
+5	25:5:5	w	فَهِيَ	ﱮ	فهي	and they	fahiya
+5	25:5:6	w	تُمۡلَىٰ	ﱯ	تملى	are dictated	tum'lā
+6	25:5:7	w	عَلَيۡهِ	ﱰ	عليه	to him	ʿalayhi
+6	25:5:8	w	بُكۡرَةٗ	ﱱ	بكرة	morning	buk'ratan
+6	25:5:9	w	وَأَصِيلٗا	ﱲ	واصيلا	and evening	wa-aṣīlan
+6	25:5:10	e	٥	ﱳ			
+6	25:6:1	w	قُلۡ	ﱴ	قل	Say	qul
+6	25:6:2	w	أَنزَلَهُ	ﱵ	انزله	Has sent it down	anzalahu
+6	25:6:3	w	ٱلَّذِي	ﱶ	الذي	the One Who	alladhī
+6	25:6:4	w	يَعۡلَمُ	ﱷ	يعلم	knows	yaʿlamu
+6	25:6:5	w	ٱلسِّرَّ	ﱸ	السر	the secret	l-sira
+7	25:6:6	w	فِي	ﱹ	في	in	fī
+7	25:6:7	w	ٱلسَّمَٰوَٰتِ	ﱺ	السماوات	the heavens	l-samāwāti
+7	25:6:8	w	وَٱلۡأَرۡضِۚ	ﱻﱼ	والارض	and the earth	wal-arḍi
+7	25:6:9	w	إِنَّهُۥ	ﱽ	انه	Indeed, He	innahu
+7	25:6:10	w	كَانَ	ﱾ	كان	is	kāna
+7	25:6:11	w	غَفُورٗا	ﱿ	غفورا	Oft-Forgiving	ghafūran
+7	25:6:12	w	رَّحِيمٗا	ﲀ	رحيما	Most Merciful	raḥīman
+7	25:6:13	e	٦	ﲁ			
+8	25:7:1	w	وَقَالُواْ	ﲂ	وقالوا	And they say	waqālū
+8	25:7:2	w	مَالِ	ﲃ	مال	Why does	māli
+8	25:7:3	w	هَٰذَا	ﲄ	هاذا	this	hādhā
+8	25:7:4	w	ٱلرَّسُولِ	ﲅ	الرسول	Messenger	l-rasūli
+8	25:7:5	w	يَأۡكُلُ	ﲆ	ياكل	eat	yakulu
+8	25:7:6	w	ٱلطَّعَامَ	ﲇ	الطعام	[the] food	l-ṭaʿāma
+8	25:7:7	w	وَيَمۡشِي	ﲈ	ويمشي	and walk	wayamshī
+8	25:7:8	w	فِي	ﲉ	في	in	fī
+9	25:7:9	w	ٱلۡأَسۡوَاقِ	ﲊ	الاسواق	the markets	l-aswāqi
+9	25:7:10	w	لَوۡلَآ	ﲋ	لولا	Why not	lawlā
+9	25:7:11	w	أُنزِلَ	ﲌ	انزل	is sent down	unzila
+9	25:7:12	w	إِلَيۡهِ	ﲍ	اليه	to him	ilayhi
+9	25:7:13	w	مَلَكٞ	ﲎ	ملك	an Angel	malakun
+9	25:7:14	w	فَيَكُونَ	ﲏ	فيكون	then he be	fayakūna
+9	25:7:15	w	مَعَهُۥ	ﲐ	معه	with him	maʿahu
+9	25:7:16	w	نَذِيرًا	ﲑ	نذيرا	a warner	nadhīran
+9	25:7:17	e	٧	ﲒ			
+10	25:8:1	w	أَوۡ	ﲓ	او	Or	aw
+10	25:8:2	w	يُلۡقَىٰٓ	ﲔ	يلقى	is delivered	yul'qā
+10	25:8:3	w	إِلَيۡهِ	ﲕ	اليه	to him	ilayhi
+10	25:8:4	w	كَنزٌ	ﲖ	كنز	a treasure	kanzun
+10	25:8:5	w	أَوۡ	ﲗ	او	or	aw
+10	25:8:6	w	تَكُونُ	ﲘ	تكون	is	takūnu
+10	25:8:7	w	لَهُۥ	ﲙ	له	for him	lahu
+10	25:8:8	w	جَنَّةٞ	ﲚ	جنة	a garden	jannatun
+10	25:8:9	w	يَأۡكُلُ	ﲛ	ياكل	he may eat	yakulu
+10	25:8:10	w	مِنۡهَاۚ	ﲜﲝ	منها	from it	min'hā
+10	25:8:11	w	وَقَالَ	ﲞ	وقال	And say	waqāla
+11	25:8:12	w	ٱلظَّٰلِمُونَ	ﲟ	الظالمون	the wrongdoers	l-ẓālimūna
+11	25:8:13	w	إِن	ﲠ	ان	Not	in
+11	25:8:14	w	تَتَّبِعُونَ	ﲡ	تتبعون	you follow	tattabiʿūna
+11	25:8:15	w	إِلَّا	ﲢ	الا	but	illā
+11	25:8:16	w	رَجُلٗا	ﲣ	رجلا	a man	rajulan
+11	25:8:17	w	مَّسۡحُورًا	ﲤ	مسحورا	bewitched	masḥūran
+11	25:8:18	e	٨	ﲥ			
+11	25:9:1	w	ٱنظُرۡ	ﲦ	انظر	See	unẓur
+12	25:9:2	w	كَيۡفَ	ﲧ	كيف	how	kayfa
+12	25:9:3	w	ضَرَبُواْ	ﲨ	ضربوا	they set forth	ḍarabū
+12	25:9:4	w	لَكَ	ﲩ	لك	for you	laka
+12	25:9:5	w	ٱلۡأَمۡثَٰلَ	ﲪ	الامثال	the similitudes	l-amthāla
+12	25:9:6	w	فَضَلُّواْ	ﲫ	فضلوا	but they have gone astray	faḍallū
+12	25:9:7	w	فَلَا	ﲬ	فلا	so not	falā
+12	25:9:8	w	يَسۡتَطِيعُونَ	ﲭ	يستطيعون	they are able (to find)	yastaṭīʿūna
+13	25:9:9	w	سَبِيلٗا	ﲮ	سبيلا	a way	sabīlan
+13	25:9:10	e	٩	ﲯ			
+13	25:10:1	w	تَبَارَكَ	ﲰ	تبارك	Blessed is He	tabāraka
+13	25:10:2	w	ٱلَّذِيٓ	ﲱ	الذي	Who	alladhī
+13	25:10:3	w	إِن	ﲲ	ان	if	in
+13	25:10:4	w	شَآءَ	ﲳ	شاء	He willed	shāa
+13	25:10:5	w	جَعَلَ	ﲴ	جعل	(could have) made	jaʿala
+13	25:10:6	w	لَكَ	ﲵ	لك	for you	laka
+13	25:10:7	w	خَيۡرٗا	ﲶ	خيرا	better	khayran
+13	25:10:8	w	مِّن	ﲷ	من	than	min
+13	25:10:9	w	ذَٰلِكَ	ﲸ	ذالك	that	dhālika
+14	25:10:10	w	جَنَّٰتٖ	ﲹ	جنات	gardens	jannātin
+14	25:10:11	w	تَجۡرِي	ﲺ	تجري	flow	tajrī
+14	25:10:12	w	مِن	ﲻ	من	from	min
+14	25:10:13	w	تَحۡتِهَا	ﲼ	تحتها	underneath it	taḥtihā
+14	25:10:14	w	ٱلۡأَنۡهَٰرُ	ﲽ	الانهار	the rivers	l-anhāru
+14	25:10:15	w	وَيَجۡعَل	ﲾ	ويجعل	and He (could) make	wayajʿal
+14	25:10:16	w	لَّكَ	ﲿ	لك	for you	laka
+14	25:10:17	w	قُصُورَۢا	ﳀ	قصورا	palaces	quṣūran
+14	25:10:18	e	١٠	ﳁ			
+14	25:11:1	w	بَلۡ	ﳂ	بل	Nay	bal
+15	25:11:2	w	كَذَّبُواْ	ﳃ	كذبوا	they deny	kadhabū
+15	25:11:3	w	بِٱلسَّاعَةِۖ	ﳄﳅ	بالساعة	the Hour	bil-sāʿati
+15	25:11:4	w	وَأَعۡتَدۡنَا	ﳆ	واعتدنا	and We have prepared	wa-aʿtadnā
+15	25:11:5	w	لِمَن	ﳇ	لمن	for (those) who	liman
+15	25:11:6	w	كَذَّبَ	ﳈ	كذب	deny	kadhaba
+15	25:11:7	w	بِٱلسَّاعَةِ	ﳉ	بالساعة	the Hour	bil-sāʿati
+15	25:11:8	w	سَعِيرًا	ﳊ	سعيرا	a Blazing Fire	saʿīran
+15	25:11:9	e	١١	ﳋ			

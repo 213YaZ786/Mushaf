@@ -1,0 +1,138 @@
+1	12:104:1	w	وَمَا	ﱁ	وما	And not	wamā
+1	12:104:2	w	تَسۡـَٔلُهُمۡ	ﱂ	تسالهم	you ask them	tasaluhum
+1	12:104:3	w	عَلَيۡهِ	ﱃ	عليه	for it	ʿalayhi
+1	12:104:4	w	مِنۡ	ﱄ	من	any	min
+1	12:104:5	w	أَجۡرٍۚ	ﱅﱆ	اجر	reward	ajrin
+1	12:104:6	w	إِنۡ	ﱇ	ان	Not	in
+1	12:104:7	w	هُوَ	ﱈ	هو	(is) it	huwa
+1	12:104:8	w	إِلَّا	ﱉ	الا	but	illā
+1	12:104:9	w	ذِكۡرٞ	ﱊ	ذكر	a reminder	dhik'run
+1	12:104:10	w	لِّلۡعَٰلَمِينَ	ﱋ	للعالمين	to the worlds	lil'ʿālamīna
+2	12:104:11	e	١٠٤	ﱌ			
+2	12:105:1	w	وَكَأَيِّن	ﱍ	وكاين	And how many	waka-ayyin
+2	12:105:2	w	مِّنۡ	ﱎ	من	of	min
+2	12:105:3	w	ءَايَةٖ	ﱏ	اية	a Sign	āyatin
+2	12:105:4	w	فِي	ﱐ	في	in	fī
+2	12:105:5	w	ٱلسَّمَٰوَٰتِ	ﱑ	السماوات	the heavens	l-samāwāti
+2	12:105:6	w	وَٱلۡأَرۡضِ	ﱒ	والارض	and the earth	wal-arḍi
+2	12:105:7	w	يَمُرُّونَ	ﱓ	يمرون	they pass	yamurrūna
+2	12:105:8	w	عَلَيۡهَا	ﱔ	عليها	over it	ʿalayhā
+3	12:105:9	w	وَهُمۡ	ﱕ	وهم	while they	wahum
+3	12:105:10	w	عَنۡهَا	ﱖ	عنها	(are) from them	ʿanhā
+3	12:105:11	w	مُعۡرِضُونَ	ﱗ	معرضون	the ones who turn away	muʿ'riḍūna
+3	12:105:12	e	١٠٥	ﱘ			
+3	12:106:1	w	وَمَا	ﱙ	وما	And not	wamā
+3	12:106:2	w	يُؤۡمِنُ	ﱚ	يومن	believe	yu'minu
+3	12:106:3	w	أَكۡثَرُهُم	ﱛ	اكثرهم	most of them	aktharuhum
+3	12:106:4	w	بِٱللَّهِ	ﱜ	بالله	in Allah	bil-lahi
+3	12:106:5	w	إِلَّا	ﱝ	الا	except	illā
+4	12:106:6	w	وَهُم	ﱞ	وهم	while they	wahum
+4	12:106:7	w	مُّشۡرِكُونَ	ﱟ	مشركون	associate partners with Him	mush'rikūna
+4	12:106:8	e	١٠٦	ﱠ			
+4	12:107:1	w	أَفَأَمِنُوٓاْ	ﱡ	افامنوا	Do they then feel secure	afa-aminū
+4	12:107:2	w	أَن	ﱢ	ان	(against) that	an
+4	12:107:3	w	تَأۡتِيَهُمۡ	ﱣ	تاتيهم	comes to them	tatiyahum
+4	12:107:4	w	غَٰشِيَةٞ	ﱤ	غاشية	an overwhelming	ghāshiyatun
+4	12:107:5	w	مِّنۡ	ﱥ	من	[of]	min
+4	12:107:6	w	عَذَابِ	ﱦ	عذاب	punishment	ʿadhābi
+5	12:107:7	w	ٱللَّهِ	ﱧ	الله	(of) Allah	l-lahi
+5	12:107:8	w	أَوۡ	ﱨ	او	or	aw
+5	12:107:9	w	تَأۡتِيَهُمُ	ﱩ	تاتيهم	comes to them	tatiyahumu
+5	12:107:10	w	ٱلسَّاعَةُ	ﱪ	الساعة	the Hour	l-sāʿatu
+5	12:107:11	w	بَغۡتَةٗ	ﱫ	بغتة	suddenly	baghtatan
+5	12:107:12	w	وَهُمۡ	ﱬ	وهم	while they	wahum
+5	12:107:13	w	لَا	ﱭ	لا	(do) not	lā
+5	12:107:14	w	يَشۡعُرُونَ	ﱮ	يشعرون	perceive	yashʿurūna
+5	12:107:15	e	١٠٧	ﱯ			
+5	12:108:1	w	قُلۡ	ﱰ	قل	Say	qul
+6	12:108:2	w	هَٰذِهِۦ	ﱱ	هاذه	This	hādhihi
+6	12:108:3	w	سَبِيلِيٓ	ﱲ	سبيلي	(is) my way	sabīlī
+6	12:108:4	w	أَدۡعُوٓاْ	ﱳ	ادعو	I invite	adʿū
+6	12:108:5	w	إِلَى	ﱴ	الى	to	ilā
+6	12:108:6	w	ٱللَّهِۚ	ﱵﱶ	الله	Allah	l-lahi
+6	12:108:7	w	عَلَىٰ	ﱷ	على	with	ʿalā
+6	12:108:8	w	بَصِيرَةٍ	ﱸ	بصيرة	insight	baṣīratin
+6	12:108:9	w	أَنَا۠	ﱹ	انا	I	anā
+6	12:108:10	w	وَمَنِ	ﱺ	ومن	and whoever	wamani
+6	12:108:11	w	ٱتَّبَعَنِيۖ	ﱻﱼ	اتبعني	follows me	ittabaʿanī
+7	12:108:12	w	وَسُبۡحَٰنَ	ﱽ	وسبحان	And Glory be	wasub'ḥāna
+7	12:108:13	w	ٱللَّهِ	ﱾ	الله	(to) Allah	l-lahi
+7	12:108:14	w	وَمَآ	ﱿ	وما	and not	wamā
+7	12:108:15	w	أَنَا۠	ﲀ	انا	I am	anā
+7	12:108:16	w	مِنَ	ﲁ	من	of	mina
+7	12:108:17	w	ٱلۡمُشۡرِكِينَ	ﲂ	المشركين	the polytheists	l-mush'rikīna
+7	12:108:18	e	١٠٨	ﲃ			
+7	12:109:1	w	وَمَآ	ﲄ	وما	And not	wamā
+7	12:109:2	w	أَرۡسَلۡنَا	ﲅ	ارسلنا	We sent	arsalnā
+7	12:109:3	w	مِن	ﲆ	من	before you	min
+8	12:109:4	w	قَبۡلِكَ	ﲇ	قبلك	before you	qablika
+8	12:109:5	w	إِلَّا	ﲈ	الا	but	illā
+8	12:109:6	w	رِجَالٗا	ﲉ	رجالا	men	rijālan
+8	12:109:7	w	نُّوحِيٓ	ﲊ	نوحي	We revealed	nūḥī
+8	12:109:8	w	إِلَيۡهِم	ﲋ	اليهم	to them	ilayhim
+8	12:109:9	w	مِّنۡ	ﲌ	من	from (among)	min
+8	12:109:10	w	أَهۡلِ	ﲍ	اهل	(the) people	ahli
+8	12:109:11	w	ٱلۡقُرَىٰٓۗ	ﲎﲏ	القرى	(of) the townships	l-qurā
+8	12:109:12	w	أَفَلَمۡ	ﲐ	افلم	So have not	afalam
+8	12:109:13	w	يَسِيرُواْ	ﲑ	يسيروا	they traveled	yasīrū
+9	12:109:14	w	فِي	ﲒ	في	in	fī
+9	12:109:15	w	ٱلۡأَرۡضِ	ﲓ	الارض	the earth	l-arḍi
+9	12:109:16	w	فَيَنظُرُواْ	ﲔ	فينظروا	and seen	fayanẓurū
+9	12:109:17	w	كَيۡفَ	ﲕ	كيف	how	kayfa
+9	12:109:18	w	كَانَ	ﲖ	كان	was	kāna
+9	12:109:19	w	عَٰقِبَةُ	ﲗ	عاقبة	(the) end	ʿāqibatu
+9	12:109:20	w	ٱلَّذِينَ	ﲘ	الذين	(of) those who	alladhīna
+9	12:109:21	w	مِن	ﲙ	من	(were) before them	min
+10	12:109:22	w	قَبۡلِهِمۡۗ	ﲚﲛ	قبلهم	(were) before them	qablihim
+10	12:109:23	w	وَلَدَارُ	ﲜ	ولدار	And surely the home	waladāru
+10	12:109:24	w	ٱلۡأٓخِرَةِ	ﲝ	الاخرة	(of) the Hereafter	l-ākhirati
+10	12:109:25	w	خَيۡرٞ	ﲞ	خير	(is) best	khayrun
+10	12:109:26	w	لِّلَّذِينَ	ﲟ	للذين	for those who	lilladhīna
+10	12:109:27	w	ٱتَّقَوۡاْۚ	ﲠﲡ	اتقوا	fear Allah	ittaqaw
+10	12:109:28	w	أَفَلَا	ﲢ	افلا	Then will not	afalā
+10	12:109:29	w	تَعۡقِلُونَ	ﲣ	تعقلون	you use reason	taʿqilūna
+10	12:109:30	e	١٠٩	ﲤ			
+11	12:110:1	w	حَتَّىٰٓ	ﲥ	حتى	Until	ḥattā
+11	12:110:2	w	إِذَا	ﲦ	اذا	when	idhā
+11	12:110:3	w	ٱسۡتَيۡـَٔسَ	ﲧ	استياس	gave up hope	is'tayasa
+11	12:110:4	w	ٱلرُّسُلُ	ﲨ	الرسل	the Messengers	l-rusulu
+11	12:110:5	w	وَظَنُّوٓاْ	ﲩ	وظنوا	and thought	waẓannū
+11	12:110:6	w	أَنَّهُمۡ	ﲪ	انهم	that they	annahum
+11	12:110:7	w	قَدۡ	ﲫ	قد	certainly	qad
+11	12:110:8	w	كُذِبُواْ	ﲬ	كذبوا	were denied	kudhibū
+12	12:110:9	w	جَآءَهُمۡ	ﲭ	جاءهم	then came to them	jāahum
+12	12:110:10	w	نَصۡرُنَا	ﲮ	نصرنا	Our help	naṣrunā
+12	12:110:11	w	فَنُجِّيَ	ﲯ	فنجي	and was saved	fanujjiya
+12	12:110:12	w	مَن	ﲰ	من	whom	man
+12	12:110:13	w	نَّشَآءُۖ	ﲱﲲ	نشاء	We willed	nashāu
+12	12:110:14	w	وَلَا	ﲳ	ولا	And not	walā
+12	12:110:15	w	يُرَدُّ	ﲴ	يرد	(can) be repelled	yuraddu
+12	12:110:16	w	بَأۡسُنَا	ﲵ	باسنا	Our punishment	basunā
+12	12:110:17	w	عَنِ	ﲶ	عن	from	ʿani
+12	12:110:18	w	ٱلۡقَوۡمِ	ﲷ	القوم	the people	l-qawmi
+13	12:110:19	w	ٱلۡمُجۡرِمِينَ	ﲸ	المجرمين	(who are) criminals	l-muj'rimīna
+13	12:110:20	e	١١٠	ﲹ			
+13	12:111:1	w	لَقَدۡ	ﲺ	لقد	Verily	laqad
+13	12:111:2	w	كَانَ	ﲻ	كان	(there) is	kāna
+13	12:111:3	w	فِي	ﲼ	في	in	fī
+13	12:111:4	w	قَصَصِهِمۡ	ﲽ	قصصهم	their stories	qaṣaṣihim
+13	12:111:5	w	عِبۡرَةٞ	ﲾ	عبرة	a lesson	ʿib'ratun
+13	12:111:6	w	لِّأُوْلِي	ﲿ	لاولي	for men	li-ulī
+13	12:111:7	w	ٱلۡأَلۡبَٰبِۗ	ﳀﳁ	الالباب	(of) understanding	l-albābi
+14	12:111:8	w	مَا	ﳂ	ما	Not	mā
+14	12:111:9	w	كَانَ	ﳃ	كان	(it) is	kāna
+14	12:111:10	w	حَدِيثٗا	ﳄ	حديثا	a narration	ḥadīthan
+14	12:111:11	w	يُفۡتَرَىٰ	ﳅ	يفترى	invented	yuf'tarā
+14	12:111:12	w	وَلَٰكِن	ﳆ	ولاكن	but	walākin
+14	12:111:13	w	تَصۡدِيقَ	ﳇ	تصديق	a confirmation	taṣdīqa
+14	12:111:14	w	ٱلَّذِي	ﳈ	الذي	(of that) which	alladhī
+14	12:111:15	w	بَيۡنَ	ﳉ	بين	(was) before it	bayna
+14	12:111:16	w	يَدَيۡهِ	ﳊ	يديه	(was) before it	yadayhi
+15	12:111:17	w	وَتَفۡصِيلَ	ﳋ	وتفصيل	and a detailed explanation	watafṣīla
+15	12:111:18	w	كُلِّ	ﳌ	كل	(of) all	kulli
+15	12:111:19	w	شَيۡءٖ	ﳍ	شيء	things	shayin
+15	12:111:20	w	وَهُدٗى	ﳎ	وهدى	and a guidance	wahudan
+15	12:111:21	w	وَرَحۡمَةٗ	ﳏ	ورحمة	and mercy	waraḥmatan
+15	12:111:22	w	لِّقَوۡمٖ	ﳐ	لقوم	for a people	liqawmin
+15	12:111:23	w	يُؤۡمِنُونَ	ﳑ	يومنون	who believe	yu'minūna
+15	12:111:24	e	١١١	ﳒ			

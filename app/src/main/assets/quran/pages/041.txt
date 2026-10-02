@@ -1,0 +1,115 @@
+1	2:249:1	w	فَلَمَّا	ﱁ	فلما	Then when	falammā
+1	2:249:2	w	فَصَلَ	ﱂ	فصل	set out	faṣala
+1	2:249:3	w	طَالُوتُ	ﱃ	طالوت	Talut	ṭālūtu
+1	2:249:4	w	بِٱلۡجُنُودِ	ﱄ	بالجنود	with the forces	bil-junūdi
+1	2:249:5	w	قَالَ	ﱅ	قال	he said	qāla
+1	2:249:6	w	إِنَّ	ﱆ	ان	Indeed	inna
+1	2:249:7	w	ٱللَّهَ	ﱇ	الله	Allah	l-laha
+1	2:249:8	w	مُبۡتَلِيكُم	ﱈ	مبتليكم	will test you	mub'talīkum
+2	2:249:9	w	بِنَهَرٖ	ﱉ	بنهر	with a river	binaharin
+2	2:249:10	w	فَمَن	ﱊ	فمن	So whoever	faman
+2	2:249:11	w	شَرِبَ	ﱋ	شرب	drinks	shariba
+2	2:249:12	w	مِنۡهُ	ﱌ	منه	from it	min'hu
+2	2:249:13	w	فَلَيۡسَ	ﱍ	فليس	then he is not	falaysa
+2	2:249:14	w	مِنِّي	ﱎ	مني	from me	minnī
+2	2:249:15	w	وَمَن	ﱏ	ومن	and whoever	waman
+2	2:249:16	w	لَّمۡ	ﱐ	لم	(does) not	lam
+2	2:249:17	w	يَطۡعَمۡهُ	ﱑ	يطعمه	taste it	yaṭʿamhu
+3	2:249:18	w	فَإِنَّهُۥ	ﱒ	فانه	then indeed, he	fa-innahu
+3	2:249:19	w	مِنِّيٓ	ﱓ	مني	(is) from me	minnī
+3	2:249:20	w	إِلَّا	ﱔ	الا	except	illā
+3	2:249:21	w	مَنِ	ﱕ	من	whoever	mani
+3	2:249:22	w	ٱغۡتَرَفَ	ﱖ	اغترف	takes	igh'tarafa
+3	2:249:23	w	غُرۡفَةَۢ	ﱗ	غرفة	(in the) hollow	ghur'fatan
+3	2:249:24	w	بِيَدِهِۦۚ	ﱘﱙ	بيده	(of) his hand	biyadihi
+3	2:249:25	w	فَشَرِبُواْ	ﱚ	فشربوا	Then they drank	fasharibū
+3	2:249:26	w	مِنۡهُ	ﱛ	منه	from it	min'hu
+4	2:249:27	w	إِلَّا	ﱜ	الا	except	illā
+4	2:249:28	w	قَلِيلٗا	ﱝ	قليلا	a few	qalīlan
+4	2:249:29	w	مِّنۡهُمۡۚ	ﱞﱟ	منهم	of them	min'hum
+4	2:249:30	w	فَلَمَّا	ﱠ	فلما	Then when	falammā
+4	2:249:31	w	جَاوَزَهُۥ	ﱡ	جاوزه	he crossed it	jāwazahu
+4	2:249:32	w	هُوَ	ﱢ	هو	he	huwa
+4	2:249:33	w	وَٱلَّذِينَ	ﱣ	والذين	and those who	wa-alladhīna
+4	2:249:34	w	ءَامَنُواْ	ﱤ	امنوا	believed	āmanū
+5	2:249:35	w	مَعَهُۥ	ﱥ	معه	with him	maʿahu
+5	2:249:36	w	قَالُواْ	ﱦ	قالوا	they said	qālū
+5	2:249:37	w	لَا	ﱧ	لا	No	lā
+5	2:249:38	w	طَاقَةَ	ﱨ	طاقة	strength	ṭāqata
+5	2:249:39	w	لَنَا	ﱩ	لنا	for us	lanā
+5	2:249:40	w	ٱلۡيَوۡمَ	ﱪ	اليوم	today	l-yawma
+5	2:249:41	w	بِجَالُوتَ	ﱫ	بجالوت	against Jalut	bijālūta
+5	2:249:42	w	وَجُنُودِهِۦۚ	ﱬﱭ	وجنوده	and his troops	wajunūdihi
+6	2:249:43	w	قَالَ	ﱮ	قال	Said	qāla
+6	2:249:44	w	ٱلَّذِينَ	ﱯ	الذين	those who	alladhīna
+6	2:249:45	w	يَظُنُّونَ	ﱰ	يظنون	were certain	yaẓunnūna
+6	2:249:46	w	أَنَّهُم	ﱱ	انهم	that they	annahum
+6	2:249:47	w	مُّلَٰقُواْ	ﱲ	ملاقو	(would) meet	mulāqū
+6	2:249:48	w	ٱللَّهِ	ﱳ	الله	Allah	l-lahi
+6	2:249:49	w	كَم	ﱴ	كم	How many	kam
+6	2:249:50	w	مِّن	ﱵ	من	of	min
+6	2:249:51	w	فِئَةٖ	ﱶ	فية	a company	fi-atin
+7	2:249:52	w	قَلِيلَةٍ	ﱷ	قليلة	small	qalīlatin
+7	2:249:53	w	غَلَبَتۡ	ﱸ	غلبت	overcame	ghalabat
+7	2:249:54	w	فِئَةٗ	ﱹ	فية	a company	fi-atan
+7	2:249:55	w	كَثِيرَةَۢ	ﱺ	كثيرة	large	kathīratan
+7	2:249:56	w	بِإِذۡنِ	ﱻ	باذن	by (the) permission	bi-idh'ni
+7	2:249:57	w	ٱللَّهِۗ	ﱼﱽ	الله	(of) Allah	l-lahi
+7	2:249:58	w	وَٱللَّهُ	ﱾ	والله	And Allah	wal-lahu
+7	2:249:59	w	مَعَ	ﱿ	مع	(is) with	maʿa
+8	2:249:60	w	ٱلصَّٰبِرِينَ	ﲀ	الصابرين	the patient ones	l-ṣābirīna
+8	2:249:61	e	٢٤٩	ﲁ			
+8	2:250:1	w	وَلَمَّا	ﲂ	ولما	And when	walammā
+8	2:250:2	w	بَرَزُواْ	ﲃ	برزوا	they went forth	barazū
+8	2:250:3	w	لِجَالُوتَ	ﲄ	لجالوت	to (face) Jalut	lijālūta
+8	2:250:4	w	وَجُنُودِهِۦ	ﲅ	وجنوده	and his troops	wajunūdihi
+8	2:250:5	w	قَالُواْ	ﲆ	قالوا	they said	qālū
+9	2:250:6	w	رَبَّنَآ	ﲇ	ربنا	Our Lord	rabbanā
+9	2:250:7	w	أَفۡرِغۡ	ﲈ	افرغ	Pour	afrigh
+9	2:250:8	w	عَلَيۡنَا	ﲉ	علينا	on us	ʿalaynā
+9	2:250:9	w	صَبۡرٗا	ﲊ	صبرا	patience	ṣabran
+9	2:250:10	w	وَثَبِّتۡ	ﲋ	وثبت	and make firm	wathabbit
+9	2:250:11	w	أَقۡدَامَنَا	ﲌ	اقدامنا	our feet	aqdāmanā
+9	2:250:12	w	وَٱنصُرۡنَا	ﲍ	وانصرنا	and help us	wa-unṣur'nā
+10	2:250:13	w	عَلَى	ﲎ	على	against	ʿalā
+10	2:250:14	w	ٱلۡقَوۡمِ	ﲏ	القوم	the people	l-qawmi
+10	2:250:15	w	ٱلۡكَٰفِرِينَ	ﲐ	الكافرين	(who are) disbelieving	l-kāfirīna
+10	2:250:16	e	٢٥٠	ﲑ			
+10	2:251:1	w	فَهَزَمُوهُم	ﲒ	فهزموهم	So they defeated them	fahazamūhum
+10	2:251:2	w	بِإِذۡنِ	ﲓ	باذن	by (the) permission	bi-idh'ni
+10	2:251:3	w	ٱللَّهِ	ﲔ	الله	(of) Allah	l-lahi
+11	2:251:4	w	وَقَتَلَ	ﲕ	وقتل	and killed	waqatala
+11	2:251:5	w	دَاوُۥدُ	ﲖ	داوود	Dawood	dāwūdu
+11	2:251:6	w	جَالُوتَ	ﲗ	جالوت	Jalut	jālūta
+11	2:251:7	w	وَءَاتَىٰهُ	ﲘ	واتاه	and gave him	waātāhu
+11	2:251:8	w	ٱللَّهُ	ﲙ	الله	Allah	l-lahu
+11	2:251:9	w	ٱلۡمُلۡكَ	ﲚ	الملك	the kingdom	l-mul'ka
+12	2:251:10	w	وَٱلۡحِكۡمَةَ	ﲛ	والحكمة	and the wisdom	wal-ḥik'mata
+12	2:251:11	w	وَعَلَّمَهُۥ	ﲜ	وعلمه	and taught him	waʿallamahu
+12	2:251:12	w	مِمَّا	ﲝ	مما	that which	mimmā
+12	2:251:13	w	يَشَآءُۗ	ﲞﲟ	يشاء	He willed	yashāu
+12	2:251:14	w	وَلَوۡلَا	ﲠ	ولولا	And if not	walawlā
+12	2:251:15	w	دَفۡعُ	ﲡ	دفع	(for the) repelling	dafʿu
+12	2:251:16	w	ٱللَّهِ	ﲢ	الله	(by) Allah	l-lahi
+12	2:251:17	w	ٱلنَّاسَ	ﲣ	الناس	[the] people	l-nāsa
+13	2:251:18	w	بَعۡضَهُم	ﲤ	بعضهم	some of them	baʿḍahum
+13	2:251:19	w	بِبَعۡضٖ	ﲥ	ببعض	with others	bibaʿḍin
+13	2:251:20	w	لَّفَسَدَتِ	ﲦ	لفسدت	certainly (would have) corrupted	lafasadati
+13	2:251:21	w	ٱلۡأَرۡضُ	ﲧ	الارض	the Earth	l-arḍu
+13	2:251:22	w	وَلَٰكِنَّ	ﲨ	ولاكن	[and] but	walākinna
+13	2:251:23	w	ٱللَّهَ	ﲩ	الله	Allah	l-laha
+13	2:251:24	w	ذُو	ﲪ	ذو	(is) Possessor	dhū
+14	2:251:25	w	فَضۡلٍ	ﲫ	فضل	(of) bounty	faḍlin
+14	2:251:26	w	عَلَى	ﲬ	على	to	ʿalā
+14	2:251:27	w	ٱلۡعَٰلَمِينَ	ﲭ	العالمين	the worlds	l-ʿālamīna
+14	2:251:28	e	٢٥١	ﲮ			
+14	2:252:1	w	تِلۡكَ	ﲯ	تلك	These	til'ka
+14	2:252:2	w	ءَايَٰتُ	ﲰ	ايات	(are the) Verses	āyātu
+14	2:252:3	w	ٱللَّهِ	ﲱ	الله	(of) Allah	l-lahi
+14	2:252:4	w	نَتۡلُوهَا	ﲲ	نتلوها	We recite them	natlūhā
+15	2:252:5	w	عَلَيۡكَ	ﲳ	عليك	to you	ʿalayka
+15	2:252:6	w	بِٱلۡحَقِّۚ	ﲴﲵ	بالحق	in [the] truth	bil-ḥaqi
+15	2:252:7	w	وَإِنَّكَ	ﲶ	وانك	And indeed, you	wa-innaka
+15	2:252:8	w	لَمِنَ	ﲷ	لمن	(are) surely of	lamina
+15	2:252:9	w	ٱلۡمُرۡسَلِينَ	ﲸ	المرسلين	the Messengers	l-mur'salīna
+15	2:252:10	e	٢٥٢	ﲹ			

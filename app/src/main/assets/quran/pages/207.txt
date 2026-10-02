@@ -1,0 +1,119 @@
+1	9:123:1	w	يَٰٓأَيُّهَا	ﱁ	يا ايها	O you who believe	yāayyuhā
+1	9:123:2	w	ٱلَّذِينَ	ﱂ	الذين	O you who believe	alladhīna
+1	9:123:3	w	ءَامَنُواْ	ﱃ	امنوا	O you who believe	āmanū
+1	9:123:4	w	قَٰتِلُواْ	ﱄ	قاتلوا	Fight	qātilū
+1	9:123:5	w	ٱلَّذِينَ	ﱅ	الذين	those who	alladhīna
+1	9:123:6	w	يَلُونَكُم	ﱆ	يلونكم	(are) close to you	yalūnakum
+1	9:123:7	w	مِّنَ	ﱇ	من	of	mina
+1	9:123:8	w	ٱلۡكُفَّارِ	ﱈ	الكفار	the disbelievers	l-kufāri
+2	9:123:9	w	وَلۡيَجِدُواْ	ﱉ	وليجدوا	and let them find	walyajidū
+2	9:123:10	w	فِيكُمۡ	ﱊ	فيكم	in you	fīkum
+2	9:123:11	w	غِلۡظَةٗۚ	ﱋﱌ	غلظة	harshness	ghil'ẓatan
+2	9:123:12	w	وَٱعۡلَمُوٓاْ	ﱍ	واعلموا	And know	wa-iʿ'lamū
+2	9:123:13	w	أَنَّ	ﱎ	ان	that	anna
+2	9:123:14	w	ٱللَّهَ	ﱏ	الله	Allah	l-laha
+2	9:123:15	w	مَعَ	ﱐ	مع	(is) with	maʿa
+2	9:123:16	w	ٱلۡمُتَّقِينَ	ﱑ	المتقين	those who fear (Him)	l-mutaqīna
+3	9:123:17	e	١٢٣	ﱒ			
+3	9:124:1	w	وَإِذَا	ﱓ	واذا	And whenever	wa-idhā
+3	9:124:2	w	مَآ	ﱔ	ما	And whenever	mā
+3	9:124:3	w	أُنزِلَتۡ	ﱕ	انزلت	is revealed	unzilat
+3	9:124:4	w	سُورَةٞ	ﱖ	سورة	a Surah	sūratun
+3	9:124:5	w	فَمِنۡهُم	ﱗ	فمنهم	among them	famin'hum
+3	9:124:6	w	مَّن	ﱘ	من	(are some) who	man
+3	9:124:7	w	يَقُولُ	ﱙ	يقول	say	yaqūlu
+3	9:124:8	w	أَيُّكُمۡ	ﱚ	ايكم	Which of you	ayyukum
+3	9:124:9	w	زَادَتۡهُ	ﱛ	زادته	(has) increased [it]	zādathu
+4	9:124:10	w	هَٰذِهِۦٓ	ﱜ	هاذه	(by) this	hādhihi
+4	9:124:11	w	إِيمَٰنٗاۚ	ﱝﱞ	ايمانا	(in) faith	īmānan
+4	9:124:12	w	فَأَمَّا	ﱟ	فاما	As for	fa-ammā
+4	9:124:13	w	ٱلَّذِينَ	ﱠ	الذين	those who	alladhīna
+4	9:124:14	w	ءَامَنُواْ	ﱡ	امنوا	believe	āmanū
+4	9:124:15	w	فَزَادَتۡهُمۡ	ﱢ	فزادتهم	then it has increased them	fazādathum
+4	9:124:16	w	إِيمَٰنٗا	ﱣ	ايمانا	(in) faith	īmānan
+4	9:124:17	w	وَهُمۡ	ﱤ	وهم	and they	wahum
+5	9:124:18	w	يَسۡتَبۡشِرُونَ	ﱥ	يستبشرون	rejoice	yastabshirūna
+5	9:124:19	e	١٢٤	ﱦ			
+5	9:125:1	w	وَأَمَّا	ﱧ	واما	But as for	wa-ammā
+5	9:125:2	w	ٱلَّذِينَ	ﱨ	الذين	those	alladhīna
+5	9:125:3	w	فِي	ﱩ	في	in	fī
+5	9:125:4	w	قُلُوبِهِم	ﱪ	قلوبهم	their hearts	qulūbihim
+5	9:125:5	w	مَّرَضٞ	ﱫ	مرض	(is) a disease	maraḍun
+5	9:125:6	w	فَزَادَتۡهُمۡ	ﱬ	فزادتهم	(it) increases them	fazādathum
+6	9:125:7	w	رِجۡسًا	ﱭ	رجسا	(in) evil	rij'san
+6	9:125:8	w	إِلَىٰ	ﱮ	الى	to	ilā
+6	9:125:9	w	رِجۡسِهِمۡ	ﱯ	رجسهم	their evil	rij'sihim
+6	9:125:10	w	وَمَاتُواْ	ﱰ	وماتوا	And they die	wamātū
+6	9:125:11	w	وَهُمۡ	ﱱ	وهم	while they	wahum
+6	9:125:12	w	كَٰفِرُونَ	ﱲ	كافرون	(are) disbelievers	kāfirūna
+6	9:125:13	e	١٢٥	ﱳ			
+6	9:126:1	w	أَوَلَا	ﱴ	اولا	Do not	awalā
+7	9:126:2	w	يَرَوۡنَ	ﱵ	يرون	they see	yarawna
+7	9:126:3	w	أَنَّهُمۡ	ﱶ	انهم	that they	annahum
+7	9:126:4	w	يُفۡتَنُونَ	ﱷ	يفتنون	are tried	yuf'tanūna
+7	9:126:5	w	فِي	ﱸ	في	[in]	fī
+7	9:126:6	w	كُلِّ	ﱹ	كل	every	kulli
+7	9:126:7	w	عَامٖ	ﱺ	عام	year	ʿāmin
+7	9:126:8	w	مَّرَّةً	ﱻ	مرة	once	marratan
+7	9:126:9	w	أَوۡ	ﱼ	او	or	aw
+7	9:126:10	w	مَرَّتَيۡنِ	ﱽ	مرتين	twice	marratayni
+8	9:126:11	w	ثُمَّ	ﱾ	ثم	Yet	thumma
+8	9:126:12	w	لَا	ﱿ	لا	not	lā
+8	9:126:13	w	يَتُوبُونَ	ﲀ	يتوبون	they turn (in repentance)	yatūbūna
+8	9:126:14	w	وَلَا	ﲁ	ولا	and not	walā
+8	9:126:15	w	هُمۡ	ﲂ	هم	they	hum
+8	9:126:16	w	يَذَّكَّرُونَ	ﲃ	يذكرون	pay heed	yadhakkarūna
+8	9:126:17	e	١٢٦	ﲄ			
+8	9:127:1	w	وَإِذَا	ﲅ	واذا	And whenever	wa-idhā
+8	9:127:2	w	مَآ	ﲆ	ما	And whenever	mā
+9	9:127:3	w	أُنزِلَتۡ	ﲇ	انزلت	is revealed	unzilat
+9	9:127:4	w	سُورَةٞ	ﲈ	سورة	a Surah	sūratun
+9	9:127:5	w	نَّظَرَ	ﲉ	نظر	look	naẓara
+9	9:127:6	w	بَعۡضُهُمۡ	ﲊ	بعضهم	some of them	baʿḍuhum
+9	9:127:7	w	إِلَىٰ	ﲋ	الى	to	ilā
+9	9:127:8	w	بَعۡضٍ	ﲌ	بعض	others	baʿḍin
+9	9:127:9	w	هَلۡ	ﲍ	هل	Does	hal
+9	9:127:10	w	يَرَىٰكُم	ﲎ	يراكم	see you	yarākum
+10	9:127:11	w	مِّنۡ	ﲏ	من	any	min
+10	9:127:12	w	أَحَدٖ	ﲐ	احد	one	aḥadin
+10	9:127:13	w	ثُمَّ	ﲑ	ثم	Then	thumma
+10	9:127:14	w	ٱنصَرَفُواْۚ	ﲒﲓ	انصرفوا	they turn away	inṣarafū
+10	9:127:15	w	صَرَفَ	ﲔ	صرف	Allah has turned away	ṣarafa
+10	9:127:16	w	ٱللَّهُ	ﲕ	الله	Allah has turned away	l-lahu
+10	9:127:17	w	قُلُوبَهُم	ﲖ	قلوبهم	their hearts	qulūbahum
+10	9:127:18	w	بِأَنَّهُمۡ	ﲗ	بانهم	because they	bi-annahum
+10	9:127:19	w	قَوۡمٞ	ﲘ	قوم	(are) a people	qawmun
+11	9:127:20	w	لَّا	ﲙ	لا	not	lā
+11	9:127:21	w	يَفۡقَهُونَ	ﲚ	يفقهون	they understand	yafqahūna
+11	9:127:22	e	١٢٧	ﲛ			
+11	9:128:1	w	لَقَدۡ	ﲜ	لقد	Certainly	laqad
+11	9:128:2	w	جَآءَكُمۡ	ﲝ	جاءكم	(has) come to you	jāakum
+11	9:128:3	w	رَسُولٞ	ﲞ	رسول	a Messenger	rasūlun
+11	9:128:4	w	مِّنۡ	ﲟ	من	from	min
+11	9:128:5	w	أَنفُسِكُمۡ	ﲠ	انفسكم	yourselves	anfusikum
+12	9:128:6	w	عَزِيزٌ	ﲡ	عزيز	Grievous	ʿazīzun
+12	9:128:7	w	عَلَيۡهِ	ﲢ	عليه	to him	ʿalayhi
+12	9:128:8	w	مَا	ﲣ	ما	(is) what	mā
+12	9:128:9	w	عَنِتُّمۡ	ﲤ	عنتم	you suffer	ʿanittum
+12	9:128:10	w	حَرِيصٌ	ﲥ	حريص	(he is) concerned	ḥarīṣun
+12	9:128:11	w	عَلَيۡكُم	ﲦ	عليكم	over you	ʿalaykum
+12	9:128:12	w	بِٱلۡمُؤۡمِنِينَ	ﲧ	بالمومنين	to the believers	bil-mu'minīna
+13	9:128:13	w	رَءُوفٞ	ﲨ	رءوف	(he is) kind	raūfun
+13	9:128:14	w	رَّحِيمٞ	ﲩ	رحيم	(and) merciful	raḥīmun
+13	9:128:15	e	١٢٨	ﲪ			
+13	9:129:1	w	فَإِن	ﲫ	فان	But if	fa-in
+13	9:129:2	w	تَوَلَّوۡاْ	ﲬ	تولوا	they turn away	tawallaw
+13	9:129:3	w	فَقُلۡ	ﲭ	فقل	then say	faqul
+13	9:129:4	w	حَسۡبِيَ	ﲮ	حسبي	Sufficient for me	ḥasbiya
+13	9:129:5	w	ٱللَّهُ	ﲯ	الله	(is) Allah	l-lahu
+13	9:129:6	w	لَآ	ﲰ	لا	(There is) no	lā
+13	9:129:7	w	إِلَٰهَ	ﲱ	الاه	god	ilāha
+14	9:129:8	w	إِلَّا	ﲲ	الا	except	illā
+14	9:129:9	w	هُوَۖ	ﲳﲴ	هو	Him	huwa
+14	9:129:10	w	عَلَيۡهِ	ﲵ	عليه	On Him	ʿalayhi
+14	9:129:11	w	تَوَكَّلۡتُۖ	ﲶﲷ	توكلت	I put my trust	tawakkaltu
+14	9:129:12	w	وَهُوَ	ﲸ	وهو	And He	wahuwa
+14	9:129:13	w	رَبُّ	ﲹ	رب	(is the) Lord	rabbu
+14	9:129:14	w	ٱلۡعَرۡشِ	ﲺ	العرش	(of) the Throne	l-ʿarshi
+14	9:129:15	w	ٱلۡعَظِيمِ	ﲻ	العظيم	the Great	l-ʿaẓīmi
+14	9:129:16	e	١٢٩	ﲼ			

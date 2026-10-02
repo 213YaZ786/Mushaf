@@ -1,0 +1,144 @@
+1	15:16:1	w	وَلَقَدۡ	ﱁ	ولقد	And verily	walaqad
+1	15:16:2	w	جَعَلۡنَا	ﱂ	جعلنا	We have placed	jaʿalnā
+1	15:16:3	w	فِي	ﱃ	في	in	fī
+1	15:16:4	w	ٱلسَّمَآءِ	ﱄ	السماء	the heavens	l-samāi
+1	15:16:5	w	بُرُوجٗا	ﱅ	بروجا	constellations	burūjan
+1	15:16:6	w	وَزَيَّنَّٰهَا	ﱆ	وزيناها	and We have beautified it	wazayyannāhā
+1	15:16:7	w	لِلنَّٰظِرِينَ	ﱇ	للناظرين	for the observers	lilnnāẓirīna
+1	15:16:8	e	١٦	ﱈ			
+2	15:17:1	w	وَحَفِظۡنَٰهَا	ﱉ	وحفظناها	And We have protected it	waḥafiẓ'nāhā
+2	15:17:2	w	مِن	ﱊ	من	from	min
+2	15:17:3	w	كُلِّ	ﱋ	كل	every	kulli
+2	15:17:4	w	شَيۡطَٰنٖ	ﱌ	شيطان	devil	shayṭānin
+2	15:17:5	w	رَّجِيمٍ	ﱍ	رجيم	accursed	rajīmin
+2	15:17:6	e	١٧	ﱎ			
+2	15:18:1	w	إِلَّا	ﱏ	الا	Except	illā
+2	15:18:2	w	مَنِ	ﱐ	من	(one) who	mani
+2	15:18:3	w	ٱسۡتَرَقَ	ﱑ	استرق	steals	is'taraqa
+2	15:18:4	w	ٱلسَّمۡعَ	ﱒ	السمع	the hearing	l-samʿa
+3	15:18:5	w	فَأَتۡبَعَهُۥ	ﱓ	فاتبعه	then follows him	fa-atbaʿahu
+3	15:18:6	w	شِهَابٞ	ﱔ	شهاب	a burning flame	shihābun
+3	15:18:7	w	مُّبِينٞ	ﱕ	مبين	clear	mubīnun
+3	15:18:8	e	١٨	ﱖ			
+3	15:19:1	w	وَٱلۡأَرۡضَ	ﱗ	والارض	And the earth	wal-arḍa
+3	15:19:2	w	مَدَدۡنَٰهَا	ﱘ	مددناها	We have spread it	madadnāhā
+3	15:19:3	w	وَأَلۡقَيۡنَا	ﱙ	والقينا	and [We] cast	wa-alqaynā
+3	15:19:4	w	فِيهَا	ﱚ	فيها	therein	fīhā
+4	15:19:5	w	رَوَٰسِيَ	ﱛ	رواسي	firm mountains	rawāsiya
+4	15:19:6	w	وَأَنۢبَتۡنَا	ﱜ	وانبتنا	and [We] caused to grow	wa-anbatnā
+4	15:19:7	w	فِيهَا	ﱝ	فيها	therein	fīhā
+4	15:19:8	w	مِن	ﱞ	من	of	min
+4	15:19:9	w	كُلِّ	ﱟ	كل	every	kulli
+4	15:19:10	w	شَيۡءٖ	ﱠ	شيء	thing	shayin
+4	15:19:11	w	مَّوۡزُونٖ	ﱡ	موزون	well-balanced	mawzūnin
+4	15:19:12	e	١٩	ﱢ			
+4	15:20:1	w	وَجَعَلۡنَا	ﱣ	وجعلنا	And We have made	wajaʿalnā
+4	15:20:2	w	لَكُمۡ	ﱤ	لكم	for you	lakum
+5	15:20:3	w	فِيهَا	ﱥ	فيها	therein	fīhā
+5	15:20:4	w	مَعَٰيِشَ	ﱦ	معايش	means of living	maʿāyisha
+5	15:20:5	w	وَمَن	ﱧ	ومن	and whom	waman
+5	15:20:6	w	لَّسۡتُمۡ	ﱨ	لستم	you are not	lastum
+5	15:20:7	w	لَهُۥ	ﱩ	له	for him	lahu
+5	15:20:8	w	بِرَٰزِقِينَ	ﱪ	برازقين	providers	birāziqīna
+5	15:20:9	e	٢٠	ﱫ			
+5	15:21:1	w	وَإِن	ﱬ	وان	And not	wa-in
+5	15:21:2	w	مِّن	ﱭ	من	(is) any	min
+5	15:21:3	w	شَيۡءٍ	ﱮ	شيء	thing	shayin
+5	15:21:4	w	إِلَّا	ﱯ	الا	but	illā
+6	15:21:5	w	عِندَنَا	ﱰ	عندنا	with Us	ʿindanā
+6	15:21:6	w	خَزَآئِنُهُۥ	ﱱ	خزاينه	(are) its treasures	khazāinuhu
+6	15:21:7	w	وَمَا	ﱲ	وما	and not	wamā
+6	15:21:8	w	نُنَزِّلُهُۥٓ	ﱳ	ننزله	We send it down	nunazziluhu
+6	15:21:9	w	إِلَّا	ﱴ	الا	except	illā
+6	15:21:10	w	بِقَدَرٖ	ﱵ	بقدر	in a measure	biqadarin
+6	15:21:11	w	مَّعۡلُومٖ	ﱶ	معلوم	known	maʿlūmin
+6	15:21:12	e	٢١	ﱷ			
+6	15:22:1	w	وَأَرۡسَلۡنَا	ﱸ	وارسلنا	And We have sent	wa-arsalnā
+7	15:22:2	w	ٱلرِّيَٰحَ	ﱹ	الرياح	the winds	l-riyāḥa
+7	15:22:3	w	لَوَٰقِحَ	ﱺ	لواقح	fertilizing	lawāqiḥa
+7	15:22:4	w	فَأَنزَلۡنَا	ﱻ	فانزلنا	and We sent down	fa-anzalnā
+7	15:22:5	w	مِنَ	ﱼ	من	from	mina
+7	15:22:6	w	ٱلسَّمَآءِ	ﱽ	السماء	the sky	l-samāi
+7	15:22:7	w	مَآءٗ	ﱾ	ماء	water	māan
+7	15:22:8	w	فَأَسۡقَيۡنَٰكُمُوهُ	ﱿ	فاسقيناكموه	and We gave it to you to drink	fa-asqaynākumūhu
+7	15:22:9	w	وَمَآ	ﲀ	وما	And not	wamā
+7	15:22:10	w	أَنتُمۡ	ﲁ	انتم	you	antum
+8	15:22:11	w	لَهُۥ	ﲂ	له	of it	lahu
+8	15:22:12	w	بِخَٰزِنِينَ	ﲃ	بخازنين	(are) retainers	bikhāzinīna
+8	15:22:13	e	٢٢	ﲄ			
+8	15:23:1	w	وَإِنَّا	ﲅ	وانا	And indeed, We	wa-innā
+8	15:23:2	w	لَنَحۡنُ	ﲆ	لنحن	surely [We]	lanaḥnu
+8	15:23:3	w	نُحۡيِۦ	ﲇ	نحيي	We give life	nuḥ'yī
+8	15:23:4	w	وَنُمِيتُ	ﲈ	ونميت	and We cause death	wanumītu
+8	15:23:5	w	وَنَحۡنُ	ﲉ	ونحن	and We	wanaḥnu
+8	15:23:6	w	ٱلۡوَٰرِثُونَ	ﲊ	الوارثون	(are) the Inheritors	l-wārithūna
+8	15:23:7	e	٢٣	ﲋ			
+9	15:24:1	w	وَلَقَدۡ	ﲌ	ولقد	And verily	walaqad
+9	15:24:2	w	عَلِمۡنَا	ﲍ	علمنا	We know	ʿalim'nā
+9	15:24:3	w	ٱلۡمُسۡتَقۡدِمِينَ	ﲎ	المستقدمين	the preceding ones	l-mus'taqdimīna
+9	15:24:4	w	مِنكُمۡ	ﲏ	منكم	among you	minkum
+9	15:24:5	w	وَلَقَدۡ	ﲐ	ولقد	and verily	walaqad
+9	15:24:6	w	عَلِمۡنَا	ﲑ	علمنا	We know	ʿalim'nā
+9	15:24:7	w	ٱلۡمُسۡتَـٔۡخِرِينَ	ﲒ	المستاخرين	the later ones	l-mus'takhirīna
+10	15:24:8	e	٢٤	ﲓ			
+10	15:25:1	w	وَإِنَّ	ﲔ	وان	And indeed	wa-inna
+10	15:25:2	w	رَبَّكَ	ﲕ	ربك	your Lord	rabbaka
+10	15:25:3	w	هُوَ	ﲖ	هو	He	huwa
+10	15:25:4	w	يَحۡشُرُهُمۡۚ	ﲗﲘ	يحشرهم	will gather them	yaḥshuruhum
+10	15:25:5	w	إِنَّهُۥ	ﲙ	انه	Indeed, He	innahu
+10	15:25:6	w	حَكِيمٌ	ﲚ	حكيم	(is) All-Wise	ḥakīmun
+10	15:25:7	w	عَلِيمٞ	ﲛ	عليم	All-Knowing	ʿalīmun
+10	15:25:8	e	٢٥	ﲜ			
+10	15:26:1	w	وَلَقَدۡ	ﲝ	ولقد	And verily	walaqad
+10	15:26:2	w	خَلَقۡنَا	ﲞ	خلقنا	We created	khalaqnā
+11	15:26:3	w	ٱلۡإِنسَٰنَ	ﲟ	الانسان	humankind	l-insāna
+11	15:26:4	w	مِن	ﲠ	من	(out) of	min
+11	15:26:5	w	صَلۡصَٰلٖ	ﲡ	صلصال	sounding clay	ṣalṣālin
+11	15:26:6	w	مِّنۡ	ﲢ	من	from	min
+11	15:26:7	w	حَمَإٖ	ﲣ	حما	black mud	ḥama-in
+11	15:26:8	w	مَّسۡنُونٖ	ﲤ	مسنون	altered	masnūnin
+11	15:26:9	e	٢٦	ﲥ			
+11	15:27:1	w	وَٱلۡجَآنَّ	ﲦ	والجان	And the jinn	wal-jāna
+11	15:27:2	w	خَلَقۡنَٰهُ	ﲧ	خلقناه	We created it	khalaqnāhu
+11	15:27:3	w	مِن	ﲨ	من	before	min
+12	15:27:4	w	قَبۡلُ	ﲩ	قبل	before	qablu
+12	15:27:5	w	مِن	ﲪ	من	from	min
+12	15:27:6	w	نَّارِ	ﲫ	نار	fire	nāri
+12	15:27:7	w	ٱلسَّمُومِ	ﲬ	السموم	scorching	l-samūmi
+12	15:27:8	e	٢٧	ﲭ			
+12	15:28:1	w	وَإِذۡ	ﲮ	واذ	And when	wa-idh
+12	15:28:2	w	قَالَ	ﲯ	قال	your Lord said	qāla
+12	15:28:3	w	رَبُّكَ	ﲰ	ربك	your Lord said	rabbuka
+12	15:28:4	w	لِلۡمَلَٰٓئِكَةِ	ﲱ	للملايكة	to the Angels	lil'malāikati
+12	15:28:5	w	إِنِّي	ﲲ	اني	Indeed, I	innī
+12	15:28:6	w	خَٰلِقُۢ	ﲳ	خالق	(will) create	khāliqun
+12	15:28:7	w	بَشَرٗا	ﲴ	بشرا	a human being	basharan
+13	15:28:8	w	مِّن	ﲵ	من	(out) of	min
+13	15:28:9	w	صَلۡصَٰلٖ	ﲶ	صلصال	clay	ṣalṣālin
+13	15:28:10	w	مِّنۡ	ﲷ	من	from	min
+13	15:28:11	w	حَمَإٖ	ﲸ	حما	black mud	ḥama-in
+13	15:28:12	w	مَّسۡنُونٖ	ﲹ	مسنون	altered	masnūnin
+13	15:28:13	e	٢٨	ﲺ			
+13	15:29:1	w	فَإِذَا	ﲻ	فاذا	So, when	fa-idhā
+13	15:29:2	w	سَوَّيۡتُهُۥ	ﲼ	سويته	I have fashioned him	sawwaytuhu
+13	15:29:3	w	وَنَفَخۡتُ	ﲽ	ونفخت	and [I] breathed	wanafakhtu
+13	15:29:4	w	فِيهِ	ﲾ	فيه	into him	fīhi
+14	15:29:5	w	مِن	ﲿ	من	of	min
+14	15:29:6	w	رُّوحِي	ﳀ	روحي	My spirit	rūḥī
+14	15:29:7	w	فَقَعُواْ	ﳁ	فقعوا	then fall down	faqaʿū
+14	15:29:8	w	لَهُۥ	ﳂ	له	to him	lahu
+14	15:29:9	w	سَٰجِدِينَ	ﳃ	ساجدين	prostrating	sājidīna
+14	15:29:10	e	٢٩	ﳄ			
+14	15:30:1	w	فَسَجَدَ	ﳅ	فسجد	So prostrated	fasajada
+14	15:30:2	w	ٱلۡمَلَٰٓئِكَةُ	ﳆ	الملايكة	the Angels	l-malāikatu
+14	15:30:3	w	كُلُّهُمۡ	ﳇ	كلهم	all of them	kulluhum
+15	15:30:4	w	أَجۡمَعُونَ	ﳈ	اجمعون	together	ajmaʿūna
+15	15:30:5	e	٣٠	ﳉ			
+15	15:31:1	w	إِلَّآ	ﳊ	الا	Except	illā
+15	15:31:2	w	إِبۡلِيسَ	ﳋ	ابليس	Iblis	ib'līsa
+15	15:31:3	w	أَبَىٰٓ	ﳌ	ابى	He refused	abā
+15	15:31:4	w	أَن	ﳍ	ان	to	an
+15	15:31:5	w	يَكُونَ	ﳎ	يكون	be	yakūna
+15	15:31:6	w	مَعَ	ﳏ	مع	with	maʿa
+15	15:31:7	w	ٱلسَّٰجِدِينَ	ﳐ	الساجدين	those who prostrated	l-sājidīna
+15	15:31:8	e	٣١	ﳑ			

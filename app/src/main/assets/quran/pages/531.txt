@@ -1,0 +1,112 @@
+1	54:50:1	w	وَمَآ	ﱁ	وما	And not	wamā
+1	54:50:2	w	أَمۡرُنَآ	ﱂ	امرنا	(is) Our Command	amrunā
+1	54:50:3	w	إِلَّا	ﱃ	الا	but	illā
+1	54:50:4	w	وَٰحِدَةٞ	ﱄ	واحدة	one	wāḥidatun
+1	54:50:5	w	كَلَمۡحِۭ	ﱅ	كلمح	like the twinkling	kalamḥin
+1	54:50:6	w	بِٱلۡبَصَرِ	ﱆ	بالبصر	(of) the eye	bil-baṣari
+1	54:50:7	e	٥٠	ﱇ			
+1	54:51:1	w	وَلَقَدۡ	ﱈ	ولقد	And certainly	walaqad
+1	54:51:2	w	أَهۡلَكۡنَآ	ﱉ	اهلكنا	We destroyed	ahlaknā
+2	54:51:3	w	أَشۡيَاعَكُمۡ	ﱊ	اشياعكم	your kinds	ashyāʿakum
+2	54:51:4	w	فَهَلۡ	ﱋ	فهل	so is (there)	fahal
+2	54:51:5	w	مِن	ﱌ	من	any	min
+2	54:51:6	w	مُّدَّكِرٖ	ﱍ	مدكر	who will receive admonition	muddakirin
+2	54:51:7	e	٥١	ﱎ			
+2	54:52:1	w	وَكُلُّ	ﱏ	وكل	And every	wakullu
+2	54:52:2	w	شَيۡءٖ	ﱐ	شيء	thing	shayin
+2	54:52:3	w	فَعَلُوهُ	ﱑ	فعلوه	they did	faʿalūhu
+2	54:52:4	w	فِي	ﱒ	في	(is) in	fī
+2	54:52:5	w	ٱلزُّبُرِ	ﱓ	الزبر	the written records	l-zuburi
+3	54:52:6	e	٥٢	ﱔ			
+3	54:53:1	w	وَكُلُّ	ﱕ	وكل	And every	wakullu
+3	54:53:2	w	صَغِيرٖ	ﱖ	صغير	small	ṣaghīrin
+3	54:53:3	w	وَكَبِيرٖ	ﱗ	وكبير	and big	wakabīrin
+3	54:53:4	w	مُّسۡتَطَرٌ	ﱘ	مستطر	(is) written down	mus'taṭarun
+3	54:53:5	e	٥٣	ﱙ			
+3	54:54:1	w	إِنَّ	ﱚ	ان	Indeed	inna
+3	54:54:2	w	ٱلۡمُتَّقِينَ	ﱛ	المتقين	the righteous	l-mutaqīna
+4	54:54:3	w	فِي	ﱜ	في	(will be) in	fī
+4	54:54:4	w	جَنَّٰتٖ	ﱝ	جنات	gardens	jannātin
+4	54:54:5	w	وَنَهَرٖ	ﱞ	ونهر	and river	wanaharin
+4	54:54:6	e	٥٤	ﱟ			
+4	54:55:1	w	فِي	ﱠ	في	In	fī
+4	54:55:2	w	مَقۡعَدِ	ﱡ	مقعد	a seat	maqʿadi
+4	54:55:3	w	صِدۡقٍ	ﱢ	صدق	(of) honor	ṣid'qin
+4	54:55:4	w	عِندَ	ﱣ	عند	near	ʿinda
+4	54:55:5	w	مَلِيكٖ	ﱤ	مليك	a King	malīkin
+4	54:55:6	w	مُّقۡتَدِرِۭ	ﱥ	مقتدر	Most Powerful	muq'tadirin
+4	54:55:7	e	٥٥	ﱦ			
+7	55:1:1	w	ٱلرَّحۡمَٰنُ	ﱧ	الرحمان	The Most Gracious	al-raḥmānu
+7	55:1:2	e	١	ﱨ			
+7	55:2:1	w	عَلَّمَ	ﱩ	علم	He taught	ʿallama
+7	55:2:2	w	ٱلۡقُرۡءَانَ	ﱪ	القران	the Quran	l-qur'āna
+7	55:2:3	e	٢	ﱫ			
+7	55:3:1	w	خَلَقَ	ﱬ	خلق	He created	khalaqa
+7	55:3:2	w	ٱلۡإِنسَٰنَ	ﱭ	الانسان	[the] man	l-insāna
+7	55:3:3	e	٣	ﱮ			
+7	55:4:1	w	عَلَّمَهُ	ﱯ	علمه	He taught him	ʿallamahu
+7	55:4:2	w	ٱلۡبَيَانَ	ﱰ	البيان	[the] speech	l-bayāna
+7	55:4:3	e	٤	ﱱ			
+8	55:5:1	w	ٱلشَّمۡسُ	ﱲ	الشمس	The sun	al-shamsu
+8	55:5:2	w	وَٱلۡقَمَرُ	ﱳ	والقمر	and the moon	wal-qamaru
+8	55:5:3	w	بِحُسۡبَانٖ	ﱴ	بحسبان	by (precise) calculation	biḥus'bānin
+8	55:5:4	e	٥	ﱵ			
+8	55:6:1	w	وَٱلنَّجۡمُ	ﱶ	والنجم	And the stars	wal-najmu
+8	55:6:2	w	وَٱلشَّجَرُ	ﱷ	والشجر	and the trees	wal-shajaru
+8	55:6:3	w	يَسۡجُدَانِ	ﱸ	يسجدان	both prostrate	yasjudāni
+8	55:6:4	e	٦	ﱹ			
+9	55:7:1	w	وَٱلسَّمَآءَ	ﱺ	والسماء	And the heaven	wal-samāa
+9	55:7:2	w	رَفَعَهَا	ﱻ	رفعها	He raised it	rafaʿahā
+9	55:7:3	w	وَوَضَعَ	ﱼ	ووضع	and He has set up	wawaḍaʿa
+9	55:7:4	w	ٱلۡمِيزَانَ	ﱽ	الميزان	the balance	l-mīzāna
+9	55:7:5	e	٧	ﱾ			
+9	55:8:1	w	أَلَّا	ﱿ	الا	That not	allā
+9	55:8:2	w	تَطۡغَوۡاْ	ﲀ	تطغوا	you may transgress	taṭghaw
+9	55:8:3	w	فِي	ﲁ	في	in	fī
+9	55:8:4	w	ٱلۡمِيزَانِ	ﲂ	الميزان	the balance	l-mīzāni
+9	55:8:5	e	٨	ﲃ			
+10	55:9:1	w	وَأَقِيمُواْ	ﲄ	واقيموا	And establish	wa-aqīmū
+10	55:9:2	w	ٱلۡوَزۡنَ	ﲅ	الوزن	the weight	l-wazna
+10	55:9:3	w	بِٱلۡقِسۡطِ	ﲆ	بالقسط	in justice	bil-qis'ṭi
+10	55:9:4	w	وَلَا	ﲇ	ولا	and (do) not	walā
+10	55:9:5	w	تُخۡسِرُواْ	ﲈ	تخسروا	make deficient	tukh'sirū
+10	55:9:6	w	ٱلۡمِيزَانَ	ﲉ	الميزان	the balance	l-mīzāna
+10	55:9:7	e	٩	ﲊ			
+10	55:10:1	w	وَٱلۡأَرۡضَ	ﲋ	والارض	And the earth	wal-arḍa
+11	55:10:2	w	وَضَعَهَا	ﲌ	وضعها	He laid it	waḍaʿahā
+11	55:10:3	w	لِلۡأَنَامِ	ﲍ	للانام	for the creatures	lil'anāmi
+11	55:10:4	e	١٠	ﲎ			
+11	55:11:1	w	فِيهَا	ﲏ	فيها	Therein	fīhā
+11	55:11:2	w	فَٰكِهَةٞ	ﲐ	فاكهة	(is) fruit	fākihatun
+11	55:11:3	w	وَٱلنَّخۡلُ	ﲑ	والنخل	and date-palms	wal-nakhlu
+11	55:11:4	w	ذَاتُ	ﲒ	ذات	having	dhātu
+11	55:11:5	w	ٱلۡأَكۡمَامِ	ﲓ	الاكمام	sheaths	l-akmāmi
+11	55:11:6	e	١١	ﲔ			
+12	55:12:1	w	وَٱلۡحَبُّ	ﲕ	والحب	And the grain	wal-ḥabu
+12	55:12:2	w	ذُو	ﲖ	ذو	having	dhū
+12	55:12:3	w	ٱلۡعَصۡفِ	ﲗ	العصف	husk	l-ʿaṣfi
+12	55:12:4	w	وَٱلرَّيۡحَانُ	ﲘ	والريحان	and scented plants	wal-rayḥānu
+12	55:12:5	e	١٢	ﲙ			
+12	55:13:1	w	فَبِأَيِّ	ﲚ	فباي	So which	fabi-ayyi
+12	55:13:2	w	ءَالَآءِ	ﲛ	الاء	(of the) favors	ālāi
+12	55:13:3	w	رَبِّكُمَا	ﲜ	ربكما	(of) your Lord	rabbikumā
+12	55:13:4	w	تُكَذِّبَانِ	ﲝ	تكذبان	will you both deny	tukadhibāni
+13	55:13:5	e	١٣	ﲞ			
+13	55:14:1	w	خَلَقَ	ﲟ	خلق	He created	khalaqa
+13	55:14:2	w	ٱلۡإِنسَٰنَ	ﲠ	الانسان	the man	l-insāna
+13	55:14:3	w	مِن	ﲡ	من	from	min
+13	55:14:4	w	صَلۡصَٰلٖ	ﲢ	صلصال	clay	ṣalṣālin
+13	55:14:5	w	كَٱلۡفَخَّارِ	ﲣ	كالفخار	like the pottery	kal-fakhāri
+13	55:14:6	e	١٤	ﲤ			
+13	55:15:1	w	وَخَلَقَ	ﲥ	وخلق	And He created	wakhalaqa
+13	55:15:2	w	ٱلۡجَآنَّ	ﲦ	الجان	the jinn	l-jāna
+13	55:15:3	w	مِن	ﲧ	من	from	min
+14	55:15:4	w	مَّارِجٖ	ﲨ	مارج	a smokeless flame	mārijin
+14	55:15:5	w	مِّن	ﲩ	من	of	min
+14	55:15:6	w	نَّارٖ	ﲪ	نار	fire	nārin
+14	55:15:7	e	١٥	ﲫ			
+14	55:16:1	w	فَبِأَيِّ	ﲬ	فباي	So which	fabi-ayyi
+14	55:16:2	w	ءَالَآءِ	ﲭ	الاء	(of the) favors	ālāi
+14	55:16:3	w	رَبِّكُمَا	ﲮ	ربكما	(of) your Lord	rabbikumā
+14	55:16:4	w	تُكَذِّبَانِ	ﲯ	تكذبان	will you both deny	tukadhibāni
+14	55:16:5	e	١٦	ﲰ			

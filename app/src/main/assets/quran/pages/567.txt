@@ -1,0 +1,164 @@
+1	69:9:1	w	وَجَآءَ	ﱁ	وجاء	And came	wajāa
+1	69:9:2	w	فِرۡعَوۡنُ	ﱂ	فرعون	Firaun	fir'ʿawnu
+1	69:9:3	w	وَمَن	ﱃ	ومن	and (those)	waman
+1	69:9:4	w	قَبۡلَهُۥ	ﱄ	قبله	before him	qablahu
+1	69:9:5	w	وَٱلۡمُؤۡتَفِكَٰتُ	ﱅ	والموتفكات	and the overturned cities	wal-mu'tafikātu
+1	69:9:6	w	بِٱلۡخَاطِئَةِ	ﱆ	بالخاطية	with sin	bil-khāṭi-ati
+1	69:9:7	e	٩	ﱇ			
+1	69:10:1	w	فَعَصَوۡاْ	ﱈ	فعصوا	And they disobeyed	faʿaṣaw
+1	69:10:2	w	رَسُولَ	ﱉ	رسول	(the) Messenger	rasūla
+2	69:10:3	w	رَبِّهِمۡ	ﱊ	ربهم	(of) their Lord	rabbihim
+2	69:10:4	w	فَأَخَذَهُمۡ	ﱋ	فاخذهم	so He seized them	fa-akhadhahum
+2	69:10:5	w	أَخۡذَةٗ	ﱌ	اخذة	(with) a seizure	akhdhatan
+2	69:10:6	w	رَّابِيَةً	ﱍ	رابية	exceeding	rābiyatan
+2	69:10:7	e	١٠	ﱎ			
+2	69:11:1	w	إِنَّا	ﱏ	انا	Indeed, We	innā
+2	69:11:2	w	لَمَّا	ﱐ	لما	when	lammā
+2	69:11:3	w	طَغَا	ﱑ	طغى	overflowed	ṭaghā
+2	69:11:4	w	ٱلۡمَآءُ	ﱒ	الماء	the water	l-māu
+2	69:11:5	w	حَمَلۡنَٰكُمۡ	ﱓ	حملناكم	We carried you	ḥamalnākum
+2	69:11:6	w	فِي	ﱔ	في	in	fī
+2	69:11:7	w	ٱلۡجَارِيَةِ	ﱕ	الجارية	the sailing (ship)	l-jāriyati
+3	69:11:8	e	١١	ﱖ			
+3	69:12:1	w	لِنَجۡعَلَهَا	ﱗ	لنجعلها	That We might make it	linajʿalahā
+3	69:12:2	w	لَكُمۡ	ﱘ	لكم	for you	lakum
+3	69:12:3	w	تَذۡكِرَةٗ	ﱙ	تذكرة	a reminder	tadhkiratan
+3	69:12:4	w	وَتَعِيَهَآ	ﱚ	وتعيها	and would be conscious of it	wataʿiyahā
+3	69:12:5	w	أُذُنٞ	ﱛ	اذن	an ear	udhunun
+3	69:12:6	w	وَٰعِيَةٞ	ﱜ	واعية	conscious	wāʿiyatun
+3	69:12:7	e	١٢	ﱝ			
+3	69:13:1	w	فَإِذَا	ﱞ	فاذا	Then when	fa-idhā
+3	69:13:2	w	نُفِخَ	ﱟ	نفخ	is blown	nufikha
+3	69:13:3	w	فِي	ﱠ	في	in	fī
+3	69:13:4	w	ٱلصُّورِ	ﱡ	الصور	the trumpet	l-ṣūri
+4	69:13:5	w	نَفۡخَةٞ	ﱢ	نفخة	a blast	nafkhatun
+4	69:13:6	w	وَٰحِدَةٞ	ﱣ	واحدة	single	wāḥidatun
+4	69:13:7	e	١٣	ﱤ			
+4	69:14:1	w	وَحُمِلَتِ	ﱥ	وحملت	And are lifted	waḥumilati
+4	69:14:2	w	ٱلۡأَرۡضُ	ﱦ	الارض	the earth	l-arḍu
+4	69:14:3	w	وَٱلۡجِبَالُ	ﱧ	والجبال	and the mountains	wal-jibālu
+4	69:14:4	w	فَدُكَّتَا	ﱨ	فدكتا	and crushed	fadukkatā
+4	69:14:5	w	دَكَّةٗ	ﱩ	دكة	(with) a crushing	dakkatan
+4	69:14:6	w	وَٰحِدَةٗ	ﱪ	واحدة	single	wāḥidatan
+4	69:14:7	e	١٤	ﱫ			
+5	69:15:1	w	فَيَوۡمَئِذٖ	ﱬ	فيوميذ	Then (on) that Day	fayawma-idhin
+5	69:15:2	w	وَقَعَتِ	ﱭ	وقعت	will occur	waqaʿati
+5	69:15:3	w	ٱلۡوَاقِعَةُ	ﱮ	الواقعة	the Occurrence	l-wāqiʿatu
+5	69:15:4	e	١٥	ﱯ			
+5	69:16:1	w	وَٱنشَقَّتِ	ﱰ	وانشقت	And will split	wa-inshaqqati
+5	69:16:2	w	ٱلسَّمَآءُ	ﱱ	السماء	the heaven	l-samāu
+5	69:16:3	w	فَهِيَ	ﱲ	فهي	so it	fahiya
+5	69:16:4	w	يَوۡمَئِذٖ	ﱳ	يوميذ	(is on) that Day	yawma-idhin
+5	69:16:5	w	وَاهِيَةٞ	ﱴ	واهية	frail	wāhiyatun
+6	69:16:6	e	١٦	ﱵ			
+6	69:17:1	w	وَٱلۡمَلَكُ	ﱶ	والملك	And the Angels	wal-malaku
+6	69:17:2	w	عَلَىٰٓ	ﱷ	على	(will be) on	ʿalā
+6	69:17:3	w	أَرۡجَآئِهَاۚ	ﱸﱹ	ارجايها	its edges	arjāihā
+6	69:17:4	w	وَيَحۡمِلُ	ﱺ	ويحمل	and will bear	wayaḥmilu
+6	69:17:5	w	عَرۡشَ	ﱻ	عرش	(the) Throne	ʿarsha
+6	69:17:6	w	رَبِّكَ	ﱼ	ربك	(of) your Lord	rabbika
+6	69:17:7	w	فَوۡقَهُمۡ	ﱽ	فوقهم	above them	fawqahum
+6	69:17:8	w	يَوۡمَئِذٖ	ﱾ	يوميذ	that Day	yawma-idhin
+6	69:17:9	w	ثَمَٰنِيَةٞ	ﱿ	ثمانية	eight	thamāniyatun
+7	69:17:10	e	١٧	ﲀ			
+7	69:18:1	w	يَوۡمَئِذٖ	ﲁ	يوميذ	That Day	yawma-idhin
+7	69:18:2	w	تُعۡرَضُونَ	ﲂ	تعرضون	you will be exhibited	tuʿ'raḍūna
+7	69:18:3	w	لَا	ﲃ	لا	not	lā
+7	69:18:4	w	تَخۡفَىٰ	ﲄ	تخفى	will be hidden	takhfā
+7	69:18:5	w	مِنكُمۡ	ﲅ	منكم	among you	minkum
+7	69:18:6	w	خَافِيَةٞ	ﲆ	خافية	any secret	khāfiyatun
+7	69:18:7	e	١٨	ﲇ			
+7	69:19:1	w	فَأَمَّا	ﲈ	فاما	Then as for	fa-ammā
+7	69:19:2	w	مَنۡ	ﲉ	من	(him) who	man
+7	69:19:3	w	أُوتِيَ	ﲊ	اوتي	is given	ūtiya
+7	69:19:4	w	كِتَٰبَهُۥ	ﲋ	كتابه	his record	kitābahu
+8	69:19:5	w	بِيَمِينِهِۦ	ﲌ	بيمينه	in his right hand	biyamīnihi
+8	69:19:6	w	فَيَقُولُ	ﲍ	فيقول	will say	fayaqūlu
+8	69:19:7	w	هَآؤُمُ	ﲎ	هاوم	Here	hāumu
+8	69:19:8	w	ٱقۡرَءُواْ	ﲏ	اقرءوا	read	iq'raū
+8	69:19:9	w	كِتَٰبِيَهۡ	ﲐ	كتابيه	my record	kitābiyah
+8	69:19:10	e	١٩	ﲑ			
+8	69:20:1	w	إِنِّي	ﲒ	اني	Indeed, I	innī
+8	69:20:2	w	ظَنَنتُ	ﲓ	ظننت	was certain	ẓanantu
+8	69:20:3	w	أَنِّي	ﲔ	اني	that I	annī
+8	69:20:4	w	مُلَٰقٍ	ﲕ	ملاق	(will) meet	mulāqin
+8	69:20:5	w	حِسَابِيَهۡ	ﲖ	حسابيه	my account	ḥisābiyah
+9	69:20:6	e	٢٠	ﲗ			
+9	69:21:1	w	فَهُوَ	ﲘ	فهو	So he	fahuwa
+9	69:21:2	w	فِي	ﲙ	في	(will be) in	fī
+9	69:21:3	w	عِيشَةٖ	ﲚ	عيشة	a life	ʿīshatin
+9	69:21:4	w	رَّاضِيَةٖ	ﲛ	راضية	pleasant	rāḍiyatin
+9	69:21:5	e	٢١	ﲜ			
+9	69:22:1	w	فِي	ﲝ	في	In	fī
+9	69:22:2	w	جَنَّةٍ	ﲞ	جنة	a Garden	jannatin
+9	69:22:3	w	عَالِيَةٖ	ﲟ	عالية	elevated	ʿāliyatin
+9	69:22:4	e	٢٢	ﲠ			
+9	69:23:1	w	قُطُوفُهَا	ﲡ	قطوفها	Its clusters of fruits	quṭūfuhā
+9	69:23:2	w	دَانِيَةٞ	ﲢ	دانية	hanging near	dāniyatun
+9	69:23:3	e	٢٣	ﲣ			
+10	69:24:1	w	كُلُواْ	ﲤ	كلوا	Eat	kulū
+10	69:24:2	w	وَٱشۡرَبُواْ	ﲥ	واشربوا	and drink	wa-ish'rabū
+10	69:24:3	w	هَنِيٓـَٔۢا	ﲦ	هنييا	(in) satisfaction	hanīan
+10	69:24:4	w	بِمَآ	ﲧ	بما	for what	bimā
+10	69:24:5	w	أَسۡلَفۡتُمۡ	ﲨ	اسلفتم	you sent before you	aslaftum
+10	69:24:6	w	فِي	ﲩ	في	in	fī
+10	69:24:7	w	ٱلۡأَيَّامِ	ﲪ	الايام	the days	l-ayāmi
+10	69:24:8	w	ٱلۡخَالِيَةِ	ﲫ	الخالية	past	l-khāliyati
+10	69:24:9	e	٢٤	ﲬ			
+10	69:25:1	w	وَأَمَّا	ﲭ	واما	But as for	wa-ammā
+10	69:25:2	w	مَنۡ	ﲮ	من	(him) who	man
+10	69:25:3	w	أُوتِيَ	ﲯ	اوتي	is given	ūtiya
+11	69:25:4	w	كِتَٰبَهُۥ	ﲰ	كتابه	his record	kitābahu
+11	69:25:5	w	بِشِمَالِهِۦ	ﲱ	بشماله	in his left hand	bishimālihi
+11	69:25:6	w	فَيَقُولُ	ﲲ	فيقول	will say	fayaqūlu
+11	69:25:7	w	يَٰلَيۡتَنِي	ﲳ	يا ليتني	O! I wish	yālaytanī
+11	69:25:8	w	لَمۡ	ﲴ	لم	not	lam
+11	69:25:9	w	أُوتَ	ﲵ	اوت	I had been given	ūta
+11	69:25:10	w	كِتَٰبِيَهۡ	ﲶ	كتابيه	my record	kitābiyah
+11	69:25:11	e	٢٥	ﲷ			
+11	69:26:1	w	وَلَمۡ	ﲸ	ولم	And not	walam
+11	69:26:2	w	أَدۡرِ	ﲹ	ادر	I had known	adri
+11	69:26:3	w	مَا	ﲺ	ما	what	mā
+11	69:26:4	w	حِسَابِيَهۡ	ﲻ	حسابيه	(is) my account	ḥisābiyah
+12	69:26:5	e	٢٦	ﲼ			
+12	69:27:1	w	يَٰلَيۡتَهَا	ﲽ	يا ليتها	O! I wish it	yālaytahā
+12	69:27:2	w	كَانَتِ	ﲾ	كانت	had been	kānati
+12	69:27:3	w	ٱلۡقَاضِيَةَ	ﲿ	القاضية	the end	l-qāḍiyata
+12	69:27:4	e	٢٧	ﳀ			
+12	69:28:1	w	مَآ	ﳁ	ما	Not	mā
+12	69:28:2	w	أَغۡنَىٰ	ﳂ	اغنى	has availed	aghnā
+12	69:28:3	w	عَنِّي	ﳃ	عني	me	ʿannī
+12	69:28:4	w	مَالِيَهۡۜ	ﳄﳅ	ماليه	my wealth	māliyah
+12	69:28:5	e	٢٨	ﳆ			
+12	69:29:1	w	هَلَكَ	ﳇ	هلك	Is gone	halaka
+12	69:29:2	w	عَنِّي	ﳈ	عني	from me	ʿannī
+12	69:29:3	w	سُلۡطَٰنِيَهۡ	ﳉ	سلطانيه	my authority	sul'ṭāniyah
+13	69:29:4	e	٢٩	ﳊ			
+13	69:30:1	w	خُذُوهُ	ﳋ	خذوه	Seize him	khudhūhu
+13	69:30:2	w	فَغُلُّوهُ	ﳌ	فغلوه	and shackle him	faghullūhu
+13	69:30:3	e	٣٠	ﳍ			
+13	69:31:1	w	ثُمَّ	ﳎ	ثم	Then	thumma
+13	69:31:2	w	ٱلۡجَحِيمَ	ﳏ	الجحيم	(into) the Hellfire	l-jaḥīma
+13	69:31:3	w	صَلُّوهُ	ﳐ	صلوه	burn him	ṣallūhu
+13	69:31:4	e	٣١	ﳑ			
+13	69:32:1	w	ثُمَّ	ﳒ	ثم	Then	thumma
+13	69:32:2	w	فِي	ﳓ	في	into	fī
+13	69:32:3	w	سِلۡسِلَةٖ	ﳔ	سلسلة	a chain	sil'silatin
+13	69:32:4	w	ذَرۡعُهَا	ﳕ	ذرعها	its length	dharʿuhā
+14	69:32:5	w	سَبۡعُونَ	ﳖ	سبعون	(is) seventy	sabʿūna
+14	69:32:6	w	ذِرَاعٗا	ﳗ	ذراعا	cubits	dhirāʿan
+14	69:32:7	w	فَٱسۡلُكُوهُ	ﳘ	فاسلكوه	insert him	fa-us'lukūhu
+14	69:32:8	e	٣٢	ﳙ			
+14	69:33:1	w	إِنَّهُۥ	ﳚ	انه	Indeed, he	innahu
+14	69:33:2	w	كَانَ	ﳛ	كان	was	kāna
+14	69:33:3	w	لَا	ﳜ	لا	not	lā
+14	69:33:4	w	يُؤۡمِنُ	ﳝ	يومن	believing	yu'minu
+14	69:33:5	w	بِٱللَّهِ	ﳞ	بالله	in Allah	bil-lahi
+14	69:33:6	w	ٱلۡعَظِيمِ	ﳟ	العظيم	the Most Great	l-ʿaẓīmi
+14	69:33:7	e	٣٣	ﳠ			
+15	69:34:1	w	وَلَا	ﳡ	ولا	And (did) not	walā
+15	69:34:2	w	يَحُضُّ	ﳢ	يحض	feel the urge	yaḥuḍḍu
+15	69:34:3	w	عَلَىٰ	ﳣ	على	on	ʿalā
+15	69:34:4	w	طَعَامِ	ﳤ	طعام	(the) feeding	ṭaʿāmi
+15	69:34:5	w	ٱلۡمِسۡكِينِ	ﳥ	المسكين	(of) the poor	l-mis'kīni
+15	69:34:6	e	٣٤	ﳦ			

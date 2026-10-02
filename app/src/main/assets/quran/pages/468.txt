@@ -1,0 +1,133 @@
+1	40:8:1	w	رَبَّنَا	ﱁ	ربنا	Our Lord	rabbanā
+1	40:8:2	w	وَأَدۡخِلۡهُمۡ	ﱂ	وادخلهم	And admit them	wa-adkhil'hum
+1	40:8:3	w	جَنَّٰتِ	ﱃ	جنات	(to) Gardens	jannāti
+1	40:8:4	w	عَدۡنٍ	ﱄ	عدن	(of) Eden	ʿadnin
+1	40:8:5	w	ٱلَّتِي	ﱅ	التي	which	allatī
+1	40:8:6	w	وَعَدتَّهُمۡ	ﱆ	وعدتهم	You have promised them	waʿadttahum
+1	40:8:7	w	وَمَن	ﱇ	ومن	and whoever	waman
+1	40:8:8	w	صَلَحَ	ﱈ	صلح	(was) righteous	ṣalaḥa
+2	40:8:9	w	مِنۡ	ﱉ	من	among	min
+2	40:8:10	w	ءَابَآئِهِمۡ	ﱊ	ابايهم	their fathers	ābāihim
+2	40:8:11	w	وَأَزۡوَٰجِهِمۡ	ﱋ	وازواجهم	and their spouses	wa-azwājihim
+2	40:8:12	w	وَذُرِّيَّٰتِهِمۡۚ	ﱌﱍ	وذرياتهم	and their offspring	wadhurriyyātihim
+2	40:8:13	w	إِنَّكَ	ﱎ	انك	Indeed You	innaka
+2	40:8:14	w	أَنتَ	ﱏ	انت	You	anta
+2	40:8:15	w	ٱلۡعَزِيزُ	ﱐ	العزيز	(are) the All-Mighty	l-ʿazīzu
+3	40:8:16	w	ٱلۡحَكِيمُ	ﱑ	الحكيم	the All-Wise	l-ḥakīmu
+3	40:8:17	e	٨	ﱒ			
+3	40:9:1	w	وَقِهِمُ	ﱓ	وقهم	And protect them	waqihimu
+3	40:9:2	w	ٱلسَّيِّـَٔاتِۚ	ﱔﱕ	السييات	(from) the evils	l-sayiāti
+3	40:9:3	w	وَمَن	ﱖ	ومن	And whoever	waman
+3	40:9:4	w	تَقِ	ﱗ	تق	you protect	taqi
+3	40:9:5	w	ٱلسَّيِّـَٔاتِ	ﱘ	السييات	(from) the evils	l-sayiāti
+4	40:9:6	w	يَوۡمَئِذٖ	ﱙ	يوميذ	that Day	yawma-idhin
+4	40:9:7	w	فَقَدۡ	ﱚ	فقد	then verily	faqad
+4	40:9:8	w	رَحِمۡتَهُۥۚ	ﱛﱜ	رحمته	You have bestowed mercy on him	raḥim'tahu
+4	40:9:9	w	وَذَٰلِكَ	ﱝ	وذالك	And that	wadhālika
+4	40:9:10	w	هُوَ	ﱞ	هو	[it]	huwa
+4	40:9:11	w	ٱلۡفَوۡزُ	ﱟ	الفوز	(is) the success	l-fawzu
+4	40:9:12	w	ٱلۡعَظِيمُ	ﱠ	العظيم	the great	l-ʿaẓīmu
+4	40:9:13	e	٩	ﱡ			
+4	40:10:1	w	إِنَّ	ﱢ	ان	Indeed	inna
+5	40:10:2	w	ٱلَّذِينَ	ﱣ	الذين	those who	alladhīna
+5	40:10:3	w	كَفَرُواْ	ﱤ	كفروا	disbelieved	kafarū
+5	40:10:4	w	يُنَادَوۡنَ	ﱥ	ينادون	will be cried out to them	yunādawna
+5	40:10:5	w	لَمَقۡتُ	ﱦ	لمقت	Certainly Allah's hatred	lamaqtu
+5	40:10:6	w	ٱللَّهِ	ﱧ	الله	Certainly Allah's hatred	l-lahi
+5	40:10:7	w	أَكۡبَرُ	ﱨ	اكبر	(was) greater	akbaru
+5	40:10:8	w	مِن	ﱩ	من	than	min
+5	40:10:9	w	مَّقۡتِكُمۡ	ﱪ	مقتكم	your hatred	maqtikum
+6	40:10:10	w	أَنفُسَكُمۡ	ﱫ	انفسكم	(of) yourselves	anfusakum
+6	40:10:11	w	إِذۡ	ﱬ	اذ	when	idh
+6	40:10:12	w	تُدۡعَوۡنَ	ﱭ	تدعون	you were called	tud'ʿawna
+6	40:10:13	w	إِلَى	ﱮ	الى	to	ilā
+6	40:10:14	w	ٱلۡإِيمَٰنِ	ﱯ	الايمان	the faith	l-īmāni
+6	40:10:15	w	فَتَكۡفُرُونَ	ﱰ	فتكفرون	and you disbelieved	fatakfurūna
+6	40:10:16	e	١٠	ﱱ			
+6	40:11:1	w	قَالُواْ	ﱲ	قالوا	They (will) say	qālū
+6	40:11:2	w	رَبَّنَآ	ﱳ	ربنا	Our Lord	rabbanā
+7	40:11:3	w	أَمَتَّنَا	ﱴ	امتنا	You gave us death	amattanā
+7	40:11:4	w	ٱثۡنَتَيۡنِ	ﱵ	اثنتين	twice	ith'natayni
+7	40:11:5	w	وَأَحۡيَيۡتَنَا	ﱶ	واحييتنا	and You gave us life	wa-aḥyaytanā
+7	40:11:6	w	ٱثۡنَتَيۡنِ	ﱷ	اثنتين	twice	ith'natayni
+7	40:11:7	w	فَٱعۡتَرَفۡنَا	ﱸ	فاعترفنا	and we confess	fa-iʿ'tarafnā
+7	40:11:8	w	بِذُنُوبِنَا	ﱹ	بذنوبنا	our sins	bidhunūbinā
+7	40:11:9	w	فَهَلۡ	ﱺ	فهل	So is (there)	fahal
+8	40:11:10	w	إِلَىٰ	ﱻ	الى	to	ilā
+8	40:11:11	w	خُرُوجٖ	ﱼ	خروج	get out	khurūjin
+8	40:11:12	w	مِّن	ﱽ	من	any	min
+8	40:11:13	w	سَبِيلٖ	ﱾ	سبيل	way	sabīlin
+8	40:11:14	e	١١	ﱿ			
+8	40:12:1	w	ذَٰلِكُم	ﲀ	ذالكم	That	dhālikum
+8	40:12:2	w	بِأَنَّهُۥٓ	ﲁ	بانه	(is) because	bi-annahu
+8	40:12:3	w	إِذَا	ﲂ	اذا	when	idhā
+8	40:12:4	w	دُعِيَ	ﲃ	دعي	Allah was invoked	duʿiya
+8	40:12:5	w	ٱللَّهُ	ﲄ	الله	Allah was invoked	l-lahu
+9	40:12:6	w	وَحۡدَهُۥ	ﲅ	وحده	Alone	waḥdahu
+9	40:12:7	w	كَفَرۡتُمۡ	ﲆ	كفرتم	you disbelieved	kafartum
+9	40:12:8	w	وَإِن	ﲇ	وان	but if	wa-in
+9	40:12:9	w	يُشۡرَكۡ	ﲈ	يشرك	(others) were associated	yush'rak
+9	40:12:10	w	بِهِۦ	ﲉ	به	with Him	bihi
+9	40:12:11	w	تُؤۡمِنُواْۚ	ﲊﲋ	تومنوا	you believed	tu'minū
+9	40:12:12	w	فَٱلۡحُكۡمُ	ﲌ	فالحكم	So the judgment	fal-ḥuk'mu
+9	40:12:13	w	لِلَّهِ	ﲍ	لله	(is) with Allah	lillahi
+10	40:12:14	w	ٱلۡعَلِيِّ	ﲎ	العلي	the Most High	l-ʿaliyi
+10	40:12:15	w	ٱلۡكَبِيرِ	ﲏ	الكبير	the Most Great	l-kabīri
+10	40:12:16	e	١٢	ﲐ			
+10	40:13:1	w	هُوَ	ﲑ	هو	He	huwa
+10	40:13:2	w	ٱلَّذِي	ﲒ	الذي	(is) the One Who	alladhī
+10	40:13:3	w	يُرِيكُمۡ	ﲓ	يريكم	shows you	yurīkum
+10	40:13:4	w	ءَايَٰتِهِۦ	ﲔ	اياته	His Signs	āyātihi
+10	40:13:5	w	وَيُنَزِّلُ	ﲕ	وينزل	and sends down	wayunazzilu
+10	40:13:6	w	لَكُم	ﲖ	لكم	for you	lakum
+10	40:13:7	w	مِّنَ	ﲗ	من	from	mina
+11	40:13:8	w	ٱلسَّمَآءِ	ﲘ	السماء	the sky	l-samāi
+11	40:13:9	w	رِزۡقٗاۚ	ﲙﲚ	رزقا	provision	riz'qan
+11	40:13:10	w	وَمَا	ﲛ	وما	But (does) not	wamā
+11	40:13:11	w	يَتَذَكَّرُ	ﲜ	يتذكر	take heed	yatadhakkaru
+11	40:13:12	w	إِلَّا	ﲝ	الا	except	illā
+11	40:13:13	w	مَن	ﲞ	من	(one) who	man
+11	40:13:14	w	يُنِيبُ	ﲟ	ينيب	turns	yunību
+11	40:13:15	e	١٣	ﲠ			
+11	40:14:1	w	فَٱدۡعُواْ	ﲡ	فادعوا	So invoke	fa-id'ʿū
+11	40:14:2	w	ٱللَّهَ	ﲢ	الله	Allah	l-laha
+12	40:14:3	w	مُخۡلِصِينَ	ﲣ	مخلصين	(being) sincere	mukh'liṣīna
+12	40:14:4	w	لَهُ	ﲤ	له	to Him	lahu
+12	40:14:5	w	ٱلدِّينَ	ﲥ	الدين	(in) the religion	l-dīna
+12	40:14:6	w	وَلَوۡ	ﲦ	ولو	even though	walaw
+12	40:14:7	w	كَرِهَ	ﲧ	كره	dislike (it)	kariha
+12	40:14:8	w	ٱلۡكَٰفِرُونَ	ﲨ	الكافرون	the disbelievers	l-kāfirūna
+12	40:14:9	e	١٤	ﲩ			
+12	40:15:1	w	رَفِيعُ	ﲪ	رفيع	Possessor of the Highest Ranks	rafīʿu
+13	40:15:2	w	ٱلدَّرَجَٰتِ	ﲫ	الدرجات	Possessor of the Highest Ranks	l-darajāti
+13	40:15:3	w	ذُو	ﲬ	ذو	Owner (of) the Throne	dhū
+13	40:15:4	w	ٱلۡعَرۡشِ	ﲭ	العرش	Owner (of) the Throne	l-ʿarshi
+13	40:15:5	w	يُلۡقِي	ﲮ	يلقي	He places	yul'qī
+13	40:15:6	w	ٱلرُّوحَ	ﲯ	الروح	the inspiration	l-rūḥa
+13	40:15:7	w	مِنۡ	ﲰ	من	of	min
+13	40:15:8	w	أَمۡرِهِۦ	ﲱ	امره	His Command	amrihi
+13	40:15:9	w	عَلَىٰ	ﲲ	على	upon	ʿalā
+13	40:15:10	w	مَن	ﲳ	من	whom	man
+13	40:15:11	w	يَشَآءُ	ﲴ	يشاء	He wills	yashāu
+14	40:15:12	w	مِنۡ	ﲵ	من	of	min
+14	40:15:13	w	عِبَادِهِۦ	ﲶ	عباده	His slaves	ʿibādihi
+14	40:15:14	w	لِيُنذِرَ	ﲷ	لينذر	to warn	liyundhira
+14	40:15:15	w	يَوۡمَ	ﲸ	يوم	(of the) Day	yawma
+14	40:15:16	w	ٱلتَّلَاقِ	ﲹ	التلاق	(of) the Meeting	l-talāqi
+14	40:15:17	e	١٥	ﲺ			
+14	40:16:1	w	يَوۡمَ	ﲻ	يوم	(The) Day	yawma
+14	40:16:2	w	هُم	ﲼ	هم	they	hum
+14	40:16:3	w	بَٰرِزُونَۖ	ﲽﲾ	بارزون	come forth	bārizūna
+14	40:16:4	w	لَا	ﲿ	لا	not	lā
+14	40:16:5	w	يَخۡفَىٰ	ﳀ	يخفى	is hidden	yakhfā
+15	40:16:6	w	عَلَى	ﳁ	على	from	ʿalā
+15	40:16:7	w	ٱللَّهِ	ﳂ	الله	Allah	l-lahi
+15	40:16:8	w	مِنۡهُمۡ	ﳃ	منهم	about them	min'hum
+15	40:16:9	w	شَيۡءٞۚ	ﳄﳅ	شيء	anything	shayon
+15	40:16:10	w	لِّمَنِ	ﳆ	لمن	For whom	limani
+15	40:16:11	w	ٱلۡمُلۡكُ	ﳇ	الملك	(is) the Dominion	l-mul'ku
+15	40:16:12	w	ٱلۡيَوۡمَۖ	ﳈﳉ	اليوم	this Day	l-yawma
+15	40:16:13	w	لِلَّهِ	ﳊ	لله	For Allah	lillahi
+15	40:16:14	w	ٱلۡوَٰحِدِ	ﳋ	الواحد	the One	l-wāḥidi
+15	40:16:15	w	ٱلۡقَهَّارِ	ﳌ	القهار	the Irresistible	l-qahāri
+15	40:16:16	e	١٦	ﳍ			

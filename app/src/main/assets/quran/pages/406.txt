@@ -1,0 +1,127 @@
+1	30:16:1	w	وَأَمَّا	ﱁ	واما	But as for	wa-ammā
+1	30:16:2	w	ٱلَّذِينَ	ﱂ	الذين	those who	alladhīna
+1	30:16:3	w	كَفَرُواْ	ﱃ	كفروا	disbelieved	kafarū
+1	30:16:4	w	وَكَذَّبُواْ	ﱄ	وكذبوا	and denied	wakadhabū
+1	30:16:5	w	بِـَٔايَٰتِنَا	ﱅ	باياتنا	Our Signs	biāyātinā
+1	30:16:6	w	وَلِقَآيِٕ	ﱆ	ولقاء	and (the) meeting	waliqāi
+1	30:16:7	w	ٱلۡأٓخِرَةِ	ﱇ	الاخرة	(of) the Hereafter	l-ākhirati
+2	30:16:8	w	فَأُوْلَٰٓئِكَ	ﱈ	فاولايك	then those	fa-ulāika
+2	30:16:9	w	فِي	ﱉ	في	in	fī
+2	30:16:10	w	ٱلۡعَذَابِ	ﱊ	العذاب	the punishment	l-ʿadhābi
+2	30:16:11	w	مُحۡضَرُونَ	ﱋ	محضرون	(will be) brought forth	muḥ'ḍarūna
+2	30:16:12	e	١٦	ﱌ			
+2	30:17:1	w	فَسُبۡحَٰنَ	ﱍ	فسبحان	So glory be to	fasub'ḥāna
+2	30:17:2	w	ٱللَّهِ	ﱎ	الله	Allah	l-lahi
+2	30:17:3	w	حِينَ	ﱏ	حين	when	ḥīna
+2	30:17:4	w	تُمۡسُونَ	ﱐ	تمسون	you reach the evening	tum'sūna
+3	30:17:5	w	وَحِينَ	ﱑ	وحين	and when	waḥīna
+3	30:17:6	w	تُصۡبِحُونَ	ﱒ	تصبحون	you reach the morning	tuṣ'biḥūna
+3	30:17:7	e	١٧	ﱓ			
+3	30:18:1	w	وَلَهُ	ﱔ	وله	And for Him	walahu
+3	30:18:2	w	ٱلۡحَمۡدُ	ﱕ	الحمد	(are) all praises	l-ḥamdu
+3	30:18:3	w	فِي	ﱖ	في	in	fī
+3	30:18:4	w	ٱلسَّمَٰوَٰتِ	ﱗ	السماوات	the heavens	l-samāwāti
+3	30:18:5	w	وَٱلۡأَرۡضِ	ﱘ	والارض	and the earth	wal-arḍi
+4	30:18:6	w	وَعَشِيّٗا	ﱙ	وعشيا	and (at) night	waʿashiyyan
+4	30:18:7	w	وَحِينَ	ﱚ	وحين	and when	waḥīna
+4	30:18:8	w	تُظۡهِرُونَ	ﱛ	تظهرون	you are at noon	tuẓ'hirūna
+4	30:18:9	e	١٨	ﱜ			
+4	30:19:1	w	يُخۡرِجُ	ﱝ	يخرج	He brings forth	yukh'riju
+4	30:19:2	w	ٱلۡحَيَّ	ﱞ	الحي	the living	l-ḥaya
+4	30:19:3	w	مِنَ	ﱟ	من	from	mina
+4	30:19:4	w	ٱلۡمَيِّتِ	ﱠ	الميت	the dead	l-mayiti
+4	30:19:5	w	وَيُخۡرِجُ	ﱡ	ويخرج	and He brings forth	wayukh'riju
+5	30:19:6	w	ٱلۡمَيِّتَ	ﱢ	الميت	the dead	l-mayita
+5	30:19:7	w	مِنَ	ﱣ	من	from	mina
+5	30:19:8	w	ٱلۡحَيِّ	ﱤ	الحي	the living	l-ḥayi
+5	30:19:9	w	وَيُحۡيِ	ﱥ	ويحيي	and He gives life	wayuḥ'yī
+5	30:19:10	w	ٱلۡأَرۡضَ	ﱦ	الارض	(to) the earth	l-arḍa
+5	30:19:11	w	بَعۡدَ	ﱧ	بعد	after	baʿda
+5	30:19:12	w	مَوۡتِهَاۚ	ﱨﱩ	موتها	its death	mawtihā
+5	30:19:13	w	وَكَذَٰلِكَ	ﱪ	وكذالك	and thus	wakadhālika
+5	30:19:14	w	تُخۡرَجُونَ	ﱫ	تخرجون	you will be brought forth	tukh'rajūna
+6	30:19:15	e	١٩	ﱬ			
+6	30:20:1	w	وَمِنۡ	ﱭ	ومن	And among	wamin
+6	30:20:2	w	ءَايَٰتِهِۦٓ	ﱮ	اياته	His Signs	āyātihi
+6	30:20:3	w	أَنۡ	ﱯ	ان	(is) that	an
+6	30:20:4	w	خَلَقَكُم	ﱰ	خلقكم	He created you	khalaqakum
+6	30:20:5	w	مِّن	ﱱ	من	from	min
+6	30:20:6	w	تُرَابٖ	ﱲ	تراب	dust	turābin
+6	30:20:7	w	ثُمَّ	ﱳ	ثم	then	thumma
+6	30:20:8	w	إِذَآ	ﱴ	اذا	behold	idhā
+6	30:20:9	w	أَنتُم	ﱵ	انتم	You	antum
+6	30:20:10	w	بَشَرٞ	ﱶ	بشر	(are) human beings	basharun
+7	30:20:11	w	تَنتَشِرُونَ	ﱷ	تنتشرون	dispersing	tantashirūna
+7	30:20:12	e	٢٠	ﱸ			
+7	30:21:1	w	وَمِنۡ	ﱹ	ومن	And among	wamin
+7	30:21:2	w	ءَايَٰتِهِۦٓ	ﱺ	اياته	His Signs	āyātihi
+7	30:21:3	w	أَنۡ	ﱻ	ان	(is) that	an
+7	30:21:4	w	خَلَقَ	ﱼ	خلق	He created	khalaqa
+7	30:21:5	w	لَكُم	ﱽ	لكم	for you	lakum
+7	30:21:6	w	مِّنۡ	ﱾ	من	from	min
+7	30:21:7	w	أَنفُسِكُمۡ	ﱿ	انفسكم	yourselves	anfusikum
+8	30:21:8	w	أَزۡوَٰجٗا	ﲀ	ازواجا	mates	azwājan
+8	30:21:9	w	لِّتَسۡكُنُوٓاْ	ﲁ	لتسكنوا	that you may find tranquility	litaskunū
+8	30:21:10	w	إِلَيۡهَا	ﲂ	اليها	in them	ilayhā
+8	30:21:11	w	وَجَعَلَ	ﲃ	وجعل	and He placed	wajaʿala
+8	30:21:12	w	بَيۡنَكُم	ﲄ	بينكم	between you	baynakum
+8	30:21:13	w	مَّوَدَّةٗ	ﲅ	مودة	love	mawaddatan
+8	30:21:14	w	وَرَحۡمَةًۚ	ﲆﲇ	ورحمة	and mercy	waraḥmatan
+9	30:21:15	w	إِنَّ	ﲈ	ان	Indeed	inna
+9	30:21:16	w	فِي	ﲉ	في	in	fī
+9	30:21:17	w	ذَٰلِكَ	ﲊ	ذالك	that	dhālika
+9	30:21:18	w	لَأٓيَٰتٖ	ﲋ	لايات	surely (are) Signs	laāyātin
+9	30:21:19	w	لِّقَوۡمٖ	ﲌ	لقوم	for a people	liqawmin
+9	30:21:20	w	يَتَفَكَّرُونَ	ﲍ	يتفكرون	who reflect	yatafakkarūna
+9	30:21:21	e	٢١	ﲎ			
+9	30:22:1	w	وَمِنۡ	ﲏ	ومن	And among	wamin
+9	30:22:2	w	ءَايَٰتِهِۦ	ﲐ	اياته	His Signs	āyātihi
+10	30:22:3	w	خَلۡقُ	ﲑ	خلق	(is the) creation	khalqu
+10	30:22:4	w	ٱلسَّمَٰوَٰتِ	ﲒ	السماوات	(of) the heavens	l-samāwāti
+10	30:22:5	w	وَٱلۡأَرۡضِ	ﲓ	والارض	and the earth	wal-arḍi
+10	30:22:6	w	وَٱخۡتِلَٰفُ	ﲔ	واختلاف	and the diversity	wa-ikh'tilāfu
+10	30:22:7	w	أَلۡسِنَتِكُمۡ	ﲕ	السنتكم	(of) your languages	alsinatikum
+10	30:22:8	w	وَأَلۡوَٰنِكُمۡۚ	ﲖﲗ	والوانكم	and your colors	wa-alwānikum
+11	30:22:9	w	إِنَّ	ﲘ	ان	Indeed	inna
+11	30:22:10	w	فِي	ﲙ	في	in	fī
+11	30:22:11	w	ذَٰلِكَ	ﲚ	ذالك	that	dhālika
+11	30:22:12	w	لَأٓيَٰتٖ	ﲛ	لايات	surely (are) Signs	laāyātin
+11	30:22:13	w	لِّلۡعَٰلِمِينَ	ﲜ	للعالمين	for those of knowledge	lil'ʿālimīna
+11	30:22:14	e	٢٢	ﲝ			
+11	30:23:1	w	وَمِنۡ	ﲞ	ومن	And among	wamin
+11	30:23:2	w	ءَايَٰتِهِۦ	ﲟ	اياته	His Signs	āyātihi
+11	30:23:3	w	مَنَامُكُم	ﲠ	منامكم	(is) your sleep	manāmukum
+12	30:23:4	w	بِٱلَّيۡلِ	ﲡ	بالليل	by night	bi-al-layli
+12	30:23:5	w	وَٱلنَّهَارِ	ﲢ	والنهار	and the day	wal-nahāri
+12	30:23:6	w	وَٱبۡتِغَآؤُكُم	ﲣ	وابتغاوكم	[and] your seeking	wa-ib'tighāukum
+12	30:23:7	w	مِّن	ﲤ	من	of	min
+12	30:23:8	w	فَضۡلِهِۦٓۚ	ﲥﲦ	فضله	His Bounty	faḍlihi
+12	30:23:9	w	إِنَّ	ﲧ	ان	Indeed	inna
+12	30:23:10	w	فِي	ﲨ	في	in	fī
+12	30:23:11	w	ذَٰلِكَ	ﲩ	ذالك	that	dhālika
+13	30:23:12	w	لَأٓيَٰتٖ	ﲪ	لايات	surely (are) Signs	laāyātin
+13	30:23:13	w	لِّقَوۡمٖ	ﲫ	لقوم	for a people	liqawmin
+13	30:23:14	w	يَسۡمَعُونَ	ﲬ	يسمعون	who listen	yasmaʿūna
+13	30:23:15	e	٢٣	ﲭ			
+13	30:24:1	w	وَمِنۡ	ﲮ	ومن	And among	wamin
+13	30:24:2	w	ءَايَٰتِهِۦ	ﲯ	اياته	His Signs	āyātihi
+13	30:24:3	w	يُرِيكُمُ	ﲰ	يريكم	He shows you	yurīkumu
+13	30:24:4	w	ٱلۡبَرۡقَ	ﲱ	البرق	the lightning	l-barqa
+14	30:24:5	w	خَوۡفٗا	ﲲ	خوفا	(causing) fear	khawfan
+14	30:24:6	w	وَطَمَعٗا	ﲳ	وطمعا	and hope	waṭamaʿan
+14	30:24:7	w	وَيُنَزِّلُ	ﲴ	وينزل	and He sends down	wayunazzilu
+14	30:24:8	w	مِنَ	ﲵ	من	from	mina
+14	30:24:9	w	ٱلسَّمَآءِ	ﲶ	السماء	the sky	l-samāi
+14	30:24:10	w	مَآءٗ	ﲷ	ماء	water	māan
+14	30:24:11	w	فَيُحۡيِۦ	ﲸ	فيحيي	and gives life	fayuḥ'yī
+14	30:24:12	w	بِهِ	ﲹ	به	therewith	bihi
+14	30:24:13	w	ٱلۡأَرۡضَ	ﲺ	الارض	(to) the earth	l-arḍa
+15	30:24:14	w	بَعۡدَ	ﲻ	بعد	after	baʿda
+15	30:24:15	w	مَوۡتِهَآۚ	ﲼﲽ	موتها	its death	mawtihā
+15	30:24:16	w	إِنَّ	ﲾ	ان	Indeed	inna
+15	30:24:17	w	فِي	ﲿ	في	in	fī
+15	30:24:18	w	ذَٰلِكَ	ﳀ	ذالك	that	dhālika
+15	30:24:19	w	لَأٓيَٰتٖ	ﳁ	لايات	surely (are) Signs	laāyātin
+15	30:24:20	w	لِّقَوۡمٖ	ﳂ	لقوم	for a people	liqawmin
+15	30:24:21	w	يَعۡقِلُونَ	ﳃ	يعقلون	who use intellect	yaʿqilūna
+15	30:24:22	e	٢٤	ﳄ			

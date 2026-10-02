@@ -1,0 +1,125 @@
+1	4:60:1	w	أَلَمۡ	ﱁ	الم	Do not	alam
+1	4:60:2	w	تَرَ	ﱂ	تر	you see	tara
+1	4:60:3	w	إِلَى	ﱃ	الى	[towards]	ilā
+1	4:60:4	w	ٱلَّذِينَ	ﱄ	الذين	those who	alladhīna
+1	4:60:5	w	يَزۡعُمُونَ	ﱅ	يزعمون	claim	yazʿumūna
+1	4:60:6	w	أَنَّهُمۡ	ﱆ	انهم	that they	annahum
+1	4:60:7	w	ءَامَنُواْ	ﱇ	امنوا	believe	āmanū
+1	4:60:8	w	بِمَآ	ﱈ	بما	in what	bimā
+1	4:60:9	w	أُنزِلَ	ﱉ	انزل	(is) revealed	unzila
+1	4:60:10	w	إِلَيۡكَ	ﱊ	اليك	to you	ilayka
+2	4:60:11	w	وَمَآ	ﱋ	وما	and what	wamā
+2	4:60:12	w	أُنزِلَ	ﱌ	انزل	was revealed	unzila
+2	4:60:13	w	مِن	ﱍ	من	from	min
+2	4:60:14	w	قَبۡلِكَ	ﱎ	قبلك	before you	qablika
+2	4:60:15	w	يُرِيدُونَ	ﱏ	يريدون	They wish	yurīdūna
+2	4:60:16	w	أَن	ﱐ	ان	to	an
+2	4:60:17	w	يَتَحَاكَمُوٓاْ	ﱑ	يتحاكموا	go for judgment	yataḥākamū
+2	4:60:18	w	إِلَى	ﱒ	الى	to	ilā
+2	4:60:19	w	ٱلطَّٰغُوتِ	ﱓ	الطاغوت	the false deities	l-ṭāghūti
+3	4:60:20	w	وَقَدۡ	ﱔ	وقد	and surely	waqad
+3	4:60:21	w	أُمِرُوٓاْ	ﱕ	امروا	they were ordered	umirū
+3	4:60:22	w	أَن	ﱖ	ان	to	an
+3	4:60:23	w	يَكۡفُرُواْ	ﱗ	يكفروا	reject	yakfurū
+3	4:60:24	w	بِهِۦۖ	ﱘﱙ	به	[with] it	bihi
+3	4:60:25	w	وَيُرِيدُ	ﱚ	ويريد	And wishes	wayurīdu
+3	4:60:26	w	ٱلشَّيۡطَٰنُ	ﱛ	الشيطان	the Shaitaan	l-shayṭānu
+3	4:60:27	w	أَن	ﱜ	ان	to	an
+3	4:60:28	w	يُضِلَّهُمۡ	ﱝ	يضلهم	mislead them	yuḍillahum
+4	4:60:29	w	ضَلَٰلَۢا	ﱞ	ضلالا	astray	ḍalālan
+4	4:60:30	w	بَعِيدٗا	ﱟ	بعيدا	far away	baʿīdan
+4	4:60:31	e	٦٠	ﱠ			
+4	4:61:1	w	وَإِذَا	ﱡ	واذا	And when	wa-idhā
+4	4:61:2	w	قِيلَ	ﱢ	قيل	it is said	qīla
+4	4:61:3	w	لَهُمۡ	ﱣ	لهم	to them	lahum
+4	4:61:4	w	تَعَالَوۡاْ	ﱤ	تعالوا	Come	taʿālaw
+4	4:61:5	w	إِلَىٰ	ﱥ	الى	to	ilā
+4	4:61:6	w	مَآ	ﱦ	ما	what	mā
+4	4:61:7	w	أَنزَلَ	ﱧ	انزل	(has) revealed	anzala
+5	4:61:8	w	ٱللَّهُ	ﱨ	الله	Allah	l-lahu
+5	4:61:9	w	وَإِلَى	ﱩ	والى	and to	wa-ilā
+5	4:61:10	w	ٱلرَّسُولِ	ﱪ	الرسول	the Messenger	l-rasūli
+5	4:61:11	w	رَأَيۡتَ	ﱫ	رايت	you see	ra-ayta
+5	4:61:12	w	ٱلۡمُنَٰفِقِينَ	ﱬ	المنافقين	the hypocrites	l-munāfiqīna
+5	4:61:13	w	يَصُدُّونَ	ﱭ	يصدون	turning away	yaṣuddūna
+5	4:61:14	w	عَنكَ	ﱮ	عنك	from you	ʿanka
+6	4:61:15	w	صُدُودٗا	ﱯ	صدودا	(in) aversion	ṣudūdan
+6	4:61:16	e	٦١	ﱰ			
+6	4:62:1	w	فَكَيۡفَ	ﱱ	فكيف	So how	fakayfa
+6	4:62:2	w	إِذَآ	ﱲ	اذا	when	idhā
+6	4:62:3	w	أَصَٰبَتۡهُم	ﱳ	اصابتهم	befalls them	aṣābathum
+6	4:62:4	w	مُّصِيبَةُۢ	ﱴ	مصيبة	disaster	muṣībatun
+6	4:62:5	w	بِمَا	ﱵ	بما	for what	bimā
+7	4:62:6	w	قَدَّمَتۡ	ﱶ	قدمت	sent forth	qaddamat
+7	4:62:7	w	أَيۡدِيهِمۡ	ﱷ	ايديهم	their hands	aydīhim
+7	4:62:8	w	ثُمَّ	ﱸ	ثم	then	thumma
+7	4:62:9	w	جَآءُوكَ	ﱹ	جاءوك	they come to you	jāūka
+7	4:62:10	w	يَحۡلِفُونَ	ﱺ	يحلفون	swearing	yaḥlifūna
+7	4:62:11	w	بِٱللَّهِ	ﱻ	بالله	by Allah	bil-lahi
+7	4:62:12	w	إِنۡ	ﱼ	ان	Not	in
+7	4:62:13	w	أَرَدۡنَآ	ﱽ	اردنا	we intended	aradnā
+7	4:62:14	w	إِلَّآ	ﱾ	الا	except	illā
+8	4:62:15	w	إِحۡسَٰنٗا	ﱿ	احسانا	good	iḥ'sānan
+8	4:62:16	w	وَتَوۡفِيقًا	ﲀ	وتوفيقا	and reconciliation	watawfīqan
+8	4:62:17	e	٦٢	ﲁ			
+8	4:63:1	w	أُوْلَٰٓئِكَ	ﲂ	اولايك	Those	ulāika
+8	4:63:2	w	ٱلَّذِينَ	ﲃ	الذين	(are) the ones who	alladhīna
+8	4:63:3	w	يَعۡلَمُ	ﲄ	يعلم	knows	yaʿlamu
+8	4:63:4	w	ٱللَّهُ	ﲅ	الله	Allah	l-lahu
+8	4:63:5	w	مَا	ﲆ	ما	what	mā
+9	4:63:6	w	فِي	ﲇ	في	(is) in	fī
+9	4:63:7	w	قُلُوبِهِمۡ	ﲈ	قلوبهم	their hearts	qulūbihim
+9	4:63:8	w	فَأَعۡرِضۡ	ﲉ	فاعرض	so turn away	fa-aʿriḍ
+9	4:63:9	w	عَنۡهُمۡ	ﲊ	عنهم	from them	ʿanhum
+9	4:63:10	w	وَعِظۡهُمۡ	ﲋ	وعظهم	and admonish them	waʿiẓ'hum
+9	4:63:11	w	وَقُل	ﲌ	وقل	and say	waqul
+9	4:63:12	w	لَّهُمۡ	ﲍ	لهم	to them	lahum
+9	4:63:13	w	فِيٓ	ﲎ	في	concerning	fī
+10	4:63:14	w	أَنفُسِهِمۡ	ﲏ	انفسهم	their souls	anfusihim
+10	4:63:15	w	قَوۡلَۢا	ﲐ	قولا	a word	qawlan
+10	4:63:16	w	بَلِيغٗا	ﲑ	بليغا	penetrating	balīghan
+10	4:63:17	e	٦٣	ﲒ			
+10	4:64:1	w	وَمَآ	ﲓ	وما	And not	wamā
+10	4:64:2	w	أَرۡسَلۡنَا	ﲔ	ارسلنا	We sent	arsalnā
+10	4:64:3	w	مِن	ﲕ	من	any	min
+10	4:64:4	w	رَّسُولٍ	ﲖ	رسول	Messenger	rasūlin
+10	4:64:5	w	إِلَّا	ﲗ	الا	except	illā
+11	4:64:6	w	لِيُطَاعَ	ﲘ	ليطاع	to be obeyed	liyuṭāʿa
+11	4:64:7	w	بِإِذۡنِ	ﲙ	باذن	by (the) permission	bi-idh'ni
+11	4:64:8	w	ٱللَّهِۚ	ﲚﲛ	الله	(of) Allah	l-lahi
+11	4:64:9	w	وَلَوۡ	ﲜ	ولو	And if	walaw
+11	4:64:10	w	أَنَّهُمۡ	ﲝ	انهم	[that] they	annahum
+11	4:64:11	w	إِذ	ﲞ	اذ	when	idh
+11	4:64:12	w	ظَّلَمُوٓاْ	ﲟ	ظلموا	they wronged	ẓalamū
+11	4:64:13	w	أَنفُسَهُمۡ	ﲠ	انفسهم	themselves	anfusahum
+12	4:64:14	w	جَآءُوكَ	ﲡ	جاءوك	(had) come to you	jāūka
+12	4:64:15	w	فَٱسۡتَغۡفَرُواْ	ﲢ	فاستغفروا	and asked forgiveness	fa-is'taghfarū
+12	4:64:16	w	ٱللَّهَ	ﲣ	الله	(of) Allah	l-laha
+12	4:64:17	w	وَٱسۡتَغۡفَرَ	ﲤ	واستغفر	and asked forgiveness	wa-is'taghfara
+12	4:64:18	w	لَهُمُ	ﲥ	لهم	for them	lahumu
+12	4:64:19	w	ٱلرَّسُولُ	ﲦ	الرسول	the Messenger	l-rasūlu
+13	4:64:20	w	لَوَجَدُواْ	ﲧ	لوجدوا	surely they would have found	lawajadū
+13	4:64:21	w	ٱللَّهَ	ﲨ	الله	Allah	l-laha
+13	4:64:22	w	تَوَّابٗا	ﲩ	توابا	Oft-Forgiving	tawwāban
+13	4:64:23	w	رَّحِيمٗا	ﲪ	رحيما	Most Merciful	raḥīman
+13	4:64:24	e	٦٤	ﲫ			
+13	4:65:1	w	فَلَا	ﲬ	فلا	But no	falā
+13	4:65:2	w	وَرَبِّكَ	ﲭ	وربك	by your Lord	warabbika
+13	4:65:3	w	لَا	ﲮ	لا	not	lā
+13	4:65:4	w	يُؤۡمِنُونَ	ﲯ	يومنون	will they believe	yu'minūna
+14	4:65:5	w	حَتَّىٰ	ﲰ	حتى	until	ḥattā
+14	4:65:6	w	يُحَكِّمُوكَ	ﲱ	يحكموك	they make you judge	yuḥakkimūka
+14	4:65:7	w	فِيمَا	ﲲ	فيما	about what	fīmā
+14	4:65:8	w	شَجَرَ	ﲳ	شجر	arises	shajara
+14	4:65:9	w	بَيۡنَهُمۡ	ﲴ	بينهم	between them	baynahum
+14	4:65:10	w	ثُمَّ	ﲵ	ثم	then	thumma
+14	4:65:11	w	لَا	ﲶ	لا	not	lā
+14	4:65:12	w	يَجِدُواْ	ﲷ	يجدوا	they find	yajidū
+14	4:65:13	w	فِيٓ	ﲸ	في	in	fī
+15	4:65:14	w	أَنفُسِهِمۡ	ﲹ	انفسهم	themselves	anfusihim
+15	4:65:15	w	حَرَجٗا	ﲺ	حرجا	any discomfort	ḥarajan
+15	4:65:16	w	مِّمَّا	ﲻ	مما	about what	mimmā
+15	4:65:17	w	قَضَيۡتَ	ﲼ	قضيت	you (have) decided	qaḍayta
+15	4:65:18	w	وَيُسَلِّمُواْ	ﲽ	ويسلموا	and submit	wayusallimū
+15	4:65:19	w	تَسۡلِيمٗا	ﲾ	تسليما	(in full) submission	taslīman
+15	4:65:20	e	٦٥	ﲿ			

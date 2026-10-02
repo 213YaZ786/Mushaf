@@ -1,0 +1,153 @@
+1	3:30:1	w	يَوۡمَ	ﱁ	يوم	(On the) day	yawma
+1	3:30:2	w	تَجِدُ	ﱂ	تجد	will find	tajidu
+1	3:30:3	w	كُلُّ	ﱃ	كل	every	kullu
+1	3:30:4	w	نَفۡسٖ	ﱄ	نفس	soul	nafsin
+1	3:30:5	w	مَّا	ﱅ	ما	what	mā
+1	3:30:6	w	عَمِلَتۡ	ﱆ	عملت	it did	ʿamilat
+1	3:30:7	w	مِنۡ	ﱇ	من	of	min
+1	3:30:8	w	خَيۡرٖ	ﱈ	خير	good	khayrin
+1	3:30:9	w	مُّحۡضَرٗا	ﱉ	محضرا	presented	muḥ'ḍaran
+1	3:30:10	w	وَمَا	ﱊ	وما	and what	wamā
+1	3:30:11	w	عَمِلَتۡ	ﱋ	عملت	it did	ʿamilat
+2	3:30:12	w	مِن	ﱌ	من	of	min
+2	3:30:13	w	سُوٓءٖ	ﱍ	سوء	evil	sūin
+2	3:30:14	w	تَوَدُّ	ﱎ	تود	it will wish	tawaddu
+2	3:30:15	w	لَوۡ	ﱏ	لو	[if]	law
+2	3:30:16	w	أَنَّ	ﱐ	ان	that	anna
+2	3:30:17	w	بَيۡنَهَا	ﱑ	بينها	between itself	baynahā
+2	3:30:18	w	وَبَيۡنَهُۥٓ	ﱒ	وبينه	and between it (evil)	wabaynahu
+2	3:30:19	w	أَمَدَۢا	ﱓ	امدا	(was) a distance	amadan
+2	3:30:20	w	بَعِيدٗاۗ	ﱔﱕ	بعيدا	great	baʿīdan
+2	3:30:21	w	وَيُحَذِّرُكُمُ	ﱖ	ويحذركم	And warns you	wayuḥadhirukumu
+2	3:30:22	w	ٱللَّهُ	ﱗ	الله	Allah	l-lahu
+3	3:30:23	w	نَفۡسَهُۥۗ	ﱘﱙ	نفسه	(against) Himself	nafsahu
+3	3:30:24	w	وَٱللَّهُ	ﱚ	والله	and Allah	wal-lahu
+3	3:30:25	w	رَءُوفُۢ	ﱛ	رءوف	(is) Most Kind	raūfun
+3	3:30:26	w	بِٱلۡعِبَادِ	ﱜ	بالعباد	to (His) [the] slaves	bil-ʿibādi
+3	3:30:27	e	٣٠	ﱝ			
+3	3:31:1	w	قُلۡ	ﱞ	قل	Say	qul
+3	3:31:2	w	إِن	ﱟ	ان	If	in
+3	3:31:3	w	كُنتُمۡ	ﱠ	كنتم	you	kuntum
+3	3:31:4	w	تُحِبُّونَ	ﱡ	تحبون	love	tuḥibbūna
+3	3:31:5	w	ٱللَّهَ	ﱢ	الله	Allah	l-laha
+4	3:31:6	w	فَٱتَّبِعُونِي	ﱣ	فاتبعوني	then follow me	fa-ittabiʿūnī
+4	3:31:7	w	يُحۡبِبۡكُمُ	ﱤ	يحببكم	will love you	yuḥ'bib'kumu
+4	3:31:8	w	ٱللَّهُ	ﱥ	الله	Allah	l-lahu
+4	3:31:9	w	وَيَغۡفِرۡ	ﱦ	ويغفر	and He will forgive	wayaghfir
+4	3:31:10	w	لَكُمۡ	ﱧ	لكم	for you	lakum
+4	3:31:11	w	ذُنُوبَكُمۡۚ	ﱨﱩ	ذنوبكم	your sins	dhunūbakum
+4	3:31:12	w	وَٱللَّهُ	ﱪ	والله	And Allah	wal-lahu
+4	3:31:13	w	غَفُورٞ	ﱫ	غفور	(is) Oft-Forgiving	ghafūrun
+5	3:31:14	w	رَّحِيمٞ	ﱬ	رحيم	Most Merciful	raḥīmun
+5	3:31:15	e	٣١	ﱭ			
+5	3:32:1	w	قُلۡ	ﱮ	قل	Say	qul
+5	3:32:2	w	أَطِيعُواْ	ﱯ	اطيعوا	Obey	aṭīʿū
+5	3:32:3	w	ٱللَّهَ	ﱰ	الله	Allah	l-laha
+5	3:32:4	w	وَٱلرَّسُولَۖ	ﱱﱲ	والرسول	and the Messenger	wal-rasūla
+5	3:32:5	w	فَإِن	ﱳ	فان	Then if	fa-in
+5	3:32:6	w	تَوَلَّوۡاْ	ﱴ	تولوا	they turn away	tawallaw
+5	3:32:7	w	فَإِنَّ	ﱵ	فان	then indeed	fa-inna
+5	3:32:8	w	ٱللَّهَ	ﱶ	الله	Allah	l-laha
+5	3:32:9	w	لَا	ﱷ	لا	(does) not	lā
+5	3:32:10	w	يُحِبُّ	ﱸ	يحب	love	yuḥibbu
+6	3:32:11	w	ٱلۡكَٰفِرِينَ	ﱹ	الكافرين	the disbelievers	l-kāfirīna
+6	3:32:12	e	٣٢	ﱺ			
+6	3:33:1	w	۞ إِنَّ	ﱻ ﱼ	۞ ان	Indeed	inna
+6	3:33:2	w	ٱللَّهَ	ﱽ	الله	Allah	l-laha
+6	3:33:3	w	ٱصۡطَفَىٰٓ	ﱾ	اصطفى	chose	iṣ'ṭafā
+6	3:33:4	w	ءَادَمَ	ﱿ	ادم	Adam	ādama
+6	3:33:5	w	وَنُوحٗا	ﲀ	ونوحا	and Nuh	wanūḥan
+6	3:33:6	w	وَءَالَ	ﲁ	وال	and (the) family	waāla
+6	3:33:7	w	إِبۡرَٰهِيمَ	ﲂ	ابراهيم	(of) Ibrahim	ib'rāhīma
+7	3:33:8	w	وَءَالَ	ﲃ	وال	and (the) family	waāla
+7	3:33:9	w	عِمۡرَٰنَ	ﲄ	عمران	(of) Imran	ʿim'rāna
+7	3:33:10	w	عَلَى	ﲅ	على	over	ʿalā
+7	3:33:11	w	ٱلۡعَٰلَمِينَ	ﲆ	العالمين	the worlds	l-ʿālamīna
+7	3:33:12	e	٣٣	ﲇ			
+7	3:34:1	w	ذُرِّيَّةَۢ	ﲈ	ذرية	Descendents	dhurriyyatan
+7	3:34:2	w	بَعۡضُهَا	ﲉ	بعضها	some of them	baʿḍuhā
+7	3:34:3	w	مِنۢ	ﲊ	من	from	min
+7	3:34:4	w	بَعۡضٖۗ	ﲋﲌ	بعض	others	baʿḍin
+7	3:34:5	w	وَٱللَّهُ	ﲍ	والله	And Allah	wal-lahu
+8	3:34:6	w	سَمِيعٌ	ﲎ	سميع	(is) All-Hearing	samīʿun
+8	3:34:7	w	عَلِيمٌ	ﲏ	عليم	All-Knowing	ʿalīmun
+8	3:34:8	e	٣٤	ﲐ			
+8	3:35:1	w	إِذۡ	ﲑ	اذ	When	idh
+8	3:35:2	w	قَالَتِ	ﲒ	قالت	[she] said	qālati
+8	3:35:3	w	ٱمۡرَأَتُ	ﲓ	امرات	(the) wife	im'ra-atu
+8	3:35:4	w	عِمۡرَٰنَ	ﲔ	عمران	(of) Imran	ʿim'rāna
+8	3:35:5	w	رَبِّ	ﲕ	رب	My Lord	rabbi
+8	3:35:6	w	إِنِّي	ﲖ	اني	Indeed, I	innī
+8	3:35:7	w	نَذَرۡتُ	ﲗ	نذرت	[I] vowed	nadhartu
+8	3:35:8	w	لَكَ	ﲘ	لك	to You	laka
+9	3:35:9	w	مَا	ﲙ	ما	what	mā
+9	3:35:10	w	فِي	ﲚ	في	(is) in	fī
+9	3:35:11	w	بَطۡنِي	ﲛ	بطني	my womb	baṭnī
+9	3:35:12	w	مُحَرَّرٗا	ﲜ	محررا	dedicated	muḥarraran
+9	3:35:13	w	فَتَقَبَّلۡ	ﲝ	فتقبل	so accept	fataqabbal
+9	3:35:14	w	مِنِّيٓۖ	ﲞﲟ	مني	from me	minnī
+9	3:35:15	w	إِنَّكَ	ﲠ	انك	Indeed, You	innaka
+9	3:35:16	w	أَنتَ	ﲡ	انت	You	anta
+9	3:35:17	w	ٱلسَّمِيعُ	ﲢ	السميع	(are) the All-Hearing	l-samīʿu
+9	3:35:18	w	ٱلۡعَلِيمُ	ﲣ	العليم	the All-Knowing	l-ʿalīmu
+9	3:35:19	e	٣٥	ﲤ			
+10	3:36:1	w	فَلَمَّا	ﲥ	فلما	Then when	falammā
+10	3:36:2	w	وَضَعَتۡهَا	ﲦ	وضعتها	she delivered her	waḍaʿathā
+10	3:36:3	w	قَالَتۡ	ﲧ	قالت	she said	qālat
+10	3:36:4	w	رَبِّ	ﲨ	رب	My Lord	rabbi
+10	3:36:5	w	إِنِّي	ﲩ	اني	indeed I	innī
+10	3:36:6	w	وَضَعۡتُهَآ	ﲪ	وضعتها	[I] (have) delivered [her]	waḍaʿtuhā
+10	3:36:7	w	أُنثَىٰ	ﲫ	انثى	a female	unthā
+10	3:36:8	w	وَٱللَّهُ	ﲬ	والله	And Allah	wal-lahu
+10	3:36:9	w	أَعۡلَمُ	ﲭ	اعلم	knows better	aʿlamu
+10	3:36:10	w	بِمَا	ﲮ	بما	[of] what	bimā
+10	3:36:11	w	وَضَعَتۡ	ﲯ	وضعت	she delivered	waḍaʿat
+11	3:36:12	w	وَلَيۡسَ	ﲰ	وليس	and is not	walaysa
+11	3:36:13	w	ٱلذَّكَرُ	ﲱ	الذكر	the male	l-dhakaru
+11	3:36:14	w	كَٱلۡأُنثَىٰۖ	ﲲﲳ	كالانثى	like the female	kal-unthā
+11	3:36:15	w	وَإِنِّي	ﲴ	واني	And that I	wa-innī
+11	3:36:16	w	سَمَّيۡتُهَا	ﲵ	سميتها	[I] (have) named her	sammaytuhā
+11	3:36:17	w	مَرۡيَمَ	ﲶ	مريم	Maryam	maryama
+11	3:36:18	w	وَإِنِّيٓ	ﲷ	واني	and that I	wa-innī
+11	3:36:19	w	أُعِيذُهَا	ﲸ	اعيذها	[I] seek refuge for her	uʿīdhuhā
+11	3:36:20	w	بِكَ	ﲹ	بك	in You	bika
+12	3:36:21	w	وَذُرِّيَّتَهَا	ﲺ	وذريتها	and her offspring	wadhurriyyatahā
+12	3:36:22	w	مِنَ	ﲻ	من	from	mina
+12	3:36:23	w	ٱلشَّيۡطَٰنِ	ﲼ	الشيطان	the Shaitaan	l-shayṭāni
+12	3:36:24	w	ٱلرَّجِيمِ	ﲽ	الرجيم	the rejected	l-rajīmi
+12	3:36:25	e	٣٦	ﲾ			
+12	3:37:1	w	فَتَقَبَّلَهَا	ﲿ	فتقبلها	So accepted her	fataqabbalahā
+12	3:37:2	w	رَبُّهَا	ﳀ	ربها	her Lord	rabbuhā
+12	3:37:3	w	بِقَبُولٍ	ﳁ	بقبول	with acceptance	biqabūlin
+13	3:37:4	w	حَسَنٖ	ﳂ	حسن	good	ḥasanin
+13	3:37:5	w	وَأَنۢبَتَهَا	ﳃ	وانبتها	and reared her	wa-anbatahā
+13	3:37:6	w	نَبَاتًا	ﳄ	نباتا	a rearing	nabātan
+13	3:37:7	w	حَسَنٗا	ﳅ	حسنا	good	ḥasanan
+13	3:37:8	w	وَكَفَّلَهَا	ﳆ	وكفلها	and put her in (the) care	wakaffalahā
+13	3:37:9	w	زَكَرِيَّاۖ	ﳇﳈ	زكريا	(of) Zakariya	zakariyyā
+13	3:37:10	w	كُلَّمَا	ﳉ	كلما	Whenever	kullamā
+13	3:37:11	w	دَخَلَ	ﳊ	دخل	entered	dakhala
+13	3:37:12	w	عَلَيۡهَا	ﳋ	عليها	upon her	ʿalayhā
+14	3:37:13	w	زَكَرِيَّا	ﳌ	زكريا	Zakariya	zakariyyā
+14	3:37:14	w	ٱلۡمِحۡرَابَ	ﳍ	المحراب	[the] prayer chamber	l-miḥ'rāba
+14	3:37:15	w	وَجَدَ	ﳎ	وجد	he found	wajada
+14	3:37:16	w	عِندَهَا	ﳏ	عندها	with her	ʿindahā
+14	3:37:17	w	رِزۡقٗاۖ	ﳐﳑ	رزقا	provision	riz'qan
+14	3:37:18	w	قَالَ	ﳒ	قال	He said	qāla
+14	3:37:19	w	يَٰمَرۡيَمُ	ﳓ	يا مريم	O Maryam	yāmaryamu
+14	3:37:20	w	أَنَّىٰ	ﳔ	انى	From where	annā
+14	3:37:21	w	لَكِ	ﳕ	لك	for you	laki
+14	3:37:22	w	هَٰذَاۖ	ﳖﳗ	هاذا	(is) this	hādhā
+15	3:37:23	w	قَالَتۡ	ﳘ	قالت	She said	qālat
+15	3:37:24	w	هُوَ	ﳙ	هو	This	huwa
+15	3:37:25	w	مِنۡ	ﳚ	من	(is)	min
+15	3:37:26	w	عِندِ	ﳛ	عند	from	ʿindi
+15	3:37:27	w	ٱللَّهِۖ	ﳜﳝ	الله	Allah	l-lahi
+15	3:37:28	w	إِنَّ	ﳞ	ان	Indeed	inna
+15	3:37:29	w	ٱللَّهَ	ﳟ	الله	Allah	l-laha
+15	3:37:30	w	يَرۡزُقُ	ﳠ	يرزق	gives provision	yarzuqu
+15	3:37:31	w	مَن	ﳡ	من	(to) whom	man
+15	3:37:32	w	يَشَآءُ	ﳢ	يشاء	He wills	yashāu
+15	3:37:33	w	بِغَيۡرِ	ﳣ	بغير	without	bighayri
+15	3:37:34	w	حِسَابٍ	ﳤ	حساب	measure	ḥisābin
+15	3:37:35	e	٣٧	ﳥ			

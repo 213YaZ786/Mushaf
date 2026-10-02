@@ -1,0 +1,144 @@
+1	20:52:1	w	قَالَ	ﱁ	قال	He said	qāla
+1	20:52:2	w	عِلۡمُهَا	ﱂ	علمها	Its knowledge	ʿil'muhā
+1	20:52:3	w	عِندَ	ﱃ	عند	(is) with	ʿinda
+1	20:52:4	w	رَبِّي	ﱄ	ربي	my Lord	rabbī
+1	20:52:5	w	فِي	ﱅ	في	in	fī
+1	20:52:6	w	كِتَٰبٖۖ	ﱆﱇ	كتاب	a Record	kitābin
+1	20:52:7	w	لَّا	ﱈ	لا	Not	lā
+1	20:52:8	w	يَضِلُّ	ﱉ	يضل	errs	yaḍillu
+1	20:52:9	w	رَبِّي	ﱊ	ربي	my Lord	rabbī
+1	20:52:10	w	وَلَا	ﱋ	ولا	and not	walā
+1	20:52:11	w	يَنسَى	ﱌ	ينسى	forgets	yansā
+1	20:52:12	e	٥٢	ﱍ			
+1	20:53:1	w	ٱلَّذِي	ﱎ	الذي	The One Who	alladhī
+2	20:53:2	w	جَعَلَ	ﱏ	جعل	made	jaʿala
+2	20:53:3	w	لَكُمُ	ﱐ	لكم	for you	lakumu
+2	20:53:4	w	ٱلۡأَرۡضَ	ﱑ	الارض	the earth	l-arḍa
+2	20:53:5	w	مَهۡدٗا	ﱒ	مهدا	(as) a bed	mahdan
+2	20:53:6	w	وَسَلَكَ	ﱓ	وسلك	and inserted	wasalaka
+2	20:53:7	w	لَكُمۡ	ﱔ	لكم	for you	lakum
+2	20:53:8	w	فِيهَا	ﱕ	فيها	therein	fīhā
+2	20:53:9	w	سُبُلٗا	ﱖ	سبلا	ways	subulan
+2	20:53:10	w	وَأَنزَلَ	ﱗ	وانزل	and sent down	wa-anzala
+2	20:53:11	w	مِنَ	ﱘ	من	from	mina
+3	20:53:12	w	ٱلسَّمَآءِ	ﱙ	السماء	the sky	l-samāi
+3	20:53:13	w	مَآءٗ	ﱚ	ماء	water	māan
+3	20:53:14	w	فَأَخۡرَجۡنَا	ﱛ	فاخرجنا	then We (have) brought forth	fa-akhrajnā
+3	20:53:15	w	بِهِۦٓ	ﱜ	به	with it	bihi
+3	20:53:16	w	أَزۡوَٰجٗا	ﱝ	ازواجا	pairs	azwājan
+3	20:53:17	w	مِّن	ﱞ	من	of	min
+3	20:53:18	w	نَّبَاتٖ	ﱟ	نبات	plants	nabātin
+3	20:53:19	w	شَتَّىٰ	ﱠ	شتى	diverse	shattā
+3	20:53:20	e	٥٣	ﱡ			
+3	20:54:1	w	كُلُواْ	ﱢ	كلوا	Eat	kulū
+4	20:54:2	w	وَٱرۡعَوۡاْ	ﱣ	وارعوا	and pasture	wa-ir'ʿaw
+4	20:54:3	w	أَنۡعَٰمَكُمۡۚ	ﱤﱥ	انعامكم	your cattle	anʿāmakum
+4	20:54:4	w	إِنَّ	ﱦ	ان	Indeed	inna
+4	20:54:5	w	فِي	ﱧ	في	in	fī
+4	20:54:6	w	ذَٰلِكَ	ﱨ	ذالك	that	dhālika
+4	20:54:7	w	لَأٓيَٰتٖ	ﱩ	لايات	surely (are) Signs	laāyātin
+4	20:54:8	w	لِّأُوْلِي	ﱪ	لاولي	for possessors	li-ulī
+4	20:54:9	w	ٱلنُّهَىٰ	ﱫ	النهى	(of) intelligence	l-nuhā
+4	20:54:10	e	٥٤	ﱬ			
+4	20:55:1	w	۞ مِنۡهَا	ﱭ ﱮ	۞ منها	From it	min'hā
+5	20:55:2	w	خَلَقۡنَٰكُمۡ	ﱯ	خلقناكم	We created you	khalaqnākum
+5	20:55:3	w	وَفِيهَا	ﱰ	وفيها	and in it	wafīhā
+5	20:55:4	w	نُعِيدُكُمۡ	ﱱ	نعيدكم	We will return you	nuʿīdukum
+5	20:55:5	w	وَمِنۡهَا	ﱲ	ومنها	and from it	wamin'hā
+5	20:55:6	w	نُخۡرِجُكُمۡ	ﱳ	نخرجكم	We will bring you out	nukh'rijukum
+5	20:55:7	w	تَارَةً	ﱴ	تارة	time	tāratan
+5	20:55:8	w	أُخۡرَىٰ	ﱵ	اخرى	another	ukh'rā
+5	20:55:9	e	٥٥	ﱶ			
+5	20:56:1	w	وَلَقَدۡ	ﱷ	ولقد	And verily	walaqad
+6	20:56:2	w	أَرَيۡنَٰهُ	ﱸ	اريناه	We showed him	araynāhu
+6	20:56:3	w	ءَايَٰتِنَا	ﱹ	اياتنا	Our Signs	āyātinā
+6	20:56:4	w	كُلَّهَا	ﱺ	كلها	all of them	kullahā
+6	20:56:5	w	فَكَذَّبَ	ﱻ	فكذب	but he denied	fakadhaba
+6	20:56:6	w	وَأَبَىٰ	ﱼ	وابى	and refused	wa-abā
+6	20:56:7	e	٥٦	ﱽ			
+6	20:57:1	w	قَالَ	ﱾ	قال	He said	qāla
+6	20:57:2	w	أَجِئۡتَنَا	ﱿ	اجيتنا	Have you come to us	aji'tanā
+6	20:57:3	w	لِتُخۡرِجَنَا	ﲀ	لتخرجنا	to drive us out	litukh'rijanā
+7	20:57:4	w	مِنۡ	ﲁ	من	of	min
+7	20:57:5	w	أَرۡضِنَا	ﲂ	ارضنا	our land	arḍinā
+7	20:57:6	w	بِسِحۡرِكَ	ﲃ	بسحرك	with your magic	bisiḥ'rika
+7	20:57:7	w	يَٰمُوسَىٰ	ﲄ	يا موسى	O Musa	yāmūsā
+7	20:57:8	e	٥٧	ﲅ			
+7	20:58:1	w	فَلَنَأۡتِيَنَّكَ	ﲆ	فلناتينك	Then we will surely produce for you	falanatiyannaka
+7	20:58:2	w	بِسِحۡرٖ	ﲇ	بسحر	magic	bisiḥ'rin
+7	20:58:3	w	مِّثۡلِهِۦ	ﲈ	مثله	like it	mith'lihi
+8	20:58:4	w	فَٱجۡعَلۡ	ﲉ	فاجعل	So make	fa-ij'ʿal
+8	20:58:5	w	بَيۡنَنَا	ﲊ	بيننا	between us	baynanā
+8	20:58:6	w	وَبَيۡنَكَ	ﲋ	وبينك	and between you	wabaynaka
+8	20:58:7	w	مَوۡعِدٗا	ﲌ	موعدا	an appointment	mawʿidan
+8	20:58:8	w	لَّا	ﲍ	لا	not	lā
+8	20:58:9	w	نُخۡلِفُهُۥ	ﲎ	نخلفه	we will fail it	nukh'lifuhu
+8	20:58:10	w	نَحۡنُ	ﲏ	نحن	[we]	naḥnu
+8	20:58:11	w	وَلَآ	ﲐ	ولا	and not	walā
+8	20:58:12	w	أَنتَ	ﲑ	انت	you	anta
+8	20:58:13	w	مَكَانٗا	ﲒ	مكانا	(in) a place	makānan
+9	20:58:14	w	سُوٗى	ﲓ	سوى	even	suwan
+9	20:58:15	e	٥٨	ﲔ			
+9	20:59:1	w	قَالَ	ﲕ	قال	He said	qāla
+9	20:59:2	w	مَوۡعِدُكُمۡ	ﲖ	موعدكم	Your appointment	mawʿidukum
+9	20:59:3	w	يَوۡمُ	ﲗ	يوم	(is on the) day	yawmu
+9	20:59:4	w	ٱلزِّينَةِ	ﲘ	الزينة	(of) the festival	l-zīnati
+9	20:59:5	w	وَأَن	ﲙ	وان	and that	wa-an
+9	20:59:6	w	يُحۡشَرَ	ﲚ	يحشر	will be assembled	yuḥ'shara
+9	20:59:7	w	ٱلنَّاسُ	ﲛ	الناس	the people	l-nāsu
+9	20:59:8	w	ضُحٗى	ﲜ	ضحى	(at) forenoon	ḍuḥan
+10	20:59:9	e	٥٩	ﲝ			
+10	20:60:1	w	فَتَوَلَّىٰ	ﲞ	فتولى	Then went away	fatawallā
+10	20:60:2	w	فِرۡعَوۡنُ	ﲟ	فرعون	Firaun	fir'ʿawnu
+10	20:60:3	w	فَجَمَعَ	ﲠ	فجمع	and put together	fajamaʿa
+10	20:60:4	w	كَيۡدَهُۥ	ﲡ	كيده	his plan	kaydahu
+10	20:60:5	w	ثُمَّ	ﲢ	ثم	then	thumma
+10	20:60:6	w	أَتَىٰ	ﲣ	اتى	came	atā
+10	20:60:7	e	٦٠	ﲤ			
+10	20:61:1	w	قَالَ	ﲥ	قال	Said	qāla
+10	20:61:2	w	لَهُم	ﲦ	لهم	to them	lahum
+11	20:61:3	w	مُّوسَىٰ	ﲧ	موسى	Musa	mūsā
+11	20:61:4	w	وَيۡلَكُمۡ	ﲨ	ويلكم	Woe to you	waylakum
+11	20:61:5	w	لَا	ﲩ	لا	(Do) not	lā
+11	20:61:6	w	تَفۡتَرُواْ	ﲪ	تفتروا	invent	taftarū
+11	20:61:7	w	عَلَى	ﲫ	على	against	ʿalā
+11	20:61:8	w	ٱللَّهِ	ﲬ	الله	Allah	l-lahi
+11	20:61:9	w	كَذِبٗا	ﲭ	كذبا	a lie	kadhiban
+11	20:61:10	w	فَيُسۡحِتَكُم	ﲮ	فيسحتكم	lest He will destroy you	fayus'ḥitakum
+11	20:61:11	w	بِعَذَابٖۖ	ﲯﲰ	بعذاب	with a punishment	biʿadhābin
+12	20:61:12	w	وَقَدۡ	ﲱ	وقد	And verily	waqad
+12	20:61:13	w	خَابَ	ﲲ	خاب	he failed	khāba
+12	20:61:14	w	مَنِ	ﲳ	من	who	mani
+12	20:61:15	w	ٱفۡتَرَىٰ	ﲴ	افترى	invented	if'tarā
+12	20:61:16	e	٦١	ﲵ			
+12	20:62:1	w	فَتَنَٰزَعُوٓاْ	ﲶ	فتنازعوا	Then they disputed	fatanāzaʿū
+12	20:62:2	w	أَمۡرَهُم	ﲷ	امرهم	(in) their affair	amrahum
+12	20:62:3	w	بَيۡنَهُمۡ	ﲸ	بينهم	among them	baynahum
+12	20:62:4	w	وَأَسَرُّواْ	ﲹ	واسروا	and they kept secret	wa-asarrū
+13	20:62:5	w	ٱلنَّجۡوَىٰ	ﲺ	النجوى	the private conversation	l-najwā
+13	20:62:6	e	٦٢	ﲻ			
+13	20:63:1	w	قَالُوٓاْ	ﲼ	قالوا	They said	qālū
+13	20:63:2	w	إِنۡ	ﲽ	ان	Indeed	in
+13	20:63:3	w	هَٰذَٰنِ	ﲾ	هاذان	these two	hādhāni
+13	20:63:4	w	لَسَٰحِرَٰنِ	ﲿ	لساحران	[two] magicians	lasāḥirāni
+13	20:63:5	w	يُرِيدَانِ	ﳀ	يريدان	they intend	yurīdāni
+13	20:63:6	w	أَن	ﳁ	ان	that	an
+13	20:63:7	w	يُخۡرِجَاكُم	ﳂ	يخرجاكم	they drive you out	yukh'rijākum
+14	20:63:8	w	مِّنۡ	ﳃ	من	of	min
+14	20:63:9	w	أَرۡضِكُم	ﳄ	ارضكم	your land	arḍikum
+14	20:63:10	w	بِسِحۡرِهِمَا	ﳅ	بسحرهما	with their magic	bisiḥ'rihimā
+14	20:63:11	w	وَيَذۡهَبَا	ﳆ	ويذهبا	and do away	wayadhhabā
+14	20:63:12	w	بِطَرِيقَتِكُمُ	ﳇ	بطريقتكم	with your way	biṭarīqatikumu
+14	20:63:13	w	ٱلۡمُثۡلَىٰ	ﳈ	المثلى	the exemplary	l-muth'lā
+14	20:63:14	e	٦٣	ﳉ			
+15	20:64:1	w	فَأَجۡمِعُواْ	ﳊ	فاجمعوا	So put together	fa-ajmiʿū
+15	20:64:2	w	كَيۡدَكُمۡ	ﳋ	كيدكم	your plan	kaydakum
+15	20:64:3	w	ثُمَّ	ﳌ	ثم	then	thumma
+15	20:64:4	w	ٱئۡتُواْ	ﳍ	ايتوا	come	i'tū
+15	20:64:5	w	صَفّٗاۚ	ﳎﳏ	صفا	(in) a line	ṣaffan
+15	20:64:6	w	وَقَدۡ	ﳐ	وقد	And verily	waqad
+15	20:64:7	w	أَفۡلَحَ	ﳑ	افلح	(will be) successful	aflaḥa
+15	20:64:8	w	ٱلۡيَوۡمَ	ﳒ	اليوم	today	l-yawma
+15	20:64:9	w	مَنِ	ﳓ	من	who	mani
+15	20:64:10	w	ٱسۡتَعۡلَىٰ	ﳔ	استعلى	overcomes	is'taʿlā
+15	20:64:11	e	٦٤	ﳕ			

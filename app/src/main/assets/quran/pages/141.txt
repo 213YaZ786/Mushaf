@@ -1,0 +1,142 @@
+1	6:102:1	w	ذَٰلِكُمُ	ﱁ	ذالكم	That	dhālikumu
+1	6:102:2	w	ٱللَّهُ	ﱂ	الله	(is) Allah	l-lahu
+1	6:102:3	w	رَبُّكُمۡۖ	ﱃﱄ	ربكم	your Lord	rabbukum
+1	6:102:4	w	لَآ	ﱅ	لا	(there is) no	lā
+1	6:102:5	w	إِلَٰهَ	ﱆ	الاه	god	ilāha
+1	6:102:6	w	إِلَّا	ﱇ	الا	except	illā
+1	6:102:7	w	هُوَۖ	ﱈﱉ	هو	Him	huwa
+1	6:102:8	w	خَٰلِقُ	ﱊ	خالق	(the) Creator	khāliqu
+1	6:102:9	w	كُلِّ	ﱋ	كل	(of) every	kulli
+1	6:102:10	w	شَيۡءٖ	ﱌ	شيء	thing	shayin
+1	6:102:11	w	فَٱعۡبُدُوهُۚ	ﱍﱎ	فاعبدوه	so worship Him	fa-uʿ'budūhu
+2	6:102:12	w	وَهُوَ	ﱏ	وهو	And He	wahuwa
+2	6:102:13	w	عَلَىٰ	ﱐ	على	(is) on	ʿalā
+2	6:102:14	w	كُلِّ	ﱑ	كل	every	kulli
+2	6:102:15	w	شَيۡءٖ	ﱒ	شيء	thing	shayin
+2	6:102:16	w	وَكِيلٞ	ﱓ	وكيل	a Guardian	wakīlun
+2	6:102:17	e	١٠٢	ﱔ			
+2	6:103:1	w	لَّا	ﱕ	لا	Not (can)	lā
+2	6:103:2	w	تُدۡرِكُهُ	ﱖ	تدركه	grasp Him	tud'rikuhu
+2	6:103:3	w	ٱلۡأَبۡصَٰرُ	ﱗ	الابصار	the visions	l-abṣāru
+2	6:103:4	w	وَهُوَ	ﱘ	وهو	but He	wahuwa
+3	6:103:5	w	يُدۡرِكُ	ﱙ	يدرك	(can) grasp	yud'riku
+3	6:103:6	w	ٱلۡأَبۡصَٰرَۖ	ﱚﱛ	الابصار	(all) the vision	l-abṣāra
+3	6:103:7	w	وَهُوَ	ﱜ	وهو	and He (is)	wahuwa
+3	6:103:8	w	ٱللَّطِيفُ	ﱝ	اللطيف	the All-Subtle	l-laṭīfu
+3	6:103:9	w	ٱلۡخَبِيرُ	ﱞ	الخبير	the All-Aware	l-khabīru
+3	6:103:10	e	١٠٣	ﱟ			
+3	6:104:1	w	قَدۡ	ﱠ	قد	Verily	qad
+3	6:104:2	w	جَآءَكُم	ﱡ	جاءكم	has come to you	jāakum
+4	6:104:3	w	بَصَآئِرُ	ﱢ	بصاير	enlightenment	baṣāiru
+4	6:104:4	w	مِن	ﱣ	من	from	min
+4	6:104:5	w	رَّبِّكُمۡۖ	ﱤﱥ	ربكم	your Lord	rabbikum
+4	6:104:6	w	فَمَنۡ	ﱦ	فمن	Then whoever	faman
+4	6:104:7	w	أَبۡصَرَ	ﱧ	ابصر	sees	abṣara
+4	6:104:8	w	فَلِنَفۡسِهِۦۖ	ﱨﱩ	فلنفسه	then (it is) for his soul	falinafsihi
+4	6:104:9	w	وَمَنۡ	ﱪ	ومن	and whoever	waman
+4	6:104:10	w	عَمِيَ	ﱫ	عمي	(is) blind	ʿamiya
+4	6:104:11	w	فَعَلَيۡهَاۚ	ﱬﱭ	فعليها	then (it is) against himself	faʿalayhā
+5	6:104:12	w	وَمَآ	ﱮ	وما	And not	wamā
+5	6:104:13	w	أَنَا۠	ﱯ	انا	(am) I	anā
+5	6:104:14	w	عَلَيۡكُم	ﱰ	عليكم	over you	ʿalaykum
+5	6:104:15	w	بِحَفِيظٖ	ﱱ	بحفيظ	a guardian	biḥafīẓin
+5	6:104:16	e	١٠٤	ﱲ			
+5	6:105:1	w	وَكَذَٰلِكَ	ﱳ	وكذالك	And thus	wakadhālika
+5	6:105:2	w	نُصَرِّفُ	ﱴ	نصرف	We explain	nuṣarrifu
+5	6:105:3	w	ٱلۡأٓيَٰتِ	ﱵ	الايات	the Signs	l-āyāti
+6	6:105:4	w	وَلِيَقُولُواْ	ﱶ	وليقولوا	that they (may) say	waliyaqūlū
+6	6:105:5	w	دَرَسۡتَ	ﱷ	درست	You have studied	darasta
+6	6:105:6	w	وَلِنُبَيِّنَهُۥ	ﱸ	ولنبينه	and that We (may) make it clear	walinubayyinahu
+6	6:105:7	w	لِقَوۡمٖ	ﱹ	لقوم	for a people	liqawmin
+6	6:105:8	w	يَعۡلَمُونَ	ﱺ	يعلمون	who know	yaʿlamūna
+6	6:105:9	e	١٠٥	ﱻ			
+6	6:106:1	w	ٱتَّبِعۡ	ﱼ	اتبع	Follow	ittabiʿ
+7	6:106:2	w	مَآ	ﱽ	ما	what	mā
+7	6:106:3	w	أُوحِيَ	ﱾ	اوحي	has been inspired	ūḥiya
+7	6:106:4	w	إِلَيۡكَ	ﱿ	اليك	to you	ilayka
+7	6:106:5	w	مِن	ﲀ	من	from	min
+7	6:106:6	w	رَّبِّكَۖ	ﲁﲂ	ربك	your Lord	rabbika
+7	6:106:7	w	لَآ	ﲃ	لا	(there is) no	lā
+7	6:106:8	w	إِلَٰهَ	ﲄ	الاه	god	ilāha
+7	6:106:9	w	إِلَّا	ﲅ	الا	except	illā
+7	6:106:10	w	هُوَۖ	ﲆﲇ	هو	Him	huwa
+7	6:106:11	w	وَأَعۡرِضۡ	ﲈ	واعرض	and turn away	wa-aʿriḍ
+7	6:106:12	w	عَنِ	ﲉ	عن	from	ʿani
+7	6:106:13	w	ٱلۡمُشۡرِكِينَ	ﲊ	المشركين	the polytheists	l-mush'rikīna
+8	6:106:14	e	١٠٦	ﲋ			
+8	6:107:1	w	وَلَوۡ	ﲌ	ولو	And if	walaw
+8	6:107:2	w	شَآءَ	ﲍ	شاء	(had) willed	shāa
+8	6:107:3	w	ٱللَّهُ	ﲎ	الله	Allah	l-lahu
+8	6:107:4	w	مَآ	ﲏ	ما	not (they would have)	mā
+8	6:107:5	w	أَشۡرَكُواْۗ	ﲐﲑ	اشركوا	associated partners (with Him)	ashrakū
+8	6:107:6	w	وَمَا	ﲒ	وما	And not	wamā
+8	6:107:7	w	جَعَلۡنَٰكَ	ﲓ	جعلناك	We have made you	jaʿalnāka
+8	6:107:8	w	عَلَيۡهِمۡ	ﲔ	عليهم	over them	ʿalayhim
+8	6:107:9	w	حَفِيظٗاۖ	ﲕﲖ	حفيظا	a guardian	ḥafīẓan
+9	6:107:10	w	وَمَآ	ﲗ	وما	and not	wamā
+9	6:107:11	w	أَنتَ	ﲘ	انت	you	anta
+9	6:107:12	w	عَلَيۡهِم	ﲙ	عليهم	(are) over them	ʿalayhim
+9	6:107:13	w	بِوَكِيلٖ	ﲚ	بوكيل	a manager	biwakīlin
+9	6:107:14	e	١٠٧	ﲛ			
+9	6:108:1	w	وَلَا	ﲜ	ولا	And (do) not	walā
+9	6:108:2	w	تَسُبُّواْ	ﲝ	تسبوا	insult	tasubbū
+9	6:108:3	w	ٱلَّذِينَ	ﲞ	الذين	those whom	alladhīna
+9	6:108:4	w	يَدۡعُونَ	ﲟ	يدعون	they invoke	yadʿūna
+10	6:108:5	w	مِن	ﲠ	من	from	min
+10	6:108:6	w	دُونِ	ﲡ	دون	other than	dūni
+10	6:108:7	w	ٱللَّهِ	ﲢ	الله	Allah	l-lahi
+10	6:108:8	w	فَيَسُبُّواْ	ﲣ	فيسبوا	lest they insult	fayasubbū
+10	6:108:9	w	ٱللَّهَ	ﲤ	الله	Allah	l-laha
+10	6:108:10	w	عَدۡوَۢا	ﲥ	عدوا	(in) enmity	ʿadwan
+10	6:108:11	w	بِغَيۡرِ	ﲦ	بغير	without	bighayri
+10	6:108:12	w	عِلۡمٖۗ	ﲧﲨ	علم	knowledge	ʿil'min
+10	6:108:13	w	كَذَٰلِكَ	ﲩ	كذالك	Thus	kadhālika
+10	6:108:14	w	زَيَّنَّا	ﲪ	زينا	We have made fair-seeming	zayyannā
+10	6:108:15	w	لِكُلِّ	ﲫ	لكل	to every	likulli
+10	6:108:16	w	أُمَّةٍ	ﲬ	امة	community	ummatin
+11	6:108:17	w	عَمَلَهُمۡ	ﲭ	عملهم	their deed	ʿamalahum
+11	6:108:18	w	ثُمَّ	ﲮ	ثم	Then	thumma
+11	6:108:19	w	إِلَىٰ	ﲯ	الى	to	ilā
+11	6:108:20	w	رَبِّهِم	ﲰ	ربهم	their Lord	rabbihim
+11	6:108:21	w	مَّرۡجِعُهُمۡ	ﲱ	مرجعهم	(is) their return	marjiʿuhum
+11	6:108:22	w	فَيُنَبِّئُهُم	ﲲ	فينبيهم	then He will inform them	fayunabbi-uhum
+11	6:108:23	w	بِمَا	ﲳ	بما	about what	bimā
+11	6:108:24	w	كَانُواْ	ﲴ	كانوا	they used to	kānū
+11	6:108:25	w	يَعۡمَلُونَ	ﲵ	يعملون	do	yaʿmalūna
+12	6:108:26	e	١٠٨	ﲶ			
+12	6:109:1	w	وَأَقۡسَمُواْ	ﲷ	واقسموا	And they swear	wa-aqsamū
+12	6:109:2	w	بِٱللَّهِ	ﲸ	بالله	by Allah	bil-lahi
+12	6:109:3	w	جَهۡدَ	ﲹ	جهد	strongest	jahda
+12	6:109:4	w	أَيۡمَٰنِهِمۡ	ﲺ	ايمانهم	(of) their oaths	aymānihim
+12	6:109:5	w	لَئِن	ﲻ	لين	that if	la-in
+12	6:109:6	w	جَآءَتۡهُمۡ	ﲼ	جاءتهم	came to them	jāathum
+12	6:109:7	w	ءَايَةٞ	ﲽ	اية	a sign	āyatun
+12	6:109:8	w	لَّيُؤۡمِنُنَّ	ﲾ	ليومنن	they would surely believe	layu'minunna
+13	6:109:9	w	بِهَاۚ	ﲿﳀ	بها	in it	bihā
+13	6:109:10	w	قُلۡ	ﳁ	قل	Say	qul
+13	6:109:11	w	إِنَّمَا	ﳂ	انما	Only	innamā
+13	6:109:12	w	ٱلۡأٓيَٰتُ	ﳃ	الايات	the signs	l-āyātu
+13	6:109:13	w	عِندَ	ﳄ	عند	(are) with	ʿinda
+13	6:109:14	w	ٱللَّهِۖ	ﳅﳆ	الله	Allah	l-lahi
+13	6:109:15	w	وَمَا	ﳇ	وما	And what	wamā
+13	6:109:16	w	يُشۡعِرُكُمۡ	ﳈ	يشعركم	will make you perceive	yush'ʿirukum
+13	6:109:17	w	أَنَّهَآ	ﳉ	انها	that [it]	annahā
+13	6:109:18	w	إِذَا	ﳊ	اذا	when	idhā
+13	6:109:19	w	جَآءَتۡ	ﳋ	جاءت	it comes	jāat
+14	6:109:20	w	لَا	ﳌ	لا	not	lā
+14	6:109:21	w	يُؤۡمِنُونَ	ﳍ	يومنون	they will believe	yu'minūna
+14	6:109:22	e	١٠٩	ﳎ			
+14	6:110:1	w	وَنُقَلِّبُ	ﳏ	ونقلب	And We will turn	wanuqallibu
+14	6:110:2	w	أَفۡـِٔدَتَهُمۡ	ﳐ	افيدتهم	their hearts	afidatahum
+14	6:110:3	w	وَأَبۡصَٰرَهُمۡ	ﳑ	وابصارهم	and their sights	wa-abṣārahum
+14	6:110:4	w	كَمَا	ﳒ	كما	(just) as	kamā
+14	6:110:5	w	لَمۡ	ﳓ	لم	not	lam
+15	6:110:6	w	يُؤۡمِنُواْ	ﳔ	يومنوا	they believe	yu'minū
+15	6:110:7	w	بِهِۦٓ	ﳕ	به	in it	bihi
+15	6:110:8	w	أَوَّلَ	ﳖ	اول	(the) first	awwala
+15	6:110:9	w	مَرَّةٖ	ﳗ	مرة	time	marratin
+15	6:110:10	w	وَنَذَرُهُمۡ	ﳘ	ونذرهم	And We will leave them	wanadharuhum
+15	6:110:11	w	فِي	ﳙ	في	in	fī
+15	6:110:12	w	طُغۡيَٰنِهِمۡ	ﳚ	طغيانهم	their transgression	ṭugh'yānihim
+15	6:110:13	w	يَعۡمَهُونَ	ﳛ	يعمهون	wandering blindly	yaʿmahūna
+15	6:110:14	e	١١٠	ﳜ			

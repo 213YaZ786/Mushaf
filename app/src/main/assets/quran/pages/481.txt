@@ -1,0 +1,154 @@
+1	41:39:1	w	وَمِنۡ	ﱁ	ومن	And among	wamin
+1	41:39:2	w	ءَايَٰتِهِۦٓ	ﱂ	اياته	His Signs	āyātihi
+1	41:39:3	w	أَنَّكَ	ﱃ	انك	(is) that you	annaka
+1	41:39:4	w	تَرَى	ﱄ	ترى	see	tarā
+1	41:39:5	w	ٱلۡأَرۡضَ	ﱅ	الارض	the earth	l-arḍa
+1	41:39:6	w	خَٰشِعَةٗ	ﱆ	خاشعة	barren	khāshiʿatan
+1	41:39:7	w	فَإِذَآ	ﱇ	فاذا	but when	fa-idhā
+1	41:39:8	w	أَنزَلۡنَا	ﱈ	انزلنا	We send down	anzalnā
+1	41:39:9	w	عَلَيۡهَا	ﱉ	عليها	upon it	ʿalayhā
+1	41:39:10	w	ٱلۡمَآءَ	ﱊ	الماء	water	l-māa
+2	41:39:11	w	ٱهۡتَزَّتۡ	ﱋ	اهتزت	it is stirred (to life)	ih'tazzat
+2	41:39:12	w	وَرَبَتۡۚ	ﱌﱍ	وربت	and grows	warabat
+2	41:39:13	w	إِنَّ	ﱎ	ان	Indeed	inna
+2	41:39:14	w	ٱلَّذِيٓ	ﱏ	الذي	the One Who	alladhī
+2	41:39:15	w	أَحۡيَاهَا	ﱐ	احياها	gives it life	aḥyāhā
+2	41:39:16	w	لَمُحۡيِ	ﱑ	لمحيي	(is) surely the Giver of life	lamuḥ'yī
+2	41:39:17	w	ٱلۡمَوۡتَىٰٓۚ	ﱒﱓ	الموتى	(to) the dead	l-mawtā
+2	41:39:18	w	إِنَّهُۥ	ﱔ	انه	Indeed, He	innahu
+2	41:39:19	w	عَلَىٰ	ﱕ	على	(is) on	ʿalā
+2	41:39:20	w	كُلِّ	ﱖ	كل	every	kulli
+2	41:39:21	w	شَيۡءٖ	ﱗ	شيء	thing	shayin
+3	41:39:22	w	قَدِيرٌ	ﱘ	قدير	All-Powerful	qadīrun
+3	41:39:23	e	٣٩	ﱙ			
+3	41:40:1	w	إِنَّ	ﱚ	ان	Indeed	inna
+3	41:40:2	w	ٱلَّذِينَ	ﱛ	الذين	those who	alladhīna
+3	41:40:3	w	يُلۡحِدُونَ	ﱜ	يلحدون	distort	yul'ḥidūna
+3	41:40:4	w	فِيٓ	ﱝ	في	[in]	fī
+3	41:40:5	w	ءَايَٰتِنَا	ﱞ	اياتنا	Our Verses	āyātinā
+3	41:40:6	w	لَا	ﱟ	لا	(are) not	lā
+3	41:40:7	w	يَخۡفَوۡنَ	ﱠ	يخفون	hidden	yakhfawna
+3	41:40:8	w	عَلَيۡنَآۗ	ﱡﱢ	علينا	from Us	ʿalaynā
+3	41:40:9	w	أَفَمَن	ﱣ	افمن	So, is (he) who	afaman
+4	41:40:10	w	يُلۡقَىٰ	ﱤ	يلقى	is cast	yul'qā
+4	41:40:11	w	فِي	ﱥ	في	in	fī
+4	41:40:12	w	ٱلنَّارِ	ﱦ	النار	the Fire	l-nāri
+4	41:40:13	w	خَيۡرٌ	ﱧ	خير	better	khayrun
+4	41:40:14	w	أَم	ﱨ	ام	or	am
+4	41:40:15	w	مَّن	ﱩ	من	(he) who	man
+4	41:40:16	w	يَأۡتِيٓ	ﱪ	ياتي	comes	yatī
+4	41:40:17	w	ءَامِنٗا	ﱫ	امنا	secure	āminan
+4	41:40:18	w	يَوۡمَ	ﱬ	يوم	(on the) Day	yawma
+4	41:40:19	w	ٱلۡقِيَٰمَةِۚ	ﱭﱮ	القيامة	(of) Resurrection	l-qiyāmati
+4	41:40:20	w	ٱعۡمَلُواْ	ﱯ	اعملوا	Do	iʿ'malū
+4	41:40:21	w	مَا	ﱰ	ما	what	mā
+4	41:40:22	w	شِئۡتُمۡ	ﱱ	شيتم	you will	shi'tum
+5	41:40:23	w	إِنَّهُۥ	ﱲ	انه	Indeed, He	innahu
+5	41:40:24	w	بِمَا	ﱳ	بما	of what	bimā
+5	41:40:25	w	تَعۡمَلُونَ	ﱴ	تعملون	you do	taʿmalūna
+5	41:40:26	w	بَصِيرٌ	ﱵ	بصير	(is) All-Seer	baṣīrun
+5	41:40:27	e	٤٠	ﱶ			
+5	41:41:1	w	إِنَّ	ﱷ	ان	Indeed	inna
+5	41:41:2	w	ٱلَّذِينَ	ﱸ	الذين	those who	alladhīna
+5	41:41:3	w	كَفَرُواْ	ﱹ	كفروا	disbelieve	kafarū
+5	41:41:4	w	بِٱلذِّكۡرِ	ﱺ	بالذكر	in the Reminder	bil-dhik'ri
+5	41:41:5	w	لَمَّا	ﱻ	لما	when	lammā
+5	41:41:6	w	جَآءَهُمۡۖ	ﱼﱽ	جاءهم	it comes to them	jāahum
+6	41:41:7	w	وَإِنَّهُۥ	ﱾ	وانه	And indeed, it	wa-innahu
+6	41:41:8	w	لَكِتَٰبٌ	ﱿ	لكتاب	(is) surely a Book	lakitābun
+6	41:41:9	w	عَزِيزٞ	ﲀ	عزيز	mighty	ʿazīzun
+6	41:41:10	e	٤١	ﲁ			
+6	41:42:1	w	لَّا	ﲂ	لا	Not	lā
+6	41:42:2	w	يَأۡتِيهِ	ﲃ	ياتيه	comes to it	yatīhi
+6	41:42:3	w	ٱلۡبَٰطِلُ	ﲄ	الباطل	the falsehood	l-bāṭilu
+6	41:42:4	w	مِنۢ	ﲅ	من	from	min
+6	41:42:5	w	بَيۡنِ	ﲆ	بين	before it	bayni
+6	41:42:6	w	يَدَيۡهِ	ﲇ	يديه	before it	yadayhi
+6	41:42:7	w	وَلَا	ﲈ	ولا	and not	walā
+6	41:42:8	w	مِنۡ	ﲉ	من	from	min
+7	41:42:9	w	خَلۡفِهِۦۖ	ﲊﲋ	خلفه	behind it	khalfihi
+7	41:42:10	w	تَنزِيلٞ	ﲌ	تنزيل	A Revelation	tanzīlun
+7	41:42:11	w	مِّنۡ	ﲍ	من	from	min
+7	41:42:12	w	حَكِيمٍ	ﲎ	حكيم	(the) All-Wise	ḥakīmin
+7	41:42:13	w	حَمِيدٖ	ﲏ	حميد	(the) Praiseworthy	ḥamīdin
+7	41:42:14	e	٤٢	ﲐ			
+7	41:43:1	w	مَّا	ﲑ	ما	Not	mā
+7	41:43:2	w	يُقَالُ	ﲒ	يقال	is said	yuqālu
+7	41:43:3	w	لَكَ	ﲓ	لك	to you	laka
+7	41:43:4	w	إِلَّا	ﲔ	الا	except	illā
+7	41:43:5	w	مَا	ﲕ	ما	what	mā
+7	41:43:6	w	قَدۡ	ﲖ	قد	was said	qad
+7	41:43:7	w	قِيلَ	ﲗ	قيل	was said	qīla
+8	41:43:8	w	لِلرُّسُلِ	ﲘ	للرسل	to the Messengers	lilrrusuli
+8	41:43:9	w	مِن	ﲙ	من	before you	min
+8	41:43:10	w	قَبۡلِكَۚ	ﲚﲛ	قبلك	before you	qablika
+8	41:43:11	w	إِنَّ	ﲜ	ان	Indeed	inna
+8	41:43:12	w	رَبَّكَ	ﲝ	ربك	your Lord	rabbaka
+8	41:43:13	w	لَذُو	ﲞ	لذو	(is) Possessor	ladhū
+8	41:43:14	w	مَغۡفِرَةٖ	ﲟ	مغفرة	(of) forgiveness	maghfiratin
+8	41:43:15	w	وَذُو	ﲠ	وذو	and Possessor	wadhū
+8	41:43:16	w	عِقَابٍ	ﲡ	عقاب	(of) penalty	ʿiqābin
+8	41:43:17	w	أَلِيمٖ	ﲢ	اليم	painful	alīmin
+9	41:43:18	e	٤٣	ﲣ			
+9	41:44:1	w	وَلَوۡ	ﲤ	ولو	And if	walaw
+9	41:44:2	w	جَعَلۡنَٰهُ	ﲥ	جعلناه	We (had) made it	jaʿalnāhu
+9	41:44:3	w	قُرۡءَانًا	ﲦ	قرانا	a Quran	qur'ānan
+9	41:44:4	w	أَعۡجَمِيّٗا	ﲧ	اعجميا	(in) a foreign (language)	aʿjamiyyan
+9	41:44:5	w	لَّقَالُواْ	ﲨ	لقالوا	they (would have) said	laqālū
+9	41:44:6	w	لَوۡلَا	ﲩ	لولا	Why not	lawlā
+9	41:44:7	w	فُصِّلَتۡ	ﲪ	فصلت	are explained in detail	fuṣṣilat
+9	41:44:8	w	ءَايَٰتُهُۥٓۖ	ﲫﲬ	اياته	its verses	āyātuhu
+10	41:44:9	w	ءَا۬عۡجَمِيّٞ	ﲭ	ااعجمي	(Is it) a foreign (language)	āʿ'jamiyyun
+10	41:44:10	w	وَعَرَبِيّٞۗ	ﲮﲯ	وعربي	and an Arab	waʿarabiyyun
+10	41:44:11	w	قُلۡ	ﲰ	قل	Say	qul
+10	41:44:12	w	هُوَ	ﲱ	هو	It (is)	huwa
+10	41:44:13	w	لِلَّذِينَ	ﲲ	للذين	for those who	lilladhīna
+10	41:44:14	w	ءَامَنُواْ	ﲳ	امنوا	believe	āmanū
+10	41:44:15	w	هُدٗى	ﲴ	هدى	a guidance	hudan
+10	41:44:16	w	وَشِفَآءٞۚ	ﲵﲶ	وشفاء	and a healing	washifāon
+10	41:44:17	w	وَٱلَّذِينَ	ﲷ	والذين	And those who	wa-alladhīna
+11	41:44:18	w	لَا	ﲸ	لا	(do) not	lā
+11	41:44:19	w	يُؤۡمِنُونَ	ﲹ	يومنون	believe	yu'minūna
+11	41:44:20	w	فِيٓ	ﲺ	في	in	fī
+11	41:44:21	w	ءَاذَانِهِمۡ	ﲻ	اذانهم	their ears	ādhānihim
+11	41:44:22	w	وَقۡرٞ	ﲼ	وقر	(is) deafness	waqrun
+11	41:44:23	w	وَهُوَ	ﲽ	وهو	and it	wahuwa
+11	41:44:24	w	عَلَيۡهِمۡ	ﲾ	عليهم	(is) for them	ʿalayhim
+11	41:44:25	w	عَمًىۚ	ﲿﳀ	عمى	blindness	ʿaman
+11	41:44:26	w	أُوْلَٰٓئِكَ	ﳁ	اولايك	Those	ulāika
+12	41:44:27	w	يُنَادَوۡنَ	ﳂ	ينادون	are being called	yunādawna
+12	41:44:28	w	مِن	ﳃ	من	from	min
+12	41:44:29	w	مَّكَانِۭ	ﳄ	مكان	a place	makānin
+12	41:44:30	w	بَعِيدٖ	ﳅ	بعيد	far	baʿīdin
+12	41:44:31	e	٤٤	ﳆ			
+12	41:45:1	w	وَلَقَدۡ	ﳇ	ولقد	And certainly	walaqad
+12	41:45:2	w	ءَاتَيۡنَا	ﳈ	اتينا	We gave	ātaynā
+12	41:45:3	w	مُوسَى	ﳉ	موسى	Musa	mūsā
+12	41:45:4	w	ٱلۡكِتَٰبَ	ﳊ	الكتاب	the Book	l-kitāba
+13	41:45:5	w	فَٱخۡتُلِفَ	ﳋ	فاختلف	but disputes arose	fa-ukh'tulifa
+13	41:45:6	w	فِيهِۚ	ﳌﳍ	فيه	therein	fīhi
+13	41:45:7	w	وَلَوۡلَا	ﳎ	ولولا	And had it not been	walawlā
+13	41:45:8	w	كَلِمَةٞ	ﳏ	كلمة	(for) a word	kalimatun
+13	41:45:9	w	سَبَقَتۡ	ﳐ	سبقت	(that) preceded	sabaqat
+13	41:45:10	w	مِن	ﳑ	من	from	min
+13	41:45:11	w	رَّبِّكَ	ﳒ	ربك	your Lord	rabbika
+13	41:45:12	w	لَقُضِيَ	ﳓ	لقضي	surely, would have been settled	laquḍiya
+14	41:45:13	w	بَيۡنَهُمۡۚ	ﳔﳕ	بينهم	between them	baynahum
+14	41:45:14	w	وَإِنَّهُمۡ	ﳖ	وانهم	But indeed, they	wa-innahum
+14	41:45:15	w	لَفِي	ﳗ	لفي	surely (are) in	lafī
+14	41:45:16	w	شَكّٖ	ﳘ	شك	doubt	shakkin
+14	41:45:17	w	مِّنۡهُ	ﳙ	منه	about it	min'hu
+14	41:45:18	w	مُرِيبٖ	ﳚ	مريب	disquieting	murībin
+14	41:45:19	e	٤٥	ﳛ			
+14	41:46:1	w	مَّنۡ	ﳜ	من	Whoever	man
+14	41:46:2	w	عَمِلَ	ﳝ	عمل	does	ʿamila
+14	41:46:3	w	صَٰلِحٗا	ﳞ	صالحا	righteous deeds	ṣāliḥan
+15	41:46:4	w	فَلِنَفۡسِهِۦۖ	ﳟﳠ	فلنفسه	then it is for his soul	falinafsihi
+15	41:46:5	w	وَمَنۡ	ﳡ	ومن	and whoever	waman
+15	41:46:6	w	أَسَآءَ	ﳢ	اساء	does evil	asāa
+15	41:46:7	w	فَعَلَيۡهَاۗ	ﳣﳤ	فعليها	then it is against it	faʿalayhā
+15	41:46:8	w	وَمَا	ﳥ	وما	And not	wamā
+15	41:46:9	w	رَبُّكَ	ﳦ	ربك	(is) your Lord	rabbuka
+15	41:46:10	w	بِظَلَّٰمٖ	ﳧ	بظلام	unjust	biẓallāmin
+15	41:46:11	w	لِّلۡعَبِيدِ	ﳨ	للعبيد	to His slaves	lil'ʿabīdi
+15	41:46:12	e	٤٦	ﳩ			

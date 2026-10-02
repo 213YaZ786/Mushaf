@@ -1,0 +1,135 @@
+1	5:65:1	w	وَلَوۡ	ﱁ	ولو	And if	walaw
+1	5:65:2	w	أَنَّ	ﱂ	ان	that	anna
+1	5:65:3	w	أَهۡلَ	ﱃ	اهل	(the) People	ahla
+1	5:65:4	w	ٱلۡكِتَٰبِ	ﱄ	الكتاب	(of) the Book	l-kitābi
+1	5:65:5	w	ءَامَنُواْ	ﱅ	امنوا	(had) believed	āmanū
+1	5:65:6	w	وَٱتَّقَوۡاْ	ﱆ	واتقوا	and feared (Allah)	wa-ittaqaw
+1	5:65:7	w	لَكَفَّرۡنَا	ﱇ	لكفرنا	surely We (would have) removed	lakaffarnā
+1	5:65:8	w	عَنۡهُمۡ	ﱈ	عنهم	from them	ʿanhum
+2	5:65:9	w	سَيِّـَٔاتِهِمۡ	ﱉ	سيياتهم	their evil (deeds)	sayyiātihim
+2	5:65:10	w	وَلَأَدۡخَلۡنَٰهُمۡ	ﱊ	ولادخلناهم	and surely We (would have) admitted them	wala-adkhalnāhum
+2	5:65:11	w	جَنَّٰتِ	ﱋ	جنات	(to) Gardens	jannāti
+2	5:65:12	w	ٱلنَّعِيمِ	ﱌ	النعيم	(of) Bliss	l-naʿīmi
+2	5:65:13	e	٦٥	ﱍ			
+2	5:66:1	w	وَلَوۡ	ﱎ	ولو	And if	walaw
+2	5:66:2	w	أَنَّهُمۡ	ﱏ	انهم	that they	annahum
+2	5:66:3	w	أَقَامُواْ	ﱐ	اقاموا	had stood firmly	aqāmū
+3	5:66:4	w	ٱلتَّوۡرَىٰةَ	ﱑ	التوراة	(by) the Taurat	l-tawrāta
+3	5:66:5	w	وَٱلۡإِنجِيلَ	ﱒ	والانجيل	and the Injeel	wal-injīla
+3	5:66:6	w	وَمَآ	ﱓ	وما	and what	wamā
+3	5:66:7	w	أُنزِلَ	ﱔ	انزل	was revealed	unzila
+3	5:66:8	w	إِلَيۡهِم	ﱕ	اليهم	to them	ilayhim
+3	5:66:9	w	مِّن	ﱖ	من	from	min
+3	5:66:10	w	رَّبِّهِمۡ	ﱗ	ربهم	their Lord	rabbihim
+3	5:66:11	w	لَأَكَلُواْ	ﱘ	لاكلوا	surely they (would have) eaten	la-akalū
+4	5:66:12	w	مِن	ﱙ	من	from	min
+4	5:66:13	w	فَوۡقِهِمۡ	ﱚ	فوقهم	above them	fawqihim
+4	5:66:14	w	وَمِن	ﱛ	ومن	and from	wamin
+4	5:66:15	w	تَحۡتِ	ﱜ	تحت	beneath	taḥti
+4	5:66:16	w	أَرۡجُلِهِمۚ	ﱝﱞ	ارجلهم	their feet	arjulihim
+4	5:66:17	w	مِّنۡهُمۡ	ﱟ	منهم	Among them	min'hum
+4	5:66:18	w	أُمَّةٞ	ﱠ	امة	(is) a community	ummatun
+4	5:66:19	w	مُّقۡتَصِدَةٞۖ	ﱡﱢ	مقتصدة	moderate	muq'taṣidatun
+5	5:66:20	w	وَكَثِيرٞ	ﱣ	وكثير	but many	wakathīrun
+5	5:66:21	w	مِّنۡهُمۡ	ﱤ	منهم	of them	min'hum
+5	5:66:22	w	سَآءَ	ﱥ	ساء	evil	sāa
+5	5:66:23	w	مَا	ﱦ	ما	(is) what	mā
+5	5:66:24	w	يَعۡمَلُونَ	ﱧ	يعملون	they do	yaʿmalūna
+5	5:66:25	e	٦٦	ﱨ			
+5	5:67:1	w	۞ يَٰٓأَيُّهَا	ﱩ ﱪ	۞ يا ايها	O	yāayyuhā
+5	5:67:2	w	ٱلرَّسُولُ	ﱫ	الرسول	Messenger	l-rasūlu
+6	5:67:3	w	بَلِّغۡ	ﱬ	بلغ	Convey	balligh
+6	5:67:4	w	مَآ	ﱭ	ما	what	mā
+6	5:67:5	w	أُنزِلَ	ﱮ	انزل	has been revealed	unzila
+6	5:67:6	w	إِلَيۡكَ	ﱯ	اليك	to you	ilayka
+6	5:67:7	w	مِن	ﱰ	من	from	min
+6	5:67:8	w	رَّبِّكَۖ	ﱱﱲ	ربك	your Lord	rabbika
+6	5:67:9	w	وَإِن	ﱳ	وان	and if	wa-in
+6	5:67:10	w	لَّمۡ	ﱴ	لم	not	lam
+6	5:67:11	w	تَفۡعَلۡ	ﱵ	تفعل	you do	tafʿal
+6	5:67:12	w	فَمَا	ﱶ	فما	then not	famā
+6	5:67:13	w	بَلَّغۡتَ	ﱷ	بلغت	you (have) conveyed	ballaghta
+7	5:67:14	w	رِسَالَتَهُۥۚ	ﱸﱹ	رسالته	His Message	risālatahu
+7	5:67:15	w	وَٱللَّهُ	ﱺ	والله	And Allah	wal-lahu
+7	5:67:16	w	يَعۡصِمُكَ	ﱻ	يعصمك	will protect you	yaʿṣimuka
+7	5:67:17	w	مِنَ	ﱼ	من	from	mina
+7	5:67:18	w	ٱلنَّاسِۗ	ﱽﱾ	الناس	the people	l-nāsi
+7	5:67:19	w	إِنَّ	ﱿ	ان	Indeed	inna
+7	5:67:20	w	ٱللَّهَ	ﲀ	الله	Allah	l-laha
+7	5:67:21	w	لَا	ﲁ	لا	(does) not	lā
+7	5:67:22	w	يَهۡدِي	ﲂ	يهدي	guide	yahdī
+7	5:67:23	w	ٱلۡقَوۡمَ	ﲃ	القوم	the people	l-qawma
+8	5:67:24	w	ٱلۡكَٰفِرِينَ	ﲄ	الكافرين	the disbelieving	l-kāfirīna
+8	5:67:25	e	٦٧	ﲅ			
+8	5:68:1	w	قُلۡ	ﲆ	قل	Say	qul
+8	5:68:2	w	يَٰٓأَهۡلَ	ﲇ	يا اهل	O People	yāahla
+8	5:68:3	w	ٱلۡكِتَٰبِ	ﲈ	الكتاب	(of) the Book	l-kitābi
+8	5:68:4	w	لَسۡتُمۡ	ﲉ	لستم	You are not	lastum
+8	5:68:5	w	عَلَىٰ	ﲊ	على	on	ʿalā
+8	5:68:6	w	شَيۡءٍ	ﲋ	شيء	anything	shayin
+8	5:68:7	w	حَتَّىٰ	ﲌ	حتى	until	ḥattā
+9	5:68:8	w	تُقِيمُواْ	ﲍ	تقيموا	you stand firmly	tuqīmū
+9	5:68:9	w	ٱلتَّوۡرَىٰةَ	ﲎ	التوراة	(by) the Taurat	l-tawrāta
+9	5:68:10	w	وَٱلۡإِنجِيلَ	ﲏ	والانجيل	and the Injeel	wal-injīla
+9	5:68:11	w	وَمَآ	ﲐ	وما	and what	wamā
+9	5:68:12	w	أُنزِلَ	ﲑ	انزل	has been revealed	unzila
+9	5:68:13	w	إِلَيۡكُم	ﲒ	اليكم	to you	ilaykum
+9	5:68:14	w	مِّن	ﲓ	من	from	min
+9	5:68:15	w	رَّبِّكُمۡۗ	ﲔﲕ	ربكم	your Lord	rabbikum
+10	5:68:16	w	وَلَيَزِيدَنَّ	ﲖ	وليزيدن	And surely increase	walayazīdanna
+10	5:68:17	w	كَثِيرٗا	ﲗ	كثيرا	many	kathīran
+10	5:68:18	w	مِّنۡهُم	ﲘ	منهم	of them	min'hum
+10	5:68:19	w	مَّآ	ﲙ	ما	what	mā
+10	5:68:20	w	أُنزِلَ	ﲚ	انزل	has been revealed	unzila
+10	5:68:21	w	إِلَيۡكَ	ﲛ	اليك	to you	ilayka
+10	5:68:22	w	مِن	ﲜ	من	from	min
+10	5:68:23	w	رَّبِّكَ	ﲝ	ربك	your Lord	rabbika
+10	5:68:24	w	طُغۡيَٰنٗا	ﲞ	طغيانا	(in) rebellion	ṭugh'yānan
+10	5:68:25	w	وَكُفۡرٗاۖ	ﲟﲠ	وكفرا	and disbelief	wakuf'ran
+11	5:68:26	w	فَلَا	ﲡ	فلا	So (do) not	falā
+11	5:68:27	w	تَأۡسَ	ﲢ	تاس	grieve	tasa
+11	5:68:28	w	عَلَى	ﲣ	على	over	ʿalā
+11	5:68:29	w	ٱلۡقَوۡمِ	ﲤ	القوم	the people	l-qawmi
+11	5:68:30	w	ٱلۡكَٰفِرِينَ	ﲥ	الكافرين	the disbelieving	l-kāfirīna
+11	5:68:31	e	٦٨	ﲦ			
+11	5:69:1	w	إِنَّ	ﲧ	ان	Indeed	inna
+11	5:69:2	w	ٱلَّذِينَ	ﲨ	الذين	those who	alladhīna
+11	5:69:3	w	ءَامَنُواْ	ﲩ	امنوا	believed	āmanū
+11	5:69:4	w	وَٱلَّذِينَ	ﲪ	والذين	and those who	wa-alladhīna
+12	5:69:5	w	هَادُواْ	ﲫ	هادوا	became Jews	hādū
+12	5:69:6	w	وَٱلصَّٰبِـُٔونَ	ﲬ	والصابيون	and the Sabians	wal-ṣābiūna
+12	5:69:7	w	وَٱلنَّصَٰرَىٰ	ﲭ	والنصارى	and the Christians	wal-naṣārā
+12	5:69:8	w	مَنۡ	ﲮ	من	whoever	man
+12	5:69:9	w	ءَامَنَ	ﲯ	امن	believed	āmana
+12	5:69:10	w	بِٱللَّهِ	ﲰ	بالله	in Allah	bil-lahi
+12	5:69:11	w	وَٱلۡيَوۡمِ	ﲱ	واليوم	and the Day	wal-yawmi
+12	5:69:12	w	ٱلۡأٓخِرِ	ﲲ	الاخر	the Last	l-ākhiri
+13	5:69:13	w	وَعَمِلَ	ﲳ	وعمل	and did	waʿamila
+13	5:69:14	w	صَٰلِحٗا	ﲴ	صالحا	good deeds	ṣāliḥan
+13	5:69:15	w	فَلَا	ﲵ	فلا	then no	falā
+13	5:69:16	w	خَوۡفٌ	ﲶ	خوف	fear	khawfun
+13	5:69:17	w	عَلَيۡهِمۡ	ﲷ	عليهم	on them	ʿalayhim
+13	5:69:18	w	وَلَا	ﲸ	ولا	and not	walā
+13	5:69:19	w	هُمۡ	ﲹ	هم	they	hum
+13	5:69:20	w	يَحۡزَنُونَ	ﲺ	يحزنون	will grieve	yaḥzanūna
+13	5:69:21	e	٦٩	ﲻ			
+13	5:70:1	w	لَقَدۡ	ﲼ	لقد	Certainly	laqad
+13	5:70:2	w	أَخَذۡنَا	ﲽ	اخذنا	We took	akhadhnā
+14	5:70:3	w	مِيثَٰقَ	ﲾ	ميثاق	a Covenant	mīthāqa
+14	5:70:4	w	بَنِيٓ	ﲿ	بني	(from the) Children	banī
+14	5:70:5	w	إِسۡرَٰٓءِيلَ	ﳀ	اسراييل	(of) Israel	is'rāīla
+14	5:70:6	w	وَأَرۡسَلۡنَآ	ﳁ	وارسلنا	and We sent	wa-arsalnā
+14	5:70:7	w	إِلَيۡهِمۡ	ﳂ	اليهم	to them	ilayhim
+14	5:70:8	w	رُسُلٗاۖ	ﳃﳄ	رسلا	Messengers	rusulan
+14	5:70:9	w	كُلَّمَا	ﳅ	كلما	Whenever	kullamā
+14	5:70:10	w	جَآءَهُمۡ	ﳆ	جاءهم	came to them	jāahum
+14	5:70:11	w	رَسُولُۢ	ﳇ	رسول	any Messenger	rasūlun
+15	5:70:12	w	بِمَا	ﳈ	بما	with what	bimā
+15	5:70:13	w	لَا	ﳉ	لا	not	lā
+15	5:70:14	w	تَهۡوَىٰٓ	ﳊ	تهوى	desired	tahwā
+15	5:70:15	w	أَنفُسُهُمۡ	ﳋ	انفسهم	their souls	anfusuhum
+15	5:70:16	w	فَرِيقٗا	ﳌ	فريقا	a group	farīqan
+15	5:70:17	w	كَذَّبُواْ	ﳍ	كذبوا	they denied	kadhabū
+15	5:70:18	w	وَفَرِيقٗا	ﳎ	وفريقا	and a group	wafarīqan
+15	5:70:19	w	يَقۡتُلُونَ	ﳏ	يقتلون	they kill	yaqtulūna
+15	5:70:20	e	٧٠	ﳐ			

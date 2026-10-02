@@ -1,0 +1,151 @@
+1	4:52:1	w	أُوْلَٰٓئِكَ	ﱁ	اولايك	Those	ulāika
+1	4:52:2	w	ٱلَّذِينَ	ﱂ	الذين	(are) the ones	alladhīna
+1	4:52:3	w	لَعَنَهُمُ	ﱃ	لعنهم	(who have been) cursed	laʿanahumu
+1	4:52:4	w	ٱللَّهُۖ	ﱄﱅ	الله	(by) Allah	l-lahu
+1	4:52:5	w	وَمَن	ﱆ	ومن	and whoever	waman
+1	4:52:6	w	يَلۡعَنِ	ﱇ	يلعن	(is) cursed	yalʿani
+1	4:52:7	w	ٱللَّهُ	ﱈ	الله	(by) Allah	l-lahu
+1	4:52:8	w	فَلَن	ﱉ	فلن	then never	falan
+1	4:52:9	w	تَجِدَ	ﱊ	تجد	will you find	tajida
+1	4:52:10	w	لَهُۥ	ﱋ	له	for him	lahu
+1	4:52:11	w	نَصِيرًا	ﱌ	نصيرا	(any) helper	naṣīran
+1	4:52:12	e	٥٢	ﱍ			
+2	4:53:1	w	أَمۡ	ﱎ	ام	Or	am
+2	4:53:2	w	لَهُمۡ	ﱏ	لهم	for them	lahum
+2	4:53:3	w	نَصِيبٞ	ﱐ	نصيب	(is) a share	naṣībun
+2	4:53:4	w	مِّنَ	ﱑ	من	of	mina
+2	4:53:5	w	ٱلۡمُلۡكِ	ﱒ	الملك	the Kingdom	l-mul'ki
+2	4:53:6	w	فَإِذٗا	ﱓ	فاذا	Then	fa-idhan
+2	4:53:7	w	لَّا	ﱔ	لا	not would	lā
+2	4:53:8	w	يُؤۡتُونَ	ﱕ	يوتون	they give	yu'tūna
+2	4:53:9	w	ٱلنَّاسَ	ﱖ	الناس	the people	l-nāsa
+2	4:53:10	w	نَقِيرًا	ﱗ	نقيرا	(even as much as the) speck on a date seed	naqīran
+2	4:53:11	e	٥٣	ﱘ			
+2	4:54:1	w	أَمۡ	ﱙ	ام	Or	am
+3	4:54:2	w	يَحۡسُدُونَ	ﱚ	يحسدون	are they jealous	yaḥsudūna
+3	4:54:3	w	ٱلنَّاسَ	ﱛ	الناس	(of) the people	l-nāsa
+3	4:54:4	w	عَلَىٰ	ﱜ	على	for	ʿalā
+3	4:54:5	w	مَآ	ﱝ	ما	what	mā
+3	4:54:6	w	ءَاتَىٰهُمُ	ﱞ	اتاهم	gave them	ātāhumu
+3	4:54:7	w	ٱللَّهُ	ﱟ	الله	Allah	l-lahu
+3	4:54:8	w	مِن	ﱠ	من	from	min
+3	4:54:9	w	فَضۡلِهِۦۖ	ﱡﱢ	فضله	His Bounty	faḍlihi
+3	4:54:10	w	فَقَدۡ	ﱣ	فقد	But surely	faqad
+3	4:54:11	w	ءَاتَيۡنَآ	ﱤ	اتينا	We gave	ātaynā
+4	4:54:12	w	ءَالَ	ﱥ	ال	(the) family	āla
+4	4:54:13	w	إِبۡرَٰهِيمَ	ﱦ	ابراهيم	(of) Ibrahim	ib'rāhīma
+4	4:54:14	w	ٱلۡكِتَٰبَ	ﱧ	الكتاب	the Book	l-kitāba
+4	4:54:15	w	وَٱلۡحِكۡمَةَ	ﱨ	والحكمة	and [the] wisdom	wal-ḥik'mata
+4	4:54:16	w	وَءَاتَيۡنَٰهُم	ﱩ	واتيناهم	and [We] gave them	waātaynāhum
+4	4:54:17	w	مُّلۡكًا	ﱪ	ملكا	a kingdom	mul'kan
+4	4:54:18	w	عَظِيمٗا	ﱫ	عظيما	great	ʿaẓīman
+4	4:54:19	e	٥٤	ﱬ			
+5	4:55:1	w	فَمِنۡهُم	ﱭ	فمنهم	Then of them	famin'hum
+5	4:55:2	w	مَّنۡ	ﱮ	من	(are some) who	man
+5	4:55:3	w	ءَامَنَ	ﱯ	امن	believed	āmana
+5	4:55:4	w	بِهِۦ	ﱰ	به	in him	bihi
+5	4:55:5	w	وَمِنۡهُم	ﱱ	ومنهم	and of them	wamin'hum
+5	4:55:6	w	مَّن	ﱲ	من	(are some) who	man
+5	4:55:7	w	صَدَّ	ﱳ	صد	turned away	ṣadda
+5	4:55:8	w	عَنۡهُۚ	ﱴﱵ	عنه	from him	ʿanhu
+5	4:55:9	w	وَكَفَىٰ	ﱶ	وكفى	and sufficient	wakafā
+5	4:55:10	w	بِجَهَنَّمَ	ﱷ	بجهنم	(is) Hell	bijahannama
+5	4:55:11	w	سَعِيرًا	ﱸ	سعيرا	(as a) Blazing Fire	saʿīran
+5	4:55:12	e	٥٥	ﱹ			
+6	4:56:1	w	إِنَّ	ﱺ	ان	Indeed	inna
+6	4:56:2	w	ٱلَّذِينَ	ﱻ	الذين	those who	alladhīna
+6	4:56:3	w	كَفَرُواْ	ﱼ	كفروا	disbelieved	kafarū
+6	4:56:4	w	بِـَٔايَٰتِنَا	ﱽ	باياتنا	in Our Signs	biāyātinā
+6	4:56:5	w	سَوۡفَ	ﱾ	سوف	soon	sawfa
+6	4:56:6	w	نُصۡلِيهِمۡ	ﱿ	نصليهم	We will burn them	nuṣ'līhim
+6	4:56:7	w	نَارٗا	ﲀ	نارا	(in) a Fire	nāran
+6	4:56:8	w	كُلَّمَا	ﲁ	كلما	Every time	kullamā
+6	4:56:9	w	نَضِجَتۡ	ﲂ	نضجت	are roasted	naḍijat
+7	4:56:10	w	جُلُودُهُم	ﲃ	جلودهم	their skins	julūduhum
+7	4:56:11	w	بَدَّلۡنَٰهُمۡ	ﲄ	بدلناهم	We will change their	baddalnāhum
+7	4:56:12	w	جُلُودًا	ﲅ	جلودا	skins	julūdan
+7	4:56:13	w	غَيۡرَهَا	ﲆ	غيرها	for other (than) that	ghayrahā
+7	4:56:14	w	لِيَذُوقُواْ	ﲇ	ليذوقوا	so that they may taste	liyadhūqū
+7	4:56:15	w	ٱلۡعَذَابَۗ	ﲈﲉ	العذاب	the punishment	l-ʿadhāba
+7	4:56:16	w	إِنَّ	ﲊ	ان	Indeed	inna
+7	4:56:17	w	ٱللَّهَ	ﲋ	الله	Allah	l-laha
+7	4:56:18	w	كَانَ	ﲌ	كان	is	kāna
+8	4:56:19	w	عَزِيزًا	ﲍ	عزيزا	All-Mighty	ʿazīzan
+8	4:56:20	w	حَكِيمٗا	ﲎ	حكيما	All-Wise	ḥakīman
+8	4:56:21	e	٥٦	ﲏ			
+8	4:57:1	w	وَٱلَّذِينَ	ﲐ	والذين	And those who	wa-alladhīna
+8	4:57:2	w	ءَامَنُواْ	ﲑ	امنوا	believe[d]	āmanū
+8	4:57:3	w	وَعَمِلُواْ	ﲒ	وعملوا	and did	waʿamilū
+8	4:57:4	w	ٱلصَّٰلِحَٰتِ	ﲓ	الصالحات	the good deeds	l-ṣāliḥāti
+8	4:57:5	w	سَنُدۡخِلُهُمۡ	ﲔ	سندخلهم	We will admit them	sanud'khiluhum
+9	4:57:6	w	جَنَّٰتٖ	ﲕ	جنات	(in) Gardens	jannātin
+9	4:57:7	w	تَجۡرِي	ﲖ	تجري	flows	tajrī
+9	4:57:8	w	مِن	ﲗ	من	from	min
+9	4:57:9	w	تَحۡتِهَا	ﲘ	تحتها	underneath it	taḥtihā
+9	4:57:10	w	ٱلۡأَنۡهَٰرُ	ﲙ	الانهار	the rivers	l-anhāru
+9	4:57:11	w	خَٰلِدِينَ	ﲚ	خالدين	will abide	khālidīna
+9	4:57:12	w	فِيهَآ	ﲛ	فيها	in it	fīhā
+9	4:57:13	w	أَبَدٗاۖ	ﲜﲝ	ابدا	forever	abadan
+9	4:57:14	w	لَّهُمۡ	ﲞ	لهم	For them	lahum
+9	4:57:15	w	فِيهَآ	ﲟ	فيها	in it	fīhā
+10	4:57:16	w	أَزۡوَٰجٞ	ﲠ	ازواج	(are) spouses	azwājun
+10	4:57:17	w	مُّطَهَّرَةٞۖ	ﲡﲢ	مطهرة	pure	muṭahharatun
+10	4:57:18	w	وَنُدۡخِلُهُمۡ	ﲣ	وندخلهم	and We will admit them	wanud'khiluhum
+10	4:57:19	w	ظِلّٗا	ﲤ	ظلا	(in the) shade	ẓillan
+10	4:57:20	w	ظَلِيلًا	ﲥ	ظليلا	thick	ẓalīlan
+10	4:57:21	e	٥٧	ﲦ			
+10	4:58:1	w	۞ إِنَّ	ﲧ ﲨ	۞ ان	Indeed	inna
+10	4:58:2	w	ٱللَّهَ	ﲩ	الله	Allah	l-laha
+10	4:58:3	w	يَأۡمُرُكُمۡ	ﲪ	يامركم	orders you	yamurukum
+11	4:58:4	w	أَن	ﲫ	ان	to	an
+11	4:58:5	w	تُؤَدُّواْ	ﲬ	تودوا	render	tu-addū
+11	4:58:6	w	ٱلۡأَمَٰنَٰتِ	ﲭ	الامانات	the trusts	l-amānāti
+11	4:58:7	w	إِلَىٰٓ	ﲮ	الى	to	ilā
+11	4:58:8	w	أَهۡلِهَا	ﲯ	اهلها	their owners	ahlihā
+11	4:58:9	w	وَإِذَا	ﲰ	واذا	and when	wa-idhā
+11	4:58:10	w	حَكَمۡتُم	ﲱ	حكمتم	you judge	ḥakamtum
+11	4:58:11	w	بَيۡنَ	ﲲ	بين	between	bayna
+11	4:58:12	w	ٱلنَّاسِ	ﲳ	الناس	the people	l-nāsi
+11	4:58:13	w	أَن	ﲴ	ان	to	an
+12	4:58:14	w	تَحۡكُمُواْ	ﲵ	تحكموا	judge	taḥkumū
+12	4:58:15	w	بِٱلۡعَدۡلِۚ	ﲶﲷ	بالعدل	with justice	bil-ʿadli
+12	4:58:16	w	إِنَّ	ﲸ	ان	Indeed	inna
+12	4:58:17	w	ٱللَّهَ	ﲹ	الله	Allah	l-laha
+12	4:58:18	w	نِعِمَّا	ﲺ	نعما	excellently	niʿimmā
+12	4:58:19	w	يَعِظُكُم	ﲻ	يعظكم	advises you	yaʿiẓukum
+12	4:58:20	w	بِهِۦٓۗ	ﲼﲽ	به	with it	bihi
+12	4:58:21	w	إِنَّ	ﲾ	ان	Indeed	inna
+12	4:58:22	w	ٱللَّهَ	ﲿ	الله	Allah	l-laha
+12	4:58:23	w	كَانَ	ﳀ	كان	is	kāna
+12	4:58:24	w	سَمِيعَۢا	ﳁ	سميعا	All-Hearing	samīʿan
+13	4:58:25	w	بَصِيرٗا	ﳂ	بصيرا	All-Seeing	baṣīran
+13	4:58:26	e	٥٨	ﳃ			
+13	4:59:1	w	يَٰٓأَيُّهَا	ﳄ	يا ايها	O you	yāayyuhā
+13	4:59:2	w	ٱلَّذِينَ	ﳅ	الذين	who	alladhīna
+13	4:59:3	w	ءَامَنُوٓاْ	ﳆ	امنوا	believe[d]	āmanū
+13	4:59:4	w	أَطِيعُواْ	ﳇ	اطيعوا	Obey	aṭīʿū
+13	4:59:5	w	ٱللَّهَ	ﳈ	الله	Allah	l-laha
+13	4:59:6	w	وَأَطِيعُواْ	ﳉ	واطيعوا	and obey	wa-aṭīʿū
+13	4:59:7	w	ٱلرَّسُولَ	ﳊ	الرسول	the Messenger	l-rasūla
+13	4:59:8	w	وَأُوْلِي	ﳋ	واولي	and those	wa-ulī
+14	4:59:9	w	ٱلۡأَمۡرِ	ﳌ	الامر	(having) authority	l-amri
+14	4:59:10	w	مِنكُمۡۖ	ﳍﳎ	منكم	among you	minkum
+14	4:59:11	w	فَإِن	ﳏ	فان	Then if	fa-in
+14	4:59:12	w	تَنَٰزَعۡتُمۡ	ﳐ	تنازعتم	you disagree	tanāzaʿtum
+14	4:59:13	w	فِي	ﳑ	في	in	fī
+14	4:59:14	w	شَيۡءٖ	ﳒ	شيء	anything	shayin
+14	4:59:15	w	فَرُدُّوهُ	ﳓ	فردوه	refer it	faruddūhu
+14	4:59:16	w	إِلَى	ﳔ	الى	to	ilā
+14	4:59:17	w	ٱللَّهِ	ﳕ	الله	Allah	l-lahi
+14	4:59:18	w	وَٱلرَّسُولِ	ﳖ	والرسول	and the Messenger	wal-rasūli
+14	4:59:19	w	إِن	ﳗ	ان	if	in
+14	4:59:20	w	كُنتُمۡ	ﳘ	كنتم	you	kuntum
+15	4:59:21	w	تُؤۡمِنُونَ	ﳙ	تومنون	believe	tu'minūna
+15	4:59:22	w	بِٱللَّهِ	ﳚ	بالله	in Allah	bil-lahi
+15	4:59:23	w	وَٱلۡيَوۡمِ	ﳛ	واليوم	and the Day	wal-yawmi
+15	4:59:24	w	ٱلۡأٓخِرِۚ	ﳜﳝ	الاخر	[the] Last	l-ākhiri
+15	4:59:25	w	ذَٰلِكَ	ﳞ	ذالك	That	dhālika
+15	4:59:26	w	خَيۡرٞ	ﳟ	خير	(is) best	khayrun
+15	4:59:27	w	وَأَحۡسَنُ	ﳠ	واحسن	and more suitable	wa-aḥsanu
+15	4:59:28	w	تَأۡوِيلًا	ﳡ	تاويلا	(for final) determination	tawīlan
+15	4:59:29	e	٥٩	ﳢ			

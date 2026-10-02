@@ -1,0 +1,141 @@
+1	2:275:1	w	ٱلَّذِينَ	ﱁ	الذين	Those who	alladhīna
+1	2:275:2	w	يَأۡكُلُونَ	ﱂ	ياكلون	consume	yakulūna
+1	2:275:3	w	ٱلرِّبَوٰاْ	ﱃ	الربا	[the] usury	l-riba
+1	2:275:4	w	لَا	ﱄ	لا	not	lā
+1	2:275:5	w	يَقُومُونَ	ﱅ	يقومون	they can stand	yaqūmūna
+1	2:275:6	w	إِلَّا	ﱆ	الا	except	illā
+1	2:275:7	w	كَمَا	ﱇ	كما	like	kamā
+1	2:275:8	w	يَقُومُ	ﱈ	يقوم	stands	yaqūmu
+1	2:275:9	w	ٱلَّذِي	ﱉ	الذي	the one who	alladhī
+2	2:275:10	w	يَتَخَبَّطُهُ	ﱊ	يتخبطه	confounds him	yatakhabbaṭuhu
+2	2:275:11	w	ٱلشَّيۡطَٰنُ	ﱋ	الشيطان	the Shaitaan	l-shayṭānu
+2	2:275:12	w	مِنَ	ﱌ	من	with	mina
+2	2:275:13	w	ٱلۡمَسِّۚ	ﱍﱎ	المس	(his) touch	l-masi
+2	2:275:14	w	ذَٰلِكَ	ﱏ	ذالك	That	dhālika
+2	2:275:15	w	بِأَنَّهُمۡ	ﱐ	بانهم	(is) because they	bi-annahum
+2	2:275:16	w	قَالُوٓاْ	ﱑ	قالوا	say	qālū
+2	2:275:17	w	إِنَّمَا	ﱒ	انما	Only	innamā
+2	2:275:18	w	ٱلۡبَيۡعُ	ﱓ	البيع	the trade	l-bayʿu
+3	2:275:19	w	مِثۡلُ	ﱔ	مثل	(is) like	mith'lu
+3	2:275:20	w	ٱلرِّبَوٰاْۗ	ﱕﱖ	الربا	[the] usury	l-riba
+3	2:275:21	w	وَأَحَلَّ	ﱗ	واحل	While has permitted	wa-aḥalla
+3	2:275:22	w	ٱللَّهُ	ﱘ	الله	Allah	l-lahu
+3	2:275:23	w	ٱلۡبَيۡعَ	ﱙ	البيع	[the] trade	l-bayʿa
+3	2:275:24	w	وَحَرَّمَ	ﱚ	وحرم	but (has) forbidden	waḥarrama
+3	2:275:25	w	ٱلرِّبَوٰاْۚ	ﱛﱜ	الربا	[the] usury	l-riba
+3	2:275:26	w	فَمَن	ﱝ	فمن	Then whoever	faman
+3	2:275:27	w	جَآءَهُۥ	ﱞ	جاءه	comes to him	jāahu
+4	2:275:28	w	مَوۡعِظَةٞ	ﱟ	موعظة	(the) admonition	mawʿiẓatun
+4	2:275:29	w	مِّن	ﱠ	من	from	min
+4	2:275:30	w	رَّبِّهِۦ	ﱡ	ربه	His Lord	rabbihi
+4	2:275:31	w	فَٱنتَهَىٰ	ﱢ	فانتهى	and he refrained	fa-intahā
+4	2:275:32	w	فَلَهُۥ	ﱣ	فله	then for him	falahu
+4	2:275:33	w	مَا	ﱤ	ما	what	mā
+4	2:275:34	w	سَلَفَ	ﱥ	سلف	(has) passed	salafa
+4	2:275:35	w	وَأَمۡرُهُۥٓ	ﱦ	وامره	and his case	wa-amruhu
+4	2:275:36	w	إِلَى	ﱧ	الى	(is) with	ilā
+4	2:275:37	w	ٱللَّهِۖ	ﱨﱩ	الله	Allah	l-lahi
+4	2:275:38	w	وَمَنۡ	ﱪ	ومن	and whoever	waman
+5	2:275:39	w	عَادَ	ﱫ	عاد	repeated	ʿāda
+5	2:275:40	w	فَأُوْلَٰٓئِكَ	ﱬ	فاولايك	then those	fa-ulāika
+5	2:275:41	w	أَصۡحَٰبُ	ﱭ	اصحاب	(are the) companions	aṣḥābu
+5	2:275:42	w	ٱلنَّارِۖ	ﱮﱯ	النار	(of) the Fire	l-nāri
+5	2:275:43	w	هُمۡ	ﱰ	هم	they	hum
+5	2:275:44	w	فِيهَا	ﱱ	فيها	in it	fīhā
+5	2:275:45	w	خَٰلِدُونَ	ﱲ	خالدون	will abide forever	khālidūna
+5	2:275:46	e	٢٧٥	ﱳ			
+5	2:276:1	w	يَمۡحَقُ	ﱴ	يمحق	Destroys	yamḥaqu
+6	2:276:2	w	ٱللَّهُ	ﱵ	الله	Allah	l-lahu
+6	2:276:3	w	ٱلرِّبَوٰاْ	ﱶ	الربا	the usury	l-riba
+6	2:276:4	w	وَيُرۡبِي	ﱷ	ويربي	and (gives) increase	wayur'bī
+6	2:276:5	w	ٱلصَّدَقَٰتِۗ	ﱸﱹ	الصدقات	(for) the charities	l-ṣadaqāti
+6	2:276:6	w	وَٱللَّهُ	ﱺ	والله	And Allah	wal-lahu
+6	2:276:7	w	لَا	ﱻ	لا	(does) not	lā
+6	2:276:8	w	يُحِبُّ	ﱼ	يحب	love	yuḥibbu
+6	2:276:9	w	كُلَّ	ﱽ	كل	every	kulla
+6	2:276:10	w	كَفَّارٍ	ﱾ	كفار	ungrateful	kaffārin
+6	2:276:11	w	أَثِيمٍ	ﱿ	اثيم	sinner	athīmin
+7	2:276:12	e	٢٧٦	ﲀ			
+7	2:277:1	w	إِنَّ	ﲁ	ان	Indeed	inna
+7	2:277:2	w	ٱلَّذِينَ	ﲂ	الذين	those who	alladhīna
+7	2:277:3	w	ءَامَنُواْ	ﲃ	امنوا	believe[d]	āmanū
+7	2:277:4	w	وَعَمِلُواْ	ﲄ	وعملوا	and did	waʿamilū
+7	2:277:5	w	ٱلصَّٰلِحَٰتِ	ﲅ	الصالحات	good deeds	l-ṣāliḥāti
+7	2:277:6	w	وَأَقَامُواْ	ﲆ	واقاموا	and established	wa-aqāmū
+7	2:277:7	w	ٱلصَّلَوٰةَ	ﲇ	الصلاة	the prayer	l-ṣalata
+8	2:277:8	w	وَءَاتَوُاْ	ﲈ	واتوا	and gave	waātawū
+8	2:277:9	w	ٱلزَّكَوٰةَ	ﲉ	الزكاة	the zakah	l-zakata
+8	2:277:10	w	لَهُمۡ	ﲊ	لهم	for them	lahum
+8	2:277:11	w	أَجۡرُهُمۡ	ﲋ	اجرهم	their reward	ajruhum
+8	2:277:12	w	عِندَ	ﲌ	عند	(is) with	ʿinda
+8	2:277:13	w	رَبِّهِمۡ	ﲍ	ربهم	their Lord	rabbihim
+8	2:277:14	w	وَلَا	ﲎ	ولا	and no	walā
+8	2:277:15	w	خَوۡفٌ	ﲏ	خوف	fear	khawfun
+8	2:277:16	w	عَلَيۡهِمۡ	ﲐ	عليهم	on them	ʿalayhim
+9	2:277:17	w	وَلَا	ﲑ	ولا	and not	walā
+9	2:277:18	w	هُمۡ	ﲒ	هم	they	hum
+9	2:277:19	w	يَحۡزَنُونَ	ﲓ	يحزنون	will grieve	yaḥzanūna
+9	2:277:20	e	٢٧٧	ﲔ			
+9	2:278:1	w	يَٰٓأَيُّهَا	ﲕ	يا ايها	O you	yāayyuhā
+9	2:278:2	w	ٱلَّذِينَ	ﲖ	الذين	who	alladhīna
+9	2:278:3	w	ءَامَنُواْ	ﲗ	امنوا	believe[d]	āmanū
+9	2:278:4	w	ٱتَّقُواْ	ﲘ	اتقوا	Fear	ittaqū
+9	2:278:5	w	ٱللَّهَ	ﲙ	الله	Allah	l-laha
+10	2:278:6	w	وَذَرُواْ	ﲚ	وذروا	and give up	wadharū
+10	2:278:7	w	مَا	ﲛ	ما	what	mā
+10	2:278:8	w	بَقِيَ	ﲜ	بقي	remained	baqiya
+10	2:278:9	w	مِنَ	ﲝ	من	of	mina
+10	2:278:10	w	ٱلرِّبَوٰٓاْ	ﲞ	الربا	[the] usury	l-riba
+10	2:278:11	w	إِن	ﲟ	ان	if	in
+10	2:278:12	w	كُنتُم	ﲠ	كنتم	you are	kuntum
+10	2:278:13	w	مُّؤۡمِنِينَ	ﲡ	مومنين	believers	mu'minīna
+10	2:278:14	e	٢٧٨	ﲢ			
+10	2:279:1	w	فَإِن	ﲣ	فان	And if	fa-in
+10	2:279:2	w	لَّمۡ	ﲤ	لم	not	lam
+10	2:279:3	w	تَفۡعَلُواْ	ﲥ	تفعلوا	you do	tafʿalū
+11	2:279:4	w	فَأۡذَنُواْ	ﲦ	فاذنوا	then be informed	fadhanū
+11	2:279:5	w	بِحَرۡبٖ	ﲧ	بحرب	of a war	biḥarbin
+11	2:279:6	w	مِّنَ	ﲨ	من	from	mina
+11	2:279:7	w	ٱللَّهِ	ﲩ	الله	Allah	l-lahi
+11	2:279:8	w	وَرَسُولِهِۦۖ	ﲪﲫ	ورسوله	and His Messenger	warasūlihi
+11	2:279:9	w	وَإِن	ﲬ	وان	And if	wa-in
+11	2:279:10	w	تُبۡتُمۡ	ﲭ	تبتم	you repent	tub'tum
+11	2:279:11	w	فَلَكُمۡ	ﲮ	فلكم	then for you	falakum
+11	2:279:12	w	رُءُوسُ	ﲯ	رءوس	(is)	ruūsu
+12	2:279:13	w	أَمۡوَٰلِكُمۡ	ﲰ	اموالكم	your capital	amwālikum
+12	2:279:14	w	لَا	ﲱ	لا	(do) not	lā
+12	2:279:15	w	تَظۡلِمُونَ	ﲲ	تظلمون	wrong	taẓlimūna
+12	2:279:16	w	وَلَا	ﲳ	ولا	and not	walā
+12	2:279:17	w	تُظۡلَمُونَ	ﲴ	تظلمون	you will be wronged	tuẓ'lamūna
+12	2:279:18	e	٢٧٩	ﲵ			
+12	2:280:1	w	وَإِن	ﲶ	وان	And if	wa-in
+12	2:280:2	w	كَانَ	ﲷ	كان	is	kāna
+13	2:280:3	w	ذُو	ﲸ	ذو	the (debtor)	dhū
+13	2:280:4	w	عُسۡرَةٖ	ﲹ	عسرة	in difficulty	ʿus'ratin
+13	2:280:5	w	فَنَظِرَةٌ	ﲺ	فنظرة	then postponement	fanaẓiratun
+13	2:280:6	w	إِلَىٰ	ﲻ	الى	until	ilā
+13	2:280:7	w	مَيۡسَرَةٖۚ	ﲼﲽ	ميسرة	ease	maysaratin
+13	2:280:8	w	وَأَن	ﲾ	وان	And if	wa-an
+13	2:280:9	w	تَصَدَّقُواْ	ﲿ	تصدقوا	you remit as charity	taṣaddaqū
+13	2:280:10	w	خَيۡرٞ	ﳀ	خير	(it is) better	khayrun
+13	2:280:11	w	لَّكُمۡ	ﳁ	لكم	for you	lakum
+14	2:280:12	w	إِن	ﳂ	ان	If	in
+14	2:280:13	w	كُنتُمۡ	ﳃ	كنتم	you	kuntum
+14	2:280:14	w	تَعۡلَمُونَ	ﳄ	تعلمون	know	taʿlamūna
+14	2:280:15	e	٢٨٠	ﳅ			
+14	2:281:1	w	وَٱتَّقُواْ	ﳆ	واتقوا	And fear	wa-ittaqū
+14	2:281:2	w	يَوۡمٗا	ﳇ	يوما	a Day	yawman
+14	2:281:3	w	تُرۡجَعُونَ	ﳈ	ترجعون	you will be brought back	tur'jaʿūna
+14	2:281:4	w	فِيهِ	ﳉ	فيه	[in it]	fīhi
+14	2:281:5	w	إِلَى	ﳊ	الى	to	ilā
+15	2:281:6	w	ٱللَّهِۖ	ﳋﳌ	الله	Allah	l-lahi
+15	2:281:7	w	ثُمَّ	ﳍ	ثم	Then	thumma
+15	2:281:8	w	تُوَفَّىٰ	ﳎ	توفى	(will be) repaid in full	tuwaffā
+15	2:281:9	w	كُلُّ	ﳏ	كل	every	kullu
+15	2:281:10	w	نَفۡسٖ	ﳐ	نفس	soul	nafsin
+15	2:281:11	w	مَّا	ﳑ	ما	what	mā
+15	2:281:12	w	كَسَبَتۡ	ﳒ	كسبت	it earned	kasabat
+15	2:281:13	w	وَهُمۡ	ﳓ	وهم	and they	wahum
+15	2:281:14	w	لَا	ﳔ	لا	not	lā
+15	2:281:15	w	يُظۡلَمُونَ	ﳕ	يظلمون	will be wronged	yuẓ'lamūna
+15	2:281:16	e	٢٨١	ﳖ			

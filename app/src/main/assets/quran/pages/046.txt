@@ -1,0 +1,115 @@
+1	2:270:1	w	وَمَآ	ﱁ	وما	And whatever	wamā
+1	2:270:2	w	أَنفَقۡتُم	ﱂ	انفقتم	you spend	anfaqtum
+1	2:270:3	w	مِّن	ﱃ	من	(out) of	min
+1	2:270:4	w	نَّفَقَةٍ	ﱄ	نفقة	(your) expenditures	nafaqatin
+1	2:270:5	w	أَوۡ	ﱅ	او	or	aw
+1	2:270:6	w	نَذَرۡتُم	ﱆ	نذرتم	you vow	nadhartum
+1	2:270:7	w	مِّن	ﱇ	من	of	min
+1	2:270:8	w	نَّذۡرٖ	ﱈ	نذر	vow(s)	nadhrin
+1	2:270:9	w	فَإِنَّ	ﱉ	فان	then indeed	fa-inna
+1	2:270:10	w	ٱللَّهَ	ﱊ	الله	Allah	l-laha
+2	2:270:11	w	يَعۡلَمُهُۥۗ	ﱋﱌ	يعلمه	knows it	yaʿlamuhu
+2	2:270:12	w	وَمَا	ﱍ	وما	and not	wamā
+2	2:270:13	w	لِلظَّٰلِمِينَ	ﱎ	للظالمين	for the wrongdoers	lilẓẓālimīna
+2	2:270:14	w	مِنۡ	ﱏ	من	any	min
+2	2:270:15	w	أَنصَارٍ	ﱐ	انصار	helpers	anṣārin
+2	2:270:16	e	٢٧٠	ﱑ			
+2	2:271:1	w	إِن	ﱒ	ان	If	in
+2	2:271:2	w	تُبۡدُواْ	ﱓ	تبدوا	you disclose	tub'dū
+3	2:271:3	w	ٱلصَّدَقَٰتِ	ﱔ	الصدقات	the charities	l-ṣadaqāti
+3	2:271:4	w	فَنِعِمَّا	ﱕ	فنعما	then good	faniʿimmā
+3	2:271:5	w	هِيَۖ	ﱖﱗ	هي	it (is)	hiya
+3	2:271:6	w	وَإِن	ﱘ	وان	But if	wa-in
+3	2:271:7	w	تُخۡفُوهَا	ﱙ	تخفوها	you keep it secret	tukh'fūhā
+3	2:271:8	w	وَتُؤۡتُوهَا	ﱚ	وتوتوها	and give it	watu'tūhā
+4	2:271:9	w	ٱلۡفُقَرَآءَ	ﱛ	الفقراء	(to) the poor	l-fuqarāa
+4	2:271:10	w	فَهُوَ	ﱜ	فهو	then it	fahuwa
+4	2:271:11	w	خَيۡرٞ	ﱝ	خير	(is) better	khayrun
+4	2:271:12	w	لَّكُمۡۚ	ﱞﱟ	لكم	for you	lakum
+4	2:271:13	w	وَيُكَفِّرُ	ﱠ	ويكفر	And He will remove	wayukaffiru
+4	2:271:14	w	عَنكُم	ﱡ	عنكم	from you	ʿankum
+4	2:271:15	w	مِّن	ﱢ	من	[of]	min
+5	2:271:16	w	سَيِّـَٔاتِكُمۡۗ	ﱣﱤ	سيياتكم	your evil deeds	sayyiātikum
+5	2:271:17	w	وَٱللَّهُ	ﱥ	والله	And Allah	wal-lahu
+5	2:271:18	w	بِمَا	ﱦ	بما	with what	bimā
+5	2:271:19	w	تَعۡمَلُونَ	ﱧ	تعملون	you do	taʿmalūna
+5	2:271:20	w	خَبِيرٞ	ﱨ	خبير	(is) All-Aware	khabīrun
+5	2:271:21	e	٢٧١	ﱩ			
+5	2:272:1	w	۞ لَّيۡسَ	ﱪ ﱫ	۞ ليس	Not	laysa
+6	2:272:2	w	عَلَيۡكَ	ﱬ	عليك	on you	ʿalayka
+6	2:272:3	w	هُدَىٰهُمۡ	ﱭ	هداهم	(is) their guidance	hudāhum
+6	2:272:4	w	وَلَٰكِنَّ	ﱮ	ولاكن	[and] but	walākinna
+6	2:272:5	w	ٱللَّهَ	ﱯ	الله	Allah	l-laha
+6	2:272:6	w	يَهۡدِي	ﱰ	يهدي	guides	yahdī
+6	2:272:7	w	مَن	ﱱ	من	whom	man
+6	2:272:8	w	يَشَآءُۗ	ﱲﱳ	يشاء	He wills	yashāu
+6	2:272:9	w	وَمَا	ﱴ	وما	And whatever	wamā
+7	2:272:10	w	تُنفِقُواْ	ﱵ	تنفقوا	you spend	tunfiqū
+7	2:272:11	w	مِنۡ	ﱶ	من	of	min
+7	2:272:12	w	خَيۡرٖ	ﱷ	خير	good	khayrin
+7	2:272:13	w	فَلِأَنفُسِكُمۡۚ	ﱸﱹ	فلانفسكم	then it is for yourself	fali-anfusikum
+7	2:272:14	w	وَمَا	ﱺ	وما	and not	wamā
+7	2:272:15	w	تُنفِقُونَ	ﱻ	تنفقون	you spend	tunfiqūna
+7	2:272:16	w	إِلَّا	ﱼ	الا	except	illā
+8	2:272:17	w	ٱبۡتِغَآءَ	ﱽ	ابتغاء	seeking	ib'tighāa
+8	2:272:18	w	وَجۡهِ	ﱾ	وجه	(the) face	wajhi
+8	2:272:19	w	ٱللَّهِۚ	ﱿﲀ	الله	(of) Allah	l-lahi
+8	2:272:20	w	وَمَا	ﲁ	وما	And whatever	wamā
+8	2:272:21	w	تُنفِقُواْ	ﲂ	تنفقوا	you spend	tunfiqū
+8	2:272:22	w	مِنۡ	ﲃ	من	of	min
+8	2:272:23	w	خَيۡرٖ	ﲄ	خير	good	khayrin
+8	2:272:24	w	يُوَفَّ	ﲅ	يوف	will be repaid in full	yuwaffa
+8	2:272:25	w	إِلَيۡكُمۡ	ﲆ	اليكم	to you	ilaykum
+9	2:272:26	w	وَأَنتُمۡ	ﲇ	وانتم	and you	wa-antum
+9	2:272:27	w	لَا	ﲈ	لا	(will) not	lā
+9	2:272:28	w	تُظۡلَمُونَ	ﲉ	تظلمون	be wronged	tuẓ'lamūna
+9	2:272:29	e	٢٧٢	ﲊ			
+9	2:273:1	w	لِلۡفُقَرَآءِ	ﲋ	للفقراء	For the poor	lil'fuqarāi
+9	2:273:2	w	ٱلَّذِينَ	ﲌ	الذين	those who	alladhīna
+9	2:273:3	w	أُحۡصِرُواْ	ﲍ	احصروا	are wrapped up	uḥ'ṣirū
+10	2:273:4	w	فِي	ﲎ	في	in	fī
+10	2:273:5	w	سَبِيلِ	ﲏ	سبيل	(the) way	sabīli
+10	2:273:6	w	ٱللَّهِ	ﲐ	الله	(of) Allah	l-lahi
+10	2:273:7	w	لَا	ﲑ	لا	not	lā
+10	2:273:8	w	يَسۡتَطِيعُونَ	ﲒ	يستطيعون	they are able	yastaṭīʿūna
+10	2:273:9	w	ضَرۡبٗا	ﲓ	ضربا	(to) move about	ḍarban
+10	2:273:10	w	فِي	ﲔ	في	in	fī
+10	2:273:11	w	ٱلۡأَرۡضِ	ﲕ	الارض	the earth	l-arḍi
+11	2:273:12	w	يَحۡسَبُهُمُ	ﲖ	يحسبهم	Think (about) them	yaḥsabuhumu
+11	2:273:13	w	ٱلۡجَاهِلُ	ﲗ	الجاهل	the ignorant one	l-jāhilu
+11	2:273:14	w	أَغۡنِيَآءَ	ﲘ	اغنياء	(that they are) self-sufficient	aghniyāa
+11	2:273:15	w	مِنَ	ﲙ	من	(because) of	mina
+11	2:273:16	w	ٱلتَّعَفُّفِ	ﲚ	التعفف	(their) restraint	l-taʿafufi
+11	2:273:17	w	تَعۡرِفُهُم	ﲛ	تعرفهم	you recognize them	taʿrifuhum
+12	2:273:18	w	بِسِيمَٰهُمۡ	ﲜ	بسيماهم	by their mark	bisīmāhum
+12	2:273:19	w	لَا	ﲝ	لا	Not	lā
+12	2:273:20	w	يَسۡـَٔلُونَ	ﲞ	يسالون	(do) they ask	yasalūna
+12	2:273:21	w	ٱلنَّاسَ	ﲟ	الناس	the people	l-nāsa
+12	2:273:22	w	إِلۡحَافٗاۗ	ﲠﲡ	الحافا	with importunity	il'ḥāfan
+12	2:273:23	w	وَمَا	ﲢ	وما	And whatever	wamā
+12	2:273:24	w	تُنفِقُواْ	ﲣ	تنفقوا	you spend	tunfiqū
+12	2:273:25	w	مِنۡ	ﲤ	من	of	min
+13	2:273:26	w	خَيۡرٖ	ﲥ	خير	good	khayrin
+13	2:273:27	w	فَإِنَّ	ﲦ	فان	then indeed	fa-inna
+13	2:273:28	w	ٱللَّهَ	ﲧ	الله	Allah	l-laha
+13	2:273:29	w	بِهِۦ	ﲨ	به	of it	bihi
+13	2:273:30	w	عَلِيمٌ	ﲩ	عليم	(is) All-Knower	ʿalīmun
+13	2:273:31	e	٢٧٣	ﲪ			
+13	2:274:1	w	ٱلَّذِينَ	ﲫ	الذين	Those who	alladhīna
+13	2:274:2	w	يُنفِقُونَ	ﲬ	ينفقون	spend	yunfiqūna
+13	2:274:3	w	أَمۡوَٰلَهُم	ﲭ	اموالهم	their wealth	amwālahum
+14	2:274:4	w	بِٱلَّيۡلِ	ﲮ	بالليل	by night	bi-al-layli
+14	2:274:5	w	وَٱلنَّهَارِ	ﲯ	والنهار	and day	wal-nahāri
+14	2:274:6	w	سِرّٗا	ﲰ	سرا	secretly	sirran
+14	2:274:7	w	وَعَلَانِيَةٗ	ﲱ	وعلانية	and openly	waʿalāniyatan
+14	2:274:8	w	فَلَهُمۡ	ﲲ	فلهم	then for them	falahum
+14	2:274:9	w	أَجۡرُهُمۡ	ﲳ	اجرهم	(is) their reward	ajruhum
+14	2:274:10	w	عِندَ	ﲴ	عند	with	ʿinda
+15	2:274:11	w	رَبِّهِمۡ	ﲵ	ربهم	their Lord	rabbihim
+15	2:274:12	w	وَلَا	ﲶ	ولا	and no	walā
+15	2:274:13	w	خَوۡفٌ	ﲷ	خوف	fear	khawfun
+15	2:274:14	w	عَلَيۡهِمۡ	ﲸ	عليهم	on them	ʿalayhim
+15	2:274:15	w	وَلَا	ﲹ	ولا	and not	walā
+15	2:274:16	w	هُمۡ	ﲺ	هم	they	hum
+15	2:274:17	w	يَحۡزَنُونَ	ﲻ	يحزنون	will grieve	yaḥzanūna
+15	2:274:18	e	٢٧٤	ﲼ			

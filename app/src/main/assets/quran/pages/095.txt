@@ -1,0 +1,123 @@
+1	4:102:1	w	وَإِذَا	ﱁ	واذا	And when	wa-idhā
+1	4:102:2	w	كُنتَ	ﱂ	كنت	you are	kunta
+1	4:102:3	w	فِيهِمۡ	ﱃ	فيهم	among them	fīhim
+1	4:102:4	w	فَأَقَمۡتَ	ﱄ	فاقمت	and you lead	fa-aqamta
+1	4:102:5	w	لَهُمُ	ﱅ	لهم	for them	lahumu
+1	4:102:6	w	ٱلصَّلَوٰةَ	ﱆ	الصلاة	the prayer	l-ṣalata
+1	4:102:7	w	فَلۡتَقُمۡ	ﱇ	فلتقم	then let stand	faltaqum
+1	4:102:8	w	طَآئِفَةٞ	ﱈ	طايفة	a group	ṭāifatun
+2	4:102:9	w	مِّنۡهُم	ﱉ	منهم	of them	min'hum
+2	4:102:10	w	مَّعَكَ	ﱊ	معك	with you	maʿaka
+2	4:102:11	w	وَلۡيَأۡخُذُوٓاْ	ﱋ	ولياخذوا	and let them take	walyakhudhū
+2	4:102:12	w	أَسۡلِحَتَهُمۡۖ	ﱌﱍ	اسلحتهم	their arms	asliḥatahum
+2	4:102:13	w	فَإِذَا	ﱎ	فاذا	Then when	fa-idhā
+2	4:102:14	w	سَجَدُواْ	ﱏ	سجدوا	they have prostrated	sajadū
+2	4:102:15	w	فَلۡيَكُونُواْ	ﱐ	فليكونوا	then let them be	falyakūnū
+3	4:102:16	w	مِن	ﱑ	من	from	min
+3	4:102:17	w	وَرَآئِكُمۡ	ﱒ	ورايكم	behind you	warāikum
+3	4:102:18	w	وَلۡتَأۡتِ	ﱓ	ولتات	and let come (forward)	waltati
+3	4:102:19	w	طَآئِفَةٌ	ﱔ	طايفة	a group	ṭāifatun
+3	4:102:20	w	أُخۡرَىٰ	ﱕ	اخرى	other	ukh'rā
+3	4:102:21	w	لَمۡ	ﱖ	لم	(which has) not	lam
+3	4:102:22	w	يُصَلُّواْ	ﱗ	يصلوا	prayed	yuṣallū
+3	4:102:23	w	فَلۡيُصَلُّواْ	ﱘ	فليصلوا	and let them pray	falyuṣallū
+4	4:102:24	w	مَعَكَ	ﱙ	معك	with you	maʿaka
+4	4:102:25	w	وَلۡيَأۡخُذُواْ	ﱚ	ولياخذوا	and let them take	walyakhudhū
+4	4:102:26	w	حِذۡرَهُمۡ	ﱛ	حذرهم	their precautions	ḥidh'rahum
+4	4:102:27	w	وَأَسۡلِحَتَهُمۡۗ	ﱜﱝ	واسلحتهم	and their arms	wa-asliḥatahum
+4	4:102:28	w	وَدَّ	ﱞ	ود	Wished	wadda
+4	4:102:29	w	ٱلَّذِينَ	ﱟ	الذين	those who	alladhīna
+5	4:102:30	w	كَفَرُواْ	ﱠ	كفروا	disbelieved	kafarū
+5	4:102:31	w	لَوۡ	ﱡ	لو	if	law
+5	4:102:32	w	تَغۡفُلُونَ	ﱢ	تغفلون	you neglect	taghfulūna
+5	4:102:33	w	عَنۡ	ﱣ	عن	[about]	ʿan
+5	4:102:34	w	أَسۡلِحَتِكُمۡ	ﱤ	اسلحتكم	your arms	asliḥatikum
+5	4:102:35	w	وَأَمۡتِعَتِكُمۡ	ﱥ	وامتعتكم	and your baggage	wa-amtiʿatikum
+5	4:102:36	w	فَيَمِيلُونَ	ﱦ	فيميلون	so (that) they (can) assault	fayamīlūna
+6	4:102:37	w	عَلَيۡكُم	ﱧ	عليكم	[upon] you	ʿalaykum
+6	4:102:38	w	مَّيۡلَةٗ	ﱨ	ميلة	(in) an attack	maylatan
+6	4:102:39	w	وَٰحِدَةٗۚ	ﱩﱪ	واحدة	single	wāḥidatan
+6	4:102:40	w	وَلَا	ﱫ	ولا	But (there is) no	walā
+6	4:102:41	w	جُنَاحَ	ﱬ	جناح	blame	junāḥa
+6	4:102:42	w	عَلَيۡكُمۡ	ﱭ	عليكم	upon you	ʿalaykum
+6	4:102:43	w	إِن	ﱮ	ان	if	in
+6	4:102:44	w	كَانَ	ﱯ	كان	was	kāna
+6	4:102:45	w	بِكُمۡ	ﱰ	بكم	with you	bikum
+7	4:102:46	w	أَذٗى	ﱱ	اذى	any trouble	adhan
+7	4:102:47	w	مِّن	ﱲ	من	(because) of	min
+7	4:102:48	w	مَّطَرٍ	ﱳ	مطر	rain	maṭarin
+7	4:102:49	w	أَوۡ	ﱴ	او	or	aw
+7	4:102:50	w	كُنتُم	ﱵ	كنتم	you are	kuntum
+7	4:102:51	w	مَّرۡضَىٰٓ	ﱶ	مرضى	sick	marḍā
+7	4:102:52	w	أَن	ﱷ	ان	that	an
+7	4:102:53	w	تَضَعُوٓاْ	ﱸ	تضعوا	you lay down	taḍaʿū
+7	4:102:54	w	أَسۡلِحَتَكُمۡۖ	ﱹﱺ	اسلحتكم	your arms	asliḥatakum
+8	4:102:55	w	وَخُذُواْ	ﱻ	وخذوا	but take	wakhudhū
+8	4:102:56	w	حِذۡرَكُمۡۗ	ﱼﱽ	حذركم	your precautions	ḥidh'rakum
+8	4:102:57	w	إِنَّ	ﱾ	ان	Indeed	inna
+8	4:102:58	w	ٱللَّهَ	ﱿ	الله	Allah	l-laha
+8	4:102:59	w	أَعَدَّ	ﲀ	اعد	has prepared	aʿadda
+8	4:102:60	w	لِلۡكَٰفِرِينَ	ﲁ	للكافرين	for the disbelievers	lil'kāfirīna
+8	4:102:61	w	عَذَابٗا	ﲂ	عذابا	a punishment	ʿadhāban
+8	4:102:62	w	مُّهِينٗا	ﲃ	مهينا	humiliating	muhīnan
+8	4:102:63	e	١٠٢	ﲄ			
+9	4:103:1	w	فَإِذَا	ﲅ	فاذا	Then when	fa-idhā
+9	4:103:2	w	قَضَيۡتُمُ	ﲆ	قضيتم	you (have) finished	qaḍaytumu
+9	4:103:3	w	ٱلصَّلَوٰةَ	ﲇ	الصلاة	the prayer	l-ṣalata
+9	4:103:4	w	فَٱذۡكُرُواْ	ﲈ	فاذكروا	then remember	fa-udh'kurū
+9	4:103:5	w	ٱللَّهَ	ﲉ	الله	Allah	l-laha
+9	4:103:6	w	قِيَٰمٗا	ﲊ	قياما	standing	qiyāman
+9	4:103:7	w	وَقُعُودٗا	ﲋ	وقعودا	and sitting	waquʿūdan
+9	4:103:8	w	وَعَلَىٰ	ﲌ	وعلى	and (lying) on	waʿalā
+10	4:103:9	w	جُنُوبِكُمۡۚ	ﲍﲎ	جنوبكم	your sides	junūbikum
+10	4:103:10	w	فَإِذَا	ﲏ	فاذا	But when	fa-idhā
+10	4:103:11	w	ٱطۡمَأۡنَنتُمۡ	ﲐ	اطماننتم	you are secure	iṭ'manantum
+10	4:103:12	w	فَأَقِيمُواْ	ﲑ	فاقيموا	then establish	fa-aqīmū
+10	4:103:13	w	ٱلصَّلَوٰةَۚ	ﲒﲓ	الصلاة	the (regular) prayer	l-ṣalata
+10	4:103:14	w	إِنَّ	ﲔ	ان	Indeed	inna
+10	4:103:15	w	ٱلصَّلَوٰةَ	ﲕ	الصلاة	the prayer	l-ṣalata
+11	4:103:16	w	كَانَتۡ	ﲖ	كانت	is	kānat
+11	4:103:17	w	عَلَى	ﲗ	على	on	ʿalā
+11	4:103:18	w	ٱلۡمُؤۡمِنِينَ	ﲘ	المومنين	the believers	l-mu'minīna
+11	4:103:19	w	كِتَٰبٗا	ﲙ	كتابا	prescribed	kitāban
+11	4:103:20	w	مَّوۡقُوتٗا	ﲚ	موقوتا	(at) fixed times	mawqūtan
+11	4:103:21	e	١٠٣	ﲛ			
+11	4:104:1	w	وَلَا	ﲜ	ولا	And (do) not	walā
+11	4:104:2	w	تَهِنُواْ	ﲝ	تهنوا	be weak	tahinū
+11	4:104:3	w	فِي	ﲞ	في	in	fī
+12	4:104:4	w	ٱبۡتِغَآءِ	ﲟ	ابتغاء	pursuit	ib'tighāi
+12	4:104:5	w	ٱلۡقَوۡمِۖ	ﲠﲡ	القوم	(of) the people	l-qawmi
+12	4:104:6	w	إِن	ﲢ	ان	If	in
+12	4:104:7	w	تَكُونُواْ	ﲣ	تكونوا	you are	takūnū
+12	4:104:8	w	تَأۡلَمُونَ	ﲤ	تالمون	suffering	talamūna
+12	4:104:9	w	فَإِنَّهُمۡ	ﲥ	فانهم	then indeed, they	fa-innahum
+12	4:104:10	w	يَأۡلَمُونَ	ﲦ	يالمون	are (also) suffering	yalamūna
+12	4:104:11	w	كَمَا	ﲧ	كما	like what	kamā
+13	4:104:12	w	تَأۡلَمُونَۖ	ﲨﲩ	تالمون	you are suffering	talamūna
+13	4:104:13	w	وَتَرۡجُونَ	ﲪ	وترجون	while you (have) hope	watarjūna
+13	4:104:14	w	مِنَ	ﲫ	من	from	mina
+13	4:104:15	w	ٱللَّهِ	ﲬ	الله	Allah	l-lahi
+13	4:104:16	w	مَا	ﲭ	ما	what	mā
+13	4:104:17	w	لَا	ﲮ	لا	not	lā
+13	4:104:18	w	يَرۡجُونَۗ	ﲯﲰ	يرجون	they hope	yarjūna
+13	4:104:19	w	وَكَانَ	ﲱ	وكان	And is	wakāna
+13	4:104:20	w	ٱللَّهُ	ﲲ	الله	Allah	l-lahu
+14	4:104:21	w	عَلِيمًا	ﲳ	عليما	All-Knowing	ʿalīman
+14	4:104:22	w	حَكِيمًا	ﲴ	حكيما	All-Wise	ḥakīman
+14	4:104:23	e	١٠٤	ﲵ			
+14	4:105:1	w	إِنَّآ	ﲶ	انا	Indeed	innā
+14	4:105:2	w	أَنزَلۡنَآ	ﲷ	انزلنا	We (have) sent down	anzalnā
+14	4:105:3	w	إِلَيۡكَ	ﲸ	اليك	to you	ilayka
+14	4:105:4	w	ٱلۡكِتَٰبَ	ﲹ	الكتاب	the Book	l-kitāba
+14	4:105:5	w	بِٱلۡحَقِّ	ﲺ	بالحق	with the truth	bil-ḥaqi
+14	4:105:6	w	لِتَحۡكُمَ	ﲻ	لتحكم	so that you may judge	litaḥkuma
+15	4:105:7	w	بَيۡنَ	ﲼ	بين	between	bayna
+15	4:105:8	w	ٱلنَّاسِ	ﲽ	الناس	the people	l-nāsi
+15	4:105:9	w	بِمَآ	ﲾ	بما	with what	bimā
+15	4:105:10	w	أَرَىٰكَ	ﲿ	اراك	has shown you	arāka
+15	4:105:11	w	ٱللَّهُۚ	ﳀﳁ	الله	Allah	l-lahu
+15	4:105:12	w	وَلَا	ﳂ	ولا	And (do) not	walā
+15	4:105:13	w	تَكُن	ﳃ	تكن	be	takun
+15	4:105:14	w	لِّلۡخَآئِنِينَ	ﳄ	للخاينين	for the deceitful	lil'khāinīna
+15	4:105:15	w	خَصِيمٗا	ﳅ	خصيما	a pleader	khaṣīman
+15	4:105:16	e	١٠٥	ﳆ			

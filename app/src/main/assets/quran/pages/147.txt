@@ -1,0 +1,134 @@
+1	6:143:1	w	ثَمَٰنِيَةَ	ﱁ	ثمانية	Eight	thamāniyata
+1	6:143:2	w	أَزۡوَٰجٖۖ	ﱂﱃ	ازواج	pairs	azwājin
+1	6:143:3	w	مِّنَ	ﱄ	من	of	mina
+1	6:143:4	w	ٱلضَّأۡنِ	ﱅ	الضان	the sheep	l-ḍani
+1	6:143:5	w	ٱثۡنَيۡنِ	ﱆ	اثنين	two	ith'nayni
+1	6:143:6	w	وَمِنَ	ﱇ	ومن	and of	wamina
+1	6:143:7	w	ٱلۡمَعۡزِ	ﱈ	المعز	the goats	l-maʿzi
+1	6:143:8	w	ٱثۡنَيۡنِۗ	ﱉﱊ	اثنين	two	ith'nayni
+2	6:143:9	w	قُلۡ	ﱋ	قل	Say	qul
+2	6:143:10	w	ءَآلذَّكَرَيۡنِ	ﱌ	الذكرين	(Are) the two males	āldhakarayni
+2	6:143:11	w	حَرَّمَ	ﱍ	حرم	He has forbidden	ḥarrama
+2	6:143:12	w	أَمِ	ﱎ	ام	or	ami
+2	6:143:13	w	ٱلۡأُنثَيَيۡنِ	ﱏ	الانثيين	the two females	l-unthayayni
+2	6:143:14	w	أَمَّا	ﱐ	اما	or what	ammā
+2	6:143:15	w	ٱشۡتَمَلَتۡ	ﱑ	اشتملت	contains	ish'tamalat
+2	6:143:16	w	عَلَيۡهِ	ﱒ	عليه	[in it]	ʿalayhi
+3	6:143:17	w	أَرۡحَامُ	ﱓ	ارحام	(the) wombs	arḥāmu
+3	6:143:18	w	ٱلۡأُنثَيَيۡنِۖ	ﱔﱕ	الانثيين	(of) the two females	l-unthayayni
+3	6:143:19	w	نَبِّـُٔونِي	ﱖ	نبيوني	Inform me	nabbiūnī
+3	6:143:20	w	بِعِلۡمٍ	ﱗ	بعلم	with knowledge	biʿil'min
+3	6:143:21	w	إِن	ﱘ	ان	if	in
+3	6:143:22	w	كُنتُمۡ	ﱙ	كنتم	you are	kuntum
+3	6:143:23	w	صَٰدِقِينَ	ﱚ	صادقين	truthful	ṣādiqīna
+3	6:143:24	e	١٤٣	ﱛ			
+4	6:144:1	w	وَمِنَ	ﱜ	ومن	And of	wamina
+4	6:144:2	w	ٱلۡإِبِلِ	ﱝ	الابل	the camels	l-ibili
+4	6:144:3	w	ٱثۡنَيۡنِ	ﱞ	اثنين	two	ith'nayni
+4	6:144:4	w	وَمِنَ	ﱟ	ومن	and of	wamina
+4	6:144:5	w	ٱلۡبَقَرِ	ﱠ	البقر	the cows	l-baqari
+4	6:144:6	w	ٱثۡنَيۡنِۗ	ﱡﱢ	اثنين	two	ith'nayni
+4	6:144:7	w	قُلۡ	ﱣ	قل	Say	qul
+4	6:144:8	w	ءَآلذَّكَرَيۡنِ	ﱤ	الذكرين	(Is it) the two males	āldhakarayni
+5	6:144:9	w	حَرَّمَ	ﱥ	حرم	He (has) forbidden	ḥarrama
+5	6:144:10	w	أَمِ	ﱦ	ام	or	ami
+5	6:144:11	w	ٱلۡأُنثَيَيۡنِ	ﱧ	الانثيين	the two females	l-unthayayni
+5	6:144:12	w	أَمَّا	ﱨ	اما	or what	ammā
+5	6:144:13	w	ٱشۡتَمَلَتۡ	ﱩ	اشتملت	contains	ish'tamalat
+5	6:144:14	w	عَلَيۡهِ	ﱪ	عليه	[in it]	ʿalayhi
+5	6:144:15	w	أَرۡحَامُ	ﱫ	ارحام	(the) wombs	arḥāmu
+5	6:144:16	w	ٱلۡأُنثَيَيۡنِۖ	ﱬﱭ	الانثيين	(of) the two females	l-unthayayni
+6	6:144:17	w	أَمۡ	ﱮ	ام	Or	am
+6	6:144:18	w	كُنتُمۡ	ﱯ	كنتم	were you	kuntum
+6	6:144:19	w	شُهَدَآءَ	ﱰ	شهداء	witnesses	shuhadāa
+6	6:144:20	w	إِذۡ	ﱱ	اذ	when	idh
+6	6:144:21	w	وَصَّىٰكُمُ	ﱲ	وصاكم	enjoined you	waṣṣākumu
+6	6:144:22	w	ٱللَّهُ	ﱳ	الله	Allah	l-lahu
+6	6:144:23	w	بِهَٰذَاۚ	ﱴﱵ	بهاذا	with this	bihādhā
+6	6:144:24	w	فَمَنۡ	ﱶ	فمن	Then who	faman
+7	6:144:25	w	أَظۡلَمُ	ﱷ	اظلم	(is) more unjust	aẓlamu
+7	6:144:26	w	مِمَّنِ	ﱸ	ممن	than (one) who	mimmani
+7	6:144:27	w	ٱفۡتَرَىٰ	ﱹ	افترى	invents	if'tarā
+7	6:144:28	w	عَلَى	ﱺ	على	against	ʿalā
+7	6:144:29	w	ٱللَّهِ	ﱻ	الله	Allah	l-lahi
+7	6:144:30	w	كَذِبٗا	ﱼ	كذبا	a lie	kadhiban
+7	6:144:31	w	لِّيُضِلَّ	ﱽ	ليضل	to mislead	liyuḍilla
+7	6:144:32	w	ٱلنَّاسَ	ﱾ	الناس	the people	l-nāsa
+7	6:144:33	w	بِغَيۡرِ	ﱿ	بغير	without	bighayri
+8	6:144:34	w	عِلۡمٍۚ	ﲀﲁ	علم	knowledge	ʿil'min
+8	6:144:35	w	إِنَّ	ﲂ	ان	Indeed	inna
+8	6:144:36	w	ٱللَّهَ	ﲃ	الله	Allah	l-laha
+8	6:144:37	w	لَا	ﲄ	لا	(does) not	lā
+8	6:144:38	w	يَهۡدِي	ﲅ	يهدي	guide	yahdī
+8	6:144:39	w	ٱلۡقَوۡمَ	ﲆ	القوم	the people	l-qawma
+8	6:144:40	w	ٱلظَّٰلِمِينَ	ﲇ	الظالمين	the wrongdoing	l-ẓālimīna
+8	6:144:41	e	١٤٤	ﲈ			
+8	6:145:1	w	قُل	ﲉ	قل	Say	qul
+8	6:145:2	w	لَّآ	ﲊ	لا	Not	lā
+8	6:145:3	w	أَجِدُ	ﲋ	اجد	(do) I find	ajidu
+9	6:145:4	w	فِي	ﲌ	في	in	fī
+9	6:145:5	w	مَآ	ﲍ	ما	what	mā
+9	6:145:6	w	أُوحِيَ	ﲎ	اوحي	has been revealed	ūḥiya
+9	6:145:7	w	إِلَيَّ	ﲏ	الي	to me	ilayya
+9	6:145:8	w	مُحَرَّمًا	ﲐ	محرما	(anything) forbidden	muḥarraman
+9	6:145:9	w	عَلَىٰ	ﲑ	على	to	ʿalā
+9	6:145:10	w	طَاعِمٖ	ﲒ	طاعم	an eater	ṭāʿimin
+9	6:145:11	w	يَطۡعَمُهُۥٓ	ﲓ	يطعمه	who eats it	yaṭʿamuhu
+9	6:145:12	w	إِلَّآ	ﲔ	الا	except	illā
+9	6:145:13	w	أَن	ﲕ	ان	that	an
+9	6:145:14	w	يَكُونَ	ﲖ	يكون	it be	yakūna
+10	6:145:15	w	مَيۡتَةً	ﲗ	ميتة	dead	maytatan
+10	6:145:16	w	أَوۡ	ﲘ	او	or	aw
+10	6:145:17	w	دَمٗا	ﲙ	دما	blood	daman
+10	6:145:18	w	مَّسۡفُوحًا	ﲚ	مسفوحا	poured forth	masfūḥan
+10	6:145:19	w	أَوۡ	ﲛ	او	or	aw
+10	6:145:20	w	لَحۡمَ	ﲜ	لحم	(the) flesh	laḥma
+10	6:145:21	w	خِنزِيرٖ	ﲝ	خنزير	(of) swine	khinzīrin
+10	6:145:22	w	فَإِنَّهُۥ	ﲞ	فانه	for indeed, it	fa-innahu
+10	6:145:23	w	رِجۡسٌ	ﲟ	رجس	(is) filth	rij'sun
+10	6:145:24	w	أَوۡ	ﲠ	او	or	aw
+11	6:145:25	w	فِسۡقًا	ﲡ	فسقا	(it be) disobedience	fis'qan
+11	6:145:26	w	أُهِلَّ	ﲢ	اهل	[is] dedicated	uhilla
+11	6:145:27	w	لِغَيۡرِ	ﲣ	لغير	to other than	lighayri
+11	6:145:28	w	ٱللَّهِ	ﲤ	الله	Allah	l-lahi
+11	6:145:29	w	بِهِۦۚ	ﲥﲦ	به	[on it]	bihi
+11	6:145:30	w	فَمَنِ	ﲧ	فمن	But whoever	famani
+11	6:145:31	w	ٱضۡطُرَّ	ﲨ	اضطر	(is) compelled	uḍ'ṭurra
+11	6:145:32	w	غَيۡرَ	ﲩ	غير	not	ghayra
+11	6:145:33	w	بَاغٖ	ﲪ	باغ	desiring	bāghin
+11	6:145:34	w	وَلَا	ﲫ	ولا	and not	walā
+11	6:145:35	w	عَادٖ	ﲬ	عاد	transgressing	ʿādin
+12	6:145:36	w	فَإِنَّ	ﲭ	فان	then indeed	fa-inna
+12	6:145:37	w	رَبَّكَ	ﲮ	ربك	your Lord	rabbaka
+12	6:145:38	w	غَفُورٞ	ﲯ	غفور	(is) Oft-Forgiving	ghafūrun
+12	6:145:39	w	رَّحِيمٞ	ﲰ	رحيم	Most Merciful	raḥīmun
+12	6:145:40	e	١٤٥	ﲱ			
+12	6:146:1	w	وَعَلَى	ﲲ	وعلى	And to	waʿalā
+12	6:146:2	w	ٱلَّذِينَ	ﲳ	الذين	those who	alladhīna
+12	6:146:3	w	هَادُواْ	ﲴ	هادوا	are Jews	hādū
+12	6:146:4	w	حَرَّمۡنَا	ﲵ	حرمنا	We forbade	ḥarramnā
+13	6:146:5	w	كُلَّ	ﲶ	كل	every	kulla
+13	6:146:6	w	ذِي	ﲷ	ذي	(animal) with	dhī
+13	6:146:7	w	ظُفُرٖۖ	ﲸﲹ	ظفر	claws	ẓufurin
+13	6:146:8	w	وَمِنَ	ﲺ	ومن	and of	wamina
+13	6:146:9	w	ٱلۡبَقَرِ	ﲻ	البقر	the cows	l-baqari
+13	6:146:10	w	وَٱلۡغَنَمِ	ﲼ	والغنم	and the sheep	wal-ghanami
+13	6:146:11	w	حَرَّمۡنَا	ﲽ	حرمنا	We forbade	ḥarramnā
+13	6:146:12	w	عَلَيۡهِمۡ	ﲾ	عليهم	to them	ʿalayhim
+14	6:146:13	w	شُحُومَهُمَآ	ﲿ	شحومهما	their fat	shuḥūmahumā
+14	6:146:14	w	إِلَّا	ﳀ	الا	except	illā
+14	6:146:15	w	مَا	ﳁ	ما	what	mā
+14	6:146:16	w	حَمَلَتۡ	ﳂ	حملت	carried	ḥamalat
+14	6:146:17	w	ظُهُورُهُمَآ	ﳃ	ظهورهما	their backs	ẓuhūruhumā
+14	6:146:18	w	أَوِ	ﳄ	او	or	awi
+14	6:146:19	w	ٱلۡحَوَايَآ	ﳅ	الحوايا	the entrails	l-ḥawāyā
+14	6:146:20	w	أَوۡ	ﳆ	او	or	aw
+14	6:146:21	w	مَا	ﳇ	ما	what	mā
+14	6:146:22	w	ٱخۡتَلَطَ	ﳈ	اختلط	(is) joined	ikh'talaṭa
+15	6:146:23	w	بِعَظۡمٖۚ	ﳉﳊ	بعظم	with the bone	biʿaẓmin
+15	6:146:24	w	ذَٰلِكَ	ﳋ	ذالك	That	dhālika
+15	6:146:25	w	جَزَيۡنَٰهُم	ﳌ	جزيناهم	(is) their recompense	jazaynāhum
+15	6:146:26	w	بِبَغۡيِهِمۡۖ	ﳍﳎ	ببغيهم	for their rebellion	bibaghyihim
+15	6:146:27	w	وَإِنَّا	ﳏ	وانا	And indeed, We	wa-innā
+15	6:146:28	w	لَصَٰدِقُونَ	ﳐ	لصادقون	[surely] are truthful	laṣādiqūna
+15	6:146:29	e	١٤٦	ﳑ			

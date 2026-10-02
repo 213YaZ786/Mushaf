@@ -1,0 +1,136 @@
+1	24:28:1	w	فَإِن	ﱁ	فان	But if	fa-in
+1	24:28:2	w	لَّمۡ	ﱂ	لم	not	lam
+1	24:28:3	w	تَجِدُواْ	ﱃ	تجدوا	you find	tajidū
+1	24:28:4	w	فِيهَآ	ﱄ	فيها	in it	fīhā
+1	24:28:5	w	أَحَدٗا	ﱅ	احدا	anyone	aḥadan
+1	24:28:6	w	فَلَا	ﱆ	فلا	then (do) not	falā
+1	24:28:7	w	تَدۡخُلُوهَا	ﱇ	تدخلوها	enter it	tadkhulūhā
+1	24:28:8	w	حَتَّىٰ	ﱈ	حتى	until	ḥattā
+1	24:28:9	w	يُؤۡذَنَ	ﱉ	يوذن	permission has been given	yu'dhana
+1	24:28:10	w	لَكُمۡۖ	ﱊﱋ	لكم	to you	lakum
+2	24:28:11	w	وَإِن	ﱌ	وان	And if	wa-in
+2	24:28:12	w	قِيلَ	ﱍ	قيل	it is said	qīla
+2	24:28:13	w	لَكُمُ	ﱎ	لكم	to you	lakumu
+2	24:28:14	w	ٱرۡجِعُواْ	ﱏ	ارجعوا	Go back	ir'jiʿū
+2	24:28:15	w	فَٱرۡجِعُواْۖ	ﱐﱑ	فارجعوا	then go back	fa-ir'jiʿū
+2	24:28:16	w	هُوَ	ﱒ	هو	it	huwa
+2	24:28:17	w	أَزۡكَىٰ	ﱓ	ازكى	(is) purer	azkā
+2	24:28:18	w	لَكُمۡۚ	ﱔﱕ	لكم	for you	lakum
+2	24:28:19	w	وَٱللَّهُ	ﱖ	والله	And Allah	wal-lahu
+2	24:28:20	w	بِمَا	ﱗ	بما	of what	bimā
+3	24:28:21	w	تَعۡمَلُونَ	ﱘ	تعملون	you do	taʿmalūna
+3	24:28:22	w	عَلِيمٞ	ﱙ	عليم	(is) All-Knower	ʿalīmun
+3	24:28:23	e	٢٨	ﱚ			
+3	24:29:1	w	لَّيۡسَ	ﱛ	ليس	Not	laysa
+3	24:29:2	w	عَلَيۡكُمۡ	ﱜ	عليكم	upon you	ʿalaykum
+3	24:29:3	w	جُنَاحٌ	ﱝ	جناح	(is) any blame	junāḥun
+3	24:29:4	w	أَن	ﱞ	ان	that	an
+3	24:29:5	w	تَدۡخُلُواْ	ﱟ	تدخلوا	you enter	tadkhulū
+3	24:29:6	w	بُيُوتًا	ﱠ	بيوتا	houses	buyūtan
+4	24:29:7	w	غَيۡرَ	ﱡ	غير	not	ghayra
+4	24:29:8	w	مَسۡكُونَةٖ	ﱢ	مسكونة	inhabited	maskūnatin
+4	24:29:9	w	فِيهَا	ﱣ	فيها	in it	fīhā
+4	24:29:10	w	مَتَٰعٞ	ﱤ	متاع	(is) a provision	matāʿun
+4	24:29:11	w	لَّكُمۡۚ	ﱥﱦ	لكم	for you	lakum
+4	24:29:12	w	وَٱللَّهُ	ﱧ	والله	And Allah	wal-lahu
+4	24:29:13	w	يَعۡلَمُ	ﱨ	يعلم	knows	yaʿlamu
+4	24:29:14	w	مَا	ﱩ	ما	what	mā
+4	24:29:15	w	تُبۡدُونَ	ﱪ	تبدون	you reveal	tub'dūna
+4	24:29:16	w	وَمَا	ﱫ	وما	and what	wamā
+5	24:29:17	w	تَكۡتُمُونَ	ﱬ	تكتمون	you conceal	taktumūna
+5	24:29:18	e	٢٩	ﱭ			
+5	24:30:1	w	قُل	ﱮ	قل	Say	qul
+5	24:30:2	w	لِّلۡمُؤۡمِنِينَ	ﱯ	للمومنين	to the believing men	lil'mu'minīna
+5	24:30:3	w	يَغُضُّواْ	ﱰ	يغضوا	they should lower	yaghuḍḍū
+5	24:30:4	w	مِنۡ	ﱱ	من	their gaze	min
+5	24:30:5	w	أَبۡصَٰرِهِمۡ	ﱲ	ابصارهم	their gaze	abṣārihim
+5	24:30:6	w	وَيَحۡفَظُواْ	ﱳ	ويحفظوا	and they should guard	wayaḥfaẓū
+6	24:30:7	w	فُرُوجَهُمۡۚ	ﱴﱵ	فروجهم	their chastity	furūjahum
+6	24:30:8	w	ذَٰلِكَ	ﱶ	ذالك	That	dhālika
+6	24:30:9	w	أَزۡكَىٰ	ﱷ	ازكى	(is) purer	azkā
+6	24:30:10	w	لَهُمۡۚ	ﱸﱹ	لهم	for them	lahum
+6	24:30:11	w	إِنَّ	ﱺ	ان	Indeed	inna
+6	24:30:12	w	ٱللَّهَ	ﱻ	الله	Allah	l-laha
+6	24:30:13	w	خَبِيرُۢ	ﱼ	خبير	(is) All-Aware	khabīrun
+6	24:30:14	w	بِمَا	ﱽ	بما	of what	bimā
+6	24:30:15	w	يَصۡنَعُونَ	ﱾ	يصنعون	they do	yaṣnaʿūna
+6	24:30:16	e	٣٠	ﱿ			
+7	24:31:1	w	وَقُل	ﲀ	وقل	And say	waqul
+7	24:31:2	w	لِّلۡمُؤۡمِنَٰتِ	ﲁ	للمومنات	to the believing women	lil'mu'mināti
+7	24:31:3	w	يَغۡضُضۡنَ	ﲂ	يغضضن	(that) they should lower	yaghḍuḍ'na
+7	24:31:4	w	مِنۡ	ﲃ	من	[of]	min
+7	24:31:5	w	أَبۡصَٰرِهِنَّ	ﲄ	ابصارهن	their gaze	abṣārihinna
+7	24:31:6	w	وَيَحۡفَظۡنَ	ﲅ	ويحفظن	and they should guard	wayaḥfaẓna
+8	24:31:7	w	فُرُوجَهُنَّ	ﲆ	فروجهن	their chastity	furūjahunna
+8	24:31:8	w	وَلَا	ﲇ	ولا	and not	walā
+8	24:31:9	w	يُبۡدِينَ	ﲈ	يبدين	(to) display	yub'dīna
+8	24:31:10	w	زِينَتَهُنَّ	ﲉ	زينتهن	their adornment	zīnatahunna
+8	24:31:11	w	إِلَّا	ﲊ	الا	except	illā
+8	24:31:12	w	مَا	ﲋ	ما	what	mā
+8	24:31:13	w	ظَهَرَ	ﲌ	ظهر	is apparent	ẓahara
+8	24:31:14	w	مِنۡهَاۖ	ﲍﲎ	منها	of it	min'hā
+8	24:31:15	w	وَلۡيَضۡرِبۡنَ	ﲏ	وليضربن	And let them draw	walyaḍrib'na
+9	24:31:16	w	بِخُمُرِهِنَّ	ﲐ	بخمرهن	their head covers	bikhumurihinna
+9	24:31:17	w	عَلَىٰ	ﲑ	على	over	ʿalā
+9	24:31:18	w	جُيُوبِهِنَّۖ	ﲒﲓ	جيوبهن	their bosoms	juyūbihinna
+9	24:31:19	w	وَلَا	ﲔ	ولا	and not	walā
+9	24:31:20	w	يُبۡدِينَ	ﲕ	يبدين	(to) display	yub'dīna
+9	24:31:21	w	زِينَتَهُنَّ	ﲖ	زينتهن	their adornment	zīnatahunna
+9	24:31:22	w	إِلَّا	ﲗ	الا	except	illā
+9	24:31:23	w	لِبُعُولَتِهِنَّ	ﲘ	لبعولتهن	to their husbands	libuʿūlatihinna
+10	24:31:24	w	أَوۡ	ﲙ	او	or	aw
+10	24:31:25	w	ءَابَآئِهِنَّ	ﲚ	ابايهن	their fathers	ābāihinna
+10	24:31:26	w	أَوۡ	ﲛ	او	or	aw
+10	24:31:27	w	ءَابَآءِ	ﲜ	اباء	fathers	ābāi
+10	24:31:28	w	بُعُولَتِهِنَّ	ﲝ	بعولتهن	(of) their husbands	buʿūlatihinna
+10	24:31:29	w	أَوۡ	ﲞ	او	or	aw
+10	24:31:30	w	أَبۡنَآئِهِنَّ	ﲟ	ابنايهن	their sons	abnāihinna
+10	24:31:31	w	أَوۡ	ﲠ	او	or	aw
+10	24:31:32	w	أَبۡنَآءِ	ﲡ	ابناء	sons	abnāi
+10	24:31:33	w	بُعُولَتِهِنَّ	ﲢ	بعولتهن	(of) their husbands	buʿūlatihinna
+11	24:31:34	w	أَوۡ	ﲣ	او	or	aw
+11	24:31:35	w	إِخۡوَٰنِهِنَّ	ﲤ	اخوانهن	their brothers	ikh'wānihinna
+11	24:31:36	w	أَوۡ	ﲥ	او	or	aw
+11	24:31:37	w	بَنِيٓ	ﲦ	بني	sons	banī
+11	24:31:38	w	إِخۡوَٰنِهِنَّ	ﲧ	اخوانهن	(of) their brothers	ikh'wānihinna
+11	24:31:39	w	أَوۡ	ﲨ	او	or	aw
+11	24:31:40	w	بَنِيٓ	ﲩ	بني	sons	banī
+11	24:31:41	w	أَخَوَٰتِهِنَّ	ﲪ	اخواتهن	(of) their sisters	akhawātihinna
+11	24:31:42	w	أَوۡ	ﲫ	او	or	aw
+11	24:31:43	w	نِسَآئِهِنَّ	ﲬ	نسايهن	their women	nisāihinna
+12	24:31:44	w	أَوۡ	ﲭ	او	or	aw
+12	24:31:45	w	مَا	ﲮ	ما	what	mā
+12	24:31:46	w	مَلَكَتۡ	ﲯ	ملكت	possess	malakat
+12	24:31:47	w	أَيۡمَٰنُهُنَّ	ﲰ	ايمانهن	their right hands	aymānuhunna
+12	24:31:48	w	أَوِ	ﲱ	او	or	awi
+12	24:31:49	w	ٱلتَّٰبِعِينَ	ﲲ	التابعين	the attendants	l-tābiʿīna
+12	24:31:50	w	غَيۡرِ	ﲳ	غير	having no physical desire	ghayri
+12	24:31:51	w	أُوْلِي	ﲴ	اولي	having no physical desire	ulī
+12	24:31:52	w	ٱلۡإِرۡبَةِ	ﲵ	الاربة	having no physical desire	l-ir'bati
+12	24:31:53	w	مِنَ	ﲶ	من	among	mina
+13	24:31:54	w	ٱلرِّجَالِ	ﲷ	الرجال	[the] men	l-rijāli
+13	24:31:55	w	أَوِ	ﲸ	او	or	awi
+13	24:31:56	w	ٱلطِّفۡلِ	ﲹ	الطفل	[the] children	l-ṭif'li
+13	24:31:57	w	ٱلَّذِينَ	ﲺ	الذين	who	alladhīna
+13	24:31:58	w	لَمۡ	ﲻ	لم	(are) not	lam
+13	24:31:59	w	يَظۡهَرُواْ	ﲼ	يظهروا	aware	yaẓharū
+13	24:31:60	w	عَلَىٰ	ﲽ	على	of	ʿalā
+13	24:31:61	w	عَوۡرَٰتِ	ﲾ	عورات	private aspects	ʿawrāti
+13	24:31:62	w	ٱلنِّسَآءِۖ	ﲿﳀ	النساء	(of) the women	l-nisāi
+14	24:31:63	w	وَلَا	ﳁ	ولا	And not	walā
+14	24:31:64	w	يَضۡرِبۡنَ	ﳂ	يضربن	let them stamp	yaḍrib'na
+14	24:31:65	w	بِأَرۡجُلِهِنَّ	ﳃ	بارجلهن	their feet	bi-arjulihinna
+14	24:31:66	w	لِيُعۡلَمَ	ﳄ	ليعلم	to make known	liyuʿ'lama
+14	24:31:67	w	مَا	ﳅ	ما	what	mā
+14	24:31:68	w	يُخۡفِينَ	ﳆ	يخفين	they conceal	yukh'fīna
+14	24:31:69	w	مِن	ﳇ	من	of	min
+14	24:31:70	w	زِينَتِهِنَّۚ	ﳈﳉ	زينتهن	their adornment	zīnatihinna
+14	24:31:71	w	وَتُوبُوٓاْ	ﳊ	وتوبوا	And turn	watūbū
+15	24:31:72	w	إِلَى	ﳋ	الى	to	ilā
+15	24:31:73	w	ٱللَّهِ	ﳌ	الله	Allah	l-lahi
+15	24:31:74	w	جَمِيعًا	ﳍ	جميعا	altogether	jamīʿan
+15	24:31:75	w	أَيُّهَ	ﳎ	ايه	O believers	ayyuha
+15	24:31:76	w	ٱلۡمُؤۡمِنُونَ	ﳏ	المومنون	O believers	l-mu'minūna
+15	24:31:77	w	لَعَلَّكُمۡ	ﳐ	لعلكم	So that you may	laʿallakum
+15	24:31:78	w	تُفۡلِحُونَ	ﳑ	تفلحون	succeed	tuf'liḥūna
+15	24:31:79	e	٣١	ﳒ			

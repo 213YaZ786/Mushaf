@@ -1,0 +1,159 @@
+1	35:4:1	w	وَإِن	ﱁ	وان	And if	wa-in
+1	35:4:2	w	يُكَذِّبُوكَ	ﱂ	يكذبوك	they deny you	yukadhibūka
+1	35:4:3	w	فَقَدۡ	ﱃ	فقد	then certainly	faqad
+1	35:4:4	w	كُذِّبَتۡ	ﱄ	كذبت	were denied	kudhibat
+1	35:4:5	w	رُسُلٞ	ﱅ	رسل	Messengers	rusulun
+1	35:4:6	w	مِّن	ﱆ	من	before you	min
+1	35:4:7	w	قَبۡلِكَۚ	ﱇﱈ	قبلك	before you	qablika
+1	35:4:8	w	وَإِلَى	ﱉ	والى	And to	wa-ilā
+1	35:4:9	w	ٱللَّهِ	ﱊ	الله	Allah	l-lahi
+1	35:4:10	w	تُرۡجَعُ	ﱋ	ترجع	return	tur'jaʿu
+1	35:4:11	w	ٱلۡأُمُورُ	ﱌ	الامور	the matters	l-umūru
+2	35:4:12	e	٤	ﱍ			
+2	35:5:1	w	يَٰٓأَيُّهَا	ﱎ	يا ايها	O	yāayyuhā
+2	35:5:2	w	ٱلنَّاسُ	ﱏ	الناس	mankind	l-nāsu
+2	35:5:3	w	إِنَّ	ﱐ	ان	Indeed	inna
+2	35:5:4	w	وَعۡدَ	ﱑ	وعد	(the) promise	waʿda
+2	35:5:5	w	ٱللَّهِ	ﱒ	الله	(of) Allah	l-lahi
+2	35:5:6	w	حَقّٞۖ	ﱓﱔ	حق	(is) true	ḥaqqun
+2	35:5:7	w	فَلَا	ﱕ	فلا	So (let) not	falā
+2	35:5:8	w	تَغُرَّنَّكُمُ	ﱖ	تغرنكم	deceive you	taghurrannakumu
+2	35:5:9	w	ٱلۡحَيَوٰةُ	ﱗ	الحياة	the life	l-ḥayatu
+2	35:5:10	w	ٱلدُّنۡيَا	ﱘ	الدنيا	(of) the world	l-dun'yā
+3	35:5:11	w	وَلَا	ﱙ	ولا	and (let) not	walā
+3	35:5:12	w	يَغُرَّنَّكُم	ﱚ	يغرنكم	deceive you	yaghurrannakum
+3	35:5:13	w	بِٱللَّهِ	ﱛ	بالله	about Allah	bil-lahi
+3	35:5:14	w	ٱلۡغَرُورُ	ﱜ	الغرور	the Deceiver	l-gharūru
+3	35:5:15	e	٥	ﱝ			
+3	35:6:1	w	إِنَّ	ﱞ	ان	Indeed	inna
+3	35:6:2	w	ٱلشَّيۡطَٰنَ	ﱟ	الشيطان	the Shaitaan	l-shayṭāna
+3	35:6:3	w	لَكُمۡ	ﱠ	لكم	(is) to you	lakum
+3	35:6:4	w	عَدُوّٞ	ﱡ	عدو	an enemy	ʿaduwwun
+3	35:6:5	w	فَٱتَّخِذُوهُ	ﱢ	فاتخذوه	so take him	fa-ittakhidhūhu
+4	35:6:6	w	عَدُوًّاۚ	ﱣﱤ	عدوا	(as) an enemy	ʿaduwwan
+4	35:6:7	w	إِنَّمَا	ﱥ	انما	Only	innamā
+4	35:6:8	w	يَدۡعُواْ	ﱦ	يدعو	he invites	yadʿū
+4	35:6:9	w	حِزۡبَهُۥ	ﱧ	حزبه	his party	ḥiz'bahu
+4	35:6:10	w	لِيَكُونُواْ	ﱨ	ليكونوا	that they may be	liyakūnū
+4	35:6:11	w	مِنۡ	ﱩ	من	among	min
+4	35:6:12	w	أَصۡحَٰبِ	ﱪ	اصحاب	(the) companions	aṣḥābi
+4	35:6:13	w	ٱلسَّعِيرِ	ﱫ	السعير	(of) the Blaze	l-saʿīri
+4	35:6:14	e	٦	ﱬ			
+4	35:7:1	w	ٱلَّذِينَ	ﱭ	الذين	Those who	alladhīna
+5	35:7:2	w	كَفَرُواْ	ﱮ	كفروا	disbelieve	kafarū
+5	35:7:3	w	لَهُمۡ	ﱯ	لهم	for them	lahum
+5	35:7:4	w	عَذَابٞ	ﱰ	عذاب	(will be) a punishment	ʿadhābun
+5	35:7:5	w	شَدِيدٞۖ	ﱱﱲ	شديد	severe	shadīdun
+5	35:7:6	w	وَٱلَّذِينَ	ﱳ	والذين	and those	wa-alladhīna
+5	35:7:7	w	ءَامَنُواْ	ﱴ	امنوا	who believe	āmanū
+5	35:7:8	w	وَعَمِلُواْ	ﱵ	وعملوا	and do	waʿamilū
+5	35:7:9	w	ٱلصَّٰلِحَٰتِ	ﱶ	الصالحات	righteous deeds	l-ṣāliḥāti
+5	35:7:10	w	لَهُم	ﱷ	لهم	for them	lahum
+6	35:7:11	w	مَّغۡفِرَةٞ	ﱸ	مغفرة	(will be) forgiveness	maghfiratun
+6	35:7:12	w	وَأَجۡرٞ	ﱹ	واجر	and a reward	wa-ajrun
+6	35:7:13	w	كَبِيرٌ	ﱺ	كبير	great	kabīrun
+6	35:7:14	e	٧	ﱻ			
+6	35:8:1	w	أَفَمَن	ﱼ	افمن	Then is (he) who	afaman
+6	35:8:2	w	زُيِّنَ	ﱽ	زين	is made fair-seeming	zuyyina
+6	35:8:3	w	لَهُۥ	ﱾ	له	to him	lahu
+6	35:8:4	w	سُوٓءُ	ﱿ	سوء	(the) evil	sūu
+6	35:8:5	w	عَمَلِهِۦ	ﲀ	عمله	(of) his deed	ʿamalihi
+6	35:8:6	w	فَرَءَاهُ	ﲁ	فراه	so that he sees it	faraāhu
+6	35:8:7	w	حَسَنٗاۖ	ﲂﲃ	حسنا	(as) good	ḥasanan
+6	35:8:8	w	فَإِنَّ	ﲄ	فان	For indeed	fa-inna
+7	35:8:9	w	ٱللَّهَ	ﲅ	الله	Allah	l-laha
+7	35:8:10	w	يُضِلُّ	ﲆ	يضل	lets go astray	yuḍillu
+7	35:8:11	w	مَن	ﲇ	من	whom	man
+7	35:8:12	w	يَشَآءُ	ﲈ	يشاء	He wills	yashāu
+7	35:8:13	w	وَيَهۡدِي	ﲉ	ويهدي	and guides	wayahdī
+7	35:8:14	w	مَن	ﲊ	من	whom	man
+7	35:8:15	w	يَشَآءُۖ	ﲋﲌ	يشاء	He wills	yashāu
+7	35:8:16	w	فَلَا	ﲍ	فلا	So (let) not	falā
+7	35:8:17	w	تَذۡهَبۡ	ﲎ	تذهب	go out	tadhhab
+7	35:8:18	w	نَفۡسُكَ	ﲏ	نفسك	your soul	nafsuka
+7	35:8:19	w	عَلَيۡهِمۡ	ﲐ	عليهم	for them	ʿalayhim
+8	35:8:20	w	حَسَرَٰتٍۚ	ﲑﲒ	حسرات	(in) regrets	ḥasarātin
+8	35:8:21	w	إِنَّ	ﲓ	ان	Indeed	inna
+8	35:8:22	w	ٱللَّهَ	ﲔ	الله	Allah	l-laha
+8	35:8:23	w	عَلِيمُۢ	ﲕ	عليم	(is) All-Knower	ʿalīmun
+8	35:8:24	w	بِمَا	ﲖ	بما	of what	bimā
+8	35:8:25	w	يَصۡنَعُونَ	ﲗ	يصنعون	they do	yaṣnaʿūna
+8	35:8:26	e	٨	ﲘ			
+8	35:9:1	w	وَٱللَّهُ	ﲙ	والله	And Allah	wal-lahu
+8	35:9:2	w	ٱلَّذِيٓ	ﲚ	الذي	(is) the One Who	alladhī
+8	35:9:3	w	أَرۡسَلَ	ﲛ	ارسل	sends	arsala
+9	35:9:4	w	ٱلرِّيَٰحَ	ﲜ	الرياح	the winds	l-riyāḥa
+9	35:9:5	w	فَتُثِيرُ	ﲝ	فتثير	so that they raise	fatuthīru
+9	35:9:6	w	سَحَابٗا	ﲞ	سحابا	(the) clouds	saḥāban
+9	35:9:7	w	فَسُقۡنَٰهُ	ﲟ	فسقناه	and We drive them	fasuq'nāhu
+9	35:9:8	w	إِلَىٰ	ﲠ	الى	to	ilā
+9	35:9:9	w	بَلَدٖ	ﲡ	بلد	a land	baladin
+9	35:9:10	w	مَّيِّتٖ	ﲢ	ميت	dead	mayyitin
+9	35:9:11	w	فَأَحۡيَيۡنَا	ﲣ	فاحيينا	and We revive	fa-aḥyaynā
+9	35:9:12	w	بِهِ	ﲤ	به	therewith	bihi
+9	35:9:13	w	ٱلۡأَرۡضَ	ﲥ	الارض	the earth	l-arḍa
+10	35:9:14	w	بَعۡدَ	ﲦ	بعد	after	baʿda
+10	35:9:15	w	مَوۡتِهَاۚ	ﲧﲨ	موتها	its death	mawtihā
+10	35:9:16	w	كَذَٰلِكَ	ﲩ	كذالك	Thus	kadhālika
+10	35:9:17	w	ٱلنُّشُورُ	ﲪ	النشور	(will be) the Resurrection	l-nushūru
+10	35:9:18	e	٩	ﲫ			
+10	35:10:1	w	مَن	ﲬ	من	Whoever	man
+10	35:10:2	w	كَانَ	ﲭ	كان	[is] desires	kāna
+10	35:10:3	w	يُرِيدُ	ﲮ	يريد	[is] desires	yurīdu
+10	35:10:4	w	ٱلۡعِزَّةَ	ﲯ	العزة	the honor	l-ʿizata
+10	35:10:5	w	فَلِلَّهِ	ﲰ	فلله	then for Allah	falillahi
+10	35:10:6	w	ٱلۡعِزَّةُ	ﲱ	العزة	(is) the Honor	l-ʿizatu
+10	35:10:7	w	جَمِيعًاۚ	ﲲﲳ	جميعا	all	jamīʿan
+11	35:10:8	w	إِلَيۡهِ	ﲴ	اليه	To Him	ilayhi
+11	35:10:9	w	يَصۡعَدُ	ﲵ	يصعد	ascends	yaṣʿadu
+11	35:10:10	w	ٱلۡكَلِمُ	ﲶ	الكلم	the words	l-kalimu
+11	35:10:11	w	ٱلطَّيِّبُ	ﲷ	الطيب	good	l-ṭayibu
+11	35:10:12	w	وَٱلۡعَمَلُ	ﲸ	والعمل	and the deed	wal-ʿamalu
+11	35:10:13	w	ٱلصَّٰلِحُ	ﲹ	الصالح	righteous	l-ṣāliḥu
+11	35:10:14	w	يَرۡفَعُهُۥۚ	ﲺﲻ	يرفعه	raises it	yarfaʿuhu
+11	35:10:15	w	وَٱلَّذِينَ	ﲼ	والذين	But those who	wa-alladhīna
+12	35:10:16	w	يَمۡكُرُونَ	ﲽ	يمكرون	plot	yamkurūna
+12	35:10:17	w	ٱلسَّيِّـَٔاتِ	ﲾ	السييات	the evil	l-sayiāti
+12	35:10:18	w	لَهُمۡ	ﲿ	لهم	for them	lahum
+12	35:10:19	w	عَذَابٞ	ﳀ	عذاب	(is) a punishment	ʿadhābun
+12	35:10:20	w	شَدِيدٞۖ	ﳁﳂ	شديد	severe	shadīdun
+12	35:10:21	w	وَمَكۡرُ	ﳃ	ومكر	and (the) plotting	wamakru
+12	35:10:22	w	أُوْلَٰٓئِكَ	ﳄ	اولايك	(of) those	ulāika
+12	35:10:23	w	هُوَ	ﳅ	هو	it	huwa
+12	35:10:24	w	يَبُورُ	ﳆ	يبور	(will) perish	yabūru
+13	35:10:25	e	١٠	ﳇ			
+13	35:11:1	w	وَٱللَّهُ	ﳈ	والله	And Allah	wal-lahu
+13	35:11:2	w	خَلَقَكُم	ﳉ	خلقكم	created you	khalaqakum
+13	35:11:3	w	مِّن	ﳊ	من	from	min
+13	35:11:4	w	تُرَابٖ	ﳋ	تراب	dust	turābin
+13	35:11:5	w	ثُمَّ	ﳌ	ثم	then	thumma
+13	35:11:6	w	مِن	ﳍ	من	from	min
+13	35:11:7	w	نُّطۡفَةٖ	ﳎ	نطفة	a semen-drop	nuṭ'fatin
+13	35:11:8	w	ثُمَّ	ﳏ	ثم	then	thumma
+13	35:11:9	w	جَعَلَكُمۡ	ﳐ	جعلكم	He made you	jaʿalakum
+13	35:11:10	w	أَزۡوَٰجٗاۚ	ﳑﳒ	ازواجا	pairs	azwājan
+14	35:11:11	w	وَمَا	ﳓ	وما	And not	wamā
+14	35:11:12	w	تَحۡمِلُ	ﳔ	تحمل	conceives	taḥmilu
+14	35:11:13	w	مِنۡ	ﳕ	من	any	min
+14	35:11:14	w	أُنثَىٰ	ﳖ	انثى	female	unthā
+14	35:11:15	w	وَلَا	ﳗ	ولا	and not	walā
+14	35:11:16	w	تَضَعُ	ﳘ	تضع	gives birth	taḍaʿu
+14	35:11:17	w	إِلَّا	ﳙ	الا	except	illā
+14	35:11:18	w	بِعِلۡمِهِۦۚ	ﳚﳛ	بعلمه	with His knowledge	biʿil'mihi
+14	35:11:19	w	وَمَا	ﳜ	وما	And not	wamā
+14	35:11:20	w	يُعَمَّرُ	ﳝ	يعمر	is granted life	yuʿammaru
+14	35:11:21	w	مِن	ﳞ	من	any	min
+14	35:11:22	w	مُّعَمَّرٖ	ﳟ	معمر	aged person	muʿammarin
+15	35:11:23	w	وَلَا	ﳠ	ولا	and not	walā
+15	35:11:24	w	يُنقَصُ	ﳡ	ينقص	is lessened	yunqaṣu
+15	35:11:25	w	مِنۡ	ﳢ	من	from	min
+15	35:11:26	w	عُمُرِهِۦٓ	ﳣ	عمره	his life	ʿumurihi
+15	35:11:27	w	إِلَّا	ﳤ	الا	but	illā
+15	35:11:28	w	فِي	ﳥ	في	(is) in	fī
+15	35:11:29	w	كِتَٰبٍۚ	ﳦﳧ	كتاب	a Register	kitābin
+15	35:11:30	w	إِنَّ	ﳨ	ان	Indeed	inna
+15	35:11:31	w	ذَٰلِكَ	ﳩ	ذالك	that	dhālika
+15	35:11:32	w	عَلَى	ﳪ	على	for	ʿalā
+15	35:11:33	w	ٱللَّهِ	ﳫ	الله	Allah	l-lahi
+15	35:11:34	w	يَسِيرٞ	ﳬ	يسير	(is) easy	yasīrun
+15	35:11:35	e	١١	ﳭ			

@@ -1,0 +1,125 @@
+1	2:265:1	w	وَمَثَلُ	ﱁ	ومثل	And (the) example	wamathalu
+1	2:265:2	w	ٱلَّذِينَ	ﱂ	الذين	(of) those who	alladhīna
+1	2:265:3	w	يُنفِقُونَ	ﱃ	ينفقون	spend	yunfiqūna
+1	2:265:4	w	أَمۡوَٰلَهُمُ	ﱄ	اموالهم	their wealth	amwālahumu
+1	2:265:5	w	ٱبۡتِغَآءَ	ﱅ	ابتغاء	seeking	ib'tighāa
+1	2:265:6	w	مَرۡضَاتِ	ﱆ	مرضات	(the) pleasure	marḍāti
+1	2:265:7	w	ٱللَّهِ	ﱇ	الله	(of) Allah	l-lahi
+2	2:265:8	w	وَتَثۡبِيتٗا	ﱈ	وتثبيتا	and certainty	watathbītan
+2	2:265:9	w	مِّنۡ	ﱉ	من	from	min
+2	2:265:10	w	أَنفُسِهِمۡ	ﱊ	انفسهم	their (inner) souls	anfusihim
+2	2:265:11	w	كَمَثَلِ	ﱋ	كمثل	(is) like	kamathali
+2	2:265:12	w	جَنَّةِۭ	ﱌ	جنة	a garden	jannatin
+2	2:265:13	w	بِرَبۡوَةٍ	ﱍ	بربوة	on a height	birabwatin
+2	2:265:14	w	أَصَابَهَا	ﱎ	اصابها	fell on it	aṣābahā
+2	2:265:15	w	وَابِلٞ	ﱏ	وابل	heavy rain	wābilun
+3	2:265:16	w	فَـَٔاتَتۡ	ﱐ	فاتت	so it yielded	faātat
+3	2:265:17	w	أُكُلَهَا	ﱑ	اكلها	its harvest	ukulahā
+3	2:265:18	w	ضِعۡفَيۡنِ	ﱒ	ضعفين	double	ḍiʿ'fayni
+3	2:265:19	w	فَإِن	ﱓ	فان	Then if	fa-in
+3	2:265:20	w	لَّمۡ	ﱔ	لم	(does) not	lam
+3	2:265:21	w	يُصِبۡهَا	ﱕ	يصبها	fall (on) it	yuṣib'hā
+3	2:265:22	w	وَابِلٞ	ﱖ	وابل	heavy rain	wābilun
+3	2:265:23	w	فَطَلّٞۗ	ﱗﱘ	فطل	then a drizzle	faṭallun
+4	2:265:24	w	وَٱللَّهُ	ﱙ	والله	And Allah	wal-lahu
+4	2:265:25	w	بِمَا	ﱚ	بما	of what	bimā
+4	2:265:26	w	تَعۡمَلُونَ	ﱛ	تعملون	you do	taʿmalūna
+4	2:265:27	w	بَصِيرٌ	ﱜ	بصير	(is) All-Seer	baṣīrun
+4	2:265:28	e	٢٦٥	ﱝ			
+4	2:266:1	w	أَيَوَدُّ	ﱞ	ايود	Would like	ayawaddu
+4	2:266:2	w	أَحَدُكُمۡ	ﱟ	احدكم	any of you	aḥadukum
+4	2:266:3	w	أَن	ﱠ	ان	that	an
+4	2:266:4	w	تَكُونَ	ﱡ	تكون	it be	takūna
+4	2:266:5	w	لَهُۥ	ﱢ	له	for him	lahu
+5	2:266:6	w	جَنَّةٞ	ﱣ	جنة	a garden	jannatun
+5	2:266:7	w	مِّن	ﱤ	من	of	min
+5	2:266:8	w	نَّخِيلٖ	ﱥ	نخيل	date-palms	nakhīlin
+5	2:266:9	w	وَأَعۡنَابٖ	ﱦ	واعناب	and grapevines	wa-aʿnābin
+5	2:266:10	w	تَجۡرِي	ﱧ	تجري	flowing	tajrī
+5	2:266:11	w	مِن	ﱨ	من	[from]	min
+5	2:266:12	w	تَحۡتِهَا	ﱩ	تحتها	underneath it	taḥtihā
+5	2:266:13	w	ٱلۡأَنۡهَٰرُ	ﱪ	الانهار	the rivers	l-anhāru
+5	2:266:14	w	لَهُۥ	ﱫ	له	for him	lahu
+6	2:266:15	w	فِيهَا	ﱬ	فيها	in it	fīhā
+6	2:266:16	w	مِن	ﱭ	من	of	min
+6	2:266:17	w	كُلِّ	ﱮ	كل	all (kinds)	kulli
+6	2:266:18	w	ٱلثَّمَرَٰتِ	ﱯ	الثمرات	(of) [the] fruits	l-thamarāti
+6	2:266:19	w	وَأَصَابَهُ	ﱰ	واصابه	and strikes him	wa-aṣābahu
+6	2:266:20	w	ٱلۡكِبَرُ	ﱱ	الكبر	[the] old age	l-kibaru
+6	2:266:21	w	وَلَهُۥ	ﱲ	وله	and [for] his	walahu
+6	2:266:22	w	ذُرِّيَّةٞ	ﱳ	ذرية	children	dhurriyyatun
+7	2:266:23	w	ضُعَفَآءُ	ﱴ	ضعفاء	(are) weak	ḍuʿafāu
+7	2:266:24	w	فَأَصَابَهَآ	ﱵ	فاصابها	then falls on it	fa-aṣābahā
+7	2:266:25	w	إِعۡصَارٞ	ﱶ	اعصار	whirlwind	iʿ'ṣārun
+7	2:266:26	w	فِيهِ	ﱷ	فيه	in it	fīhi
+7	2:266:27	w	نَارٞ	ﱸ	نار	(is) fire	nārun
+7	2:266:28	w	فَٱحۡتَرَقَتۡۗ	ﱹﱺ	فاحترقت	then it is burnt	fa-iḥ'taraqat
+7	2:266:29	w	كَذَٰلِكَ	ﱻ	كذالك	Thus	kadhālika
+8	2:266:30	w	يُبَيِّنُ	ﱼ	يبين	makes clear	yubayyinu
+8	2:266:31	w	ٱللَّهُ	ﱽ	الله	Allah	l-lahu
+8	2:266:32	w	لَكُمُ	ﱾ	لكم	for you	lakumu
+8	2:266:33	w	ٱلۡأٓيَٰتِ	ﱿ	الايات	(His) Signs	l-āyāti
+8	2:266:34	w	لَعَلَّكُمۡ	ﲀ	لعلكم	so that you may	laʿallakum
+8	2:266:35	w	تَتَفَكَّرُونَ	ﲁ	تتفكرون	ponder	tatafakkarūna
+8	2:266:36	e	٢٦٦	ﲂ			
+8	2:267:1	w	يَٰٓأَيُّهَا	ﲃ	يا ايها	O you	yāayyuhā
+9	2:267:2	w	ٱلَّذِينَ	ﲄ	الذين	who	alladhīna
+9	2:267:3	w	ءَامَنُوٓاْ	ﲅ	امنوا	believe[d]	āmanū
+9	2:267:4	w	أَنفِقُواْ	ﲆ	انفقوا	Spend	anfiqū
+9	2:267:5	w	مِن	ﲇ	من	from	min
+9	2:267:6	w	طَيِّبَٰتِ	ﲈ	طيبات	(the) good things	ṭayyibāti
+9	2:267:7	w	مَا	ﲉ	ما	that	mā
+9	2:267:8	w	كَسَبۡتُمۡ	ﲊ	كسبتم	you have earned	kasabtum
+9	2:267:9	w	وَمِمَّآ	ﲋ	ومما	and whatever	wamimmā
+9	2:267:10	w	أَخۡرَجۡنَا	ﲌ	اخرجنا	We brought forth	akhrajnā
+10	2:267:11	w	لَكُم	ﲍ	لكم	for you	lakum
+10	2:267:12	w	مِّنَ	ﲎ	من	from	mina
+10	2:267:13	w	ٱلۡأَرۡضِۖ	ﲏﲐ	الارض	the earth	l-arḍi
+10	2:267:14	w	وَلَا	ﲑ	ولا	And (do) not	walā
+10	2:267:15	w	تَيَمَّمُواْ	ﲒ	تيمموا	aim (at)	tayammamū
+10	2:267:16	w	ٱلۡخَبِيثَ	ﲓ	الخبيث	the bad	l-khabītha
+10	2:267:17	w	مِنۡهُ	ﲔ	منه	of it	min'hu
+10	2:267:18	w	تُنفِقُونَ	ﲕ	تنفقون	you spend	tunfiqūna
+11	2:267:19	w	وَلَسۡتُم	ﲖ	ولستم	while you (would) not	walastum
+11	2:267:20	w	بِـَٔاخِذِيهِ	ﲗ	باخذيه	take it	biākhidhīhi
+11	2:267:21	w	إِلَّآ	ﲘ	الا	except	illā
+11	2:267:22	w	أَن	ﲙ	ان	[that]	an
+11	2:267:23	w	تُغۡمِضُواْ	ﲚ	تغمضوا	(with) close(d) eyes	tugh'miḍū
+11	2:267:24	w	فِيهِۚ	ﲛﲜ	فيه	[in it]	fīhi
+11	2:267:25	w	وَٱعۡلَمُوٓاْ	ﲝ	واعلموا	and know	wa-iʿ'lamū
+11	2:267:26	w	أَنَّ	ﲞ	ان	that	anna
+11	2:267:27	w	ٱللَّهَ	ﲟ	الله	Allah	l-laha
+11	2:267:28	w	غَنِيٌّ	ﲠ	غني	(is) Self-Sufficient	ghaniyyun
+12	2:267:29	w	حَمِيدٌ	ﲡ	حميد	Praiseworthy	ḥamīdun
+12	2:267:30	e	٢٦٧	ﲢ			
+12	2:268:1	w	ٱلشَّيۡطَٰنُ	ﲣ	الشيطان	The Shaitaan	al-shayṭānu
+12	2:268:2	w	يَعِدُكُمُ	ﲤ	يعدكم	promises you	yaʿidukumu
+12	2:268:3	w	ٱلۡفَقۡرَ	ﲥ	الفقر	[the] poverty	l-faqra
+12	2:268:4	w	وَيَأۡمُرُكُم	ﲦ	ويامركم	and orders you	wayamurukum
+12	2:268:5	w	بِٱلۡفَحۡشَآءِۖ	ﲧﲨ	بالفحشاء	to immorality	bil-faḥshāi
+13	2:268:6	w	وَٱللَّهُ	ﲩ	والله	while Allah	wal-lahu
+13	2:268:7	w	يَعِدُكُم	ﲪ	يعدكم	promises you	yaʿidukum
+13	2:268:8	w	مَّغۡفِرَةٗ	ﲫ	مغفرة	forgiveness	maghfiratan
+13	2:268:9	w	مِّنۡهُ	ﲬ	منه	from Him	min'hu
+13	2:268:10	w	وَفَضۡلٗاۗ	ﲭﲮ	وفضلا	and bounty	wafaḍlan
+13	2:268:11	w	وَٱللَّهُ	ﲯ	والله	And Allah	wal-lahu
+13	2:268:12	w	وَٰسِعٌ	ﲰ	واسع	(is) All-Encompassing	wāsiʿun
+13	2:268:13	w	عَلِيمٞ	ﲱ	عليم	All-Knowing	ʿalīmun
+14	2:268:14	e	٢٦٨	ﲲ			
+14	2:269:1	w	يُؤۡتِي	ﲳ	يوتي	He grants	yu'tī
+14	2:269:2	w	ٱلۡحِكۡمَةَ	ﲴ	الحكمة	[the] wisdom	l-ḥik'mata
+14	2:269:3	w	مَن	ﲵ	من	(to) whom	man
+14	2:269:4	w	يَشَآءُۚ	ﲶﲷ	يشاء	He wills	yashāu
+14	2:269:5	w	وَمَن	ﲸ	ومن	and whoever	waman
+14	2:269:6	w	يُؤۡتَ	ﲹ	يوت	is granted	yu'ta
+14	2:269:7	w	ٱلۡحِكۡمَةَ	ﲺ	الحكمة	[the] wisdom	l-ḥik'mata
+14	2:269:8	w	فَقَدۡ	ﲻ	فقد	then certainly	faqad
+15	2:269:9	w	أُوتِيَ	ﲼ	اوتي	he is granted	ūtiya
+15	2:269:10	w	خَيۡرٗا	ﲽ	خيرا	good	khayran
+15	2:269:11	w	كَثِيرٗاۗ	ﲾﲿ	كثيرا	abundant	kathīran
+15	2:269:12	w	وَمَا	ﳀ	وما	And none	wamā
+15	2:269:13	w	يَذَّكَّرُ	ﳁ	يذكر	remembers	yadhakkaru
+15	2:269:14	w	إِلَّآ	ﳂ	الا	except	illā
+15	2:269:15	w	أُوْلُواْ	ﳃ	اولو	those	ulū
+15	2:269:16	w	ٱلۡأَلۡبَٰبِ	ﳄ	الالباب	(of) understanding	l-albābi
+15	2:269:17	e	٢٦٩	ﳅ			

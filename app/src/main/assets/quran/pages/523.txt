@@ -1,0 +1,137 @@
+1	51:52:1	w	كَذَٰلِكَ	ﱁ	كذالك	Likewise	kadhālika
+1	51:52:2	w	مَآ	ﱂ	ما	not	mā
+1	51:52:3	w	أَتَى	ﱃ	اتى	came	atā
+1	51:52:4	w	ٱلَّذِينَ	ﱄ	الذين	(to) those	alladhīna
+1	51:52:5	w	مِن	ﱅ	من	before them	min
+1	51:52:6	w	قَبۡلِهِم	ﱆ	قبلهم	before them	qablihim
+1	51:52:7	w	مِّن	ﱇ	من	any	min
+1	51:52:8	w	رَّسُولٍ	ﱈ	رسول	Messenger	rasūlin
+1	51:52:9	w	إِلَّا	ﱉ	الا	but	illā
+1	51:52:10	w	قَالُواْ	ﱊ	قالوا	they said	qālū
+1	51:52:11	w	سَاحِرٌ	ﱋ	ساحر	A magician	sāḥirun
+1	51:52:12	w	أَوۡ	ﱌ	او	or	aw
+1	51:52:13	w	مَجۡنُونٌ	ﱍ	مجنون	a madman	majnūnun
+2	51:52:14	e	٥٢	ﱎ			
+2	51:53:1	w	أَتَوَاصَوۡاْ	ﱏ	اتواصوا	Have they transmitted it to them	atawāṣaw
+2	51:53:2	w	بِهِۦۚ	ﱐﱑ	به	Have they transmitted it to them	bihi
+2	51:53:3	w	بَلۡ	ﱒ	بل	Nay	bal
+2	51:53:4	w	هُمۡ	ﱓ	هم	they	hum
+2	51:53:5	w	قَوۡمٞ	ﱔ	قوم	(are) a people	qawmun
+2	51:53:6	w	طَاغُونَ	ﱕ	طاغون	transgressing	ṭāghūna
+2	51:53:7	e	٥٣	ﱖ			
+2	51:54:1	w	فَتَوَلَّ	ﱗ	فتول	So turn away	fatawalla
+2	51:54:2	w	عَنۡهُمۡ	ﱘ	عنهم	from them	ʿanhum
+2	51:54:3	w	فَمَآ	ﱙ	فما	for not	famā
+2	51:54:4	w	أَنتَ	ﱚ	انت	you	anta
+3	51:54:5	w	بِمَلُومٖ	ﱛ	بملوم	(are) to be blamed	bimalūmin
+3	51:54:6	e	٥٤	ﱜ			
+3	51:55:1	w	وَذَكِّرۡ	ﱝ	وذكر	And remind	wadhakkir
+3	51:55:2	w	فَإِنَّ	ﱞ	فان	for indeed	fa-inna
+3	51:55:3	w	ٱلذِّكۡرَىٰ	ﱟ	الذكرى	the reminder	l-dhik'rā
+3	51:55:4	w	تَنفَعُ	ﱠ	تنفع	benefits	tanfaʿu
+3	51:55:5	w	ٱلۡمُؤۡمِنِينَ	ﱡ	المومنين	the believers	l-mu'minīna
+3	51:55:6	e	٥٥	ﱢ			
+3	51:56:1	w	وَمَا	ﱣ	وما	And not	wamā
+3	51:56:2	w	خَلَقۡتُ	ﱤ	خلقت	I have created	khalaqtu
+4	51:56:3	w	ٱلۡجِنَّ	ﱥ	الجن	the jinn	l-jina
+4	51:56:4	w	وَٱلۡإِنسَ	ﱦ	والانس	and the mankind	wal-insa
+4	51:56:5	w	إِلَّا	ﱧ	الا	except	illā
+4	51:56:6	w	لِيَعۡبُدُونِ	ﱨ	ليعبدون	that they worship Me	liyaʿbudūni
+4	51:56:7	e	٥٦	ﱩ			
+4	51:57:1	w	مَآ	ﱪ	ما	Not	mā
+4	51:57:2	w	أُرِيدُ	ﱫ	اريد	I want	urīdu
+4	51:57:3	w	مِنۡهُم	ﱬ	منهم	from them	min'hum
+4	51:57:4	w	مِّن	ﱭ	من	any	min
+4	51:57:5	w	رِّزۡقٖ	ﱮ	رزق	provision	riz'qin
+4	51:57:6	w	وَمَآ	ﱯ	وما	and not	wamā
+4	51:57:7	w	أُرِيدُ	ﱰ	اريد	I want	urīdu
+5	51:57:8	w	أَن	ﱱ	ان	that	an
+5	51:57:9	w	يُطۡعِمُونِ	ﱲ	يطعمون	they (should) feed Me	yuṭ'ʿimūni
+5	51:57:10	e	٥٧	ﱳ			
+5	51:58:1	w	إِنَّ	ﱴ	ان	Indeed	inna
+5	51:58:2	w	ٱللَّهَ	ﱵ	الله	Allah	l-laha
+5	51:58:3	w	هُوَ	ﱶ	هو	He	huwa
+5	51:58:4	w	ٱلرَّزَّاقُ	ﱷ	الرزاق	(is) the All-Provider	l-razāqu
+5	51:58:5	w	ذُو	ﱸ	ذو	Possessor	dhū
+5	51:58:6	w	ٱلۡقُوَّةِ	ﱹ	القوة	(of) Power	l-quwati
+5	51:58:7	w	ٱلۡمَتِينُ	ﱺ	المتين	the Strong	l-matīnu
+5	51:58:8	e	٥٨	ﱻ			
+6	51:59:1	w	فَإِنَّ	ﱼ	فان	So indeed	fa-inna
+6	51:59:2	w	لِلَّذِينَ	ﱽ	للذين	for those who	lilladhīna
+6	51:59:3	w	ظَلَمُواْ	ﱾ	ظلموا	do wrong	ẓalamū
+6	51:59:4	w	ذَنُوبٗا	ﱿ	ذنوبا	(is) a portion	dhanūban
+6	51:59:5	w	مِّثۡلَ	ﲀ	مثل	like	mith'la
+6	51:59:6	w	ذَنُوبِ	ﲁ	ذنوب	(the) portion	dhanūbi
+6	51:59:7	w	أَصۡحَٰبِهِمۡ	ﲂ	اصحابهم	(of) their companions	aṣḥābihim
+6	51:59:8	w	فَلَا	ﲃ	فلا	so let them not ask Me to hasten	falā
+6	51:59:9	w	يَسۡتَعۡجِلُونِ	ﲄ	يستعجلون	so let them not ask Me to hasten	yastaʿjilūni
+7	51:59:10	e	٥٩	ﲅ			
+7	51:60:1	w	فَوَيۡلٞ	ﲆ	فويل	Then woe	fawaylun
+7	51:60:2	w	لِّلَّذِينَ	ﲇ	للذين	to those who	lilladhīna
+7	51:60:3	w	كَفَرُواْ	ﲈ	كفروا	disbelieve	kafarū
+7	51:60:4	w	مِن	ﲉ	من	from	min
+7	51:60:5	w	يَوۡمِهِمُ	ﲊ	يومهم	their Day	yawmihimu
+7	51:60:6	w	ٱلَّذِي	ﲋ	الذي	which	alladhī
+7	51:60:7	w	يُوعَدُونَ	ﲌ	يوعدون	they are promised	yūʿadūna
+7	51:60:8	e	٦٠	ﲍ			
+10	52:1:1	w	وَٱلطُّورِ	ﲎ	والطور	By the Mount	wal-ṭūri
+10	52:1:2	e	١	ﲏ			
+10	52:2:1	w	وَكِتَٰبٖ	ﲐ	وكتاب	And by (the) Book	wakitābin
+10	52:2:2	w	مَّسۡطُورٖ	ﲑ	مسطور	written	masṭūrin
+10	52:2:3	e	٢	ﲒ			
+10	52:3:1	w	فِي	ﲓ	في	In	fī
+10	52:3:2	w	رَقّٖ	ﲔ	رق	parchment	raqqin
+10	52:3:3	w	مَّنشُورٖ	ﲕ	منشور	unrolled	manshūrin
+10	52:3:4	e	٣	ﲖ			
+10	52:4:1	w	وَٱلۡبَيۡتِ	ﲗ	والبيت	By the House	wal-bayti
+11	52:4:2	w	ٱلۡمَعۡمُورِ	ﲘ	المعمور	frequented	l-maʿmūri
+11	52:4:3	e	٤	ﲙ			
+11	52:5:1	w	وَٱلسَّقۡفِ	ﲚ	والسقف	By the roof	wal-saqfi
+11	52:5:2	w	ٱلۡمَرۡفُوعِ	ﲛ	المرفوع	raised high	l-marfūʿi
+11	52:5:3	e	٥	ﲜ			
+11	52:6:1	w	وَٱلۡبَحۡرِ	ﲝ	والبحر	By the sea	wal-baḥri
+11	52:6:2	w	ٱلۡمَسۡجُورِ	ﲞ	المسجور	filled	l-masjūri
+11	52:6:3	e	٦	ﲟ			
+11	52:7:1	w	إِنَّ	ﲠ	ان	Indeed	inna
+12	52:7:2	w	عَذَابَ	ﲡ	عذاب	(the) punishment	ʿadhāba
+12	52:7:3	w	رَبِّكَ	ﲢ	ربك	(of) your Lord	rabbika
+12	52:7:4	w	لَوَٰقِعٞ	ﲣ	لواقع	(will) surely occur	lawāqiʿun
+12	52:7:5	e	٧	ﲤ			
+12	52:8:1	w	مَّا	ﲥ	ما	Not	mā
+12	52:8:2	w	لَهُۥ	ﲦ	له	for it	lahu
+12	52:8:3	w	مِن	ﲧ	من	any	min
+12	52:8:4	w	دَافِعٖ	ﲨ	دافع	preventer	dāfiʿin
+12	52:8:5	e	٨	ﲩ			
+12	52:9:1	w	يَوۡمَ	ﲪ	يوم	(On the) Day	yawma
+12	52:9:2	w	تَمُورُ	ﲫ	تمور	will shake	tamūru
+12	52:9:3	w	ٱلسَّمَآءُ	ﲬ	السماء	the heaven	l-samāu
+13	52:9:4	w	مَوۡرٗا	ﲭ	مورا	(with violent) shake	mawran
+13	52:9:5	e	٩	ﲮ			
+13	52:10:1	w	وَتَسِيرُ	ﲯ	وتسير	And will move away	watasīru
+13	52:10:2	w	ٱلۡجِبَالُ	ﲰ	الجبال	the mountains	l-jibālu
+13	52:10:3	w	سَيۡرٗا	ﲱ	سيرا	(with an awful) movement	sayran
+13	52:10:4	e	١٠	ﲲ			
+13	52:11:1	w	فَوَيۡلٞ	ﲳ	فويل	Then woe	fawaylun
+13	52:11:2	w	يَوۡمَئِذٖ	ﲴ	يوميذ	that Day	yawma-idhin
+13	52:11:3	w	لِّلۡمُكَذِّبِينَ	ﲵ	للمكذبين	to the deniers	lil'mukadhibīna
+14	52:11:4	e	١١	ﲶ			
+14	52:12:1	w	ٱلَّذِينَ	ﲷ	الذين	Who	alladhīna
+14	52:12:2	w	هُمۡ	ﲸ	هم	[they]	hum
+14	52:12:3	w	فِي	ﲹ	في	in	fī
+14	52:12:4	w	خَوۡضٖ	ﲺ	خوض	(vain) discourse	khawḍin
+14	52:12:5	w	يَلۡعَبُونَ	ﲻ	يلعبون	are playing	yalʿabūna
+14	52:12:6	e	١٢	ﲼ			
+14	52:13:1	w	يَوۡمَ	ﲽ	يوم	(The) Day	yawma
+14	52:13:2	w	يُدَعُّونَ	ﲾ	يدعون	they will be thrust	yudaʿʿūna
+14	52:13:3	w	إِلَىٰ	ﲿ	الى	(in)to	ilā
+14	52:13:4	w	نَارِ	ﳀ	نار	(the) Fire	nāri
+15	52:13:5	w	جَهَنَّمَ	ﳁ	جهنم	(of) Hell	jahannama
+15	52:13:6	w	دَعًّا	ﳂ	دعا	(with) a thrust	daʿʿan
+15	52:13:7	e	١٣	ﳃ			
+15	52:14:1	w	هَٰذِهِ	ﳄ	هاذه	This	hādhihi
+15	52:14:2	w	ٱلنَّارُ	ﳅ	النار	(is) the Fire	l-nāru
+15	52:14:3	w	ٱلَّتِي	ﳆ	التي	which	allatī
+15	52:14:4	w	كُنتُم	ﳇ	كنتم	you used to	kuntum
+15	52:14:5	w	بِهَا	ﳈ	بها	[of it]	bihā
+15	52:14:6	w	تُكَذِّبُونَ	ﳉ	تكذبون	deny	tukadhibūna
+15	52:14:7	e	١٤	ﳊ			

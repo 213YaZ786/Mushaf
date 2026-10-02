@@ -1,0 +1,137 @@
+1	2:257:1	w	ٱللَّهُ	ﱁ	الله	Allah	al-lahu
+1	2:257:2	w	وَلِيُّ	ﱂ	ولي	(is the) Protecting Guardian	waliyyu
+1	2:257:3	w	ٱلَّذِينَ	ﱃ	الذين	(of) those who	alladhīna
+1	2:257:4	w	ءَامَنُواْ	ﱄ	امنوا	believe[d]	āmanū
+1	2:257:5	w	يُخۡرِجُهُم	ﱅ	يخرجهم	He brings them out	yukh'rijuhum
+1	2:257:6	w	مِّنَ	ﱆ	من	from	mina
+1	2:257:7	w	ٱلظُّلُمَٰتِ	ﱇ	الظلمات	[the] darkness	l-ẓulumāti
+1	2:257:8	w	إِلَى	ﱈ	الى	towards	ilā
+1	2:257:9	w	ٱلنُّورِۖ	ﱉﱊ	النور	[the] light	l-nūri
+2	2:257:10	w	وَٱلَّذِينَ	ﱋ	والذين	And those who	wa-alladhīna
+2	2:257:11	w	كَفَرُوٓاْ	ﱌ	كفروا	disbelieve(d)	kafarū
+2	2:257:12	w	أَوۡلِيَآؤُهُمُ	ﱍ	اولياوهم	their guardians	awliyāuhumu
+2	2:257:13	w	ٱلطَّٰغُوتُ	ﱎ	الطاغوت	(are) the evil ones	l-ṭāghūtu
+2	2:257:14	w	يُخۡرِجُونَهُم	ﱏ	يخرجونهم	they bring them out	yukh'rijūnahum
+2	2:257:15	w	مِّنَ	ﱐ	من	from	mina
+3	2:257:16	w	ٱلنُّورِ	ﱑ	النور	the light	l-nūri
+3	2:257:17	w	إِلَى	ﱒ	الى	towards	ilā
+3	2:257:18	w	ٱلظُّلُمَٰتِۗ	ﱓﱔ	الظلمات	[the] darkness	l-ẓulumāti
+3	2:257:19	w	أُوْلَٰٓئِكَ	ﱕ	اولايك	Those	ulāika
+3	2:257:20	w	أَصۡحَٰبُ	ﱖ	اصحاب	(are the) companions	aṣḥābu
+3	2:257:21	w	ٱلنَّارِۖ	ﱗﱘ	النار	(of) the Fire	l-nāri
+3	2:257:22	w	هُمۡ	ﱙ	هم	they	hum
+3	2:257:23	w	فِيهَا	ﱚ	فيها	in it	fīhā
+4	2:257:24	w	خَٰلِدُونَ	ﱛ	خالدون	will abide forever	khālidūna
+4	2:257:25	e	٢٥٧	ﱜ			
+4	2:258:1	w	أَلَمۡ	ﱝ	الم	Did not	alam
+4	2:258:2	w	تَرَ	ﱞ	تر	you see	tara
+4	2:258:3	w	إِلَى	ﱟ	الى	[towards]	ilā
+4	2:258:4	w	ٱلَّذِي	ﱠ	الذي	the one who	alladhī
+4	2:258:5	w	حَآجَّ	ﱡ	حاج	argued	ḥājja
+4	2:258:6	w	إِبۡرَٰهِـۧمَ	ﱢ	ابراهيم	(with) Ibrahim	ib'rāhīma
+4	2:258:7	w	فِي	ﱣ	في	concerning	fī
+4	2:258:8	w	رَبِّهِۦٓ	ﱤ	ربه	his Lord	rabbihi
+5	2:258:9	w	أَنۡ	ﱥ	ان	because	an
+5	2:258:10	w	ءَاتَىٰهُ	ﱦ	اتاه	gave him	ātāhu
+5	2:258:11	w	ٱللَّهُ	ﱧ	الله	Allah	l-lahu
+5	2:258:12	w	ٱلۡمُلۡكَ	ﱨ	الملك	the kingdom	l-mul'ka
+5	2:258:13	w	إِذۡ	ﱩ	اذ	When	idh
+5	2:258:14	w	قَالَ	ﱪ	قال	Said	qāla
+5	2:258:15	w	إِبۡرَٰهِـۧمُ	ﱫ	ابراهيم	Ibrahim	ib'rāhīmu
+5	2:258:16	w	رَبِّيَ	ﱬ	ربي	My Lord	rabbiya
+5	2:258:17	w	ٱلَّذِي	ﱭ	الذي	(is) the One Who	alladhī
+5	2:258:18	w	يُحۡيِۦ	ﱮ	يحيي	grants life	yuḥ'yī
+6	2:258:19	w	وَيُمِيتُ	ﱯ	ويميت	and causes death	wayumītu
+6	2:258:20	w	قَالَ	ﱰ	قال	He said	qāla
+6	2:258:21	w	أَنَا۠	ﱱ	انا	I	anā
+6	2:258:22	w	أُحۡيِۦ	ﱲ	احيي	give life	uḥ'yī
+6	2:258:23	w	وَأُمِيتُۖ	ﱳﱴ	واميت	and cause death	wa-umītu
+6	2:258:24	w	قَالَ	ﱵ	قال	Said	qāla
+6	2:258:25	w	إِبۡرَٰهِـۧمُ	ﱶ	ابراهيم	Ibrahim	ib'rāhīmu
+6	2:258:26	w	فَإِنَّ	ﱷ	فان	[Then] indeed	fa-inna
+6	2:258:27	w	ٱللَّهَ	ﱸ	الله	Allah	l-laha
+6	2:258:28	w	يَأۡتِي	ﱹ	ياتي	brings up	yatī
+7	2:258:29	w	بِٱلشَّمۡسِ	ﱺ	بالشمس	the sun	bil-shamsi
+7	2:258:30	w	مِنَ	ﱻ	من	from	mina
+7	2:258:31	w	ٱلۡمَشۡرِقِ	ﱼ	المشرق	the east	l-mashriqi
+7	2:258:32	w	فَأۡتِ	ﱽ	فات	so you bring	fati
+7	2:258:33	w	بِهَا	ﱾ	بها	it	bihā
+7	2:258:34	w	مِنَ	ﱿ	من	from	mina
+7	2:258:35	w	ٱلۡمَغۡرِبِ	ﲀ	المغرب	the west	l-maghribi
+7	2:258:36	w	فَبُهِتَ	ﲁ	فبهت	So became dumbfounded	fabuhita
+7	2:258:37	w	ٱلَّذِي	ﲂ	الذي	the one who	alladhī
+8	2:258:38	w	كَفَرَۗ	ﲃﲄ	كفر	disbelieved	kafara
+8	2:258:39	w	وَٱللَّهُ	ﲅ	والله	and Allah	wal-lahu
+8	2:258:40	w	لَا	ﲆ	لا	(does) not	lā
+8	2:258:41	w	يَهۡدِي	ﲇ	يهدي	guide	yahdī
+8	2:258:42	w	ٱلۡقَوۡمَ	ﲈ	القوم	the people	l-qawma
+8	2:258:43	w	ٱلظَّٰلِمِينَ	ﲉ	الظالمين	(who are) [the] wrongdoers	l-ẓālimīna
+8	2:258:44	e	٢٥٨	ﲊ			
+8	2:259:1	w	أَوۡ	ﲋ	او	Or	aw
+8	2:259:2	w	كَٱلَّذِي	ﲌ	كالذي	like the one who	ka-alladhī
+9	2:259:3	w	مَرَّ	ﲍ	مر	passed	marra
+9	2:259:4	w	عَلَىٰ	ﲎ	على	by	ʿalā
+9	2:259:5	w	قَرۡيَةٖ	ﲏ	قرية	a township	qaryatin
+9	2:259:6	w	وَهِيَ	ﲐ	وهي	and it	wahiya
+9	2:259:7	w	خَاوِيَةٌ	ﲑ	خاوية	(had) overturned	khāwiyatun
+9	2:259:8	w	عَلَىٰ	ﲒ	على	on	ʿalā
+9	2:259:9	w	عُرُوشِهَا	ﲓ	عروشها	its roofs	ʿurūshihā
+9	2:259:10	w	قَالَ	ﲔ	قال	He said	qāla
+9	2:259:11	w	أَنَّىٰ	ﲕ	انى	How	annā
+9	2:259:12	w	يُحۡيِۦ	ﲖ	يحيي	(will) bring to life	yuḥ'yī
+10	2:259:13	w	هَٰذِهِ	ﲗ	هاذه	this (town)	hādhihi
+10	2:259:14	w	ٱللَّهُ	ﲘ	الله	Allah	l-lahu
+10	2:259:15	w	بَعۡدَ	ﲙ	بعد	after	baʿda
+10	2:259:16	w	مَوۡتِهَاۖ	ﲚﲛ	موتها	its death	mawtihā
+10	2:259:17	w	فَأَمَاتَهُ	ﲜ	فاماته	Then he was made to die	fa-amātahu
+10	2:259:18	w	ٱللَّهُ	ﲝ	الله	(by) Allah	l-lahu
+10	2:259:19	w	مِاْئَةَ	ﲞ	ماية	(for) a hundred	mi-ata
+10	2:259:20	w	عَامٖ	ﲟ	عام	year(s)	ʿāmin
+10	2:259:21	w	ثُمَّ	ﲠ	ثم	then	thumma
+10	2:259:22	w	بَعَثَهُۥۖ	ﲡﲢ	بعثه	He raised him	baʿathahu
+11	2:259:23	w	قَالَ	ﲣ	قال	He said	qāla
+11	2:259:24	w	كَمۡ	ﲤ	كم	How long	kam
+11	2:259:25	w	لَبِثۡتَۖ	ﲥﲦ	لبثت	(have) you remained	labith'ta
+11	2:259:26	w	قَالَ	ﲧ	قال	He said	qāla
+11	2:259:27	w	لَبِثۡتُ	ﲨ	لبثت	I remained	labith'tu
+11	2:259:28	w	يَوۡمًا	ﲩ	يوما	(for) a day	yawman
+11	2:259:29	w	أَوۡ	ﲪ	او	or	aw
+11	2:259:30	w	بَعۡضَ	ﲫ	بعض	a part	baʿḍa
+11	2:259:31	w	يَوۡمٖۖ	ﲬﲭ	يوم	(of) a day	yawmin
+11	2:259:32	w	قَالَ	ﲮ	قال	He said	qāla
+11	2:259:33	w	بَل	ﲯ	بل	Nay	bal
+12	2:259:34	w	لَّبِثۡتَ	ﲰ	لبثت	you (have) remained	labith'ta
+12	2:259:35	w	مِاْئَةَ	ﲱ	ماية	one hundred	mi-ata
+12	2:259:36	w	عَامٖ	ﲲ	عام	year(s)	ʿāmin
+12	2:259:37	w	فَٱنظُرۡ	ﲳ	فانظر	Then look	fa-unẓur
+12	2:259:38	w	إِلَىٰ	ﲴ	الى	at	ilā
+12	2:259:39	w	طَعَامِكَ	ﲵ	طعامك	your food	ṭaʿāmika
+12	2:259:40	w	وَشَرَابِكَ	ﲶ	وشرابك	and your drink	washarābika
+12	2:259:41	w	لَمۡ	ﲷ	لم	(they did) not	lam
+12	2:259:42	w	يَتَسَنَّهۡۖ	ﲸﲹ	يتسنه	change with time	yatasannah
+13	2:259:43	w	وَٱنظُرۡ	ﲺ	وانظر	and look	wa-unẓur
+13	2:259:44	w	إِلَىٰ	ﲻ	الى	at	ilā
+13	2:259:45	w	حِمَارِكَ	ﲼ	حمارك	your donkey	ḥimārika
+13	2:259:46	w	وَلِنَجۡعَلَكَ	ﲽ	ولنجعلك	and We will make you	walinajʿalaka
+13	2:259:47	w	ءَايَةٗ	ﲾ	اية	a sign	āyatan
+13	2:259:48	w	لِّلنَّاسِۖ	ﲿﳀ	للناس	for the people	lilnnāsi
+13	2:259:49	w	وَٱنظُرۡ	ﳁ	وانظر	And look	wa-unẓur
+13	2:259:50	w	إِلَى	ﳂ	الى	at	ilā
+14	2:259:51	w	ٱلۡعِظَامِ	ﳃ	العظام	the bones	l-ʿiẓāmi
+14	2:259:52	w	كَيۡفَ	ﳄ	كيف	how	kayfa
+14	2:259:53	w	نُنشِزُهَا	ﳅ	ننشزها	We raise them	nunshizuhā
+14	2:259:54	w	ثُمَّ	ﳆ	ثم	then	thumma
+14	2:259:55	w	نَكۡسُوهَا	ﳇ	نكسوها	We cover them	naksūhā
+14	2:259:56	w	لَحۡمٗاۚ	ﳈﳉ	لحما	(with) flesh	laḥman
+14	2:259:57	w	فَلَمَّا	ﳊ	فلما	Then when	falammā
+15	2:259:58	w	تَبَيَّنَ	ﳋ	تبين	became clear	tabayyana
+15	2:259:59	w	لَهُۥ	ﳌ	له	to him	lahu
+15	2:259:60	w	قَالَ	ﳍ	قال	he said	qāla
+15	2:259:61	w	أَعۡلَمُ	ﳎ	اعلم	I know	aʿlamu
+15	2:259:62	w	أَنَّ	ﳏ	ان	that	anna
+15	2:259:63	w	ٱللَّهَ	ﳐ	الله	Allah	l-laha
+15	2:259:64	w	عَلَىٰ	ﳑ	على	(is) on	ʿalā
+15	2:259:65	w	كُلِّ	ﳒ	كل	every	kulli
+15	2:259:66	w	شَيۡءٖ	ﳓ	شيء	thing	shayin
+15	2:259:67	w	قَدِيرٞ	ﳔ	قدير	All-Powerful	qadīrun
+15	2:259:68	e	٢٥٩	ﳕ			

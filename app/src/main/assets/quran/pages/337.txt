@@ -1,0 +1,131 @@
+1	22:39:1	w	أُذِنَ	ﱁ	اذن	Permission is given	udhina
+1	22:39:2	w	لِلَّذِينَ	ﱂ	للذين	to those who	lilladhīna
+1	22:39:3	w	يُقَٰتَلُونَ	ﱃ	يقاتلون	are being fought	yuqātalūna
+1	22:39:4	w	بِأَنَّهُمۡ	ﱄ	بانهم	because they	bi-annahum
+1	22:39:5	w	ظُلِمُواْۚ	ﱅﱆ	ظلموا	were wronged	ẓulimū
+1	22:39:6	w	وَإِنَّ	ﱇ	وان	And indeed	wa-inna
+1	22:39:7	w	ٱللَّهَ	ﱈ	الله	Allah	l-laha
+1	22:39:8	w	عَلَىٰ	ﱉ	على	for	ʿalā
+1	22:39:9	w	نَصۡرِهِمۡ	ﱊ	نصرهم	their victory	naṣrihim
+1	22:39:10	w	لَقَدِيرٌ	ﱋ	لقدير	(is) surely Able	laqadīrun
+2	22:39:11	e	٣٩	ﱌ			
+2	22:40:1	w	ٱلَّذِينَ	ﱍ	الذين	Those who	alladhīna
+2	22:40:2	w	أُخۡرِجُواْ	ﱎ	اخرجوا	have been evicted	ukh'rijū
+2	22:40:3	w	مِن	ﱏ	من	from	min
+2	22:40:4	w	دِيَٰرِهِم	ﱐ	ديارهم	their homes	diyārihim
+2	22:40:5	w	بِغَيۡرِ	ﱑ	بغير	without	bighayri
+2	22:40:6	w	حَقٍّ	ﱒ	حق	right	ḥaqqin
+2	22:40:7	w	إِلَّآ	ﱓ	الا	except	illā
+2	22:40:8	w	أَن	ﱔ	ان	that	an
+2	22:40:9	w	يَقُولُواْ	ﱕ	يقولوا	they said	yaqūlū
+3	22:40:10	w	رَبُّنَا	ﱖ	ربنا	Our Lord	rabbunā
+3	22:40:11	w	ٱللَّهُۗ	ﱗﱘ	الله	(is) Allah	l-lahu
+3	22:40:12	w	وَلَوۡلَا	ﱙ	ولولا	And if not	walawlā
+3	22:40:13	w	دَفۡعُ	ﱚ	دفع	Allah checks	dafʿu
+3	22:40:14	w	ٱللَّهِ	ﱛ	الله	Allah checks	l-lahi
+3	22:40:15	w	ٱلنَّاسَ	ﱜ	الناس	the people	l-nāsa
+3	22:40:16	w	بَعۡضَهُم	ﱝ	بعضهم	some of them	baʿḍahum
+3	22:40:17	w	بِبَعۡضٖ	ﱞ	ببعض	by others	bibaʿḍin
+3	22:40:18	w	لَّهُدِّمَتۡ	ﱟ	لهدمت	surely (would) have been demolished	lahuddimat
+4	22:40:19	w	صَوَٰمِعُ	ﱠ	صوامع	monasteries	ṣawāmiʿu
+4	22:40:20	w	وَبِيَعٞ	ﱡ	وبيع	and churches	wabiyaʿun
+4	22:40:21	w	وَصَلَوَٰتٞ	ﱢ	وصلوات	and synagogues	waṣalawātun
+4	22:40:22	w	وَمَسَٰجِدُ	ﱣ	ومساجد	and masajid	wamasājidu
+4	22:40:23	w	يُذۡكَرُ	ﱤ	يذكر	is mentioned	yudh'karu
+4	22:40:24	w	فِيهَا	ﱥ	فيها	in it	fīhā
+4	22:40:25	w	ٱسۡمُ	ﱦ	اسم	(the) name of Allah	us'mu
+4	22:40:26	w	ٱللَّهِ	ﱧ	الله	(the) name of Allah	l-lahi
+5	22:40:27	w	كَثِيرٗاۗ	ﱨﱩ	كثيرا	much	kathīran
+5	22:40:28	w	وَلَيَنصُرَنَّ	ﱪ	ولينصرن	And surely Allah will help	walayanṣuranna
+5	22:40:29	w	ٱللَّهُ	ﱫ	الله	And surely Allah will help	l-lahu
+5	22:40:30	w	مَن	ﱬ	من	(those) who	man
+5	22:40:31	w	يَنصُرُهُۥٓۚ	ﱭﱮ	ينصره	help Him	yanṣuruhu
+5	22:40:32	w	إِنَّ	ﱯ	ان	Indeed	inna
+5	22:40:33	w	ٱللَّهَ	ﱰ	الله	Allah	l-laha
+5	22:40:34	w	لَقَوِيٌّ	ﱱ	لقوي	(is) surely All-Strong	laqawiyyun
+6	22:40:35	w	عَزِيزٌ	ﱲ	عزيز	All-Mighty	ʿazīzun
+6	22:40:36	e	٤٠	ﱳ			
+6	22:41:1	w	ٱلَّذِينَ	ﱴ	الذين	Those who	alladhīna
+6	22:41:2	w	إِن	ﱵ	ان	if	in
+6	22:41:3	w	مَّكَّنَّٰهُمۡ	ﱶ	مكناهم	We establish them	makkannāhum
+6	22:41:4	w	فِي	ﱷ	في	in	fī
+6	22:41:5	w	ٱلۡأَرۡضِ	ﱸ	الارض	the land	l-arḍi
+6	22:41:6	w	أَقَامُواْ	ﱹ	اقاموا	they establish	aqāmū
+6	22:41:7	w	ٱلصَّلَوٰةَ	ﱺ	الصلاة	the prayer	l-ṣalata
+7	22:41:8	w	وَءَاتَوُاْ	ﱻ	واتوا	and they give	waātawū
+7	22:41:9	w	ٱلزَّكَوٰةَ	ﱼ	الزكاة	zakah	l-zakata
+7	22:41:10	w	وَأَمَرُواْ	ﱽ	وامروا	and they enjoin	wa-amarū
+7	22:41:11	w	بِٱلۡمَعۡرُوفِ	ﱾ	بالمعروف	the right	bil-maʿrūfi
+7	22:41:12	w	وَنَهَوۡاْ	ﱿ	ونهوا	and forbid	wanahaw
+7	22:41:13	w	عَنِ	ﲀ	عن	from	ʿani
+7	22:41:14	w	ٱلۡمُنكَرِۗ	ﲁﲂ	المنكر	the wrong	l-munkari
+8	22:41:15	w	وَلِلَّهِ	ﲃ	ولله	And for Allah	walillahi
+8	22:41:16	w	عَٰقِبَةُ	ﲄ	عاقبة	(is the) end	ʿāqibatu
+8	22:41:17	w	ٱلۡأُمُورِ	ﲅ	الامور	(of) the matters	l-umūri
+8	22:41:18	e	٤١	ﲆ			
+8	22:42:1	w	وَإِن	ﲇ	وان	And if	wa-in
+8	22:42:2	w	يُكَذِّبُوكَ	ﲈ	يكذبوك	they deny you	yukadhibūka
+8	22:42:3	w	فَقَدۡ	ﲉ	فقد	so verily	faqad
+8	22:42:4	w	كَذَّبَتۡ	ﲊ	كذبت	denied	kadhabat
+9	22:42:5	w	قَبۡلَهُمۡ	ﲋ	قبلهم	before them	qablahum
+9	22:42:6	w	قَوۡمُ	ﲌ	قوم	(the) people	qawmu
+9	22:42:7	w	نُوحٖ	ﲍ	نوح	(of) Nuh	nūḥin
+9	22:42:8	w	وَعَادٞ	ﲎ	وعاد	and Aad	waʿādun
+9	22:42:9	w	وَثَمُودُ	ﲏ	وثمود	and Thamud	wathamūdu
+9	22:42:10	e	٤٢	ﲐ			
+9	22:43:1	w	وَقَوۡمُ	ﲑ	وقوم	And (the) people	waqawmu
+9	22:43:2	w	إِبۡرَٰهِيمَ	ﲒ	ابراهيم	(of) Ibrahim	ib'rāhīma
+9	22:43:3	w	وَقَوۡمُ	ﲓ	وقوم	and (the) people	waqawmu
+10	22:43:4	w	لُوطٖ	ﲔ	لوط	(of) Lut	lūṭin
+10	22:43:5	e	٤٣	ﲕ			
+10	22:44:1	w	وَأَصۡحَٰبُ	ﲖ	واصحاب	And the inhabitants	wa-aṣḥābu
+10	22:44:2	w	مَدۡيَنَۖ	ﲗﲘ	مدين	(of) Madyan	madyana
+10	22:44:3	w	وَكُذِّبَ	ﲙ	وكذب	And Musa was denied	wakudhiba
+10	22:44:4	w	مُوسَىٰۖ	ﲚﲛ	موسى	And Musa was denied	mūsā
+10	22:44:5	w	فَأَمۡلَيۡتُ	ﲜ	فامليت	so I granted respite	fa-amlaytu
+10	22:44:6	w	لِلۡكَٰفِرِينَ	ﲝ	للكافرين	to the disbelievers	lil'kāfirīna
+11	22:44:7	w	ثُمَّ	ﲞ	ثم	then	thumma
+11	22:44:8	w	أَخَذۡتُهُمۡۖ	ﲟﲠ	اخذتهم	I seized them	akhadhtuhum
+11	22:44:9	w	فَكَيۡفَ	ﲡ	فكيف	and how	fakayfa
+11	22:44:10	w	كَانَ	ﲢ	كان	was	kāna
+11	22:44:11	w	نَكِيرِ	ﲣ	نكير	My punishment	nakīri
+11	22:44:12	e	٤٤	ﲤ			
+11	22:45:1	w	فَكَأَيِّن	ﲥ	فكاين	And how many	faka-ayyin
+11	22:45:2	w	مِّن	ﲦ	من	of	min
+11	22:45:3	w	قَرۡيَةٍ	ﲧ	قرية	a township	qaryatin
+12	22:45:4	w	أَهۡلَكۡنَٰهَا	ﲨ	اهلكناها	We have destroyed it	ahlaknāhā
+12	22:45:5	w	وَهِيَ	ﲩ	وهي	while it	wahiya
+12	22:45:6	w	ظَالِمَةٞ	ﲪ	ظالمة	was doing wrong	ẓālimatun
+12	22:45:7	w	فَهِيَ	ﲫ	فهي	so it	fahiya
+12	22:45:8	w	خَاوِيَةٌ	ﲬ	خاوية	fell	khāwiyatun
+12	22:45:9	w	عَلَىٰ	ﲭ	على	on	ʿalā
+12	22:45:10	w	عُرُوشِهَا	ﲮ	عروشها	its roofs	ʿurūshihā
+12	22:45:11	w	وَبِئۡرٖ	ﲯ	وبير	and well	wabi'rin
+13	22:45:12	w	مُّعَطَّلَةٖ	ﲰ	معطلة	abandoned	muʿaṭṭalatin
+13	22:45:13	w	وَقَصۡرٖ	ﲱ	وقصر	and castle	waqaṣrin
+13	22:45:14	w	مَّشِيدٍ	ﲲ	مشيد	lofty	mashīdin
+13	22:45:15	e	٤٥	ﲳ			
+13	22:46:1	w	أَفَلَمۡ	ﲴ	افلم	So have not	afalam
+13	22:46:2	w	يَسِيرُواْ	ﲵ	يسيروا	they traveled	yasīrū
+13	22:46:3	w	فِي	ﲶ	في	in	fī
+13	22:46:4	w	ٱلۡأَرۡضِ	ﲷ	الارض	the land	l-arḍi
+13	22:46:5	w	فَتَكُونَ	ﲸ	فتكون	and is	fatakūna
+14	22:46:6	w	لَهُمۡ	ﲹ	لهم	for them	lahum
+14	22:46:7	w	قُلُوبٞ	ﲺ	قلوب	hearts	qulūbun
+14	22:46:8	w	يَعۡقِلُونَ	ﲻ	يعقلون	(to) reason	yaʿqilūna
+14	22:46:9	w	بِهَآ	ﲼ	بها	with it	bihā
+14	22:46:10	w	أَوۡ	ﲽ	او	or	aw
+14	22:46:11	w	ءَاذَانٞ	ﲾ	اذان	ears	ādhānun
+14	22:46:12	w	يَسۡمَعُونَ	ﲿ	يسمعون	(to) hear	yasmaʿūna
+14	22:46:13	w	بِهَاۖ	ﳀﳁ	بها	with it	bihā
+14	22:46:14	w	فَإِنَّهَا	ﳂ	فانها	For indeed, [it]	fa-innahā
+15	22:46:15	w	لَا	ﳃ	لا	not	lā
+15	22:46:16	w	تَعۡمَى	ﳄ	تعمى	(are) blinded	taʿmā
+15	22:46:17	w	ٱلۡأَبۡصَٰرُ	ﳅ	الابصار	the eyes	l-abṣāru
+15	22:46:18	w	وَلَٰكِن	ﳆ	ولاكن	but	walākin
+15	22:46:19	w	تَعۡمَى	ﳇ	تعمى	(are) blinded	taʿmā
+15	22:46:20	w	ٱلۡقُلُوبُ	ﳈ	القلوب	the hearts	l-qulūbu
+15	22:46:21	w	ٱلَّتِي	ﳉ	التي	which	allatī
+15	22:46:22	w	فِي	ﳊ	في	(are) in	fī
+15	22:46:23	w	ٱلصُّدُورِ	ﳋ	الصدور	the breasts	l-ṣudūri
+15	22:46:24	e	٤٦	ﳌ			

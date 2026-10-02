@@ -1,0 +1,145 @@
+1	7:105:1	w	حَقِيقٌ	ﱁ	حقيق	Obligated	ḥaqīqun
+1	7:105:2	w	عَلَىٰٓ	ﱂ	على	on	ʿalā
+1	7:105:3	w	أَن	ﱃ	ان	that	an
+1	7:105:4	w	لَّآ	ﱄ	لا	not	lā
+1	7:105:5	w	أَقُولَ	ﱅ	اقول	I say	aqūla
+1	7:105:6	w	عَلَى	ﱆ	على	about	ʿalā
+1	7:105:7	w	ٱللَّهِ	ﱇ	الله	Allah	l-lahi
+1	7:105:8	w	إِلَّا	ﱈ	الا	except	illā
+1	7:105:9	w	ٱلۡحَقَّۚ	ﱉﱊ	الحق	the truth	l-ḥaqa
+1	7:105:10	w	قَدۡ	ﱋ	قد	Verily	qad
+1	7:105:11	w	جِئۡتُكُم	ﱌ	جيتكم	I (have) come to you	ji'tukum
+1	7:105:12	w	بِبَيِّنَةٖ	ﱍ	ببينة	with a clear Sign	bibayyinatin
+2	7:105:13	w	مِّن	ﱎ	من	from	min
+2	7:105:14	w	رَّبِّكُمۡ	ﱏ	ربكم	your Lord	rabbikum
+2	7:105:15	w	فَأَرۡسِلۡ	ﱐ	فارسل	so send	fa-arsil
+2	7:105:16	w	مَعِيَ	ﱑ	معي	with me	maʿiya
+2	7:105:17	w	بَنِيٓ	ﱒ	بني	(the) Children	banī
+2	7:105:18	w	إِسۡرَٰٓءِيلَ	ﱓ	اسراييل	(of) Israel	is'rāīla
+2	7:105:19	e	١٠٥	ﱔ			
+2	7:106:1	w	قَالَ	ﱕ	قال	He said	qāla
+2	7:106:2	w	إِن	ﱖ	ان	If	in
+2	7:106:3	w	كُنتَ	ﱗ	كنت	you have	kunta
+3	7:106:4	w	جِئۡتَ	ﱘ	جيت	come	ji'ta
+3	7:106:5	w	بِـَٔايَةٖ	ﱙ	باية	with a Sign	biāyatin
+3	7:106:6	w	فَأۡتِ	ﱚ	فات	then bring	fati
+3	7:106:7	w	بِهَآ	ﱛ	بها	it	bihā
+3	7:106:8	w	إِن	ﱜ	ان	if	in
+3	7:106:9	w	كُنتَ	ﱝ	كنت	you are	kunta
+3	7:106:10	w	مِنَ	ﱞ	من	of	mina
+3	7:106:11	w	ٱلصَّٰدِقِينَ	ﱟ	الصادقين	the truthful	l-ṣādiqīna
+3	7:106:12	e	١٠٦	ﱠ			
+3	7:107:1	w	فَأَلۡقَىٰ	ﱡ	فالقى	So he threw	fa-alqā
+4	7:107:2	w	عَصَاهُ	ﱢ	عصاه	his staff	ʿaṣāhu
+4	7:107:3	w	فَإِذَا	ﱣ	فاذا	and suddenly	fa-idhā
+4	7:107:4	w	هِيَ	ﱤ	هي	it	hiya
+4	7:107:5	w	ثُعۡبَانٞ	ﱥ	ثعبان	(was) a serpent	thuʿ'bānun
+4	7:107:6	w	مُّبِينٞ	ﱦ	مبين	manifest	mubīnun
+4	7:107:7	e	١٠٧	ﱧ			
+4	7:108:1	w	وَنَزَعَ	ﱨ	ونزع	And he drew out	wanazaʿa
+4	7:108:2	w	يَدَهُۥ	ﱩ	يده	his hand	yadahu
+4	7:108:3	w	فَإِذَا	ﱪ	فاذا	and suddenly	fa-idhā
+4	7:108:4	w	هِيَ	ﱫ	هي	it	hiya
+4	7:108:5	w	بَيۡضَآءُ	ﱬ	بيضاء	(was) white	bayḍāu
+5	7:108:6	w	لِلنَّٰظِرِينَ	ﱭ	للناظرين	for the observers	lilnnāẓirīna
+5	7:108:7	e	١٠٨	ﱮ			
+5	7:109:1	w	قَالَ	ﱯ	قال	Said	qāla
+5	7:109:2	w	ٱلۡمَلَأُ	ﱰ	الملا	the chiefs	l-mala-u
+5	7:109:3	w	مِن	ﱱ	من	of	min
+5	7:109:4	w	قَوۡمِ	ﱲ	قوم	(the) people	qawmi
+5	7:109:5	w	فِرۡعَوۡنَ	ﱳ	فرعون	(of) Firaun	fir'ʿawna
+5	7:109:6	w	إِنَّ	ﱴ	ان	Indeed	inna
+5	7:109:7	w	هَٰذَا	ﱵ	هاذا	this	hādhā
+5	7:109:8	w	لَسَٰحِرٌ	ﱶ	لساحر	(is) surely a magician	lasāḥirun
+6	7:109:9	w	عَلِيمٞ	ﱷ	عليم	learned	ʿalīmun
+6	7:109:10	e	١٠٩	ﱸ			
+6	7:110:1	w	يُرِيدُ	ﱹ	يريد	He wants	yurīdu
+6	7:110:2	w	أَن	ﱺ	ان	to	an
+6	7:110:3	w	يُخۡرِجَكُم	ﱻ	يخرجكم	drive you out	yukh'rijakum
+6	7:110:4	w	مِّنۡ	ﱼ	من	from	min
+6	7:110:5	w	أَرۡضِكُمۡۖ	ﱽﱾ	ارضكم	your land	arḍikum
+6	7:110:6	w	فَمَاذَا	ﱿ	فماذا	so what	famādhā
+6	7:110:7	w	تَأۡمُرُونَ	ﲀ	تامرون	(do) you instruct	tamurūna
+7	7:110:8	e	١١٠	ﲁ			
+7	7:111:1	w	قَالُوٓاْ	ﲂ	قالوا	They said	qālū
+7	7:111:2	w	أَرۡجِهۡ	ﲃ	ارجه	Postpone him	arjih
+7	7:111:3	w	وَأَخَاهُ	ﲄ	واخاه	and his brother	wa-akhāhu
+7	7:111:4	w	وَأَرۡسِلۡ	ﲅ	وارسل	and send	wa-arsil
+7	7:111:5	w	فِي	ﲆ	في	in	fī
+7	7:111:6	w	ٱلۡمَدَآئِنِ	ﲇ	المداين	the cities	l-madāini
+7	7:111:7	w	حَٰشِرِينَ	ﲈ	حاشرين	gatherers	ḥāshirīna
+7	7:111:8	e	١١١	ﲉ			
+7	7:112:1	w	يَأۡتُوكَ	ﲊ	ياتوك	They (will) bring to you	yatūka
+8	7:112:2	w	بِكُلِّ	ﲋ	بكل	[with] every	bikulli
+8	7:112:3	w	سَٰحِرٍ	ﲌ	ساحر	magician	sāḥirin
+8	7:112:4	w	عَلِيمٖ	ﲍ	عليم	learned	ʿalīmin
+8	7:112:5	e	١١٢	ﲎ			
+8	7:113:1	w	وَجَآءَ	ﲏ	وجاء	So came	wajāa
+8	7:113:2	w	ٱلسَّحَرَةُ	ﲐ	السحرة	the magicians	l-saḥaratu
+8	7:113:3	w	فِرۡعَوۡنَ	ﲑ	فرعون	(to) Firaun	fir'ʿawna
+8	7:113:4	w	قَالُوٓاْ	ﲒ	قالوا	They said	qālū
+8	7:113:5	w	إِنَّ	ﲓ	ان	Indeed	inna
+9	7:113:6	w	لَنَا	ﲔ	لنا	for us	lanā
+9	7:113:7	w	لَأَجۡرًا	ﲕ	لاجرا	surely (will be) a reward	la-ajran
+9	7:113:8	w	إِن	ﲖ	ان	if	in
+9	7:113:9	w	كُنَّا	ﲗ	كنا	we are	kunnā
+9	7:113:10	w	نَحۡنُ	ﲘ	نحن	[we]	naḥnu
+9	7:113:11	w	ٱلۡغَٰلِبِينَ	ﲙ	الغالبين	the victors	l-ghālibīna
+9	7:113:12	e	١١٣	ﲚ			
+9	7:114:1	w	قَالَ	ﲛ	قال	He said	qāla
+9	7:114:2	w	نَعَمۡ	ﲜ	نعم	Yes	naʿam
+9	7:114:3	w	وَإِنَّكُمۡ	ﲝ	وانكم	and indeed you	wa-innakum
+10	7:114:4	w	لَمِنَ	ﲞ	لمن	surely (will be) of	lamina
+10	7:114:5	w	ٱلۡمُقَرَّبِينَ	ﲟ	المقربين	the ones who are near	l-muqarabīna
+10	7:114:6	e	١١٤	ﲠ			
+10	7:115:1	w	قَالُواْ	ﲡ	قالوا	They said	qālū
+10	7:115:2	w	يَٰمُوسَىٰٓ	ﲢ	يا موسى	O Musa	yāmūsā
+10	7:115:3	w	إِمَّآ	ﲣ	اما	Whether	immā
+10	7:115:4	w	أَن	ﲤ	ان	[that]	an
+10	7:115:5	w	تُلۡقِيَ	ﲥ	تلقي	you throw	tul'qiya
+10	7:115:6	w	وَإِمَّآ	ﲦ	واما	or Whether	wa-immā
+10	7:115:7	w	أَن	ﲧ	ان	[that]	an
+11	7:115:8	w	نَّكُونَ	ﲨ	نكون	we will be	nakūna
+11	7:115:9	w	نَحۡنُ	ﲩ	نحن	[we]	naḥnu
+11	7:115:10	w	ٱلۡمُلۡقِينَ	ﲪ	الملقين	the ones to throw	l-mul'qīna
+11	7:115:11	e	١١٥	ﲫ			
+11	7:116:1	w	قَالَ	ﲬ	قال	He said	qāla
+11	7:116:2	w	أَلۡقُواْۖ	ﲭﲮ	القوا	Throw	alqū
+11	7:116:3	w	فَلَمَّآ	ﲯ	فلما	Then when	falammā
+11	7:116:4	w	أَلۡقَوۡاْ	ﲰ	القوا	they threw	alqaw
+11	7:116:5	w	سَحَرُوٓاْ	ﲱ	سحروا	they bewitched	saḥarū
+12	7:116:6	w	أَعۡيُنَ	ﲲ	اعين	(the) eyes	aʿyuna
+12	7:116:7	w	ٱلنَّاسِ	ﲳ	الناس	(of) the people	l-nāsi
+12	7:116:8	w	وَٱسۡتَرۡهَبُوهُمۡ	ﲴ	واسترهبوهم	and terrified them	wa-is'tarhabūhum
+12	7:116:9	w	وَجَآءُو	ﲵ	وجاءوا	and came (up)	wajāū
+12	7:116:10	w	بِسِحۡرٍ	ﲶ	بسحر	with a magic	bisiḥ'rin
+12	7:116:11	w	عَظِيمٖ	ﲷ	عظيم	great	ʿaẓīmin
+12	7:116:12	e	١١٦	ﲸ			
+13	7:117:1	w	۞ وَأَوۡحَيۡنَآ	ﲹ ﲺ	۞ واوحينا	And We inspired	wa-awḥaynā
+13	7:117:2	w	إِلَىٰ	ﲻ	الى	to	ilā
+13	7:117:3	w	مُوسَىٰٓ	ﲼ	موسى	Musa	mūsā
+13	7:117:4	w	أَنۡ	ﲽ	ان	that	an
+13	7:117:5	w	أَلۡقِ	ﲾ	الق	Throw	alqi
+13	7:117:6	w	عَصَاكَۖ	ﲿﳀ	عصاك	your staff	ʿaṣāka
+13	7:117:7	w	فَإِذَا	ﳁ	فاذا	and suddenly	fa-idhā
+13	7:117:8	w	هِيَ	ﳂ	هي	it	hiya
+13	7:117:9	w	تَلۡقَفُ	ﳃ	تلقف	swallow(ed)	talqafu
+13	7:117:10	w	مَا	ﳄ	ما	what	mā
+13	7:117:11	w	يَأۡفِكُونَ	ﳅ	يافكون	they (were) falsifying	yafikūna
+14	7:117:12	e	١١٧	ﳆ			
+14	7:118:1	w	فَوَقَعَ	ﳇ	فوقع	So was established	fawaqaʿa
+14	7:118:2	w	ٱلۡحَقُّ	ﳈ	الحق	the truth	l-ḥaqu
+14	7:118:3	w	وَبَطَلَ	ﳉ	وبطل	and became futile	wabaṭala
+14	7:118:4	w	مَا	ﳊ	ما	what	mā
+14	7:118:5	w	كَانُواْ	ﳋ	كانوا	they used to	kānū
+14	7:118:6	w	يَعۡمَلُونَ	ﳌ	يعملون	do	yaʿmalūna
+14	7:118:7	e	١١٨	ﳍ			
+14	7:119:1	w	فَغُلِبُواْ	ﳎ	فغلبوا	So they were defeated	faghulibū
+15	7:119:2	w	هُنَالِكَ	ﳏ	هنالك	there	hunālika
+15	7:119:3	w	وَٱنقَلَبُواْ	ﳐ	وانقلبوا	and returned	wa-inqalabū
+15	7:119:4	w	صَٰغِرِينَ	ﳑ	صاغرين	humiliated	ṣāghirīna
+15	7:119:5	e	١١٩	ﳒ			
+15	7:120:1	w	وَأُلۡقِيَ	ﳓ	والقي	And fell down	wa-ul'qiya
+15	7:120:2	w	ٱلسَّحَرَةُ	ﳔ	السحرة	the magicians	l-saḥaratu
+15	7:120:3	w	سَٰجِدِينَ	ﳕ	ساجدين	prostrate	sājidīna
+15	7:120:4	e	١٢٠	ﳖ			

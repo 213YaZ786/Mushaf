@@ -1,0 +1,143 @@
+1	15:52:1	w	إِذۡ	ﱁ	اذ	When	idh
+1	15:52:2	w	دَخَلُواْ	ﱂ	دخلوا	they entered	dakhalū
+1	15:52:3	w	عَلَيۡهِ	ﱃ	عليه	upon him	ʿalayhi
+1	15:52:4	w	فَقَالُواْ	ﱄ	فقالوا	and said	faqālū
+1	15:52:5	w	سَلَٰمٗا	ﱅ	سلاما	Peace	salāman
+1	15:52:6	w	قَالَ	ﱆ	قال	He said	qāla
+1	15:52:7	w	إِنَّا	ﱇ	انا	Indeed, we	innā
+1	15:52:8	w	مِنكُمۡ	ﱈ	منكم	(are) of you	minkum
+1	15:52:9	w	وَجِلُونَ	ﱉ	وجلون	afraid	wajilūna
+1	15:52:10	e	٥٢	ﱊ			
+1	15:53:1	w	قَالُواْ	ﱋ	قالوا	They said	qālū
+2	15:53:2	w	لَا	ﱌ	لا	(Do) not	lā
+2	15:53:3	w	تَوۡجَلۡ	ﱍ	توجل	be afraid	tawjal
+2	15:53:4	w	إِنَّا	ﱎ	انا	indeed, we	innā
+2	15:53:5	w	نُبَشِّرُكَ	ﱏ	نبشرك	[we] bring glad tidings to you	nubashiruka
+2	15:53:6	w	بِغُلَٰمٍ	ﱐ	بغلام	of a boy	bighulāmin
+2	15:53:7	w	عَلِيمٖ	ﱑ	عليم	learned	ʿalīmin
+2	15:53:8	e	٥٣	ﱒ			
+2	15:54:1	w	قَالَ	ﱓ	قال	He said	qāla
+2	15:54:2	w	أَبَشَّرۡتُمُونِي	ﱔ	ابشرتموني	Do you give me glad tidings	abashartumūnī
+2	15:54:3	w	عَلَىٰٓ	ﱕ	على	Do you give me glad tidings	ʿalā
+2	15:54:4	w	أَن	ﱖ	ان	although	an
+3	15:54:5	w	مَّسَّنِيَ	ﱗ	مسني	has overtaken me	massaniya
+3	15:54:6	w	ٱلۡكِبَرُ	ﱘ	الكبر	old age	l-kibaru
+3	15:54:7	w	فَبِمَ	ﱙ	فبم	Then about what	fabima
+3	15:54:8	w	تُبَشِّرُونَ	ﱚ	تبشرون	you give glad tidings	tubashirūna
+3	15:54:9	e	٥٤	ﱛ			
+3	15:55:1	w	قَالُواْ	ﱜ	قالوا	They said	qālū
+3	15:55:2	w	بَشَّرۡنَٰكَ	ﱝ	بشرناك	We give you glad tidings	basharnāka
+3	15:55:3	w	بِٱلۡحَقِّ	ﱞ	بالحق	in truth	bil-ḥaqi
+4	15:55:4	w	فَلَا	ﱟ	فلا	so (do) not	falā
+4	15:55:5	w	تَكُن	ﱠ	تكن	be	takun
+4	15:55:6	w	مِّنَ	ﱡ	من	of	mina
+4	15:55:7	w	ٱلۡقَٰنِطِينَ	ﱢ	القانطين	the despairing	l-qāniṭīna
+4	15:55:8	e	٥٥	ﱣ			
+4	15:56:1	w	قَالَ	ﱤ	قال	He said	qāla
+4	15:56:2	w	وَمَن	ﱥ	ومن	And who	waman
+4	15:56:3	w	يَقۡنَطُ	ﱦ	يقنط	despairs	yaqnaṭu
+4	15:56:4	w	مِن	ﱧ	من	of	min
+4	15:56:5	w	رَّحۡمَةِ	ﱨ	رحمة	(the) Mercy	raḥmati
+5	15:56:6	w	رَبِّهِۦٓ	ﱩ	ربه	(of) his Lord	rabbihi
+5	15:56:7	w	إِلَّا	ﱪ	الا	except	illā
+5	15:56:8	w	ٱلضَّآلُّونَ	ﱫ	الضالون	those who are astray	l-ḍālūna
+5	15:56:9	e	٥٦	ﱬ			
+5	15:57:1	w	قَالَ	ﱭ	قال	He said	qāla
+5	15:57:2	w	فَمَا	ﱮ	فما	Then what	famā
+5	15:57:3	w	خَطۡبُكُمۡ	ﱯ	خطبكم	(is) your business	khaṭbukum
+5	15:57:4	w	أَيُّهَا	ﱰ	ايها	O messengers	ayyuhā
+5	15:57:5	w	ٱلۡمُرۡسَلُونَ	ﱱ	المرسلون	O messengers	l-mur'salūna
+6	15:57:6	e	٥٧	ﱲ			
+6	15:58:1	w	قَالُوٓاْ	ﱳ	قالوا	They said	qālū
+6	15:58:2	w	إِنَّآ	ﱴ	انا	Indeed, we	innā
+6	15:58:3	w	أُرۡسِلۡنَآ	ﱵ	ارسلنا	[we] have been sent	ur'sil'nā
+6	15:58:4	w	إِلَىٰ	ﱶ	الى	to	ilā
+6	15:58:5	w	قَوۡمٖ	ﱷ	قوم	a people	qawmin
+6	15:58:6	w	مُّجۡرِمِينَ	ﱸ	مجرمين	criminals	muj'rimīna
+6	15:58:7	e	٥٨	ﱹ			
+6	15:59:1	w	إِلَّآ	ﱺ	الا	Except	illā
+6	15:59:2	w	ءَالَ	ﱻ	ال	the family	āla
+6	15:59:3	w	لُوطٍ	ﱼ	لوط	of Lut	lūṭin
+7	15:59:4	w	إِنَّا	ﱽ	انا	indeed, we	innā
+7	15:59:5	w	لَمُنَجُّوهُمۡ	ﱾ	لمنجوهم	surely will save them	lamunajjūhum
+7	15:59:6	w	أَجۡمَعِينَ	ﱿ	اجمعين	all	ajmaʿīna
+7	15:59:7	e	٥٩	ﲀ			
+7	15:60:1	w	إِلَّا	ﲁ	الا	Except	illā
+7	15:60:2	w	ٱمۡرَأَتَهُۥ	ﲂ	امراته	his wife	im'ra-atahu
+7	15:60:3	w	قَدَّرۡنَآ	ﲃ	قدرنا	We have decreed	qaddarnā
+7	15:60:4	w	إِنَّهَا	ﲄ	انها	that she	innahā
+7	15:60:5	w	لَمِنَ	ﲅ	لمن	(is) surely of	lamina
+8	15:60:6	w	ٱلۡغَٰبِرِينَ	ﲆ	الغابرين	those who remain behind	l-ghābirīna
+8	15:60:7	e	٦٠	ﲇ			
+8	15:61:1	w	فَلَمَّا	ﲈ	فلما	And when	falammā
+8	15:61:2	w	جَآءَ	ﲉ	جاء	came	jāa
+8	15:61:3	w	ءَالَ	ﲊ	ال	(to the) family	āla
+8	15:61:4	w	لُوطٍ	ﲋ	لوط	(of) Lut	lūṭin
+8	15:61:5	w	ٱلۡمُرۡسَلُونَ	ﲌ	المرسلون	the messengers	l-mur'salūna
+8	15:61:6	e	٦١	ﲍ			
+8	15:62:1	w	قَالَ	ﲎ	قال	He said	qāla
+9	15:62:2	w	إِنَّكُمۡ	ﲏ	انكم	Indeed, you	innakum
+9	15:62:3	w	قَوۡمٞ	ﲐ	قوم	(are) a people	qawmun
+9	15:62:4	w	مُّنكَرُونَ	ﲑ	منكرون	unknown	munkarūna
+9	15:62:5	e	٦٢	ﲒ			
+9	15:63:1	w	قَالُواْ	ﲓ	قالوا	They said	qālū
+9	15:63:2	w	بَلۡ	ﲔ	بل	Nay	bal
+9	15:63:3	w	جِئۡنَٰكَ	ﲕ	جيناك	we have come to you	ji'nāka
+9	15:63:4	w	بِمَا	ﲖ	بما	with what	bimā
+9	15:63:5	w	كَانُواْ	ﲗ	كانوا	they were	kānū
+9	15:63:6	w	فِيهِ	ﲘ	فيه	in it	fīhi
+10	15:63:7	w	يَمۡتَرُونَ	ﲙ	يمترون	disputing	yamtarūna
+10	15:63:8	e	٦٣	ﲚ			
+10	15:64:1	w	وَأَتَيۡنَٰكَ	ﲛ	واتيناك	And we have come to you	wa-ataynāka
+10	15:64:2	w	بِٱلۡحَقِّ	ﲜ	بالحق	with the truth	bil-ḥaqi
+10	15:64:3	w	وَإِنَّا	ﲝ	وانا	and indeed, we	wa-innā
+10	15:64:4	w	لَصَٰدِقُونَ	ﲞ	لصادقون	surely (are) truthful	laṣādiqūna
+10	15:64:5	e	٦٤	ﲟ			
+10	15:65:1	w	فَأَسۡرِ	ﲠ	فاسر	So travel	fa-asri
+11	15:65:2	w	بِأَهۡلِكَ	ﲡ	باهلك	with your family	bi-ahlika
+11	15:65:3	w	بِقِطۡعٖ	ﲢ	بقطع	in a portion	biqiṭ'ʿin
+11	15:65:4	w	مِّنَ	ﲣ	من	of	mina
+11	15:65:5	w	ٱلَّيۡلِ	ﲤ	الليل	the night	al-layli
+11	15:65:6	w	وَٱتَّبِعۡ	ﲥ	واتبع	and follow	wa-ittabiʿ
+11	15:65:7	w	أَدۡبَٰرَهُمۡ	ﲦ	ادبارهم	their backs	adbārahum
+11	15:65:8	w	وَلَا	ﲧ	ولا	and not	walā
+11	15:65:9	w	يَلۡتَفِتۡ	ﲨ	يلتفت	let look back	yaltafit
+11	15:65:10	w	مِنكُمۡ	ﲩ	منكم	among you	minkum
+11	15:65:11	w	أَحَدٞ	ﲪ	احد	anyone	aḥadun
+12	15:65:12	w	وَٱمۡضُواْ	ﲫ	وامضوا	and go on	wa-im'ḍū
+12	15:65:13	w	حَيۡثُ	ﲬ	حيث	where	ḥaythu
+12	15:65:14	w	تُؤۡمَرُونَ	ﲭ	تومرون	you are ordered	tu'marūna
+12	15:65:15	e	٦٥	ﲮ			
+12	15:66:1	w	وَقَضَيۡنَآ	ﲯ	وقضينا	And We conveyed	waqaḍaynā
+12	15:66:2	w	إِلَيۡهِ	ﲰ	اليه	to him	ilayhi
+12	15:66:3	w	ذَٰلِكَ	ﲱ	ذالك	[that]	dhālika
+12	15:66:4	w	ٱلۡأَمۡرَ	ﲲ	الامر	the matter	l-amra
+12	15:66:5	w	أَنَّ	ﲳ	ان	that	anna
+13	15:66:6	w	دَابِرَ	ﲴ	دابر	(the) root	dābira
+13	15:66:7	w	هَٰٓؤُلَآءِ	ﲵ	هاولاء	(of) these	hāulāi
+13	15:66:8	w	مَقۡطُوعٞ	ﲶ	مقطوع	would be cut off	maqṭūʿun
+13	15:66:9	w	مُّصۡبِحِينَ	ﲷ	مصبحين	(by) early morning	muṣ'biḥīna
+13	15:66:10	e	٦٦	ﲸ			
+13	15:67:1	w	وَجَآءَ	ﲹ	وجاء	And came	wajāa
+13	15:67:2	w	أَهۡلُ	ﲺ	اهل	(the) people	ahlu
+13	15:67:3	w	ٱلۡمَدِينَةِ	ﲻ	المدينة	(of) the city	l-madīnati
+14	15:67:4	w	يَسۡتَبۡشِرُونَ	ﲼ	يستبشرون	rejoicing	yastabshirūna
+14	15:67:5	e	٦٧	ﲽ			
+14	15:68:1	w	قَالَ	ﲾ	قال	He said	qāla
+14	15:68:2	w	إِنَّ	ﲿ	ان	Indeed	inna
+14	15:68:3	w	هَٰٓؤُلَآءِ	ﳀ	هاولاء	these	hāulāi
+14	15:68:4	w	ضَيۡفِي	ﳁ	ضيفي	(are) my guests	ḍayfī
+14	15:68:5	w	فَلَا	ﳂ	فلا	so (do) not	falā
+14	15:68:6	w	تَفۡضَحُونِ	ﳃ	تفضحون	shame me	tafḍaḥūni
+14	15:68:7	e	٦٨	ﳄ			
+15	15:69:1	w	وَٱتَّقُواْ	ﳅ	واتقوا	And fear	wa-ittaqū
+15	15:69:2	w	ٱللَّهَ	ﳆ	الله	Allah	l-laha
+15	15:69:3	w	وَلَا	ﳇ	ولا	and (do) not	walā
+15	15:69:4	w	تُخۡزُونِ	ﳈ	تخزون	disgrace me	tukh'zūni
+15	15:69:5	e	٦٩	ﳉ			
+15	15:70:1	w	قَالُوٓاْ	ﳊ	قالوا	They said	qālū
+15	15:70:2	w	أَوَلَمۡ	ﳋ	اولم	Did not	awalam
+15	15:70:3	w	نَنۡهَكَ	ﳌ	ننهك	we forbid you	nanhaka
+15	15:70:4	w	عَنِ	ﳍ	عن	from	ʿani
+15	15:70:5	w	ٱلۡعَٰلَمِينَ	ﳎ	العالمين	the world	l-ʿālamīna
+15	15:70:6	e	٧٠	ﳏ			

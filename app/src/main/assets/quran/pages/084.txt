@@ -1,0 +1,113 @@
+1	4:34:1	w	ٱلرِّجَالُ	ﱁ	الرجال	[The] men	al-rijālu
+1	4:34:2	w	قَوَّٰمُونَ	ﱂ	قوامون	(are) protectors	qawwāmūna
+1	4:34:3	w	عَلَى	ﱃ	على	of	ʿalā
+1	4:34:4	w	ٱلنِّسَآءِ	ﱄ	النساء	the women	l-nisāi
+1	4:34:5	w	بِمَا	ﱅ	بما	because	bimā
+1	4:34:6	w	فَضَّلَ	ﱆ	فضل	(has) bestowed	faḍḍala
+1	4:34:7	w	ٱللَّهُ	ﱇ	الله	Allah	l-lahu
+1	4:34:8	w	بَعۡضَهُمۡ	ﱈ	بعضهم	some of them	baʿḍahum
+1	4:34:9	w	عَلَىٰ	ﱉ	على	over	ʿalā
+2	4:34:10	w	بَعۡضٖ	ﱊ	بعض	others	baʿḍin
+2	4:34:11	w	وَبِمَآ	ﱋ	وبما	and because	wabimā
+2	4:34:12	w	أَنفَقُواْ	ﱌ	انفقوا	they spend	anfaqū
+2	4:34:13	w	مِنۡ	ﱍ	من	from	min
+2	4:34:14	w	أَمۡوَٰلِهِمۡۚ	ﱎﱏ	اموالهم	their wealth	amwālihim
+2	4:34:15	w	فَٱلصَّٰلِحَٰتُ	ﱐ	فالصالحات	So the righteous women	fal-ṣāliḥātu
+2	4:34:16	w	قَٰنِتَٰتٌ	ﱑ	قانتات	(are) obedient	qānitātun
+3	4:34:17	w	حَٰفِظَٰتٞ	ﱒ	حافظات	guarding	ḥāfiẓātun
+3	4:34:18	w	لِّلۡغَيۡبِ	ﱓ	للغيب	in the unseen	lil'ghaybi
+3	4:34:19	w	بِمَا	ﱔ	بما	that which	bimā
+3	4:34:20	w	حَفِظَ	ﱕ	حفظ	(orders) them to guard	ḥafiẓa
+3	4:34:21	w	ٱللَّهُۚ	ﱖﱗ	الله	(by) Allah	l-lahu
+3	4:34:22	w	وَٱلَّٰتِي	ﱘ	واللاتي	And those (from) whom	wa-allātī
+3	4:34:23	w	تَخَافُونَ	ﱙ	تخافون	you fear	takhāfūna
+4	4:34:24	w	نُشُوزَهُنَّ	ﱚ	نشوزهن	their ill-conduct	nushūzahunna
+4	4:34:25	w	فَعِظُوهُنَّ	ﱛ	فعظوهن	then advise them	faʿiẓūhunna
+4	4:34:26	w	وَٱهۡجُرُوهُنَّ	ﱜ	واهجروهن	and forsake them	wa-uh'jurūhunna
+4	4:34:27	w	فِي	ﱝ	في	in	fī
+4	4:34:28	w	ٱلۡمَضَاجِعِ	ﱞ	المضاجع	the bed	l-maḍājiʿi
+5	4:34:29	w	وَٱضۡرِبُوهُنَّۖ	ﱟﱠ	واضربوهن	and [finally] strike them	wa-iḍ'ribūhunna
+5	4:34:30	w	فَإِنۡ	ﱡ	فان	Then if	fa-in
+5	4:34:31	w	أَطَعۡنَكُمۡ	ﱢ	اطعنكم	they obey you	aṭaʿnakum
+5	4:34:32	w	فَلَا	ﱣ	فلا	then (do) not	falā
+5	4:34:33	w	تَبۡغُواْ	ﱤ	تبغوا	seek	tabghū
+5	4:34:34	w	عَلَيۡهِنَّ	ﱥ	عليهن	against them	ʿalayhinna
+5	4:34:35	w	سَبِيلًاۗ	ﱦﱧ	سبيلا	a way	sabīlan
+6	4:34:36	w	إِنَّ	ﱨ	ان	Indeed	inna
+6	4:34:37	w	ٱللَّهَ	ﱩ	الله	Allah	l-laha
+6	4:34:38	w	كَانَ	ﱪ	كان	is	kāna
+6	4:34:39	w	عَلِيّٗا	ﱫ	عليا	Most High	ʿaliyyan
+6	4:34:40	w	كَبِيرٗا	ﱬ	كبيرا	Most Great	kabīran
+6	4:34:41	e	٣٤	ﱭ			
+6	4:35:1	w	وَإِنۡ	ﱮ	وان	And if	wa-in
+6	4:35:2	w	خِفۡتُمۡ	ﱯ	خفتم	you fear	khif'tum
+6	4:35:3	w	شِقَاقَ	ﱰ	شقاق	a dissension	shiqāqa
+6	4:35:4	w	بَيۡنِهِمَا	ﱱ	بينهما	between (the) two of them	baynihimā
+7	4:35:5	w	فَٱبۡعَثُواْ	ﱲ	فابعثوا	then send	fa-ib'ʿathū
+7	4:35:6	w	حَكَمٗا	ﱳ	حكما	an arbitrator	ḥakaman
+7	4:35:7	w	مِّنۡ	ﱴ	من	from	min
+7	4:35:8	w	أَهۡلِهِۦ	ﱵ	اهله	his family	ahlihi
+7	4:35:9	w	وَحَكَمٗا	ﱶ	وحكما	and an arbitrator	waḥakaman
+7	4:35:10	w	مِّنۡ	ﱷ	من	from	min
+7	4:35:11	w	أَهۡلِهَآ	ﱸ	اهلها	her family	ahlihā
+7	4:35:12	w	إِن	ﱹ	ان	If	in
+8	4:35:13	w	يُرِيدَآ	ﱺ	يريدا	they both wish	yurīdā
+8	4:35:14	w	إِصۡلَٰحٗا	ﱻ	اصلاحا	reconciliation	iṣ'lāḥan
+8	4:35:15	w	يُوَفِّقِ	ﱼ	يوفق	will cause reconciliation	yuwaffiqi
+8	4:35:16	w	ٱللَّهُ	ﱽ	الله	Allah	l-lahu
+8	4:35:17	w	بَيۡنَهُمَآۗ	ﱾﱿ	بينهما	between both of them	baynahumā
+8	4:35:18	w	إِنَّ	ﲀ	ان	Indeed	inna
+8	4:35:19	w	ٱللَّهَ	ﲁ	الله	Allah	l-laha
+8	4:35:20	w	كَانَ	ﲂ	كان	is	kāna
+8	4:35:21	w	عَلِيمًا	ﲃ	عليما	All-Knower	ʿalīman
+9	4:35:22	w	خَبِيرٗا	ﲄ	خبيرا	All-Aware	khabīran
+9	4:35:23	e	٣٥	ﲅ			
+9	4:36:1	w	۞ وَٱعۡبُدُواْ	ﲆ ﲇ	۞ واعبدوا	And worship	wa-uʿ'budū
+9	4:36:2	w	ٱللَّهَ	ﲈ	الله	Allah	l-laha
+9	4:36:3	w	وَلَا	ﲉ	ولا	And (do) not	walā
+9	4:36:4	w	تُشۡرِكُواْ	ﲊ	تشركوا	associate	tush'rikū
+9	4:36:5	w	بِهِۦ	ﲋ	به	with Him	bihi
+9	4:36:6	w	شَيۡـٔٗاۖ	ﲌﲍ	شييا	anything	shayan
+10	4:36:7	w	وَبِٱلۡوَٰلِدَيۡنِ	ﲎ	وبالوالدين	and to the parents	wabil-wālidayni
+10	4:36:8	w	إِحۡسَٰنٗا	ﲏ	احسانا	(do) good	iḥ'sānan
+10	4:36:9	w	وَبِذِي	ﲐ	وبذي	and with	wabidhī
+10	4:36:10	w	ٱلۡقُرۡبَىٰ	ﲑ	القربى	the relatives	l-qur'bā
+10	4:36:11	w	وَٱلۡيَتَٰمَىٰ	ﲒ	واليتامى	and the orphans	wal-yatāmā
+10	4:36:12	w	وَٱلۡمَسَٰكِينِ	ﲓ	والمساكين	and the needy	wal-masākīni
+11	4:36:13	w	وَٱلۡجَارِ	ﲔ	والجار	and the neighbor	wal-jāri
+11	4:36:14	w	ذِي	ﲕ	ذي	(who is)	dhī
+11	4:36:15	w	ٱلۡقُرۡبَىٰ	ﲖ	القربى	near	l-qur'bā
+11	4:36:16	w	وَٱلۡجَارِ	ﲗ	والجار	and the neighbor	wal-jāri
+11	4:36:17	w	ٱلۡجُنُبِ	ﲘ	الجنب	(who is) farther away	l-junubi
+11	4:36:18	w	وَٱلصَّاحِبِ	ﲙ	والصاحب	and the companion	wal-ṣāḥibi
+11	4:36:19	w	بِٱلۡجَنۢبِ	ﲚ	بالجنب	by your side	bil-janbi
+12	4:36:20	w	وَٱبۡنِ	ﲛ	وابن	and the	wa-ib'ni
+12	4:36:21	w	ٱلسَّبِيلِ	ﲜ	السبيل	traveler	l-sabīli
+12	4:36:22	w	وَمَا	ﲝ	وما	and what	wamā
+12	4:36:23	w	مَلَكَتۡ	ﲞ	ملكت	possess[ed]	malakat
+12	4:36:24	w	أَيۡمَٰنُكُمۡۗ	ﲟﲠ	ايمانكم	your right hands	aymānukum
+12	4:36:25	w	إِنَّ	ﲡ	ان	Indeed	inna
+12	4:36:26	w	ٱللَّهَ	ﲢ	الله	Allah	l-laha
+13	4:36:27	w	لَا	ﲣ	لا	(does) not	lā
+13	4:36:28	w	يُحِبُّ	ﲤ	يحب	love	yuḥibbu
+13	4:36:29	w	مَن	ﲥ	من	(the one) who	man
+13	4:36:30	w	كَانَ	ﲦ	كان	is	kāna
+13	4:36:31	w	مُخۡتَالٗا	ﲧ	مختالا	[a] proud	mukh'tālan
+13	4:36:32	w	فَخُورًا	ﲨ	فخورا	(and) [a] boastful	fakhūran
+13	4:36:33	e	٣٦	ﲩ			
+13	4:37:1	w	ٱلَّذِينَ	ﲪ	الذين	Those who	alladhīna
+13	4:37:2	w	يَبۡخَلُونَ	ﲫ	يبخلون	are stingy	yabkhalūna
+14	4:37:3	w	وَيَأۡمُرُونَ	ﲬ	ويامرون	and order	wayamurūna
+14	4:37:4	w	ٱلنَّاسَ	ﲭ	الناس	the people	l-nāsa
+14	4:37:5	w	بِٱلۡبُخۡلِ	ﲮ	بالبخل	[of] stinginess	bil-bukh'li
+14	4:37:6	w	وَيَكۡتُمُونَ	ﲯ	ويكتمون	and hide	wayaktumūna
+14	4:37:7	w	مَآ	ﲰ	ما	what	mā
+14	4:37:8	w	ءَاتَىٰهُمُ	ﲱ	اتاهم	(has) given them	ātāhumu
+15	4:37:9	w	ٱللَّهُ	ﲲ	الله	Allah	l-lahu
+15	4:37:10	w	مِن	ﲳ	من	of	min
+15	4:37:11	w	فَضۡلِهِۦۗ	ﲴﲵ	فضله	His Bounty	faḍlihi
+15	4:37:12	w	وَأَعۡتَدۡنَا	ﲶ	واعتدنا	and We (have) prepared	wa-aʿtadnā
+15	4:37:13	w	لِلۡكَٰفِرِينَ	ﲷ	للكافرين	for the disbelievers	lil'kāfirīna
+15	4:37:14	w	عَذَابٗا	ﲸ	عذابا	a punishment	ʿadhāban
+15	4:37:15	w	مُّهِينٗا	ﲹ	مهينا	humiliating	muhīnan
+15	4:37:16	e	٣٧	ﲺ			

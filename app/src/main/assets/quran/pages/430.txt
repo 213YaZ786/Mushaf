@@ -1,0 +1,145 @@
+1	34:15:1	w	لَقَدۡ	ﱁ	لقد	Certainly	laqad
+1	34:15:2	w	كَانَ	ﱂ	كان	(there) was	kāna
+1	34:15:3	w	لِسَبَإٖ	ﱃ	لسبا	for Saba	lisaba-in
+1	34:15:4	w	فِي	ﱄ	في	in	fī
+1	34:15:5	w	مَسۡكَنِهِمۡ	ﱅ	مسكنهم	their dwelling place	maskanihim
+1	34:15:6	w	ءَايَةٞۖ	ﱆﱇ	اية	a sign:	āyatun
+1	34:15:7	w	جَنَّتَانِ	ﱈ	جنتان	Two gardens	jannatāni
+1	34:15:8	w	عَن	ﱉ	عن	on	ʿan
+1	34:15:9	w	يَمِينٖ	ﱊ	يمين	(the) right	yamīnin
+1	34:15:10	w	وَشِمَالٖۖ	ﱋﱌ	وشمال	and (on the) left	washimālin
+2	34:15:11	w	كُلُواْ	ﱍ	كلوا	Eat	kulū
+2	34:15:12	w	مِن	ﱎ	من	from	min
+2	34:15:13	w	رِّزۡقِ	ﱏ	رزق	(the) provision	riz'qi
+2	34:15:14	w	رَبِّكُمۡ	ﱐ	ربكم	(of) your Lord	rabbikum
+2	34:15:15	w	وَٱشۡكُرُواْ	ﱑ	واشكروا	and be grateful	wa-ush'kurū
+2	34:15:16	w	لَهُۥۚ	ﱒﱓ	له	to Him	lahu
+2	34:15:17	w	بَلۡدَةٞ	ﱔ	بلدة	A land	baldatun
+2	34:15:18	w	طَيِّبَةٞ	ﱕ	طيبة	good	ṭayyibatun
+2	34:15:19	w	وَرَبٌّ	ﱖ	ورب	and a Lord	warabbun
+2	34:15:20	w	غَفُورٞ	ﱗ	غفور	Oft-Forgiving	ghafūrun
+3	34:15:21	e	١٥	ﱘ			
+3	34:16:1	w	فَأَعۡرَضُواْ	ﱙ	فاعرضوا	But they turned away	fa-aʿraḍū
+3	34:16:2	w	فَأَرۡسَلۡنَا	ﱚ	فارسلنا	so We sent	fa-arsalnā
+3	34:16:3	w	عَلَيۡهِمۡ	ﱛ	عليهم	upon them	ʿalayhim
+3	34:16:4	w	سَيۡلَ	ﱜ	سيل	(the) flood	sayla
+3	34:16:5	w	ٱلۡعَرِمِ	ﱝ	العرم	(of) the dam	l-ʿarimi
+3	34:16:6	w	وَبَدَّلۡنَٰهُم	ﱞ	وبدلناهم	and We changed for them	wabaddalnāhum
+3	34:16:7	w	بِجَنَّتَيۡهِمۡ	ﱟ	بجنتيهم	their two gardens	bijannatayhim
+4	34:16:8	w	جَنَّتَيۡنِ	ﱠ	جنتين	(with) two gardens	jannatayni
+4	34:16:9	w	ذَوَاتَيۡ	ﱡ	ذواتي	producing fruit	dhawātay
+4	34:16:10	w	أُكُلٍ	ﱢ	اكل	producing fruit	ukulin
+4	34:16:11	w	خَمۡطٖ	ﱣ	خمط	bitter	khamṭin
+4	34:16:12	w	وَأَثۡلٖ	ﱤ	واثل	and tamarisks	wa-athlin
+4	34:16:13	w	وَشَيۡءٖ	ﱥ	وشيء	and (some)thing	washayin
+4	34:16:14	w	مِّن	ﱦ	من	of	min
+4	34:16:15	w	سِدۡرٖ	ﱧ	سدر	lote trees	sid'rin
+4	34:16:16	w	قَلِيلٖ	ﱨ	قليل	few	qalīlin
+5	34:16:17	e	١٦	ﱩ			
+5	34:17:1	w	ذَٰلِكَ	ﱪ	ذالك	That	dhālika
+5	34:17:2	w	جَزَيۡنَٰهُم	ﱫ	جزيناهم	We recompensed them	jazaynāhum
+5	34:17:3	w	بِمَا	ﱬ	بما	because	bimā
+5	34:17:4	w	كَفَرُواْۖ	ﱭﱮ	كفروا	they disbelieved	kafarū
+5	34:17:5	w	وَهَلۡ	ﱯ	وهل	And not	wahal
+5	34:17:6	w	نُجَٰزِيٓ	ﱰ	نجازي	We recompense	nujāzī
+5	34:17:7	w	إِلَّا	ﱱ	الا	except	illā
+5	34:17:8	w	ٱلۡكَفُورَ	ﱲ	الكفور	the ungrateful	l-kafūra
+5	34:17:9	e	١٧	ﱳ			
+6	34:18:1	w	وَجَعَلۡنَا	ﱴ	وجعلنا	And We made	wajaʿalnā
+6	34:18:2	w	بَيۡنَهُمۡ	ﱵ	بينهم	between them	baynahum
+6	34:18:3	w	وَبَيۡنَ	ﱶ	وبين	and between	wabayna
+6	34:18:4	w	ٱلۡقُرَى	ﱷ	القرى	the towns	l-qurā
+6	34:18:5	w	ٱلَّتِي	ﱸ	التي	which	allatī
+6	34:18:6	w	بَٰرَكۡنَا	ﱹ	باركنا	We had blessed	bāraknā
+6	34:18:7	w	فِيهَا	ﱺ	فيها	in it	fīhā
+6	34:18:8	w	قُرٗى	ﱻ	قرى	towns	quran
+6	34:18:9	w	ظَٰهِرَةٗ	ﱼ	ظاهرة	visible	ẓāhiratan
+7	34:18:10	w	وَقَدَّرۡنَا	ﱽ	وقدرنا	And We determined	waqaddarnā
+7	34:18:11	w	فِيهَا	ﱾ	فيها	between them	fīhā
+7	34:18:12	w	ٱلسَّيۡرَۖ	ﱿﲀ	السير	the journey	l-sayra
+7	34:18:13	w	سِيرُواْ	ﲁ	سيروا	Travel	sīrū
+7	34:18:14	w	فِيهَا	ﲂ	فيها	between them	fīhā
+7	34:18:15	w	لَيَالِيَ	ﲃ	ليالي	(by) night	layāliya
+7	34:18:16	w	وَأَيَّامًا	ﲄ	واياما	and (by) day	wa-ayyāman
+7	34:18:17	w	ءَامِنِينَ	ﲅ	امنين	safely	āminīna
+7	34:18:18	e	١٨	ﲆ			
+8	34:19:1	w	فَقَالُواْ	ﲇ	فقالوا	But they said	faqālū
+8	34:19:2	w	رَبَّنَا	ﲈ	ربنا	Our Lord	rabbanā
+8	34:19:3	w	بَٰعِدۡ	ﲉ	باعد	lengthen (the distance)	bāʿid
+8	34:19:4	w	بَيۡنَ	ﲊ	بين	between	bayna
+8	34:19:5	w	أَسۡفَارِنَا	ﲋ	اسفارنا	our journeys	asfārinā
+8	34:19:6	w	وَظَلَمُوٓاْ	ﲌ	وظلموا	And they wronged	waẓalamū
+8	34:19:7	w	أَنفُسَهُمۡ	ﲍ	انفسهم	themselves	anfusahum
+8	34:19:8	w	فَجَعَلۡنَٰهُمۡ	ﲎ	فجعلناهم	so We made them	fajaʿalnāhum
+9	34:19:9	w	أَحَادِيثَ	ﲏ	احاديث	narrations	aḥādītha
+9	34:19:10	w	وَمَزَّقۡنَٰهُمۡ	ﲐ	ومزقناهم	and We dispersed them	wamazzaqnāhum
+9	34:19:11	w	كُلَّ	ﲑ	كل	(in) a total	kulla
+9	34:19:12	w	مُمَزَّقٍۚ	ﲒﲓ	ممزق	dispersion	mumazzaqin
+9	34:19:13	w	إِنَّ	ﲔ	ان	Indeed	inna
+9	34:19:14	w	فِي	ﲕ	في	in	fī
+9	34:19:15	w	ذَٰلِكَ	ﲖ	ذالك	that	dhālika
+9	34:19:16	w	لَأٓيَٰتٖ	ﲗ	لايات	surely (are) Signs	laāyātin
+9	34:19:17	w	لِّكُلِّ	ﲘ	لكل	for everyone	likulli
+9	34:19:18	w	صَبَّارٖ	ﲙ	صبار	patient	ṣabbārin
+10	34:19:19	w	شَكُورٖ	ﲚ	شكور	(and) grateful	shakūrin
+10	34:19:20	e	١٩	ﲛ			
+10	34:20:1	w	وَلَقَدۡ	ﲜ	ولقد	And certainly	walaqad
+10	34:20:2	w	صَدَّقَ	ﲝ	صدق	found true	ṣaddaqa
+10	34:20:3	w	عَلَيۡهِمۡ	ﲞ	عليهم	about them	ʿalayhim
+10	34:20:4	w	إِبۡلِيسُ	ﲟ	ابليس	Iblis	ib'līsu
+10	34:20:5	w	ظَنَّهُۥ	ﲠ	ظنه	his assumption	ẓannahu
+10	34:20:6	w	فَٱتَّبَعُوهُ	ﲡ	فاتبعوه	so they followed him	fa-ittabaʿūhu
+10	34:20:7	w	إِلَّا	ﲢ	الا	except	illā
+11	34:20:8	w	فَرِيقٗا	ﲣ	فريقا	a group	farīqan
+11	34:20:9	w	مِّنَ	ﲤ	من	of	mina
+11	34:20:10	w	ٱلۡمُؤۡمِنِينَ	ﲥ	المومنين	the believers	l-mu'minīna
+11	34:20:11	e	٢٠	ﲦ			
+11	34:21:1	w	وَمَا	ﲧ	وما	And not	wamā
+11	34:21:2	w	كَانَ	ﲨ	كان	was	kāna
+11	34:21:3	w	لَهُۥ	ﲩ	له	for him	lahu
+11	34:21:4	w	عَلَيۡهِم	ﲪ	عليهم	over them	ʿalayhim
+11	34:21:5	w	مِّن	ﲫ	من	any	min
+11	34:21:6	w	سُلۡطَٰنٍ	ﲬ	سلطان	authority	sul'ṭānin
+12	34:21:7	w	إِلَّا	ﲭ	الا	except	illā
+12	34:21:8	w	لِنَعۡلَمَ	ﲮ	لنعلم	that We (might) make evident	linaʿlama
+12	34:21:9	w	مَن	ﲯ	من	who	man
+12	34:21:10	w	يُؤۡمِنُ	ﲰ	يومن	believes	yu'minu
+12	34:21:11	w	بِٱلۡأٓخِرَةِ	ﲱ	بالاخرة	in the Hereafter	bil-ākhirati
+12	34:21:12	w	مِمَّنۡ	ﲲ	ممن	from (one) who	mimman
+12	34:21:13	w	هُوَ	ﲳ	هو	[he]	huwa
+12	34:21:14	w	مِنۡهَا	ﲴ	منها	about it	min'hā
+12	34:21:15	w	فِي	ﲵ	في	(is) in	fī
+12	34:21:16	w	شَكّٖۗ	ﲶﲷ	شك	doubt	shakkin
+13	34:21:17	w	وَرَبُّكَ	ﲸ	وربك	And your Lord	warabbuka
+13	34:21:18	w	عَلَىٰ	ﲹ	على	over	ʿalā
+13	34:21:19	w	كُلِّ	ﲺ	كل	all	kulli
+13	34:21:20	w	شَيۡءٍ	ﲻ	شيء	things	shayin
+13	34:21:21	w	حَفِيظٞ	ﲼ	حفيظ	(is) a Guardian	ḥafīẓun
+13	34:21:22	e	٢١	ﲽ			
+13	34:22:1	w	قُلِ	ﲾ	قل	Say	quli
+13	34:22:2	w	ٱدۡعُواْ	ﲿ	ادعوا	Call upon	id'ʿū
+13	34:22:3	w	ٱلَّذِينَ	ﳀ	الذين	those whom	alladhīna
+13	34:22:4	w	زَعَمۡتُم	ﳁ	زعمتم	you claim	zaʿamtum
+13	34:22:5	w	مِّن	ﳂ	من	besides	min
+14	34:22:6	w	دُونِ	ﳃ	دون	besides	dūni
+14	34:22:7	w	ٱللَّهِ	ﳄ	الله	Allah	l-lahi
+14	34:22:8	w	لَا	ﳅ	لا	Not	lā
+14	34:22:9	w	يَمۡلِكُونَ	ﳆ	يملكون	they possess	yamlikūna
+14	34:22:10	w	مِثۡقَالَ	ﳇ	مثقال	(the) weight	mith'qāla
+14	34:22:11	w	ذَرَّةٖ	ﳈ	ذرة	(of) an atom	dharratin
+14	34:22:12	w	فِي	ﳉ	في	in	fī
+14	34:22:13	w	ٱلسَّمَٰوَٰتِ	ﳊ	السماوات	the heavens	l-samāwāti
+14	34:22:14	w	وَلَا	ﳋ	ولا	and not	walā
+14	34:22:15	w	فِي	ﳌ	في	in	fī
+15	34:22:16	w	ٱلۡأَرۡضِ	ﳍ	الارض	the earth	l-arḍi
+15	34:22:17	w	وَمَا	ﳎ	وما	and not	wamā
+15	34:22:18	w	لَهُمۡ	ﳏ	لهم	for them	lahum
+15	34:22:19	w	فِيهِمَا	ﳐ	فيهما	in both of them	fīhimā
+15	34:22:20	w	مِن	ﳑ	من	any	min
+15	34:22:21	w	شِرۡكٖ	ﳒ	شرك	partnership	shir'kin
+15	34:22:22	w	وَمَا	ﳓ	وما	and not	wamā
+15	34:22:23	w	لَهُۥ	ﳔ	له	for Him	lahu
+15	34:22:24	w	مِنۡهُم	ﳕ	منهم	from them	min'hum
+15	34:22:25	w	مِّن	ﳖ	من	any	min
+15	34:22:26	w	ظَهِيرٖ	ﳗ	ظهير	supporter	ẓahīrin
+15	34:22:27	e	٢٢	ﳘ			

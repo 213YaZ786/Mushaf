@@ -1,0 +1,131 @@
+1	9:73:1	w	يَٰٓأَيُّهَا	ﱁ	يا ايها	O Prophet	yāayyuhā
+1	9:73:2	w	ٱلنَّبِيُّ	ﱂ	النبي	O Prophet	l-nabiyu
+1	9:73:3	w	جَٰهِدِ	ﱃ	جاهد	Strive (against)	jāhidi
+1	9:73:4	w	ٱلۡكُفَّارَ	ﱄ	الكفار	the disbelievers	l-kufāra
+1	9:73:5	w	وَٱلۡمُنَٰفِقِينَ	ﱅ	والمنافقين	and the hypocrites	wal-munāfiqīna
+1	9:73:6	w	وَٱغۡلُظۡ	ﱆ	واغلظ	and be stern	wa-ugh'luẓ
+1	9:73:7	w	عَلَيۡهِمۡۚ	ﱇﱈ	عليهم	with them	ʿalayhim
+2	9:73:8	w	وَمَأۡوَىٰهُمۡ	ﱉ	وماواهم	And their abode	wamawāhum
+2	9:73:9	w	جَهَنَّمُۖ	ﱊﱋ	جهنم	(is) Hell	jahannamu
+2	9:73:10	w	وَبِئۡسَ	ﱌ	وبيس	and wretched	wabi'sa
+2	9:73:11	w	ٱلۡمَصِيرُ	ﱍ	المصير	(is) the destination	l-maṣīru
+2	9:73:12	e	٧٣	ﱎ			
+2	9:74:1	w	يَحۡلِفُونَ	ﱏ	يحلفون	They swear	yaḥlifūna
+2	9:74:2	w	بِٱللَّهِ	ﱐ	بالله	by Allah	bil-lahi
+2	9:74:3	w	مَا	ﱑ	ما	(that) they said nothing	mā
+2	9:74:4	w	قَالُواْ	ﱒ	قالوا	(that) they said nothing	qālū
+3	9:74:5	w	وَلَقَدۡ	ﱓ	ولقد	while certainly	walaqad
+3	9:74:6	w	قَالُواْ	ﱔ	قالوا	they said	qālū
+3	9:74:7	w	كَلِمَةَ	ﱕ	كلمة	(the) word	kalimata
+3	9:74:8	w	ٱلۡكُفۡرِ	ﱖ	الكفر	(of) the disbelief	l-kuf'ri
+3	9:74:9	w	وَكَفَرُواْ	ﱗ	وكفروا	and disbelieved	wakafarū
+3	9:74:10	w	بَعۡدَ	ﱘ	بعد	after	baʿda
+3	9:74:11	w	إِسۡلَٰمِهِمۡ	ﱙ	اسلامهم	their (pretense of) Islam	is'lāmihim
+3	9:74:12	w	وَهَمُّواْ	ﱚ	وهموا	and planned	wahammū
+4	9:74:13	w	بِمَا	ﱛ	بما	[of] what	bimā
+4	9:74:14	w	لَمۡ	ﱜ	لم	not	lam
+4	9:74:15	w	يَنَالُواْۚ	ﱝﱞ	ينالوا	they could attain	yanālū
+4	9:74:16	w	وَمَا	ﱟ	وما	And not	wamā
+4	9:74:17	w	نَقَمُوٓاْ	ﱠ	نقموا	they were resentful	naqamū
+4	9:74:18	w	إِلَّآ	ﱡ	الا	except	illā
+4	9:74:19	w	أَنۡ	ﱢ	ان	that	an
+4	9:74:20	w	أَغۡنَىٰهُمُ	ﱣ	اغناهم	Allah had enriched them	aghnāhumu
+4	9:74:21	w	ٱللَّهُ	ﱤ	الله	Allah had enriched them	l-lahu
+4	9:74:22	w	وَرَسُولُهُۥ	ﱥ	ورسوله	and His Messenger	warasūluhu
+5	9:74:23	w	مِن	ﱦ	من	of	min
+5	9:74:24	w	فَضۡلِهِۦۚ	ﱧﱨ	فضله	His Bounty	faḍlihi
+5	9:74:25	w	فَإِن	ﱩ	فان	So if	fa-in
+5	9:74:26	w	يَتُوبُواْ	ﱪ	يتوبوا	they repent	yatūbū
+5	9:74:27	w	يَكُ	ﱫ	يك	it is	yaku
+5	9:74:28	w	خَيۡرٗا	ﱬ	خيرا	better	khayran
+5	9:74:29	w	لَّهُمۡۖ	ﱭﱮ	لهم	for them	lahum
+5	9:74:30	w	وَإِن	ﱯ	وان	and if	wa-in
+5	9:74:31	w	يَتَوَلَّوۡاْ	ﱰ	يتولوا	they turn away	yatawallaw
+5	9:74:32	w	يُعَذِّبۡهُمُ	ﱱ	يعذبهم	Allah will punish them	yuʿadhib'humu
+6	9:74:33	w	ٱللَّهُ	ﱲ	الله	Allah will punish them	l-lahu
+6	9:74:34	w	عَذَابًا	ﱳ	عذابا	(with) a punishment	ʿadhāban
+6	9:74:35	w	أَلِيمٗا	ﱴ	اليما	painful	alīman
+6	9:74:36	w	فِي	ﱵ	في	in	fī
+6	9:74:37	w	ٱلدُّنۡيَا	ﱶ	الدنيا	the world	l-dun'yā
+6	9:74:38	w	وَٱلۡأٓخِرَةِۚ	ﱷﱸ	والاخرة	and (in) the Hereafter	wal-ākhirati
+6	9:74:39	w	وَمَا	ﱹ	وما	And not	wamā
+6	9:74:40	w	لَهُمۡ	ﱺ	لهم	for them	lahum
+6	9:74:41	w	فِي	ﱻ	في	in	fī
+6	9:74:42	w	ٱلۡأَرۡضِ	ﱼ	الارض	the earth	l-arḍi
+7	9:74:43	w	مِن	ﱽ	من	any	min
+7	9:74:44	w	وَلِيّٖ	ﱾ	ولي	protector	waliyyin
+7	9:74:45	w	وَلَا	ﱿ	ولا	and not	walā
+7	9:74:46	w	نَصِيرٖ	ﲀ	نصير	a helper	naṣīrin
+7	9:74:47	e	٧٤	ﲁ			
+7	9:75:1	w	۞ وَمِنۡهُم	ﲂ ﲃ	۞ ومنهم	And among them	wamin'hum
+7	9:75:2	w	مَّنۡ	ﲄ	من	(is he) who	man
+7	9:75:3	w	عَٰهَدَ	ﲅ	عاهد	made a covenant	ʿāhada
+7	9:75:4	w	ٱللَّهَ	ﲆ	الله	(with) Allah	l-laha
+7	9:75:5	w	لَئِنۡ	ﲇ	لين	If	la-in
+7	9:75:6	w	ءَاتَىٰنَا	ﲈ	اتانا	He gives us	ātānā
+8	9:75:7	w	مِن	ﲉ	من	of	min
+8	9:75:8	w	فَضۡلِهِۦ	ﲊ	فضله	His bounty	faḍlihi
+8	9:75:9	w	لَنَصَّدَّقَنَّ	ﲋ	لنصدقن	surely we will give charity	lanaṣṣaddaqanna
+8	9:75:10	w	وَلَنَكُونَنَّ	ﲌ	ولنكونن	and surely we will be	walanakūnanna
+8	9:75:11	w	مِنَ	ﲍ	من	among	mina
+8	9:75:12	w	ٱلصَّٰلِحِينَ	ﲎ	الصالحين	the righteous	l-ṣāliḥīna
+9	9:75:13	e	٧٥	ﲏ			
+9	9:76:1	w	فَلَمَّآ	ﲐ	فلما	But when	falammā
+9	9:76:2	w	ءَاتَىٰهُم	ﲑ	اتاهم	He gave them	ātāhum
+9	9:76:3	w	مِّن	ﲒ	من	of	min
+9	9:76:4	w	فَضۡلِهِۦ	ﲓ	فضله	His Bounty	faḍlihi
+9	9:76:5	w	بَخِلُواْ	ﲔ	بخلوا	they became stingy	bakhilū
+9	9:76:6	w	بِهِۦ	ﲕ	به	with it	bihi
+9	9:76:7	w	وَتَوَلَّواْ	ﲖ	وتولوا	and turned away	watawallaw
+9	9:76:8	w	وَّهُم	ﲗ	وهم	while they	wahum
+10	9:76:9	w	مُّعۡرِضُونَ	ﲘ	معرضون	(were) averse	muʿ'riḍūna
+10	9:76:10	e	٧٦	ﲙ			
+10	9:77:1	w	فَأَعۡقَبَهُمۡ	ﲚ	فاعقبهم	So He penalized them	fa-aʿqabahum
+10	9:77:2	w	نِفَاقٗا	ﲛ	نفاقا	(with) hypocrisy	nifāqan
+10	9:77:3	w	فِي	ﲜ	في	in	fī
+10	9:77:4	w	قُلُوبِهِمۡ	ﲝ	قلوبهم	their hearts	qulūbihim
+10	9:77:5	w	إِلَىٰ	ﲞ	الى	until	ilā
+10	9:77:6	w	يَوۡمِ	ﲟ	يوم	the day	yawmi
+10	9:77:7	w	يَلۡقَوۡنَهُۥ	ﲠ	يلقونه	when they will meet Him	yalqawnahu
+11	9:77:8	w	بِمَآ	ﲡ	بما	because	bimā
+11	9:77:9	w	أَخۡلَفُواْ	ﲢ	اخلفوا	they broke	akhlafū
+11	9:77:10	w	ٱللَّهَ	ﲣ	الله	(the covenant with) Allah	l-laha
+11	9:77:11	w	مَا	ﲤ	ما	what	mā
+11	9:77:12	w	وَعَدُوهُ	ﲥ	وعدوه	they had promised Him	waʿadūhu
+11	9:77:13	w	وَبِمَا	ﲦ	وبما	and because	wabimā
+11	9:77:14	w	كَانُواْ	ﲧ	كانوا	they used to	kānū
+11	9:77:15	w	يَكۡذِبُونَ	ﲨ	يكذبون	lie	yakdhibūna
+11	9:77:16	e	٧٧	ﲩ			
+12	9:78:1	w	أَلَمۡ	ﲪ	الم	Do not	alam
+12	9:78:2	w	يَعۡلَمُوٓاْ	ﲫ	يعلموا	they know	yaʿlamū
+12	9:78:3	w	أَنَّ	ﲬ	ان	that	anna
+12	9:78:4	w	ٱللَّهَ	ﲭ	الله	Allah	l-laha
+12	9:78:5	w	يَعۡلَمُ	ﲮ	يعلم	knows	yaʿlamu
+12	9:78:6	w	سِرَّهُمۡ	ﲯ	سرهم	their secret	sirrahum
+12	9:78:7	w	وَنَجۡوَىٰهُمۡ	ﲰ	ونجواهم	and their secret conversation	wanajwāhum
+12	9:78:8	w	وَأَنَّ	ﲱ	وان	and that	wa-anna
+12	9:78:9	w	ٱللَّهَ	ﲲ	الله	Allah	l-laha
+13	9:78:10	w	عَلَّٰمُ	ﲳ	علام	(is) All-Knower	ʿallāmu
+13	9:78:11	w	ٱلۡغُيُوبِ	ﲴ	الغيوب	(of) the unseen	l-ghuyūbi
+13	9:78:12	e	٧٨	ﲵ			
+13	9:79:1	w	ٱلَّذِينَ	ﲶ	الذين	Those who	alladhīna
+13	9:79:2	w	يَلۡمِزُونَ	ﲷ	يلمزون	criticize	yalmizūna
+13	9:79:3	w	ٱلۡمُطَّوِّعِينَ	ﲸ	المطوعين	the ones who give willingly	l-muṭawiʿīna
+13	9:79:4	w	مِنَ	ﲹ	من	of	mina
+14	9:79:5	w	ٱلۡمُؤۡمِنِينَ	ﲺ	المومنين	the believers	l-mu'minīna
+14	9:79:6	w	فِي	ﲻ	في	concerning	fī
+14	9:79:7	w	ٱلصَّدَقَٰتِ	ﲼ	الصدقات	the charities	l-ṣadaqāti
+14	9:79:8	w	وَٱلَّذِينَ	ﲽ	والذين	and those who	wa-alladhīna
+14	9:79:9	w	لَا	ﲾ	لا	not	lā
+14	9:79:10	w	يَجِدُونَ	ﲿ	يجدون	find	yajidūna
+14	9:79:11	w	إِلَّا	ﳀ	الا	except	illā
+14	9:79:12	w	جُهۡدَهُمۡ	ﳁ	جهدهم	their effort	juh'dahum
+15	9:79:13	w	فَيَسۡخَرُونَ	ﳂ	فيسخرون	so they ridicule	fayaskharūna
+15	9:79:14	w	مِنۡهُمۡ	ﳃ	منهم	them	min'hum
+15	9:79:15	w	سَخِرَ	ﳄ	سخر	Allah will ridicule	sakhira
+15	9:79:16	w	ٱللَّهُ	ﳅ	الله	Allah will ridicule	l-lahu
+15	9:79:17	w	مِنۡهُمۡ	ﳆ	منهم	them	min'hum
+15	9:79:18	w	وَلَهُمۡ	ﳇ	ولهم	and for them	walahum
+15	9:79:19	w	عَذَابٌ	ﳈ	عذاب	(is) a punishment	ʿadhābun
+15	9:79:20	w	أَلِيمٌ	ﳉ	اليم	painful	alīmun
+15	9:79:21	e	٧٩	ﳊ			

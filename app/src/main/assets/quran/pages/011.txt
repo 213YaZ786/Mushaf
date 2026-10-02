@@ -1,0 +1,148 @@
+1	2:70:1	w	قَالُواْ	ﱁ	قالوا	They said	qālū
+1	2:70:2	w	ٱدۡعُ	ﱂ	ادع	Pray	ud'ʿu
+1	2:70:3	w	لَنَا	ﱃ	لنا	for us	lanā
+1	2:70:4	w	رَبَّكَ	ﱄ	ربك	(to) your Lord	rabbaka
+1	2:70:5	w	يُبَيِّن	ﱅ	يبين	to make clear	yubayyin
+1	2:70:6	w	لَّنَا	ﱆ	لنا	to us	lanā
+1	2:70:7	w	مَا	ﱇ	ما	what	mā
+1	2:70:8	w	هِيَ	ﱈ	هي	it (is)	hiya
+1	2:70:9	w	إِنَّ	ﱉ	ان	Indeed	inna
+1	2:70:10	w	ٱلۡبَقَرَ	ﱊ	البقر	[the] cows	l-baqara
+1	2:70:11	w	تَشَٰبَهَ	ﱋ	تشابه	look alike	tashābaha
+1	2:70:12	w	عَلَيۡنَا	ﱌ	علينا	to us	ʿalaynā
+1	2:70:13	w	وَإِنَّآ	ﱍ	وانا	And indeed we	wa-innā
+2	2:70:14	w	إِن	ﱎ	ان	if	in
+2	2:70:15	w	شَآءَ	ﱏ	شاء	wills	shāa
+2	2:70:16	w	ٱللَّهُ	ﱐ	الله	Allah	l-lahu
+2	2:70:17	w	لَمُهۡتَدُونَ	ﱑ	لمهتدون	(will) surely be those who are guided	lamuh'tadūna
+2	2:70:18	e	٧٠	ﱒ			
+2	2:71:1	w	قَالَ	ﱓ	قال	He said	qāla
+2	2:71:2	w	إِنَّهُۥ	ﱔ	انه	Indeed, He	innahu
+2	2:71:3	w	يَقُولُ	ﱕ	يقول	says	yaqūlu
+2	2:71:4	w	إِنَّهَا	ﱖ	انها	[Indeed] it	innahā
+2	2:71:5	w	بَقَرَةٞ	ﱗ	بقرة	(is) a cow	baqaratun
+2	2:71:6	w	لَّا	ﱘ	لا	not	lā
+2	2:71:7	w	ذَلُولٞ	ﱙ	ذلول	trained	dhalūlun
+3	2:71:8	w	تُثِيرُ	ﱚ	تثير	to plough	tuthīru
+3	2:71:9	w	ٱلۡأَرۡضَ	ﱛ	الارض	the earth	l-arḍa
+3	2:71:10	w	وَلَا	ﱜ	ولا	and not	walā
+3	2:71:11	w	تَسۡقِي	ﱝ	تسقي	water	tasqī
+3	2:71:12	w	ٱلۡحَرۡثَ	ﱞ	الحرث	the field	l-ḥartha
+3	2:71:13	w	مُسَلَّمَةٞ	ﱟ	مسلمة	sound	musallamatun
+3	2:71:14	w	لَّا	ﱠ	لا	no	lā
+3	2:71:15	w	شِيَةَ	ﱡ	شية	blemish	shiyata
+3	2:71:16	w	فِيهَاۚ	ﱢﱣ	فيها	in it	fīhā
+3	2:71:17	w	قَالُواْ	ﱤ	قالوا	They said	qālū
+4	2:71:18	w	ٱلۡـَٰٔنَ	ﱥ	الان	Now	l-āna
+4	2:71:19	w	جِئۡتَ	ﱦ	جيت	you have come	ji'ta
+4	2:71:20	w	بِٱلۡحَقِّۚ	ﱧﱨ	بالحق	with the truth	bil-ḥaqi
+4	2:71:21	w	فَذَبَحُوهَا	ﱩ	فذبحوها	So they slaughtered it	fadhabaḥūhā
+4	2:71:22	w	وَمَا	ﱪ	وما	and not	wamā
+4	2:71:23	w	كَادُواْ	ﱫ	كادوا	they were near	kādū
+4	2:71:24	w	يَفۡعَلُونَ	ﱬ	يفعلون	(to) doing (it)	yafʿalūna
+4	2:71:25	e	٧١	ﱭ			
+4	2:72:1	w	وَإِذۡ	ﱮ	واذ	And when	wa-idh
+5	2:72:2	w	قَتَلۡتُمۡ	ﱯ	قتلتم	you killed	qataltum
+5	2:72:3	w	نَفۡسٗا	ﱰ	نفسا	a man	nafsan
+5	2:72:4	w	فَٱدَّٰرَٰءۡتُمۡ	ﱱ	فاداراتم	then you disputed	fa-iddāratum
+5	2:72:5	w	فِيهَاۖ	ﱲﱳ	فيها	concerning it	fīhā
+5	2:72:6	w	وَٱللَّهُ	ﱴ	والله	but Allah	wal-lahu
+5	2:72:7	w	مُخۡرِجٞ	ﱵ	مخرج	(is) the One Who brought forth	mukh'rijun
+5	2:72:8	w	مَّا	ﱶ	ما	what	mā
+5	2:72:9	w	كُنتُمۡ	ﱷ	كنتم	you were	kuntum
+5	2:72:10	w	تَكۡتُمُونَ	ﱸ	تكتمون	concealing	taktumūna
+6	2:72:11	e	٧٢	ﱹ			
+6	2:73:1	w	فَقُلۡنَا	ﱺ	فقلنا	So We said	faqul'nā
+6	2:73:2	w	ٱضۡرِبُوهُ	ﱻ	اضربوه	Strike him	iḍ'ribūhu
+6	2:73:3	w	بِبَعۡضِهَاۚ	ﱼﱽ	ببعضها	with a part of it	bibaʿḍihā
+6	2:73:4	w	كَذَٰلِكَ	ﱾ	كذالك	Like this	kadhālika
+6	2:73:5	w	يُحۡيِ	ﱿ	يحيي	revives	yuḥ'yī
+6	2:73:6	w	ٱللَّهُ	ﲀ	الله	Allah	l-lahu
+6	2:73:7	w	ٱلۡمَوۡتَىٰ	ﲁ	الموتى	the dead	l-mawtā
+6	2:73:8	w	وَيُرِيكُمۡ	ﲂ	ويريكم	and shows you	wayurīkum
+7	2:73:9	w	ءَايَٰتِهِۦ	ﲃ	اياته	His Signs	āyātihi
+7	2:73:10	w	لَعَلَّكُمۡ	ﲄ	لعلكم	perhaps you may	laʿallakum
+7	2:73:11	w	تَعۡقِلُونَ	ﲅ	تعقلون	use your intellect	taʿqilūna
+7	2:73:12	e	٧٣	ﲆ			
+7	2:74:1	w	ثُمَّ	ﲇ	ثم	Then	thumma
+7	2:74:2	w	قَسَتۡ	ﲈ	قست	hardened	qasat
+7	2:74:3	w	قُلُوبُكُم	ﲉ	قلوبكم	your hearts	qulūbukum
+7	2:74:4	w	مِّنۢ	ﲊ	من	from	min
+7	2:74:5	w	بَعۡدِ	ﲋ	بعد	after	baʿdi
+7	2:74:6	w	ذَٰلِكَ	ﲌ	ذالك	that	dhālika
+8	2:74:7	w	فَهِيَ	ﲍ	فهي	so they	fahiya
+8	2:74:8	w	كَٱلۡحِجَارَةِ	ﲎ	كالحجارة	(became) like [the] stones	kal-ḥijārati
+8	2:74:9	w	أَوۡ	ﲏ	او	or	aw
+8	2:74:10	w	أَشَدُّ	ﲐ	اشد	stronger	ashaddu
+8	2:74:11	w	قَسۡوَةٗۚ	ﲑﲒ	قسوة	(in) hardness	qaswatan
+8	2:74:12	w	وَإِنَّ	ﲓ	وان	And indeed	wa-inna
+8	2:74:13	w	مِنَ	ﲔ	من	from	mina
+8	2:74:14	w	ٱلۡحِجَارَةِ	ﲕ	الحجارة	the stones	l-ḥijārati
+8	2:74:15	w	لَمَا	ﲖ	لما	certainly (there are some) which	lamā
+8	2:74:16	w	يَتَفَجَّرُ	ﲗ	يتفجر	gush forth	yatafajjaru
+9	2:74:17	w	مِنۡهُ	ﲘ	منه	from it	min'hu
+9	2:74:18	w	ٱلۡأَنۡهَٰرُۚ	ﲙﲚ	الانهار	[the] rivers	l-anhāru
+9	2:74:19	w	وَإِنَّ	ﲛ	وان	and indeed	wa-inna
+9	2:74:20	w	مِنۡهَا	ﲜ	منها	from them	min'hā
+9	2:74:21	w	لَمَا	ﲝ	لما	certainly (there are some) which	lamā
+9	2:74:22	w	يَشَّقَّقُ	ﲞ	يشقق	split	yashaqqaqu
+9	2:74:23	w	فَيَخۡرُجُ	ﲟ	فيخرج	so comes out	fayakhruju
+9	2:74:24	w	مِنۡهُ	ﲠ	منه	from it	min'hu
+9	2:74:25	w	ٱلۡمَآءُۚ	ﲡﲢ	الماء	[the] water	l-māu
+9	2:74:26	w	وَإِنَّ	ﲣ	وان	and indeed	wa-inna
+10	2:74:27	w	مِنۡهَا	ﲤ	منها	from them	min'hā
+10	2:74:28	w	لَمَا	ﲥ	لما	certainly (there are some) which	lamā
+10	2:74:29	w	يَهۡبِطُ	ﲦ	يهبط	fall down	yahbiṭu
+10	2:74:30	w	مِنۡ	ﲧ	من	from	min
+10	2:74:31	w	خَشۡيَةِ	ﲨ	خشية	fear	khashyati
+10	2:74:32	w	ٱللَّهِۗ	ﲩﲪ	الله	(of) Allah	l-lahi
+10	2:74:33	w	وَمَا	ﲫ	وما	And not	wamā
+10	2:74:34	w	ٱللَّهُ	ﲬ	الله	(is) Allah	l-lahu
+10	2:74:35	w	بِغَٰفِلٍ	ﲭ	بغافل	unaware	bighāfilin
+10	2:74:36	w	عَمَّا	ﲮ	عما	of what	ʿammā
+10	2:74:37	w	تَعۡمَلُونَ	ﲯ	تعملون	you do	taʿmalūna
+11	2:74:38	e	٧٤	ﲰ			
+11	2:75:1	w	۞ أَفَتَطۡمَعُونَ	ﲱ ﲲ	۞ افتطمعون	Do you hope	afataṭmaʿūna
+11	2:75:2	w	أَن	ﲳ	ان	that	an
+11	2:75:3	w	يُؤۡمِنُواْ	ﲴ	يومنوا	they will believe	yu'minū
+11	2:75:4	w	لَكُمۡ	ﲵ	لكم	[for] you	lakum
+11	2:75:5	w	وَقَدۡ	ﲶ	وقد	while indeed	waqad
+11	2:75:6	w	كَانَ	ﲷ	كان	(there) has been	kāna
+11	2:75:7	w	فَرِيقٞ	ﲸ	فريق	a party	farīqun
+11	2:75:8	w	مِّنۡهُمۡ	ﲹ	منهم	of them	min'hum
+12	2:75:9	w	يَسۡمَعُونَ	ﲺ	يسمعون	(who used to) hear	yasmaʿūna
+12	2:75:10	w	كَلَٰمَ	ﲻ	كلام	(the) words	kalāma
+12	2:75:11	w	ٱللَّهِ	ﲼ	الله	(of) Allah	l-lahi
+12	2:75:12	w	ثُمَّ	ﲽ	ثم	then	thumma
+12	2:75:13	w	يُحَرِّفُونَهُۥ	ﲾ	يحرفونه	they distort it	yuḥarrifūnahu
+12	2:75:14	w	مِنۢ	ﲿ	من	from	min
+12	2:75:15	w	بَعۡدِ	ﳀ	بعد	after	baʿdi
+12	2:75:16	w	مَا	ﳁ	ما	[what]	mā
+12	2:75:17	w	عَقَلُوهُ	ﳂ	عقلوه	they understood it	ʿaqalūhu
+12	2:75:18	w	وَهُمۡ	ﳃ	وهم	while they	wahum
+13	2:75:19	w	يَعۡلَمُونَ	ﳄ	يعلمون	know	yaʿlamūna
+13	2:75:20	e	٧٥	ﳅ			
+13	2:76:1	w	وَإِذَا	ﳆ	واذا	And when	wa-idhā
+13	2:76:2	w	لَقُواْ	ﳇ	لقوا	they meet	laqū
+13	2:76:3	w	ٱلَّذِينَ	ﳈ	الذين	those who	alladhīna
+13	2:76:4	w	ءَامَنُواْ	ﳉ	امنوا	believe[d]	āmanū
+13	2:76:5	w	قَالُوٓاْ	ﳊ	قالوا	they say	qālū
+13	2:76:6	w	ءَامَنَّا	ﳋ	امنا	We have believed	āmannā
+13	2:76:7	w	وَإِذَا	ﳌ	واذا	But when	wa-idhā
+14	2:76:8	w	خَلَا	ﳍ	خلا	meet in private	khalā
+14	2:76:9	w	بَعۡضُهُمۡ	ﳎ	بعضهم	some of them	baʿḍuhum
+14	2:76:10	w	إِلَىٰ	ﳏ	الى	with	ilā
+14	2:76:11	w	بَعۡضٖ	ﳐ	بعض	some (others)	baʿḍin
+14	2:76:12	w	قَالُوٓاْ	ﳑ	قالوا	they say	qālū
+14	2:76:13	w	أَتُحَدِّثُونَهُم	ﳒ	اتحدثونهم	Do you tell them	atuḥaddithūnahum
+14	2:76:14	w	بِمَا	ﳓ	بما	what	bimā
+14	2:76:15	w	فَتَحَ	ﳔ	فتح	has	fataḥa
+14	2:76:16	w	ٱللَّهُ	ﳕ	الله	Allah	l-lahu
+15	2:76:17	w	عَلَيۡكُمۡ	ﳖ	عليكم	to you	ʿalaykum
+15	2:76:18	w	لِيُحَآجُّوكُم	ﳗ	ليحاجوكم	so that they argue with you	liyuḥājjūkum
+15	2:76:19	w	بِهِۦ	ﳘ	به	therewith	bihi
+15	2:76:20	w	عِندَ	ﳙ	عند	before	ʿinda
+15	2:76:21	w	رَبِّكُمۡۚ	ﳚﳛ	ربكم	your Lord	rabbikum
+15	2:76:22	w	أَفَلَا	ﳜ	افلا	Then do (you) not	afalā
+15	2:76:23	w	تَعۡقِلُونَ	ﳝ	تعقلون	understand	taʿqilūna
+15	2:76:24	e	٧٦	ﳞ			

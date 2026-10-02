@@ -1,0 +1,146 @@
+1	4:155:1	w	فَبِمَا	ﱁ	فبما	Then because of	fabimā
+1	4:155:2	w	نَقۡضِهِم	ﱂ	نقضهم	their breaking	naqḍihim
+1	4:155:3	w	مِّيثَٰقَهُمۡ	ﱃ	ميثاقهم	(of) their covenant	mīthāqahum
+1	4:155:4	w	وَكُفۡرِهِم	ﱄ	وكفرهم	and their disbelief	wakuf'rihim
+1	4:155:5	w	بِـَٔايَٰتِ	ﱅ	بايات	in (the) Signs	biāyāti
+1	4:155:6	w	ٱللَّهِ	ﱆ	الله	(of) Allah	l-lahi
+1	4:155:7	w	وَقَتۡلِهِمُ	ﱇ	وقتلهم	and their killing	waqatlihimu
+1	4:155:8	w	ٱلۡأَنۢبِيَآءَ	ﱈ	الانبياء	(of) the Prophets	l-anbiyāa
+2	4:155:9	w	بِغَيۡرِ	ﱉ	بغير	without	bighayri
+2	4:155:10	w	حَقّٖ	ﱊ	حق	any right	ḥaqqin
+2	4:155:11	w	وَقَوۡلِهِمۡ	ﱋ	وقولهم	and their saying	waqawlihim
+2	4:155:12	w	قُلُوبُنَا	ﱌ	قلوبنا	Our hearts	qulūbunā
+2	4:155:13	w	غُلۡفُۢۚ	ﱍﱎ	غلف	(are) wrapped	ghul'fun
+2	4:155:14	w	بَلۡ	ﱏ	بل	Nay	bal
+2	4:155:15	w	طَبَعَ	ﱐ	طبع	(has) set a seal	ṭabaʿa
+2	4:155:16	w	ٱللَّهُ	ﱑ	الله	Allah	l-lahu
+2	4:155:17	w	عَلَيۡهَا	ﱒ	عليها	on their (hearts)	ʿalayhā
+2	4:155:18	w	بِكُفۡرِهِمۡ	ﱓ	بكفرهم	for their disbelief	bikuf'rihim
+3	4:155:19	w	فَلَا	ﱔ	فلا	so not	falā
+3	4:155:20	w	يُؤۡمِنُونَ	ﱕ	يومنون	they believe	yu'minūna
+3	4:155:21	w	إِلَّا	ﱖ	الا	except	illā
+3	4:155:22	w	قَلِيلٗا	ﱗ	قليلا	a few	qalīlan
+3	4:155:23	e	١٥٥	ﱘ			
+3	4:156:1	w	وَبِكُفۡرِهِمۡ	ﱙ	وبكفرهم	And for their disbelief	wabikuf'rihim
+3	4:156:2	w	وَقَوۡلِهِمۡ	ﱚ	وقولهم	and their saying	waqawlihim
+3	4:156:3	w	عَلَىٰ	ﱛ	على	against	ʿalā
+3	4:156:4	w	مَرۡيَمَ	ﱜ	مريم	Maryam	maryama
+3	4:156:5	w	بُهۡتَٰنًا	ﱝ	بهتانا	a slander	buh'tānan
+4	4:156:6	w	عَظِيمٗا	ﱞ	عظيما	great	ʿaẓīman
+4	4:156:7	e	١٥٦	ﱟ			
+4	4:157:1	w	وَقَوۡلِهِمۡ	ﱠ	وقولهم	And for their saying	waqawlihim
+4	4:157:2	w	إِنَّا	ﱡ	انا	Indeed, we	innā
+4	4:157:3	w	قَتَلۡنَا	ﱢ	قتلنا	killed	qatalnā
+4	4:157:4	w	ٱلۡمَسِيحَ	ﱣ	المسيح	the Messiah	l-masīḥa
+4	4:157:5	w	عِيسَى	ﱤ	عيسى	Isa	ʿīsā
+4	4:157:6	w	ٱبۡنَ	ﱥ	ابن	son	ib'na
+4	4:157:7	w	مَرۡيَمَ	ﱦ	مريم	(of) Maryam	maryama
+4	4:157:8	w	رَسُولَ	ﱧ	رسول	(the) Messenger	rasūla
+5	4:157:9	w	ٱللَّهِ	ﱨ	الله	(of) Allah	l-lahi
+5	4:157:10	w	وَمَا	ﱩ	وما	And not	wamā
+5	4:157:11	w	قَتَلُوهُ	ﱪ	قتلوه	they killed him	qatalūhu
+5	4:157:12	w	وَمَا	ﱫ	وما	and not	wamā
+5	4:157:13	w	صَلَبُوهُ	ﱬ	صلبوه	they crucified him	ṣalabūhu
+5	4:157:14	w	وَلَٰكِن	ﱭ	ولاكن	but	walākin
+5	4:157:15	w	شُبِّهَ	ﱮ	شبه	it was made to appear (so)	shubbiha
+5	4:157:16	w	لَهُمۡۚ	ﱯﱰ	لهم	to them	lahum
+5	4:157:17	w	وَإِنَّ	ﱱ	وان	And indeed	wa-inna
+5	4:157:18	w	ٱلَّذِينَ	ﱲ	الذين	those who	alladhīna
+6	4:157:19	w	ٱخۡتَلَفُواْ	ﱳ	اختلفوا	differ	ikh'talafū
+6	4:157:20	w	فِيهِ	ﱴ	فيه	in it	fīhi
+6	4:157:21	w	لَفِي	ﱵ	لفي	(are) surely in	lafī
+6	4:157:22	w	شَكّٖ	ﱶ	شك	doubt	shakkin
+6	4:157:23	w	مِّنۡهُۚ	ﱷﱸ	منه	about it	min'hu
+6	4:157:24	w	مَا	ﱹ	ما	Not	mā
+6	4:157:25	w	لَهُم	ﱺ	لهم	for them	lahum
+6	4:157:26	w	بِهِۦ	ﱻ	به	about it	bihi
+6	4:157:27	w	مِنۡ	ﱼ	من	[of]	min
+6	4:157:28	w	عِلۡمٍ	ﱽ	علم	(any) knowledge	ʿil'min
+6	4:157:29	w	إِلَّا	ﱾ	الا	except	illā
+6	4:157:30	w	ٱتِّبَاعَ	ﱿ	اتباع	(the) following	ittibāʿa
+6	4:157:31	w	ٱلظَّنِّۚ	ﲀﲁ	الظن	(of) assumption	l-ẓani
+7	4:157:32	w	وَمَا	ﲂ	وما	And not	wamā
+7	4:157:33	w	قَتَلُوهُ	ﲃ	قتلوه	they killed him	qatalūhu
+7	4:157:34	w	يَقِينَۢا	ﲄ	يقينا	certainly	yaqīnan
+7	4:157:35	e	١٥٧	ﲅ			
+7	4:158:1	w	بَل	ﲆ	بل	Nay	bal
+7	4:158:2	w	رَّفَعَهُ	ﲇ	رفعه	he was raised	rafaʿahu
+7	4:158:3	w	ٱللَّهُ	ﲈ	الله	(by) Allah	l-lahu
+7	4:158:4	w	إِلَيۡهِۚ	ﲉﲊ	اليه	towards Him	ilayhi
+7	4:158:5	w	وَكَانَ	ﲋ	وكان	And is	wakāna
+7	4:158:6	w	ٱللَّهُ	ﲌ	الله	Allah	l-lahu
+7	4:158:7	w	عَزِيزًا	ﲍ	عزيزا	All-Mighty	ʿazīzan
+7	4:158:8	w	حَكِيمٗا	ﲎ	حكيما	All-Wise	ḥakīman
+8	4:158:9	e	١٥٨	ﲏ			
+8	4:159:1	w	وَإِن	ﲐ	وان	And (there is) not	wa-in
+8	4:159:2	w	مِّنۡ	ﲑ	من	from	min
+8	4:159:3	w	أَهۡلِ	ﲒ	اهل	(the) People	ahli
+8	4:159:4	w	ٱلۡكِتَٰبِ	ﲓ	الكتاب	(of) the Book	l-kitābi
+8	4:159:5	w	إِلَّا	ﲔ	الا	but	illā
+8	4:159:6	w	لَيُؤۡمِنَنَّ	ﲕ	ليومنن	surely he believes	layu'minanna
+8	4:159:7	w	بِهِۦ	ﲖ	به	in him	bihi
+8	4:159:8	w	قَبۡلَ	ﲗ	قبل	before	qabla
+8	4:159:9	w	مَوۡتِهِۦۖ	ﲘﲙ	موته	his death	mawtihi
+8	4:159:10	w	وَيَوۡمَ	ﲚ	ويوم	And (on the) Day	wayawma
+9	4:159:11	w	ٱلۡقِيَٰمَةِ	ﲛ	القيامة	(of) the Resurrection	l-qiyāmati
+9	4:159:12	w	يَكُونُ	ﲜ	يكون	he will be	yakūnu
+9	4:159:13	w	عَلَيۡهِمۡ	ﲝ	عليهم	against them	ʿalayhim
+9	4:159:14	w	شَهِيدٗا	ﲞ	شهيدا	a witness	shahīdan
+9	4:159:15	e	١٥٩	ﲟ			
+9	4:160:1	w	فَبِظُلۡمٖ	ﲠ	فبظلم	Then for (the) wrongdoing	fabiẓul'min
+9	4:160:2	w	مِّنَ	ﲡ	من	of	mina
+9	4:160:3	w	ٱلَّذِينَ	ﲢ	الذين	those who	alladhīna
+9	4:160:4	w	هَادُواْ	ﲣ	هادوا	were Jews	hādū
+10	4:160:5	w	حَرَّمۡنَا	ﲤ	حرمنا	We made unlawful	ḥarramnā
+10	4:160:6	w	عَلَيۡهِمۡ	ﲥ	عليهم	for them	ʿalayhim
+10	4:160:7	w	طَيِّبَٰتٍ	ﲦ	طيبات	good things	ṭayyibātin
+10	4:160:8	w	أُحِلَّتۡ	ﲧ	احلت	which had been lawful	uḥillat
+10	4:160:9	w	لَهُمۡ	ﲨ	لهم	for them	lahum
+10	4:160:10	w	وَبِصَدِّهِمۡ	ﲩ	وبصدهم	and for their hindering	wabiṣaddihim
+10	4:160:11	w	عَن	ﲪ	عن	from	ʿan
+10	4:160:12	w	سَبِيلِ	ﲫ	سبيل	(the) way	sabīli
+10	4:160:13	w	ٱللَّهِ	ﲬ	الله	(of) Allah	l-lahi
+11	4:160:14	w	كَثِيرٗا	ﲭ	كثيرا	many	kathīran
+11	4:160:15	e	١٦٠	ﲮ			
+11	4:161:1	w	وَأَخۡذِهِمُ	ﲯ	واخذهم	And for their taking	wa-akhdhihimu
+11	4:161:2	w	ٱلرِّبَوٰاْ	ﲰ	الربا	(of) [the] usury	l-riba
+11	4:161:3	w	وَقَدۡ	ﲱ	وقد	while certainly	waqad
+11	4:161:4	w	نُهُواْ	ﲲ	نهوا	they were forbidden	nuhū
+11	4:161:5	w	عَنۡهُ	ﲳ	عنه	from it	ʿanhu
+11	4:161:6	w	وَأَكۡلِهِمۡ	ﲴ	واكلهم	and (for) their consuming	wa-aklihim
+11	4:161:7	w	أَمۡوَٰلَ	ﲵ	اموال	wealth	amwāla
+12	4:161:8	w	ٱلنَّاسِ	ﲶ	الناس	(of) the people	l-nāsi
+12	4:161:9	w	بِٱلۡبَٰطِلِۚ	ﲷﲸ	بالباطل	wrongfully	bil-bāṭili
+12	4:161:10	w	وَأَعۡتَدۡنَا	ﲹ	واعتدنا	And We have prepared	wa-aʿtadnā
+12	4:161:11	w	لِلۡكَٰفِرِينَ	ﲺ	للكافرين	for the disbelievers	lil'kāfirīna
+12	4:161:12	w	مِنۡهُمۡ	ﲻ	منهم	among them	min'hum
+12	4:161:13	w	عَذَابًا	ﲼ	عذابا	a punishment	ʿadhāban
+12	4:161:14	w	أَلِيمٗا	ﲽ	اليما	painful	alīman
+12	4:161:15	e	١٦١	ﲾ			
+12	4:162:1	w	لَّٰكِنِ	ﲿ	لاكن	But	lākini
+13	4:162:2	w	ٱلرَّٰسِخُونَ	ﳀ	الراسخون	the ones who are firm	l-rāsikhūna
+13	4:162:3	w	فِي	ﳁ	في	in	fī
+13	4:162:4	w	ٱلۡعِلۡمِ	ﳂ	العلم	the knowledge	l-ʿil'mi
+13	4:162:5	w	مِنۡهُمۡ	ﳃ	منهم	among them	min'hum
+13	4:162:6	w	وَٱلۡمُؤۡمِنُونَ	ﳄ	والمومنون	and the believers	wal-mu'minūna
+13	4:162:7	w	يُؤۡمِنُونَ	ﳅ	يومنون	believe	yu'minūna
+13	4:162:8	w	بِمَآ	ﳆ	بما	in what	bimā
+13	4:162:9	w	أُنزِلَ	ﳇ	انزل	(is) revealed	unzila
+13	4:162:10	w	إِلَيۡكَ	ﳈ	اليك	to you	ilayka
+14	4:162:11	w	وَمَآ	ﳉ	وما	and what	wamā
+14	4:162:12	w	أُنزِلَ	ﳊ	انزل	was revealed	unzila
+14	4:162:13	w	مِن	ﳋ	من	from	min
+14	4:162:14	w	قَبۡلِكَۚ	ﳌﳍ	قبلك	before you	qablika
+14	4:162:15	w	وَٱلۡمُقِيمِينَ	ﳎ	والمقيمين	And the ones who establish	wal-muqīmīna
+14	4:162:16	w	ٱلصَّلَوٰةَۚ	ﳏﳐ	الصلاة	the prayer	l-ṣalata
+14	4:162:17	w	وَٱلۡمُؤۡتُونَ	ﳑ	والموتون	and the ones who give	wal-mu'tūna
+14	4:162:18	w	ٱلزَّكَوٰةَ	ﳒ	الزكاة	the zakah	l-zakata
+15	4:162:19	w	وَٱلۡمُؤۡمِنُونَ	ﳓ	والمومنون	and the ones who believe	wal-mu'minūna
+15	4:162:20	w	بِٱللَّهِ	ﳔ	بالله	in Allah	bil-lahi
+15	4:162:21	w	وَٱلۡيَوۡمِ	ﳕ	واليوم	and the Day	wal-yawmi
+15	4:162:22	w	ٱلۡأٓخِرِ	ﳖ	الاخر	the Last	l-ākhiri
+15	4:162:23	w	أُوْلَٰٓئِكَ	ﳗ	اولايك	those	ulāika
+15	4:162:24	w	سَنُؤۡتِيهِمۡ	ﳘ	سنوتيهم	We will give them	sanu'tīhim
+15	4:162:25	w	أَجۡرًا	ﳙ	اجرا	a reward	ajran
+15	4:162:26	w	عَظِيمًا	ﳚ	عظيما	great	ʿaẓīman
+15	4:162:27	e	١٦٢	ﳛ			

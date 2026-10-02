@@ -1,0 +1,157 @@
+1	35:39:1	w	هُوَ	ﱁ	هو	He	huwa
+1	35:39:2	w	ٱلَّذِي	ﱂ	الذي	(is) the One Who	alladhī
+1	35:39:3	w	جَعَلَكُمۡ	ﱃ	جعلكم	made you	jaʿalakum
+1	35:39:4	w	خَلَٰٓئِفَ	ﱄ	خلايف	successors	khalāifa
+1	35:39:5	w	فِي	ﱅ	في	in	fī
+1	35:39:6	w	ٱلۡأَرۡضِۚ	ﱆﱇ	الارض	the earth	l-arḍi
+1	35:39:7	w	فَمَن	ﱈ	فمن	And whoever	faman
+1	35:39:8	w	كَفَرَ	ﱉ	كفر	disbelieves	kafara
+1	35:39:9	w	فَعَلَيۡهِ	ﱊ	فعليه	then upon him	faʿalayhi
+1	35:39:10	w	كُفۡرُهُۥۖ	ﱋﱌ	كفره	(is) his disbelief	kuf'ruhu
+1	35:39:11	w	وَلَا	ﱍ	ولا	And not	walā
+2	35:39:12	w	يَزِيدُ	ﱎ	يزيد	increase	yazīdu
+2	35:39:13	w	ٱلۡكَٰفِرِينَ	ﱏ	الكافرين	the disbelievers	l-kāfirīna
+2	35:39:14	w	كُفۡرُهُمۡ	ﱐ	كفرهم	their disbelief	kuf'ruhum
+2	35:39:15	w	عِندَ	ﱑ	عند	near	ʿinda
+2	35:39:16	w	رَبِّهِمۡ	ﱒ	ربهم	their Lord	rabbihim
+2	35:39:17	w	إِلَّا	ﱓ	الا	except	illā
+2	35:39:18	w	مَقۡتٗاۖ	ﱔﱕ	مقتا	(in) hatred	maqtan
+2	35:39:19	w	وَلَا	ﱖ	ولا	and not	walā
+2	35:39:20	w	يَزِيدُ	ﱗ	يزيد	increase	yazīdu
+2	35:39:21	w	ٱلۡكَٰفِرِينَ	ﱘ	الكافرين	the disbelievers	l-kāfirīna
+3	35:39:22	w	كُفۡرُهُمۡ	ﱙ	كفرهم	their disbelief	kuf'ruhum
+3	35:39:23	w	إِلَّا	ﱚ	الا	except	illā
+3	35:39:24	w	خَسَارٗا	ﱛ	خسارا	(in) loss	khasāran
+3	35:39:25	e	٣٩	ﱜ			
+3	35:40:1	w	قُلۡ	ﱝ	قل	Say	qul
+3	35:40:2	w	أَرَءَيۡتُمۡ	ﱞ	ارايتم	Have you seen	ara-aytum
+3	35:40:3	w	شُرَكَآءَكُمُ	ﱟ	شركاءكم	your partners	shurakāakumu
+3	35:40:4	w	ٱلَّذِينَ	ﱠ	الذين	those whom	alladhīna
+3	35:40:5	w	تَدۡعُونَ	ﱡ	تدعون	you call	tadʿūna
+3	35:40:6	w	مِن	ﱢ	من	besides	min
+4	35:40:7	w	دُونِ	ﱣ	دون	besides	dūni
+4	35:40:8	w	ٱللَّهِ	ﱤ	الله	Allah	l-lahi
+4	35:40:9	w	أَرُونِي	ﱥ	اروني	Show Me	arūnī
+4	35:40:10	w	مَاذَا	ﱦ	ماذا	what	mādhā
+4	35:40:11	w	خَلَقُواْ	ﱧ	خلقوا	they have created	khalaqū
+4	35:40:12	w	مِنَ	ﱨ	من	from	mina
+4	35:40:13	w	ٱلۡأَرۡضِ	ﱩ	الارض	the earth	l-arḍi
+4	35:40:14	w	أَمۡ	ﱪ	ام	or	am
+4	35:40:15	w	لَهُمۡ	ﱫ	لهم	for them	lahum
+4	35:40:16	w	شِرۡكٞ	ﱬ	شرك	(is) a share	shir'kun
+4	35:40:17	w	فِي	ﱭ	في	in	fī
+4	35:40:18	w	ٱلسَّمَٰوَٰتِ	ﱮ	السماوات	the heavens	l-samāwāti
+5	35:40:19	w	أَمۡ	ﱯ	ام	Or	am
+5	35:40:20	w	ءَاتَيۡنَٰهُمۡ	ﱰ	اتيناهم	have We given them	ātaynāhum
+5	35:40:21	w	كِتَٰبٗا	ﱱ	كتابا	a Book	kitāban
+5	35:40:22	w	فَهُمۡ	ﱲ	فهم	so they	fahum
+5	35:40:23	w	عَلَىٰ	ﱳ	على	(are) on	ʿalā
+5	35:40:24	w	بَيِّنَتٖ	ﱴ	بينت	a clear proof	bayyinatin
+5	35:40:25	w	مِّنۡهُۚ	ﱵﱶ	منه	therefrom	min'hu
+5	35:40:26	w	بَلۡ	ﱷ	بل	Nay	bal
+5	35:40:27	w	إِن	ﱸ	ان	not	in
+5	35:40:28	w	يَعِدُ	ﱹ	يعد	promise	yaʿidu
+5	35:40:29	w	ٱلظَّٰلِمُونَ	ﱺ	الظالمون	the wrongdoers	l-ẓālimūna
+6	35:40:30	w	بَعۡضُهُم	ﱻ	بعضهم	some of them	baʿḍuhum
+6	35:40:31	w	بَعۡضًا	ﱼ	بعضا	(to) others	baʿḍan
+6	35:40:32	w	إِلَّا	ﱽ	الا	except	illā
+6	35:40:33	w	غُرُورًا	ﱾ	غرورا	delusion	ghurūran
+6	35:40:34	e	٤٠	ﱿ			
+6	35:41:1	w	۞ إِنَّ	ﲀ ﲁ	۞ ان	Indeed	inna
+6	35:41:2	w	ٱللَّهَ	ﲂ	الله	Allah	l-laha
+6	35:41:3	w	يُمۡسِكُ	ﲃ	يمسك	upholds	yum'siku
+6	35:41:4	w	ٱلسَّمَٰوَٰتِ	ﲄ	السماوات	the heavens	l-samāwāti
+7	35:41:5	w	وَٱلۡأَرۡضَ	ﲅ	والارض	and the earth	wal-arḍa
+7	35:41:6	w	أَن	ﲆ	ان	lest	an
+7	35:41:7	w	تَزُولَاۚ	ﲇﲈ	تزولا	they cease	tazūlā
+7	35:41:8	w	وَلَئِن	ﲉ	ولين	And if	wala-in
+7	35:41:9	w	زَالَتَآ	ﲊ	زالتا	they should cease	zālatā
+7	35:41:10	w	إِنۡ	ﲋ	ان	not	in
+7	35:41:11	w	أَمۡسَكَهُمَا	ﲌ	امسكهما	can uphold them	amsakahumā
+7	35:41:12	w	مِنۡ	ﲍ	من	any	min
+7	35:41:13	w	أَحَدٖ	ﲎ	احد	one	aḥadin
+7	35:41:14	w	مِّنۢ	ﲏ	من	after Him	min
+7	35:41:15	w	بَعۡدِهِۦٓۚ	ﲐﲑ	بعده	after Him	baʿdihi
+8	35:41:16	w	إِنَّهُۥ	ﲒ	انه	Indeed, He	innahu
+8	35:41:17	w	كَانَ	ﲓ	كان	is	kāna
+8	35:41:18	w	حَلِيمًا	ﲔ	حليما	Most Forbearing	ḥalīman
+8	35:41:19	w	غَفُورٗا	ﲕ	غفورا	Oft-Forgiving	ghafūran
+8	35:41:20	e	٤١	ﲖ			
+8	35:42:1	w	وَأَقۡسَمُواْ	ﲗ	واقسموا	And they swore	wa-aqsamū
+8	35:42:2	w	بِٱللَّهِ	ﲘ	بالله	by Allah	bil-lahi
+8	35:42:3	w	جَهۡدَ	ﲙ	جهد	(the) strongest	jahda
+8	35:42:4	w	أَيۡمَٰنِهِمۡ	ﲚ	ايمانهم	(of) their oaths	aymānihim
+8	35:42:5	w	لَئِن	ﲛ	لين	that if	la-in
+8	35:42:6	w	جَآءَهُمۡ	ﲜ	جاءهم	came to them	jāahum
+9	35:42:7	w	نَذِيرٞ	ﲝ	نذير	a warner	nadhīrun
+9	35:42:8	w	لَّيَكُونُنَّ	ﲞ	ليكونن	surely, they would be	layakūnunna
+9	35:42:9	w	أَهۡدَىٰ	ﲟ	اهدى	more guided	ahdā
+9	35:42:10	w	مِنۡ	ﲠ	من	than	min
+9	35:42:11	w	إِحۡدَى	ﲡ	احدى	any	iḥ'dā
+9	35:42:12	w	ٱلۡأُمَمِۖ	ﲢﲣ	الامم	(of) the nations	l-umami
+9	35:42:13	w	فَلَمَّا	ﲤ	فلما	But when	falammā
+9	35:42:14	w	جَآءَهُمۡ	ﲥ	جاءهم	came to them	jāahum
+9	35:42:15	w	نَذِيرٞ	ﲦ	نذير	a warner	nadhīrun
+10	35:42:16	w	مَّا	ﲧ	ما	not	mā
+10	35:42:17	w	زَادَهُمۡ	ﲨ	زادهم	it increased them	zādahum
+10	35:42:18	w	إِلَّا	ﲩ	الا	but	illā
+10	35:42:19	w	نُفُورًا	ﲪ	نفورا	(in) aversion	nufūran
+10	35:42:20	e	٤٢	ﲫ			
+10	35:43:1	w	ٱسۡتِكۡبَارٗا	ﲬ	استكبارا	(Due to) arrogance	is'tik'bāran
+10	35:43:2	w	فِي	ﲭ	في	in	fī
+10	35:43:3	w	ٱلۡأَرۡضِ	ﲮ	الارض	the land	l-arḍi
+10	35:43:4	w	وَمَكۡرَ	ﲯ	ومكر	and plotting	wamakra
+10	35:43:5	w	ٱلسَّيِّيِٕۚ	ﲰﲱ	السيي	(of) the evil	l-sayi-i
+11	35:43:6	w	وَلَا	ﲲ	ولا	but not	walā
+11	35:43:7	w	يَحِيقُ	ﲳ	يحيق	encompasses	yaḥīqu
+11	35:43:8	w	ٱلۡمَكۡرُ	ﲴ	المكر	the plot	l-makru
+11	35:43:9	w	ٱلسَّيِّئُ	ﲵ	السيي	(of) the evil	l-sayi-u
+11	35:43:10	w	إِلَّا	ﲶ	الا	except	illā
+11	35:43:11	w	بِأَهۡلِهِۦۚ	ﲷﲸ	باهله	its own people	bi-ahlihi
+11	35:43:12	w	فَهَلۡ	ﲹ	فهل	Then do	fahal
+11	35:43:13	w	يَنظُرُونَ	ﲺ	ينظرون	they wait	yanẓurūna
+11	35:43:14	w	إِلَّا	ﲻ	الا	except	illā
+11	35:43:15	w	سُنَّتَ	ﲼ	سنت	(the) way	sunnata
+12	35:43:16	w	ٱلۡأَوَّلِينَۚ	ﲽﲾ	الاولين	(of) the former (people)	l-awalīna
+12	35:43:17	w	فَلَن	ﲿ	فلن	But never	falan
+12	35:43:18	w	تَجِدَ	ﳀ	تجد	you will find	tajida
+12	35:43:19	w	لِسُنَّتِ	ﳁ	لسنت	in (the) way	lisunnati
+12	35:43:20	w	ٱللَّهِ	ﳂ	الله	(of) Allah	l-lahi
+12	35:43:21	w	تَبۡدِيلٗاۖ	ﳃﳄ	تبديلا	any change	tabdīlan
+12	35:43:22	w	وَلَن	ﳅ	ولن	and never	walan
+12	35:43:23	w	تَجِدَ	ﳆ	تجد	you will find	tajida
+12	35:43:24	w	لِسُنَّتِ	ﳇ	لسنت	in (the) way	lisunnati
+12	35:43:25	w	ٱللَّهِ	ﳈ	الله	(of) Allah	l-lahi
+12	35:43:26	w	تَحۡوِيلًا	ﳉ	تحويلا	any alteration	taḥwīlan
+13	35:43:27	e	٤٣	ﳊ			
+13	35:44:1	w	أَوَلَمۡ	ﳋ	اولم	Have they not	awalam
+13	35:44:2	w	يَسِيرُواْ	ﳌ	يسيروا	traveled	yasīrū
+13	35:44:3	w	فِي	ﳍ	في	in	fī
+13	35:44:4	w	ٱلۡأَرۡضِ	ﳎ	الارض	the land	l-arḍi
+13	35:44:5	w	فَيَنظُرُواْ	ﳏ	فينظروا	and seen	fayanẓurū
+13	35:44:6	w	كَيۡفَ	ﳐ	كيف	how	kayfa
+13	35:44:7	w	كَانَ	ﳑ	كان	was	kāna
+13	35:44:8	w	عَٰقِبَةُ	ﳒ	عاقبة	(the) end	ʿāqibatu
+13	35:44:9	w	ٱلَّذِينَ	ﳓ	الذين	(of) those who	alladhīna
+13	35:44:10	w	مِن	ﳔ	من	(were) before them	min
+14	35:44:11	w	قَبۡلِهِمۡ	ﳕ	قبلهم	(were) before them	qablihim
+14	35:44:12	w	وَكَانُوٓاْ	ﳖ	وكانوا	And they were	wakānū
+14	35:44:13	w	أَشَدَّ	ﳗ	اشد	stronger	ashadda
+14	35:44:14	w	مِنۡهُمۡ	ﳘ	منهم	than them	min'hum
+14	35:44:15	w	قُوَّةٗۚ	ﳙﳚ	قوة	(in) power	quwwatan
+14	35:44:16	w	وَمَا	ﳛ	وما	But not	wamā
+14	35:44:17	w	كَانَ	ﳜ	كان	is	kāna
+14	35:44:18	w	ٱللَّهُ	ﳝ	الله	Allah	l-lahu
+14	35:44:19	w	لِيُعۡجِزَهُۥ	ﳞ	ليعجزه	that can escape (from) Him	liyuʿ'jizahu
+14	35:44:20	w	مِن	ﳟ	من	any	min
+14	35:44:21	w	شَيۡءٖ	ﳠ	شيء	thing	shayin
+15	35:44:22	w	فِي	ﳡ	في	in	fī
+15	35:44:23	w	ٱلسَّمَٰوَٰتِ	ﳢ	السماوات	the heavens	l-samāwāti
+15	35:44:24	w	وَلَا	ﳣ	ولا	and not	walā
+15	35:44:25	w	فِي	ﳤ	في	in	fī
+15	35:44:26	w	ٱلۡأَرۡضِۚ	ﳥﳦ	الارض	the earth	l-arḍi
+15	35:44:27	w	إِنَّهُۥ	ﳧ	انه	Indeed, He	innahu
+15	35:44:28	w	كَانَ	ﳨ	كان	is	kāna
+15	35:44:29	w	عَلِيمٗا	ﳩ	عليما	All-Knower	ʿalīman
+15	35:44:30	w	قَدِيرٗا	ﳪ	قديرا	All-Powerful	qadīran
+15	35:44:31	e	٤٤	ﳫ			

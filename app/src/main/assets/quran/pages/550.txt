@@ -1,0 +1,158 @@
+1	60:6:1	w	لَقَدۡ	ﱁ	لقد	Certainly	laqad
+1	60:6:2	w	كَانَ	ﱂ	كان	(there) is	kāna
+1	60:6:3	w	لَكُمۡ	ﱃ	لكم	for you	lakum
+1	60:6:4	w	فِيهِمۡ	ﱄ	فيهم	in them	fīhim
+1	60:6:5	w	أُسۡوَةٌ	ﱅ	اسوة	an example	us'watun
+1	60:6:6	w	حَسَنَةٞ	ﱆ	حسنة	good	ḥasanatun
+1	60:6:7	w	لِّمَن	ﱇ	لمن	for (he) who	liman
+1	60:6:8	w	كَانَ	ﱈ	كان	is	kāna
+1	60:6:9	w	يَرۡجُواْ	ﱉ	يرجو	hopeful	yarjū
+1	60:6:10	w	ٱللَّهَ	ﱊ	الله	(in) Allah	l-laha
+1	60:6:11	w	وَٱلۡيَوۡمَ	ﱋ	واليوم	and the Day	wal-yawma
+1	60:6:12	w	ٱلۡأٓخِرَۚ	ﱌﱍ	الاخر	the Last	l-ākhira
+2	60:6:13	w	وَمَن	ﱎ	ومن	And whoever	waman
+2	60:6:14	w	يَتَوَلَّ	ﱏ	يتول	turns away	yatawalla
+2	60:6:15	w	فَإِنَّ	ﱐ	فان	then indeed	fa-inna
+2	60:6:16	w	ٱللَّهَ	ﱑ	الله	Allah	l-laha
+2	60:6:17	w	هُوَ	ﱒ	هو	He	huwa
+2	60:6:18	w	ٱلۡغَنِيُّ	ﱓ	الغني	(is) Free of need	l-ghaniyu
+2	60:6:19	w	ٱلۡحَمِيدُ	ﱔ	الحميد	the Praiseworthy	l-ḥamīdu
+2	60:6:20	e	٦	ﱕ			
+2	60:7:1	w	۞ عَسَى	ﱖ ﱗ	۞ عسى	Perhaps	ʿasā
+2	60:7:2	w	ٱللَّهُ	ﱘ	الله	Allah	l-lahu
+2	60:7:3	w	أَن	ﱙ	ان	[that]	an
+2	60:7:4	w	يَجۡعَلَ	ﱚ	يجعل	will put	yajʿala
+2	60:7:5	w	بَيۡنَكُمۡ	ﱛ	بينكم	between you	baynakum
+3	60:7:6	w	وَبَيۡنَ	ﱜ	وبين	and between	wabayna
+3	60:7:7	w	ٱلَّذِينَ	ﱝ	الذين	those (to) whom	alladhīna
+3	60:7:8	w	عَادَيۡتُم	ﱞ	عاديتم	you have been enemies	ʿādaytum
+3	60:7:9	w	مِّنۡهُم	ﱟ	منهم	among them	min'hum
+3	60:7:10	w	مَّوَدَّةٗۚ	ﱠﱡ	مودة	love	mawaddatan
+3	60:7:11	w	وَٱللَّهُ	ﱢ	والله	And Allah	wal-lahu
+3	60:7:12	w	قَدِيرٞۚ	ﱣﱤ	قدير	(is) All-Powerful	qadīrun
+3	60:7:13	w	وَٱللَّهُ	ﱥ	والله	And Allah	wal-lahu
+3	60:7:14	w	غَفُورٞ	ﱦ	غفور	(is) Oft-Forgiving	ghafūrun
+3	60:7:15	w	رَّحِيمٞ	ﱧ	رحيم	Most Merciful	raḥīmun
+4	60:7:16	e	٧	ﱨ			
+4	60:8:1	w	لَّا	ﱩ	لا	Not	lā
+4	60:8:2	w	يَنۡهَىٰكُمُ	ﱪ	ينهاكم	(does) forbid you	yanhākumu
+4	60:8:3	w	ٱللَّهُ	ﱫ	الله	Allah	l-lahu
+4	60:8:4	w	عَنِ	ﱬ	عن	from	ʿani
+4	60:8:5	w	ٱلَّذِينَ	ﱭ	الذين	those who	alladhīna
+4	60:8:6	w	لَمۡ	ﱮ	لم	(do) not	lam
+4	60:8:7	w	يُقَٰتِلُوكُمۡ	ﱯ	يقاتلوكم	fight you	yuqātilūkum
+4	60:8:8	w	فِي	ﱰ	في	in	fī
+4	60:8:9	w	ٱلدِّينِ	ﱱ	الدين	the religion	l-dīni
+4	60:8:10	w	وَلَمۡ	ﱲ	ولم	and (do) not	walam
+4	60:8:11	w	يُخۡرِجُوكُم	ﱳ	يخرجوكم	drive you out	yukh'rijūkum
+5	60:8:12	w	مِّن	ﱴ	من	of	min
+5	60:8:13	w	دِيَٰرِكُمۡ	ﱵ	دياركم	your homes	diyārikum
+5	60:8:14	w	أَن	ﱶ	ان	that	an
+5	60:8:15	w	تَبَرُّوهُمۡ	ﱷ	تبروهم	you deal kindly	tabarrūhum
+5	60:8:16	w	وَتُقۡسِطُوٓاْ	ﱸ	وتقسطوا	and deal justly	watuq'siṭū
+5	60:8:17	w	إِلَيۡهِمۡۚ	ﱹﱺ	اليهم	with them	ilayhim
+5	60:8:18	w	إِنَّ	ﱻ	ان	Indeed	inna
+5	60:8:19	w	ٱللَّهَ	ﱼ	الله	Allah	l-laha
+5	60:8:20	w	يُحِبُّ	ﱽ	يحب	loves	yuḥibbu
+5	60:8:21	w	ٱلۡمُقۡسِطِينَ	ﱾ	المقسطين	those who act justly	l-muq'siṭīna
+6	60:8:22	e	٨	ﱿ			
+6	60:9:1	w	إِنَّمَا	ﲀ	انما	Only	innamā
+6	60:9:2	w	يَنۡهَىٰكُمُ	ﲁ	ينهاكم	forbids you	yanhākumu
+6	60:9:3	w	ٱللَّهُ	ﲂ	الله	Allah	l-lahu
+6	60:9:4	w	عَنِ	ﲃ	عن	from	ʿani
+6	60:9:5	w	ٱلَّذِينَ	ﲄ	الذين	those who	alladhīna
+6	60:9:6	w	قَٰتَلُوكُمۡ	ﲅ	قاتلوكم	fight you	qātalūkum
+6	60:9:7	w	فِي	ﲆ	في	in	fī
+6	60:9:8	w	ٱلدِّينِ	ﲇ	الدين	the religion	l-dīni
+6	60:9:9	w	وَأَخۡرَجُوكُم	ﲈ	واخرجوكم	and drive you out	wa-akhrajūkum
+6	60:9:10	w	مِّن	ﲉ	من	of	min
+7	60:9:11	w	دِيَٰرِكُمۡ	ﲊ	دياركم	your homes	diyārikum
+7	60:9:12	w	وَظَٰهَرُواْ	ﲋ	وظاهروا	and support	waẓāharū
+7	60:9:13	w	عَلَىٰٓ	ﲌ	على	in	ʿalā
+7	60:9:14	w	إِخۡرَاجِكُمۡ	ﲍ	اخراجكم	your expulsion	ikh'rājikum
+7	60:9:15	w	أَن	ﲎ	ان	that	an
+7	60:9:16	w	تَوَلَّوۡهُمۡۚ	ﲏﲐ	تولوهم	you make them allies	tawallawhum
+7	60:9:17	w	وَمَن	ﲑ	ومن	And whoever	waman
+7	60:9:18	w	يَتَوَلَّهُمۡ	ﲒ	يتولهم	makes them allies	yatawallahum
+7	60:9:19	w	فَأُوْلَٰٓئِكَ	ﲓ	فاولايك	then those	fa-ulāika
+8	60:9:20	w	هُمُ	ﲔ	هم	[they]	humu
+8	60:9:21	w	ٱلظَّٰلِمُونَ	ﲕ	الظالمون	(are) the wrongdoers	l-ẓālimūna
+8	60:9:22	e	٩	ﲖ			
+8	60:10:1	w	يَٰٓأَيُّهَا	ﲗ	يا ايها	O you	yāayyuhā
+8	60:10:2	w	ٱلَّذِينَ	ﲘ	الذين	who	alladhīna
+8	60:10:3	w	ءَامَنُوٓاْ	ﲙ	امنوا	believe	āmanū
+8	60:10:4	w	إِذَا	ﲚ	اذا	When	idhā
+8	60:10:5	w	جَآءَكُمُ	ﲛ	جاءكم	come to you	jāakumu
+8	60:10:6	w	ٱلۡمُؤۡمِنَٰتُ	ﲜ	المومنات	the believing women	l-mu'minātu
+8	60:10:7	w	مُهَٰجِرَٰتٖ	ﲝ	مهاجرات	(as) emigrants	muhājirātin
+9	60:10:8	w	فَٱمۡتَحِنُوهُنَّۖ	ﲞﲟ	فامتحنوهن	then examine them	fa-im'taḥinūhunna
+9	60:10:9	w	ٱللَّهُ	ﲠ	الله	Allah	l-lahu
+9	60:10:10	w	أَعۡلَمُ	ﲡ	اعلم	(is) most knowing	aʿlamu
+9	60:10:11	w	بِإِيمَٰنِهِنَّۖ	ﲢﲣ	بايمانهن	of their faith	biīmānihinna
+9	60:10:12	w	فَإِنۡ	ﲤ	فان	And if	fa-in
+9	60:10:13	w	عَلِمۡتُمُوهُنَّ	ﲥ	علمتموهن	you know them	ʿalim'tumūhunna
+9	60:10:14	w	مُؤۡمِنَٰتٖ	ﲦ	مومنات	(to be) believers	mu'minātin
+9	60:10:15	w	فَلَا	ﲧ	فلا	then (do) not	falā
+10	60:10:16	w	تَرۡجِعُوهُنَّ	ﲨ	ترجعوهن	return them	tarjiʿūhunna
+10	60:10:17	w	إِلَى	ﲩ	الى	to	ilā
+10	60:10:18	w	ٱلۡكُفَّارِۖ	ﲪﲫ	الكفار	the disbelievers	l-kufāri
+10	60:10:19	w	لَا	ﲬ	لا	Not	lā
+10	60:10:20	w	هُنَّ	ﲭ	هن	they	hunna
+10	60:10:21	w	حِلّٞ	ﲮ	حل	(are) lawful	ḥillun
+10	60:10:22	w	لَّهُمۡ	ﲯ	لهم	for them	lahum
+10	60:10:23	w	وَلَا	ﲰ	ولا	and not	walā
+10	60:10:24	w	هُمۡ	ﲱ	هم	they	hum
+10	60:10:25	w	يَحِلُّونَ	ﲲ	يحلون	are lawful	yaḥillūna
+10	60:10:26	w	لَهُنَّۖ	ﲳﲴ	لهن	for them	lahunna
+10	60:10:27	w	وَءَاتُوهُم	ﲵ	واتوهم	But give them	waātūhum
+11	60:10:28	w	مَّآ	ﲶ	ما	what	mā
+11	60:10:29	w	أَنفَقُواْۚ	ﲷﲸ	انفقوا	they have spent	anfaqū
+11	60:10:30	w	وَلَا	ﲹ	ولا	And not	walā
+11	60:10:31	w	جُنَاحَ	ﲺ	جناح	any blame	junāḥa
+11	60:10:32	w	عَلَيۡكُمۡ	ﲻ	عليكم	upon you	ʿalaykum
+11	60:10:33	w	أَن	ﲼ	ان	if	an
+11	60:10:34	w	تَنكِحُوهُنَّ	ﲽ	تنكحوهن	you marry them	tankiḥūhunna
+11	60:10:35	w	إِذَآ	ﲾ	اذا	when	idhā
+11	60:10:36	w	ءَاتَيۡتُمُوهُنَّ	ﲿ	اتيتموهن	you have given them	ātaytumūhunna
+11	60:10:37	w	أُجُورَهُنَّۚ	ﳀﳁ	اجورهن	their (bridal) dues	ujūrahunna
+12	60:10:38	w	وَلَا	ﳂ	ولا	And (do) not	walā
+12	60:10:39	w	تُمۡسِكُواْ	ﳃ	تمسكوا	hold	tum'sikū
+12	60:10:40	w	بِعِصَمِ	ﳄ	بعصم	to marriage bonds	biʿiṣami
+12	60:10:41	w	ٱلۡكَوَافِرِ	ﳅ	الكوافر	(with) disbelieving women	l-kawāfiri
+12	60:10:42	w	وَسۡـَٔلُواْ	ﳆ	واسالوا	but ask (for)	wasalū
+12	60:10:43	w	مَآ	ﳇ	ما	what	mā
+12	60:10:44	w	أَنفَقۡتُمۡ	ﳈ	انفقتم	you have spent	anfaqtum
+12	60:10:45	w	وَلۡيَسۡـَٔلُواْ	ﳉ	وليسالوا	and let them ask	walyasalū
+12	60:10:46	w	مَآ	ﳊ	ما	what	mā
+12	60:10:47	w	أَنفَقُواْۚ	ﳋﳌ	انفقوا	they have spent	anfaqū
+13	60:10:48	w	ذَٰلِكُمۡ	ﳍ	ذالكم	That	dhālikum
+13	60:10:49	w	حُكۡمُ	ﳎ	حكم	(is the) Judgment	ḥuk'mu
+13	60:10:50	w	ٱللَّهِ	ﳏ	الله	(of) Allah	l-lahi
+13	60:10:51	w	يَحۡكُمُ	ﳐ	يحكم	He judges	yaḥkumu
+13	60:10:52	w	بَيۡنَكُمۡۖ	ﳑﳒ	بينكم	between you	baynakum
+13	60:10:53	w	وَٱللَّهُ	ﳓ	والله	And Allah	wal-lahu
+13	60:10:54	w	عَلِيمٌ	ﳔ	عليم	(is) All-Knowing	ʿalīmun
+13	60:10:55	w	حَكِيمٞ	ﳕ	حكيم	All-Wise	ḥakīmun
+13	60:10:56	e	١٠	ﳖ			
+13	60:11:1	w	وَإِن	ﳗ	وان	And if	wa-in
+13	60:11:2	w	فَاتَكُمۡ	ﳘ	فاتكم	have gone from you	fātakum
+14	60:11:3	w	شَيۡءٞ	ﳙ	شيء	any	shayon
+14	60:11:4	w	مِّنۡ	ﳚ	من	of	min
+14	60:11:5	w	أَزۡوَٰجِكُمۡ	ﳛ	ازواجكم	your wives	azwājikum
+14	60:11:6	w	إِلَى	ﳜ	الى	to	ilā
+14	60:11:7	w	ٱلۡكُفَّارِ	ﳝ	الكفار	the disbelievers	l-kufāri
+14	60:11:8	w	فَعَاقَبۡتُمۡ	ﳞ	فعاقبتم	then your turn comes	faʿāqabtum
+14	60:11:9	w	فَـَٔاتُواْ	ﳟ	فاتوا	then give	faātū
+14	60:11:10	w	ٱلَّذِينَ	ﳠ	الذين	(to) those who	alladhīna
+14	60:11:11	w	ذَهَبَتۡ	ﳡ	ذهبت	have gone	dhahabat
+15	60:11:12	w	أَزۡوَٰجُهُم	ﳢ	ازواجهم	their wives	azwājuhum
+15	60:11:13	w	مِّثۡلَ	ﳣ	مثل	(the) like	mith'la
+15	60:11:14	w	مَآ	ﳤ	ما	(of) what	mā
+15	60:11:15	w	أَنفَقُواْۚ	ﳥﳦ	انفقوا	they had spent	anfaqū
+15	60:11:16	w	وَٱتَّقُواْ	ﳧ	واتقوا	And fear	wa-ittaqū
+15	60:11:17	w	ٱللَّهَ	ﳨ	الله	Allah	l-laha
+15	60:11:18	w	ٱلَّذِيٓ	ﳩ	الذي	(in) Whom	alladhī
+15	60:11:19	w	أَنتُم	ﳪ	انتم	you	antum
+15	60:11:20	w	بِهِۦ	ﳫ	به	[in Him]	bihi
+15	60:11:21	w	مُؤۡمِنُونَ	ﳬ	مومنون	(are) believers	mu'minūna
+15	60:11:22	e	١١	ﳭ			

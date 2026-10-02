@@ -1,0 +1,114 @@
+3	21:1:1	w	ٱقۡتَرَبَ	ﱁ	اقترب	(Has) approached	iq'taraba
+3	21:1:2	w	لِلنَّاسِ	ﱂ	للناس	for [the] mankind	lilnnāsi
+3	21:1:3	w	حِسَابُهُمۡ	ﱃ	حسابهم	their account	ḥisābuhum
+3	21:1:4	w	وَهُمۡ	ﱄ	وهم	while they	wahum
+3	21:1:5	w	فِي	ﱅ	في	(are) in	fī
+3	21:1:6	w	غَفۡلَةٖ	ﱆ	غفلة	heedlessness	ghaflatin
+3	21:1:7	w	مُّعۡرِضُونَ	ﱇ	معرضون	turning away	muʿ'riḍūna
+3	21:1:8	e	١	ﱈ			
+4	21:2:1	w	مَا	ﱉ	ما	Not	mā
+4	21:2:2	w	يَأۡتِيهِم	ﱊ	ياتيهم	comes to them	yatīhim
+4	21:2:3	w	مِّن	ﱋ	من	of	min
+4	21:2:4	w	ذِكۡرٖ	ﱌ	ذكر	a Reminder	dhik'rin
+4	21:2:5	w	مِّن	ﱍ	من	from	min
+4	21:2:6	w	رَّبِّهِم	ﱎ	ربهم	their Lord	rabbihim
+4	21:2:7	w	مُّحۡدَثٍ	ﱏ	محدث	anew	muḥ'dathin
+4	21:2:8	w	إِلَّا	ﱐ	الا	except	illā
+4	21:2:9	w	ٱسۡتَمَعُوهُ	ﱑ	استمعوه	they listen to it	is'tamaʿūhu
+4	21:2:10	w	وَهُمۡ	ﱒ	وهم	while they	wahum
+5	21:2:11	w	يَلۡعَبُونَ	ﱓ	يلعبون	(are at) play	yalʿabūna
+5	21:2:12	e	٢	ﱔ			
+5	21:3:1	w	لَاهِيَةٗ	ﱕ	لاهية	Distracted	lāhiyatan
+5	21:3:2	w	قُلُوبُهُمۡۗ	ﱖﱗ	قلوبهم	their hearts	qulūbuhum
+5	21:3:3	w	وَأَسَرُّواْ	ﱘ	واسروا	And they conceal	wa-asarrū
+5	21:3:4	w	ٱلنَّجۡوَى	ﱙ	النجوى	the private conversation	l-najwā
+5	21:3:5	w	ٱلَّذِينَ	ﱚ	الذين	those who	alladhīna
+6	21:3:6	w	ظَلَمُواْ	ﱛ	ظلموا	[they] wronged	ẓalamū
+6	21:3:7	w	هَلۡ	ﱜ	هل	Is	hal
+6	21:3:8	w	هَٰذَآ	ﱝ	هاذا	this	hādhā
+6	21:3:9	w	إِلَّا	ﱞ	الا	except	illā
+6	21:3:10	w	بَشَرٞ	ﱟ	بشر	a human being	basharun
+6	21:3:11	w	مِّثۡلُكُمۡۖ	ﱠﱡ	مثلكم	like you	mith'lukum
+6	21:3:12	w	أَفَتَأۡتُونَ	ﱢ	افتاتون	So would you approach	afatatūna
+6	21:3:13	w	ٱلسِّحۡرَ	ﱣ	السحر	the magic	l-siḥ'ra
+6	21:3:14	w	وَأَنتُمۡ	ﱤ	وانتم	while you	wa-antum
+7	21:3:15	w	تُبۡصِرُونَ	ﱥ	تبصرون	see (it)	tub'ṣirūna
+7	21:3:16	e	٣	ﱦ			
+7	21:4:1	w	قَالَ	ﱧ	قال	He said	qāla
+7	21:4:2	w	رَبِّي	ﱨ	ربي	My Lord	rabbī
+7	21:4:3	w	يَعۡلَمُ	ﱩ	يعلم	knows	yaʿlamu
+7	21:4:4	w	ٱلۡقَوۡلَ	ﱪ	القول	the word	l-qawla
+7	21:4:5	w	فِي	ﱫ	في	in	fī
+7	21:4:6	w	ٱلسَّمَآءِ	ﱬ	السماء	the heavens	l-samāi
+7	21:4:7	w	وَٱلۡأَرۡضِۖ	ﱭﱮ	والارض	and the earth	wal-arḍi
+8	21:4:8	w	وَهُوَ	ﱯ	وهو	And He	wahuwa
+8	21:4:9	w	ٱلسَّمِيعُ	ﱰ	السميع	(is) the All-Hearer	l-samīʿu
+8	21:4:10	w	ٱلۡعَلِيمُ	ﱱ	العليم	the All-Knower	l-ʿalīmu
+8	21:4:11	e	٤	ﱲ			
+8	21:5:1	w	بَلۡ	ﱳ	بل	Nay	bal
+8	21:5:2	w	قَالُوٓاْ	ﱴ	قالوا	they say	qālū
+8	21:5:3	w	أَضۡغَٰثُ	ﱵ	اضغاث	Muddled	aḍghāthu
+8	21:5:4	w	أَحۡلَٰمِۭ	ﱶ	احلام	dreams	aḥlāmin
+8	21:5:5	w	بَلِ	ﱷ	بل	nay	bali
+9	21:5:6	w	ٱفۡتَرَىٰهُ	ﱸ	افتراه	he (has) invented it	if'tarāhu
+9	21:5:7	w	بَلۡ	ﱹ	بل	nay	bal
+9	21:5:8	w	هُوَ	ﱺ	هو	he	huwa
+9	21:5:9	w	شَاعِرٞ	ﱻ	شاعر	(is) a poet	shāʿirun
+9	21:5:10	w	فَلۡيَأۡتِنَا	ﱼ	فلياتنا	So let him bring us	falyatinā
+9	21:5:11	w	بِـَٔايَةٖ	ﱽ	باية	a sign	biāyatin
+9	21:5:12	w	كَمَآ	ﱾ	كما	like what	kamā
+9	21:5:13	w	أُرۡسِلَ	ﱿ	ارسل	was sent	ur'sila
+9	21:5:14	w	ٱلۡأَوَّلُونَ	ﲀ	الاولون	(to) the former	l-awalūna
+10	21:5:15	e	٥	ﲁ			
+10	21:6:1	w	مَآ	ﲂ	ما	Not	mā
+10	21:6:2	w	ءَامَنَتۡ	ﲃ	امنت	believed	āmanat
+10	21:6:3	w	قَبۡلَهُم	ﲄ	قبلهم	before them	qablahum
+10	21:6:4	w	مِّن	ﲅ	من	any	min
+10	21:6:5	w	قَرۡيَةٍ	ﲆ	قرية	town	qaryatin
+10	21:6:6	w	أَهۡلَكۡنَٰهَآۖ	ﲇﲈ	اهلكناها	which We destroyed	ahlaknāhā
+10	21:6:7	w	أَفَهُمۡ	ﲉ	افهم	so will they	afahum
+10	21:6:8	w	يُؤۡمِنُونَ	ﲊ	يومنون	believe	yu'minūna
+11	21:6:9	e	٦	ﲋ			
+11	21:7:1	w	وَمَآ	ﲌ	وما	And not	wamā
+11	21:7:2	w	أَرۡسَلۡنَا	ﲍ	ارسلنا	We sent	arsalnā
+11	21:7:3	w	قَبۡلَكَ	ﲎ	قبلك	before you	qablaka
+11	21:7:4	w	إِلَّا	ﲏ	الا	except	illā
+11	21:7:5	w	رِجَالٗا	ﲐ	رجالا	men	rijālan
+11	21:7:6	w	نُّوحِيٓ	ﲑ	نوحي	We revealed	nūḥī
+11	21:7:7	w	إِلَيۡهِمۡۖ	ﲒﲓ	اليهم	to them	ilayhim
+11	21:7:8	w	فَسۡـَٔلُوٓاْ	ﲔ	فاسالوا	So ask	fasalū
+11	21:7:9	w	أَهۡلَ	ﲕ	اهل	(the) people	ahla
+12	21:7:10	w	ٱلذِّكۡرِ	ﲖ	الذكر	(of) the Reminder	l-dhik'ri
+12	21:7:11	w	إِن	ﲗ	ان	if	in
+12	21:7:12	w	كُنتُمۡ	ﲘ	كنتم	you	kuntum
+12	21:7:13	w	لَا	ﲙ	لا	(do) not	lā
+12	21:7:14	w	تَعۡلَمُونَ	ﲚ	تعلمون	know	taʿlamūna
+12	21:7:15	e	٧	ﲛ			
+12	21:8:1	w	وَمَا	ﲜ	وما	And not	wamā
+12	21:8:2	w	جَعَلۡنَٰهُمۡ	ﲝ	جعلناهم	We made them	jaʿalnāhum
+12	21:8:3	w	جَسَدٗا	ﲞ	جسدا	bodies	jasadan
+13	21:8:4	w	لَّا	ﲟ	لا	not	lā
+13	21:8:5	w	يَأۡكُلُونَ	ﲠ	ياكلون	eating	yakulūna
+13	21:8:6	w	ٱلطَّعَامَ	ﲡ	الطعام	the food	l-ṭaʿāma
+13	21:8:7	w	وَمَا	ﲢ	وما	and not	wamā
+13	21:8:8	w	كَانُواْ	ﲣ	كانوا	they were	kānū
+13	21:8:9	w	خَٰلِدِينَ	ﲤ	خالدين	immortals	khālidīna
+13	21:8:10	e	٨	ﲥ			
+13	21:9:1	w	ثُمَّ	ﲦ	ثم	Then	thumma
+13	21:9:2	w	صَدَقۡنَٰهُمُ	ﲧ	صدقناهم	We fulfilled (for) them	ṣadaqnāhumu
+14	21:9:3	w	ٱلۡوَعۡدَ	ﲨ	الوعد	the promise	l-waʿda
+14	21:9:4	w	فَأَنجَيۡنَٰهُمۡ	ﲩ	فانجيناهم	and We saved them	fa-anjaynāhum
+14	21:9:5	w	وَمَن	ﲪ	ومن	and whom	waman
+14	21:9:6	w	نَّشَآءُ	ﲫ	نشاء	We willed	nashāu
+14	21:9:7	w	وَأَهۡلَكۡنَا	ﲬ	واهلكنا	and We destroyed	wa-ahlaknā
+14	21:9:8	w	ٱلۡمُسۡرِفِينَ	ﲭ	المسرفين	the transgressors	l-mus'rifīna
+14	21:9:9	e	٩	ﲮ			
+15	21:10:1	w	لَقَدۡ	ﲯ	لقد	Indeed	laqad
+15	21:10:2	w	أَنزَلۡنَآ	ﲰ	انزلنا	We (have) sent down	anzalnā
+15	21:10:3	w	إِلَيۡكُمۡ	ﲱ	اليكم	to you	ilaykum
+15	21:10:4	w	كِتَٰبٗا	ﲲ	كتابا	a Book	kitāban
+15	21:10:5	w	فِيهِ	ﲳ	فيه	in it	fīhi
+15	21:10:6	w	ذِكۡرُكُمۡۚ	ﲴﲵ	ذكركم	(is) your mention	dhik'rukum
+15	21:10:7	w	أَفَلَا	ﲶ	افلا	Then will not	afalā
+15	21:10:8	w	تَعۡقِلُونَ	ﲷ	تعقلون	you use reason	taʿqilūna
+15	21:10:9	e	١٠	ﲸ			

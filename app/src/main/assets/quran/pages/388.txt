@@ -1,0 +1,140 @@
+1	28:22:1	w	وَلَمَّا	ﱁ	ولما	And when	walammā
+1	28:22:2	w	تَوَجَّهَ	ﱂ	توجه	he turned his face	tawajjaha
+1	28:22:3	w	تِلۡقَآءَ	ﱃ	تلقاء	towards	til'qāa
+1	28:22:4	w	مَدۡيَنَ	ﱄ	مدين	Madyan	madyana
+1	28:22:5	w	قَالَ	ﱅ	قال	he said	qāla
+1	28:22:6	w	عَسَىٰ	ﱆ	عسى	Perhaps	ʿasā
+1	28:22:7	w	رَبِّيٓ	ﱇ	ربي	my Lord	rabbī
+1	28:22:8	w	أَن	ﱈ	ان	[that]	an
+1	28:22:9	w	يَهۡدِيَنِي	ﱉ	يهديني	will guide me	yahdiyanī
+1	28:22:10	w	سَوَآءَ	ﱊ	سواء	(to the) sound	sawāa
+2	28:22:11	w	ٱلسَّبِيلِ	ﱋ	السبيل	way	l-sabīli
+2	28:22:12	e	٢٢	ﱌ			
+2	28:23:1	w	وَلَمَّا	ﱍ	ولما	And when	walammā
+2	28:23:2	w	وَرَدَ	ﱎ	ورد	he came	warada
+2	28:23:3	w	مَآءَ	ﱏ	ماء	(to the) water	māa
+2	28:23:4	w	مَدۡيَنَ	ﱐ	مدين	(of) Madyan	madyana
+2	28:23:5	w	وَجَدَ	ﱑ	وجد	he found	wajada
+2	28:23:6	w	عَلَيۡهِ	ﱒ	عليه	on it	ʿalayhi
+2	28:23:7	w	أُمَّةٗ	ﱓ	امة	a group	ummatan
+2	28:23:8	w	مِّنَ	ﱔ	من	of	mina
+3	28:23:9	w	ٱلنَّاسِ	ﱕ	الناس	men	l-nāsi
+3	28:23:10	w	يَسۡقُونَ	ﱖ	يسقون	watering	yasqūna
+3	28:23:11	w	وَوَجَدَ	ﱗ	ووجد	and he found	wawajada
+3	28:23:12	w	مِن	ﱘ	من	besides them	min
+3	28:23:13	w	دُونِهِمُ	ﱙ	دونهم	besides them	dūnihimu
+3	28:23:14	w	ٱمۡرَأَتَيۡنِ	ﱚ	امراتين	two women	im'ra-atayni
+3	28:23:15	w	تَذُودَانِۖ	ﱛﱜ	تذودان	keeping back	tadhūdāni
+3	28:23:16	w	قَالَ	ﱝ	قال	He said	qāla
+4	28:23:17	w	مَا	ﱞ	ما	What	mā
+4	28:23:18	w	خَطۡبُكُمَاۖ	ﱟﱠ	خطبكما	(is the) matter with both of you	khaṭbukumā
+4	28:23:19	w	قَالَتَا	ﱡ	قالتا	They said	qālatā
+4	28:23:20	w	لَا	ﱢ	لا	We cannot water	lā
+4	28:23:21	w	نَسۡقِي	ﱣ	نسقي	We cannot water	nasqī
+4	28:23:22	w	حَتَّىٰ	ﱤ	حتى	until	ḥattā
+4	28:23:23	w	يُصۡدِرَ	ﱥ	يصدر	take away	yuṣ'dira
+4	28:23:24	w	ٱلرِّعَآءُۖ	ﱦﱧ	الرعاء	the shepherds	l-riʿāu
+4	28:23:25	w	وَأَبُونَا	ﱨ	وابونا	and our father	wa-abūnā
+5	28:23:26	w	شَيۡخٞ	ﱩ	شيخ	(is) a very old man	shaykhun
+5	28:23:27	w	كَبِيرٞ	ﱪ	كبير	(is) a very old man	kabīrun
+5	28:23:28	e	٢٣	ﱫ			
+5	28:24:1	w	فَسَقَىٰ	ﱬ	فسقى	So he watered	fasaqā
+5	28:24:2	w	لَهُمَا	ﱭ	لهما	for them	lahumā
+5	28:24:3	w	ثُمَّ	ﱮ	ثم	Then	thumma
+5	28:24:4	w	تَوَلَّىٰٓ	ﱯ	تولى	he turned back	tawallā
+5	28:24:5	w	إِلَى	ﱰ	الى	to	ilā
+5	28:24:6	w	ٱلظِّلِّ	ﱱ	الظل	the shade	l-ẓili
+5	28:24:7	w	فَقَالَ	ﱲ	فقال	and said	faqāla
+6	28:24:8	w	رَبِّ	ﱳ	رب	My Lord	rabbi
+6	28:24:9	w	إِنِّي	ﱴ	اني	Indeed, I am	innī
+6	28:24:10	w	لِمَآ	ﱵ	لما	of whatever	limā
+6	28:24:11	w	أَنزَلۡتَ	ﱶ	انزلت	You send	anzalta
+6	28:24:12	w	إِلَيَّ	ﱷ	الي	to me	ilayya
+6	28:24:13	w	مِنۡ	ﱸ	من	of	min
+6	28:24:14	w	خَيۡرٖ	ﱹ	خير	good	khayrin
+6	28:24:15	w	فَقِيرٞ	ﱺ	فقير	(in) need	faqīrun
+6	28:24:16	e	٢٤	ﱻ			
+6	28:25:1	w	فَجَآءَتۡهُ	ﱼ	فجاءته	Then came to him	fajāathu
+6	28:25:2	w	إِحۡدَىٰهُمَا	ﱽ	احداهما	one of the two women	iḥ'dāhumā
+7	28:25:3	w	تَمۡشِي	ﱾ	تمشي	walking	tamshī
+7	28:25:4	w	عَلَى	ﱿ	على	with	ʿalā
+7	28:25:5	w	ٱسۡتِحۡيَآءٖ	ﲀ	استحياء	shyness	is'tiḥ'yāin
+7	28:25:6	w	قَالَتۡ	ﲁ	قالت	She said	qālat
+7	28:25:7	w	إِنَّ	ﲂ	ان	Indeed	inna
+7	28:25:8	w	أَبِي	ﲃ	ابي	my father	abī
+7	28:25:9	w	يَدۡعُوكَ	ﲄ	يدعوك	calls you	yadʿūka
+7	28:25:10	w	لِيَجۡزِيَكَ	ﲅ	ليجزيك	that he may reward you	liyajziyaka
+8	28:25:11	w	أَجۡرَ	ﲆ	اجر	(the) reward	ajra
+8	28:25:12	w	مَا	ﲇ	ما	(for) what	mā
+8	28:25:13	w	سَقَيۡتَ	ﲈ	سقيت	you watered	saqayta
+8	28:25:14	w	لَنَاۚ	ﲉﲊ	لنا	for us	lanā
+8	28:25:15	w	فَلَمَّا	ﲋ	فلما	So when	falammā
+8	28:25:16	w	جَآءَهُۥ	ﲌ	جاءه	he came to him	jāahu
+8	28:25:17	w	وَقَصَّ	ﲍ	وقص	and narrated	waqaṣṣa
+8	28:25:18	w	عَلَيۡهِ	ﲎ	عليه	to him	ʿalayhi
+8	28:25:19	w	ٱلۡقَصَصَ	ﲏ	القصص	the story	l-qaṣaṣa
+8	28:25:20	w	قَالَ	ﲐ	قال	he said	qāla
+9	28:25:21	w	لَا	ﲑ	لا	(Do) not	lā
+9	28:25:22	w	تَخَفۡۖ	ﲒﲓ	تخف	fear	takhaf
+9	28:25:23	w	نَجَوۡتَ	ﲔ	نجوت	You have escaped	najawta
+9	28:25:24	w	مِنَ	ﲕ	من	from	mina
+9	28:25:25	w	ٱلۡقَوۡمِ	ﲖ	القوم	the people	l-qawmi
+9	28:25:26	w	ٱلظَّٰلِمِينَ	ﲗ	الظالمين	the wrongdoers	l-ẓālimīna
+9	28:25:27	e	٢٥	ﲘ			
+9	28:26:1	w	قَالَتۡ	ﲙ	قالت	Said	qālat
+9	28:26:2	w	إِحۡدَىٰهُمَا	ﲚ	احداهما	one of them	iḥ'dāhumā
+10	28:26:3	w	يَٰٓأَبَتِ	ﲛ	يا ابت	O my father	yāabati
+10	28:26:4	w	ٱسۡتَـٔۡجِرۡهُۖ	ﲜﲝ	استاجره	Hire him	is'tajir'hu
+10	28:26:5	w	إِنَّ	ﲞ	ان	Indeed	inna
+10	28:26:6	w	خَيۡرَ	ﲟ	خير	(the) best	khayra
+10	28:26:7	w	مَنِ	ﲠ	من	whom	mani
+10	28:26:8	w	ٱسۡتَـٔۡجَرۡتَ	ﲡ	استاجرت	you (can) hire	is'tajarta
+10	28:26:9	w	ٱلۡقَوِيُّ	ﲢ	القوي	(is) the strong	l-qawiyu
+10	28:26:10	w	ٱلۡأَمِينُ	ﲣ	الامين	the trustworthy	l-amīnu
+11	28:26:11	e	٢٦	ﲤ			
+11	28:27:1	w	قَالَ	ﲥ	قال	He said	qāla
+11	28:27:2	w	إِنِّيٓ	ﲦ	اني	Indeed, I	innī
+11	28:27:3	w	أُرِيدُ	ﲧ	اريد	[I] wish	urīdu
+11	28:27:4	w	أَنۡ	ﲨ	ان	to	an
+11	28:27:5	w	أُنكِحَكَ	ﲩ	انكحك	marry you to	unkiḥaka
+11	28:27:6	w	إِحۡدَى	ﲪ	احدى	one	iḥ'dā
+11	28:27:7	w	ٱبۡنَتَيَّ	ﲫ	ابنتي	(of) my daughters	ib'natayya
+11	28:27:8	w	هَٰتَيۡنِ	ﲬ	هاتين	(of) these two	hātayni
+11	28:27:9	w	عَلَىٰٓ	ﲭ	على	on	ʿalā
+11	28:27:10	w	أَن	ﲮ	ان	that	an
+12	28:27:11	w	تَأۡجُرَنِي	ﲯ	تاجرني	you serve me	tajuranī
+12	28:27:12	w	ثَمَٰنِيَ	ﲰ	ثماني	(for) eight	thamāniya
+12	28:27:13	w	حِجَجٖۖ	ﲱﲲ	حجج	years	ḥijajin
+12	28:27:14	w	فَإِنۡ	ﲳ	فان	but if	fa-in
+12	28:27:15	w	أَتۡمَمۡتَ	ﲴ	اتممت	you complete	atmamta
+12	28:27:16	w	عَشۡرٗا	ﲵ	عشرا	ten	ʿashran
+12	28:27:17	w	فَمِنۡ	ﲶ	فمن	then from	famin
+12	28:27:18	w	عِندِكَۖ	ﲷﲸ	عندك	you	ʿindika
+13	28:27:19	w	وَمَآ	ﲹ	وما	And not	wamā
+13	28:27:20	w	أُرِيدُ	ﲺ	اريد	I wish	urīdu
+13	28:27:21	w	أَنۡ	ﲻ	ان	to	an
+13	28:27:22	w	أَشُقَّ	ﲼ	اشق	make it difficult	ashuqqa
+13	28:27:23	w	عَلَيۡكَۚ	ﲽﲾ	عليك	for you	ʿalayka
+13	28:27:24	w	سَتَجِدُنِيٓ	ﲿ	ستجدني	You will find me	satajidunī
+13	28:27:25	w	إِن	ﳀ	ان	if	in
+13	28:27:26	w	شَآءَ	ﳁ	شاء	Allah wills	shāa
+13	28:27:27	w	ٱللَّهُ	ﳂ	الله	Allah wills	l-lahu
+13	28:27:28	w	مِنَ	ﳃ	من	of	mina
+14	28:27:29	w	ٱلصَّٰلِحِينَ	ﳄ	الصالحين	the righteous	l-ṣāliḥīna
+14	28:27:30	e	٢٧	ﳅ			
+14	28:28:1	w	قَالَ	ﳆ	قال	He said	qāla
+14	28:28:2	w	ذَٰلِكَ	ﳇ	ذالك	That	dhālika
+14	28:28:3	w	بَيۡنِي	ﳈ	بيني	(is) between me	baynī
+14	28:28:4	w	وَبَيۡنَكَۖ	ﳉﳊ	وبينك	and between you	wabaynaka
+14	28:28:5	w	أَيَّمَا	ﳋ	ايما	Whichever	ayyamā
+14	28:28:6	w	ٱلۡأَجَلَيۡنِ	ﳌ	الاجلين	(of) the two terms	l-ajalayni
+15	28:28:7	w	قَضَيۡتُ	ﳍ	قضيت	I complete	qaḍaytu
+15	28:28:8	w	فَلَا	ﳎ	فلا	then no	falā
+15	28:28:9	w	عُدۡوَٰنَ	ﳏ	عدوان	injustice	ʿud'wāna
+15	28:28:10	w	عَلَيَّۖ	ﳐﳑ	علي	to me	ʿalayya
+15	28:28:11	w	وَٱللَّهُ	ﳒ	والله	and Allah	wal-lahu
+15	28:28:12	w	عَلَىٰ	ﳓ	على	over	ʿalā
+15	28:28:13	w	مَا	ﳔ	ما	what	mā
+15	28:28:14	w	نَقُولُ	ﳕ	نقول	we say	naqūlu
+15	28:28:15	w	وَكِيلٞ	ﳖ	وكيل	(is) a Witness	wakīlun
+15	28:28:16	e	٢٨	ﳗ			

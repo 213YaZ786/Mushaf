@@ -1,0 +1,131 @@
+1	2:203:1	w	۞ وَٱذۡكُرُواْ	ﱁ ﱂ	۞ واذكروا	And remember	wa-udh'kurū
+1	2:203:2	w	ٱللَّهَ	ﱃ	الله	Allah	l-laha
+1	2:203:3	w	فِيٓ	ﱄ	في	during	fī
+1	2:203:4	w	أَيَّامٖ	ﱅ	ايام	days	ayyāmin
+1	2:203:5	w	مَّعۡدُودَٰتٖۚ	ﱆﱇ	معدودات	numbered	maʿdūdātin
+1	2:203:6	w	فَمَن	ﱈ	فمن	Then (he) who	faman
+1	2:203:7	w	تَعَجَّلَ	ﱉ	تعجل	hurries	taʿajjala
+1	2:203:8	w	فِي	ﱊ	في	in	fī
+2	2:203:9	w	يَوۡمَيۡنِ	ﱋ	يومين	two days	yawmayni
+2	2:203:10	w	فَلَآ	ﱌ	فلا	then no	falā
+2	2:203:11	w	إِثۡمَ	ﱍ	اثم	sin	ith'ma
+2	2:203:12	w	عَلَيۡهِ	ﱎ	عليه	upon him	ʿalayhi
+2	2:203:13	w	وَمَن	ﱏ	ومن	and whoever	waman
+2	2:203:14	w	تَأَخَّرَ	ﱐ	تاخر	delays	ta-akhara
+2	2:203:15	w	فَلَآ	ﱑ	فلا	then no	falā
+2	2:203:16	w	إِثۡمَ	ﱒ	اثم	sin	ith'ma
+2	2:203:17	w	عَلَيۡهِۖ	ﱓﱔ	عليه	upon him	ʿalayhi
+2	2:203:18	w	لِمَنِ	ﱕ	لمن	for (the one) who	limani
+3	2:203:19	w	ٱتَّقَىٰۗ	ﱖﱗ	اتقى	fears	ittaqā
+3	2:203:20	w	وَٱتَّقُواْ	ﱘ	واتقوا	And fear	wa-ittaqū
+3	2:203:21	w	ٱللَّهَ	ﱙ	الله	Allah	l-laha
+3	2:203:22	w	وَٱعۡلَمُوٓاْ	ﱚ	واعلموا	and know	wa-iʿ'lamū
+3	2:203:23	w	أَنَّكُمۡ	ﱛ	انكم	that you	annakum
+3	2:203:24	w	إِلَيۡهِ	ﱜ	اليه	unto Him	ilayhi
+3	2:203:25	w	تُحۡشَرُونَ	ﱝ	تحشرون	will be gathered	tuḥ'sharūna
+4	2:203:26	e	٢٠٣	ﱞ			
+4	2:204:1	w	وَمِنَ	ﱟ	ومن	And of	wamina
+4	2:204:2	w	ٱلنَّاسِ	ﱠ	الناس	the people	l-nāsi
+4	2:204:3	w	مَن	ﱡ	من	(is the one) who	man
+4	2:204:4	w	يُعۡجِبُكَ	ﱢ	يعجبك	pleases you	yuʿ'jibuka
+4	2:204:5	w	قَوۡلُهُۥ	ﱣ	قوله	(with) his speech	qawluhu
+4	2:204:6	w	فِي	ﱤ	في	in	fī
+4	2:204:7	w	ٱلۡحَيَوٰةِ	ﱥ	الحياة	the life	l-ḥayati
+4	2:204:8	w	ٱلدُّنۡيَا	ﱦ	الدنيا	(of) the world	l-dun'yā
+5	2:204:9	w	وَيُشۡهِدُ	ﱧ	ويشهد	and he calls to witness	wayush'hidu
+5	2:204:10	w	ٱللَّهَ	ﱨ	الله	Allah	l-laha
+5	2:204:11	w	عَلَىٰ	ﱩ	على	on	ʿalā
+5	2:204:12	w	مَا	ﱪ	ما	what	mā
+5	2:204:13	w	فِي	ﱫ	في	(is) in	fī
+5	2:204:14	w	قَلۡبِهِۦ	ﱬ	قلبه	his heart	qalbihi
+5	2:204:15	w	وَهُوَ	ﱭ	وهو	and he	wahuwa
+5	2:204:16	w	أَلَدُّ	ﱮ	الد	(is) the most quarrelsome	aladdu
+5	2:204:17	w	ٱلۡخِصَامِ	ﱯ	الخصام	(of) opponents	l-khiṣāmi
+5	2:204:18	e	٢٠٤	ﱰ			
+6	2:205:1	w	وَإِذَا	ﱱ	واذا	And when	wa-idhā
+6	2:205:2	w	تَوَلَّىٰ	ﱲ	تولى	he turns away	tawallā
+6	2:205:3	w	سَعَىٰ	ﱳ	سعى	he strives	saʿā
+6	2:205:4	w	فِي	ﱴ	في	in	fī
+6	2:205:5	w	ٱلۡأَرۡضِ	ﱵ	الارض	the earth	l-arḍi
+6	2:205:6	w	لِيُفۡسِدَ	ﱶ	ليفسد	to spread corruption	liyuf'sida
+6	2:205:7	w	فِيهَا	ﱷ	فيها	[in it]	fīhā
+6	2:205:8	w	وَيُهۡلِكَ	ﱸ	ويهلك	and destroys	wayuh'lika
+6	2:205:9	w	ٱلۡحَرۡثَ	ﱹ	الحرث	the crops	l-ḥartha
+7	2:205:10	w	وَٱلنَّسۡلَۚ	ﱺﱻ	والنسل	and progeny	wal-nasla
+7	2:205:11	w	وَٱللَّهُ	ﱼ	والله	And Allah	wal-lahu
+7	2:205:12	w	لَا	ﱽ	لا	(does) not	lā
+7	2:205:13	w	يُحِبُّ	ﱾ	يحب	love	yuḥibbu
+7	2:205:14	w	ٱلۡفَسَادَ	ﱿ	الفساد	[the] corruption	l-fasāda
+7	2:205:15	e	٢٠٥	ﲀ			
+7	2:206:1	w	وَإِذَا	ﲁ	واذا	And when	wa-idhā
+7	2:206:2	w	قِيلَ	ﲂ	قيل	it is said	qīla
+7	2:206:3	w	لَهُ	ﲃ	له	to him	lahu
+7	2:206:4	w	ٱتَّقِ	ﲄ	اتق	Fear	ittaqi
+7	2:206:5	w	ٱللَّهَ	ﲅ	الله	Allah	l-laha
+8	2:206:6	w	أَخَذَتۡهُ	ﲆ	اخذته	takes him	akhadhathu
+8	2:206:7	w	ٱلۡعِزَّةُ	ﲇ	العزة	(his) pride	l-ʿizatu
+8	2:206:8	w	بِٱلۡإِثۡمِۚ	ﲈﲉ	بالاثم	to [the] sins	bil-ith'mi
+8	2:206:9	w	فَحَسۡبُهُۥ	ﲊ	فحسبه	Then enough for him	faḥasbuhu
+8	2:206:10	w	جَهَنَّمُۖ	ﲋﲌ	جهنم	(is) Hell	jahannamu
+8	2:206:11	w	وَلَبِئۡسَ	ﲍ	ولبيس	[and] surely an evil	walabi'sa
+9	2:206:12	w	ٱلۡمِهَادُ	ﲎ	المهاد	[the] resting-place	l-mihādu
+9	2:206:13	e	٢٠٦	ﲏ			
+9	2:207:1	w	وَمِنَ	ﲐ	ومن	And of	wamina
+9	2:207:2	w	ٱلنَّاسِ	ﲑ	الناس	the people	l-nāsi
+9	2:207:3	w	مَن	ﲒ	من	(is the one) who	man
+9	2:207:4	w	يَشۡرِي	ﲓ	يشري	sells	yashrī
+9	2:207:5	w	نَفۡسَهُ	ﲔ	نفسه	his own self	nafsahu
+9	2:207:6	w	ٱبۡتِغَآءَ	ﲕ	ابتغاء	seeking	ib'tighāa
+10	2:207:7	w	مَرۡضَاتِ	ﲖ	مرضات	pleasure	marḍāti
+10	2:207:8	w	ٱللَّهِۚ	ﲗﲘ	الله	(of) Allah	l-lahi
+10	2:207:9	w	وَٱللَّهُ	ﲙ	والله	And Allah	wal-lahu
+10	2:207:10	w	رَءُوفُۢ	ﲚ	رءوف	(is) full of Kindness	raūfun
+10	2:207:11	w	بِٱلۡعِبَادِ	ﲛ	بالعباد	to His servants	bil-ʿibādi
+10	2:207:12	e	٢٠٧	ﲜ			
+10	2:208:1	w	يَٰٓأَيُّهَا	ﲝ	يا ايها	O you	yāayyuhā
+10	2:208:2	w	ٱلَّذِينَ	ﲞ	الذين	who	alladhīna
+11	2:208:3	w	ءَامَنُواْ	ﲟ	امنوا	believe[d]	āmanū
+11	2:208:4	w	ٱدۡخُلُواْ	ﲠ	ادخلوا	Enter	ud'khulū
+11	2:208:5	w	فِي	ﲡ	في	in	fī
+11	2:208:6	w	ٱلسِّلۡمِ	ﲢ	السلم	Islam	l-sil'mi
+11	2:208:7	w	كَآفَّةٗ	ﲣ	كافة	completely	kāffatan
+11	2:208:8	w	وَلَا	ﲤ	ولا	and (do) not	walā
+11	2:208:9	w	تَتَّبِعُواْ	ﲥ	تتبعوا	follow	tattabiʿū
+11	2:208:10	w	خُطُوَٰتِ	ﲦ	خطوات	footsteps	khuṭuwāti
+12	2:208:11	w	ٱلشَّيۡطَٰنِۚ	ﲧﲨ	الشيطان	(of) the Shaitaan	l-shayṭāni
+12	2:208:12	w	إِنَّهُۥ	ﲩ	انه	Indeed, he	innahu
+12	2:208:13	w	لَكُمۡ	ﲪ	لكم	(is) for you	lakum
+12	2:208:14	w	عَدُوّٞ	ﲫ	عدو	an enemy	ʿaduwwun
+12	2:208:15	w	مُّبِينٞ	ﲬ	مبين	open	mubīnun
+12	2:208:16	e	٢٠٨	ﲭ			
+12	2:209:1	w	فَإِن	ﲮ	فان	Then if	fa-in
+12	2:209:2	w	زَلَلۡتُم	ﲯ	زللتم	you slip	zalaltum
+12	2:209:3	w	مِّنۢ	ﲰ	من	from	min
+12	2:209:4	w	بَعۡدِ	ﲱ	بعد	after	baʿdi
+13	2:209:5	w	مَا	ﲲ	ما	[what]	mā
+13	2:209:6	w	جَآءَتۡكُمُ	ﲳ	جاءتكم	came to you	jāatkumu
+13	2:209:7	w	ٱلۡبَيِّنَٰتُ	ﲴ	البينات	(from) the clear proofs	l-bayinātu
+13	2:209:8	w	فَٱعۡلَمُوٓاْ	ﲵ	فاعلموا	then know	fa-iʿ'lamū
+13	2:209:9	w	أَنَّ	ﲶ	ان	that	anna
+13	2:209:10	w	ٱللَّهَ	ﲷ	الله	Allah	l-laha
+13	2:209:11	w	عَزِيزٌ	ﲸ	عزيز	(is) All-Mighty	ʿazīzun
+13	2:209:12	w	حَكِيمٌ	ﲹ	حكيم	All-Wise	ḥakīmun
+14	2:209:13	e	٢٠٩	ﲺ			
+14	2:210:1	w	هَلۡ	ﲻ	هل	Are	hal
+14	2:210:2	w	يَنظُرُونَ	ﲼ	ينظرون	they waiting	yanẓurūna
+14	2:210:3	w	إِلَّآ	ﲽ	الا	[except]	illā
+14	2:210:4	w	أَن	ﲾ	ان	that	an
+14	2:210:5	w	يَأۡتِيَهُمُ	ﲿ	ياتيهم	comes to them	yatiyahumu
+14	2:210:6	w	ٱللَّهُ	ﳀ	الله	Allah	l-lahu
+14	2:210:7	w	فِي	ﳁ	في	in	fī
+14	2:210:8	w	ظُلَلٖ	ﳂ	ظلل	(the) shadows	ẓulalin
+14	2:210:9	w	مِّنَ	ﳃ	من	of	mina
+14	2:210:10	w	ٱلۡغَمَامِ	ﳄ	الغمام	[the] clouds	l-ghamāmi
+15	2:210:11	w	وَٱلۡمَلَٰٓئِكَةُ	ﳅ	والملايكة	and the Angels	wal-malāikatu
+15	2:210:12	w	وَقُضِيَ	ﳆ	وقضي	and is decreed	waquḍiya
+15	2:210:13	w	ٱلۡأَمۡرُۚ	ﳇﳈ	الامر	the matter	l-amru
+15	2:210:14	w	وَإِلَى	ﳉ	والى	And to	wa-ilā
+15	2:210:15	w	ٱللَّهِ	ﳊ	الله	Allah	l-lahi
+15	2:210:16	w	تُرۡجَعُ	ﳋ	ترجع	return	tur'jaʿu
+15	2:210:17	w	ٱلۡأُمُورُ	ﳌ	الامور	(all) the matters	l-umūru
+15	2:210:18	e	٢١٠	ﳍ			

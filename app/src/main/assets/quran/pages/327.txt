@@ -1,0 +1,132 @@
+1	21:58:1	w	فَجَعَلَهُمۡ	ﱁ	فجعلهم	So he made them	fajaʿalahum
+1	21:58:2	w	جُذَٰذًا	ﱂ	جذاذا	(into) pieces	judhādhan
+1	21:58:3	w	إِلَّا	ﱃ	الا	except	illā
+1	21:58:4	w	كَبِيرٗا	ﱄ	كبيرا	a large (one)	kabīran
+1	21:58:5	w	لَّهُمۡ	ﱅ	لهم	of them	lahum
+1	21:58:6	w	لَعَلَّهُمۡ	ﱆ	لعلهم	so that they may	laʿallahum
+1	21:58:7	w	إِلَيۡهِ	ﱇ	اليه	to it	ilayhi
+1	21:58:8	w	يَرۡجِعُونَ	ﱈ	يرجعون	return	yarjiʿūna
+2	21:58:9	e	٥٨	ﱉ			
+2	21:59:1	w	قَالُواْ	ﱊ	قالوا	They said	qālū
+2	21:59:2	w	مَن	ﱋ	من	Who	man
+2	21:59:3	w	فَعَلَ	ﱌ	فعل	(has) done	faʿala
+2	21:59:4	w	هَٰذَا	ﱍ	هاذا	this	hādhā
+2	21:59:5	w	بِـَٔالِهَتِنَآ	ﱎ	بالهتنا	to our gods	biālihatinā
+2	21:59:6	w	إِنَّهُۥ	ﱏ	انه	Indeed, he	innahu
+2	21:59:7	w	لَمِنَ	ﱐ	لمن	(is) of	lamina
+2	21:59:8	w	ٱلظَّٰلِمِينَ	ﱑ	الظالمين	the wrongdoers	l-ẓālimīna
+2	21:59:9	e	٥٩	ﱒ			
+3	21:60:1	w	قَالُواْ	ﱓ	قالوا	They said	qālū
+3	21:60:2	w	سَمِعۡنَا	ﱔ	سمعنا	We heard	samiʿ'nā
+3	21:60:3	w	فَتٗى	ﱕ	فتى	a youth	fatan
+3	21:60:4	w	يَذۡكُرُهُمۡ	ﱖ	يذكرهم	mention them	yadhkuruhum
+3	21:60:5	w	يُقَالُ	ﱗ	يقال	he is called	yuqālu
+3	21:60:6	w	لَهُۥٓ	ﱘ	له	he is called	lahu
+3	21:60:7	w	إِبۡرَٰهِيمُ	ﱙ	ابراهيم	Ibrahim	ib'rāhīmu
+3	21:60:8	e	٦٠	ﱚ			
+3	21:61:1	w	قَالُواْ	ﱛ	قالوا	They said	qālū
+3	21:61:2	w	فَأۡتُواْ	ﱜ	فاتوا	Then bring	fatū
+4	21:61:3	w	بِهِۦ	ﱝ	به	him	bihi
+4	21:61:4	w	عَلَىٰٓ	ﱞ	على	before	ʿalā
+4	21:61:5	w	أَعۡيُنِ	ﱟ	اعين	(the) eyes	aʿyuni
+4	21:61:6	w	ٱلنَّاسِ	ﱠ	الناس	(of) the people	l-nāsi
+4	21:61:7	w	لَعَلَّهُمۡ	ﱡ	لعلهم	so that they may	laʿallahum
+4	21:61:8	w	يَشۡهَدُونَ	ﱢ	يشهدون	bear witness	yashhadūna
+4	21:61:9	e	٦١	ﱣ			
+4	21:62:1	w	قَالُوٓاْ	ﱤ	قالوا	They said	qālū
+4	21:62:2	w	ءَأَنتَ	ﱥ	اانت	Have you	a-anta
+5	21:62:3	w	فَعَلۡتَ	ﱦ	فعلت	done	faʿalta
+5	21:62:4	w	هَٰذَا	ﱧ	هاذا	this	hādhā
+5	21:62:5	w	بِـَٔالِهَتِنَا	ﱨ	بالهتنا	to our gods	biālihatinā
+5	21:62:6	w	يَٰٓإِبۡرَٰهِيمُ	ﱩ	يا ابراهيم	O Ibrahim	yāib'rāhīmu
+5	21:62:7	e	٦٢	ﱪ			
+5	21:63:1	w	قَالَ	ﱫ	قال	He said	qāla
+5	21:63:2	w	بَلۡ	ﱬ	بل	Nay	bal
+5	21:63:3	w	فَعَلَهُۥ	ﱭ	فعله	(some doer) did it	faʿalahu
+5	21:63:4	w	كَبِيرُهُمۡ	ﱮ	كبيرهم	Their chief	kabīruhum
+6	21:63:5	w	هَٰذَا	ﱯ	هاذا	(is) this	hādhā
+6	21:63:6	w	فَسۡـَٔلُوهُمۡ	ﱰ	فاسالوهم	So ask them	fasalūhum
+6	21:63:7	w	إِن	ﱱ	ان	if	in
+6	21:63:8	w	كَانُواْ	ﱲ	كانوا	they (can)	kānū
+6	21:63:9	w	يَنطِقُونَ	ﱳ	ينطقون	speak	yanṭiqūna
+6	21:63:10	e	٦٣	ﱴ			
+6	21:64:1	w	فَرَجَعُوٓاْ	ﱵ	فرجعوا	So they returned	farajaʿū
+6	21:64:2	w	إِلَىٰٓ	ﱶ	الى	to	ilā
+7	21:64:3	w	أَنفُسِهِمۡ	ﱷ	انفسهم	themselves	anfusihim
+7	21:64:4	w	فَقَالُوٓاْ	ﱸ	فقالوا	and said	faqālū
+7	21:64:5	w	إِنَّكُمۡ	ﱹ	انكم	Indeed, you	innakum
+7	21:64:6	w	أَنتُمُ	ﱺ	انتم	[you]	antumu
+7	21:64:7	w	ٱلظَّٰلِمُونَ	ﱻ	الظالمون	(are) the wrongdoers	l-ẓālimūna
+7	21:64:8	e	٦٤	ﱼ			
+7	21:65:1	w	ثُمَّ	ﱽ	ثم	Then	thumma
+7	21:65:2	w	نُكِسُواْ	ﱾ	نكسوا	they were turned	nukisū
+8	21:65:3	w	عَلَىٰ	ﱿ	على	on	ʿalā
+8	21:65:4	w	رُءُوسِهِمۡ	ﲀ	رءوسهم	their heads	ruūsihim
+8	21:65:5	w	لَقَدۡ	ﲁ	لقد	Verily	laqad
+8	21:65:6	w	عَلِمۡتَ	ﲂ	علمت	you know	ʿalim'ta
+8	21:65:7	w	مَا	ﲃ	ما	not	mā
+8	21:65:8	w	هَٰٓؤُلَآءِ	ﲄ	هاولاء	these	hāulāi
+8	21:65:9	w	يَنطِقُونَ	ﲅ	ينطقون	(can) speak	yanṭiqūna
+8	21:65:10	e	٦٥	ﲆ			
+8	21:66:1	w	قَالَ	ﲇ	قال	He said	qāla
+9	21:66:2	w	أَفَتَعۡبُدُونَ	ﲈ	افتعبدون	Then do you worship	afataʿbudūna
+9	21:66:3	w	مِن	ﲉ	من	besides	min
+9	21:66:4	w	دُونِ	ﲊ	دون	besides	dūni
+9	21:66:5	w	ٱللَّهِ	ﲋ	الله	Allah	l-lahi
+9	21:66:6	w	مَا	ﲌ	ما	what	mā
+9	21:66:7	w	لَا	ﲍ	لا	(does) not	lā
+9	21:66:8	w	يَنفَعُكُمۡ	ﲎ	ينفعكم	benefit you	yanfaʿukum
+9	21:66:9	w	شَيۡـٔٗا	ﲏ	شييا	(in) anything	shayan
+9	21:66:10	w	وَلَا	ﲐ	ولا	and not	walā
+10	21:66:11	w	يَضُرُّكُمۡ	ﲑ	يضركم	harms you	yaḍurrukum
+10	21:66:12	e	٦٦	ﲒ			
+10	21:67:1	w	أُفّٖ	ﲓ	اف	Uff	uffin
+10	21:67:2	w	لَّكُمۡ	ﲔ	لكم	to you	lakum
+10	21:67:3	w	وَلِمَا	ﲕ	ولما	and to what	walimā
+10	21:67:4	w	تَعۡبُدُونَ	ﲖ	تعبدون	you worship	taʿbudūna
+10	21:67:5	w	مِن	ﲗ	من	besides	min
+10	21:67:6	w	دُونِ	ﲘ	دون	besides	dūni
+10	21:67:7	w	ٱللَّهِۚ	ﲙﲚ	الله	Allah	l-lahi
+11	21:67:8	w	أَفَلَا	ﲛ	افلا	Then will not	afalā
+11	21:67:9	w	تَعۡقِلُونَ	ﲜ	تعقلون	you use reason	taʿqilūna
+11	21:67:10	e	٦٧	ﲝ			
+11	21:68:1	w	قَالُواْ	ﲞ	قالوا	They said	qālū
+11	21:68:2	w	حَرِّقُوهُ	ﲟ	حرقوه	Burn him	ḥarriqūhu
+11	21:68:3	w	وَٱنصُرُوٓاْ	ﲠ	وانصروا	and support	wa-unṣurū
+11	21:68:4	w	ءَالِهَتَكُمۡ	ﲡ	الهتكم	your gods	ālihatakum
+11	21:68:5	w	إِن	ﲢ	ان	if	in
+11	21:68:6	w	كُنتُمۡ	ﲣ	كنتم	you are	kuntum
+12	21:68:7	w	فَٰعِلِينَ	ﲤ	فاعلين	doers	fāʿilīna
+12	21:68:8	e	٦٨	ﲥ			
+12	21:69:1	w	قُلۡنَا	ﲦ	قلنا	We said	qul'nā
+12	21:69:2	w	يَٰنَارُ	ﲧ	يا نار	O fire	yānāru
+12	21:69:3	w	كُونِي	ﲨ	كوني	Be	kūnī
+12	21:69:4	w	بَرۡدٗا	ﲩ	بردا	cool[ness]	bardan
+12	21:69:5	w	وَسَلَٰمًا	ﲪ	وسلاما	and safe[ty]	wasalāman
+12	21:69:6	w	عَلَىٰٓ	ﲫ	على	for	ʿalā
+12	21:69:7	w	إِبۡرَٰهِيمَ	ﲬ	ابراهيم	Ibrahim	ib'rāhīma
+13	21:69:8	e	٦٩	ﲭ			
+13	21:70:1	w	وَأَرَادُواْ	ﲮ	وارادوا	And they intended	wa-arādū
+13	21:70:2	w	بِهِۦ	ﲯ	به	for him	bihi
+13	21:70:3	w	كَيۡدٗا	ﲰ	كيدا	a plan	kaydan
+13	21:70:4	w	فَجَعَلۡنَٰهُمُ	ﲱ	فجعلناهم	but We made them	fajaʿalnāhumu
+13	21:70:5	w	ٱلۡأَخۡسَرِينَ	ﲲ	الاخسرين	the greatest losers	l-akhsarīna
+13	21:70:6	e	٧٠	ﲳ			
+13	21:71:1	w	وَنَجَّيۡنَٰهُ	ﲴ	ونجيناه	And We delivered him	wanajjaynāhu
+14	21:71:2	w	وَلُوطًا	ﲵ	ولوطا	and Lut	walūṭan
+14	21:71:3	w	إِلَى	ﲶ	الى	to	ilā
+14	21:71:4	w	ٱلۡأَرۡضِ	ﲷ	الارض	the land	l-arḍi
+14	21:71:5	w	ٱلَّتِي	ﲸ	التي	which	allatī
+14	21:71:6	w	بَٰرَكۡنَا	ﲹ	باركنا	We (had) blessed	bāraknā
+14	21:71:7	w	فِيهَا	ﲺ	فيها	[in it]	fīhā
+14	21:71:8	w	لِلۡعَٰلَمِينَ	ﲻ	للعالمين	for the worlds	lil'ʿālamīna
+14	21:71:9	e	٧١	ﲼ			
+14	21:72:1	w	وَوَهَبۡنَا	ﲽ	ووهبنا	And We bestowed	wawahabnā
+15	21:72:2	w	لَهُۥٓ	ﲾ	له	on him	lahu
+15	21:72:3	w	إِسۡحَٰقَ	ﲿ	اسحاق	Isaac	is'ḥāqa
+15	21:72:4	w	وَيَعۡقُوبَ	ﳀ	ويعقوب	and Yaqub	wayaʿqūba
+15	21:72:5	w	نَافِلَةٗۖ	ﳁﳂ	نافلة	(in) addition	nāfilatan
+15	21:72:6	w	وَكُلّٗا	ﳃ	وكلا	and all	wakullan
+15	21:72:7	w	جَعَلۡنَا	ﳄ	جعلنا	We made	jaʿalnā
+15	21:72:8	w	صَٰلِحِينَ	ﳅ	صالحين	righteous	ṣāliḥīna
+15	21:72:9	e	٧٢	ﳆ			

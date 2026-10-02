@@ -1,0 +1,123 @@
+1	25:68:1	w	وَٱلَّذِينَ	ﱁ	والذين	And those who	wa-alladhīna
+1	25:68:2	w	لَا	ﱂ	لا	(do) not	lā
+1	25:68:3	w	يَدۡعُونَ	ﱃ	يدعون	invoke	yadʿūna
+1	25:68:4	w	مَعَ	ﱄ	مع	with	maʿa
+1	25:68:5	w	ٱللَّهِ	ﱅ	الله	Allah	l-lahi
+1	25:68:6	w	إِلَٰهًا	ﱆ	الاها	god	ilāhan
+1	25:68:7	w	ءَاخَرَ	ﱇ	اخر	another	ākhara
+1	25:68:8	w	وَلَا	ﱈ	ولا	and (do) not	walā
+1	25:68:9	w	يَقۡتُلُونَ	ﱉ	يقتلون	[they] kill	yaqtulūna
+1	25:68:10	w	ٱلنَّفۡسَ	ﱊ	النفس	the soul	l-nafsa
+2	25:68:11	w	ٱلَّتِي	ﱋ	التي	which	allatī
+2	25:68:12	w	حَرَّمَ	ﱌ	حرم	Allah has forbidden	ḥarrama
+2	25:68:13	w	ٱللَّهُ	ﱍ	الله	Allah has forbidden	l-lahu
+2	25:68:14	w	إِلَّا	ﱎ	الا	except	illā
+2	25:68:15	w	بِٱلۡحَقِّ	ﱏ	بالحق	by right	bil-ḥaqi
+2	25:68:16	w	وَلَا	ﱐ	ولا	and (do) not	walā
+2	25:68:17	w	يَزۡنُونَۚ	ﱑﱒ	يزنون	commit unlawful sexual intercourse	yaznūna
+2	25:68:18	w	وَمَن	ﱓ	ومن	And whoever	waman
+2	25:68:19	w	يَفۡعَلۡ	ﱔ	يفعل	does	yafʿal
+2	25:68:20	w	ذَٰلِكَ	ﱕ	ذالك	that	dhālika
+3	25:68:21	w	يَلۡقَ	ﱖ	يلق	will meet	yalqa
+3	25:68:22	w	أَثَامٗا	ﱗ	اثاما	a penalty	athāman
+3	25:68:23	e	٦٨	ﱘ			
+3	25:69:1	w	يُضَٰعَفۡ	ﱙ	يضاعف	Will be doubled	yuḍāʿaf
+3	25:69:2	w	لَهُ	ﱚ	له	for him	lahu
+3	25:69:3	w	ٱلۡعَذَابُ	ﱛ	العذاب	the punishment	l-ʿadhābu
+3	25:69:4	w	يَوۡمَ	ﱜ	يوم	(on the) Day	yawma
+3	25:69:5	w	ٱلۡقِيَٰمَةِ	ﱝ	القيامة	(of) Resurrection	l-qiyāmati
+3	25:69:6	w	وَيَخۡلُدۡ	ﱞ	ويخلد	and he will abide forever	wayakhlud
+4	25:69:7	w	فِيهِۦ	ﱟ	فيه	therein	fīhi
+4	25:69:8	w	مُهَانًا	ﱠ	مهانا	humiliated	muhānan
+4	25:69:9	e	٦٩	ﱡ			
+4	25:70:1	w	إِلَّا	ﱢ	الا	Except	illā
+4	25:70:2	w	مَن	ﱣ	من	(he) who	man
+4	25:70:3	w	تَابَ	ﱤ	تاب	repents	tāba
+4	25:70:4	w	وَءَامَنَ	ﱥ	وامن	and believes	waāmana
+4	25:70:5	w	وَعَمِلَ	ﱦ	وعمل	and does	waʿamila
+4	25:70:6	w	عَمَلٗا	ﱧ	عملا	righteous deeds	ʿamalan
+4	25:70:7	w	صَٰلِحٗا	ﱨ	صالحا	righteous deeds	ṣāliḥan
+5	25:70:8	w	فَأُوْلَٰٓئِكَ	ﱩ	فاولايك	then (for) those	fa-ulāika
+5	25:70:9	w	يُبَدِّلُ	ﱪ	يبدل	Allah will replace	yubaddilu
+5	25:70:10	w	ٱللَّهُ	ﱫ	الله	Allah will replace	l-lahu
+5	25:70:11	w	سَيِّـَٔاتِهِمۡ	ﱬ	سيياتهم	their evil deeds	sayyiātihim
+5	25:70:12	w	حَسَنَٰتٖۗ	ﱭﱮ	حسنات	(with) good ones	ḥasanātin
+5	25:70:13	w	وَكَانَ	ﱯ	وكان	And is	wakāna
+5	25:70:14	w	ٱللَّهُ	ﱰ	الله	Allah	l-lahu
+6	25:70:15	w	غَفُورٗا	ﱱ	غفورا	Oft-Forgiving	ghafūran
+6	25:70:16	w	رَّحِيمٗا	ﱲ	رحيما	Most Merciful	raḥīman
+6	25:70:17	e	٧٠	ﱳ			
+6	25:71:1	w	وَمَن	ﱴ	ومن	And whoever	waman
+6	25:71:2	w	تَابَ	ﱵ	تاب	repents	tāba
+6	25:71:3	w	وَعَمِلَ	ﱶ	وعمل	and does	waʿamila
+6	25:71:4	w	صَٰلِحٗا	ﱷ	صالحا	righteous (deeds)	ṣāliḥan
+6	25:71:5	w	فَإِنَّهُۥ	ﱸ	فانه	then indeed, he	fa-innahu
+6	25:71:6	w	يَتُوبُ	ﱹ	يتوب	turns	yatūbu
+7	25:71:7	w	إِلَى	ﱺ	الى	to	ilā
+7	25:71:8	w	ٱللَّهِ	ﱻ	الله	Allah	l-lahi
+7	25:71:9	w	مَتَابٗا	ﱼ	متابا	(with) repentance	matāban
+7	25:71:10	e	٧١	ﱽ			
+7	25:72:1	w	وَٱلَّذِينَ	ﱾ	والذين	And those who	wa-alladhīna
+7	25:72:2	w	لَا	ﱿ	لا	(do) not	lā
+7	25:72:3	w	يَشۡهَدُونَ	ﲀ	يشهدون	bear witness	yashhadūna
+7	25:72:4	w	ٱلزُّورَ	ﲁ	الزور	(to) the falsehood	l-zūra
+7	25:72:5	w	وَإِذَا	ﲂ	واذا	and when	wa-idhā
+7	25:72:6	w	مَرُّواْ	ﲃ	مروا	they pass	marrū
+8	25:72:7	w	بِٱللَّغۡوِ	ﲄ	باللغو	by futility	bil-laghwi
+8	25:72:8	w	مَرُّواْ	ﲅ	مروا	they pass	marrū
+8	25:72:9	w	كِرَامٗا	ﲆ	كراما	(as) dignified ones	kirāman
+8	25:72:10	e	٧٢	ﲇ			
+8	25:73:1	w	وَٱلَّذِينَ	ﲈ	والذين	And those who	wa-alladhīna
+8	25:73:2	w	إِذَا	ﲉ	اذا	when	idhā
+8	25:73:3	w	ذُكِّرُواْ	ﲊ	ذكروا	they are reminded	dhukkirū
+8	25:73:4	w	بِـَٔايَٰتِ	ﲋ	بايات	of (the) Verses	biāyāti
+9	25:73:5	w	رَبِّهِمۡ	ﲌ	ربهم	(of) their Lord	rabbihim
+9	25:73:6	w	لَمۡ	ﲍ	لم	(do) not	lam
+9	25:73:7	w	يَخِرُّواْ	ﲎ	يخروا	fall	yakhirrū
+9	25:73:8	w	عَلَيۡهَا	ﲏ	عليها	upon them	ʿalayhā
+9	25:73:9	w	صُمّٗا	ﲐ	صما	deaf	ṣumman
+9	25:73:10	w	وَعُمۡيَانٗا	ﲑ	وعميانا	and blind	waʿum'yānan
+9	25:73:11	e	٧٣	ﲒ			
+9	25:74:1	w	وَٱلَّذِينَ	ﲓ	والذين	And those who	wa-alladhīna
+9	25:74:2	w	يَقُولُونَ	ﲔ	يقولون	say	yaqūlūna
+10	25:74:3	w	رَبَّنَا	ﲕ	ربنا	Our Lord	rabbanā
+10	25:74:4	w	هَبۡ	ﲖ	هب	Grant	hab
+10	25:74:5	w	لَنَا	ﲗ	لنا	to us	lanā
+10	25:74:6	w	مِنۡ	ﲘ	من	from	min
+10	25:74:7	w	أَزۡوَٰجِنَا	ﲙ	ازواجنا	our spouses	azwājinā
+10	25:74:8	w	وَذُرِّيَّٰتِنَا	ﲚ	وذرياتنا	and our offspring	wadhurriyyātinā
+10	25:74:9	w	قُرَّةَ	ﲛ	قرة	comfort	qurrata
+10	25:74:10	w	أَعۡيُنٖ	ﲜ	اعين	(to) our eyes	aʿyunin
+10	25:74:11	w	وَٱجۡعَلۡنَا	ﲝ	واجعلنا	and make us	wa-ij'ʿalnā
+11	25:74:12	w	لِلۡمُتَّقِينَ	ﲞ	للمتقين	for the righteous	lil'muttaqīna
+11	25:74:13	w	إِمَامًا	ﲟ	اماما	a leader	imāman
+11	25:74:14	e	٧٤	ﲠ			
+11	25:75:1	w	أُوْلَٰٓئِكَ	ﲡ	اولايك	Those	ulāika
+11	25:75:2	w	يُجۡزَوۡنَ	ﲢ	يجزون	will be awarded	yuj'zawna
+11	25:75:3	w	ٱلۡغُرۡفَةَ	ﲣ	الغرفة	the Chamber	l-ghur'fata
+11	25:75:4	w	بِمَا	ﲤ	بما	because	bimā
+11	25:75:5	w	صَبَرُواْ	ﲥ	صبروا	they were patient	ṣabarū
+12	25:75:6	w	وَيُلَقَّوۡنَ	ﲦ	ويلقون	and they will be met	wayulaqqawna
+12	25:75:7	w	فِيهَا	ﲧ	فيها	therein	fīhā
+12	25:75:8	w	تَحِيَّةٗ	ﲨ	تحية	(with) greetings	taḥiyyatan
+12	25:75:9	w	وَسَلَٰمًا	ﲩ	وسلاما	and peace	wasalāman
+12	25:75:10	e	٧٥	ﲪ			
+12	25:76:1	w	خَٰلِدِينَ	ﲫ	خالدين	Will abide forever	khālidīna
+12	25:76:2	w	فِيهَاۚ	ﲬﲭ	فيها	in it	fīhā
+13	25:76:3	w	حَسُنَتۡ	ﲮ	حسنت	Good	ḥasunat
+13	25:76:4	w	مُسۡتَقَرّٗا	ﲯ	مستقرا	(is) the settlement	mus'taqarran
+13	25:76:5	w	وَمُقَامٗا	ﲰ	ومقاما	and a resting place	wamuqāman
+13	25:76:6	e	٧٦	ﲱ			
+13	25:77:1	w	قُلۡ	ﲲ	قل	Say	qul
+13	25:77:2	w	مَا	ﲳ	ما	Not	mā
+13	25:77:3	w	يَعۡبَؤُاْ	ﲴ	يعبا	will care	yaʿba-u
+13	25:77:4	w	بِكُمۡ	ﲵ	بكم	for you	bikum
+13	25:77:5	w	رَبِّي	ﲶ	ربي	my Lord	rabbī
+14	25:77:6	w	لَوۡلَا	ﲷ	لولا	if not	lawlā
+14	25:77:7	w	دُعَآؤُكُمۡۖ	ﲸﲹ	دعاوكم	your prayer (is to Him)	duʿāukum
+14	25:77:8	w	فَقَدۡ	ﲺ	فقد	But verily	faqad
+14	25:77:9	w	كَذَّبۡتُمۡ	ﲻ	كذبتم	you have denied	kadhabtum
+14	25:77:10	w	فَسَوۡفَ	ﲼ	فسوف	so soon	fasawfa
+14	25:77:11	w	يَكُونُ	ﲽ	يكون	will be	yakūnu
+14	25:77:12	w	لِزَامَۢا	ﲾ	لزاما	the inevitable (punishment)	lizāman
+14	25:77:13	e	٧٧	ﲿ			
