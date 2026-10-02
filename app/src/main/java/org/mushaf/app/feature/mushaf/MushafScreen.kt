@@ -56,6 +56,7 @@ import androidx.core.view.WindowInsetsControllerCompat
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.data.quran.Script
 import androidx.compose.animation.AnimatedContent
 import androidx.compose.animation.togetherWith
 import androidx.compose.animation.core.tween
@@ -65,6 +66,7 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.TransformOrigin
 import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.graphics.luminance
 import androidx.compose.ui.zIndex
 import kotlinx.coroutines.delay
 import org.mushaf.app.core.quran.PageLine
@@ -140,6 +142,7 @@ fun MushafScreen(
 
     var chrome by rememberSaveable { mutableStateOf(true) }
     var opened by remember { mutableStateOf<Word?>(null) }
+    var legend by remember { mutableStateOf(false) }
     val reduce = reducedMotion()
     // A riwayah just chosen: its name in the top pill a moment, the pages written again.
     val riwayat: Riwayat = koinInject()
@@ -191,6 +194,7 @@ fun MushafScreen(
         val current = pager.currentPage * perItem + 1
         val settled = !pager.isScrollInProgress
         val paper = MaterialTheme.colorScheme.surface
+        val dark = MaterialTheme.colorScheme.background.luminance() < 0.5f
 
         // The page shown is remembered; the fonts of the pages around it are fetched ahead.
         LaunchedEffect(pager, perItem) {
@@ -287,7 +291,7 @@ fun MushafScreen(
                     }
                 }
                 AnimatedVisibility(
-                    visible = chrome && opened == null && !heard.active && session == null,
+                    visible = chrome && opened == null && !legend && !heard.active && session == null,
                     enter = fadeIn() + scaleIn(initialScale = 0.9f),
                     exit = fadeOut() + scaleOut(targetScale = 0.9f),
                     modifier = Modifier.align(Alignment.BottomCenter).navigationBarsPadding().padding(bottom = 16.dp)
@@ -302,6 +306,9 @@ fun MushafScreen(
                     ) {
                         FloatingAction(AppIcons.School, "Hifz", onOpenHifz)
                         FloatingAction(AppIcons.Puzzle, "Play", onOpenPlay)
+                        if (!warsh && settings.script == Script.TAJWEED && settings.script.usable) {
+                            FloatingAction(AppIcons.Palette, "Tajweed colours", { haptics.tick(); legend = true })
+                        }
                         FloatingAction(AppIcons.Translate, "Read with meaning", {
                             scope.launch { onOpenMeaning(quran.firstAyah(current)) }
                         })
@@ -310,6 +317,14 @@ fun MushafScreen(
                             scope.launch { listen.play(quran.firstAyah(current)) }
                         })
                     }
+                }
+                AnimatedVisibility(
+                    visible = legend && opened == null,
+                    enter = fadeIn() + slideInVertically { it / 2 },
+                    exit = fadeOut() + slideOutVertically { it / 2 },
+                    modifier = Modifier.align(Alignment.BottomCenter)
+                ) {
+                    TajweedLegend(dark) { legend = false }
                 }
                 AnimatedVisibility(
                     visible = opened != null,
@@ -365,15 +380,15 @@ fun MushafScreen(
                                     if (shown != null) {
                                         val opensSurah = remember(shown) { shown.lines.any { it is PageLine.Title } }
                                         // Read again when a font arrives.
-                                        val print = remember(n, settings.script, arrived, warsh) {
-                                            if (!warsh && settings.script.usable) fonts.family(settings.script, n) else null
+                                        val print = remember(n, settings.script, arrived, warsh, dark) {
+                                            if (!warsh && settings.script.usable) fonts.family(settings.script, n, dark) else null
                                         }
                                         PageView(
                                             page = shown,
                                             print = print,
                                             hafs = hafs,
-                                            basmala = remember(settings.script, arrived, warsh) {
-                                                if (!warsh && settings.script.usable) fonts.family(settings.script, 1) else null
+                                            basmala = remember(settings.script, arrived, warsh, dark) {
+                                                if (!warsh && settings.script.usable) fonts.family(settings.script, 1, dark) else null
                                             },
                                             basmalaText = basmalaText,
                                             surahNames = surahNames,
@@ -399,7 +414,11 @@ fun MushafScreen(
                                                 if (sess != null && sess.showOf(w) != WordShow.ALL) { haptics.tick(); hifz.reveal(w); true } else false
                                             },
                                             onTap = {
-                                                if (opened != null) opened = null else chrome = !chrome
+                                                when {
+                                                    opened != null -> opened = null
+                                                    legend -> legend = false
+                                                    else -> chrome = !chrome
+                                                }
                                             },
                                             modifier = if (scrolled) Modifier.height(pageHeight) else Modifier,
                                             onLongPress = { w ->

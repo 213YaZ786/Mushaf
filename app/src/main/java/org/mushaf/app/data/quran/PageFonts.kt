@@ -68,14 +68,19 @@ class PageFonts(private val context: Context, private val sources: Sources, priv
 
     fun has(script: Script, page: Int) = file(script, page).exists()
 
-    /** The page's font if it is here; otherwise asks for it and returns null. */
-    fun family(script: Script, page: Int): FontFamily? {
+    /**
+     * The page's font if it is here; otherwise asks for it and returns null.
+     * On a dark page the tajweed font draws with its own dark palette.
+     */
+    fun family(script: Script, page: Int, dark: Boolean = false): FontFamily? {
         if (script == Script.HAFS) return null
-        val key = "${script.name}/$page"
+        val night = dark && script == Script.TAJWEED
+        val key = "${script.name}/$page" + if (night) "/dark" else ""
         families[key]?.let { return it }
         val f = file(script, page)
         if (f.exists() && f.length() > 0) {
-            return runCatching { FontFamily(Font(f)) }.getOrNull()?.also { families[key] = it }
+            val use = if (night) runCatching { darkCopy(f, page) }.getOrNull() ?: f else f
+            return runCatching { FontFamily(Font(use)) }.getOrNull()?.also { families[key] = it }
                 ?: run { f.delete(); null }
         }
         fetch(script, page)
@@ -131,6 +136,47 @@ class PageFonts(private val context: Context, private val sources: Sources, priv
             }
         }
         throw last ?: error("no source")
+    }
+
+    /**
+     * The tajweed fonts paint the text with the first colour of their
+     * palette, black, which a dark page would hide. They carry a palette for
+     * dark pages too (white text, the rules' colours lightened, the second
+     * one), which Android never chooses: a copy of the font is made whose
+     * first palette points to the second one's colours. Checked fonts only:
+     * the copy is made from the file whose fingerprint was checked.
+     */
+    private fun darkCopy(font: File, page: Int): File {
+        val copy = File(dir(Script.TAJWEED), "dark/p$page.ttf")
+        if (copy.exists() && copy.length() == font.length()) return copy
+        copy.parentFile?.mkdirs()
+        val part = File(copy.path + ".part")
+        font.copyTo(part, overwrite = true)
+        RandomAccessFile(part, "rw").use { f ->
+            f.seek(4)
+            val tables = f.readUnsignedShort()
+            var cpal = -1L
+            for (i in 0 until tables) {
+                val at = 12L + i * 16
+                f.seek(at)
+                val tag = ByteArray(4).also { f.readFully(it) }
+                if (String(tag, Charsets.ISO_8859_1) == "CPAL") {
+                    f.seek(at + 8)
+                    cpal = f.readInt().toLong() and 0xffffffffL
+                    break
+                }
+            }
+            require(cpal > 0) { "no palette" }
+            f.seek(cpal + 4)
+            require(f.readUnsignedShort() >= 2) { "no dark palette" }
+            // colorRecordIndices: where each palette's colours start.
+            f.seek(cpal + 14)
+            val second = f.readUnsignedShort()
+            f.seek(cpal + 12)
+            f.writeShort(second)
+        }
+        if (!part.renameTo(copy)) error("not kept")
+        return copy
     }
 
     /**
