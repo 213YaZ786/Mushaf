@@ -56,6 +56,22 @@ import androidx.core.view.WindowInsetsControllerCompat
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import androidx.compose.animation.AnimatedContent
+import androidx.compose.animation.togetherWith
+import androidx.compose.animation.core.tween
+import androidx.compose.foundation.pager.PagerState
+import androidx.compose.ui.draw.drawWithContent
+import androidx.compose.ui.graphics.Brush
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.TransformOrigin
+import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.zIndex
+import kotlinx.coroutines.delay
+import org.mushaf.app.core.quran.PageLine
+import org.mushaf.app.data.quran.Riwayat
+import org.mushaf.app.feature.hifz.Spot
+import org.mushaf.app.ui.component.Glide
+import org.mushaf.app.ui.component.reducedMotion
 import org.mushaf.app.ui.theme.quranFont
 import org.mushaf.app.ui.theme.basmalaFor
 import org.mushaf.app.core.quran.Riwayah
@@ -124,6 +140,18 @@ fun MushafScreen(
 
     var chrome by rememberSaveable { mutableStateOf(true) }
     var opened by remember { mutableStateOf<Word?>(null) }
+    val reduce = reducedMotion()
+    // A riwayah just chosen: its name in the top pill a moment, the pages written again.
+    val riwayat: Riwayat = koinInject()
+    val announced by riwayat.announced.collectAsState()
+    LaunchedEffect(announced) {
+        if (announced == null) return@LaunchedEffect
+        chrome = true
+        delay(2200)
+        riwayat.announcedShown()
+    }
+    // The page reached by a jump (the index, a search): a surah opening there rises into place.
+    var jumped by remember { mutableStateOf<Int?>(null) }
 
     val recitations: Recitations = koinInject()
     val surahPlaying = heard.key?.surah
@@ -161,6 +189,8 @@ fun MushafScreen(
         // A new pager when one page becomes two or back: its saved place counts in spreads or in pages.
         val pager = key(perItem) { rememberPagerState(initialPage = (reader.page.value - 1) / perItem) { count } }
         val current = pager.currentPage * perItem + 1
+        val settled = !pager.isScrollInProgress
+        val paper = MaterialTheme.colorScheme.surface
 
         // The page shown is remembered; the fonts of the pages around it are fetched ahead.
         LaunchedEffect(pager, perItem) {
@@ -182,6 +212,7 @@ fun MushafScreen(
         val goTo by reader.goTo.collectAsState()
         LaunchedEffect(goTo, perItem) {
             val target = goTo ?: return@LaunchedEffect
+            jumped = target
             pager.scrollToPage((target - 1) / perItem)
             reader.wentTo()
         }
@@ -207,12 +238,18 @@ fun MushafScreen(
                         trailing = { FloatingAction(AppIcons.Settings, "Settings", onOpenSettings) },
                         center = {
                             FloatingPane(shape = CircleShape, onClick = { haptics.tick(); onOpenIndex() }) {
-                                Text(
-                                    surah?.name ?: " ",
-                                    style = MaterialTheme.typography.titleMedium,
-                                    maxLines = 1,
-                                    modifier = Modifier.padding(horizontal = 18.dp, vertical = 10.dp)
-                                )
+                                AnimatedContent(
+                                    targetState = announced?.label ?: surah?.name ?: " ",
+                                    transitionSpec = { fadeIn(tween(260)) togetherWith fadeOut(tween(200)) },
+                                    label = "title"
+                                ) { title ->
+                                    Text(
+                                        title,
+                                        style = MaterialTheme.typography.titleMedium,
+                                        maxLines = 1,
+                                        modifier = Modifier.padding(horizontal = 18.dp, vertical = 10.dp)
+                                    )
+                                }
                             }
                         }
                     )
@@ -276,7 +313,9 @@ fun MushafScreen(
                 }
                 AnimatedVisibility(
                     visible = opened != null,
-                    enter = fadeIn() + slideInVertically { it / 2 },
+                    // Once the ayah has lit up from the word held.
+                    enter = fadeIn(tween(240, delayMillis = if (reduce) 0 else 260)) +
+                        slideInVertically(tween(420, delayMillis = if (reduce) 0 else 260, easing = Glide)) { it / 2 },
                     exit = fadeOut() + slideOutVertically { it / 2 },
                     modifier = Modifier.align(Alignment.BottomCenter)
                 ) {
@@ -307,6 +346,7 @@ fun MushafScreen(
                         Row(
                             Modifier
                                 .fillMaxSize()
+                                .then(if (reduce) Modifier else Modifier.pageTurn(pager, item, paper))
                                 .padding(bars)
                                 .padding(horizontal = if (spread) 24.dp else 12.dp, vertical = 8.dp),
                             horizontalArrangement = Arrangement.spacedBy(32.dp)
@@ -320,9 +360,10 @@ fun MushafScreen(
                                         .fillMaxSize()
                                         .then(if (scrolled) Modifier.verticalScroll(rememberScrollState()) else Modifier)
                                 ) {
-                                    val page by produceState<MushafPage?>(null, n) { value = quran.page(n) }
+                                    val page by produceState<MushafPage?>(null, n, settings.riwayah) { value = quran.page(n) }
                                     val shown = page
                                     if (shown != null) {
+                                        val opensSurah = remember(shown) { shown.lines.any { it is PageLine.Title } }
                                         // Read again when a font arrives.
                                         val print = remember(n, settings.script, arrived, warsh) {
                                             if (!warsh && settings.script.usable) fonts.family(settings.script, n) else null
@@ -336,9 +377,22 @@ fun MushafScreen(
                                             },
                                             basmalaText = basmalaText,
                                             surahNames = surahNames,
-                                            marked = marked ?: opened?.key ?: heard.key,
+                                            marked = marked ?: heard.key.takeIf { !settings.followVoice },
                                             heard = heard.key.takeIf { settings.followVoice },
                                             heardWord = heard.heard?.word,
+                                            held = opened,
+                                            slipped = { w -> session?.slipped?.contains(Spot(w.key, w.position)) == true },
+                                            opening = opensSurah && n !in reader.opened,
+                                            entrance = when {
+                                                announced != null -> Entrance.INK
+                                                jumped == n && opensSurah && n !in reader.opened -> Entrance.RISE
+                                                else -> null
+                                            },
+                                            active = settled && n in current until current + perItem,
+                                            onShown = {
+                                                if (opensSurah) reader.opened += n
+                                                if (jumped == n) jumped = null
+                                            },
                                             show = { w -> session?.showOf(w) ?: WordShow.ALL },
                                             onWordTap = { w ->
                                                 val sess = session
@@ -365,6 +419,47 @@ fun MushafScreen(
         }
     }
 }
+
+/**
+ * The page turned as paper: held in place, it lifts from the spine on its
+ * right and turns over the next one, which waits beneath in the shadow it
+ * casts. Follows the finger; let go early, it falls back.
+ */
+private fun Modifier.pageTurn(pager: PagerState, item: Int, paper: Color): Modifier = this
+    .zIndex(-item.toFloat())
+    .graphicsLayer {
+        // 0 at rest, 0 to 1 while this page turns away, -1 to 0 while it waits beneath.
+        val off = (pager.currentPage - item) + pager.currentPageOffsetFraction
+        if (off == 0f || off <= -1f || off >= 1f) return@graphicsLayer
+        // The pager slides its pages (right to left); here they keep still.
+        translationX = -off * size.width
+        if (off > 0f) {
+            transformOrigin = TransformOrigin(1f, 0.5f)
+            cameraDistance = 60f * density
+            rotationY = TURN_SIGN * 90f * off
+        }
+    }
+    .drawWithContent {
+        val off = (pager.currentPage - item) + pager.currentPageOffsetFraction
+        if (off > 0f && off < 1f) {
+            // The sheet turning is opaque, and darkens as it lifts.
+            drawRect(paper)
+            drawContent()
+            drawRect(
+                Brush.horizontalGradient(0f to Color.Black.copy(alpha = 0.32f * off), 1f to Color.Transparent),
+                alpha = 1f
+            )
+        } else if (off < 0f && off > -1f) {
+            drawContent()
+            // The shadow the lifted page casts, strongest half way.
+            val lift = 1f + off
+            val k = 4f * lift * (1f - lift)
+            drawRect(Brush.horizontalGradient(0f to Color.Transparent, 0.55f to Color.Transparent, 1f to Color.Black.copy(alpha = 0.22f * k)))
+        } else drawContent()
+    }
+
+/** Which way rotationY lifts the page's free edge toward the reader. */
+private const val TURN_SIGN = 1f
 
 /** The surah the page starts in. */
 private fun pageSurah(pageStart: List<String>, page: Int): Int? =

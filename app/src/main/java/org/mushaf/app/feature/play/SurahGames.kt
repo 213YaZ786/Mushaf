@@ -60,6 +60,22 @@ import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
 import kotlin.random.Random
 import kotlinx.coroutines.launch
+import androidx.compose.animation.core.tween
+import org.mushaf.app.ui.component.reducedMotion
+import org.mushaf.app.ui.component.Glide
+import kotlin.math.sin
+import kotlin.math.cos
+import kotlin.math.PI
+import kotlinx.coroutines.coroutineScope
+import androidx.compose.ui.layout.onGloballyPositioned
+import androidx.compose.ui.layout.boundsInRoot
+import androidx.compose.ui.graphics.drawscope.rotate
+import androidx.compose.ui.geometry.Size
+import androidx.compose.ui.geometry.Offset
+import androidx.compose.ui.geometry.CornerRadius
+import androidx.compose.runtime.key
+import androidx.compose.foundation.Canvas
+import androidx.compose.animation.core.VectorConverter
 import org.mushaf.app.data.settings.SettingsStore
 import org.mushaf.app.data.audio.Recitations
 import org.mushaf.app.core.quran.Riwayah
@@ -210,17 +226,59 @@ private fun Rtl(content: @Composable () -> Unit) =
 @Composable
 private fun Done(text: String, onAgain: () -> Unit) {
     val haptics = rememberHaptics()
-    val scale = remember { Animatable(0.4f) }
-    LaunchedEffect(Unit) { haptics.done(); scale.animateTo(1f, spring(dampingRatio = 0.4f)) }
+    val reduce = reducedMotion()
+    // Three stars of eight points open one after the other, each with a burst.
+    val pops = remember { List(3) { Animatable(0f) } }
+    val bursts = remember { List(3) { Animatable(0f) } }
+    LaunchedEffect(Unit) {
+        haptics.done()
+        if (reduce) { pops.forEach { it.snapTo(1f) }; bursts.forEach { it.snapTo(1f) }; return@LaunchedEffect }
+        coroutineScope {
+            for (i in 0 until 3) {
+                launch { pops[i].animateTo(1f, spring(dampingRatio = 0.45f, stiffness = 380f)) }
+                launch { bursts[i].animateTo(1f, tween(650, easing = Glide)) }
+                delay(330)
+            }
+        }
+    }
+    val starColor = MaterialTheme.colorScheme.tertiary
     Column(Modifier.fillMaxWidth().padding(24.dp), horizontalAlignment = Alignment.CenterHorizontally) {
-        Icon(
-            AppIcons.Star,
-            contentDescription = null,
-            tint = MaterialTheme.colorScheme.primary,
-            modifier = Modifier.size(96.dp).graphicsLayer { scaleX = scale.value; scaleY = scale.value }
-        )
+        Row(horizontalArrangement = Arrangement.spacedBy(18.dp), verticalAlignment = Alignment.CenterVertically) {
+            for (i in 0 until 3) EightStar(pops[i].value, bursts[i].value, starColor, Modifier.size(if (i == 1) 84.dp else 64.dp))
+        }
         Text(text, style = MaterialTheme.typography.headlineSmall, textAlign = TextAlign.Center, modifier = Modifier.padding(16.dp))
         BoldButton(filled = true, onClick = onAgain) { Text("Again") }
+    }
+}
+
+/**
+ * A star of eight points, two squares over each other as the hizb sign is
+ * drawn, popping in as [pop] goes from 0 to 1; small diamonds fly out of
+ * it as [burst] does.
+ */
+@Composable
+private fun EightStar(pop: Float, burst: Float, color: Color, modifier: Modifier) {
+    Canvas(modifier) {
+        val c = center
+        val r = size.minDimension / 2f
+        if (burst in 0.01f..0.99f) {
+            for (k in 0 until 8) {
+                val a = k / 8f * 2f * PI.toFloat()
+                val d = r * (0.6f + 0.9f * burst)
+                val s = r * 0.12f * (1f - burst * 0.6f)
+                rotate(45f, Offset(c.x + cos(a) * d, c.y + sin(a) * d)) {
+                    drawRect(color, Offset(c.x + cos(a) * d - s / 2, c.y + sin(a) * d - s / 2), Size(s, s), alpha = 1f - burst)
+                }
+            }
+        }
+        if (pop <= 0f) return@Canvas
+        val side = r * 1.25f * pop
+        rotate(-40f * (1f - pop), c) {
+            for (turn in listOf(0f, 45f)) rotate(turn, c) {
+                drawRoundRect(color, Offset(c.x - side / 2, c.y - side / 2), Size(side, side), CornerRadius(side * 0.08f))
+            }
+            drawCircle(Color.White.copy(alpha = 0.35f), radius = side * 0.18f, center = c)
+        }
     }
 }
 
@@ -331,12 +389,40 @@ private fun BuildGame(ayat: List<Ayah>, onWon: () -> Unit) {
     val puzzle = remember(a.key, round) { Games.puzzle(a.key, a.words.map { it.text }, Random(System.nanoTime())) }
     val placed = remember(a.key, round) { mutableStateListOf<Int>() }
     var wrong by remember(a.key, round) { mutableStateOf(-1) }
+    val reduce = reducedMotion()
+    // Where each tile was when tapped, for the word to fly from there to its place.
+    val tileAt = remember(a.key, round) { HashMap<Int, Offset>() }
+    val flyFrom = remember(a.key, round) { HashMap<Int, Offset>() }
     Text("Ayah ${index + 1} of ${ayat.size}", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary,
         textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp))
     ZoneSurface(shape = RoundedCornerShape(24.dp), modifier = Modifier.fillMaxWidth().heightIn(min = 120.dp)) {
         Rtl {
             FlowRow(horizontalArrangement = Arrangement.spacedBy(10.dp), verticalArrangement = Arrangement.spacedBy(6.dp), modifier = Modifier.padding(16.dp)) {
-                for (i in placed) Text(puzzle.answer[i].text, style = TextStyle(fontFamily = font, fontSize = 32.sp), color = MaterialTheme.colorScheme.primary)
+                for (i in placed) key(i) {
+                    val fly = remember { Animatable(Offset.Zero, Offset.VectorConverter) }
+                    var ready by remember { mutableStateOf(reduce) }
+                    val scope = rememberCoroutineScope()
+                    Text(
+                        puzzle.answer[i].text,
+                        style = TextStyle(fontFamily = font, fontSize = 32.sp),
+                        color = MaterialTheme.colorScheme.primary,
+                        modifier = Modifier
+                            .onGloballyPositioned { c ->
+                                if (ready) return@onGloballyPositioned
+                                val start = flyFrom[i]?.minus(c.boundsInRoot().center)
+                                scope.launch {
+                                    if (start != null) fly.snapTo(start)
+                                    ready = true
+                                    fly.animateTo(Offset.Zero, spring(dampingRatio = 0.55f, stiffness = 420f))
+                                }
+                            }
+                            .graphicsLayer {
+                                alpha = if (ready) 1f else 0f
+                                translationX = fly.value.x
+                                translationY = fly.value.y
+                            }
+                    )
+                }
             }
         }
     }
@@ -358,13 +444,17 @@ private fun BuildGame(ayat: List<Ayah>, onWon: () -> Unit) {
                             val next = puzzle.answer[placed.size]
                             if (tile.position == next.position || Arabic.normalize(tile.text) == Arabic.normalize(next.text) && next.position !in placed) {
                                 haptics.tick()
-                                placed += if (tile.position == next.position) tile.position else next.position
+                                val at = if (tile.position == next.position) tile.position else next.position
+                                tileAt[slot]?.let { flyFrom[at] = it }
+                                placed += at
                                 if (placed.size == puzzle.answer.size) { haptics.done(); index++ }
                             } else {
                                 haptics.reject(); wrong = slot
                             }
                         },
-                        modifier = Modifier.graphicsLayer { translationX = shake.value * 12f }
+                        modifier = Modifier
+                            .onGloballyPositioned { tileAt[slot] = it.boundsInRoot().center }
+                            .graphicsLayer { rotationZ = shake.value * 9f }
                     ) {
                         Text(tile.text, style = TextStyle(fontFamily = font, fontSize = 30.sp), modifier = Modifier.padding(horizontal = 16.dp, vertical = 8.dp))
                     }

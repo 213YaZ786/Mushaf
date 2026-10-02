@@ -1,6 +1,36 @@
 package org.mushaf.app.feature.mushaf
 
 import androidx.compose.foundation.Canvas
+import androidx.compose.animation.core.animateFloatAsState
+import androidx.compose.animation.core.Animatable
+import androidx.compose.animation.core.CubicBezierEasing
+import androidx.compose.animation.core.FastOutSlowInEasing
+import androidx.compose.animation.core.LinearEasing
+import androidx.compose.animation.core.VectorConverter
+import androidx.compose.animation.core.snap
+import androidx.compose.animation.core.tween
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.getValue
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.draw.drawBehind
+import androidx.compose.ui.draw.drawWithContent
+import androidx.compose.ui.geometry.CornerRadius
+import androidx.compose.ui.geometry.Size
+import androidx.compose.ui.graphics.BlurEffect
+import androidx.compose.ui.graphics.Brush
+import androidx.compose.ui.graphics.TileMode
+import androidx.compose.ui.graphics.drawscope.Stroke
+import androidx.compose.ui.graphics.drawscope.clipRect
+import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.graphics.lerp
+import androidx.compose.ui.layout.LayoutCoordinates
+import androidx.compose.ui.layout.onGloballyPositioned
+import androidx.compose.ui.layout.onPlaced
+import kotlinx.coroutines.coroutineScope
+import kotlinx.coroutines.launch
+import kotlin.math.abs
+import org.mushaf.app.ui.component.Glide
+import org.mushaf.app.ui.component.reducedMotion
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.size
 import androidx.compose.ui.geometry.Offset
@@ -50,6 +80,16 @@ import org.mushaf.app.ui.component.ZoneSurface
 /** How a word is shown while memorising. */
 enum class WordShow { ALL, FIRST_LETTER, HIDDEN }
 
+/** How a page's lines come in: rising into place, or written again from a blur of ink. */
+enum class Entrance { RISE, INK }
+
+/** A word by its place on the page. */
+private data class WordAt(val key: AyahKey, val position: Int)
+
+/** Between two lines coming in, and how long each takes. */
+private const val LINE_STAGGER = 110
+private const val LINE_IN = 420
+
 /**
  * A page of the mushaf as printed: its lines spread over the height it is
  * given, each line's words justified across the width from right to left,
@@ -68,7 +108,7 @@ fun PageView(
     basmalaText: String,
     surahNames: FontFamily,
     marked: AyahKey?,
-    /** The ayah and word heard in the recitation: the word takes the accent. */
+    /** The ayah and word heard in the recitation: a light glides from word to word. */
     heard: AyahKey?,
     heardWord: Int?,
     show: (Word) -> WordShow,
@@ -76,14 +116,63 @@ fun PageView(
     onLongPress: (Word) -> Unit,
     modifier: Modifier = Modifier,
     /** A tap on a word, before the page's own tap; true when it was used. */
-    onWordTap: (Word) -> Boolean = { false }
+    onWordTap: (Word) -> Boolean = { false },
+    /** The word held: its ayah lights up from it, word after word. */
+    held: Word? = null,
+    /** A word that slipped while reciting from memory. */
+    slipped: (Word) -> Boolean = { false },
+    /** A surah opens on this page and has not been seen yet: the title's light, the basmala written. */
+    opening: Boolean = false,
+    /** How the lines come in, if they do. */
+    entrance: Entrance? = null,
+    /** The page is settled in front of the reader: what it has to play, plays. */
+    active: Boolean = false,
+    /** Its opening and entrance have played. */
+    onShown: () -> Unit = {}
 ) {
     val measurer = rememberTextMeasurer(cacheSize = 64)
     val density = LocalDensity.current
     val family = print ?: hafs
     val color = LocalContentColor.current
-    val mark = MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.55f)
-    val voice = MaterialTheme.colorScheme.primary
+    val scheme = MaterialTheme.colorScheme
+    val mark = scheme.primaryContainer.copy(alpha = 0.55f)
+    val reduce = reducedMotion()
+
+    // What plays once the page is in front of the reader.
+    val gleam = remember(page.number, opening) { Animatable(if (opening) 0f else 1f) }
+    val ink = remember(page.number, opening) { Animatable(if (opening) 0f else 1f) }
+    val enter = remember(page.number, entrance) { Animatable(if (entrance != null) 0f else 1f) }
+    val lineCount = page.lines.size
+    val enterTotal = LINE_IN + LINE_STAGGER * (lineCount - 1).coerceAtLeast(0)
+    LaunchedEffect(page.number, active, opening, entrance) {
+        if (!active || (!opening && entrance == null)) return@LaunchedEffect
+        if (reduce) {
+            gleam.snapTo(1f); ink.snapTo(1f); enter.snapTo(1f)
+        } else coroutineScope {
+            if (entrance != null) launch { enter.animateTo(1f, tween(enterTotal, easing = LinearEasing)) }
+            if (opening) {
+                gleam.animateTo(1f, tween(900, easing = FastOutSlowInEasing))
+                ink.animateTo(1f, tween(1100, easing = CubicBezierEasing(0.45f, 0.05f, 0.4f, 1f)))
+            }
+        }
+        onShown()
+    }
+    // A line's own progress in the entrance.
+    fun lineIn(index: Int): Float =
+        ((enter.value * enterTotal - index * LINE_STAGGER) / LINE_IN).coerceIn(0f, 1f)
+
+    // The recitation's light: one capsule that glides to the word heard.
+    val bounds = remember(page.number) { HashMap<WordAt, Rect>() }
+    val column = remember { arrayOfNulls<LayoutCoordinates>(1) }
+    val heardAt = if (heard != null && heardWord != null) WordAt(heard, heardWord) else null
+    val capsule = remember(page.number) { Animatable(Rect.Zero, Rect.VectorConverter) }
+    val capsuleAlpha by animateFloatAsState(if (heardAt != null) 1f else 0f, tween(300), label = "voice")
+    LaunchedEffect(heardAt) {
+        val target = heardAt?.let { bounds[it] } ?: return@LaunchedEffect
+        if (capsule.value == Rect.Zero || reduce) capsule.snapTo(target)
+        else capsule.animateTo(target, tween(320, easing = Glide))
+    }
+    val capsuleColor = scheme.primaryContainer
 
     BoxWithConstraints(
         modifier
@@ -119,28 +208,72 @@ fun PageView(
         }
         val style = TextStyle(fontFamily = family, fontSize = size, textAlign = TextAlign.Center, color = color)
         val centred = PageLayout.centred(page.number)
+        val padX = with(density) { 5.dp.toPx() }
+        val radius = with(density) { 12.dp.toPx() }
 
         CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Rtl) {
-            Column(Modifier.fillMaxSize()) {
+            Column(
+                Modifier
+                    .fillMaxSize()
+                    .onPlaced { column[0] = it }
+                    .drawBehind {
+                        val r = capsule.value
+                        if (capsuleAlpha > 0f && r != Rect.Zero) drawRoundRect(
+                            capsuleColor,
+                            topLeft = Offset(r.left - padX, r.top),
+                            size = Size(r.width + padX * 2, r.height),
+                            cornerRadius = CornerRadius(radius),
+                            alpha = capsuleAlpha * 0.9f
+                        )
+                    }
+            ) {
                 // The first two pages sit in the middle of the height, as printed.
                 if (centred) Box(Modifier.weight(1f))
                 val shown = if (centred) page.lines else (1..count).map { n -> page.lines.firstOrNull { it.number == n } }
+                var lineIndex = 0
                 for (line in shown) {
-                    Box(Modifier.fillMaxWidth().height(lineHeight), contentAlignment = Alignment.Center) {
+                    val index = if (line != null) lineIndex++ else -1
+                    val entering = entrance != null && index >= 0
+                    Box(
+                        Modifier
+                            .fillMaxWidth()
+                            .height(lineHeight)
+                            .then(
+                                if (!entering) Modifier else Modifier.graphicsLayer {
+                                    val p = lineIn(index)
+                                    alpha = p
+                                    if (entrance == Entrance.RISE) translationY = (1f - p) * 8.dp.toPx()
+                                    else renderEffect = if (p < 1f) BlurEffect((1f - p) * 6.dp.toPx() + 0.01f, (1f - p) * 6.dp.toPx() + 0.01f, TileMode.Decal) else null
+                                }
+                            ),
+                        contentAlignment = Alignment.Center
+                    ) {
                         when (line) {
-                            is PageLine.Title -> SurahTitle(line.surah, surahNames, size, lineHeight)
-                            is PageLine.Basmala -> Basmala(basmala, hafs, style, basmalaText)
+                            is PageLine.Title -> SurahTitle(line.surah, surahNames, size, lineHeight) { gleam.value }
+                            is PageLine.Basmala -> Box(Modifier.drawWithContent {
+                                // Written from right to left, as the hand writes it.
+                                val shownPart = ink.value
+                                if (shownPart >= 1f) drawContent()
+                                else if (shownPart > 0f) clipRect(left = this.size.width * (1f - shownPart)) { this@drawWithContent.drawContent() }
+                            }) { Basmala(basmala, hafs, style, basmalaText) }
                             is PageLine.Words -> WordsLine(
                                 words = line.words,
                                 justify = !centred,
                                 glyphs = print != null,
                                 style = style,
                                 mark = mark,
-                                voice = voice,
                                 marked = marked,
                                 heard = heard,
                                 heardWord = heardWord,
+                                held = held,
                                 show = show,
+                                slipped = slipped,
+                                reduce = reduce,
+                                onPlacedWord = { w, coords ->
+                                    column[0]?.takeIf { it.isAttached && coords.isAttached }?.let { root ->
+                                        bounds[WordAt(w.key, w.position)] = root.localBoundingBoxOf(coords)
+                                    }
+                                },
                                 onTap = onTap,
                                 onWordTap = onWordTap,
                                 onLongPress = onLongPress
@@ -162,25 +295,85 @@ private fun WordsLine(
     glyphs: Boolean,
     style: TextStyle,
     mark: Color,
-    voice: Color,
     marked: AyahKey?,
     heard: AyahKey?,
     heardWord: Int?,
+    held: Word?,
     show: (Word) -> WordShow,
+    slipped: (Word) -> Boolean,
+    reduce: Boolean,
+    onPlacedWord: (Word, LayoutCoordinates) -> Unit,
     onTap: () -> Unit,
     onWordTap: (Word) -> Boolean,
     onLongPress: (Word) -> Unit
 ) {
+    val scheme = MaterialTheme.colorScheme
+    val density = LocalDensity.current
+    val frostFill = scheme.surfaceVariant.copy(alpha = 0.62f)
+    val frostRim = scheme.outlineVariant.copy(alpha = 0.7f)
     Layout(
         modifier = Modifier.fillMaxWidth(),
         content = {
             for (w in words) {
                 val hidden = if (w.end) WordShow.ALL else show(w)
-                val isPlaying = heard == w.key && heardWord == w.position
+                // The recitation: the word heard, and the words of its ayah already said.
+                val voiced = heard == w.key && !w.end
+                val now = voiced && heardWord == w.position
+                val said = voiced && (heardWord == null || w.position < heardWord)
+                // Held: the ayah lights up from the word pressed, one word after the other.
+                val inHeld = held != null && held.key == w.key
+                val hold by animateFloatAsState(
+                    if (inHeld) 1f else 0f,
+                    tween(260, delayMillis = if (inHeld && !reduce) abs(w.position - held!!.position) * 45 else 0),
+                    label = "hold"
+                )
+                // Memorising: a hidden word lies under frosted glass, which melts when it is said.
+                val slip = !w.end && slipped(w)
+                val frost by animateFloatAsState(
+                    if (hidden == WordShow.HIDDEN) 1f else 0f,
+                    if (reduce) snap() else tween(550, delayMillis = if (slip && hidden != WordShow.HIDDEN) 300 else 0),
+                    label = "frost"
+                )
+                val shake = remember(w.key, w.position) { Animatable(0f) }
+                LaunchedEffect(slip) {
+                    if (slip && !reduce) {
+                        for (x in listOf(-4f, 4f, -2f, 0f)) shake.animateTo(x, tween(80))
+                    }
+                }
+                val base = when {
+                    slip -> scheme.error
+                    now -> scheme.onPrimaryContainer
+                    said -> scheme.primary
+                    else -> style.color
+                }
+                val ink = if (hold > 0f && !now && !slip) lerp(base, scheme.primary, hold) else base
+                val bgAlpha = maxOf(if (marked == w.key) 1f else 0f, hold)
                 Box(
                     Modifier
-                        .then(if (marked == w.key) Modifier.background(mark, RoundedCornerShape(6.dp)) else Modifier)
+                        .onGloballyPositioned { onPlacedWord(w, it) }
+                        .graphicsLayer {
+                            translationX = shake.value * density.density
+                            translationY = -2.dp.toPx() * hold
+                            scaleX = 1f + 0.03f * hold
+                            scaleY = 1f + 0.03f * hold
+                        }
+                        .then(if (bgAlpha > 0f) Modifier.background(mark.copy(alpha = mark.alpha * bgAlpha), RoundedCornerShape(6.dp)) else Modifier)
                         .pointerInput(w) { detectTapGestures(onTap = { if (!onWordTap(w)) onTap() }, onLongPress = { onLongPress(w) }) }
+                        .drawWithContent {
+                            drawContent()
+                            if (frost > 0.01f) {
+                                val lift = (1f - frost) * 6.dp.toPx()
+                                val grow = 1f + 0.06f * (1f - frost)
+                                // A little narrower than the word, so two pieces of glass never touch.
+                                val inset = -1.5.dp.toPx()
+                                val w0 = size.width * grow + inset * 2
+                                val h0 = size.height * 0.84f * grow
+                                val topLeft = Offset((size.width - w0) / 2f, (size.height - h0) / 2f - lift)
+                                val corner = CornerRadius(12.dp.toPx())
+                                drawRoundRect(frostFill, topLeft, Size(w0, h0), corner, alpha = frost)
+                                drawRoundRect(frostRim, topLeft, Size(w0, h0), corner, alpha = frost, style = Stroke(1.dp.toPx()))
+                            }
+                        }
                 ) {
                     val text = when {
                         hidden == WordShow.FIRST_LETTER && !glyphs -> w.text.take(firstLetterLength(w.text))
@@ -190,12 +383,13 @@ private fun WordsLine(
                     WordInk(
                         text,
                         style,
-                        color = if (isPlaying) voice else style.color,
+                        color = ink,
                         alpha = when (hidden) {
-                            WordShow.ALL -> 1f
+                            WordShow.ALL -> 1f - 0.65f * frost
                             WordShow.FIRST_LETTER -> if (glyphs) 0.12f else 1f
-                            WordShow.HIDDEN -> 0f
-                        }
+                            WordShow.HIDDEN -> 0.35f
+                        },
+                        blur = frost
                     )
                 }
             }
@@ -229,12 +423,21 @@ private fun WordsLine(
  * the words of the first pages overlap.
  */
 @Composable
-private fun WordInk(text: String, style: TextStyle, color: Color, alpha: Float) {
+private fun WordInk(text: String, style: TextStyle, color: Color, alpha: Float, blur: Float = 0f) {
     val measurer = rememberTextMeasurer(cacheSize = 8)
     val layout = remember(text, style) { measurer.measure(text, style, softWrap = false, maxLines = 1) }
     val box = remember(layout) { inkBox(layout) }
     val density = LocalDensity.current
-    Canvas(Modifier.size(with(density) { box.width.toDp() }, with(density) { box.height.toDp() })) {
+    Canvas(
+        Modifier
+            .size(with(density) { box.width.toDp() }, with(density) { box.height.toDp() })
+            .then(
+                if (blur <= 0.01f) Modifier else Modifier.graphicsLayer {
+                    val r = blur * 9.dp.toPx()
+                    renderEffect = BlurEffect(r, r, TileMode.Decal)
+                }
+            )
+    ) {
         if (alpha > 0f) drawText(layout, color = color, topLeft = Offset(-box.left, -box.top), alpha = alpha)
     }
 }
@@ -262,13 +465,33 @@ private fun firstLetterLength(word: String): Int {
  * names font of Quran.com, one ligature per surah) on a pane of glass.
  */
 @Composable
-private fun SurahTitle(surah: Int, names: FontFamily, size: TextUnit, height: Dp) {
+private fun SurahTitle(surah: Int, names: FontFamily, size: TextUnit, height: Dp, gleam: () -> Float) {
     ZoneSurface(
         shape = RoundedCornerShape(50),
         accent = true,
         modifier = Modifier.fillMaxWidth(0.86f).height(height * 0.86f)
     ) {
-        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+        Box(
+            Modifier
+                .fillMaxSize()
+                .clip(RoundedCornerShape(50))
+                .drawWithContent {
+                    drawContent()
+                    // A light crossing the title once, as on the app's icon.
+                    val g = gleam()
+                    if (g > 0f && g < 1f) {
+                        val band = this.size.width * 0.4f
+                        val x = -band + (this.size.width + band * 2) * g
+                        drawRect(
+                            Brush.horizontalGradient(
+                                0f to Color.Transparent, 0.5f to Color.White.copy(alpha = 0.6f), 1f to Color.Transparent,
+                                startX = x - band / 2, endX = x + band / 2
+                            )
+                        )
+                    }
+                },
+            contentAlignment = Alignment.Center
+        ) {
             Text(
                 "%03d".format(surah),
                 style = TextStyle(fontFamily = names, fontSize = size * 1.7f, textAlign = TextAlign.Center),

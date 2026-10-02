@@ -1,5 +1,8 @@
 package org.mushaf.app.data.quran
 
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.StateFlow
+import kotlinx.coroutines.flow.asStateFlow
 import org.mushaf.app.core.quran.Riwayah
 import org.mushaf.app.data.hifz.Hifz
 import org.mushaf.app.data.marks.Marks
@@ -22,6 +25,15 @@ class Riwayat(
     private val session: HifzSession,
     private val listen: Listen
 ) {
+    private val _announced = MutableStateFlow<Riwayah?>(null)
+
+    /** A riwayah just chosen, for the mushaf to write its pages again and name it. */
+    val announced: StateFlow<Riwayah?> = _announced.asStateFlow()
+
+    fun announcedShown() {
+        _announced.value = null
+    }
+
     suspend fun change(to: Riwayah) {
         if (settings.current.riwayah == to) return
         listen.stop()
@@ -35,5 +47,6 @@ class Riwayat(
         val page = quran.pageOf(there)
         reader.shown(page)
         reader.go(page)
+        _announced.value = to
     }
 }

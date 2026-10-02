@@ -1,5 +1,6 @@
 package org.mushaf.app.feature.mushaf
 
+import androidx.compose.runtime.mutableStateSetOf
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -24,6 +25,9 @@ class Reader(private val settings: SettingsStore) {
     /** The ayah to point at after a jump, until the reader moves on. */
     private val _marked = MutableStateFlow<AyahKey?>(null)
     val marked: StateFlow<AyahKey?> = _marked.asStateFlow()
+
+    /** Pages whose surah opening has played since the app started: it plays once. */
+    val opened = mutableStateSetOf<Int>()
 
     /** The mushaf shows [page]: remembered. */
     fun shown(page: Int) {
