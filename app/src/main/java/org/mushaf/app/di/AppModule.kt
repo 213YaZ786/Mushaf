@@ -11,6 +11,8 @@ import org.mushaf.app.data.quran.Search
 import org.mushaf.app.data.quran.Tafsir
 import org.mushaf.app.data.quran.Translations
 import org.mushaf.app.data.marks.Marks
+import org.mushaf.app.data.audio.Recitations
+import org.mushaf.app.feature.listen.Listen
 import org.mushaf.app.data.settings.SettingsStore
 import org.mushaf.app.feature.mushaf.Reader
 
@@ -24,4 +26,6 @@ val appModule = module {
     single { Tafsir(androidContext()) }
     single { Marks(androidContext()) }
     single { Search(get(), get()) }
+    single { Recitations(androidContext()) }
+    single { Listen(androidContext(), get(), get(), get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
 }

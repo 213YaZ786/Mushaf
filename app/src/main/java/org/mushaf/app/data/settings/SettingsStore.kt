@@ -40,7 +40,16 @@ data class Settings(
     /** Each word with its own meaning, under it, when reading with the meaning. */
     val wordByWord: Boolean = true,
     /** The book of tafsir opened last. */
-    val tafsir: Int = 169
+    val tafsir: Int = 169,
+    /** The reciter heard (Quran.com's id), Mishari al-Afasy first. */
+    val reciter: Int = 7,
+    /** Times each ayah is heard; 0 for again and again. */
+    val repeat: Int = 1,
+    val speed: Float = 1f,
+    /** At the end of a surah the next one follows. */
+    val continuePlaying: Boolean = true,
+    /** The page turns with the voice, and the word heard lights up. */
+    val followVoice: Boolean = true
 )
 
 /**

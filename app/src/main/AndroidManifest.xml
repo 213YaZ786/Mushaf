@@ -6,8 +6,12 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <!-- Only used when the user chooses to install updates from the app; Android asks them then. -->
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
-    <!-- The note after an update, and the update's download. -->
+    <!-- The note after an update, the update's download, and the recitation's controls. -->
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <!-- The recitation goes on with the screen off or the app in the background. -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
 
     <application
         android:name=".MushafApplication"
@@ -35,6 +39,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- The recitation. Not exported: only the app and its own notification control it. -->
+        <service
+            android:name=".core.audio.PlaybackService"
+            android:exported="false"
+            android:foregroundServiceType="mediaPlayback">
+            <intent-filter>
+                <action android:name="androidx.media3.session.MediaSessionService" />
+            </intent-filter>
+        </service>
 
         <!-- After an update the app installed itself: a notification to open it again. -->
         <receiver

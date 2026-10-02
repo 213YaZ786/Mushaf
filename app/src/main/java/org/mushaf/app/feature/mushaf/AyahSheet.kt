@@ -64,7 +64,8 @@ fun AyahSheet(
     hafs: FontFamily,
     onClose: () -> Unit,
     onOpenMeaning: (AyahKey) -> Unit,
-    onOpenTafsir: (AyahKey) -> Unit
+    onOpenTafsir: (AyahKey) -> Unit,
+    onPlay: (AyahKey) -> Unit
 ) {
     val quran: Quran = koinInject()
     val context = LocalContext.current
@@ -128,6 +129,7 @@ fun AyahSheet(
                     FloatingAction(if (bookmarked) AppIcons.Bookmark else AppIcons.BookmarkOutline, if (bookmarked) "Remove bookmark" else "Bookmark", {
                         haptics.toggle(marks.toggleBookmark(word.key))
                     })
+                    FloatingAction(AppIcons.Play, "Listen from here", { onPlay(word.key) })
                     FloatingAction(AppIcons.Translate, "Read with meaning", { onOpenMeaning(word.key) })
                     FloatingAction(AppIcons.MenuBook, "Tafsir", { onOpenTafsir(word.key) })
                     FloatingAction(AppIcons.Info, "Note", { writing = true })

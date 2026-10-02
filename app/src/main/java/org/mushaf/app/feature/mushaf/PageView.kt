@@ -66,7 +66,9 @@ fun PageView(
     basmala: FontFamily?,
     surahNames: FontFamily,
     marked: AyahKey?,
-    playing: Word?,
+    /** The ayah and word heard in the recitation: the word takes the accent. */
+    heard: AyahKey?,
+    heardWord: Int?,
     show: (Word) -> WordShow,
     onTap: () -> Unit,
     onLongPress: (Word) -> Unit,
@@ -132,7 +134,8 @@ fun PageView(
                                 mark = mark,
                                 voice = voice,
                                 marked = marked,
-                                playing = playing,
+                                heard = heard,
+                                heardWord = heardWord,
                                 show = show,
                                 onTap = onTap,
                                 onLongPress = onLongPress
@@ -156,7 +159,8 @@ private fun WordsLine(
     mark: Color,
     voice: Color,
     marked: AyahKey?,
-    playing: Word?,
+    heard: AyahKey?,
+    heardWord: Int?,
     show: (Word) -> WordShow,
     onTap: () -> Unit,
     onLongPress: (Word) -> Unit
@@ -166,7 +170,7 @@ private fun WordsLine(
         content = {
             for (w in words) {
                 val hidden = if (w.end) WordShow.ALL else show(w)
-                val isPlaying = playing != null && playing.key == w.key && playing.position == w.position
+                val isPlaying = heard == w.key && heardWord == w.position
                 Box(
                     Modifier
                         .then(if (marked == w.key) Modifier.background(mark, RoundedCornerShape(6.dp)) else Modifier)

@@ -69,6 +69,8 @@ import org.mushaf.app.ui.component.FloatingPane
 import org.mushaf.app.ui.component.FloatingTop
 import org.mushaf.app.ui.component.rememberHaptics
 import org.mushaf.app.ui.icon.AppIcons
+import org.mushaf.app.feature.listen.Listen
+import org.mushaf.app.feature.listen.ListenPane
 
 /**
  * The mushaf: its pages fill the window, turned from right to left. A tap
@@ -96,6 +98,8 @@ fun MushafScreen(
     val surahNames = remember { FontFamily(Font(R.font.surah_names)) }
     val arrived by fonts.arrived.collectAsState()
     val marked by reader.marked.collectAsState()
+    val listen: Listen = koinInject()
+    val heard by listen.state.collectAsState()
     val meta by produceState(quran.metaNow, quran) { value = quran.meta() }
 
     var chrome by rememberSaveable { mutableStateOf(true) }
@@ -119,6 +123,14 @@ fun MushafScreen(
                 reader.shown(first)
                 fonts.prefetch(settings.script, (first - 2)..(first + perItem + 2))
             }
+        }
+        // The page follows the voice.
+        val heardKey = heard.key
+        LaunchedEffect(heardKey, settings.followVoice) {
+            val key = heardKey ?: return@LaunchedEffect
+            if (!settings.followVoice) return@LaunchedEffect
+            val page = quran.pageOf(key)
+            if (page !in current until current + perItem) pager.animateScrollToPage((page - 1) / perItem)
         }
         // A page asked for by the index or a search.
         val goTo by reader.goTo.collectAsState()
@@ -162,7 +174,15 @@ fun MushafScreen(
             },
             overlay = {
                 AnimatedVisibility(
-                    visible = chrome && opened == null,
+                    visible = heard.active && opened == null,
+                    enter = fadeIn() + slideInVertically { it / 2 },
+                    exit = fadeOut() + slideOutVertically { it / 2 },
+                    modifier = Modifier.align(Alignment.BottomCenter).navigationBarsPadding().padding(12.dp)
+                ) {
+                    ListenPane()
+                }
+                AnimatedVisibility(
+                    visible = chrome && opened == null && !heard.active,
                     enter = fadeIn() + scaleIn(initialScale = 0.9f),
                     exit = fadeOut() + scaleOut(targetScale = 0.9f),
                     modifier = Modifier.align(Alignment.BottomCenter).navigationBarsPadding().padding(bottom = 16.dp)
@@ -174,6 +194,9 @@ fun MushafScreen(
                             scope.launch { onOpenMeaning(quran.firstAyah(current)) }
                         })
                         PagePill(current, if (spread) current + 1 else null, juz, quarter)
+                        FloatingAction(AppIcons.Play, "Listen", {
+                            scope.launch { listen.play(quran.firstAyah(current)) }
+                        })
                     }
                 }
                 AnimatedVisibility(
@@ -189,7 +212,8 @@ fun MushafScreen(
                             word, hafs,
                             onClose = { opened = null },
                             onOpenMeaning = { k -> opened = null; onOpenMeaning(k) },
-                            onOpenTafsir = { k -> opened = null; onOpenTafsir(k) }
+                            onOpenTafsir = { k -> opened = null; onOpenTafsir(k) },
+                            onPlay = { k -> opened = null; listen.play(k) }
                         )
                     }
                 }
@@ -231,8 +255,9 @@ fun MushafScreen(
                                                 if (settings.script.usable) fonts.family(settings.script, 1) else null
                                             },
                                             surahNames = surahNames,
-                                            marked = marked ?: opened?.key,
-                                            playing = null,
+                                            marked = marked ?: opened?.key ?: heard.key,
+                                            heard = heard.key.takeIf { settings.followVoice },
+                                            heardWord = heard.heard?.word,
                                             show = { WordShow.ALL },
                                             onTap = {
                                                 if (opened != null) opened = null else chrome = !chrome
