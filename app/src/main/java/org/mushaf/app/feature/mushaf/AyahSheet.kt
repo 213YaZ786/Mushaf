@@ -34,6 +34,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import androidx.compose.foundation.clickable
+import org.mushaf.app.data.audio.WordAudio
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
 import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.material3.OutlinedTextField
@@ -83,6 +85,9 @@ fun AyahSheet(
     val bookmarked = saved.bookmarks.any { it.key == word.key }
     val note = saved.notes.firstOrNull { it.key == word.key }?.text
     var writing by remember { mutableStateOf(false) }
+    val words: WordAudio = koinInject()
+    val sound by words.sound.collectAsState()
+    val heard = sound?.takeIf { it.of(word) }
 
     Box(
         Modifier
@@ -103,15 +108,23 @@ fun AyahSheet(
                         Column(Modifier.weight(1f)) {
                             Text(word.meaning, style = MaterialTheme.typography.titleMedium)
                             Text(
-                                word.transliteration,
+                                if (heard?.failed == true) "${word.transliteration} · no connection to hear it" else word.transliteration,
                                 style = MaterialTheme.typography.bodyMedium,
                                 color = MaterialTheme.colorScheme.onSurfaceVariant
                             )
                         }
+                        if (words.available(word)) {
+                            FloatingAction(AppIcons.VolumeUp, "Hear the word", {
+                                haptics.tick()
+                                words.play(word)
+                            })
+                            Spacer(Modifier.size(12.dp))
+                        }
                         Text(
                             word.text,
                             style = TextStyle(fontFamily = hafs, fontSize = 34.sp),
-                            color = MaterialTheme.colorScheme.primary
+                            color = if (heard?.playing == true) MaterialTheme.colorScheme.tertiary else MaterialTheme.colorScheme.primary,
+                            modifier = if (words.available(word)) Modifier.clickable { haptics.tick(); words.play(word) } else Modifier
                         )
                     }
                     Spacer(Modifier.size(12.dp))

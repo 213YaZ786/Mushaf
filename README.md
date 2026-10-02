@@ -7,8 +7,8 @@ to learn it by heart. No account, no tracking, no ads.
   or with the tajweed in colour; two pages side by side on a tablet.
 - Hafs or Warsh: the Complex's Warsh mushaf with its own count, script
   and reciters.
-- Hold a word for its meaning, the ayah's translation and tafsir, a
-  bookmark, a note, or the recitation from there.
+- Hold a word for its meaning, its sound on its own, the ayah's
+  translation and tafsir, a bookmark, a note, or the recitation from there.
 - Read with the meaning: word by word, more than 500 translations in about
   100 languages, ten books of tafsir in English and Arabic.
 - Listen to 13 reciters in Hafs and 5 in Warsh: the word recited lights up and the page turns
@@ -50,7 +50,8 @@ against its fingerprint when it is downloaded.
   [fawazahmed0/quran-api](https://github.com/fawazahmed0/quran-api)
   (QuranEnc, Tanzil and others).
 - Tafsir, surah introductions and recitations with their timing:
-  [Quran.com](https://quran.com) and [quranicaudio.com](https://quranicaudio.com).
+  [Quran.com](https://quran.com) and [quranicaudio.com](https://quranicaudio.com);
+  each word's own recording: Quran.com.
 - Similar ayat: [Quran Revision Companion](https://github.com/Waqar144/quran_memorization_helper)
   (MIT).
 - Speech recognition: [Tarteel](https://huggingface.co/tarteel-ai/whisper-base-ar-quran)'s

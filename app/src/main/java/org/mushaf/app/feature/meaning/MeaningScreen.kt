@@ -47,6 +47,8 @@ import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import org.koin.compose.koinInject
+import androidx.compose.foundation.clickable
+import org.mushaf.app.data.audio.WordAudio
 import org.mushaf.app.ui.theme.quranFont
 import org.mushaf.app.R
 import org.mushaf.app.core.quran.AyahKey
@@ -90,6 +92,8 @@ fun MeaningScreen(
     val haptics = rememberHaptics()
     val hafs = quranFont()
     val chosen = settings.translations
+    val wordAudio: WordAudio = koinInject()
+    val sound by wordAudio.sound.collectAsState()
 
     val surah by produceState<org.mushaf.app.core.quran.Surah?>(null, start.surah) { value = quran.surah(start.surah) }
     val intro by produceState(emptyList<String>(), start.surah) { value = quran.introduction(start.surah) }
@@ -193,8 +197,18 @@ fun MeaningScreen(
                                     modifier = Modifier.fillMaxWidth()
                                 ) {
                                     for (w in row.words) {
-                                        Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                                            Text(w.text, style = TextStyle(fontFamily = hafs, fontSize = 28.sp, textAlign = TextAlign.Center))
+                                        // A word tapped is heard on its own.
+                                        val canHear = wordAudio.available(w)
+                                        val hearing = sound?.let { it.of(w) && it.playing } == true
+                                        Column(
+                                            horizontalAlignment = Alignment.CenterHorizontally,
+                                            modifier = if (canHear) Modifier.clickable { haptics.tick(); wordAudio.play(w) } else Modifier
+                                        ) {
+                                            Text(
+                                                w.text,
+                                                style = TextStyle(fontFamily = hafs, fontSize = 28.sp, textAlign = TextAlign.Center),
+                                                color = if (hearing) MaterialTheme.colorScheme.primary else LocalContentColor.current
+                                            )
                                             if (!w.end) {
                                                 CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Ltr) {
                                                     Text(

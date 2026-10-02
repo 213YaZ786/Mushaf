@@ -20,6 +20,7 @@ import org.mushaf.app.data.quran.Tafsir
 import org.mushaf.app.data.quran.Translations
 import org.mushaf.app.data.marks.Marks
 import org.mushaf.app.data.audio.Recitations
+import org.mushaf.app.data.audio.WordAudio
 import org.mushaf.app.feature.listen.Listen
 import org.mushaf.app.data.settings.SettingsStore
 import org.mushaf.app.feature.mushaf.Reader
@@ -35,6 +36,7 @@ val appModule = module {
     single { Tafsir(androidContext(), get(), get()) }
     single { Marks(androidContext(), get<SettingsStore>().current.riwayah) }
     single { Search(get(), get()) }
+    single { WordAudio(androidContext(), get()) }
     single { Recitations(androidContext(), get(), get()) }
     single { Offline(androidContext(), get()) }
     single { Hifz(androidContext(), get(), get<SettingsStore>().current.riwayah) }
