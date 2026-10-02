@@ -52,7 +52,9 @@ class Quran(private val context: Context) {
                 .filter { it.isNotBlank() }
                 .mapNotNull(PageLayout::parseWord)
                 .toList()
-            PageLayout.page(n, words).also { pages.put(n, it) }
+            // The next page's first word, for a surah title printed at the foot of this one.
+            val next = if (n < PAGES) asset("quran/pages/%03d.txt".format(n + 1)).lineSequence().firstOrNull()?.let(PageLayout::parseWord) else null
+            PageLayout.page(n, words, next).also { pages.put(n, it) }
         }
     }
 

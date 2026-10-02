@@ -30,6 +30,16 @@ class PageLayoutTest {
     }
 
     @Test
+    fun aTitleWithNoRoomOnItsPageClosesThePageBefore() {
+        // Yunus opens page 208 on line 2: its title is printed on line 15 of page 207.
+        val page = PageLayout.page(207, listOf(word(14, 9, 129, 1)), next = word(2, 10, 1, 1))
+        assertEquals(PageLine.Title(15, 10), page.lines.last())
+        // A surah whose first ayah is on line 1: title and basmala both go before.
+        val both = PageLayout.page(300, listOf(word(13, 20, 135, 1)), next = word(1, 21, 1, 1))
+        assertEquals(listOf(PageLine.Title(14, 21), PageLine.Basmala(15)), both.lines.takeLast(2))
+    }
+
+    @Test
     fun aRowOfThePageFileIsRead() {
         val w = PageLayout.parseWord("3\t2:2:1\tw\tذَٰلِكَ\tﱃ\tذالك\tThat\tdhālika")!!
         assertEquals(AyahKey(2, 2), w.key)

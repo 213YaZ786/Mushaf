@@ -88,6 +88,7 @@ fun MushafScreen(onOpenIndex: () -> Unit, onOpenSettings: () -> Unit) {
     val scope = rememberCoroutineScope()
 
     val hafs = remember { FontFamily(Font(R.font.uthmanic_hafs)) }
+    val surahNames = remember { FontFamily(Font(R.font.surah_names)) }
     val arrived by fonts.arrived.collectAsState()
     val marked by reader.marked.collectAsState()
     val meta by produceState(quran.metaNow, quran) { value = quran.meta() }
@@ -209,7 +210,10 @@ fun MushafScreen(onOpenIndex: () -> Unit, onOpenSettings: () -> Unit) {
                                             page = shown,
                                             print = print,
                                             hafs = hafs,
-                                            titles = { s -> meta?.surahs?.getOrNull(s - 1)?.arabic.orEmpty() },
+                                            basmala = remember(settings.script, arrived) {
+                                                if (settings.script.usable) fonts.family(settings.script, 1) else null
+                                            },
+                                            surahNames = surahNames,
                                             marked = marked ?: opened?.key,
                                             playing = null,
                                             show = { WordShow.ALL },

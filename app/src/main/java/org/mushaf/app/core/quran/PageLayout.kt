@@ -8,7 +8,12 @@ package org.mushaf.app.core.quran
  */
 object PageLayout {
 
-    fun page(number: Int, words: List<Word>): MushafPage {
+    /**
+     * [next] is the first word of the next page: when it opens a surah whose
+     * title has no room above it there, the title (and the basmala) close
+     * this page instead, on its last lines, as printed (Yunus, page 207).
+     */
+    fun page(number: Int, words: List<Word>, next: Word? = null): MushafPage {
         val byLine = words.groupBy { it.line }
         val extra = mutableMapOf<Int, PageLine>()
         for (first in words.filter { it.key.ayah == 1 && it.position == 1 && !it.end }) {
@@ -17,6 +22,22 @@ object PageLayout {
             val title = first.line - if (titleOnly) 1 else 2
             if (title >= 1) extra[title] = PageLine.Title(title, surah)
             if (!titleOnly && first.line - 1 >= 1) extra[first.line - 1] = PageLine.Basmala(first.line - 1)
+        }
+        if (next != null && next.key.ayah == 1 && next.position == 1 && !next.end) {
+            val surah = next.key.surah
+            val titleOnly = surah == 1 || surah == 9
+            val pushed = buildList {
+                if (next.line - (if (titleOnly) 1 else 2) < 1) add(PageLine.Title(0, surah))
+                if (!titleOnly && next.line - 1 < 1) add(PageLine.Basmala(0))
+            }
+            val count = lineCount(number)
+            pushed.forEachIndexed { i, line ->
+                val n = count - pushed.size + 1 + i
+                if (n !in byLine) extra[n] = when (line) {
+                    is PageLine.Title -> line.copy(number = n)
+                    else -> PageLine.Basmala(n)
+                }
+            }
         }
         val last = maxOf(byLine.keys.maxOrNull() ?: 0, extra.keys.maxOrNull() ?: 0)
         val lines = (1..last).mapNotNull { n ->

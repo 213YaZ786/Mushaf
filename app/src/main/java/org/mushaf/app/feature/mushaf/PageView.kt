@@ -8,13 +8,14 @@ import androidx.compose.ui.geometry.Rect
 import androidx.compose.ui.text.TextLayoutResult
 import androidx.compose.ui.text.drawText
 import androidx.compose.foundation.gestures.detectTapGestures
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
-import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.LocalContentColor
 import androidx.compose.material3.MaterialTheme
@@ -61,7 +62,9 @@ fun PageView(
     page: MushafPage,
     print: FontFamily?,
     hafs: FontFamily,
-    titles: (Int) -> String,
+    /** Page 1's print font, whose first ayah is the basmala as printed; null until it is here. */
+    basmala: FontFamily?,
+    surahNames: FontFamily,
     marked: AyahKey?,
     playing: Word?,
     show: (Word) -> WordShow,
@@ -119,8 +122,8 @@ fun PageView(
                 for (line in shown) {
                     Box(Modifier.fillMaxWidth().height(lineHeight), contentAlignment = Alignment.Center) {
                         when (line) {
-                            is PageLine.Title -> SurahTitle(titles(line.surah), hafs, size, lineHeight)
-                            is PageLine.Basmala -> Text(BASMALA, style = style.copy(fontFamily = hafs, fontSize = size * 0.92f), maxLines = 1)
+                            is PageLine.Title -> SurahTitle(line.surah, surahNames, size, lineHeight)
+                            is PageLine.Basmala -> Basmala(basmala, hafs, style)
                             is PageLine.Words -> WordsLine(
                                 words = line.words,
                                 justify = !centred,
@@ -244,22 +247,42 @@ private fun firstLetterLength(word: String): Int {
     return i
 }
 
+/**
+ * A surah's title as the mushaf prints it: its name in thuluth (the surah
+ * names font of Quran.com, one ligature per surah) on a pane of glass.
+ */
 @Composable
-private fun SurahTitle(name: String, hafs: FontFamily, size: TextUnit, height: Dp) {
+private fun SurahTitle(surah: Int, names: FontFamily, size: TextUnit, height: Dp) {
     ZoneSurface(
         shape = RoundedCornerShape(50),
         accent = true,
-        modifier = Modifier.fillMaxWidth(0.86f).height(height * 0.84f)
+        modifier = Modifier.fillMaxWidth(0.86f).height(height * 0.86f)
     ) {
         Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
             Text(
-                "سُورَةُ $name",
-                style = TextStyle(fontFamily = hafs, fontSize = size * 0.9f, textAlign = TextAlign.Center),
+                "%03d".format(surah),
+                style = TextStyle(fontFamily = names, fontSize = size * 1.7f, textAlign = TextAlign.Center),
                 color = MaterialTheme.colorScheme.onPrimaryContainer,
                 maxLines = 1,
-                modifier = Modifier.padding(horizontal = 16.dp)
+                softWrap = false
             )
         }
+    }
+}
+
+/**
+ * The basmala above a surah: the first ayah of al-Fatihah in page 1's own
+ * font, so it is the printed one; in the Hafs font until that font is here.
+ */
+@Composable
+private fun Basmala(print: FontFamily?, hafs: FontFamily, style: TextStyle) {
+    if (print == null) {
+        Text(BASMALA, style = style.copy(fontFamily = hafs, fontSize = style.fontSize * 0.92f), maxLines = 1)
+        return
+    }
+    val glyphStyle = style.copy(fontFamily = print, fontSize = style.fontSize * 1.25f)
+    Row(horizontalArrangement = Arrangement.spacedBy(6.dp), verticalAlignment = Alignment.CenterVertically) {
+        for (g in BASMALA_GLYPHS) WordInk(g, glyphStyle, glyphStyle.color, 1f)
     }
 }
 
@@ -267,3 +290,6 @@ private fun SurahTitle(name: String, hafs: FontFamily, size: TextUnit, height: D
 private const val WORD_GAP = 0.18f
 
 private const val BASMALA ="بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ"
+
+/** The four words of 1:1 in page 1's print font. */
+private val BASMALA_GLYPHS = listOf("ﱁ", "ﱂ", "ﱃ", "ﱄ")
