@@ -61,7 +61,13 @@ data class Settings(
     /** Large downloads wait for Wi-Fi. */
     val wifiOnly: Boolean = true,
     /** Packs already offered for offline use, so each is offered once. */
-    val offered: Set<String> = emptySet()
+    val offered: Set<String> = emptySet(),
+    /** A reminder of the wird each day, unless the mushaf was opened that day. */
+    val reminder: Boolean = true,
+    /** Its time, in minutes after midnight. */
+    val reminderAt: Int = 20 * 60,
+    /** The last day the mushaf was opened (epoch day). */
+    val readDay: Long = -1
 )
 
 /**

@@ -29,6 +29,12 @@ class Reader(private val settings: SettingsStore) {
     /** Pages whose surah opening has played since the app started: it plays once. */
     val opened = mutableStateSetOf<Int>()
 
+    /** The mushaf is open today: no reminder of the wird this evening. */
+    fun read() {
+        val today = java.time.LocalDate.now().toEpochDay()
+        if (settings.current.readDay != today) settings.update { it.copy(readDay = today) }
+    }
+
     /** The mushaf shows [page]: remembered. */
     fun shown(page: Int) {
         val p = page.coerceIn(1, PAGES)

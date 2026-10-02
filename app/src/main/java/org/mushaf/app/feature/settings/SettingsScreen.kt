@@ -21,6 +21,24 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import org.koin.compose.koinInject
+import androidx.compose.material3.Text
+import androidx.compose.material3.ExperimentalMaterial3Api
+import org.mushaf.app.ui.component.ZoneAlertDialog
+import org.mushaf.app.data.remind.Reminder
+import java.time.format.FormatStyle
+import java.time.format.DateTimeFormatter
+import java.time.LocalTime
+import androidx.core.content.ContextCompat
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.material3.rememberTimePickerState
+import androidx.compose.material3.TimePicker
+import androidx.compose.material3.TextButton
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.activity.compose.rememberLauncherForActivityResult
+import android.text.format.DateFormat
+import android.os.Build
+import android.content.pm.PackageManager
+import android.Manifest
 import androidx.compose.runtime.rememberCoroutineScope
 import kotlinx.coroutines.launch
 import org.mushaf.app.data.quran.Riwayat
@@ -44,8 +62,9 @@ import org.mushaf.app.ui.icon.AppIcons
 import org.mushaf.app.ui.theme.TEXT_SCALES
 import org.mushaf.app.ui.theme.textScaleLabel
 
-private enum class OpenDialog { NONE, RIWAYAH, SCRIPT, THEME, TEXT_SIZE, UPDATES }
+private enum class OpenDialog { NONE, RIWAYAH, REMINDER_TIME, SCRIPT, THEME, TEXT_SIZE, UPDATES }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslations: () -> Unit, onOpenOffline: () -> Unit, onOpenGuide: () -> Unit) {
     val store: SettingsStore = koinInject()
@@ -55,6 +74,9 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
     var dialog by rememberSaveable { mutableStateOf(OpenDialog.NONE) }
     val riwayat: Riwayat = koinInject()
     val scope = rememberCoroutineScope()
+    val askNotifications = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { }
+    // The reminder follows every change made here.
+    LaunchedEffect(settings.reminder, settings.reminderAt) { Reminder.schedule(context, store) }
 
     FloatingFrame(
         bottom = 0.dp,
@@ -96,6 +118,21 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                     checked = settings.keepScreenOn,
                     onChange = { on -> store.update { it.copy(keepScreenOn = on) } }
                 )
+            }
+
+            Section("Daily reminder") {
+                SwitchRow(
+                    title = "Remind me of my wird",
+                    summary = "At ${reminderTime(settings.reminderAt)}, unless the mushaf was opened that day: where to continue, and the day's hifz.",
+                    checked = settings.reminder,
+                    onChange = { on ->
+                        store.update { it.copy(reminder = on) }
+                        if (on && Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU &&
+                            ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED
+                        ) askNotifications.launch(Manifest.permission.POST_NOTIFICATIONS)
+                    }
+                )
+                if (settings.reminder) SettingRow("Time", reminderTime(settings.reminderAt), onClick = { dialog = OpenDialog.REMINDER_TIME })
             }
 
             Section("Offline") {
@@ -149,6 +186,25 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
     }
 
     when (dialog) {
+        OpenDialog.REMINDER_TIME -> {
+            val state = rememberTimePickerState(
+                initialHour = settings.reminderAt / 60,
+                initialMinute = settings.reminderAt % 60,
+                is24Hour = DateFormat.is24HourFormat(context)
+            )
+            ZoneAlertDialog(
+                onDismissRequest = { dialog = OpenDialog.NONE },
+                title = { Text("Reminder time") },
+                text = { TimePicker(state) },
+                confirmButton = {
+                    TextButton(onClick = {
+                        store.update { it.copy(reminderAt = state.hour * 60 + state.minute) }
+                        dialog = OpenDialog.NONE
+                    }) { Text("Set") }
+                },
+                dismissButton = { TextButton(onClick = { dialog = OpenDialog.NONE }) { Text("Cancel") } }
+            )
+        }
         OpenDialog.RIWAYAH -> ChoiceDialog(
             title = "Riwayah",
             options = Riwayah.entries.map { it to "${it.label} · ${it.arabic}" },
@@ -191,6 +247,10 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
         OpenDialog.NONE -> Unit
     }
 }
+
+/** The reminder's time as the phone writes times. */
+private fun reminderTime(minutes: Int): String =
+    LocalTime.of(minutes / 60, minutes % 60).format(DateTimeFormatter.ofLocalizedTime(FormatStyle.SHORT))
 
 private fun scriptLabel(script: Script): String = when (script) {
     Script.PRINT -> "As printed (Madinah mushaf)"

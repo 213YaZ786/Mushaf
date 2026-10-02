@@ -42,6 +42,10 @@ import androidx.core.content.ContextCompat
 import java.util.Locale
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.data.remind.Reminder
+import java.time.format.FormatStyle
+import java.time.format.DateTimeFormatter
+import java.time.LocalTime
 import org.mushaf.app.data.quran.Riwayat
 import org.mushaf.app.core.update.UpdateMode
 import org.mushaf.app.core.update.Updates
@@ -62,7 +66,7 @@ import org.mushaf.app.ui.glass.LocalGlass
 import org.mushaf.app.ui.glass.glassZone
 import org.mushaf.app.ui.icon.AppIcons
 
-private enum class Page { WELCOME, PAGES, MEANING, LISTEN, UPDATES }
+private enum class Page { WELCOME, PAGES, MEANING, LISTEN, REMIND, UPDATES }
 
 /**
  * The first launch: a few pages, each with the best choice already made,
@@ -93,13 +97,13 @@ fun WelcomeScreen(onFinish: () -> Unit) {
 
     fun finish() {
         store.update { it.copy(welcomeSeen = true) }
-        // The pages are kept on the phone as chosen; the progress shows in a notification.
-        if (settings.riwayah == Riwayah.HAFS && settings.keepPagesOffline && settings.script != Script.HAFS) {
-            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU &&
-                ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED
-            ) askNotifications.launch(Manifest.permission.POST_NOTIFICATIONS)
-            offline.start(Pack.Pages(settings.script))
-        }
+        // The pages are kept on the phone as chosen, their progress in a notification; the reminder is one too.
+        val keepPages = settings.riwayah == Riwayah.HAFS && settings.keepPagesOffline && settings.script != Script.HAFS
+        if ((keepPages || settings.reminder) && Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU &&
+            ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED
+        ) askNotifications.launch(Manifest.permission.POST_NOTIFICATIONS)
+        if (keepPages) offline.start(Pack.Pages(settings.script))
+        Reminder.schedule(context, store)
         onFinish()
     }
 
@@ -190,6 +194,19 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                         Recitations.of(settings.riwayah).take(4).map { it.id to it.label },
                         store.reciter(settings.riwayah)
                     ) { id -> store.update { if (settings.riwayah == Riwayah.WARSH) it.copy(warshReciter = id) else it.copy(reciter = id) } }
+                }
+                Page.REMIND -> PageContent(
+                    icon = AppIcons.Notifications,
+                    title = "Your daily wird",
+                    intro = "A reminder each day, unless you have opened the mushaf already: where to continue, and the day's hifz.",
+                    points = listOf("Any time you like in Settings.")
+                ) {
+                    Choices(
+                        listOf(-1 to "No reminder") + listOf(7 * 60, 13 * 60, 20 * 60, 22 * 60).map { m ->
+                            m to LocalTime.of(m / 60, m % 60).format(DateTimeFormatter.ofLocalizedTime(FormatStyle.SHORT))
+                        },
+                        if (settings.reminder) settings.reminderAt else -1
+                    ) { m -> store.update { if (m < 0) it.copy(reminder = false) else it.copy(reminder = true, reminderAt = m) } }
                 }
                 Page.UPDATES -> PageContent(
                     icon = AppIcons.Update,

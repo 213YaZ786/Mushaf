@@ -178,6 +178,8 @@ fun MushafScreen(
         }
     }
 
+    LaunchedEffect(Unit) { reader.read() }
+
     KeepScreenOn(settings.keepScreenOn)
     SystemBars(visible = chrome || opened != null)
 
