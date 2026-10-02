@@ -27,6 +27,8 @@ import org.mushaf.app.feature.meaning.MeaningScreen
 import org.mushaf.app.feature.offline.OfflineScreen
 import org.mushaf.app.feature.welcome.WelcomeScreen
 import org.mushaf.app.feature.hifz.HifzScreen
+import org.mushaf.app.feature.play.PlayScreen
+import org.mushaf.app.feature.play.SurahGames
 import org.mushaf.app.feature.mushaf.Reader
 import org.mushaf.app.feature.tafsir.TafsirScreen
 import org.mushaf.app.feature.translations.TranslationsScreen
@@ -49,6 +51,9 @@ private object Routes {
     const val OFFLINE = "offline"
     const val WELCOME = "welcome"
     const val HIFZ = "hifz"
+    const val PLAY = "play"
+    const val GAMES = "play/{s}"
+    fun games(s: Int) = "play/$s"
     fun meaning(k: AyahKey) = "meaning/${k.surah}/${k.ayah}"
     fun tafsir(k: AyahKey) = "tafsir/${k.surah}/${k.ayah}"
 }
@@ -90,8 +95,15 @@ fun MushafApp() {
                 onOpenSettings = { navController.navigate(Routes.SETTINGS) },
                 onOpenMeaning = { k -> navController.navigate(Routes.meaning(k)) },
                 onOpenTafsir = { k -> navController.navigate(Routes.tafsir(k)) },
-                onOpenHifz = { navController.navigate(Routes.HIFZ) }
+                onOpenHifz = { navController.navigate(Routes.HIFZ) },
+                onOpenPlay = { navController.navigate(Routes.PLAY) }
             )
+        }
+        composable(Routes.PLAY) {
+            ReadableScroll { PlayScreen(onBack = { navController.popBackStack() }, onOpenSurah = { navController.navigate(Routes.games(it)) }) }
+        }
+        composable(Routes.GAMES, arguments = listOf(navArgument("s") { type = NavType.IntType })) { entry ->
+            ReadableScroll { SurahGames(entry.arguments?.getInt("s") ?: 114, onBack = { navController.popBackStack() }) }
         }
         composable(Routes.HIFZ) {
             ReadableScroll {

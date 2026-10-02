@@ -73,6 +73,7 @@ import org.mushaf.app.feature.listen.Listen
 import org.mushaf.app.feature.hifz.HifzPane
 import org.mushaf.app.feature.hifz.HifzSession
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.FlowRow
 import org.mushaf.app.data.audio.Recitations
 import org.mushaf.app.data.offline.Pack
 import org.mushaf.app.feature.offline.OfferDownload
@@ -91,7 +92,8 @@ fun MushafScreen(
     onOpenSettings: () -> Unit,
     onOpenMeaning: (AyahKey) -> Unit,
     onOpenTafsir: (AyahKey) -> Unit,
-    onOpenHifz: () -> Unit
+    onOpenHifz: () -> Unit,
+    onOpenPlay: () -> Unit
 ) {
     val quran: Quran = koinInject()
     val fonts: PageFonts = koinInject()
@@ -234,8 +236,14 @@ fun MushafScreen(
                 ) {
                     val juz = meta?.juz?.lastOrNull { it.page <= current }?.n
                     val quarter = meta?.quarters?.lastOrNull { it.page <= current }?.n
-                    Row(horizontalArrangement = Arrangement.spacedBy(10.dp), verticalAlignment = Alignment.CenterVertically) {
+                    // On a narrow screen the round actions wrap above the page's place.
+                    FlowRow(
+                        horizontalArrangement = Arrangement.spacedBy(10.dp, Alignment.CenterHorizontally),
+                        verticalArrangement = Arrangement.spacedBy(10.dp),
+                        itemVerticalAlignment = Alignment.CenterVertically
+                    ) {
                         FloatingAction(AppIcons.School, "Hifz", onOpenHifz)
+                        FloatingAction(AppIcons.Puzzle, "Play", onOpenPlay)
                         FloatingAction(AppIcons.Translate, "Read with meaning", {
                             scope.launch { onOpenMeaning(quran.firstAyah(current)) }
                         })

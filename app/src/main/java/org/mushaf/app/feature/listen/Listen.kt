@@ -66,6 +66,22 @@ class Listen(
     private var counting: AyahKey? = null
     /** A range heard again and again, until stopped. */
     private var range: ClosedRange<AyahKey>? = null
+    /** Pauses once past this ayah: one ayah heard, for a game. */
+    private var stopAfter: AyahKey? = null
+
+    /** For a game: another reciter than the reader's own, without changing it. */
+    private var reciterFor: Int? = null
+
+    /** Plays [key] once, then pauses; [reciter] for this time only. */
+    fun playOnce(key: AyahKey, reciter: Int? = null) = playUntil(key, key, reciter)
+
+    /** Plays from [from] to [to] once, then pauses; [reciter] for this time only. */
+    fun playUntil(from: AyahKey, to: AyahKey, reciter: Int? = null) {
+        if (reciterFor != reciter) audio = null
+        reciterFor = reciter
+        stopAfter = to
+        play(from)
+    }
 
     private suspend fun controller(): MediaController = controller ?: suspendCancellableCoroutine { cont ->
         val token = SessionToken(context, ComponentName(context, PlaybackService::class.java))
@@ -95,6 +111,10 @@ class Listen(
     /** Plays from [key], in the reciter chosen. */
     fun play(key: AyahKey, until: AyahKey? = null) {
         range = until?.let { key..it }
+        if (stopAfter == null || key > stopAfter!!) {
+            stopAfter = null
+            if (reciterFor != null) { reciterFor = null; audio = null }
+        }
         scope.launch {
             _state.update { it.copy(active = true, loading = true, failed = false) }
             val ok = runCatching { load(key.surah) }.isSuccess
@@ -113,7 +133,7 @@ class Listen(
     }
 
     private suspend fun load(surah: Int) {
-        val reciter = settings.current.reciter
+        val reciter = reciterFor ?: settings.current.reciter
         if (audio?.surah == surah && audio?.reciter == reciter) return
         val a = recitations.surah(reciter, surah)
         val s = quran.surah(surah)
@@ -179,7 +199,7 @@ class Listen(
 
     private fun startRepeats(ayah: AyahTime) {
         counting = ayah.key
-        val times = settings.current.repeat
+        val times = if (stopAfter != null) 1 else settings.current.repeat
         _state.update { it.copy(repeatsLeft = if (times <= 0) Int.MAX_VALUE else times - 1) }
     }
 
@@ -193,6 +213,12 @@ class Listen(
                 val ms = c.currentPosition
                 val heard = Timing.at(a, ms)
                 if (heard != null) {
+                    val stop = stopAfter
+                    if (stop != null && heard.ayah.key > stop) {
+                        c.pause()
+                        stopAfter = null
+                        break
+                    }
                     if (heard.ayah.key != counting) {
                         // Past the end of the ayah being repeated: back to its start.
                         val prev = a.ayat.firstOrNull { it.key == counting }

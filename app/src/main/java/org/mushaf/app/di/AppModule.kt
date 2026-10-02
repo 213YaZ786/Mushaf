@@ -12,6 +12,7 @@ import org.mushaf.app.data.offline.Offline
 import org.mushaf.app.data.hifz.Hifz
 import org.mushaf.app.feature.hifz.HifzSession
 import org.mushaf.app.data.stt.Recogniser
+import org.mushaf.app.data.play.Stars
 import org.mushaf.app.feature.recite.Recite
 import org.mushaf.app.data.quran.Search
 import org.mushaf.app.data.quran.Tafsir
@@ -38,6 +39,7 @@ val appModule = module {
     single { Hifz(androidContext(), get()) }
     single { HifzSession(get(), get()) }
     single { Recogniser(androidContext(), get()) }
+    single { Stars(androidContext()) }
     single { Recite(get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
     single { Listen(androidContext(), get(), get(), get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
 }
