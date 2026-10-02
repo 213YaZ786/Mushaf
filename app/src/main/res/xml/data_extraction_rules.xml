@@ -5,12 +5,16 @@
         <include domain="file" path="settings.json" />
         <include domain="file" path="marks.json" />
         <include domain="file" path="hifz.json" />
+        <include domain="file" path="marks-warsh.json" />
+        <include domain="file" path="hifz-warsh.json" />
         <include domain="file" path="stars.json" />
     </cloud-backup>
     <device-transfer>
         <include domain="file" path="settings.json" />
         <include domain="file" path="marks.json" />
         <include domain="file" path="hifz.json" />
+        <include domain="file" path="marks-warsh.json" />
+        <include domain="file" path="hifz-warsh.json" />
         <include domain="file" path="stars.json" />
     </device-transfer>
 </data-extraction-rules>
