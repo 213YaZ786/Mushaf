@@ -61,10 +61,21 @@ private val SOURCES = listOf(
         "https://qurancomplex.gov.sa"
     ),
     Credit(
+        "Warsh mushaf",
+        "The King Fahd Complex's Warsh text, font and layout, through quran-ws/quran-text (CC BY 4.0)",
+        "https://github.com/quran-ws/quran-text"
+    ),
+    Credit(
         "Words, pages and lines",
         "Quran.com: each word's place in the mushaf, word by word meaning and transliteration",
         "https://quran.com"
     ),
     Credit("English meaning", "Saheeh International", "https://quran.com"),
-    Credit("Surah introductions", "Sayyid Abul Ala Maududi, Tafhim al-Qur'an, via Quran.com", "https://quran.com")
+    Credit("Surah introductions", "Sayyid Abul Ala Maududi, Tafhim al-Qur'an, via Quran.com", "https://quran.com"),
+    Credit("Text checked against", "The Tanzil Project's Quran text (CC BY 3.0)", "https://tanzil.net"),
+    Credit("Translations", "Quran.com, and fawazahmed0/quran-api: QuranEnc, Tanzil and others", "https://github.com/fawazahmed0/quran-api"),
+    Credit("Tafsir", "Quran.com", "https://quran.com"),
+    Credit("Recitations", "Hafs: Quran.com and quranicaudio.com. Warsh: mp3quran.net", "https://quranicaudio.com"),
+    Credit("Similar ayat", "Quran Revision Companion (MIT)", "https://github.com/Waqar144/quran_memorization_helper"),
+    Credit("Speech recognition", "Tarteel's Quran model (Apache-2.0), run by whisper.cpp (MIT)", "https://huggingface.co/tarteel-ai/whisper-base-ar-quran")
 )

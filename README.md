@@ -5,11 +5,13 @@ to learn it by heart. No account, no tracking, no ads.
 
 - The Madinah mushaf page by page, in the King Fahd Complex's own fonts,
   or with the tajweed in colour; two pages side by side on a tablet.
+- Hafs or Warsh: the Complex's Warsh mushaf with its own count, script
+  and reciters.
 - Hold a word for its meaning, the ayah's translation and tafsir, a
   bookmark, a note, or the recitation from there.
 - Read with the meaning: word by word, more than 500 translations in about
   100 languages, ten books of tafsir in English and Arabic.
-- Listen to 13 reciters: the word recited lights up and the page turns
+- Listen to 13 reciters in Hafs and 5 in Warsh: the word recited lights up and the page turns
   with the voice; an ayah or a passage repeated as often as you like.
 - Hifz: a new lesson each day and the revision of what you know, spaced
   so that no page is forgotten; similar ayat pointed out; recite to the
@@ -32,13 +34,18 @@ and, unless you turn it off, to check for a new version on GitHub.
 
 ## Text and sources
 
-Every ayah of the app is checked letter by letter against the Tanzil
-Project's text before each release, and every page font against its
-fingerprint when it is downloaded.
+Every ayah of the app is checked letter by letter before each release:
+Hafs against the Tanzil Project's text, Warsh and its pages against the
+King Fahd Complex's earlier Warsh release. Every page font is checked
+against its fingerprint when it is downloaded.
 
 - Quran text and page fonts: King Fahd Glorious Quran Printing Complex,
   through [Quran.com](https://quran.com).
 - Text checked against [Tanzil](https://tanzil.net) (CC BY 3.0).
+- Warsh text, font and layout: King Fahd Complex (UthmanicWarsh 3.0),
+  through [quran-ws/quran-text](https://github.com/quran-ws/quran-text)
+  (CC BY 4.0); checked against the Complex's Warsh data v10.
+- Warsh recitations with their timing: [mp3quran.net](https://mp3quran.net).
 - Translations: [Quran.com](https://quran.com) and
   [fawazahmed0/quran-api](https://github.com/fawazahmed0/quran-api)
   (QuranEnc, Tanzil and others).
