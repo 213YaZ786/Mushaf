@@ -1,3 +1,37 @@
+1	96:13:1	w	أَرَءَيۡتَ	ﱁ	ارايت	Have you seen	ara-ayta
+1	96:13:2	w	إِن	ﱂ	ان	if	in
+1	96:13:3	w	كَذَّبَ	ﱃ	كذب	he denies	kadhaba
+1	96:13:4	w	وَتَوَلَّىٰٓ	ﱄ	وتولى	and turns away	watawallā
+1	96:13:5	e	١٣	ﱅ			
+1	96:14:1	w	أَلَمۡ	ﱆ	الم	Does not	alam
+1	96:14:2	w	يَعۡلَم	ﱇ	يعلم	he know	yaʿlam
+1	96:14:3	w	بِأَنَّ	ﱈ	بان	that	bi-anna
+1	96:14:4	w	ٱللَّهَ	ﱉ	الله	Allah	l-laha
+1	96:14:5	w	يَرَىٰ	ﱊ	يرى	sees	yarā
+1	96:14:6	e	١٤	ﱋ			
+1	96:15:1	w	كـَلَّا	ﱌ	كلا	Nay	kallā
+1	96:15:2	w	لَئِن	ﱍ	لين	If	la-in
+1	96:15:3	w	لَّمۡ	ﱎ	لم	not	lam
+1	96:15:4	w	يَنتَهِ	ﱏ	ينته	he desists	yantahi
+2	96:15:5	w	لَنَسۡفَعَۢا	ﱐ	لنسفعا	surely We will drag him	lanasfaʿan
+2	96:15:6	w	بِٱلنَّاصِيَةِ	ﱑ	بالناصية	by the forelock	bil-nāṣiyati
+2	96:15:7	e	١٥	ﱒ			
+2	96:16:1	w	نَاصِيَةٖ	ﱓ	ناصية	A forelock	nāṣiyatin
+2	96:16:2	w	كَٰذِبَةٍ	ﱔ	كاذبة	lying	kādhibatin
+2	96:16:3	w	خَاطِئَةٖ	ﱕ	خاطية	sinful	khāṭi-atin
+2	96:16:4	e	١٦	ﱖ			
+2	96:17:1	w	فَلۡيَدۡعُ	ﱗ	فليدع	Then let him call	falyadʿu
+2	96:17:2	w	نَادِيَهُۥ	ﱘ	ناديه	his associates	nādiyahu
+2	96:17:3	e	١٧	ﱙ			
+3	96:18:1	w	سَنَدۡعُ	ﱚ	سندع	We will call	sanadʿu
+3	96:18:2	w	ٱلزَّبَانِيَةَ	ﱛ	الزبانية	the Angels of Hell	l-zabāniyata
+3	96:18:3	e	١٨	ﱜ			
+3	96:19:1	w	كـَلَّا	ﱝ	كلا	Nay	kallā
+3	96:19:2	w	لَا	ﱞ	لا	(Do) not	lā
+3	96:19:3	w	تُطِعۡهُ	ﱟ	تطعه	obey him	tuṭiʿ'hu
+3	96:19:4	w	وَٱسۡجُدۡۤ	ﱠﱡ	واسجد	But prostrate	wa-us'jud
+3	96:19:5	w	وَٱقۡتَرِب۩	ﱢﱣ	واقترب ۩	and draw near (to Allah)	wa-iq'tarib
+3	96:19:6	e	١٩	ﱤ			
 6	97:1:1	w	إِنَّآ	ﱥ	انا	Indeed, We	innā
 6	97:1:2	w	أَنزَلۡنَٰهُ	ﱦ	انزلناه	revealed it	anzalnāhu
 6	97:1:3	w	فِي	ﱧ	في	in	fī

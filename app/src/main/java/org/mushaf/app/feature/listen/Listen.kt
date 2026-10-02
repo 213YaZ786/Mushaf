@@ -118,7 +118,7 @@ class Listen(
         val a = recitations.surah(reciter, surah)
         val s = quran.surah(surah)
         val item = MediaItem.Builder()
-            .setUri(Uri.parse(a.url))
+            .setUri(recitations.local(reciter, surah)?.let { Uri.fromFile(it) } ?: Uri.parse(a.url))
             .setMediaMetadata(
                 MediaMetadata.Builder()
                     .setTitle("${s.n}. ${s.name}")

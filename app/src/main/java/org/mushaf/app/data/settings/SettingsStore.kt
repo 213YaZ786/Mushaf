@@ -49,7 +49,13 @@ data class Settings(
     /** At the end of a surah the next one follows. */
     val continuePlaying: Boolean = true,
     /** The page turns with the voice, and the word heard lights up. */
-    val followVoice: Boolean = true
+    val followVoice: Boolean = true,
+    /** All the pages are kept on the phone once chosen in the welcome guide. */
+    val keepPagesOffline: Boolean = true,
+    /** Large downloads wait for Wi-Fi. */
+    val wifiOnly: Boolean = true,
+    /** Packs already offered for offline use, so each is offered once. */
+    val offered: Set<String> = emptySet()
 )
 
 /**

@@ -70,6 +70,9 @@ import org.mushaf.app.ui.component.FloatingTop
 import org.mushaf.app.ui.component.rememberHaptics
 import org.mushaf.app.ui.icon.AppIcons
 import org.mushaf.app.feature.listen.Listen
+import org.mushaf.app.data.audio.Recitations
+import org.mushaf.app.data.offline.Pack
+import org.mushaf.app.feature.offline.OfferDownload
 import org.mushaf.app.feature.listen.ListenPane
 
 /**
@@ -104,6 +107,20 @@ fun MushafScreen(
 
     var chrome by rememberSaveable { mutableStateOf(true) }
     var opened by remember { mutableStateOf<Word?>(null) }
+
+    val recitations: Recitations = koinInject()
+    val surahPlaying = heard.key?.surah
+    OfferDownload(
+        pack = Pack.Recitation(settings.reciter),
+        wanted = heard.playing && remember(settings.reciter) { recitations.kept(settings.reciter) } < 114,
+        title = "Keep this recitation offline?",
+        text = Recitations.reciter(settings.reciter).name + "'s recitation of the whole Quran, kept on the phone to listen without a connection. It downloads in the background" +
+            if (settings.wifiOnly) ", on Wi-Fi." else ".",
+        one = "This surah only" to {
+            surahPlaying?.let { n -> scope.launch { runCatching { recitations.downloadSurah(settings.reciter, n) } } }
+            Unit
+        }
+    )
 
     KeepScreenOn(settings.keepScreenOn)
     SystemBars(visible = chrome || opened != null)

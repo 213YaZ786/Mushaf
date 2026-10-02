@@ -94,6 +94,7 @@ dependencies {
     // Playback in the background with its notification. Its version is the
     // catalogue's media3, so the shared catalogue needs no entry of its own.
     implementation("androidx.media3:media3-session:${libs.versions.media3.get()}")
+    implementation(libs.androidx.work.runtime)
     implementation(libs.kotlinx.serialization.json)
     implementation(libs.koin.android)
     implementation(libs.koin.compose)

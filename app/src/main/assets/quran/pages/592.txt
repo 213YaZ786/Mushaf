@@ -1,3 +1,28 @@
+1	87:11:1	w	وَيَتَجَنَّبُهَا	ﱁ	ويتجنبها	And will avoid it	wayatajannabuhā
+1	87:11:2	w	ٱلۡأَشۡقَى	ﱂ	الاشقى	the wretched one	l-ashqā
+1	87:11:3	e	١١	ﱃ			
+1	87:12:1	w	ٱلَّذِي	ﱄ	الذي	The one who	alladhī
+1	87:12:2	w	يَصۡلَى	ﱅ	يصلى	will burn	yaṣlā
+1	87:12:3	w	ٱلنَّارَ	ﱆ	النار	(in) the Fire	l-nāra
+1	87:12:4	w	ٱلۡكُبۡرَىٰ	ﱇ	الكبرى	[the] great	l-kub'rā
+1	87:12:5	e	١٢	ﱈ			
+1	87:13:1	w	ثُمَّ	ﱉ	ثم	Then	thumma
+1	87:13:2	w	لَا	ﱊ	لا	not	lā
+1	87:13:3	w	يَمُوتُ	ﱋ	يموت	he will die	yamūtu
+2	87:13:4	w	فِيهَا	ﱌ	فيها	therein	fīhā
+2	87:13:5	w	وَلَا	ﱍ	ولا	and not	walā
+2	87:13:6	w	يَحۡيَىٰ	ﱎ	يحيى	will live	yaḥyā
+2	87:13:7	e	١٣	ﱏ			
+2	87:14:1	w	قَدۡ	ﱐ	قد	Certainly	qad
+2	87:14:2	w	أَفۡلَحَ	ﱑ	افلح	has succeeded	aflaḥa
+2	87:14:3	w	مَن	ﱒ	من	(one) who	man
+2	87:14:4	w	تَزَكَّىٰ	ﱓ	تزكى	purifies (himself)	tazakkā
+2	87:14:5	e	١٤	ﱔ			
+2	87:15:1	w	وَذَكَرَ	ﱕ	وذكر	And remembers	wadhakara
+2	87:15:2	w	ٱسۡمَ	ﱖ	اسم	(the) name	is'ma
+2	87:15:3	w	رَبِّهِۦ	ﱗ	ربه	(of) his Lord	rabbihi
+2	87:15:4	w	فَصَلَّىٰ	ﱘ	فصلى	and prays	faṣallā
+2	87:15:5	e	١٥	ﱙ			
 3	87:16:1	w	بَلۡ	ﱚ	بل	Nay	bal
 3	87:16:2	w	تُؤۡثِرُونَ	ﱛ	توثرون	You prefer	tu'thirūna
 3	87:16:3	w	ٱلۡحَيَوٰةَ	ﱜ	الحياة	the life	l-ḥayata

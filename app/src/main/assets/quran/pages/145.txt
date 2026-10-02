@@ -1,3 +1,14 @@
+1	6:131:1	w	ذَٰلِكَ	ﱁ	ذالك	That (is because)	dhālika
+1	6:131:2	w	أَن	ﱂ	ان	[that]	an
+1	6:131:3	w	لَّمۡ	ﱃ	لم	not	lam
+1	6:131:4	w	يَكُن	ﱄ	يكن	is	yakun
+1	6:131:5	w	رَّبُّكَ	ﱅ	ربك	your Lord	rabbuka
+1	6:131:6	w	مُهۡلِكَ	ﱆ	مهلك	one who destroys	muh'lika
+1	6:131:7	w	ٱلۡقُرَىٰ	ﱇ	القرى	the cities	l-qurā
+1	6:131:8	w	بِظُلۡمٖ	ﱈ	بظلم	for (their) wrongdoing	biẓul'min
+1	6:131:9	w	وَأَهۡلُهَا	ﱉ	واهلها	while their people	wa-ahluhā
+2	6:131:10	w	غَٰفِلُونَ	ﱊ	غافلون	(are) unaware	ghāfilūna
+2	6:131:11	e	١٣١	ﱋ			
 2	6:132:1	w	وَلِكُلّٖ	ﱌ	ولكل	And for all	walikullin
 2	6:132:2	w	دَرَجَٰتٞ	ﱍ	درجات	(will be) degrees	darajātun
 2	6:132:3	w	مِّمَّا	ﱎ	مما	for what	mimmā

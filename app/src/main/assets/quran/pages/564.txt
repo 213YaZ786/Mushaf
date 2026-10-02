@@ -136,3 +136,7 @@
 15	68:15:6	w	أَسَٰطِيرُ	ﳊ	اساطير	Stories	asāṭīru
 15	68:15:7	w	ٱلۡأَوَّلِينَ	ﳋ	الاولين	(of) the former (people)	l-awalīna
 15	68:15:8	e	١٥	ﳌ			
+15	68:16:1	w	سَنَسِمُهُۥ	ﳍ	سنسمه	We will brand him	sanasimuhu
+15	68:16:2	w	عَلَى	ﳎ	على	on	ʿalā
+15	68:16:3	w	ٱلۡخُرۡطُومِ	ﳏ	الخرطوم	the snout	l-khur'ṭūmi
+15	68:16:4	e	١٦	ﳐ			

@@ -161,3 +161,11 @@
 15	70:39:4	w	مِّمَّا	ﳥ	مما	from what	mimmā
 15	70:39:5	w	يَعۡلَمُونَ	ﳦ	يعلمون	they know	yaʿlamūna
 15	70:39:6	e	٣٩	ﳧ			
+15	70:40:1	w	فَلَآ	ﳨ	فلا	But nay	falā
+15	70:40:2	w	أُقۡسِمُ	ﳩ	اقسم	I swear	uq'simu
+15	70:40:3	w	بِرَبِّ	ﳪ	برب	by (the) Lord	birabbi
+15	70:40:4	w	ٱلۡمَشَٰرِقِ	ﳫ	المشارق	(of) the risings	l-mashāriqi
+15	70:40:5	w	وَٱلۡمَغَٰرِبِ	ﳬ	والمغارب	and the settings	wal-maghāribi
+15	70:40:6	w	إِنَّا	ﳭ	انا	that We	innā
+15	70:40:7	w	لَقَٰدِرُونَ	ﳮ	لقادرون	(are) surely Able	laqādirūna
+15	70:40:8	e	٤٠	ﳯ			

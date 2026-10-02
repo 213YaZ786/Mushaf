@@ -15,6 +15,10 @@ nothing, and writes app/src/main/assets/quran/:
   ayat.txt           s:a, page, juz, hizb quarter, simple text (search, quizzes)
   en.txt             s:a, Saheeh International (footnote marks removed)
   info/N.txt         the surah's introduction, plain paragraphs
+  mutashabihat.txt   similar ayat: an ayah (or a run of ayat, s:a+n) and
+                     those that resemble it, from Quran Revision Companion
+                     (github.com/Waqar144/quran_memorization_helper, MIT,
+                     Copyright (c) 2023 Waqar Ahmed)
 """
 import html, json, os, re, sys, time, urllib.request
 
@@ -71,42 +75,54 @@ def main():
     os.makedirs(os.path.join(OUT, "info"), exist_ok=True)
     chapters = get(f"{API}/chapters?language=en", "chapters.json")["chapters"]
 
-    ayat, en = [], []
-    juz_start, rub_start, sajdah, page_start = {}, {}, [], []
-    seen = set()
+    # Every word goes to the page it is printed on. The API lists an ayah
+    # under one page only, sometimes not the one its words are on (5:77 is
+    # listed under page 121, all its words are on page 120), so the words
+    # are gathered from every answer and placed by their own page.
+    verses, words = {}, {}
     for p in range(1, 605):
         data = get(f"{API}/verses/by_page/{p}?words=true&word_fields={FIELDS}&per_page=50&translations=20&fields=text_imlaei_simple", f"pages/{p}.json")
-        rows = []
         for v in data["verses"]:
-            key = v["verse_key"]
-            # An ayah may run over two pages: both pages list it, each keeps
-            # the words printed on it, and the ayah belongs to the page where
-            # it starts.
-            if key not in seen:
-                seen.add(key)
-                start = v["words"][0]["page_number"]
-                juz_start.setdefault(v["juz_number"], (key, start))
-                rub_start.setdefault(v["rub_el_hizb_number"], (key, start))
-                if v.get("sajdah_number"):
-                    sajdah.append(key)
-                ayat.append("\t".join([key, str(start), str(v["juz_number"]), str(v["rub_el_hizb_number"]), field(v["text_imlaei_simple"])]))
-                tr = v.get("translations") or [{}]
-                en.append(key + "\t" + clean(tr[0].get("text")))
+            verses.setdefault(v["verse_key"], v)
             for w in v["words"]:
-                if w["page_number"] != p:
-                    continue
-                if not page_start or page_start[-1][0] != p:
-                    page_start.append((p, key))
-                kind = "e" if w["char_type_name"] == "end" else "w"
-                loc = w.get("location") or f"{key}:{w['position']}"
-                rows.append("\t".join([
-                    str(w["line_number"]), loc, kind,
-                    field(w.get("text_qpc_hafs")), field(w.get("code_v2")),
-                    field(w.get("text_imlaei_simple")) if kind == "w" else "",
-                    field((w.get("translation") or {}).get("text")) if kind == "w" else "",
-                    field((w.get("transliteration") or {}).get("text")) if kind == "w" else "",
-                ]))
-        open(os.path.join(OUT, "pages", f"{p:03d}.txt"), "w", encoding="utf8").write("\n".join(rows) + "\n")
+                loc = w.get("location") or f"{v['verse_key']}:{w['position']}"
+                words.setdefault(loc, w)
+
+    def order(key):
+        s_, a_ = key.split(":")
+        return int(s_), int(a_)
+
+    ayat, en = [], []
+    juz_start, rub_start, sajdah, page_start = {}, {}, [], []
+    by_page = {p: [] for p in range(1, 605)}
+    for key in sorted(verses, key=order):
+        v = verses[key]
+        vw = sorted((w for loc, w in words.items() if loc.startswith(key + ":")), key=lambda w: w["position"])
+        start = vw[0]["page_number"]
+        juz_start.setdefault(v["juz_number"], (key, start))
+        rub_start.setdefault(v["rub_el_hizb_number"], (key, start))
+        if v.get("sajdah_number"):
+            sajdah.append(key)
+        ayat.append("\t".join([key, str(start), str(v["juz_number"]), str(v["rub_el_hizb_number"]), field(v["text_imlaei_simple"])]))
+        tr = v.get("translations") or [{}]
+        en.append(key + "\t" + clean(tr[0].get("text")))
+        for w in vw:
+            kind = "e" if w["char_type_name"] == "end" else "w"
+            by_page[w["page_number"]].append((w["line_number"], order(key), w["position"], "\t".join([
+                str(w["line_number"]), f"{key}:{w['position']}", kind,
+                field(w.get("text_qpc_hafs")), field(w.get("code_v2")),
+                field(w.get("text_imlaei_simple")) if kind == "w" else "",
+                field((w.get("translation") or {}).get("text")) if kind == "w" else "",
+                field((w.get("transliteration") or {}).get("text")) if kind == "w" else "",
+            ])))
+    if len(ayat) != 6236:
+        sys.exit(f"{len(ayat)} ayat, expected 6236")
+    for p in range(1, 605):
+        rows = sorted(by_page[p], key=lambda r: (r[0], r[1], r[2]))
+        if not rows:
+            sys.exit(f"page {p} has no words")
+        page_start.append((p, "%d:%d" % rows[0][1]))
+        open(os.path.join(OUT, "pages", f"{p:03d}.txt"), "w", encoding="utf8").write("\n".join(r[3] for r in rows) + "\n")
 
     for c in chapters:
         info = get(f"{API}/chapters/{c['id']}/info?language=en", f"info/{c['id']}.json")["chapter_info"]
@@ -131,6 +147,19 @@ def main():
         "sajdah": sajdah,
         "pageStart": [k for _, k in page_start],
     }
+    # Similar ayat. The source counts ayat from 0 in the Quran's order.
+    keys = [row.split("\t")[0] for row in ayat]
+    def span(a):
+        if isinstance(a, list):
+            return keys[a[0]] + ("+%d" % (len(a) - 1) if len(a) > 1 else "")
+        return keys[a]
+    groups = get("https://raw.githubusercontent.com/Waqar144/quran_memorization_helper/master/assets/mutashabiha_data.json", "mutashabiha_data.json")
+    lines = []
+    for juz in sorted(groups, key=int):
+        for m in groups[juz]:
+            lines.append(span(m["src"]["ayah"]) + "\t" + ";".join(span(x["ayah"]) for x in m["muts"]))
+    open(os.path.join(OUT, "mutashabihat.txt"), "w", encoding="utf8").write("\n".join(lines) + "\n")
+
     json.dump(meta, open(os.path.join(OUT, "meta.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
     open(os.path.join(OUT, "ayat.txt"), "w", encoding="utf8").write("\n".join(ayat) + "\n")
     open(os.path.join(OUT, "en.txt"), "w", encoding="utf8").write("\n".join(en) + "\n")

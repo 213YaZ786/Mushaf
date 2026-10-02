@@ -1,3 +1,26 @@
+1	100:6:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	100:6:2	w	ٱلۡإِنسَٰنَ	ﱂ	الانسان	mankind	l-insāna
+1	100:6:3	w	لِرَبِّهِۦ	ﱃ	لربه	to his Lord	lirabbihi
+1	100:6:4	w	لَكَنُودٞ	ﱄ	لكنود	(is) surely ungrateful	lakanūdun
+1	100:6:5	e	٦	ﱅ			
+1	100:7:1	w	وَإِنَّهُۥ	ﱆ	وانه	And indeed, he	wa-innahu
+1	100:7:2	w	عَلَىٰ	ﱇ	على	on	ʿalā
+1	100:7:3	w	ذَٰلِكَ	ﱈ	ذالك	that	dhālika
+1	100:7:4	w	لَشَهِيدٞ	ﱉ	لشهيد	surely (is) a witness	lashahīdun
+1	100:7:5	e	٧	ﱊ			
+1	100:8:1	w	وَإِنَّهُۥ	ﱋ	وانه	And indeed he	wa-innahu
+1	100:8:2	w	لِحُبِّ	ﱌ	لحب	in (the) love	liḥubbi
+2	100:8:3	w	ٱلۡخَيۡرِ	ﱍ	الخير	(of) wealth	l-khayri
+2	100:8:4	w	لَشَدِيدٌ	ﱎ	لشديد	(is) surely intense	lashadīdun
+2	100:8:5	e	٨	ﱏ			
+2	100:9:1	w	۞ أَفَلَا	ﱐ ﱑ	۞ افلا	But does not	afalā
+2	100:9:2	w	يَعۡلَمُ	ﱒ	يعلم	he know	yaʿlamu
+2	100:9:3	w	إِذَا	ﱓ	اذا	when	idhā
+2	100:9:4	w	بُعۡثِرَ	ﱔ	بعثر	will be scattered	buʿ'thira
+2	100:9:5	w	مَا	ﱕ	ما	what	mā
+2	100:9:6	w	فِي	ﱖ	في	(is) in	fī
+2	100:9:7	w	ٱلۡقُبُورِ	ﱗ	القبور	the graves	l-qubūri
+2	100:9:8	e	٩	ﱘ			
 3	100:10:1	w	وَحُصِّلَ	ﱙ	وحصل	And is made apparent	waḥuṣṣila
 3	100:10:2	w	مَا	ﱚ	ما	what	mā
 3	100:10:3	w	فِي	ﱛ	في	(is) in	fī

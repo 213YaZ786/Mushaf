@@ -136,3 +136,10 @@
 15	79:15:3	w	حَدِيثُ	ﳋ	حديث	(the) story	ḥadīthu
 15	79:15:4	w	مُوسَىٰٓ	ﳌ	موسى	(of) Musa	mūsā
 15	79:15:5	e	١٥	ﳍ			
+15	79:16:1	w	إِذۡ	ﳎ	اذ	When	idh
+15	79:16:2	w	نَادَىٰهُ	ﳏ	ناداه	called him	nādāhu
+15	79:16:3	w	رَبُّهُۥ	ﳐ	ربه	his Lord	rabbuhu
+15	79:16:4	w	بِٱلۡوَادِ	ﳑ	بالواد	in the valley	bil-wādi
+15	79:16:5	w	ٱلۡمُقَدَّسِ	ﳒ	المقدس	the sacred	l-muqadasi
+15	79:16:6	w	طُوًى	ﳓ	طوى	(of) Tuwa	ṭuwan
+15	79:16:7	e	١٦	ﳔ			

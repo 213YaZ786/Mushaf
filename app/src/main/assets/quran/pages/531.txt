@@ -110,3 +110,13 @@
 14	55:16:3	w	رَبِّكُمَا	ﲮ	ربكما	(of) your Lord	rabbikumā
 14	55:16:4	w	تُكَذِّبَانِ	ﲯ	تكذبان	will you both deny	tukadhibāni
 14	55:16:5	e	١٦	ﲰ			
+14	55:17:1	w	رَبُّ	ﲱ	رب	Lord	rabbu
+15	55:17:2	w	ٱلۡمَشۡرِقَيۡنِ	ﲲ	المشرقين	(of) the two Easts	l-mashriqayni
+15	55:17:3	w	وَرَبُّ	ﲳ	ورب	and Lord	warabbu
+15	55:17:4	w	ٱلۡمَغۡرِبَيۡنِ	ﲴ	المغربين	(of) the two Wests	l-maghribayni
+15	55:17:5	e	١٧	ﲵ			
+15	55:18:1	w	فَبِأَيِّ	ﲶ	فباي	So which	fabi-ayyi
+15	55:18:2	w	ءَالَآءِ	ﲷ	الاء	(of the) favors	ālāi
+15	55:18:3	w	رَبِّكُمَا	ﲸ	ربكما	(of) your Lord	rabbikumā
+15	55:18:4	w	تُكَذِّبَانِ	ﲹ	تكذبان	will you both deny	tukadhibāni
+15	55:18:5	e	١٨	ﲺ			

@@ -1,3 +1,29 @@
+1	94:3:1	w	ٱلَّذِيٓ	ﱁ	الذي	Which	alladhī
+1	94:3:2	w	أَنقَضَ	ﱂ	انقض	weighed upon	anqaḍa
+1	94:3:3	w	ظَهۡرَكَ	ﱃ	ظهرك	your back	ẓahraka
+1	94:3:4	e	٣	ﱄ			
+1	94:4:1	w	وَرَفَعۡنَا	ﱅ	ورفعنا	And We raised high	warafaʿnā
+1	94:4:2	w	لَكَ	ﱆ	لك	for you	laka
+1	94:4:3	w	ذِكۡرَكَ	ﱇ	ذكرك	your reputation	dhik'raka
+1	94:4:4	e	٤	ﱈ			
+1	94:5:1	w	فَإِنَّ	ﱉ	فان	So indeed	fa-inna
+1	94:5:2	w	مَعَ	ﱊ	مع	with	maʿa
+1	94:5:3	w	ٱلۡعُسۡرِ	ﱋ	العسر	the hardship	l-ʿus'ri
+1	94:5:4	w	يُسۡرًا	ﱌ	يسرا	(is) ease	yus'ran
+1	94:5:5	e	٥	ﱍ			
+2	94:6:1	w	إِنَّ	ﱎ	ان	Indeed	inna
+2	94:6:2	w	مَعَ	ﱏ	مع	with	maʿa
+2	94:6:3	w	ٱلۡعُسۡرِ	ﱐ	العسر	the hardship	l-ʿus'ri
+2	94:6:4	w	يُسۡرٗا	ﱑ	يسرا	(is) ease	yus'ran
+2	94:6:5	e	٦	ﱒ			
+2	94:7:1	w	فَإِذَا	ﱓ	فاذا	So when	fa-idhā
+2	94:7:2	w	فَرَغۡتَ	ﱔ	فرغت	you have finished	faraghta
+2	94:7:3	w	فَٱنصَبۡ	ﱕ	فانصب	then labor hard	fa-inṣab
+2	94:7:4	e	٧	ﱖ			
+2	94:8:1	w	وَإِلَىٰ	ﱗ	والى	And to	wa-ilā
+2	94:8:2	w	رَبِّكَ	ﱘ	ربك	your Lord	rabbika
+2	94:8:3	w	فَٱرۡغَب	ﱙ	فارغب	turn your attention	fa-ir'ghab
+2	94:8:4	e	٨	ﱚ			
 5	95:1:1	w	وَٱلتِّينِ	ﱛ	والتين	By the fig	wal-tīni
 5	95:1:2	w	وَٱلزَّيۡتُونِ	ﱜ	والزيتون	and the olive	wal-zaytūni
 5	95:1:3	e	١	ﱝ			

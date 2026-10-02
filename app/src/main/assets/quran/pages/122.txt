@@ -115,3 +115,19 @@
 13	5:89:44	w	لَعَلَّكُمۡ	ﲻ	لعلكم	so that you may	laʿallakum
 13	5:89:45	w	تَشۡكُرُونَ	ﲼ	تشكرون	(be) grateful	tashkurūna
 13	5:89:46	e	٨٩	ﲽ			
+14	5:90:1	w	يَٰٓأَيُّهَا	ﲾ	يا ايها	O you	yāayyuhā
+14	5:90:2	w	ٱلَّذِينَ	ﲿ	الذين	who	alladhīna
+14	5:90:3	w	ءَامَنُوٓاْ	ﳀ	امنوا	believe	āmanū
+14	5:90:4	w	إِنَّمَا	ﳁ	انما	Verily	innamā
+14	5:90:5	w	ٱلۡخَمۡرُ	ﳂ	الخمر	the intoxicants	l-khamru
+14	5:90:6	w	وَٱلۡمَيۡسِرُ	ﳃ	والميسر	and [the] games of chance	wal-maysiru
+14	5:90:7	w	وَٱلۡأَنصَابُ	ﳄ	والانصاب	and (sacrifices at) altars	wal-anṣābu
+14	5:90:8	w	وَٱلۡأَزۡلَٰمُ	ﳅ	والازلام	and divining arrows	wal-azlāmu
+15	5:90:9	w	رِجۡسٞ	ﳆ	رجس	(are an) abomination	rij'sun
+15	5:90:10	w	مِّنۡ	ﳇ	من	from	min
+15	5:90:11	w	عَمَلِ	ﳈ	عمل	(the) work	ʿamali
+15	5:90:12	w	ٱلشَّيۡطَٰنِ	ﳉ	الشيطان	(of) the Shaitaan	l-shayṭāni
+15	5:90:13	w	فَٱجۡتَنِبُوهُ	ﳊ	فاجتنبوه	so avoid it	fa-ij'tanibūhu
+15	5:90:14	w	لَعَلَّكُمۡ	ﳋ	لعلكم	so that you may	laʿallakum
+15	5:90:15	w	تُفۡلِحُونَ	ﳌ	تفلحون	(be) successful	tuf'liḥūna
+15	5:90:16	e	٩٠	ﳍ			

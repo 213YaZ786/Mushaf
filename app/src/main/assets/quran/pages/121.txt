@@ -90,3 +90,25 @@
 13	5:82:25	w	لَا	ﲠ	لا	(are) not	lā
 13	5:82:26	w	يَسۡتَكۡبِرُونَ	ﲡ	يستكبرون	arrogant	yastakbirūna
 13	5:82:27	e	٨٢	ﲢ			
+13	5:83:1	w	وَإِذَا	ﲣ	واذا	And when	wa-idhā
+13	5:83:2	w	سَمِعُواْ	ﲤ	سمعوا	they listen	samiʿū
+13	5:83:3	w	مَآ	ﲥ	ما	(to) what	mā
+13	5:83:4	w	أُنزِلَ	ﲦ	انزل	has been revealed	unzila
+13	5:83:5	w	إِلَى	ﲧ	الى	to	ilā
+14	5:83:6	w	ٱلرَّسُولِ	ﲨ	الرسول	the Messenger	l-rasūli
+14	5:83:7	w	تَرَىٰٓ	ﲩ	ترى	you see	tarā
+14	5:83:8	w	أَعۡيُنَهُمۡ	ﲪ	اعينهم	their eyes	aʿyunahum
+14	5:83:9	w	تَفِيضُ	ﲫ	تفيض	overflowing	tafīḍu
+14	5:83:10	w	مِنَ	ﲬ	من	with	mina
+14	5:83:11	w	ٱلدَّمۡعِ	ﲭ	الدمع	the tears	l-damʿi
+14	5:83:12	w	مِمَّا	ﲮ	مما	for what	mimmā
+14	5:83:13	w	عَرَفُواْ	ﲯ	عرفوا	they recognized	ʿarafū
+15	5:83:14	w	مِنَ	ﲰ	من	of	mina
+15	5:83:15	w	ٱلۡحَقِّۖ	ﲱﲲ	الحق	the truth	l-ḥaqi
+15	5:83:16	w	يَقُولُونَ	ﲳ	يقولون	They say	yaqūlūna
+15	5:83:17	w	رَبَّنَآ	ﲴ	ربنا	Our Lord	rabbanā
+15	5:83:18	w	ءَامَنَّا	ﲵ	امنا	we have believed	āmannā
+15	5:83:19	w	فَٱكۡتُبۡنَا	ﲶ	فاكتبنا	so write us	fa-uk'tub'nā
+15	5:83:20	w	مَعَ	ﲷ	مع	with	maʿa
+15	5:83:21	w	ٱلشَّٰهِدِينَ	ﲸ	الشاهدين	the witnesses	l-shāhidīna
+15	5:83:22	e	٨٣	ﲹ			

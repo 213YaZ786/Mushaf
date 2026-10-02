@@ -2,8 +2,6 @@ package org.mushaf.app.data.quran
 
 import android.content.Context
 import java.io.File
-import java.net.HttpURLConnection
-import java.net.URL
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import kotlinx.serialization.json.Json
@@ -11,6 +9,9 @@ import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
 import org.mushaf.app.core.common.writeTextAtomically
 import org.mushaf.app.core.quran.AyahKey
+import org.mushaf.app.core.net.Net
+import org.mushaf.app.data.sources.Sources
+import kotlinx.serialization.json.jsonArray
 
 /** A book of tafsir offered by Quran.com. */
 data class TafsirBook(val id: Int, val name: String, val language: String, val rtl: Boolean)
@@ -19,10 +20,10 @@ data class TafsirBook(val id: Int, val name: String, val language: String, val r
  * Explanations of an ayah from the classical books of tafsir, fetched from
  * Quran.com when asked and kept, so an ayah read once opens offline.
  */
-class Tafsir(private val context: Context) {
+class Tafsir(private val context: Context, private val sources: Sources) {
 
     private val json = Json { ignoreUnknownKeys = true }
-    private val dir = File(context.cacheDir, "tafsir")
+    private val dir = File(context.filesDir, "tafsir")
 
     /**
      * The tafsir of [key] in [book], as paragraphs; a tafsir that explains a
@@ -31,7 +32,7 @@ class Tafsir(private val context: Context) {
     suspend fun of(book: TafsirBook, key: AyahKey): List<String> = withContext(Dispatchers.IO) {
         val file = File(dir, "${book.id}/${key.surah}_${key.ayah}.txt")
         if (file.exists()) return@withContext file.readLines()
-        val root = json.parseToJsonElement(get("https://api.quran.com/api/v4/tafsirs/${book.id}/by_ayah/$key")).jsonObject
+        val root = json.parseToJsonElement(first { "$it/tafsirs/${book.id}/by_ayah/$key" }).jsonObject
         val html = root["tafsir"]!!.jsonObject["text"]!!.jsonPrimitive.content
         val paragraphs = paragraphs(html)
         file.parentFile?.mkdirs()
@@ -39,17 +40,42 @@ class Tafsir(private val context: Context) {
         paragraphs
     }
 
-    private fun get(url: String): String {
-        val conn = URL(url).openConnection() as HttpURLConnection
-        try {
-            conn.connectTimeout = 15_000
-            conn.readTimeout = 30_000
-            conn.setRequestProperty("User-Agent", "Mushaf")
-            if (conn.responseCode != 200) error("HTTP ${conn.responseCode}")
-            return conn.inputStream.bufferedReader().use { it.readText() }
-        } finally {
-            conn.disconnect()
+    /** How many surahs of [book] are kept whole on the phone. */
+    fun kept(book: TafsirBook): Int = File(dir, "${book.id}").list()?.count { it.startsWith("done_") } ?: 0
+
+    fun remove(book: TafsirBook) {
+        File(dir, "${book.id}").deleteRecursively()
+    }
+
+    /** Keeps the whole of [book] on the phone, surah by surah; [progress] hears each surah done. */
+    suspend fun download(book: TafsirBook, progress: suspend (Int) -> Unit) = withContext(Dispatchers.IO) {
+        for (surah in 1..114) {
+            val done = File(dir, "${book.id}/done_$surah")
+            if (!done.exists()) {
+                val root = json.parseToJsonElement(first(16L shl 20) { "$it/tafsirs/${book.id}/by_chapter/$surah?per_page=300" }).jsonObject
+                for (t in root["tafsirs"]!!.jsonArray) {
+                    val o = t.jsonObject
+                    val key = AyahKey.parse(o["verse_key"]!!.jsonPrimitive.content) ?: continue
+                    val file = File(dir, "${book.id}/${key.surah}_${key.ayah}.txt")
+                    file.parentFile?.mkdirs()
+                    file.writeTextAtomically(paragraphs(o["text"]!!.jsonPrimitive.content).joinToString("\n"))
+                }
+                done.writeText("")
+            }
+            progress(surah)
         }
+    }
+
+    private fun first(maxBytes: Long = 2L shl 20, path: (String) -> String): String {
+        var last: Exception? = null
+        for (base in sources.list.quranCom) {
+            try {
+                return Net.text(path(base), maxBytes)
+            } catch (e: Exception) {
+                last = e
+            }
+        }
+        throw last ?: error("no source")
     }
 
     companion object {

@@ -7,6 +7,8 @@ import org.koin.android.ext.koin.androidContext
 import org.koin.dsl.module
 import org.mushaf.app.data.quran.PageFonts
 import org.mushaf.app.data.quran.Quran
+import org.mushaf.app.data.sources.Sources
+import org.mushaf.app.data.offline.Offline
 import org.mushaf.app.data.quran.Search
 import org.mushaf.app.data.quran.Tafsir
 import org.mushaf.app.data.quran.Translations
@@ -20,12 +22,14 @@ import org.mushaf.app.feature.mushaf.Reader
 val appModule = module {
     single { SettingsStore(androidContext()) }
     single { Quran(androidContext()) }
-    single { PageFonts(androidContext(), CoroutineScope(SupervisorJob() + Dispatchers.Default)) }
+    single { Sources(androidContext()) }
+    single { PageFonts(androidContext(), get(), CoroutineScope(SupervisorJob() + Dispatchers.Default)) }
     single { Reader(get()) }
-    single { Translations(androidContext(), get()) }
-    single { Tafsir(androidContext()) }
+    single { Translations(androidContext(), get(), get()) }
+    single { Tafsir(androidContext(), get()) }
     single { Marks(androidContext()) }
     single { Search(get(), get()) }
-    single { Recitations(androidContext()) }
+    single { Recitations(androidContext(), get()) }
+    single { Offline(androidContext(), get()) }
     single { Listen(androidContext(), get(), get(), get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
 }

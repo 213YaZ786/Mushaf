@@ -1,3 +1,22 @@
+1	88:23:1	w	إِلَّا	ﱁ	الا	But	illā
+1	88:23:2	w	مَن	ﱂ	من	whoever	man
+1	88:23:3	w	تَوَلَّىٰ	ﱃ	تولى	turns away	tawallā
+1	88:23:4	w	وَكَفَرَ	ﱄ	وكفر	and disbelieves	wakafara
+1	88:23:5	e	٢٣	ﱅ			
+1	88:24:1	w	فَيُعَذِّبُهُ	ﱆ	فيعذبه	Then will punish him	fayuʿadhibuhu
+1	88:24:2	w	ٱللَّهُ	ﱇ	الله	Allah	l-lahu
+1	88:24:3	w	ٱلۡعَذَابَ	ﱈ	العذاب	(with) the punishment	l-ʿadhāba
+1	88:24:4	w	ٱلۡأَكۡبَرَ	ﱉ	الاكبر	greatest	l-akbara
+1	88:24:5	e	٢٤	ﱊ			
+2	88:25:1	w	إِنَّ	ﱋ	ان	Indeed	inna
+2	88:25:2	w	إِلَيۡنَآ	ﱌ	الينا	to Us	ilaynā
+2	88:25:3	w	إِيَابَهُمۡ	ﱍ	ايابهم	(will be) their return	iyābahum
+2	88:25:4	e	٢٥	ﱎ			
+2	88:26:1	w	ثُمَّ	ﱏ	ثم	Then	thumma
+2	88:26:2	w	إِنَّ	ﱐ	ان	indeed	inna
+2	88:26:3	w	عَلَيۡنَا	ﱑ	علينا	upon Us	ʿalaynā
+2	88:26:4	w	حِسَابَهُم	ﱒ	حسابهم	(is) their account	ḥisābahum
+2	88:26:5	e	٢٦	ﱓ			
 5	89:1:1	w	وَٱلۡفَجۡرِ	ﱔ	والفجر	By the dawn	wal-fajri
 5	89:1:2	e	١	ﱕ			
 5	89:2:1	w	وَلَيَالٍ	ﱖ	وليال	And the nights	walayālin

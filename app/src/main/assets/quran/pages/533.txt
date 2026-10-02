@@ -135,3 +135,13 @@
 14	55:67:3	w	رَبِّكُمَا	ﳈ	ربكما	(of) your Lord	rabbikumā
 14	55:67:4	w	تُكَذِّبَانِ	ﳉ	تكذبان	will you both deny	tukadhibāni
 14	55:67:5	e	٦٧	ﳊ			
+15	55:68:1	w	فِيهِمَا	ﳋ	فيهما	In both of them	fīhimā
+15	55:68:2	w	فَٰكِهَةٞ	ﳌ	فاكهة	(are) fruits	fākihatun
+15	55:68:3	w	وَنَخۡلٞ	ﳍ	ونخل	and date-palms	wanakhlun
+15	55:68:4	w	وَرُمَّانٞ	ﳎ	ورمان	and pomegranates	warummānun
+15	55:68:5	e	٦٨	ﳏ			
+15	55:69:1	w	فَبِأَيِّ	ﳐ	فباي	So which	fabi-ayyi
+15	55:69:2	w	ءَالَآءِ	ﳑ	الاء	(of the) favors	ālāi
+15	55:69:3	w	رَبِّكُمَا	ﳒ	ربكما	(of) your Lord	rabbikumā
+15	55:69:4	w	تُكَذِّبَانِ	ﳓ	تكذبان	will you both deny	tukadhibāni
+15	55:69:5	e	٦٩	ﳔ			

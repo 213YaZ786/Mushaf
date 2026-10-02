@@ -1,3 +1,14 @@
+1	90:19:1	w	وَٱلَّذِينَ	ﱁ	والذين	But those who	wa-alladhīna
+1	90:19:2	w	كَفَرُواْ	ﱂ	كفروا	disbelieve	kafarū
+1	90:19:3	w	بِـَٔايَٰتِنَا	ﱃ	باياتنا	in Our Verses	biāyātinā
+1	90:19:4	w	هُمۡ	ﱄ	هم	they	hum
+1	90:19:5	w	أَصۡحَٰبُ	ﱅ	اصحاب	(are the) companions	aṣḥābu
+1	90:19:6	w	ٱلۡمَشۡـَٔمَةِ	ﱆ	المشامة	(of) the left (hand)	l-mashamati
+1	90:19:7	e	١٩	ﱇ			
+1	90:20:1	w	عَلَيۡهِمۡ	ﱈ	عليهم	Over them	ʿalayhim
+1	90:20:2	w	نَارٞ	ﱉ	نار	(will be the) Fire	nārun
+1	90:20:3	w	مُّؤۡصَدَةُۢ	ﱊ	موصدة	closed in	mu'ṣadatun
+1	90:20:4	e	٢٠	ﱋ			
 4	91:1:1	w	وَٱلشَّمۡسِ	ﱌ	والشمس	By the sun	wal-shamsi
 4	91:1:2	w	وَضُحَىٰهَا	ﱍ	وضحاها	and its brightness	waḍuḥāhā
 4	91:1:3	e	١	ﱎ			

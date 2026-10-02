@@ -1,3 +1,10 @@
+1	83:34:1	w	فَٱلۡيَوۡمَ	ﱁ	فاليوم	So today	fal-yawma
+1	83:34:2	w	ٱلَّذِينَ	ﱂ	الذين	those who	alladhīna
+1	83:34:3	w	ءَامَنُواْ	ﱃ	امنوا	believed	āmanū
+1	83:34:4	w	مِنَ	ﱄ	من	at	mina
+1	83:34:5	w	ٱلۡكُفَّارِ	ﱅ	الكفار	the disbelievers	l-kufāri
+1	83:34:6	w	يَضۡحَكُونَ	ﱆ	يضحكون	they will laugh	yaḍḥakūna
+1	83:34:7	e	٣٤	ﱇ			
 1	83:35:1	w	عَلَى	ﱈ	على	On	ʿalā
 2	83:35:2	w	ٱلۡأَرَآئِكِ	ﱉ	الارايك	the thrones	l-arāiki
 2	83:35:3	w	يَنظُرُونَ	ﱊ	ينظرون	observing	yanẓurūna
@@ -112,11 +119,11 @@
 13	84:20:5	e	٢٠	ﲸ			
 13	84:21:1	w	وَإِذَا	ﲹ	واذا	And when	wa-idhā
 13	84:21:2	w	قُرِئَ	ﲺ	قري	is recited	quri-a
+13	84:21:7	e	٢١	ﳁ			
 14	84:21:3	w	عَلَيۡهِمُ	ﲻ	عليهم	to them	ʿalayhimu
 14	84:21:4	w	ٱلۡقُرۡءَانُ	ﲼ	القران	the Quran	l-qur'ānu
 14	84:21:5	w	لَا	ﲽ	لا	not	lā
 14	84:21:6	w	يَسۡجُدُونَۤ ۩	ﲾﲿﳀ	يسجدون ۩	they prostrate	yasjudūna
-13	84:21:7	e	٢١	ﳁ			
 14	84:22:1	w	بَلِ	ﳂ	بل	Nay	bali
 14	84:22:2	w	ٱلَّذِينَ	ﳃ	الذين	Those who	alladhīna
 14	84:22:3	w	كَفَرُواْ	ﳄ	كفروا	disbelieved	kafarū

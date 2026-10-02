@@ -2,8 +2,6 @@ package org.mushaf.app.data.audio
 
 import android.content.Context
 import java.io.File
-import java.net.HttpURLConnection
-import java.net.URL
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import kotlinx.serialization.json.Json
@@ -17,6 +15,8 @@ import org.mushaf.app.core.audio.AyahTime
 import org.mushaf.app.core.audio.SurahAudio
 import org.mushaf.app.core.audio.Timing
 import org.mushaf.app.core.common.writeTextAtomically
+import org.mushaf.app.core.net.Net
+import org.mushaf.app.data.sources.Sources
 
 /** A reciter whose recordings carry the timing of each ayah and word. */
 data class Reciter(val id: Int, val name: String, val style: String) {
@@ -28,7 +28,7 @@ data class Reciter(val id: Int, val name: String, val style: String) {
  * with the moment each ayah and each word is heard, so the page follows
  * the voice. The timing of a surah is fetched once and kept.
  */
-class Recitations(private val context: Context) {
+class Recitations(private val context: Context, private val sources: Sources) {
 
     private val json = Json { ignoreUnknownKeys = true }
     private val dir = File(context.filesDir, "recitations")
@@ -36,7 +36,7 @@ class Recitations(private val context: Context) {
     suspend fun surah(reciter: Int, surah: Int): SurahAudio = withContext(Dispatchers.IO) {
         val file = File(dir, "$reciter/$surah.json")
         runCatching { json.decodeFromString<SurahAudio>(file.readText()) }.getOrNull()?.let { return@withContext it }
-        val root = json.parseToJsonElement(get("https://api.quran.com/api/qdc/audio/reciters/$reciter/audio_files?chapter=$surah&segments=true")).jsonObject
+        val root = json.parseToJsonElement(first { "$it/audio/reciters/$reciter/audio_files?chapter=$surah&segments=true" }).jsonObject
         val f = root["audio_files"]!!.jsonArray.first().jsonObject
         val ayat = f["verse_timings"]!!.jsonArray.map { it.jsonObject }.map { v ->
             val key = v["verse_key"]!!.jsonPrimitive.content.split(':')
@@ -53,16 +53,42 @@ class Recitations(private val context: Context) {
         audio
     }
 
-    private fun get(url: String): String {
-        val conn = URL(url).openConnection() as HttpURLConnection
-        try {
-            conn.connectTimeout = 15_000
-            conn.readTimeout = 30_000
-            conn.setRequestProperty("User-Agent", "Mushaf")
-            if (conn.responseCode != 200) error("HTTP ${conn.responseCode}")
-            return conn.inputStream.bufferedReader().use { it.readText() }
-        } finally {
-            conn.disconnect()
+    private fun first(path: (String) -> String): String {
+        var last: Exception? = null
+        for (base in sources.list.recitations) {
+            try {
+                return Net.text(path(base), maxBytes = 2L shl 20)
+            } catch (e: Exception) {
+                last = e
+            }
+        }
+        throw last ?: error("no source")
+    }
+
+    private val audioDir = File(context.filesDir, "audio")
+
+    /** The surah's recording kept on the phone, if it is. */
+    fun local(reciter: Int, surah: Int): File? = File(audioDir, "$reciter/$surah.mp3").takeIf { it.exists() }
+
+    fun kept(reciter: Int): Int = File(audioDir, "$reciter").list()?.count { it.endsWith(".mp3") } ?: 0
+
+    fun remove(reciter: Int) {
+        File(audioDir, "$reciter").deleteRecursively()
+    }
+
+    /** Keeps one surah of [reciter] on the phone. */
+    suspend fun downloadSurah(reciter: Int, n: Int) = withContext(Dispatchers.IO) {
+        val target = File(audioDir, "$reciter/$n.mp3")
+        if (!target.exists()) Net.download(surah(reciter, n).url, target, maxBytes = 300L shl 20)
+    }
+
+    /** Keeps every surah of [reciter] on the phone, with its timing; [progress] hears each surah done. */
+    suspend fun download(reciter: Int, progress: suspend (Int) -> Unit) = withContext(Dispatchers.IO) {
+        for (n in 1..114) {
+            val a = surah(reciter, n)
+            val target = File(audioDir, "$reciter/$n.mp3")
+            if (!target.exists()) Net.download(a.url, target, maxBytes = 300L shl 20)
+            progress(n)
         }
     }
 

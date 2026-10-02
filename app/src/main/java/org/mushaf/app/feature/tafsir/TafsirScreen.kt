@@ -36,6 +36,8 @@ import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import org.koin.compose.koinInject
+import org.mushaf.app.data.offline.Pack
+import org.mushaf.app.feature.offline.OfferDownload
 import org.mushaf.app.R
 import org.mushaf.app.core.quran.AyahKey
 import org.mushaf.app.data.quran.Quran
@@ -77,6 +79,15 @@ fun TafsirScreen(key: AyahKey, onBack: () -> Unit) {
         value = Loaded.Waiting
         value = runCatching { Loaded.Text(tafsir.of(book, key)) }.getOrElse { Loaded.Failed }
     }
+
+    val kept = remember(book, loaded) { tafsir.kept(book) }
+    OfferDownload(
+        pack = Pack.TafsirBook(book.id),
+        wanted = loaded is Loaded.Text && kept < 114,
+        title = "Keep this tafsir offline?",
+        text = "${book.name} for the whole Quran, kept on the phone so it opens without a connection. It downloads in the background" +
+            if (settings.wifiOnly) ", on Wi-Fi." else "."
+    )
 
     FloatingFrame(
         bottom = 0.dp,

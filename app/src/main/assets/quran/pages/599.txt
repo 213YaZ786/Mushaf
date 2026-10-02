@@ -1,3 +1,30 @@
+1	98:6:1	w	إِنَّ	ﱁ	ان	Indeed	inna
+1	98:6:2	w	ٱلَّذِينَ	ﱂ	الذين	those who	alladhīna
+1	98:6:3	w	كَفَرُواْ	ﱃ	كفروا	disbelieve	kafarū
+1	98:6:4	w	مِنۡ	ﱄ	من	from	min
+1	98:6:5	w	أَهۡلِ	ﱅ	اهل	(the) People	ahli
+1	98:6:6	w	ٱلۡكِتَٰبِ	ﱆ	الكتاب	(of) the Book	l-kitābi
+1	98:6:7	w	وَٱلۡمُشۡرِكِينَ	ﱇ	والمشركين	and the polytheists	wal-mush'rikīna
+1	98:6:8	w	فِي	ﱈ	في	(will be) in	fī
+1	98:6:9	w	نَارِ	ﱉ	نار	(the) Fire	nāri
+1	98:6:10	w	جَهَنَّمَ	ﱊ	جهنم	(of) Hell	jahannama
+2	98:6:11	w	خَٰلِدِينَ	ﱋ	خالدين	abiding eternally	khālidīna
+2	98:6:12	w	فِيهَآۚ	ﱌﱍ	فيها	therein	fīhā
+2	98:6:13	w	أُوْلَٰٓئِكَ	ﱎ	اولايك	Those	ulāika
+2	98:6:14	w	هُمۡ	ﱏ	هم	they	hum
+2	98:6:15	w	شَرُّ	ﱐ	شر	(are the) worst	sharru
+2	98:6:16	w	ٱلۡبَرِيَّةِ	ﱑ	البرية	(of) the creatures	l-bariyati
+2	98:6:17	e	٦	ﱒ			
+2	98:7:1	w	إِنَّ	ﱓ	ان	Indeed	inna
+2	98:7:2	w	ٱلَّذِينَ	ﱔ	الذين	those who	alladhīna
+2	98:7:3	w	ءَامَنُواْ	ﱕ	امنوا	believe	āmanū
+3	98:7:4	w	وَعَمِلُواْ	ﱖ	وعملوا	and do	waʿamilū
+3	98:7:5	w	ٱلصَّٰلِحَٰتِ	ﱗ	الصالحات	righteous deeds	l-ṣāliḥāti
+3	98:7:6	w	أُوْلَٰٓئِكَ	ﱘ	اولايك	those	ulāika
+3	98:7:7	w	هُمۡ	ﱙ	هم	they	hum
+3	98:7:8	w	خَيۡرُ	ﱚ	خير	(are the) best	khayru
+3	98:7:9	w	ٱلۡبَرِيَّةِ	ﱛ	البرية	(of) the creatures	l-bariyati
+3	98:7:10	e	٧	ﱜ			
 3	98:8:1	w	جَزَآؤُهُمۡ	ﱝ	جزاوهم	Their reward	jazāuhum
 4	98:8:2	w	عِندَ	ﱞ	عند	(is) with	ʿinda
 4	98:8:3	w	رَبِّهِمۡ	ﱟ	ربهم	their Lord	rabbihim

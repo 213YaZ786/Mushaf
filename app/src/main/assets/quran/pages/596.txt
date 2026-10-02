@@ -1,3 +1,26 @@
+1	92:10:1	w	فَسَنُيَسِّرُهُۥ	ﱁ	فسنيسره	Then We will ease him	fasanuyassiruhu
+1	92:10:2	w	لِلۡعُسۡرَىٰ	ﱂ	للعسرى	towards [the] difficulty	lil'ʿus'rā
+1	92:10:3	e	١٠	ﱃ			
+1	92:11:1	w	وَمَا	ﱄ	وما	And not	wamā
+1	92:11:2	w	يُغۡنِي	ﱅ	يغني	will avail	yugh'nī
+1	92:11:3	w	عَنۡهُ	ﱆ	عنه	him	ʿanhu
+1	92:11:4	w	مَالُهُۥٓ	ﱇ	ماله	his wealth	māluhu
+1	92:11:5	w	إِذَا	ﱈ	اذا	when	idhā
+1	92:11:6	w	تَرَدَّىٰٓ	ﱉ	تردى	he falls	taraddā
+1	92:11:7	e	١١	ﱊ			
+1	92:12:1	w	إِنَّ	ﱋ	ان	Indeed	inna
+1	92:12:2	w	عَلَيۡنَا	ﱌ	علينا	upon Us	ʿalaynā
+2	92:12:3	w	لَلۡهُدَىٰ	ﱍ	للهدى	(is) the guidance	lalhudā
+2	92:12:4	e	١٢	ﱎ			
+2	92:13:1	w	وَإِنَّ	ﱏ	وان	And indeed	wa-inna
+2	92:13:2	w	لَنَا	ﱐ	لنا	for Us	lanā
+2	92:13:3	w	لَلۡأٓخِرَةَ	ﱑ	للاخرة	(is) the Hereafter	lalākhirata
+2	92:13:4	w	وَٱلۡأُولَىٰ	ﱒ	والاولى	and the first (life)	wal-ūlā
+2	92:13:5	e	١٣	ﱓ			
+2	92:14:1	w	فَأَنذَرۡتُكُمۡ	ﱔ	فانذرتكم	So I warn you	fa-andhartukum
+2	92:14:2	w	نَارٗا	ﱕ	نارا	(of) a Fire	nāran
+2	92:14:3	w	تَلَظَّىٰ	ﱖ	تلظى	blazing	talaẓẓā
+2	92:14:4	e	١٤	ﱗ			
 3	92:15:1	w	لَا	ﱘ	لا	Not	lā
 3	92:15:2	w	يَصۡلَىٰهَآ	ﱙ	يصلاها	will burn (in) it	yaṣlāhā
 3	92:15:3	w	إِلَّا	ﱚ	الا	except	illā

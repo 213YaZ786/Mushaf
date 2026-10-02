@@ -14,6 +14,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import org.koin.compose.koinInject
+import androidx.compose.runtime.LaunchedEffect
+import org.mushaf.app.data.sources.Sources
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.navigation.NavBackStackEntry
 import androidx.navigation.NavType
@@ -22,6 +24,8 @@ import kotlinx.coroutines.launch
 import org.mushaf.app.core.quran.AyahKey
 import org.mushaf.app.data.quran.Quran
 import org.mushaf.app.feature.meaning.MeaningScreen
+import org.mushaf.app.feature.offline.OfflineScreen
+import org.mushaf.app.feature.welcome.WelcomeScreen
 import org.mushaf.app.feature.mushaf.Reader
 import org.mushaf.app.feature.tafsir.TafsirScreen
 import org.mushaf.app.feature.translations.TranslationsScreen
@@ -41,6 +45,8 @@ private object Routes {
     const val MEANING = "meaning/{s}/{a}"
     const val TAFSIR = "tafsir/{s}/{a}"
     const val TRANSLATIONS = "translations"
+    const val OFFLINE = "offline"
+    const val WELCOME = "welcome"
     fun meaning(k: AyahKey) = "meaning/${k.surah}/${k.ayah}"
     fun tafsir(k: AyahKey) = "tafsir/${k.surah}/${k.ayah}"
 }
@@ -58,9 +64,12 @@ fun MushafApp() {
     val store: SettingsStore = koinInject()
     val settings by store.settings.collectAsState()
     val navController = rememberNavController()
+    val sources: Sources = koinInject()
+    // A newer list of sources, from the app's repository, at most once a week.
+    LaunchedEffect(Unit) { sources.refresh() }
     NavHost(
         navController = navController,
-        startDestination = Routes.MUSHAF,
+        startDestination = if (settings.welcomeSeen) Routes.MUSHAF else Routes.WELCOME,
         // Opening scales up from slightly small, going back scales down, the
         // same motion as the other apps.
         enterTransition = {
@@ -103,6 +112,18 @@ fun MushafApp() {
         composable(Routes.TAFSIR, arguments = keyArgs) { entry ->
             ReadableScroll { TafsirScreen(entry.key(), onBack = { navController.popBackStack() }) }
         }
+        composable(Routes.WELCOME) {
+            Readable {
+                WelcomeScreen(onFinish = {
+                    if (!navController.popBackStack()) {
+                        navController.navigate(Routes.MUSHAF) { popUpTo(Routes.WELCOME) { inclusive = true } }
+                    }
+                })
+            }
+        }
+        composable(Routes.OFFLINE) {
+            ReadableScroll { OfflineScreen(onBack = { navController.popBackStack() }) }
+        }
         composable(Routes.TRANSLATIONS) {
             Readable { TranslationsScreen(onBack = { navController.popBackStack() }) }
         }
@@ -114,7 +135,9 @@ fun MushafApp() {
                 SettingsScreen(
                     onBack = { navController.popBackStack() },
                     onOpenAbout = { navController.navigate(Routes.ABOUT) },
-                    onOpenTranslations = { navController.navigate(Routes.TRANSLATIONS) }
+                    onOpenTranslations = { navController.navigate(Routes.TRANSLATIONS) },
+                    onOpenOffline = { navController.navigate(Routes.OFFLINE) },
+                    onOpenGuide = { navController.navigate(Routes.WELCOME) }
                 )
             }
         }
@@ -124,5 +147,5 @@ fun MushafApp() {
     }
     // After the NavHost, so it takes the back gesture before the NavHost's own.
     PlainBack(navController)
-    if (!BuildConfig.DEBUG) UpdatePrompt(settings.updates, BuildConfig.VERSION_NAME)
+    if (!BuildConfig.DEBUG && settings.welcomeSeen) UpdatePrompt(settings.updates, BuildConfig.VERSION_NAME)
 }

@@ -162,3 +162,9 @@
 15	69:34:4	w	طَعَامِ	ﳤ	طعام	(the) feeding	ṭaʿāmi
 15	69:34:5	w	ٱلۡمِسۡكِينِ	ﳥ	المسكين	(of) the poor	l-mis'kīni
 15	69:34:6	e	٣٤	ﳦ			
+15	69:35:1	w	فَلَيۡسَ	ﳧ	فليس	So not	falaysa
+15	69:35:2	w	لَهُ	ﳨ	له	for him	lahu
+15	69:35:3	w	ٱلۡيَوۡمَ	ﳩ	اليوم	today	l-yawma
+15	69:35:4	w	هَٰهُنَا	ﳪ	هاهنا	here	hāhunā
+15	69:35:5	w	حَمِيمٞ	ﳫ	حميم	any devoted friend	ḥamīmun
+15	69:35:6	e	٣٥	ﳬ			

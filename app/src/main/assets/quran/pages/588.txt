@@ -1,3 +1,12 @@
+1	83:5:1	w	لِيَوۡمٍ	ﱁ	ليوم	For a Day	liyawmin
+1	83:5:2	w	عَظِيمٖ	ﱂ	عظيم	Great	ʿaẓīmin
+1	83:5:3	e	٥	ﱃ			
+1	83:6:1	w	يَوۡمَ	ﱄ	يوم	(The) Day	yawma
+1	83:6:2	w	يَقُومُ	ﱅ	يقوم	will stand	yaqūmu
+1	83:6:3	w	ٱلنَّاسُ	ﱆ	الناس	mankind	l-nāsu
+1	83:6:4	w	لِرَبِّ	ﱇ	لرب	before (the) Lord	lirabbi
+1	83:6:5	w	ٱلۡعَٰلَمِينَ	ﱈ	العالمين	(of) the worlds	l-ʿālamīna
+1	83:6:6	e	٦	ﱉ			
 1	83:7:1	w	كـَلَّآ	ﱊ	كلا	Nay	kallā
 1	83:7:2	w	إِنَّ	ﱋ	ان	Indeed	inna
 1	83:7:3	w	كِتَٰبَ	ﱌ	كتاب	(the) record	kitāba

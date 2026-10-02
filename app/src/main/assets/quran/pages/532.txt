@@ -139,3 +139,10 @@
 14	55:40:3	w	رَبِّكُمَا	ﳍ	ربكما	(of) your Lord	rabbikumā
 14	55:40:4	w	تُكَذِّبَانِ	ﳎ	تكذبان	will you both deny	tukadhibāni
 14	55:40:5	e	٤٠	ﳏ			
+15	55:41:1	w	يُعۡرَفُ	ﳐ	يعرف	Will be known	yuʿ'rafu
+15	55:41:2	w	ٱلۡمُجۡرِمُونَ	ﳑ	المجرمون	the criminals	l-muj'rimūna
+15	55:41:3	w	بِسِيمَٰهُمۡ	ﳒ	بسيماهم	by their marks	bisīmāhum
+15	55:41:4	w	فَيُؤۡخَذُ	ﳓ	فيوخذ	and will be seized	fayu'khadhu
+15	55:41:5	w	بِٱلنَّوَٰصِي	ﳔ	بالنواصي	by the forelocks	bil-nawāṣī
+15	55:41:6	w	وَٱلۡأَقۡدَامِ	ﳕ	والاقدام	and the feet	wal-aqdāmi
+15	55:41:7	e	٤١	ﳖ			

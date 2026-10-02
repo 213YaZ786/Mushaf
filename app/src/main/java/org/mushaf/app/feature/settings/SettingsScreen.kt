@@ -43,7 +43,7 @@ import org.mushaf.app.ui.theme.textScaleLabel
 private enum class OpenDialog { NONE, SCRIPT, THEME, TEXT_SIZE, UPDATES }
 
 @Composable
-fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslations: () -> Unit) {
+fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslations: () -> Unit, onOpenOffline: () -> Unit, onOpenGuide: () -> Unit) {
     val store: SettingsStore = koinInject()
     val fonts: PageFonts = koinInject()
     val settings by store.settings.collectAsState()
@@ -86,6 +86,14 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                 )
             }
 
+            Section("Offline") {
+                SettingRow(
+                    title = "Keep offline",
+                    summary = "Pages, recitations and tafsir on the phone, one by one or all at once.",
+                    onClick = onOpenOffline
+                )
+            }
+
             Section("Meaning") {
                 SettingRow(
                     title = "Translations",
@@ -119,6 +127,7 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
 
             Section("App") {
                 SettingRow("Updates", updatesLabel(settings.updates), onClick = { dialog = OpenDialog.UPDATES })
+                SettingRow("Guide", "The first pages again, with their choices", onClick = onOpenGuide)
                 SettingRow("About", "Version ${BuildConfig.VERSION_NAME} · sources and credits", onClick = onOpenAbout)
             }
 

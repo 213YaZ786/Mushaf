@@ -3,8 +3,6 @@ package org.mushaf.app.data.quran
 import android.content.Context
 import android.util.LruCache
 import java.io.File
-import java.net.HttpURLConnection
-import java.net.URL
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -21,6 +19,8 @@ import kotlinx.serialization.json.jsonPrimitive
 import org.mushaf.app.core.common.writeTextAtomically
 import org.mushaf.app.core.quran.AyahKey
 import org.mushaf.app.core.quran.Kabyle
+import org.mushaf.app.core.net.Net
+import org.mushaf.app.data.sources.Sources
 
 /** A translation of the meanings, from one of the catalogues. */
 @Serializable
@@ -39,7 +39,7 @@ data class TranslationInfo(
  * gathered from QuranEnc, Tanzil and others), and fetched whole when the
  * reader picks one. Each is kept as one small file, read only when shown.
  */
-class Translations(private val context: Context, private val quran: Quran) {
+class Translations(private val context: Context, private val quran: Quran, private val sources: Sources) {
 
     private val json = Json { ignoreUnknownKeys = true }
     private val dir = File(context.filesDir, "translations")
@@ -83,7 +83,7 @@ class Translations(private val context: Context, private val quran: Quran) {
     }
 
     private fun quranCom(): List<TranslationInfo> {
-        val root = json.parseToJsonElement(get("https://api.quran.com/api/v4/resources/translations")).jsonObject
+        val root = json.parseToJsonElement(first(sources.list.quranCom) { "$it/resources/translations" }).jsonObject
         return root["translations"]!!.jsonArray.map { it.jsonObject }.map { t ->
             val language = t["language_name"]!!.jsonPrimitive.content.replaceFirstChar { it.uppercase() }
             TranslationInfo(
@@ -97,7 +97,7 @@ class Translations(private val context: Context, private val quran: Quran) {
     }
 
     private fun fawaz(): List<TranslationInfo> {
-        val root = json.parseToJsonElement(get("$FAWAZ/editions.min.json")).jsonObject
+        val root = json.parseToJsonElement(first(sources.list.fawaz) { "$it/editions.min.json" }).jsonObject
         return root.values.map { it.jsonObject }.mapNotNull { e ->
             val name = e["name"]!!.jsonPrimitive.content
             val language = e["language"]!!.jsonPrimitive.content
@@ -119,7 +119,9 @@ class Translations(private val context: Context, private val quran: Quran) {
     suspend fun install(info: TranslationInfo) = withContext(Dispatchers.IO) {
         val rows: List<Pair<String, String>> = when {
             info.id.startsWith("qc:") -> {
-                val root = json.parseToJsonElement(get("https://api.quran.com/api/v4/quran/translations/${info.id.removePrefix("qc:")}")).jsonObject
+                val id = info.id.removePrefix("qc:")
+                require(id.all { it.isDigit() })
+                val root = json.parseToJsonElement(first(sources.list.quranCom, BIG) { "$it/quran/translations/$id" }).jsonObject
                 val list = root["translations"]!!.jsonArray
                 // In the Quran's order, one per ayah.
                 val keys = quran.ayat().map { it.key.toString() }
@@ -127,7 +129,9 @@ class Translations(private val context: Context, private val quran: Quran) {
                 keys.zip(list.map { clean(it.jsonObject["text"]!!.jsonPrimitive.content) })
             }
             info.id.startsWith("fa:") -> {
-                val root = json.parseToJsonElement(get("$FAWAZ/editions/${info.id.removePrefix("fa:")}.min.json")).jsonObject
+                val name = info.id.removePrefix("fa:")
+                require(name.matches(Regex("^[a-z0-9-]+$")))
+                val root = json.parseToJsonElement(first(sources.list.fawaz, BIG) { "$it/editions/$name.min.json" }).jsonObject
                 (root["quran"] as JsonArray).map { it.jsonObject }.map { v ->
                     val text = clean(v["text"]!!.jsonPrimitive.content)
                     "${v["chapter"]!!.jsonPrimitive.int}:${v["verse"]!!.jsonPrimitive.int}" to
@@ -136,6 +140,8 @@ class Translations(private val context: Context, private val quran: Quran) {
             }
             else -> error("unknown catalogue")
         }
+        // A translation must give every ayah of the Quran, once.
+        if (rows.size != 6236 || rows.map { it.first }.toSet().size != 6236) error("translation incomplete")
         dir.mkdirs()
         File(dir, fileName(info.id)).writeTextAtomically(rows.joinToString("\n") { (k, t) -> "$k\t$t" })
         saveInstalled(_installed.value.filter { it.id != info.id } + info)
@@ -165,22 +171,22 @@ class Translations(private val context: Context, private val quran: Quran) {
 
     private fun fileName(id: String) = id.replace(':', '_').replace('/', '_') + ".txt"
 
-    private fun get(url: String): String {
-        val conn = URL(url).openConnection() as HttpURLConnection
-        try {
-            conn.connectTimeout = 15_000
-            conn.readTimeout = 60_000
-            conn.setRequestProperty("User-Agent", "Mushaf")
-            if (conn.responseCode != 200) error("HTTP ${conn.responseCode}")
-            return conn.inputStream.bufferedReader().use { it.readText() }
-        } finally {
-            conn.disconnect()
+    /** The answer of the first source that gives one. */
+    private fun first(bases: List<String>, maxBytes: Long = 4L shl 20, path: (String) -> String): String {
+        var last: Exception? = null
+        for (base in bases) {
+            try {
+                return Net.text(path(base), maxBytes)
+            } catch (e: Exception) {
+                last = e
+            }
         }
+        throw last ?: error("no source")
     }
 
     companion object {
         val BUNDLED = TranslationInfo("qc:20", "Saheeh International", "English")
-        private const val FAWAZ = "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1"
+        private const val BIG = 24L shl 20
         private val RTL_LANGUAGES = setOf("Arabic", "Urdu", "Persian", "Pashto", "Kurdish", "Sindhi", "Uyghur", "Hebrew", "Divehi", "Dhivehi")
 
         /** Footnote marks and any markup dropped, plain text left. */

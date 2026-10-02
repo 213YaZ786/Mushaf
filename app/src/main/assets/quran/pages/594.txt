@@ -1,3 +1,13 @@
+1	89:23:1	w	وَجِاْيٓءَ	ﱁ	وجيء	And is brought	wajīa
+1	89:23:2	w	يَوۡمَئِذِۭ	ﱂ	يوميذ	that Day	yawma-idhin
+1	89:23:3	w	بِجَهَنَّمَۚ	ﱃﱄ	بجهنم	Hell	bijahannama
+1	89:23:4	w	يَوۡمَئِذٖ	ﱅ	يوميذ	That Day	yawma-idhin
+1	89:23:5	w	يَتَذَكَّرُ	ﱆ	يتذكر	will remember	yatadhakkaru
+1	89:23:6	w	ٱلۡإِنسَٰنُ	ﱇ	الانسان	man	l-insānu
+1	89:23:7	w	وَأَنَّىٰ	ﱈ	وانى	but how	wa-annā
+2	89:23:8	w	لَهُ	ﱉ	له	(will be) for him	lahu
+2	89:23:9	w	ٱلذِّكۡرَىٰ	ﱊ	الذكرى	the remembrance	l-dhik'rā
+2	89:23:10	e	٢٣	ﱋ			
 2	89:24:1	w	يَقُولُ	ﱌ	يقول	He will say	yaqūlu
 2	89:24:2	w	يَٰلَيۡتَنِي	ﱍ	يا ليتني	O I wish	yālaytanī
 2	89:24:3	w	قَدَّمۡتُ	ﱎ	قدمت	I had sent forth	qaddamtu

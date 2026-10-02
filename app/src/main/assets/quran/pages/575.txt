@@ -145,3 +145,7 @@
 15	74:17:1	w	سَأُرۡهِقُهُۥ	ﳜ	سارهقه	Soon I will cover Him	sa-ur'hiquhu
 15	74:17:2	w	صَعُودًا	ﳝ	صعودا	(with) a laborious punishment	ṣaʿūdan
 15	74:17:3	e	١٧	ﳞ			
+15	74:18:1	w	إِنَّهُۥ	ﳟ	انه	Indeed, he	innahu
+15	74:18:2	w	فَكَّرَ	ﳠ	فكر	thought	fakkara
+15	74:18:3	w	وَقَدَّرَ	ﳡ	وقدر	and plotted	waqaddara
+15	74:18:4	e	١٨	ﳢ			

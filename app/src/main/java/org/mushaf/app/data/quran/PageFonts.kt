@@ -6,8 +6,6 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import java.io.File
 import java.io.RandomAccessFile
-import java.net.HttpURLConnection
-import java.net.URL
 import java.util.concurrent.ConcurrentHashMap
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -18,7 +16,10 @@ import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.sync.Semaphore
 import kotlinx.coroutines.sync.withPermit
+import kotlinx.coroutines.withContext
 import kotlinx.serialization.Serializable
+import org.mushaf.app.core.net.Net
+import org.mushaf.app.data.sources.Sources
 
 /** How the mushaf's pages are drawn. */
 @Serializable
@@ -36,26 +37,36 @@ enum class Script {
 
 /**
  * The print fonts of the Madinah mushaf (King Fahd Complex, served by
- * Quran.com): one font per page, about 300 KB, fetched the first time the
- * page is shown and kept. Until a page's font is here, the page is drawn
- * in the Hafs font the app carries, so reading never waits.
+ * Quran.com): one font per page, about 300 KB. Each is fetched once, from
+ * the first server of the sources list that answers, and kept only if its
+ * SHA-256 is the one recorded when the app was built (assets/quran/
+ * fonts.sha256): a font altered on the way or on a server is refused, and
+ * the page stays in the Hafs font the app carries, so reading never waits.
  */
-class PageFonts(private val context: Context, private val scope: CoroutineScope) {
+class PageFonts(private val context: Context, private val sources: Sources, private val scope: CoroutineScope) {
 
     private val families = ConcurrentHashMap<String, FontFamily>()
     private val running = ConcurrentHashMap.newKeySet<String>()
     private val gate = Semaphore(3)
 
+    private val hashes: Map<String, String> by lazy {
+        context.assets.open("quran/fonts.sha256").bufferedReader().useLines { lines ->
+            lines.mapNotNull { line ->
+                val p = line.trim().split(' ')
+                if (p.size == 3) "${p[0]} ${p[1]}" to p[2] else null
+            }.toMap()
+        }
+    }
+
     /** Bumped when a font arrives, so the pages waiting for it are drawn again. */
     private val _arrived = MutableStateFlow(0)
     val arrived: StateFlow<Int> = _arrived.asStateFlow()
 
-    private fun file(script: Script, page: Int) = File(context.filesDir, "fonts/${script.name.lowercase()}/p$page.ttf")
+    private fun dir(script: Script) = File(context.filesDir, "fonts/${script.name.lowercase()}")
 
-    private fun url(script: Script, page: Int) = when (script) {
-        Script.TAJWEED -> "https://verses.quran.foundation/fonts/quran/hafs/v4/colrv1/ttf/p$page.ttf"
-        else -> "https://static.qurancdn.com/fonts/quran/hafs/v2/ttf/p$page.ttf"
-    }
+    private fun file(script: Script, page: Int) = File(dir(script), "p$page.ttf")
+
+    fun has(script: Script, page: Int) = file(script, page).exists()
 
     /** The page's font if it is here; otherwise asks for it and returns null. */
     fun family(script: Script, page: Int): FontFamily? {
@@ -64,7 +75,6 @@ class PageFonts(private val context: Context, private val scope: CoroutineScope)
         families[key]?.let { return it }
         val f = file(script, page)
         if (f.exists() && f.length() > 0) {
-            runCatching { muteHdmx(f) }
             return runCatching { FontFamily(Font(f)) }.getOrNull()?.also { families[key] = it }
                 ?: run { f.delete(); null }
         }
@@ -75,19 +85,24 @@ class PageFonts(private val context: Context, private val scope: CoroutineScope)
     /** Fetches the fonts of [pages] ahead of time, the ones next to the page being read. */
     fun prefetch(script: Script, pages: Iterable<Int>) {
         if (script == Script.HAFS) return
-        pages.filter { it in 1..604 }.forEach { if (!file(script, it).exists()) fetch(script, it) }
+        pages.filter { it in 1..604 }.forEach { if (!has(script, it)) fetch(script, it) }
     }
 
     /** How many pages of [script] are kept on the phone. */
-    fun count(script: Script): Int = File(context.filesDir, "fonts/${script.name.lowercase()}").list()?.size ?: 0
+    fun count(script: Script): Int = dir(script).list()?.count { it.endsWith(".ttf") } ?: 0
+
+    fun remove(script: Script) {
+        dir(script).deleteRecursively()
+        families.keys.removeAll { it.startsWith(script.name + "/") }
+        _arrived.update { it + 1 }
+    }
 
     private fun fetch(script: Script, page: Int) {
         val key = "${script.name}/$page"
         if (!running.add(key)) return
         scope.launch(Dispatchers.IO) {
             try {
-                gate.withPermit { download(url(script, page), file(script, page)) }
-                _arrived.update { it + 1 }
+                gate.withPermit { get(script, page) }
             } catch (_: Exception) {
                 // Offline or refused: the page stays in the Hafs font, and
                 // is asked again the next time it is shown.
@@ -95,6 +110,27 @@ class PageFonts(private val context: Context, private val scope: CoroutineScope)
                 running.remove(key)
             }
         }
+    }
+
+    /** Fetches one page's font now, from the first source that gives the right file. */
+    suspend fun get(script: Script, page: Int) = withContext(Dispatchers.IO) {
+        if (has(script, page)) return@withContext
+        val name = if (script == Script.TAJWEED) "tajweed" else "print"
+        val sha = sources.list.fontHashes["$name $page"] ?: hashes["$name $page"] ?: error("no fingerprint for $name $page")
+        val places = if (script == Script.TAJWEED) sources.list.tajweedFont else sources.list.printFont
+        var last: Exception? = null
+        for (template in places) {
+            try {
+                val target = file(script, page)
+                Net.download(template.replace("{page}", page.toString()), target, maxBytes = 4L shl 20, sha256 = sha)
+                muteHdmx(target)
+                _arrived.update { it + 1 }
+                return@withContext
+            } catch (e: Exception) {
+                last = e
+            }
+        }
+        throw last ?: error("no source")
     }
 
     /**
@@ -118,26 +154,6 @@ class PageFonts(private val context: Context, private val scope: CoroutineScope)
                     return
                 }
             }
-        }
-    }
-
-    private fun download(url: String, target: File) {
-        target.parentFile?.mkdirs()
-        val part = File(target.parentFile, target.name + ".part")
-        val conn = URL(url).openConnection() as HttpURLConnection
-        try {
-            conn.connectTimeout = 15_000
-            conn.readTimeout = 30_000
-            conn.setRequestProperty("User-Agent", "Mushaf")
-            if (conn.responseCode != 200) error("HTTP ${conn.responseCode}")
-            conn.inputStream.use { input -> part.outputStream().use { input.copyTo(it) } }
-            // A font is at least a few KB; anything less is an error page.
-            if (part.length() < 4_000) error("short font")
-            muteHdmx(part)
-            if (!part.renameTo(target)) error("rename")
-        } finally {
-            conn.disconnect()
-            part.delete()
         }
     }
 }
