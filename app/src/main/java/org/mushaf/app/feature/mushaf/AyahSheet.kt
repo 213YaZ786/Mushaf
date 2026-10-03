@@ -34,6 +34,18 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import kotlinx.coroutines.withContext
+import kotlinx.coroutines.Dispatchers
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.luminance
+import androidx.compose.ui.graphics.toArgb
+import androidx.core.content.res.ResourcesCompat
+import org.mushaf.app.R
+import org.mushaf.app.core.quran.Riwayah
+import org.mushaf.app.data.settings.SettingsStore
+import org.mushaf.app.ui.component.ChoiceDialog
+import org.mushaf.app.feature.share.CardColors
+import org.mushaf.app.feature.share.AyahCard
 import org.mushaf.app.feature.common.IconControl
 import org.mushaf.app.feature.common.EvenRows
 import androidx.compose.foundation.clickable
@@ -89,6 +101,14 @@ fun AyahSheet(
     val bookmarked = saved.bookmarks.any { it.key == word.key }
     val note = saved.notes.firstOrNull { it.key == word.key }?.text
     var writing by remember { mutableStateOf(false) }
+    var sharing by remember { mutableStateOf(false) }
+    val settings by koinInject<SettingsStore>().settings.collectAsState()
+    val scheme = MaterialTheme.colorScheme
+    val dark = scheme.background.luminance() < 0.5f
+    // The ayah with its number, as the card shows it.
+    val withNumber by produceState("", word.key) {
+        value = quran.page(quran.pageOf(word.key)).words.filter { it.key == word.key }.joinToString(" ") { it.text }
+    }
     val words: WordAudio = koinInject()
     val sound by words.sound.collectAsState()
     val heard = sound?.takeIf { it.of(word) }
@@ -157,13 +177,40 @@ fun AyahSheet(
                             clipboard.setClipEntry(ClipData.newPlainText(reference, "$arabic\n$meaning\n($reference)").toClipEntry())
                         }
                     })
-                    IconControl(AppIcons.Share, "Share", {
-                        val send = Intent(Intent.ACTION_SEND).setType("text/plain")
-                            .putExtra(Intent.EXTRA_TEXT, "$arabic\n\n$meaning\n\n($reference)")
-                        context.startActivity(Intent.createChooser(send, null))
-                    })
+                    IconControl(AppIcons.Share, "Share", { sharing = true })
                     IconControl(AppIcons.Close, "Close", onClose)
                 }
+                if (sharing) ChoiceDialog(
+                    title = "Share",
+                    options = listOf(0 to "Image, with the meaning", 1 to "Image", 2 to "Text"),
+                    selected = null,
+                    onSelect = { how ->
+                        sharing = false
+                        if (how == 2) {
+                            val send = Intent(Intent.ACTION_SEND).setType("text/plain")
+                                .putExtra(Intent.EXTRA_TEXT, "$arabic\n\n$meaning\n\n($reference)")
+                            context.startActivity(Intent.createChooser(send, null))
+                        } else scope.launch {
+                            val font = ResourcesCompat.getFont(context, if (settings.riwayah == Riwayah.WARSH) R.font.uthmanic_warsh else R.font.uthmanic_hafs)
+                                ?: return@launch
+                            val colors = CardColors(
+                                background = scheme.surface.toArgb(),
+                                glow1 = scheme.primaryContainer.toArgb(),
+                                glow2 = scheme.tertiaryContainer.toArgb(),
+                                glow3 = scheme.secondaryContainer.toArgb(),
+                                glass = (if (dark) scheme.surfaceContainerHigh.copy(alpha = 0.6f) else Color.White.copy(alpha = 0.6f)).toArgb(),
+                                rim = Color.White.copy(alpha = if (dark) 0.14f else 0.9f).toArgb(),
+                                ink = scheme.onSurface.toArgb(),
+                                soft = scheme.onSurfaceVariant.toArgb()
+                            )
+                            val card = withContext(Dispatchers.Default) {
+                                AyahCard.draw(withNumber.ifEmpty { arabic }, font, meaning.takeIf { how == 0 }, reference, colors)
+                            }
+                            AyahCard.share(context, card, "$reference · Mushaf")
+                        }
+                    },
+                    onDismiss = { sharing = false }
+                )
                 if (writing) NoteDialog(reference, note.orEmpty(), onDone = { text ->
                     marks.setNote(word.key, text)
                     writing = false

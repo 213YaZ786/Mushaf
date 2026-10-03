@@ -62,6 +62,17 @@
             android:foregroundServiceType="dataSync"
             tools:node="merge" />
 
+        <!-- The ayah card being shared, lent for reading to the app the reader picks. Not exported. -->
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.share"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/share_paths" />
+        </provider>
+
         <!-- After an update the app installed itself: a notification to open it again. -->
         <receiver
             android:name=".core.update.UpdatedReceiver"
