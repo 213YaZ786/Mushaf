@@ -5,6 +5,7 @@ import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.combinedClickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
 import androidx.compose.foundation.layout.FlowRow
@@ -91,6 +92,9 @@ fun MeaningScreen(
     val marks: Marks = koinInject()
     val settings by store.settings.collectAsState()
     val airy = settings.airy
+    // One ayah heard on its own, from its row: the recitation stops at its end.
+    val listen: org.mushaf.app.feature.listen.Listen = koinInject()
+    val heardNow by listen.state.collectAsState()
     val sajdat by produceState(emptyList<String>()) { value = quran.meta().sajdah }
     val saved by marks.marks.collectAsState()
     val haptics = rememberHaptics()
@@ -177,21 +181,30 @@ fun MeaningScreen(
             items(rows.orEmpty(), key = { it.key.toString() }) { row ->
                 val bookmarked = saved.bookmarks.any { it.key == row.key }
                 val note = saved.notes.firstOrNull { it.key == row.key }?.text
-                ZoneSurface(shape = RoundedCornerShape(24.dp), modifier = Modifier.fillMaxWidth()) {
+                val playingHere = heardNow.active && heardNow.playing && heardNow.key == row.key
+                ZoneSurface(shape = RoundedCornerShape(24.dp), accent = playingHere, modifier = Modifier.fillMaxWidth()) {
                     Column(
                         Modifier
                             .combinedClickable(onClick = {}, onLongClick = { haptics.firm(); onOpenTafsir(row.key) })
                             .padding(if (airy) 22.dp else 18.dp)
                     ) {
                         Row(verticalAlignment = Alignment.CenterVertically) {
-                            FloatingPane(shape = CircleShape) {
-                                Text(
-                                    if (row.key.toString() in sajdat) "${row.key} · ۩ " + stringResource(R.string.sajdah) else row.key.toString(),
-                                    style = MaterialTheme.typography.labelLarge,
-                                    modifier = Modifier.padding(horizontal = 12.dp, vertical = 6.dp)
-                                )
+                            // The reference gives way to the actions on a narrow phone.
+                            Box(Modifier.weight(1f)) {
+                                FloatingPane(shape = CircleShape) {
+                                    Text(
+                                        if (row.key.toString() in sajdat) "${row.key} · ۩ " + stringResource(R.string.sajdah) else row.key.toString(),
+                                        style = MaterialTheme.typography.labelLarge,
+                                        maxLines = 1,
+                                        overflow = TextOverflow.Ellipsis,
+                                        modifier = Modifier.padding(horizontal = 12.dp, vertical = 6.dp)
+                                    )
+                                }
                             }
-                            Spacer(Modifier.weight(1f))
+                            SmallAction(if (playingHere) AppIcons.Pause else AppIcons.Play, if (playingHere) stringResource(R.string.pause) else stringResource(R.string.play)) {
+                                haptics.toggle(!playingHere)
+                                if (playingHere) listen.toggle() else listen.playOnce(row.key)
+                            }
                             SmallAction(if (bookmarked) AppIcons.Bookmark else AppIcons.BookmarkOutline, if (bookmarked) stringResource(R.string.remove_bookmark) else stringResource(R.string.bookmark)) {
                                 haptics.toggle(marks.toggleBookmark(row.key))
                             }
