@@ -40,6 +40,10 @@ import androidx.compose.ui.graphics.lerp
 import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.BoxWithConstraints
+import org.mushaf.app.feature.common.TextControl
+import org.mushaf.app.feature.common.EvenRows
 import org.mushaf.app.core.hifz.Order
 import org.mushaf.app.core.hifz.Schedule
 import org.mushaf.app.core.quran.AyahKey
@@ -162,16 +166,8 @@ private fun Setup(plan: Plan?, onDone: (Plan, Known?) -> Unit) {
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
 private fun <T> Choices(options: List<Pair<T, String>>, chosen: T?, onChoose: (T) -> Unit) {
-    FlowRow(
-        horizontalArrangement = Arrangement.spacedBy(8.dp),
-        verticalArrangement = Arrangement.spacedBy(8.dp),
-        modifier = Modifier.padding(16.dp)
-    ) {
-        for ((value, label) in options) {
-            FloatingPane(shape = CircleShape, accent = value == chosen, onClick = { onChoose(value) }) {
-                Text(label, style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(horizontal = 16.dp, vertical = 10.dp))
-            }
-        }
+    EvenRows(Modifier.padding(16.dp), minSlot = 96.dp) {
+        for ((value, label) in options) TextControl(label, { onChoose(value) }, accent = value == chosen)
     }
 }
 
@@ -236,12 +232,8 @@ private fun PagesCard(title: String, pages: List<Int>, onPage: (Int) -> Unit) {
     val haptics = rememberHaptics()
     Column {
         Text(title, style = MaterialTheme.typography.titleMedium)
-        FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp), modifier = Modifier.padding(top = 8.dp)) {
-            for (p in pages) {
-                FloatingPane(shape = CircleShape, onClick = { haptics.tick(); onPage(p) }) {
-                    Text("p. $p", style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(horizontal = 14.dp, vertical = 8.dp))
-                }
-            }
+        EvenRows(Modifier.padding(top = 8.dp), minSlot = 72.dp) {
+            for (p in pages) TextControl("p. $p", { haptics.tick(); onPage(p) })
         }
     }
 }
@@ -265,20 +257,22 @@ private fun PageMap(hifz: Hifz, onOpenMushaf: () -> Unit) {
     val firm = MaterialTheme.colorScheme.primary
     val outline = MaterialTheme.colorScheme.outlineVariant
     val m = meta ?: return
-    Column(Modifier.padding(12.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
-        Row(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
-            Text("${state.pages.size} of 604 pages known", style = MaterialTheme.typography.labelLarge)
-        }
+    // The longest juz fills the width: each page as large as the screen allows.
+    val longest = remember(m) { m.juz.maxOf { j -> (m.juz.getOrNull(j.n)?.page ?: 605) - j.page } }
+    BoxWithConstraints(Modifier.fillMaxWidth().padding(12.dp)) {
+    val cell = ((maxWidth - 26.dp) / longest - 3.dp).coerceIn(8.dp, 28.dp)
+    Column(verticalArrangement = Arrangement.spacedBy(3.dp)) {
+        Text("${state.pages.size} of 604 pages known", style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(bottom = 5.dp))
         for (j in m.juz) {
             val end = m.juz.getOrNull(j.n)?.page ?: 605
-            Row(verticalAlignment = Alignment.CenterVertically) {
-                Text("${j.n}", style = MaterialTheme.typography.labelSmall, modifier = Modifier.size(width = 22.dp, height = 14.dp))
-                FlowRow(horizontalArrangement = Arrangement.spacedBy(3.dp), verticalArrangement = Arrangement.spacedBy(3.dp)) {
+            Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(3.dp)) {
+                Text("${j.n}", style = MaterialTheme.typography.labelSmall, modifier = Modifier.width(23.dp))
+                Row(horizontalArrangement = Arrangement.spacedBy(3.dp)) {
                     for (p in j.page until end) {
                         val s = byPage[p]
                         Box(
                             Modifier
-                                .size(11.dp)
+                                .size(cell)
                                 .clip(RoundedCornerShape(3.dp))
                                 .then(
                                     if (s == null) Modifier.border(1.dp, outline, RoundedCornerShape(3.dp))
@@ -290,5 +284,6 @@ private fun PageMap(hifz: Hifz, onOpenMushaf: () -> Unit) {
                 }
             }
         }
+    }
     }
 }

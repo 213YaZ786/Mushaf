@@ -36,6 +36,11 @@ import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import org.koin.compose.koinInject
+import androidx.compose.runtime.setValue
+import androidx.compose.runtime.mutableStateOf
+import org.mushaf.app.ui.component.ChoiceDialog
+import org.mushaf.app.feature.common.TextControl
+import org.mushaf.app.feature.common.EvenRows
 import org.mushaf.app.ui.theme.quranFont
 import org.mushaf.app.data.offline.Pack
 import org.mushaf.app.feature.offline.OfferDownload
@@ -110,21 +115,18 @@ fun TafsirScreen(key: AyahKey, onBack: () -> Unit) {
                     modifier = Modifier.fillMaxWidth().padding(18.dp)
                 )
             }
-            FlowRow(
-                horizontalArrangement = Arrangement.spacedBy(8.dp),
-                verticalArrangement = Arrangement.spacedBy(8.dp),
-                modifier = Modifier.fillMaxWidth().padding(vertical = 14.dp)
-            ) {
-                for (b in Tafsir.BOOKS) {
-                    FloatingPane(
-                        shape = CircleShape,
-                        accent = b.id == book.id,
-                        onClick = { haptics.tick(); store.update { it.copy(tafsir = b.id) } }
-                    ) {
-                        Text(b.name, style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(horizontal = 14.dp, vertical = 8.dp))
-                    }
-                }
+            // The book read, in one line; a tap chooses another.
+            var choosing by remember { mutableStateOf(false) }
+            EvenRows(Modifier.padding(vertical = 12.dp)) {
+                TextControl("${book.name} · another book", { haptics.tick(); choosing = true })
             }
+            if (choosing) ChoiceDialog(
+                title = "Tafsir",
+                options = Tafsir.BOOKS.map { it.id to it.name },
+                selected = book.id,
+                onSelect = { id -> store.update { it.copy(tafsir = id) } },
+                onDismiss = { choosing = false }
+            )
             when (val l = loaded) {
                 Loaded.Waiting -> Box(Modifier.fillMaxWidth().padding(32.dp), contentAlignment = Alignment.Center) { LoadingMark(size = 48.dp) }
                 Loaded.Failed -> EmptyZone("Not available", "This tafsir could not be fetched. It opens offline once read.", icon = AppIcons.MenuBook)

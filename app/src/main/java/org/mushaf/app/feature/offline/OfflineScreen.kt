@@ -27,6 +27,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.delay
 import org.koin.compose.koinInject
+import org.mushaf.app.feature.common.TextControl
+import org.mushaf.app.feature.common.EvenRows
 import org.mushaf.app.data.audio.Recitations
 import org.mushaf.app.data.offline.Offline
 import org.mushaf.app.data.offline.Pack
@@ -75,14 +77,14 @@ fun OfflineScreen(onBack: () -> Unit) {
                     style = MaterialTheme.typography.bodyMedium,
                     modifier = Modifier.padding(16.dp)
                 )
-                Row(Modifier.padding(start = 16.dp, end = 16.dp, bottom = 16.dp)) {
-                    BoldButton(onClick = {
+                EvenRows(Modifier.padding(start = 16.dp, end = 16.dp, bottom = 16.dp)) {
+                    TextControl("Keep all offline", {
                         haptics.done()
                         // Warsh's pages are drawn from the font the app carries: nothing to fetch.
                         if (settings.script != Script.HAFS && settings.riwayah == Riwayah.HAFS) offline.start(Pack.Pages(settings.script))
                         offline.start(Pack.Recitation(store.reciter(settings.riwayah)))
                         offline.start(Pack.TafsirBook(settings.tafsir))
-                    }, filled = true) { Text("Keep all offline") }
+                    }, accent = true)
                 }
                 SwitchRow(
                     title = "Wait for Wi-Fi",
