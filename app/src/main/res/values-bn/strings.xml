@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">ভয়েস মডেল ডাউনলোড করা যায়নি। সংযোগ পরীক্ষা করে আবার চেষ্টা করুন।</string>
+    <string name="voice_no_space">ভয়েস মডেলের জন্য ফোনে যথেষ্ট জায়গা নেই (প্রায় 100 MB)।</string>
+    <string name="voice_mic_denied">আপনার তিলাওয়াত শুনতে মুসহাফের মাইক্রোফোন দরকার।</string>
+    <string name="voice_mic_blocked">মুসহাফের জন্য মাইক্রোফোন বন্ধ। অ্যাপের সেটিংসে অনুমতি দিন।</string>
+    <string name="voice_nothing_heard">কিছু শোনা যায়নি। মাইক্রোফোন পরীক্ষা করুন, তারপর ফোনের কাছে তিলাওয়াত করুন।</string>
+    <string name="try_again">আবার চেষ্টা করুন</string>
+    <string name="allow">অনুমতি দিন</string>
+    <string name="open_settings">সেটিংস খুলুন</string>
     <string name="collection_all">সব</string>
     <string name="add_collection">+ সংকলন</string>
     <string name="new_collection">+ নতুন সংকলন</string>

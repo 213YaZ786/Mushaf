@@ -1,6 +1,8 @@
 package org.mushaf.app.feature.hifz
 
 import org.mushaf.app.R
+import org.mushaf.app.feature.recite.VoiceNotice
+import org.mushaf.app.feature.recite.rememberVoiceGate
 import androidx.compose.ui.res.stringResource
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -41,7 +43,6 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.core.content.ContextCompat
 import org.mushaf.app.core.stt.Heard
 import org.mushaf.app.data.stt.Recogniser
-import org.mushaf.app.feature.recite.ModelOffer
 import org.mushaf.app.feature.recite.Recite
 import org.mushaf.app.ui.component.ZoneAlertDialog
 import org.mushaf.app.core.hifz.Grade
@@ -71,15 +72,13 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
     val reciting by recite.state.collectAsState()
     val modelReady by recogniser.ready.collectAsState()
     val context = LocalContext.current
-    var offerModel by remember { mutableStateOf(false) }
-    var fetching by remember { mutableStateOf<String?>(null) }
+    val gate = rememberVoiceGate()
     // The words recited, in reading order: the ones the recogniser follows.
     val expected = remember(session.keys, words) { words.filter { !it.end && it.key in session.keys } }
     val startReciting = {
         if (session.show == WordShow.ALL) hifz.setShow(WordShow.HIDDEN)
         recite.start(expected.map { it.text })
     }
-    val askMic = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { granted -> if (granted) startReciting() }
     // What was heard shows the words; a word passed over counts as slipped.
     LaunchedEffect(reciting.marks) {
         for ((i, heard) in reciting.marks) {
@@ -95,24 +94,6 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
         value = keys.flatMap { k -> quran.similar(k).map { "$k ≈ $it" } }.take(4)
     }
 
-    if (offerModel) {
-        ModelOffer(
-            onYes = {
-                offerModel = false
-                scope.launch {
-                    fetching = context.getString(R.string.downloading_model)
-                    runCatching { recogniser.install { bytes -> fetching = context.getString(R.string.downloading_model_progress, (bytes shr 20).toInt()) } }
-                        .onFailure { fetching = null; haptics.reject() }
-                        .onSuccess {
-                            fetching = null
-                            if (ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) startReciting()
-                            else askMic.launch(Manifest.permission.RECORD_AUDIO)
-                        }
-                }
-            },
-            onNo = { offerModel = false }
-        )
-    }
     FloatingPane(shape = RoundedCornerShape(28.dp), modifier = modifier.widthIn(max = 560.dp).fillMaxWidth()) {
         Column(Modifier.padding(horizontal = 12.dp, vertical = 10.dp)) {
             Row(verticalAlignment = Alignment.CenterVertically) {
@@ -134,10 +115,10 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant
             )
-            if (reciting.listening || fetching != null || reciting.failed) {
+            VoiceNotice(gate)
+            if (reciting.listening || reciting.failed) {
                 Text(
                     when {
-                        fetching != null -> fetching!!
                         reciting.failed -> stringResource(R.string.mic_failed)
                         else -> stringResource(R.string.listening_recite)
                     },
@@ -163,12 +144,7 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
                     IconControl(AppIcons.Visibility, stringResource(R.string.show_next_word), { hifz.revealNext(words) })
                 }
                 IconControl(AppIcons.Mic, if (reciting.listening) stringResource(R.string.stop_listening) else stringResource(R.string.recite), {
-                    when {
-                        reciting.listening -> recite.stop()
-                        !modelReady -> offerModel = true
-                        ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED -> startReciting()
-                        else -> askMic.launch(Manifest.permission.RECORD_AUDIO)
-                    }
+                    if (reciting.listening) recite.stop() else gate.request { startReciting() }
                 }, tint = if (reciting.listening) MaterialTheme.colorScheme.error else androidx.compose.ui.graphics.Color.Unspecified)
                 if (session.kind == SessionKind.LESSON && keys.isNotEmpty()) {
                     IconControl(AppIcons.Repeat, stringResource(R.string.listen_three), {

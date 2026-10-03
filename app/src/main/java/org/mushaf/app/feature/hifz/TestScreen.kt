@@ -46,6 +46,8 @@ import kotlinx.coroutines.launch
 import kotlin.random.Random
 import org.koin.compose.koinInject
 import org.mushaf.app.R
+import org.mushaf.app.feature.recite.VoiceNotice
+import org.mushaf.app.feature.recite.rememberVoiceGate
 import androidx.compose.ui.res.pluralStringResource
 import androidx.compose.ui.res.stringResource
 import org.mushaf.app.core.quran.AyahKey
@@ -57,7 +59,6 @@ import org.mushaf.app.feature.common.EvenRows
 import org.mushaf.app.feature.common.IconControl
 import org.mushaf.app.feature.common.TextControl
 import org.mushaf.app.feature.listen.Listen
-import org.mushaf.app.feature.recite.ModelOffer
 import org.mushaf.app.feature.recite.Recite
 import org.mushaf.app.navigation.LocalReadableInset
 import org.mushaf.app.ui.component.FloatingAction
@@ -94,8 +95,7 @@ fun TestScreen(onBack: () -> Unit) {
     var right by remember { mutableIntStateOf(0) }
     var asked by remember { mutableIntStateOf(0) }
     var shown by remember { mutableStateOf(false) }
-    var offerModel by remember { mutableStateOf(false) }
-    var fetching by remember { mutableStateOf<String?>(null) }
+    val gate = rememberVoiceGate()
     DisposableEffect(Unit) { onDispose { recite.reset(); listen.stop() } }
 
     // The known ayat whose next ayah, in the same surah, is known too.
@@ -112,23 +112,6 @@ fun TestScreen(onBack: () -> Unit) {
     LaunchedEffect(q) { shown = false; recite.reset() }
 
     val start = { if (q != null) recite.start(q.nextWords) }
-    val askMic = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { granted -> if (granted) start() }
-    if (offerModel) ModelOffer(
-        onYes = {
-            offerModel = false
-            scope.launch {
-                fetching = context.getString(R.string.downloading_model)
-                runCatching { recogniser.install { bytes -> fetching = context.getString(R.string.downloading_model_progress, (bytes shr 20).toInt()) } }
-                    .onFailure { fetching = null; haptics.reject() }
-                    .onSuccess {
-                        fetching = null
-                        if (ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) start()
-                        else askMic.launch(Manifest.permission.RECORD_AUDIO)
-                    }
-            }
-        },
-        onNo = { offerModel = false }
-    )
 
     // A question is right when every word was said, none passed over.
     val complete = q != null && heard.marks.size >= q.nextWords.size && heard.marks.values.none { it == Heard.SKIPPED }
@@ -193,22 +176,17 @@ fun TestScreen(onBack: () -> Unit) {
                 }
             }
             val status = when {
-                fetching != null -> fetching
                 heard.failed -> stringResource(R.string.mic_failed)
                 heard.listening -> stringResource(R.string.listening_next)
                 else -> null
             }
             if (status != null) Text(status, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.primary,
                 textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(top = 10.dp))
+            VoiceNotice(gate)
             Spacer(Modifier.height(16.dp))
             EvenRows(minSlot = 64.dp) {
                 IconControl(AppIcons.Mic, if (heard.listening) stringResource(R.string.stop_listening) else stringResource(R.string.recite), {
-                    when {
-                        heard.listening -> recite.stop()
-                        !modelReady -> offerModel = true
-                        ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED -> start()
-                        else -> askMic.launch(Manifest.permission.RECORD_AUDIO)
-                    }
+                    if (heard.listening) recite.stop() else gate.request { start() }
                 }, accent = true, tint = if (heard.listening) MaterialTheme.colorScheme.error else androidx.compose.ui.graphics.Color.Unspecified)
                 IconControl(AppIcons.VolumeUp, stringResource(R.string.hear_given), { listen.playOnce(q.given) })
                 TextControl(stringResource(R.string.show), { recite.stop(); if (!shown && !complete) asked++; shown = true })

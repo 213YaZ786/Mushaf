@@ -62,6 +62,8 @@ import androidx.core.content.ContextCompat
 import kotlin.random.Random
 import kotlinx.coroutines.launch
 import org.mushaf.app.feature.common.EvenRows
+import org.mushaf.app.feature.recite.VoiceNotice
+import org.mushaf.app.feature.recite.rememberVoiceGate
 import org.mushaf.app.data.audio.WordAudio
 import org.mushaf.app.core.play.Meaning
 import androidx.compose.animation.core.tween
@@ -683,9 +685,8 @@ private fun ReciteGame(ayat: List<Ayah>, onWon: () -> Unit) {
     val scope = rememberCoroutineScope()
     val font = hafs()
     val words = remember(ayat) { ayat.flatMap { it.words } }
-    var fetching by remember { mutableStateOf<String?>(null) }
+    val gate = rememberVoiceGate()
     val start = { recite.start(words.map { it.text }) }
-    val askMic = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { if (it) start() }
     DisposableEffect(Unit) { onDispose { recite.reset() } }
     val done = state.next >= words.size && words.isNotEmpty()
     val skipped = state.marks.count { it.value == Heard.SKIPPED }
@@ -693,23 +694,18 @@ private fun ReciteGame(ayat: List<Ayah>, onWon: () -> Unit) {
 
     Row(Modifier.fillMaxWidth().padding(bottom = 16.dp), horizontalArrangement = Arrangement.Center) {
         when {
-            fetching != null -> Text(fetching!!, style = MaterialTheme.typography.bodyMedium)
-            !ready -> BoldButton(filled = true, onClick = {
-                scope.launch {
-                    fetching = context.getString(R.string.downloading_model)
-                    runCatching { recogniser.install { fetching = context.getString(R.string.downloading_model_progress, (it shr 20).toInt()) } }
-                        .onFailure { haptics.reject() }
-                    fetching = null
-                }
-            }) { Text(stringResource(R.string.get_model)) }
+            gate.progress != null -> Unit
+            !ready -> BoldButton(filled = true, onClick = { haptics.tick(); gate.request { start() } }) { Text(stringResource(R.string.get_model)) }
             state.listening -> BoldButton(onClick = { haptics.tick(); recite.stop() }) { Text(stringResource(R.string.stop)) }
             else -> BoldButton(filled = true, onClick = {
                 recite.reset()
-                if (ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) start()
-                else askMic.launch(Manifest.permission.RECORD_AUDIO)
+                gate.request { start() }
             }) { Text(if (done) stringResource(R.string.again) else stringResource(R.string.start_reciting)) }
         }
     }
+    VoiceNotice(gate, Modifier.padding(bottom = 12.dp))
+    if (state.failed) Text(stringResource(R.string.mic_failed), style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.error,
+        textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(bottom = 12.dp))
     if (done) Text(
         if (skipped <= 1) stringResource(R.string.well_done_surah) else pluralStringResource(R.plurals.words_passed_again, skipped, skipped),
         style = MaterialTheme.typography.titleMedium, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(bottom = 12.dp)

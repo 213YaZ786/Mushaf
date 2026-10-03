@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">Tamudemt n taɣect ur d-tettwasider ara. Senqed tuqqna, sakin ɛreḍ tikkelt nniḍen.</string>
+    <string name="voice_no_space">Ulac amkan iwatan deg tiliɣri i tmudemt n taɣect (azal n 100 MB).</string>
+    <string name="voice_mic_denied">Mushaf yesra asawaḍ akken ad k-isell mi ara teqqareḍ.</string>
+    <string name="voice_mic_blocked">Asawaḍ yensa i Mushaf. Sireg-it deg yiɣewwaṛen n usnas.</string>
+    <string name="voice_nothing_heard">Ulac ayen yettwaslen. Senqed asawaḍ, sakin ɣer qrib n tiliɣri.</string>
+    <string name="try_again">Ɛreḍ tikkelt nniḍen</string>
+    <string name="allow">Sireg</string>
+    <string name="open_settings">Ldi iɣewwaṛen</string>
     <string name="collection_all">Akk</string>
     <string name="add_collection">+ Tagrumma</string>
     <string name="new_collection">+ Tagrumma tamaynut</string>

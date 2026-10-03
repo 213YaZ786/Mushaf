@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">تعذّر تنزيل نموذج الصوت. تحقّق من الاتصال وأعد المحاولة.</string>
+    <string name="voice_no_space">لا توجد مساحة كافية على الهاتف لنموذج الصوت (نحو 100 م.ب).</string>
+    <string name="voice_mic_denied">يحتاج مصحف إلى الميكروفون ليسمع تلاوتك.</string>
+    <string name="voice_mic_blocked">الميكروفون معطّل لمصحف. اسمح به في إعدادات التطبيق.</string>
+    <string name="voice_nothing_heard">لم يُسمع شيء. تحقّق من الميكروفون، ثم اتلُ قريبًا من الهاتف.</string>
+    <string name="try_again">أعد المحاولة</string>
+    <string name="allow">السماح</string>
+    <string name="open_settings">فتح الإعدادات</string>
     <string name="collection_all">الكل</string>
     <string name="add_collection">+ مجموعة</string>
     <string name="new_collection">+ مجموعة جديدة</string>

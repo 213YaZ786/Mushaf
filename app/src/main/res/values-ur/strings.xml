@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">آواز کا ماڈل ڈاؤن لوڈ نہیں ہو سکا۔ کنکشن چیک کر کے دوبارہ کوشش کریں۔</string>
+    <string name="voice_no_space">فون پر آواز کے ماڈل کے لیے کافی جگہ نہیں (تقریباً 100 MB)۔</string>
+    <string name="voice_mic_denied">مصحف کو آپ کی تلاوت سننے کے لیے مائیکروفون چاہیے۔</string>
+    <string name="voice_mic_blocked">مصحف کے لیے مائیکروفون بند ہے۔ ایپ کی ترتیبات میں اجازت دیں۔</string>
+    <string name="voice_nothing_heard">کچھ سنائی نہیں دیا۔ مائیکروفون چیک کریں، پھر فون کے قریب تلاوت کریں۔</string>
+    <string name="try_again">دوبارہ کوشش کریں</string>
+    <string name="allow">اجازت دیں</string>
+    <string name="open_settings">ترتیبات کھولیں</string>
     <string name="collection_all">سب</string>
     <string name="add_collection">+ مجموعہ</string>
     <string name="new_collection">+ نیا مجموعہ</string>

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">Səs modeli yüklənmədi. Bağlantını yoxlayıb yenidən cəhd edin.</string>
+    <string name="voice_no_space">Telefonda səs modeli üçün kifayət qədər yer yoxdur (təxminən 100 MB).</string>
+    <string name="voice_mic_denied">Mushafın qiraətinizi eşitməsi üçün mikrofon lazımdır.</string>
+    <string name="voice_mic_blocked">Mikrofon Mushaf üçün söndürülüb. Tətbiq ayarlarında icazə verin.</string>
+    <string name="voice_nothing_heard">Heç nə eşidilmədi. Mikrofonu yoxlayın, sonra telefona yaxın oxuyun.</string>
+    <string name="try_again">Yenidən cəhd et</string>
+    <string name="allow">İcazə ver</string>
+    <string name="open_settings">Ayarları aç</string>
     <string name="collection_all">Hamısı</string>
     <string name="add_collection">+ Kolleksiya</string>
     <string name="new_collection">+ Yeni kolleksiya</string>

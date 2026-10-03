@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">Glasovni model nije preuzet. Provjerite vezu i pokušajte ponovo.</string>
+    <string name="voice_no_space">Nema dovoljno mjesta na telefonu za glasovni model (oko 100 MB).</string>
+    <string name="voice_mic_denied">Mushafu treba mikrofon da vas čuje dok učite.</string>
+    <string name="voice_mic_blocked">Mikrofon je isključen za Mushaf. Dozvolite ga u postavkama aplikacije.</string>
+    <string name="voice_nothing_heard">Ništa se nije čulo. Provjerite mikrofon, zatim učite blizu telefona.</string>
+    <string name="try_again">Pokušaj ponovo</string>
+    <string name="allow">Dozvoli</string>
+    <string name="open_settings">Otvori postavke</string>
     <string name="collection_all">Sve</string>
     <string name="add_collection">+ Zbirka</string>
     <string name="new_collection">+ Nova zbirka</string>

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">Не удалось загрузить голосовую модель. Проверьте подключение и повторите.</string>
+    <string name="voice_no_space">Недостаточно места на телефоне для голосовой модели (около 100 МБ).</string>
+    <string name="voice_mic_denied">Mushaf нужен микрофон, чтобы слышать ваше чтение.</string>
+    <string name="voice_mic_blocked">Микрофон отключён для Mushaf. Разрешите его в настройках приложения.</string>
+    <string name="voice_nothing_heard">Ничего не слышно. Проверьте микрофон и читайте ближе к телефону.</string>
+    <string name="try_again">Повторить</string>
+    <string name="allow">Разрешить</string>
+    <string name="open_settings">Открыть настройки</string>
     <string name="collection_all">Все</string>
     <string name="add_collection">+ Подборка</string>
     <string name="new_collection">+ Новая подборка</string>

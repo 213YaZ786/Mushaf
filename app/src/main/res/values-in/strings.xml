@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">Model suara tidak dapat diunduh. Periksa koneksi dan coba lagi.</string>
+    <string name="voice_no_space">Ruang di ponsel tidak cukup untuk model suara (sekitar 100 MB).</string>
+    <string name="voice_mic_denied">Mushaf memerlukan mikrofon untuk mendengar bacaan Anda.</string>
+    <string name="voice_mic_blocked">Mikrofon dimatikan untuk Mushaf. Izinkan di pengaturan aplikasi.</string>
+    <string name="voice_nothing_heard">Tidak ada yang terdengar. Periksa mikrofon, lalu baca dekat ponsel.</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="allow">Izinkan</string>
+    <string name="open_settings">Buka pengaturan</string>
     <string name="collection_all">Semua</string>
     <string name="add_collection">+ Koleksi</string>
     <string name="new_collection">+ Koleksi baru</string>

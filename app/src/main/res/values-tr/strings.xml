@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">Ses modeli indirilemedi. Bağlantıyı kontrol edip tekrar deneyin.</string>
+    <string name="voice_no_space">Telefonda ses modeli için yeterli yer yok (yaklaşık 100 MB).</string>
+    <string name="voice_mic_denied">Mushaf\'ın okuyuşunuzu duyması için mikrofona ihtiyacı var.</string>
+    <string name="voice_mic_blocked">Mikrofon Mushaf için kapalı. Uygulama ayarlarından izin verin.</string>
+    <string name="voice_nothing_heard">Hiçbir şey duyulmadı. Mikrofonu kontrol edin, sonra telefona yakın okuyun.</string>
+    <string name="try_again">Tekrar dene</string>
+    <string name="allow">İzin ver</string>
+    <string name="open_settings">Ayarları aç</string>
     <string name="collection_all">Tümü</string>
     <string name="add_collection">+ Koleksiyon</string>
     <string name="new_collection">+ Yeni koleksiyon</string>

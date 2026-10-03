@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">Modeli ya sauti haikuweza kupakuliwa. Angalia mtandao kisha ujaribu tena.</string>
+    <string name="voice_no_space">Hakuna nafasi ya kutosha kwenye simu kwa modeli ya sauti (takriban MB 100).</string>
+    <string name="voice_mic_denied">Mushaf inahitaji maikrofoni ili kukusikia ukisoma.</string>
+    <string name="voice_mic_blocked">Maikrofoni imezimwa kwa Mushaf. Iruhusu kwenye mipangilio ya programu.</string>
+    <string name="voice_nothing_heard">Hakuna kilichosikika. Angalia maikrofoni, kisha usome karibu na simu.</string>
+    <string name="try_again">Jaribu tena</string>
+    <string name="allow">Ruhusu</string>
+    <string name="open_settings">Fungua mipangilio</string>
     <string name="collection_all">Zote</string>
     <string name="add_collection">+ Mkusanyiko</string>
     <string name="new_collection">+ Mkusanyiko mpya</string>

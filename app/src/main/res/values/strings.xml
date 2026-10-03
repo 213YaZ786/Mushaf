@@ -153,6 +153,14 @@
     <string name="end">End</string>
     <string name="hide_hint">Read it and listen, then hide the words.</string>
     <string name="recite_hint">Tap the page to recite, a word to see it, hold a word that slipped.</string>
+    <string name="voice_download_failed">The speech model could not be downloaded. Check the connection and try again.</string>
+    <string name="voice_no_space">Not enough room on the phone for the speech model (about 100 MB).</string>
+    <string name="voice_mic_denied">Mushaf needs the microphone to hear you recite.</string>
+    <string name="voice_mic_blocked">The microphone is turned off for Mushaf. Allow it in the app\'s settings.</string>
+    <string name="voice_nothing_heard">Nothing was heard. Check the microphone, then recite close to the phone.</string>
+    <string name="try_again">Try again</string>
+    <string name="allow">Allow</string>
+    <string name="open_settings">Open settings</string>
     <string name="mic_failed">The microphone could not be opened.</string>
     <string name="listening_recite">Listening: recite, the words show as you say them.</string>
     <string name="similar_prefix">"Similar: "</string>

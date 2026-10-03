@@ -49,12 +49,13 @@ import androidx.compose.ui.res.pluralStringResource
 import androidx.compose.ui.res.stringResource
 import org.mushaf.app.feature.common.TextControl
 import org.mushaf.app.feature.common.EvenRows
+import org.mushaf.app.feature.recite.VoiceNotice
+import org.mushaf.app.feature.recite.rememberVoiceGate
 import org.mushaf.app.feature.common.IconControl
 import org.mushaf.app.feature.common.NameDialog
 import org.mushaf.app.feature.common.ControlHeight
 import org.mushaf.app.ui.component.ChoiceDialog
 import org.mushaf.app.feature.recite.Recite
-import org.mushaf.app.feature.recite.ModelOffer
 import org.mushaf.app.data.stt.Recogniser
 import org.mushaf.app.core.stt.Find
 import org.mushaf.app.core.quran.Arabic
@@ -158,18 +159,19 @@ fun IndexScreen(onBack: () -> Unit) {
     val recite: Recite = koinInject()
     val recogniser: Recogniser = koinInject()
     val hearing by recite.state.collectAsState()
-    val modelReady by recogniser.ready.collectAsState()
     val context = LocalContext.current
+    val gate = rememberVoiceGate()
     val scope = rememberCoroutineScope()
     var heard by remember { mutableStateOf<Pair<String, List<Found>>?>(null) }
     var finding by remember { mutableStateOf<String?>(null) }
-    var offerModel by remember { mutableStateOf(false) }
     DisposableEffect(Unit) { onDispose { recite.reset() } }
     val startHearing = {
         query = ""
         heard = null
         finding = null
         recite.hear { text ->
+            // Silence (or a microphone giving nothing) is said, not shown as "nothing found".
+            if (text.isBlank()) { gate.nothingHeard(); haptics.reject(); return@hear }
             finding = context.getString(R.string.finding_ayah)
             scope.launch {
                 val ayat = quran.ayat()
@@ -183,32 +185,10 @@ fun IndexScreen(onBack: () -> Unit) {
             }
         }
     }
-    val askMic = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { granted -> if (granted) startHearing() }
     val listenToFind = {
         haptics.tick()
-        when {
-            hearing.listening -> recite.finish()
-            !modelReady -> offerModel = true
-            ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED -> startHearing()
-            else -> askMic.launch(Manifest.permission.RECORD_AUDIO)
-        }
+        if (hearing.listening) recite.finish() else gate.request { startHearing() }
     }
-    if (offerModel) ModelOffer(
-        onYes = {
-            offerModel = false
-            scope.launch {
-                finding = context.getString(R.string.downloading_model)
-                runCatching { recogniser.install { bytes -> finding = context.getString(R.string.downloading_model_progress, (bytes shr 20).toInt()) } }
-                    .onFailure { finding = null; haptics.reject() }
-                    .onSuccess {
-                        finding = null
-                        if (ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) startHearing()
-                        else askMic.launch(Manifest.permission.RECORD_AUDIO)
-                    }
-            }
-        },
-        onNo = { offerModel = false }
-    )
     val page by reader.page.collectAsState()
     var part by rememberSaveable { mutableStateOf(Part.SURAHS) }
     val hafs = remember { FontFamily(Font(R.font.uthmanic_hafs)) }
@@ -260,6 +240,7 @@ fun IndexScreen(onBack: () -> Unit) {
                 textAlign = TextAlign.Center,
                 modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp).padding(bottom = 8.dp)
             )
+            VoiceNotice(gate, Modifier.padding(horizontal = 16.dp).padding(bottom = 8.dp))
         }
     ) { padding ->
         val m = meta ?: return@FloatingFrame

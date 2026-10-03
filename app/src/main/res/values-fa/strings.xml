@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">مدل صوتی بارگیری نشد. اتصال را بررسی کنید و دوباره تلاش کنید.</string>
+    <string name="voice_no_space">فضای کافی در گوشی برای مدل صوتی نیست (حدود 100 MB).</string>
+    <string name="voice_mic_denied">مصحف برای شنیدن تلاوت شما به میکروفون نیاز دارد.</string>
+    <string name="voice_mic_blocked">میکروفون برای مصحف خاموش است. در تنظیمات برنامه اجازه دهید.</string>
+    <string name="voice_nothing_heard">چیزی شنیده نشد. میکروفون را بررسی کنید، سپس نزدیک گوشی تلاوت کنید.</string>
+    <string name="try_again">تلاش دوباره</string>
+    <string name="allow">اجازه دادن</string>
+    <string name="open_settings">باز کردن تنظیمات</string>
     <string name="collection_all">همه</string>
     <string name="add_collection">+ مجموعه</string>
     <string name="new_collection">+ مجموعهٔ تازه</string>

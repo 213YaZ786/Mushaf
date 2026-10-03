@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">Het spraakmodel kon niet worden gedownload. Controleer de verbinding en probeer opnieuw.</string>
+    <string name="voice_no_space">Niet genoeg ruimte op de telefoon voor het spraakmodel (ongeveer 100 MB).</string>
+    <string name="voice_mic_denied">Mushaf heeft de microfoon nodig om je te horen reciteren.</string>
+    <string name="voice_mic_blocked">De microfoon staat uit voor Mushaf. Sta hem toe in de app-instellingen.</string>
+    <string name="voice_nothing_heard">Er is niets gehoord. Controleer de microfoon en reciteer dicht bij de telefoon.</string>
+    <string name="try_again">Opnieuw proberen</string>
+    <string name="allow">Toestaan</string>
+    <string name="open_settings">Instellingen openen</string>
     <string name="collection_all">Alles</string>
     <string name="add_collection">+ Collectie</string>
     <string name="new_collection">+ Nieuwe collectie</string>

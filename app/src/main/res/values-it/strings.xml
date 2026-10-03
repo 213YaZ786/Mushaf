@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">Impossibile scaricare il modello vocale. Controlla la connessione e riprova.</string>
+    <string name="voice_no_space">Spazio insufficiente sul telefono per il modello vocale (circa 100 MB).</string>
+    <string name="voice_mic_denied">Mushaf ha bisogno del microfono per sentirti recitare.</string>
+    <string name="voice_mic_blocked">Il microfono è disattivato per Mushaf. Consentilo nelle impostazioni dell\'app.</string>
+    <string name="voice_nothing_heard">Non si è sentito nulla. Controlla il microfono, poi recita vicino al telefono.</string>
+    <string name="try_again">Riprova</string>
+    <string name="allow">Consenti</string>
+    <string name="open_settings">Apri impostazioni</string>
     <string name="collection_all">Tutti</string>
     <string name="add_collection">+ Raccolta</string>
     <string name="new_collection">+ Nuova raccolta</string>

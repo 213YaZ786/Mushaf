@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_download_failed">Modeli i zërit nuk u shkarkua. Kontrolloni lidhjen dhe provoni sërish.</string>
+    <string name="voice_no_space">Nuk ka hapësirë të mjaftueshme në telefon për modelin e zërit (rreth 100 MB).</string>
+    <string name="voice_mic_denied">Mushaf ka nevojë për mikrofonin që t\'ju dëgjojë duke lexuar.</string>
+    <string name="voice_mic_blocked">Mikrofoni është i çaktivizuar për Mushaf. Lejojeni te cilësimet e aplikacionit.</string>
+    <string name="voice_nothing_heard">Asgjë nuk u dëgjua. Kontrolloni mikrofonin, pastaj lexoni pranë telefonit.</string>
+    <string name="try_again">Provo sërish</string>
+    <string name="allow">Lejo</string>
+    <string name="open_settings">Hap cilësimet</string>
     <string name="collection_all">Të gjitha</string>
     <string name="add_collection">+ Koleksion</string>
     <string name="new_collection">+ Koleksion i ri</string>
