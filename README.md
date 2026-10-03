@@ -18,7 +18,8 @@ to learn it by heart. No account, no tracking, no ads.
   so that no page is forgotten; similar ayat pointed out; recite to the
   phone and each word shows as you say it.
 - Play: Juz 'Amma for children, five games and three stars a surah.
-- A daily reminder of your wird, unless you have read already that day.
+- A khatmah in 7 to 60 days: the day's pages, followed as you turn them.
+- A daily reminder of your wird or of the khatmah's pages, unless they are read.
 - Everything can be kept on the phone to read and listen offline.
 
 ## Install

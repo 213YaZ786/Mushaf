@@ -56,6 +56,7 @@ import androidx.core.view.WindowInsetsControllerCompat
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.data.khatmah.Khatmah
 import org.mushaf.app.data.quran.Script
 import androidx.compose.animation.AnimatedContent
 import androidx.compose.animation.togetherWith
@@ -143,6 +144,8 @@ fun MushafScreen(
     var chrome by rememberSaveable { mutableStateOf(true) }
     var opened by remember { mutableStateOf<Word?>(null) }
     var legend by remember { mutableStateOf(false) }
+    var khatmahOpen by remember { mutableStateOf(false) }
+    val khatmah: Khatmah = koinInject()
     val reduce = reducedMotion()
     // A riwayah just chosen: its name in the top pill a moment, the pages written again.
     val riwayat: Riwayat = koinInject()
@@ -203,6 +206,7 @@ fun MushafScreen(
             snapshotFlow { pager.currentPage }.distinctUntilChanged().collect { item ->
                 val first = item * perItem + 1
                 reader.shown(first)
+                khatmah.shown(first + perItem - 1, perItem)
                 fonts.prefetch(settings.script, (first - 2)..(first + perItem + 2))
             }
         }
@@ -293,7 +297,7 @@ fun MushafScreen(
                     }
                 }
                 AnimatedVisibility(
-                    visible = chrome && opened == null && !legend && !heard.active && session == null,
+                    visible = chrome && opened == null && !legend && !khatmahOpen && !heard.active && session == null,
                     enter = fadeIn() + scaleIn(initialScale = 0.9f),
                     exit = fadeOut() + scaleOut(targetScale = 0.9f),
                     modifier = Modifier.align(Alignment.BottomCenter).navigationBarsPadding().padding(bottom = 16.dp)
@@ -314,11 +318,19 @@ fun MushafScreen(
                         FloatingAction(AppIcons.Translate, "Read with meaning", {
                             scope.launch { onOpenMeaning(quran.firstAyah(current)) }
                         })
-                        PagePill(current, if (spread) current + 1 else null, juz, quarter)
+                        PagePill(current, if (spread) current + 1 else null, juz, quarter) { haptics.tick(); khatmahOpen = true }
                         FloatingAction(AppIcons.Play, "Listen", {
                             scope.launch { listen.play(quran.firstAyah(current)) }
                         })
                     }
+                }
+                AnimatedVisibility(
+                    visible = khatmahOpen && opened == null,
+                    enter = fadeIn() + slideInVertically { it / 2 },
+                    exit = fadeOut() + slideOutVertically { it / 2 },
+                    modifier = Modifier.align(Alignment.BottomCenter)
+                ) {
+                    KhatmahSheet(current, onGo = { p -> khatmahOpen = false; reader.go(p) }) { khatmahOpen = false }
                 }
                 AnimatedVisibility(
                     visible = legend && opened == null,
@@ -419,6 +431,7 @@ fun MushafScreen(
                                                 when {
                                                     opened != null -> opened = null
                                                     legend -> legend = false
+                                                    khatmahOpen -> khatmahOpen = false
                                                     else -> chrome = !chrome
                                                 }
                                             },
@@ -487,8 +500,9 @@ private fun pageSurah(pageStart: List<String>, page: Int): Int? =
     pageStart.getOrNull(page - 1)?.let { AyahKey.parse(it)?.surah }
 
 @Composable
-private fun PagePill(page: Int, second: Int?, juz: Int?, quarter: Int?) {
-    FloatingPane(shape = CircleShape) {
+private fun PagePill(page: Int, second: Int?, juz: Int?, quarter: Int?, onClick: () -> Unit) {
+    // A tap opens the khatmah.
+    FloatingPane(shape = CircleShape, onClick = onClick) {
         val pages = if (second != null) "Pages $page–$second" else "Page $page"
         val place = buildList {
             juz?.let { add("Juz $it") }

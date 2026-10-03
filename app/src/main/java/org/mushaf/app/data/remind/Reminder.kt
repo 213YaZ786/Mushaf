@@ -23,6 +23,7 @@ import org.koin.core.component.inject
 import org.mushaf.app.MainActivity
 import org.mushaf.app.R
 import org.mushaf.app.data.hifz.Hifz
+import org.mushaf.app.data.khatmah.Khatmah
 import org.mushaf.app.data.quran.Quran
 import org.mushaf.app.data.settings.SettingsStore
 
@@ -69,11 +70,15 @@ class ReminderWorker(context: Context, params: WorkerParameters) : CoroutineWork
     private val settings: SettingsStore by inject()
     private val quran: Quran by inject()
     private val hifz: Hifz by inject()
+    private val khatmah: Khatmah by inject()
 
     override suspend fun doWork(): Result {
         val s = settings.current
         try {
-            if (s.reminder && s.readDay != Reminder.today()) notifyWird()
+            // With a khatmah, quiet once the day's pages are read; without one, once the mushaf was opened.
+            val plan = khatmah.plan.value?.takeIf { !it.finished }
+            val due = if (plan != null) !plan.portion(Reminder.today()).done else s.readDay != Reminder.today()
+            if (s.reminder && due) notifyWird()
         } finally {
             Reminder.schedule(applicationContext, settings, ExistingWorkPolicy.APPEND_OR_REPLACE)
         }
@@ -83,9 +88,16 @@ class ReminderWorker(context: Context, params: WorkerParameters) : CoroutineWork
     private suspend fun notifyWird() {
         val context = applicationContext
         if (ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) return
-        val page = settings.current.page
+        val plan = khatmah.plan.value?.takeIf { !it.finished }
+        val portion = plan?.portion(Reminder.today())
+        val page = portion?.fromPage ?: settings.current.page
         val surah = runCatching { quran.surah(quran.firstAyah(page).surah).name }.getOrNull()
-        val where = if (surah != null) "Continue at $surah, page $page." else "Continue at page $page."
+        val where = when {
+            portion != null && portion.toPage > portion.fromPage -> "Khatmah: pages ${portion.fromPage}–${portion.toPage} today" + (surah?.let { ", from $it." } ?: ".")
+            portion != null -> "Khatmah: page ${portion.fromPage} today" + (surah?.let { ", $it." } ?: ".")
+            surah != null -> "Continue at $surah, page $page."
+            else -> "Continue at page $page."
+        }
         val lesson = runCatching { hifz.lesson() }.getOrDefault(emptyList())
         val revise = runCatching { hifz.revision().let { it.recent.size + it.due.size } }.getOrDefault(0)
         val hifzLine = buildList {
