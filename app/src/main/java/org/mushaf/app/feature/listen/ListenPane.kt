@@ -24,6 +24,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import org.koin.compose.koinInject
+import kotlinx.coroutines.delay
 import org.mushaf.app.data.audio.Recitations
 import org.mushaf.app.data.quran.Quran
 import org.mushaf.app.data.settings.SettingsStore
@@ -94,6 +95,34 @@ fun ListenPane(modifier: Modifier = Modifier) {
                 Chip("${settings.speed}×".replace(".0×", "×")) {
                     haptics.tick()
                     listen.setSpeed(SPEEDS[(SPEEDS.indexOf(settings.speed).coerceAtLeast(0) + 1) % SPEEDS.size])
+                }
+                // Sleep: in 15, 30 or 60 minutes, at the end of the surah, or not.
+                val sleep by listen.sleep.collectAsState()
+                val left by produceState(0, sleep) {
+                    while (true) {
+                        value = (sleep as? Sleep.At)?.let { ((it.at - System.currentTimeMillis() + 59_999) / 60_000).toInt() } ?: 0
+                        delay(15_000)
+                    }
+                }
+                Chip(
+                    when (val s = sleep) {
+                        null -> "Sleep"
+                        Sleep.SurahEnd -> "Stops at the surah's end"
+                        is Sleep.At -> "Stops in $left min"
+                    }
+                ) {
+                    haptics.tick()
+                    listen.setSleep(
+                        when (val s = sleep) {
+                            null -> Sleep.At(System.currentTimeMillis() + 15 * 60_000L, 15)
+                            is Sleep.At -> when (s.minutes) {
+                                15 -> Sleep.At(System.currentTimeMillis() + 30 * 60_000L, 30)
+                                30 -> Sleep.At(System.currentTimeMillis() + 60 * 60_000L, 60)
+                                else -> Sleep.SurahEnd
+                            }
+                            Sleep.SurahEnd -> null
+                        }
+                    )
                 }
                 FloatingAction(AppIcons.Headphones, "Reciter", { choosing = true })
                 FloatingAction(AppIcons.Close, "Stop", { haptics.tick(); listen.stop() })

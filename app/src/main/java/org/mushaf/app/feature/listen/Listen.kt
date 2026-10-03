@@ -32,6 +32,12 @@ import org.mushaf.app.data.quran.Quran
 import org.mushaf.app.data.settings.SettingsStore
 
 /** What the recitation is doing, for the screens. */
+/** When the recitation stops by itself: at a time (millis), or at the end of the surah. */
+sealed interface Sleep {
+    data class At(val at: Long, val minutes: Int) : Sleep
+    data object SurahEnd : Sleep
+}
+
 data class ListenState(
     val active: Boolean = false,
     val playing: Boolean = false,
@@ -167,6 +173,7 @@ class Listen(
     }
 
     fun stop() {
+        setSleep(null)
         ticker?.cancel()
         controller?.stop()
         controller?.clearMediaItems()
@@ -252,6 +259,34 @@ class Listen(
         }
     }
 
+    private val _sleep = MutableStateFlow<Sleep?>(null)
+
+    /** When the recitation stops by itself, if it does. */
+    val sleep: StateFlow<Sleep?> = _sleep.asStateFlow()
+    private var sleepJob: Job? = null
+
+    fun setSleep(s: Sleep?) {
+        sleepJob?.cancel()
+        _sleep.value = s
+        if (s is Sleep.At) sleepJob = scope.launch {
+            delay((s.at - System.currentTimeMillis()).coerceAtLeast(0))
+            fadeAndPause()
+        }
+    }
+
+    /** The voice lowered over ten seconds, then paused, the volume as it was for the next time. */
+    private suspend fun fadeAndPause() {
+        val c = controller ?: return
+        val volume = c.volume
+        for (i in 1..20) {
+            c.volume = volume * (1f - i / 20f)
+            delay(500)
+        }
+        c.pause()
+        c.volume = volume
+        _sleep.value = null
+    }
+
     /** At the end of a surah: its last ayah repeated if asked, else on to the next surah. */
     private suspend fun surahEnded() {
         val a = audio ?: return
@@ -267,6 +302,12 @@ class Listen(
             if (r.start.surah == a.surah) {
                 a.ayat.firstOrNull { it.key == r.start }?.let { c.seekTo(it.from); startRepeats(it); c.play(); return }
             }
+        }
+        if (_sleep.value == Sleep.SurahEnd) {
+            // Asked to stop at the end of the surah.
+            _sleep.value = null
+            _state.update { it.copy(playing = false) }
+            return
         }
         if (a.surah < 114 && settings.current.continuePlaying) play(AyahKey(a.surah + 1, 1)) else _state.update { it.copy(playing = false) }
     }

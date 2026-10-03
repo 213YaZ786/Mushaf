@@ -13,7 +13,8 @@ to learn it by heart. No account, no tracking, no ads.
 - Read with the meaning: word by word, more than 380 translations in about
   100 languages, ten books of tafsir in English and Arabic.
 - Listen to 13 reciters in Hafs and 5 in Warsh: the word recited lights up and the page turns
-  with the voice; an ayah or a passage repeated as often as you like.
+  with the voice; an ayah or a passage repeated as often as you like; a
+  sleep timer, or a stop at the end of the surah.
 - Hifz: a new lesson each day and the revision of what you know, spaced
   so that no page is forgotten; similar ayat pointed out; recite to the
   phone and each word shows as you say it.
