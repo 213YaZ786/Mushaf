@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="collection_all">Semua</string>
+    <string name="add_collection">+ Koleksi</string>
+    <string name="new_collection">+ Koleksi baharu</string>
+    <string name="collection_name">Nama koleksi</string>
+    <string name="no_collection">Tiada koleksi</string>
+    <string name="put_in_collection">Masukkan ke dalam koleksi</string>
+    <string name="collection_forgotten">Ayat-ayatnya kekal disimpan, di luar mana-mana koleksi.</string>
+    <string name="collection_empty">Belum ada apa-apa dalam koleksi ini</string>
+    <string name="collection_empty_hint">Ketik folder ayat yang disimpan untuk meletakkannya di sini.</string>
     <string name="games">Bermain</string>
     <string name="language">Bahasa</string>
     <string name="language_system">Sama seperti telefon</string>

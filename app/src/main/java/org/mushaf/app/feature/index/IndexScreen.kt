@@ -3,6 +3,7 @@ package org.mushaf.app.feature.index
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
 import androidx.compose.foundation.layout.FlowRow
@@ -48,6 +49,10 @@ import androidx.compose.ui.res.pluralStringResource
 import androidx.compose.ui.res.stringResource
 import org.mushaf.app.feature.common.TextControl
 import org.mushaf.app.feature.common.EvenRows
+import org.mushaf.app.feature.common.IconControl
+import org.mushaf.app.feature.common.NameDialog
+import org.mushaf.app.feature.common.ControlHeight
+import org.mushaf.app.ui.component.ChoiceDialog
 import org.mushaf.app.feature.recite.Recite
 import org.mushaf.app.feature.recite.ModelOffer
 import org.mushaf.app.data.stt.Recogniser
@@ -105,6 +110,38 @@ fun IndexScreen(onBack: () -> Unit) {
     val store: SettingsStore = koinInject()
     val saved by marks.marks.collectAsState()
     var query by rememberSaveable { mutableStateOf("") }
+    // Saved: the collection shown (all when null), and the dialogs about collections.
+    var collection by rememberSaveable { mutableStateOf<String?>(null) }
+    var adding by remember { mutableStateOf(false) }
+    var editing by remember { mutableStateOf<String?>(null) }
+    var filing by remember { mutableStateOf<AyahKey?>(null) }
+    var filingNew by remember { mutableStateOf<AyahKey?>(null) }
+    if (adding) NameDialog(stringResource(R.string.collection_name), "", onDone = { if (marks.addCollection(it)) collection = it.trim(); adding = false }, onCancel = { adding = false })
+    editing?.let { c ->
+        NameDialog(
+            stringResource(R.string.collection_name), c,
+            onDone = { marks.renameCollection(c, it); if (collection == c) collection = it.trim(); editing = null },
+            onCancel = { editing = null },
+            onRemove = { marks.removeCollection(c); collection = null; editing = null },
+            removeNote = stringResource(R.string.collection_forgotten)
+        )
+    }
+    filing?.let { key ->
+        val names = saved.collections
+        ChoiceDialog(
+            title = stringResource(R.string.put_in_collection),
+            options = listOf<Pair<String?, String>>(null to stringResource(R.string.no_collection)) + names.map { it to it } + (NEW_COLLECTION to stringResource(R.string.new_collection)),
+            selected = saved.bookmarks.firstOrNull { it.key == key }?.collection,
+            onSelect = { c -> if (c == NEW_COLLECTION) filingNew = key else marks.file(key, c); filing = null },
+            onDismiss = { filing = null }
+        )
+    }
+    filingNew?.let { key ->
+        NameDialog(stringResource(R.string.collection_name), "", onDone = { name ->
+            if (marks.addCollection(name) || name.trim() in saved.collections) marks.file(key, name.trim())
+            filingNew = null
+        }, onCancel = { filingNew = null })
+    }
     // "Seite 50", "صفحة 50": the word for page as the reader writes it.
     val pageWords = listOf(stringResource(R.string.page_title, 0), stringResource(R.string.page_n, 0))
         .map { w -> w.filterNot { it.isDigit() }.trim().lowercase() }.toSet()
@@ -275,18 +312,32 @@ fun IndexScreen(onBack: () -> Unit) {
                     HizbRow(h, m, page, open)
                 }
                 Part.SAVED -> {
-                    val keys = (saved.bookmarks.map { it.key } + saved.notes.map { it.key }).distinct().sorted()
+                    val all = (saved.bookmarks.map { it.key } + saved.notes.map { it.key }).distinct().sorted()
+                    val shown = collection?.takeIf { it in saved.collections }
+                    val keys = if (shown == null) all else saved.bookmarks.filter { it.collection == shown }.map { it.key }.sorted()
+                    // The reader's collections, to show one; tapping the one shown renames or removes it.
+                    if (all.isNotEmpty()) item {
+                        EvenRows(minSlot = 96.dp) {
+                            TextControl(stringResource(R.string.collection_all), { collection = null }, accent = shown == null)
+                            for (c in saved.collections) TextControl(c, { if (c == shown) editing = c else collection = c }, accent = c == shown)
+                            TextControl(stringResource(R.string.add_collection), { adding = true })
+                        }
+                    }
                     if (keys.isEmpty()) item {
-                        EmptyZone(
+                        if (shown == null) EmptyZone(
                             stringResource(R.string.nothing_saved),
                             stringResource(R.string.nothing_saved_hint),
                             icon = AppIcons.BookmarkOutline
+                        ) else EmptyZone(
+                            stringResource(R.string.collection_empty),
+                            stringResource(R.string.collection_empty_hint),
+                            icon = AppIcons.Folder
                         )
                     }
                     items(keys, key = { it.toString() }) { key ->
                         val note = saved.notes.firstOrNull { it.key == key }?.text
-                        val marked = saved.bookmarks.any { it.key == key }
-                        SavedRow(key, m.surahs[key.surah - 1].title, marked, note) { scope ->
+                        val mark = saved.bookmarks.firstOrNull { it.key == key }
+                        SavedRow(key, m.surahs[key.surah - 1].title, mark != null, mark?.collection.takeIf { shown == null }, note, onFile = { filing = key }) { scope ->
                             scope.launch { openAyah(key, quran.pageOf(key)) }
                         }
                     }
@@ -347,15 +398,25 @@ private fun SearchResults(
 }
 
 @Composable
-private fun SavedRow(key: AyahKey, surah: String, bookmarked: Boolean, note: String?, onClick: (kotlinx.coroutines.CoroutineScope) -> Unit) {
+private fun SavedRow(
+    key: AyahKey,
+    surah: String,
+    bookmarked: Boolean,
+    collection: String?,
+    note: String?,
+    onFile: () -> Unit,
+    onClick: (kotlinx.coroutines.CoroutineScope) -> Unit
+) {
     val scope = rememberCoroutineScope()
     ZoneSurface(shape = RoundedCornerShape(22.dp), onClick = { onClick(scope) }, modifier = Modifier.fillMaxWidth()) {
-        Row(Modifier.padding(horizontal = 16.dp, vertical = 12.dp), verticalAlignment = Alignment.CenterVertically) {
+        Row(Modifier.padding(start = 16.dp, end = 8.dp, top = 12.dp, bottom = 12.dp), verticalAlignment = Alignment.CenterVertically) {
             Column(Modifier.weight(1f)) {
                 Text("$surah $key", style = MaterialTheme.typography.titleMedium)
+                if (collection != null) Text(collection, style = MaterialTheme.typography.labelMedium, color = MaterialTheme.colorScheme.primary)
                 if (note != null) Text(note, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 3, overflow = TextOverflow.Ellipsis)
             }
             if (bookmarked) Icon(AppIcons.Bookmark, contentDescription = stringResource(R.string.bookmarked), tint = MaterialTheme.colorScheme.primary)
+            Box(Modifier.padding(start = 4.dp).width(ControlHeight)) { IconControl(AppIcons.Folder, stringResource(R.string.put_in_collection), onFile) }
         }
     }
 }
@@ -450,3 +511,6 @@ private fun Number(n: Int) {
         }
     }
 }
+
+/** The choice that makes a new collection, apart from any name the reader could type. */
+private const val NEW_COLLECTION = "\u0000new"

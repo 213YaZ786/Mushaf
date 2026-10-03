@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="collection_all">Akk</string>
+    <string name="add_collection">+ Tagrumma</string>
+    <string name="new_collection">+ Tagrumma tamaynut</string>
+    <string name="collection_name">Isem n tegrumma</string>
+    <string name="no_collection">Ulac tagrumma</string>
+    <string name="put_in_collection">Sers deg tegrumma</string>
+    <string name="collection_forgotten">Tiyyatin-is qqiment ttwaḥerzent, berra n yal tagrumma.</string>
+    <string name="collection_empty">Ulac kra deg tegrumma-a yakan</string>
+    <string name="collection_empty_hint">Sit ɣef ukaram n tayett yettwaḥerzen akken ad tt-tserseḍ da.</string>
     <string name="games">Uraren</string>
     <string name="meccan">Tamakkit</string>
     <string name="medinan">Tamadanit</string>

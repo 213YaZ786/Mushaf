@@ -220,6 +220,15 @@
     <string name="listening_find">Listening: recite a few words, then tap the microphone.</string>
     <string name="nothing_saved">Nothing saved yet</string>
     <string name="nothing_saved_hint">Long press an ayah in the mushaf to bookmark it or write a note.</string>
+    <string name="collection_all">All</string>
+    <string name="add_collection">+ Collection</string>
+    <string name="new_collection">+ New collection</string>
+    <string name="collection_name">Collection name</string>
+    <string name="no_collection">No collection</string>
+    <string name="put_in_collection">Put in a collection</string>
+    <string name="collection_forgotten">Its ayat stay saved, outside any collection.</string>
+    <string name="collection_empty">Nothing in this collection yet</string>
+    <string name="collection_empty_hint">Tap the folder of a saved ayah to put it here.</string>
     <string name="bookmarked">Bookmarked</string>
     <string name="playback_failed">Could not be played. Check the connection.</string>
     <string name="starting">Starting…</string>

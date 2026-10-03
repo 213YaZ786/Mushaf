@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="collection_all">همه</string>
+    <string name="add_collection">+ مجموعه</string>
+    <string name="new_collection">+ مجموعهٔ تازه</string>
+    <string name="collection_name">نام مجموعه</string>
+    <string name="no_collection">بدون مجموعه</string>
+    <string name="put_in_collection">گذاشتن در مجموعه</string>
+    <string name="collection_forgotten">آیه‌هایش ذخیره می‌مانند، بیرون از هر مجموعه.</string>
+    <string name="collection_empty">هنوز چیزی در این مجموعه نیست</string>
+    <string name="collection_empty_hint">برای گذاشتن آیه‌ای ذخیره‌شده در اینجا، پوشهٔ آن را لمس کنید.</string>
     <string name="games">بازی</string>
     <string name="language">زبان</string>
     <string name="language_system">مانند گوشی</string>

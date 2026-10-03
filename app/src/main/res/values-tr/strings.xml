@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="collection_all">Tümü</string>
+    <string name="add_collection">+ Koleksiyon</string>
+    <string name="new_collection">+ Yeni koleksiyon</string>
+    <string name="collection_name">Koleksiyon adı</string>
+    <string name="no_collection">Koleksiyon yok</string>
+    <string name="put_in_collection">Bir koleksiyona koy</string>
+    <string name="collection_forgotten">Ayetleri kayıtlı kalır, hiçbir koleksiyonda olmadan.</string>
+    <string name="collection_empty">Bu koleksiyonda henüz bir şey yok</string>
+    <string name="collection_empty_hint">Buraya koymak için kayıtlı bir ayetin klasörüne dokunun.</string>
     <string name="games">Oyunlar</string>
     <string name="language">Dil</string>
     <string name="language_system">Telefonla aynı</string>

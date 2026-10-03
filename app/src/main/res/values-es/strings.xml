@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="collection_all">Todo</string>
+    <string name="add_collection">+ Colección</string>
+    <string name="new_collection">+ Nueva colección</string>
+    <string name="collection_name">Nombre de la colección</string>
+    <string name="no_collection">Sin colección</string>
+    <string name="put_in_collection">Poner en una colección</string>
+    <string name="collection_forgotten">Sus aleyas siguen guardadas, fuera de toda colección.</string>
+    <string name="collection_empty">Nada en esta colección todavía</string>
+    <string name="collection_empty_hint">Toca la carpeta de una aleya guardada para ponerla aquí.</string>
     <string name="games">Juegos</string>
     <string name="meccan">Mecana</string>
     <string name="medinan">Medinense</string>

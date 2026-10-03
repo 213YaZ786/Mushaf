@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="collection_all">Все</string>
+    <string name="add_collection">+ Подборка</string>
+    <string name="new_collection">+ Новая подборка</string>
+    <string name="collection_name">Название подборки</string>
+    <string name="no_collection">Без подборки</string>
+    <string name="put_in_collection">Положить в подборку</string>
+    <string name="collection_forgotten">Её аяты остаются сохранёнными, вне подборок.</string>
+    <string name="collection_empty">В этой подборке пока ничего нет</string>
+    <string name="collection_empty_hint">Коснитесь папки сохранённого аята, чтобы положить его сюда.</string>
     <string name="games">Игры</string>
     <string name="language">Язык</string>
     <string name="language_system">Как на телефоне</string>

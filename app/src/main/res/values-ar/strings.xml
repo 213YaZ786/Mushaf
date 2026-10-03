@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="collection_all">الكل</string>
+    <string name="add_collection">+ مجموعة</string>
+    <string name="new_collection">+ مجموعة جديدة</string>
+    <string name="collection_name">اسم المجموعة</string>
+    <string name="no_collection">بلا مجموعة</string>
+    <string name="put_in_collection">ضعها في مجموعة</string>
+    <string name="collection_forgotten">تبقى آياتها محفوظة، خارج أي مجموعة.</string>
+    <string name="collection_empty">لا شيء في هذه المجموعة بعد</string>
+    <string name="collection_empty_hint">المس مجلد آية محفوظة لتضعها هنا.</string>
     <string name="games">ألعاب</string>
     <string name="meccan">مكية</string>
     <string name="medinan">مدنية</string>

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="collection_all">সব</string>
+    <string name="add_collection">+ সংকলন</string>
+    <string name="new_collection">+ নতুন সংকলন</string>
+    <string name="collection_name">সংকলনের নাম</string>
+    <string name="no_collection">কোনো সংকলন নয়</string>
+    <string name="put_in_collection">সংকলনে রাখুন</string>
+    <string name="collection_forgotten">এর আয়াতগুলো সংরক্ষিত থাকে, কোনো সংকলনের বাইরে।</string>
+    <string name="collection_empty">এই সংকলনে এখনো কিছু নেই</string>
+    <string name="collection_empty_hint">এখানে রাখতে সংরক্ষিত আয়াতের ফোল্ডারে ট্যাপ করুন।</string>
     <string name="games">খেলা</string>
     <string name="language">ভাষা</string>
     <string name="language_system">ফোনের মতো</string>

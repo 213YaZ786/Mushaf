@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="collection_all">سب</string>
+    <string name="add_collection">+ مجموعہ</string>
+    <string name="new_collection">+ نیا مجموعہ</string>
+    <string name="collection_name">مجموعے کا نام</string>
+    <string name="no_collection">کوئی مجموعہ نہیں</string>
+    <string name="put_in_collection">مجموعے میں رکھیں</string>
+    <string name="collection_forgotten">اس کی آیات محفوظ رہتی ہیں، کسی مجموعے سے باہر۔</string>
+    <string name="collection_empty">اس مجموعے میں ابھی کچھ نہیں</string>
+    <string name="collection_empty_hint">کسی محفوظ آیت کا فولڈر چھوئیں تاکہ اسے یہاں رکھیں۔</string>
     <string name="games">کھیل</string>
     <string name="language">زبان</string>
     <string name="language_system">فون کی طرح</string>

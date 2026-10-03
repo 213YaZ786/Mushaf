@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="collection_all">Tutti</string>
+    <string name="add_collection">+ Raccolta</string>
+    <string name="new_collection">+ Nuova raccolta</string>
+    <string name="collection_name">Nome della raccolta</string>
+    <string name="no_collection">Nessuna raccolta</string>
+    <string name="put_in_collection">Metti in una raccolta</string>
+    <string name="collection_forgotten">I suoi versetti restano salvati, fuori da ogni raccolta.</string>
+    <string name="collection_empty">Ancora niente in questa raccolta</string>
+    <string name="collection_empty_hint">Tocca la cartella di un versetto salvato per metterlo qui.</string>
     <string name="games">Giochi</string>
     <string name="meccan">Meccana</string>
     <string name="medinan">Medinese</string>

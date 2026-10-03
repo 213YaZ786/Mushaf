@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="collection_all">Alles</string>
+    <string name="add_collection">+ Collectie</string>
+    <string name="new_collection">+ Nieuwe collectie</string>
+    <string name="collection_name">Naam van de collectie</string>
+    <string name="no_collection">Geen collectie</string>
+    <string name="put_in_collection">In een collectie zetten</string>
+    <string name="collection_forgotten">De verzen blijven bewaard, buiten elke collectie.</string>
+    <string name="collection_empty">Nog niets in deze collectie</string>
+    <string name="collection_empty_hint">Tik op de map van een bewaard vers om het hier te zetten.</string>
     <string name="games">Spelen</string>
     <string name="meccan">Mekkaans</string>
     <string name="medinan">Medinees</string>

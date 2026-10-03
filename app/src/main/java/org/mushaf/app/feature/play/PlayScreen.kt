@@ -42,6 +42,7 @@ import androidx.compose.ui.res.stringResource
 import org.mushaf.app.ui.component.ZoneAlertDialog
 import org.mushaf.app.feature.common.TextControl
 import org.mushaf.app.feature.common.EvenRows
+import org.mushaf.app.feature.common.NameDialog
 import org.mushaf.app.data.play.Child
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.mutableStateOf
@@ -110,7 +111,8 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
                     stringResource(R.string.childs_name_of, c.name), c.name,
                     onDone = { stars.rename(c.id, it); editing = null },
                     onCancel = { editing = null },
-                    onRemove = { stars.remove(c.id); editing = null }
+                    onRemove = { stars.remove(c.id); editing = null },
+                    removeNote = stringResource(R.string.stars_forgotten)
                 )
             }
             val total = won.values.sumOf { it.size }
@@ -150,27 +152,3 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
     }
 }
 
-/** A child's name, to add or change; removing forgets their stars. */
-@Composable
-private fun NameDialog(title: String, initial: String, onDone: (String) -> Unit, onCancel: () -> Unit, onRemove: (() -> Unit)? = null) {
-    var name by remember { mutableStateOf(initial) }
-    var removing by remember { mutableStateOf(false) }
-    ZoneAlertDialog(
-        onDismissRequest = onCancel,
-        title = { Text(if (removing) stringResource(R.string.remove_q, initial) else title) },
-        text = {
-            if (removing) Text(stringResource(R.string.stars_forgotten))
-            else OutlinedTextField(value = name, onValueChange = { name = it.take(30) }, singleLine = true, modifier = Modifier.fillMaxWidth())
-        },
-        confirmButton = {
-            if (removing) TextButton(onClick = { onRemove?.invoke() }) { Text(stringResource(R.string.remove)) }
-            else TextButton(onClick = { onDone(name) }, enabled = name.isNotBlank()) { Text(stringResource(R.string.save)) }
-        },
-        dismissButton = {
-            Row {
-                if (onRemove != null && !removing) TextButton(onClick = { removing = true }) { Text(stringResource(R.string.remove)) }
-                TextButton(onClick = onCancel) { Text(stringResource(R.string.cancel)) }
-            }
-        }
-    )
-}
