@@ -51,8 +51,10 @@ fun ComponentActivity.MushafSurface(content: @Composable () -> Unit) {
     }
 
     MushafTheme(darkTheme = dark, pureBlack = settings.pureBlack, textScale = settings.textScale) {
-        // The ground takes the phone's Material You colour, not only its halos:
-        // a soft wash of its main tone under every window, glass or not.
+        // Under glass the ground takes the phone's Material You colour, not only
+        // its halos: a soft wash of its main tone under every window. Without
+        // glass the zones carry that colour, so the ground stays plain to set
+        // them apart.
         val scheme = MaterialTheme.colorScheme
         val ground = remember(scheme, dark) {
             scheme.primaryContainer.copy(alpha = if (dark) 0.22f else 0.38f).compositeOver(scheme.background)
@@ -64,7 +66,7 @@ fun ComponentActivity.MushafSurface(content: @Composable () -> Unit) {
         // Text and icons take the theme's colour in every window: without it
         // Compose draws them black, unreadable on a dark ground.
         CompositionLocalProvider(LocalGlass provides look, LocalContentColor provides MaterialTheme.colorScheme.onBackground) {
-            Box(Modifier.fillMaxSize().glassGround(look, ground)) {
+            Box(Modifier.fillMaxSize().glassGround(look, MaterialTheme.colorScheme.background)) {
                 content()
             }
         }
