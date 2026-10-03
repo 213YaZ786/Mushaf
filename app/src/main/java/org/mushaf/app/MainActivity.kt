@@ -2,6 +2,9 @@ package org.mushaf.app
 
 import android.content.Intent
 import android.os.Bundle
+import androidx.lifecycle.lifecycleScope
+import kotlinx.coroutines.launch
+import org.mushaf.app.feature.widget.Widgets
 import org.koin.core.context.GlobalContext
 import org.mushaf.app.core.quran.PAGES
 import org.mushaf.app.data.remind.Reminder
@@ -40,6 +43,8 @@ class MainActivity : ComponentActivity() {
 
     override fun onStop() {
         Shown.now = false
+        // The widgets show what was just read.
+        lifecycleScope.launch { Widgets.refresh(applicationContext) }
         super.onStop()
     }
 }

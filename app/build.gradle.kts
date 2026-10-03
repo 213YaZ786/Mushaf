@@ -110,6 +110,9 @@ dependencies {
     // catalogue's media3, so the shared catalogue needs no entry of its own.
     implementation("androidx.media3:media3-session:${libs.versions.media3.get()}")
     implementation(libs.androidx.work.runtime)
+    // Home-screen widgets (Jetpack Glance, Google).
+    implementation("androidx.glance:glance-appwidget:1.2.0")
+    implementation("androidx.glance:glance-material3:1.2.0")
     implementation(libs.kotlinx.serialization.json)
     implementation(libs.koin.android)
     implementation(libs.koin.compose)

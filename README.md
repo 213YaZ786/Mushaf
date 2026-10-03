@@ -26,6 +26,8 @@ to learn it by heart. No account, no tracking, no ads.
 - A khatmah in 7 to 60 days: the day's pages, followed as you turn them.
 - The days you read, your streak, and Al-Kahf on Friday mornings.
 - A daily reminder of your wird or of the khatmah's pages, unless they are read.
+- Share an ayah as an image, in the mushaf's script, with its meaning or not.
+- Home-screen widgets: a du'a from the Quran each day, the khatmah, reading on.
 - Everything can be kept on the phone to read and listen offline.
 
 ## Install

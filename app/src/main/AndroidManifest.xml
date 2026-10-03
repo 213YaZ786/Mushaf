@@ -73,6 +73,46 @@
                 android:resource="@xml/share_paths" />
         </provider>
 
+        <!-- Home-screen widgets: only the system may send them their updates (BIND_APPWIDGET). -->
+        <receiver
+            android:name=".feature.widget.AyahWidgetReceiver"
+            android:label="Du'a from the Quran"
+            android:exported="true"
+            android:permission="android.permission.BIND_APPWIDGET">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_ayah" />
+        </receiver>
+
+        <receiver
+            android:name=".feature.widget.KhatmahWidgetReceiver"
+            android:label="Khatmah"
+            android:exported="true"
+            android:permission="android.permission.BIND_APPWIDGET">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_khatmah" />
+        </receiver>
+
+        <receiver
+            android:name=".feature.widget.ReadingWidgetReceiver"
+            android:label="Reading"
+            android:exported="true"
+            android:permission="android.permission.BIND_APPWIDGET">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_reading" />
+        </receiver>
+
         <!-- After an update the app installed itself: a notification to open it again. -->
         <receiver
             android:name=".core.update.UpdatedReceiver"
