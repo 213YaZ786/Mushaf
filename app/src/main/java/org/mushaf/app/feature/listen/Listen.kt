@@ -158,7 +158,7 @@ class Listen(
             .setUri(recitations.local(reciter, surah)?.let { Uri.fromFile(it) } ?: Uri.parse(a.url))
             .setMediaMetadata(
                 MediaMetadata.Builder()
-                    .setTitle("${s.n}. ${s.name}")
+                    .setTitle("${s.n}. ${s.title}")
                     .setArtist(Recitations.reciter(reciter).name)
                     .build()
             )

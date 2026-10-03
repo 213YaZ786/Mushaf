@@ -35,6 +35,10 @@ import androidx.core.content.ContextCompat
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.material3.rememberTimePickerState
 import androidx.compose.material3.TimePicker
+import android.app.LocaleManager
+import android.content.Context
+import android.os.LocaleList
+import androidx.annotation.RequiresApi
 import androidx.compose.material3.TextButton
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.activity.compose.rememberLauncherForActivityResult
@@ -65,7 +69,25 @@ import org.mushaf.app.ui.icon.AppIcons
 import org.mushaf.app.ui.theme.TEXT_SCALES
 import org.mushaf.app.ui.theme.textScaleLabel
 
-private enum class OpenDialog { NONE, RIWAYAH, REMINDER_TIME, SCRIPT, THEME, TEXT_SIZE, UPDATES }
+private enum class OpenDialog { NONE, RIWAYAH, REMINDER_TIME, SCRIPT, THEME, TEXT_SIZE, UPDATES, LANGUAGE }
+
+/** The app's languages, each named in itself; "" follows the phone. */
+private val APP_LANGUAGES = listOf(
+    "en" to "English", "ar" to "العربية", "de" to "Deutsch", "es" to "Español", "fr" to "Français",
+    "it" to "Italiano", "kab" to "Taqbaylit", "nl" to "Nederlands", "pt" to "Português"
+)
+
+/** The app's own language, kept by Android (13 and later). */
+@RequiresApi(Build.VERSION_CODES.TIRAMISU)
+private object AppLanguage {
+    fun current(context: Context): String =
+        context.getSystemService(LocaleManager::class.java).applicationLocales.get(0)?.language.orEmpty()
+
+    fun set(context: Context, tag: String) {
+        context.getSystemService(LocaleManager::class.java).applicationLocales =
+            if (tag.isEmpty()) LocaleList.getEmptyLocaleList() else LocaleList.forLanguageTags(tag)
+    }
+}
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -185,6 +207,11 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
             }
 
             Section(stringResource(R.string.app)) {
+                // Android 13 and later keep a language per app; before, the phone's applies.
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+                    val tag = remember(dialog) { AppLanguage.current(context) }
+                    SettingRow(stringResource(R.string.language), APP_LANGUAGES.firstOrNull { it.first == tag }?.second ?: stringResource(R.string.language_system), onClick = { dialog = OpenDialog.LANGUAGE })
+                }
                 SettingRow(stringResource(R.string.updates), updatesLabel(settings.updates), onClick = { dialog = OpenDialog.UPDATES })
                 SettingRow(stringResource(R.string.guide), stringResource(R.string.guide_detail), onClick = onOpenGuide)
                 SettingRow(stringResource(R.string.about), stringResource(R.string.about_summary, BuildConfig.VERSION_NAME), onClick = onOpenAbout)
@@ -252,6 +279,13 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                 // Installing needs Android's leave, asked when chosen.
                 if (mode == UpdateMode.INSTALL && !Updates.canInstall(context)) Updates.allowInstalls(context)
             },
+            onDismiss = { dialog = OpenDialog.NONE }
+        )
+        OpenDialog.LANGUAGE -> if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) ChoiceDialog(
+            title = stringResource(R.string.language),
+            options = listOf("" to stringResource(R.string.language_system)) + APP_LANGUAGES,
+            selected = AppLanguage.current(context),
+            onSelect = { tag -> dialog = OpenDialog.NONE; AppLanguage.set(context, tag) },
             onDismiss = { dialog = OpenDialog.NONE }
         )
         OpenDialog.NONE -> Unit

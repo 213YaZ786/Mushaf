@@ -264,7 +264,7 @@ fun IndexScreen(onBack: () -> Unit) {
                     PlaceRow(
                         number = j.n,
                         title = stringResource(R.string.juz_n, j.n),
-                        detail = "${surah.name} ${j.ayah.surah}:${j.ayah.ayah} · page ${j.page}",
+                        detail = "${surah.title} ${j.ayah.surah}:${j.ayah.ayah} · " + stringResource(R.string.page_n, j.page),
                         here = page in j.page until next
                     ) { open(j.page) }
                 }
@@ -283,7 +283,7 @@ fun IndexScreen(onBack: () -> Unit) {
                     items(keys, key = { it.toString() }) { key ->
                         val note = saved.notes.firstOrNull { it.key == key }?.text
                         val marked = saved.bookmarks.any { it.key == key }
-                        SavedRow(key, m.surahs[key.surah - 1].name, marked, note) { scope ->
+                        SavedRow(key, m.surahs[key.surah - 1].title, marked, note) { scope ->
                             scope.launch { openAyah(key, quran.pageOf(key)) }
                         }
                     }
@@ -324,7 +324,7 @@ private fun SearchResults(
                 is Found.Ayah -> ZoneSurface(shape = RoundedCornerShape(22.dp), onClick = { openAyah(r.key, r.page) }, modifier = Modifier.fillMaxWidth()) {
                     Column(Modifier.padding(horizontal = 16.dp, vertical = 12.dp)) {
                         Text(
-                            "${m.surahs[r.key.surah - 1].name} ${r.key} · page ${r.page}",
+                            "${m.surahs[r.key.surah - 1].title} ${r.key} · " + stringResource(R.string.page_n, r.page),
                             style = MaterialTheme.typography.labelLarge,
                             color = MaterialTheme.colorScheme.primary
                         )
@@ -363,16 +363,17 @@ private fun SurahRow(s: Surah, hafs: FontFamily, here: Boolean, onClick: () -> U
         Row(Modifier.padding(horizontal = 16.dp, vertical = 12.dp), verticalAlignment = Alignment.CenterVertically) {
             Number(s.n)
             Column(Modifier.weight(1f).padding(horizontal = 14.dp)) {
-                Text(s.name, style = MaterialTheme.typography.titleMedium, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                Text(s.title, style = MaterialTheme.typography.titleMedium, maxLines = 1, overflow = TextOverflow.Ellipsis)
                 Text(
-                    "${s.meaning} · ${s.ayat} ayat · ${if (s.meccan) "Meccan" else "Medinan"}",
+                    listOfNotNull(s.meaningHere, pluralStringResource(R.plurals.surah_ayat, s.ayat, s.ayat), stringResource(if (s.meccan) R.string.meccan else R.string.medinan)).joinToString(" · "),
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                     maxLines = 1,
                     overflow = TextOverflow.Ellipsis
                 )
             }
-            Text(s.arabic, style = TextStyle(fontFamily = hafs, fontSize = 22.sp), color = MaterialTheme.colorScheme.primary)
+            // In Arabic the title already is the Arabic name.
+            if (s.title != s.arabic) Text(s.arabic, style = TextStyle(fontFamily = hafs, fontSize = 22.sp), color = MaterialTheme.colorScheme.primary)
         }
     }
 }
@@ -422,7 +423,7 @@ private fun HizbRow(hizb: Int, m: QuranMeta, page: Int, open: (Int) -> Unit) {
                     ) {
                         Column {
                             Text(hizbLabel(q.n), style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary)
-                            Text("${surah.name} ${q.key} · p. ${q.page}", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                            Text("${surah.title} ${q.key} · " + stringResource(R.string.page_n, q.page), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
                         }
                     }
                 }

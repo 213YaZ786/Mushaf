@@ -193,9 +193,9 @@ private fun Today(hifz: Hifz, session: HifzSession, onOpenMushaf: () -> Unit) {
     val revision = remember(state) { hifz.revision() }
     val streak = remember(state) { hifz.streak() }
     val lessonPage by produceState<Int?>(null, lesson) { value = lesson?.firstOrNull()?.let { quran.pageOf(it) } }
-    val surahName by produceState("", lesson) { value = lesson?.firstOrNull()?.let { quran.surah(it.surah).name }.orEmpty() }
+    val surahName by produceState("", lesson) { value = lesson?.firstOrNull()?.let { quran.surah(it.surah).title }.orEmpty() }
 
-    Section(if (streak > 1) stringResource(R.string.today_streak, streak) else stringResource(R.string.today)) {
+    Section(if (streak > 1) pluralStringResource(R.plurals.today_streak, streak, streak) else stringResource(R.string.today)) {
         val l = lesson
         Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(14.dp)) {
             when {
@@ -244,7 +244,7 @@ private fun PagesCard(title: String, pages: List<Int>, onPage: (Int) -> Unit) {
     Column {
         Text(title, style = MaterialTheme.typography.titleMedium)
         EvenRows(Modifier.padding(top = 8.dp), minSlot = 72.dp) {
-            for (p in pages) TextControl("p. $p", { onPage(p) })
+            for (p in pages) TextControl(stringResource(R.string.page_title, p), { onPage(p) })
         }
     }
 }
@@ -323,7 +323,7 @@ private fun Slipped(hifz: Hifz, session: HifzSession, onOpenMushaf: () -> Unit) 
     Section(stringResource(R.string.words_slipped)) {
         Column(Modifier.padding(horizontal = 12.dp, vertical = 8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             for ((s, word, page) in rows) {
-                val surah by produceState("", s.key.surah) { value = quran.surah(s.key.surah).name }
+                val surah by produceState("", s.key.surah) { value = quran.surah(s.key.surah).title }
                 ZoneSurface(
                     shape = RoundedCornerShape(20.dp),
                     onClick = { haptics.tick(); scope.launch { session.startRevision(page); onOpenMushaf() } },

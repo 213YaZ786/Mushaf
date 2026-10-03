@@ -68,7 +68,7 @@ fun ListenPane(modifier: Modifier = Modifier) {
     val state by listen.state.collectAsState()
     val haptics = rememberHaptics()
     var choosing by remember { mutableStateOf(false) }
-    val surah by produceState<String?>(null, state.key?.surah) { value = state.key?.let { quran.surah(it.surah).name } }
+    val surah by produceState<String?>(null, state.key?.surah) { value = state.key?.let { quran.surah(it.surah).title } }
 
     // Sleep: in 15, 30 or 60 minutes, at the end of the surah, or not.
     val sleep by listen.sleep.collectAsState()

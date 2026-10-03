@@ -155,7 +155,7 @@ class AyahWidget : GlanceAppWidget() {
         val key = if (settings.current.riwayah == Riwayah.WARSH) quran.warshKey(hafs) else hafs
         val words = quran.page(quran.pageOf(key)).words.filter { it.key == key }.joinToString(" ") { it.text }
         val meaning = quran.english(key)
-        val name = quran.surah(key.surah).name
+        val name = quran.surah(key.surah).title
         val page = quran.pageOf(key)
         val font = Widgets.quranFont(context, settings.current.riwayah)
         val image = font?.let { Widgets.arabic(words, it, Widgets.ink(context), 900, 64f) }
@@ -229,7 +229,7 @@ class ReadingWidget : GlanceAppWidget() {
         val settings = koin.get<SettingsStore>().current
         val quran = koin.get<Quran>()
         val page = settings.page
-        val surah = runCatching { quran.surah(quran.firstAyah(page).surah).name }.getOrDefault("")
+        val surah = runCatching { quran.surah(quran.firstAyah(page).surah).title }.getOrDefault("")
         val streak = Days.streak(settings.readDays, Reminder.today())
         provideContent {
             GlanceTheme {

@@ -110,7 +110,7 @@ fun TranslationsScreen(onBack: () -> Unit) {
             if (q.isEmpty()) {
                 item { Heading(stringResource(R.string.shown)) }
                 items(shown, key = { "s" + it.id }) { t -> TranslationRow(t, true, busy[t.id] == true, failed[t.id] == true) { on -> choose(t, on) } }
-                item { Heading(if (catalog == null) stringResource(R.string.looking_translations) else "${others.size} more") }
+                item { Heading(if (catalog == null) stringResource(R.string.looking_translations) else pluralStringResource(R.plurals.more_translations, others.size, others.size)) }
             }
             items(others, key = { it.id }) { t ->
                 TranslationRow(t, false, busy[t.id] == true, failed[t.id] == true) { on -> choose(t, on) }

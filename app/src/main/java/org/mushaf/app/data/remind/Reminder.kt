@@ -145,7 +145,7 @@ class ReminderWorker(context: Context, params: WorkerParameters) : CoroutineWork
         val plan = khatmah.plan.value?.takeIf { !it.finished }
         val portion = plan?.portion(Reminder.today())
         val page = portion?.fromPage ?: settings.current.page
-        val surah = runCatching { quran.surah(quran.firstAyah(page).surah).name }.getOrNull()
+        val surah = runCatching { quran.surah(quran.firstAyah(page).surah).title }.getOrNull()
         val where = when {
             portion != null && portion.toPage > portion.fromPage -> context.getString(R.string.remind_khatmah_pages, portion.fromPage, portion.toPage, surah.orEmpty())
             portion != null -> context.getString(R.string.remind_khatmah_page, portion.fromPage, surah.orEmpty())
@@ -156,7 +156,7 @@ class ReminderWorker(context: Context, params: WorkerParameters) : CoroutineWork
         val revise = runCatching { hifz.revision().let { it.recent.size + it.due.size } }.getOrDefault(0)
         val hifzLine = buildList {
             lesson.firstOrNull()?.let { first ->
-                val name = runCatching { quran.surah(first.surah).name }.getOrDefault("")
+                val name = runCatching { quran.surah(first.surah).title }.getOrDefault("")
                 add(context.getString(R.string.remind_lesson, "$name $first" + if (lesson.size > 1) "–${lesson.last().ayah}" else ""))
             }
             if (revise > 0) add(context.resources.getQuantityString(R.plurals.pages_to_revise, revise, revise))

@@ -135,7 +135,7 @@ fun SimilarScreen(onBack: () -> Unit, onOpen: (AyahKey) -> Unit) {
 @Composable
 private fun AyahLine(key: AyahKey, words: List<String>, shared: BooleanArray, font: androidx.compose.ui.text.font.FontFamily, onOpen: (AyahKey) -> Unit) {
     val quran: Quran = koinInject()
-    val surah by produceState("", key.surah) { value = quran.surah(key.surah).name }
+    val surah by produceState("", key.surah) { value = quran.surah(key.surah).title }
     Text(
         "$surah $key",
         style = MaterialTheme.typography.labelLarge,

@@ -14,8 +14,8 @@ android {
         applicationId = "org.mushaf.app"
         minSdk = 31
         targetSdk = 37
-        versionCode = 11
-        versionName = "0.6.1"
+        versionCode = 12
+        versionName = "0.7.0"
         // The speech recogniser's engine (whisper.cpp), for the phones of today and the emulator.
         ndk { abiFilters += listOf("arm64-v8a", "armeabi-v7a", "x86_64") }
         externalNativeBuild {
@@ -76,6 +76,8 @@ android {
     }
 
     androidResources {
+        // Android 13 and later list the app's languages in the phone's settings.
+        generateLocaleConfig = true
         // The Quran text and fonts are read as they are; compressing them
         // again saves little and slows every page opened.
         noCompress += listOf("ttf")

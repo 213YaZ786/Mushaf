@@ -81,7 +81,7 @@ fun TafsirScreen(key: AyahKey, onBack: () -> Unit) {
     // The ayah in its riwayah's font; the tafsir's own Arabic in the Hafs font.
     val ayahFont = quranFont()
     val book = Tafsir.BOOKS.firstOrNull { it.id == settings.tafsir } ?: Tafsir.BOOKS.first()
-    val surah by produceState("", key.surah) { value = quran.surah(key.surah).name }
+    val surah by produceState("", key.surah) { value = quran.surah(key.surah).title }
     val arabic by produceState("", key) {
         value = quran.page(quran.pageOf(key)).words.filter { it.key == key }.joinToString(" ") { it.text }
     }

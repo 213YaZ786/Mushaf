@@ -138,7 +138,7 @@ fun SurahGames(surah: Int, onBack: () -> Unit) {
     var game by rememberSaveable { mutableStateOf<Game?>(null) }
     val names = remember { FontFamily(Font(R.font.surah_names)) }
     val riwayah = koinInject<SettingsStore>().settings.collectAsState().value.riwayah
-    val name by produceState("", surah) { value = quran.surah(surah).name }
+    val name by produceState("", surah) { value = quran.surah(surah).title }
     val ayat by produceState<List<Ayah>?>(null, surah) {
         val s = quran.surah(surah)
         val words = (s.pages.first()..s.pages.last()).flatMap { quran.page(it).words }.filter { it.key.surah == surah && it.key.ayah > 0 && !it.end }
@@ -710,7 +710,7 @@ private fun ReciteGame(ayat: List<Ayah>, onWon: () -> Unit) {
         }
     }
     if (done) Text(
-        if (skipped <= 1) stringResource(R.string.well_done_surah) else stringResource(R.string.words_passed_again, skipped),
+        if (skipped <= 1) stringResource(R.string.well_done_surah) else pluralStringResource(R.plurals.words_passed_again, skipped, skipped),
         style = MaterialTheme.typography.titleMedium, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(bottom = 12.dp)
     )
     ZoneSurface(shape = RoundedCornerShape(24.dp), modifier = Modifier.fillMaxWidth()) {

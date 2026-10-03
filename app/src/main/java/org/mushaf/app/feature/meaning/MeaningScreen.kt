@@ -120,7 +120,7 @@ fun MeaningScreen(
         bottom = 0.dp,
         top = {
             FloatingTop(
-                title = surah?.let { "${it.n}. ${it.name}" },
+                title = surah?.let { "${it.n}. ${it.title}" },
                 leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) },
                 trailing = { FloatingAction(AppIcons.Translate, stringResource(R.string.translations), onOpenTranslations) }
             )

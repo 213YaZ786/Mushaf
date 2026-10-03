@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Mushaf</string>
+    <string name="app_name" translatable="false">Mushaf</string>
     <plurals name="more_reciters">
         <item quantity="one">%d more reciter in Settings and while listening.</item>
         <item quantity="other">%d more reciters in Settings and while listening.</item>
@@ -29,6 +29,8 @@
     <string name="welcome_wird_intro">A reminder each day, unless you have opened the mushaf already: where to continue, and the day\'s hifz.</string>
     <string name="welcome_wird_any_time">Any time you like in Settings.</string>
     <string name="no_reminder">No reminder</string>
+    <string name="language">Language</string>
+    <string name="language_system">Same as the phone</string>
     <string name="updates">Updates</string>
     <string name="welcome_updates_intro">When a new version of Mushaf is out.</string>
     <string name="updates_off">Off</string>
@@ -87,7 +89,6 @@
     <string name="theme_dark">Dark</string>
     <string name="updates_install_auto">Install automatically</string>
     <string name="about_version">Mushaf %1$s</string>
-    <string name="today_streak">Today · %1$d days in a row</string>
     <string name="page_n">page %1$d</string>
     <string name="pages_known">%1$d of 604 pages known</string>
     <plurals name="more_next_days">
@@ -111,14 +112,14 @@
     <string name="credit_words">Words, pages and lines</string>
     <string name="credit_words_detail">Quran.com: each word\'s place in the mushaf, word by word meaning and transliteration</string>
     <string name="credit_english">English meaning</string>
-    <string name="credit_english_detail">Saheeh International</string>
+    <string name="credit_english_detail" translatable="false">Saheeh International</string>
     <string name="credit_intro">Surah introductions</string>
     <string name="credit_intro_detail">Sayyid Abul Ala Maududi, Tafhim al-Qur\'an, via Quran.com</string>
     <string name="credit_checked">Text checked against</string>
     <string name="credit_checked_detail">The Tanzil Project\'s Quran text (CC BY 3.0)</string>
     <string name="credit_translations_detail">Quran.com, and fawazahmed0/quran-api: QuranEnc, Tanzil and others</string>
     <string name="tafsir">Tafsir</string>
-    <string name="credit_quran_com">Quran.com</string>
+    <string name="credit_quran_com" translatable="false">Quran.com</string>
     <string name="credit_recitations">Recitations</string>
     <string name="credit_recitations_detail">Hafs: Quran.com and quranicaudio.com, each word\'s own from Quran.com. Warsh: mp3quran.net</string>
     <string name="similar_ayat">Similar ayat</string>
@@ -154,7 +155,7 @@
     <string name="recite_hint">Tap the page to recite, a word to see it, hold a word that slipped.</string>
     <string name="mic_failed">The microphone could not be opened.</string>
     <string name="listening_recite">Listening: recite, the words show as you say them.</string>
-    <string name="similar_prefix">Similar: </string>
+    <string name="similar_prefix">"Similar: "</string>
     <string name="shown">Shown</string>
     <string name="hints">Hints</string>
     <string name="hidden">Hidden</string>
@@ -177,6 +178,9 @@
     <string name="what_comes_after">What comes after this ayah?</string>
     <string name="test_score">%1$d of %2$d recited whole · what comes after this ayah?</string>
     <string name="surahs">Surahs</string>
+    <string name="meccan">Meccan</string>
+    <string name="medinan">Medinan</string>
+    <string name="ayah_only">%1$s only</string>
     <string name="juz">Juz</string>
     <string name="hizb">Hizb</string>
     <string name="saved">Saved</string>
@@ -323,7 +327,6 @@
     <string name="n_of_found">%1$d of %2$d found</string>
     <string name="n_heard_right">%1$d of %2$d heard right</string>
     <string name="well_done_surah">Well done, the whole surah!</string>
-    <string name="words_passed_again">%1$d words passed over. Again?</string>
     <string name="offer_tafsir">%1$s for the whole Quran, kept on the phone so it opens without a connection. It downloads in the background.</string>
     <string name="offer_tafsir_wifi">%1$s for the whole Quran, kept on the phone so it opens without a connection. It downloads in the background, on Wi-Fi.</string>
     <string name="tafsir_of">Tafsir · %1$s %2$s</string>
@@ -402,4 +405,20 @@
     <string name="style_mujawwad">Mujawwad</string>
     <string name="style_warsh">Warsh</string>
     <string name="model_offer_text">The phone listens while you recite: it shows each word as you say it, or finds the ayah you recited. It needs Tarteel\'s Quran speech model, about 80 MB, kept on the phone. What you recite never leaves it.</string>
+    <plurals name="today_streak">
+        <item quantity="one">Today · %d day in a row</item>
+        <item quantity="other">Today · %d days in a row</item>
+    </plurals>
+    <plurals name="words_passed_again">
+        <item quantity="one">%d word passed over. Again?</item>
+        <item quantity="other">%d words passed over. Again?</item>
+    </plurals>
+    <plurals name="surah_ayat">
+        <item quantity="one">%d ayah</item>
+        <item quantity="other">%d ayat</item>
+    </plurals>
+    <plurals name="more_translations">
+        <item quantity="one">%d more</item>
+        <item quantity="other">%d more</item>
+    </plurals>
 </resources>

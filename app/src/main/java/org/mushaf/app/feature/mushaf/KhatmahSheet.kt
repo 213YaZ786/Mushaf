@@ -118,7 +118,7 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                     else -> {
                         val today = remember(p) { p.portion(khatmah.today()) }
                         val surah by produceState("", today.fromPage) {
-                            value = runCatching { quran.surah(quran.firstAyah(today.fromPage).surah).name }.getOrDefault("")
+                            value = runCatching { quran.surah(quran.firstAyah(today.fromPage).surah).title }.getOrDefault("")
                         }
                         LinearProgressIndicator(
                             progress = { p.read / p.total.toFloat() },

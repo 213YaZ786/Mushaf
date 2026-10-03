@@ -1,5 +1,7 @@
 package org.mushaf.app.core.quran
 
+import java.util.Locale
+
 import kotlinx.serialization.Serializable
 
 /** An ayah's place: surah 1 to 114, ayah from 1. */
@@ -70,6 +72,10 @@ data class Surah(
     val basmala: Boolean
 ) {
     val firstPage: Int get() = pages.first()
+    /** The name as the reader's language says it: in Arabic, its own. */
+    val title: String get() = if (Locale.getDefault().language == "ar") arabic else name
+    /** The English meaning of the name, shown only when the app speaks English. */
+    val meaningHere: String? get() = meaning.takeIf { Locale.getDefault().language == "en" }
     val meccan: Boolean get() = place == "makkah"
 }
 

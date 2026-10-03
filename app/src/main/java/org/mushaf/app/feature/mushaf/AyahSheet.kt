@@ -94,7 +94,7 @@ fun AyahSheet(
     val clipboard = LocalClipboard.current
     val scope = rememberCoroutineScope()
     val haptics = rememberHaptics()
-    val surah by produceState<String?>(null, word.key.surah) { value = quran.surah(word.key.surah).name }
+    val surah by produceState<String?>(null, word.key.surah) { value = quran.surah(word.key.surah).title }
     val meaning by produceState("", word.key) { value = quran.english(word.key) }
     val arabic by produceState("", word.key) {
         value = quran.page(quran.pageOf(word.key)).words.filter { it.key == word.key && !it.end }.joinToString(" ") { it.text }
@@ -193,7 +193,7 @@ fun AyahSheet(
                 }
                 if (repeating) ChoiceDialog(
                     title = stringResource(R.string.repeat_from_to, word.key.toString()),
-                    options = passageEnds.map { it to if (it == word.key) "${it} only" else it.toString() },
+                    options = passageEnds.map { it to if (it == word.key) stringResource(R.string.ayah_only, it.toString()) else it.toString() },
                     selected = null,
                     onSelect = { end -> repeating = false; if (end != null) onRepeat(word.key, end) },
                     onDismiss = { repeating = false }

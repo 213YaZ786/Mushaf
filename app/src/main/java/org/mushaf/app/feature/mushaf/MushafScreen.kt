@@ -280,7 +280,7 @@ fun MushafScreen(
                         center = {
                             FloatingPane(shape = CircleShape, onClick = { haptics.tick(); onOpenIndex() }) {
                                 AnimatedContent(
-                                    targetState = announced?.label ?: surah?.name ?: " ",
+                                    targetState = announced?.label ?: surah?.title ?: " ",
                                     transitionSpec = { fadeIn(tween(260)) togetherWith fadeOut(tween(200)) },
                                     label = "title"
                                 ) { title ->
