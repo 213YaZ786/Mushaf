@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="until_eid">ঈদ পর্যন্ত</string>
     <string name="spacing">ব্যবধান</string>
     <string name="spacing_airy">খোলামেলা</string>
     <string name="spacing_compact">ঘন</string>

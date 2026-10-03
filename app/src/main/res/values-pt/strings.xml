@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="until_eid">Até o Eid</string>
     <string name="spacing">Espaçamento</string>
     <string name="spacing_airy">Arejado</string>
     <string name="spacing_compact">Compacto</string>

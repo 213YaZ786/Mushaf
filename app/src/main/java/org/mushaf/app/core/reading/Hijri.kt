@@ -42,4 +42,12 @@ object Hijri {
             format(from, "MMMM") + " – " + format(to, "yMMMM")
         }
     }
+
+    /** In Ramadan, the days left until Eid, today counted; null outside it. */
+    fun ramadanDaysLeft(epochDay: Long, locale: Locale = Locale.getDefault()): Int? {
+        val cal = calendar(epochDay, locale)
+        // ICU counts the months from 0: Ramadan is the ninth.
+        if (cal.get(IslamicCalendar.MONTH) != 8) return null
+        return cal.getActualMaximum(IslamicCalendar.DAY_OF_MONTH) - cal.get(IslamicCalendar.DAY_OF_MONTH) + 1
+    }
 }

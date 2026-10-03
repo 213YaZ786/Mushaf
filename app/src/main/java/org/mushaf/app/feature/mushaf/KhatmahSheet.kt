@@ -90,12 +90,15 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                         Spacer(Modifier.size(12.dp))
                         val from = if (fromHere) page else 1
                         // The lengths share the whole width.
+                        // In Ramadan, the reading that ends with the month comes first.
+                        val ramadan = remember { Hijri.ramadanDaysLeft(khatmah.today()) }
+                        val lengths = listOfNotNull(ramadan) + LENGTHS.filter { it != ramadan }
                         EvenRows(minSlot = 60.dp) {
-                            for (d in LENGTHS) {
+                            for (d in lengths) {
                                 val perDay = (PAGES - from + 1 + d - 1) / d
-                                FloatingPane(shape = RoundedCornerShape(20.dp), onClick = { haptics.done(); khatmah.start(d, from) }, modifier = Modifier.fillMaxWidth()) {
+                                FloatingPane(shape = RoundedCornerShape(20.dp), accent = d == ramadan, onClick = { haptics.done(); khatmah.start(d, from) }, modifier = Modifier.fillMaxWidth()) {
                                     Column(Modifier.fillMaxWidth().padding(vertical = 8.dp), horizontalAlignment = Alignment.CenterHorizontally) {
-                                        Text(pluralStringResource(R.plurals.n_days, d, d), style = MaterialTheme.typography.labelLarge)
+                                        Text(if (d == ramadan) stringResource(R.string.until_eid) else pluralStringResource(R.plurals.n_days, d, d), style = MaterialTheme.typography.labelLarge)
                                         Text(stringResource(R.string.pages_per_day, perDay), style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
                                     }
                                 }
