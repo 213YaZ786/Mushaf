@@ -363,8 +363,9 @@ private fun SearchResults(
                             style = MaterialTheme.typography.labelLarge,
                             color = MaterialTheme.colorScheme.primary
                         )
+                        val lit = MaterialTheme.colorScheme.primary
                         Text(
-                            r.text,
+                            remember(r.text, query, lit) { highlighted(r.text, searchHits(r.text, query, r.arabic), lit) },
                             style = if (r.arabic) TextStyle(fontFamily = hafs, fontSize = 22.sp, textAlign = TextAlign.Right) else MaterialTheme.typography.bodyMedium,
                             maxLines = 3,
                             overflow = TextOverflow.Ellipsis,

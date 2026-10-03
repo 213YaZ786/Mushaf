@@ -31,6 +31,36 @@ object Arabic {
         return out.toString().trim()
     }
 
+    /**
+     * Where [needle] stands in [text], as typed or heard (no vowels, any
+     * letter form): the ranges in [text] itself, the vowels and signs on
+     * the last letter included, so the whole written word can be lit.
+     */
+    fun find(text: String, needle: String): List<IntRange> {
+        val n = normalize(needle)
+        if (n.isEmpty()) return emptyList()
+        val norm = StringBuilder(text.length)
+        val at = ArrayList<Int>(text.length)
+        for ((i, c) in text.withIndex()) {
+            val piece = when {
+                c.isWhitespace() -> if (norm.isNotEmpty() && norm.last() != ' ') " " else ""
+                else -> normalize(c.toString())
+            }
+            for (p in piece) { norm.append(p); at.add(i) }
+        }
+        val out = mutableListOf<IntRange>()
+        var from = 0
+        while (true) {
+            val k = norm.indexOf(n, from)
+            if (k < 0) break
+            var end = at[k + n.length - 1]
+            while (end + 1 < text.length && (isMark(text[end + 1]) || text[end + 1] == 'ـ')) end++
+            out += at[k]..end
+            from = k + n.length
+        }
+        return out
+    }
+
     /** The words of [text], normalised, empty ones dropped. */
     fun words(text: String): List<String> = normalize(text).split(' ').filter { it.isNotEmpty() }
 
