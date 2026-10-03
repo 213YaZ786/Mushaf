@@ -1,6 +1,7 @@
 package org.mushaf.app.data.audio
 
 import android.content.Context
+import java.util.Locale
 import java.io.File
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
@@ -76,7 +77,7 @@ class Recitations(private val context: Context, private val sources: Sources, pr
             val ayah = t["ayah"]!!.jsonPrimitive.content.toInt()
             if (ayah < 1) null else AyahTime(surah, ayah, t["start_time"]!!.jsonPrimitive.long, t["end_time"]!!.jsonPrimitive.long)
         }
-        return SurahAudio(reciter, surah, folder.trimEnd('/') + "/%03d.mp3".format(surah), ayat)
+        return SurahAudio(reciter, surah, folder.trimEnd('/') + "/%03d.mp3".format(Locale.ROOT, surah), ayat)
     }
 
     /** The player reaches recordings on its own: only over HTTPS and on a server the app allows. */

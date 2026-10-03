@@ -1,6 +1,7 @@
 package org.mushaf.app.feature.mushaf
 
 import androidx.compose.foundation.Canvas
+import java.util.Locale
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.CubicBezierEasing
@@ -501,7 +502,7 @@ private fun SurahTitle(surah: Int, names: FontFamily, size: TextUnit, height: Dp
             contentAlignment = Alignment.Center
         ) {
             Text(
-                "%03d".format(surah),
+                "%03d".format(Locale.ROOT, surah),
                 style = TextStyle(fontFamily = names, fontSize = size * 1.7f, textAlign = TextAlign.Center),
                 color = MaterialTheme.colorScheme.onPrimaryContainer,
                 maxLines = 1,

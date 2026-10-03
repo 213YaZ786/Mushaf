@@ -1,6 +1,7 @@
 package org.mushaf.app.feature.play
 
 import androidx.compose.foundation.layout.Arrangement
+import java.util.Locale
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
 import androidx.compose.foundation.layout.FlowRow
@@ -85,7 +86,7 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
 
     FloatingFrame(
         bottom = 0.dp,
-        top = { FloatingTop(stringResource(R.string.play), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
+        top = { FloatingTop(stringResource(R.string.games), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         // The surah grid takes most of a wide screen: more surahs at a glance.
         Column(
@@ -126,7 +127,7 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
                             modifier = Modifier.fillMaxWidth()
                         ) {
                             Column(Modifier.fillMaxWidth().padding(vertical = 10.dp), horizontalAlignment = Alignment.CenterHorizontally) {
-                                Text("%03d".format(n), style = TextStyle(fontFamily = names, fontSize = 30.sp, textAlign = TextAlign.Center), maxLines = 1)
+                                Text("%03d".format(Locale.ROOT, n), style = TextStyle(fontFamily = names, fontSize = 30.sp, textAlign = TextAlign.Center), maxLines = 1)
                                 Text(s?.name.orEmpty(), style = MaterialTheme.typography.labelSmall, maxLines = 1)
                                 Row(Modifier.padding(top = 4.dp)) {
                                     for (star in Star.entries) {

@@ -1,6 +1,7 @@
 package org.mushaf.app.data.audio
 
 import android.content.Context
+import java.util.Locale
 import androidx.annotation.OptIn
 import androidx.media3.common.AudioAttributes
 import androidx.media3.common.C
@@ -55,7 +56,7 @@ class WordAudio(private val context: Context, private val settings: SettingsStor
         if (!available(w)) return
         val p = player ?: build().also { player = it }
         _sound.value = WordSound(w.key, w.position, playing = true)
-        p.setMediaItem(MediaItem.fromUri("$BASE%03d_%03d_%03d.mp3".format(w.key.surah, w.key.ayah, w.position)))
+        p.setMediaItem(MediaItem.fromUri("$BASE%03d_%03d_%03d.mp3".format(Locale.ROOT, w.key.surah, w.key.ayah, w.position)))
         p.prepare()
         p.play()
     }

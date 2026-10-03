@@ -1,6 +1,7 @@
 package org.mushaf.app.feature.play
 
 import android.Manifest
+import java.util.Locale
 import android.content.pm.PackageManager
 import androidx.activity.compose.BackHandler
 import androidx.activity.compose.rememberLauncherForActivityResult
@@ -165,7 +166,7 @@ fun SurahGames(surah: Int, onBack: () -> Unit) {
             } else when (game) {
                 null -> {
                     Text(
-                        "%03d".format(surah),
+                        "%03d".format(Locale.ROOT, surah),
                         style = TextStyle(fontFamily = names, fontSize = 64.sp, textAlign = TextAlign.Center),
                         color = MaterialTheme.colorScheme.primary,
                         modifier = Modifier.fillMaxWidth()

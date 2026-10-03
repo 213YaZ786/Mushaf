@@ -1,6 +1,7 @@
 package org.mushaf.app.data.quran
 
 import android.content.Context
+import java.util.Locale
 import android.util.LruCache
 import java.util.concurrent.ConcurrentHashMap
 import kotlinx.coroutines.Dispatchers
@@ -72,12 +73,12 @@ class Quran(private val context: Context, private val settings: SettingsStore) {
         val e = edition(r)
         e.pages.get(n)?.let { return it }
         return withContext(Dispatchers.IO) {
-            val rows = asset("${r.folder}/pages/%03d.txt".format(n)).lineSequence().filter { it.isNotBlank() }.toList()
+            val rows = asset("${r.folder}/pages/%03d.txt".format(Locale.ROOT, n)).lineSequence().filter { it.isNotBlank() }.toList()
             val words = rows.mapNotNull(PageLayout::parseWord)
             val explicit = rows.mapNotNull(PageLayout::parseLine).associateBy { it.number }
             // The next page's first word, for a surah title printed at the foot of this one.
             val next = if (explicit.isEmpty() && n < PAGES) {
-                asset("${r.folder}/pages/%03d.txt".format(n + 1)).lineSequence().firstOrNull()?.let(PageLayout::parseWord)
+                asset("${r.folder}/pages/%03d.txt".format(Locale.ROOT, n + 1)).lineSequence().firstOrNull()?.let(PageLayout::parseWord)
             } else null
             PageLayout.page(n, words, next, explicit).also { e.pages.put(n, it) }
         }
