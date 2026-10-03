@@ -100,6 +100,8 @@ fun AyahSheet(
         value = quran.page(quran.pageOf(word.key)).words.filter { it.key == word.key && !it.end }.joinToString(" ") { it.text }
     }
     val reference = "${surah ?: ""} ${word.key}".trim()
+    // An ayah of prostration (۩), as this riwayah's mushaf marks them.
+    val sajdah by produceState(false, word.key) { value = word.key.toString() in quran.meta().sajdah }
     val marks: Marks = koinInject()
     val saved by marks.marks.collectAsState()
     val bookmarked = saved.bookmarks.any { it.key == word.key }
@@ -163,7 +165,11 @@ fun AyahSheet(
                     }
                     Spacer(Modifier.size(12.dp))
                 }
-                Text(reference, style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary)
+                Text(
+                    if (sajdah) reference + " · ۩ " + stringResource(R.string.sajdah) else reference,
+                    style = MaterialTheme.typography.labelLarge,
+                    color = MaterialTheme.colorScheme.primary
+                )
                 Spacer(Modifier.size(4.dp))
                 Text(meaning, style = MaterialTheme.typography.bodyLarge)
                 if (note != null) {

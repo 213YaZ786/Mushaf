@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="sajdah">Secde</string>
     <string name="cream_page">Krem sayfa</string>
     <string name="cream_page_detail">Basılı bir mushaf gibi sıcak kâğıt ve mürekkep, gece gündüz.</string>
     <string name="your_data">Verileriniz</string>

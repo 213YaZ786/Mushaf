@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="sajdah">Neerknieling</string>
     <string name="cream_page">Crèmekleurige pagina</string>
     <string name="cream_page_detail">Warm papier en inkt, als een gedrukte mushaf, overdag en \'s nachts.</string>
     <string name="your_data">Je gegevens</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="sajdah">Prosternazione</string>
     <string name="cream_page">Pagina crema</string>
     <string name="cream_page_detail">Carta e inchiostro caldi, come un mushaf stampato, di giorno e di notte.</string>
     <string name="your_data">I tuoi dati</string>

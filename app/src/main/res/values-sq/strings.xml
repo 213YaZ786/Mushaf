@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="sajdah">Sexhde</string>
     <string name="cream_page">Faqe krem</string>
     <string name="cream_page_detail">Letër dhe bojë e ngrohtë, si një mushaf i shtypur, ditën dhe natën.</string>
     <string name="your_data">Të dhënat tuaja</string>

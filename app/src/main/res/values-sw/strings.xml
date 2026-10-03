@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="sajdah">Sijda</string>
     <string name="cream_page">Ukurasa wa krimu</string>
     <string name="cream_page_detail">Karatasi na wino wenye joto, kama msahafu uliochapishwa, mchana na usiku.</string>
     <string name="your_data">Data yako</string>

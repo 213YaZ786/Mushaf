@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="sajdah">سجدہ</string>
     <string name="cream_page">کریم صفحہ</string>
     <string name="cream_page_detail">چھپے ہوئے مصحف جیسا گرم کاغذ اور سیاہی، دن اور رات۔</string>
     <string name="your_data">آپ کا ڈیٹا</string>

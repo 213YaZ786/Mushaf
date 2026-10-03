@@ -204,6 +204,7 @@
     <string name="words_slipped">Words that slipped</string>
     <string name="what_comes_after">What comes after this ayah?</string>
     <string name="test_score">%1$d of %2$d recited whole · what comes after this ayah?</string>
+    <string name="sajdah">Sajdah</string>
     <string name="surahs">Surahs</string>
     <string name="meccan">Meccan</string>
     <string name="medinan">Medinan</string>

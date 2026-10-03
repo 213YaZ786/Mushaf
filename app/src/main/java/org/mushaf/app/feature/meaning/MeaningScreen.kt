@@ -91,6 +91,7 @@ fun MeaningScreen(
     val marks: Marks = koinInject()
     val settings by store.settings.collectAsState()
     val airy = settings.airy
+    val sajdat by produceState(emptyList<String>()) { value = quran.meta().sajdah }
     val saved by marks.marks.collectAsState()
     val haptics = rememberHaptics()
     val hafs = quranFont()
@@ -185,7 +186,7 @@ fun MeaningScreen(
                         Row(verticalAlignment = Alignment.CenterVertically) {
                             FloatingPane(shape = CircleShape) {
                                 Text(
-                                    row.key.toString(),
+                                    if (row.key.toString() in sajdat) "${row.key} · ۩ " + stringResource(R.string.sajdah) else row.key.toString(),
                                     style = MaterialTheme.typography.labelLarge,
                                     modifier = Modifier.padding(horizontal = 12.dp, vertical = 6.dp)
                                 )
