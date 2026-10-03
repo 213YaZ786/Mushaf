@@ -10,4 +10,5 @@
     <include domain="file" path="hifz-warsh.json" />
     <include domain="file" path="khatmah.json" />
     <include domain="file" path="stars.json" />
+    <include domain="file" path="children.json" />
 </full-backup-content>

@@ -9,6 +9,7 @@
         <include domain="file" path="hifz-warsh.json" />
         <include domain="file" path="khatmah.json" />
         <include domain="file" path="stars.json" />
+        <include domain="file" path="children.json" />
     </cloud-backup>
     <device-transfer>
         <include domain="file" path="settings.json" />
@@ -18,5 +19,6 @@
         <include domain="file" path="hifz-warsh.json" />
         <include domain="file" path="khatmah.json" />
         <include domain="file" path="stars.json" />
+        <include domain="file" path="children.json" />
     </device-transfer>
 </data-extraction-rules>

@@ -56,6 +56,10 @@ import androidx.core.view.WindowInsetsControllerCompat
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import androidx.compose.foundation.layout.widthIn
+import androidx.compose.ui.text.style.TextOverflow
+import org.mushaf.app.feature.common.IconControl
+import org.mushaf.app.feature.common.EvenRows
 import org.mushaf.app.data.khatmah.Khatmah
 import org.mushaf.app.data.quran.Script
 import androidx.compose.animation.AnimatedContent
@@ -304,24 +308,35 @@ fun MushafScreen(
                 ) {
                     val juz = meta?.juz?.lastOrNull { it.page <= current }?.n
                     val quarter = meta?.quarters?.lastOrNull { it.page <= current }?.n
-                    // On a narrow screen the round actions wrap above the page's place.
-                    FlowRow(
-                        horizontalArrangement = Arrangement.spacedBy(10.dp, Alignment.CenterHorizontally),
-                        verticalArrangement = Arrangement.spacedBy(10.dp),
-                        itemVerticalAlignment = Alignment.CenterVertically
-                    ) {
-                        FloatingAction(AppIcons.School, "Hifz", onOpenHifz)
-                        FloatingAction(AppIcons.Puzzle, "Play", onOpenPlay)
+                    val actions: @Composable () -> Unit = {
+                        IconControl(AppIcons.School, "Hifz", onOpenHifz)
+                        IconControl(AppIcons.Puzzle, "Play", onOpenPlay)
                         if (!warsh && settings.script == Script.TAJWEED && settings.script.usable) {
-                            FloatingAction(AppIcons.Palette, "Tajweed colours", { haptics.tick(); legend = true })
+                            IconControl(AppIcons.Palette, "Tajweed colours", { legend = true })
                         }
-                        FloatingAction(AppIcons.Translate, "Read with meaning", {
+                        IconControl(AppIcons.Translate, "Read with meaning", {
                             scope.launch { onOpenMeaning(quran.firstAyah(current)) }
                         })
-                        PagePill(current, if (spread) current + 1 else null, juz, quarter) { haptics.tick(); khatmahOpen = true }
-                        FloatingAction(AppIcons.Play, "Listen", {
+                        IconControl(AppIcons.Play, "Listen", {
                             scope.launch { listen.play(quran.firstAyah(current)) }
-                        })
+                        }, accent = true)
+                    }
+                    val pill: @Composable (Modifier) -> Unit = { m ->
+                        PagePill(current, if (spread) current + 1 else null, juz, quarter, m) { haptics.tick(); khatmahOpen = true }
+                    }
+                    // The whole width used: one line where it fits, else the actions on one line and the page under them.
+                    BoxWithConstraints(Modifier.padding(horizontal = 12.dp).widthIn(max = 720.dp).fillMaxWidth()) {
+                        if (maxWidth >= 600.dp) {
+                            Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                                pill(Modifier.weight(1f))
+                                Box(Modifier.weight(1.4f)) { EvenRows(minSlot = 48.dp) { actions() } }
+                            }
+                        } else {
+                            Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                                EvenRows(minSlot = 48.dp) { actions() }
+                                pill(Modifier.fillMaxWidth())
+                            }
+                        }
                     }
                 }
                 AnimatedVisibility(
@@ -500,19 +515,22 @@ private fun pageSurah(pageStart: List<String>, page: Int): Int? =
     pageStart.getOrNull(page - 1)?.let { AyahKey.parse(it)?.surah }
 
 @Composable
-private fun PagePill(page: Int, second: Int?, juz: Int?, quarter: Int?, onClick: () -> Unit) {
+private fun PagePill(page: Int, second: Int?, juz: Int?, quarter: Int?, modifier: Modifier, onClick: () -> Unit) {
     // A tap opens the khatmah.
-    FloatingPane(shape = CircleShape, onClick = onClick) {
+    FloatingPane(shape = CircleShape, onClick = onClick, modifier = modifier.height(48.dp)) {
         val pages = if (second != null) "Pages $page–$second" else "Page $page"
         val place = buildList {
             juz?.let { add("Juz $it") }
             quarter?.let { add(hizbLabel(it)) }
         }.joinToString(" · ")
-        Text(
-            if (place.isEmpty()) pages else "$pages · $place",
-            style = MaterialTheme.typography.labelLarge,
-            modifier = Modifier.padding(horizontal = 18.dp, vertical = 10.dp)
-        )
+        Box(Modifier.fillMaxSize().padding(horizontal = 18.dp), contentAlignment = Alignment.Center) {
+            Text(
+                if (place.isEmpty()) pages else "$pages · $place",
+                style = MaterialTheme.typography.labelLarge,
+                maxLines = 1,
+                overflow = TextOverflow.Ellipsis
+            )
+        }
     }
 }
 

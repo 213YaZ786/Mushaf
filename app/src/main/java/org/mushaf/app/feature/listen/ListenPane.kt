@@ -24,6 +24,15 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import org.koin.compose.koinInject
+import org.mushaf.app.feature.common.TextControl
+import org.mushaf.app.feature.common.IconControl
+import org.mushaf.app.feature.common.EvenRows
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.Row
+import androidx.compose.material3.Icon
+import androidx.compose.ui.draw.clip
+import androidx.compose.foundation.clickable
 import kotlinx.coroutines.delay
 import org.mushaf.app.data.audio.Recitations
 import org.mushaf.app.data.quran.Quran
@@ -57,75 +66,99 @@ fun ListenPane(modifier: Modifier = Modifier) {
     var choosing by remember { mutableStateOf(false) }
     val surah by produceState<String?>(null, state.key?.surah) { value = state.key?.let { quran.surah(it.surah).name } }
 
+    // Sleep: in 15, 30 or 60 minutes, at the end of the surah, or not.
+    val sleep by listen.sleep.collectAsState()
+    val left by produceState(0, sleep) {
+        while (true) {
+            value = (sleep as? Sleep.At)?.let { ((it.at - System.currentTimeMillis() + 59_999) / 60_000).toInt() } ?: 0
+            delay(15_000)
+        }
+    }
+
     FloatingPane(shape = RoundedCornerShape(28.dp), modifier = modifier.widthIn(max = 560.dp).fillMaxWidth()) {
-        Column(Modifier.padding(horizontal = 16.dp, vertical = 12.dp)) {
-            Text(
-                Recitations.reciter(store.reciter(settings.riwayah)).label,
-                style = MaterialTheme.typography.titleMedium,
-                maxLines = 1,
-                overflow = TextOverflow.Ellipsis
-            )
-            Text(
-                when {
-                    state.failed -> "Could not be played. Check the connection."
-                    state.key != null -> "${surah ?: ""} ${state.key}" + if (settings.repeat != 1) " · ${repeatLabel(settings.repeat).lowercase()}" else ""
-                    else -> "Starting…"
-                },
-                style = MaterialTheme.typography.bodyMedium,
-                color = if (state.failed) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.onSurfaceVariant
-            )
-            FlowRow(
-                horizontalArrangement = Arrangement.spacedBy(10.dp),
-                verticalArrangement = Arrangement.spacedBy(10.dp),
-                itemVerticalAlignment = Alignment.CenterVertically,
-                modifier = Modifier.padding(top = 10.dp)
-            ) {
-                FloatingAction(AppIcons.SkipPrevious, "Ayah before", { listen.skip(-1) })
-                Box(contentAlignment = Alignment.Center) {
-                    FloatingAction(if (state.playing) AppIcons.Pause else AppIcons.Play, if (state.playing) "Pause" else "Play", {
-                        haptics.toggle(!state.playing); listen.toggle()
-                    })
-                    if (state.loading) LoadingMark(size = 20.dp)
-                }
-                FloatingAction(AppIcons.SkipNext, "Next ayah", { listen.skip(1) })
-                Chip(repeatLabel(settings.repeat)) {
-                    haptics.tick()
-                    listen.setRepeat(REPEATS[(REPEATS.indexOf(settings.repeat) + 1) % REPEATS.size])
-                }
-                Chip("${settings.speed}×".replace(".0×", "×")) {
-                    haptics.tick()
-                    listen.setSpeed(SPEEDS[(SPEEDS.indexOf(settings.speed).coerceAtLeast(0) + 1) % SPEEDS.size])
-                }
-                // Sleep: in 15, 30 or 60 minutes, at the end of the surah, or not.
-                val sleep by listen.sleep.collectAsState()
-                val left by produceState(0, sleep) {
-                    while (true) {
-                        value = (sleep as? Sleep.At)?.let { ((it.at - System.currentTimeMillis() + 59_999) / 60_000).toInt() } ?: 0
-                        delay(15_000)
-                    }
-                }
-                Chip(
-                    when (val s = sleep) {
-                        null -> "Sleep"
-                        Sleep.SurahEnd -> "Stops at the surah's end"
-                        is Sleep.At -> "Stops in $left min"
-                    }
+        Column(Modifier.padding(horizontal = 12.dp, vertical = 10.dp)) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                // The reciter: a tap chooses another.
+                Column(
+                    Modifier
+                        .weight(1f)
+                        .clip(RoundedCornerShape(16.dp))
+                        .clickable { haptics.tick(); choosing = true }
+                        .padding(horizontal = 6.dp, vertical = 2.dp)
                 ) {
-                    haptics.tick()
-                    listen.setSleep(
-                        when (val s = sleep) {
-                            null -> Sleep.At(System.currentTimeMillis() + 15 * 60_000L, 15)
-                            is Sleep.At -> when (s.minutes) {
-                                15 -> Sleep.At(System.currentTimeMillis() + 30 * 60_000L, 30)
-                                30 -> Sleep.At(System.currentTimeMillis() + 60 * 60_000L, 60)
-                                else -> Sleep.SurahEnd
-                            }
-                            Sleep.SurahEnd -> null
-                        }
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Icon(AppIcons.Headphones, contentDescription = null, tint = MaterialTheme.colorScheme.primary, modifier = Modifier.size(18.dp))
+                        Spacer(Modifier.size(6.dp))
+                        Text(
+                            Recitations.reciter(store.reciter(settings.riwayah)).label,
+                            style = MaterialTheme.typography.titleMedium,
+                            maxLines = 1,
+                            overflow = TextOverflow.Ellipsis
+                        )
+                    }
+                    Text(
+                        when {
+                            state.failed -> "Could not be played. Check the connection."
+                            state.key != null -> listOfNotNull(
+                                "${surah ?: ""} ${state.key}",
+                                repeatLabel(settings.repeat).lowercase().takeIf { settings.repeat != 1 },
+                                when (sleep) {
+                                    null -> null
+                                    Sleep.SurahEnd -> "stops at the surah's end"
+                                    is Sleep.At -> "stops in $left min"
+                                }
+                            ).joinToString(" · ")
+                            else -> "Starting…"
+                        },
+                        style = MaterialTheme.typography.bodyMedium,
+                        color = if (state.failed) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.onSurfaceVariant,
+                        maxLines = 1,
+                        overflow = TextOverflow.Ellipsis
                     )
                 }
-                FloatingAction(AppIcons.Headphones, "Reciter", { choosing = true })
                 FloatingAction(AppIcons.Close, "Stop", { haptics.tick(); listen.stop() })
+            }
+            Spacer(Modifier.size(10.dp))
+            // The controls share the whole width.
+            EvenRows(minSlot = 46.dp) {
+                IconControl(AppIcons.SkipPrevious, "Ayah before", { listen.skip(-1) })
+                IconControl(
+                    if (state.playing) AppIcons.Pause else AppIcons.Play,
+                    if (state.playing) "Pause" else "Play",
+                    { haptics.toggle(!state.playing); listen.toggle() },
+                    accent = true
+                ) { if (state.loading) LoadingMark(size = 20.dp) }
+                IconControl(AppIcons.SkipNext, "Next ayah", { listen.skip(1) })
+                TextControl(if (settings.repeat == 1) "Once" else if (settings.repeat == 0) "∞" else "${settings.repeat}×", {
+                    haptics.tick()
+                    listen.setRepeat(REPEATS[(REPEATS.indexOf(settings.repeat) + 1) % REPEATS.size])
+                })
+                TextControl("${settings.speed}×".replace(".0×", "×"), {
+                    haptics.tick()
+                    listen.setSpeed(SPEEDS[(SPEEDS.indexOf(settings.speed).coerceAtLeast(0) + 1) % SPEEDS.size])
+                })
+                TextControl(
+                    when (sleep) {
+                        null -> "Sleep"
+                        Sleep.SurahEnd -> "Surah"
+                        is Sleep.At -> "$left min"
+                    },
+                    {
+                        haptics.tick()
+                        listen.setSleep(
+                            when (val s = sleep) {
+                                null -> Sleep.At(System.currentTimeMillis() + 15 * 60_000L, 15)
+                                is Sleep.At -> when (s.minutes) {
+                                    15 -> Sleep.At(System.currentTimeMillis() + 30 * 60_000L, 30)
+                                    30 -> Sleep.At(System.currentTimeMillis() + 60 * 60_000L, 60)
+                                    else -> Sleep.SurahEnd
+                                }
+                                Sleep.SurahEnd -> null
+                            }
+                        )
+                    },
+                    accent = sleep != null
+                )
             }
         }
     }
@@ -137,12 +170,5 @@ fun ListenPane(modifier: Modifier = Modifier) {
             onSelect = { listen.setReciter(it) },
             onDismiss = { choosing = false }
         )
-    }
-}
-
-@Composable
-private fun Chip(text: String, onClick: () -> Unit) {
-    FloatingPane(shape = CircleShape, onClick = onClick) {
-        Text(text, style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(horizontal = 14.dp, vertical = 12.dp))
     }
 }

@@ -20,7 +20,8 @@ to learn it by heart. No account, no tracking, no ads.
   phone and each word shows as you say it.
 - Find an ayah by reciting a few of its words to the phone (heard on the
   phone itself).
-- Play: Juz 'Amma for children, five games and three stars a surah.
+- Play: Juz 'Amma for children, six games and three stars a surah, each
+  child with their own stars.
 - A khatmah in 7 to 60 days: the day's pages, followed as you turn them.
 - A daily reminder of your wird or of the khatmah's pages, unless they are read.
 - Everything can be kept on the phone to read and listen offline.

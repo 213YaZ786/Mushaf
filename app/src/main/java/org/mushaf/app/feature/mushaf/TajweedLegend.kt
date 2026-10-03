@@ -22,6 +22,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
+import org.mushaf.app.feature.common.EvenRows
 import org.mushaf.app.ui.component.FloatingAction
 import org.mushaf.app.ui.component.FloatingPane
 import org.mushaf.app.ui.icon.AppIcons
@@ -60,8 +61,8 @@ fun TajweedLegend(dark: Boolean, onClose: () -> Unit) {
                     FloatingAction(AppIcons.Close, "Close", onClose)
                 }
                 Spacer(Modifier.size(12.dp))
-                // The rules wrap onto the next line on a narrow screen.
-                FlowRow(horizontalArrangement = Arrangement.spacedBy(16.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
+                // The rules in as many columns as the width holds.
+                EvenRows(minSlot = 150.dp, gap = 10.dp) {
                     for (r in RULES) {
                         Row(verticalAlignment = Alignment.CenterVertically) {
                             Box(Modifier.size(14.dp).background(Color(if (dark) r.dark else r.light), CircleShape))

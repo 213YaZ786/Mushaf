@@ -44,6 +44,8 @@ import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.feature.common.TextControl
+import org.mushaf.app.feature.common.EvenRows
 import org.mushaf.app.feature.recite.Recite
 import org.mushaf.app.feature.recite.ModelOffer
 import org.mushaf.app.data.stt.Recogniser
@@ -184,15 +186,10 @@ fun IndexScreen(onBack: () -> Unit) {
         bottom = 0.dp,
         top = {
             FloatingTop("Index", leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) })
-            Row(
-                Modifier.fillMaxWidth().padding(bottom = 8.dp),
-                horizontalArrangement = Arrangement.spacedBy(8.dp, Alignment.CenterHorizontally)
-            ) {
+            EvenRows(Modifier.padding(horizontal = 16.dp).padding(bottom = 8.dp), minSlot = 64.dp) {
                 // Warsh has no hizb list: its eighths are partly printed in the margin only.
                 for (p in Part.entries.filter { it != Part.HIZB || meta?.quarters?.isNotEmpty() != false }) {
-                    FloatingPane(shape = CircleShape, accent = p == part && query.isBlank(), onClick = { haptics.tick(); part = p; query = "" }) {
-                        Text(p.label, style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(horizontal = 16.dp, vertical = 10.dp))
-                    }
+                    TextControl(p.label, { haptics.tick(); part = p; query = "" }, accent = p == part && query.isBlank())
                 }
             }
             Row(
@@ -200,7 +197,7 @@ fun IndexScreen(onBack: () -> Unit) {
                 verticalAlignment = Alignment.CenterVertically,
                 horizontalArrangement = Arrangement.spacedBy(8.dp)
             ) {
-                SearchPill(query, { query = it; if (it.isNotEmpty()) heard = null }, "Search: words, meaning, 2:255, page 50", modifier = Modifier.weight(1f), floating = true)
+                SearchPill(query, { query = it; if (it.isNotEmpty()) heard = null }, "Words, meaning, 2:255, page 50", modifier = Modifier.weight(1f), floating = true)
                 FloatingAction(
                     AppIcons.Mic,
                     if (hearing.listening) "Done, find it" else "Recite to find the ayah",

@@ -36,6 +36,14 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import org.koin.compose.koinInject
+import org.mushaf.app.ui.component.ZoneAlertDialog
+import org.mushaf.app.feature.common.TextControl
+import org.mushaf.app.feature.common.EvenRows
+import org.mushaf.app.data.play.Child
+import androidx.compose.runtime.setValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.material3.TextButton
+import androidx.compose.material3.OutlinedTextField
 import org.mushaf.app.R
 import org.mushaf.app.data.play.Star
 import org.mushaf.app.data.play.Stars
@@ -54,6 +62,7 @@ enum class Game(val title: String, val detail: String, val icon: ImageVector, va
     LISTEN("Listen and repeat", "Sheikh al-Minshawi recites, a child repeats after him.", AppIcons.Headphones, Star.LISTENED),
     BUILD("Build the ayat", "Tap the words in their order.", AppIcons.Puzzle, Star.BUILT),
     MISSING("Find the missing word", "One word is hidden in each ayah.", AppIcons.Visibility, null),
+    MATCH("Match the meanings", "Each word with what it means.", AppIcons.Translate, null),
     WHICH("Which ayah?", "Listen, then find the ayah you heard.", AppIcons.VolumeUp, null),
     RECITE("Recite it", "Recite the surah to the phone, from memory.", AppIcons.Mic, Star.RECITED)
 }
@@ -80,13 +89,30 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
             Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = LocalReadableInset.current)
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding()))
+            // Who is playing: each child has their own stars.
+            val children by stars.children.collectAsState()
+            var editing by remember { mutableStateOf<Child?>(null) }
+            var adding by remember { mutableStateOf(false) }
+            EvenRows(Modifier.padding(horizontal = 12.dp).padding(bottom = 4.dp), minSlot = 96.dp) {
+                for (c in children.list.filter { it.name.isNotEmpty() }) {
+                    val active = c.id == children.active
+                    TextControl(c.name, { haptics.tick(); if (active) editing = c else stars.select(c.id) }, accent = active)
+                }
+                TextControl(if (children.list.any { it.name.isNotEmpty() }) "+ Child" else "+ Add a child's name", { haptics.tick(); adding = true })
+            }
+            if (adding) NameDialog("A child's name", "", onDone = { stars.add(it); adding = false }, onCancel = { adding = false })
+            editing?.let { c ->
+                NameDialog(
+                    "${c.name}'s name", c.name,
+                    onDone = { stars.rename(c.id, it); editing = null },
+                    onCancel = { editing = null },
+                    onRemove = { stars.remove(c.id); editing = null }
+                )
+            }
             val total = won.values.sumOf { it.size }
             Section("Juz 'Amma · $total of ${37 * 3} stars") {
-                FlowRow(
-                    horizontalArrangement = Arrangement.spacedBy(10.dp, Alignment.CenterHorizontally),
-                    verticalArrangement = Arrangement.spacedBy(10.dp),
-                    modifier = Modifier.fillMaxWidth().padding(12.dp)
-                ) {
+                // The surahs in as many columns as the width holds, each as wide as its share.
+                EvenRows(Modifier.padding(12.dp), minSlot = 100.dp, gap = 10.dp) {
                     for (n in 114 downTo 78) {
                         val s = meta?.surahs?.getOrNull(n - 1)
                         val got = won[n].orEmpty()
@@ -94,9 +120,9 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
                             shape = RoundedCornerShape(22.dp),
                             accent = got.size == 3,
                             onClick = { haptics.tick(); onOpenSurah(n) },
-                            modifier = Modifier.width(104.dp)
+                            modifier = Modifier.fillMaxWidth()
                         ) {
-                            Column(Modifier.padding(vertical = 10.dp), horizontalAlignment = Alignment.CenterHorizontally) {
+                            Column(Modifier.fillMaxWidth().padding(vertical = 10.dp), horizontalAlignment = Alignment.CenterHorizontally) {
                                 Text("%03d".format(n), style = TextStyle(fontFamily = names, fontSize = 30.sp, textAlign = TextAlign.Center), maxLines = 1)
                                 Text(s?.name.orEmpty(), style = MaterialTheme.typography.labelSmall, maxLines = 1)
                                 Row(Modifier.padding(top = 4.dp)) {
@@ -118,4 +144,29 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
             Spacer(Modifier.windowInsetsBottomHeight(WindowInsets.navigationBars))
         }
     }
+}
+
+/** A child's name, to add or change; removing forgets their stars. */
+@Composable
+private fun NameDialog(title: String, initial: String, onDone: (String) -> Unit, onCancel: () -> Unit, onRemove: (() -> Unit)? = null) {
+    var name by remember { mutableStateOf(initial) }
+    var removing by remember { mutableStateOf(false) }
+    ZoneAlertDialog(
+        onDismissRequest = onCancel,
+        title = { Text(if (removing) "Remove $initial?" else title) },
+        text = {
+            if (removing) Text("Their stars are forgotten.")
+            else OutlinedTextField(value = name, onValueChange = { name = it.take(30) }, singleLine = true, modifier = Modifier.fillMaxWidth())
+        },
+        confirmButton = {
+            if (removing) TextButton(onClick = { onRemove?.invoke() }) { Text("Remove") }
+            else TextButton(onClick = { onDone(name) }, enabled = name.isNotBlank()) { Text("Save") }
+        },
+        dismissButton = {
+            Row {
+                if (onRemove != null && !removing) TextButton(onClick = { removing = true }) { Text("Remove") }
+                TextButton(onClick = onCancel) { Text("Cancel") }
+            }
+        }
+    )
 }

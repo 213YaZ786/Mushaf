@@ -29,6 +29,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import org.koin.compose.koinInject
+import org.mushaf.app.feature.common.TextControl
+import org.mushaf.app.feature.common.EvenRows
 import org.mushaf.app.core.quran.PAGES
 import org.mushaf.app.data.khatmah.Khatmah
 import org.mushaf.app.data.quran.Quran
@@ -72,26 +74,23 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                         Text("Read the whole Quran in", style = MaterialTheme.typography.bodyMedium)
                         Spacer(Modifier.size(12.dp))
                         val from = if (fromHere) page else 1
-                        // The lengths wrap onto the next line on a narrow screen.
-                        FlowRow(horizontalArrangement = Arrangement.spacedBy(10.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
+                        // The lengths share the whole width.
+                        EvenRows(minSlot = 60.dp) {
                             for (d in LENGTHS) {
                                 val perDay = (PAGES - from + 1 + d - 1) / d
-                                FloatingPane(shape = CircleShape, onClick = { haptics.done(); khatmah.start(d, from) }) {
-                                    Column(Modifier.padding(horizontal = 16.dp, vertical = 8.dp), horizontalAlignment = Alignment.CenterHorizontally) {
+                                FloatingPane(shape = RoundedCornerShape(20.dp), onClick = { haptics.done(); khatmah.start(d, from) }, modifier = Modifier.fillMaxWidth()) {
+                                    Column(Modifier.fillMaxWidth().padding(vertical = 8.dp), horizontalAlignment = Alignment.CenterHorizontally) {
                                         Text("$d days", style = MaterialTheme.typography.labelLarge)
-                                        Text("$perDay pages a day", style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                                        Text("$perDay p./day", style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
                                     }
                                 }
                             }
                         }
                         if (page > 1) {
                             Spacer(Modifier.size(12.dp))
-                            FloatingPane(shape = CircleShape, accent = fromHere, onClick = { haptics.tick(); fromHere = !fromHere }) {
-                                Text(
-                                    if (fromHere) "From page $page" else "From the start · or from page $page",
-                                    style = MaterialTheme.typography.labelLarge,
-                                    modifier = Modifier.padding(horizontal = 16.dp, vertical = 10.dp)
-                                )
+                            EvenRows(minSlot = 120.dp) {
+                                TextControl("From page 1", { haptics.tick(); fromHere = false }, accent = !fromHere)
+                                TextControl("From page $page", { haptics.tick(); fromHere = true }, accent = fromHere)
                             }
                         }
                     }
@@ -102,7 +101,7 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                             style = MaterialTheme.typography.bodyLarge
                         )
                         Spacer(Modifier.size(12.dp))
-                        BoldButton(filled = true, onClick = { haptics.tick(); khatmah.end() }) { Text("Start another") }
+                        TextControl("Start another", { haptics.tick(); khatmah.end() }, accent = true)
                     }
                     else -> {
                         val today = remember(p) { p.portion(khatmah.today()) }
@@ -134,11 +133,9 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                             modifier = Modifier.padding(top = 4.dp)
                         )
                         Spacer(Modifier.size(12.dp))
-                        FlowRow(horizontalArrangement = Arrangement.spacedBy(10.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
-                            if (today.fromPage != page) BoldButton(filled = true, onClick = { haptics.tick(); onGo(today.fromPage) }) {
-                                Text("Go to page ${today.fromPage}")
-                            }
-                            QuietButton(onClick = { ending = true }) { Text("End the khatmah") }
+                        EvenRows(minSlot = 120.dp) {
+                            if (today.fromPage != page) TextControl("Go to page ${today.fromPage}", { haptics.tick(); onGo(today.fromPage) }, accent = true)
+                            TextControl("End the khatmah", { ending = true })
                         }
                     }
                 }

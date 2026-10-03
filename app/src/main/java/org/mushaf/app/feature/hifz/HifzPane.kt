@@ -20,6 +20,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import androidx.compose.foundation.layout.Row
+import org.mushaf.app.feature.common.TextControl
+import org.mushaf.app.feature.common.IconControl
+import org.mushaf.app.feature.common.EvenRows
 import android.Manifest
 import android.content.pm.PackageManager
 import androidx.activity.compose.rememberLauncherForActivityResult
@@ -108,14 +112,18 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
         )
     }
     FloatingPane(shape = RoundedCornerShape(28.dp), modifier = modifier.widthIn(max = 560.dp).fillMaxWidth()) {
-        Column(Modifier.padding(horizontal = 16.dp, vertical = 12.dp)) {
-            Text(
-                when (session.kind) {
-                    SessionKind.LESSON -> "Lesson · ${keys.firstOrNull() ?: ""}–${keys.lastOrNull()?.ayah ?: ""}"
-                    SessionKind.REVISION -> "Revision · page ${session.page}"
-                },
-                style = MaterialTheme.typography.titleMedium
-            )
+        Column(Modifier.padding(horizontal = 12.dp, vertical = 10.dp)) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Text(
+                    when (session.kind) {
+                        SessionKind.LESSON -> "Lesson · ${keys.firstOrNull() ?: ""}–${keys.lastOrNull()?.ayah ?: ""}"
+                        SessionKind.REVISION -> "Revision · page ${session.page}"
+                    },
+                    style = MaterialTheme.typography.titleMedium,
+                    modifier = Modifier.weight(1f).padding(start = 4.dp)
+                )
+                FloatingAction(AppIcons.Close, "End", { hifz.stop() })
+            }
             Text(
                 when (session.show) {
                     WordShow.ALL -> "Read it and listen, then hide the words."
@@ -144,20 +152,15 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
                     modifier = Modifier.padding(top = 4.dp)
                 )
             }
-            FlowRow(
-                horizontalArrangement = Arrangement.spacedBy(8.dp),
-                verticalArrangement = Arrangement.spacedBy(8.dp),
-                itemVerticalAlignment = Alignment.CenterVertically,
-                modifier = Modifier.padding(top = 10.dp)
-            ) {
+            // The controls share the whole width.
+            EvenRows(Modifier.padding(top = 10.dp), minSlot = 52.dp) {
                 for ((show, label) in listOf(WordShow.ALL to "Shown", WordShow.FIRST_LETTER to "Hints", WordShow.HIDDEN to "Hidden")) {
-                    Chip(label, session.show == show) { haptics.tick(); hifz.setShow(show) }
+                    TextControl(label, { haptics.tick(); hifz.setShow(show) }, accent = session.show == show)
                 }
                 if (session.show != WordShow.ALL) {
-                    FloatingAction(AppIcons.Visibility, "Show the next word", { haptics.tick(); hifz.revealNext(words) })
+                    IconControl(AppIcons.Visibility, "Show the next word", { hifz.revealNext(words) })
                 }
-                FloatingAction(AppIcons.Mic, if (reciting.listening) "Stop listening" else "Recite", {
-                    haptics.tick()
+                IconControl(AppIcons.Mic, if (reciting.listening) "Stop listening" else "Recite", {
                     when {
                         reciting.listening -> recite.stop()
                         !modelReady -> offerModel = true
@@ -166,37 +169,25 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
                     }
                 }, tint = if (reciting.listening) MaterialTheme.colorScheme.error else androidx.compose.ui.graphics.Color.Unspecified)
                 if (session.kind == SessionKind.LESSON && keys.isNotEmpty()) {
-                    FloatingAction(AppIcons.Repeat, "Listen three times", {
+                    IconControl(AppIcons.Repeat, "Listen three times", {
                         listen.setRepeat(3)
                         listen.play(keys.first(), until = keys.last())
                     })
                 }
-                FloatingAction(AppIcons.Close, "End", { hifz.stop() })
             }
-            FlowRow(
-                horizontalArrangement = Arrangement.spacedBy(8.dp),
-                verticalArrangement = Arrangement.spacedBy(8.dp),
-                modifier = Modifier.padding(top = 10.dp)
-            ) {
+            EvenRows(Modifier.padding(top = 8.dp), minSlot = 64.dp) {
                 when (session.kind) {
                     SessionKind.LESSON -> {
-                        Chip("I know it by heart", true) { haptics.done(); scope.launch { hifz.learnt() } }
+                        TextControl("I know it by heart", { haptics.done(); scope.launch { hifz.learnt() } }, accent = true)
                     }
                     SessionKind.REVISION -> {
-                        Chip("Forgot", false) { haptics.reject(); hifz.grade(Grade.AGAIN) }
-                        Chip("Hard", false) { haptics.tick(); hifz.grade(Grade.HARD) }
-                        Chip("Good", true) { haptics.done(); hifz.grade(Grade.GOOD) }
-                        Chip("Easy", false) { haptics.done(); hifz.grade(Grade.EASY) }
+                        TextControl("Forgot", { haptics.reject(); hifz.grade(Grade.AGAIN) })
+                        TextControl("Hard", { haptics.tick(); hifz.grade(Grade.HARD) })
+                        TextControl("Good", { haptics.done(); hifz.grade(Grade.GOOD) }, accent = true)
+                        TextControl("Easy", { haptics.done(); hifz.grade(Grade.EASY) })
                     }
                 }
             }
         }
-    }
-}
-
-@Composable
-private fun Chip(text: String, accent: Boolean, onClick: () -> Unit) {
-    FloatingPane(shape = CircleShape, accent = accent, onClick = onClick) {
-        Text(text, style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(horizontal = 14.dp, vertical = 10.dp))
     }
 }

@@ -34,6 +34,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.feature.common.IconControl
+import org.mushaf.app.feature.common.EvenRows
 import androidx.compose.foundation.clickable
 import org.mushaf.app.data.audio.WordAudio
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
@@ -137,27 +139,27 @@ fun AyahSheet(
                     Text("Note · $note", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
                 }
                 Spacer(Modifier.size(16.dp))
-                // The actions wrap onto a second line on a narrow screen.
-                FlowRow(horizontalArrangement = Arrangement.spacedBy(12.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
-                    FloatingAction(if (bookmarked) AppIcons.Bookmark else AppIcons.BookmarkOutline, if (bookmarked) "Remove bookmark" else "Bookmark", {
+                // The actions share the whole width, on balanced rows.
+                EvenRows(minSlot = 48.dp) {
+                    IconControl(if (bookmarked) AppIcons.Bookmark else AppIcons.BookmarkOutline, if (bookmarked) "Remove bookmark" else "Bookmark", {
                         haptics.toggle(marks.toggleBookmark(word.key))
                     })
-                    FloatingAction(AppIcons.Play, "Listen from here", { onPlay(word.key) })
-                    FloatingAction(AppIcons.Translate, "Read with meaning", { onOpenMeaning(word.key) })
-                    FloatingAction(AppIcons.MenuBook, "Tafsir", { onOpenTafsir(word.key) })
-                    FloatingAction(AppIcons.Info, "Note", { writing = true })
-                    FloatingAction(AppIcons.Copy, "Copy", {
+                    IconControl(AppIcons.Play, "Listen from here", { onPlay(word.key) })
+                    IconControl(AppIcons.Translate, "Read with meaning", { onOpenMeaning(word.key) })
+                    IconControl(AppIcons.MenuBook, "Tafsir", { onOpenTafsir(word.key) })
+                    IconControl(AppIcons.Info, "Note", { writing = true })
+                    IconControl(AppIcons.Copy, "Copy", {
                         haptics.done()
                         scope.launch {
                             clipboard.setClipEntry(ClipData.newPlainText(reference, "$arabic\n$meaning\n($reference)").toClipEntry())
                         }
                     })
-                    FloatingAction(AppIcons.Share, "Share", {
+                    IconControl(AppIcons.Share, "Share", {
                         val send = Intent(Intent.ACTION_SEND).setType("text/plain")
                             .putExtra(Intent.EXTRA_TEXT, "$arabic\n\n$meaning\n\n($reference)")
                         context.startActivity(Intent.createChooser(send, null))
                     })
-                    FloatingAction(AppIcons.Close, "Close", onClose)
+                    IconControl(AppIcons.Close, "Close", onClose)
                 }
                 if (writing) NoteDialog(reference, note.orEmpty(), onDone = { text ->
                     marks.setNote(word.key, text)

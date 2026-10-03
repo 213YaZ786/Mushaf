@@ -60,6 +60,9 @@ import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
 import kotlin.random.Random
 import kotlinx.coroutines.launch
+import org.mushaf.app.feature.common.EvenRows
+import org.mushaf.app.data.audio.WordAudio
+import org.mushaf.app.core.play.Meaning
 import androidx.compose.animation.core.tween
 import org.mushaf.app.ui.component.reducedMotion
 import org.mushaf.app.ui.component.Glide
@@ -206,6 +209,7 @@ fun SurahGames(surah: Int, onBack: () -> Unit) {
                 }
                 Game.BUILD -> BuildGame(list) { stars.win(surah, Star.BUILT) }
                 Game.MISSING -> MissingGame(list)
+                Game.MATCH -> MatchGame(list)
                 Game.WHICH -> WhichGame(list, teacher(riwayah))
                 Game.RECITE -> ReciteGame(list) { stars.win(surah, Star.RECITED) }
             }
@@ -464,6 +468,95 @@ private fun BuildGame(ayat: List<Ayah>, onWon: () -> Unit) {
     }
 }
 
+/**
+ * Words of the surah and their meanings, four at a time: a word tapped is
+ * heard and chosen, then its meaning; a pair found stays lit, a wrong
+ * meaning shakes its head.
+ */
+@OptIn(ExperimentalLayoutApi::class)
+@Composable
+private fun MatchGame(ayat: List<Ayah>) {
+    val haptics = rememberHaptics()
+    val font = hafs()
+    val wordAudio: WordAudio = koinInject()
+    var game by remember { mutableIntStateOf(0) }
+    val rounds = remember(ayat, game) {
+        val pool = ayat.flatMap { a -> a.words.map { w -> w to Meaning(w.text, w.meaning) } }
+        Games.matching(pool.map { it.second }, Arabic::normalize, Random(System.nanoTime()))
+            .map { round -> round.map { m -> pool.first { it.second == m }.first } }
+    }
+    var round by remember(game) { mutableIntStateOf(0) }
+    if (rounds.isEmpty()) {
+        Text("This surah is too short for this game.", style = MaterialTheme.typography.bodyLarge, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(24.dp))
+        return
+    }
+    if (round >= rounds.size) {
+        Done("All the meanings found!") { game++ }
+        return
+    }
+    val words = rounds[round]
+    val meanings = remember(words) { words.shuffled(Random(System.nanoTime())) }
+    val found = remember(words) { mutableStateListOf<Word>() }
+    var chosen by remember(words) { mutableStateOf<Word?>(null) }
+    var wrong by remember(words) { mutableStateOf<Word?>(null) }
+    LaunchedEffect(found.size) {
+        if (found.size == words.size) { delay(500); round++ }
+    }
+    Text("Round ${round + 1} of ${rounds.size}", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary,
+        textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(bottom = 12.dp))
+    Rtl {
+        EvenRows(minSlot = 72.dp, gap = 10.dp) {
+            for (w in words) {
+                val done = w in found
+                FloatingPane(
+                    shape = RoundedCornerShape(18.dp),
+                    accent = done || chosen == w,
+                    onClick = if (done) null else ({ haptics.tick(); chosen = w; wordAudio.play(w) }),
+                    modifier = Modifier.fillMaxWidth()
+                ) {
+                    Text(w.text, style = TextStyle(fontFamily = font, fontSize = 36.sp, textAlign = TextAlign.Center),
+                        color = if (done) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurface,
+                        modifier = Modifier.fillMaxWidth().padding(vertical = 14.dp))
+                }
+            }
+        }
+    }
+    Spacer(Modifier.height(24.dp))
+    EvenRows(minSlot = 140.dp, gap = 10.dp) {
+        for (m in meanings) {
+            val done = m in found
+            val shake = remember(m) { Animatable(0f) }
+            LaunchedEffect(wrong) { if (wrong == m) { shake.animateTo(1f, spring(dampingRatio = 0.2f, stiffness = 2000f)); shake.snapTo(0f); wrong = null } }
+            FloatingPane(
+                shape = RoundedCornerShape(18.dp),
+                accent = done,
+                onClick = if (done) null else ({
+                    val w = chosen
+                    when {
+                        w == null -> haptics.reject()
+                        w == m -> { haptics.done(); found += m; chosen = null }
+                        else -> { haptics.reject(); wrong = m }
+                    }
+                }),
+                modifier = Modifier.fillMaxWidth().graphicsLayer { rotationZ = shake.value * 6f }
+            ) {
+                // One height for all, room for two lines, the meaning in the middle.
+                Box(Modifier.fillMaxWidth().heightIn(min = 96.dp).padding(horizontal = 8.dp, vertical = 10.dp), contentAlignment = Alignment.Center) {
+                    Text(m.meaning, style = MaterialTheme.typography.titleLarge, textAlign = TextAlign.Center, maxLines = 3,
+                        color = if (done) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurface)
+                }
+            }
+        }
+    }
+    Text(
+        if (chosen == null) "Tap a word, then its meaning." else "Now its meaning.",
+        style = MaterialTheme.typography.bodyMedium,
+        color = MaterialTheme.colorScheme.onSurfaceVariant,
+        textAlign = TextAlign.Center,
+        modifier = Modifier.fillMaxWidth().padding(top = 16.dp)
+    )
+}
+
 /** One word hidden in each ayah, to choose among three. */
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
@@ -496,7 +589,7 @@ private fun MissingGame(ayat: List<Ayah>) {
     }
     Spacer(Modifier.height(20.dp))
     Rtl {
-        FlowRow(horizontalArrangement = Arrangement.spacedBy(12.dp, Alignment.CenterHorizontally), modifier = Modifier.fillMaxWidth()) {
+        EvenRows(minSlot = 90.dp, gap = 10.dp) {
             for (c in q.choices) {
                 val right = Arabic.normalize(c) == Arabic.normalize(answer)
                 FloatingPane(
@@ -506,13 +599,14 @@ private fun MissingGame(ayat: List<Ayah>) {
                         if (picked != null) return@FloatingPane
                         picked = c
                         if (right) { haptics.done(); score++ } else haptics.reject()
-                    }
+                    },
+                    modifier = Modifier.fillMaxWidth()
                 ) {
                     Text(
                         c,
-                        style = TextStyle(fontFamily = font, fontSize = 30.sp),
+                        style = TextStyle(fontFamily = font, fontSize = 32.sp, textAlign = TextAlign.Center),
                         color = if (picked == c && !right) MaterialTheme.colorScheme.error else Color.Unspecified,
-                        modifier = Modifier.padding(horizontal = 18.dp, vertical = 8.dp)
+                        modifier = Modifier.fillMaxWidth().padding(vertical = 12.dp)
                     )
                 }
             }
