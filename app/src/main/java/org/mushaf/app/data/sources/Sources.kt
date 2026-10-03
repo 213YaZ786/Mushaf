@@ -34,10 +34,11 @@ data class SourceList(
 ) {
     /** Every place is HTTPS and every server name well formed, or the list is refused. */
     fun valid(): Boolean {
-        val urls = printFont + tajweedFont + quranCom + recitations + fawaz + stt
+        val urls = printFont + tajweedFont + quranCom + recitations + fawaz + stt + mp3quran
         return urls.isNotEmpty() && urls.all { it.startsWith("https://") } &&
             printFont.isNotEmpty() && quranCom.isNotEmpty() && recitations.isNotEmpty() && fawaz.isNotEmpty() &&
-            fontHashes.values.all { it.matches(Regex("^[0-9a-f]{64}$")) }
+            fontHashes.values.all { it.matches(Regex("^[0-9a-f]{64}$")) } &&
+            hosts.all { it.matches(Regex("^[a-z0-9]([a-z0-9-]*[a-z0-9])?(\\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)+$")) }
     }
 }
 
@@ -68,8 +69,10 @@ class Sources(private val context: Context) {
         if (file.exists() && System.currentTimeMillis() - file.lastModified() < 7 * 24 * 3600_000L) return@withContext
         runCatching {
             val text = Net.text(REMOTE, maxBytes = 64 * 1024)
-            val list = json.decodeFromString<SourceList>(text)
-            if (list.valid()) {
+            val signature = Net.text("$REMOTE.sig", maxBytes = 1024).trim()
+            // Taken only when signed by the app's own key: a list changed by anyone else is ignored.
+            val list = if (signed(text.toByteArray(Charsets.UTF_8), signature)) json.decodeFromString<SourceList>(text) else null
+            if (list != null && list.valid()) {
                 file.writeTextAtomically(text)
                 current = load()
             } else {
@@ -79,6 +82,20 @@ class Sources(private val context: Context) {
     }
 
     companion object {
+        /** The public half of the key sources.json is signed with (tools/sign_sources.py), ECDSA P-256. */
+        const val PUBLIC_KEY = "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEuQhXPaMj+sm5VXv6aIZZ6VUDHbXJoipigtnXnFRemwxMqm0RdBoZbynEIpzAPslLaEmETlWNEqGx2wvmyjVrSg=="
+
+        /** True when [signature] (base64, DER) is the key's signature of [data]. */
+        fun signed(data: ByteArray, signature: String): Boolean = runCatching {
+            val key = java.security.KeyFactory.getInstance("EC")
+                .generatePublic(java.security.spec.X509EncodedKeySpec(java.util.Base64.getDecoder().decode(PUBLIC_KEY)))
+            java.security.Signature.getInstance("SHA256withECDSA").run {
+                initVerify(key)
+                update(data)
+                verify(java.util.Base64.getDecoder().decode(signature))
+            }
+        }.getOrDefault(false)
+
         /** The same file as in the app, from the app's repository. */
         const val REMOTE = "https://raw.githubusercontent.com/213YaZ786/Mushaf/main/app/src/main/assets/sources.json"
     }

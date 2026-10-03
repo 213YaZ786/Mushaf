@@ -189,7 +189,7 @@ fun IndexScreen(onBack: () -> Unit) {
             EvenRows(Modifier.padding(horizontal = 16.dp).padding(bottom = 8.dp), minSlot = 64.dp) {
                 // Warsh has no hizb list: its eighths are partly printed in the margin only.
                 for (p in Part.entries.filter { it != Part.HIZB || meta?.quarters?.isNotEmpty() != false }) {
-                    TextControl(p.label, { haptics.tick(); part = p; query = "" }, accent = p == part && query.isBlank())
+                    TextControl(p.label, { part = p; query = "" }, accent = p == part && query.isBlank())
                 }
             }
             Row(

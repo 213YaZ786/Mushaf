@@ -96,9 +96,9 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
             EvenRows(Modifier.padding(horizontal = 12.dp).padding(bottom = 4.dp), minSlot = 96.dp) {
                 for (c in children.list.filter { it.name.isNotEmpty() }) {
                     val active = c.id == children.active
-                    TextControl(c.name, { haptics.tick(); if (active) editing = c else stars.select(c.id) }, accent = active)
+                    TextControl(c.name, { if (active) editing = c else stars.select(c.id) }, accent = active)
                 }
-                TextControl(if (children.list.any { it.name.isNotEmpty() }) "+ Child" else "+ Add a child's name", { haptics.tick(); adding = true })
+                TextControl(if (children.list.any { it.name.isNotEmpty() }) "+ Child" else "+ Add a child's name", { adding = true })
             }
             if (adding) NameDialog("A child's name", "", onDone = { stars.add(it); adding = false }, onCancel = { adding = false })
             editing?.let { c ->

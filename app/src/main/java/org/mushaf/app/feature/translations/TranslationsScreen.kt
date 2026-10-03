@@ -128,7 +128,8 @@ private fun Heading(text: String) {
 
 @Composable
 private fun TranslationRow(t: TranslationInfo, on: Boolean, busy: Boolean, failed: Boolean, onChange: (Boolean) -> Unit) {
-    ZoneSurface(shape = RoundedCornerShape(22.dp), accent = on, onClick = { if (!busy) onChange(!on) }, modifier = Modifier.fillMaxWidth()) {
+    val haptics = rememberHaptics()
+    ZoneSurface(shape = RoundedCornerShape(22.dp), accent = on, onClick = { if (!busy) { haptics.toggle(!on); onChange(!on) } }, modifier = Modifier.fillMaxWidth()) {
         Row(Modifier.padding(horizontal = 16.dp, vertical = 12.dp), verticalAlignment = Alignment.CenterVertically) {
             Column(Modifier.weight(1f)) {
                 Text(t.name, style = MaterialTheme.typography.titleMedium)

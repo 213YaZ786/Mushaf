@@ -155,7 +155,7 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
             // The controls share the whole width.
             EvenRows(Modifier.padding(top = 10.dp), minSlot = 52.dp) {
                 for ((show, label) in listOf(WordShow.ALL to "Shown", WordShow.FIRST_LETTER to "Hints", WordShow.HIDDEN to "Hidden")) {
-                    TextControl(label, { haptics.tick(); hifz.setShow(show) }, accent = session.show == show)
+                    TextControl(label, { hifz.setShow(show) }, accent = session.show == show)
                 }
                 if (session.show != WordShow.ALL) {
                     IconControl(AppIcons.Visibility, "Show the next word", { hifz.revealNext(words) })
@@ -182,7 +182,7 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
                     }
                     SessionKind.REVISION -> {
                         TextControl("Forgot", { haptics.reject(); hifz.grade(Grade.AGAIN) })
-                        TextControl("Hard", { haptics.tick(); hifz.grade(Grade.HARD) })
+                        TextControl("Hard", { hifz.grade(Grade.HARD) })
                         TextControl("Good", { haptics.done(); hifz.grade(Grade.GOOD) }, accent = true)
                         TextControl("Easy", { haptics.done(); hifz.grade(Grade.EASY) })
                     }

@@ -251,7 +251,7 @@ private fun Done(text: String, onAgain: () -> Unit) {
             for (i in 0 until 3) EightStar(pops[i].value, bursts[i].value, starColor, Modifier.size(if (i == 1) 84.dp else 64.dp))
         }
         Text(text, style = MaterialTheme.typography.headlineSmall, textAlign = TextAlign.Center, modifier = Modifier.padding(16.dp))
-        BoldButton(filled = true, onClick = onAgain) { Text("Again") }
+        BoldButton(filled = true, onClick = { haptics.tick(); onAgain() }) { Text("Again") }
     }
 }
 
@@ -614,7 +614,7 @@ private fun MissingGame(ayat: List<Ayah>) {
     }
     if (picked != null) {
         Row(Modifier.fillMaxWidth().padding(top = 20.dp), horizontalArrangement = Arrangement.Center) {
-            BoldButton(filled = true, onClick = { index++ }) { Text("Next") }
+            BoldButton(filled = true, onClick = { haptics.tick(); index++ }) { Text("Next") }
         }
     }
 }
@@ -662,7 +662,7 @@ private fun WhichGame(ayat: List<Ayah>, reciter: Int) {
     }
     if (picked != null) {
         Row(Modifier.fillMaxWidth().padding(top = 10.dp), horizontalArrangement = Arrangement.Center) {
-            BoldButton(filled = true, onClick = { round++ }) { Text("Next") }
+            BoldButton(filled = true, onClick = { haptics.tick(); round++ }) { Text("Next") }
         }
     }
 }
@@ -699,7 +699,7 @@ private fun ReciteGame(ayat: List<Ayah>, onWon: () -> Unit) {
                     fetching = null
                 }
             }) { Text("Get the speech model, 80 MB") }
-            state.listening -> BoldButton(onClick = { recite.stop() }) { Text("Stop") }
+            state.listening -> BoldButton(onClick = { haptics.tick(); recite.stop() }) { Text("Stop") }
             else -> BoldButton(filled = true, onClick = {
                 recite.reset()
                 if (ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) start()

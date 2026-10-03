@@ -89,8 +89,8 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                         if (page > 1) {
                             Spacer(Modifier.size(12.dp))
                             EvenRows(minSlot = 120.dp) {
-                                TextControl("From page 1", { haptics.tick(); fromHere = false }, accent = !fromHere)
-                                TextControl("From page $page", { haptics.tick(); fromHere = true }, accent = fromHere)
+                                TextControl("From page 1", { fromHere = false }, accent = !fromHere)
+                                TextControl("From page $page", { fromHere = true }, accent = fromHere)
                             }
                         }
                     }
@@ -101,7 +101,7 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                             style = MaterialTheme.typography.bodyLarge
                         )
                         Spacer(Modifier.size(12.dp))
-                        TextControl("Start another", { haptics.tick(); khatmah.end() }, accent = true)
+                        TextControl("Start another", { khatmah.end() }, accent = true)
                     }
                     else -> {
                         val today = remember(p) { p.portion(khatmah.today()) }
@@ -134,7 +134,7 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                         )
                         Spacer(Modifier.size(12.dp))
                         EvenRows(minSlot = 120.dp) {
-                            if (today.fromPage != page) TextControl("Go to page ${today.fromPage}", { haptics.tick(); onGo(today.fromPage) }, accent = true)
+                            if (today.fromPage != page) TextControl("Go to page ${today.fromPage}", { onGo(today.fromPage) }, accent = true)
                             TextControl("End the khatmah", { ending = true })
                         }
                     }

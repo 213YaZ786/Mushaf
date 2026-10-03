@@ -233,7 +233,7 @@ private fun PagesCard(title: String, pages: List<Int>, onPage: (Int) -> Unit) {
     Column {
         Text(title, style = MaterialTheme.typography.titleMedium)
         EvenRows(Modifier.padding(top = 8.dp), minSlot = 72.dp) {
-            for (p in pages) TextControl("p. $p", { haptics.tick(); onPage(p) })
+            for (p in pages) TextControl("p. $p", { onPage(p) })
         }
     }
 }
@@ -246,6 +246,7 @@ private fun PagesCard(title: String, pages: List<Int>, onPage: (Int) -> Unit) {
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
 private fun PageMap(hifz: Hifz, onOpenMushaf: () -> Unit) {
+    val haptics = rememberHaptics()
     val quran: Quran = koinInject()
     val session: HifzSession = koinInject()
     val state by hifz.state.collectAsState()
@@ -278,7 +279,7 @@ private fun PageMap(hifz: Hifz, onOpenMushaf: () -> Unit) {
                                     if (s == null) Modifier.border(1.dp, outline, RoundedCornerShape(3.dp))
                                     else Modifier.background(lerp(weak, firm, Schedule.strength(s, today)))
                                 )
-                                .clickable(enabled = s != null) { scope.launch { session.startRevision(p); onOpenMushaf() } }
+                                .clickable(enabled = s != null) { haptics.tick(); scope.launch { session.startRevision(p); onOpenMushaf() } }
                         )
                     }
                 }

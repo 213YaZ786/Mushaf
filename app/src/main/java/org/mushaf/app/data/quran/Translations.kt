@@ -124,7 +124,8 @@ class Translations(private val context: Context, private val quran: Quran, priva
                 val root = json.parseToJsonElement(first(sources.list.quranCom, BIG) { "$it/quran/translations/$id" }).jsonObject
                 val list = root["translations"]!!.jsonArray
                 // In the Quran's order, one per ayah.
-                val keys = quran.ayat().map { it.key.toString() }
+                // Numbered as Hafs, whichever riwayah is read.
+                val keys = quran.hafsOrder().map { it.toString() }
                 if (list.size != keys.size) error("translation has ${list.size} ayat")
                 keys.zip(list.map { clean(it.jsonObject["text"]!!.jsonPrimitive.content) })
             }

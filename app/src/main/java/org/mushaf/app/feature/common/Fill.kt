@@ -82,7 +82,8 @@ fun IconControl(icon: ImageVector, label: String, onClick: () -> Unit, accent: B
 /** A control of an [EvenRows] with a word in it. */
 @Composable
 fun TextControl(text: String, onClick: (() -> Unit)?, accent: Boolean = false) {
-    FloatingPane(shape = CircleShape, accent = accent, onClick = onClick, modifier = Modifier.fillMaxWidth().height(ControlHeight)) {
+    val haptics = rememberHaptics()
+    FloatingPane(shape = CircleShape, accent = accent, onClick = onClick?.let { act -> { haptics.tick(); act() } }, modifier = Modifier.fillMaxWidth().height(ControlHeight)) {
         Box(Modifier.fillMaxWidth().height(ControlHeight).padding(horizontal = 6.dp), contentAlignment = Alignment.Center) {
             Text(text, style = MaterialTheme.typography.labelLarge, maxLines = 1, overflow = TextOverflow.Ellipsis, textAlign = TextAlign.Center)
         }

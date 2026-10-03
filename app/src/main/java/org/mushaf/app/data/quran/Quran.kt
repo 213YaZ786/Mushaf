@@ -113,6 +113,14 @@ class Quran(private val context: Context, private val settings: SettingsStore) {
     suspend fun firstAyah(page: Int): AyahKey =
         AyahKey.parse(meta().pageStart[page.coerceIn(1, PAGES) - 1]) ?: AyahKey(1, 1)
 
+    @Volatile private var hafsOrderCache: List<AyahKey>? = null
+
+    /** Every ayah as Hafs numbers them (6236), whatever the riwayah read: the order of the translations. */
+    suspend fun hafsOrder(): List<AyahKey> = hafsOrderCache ?: withContext(Dispatchers.IO) {
+        asset("quran/ayat.txt").lineSequence().filter { it.isNotBlank() }
+            .mapNotNull { AyahKey.parse(it.substringBefore('\t')) }.toList()
+    }.also { hafsOrderCache = it }
+
     /** The Hafs ayat [key] covers: itself in Hafs; in Warsh, the Hafs ayat its words are in. */
     suspend fun hafsKeys(key: AyahKey): List<AyahKey> {
         if (riwayah == Riwayah.HAFS) return listOf(key)

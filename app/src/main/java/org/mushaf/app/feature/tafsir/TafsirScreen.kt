@@ -118,7 +118,7 @@ fun TafsirScreen(key: AyahKey, onBack: () -> Unit) {
             // The book read, in one line; a tap chooses another.
             var choosing by remember { mutableStateOf(false) }
             EvenRows(Modifier.padding(vertical = 12.dp)) {
-                TextControl("${book.name} · another book", { haptics.tick(); choosing = true })
+                TextControl("${book.name} · another book", { choosing = true })
             }
             if (choosing) ChoiceDialog(
                 title = "Tafsir",
