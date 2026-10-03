@@ -32,6 +32,8 @@ sealed class Pack(val id: String, val total: Int) {
     class Pages(val script: Script) : Pack("pages-${script.name.lowercase()}", 604)
     class TafsirBook(val book: Int) : Pack("tafsir-$book", 114)
     class Recitation(val reciter: Int) : Pack("recitation-$reciter", 114)
+    /** One surah of a recitation, kept from the player. */
+    class Surah(val reciter: Int, val surah: Int) : Pack("surah-$reciter-$surah", 1)
 
     companion object {
         fun parse(id: String): Pack? = when {
@@ -39,6 +41,8 @@ sealed class Pack(val id: String, val total: Int) {
             id == "pages-tajweed" -> Pages(Script.TAJWEED)
             id.startsWith("tafsir-") -> id.removePrefix("tafsir-").toIntOrNull()?.let { TafsirBook(it) }
             id.startsWith("recitation-") -> id.removePrefix("recitation-").toIntOrNull()?.let { Recitation(it) }
+            id.startsWith("surah-") -> id.removePrefix("surah-").split('-').mapNotNull { it.toIntOrNull() }
+                .takeIf { it.size == 2 && it[1] in 1..114 }?.let { (r, n) -> Surah(r, n) }
             else -> null
         }
     }
@@ -115,6 +119,10 @@ class PackWorker(context: Context, params: WorkerParameters) : CoroutineWorker(c
                     tafsir.download(book) { report(it) }
                 }
                 is Pack.Recitation -> recitations.download(pack.reciter) { report(it) }
+                is Pack.Surah -> {
+                    recitations.downloadSurah(pack.reciter, pack.surah)
+                    report(1)
+                }
             }
             Result.success()
         } catch (e: Exception) {
@@ -128,6 +136,7 @@ class PackWorker(context: Context, params: WorkerParameters) : CoroutineWorker(c
             is Pack.Pages -> getString(if (pack.script == Script.TAJWEED) R.string.mushaf_tajweed_pages else R.string.mushaf_pages_title)
             is Pack.TafsirBook -> getString(R.string.tafsir_named, Tafsir.BOOKS.firstOrNull { it.id == pack.book }?.name ?: "")
             is Pack.Recitation -> getString(R.string.recitation_named, Recitations.reciter(pack.reciter).name)
+            is Pack.Surah -> getString(R.string.recitation_named, Recitations.reciter(pack.reciter).name) + " · " + pack.surah
         }
     }
 

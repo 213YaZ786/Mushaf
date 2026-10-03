@@ -130,6 +130,7 @@ private fun PackRow(pack: Pack, title: String, size: String) {
                 is Pack.Pages -> fonts.count(pack.script)
                 is Pack.TafsirBook -> tafsir.kept(Tafsir.BOOKS.first { it.id == pack.book })
                 is Pack.Recitation -> recitations.kept(pack.reciter)
+                is Pack.Surah -> if (recitations.local(pack.reciter, pack.surah) != null) 1 else 0
             }
             if (progress?.running != true) break
             delay(1500)
@@ -160,6 +161,7 @@ private fun PackRow(pack: Pack, title: String, size: String) {
                         is Pack.Pages -> fonts.remove(pack.script)
                         is Pack.TafsirBook -> tafsir.remove(Tafsir.BOOKS.first { it.id == pack.book })
                         is Pack.Recitation -> recitations.remove(pack.reciter)
+                        is Pack.Surah -> recitations.local(pack.reciter, pack.surah)?.delete()
                     }
                     kept = 0
                 }) { Text(stringResource(R.string.remove)) }

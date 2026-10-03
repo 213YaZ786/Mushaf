@@ -172,6 +172,7 @@ fun MushafScreen(
     var jumped by remember { mutableStateOf<Int?>(null) }
 
     val recitations: Recitations = koinInject()
+    val offline: org.mushaf.app.data.offline.Offline = koinInject()
     val surahPlaying = heard.key?.surah
     OfferDownload(
         pack = Pack.Recitation(store.reciter(settings.riwayah)),
@@ -179,7 +180,8 @@ fun MushafScreen(
         title = stringResource(R.string.keep_recitation_offline),
         text = stringResource(if (settings.wifiOnly) R.string.offer_recitation_wifi else R.string.offer_recitation, Recitations.reciter(store.reciter(settings.riwayah)).name),
         one = stringResource(R.string.this_surah_only) to {
-            surahPlaying?.let { n -> scope.launch { runCatching { recitations.downloadSurah(store.reciter(settings.riwayah), n) } } }
+            // Kept like any download: in the background, its progress in a notification, again later if it fails.
+            surahPlaying?.let { n -> offline.start(Pack.Surah(store.reciter(settings.riwayah), n)) }
             Unit
         }
     )
