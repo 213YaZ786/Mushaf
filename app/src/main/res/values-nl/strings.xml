@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">Betekenis voorlezen</string>
+    <string name="voice_missing">De telefoon heeft geen stem voor: %1$s. Je kunt er een toevoegen in de instellingen voor tekst-naar-spraak.</string>
+    <string name="voice_none">De telefoon heeft geen tekst-naar-spraak. Je kunt er een installeren in de instellingen.</string>
     <string name="voice_model_failed">Het spraakmodel op de telefoon kon niet worden gelezen. Download het opnieuw.</string>
     <string name="download_again">Opnieuw downloaden</string>
     <string name="update_available">Nieuwe versie beschikbaar</string>

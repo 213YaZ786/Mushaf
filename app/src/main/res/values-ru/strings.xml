@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">Прочитать смысл вслух</string>
+    <string name="voice_missing">На телефоне нет голоса для: %1$s. Его можно добавить в настройках синтеза речи.</string>
+    <string name="voice_none">На телефоне нет синтеза речи. Его можно установить в настройках.</string>
     <string name="voice_model_failed">Не удалось прочитать голосовую модель на телефоне. Загрузите её снова.</string>
     <string name="download_again">Загрузить снова</string>
     <string name="update_available">Доступна новая версия</string>

@@ -1,5 +1,9 @@
 package org.mushaf.app.feature.meaning
 
+import org.mushaf.app.core.common.Languages
+import org.mushaf.app.ui.component.ZoneAlertDialog
+import androidx.compose.material3.TextButton
+import androidx.compose.runtime.DisposableEffect
 import androidx.compose.animation.animateContentSize
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.combinedClickable
@@ -70,7 +74,10 @@ import org.mushaf.app.ui.component.rememberHaptics
 import org.mushaf.app.ui.icon.AppIcons
 
 /** One ayah as shown here: its words and the meanings chosen. */
-private class AyahRow(val key: AyahKey, val words: List<Word>, val meanings: List<Pair<String, String>>)
+/** A translation of one ayah: who translated it, the text, its language's code for the voice. */
+private class Meaning(val name: String, val text: String, val language: String?)
+
+private class AyahRow(val key: AyahKey, val words: List<Word>, val meanings: List<Meaning>)
 
 /**
  * A surah read with its meaning: each ayah in the Hafs script, word by
@@ -95,6 +102,26 @@ fun MeaningScreen(
     // One ayah heard on its own, from its row: the recitation stops at its end.
     val listen: org.mushaf.app.feature.listen.Listen = koinInject()
     val heardNow by listen.state.collectAsState()
+    // The meanings read aloud by the phone's own voice; let go when the screen closes.
+    val context = androidx.compose.ui.platform.LocalContext.current
+    val voice = remember { MeaningVoice(context) }
+    val voiceState by voice.state.collectAsState()
+    DisposableEffect(Unit) { onDispose { voice.release() } }
+    voiceState.missing?.let { tag ->
+        ZoneAlertDialog(
+            onDismissRequest = { voice.dismiss() },
+            text = {
+                Text(
+                    if (tag.isEmpty()) stringResource(R.string.voice_none)
+                    else stringResource(R.string.voice_missing, java.util.Locale.forLanguageTag(tag).getDisplayLanguage(java.util.Locale.getDefault()))
+                )
+            },
+            confirmButton = {
+                TextButton(onClick = { voice.dismiss(); runCatching { context.startActivity(MeaningVoice.settings()) } }) { Text(stringResource(R.string.open_settings)) }
+            },
+            dismissButton = { TextButton(onClick = { voice.dismiss() }) { Text(stringResource(R.string.cancel)) } }
+        )
+    }
     val sajdat by produceState(emptyList<String>()) { value = quran.meta().sajdah }
     val saved by marks.marks.collectAsState()
     val haptics = rememberHaptics()
@@ -112,7 +139,8 @@ fun MeaningScreen(
         value = words.groupBy { it.key }.map { (key, w) ->
             AyahRow(key, w, chosen.mapNotNull { id ->
                 val text = translations.text(id, key)
-                if (text.isEmpty()) null else (translations.info(id)?.name ?: id) to text
+                val info = translations.info(id)
+                if (text.isEmpty()) null else Meaning(info?.name ?: id, text, info?.language?.let { Languages.code(it) })
             })
         }
     }
@@ -203,7 +231,7 @@ fun MeaningScreen(
                             }
                             SmallAction(if (playingHere) AppIcons.Pause else AppIcons.Play, if (playingHere) stringResource(R.string.pause) else stringResource(R.string.play)) {
                                 haptics.toggle(!playingHere)
-                                if (playingHere) listen.toggle() else listen.playOnce(row.key)
+                                if (playingHere) listen.toggle() else { voice.stop(); listen.playOnce(row.key) }
                             }
                             SmallAction(if (bookmarked) AppIcons.Bookmark else AppIcons.BookmarkOutline, if (bookmarked) stringResource(R.string.remove_bookmark) else stringResource(R.string.bookmark)) {
                                 haptics.toggle(marks.toggleBookmark(row.key))
@@ -254,11 +282,30 @@ fun MeaningScreen(
                                 modifier = Modifier.fillMaxWidth()
                             )
                         }
-                        for ((name, text) in row.meanings) {
+                        for (m in row.meanings) {
+                            val id = "${row.key}|${m.name}"
+                            val reading = voiceState.speaking == id
                             Spacer(Modifier.size(if (airy) 18.dp else 12.dp))
-                            Text(text, style = if (airy) MaterialTheme.typography.bodyLarge.copy(lineHeight = MaterialTheme.typography.bodyLarge.fontSize * 1.75f) else MaterialTheme.typography.bodyLarge)
-                            if (row.meanings.size > 1) {
-                                Text(name, style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant, modifier = Modifier.padding(top = if (airy) 6.dp else 2.dp))
+                            Text(
+                                m.text,
+                                style = if (airy) MaterialTheme.typography.bodyLarge.copy(lineHeight = MaterialTheme.typography.bodyLarge.fontSize * 1.75f) else MaterialTheme.typography.bodyLarge,
+                                color = if (reading) MaterialTheme.colorScheme.primary else LocalContentColor.current
+                            )
+                            // The translator, and the meaning read aloud by the phone's voice.
+                            Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(top = if (airy) 4.dp else 0.dp)) {
+                                Text(
+                                    if (row.meanings.size > 1) m.name else "",
+                                    style = MaterialTheme.typography.labelSmall,
+                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                    modifier = Modifier.weight(1f)
+                                )
+                                SmallAction(if (reading) AppIcons.Pause else AppIcons.VolumeUp, if (reading) stringResource(R.string.stop) else stringResource(R.string.read_meaning_aloud)) {
+                                    haptics.toggle(!reading)
+                                    if (reading) voice.stop() else {
+                                        if (heardNow.playing) listen.toggle()
+                                        voice.speak(id, m.text, m.language)
+                                    }
+                                }
                             }
                         }
                         if (note != null) {

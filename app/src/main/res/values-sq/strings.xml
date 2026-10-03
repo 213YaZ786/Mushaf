@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">Lexo kuptimin me zë</string>
+    <string name="voice_missing">Telefoni nuk ka zë për: %1$s. Mund të shtoni një te cilësimet e tekstit në të folur.</string>
+    <string name="voice_none">Telefoni nuk ka tekst në të folur. Mund të instaloni një te cilësimet.</string>
     <string name="voice_model_failed">Modeli i zërit në telefon nuk u lexua. Shkarkojeni sërish.</string>
     <string name="download_again">Shkarko sërish</string>
     <string name="update_available">Ka një version të ri</string>

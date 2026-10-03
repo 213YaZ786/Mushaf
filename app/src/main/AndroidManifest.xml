@@ -19,6 +19,13 @@
     <!-- Downloads kept for offline use go on in the background, with their progress shown. -->
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
 
+    <!-- The phone's text-to-speech engine, seen so a meaning can be read aloud. -->
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.TTS_SERVICE" />
+        </intent>
+    </queries>
+
     <application
         android:name=".MushafApplication"
         android:allowBackup="true"

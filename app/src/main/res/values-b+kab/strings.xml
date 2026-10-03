@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">Ɣer anamek s taɣect</string>
+    <string name="voice_missing">Tiliɣri ur tesɛi taɣect i: %1$s. Tzemreḍ ad tt-ternuḍ deg yiɣewwaṛen n uḍris ɣer taɣect.</string>
+    <string name="voice_none">Tiliɣri ur tesɛi aḍris ɣer taɣect. Tzemreḍ ad t-tesbeddeḍ deg yiɣewwaṛen.</string>
     <string name="voice_model_failed">Tamudemt n taɣect deg tiliɣri ur tettwaɣer ara. Sider-itt tikkelt nniḍen.</string>
     <string name="download_again">Ales asider</string>
     <string name="update_available">Lqem amaynut yella</string>

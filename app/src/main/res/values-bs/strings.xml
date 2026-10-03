@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">Pročitaj značenje naglas</string>
+    <string name="voice_missing">Telefon nema glas za: %1$s. Možete ga dodati u postavkama pretvaranja teksta u govor.</string>
+    <string name="voice_none">Telefon nema pretvaranje teksta u govor. Možete ga instalirati u postavkama.</string>
     <string name="voice_model_failed">Glasovni model na telefonu nije mogao biti pročitan. Preuzmite ga ponovo.</string>
     <string name="download_again">Preuzmi ponovo</string>
     <string name="update_available">Dostupna je nova verzija</string>

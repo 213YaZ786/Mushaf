@@ -15,9 +15,14 @@ object Languages {
             .associate { it.getDisplayLanguage(Locale.ENGLISH).lowercase() to it.language }
     }
 
-    fun local(english: String): String {
+    /** The language's code ("fr", "kab") from its English name, or null. */
+    fun code(english: String): String? {
         val plain = english.substringBefore(" (").trim().lowercase()
-        val code = byEnglish[plain] ?: (if (plain == "kabyle") "kab" else null) ?: return english
+        return byEnglish[plain] ?: (if (plain == "kabyle") "kab" else null)
+    }
+
+    fun local(english: String): String {
+        val code = code(english) ?: return english
         val here = Locale.getDefault()
         return Locale.forLanguageTag(code).getDisplayLanguage(here).replaceFirstChar { it.titlecase(here) }.ifEmpty { english }
     }

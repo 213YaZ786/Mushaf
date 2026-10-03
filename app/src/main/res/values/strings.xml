@@ -322,6 +322,9 @@
     <string name="hear_word">Hear the word</string>
     <string name="listen_from_here">Listen from here</string>
     <string name="repeat_passage">Repeat a passage</string>
+    <string name="read_meaning_aloud">Read the meaning aloud</string>
+    <string name="voice_missing">The phone has no voice for %1$s. You can add one in its text-to-speech settings.</string>
+    <string name="voice_none">The phone has no text-to-speech. You can install one in its settings.</string>
     <string name="read_with_meaning">Read with meaning</string>
     <string name="memorise">Memorise</string>
     <string name="note">Note</string>

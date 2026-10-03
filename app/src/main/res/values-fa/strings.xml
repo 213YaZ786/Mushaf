@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">خواندن معنا با صدای بلند</string>
+    <string name="voice_missing">گوشی برای این زبان صدا ندارد: %1$s. می‌توانید در تنظیمات تبدیل متن به گفتار صدایی اضافه کنید.</string>
+    <string name="voice_none">گوشی تبدیل متن به گفتار ندارد. می‌توانید یکی را در تنظیمات نصب کنید.</string>
     <string name="voice_model_failed">مدل صوتی روی گوشی خوانده نشد. دوباره بارگیری کنید.</string>
     <string name="download_again">بارگیری دوباره</string>
     <string name="update_available">نسخهٔ تازه موجود است</string>

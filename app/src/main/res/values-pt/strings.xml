@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">Ler o significado em voz alta</string>
+    <string name="voice_missing">O telefone não tem voz para: %1$s. Você pode adicionar uma nas configurações de texto para fala.</string>
+    <string name="voice_none">O telefone não tem texto para fala. Você pode instalar um nas configurações.</string>
     <string name="voice_model_failed">Não foi possível ler o modelo de voz no telefone. Baixe-o de novo.</string>
     <string name="download_again">Baixar de novo</string>
     <string name="update_available">Nova versão disponível</string>

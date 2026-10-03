@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">Soma maana kwa sauti</string>
+    <string name="voice_missing">Simu haina sauti ya: %1$s. Unaweza kuongeza moja kwenye mipangilio ya maandishi kuwa sauti.</string>
+    <string name="voice_none">Simu haina maandishi kuwa sauti. Unaweza kusakinisha moja kwenye mipangilio.</string>
     <string name="voice_model_failed">Modeli ya sauti kwenye simu haikuweza kusomwa. Ipakue tena.</string>
     <string name="download_again">Pakua tena</string>
     <string name="update_available">Toleo jipya linapatikana</string>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">Ma’nosini ovoz chiqarib o‘qish</string>
+    <string name="voice_missing">Telefonda bu til uchun ovoz yo‘q: %1$s. Matnni nutqqa sozlamalarida qo‘shishingiz mumkin.</string>
+    <string name="voice_none">Telefonda matnni nutqqa aylantirish yo‘q. Sozlamalarda o‘rnatishingiz mumkin.</string>
     <string name="voice_model_failed">Telefondagi ovoz modelini o‘qib bo‘lmadi. Uni qayta yuklab oling.</string>
     <string name="download_again">Qayta yuklab olish</string>
     <string name="update_available">Yangi versiya chiqdi</string>

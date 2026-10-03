@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">Anlamı sesli oku</string>
+    <string name="voice_missing">Telefonda şu dil için ses yok: %1$s. Metin okuma ayarlarından bir ses ekleyebilirsiniz.</string>
+    <string name="voice_none">Telefonda metin okuma yok. Ayarlardan bir tane yükleyebilirsiniz.</string>
     <string name="voice_model_failed">Telefondaki ses modeli okunamadı. Yeniden indirin.</string>
     <string name="download_again">Yeniden indir</string>
     <string name="update_available">Yeni sürüm var</string>

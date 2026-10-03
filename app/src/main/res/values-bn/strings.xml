@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">অর্থ জোরে পড়ুন</string>
+    <string name="voice_missing">ফোনে এই ভাষার কণ্ঠ নেই: %1$s। টেক্সট-টু-স্পিচ সেটিংসে একটি যোগ করতে পারেন।</string>
+    <string name="voice_none">ফোনে টেক্সট-টু-স্পিচ নেই। সেটিংসে একটি ইনস্টল করতে পারেন।</string>
     <string name="voice_model_failed">ফোনের ভয়েস মডেল পড়া যায়নি। আবার ডাউনলোড করুন।</string>
     <string name="download_again">আবার ডাউনলোড</string>
     <string name="update_available">নতুন সংস্করণ এসেছে</string>

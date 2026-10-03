@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="read_meaning_aloud">Bacakan maknanya</string>
+    <string name="voice_missing">Ponsel tidak punya suara untuk: %1$s. Anda bisa menambahkannya di pengaturan teks ke ucapan.</string>
+    <string name="voice_none">Ponsel tidak punya teks ke ucapan. Anda bisa memasangnya di pengaturan.</string>
     <string name="voice_model_failed">Model suara di ponsel tidak dapat dibaca. Unduh lagi.</string>
     <string name="download_again">Unduh lagi</string>
     <string name="update_available">Versi baru tersedia</string>
