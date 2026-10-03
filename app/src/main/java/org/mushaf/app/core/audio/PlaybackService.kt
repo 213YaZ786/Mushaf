@@ -6,7 +6,11 @@ import androidx.media3.common.AudioAttributes
 import androidx.media3.common.C
 import androidx.media3.common.util.UnstableApi
 import androidx.media3.database.StandaloneDatabaseProvider
+import androidx.media3.datasource.DataSource
+import androidx.media3.datasource.DataSpec
 import androidx.media3.datasource.DefaultHttpDataSource
+import androidx.media3.datasource.FileDataSource
+import androidx.media3.datasource.TransferListener
 import androidx.media3.datasource.cache.CacheDataSource
 import androidx.media3.datasource.cache.LeastRecentlyUsedCacheEvictor
 import androidx.media3.datasource.cache.SimpleCache
@@ -30,7 +34,9 @@ class PlaybackService : MediaSessionService() {
     override fun onCreate() {
         super.onCreate()
         val upstream = DefaultHttpDataSource.Factory().setUserAgent("Mushaf").setAllowCrossProtocolRedirects(false)
-        val source = CacheDataSource.Factory().setCache(cache(this)).setUpstreamDataSourceFactory(upstream)
+        val cached = CacheDataSource.Factory().setCache(cache(this)).setUpstreamDataSourceFactory(upstream)
+        // A surah kept on the phone is read from its file, the others from the cache or the server.
+        val source = DataSource.Factory { KeptOrStreamed(FileDataSource(), cached.createDataSource()) }
         val player = ExoPlayer.Builder(this)
             .setMediaSourceFactory(DefaultMediaSourceFactory(this).setDataSourceFactory(source))
             .setAudioAttributes(
@@ -70,5 +76,34 @@ class PlaybackService : MediaSessionService() {
                 StandaloneDatabaseProvider(context)
             ).also { shared = it }
         }
+    }
+}
+
+/** Reads a file kept in the app's own folder directly, anything else through [streamed]. */
+@OptIn(UnstableApi::class)
+private class KeptOrStreamed(private val kept: DataSource, private val streamed: DataSource) : DataSource {
+
+    private var current: DataSource? = null
+
+    override fun addTransferListener(transferListener: TransferListener) {
+        kept.addTransferListener(transferListener)
+        streamed.addTransferListener(transferListener)
+    }
+
+    override fun open(dataSpec: DataSpec): Long {
+        val source = if (dataSpec.uri.scheme == "file") kept else streamed
+        current = source
+        return source.open(dataSpec)
+    }
+
+    override fun read(buffer: ByteArray, offset: Int, length: Int): Int = current!!.read(buffer, offset, length)
+
+    override fun getUri(): android.net.Uri? = current?.uri
+
+    override fun getResponseHeaders(): Map<String, List<String>> = current?.responseHeaders ?: emptyMap()
+
+    override fun close() {
+        current?.close()
+        current = null
     }
 }
