@@ -59,6 +59,9 @@ data class MushafPage(val number: Int, val lines: List<PageLine>) {
     val ayat: List<AyahKey> get() = words.map { it.key }.filter { it.ayah > 0 }.distinct()
 }
 
+/** Interface languages written in the Arabic script: they show a surah's Arabic name. */
+private val ARABIC_SCRIPT = setOf("ar", "fa", "ur")
+
 @Serializable
 data class Surah(
     val n: Int,
@@ -73,7 +76,7 @@ data class Surah(
 ) {
     val firstPage: Int get() = pages.first()
     /** The name as the reader's language says it: in Arabic, its own. */
-    val title: String get() = if (Locale.getDefault().language == "ar") arabic else name
+    val title: String get() = if (Locale.getDefault().language in ARABIC_SCRIPT) arabic else name
     /** The English meaning of the name, shown only when the app speaks English. */
     val meaningHere: String? get() = meaning.takeIf { Locale.getDefault().language == "en" }
     val meccan: Boolean get() = place == "makkah"

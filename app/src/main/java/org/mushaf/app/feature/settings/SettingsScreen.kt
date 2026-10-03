@@ -73,15 +73,17 @@ private enum class OpenDialog { NONE, RIWAYAH, REMINDER_TIME, SCRIPT, THEME, TEX
 
 /** The app's languages, each named in itself; "" follows the phone. */
 private val APP_LANGUAGES = listOf(
-    "en" to "English", "ar" to "العربية", "de" to "Deutsch", "es" to "Español", "fr" to "Français",
-    "it" to "Italiano", "kab" to "Taqbaylit", "nl" to "Nederlands", "pt" to "Português"
+    "en" to "English", "ar" to "العربية", "bn" to "বাংলা", "de" to "Deutsch", "es" to "Español",
+    "fa" to "فارسی", "fr" to "Français", "id" to "Bahasa Indonesia", "it" to "Italiano", "kab" to "Taqbaylit",
+    "ms" to "Bahasa Melayu", "nl" to "Nederlands", "pt" to "Português", "ru" to "Русский", "tr" to "Türkçe",
+    "ur" to "اردو"
 )
 
 /** The app's own language, kept by Android (13 and later). */
 @RequiresApi(Build.VERSION_CODES.TIRAMISU)
 private object AppLanguage {
     fun current(context: Context): String =
-        context.getSystemService(LocaleManager::class.java).applicationLocales.get(0)?.language.orEmpty()
+        context.getSystemService(LocaleManager::class.java).applicationLocales.get(0)?.toLanguageTag()?.substringBefore('-').orEmpty()
 
     fun set(context: Context, tag: String) {
         context.getSystemService(LocaleManager::class.java).applicationLocales =

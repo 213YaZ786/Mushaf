@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="games">Jeux</string>
     <string name="meccan">Mecquoise</string>
     <string name="medinan">Médinoise</string>
     <string name="ayah_only">%1$s seulement</string>

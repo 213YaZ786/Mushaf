@@ -337,7 +337,7 @@ fun MushafScreen(
                     val quarter = meta?.quarters?.lastOrNull { it.page <= current }?.n
                     val actions: @Composable () -> Unit = {
                         IconControl(AppIcons.School, stringResource(R.string.hifz), onOpenHifz)
-                        IconControl(AppIcons.Puzzle, stringResource(R.string.play), onOpenPlay)
+                        IconControl(AppIcons.Puzzle, stringResource(R.string.games), onOpenPlay)
                         if (!warsh && settings.script == Script.TAJWEED && settings.script.usable) {
                             IconControl(AppIcons.Palette, stringResource(R.string.tajweed_colours), { legend = true })
                         }
