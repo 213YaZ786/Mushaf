@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">Ma’lumotlaringiz</string>
+    <string name="backup">Zaxira nusxa</string>
+    <string name="backup_detail">Belgilar, eslatmalar, to‘plamlar, hifz, xatm, bolalar yulduzlari va sozlamalar, o‘zingiz saqlaydigan bitta faylda</string>
+    <string name="restore">Tiklash</string>
+    <string name="restore_detail">Zaxira fayldan</string>
+    <string name="restore_q">Bu zaxira tiklansinmi?</string>
+    <string name="restore_warning">Telefondagi narsalar (belgilar, eslatmalar, hifz, xatm, yulduzlar, sozlamalar) zaxiradagilar bilan almashtiriladi.</string>
+    <string name="backup_done">Zaxira saqlandi.</string>
+    <string name="backup_failed">Zaxirani u yerga saqlab bo‘lmadi.</string>
+    <string name="restore_done">Zaxira tiklandi.</string>
+    <string name="restore_failed">Bu fayl Mushaf zaxirasi emas yoki shikastlangan. Hech narsa o‘zgarmadi.</string>
+    <string name="ok">OK</string>
     <string name="until_eid">Hayitgacha</string>
     <string name="spacing">Oraliq</string>
     <string name="spacing_airy">Keng</string>

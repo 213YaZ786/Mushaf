@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">Data Anda</string>
+    <string name="backup">Cadangkan</string>
+    <string name="backup_detail">Penanda, catatan, koleksi, hafalan, khataman, bintang anak-anak, dan pengaturan, dalam satu file yang Anda simpan</string>
+    <string name="restore">Pulihkan</string>
+    <string name="restore_detail">Dari file cadangan</string>
+    <string name="restore_q">Pulihkan cadangan ini?</string>
+    <string name="restore_warning">Yang ada di ponsel (penanda, catatan, hafalan, khataman, bintang, pengaturan) diganti dengan isi cadangan.</string>
+    <string name="backup_done">Cadangan disimpan.</string>
+    <string name="backup_failed">Cadangan tidak dapat disimpan di sana.</string>
+    <string name="restore_done">Cadangan dipulihkan.</string>
+    <string name="restore_failed">File ini bukan cadangan Mushaf, atau rusak. Tidak ada yang diubah.</string>
+    <string name="ok">OK</string>
     <string name="until_eid">Sampai Idulfitri</string>
     <string name="spacing">Jarak</string>
     <string name="spacing_airy">Lega</string>

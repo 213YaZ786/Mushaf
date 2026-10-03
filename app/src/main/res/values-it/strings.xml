@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">I tuoi dati</string>
+    <string name="backup">Backup</string>
+    <string name="backup_detail">Segnalibri, note, raccolte, hifz, khatma, stelle dei bambini e impostazioni, in un file che tieni tu</string>
+    <string name="restore">Ripristina</string>
+    <string name="restore_detail">Da un file di backup</string>
+    <string name="restore_q">Ripristinare questo backup?</string>
+    <string name="restore_warning">Ciò che è sul telefono (segnalibri, note, hifz, khatma, stelle, impostazioni) viene sostituito dal contenuto del backup.</string>
+    <string name="backup_done">Backup salvato.</string>
+    <string name="backup_failed">Impossibile salvare il backup lì.</string>
+    <string name="restore_done">Backup ripristinato.</string>
+    <string name="restore_failed">Questo file non è un backup di Mushaf, o è danneggiato. Non è stato cambiato nulla.</string>
+    <string name="ok">OK</string>
     <string name="until_eid">Fino all\'Eid</string>
     <string name="spacing">Spaziatura</string>
     <string name="spacing_airy">Arioso</string>

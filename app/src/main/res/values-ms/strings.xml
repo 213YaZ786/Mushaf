@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">Data anda</string>
+    <string name="backup">Sandarkan</string>
+    <string name="backup_detail">Penanda, nota, koleksi, hafazan, khataman, bintang kanak-kanak dan tetapan, dalam satu fail yang anda simpan</string>
+    <string name="restore">Pulihkan</string>
+    <string name="restore_detail">Daripada fail sandaran</string>
+    <string name="restore_q">Pulihkan sandaran ini?</string>
+    <string name="restore_warning">Apa yang ada dalam telefon (penanda, nota, hafazan, khataman, bintang, tetapan) diganti dengan kandungan sandaran.</string>
+    <string name="backup_done">Sandaran disimpan.</string>
+    <string name="backup_failed">Sandaran tidak dapat disimpan di situ.</string>
+    <string name="restore_done">Sandaran dipulihkan.</string>
+    <string name="restore_failed">Fail ini bukan sandaran Mushaf, atau rosak. Tiada apa-apa yang diubah.</string>
+    <string name="ok">OK</string>
     <string name="until_eid">Hingga Aidilfitri</string>
     <string name="spacing">Jarak</string>
     <string name="spacing_airy">Lapang</string>

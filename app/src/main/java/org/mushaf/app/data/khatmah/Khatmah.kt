@@ -65,6 +65,11 @@ class Khatmah(context: Context) {
     private val _plan = MutableStateFlow(load())
     val plan: StateFlow<KhatmahPlan?> = _plan.asStateFlow()
 
+    /** Reads the file again, after a backup was restored into it. */
+    fun reload() {
+        _plan.value = load()
+    }
+
     private fun load(): KhatmahPlan? = runCatching { json.decodeFromString<KhatmahPlan>(file.readText()) }.getOrNull()
 
     private fun save(p: KhatmahPlan?) {

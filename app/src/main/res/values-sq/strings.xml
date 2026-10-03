@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">Të dhënat tuaja</string>
+    <string name="backup">Kopje rezervë</string>
+    <string name="backup_detail">Shënjimet, shënimet, koleksionet, hifzi, hatmja, yjet e fëmijëve dhe cilësimet, në një skedar që e mbani vetë</string>
+    <string name="restore">Rikthe</string>
+    <string name="restore_detail">Nga një skedar kopjeje</string>
+    <string name="restore_q">Të rikthehet kjo kopje?</string>
+    <string name="restore_warning">Ajo që është në telefon (shënjimet, shënimet, hifzi, hatmja, yjet, cilësimet) zëvendësohet me përmbajtjen e kopjes.</string>
+    <string name="backup_done">Kopja u ruajt.</string>
+    <string name="backup_failed">Kopja nuk u ruajt dot atje.</string>
+    <string name="restore_done">Kopja u rikthye.</string>
+    <string name="restore_failed">Ky skedar nuk është kopje e Mushaf ose është i dëmtuar. Asgjë nuk ndryshoi.</string>
+    <string name="ok">Në rregull</string>
     <string name="until_eid">Deri në Bajram</string>
     <string name="spacing">Hapësira</string>
     <string name="spacing_airy">E hapur</string>

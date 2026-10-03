@@ -45,6 +45,7 @@ val appModule = module {
     single { HifzSession(get(), get()) }
     single { Recogniser(androidContext(), get()) }
     single { Stars(androidContext()) }
+    single { org.mushaf.app.data.backup.Backup(androidContext(), get(), get(), get(), get(), get()) }
     single { Recite(get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
     single { Riwayat(get(), get(), get(), get(), get(), get(), get()) }
     single { Listen(androidContext(), get(), get(), get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }

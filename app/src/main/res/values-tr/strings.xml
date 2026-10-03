@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">Verileriniz</string>
+    <string name="backup">Yedekle</string>
+    <string name="backup_detail">İşaretler, notlar, koleksiyonlar, hıfz, hatim, çocukların yıldızları ve ayarlar, sizde kalan tek bir dosyada</string>
+    <string name="restore">Geri yükle</string>
+    <string name="restore_detail">Bir yedek dosyasından</string>
+    <string name="restore_q">Bu yedek geri yüklensin mi?</string>
+    <string name="restore_warning">Telefondakiler (işaretler, notlar, hıfz, hatim, yıldızlar, ayarlar) yedektekilerle değiştirilir.</string>
+    <string name="backup_done">Yedek kaydedildi.</string>
+    <string name="backup_failed">Yedek oraya kaydedilemedi.</string>
+    <string name="restore_done">Yedek geri yüklendi.</string>
+    <string name="restore_failed">Bu dosya bir Mushaf yedeği değil ya da bozuk. Hiçbir şey değişmedi.</string>
+    <string name="ok">Tamam</string>
     <string name="until_eid">Bayrama kadar</string>
     <string name="spacing">Aralık</string>
     <string name="spacing_airy">Ferah</string>

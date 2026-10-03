@@ -48,6 +48,11 @@ class Marks(context: Context, riwayah: Riwayah) {
         runCatching { file.writeTextAtomically(json.encodeToString(updated)) }
     }
 
+    /** Reads the file again, after a backup was restored into it. */
+    fun reload() {
+        _marks.value = load()
+    }
+
     /** Reads the marks of [r], once the reader has changed riwayah. */
     fun use(r: Riwayah) {
         if (r == riwayah) return

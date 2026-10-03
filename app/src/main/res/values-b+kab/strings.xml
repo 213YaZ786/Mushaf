@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">Isefka-ik</string>
+    <string name="backup">Ḥrez</string>
+    <string name="backup_detail">Ticreḍt, tizmilin, tigrummiwin, lḥifḍ, lxetma, itran n yigerdan d yiɣewwaṛen, deg yiwen ufaylu i tḥerzeḍ</string>
+    <string name="restore">Err-d</string>
+    <string name="restore_detail">Seg ufaylu n uḥraz</string>
+    <string name="restore_q">Ad d-terreḍ aḥraz-a?</string>
+    <string name="restore_warning">Ayen yellan deg tiliɣri (ticreḍt, tizmilin, lḥifḍ, lxetma, itran, iɣewwaṛen) ad yettwasenfel s wayen yellan deg uḥraz.</string>
+    <string name="backup_done">Aḥraz yettwasekles.</string>
+    <string name="backup_failed">Aḥraz ur yettwasekles ara dinna.</string>
+    <string name="restore_done">Aḥraz yuɣal-d.</string>
+    <string name="restore_failed">Afaylu-a mačči d aḥraz n Mushaf, neɣ yexsar. Ulac ayen yettwabedlen.</string>
+    <string name="ok">IH</string>
     <string name="until_eid">Ar Lɛid</string>
     <string name="spacing">Tallunt</string>
     <string name="spacing_airy">Talwit</string>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">Vaši podaci</string>
+    <string name="backup">Sigurnosna kopija</string>
+    <string name="backup_detail">Oznake, bilješke, zbirke, hifz, hatma, zvjezdice djece i postavke, u jednoj datoteci koju čuvate</string>
+    <string name="restore">Vrati</string>
+    <string name="restore_detail">Iz datoteke sigurnosne kopije</string>
+    <string name="restore_q">Vratiti ovu kopiju?</string>
+    <string name="restore_warning">Ono što je na telefonu (oznake, bilješke, hifz, hatma, zvjezdice, postavke) zamjenjuje se sadržajem kopije.</string>
+    <string name="backup_done">Kopija sačuvana.</string>
+    <string name="backup_failed">Kopija se tu nije mogla sačuvati.</string>
+    <string name="restore_done">Kopija vraćena.</string>
+    <string name="restore_failed">Ova datoteka nije Mushaf kopija ili je oštećena. Ništa nije promijenjeno.</string>
+    <string name="ok">U redu</string>
     <string name="until_eid">Do Bajrama</string>
     <string name="spacing">Razmak</string>
     <string name="spacing_airy">Prozračno</string>

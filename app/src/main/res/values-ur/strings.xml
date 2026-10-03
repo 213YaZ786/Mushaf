@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">آپ کا ڈیٹا</string>
+    <string name="backup">بیک اپ</string>
+    <string name="backup_detail">نشان، نوٹس، مجموعے، حفظ، ختم، بچوں کے ستارے اور ترتیبات، ایک فائل میں جو آپ رکھیں</string>
+    <string name="restore">بحال کریں</string>
+    <string name="restore_detail">بیک اپ فائل سے</string>
+    <string name="restore_q">یہ بیک اپ بحال کریں؟</string>
+    <string name="restore_warning">فون پر موجود (نشان، نوٹس، حفظ، ختم، ستارے، ترتیبات) بیک اپ کے مواد سے بدل جائیں گے۔</string>
+    <string name="backup_done">بیک اپ محفوظ ہو گیا۔</string>
+    <string name="backup_failed">بیک اپ وہاں محفوظ نہیں ہو سکا۔</string>
+    <string name="restore_done">بیک اپ بحال ہو گیا۔</string>
+    <string name="restore_failed">یہ فائل مصحف کا بیک اپ نہیں، یا خراب ہے۔ کچھ نہیں بدلا۔</string>
+    <string name="ok">ٹھیک ہے</string>
     <string name="until_eid">عید تک</string>
     <string name="spacing">فاصلہ</string>
     <string name="spacing_airy">کشادہ</string>

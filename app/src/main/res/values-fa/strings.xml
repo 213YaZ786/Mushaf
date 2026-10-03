@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">داده‌های شما</string>
+    <string name="backup">پشتیبان‌گیری</string>
+    <string name="backup_detail">نشانه‌ها، یادداشت‌ها، مجموعه‌ها، حفظ، ختم، ستاره‌های کودکان و تنظیمات، در یک فایل که نزد خودتان می‌ماند</string>
+    <string name="restore">بازیابی</string>
+    <string name="restore_detail">از یک فایل پشتیبان</string>
+    <string name="restore_q">این پشتیبان بازیابی شود؟</string>
+    <string name="restore_warning">آنچه در گوشی است (نشانه‌ها، یادداشت‌ها، حفظ، ختم، ستاره‌ها، تنظیمات) با محتوای پشتیبان جایگزین می‌شود.</string>
+    <string name="backup_done">پشتیبان ذخیره شد.</string>
+    <string name="backup_failed">پشتیبان در آنجا ذخیره نشد.</string>
+    <string name="restore_done">پشتیبان بازیابی شد.</string>
+    <string name="restore_failed">این فایل پشتیبان مصحف نیست یا آسیب دیده است. چیزی تغییر نکرد.</string>
+    <string name="ok">باشه</string>
     <string name="until_eid">تا عید فطر</string>
     <string name="spacing">فاصله</string>
     <string name="spacing_airy">باز</string>

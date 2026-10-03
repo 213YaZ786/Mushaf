@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">Data yako</string>
+    <string name="backup">Hifadhi nakala</string>
+    <string name="backup_detail">Alama, madokezo, mikusanyiko, hifdhi, khitma, nyota za watoto na mipangilio, katika faili moja unalolihifadhi</string>
+    <string name="restore">Rejesha</string>
+    <string name="restore_detail">Kutoka faili la nakala</string>
+    <string name="restore_q">Rejesha nakala hii?</string>
+    <string name="restore_warning">Kilichopo kwenye simu (alama, madokezo, hifdhi, khitma, nyota, mipangilio) kitabadilishwa na yaliyomo kwenye nakala.</string>
+    <string name="backup_done">Nakala imehifadhiwa.</string>
+    <string name="backup_failed">Nakala haikuweza kuhifadhiwa hapo.</string>
+    <string name="restore_done">Nakala imerejeshwa.</string>
+    <string name="restore_failed">Faili hili si nakala ya Mushaf, au limeharibika. Hakuna kilichobadilishwa.</string>
+    <string name="ok">Sawa</string>
     <string name="until_eid">Hadi Idi</string>
     <string name="spacing">Nafasi</string>
     <string name="spacing_airy">Wazi</string>

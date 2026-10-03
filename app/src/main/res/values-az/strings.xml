@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">Məlumatlarınız</string>
+    <string name="backup">Ehtiyat nüsxə</string>
+    <string name="backup_detail">Əlfəcinlər, qeydlər, kolleksiyalar, hifz, xətm, uşaqların ulduzları və ayarlar, özünüzdə saxladığınız bir faylda</string>
+    <string name="restore">Bərpa et</string>
+    <string name="restore_detail">Ehtiyat fayldan</string>
+    <string name="restore_q">Bu ehtiyat nüsxə bərpa edilsin?</string>
+    <string name="restore_warning">Telefondakılar (əlfəcinlər, qeydlər, hifz, xətm, ulduzlar, ayarlar) ehtiyat nüsxədəkilərlə əvəz olunur.</string>
+    <string name="backup_done">Ehtiyat nüsxə saxlandı.</string>
+    <string name="backup_failed">Ehtiyat nüsxə oraya saxlanılmadı.</string>
+    <string name="restore_done">Ehtiyat nüsxə bərpa edildi.</string>
+    <string name="restore_failed">Bu fayl Mushaf ehtiyat nüsxəsi deyil və ya zədələnib. Heç nə dəyişmədi.</string>
+    <string name="ok">OK</string>
     <string name="until_eid">Bayrama qədər</string>
     <string name="spacing">Aralıq</string>
     <string name="spacing_airy">Geniş</string>

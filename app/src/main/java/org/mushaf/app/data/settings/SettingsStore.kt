@@ -94,6 +94,11 @@ class SettingsStore(context: Context) {
 
     val current: Settings get() = _settings.value
 
+    /** Reads the file again, after a backup was restored into it. */
+    fun reload() {
+        _settings.value = load()
+    }
+
     private fun load(): Settings {
         if (!file.exists()) return Settings(riwayah = Riwayah.forCountry(Locale.getDefault().country))
         return runCatching { json.decodeFromString<Settings>(file.readText()) }

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">Je gegevens</string>
+    <string name="backup">Back-up maken</string>
+    <string name="backup_detail">Bladwijzers, notities, collecties, hifz, khatma, sterren van de kinderen en instellingen, in één bestand dat je zelf bewaart</string>
+    <string name="restore">Herstellen</string>
+    <string name="restore_detail">Uit een back-upbestand</string>
+    <string name="restore_q">Deze back-up herstellen?</string>
+    <string name="restore_warning">Wat op de telefoon staat (bladwijzers, notities, hifz, khatma, sterren, instellingen) wordt vervangen door de back-up.</string>
+    <string name="backup_done">Back-up opgeslagen.</string>
+    <string name="backup_failed">De back-up kon daar niet worden opgeslagen.</string>
+    <string name="restore_done">Back-up hersteld.</string>
+    <string name="restore_failed">Dit bestand is geen Mushaf-back-up of het is beschadigd. Er is niets veranderd.</string>
+    <string name="ok">OK</string>
     <string name="until_eid">Tot het Suikerfeest</string>
     <string name="spacing">Ruimte</string>
     <string name="spacing_airy">Luchtig</string>

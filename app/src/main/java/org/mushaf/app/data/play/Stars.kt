@@ -38,6 +38,12 @@ class Stars(context: Context) {
     /** The stars of the child playing now. */
     val stars: StateFlow<Map<Int, Set<Star>>> = _stars.asStateFlow()
 
+    /** Reads the file again, after a backup was restored into it. */
+    fun reload() {
+        _children.value = load()
+        _stars.value = activeStars(_children.value)
+    }
+
     private fun load(): Children {
         runCatching { return json.decodeFromString<Children>(file.readText()) }
         val old = runCatching { json.decodeFromString<Map<Int, Set<Star>>>(before.readText()) }.getOrDefault(emptyMap())

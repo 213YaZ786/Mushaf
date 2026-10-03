@@ -103,6 +103,41 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
     val riwayat: Riwayat = koinInject()
     val scope = rememberCoroutineScope()
     val askNotifications = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { }
+    // A backup goes where the reader saves it; one read back replaces only once agreed.
+    val backup: org.mushaf.app.data.backup.Backup = koinInject()
+    var restoring by remember { mutableStateOf<android.net.Uri?>(null) }
+    var told by remember { mutableStateOf<Int?>(null) }
+    val saveBackup = rememberLauncherForActivityResult(ActivityResultContracts.CreateDocument("application/json")) { uri ->
+        if (uri != null) scope.launch {
+            told = runCatching { context.contentResolver.openOutputStream(uri)!!.let { backup.write(it) } }
+                .fold({ R.string.backup_done }, { R.string.backup_failed })
+        }
+    }
+    val openBackup = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocument()) { uri -> restoring = uri }
+    restoring?.let { uri ->
+        ZoneAlertDialog(
+            onDismissRequest = { restoring = null },
+            title = { Text(stringResource(R.string.restore_q)) },
+            text = { Text(stringResource(R.string.restore_warning)) },
+            confirmButton = {
+                TextButton(onClick = {
+                    restoring = null
+                    scope.launch {
+                        val ok = runCatching { context.contentResolver.openInputStream(uri)!!.let { backup.read(it) } }.getOrDefault(false)
+                        told = if (ok) R.string.restore_done else R.string.restore_failed
+                    }
+                }) { Text(stringResource(R.string.restore)) }
+            },
+            dismissButton = { TextButton(onClick = { restoring = null }) { Text(stringResource(R.string.cancel)) } }
+        )
+    }
+    told?.let { message ->
+        ZoneAlertDialog(
+            onDismissRequest = { told = null },
+            text = { Text(stringResource(message)) },
+            confirmButton = { TextButton(onClick = { told = null }) { Text(stringResource(R.string.ok)) } }
+        )
+    }
     // The reminder follows every change made here.
     LaunchedEffect(settings.reminder, settings.reminderAt) { Reminder.schedule(context, store) }
     LaunchedEffect(settings.kahf) { Reminder.scheduleKahf(context, store) }
@@ -212,6 +247,15 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                     stringResource(if (settings.airy) R.string.spacing_airy else R.string.spacing_compact) + " · " + stringResource(R.string.spacing_detail),
                     onClick = { dialog = OpenDialog.SPACING }
                 )
+            }
+
+            Section(stringResource(R.string.your_data)) {
+                SettingRow(stringResource(R.string.backup), stringResource(R.string.backup_detail), onClick = {
+                    saveBackup.launch("mushaf-" + java.time.LocalDate.now() + ".json")
+                })
+                SettingRow(stringResource(R.string.restore), stringResource(R.string.restore_detail), onClick = {
+                    openBackup.launch(arrayOf("application/json", "application/octet-stream", "text/plain"))
+                })
             }
 
             Section(stringResource(R.string.app)) {

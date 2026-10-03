@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">بياناتك</string>
+    <string name="backup">نسخ احتياطي</string>
+    <string name="backup_detail">العلامات والملاحظات والمجموعات والحفظ والختمة ونجوم الأطفال والإعدادات، في ملف تحتفظ به</string>
+    <string name="restore">استعادة</string>
+    <string name="restore_detail">من ملف نسخة احتياطية</string>
+    <string name="restore_q">استعادة هذه النسخة؟</string>
+    <string name="restore_warning">ما على الهاتف (العلامات والملاحظات والحفظ والختمة والنجوم والإعدادات) يُستبدل بمحتوى النسخة.</string>
+    <string name="backup_done">حُفظت النسخة الاحتياطية.</string>
+    <string name="backup_failed">تعذّر حفظ النسخة الاحتياطية هناك.</string>
+    <string name="restore_done">استُعيدت النسخة الاحتياطية.</string>
+    <string name="restore_failed">هذا الملف ليس نسخة احتياطية لمصحف، أو أنه تالف. لم يتغيّر شيء.</string>
+    <string name="ok">حسنًا</string>
     <string name="until_eid">حتى العيد</string>
     <string name="spacing">التباعد</string>
     <string name="spacing_airy">مريح</string>

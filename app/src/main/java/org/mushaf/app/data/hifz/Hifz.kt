@@ -67,6 +67,11 @@ class Hifz(context: Context, private val quran: Quran, riwayah: Riwayah) {
     }
 
     /** Reads the hifz of [r], once the reader has changed riwayah. */
+    /** Reads the file again, after a backup was restored into it. */
+    fun reload() {
+        _state.value = load()
+    }
+
     fun use(r: Riwayah) {
         if (r == riwayah) return
         riwayah = r

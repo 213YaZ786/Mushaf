@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_data">আপনার ডেটা</string>
+    <string name="backup">ব্যাকআপ</string>
+    <string name="backup_detail">চিহ্ন, নোট, সংকলন, হিফজ, খতম, শিশুদের তারা ও সেটিংস, আপনার রাখা একটি ফাইলে</string>
+    <string name="restore">পুনরুদ্ধার</string>
+    <string name="restore_detail">একটি ব্যাকআপ ফাইল থেকে</string>
+    <string name="restore_q">এই ব্যাকআপ পুনরুদ্ধার করবেন?</string>
+    <string name="restore_warning">ফোনে যা আছে (চিহ্ন, নোট, হিফজ, খতম, তারা, সেটিংস) ব্যাকআপের বিষয়বস্তু দিয়ে বদলে যাবে।</string>
+    <string name="backup_done">ব্যাকআপ সংরক্ষিত হয়েছে।</string>
+    <string name="backup_failed">ব্যাকআপ সেখানে সংরক্ষণ করা যায়নি।</string>
+    <string name="restore_done">ব্যাকআপ পুনরুদ্ধার হয়েছে।</string>
+    <string name="restore_failed">এই ফাইলটি মুসহাফের ব্যাকআপ নয়, অথবা নষ্ট। কিছুই বদলায়নি।</string>
+    <string name="ok">ঠিক আছে</string>
     <string name="until_eid">ঈদ পর্যন্ত</string>
     <string name="spacing">ব্যবধান</string>
     <string name="spacing_airy">খোলামেলা</string>
