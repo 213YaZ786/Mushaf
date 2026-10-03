@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="cream_page">क्रीम पृष्ठ</string>
+    <string name="cream_page_detail">छपे मुसहफ़ जैसा गर्म काग़ज़ और स्याही, दिन और रात।</string>
     <string name="your_data">आपका डेटा</string>
     <string name="backup">बैकअप</string>
     <string name="backup_detail">चिह्न, नोट, संग्रह, हिफ़्ज़, ख़त्म, बच्चों के सितारे और सेटिंग्स, एक फ़ाइल में जो आप रखें</string>

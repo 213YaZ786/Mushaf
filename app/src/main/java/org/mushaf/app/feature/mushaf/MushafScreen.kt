@@ -1,5 +1,7 @@
 package org.mushaf.app.feature.mushaf
 
+import androidx.compose.material3.LocalContentColor
+import androidx.compose.foundation.background
 import android.app.Activity
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.fadeIn
@@ -232,10 +234,12 @@ fun MushafScreen(
         LaunchedEffect(pager.currentPage) { zoom.reset() }
         val current = pager.currentPage * perItem + 1
         val settled = !pager.isScrollInProgress
-        val paper = MaterialTheme.colorScheme.surface
+        val dark = MaterialTheme.colorScheme.background.luminance() < 0.5f
+        // Cream: the warm paper and brown-black ink of a printed mushaf (a warm dusk in the dark).
+        val cream = if (!settings.cream) null else if (dark) CREAM_DARK else CREAM
+        val paper = cream?.first ?: MaterialTheme.colorScheme.surface
         // Where the page was last taken, as a fraction of its height: low by default, the corner.
         var grab by remember { mutableFloatStateOf(0.9f) }
-        val dark = MaterialTheme.colorScheme.background.luminance() < 0.5f
 
         // The page shown is remembered; the fonts of the pages around it are fetched ahead.
         LaunchedEffect(pager, perItem) {
@@ -426,6 +430,7 @@ fun MushafScreen(
                     beyondViewportPageCount = 1,
                     modifier = Modifier
                         .fillMaxSize()
+                        .then(if (cream != null) Modifier.background(cream.first) else Modifier)
                         // Where the finger takes the page: the fold follows it. Watched only, never taken from the pager.
                         .pointerInput(Unit) {
                             awaitEachGesture {
@@ -434,7 +439,7 @@ fun MushafScreen(
                             }
                         }
                 ) { item ->
-                    CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Ltr) {
+                    CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Ltr, LocalContentColor provides (cream?.second ?: LocalContentColor.current)) {
                         Row(
                             Modifier
                                 .fillMaxSize()
@@ -584,3 +589,7 @@ private fun SystemBars(visible: Boolean) {
         onDispose { controller?.show(WindowInsetsCompat.Type.systemBars()) }
     }
 }
+
+/** The cream page and its ink, by day and by night. */
+private val CREAM = androidx.compose.ui.graphics.Color(0xFFF6EEDC) to androidx.compose.ui.graphics.Color(0xFF2B2118)
+private val CREAM_DARK = androidx.compose.ui.graphics.Color(0xFF1F1B15) to androidx.compose.ui.graphics.Color(0xFFEDE3CF)

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="cream_page">Halaman krim</string>
+    <string name="cream_page_detail">Kertas dan dakwat yang hangat, seperti mushaf bercetak, siang dan malam.</string>
     <string name="your_data">Data anda</string>
     <string name="backup">Sandarkan</string>
     <string name="backup_detail">Penanda, nota, koleksi, hafazan, khataman, bintang kanak-kanak dan tetapan, dalam satu fail yang anda simpan</string>

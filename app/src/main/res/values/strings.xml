@@ -84,6 +84,8 @@
     <string name="theme">Theme</string>
     <string name="pure_black">Pure black</string>
     <string name="pure_black_detail">In the dark theme.</string>
+    <string name="cream_page">Cream page</string>
+    <string name="cream_page_detail">Warm paper and ink, as a printed mushaf, by day and by night.</string>
     <string name="liquid_glass">Liquid glass</string>
     <string name="liquid_glass_detail">Panes of glass over a soft light in your wallpaper\'s colours.</string>
     <string name="spacing">Spacing</string>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="cream_page">صفحة كريمية</string>
+    <string name="cream_page_detail">ورق وحبر دافئان كالمصحف المطبوع، نهارًا وليلًا.</string>
     <string name="your_data">بياناتك</string>
     <string name="backup">نسخ احتياطي</string>
     <string name="backup_detail">العلامات والملاحظات والمجموعات والحفظ والختمة ونجوم الأطفال والإعدادات، في ملف تحتفظ به</string>

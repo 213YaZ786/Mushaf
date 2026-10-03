@@ -236,6 +236,12 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                     onChange = { on -> store.update { it.copy(pureBlack = on) } }
                 )
                 SwitchRow(
+                    title = stringResource(R.string.cream_page),
+                    summary = stringResource(R.string.cream_page_detail),
+                    checked = settings.cream,
+                    onChange = { on -> store.update { it.copy(cream = on) } }
+                )
+                SwitchRow(
                     title = stringResource(R.string.liquid_glass),
                     summary = stringResource(R.string.liquid_glass_detail),
                     checked = settings.glass,

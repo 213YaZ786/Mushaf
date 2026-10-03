@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="cream_page">Faqe krem</string>
+    <string name="cream_page_detail">Letër dhe bojë e ngrohtë, si një mushaf i shtypur, ditën dhe natën.</string>
     <string name="your_data">Të dhënat tuaja</string>
     <string name="backup">Kopje rezervë</string>
     <string name="backup_detail">Shënjimet, shënimet, koleksionet, hifzi, hatmja, yjet e fëmijëve dhe cilësimet, në një skedar që e mbani vetë</string>

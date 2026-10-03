@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="cream_page">Cremefarbene Seite</string>
+    <string name="cream_page_detail">Warmes Papier und Tinte wie ein gedruckter Mushaf, bei Tag und bei Nacht.</string>
     <string name="your_data">Deine Daten</string>
     <string name="backup">Sichern</string>
     <string name="backup_detail">Lesezeichen, Notizen, Sammlungen, Hifz, Khatma, Sterne der Kinder und Einstellungen in einer Datei, die du behältst</string>

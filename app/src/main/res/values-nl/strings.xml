@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="cream_page">Crèmekleurige pagina</string>
+    <string name="cream_page_detail">Warm papier en inkt, als een gedrukte mushaf, overdag en \'s nachts.</string>
     <string name="your_data">Je gegevens</string>
     <string name="backup">Back-up maken</string>
     <string name="backup_detail">Bladwijzers, notities, collecties, hifz, khatma, sterren van de kinderen en instellingen, in één bestand dat je zelf bewaart</string>

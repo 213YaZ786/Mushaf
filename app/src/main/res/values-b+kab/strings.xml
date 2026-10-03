@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="cream_page">Asebter d awraɣ afessas</string>
+    <string name="cream_page_detail">Akaɣeḍ d lmidad yeḥman, am lmesḥef yettwasiggzen, deg wass d yiḍ.</string>
     <string name="your_data">Isefka-ik</string>
     <string name="backup">Ḥrez</string>
     <string name="backup_detail">Ticreḍt, tizmilin, tigrummiwin, lḥifḍ, lxetma, itran n yigerdan d yiɣewwaṛen, deg yiwen ufaylu i tḥerzeḍ</string>
