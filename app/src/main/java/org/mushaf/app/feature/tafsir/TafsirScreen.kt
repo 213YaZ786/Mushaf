@@ -36,6 +36,8 @@ import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import org.koin.compose.koinInject
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.mutableStateOf
 import org.mushaf.app.ui.component.ChoiceDialog
@@ -92,14 +94,13 @@ fun TafsirScreen(key: AyahKey, onBack: () -> Unit) {
     OfferDownload(
         pack = Pack.TafsirBook(book.id),
         wanted = loaded is Loaded.Text && kept < 114,
-        title = "Keep this tafsir offline?",
-        text = "${book.name} for the whole Quran, kept on the phone so it opens without a connection. It downloads in the background" +
-            if (settings.wifiOnly) ", on Wi-Fi." else "."
+        title = stringResource(R.string.keep_tafsir_offline),
+        text = stringResource(if (settings.wifiOnly) R.string.offer_tafsir_wifi else R.string.offer_tafsir, book.name)
     )
 
     FloatingFrame(
         bottom = 0.dp,
-        top = { FloatingTop("Tafsir · $surah $key", leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) }) }
+        top = { FloatingTop(stringResource(R.string.tafsir_of, surah, key.toString()), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         Column(
             Modifier
@@ -118,10 +119,10 @@ fun TafsirScreen(key: AyahKey, onBack: () -> Unit) {
             // The book read, in one line; a tap chooses another.
             var choosing by remember { mutableStateOf(false) }
             EvenRows(Modifier.padding(vertical = 12.dp)) {
-                TextControl("${book.name} · another book", { choosing = true })
+                TextControl(stringResource(R.string.another_book, book.name), { choosing = true })
             }
             if (choosing) ChoiceDialog(
-                title = "Tafsir",
+                title = stringResource(R.string.tafsir),
                 options = Tafsir.BOOKS.map { it.id to it.name },
                 selected = book.id,
                 onSelect = { id -> store.update { it.copy(tafsir = id) } },
@@ -129,7 +130,7 @@ fun TafsirScreen(key: AyahKey, onBack: () -> Unit) {
             )
             when (val l = loaded) {
                 Loaded.Waiting -> Box(Modifier.fillMaxWidth().padding(32.dp), contentAlignment = Alignment.Center) { LoadingMark(size = 48.dp) }
-                Loaded.Failed -> EmptyZone("Not available", "This tafsir could not be fetched. It opens offline once read.", icon = AppIcons.MenuBook)
+                Loaded.Failed -> EmptyZone(stringResource(R.string.not_available), stringResource(R.string.tafsir_failed), icon = AppIcons.MenuBook)
                 is Loaded.Text -> ZoneSurface(shape = RoundedCornerShape(24.dp), modifier = Modifier.fillMaxWidth()) {
                     CompositionLocalProvider(LocalLayoutDirection provides if (book.rtl) LayoutDirection.Rtl else LayoutDirection.Ltr) {
                         Column(Modifier.padding(18.dp)) {
@@ -145,7 +146,7 @@ fun TafsirScreen(key: AyahKey, onBack: () -> Unit) {
                                 )
                             }
                             Text(
-                                "${book.name} · via Quran.com",
+                                stringResource(R.string.via_quran_com, book.name),
                                 style = MaterialTheme.typography.labelSmall,
                                 color = MaterialTheme.colorScheme.onSurfaceVariant,
                                 modifier = Modifier.padding(top = 10.dp)

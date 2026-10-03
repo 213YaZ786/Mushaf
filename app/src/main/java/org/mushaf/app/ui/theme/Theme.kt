@@ -1,5 +1,7 @@
 package org.mushaf.app.ui.theme
 
+import org.mushaf.app.R
+import androidx.compose.ui.res.stringResource
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -50,11 +52,12 @@ fun MushafTheme(
 /** Text size steps offered in Settings. Applied on top of Android's own font size. */
 val TEXT_SCALES = listOf(0.9f, 1f, 1.15f, 1.3f)
 
+@androidx.compose.runtime.Composable
 fun textScaleLabel(scale: Float): String = when (scale) {
-    0.9f -> "Small"
-    1f -> "Default"
-    1.15f -> "Large"
-    1.3f -> "Largest"
+    0.9f -> stringResource(R.string.size_small)
+    1f -> stringResource(R.string.size_default)
+    1.15f -> stringResource(R.string.size_large)
+    1.3f -> stringResource(R.string.size_largest)
     else -> "${(scale * 100).toInt()}%"
 }
 

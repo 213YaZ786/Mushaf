@@ -33,6 +33,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.core.common.Languages
+import org.mushaf.app.R
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import org.mushaf.app.data.quran.TranslationInfo
 import org.mushaf.app.data.quran.Translations
 import org.mushaf.app.data.settings.SettingsStore
@@ -86,9 +90,9 @@ fun TranslationsScreen(onBack: () -> Unit) {
     FloatingFrame(
         bottom = 0.dp,
         top = {
-            FloatingTop("Translations", leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) })
+            FloatingTop(stringResource(R.string.translations), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) })
             Box(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 4.dp)) {
-                SearchPill(query, { query = it }, "Language or translator", floating = true)
+                SearchPill(query, { query = it }, stringResource(R.string.language_or_translator), floating = true)
             }
         }
     ) { padding ->
@@ -96,17 +100,17 @@ fun TranslationsScreen(onBack: () -> Unit) {
         val shown = settings.translations.mapNotNull { id -> installed.firstOrNull { it.id == id } }
         val q = query.trim()
         val others = (installed.filter { it.id !in settings.translations } + catalog.orEmpty().filter { c -> installed.none { it.id == c.id } })
-            .filter { q.isEmpty() || it.language.contains(q, true) || it.name.contains(q, true) }
-            .sortedWith(compareBy({ it.language }, { it.name }))
+            .filter { q.isEmpty() || it.language.contains(q, true) || Languages.local(it.language).contains(q, true) || it.name.contains(q, true) }
+            .sortedWith(compareBy({ Languages.local(it.language) }, { it.name }))
         LazyColumn(
             contentPadding = PaddingValues(top = padding.calculateTopPadding() + 8.dp, start = inset + 12.dp, end = inset + 12.dp, bottom = 24.dp),
             verticalArrangement = Arrangement.spacedBy(8.dp),
             modifier = Modifier.fillMaxSize()
         ) {
             if (q.isEmpty()) {
-                item { Heading("Shown") }
+                item { Heading(stringResource(R.string.shown)) }
                 items(shown, key = { "s" + it.id }) { t -> TranslationRow(t, true, busy[t.id] == true, failed[t.id] == true) { on -> choose(t, on) } }
-                item { Heading(if (catalog == null) "Looking for translations…" else "${others.size} more") }
+                item { Heading(if (catalog == null) stringResource(R.string.looking_translations) else "${others.size} more") }
             }
             items(others, key = { it.id }) { t ->
                 TranslationRow(t, false, busy[t.id] == true, failed[t.id] == true) { on -> choose(t, on) }
@@ -134,7 +138,7 @@ private fun TranslationRow(t: TranslationInfo, on: Boolean, busy: Boolean, faile
             Column(Modifier.weight(1f)) {
                 Text(t.name, style = MaterialTheme.typography.titleMedium)
                 Text(
-                    if (failed) "${t.language} · could not be fetched, try again" else t.language,
+                    if (failed) stringResource(R.string.translation_failed, Languages.local(t.language)) else Languages.local(t.language),
                     style = MaterialTheme.typography.bodyMedium,
                     color = if (failed) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.onSurfaceVariant
                 )

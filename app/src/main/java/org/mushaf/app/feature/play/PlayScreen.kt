@@ -36,6 +36,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import org.koin.compose.koinInject
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import org.mushaf.app.ui.component.ZoneAlertDialog
 import org.mushaf.app.feature.common.TextControl
 import org.mushaf.app.feature.common.EvenRows
@@ -58,13 +60,13 @@ import org.mushaf.app.ui.component.rememberHaptics
 import org.mushaf.app.ui.icon.AppIcons
 
 /** The games, in the order they are shown for a surah. */
-enum class Game(val title: String, val detail: String, val icon: ImageVector, val star: Star?) {
-    LISTEN("Listen and repeat", "Sheikh al-Minshawi recites, a child repeats after him.", AppIcons.Headphones, Star.LISTENED),
-    BUILD("Build the ayat", "Tap the words in their order.", AppIcons.Puzzle, Star.BUILT),
-    MISSING("Find the missing word", "One word is hidden in each ayah.", AppIcons.Visibility, null),
-    MATCH("Match the meanings", "Each word with what it means.", AppIcons.Translate, null),
-    WHICH("Which ayah?", "Listen, then find the ayah you heard.", AppIcons.VolumeUp, null),
-    RECITE("Recite it", "Recite the surah to the phone, from memory.", AppIcons.Mic, Star.RECITED)
+enum class Game(val title: Int, val detail: Int, val icon: ImageVector, val star: Star?) {
+    LISTEN(R.string.game_listen, R.string.game_listen_detail, AppIcons.Headphones, Star.LISTENED),
+    BUILD(R.string.game_build, R.string.game_build_detail, AppIcons.Puzzle, Star.BUILT),
+    MISSING(R.string.game_missing, R.string.game_missing_detail, AppIcons.Visibility, null),
+    MATCH(R.string.game_match, R.string.game_match_detail, AppIcons.Translate, null),
+    WHICH(R.string.game_which, R.string.game_which_detail, AppIcons.VolumeUp, null),
+    RECITE(R.string.game_recite, R.string.game_recite_detail, AppIcons.Mic, Star.RECITED)
 }
 
 /**
@@ -83,7 +85,7 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
 
     FloatingFrame(
         bottom = 0.dp,
-        top = { FloatingTop("Play", leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) }) }
+        top = { FloatingTop(stringResource(R.string.play), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         Column(
             Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = LocalReadableInset.current)
@@ -98,19 +100,19 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
                     val active = c.id == children.active
                     TextControl(c.name, { if (active) editing = c else stars.select(c.id) }, accent = active)
                 }
-                TextControl(if (children.list.any { it.name.isNotEmpty() }) "+ Child" else "+ Add a child's name", { adding = true })
+                TextControl(if (children.list.any { it.name.isNotEmpty() }) stringResource(R.string.add_child) else stringResource(R.string.add_child_name), { adding = true })
             }
-            if (adding) NameDialog("A child's name", "", onDone = { stars.add(it); adding = false }, onCancel = { adding = false })
+            if (adding) NameDialog(stringResource(R.string.a_childs_name), "", onDone = { stars.add(it); adding = false }, onCancel = { adding = false })
             editing?.let { c ->
                 NameDialog(
-                    "${c.name}'s name", c.name,
+                    stringResource(R.string.childs_name_of, c.name), c.name,
                     onDone = { stars.rename(c.id, it); editing = null },
                     onCancel = { editing = null },
                     onRemove = { stars.remove(c.id); editing = null }
                 )
             }
             val total = won.values.sumOf { it.size }
-            Section("Juz 'Amma · $total of ${37 * 3} stars") {
+            Section(stringResource(R.string.amma_stars, total, 37 * 3)) {
                 // The surahs in as many columns as the width holds, each as wide as its share.
                 EvenRows(Modifier.padding(12.dp), minSlot = 100.dp, gap = 10.dp) {
                     for (n in 114 downTo 78) {
@@ -153,19 +155,19 @@ private fun NameDialog(title: String, initial: String, onDone: (String) -> Unit,
     var removing by remember { mutableStateOf(false) }
     ZoneAlertDialog(
         onDismissRequest = onCancel,
-        title = { Text(if (removing) "Remove $initial?" else title) },
+        title = { Text(if (removing) stringResource(R.string.remove_q, initial) else title) },
         text = {
-            if (removing) Text("Their stars are forgotten.")
+            if (removing) Text(stringResource(R.string.stars_forgotten))
             else OutlinedTextField(value = name, onValueChange = { name = it.take(30) }, singleLine = true, modifier = Modifier.fillMaxWidth())
         },
         confirmButton = {
-            if (removing) TextButton(onClick = { onRemove?.invoke() }) { Text("Remove") }
-            else TextButton(onClick = { onDone(name) }, enabled = name.isNotBlank()) { Text("Save") }
+            if (removing) TextButton(onClick = { onRemove?.invoke() }) { Text(stringResource(R.string.remove)) }
+            else TextButton(onClick = { onDone(name) }, enabled = name.isNotBlank()) { Text(stringResource(R.string.save)) }
         },
         dismissButton = {
             Row {
-                if (onRemove != null && !removing) TextButton(onClick = { removing = true }) { Text("Remove") }
-                TextButton(onClick = onCancel) { Text("Cancel") }
+                if (onRemove != null && !removing) TextButton(onClick = { removing = true }) { Text(stringResource(R.string.remove)) }
+                TextButton(onClick = onCancel) { Text(stringResource(R.string.cancel)) }
             }
         }
     )

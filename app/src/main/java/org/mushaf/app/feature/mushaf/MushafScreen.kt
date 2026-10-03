@@ -56,6 +56,8 @@ import androidx.core.view.WindowInsetsControllerCompat
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.runtime.mutableLongStateOf
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.runtime.mutableFloatStateOf
@@ -174,10 +176,9 @@ fun MushafScreen(
     OfferDownload(
         pack = Pack.Recitation(store.reciter(settings.riwayah)),
         wanted = heard.playing && remember(settings.reciter, settings.warshReciter, settings.riwayah) { recitations.kept(store.reciter(settings.riwayah)) } < 114,
-        title = "Keep this recitation offline?",
-        text = Recitations.reciter(store.reciter(settings.riwayah)).name + "'s recitation of the whole Quran, kept on the phone to listen without a connection. It downloads in the background" +
-            if (settings.wifiOnly) ", on Wi-Fi." else ".",
-        one = "This surah only" to {
+        title = stringResource(R.string.keep_recitation_offline),
+        text = stringResource(if (settings.wifiOnly) R.string.offer_recitation_wifi else R.string.offer_recitation, Recitations.reciter(store.reciter(settings.riwayah)).name),
+        one = stringResource(R.string.this_surah_only) to {
             surahPlaying?.let { n -> scope.launch { runCatching { recitations.downloadSurah(store.reciter(settings.riwayah), n) } } }
             Unit
         }
@@ -274,8 +275,8 @@ fun MushafScreen(
                     val surah = meta?.let { m -> pageSurah(m.pageStart, current)?.let { m.surahs[it - 1] } }
                     FloatingTop(
                         title = null,
-                        leading = { FloatingAction(AppIcons.MenuBook, "Index", onOpenIndex) },
-                        trailing = { FloatingAction(AppIcons.Settings, "Settings", onOpenSettings) },
+                        leading = { FloatingAction(AppIcons.MenuBook, stringResource(R.string.index), onOpenIndex) },
+                        trailing = { FloatingAction(AppIcons.Settings, stringResource(R.string.settings), onOpenSettings) },
                         center = {
                             FloatingPane(shape = CircleShape, onClick = { haptics.tick(); onOpenIndex() }) {
                                 AnimatedContent(
@@ -335,15 +336,15 @@ fun MushafScreen(
                     val juz = meta?.juz?.lastOrNull { it.page <= current }?.n
                     val quarter = meta?.quarters?.lastOrNull { it.page <= current }?.n
                     val actions: @Composable () -> Unit = {
-                        IconControl(AppIcons.School, "Hifz", onOpenHifz)
-                        IconControl(AppIcons.Puzzle, "Play", onOpenPlay)
+                        IconControl(AppIcons.School, stringResource(R.string.hifz), onOpenHifz)
+                        IconControl(AppIcons.Puzzle, stringResource(R.string.play), onOpenPlay)
                         if (!warsh && settings.script == Script.TAJWEED && settings.script.usable) {
-                            IconControl(AppIcons.Palette, "Tajweed colours", { legend = true })
+                            IconControl(AppIcons.Palette, stringResource(R.string.tajweed_colours), { legend = true })
                         }
-                        IconControl(AppIcons.Translate, "Read with meaning", {
+                        IconControl(AppIcons.Translate, stringResource(R.string.read_with_meaning), {
                             scope.launch { onOpenMeaning(quran.firstAyah(current)) }
                         })
-                        IconControl(AppIcons.Play, "Listen", {
+                        IconControl(AppIcons.Play, stringResource(R.string.listen), {
                             scope.launch {
                                 // On from the ayah heard last, when it is on the pages shown; else from their first ayah.
                                 val last = settings.lastHeard?.let { AyahKey.parse(it) }
@@ -518,9 +519,9 @@ private fun pageSurah(pageStart: List<String>, page: Int): Int? =
 private fun PagePill(page: Int, second: Int?, juz: Int?, quarter: Int?, modifier: Modifier, onClick: () -> Unit) {
     // A tap opens the khatmah.
     FloatingPane(shape = CircleShape, onClick = onClick, modifier = modifier.height(48.dp)) {
-        val pages = if (second != null) "Pages $page–$second" else "Page $page"
+        val pages = if (second != null) stringResource(R.string.pages_range, page, second) else stringResource(R.string.page_title, page)
         val place = buildList {
-            juz?.let { add("Juz $it") }
+            juz?.let { add(stringResource(R.string.juz_n, it)) }
             quarter?.let { add(hizbLabel(it)) }
         }.joinToString(" · ")
         Box(Modifier.fillMaxSize().padding(horizontal = 18.dp), contentAlignment = Alignment.Center) {
@@ -535,13 +536,14 @@ private fun PagePill(page: Int, second: Int?, juz: Int?, quarter: Int?, modifier
 }
 
 /** "Hizb 3", "¼ Hizb 3", "½ Hizb 3", "¾ Hizb 3" for quarter n of 240. */
+@Composable
 fun hizbLabel(quarter: Int): String {
     val hizb = (quarter - 1) / 4 + 1
     return when ((quarter - 1) % 4) {
-        0 -> "Hizb $hizb"
-        1 -> "¼ Hizb $hizb"
-        2 -> "½ Hizb $hizb"
-        else -> "¾ Hizb $hizb"
+        0 -> stringResource(R.string.hizb_n, hizb)
+        1 -> stringResource(R.string.hizb_quarter, hizb)
+        2 -> stringResource(R.string.hizb_half, hizb)
+        else -> stringResource(R.string.hizb_three_quarters, hizb)
     }
 }
 

@@ -123,19 +123,21 @@ class PackWorker(context: Context, params: WorkerParameters) : CoroutineWorker(c
         }
     }
 
-    private fun title(pack: Pack) = when (pack) {
-        is Pack.Pages -> if (pack.script == Script.TAJWEED) "Mushaf with tajweed colours" else "Mushaf pages"
-        is Pack.TafsirBook -> "Tafsir " + (Tafsir.BOOKS.firstOrNull { it.id == pack.book }?.name ?: "")
-        is Pack.Recitation -> "Recitation " + Recitations.reciter(pack.reciter).name
+    private fun title(pack: Pack) = applicationContext.run {
+        when (pack) {
+            is Pack.Pages -> getString(if (pack.script == Script.TAJWEED) R.string.mushaf_tajweed_pages else R.string.mushaf_pages_title)
+            is Pack.TafsirBook -> getString(R.string.tafsir_named, Tafsir.BOOKS.firstOrNull { it.id == pack.book }?.name ?: "")
+            is Pack.Recitation -> getString(R.string.recitation_named, Recitations.reciter(pack.reciter).name)
+        }
     }
 
     private fun foreground(title: String, done: Int, total: Int): ForegroundInfo {
         val manager = applicationContext.getSystemService(NotificationManager::class.java)
-        manager.createNotificationChannel(NotificationChannel(CHANNEL, "Downloads for offline use", NotificationManager.IMPORTANCE_LOW))
+        manager.createNotificationChannel(NotificationChannel(CHANNEL, applicationContext.getString(R.string.downloads_channel), NotificationManager.IMPORTANCE_LOW))
         val notification = NotificationCompat.Builder(applicationContext, CHANNEL)
             .setSmallIcon(R.drawable.ic_stat_mushaf)
             .setContentTitle(title)
-            .setContentText("$done of $total")
+            .setContentText(applicationContext.getString(R.string.n_of_m, done, total))
             .setProgress(total, done, false)
             .setOngoing(true)
             .setSilent(true)

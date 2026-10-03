@@ -1,5 +1,7 @@
 package org.mushaf.app.feature.recite
 
+import org.mushaf.app.R
+import androidx.compose.ui.res.stringResource
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
@@ -10,14 +12,11 @@ import org.mushaf.app.ui.component.ZoneAlertDialog
 fun ModelOffer(onYes: () -> Unit, onNo: () -> Unit) {
     ZoneAlertDialog(
         onDismissRequest = onNo,
-        title = { Text("Recite to the phone?") },
+        title = { Text(stringResource(R.string.recite_q)) },
         text = {
-            Text(
-                "The phone listens while you recite: it shows each word as you say it, or finds the ayah you recited. " +
-                    "It needs Tarteel's Quran speech model, about 80 MB, kept on the phone. What you recite never leaves it."
-            )
+            Text(stringResource(R.string.model_offer_text))
         },
-        confirmButton = { TextButton(onClick = onYes) { Text("Download") } },
-        dismissButton = { TextButton(onClick = onNo) { Text("Not now") } }
+        confirmButton = { TextButton(onClick = onYes) { Text(stringResource(R.string.download)) } },
+        dismissButton = { TextButton(onClick = onNo) { Text(stringResource(R.string.not_now)) } }
     )
 }

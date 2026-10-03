@@ -163,7 +163,7 @@ class AyahWidget : GlanceAppWidget() {
             GlanceTheme {
                 Card(GlanceModifier.clickable(Widgets.open(context, page))) {
                     Column(horizontalAlignment = Alignment.CenterHorizontally, modifier = GlanceModifier.fillMaxWidth()) {
-                        Label("Du'a from the Quran")
+                        Label(context.getString(R.string.widget_dua))
                         Spacer(GlanceModifier.height(6.dp))
                         // The du'a takes the room left, scaled to fit; its meaning and reference always show.
                         if (image != null) Image(
@@ -198,7 +198,7 @@ class KhatmahWidget : GlanceAppWidget() {
             GlanceTheme {
                 Card(GlanceModifier.clickable(Widgets.open(context, portion?.fromPage))) {
                     Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                        Label("Khatmah")
+                        Label(context.getString(R.string.khatmah))
                         Spacer(GlanceModifier.height(6.dp))
                         Box(contentAlignment = Alignment.Center) {
                             Image(ImageProvider(ring), contentDescription = null, modifier = GlanceModifier.size(72.dp))
@@ -207,11 +207,11 @@ class KhatmahWidget : GlanceAppWidget() {
                         Spacer(GlanceModifier.height(6.dp))
                         Text(
                             when {
-                                plan == null -> "Start one in the app"
-                                plan.finished -> "Read whole"
-                                portion!!.done -> "Today's pages read"
-                                portion.toPage > portion.fromPage -> "Today p. ${portion.fromPage}–${portion.toPage}"
-                                else -> "Today p. ${portion.fromPage}"
+                                plan == null -> context.getString(R.string.widget_start_one)
+                                plan.finished -> context.getString(R.string.widget_read_whole)
+                                portion!!.done -> context.getString(R.string.widget_today_read)
+                                portion.toPage > portion.fromPage -> context.getString(R.string.widget_today_pages, portion.fromPage, portion.toPage)
+                                else -> context.getString(R.string.widget_today_page, portion.fromPage)
                             },
                             style = TextStyle(color = GlanceTheme.colors.onSurface, fontSize = 12.sp, textAlign = TextAlign.Center)
                         )
@@ -235,12 +235,12 @@ class ReadingWidget : GlanceAppWidget() {
             GlanceTheme {
                 Card(GlanceModifier.clickable(Widgets.open(context, page))) {
                     Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                        Label("Reading")
+                        Label(context.getString(R.string.widget_reading))
                         Spacer(GlanceModifier.height(6.dp))
                         Text(surah, maxLines = 1, style = TextStyle(color = GlanceTheme.colors.onSurface, fontSize = 15.sp, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center))
-                        Text("Page $page", style = TextStyle(color = GlanceTheme.colors.onSurface, fontSize = 12.sp, textAlign = TextAlign.Center))
+                        Text(context.getString(R.string.page_title, page), style = TextStyle(color = GlanceTheme.colors.onSurface, fontSize = 12.sp, textAlign = TextAlign.Center))
                         if (streak > 0) Text(
-                            if (streak == 1) "1 day read" else "$streak days in a row",
+                            context.resources.getQuantityString(R.plurals.days_in_row, streak, streak),
                             style = TextStyle(color = GlanceTheme.colors.onSurfaceVariant, fontSize = 11.sp, textAlign = TextAlign.Center)
                         )
                         Spacer(GlanceModifier.height(8.dp))
@@ -248,7 +248,7 @@ class ReadingWidget : GlanceAppWidget() {
                             GlanceModifier.cornerRadius(18.dp).background(GlanceTheme.colors.primary).padding(horizontal = 16.dp, vertical = 7.dp),
                             contentAlignment = Alignment.Center
                         ) {
-                            Text("Continue", style = TextStyle(color = GlanceTheme.colors.onPrimary, fontSize = 12.sp, fontWeight = FontWeight.Medium))
+                            Text(context.getString(R.string.continue_btn), style = TextStyle(color = GlanceTheme.colors.onPrimary, fontSize = 12.sp, fontWeight = FontWeight.Medium))
                         }
                     }
                 }

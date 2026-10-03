@@ -24,6 +24,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import org.koin.compose.koinInject
+import org.mushaf.app.R
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import org.mushaf.app.feature.common.TextControl
 import org.mushaf.app.feature.common.IconControl
 import org.mushaf.app.feature.common.EvenRows
@@ -47,7 +50,8 @@ import org.mushaf.app.ui.icon.AppIcons
 private val REPEATS = listOf(1, 2, 3, 5, 10, 0)
 private val SPEEDS = listOf(0.75f, 1f, 1.25f, 1.5f)
 
-fun repeatLabel(n: Int) = when (n) { 0 -> "Again and again"; 1 -> "Once"; else -> "$n times" }
+@Composable
+fun repeatLabel(n: Int) = when (n) { 0 -> stringResource(R.string.again_and_again); 1 -> stringResource(R.string.once); else -> pluralStringResource(R.plurals.n_times, n, n) }
 
 /**
  * The recitation's controls on one pane of glass at the foot of the page:
@@ -90,7 +94,7 @@ fun ListenPane(modifier: Modifier = Modifier) {
                         Icon(AppIcons.Headphones, contentDescription = null, tint = MaterialTheme.colorScheme.primary, modifier = Modifier.size(18.dp))
                         Spacer(Modifier.size(6.dp))
                         Text(
-                            Recitations.reciter(store.reciter(settings.riwayah)).label,
+                            Recitations.reciter(store.reciter(settings.riwayah)).label(),
                             style = MaterialTheme.typography.titleMedium,
                             maxLines = 1,
                             overflow = TextOverflow.Ellipsis
@@ -98,17 +102,17 @@ fun ListenPane(modifier: Modifier = Modifier) {
                     }
                     Text(
                         when {
-                            state.failed -> "Could not be played. Check the connection."
+                            state.failed -> stringResource(R.string.playback_failed)
                             state.key != null -> listOfNotNull(
                                 "${surah ?: ""} ${state.key}",
                                 repeatLabel(settings.repeat).lowercase().takeIf { settings.repeat != 1 },
                                 when (sleep) {
                                     null -> null
-                                    Sleep.SurahEnd -> "stops at the surah's end"
-                                    is Sleep.At -> "stops in $left min"
+                                    Sleep.SurahEnd -> stringResource(R.string.stops_surah_end)
+                                    is Sleep.At -> stringResource(R.string.stops_in_min, left)
                                 }
                             ).joinToString(" · ")
-                            else -> "Starting…"
+                            else -> stringResource(R.string.starting)
                         },
                         style = MaterialTheme.typography.bodyMedium,
                         color = if (state.failed) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.onSurfaceVariant,
@@ -116,20 +120,20 @@ fun ListenPane(modifier: Modifier = Modifier) {
                         overflow = TextOverflow.Ellipsis
                     )
                 }
-                FloatingAction(AppIcons.Close, "Stop", { haptics.tick(); listen.stop() })
+                FloatingAction(AppIcons.Close, stringResource(R.string.stop), { haptics.tick(); listen.stop() })
             }
             Spacer(Modifier.size(10.dp))
             // The controls share the whole width.
             EvenRows(minSlot = 46.dp) {
-                IconControl(AppIcons.SkipPrevious, "Ayah before", { listen.skip(-1) })
+                IconControl(AppIcons.SkipPrevious, stringResource(R.string.ayah_before), { listen.skip(-1) })
                 IconControl(
                     if (state.playing) AppIcons.Pause else AppIcons.Play,
-                    if (state.playing) "Pause" else "Play",
+                    if (state.playing) stringResource(R.string.pause) else stringResource(R.string.play),
                     { haptics.toggle(!state.playing); listen.toggle() },
                     accent = true
                 ) { if (state.loading) LoadingMark(size = 20.dp) }
-                IconControl(AppIcons.SkipNext, "Next ayah", { listen.skip(1) })
-                TextControl(if (settings.repeat == 1) "Once" else if (settings.repeat == 0) "∞" else "${settings.repeat}×", {
+                IconControl(AppIcons.SkipNext, stringResource(R.string.next_ayah), { listen.skip(1) })
+                TextControl(if (settings.repeat == 1) stringResource(R.string.once) else if (settings.repeat == 0) "∞" else "${settings.repeat}×", {
                     haptics.tick()
                     listen.setRepeat(REPEATS[(REPEATS.indexOf(settings.repeat) + 1) % REPEATS.size])
                 })
@@ -139,9 +143,9 @@ fun ListenPane(modifier: Modifier = Modifier) {
                 })
                 TextControl(
                     when (sleep) {
-                        null -> "Sleep"
-                        Sleep.SurahEnd -> "Surah"
-                        is Sleep.At -> "$left min"
+                        null -> stringResource(R.string.sleep)
+                        Sleep.SurahEnd -> stringResource(R.string.surah)
+                        is Sleep.At -> stringResource(R.string.n_min, left)
                     },
                     {
                         haptics.tick()
@@ -164,8 +168,8 @@ fun ListenPane(modifier: Modifier = Modifier) {
     }
     if (choosing) {
         ChoiceDialog(
-            title = "Reciter",
-            options = Recitations.of(settings.riwayah).map { it.id to it.label },
+            title = stringResource(R.string.reciter),
+            options = Recitations.of(settings.riwayah).map { it.id to it.label() },
             selected = store.reciter(settings.riwayah),
             onSelect = { listen.setReciter(it) },
             onDismiss = { choosing = false }

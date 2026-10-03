@@ -1,5 +1,7 @@
 package org.mushaf.app.feature.offline
 
+import org.mushaf.app.R
+import androidx.compose.ui.res.stringResource
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
@@ -34,13 +36,13 @@ fun OfferDownload(
         title = { Text(title) },
         text = { Text(text) },
         confirmButton = {
-            TextButton(onClick = { offline.start(pack); close() }) { Text("Keep all offline") }
+            TextButton(onClick = { offline.start(pack); close() }) { Text(stringResource(R.string.keep_all_offline)) }
         },
         dismissButton = {
             if (one != null) {
                 TextButton(onClick = { one.second(); close() }) { Text(one.first) }
             }
-            TextButton(onClick = close) { Text("Not now") }
+            TextButton(onClick = close) { Text(stringResource(R.string.not_now)) }
         }
     )
 }

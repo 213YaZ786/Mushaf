@@ -1,5 +1,7 @@
 package org.mushaf.app.feature.hifz
 
+import org.mushaf.app.R
+import androidx.compose.ui.res.stringResource
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
@@ -98,8 +100,8 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
             onYes = {
                 offerModel = false
                 scope.launch {
-                    fetching = "Downloading the speech model…"
-                    runCatching { recogniser.install { bytes -> fetching = "Downloading the speech model · ${bytes shr 20} of 80 MB" } }
+                    fetching = context.getString(R.string.downloading_model)
+                    runCatching { recogniser.install { bytes -> fetching = context.getString(R.string.downloading_model_progress, (bytes shr 20).toInt()) } }
                         .onFailure { fetching = null; haptics.reject() }
                         .onSuccess {
                             fetching = null
@@ -116,18 +118,18 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
             Row(verticalAlignment = Alignment.CenterVertically) {
                 Text(
                     when (session.kind) {
-                        SessionKind.LESSON -> "Lesson · ${keys.firstOrNull() ?: ""}–${keys.lastOrNull()?.ayah ?: ""}"
-                        SessionKind.REVISION -> "Revision · page ${session.page}"
+                        SessionKind.LESSON -> stringResource(R.string.lesson_range, keys.firstOrNull()?.toString() ?: "", keys.lastOrNull()?.ayah ?: 0)
+                        SessionKind.REVISION -> stringResource(R.string.revision_page, session.page)
                     },
                     style = MaterialTheme.typography.titleMedium,
                     modifier = Modifier.weight(1f).padding(start = 4.dp)
                 )
-                FloatingAction(AppIcons.Close, "End", { hifz.stop() })
+                FloatingAction(AppIcons.Close, stringResource(R.string.end), { hifz.stop() })
             }
             Text(
                 when (session.show) {
-                    WordShow.ALL -> "Read it and listen, then hide the words."
-                    else -> "Tap the page to recite, a word to see it, hold a word that slipped."
+                    WordShow.ALL -> stringResource(R.string.hide_hint)
+                    else -> stringResource(R.string.recite_hint)
                 },
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant
@@ -136,8 +138,8 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
                 Text(
                     when {
                         fetching != null -> fetching!!
-                        reciting.failed -> "The microphone could not be opened."
-                        else -> "Listening: recite, the words show as you say them."
+                        reciting.failed -> stringResource(R.string.mic_failed)
+                        else -> stringResource(R.string.listening_recite)
                     },
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.primary,
@@ -146,7 +148,7 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
             }
             if (similar.isNotEmpty()) {
                 Text(
-                    "Similar: " + similar.joinToString(" · "),
+                    stringResource(R.string.similar_prefix) + similar.joinToString(" · "),
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.primary,
                     modifier = Modifier.padding(top = 4.dp)
@@ -154,13 +156,13 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
             }
             // The controls share the whole width.
             EvenRows(Modifier.padding(top = 10.dp), minSlot = 52.dp) {
-                for ((show, label) in listOf(WordShow.ALL to "Shown", WordShow.FIRST_LETTER to "Hints", WordShow.HIDDEN to "Hidden")) {
+                for ((show, label) in listOf(WordShow.ALL to stringResource(R.string.shown), WordShow.FIRST_LETTER to stringResource(R.string.hints), WordShow.HIDDEN to stringResource(R.string.hidden))) {
                     TextControl(label, { hifz.setShow(show) }, accent = session.show == show)
                 }
                 if (session.show != WordShow.ALL) {
-                    IconControl(AppIcons.Visibility, "Show the next word", { hifz.revealNext(words) })
+                    IconControl(AppIcons.Visibility, stringResource(R.string.show_next_word), { hifz.revealNext(words) })
                 }
-                IconControl(AppIcons.Mic, if (reciting.listening) "Stop listening" else "Recite", {
+                IconControl(AppIcons.Mic, if (reciting.listening) stringResource(R.string.stop_listening) else stringResource(R.string.recite), {
                     when {
                         reciting.listening -> recite.stop()
                         !modelReady -> offerModel = true
@@ -169,7 +171,7 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
                     }
                 }, tint = if (reciting.listening) MaterialTheme.colorScheme.error else androidx.compose.ui.graphics.Color.Unspecified)
                 if (session.kind == SessionKind.LESSON && keys.isNotEmpty()) {
-                    IconControl(AppIcons.Repeat, "Listen three times", {
+                    IconControl(AppIcons.Repeat, stringResource(R.string.listen_three), {
                         listen.setRepeat(3)
                         listen.play(keys.first(), until = keys.last())
                     })
@@ -178,13 +180,13 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
             EvenRows(Modifier.padding(top = 8.dp), minSlot = 64.dp) {
                 when (session.kind) {
                     SessionKind.LESSON -> {
-                        TextControl("I know it by heart", { haptics.done(); scope.launch { hifz.learnt() } }, accent = true)
+                        TextControl(stringResource(R.string.know_by_heart), { haptics.done(); scope.launch { hifz.learnt() } }, accent = true)
                     }
                     SessionKind.REVISION -> {
-                        TextControl("Forgot", { haptics.reject(); hifz.grade(Grade.AGAIN) })
-                        TextControl("Hard", { hifz.grade(Grade.HARD) })
-                        TextControl("Good", { haptics.done(); hifz.grade(Grade.GOOD) }, accent = true)
-                        TextControl("Easy", { haptics.done(); hifz.grade(Grade.EASY) })
+                        TextControl(stringResource(R.string.forgot), { haptics.reject(); hifz.grade(Grade.AGAIN) })
+                        TextControl(stringResource(R.string.hard), { hifz.grade(Grade.HARD) })
+                        TextControl(stringResource(R.string.good), { haptics.done(); hifz.grade(Grade.GOOD) }, accent = true)
+                        TextControl(stringResource(R.string.easy), { haptics.done(); hifz.grade(Grade.EASY) })
                     }
                 }
             }

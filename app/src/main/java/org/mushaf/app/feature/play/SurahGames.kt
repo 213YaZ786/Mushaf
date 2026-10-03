@@ -86,6 +86,8 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.withTimeoutOrNull
 import kotlinx.coroutines.flow.first
 import org.koin.compose.koinInject
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import org.mushaf.app.ui.theme.quranFont
 import org.mushaf.app.R
 import org.mushaf.app.core.play.Games
@@ -124,7 +126,7 @@ private fun teacher(r: Riwayah) = if (r == Riwayah.WARSH) WARSH_TEACHING else TE
 
 /** What the listening game does in [r]. */
 private fun listenDetail(r: Riwayah) =
-    if (r == Riwayah.WARSH) "Sheikh al-Husary recites an ayah, then it is your turn." else Game.LISTEN.detail
+    if (r == Riwayah.WARSH) R.string.listen_detail_warsh else Game.LISTEN.detail
 
 /** A surah's games: its menu, then the game chosen, on the same screen. */
 @Composable
@@ -148,8 +150,8 @@ fun SurahGames(surah: Int, onBack: () -> Unit) {
         bottom = 0.dp,
         top = {
             FloatingTop(
-                title = game?.title ?: name,
-                leading = { FloatingAction(AppIcons.ArrowBack, "Back", { if (game != null) game = null else onBack() }) }
+                title = game?.title?.let { stringResource(it) } ?: name,
+                leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), { if (game != null) game = null else onBack() }) }
             )
         }
     ) { padding ->
@@ -188,8 +190,8 @@ fun SurahGames(surah: Int, onBack: () -> Unit) {
                             Row(Modifier.padding(18.dp), verticalAlignment = Alignment.CenterVertically) {
                                 Icon(g.icon, contentDescription = null, tint = MaterialTheme.colorScheme.primary, modifier = Modifier.size(32.dp))
                                 Column(Modifier.weight(1f).padding(horizontal = 14.dp)) {
-                                    Text(g.title, style = MaterialTheme.typography.titleMedium)
-                                    Text(if (g == Game.LISTEN) listenDetail(riwayah) else g.detail, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                                    Text(stringResource(g.title), style = MaterialTheme.typography.titleMedium)
+                                    Text(stringResource(if (g == Game.LISTEN) listenDetail(riwayah) else g.detail), style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
                                 }
                                 g.star?.let { star ->
                                     Icon(
@@ -251,7 +253,7 @@ private fun Done(text: String, onAgain: () -> Unit) {
             for (i in 0 until 3) EightStar(pops[i].value, bursts[i].value, starColor, Modifier.size(if (i == 1) 84.dp else 64.dp))
         }
         Text(text, style = MaterialTheme.typography.headlineSmall, textAlign = TextAlign.Center, modifier = Modifier.padding(16.dp))
-        BoldButton(filled = true, onClick = { haptics.tick(); onAgain() }) { Text("Again") }
+        BoldButton(filled = true, onClick = { haptics.tick(); onAgain() }) { Text(stringResource(R.string.again)) }
     }
 }
 
@@ -301,7 +303,7 @@ private fun ListenGame(surah: Int, ayat: List<Ayah>, onWon: () -> Unit) {
         BoldButton(filled = true, onClick = {
             started = true
             if (state.playing) listen.toggle() else listen.playUntil(ayat.first().key, ayat.last().key, KIDS_REPEAT)
-        }) { Text(if (state.playing) "Pause" else "Listen") }
+        }) { Text(if (state.playing) stringResource(R.string.pause) else stringResource(R.string.listen)) }
     }
     for (a in ayat) {
         val lit = state.key == a.key
@@ -349,7 +351,7 @@ private fun YourTurnGame(ayat: List<Ayah>, reciter: Int, onWon: () -> Unit) {
     FlowRow(horizontalArrangement = Arrangement.Center, modifier = Modifier.fillMaxWidth().padding(bottom = 16.dp)) {
         BoldButton(filled = true, onClick = {
             if (running) { listen.stop(); running = false; turn = null } else running = true
-        }) { Text(if (running) "Stop" else "Start") }
+        }) { Text(if (running) stringResource(R.string.stop) else stringResource(R.string.start)) }
     }
     for (a in ayat) {
         val heard = running && turn == null && state.key == a.key
@@ -370,7 +372,7 @@ private fun YourTurnGame(ayat: List<Ayah>, reciter: Int, onWon: () -> Unit) {
                     color = color,
                     modifier = Modifier.fillMaxWidth()
                 )
-                if (mine) Text("Your turn", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.tertiary)
+                if (mine) Text(stringResource(R.string.your_turn), style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.tertiary)
             }
         }
     }
@@ -386,7 +388,7 @@ private fun BuildGame(ayat: List<Ayah>, onWon: () -> Unit) {
     var round by remember { mutableIntStateOf(0) }
     if (index >= ayat.size) {
         LaunchedEffect(Unit) { onWon() }
-        Done("The whole surah, built!") { index = 0; round++ }
+        Done(stringResource(R.string.surah_built)) { index = 0; round++ }
         return
     }
     val a = ayat[index]
@@ -397,7 +399,7 @@ private fun BuildGame(ayat: List<Ayah>, onWon: () -> Unit) {
     // Where each tile was when tapped, for the word to fly from there to its place.
     val tileAt = remember(a.key, round) { HashMap<Int, Offset>() }
     val flyFrom = remember(a.key, round) { HashMap<Int, Offset>() }
-    Text("Ayah ${index + 1} of ${ayat.size}", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary,
+    Text(stringResource(R.string.ayah_n_of, index + 1, ayat.size), style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary,
         textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp))
     ZoneSurface(shape = RoundedCornerShape(24.dp), modifier = Modifier.fillMaxWidth().heightIn(min = 120.dp)) {
         Rtl {
@@ -487,11 +489,11 @@ private fun MatchGame(ayat: List<Ayah>) {
     }
     var round by remember(game) { mutableIntStateOf(0) }
     if (rounds.isEmpty()) {
-        Text("This surah is too short for this game.", style = MaterialTheme.typography.bodyLarge, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(24.dp))
+        Text(stringResource(R.string.too_short), style = MaterialTheme.typography.bodyLarge, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(24.dp))
         return
     }
     if (round >= rounds.size) {
-        Done("All the meanings found!") { game++ }
+        Done(stringResource(R.string.meanings_found)) { game++ }
         return
     }
     val words = rounds[round]
@@ -502,7 +504,7 @@ private fun MatchGame(ayat: List<Ayah>) {
     LaunchedEffect(found.size) {
         if (found.size == words.size) { delay(500); round++ }
     }
-    Text("Round ${round + 1} of ${rounds.size}", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary,
+    Text(stringResource(R.string.round_n_of, round + 1, rounds.size), style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary,
         textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(bottom = 12.dp))
     Rtl {
         EvenRows(minSlot = 72.dp, gap = 10.dp) {
@@ -549,7 +551,7 @@ private fun MatchGame(ayat: List<Ayah>) {
         }
     }
     Text(
-        if (chosen == null) "Tap a word, then its meaning." else "Now its meaning.",
+        if (chosen == null) stringResource(R.string.tap_word_meaning) else stringResource(R.string.now_meaning),
         style = MaterialTheme.typography.bodyMedium,
         color = MaterialTheme.colorScheme.onSurfaceVariant,
         textAlign = TextAlign.Center,
@@ -567,7 +569,7 @@ private fun MissingGame(ayat: List<Ayah>) {
     var score by remember { mutableIntStateOf(0) }
     var picked by remember(index) { mutableStateOf<String?>(null) }
     if (index >= ayat.size) {
-        Done("$score of ${ayat.size} found") { index = 0; score = 0 }
+        Done(stringResource(R.string.n_of_found, score, ayat.size)) { index = 0; score = 0 }
         return
     }
     val a = ayat[index]
@@ -614,7 +616,7 @@ private fun MissingGame(ayat: List<Ayah>) {
     }
     if (picked != null) {
         Row(Modifier.fillMaxWidth().padding(top = 20.dp), horizontalArrangement = Arrangement.Center) {
-            BoldButton(filled = true, onClick = { haptics.tick(); index++ }) { Text("Next") }
+            BoldButton(filled = true, onClick = { haptics.tick(); index++ }) { Text(stringResource(R.string.next)) }
         }
     }
 }
@@ -631,13 +633,13 @@ private fun WhichGame(ayat: List<Ayah>, reciter: Int) {
     DisposableEffect(Unit) { onDispose { listen.stop() } }
     val rounds = minOf(5, ayat.size)
     if (round >= rounds) {
-        Done("$score of $rounds heard right") { round = 0; score = 0 }
+        Done(stringResource(R.string.n_heard_right, score, rounds)) { round = 0; score = 0 }
         return
     }
     val q = remember(round) { Games.which(ayat.map { it.key }, Random(System.nanoTime())) }
     LaunchedEffect(round) { listen.playOnce(q.answer, reciter) }
     Row(Modifier.fillMaxWidth().padding(bottom = 16.dp), horizontalArrangement = Arrangement.Center) {
-        FloatingAction(AppIcons.VolumeUp, "Hear it again", { listen.playOnce(q.answer, reciter) })
+        FloatingAction(AppIcons.VolumeUp, stringResource(R.string.hear_again), { listen.playOnce(q.answer, reciter) })
     }
     for (k in q.choices) {
         val a = ayat.first { it.key == k }
@@ -662,7 +664,7 @@ private fun WhichGame(ayat: List<Ayah>, reciter: Int) {
     }
     if (picked != null) {
         Row(Modifier.fillMaxWidth().padding(top = 10.dp), horizontalArrangement = Arrangement.Center) {
-            BoldButton(filled = true, onClick = { haptics.tick(); round++ }) { Text("Next") }
+            BoldButton(filled = true, onClick = { haptics.tick(); round++ }) { Text(stringResource(R.string.next)) }
         }
     }
 }
@@ -693,22 +695,22 @@ private fun ReciteGame(ayat: List<Ayah>, onWon: () -> Unit) {
             fetching != null -> Text(fetching!!, style = MaterialTheme.typography.bodyMedium)
             !ready -> BoldButton(filled = true, onClick = {
                 scope.launch {
-                    fetching = "Downloading the speech model…"
-                    runCatching { recogniser.install { fetching = "Downloading the speech model · ${it shr 20} of 80 MB" } }
+                    fetching = context.getString(R.string.downloading_model)
+                    runCatching { recogniser.install { fetching = context.getString(R.string.downloading_model_progress, (it shr 20).toInt()) } }
                         .onFailure { haptics.reject() }
                     fetching = null
                 }
-            }) { Text("Get the speech model, 80 MB") }
-            state.listening -> BoldButton(onClick = { haptics.tick(); recite.stop() }) { Text("Stop") }
+            }) { Text(stringResource(R.string.get_model)) }
+            state.listening -> BoldButton(onClick = { haptics.tick(); recite.stop() }) { Text(stringResource(R.string.stop)) }
             else -> BoldButton(filled = true, onClick = {
                 recite.reset()
                 if (ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) start()
                 else askMic.launch(Manifest.permission.RECORD_AUDIO)
-            }) { Text(if (done) "Again" else "Start reciting") }
+            }) { Text(if (done) stringResource(R.string.again) else stringResource(R.string.start_reciting)) }
         }
     }
     if (done) Text(
-        if (skipped <= 1) "Well done, the whole surah!" else "$skipped words passed over. Again?",
+        if (skipped <= 1) stringResource(R.string.well_done_surah) else stringResource(R.string.words_passed_again, skipped),
         style = MaterialTheme.typography.titleMedium, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(bottom = 12.dp)
     )
     ZoneSurface(shape = RoundedCornerShape(24.dp), modifier = Modifier.fillMaxWidth()) {

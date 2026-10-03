@@ -47,6 +47,8 @@ import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import org.koin.compose.koinInject
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.foundation.clickable
 import org.mushaf.app.data.audio.WordAudio
 import org.mushaf.app.ui.theme.quranFont
@@ -119,8 +121,8 @@ fun MeaningScreen(
         top = {
             FloatingTop(
                 title = surah?.let { "${it.n}. ${it.name}" },
-                leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) },
-                trailing = { FloatingAction(AppIcons.Translate, "Translations", onOpenTranslations) }
+                leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) },
+                trailing = { FloatingAction(AppIcons.Translate, stringResource(R.string.translations), onOpenTranslations) }
             )
         }
     ) { padding ->
@@ -159,7 +161,7 @@ fun MeaningScreen(
                                 }
                             }
                         } else if (intro.isNotEmpty()) {
-                            Text("About this surah", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary, modifier = Modifier.padding(top = 10.dp))
+                            Text(stringResource(R.string.about_surah), style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary, modifier = Modifier.padding(top = 10.dp))
                         }
                     }
                 }
@@ -182,11 +184,11 @@ fun MeaningScreen(
                                 )
                             }
                             Spacer(Modifier.weight(1f))
-                            SmallAction(if (bookmarked) AppIcons.Bookmark else AppIcons.BookmarkOutline, if (bookmarked) "Remove bookmark" else "Bookmark") {
+                            SmallAction(if (bookmarked) AppIcons.Bookmark else AppIcons.BookmarkOutline, if (bookmarked) stringResource(R.string.remove_bookmark) else stringResource(R.string.bookmark)) {
                                 haptics.toggle(marks.toggleBookmark(row.key))
                             }
-                            SmallAction(AppIcons.MenuBook, "Tafsir") { onOpenTafsir(row.key) }
-                            SmallAction(AppIcons.List, "Show in the mushaf") { onOpenInMushaf(row.key) }
+                            SmallAction(AppIcons.MenuBook, stringResource(R.string.tafsir)) { onOpenTafsir(row.key) }
+                            SmallAction(AppIcons.List, stringResource(R.string.show_in_mushaf)) { onOpenInMushaf(row.key) }
                         }
                         Spacer(Modifier.size(12.dp))
                         if (settings.wordByWord) {
@@ -240,7 +242,7 @@ fun MeaningScreen(
                         }
                         if (note != null) {
                             Spacer(Modifier.size(12.dp))
-                            Text("Note · $note", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
+                            Text(stringResource(R.string.note_n, note), style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
                         }
                     }
                 }

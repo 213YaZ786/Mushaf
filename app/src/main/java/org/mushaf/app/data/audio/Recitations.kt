@@ -23,9 +23,7 @@ import org.mushaf.app.data.sources.Sources
  * Quran.com, of each word). Warsh reciters are mp3quran's, their ids past
  * [Recitations.WARSH_BASE].
  */
-data class Reciter(val id: Int, val name: String, val style: String, val warsh: Boolean = false) {
-    val label: String get() = if (style.isBlank() || style == "Murattal") name else "$name · $style"
-}
+data class Reciter(val id: Int, val name: String, val style: String, val warsh: Boolean = false)
 
 /**
  * The recitations: Hafs from Quran.com (quranicaudio.com), one file per

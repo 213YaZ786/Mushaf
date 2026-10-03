@@ -45,6 +45,9 @@ import androidx.core.content.ContextCompat
 import kotlinx.coroutines.launch
 import kotlin.random.Random
 import org.koin.compose.koinInject
+import org.mushaf.app.R
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import org.mushaf.app.core.quran.AyahKey
 import org.mushaf.app.core.stt.Heard
 import org.mushaf.app.data.hifz.Hifz
@@ -114,8 +117,8 @@ fun TestScreen(onBack: () -> Unit) {
         onYes = {
             offerModel = false
             scope.launch {
-                fetching = "Downloading the speech model…"
-                runCatching { recogniser.install { bytes -> fetching = "Downloading the speech model · ${bytes shr 20} of 80 MB" } }
+                fetching = context.getString(R.string.downloading_model)
+                runCatching { recogniser.install { bytes -> fetching = context.getString(R.string.downloading_model_progress, (bytes shr 20).toInt()) } }
                     .onFailure { fetching = null; haptics.reject() }
                     .onSuccess {
                         fetching = null
@@ -135,7 +138,7 @@ fun TestScreen(onBack: () -> Unit) {
 
     FloatingFrame(
         bottom = 0.dp,
-        top = { FloatingTop("Continue the ayah", leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) }) }
+        top = { FloatingTop(stringResource(R.string.continue_ayah), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         Column(
             Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = LocalReadableInset.current + 16.dp)
@@ -143,7 +146,7 @@ fun TestScreen(onBack: () -> Unit) {
             Spacer(Modifier.height(padding.calculateTopPadding() + 8.dp))
             if (q == null) {
                 Text(
-                    "Mark what you know by heart in Hifz first: the questions are taken from it.",
+                    stringResource(R.string.test_empty),
                     style = MaterialTheme.typography.bodyLarge,
                     textAlign = TextAlign.Center,
                     modifier = Modifier.fillMaxWidth().padding(24.dp)
@@ -151,7 +154,7 @@ fun TestScreen(onBack: () -> Unit) {
                 return@Column
             }
             Text(
-                if (asked == 0) "What comes after this ayah?" else "$right of $asked recited whole · what comes after this ayah?",
+                if (asked == 0) stringResource(R.string.what_comes_after) else stringResource(R.string.test_score, right, asked),
                 style = MaterialTheme.typography.labelLarge,
                 color = MaterialTheme.colorScheme.primary,
                 textAlign = TextAlign.Center,
@@ -191,15 +194,15 @@ fun TestScreen(onBack: () -> Unit) {
             }
             val status = when {
                 fetching != null -> fetching
-                heard.failed -> "The microphone could not be opened."
-                heard.listening -> "Listening: recite the next ayah."
+                heard.failed -> stringResource(R.string.mic_failed)
+                heard.listening -> stringResource(R.string.listening_next)
                 else -> null
             }
             if (status != null) Text(status, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.primary,
                 textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(top = 10.dp))
             Spacer(Modifier.height(16.dp))
             EvenRows(minSlot = 64.dp) {
-                IconControl(AppIcons.Mic, if (heard.listening) "Stop listening" else "Recite", {
+                IconControl(AppIcons.Mic, if (heard.listening) stringResource(R.string.stop_listening) else stringResource(R.string.recite), {
                     when {
                         heard.listening -> recite.stop()
                         !modelReady -> offerModel = true
@@ -207,9 +210,9 @@ fun TestScreen(onBack: () -> Unit) {
                         else -> askMic.launch(Manifest.permission.RECORD_AUDIO)
                     }
                 }, accent = true, tint = if (heard.listening) MaterialTheme.colorScheme.error else androidx.compose.ui.graphics.Color.Unspecified)
-                IconControl(AppIcons.VolumeUp, "Hear the ayah given", { listen.playOnce(q.given) })
-                TextControl("Show", { recite.stop(); if (!shown && !complete) asked++; shown = true })
-                TextControl("Next", { round++ })
+                IconControl(AppIcons.VolumeUp, stringResource(R.string.hear_given), { listen.playOnce(q.given) })
+                TextControl(stringResource(R.string.show), { recite.stop(); if (!shown && !complete) asked++; shown = true })
+                TextControl(stringResource(R.string.next), { round++ })
             }
         }
     }

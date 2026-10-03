@@ -27,6 +27,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.delay
 import org.koin.compose.koinInject
+import org.mushaf.app.feature.listen.label
+import org.mushaf.app.R
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import org.mushaf.app.feature.common.TextControl
 import org.mushaf.app.feature.common.EvenRows
 import org.mushaf.app.data.audio.Recitations
@@ -62,7 +66,7 @@ fun OfflineScreen(onBack: () -> Unit) {
 
     FloatingFrame(
         bottom = 0.dp,
-        top = { FloatingTop("Offline", leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) }) }
+        top = { FloatingTop(stringResource(R.string.offline), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         Column(
             Modifier
@@ -71,14 +75,14 @@ fun OfflineScreen(onBack: () -> Unit) {
                 .padding(horizontal = LocalReadableInset.current)
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding()))
-            Section("Everything in use") {
+            Section(stringResource(R.string.everything_in_use)) {
                 Text(
-                    "The mushaf's pages, ${Recitations.reciter(store.reciter(settings.riwayah)).name}'s recitation and the tafsir you read, kept on the phone.",
+                    stringResource(R.string.everything_in_use_detail, Recitations.reciter(store.reciter(settings.riwayah)).name),
                     style = MaterialTheme.typography.bodyMedium,
                     modifier = Modifier.padding(16.dp)
                 )
                 EvenRows(Modifier.padding(start = 16.dp, end = 16.dp, bottom = 16.dp)) {
-                    TextControl("Keep all offline", {
+                    TextControl(stringResource(R.string.keep_all_offline), {
                         haptics.done()
                         // Warsh's pages are drawn from the font the app carries: nothing to fetch.
                         if (settings.script != Script.HAFS && settings.riwayah == Riwayah.HAFS) offline.start(Pack.Pages(settings.script))
@@ -87,21 +91,21 @@ fun OfflineScreen(onBack: () -> Unit) {
                     }, accent = true)
                 }
                 SwitchRow(
-                    title = "Wait for Wi-Fi",
-                    summary = "Large downloads start on Wi-Fi only.",
+                    title = stringResource(R.string.wait_wifi),
+                    summary = stringResource(R.string.wait_wifi_detail),
                     checked = settings.wifiOnly,
                     onChange = { on -> store.update { it.copy(wifiOnly = on) } }
                 )
             }
-            Section("Mushaf pages") {
-                PackRow(Pack.Pages(Script.PRINT), "As printed", "604 pages, about 190 MB")
-                if (Script.TAJWEED.usable) PackRow(Pack.Pages(Script.TAJWEED), "Tajweed in colour", "604 pages, about 170 MB")
+            Section(stringResource(R.string.mushaf_pages)) {
+                PackRow(Pack.Pages(Script.PRINT), stringResource(R.string.as_printed), stringResource(R.string.pages_190))
+                if (Script.TAJWEED.usable) PackRow(Pack.Pages(Script.TAJWEED), stringResource(R.string.tajweed_in_colour), stringResource(R.string.pages_170))
             }
-            Section("Recitations") {
-                for (r in Recitations.of(settings.riwayah)) PackRow(Pack.Recitation(r.id), r.label, "114 surahs, about 0.5 to 1.5 GB")
+            Section(stringResource(R.string.recitations)) {
+                for (r in Recitations.of(settings.riwayah)) PackRow(Pack.Recitation(r.id), r.label(), stringResource(R.string.surahs_size))
             }
-            Section("Tafsir") {
-                for (b in Tafsir.BOOKS) PackRow(Pack.TafsirBook(b.id), b.name, "${b.language}, 114 surahs")
+            Section(stringResource(R.string.tafsir)) {
+                for (b in Tafsir.BOOKS) PackRow(Pack.TafsirBook(b.id), b.name, stringResource(R.string.tafsir_book_size, java.util.Locale.forLanguageTag(b.language).getDisplayLanguage(java.util.Locale.getDefault()).replaceFirstChar { it.titlecase() }))
             }
             Spacer(Modifier.height(24.dp))
             Spacer(Modifier.windowInsetsBottomHeight(WindowInsets.navigationBars))
@@ -138,10 +142,10 @@ private fun PackRow(pack: Pack, title: String, size: String) {
                 Text(title, style = MaterialTheme.typography.titleMedium)
                 Text(
                     when {
-                        kept >= pack.total -> "Kept offline"
-                        running -> "Downloading · $kept of ${pack.total}"
-                        progress?.failed == true -> "Stopped · $kept of ${pack.total} kept · try again"
-                        kept > 0 -> "$kept of ${pack.total} kept · $size"
+                        kept >= pack.total -> stringResource(R.string.kept_offline)
+                        running -> stringResource(R.string.pack_downloading, kept, pack.total)
+                        progress?.failed == true -> stringResource(R.string.pack_stopped, kept, pack.total)
+                        kept > 0 -> stringResource(R.string.pack_kept, kept, pack.total, size)
                         else -> size
                     },
                     style = MaterialTheme.typography.bodyMedium,
@@ -149,7 +153,7 @@ private fun PackRow(pack: Pack, title: String, size: String) {
                 )
             }
             when {
-                running -> QuietButton(onClick = { haptics.tick(); offline.cancel(pack) }) { Text("Pause") }
+                running -> QuietButton(onClick = { haptics.tick(); offline.cancel(pack) }) { Text(stringResource(R.string.pause)) }
                 kept >= pack.total -> QuietButton(onClick = {
                     haptics.tick()
                     when (pack) {
@@ -158,8 +162,8 @@ private fun PackRow(pack: Pack, title: String, size: String) {
                         is Pack.Recitation -> recitations.remove(pack.reciter)
                     }
                     kept = 0
-                }) { Text("Remove") }
-                else -> BoldButton(onClick = { haptics.done(); offline.start(pack) }) { Text(if (kept > 0) "Finish" else "Keep") }
+                }) { Text(stringResource(R.string.remove)) }
+                else -> BoldButton(onClick = { haptics.done(); offline.start(pack) }) { Text(if (kept > 0) stringResource(R.string.finish) else stringResource(R.string.keep)) }
             }
         }
         if (running) LinearProgressIndicator(progress = { kept / pack.total.toFloat() }, modifier = Modifier.fillMaxWidth().padding(top = 8.dp))

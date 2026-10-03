@@ -1,5 +1,7 @@
 package org.mushaf.app.feature.about
 
+import org.mushaf.app.R
+import androidx.compose.ui.res.stringResource
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.WindowInsets
@@ -29,7 +31,7 @@ fun AboutScreen(onBack: () -> Unit) {
     val uri = LocalUriHandler.current
     FloatingFrame(
         bottom = 0.dp,
-        top = { FloatingTop("About", leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) }) }
+        top = { FloatingTop(stringResource(R.string.about), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         Column(
             Modifier
@@ -38,12 +40,12 @@ fun AboutScreen(onBack: () -> Unit) {
                 .padding(horizontal = LocalReadableInset.current)
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding()))
-            Section("Mushaf ${BuildConfig.VERSION_NAME}") {
-                SettingRow("Source code", "MIT licence, on GitHub", onClick = { uri.openUri("https://github.com/213YaZ786/Mushaf") })
+            Section(stringResource(R.string.about_version, BuildConfig.VERSION_NAME)) {
+                SettingRow(stringResource(R.string.source_code), stringResource(R.string.source_code_detail), onClick = { uri.openUri("https://github.com/213YaZ786/Mushaf") })
             }
-            Section("Sources") {
+            Section(stringResource(R.string.sources)) {
                 for (s in SOURCES) {
-                    SettingRow(s.title, s.detail, onClick = { uri.openUri(s.link) })
+                    SettingRow(stringResource(s.title), stringResource(s.detail), onClick = { uri.openUri(s.link) })
                 }
             }
             Spacer(Modifier.height(24.dp))
@@ -52,30 +54,30 @@ fun AboutScreen(onBack: () -> Unit) {
     }
 }
 
-private class Credit(val title: String, val detail: String, val link: String)
+private class Credit(val title: Int, val detail: Int, val link: String)
 
 private val SOURCES = listOf(
     Credit(
-        "Quran text and pages",
-        "Madinah mushaf of the King Fahd Glorious Quran Printing Complex, its Hafs and page fonts",
+        R.string.credit_text,
+        R.string.credit_text_detail,
         "https://qurancomplex.gov.sa"
     ),
     Credit(
-        "Warsh mushaf",
-        "The King Fahd Complex's Warsh text, font and layout, through quran-ws/quran-text (CC BY 4.0)",
+        R.string.credit_warsh,
+        R.string.credit_warsh_detail,
         "https://github.com/quran-ws/quran-text"
     ),
     Credit(
-        "Words, pages and lines",
-        "Quran.com: each word's place in the mushaf, word by word meaning and transliteration",
+        R.string.credit_words,
+        R.string.credit_words_detail,
         "https://quran.com"
     ),
-    Credit("English meaning", "Saheeh International", "https://quran.com"),
-    Credit("Surah introductions", "Sayyid Abul Ala Maududi, Tafhim al-Qur'an, via Quran.com", "https://quran.com"),
-    Credit("Text checked against", "The Tanzil Project's Quran text (CC BY 3.0)", "https://tanzil.net"),
-    Credit("Translations", "Quran.com, and fawazahmed0/quran-api: QuranEnc, Tanzil and others", "https://github.com/fawazahmed0/quran-api"),
-    Credit("Tafsir", "Quran.com", "https://quran.com"),
-    Credit("Recitations", "Hafs: Quran.com and quranicaudio.com, each word's own from Quran.com. Warsh: mp3quran.net", "https://quranicaudio.com"),
-    Credit("Similar ayat", "Quran Revision Companion (MIT)", "https://github.com/Waqar144/quran_memorization_helper"),
-    Credit("Speech recognition", "Tarteel's Quran model (Apache-2.0), run by whisper.cpp (MIT)", "https://huggingface.co/tarteel-ai/whisper-base-ar-quran")
+    Credit(R.string.credit_english, R.string.credit_english_detail, "https://quran.com"),
+    Credit(R.string.credit_intro, R.string.credit_intro_detail, "https://quran.com"),
+    Credit(R.string.credit_checked, R.string.credit_checked_detail, "https://tanzil.net"),
+    Credit(R.string.translations, R.string.credit_translations_detail, "https://github.com/fawazahmed0/quran-api"),
+    Credit(R.string.tafsir, R.string.credit_quran_com, "https://quran.com"),
+    Credit(R.string.credit_recitations, R.string.credit_recitations_detail, "https://quranicaudio.com"),
+    Credit(R.string.similar_ayat, R.string.credit_similar_detail, "https://github.com/Waqar144/quran_memorization_helper"),
+    Credit(R.string.credit_speech, R.string.credit_speech_detail, "https://huggingface.co/tarteel-ai/whisper-base-ar-quran")
 )

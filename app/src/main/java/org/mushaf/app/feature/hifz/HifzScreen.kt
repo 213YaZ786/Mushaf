@@ -41,6 +41,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.R
+import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.res.pluralStringResource
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.layout.BoxWithConstraints
 import org.mushaf.app.feature.common.TextControl
@@ -64,11 +67,11 @@ import org.mushaf.app.ui.component.rememberHaptics
 import org.mushaf.app.ui.icon.AppIcons
 
 /** What the reader already knows by heart when setting up. */
-private enum class Known(val label: String) {
-    NOTHING("Nothing yet"),
-    AMMA("Juz 'Amma"),
-    TWO("The last two juz"),
-    ALL("The whole Quran")
+private enum class Known(val label: Int) {
+    NOTHING(R.string.known_nothing),
+    AMMA(R.string.known_amma),
+    TWO(R.string.known_two),
+    ALL(R.string.known_all)
 }
 
 /**
@@ -93,9 +96,9 @@ fun HifzScreen(onBack: () -> Unit, onOpenMushaf: () -> Unit, onOpenTest: () -> U
         bottom = 0.dp,
         top = {
             FloatingTop(
-                "Hifz",
-                leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) },
-                trailing = { if (plan != null) FloatingAction(AppIcons.Settings, "Plan", { editing = !editing }) }
+                stringResource(R.string.hifz),
+                leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) },
+                trailing = { if (plan != null) FloatingAction(AppIcons.Settings, stringResource(R.string.plan), { editing = !editing }) }
             )
         }
     ) { padding ->
@@ -125,14 +128,14 @@ fun HifzScreen(onBack: () -> Unit, onOpenMushaf: () -> Unit, onOpenTest: () -> U
                 }
             } else {
                 Today(hifz, session, onOpenMushaf)
-                Section("Test yourself") {
+                Section(stringResource(R.string.test_yourself)) {
                     EvenRows(Modifier.padding(12.dp), minSlot = 140.dp) {
-                        TextControl("Continue the ayah", onOpenTest, accent = true)
-                        TextControl("Similar ayat", onOpenSimilar)
+                        TextControl(stringResource(R.string.continue_ayah), onOpenTest, accent = true)
+                        TextControl(stringResource(R.string.similar_ayat), onOpenSimilar)
                     }
                 }
                 Slipped(hifz, session, onOpenMushaf)
-                Section("The pages") { PageMap(hifz, onOpenMushaf) }
+                Section(stringResource(R.string.the_pages)) { PageMap(hifz, onOpenMushaf) }
             }
             Spacer(Modifier.height(24.dp))
             Spacer(Modifier.windowInsetsBottomHeight(WindowInsets.navigationBars))
@@ -148,25 +151,25 @@ private fun Setup(plan: Plan?, onDone: (Plan, Known?) -> Unit) {
     var lines by remember { mutableStateOf(plan?.lines ?: 7) }
     var order by remember { mutableStateOf(plan?.order ?: Order.FROM_AN_NAS) }
     if (plan == null) {
-        Section("What do you know by heart?") {
-            Choices(Known.entries.map { it to it.label }, known) { haptics.tick(); known = it }
+        Section(stringResource(R.string.known_question)) {
+            Choices(Known.entries.map { it to stringResource(it.label) }, known) { haptics.tick(); known = it }
             Text(
-                "You can mark any surah known later, from the mushaf.",
+                stringResource(R.string.known_later),
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
                 modifier = Modifier.padding(16.dp)
             )
         }
     }
-    Section("Learn each day") {
-        Choices(listOf(0 to "Revision only", 3 to "3 lines", 7 to "Half a page", 15 to "A page", 30 to "Two pages"), lines) { haptics.tick(); lines = it }
+    Section(stringResource(R.string.learn_each_day)) {
+        Choices(listOf(0 to stringResource(R.string.revision_only), 3 to stringResource(R.string.three_lines), 7 to stringResource(R.string.half_page), 15 to stringResource(R.string.a_page), 30 to stringResource(R.string.two_pages_learn)), lines) { haptics.tick(); lines = it }
     }
-    Section("In this order") {
-        Choices(listOf(Order.FROM_AN_NAS to "From An-Nas, Juz 'Amma first", Order.FROM_AL_FATIHAH to "From Al-Fatihah"), order) { haptics.tick(); order = it }
+    Section(stringResource(R.string.in_this_order)) {
+        Choices(listOf(Order.FROM_AN_NAS to stringResource(R.string.order_an_nas), Order.FROM_AL_FATIHAH to stringResource(R.string.order_fatihah)), order) { haptics.tick(); order = it }
     }
     Row(Modifier.fillMaxWidth().padding(16.dp), horizontalArrangement = Arrangement.End) {
         BoldButton(filled = true, onClick = { haptics.done(); onDone(Plan(lines = lines, order = order, perDay = plan?.perDay ?: 10), known) }) {
-            Text(if (plan == null) "Start" else "Save")
+            Text(if (plan == null) stringResource(R.string.start) else stringResource(R.string.save))
         }
     }
 }
@@ -192,32 +195,32 @@ private fun Today(hifz: Hifz, session: HifzSession, onOpenMushaf: () -> Unit) {
     val lessonPage by produceState<Int?>(null, lesson) { value = lesson?.firstOrNull()?.let { quran.pageOf(it) } }
     val surahName by produceState("", lesson) { value = lesson?.firstOrNull()?.let { quran.surah(it.surah).name }.orEmpty() }
 
-    Section(if (streak > 1) "Today · $streak days in a row" else "Today") {
+    Section(if (streak > 1) stringResource(R.string.today_streak, streak) else stringResource(R.string.today)) {
         val l = lesson
         Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(14.dp)) {
             when {
                 l == null -> LoadingMark(size = 32.dp)
-                l.isEmpty() -> Text("No new lesson: revision only, or everything is known.", style = MaterialTheme.typography.bodyMedium)
+                l.isEmpty() -> Text(stringResource(R.string.no_new_lesson), style = MaterialTheme.typography.bodyMedium)
                 else -> Card(
-                    title = "New lesson (sabaq)",
-                    detail = "$surahName ${l.first()}" + (if (l.size > 1) "–${l.last().ayah}" else "") + " · page ${lessonPage ?: ""}",
-                    action = "Learn"
+                    title = stringResource(R.string.sabaq),
+                    detail = "$surahName ${l.first()}" + (if (l.size > 1) "–${l.last().ayah}" else "") + " · " + stringResource(R.string.page_n, lessonPage ?: 0),
+                    action = stringResource(R.string.learn)
                 ) {
                     haptics.tick()
                     lessonPage?.let { session.startLesson(l, it); onOpenMushaf() }
                 }
             }
             if (revision.recent.isNotEmpty()) {
-                PagesCard("Learnt this week (sabqi)", revision.recent) { p -> scope.launch { session.startRevision(p); onOpenMushaf() } }
+                PagesCard(stringResource(R.string.sabqi), revision.recent) { p -> scope.launch { session.startRevision(p); onOpenMushaf() } }
             }
             if (revision.due.isNotEmpty()) {
                 PagesCard(
-                    "Older pages (manzil)" + if (revision.waiting > 0) " · ${revision.waiting} more in the next days" else "",
+                    stringResource(R.string.manzil) + if (revision.waiting > 0) " · " + pluralStringResource(R.plurals.more_next_days, revision.waiting, revision.waiting) else "",
                     revision.due
                 ) { p -> scope.launch { session.startRevision(p); onOpenMushaf() } }
             }
             if (revision.recent.isEmpty() && revision.due.isEmpty() && state.pages.isNotEmpty()) {
-                Text("Revision done for today.", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
+                Text(stringResource(R.string.revision_done), style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
             }
         }
     }
@@ -271,7 +274,7 @@ private fun PageMap(hifz: Hifz, onOpenMushaf: () -> Unit) {
     BoxWithConstraints(Modifier.fillMaxWidth().padding(12.dp)) {
     val cell = ((maxWidth - 26.dp) / longest - 3.dp).coerceIn(8.dp, 28.dp)
     Column(verticalArrangement = Arrangement.spacedBy(3.dp)) {
-        Text("${state.pages.size} of 604 pages known", style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(bottom = 5.dp))
+        Text(stringResource(R.string.pages_known, state.pages.size), style = MaterialTheme.typography.labelLarge, modifier = Modifier.padding(bottom = 5.dp))
         for (j in m.juz) {
             val end = m.juz.getOrNull(j.n)?.page ?: 605
             Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(3.dp)) {
@@ -317,7 +320,7 @@ private fun Slipped(hifz: Hifz, session: HifzSession, onOpenMushaf: () -> Unit) 
             Triple(s, word, page)
         }
     }
-    Section("Words that slipped") {
+    Section(stringResource(R.string.words_slipped)) {
         Column(Modifier.padding(horizontal = 12.dp, vertical = 8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             for ((s, word, page) in rows) {
                 val surah by produceState("", s.key.surah) { value = quran.surah(s.key.surah).name }
@@ -330,7 +333,7 @@ private fun Slipped(hifz: Hifz, session: HifzSession, onOpenMushaf: () -> Unit) 
                         Column(Modifier.weight(1f)) {
                             Text("$surah ${s.key}", style = MaterialTheme.typography.titleSmall)
                             Text(
-                                if (s.count == 1) "Slipped once · page $page" else "Slipped ${s.count} times · page $page",
+                                pluralStringResource(R.plurals.slipped_times, s.count, s.count) + " · " + stringResource(R.string.page_n, page),
                                 style = MaterialTheme.typography.bodySmall,
                                 color = MaterialTheme.colorScheme.onSurfaceVariant
                             )

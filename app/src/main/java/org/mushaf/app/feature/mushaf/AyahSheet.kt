@@ -34,6 +34,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import kotlinx.coroutines.withContext
 import kotlinx.coroutines.Dispatchers
 import androidx.compose.ui.graphics.Color
@@ -140,13 +142,13 @@ fun AyahSheet(
                         Column(Modifier.weight(1f)) {
                             Text(word.meaning, style = MaterialTheme.typography.titleMedium)
                             Text(
-                                if (heard?.failed == true) "${word.transliteration} · no connection to hear it" else word.transliteration,
+                                if (heard?.failed == true) stringResource(R.string.no_connection_word, word.transliteration) else word.transliteration,
                                 style = MaterialTheme.typography.bodyMedium,
                                 color = MaterialTheme.colorScheme.onSurfaceVariant
                             )
                         }
                         if (words.available(word)) {
-                            FloatingAction(AppIcons.VolumeUp, "Hear the word", {
+                            FloatingAction(AppIcons.VolumeUp, stringResource(R.string.hear_word), {
                                 haptics.tick()
                                 words.play(word)
                             })
@@ -166,39 +168,39 @@ fun AyahSheet(
                 Text(meaning, style = MaterialTheme.typography.bodyLarge)
                 if (note != null) {
                     Spacer(Modifier.size(8.dp))
-                    Text("Note · $note", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
+                    Text(stringResource(R.string.note_n, note), style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
                 }
                 Spacer(Modifier.size(16.dp))
                 // The actions share the whole width, on balanced rows.
                 EvenRows(minSlot = 48.dp) {
-                    IconControl(if (bookmarked) AppIcons.Bookmark else AppIcons.BookmarkOutline, if (bookmarked) "Remove bookmark" else "Bookmark", {
+                    IconControl(if (bookmarked) AppIcons.Bookmark else AppIcons.BookmarkOutline, if (bookmarked) stringResource(R.string.remove_bookmark) else stringResource(R.string.bookmark), {
                         haptics.toggle(marks.toggleBookmark(word.key))
                     })
-                    IconControl(AppIcons.Play, "Listen from here", { onPlay(word.key) })
-                    IconControl(AppIcons.Repeat, "Repeat a passage", { repeating = true })
-                    IconControl(AppIcons.Translate, "Read with meaning", { onOpenMeaning(word.key) })
-                    IconControl(AppIcons.MenuBook, "Tafsir", { onOpenTafsir(word.key) })
-                    IconControl(AppIcons.School, "Memorise", { onMemorise(word.key) })
-                    IconControl(AppIcons.Info, "Note", { writing = true })
-                    IconControl(AppIcons.Copy, "Copy", {
+                    IconControl(AppIcons.Play, stringResource(R.string.listen_from_here), { onPlay(word.key) })
+                    IconControl(AppIcons.Repeat, stringResource(R.string.repeat_passage), { repeating = true })
+                    IconControl(AppIcons.Translate, stringResource(R.string.read_with_meaning), { onOpenMeaning(word.key) })
+                    IconControl(AppIcons.MenuBook, stringResource(R.string.tafsir), { onOpenTafsir(word.key) })
+                    IconControl(AppIcons.School, stringResource(R.string.memorise), { onMemorise(word.key) })
+                    IconControl(AppIcons.Info, stringResource(R.string.note), { writing = true })
+                    IconControl(AppIcons.Copy, stringResource(R.string.copy), {
                         haptics.done()
                         scope.launch {
                             clipboard.setClipEntry(ClipData.newPlainText(reference, "$arabic\n$meaning\n($reference)").toClipEntry())
                         }
                     })
-                    IconControl(AppIcons.Share, "Share", { sharing = true })
-                    IconControl(AppIcons.Close, "Close", onClose)
+                    IconControl(AppIcons.Share, stringResource(R.string.share), { sharing = true })
+                    IconControl(AppIcons.Close, stringResource(R.string.close), onClose)
                 }
                 if (repeating) ChoiceDialog(
-                    title = "Repeat from ${word.key} to",
+                    title = stringResource(R.string.repeat_from_to, word.key.toString()),
                     options = passageEnds.map { it to if (it == word.key) "${it} only" else it.toString() },
                     selected = null,
                     onSelect = { end -> repeating = false; if (end != null) onRepeat(word.key, end) },
                     onDismiss = { repeating = false }
                 )
                 if (sharing) ChoiceDialog(
-                    title = "Share",
-                    options = listOf(0 to "Image, with the meaning", 1 to "Image", 2 to "Text"),
+                    title = stringResource(R.string.share),
+                    options = listOf(0 to stringResource(R.string.share_image_meaning), 1 to stringResource(R.string.share_image), 2 to stringResource(R.string.share_text)),
                     selected = null,
                     onSelect = { how ->
                         sharing = false
@@ -222,7 +224,7 @@ fun AyahSheet(
                             val card = withContext(Dispatchers.Default) {
                                 AyahCard.draw(withNumber.ifEmpty { arabic }, font, meaning.takeIf { how == 0 }, reference, colors)
                             }
-                            AyahCard.share(context, card, "$reference · Mushaf")
+                            AyahCard.share(context, card, context.getString(R.string.share_caption, reference))
                         }
                     },
                     onDismiss = { sharing = false }
@@ -248,7 +250,7 @@ private fun NoteDialog(reference: String, initial: String, onDone: (String) -> U
     var text by remember { mutableStateOf(initial) }
     ZoneAlertDialog(
         onDismissRequest = onCancel,
-        title = { Text("Note on $reference") },
+        title = { Text(stringResource(R.string.note_on, reference)) },
         text = {
             OutlinedTextField(
                 value = text,
@@ -257,7 +259,7 @@ private fun NoteDialog(reference: String, initial: String, onDone: (String) -> U
                 modifier = Modifier.fillMaxWidth()
             )
         },
-        confirmButton = { TextButton(onClick = { onDone(text) }) { Text(if (text.isBlank() && initial.isNotBlank()) "Remove" else "Save") } },
-        dismissButton = { TextButton(onClick = onCancel) { Text("Cancel") } }
+        confirmButton = { TextButton(onClick = { onDone(text) }) { Text(if (text.isBlank() && initial.isNotBlank()) stringResource(R.string.remove) else stringResource(R.string.save)) } },
+        dismissButton = { TextButton(onClick = onCancel) { Text(stringResource(R.string.cancel)) } }
     )
 }

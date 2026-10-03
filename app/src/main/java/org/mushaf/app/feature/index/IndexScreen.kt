@@ -44,6 +44,8 @@ import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import org.mushaf.app.feature.common.TextControl
 import org.mushaf.app.feature.common.EvenRows
 import org.mushaf.app.feature.recite.Recite
@@ -88,7 +90,7 @@ import org.mushaf.app.ui.component.ZoneSurface
 import org.mushaf.app.ui.component.rememberHaptics
 import org.mushaf.app.ui.icon.AppIcons
 
-private enum class Part(val label: String) { SURAHS("Surahs"), JUZ("Juz"), HIZB("Hizb"), SAVED("Saved") }
+private enum class Part(val label: Int) { SURAHS(R.string.surahs), JUZ(R.string.juz), HIZB(R.string.hizb), SAVED(R.string.saved) }
 
 /**
  * Where to go in the mushaf: the surahs, the 30 juz, the 60 hizb and their
@@ -128,7 +130,7 @@ fun IndexScreen(onBack: () -> Unit) {
         heard = null
         finding = null
         recite.hear { text ->
-            finding = "Finding the ayah…"
+            finding = context.getString(R.string.finding_ayah)
             scope.launch {
                 val ayat = quran.ayat()
                 val hits = withContext(Dispatchers.Default) {
@@ -155,8 +157,8 @@ fun IndexScreen(onBack: () -> Unit) {
         onYes = {
             offerModel = false
             scope.launch {
-                finding = "Downloading the speech model…"
-                runCatching { recogniser.install { bytes -> finding = "Downloading the speech model · ${bytes shr 20} of 80 MB" } }
+                finding = context.getString(R.string.downloading_model)
+                runCatching { recogniser.install { bytes -> finding = context.getString(R.string.downloading_model_progress, (bytes shr 20).toInt()) } }
                     .onFailure { finding = null; haptics.reject() }
                     .onSuccess {
                         finding = null
@@ -185,11 +187,11 @@ fun IndexScreen(onBack: () -> Unit) {
     FloatingFrame(
         bottom = 0.dp,
         top = {
-            FloatingTop("Index", leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) })
+            FloatingTop(stringResource(R.string.index), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) })
             EvenRows(Modifier.padding(horizontal = 16.dp).padding(bottom = 8.dp), minSlot = 64.dp) {
                 // Warsh has no hizb list: its eighths are partly printed in the margin only.
                 for (p in Part.entries.filter { it != Part.HIZB || meta?.quarters?.isNotEmpty() != false }) {
-                    TextControl(p.label, { part = p; query = "" }, accent = p == part && query.isBlank())
+                    TextControl(stringResource(p.label), { part = p; query = "" }, accent = p == part && query.isBlank())
                 }
             }
             Row(
@@ -197,18 +199,18 @@ fun IndexScreen(onBack: () -> Unit) {
                 verticalAlignment = Alignment.CenterVertically,
                 horizontalArrangement = Arrangement.spacedBy(8.dp)
             ) {
-                SearchPill(query, { query = it; if (it.isNotEmpty()) heard = null }, "Words, meaning, 2:255, page 50", modifier = Modifier.weight(1f), floating = true)
+                SearchPill(query, { query = it; if (it.isNotEmpty()) heard = null }, stringResource(R.string.search_hint), modifier = Modifier.weight(1f), floating = true)
                 FloatingAction(
                     AppIcons.Mic,
-                    if (hearing.listening) "Done, find it" else "Recite to find the ayah",
+                    if (hearing.listening) stringResource(R.string.done_find) else stringResource(R.string.recite_to_find),
                     listenToFind,
                     tint = if (hearing.listening) MaterialTheme.colorScheme.error else Color.Unspecified
                 )
             }
             val status = when {
                 finding != null -> finding
-                hearing.listening -> "Listening: recite a few words, then tap the microphone."
-                hearing.failed -> "The microphone could not be opened."
+                hearing.listening -> stringResource(R.string.listening_find)
+                hearing.failed -> stringResource(R.string.mic_failed)
                 else -> null
             }
             if (status != null) Text(
@@ -236,7 +238,7 @@ fun IndexScreen(onBack: () -> Unit) {
         }
         heard?.let { (text, hits) ->
             if (query.isBlank()) {
-                SearchResults(hits, text.ifBlank { "nothing heard" }, m, padding, inset, open, openAyah)
+                SearchResults(hits, text.ifBlank { stringResource(R.string.nothing_heard) }, m, padding, inset, open, openAyah)
                 return@FloatingFrame
             }
         }
@@ -261,7 +263,7 @@ fun IndexScreen(onBack: () -> Unit) {
                     val surah = m.surahs[j.ayah.surah - 1]
                     PlaceRow(
                         number = j.n,
-                        title = "Juz ${j.n}",
+                        title = stringResource(R.string.juz_n, j.n),
                         detail = "${surah.name} ${j.ayah.surah}:${j.ayah.ayah} · page ${j.page}",
                         here = page in j.page until next
                     ) { open(j.page) }
@@ -273,8 +275,8 @@ fun IndexScreen(onBack: () -> Unit) {
                     val keys = (saved.bookmarks.map { it.key } + saved.notes.map { it.key }).distinct().sorted()
                     if (keys.isEmpty()) item {
                         EmptyZone(
-                            "Nothing saved yet",
-                            "Long press an ayah in the mushaf to bookmark it or write a note.",
+                            stringResource(R.string.nothing_saved),
+                            stringResource(R.string.nothing_saved_hint),
                             icon = AppIcons.BookmarkOutline
                         )
                     }
@@ -310,7 +312,7 @@ private fun SearchResults(
     ) {
         item {
             Text(
-                when (results.size) { 0 -> "Nothing found for “$query”"; 1 -> "1 result"; else -> "${results.size} results" },
+                if (results.isEmpty()) stringResource(R.string.nothing_found, query) else pluralStringResource(R.plurals.results, results.size, results.size),
                 style = MaterialTheme.typography.labelLarge,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
                 modifier = Modifier.padding(start = 12.dp, top = 4.dp)
@@ -318,7 +320,7 @@ private fun SearchResults(
         }
         items(results, key = { (it as? Found.Ayah)?.key?.toString() ?: "p" }) { r ->
             when (r) {
-                is Found.Page -> PlaceRow(r.page, "Page ${r.page}", "Open the page", here = false) { open(r.page) }
+                is Found.Page -> PlaceRow(r.page, stringResource(R.string.page_title, r.page), stringResource(R.string.open_the_page), here = false) { open(r.page) }
                 is Found.Ayah -> ZoneSurface(shape = RoundedCornerShape(22.dp), onClick = { openAyah(r.key, r.page) }, modifier = Modifier.fillMaxWidth()) {
                     Column(Modifier.padding(horizontal = 16.dp, vertical = 12.dp)) {
                         Text(
@@ -350,7 +352,7 @@ private fun SavedRow(key: AyahKey, surah: String, bookmarked: Boolean, note: Str
                 Text("$surah $key", style = MaterialTheme.typography.titleMedium)
                 if (note != null) Text(note, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 3, overflow = TextOverflow.Ellipsis)
             }
-            if (bookmarked) Icon(AppIcons.Bookmark, contentDescription = "Bookmarked", tint = MaterialTheme.colorScheme.primary)
+            if (bookmarked) Icon(AppIcons.Bookmark, contentDescription = stringResource(R.string.bookmarked), tint = MaterialTheme.colorScheme.primary)
         }
     }
 }
@@ -400,7 +402,7 @@ private fun HizbRow(hizb: Int, m: QuranMeta, page: Int, open: (Int) -> Unit) {
             Row(verticalAlignment = Alignment.CenterVertically) {
                 Number(hizb)
                 Text(
-                    "Hizb $hizb · Juz ${(hizb + 1) / 2}",
+                    stringResource(R.string.hizb_juz, hizb, (hizb + 1) / 2),
                     style = MaterialTheme.typography.titleMedium,
                     modifier = Modifier.padding(horizontal = 14.dp)
                 )

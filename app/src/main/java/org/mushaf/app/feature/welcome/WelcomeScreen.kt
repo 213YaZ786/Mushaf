@@ -1,5 +1,7 @@
 package org.mushaf.app.feature.welcome
 
+import org.mushaf.app.R
+import androidx.compose.ui.res.stringResource
 import android.Manifest
 import android.content.pm.PackageManager
 import android.os.Build
@@ -42,6 +44,9 @@ import androidx.core.content.ContextCompat
 import java.util.Locale
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.core.common.Languages
+import org.mushaf.app.feature.listen.label
+import androidx.compose.ui.res.pluralStringResource
 import org.mushaf.app.data.remind.Reminder
 import java.time.format.FormatStyle
 import java.time.format.DateTimeFormatter
@@ -70,7 +75,7 @@ private enum class Page { WELCOME, PAGES, MEANING, LISTEN, REMIND, UPDATES }
 
 /**
  * The first launch: a few pages, each with the best choice already made,
- * so "Next" all along gives the best app; Skip leaves at any time and every
+ * so stringResource(R.string.next) all along gives the best app; Skip leaves at any time and every
  * choice is in Settings. Shown again from Settings.
  */
 @Composable
@@ -109,25 +114,25 @@ fun WelcomeScreen(onFinish: () -> Unit) {
 
     Column(Modifier.fillMaxSize().systemBarsPadding().padding(horizontal = 24.dp, vertical = 16.dp)) {
         Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.End) {
-            QuietButton(onClick = { finish() }) { Text(if (last) "Close" else "Skip") }
+            QuietButton(onClick = { finish() }) { Text(if (last) stringResource(R.string.close) else stringResource(R.string.skip)) }
         }
         HorizontalPager(state = pager, modifier = Modifier.weight(1f).fillMaxWidth()) { index ->
             when (pages[index]) {
                 Page.WELCOME -> PageContent(
                     mark = true,
                     icon = AppIcons.MenuBook,
-                    title = "Welcome to Mushaf",
-                    intro = "The Quran as printed in Madinah, with its meaning, its recitation and help to learn it by heart. No account, no tracking, no ads.",
+                    title = stringResource(R.string.welcome_title),
+                    intro = stringResource(R.string.welcome_intro),
                     points = listOf(
-                        "Tap the page to show or hide the controls.",
-                        "Hold a word for its meaning, the ayah's translation, its tafsir and its recitation."
+                        stringResource(R.string.welcome_tap),
+                        stringResource(R.string.welcome_hold)
                     )
                 ) {}
                 Page.PAGES -> PageContent(
                     icon = AppIcons.MenuBook,
-                    title = "The mushaf",
-                    intro = "The riwayah you read in, and how its pages are drawn.",
-                    points = listOf("Changeable in Settings.")
+                    title = stringResource(R.string.welcome_mushaf),
+                    intro = stringResource(R.string.welcome_mushaf_intro),
+                    points = listOf(stringResource(R.string.changeable_in_settings))
                 ) {
                     Choices(
                         Riwayah.entries.map { it to "${it.label} · ${it.arabic}" },
@@ -136,28 +141,28 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                     if (settings.riwayah == Riwayah.HAFS) Choices(
                         Script.entries.filter { it.usable }.map {
                             it to when (it) {
-                                Script.PRINT -> "As printed in Madinah"
-                                Script.TAJWEED -> "As printed, tajweed in colour"
-                                Script.HAFS -> "In the Hafs font, nothing to download"
+                                Script.PRINT -> stringResource(R.string.script_print)
+                                Script.TAJWEED -> stringResource(R.string.script_tajweed)
+                                Script.HAFS -> stringResource(R.string.script_hafs_font)
                             }
                         },
                         settings.script
                     ) { s -> store.update { it.copy(script = s) } }
                     if (settings.riwayah == Riwayah.HAFS && settings.script != Script.HAFS) {
                         Option(
-                            label = "Keep all pages on the phone",
+                            label = stringResource(R.string.keep_pages_offline),
                             value = true,
                             chosen = settings.keepPagesOffline,
-                            detail = "About 190 MB, on Wi-Fi, for reading without a connection.",
+                            detail = stringResource(R.string.keep_pages_offline_detail),
                             onChoose = { store.update { it.copy(keepPagesOffline = !it.keepPagesOffline) } }
                         )
                     }
                 }
                 Page.MEANING -> PageContent(
                     icon = AppIcons.Translate,
-                    title = "The meaning",
-                    intro = "Shown under each ayah when reading with the meaning.",
-                    points = listOf("More than 380 translations in about 100 languages in Settings.")
+                    title = stringResource(R.string.welcome_meaning),
+                    intro = stringResource(R.string.welcome_meaning_intro),
+                    points = listOf(stringResource(R.string.welcome_meaning_more))
                 ) {
                     val options = listOfNotNull(local, Translations.BUNDLED)
                     for (t in options) {
@@ -166,7 +171,7 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                             label = t.name,
                             value = true,
                             chosen = on,
-                            detail = t.language,
+                            detail = Languages.local(t.language),
                             onChoose = {
                                 if (on) store.update { s -> s.copy(translations = s.translations - t.id) }
                                 else {
@@ -177,32 +182,32 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                         )
                     }
                     Option(
-                        label = "Word by word",
+                        label = stringResource(R.string.word_by_word),
                         value = true,
                         chosen = settings.wordByWord,
-                        detail = "Each word with its own meaning under it.",
+                        detail = stringResource(R.string.word_by_word_detail),
                         onChoose = { store.update { it.copy(wordByWord = !it.wordByWord) } }
                     )
                 }
                 Page.LISTEN -> PageContent(
                     icon = AppIcons.Headphones,
-                    title = "The recitation",
-                    intro = "The page follows the voice, the word heard lights up.",
-                    points = listOf(Recitations.of(settings.riwayah).size.minus(4).let { if (it == 1) "One more reciter in Settings and while listening." else "$it more reciters in Settings and while listening." })
+                    title = stringResource(R.string.welcome_recitation),
+                    intro = stringResource(R.string.welcome_recitation_intro),
+                    points = listOf(Recitations.of(settings.riwayah).size.minus(4).let { pluralStringResource(R.plurals.more_reciters, it, it) })
                 ) {
                     Choices(
-                        Recitations.of(settings.riwayah).take(4).map { it.id to it.label },
+                        Recitations.of(settings.riwayah).take(4).map { it.id to it.label() },
                         store.reciter(settings.riwayah)
                     ) { id -> store.update { if (settings.riwayah == Riwayah.WARSH) it.copy(warshReciter = id) else it.copy(reciter = id) } }
                 }
                 Page.REMIND -> PageContent(
                     icon = AppIcons.Notifications,
-                    title = "Your daily wird",
-                    intro = "A reminder each day, unless you have opened the mushaf already: where to continue, and the day's hifz.",
-                    points = listOf("Any time you like in Settings.")
+                    title = stringResource(R.string.welcome_wird),
+                    intro = stringResource(R.string.welcome_wird_intro),
+                    points = listOf(stringResource(R.string.welcome_wird_any_time))
                 ) {
                     Choices(
-                        listOf(-1 to "No reminder") + listOf(7 * 60, 13 * 60, 20 * 60, 22 * 60).map { m ->
+                        listOf(-1 to stringResource(R.string.no_reminder)) + listOf(7 * 60, 13 * 60, 20 * 60, 22 * 60).map { m ->
                             m to LocalTime.of(m / 60, m % 60).format(DateTimeFormatter.ofLocalizedTime(FormatStyle.SHORT))
                         },
                         if (settings.reminder) settings.reminderAt else -1
@@ -210,12 +215,12 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                 }
                 Page.UPDATES -> PageContent(
                     icon = AppIcons.Update,
-                    title = "Updates",
-                    intro = "When a new version of Mushaf is out.",
-                    points = listOf("Changeable in Settings.")
+                    title = stringResource(R.string.updates),
+                    intro = stringResource(R.string.welcome_updates_intro),
+                    points = listOf(stringResource(R.string.changeable_in_settings))
                 ) {
                     Choices(
-                        listOf(UpdateMode.OFF to "Off", UpdateMode.NOTIFY to "Notify me", UpdateMode.INSTALL to "Install"),
+                        listOf(UpdateMode.OFF to stringResource(R.string.updates_off), UpdateMode.NOTIFY to stringResource(R.string.updates_notify), UpdateMode.INSTALL to stringResource(R.string.updates_install)),
                         settings.updates
                     ) { mode ->
                         store.update { it.copy(updates = mode) }
@@ -227,12 +232,12 @@ fun WelcomeScreen(onFinish: () -> Unit) {
         Dots(pages.size, pager.currentPage)
         Row(Modifier.fillMaxWidth().padding(top = 16.dp), verticalAlignment = Alignment.CenterVertically) {
             if (pager.currentPage > 0) {
-                QuietButton(onClick = { scope.launch { pager.animateScrollToPage(pager.currentPage - 1) } }) { Text("Back") }
+                QuietButton(onClick = { scope.launch { pager.animateScrollToPage(pager.currentPage - 1) } }) { Text(stringResource(R.string.back)) }
             }
             Spacer(Modifier.weight(1f))
             BoldButton(filled = true, onClick = {
                 if (last) finish() else scope.launch { pager.animateScrollToPage(pager.currentPage + 1) }
-            }) { Text(if (last) "Start reading" else "Next") }
+            }) { Text(if (last) stringResource(R.string.start_reading) else stringResource(R.string.next)) }
         }
     }
 }
@@ -277,7 +282,10 @@ private fun suggestedTranslation(language: String): TranslationInfo? {
         "ro" -> Triple("qc:782", "Islamic and Cultural League", "Romanian")
         else -> return null
     }
-    return TranslationInfo(id, name, lang)
+    // The language's name as the phone writes it, in the phone's own language.
+    val code = if (language in setOf("ber", "tzm", "zgh")) "kab" else language
+    val shown = Locale.forLanguageTag(code).getDisplayLanguage(Locale.getDefault()).replaceFirstChar { it.titlecase(Locale.getDefault()) }
+    return TranslationInfo(id, name, shown.ifEmpty { lang })
 }
 
 @Composable
@@ -330,7 +338,7 @@ private fun <T> Option(label: String, value: T, chosen: T?, onChoose: (T) -> Uni
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                if (picked) Icon(AppIcons.Check, contentDescription = "Chosen", modifier = Modifier.size(20.dp))
+                if (picked) Icon(AppIcons.Check, contentDescription = stringResource(R.string.chosen), modifier = Modifier.size(20.dp))
                 Text(label, style = MaterialTheme.typography.bodyLarge, textAlign = TextAlign.Center)
             }
             if (detail != null) Text(detail, style = MaterialTheme.typography.bodySmall, textAlign = TextAlign.Center)

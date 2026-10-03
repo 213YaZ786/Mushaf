@@ -28,6 +28,9 @@ import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import org.koin.compose.koinInject
+import org.mushaf.app.R
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import org.mushaf.app.core.hifz.Likeness
 import org.mushaf.app.core.quran.AyahKey
 import org.mushaf.app.core.quran.Riwayah
@@ -79,7 +82,7 @@ fun SimilarScreen(onBack: () -> Unit, onOpen: (AyahKey) -> Unit) {
 
     FloatingFrame(
         bottom = 0.dp,
-        top = { FloatingTop("Similar ayat", leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) }) }
+        top = { FloatingTop(stringResource(R.string.similar_ayat), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         val list = pairs
         when {
@@ -89,8 +92,8 @@ fun SimilarScreen(onBack: () -> Unit, onOpen: (AyahKey) -> Unit) {
             ) { LoadingMark(size = 56.dp) }
             list.isEmpty() -> Column(Modifier.fillMaxSize().padding(top = padding.calculateTopPadding() + 16.dp)) {
                 EmptyZone(
-                    "No similar ayat here",
-                    if (quran.riwayah == Riwayah.HAFS) "None of the ayat you know reads like another." else "Similar ayat are listed for the Hafs mushaf.",
+                    stringResource(R.string.no_similar),
+                    if (quran.riwayah == Riwayah.HAFS) stringResource(R.string.no_similar_known) else stringResource(R.string.similar_hafs_only),
                     icon = AppIcons.MenuBook
                 )
             }
@@ -106,7 +109,7 @@ fun SimilarScreen(onBack: () -> Unit, onOpen: (AyahKey) -> Unit) {
             ) {
                 item {
                     Text(
-                        "In colour, where each ayah parts from the other.",
+                        stringResource(R.string.similar_hint),
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
                         textAlign = TextAlign.Center,

@@ -1,5 +1,6 @@
 package org.mushaf.app.feature.settings
 
+import org.mushaf.app.R
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.WindowInsets
@@ -21,6 +22,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import org.koin.compose.koinInject
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.material3.Text
 import androidx.compose.material3.ExperimentalMaterial3Api
 import org.mushaf.app.ui.component.ZoneAlertDialog
@@ -81,7 +84,7 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
 
     FloatingFrame(
         bottom = 0.dp,
-        top = { FloatingTop("Settings", leading = { FloatingAction(AppIcons.ArrowBack, "Back", onBack) }) }
+        top = { FloatingTop(stringResource(R.string.settings), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         Column(
             modifier = Modifier
@@ -91,40 +94,40 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding()))
 
-            Section("Mushaf") {
+            Section(stringResource(R.string.mushaf)) {
                 val kept = remember(settings.script) { fonts.count(settings.script) }
                 SettingRow(
-                    title = "Riwayah",
+                    title = stringResource(R.string.riwayah),
                     summary = "${settings.riwayah.label} · ${settings.riwayah.arabic}",
                     onClick = { dialog = OpenDialog.RIWAYAH }
                 )
                 // Warsh has one script, the King Fahd Complex's; the printed pages are Hafs's.
                 if (settings.riwayah == Riwayah.HAFS) SettingRow(
-                    title = "Pages",
+                    title = stringResource(R.string.pages),
                     summary = scriptLabel(settings.script) + when (settings.script) {
                         Script.HAFS -> ""
-                        else -> " · $kept of 604 pages kept on the phone"
+                        else -> " · " + stringResource(R.string.pages_kept, kept)
                     },
                     onClick = { dialog = OpenDialog.SCRIPT }
                 )
                 SwitchRow(
-                    title = "Two pages side by side",
-                    summary = "On a wide screen, as an open book.",
+                    title = stringResource(R.string.two_pages),
+                    summary = stringResource(R.string.two_pages_detail),
                     checked = settings.twoPages,
                     onChange = { on -> store.update { it.copy(twoPages = on) } }
                 )
                 SwitchRow(
-                    title = "Keep the screen on",
-                    summary = "While you read; it sleeps after 10 minutes without a touch, unless a recitation plays.",
+                    title = stringResource(R.string.keep_screen_on),
+                    summary = stringResource(R.string.keep_screen_on_detail),
                     checked = settings.keepScreenOn,
                     onChange = { on -> store.update { it.copy(keepScreenOn = on) } }
                 )
             }
 
-            Section("Daily reminder") {
+            Section(stringResource(R.string.daily_reminder)) {
                 SwitchRow(
-                    title = "Remind me of my wird",
-                    summary = "At ${reminderTime(settings.reminderAt)}, unless the mushaf was opened that day: where to continue, and the day's hifz.",
+                    title = stringResource(R.string.remind_wird),
+                    summary = stringResource(R.string.reminder_summary, reminderTime(settings.reminderAt)),
                     checked = settings.reminder,
                     onChange = { on ->
                         store.update { it.copy(reminder = on) }
@@ -133,58 +136,58 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                         ) askNotifications.launch(Manifest.permission.POST_NOTIFICATIONS)
                     }
                 )
-                if (settings.reminder) SettingRow("Time", reminderTime(settings.reminderAt), onClick = { dialog = OpenDialog.REMINDER_TIME })
+                if (settings.reminder) SettingRow(stringResource(R.string.time), reminderTime(settings.reminderAt), onClick = { dialog = OpenDialog.REMINDER_TIME })
                 SwitchRow(
-                    title = "Al-Kahf on Fridays",
-                    summary = "On Friday morning, unless you have opened it already.",
+                    title = stringResource(R.string.kahf_fridays),
+                    summary = stringResource(R.string.kahf_fridays_detail),
                     checked = settings.kahf,
                     onChange = { on -> store.update { it.copy(kahf = on) } }
                 )
             }
 
-            Section("Offline") {
+            Section(stringResource(R.string.offline)) {
                 SettingRow(
-                    title = "Keep offline",
-                    summary = "Pages, recitations and tafsir on the phone, one by one or all at once.",
+                    title = stringResource(R.string.keep_offline),
+                    summary = stringResource(R.string.keep_offline_detail),
                     onClick = onOpenOffline
                 )
             }
 
-            Section("Meaning") {
+            Section(stringResource(R.string.meaning)) {
                 SettingRow(
-                    title = "Translations",
-                    summary = settings.translations.size.let { if (it == 1) "1 shown" else "$it shown" } + " · more than 380 in about 100 languages",
+                    title = stringResource(R.string.translations),
+                    summary = settings.translations.size.let { pluralStringResource(R.plurals.translations_shown, it, it) } + " · " + stringResource(R.string.translations_more),
                     onClick = onOpenTranslations
                 )
                 SwitchRow(
-                    title = "Word by word",
-                    summary = "Each word with its own meaning, when reading with the meaning.",
+                    title = stringResource(R.string.word_by_word),
+                    summary = stringResource(R.string.word_by_word_reading),
                     checked = settings.wordByWord,
                     onChange = { on -> store.update { it.copy(wordByWord = on) } }
                 )
             }
 
-            Section("Look") {
-                SettingRow("Theme", themeLabel(settings.themeMode), onClick = { dialog = OpenDialog.THEME })
+            Section(stringResource(R.string.look)) {
+                SettingRow(stringResource(R.string.theme), themeLabel(settings.themeMode), onClick = { dialog = OpenDialog.THEME })
                 SwitchRow(
-                    title = "Pure black",
-                    summary = "In the dark theme.",
+                    title = stringResource(R.string.pure_black),
+                    summary = stringResource(R.string.pure_black_detail),
                     checked = settings.pureBlack,
                     onChange = { on -> store.update { it.copy(pureBlack = on) } }
                 )
                 SwitchRow(
-                    title = "Liquid glass",
-                    summary = "Panes of glass over a soft light in your wallpaper's colours.",
+                    title = stringResource(R.string.liquid_glass),
+                    summary = stringResource(R.string.liquid_glass_detail),
                     checked = settings.glass,
                     onChange = { on -> store.update { it.copy(glass = on) } }
                 )
-                SettingRow("Text size", textScaleLabel(settings.textScale) + " · menus and translations", onClick = { dialog = OpenDialog.TEXT_SIZE })
+                SettingRow(stringResource(R.string.text_size), textScaleLabel(settings.textScale) + " · " + stringResource(R.string.text_size_detail), onClick = { dialog = OpenDialog.TEXT_SIZE })
             }
 
-            Section("App") {
-                SettingRow("Updates", updatesLabel(settings.updates), onClick = { dialog = OpenDialog.UPDATES })
-                SettingRow("Guide", "The first pages again, with their choices", onClick = onOpenGuide)
-                SettingRow("About", "Version ${BuildConfig.VERSION_NAME} · sources and credits", onClick = onOpenAbout)
+            Section(stringResource(R.string.app)) {
+                SettingRow(stringResource(R.string.updates), updatesLabel(settings.updates), onClick = { dialog = OpenDialog.UPDATES })
+                SettingRow(stringResource(R.string.guide), stringResource(R.string.guide_detail), onClick = onOpenGuide)
+                SettingRow(stringResource(R.string.about), stringResource(R.string.about_summary, BuildConfig.VERSION_NAME), onClick = onOpenAbout)
             }
 
             Spacer(Modifier.height(24.dp))
@@ -201,47 +204,47 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
             )
             ZoneAlertDialog(
                 onDismissRequest = { dialog = OpenDialog.NONE },
-                title = { Text("Reminder time") },
+                title = { Text(stringResource(R.string.reminder_time)) },
                 text = { TimePicker(state) },
                 confirmButton = {
                     TextButton(onClick = {
                         store.update { it.copy(reminderAt = state.hour * 60 + state.minute) }
                         dialog = OpenDialog.NONE
-                    }) { Text("Set") }
+                    }) { Text(stringResource(R.string.set)) }
                 },
-                dismissButton = { TextButton(onClick = { dialog = OpenDialog.NONE }) { Text("Cancel") } }
+                dismissButton = { TextButton(onClick = { dialog = OpenDialog.NONE }) { Text(stringResource(R.string.cancel)) } }
             )
         }
         OpenDialog.RIWAYAH -> ChoiceDialog(
-            title = "Riwayah",
+            title = stringResource(R.string.riwayah),
             options = Riwayah.entries.map { it to "${it.label} · ${it.arabic}" },
             selected = settings.riwayah,
             onSelect = { r -> scope.launch { riwayat.change(r) } },
             onDismiss = { dialog = OpenDialog.NONE }
         )
         OpenDialog.SCRIPT -> ChoiceDialog(
-            title = "Pages",
+            title = stringResource(R.string.pages),
             options = Script.entries.filter { it.usable }.map { it to scriptLabel(it) },
             selected = settings.script,
             onSelect = { s -> store.update { it.copy(script = s) } },
             onDismiss = { dialog = OpenDialog.NONE }
         )
         OpenDialog.THEME -> ChoiceDialog(
-            title = "Theme",
+            title = stringResource(R.string.theme),
             options = ThemeMode.entries.map { it to themeLabel(it) },
             selected = settings.themeMode,
             onSelect = { m -> store.update { it.copy(themeMode = m) } },
             onDismiss = { dialog = OpenDialog.NONE }
         )
         OpenDialog.TEXT_SIZE -> ChoiceDialog(
-            title = "Text size",
+            title = stringResource(R.string.text_size),
             options = TEXT_SCALES.map { it to textScaleLabel(it) },
             selected = settings.textScale,
             onSelect = { s -> store.update { it.copy(textScale = s) } },
             onDismiss = { dialog = OpenDialog.NONE }
         )
         OpenDialog.UPDATES -> ChoiceDialog(
-            title = "Updates",
+            title = stringResource(R.string.updates),
             options = UpdateMode.entries.map { it to updatesLabel(it) },
             selected = settings.updates,
             onSelect = { mode ->
@@ -259,20 +262,23 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
 private fun reminderTime(minutes: Int): String =
     LocalTime.of(minutes / 60, minutes % 60).format(DateTimeFormatter.ofLocalizedTime(FormatStyle.SHORT))
 
+@Composable
 private fun scriptLabel(script: Script): String = when (script) {
-    Script.PRINT -> "As printed (Madinah mushaf)"
-    Script.TAJWEED -> "As printed, tajweed in colour"
-    Script.HAFS -> "Hafs font, no download"
+    Script.PRINT -> stringResource(R.string.script_print_short)
+    Script.TAJWEED -> stringResource(R.string.script_tajweed)
+    Script.HAFS -> stringResource(R.string.script_hafs_short)
 }
 
+@Composable
 private fun themeLabel(mode: ThemeMode): String = when (mode) {
-    ThemeMode.SYSTEM -> "Same as the system"
-    ThemeMode.LIGHT -> "Light"
-    ThemeMode.DARK -> "Dark"
+    ThemeMode.SYSTEM -> stringResource(R.string.theme_system)
+    ThemeMode.LIGHT -> stringResource(R.string.theme_light)
+    ThemeMode.DARK -> stringResource(R.string.theme_dark)
 }
 
+@Composable
 private fun updatesLabel(mode: UpdateMode): String = when (mode) {
-    UpdateMode.OFF -> "Off"
-    UpdateMode.NOTIFY -> "Notify me"
-    UpdateMode.INSTALL -> "Install automatically"
+    UpdateMode.OFF -> stringResource(R.string.updates_off)
+    UpdateMode.NOTIFY -> stringResource(R.string.updates_notify)
+    UpdateMode.INSTALL -> stringResource(R.string.updates_install_auto)
 }

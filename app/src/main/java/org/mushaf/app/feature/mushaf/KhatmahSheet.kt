@@ -29,6 +29,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import org.koin.compose.koinInject
+import org.mushaf.app.R
+import androidx.compose.ui.res.pluralStringResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.draw.clip
 import androidx.compose.foundation.layout.height
@@ -71,8 +74,8 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
         FloatingPane(shape = RoundedCornerShape(28.dp), modifier = Modifier.widthIn(max = 640.dp).fillMaxWidth()) {
             Column(Modifier.padding(20.dp)) {
                 Row(verticalAlignment = Alignment.CenterVertically) {
-                    Text("Khatmah", style = MaterialTheme.typography.titleMedium, modifier = Modifier.weight(1f))
-                    FloatingAction(AppIcons.Close, "Close", onClose)
+                    Text(stringResource(R.string.khatmah), style = MaterialTheme.typography.titleMedium, modifier = Modifier.weight(1f))
+                    FloatingAction(AppIcons.Close, stringResource(R.string.close), onClose)
                 }
                 Spacer(Modifier.size(8.dp))
                 DaysRead()
@@ -80,7 +83,7 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                 val p = plan
                 when {
                     p == null -> {
-                        Text("Read the whole Quran in", style = MaterialTheme.typography.bodyMedium)
+                        Text(stringResource(R.string.read_whole_in), style = MaterialTheme.typography.bodyMedium)
                         Spacer(Modifier.size(12.dp))
                         val from = if (fromHere) page else 1
                         // The lengths share the whole width.
@@ -89,8 +92,8 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                                 val perDay = (PAGES - from + 1 + d - 1) / d
                                 FloatingPane(shape = RoundedCornerShape(20.dp), onClick = { haptics.done(); khatmah.start(d, from) }, modifier = Modifier.fillMaxWidth()) {
                                     Column(Modifier.fillMaxWidth().padding(vertical = 8.dp), horizontalAlignment = Alignment.CenterHorizontally) {
-                                        Text("$d days", style = MaterialTheme.typography.labelLarge)
-                                        Text("$perDay p./day", style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                                        Text(pluralStringResource(R.plurals.n_days, d, d), style = MaterialTheme.typography.labelLarge)
+                                        Text(stringResource(R.string.pages_per_day, perDay), style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
                                     }
                                 }
                             }
@@ -98,19 +101,19 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                         if (page > 1) {
                             Spacer(Modifier.size(12.dp))
                             EvenRows(minSlot = 120.dp) {
-                                TextControl("From page 1", { fromHere = false }, accent = !fromHere)
-                                TextControl("From page $page", { fromHere = true }, accent = fromHere)
+                                TextControl(stringResource(R.string.from_page_1), { fromHere = false }, accent = !fromHere)
+                                TextControl(stringResource(R.string.from_page, page), { fromHere = true }, accent = fromHere)
                             }
                         }
                     }
                     p.finished -> {
                         val took = ((p.ended ?: khatmah.today()) - p.start + 1).toInt()
                         Text(
-                            if (took == 1) "The whole Quran read in one day." else "The whole Quran read in $took days.",
+                            pluralStringResource(R.plurals.quran_read_in, took, took),
                             style = MaterialTheme.typography.bodyLarge
                         )
                         Spacer(Modifier.size(12.dp))
-                        TextControl("Start another", { khatmah.end() }, accent = true)
+                        TextControl(stringResource(R.string.start_another), { khatmah.end() }, accent = true)
                     }
                     else -> {
                         val today = remember(p) { p.portion(khatmah.today()) }
@@ -122,29 +125,29 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                             modifier = Modifier.fillMaxWidth().padding(vertical = 6.dp)
                         )
                         Text(
-                            "Day ${minOf(today.day, p.days)} of ${p.days} · ${p.read} of ${p.total} pages read",
+                            stringResource(R.string.khatmah_progress, minOf(today.day, p.days), p.days, p.read, p.total),
                             style = MaterialTheme.typography.bodyMedium,
                             color = MaterialTheme.colorScheme.onSurfaceVariant
                         )
                         Spacer(Modifier.size(8.dp))
                         Text(
                             when {
-                                today.done -> "Today's pages are read. Next: page ${today.fromPage}, $surah."
-                                today.fromPage == today.toPage -> "Today: page ${today.fromPage}, $surah."
-                                else -> "Today: pages ${today.fromPage}–${today.toPage}, from $surah."
+                                today.done -> stringResource(R.string.today_done_next, today.fromPage, surah)
+                                today.fromPage == today.toPage -> stringResource(R.string.today_page, today.fromPage, surah)
+                                else -> stringResource(R.string.today_pages, today.fromPage, today.toPage, surah)
                             },
                             style = MaterialTheme.typography.bodyLarge
                         )
                         Text(
-                            "Pages count as read when turned one after the other.",
+                            stringResource(R.string.pages_count_hint),
                             style = MaterialTheme.typography.labelSmall,
                             color = MaterialTheme.colorScheme.onSurfaceVariant,
                             modifier = Modifier.padding(top = 4.dp)
                         )
                         Spacer(Modifier.size(12.dp))
                         EvenRows(minSlot = 120.dp) {
-                            if (today.fromPage != page) TextControl("Go to page ${today.fromPage}", { onGo(today.fromPage) }, accent = true)
-                            TextControl("End the khatmah", { ending = true })
+                            if (today.fromPage != page) TextControl(stringResource(R.string.go_to_page, today.fromPage), { onGo(today.fromPage) }, accent = true)
+                            TextControl(stringResource(R.string.end_khatmah), { ending = true })
                         }
                     }
                 }
@@ -153,10 +156,10 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
     }
     if (ending) ZoneAlertDialog(
         onDismissRequest = { ending = false },
-        title = { Text("End the khatmah?") },
-        text = { Text("Its progress is forgotten.") },
-        confirmButton = { TextButton(onClick = { khatmah.end(); ending = false }) { Text("End") } },
-        dismissButton = { TextButton(onClick = { ending = false }) { Text("Keep it") } }
+        title = { Text(stringResource(R.string.end_khatmah_q)) },
+        text = { Text(stringResource(R.string.khatmah_forgotten)) },
+        confirmButton = { TextButton(onClick = { khatmah.end(); ending = false }) { Text(stringResource(R.string.end)) } },
+        dismissButton = { TextButton(onClick = { ending = false }) { Text(stringResource(R.string.keep_it)) } }
     )
 }
 
@@ -174,9 +177,8 @@ private fun DaysRead() {
     val scheme = MaterialTheme.colorScheme
     Text(
         when (streak) {
-            0 -> "Turn a page to start a streak."
-            1 -> "1 day read in a row"
-            else -> "$streak days read in a row"
+            0 -> stringResource(R.string.streak_none)
+            else -> pluralStringResource(R.plurals.days_read_in_row, streak, streak)
         },
         style = MaterialTheme.typography.bodyMedium,
         color = scheme.onSurfaceVariant

@@ -1,5 +1,7 @@
 package org.mushaf.app.feature.mushaf
 
+import org.mushaf.app.R
+import androidx.compose.ui.res.stringResource
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -33,17 +35,17 @@ import org.mushaf.app.ui.icon.AppIcons
  * Rules and names as Quran.com's legend for the same fonts
  * (quran.com-frontend-next, TajweedBar), colours read from the fonts' CPAL.
  */
-private class Rule(val name: String, val light: Long, val dark: Long)
+private class Rule(val name: Int, val light: Long, val dark: Long)
 
 private val RULES = listOf(
-    Rule("Silent letter", 0xFFA5A5A5, 0xFF9D9999),
-    Rule("Normal madd (2)", 0xFFCE9E00, 0xFFFFC1E0),
-    Rule("Separated madd (2/4/6)", 0xFFFF7B00, 0xFFFF8E3B),
-    Rule("Connected madd (4/5)", 0xFFF40000, 0xFFFF5E8E),
-    Rule("Necessary madd (6)", 0xFFB50000, 0xFFE30000),
-    Rule("Ghunna / ikhfa'", 0xFF09B000, 0xFF26B55D),
-    Rule("Qalqala (echo)", 0xFF2FADFF, 0xFF00DEFF),
-    Rule("Tafkhim (heavy)", 0xFF3F48E6, 0xFF3C84D5)
+    Rule(R.string.tj_silent, 0xFFA5A5A5, 0xFF9D9999),
+    Rule(R.string.tj_madd2, 0xFFCE9E00, 0xFFFFC1E0),
+    Rule(R.string.tj_madd246, 0xFFFF7B00, 0xFFFF8E3B),
+    Rule(R.string.tj_madd45, 0xFFF40000, 0xFFFF5E8E),
+    Rule(R.string.tj_madd6, 0xFFB50000, 0xFFE30000),
+    Rule(R.string.tj_ghunna, 0xFF09B000, 0xFF26B55D),
+    Rule(R.string.tj_qalqala, 0xFF2FADFF, 0xFF00DEFF),
+    Rule(R.string.tj_tafkhim, 0xFF3F48E6, 0xFF3C84D5)
 )
 
 /** The colours of the tajweed pages and what each one asks of the reciter. */
@@ -57,8 +59,8 @@ fun TajweedLegend(dark: Boolean, onClose: () -> Unit) {
         FloatingPane(shape = RoundedCornerShape(28.dp), modifier = Modifier.widthIn(max = 640.dp).fillMaxWidth()) {
             Column(Modifier.padding(20.dp)) {
                 Row(verticalAlignment = Alignment.CenterVertically) {
-                    Text("Tajweed colours", style = MaterialTheme.typography.titleMedium, modifier = Modifier.weight(1f))
-                    FloatingAction(AppIcons.Close, "Close", onClose)
+                    Text(stringResource(R.string.tajweed_colours), style = MaterialTheme.typography.titleMedium, modifier = Modifier.weight(1f))
+                    FloatingAction(AppIcons.Close, stringResource(R.string.close), onClose)
                 }
                 Spacer(Modifier.size(12.dp))
                 // The rules in as many columns as the width holds.
@@ -67,7 +69,7 @@ fun TajweedLegend(dark: Boolean, onClose: () -> Unit) {
                         Row(verticalAlignment = Alignment.CenterVertically) {
                             Box(Modifier.size(14.dp).background(Color(if (dark) r.dark else r.light), CircleShape))
                             Spacer(Modifier.size(8.dp))
-                            Text(r.name, style = MaterialTheme.typography.bodyMedium)
+                            Text(stringResource(r.name), style = MaterialTheme.typography.bodyMedium)
                         }
                     }
                 }

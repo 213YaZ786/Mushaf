@@ -101,7 +101,7 @@ class KahfWorker(context: Context, params: WorkerParameters) : CoroutineWorker(c
         if (ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) return
         val page = runCatching { quran.surah(18).firstPage }.getOrDefault(293)
         val manager = context.getSystemService(NotificationManager::class.java)
-        manager.createNotificationChannel(NotificationChannel(Reminder.CHANNEL, "Daily reminder", NotificationManager.IMPORTANCE_DEFAULT))
+        manager.createNotificationChannel(NotificationChannel(Reminder.CHANNEL, context.getString(R.string.daily_reminder), NotificationManager.IMPORTANCE_DEFAULT))
         val open = PendingIntent.getActivity(
             context, 1,
             Intent(context, MainActivity::class.java).putExtra(Reminder.PAGE, page)
@@ -110,8 +110,8 @@ class KahfWorker(context: Context, params: WorkerParameters) : CoroutineWorker(c
         )
         val note = NotificationCompat.Builder(context, Reminder.CHANNEL)
             .setSmallIcon(R.drawable.ic_stat_mushaf)
-            .setContentTitle("Friday: Surah Al-Kahf")
-            .setContentText("It opens at page $page.")
+            .setContentTitle(context.getString(R.string.kahf_title))
+            .setContentText(context.getString(R.string.kahf_text, page))
             .setContentIntent(open)
             .setAutoCancel(true)
             .build()
@@ -147,23 +147,23 @@ class ReminderWorker(context: Context, params: WorkerParameters) : CoroutineWork
         val page = portion?.fromPage ?: settings.current.page
         val surah = runCatching { quran.surah(quran.firstAyah(page).surah).name }.getOrNull()
         val where = when {
-            portion != null && portion.toPage > portion.fromPage -> "Khatmah: pages ${portion.fromPage}–${portion.toPage} today" + (surah?.let { ", from $it." } ?: ".")
-            portion != null -> "Khatmah: page ${portion.fromPage} today" + (surah?.let { ", $it." } ?: ".")
-            surah != null -> "Continue at $surah, page $page."
-            else -> "Continue at page $page."
+            portion != null && portion.toPage > portion.fromPage -> context.getString(R.string.remind_khatmah_pages, portion.fromPage, portion.toPage, surah.orEmpty())
+            portion != null -> context.getString(R.string.remind_khatmah_page, portion.fromPage, surah.orEmpty())
+            surah != null -> context.getString(R.string.remind_continue_at, surah, page)
+            else -> context.getString(R.string.remind_continue_page, page)
         }
         val lesson = runCatching { hifz.lesson() }.getOrDefault(emptyList())
         val revise = runCatching { hifz.revision().let { it.recent.size + it.due.size } }.getOrDefault(0)
         val hifzLine = buildList {
             lesson.firstOrNull()?.let { first ->
                 val name = runCatching { quran.surah(first.surah).name }.getOrDefault("")
-                add("Lesson: $name $first" + if (lesson.size > 1) "–${lesson.last().ayah}" else "")
+                add(context.getString(R.string.remind_lesson, "$name $first" + if (lesson.size > 1) "–${lesson.last().ayah}" else ""))
             }
-            if (revise > 0) add(if (revise == 1) "1 page to revise" else "$revise pages to revise")
+            if (revise > 0) add(context.resources.getQuantityString(R.plurals.pages_to_revise, revise, revise))
         }.joinToString(" · ")
         val text = if (hifzLine.isEmpty()) where else "$where\n$hifzLine"
         val manager = context.getSystemService(NotificationManager::class.java)
-        manager.createNotificationChannel(NotificationChannel(Reminder.CHANNEL, "Daily reminder", NotificationManager.IMPORTANCE_DEFAULT))
+        manager.createNotificationChannel(NotificationChannel(Reminder.CHANNEL, context.getString(R.string.daily_reminder), NotificationManager.IMPORTANCE_DEFAULT))
         val open = PendingIntent.getActivity(
             context, 0,
             Intent(context, MainActivity::class.java).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP),
@@ -171,7 +171,7 @@ class ReminderWorker(context: Context, params: WorkerParameters) : CoroutineWork
         )
         val note = NotificationCompat.Builder(context, Reminder.CHANNEL)
             .setSmallIcon(R.drawable.ic_stat_mushaf)
-            .setContentTitle("Your daily wird")
+            .setContentTitle(context.getString(R.string.welcome_wird))
             .setContentText(where)
             .setStyle(NotificationCompat.BigTextStyle().bigText(text))
             .setContentIntent(open)

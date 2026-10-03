@@ -85,16 +85,16 @@ class Tafsir(private val context: Context, private val sources: Sources, private
     companion object {
         /** The books offered, English first, then the classical Arabic ones. */
         val BOOKS = listOf(
-            TafsirBook(169, "Ibn Kathir (abridged)", "English", false),
-            TafsirBook(168, "Ma'arif al-Qur'an", "English", false),
-            TafsirBook(817, "Tazkirul Quran", "English", false),
-            TafsirBook(16, "Al-Muyassar", "Arabic", true),
-            TafsirBook(91, "As-Sa'di", "Arabic", true),
-            TafsirBook(14, "Ibn Kathir", "Arabic", true),
-            TafsirBook(15, "At-Tabari", "Arabic", true),
-            TafsirBook(90, "Al-Qurtubi", "Arabic", true),
-            TafsirBook(94, "Al-Baghawi", "Arabic", true),
-            TafsirBook(93, "Al-Wasit (Tantawi)", "Arabic", true)
+            TafsirBook(169, "Ibn Kathir (abridged)", "en", false),
+            TafsirBook(168, "Ma'arif al-Qur'an", "en", false),
+            TafsirBook(817, "Tazkirul Quran", "en", false),
+            TafsirBook(16, "Al-Muyassar", "ar", true),
+            TafsirBook(91, "As-Sa'di", "ar", true),
+            TafsirBook(14, "Ibn Kathir", "ar", true),
+            TafsirBook(15, "At-Tabari", "ar", true),
+            TafsirBook(90, "Al-Qurtubi", "ar", true),
+            TafsirBook(94, "Al-Baghawi", "ar", true),
+            TafsirBook(93, "Al-Wasit (Tantawi)", "ar", true)
         )
 
         /** Paragraphs of plain text from the tafsir's markup; headings start with "# ". */
