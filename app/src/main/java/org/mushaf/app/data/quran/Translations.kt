@@ -115,6 +115,18 @@ class Translations(private val context: Context, private val quran: Quran, priva
         }
     }
 
+    /**
+     * Fetches the translations chosen but not on the phone: a first launch
+     * without a connection leaves them out. Run when the app opens; quiet
+     * while it still cannot, as the meaning then shows the others.
+     */
+    suspend fun ensure(ids: List<String>) {
+        val missing = ids.filter { it != BUNDLED.id && info(it) == null }
+        if (missing.isEmpty()) return
+        val known = catalog().associateBy { it.id }
+        for (id in missing) known[id]?.let { runCatching { install(it) } }
+    }
+
     /** Fetches [info] whole and keeps it. */
     suspend fun install(info: TranslationInfo) = withContext(Dispatchers.IO) {
         val rows: List<Pair<String, String>> = when {

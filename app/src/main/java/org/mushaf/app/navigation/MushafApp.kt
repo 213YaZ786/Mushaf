@@ -76,8 +76,13 @@ fun MushafApp() {
     val settings by store.settings.collectAsState()
     val navController = rememberNavController()
     val sources: Sources = koinInject()
-    // A newer list of sources, from the app's repository, at most once a week.
-    LaunchedEffect(Unit) { sources.refresh() }
+    val translations: org.mushaf.app.data.quran.Translations = koinInject()
+    // A newer list of sources, from the app's repository, at most once a week;
+    // then the translations chosen while offline, if any are still missing.
+    LaunchedEffect(Unit) {
+        sources.refresh()
+        translations.ensure(store.current.translations)
+    }
     NavHost(
         navController = navController,
         startDestination = if (settings.welcomeSeen) Routes.MUSHAF else Routes.WELCOME,
