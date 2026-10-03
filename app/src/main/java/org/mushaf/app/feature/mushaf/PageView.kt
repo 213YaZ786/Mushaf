@@ -70,6 +70,8 @@ import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.fillMaxHeight
 import org.mushaf.app.core.quran.AyahKey
 import org.mushaf.app.core.quran.MushafPage
 import org.mushaf.app.core.quran.PageLayout
@@ -182,8 +184,10 @@ fun PageView(
         val count = PageLayout.lineCount(page.number)
         val lineHeight = maxHeight / count
         // The size where the widest line fills the width, kept within the
-        // line's height: measured once per page and font.
-        val size: TextUnit = remember(page.number, family, maxWidth, maxHeight) {
+        // line's height: measured once per page and font. When the height
+        // decides (two pages side by side), the page narrows to its text, as
+        // printed, instead of stretching each line across the width.
+        val fit: Pair<TextUnit, Dp> = remember(page.number, family, maxWidth, maxHeight) {
             val base = 20.sp
             val style = TextStyle(fontFamily = family, fontSize = base)
             var widest = 1f
@@ -203,9 +207,11 @@ fun PageView(
             val gap = if (PageLayout.centred(page.number)) WORD_GAP else WORD_GAP / 2
             for ((width, n) in lines) widest = maxOf(widest, width + gap * tallest * (n - 1))
             val byWidth = with(density) { maxWidth.toPx() } / widest
-            val byHeight = with(density) { lineHeight.toPx() } / tallest * 1.25f
-            base * minOf(byWidth, byHeight)
+            val byHeight = with(density) { lineHeight.toPx() } / tallest * 1.05f
+            val scale = minOf(byWidth, byHeight)
+            base * scale to if (byHeight < byWidth) with(density) { (widest * scale).toDp() } else maxWidth
         }
+        val size = fit.first
         val style = TextStyle(fontFamily = family, fontSize = size, textAlign = TextAlign.Center, color = color)
         val centred = PageLayout.centred(page.number)
         val padX = with(density) { 5.dp.toPx() }
@@ -214,7 +220,9 @@ fun PageView(
         CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Rtl) {
             Column(
                 Modifier
-                    .fillMaxSize()
+                    .fillMaxHeight()
+                    .width(fit.second)
+                    .align(Alignment.TopCenter)
                     .onPlaced { column[0] = it }
                     .drawBehind {
                         val r = capsule.value

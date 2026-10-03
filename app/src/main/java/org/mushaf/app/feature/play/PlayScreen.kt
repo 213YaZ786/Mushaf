@@ -87,8 +87,9 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
         bottom = 0.dp,
         top = { FloatingTop(stringResource(R.string.play), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
+        // The surah grid takes most of a wide screen: more surahs at a glance.
         Column(
-            Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = LocalReadableInset.current)
+            Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = LocalReadableInset.current / 4)
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding()))
             // Who is playing: each child has their own stars.
