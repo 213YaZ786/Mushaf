@@ -82,6 +82,8 @@ fun AyahSheet(
     onOpenMeaning: (AyahKey) -> Unit,
     onOpenTafsir: (AyahKey) -> Unit,
     onPlay: (AyahKey) -> Unit,
+    /** Heard again and again, from the first ayah to the second. */
+    onRepeat: (AyahKey, AyahKey) -> Unit,
     /** Learn this ayah by heart now: a lesson of it on its page. */
     onMemorise: (AyahKey) -> Unit
 ) {
@@ -102,6 +104,12 @@ fun AyahSheet(
     val note = saved.notes.firstOrNull { it.key == word.key }?.text
     var writing by remember { mutableStateOf(false) }
     var sharing by remember { mutableStateOf(false) }
+    var repeating by remember { mutableStateOf(false) }
+    // The ayat that can close a passage begun here: the rest of the surah, twenty at most.
+    val passageEnds by produceState(emptyList<AyahKey>(), word.key) {
+        val s = quran.surah(word.key.surah)
+        value = (word.key.ayah..minOf(s.ayat, word.key.ayah + 20)).map { AyahKey(word.key.surah, it) }
+    }
     val settings by koinInject<SettingsStore>().settings.collectAsState()
     val scheme = MaterialTheme.colorScheme
     val dark = scheme.background.luminance() < 0.5f
@@ -167,6 +175,7 @@ fun AyahSheet(
                         haptics.toggle(marks.toggleBookmark(word.key))
                     })
                     IconControl(AppIcons.Play, "Listen from here", { onPlay(word.key) })
+                    IconControl(AppIcons.Repeat, "Repeat a passage", { repeating = true })
                     IconControl(AppIcons.Translate, "Read with meaning", { onOpenMeaning(word.key) })
                     IconControl(AppIcons.MenuBook, "Tafsir", { onOpenTafsir(word.key) })
                     IconControl(AppIcons.School, "Memorise", { onMemorise(word.key) })
@@ -180,6 +189,13 @@ fun AyahSheet(
                     IconControl(AppIcons.Share, "Share", { sharing = true })
                     IconControl(AppIcons.Close, "Close", onClose)
                 }
+                if (repeating) ChoiceDialog(
+                    title = "Repeat from ${word.key} to",
+                    options = passageEnds.map { it to if (it == word.key) "${it} only" else it.toString() },
+                    selected = null,
+                    onSelect = { end -> repeating = false; if (end != null) onRepeat(word.key, end) },
+                    onDismiss = { repeating = false }
+                )
                 if (sharing) ChoiceDialog(
                     title = "Share",
                     options = listOf(0 to "Image, with the meaning", 1 to "Image", 2 to "Text"),

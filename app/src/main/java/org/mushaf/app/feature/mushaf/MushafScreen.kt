@@ -403,6 +403,7 @@ fun MushafScreen(
                             onOpenMeaning = { k -> opened = null; onOpenMeaning(k) },
                             onOpenTafsir = { k -> opened = null; onOpenTafsir(k) },
                             onPlay = { k -> opened = null; listen.play(k) },
+                            onRepeat = { from, to -> opened = null; listen.play(from, until = to) },
                             onMemorise = { k -> opened = null; scope.launch { hifz.startLesson(listOf(k), quran.pageOf(k)) } }
                         )
                     }

@@ -125,8 +125,7 @@ class Listen(
         }
         scope.launch {
             _state.update { it.copy(active = true, loading = true, failed = false) }
-            val ok = runCatching { load(key.surah) }.isSuccess
-            if (!ok) {
+            val there = runCatching { load(key.surah, key.ayah) }.getOrElse {
                 _state.update { it.copy(loading = false, failed = true) }
                 return@launch
             }
@@ -134,15 +133,20 @@ class Listen(
             val a = audio ?: return@launch
             val start = a.ayat.firstOrNull { it.ayah == key.ayah } ?: a.ayat.first()
             startRepeats(start)
-            c.seekTo(start.from)
+            if (there) c.seekTo(start.from)
             c.setPlaybackSpeed(settings.current.speed)
             c.play()
         }
     }
 
-    private suspend fun load(surah: Int) {
+    /**
+     * The surah's recording in the player, ready at [from]. True when it was
+     * there already: then it is moved with a seek. A new recording gets its
+     * place with it, as the player drops a seek asked before it can seek.
+     */
+    private suspend fun load(surah: Int, from: Int): Boolean {
         val reciter = reciterFor ?: settings.reciter()
-        if (audio?.surah == surah && audio?.reciter == reciter) return
+        if (audio?.surah == surah && audio?.reciter == reciter) return true
         val a = recitations.surah(reciter, surah)
         // The recording's place comes from the API: played only from a known server, encrypted.
         val uri = Uri.parse(a.url)
@@ -160,9 +164,11 @@ class Listen(
             )
             .build()
         val c = controller()
-        c.setMediaItem(item)
+        val start = a.ayat.firstOrNull { it.ayah == from } ?: a.ayat.first()
+        c.setMediaItem(item, start.from)
         c.prepare()
         audio = a
+        return false
     }
 
     /** Where the recitation stands, kept to go on from there another time. */
