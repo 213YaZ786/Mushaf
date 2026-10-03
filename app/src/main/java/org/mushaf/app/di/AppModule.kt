@@ -32,7 +32,7 @@ val appModule = module {
     single { Quran(androidContext(), get()) }
     single { Sources(androidContext()) }
     single { PageFonts(androidContext(), get(), CoroutineScope(SupervisorJob() + Dispatchers.Default)) }
-    single { Reader(get()) }
+    single { Reader(get(), get()) }
     single { Translations(androidContext(), get(), get()) }
     single { Tafsir(androidContext(), get(), get()) }
     single { Khatmah(androidContext()) }

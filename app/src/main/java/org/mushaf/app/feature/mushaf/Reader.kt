@@ -13,7 +13,7 @@ import org.mushaf.app.data.settings.SettingsStore
  * and the place another screen asks the mushaf to go to (the index, a
  * search result, a bookmark), with the ayah to point at once there.
  */
-class Reader(private val settings: SettingsStore) {
+class Reader(private val settings: SettingsStore, private val quran: org.mushaf.app.data.quran.Quran) {
 
     private val _page = MutableStateFlow(settings.current.page.coerceIn(1, PAGES))
     val page: StateFlow<Int> = _page.asStateFlow()
@@ -40,7 +40,10 @@ class Reader(private val settings: SettingsStore) {
         val p = page.coerceIn(1, PAGES)
         if (_page.value == p) return
         _page.value = p
-        settings.update { it.copy(page = p) }
+        // A page of Al-Kahf seen today: no Friday reminder for it.
+        val kahf = quran.metaNow?.surahs?.getOrNull(17)?.pages
+        val today = java.time.LocalDate.now().toEpochDay()
+        settings.update { it.copy(page = p, kahfDay = if (kahf != null && p in kahf.first()..kahf.last()) today else it.kahfDay) }
     }
 
     fun go(page: Int, mark: AyahKey? = null) {

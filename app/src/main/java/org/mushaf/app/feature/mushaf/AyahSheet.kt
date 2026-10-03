@@ -69,7 +69,9 @@ fun AyahSheet(
     onClose: () -> Unit,
     onOpenMeaning: (AyahKey) -> Unit,
     onOpenTafsir: (AyahKey) -> Unit,
-    onPlay: (AyahKey) -> Unit
+    onPlay: (AyahKey) -> Unit,
+    /** Learn this ayah by heart now: a lesson of it on its page. */
+    onMemorise: (AyahKey) -> Unit
 ) {
     val quran: Quran = koinInject()
     val context = LocalContext.current
@@ -147,6 +149,7 @@ fun AyahSheet(
                     IconControl(AppIcons.Play, "Listen from here", { onPlay(word.key) })
                     IconControl(AppIcons.Translate, "Read with meaning", { onOpenMeaning(word.key) })
                     IconControl(AppIcons.MenuBook, "Tafsir", { onOpenTafsir(word.key) })
+                    IconControl(AppIcons.School, "Memorise", { onMemorise(word.key) })
                     IconControl(AppIcons.Info, "Note", { writing = true })
                     IconControl(AppIcons.Copy, "Copy", {
                         haptics.done()

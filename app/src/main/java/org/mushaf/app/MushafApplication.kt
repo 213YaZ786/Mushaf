@@ -21,5 +21,6 @@ class MushafApplication : Application() {
         }
         // The next reminder of the wird, set again at each start (and kept by WorkManager through a restart).
         Reminder.schedule(this, GlobalContext.get().get<SettingsStore>(), ExistingWorkPolicy.KEEP)
+        Reminder.scheduleKahf(this, GlobalContext.get().get<SettingsStore>(), ExistingWorkPolicy.KEEP)
     }
 }

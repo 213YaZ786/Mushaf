@@ -165,15 +165,22 @@ class Listen(
         audio = a
     }
 
+    /** Where the recitation stands, kept to go on from there another time. */
+    private fun keepPlace() {
+        val key = _state.value.key ?: return
+        settings.update { it.copy(lastHeard = key.toString()) }
+    }
+
     fun toggle() {
         val c = controller ?: return
-        if (c.isPlaying) c.pause() else {
+        if (c.isPlaying) { c.pause(); keepPlace() } else {
             c.setPlaybackSpeed(settings.current.speed)
             c.play()
         }
     }
 
     fun stop() {
+        keepPlace()
         setSleep(null)
         ticker?.cancel()
         controller?.stop()

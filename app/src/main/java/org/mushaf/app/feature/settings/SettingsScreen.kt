@@ -77,6 +77,7 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
     val askNotifications = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { }
     // The reminder follows every change made here.
     LaunchedEffect(settings.reminder, settings.reminderAt) { Reminder.schedule(context, store) }
+    LaunchedEffect(settings.kahf) { Reminder.scheduleKahf(context, store) }
 
     FloatingFrame(
         bottom = 0.dp,
@@ -133,6 +134,12 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                     }
                 )
                 if (settings.reminder) SettingRow("Time", reminderTime(settings.reminderAt), onClick = { dialog = OpenDialog.REMINDER_TIME })
+                SwitchRow(
+                    title = "Al-Kahf on Fridays",
+                    summary = "On Friday morning, unless you have opened it already.",
+                    checked = settings.kahf,
+                    onChange = { on -> store.update { it.copy(kahf = on) } }
+                )
             }
 
             Section("Offline") {

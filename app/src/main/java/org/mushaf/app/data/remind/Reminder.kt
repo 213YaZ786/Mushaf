@@ -63,6 +63,60 @@ object Reminder {
     }
 
     fun today(): Long = LocalDate.now().toEpochDay()
+
+    private const val KAHF = "kahf"
+    const val PAGE = "org.mushaf.app.PAGE"
+
+    /** The Friday reminder of Al-Kahf, at nine in the morning, or none when it is off. */
+    fun scheduleKahf(context: Context, settings: SettingsStore, policy: ExistingWorkPolicy = ExistingWorkPolicy.REPLACE) {
+        val work = WorkManager.getInstance(context)
+        if (!settings.current.kahf) {
+            work.cancelUniqueWork(KAHF)
+            return
+        }
+        val now = LocalDateTime.now()
+        var next = LocalDate.now().atTime(LocalTime.of(9, 0))
+        while (next.dayOfWeek != java.time.DayOfWeek.FRIDAY || next.isBefore(now.plusHours(1))) next = next.plusDays(1)
+        work.enqueueUniqueWork(KAHF, policy, OneTimeWorkRequestBuilder<KahfWorker>().setInitialDelay(Duration.between(now, next)).build())
+    }
+}
+
+class KahfWorker(context: Context, params: WorkerParameters) : CoroutineWorker(context, params), KoinComponent {
+
+    private val settings: SettingsStore by inject()
+    private val quran: Quran by inject()
+
+    override suspend fun doWork(): Result {
+        try {
+            val s = settings.current
+            if (s.kahf && s.kahfDay != Reminder.today()) notifyKahf()
+        } finally {
+            Reminder.scheduleKahf(applicationContext, settings, ExistingWorkPolicy.APPEND_OR_REPLACE)
+        }
+        return Result.success()
+    }
+
+    private suspend fun notifyKahf() {
+        val context = applicationContext
+        if (ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) return
+        val page = runCatching { quran.surah(18).firstPage }.getOrDefault(293)
+        val manager = context.getSystemService(NotificationManager::class.java)
+        manager.createNotificationChannel(NotificationChannel(Reminder.CHANNEL, "Daily reminder", NotificationManager.IMPORTANCE_DEFAULT))
+        val open = PendingIntent.getActivity(
+            context, 1,
+            Intent(context, MainActivity::class.java).putExtra(Reminder.PAGE, page)
+                .addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP),
+            PendingIntent.FLAG_IMMUTABLE or PendingIntent.FLAG_UPDATE_CURRENT
+        )
+        val note = NotificationCompat.Builder(context, Reminder.CHANNEL)
+            .setSmallIcon(R.drawable.ic_stat_mushaf)
+            .setContentTitle("Friday: Surah Al-Kahf")
+            .setContentText("It opens at page $page.")
+            .setContentIntent(open)
+            .setAutoCancel(true)
+            .build()
+        manager.notify(8, note)
+    }
 }
 
 class ReminderWorker(context: Context, params: WorkerParameters) : CoroutineWorker(context, params), KoinComponent {

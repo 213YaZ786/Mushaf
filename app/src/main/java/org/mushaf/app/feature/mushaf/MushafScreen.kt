@@ -344,7 +344,12 @@ fun MushafScreen(
                             scope.launch { onOpenMeaning(quran.firstAyah(current)) }
                         })
                         IconControl(AppIcons.Play, "Listen", {
-                            scope.launch { listen.play(quran.firstAyah(current)) }
+                            scope.launch {
+                                // On from the ayah heard last, when it is on the pages shown; else from their first ayah.
+                                val last = settings.lastHeard?.let { AyahKey.parse(it) }
+                                val from = last?.takeIf { quran.pageOf(it) in current until current + perItem } ?: quran.firstAyah(current)
+                                listen.play(from)
+                            }
                         }, accent = true)
                     }
                     val pill: @Composable (Modifier) -> Unit = { m ->
@@ -397,7 +402,8 @@ fun MushafScreen(
                             onClose = { opened = null },
                             onOpenMeaning = { k -> opened = null; onOpenMeaning(k) },
                             onOpenTafsir = { k -> opened = null; onOpenTafsir(k) },
-                            onPlay = { k -> opened = null; listen.play(k) }
+                            onPlay = { k -> opened = null; listen.play(k) },
+                            onMemorise = { k -> opened = null; scope.launch { hifz.startLesson(listOf(k), quran.pageOf(k)) } }
                         )
                     }
                 }

@@ -1,6 +1,11 @@
 package org.mushaf.app
 
+import android.content.Intent
 import android.os.Bundle
+import org.koin.core.context.GlobalContext
+import org.mushaf.app.core.quran.PAGES
+import org.mushaf.app.data.remind.Reminder
+import org.mushaf.app.feature.mushaf.Reader
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
@@ -14,6 +19,18 @@ class MainActivity : ComponentActivity() {
         setContent {
             MushafSurface { MushafApp() }
         }
+        openPage(intent)
+    }
+
+    override fun onNewIntent(intent: Intent) {
+        super.onNewIntent(intent)
+        openPage(intent)
+    }
+
+    /** A page asked by the app's own reminder: only a page number, only shown. */
+    private fun openPage(intent: Intent?) {
+        val page = intent?.getIntExtra(Reminder.PAGE, 0) ?: 0
+        if (page in 1..PAGES) GlobalContext.get().get<Reader>().go(page)
     }
 
     override fun onStart() {
