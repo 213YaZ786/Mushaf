@@ -185,6 +185,8 @@
     <string name="voice_mic_denied">Mushaf needs the microphone to hear you recite.</string>
     <string name="voice_mic_blocked">The microphone is turned off for Mushaf. Allow it in the app\'s settings.</string>
     <string name="voice_nothing_heard">Nothing was heard. Check the microphone, then recite close to the phone.</string>
+    <string name="voice_model_failed">The speech model on the phone could not be read. Download it again.</string>
+    <string name="download_again">Download again</string>
     <string name="try_again">Try again</string>
     <string name="allow">Allow</string>
     <string name="open_settings">Open settings</string>

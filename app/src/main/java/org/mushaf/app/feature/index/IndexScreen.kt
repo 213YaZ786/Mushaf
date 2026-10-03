@@ -171,7 +171,11 @@ fun IndexScreen(onBack: () -> Unit) {
         finding = null
         recite.hear { text ->
             // Silence (or a microphone giving nothing) is said, not shown as "nothing found".
-            if (text.isBlank()) { gate.nothingHeard(); haptics.reject(); return@hear }
+            if (text.isBlank()) {
+                if (!recite.state.value.modelFailed) gate.nothingHeard()
+                haptics.reject()
+                return@hear
+            }
             finding = context.getString(R.string.finding_ayah)
             scope.launch {
                 val ayat = quran.ayat()

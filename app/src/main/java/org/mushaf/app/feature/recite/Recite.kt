@@ -26,7 +26,9 @@ data class ReciteState(
     val marks: Map<Int, Heard> = emptyMap(),
     /** The next word expected. */
     val next: Int = 0,
-    val failed: Boolean = false
+    val failed: Boolean = false,
+    /** The speech model could not be read: heard as nothing, but the model is to blame. */
+    val modelFailed: Boolean = false
 )
 
 /**
@@ -74,7 +76,7 @@ class Recite(private val recogniser: Recogniser, private val scope: CoroutineSco
                         lastRun = now
                         heardUpTo = filled
                         if (loud(piece, filled)) {
-                            val text = runCatching { recogniser.transcribe(piece.copyOf(filled)) }.getOrDefault("")
+                            val text = transcribe(piece.copyOf(filled))
                             val result = Match.follow(expected, base, text.split(' ').filter { it.isNotBlank() })
                             _state.update { s -> s.copy(marks = s.marks + result.marks, next = maxOf(s.next, result.next)) }
                             if (result.next >= expected.size) break
@@ -140,7 +142,7 @@ class Recite(private val recogniser: Recogniser, private val scope: CoroutineSco
             _state.update { it.copy(listening = false) }
             val clip = audio.copyOf(filled)
             audio.fill(0f)
-            val text = if (isActive && loud(clip, filled)) runCatching { recogniser.transcribe(clip) }.getOrDefault("") else ""
+            val text = if (isActive && loud(clip, filled)) transcribe(clip) else ""
             clip.fill(0f)
             if (isActive) withContext(Dispatchers.Main) { onHeard(text) }
         }
@@ -162,11 +164,39 @@ class Recite(private val recogniser: Recogniser, private val scope: CoroutineSco
         _state.value = ReciteState()
     }
 
-    /** Some voice in what was taken, not only the room. */
+    /**
+     * Some voice in what was taken, not only the room: the loudest tenth of a
+     * second counts, so a few words in a long silence are not averaged away.
+     */
     private fun loud(audio: FloatArray, n: Int): Boolean {
-        var sum = 0.0
-        for (i in 0 until n) sum += audio[i] * audio[i]
-        return n > 0 && sqrt(sum / n) > 0.006
+        val frame = Recogniser.RATE / 10
+        var start = 0
+        while (start < n) {
+            val end = minOf(n, start + frame)
+            var sum = 0.0
+            for (i in start until end) sum += audio[i] * audio[i]
+            if (sqrt(sum / (end - start)) > 0.002) return true
+            start = end
+        }
+        return false
+    }
+
+    /**
+     * What the model hears in [audio], brought to a clear level first: a
+     * microphone that gives a faint voice (many phones in this mode) is
+     * raised, up to twenty times, so the model is not given near silence.
+     * A model that fails says so in the state, apart from "nothing heard".
+     */
+    private suspend fun transcribe(audio: FloatArray): String {
+        var peak = 0f
+        for (v in audio) peak = maxOf(peak, kotlin.math.abs(v))
+        if (peak > 0f && peak < 0.5f) {
+            val gain = minOf(0.5f / peak, 20f)
+            for (i in audio.indices) audio[i] *= gain
+        }
+        return runCatching { recogniser.transcribe(audio) }
+            .onFailure { _state.update { it.copy(modelFailed = true) } }
+            .getOrDefault("")
     }
 
 }

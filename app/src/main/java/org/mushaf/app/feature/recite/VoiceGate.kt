@@ -40,7 +40,7 @@ import org.mushaf.app.feature.common.TextControl
 import org.mushaf.app.ui.component.rememberHaptics
 
 /** What keeps the phone from listening, each said to the reader with what to do. */
-enum class VoiceProblem { DOWNLOAD_FAILED, NO_SPACE, MIC_DENIED, MIC_BLOCKED, NOTHING_HEARD }
+enum class VoiceProblem { DOWNLOAD_FAILED, NO_SPACE, MIC_DENIED, MIC_BLOCKED, NOTHING_HEARD, MODEL_FAILED }
 
 /**
  * Everything the phone needs before it listens: the speech model (offered,
@@ -115,6 +115,8 @@ class VoiceGate internal constructor(
         problem = null
         when (p) {
             VoiceProblem.DOWNLOAD_FAILED -> fetch()
+            // A model that cannot be read is fetched again, whole.
+            VoiceProblem.MODEL_FAILED -> scope.launch { recogniser.remove(); fetch() }
             VoiceProblem.MIC_DENIED -> askMic()
             VoiceProblem.MIC_BLOCKED -> context.startActivity(
                 Intent(Settings.ACTION_APPLICATION_DETAILS_SETTINGS, Uri.fromParts("package", context.packageName, null))
@@ -143,6 +145,10 @@ fun rememberVoiceGate(): VoiceGate {
         }
     }
     gate.askMic = { launcher.launch(Manifest.permission.RECORD_AUDIO) }
+    // The model failing while it listens is said, not taken for silence.
+    val recite: Recite = koinInject()
+    val heard by recite.state.collectAsState()
+    androidx.compose.runtime.LaunchedEffect(heard.modelFailed) { if (heard.modelFailed) gate.problem = VoiceProblem.MODEL_FAILED }
     if (gate.offering) ModelOffer(onYes = { gate.fetch() }, onNo = { gate.offering = false; gate.pending = null })
     return gate
 }
@@ -161,6 +167,7 @@ fun VoiceNotice(gate: VoiceGate, modifier: Modifier = Modifier) {
                 VoiceProblem.MIC_DENIED -> stringResource(R.string.voice_mic_denied)
                 VoiceProblem.MIC_BLOCKED -> stringResource(R.string.voice_mic_blocked)
                 VoiceProblem.NOTHING_HEARD -> stringResource(R.string.voice_nothing_heard)
+                VoiceProblem.MODEL_FAILED -> stringResource(R.string.voice_model_failed)
             },
             style = MaterialTheme.typography.bodyMedium,
             color = if (problem != null) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.primary,
@@ -171,6 +178,7 @@ fun VoiceNotice(gate: VoiceGate, modifier: Modifier = Modifier) {
             VoiceProblem.DOWNLOAD_FAILED -> stringResource(R.string.try_again)
             VoiceProblem.MIC_DENIED -> stringResource(R.string.allow)
             VoiceProblem.MIC_BLOCKED -> stringResource(R.string.open_settings)
+            VoiceProblem.MODEL_FAILED -> stringResource(R.string.download_again)
             else -> null
         }
         if (progress == null && action != null) EvenRows(minSlot = 140.dp) { TextControl(action, { gate.retry() }, accent = true) }

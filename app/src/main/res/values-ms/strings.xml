@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_model_failed">Model suara dalam telefon tidak dapat dibaca. Muat turun semula.</string>
+    <string name="download_again">Muat turun semula</string>
     <string name="update_available">Versi baharu tersedia</string>
     <string name="update_downloading">Memuat turun</string>
     <string name="update_failed">Kemas kini tidak dapat dipasang.</string>

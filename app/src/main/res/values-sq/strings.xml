@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_model_failed">Modeli i zërit në telefon nuk u lexua. Shkarkojeni sërish.</string>
+    <string name="download_again">Shkarko sërish</string>
     <string name="update_available">Ka një version të ri</string>
     <string name="update_downloading">Po shkarkohet</string>
     <string name="update_failed">Përditësimi nuk u instalua.</string>

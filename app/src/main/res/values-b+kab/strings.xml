@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_model_failed">Tamudemt n taɣect deg tiliɣri ur tettwaɣer ara. Sider-itt tikkelt nniḍen.</string>
+    <string name="download_again">Ales asider</string>
     <string name="update_available">Lqem amaynut yella</string>
     <string name="update_downloading">Asider</string>
     <string name="update_failed">Aleqqem ur yebded ara.</string>

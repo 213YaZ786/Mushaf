@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_model_failed">Telefondagi ovoz modelini o‘qib bo‘lmadi. Uni qayta yuklab oling.</string>
+    <string name="download_again">Qayta yuklab olish</string>
     <string name="update_available">Yangi versiya chiqdi</string>
     <string name="update_downloading">Yuklanmoqda</string>
     <string name="update_failed">Yangilanishni o‘rnatib bo‘lmadi.</string>

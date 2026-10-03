@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="voice_model_failed">فون پر آواز کا ماڈل پڑھا نہیں جا سکا۔ اسے دوبارہ ڈاؤن لوڈ کریں۔</string>
+    <string name="download_again">دوبارہ ڈاؤن لوڈ کریں</string>
     <string name="update_available">نیا ورژن دستیاب ہے</string>
     <string name="update_downloading">ڈاؤن لوڈ ہو رہا ہے</string>
     <string name="update_failed">اپ ڈیٹ انسٹال نہیں ہو سکی۔</string>
