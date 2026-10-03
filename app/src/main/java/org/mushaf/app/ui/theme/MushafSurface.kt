@@ -14,9 +14,12 @@ import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.compositeOver
 import org.mushaf.app.data.settings.SettingsStore
 import org.mushaf.app.data.settings.ThemeMode
+import org.mushaf.app.ui.glass.GlassLook
 import org.mushaf.app.ui.glass.LocalGlass
 import org.mushaf.app.ui.glass.glassGround
 import org.mushaf.app.ui.glass.rememberGlassLook
@@ -48,11 +51,20 @@ fun ComponentActivity.MushafSurface(content: @Composable () -> Unit) {
     }
 
     MushafTheme(darkTheme = dark, pureBlack = settings.pureBlack, textScale = settings.textScale) {
-        val look = rememberGlassLook(MaterialTheme.colorScheme, settings.glass)
+        // The ground takes the phone's Material You colour, not only its halos:
+        // a soft wash of its main tone under every window, glass or not.
+        val scheme = MaterialTheme.colorScheme
+        val ground = remember(scheme, dark) {
+            scheme.primaryContainer.copy(alpha = if (dark) 0.22f else 0.38f).compositeOver(scheme.background)
+        }
+        val plain = rememberGlassLook(scheme, settings.glass)
+        val look = remember(plain, ground) {
+            plain?.let { GlassLook(it.dark, ground, it.halos, it.zoneTint, it.floatTint, it.accentTint) }
+        }
         // Text and icons take the theme's colour in every window: without it
         // Compose draws them black, unreadable on a dark ground.
         CompositionLocalProvider(LocalGlass provides look, LocalContentColor provides MaterialTheme.colorScheme.onBackground) {
-            Box(Modifier.fillMaxSize().glassGround(look, MaterialTheme.colorScheme.background)) {
+            Box(Modifier.fillMaxSize().glassGround(look, ground)) {
                 content()
             }
         }
