@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">Hapësira</string>
+    <string name="spacing_airy">E hapur</string>
+    <string name="spacing_compact">E ngjeshur</string>
+    <string name="spacing_detail">faqja, dhe ajetet me kuptimin e tyre</string>
+    <string name="revelation_order">rendi i shpalljes %1$d</string>
     <string name="playback_not_kept">Nuk ka lidhje dhe kjo sure nuk është ruajtur në telefon. Ruajeni leximin te Cilësimet › Jashtë linje.</string>
     <string name="voice_download_failed">Modeli i zërit nuk u shkarkua. Kontrolloni lidhjen dhe provoni sërish.</string>
     <string name="voice_no_space">Nuk ka hapësirë të mjaftueshme në telefon për modelin e zërit (rreth 100 MB).</string>

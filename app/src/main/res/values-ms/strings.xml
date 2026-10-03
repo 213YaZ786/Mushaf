@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">Jarak</string>
+    <string name="spacing_airy">Lapang</string>
+    <string name="spacing_compact">Padat</string>
+    <string name="spacing_detail">halaman, dan ayat-ayat dengan maknanya</string>
+    <string name="revelation_order">urutan penurunan %1$d</string>
     <string name="playback_not_kept">Tiada sambungan, dan surah ini tidak disimpan dalam telefon. Simpan bacaan dalam Tetapan › Luar talian.</string>
     <string name="voice_download_failed">Model suara tidak dapat dimuat turun. Semak sambungan dan cuba lagi.</string>
     <string name="voice_no_space">Ruang dalam telefon tidak mencukupi untuk model suara (kira-kira 100 MB).</string>

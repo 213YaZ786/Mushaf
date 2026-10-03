@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">Espaçamento</string>
+    <string name="spacing_airy">Arejado</string>
+    <string name="spacing_compact">Compacto</string>
+    <string name="spacing_detail">a página, e os versículos com o seu significado</string>
+    <string name="revelation_order">ordem de revelação %1$d</string>
     <string name="playback_not_kept">Sem conexão, e esta surata não está guardada no telefone. Guarde a recitação em Configurações › Offline.</string>
     <string name="voice_download_failed">Não foi possível baixar o modelo de voz. Verifique a conexão e tente de novo.</string>
     <string name="voice_no_space">Não há espaço suficiente no telefone para o modelo de voz (cerca de 100 MB).</string>

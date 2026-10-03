@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">Abstand</string>
+    <string name="spacing_airy">Luftig</string>
+    <string name="spacing_compact">Kompakt</string>
+    <string name="spacing_detail">die Seite und die Verse mit ihrer Bedeutung</string>
+    <string name="revelation_order">Reihenfolge der Offenbarung %1$d</string>
     <string name="playback_not_kept">Keine Verbindung, und diese Sure ist nicht auf dem Telefon gespeichert. Behalte die Rezitation unter Einstellungen › Offline.</string>
     <string name="voice_download_failed">Das Sprachmodell konnte nicht geladen werden. Prüfe die Verbindung und versuche es erneut.</string>
     <string name="voice_no_space">Nicht genug Platz auf dem Telefon für das Sprachmodell (etwa 100 MB).</string>

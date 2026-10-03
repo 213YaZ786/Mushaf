@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">فاصلہ</string>
+    <string name="spacing_airy">کشادہ</string>
+    <string name="spacing_compact">گنجان</string>
+    <string name="spacing_detail">صفحہ، اور معنی کے ساتھ آیات</string>
+    <string name="revelation_order">ترتیبِ نزول %1$d</string>
     <string name="playback_not_kept">کنکشن نہیں، اور یہ سورت فون پر محفوظ نہیں۔ تلاوت کو ترتیبات › آف لائن میں رکھیں۔</string>
     <string name="voice_download_failed">آواز کا ماڈل ڈاؤن لوڈ نہیں ہو سکا۔ کنکشن چیک کر کے دوبارہ کوشش کریں۔</string>
     <string name="voice_no_space">فون پر آواز کے ماڈل کے لیے کافی جگہ نہیں (تقریباً 100 MB)۔</string>

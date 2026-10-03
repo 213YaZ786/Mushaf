@@ -441,7 +441,15 @@ fun MushafScreen(
                                 .then(if (item == pager.currentPage) Modifier.pageZoom(zoom) else Modifier)
                                 .then(if (reduce) Modifier else Modifier.pageCurl(pager, item, paper) { grab })
                                 .padding(bars)
-                                .padding(horizontal = if (spread) 24.dp else 12.dp, vertical = 8.dp),
+                                // Airy: a margin round the text as in a printed book, so the lines breathe.
+                                .padding(
+                                    horizontal = when {
+                                        spread -> if (settings.airy) 40.dp else 24.dp
+                                        settings.airy -> maxWidth * 0.08f
+                                        else -> 12.dp
+                                    },
+                                    vertical = if (settings.airy) 14.dp else 8.dp
+                                ),
                             horizontalArrangement = Arrangement.spacedBy(32.dp)
                         ) {
                             // Right to left: the odd page on the right, as in a printed mushaf.

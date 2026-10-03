@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">Aralıq</string>
+    <string name="spacing_airy">Geniş</string>
+    <string name="spacing_compact">Sıx</string>
+    <string name="spacing_detail">səhifə və mənası ilə ayələr</string>
+    <string name="revelation_order">nazil olma sırası %1$d</string>
     <string name="playback_not_kept">Bağlantı yoxdur və bu surə telefonda saxlanılmayıb. Qiraəti Ayarlar › Oflayn bölməsində saxlayın.</string>
     <string name="voice_download_failed">Səs modeli yüklənmədi. Bağlantını yoxlayıb yenidən cəhd edin.</string>
     <string name="voice_no_space">Telefonda səs modeli üçün kifayət qədər yer yoxdur (təxminən 100 MB).</string>

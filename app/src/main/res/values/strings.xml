@@ -74,6 +74,11 @@
     <string name="pure_black_detail">In the dark theme.</string>
     <string name="liquid_glass">Liquid glass</string>
     <string name="liquid_glass_detail">Panes of glass over a soft light in your wallpaper\'s colours.</string>
+    <string name="spacing">Spacing</string>
+    <string name="spacing_airy">Airy</string>
+    <string name="spacing_compact">Compact</string>
+    <string name="spacing_detail">the page, and the ayat with their meaning</string>
+    <string name="revelation_order">order of revelation %1$d</string>
     <string name="text_size">Text size</string>
     <string name="app">App</string>
     <string name="guide">Guide</string>

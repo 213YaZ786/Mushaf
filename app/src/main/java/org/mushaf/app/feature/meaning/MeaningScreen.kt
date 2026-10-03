@@ -90,6 +90,7 @@ fun MeaningScreen(
     val store: SettingsStore = koinInject()
     val marks: Marks = koinInject()
     val settings by store.settings.collectAsState()
+    val airy = settings.airy
     val saved by marks.marks.collectAsState()
     val haptics = rememberHaptics()
     val hafs = quranFont()
@@ -130,7 +131,7 @@ fun MeaningScreen(
         LazyColumn(
             state = list,
             contentPadding = PaddingValues(top = padding.calculateTopPadding() + 8.dp, start = inset + 12.dp, end = inset + 12.dp, bottom = 24.dp),
-            verticalArrangement = Arrangement.spacedBy(10.dp),
+            verticalArrangement = Arrangement.spacedBy(if (airy) 18.dp else 10.dp),
             modifier = Modifier.fillMaxSize()
         ) {
             item(key = "intro") {
@@ -143,9 +144,15 @@ fun MeaningScreen(
                     Column(Modifier.padding(18.dp)) {
                         Row(verticalAlignment = Alignment.CenterVertically) {
                             Column(Modifier.weight(1f)) {
-                                Text(s?.meaning.orEmpty(), style = MaterialTheme.typography.titleMedium)
+                                s?.meaningHere?.let { Text(it, style = MaterialTheme.typography.titleMedium) }
                                 Text(
-                                    s?.let { "${it.ayat} ayat · ${if (it.meccan) "Meccan" else "Medinan"} · revealed ${ordinal(it.order)}" }.orEmpty(),
+                                    s?.let {
+                                        listOf(
+                                            pluralStringResource(R.plurals.surah_ayat, it.ayat, it.ayat),
+                                            stringResource(if (it.meccan) R.string.meccan else R.string.medinan),
+                                            stringResource(R.string.revelation_order, it.order)
+                                        ).joinToString(" · ")
+                                    }.orEmpty(),
                                     style = MaterialTheme.typography.bodyMedium,
                                     color = MaterialTheme.colorScheme.onSurfaceVariant
                                 )
@@ -173,7 +180,7 @@ fun MeaningScreen(
                     Column(
                         Modifier
                             .combinedClickable(onClick = {}, onLongClick = { haptics.firm(); onOpenTafsir(row.key) })
-                            .padding(18.dp)
+                            .padding(if (airy) 22.dp else 18.dp)
                     ) {
                         Row(verticalAlignment = Alignment.CenterVertically) {
                             FloatingPane(shape = CircleShape) {
@@ -190,12 +197,12 @@ fun MeaningScreen(
                             SmallAction(AppIcons.MenuBook, stringResource(R.string.tafsir)) { onOpenTafsir(row.key) }
                             SmallAction(AppIcons.List, stringResource(R.string.show_in_mushaf)) { onOpenInMushaf(row.key) }
                         }
-                        Spacer(Modifier.size(12.dp))
+                        Spacer(Modifier.size(if (airy) 18.dp else 12.dp))
                         if (settings.wordByWord) {
                             CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Rtl) {
                                 FlowRow(
-                                    horizontalArrangement = Arrangement.spacedBy(12.dp),
-                                    verticalArrangement = Arrangement.spacedBy(10.dp),
+                                    horizontalArrangement = Arrangement.spacedBy(if (airy) 16.dp else 12.dp),
+                                    verticalArrangement = Arrangement.spacedBy(if (airy) 18.dp else 10.dp),
                                     modifier = Modifier.fillMaxWidth()
                                 ) {
                                     for (w in row.words) {
@@ -229,15 +236,15 @@ fun MeaningScreen(
                         } else {
                             Text(
                                 row.words.joinToString(" ") { it.text },
-                                style = TextStyle(fontFamily = hafs, fontSize = 28.sp, lineHeight = 52.sp, textAlign = TextAlign.Right),
+                                style = TextStyle(fontFamily = hafs, fontSize = if (airy) 30.sp else 28.sp, lineHeight = if (airy) 66.sp else 52.sp, textAlign = TextAlign.Right),
                                 modifier = Modifier.fillMaxWidth()
                             )
                         }
                         for ((name, text) in row.meanings) {
-                            Spacer(Modifier.size(12.dp))
-                            Text(text, style = MaterialTheme.typography.bodyLarge)
+                            Spacer(Modifier.size(if (airy) 18.dp else 12.dp))
+                            Text(text, style = if (airy) MaterialTheme.typography.bodyLarge.copy(lineHeight = MaterialTheme.typography.bodyLarge.fontSize * 1.75f) else MaterialTheme.typography.bodyLarge)
                             if (row.meanings.size > 1) {
-                                Text(name, style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                                Text(name, style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant, modifier = Modifier.padding(top = if (airy) 6.dp else 2.dp))
                             }
                         }
                         if (note != null) {
@@ -261,7 +268,3 @@ private fun SmallAction(icon: androidx.compose.ui.graphics.vector.ImageVector, l
     }
 }
 
-private fun ordinal(n: Int): String {
-    val suffix = if (n % 100 in 11..13) "th" else when (n % 10) { 1 -> "st"; 2 -> "nd"; 3 -> "rd"; else -> "th" }
-    return "$n$suffix"
-}

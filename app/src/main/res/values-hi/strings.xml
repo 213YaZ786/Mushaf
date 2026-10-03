@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">अंतराल</string>
+    <string name="spacing_airy">खुला</string>
+    <string name="spacing_compact">सघन</string>
+    <string name="spacing_detail">पृष्ठ, और अर्थ के साथ आयतें</string>
+    <string name="revelation_order">अवतरण का क्रम %1$d</string>
     <string name="playback_not_kept">कनेक्शन नहीं है, और यह सूरह फ़ोन पर नहीं रखी गई। तिलावत को सेटिंग्स › ऑफ़लाइन में रखें।</string>
     <string name="voice_download_failed">आवाज़ मॉडल डाउनलोड नहीं हो सका। कनेक्शन जाँचें और फिर कोशिश करें।</string>
     <string name="voice_no_space">फ़ोन पर आवाज़ मॉडल के लिए पर्याप्त जगह नहीं (लगभग 100 MB)।</string>

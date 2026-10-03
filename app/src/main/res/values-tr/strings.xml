@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">Aralık</string>
+    <string name="spacing_airy">Ferah</string>
+    <string name="spacing_compact">Sıkı</string>
+    <string name="spacing_detail">sayfa ve anlamlarıyla ayetler</string>
+    <string name="revelation_order">iniş sırası %1$d</string>
     <string name="playback_not_kept">Bağlantı yok ve bu sure telefonda kayıtlı değil. Tilaveti Ayarlar › Çevrimdışı bölümünde saklayın.</string>
     <string name="voice_download_failed">Ses modeli indirilemedi. Bağlantıyı kontrol edip tekrar deneyin.</string>
     <string name="voice_no_space">Telefonda ses modeli için yeterli yer yok (yaklaşık 100 MB).</string>

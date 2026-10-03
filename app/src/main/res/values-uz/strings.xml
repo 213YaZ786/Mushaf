@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">Oraliq</string>
+    <string name="spacing_airy">Keng</string>
+    <string name="spacing_compact">Zich</string>
+    <string name="spacing_detail">sahifa va ma’nosi bilan oyatlar</string>
+    <string name="revelation_order">nozil bo‘lish tartibi %1$d</string>
     <string name="playback_not_kept">Internet yo‘q va bu sura telefonda saqlanmagan. Qiroatni Sozlamalar › Oflayn bo‘limida saqlang.</string>
     <string name="voice_download_failed">Ovoz modelini yuklab bo‘lmadi. Internetni tekshirib, qayta urining.</string>
     <string name="voice_no_space">Telefonda ovoz modeli uchun joy yetarli emas (taxminan 100 MB).</string>

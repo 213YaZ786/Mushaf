@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">Nafasi</string>
+    <string name="spacing_airy">Wazi</string>
+    <string name="spacing_compact">Bana</string>
+    <string name="spacing_detail">ukurasa, na aya pamoja na maana yake</string>
+    <string name="revelation_order">mpangilio wa kushuka %1$d</string>
     <string name="playback_not_kept">Hakuna mtandao, na sura hii haijahifadhiwa kwenye simu. Hifadhi kisomo kwenye Mipangilio › Nje ya mtandao.</string>
     <string name="voice_download_failed">Modeli ya sauti haikuweza kupakuliwa. Angalia mtandao kisha ujaribu tena.</string>
     <string name="voice_no_space">Hakuna nafasi ya kutosha kwenye simu kwa modeli ya sauti (takriban MB 100).</string>

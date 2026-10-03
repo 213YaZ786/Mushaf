@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">ব্যবধান</string>
+    <string name="spacing_airy">খোলামেলা</string>
+    <string name="spacing_compact">ঘন</string>
+    <string name="spacing_detail">পৃষ্ঠা, এবং অর্থসহ আয়াত</string>
+    <string name="revelation_order">অবতরণের ক্রম %1$d</string>
     <string name="playback_not_kept">সংযোগ নেই, এবং এই সূরাটি ফোনে রাখা নেই। সেটিংস › অফলাইনে তিলাওয়াতটি রাখুন।</string>
     <string name="voice_download_failed">ভয়েস মডেল ডাউনলোড করা যায়নি। সংযোগ পরীক্ষা করে আবার চেষ্টা করুন।</string>
     <string name="voice_no_space">ভয়েস মডেলের জন্য ফোনে যথেষ্ট জায়গা নেই (প্রায় 100 MB)।</string>

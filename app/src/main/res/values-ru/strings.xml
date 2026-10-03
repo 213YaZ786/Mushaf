@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="spacing">Интервалы</string>
+    <string name="spacing_airy">Просторно</string>
+    <string name="spacing_compact">Плотно</string>
+    <string name="spacing_detail">страница и аяты со смыслом</string>
+    <string name="revelation_order">порядок ниспослания %1$d</string>
     <string name="playback_not_kept">Нет подключения, а эта сура не сохранена на телефоне. Сохраните чтение в Настройки › Офлайн.</string>
     <string name="voice_download_failed">Не удалось загрузить голосовую модель. Проверьте подключение и повторите.</string>
     <string name="voice_no_space">Недостаточно места на телефоне для голосовой модели (около 100 МБ).</string>

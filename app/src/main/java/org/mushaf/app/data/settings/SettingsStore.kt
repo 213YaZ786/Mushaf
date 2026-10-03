@@ -45,6 +45,8 @@ data class Settings(
     val translations: List<String> = listOf("qc:20"),
     /** Each word with its own meaning, under it, when reading with the meaning. */
     val wordByWord: Boolean = true,
+    /** Room around the lines and between the ayat (airy), or as much text as fits (compact). */
+    val airy: Boolean = true,
     /** The book of tafsir opened last. */
     val tafsir: Int = 169,
     /** The reciter heard (Quran.com's id), Mishari al-Afasy first. */

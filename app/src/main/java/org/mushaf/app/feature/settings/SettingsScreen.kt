@@ -69,7 +69,7 @@ import org.mushaf.app.ui.icon.AppIcons
 import org.mushaf.app.ui.theme.TEXT_SCALES
 import org.mushaf.app.ui.theme.textScaleLabel
 
-private enum class OpenDialog { NONE, RIWAYAH, REMINDER_TIME, SCRIPT, THEME, TEXT_SIZE, UPDATES, LANGUAGE }
+private enum class OpenDialog { NONE, RIWAYAH, REMINDER_TIME, SCRIPT, THEME, TEXT_SIZE, UPDATES, LANGUAGE, SPACING }
 
 /** The app's languages, each named in itself; "" follows the phone. */
 private val APP_LANGUAGES = listOf(
@@ -207,6 +207,11 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                     onChange = { on -> store.update { it.copy(glass = on) } }
                 )
                 SettingRow(stringResource(R.string.text_size), textScaleLabel(settings.textScale) + " · " + stringResource(R.string.text_size_detail), onClick = { dialog = OpenDialog.TEXT_SIZE })
+                SettingRow(
+                    stringResource(R.string.spacing),
+                    stringResource(if (settings.airy) R.string.spacing_airy else R.string.spacing_compact) + " · " + stringResource(R.string.spacing_detail),
+                    onClick = { dialog = OpenDialog.SPACING }
+                )
             }
 
             Section(stringResource(R.string.app)) {
@@ -289,6 +294,13 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
             options = listOf("" to stringResource(R.string.language_system)) + APP_LANGUAGES,
             selected = AppLanguage.current(context),
             onSelect = { tag -> dialog = OpenDialog.NONE; AppLanguage.set(context, tag) },
+            onDismiss = { dialog = OpenDialog.NONE }
+        )
+        OpenDialog.SPACING -> ChoiceDialog(
+            title = stringResource(R.string.spacing),
+            options = listOf(true to stringResource(R.string.spacing_airy), false to stringResource(R.string.spacing_compact)),
+            selected = settings.airy,
+            onSelect = { a -> store.update { it.copy(airy = a) } },
             onDismiss = { dialog = OpenDialog.NONE }
         )
         OpenDialog.NONE -> Unit
