@@ -29,8 +29,9 @@ to learn it by heart. No account, no tracking, no ads.
 - Share an ayah as an image, in the mushaf's script, with its meaning or not.
 - Home-screen widgets: a du'a from the Quran each day, the khatmah, reading on.
 - Everything can be kept on the phone to read and listen offline.
-- In English, Arabic, Bengali, Dutch, French, German, Indonesian, Italian, Kabyle,
-  Malay, Persian, Portuguese, Russian, Spanish, Turkish and Urdu,
+- In English, Albanian, Arabic, Azerbaijani, Bengali, Bosnian, Dutch, French,
+  German, Hindi, Indonesian, Italian, Kabyle, Malay, Persian, Portuguese,
+  Russian, Spanish, Swahili, Turkish, Urdu and Uzbek,
   following the phone or chosen in Settings.
 
 ## Install

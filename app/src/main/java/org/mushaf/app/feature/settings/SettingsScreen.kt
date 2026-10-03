@@ -73,10 +73,11 @@ private enum class OpenDialog { NONE, RIWAYAH, REMINDER_TIME, SCRIPT, THEME, TEX
 
 /** The app's languages, each named in itself; "" follows the phone. */
 private val APP_LANGUAGES = listOf(
-    "en" to "English", "ar" to "العربية", "bn" to "বাংলা", "de" to "Deutsch", "es" to "Español",
-    "fa" to "فارسی", "fr" to "Français", "id" to "Bahasa Indonesia", "it" to "Italiano", "kab" to "Taqbaylit",
-    "ms" to "Bahasa Melayu", "nl" to "Nederlands", "pt" to "Português", "ru" to "Русский", "tr" to "Türkçe",
-    "ur" to "اردو"
+    "en" to "English", "ar" to "العربية", "az" to "Azərbaycanca", "bn" to "বাংলা", "bs" to "Bosanski",
+    "de" to "Deutsch", "es" to "Español", "fa" to "فارسی", "fr" to "Français", "hi" to "हिन्दी",
+    "id" to "Bahasa Indonesia", "it" to "Italiano", "kab" to "Taqbaylit", "ms" to "Bahasa Melayu",
+    "nl" to "Nederlands", "pt" to "Português", "ru" to "Русский", "sq" to "Shqip", "sw" to "Kiswahili",
+    "tr" to "Türkçe", "ur" to "اردو", "uz" to "Oʻzbekcha"
 )
 
 /** The app's own language, kept by Android (13 and later). */
