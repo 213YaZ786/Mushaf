@@ -56,6 +56,11 @@ import androidx.core.view.WindowInsetsControllerCompat
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.runtime.mutableFloatStateOf
+import androidx.compose.ui.input.pointer.PointerEventPass
+import androidx.compose.foundation.gestures.awaitFirstDown
+import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.layout.widthIn
 import androidx.compose.ui.text.style.TextOverflow
 import org.mushaf.app.feature.common.IconControl
@@ -203,6 +208,8 @@ fun MushafScreen(
         val current = pager.currentPage * perItem + 1
         val settled = !pager.isScrollInProgress
         val paper = MaterialTheme.colorScheme.surface
+        // Where the page was last taken, as a fraction of its height: low by default, the corner.
+        var grab by remember { mutableFloatStateOf(0.9f) }
         val dark = MaterialTheme.colorScheme.background.luminance() < 0.5f
 
         // The page shown is remembered; the fonts of the pages around it are fetched ahead.
@@ -384,13 +391,21 @@ fun MushafScreen(
                 HorizontalPager(
                     state = pager,
                     beyondViewportPageCount = 1,
-                    modifier = Modifier.fillMaxSize()
+                    modifier = Modifier
+                        .fillMaxSize()
+                        // Where the finger takes the page: the fold follows it. Watched only, never taken from the pager.
+                        .pointerInput(Unit) {
+                            awaitEachGesture {
+                                val down = awaitFirstDown(requireUnconsumed = false, pass = PointerEventPass.Initial)
+                                if (size.height > 0) grab = (down.position.y / size.height).coerceIn(0f, 1f)
+                            }
+                        }
                 ) { item ->
                     CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Ltr) {
                         Row(
                             Modifier
                                 .fillMaxSize()
-                                .then(if (reduce) Modifier else Modifier.pageTurn(pager, item, paper))
+                                .then(if (reduce) Modifier else Modifier.pageCurl(pager, item, paper) { grab })
                                 .padding(bars)
                                 .padding(horizontal = if (spread) 24.dp else 12.dp, vertical = 8.dp),
                             horizontalArrangement = Arrangement.spacedBy(32.dp)
@@ -468,47 +483,6 @@ fun MushafScreen(
         }
     }
 }
-
-/**
- * The page turned as paper: held in place, it lifts from the spine on its
- * right and turns over the next one, which waits beneath in the shadow it
- * casts. Follows the finger; let go early, it falls back.
- */
-private fun Modifier.pageTurn(pager: PagerState, item: Int, paper: Color): Modifier = this
-    .zIndex(-item.toFloat())
-    .graphicsLayer {
-        // 0 at rest, 0 to 1 while this page turns away, -1 to 0 while it waits beneath.
-        val off = (pager.currentPage - item) + pager.currentPageOffsetFraction
-        if (off == 0f || off <= -1f || off >= 1f) return@graphicsLayer
-        // The pager slides its pages (right to left); here they keep still.
-        translationX = -off * size.width
-        if (off > 0f) {
-            transformOrigin = TransformOrigin(1f, 0.5f)
-            cameraDistance = 60f * density
-            rotationY = TURN_SIGN * 90f * off
-        }
-    }
-    .drawWithContent {
-        val off = (pager.currentPage - item) + pager.currentPageOffsetFraction
-        if (off > 0f && off < 1f) {
-            // The sheet turning is opaque, and darkens as it lifts.
-            drawRect(paper)
-            drawContent()
-            drawRect(
-                Brush.horizontalGradient(0f to Color.Black.copy(alpha = 0.32f * off), 1f to Color.Transparent),
-                alpha = 1f
-            )
-        } else if (off < 0f && off > -1f) {
-            drawContent()
-            // The shadow the lifted page casts, strongest half way.
-            val lift = 1f + off
-            val k = 4f * lift * (1f - lift)
-            drawRect(Brush.horizontalGradient(0f to Color.Transparent, 0.55f to Color.Transparent, 1f to Color.Black.copy(alpha = 0.22f * k)))
-        } else drawContent()
-    }
-
-/** Which way rotationY lifts the page's free edge toward the reader. */
-private const val TURN_SIGN = 1f
 
 /** The surah the page starts in. */
 private fun pageSurah(pageStart: List<String>, page: Int): Int? =
