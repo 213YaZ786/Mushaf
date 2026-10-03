@@ -43,7 +43,14 @@ class Reader(private val settings: SettingsStore, private val quran: org.mushaf.
         // A page of Al-Kahf seen today: no Friday reminder for it.
         val kahf = quran.metaNow?.surahs?.getOrNull(17)?.pages
         val today = java.time.LocalDate.now().toEpochDay()
-        settings.update { it.copy(page = p, kahfDay = if (kahf != null && p in kahf.first()..kahf.last()) today else it.kahfDay) }
+        settings.update {
+            it.copy(
+                page = p,
+                kahfDay = if (kahf != null && p in kahf.first()..kahf.last()) today else it.kahfDay,
+                // A page turned: today is a day read.
+                readDays = if (today in it.readDays) it.readDays else (it.readDays + today).takeLast(400)
+            )
+        }
     }
 
     fun go(page: Int, mark: AyahKey? = null) {

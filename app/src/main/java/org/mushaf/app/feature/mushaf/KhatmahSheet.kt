@@ -29,6 +29,13 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import org.koin.compose.koinInject
+import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.draw.clip
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.border
+import androidx.compose.foundation.background
+import org.mushaf.app.data.settings.SettingsStore
+import org.mushaf.app.core.reading.Days
 import org.mushaf.app.feature.common.TextControl
 import org.mushaf.app.feature.common.EvenRows
 import org.mushaf.app.core.quran.PAGES
@@ -68,6 +75,8 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
                     FloatingAction(AppIcons.Close, "Close", onClose)
                 }
                 Spacer(Modifier.size(8.dp))
+                DaysRead()
+                Spacer(Modifier.size(14.dp))
                 val p = plan
                 when {
                     p == null -> {
@@ -149,4 +158,61 @@ fun KhatmahSheet(page: Int, onGo: (Int) -> Unit, onClose: () -> Unit) {
         confirmButton = { TextButton(onClick = { khatmah.end(); ending = false }) { Text("End") } },
         dismissButton = { TextButton(onClick = { ending = false }) { Text("Keep it") } }
     )
+}
+
+/** The days a page was turned: the streak, and the last five weeks. */
+@Composable
+private fun DaysRead() {
+    val store: SettingsStore = koinInject()
+    val settings by store.settings.collectAsState()
+    val today = remember { java.time.LocalDate.now().toEpochDay() }
+    val locale = java.util.Locale.getDefault()
+    val firstDay = remember(locale) { java.time.temporal.WeekFields.of(locale).firstDayOfWeek.value }
+    val weeks = remember(today, firstDay) { Days.calendar(today, 5, firstDay) }
+    val read = settings.readDays.toHashSet()
+    val streak = Days.streak(settings.readDays, today)
+    val scheme = MaterialTheme.colorScheme
+    Text(
+        when (streak) {
+            0 -> "Turn a page to start a streak."
+            1 -> "1 day read in a row"
+            else -> "$streak days read in a row"
+        },
+        style = MaterialTheme.typography.bodyMedium,
+        color = scheme.onSurfaceVariant
+    )
+    Spacer(Modifier.size(8.dp))
+    Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+        Row(horizontalArrangement = Arrangement.spacedBy(4.dp)) {
+            for (d in weeks.first()) {
+                Text(
+                    java.time.LocalDate.ofEpochDay(d).dayOfWeek.getDisplayName(java.time.format.TextStyle.NARROW, locale),
+                    style = MaterialTheme.typography.labelSmall,
+                    color = scheme.onSurfaceVariant,
+                    textAlign = TextAlign.Center,
+                    modifier = Modifier.weight(1f)
+                )
+            }
+        }
+        for (week in weeks) Row(horizontalArrangement = Arrangement.spacedBy(4.dp)) {
+            for (d in week) {
+                val on = d in read
+                Box(
+                    Modifier
+                        .weight(1f)
+                        .height(22.dp)
+                        .clip(RoundedCornerShape(6.dp))
+                        .background(if (on) scheme.primary else scheme.surfaceVariant.copy(alpha = if (d > today) 0.25f else 0.7f))
+                        .then(if (d == today) Modifier.border(1.5.dp, scheme.primary, RoundedCornerShape(6.dp)) else Modifier),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Text(
+                        java.time.LocalDate.ofEpochDay(d).dayOfMonth.toString(),
+                        style = MaterialTheme.typography.labelSmall,
+                        color = if (on) scheme.onPrimary else scheme.onSurfaceVariant
+                    )
+                }
+            }
+        }
+    }
 }

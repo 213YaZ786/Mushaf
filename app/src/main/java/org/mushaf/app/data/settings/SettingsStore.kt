@@ -73,7 +73,9 @@ data class Settings(
     /** A reminder of Surah Al-Kahf on Friday mornings. */
     val kahf: Boolean = true,
     /** The last day a page of Al-Kahf was shown (epoch day). */
-    val kahfDay: Long = -1
+    val kahfDay: Long = -1,
+    /** The days a page was turned (epoch days), the last 400. */
+    val readDays: List<Long> = emptyList()
 )
 
 /**
