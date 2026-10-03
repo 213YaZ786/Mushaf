@@ -178,7 +178,7 @@
     <string name="hizb">Hizblər</string>
     <string name="saved">Saxlanılanlar</string>
     <string name="nothing_heard">heç nə eşidilmədi</string>
-    <string name="juz_n">%1$d-ci cüz</string>
+    <string name="juz_n">Cüz %1$d</string>
     <string name="nothing_found">“%1$s” üçün heç nə tapılmadı</string>
     <string name="page_title">Səhifə %1$d</string>
     <string name="open_the_page">Səhifəni aç</string>
@@ -225,12 +225,12 @@
     <string name="share_caption">%1$s · Mushaf</string>
     <string name="note_on">%1$s üçün qeyd</string>
     <string name="pages_per_day">%1$d səh./gün</string>
-    <string name="from_page">%1$d-ci səhifədən</string>
+    <string name="from_page">Başlanğıc: səhifə %1$d</string>
     <string name="khatmah_progress">Gün %1$d / %2$d · %4$d səhifədən %3$d oxundu</string>
     <string name="today_done_next">Bugünkü səhifələr oxundu. Növbəti: səhifə %1$d, %2$s.</string>
     <string name="today_page">Bu gün: səhifə %1$d, %2$s.</string>
     <string name="today_pages">Bu gün: səhifələr %1$d–%2$d, %3$s-dən.</string>
-    <string name="go_to_page">%1$d-ci səhifəyə keç</string>
+    <string name="go_to_page">Keçid: səhifə %1$d</string>
     <string name="streak_none">Ardıcıllığa başlamaq üçün səhifə çevirin.</string>
     <string name="offer_recitation">%1$s tərəfindən bütün Quranın qiraəti, bağlantısız dinləmək üçün telefonda saxlanılır. Arxa planda yüklənir.</string>
     <string name="offer_recitation_wifi">%1$s tərəfindən bütün Quranın qiraəti, bağlantısız dinləmək üçün telefonda saxlanılır. Arxa planda, Wi-Fi ilə yüklənir.</string>
@@ -352,11 +352,11 @@
     <string name="size_large">Böyük</string>
     <string name="size_largest">Ən böyük</string>
     <string name="kahf_title">Cümə: Kəhf surəsi</string>
-    <string name="kahf_text">%1$d-ci səhifədə açılır.</string>
+    <string name="kahf_text">Açılır: səhifə %1$d.</string>
     <string name="remind_khatmah_pages">Xətm: bu gün səhifələr %1$d–%2$d, %3$s-dən.</string>
     <string name="remind_khatmah_page">Xətm: bu gün səhifə %1$d, %2$s.</string>
     <string name="remind_continue_at">%1$s, səhifə %2$d ilə davam edin.</string>
-    <string name="remind_continue_page">%1$d-ci səhifədən davam edin.</string>
+    <string name="remind_continue_page">Davam edin: səhifə %1$d.</string>
     <string name="remind_lesson">Dərs: %1$s</string>
     <string name="mushaf_tajweed_pages">Təcvid rəngli mushaf</string>
     <string name="mushaf_pages_title">Mushaf səhifələri</string>
