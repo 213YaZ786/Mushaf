@@ -1,5 +1,7 @@
 package org.mushaf.app.feature.mushaf
 
+import org.mushaf.app.core.reading.Hijri
+import java.text.NumberFormat
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -10,6 +12,7 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
+import androidx.compose.ui.unit.sp
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.shape.CircleShape
@@ -183,7 +186,14 @@ private fun DaysRead() {
         style = MaterialTheme.typography.bodyMedium,
         color = scheme.onSurfaceVariant
     )
-    Spacer(Modifier.size(8.dp))
+    // The Hijri months these weeks fall in.
+    Text(
+        remember(weeks, locale) { Hijri.months(weeks.first().first(), weeks.last().last(), locale) },
+        style = MaterialTheme.typography.labelLarge,
+        color = scheme.primary,
+        modifier = Modifier.padding(top = 6.dp)
+    )
+    Spacer(Modifier.size(6.dp))
     Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
         Row(horizontalArrangement = Arrangement.spacedBy(4.dp)) {
             for (d in weeks.first()) {
@@ -202,17 +212,25 @@ private fun DaysRead() {
                 Box(
                     Modifier
                         .weight(1f)
-                        .height(22.dp)
+                        .height(34.dp)
                         .clip(RoundedCornerShape(6.dp))
                         .background(if (on) scheme.primary else scheme.surfaceVariant.copy(alpha = if (d > today) 0.25f else 0.7f))
                         .then(if (d == today) Modifier.border(1.5.dp, scheme.primary, RoundedCornerShape(6.dp)) else Modifier),
                     contentAlignment = Alignment.Center
                 ) {
-                    Text(
-                        java.time.LocalDate.ofEpochDay(d).dayOfMonth.toString(),
-                        style = MaterialTheme.typography.labelSmall,
-                        color = if (on) scheme.onPrimary else scheme.onSurfaceVariant
-                    )
+                    // The Hijri day, the Gregorian one small under it.
+                    Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                        Text(
+                            remember(d, locale) { NumberFormat.getInstance(locale).format(Hijri.day(d, locale)) },
+                            style = MaterialTheme.typography.labelMedium,
+                            color = if (on) scheme.onPrimary else scheme.onSurface
+                        )
+                        Text(
+                            remember(d, locale) { NumberFormat.getInstance(locale).format(java.time.LocalDate.ofEpochDay(d).dayOfMonth) },
+                            style = MaterialTheme.typography.labelSmall.copy(fontSize = 8.sp, lineHeight = 9.sp),
+                            color = (if (on) scheme.onPrimary else scheme.onSurfaceVariant).copy(alpha = 0.75f)
+                        )
+                    }
                 }
             }
         }
