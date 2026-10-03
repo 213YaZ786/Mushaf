@@ -238,6 +238,18 @@ fun MushafScreen(
         // Cream: the warm paper and brown-black ink of a printed mushaf (a warm dusk in the dark).
         val cream = if (!settings.cream) null else if (dark) CREAM_DARK else CREAM
         val paper = cream?.first ?: MaterialTheme.colorScheme.surface
+        // The page in the phone's own colours (Material You): its main tone at the top
+        // fading into its second one, clear enough to see, soft enough to read on.
+        val scheme = MaterialTheme.colorScheme
+        val tint = remember(scheme, dark) {
+            androidx.compose.ui.graphics.Brush.linearGradient(
+                listOf(
+                    scheme.primaryContainer.copy(alpha = if (dark) 0.30f else 0.55f),
+                    scheme.secondaryContainer.copy(alpha = if (dark) 0.18f else 0.35f),
+                    scheme.tertiaryContainer.copy(alpha = if (dark) 0.26f else 0.50f)
+                )
+            )
+        }
         // Where the page was last taken, as a fraction of its height: low by default, the corner.
         var grab by remember { mutableFloatStateOf(0.9f) }
 
@@ -430,7 +442,7 @@ fun MushafScreen(
                     beyondViewportPageCount = 1,
                     modifier = Modifier
                         .fillMaxSize()
-                        .then(if (cream != null) Modifier.background(cream.first) else Modifier)
+                        .then(if (cream != null) Modifier.background(cream.first) else Modifier.background(tint))
                         // Where the finger takes the page: the fold follows it. Watched only, never taken from the pager.
                         .pointerInput(Unit) {
                             awaitEachGesture {
