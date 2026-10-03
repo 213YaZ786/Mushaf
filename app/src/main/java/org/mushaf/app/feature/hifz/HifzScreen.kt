@@ -38,6 +38,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.lerp
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
 import androidx.compose.foundation.layout.width
@@ -78,7 +79,7 @@ private enum class Known(val label: String) {
  */
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-fun HifzScreen(onBack: () -> Unit, onOpenMushaf: () -> Unit) {
+fun HifzScreen(onBack: () -> Unit, onOpenMushaf: () -> Unit, onOpenTest: () -> Unit, onOpenSimilar: () -> Unit) {
     val hifz: Hifz = koinInject()
     val session: HifzSession = koinInject()
     val quran: Quran = koinInject()
@@ -124,6 +125,13 @@ fun HifzScreen(onBack: () -> Unit, onOpenMushaf: () -> Unit) {
                 }
             } else {
                 Today(hifz, session, onOpenMushaf)
+                Section("Test yourself") {
+                    EvenRows(Modifier.padding(12.dp), minSlot = 140.dp) {
+                        TextControl("Continue the ayah", onOpenTest, accent = true)
+                        TextControl("Similar ayat", onOpenSimilar)
+                    }
+                }
+                Slipped(hifz, session, onOpenMushaf)
                 Section("The pages") { PageMap(hifz, onOpenMushaf) }
             }
             Spacer(Modifier.height(24.dp))
@@ -286,5 +294,51 @@ private fun PageMap(hifz: Hifz, onOpenMushaf: () -> Unit) {
             }
         }
     }
+    }
+}
+
+/**
+ * The words that slipped most while reciting from memory, the ayat to
+ * revise first: a tap revises their page.
+ */
+@Composable
+private fun Slipped(hifz: Hifz, session: HifzSession, onOpenMushaf: () -> Unit) {
+    val quran: Quran = koinInject()
+    val state by hifz.state.collectAsState()
+    val scope = rememberCoroutineScope()
+    val haptics = rememberHaptics()
+    val font = org.mushaf.app.ui.theme.quranFont()
+    val top = remember(state.slips) { state.slips.sortedWith(compareByDescending<org.mushaf.app.data.hifz.Slip> { it.count }.thenByDescending { it.last }).take(8) }
+    if (top.isEmpty()) return
+    val rows by produceState<List<Triple<org.mushaf.app.data.hifz.Slip, String, Int>>>(emptyList(), top) {
+        value = top.mapNotNull { s ->
+            val page = runCatching { quran.pageOf(s.key) }.getOrNull() ?: return@mapNotNull null
+            val word = quran.page(page).words.firstOrNull { it.key == s.key && it.position == s.position }?.text ?: return@mapNotNull null
+            Triple(s, word, page)
+        }
+    }
+    Section("Words that slipped") {
+        Column(Modifier.padding(horizontal = 12.dp, vertical = 8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            for ((s, word, page) in rows) {
+                val surah by produceState("", s.key.surah) { value = quran.surah(s.key.surah).name }
+                ZoneSurface(
+                    shape = RoundedCornerShape(20.dp),
+                    onClick = { haptics.tick(); scope.launch { session.startRevision(page); onOpenMushaf() } },
+                    modifier = Modifier.fillMaxWidth()
+                ) {
+                    Row(Modifier.padding(horizontal = 16.dp, vertical = 10.dp), verticalAlignment = Alignment.CenterVertically) {
+                        Column(Modifier.weight(1f)) {
+                            Text("$surah ${s.key}", style = MaterialTheme.typography.titleSmall)
+                            Text(
+                                if (s.count == 1) "Slipped once · page $page" else "Slipped ${s.count} times · page $page",
+                                style = MaterialTheme.typography.bodySmall,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant
+                            )
+                        }
+                        Text(word, style = androidx.compose.ui.text.TextStyle(fontFamily = font, fontSize = 26.sp), color = MaterialTheme.colorScheme.error)
+                    }
+                }
+            }
+        }
     }
 }

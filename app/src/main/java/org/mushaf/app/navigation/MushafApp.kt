@@ -14,6 +14,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import org.koin.compose.koinInject
+import org.mushaf.app.feature.hifz.SimilarScreen
+import org.mushaf.app.feature.hifz.TestScreen
 import androidx.compose.runtime.LaunchedEffect
 import org.mushaf.app.data.sources.Sources
 import androidx.compose.runtime.rememberCoroutineScope
@@ -51,6 +53,8 @@ private object Routes {
     const val OFFLINE = "offline"
     const val WELCOME = "welcome"
     const val HIFZ = "hifz"
+    const val HIFZ_TEST = "hifz/test"
+    const val HIFZ_SIMILAR = "hifz/similar"
     const val PLAY = "play"
     const val GAMES = "play/{s}"
     fun games(s: Int) = "play/$s"
@@ -109,9 +113,28 @@ fun MushafApp() {
             ReadableScroll {
                 HifzScreen(
                     onBack = { navController.popBackStack() },
-                    onOpenMushaf = { navController.popBackStack(Routes.MUSHAF, inclusive = false) }
+                    onOpenMushaf = { navController.popBackStack(Routes.MUSHAF, inclusive = false) },
+                    onOpenTest = { navController.navigate(Routes.HIFZ_TEST) },
+                    onOpenSimilar = { navController.navigate(Routes.HIFZ_SIMILAR) }
                 )
             }
+        }
+        composable(Routes.HIFZ_TEST) {
+            TestScreen(onBack = { navController.popBackStack() })
+        }
+        composable(Routes.HIFZ_SIMILAR) {
+            val reader: org.mushaf.app.feature.mushaf.Reader = org.koin.compose.koinInject()
+            val quran: org.mushaf.app.data.quran.Quran = org.koin.compose.koinInject()
+            val scope = androidx.compose.runtime.rememberCoroutineScope()
+            SimilarScreen(
+                onBack = { navController.popBackStack() },
+                onOpen = { k ->
+                    scope.launch {
+                        reader.go(quran.pageOf(k), k)
+                        navController.popBackStack(Routes.MUSHAF, inclusive = false)
+                    }
+                }
+            )
         }
         composable(Routes.MEANING, arguments = keyArgs) { entry ->
             val reader: Reader = koinInject()
