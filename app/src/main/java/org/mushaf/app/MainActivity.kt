@@ -15,4 +15,19 @@ class MainActivity : ComponentActivity() {
             MushafSurface { MushafApp() }
         }
     }
+
+    override fun onStart() {
+        super.onStart()
+        Shown.now = true
+    }
+
+    override fun onStop() {
+        Shown.now = false
+        super.onStop()
+    }
+}
+
+/** Whether the app is on screen: out of sight, nothing is followed word by word. */
+object Shown {
+    @Volatile var now = false
 }

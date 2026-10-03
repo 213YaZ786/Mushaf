@@ -114,7 +114,7 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                 )
                 SwitchRow(
                     title = "Keep the screen on",
-                    summary = "While a page is shown.",
+                    summary = "While you read; it sleeps after 10 minutes without a touch, unless a recitation plays.",
                     checked = settings.keepScreenOn,
                     onChange = { on -> store.update { it.copy(keepScreenOn = on) } }
                 )

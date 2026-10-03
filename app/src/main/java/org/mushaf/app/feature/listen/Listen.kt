@@ -19,6 +19,7 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.isActive
 import kotlinx.coroutines.launch
+import org.mushaf.app.Shown
 import kotlinx.coroutines.suspendCancellableCoroutine
 import org.mushaf.app.core.audio.AyahTime
 import org.mushaf.app.core.audio.Heard
@@ -254,7 +255,12 @@ class Listen(
                     }
                     _state.update { it.copy(heard = heard) }
                 }
-                delay(50)
+                // On screen the word heard is lit, so the voice is followed closely; out of sight
+                // (screen off, another app) only the end of the ayah matters: one wake-up per ayah.
+                delay(
+                    if (Shown.now || heard == null) 50L
+                    else ((heard.ayah.to - c.currentPosition) / c.playbackParameters.speed).toLong().coerceIn(50L, 2_000L)
+                )
             }
         }
     }

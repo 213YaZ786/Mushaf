@@ -56,6 +56,7 @@ import androidx.core.view.WindowInsetsControllerCompat
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import androidx.compose.runtime.mutableLongStateOf
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.runtime.mutableFloatStateOf
 import androidx.compose.ui.input.pointer.PointerEventPass
@@ -192,10 +193,28 @@ fun MushafScreen(
 
     LaunchedEffect(Unit) { reader.read() }
 
-    KeepScreenOn(settings.keepScreenOn)
+    // The screen stays on while reading, and lets go after ten minutes without a touch,
+    // unless a recitation or a hifz session goes on: a phone left aside sleeps.
+    var touched by remember { mutableLongStateOf(System.currentTimeMillis()) }
+    var idle by remember { mutableStateOf(false) }
+    LaunchedEffect(touched) {
+        idle = false
+        delay(10 * 60_000L)
+        idle = true
+    }
+    KeepScreenOn(settings.keepScreenOn && (!idle || heard.active || session != null))
     SystemBars(visible = chrome || opened != null)
 
-    BoxWithConstraints(Modifier.fillMaxSize()) {
+    BoxWithConstraints(
+        Modifier
+            .fillMaxSize()
+            .pointerInput(Unit) {
+                awaitEachGesture {
+                    awaitFirstDown(requireUnconsumed = false, pass = PointerEventPass.Initial)
+                    touched = System.currentTimeMillis()
+                }
+            }
+    ) {
         // Two pages need a tablet's height too; a phone on its side shows one
         // page across its width, scrolled down like a page held close.
         val spread = settings.twoPages && maxWidth > maxHeight && maxWidth >= 700.dp && maxHeight >= 500.dp
