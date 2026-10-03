@@ -49,6 +49,8 @@ data class Settings(
     val airy: Boolean = true,
     /** The page on cream, warm like a printed mushaf, instead of the wallpaper's light. */
     val cream: Boolean = false,
+    /** After each ayah the recitation waits as long as the ayah lasted, for the reader to say it after. */
+    val yourTurn: Boolean = false,
     /** The book of tafsir opened last. */
     val tafsir: Int = 169,
     /** The reciter heard (Quran.com's id), Mishari al-Afasy first. */

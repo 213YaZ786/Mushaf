@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_turn_now">Giliran Anda: ucapkan ayatnya, lalu bacaan berlanjut.</string>
     <string name="sajdah">Sajdah</string>
     <string name="cream_page">Halaman krem</string>
     <string name="cream_page_detail">Kertas dan tinta yang hangat, seperti mushaf cetak, siang dan malam.</string>

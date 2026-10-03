@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_turn_now">Vi ste na redu: proučite ajet, zatim se učenje nastavlja.</string>
     <string name="sajdah">Sedžda</string>
     <string name="cream_page">Krem stranica</string>
     <string name="cream_page_detail">Topli papir i mastilo, kao štampani mushaf, danju i noću.</string>

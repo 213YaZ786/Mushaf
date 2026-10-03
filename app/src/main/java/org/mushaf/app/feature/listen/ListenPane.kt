@@ -102,6 +102,7 @@ fun ListenPane(modifier: Modifier = Modifier) {
                     }
                     Text(
                         when {
+                            state.yourTurn -> stringResource(R.string.your_turn_now)
                             state.failed && state.notKept -> stringResource(R.string.playback_not_kept)
                             state.failed -> stringResource(R.string.playback_failed)
                             state.key != null -> listOfNotNull(
@@ -138,6 +139,11 @@ fun ListenPane(modifier: Modifier = Modifier) {
                     haptics.tick()
                     listen.setRepeat(REPEATS[(REPEATS.indexOf(settings.repeat) + 1) % REPEATS.size])
                 })
+                // The reader's turn after each ayah, to say it after the reciter.
+                TextControl(stringResource(R.string.your_turn), {
+                    haptics.toggle(!settings.yourTurn)
+                    listen.setYourTurn(!settings.yourTurn)
+                }, accent = settings.yourTurn)
                 TextControl("${settings.speed}×".replace(".0×", "×"), {
                     haptics.tick()
                     listen.setSpeed(SPEEDS[(SPEEDS.indexOf(settings.speed).coerceAtLeast(0) + 1) % SPEEDS.size])

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_turn_now">Tocca a te: recita il versetto, poi la recitazione riprende.</string>
     <string name="sajdah">Prosternazione</string>
     <string name="cream_page">Pagina crema</string>
     <string name="cream_page_detail">Carta e inchiostro caldi, come un mushaf stampato, di giorno e di notte.</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_turn_now">D tikkelt-ik: ini-d tayett, sakin taɣuri ad tkemmel.</string>
     <string name="sajdah">Sujud</string>
     <string name="cream_page">Asebter d awraɣ afessas</string>
     <string name="cream_page_detail">Akaɣeḍ d lmidad yeḥman, am lmesḥef yettwasiggzen, deg wass d yiḍ.</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_turn_now">Du bist dran: sprich den Vers, dann geht die Rezitation weiter.</string>
     <string name="sajdah">Niederwerfung</string>
     <string name="cream_page">Cremefarbene Seite</string>
     <string name="cream_page_detail">Warmes Papier und Tinte wie ein gedruckter Mushaf, bei Tag und bei Nacht.</string>

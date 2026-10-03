@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="your_turn_now">आपकी बारी: आयत पढ़ें, फिर तिलावत आगे चलेगी।</string>
     <string name="sajdah">सजदा</string>
     <string name="cream_page">क्रीम पृष्ठ</string>
     <string name="cream_page_detail">छपे मुसहफ़ जैसा गर्म काग़ज़ और स्याही, दिन और रात।</string>

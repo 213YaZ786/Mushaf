@@ -48,7 +48,9 @@ data class ListenState(
     val notKept: Boolean = false,
     val heard: Heard? = null,
     /** How many more times the ayah being heard comes again. */
-    val repeatsLeft: Int = 0
+    val repeatsLeft: Int = 0,
+    /** Silent after an ayah, for the reader to say it. */
+    val yourTurn: Boolean = false
 ) {
     val key: AyahKey? get() = heard?.ayah?.key
 }
@@ -72,6 +74,8 @@ class Listen(
     private var controller: MediaController? = null
     private var audio: SurahAudio? = null
     private var ticker: Job? = null
+    /** True while the recitation is quiet for the reader's turn: the pause is ours, the loop goes on. */
+    private var turnPause = false
     /** The ayah whose repeats are being counted. */
     private var counting: AyahKey? = null
     /** A range heard again and again, until stopped. */
@@ -101,7 +105,7 @@ class Listen(
             c.addListener(object : Player.Listener {
                 override fun onIsPlayingChanged(isPlaying: Boolean) {
                     _state.update { it.copy(playing = isPlaying) }
-                    if (isPlaying) tick() else ticker?.cancel()
+                    if (isPlaying) tick() else if (!turnPause) ticker?.cancel()
                 }
 
                 override fun onPlaybackStateChanged(playbackState: Int) {
@@ -184,6 +188,8 @@ class Listen(
 
     fun toggle() {
         val c = controller ?: return
+        // A tap during the reader's turn ends it: the recitation goes on at once.
+        if (turnPause) { turnPause = false; _state.update { it.copy(yourTurn = false) }; c.play(); return }
         if (c.isPlaying) { c.pause(); keepPlace() } else {
             c.setPlaybackSpeed(settings.current.speed)
             c.play()
@@ -191,6 +197,7 @@ class Listen(
     }
 
     fun stop() {
+        turnPause = false
         keepPlace()
         setSleep(null)
         ticker?.cancel()
@@ -214,6 +221,11 @@ class Listen(
     fun setSpeed(speed: Float) {
         settings.update { it.copy(speed = speed) }
         controller?.setPlaybackSpeed(speed)
+    }
+
+    /** Turns the reader's turn after each ayah on or off. */
+    fun setYourTurn(on: Boolean) {
+        settings.update { it.copy(yourTurn = on) }
     }
 
     fun setRepeat(times: Int) {
@@ -252,8 +264,19 @@ class Listen(
                         break
                     }
                     if (heard.ayah.key != counting) {
-                        // Past the end of the ayah being repeated: back to its start.
                         val prev = a.ayat.firstOrNull { it.key == counting }
+                        // The reader's turn: quiet as long as the ayah just heard, then on.
+                        if (settings.current.yourTurn && prev != null && heard.ayah.from >= prev.to) {
+                            turnPause = true
+                            _state.update { it.copy(yourTurn = true) }
+                            c.pause()
+                            delay(((prev.to - prev.from) / c.playbackParameters.speed).toLong())
+                            if (!turnPause) break
+                            turnPause = false
+                            _state.update { it.copy(yourTurn = false) }
+                            c.play()
+                        }
+                        // Past the end of the ayah being repeated: back to its start.
                         val left = _state.value.repeatsLeft
                         val r = range
                         when {
