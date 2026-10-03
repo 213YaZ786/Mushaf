@@ -18,12 +18,14 @@ from huggingface_hub import snapshot_download
 
 CPP, OPENAI, OUT = sys.argv[1:4]
 MODEL = "tarteel-ai/whisper-base-ar-quran"
+# The revision converted for the release "stt-1"; .github/workflows/upstream.yml watches for a newer one.
+REVISION = "5c3c53fdf9272c4f6ee0bee09a1e5a4a615ee25c"
 NAME = "ggml-quran-base-q8_0.bin"
 
 
 def main():
     os.makedirs(OUT, exist_ok=True)
-    src = snapshot_download(MODEL, allow_patterns=["*.json", "*.bin", "*.txt"])
+    src = snapshot_download(MODEL, revision=REVISION, allow_patterns=["*.json", "*.bin", "*.txt"])
     with tempfile.TemporaryDirectory() as work:
         # The converter takes the text context from max_length, a generation
         # setting (1024 here); the weights hold max_target_positions (448).

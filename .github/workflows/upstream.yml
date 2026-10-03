@@ -1,0 +1,69 @@
+# Once a week: is there something newer than what the app pins by hand
+# (whisper.cpp, the Tarteel speech model, the Warsh text sources)? If so,
+# an issue says which, with what is needed to pin it. Nothing changes by
+# itself: a new engine, model or text is checked before it reaches anyone.
+# Libraries from Gradle are Dependabot's.
+name: Pinned engines and texts
+
+on:
+  schedule:
+    - cron: '23 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Compare with the newest releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          issue() {
+            if gh issue list --state open --search "\"$1\" in:title" --json number -q '.[0].number' | grep -q .; then return; fi
+            gh issue create --title "$1" --body "$2"
+          }
+          newer() { [ "$1" != "$2" ] && [ "$(printf '%s\n%s\n' "$1" "$2" | sort -V | tail -1)" = "$2" ]; }
+
+          # whisper.cpp: the engine that hears a recitation, built from source.
+          pinned=$(grep -oP 'whisper.cpp/archive/refs/tags/v\K[0-9]+(\.[0-9]+)*' app/src/main/cpp/CMakeLists.txt)
+          latest=$(gh release view -R ggml-org/whisper.cpp --json tagName -q .tagName | sed 's/^v//')
+          echo "whisper.cpp pinned $pinned, latest $latest"
+          if newer "$pinned" "$latest"; then
+            curl -fsSL -o whisper.tar.gz "https://github.com/ggml-org/whisper.cpp/archive/refs/tags/v$latest.tar.gz"
+            issue "whisper.cpp $latest is out (the app uses $pinned)" \
+              "Release notes: https://github.com/ggml-org/whisper.cpp/releases/tag/v$latest"$'\n\n'"SHA-256 of the source: \`$(sha256sum whisper.tar.gz | cut -d' ' -f1)\`"$'\n\n'"To try it: set the URL and URL_HASH in app/src/main/cpp/CMakeLists.txt, then check reciting from memory and finding an ayah by voice before releasing."
+          fi
+
+          # The Quran speech model: a new revision of Tarteel's model.
+          pinned=$(grep -oP 'REVISION = "\K[0-9a-f]+' tools/convert_stt.py)
+          latest=$(curl -fsSL https://huggingface.co/api/models/tarteel-ai/whisper-base-ar-quran | python3 -c 'import json,sys; print(json.load(sys.stdin)["sha"])')
+          echo "speech model pinned $pinned, latest $latest"
+          if [ "$pinned" != "$latest" ]; then
+            issue "Tarteel's Quran model changed (revision ${latest:0:7})" \
+              "New revision: https://huggingface.co/tarteel-ai/whisper-base-ar-quran/tree/$latest"$'\n\n'"To try it: set REVISION in tools/convert_stt.py, convert, check it on recitations, publish it as a new stt release and pin its SHA-256 in assets/stt.sha256 and sources.json (signed). Phones fetch it after the update, when asked; the old one goes."
+          fi
+
+          # The Warsh text and its layout: the commits tools/warsh_data.py reads.
+          for pair in "quran-ws/quran-text:TEXT_COMMIT" "ibnhazm/KFGQPC:V10"; do
+            repo=${pair%%:*}
+            if [ "${pair##*:}" = TEXT_COMMIT ]; then
+              pinned=$(grep -oP 'TEXT_COMMIT = "\K[0-9a-f]+' tools/warsh_data.py)
+            else
+              pinned=$(grep -oP 'ibnhazm/KFGQPC/\K[0-9a-f]+' tools/warsh_data.py)
+            fi
+            latest=$(gh api "repos/$repo/commits?per_page=1" --jq '.[0].sha')
+            echo "$repo pinned $pinned, latest $latest"
+            if [ "$pinned" != "$latest" ]; then
+              issue "$repo has new commits (the app reads ${pinned:0:7})" \
+                "Changes: https://github.com/$repo/compare/$pinned...$latest"$'\n\n'"To take them: set the commit in tools/warsh_data.py, run it (it checks the text, the layout and the reading order) and tools/verify_text.py, then read a few Warsh pages before releasing."
+            fi
+          done
