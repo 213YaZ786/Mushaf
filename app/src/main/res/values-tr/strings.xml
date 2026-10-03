@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="update_available">Yeni sürüm var</string>
+    <string name="update_downloading">İndiriliyor</string>
+    <string name="update_failed">Güncelleme yüklenemedi.</string>
+    <string name="update_failed_tap">Güncelleme yüklenemedi. İndirmek için dokunun.</string>
+    <string name="update_channel">Güncelleme indirme</string>
+    <string name="updated_tap">Güncellendi. Açmak için dokunun.</string>
+    <string name="later">Daha sonra</string>
+    <string name="clear">Temizle</string>
     <string name="your_turn_now">Sıra sizde: ayeti okuyun, ardından tilavet sürer.</string>
     <string name="sajdah">Secde</string>
     <string name="cream_page">Krem sayfa</string>

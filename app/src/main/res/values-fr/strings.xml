@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="update_available">Nouvelle version disponible</string>
+    <string name="update_downloading">Téléchargement</string>
+    <string name="update_failed">La mise à jour n\'a pas pu être installée.</string>
+    <string name="update_failed_tap">La mise à jour n\'a pas pu être installée. Touchez pour la télécharger.</string>
+    <string name="update_channel">Téléchargement des mises à jour</string>
+    <string name="updated_tap">Mis à jour. Touchez pour ouvrir.</string>
+    <string name="later">Plus tard</string>
+    <string name="clear">Effacer</string>
     <string name="your_turn_now">À vous : dites l\'ayah, la récitation reprend ensuite.</string>
     <string name="sajdah">Sajda</string>
     <string name="cream_page">Page crème</string>

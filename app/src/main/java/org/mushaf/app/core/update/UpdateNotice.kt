@@ -21,7 +21,7 @@ class UpdateNotice(private val context: Context, private val version: String) {
 
     init {
         context.getSystemService(NotificationManager::class.java).createNotificationChannel(
-            NotificationChannel(CHANNEL, "Update download", NotificationManager.IMPORTANCE_LOW)
+            NotificationChannel(CHANNEL, context.getString(R.string.update_channel), NotificationManager.IMPORTANCE_LOW)
         )
     }
 
@@ -29,7 +29,7 @@ class UpdateNotice(private val context: Context, private val version: String) {
         val percent = (fraction * 100).toInt().coerceIn(0, 100)
         post(
             base()
-                .setContentText("Downloading")
+                .setContentText(context.getString(R.string.update_downloading))
                 .setProgress(100, percent, percent == 0)
                 .setOngoing(true)
                 .setOnlyAlertOnce(true)
@@ -45,7 +45,7 @@ class UpdateNotice(private val context: Context, private val version: String) {
         )
         post(
             base()
-                .setContentText("The update could not be installed. Tap to download it.")
+                .setContentText(context.getString(R.string.update_failed_tap))
                 .setContentIntent(open)
                 .setAutoCancel(true)
                 .build()

@@ -1,6 +1,8 @@
 package org.mushaf.app.ui.component
 
 import androidx.compose.animation.AnimatedVisibility
+import org.mushaf.app.R
+import androidx.compose.ui.res.stringResource
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
 import androidx.compose.animation.scaleIn
@@ -56,7 +58,7 @@ fun SearchPill(value: String, onChange: (String) -> Unit, hint: String, modifier
                     haptics.tick()
                     onChange("")
                 }) {
-                    Icon(AppIcons.Close, contentDescription = "Clear", tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                    Icon(AppIcons.Close, contentDescription = stringResource(R.string.clear), tint = MaterialTheme.colorScheme.onSurfaceVariant)
                 }
             }
             if (value.isEmpty()) Spacer(Modifier.size(48.dp))

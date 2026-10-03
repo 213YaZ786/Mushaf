@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="update_available">Toleo jipya linapatikana</string>
+    <string name="update_downloading">Inapakua</string>
+    <string name="update_failed">Sasisho halikuweza kusakinishwa.</string>
+    <string name="update_failed_tap">Sasisho halikuweza kusakinishwa. Gusa ili kulipakua.</string>
+    <string name="update_channel">Upakuaji wa masasisho</string>
+    <string name="updated_tap">Imesasishwa. Gusa ili kufungua.</string>
+    <string name="later">Baadaye</string>
+    <string name="clear">Futa</string>
     <string name="your_turn_now">Zamu yako: isome aya, kisha kisomo kinaendelea.</string>
     <string name="sajdah">Sijda</string>
     <string name="cream_page">Ukurasa wa krimu</string>

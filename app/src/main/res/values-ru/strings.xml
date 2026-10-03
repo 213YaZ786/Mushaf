@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="update_available">Доступна новая версия</string>
+    <string name="update_downloading">Загрузка</string>
+    <string name="update_failed">Не удалось установить обновление.</string>
+    <string name="update_failed_tap">Не удалось установить обновление. Нажмите, чтобы скачать его.</string>
+    <string name="update_channel">Загрузка обновлений</string>
+    <string name="updated_tap">Обновлено. Нажмите, чтобы открыть.</string>
+    <string name="later">Позже</string>
+    <string name="clear">Очистить</string>
     <string name="your_turn_now">Ваша очередь: прочитайте аят, затем чтение продолжится.</string>
     <string name="sajdah">Земной поклон</string>
     <string name="cream_page">Кремовая страница</string>

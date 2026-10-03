@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="update_available">نیا ورژن دستیاب ہے</string>
+    <string name="update_downloading">ڈاؤن لوڈ ہو رہا ہے</string>
+    <string name="update_failed">اپ ڈیٹ انسٹال نہیں ہو سکی۔</string>
+    <string name="update_failed_tap">اپ ڈیٹ انسٹال نہیں ہو سکی۔ ڈاؤن لوڈ کرنے کے لیے چھوئیں۔</string>
+    <string name="update_channel">اپ ڈیٹ ڈاؤن لوڈ</string>
+    <string name="updated_tap">اپ ڈیٹ ہو گیا۔ کھولنے کے لیے چھوئیں۔</string>
+    <string name="later">بعد میں</string>
+    <string name="clear">صاف کریں</string>
     <string name="your_turn_now">آپ کی باری: آیت پڑھیں، پھر تلاوت جاری رہے گی۔</string>
     <string name="sajdah">سجدہ</string>
     <string name="cream_page">کریم صفحہ</string>

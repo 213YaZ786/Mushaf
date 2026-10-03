@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="update_available">Yangi versiya chiqdi</string>
+    <string name="update_downloading">Yuklanmoqda</string>
+    <string name="update_failed">Yangilanishni o‘rnatib bo‘lmadi.</string>
+    <string name="update_failed_tap">Yangilanishni o‘rnatib bo‘lmadi. Yuklab olish uchun bosing.</string>
+    <string name="update_channel">Yangilanishni yuklab olish</string>
+    <string name="updated_tap">Yangilandi. Ochish uchun bosing.</string>
+    <string name="later">Keyinroq</string>
+    <string name="clear">Tozalash</string>
     <string name="your_turn_now">Sizning navbatingiz: oyatni ayting, so‘ng qiroat davom etadi.</string>
     <string name="sajdah">Sajda</string>
     <string name="cream_page">Krem sahifa</string>

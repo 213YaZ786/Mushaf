@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="update_available">Nieuwe versie beschikbaar</string>
+    <string name="update_downloading">Downloaden</string>
+    <string name="update_failed">De update kon niet worden geïnstalleerd.</string>
+    <string name="update_failed_tap">De update kon niet worden geïnstalleerd. Tik om hem te downloaden.</string>
+    <string name="update_channel">Update downloaden</string>
+    <string name="updated_tap">Bijgewerkt. Tik om te openen.</string>
+    <string name="later">Later</string>
+    <string name="clear">Wissen</string>
     <string name="your_turn_now">Jouw beurt: zeg het vers, daarna gaat de recitatie verder.</string>
     <string name="sajdah">Neerknieling</string>
     <string name="cream_page">Crèmekleurige pagina</string>

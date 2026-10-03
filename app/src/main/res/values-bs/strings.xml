@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="update_available">Dostupna je nova verzija</string>
+    <string name="update_downloading">Preuzimanje</string>
+    <string name="update_failed">Ažuriranje se nije moglo instalirati.</string>
+    <string name="update_failed_tap">Ažuriranje se nije moglo instalirati. Dodirnite da ga preuzmete.</string>
+    <string name="update_channel">Preuzimanje ažuriranja</string>
+    <string name="updated_tap">Ažurirano. Dodirnite da otvorite.</string>
+    <string name="later">Kasnije</string>
+    <string name="clear">Obriši</string>
     <string name="your_turn_now">Vi ste na redu: proučite ajet, zatim se učenje nastavlja.</string>
     <string name="sajdah">Sedžda</string>
     <string name="cream_page">Krem stranica</string>

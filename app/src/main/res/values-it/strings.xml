@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="update_available">Nuova versione disponibile</string>
+    <string name="update_downloading">Download in corso</string>
+    <string name="update_failed">Impossibile installare l\'aggiornamento.</string>
+    <string name="update_failed_tap">Impossibile installare l\'aggiornamento. Tocca per scaricarlo.</string>
+    <string name="update_channel">Download aggiornamenti</string>
+    <string name="updated_tap">Aggiornato. Tocca per aprire.</string>
+    <string name="later">Più tardi</string>
+    <string name="clear">Cancella</string>
     <string name="your_turn_now">Tocca a te: recita il versetto, poi la recitazione riprende.</string>
     <string name="sajdah">Prosternazione</string>
     <string name="cream_page">Pagina crema</string>

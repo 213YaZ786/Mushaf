@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="update_available">নতুন সংস্করণ এসেছে</string>
+    <string name="update_downloading">ডাউনলোড হচ্ছে</string>
+    <string name="update_failed">আপডেট ইনস্টল করা যায়নি।</string>
+    <string name="update_failed_tap">আপডেট ইনস্টল করা যায়নি। ডাউনলোড করতে ট্যাপ করুন।</string>
+    <string name="update_channel">আপডেট ডাউনলোড</string>
+    <string name="updated_tap">আপডেট হয়েছে। খুলতে ট্যাপ করুন।</string>
+    <string name="later">পরে</string>
+    <string name="clear">মুছুন</string>
     <string name="your_turn_now">আপনার পালা: আয়াতটি বলুন, তারপর তিলাওয়াত চলবে।</string>
     <string name="sajdah">সিজদা</string>
     <string name="cream_page">ক্রিম পৃষ্ঠা</string>

@@ -31,6 +31,14 @@
     <string name="no_reminder">No reminder</string>
     <string name="language">Language</string>
     <string name="language_system">Same as the phone</string>
+    <string name="update_available">New version available</string>
+    <string name="update_downloading">Downloading</string>
+    <string name="update_failed">The update could not be installed.</string>
+    <string name="update_failed_tap">The update could not be installed. Tap to download it.</string>
+    <string name="update_channel">Update download</string>
+    <string name="updated_tap">Updated. Tap to open.</string>
+    <string name="later">Later</string>
+    <string name="clear">Clear</string>
     <string name="updates">Updates</string>
     <string name="welcome_updates_intro">When a new version of Mushaf is out.</string>
     <string name="updates_off">Off</string>

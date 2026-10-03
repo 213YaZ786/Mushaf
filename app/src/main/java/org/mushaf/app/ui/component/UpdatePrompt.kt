@@ -1,6 +1,8 @@
 package org.mushaf.app.ui.component
 
 import android.content.Intent
+import org.mushaf.app.R
+import androidx.compose.ui.res.stringResource
 import android.net.Uri
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row
@@ -64,7 +66,7 @@ fun UpdatePrompt(mode: UpdateMode, currentVersion: String) {
     }
     ZoneAlertDialog(
         onDismissRequest = { if (step != Step.DOWNLOADING) release = null },
-        title = { Text("New version available") },
+        title = { Text(stringResource(R.string.update_available)) },
         text = {
             when (step) {
                 Step.ASK -> Text("Mushaf ${shown.version}")
@@ -73,16 +75,16 @@ fun UpdatePrompt(mode: UpdateMode, currentVersion: String) {
                     verticalAlignment = Alignment.CenterVertically
                 ) {
                     LoadingMark(size = 28.dp)
-                    Text("Downloading")
+                    Text(stringResource(R.string.update_downloading))
                 }
-                Step.FAILED -> Text("The update could not be installed.")
+                Step.FAILED -> Text(stringResource(R.string.update_failed))
             }
         },
         confirmButton = {
             when {
                 step == Step.DOWNLOADING -> Unit
                 mode == UpdateMode.NOTIFY || step == Step.FAILED || shown.apk == null ->
-                    QuietButton(onClick = openPage) { Text("Download") }
+                    QuietButton(onClick = openPage) { Text(stringResource(R.string.download)) }
                 else -> QuietButton(onClick = {
                     if (!Updates.canInstall(context)) {
                         Updates.allowInstalls(context)
@@ -92,11 +94,11 @@ fun UpdatePrompt(mode: UpdateMode, currentVersion: String) {
                             if (Updates.install(context, shown)) release = null else step = Step.FAILED
                         }
                     }
-                }) { Text("Install") }
+                }) { Text(stringResource(R.string.updates_install)) }
             }
         },
         dismissButton = {
-            if (step != Step.DOWNLOADING) QuietButton(onClick = { release = null }) { Text("Later") }
+            if (step != Step.DOWNLOADING) QuietButton(onClick = { release = null }) { Text(stringResource(R.string.later)) }
         }
     )
 }

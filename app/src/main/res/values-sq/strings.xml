@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="update_available">Ka një version të ri</string>
+    <string name="update_downloading">Po shkarkohet</string>
+    <string name="update_failed">Përditësimi nuk u instalua.</string>
+    <string name="update_failed_tap">Përditësimi nuk u instalua. Prekni për ta shkarkuar.</string>
+    <string name="update_channel">Shkarkimi i përditësimeve</string>
+    <string name="updated_tap">U përditësua. Prekni për ta hapur.</string>
+    <string name="later">Më vonë</string>
+    <string name="clear">Pastro</string>
     <string name="your_turn_now">Radha juaj: thoni ajetin, pastaj leximi vazhdon.</string>
     <string name="sajdah">Sexhde</string>
     <string name="cream_page">Faqe krem</string>
