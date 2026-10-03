@@ -225,6 +225,9 @@ fun MushafScreen(
         val count = if (spread) PAGES / 2 else PAGES
         // A new pager when one page becomes two or back: its saved place counts in spreads or in pages.
         val pager = key(perItem) { rememberPagerState(initialPage = (reader.page.value - 1) / perItem) { count } }
+        // Pinched closer: the page shown grows and moves under the finger; turning comes back at 1×.
+        val zoom = remember { PageZoom() }
+        LaunchedEffect(pager.currentPage) { zoom.reset() }
         val current = pager.currentPage * perItem + 1
         val settled = !pager.isScrollInProgress
         val paper = MaterialTheme.colorScheme.surface
@@ -417,6 +420,7 @@ fun MushafScreen(
             CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Rtl) {
                 HorizontalPager(
                     state = pager,
+                    userScrollEnabled = !zoom.zoomed,
                     beyondViewportPageCount = 1,
                     modifier = Modifier
                         .fillMaxSize()
@@ -432,6 +436,7 @@ fun MushafScreen(
                         Row(
                             Modifier
                                 .fillMaxSize()
+                                .then(if (item == pager.currentPage) Modifier.pageZoom(zoom) else Modifier)
                                 .then(if (reduce) Modifier else Modifier.pageCurl(pager, item, paper) { grab })
                                 .padding(bars)
                                 .padding(horizontal = if (spread) 24.dp else 12.dp, vertical = 8.dp),
