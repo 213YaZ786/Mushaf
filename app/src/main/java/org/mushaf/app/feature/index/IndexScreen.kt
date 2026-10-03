@@ -105,10 +105,13 @@ fun IndexScreen(onBack: () -> Unit) {
     val store: SettingsStore = koinInject()
     val saved by marks.marks.collectAsState()
     var query by rememberSaveable { mutableStateOf("") }
+    // "Seite 50", "صفحة 50": the word for page as the reader writes it.
+    val pageWords = listOf(stringResource(R.string.page_title, 0), stringResource(R.string.page_n, 0))
+        .map { w -> w.filterNot { it.isDigit() }.trim().lowercase() }.toSet()
     val found by produceState<List<Found>?>(null, query) {
         value = if (query.isBlank()) null else {
             delay(250)
-            search.find(query, store.current.translations.firstOrNull { it != Translations.BUNDLED.id })
+            search.find(query, store.current.translations.firstOrNull { it != Translations.BUNDLED.id }, pageWords)
         }
     }
     val haptics = rememberHaptics()
