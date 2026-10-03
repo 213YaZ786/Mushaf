@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="playback_not_kept">Ulac tuqqna, tasurett-a ur tettwaḥrez ara deg tiliɣri. Ḥrez taɣuri deg Iɣewwaṛen › War tuqqna.</string>
     <string name="voice_download_failed">Tamudemt n taɣect ur d-tettwasider ara. Senqed tuqqna, sakin ɛreḍ tikkelt nniḍen.</string>
     <string name="voice_no_space">Ulac amkan iwatan deg tiliɣri i tmudemt n taɣect (azal n 100 MB).</string>
     <string name="voice_mic_denied">Mushaf yesra asawaḍ akken ad k-isell mi ara teqqareḍ.</string>

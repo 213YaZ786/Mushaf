@@ -102,6 +102,7 @@ fun ListenPane(modifier: Modifier = Modifier) {
                     }
                     Text(
                         when {
+                            state.failed && state.notKept -> stringResource(R.string.playback_not_kept)
                             state.failed -> stringResource(R.string.playback_failed)
                             state.key != null -> listOfNotNull(
                                 "${surah ?: ""} ${state.key}",
@@ -116,7 +117,7 @@ fun ListenPane(modifier: Modifier = Modifier) {
                         },
                         style = MaterialTheme.typography.bodyMedium,
                         color = if (state.failed) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.onSurfaceVariant,
-                        maxLines = 1,
+                        maxLines = if (state.failed) 3 else 1,
                         overflow = TextOverflow.Ellipsis
                     )
                 }

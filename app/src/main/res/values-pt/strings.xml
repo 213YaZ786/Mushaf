@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="playback_not_kept">Sem conexão, e esta surata não está guardada no telefone. Guarde a recitação em Configurações › Offline.</string>
     <string name="voice_download_failed">Não foi possível baixar o modelo de voz. Verifique a conexão e tente de novo.</string>
     <string name="voice_no_space">Não há espaço suficiente no telefone para o modelo de voz (cerca de 100 MB).</string>
     <string name="voice_mic_denied">O Mushaf precisa do microfone para ouvir você recitar.</string>

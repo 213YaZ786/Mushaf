@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="playback_not_kept">Tidak ada koneksi, dan surah ini tidak tersimpan di ponsel. Simpan bacaannya di Pengaturan › Luring.</string>
     <string name="voice_download_failed">Model suara tidak dapat diunduh. Periksa koneksi dan coba lagi.</string>
     <string name="voice_no_space">Ruang di ponsel tidak cukup untuk model suara (sekitar 100 MB).</string>
     <string name="voice_mic_denied">Mushaf memerlukan mikrofon untuk mendengar bacaan Anda.</string>

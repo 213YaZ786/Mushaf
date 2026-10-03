@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="playback_not_kept">Sin conexión, y esta sura no está guardada en el teléfono. Guarda la recitación en Ajustes › Sin conexión.</string>
     <string name="voice_download_failed">No se pudo descargar el modelo de voz. Comprueba la conexión e inténtalo de nuevo.</string>
     <string name="voice_no_space">No hay espacio suficiente en el teléfono para el modelo de voz (unos 100 MB).</string>
     <string name="voice_mic_denied">Mushaf necesita el micrófono para oírte recitar.</string>

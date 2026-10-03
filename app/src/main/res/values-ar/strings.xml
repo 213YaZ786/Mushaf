@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="playback_not_kept">لا اتصال، وهذه السورة غير محفوظة على الهاتف. احفظ التلاوة من الإعدادات › دون اتصال.</string>
     <string name="voice_download_failed">تعذّر تنزيل نموذج الصوت. تحقّق من الاتصال وأعد المحاولة.</string>
     <string name="voice_no_space">لا توجد مساحة كافية على الهاتف لنموذج الصوت (نحو 100 م.ب).</string>
     <string name="voice_mic_denied">يحتاج مصحف إلى الميكروفون ليسمع تلاوتك.</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="playback_not_kept">Internet yo‘q va bu sura telefonda saqlanmagan. Qiroatni Sozlamalar › Oflayn bo‘limida saqlang.</string>
     <string name="voice_download_failed">Ovoz modelini yuklab bo‘lmadi. Internetni tekshirib, qayta urining.</string>
     <string name="voice_no_space">Telefonda ovoz modeli uchun joy yetarli emas (taxminan 100 MB).</string>
     <string name="voice_mic_denied">Qiroatingizni eshitish uchun Mushafga mikrofon kerak.</string>

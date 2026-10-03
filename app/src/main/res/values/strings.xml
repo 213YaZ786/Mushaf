@@ -238,6 +238,7 @@
     <string name="collection_empty">Nothing in this collection yet</string>
     <string name="collection_empty_hint">Tap the folder of a saved ayah to put it here.</string>
     <string name="bookmarked">Bookmarked</string>
+    <string name="playback_not_kept">No connection, and this surah is not kept on the phone. Keep the recitation in Settings › Offline.</string>
     <string name="playback_failed">Could not be played. Check the connection.</string>
     <string name="starting">Starting…</string>
     <string name="stop">Stop</string>

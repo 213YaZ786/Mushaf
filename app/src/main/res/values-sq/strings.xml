@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="playback_not_kept">Nuk ka lidhje dhe kjo sure nuk është ruajtur në telefon. Ruajeni leximin te Cilësimet › Jashtë linje.</string>
     <string name="voice_download_failed">Modeli i zërit nuk u shkarkua. Kontrolloni lidhjen dhe provoni sërish.</string>
     <string name="voice_no_space">Nuk ka hapësirë të mjaftueshme në telefon për modelin e zërit (rreth 100 MB).</string>
     <string name="voice_mic_denied">Mushaf ka nevojë për mikrofonin që t\'ju dëgjojë duke lexuar.</string>

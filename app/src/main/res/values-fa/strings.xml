@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="playback_not_kept">اتصال نیست و این سوره در گوشی نگه‌داشته نشده است. تلاوت را در تنظیمات › آفلاین نگه دارید.</string>
     <string name="voice_download_failed">مدل صوتی بارگیری نشد. اتصال را بررسی کنید و دوباره تلاش کنید.</string>
     <string name="voice_no_space">فضای کافی در گوشی برای مدل صوتی نیست (حدود 100 MB).</string>
     <string name="voice_mic_denied">مصحف برای شنیدن تلاوت شما به میکروفون نیاز دارد.</string>

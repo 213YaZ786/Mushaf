@@ -44,6 +44,8 @@ data class ListenState(
     val playing: Boolean = false,
     val loading: Boolean = false,
     val failed: Boolean = false,
+    /** The failure came from the network, for a surah not kept on the phone. */
+    val notKept: Boolean = false,
     val heard: Heard? = null,
     /** How many more times the ayah being heard comes again. */
     val repeatsLeft: Int = 0
@@ -108,7 +110,9 @@ class Listen(
                 }
 
                 override fun onPlayerError(error: androidx.media3.common.PlaybackException) {
-                    _state.update { it.copy(failed = true, loading = false) }
+                    // The 2000s are the network's and the files' errors; a kept file is read from the phone.
+                    val network = error.errorCode in 2000..2999 && c.currentMediaItem?.localConfiguration?.uri?.scheme != "file"
+                    _state.update { it.copy(failed = true, notKept = network, loading = false) }
                 }
             })
             controller = c
@@ -124,9 +128,10 @@ class Listen(
             if (reciterFor != null) { reciterFor = null; audio = null }
         }
         scope.launch {
-            _state.update { it.copy(active = true, loading = true, failed = false) }
-            val there = runCatching { load(key.surah, key.ayah) }.getOrElse {
-                _state.update { it.copy(loading = false, failed = true) }
+            _state.update { it.copy(active = true, loading = true, failed = false, notKept = false) }
+            val there = runCatching { load(key.surah, key.ayah) }.getOrElse { e ->
+                val offline = e is java.io.IOException && recitations.local(reciterFor ?: settings.reciter(), key.surah) == null
+                _state.update { it.copy(loading = false, failed = true, notKept = offline) }
                 return@launch
             }
             val c = controller()

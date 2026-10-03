@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="playback_not_kept">Pas de connexion, et cette sourate n\'est pas gardée sur le téléphone. Gardez la récitation dans Réglages › Hors connexion.</string>
     <string name="voice_download_failed">Le modèle vocal n\'a pas pu être téléchargé. Vérifiez la connexion et réessayez.</string>
     <string name="voice_no_space">Pas assez de place sur le téléphone pour le modèle vocal (environ 100 Mo).</string>
     <string name="voice_mic_denied">Mushaf a besoin du micro pour vous entendre réciter.</string>

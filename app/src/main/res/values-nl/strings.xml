@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="playback_not_kept">Geen verbinding, en deze soera staat niet op de telefoon. Bewaar de recitatie via Instellingen › Offline.</string>
     <string name="voice_download_failed">Het spraakmodel kon niet worden gedownload. Controleer de verbinding en probeer opnieuw.</string>
     <string name="voice_no_space">Niet genoeg ruimte op de telefoon voor het spraakmodel (ongeveer 100 MB).</string>
     <string name="voice_mic_denied">Mushaf heeft de microfoon nodig om je te horen reciteren.</string>

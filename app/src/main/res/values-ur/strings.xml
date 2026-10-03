@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Quran terms (juz, hizb, tafsir) are kept as they are. -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="playback_not_kept">کنکشن نہیں، اور یہ سورت فون پر محفوظ نہیں۔ تلاوت کو ترتیبات › آف لائن میں رکھیں۔</string>
     <string name="voice_download_failed">آواز کا ماڈل ڈاؤن لوڈ نہیں ہو سکا۔ کنکشن چیک کر کے دوبارہ کوشش کریں۔</string>
     <string name="voice_no_space">فون پر آواز کے ماڈل کے لیے کافی جگہ نہیں (تقریباً 100 MB)۔</string>
     <string name="voice_mic_denied">مصحف کو آپ کی تلاوت سننے کے لیے مائیکروفون چاہیے۔</string>
