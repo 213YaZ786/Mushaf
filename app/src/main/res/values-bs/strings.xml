@@ -411,6 +411,21 @@
     <string name="style_mujawwad">Mudževved</string>
     <string name="style_warsh">Warsh</string>
     <string name="model_offer_text">Telefon sluša dok učite: prikazuje svaku riječ kako je izgovarate, ili pronalazi ajet koji ste proučili. Za to je potreban Tarteelov kur\'anski glasovni model, oko 80 MB, sačuvan na telefonu. Ono što učite nikad ga ne napušta.</string>
+    <plurals name="week_pages">
+        <item quantity="one">%d stranica ove sedmice</item>
+        <item quantity="few">%d stranice ove sedmice</item>
+        <item quantity="other">%d stranica ove sedmice</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">rekord: %d dan zaredom</item>
+        <item quantity="few">rekord: %d dana zaredom</item>
+        <item quantity="other">rekord: %d dana zaredom</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d hatma završena</item>
+        <item quantity="few">%d hatme završene</item>
+        <item quantity="other">%d hatmi završeno</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">Još %d</item>
         <item quantity="few">Još %d</item>

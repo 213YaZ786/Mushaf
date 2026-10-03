@@ -411,6 +411,18 @@
     <string name="style_mujawwad">Mujawwad</string>
     <string name="style_warsh">Warsh</string>
     <string name="model_offer_text">De telefoon luistert terwijl je reciteert: hij toont elk woord zodra je het zegt, of vindt het vers dat je reciteerde. Daarvoor is het Koran-spraakmodel van Tarteel nodig, ongeveer 80 MB, bewaard op de telefoon. Wat je reciteert verlaat hem nooit.</string>
+    <plurals name="week_pages">
+        <item quantity="one">%d pagina deze week</item>
+        <item quantity="other">%d pagina\'s deze week</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">record: %d dag op rij</item>
+        <item quantity="other">record: %d dagen op rij</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d khatma helemaal gelezen</item>
+        <item quantity="other">%d khatma\'s helemaal gelezen</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">Nog %d</item>
         <item quantity="other">Nog %d</item>

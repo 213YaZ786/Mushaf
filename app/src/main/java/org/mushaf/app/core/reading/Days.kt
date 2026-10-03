@@ -12,6 +12,22 @@ object Days {
         return n
     }
 
+    /** The longest run of days read in a row, ever. */
+    fun best(days: Collection<Long>): Int {
+        var best = 0
+        var run = 0
+        var last = Long.MIN_VALUE
+        for (d in days.toSortedSet()) {
+            run = if (d == last + 1) run + 1 else 1
+            best = maxOf(best, run)
+            last = d
+        }
+        return best
+    }
+
+    /** Pages turned in the seven days up to [today]. */
+    fun week(pages: Map<Long, Int>, today: Long): Int = pages.filterKeys { it in today - 6..today }.values.sum()
+
     /**
      * The [weeks] weeks up to the one of [today], as rows of seven days
      * starting on [firstDay] (1 Monday … 7 Sunday, as java.time numbers them).

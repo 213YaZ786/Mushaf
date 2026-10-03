@@ -411,6 +411,24 @@
     <string name="style_mujawwad">Муджаввад</string>
     <string name="style_warsh">Варш</string>
     <string name="model_offer_text">Телефон слушает, пока вы читаете: показывает каждое слово по мере произнесения или находит прочитанный аят. Для этого нужна коранная голосовая модель Tarteel, около 80 МБ, хранится на телефоне. Ваше чтение никогда не покидает его.</string>
+    <plurals name="week_pages">
+        <item quantity="one">%d страница за неделю</item>
+        <item quantity="few">%d страницы за неделю</item>
+        <item quantity="many">%d страниц за неделю</item>
+        <item quantity="other">%d страницы за неделю</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">рекорд: %d день подряд</item>
+        <item quantity="few">рекорд: %d дня подряд</item>
+        <item quantity="many">рекорд: %d дней подряд</item>
+        <item quantity="other">рекорд: %d дня подряд</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d хатм прочитан целиком</item>
+        <item quantity="few">%d хатма прочитаны целиком</item>
+        <item quantity="many">%d хатмов прочитано целиком</item>
+        <item quantity="other">%d хатма прочитано целиком</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">Ещё %d</item>
         <item quantity="few">Ещё %d</item>

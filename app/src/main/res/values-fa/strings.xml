@@ -411,6 +411,18 @@
     <string name="style_mujawwad">مجوّد</string>
     <string name="style_warsh">ورش</string>
     <string name="model_offer_text">گوشی هنگام تلاوت شما گوش می‌دهد: هر واژه را همان‌طور که می‌گویید نشان می‌دهد، یا آیه‌ای را که خواندید پیدا می‌کند. برای این کار به مدل صوتی قرآنی ترتیل نیاز است، حدود 80 MB، که در گوشی می‌ماند. آنچه می‌خوانید هرگز از گوشی بیرون نمی‌رود.</string>
+    <plurals name="week_pages">
+        <item quantity="one">%d صفحه در این هفته</item>
+        <item quantity="other">%d صفحه در این هفته</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">بهترین: %d روز پیاپی</item>
+        <item quantity="other">بهترین: %d روز پیاپی</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d ختم کامل</item>
+        <item quantity="other">%d ختم کامل</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">%d مورد دیگر</item>
         <item quantity="other">%d مورد دیگر</item>

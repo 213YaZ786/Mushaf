@@ -472,4 +472,16 @@
         <item quantity="one">%d more</item>
         <item quantity="other">%d more</item>
     </plurals>
+    <plurals name="week_pages">
+        <item quantity="one">%d page this week</item>
+        <item quantity="other">%d pages this week</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">best: %d day in a row</item>
+        <item quantity="other">best: %d days in a row</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d khatmah read whole</item>
+        <item quantity="other">%d khatmahs read whole</item>
+    </plurals>
 </resources>

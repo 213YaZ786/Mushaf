@@ -39,6 +39,8 @@ class Reader(private val settings: SettingsStore, private val quran: org.mushaf.
     fun shown(page: Int) {
         val p = page.coerceIn(1, PAGES)
         if (_page.value == p) return
+        // A page turned (one or two on, or back), not a jump, counts as read today.
+        val turned = kotlin.math.abs(p - _page.value) <= 2
         _page.value = p
         // A page of Al-Kahf seen today: no Friday reminder for it.
         val kahf = quran.metaNow?.surahs?.getOrNull(17)?.pages
@@ -48,7 +50,9 @@ class Reader(private val settings: SettingsStore, private val quran: org.mushaf.
                 page = p,
                 kahfDay = if (kahf != null && p in kahf.first()..kahf.last()) today else it.kahfDay,
                 // A page turned: today is a day read.
-                readDays = if (today in it.readDays) it.readDays else (it.readDays + today).takeLast(400)
+                readDays = if (today in it.readDays) it.readDays else (it.readDays + today).takeLast(400),
+                pagesByDay = if (!turned) it.pagesByDay else (it.pagesByDay + (today to (it.pagesByDay[today] ?: 0) + 1))
+                    .entries.sortedBy { e -> e.key }.takeLast(400).associate { e -> e.key to e.value }
             )
         }
     }

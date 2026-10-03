@@ -411,6 +411,18 @@
     <string name="style_mujawwad">Mujawwad</string>
     <string name="style_warsh">Warsh</string>
     <string name="model_offer_text">Das Telefon hört zu, während du rezitierst: Es zeigt jedes Wort, sobald du es sagst, oder findet den Vers, den du rezitiert hast. Dafür braucht es Tarteels Koran-Sprachmodell, etwa 80 MB, auf dem Telefon gespeichert. Was du rezitierst, verlässt es nie.</string>
+    <plurals name="week_pages">
+        <item quantity="one">%d Seite diese Woche</item>
+        <item quantity="other">%d Seiten diese Woche</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">Bestwert: %d Tag in Folge</item>
+        <item quantity="other">Bestwert: %d Tage in Folge</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d Khatma ganz gelesen</item>
+        <item quantity="other">%d Khatmas ganz gelesen</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">%d weitere</item>
         <item quantity="other">%d weitere</item>

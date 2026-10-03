@@ -411,6 +411,18 @@
     <string name="style_mujawwad">Mücəvvəd</string>
     <string name="style_warsh">Vərş</string>
     <string name="model_offer_text">Siz oxuyarkən telefon dinləyir: hər sözü dedikcə göstərir və ya oxuduğunuz ayəni tapır. Bunun üçün Tarteel-in Quran səs modeli lazımdır, təxminən 80 MB, telefonda saxlanılır. Oxuduğunuz heç vaxt telefondan çıxmır.</string>
+    <plurals name="week_pages">
+        <item quantity="one">Bu həftə %d səhifə</item>
+        <item quantity="other">Bu həftə %d səhifə</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">ən yaxşı: ardıcıl %d gün</item>
+        <item quantity="other">ən yaxşı: ardıcıl %d gün</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d xətm tamamlandı</item>
+        <item quantity="other">%d xətm tamamlandı</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">Daha %d</item>
         <item quantity="other">Daha %d</item>

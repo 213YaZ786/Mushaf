@@ -31,4 +31,16 @@ class DaysTest {
         assertEquals(DayOfWeek.SUNDAY, LocalDate.ofEpochDay(sunday[0][0]).dayOfWeek)
         assertEquals(today, sunday.last().last()) // Saturday closes a week starting on Sunday
     }
+
+    @Test
+    fun theBestRunIsTheLongestEver() {
+        assertEquals(3, Days.best(listOf(10L, 11L, 12L, 20L, 21L)))
+        assertEquals(0, Days.best(emptyList()))
+    }
+
+    @Test
+    fun theWeekCountsTheLastSevenDays() {
+        val pages = mapOf(100L to 5, 94L to 3, 93L to 50)
+        assertEquals(8, Days.week(pages, 100L))
+    }
 }

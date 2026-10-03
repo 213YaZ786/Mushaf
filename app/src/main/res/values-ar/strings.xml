@@ -411,6 +411,30 @@
     <string name="style_mujawwad">مجوّد</string>
     <string name="style_warsh">ورش</string>
     <string name="model_offer_text">يستمع الهاتف وأنت تتلو: يُظهر كل كلمة حين تنطقها، أو يجد الآية التي تلوتها. يحتاج إلى نموذج ترتيل الصوتي للقرآن، نحو 80 م.ب، محفوظًا على الهاتف. ما تتلوه لا يغادره أبدًا.</string>
+    <plurals name="week_pages">
+        <item quantity="zero">لا صفحات هذا الأسبوع</item>
+        <item quantity="one">صفحة واحدة هذا الأسبوع</item>
+        <item quantity="two">صفحتان هذا الأسبوع</item>
+        <item quantity="few">%d صفحات هذا الأسبوع</item>
+        <item quantity="many">%d صفحة هذا الأسبوع</item>
+        <item quantity="other">%d صفحة هذا الأسبوع</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="zero">الأفضل: لا أيام</item>
+        <item quantity="one">الأفضل: يوم واحد</item>
+        <item quantity="two">الأفضل: يومان متتاليان</item>
+        <item quantity="few">الأفضل: %d أيام متتالية</item>
+        <item quantity="many">الأفضل: %d يومًا متتاليًا</item>
+        <item quantity="other">الأفضل: %d يوم متتالٍ</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="zero">لا ختمات</item>
+        <item quantity="one">ختمة واحدة تامة</item>
+        <item quantity="two">ختمتان تامتان</item>
+        <item quantity="few">%d ختمات تامة</item>
+        <item quantity="many">%d ختمة تامة</item>
+        <item quantity="other">%d ختمة تامة</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="zero">لا مزيد</item>
         <item quantity="one">ترجمة أخرى</item>

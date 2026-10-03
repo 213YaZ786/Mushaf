@@ -411,6 +411,18 @@
     <string name="style_mujawwad">مجوّد</string>
     <string name="style_warsh">ورش</string>
     <string name="model_offer_text">آپ کی تلاوت کے دوران فون سنتا ہے: ہر لفظ آپ کے کہتے ہی دکھاتا ہے، یا آپ کی پڑھی ہوئی آیت ڈھونڈتا ہے۔ اس کے لیے ترتیل کا قرآنی آواز ماڈل چاہیے، تقریباً 80 MB، فون پر محفوظ۔ آپ کی تلاوت کبھی فون سے باہر نہیں جاتی۔</string>
+    <plurals name="week_pages">
+        <item quantity="one">اس ہفتے %d صفحہ</item>
+        <item quantity="other">اس ہفتے %d صفحات</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">بہترین: مسلسل %d دن</item>
+        <item quantity="other">بہترین: مسلسل %d دن</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d ختم مکمل</item>
+        <item quantity="other">%d ختم مکمل</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">%d مزید</item>
         <item quantity="other">%d مزید</item>

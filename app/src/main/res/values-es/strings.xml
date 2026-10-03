@@ -411,6 +411,21 @@
     <string name="style_mujawwad">Mujawwad</string>
     <string name="style_warsh">Warsh</string>
     <string name="model_offer_text">El teléfono escucha mientras recitas: muestra cada palabra a medida que la dices, o encuentra la aleya que recitaste. Necesita el modelo de voz coránico de Tarteel, unos 80 MB, guardado en el teléfono. Lo que recitas nunca sale de él.</string>
+    <plurals name="week_pages">
+        <item quantity="one">%d página esta semana</item>
+        <item quantity="many">%d páginas esta semana</item>
+        <item quantity="other">%d páginas esta semana</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">récord: %d día seguido</item>
+        <item quantity="many">récord: %d días seguidos</item>
+        <item quantity="other">récord: %d días seguidos</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d jatma completa</item>
+        <item quantity="many">%d jatmas completas</item>
+        <item quantity="other">%d jatmas completas</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">%d más</item>
         <item quantity="many">%d más</item>

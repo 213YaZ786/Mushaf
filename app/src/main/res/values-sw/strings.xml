@@ -411,6 +411,18 @@
     <string name="style_mujawwad">Mujawwad</string>
     <string name="style_warsh">Warsh</string>
     <string name="model_offer_text">Simu inasikiliza unaposoma: inaonyesha kila neno unapolitamka, au inapata aya uliyosoma. Inahitaji modeli ya sauti ya Qur\'ani ya Tarteel, takriban MB 80, inayohifadhiwa kwenye simu. Unachosoma hakitoki kamwe kwenye simu.</string>
+    <plurals name="week_pages">
+        <item quantity="one">Ukurasa %d wiki hii</item>
+        <item quantity="other">Kurasa %d wiki hii</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">bora: siku %d mfululizo</item>
+        <item quantity="other">bora: siku %d mfululizo</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">khitma %d imekamilika</item>
+        <item quantity="other">khitma %d zimekamilika</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">%d zaidi</item>
         <item quantity="other">%d zaidi</item>

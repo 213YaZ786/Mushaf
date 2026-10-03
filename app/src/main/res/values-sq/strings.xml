@@ -411,6 +411,18 @@
     <string name="style_mujawwad">Muxhevved</string>
     <string name="style_warsh">Warsh</string>
     <string name="model_offer_text">Telefoni dëgjon ndërsa lexoni: shfaq çdo fjalë kur e shqiptoni, ose gjen ajetin që lexuat. Për këtë i duhet modeli kuranor i zërit nga Tarteel, rreth 80 MB, i ruajtur në telefon. Ajo që lexoni nuk del kurrë prej tij.</string>
+    <plurals name="week_pages">
+        <item quantity="one">%d faqe këtë javë</item>
+        <item quantity="other">%d faqe këtë javë</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">më e mira: %d ditë radhazi</item>
+        <item quantity="other">më e mira: %d ditë radhazi</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d hatme e plotë</item>
+        <item quantity="other">%d hatme të plota</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">Edhe %d</item>
         <item quantity="other">Edhe %d</item>

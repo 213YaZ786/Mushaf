@@ -411,6 +411,18 @@
     <string name="style_mujawwad">Mujawwad</string>
     <string name="style_warsh">Warsh</string>
     <string name="model_offer_text">Tiliɣri tettsell mi ara teqqareḍ: tesskan yal awal mi ara t-tiniḍ, neɣ tettaf-d tayett i teɣriḍ. Tesra tamudemt n taɣect n Leqran n Tarteel, azal n 80 MB, yettwaḥerzen deg tiliɣri. Ayen teqqareḍ ur t-iteffeɣ ara akk.</string>
+    <plurals name="week_pages">
+        <item quantity="one">%d n usebter ddurt-a</item>
+        <item quantity="other">%d n yisebtar ddurt-a</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">afellay: %d n wass s tuggdit</item>
+        <item quantity="other">afellay: %d n wussan s tuggdit</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d n lxetma tettwaɣer akk</item>
+        <item quantity="other">%d n lxetmat ttwaɣrent akk</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">%d nniḍen</item>
         <item quantity="other">%d nniḍen</item>

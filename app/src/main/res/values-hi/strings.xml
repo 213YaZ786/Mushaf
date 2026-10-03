@@ -411,6 +411,18 @@
     <string name="style_mujawwad">मुजव्वद</string>
     <string name="style_warsh">वर्श</string>
     <string name="model_offer_text">आपकी तिलावत के दौरान फ़ोन सुनता है: हर शब्द बोलते ही दिखाता है, या आपकी पढ़ी आयत ढूँढता है। इसके लिए तरतील का क़ुरआन आवाज़ मॉडल चाहिए, लगभग 80 MB, फ़ोन पर रखा हुआ। आपकी तिलावत कभी फ़ोन से बाहर नहीं जाती।</string>
+    <plurals name="week_pages">
+        <item quantity="one">इस हफ़्ते %d पृष्ठ</item>
+        <item quantity="other">इस हफ़्ते %d पृष्ठ</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">सर्वश्रेष्ठ: लगातार %d दिन</item>
+        <item quantity="other">सर्वश्रेष्ठ: लगातार %d दिन</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d ख़त्म पूरा</item>
+        <item quantity="other">%d ख़त्म पूरे</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">%d और</item>
         <item quantity="other">%d और</item>

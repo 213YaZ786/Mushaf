@@ -411,6 +411,18 @@
     <string name="style_mujawwad">মুজাওয়াদ</string>
     <string name="style_warsh">ওয়ারশ</string>
     <string name="model_offer_text">আপনি তিলাওয়াত করার সময় ফোন শোনে: বলার সাথে সাথে প্রতিটি শব্দ দেখায়, অথবা আপনার পড়া আয়াতটি খুঁজে দেয়। এর জন্য তারতিলের কুরআন ভয়েস মডেল লাগবে, প্রায় 80 MB, ফোনে রাখা। আপনার তিলাওয়াত কখনো ফোনের বাইরে যায় না।</string>
+    <plurals name="week_pages">
+        <item quantity="one">এই সপ্তাহে %dটি পৃষ্ঠা</item>
+        <item quantity="other">এই সপ্তাহে %dটি পৃষ্ঠা</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">সেরা: টানা %d দিন</item>
+        <item quantity="other">সেরা: টানা %d দিন</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%dটি খতম সম্পূর্ণ</item>
+        <item quantity="other">%dটি খতম সম্পূর্ণ</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">আরও %dটি</item>
         <item quantity="other">আরও %dটি</item>

@@ -35,7 +35,7 @@ val appModule = module {
     single { Reader(get(), get()) }
     single { Translations(androidContext(), get(), get()) }
     single { Tafsir(androidContext(), get(), get()) }
-    single { Khatmah(androidContext()) }
+    single { Khatmah(androidContext(), get()) }
     single { Marks(androidContext(), get<SettingsStore>().current.riwayah) }
     single { Search(get(), get()) }
     single { WordAudio(androidContext(), get()) }

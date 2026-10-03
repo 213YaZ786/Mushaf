@@ -411,6 +411,15 @@
     <string name="style_mujawwad">Mujawwad</string>
     <string name="style_warsh">Warsy</string>
     <string name="model_offer_text">Ponsel mendengarkan saat Anda membaca: ia menampilkan setiap kata saat Anda mengucapkannya, atau menemukan ayat yang Anda baca. Untuk itu diperlukan model suara Al-Qur\'an dari Tarteel, sekitar 80 MB, disimpan di ponsel. Bacaan Anda tidak pernah meninggalkannya.</string>
+    <plurals name="week_pages">
+        <item quantity="other">%d halaman pekan ini</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="other">terbaik: %d hari berturut-turut</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="other">%d khataman selesai</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="other">%d lagi</item>
     </plurals>

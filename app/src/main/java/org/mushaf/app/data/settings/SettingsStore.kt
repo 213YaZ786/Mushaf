@@ -51,6 +51,10 @@ data class Settings(
     val cream: Boolean = false,
     /** After each ayah the recitation waits as long as the ayah lasted, for the reader to say it after. */
     val yourTurn: Boolean = false,
+    /** Pages turned on each day (epoch day to count), the last 400 days. */
+    val pagesByDay: Map<Long, Int> = emptyMap(),
+    /** Khatmahs read to the last page. */
+    val khatmahsDone: Int = 0,
     /** The book of tafsir opened last. */
     val tafsir: Int = 169,
     /** The reciter heard (Quran.com's id), Mishari al-Afasy first. */

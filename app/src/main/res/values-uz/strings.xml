@@ -411,6 +411,18 @@
     <string name="style_mujawwad">Mujavvad</string>
     <string name="style_warsh">Varsh</string>
     <string name="model_offer_text">Siz o‘qiyotganda telefon tinglaydi: har bir so‘zni aytganingiz sari ko‘rsatadi yoki o‘qigan oyatingizni topadi. Buning uchun Tarteelning Qur’on ovoz modeli kerak, taxminan 80 MB, telefonda saqlanadi. O‘qiganingiz hech qachon telefondan chiqmaydi.</string>
+    <plurals name="week_pages">
+        <item quantity="one">Shu hafta %d sahifa</item>
+        <item quantity="other">Shu hafta %d sahifa</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">eng yaxshisi: ketma-ket %d kun</item>
+        <item quantity="other">eng yaxshisi: ketma-ket %d kun</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d xatm tugallandi</item>
+        <item quantity="other">%d xatm tugallandi</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">Yana %d ta</item>
         <item quantity="other">Yana %d ta</item>

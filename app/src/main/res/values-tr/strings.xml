@@ -411,6 +411,18 @@
     <string name="style_mujawwad">Mücevved</string>
     <string name="style_warsh">Verş</string>
     <string name="model_offer_text">Siz okurken telefon dinler: her kelimeyi söyledikçe gösterir ya da okuduğunuz ayeti bulur. Bunun için Tarteel\'in Kur\'an ses modeli gerekir, yaklaşık 80 MB, telefonda tutulur. Okuduğunuz hiçbir şey telefondan çıkmaz.</string>
+    <plurals name="week_pages">
+        <item quantity="one">Bu hafta %d sayfa</item>
+        <item quantity="other">Bu hafta %d sayfa</item>
+    </plurals>
+    <plurals name="best_streak">
+        <item quantity="one">en iyi: üst üste %d gün</item>
+        <item quantity="other">en iyi: üst üste %d gün</item>
+    </plurals>
+    <plurals name="khatmahs_done">
+        <item quantity="one">%d hatim tamamlandı</item>
+        <item quantity="other">%d hatim tamamlandı</item>
+    </plurals>
     <plurals name="more_translations">
         <item quantity="one">%d tane daha</item>
         <item quantity="other">%d tane daha</item>

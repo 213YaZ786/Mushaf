@@ -57,7 +57,7 @@ data class Portion(
  * pages read in order (one after the other, as the mushaf is turned) move
  * it on; a jump elsewhere does not. One small file, nothing leaves the phone.
  */
-class Khatmah(context: Context) {
+class Khatmah(context: Context, private val settings: org.mushaf.app.data.settings.SettingsStore? = null) {
 
     private val file = File(context.filesDir, "khatmah.json")
     private val json = Json { ignoreUnknownKeys = true }
@@ -92,6 +92,8 @@ class Khatmah(context: Context) {
         if (last > p.reached && last <= p.reached + step) {
             val reached = last.coerceAtMost(PAGES)
             save(p.copy(reached = reached, ended = if (reached >= PAGES) today() else null))
+            // The whole Quran read: one more khatmah done, kept for the reader's count.
+            if (reached >= PAGES) settings?.update { it.copy(khatmahsDone = it.khatmahsDone + 1) }
         }
     }
 
