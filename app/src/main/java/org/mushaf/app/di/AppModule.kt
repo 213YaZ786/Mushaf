@@ -48,5 +48,6 @@ val appModule = module {
     single { org.mushaf.app.data.backup.Backup(androidContext(), get(), get(), get(), get(), get()) }
     single { Recite(get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
     single { Riwayat(get(), get(), get(), get(), get(), get(), get()) }
-    single { Listen(androidContext(), get(), get(), get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
+    single { org.mushaf.app.core.speech.Speaker(androidContext()) }
+    single { Listen(androidContext(), get(), get(), get(), get(), get(), CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)) }
 }

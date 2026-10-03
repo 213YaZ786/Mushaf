@@ -50,7 +50,9 @@ data class ListenState(
     /** How many more times the ayah being heard comes again. */
     val repeatsLeft: Int = 0,
     /** Silent after an ayah, for the reader to say it. */
-    val yourTurn: Boolean = false
+    val yourTurn: Boolean = false,
+    /** The meaning of the ayah just heard, being read aloud. */
+    val meaning: Boolean = false
 ) {
     val key: AyahKey? get() = heard?.ayah?.key
 }
@@ -66,6 +68,8 @@ class Listen(
     private val recitations: Recitations,
     private val quran: Quran,
     private val settings: SettingsStore,
+    private val translations: org.mushaf.app.data.quran.Translations,
+    private val speaker: org.mushaf.app.core.speech.Speaker,
     private val scope: CoroutineScope
 ) {
     private val _state = MutableStateFlow(ListenState())
@@ -189,7 +193,7 @@ class Listen(
     fun toggle() {
         val c = controller ?: return
         // A tap during the reader's turn ends it: the recitation goes on at once.
-        if (turnPause) { turnPause = false; _state.update { it.copy(yourTurn = false) }; c.play(); return }
+        if (turnPause) { turnPause = false; speaker.stop(); _state.update { it.copy(yourTurn = false, meaning = false) }; c.play(); return }
         if (c.isPlaying) { c.pause(); keepPlace() } else {
             c.setPlaybackSpeed(settings.current.speed)
             c.play()
@@ -198,6 +202,7 @@ class Listen(
 
     fun stop() {
         turnPause = false
+        speaker.release()
         keepPlace()
         setSleep(null)
         ticker?.cancel()
@@ -221,6 +226,28 @@ class Listen(
     fun setSpeed(speed: Float) {
         settings.update { it.copy(speed = speed) }
         controller?.setPlaybackSpeed(speed)
+    }
+
+    /** Turns the meaning read aloud after each ayah on or off. */
+    fun setSpeakMeaning(on: Boolean) {
+        settings.update { it.copy(speakMeaning = on) }
+        if (!on) speaker.stop()
+    }
+
+    /**
+     * The meaning of [key] to read aloud: the translation chosen in the
+     * phone's language when there is one, else the first chosen; Hafs's
+     * numbering, so a Warsh ayah takes the Hafs ayat it holds.
+     */
+    private suspend fun meaningOf(key: AyahKey): Pair<String, String?>? {
+        val chosen = settings.current.translations
+        val here = java.util.Locale.getDefault().language
+        val language = { id: String -> translations.info(id)?.language?.let { org.mushaf.app.core.common.Languages.code(it) } }
+        val id = chosen.firstOrNull { language(it) == here } ?: chosen.firstOrNull() ?: return null
+        val parts = mutableListOf<String>()
+        for (k in quran.hafsKeys(key)) parts += translations.text(id, k)
+        val text = parts.joinToString(" ").trim()
+        return if (text.isEmpty()) null else text to language(id)
     }
 
     /** Turns the reader's turn after each ayah on or off. */
@@ -265,15 +292,24 @@ class Listen(
                     }
                     if (heard.ayah.key != counting) {
                         val prev = a.ayat.firstOrNull { it.key == counting }
-                        // The reader's turn: quiet as long as the ayah just heard, then on.
-                        if (settings.current.yourTurn && prev != null && heard.ayah.from >= prev.to) {
+                        // After an ayah: its meaning read aloud, then the reader's turn, as asked; then on.
+                        val s = settings.current
+                        if ((s.speakMeaning || s.yourTurn) && prev != null && heard.ayah.from >= prev.to) {
                             turnPause = true
-                            _state.update { it.copy(yourTurn = true) }
                             c.pause()
-                            delay(((prev.to - prev.from) / c.playbackParameters.speed).toLong())
-                            if (!turnPause) break
+                            if (s.speakMeaning) {
+                                _state.update { it.copy(meaning = true) }
+                                meaningOf(prev.key)?.let { (text, language) -> speaker.say(text, language) }
+                                _state.update { it.copy(meaning = false) }
+                                if (!turnPause) break
+                            }
+                            if (s.yourTurn) {
+                                _state.update { it.copy(yourTurn = true) }
+                                delay(((prev.to - prev.from) / c.playbackParameters.speed).toLong())
+                                _state.update { it.copy(yourTurn = false) }
+                                if (!turnPause) break
+                            }
                             turnPause = false
-                            _state.update { it.copy(yourTurn = false) }
                             c.play()
                         }
                         // Past the end of the ayah being repeated: back to its start.

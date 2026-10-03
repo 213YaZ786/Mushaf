@@ -102,6 +102,7 @@ fun ListenPane(modifier: Modifier = Modifier) {
                     }
                     Text(
                         when {
+                            state.meaning -> stringResource(R.string.meaning_now)
                             state.yourTurn -> stringResource(R.string.your_turn_now)
                             state.failed && state.notKept -> stringResource(R.string.playback_not_kept)
                             state.failed -> stringResource(R.string.playback_failed)
@@ -139,6 +140,11 @@ fun ListenPane(modifier: Modifier = Modifier) {
                     haptics.tick()
                     listen.setRepeat(REPEATS[(REPEATS.indexOf(settings.repeat) + 1) % REPEATS.size])
                 })
+                // The meaning read aloud after each ayah, by the phone's own voice.
+                TextControl(stringResource(R.string.meaning), {
+                    haptics.toggle(!settings.speakMeaning)
+                    listen.setSpeakMeaning(!settings.speakMeaning)
+                }, accent = settings.speakMeaning)
                 // The reader's turn after each ayah, to say it after the reciter.
                 TextControl(stringResource(R.string.your_turn), {
                     haptics.toggle(!settings.yourTurn)

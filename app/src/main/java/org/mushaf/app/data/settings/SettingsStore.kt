@@ -51,6 +51,8 @@ data class Settings(
     val cream: Boolean = false,
     /** After each ayah the recitation waits as long as the ayah lasted, for the reader to say it after. */
     val yourTurn: Boolean = false,
+    /** After each ayah recited, its meaning read aloud by the phone's voice. */
+    val speakMeaning: Boolean = false,
     /** Pages turned on each day (epoch day to count), the last 400 days. */
     val pagesByDay: Map<Long, Int> = emptyMap(),
     /** Khatmahs read to the last page. */
