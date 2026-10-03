@@ -35,6 +35,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.core.content.ContextCompat
 import org.mushaf.app.core.stt.Heard
 import org.mushaf.app.data.stt.Recogniser
+import org.mushaf.app.feature.recite.ModelOffer
 import org.mushaf.app.feature.recite.Recite
 import org.mushaf.app.ui.component.ZoneAlertDialog
 import org.mushaf.app.core.hifz.Grade
@@ -191,22 +192,6 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
             }
         }
     }
-}
-
-@Composable
-private fun ModelOffer(onYes: () -> Unit, onNo: () -> Unit) {
-    ZoneAlertDialog(
-        onDismissRequest = onNo,
-        title = { Text("Recite to the phone?") },
-        text = {
-            Text(
-                "The phone listens while you recite and shows each word as you say it, and marks the ones passed over. " +
-                    "It needs Tarteel's Quran speech model, about 80 MB, kept on the phone. What you recite never leaves it."
-            )
-        },
-        confirmButton = { TextButton(onClick = onYes) { Text("Download") } },
-        dismissButton = { TextButton(onClick = onNo) { Text("Not now") } }
-    )
 }
 
 @Composable

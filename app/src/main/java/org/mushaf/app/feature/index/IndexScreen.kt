@@ -44,6 +44,21 @@ import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import org.koin.compose.koinInject
+import org.mushaf.app.feature.recite.Recite
+import org.mushaf.app.feature.recite.ModelOffer
+import org.mushaf.app.data.stt.Recogniser
+import org.mushaf.app.core.stt.Find
+import org.mushaf.app.core.quran.Arabic
+import kotlinx.coroutines.withContext
+import kotlinx.coroutines.Dispatchers
+import androidx.core.content.ContextCompat
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.graphics.Color
+import androidx.compose.runtime.DisposableEffect
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.activity.compose.rememberLauncherForActivityResult
+import android.content.pm.PackageManager
+import android.Manifest
 import org.mushaf.app.ui.theme.quranFont
 import org.mushaf.app.core.quran.AyahKey
 import org.mushaf.app.data.marks.Marks
@@ -94,6 +109,62 @@ fun IndexScreen(onBack: () -> Unit) {
     }
     val haptics = rememberHaptics()
     val meta by produceState(quran.metaNow, quran) { value = quran.meta() }
+
+    // Finding an ayah by reciting it: heard on the phone, then the closest ayat.
+    val recite: Recite = koinInject()
+    val recogniser: Recogniser = koinInject()
+    val hearing by recite.state.collectAsState()
+    val modelReady by recogniser.ready.collectAsState()
+    val context = LocalContext.current
+    val scope = rememberCoroutineScope()
+    var heard by remember { mutableStateOf<Pair<String, List<Found>>?>(null) }
+    var finding by remember { mutableStateOf<String?>(null) }
+    var offerModel by remember { mutableStateOf(false) }
+    DisposableEffect(Unit) { onDispose { recite.reset() } }
+    val startHearing = {
+        query = ""
+        heard = null
+        finding = null
+        recite.hear { text ->
+            finding = "Finding the ayah…"
+            scope.launch {
+                val ayat = quran.ayat()
+                val hits = withContext(Dispatchers.Default) {
+                    Find.rank(text, ayat.map { it.key to Arabic.words(it.plain) })
+                }
+                val byKey = ayat.associateBy { it.key }
+                heard = text to hits.mapNotNull { h -> byKey[h.key]?.let { Found.Ayah(it.key, it.page, it.plain, true) } }
+                finding = null
+                if (hits.isEmpty()) haptics.reject() else haptics.done()
+            }
+        }
+    }
+    val askMic = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { granted -> if (granted) startHearing() }
+    val listenToFind = {
+        haptics.tick()
+        when {
+            hearing.listening -> recite.finish()
+            !modelReady -> offerModel = true
+            ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED -> startHearing()
+            else -> askMic.launch(Manifest.permission.RECORD_AUDIO)
+        }
+    }
+    if (offerModel) ModelOffer(
+        onYes = {
+            offerModel = false
+            scope.launch {
+                finding = "Downloading the speech model…"
+                runCatching { recogniser.install { bytes -> finding = "Downloading the speech model · ${bytes shr 20} of 80 MB" } }
+                    .onFailure { finding = null; haptics.reject() }
+                    .onSuccess {
+                        finding = null
+                        if (ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) startHearing()
+                        else askMic.launch(Manifest.permission.RECORD_AUDIO)
+                    }
+            }
+        },
+        onNo = { offerModel = false }
+    )
     val page by reader.page.collectAsState()
     var part by rememberSaveable { mutableStateOf(Part.SURAHS) }
     val hafs = remember { FontFamily(Font(R.font.uthmanic_hafs)) }
@@ -124,9 +195,32 @@ fun IndexScreen(onBack: () -> Unit) {
                     }
                 }
             }
-            Box(Modifier.fillMaxWidth().padding(horizontal = 16.dp).padding(bottom = 8.dp)) {
-                SearchPill(query, { query = it }, "Search: words, meaning, 2:255, page 50", floating = true)
+            Row(
+                Modifier.fillMaxWidth().padding(horizontal = 16.dp).padding(bottom = 8.dp),
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.spacedBy(8.dp)
+            ) {
+                SearchPill(query, { query = it; if (it.isNotEmpty()) heard = null }, "Search: words, meaning, 2:255, page 50", modifier = Modifier.weight(1f), floating = true)
+                FloatingAction(
+                    AppIcons.Mic,
+                    if (hearing.listening) "Done, find it" else "Recite to find the ayah",
+                    listenToFind,
+                    tint = if (hearing.listening) MaterialTheme.colorScheme.error else Color.Unspecified
+                )
             }
+            val status = when {
+                finding != null -> finding
+                hearing.listening -> "Listening: recite a few words, then tap the microphone."
+                hearing.failed -> "The microphone could not be opened."
+                else -> null
+            }
+            if (status != null) Text(
+                status,
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.primary,
+                textAlign = TextAlign.Center,
+                modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp).padding(bottom = 8.dp)
+            )
         }
     ) { padding ->
         val m = meta ?: return@FloatingFrame
@@ -142,6 +236,12 @@ fun IndexScreen(onBack: () -> Unit) {
                 Part.SAVED -> 0
             }.coerceAtLeast(0)
             list.scrollToItem((index - 2).coerceAtLeast(0))
+        }
+        heard?.let { (text, hits) ->
+            if (query.isBlank()) {
+                SearchResults(hits, text.ifBlank { "nothing heard" }, m, padding, inset, open, openAyah)
+                return@FloatingFrame
+            }
         }
         val results = found
         if (results != null) {

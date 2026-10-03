@@ -101,6 +101,56 @@ class Recite(private val recogniser: Recogniser, private val scope: CoroutineSco
         }
     }
 
+    @Volatile private var enough = false
+
+    /**
+     * Listens once, to find an ayah: until [finish] or [seconds], then hears
+     * it all at once and gives the words (empty when nothing was said). The
+     * sound is only in memory and wiped as soon as it is heard.
+     */
+    @SuppressLint("MissingPermission") // asked by the screen before start
+    fun hear(seconds: Int = 12, onHeard: (String) -> Unit) {
+        stop()
+        enough = false
+        _state.value = ReciteState(listening = true)
+        job = scope.launch(Dispatchers.IO) {
+            val size = maxOf(AudioRecord.getMinBufferSize(Recogniser.RATE, AudioFormat.CHANNEL_IN_MONO, AudioFormat.ENCODING_PCM_16BIT), Recogniser.RATE)
+            val record = runCatching {
+                AudioRecord(MediaRecorder.AudioSource.VOICE_RECOGNITION, Recogniser.RATE, AudioFormat.CHANNEL_IN_MONO, AudioFormat.ENCODING_PCM_16BIT, size)
+            }.getOrNull()
+            if (record == null || record.state != AudioRecord.STATE_INITIALIZED) {
+                _state.update { it.copy(listening = false, failed = true) }
+                return@launch
+            }
+            val audio = FloatArray(Recogniser.RATE * seconds)
+            val chunk = ShortArray(Recogniser.RATE / 10)
+            var filled = 0
+            record.startRecording()
+            try {
+                while (isActive && !enough && filled < audio.size) {
+                    val n = record.read(chunk, 0, chunk.size)
+                    if (n <= 0) continue
+                    for (i in 0 until n) if (filled < audio.size) audio[filled++] = chunk[i] / 32768f
+                }
+            } finally {
+                record.stop()
+                record.release()
+                chunk.fill(0)
+            }
+            _state.update { it.copy(listening = false) }
+            val clip = audio.copyOf(filled)
+            audio.fill(0f)
+            val text = if (isActive && loud(clip, filled)) runCatching { recogniser.transcribe(clip) }.getOrDefault("") else ""
+            clip.fill(0f)
+            if (isActive) withContext(Dispatchers.Main) { onHeard(text) }
+        }
+    }
+
+    /** Enough heard: [hear] stops listening and gives what it heard. */
+    fun finish() {
+        enough = true
+    }
+
     fun stop() {
         job?.cancel()
         job = null

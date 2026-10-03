@@ -17,6 +17,8 @@ to learn it by heart. No account, no tracking, no ads.
 - Hifz: a new lesson each day and the revision of what you know, spaced
   so that no page is forgotten; similar ayat pointed out; recite to the
   phone and each word shows as you say it.
+- Find an ayah by reciting a few of its words to the phone (heard on the
+  phone itself).
 - Play: Juz 'Amma for children, five games and three stars a surah.
 - A khatmah in 7 to 60 days: the day's pages, followed as you turn them.
 - A daily reminder of your wird or of the khatmah's pages, unless they are read.
