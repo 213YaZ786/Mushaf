@@ -131,7 +131,9 @@ fun PageView(
     /** The page is settled in front of the reader: what it has to play, plays. */
     active: Boolean = false,
     /** Its opening and entrance have played. */
-    onShown: () -> Unit = {}
+    onShown: () -> Unit = {},
+    /** The page is cream paper: its titles take the paper's ink, not the theme's colour. */
+    cream: Boolean = false
 ) {
     val measurer = rememberTextMeasurer(cacheSize = 64)
     val density = LocalDensity.current
@@ -258,7 +260,7 @@ fun PageView(
                         contentAlignment = Alignment.Center
                     ) {
                         when (line) {
-                            is PageLine.Title -> SurahTitle(line.surah, surahNames, size, lineHeight) { gleam.value }
+                            is PageLine.Title -> SurahTitle(line.surah, surahNames, size, lineHeight, cream) { gleam.value }
                             is PageLine.Basmala -> Box(Modifier.drawWithContent {
                                 // Written from right to left, as the hand writes it.
                                 val shownPart = ink.value
@@ -474,16 +476,19 @@ private fun firstLetterLength(word: String): Int {
  * names font of Quran.com, one ligature per surah) on a pane of glass.
  */
 @Composable
-private fun SurahTitle(surah: Int, names: FontFamily, size: TextUnit, height: Dp, gleam: () -> Float) {
+private fun SurahTitle(surah: Int, names: FontFamily, size: TextUnit, height: Dp, cream: Boolean, gleam: () -> Float) {
+    // On cream paper the title is a warm band of the ink itself, as printed.
+    val ink = LocalContentColor.current
     ZoneSurface(
         shape = RoundedCornerShape(50),
-        accent = true,
+        accent = !cream,
         modifier = Modifier.fillMaxWidth(0.86f).height(height * 0.86f)
     ) {
         Box(
             Modifier
                 .fillMaxSize()
                 .clip(RoundedCornerShape(50))
+                .then(if (cream) Modifier.background(ink.copy(alpha = 0.08f)) else Modifier)
                 .drawWithContent {
                     drawContent()
                     // A light crossing the title once, as on the app's icon.
@@ -504,7 +509,7 @@ private fun SurahTitle(surah: Int, names: FontFamily, size: TextUnit, height: Dp
             Text(
                 "%03d".format(Locale.ROOT, surah),
                 style = TextStyle(fontFamily = names, fontSize = size * 1.7f, textAlign = TextAlign.Center),
-                color = MaterialTheme.colorScheme.onPrimaryContainer,
+                color = if (cream) ink else MaterialTheme.colorScheme.onPrimaryContainer,
                 maxLines = 1,
                 softWrap = false
             )

@@ -511,6 +511,7 @@ fun MushafScreen(
                                                 if (opensSurah) reader.opened += n
                                                 if (jumped == n) jumped = null
                                             },
+                                            cream = cream != null,
                                             show = { w -> session?.showOf(w) ?: WordShow.ALL },
                                             onWordTap = { w ->
                                                 val sess = session
