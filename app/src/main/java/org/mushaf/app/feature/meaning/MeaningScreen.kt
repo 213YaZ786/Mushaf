@@ -210,7 +210,8 @@ fun MeaningScreen(
                 val bookmarked = saved.bookmarks.any { it.key == row.key }
                 val note = saved.notes.firstOrNull { it.key == row.key }?.text
                 val playingHere = heardNow.active && heardNow.playing && heardNow.key == row.key
-                ZoneSurface(shape = RoundedCornerShape(24.dp), accent = playingHere, modifier = Modifier.fillMaxWidth()) {
+                // The card keeps its glass while its ayah plays: the Pause button says it.
+                ZoneSurface(shape = RoundedCornerShape(24.dp), modifier = Modifier.fillMaxWidth()) {
                     Column(
                         Modifier
                             .combinedClickable(onClick = {}, onLongClick = { haptics.firm(); onOpenTafsir(row.key) })

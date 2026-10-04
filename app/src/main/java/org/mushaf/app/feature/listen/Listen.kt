@@ -86,6 +86,8 @@ class Listen(
     private var range: ClosedRange<AyahKey>? = null
     /** Pauses once past this ayah: one ayah heard, for a game. */
     private var stopAfter: AyahKey? = null
+    /** Where the recording in the player is cut: the end of [stopAfter], null when it runs whole. */
+    private var cut: Long? = null
 
     /** For a game: another reciter than the reader's own, without changing it. */
     private var reciterFor: Int? = null
@@ -159,8 +161,13 @@ class Listen(
      */
     private suspend fun load(surah: Int, from: Int): Boolean {
         val reciter = reciterFor ?: settings.reciter()
-        if (audio?.surah == surah && audio?.reciter == reciter) return true
-        val a = recitations.surah(reciter, surah)
+        val a = audio?.takeIf { it.surah == surah && it.reciter == reciter } ?: recitations.surah(reciter, surah)
+        // One ayah or a passage heard once: the recording is cut at its end, so the
+        // voice stops there to the sample, before the next ayah begins. A pause
+        // sent when the end is seen arrives tens of milliseconds late, and the
+        // next ayah's first sound got through.
+        val end = stopAfter?.takeIf { it.surah == surah }?.let { stop -> a.ayat.firstOrNull { it.key == stop }?.to }
+        if (audio === a && cut == end) return true
         // The recording's place comes from the API: played only from a known server, encrypted.
         val uri = Uri.parse(a.url)
         if (recitations.local(reciter, surah) == null && (uri.scheme != "https" || !Net.allowed(uri.host.orEmpty().lowercase()))) {
@@ -169,6 +176,7 @@ class Listen(
         val s = quran.surah(surah)
         val item = MediaItem.Builder()
             .setUri(recitations.local(reciter, surah)?.let { Uri.fromFile(it) } ?: Uri.parse(a.url))
+            .apply { if (end != null) setClippingConfiguration(MediaItem.ClippingConfiguration.Builder().setEndPositionMs(end).build()) }
             .setMediaMetadata(
                 MediaMetadata.Builder()
                     .setTitle("${s.n}. ${s.title}")
@@ -181,6 +189,7 @@ class Listen(
         c.setMediaItem(item, start.from)
         c.prepare()
         audio = a
+        cut = end
         return false
     }
 
@@ -194,7 +203,10 @@ class Listen(
         val c = controller ?: return
         // A tap during the reader's turn ends it: the recitation goes on at once.
         if (turnPause) { turnPause = false; speaker.stop(); _state.update { it.copy(yourTurn = false, meaning = false) }; c.play(); return }
-        if (c.isPlaying) { c.pause(); keepPlace() } else {
+        if (c.isPlaying) { c.pause(); keepPlace() } else if (c.playbackState == Player.STATE_ENDED && cut != null) {
+            // Play again after an ayah heard once: on from that ayah, the recording whole.
+            _state.value.key?.let { play(it) }
+        } else {
             c.setPlaybackSpeed(settings.current.speed)
             c.play()
         }
@@ -209,6 +221,7 @@ class Listen(
         controller?.stop()
         controller?.clearMediaItems()
         audio = null
+        cut = null
         range = null
         _state.value = ListenState()
     }
@@ -282,11 +295,18 @@ class Listen(
                 val c = controller ?: break
                 val a = audio ?: break
                 val ms = c.currentPosition
-                val heard = Timing.at(a, ms)
+                // An ayah ends where the next one begins. Just before that end the
+                // next one counts as heard: a pause, a repeat or the reader's turn
+                // then comes in the silence after the last word, before a sound
+                // of the next ayah gets through.
+                val now = Timing.at(a, ms)
+                val heard = now?.takeIf { ms < it.ayah.to - END_LEAD || it.ayah == a.ayat.last() }
+                    ?: now?.let { Timing.at(a, it.ayah.to) }
                 if (heard != null) {
                     val stop = stopAfter
                     if (stop != null && heard.ayah.key > stop) {
-                        c.pause()
+                        // A cut recording ends by itself, right at the ayah's end.
+                        if (cut == null) c.pause()
                         stopAfter = null
                         break
                     }
@@ -334,9 +354,14 @@ class Listen(
                 }
                 // On screen the word heard is lit, so the voice is followed closely; out of sight
                 // (screen off, another app) only the end of the ayah matters: one wake-up per ayah.
+                // Either way the loop wakes in time for the end of the ayah, never after it.
+                val untilEnd = heard?.let { ((it.ayah.to - END_LEAD - c.currentPosition) / c.playbackParameters.speed).toLong() }
                 delay(
-                    if (Shown.now || heard == null) 50L
-                    else ((heard.ayah.to - c.currentPosition) / c.playbackParameters.speed).toLong().coerceIn(50L, 2_000L)
+                    when {
+                        untilEnd == null -> 50L
+                        Shown.now -> untilEnd.coerceIn(5L, 50L)
+                        else -> untilEnd.coerceIn(5L, 2_000L)
+                    }
                 )
             }
         }
@@ -373,6 +398,12 @@ class Listen(
     /** At the end of a surah: its last ayah repeated if asked, else on to the next surah. */
     private suspend fun surahEnded() {
         val a = audio ?: return
+        if (cut != null) {
+            // The end of the ayah asked for, not of the surah.
+            stopAfter = null
+            _state.update { it.copy(playing = false) }
+            return
+        }
         val last = a.ayat.lastOrNull() ?: return
         val c = controller ?: return
         if (_state.value.repeatsLeft > 0) {
@@ -395,3 +426,11 @@ class Listen(
         if (a.surah < 114 && settings.current.continuePlaying) play(AyahKey(a.surah + 1, 1)) else _state.update { it.copy(playing = false) }
     }
 }
+
+/**
+ * How long before an ayah's end the next one counts as heard, in the
+ * recording's milliseconds: a pause or a seek takes tens of milliseconds to
+ * reach the player, and the last word ends 100 to 200 ms before the next
+ * ayah in the timed recordings.
+ */
+private const val END_LEAD = 100L
