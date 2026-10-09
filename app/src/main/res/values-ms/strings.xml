@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">Setiap kata dengan maknanya di bawahnya.</string>
     <string name="welcome_recitation">Bacaan</string>
     <string name="welcome_recitation_intro">Halaman mengikuti suara, kata yang terdengar bernyala.</string>
-    <string name="welcome_wird">Wirid harian anda</string>
-    <string name="welcome_wird_intro">Peringatan setiap hari, melainkan anda sudah membuka mushaf: di mana meteruskan, dan hafazan hari ini.</string>
-    <string name="welcome_wird_any_time">Pada jam berapa pun yang anda pilih di Tetapan.</string>
-    <string name="no_reminder">Tanpa peringatan</string>
     <string name="updates">Kemas kini</string>
     <string name="welcome_updates_intro">Semasa versi baru Mushaf keluar.</string>
     <string name="updates_off">Mati</string>
@@ -96,7 +92,6 @@
     <string name="next">Seterusnya</string>
     <string name="chosen">Dipilih</string>
     <string name="pages_kept">%1$d dari 604 halaman disimpan di telefon</string>
-    <string name="reminder_summary">Pukul %1$s, melainkan mushaf sudah dibuka hari itu: di mana meteruskan, dan hafazan hari ini.</string>
     <string name="translations_more">lebih dari 380 dalam kira-kira 100 bahasa</string>
     <string name="text_size_detail">menu dan terjemahan</string>
     <string name="about_summary">Versi %1$s · sumber dan kredit</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">Di skrin lebar, seperti buku yang terbuka.</string>
     <string name="keep_screen_on">Biarkan skrin hidup</string>
     <string name="keep_screen_on_detail">Semasa membaca; skrin mati selepas 10 minit tanpa sentuhan, melainkan bacaan sedang dimainkan.</string>
-    <string name="daily_reminder">Peringatan harian</string>
-    <string name="remind_wird">Ingatkan wirid saya</string>
-    <string name="time">Masa</string>
-    <string name="kahf_fridays">Al-Kahf pada hari Jumat</string>
-    <string name="kahf_fridays_detail">Pada Jumat pagi, melainkan anda sudah membukanya.</string>
     <string name="offline">Luar talian</string>
     <string name="keep_offline">Simpan luar talian</string>
     <string name="keep_offline_detail">Halaman, bacaan, dan tafsir di telefon, satu per satu atau sekaligus.</string>
@@ -130,8 +120,6 @@
     <string name="guide">Panduan</string>
     <string name="guide_detail">Halaman-halaman awal sekali lagi, dengan pilihannya</string>
     <string name="about">Perihal</string>
-    <string name="reminder_time">Masa peringatan</string>
-    <string name="set">Atur</string>
     <string name="cancel">Batal</string>
     <string name="script_print_short">Seperti cetakan (mushaf Madinah)</string>
     <string name="script_hafs_short">Huruf Hafs, tanpa muat turun</string>
@@ -396,13 +384,6 @@
     <string name="size_default">Lalai</string>
     <string name="size_large">Besar</string>
     <string name="size_largest">Terbesar</string>
-    <string name="kahf_title">Jumat: Surah Al-Kahf</string>
-    <string name="kahf_text">Terbuka di halaman %1$d.</string>
-    <string name="remind_khatmah_pages">Khataman: halaman %1$d–%2$d hari ini, dari %3$s.</string>
-    <string name="remind_khatmah_page">Khataman: halaman %1$d hari ini, %2$s.</string>
-    <string name="remind_continue_at">Teruskan di %1$s, halaman %2$d.</string>
-    <string name="remind_continue_page">Teruskan di halaman %1$d.</string>
-    <string name="remind_lesson">Pelajaran: %1$s</string>
     <string name="mushaf_tajweed_pages">Mushaf dengan warna tajwid</string>
     <string name="mushaf_pages_title">Halaman mushaf</string>
     <string name="tafsir_named">Tafsir %1$s</string>
@@ -465,8 +446,5 @@
     </plurals>
     <plurals name="days_in_row">
         <item quantity="other">%d hari berturut-turut</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="other">%d halaman untuk diulang kaji</item>
     </plurals>
 </resources>

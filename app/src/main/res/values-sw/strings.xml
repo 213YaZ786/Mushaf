@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">Kila neno na maana yake chini yake.</string>
     <string name="welcome_recitation">Kisomo</string>
     <string name="welcome_recitation_intro">Ukurasa unafuata sauti, neno linalosikika linang\'aa.</string>
-    <string name="welcome_wird">Wiridi yako ya kila siku</string>
-    <string name="welcome_wird_intro">Ukumbusho kila siku, isipokuwa kama umeshafungua msahafu: wapi pa kuendelea, na hifdhi ya leo.</string>
-    <string name="welcome_wird_any_time">Saa yoyote unayotaka kwenye Mipangilio.</string>
-    <string name="no_reminder">Bila ukumbusho</string>
     <string name="updates">Masasisho</string>
     <string name="welcome_updates_intro">Toleo jipya la Mushaf linapotoka.</string>
     <string name="updates_off">Zima</string>
@@ -96,7 +92,6 @@
     <string name="next">Endelea</string>
     <string name="chosen">Imechaguliwa</string>
     <string name="pages_kept">Kurasa %1$d kati ya 604 zimehifadhiwa kwenye simu</string>
-    <string name="reminder_summary">Saa %1$s, isipokuwa msahafu ulifunguliwa siku hiyo: wapi pa kuendelea, na hifdhi ya leo.</string>
     <string name="translations_more">zaidi ya 380 katika lugha takriban 100</string>
     <string name="text_size_detail">menyu na tafsiri</string>
     <string name="about_summary">Toleo %1$s · vyanzo na shukrani</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">Kwenye skrini pana, kama kitabu kilicho wazi.</string>
     <string name="keep_screen_on">Acha skrini iwake</string>
     <string name="keep_screen_on_detail">Unaposoma; inazima baada ya dakika 10 bila kuguswa, isipokuwa kisomo kinacheza.</string>
-    <string name="daily_reminder">Ukumbusho wa kila siku</string>
-    <string name="remind_wird">Nikumbushe wiridi yangu</string>
-    <string name="time">Saa</string>
-    <string name="kahf_fridays">Al-Kahf siku ya Ijumaa</string>
-    <string name="kahf_fridays_detail">Ijumaa asubuhi, isipokuwa kama umeshaifungua.</string>
     <string name="offline">Nje ya mtandao</string>
     <string name="keep_offline">Hifadhi nje ya mtandao</string>
     <string name="keep_offline_detail">Kurasa, visomo na tafsiri kwenye simu, kimoja kimoja au vyote kwa pamoja.</string>
@@ -130,8 +120,6 @@
     <string name="guide">Mwongozo</string>
     <string name="guide_detail">Kurasa za mwanzo tena, pamoja na machaguo yake</string>
     <string name="about">Kuhusu</string>
-    <string name="reminder_time">Saa ya ukumbusho</string>
-    <string name="set">Weka</string>
     <string name="cancel">Ghairi</string>
     <string name="script_print_short">Kama ilivyochapishwa (msahafu wa Madina)</string>
     <string name="script_hafs_short">Fonti ya Hafs, bila kupakua</string>
@@ -396,13 +384,6 @@
     <string name="size_default">Kawaida</string>
     <string name="size_large">Kubwa</string>
     <string name="size_largest">Kubwa zaidi</string>
-    <string name="kahf_title">Ijumaa: Sura Al-Kahf</string>
-    <string name="kahf_text">Inafunguka kwenye ukurasa %1$d.</string>
-    <string name="remind_khatmah_pages">Khitma: kurasa %1$d–%2$d leo, kuanzia %3$s.</string>
-    <string name="remind_khatmah_page">Khitma: ukurasa %1$d leo, %2$s.</string>
-    <string name="remind_continue_at">Endelea %1$s, ukurasa %2$d.</string>
-    <string name="remind_continue_page">Endelea ukurasa %1$d.</string>
-    <string name="remind_lesson">Somo: %1$s</string>
     <string name="mushaf_tajweed_pages">Msahafu wenye rangi za tajwidi</string>
     <string name="mushaf_pages_title">Kurasa za msahafu</string>
     <string name="tafsir_named">Tafsiri %1$s</string>
@@ -482,9 +463,5 @@
     <plurals name="days_in_row">
         <item quantity="one">Siku %d imesomwa</item>
         <item quantity="other">Siku %d mfululizo</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">Ukurasa %d wa kurudia</item>
-        <item quantity="other">Kurasa %d za kurudia</item>
     </plurals>
 </resources>

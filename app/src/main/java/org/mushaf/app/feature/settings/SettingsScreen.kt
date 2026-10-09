@@ -27,7 +27,6 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.material3.Text
 import androidx.compose.material3.ExperimentalMaterial3Api
 import org.mushaf.app.ui.component.ZoneAlertDialog
-import org.mushaf.app.data.remind.Reminder
 import java.time.format.FormatStyle
 import java.time.format.DateTimeFormatter
 import java.time.LocalTime
@@ -69,7 +68,7 @@ import org.mushaf.app.ui.icon.AppIcons
 import org.mushaf.app.ui.theme.TEXT_SCALES
 import org.mushaf.app.ui.theme.textScaleLabel
 
-private enum class OpenDialog { NONE, RIWAYAH, REMINDER_TIME, SCRIPT, THEME, TEXT_SIZE, UPDATES, LANGUAGE, SPACING }
+private enum class OpenDialog { NONE, RIWAYAH, SCRIPT, THEME, TEXT_SIZE, UPDATES, LANGUAGE, SPACING }
 
 /** The app's languages, each named in itself; "" follows the phone. */
 private val APP_LANGUAGES = listOf(
@@ -138,9 +137,6 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
             confirmButton = { TextButton(onClick = { told = null }) { Text(stringResource(R.string.ok)) } }
         )
     }
-    // The reminder follows every change made here.
-    LaunchedEffect(settings.reminder, settings.reminderAt) { Reminder.schedule(context, store) }
-    LaunchedEffect(settings.kahf) { Reminder.scheduleKahf(context, store) }
 
     FloatingFrame(
         bottom = 0.dp,
@@ -181,27 +177,6 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                     summary = stringResource(R.string.keep_screen_on_detail),
                     checked = settings.keepScreenOn,
                     onChange = { on -> store.update { it.copy(keepScreenOn = on) } }
-                )
-            }
-
-            Section(stringResource(R.string.daily_reminder)) {
-                SwitchRow(
-                    title = stringResource(R.string.remind_wird),
-                    summary = stringResource(R.string.reminder_summary, reminderTime(settings.reminderAt)),
-                    checked = settings.reminder,
-                    onChange = { on ->
-                        store.update { it.copy(reminder = on) }
-                        if (on && Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU &&
-                            ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED
-                        ) askNotifications.launch(Manifest.permission.POST_NOTIFICATIONS)
-                    }
-                )
-                if (settings.reminder) SettingRow(stringResource(R.string.time), reminderTime(settings.reminderAt), onClick = { dialog = OpenDialog.REMINDER_TIME })
-                SwitchRow(
-                    title = stringResource(R.string.kahf_fridays),
-                    summary = stringResource(R.string.kahf_fridays_detail),
-                    checked = settings.kahf,
-                    onChange = { on -> store.update { it.copy(kahf = on) } }
                 )
             }
 
@@ -281,25 +256,6 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
     }
 
     when (dialog) {
-        OpenDialog.REMINDER_TIME -> {
-            val state = rememberTimePickerState(
-                initialHour = settings.reminderAt / 60,
-                initialMinute = settings.reminderAt % 60,
-                is24Hour = DateFormat.is24HourFormat(context)
-            )
-            ZoneAlertDialog(
-                onDismissRequest = { dialog = OpenDialog.NONE },
-                title = { Text(stringResource(R.string.reminder_time)) },
-                text = { TimePicker(state) },
-                confirmButton = {
-                    TextButton(onClick = {
-                        store.update { it.copy(reminderAt = state.hour * 60 + state.minute) }
-                        dialog = OpenDialog.NONE
-                    }) { Text(stringResource(R.string.set)) }
-                },
-                dismissButton = { TextButton(onClick = { dialog = OpenDialog.NONE }) { Text(stringResource(R.string.cancel)) } }
-            )
-        }
         OpenDialog.RIWAYAH -> ChoiceDialog(
             title = stringResource(R.string.riwayah),
             options = Riwayah.entries.map { it to "${it.label} · ${it.arabic}" },
@@ -356,10 +312,6 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
         OpenDialog.NONE -> Unit
     }
 }
-
-/** The reminder's time as the phone writes times. */
-private fun reminderTime(minutes: Int): String =
-    LocalTime.of(minutes / 60, minutes % 60).format(DateTimeFormatter.ofLocalizedTime(FormatStyle.SHORT))
 
 @Composable
 private fun scriptLabel(script: Script): String = when (script) {

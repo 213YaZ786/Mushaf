@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">Yal awal s unamek-is seddaw-as.</string>
     <string name="welcome_recitation">Taɣuri</string>
     <string name="welcome_recitation_intro">Asebter yeṭṭafaṛ taɣect, awal i d-yettwaslen ad yefseḥ.</string>
-    <string name="welcome_wird">Lwerd-ik n yal ass</string>
-    <string name="welcome_wird_intro">Asmekti yal ass, ma yella ur teldiḍ ara yakan lmesḥef: ansi ara tkemmleḍ, d lḥifḍ n wass.</string>
-    <string name="welcome_wird_any_time">Deg wakud i tebɣiḍ deg Iɣewwaṛen.</string>
-    <string name="no_reminder">Ulac asmekti</string>
     <string name="updates">Ileqman</string>
     <string name="welcome_updates_intro">Mi ara d-teffeɣ lqem amaynut n Mushaf.</string>
     <string name="updates_off">Ala</string>
@@ -96,7 +92,6 @@
     <string name="next">Uḍfiṛ</string>
     <string name="chosen">Yettwafren</string>
     <string name="pages_kept">%1$d seg 604 n yisebtar ttwaḥerzen deg tiliɣri</string>
-    <string name="reminder_summary">Ɣef %1$s, ma yella ur yettwaldi ara lmesḥef ass-nni: ansi ara tkemmleḍ, d lḥifḍ n wass.</string>
     <string name="translations_more">ugar n 380 s azal n 100 n tutlayin</string>
     <string name="text_size_detail">umuɣen d tsuqilin</string>
     <string name="about_summary">Lqem %1$s · iɣbula d tanemmirt</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">Ɣef ugdil ameqqran, am udlis yeldin.</string>
     <string name="keep_screen_on">Eǧǧ agdil yeddren</string>
     <string name="keep_screen_on_detail">Mi ara teqqareḍ; ad yensu deffir 10 n tesdidin war asenned, ma yella ulac taɣuri i yettmeslayen.</string>
-    <string name="daily_reminder">Asmekti n yal ass</string>
-    <string name="remind_wird">Smekti-yi lwerd-iw</string>
-    <string name="time">Asrag</string>
-    <string name="kahf_fridays">Al-Kahf ass n Lǧemɛa</string>
-    <string name="kahf_fridays_detail">Taṣebḥit n Lǧemɛa, ma yella ur tt-teldiḍ ara yakan.</string>
     <string name="offline">War tuqqna</string>
     <string name="keep_offline">Ḥrez war tuqqna</string>
     <string name="keep_offline_detail">Isebtar, tiɣuṛiwin d tefsirin deg tiliɣri, yiwen yiwen neɣ akk yiwet n tikkelt.</string>
@@ -130,8 +120,6 @@
     <string name="guide">Amnir</string>
     <string name="guide_detail">Isebtar imezwura tikkelt nniḍen, s yifranen-nsen</string>
     <string name="about">Ɣef</string>
-    <string name="reminder_time">Asrag n usmekti</string>
-    <string name="set">Sbadu</string>
     <string name="cancel">Sefsex</string>
     <string name="script_print_short">Akken yettwasiggez (lmesḥef n Lmadina)</string>
     <string name="script_hafs_short">Tasefsit Hafs, war asider</string>
@@ -396,13 +384,6 @@
     <string name="size_default">Amagnu</string>
     <string name="size_large">Meqqer</string>
     <string name="size_largest">Meqqer aṭas</string>
-    <string name="kahf_title">Lǧemɛa: tasurett Al-Kahf</string>
-    <string name="kahf_text">Ad tefru ɣef usebter %1$d.</string>
-    <string name="remind_khatmah_pages">Lxetma: isebtar %1$d–%2$d ass-a, seg %3$s.</string>
-    <string name="remind_khatmah_page">Lxetma: asebter %1$d ass-a, %2$s.</string>
-    <string name="remind_continue_at">Kemmel seg %1$s, asebter %2$d.</string>
-    <string name="remind_continue_page">Kemmel seg usebter %1$d.</string>
-    <string name="remind_lesson">Tamsirt: %1$s</string>
     <string name="mushaf_tajweed_pages">Lmesḥef s yini n tajwid</string>
     <string name="mushaf_pages_title">Isebtar n lmesḥef</string>
     <string name="tafsir_named">Tafsir %1$s</string>
@@ -482,9 +463,5 @@
     <plurals name="days_in_row">
         <item quantity="one">%d n wass yettwaɣren</item>
         <item quantity="other">%d n wussan s tuggdit</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">%d n usebter ara yettwaɛiwden</item>
-        <item quantity="other">%d n yisebtar ara yettwaɛiwden</item>
     </plurals>
 </resources>

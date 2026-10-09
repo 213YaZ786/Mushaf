@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">हर शब्द के नीचे उसका अपना अर्थ।</string>
     <string name="welcome_recitation">तिलावत</string>
     <string name="welcome_recitation_intro">पृष्ठ आवाज़ के साथ चलता है, सुना गया शब्द चमकता है।</string>
-    <string name="welcome_wird">आपका दैनिक विर्द</string>
-    <string name="welcome_wird_intro">हर दिन एक रिमाइंडर, जब तक आपने मुसहफ़ पहले न खोला हो: कहाँ से जारी रखें, और आज का हिफ़्ज़।</string>
-    <string name="welcome_wird_any_time">सेटिंग्स में जब चाहें।</string>
-    <string name="no_reminder">कोई रिमाइंडर नहीं</string>
     <string name="updates">अपडेट</string>
     <string name="welcome_updates_intro">जब मुसहफ़ का नया संस्करण आए।</string>
     <string name="updates_off">बंद</string>
@@ -96,7 +92,6 @@
     <string name="next">आगे</string>
     <string name="chosen">चुना गया</string>
     <string name="pages_kept">604 में से %1$d पृष्ठ फ़ोन पर</string>
-    <string name="reminder_summary">%1$s बजे, जब तक उस दिन मुसहफ़ न खोला गया हो: कहाँ से जारी रखें, और आज का हिफ़्ज़।</string>
     <string name="translations_more">लगभग 100 भाषाओं में 380 से अधिक</string>
     <string name="text_size_detail">मेनू और अनुवाद</string>
     <string name="about_summary">संस्करण %1$s · स्रोत और आभार</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">चौड़ी स्क्रीन पर, खुली किताब की तरह।</string>
     <string name="keep_screen_on">स्क्रीन चालू रखें</string>
     <string name="keep_screen_on_detail">पढ़ते समय; 10 मिनट बिना छुए बंद हो जाती है, जब तक तिलावत न चल रही हो।</string>
-    <string name="daily_reminder">दैनिक रिमाइंडर</string>
-    <string name="remind_wird">मेरा विर्द याद दिलाएँ</string>
-    <string name="time">समय</string>
-    <string name="kahf_fridays">जुमे को सूरह अल-कहफ़</string>
-    <string name="kahf_fridays_detail">जुमे की सुबह, जब तक आपने पहले न खोली हो।</string>
     <string name="offline">ऑफ़लाइन</string>
     <string name="keep_offline">ऑफ़लाइन रखें</string>
     <string name="keep_offline_detail">पृष्ठ, तिलावतें और तफ़सीरें फ़ोन पर, एक-एक करके या सब एक साथ।</string>
@@ -130,8 +120,6 @@
     <string name="guide">मार्गदर्शिका</string>
     <string name="guide_detail">शुरुआती पृष्ठ फिर से, उनके विकल्पों के साथ</string>
     <string name="about">परिचय</string>
-    <string name="reminder_time">रिमाइंडर का समय</string>
-    <string name="set">सेट करें</string>
     <string name="cancel">रद्द करें</string>
     <string name="script_print_short">जैसा छपा (मदीना मुसहफ़)</string>
     <string name="script_hafs_short">हफ़्स फ़ॉन्ट, कोई डाउनलोड नहीं</string>
@@ -396,13 +384,6 @@
     <string name="size_default">सामान्य</string>
     <string name="size_large">बड़ा</string>
     <string name="size_largest">सबसे बड़ा</string>
-    <string name="kahf_title">जुमा: सूरह अल-कहफ़</string>
-    <string name="kahf_text">यह पृष्ठ %1$d पर खुलती है।</string>
-    <string name="remind_khatmah_pages">ख़त्म: आज पृष्ठ %1$d–%2$d, %3$s से।</string>
-    <string name="remind_khatmah_page">ख़त्म: आज पृष्ठ %1$d, %2$s।</string>
-    <string name="remind_continue_at">%1$s, पृष्ठ %2$d से जारी रखें।</string>
-    <string name="remind_continue_page">पृष्ठ %1$d से जारी रखें।</string>
-    <string name="remind_lesson">सबक़: %1$s</string>
     <string name="mushaf_tajweed_pages">रंगीन तजवीद वाला मुसहफ़</string>
     <string name="mushaf_pages_title">मुसहफ़ के पृष्ठ</string>
     <string name="tafsir_named">तफ़सीर %1$s</string>
@@ -482,9 +463,5 @@
     <plurals name="days_in_row">
         <item quantity="one">%d दिन पढ़ा</item>
         <item quantity="other">लगातार %d दिन</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">दोहराने के लिए %d पृष्ठ</item>
-        <item quantity="other">दोहराने के लिए %d पृष्ठ</item>
     </plurals>
 </resources>

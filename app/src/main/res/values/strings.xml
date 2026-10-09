@@ -25,10 +25,6 @@
     <string name="word_by_word_detail">Each word with its own meaning under it.</string>
     <string name="welcome_recitation">The recitation</string>
     <string name="welcome_recitation_intro">The page follows the voice, the word heard lights up.</string>
-    <string name="welcome_wird">Your daily wird</string>
-    <string name="welcome_wird_intro">A reminder each day, unless you have opened the mushaf already: where to continue, and the day\'s hifz.</string>
-    <string name="welcome_wird_any_time">Any time you like in Settings.</string>
-    <string name="no_reminder">No reminder</string>
     <string name="language">Language</string>
     <string name="language_system">Same as the phone</string>
     <string name="update_available">New version available</string>
@@ -49,7 +45,6 @@
     <string name="next">Next</string>
     <string name="chosen">Chosen</string>
     <string name="pages_kept">%1$d of 604 pages kept on the phone</string>
-    <string name="reminder_summary">At %1$s, unless the mushaf was opened that day: where to continue, and the day\'s hifz.</string>
     <plurals name="translations_shown">
         <item quantity="one">%d shown</item>
         <item quantity="other">%d shown</item>
@@ -77,11 +72,6 @@
     <string name="two_pages_detail">On a wide screen, as an open book.</string>
     <string name="keep_screen_on">Keep the screen on</string>
     <string name="keep_screen_on_detail">While you read; it sleeps after 10 minutes without a touch, unless a recitation plays.</string>
-    <string name="daily_reminder">Daily reminder</string>
-    <string name="remind_wird">Remind me of my wird</string>
-    <string name="time">Time</string>
-    <string name="kahf_fridays">Al-Kahf on Fridays</string>
-    <string name="kahf_fridays_detail">On Friday morning, unless you have opened it already.</string>
     <string name="offline">Offline</string>
     <string name="keep_offline">Keep offline</string>
     <string name="keep_offline_detail">Pages, recitations and tafsir on the phone, one by one or all at once.</string>
@@ -106,8 +96,6 @@
     <string name="guide">Guide</string>
     <string name="guide_detail">The first pages again, with their choices</string>
     <string name="about">About</string>
-    <string name="reminder_time">Reminder time</string>
-    <string name="set">Set</string>
     <string name="cancel">Cancel</string>
     <string name="script_print_short">As printed (Madinah mushaf)</string>
     <string name="script_hafs_short">Hafs font, no download</string>
@@ -437,17 +425,6 @@
     <string name="size_default">Default</string>
     <string name="size_large">Large</string>
     <string name="size_largest">Largest</string>
-    <string name="kahf_title">Friday: Surah Al-Kahf</string>
-    <string name="kahf_text">It opens at page %1$d.</string>
-    <string name="remind_khatmah_pages">Khatmah: pages %1$d–%2$d today, from %3$s.</string>
-    <string name="remind_khatmah_page">Khatmah: page %1$d today, %2$s.</string>
-    <string name="remind_continue_at">Continue at %1$s, page %2$d.</string>
-    <string name="remind_continue_page">Continue at page %1$d.</string>
-    <string name="remind_lesson">Lesson: %1$s</string>
-    <plurals name="pages_to_revise">
-        <item quantity="one">%d page to revise</item>
-        <item quantity="other">%d pages to revise</item>
-    </plurals>
     <string name="mushaf_tajweed_pages">Mushaf with tajweed colours</string>
     <string name="mushaf_pages_title">Mushaf pages</string>
     <string name="tafsir_named">Tafsir %1$s</string>

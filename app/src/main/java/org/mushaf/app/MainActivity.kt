@@ -7,7 +7,6 @@ import kotlinx.coroutines.launch
 import org.mushaf.app.feature.widget.Widgets
 import org.koin.core.context.GlobalContext
 import org.mushaf.app.core.quran.PAGES
-import org.mushaf.app.data.remind.Reminder
 import org.mushaf.app.feature.mushaf.Reader
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -30,9 +29,9 @@ class MainActivity : ComponentActivity() {
         openPage(intent)
     }
 
-    /** A page asked by the app's own reminder: only a page number, only shown. */
+    /** A page asked by the app's own widget: only a page number, only shown. */
     private fun openPage(intent: Intent?) {
-        val page = intent?.getIntExtra(Reminder.PAGE, 0) ?: 0
+        val page = intent?.getIntExtra(PAGE, 0) ?: 0
         if (page in 1..PAGES) GlobalContext.get().get<Reader>().go(page)
     }
 
@@ -46,6 +45,11 @@ class MainActivity : ComponentActivity() {
         // The widgets show what was just read.
         lifecycleScope.launch { Widgets.refresh(applicationContext) }
         super.onStop()
+    }
+
+    companion object {
+        /** The page a widget opens. */
+        const val PAGE = "org.mushaf.app.PAGE"
     }
 }
 

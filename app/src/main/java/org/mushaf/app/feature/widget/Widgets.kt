@@ -52,7 +52,6 @@ import org.mushaf.app.core.quran.Riwayah
 import org.mushaf.app.core.reading.Days
 import org.mushaf.app.data.khatmah.Khatmah
 import org.mushaf.app.data.quran.Quran
-import org.mushaf.app.data.remind.Reminder
 import org.mushaf.app.data.settings.SettingsStore
 
 /**
@@ -73,7 +72,7 @@ object Widgets {
     /** Opens the app at [page]. */
     fun open(context: Context, page: Int?) = actionStartActivity(
         Intent(context, MainActivity::class.java)
-            .apply { if (page != null) putExtra(Reminder.PAGE, page) }
+            .apply { if (page != null) putExtra(org.mushaf.app.MainActivity.PAGE, page) }
             .addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP)
     )
 
@@ -151,7 +150,7 @@ class AyahWidget : GlanceAppWidget() {
         val quran = koin.get<Quran>()
         val settings = koin.get<SettingsStore>()
         // One of the Quran's own supplications (the "Rabbana" du'as) a day, in turn.
-        val hafs = DUAS[abs(Reminder.today() % DUAS.size).toInt()]
+        val hafs = DUAS[abs(java.time.LocalDate.now().toEpochDay() % DUAS.size).toInt()]
         val key = if (settings.current.riwayah == Riwayah.WARSH) quran.warshKey(hafs) else hafs
         val words = quran.page(quran.pageOf(key)).words.filter { it.key == key }.joinToString(" ") { it.text }
         val meaning = quran.english(key)
@@ -230,7 +229,7 @@ class ReadingWidget : GlanceAppWidget() {
         val quran = koin.get<Quran>()
         val page = settings.page
         val surah = runCatching { quran.surah(quran.firstAyah(page).surah).title }.getOrDefault("")
-        val streak = Days.streak(settings.readDays, Reminder.today())
+        val streak = Days.streak(settings.readDays, java.time.LocalDate.now().toEpochDay())
         provideContent {
             GlanceTheme {
                 Card(GlanceModifier.clickable(Widgets.open(context, page))) {

@@ -48,6 +48,22 @@ class PlaybackService : MediaSessionService() {
             .setWakeMode(C.WAKE_MODE_NETWORK)
             .build()
         session = MediaSession.Builder(this, player).build()
+        // The recitation over with the app closed: its notification and the service go
+        // (after a moment, as a repeat or the next part may start again at once).
+        player.addListener(object : androidx.media3.common.Player.Listener {
+            override fun onPlaybackStateChanged(state: Int) {
+                if (state != androidx.media3.common.Player.STATE_ENDED && state != androidx.media3.common.Player.STATE_IDLE) return
+                stopping.postDelayed(::stopWhenOver, 3_000)
+            }
+        })
+    }
+
+    private val stopping = android.os.Handler(android.os.Looper.getMainLooper())
+
+    private fun stopWhenOver() {
+        val player = session?.player ?: return
+        val over = player.playbackState == androidx.media3.common.Player.STATE_ENDED || player.playbackState == androidx.media3.common.Player.STATE_IDLE
+        if (over && !player.isPlaying && !org.mushaf.app.Shown.now) pauseAllPlayersAndStopSelf()
     }
 
     override fun onGetSession(controllerInfo: MediaSession.ControllerInfo): MediaSession? = session
@@ -58,6 +74,7 @@ class PlaybackService : MediaSessionService() {
     }
 
     override fun onDestroy() {
+        stopping.removeCallbacksAndMessages(null)
         session?.run {
             player.release()
             release()

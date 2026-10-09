@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">Har bir so‘z ostida o‘z ma’nosi.</string>
     <string name="welcome_recitation">Qiroat</string>
     <string name="welcome_recitation_intro">Sahifa ovozga ergashadi, eshitilgan so‘z yonadi.</string>
-    <string name="welcome_wird">Kundalik viringiz</string>
-    <string name="welcome_wird_intro">Har kuni eslatma, agar mushafni allaqachon ochmagan bo‘lsangiz: qayerdan davom etish va bugungi hifz.</string>
-    <string name="welcome_wird_any_time">Sozlamalarda istalgan vaqtda.</string>
-    <string name="no_reminder">Eslatmasiz</string>
     <string name="updates">Yangilanishlar</string>
     <string name="welcome_updates_intro">Mushafning yangi versiyasi chiqqanda.</string>
     <string name="updates_off">O‘chiq</string>
@@ -96,7 +92,6 @@
     <string name="next">Keyingi</string>
     <string name="chosen">Tanlangan</string>
     <string name="pages_kept">604 sahifadan %1$d tasi telefonda</string>
-    <string name="reminder_summary">Soat %1$s da, agar o‘sha kuni mushaf ochilmagan bo‘lsa: qayerdan davom etish va bugungi hifz.</string>
     <string name="translations_more">100 ga yaqin tilda 380 dan ortiq</string>
     <string name="text_size_detail">menyular va tarjimalar</string>
     <string name="about_summary">Versiya %1$s · manbalar va minnatdorchilik</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">Keng ekranda, ochiq kitob kabi.</string>
     <string name="keep_screen_on">Ekranni yoqiq tutish</string>
     <string name="keep_screen_on_detail">O‘qiyotganda; 10 daqiqa tegilmasa o‘chadi, qiroat yangrayotgan bo‘lmasa.</string>
-    <string name="daily_reminder">Kundalik eslatma</string>
-    <string name="remind_wird">Virdimni eslatib tur</string>
-    <string name="time">Vaqt</string>
-    <string name="kahf_fridays">Juma kunlari Kahf</string>
-    <string name="kahf_fridays_detail">Juma ertalab, agar uni allaqachon ochmagan bo‘lsangiz.</string>
     <string name="offline">Oflayn</string>
     <string name="keep_offline">Oflayn saqlash</string>
     <string name="keep_offline_detail">Sahifalar, qiroatlar va tafsirlar telefonda, birma-bir yoki hammasi birdaniga.</string>
@@ -130,8 +120,6 @@
     <string name="guide">Qo‘llanma</string>
     <string name="guide_detail">Dastlabki sahifalar yana, tanlovlari bilan</string>
     <string name="about">Ilova haqida</string>
-    <string name="reminder_time">Eslatma vaqti</string>
-    <string name="set">O‘rnatish</string>
     <string name="cancel">Bekor qilish</string>
     <string name="script_print_short">Chop etilganidek (Madina mushafi)</string>
     <string name="script_hafs_short">Hafs shrifti, yuklab olishsiz</string>
@@ -396,13 +384,6 @@
     <string name="size_default">Odatiy</string>
     <string name="size_large">Katta</string>
     <string name="size_largest">Eng katta</string>
-    <string name="kahf_title">Juma: Kahf surasi</string>
-    <string name="kahf_text">U %1$d-sahifada ochiladi.</string>
-    <string name="remind_khatmah_pages">Xatm: bugun sahifalar %1$d–%2$d, %3$s dan.</string>
-    <string name="remind_khatmah_page">Xatm: bugun sahifa %1$d, %2$s.</string>
-    <string name="remind_continue_at">%1$s, sahifa %2$d dan davom eting.</string>
-    <string name="remind_continue_page">%1$d-sahifadan davom eting.</string>
-    <string name="remind_lesson">Dars: %1$s</string>
     <string name="mushaf_tajweed_pages">Tajvid ranglari bilan mushaf</string>
     <string name="mushaf_pages_title">Mushaf sahifalari</string>
     <string name="tafsir_named">Tafsir %1$s</string>
@@ -482,9 +463,5 @@
     <plurals name="days_in_row">
         <item quantity="one">%d kun o‘qildi</item>
         <item quantity="other">Ketma-ket %d kun</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">Takrorlash uchun %d sahifa</item>
-        <item quantity="other">Takrorlash uchun %d sahifa</item>
     </plurals>
 </resources>

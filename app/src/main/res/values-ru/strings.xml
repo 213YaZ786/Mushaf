@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">Каждое слово со своим значением под ним.</string>
     <string name="welcome_recitation">Чтение</string>
     <string name="welcome_recitation_intro">Страница следует за голосом, услышанное слово подсвечивается.</string>
-    <string name="welcome_wird">Ваш ежедневный вирд</string>
-    <string name="welcome_wird_intro">Напоминание каждый день, если вы ещё не открывали мусхаф: где продолжить и хифз дня.</string>
-    <string name="welcome_wird_any_time">В любое время в настройках.</string>
-    <string name="no_reminder">Без напоминания</string>
     <string name="updates">Обновления</string>
     <string name="welcome_updates_intro">Когда выходит новая версия Mushaf.</string>
     <string name="updates_off">Выкл.</string>
@@ -96,7 +92,6 @@
     <string name="next">Далее</string>
     <string name="chosen">Выбрано</string>
     <string name="pages_kept">%1$d из 604 страниц на телефоне</string>
-    <string name="reminder_summary">В %1$s, если мусхаф в тот день не открывали: где продолжить и хифз дня.</string>
     <string name="translations_more">более 380 примерно на 100 языках</string>
     <string name="text_size_detail">меню и переводы</string>
     <string name="about_summary">Версия %1$s · источники и благодарности</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">На широком экране, как раскрытая книга.</string>
     <string name="keep_screen_on">Не выключать экран</string>
     <string name="keep_screen_on_detail">Во время чтения; гаснет через 10 минут без касаний, если не звучит чтение.</string>
-    <string name="daily_reminder">Ежедневное напоминание</string>
-    <string name="remind_wird">Напоминать о вирде</string>
-    <string name="time">Время</string>
-    <string name="kahf_fridays">Аль-Кахф по пятницам</string>
-    <string name="kahf_fridays_detail">В пятницу утром, если вы её ещё не открывали.</string>
     <string name="offline">Офлайн</string>
     <string name="keep_offline">Хранить офлайн</string>
     <string name="keep_offline_detail">Страницы, чтения и тафсиры на телефоне, по одному или всё сразу.</string>
@@ -130,8 +120,6 @@
     <string name="guide">Введение</string>
     <string name="guide_detail">Первые страницы снова, с их выбором</string>
     <string name="about">О приложении</string>
-    <string name="reminder_time">Время напоминания</string>
-    <string name="set">Готово</string>
     <string name="cancel">Отмена</string>
     <string name="script_print_short">Как напечатано (мединский мусхаф)</string>
     <string name="script_hafs_short">Шрифт Хафс, без загрузки</string>
@@ -396,13 +384,6 @@
     <string name="size_default">Обычный</string>
     <string name="size_large">Крупный</string>
     <string name="size_largest">Самый крупный</string>
-    <string name="kahf_title">Пятница: сура аль-Кахф</string>
-    <string name="kahf_text">Открывается на странице %1$d.</string>
-    <string name="remind_khatmah_pages">Хатм: сегодня страницы %1$d–%2$d, с %3$s.</string>
-    <string name="remind_khatmah_page">Хатм: сегодня страница %1$d, %2$s.</string>
-    <string name="remind_continue_at">Продолжите: %1$s, страница %2$d.</string>
-    <string name="remind_continue_page">Продолжите со страницы %1$d.</string>
-    <string name="remind_lesson">Урок: %1$s</string>
     <string name="mushaf_tajweed_pages">Мусхаф с цветами таджвида</string>
     <string name="mushaf_pages_title">Страницы мусхафа</string>
     <string name="tafsir_named">Тафсир %1$s</string>
@@ -516,11 +497,5 @@
         <item quantity="few">%d дня подряд</item>
         <item quantity="many">%d дней подряд</item>
         <item quantity="other">%d дня подряд</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">%d страница на повторение</item>
-        <item quantity="few">%d страницы на повторение</item>
-        <item quantity="many">%d страниц на повторение</item>
-        <item quantity="other">%d страницы на повторение</item>
     </plurals>
 </resources>

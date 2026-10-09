@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">Çdo fjalë me kuptimin e saj poshtë.</string>
     <string name="welcome_recitation">Leximi</string>
     <string name="welcome_recitation_intro">Faqja ndjek zërin, fjala që dëgjohet ndriçohet.</string>
-    <string name="welcome_wird">Virdi juaj i përditshëm</string>
-    <string name="welcome_wird_intro">Një kujtesë çdo ditë, përveç nëse e keni hapur tashmë mushafin: ku të vazhdoni dhe hifzi i ditës.</string>
-    <string name="welcome_wird_any_time">Në çdo orë që doni, te Cilësimet.</string>
-    <string name="no_reminder">Pa kujtesë</string>
     <string name="updates">Përditësimet</string>
     <string name="welcome_updates_intro">Kur del një version i ri i Mushaf.</string>
     <string name="updates_off">Joaktiv</string>
@@ -96,7 +92,6 @@
     <string name="next">Tjetra</string>
     <string name="chosen">Zgjedhur</string>
     <string name="pages_kept">%1$d nga 604 faqe në telefon</string>
-    <string name="reminder_summary">Në orën %1$s, përveç nëse mushafi është hapur atë ditë: ku të vazhdoni dhe hifzi i ditës.</string>
     <string name="translations_more">mbi 380 në rreth 100 gjuhë</string>
     <string name="text_size_detail">menytë dhe përkthimet</string>
     <string name="about_summary">Versioni %1$s · burimet dhe falënderimet</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">Në ekran të gjerë, si një libër i hapur.</string>
     <string name="keep_screen_on">Mbaje ekranin ndezur</string>
     <string name="keep_screen_on_detail">Gjatë leximit; fiket pas 10 minutash pa prekje, përveç nëse po luhet një lexim.</string>
-    <string name="daily_reminder">Kujtesa e përditshme</string>
-    <string name="remind_wird">Më kujto virdin</string>
-    <string name="time">Ora</string>
-    <string name="kahf_fridays">El-Kehf të premteve</string>
-    <string name="kahf_fridays_detail">Të premten në mëngjes, përveç nëse e keni hapur tashmë.</string>
     <string name="offline">Jashtë linje</string>
     <string name="keep_offline">Ruaj jashtë linje</string>
     <string name="keep_offline_detail">Faqet, leximet dhe tefsiret në telefon, një nga një ose të gjitha njëherësh.</string>
@@ -130,8 +120,6 @@
     <string name="guide">Udhëzuesi</string>
     <string name="guide_detail">Faqet e para sërish, me zgjedhjet e tyre</string>
     <string name="about">Rreth</string>
-    <string name="reminder_time">Ora e kujtesës</string>
-    <string name="set">Cakto</string>
     <string name="cancel">Anulo</string>
     <string name="script_print_short">Siç është shtypur (mushafi i Medinës)</string>
     <string name="script_hafs_short">Shkronjat Hafs, pa shkarkim</string>
@@ -396,13 +384,6 @@
     <string name="size_default">E zakonshme</string>
     <string name="size_large">E madhe</string>
     <string name="size_largest">Më e madhja</string>
-    <string name="kahf_title">E premte: sureja El-Kehf</string>
-    <string name="kahf_text">Hapet në faqen %1$d.</string>
-    <string name="remind_khatmah_pages">Hatmja: faqet %1$d–%2$d sot, nga %3$s.</string>
-    <string name="remind_khatmah_page">Hatmja: faqja %1$d sot, %2$s.</string>
-    <string name="remind_continue_at">Vazhdoni te %1$s, faqja %2$d.</string>
-    <string name="remind_continue_page">Vazhdoni te faqja %1$d.</string>
-    <string name="remind_lesson">Mësimi: %1$s</string>
     <string name="mushaf_tajweed_pages">Mushaf me ngjyrat e texhvidit</string>
     <string name="mushaf_pages_title">Faqet e mushafit</string>
     <string name="tafsir_named">Tefsiri %1$s</string>
@@ -482,9 +463,5 @@
     <plurals name="days_in_row">
         <item quantity="one">%d ditë e lexuar</item>
         <item quantity="other">%d ditë radhazi</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">%d faqe për t\'u përsëritur</item>
-        <item quantity="other">%d faqe për t\'u përsëritur</item>
     </plurals>
 </resources>

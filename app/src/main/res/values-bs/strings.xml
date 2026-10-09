@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">Svaka riječ sa svojim značenjem ispod nje.</string>
     <string name="welcome_recitation">Učenje</string>
     <string name="welcome_recitation_intro">Stranica prati glas, čuta riječ zasvijetli.</string>
-    <string name="welcome_wird">Vaš dnevni vird</string>
-    <string name="welcome_wird_intro">Podsjetnik svaki dan, osim ako ste već otvorili mushaf: gdje nastaviti i današnji hifz.</string>
-    <string name="welcome_wird_any_time">U bilo koje vrijeme u Postavkama.</string>
-    <string name="no_reminder">Bez podsjetnika</string>
     <string name="updates">Ažuriranja</string>
     <string name="welcome_updates_intro">Kad izađe nova verzija Mushafa.</string>
     <string name="updates_off">Isključeno</string>
@@ -96,7 +92,6 @@
     <string name="next">Dalje</string>
     <string name="chosen">Odabrano</string>
     <string name="pages_kept">%1$d od 604 stranice na telefonu</string>
-    <string name="reminder_summary">U %1$s, osim ako je mushaf tog dana otvoren: gdje nastaviti i današnji hifz.</string>
     <string name="translations_more">više od 380 na oko 100 jezika</string>
     <string name="text_size_detail">meniji i prijevodi</string>
     <string name="about_summary">Verzija %1$s · izvori i zahvale</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">Na širokom ekranu, kao otvorena knjiga.</string>
     <string name="keep_screen_on">Ekran ostaje uključen</string>
     <string name="keep_screen_on_detail">Dok čitate; gasi se nakon 10 minuta bez dodira, osim ako se uči.</string>
-    <string name="daily_reminder">Dnevni podsjetnik</string>
-    <string name="remind_wird">Podsjeti me na vird</string>
-    <string name="time">Vrijeme</string>
-    <string name="kahf_fridays">El-Kehf petkom</string>
-    <string name="kahf_fridays_detail">U petak ujutro, osim ako ste je već otvorili.</string>
     <string name="offline">Van mreže</string>
     <string name="keep_offline">Čuvaj van mreže</string>
     <string name="keep_offline_detail">Stranice, učenja i tefsiri na telefonu, jedno po jedno ili sve odjednom.</string>
@@ -130,8 +120,6 @@
     <string name="guide">Vodič</string>
     <string name="guide_detail">Prve stranice ponovo, s njihovim izborima</string>
     <string name="about">O aplikaciji</string>
-    <string name="reminder_time">Vrijeme podsjetnika</string>
-    <string name="set">Postavi</string>
     <string name="cancel">Otkaži</string>
     <string name="script_print_short">Kako je štampan (medinski mushaf)</string>
     <string name="script_hafs_short">Font Hafs, bez preuzimanja</string>
@@ -396,13 +384,6 @@
     <string name="size_default">Zadana</string>
     <string name="size_large">Velika</string>
     <string name="size_largest">Najveća</string>
-    <string name="kahf_title">Petak: sura El-Kehf</string>
-    <string name="kahf_text">Otvara se na stranici %1$d.</string>
-    <string name="remind_khatmah_pages">Hatma: danas stranice %1$d–%2$d, od %3$s.</string>
-    <string name="remind_khatmah_page">Hatma: danas stranica %1$d, %2$s.</string>
-    <string name="remind_continue_at">Nastavite: %1$s, stranica %2$d.</string>
-    <string name="remind_continue_page">Nastavite od stranice %1$d.</string>
-    <string name="remind_lesson">Lekcija: %1$s</string>
     <string name="mushaf_tajweed_pages">Mushaf s bojama tedžvida</string>
     <string name="mushaf_pages_title">Stranice mushafa</string>
     <string name="tafsir_named">Tefsir %1$s</string>
@@ -499,10 +480,5 @@
         <item quantity="one">%d dan zaredom</item>
         <item quantity="few">%d dana zaredom</item>
         <item quantity="other">%d dana zaredom</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">%d stranica za ponavljanje</item>
-        <item quantity="few">%d stranice za ponavljanje</item>
-        <item quantity="other">%d stranica za ponavljanje</item>
     </plurals>
 </resources>

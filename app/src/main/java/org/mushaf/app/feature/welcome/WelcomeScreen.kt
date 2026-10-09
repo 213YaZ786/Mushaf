@@ -47,7 +47,6 @@ import org.koin.compose.koinInject
 import org.mushaf.app.core.common.Languages
 import org.mushaf.app.feature.listen.label
 import androidx.compose.ui.res.pluralStringResource
-import org.mushaf.app.data.remind.Reminder
 import java.time.format.FormatStyle
 import java.time.format.DateTimeFormatter
 import java.time.LocalTime
@@ -71,7 +70,7 @@ import org.mushaf.app.ui.glass.LocalGlass
 import org.mushaf.app.ui.glass.glassZone
 import org.mushaf.app.ui.icon.AppIcons
 
-private enum class Page { WELCOME, PAGES, MEANING, LISTEN, REMIND, UPDATES }
+private enum class Page { WELCOME, PAGES, MEANING, LISTEN, UPDATES }
 
 /**
  * The first launch: a few pages, each with the best choice already made,
@@ -102,13 +101,12 @@ fun WelcomeScreen(onFinish: () -> Unit) {
 
     fun finish() {
         store.update { it.copy(welcomeSeen = true) }
-        // The pages are kept on the phone as chosen, their progress in a notification; the reminder is one too.
+        // The pages are kept on the phone as chosen, their progress in a notification.
         val keepPages = settings.riwayah == Riwayah.HAFS && settings.keepPagesOffline && settings.script != Script.HAFS
-        if ((keepPages || settings.reminder) && Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU &&
+        if (keepPages && Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU &&
             ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED
         ) askNotifications.launch(Manifest.permission.POST_NOTIFICATIONS)
         if (keepPages) offline.start(Pack.Pages(settings.script))
-        Reminder.schedule(context, store)
         onFinish()
     }
 
@@ -199,19 +197,6 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                         Recitations.of(settings.riwayah).take(4).map { it.id to it.label() },
                         store.reciter(settings.riwayah)
                     ) { id -> store.update { if (settings.riwayah == Riwayah.WARSH) it.copy(warshReciter = id) else it.copy(reciter = id) } }
-                }
-                Page.REMIND -> PageContent(
-                    icon = AppIcons.Notifications,
-                    title = stringResource(R.string.welcome_wird),
-                    intro = stringResource(R.string.welcome_wird_intro),
-                    points = listOf(stringResource(R.string.welcome_wird_any_time))
-                ) {
-                    Choices(
-                        listOf(-1 to stringResource(R.string.no_reminder)) + listOf(7 * 60, 13 * 60, 20 * 60, 22 * 60).map { m ->
-                            m to LocalTime.of(m / 60, m % 60).format(DateTimeFormatter.ofLocalizedTime(FormatStyle.SHORT))
-                        },
-                        if (settings.reminder) settings.reminderAt else -1
-                    ) { m -> store.update { if (m < 0) it.copy(reminder = false) else it.copy(reminder = true, reminderAt = m) } }
                 }
                 Page.UPDATES -> PageContent(
                     icon = AppIcons.Update,

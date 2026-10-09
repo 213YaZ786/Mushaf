@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">Elk woord met zijn eigen betekenis eronder.</string>
     <string name="welcome_recitation">De recitatie</string>
     <string name="welcome_recitation_intro">De pagina volgt de stem, het gehoorde woord licht op.</string>
-    <string name="welcome_wird">Je dagelijkse wird</string>
-    <string name="welcome_wird_intro">Elke dag een herinnering, tenzij je de mushaf al hebt geopend: waar je verdergaat, en de hifz van de dag.</string>
-    <string name="welcome_wird_any_time">Op elk gewenst tijdstip in Instellingen.</string>
-    <string name="no_reminder">Geen herinnering</string>
     <string name="updates">Updates</string>
     <string name="welcome_updates_intro">Als er een nieuwe versie van Mushaf uitkomt.</string>
     <string name="updates_off">Uit</string>
@@ -96,7 +92,6 @@
     <string name="next">Volgende</string>
     <string name="chosen">Gekozen</string>
     <string name="pages_kept">%1$d van 604 pagina\'s op de telefoon</string>
-    <string name="reminder_summary">Om %1$s, tenzij de mushaf die dag geopend is: waar je verdergaat, en de hifz van de dag.</string>
     <string name="translations_more">meer dan 380 in zo\'n 100 talen</string>
     <string name="text_size_detail">menu\'s en vertalingen</string>
     <string name="about_summary">Versie %1$s · bronnen en vermeldingen</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">Op een breed scherm, als een open boek.</string>
     <string name="keep_screen_on">Scherm aan laten</string>
     <string name="keep_screen_on_detail">Tijdens het lezen; het gaat uit na 10 minuten zonder aanraking, tenzij er een recitatie speelt.</string>
-    <string name="daily_reminder">Dagelijkse herinnering</string>
-    <string name="remind_wird">Herinner me aan mijn wird</string>
-    <string name="time">Tijd</string>
-    <string name="kahf_fridays">Al-Kahf op vrijdag</string>
-    <string name="kahf_fridays_detail">Op vrijdagochtend, tenzij je haar al hebt geopend.</string>
     <string name="offline">Offline</string>
     <string name="keep_offline">Offline bewaren</string>
     <string name="keep_offline_detail">Pagina\'s, recitaties en tafsir op de telefoon, één voor één of alles tegelijk.</string>
@@ -130,8 +120,6 @@
     <string name="guide">Gids</string>
     <string name="guide_detail">De eerste pagina\'s opnieuw, met hun keuzes</string>
     <string name="about">Over</string>
-    <string name="reminder_time">Tijd van de herinnering</string>
-    <string name="set">Instellen</string>
     <string name="cancel">Annuleren</string>
     <string name="script_print_short">Zoals gedrukt (mushaf van Medina)</string>
     <string name="script_hafs_short">Hafs-lettertype, geen download</string>
@@ -396,13 +384,6 @@
     <string name="size_default">Standaard</string>
     <string name="size_large">Groot</string>
     <string name="size_largest">Grootst</string>
-    <string name="kahf_title">Vrijdag: soera Al-Kahf</string>
-    <string name="kahf_text">Ze opent op pagina %1$d.</string>
-    <string name="remind_khatmah_pages">Khatma: pagina\'s %1$d–%2$d vandaag, vanaf %3$s.</string>
-    <string name="remind_khatmah_page">Khatma: pagina %1$d vandaag, %2$s.</string>
-    <string name="remind_continue_at">Verder bij %1$s, pagina %2$d.</string>
-    <string name="remind_continue_page">Verder op pagina %1$d.</string>
-    <string name="remind_lesson">Les: %1$s</string>
     <string name="mushaf_tajweed_pages">Mushaf met tajwiedkleuren</string>
     <string name="mushaf_pages_title">Mushaf-pagina\'s</string>
     <string name="tafsir_named">Tafsir %1$s</string>
@@ -482,9 +463,5 @@
     <plurals name="days_in_row">
         <item quantity="one">%d dag gelezen</item>
         <item quantity="other">%d dagen op rij</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">%d pagina te herhalen</item>
-        <item quantity="other">%d pagina\'s te herhalen</item>
     </plurals>
 </resources>

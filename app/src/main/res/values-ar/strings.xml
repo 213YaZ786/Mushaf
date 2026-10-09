@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">كل كلمة ومعناها تحتها.</string>
     <string name="welcome_recitation">التلاوة</string>
     <string name="welcome_recitation_intro">تتبع الصفحةُ الصوت، وتضيء الكلمة المسموعة.</string>
-    <string name="welcome_wird">وِردك اليومي</string>
-    <string name="welcome_wird_intro">تذكير كل يوم، إلا إذا فتحت المصحف قبله: من أين تكمل، وحفظ اليوم.</string>
-    <string name="welcome_wird_any_time">في أي وقت تختاره في الإعدادات.</string>
-    <string name="no_reminder">بلا تذكير</string>
     <string name="updates">التحديثات</string>
     <string name="welcome_updates_intro">عند صدور نسخة جديدة من مصحف.</string>
     <string name="updates_off">إيقاف</string>
@@ -96,7 +92,6 @@
     <string name="next">التالي</string>
     <string name="chosen">مختار</string>
     <string name="pages_kept">%1$d من 604 صفحة محفوظة على الهاتف</string>
-    <string name="reminder_summary">في %1$s، إلا إذا فُتح المصحف ذلك اليوم: من أين تكمل، وحفظ اليوم.</string>
     <string name="translations_more">أكثر من 380 بنحو 100 لغة</string>
     <string name="text_size_detail">القوائم والترجمات</string>
     <string name="about_summary">الإصدار %1$s · المصادر والشكر</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">على شاشة عريضة، ككتاب مفتوح.</string>
     <string name="keep_screen_on">إبقاء الشاشة مضاءة</string>
     <string name="keep_screen_on_detail">أثناء القراءة؛ تنطفئ بعد 10 دقائق دون لمس، إلا إذا كانت تلاوة تعمل.</string>
-    <string name="daily_reminder">تذكير يومي</string>
-    <string name="remind_wird">ذكّرني بوِردي</string>
-    <string name="time">الوقت</string>
-    <string name="kahf_fridays">الكهف يوم الجمعة</string>
-    <string name="kahf_fridays_detail">صباح الجمعة، إلا إذا فتحتها قبل ذلك.</string>
     <string name="offline">دون اتصال</string>
     <string name="keep_offline">الحفظ دون اتصال</string>
     <string name="keep_offline_detail">الصفحات والتلاوات والتفاسير على الهاتف، واحدًا تلو الآخر أو كلها مرة واحدة.</string>
@@ -130,8 +120,6 @@
     <string name="guide">الدليل</string>
     <string name="guide_detail">الصفحات الأولى من جديد، مع خياراتها</string>
     <string name="about">حول</string>
-    <string name="reminder_time">وقت التذكير</string>
-    <string name="set">تعيين</string>
     <string name="cancel">إلغاء</string>
     <string name="script_print_short">كما طُبع (مصحف المدينة)</string>
     <string name="script_hafs_short">خط حفص، دون تنزيل</string>
@@ -396,13 +384,6 @@
     <string name="size_default">عادي</string>
     <string name="size_large">كبير</string>
     <string name="size_largest">كبير جدًا</string>
-    <string name="kahf_title">الجمعة: سورة الكهف</string>
-    <string name="kahf_text">تُفتح على الصفحة %1$d.</string>
-    <string name="remind_khatmah_pages">الختمة: الصفحات %1$d–%2$d اليوم، من %3$s.</string>
-    <string name="remind_khatmah_page">الختمة: صفحة %1$d اليوم، %2$s.</string>
-    <string name="remind_continue_at">أكمل من %1$s، صفحة %2$d.</string>
-    <string name="remind_continue_page">أكمل من صفحة %1$d.</string>
-    <string name="remind_lesson">الدرس: %1$s</string>
     <string name="mushaf_tajweed_pages">مصحف التجويد الملوّن</string>
     <string name="mushaf_pages_title">صفحات المصحف</string>
     <string name="tafsir_named">تفسير %1$s</string>
@@ -550,13 +531,5 @@
         <item quantity="few">%d أيام متتالية</item>
         <item quantity="many">%d يومًا متتاليًا</item>
         <item quantity="other">%d يوم متتالٍ</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="zero">لا صفحات للمراجعة</item>
-        <item quantity="one">صفحة واحدة للمراجعة</item>
-        <item quantity="two">صفحتان للمراجعة</item>
-        <item quantity="few">%d صفحات للمراجعة</item>
-        <item quantity="many">%d صفحة للمراجعة</item>
-        <item quantity="other">%d صفحة للمراجعة</item>
     </plurals>
 </resources>

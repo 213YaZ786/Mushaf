@@ -74,18 +74,8 @@ data class Settings(
     val wifiOnly: Boolean = true,
     /** Packs already offered for offline use, so each is offered once. */
     val offered: Set<String> = emptySet(),
-    /** A reminder of the wird each day, unless the mushaf was opened that day. */
-    val reminder: Boolean = true,
-    /** Its time, in minutes after midnight. */
-    val reminderAt: Int = 20 * 60,
-    /** The last day the mushaf was opened (epoch day). */
-    val readDay: Long = -1,
     /** The ayah heard last when the recitation was paused or stopped, to go on from there. */
     val lastHeard: String? = null,
-    /** A reminder of Surah Al-Kahf on Friday mornings. */
-    val kahf: Boolean = true,
-    /** The last day a page of Al-Kahf was shown (epoch day). */
-    val kahfDay: Long = -1,
     /** The days a page was turned (epoch days), the last 400. */
     val readDays: List<Long> = emptyList()
 )

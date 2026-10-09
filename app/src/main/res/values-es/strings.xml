@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">Cada palabra con su significado debajo.</string>
     <string name="welcome_recitation">La recitación</string>
     <string name="welcome_recitation_intro">La página sigue la voz, la palabra que se oye se ilumina.</string>
-    <string name="welcome_wird">Tu wird diario</string>
-    <string name="welcome_wird_intro">Un recordatorio cada día, salvo si ya abriste el mushaf: dónde continuar y el hifz del día.</string>
-    <string name="welcome_wird_any_time">A la hora que quieras en Ajustes.</string>
-    <string name="no_reminder">Sin recordatorio</string>
     <string name="updates">Actualizaciones</string>
     <string name="welcome_updates_intro">Cuando sale una nueva versión de Mushaf.</string>
     <string name="updates_off">No</string>
@@ -96,7 +92,6 @@
     <string name="next">Siguiente</string>
     <string name="chosen">Elegido</string>
     <string name="pages_kept">%1$d de 604 páginas guardadas en el teléfono</string>
-    <string name="reminder_summary">A las %1$s, salvo si se abrió el mushaf ese día: dónde continuar y el hifz del día.</string>
     <string name="translations_more">más de 380 en unos 100 idiomas</string>
     <string name="text_size_detail">menús y traducciones</string>
     <string name="about_summary">Versión %1$s · fuentes y créditos</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">En una pantalla ancha, como un libro abierto.</string>
     <string name="keep_screen_on">Mantener la pantalla encendida</string>
     <string name="keep_screen_on_detail">Mientras lees; se apaga tras 10 minutos sin tocarla, salvo si suena una recitación.</string>
-    <string name="daily_reminder">Recordatorio diario</string>
-    <string name="remind_wird">Recordarme mi wird</string>
-    <string name="time">Hora</string>
-    <string name="kahf_fridays">Al-Kahf los viernes</string>
-    <string name="kahf_fridays_detail">El viernes por la mañana, salvo si ya la abriste.</string>
     <string name="offline">Sin conexión</string>
     <string name="keep_offline">Guardar sin conexión</string>
     <string name="keep_offline_detail">Páginas, recitaciones y tafsir en el teléfono, uno a uno o todo a la vez.</string>
@@ -130,8 +120,6 @@
     <string name="guide">Guía</string>
     <string name="guide_detail">Las primeras páginas otra vez, con sus opciones</string>
     <string name="about">Acerca de</string>
-    <string name="reminder_time">Hora del recordatorio</string>
-    <string name="set">Aceptar</string>
     <string name="cancel">Cancelar</string>
     <string name="script_print_short">Tal como se imprime (mushaf de Medina)</string>
     <string name="script_hafs_short">Fuente Hafs, sin descarga</string>
@@ -396,13 +384,6 @@
     <string name="size_default">Normal</string>
     <string name="size_large">Grande</string>
     <string name="size_largest">Muy grande</string>
-    <string name="kahf_title">Viernes: sura Al-Kahf</string>
-    <string name="kahf_text">Se abre en la página %1$d.</string>
-    <string name="remind_khatmah_pages">Jatma: páginas %1$d–%2$d hoy, desde %3$s.</string>
-    <string name="remind_khatmah_page">Jatma: página %1$d hoy, %2$s.</string>
-    <string name="remind_continue_at">Continuar en %1$s, página %2$d.</string>
-    <string name="remind_continue_page">Continuar en la página %1$d.</string>
-    <string name="remind_lesson">Lección: %1$s</string>
     <string name="mushaf_tajweed_pages">Mushaf con los colores del tajwid</string>
     <string name="mushaf_pages_title">Páginas del mushaf</string>
     <string name="tafsir_named">Tafsir %1$s</string>
@@ -499,10 +480,5 @@
         <item quantity="one">%d día leído</item>
         <item quantity="many">%d días seguidos</item>
         <item quantity="other">%d días seguidos</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">%d página por repasar</item>
-        <item quantity="many">%d páginas por repasar</item>
-        <item quantity="other">%d páginas por repasar</item>
     </plurals>
 </resources>

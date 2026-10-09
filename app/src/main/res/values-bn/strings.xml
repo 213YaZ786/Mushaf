@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">প্রতিটি শব্দের নিচে তার নিজের অর্থ।</string>
     <string name="welcome_recitation">তিলাওয়াত</string>
     <string name="welcome_recitation_intro">পৃষ্ঠা কণ্ঠস্বর অনুসরণ করে, শোনা শব্দটি আলোকিত হয়।</string>
-    <string name="welcome_wird">আপনার দৈনিক ওয়ির্দ</string>
-    <string name="welcome_wird_intro">প্রতিদিন একটি রিমাইন্ডার, যদি না আপনি আগেই মুসহাফ খুলে থাকেন: কোথা থেকে চালিয়ে যাবেন, এবং আজকের হিফজ।</string>
-    <string name="welcome_wird_any_time">সেটিংসে যেকোনো সময় বেছে নিন।</string>
-    <string name="no_reminder">রিমাইন্ডার নেই</string>
     <string name="updates">আপডেট</string>
     <string name="welcome_updates_intro">মুসহাফের নতুন সংস্করণ এলে।</string>
     <string name="updates_off">বন্ধ</string>
@@ -96,7 +92,6 @@
     <string name="next">পরবর্তী</string>
     <string name="chosen">বাছাই করা</string>
     <string name="pages_kept">604 পৃষ্ঠার মধ্যে %1$dটি ফোনে রাখা</string>
-    <string name="reminder_summary">%1$s-এ, যদি না সেদিন মুসহাফ খোলা হয়ে থাকে: কোথা থেকে চালিয়ে যাবেন, এবং আজকের হিফজ।</string>
     <string name="translations_more">প্রায় 100টি ভাষায় 380টির বেশি</string>
     <string name="text_size_detail">মেনু ও অনুবাদ</string>
     <string name="about_summary">সংস্করণ %1$s · উৎস ও কৃতজ্ঞতা</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">চওড়া স্ক্রিনে, খোলা বইয়ের মতো।</string>
     <string name="keep_screen_on">স্ক্রিন চালু রাখুন</string>
     <string name="keep_screen_on_detail">পড়ার সময়; 10 মিনিট স্পর্শ না করলে বন্ধ হয়, তিলাওয়াত চললে নয়।</string>
-    <string name="daily_reminder">দৈনিক রিমাইন্ডার</string>
-    <string name="remind_wird">আমার ওয়ির্দ মনে করিয়ে দিন</string>
-    <string name="time">সময়</string>
-    <string name="kahf_fridays">শুক্রবারে সূরা কাহফ</string>
-    <string name="kahf_fridays_detail">শুক্রবার সকালে, যদি না আপনি আগেই খুলে থাকেন।</string>
     <string name="offline">অফলাইন</string>
     <string name="keep_offline">অফলাইনে রাখুন</string>
     <string name="keep_offline_detail">পৃষ্ঠা, তিলাওয়াত ও তাফসির ফোনে, একে একে বা একসাথে।</string>
@@ -130,8 +120,6 @@
     <string name="guide">নির্দেশিকা</string>
     <string name="guide_detail">প্রথম পৃষ্ঠাগুলো আবার, তাদের পছন্দসহ</string>
     <string name="about">সম্পর্কে</string>
-    <string name="reminder_time">রিমাইন্ডারের সময়</string>
-    <string name="set">ঠিক করুন</string>
     <string name="cancel">বাতিল</string>
     <string name="script_print_short">ছাপা অনুযায়ী (মদিনা মুসহাফ)</string>
     <string name="script_hafs_short">হাফস ফন্ট, ডাউনলোড নেই</string>
@@ -396,13 +384,6 @@
     <string name="size_default">সাধারণ</string>
     <string name="size_large">বড়</string>
     <string name="size_largest">সবচেয়ে বড়</string>
-    <string name="kahf_title">শুক্রবার: সূরা কাহফ</string>
-    <string name="kahf_text">এটি পৃষ্ঠা %1$d-এ খোলে।</string>
-    <string name="remind_khatmah_pages">খতম: আজ পৃষ্ঠা %1$d–%2$d, %3$s থেকে।</string>
-    <string name="remind_khatmah_page">খতম: আজ পৃষ্ঠা %1$d, %2$s।</string>
-    <string name="remind_continue_at">%1$s, পৃষ্ঠা %2$d থেকে চালিয়ে যান।</string>
-    <string name="remind_continue_page">পৃষ্ঠা %1$d থেকে চালিয়ে যান।</string>
-    <string name="remind_lesson">পাঠ: %1$s</string>
     <string name="mushaf_tajweed_pages">রঙিন তাজবিদসহ মুসহাফ</string>
     <string name="mushaf_pages_title">মুসহাফের পৃষ্ঠা</string>
     <string name="tafsir_named">তাফসির %1$s</string>
@@ -482,9 +463,5 @@
     <plurals name="days_in_row">
         <item quantity="one">%d দিন পড়া হয়েছে</item>
         <item quantity="other">টানা %d দিন</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">পুনরাবৃত্তির জন্য %dটি পৃষ্ঠা</item>
-        <item quantity="other">পুনরাবৃত্তির জন্য %dটি পৃষ্ঠা</item>
     </plurals>
 </resources>

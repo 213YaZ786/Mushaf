@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">Chaque mot avec son sens en dessous.</string>
     <string name="welcome_recitation">La récitation</string>
     <string name="welcome_recitation_intro">La page suit la voix, le mot entendu s\'allume.</string>
-    <string name="welcome_wird">Votre wird quotidien</string>
-    <string name="welcome_wird_intro">Un rappel chaque jour, sauf si vous avez déjà ouvert le mushaf : où reprendre, et le hifz du jour.</string>
-    <string name="welcome_wird_any_time">À l\'heure de votre choix dans les Réglages.</string>
-    <string name="no_reminder">Pas de rappel</string>
     <string name="updates">Mises à jour</string>
     <string name="welcome_updates_intro">Quand une nouvelle version de Mushaf sort.</string>
     <string name="updates_off">Non</string>
@@ -96,7 +92,6 @@
     <string name="next">Suivant</string>
     <string name="chosen">Choisi</string>
     <string name="pages_kept">%1$d pages sur 604 gardées sur le téléphone</string>
-    <string name="reminder_summary">À %1$s, sauf si le mushaf a été ouvert ce jour-là : où reprendre, et le hifz du jour.</string>
     <string name="translations_more">plus de 380 dans une centaine de langues</string>
     <string name="text_size_detail">menus et traductions</string>
     <string name="about_summary">Version %1$s · sources et crédits</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">Sur un grand écran, comme un livre ouvert.</string>
     <string name="keep_screen_on">Garder l\'écran allumé</string>
     <string name="keep_screen_on_detail">Pendant la lecture ; il s\'éteint après 10 minutes sans contact, sauf pendant une récitation.</string>
-    <string name="daily_reminder">Rappel quotidien</string>
-    <string name="remind_wird">Me rappeler mon wird</string>
-    <string name="time">Heure</string>
-    <string name="kahf_fridays">Al-Kahf le vendredi</string>
-    <string name="kahf_fridays_detail">Le vendredi matin, sauf si vous l\'avez déjà ouverte.</string>
     <string name="offline">Hors connexion</string>
     <string name="keep_offline">Garder hors connexion</string>
     <string name="keep_offline_detail">Pages, récitations et tafsir sur le téléphone, un par un ou tout d\'un coup.</string>
@@ -130,8 +120,6 @@
     <string name="guide">Guide</string>
     <string name="guide_detail">Les premières pages à nouveau, avec leurs choix</string>
     <string name="about">À propos</string>
-    <string name="reminder_time">Heure du rappel</string>
-    <string name="set">Valider</string>
     <string name="cancel">Annuler</string>
     <string name="script_print_short">Tel qu\'imprimé (mushaf de Médine)</string>
     <string name="script_hafs_short">Police Hafs, sans téléchargement</string>
@@ -396,13 +384,6 @@
     <string name="size_default">Normale</string>
     <string name="size_large">Grande</string>
     <string name="size_largest">Très grande</string>
-    <string name="kahf_title">Vendredi : sourate Al-Kahf</string>
-    <string name="kahf_text">Elle s\'ouvre à la page %1$d.</string>
-    <string name="remind_khatmah_pages">Khatma : pages %1$d–%2$d aujourd\'hui, depuis %3$s.</string>
-    <string name="remind_khatmah_page">Khatma : page %1$d aujourd\'hui, %2$s.</string>
-    <string name="remind_continue_at">Reprendre à %1$s, page %2$d.</string>
-    <string name="remind_continue_page">Reprendre à la page %1$d.</string>
-    <string name="remind_lesson">Leçon : %1$s</string>
     <string name="mushaf_tajweed_pages">Mushaf aux couleurs du tajwid</string>
     <string name="mushaf_pages_title">Pages du mushaf</string>
     <string name="tafsir_named">Tafsir %1$s</string>
@@ -499,10 +480,5 @@
         <item quantity="one">%d jour lu</item>
         <item quantity="many">%d jours d\'affilée</item>
         <item quantity="other">%d jours d\'affilée</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">%d page à réviser</item>
-        <item quantity="many">%d pages à réviser</item>
-        <item quantity="other">%d pages à réviser</item>
     </plurals>
 </resources>

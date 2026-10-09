@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">ہر لفظ کے نیچے اس کا اپنا معنی۔</string>
     <string name="welcome_recitation">تلاوت</string>
     <string name="welcome_recitation_intro">صفحہ آواز کے ساتھ چلتا ہے، سنا گیا لفظ روشن ہوتا ہے۔</string>
-    <string name="welcome_wird">آپ کا روزانہ ورد</string>
-    <string name="welcome_wird_intro">ہر روز ایک یاد دہانی، اگر آپ نے مصحف پہلے نہ کھولا ہو: کہاں سے جاری رکھیں، اور آج کا حفظ۔</string>
-    <string name="welcome_wird_any_time">ترتیبات میں جس وقت چاہیں۔</string>
-    <string name="no_reminder">کوئی یاد دہانی نہیں</string>
     <string name="updates">اپ ڈیٹس</string>
     <string name="welcome_updates_intro">جب مصحف کا نیا ورژن آئے۔</string>
     <string name="updates_off">بند</string>
@@ -96,7 +92,6 @@
     <string name="next">اگلا</string>
     <string name="chosen">منتخب</string>
     <string name="pages_kept">604 میں سے %1$d صفحات فون پر محفوظ</string>
-    <string name="reminder_summary">%1$s بجے، اگر اس دن مصحف نہ کھولا گیا ہو: کہاں سے جاری رکھیں، اور آج کا حفظ۔</string>
     <string name="translations_more">تقریباً 100 زبانوں میں 380 سے زیادہ</string>
     <string name="text_size_detail">مینو اور ترجمے</string>
     <string name="about_summary">ورژن %1$s · ماخذ اور اعتراف</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">چوڑی اسکرین پر، کھلی کتاب کی طرح۔</string>
     <string name="keep_screen_on">اسکرین روشن رکھیں</string>
     <string name="keep_screen_on_detail">پڑھتے وقت؛ 10 منٹ چھوئے بغیر بند ہو جاتی ہے، جب تک تلاوت نہ چل رہی ہو۔</string>
-    <string name="daily_reminder">روزانہ یاد دہانی</string>
-    <string name="remind_wird">میرا ورد یاد دلائیں</string>
-    <string name="time">وقت</string>
-    <string name="kahf_fridays">جمعہ کو سورۂ کہف</string>
-    <string name="kahf_fridays_detail">جمعہ کی صبح، اگر آپ نے پہلے نہ کھولی ہو۔</string>
     <string name="offline">آف لائن</string>
     <string name="keep_offline">آف لائن رکھیں</string>
     <string name="keep_offline_detail">صفحات، تلاوتیں اور تفاسیر فون پر، ایک ایک کر کے یا سب ایک ساتھ۔</string>
@@ -130,8 +120,6 @@
     <string name="guide">رہنما</string>
     <string name="guide_detail">ابتدائی صفحات دوبارہ، ان کے انتخاب کے ساتھ</string>
     <string name="about">تعارف</string>
-    <string name="reminder_time">یاد دہانی کا وقت</string>
-    <string name="set">مقرر کریں</string>
     <string name="cancel">منسوخ</string>
     <string name="script_print_short">جیسا چھپا (مدینہ مصحف)</string>
     <string name="script_hafs_short">حفص فونٹ، کوئی ڈاؤن لوڈ نہیں</string>
@@ -396,13 +384,6 @@
     <string name="size_default">عام</string>
     <string name="size_large">بڑا</string>
     <string name="size_largest">سب سے بڑا</string>
-    <string name="kahf_title">جمعہ: سورۂ کہف</string>
-    <string name="kahf_text">یہ صفحہ %1$d پر کھلتی ہے۔</string>
-    <string name="remind_khatmah_pages">ختم: آج صفحات %1$d–%2$d، %3$s سے۔</string>
-    <string name="remind_khatmah_page">ختم: آج صفحہ %1$d، %2$s۔</string>
-    <string name="remind_continue_at">%1$s، صفحہ %2$d سے جاری رکھیں۔</string>
-    <string name="remind_continue_page">صفحہ %1$d سے جاری رکھیں۔</string>
-    <string name="remind_lesson">سبق: %1$s</string>
     <string name="mushaf_tajweed_pages">رنگین تجوید والا مصحف</string>
     <string name="mushaf_pages_title">مصحف کے صفحات</string>
     <string name="tafsir_named">تفسیر %1$s</string>
@@ -482,9 +463,5 @@
     <plurals name="days_in_row">
         <item quantity="one">%d دن پڑھا</item>
         <item quantity="other">مسلسل %d دن</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">دہرانے کے لیے %d صفحہ</item>
-        <item quantity="other">دہرانے کے لیے %d صفحات</item>
     </plurals>
 </resources>

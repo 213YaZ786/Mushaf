@@ -82,10 +82,6 @@
     <string name="word_by_word_detail">Hər söz altında öz mənası ilə.</string>
     <string name="welcome_recitation">Qiraət</string>
     <string name="welcome_recitation_intro">Səhifə səsi izləyir, eşidilən söz işıqlanır.</string>
-    <string name="welcome_wird">Gündəlik virdiniz</string>
-    <string name="welcome_wird_intro">Hər gün xatırlatma, əgər mushafı artıq açmamısınızsa: haradan davam edəcəyiniz və günün hifzi.</string>
-    <string name="welcome_wird_any_time">Ayarlarda istədiyiniz vaxt.</string>
-    <string name="no_reminder">Xatırlatma yoxdur</string>
     <string name="updates">Yeniləmələr</string>
     <string name="welcome_updates_intro">Mushafın yeni versiyası çıxanda.</string>
     <string name="updates_off">Söndür</string>
@@ -96,7 +92,6 @@
     <string name="next">Növbəti</string>
     <string name="chosen">Seçilib</string>
     <string name="pages_kept">604 səhifədən %1$d telefonda</string>
-    <string name="reminder_summary">Saat %1$s, əgər həmin gün mushaf açılmayıbsa: haradan davam edəcəyiniz və günün hifzi.</string>
     <string name="translations_more">təxminən 100 dildə 380-dən çox</string>
     <string name="text_size_detail">menyular və tərcümələr</string>
     <string name="about_summary">Versiya %1$s · mənbələr və təşəkkür</string>
@@ -108,11 +103,6 @@
     <string name="two_pages_detail">Geniş ekranda, açıq kitab kimi.</string>
     <string name="keep_screen_on">Ekranı açıq saxla</string>
     <string name="keep_screen_on_detail">Oxuyarkən; 10 dəqiqə toxunulmasa sönür, qiraət səslənmirsə.</string>
-    <string name="daily_reminder">Gündəlik xatırlatma</string>
-    <string name="remind_wird">Virdimi xatırlat</string>
-    <string name="time">Vaxt</string>
-    <string name="kahf_fridays">Cümə günləri Kəhf</string>
-    <string name="kahf_fridays_detail">Cümə səhəri, əgər onu artıq açmamısınızsa.</string>
     <string name="offline">Oflayn</string>
     <string name="keep_offline">Oflayn saxla</string>
     <string name="keep_offline_detail">Səhifələr, qiraətlər və təfsirlər telefonda, bir-bir və ya hamısı birdən.</string>
@@ -130,8 +120,6 @@
     <string name="guide">Bələdçi</string>
     <string name="guide_detail">İlk səhifələr yenidən, seçimləri ilə</string>
     <string name="about">Haqqında</string>
-    <string name="reminder_time">Xatırlatma vaxtı</string>
-    <string name="set">Təyin et</string>
     <string name="cancel">Ləğv et</string>
     <string name="script_print_short">Çap olunduğu kimi (Mədinə mushafı)</string>
     <string name="script_hafs_short">Həfs şrifti, yükləmədən</string>
@@ -396,13 +384,6 @@
     <string name="size_default">Standart</string>
     <string name="size_large">Böyük</string>
     <string name="size_largest">Ən böyük</string>
-    <string name="kahf_title">Cümə: Kəhf surəsi</string>
-    <string name="kahf_text">Açılır: səhifə %1$d.</string>
-    <string name="remind_khatmah_pages">Xətm: bu gün səhifələr %1$d–%2$d, %3$s-dən.</string>
-    <string name="remind_khatmah_page">Xətm: bu gün səhifə %1$d, %2$s.</string>
-    <string name="remind_continue_at">%1$s, səhifə %2$d ilə davam edin.</string>
-    <string name="remind_continue_page">Davam edin: səhifə %1$d.</string>
-    <string name="remind_lesson">Dərs: %1$s</string>
     <string name="mushaf_tajweed_pages">Təcvid rəngli mushaf</string>
     <string name="mushaf_pages_title">Mushaf səhifələri</string>
     <string name="tafsir_named">Təfsir %1$s</string>
@@ -482,9 +463,5 @@
     <plurals name="days_in_row">
         <item quantity="one">%d gün oxundu</item>
         <item quantity="other">Ardıcıl %d gün</item>
-    </plurals>
-    <plurals name="pages_to_revise">
-        <item quantity="one">Təkrar üçün %d səhifə</item>
-        <item quantity="other">Təkrar üçün %d səhifə</item>
     </plurals>
 </resources>

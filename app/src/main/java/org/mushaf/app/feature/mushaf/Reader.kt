@@ -29,12 +29,6 @@ class Reader(private val settings: SettingsStore, private val quran: org.mushaf.
     /** Pages whose surah opening has played since the app started: it plays once. */
     val opened = mutableStateSetOf<Int>()
 
-    /** The mushaf is open today: no reminder of the wird this evening. */
-    fun read() {
-        val today = java.time.LocalDate.now().toEpochDay()
-        if (settings.current.readDay != today) settings.update { it.copy(readDay = today) }
-    }
-
     /** The mushaf shows [page]: remembered. */
     fun shown(page: Int) {
         val p = page.coerceIn(1, PAGES)
@@ -42,13 +36,10 @@ class Reader(private val settings: SettingsStore, private val quran: org.mushaf.
         // A page turned (one or two on, or back), not a jump, counts as read today.
         val turned = kotlin.math.abs(p - _page.value) <= 2
         _page.value = p
-        // A page of Al-Kahf seen today: no Friday reminder for it.
-        val kahf = quran.metaNow?.surahs?.getOrNull(17)?.pages
         val today = java.time.LocalDate.now().toEpochDay()
         settings.update {
             it.copy(
                 page = p,
-                kahfDay = if (kahf != null && p in kahf.first()..kahf.last()) today else it.kahfDay,
                 // A page turned: today is a day read.
                 readDays = if (today in it.readDays) it.readDays else (it.readDays + today).takeLast(400),
                 pagesByDay = if (!turned) it.pagesByDay else (it.pagesByDay + (today to (it.pagesByDay[today] ?: 0) + 1))
