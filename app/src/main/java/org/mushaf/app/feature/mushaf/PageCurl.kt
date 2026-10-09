@@ -16,7 +16,7 @@ import androidx.compose.ui.graphics.drawscope.clipPath
 import androidx.compose.ui.graphics.drawscope.drawIntoCanvas
 import androidx.compose.ui.graphics.drawscope.withTransform
 import androidx.compose.ui.graphics.graphicsLayer
-import androidx.compose.ui.graphics.toArgb
+import androidx.compose.ui.graphics.drawscope.DrawScope
 import androidx.compose.ui.zIndex
 import kotlin.math.PI
 import kotlin.math.hypot
@@ -117,7 +117,7 @@ internal object Curl {
  * of the part lifted. Follows the finger; let go early, it falls back.
  * [grab] is where the finger took the page, as a fraction of its height.
  */
-internal fun Modifier.pageCurl(pager: PagerState, item: Int, paper: Color, grab: () -> Float): Modifier = this
+internal fun Modifier.pageCurl(pager: PagerState, item: Int, paper: DrawScope.() -> Unit, grab: () -> Float): Modifier = this
     .zIndex(-item.toFloat())
     .graphicsLayer {
         // 0 at rest, 0 to 1 while this page turns away, -1 to 0 while it waits beneath.
@@ -134,27 +134,28 @@ internal fun Modifier.pageCurl(pager: PagerState, item: Int, paper: Color, grab:
         }
     }
 
-private fun androidx.compose.ui.graphics.drawscope.ContentDrawScope.turning(fold: Curl.Fold?, paper: Color) {
+private fun androidx.compose.ui.graphics.drawscope.ContentDrawScope.turning(fold: Curl.Fold?, paper: DrawScope.() -> Unit) {
     if (fold == null) { drawContent(); return }
     val n = fold.normal
     val m = fold.at
-    // The flat part, opaque paper with its ink.
+    // The flat part, on the same paper as a page at rest, with its ink.
     clipPath(Curl.path(fold.front)) {
-        drawRect(paper)
+        paper()
         this@turning.drawContent()
     }
     if (fold.back.size < 3) return
     val back = Curl.path(fold.back)
-    // The turned part: paper with a soft shadow under it on the flat page.
+    // The turned part: a soft shadow under it on the flat page, then its paper.
     drawIntoCanvas { canvas ->
         val shadow = android.graphics.Paint().apply {
             isAntiAlias = true
-            color = paper.toArgb()
+            color = android.graphics.Color.BLACK
             setShadowLayer(18f * density, 4f * density, 0f, 0x55000000)
         }
         canvas.nativeCanvas.drawPath(back.asAndroidPath(), shadow)
     }
     clipPath(back) {
+        paper()
         // The ink of the other side, mirrored, barely through the paper.
         drawIntoCanvas { canvas ->
             canvas.saveLayer(Rect(0f, 0f, size.width, size.height), Paint().apply { alpha = 0.13f })

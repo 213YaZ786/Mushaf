@@ -1,5 +1,9 @@
 package org.mushaf.app.feature.mushaf
 
+import androidx.compose.ui.layout.findRootCoordinates
+import androidx.compose.ui.layout.onGloballyPositioned
+import androidx.compose.ui.layout.positionInRoot
+import org.mushaf.app.ui.glass.drawGround
 import androidx.compose.material3.LocalContentColor
 import androidx.compose.foundation.background
 import android.app.Activity
@@ -196,7 +200,6 @@ fun MushafScreen(
         }
     }
 
-    LaunchedEffect(Unit) { reader.read() }
 
     // The screen stays on while reading, and lets go after ten minutes without a touch,
     // unless a recitation or a hifz session goes on: a phone left aside sleeps.
@@ -237,7 +240,6 @@ fun MushafScreen(
         val dark = MaterialTheme.colorScheme.background.luminance() < 0.5f
         // Cream: the warm paper and brown-black ink of a printed mushaf (a warm dusk in the dark).
         val cream = if (!settings.cream) null else if (dark) CREAM_DARK else CREAM
-        val paper = cream?.first ?: MaterialTheme.colorScheme.surface
         // The page in the phone's own colours (Material You): its main tone at the top
         // fading into its second one, clear enough to see, soft enough to read on.
         val scheme = MaterialTheme.colorScheme
@@ -249,6 +251,22 @@ fun MushafScreen(
                     scheme.tertiaryContainer.copy(alpha = if (dark) 0.26f else 0.50f)
                 )
             )
+        }
+        // The page that turns hides the one beneath with what lies under a page
+        // at rest: the cream paper, else the window's ground at this place and the tint.
+        val look = org.mushaf.app.ui.glass.LocalGlass.current
+        val background = scheme.background
+        var pagerAt by remember { mutableStateOf(androidx.compose.ui.geometry.Offset.Zero) }
+        var window by remember { mutableStateOf(androidx.compose.ui.geometry.Size.Zero) }
+        val paper: androidx.compose.ui.graphics.drawscope.DrawScope.() -> Unit = remember(cream, look, background, tint) {
+            if (cream != null) {
+                { drawRect(cream.first) }
+            } else {
+                {
+                    drawGround(look, background, pagerAt, window)
+                    drawRect(tint)
+                }
+            }
         }
         // Where the page was last taken, as a fraction of its height: low by default, the corner.
         var grab by remember { mutableFloatStateOf(0.9f) }
@@ -443,6 +461,10 @@ fun MushafScreen(
                     modifier = Modifier
                         .fillMaxSize()
                         .then(if (cream != null) Modifier.background(cream.first) else Modifier.background(tint))
+                        .onGloballyPositioned {
+                            pagerAt = it.positionInRoot()
+                            window = it.findRootCoordinates().size.let { s -> androidx.compose.ui.geometry.Size(s.width.toFloat(), s.height.toFloat()) }
+                        }
                         // Where the finger takes the page: the fold follows it. Watched only, never taken from the pager.
                         .pointerInput(Unit) {
                             awaitEachGesture {
