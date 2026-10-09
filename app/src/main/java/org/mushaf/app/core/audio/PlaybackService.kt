@@ -64,7 +64,10 @@ class PlaybackService : MediaSessionService() {
     private fun stopWhenOver() {
         val player = session?.player ?: return
         val over = player.playbackState == androidx.media3.common.Player.STATE_ENDED || player.playbackState == androidx.media3.common.Player.STATE_IDLE
-        if (over && !player.isPlaying && !org.mushaf.app.Shown.now) pauseAllPlayersAndStopSelf()
+        if (!over || player.isPlaying || org.mushaf.app.Shown.now) return
+        // As the Stop button does: the listen pane closes and the playlist empties, so the notification goes.
+        runCatching { org.koin.core.context.GlobalContext.get().get<org.mushaf.app.feature.listen.Listen>().stop() }
+        pauseAllPlayersAndStopSelf()
     }
 
     override fun onGetSession(controllerInfo: MediaSession.ControllerInfo): MediaSession? = session
