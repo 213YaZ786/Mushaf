@@ -38,7 +38,8 @@ class PlaybackService : MediaSessionService() {
         // A surah kept on the phone is read from its file, the others from the cache or the server.
         val source = DataSource.Factory { KeptOrStreamed(FileDataSource(), cached.createDataSource()) }
         val player = ExoPlayer.Builder(this)
-            .setMediaSourceFactory(DefaultMediaSourceFactory(this).setDataSourceFactory(source))
+            // Only the formats Media3 reads in Kotlin that recitations come in (SafePlayer).
+            .setMediaSourceFactory(DefaultMediaSourceFactory(this, org.mushaf.app.ui.component.SafePlayer.extractors()).setDataSourceFactory(source))
             .setAudioAttributes(
                 AudioAttributes.Builder().setUsage(C.USAGE_MEDIA).setContentType(C.AUDIO_CONTENT_TYPE_SPEECH).build(),
                 true

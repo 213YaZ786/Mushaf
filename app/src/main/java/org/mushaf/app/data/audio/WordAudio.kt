@@ -65,7 +65,8 @@ class WordAudio(private val context: Context, private val settings: SettingsStor
         val upstream = DefaultHttpDataSource.Factory().setUserAgent("Mushaf").setAllowCrossProtocolRedirects(false)
         val source = CacheDataSource.Factory().setCache(PlaybackService.cache(context)).setUpstreamDataSourceFactory(upstream)
         return ExoPlayer.Builder(context)
-            .setMediaSourceFactory(DefaultMediaSourceFactory(context).setDataSourceFactory(source))
+            // Only the formats Media3 reads in Kotlin that recitations come in (SafePlayer).
+            .setMediaSourceFactory(DefaultMediaSourceFactory(context, org.mushaf.app.ui.component.SafePlayer.extractors()).setDataSourceFactory(source))
             // A word pauses the recitation, as any other sound would.
             .setAudioAttributes(
                 AudioAttributes.Builder().setUsage(C.USAGE_MEDIA).setContentType(C.AUDIO_CONTENT_TYPE_SPEECH).build(),
