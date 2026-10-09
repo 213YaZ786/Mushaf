@@ -68,7 +68,7 @@ fun FloatingPane(
         ZoneSurface(shape = shape, modifier = modifier, accent = accent, onClick = onClick, content = content)
         return
     }
-    val color = if (accent) MaterialTheme.colorScheme.onPrimaryContainer else MaterialTheme.colorScheme.onSurface
+    val color = if (accent && !look.dark) MaterialTheme.colorScheme.onPrimaryContainer else MaterialTheme.colorScheme.onSurface
     CompositionLocalProvider(LocalContentColor provides color) {
         Box(
             modifier
@@ -101,7 +101,8 @@ fun FloatingTop(
     ) {
         // Both slots keep their room, so the name stays centred.
         Box(Modifier.size(TopActionSize), contentAlignment = Alignment.Center) { leading?.invoke() }
-        Box(Modifier.weight(1f), contentAlignment = Alignment.Center) {
+        // A gap on each side: a long name ends in "…" before reaching the round actions.
+        Box(Modifier.weight(1f).padding(horizontal = 12.dp), contentAlignment = Alignment.Center) {
             when {
                 center != null -> center()
                 title != null -> TitlePill(title)

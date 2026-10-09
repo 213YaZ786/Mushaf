@@ -102,7 +102,8 @@ private class GlassZoneNode(var shape: Shape, var look: GlassLook, var lens: Flo
 
 /** The corner radius of a rounded outline, in pixels; a plain rectangle has none. */
 internal fun cornerRadius(outline: Outline): Float = when (outline) {
-    is Outline.Rounded -> outline.roundRect.topLeftCornerRadius.x
+    // The smallest corner: a bubble's tail (one tight corner) is glass too, not left bare.
+    is Outline.Rounded -> with(outline.roundRect) { minOf(topLeftCornerRadius.x, topRightCornerRadius.x, bottomLeftCornerRadius.x, bottomRightCornerRadius.x) }
     is Outline.Rectangle -> 0f
     is Outline.Generic -> 0f
 }
@@ -122,11 +123,14 @@ internal fun setHalos(shader: RuntimeShader, look: GlassLook, window: Size) {
     }
 }
 
-/** The rim without shaders: bright on the top and bottom edges, faint on the flanks. */
+/**
+ * The rim without shaders: a soft light on the top edge that fades down
+ * the flanks, a fainter one below; never a white line.
+ */
 internal fun rimBrush(look: GlassLook, height: Float): Brush {
-    val strong = Color.White.copy(alpha = if (look.dark) 0.5f else 0.85f)
-    val faint = Color.White.copy(alpha = 0.06f)
-    return Brush.verticalGradient(0f to strong, 0.3f to faint, 0.7f to faint, 1f to strong.copy(alpha = strong.alpha * 0.7f), endY = height)
+    val strong = Color.White.copy(alpha = if (look.dark) 0.20f else 0.35f)
+    val faint = Color.White.copy(alpha = 0.03f)
+    return Brush.verticalGradient(0f to strong, 0.35f to faint, 0.7f to faint, 1f to strong.copy(alpha = strong.alpha * 0.5f), endY = height)
 }
 
 internal const val HALOS = 4
@@ -142,12 +146,16 @@ internal const val GLASS_COMMON = """
                           sdb(q + float2(0.0, e), b, r) - sdb(q - float2(0.0, e), b, r));
         return normalize(n + 1e-6);
     }
+    // The light caught by the edge fades in over a few pixels all around,
+    // barely there on the flanks and strongest on top, so the rim reads as
+    // glass and never as a white line.
     float rimLight(float depth, float2 n, float dpr, float dark) {
-        float rim = smoothstep(2.2 * dpr, 0.0, depth);
-        float lit = 0.35 + 0.9 * pow(max(dot(n, float2(-0.25, -0.97)), 0.0), 2.0)
-                  + 0.55 * pow(max(dot(n, float2(0.2, 0.98)), 0.0), 3.0);
-        float glow = 0.08 * smoothstep(16.0 * dpr, 0.0, depth) * max(-n.y, 0.0);
-        return rim * lit * (dark > 0.5 ? 0.5 : 0.8) + glow;
+        float rim = smoothstep(3.2 * dpr, 0.0, depth);
+        rim = rim * rim;
+        float lit = 0.10 + 0.55 * pow(max(dot(n, float2(-0.25, -0.97)), 0.0), 2.0)
+                  + 0.25 * pow(max(dot(n, float2(0.2, 0.98)), 0.0), 3.0);
+        float glow = 0.04 * smoothstep(14.0 * dpr, 0.0, depth) * max(-n.y, 0.0);
+        return rim * lit * (dark > 0.5 ? 0.26 : 0.42) + glow;
     }
 """
 
