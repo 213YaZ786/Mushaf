@@ -3,6 +3,11 @@ package org.mushaf.app.feature.index
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.gestures.waitForUpOrCancellation
+import androidx.compose.foundation.gestures.awaitFirstDown
+import androidx.compose.foundation.gestures.awaitEachGesture
+import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.foundation.combinedClickable
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
@@ -304,7 +309,10 @@ fun IndexScreen(onBack: () -> Unit) {
                     if (all.isNotEmpty()) item {
                         EvenRows(minSlot = 96.dp) {
                             TextControl(stringResource(R.string.collection_all), { collection = null }, accent = shown == null)
-                            for (c in saved.collections) TextControl(c, { if (c == shown) editing = c else collection = c }, accent = c == shown)
+                            // Held, a collection offers its name and its removal.
+                            for (c in saved.collections) Box(Modifier.onHold { haptics.firm(); editing = c }) {
+                                TextControl(c, { if (c == shown) editing = c else collection = c }, accent = c == shown)
+                            }
                             TextControl(stringResource(R.string.add_collection), { adding = true })
                         }
                     }
@@ -322,7 +330,7 @@ fun IndexScreen(onBack: () -> Unit) {
                     items(keys, key = { it.toString() }) { key ->
                         val note = saved.notes.firstOrNull { it.key == key }?.text
                         val mark = saved.bookmarks.firstOrNull { it.key == key }
-                        SavedRow(key, m.surahs[key.surah - 1].title, mark != null, mark?.collection.takeIf { shown == null }, note, onFile = { filing = key }) { scope ->
+                        SavedRow(key, m.surahs[key.surah - 1].title, mark != null, mark?.collection.takeIf { shown == null }, note, onFile = { filing = key }, onRemove = { if (marks.isBookmarked(key)) marks.toggleBookmark(key) }) { scope ->
                             scope.launch { openAyah(key, quran.pageOf(key)) }
                         }
                     }
@@ -391,10 +399,31 @@ private fun SavedRow(
     collection: String?,
     note: String?,
     onFile: () -> Unit,
+    onRemove: () -> Unit,
     onClick: (kotlinx.coroutines.CoroutineScope) -> Unit
 ) {
     val scope = rememberCoroutineScope()
-    ZoneSurface(shape = RoundedCornerShape(22.dp), onClick = { onClick(scope) }, modifier = Modifier.fillMaxWidth()) {
+    val context = LocalContext.current
+    val quran: Quran = koinInject()
+    val haptics = rememberHaptics()
+    val menu = org.mushaf.app.ui.component.rememberPillMenu()
+    val share = {
+        scope.launch {
+            val arabic = quran.page(quran.pageOf(key)).words.filter { it.key == key && !it.end }.joinToString(" ") { it.text }
+            val meaning = quran.english(key)
+            val send = android.content.Intent(android.content.Intent.ACTION_SEND).setType("text/plain")
+                .putExtra(android.content.Intent.EXTRA_TEXT, "$arabic\n\n$meaning\n\n($surah $key)")
+            context.startActivity(android.content.Intent.createChooser(send, null))
+        }
+        Unit
+    }
+    // A swipe takes the bookmark away (a note stays); held, collection, share, remove.
+    val remove = if (bookmarked) org.mushaf.app.ui.component.SwipeAction(AppIcons.BookmarkOutline, stringResource(R.string.remove_bookmark), danger = true, removes = note == null) { haptics.done(); onRemove() } else null
+    org.mushaf.app.ui.component.SwipeRow(start = remove, end = remove, modifier = Modifier.fillMaxWidth().then(menu.tracker)) {
+    ZoneSurface(shape = RoundedCornerShape(22.dp), modifier = Modifier.fillMaxWidth().clip(RoundedCornerShape(22.dp)).combinedClickable(
+        onClick = { onClick(scope) },
+        onLongClick = menu::open
+    )) {
         Row(Modifier.padding(start = 16.dp, end = 8.dp, top = 12.dp, bottom = 12.dp), verticalAlignment = Alignment.CenterVertically) {
             Column(Modifier.weight(1f)) {
                 Text("$surah $key", style = MaterialTheme.typography.titleMedium)
@@ -404,6 +433,15 @@ private fun SavedRow(
             if (bookmarked) Icon(AppIcons.Bookmark, contentDescription = stringResource(R.string.bookmarked), tint = MaterialTheme.colorScheme.primary)
             Box(Modifier.padding(start = 4.dp).width(ControlHeight)) { IconControl(AppIcons.Folder, stringResource(R.string.put_in_collection), onFile) }
         }
+    }
+    org.mushaf.app.ui.component.PillMenu(
+        menu,
+        listOfNotNull(
+            org.mushaf.app.ui.component.PillItem(AppIcons.Folder, stringResource(R.string.put_in_collection), org.mushaf.app.ui.component.PillMotion.DROP) { onFile() },
+            org.mushaf.app.ui.component.PillItem(AppIcons.Share, stringResource(R.string.share), org.mushaf.app.ui.component.PillMotion.BOUNCE) { share() },
+            if (bookmarked) org.mushaf.app.ui.component.PillItem(AppIcons.BookmarkOutline, stringResource(R.string.remove_bookmark), org.mushaf.app.ui.component.PillMotion.WIGGLE, danger = true) { haptics.done(); onRemove() } else null
+        )
+    )
     }
 }
 
@@ -500,3 +538,24 @@ private fun Number(n: Int) {
 
 /** The choice that makes a new collection, apart from any name the reader could type. */
 private const val NEW_COLLECTION = "\u0000new"
+
+/**
+ * A long press over a control that has only a tap: seen before the control
+ * (the initial pass), and the release after it kept from the control, so
+ * holding never also taps.
+ */
+private fun Modifier.onHold(action: () -> Unit): Modifier = pointerInput(Unit) {
+    awaitEachGesture {
+        awaitFirstDown(requireUnconsumed = false, pass = androidx.compose.ui.input.pointer.PointerEventPass.Initial)
+        val up = withTimeoutOrNull(viewConfiguration.longPressTimeoutMillis) {
+            waitForUpOrCancellation(pass = androidx.compose.ui.input.pointer.PointerEventPass.Initial)
+        }
+        if (up == null) {
+            action()
+            do {
+                val event = awaitPointerEvent(androidx.compose.ui.input.pointer.PointerEventPass.Initial)
+                event.changes.forEach { it.consume() }
+            } while (event.changes.any { it.pressed })
+        }
+    }
+}
