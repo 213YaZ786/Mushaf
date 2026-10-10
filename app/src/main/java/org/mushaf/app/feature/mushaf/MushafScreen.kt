@@ -1,5 +1,6 @@
 package org.mushaf.app.feature.mushaf
 
+import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.ui.layout.findRootCoordinates
 import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.layout.positionInRoot
@@ -341,12 +342,36 @@ fun MushafScreen(
                     verticalArrangement = Arrangement.spacedBy(10.dp),
                     horizontalAlignment = Alignment.CenterHorizontally
                 ) {
+                    // While it plays, the pane folds into a strip at the foot of the screen so the
+                    // last lines can be followed; a tap unfolds it, and it folds again a few seconds
+                    // after the last touch, as a video player's controls do (2026-10-10).
+                    var unfolded by remember { mutableStateOf(true) }
+                    var touched by remember { mutableIntStateOf(0) }
+                    LaunchedEffect(heard.playing, unfolded, touched) {
+                        if (heard.playing && unfolded) {
+                            kotlinx.coroutines.delay(FOLD_AFTER_MS)
+                            unfolded = false
+                        }
+                        if (!heard.playing) unfolded = true
+                    }
                     AnimatedVisibility(
-                        visible = heard.active && opened == null,
+                        visible = heard.active && opened == null && unfolded,
                         enter = fadeIn() + slideInVertically { it / 2 },
-                        exit = fadeOut() + slideOutVertically { it / 2 }
+                        exit = fadeOut() + slideOutVertically { it }
                     ) {
-                        ListenPane()
+                        Box(Modifier.pointerInput(Unit) {
+                            awaitEachGesture {
+                                awaitFirstDown(requireUnconsumed = false, pass = androidx.compose.ui.input.pointer.PointerEventPass.Initial)
+                                touched++
+                            }
+                        }) { ListenPane() }
+                    }
+                    AnimatedVisibility(
+                        visible = heard.active && opened == null && !unfolded,
+                        enter = fadeIn() + slideInVertically { it },
+                        exit = fadeOut() + slideOutVertically { it }
+                    ) {
+                        org.mushaf.app.feature.listen.ListenStrip { haptics.tick(); unfolded = true; touched++ }
                     }
                     val s = session
                     AnimatedVisibility(
@@ -628,3 +653,6 @@ private fun SystemBars(visible: Boolean) {
 /** The cream page and its ink, by day and by night. */
 private val CREAM = androidx.compose.ui.graphics.Color(0xFFF6EEDC) to androidx.compose.ui.graphics.Color(0xFF2B2118)
 private val CREAM_DARK = androidx.compose.ui.graphics.Color(0xFF1F1B15) to androidx.compose.ui.graphics.Color(0xFFEDE3CF)
+
+/** The recitation's pane folds this long after the last touch while it plays. */
+private const val FOLD_AFTER_MS = 4_000L

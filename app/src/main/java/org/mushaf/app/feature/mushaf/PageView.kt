@@ -1,5 +1,6 @@
 package org.mushaf.app.feature.mushaf
 
+import androidx.compose.ui.graphics.luminance
 import androidx.compose.foundation.Canvas
 import java.util.Locale
 import androidx.compose.animation.core.animateFloatAsState
@@ -138,8 +139,10 @@ fun PageView(
     val measurer = rememberTextMeasurer(cacheSize = 64)
     val density = LocalDensity.current
     val family = print ?: hafs
-    val color = LocalContentColor.current
     val scheme = MaterialTheme.colorScheme
+    // The text in black by day and white by night, as printed and as Quran apps' night mode
+    // reads; cream paper keeps its own ink (2026-10-10).
+    val color = if (cream) LocalContentColor.current else pageInk(scheme)
     val mark = scheme.primaryContainer.copy(alpha = 0.55f)
     val reduce = reducedMotion()
 
@@ -509,7 +512,7 @@ private fun SurahTitle(surah: Int, names: FontFamily, size: TextUnit, height: Dp
             Text(
                 "%03d".format(Locale.ROOT, surah),
                 style = TextStyle(fontFamily = names, fontSize = size * 1.7f, textAlign = TextAlign.Center),
-                color = if (cream) ink else MaterialTheme.colorScheme.onPrimaryContainer,
+                color = if (cream) ink else pageInk(MaterialTheme.colorScheme),
                 maxLines = 1,
                 softWrap = false
             )
@@ -542,3 +545,7 @@ private const val WORD_GAP = 0.18f
 
 /** The four words of 1:1 in page 1's print font. */
 private val BASMALA_GLYPHS = listOf("ﱁ", "ﱂ", "ﱃ", "ﱄ")
+
+/** The page's ink: black on a light page, white on a dark one. */
+internal fun pageInk(scheme: androidx.compose.material3.ColorScheme): Color =
+    if (scheme.background.luminance() < 0.5f) Color.White else Color.Black

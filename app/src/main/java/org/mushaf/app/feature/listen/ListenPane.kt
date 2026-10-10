@@ -1,5 +1,7 @@
 package org.mushaf.app.feature.listen
 
+import androidx.compose.animation.core.animateFloat
+import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -187,5 +189,48 @@ fun ListenPane(modifier: Modifier = Modifier) {
             onSelect = { listen.setReciter(it) },
             onDismiss = { choosing = false }
         )
+    }
+}
+
+/**
+ * The recitation folded while it plays: a small pill of glass at the foot of
+ * the screen, the ayah being heard in it, its playing bars moving; a tap
+ * unfolds the controls.
+ */
+@Composable
+fun ListenStrip(onOpen: () -> Unit) {
+    val listen: Listen = koinInject()
+    val quran: Quran = koinInject()
+    val state by listen.state.collectAsState()
+    val surah by produceState<String?>(null, state.key?.surah) { value = state.key?.let { quran.surah(it.surah).title } }
+    val beat = androidx.compose.animation.core.rememberInfiniteTransition(label = "playing")
+    val bars = (0 until 3).map { i ->
+        beat.animateFloat(
+            initialValue = 0.35f, targetValue = 1f,
+            animationSpec = 
+androidx.compose.animation.core.infiniteRepeatable(androidx.compose.animation.core.tween(420 + i * 130), androidx.compose.animation.core.RepeatMode.Reverse),
+            label = "bar$i"
+        )
+    }
+    FloatingPane(shape = RoundedCornerShape(50), onClick = onOpen, modifier = Modifier.heightIn(min = 40.dp)) {
+        Row(Modifier.padding(horizontal = 16.dp, vertical = 8.dp), verticalAlignment = Alignment.CenterVertically) {
+            val primary = MaterialTheme.colorScheme.primary
+            androidx.compose.foundation.Canvas(Modifier.size(16.dp)) {
+                val w = size.width / 5f
+                bars.forEachIndexed { i, b ->
+                    val h = size.height * (if (state.playing) b.value else 0.35f)
+                    drawRoundRect(primary, topLeft = androidx.compose.ui.geometry.Offset(i * 2 * w, size.height - h), size = androidx.compose.ui.geometry.Size(w, h), cornerRadius = androidx.compose.ui.geometry.CornerRadius(w / 2))
+                }
+            }
+            Spacer(Modifier.size(10.dp))
+            Text(
+                state.key?.let { "${surah ?: ""} $it" }.orEmpty(),
+                style = MaterialTheme.typography.labelLarge,
+                maxLines = 1,
+                overflow = TextOverflow.Ellipsis
+            )
+            Spacer(Modifier.size(6.dp))
+            Icon(AppIcons.ExpandLess, contentDescription = stringResource(R.string.show), tint = primary, modifier = Modifier.size(18.dp))
+        }
     }
 }
