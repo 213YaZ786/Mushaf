@@ -53,8 +53,12 @@ fun LoadingMark(
 ) {
     val medal = ImageBitmap.imageResource(R.drawable.mushaf_medal)
     val sheen = ImageBitmap.imageResource(R.drawable.mushaf_sheen)
+    val letters = ImageBitmap.imageResource(R.drawable.mushaf_letters)
     val accent = MaterialTheme.colorScheme.primary
     val tint = remember(accent) { ColorFilter.tint(accent, BlendMode.Modulate) }
+    // 15:9 in the page's ground colour, as on the icon.
+    val ground = MaterialTheme.colorScheme.background
+    val groundTint = remember(ground) { ColorFilter.tint(ground, BlendMode.Modulate) }
 
     val transition = rememberInfiniteTransition(label = "gleam")
     val clock by transition.animateFloat(
@@ -70,6 +74,7 @@ fun LoadingMark(
         val src = medalBounds(medal)
         val dst = IntSize(this.size.width.roundToInt(), this.size.height.roundToInt())
         drawImage(medal, src.first, src.second, dstSize = dst, colorFilter = tint, filterQuality = FilterQuality.High)
+        drawImage(letters, src.first, src.second, dstSize = dst, colorFilter = groundTint, filterQuality = FilterQuality.High)
         drawImage(sheen, src.first, src.second, dstSize = dst, filterQuality = FilterQuality.High)
         // Broad and soft, on the medal only.
         drawRect(gleam(place, 0.30f, 0.16f), blendMode = BlendMode.SrcAtop)

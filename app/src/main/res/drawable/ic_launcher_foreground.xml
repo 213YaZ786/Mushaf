@@ -2,7 +2,8 @@
 <!-- Mushaf's launcher icon: a medallion in cast relief, 15:9 in the Madinah
      mushaf's calligraphy on its ring, the sign of the hizb in its centre.
      The medal is a grey bitmap in relief multiplied by a tone of the
-     wallpaper's accent; its sheen is white on every wallpaper. Rendered by
+     wallpaper's accent, the calligraphy in the ground's colour; its sheen
+     is white on every wallpaper. Rendered by
      Modules/icons/mushaf (medallion.py, export.py). -->
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/mushaf_shadow" />
@@ -10,6 +11,13 @@
         <bitmap
             android:src="@drawable/mushaf_medal"
             android:tint="@color/ic_launcher_medal"
+            android:tintMode="multiply" />
+    </item>
+    <!-- 15:9 in the ground's colour: light by day, dark by night. -->
+    <item>
+        <bitmap
+            android:src="@drawable/mushaf_letters"
+            android:tint="@color/ic_launcher_background"
             android:tintMode="multiply" />
     </item>
     <item android:drawable="@drawable/mushaf_sheen" />
