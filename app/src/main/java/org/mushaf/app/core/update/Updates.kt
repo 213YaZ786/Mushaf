@@ -10,6 +10,7 @@ import android.content.pm.PackageManager
 import android.net.Uri
 import android.provider.Settings
 import androidx.core.content.ContextCompat
+import org.mushaf.app.core.net.Net
 import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
@@ -20,7 +21,6 @@ import kotlinx.serialization.json.JsonObject
 import kotlinx.serialization.json.JsonPrimitive
 import java.io.File
 import java.net.HttpURLConnection
-import java.net.URL
 import java.security.MessageDigest
 
 /** What the app does when a newer release is out, asked once at launch. */
@@ -40,7 +40,6 @@ object Updates {
 
     private const val REPO = "213YaZ786/Mushaf"
     private const val ACTION_STATUS = "org.mushaf.app.UPDATE_STATUS"
-    private const val TIMEOUT_MS = 15_000
     /** Far above any release of these apps, to stop an endless download. */
     private const val MAX_APK = 200L * 1024 * 1024
     internal const val PREFS = "updates"
@@ -199,18 +198,14 @@ object Updates {
 
     private val GITHUB = setOf("api.github.com", "github.com", "objects.githubusercontent.com", "release-assets.githubusercontent.com")
 
+    /**
+     * GitHub only, over HTTPS, and only to read. The release APK sits behind a
+     * redirect (github.com to objects/release-assets.githubusercontent.com):
+     * Net.open follows it by hand, each hop checked against [GITHUB] (see
+     * https://developer.android.com/reference/java/net/HttpURLConnection#setInstanceFollowRedirects(boolean)).
+     */
     private fun open(url: String): HttpURLConnection =
-        (URL(url).also {
-            // GitHub only, over HTTPS, and only to read.
-            require(it.protocol == "https" && it.host.lowercase() in GITHUB) { "refused" }
-        }.openConnection() as HttpURLConnection).apply {
-            requestMethod = "GET"
-            doOutput = false
-            connectTimeout = TIMEOUT_MS
-            readTimeout = TIMEOUT_MS
-            setRequestProperty("User-Agent", "Mushaf")
-            setRequestProperty("Accept", "application/vnd.github+json, */*")
-        }
+        Net.open(url, allow = { it in GITHUB }, accept = "application/vnd.github+json, */*")
 
     private fun get(url: String): ByteArray = open(url).run {
         try {

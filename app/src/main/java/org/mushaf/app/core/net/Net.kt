@@ -96,11 +96,21 @@ object Net {
         }
     }
 
-    private fun open(start: String): HttpURLConnection {
-        var url = URL(start)
-        repeat(4) {
-            if (url.protocol != "https") throw Refused("not https")
-            if (!allowed(url.host.lowercase())) throw Refused("unknown server ${url.host}")
+    /** Redirects followed by hand: the first request and three more. */
+    internal const val MAX_REDIRECTS = 3
+
+    /**
+     * Opens [start] and answers once it says 200. [allow] tells which servers
+     * may be reached (the app's list by default); [accept] sets an Accept header.
+     * Redirects are never left to HttpURLConnection
+     * (instanceFollowRedirects = false, the way developer.android.com documents:
+     * https://developer.android.com/reference/java/net/HttpURLConnection#setInstanceFollowRedirects(boolean));
+     * each hop is read here and goes through [checked] before it is followed.
+     */
+    internal fun open(start: String, allow: (String) -> Boolean = ::allowed, accept: String? = null): HttpURLConnection {
+        var url = checked(URL(start), allow)
+        var hops = 0
+        while (true) {
             val conn = url.openConnection() as HttpURLConnection
             // The app only ever reads: no request carries anything from the phone.
             conn.requestMethod = "GET"
@@ -111,12 +121,13 @@ object Net {
             conn.useCaches = false
             conn.setRequestProperty("User-Agent", "Mushaf")
             conn.setRequestProperty("Accept-Encoding", "identity")
+            if (accept != null) conn.setRequestProperty("Accept", accept)
             when (val code = conn.responseCode) {
                 200 -> return conn
                 301, 302, 303, 307, 308 -> {
-                    val next = conn.getHeaderField("Location")
+                    val location = conn.getHeaderField("Location")
                     conn.disconnect()
-                    url = URL(url, next ?: throw IOException("redirect without a place"))
+                    url = redirect(url, location, hops++, allow)
                 }
                 else -> {
                     conn.disconnect()
@@ -124,7 +135,30 @@ object Net {
                 }
             }
         }
-        throw Refused("too many redirects")
+    }
+
+    /**
+     * [url] when it is HTTPS to a server [allow] names, else Refused. Same
+     * check as before the first request, applied to each hop of a redirect.
+     * Source: the manual follow-up that
+     * https://developer.android.com/reference/java/net/HttpURLConnection#setInstanceFollowRedirects(boolean)
+     * leaves to the caller (read Location, judge it, open it); HTTPS only as in
+     * https://developer.android.com/privacy-and-security/risks/cleartext.
+     */
+    internal fun checked(url: URL, allow: (String) -> Boolean): URL {
+        if (url.protocol != "https") throw Refused("not https")
+        if (!allow(url.host.lowercase())) throw Refused("unknown server ${url.host}")
+        return url
+    }
+
+    /**
+     * The place [location] names from [from], checked; [hops] is how many redirects were followed already.
+     * Source: as [checked] (https://developer.android.com/reference/java/net/HttpURLConnection#setInstanceFollowRedirects(boolean)).
+     */
+    internal fun redirect(from: URL, location: String?, hops: Int, allow: (String) -> Boolean): URL {
+        if (hops >= MAX_REDIRECTS) throw Refused("too many redirects")
+        if (location.isNullOrBlank()) throw IOException("redirect without a place")
+        return checked(URL(from, location), allow)
     }
 
     private fun copy(conn: HttpURLConnection, out: java.io.OutputStream, maxBytes: Long, progress: (Long) -> Unit) {
