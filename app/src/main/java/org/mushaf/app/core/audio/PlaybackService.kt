@@ -34,7 +34,7 @@ class PlaybackService : MediaSessionService() {
     override fun onCreate() {
         super.onCreate()
         val upstream = DefaultHttpDataSource.Factory().setUserAgent("Mushaf").setAllowCrossProtocolRedirects(false)
-        val cached = CacheDataSource.Factory().setCache(cache(this)).setUpstreamDataSourceFactory(upstream)
+        val cached = CacheDataSource.Factory().setCache(cache(this)).setUpstreamDataSourceFactory(org.mushaf.app.core.net.CheckedSource.Factory(upstream))
         // A surah kept on the phone is read from its file, the others from the cache or the server.
         val source = DataSource.Factory { KeptOrStreamed(FileDataSource(), cached.createDataSource()) }
         val player = ExoPlayer.Builder(this)

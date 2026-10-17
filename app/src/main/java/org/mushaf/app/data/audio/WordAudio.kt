@@ -63,7 +63,7 @@ class WordAudio(private val context: Context, private val settings: SettingsStor
 
     private fun build(): ExoPlayer {
         val upstream = DefaultHttpDataSource.Factory().setUserAgent("Mushaf").setAllowCrossProtocolRedirects(false)
-        val source = CacheDataSource.Factory().setCache(PlaybackService.cache(context)).setUpstreamDataSourceFactory(upstream)
+        val source = CacheDataSource.Factory().setCache(PlaybackService.cache(context)).setUpstreamDataSourceFactory(org.mushaf.app.core.net.CheckedSource.Factory(upstream))
         return ExoPlayer.Builder(context)
             // Only the formats Media3 reads in Kotlin that recitations come in (SafePlayer).
             .setMediaSourceFactory(DefaultMediaSourceFactory(context, org.mushaf.app.ui.component.SafePlayer.extractors()).setDataSourceFactory(source))
