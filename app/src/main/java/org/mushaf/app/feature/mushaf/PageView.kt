@@ -1,5 +1,6 @@
 package org.mushaf.app.feature.mushaf
 
+import androidx.compose.ui.graphics.compositeOver
 import androidx.compose.ui.graphics.luminance
 import androidx.compose.foundation.layout.offset
 import androidx.compose.ui.platform.LocalContext
@@ -601,6 +602,25 @@ private const val WORD_GAP = 0.18f
 
 /** The four words of 1:1 in page 1's print font. */
 private val BASMALA_GLYPHS = listOf("ﱁ", "ﱂ", "ﱃ", "ﱄ")
+
+/**
+ * The darkest colour a light page shows: the window's ground (the glass look's,
+ * else the plain background), alone or under one of its ambient halos at full
+ * strength (drawGround), with one of the page's three tint stops of MushafScreen
+ * over it. The tajweed greys are darkened against it, so they pass 4.5:1 on every
+ * part of the page. Colours composited with Compose's compositeOver, contrast per
+ * https://www.w3.org/TR/WCAG22/#dfn-contrast-ratio (TajweedPalette).
+ */
+internal fun pageDayGround(scheme: androidx.compose.material3.ColorScheme, look: org.mushaf.app.ui.glass.GlassLook?): Color {
+    val ground = look?.ground ?: scheme.background
+    val lit = listOf(ground) + (look?.halos.orEmpty()).map { it.color.compositeOver(ground) }
+    val stops = listOf(
+        scheme.primaryContainer.copy(alpha = 0.55f),
+        scheme.secondaryContainer.copy(alpha = 0.35f),
+        scheme.tertiaryContainer.copy(alpha = 0.50f)
+    )
+    return stops.flatMap { s -> lit.map { s.compositeOver(it) } }.minBy { it.luminance() }
+}
 
 /** The page's ink: black on a light page, white on a dark one. */
 internal fun pageInk(scheme: androidx.compose.material3.ColorScheme): Color =

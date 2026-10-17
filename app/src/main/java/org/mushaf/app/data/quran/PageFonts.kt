@@ -70,16 +70,23 @@ class PageFonts(private val context: Context, private val sources: Sources, priv
 
     /**
      * The page's font if it is here; otherwise asks for it and returns null.
-     * On a dark page the tajweed font draws with its own dark palette.
+     * On a dark page the tajweed font draws with its own dark palette; on a
+     * light page of colour [ground] (opaque ARGB) its silent greys are darkened
+     * to 4.5:1 against it.
      */
-    fun family(script: Script, page: Int, dark: Boolean = false): FontFamily? {
+    fun family(script: Script, page: Int, dark: Boolean = false, ground: Int? = null): FontFamily? {
         if (script == Script.HAFS) return null
         val night = dark && script == Script.TAJWEED
-        val key = "${script.name}/$page" + if (night) "/dark" else ""
+        val day = if (!dark && script == Script.TAJWEED && ground != null) TajweedPalette.greyFor(ground) else null
+        val key = "${script.name}/$page" + if (night) "/dark" else if (day != null) "/day$day" else ""
         families[key]?.let { return it }
         val f = file(script, page)
         if (f.exists() && f.length() > 0) {
-            val use = if (night) runCatching { darkCopy(f, page) }.getOrNull() ?: f else f
+            val use = when {
+                night -> runCatching { darkCopy(f, page) }.getOrNull() ?: f
+                day != null -> runCatching { dayCopy(f, page, day) }.getOrNull() ?: f
+                else -> f
+            }
             return runCatching { FontFamily(Font(use)) }.getOrNull()?.also { families[key] = it }
                 ?: run { f.delete(); null }
         }
@@ -153,19 +160,7 @@ class PageFonts(private val context: Context, private val sources: Sources, priv
         val part = File(copy.path + ".part")
         font.copyTo(part, overwrite = true)
         RandomAccessFile(part, "rw").use { f ->
-            f.seek(4)
-            val tables = f.readUnsignedShort()
-            var cpal = -1L
-            for (i in 0 until tables) {
-                val at = 12L + i * 16
-                f.seek(at)
-                val tag = ByteArray(4).also { f.readFully(it) }
-                if (String(tag, Charsets.ISO_8859_1) == "CPAL") {
-                    f.seek(at + 8)
-                    cpal = f.readInt().toLong() and 0xffffffffL
-                    break
-                }
-            }
+            val cpal = TajweedPalette.cpalAt(f)
             require(cpal > 0) { "no palette" }
             f.seek(cpal + 4)
             require(f.readUnsignedShort() >= 2) { "no dark palette" }
@@ -175,6 +170,26 @@ class PageFonts(private val context: Context, private val sources: Sources, priv
             f.seek(cpal + 12)
             f.writeShort(second)
         }
+        if (!part.renameTo(copy)) error("not kept")
+        return copy
+    }
+
+    /**
+     * The tajweed fonts' silent greys are about 2:1 on a light page: a copy
+     * of the font is made whose palette 0 has them at neutral grey [level]
+     * (see [TajweedPalette]), from the file whose fingerprint was checked,
+     * which stays as it was. Same way as [darkCopy], a copy of the font file
+     * with its CPAL records rewritten, kept per grey level; the CPAL layout is
+     * https://learn.microsoft.com/en-us/typography/opentype/spec/cpal and the
+     * target contrast is https://www.w3.org/TR/WCAG22/#dfn-contrast-ratio .
+     */
+    private fun dayCopy(font: File, page: Int, level: Int): File {
+        val copy = File(dir(Script.TAJWEED), "day/${level.toString(16)}/p$page.ttf")
+        if (copy.exists() && copy.length() == font.length()) return copy
+        copy.parentFile?.mkdirs()
+        val part = File(copy.path + ".part")
+        font.copyTo(part, overwrite = true)
+        RandomAccessFile(part, "rw").use { TajweedPalette.greyen(it, level) }
         if (!part.renameTo(copy)) error("not kept")
         return copy
     }

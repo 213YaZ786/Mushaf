@@ -88,6 +88,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.TransformOrigin
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.graphics.luminance
+import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.zIndex
 import kotlinx.coroutines.delay
 import org.mushaf.app.core.quran.PageLine
@@ -272,6 +273,8 @@ fun MushafScreen(
         // The page that turns hides the one beneath with what lies under a page
         // at rest: the cream paper, else the window's ground at this place and the tint.
         val look = org.mushaf.app.ui.glass.LocalGlass.current
+        // What the tajweed greys are darkened against by day: the cream paper, else the page's darkest tone.
+        val dayGround = remember(scheme, cream, look) { if (dark) null else (cream?.first ?: pageDayGround(scheme, look)).toArgb() }
         val background = scheme.background
         var pagerAt by remember { mutableStateOf(androidx.compose.ui.geometry.Offset.Zero) }
         var window by remember { mutableStateOf(androidx.compose.ui.geometry.Size.Zero) }
@@ -520,7 +523,15 @@ fun MushafScreen(
                                 .fillMaxSize()
                                 .then(if (item == pager.currentPage) Modifier.pageZoom(zoom) else Modifier)
                                 .then(if (reduce) Modifier else Modifier.pageCurl(pager, item, paper) { grab })
-                                .padding(bars)
+                                // A page that scrolls takes the bars at its top and foot as content padding
+                                // (below), so it runs under the bars to the window's edges; only the sides stay clear.
+                                // https://developer.android.com/develop/ui/compose/layouts/insets
+                                .padding(
+                                    if (scrolled) androidx.compose.foundation.layout.PaddingValues(
+                                        start = bars.calculateLeftPadding(LayoutDirection.Ltr),
+                                        end = bars.calculateRightPadding(LayoutDirection.Ltr)
+                                    ) else bars
+                                )
                                 // Airy: a margin round the text as in a printed book, so the lines breathe.
                                 .padding(
                                     horizontal = when {
@@ -528,7 +539,7 @@ fun MushafScreen(
                                         settings.airy -> maxWidth * 0.08f
                                         else -> 12.dp
                                     },
-                                    vertical = if (settings.airy) 14.dp else 8.dp
+                                    vertical = if (scrolled) 0.dp else if (settings.airy) 14.dp else 8.dp
                                 ),
                             horizontalArrangement = Arrangement.spacedBy(32.dp)
                         ) {
@@ -539,22 +550,30 @@ fun MushafScreen(
                                     Modifier
                                         .weight(1f)
                                         .fillMaxSize()
-                                        .then(if (scrolled) Modifier.verticalScroll(rememberScrollState()) else Modifier)
+                                        // Padding after the scroll is the content's padding: the first line clears the
+                                        // status bar and the last stays reachable above the gesture bar, while the page
+                                        // itself scrolls to the screen's edges (insets doc, as for a LazyColumn's contentPadding).
+                                        .then(
+                                            if (scrolled) Modifier.verticalScroll(rememberScrollState()).padding(
+                                                top = bars.calculateTopPadding() + if (settings.airy) 14.dp else 8.dp,
+                                                bottom = bars.calculateBottomPadding() + if (settings.airy) 14.dp else 8.dp
+                                            ) else Modifier
+                                        )
                                 ) {
                                     val page by produceState<MushafPage?>(null, n, settings.riwayah) { value = quran.page(n) }
                                     val shown = page
                                     if (shown != null) {
                                         val opensSurah = remember(shown) { shown.lines.any { it is PageLine.Title } }
                                         // Read again when a font arrives.
-                                        val print = remember(n, settings.script, arrived, warsh, dark) {
-                                            if (!warsh && settings.script.usable) fonts.family(settings.script, n, dark) else null
+                                        val print = remember(n, settings.script, arrived, warsh, dark, dayGround) {
+                                            if (!warsh && settings.script.usable) fonts.family(settings.script, n, dark, dayGround) else null
                                         }
                                         PageView(
                                             page = shown,
                                             print = print,
                                             hafs = hafs,
-                                            basmala = remember(settings.script, arrived, warsh, dark) {
-                                                if (!warsh && settings.script.usable) fonts.family(settings.script, 1, dark) else null
+                                            basmala = remember(settings.script, arrived, warsh, dark, dayGround) {
+                                                if (!warsh && settings.script.usable) fonts.family(settings.script, 1, dark, dayGround) else null
                                             },
                                             basmalaText = basmalaText,
                                             surahNames = surahNames,
