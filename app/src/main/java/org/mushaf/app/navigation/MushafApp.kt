@@ -40,6 +40,7 @@ import org.mushaf.app.feature.about.AboutScreen
 import org.mushaf.app.feature.index.IndexScreen
 import org.mushaf.app.feature.mushaf.MushafScreen
 import org.mushaf.app.feature.settings.SettingsScreen
+import org.mushaf.app.ui.component.SafePlayer
 import org.mushaf.app.ui.component.UpdatePrompt
 
 private object Routes {
@@ -198,5 +199,17 @@ fun MushafApp() {
     }
     // After the NavHost, so it takes the back gesture before the NavHost's own.
     PlainBack(navController)
-    if (!BuildConfig.DEBUG && settings.welcomeSeen) UpdatePrompt(settings.updates, BuildConfig.VERSION_NAME)
+    if (!BuildConfig.DEBUG && settings.welcomeSeen) {
+        val listen: org.mushaf.app.feature.listen.Listen = koinInject()
+        val recite: org.mushaf.app.feature.recite.Recite = koinInject()
+        val wordAudio: org.mushaf.app.data.audio.WordAudio = koinInject()
+        // The update kit's busy check (UpdatePrompt.kt.tpl): the app is not replaced while a
+        // recitation (or its meaning read aloud) plays, a word sounds, the reader recites, or a
+        // SafePlayer plays. Read from StateFlow.value, safe from any thread.
+        UpdatePrompt(settings.updates, BuildConfig.VERSION_NAME, busy = {
+            val heard = listen.state.value
+            heard.playing || heard.meaning || recite.state.value.listening ||
+                wordAudio.sound.value?.playing == true || SafePlayer.anyPlaying()
+        })
+    }
 }

@@ -14,8 +14,8 @@ android {
         applicationId = "org.mushaf.app"
         minSdk = 31
         targetSdk = 37
-        versionCode = 38
-        versionName = "0.9.23"
+        versionCode = 39
+        versionName = "0.9.24"
         // The speech recogniser's engine (whisper.cpp), for the phones of today and the emulator.
         ndk { abiFilters += listOf("arm64-v8a", "armeabi-v7a", "x86_64") }
         externalNativeBuild {
@@ -95,6 +95,8 @@ android {
 dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
+    // ProcessLifecycleOwner: the update installs when the user leaves the app.
+    implementation(libs.androidx.lifecycle.process)
     implementation(libs.androidx.lifecycle.viewmodel.compose)
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
     implementation(libs.androidx.lifecycle.runtime.compose)

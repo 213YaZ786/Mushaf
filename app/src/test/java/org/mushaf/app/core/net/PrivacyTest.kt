@@ -22,6 +22,8 @@ class PrivacyTest {
             setOf(
                 "android.permission.INTERNET",
                 "android.permission.REQUEST_INSTALL_PACKAGES",
+                // The update installs silently when the user leaves the app.
+                "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
                 "android.permission.POST_NOTIFICATIONS",
                 "android.permission.FOREGROUND_SERVICE",
                 "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",

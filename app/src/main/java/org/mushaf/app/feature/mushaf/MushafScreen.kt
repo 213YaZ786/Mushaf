@@ -40,6 +40,7 @@ import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.foundation.interaction.collectIsDraggedAsState
 import androidx.compose.runtime.key
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.produceState
@@ -213,6 +214,17 @@ fun MushafScreen(
     }
     KeepScreenOn(settings.keepScreenOn && (!idle || heard.active || session != null))
     SystemBars(visible = chrome || opened != null)
+    // The glass hides itself FOLD_AFTER_MS after the last touch, the delay and the touch watch of the listen
+    // pane's fold (below), as immersive mode hides the bars until the next touch
+    // (https://developer.android.com/develop/ui/views/layout/immersive); a tap on the page brings it back.
+    // It stays while a sheet, the legend, the khatmah or a hifz session is open.
+    val glassBusy = opened != null || legend || khatmahOpen || session != null
+    LaunchedEffect(chrome, touched, glassBusy) {
+        if (chrome && !glassBusy) {
+            delay(FOLD_AFTER_MS)
+            chrome = false
+        }
+    }
 
     BoxWithConstraints(
         Modifier
@@ -234,6 +246,10 @@ fun MushafScreen(
         // A new pager when one page becomes two or back: its saved place counts in spreads or in pages.
         val pager = key(perItem) { rememberPagerState(initialPage = (reader.page.value - 1) / perItem) { count } }
         // Pinched closer: the page shown grows and moves under the finger; turning comes back at 1×.
+        // From Compose's own drag state of the pager (collectIsDraggedAsState,
+        // https://developer.android.com/develop/ui/compose/touch-input/user-interactions/handling-interactions).
+        val dragged by pager.interactionSource.collectIsDraggedAsState()
+        LaunchedEffect(dragged) { if (dragged) chrome = false }
         val zoom = remember { PageZoom() }
         LaunchedEffect(pager.currentPage) { zoom.reset() }
         val current = pager.currentPage * perItem + 1

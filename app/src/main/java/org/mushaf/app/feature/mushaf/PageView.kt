@@ -1,6 +1,12 @@
 package org.mushaf.app.feature.mushaf
 
 import androidx.compose.ui.graphics.luminance
+import androidx.compose.foundation.layout.offset
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.unit.IntOffset
+import androidx.core.content.res.ResourcesCompat
+import kotlin.math.roundToInt
+import org.mushaf.app.R
 import androidx.compose.foundation.Canvas
 import java.util.Locale
 import androidx.compose.animation.core.animateFloatAsState
@@ -213,7 +219,14 @@ fun PageView(
             val gap = if (PageLayout.centred(page.number)) WORD_GAP else WORD_GAP / 2
             for ((width, n) in lines) widest = maxOf(widest, width + gap * tallest * (n - 1))
             val byWidth = with(density) { maxWidth.toPx() } / widest
-            val byHeight = with(density) { lineHeight.toPx() } / tallest * 1.05f
+            // The height fit is the font size Quran.com's reader gives a line pitch (MIT), which leaves the marks
+            // above and below their room: https://github.com/quran/quran.com-frontend-next/blob/production/src/styles/_utility.scss
+            // (generate-font-scales code_v2 and fallback_qpc_uthmani_hafs, tablet, default font scale 3 of
+            // src/redux/defaultSettings/defaultSettings.ts: font-size 3.2vh and 3.39vh in a line-height of 6.1vh).
+            // The old one took the font's line box (a text selection path, not the ink) plus 5 %, and the marks
+            // of one line reached the next.
+            val byHeight = with(density) { lineHeight.toPx() } * (if (print != null) PRINT_SIZE_PER_PITCH else HAFS_SIZE_PER_PITCH) /
+                with(density) { base.toPx() }
             val scale = minOf(byWidth, byHeight)
             base * scale to if (byHeight < byWidth) with(density) { (widest * scale).toDp() } else maxWidth
         }
@@ -263,7 +276,7 @@ fun PageView(
                         contentAlignment = Alignment.Center
                     ) {
                         when (line) {
-                            is PageLine.Title -> SurahTitle(line.surah, surahNames, size, lineHeight, cream) { gleam.value }
+                            is PageLine.Title -> SurahTitle(line.surah, surahNames, lineHeight, cream) { gleam.value }
                             is PageLine.Basmala -> Box(Modifier.drawWithContent {
                                 // Written from right to left, as the hand writes it.
                                 val shownPart = ink.value
@@ -479,15 +492,19 @@ private fun firstLetterLength(word: String): Int {
  * names font of Quran.com, one ligature per surah) on a pane of glass.
  */
 @Composable
-private fun SurahTitle(surah: Int, names: FontFamily, size: TextUnit, height: Dp, cream: Boolean, gleam: () -> Float) {
+private fun SurahTitle(surah: Int, names: FontFamily, height: Dp, cream: Boolean, gleam: () -> Float) {
     // On cream paper the title is a warm band of the ink itself, as printed.
     val ink = LocalContentColor.current
+    val measurer = rememberTextMeasurer(cacheSize = 4)
+    val density = LocalDensity.current
+    val context = LocalContext.current
+    val typeface = remember { ResourcesCompat.getFont(context, R.font.surah_names) }
     ZoneSurface(
         shape = RoundedCornerShape(50),
         accent = !cream,
-        modifier = Modifier.fillMaxWidth(0.86f).height(height * 0.86f)
+        modifier = Modifier.fillMaxWidth(0.86f).height(height * TITLE_PANE)
     ) {
-        Box(
+        BoxWithConstraints(
             Modifier
                 .fillMaxSize()
                 .clip(RoundedCornerShape(50))
@@ -509,12 +526,37 @@ private fun SurahTitle(surah: Int, names: FontFamily, size: TextUnit, height: Dp
                 },
             contentAlignment = Alignment.Center
         ) {
+            val name = "%03d".format(Locale.ROOT, surah)
+            // The name is sized from its own ink, found by Paint.getTextBounds
+            // (https://developer.android.com/reference/android/graphics/Paint#getTextBounds(java.lang.String,%20int,%20int,%20android.graphics.Rect)),
+            // so the calligraphy keeps its padding in the pane whatever the surah, and centred on that ink. Quran.com's
+            // header takes the height of the name's own line box
+            // (https://github.com/quran/quran.com-frontend-next/blob/production/src/components/chapters/ChapterHeader/ChapterHeader.module.scss
+            // .header min-block-size, and ChapterIconContainer.module.scss: the surah names font at 2 x font-size-jumbo).
+            val paneH = with(density) { maxHeight.toPx() }
+            val paneW = with(density) { maxWidth.toPx() }
+            val fit = remember(name, paneH, paneW, typeface) {
+                val bounds = android.graphics.Rect()
+                if (typeface != null) {
+                    android.graphics.Paint().apply { this.typeface = typeface; textSize = 100f }
+                        .getTextBounds(name, 0, name.length, bounds)
+                }
+                val inkH = bounds.height().takeIf { it > 0 }?.toFloat() ?: 80f
+                val inkW = bounds.width().takeIf { it > 0 }?.toFloat() ?: 200f
+                val px = minOf(paneH * TITLE_INK / inkH, paneW * TITLE_INK_WIDTH / inkW) * 100f
+                val style = TextStyle(fontFamily = names, fontSize = with(density) { px.toSp() }, textAlign = TextAlign.Center)
+                val layout = measurer.measure(name, style, softWrap = false, maxLines = 1)
+                // The ink's middle against the line box's middle.
+                val inkMiddle = layout.firstBaseline + (bounds.top + bounds.bottom) / 2f * px / 100f
+                style to (layout.size.height / 2f - inkMiddle)
+            }
             Text(
-                "%03d".format(Locale.ROOT, surah),
-                style = TextStyle(fontFamily = names, fontSize = size * 1.7f, textAlign = TextAlign.Center),
+                name,
+                style = fit.first,
                 color = if (cream) ink else pageInk(MaterialTheme.colorScheme),
                 maxLines = 1,
-                softWrap = false
+                softWrap = false,
+                modifier = Modifier.offset { IntOffset(0, fit.second.roundToInt()) }
             )
         }
     }
@@ -534,11 +576,25 @@ private fun Basmala(print: FontFamily?, hafs: FontFamily, style: TextStyle, text
         }
         return
     }
-    val glyphStyle = style.copy(fontFamily = print, fontSize = style.fontSize * 1.25f)
+    // The line's own size: [style] is already fitted to the row's height with room for the marks
+    // (PRINT_SIZE_PER_PITCH, Quran.com's scale), so a larger basmala would reach the next line.
+    val glyphStyle = style.copy(fontFamily = print)
     Row(horizontalArrangement = Arrangement.spacedBy(6.dp), verticalAlignment = Alignment.CenterVertically) {
         for (g in BASMALA_GLYPHS) WordInk(g, glyphStyle, glyphStyle.color, 1f)
     }
 }
+
+/**
+ * Font size per line pitch: Quran.com's 3.2vh over 6.1vh for the QCF print fonts and 3.39vh over 6.1vh for the
+ * Hafs fallback (https://github.com/quran/quran.com-frontend-next/blob/production/src/styles/_utility.scss).
+ */
+private const val PRINT_SIZE_PER_PITCH = 3.2f / 6.1f
+private const val HAFS_SIZE_PER_PITCH = 3.39f / 6.1f
+
+/** A surah title's pane in its line's pitch, the name's ink in the pane's height, and in its width. */
+private const val TITLE_PANE = 0.92f
+private const val TITLE_INK = 0.66f
+private const val TITLE_INK_WIDTH = 0.8f
 
 /** The room between two words on a line that is not justified, in word heights. */
 private const val WORD_GAP = 0.18f
