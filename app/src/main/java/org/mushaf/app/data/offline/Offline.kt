@@ -136,7 +136,8 @@ class PackWorker(context: Context, params: WorkerParameters) : CoroutineWorker(c
             is Pack.Pages -> getString(if (pack.script == Script.TAJWEED) R.string.mushaf_tajweed_pages else R.string.mushaf_pages_title)
             is Pack.TafsirBook -> getString(R.string.tafsir_named, Tafsir.BOOKS.firstOrNull { it.id == pack.book }?.name ?: "")
             is Pack.Recitation -> getString(R.string.recitation_named, Recitations.reciter(pack.reciter).name)
-            is Pack.Surah -> getString(R.string.recitation_named, Recitations.reciter(pack.reciter).name) + " · " + pack.surah
+            // Joined with a comma, as AOSP Dialer's CallLogEntryText.java (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java).
+            is Pack.Surah -> getString(R.string.recitation_named, Recitations.reciter(pack.reciter).name) + ", " + pack.surah
         }
     }
 

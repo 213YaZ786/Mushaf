@@ -138,14 +138,16 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
         )
     }
 
+    val pageScroll = rememberScrollState()
     FloatingFrame(
         bottom = 0.dp,
+        scroll = pageScroll,
         top = { FloatingTop(stringResource(R.string.settings), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .verticalScroll(rememberScrollState())
+                .verticalScroll(pageScroll)
                 .padding(horizontal = LocalReadableInset.current)
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding()))
@@ -154,7 +156,8 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                 val kept = remember(settings.script) { fonts.count(settings.script) }
                 SettingRow(
                     title = stringResource(R.string.riwayah),
-                    summary = "${settings.riwayah.label} · ${settings.riwayah.arabic}",
+                    // Parts joined with a comma, as AOSP Dialer's CallLogEntryText.java (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java).
+                    summary = "${settings.riwayah.label}, ${settings.riwayah.arabic}",
                     onClick = { dialog = OpenDialog.RIWAYAH }
                 )
                 // Warsh has one script, the King Fahd Complex's; the printed pages are Hafs's.
@@ -162,7 +165,7 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                     title = stringResource(R.string.pages),
                     summary = scriptLabel(settings.script) + when (settings.script) {
                         Script.HAFS -> ""
-                        else -> " · " + stringResource(R.string.pages_kept, kept)
+                        else -> ", " + stringResource(R.string.pages_kept, kept)
                     },
                     onClick = { dialog = OpenDialog.SCRIPT }
                 )
@@ -191,7 +194,7 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
             Section(stringResource(R.string.meaning)) {
                 SettingRow(
                     title = stringResource(R.string.translations),
-                    summary = settings.translations.size.let { pluralStringResource(R.plurals.translations_shown, it, it) } + " · " + stringResource(R.string.translations_more),
+                    summary = settings.translations.size.let { pluralStringResource(R.plurals.translations_shown, it, it) } + ", " + stringResource(R.string.translations_more),
                     onClick = onOpenTranslations
                 )
                 SwitchRow(
@@ -222,10 +225,10 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                     checked = settings.glass,
                     onChange = { on -> store.update { it.copy(glass = on) } }
                 )
-                SettingRow(stringResource(R.string.text_size), textScaleLabel(settings.textScale) + " · " + stringResource(R.string.text_size_detail), onClick = { dialog = OpenDialog.TEXT_SIZE })
+                SettingRow(stringResource(R.string.text_size), textScaleLabel(settings.textScale) + ", " + stringResource(R.string.text_size_detail), onClick = { dialog = OpenDialog.TEXT_SIZE })
                 SettingRow(
                     stringResource(R.string.spacing),
-                    stringResource(if (settings.airy) R.string.spacing_airy else R.string.spacing_compact) + " · " + stringResource(R.string.spacing_detail),
+                    stringResource(if (settings.airy) R.string.spacing_airy else R.string.spacing_compact) + ", " + stringResource(R.string.spacing_detail),
                     onClick = { dialog = OpenDialog.SPACING }
                 )
             }
@@ -258,7 +261,7 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
     when (dialog) {
         OpenDialog.RIWAYAH -> ChoiceDialog(
             title = stringResource(R.string.riwayah),
-            options = Riwayah.entries.map { it to "${it.label} · ${it.arabic}" },
+            options = Riwayah.entries.map { it to "${it.label}, ${it.arabic}" },
             selected = settings.riwayah,
             onSelect = { r -> scope.launch { riwayat.change(r) } },
             onDismiss = { dialog = OpenDialog.NONE }

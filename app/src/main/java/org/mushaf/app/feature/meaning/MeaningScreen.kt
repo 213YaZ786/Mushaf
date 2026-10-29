@@ -152,6 +152,7 @@ fun MeaningScreen(
 
     FloatingFrame(
         bottom = 0.dp,
+        scroll = list,
         top = {
             FloatingTop(
                 title = surah?.let { "${it.n}. ${it.title}" },
@@ -184,7 +185,7 @@ fun MeaningScreen(
                                             pluralStringResource(R.plurals.surah_ayat, it.ayat, it.ayat),
                                             stringResource(if (it.meccan) R.string.meccan else R.string.medinan),
                                             stringResource(R.string.revelation_order, it.order)
-                                        ).joinToString(" · ")
+                                        ).joinToString(", ") // as AOSP Dialer's CallLogEntryText.java joinSecondaryTextComponents (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java)
                                     }.orEmpty(),
                                     style = MaterialTheme.typography.bodyMedium,
                                     color = MaterialTheme.colorScheme.onSurfaceVariant
@@ -222,7 +223,7 @@ fun MeaningScreen(
                             Box(Modifier.weight(1f)) {
                                 FloatingPane(shape = CircleShape) {
                                     Text(
-                                        if (row.key.toString() in sajdat) "${row.key} · ۩ " + stringResource(R.string.sajdah) else row.key.toString(),
+                                        if (row.key.toString() in sajdat) "${row.key}, ۩ " + stringResource(R.string.sajdah) else row.key.toString(),
                                         style = MaterialTheme.typography.labelLarge,
                                         maxLines = 1,
                                         overflow = TextOverflow.Ellipsis,

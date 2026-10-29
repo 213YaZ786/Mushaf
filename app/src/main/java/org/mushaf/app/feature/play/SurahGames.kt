@@ -149,8 +149,10 @@ fun SurahGames(surah: Int, onBack: () -> Unit) {
     }
     BackHandler(enabled = game != null) { game = null }
 
+    val pageScroll = rememberScrollState()
     FloatingFrame(
         bottom = 0.dp,
+        scroll = pageScroll,
         top = {
             FloatingTop(
                 title = game?.title?.let { stringResource(it) } ?: name,
@@ -159,7 +161,7 @@ fun SurahGames(surah: Int, onBack: () -> Unit) {
         }
     ) { padding ->
         Column(
-            Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = LocalReadableInset.current + 16.dp)
+            Modifier.fillMaxSize().verticalScroll(pageScroll).padding(horizontal = LocalReadableInset.current + 16.dp)
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding() + 8.dp))
             val list = ayat

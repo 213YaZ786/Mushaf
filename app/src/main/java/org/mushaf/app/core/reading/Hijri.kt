@@ -39,7 +39,8 @@ object Hijri {
         return if (a.get(IslamicCalendar.MONTH) == b.get(IslamicCalendar.MONTH) && a.get(IslamicCalendar.YEAR) == b.get(IslamicCalendar.YEAR)) {
             format(to, "yMMMM")
         } else {
-            format(from, "MMMM") + " – " + format(to, "yMMMM")
+            // Months joined with a comma, as AOSP Dialer's CallLogEntryText.java joins its parts (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java).
+            format(from, "MMMM") + ", " + format(to, "yMMMM")
         }
     }
 

@@ -98,14 +98,16 @@ fun TafsirScreen(key: AyahKey, onBack: () -> Unit) {
         text = stringResource(if (settings.wifiOnly) R.string.offer_tafsir_wifi else R.string.offer_tafsir, book.name)
     )
 
+    val pageScroll = rememberScrollState()
     FloatingFrame(
         bottom = 0.dp,
+        scroll = pageScroll,
         top = { FloatingTop(stringResource(R.string.tafsir_of, surah, key.toString()), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         Column(
             Modifier
                 .fillMaxSize()
-                .verticalScroll(rememberScrollState())
+                .verticalScroll(pageScroll)
                 .padding(horizontal = LocalReadableInset.current + 12.dp)
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding() + 8.dp))

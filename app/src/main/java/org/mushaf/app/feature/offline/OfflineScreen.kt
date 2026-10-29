@@ -64,14 +64,16 @@ fun OfflineScreen(onBack: () -> Unit) {
     val settings by store.settings.collectAsState()
     val haptics = rememberHaptics()
 
+    val pageScroll = rememberScrollState()
     FloatingFrame(
         bottom = 0.dp,
+        scroll = pageScroll,
         top = { FloatingTop(stringResource(R.string.offline), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         Column(
             Modifier
                 .fillMaxSize()
-                .verticalScroll(rememberScrollState())
+                .verticalScroll(pageScroll)
                 .padding(horizontal = LocalReadableInset.current)
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding()))

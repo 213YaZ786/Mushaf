@@ -87,8 +87,10 @@ fun TranslationsScreen(onBack: () -> Unit) {
         }
     }
 
+    val listState = androidx.compose.foundation.lazy.rememberLazyListState()
     FloatingFrame(
         bottom = 0.dp,
+        scroll = listState,
         top = {
             FloatingTop(stringResource(R.string.translations), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) })
             Box(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 4.dp)) {
@@ -103,6 +105,7 @@ fun TranslationsScreen(onBack: () -> Unit) {
             .filter { q.isEmpty() || it.language.contains(q, true) || Languages.local(it.language).contains(q, true) || it.name.contains(q, true) }
             .sortedWith(compareBy({ Languages.local(it.language) }, { it.name }))
         LazyColumn(
+            state = listState,
             contentPadding = PaddingValues(top = padding.calculateTopPadding() + 8.dp, start = inset + 12.dp, end = inset + 12.dp, bottom = 24.dp),
             verticalArrangement = Arrangement.spacedBy(8.dp),
             modifier = Modifier.fillMaxSize()

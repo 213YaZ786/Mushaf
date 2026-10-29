@@ -15,5 +15,6 @@ fun Reciter.label(): String {
         "Warsh" -> stringResource(R.string.style_warsh)
         else -> ""
     }
-    return if (kind.isEmpty()) name else "$name · $kind"
+    // Joined with a comma, as AOSP Dialer's CallLogEntryText.java (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java).
+    return if (kind.isEmpty()) name else "$name, $kind"
 }

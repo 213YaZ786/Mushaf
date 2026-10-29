@@ -92,8 +92,10 @@ fun HifzScreen(onBack: () -> Unit, onOpenMushaf: () -> Unit, onOpenTest: () -> U
     var editing by rememberSaveable { mutableStateOf(false) }
     val plan = state.plan
 
+    val pageScroll = rememberScrollState()
     FloatingFrame(
         bottom = 0.dp,
+        scroll = pageScroll,
         top = {
             FloatingTop(
                 stringResource(R.string.hifz),
@@ -105,7 +107,7 @@ fun HifzScreen(onBack: () -> Unit, onOpenMushaf: () -> Unit, onOpenTest: () -> U
         Column(
             Modifier
                 .fillMaxSize()
-                .verticalScroll(rememberScrollState())
+                .verticalScroll(pageScroll)
                 .padding(horizontal = LocalReadableInset.current)
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding()))
@@ -203,7 +205,8 @@ private fun Today(hifz: Hifz, session: HifzSession, onOpenMushaf: () -> Unit) {
                 l.isEmpty() -> Text(stringResource(R.string.no_new_lesson), style = MaterialTheme.typography.bodyMedium)
                 else -> Card(
                     title = stringResource(R.string.sabaq),
-                    detail = "$surahName ${l.first()}" + (if (l.size > 1) "–${l.last().ayah}" else "") + " · " + stringResource(R.string.page_n, lessonPage ?: 0),
+                    // A reference range as the Quran is cited (2:1-5), then the page after a comma, as AOSP Dialer's CallLogEntryText.java (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java).
+                    detail = "$surahName ${l.first()}" + (if (l.size > 1) "-${l.last().ayah}" else "") + ", " + stringResource(R.string.page_n, lessonPage ?: 0),
                     action = stringResource(R.string.learn)
                 ) {
                     haptics.tick()
@@ -215,7 +218,7 @@ private fun Today(hifz: Hifz, session: HifzSession, onOpenMushaf: () -> Unit) {
             }
             if (revision.due.isNotEmpty()) {
                 PagesCard(
-                    stringResource(R.string.manzil) + if (revision.waiting > 0) " · " + pluralStringResource(R.plurals.more_next_days, revision.waiting, revision.waiting) else "",
+                    stringResource(R.string.manzil) + if (revision.waiting > 0) ", " + pluralStringResource(R.plurals.more_next_days, revision.waiting, revision.waiting) else "",
                     revision.due
                 ) { p -> scope.launch { session.startRevision(p); onOpenMushaf() } }
             }
@@ -333,7 +336,7 @@ private fun Slipped(hifz: Hifz, session: HifzSession, onOpenMushaf: () -> Unit) 
                         Column(Modifier.weight(1f)) {
                             Text("$surah ${s.key}", style = MaterialTheme.typography.titleSmall)
                             Text(
-                                pluralStringResource(R.plurals.slipped_times, s.count, s.count) + " · " + stringResource(R.string.page_n, page),
+                                pluralStringResource(R.plurals.slipped_times, s.count, s.count) + ", " + stringResource(R.string.page_n, page),
                                 style = MaterialTheme.typography.bodySmall,
                                 color = MaterialTheme.colorScheme.onSurfaceVariant
                             )

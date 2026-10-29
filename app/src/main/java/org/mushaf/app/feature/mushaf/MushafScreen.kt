@@ -254,6 +254,9 @@ fun MushafScreen(
         val zoom = remember { PageZoom() }
         LaunchedEffect(pager.currentPage) { zoom.reset() }
         val current = pager.currentPage * perItem + 1
+        // A phone on its side scrolls each page (one page to an item then): its scroll state is kept by page number,
+        // so a drag on the floating header scrolls the page in view.
+        val pageScrolls = remember { HashMap<Int, androidx.compose.foundation.ScrollState>() }
         val settled = !pager.isScrollInProgress
         val dark = MaterialTheme.colorScheme.background.luminance() < 0.5f
         // Cream: the warm paper and brown-black ink of a printed mushaf (a warm dusk in the dark).
@@ -325,6 +328,7 @@ fun MushafScreen(
 
         FloatingFrame(
             bottom = 0.dp,
+            scroll = if (scrolled) pageScrolls.getOrPut(current) { androidx.compose.foundation.ScrollState(0) } else null,
             top = {
                 AnimatedVisibility(
                     visible = chrome,
@@ -554,7 +558,7 @@ fun MushafScreen(
                                         // status bar and the last stays reachable above the gesture bar, while the page
                                         // itself scrolls to the screen's edges (insets doc, as for a LazyColumn's contentPadding).
                                         .then(
-                                            if (scrolled) Modifier.verticalScroll(rememberScrollState()).padding(
+                                            if (scrolled) Modifier.verticalScroll(pageScrolls.getOrPut(n) { androidx.compose.foundation.ScrollState(0) }).padding(
                                                 top = bars.calculateTopPadding() + if (settings.airy) 14.dp else 8.dp,
                                                 bottom = bars.calculateBottomPadding() + if (settings.airy) 14.dp else 8.dp
                                             ) else Modifier
@@ -638,10 +642,10 @@ private fun PagePill(page: Int, second: Int?, juz: Int?, quarter: Int?, modifier
         val place = buildList {
             juz?.let { add(stringResource(R.string.juz_n, it)) }
             quarter?.let { add(hizbLabel(it)) }
-        }.joinToString(" · ")
+        }.joinToString(", ") // as AOSP Dialer's CallLogEntryText.java joinSecondaryTextComponents (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java)
         Box(Modifier.fillMaxSize().padding(horizontal = 18.dp), contentAlignment = Alignment.Center) {
             Text(
-                if (place.isEmpty()) pages else "$pages · $place",
+                if (place.isEmpty()) pages else "$pages, $place",
                 style = MaterialTheme.typography.labelLarge,
                 maxLines = 1,
                 overflow = TextOverflow.Ellipsis

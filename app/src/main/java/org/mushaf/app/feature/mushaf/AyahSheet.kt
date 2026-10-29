@@ -166,7 +166,8 @@ fun AyahSheet(
                     Spacer(Modifier.size(12.dp))
                 }
                 Text(
-                    if (sajdah) reference + " · ۩ " + stringResource(R.string.sajdah) else reference,
+                    // The sign after a comma, as AOSP Dialer's CallLogEntryText.java joins its parts (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java).
+                    if (sajdah) reference + ", ۩ " + stringResource(R.string.sajdah) else reference,
                     style = MaterialTheme.typography.labelLarge,
                     color = MaterialTheme.colorScheme.primary
                 )

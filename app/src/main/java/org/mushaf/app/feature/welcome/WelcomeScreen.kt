@@ -133,7 +133,8 @@ fun WelcomeScreen(onFinish: () -> Unit) {
                     points = listOf(stringResource(R.string.changeable_in_settings))
                 ) {
                     Choices(
-                        Riwayah.entries.map { it to "${it.label} · ${it.arabic}" },
+                        // Name and Arabic name joined with a comma, as AOSP Dialer's CallLogEntryText.java (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java).
+                        Riwayah.entries.map { it to "${it.label}, ${it.arabic}" },
                         settings.riwayah
                     ) { r -> scope.launch { riwayat.change(r) } }
                     if (settings.riwayah == Riwayah.HAFS) Choices(

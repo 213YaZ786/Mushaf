@@ -85,13 +85,15 @@ fun PlayScreen(onBack: () -> Unit, onOpenSurah: (Int) -> Unit) {
     val meta by produceState(quran.metaNow, quran) { value = quran.meta() }
     val names = remember { FontFamily(Font(R.font.surah_names)) }
 
+    val pageScroll = rememberScrollState()
     FloatingFrame(
         bottom = 0.dp,
+        scroll = pageScroll,
         top = { FloatingTop(stringResource(R.string.games), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         // The surah grid takes most of a wide screen: more surahs at a glance.
         Column(
-            Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = LocalReadableInset.current / 4)
+            Modifier.fillMaxSize().verticalScroll(pageScroll).padding(horizontal = LocalReadableInset.current / 4)
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding()))
             // Who is playing: each child has their own stars.

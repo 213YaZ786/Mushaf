@@ -119,12 +119,14 @@ fun TestScreen(onBack: () -> Unit) {
         if (complete) { haptics.done(); right++; asked++; shown = true; recite.stop() }
     }
 
+    val pageScroll = rememberScrollState()
     FloatingFrame(
         bottom = 0.dp,
+        scroll = pageScroll,
         top = { FloatingTop(stringResource(R.string.continue_ayah), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         Column(
-            Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = LocalReadableInset.current + 16.dp)
+            Modifier.fillMaxSize().verticalScroll(pageScroll).padding(horizontal = LocalReadableInset.current + 16.dp)
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding() + 8.dp))
             if (q == null) {

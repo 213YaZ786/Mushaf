@@ -51,7 +51,7 @@
     </plurals>
     <string name="translations_more">more than 380 in about 100 languages</string>
     <string name="text_size_detail">menus and translations</string>
-    <string name="about_summary">Version %1$s · sources and credits</string>
+    <string name="about_summary">Version %1$s, sources and credits</string>
     <string name="your_data">Your data</string>
     <string name="backup">Back up</string>
     <string name="backup_detail">Bookmarks, notes, collections, hifz, khatmah, the children\'s stars and the settings, in one file you keep</string>
@@ -114,9 +114,9 @@
         <item quantity="one">Slipped once</item>
         <item quantity="other">Slipped %d times</item>
     </plurals>
-    <string name="downloading_model_progress">Downloading the speech model · %1$d of 80 MB</string>
-    <string name="lesson_range">Lesson · %1$s–%2$d</string>
-    <string name="revision_page">Revision · page %1$d</string>
+    <string name="downloading_model_progress">Downloading the speech model, %1$d of 80 MB</string>
+    <string name="lesson_range">Lesson, %1$s to %2$d</string>
+    <string name="revision_page">Revision, page %1$d</string>
     <string name="source_code">Source code</string>
     <string name="source_code_detail">MIT licence, on GitHub</string>
     <string name="sources">Sources</string>
@@ -201,7 +201,7 @@
     <string name="revision_done">Revision done for today.</string>
     <string name="words_slipped">Words that slipped</string>
     <string name="what_comes_after">What comes after this ayah?</string>
-    <string name="test_score">%1$d of %2$d recited whole · what comes after this ayah?</string>
+    <string name="test_score">%1$d of %2$d recited whole, what comes after this ayah?</string>
     <string name="sajdah">Sajdah</string>
     <string name="surahs">Surahs</string>
     <string name="meccan">Meccan</string>
@@ -219,7 +219,7 @@
     </plurals>
     <string name="page_title">Page %1$d</string>
     <string name="open_the_page">Open the page</string>
-    <string name="hizb_juz">Hizb %1$d · Juz %2$d</string>
+    <string name="hizb_juz">Hizb %1$d, Juz %2$d</string>
     <string name="again_and_again">Again and again</string>
     <string name="once">Once</string>
     <plurals name="n_times">
@@ -229,7 +229,7 @@
     <string name="stops_surah_end">stops at the surah\'s end</string>
     <string name="stops_in_min">stops in %1$d min</string>
     <string name="n_min">%1$d min</string>
-    <string name="note_n">Note · %1$s</string>
+    <string name="note_n">Note, %1$s</string>
     <string name="no_similar_known">None of the ayat you know reads like another.</string>
     <string name="similar_hafs_only">Similar ayat are listed for the Hafs mushaf.</string>
     <string name="no_similar">No similar ayat here</string>
@@ -272,9 +272,9 @@
     <string name="remove_bookmark">Remove bookmark</string>
     <string name="bookmark">Bookmark</string>
     <string name="show_in_mushaf">Show in the mushaf</string>
-    <string name="no_connection_word">%1$s · no connection to hear it</string>
+    <string name="no_connection_word">%1$s, no connection to hear it</string>
     <string name="repeat_from_to">Repeat from %1$s to</string>
-    <string name="share_caption">%1$s · Mushaf</string>
+    <string name="share_caption">%1$s, Mushaf</string>
     <string name="note_on">Note on %1$s</string>
     <plurals name="n_days">
         <item quantity="one">%d day</item>
@@ -286,10 +286,10 @@
         <item quantity="one">The whole Quran read in one day.</item>
         <item quantity="other">The whole Quran read in %d days.</item>
     </plurals>
-    <string name="khatmah_progress">Day %1$d of %2$d · %3$d of %4$d pages read</string>
+    <string name="khatmah_progress">Day %1$d of %2$d, %3$d of %4$d pages read</string>
     <string name="today_done_next">Today\'s pages are read. Next: page %1$d, %2$s.</string>
     <string name="today_page">Today: page %1$d, %2$s.</string>
-    <string name="today_pages">Today: pages %1$d–%2$d, from %3$s.</string>
+    <string name="today_pages">Today: pages %1$d to %2$d, from %3$s.</string>
     <string name="go_to_page">Go to page %1$d</string>
     <string name="streak_none">Turn a page to start a streak.</string>
     <plurals name="days_read_in_row">
@@ -298,15 +298,15 @@
     </plurals>
     <string name="offer_recitation">%1$s\'s recitation of the whole Quran, kept on the phone to listen without a connection. It downloads in the background.</string>
     <string name="offer_recitation_wifi">%1$s\'s recitation of the whole Quran, kept on the phone to listen without a connection. It downloads in the background, on Wi-Fi.</string>
-    <string name="pages_range">Pages %1$d–%2$d</string>
+    <string name="pages_range">Pages %1$d to %2$d</string>
     <string name="hizb_n">Hizb %1$d</string>
     <string name="hizb_quarter">¼ Hizb %1$d</string>
     <string name="hizb_half">½ Hizb %1$d</string>
     <string name="hizb_three_quarters">¾ Hizb %1$d</string>
     <string name="everything_in_use_detail">The mushaf\'s pages, %1$s\'s recitation and the tafsir you read, kept on the phone.</string>
-    <string name="pack_downloading">Downloading · %1$d of %2$d</string>
-    <string name="pack_stopped">Stopped · %1$d of %2$d kept · try again</string>
-    <string name="pack_kept">%1$d of %2$d kept · %3$s</string>
+    <string name="pack_downloading">Downloading, %1$d of %2$d</string>
+    <string name="pack_stopped">Stopped, %1$d of %2$d kept, try again</string>
+    <string name="pack_kept">%1$d of %2$d kept, %3$s</string>
     <string name="hear_word">Hear the word</string>
     <string name="listen_from_here">Listen from here</string>
     <string name="repeat_passage">Repeat a passage</string>
@@ -360,7 +360,7 @@
     <string name="finish">Finish</string>
     <string name="keep">Keep</string>
     <string name="childs_name_of">%1$s\'s name</string>
-    <string name="amma_stars">Juz \'Amma · %1$d of %2$d stars</string>
+    <string name="amma_stars">Juz \'Amma, %1$d of %2$d stars</string>
     <string name="remove_q">Remove %1$s?</string>
     <string name="listen_detail_warsh">Sheikh al-Husary recites an ayah, then it is your turn.</string>
     <string name="ayah_n_of">Ayah %1$d of %2$d</string>
@@ -370,11 +370,11 @@
     <string name="well_done_surah">Well done, the whole surah!</string>
     <string name="offer_tafsir">%1$s for the whole Quran, kept on the phone so it opens without a connection. It downloads in the background.</string>
     <string name="offer_tafsir_wifi">%1$s for the whole Quran, kept on the phone so it opens without a connection. It downloads in the background, on Wi-Fi.</string>
-    <string name="tafsir_of">Tafsir · %1$s %2$s</string>
-    <string name="another_book">%1$s · another book</string>
-    <string name="via_quran_com">%1$s · via Quran.com</string>
-    <string name="translation_failed">%1$s · could not be fetched, try again</string>
-    <string name="widget_today_pages">Today p. %1$d–%2$d</string>
+    <string name="tafsir_of">Tafsir, %1$s %2$s</string>
+    <string name="another_book">%1$s, another book</string>
+    <string name="via_quran_com">%1$s, via Quran.com</string>
+    <string name="translation_failed">%1$s, could not be fetched, try again</string>
+    <string name="widget_today_pages">Today p. %1$d to %2$d</string>
     <string name="widget_today_page">Today p. %1$d</string>
     <plurals name="days_in_row">
         <item quantity="one">%d day read</item>
@@ -438,8 +438,8 @@
     <string name="style_warsh">Warsh</string>
     <string name="model_offer_text">The phone listens while you recite: it shows each word as you say it, or finds the ayah you recited. It needs Tarteel\'s Quran speech model, about 80 MB, kept on the phone. What you recite never leaves it.</string>
     <plurals name="today_streak">
-        <item quantity="one">Today · %d day in a row</item>
-        <item quantity="other">Today · %d days in a row</item>
+        <item quantity="one">Today, %d day in a row</item>
+        <item quantity="other">Today, %d days in a row</item>
     </plurals>
     <plurals name="words_passed_again">
         <item quantity="one">%d word passed over. Again?</item>

@@ -129,7 +129,7 @@ fun HifzPane(session: Session, words: List<Word>, modifier: Modifier = Modifier)
             }
             if (similar.isNotEmpty()) {
                 Text(
-                    stringResource(R.string.similar_prefix) + similar.joinToString(" · "),
+                    stringResource(R.string.similar_prefix) + similar.joinToString(", "), // as AOSP Dialer's CallLogEntryText.java joinSecondaryTextComponents (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java)
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.primary,
                     modifier = Modifier.padding(top = 4.dp)

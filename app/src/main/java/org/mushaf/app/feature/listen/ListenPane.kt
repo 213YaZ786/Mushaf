@@ -116,7 +116,7 @@ fun ListenPane(modifier: Modifier = Modifier) {
                                     Sleep.SurahEnd -> stringResource(R.string.stops_surah_end)
                                     is Sleep.At -> stringResource(R.string.stops_in_min, left)
                                 }
-                            ).joinToString(" · ")
+                            ).joinToString(", ") // as AOSP Dialer's CallLogEntryText.java joinSecondaryTextComponents (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java)
                             else -> stringResource(R.string.starting)
                         },
                         style = MaterialTheme.typography.bodyMedium,

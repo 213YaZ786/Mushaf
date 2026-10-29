@@ -197,7 +197,8 @@ private fun DaysRead() {
         best.takeIf { it > 1 }?.let { pluralStringResource(R.plurals.best_streak, it, it) },
         settings.khatmahsDone.takeIf { it > 0 }?.let { pluralStringResource(R.plurals.khatmahs_done, it, it) }
     )
-    Text(stats.joinToString(" · "), style = MaterialTheme.typography.bodySmall, color = scheme.onSurfaceVariant)
+    // Joined with a comma, as AOSP Dialer's CallLogEntryText.java joinSecondaryTextComponents (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java).
+    Text(stats.joinToString(", "), style = MaterialTheme.typography.bodySmall, color = scheme.onSurfaceVariant)
     // The Hijri months these weeks fall in.
     Text(
         remember(weeks, locale) { Hijri.months(weeks.first().first(), weeks.last().last(), locale) },

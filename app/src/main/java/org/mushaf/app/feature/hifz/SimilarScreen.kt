@@ -80,8 +80,10 @@ fun SimilarScreen(onBack: () -> Unit, onOpen: (AyahKey) -> Unit) {
         value = out
     }
 
+    val listState = androidx.compose.foundation.lazy.rememberLazyListState()
     FloatingFrame(
         bottom = 0.dp,
+        scroll = listState,
         top = { FloatingTop(stringResource(R.string.similar_ayat), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) }) }
     ) { padding ->
         val list = pairs
@@ -98,6 +100,7 @@ fun SimilarScreen(onBack: () -> Unit, onOpen: (AyahKey) -> Unit) {
                 )
             }
             else -> LazyColumn(
+                state = listState,
                 contentPadding = PaddingValues(
                     top = padding.calculateTopPadding() + 8.dp,
                     start = LocalReadableInset.current + 12.dp,

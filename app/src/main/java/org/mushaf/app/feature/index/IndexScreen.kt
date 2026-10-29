@@ -213,8 +213,12 @@ fun IndexScreen(onBack: () -> Unit) {
         onBack()
     }
 
+    // The lists' scroll states, kept here so a drag on the floating header scrolls the list in view.
+    val partList = rememberLazyListState()
+    val searchList = rememberLazyListState()
     FloatingFrame(
         bottom = 0.dp,
+        scroll = if ((heard != null && query.isBlank()) || found != null) searchList else partList,
         top = {
             FloatingTop(stringResource(R.string.index), leading = { FloatingAction(AppIcons.ArrowBack, stringResource(R.string.back), onBack) })
             EvenRows(Modifier.padding(horizontal = 16.dp).padding(bottom = 8.dp), minSlot = 64.dp) {
@@ -255,7 +259,7 @@ fun IndexScreen(onBack: () -> Unit) {
         val m = meta ?: return@FloatingFrame
         if (part == Part.HIZB && m.quarters.isEmpty()) part = Part.JUZ
         val inset = LocalReadableInset.current
-        val list = rememberLazyListState()
+        val list = partList
         // Opens on the place being read.
         LaunchedEffect(part) {
             val index = when (part) {
@@ -268,13 +272,13 @@ fun IndexScreen(onBack: () -> Unit) {
         }
         heard?.let { (text, hits) ->
             if (query.isBlank()) {
-                SearchResults(hits, text.ifBlank { stringResource(R.string.nothing_heard) }, m, padding, inset, open, openAyah)
+                SearchResults(hits, text.ifBlank { stringResource(R.string.nothing_heard) }, m, padding, inset, open, openAyah, searchList)
                 return@FloatingFrame
             }
         }
         val results = found
         if (results != null) {
-            SearchResults(results, query, m, padding, inset, open, openAyah)
+            SearchResults(results, query, m, padding, inset, open, openAyah, searchList)
             return@FloatingFrame
         }
         LazyColumn(
@@ -294,7 +298,7 @@ fun IndexScreen(onBack: () -> Unit) {
                     PlaceRow(
                         number = j.n,
                         title = stringResource(R.string.juz_n, j.n),
-                        detail = "${surah.title} ${j.ayah.surah}:${j.ayah.ayah} · " + stringResource(R.string.page_n, j.page),
+                        detail = "${surah.title} ${j.ayah.surah}:${j.ayah.ayah}, " + stringResource(R.string.page_n, j.page),
                         here = page in j.page until next
                     ) { open(j.page) }
                 }
@@ -349,10 +353,12 @@ private fun SearchResults(
     padding: PaddingValues,
     inset: androidx.compose.ui.unit.Dp,
     open: (Int) -> Unit,
-    openAyah: (AyahKey, Int) -> Unit
+    openAyah: (AyahKey, Int) -> Unit,
+    state: androidx.compose.foundation.lazy.LazyListState
 ) {
     val hafs = quranFont()
     LazyColumn(
+        state = state,
         contentPadding = PaddingValues(top = padding.calculateTopPadding() + 8.dp, start = inset + 12.dp, end = inset + 12.dp, bottom = 24.dp),
         verticalArrangement = Arrangement.spacedBy(8.dp),
         modifier = Modifier.fillMaxSize()
@@ -371,7 +377,7 @@ private fun SearchResults(
                 is Found.Ayah -> ZoneSurface(shape = RoundedCornerShape(22.dp), onClick = { openAyah(r.key, r.page) }, modifier = Modifier.fillMaxWidth()) {
                     Column(Modifier.padding(horizontal = 16.dp, vertical = 12.dp)) {
                         Text(
-                            "${m.surahs[r.key.surah - 1].title} ${r.key} · " + stringResource(R.string.page_n, r.page),
+                            "${m.surahs[r.key.surah - 1].title} ${r.key}, " + stringResource(R.string.page_n, r.page),
                             style = MaterialTheme.typography.labelLarge,
                             color = MaterialTheme.colorScheme.primary
                         )
@@ -453,7 +459,7 @@ private fun SurahRow(s: Surah, hafs: FontFamily, here: Boolean, onClick: () -> U
             Column(Modifier.weight(1f).padding(horizontal = 14.dp)) {
                 Text(s.title, style = MaterialTheme.typography.titleMedium, maxLines = 1, overflow = TextOverflow.Ellipsis)
                 Text(
-                    listOfNotNull(s.meaningHere, pluralStringResource(R.plurals.surah_ayat, s.ayat, s.ayat), stringResource(if (s.meccan) R.string.meccan else R.string.medinan)).joinToString(" · "),
+                    listOfNotNull(s.meaningHere, pluralStringResource(R.plurals.surah_ayat, s.ayat, s.ayat), stringResource(if (s.meccan) R.string.meccan else R.string.medinan)).joinToString(", "), // as AOSP Dialer's CallLogEntryText.java joinSecondaryTextComponents (https://android.googlesource.com/platform/packages/apps/Dialer/+/refs/heads/main/java/com/android/dialer/calllogutils/CallLogEntryText.java)
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                     maxLines = 1,
@@ -511,7 +517,7 @@ private fun HizbRow(hizb: Int, m: QuranMeta, page: Int, open: (Int) -> Unit) {
                     ) {
                         Column {
                             Text(hizbLabel(q.n), style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary)
-                            Text("${surah.title} ${q.key} · " + stringResource(R.string.page_n, q.page), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                            Text("${surah.title} ${q.key}, " + stringResource(R.string.page_n, q.page), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
                         }
                     }
                 }
