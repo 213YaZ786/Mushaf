@@ -295,7 +295,8 @@ private fun PageContent(
                 Icon(icon, contentDescription = null, tint = MaterialTheme.colorScheme.onPrimaryContainer, modifier = Modifier.size(40.dp))
             }
         }
-        Text(title, style = MaterialTheme.typography.headlineSmall, textAlign = TextAlign.Center, modifier = Modifier.semantics { heading() })
+        // Every title in the accent (the user, 2026-10-31), as Modules' SettingsSectionTitle.
+        Text(title, style = MaterialTheme.typography.headlineSmall, color = MaterialTheme.colorScheme.primary, textAlign = TextAlign.Center, modifier = Modifier.semantics { heading() })
         Text(intro, style = MaterialTheme.typography.bodyLarge, textAlign = TextAlign.Center)
         Column(Modifier.fillMaxWidth(), verticalArrangement = Arrangement.spacedBy(8.dp)) { choice() }
         Column(Modifier.fillMaxWidth(), verticalArrangement = Arrangement.spacedBy(12.dp)) { points.forEach { Point(it) } }

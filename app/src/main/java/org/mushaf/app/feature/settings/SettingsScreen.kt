@@ -93,7 +93,7 @@ private object AppLanguage {
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslations: () -> Unit, onOpenOffline: () -> Unit, onOpenGuide: () -> Unit) {
+fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslations: () -> Unit, onOpenOffline: () -> Unit) {
     val store: SettingsStore = koinInject()
     val fonts: PageFonts = koinInject()
     val settings by store.settings.collectAsState()
@@ -249,7 +249,6 @@ fun SettingsScreen(onBack: () -> Unit, onOpenAbout: () -> Unit, onOpenTranslatio
                     SettingRow(stringResource(R.string.language), APP_LANGUAGES.firstOrNull { it.first == tag }?.second ?: stringResource(R.string.language_system), onClick = { dialog = OpenDialog.LANGUAGE })
                 }
                 SettingRow(stringResource(R.string.updates), updatesLabel(settings.updates), onClick = { dialog = OpenDialog.UPDATES })
-                SettingRow(stringResource(R.string.guide), stringResource(R.string.guide_detail), onClick = onOpenGuide)
                 SettingRow(stringResource(R.string.about), stringResource(R.string.about_summary, BuildConfig.VERSION_NAME), onClick = onOpenAbout)
             }
 

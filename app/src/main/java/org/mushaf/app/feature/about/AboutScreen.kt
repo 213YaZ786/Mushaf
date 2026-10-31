@@ -27,7 +27,7 @@ import org.mushaf.app.ui.icon.AppIcons
 
 /** Where the text, the fonts, the meanings and the recitations come from. */
 @Composable
-fun AboutScreen(onBack: () -> Unit) {
+fun AboutScreen(onBack: () -> Unit, onGuide: () -> Unit) {
     val uri = LocalUriHandler.current
     val pageScroll = rememberScrollState()
     FloatingFrame(
@@ -43,6 +43,8 @@ fun AboutScreen(onBack: () -> Unit) {
         ) {
             Spacer(Modifier.height(padding.calculateTopPadding()))
             Section(stringResource(R.string.about_version, BuildConfig.VERSION_NAME)) {
+                // The same first row in every app, as Dialer's "Guide" tile (YAZ/Dialer feature/settings/SettingsScreen.kt) and Store's (onGuide); the texts are the translated ones Settings had.
+                SettingRow(stringResource(R.string.guide), stringResource(R.string.guide_detail), onClick = onGuide)
                 SettingRow(stringResource(R.string.source_code), stringResource(R.string.source_code_detail), onClick = { uri.openUri("https://github.com/213YaZ786/Mushaf") })
             }
             Section(stringResource(R.string.sources)) {

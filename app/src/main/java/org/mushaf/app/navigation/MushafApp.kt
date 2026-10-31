@@ -188,13 +188,12 @@ fun MushafApp() {
                     onBack = { navController.popBackStack() },
                     onOpenAbout = { navController.navigate(Routes.ABOUT) },
                     onOpenTranslations = { navController.navigate(Routes.TRANSLATIONS) },
-                    onOpenOffline = { navController.navigate(Routes.OFFLINE) },
-                    onOpenGuide = { navController.navigate(Routes.WELCOME) }
+                    onOpenOffline = { navController.navigate(Routes.OFFLINE) }
                 )
             }
         }
         composable(Routes.ABOUT) {
-            ReadableScroll { AboutScreen(onBack = { navController.popBackStack() }) }
+            ReadableScroll { AboutScreen(onBack = { navController.popBackStack() }, onGuide = { navController.navigate(Routes.WELCOME) }) }
         }
     }
     // After the NavHost, so it takes the back gesture before the NavHost's own.
