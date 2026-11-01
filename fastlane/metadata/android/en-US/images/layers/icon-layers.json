@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "ground": {"day": "system_accent1_50", "night": "system_neutral1_800"},
+  "layers": [
+    {"png": "mushaf_shadow.png", "sha256": "c1813854f504e8e5dd5fd51287cbf50ef2af534a34d7cfdc70001443d2b4e1f8"},
+    {"png": "mushaf_medal.png", "sha256": "10d0129cffa02f639966f2644a23d317927a2fb0ed44150acf9ae5d9258e6eff", "day": "system_accent1_400", "night": "system_accent1_300"},
+    {"png": "mushaf_letters.png", "sha256": "3263a7febf9dc42632d516af04e956e65cf6ff2743873090d796f36c67c652e9", "day": "system_accent1_50", "night": "system_neutral1_800"},
+    {"png": "mushaf_sheen.png", "sha256": "418b51cff03d486e6abbd2952d2aaafa7d729b2163c2ae4396c6a6e96534017f"}
+  ]
+}
